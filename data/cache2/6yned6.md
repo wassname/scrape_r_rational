@@ -2,7 +2,7 @@
 
 * Author: u/Bowbreaker  *Solitary Locust**
 * URL: https://www.reddit.com/r/rational/comments/6yned6/angel_valkyrie_witch_devil_renamed_the_world_as/
-* Score: 16
+* Score: 14
 
 * Created: 2017-09-07T14:04:19
 
@@ -16,16 +16,15 @@ In case some of you don't know what this is, it's a pretty rational Overwatch fa
 
 ### Comments:
 
-> **u/Lugnut1206** [+4] *
+> **u/Lugnut1206** [+4]  (5 hours later)
 > 
 > wait he did cordyceps?
-> no wonder it's so good
 > 
+> no wonder it's so good
 
-> **u/Airgineer1** [+1] *
+> **u/Airgineer1** [+1]  (11 hours later)
 > 
 > This story is great, good to see another chapter.
-> 
 
 ---
 

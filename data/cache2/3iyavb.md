@@ -12,522 +12,518 @@
 
 ### Comments:
 
-> **u/None** [+13] *
+> **u/None** [+12]  (an hour later)
 > 
 > Brilliant. Definitely had some shock impact from how suddenly and all over the place it descended into violence. 
-> I was much entertained by how serious the violence was. Definitely in a different category from the usual Naruto "and then we punched each other with Chakra and someone spat a bit of blood maybe" combat. 
-> Very excellent chapter.
 > 
+> I was much entertained by how serious the violence was. Definitely in a different category from the usual Naruto "and then we punched each other with Chakra and someone spat a bit of blood maybe" combat. 
+> 
+> Very excellent chapter.
 
->> **u/eaglejarl** [+13] *
+>> **u/eaglejarl** [+13]  (an hour later)
 >> 
 >> > and then we punched each other with Chakra and someone spat a bit of blood maybe" combat.
->> *laugh* Thank you. I figure, this is a story about ninja. These people kill for a living; if you're going to write that, write it for real.
 >> 
+>> *laugh* Thank you. I figure, this is a story about ninja. These people kill for a living; if you're going to write that, write it for real.
 
-> **u/avret** [+7]  *SDHS rationalist**
+> **u/avret** [+7]  *SDHS rationalist* (an hour later)
 > 
 > They just...what...they actually just killed 3 sound genin.
-> 
 
->> **u/eaglejarl** [+5] *
+>> **u/eaglejarl** [+5]  (an hour later)
 >> 
 >> Yep.
->> 
 
->>> **u/avret** [+3]  *SDHS rationalist**
+>>> **u/avret** [+5]  *SDHS rationalist* (2 hours later)
 >>> 
 >>> That seems like a rather large escalation, though perhaps(actually, it's entirely likely) I'm misremembering the earlier interactions.
->>> 
 
->>>> **u/None** [+8] *
+>>>> **u/None** [+10]  (2 hours later)
 >>>> 
 >>>> They were attacked with deadly intent. 
->>>> Hell, one of Naruto's solid sapient clones was killed stone dead. Doesn't matter if it *turned out* to be a clone; at that moment in time the enemy attempted and seemingly succeeded in killing him. 
->>>> The sound genin bit off more then they could chew, is all. I don't see Lord Orochimort putting up much of a fuss over it, especially since they violated his orders of "no kill jinchuuriki or hyuuga brood mare".
 >>>> 
+>>>> Hell, one of Naruto's solid sapient clones was killed stone dead. Doesn't matter if it *turned out* to be a clone; at that moment in time the enemy attempted and seemingly succeeded in killing him. 
+>>>> 
+>>>> The sound genin bit off more then they could chew, is all. I don't see Lord Orochimort putting up much of a fuss over it, especially since they violated his orders of "no kill jinchuuriki or hyuuga brood mare".
 
->>>>> **u/eaglejarl** [+7] *
+>>>>> **u/eaglejarl** [+10]  (2 hours later)
 >>>>> 
 >>>>> > I don't see Lord Orochimort putting up much of a fuss over it, especially since they violated his orders of "no kill jinchuuriki or hyuuga brood mare".
->>>>> My eyes are literally watering from laughing at this; thank you.  Have a virtual cookie and an upvote.
 >>>>> 
+>>>>> My eyes are literally watering from laughing at this; thank you.  Have a virtual cookie and an upvote.
 
->>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>> **u/avret** [+1]  *SDHS rationalist* (2 hours later)
 >>>>> 
 >>>>> Oh, I wasn't saying that the Konoha nin were escalating, I had forgotten pieces of the last interaction and thought that the sound genin were.
->>>>> 
 
->>>>>> **u/eaglejarl** [+3] *
+>>>>>> **u/eaglejarl** [+5]  (2 hours later)
 >>>>>> 
 >>>>>> Oh, most definitely.  Team Kaiya were vindictive sore losers who went *way* beyond what they should have done.
->>>>>> 
 
->>>>>>> **u/avret** [+5]  *SDHS rationalist**
+>>>>>>> **u/avret** [+4]  *SDHS rationalist* (2 hours later)
 >>>>>>> 
 >>>>>>> Stuff like this is why I can't take canon's '5 year old chunin itachi seriously.'  I mean, he'd have one argument with sasuke and they'd never find sasuke's body.
->>>>>>> 
 
->>>>>>>> **u/eaglejarl** [+5] *
+>>>>>>>> **u/eaglejarl** [+3]  (3 hours later)
 >>>>>>>> 
 >>>>>>>> No argument from me. The ages are just baloney all the way around.
->>>>>>>> 
 
->>>>>>>>> **u/Solonarv** [+1]  *Chaos Legion**
+>>>>>>>>> **u/Solonarv** [+1]  *Chaos Legion* (a day later)
 >>>>>>>>> 
 >>>>>>>>> They're not just baloney, *canon contradicts itself*. I remember seeing something about Anko's, Kakashi's and Itachi's ages lining up in a certain way -- or, well, *not* lining up.
->>>>>>>>> 
 
->>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Yeah.  Kakashi is a great example:
+>>>>>>>>>> 
 >>>>>>>>>> * Age 4 (!), entered Academy
 >>>>>>>>>> * Age 5, graduated from the normally-4-year Academy program after one year 
 >>>>>>>>>> * Age 6, became chunin (!)
 >>>>>>>>>> * Age 12, became jonin.  Note that this is when most kids graduate from the Academy and become genin.
->>>>>>>>>> The wiki then says:
->>>>>>>>>> > **Despite having gone on several missions,** Kakashi's persistent desire to follow the rules and complete his mission put him at odds with whatever team he was assigned to.
->>>>>>>>>> > Eventually, Kakashi was assigned to join a team alongside Obito Uchiha and Rin Nohara under Minato Namikaze's command. **They were given a final test to earn their full genin status;** take one of two bells from Minato. 
->>>>>>>>>> So, he went on several missions, *then* was assigned to Minato's team, *then* became a genin.  So, he wasn't a genin when he went on those first few missions?
 >>>>>>>>>> 
+>>>>>>>>>> The wiki then says:
+>>>>>>>>>> 
+>>>>>>>>>> > **Despite having gone on several missions,** Kakashi's persistent desire to follow the rules and complete his mission put him at odds with whatever team he was assigned to.
+>>>>>>>>>> 
+>>>>>>>>>> > Eventually, Kakashi was assigned to join a team alongside Obito Uchiha and Rin Nohara under Minato Namikaze's command. **They were given a final test to earn their full genin status;** take one of two bells from Minato. 
+>>>>>>>>>> 
+>>>>>>>>>> So, he went on several missions, *then* was assigned to Minato's team, *then* became a genin.  So, he wasn't a genin when he went on those first few missions?
 
->>>>>>>>>>> **u/eltegid** [+1] *
+>>>>>>>>>>> **u/eltegid** [+1]  (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> The bell test of previous generations is NOT shown in the manga. I don't know about the anime. It's likely filler episodes... The manga does not have so many of these inconsistencies, I'd say
->>>>>>>>>>> (Absurdities yes, it does have quite a few. But not so many glaring holes in self-consistency as you seem to notice from the wiki)
 >>>>>>>>>>> 
+>>>>>>>>>>> (Absurdities yes, it does have quite a few. But not so many glaring holes in self-consistency as you seem to notice from the wiki)
 
->>>> **u/eaglejarl** [+10] *
+>>>> **u/eaglejarl** [+9]  (2 hours later)
 >>>> 
 >>>> Their first interaction was when Orochimaru tasked them to spar with Team Anko while Naruto was in the hospital.  Shino and Hinata took Ichiro down in seconds; Team Kaiya got some licks in, especially against Hinata, but both went down within a couple of minutes.  Shino got furious when he saw Nariko smash Hinata into a tree several times; after he took Nariko down, he kicked her ribs in and then shoved an explosive tag in her mouth with full intent to blow her head off.  Fortunately, Anko stopped him.  To add insult to injury, Hinata even kept one of Nariko's chakra ribbons as a trophy.
->>>> Their second interaction was when Ichiro stalked Hinata and Naruto and pulled out a bow as though to shoot from ambush.  Hinata saw it and the two of them ran.
->>>> Team Kaiya has been stalking the team for several weeks and putting enormous time and resources into setting up a lethal ambush which partially succeeded--Naruto's clone was killed.  The team was pretty much working on a "once is fun, twice you're done" model.
 >>>> 
+>>>> Their second interaction was when Ichiro stalked Hinata and Naruto and pulled out a bow as though to shoot from ambush.  Hinata saw it and the two of them ran.
+>>>> 
+>>>> Team Kaiya has been stalking the team for several weeks and putting enormous time and resources into setting up a lethal ambush which partially succeeded--Naruto's clone was killed.  The team was pretty much working on a "once is fun, twice you're done" model.
 
->>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (13 hours later)
 >>>>> 
 >>>>> > once is fun, twice you're done
->>>>> Genius. The romance in the recent chapters is really grating to me, but ruthlessness makes up for it.
 >>>>> 
+>>>>> Genius. The romance in the recent chapters is really grating to me, but ruthlessness makes up for it.
 
->>>>>> **u/eaglejarl** [+3] *
+>>>>>> **u/eaglejarl** [+3]  (13 hours later)
 >>>>>> 
 >>>>>> Is it that you don't like romance at all, or that you don't like the way it's done in this story?
->>>>>> Tangent: I'm a bit surprised no one has commented on the bodice-ripper section yet. Here I thought I was being over the top parodying the genre, and apparently it wasn't even noticed. *sadness*
 >>>>>> 
+>>>>>> Tangent: I'm a bit surprised no one has commented on the bodice-ripper section yet. Here I thought I was being over the top parodying the genre, and apparently it wasn't even noticed. *sadness*
 
->>>>>>> **u/Transfuturist** [+7]  *Carthago delenda est.**
+>>>>>>> **u/Transfuturist** [+8]  *Carthago delenda est.* (15 hours later)
 >>>>>>> 
 >>>>>>> They're twelve-year-olds, and while that doesn't preclude juvenile romance, males typically are just beginning puberty by then. It might not even be a problem with your depiction, I might just not be able to stand preteen romance. But throwing around declarations of love, the angry drama surrounding Shino (Isn't the entire point of their current plan to make the genin's defection believable to Orochimaru? That should not factor into Shino's jealousy.), Naruto's self-righteous pity ("sad understanding" is Dumbledore, not Naruto), the blatant tract for polyamory, it's utterly boring. They're in enemy territory, and all this romantic drama seems very out of character for their position.
->>>>>>> 
 
->>>>>>>> **u/Kishoto** [+3] *
+>>>>>>>> **u/Kishoto** [+3]  (2 days later)
 >>>>>>>> 
 >>>>>>>> I agree in some respect. I do find that the romance isn't executed terribly well, not just in this chapter, but in the story as a whole. Like, I found Anko's brief summary of her polyamory to be better than the NaruHina development in the story, which says something. I'm liking the rest though.
->>>>>>>> The romance feels almost forced in a way, particularly the NaruHina.
 >>>>>>>> 
+>>>>>>>> The romance feels almost forced in a way, particularly the NaruHina.
 
->>>>>>> **u/avret** [+3]  *SDHS rationalist**
+>>>>>>> **u/avret** [+4]  *SDHS rationalist* (14 hours later)
 >>>>>>> 
 >>>>>>> You're trying to parody a manga where oroike no jutsu downed *the frigging Hokage*.  You might have some trouble with that.
->>>>>>> 
 
->>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>> **u/eaglejarl** [+3]  (20 hours later)
 >>>>>>>> 
 >>>>>>>> *laugh*
->>>>>>>> Point taken.
 >>>>>>>> 
+>>>>>>>> Point taken.
 
->>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>> **u/avret** [+1]  *SDHS rationalist* (2 hours later)
 >>>>> 
 >>>>> Yep, I had forgotten parts of that interaction.
->>>>> 
 
-> **u/ZeroNihilist** [+9] *
+> **u/ZeroNihilist** [+7]  (6 hours later)
 > 
 > That last bit is metal as fuck.
-> I really enjoyed this chapter, although I do hope you don't pull the "that was but a clone" trick too often (at least without foreshadowing the deceit).
-> The descriptions of the combat were easily visualised, so it felt quite cinematic. Kudos.
 > 
+> I really enjoyed this chapter, although I do hope you don't pull the "that was but a clone" trick too often (at least without foreshadowing the deceit).
+> 
+> The descriptions of the combat were easily visualised, so it felt quite cinematic. Kudos.
 
->> **u/eaglejarl** [+7] *
+>> **u/eaglejarl** [+7]  (7 hours later)
 >> 
 >> > don't pull the "that was but a clone" trick too often (at least without foreshadowing the deceit).
->> Yeah, I had intended to have something in there about a flicker as she stabbed him -- the point was that a clone kawarimied with him at the last second.  Looks like I forgot to put it in, though.
->> > The descriptions of the combat were easily visualised, so it felt quite cinematic. Kudos.
->> Thanks.  My method for writing fight scenes is to visualize the whole scene as I'm doing it so that I keep track of which way people are facing, etc.  When I was writing the bit where Hinata threw knives at Sachi and Ichiro I wrote it, then realized I had her doing it with the wrong hands so I had to switch the directions.  It makes it much easier, I find.
 >> 
+>> Yeah, I had intended to have something in there about a flicker as she stabbed him -- the point was that a clone kawarimied with him at the last second.  Looks like I forgot to put it in, though.
+>> 
+>> > The descriptions of the combat were easily visualised, so it felt quite cinematic. Kudos.
+>> 
+>> Thanks.  My method for writing fight scenes is to visualize the whole scene as I'm doing it so that I keep track of which way people are facing, etc.  When I was writing the bit where Hinata threw knives at Sachi and Ichiro I wrote it, then realized I had her doing it with the wrong hands so I had to switch the directions.  It makes it much easier, I find.
 
->> **u/failed_novelty** [+9] *
+>> **u/failed_novelty** [+9]  (6 hours later)
 >> 
 >> Welcome to Naruto, where it's always a shadow clone.
->> 
 
->>> **u/Nevereatcars** [+12]  *The Greatest Is Behind**
+>>> **u/Nevereatcars** [+11]  *The Greatest Is Behind* (10 hours later)
 >>> 
 >>> Sometimes it's a log.
->>> 
 
->>>> **u/eaglejarl** [+4] *
+>>>> **u/eaglejarl** [+3]  (a day later)
 >>>> 
 >>>> That's actually the reason I created the contingent kawarimi.  There's too many cases in the anime where we *see* someone get cut in half (in silhouette), and then suddenly it's a log.
->>>> I've never explicitly stated it, but I like the idea that the contingent kawarimi is causality-breaking over a period of a millisecond or so -- you get hit and killed, and then you're alive again.
 >>>> 
+>>>> I've never explicitly stated it, but I like the idea that the contingent kawarimi is causality-breaking over a period of a millisecond or so -- you get hit and killed, and then you're alive again.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (8 hours later)
 >> 
 >> When your main technique is cloning, then there's nothing wrong with pulling "that was but a clone" whenever it's applicable.
->> 
 
->>> **u/Kishoto** [+2] *
+>>> **u/Kishoto** [+2]  (11 hours later)
 >>> 
 >>> True. But it's overdone and boring, if you don't do it well.
->>> 
 
->>>> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+5]  *Carthago delenda est.* (13 hours later)
 >>>> 
 >>>> If it is ever not a clone, you're ninjaing wrong.
->>>> 
 
->>>>> **u/Kishoto** [+4] *
+>>>>> **u/Kishoto** [+4]  (14 hours later)
 >>>>> 
 >>>>> This is less about ninjaing and more about the actual writing.
->>>>> 
 
-> **u/liamash3** [+9]  *Mizu**
+> **u/liamash3** [+6]  *Mizu* (48 minutes later)
 > 
 > Wow, got a bit dark here. I liked how you showed the characters adapting to the sound ninja's tactics, and the genjutsu user even had me fooled into thinking she'd won at first.
-
-> Wonder what will come of Shino's love confession?
 > 
+> Wonder what will come of Shino's love confession?
 
->> **u/eaglejarl** [+5] *
+>> **u/eaglejarl** [+7]  (an hour later)
 >> 
 >> > Wow, got a bit dark here.
->> Excellent. That's what I was going for. 
->> > I liked how you showed the characters adapting to the sound ninja's tactics, and the genjutsu user even had me fooled into thinking she'd won at first.
->> Eeexcellent. 
->> > Wonder what will come of Shino's love confession?
->> Chaos, destruction, despair, and cookies.
 >> 
+>> Excellent. That's what I was going for. 
+>> 
+>> > I liked how you showed the characters adapting to the sound ninja's tactics, and the genjutsu user even had me fooled into thinking she'd won at first.
+>> 
+>> Eeexcellent. 
+>> 
+>> > Wonder what will come of Shino's love confession?
+>> 
+>> Chaos, destruction, despair, and cookies.
 
-> **u/Salivanth** [+6] *
+> **u/Salivanth** [+8]  (15 hours later)
 > 
 > I want you to know that you are ruining Naruto for me.
-> I'm trying to go through Naruto in order to better understand fanfictions. I'm currently 112 episodes in, but it's getting harder and harder to watch. Because I'm reading your stuff every week or two, and unlike Time Braid / The Waves Arisen, the main characters are not super ninja. They have less power than the genin in canon Naruto have at the stage I'm up to. So I end up comparing Team Anko with the source material frequently, and the source material comes up woefully short every time.
-> Why can't we have fights like that in canon? They just stand around. Talking. And occasionally throwing attacks at each other, or making plans over the course of about ten goddamn minutes. I could deal with all the other flaws of the show if they just sped it up a bit. It's not a terrible show, but if I didn't want to read fanfiction of it, I wouldn't be interested enough to watch it. To be fair, this was the case before I started Team Anko. Team Anko just provides an easy point of comparison.
-> I wish I could just inject the memory of having watched all the episodes directly into my brain.
-> In all seriousness though, thank you for writing this. I have a very, very high barrier to enjoying a fanfic enough to follow it actively before it's completed, but this one (along with HPMOR) easily fits the bill. I love Time Braid and The Waves Arisen, but I think this'll be better than both when it's finished.
 > 
+> I'm trying to go through Naruto in order to better understand fanfictions. I'm currently 112 episodes in, but it's getting harder and harder to watch. Because I'm reading your stuff every week or two, and unlike Time Braid / The Waves Arisen, the main characters are not super ninja. They have less power than the genin in canon Naruto have at the stage I'm up to. So I end up comparing Team Anko with the source material frequently, and the source material comes up woefully short every time.
+> 
+> Why can't we have fights like that in canon? They just stand around. Talking. And occasionally throwing attacks at each other, or making plans over the course of about ten goddamn minutes. I could deal with all the other flaws of the show if they just sped it up a bit. It's not a terrible show, but if I didn't want to read fanfiction of it, I wouldn't be interested enough to watch it. To be fair, this was the case before I started Team Anko. Team Anko just provides an easy point of comparison.
+> 
+> I wish I could just inject the memory of having watched all the episodes directly into my brain.
+> 
+> In all seriousness though, thank you for writing this. I have a very, very high barrier to enjoying a fanfic enough to follow it actively before it's completed, but this one (along with HPMOR) easily fits the bill. I love Time Braid and The Waves Arisen, but I think this'll be better than both when it's finished.
 
->> **u/eaglejarl** [+7] *
+>> **u/eaglejarl** [+6]  (20 hours later)
 >> 
 >> Thank you so much, you just made my day. 
->> I couldn't make it through the anime either; I think I bailed somewhere around the bridge. I just couldn't stand how an entire episode would consist of people glaring at each other and posing, monologuing / expositing for a couple of minutes, and then MAYBE throwing one punch. Plus, Naruto's constant "believe it!"  Ugh.
 >> 
+>> I couldn't make it through the anime either; I think I bailed somewhere around the bridge. I just couldn't stand how an entire episode would consist of people glaring at each other and posing, monologuing / expositing for a couple of minutes, and then MAYBE throwing one punch. Plus, Naruto's constant "believe it!"  Ugh.
 
->>> **u/Salivanth** [+2] *
+>>> **u/Salivanth** [+2]  (21 hours later)
 >>> 
 >>> Did you read the manga, or get your knowledge of canon from reading...whatever the plural of "synopsis" is, fanfictions, and character pages? (The latter got me through Time Braid)
->>> The Wave arc (Episodes 1-19) doesn't represent the whole anime; if I hadn't been told this by /r/Naruto I wouldn't have stuck with it either. The Wave arc is absolutely terrible, and the rest of the anime so far manages to be okay at least most of the time.
->>> It still isn't worth watching if your knowledge of canon is already fine, but it's nowhere near the levels of crap that the first 19 episodes show.
 >>> 
+>>> The Wave arc (Episodes 1-19) doesn't represent the whole anime; if I hadn't been told this by /r/Naruto I wouldn't have stuck with it either. The Wave arc is absolutely terrible, and the rest of the anime so far manages to be okay at least most of the time.
+>>> 
+>>> It still isn't worth watching if your knowledge of canon is already fine, but it's nowhere near the levels of crap that the first 19 episodes show.
 
->>>> **u/eaglejarl** [+3] *
+>>>> **u/eaglejarl** [+4]  (21 hours later)
 >>>> 
 >>>> > whatever the plural of "synopsis" is, fanfictions, and character pages? (The latter got me through Time Braid)
->>>> That one. And a lot of time on the wiki. Honestly, the more I read through that, the more irritated I get.
 >>>> 
+>>>> That one. And a lot of time on the wiki. Honestly, the more I read through that, the more irritated I get.
 
->>>>> **u/Salivanth** [+5] *
+>>>>> **u/Salivanth** [+2]  (21 hours later)
 >>>>> 
 >>>>> Well, if you can understand canon from that well enough to WRITE fanfiction, I can understand it well enough to read it. You've convinced me. Viva la revolution! 
->>>>> And yeah, I can see why you wanted to tackle Naruto as a setting. It has so much wasted potential. Ignoring the "JUST ATTACK HIM ALREADY, THIS IS NOT HOW FIGHTS WORK" stuff that happens every single episode, the characters are just not even close to Level 1 Intelligent.
->>>>> The Orochimaru/Tsunade deal where Orochimaru demands Tsunade provide him with the human sacrifices is the biggest example of this I've seen, but every time I try and go into why, I end up on a multi-paragraph rant that nobody wants to read due to how obvious it would be. I'm sure you know just how stupid it is, and if you don't know the details of what happened, I'd be happy to tell you about it with copious swearing.
->>>>> Suffice it to say that it was a textbook example of what Eliezer calls Hollywood Zombie, a lack of Level 1 intelligence, a lack of any sort of brain in Orochimaru's head asking "What should I actually do to get what I want?" instead of "How do I further The Plot?"
->>>>> I have triumphantly closed the window where I was watching Naruto. I'm off to the wiki. I didn't realise how bad the show was until I didn't have to watch it any more. I'm free!
 >>>>> 
+>>>>> And yeah, I can see why you wanted to tackle Naruto as a setting. It has so much wasted potential. Ignoring the "JUST ATTACK HIM ALREADY, THIS IS NOT HOW FIGHTS WORK" stuff that happens every single episode, the characters are just not even close to Level 1 Intelligent.
+>>>>> 
+>>>>> The Orochimaru/Tsunade deal where Orochimaru demands Tsunade provide him with the human sacrifices is the biggest example of this I've seen, but every time I try and go into why, I end up on a multi-paragraph rant that nobody wants to read due to how obvious it would be. I'm sure you know just how stupid it is, and if you don't know the details of what happened, I'd be happy to tell you about it with copious swearing.
+>>>>> 
+>>>>> Suffice it to say that it was a textbook example of what Eliezer calls Hollywood Zombie, a lack of Level 1 intelligence, a lack of any sort of brain in Orochimaru's head asking "What should I actually do to get what I want?" instead of "How do I further The Plot?"
+>>>>> 
+>>>>> I have triumphantly closed the window where I was watching Naruto. I'm off to the wiki. I didn't realise how bad the show was until I didn't have to watch it any more. I'm free!
 
->>>>>> **u/eaglejarl** [+3] *
+>>>>>> **u/eaglejarl** [+4]  (23 hours later)
 >>>>>> 
 >>>>>> > The Orochimaru/Tsunade deal where Orochimaru demands Tsunade provide him with the human sacrifices is the biggest example of this I've seen, but every time I try and go into why, I end up on a multi-paragraph rant that nobody wants to read due to how obvious it would be. I'm sure you know just how stupid it is, and if you don't know the details of what happened, I'd be happy to tell you about it with copious swearing.
->>>>>> I actually don't know, so feel free to rant.  My knowledge of Orochimaru is:  wants to know everything (commendable goal, stupid execution), gets chased out of Konoha for horrible experiments, founds Sound, puts the whole "learn everything" on hold because suddenly destroying Konoha is more important, stages a big attack on Konoha, wants to capture Sasuke in order to...make use of his eyes?  I think?...so he attacks Team 7 in the Forest of Death during the chunin exams, bites Sasuke to put a cursed seal on him which knocks him out then...um...leaves him there instead of bringing him along?  What?  Because...reasons?
->>>>>> I'm fuzzy on what he does after that point; he's just too much of an idiot and the plot was too stupid.  Because of my frustration with that, I started Team Anko with two concepts in mind, one of which was "What if Orochimaru had been an intelligent rationalist all along?"
 >>>>>> 
+>>>>>> I actually don't know, so feel free to rant.  My knowledge of Orochimaru is:  wants to know everything (commendable goal, stupid execution), gets chased out of Konoha for horrible experiments, founds Sound, puts the whole "learn everything" on hold because suddenly destroying Konoha is more important, stages a big attack on Konoha, wants to capture Sasuke in order to...make use of his eyes?  I think?...so he attacks Team 7 in the Forest of Death during the chunin exams, bites Sasuke to put a cursed seal on him which knocks him out then...um...leaves him there instead of bringing him along?  What?  Because...reasons?
+>>>>>> 
+>>>>>> I'm fuzzy on what he does after that point; he's just too much of an idiot and the plot was too stupid.  Because of my frustration with that, I started Team Anko with two concepts in mind, one of which was "What if Orochimaru had been an intelligent rationalist all along?"
 
->>>>>>> **u/Salivanth** [+3] *
+>>>>>>> **u/Salivanth** [+3]  (23 hours later)
 >>>>>>> 
 >>>>>>> Orochimaru has an immortality jutsu (he knows he can't learn everything in just one lifetime), but his body isn't so resilient. The immortality jutsu allows him to transfer his soul into another body, though it can only be done every few years I think. He wants Sasuke to be his next host (for the Sharingan), though I'm not sure why he put the seal on there either, or left him there either. Probably to strengthen him before using him as a host.
->>>>>>> Orochimaru also wants to destroy Konoha because of what they did, so at the end of the chunin exams he invades it with an army. To cut a long story short, Orochimaru battles the Hokage, the Hokage tries to kill Orochimaru with a jutsu, but it doesn't take. The Hokage settles for crippling his arms with it instead before he dies.
->>>>>>> So Orochimaru has no arms, and can't use any jutsu, which kind of goes against his "Learn all the jutsu" plan. Fortunately for him, one of his former teammates is the world's greatest ninja medic, and she can heal his arms. So he goes in search for her to offer her a deal. The deal is that he'll use his resurrection jutsu to bring her brother and someone else I forget back to life, if she heals his arms.
->>>>>>> This is not a bad plan, but the way he goes about it lacks so much Level 1 intelligent planning that it makes my head spin. I assume you've read Eliezer's stuff on writing intelligent characters, but if you haven't, the relevant thing here is that a level 1 intelligent character doesn't have to be smart or rational, they just need to act like a person would. They need to have an inner voice in their head that at least tries to make the right decisions. Every real person has this, no matter how stupid. Someone who lacks this is a Hollywood Zombie, who does inexplicable things purely to move the plot along, something that no person would ever think to do if they were actually trying to accomplish the person's goals.
->>>>>>> So Orochimaru lays out the deal to Tsunade, and Tsunade asks what Orochimaru plans to DO with his arms if he gets them back. After all, she knows he's bad news, but she really misses her brother. Orochimaru lies to her and tells her that he just plans to continue to learn jutsu, which is a fairly innocuous goal, right?
->>>>>>> JUST KIDDING. No, he tells her the truth; that he plans to grind Konoha into dust. 
->>>>>>> While Tsunade is reeling from this information (or perhaps the knowledge that Orochimaru is suffering from advanced dementia, clearly the only explanation for why he would tell her this) Orochimaru then reveals that the resurrection requires two human sacrifices, one for each resurrection. Of course, Tsunade will be required to provide these sacrifices. Never mind that for normal people, making human sacrifices is morally repugnant, whereas Orochimaru could do it in less time and with less moral difficulties than taking a shit. Hell, he has an assistant, Kabuto, who'd do it FOR him.
->>>>>>> At this point, I stopped the episode, and just sat there in disgust. This is pandering to the plot at it's finest. You don't have to be intelligent or a rationalist to realise that revealing your plan to destroy the former home of the only person in the world who can cure you is a really fucking stupid idea. Let alone then proceeding to ask her to do something that's extremely morally wrong to her, but trivial for you.
->>>>>>> This is one of the dumbest things I've seen in fiction. It's not a normal mistake. It's not even a dumb mistake. Even if Orochimaru was moronic enough to tell Tsunade the truth before he realised that it was a bad idea, (yeah right, nobody capable of creating a FUCKING IMMORTALITY JUTSU is stupid) he then volunteered the human sacrifice thing out of the blue. The only reason this was even a difficult decision for Tsunade was for the sake of the plot. There's no reason Tsunade should ever know about the sacrifices, or about Orochimaru's plans. At this point, Tsunade has exiled herself from Konoha. She doesn't even know that Orochimaru attacked the village until he told her.
->>>>>>> This is what the term Hollywood Zombie is for. Clearly, the writer envisioned The Plan, and all players of The Plan, protagonist and antagonist alike, were inexorably drawn into its web. Their true goals are to ensure The Plan comes to pass, because they sure as fuck don't act like their plan is to achieve the goals they claim to have. 
->>>>>>> That's the thing about level 1 intelligent characters. You don't need to be smart. You don't need to know a lot of science. You don't need to be particularly rational. You just need to ask "Is there any reason this character would attempt this course of action, when X is what they want?" And Naruto fails this test in spades.
->>>>>>> This was supposed to have more anger and swearing in it, but as I was writing it, I realised the mistake I was supposed to be writing about (telling Tsunade she needed to provide the human sacrifices) in fact was even less stupid than the mistake Orochimaru made earlier of telling her his ultimate plans, and then it became too pathetic to be an object of mockery.
->>>>>>> So the true problem with Naruto isn't that the characters are stupid, inefficient, or annoying. The problem is they aren't people. This is, in fact, why I like rational fiction. No matter what, rational fiction requires people to have goals, and to act like it. I love smart characters, but I don't need smart characters to enjoy a work. I just require that they act like actual human beings, who have a voice in their head that says "Hey, if I want to get Tsunade on my side instead of giving her an Angsty Moral Decision, maybe I really, really shouldn't say that right now."
->>>>>>> Because nobody would actually act like that if they didn't have a script in their head that they knew they needed to follow.
 >>>>>>> 
+>>>>>>> Orochimaru also wants to destroy Konoha because of what they did, so at the end of the chunin exams he invades it with an army. To cut a long story short, Orochimaru battles the Hokage, the Hokage tries to kill Orochimaru with a jutsu, but it doesn't take. The Hokage settles for crippling his arms with it instead before he dies.
+>>>>>>> 
+>>>>>>> So Orochimaru has no arms, and can't use any jutsu, which kind of goes against his "Learn all the jutsu" plan. Fortunately for him, one of his former teammates is the world's greatest ninja medic, and she can heal his arms. So he goes in search for her to offer her a deal. The deal is that he'll use his resurrection jutsu to bring her brother and someone else I forget back to life, if she heals his arms.
+>>>>>>> 
+>>>>>>> This is not a bad plan, but the way he goes about it lacks so much Level 1 intelligent planning that it makes my head spin. I assume you've read Eliezer's stuff on writing intelligent characters, but if you haven't, the relevant thing here is that a level 1 intelligent character doesn't have to be smart or rational, they just need to act like a person would. They need to have an inner voice in their head that at least tries to make the right decisions. Every real person has this, no matter how stupid. Someone who lacks this is a Hollywood Zombie, who does inexplicable things purely to move the plot along, something that no person would ever think to do if they were actually trying to accomplish the person's goals.
+>>>>>>> 
+>>>>>>> So Orochimaru lays out the deal to Tsunade, and Tsunade asks what Orochimaru plans to DO with his arms if he gets them back. After all, she knows he's bad news, but she really misses her brother. Orochimaru lies to her and tells her that he just plans to continue to learn jutsu, which is a fairly innocuous goal, right?
+>>>>>>> 
+>>>>>>> JUST KIDDING. No, he tells her the truth; that he plans to grind Konoha into dust. 
+>>>>>>> 
+>>>>>>> While Tsunade is reeling from this information (or perhaps the knowledge that Orochimaru is suffering from advanced dementia, clearly the only explanation for why he would tell her this) Orochimaru then reveals that the resurrection requires two human sacrifices, one for each resurrection. Of course, Tsunade will be required to provide these sacrifices. Never mind that for normal people, making human sacrifices is morally repugnant, whereas Orochimaru could do it in less time and with less moral difficulties than taking a shit. Hell, he has an assistant, Kabuto, who'd do it FOR him.
+>>>>>>> 
+>>>>>>> At this point, I stopped the episode, and just sat there in disgust. This is pandering to the plot at it's finest. You don't have to be intelligent or a rationalist to realise that revealing your plan to destroy the former home of the only person in the world who can cure you is a really fucking stupid idea. Let alone then proceeding to ask her to do something that's extremely morally wrong to her, but trivial for you.
+>>>>>>> 
+>>>>>>> This is one of the dumbest things I've seen in fiction. It's not a normal mistake. It's not even a dumb mistake. Even if Orochimaru was moronic enough to tell Tsunade the truth before he realised that it was a bad idea, (yeah right, nobody capable of creating a FUCKING IMMORTALITY JUTSU is stupid) he then volunteered the human sacrifice thing out of the blue. The only reason this was even a difficult decision for Tsunade was for the sake of the plot. There's no reason Tsunade should ever know about the sacrifices, or about Orochimaru's plans. At this point, Tsunade has exiled herself from Konoha. She doesn't even know that Orochimaru attacked the village until he told her.
+>>>>>>> 
+>>>>>>> This is what the term Hollywood Zombie is for. Clearly, the writer envisioned The Plan, and all players of The Plan, protagonist and antagonist alike, were inexorably drawn into its web. Their true goals are to ensure The Plan comes to pass, because they sure as fuck don't act like their plan is to achieve the goals they claim to have. 
+>>>>>>> 
+>>>>>>> That's the thing about level 1 intelligent characters. You don't need to be smart. You don't need to know a lot of science. You don't need to be particularly rational. You just need to ask "Is there any reason this character would attempt this course of action, when X is what they want?" And Naruto fails this test in spades.
+>>>>>>> 
+>>>>>>> This was supposed to have more anger and swearing in it, but as I was writing it, I realised the mistake I was supposed to be writing about (telling Tsunade she needed to provide the human sacrifices) in fact was even less stupid than the mistake Orochimaru made earlier of telling her his ultimate plans, and then it became too pathetic to be an object of mockery.
+>>>>>>> 
+>>>>>>> So the true problem with Naruto isn't that the characters are stupid, inefficient, or annoying. The problem is they aren't people. This is, in fact, why I like rational fiction. No matter what, rational fiction requires people to have goals, and to act like it. I love smart characters, but I don't need smart characters to enjoy a work. I just require that they act like actual human beings, who have a voice in their head that says "Hey, if I want to get Tsunade on my side instead of giving her an Angsty Moral Decision, maybe I really, really shouldn't say that right now."
+>>>>>>> 
+>>>>>>> Because nobody would actually act like that if they didn't have a script in their head that they knew they needed to follow.
 
->>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>> **u/eaglejarl** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> That's right, I'd forgotten the part about him disguising himself as the visiting Kage -- Raikage, wasn't it?  I've read some great versions of that fight, including one where Haku and Zabuza have been recruited by Konoha, so Haku is there when the Kages fight. Oddly, he *didnt* end up dead in the first 30 seconds, and actually provided enough distraction for the Hokage to survive, albeit without one arm. (Certain irony there!)
->>>>>>>> Yeah, that was a most brain dead plot indeed. I can't imagine what Kishimoto was thinking. 
->>>>>>>> Thanks for filling me in -- more grist for the mill...although my Orochimaru isn't going to waste time attacking Konoha.
 >>>>>>>> 
+>>>>>>>> Yeah, that was a most brain dead plot indeed. I can't imagine what Kishimoto was thinking. 
+>>>>>>>> 
+>>>>>>>> Thanks for filling me in -- more grist for the mill...although my Orochimaru isn't going to waste time attacking Konoha.
 
->>>>>>>>> **u/xavion** [+3] *
+>>>>>>>>> **u/xavion** [+3]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> It wasn't the Raikage, it was the Kazekage that Orochimaru killed and replaced, not sure if there was a reason for it as they were already allied and another Kage could've been really useful in attacking Konoha given their general strength level but he did.
->>>>>>>>> 
 
->>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>> **u/eaglejarl** [+2]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Aha, that's right. Yes, I remember wondering about that -- why kill an ally? Not only do you lose his power, but if his people find out you'll lose their allegiance. Not to mention the reputational cost.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/xavion** [+2] *
+>>>>>>>>>>> **u/xavion** [+2]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Presumably some reason relating to getting close to Sarutobi and not trusting the Kazekage enough to handle it, relatively minor on the plothole scale though for Naruto.
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>> **u/eaglejarl** [+2]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> > relatively minor on the plothole scale 
->>>>>>>>>>>> Heh.  When one finds the need for this phrase, it's never a good sign.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> Heh.  When one finds the need for this phrase, it's never a good sign.
 
->>>>>>>>>>>>> **u/xavion** [+1] *
+>>>>>>>>>>>>> **u/xavion** [+1]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> It's only the later stuff where it really matters, even up to the chunin exam arc it's not that bad but that is a little before the point where the shonen power growth really starts kicking in and that pretty much inevitably starts poking massive holes in everything as the massive variability of power levels in a generally unprecedented in-universe way kick starts thing and drags a ton of stuff behind it to create better excuses.
->>>>>>>>>>>>> 
 
->>>>>>>>>> **u/Kishoto** [+2] *
+>>>>>>>>>> **u/Kishoto** [+2]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Fairly certain it was because the Kazekage was the only kage coming to attend the Chunin exams. In addition, Suna was being severely weakened, and it was also PISSED at Konoha because their daimyo would use Konoha for most of his missions, since Konoha was, well, much better than them. Which, ironically, made them even weaker, meaning he was even less inclined to use them, which made them even weaker, etc etc. So Orochimaru used that resentment to convince Suna to attack Konoha with him. And killed the Kazekage to (presumably) infiltrate the village to the point where he'd be in kill range of the Hokage. Also fairly certain Orochimaru isn't good at playing with others.  
->>>>>>>>>> The major plot hole here, for me anyway, is that Konoha has a clan full of Hyuuga, many of which attend these exams, so he should've been spotted immediately both due to his disguise being seen through, and the appearance of his twisted chakra. 
->>>>>>>>>> Also Konoha's apparently lacking in sensor ninja, to the point where you wouldn't be able to recognize one of your most recognized missing nins through sheer chakra senses alone.
 >>>>>>>>>> 
+>>>>>>>>>> The major plot hole here, for me anyway, is that Konoha has a clan full of Hyuuga, many of which attend these exams, so he should've been spotted immediately both due to his disguise being seen through, and the appearance of his twisted chakra. 
+>>>>>>>>>> 
+>>>>>>>>>> Also Konoha's apparently lacking in sensor ninja, to the point where you wouldn't be able to recognize one of your most recognized missing nins through sheer chakra senses alone.
 
->>>>>>>>> **u/Salivanth** [+1] *
+>>>>>>>>> **u/Salivanth** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I assumed he wouldn't, considering it was a personal slight that caused him to attack, and Orochimort has shown he is immune to such things. (I'm now stealing that name; I want it to become a thing.) I love your characterisation of Orochimaru as well. I'm certainly not a psychopath, but I'm a bit off the neurotypical path myself, and I found it both funny and disturbing to read about Orochimaru complaining about neurotypical people in a similar way to what I've done in my own head in the past. ("I don't get how people get any real conversation done, they're so busy saying one thing, meaning a second thing, and thinking a third thing!")
->>>>>>>>> I'm happy to do what I can to contribute, even in a small way :)
->>>>>>>>> I believe it was the Raikage, yeah. I'm looking forward to reading more of the fandom's top creations. Do you have any personal recommendations? I already have a few to be going on with, but I figure your tastes probably lean heavily towards the kind of fic I would enjoy immensely. (And, having never read the manga or watched much of the anime, wouldn't require me to have done so to enjoy them.) I've read Time Braid, The Waves Arisen, and Naruto's Compensation. Enjoyed all three.
 >>>>>>>>> 
+>>>>>>>>> I'm happy to do what I can to contribute, even in a small way :)
+>>>>>>>>> 
+>>>>>>>>> I believe it was the Raikage, yeah. I'm looking forward to reading more of the fandom's top creations. Do you have any personal recommendations? I already have a few to be going on with, but I figure your tastes probably lean heavily towards the kind of fic I would enjoy immensely. (And, having never read the manga or watched much of the anime, wouldn't require me to have done so to enjoy them.) I've read Time Braid, The Waves Arisen, and Naruto's Compensation. Enjoyed all three.
 
->>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Check out my [favorites list](https://www.fanfiction.net/~eaglejarl); I liked The Empty Cage, A Drop Of Poison, and Lighting Up The Dark. Also, if you're into Firefly at all, read everything [ebfiddler](https://www.fanfiction.net/u/3092366/ebfiddler) has done.
->>>>>>>>>> 
 
->>>>>> **u/Solonarv** [+1]  *Chaos Legion**
+>>>>>> **u/Solonarv** [+1]  *Chaos Legion* (a day later)
 >>>>>> 
 >>>>>> > I have triumphantly closed the window where I was watching Naruto.
->>>>>> And I just did the same, at episode 142. It *was* getting tedious.
->>>>>> I think I've read enough fanfiction+wiki to get through, anyway.
 >>>>>> 
+>>>>>> And I just did the same, at episode 142. It *was* getting tedious.
+>>>>>> 
+>>>>>> I think I've read enough fanfiction+wiki to get through, anyway.
 
->> **u/Stefanido** [+3] *
+>> **u/Stefanido** [+3]  (19 hours later)
 >> 
 >> Naruto is a shonen anime that follows the shonen anime tropes. We may get incessant flashbacks, but at least we don't have to power up for episodes and episodes à la Dragon Ball Z.
->> I also had a hard time watching all of the show. The manga is much faster, and contains none of the filler arcs.
 >> 
+>> I also had a hard time watching all of the show. The manga is much faster, and contains none of the filler arcs.
 
->> **u/captainNematode** [+3] *
+>> **u/captainNematode** [+3]  (a day later)
 >> 
 >> Why not just read the comics? They go by a lot faster and don't have the anime filler. Once you get to the end of Shippuden you can even read the pretty [fan-colored versions](https://rnaruto.imgur.com/).
->> If you absolutely prefer watching, though, there are [fan-abridged versions](https://www.reddit.com/r/Naruto/comments/3izru6/naruto_kai_all_episodes/) of the show, too. You get the core of the plot and stuff but save yourself a few hundred hours.
 >> 
+>> If you absolutely prefer watching, though, there are [fan-abridged versions](https://www.reddit.com/r/Naruto/comments/3izru6/naruto_kai_all_episodes/) of the show, too. You get the core of the plot and stuff but save yourself a few hundred hours.
 
->>> **u/Salivanth** [+2] *
+>>> **u/Salivanth** [+2]  (3 days later)
 >>> 
 >>> I've started doing that. I love you. I kept thinking as I was watching "If only Naruto Kai was a thing".
->>> 
 
-> **u/MadScientist14159** [+6]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+4]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (3 hours later)
 > 
 > Looots of dead (non-clone) kids in this all of a sudden. Took you long enough.
-> 
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+3]  (3 hours later)
 >> 
 >> Only three!
->> 
 
->>> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+>>> **u/MadScientist14159** [+4]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (3 hours later)
 >>> 
 >>> Three more than last chapter.
->>> But fine, I guess you could use some more dead kids.
 >>> 
+>>> But fine, I guess you could use some more dead kids.
 
->>>> **u/JackStargazer** [+5]  *Primordial Apologist**
+>>>> **u/JackStargazer** [+5]  *Primordial Apologist* (6 hours later)
 >>>> 
 >>>> He's still not killing them as fast as The Waves Arisen did.
->>>> 
 
->>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (13 hours later)
 >>>>> 
 >>>>> Didn't Waves Arisen have most of its deaths offscreen?
->>>>> 
 
->>>>>> **u/JackStargazer** [+5]  *Primordial Apologist**
+>>>>>> **u/JackStargazer** [+6]  *Primordial Apologist* (13 hours later)
 >>>>>> 
 >>>>>> Some of them, a lot were described even so, though I can't go into specifics without spoilers. [Spoilers](#s "Kakashi and Guy") were technically killed offscreen, but it was described because Byakugan saw it. Also although [Spoilers](#s "The Cloud Chuunin girl") was 'killed' offscreen, the 'fatal' blow was struck onscreen.
->>>>>> And then there was [Spoilers](#s "Neji"). 
->>>>>> Holy fuck was there [Spoilers](#s "Neji").
->>>>>> That one was nightmare fuel.
 >>>>>> 
+>>>>>> And then there was [Spoilers](#s "Neji"). 
+>>>>>> 
+>>>>>> Holy fuck was there [Spoilers](#s "Neji").
+>>>>>> 
+>>>>>> That one was nightmare fuel.
 
->>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (15 hours later)
 >>>>>>> 
 >>>>>>> Oh.
->>>>>>> Oh god [](#s "Neji.")
->>>>>>> Still, I think that by on-screen kid deaths, this single chapter outdid Waves Arisen.
 >>>>>>> 
+>>>>>>> Oh god [](#s "Neji.")
+>>>>>>> 
+>>>>>>> Still, I think that by on-screen kid deaths, this single chapter outdid Waves Arisen.
 
->>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>> **u/eaglejarl** [+1]  (20 hours later)
 >>>>>>>> 
 >>>>>>>> Yeah, [](#s "Neji")'s death was amazing. I hope I can get that much creativity and impact into my fights.
->>>>>>>> 
 
->>>>>>>>> **u/Salivanth** [+3] *
+>>>>>>>>> **u/Salivanth** [+3]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I loved how such a simple tool turned out to be such a big deal throughout the entire book, for nearly every fight. It definitely drew a lot of HPMOR inspiration, in the form of "We have enough powerful tools, we don't need to introduce more of them."
->>>>>>>>> 
 
->>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>> **u/eaglejarl** [+3]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Indeed. Best of all, it seemed like a relatively minor power at first, unlike the Time Turner which was obviously broken.
->>>>>>>>>> 
 
->>>> **u/avret** [+4]  *SDHS rationalist**
+>>>> **u/avret** [+4]  *SDHS rationalist* (3 hours later)
 >>>> 
 >>>> > But fine, I guess you could use some more dead kids.
->>>> /r/nocontext
 >>>> 
+>>>> /r/nocontext
 
->> **u/Nevereatcars** [+2]  *The Greatest Is Behind**
+>> **u/Nevereatcars** [+2]  *The Greatest Is Behind* (10 hours later)
 >> 
 >> It's Homestuck all over again.
->> 
 
->>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (2 days later)
 >>> 
 >>> I'm pretty sure they're not coming back with a power-up, Impure World Reincarnation notwithstanding.
->>> 
 
-> **u/krakonfour** [+5] *
+> **u/krakonfour** [+5]  (13 hours later)
 > 
 > I'm loving everything. The drama, the scope of the world (despite the minor plot point of how the Republic and the Elemental Nations don't know of each other's general abilities despite the existence of radio and global communications satellites and the Republic going on a several decade unification war which may or may not have involved nuclear explosions, and what about Gamabunta's frog dimension, and the Sage Snakes and other miscellaneous creatures and Jiraiya and Nature Chakra users that supposedly can detect events from around the world?), and I actually like the romantic situations here.
-> I'm pretty certain that you won't go through the cop-out solution of having a ménage-a-trois, but a satisfying conclusion will eventually be worked out. 
-> I mean, these are 13 year olds. THIRTEEN. They might have a switch which turns them into stone cold killers, with a sadistic edge in the case of Hinata, which reminds me less of a trained soldier than a kid playing around with frogs and dismembering them out of childish curiosity... but they certainly do not have an Adult Maturity switch that suddenly makes them take the same decisions as grown ups in relationships defined by romantic rationality, previous experience and sexual desire.
 > 
+> I'm pretty certain that you won't go through the cop-out solution of having a ménage-a-trois, but a satisfying conclusion will eventually be worked out. 
+> 
+> I mean, these are 13 year olds. THIRTEEN. They might have a switch which turns them into stone cold killers, with a sadistic edge in the case of Hinata, which reminds me less of a trained soldier than a kid playing around with frogs and dismembering them out of childish curiosity... but they certainly do not have an Adult Maturity switch that suddenly makes them take the same decisions as grown ups in relationships defined by romantic rationality, previous experience and sexual desire.
 
->> **u/krakonfour** [+2] *
+>> **u/krakonfour** [+2]  (13 hours later)
 >> 
 >> Sorry for 3am ramblings.
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (20 hours later)
 >>> 
 >>> Heh. No problem.
->>> 
 
-> **u/sir_pirriplin** [+5] *
+> **u/sir_pirriplin** [+3]  (8 hours later)
 > 
 > > A log that had been very explicitly placed there by a certain blond genin...
-> This means that Naruto placed a log there before (or during) the fight  on purpose, right? I think phrasing it as "very purposefully" would make that part easier to understand, but the word "purposefully" looks ugly compared to "explicitly".
-> Then again, explicit also means something like "clear and obvious", which this was not, because it was meant to be a trap, so it's a little misleading.
 > 
+> This means that Naruto placed a log there before (or during) the fight  on purpose, right? I think phrasing it as "very purposefully" would make that part easier to understand, but the word "purposefully" looks ugly compared to "explicitly".
+> 
+> Then again, explicit also means something like "clear and obvious", which this was not, because it was meant to be a trap, so it's a little misleading.
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+3]  (9 hours later)
 >> 
 >> Thank you; fixed.  (I went with 'deliberately'.)
->> 
 
-> **u/LeonCross** [+4] *
+> **u/LeonCross** [+3]  (13 hours later)
 > 
 > Ah, teenagehood. I remember when I was in love at 13. *chuckles*
-> Granted, with their expected lifespan, I'd imagine that's about as close as most can expect to come.
 > 
+> Granted, with their expected lifespan, I'd imagine that's about as close as most can expect to come.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (20 hours later)
 >> 
 >> Heh. Yep. The feels, the feels!
->> 
 
-> **u/Solonarv** [+3]  *Chaos Legion**
+> **u/Solonarv** [+3]  *Chaos Legion* (a day later)
 > 
 > Yet another awesome chapter. The violence, while unexpected, was definitely appropriate in a Doylist *and* Watsonian way.
-> I won't comment further on it, as others have already done a better job of that, but I'd like to mention that the story *probably* should be bumped from T to M. ff.net has been known to take down misrated stories previously, so I'd err on the sie of caution.
-> In fact, if we go by the [ff.net guidelines](https://www.fanfiction.net/guidelines/), this should *definitely* be M.
 > 
+> I won't comment further on it, as others have already done a better job of that, but I'd like to mention that the story *probably* should be bumped from T to M. ff.net has been known to take down misrated stories previously, so I'd err on the sie of caution.
+> 
+> In fact, if we go by the [ff.net guidelines](https://www.fanfiction.net/guidelines/), this should *definitely* be M.
 
-> **u/eaglejarl** [+5] *
+> **u/eaglejarl** [+4]  (38 seconds later)
 > 
 > In which I get to indulge my love of drama.
-> 
 
-> **u/protagnostic** [+2] *
+> **u/protagnostic** [+2]  (7 hours later)
 > 
 > Nightmare fuel.
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (7 hours later)
 >> 
 >> Thank you.
->> 
 
->> **u/Kishoto** [+0] *
+>> **u/Kishoto** [+1]  (7 hours later)
 >> 
 >> If THIS was nightmare fuel, you definitely haven't spent enough time on the Interwebs good sir.
->> 
 
->>> **u/protagnostic** [+5] *
+>>> **u/protagnostic** [+5]  (8 hours later)
 >>> 
 >>> Specifically, the "Grand Fireball Kiss Of Death" thing coming from a character I'm accustomed to thinking of as unusually innocent. This is much more Nightmare Fuel-ish to me than, say, the SCP Foundation. It feels like seeing an old friend from childhood and finding out he's a rapist.
->>> 
 
->>>> **u/Kishoto** [+7] *
+>>>> **u/Kishoto** [+6]  (11 hours later)
 >>>> 
 >>>> I guess I can see that. As someone's who's more annoyed at the biased, super nice way a world of child killers is portrayed (both in canon and in fanfics) I like when things like this happen. If the "nice one" can shoot a fireball down someone's throat, this world is awesome.
->>>> 
 
->>>>> **u/eaglejarl** [+3] *
+>>>>> **u/eaglejarl** [+5]  (11 hours later)
 >>>>> 
 >>>>> Well, [you know what they say](http://tvtropes.org/pmwiki/pmwiki.php/Main/BewareTheNiceOnes), right?
->>>>> 
 
->>>>>> **u/Kishoto** [+1] *
+>>>>>> **u/Kishoto** [+1]  (12 hours later)
 >>>>>> 
 >>>>>> Haha, I used to love that trope. I still like it, but I've grown too used to spotting it so when it's done inexpertly, I cringe. But when it's done well, I LOVE it.
->>>>>> Prime example is Priscilla from Claymore.
 >>>>>> 
+>>>>>> Prime example is Priscilla from Claymore.
 
->>>> **u/eaglejarl** [+6] *
+>>>> **u/eaglejarl** [+6]  (9 hours later)
 >>>> 
 >>>> Hinata is a genuinely nice person.  She's also an emotionally abused thirteen-year-old girl who's been training to be an assassin since she was eight.  She's severely lacking in self-confidence as a result of the abuse, which gives her a degree of hesitance and passivity.  Make her angry enough to burn away that hesitance and you get this.
->>>> 
 
->>>>> **u/protagnostic** [+3] *
+>>>>> **u/protagnostic** [+3]  (19 hours later)
 >>>>> 
 >>>>> I'm not saying it's an invalid or inaccurate characterization. I'm saying it's terrifying.
->>>>> 
 
-> **u/JackStargazer** [+1]  *Primordial Apologist**
+> **u/JackStargazer** [+1]  *Primordial Apologist* (2 hours later)
 > 
 > Well. That just happened.
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (2 hours later)
 >> 
 >> Yep.
->> 
 
 ---
 

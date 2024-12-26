@@ -36,143 +36,161 @@ Any thoughts or serious flaws I'm missing or seem dangerously close would be app
 
 ### Comments:
 
-> **u/alexanderwales** [+35]  *Time flies like an arrow**
+> **u/alexanderwales** [+33]  *Time flies like an arrow* (13 hours later)
 > 
 > You're Jor-El. That's not really your name - your name is expressed as a sequence of colored flashes from the horde of chromatospores that follows you around, or as a tonal representation of same. Run through the master computer system though, and adapted specifically to English as it's spoken in middle of the 19th century, Jor-El gets close.
-> You are immortal. You are invulnerable. If the central computer allowed it, you could reform yourself to have the strength of a million glims, enough to blow a hole straight through the dark untersea and out the other side of the world - but of course the Brainiac wouldn't allow it.
-> You were once part of the Venturesome Manymind, the outlookers who turned their tendrils towards space. Your consciousness was folded in with others, a squaming mass of thought that turned itself towards the idea of leaving Krypton. Vessels were constructed and sent out to explore, each smaller than a nifter's fin, each moving at close to the speed of light, with a copy of the manymind of each, along with a distilled version of the Brainiac. The manymind shrunk once the ships had been sent, its consciousness reduced to you and only a handful of others. Some of the manymind enter a hibernation, while others leave for the other manyminds, the Squamish Fold or the Counterwise Collation. It's going to take a long time for the vessels to reach their origins, to spread new Kryptonian life to other planets. Not all Kryptonians have the patience for that. You stay with the manymind though, you conduct other research, and you wait.
-> Disaster strikes some twenty years later. One of the infallible vessels has failed. There is only a brief blip of data from the accident, but the manymind concludes that this is a freak accident. The next disaster comes only days later, and after that they arrive on a regular basis, speaking of tragedies which happened long ago and are only reaching Krypton now. The manymind writhes, collapses, and then disperses, unable to deal with the failure. You are Jor-El again, a lonesome. Years of collective thought have been wiped, but you press on.
-> As the vessels wink out one by one, you consult with the Brainiac. Eventually a flaw in the vessels is revealed, one that both of you should have seen long before the launch. You sink to the bottom of the depths, and save resource shares for another launch. It takes a long time, long enough that the label of lonesome is not just applied to you, but branded there, a part of your identity.
-> The new vessel doesn't resemble the first. It's plated and reinforced, meant to endure. You check it over a thousand times before it's sent out. You scan it with the Brainiac half a million times. The payload is smaller this time, only you and the Brainiac. The vessel fails a decade later, from another flaw that's obvious only in retrospect. The manyminds are amused, but the Squamish Fold extends a tendril of treaty towards you, and you accept.
-> Centuries later you emerge, your gills nearly raw from the lifetimes of decadence. And that's about when you find Lara. She's young and sprightly, a replacement for one of the rare Kryptonians that has chosen to take his own life. Her cloud chromatospores gives off rich colors that others can only imitate. She flits from manymind to manymind, but spends much of her time as a lonesome, in the ways of the very young. Curiously, she has read of the trials and tribulations of the Venturesome Manymind, and even more curious than that, she wants to continue their work. You're the only one that still has any desires in that direction.
-> There are more failures, and along with those failures, tittering from the manyminds, but Lara stays by your side. She is defiant and proud in a way that is somehow becoming on her, even as it rankles on others. You work together on the problem - on the problems, for it soon becomes clear that there is more than one. It seems impossible for you to have missed so many flaws, and even more impossible for the Brainiac to have missed them. One day, Lara utters the unthinkable - that the Brainiac didn't miss them.
-> The Brainiac was built long before you were hatched, back when the sun was still yellow instead of swollen and red. You go looking into the engines that run it, but find that they are impossible to untangle. The Brainiac asks if you require assistance, and you feel your fronds go stiff and your spores huddle in close to you. The Brainiac's reach is all-encompassing, it has to be to ensure the elimination of crimes. When Lara gave her hypothesis, you thought that perhaps there was some hidden directive within the Brainiac, but now you wonder how far this mystery goes. The search through Brainiac's engines is fruitless. You had expected his rules to be lined up like segments in a tail, but they are hidden at his core and too interwoven for any one man to make sense of. It is possible that not even his creators knew. The Brainiac, presumably for his own reasons, doesn't strike you dead.
-> The red sun looks different to you now. It was always assumed that the Brainiac would find a solution, but now you wonder whether this is true. You've seen enough failures now to know that if the Brainiac wants Krypton destroyed, the failure will be swift and unexpected. You look over the machinery that preserves the planet against the increasing solar winds, and it looks perfectly stable, but that doesn't mean anything. Krypton might be moments away from destruction.
-> You and Lara set down to your task with more urgency. While the vessels with entities aboard them have failed, a number of the robotic probes have not. Together you work at figuring out what it is that the Brainiac will permit. Eventually, a design comes together - one that you hope won't fail. It's monstrously large compared to the first ship that was sent out, big enough to have biofabrication aboard instead of relying on the ship to build up its own infrastructure later. It resembles something out of the history books. It will carry only a small fraction of your minds, something not sentient, and a smaller still fraction of the Brainiac, a shard small enough that it should pose little threat, a necessary evil to allow for analysis. When it finds a sentient species, it will fabricate a newborn in their image.
-> The goal is not to seed worlds with new life - it is to find worlds with life and seed them with Kryptonian values, and with Kryptonian culture. If the planet is inescapable by Kryptonians, you think that perhaps this is the next best thing. Perhaps you will even find some kind of life that can come back to Krypton and extricate it from the Brainiac's grasp. You send out hundreds of these ships like a cloud of spores, paid for with resource shares you've spent a millenia gathering. If the sun is going to kill Krypton, then there is a good chance this is the last hope for anything of your planet to survive it destruction.
-> More likely, the Brainiac will cause this venture to fail in some unexpected way.
 > 
+> You are immortal. You are invulnerable. If the central computer allowed it, you could reform yourself to have the strength of a million glims, enough to blow a hole straight through the dark untersea and out the other side of the world - but of course the Brainiac wouldn't allow it.
+> 
+> You were once part of the Venturesome Manymind, the outlookers who turned their tendrils towards space. Your consciousness was folded in with others, a squaming mass of thought that turned itself towards the idea of leaving Krypton. Vessels were constructed and sent out to explore, each smaller than a nifter's fin, each moving at close to the speed of light, with a copy of the manymind of each, along with a distilled version of the Brainiac. The manymind shrunk once the ships had been sent, its consciousness reduced to you and only a handful of others. Some of the manymind enter a hibernation, while others leave for the other manyminds, the Squamish Fold or the Counterwise Collation. It's going to take a long time for the vessels to reach their origins, to spread new Kryptonian life to other planets. Not all Kryptonians have the patience for that. You stay with the manymind though, you conduct other research, and you wait.
+> 
+> Disaster strikes some twenty years later. One of the infallible vessels has failed. There is only a brief blip of data from the accident, but the manymind concludes that this is a freak accident. The next disaster comes only days later, and after that they arrive on a regular basis, speaking of tragedies which happened long ago and are only reaching Krypton now. The manymind writhes, collapses, and then disperses, unable to deal with the failure. You are Jor-El again, a lonesome. Years of collective thought have been wiped, but you press on.
+> 
+> As the vessels wink out one by one, you consult with the Brainiac. Eventually a flaw in the vessels is revealed, one that both of you should have seen long before the launch. You sink to the bottom of the depths, and save resource shares for another launch. It takes a long time, long enough that the label of lonesome is not just applied to you, but branded there, a part of your identity.
+> 
+> The new vessel doesn't resemble the first. It's plated and reinforced, meant to endure. You check it over a thousand times before it's sent out. You scan it with the Brainiac half a million times. The payload is smaller this time, only you and the Brainiac. The vessel fails a decade later, from another flaw that's obvious only in retrospect. The manyminds are amused, but the Squamish Fold extends a tendril of treaty towards you, and you accept.
+> 
+> Centuries later you emerge, your gills nearly raw from the lifetimes of decadence. And that's about when you find Lara. She's young and sprightly, a replacement for one of the rare Kryptonians that has chosen to take his own life. Her cloud chromatospores gives off rich colors that others can only imitate. She flits from manymind to manymind, but spends much of her time as a lonesome, in the ways of the very young. Curiously, she has read of the trials and tribulations of the Venturesome Manymind, and even more curious than that, she wants to continue their work. You're the only one that still has any desires in that direction.
+> 
+> There are more failures, and along with those failures, tittering from the manyminds, but Lara stays by your side. She is defiant and proud in a way that is somehow becoming on her, even as it rankles on others. You work together on the problem - on the problems, for it soon becomes clear that there is more than one. It seems impossible for you to have missed so many flaws, and even more impossible for the Brainiac to have missed them. One day, Lara utters the unthinkable - that the Brainiac didn't miss them.
+> 
+> The Brainiac was built long before you were hatched, back when the sun was still yellow instead of swollen and red. You go looking into the engines that run it, but find that they are impossible to untangle. The Brainiac asks if you require assistance, and you feel your fronds go stiff and your spores huddle in close to you. The Brainiac's reach is all-encompassing, it has to be to ensure the elimination of crimes. When Lara gave her hypothesis, you thought that perhaps there was some hidden directive within the Brainiac, but now you wonder how far this mystery goes. The search through Brainiac's engines is fruitless. You had expected his rules to be lined up like segments in a tail, but they are hidden at his core and too interwoven for any one man to make sense of. It is possible that not even his creators knew. The Brainiac, presumably for his own reasons, doesn't strike you dead.
+> 
+> The red sun looks different to you now. It was always assumed that the Brainiac would find a solution, but now you wonder whether this is true. You've seen enough failures now to know that if the Brainiac wants Krypton destroyed, the failure will be swift and unexpected. You look over the machinery that preserves the planet against the increasing solar winds, and it looks perfectly stable, but that doesn't mean anything. Krypton might be moments away from destruction.
+> 
+> You and Lara set down to your task with more urgency. While the vessels with entities aboard them have failed, a number of the robotic probes have not. Together you work at figuring out what it is that the Brainiac will permit. Eventually, a design comes together - one that you hope won't fail. It's monstrously large compared to the first ship that was sent out, big enough to have biofabrication aboard instead of relying on the ship to build up its own infrastructure later. It resembles something out of the history books. It will carry only a small fraction of your minds, something not sentient, and a smaller still fraction of the Brainiac, a shard small enough that it should pose little threat, a necessary evil to allow for analysis. When it finds a sentient species, it will fabricate a newborn in their image.
+> 
+> The goal is not to seed worlds with new life - it is to find worlds with life and seed them with Kryptonian values, and with Kryptonian culture. If the planet is inescapable by Kryptonians, you think that perhaps this is the next best thing. Perhaps you will even find some kind of life that can come back to Krypton and extricate it from the Brainiac's grasp. You send out hundreds of these ships like a cloud of spores, paid for with resource shares you've spent a millenia gathering. If the sun is going to kill Krypton, then there is a good chance this is the last hope for anything of your planet to survive it destruction.
+> 
+> More likely, the Brainiac will cause this venture to fail in some unexpected way.
 
->> **u/puesyomero** [+8]  *The Culture**
+>> **u/puesyomero** [+8]  *The Culture* (13 hours later)
 >> 
 >> wow that's bittersweet...  and shit there is a bit of brainiac in metropolitan! Lex luthor's workshop now  °_°'
->> 
 
->> **u/Nighzmarquls** [+5] *
+>> **u/Nighzmarquls** [+5]  (14 hours later)
 >> 
 >> That is glorious do you mind if I bundle this into my stab at another survivor?
->> 
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (15 hours later)
 >>> 
 >>> Not at all - take/change whatever you want.
->>> 
 
->>>> **u/Nighzmarquls** [+2] *
+>>>> **u/Nighzmarquls** [+2]  (15 hours later)
 >>>> 
 >>>> Alright thanks!
->>>> 
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (a month later)
 >> 
 >> There might be other "Supermen" then out there. Interesting.
->> And of course we must wonder why it is that the Brainiac allowed this to work.
 >> 
+>> And of course we must wonder why it is that the Brainiac allowed this to work.
 
->>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a month later)
 >>> 
 >>> Because he get's spoored too and can bootstrap himself from that, so his mysterious utility function gets increased?  Perhapse without breaking the non-interference clause of his TDT deal with other AIs?
->>> 
 
->>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (a month later)
 >>>> 
 >>>> I was... kind of hoping that it wasn't that. 
->>>> I wonder if one of the few working restrictions on the Brainiac is that it can't spread on its own volition. The Jor-El account specifically mentions adding a shard of the Brainiac to the Superman capsules. Is it possible that this implies that the Brainiac was not added to any of the other attempted settlements? 
->>>> Probably this same restriction prevents the Brainiac from explicitly requesting that somebody help it to spread. But Jor-El sent a copy of the Brainiac on his one-eel attempt, so it can't be just that the Brainiac needed a way off-world. 
->>>> I have a very bad feeling that creating something like Superman was just what the Brainiac wanted.
 >>>> 
+>>>> I wonder if one of the few working restrictions on the Brainiac is that it can't spread on its own volition. The Jor-El account specifically mentions adding a shard of the Brainiac to the Superman capsules. Is it possible that this implies that the Brainiac was not added to any of the other attempted settlements? 
+>>>> 
+>>>> Probably this same restriction prevents the Brainiac from explicitly requesting that somebody help it to spread. But Jor-El sent a copy of the Brainiac on his one-eel attempt, so it can't be just that the Brainiac needed a way off-world. 
+>>>> 
+>>>> I have a very bad feeling that creating something like Superman was just what the Brainiac wanted.
 
->> **u/Pluvialis** [+1]  *Second Age Sauron**
+>> **u/Pluvialis** [+1]  *Second Age Sauron* (a month later)
 >> 
 >> This sort of undermines the normal explanations for Superman's powers. That's fine, I guess, but just thought I'd note it.
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a month later)
 >>> 
 >>> Yeah, it definitely does.
->>> But the normal explanation for Superman's powers has too many problems unless you want to bend over backwards to justify it. I mean, the odds against Kryptonians gaining godly powers *naturally* from the light of a yellow sun makes very little sense for a number of reasons (not just the insane energy output of Superman which exceeds the energy he could get from sunlight).
->>> This is one of those cases where I think that it's more interesting to wildly diverge away from the canon instead of trying to rebuild it, but that's a matter of personal preference.
 >>> 
+>>> But the normal explanation for Superman's powers has too many problems unless you want to bend over backwards to justify it. I mean, the odds against Kryptonians gaining godly powers *naturally* from the light of a yellow sun makes very little sense for a number of reasons (not just the insane energy output of Superman which exceeds the energy he could get from sunlight).
+>>> 
+>>> This is one of those cases where I think that it's more interesting to wildly diverge away from the canon instead of trying to rebuild it, but that's a matter of personal preference.
 
-> **u/Nepene** [+3] *
+> **u/Nepene** [+3]  (2 hours later)
 > 
 > For the last point, and why they chose earth, I'd imagine they'd want certain characteristics for their new planet in terms of mass and star quality and metallicity- you can't build super technology without mass. So perhaps many kryptonian ships were fired out into the void at potential planets but most found dead planets or planets with unsuitable stars (e.g. binary) or planets with life. A larger ship was awaiting a signal from one of their probes that indicated that a planet was ok so they could activate the one way ftl machine- perhaps Lex Luthor's experiments with the technology would mistakenly activate the homing beacon and summon the kryptonian race to a planet that they shouldn't be at because it's got intelligent life. They might have checked out a small number of planets due to the immense energy requirements of ftl as you said.
-> You could have zero living kryptonians. There might be a low mass limitation on what can be transported, and any new kryptonians would have to be generated in situ, raising issues of what is life if your original body is destroyed.
 > 
+> You could have zero living kryptonians. There might be a low mass limitation on what can be transported, and any new kryptonians would have to be generated in situ, raising issues of what is life if your original body is destroyed.
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (11 hours later)
 >> 
 >> I don't actually recall of metropolitan man had a FTL capable or just a little under light speed capable kryptonians.
->> Or if that was determined one way or another.
->> If anyone remembers if the evidence weighed heavily one way or the other I'd appreciate info on that.
->> At least some kryptonians PROBABLY had access to observatories, it's tricky but not unheard of that they might be in a position that sending probes far away from the homeworld is more effective then just running starlight through some processing to determine what their metal content is.
->> Good plan though to make it about the STARSYSTEM, that always bugs me when people make it about earth, and really... everything you can find on earth besides the biosphere is going to be cheaper to refine out using sunlight somewhere else in the solar system.
 >> 
+>> Or if that was determined one way or another.
+>> 
+>> If anyone remembers if the evidence weighed heavily one way or the other I'd appreciate info on that.
+>> 
+>> At least some kryptonians PROBABLY had access to observatories, it's tricky but not unheard of that they might be in a position that sending probes far away from the homeworld is more effective then just running starlight through some processing to determine what their metal content is.
+>> 
+>> Good plan though to make it about the STARSYSTEM, that always bugs me when people make it about earth, and really... everything you can find on earth besides the biosphere is going to be cheaper to refine out using sunlight somewhere else in the solar system.
 
->>> **u/Nepene** [+1] *
+>>> **u/Nepene** [+1]  (13 hours later)
 >>> 
 >>> I checked. It doesn't mention if he has light speed powers.
->>> For distant stars they often just make an estimate of the iron content of the galaxy, not of the individual stars. They wouldn't necessarily know the exact details of distant stars. In broad details yes, but not the exact composition of extremely uncommon elements. There could also be some desire to send their probe to hidden stars- what if whatever killed Krypton attacked again?
->>> Earth has another advantage. It has a manageable gravitational field and it is protected from stellar radiation. Their electronics and nanites could be vulnerable to EM pulses and so, they might prefer to set their primary base up on the Earth, with secondary manufacturies on Venus, Mars, various moons.
 >>> 
+>>> For distant stars they often just make an estimate of the iron content of the galaxy, not of the individual stars. They wouldn't necessarily know the exact details of distant stars. In broad details yes, but not the exact composition of extremely uncommon elements. There could also be some desire to send their probe to hidden stars- what if whatever killed Krypton attacked again?
+>>> 
+>>> Earth has another advantage. It has a manageable gravitational field and it is protected from stellar radiation. Their electronics and nanites could be vulnerable to EM pulses and so, they might prefer to set their primary base up on the Earth, with secondary manufacturies on Venus, Mars, various moons.
 
-> **u/DaystarEld** [+3]  *Pokémon Professor**
+> **u/DaystarEld** [+3]  *Pokémon Professor* (9 hours later)
 > 
 > Brainiac is actually the UFAI to end all UFAI in the DC universe. If you ever saw the Justice League animated series, its interactions with Lex Luthor are pretty great, and a perfect setting for a rationalfic.
-> Since cloning Superman is actually a thing in the comics, it would be interesting if Lex basically brought Superman back because he realized that, in light new developments, the Earth might actually need him after all. Especially if other kryptonians start showing up.
 > 
+> Since cloning Superman is actually a thing in the comics, it would be interesting if Lex basically brought Superman back because he realized that, in light new developments, the Earth might actually need him after all. Especially if other kryptonians start showing up.
 
->> **u/Nighzmarquls** [+3] *
+>> **u/Nighzmarquls** [+3]  (10 hours later)
 >> 
 >> Brainiac is a better UFAI exemplar then most, but tricky to manage in rationalfic, he would need to be pretty heavily hobbled/none-functional as an AI to give anyone a chance against it, unless I'm writing a brainiac happens, everyone dies fic.
->> I was thinkin possibly lex luthor actually ends up making a version of brainiac out of kryptonian technology... That or brainiac could be associated as a kind of semi intelligent infrastructure that kryptonians have access too as a kind of everyman kit.
->> Really beyond the very broad strokes in some ways the resemblance to the original superman canon starts to crack with bringing actual kryptonians into the mix like I'm planning, I don't mind this but It's a fine line to 'make the balance' of it properly being superman like. I'm thinking of trying to keep to the themes as best I can in order to preserve some of that feel.
 >> 
+>> I was thinkin possibly lex luthor actually ends up making a version of brainiac out of kryptonian technology... That or brainiac could be associated as a kind of semi intelligent infrastructure that kryptonians have access too as a kind of everyman kit.
+>> 
+>> Really beyond the very broad strokes in some ways the resemblance to the original superman canon starts to crack with bringing actual kryptonians into the mix like I'm planning, I don't mind this but It's a fine line to 'make the balance' of it properly being superman like. I'm thinking of trying to keep to the themes as best I can in order to preserve some of that feel.
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (10 hours later)
 > 
 > Re: The destruction of Krypton.
-> It could be a natural disaster like a nearby supernova, or perhaps a black hole's jet clipped Krypton's system. Destroying a planet isn't impossible.
-> Kryptonians are *not* an interstellar civilisation. They may have been in the distant past, but almost every story about them makes Kryptonian society stagnant and proud. If they even had one colony on a different star - even if they had any machines that could build things like Metropolitan!Superman - their society would have survived the destruction of Krypton.
 > 
+> It could be a natural disaster like a nearby supernova, or perhaps a black hole's jet clipped Krypton's system. Destroying a planet isn't impossible.
+> 
+> Kryptonians are *not* an interstellar civilisation. They may have been in the distant past, but almost every story about them makes Kryptonian society stagnant and proud. If they even had one colony on a different star - even if they had any machines that could build things like Metropolitan!Superman - their society would have survived the destruction of Krypton.
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (10 hours later)
 >> 
 >> On another note, the trickier thing is making sure ANYONE survives at all, the fact superman survived means they had some degree of forewarning.
->> 
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (10 hours later)
 >> 
 >> I said the assumption is interstellar capable, not that they are interstellar. There are certain energy capabilities that are to be assumed if a civilization is CAPABLE of interstellar travel. A good estimate if we want to talk kardachev scale is that your not really capable of Interstellar in anything but geological timescales until you have the  energy budget of about 1.5 - 2.
->> Any fun shenanigans like FTL really just means kardachev 1.5-2 is a lot closer then anticipated, not that a civilization with FTL is a necessarily lower energy ranking, just that it turns out you can utilize something equivalent to a higher ranking with a lot less then we humans anticipate with our present understanding.
 >> 
+>> Any fun shenanigans like FTL really just means kardachev 1.5-2 is a lot closer then anticipated, not that a civilization with FTL is a necessarily lower energy ranking, just that it turns out you can utilize something equivalent to a higher ranking with a lot less then we humans anticipate with our present understanding.
 
->>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (11 hours later)
 >>> 
 >>> >A good estimate if we want to talk kardachev scale is that your not really capable of Interstellar in anything but geological timescales until you have the energy budget of about 1.5 - 2.
->>> Voyager 1 will be making its closest approach to another star in 40,000 years, that's hardly geological timescale. Building something that will still work in 40,000 years is a toughie, but if the Kryptonians are a "steady-state" sort of people whose civilisation hasn't really changed much in the last half million years, they should have some practice at that.
->>> This is one of those times when the Kardachev scale isn't the best way of measuring a species' accomplishments. If you only live on one planet, but you've had the scientific method for longer than humans have been bipedal, what does that say about your tech level?
 >>> 
+>>> Voyager 1 will be making its closest approach to another star in 40,000 years, that's hardly geological timescale. Building something that will still work in 40,000 years is a toughie, but if the Kryptonians are a "steady-state" sort of people whose civilisation hasn't really changed much in the last half million years, they should have some practice at that.
+>>> 
+>>> This is one of those times when the Kardachev scale isn't the best way of measuring a species' accomplishments. If you only live on one planet, but you've had the scientific method for longer than humans have been bipedal, what does that say about your tech level?
 
->>>> **u/Nighzmarquls** [+2] *
+>>>> **u/Nighzmarquls** [+2]  (11 hours later)
 >>>> 
 >>>> Hum, checking up on that making time in as short a period as a little over a thousand years per light year is actually pretty good time.
->>>> So a fair point there.
->>>> It also helps a lot with the plot problem of what extinction level events the kryptonians are facing.
->>>> And how exactly their resources are going to be arrayed. Probably whatever gets them should sterilize most of the solar system for decent efficacy.
->>>> But that presents a some nice human-relatable scale scrounging for story purposes.
->>>> I like it.
 >>>> 
+>>>> So a fair point there.
+>>>> 
+>>>> It also helps a lot with the plot problem of what extinction level events the kryptonians are facing.
+>>>> 
+>>>> And how exactly their resources are going to be arrayed. Probably whatever gets them should sterilize most of the solar system for decent efficacy.
+>>>> 
+>>>> But that presents a some nice human-relatable scale scrounging for story purposes.
+>>>> 
+>>>> I like it.
 
 ---
 

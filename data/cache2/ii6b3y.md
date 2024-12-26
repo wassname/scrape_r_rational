@@ -2,7 +2,7 @@
 
 * Author: u/Ardvarkeating101  *Father of Learning**
 * URL: https://practicalguidetoevil.wordpress.com/2020/08/28/chapter-54-kings-fianchetto/
-* Score: 42
+* Score: 44
 
 * Created: 2020-08-28T12:41:17
 

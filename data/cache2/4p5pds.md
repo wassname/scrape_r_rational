@@ -2,7 +2,7 @@
 
 * Author: u/arathir2 *
 * URL: https://www.reddit.com/r/rational/comments/4p5pds/looking_for_rational_fiction_without_major/
-* Score: 23
+* Score: 24
 
 * Created: 2016-06-21T17:10:03
 
@@ -12,271 +12,231 @@ I don't like stories that are dark or have very sad parts, such as a character w
 
 ### Comments:
 
-> **u/None** [+15] *
+> **u/None** [+15]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/holomanga** [+3] *
+>> **u/holomanga** [+3]  (4 hours later)
 >> 
 >> [but what about](#s " novelty ;n;")
->> 
 
->>> **u/Dwood15** [+2] *
+>>> **u/Dwood15** [+2]  (5 hours later)
 >>> 
 >>> Are you trying to be funny? I honestly don't know what you're asking.
->>> 
 
->>>> **u/Putnam3145** [+1] *
+>>>> **u/Putnam3145** [+1]  (5 hours later)
 >>>> 
 >>>> [same spoiler](#s " the way the entire aranea colony was killed off")
->>>> 
 
->>>>> **u/Diralman_** [+7] *
+>>>>> **u/Diralman_** [+6]  (5 hours later)
 >>>>> 
 >>>>> Sure that could be considered dark based on the presentation, but it really doesn't change the tone of the novel to be dark. In context, it brings more confusion and mystery than actual grief.
->>>>> 
 
-> **u/EliezerYudkowsky** [+17]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+14]  *Godric Gryffindor* (6 hours later)
 > 
 > ...Discworld?
-> 
 
->> **u/traverseda** [+30]  *With dread but cautious optimism**
+>> **u/traverseda** [+31]  *With dread but cautious optimism* (7 hours later)
 >> 
 >> >The Patrician took a sip of his beer. “I have told this to few people, gentlemen, and I suspect I never will again, but one day when I was a young boy on holiday in Uberwald I was walking along the bank of a stream when I saw a mother otter with her cubs. A very endearing sight, I’m sure you will agree, and even as I watched, the mother otter dived into the water and came up with a plump salmon, which she subdued and dragged on to a half-submerged log. As she ate it, while of course it was still alive, the body split and I remember to this day the sweet pinkness of its roes as they spilled out, much to the delight of the baby otters who scrambled over themselves to feed on the delicacy. One of nature’s wonders, gentlemen: mother and children dining upon mother and children. And that’s when I first learned about evil. It is built into the very nature of the universe. Every world spins in pain. If there is any kind of supreme being, I told myself, it is up to all of us to become his moral superior.”
->> 
 
-> **u/rineSample** [+12] *
+> **u/rineSample** [+13]  (2 hours later)
 > 
 > A Hero's War, and the Fall of Doc Future series
-> 
 
->> **u/__2BR02B__** [+7]  *Marxist-Lurianism**
+>> **u/__2BR02B__** [+7]  *Marxist-Lurianism* (2 hours later)
 >> 
 >> A Hero's War is strongly seconded. I just read up to the latest chapter, and it's really well-done.
->> 
 
-> **u/Salaris** [+12]  *Dominion Sorcerer**
+> **u/Salaris** [+12]  *Dominion Sorcerer* (4 hours later)
 > 
 > I'll second Mother of Learning. With This Ring is pretty lighthearted, too, and has lots of optimization. Also, if you don't mind self-promotion, you might like my own books. (First one is [Forging Divinity](http://amazon.com/Forging-Divinity-War-Broken-Mirrors/dp/1505886554).) That said, all these choices are at least mostly rational, but not rationalist. Rationalist stuff is much harder to come by.
-> 
 
->> **u/lsparrish** [+7] *
+>> **u/lsparrish** [+7]  (7 hours later)
 >> 
 >> Agree that [With This Ring](https://forums.sufficientvelocity.com/threads/with-this-ring-young-justice-si-thread-twelve.25032/) is pretty lighthearted overall, but it might be worth mentioning that when he delves into the Hellblazer continuity (John Constantine, etc), it does feature some pretty dark stuff.
->> 
 
->>> **u/torac** [+3] *
+>>> **u/torac** [+3]  (15 hours later)
 >>> 
 >>> Those parts are very short and even there it doesn’t really get dark on-screen. At least as far as I remember. [To be more clear: ](#s " No named characters died, death was mostly either in the premise (i.e. they find some bodies) or somewhere on the side (it can be assumed that nameless mooks and civilians died).")
->>> For the really light-hearted experience one might want to avoid the semi-canon omake episodes about what might have happened if Paul was more angry and became ruthless and egoistic.
 >>> 
+>>> For the really light-hearted experience one might want to avoid the semi-canon omake episodes about what might have happened if Paul was more angry and became ruthless and egoistic.
 
->>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>> **u/Salaris** [+1]  *Dominion Sorcerer* (7 hours later)
 >>> 
 >>> That's a valid point, there is some dark stuff in there.
->>> 
 
->> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar* (7 hours later)
 >> 
 >> Can confirm, Forging Divinity is good.
->> 
 
->>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>> **u/Salaris** [+1]  *Dominion Sorcerer* (7 hours later)
 >>> 
 >>> Thanks, glad you like it. =D
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>> **u/Salaris** [+1]  *Dominion Sorcerer* (23 hours later)
 >>> 
 >>> You're one of the few who seems to have noticed that angle - I'm glad you did. [Spoiler](#s "Edon was always intended to be an essentially benevolent transhumanist that was being set up for a fall. He certainly had some dubious methods, but Jonan was manipulating the other protagonists into taking him out of the picture. Fortunately, he's not the only one working on that kind of research, and they did get his research notes. There's a bit more on that in the second book.") 
->>> In regards to With This Ring, I think I'm just acclimated to the world ending threats because of the source material. I don't really take them seriously.
 >>> 
+>>> In regards to With This Ring, I think I'm just acclimated to the world ending threats because of the source material. I don't really take them seriously.
 
-> **u/TennisMaster2** [+10] *
+> **u/TennisMaster2** [+10]  (2 hours later)
 > 
 > "The Martian" and *The Martian*.
-> 
 
-> **u/vallar57** [+3]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+4]  *Unseen University: Faculty of High-Energy Magic* (21 hours later)
 > 
 > I would advice "Please don't tell my parents that I'm a supervillain" series. It's incredibly light-hearted while still being pretty smart, if not exactly rationalist. It also describes a superpowered society that successfully solved prisoner's dilemma and avoids superhero paradox, and that's great.
-> 
 
-> **u/DCarrier** [+2] *
+> **u/DCarrier** [+2]  (13 hours later)
 > 
 > I felt like Saga of Soul was happy and lighthearted. But it had worlds being taken over by demons and them building pain factories, so maybe not.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (12 minutes later)
 > 
 > [removed]
-> 
 
->> **u/arathir2** [+3] *
+>> **u/arathir2** [+3]  (39 minutes later)
 >> 
 >> Unsong's great, I've been following that one since it started. I'll try the others, thanks.
->> 
 
->>> **u/thecommexokid** [+9] *
+>>> **u/thecommexokid** [+9]  (a day later)
 >>> 
 >>> I am blaming this thread for today's chapter.
->>> 
 
->>> **u/Kishoto** [+6] *
+>>> **u/Kishoto** [+4]  (5 hours later)
 >>> 
 >>> Can second 2 year emperor has being very good without being very dark. Things can get serious / heavy but it's never oppressive. And the humor is always there.
->>> 
 
-> **u/BSSolo** [+2] *
+> **u/BSSolo** [+0]  (7 hours later)
 > 
 > Pact.  Really.  Ignore all of the naysayers.  They're just trying to scare you.
-> 
 
->> **u/JulianWyvern** [+6]  *Wayward Wanderer**
+>> **u/JulianWyvern** [+5]  *Wayward Wanderer* (10 hours later)
 >> 
 >> I feel like the naysaying is because Pact runs on soft magic, not the usual style of magic in rationalist writing
->> 
 
->>> **u/alexanderwales** [+15]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+16]  *Time flies like an arrow* (10 hours later)
 >>> 
 >>> In this context, Pact was a joke answer, because it's very dark, contrary to what OP was asking for.
->>> 
 
->>>> **u/BSSolo** [+4] *
+>>>> **u/BSSolo** [+3]  (20 hours later)
 >>>> 
 >>>> Yep, exactly this. Thanks!
->>>> 
 
->>> **u/narfanator** [+8] *
+>>> **u/narfanator** [+6]  (14 hours later)
 >>> 
 >>> Pact's magic is one of the most well-thought-out, amazeballs set ups I've encountered. The universe *literally* runs on narration, for good and ill of the main character. People seriously exploit that fundament.
->>> I'd argue it's "harder" than pretty much anything else out there. Runners-up are probably Dresden Files, Codex Alera, and Name of the Wind (at least that come to mind right now). Each of those have really solid setups *internally*, but I couldn't tell you how to cast a Dresden spell, or make a magic item in NotW. I *can* tell you how to cast a Pact spell.
 >>> 
+>>> I'd argue it's "harder" than pretty much anything else out there. Runners-up are probably Dresden Files, Codex Alera, and Name of the Wind (at least that come to mind right now). Each of those have really solid setups *internally*, but I couldn't tell you how to cast a Dresden spell, or make a magic item in NotW. I *can* tell you how to cast a Pact spell.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > And [Harry Potter and the Methods of Rationality](http://hpmor.com/) by Eliezer Yudkowsky of course! It has some parts of sadness on the first read through but it has more light in it than any other book I've ever read. Doesn't matter if you're more into fantasy or science fiction. It is a combination of both. A real page turner :D!
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> Although most people here might have already read that actually come to think of it..
->> 
 
->>> **u/arathir2** [+2] *
+>>> **u/arathir2** [+2]  (a day later)
 >>> 
 >>> I read it until I found out about the tragic part, then I stopped for a while until I found it that it's not so tragic in the end, skipped ~40 chapters to where it turns un-tragic, and finished off from there.
->>> 
 
-> **u/gommm** [+1] *
+> **u/gommm** [+1]  (2 days later)
 > 
 > Set In Stone by /u/farmerbob1 is very good and doesn't have major darkness or sadness. There is however an [spoiler](#s "attempted rape scene").
-> It's probably one of my favorite stories mentioned on this subreddit, so I'm eagerly waiting for the second book :-)
 > 
+> It's probably one of my favorite stories mentioned on this subreddit, so I'm eagerly waiting for the second book :-)
 
-> **u/__2BR02B__** [+0]  *Marxist-Lurianism**
+> **u/__2BR02B__** [-1]  *Marxist-Lurianism* (an hour later)
 > 
 > Luminosity by Alicorn is pretty low on tragedy, IIRC. It's a rationalist!Bella Twilight fanfic. Never read Twilight, still enjoyed it immensely. 
 > The sequel can be pretty dark, though.
-> 
 
->> **u/thecommexokid** [+14] *
+>> **u/thecommexokid** [+13]  (an hour later)
 >> 
 >> Strongly disagree. I found the ending of Luminosity devastating.
->> 
 
->>> **u/Kishoto** [+3] *
+>>> **u/Kishoto** [+5]  (5 hours later)
 >>> 
 >>> Ohhhh, this promises to be thought provoking. I won't say I agree or disagree but please tell me why you feel that way. In *copious detail*.
->>> 
 
->>>> **u/thecommexokid** [+7] *
+>>>> **u/thecommexokid** [+5]  (9 hours later)
 >>>> 
 >>>> Um, I wouldn't have expected this to be a controversial premise. It seems obvious to me that *Luminosity* (taken by itself—I didn't read the sequel) is a tragedy. [By the end of the book](#s ", Bella's lover and her best friend are both dead, she is homeless and on the run, and she can never see anyone she knows ever again because her and her daughter's continued safety depends on everyone believing she is dead.") Made all the more upsetting because this was supposed to be a rationalist work. When *that's* the ending for your rationalist protagonist, it doesn't feel like much of an advertisement for rationalism.
->>>> 
 
->>>>> **u/Kishoto** [+3] *
+>>>>> **u/Kishoto** [+3]  (11 hours later)
 >>>>> 
 >>>>> Oh. Sorry. Thought you were talking about the ending to Radiance. [I thought your comment was directed at ] (#s "criticizing the outcome, where Bella is running the Volturi, people can willingly become vampires, etc. Hence why I asked, since I thought you would've had some sort of ideological disagreement with the ending or something.")
->>>>> Blame my lack of paying attention :P
 >>>>> 
+>>>>> Blame my lack of paying attention :P
 
->>>>>> **u/0x652** [+3] *
+>>>>>> **u/0x652** [+3]  (16 hours later)
 >>>>>> 
 >>>>>> You could still argue that some of the ...permanent losses incurred are quite tragic
->>>>>> 
 
->> **u/LunarTulip** [+9] *
+>> **u/LunarTulip** [+8]  (an hour later)
 >> 
 >> It's low on tragedy for *most* of the story, but really piles it on during [Spoiler](#s "the ending, when the Volturi take control of the werewolves and fake Edward's death"), so I'm not sure it'd really fit OP's preferences.
->> 
 
->>> **u/__2BR02B__** [+3]  *Marxist-Lurianism**
+>>> **u/__2BR02B__** [+3]  *Marxist-Lurianism* (2 hours later)
 >>> 
 >>> Oh, yeah. I actually entirely forgot about that. Soooo... probably not that light-hearted.
->>> 
 
->>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (4 hours later)
 >>> 
 >>> I didn't realize that when I read Luminosity. It wasn't until I was partway through Radiance that I found out that he really was [spoiler](#s "still alive after all")
->>> 
 
-> **u/IomKg** [-3] *
+> **u/IomKg** [-4]  (4 hours later)
 > 
 > Time braid was pretty upbeat in my opinion.
 > Not sure if rational enough.
-> 
 
->> **u/Pakars** [+29] *
+>> **u/Pakars** [+30]  (4 hours later)
 >> 
 >> >Time Braid
->> You mean the story where people go pretty much insane in their own personal time loops that rarely combine with each other and where one of the time loopers tortures/conditions the point-of-view character to enslave herself at the beginning of each time loop, then everything goes pear-shaped and trippy?
->> I'm pretty certain what you call light-hearted/upbeat and what I call light-hearted/upbeat do not intersect very often, if you're calling Time Braid light-hearted.
 >> 
+>> You mean the story where people go pretty much insane in their own personal time loops that rarely combine with each other and where one of the time loopers tortures/conditions the point-of-view character to enslave herself at the beginning of each time loop, then everything goes pear-shaped and trippy?
+>> 
+>> I'm pretty certain what you call light-hearted/upbeat and what I call light-hearted/upbeat do not intersect very often, if you're calling Time Braid light-hearted.
 
->>> **u/fullplatejacket** [+14] *
+>>> **u/fullplatejacket** [+15]  (5 hours later)
 >>> 
 >>> Yeah, Time Braid can be light-hearted for stretches, but when it gets bad, it gets REALLY bad.
->>> 
 
->>> **u/IomKg** [+3] *
+>>> **u/IomKg** [+3]  (a day later)
 >>> 
 >>> Hmm All the things you mention do happen, but at least in my opinion the thing that makes it fairly upbeat and no really dark is the approach of the characters.
 >>> The story is never about "god how could we possibly deal with this", its always about how the characters can grow and become stronger.
 >>> And that combines with a world where this is possible.
+>>> 
 >>> Its similar to the difference between dragonball z and for example worm. sure, people are dying left and right on both, and they suffer on the way plenty of time, but dbz is lighthearted because the characters don't actually dwell on it. they just push on, and the world is built in a way where they actually  -can- push on.
 >>> On the other hand worm is not upbeat, because the characters do take note of their pain, and the world is -not- built in a way where they can just go on and overcome everything thrown at them.
->>> Even when Sakura was a hostage in her own mind the narrative was not really "ohhh the sufferingggggg", it was "ok, so how am I getting outta here".
 >>> 
+>>> Even when Sakura was a hostage in her own mind the narrative was not really "ohhh the sufferingggggg", it was "ok, so how am I getting outta here".
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> [removed]
->>>> 
 
->>>>> **u/IomKg** [+1] *
+>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>> 
 >>>>> Of course she was lost for a bit, I didn't say everything was just fun and games, but it was never really negative, it was just another wall that needed climbing.
+>>>>> 
 >>>>> Personally I think Sakura was shown to agonize much more on the moral stuff("I am holding their memories in my control", "I want to trust him, but how can I be sure?" etc.) than on the "dark" aspects.
 >>>>> she just accepted the world for what it was and tried to do the best she could within those constraints.
->>>>> 
 
->> **u/Kishoto** [+9] *
+>> **u/Kishoto** [+9]  (5 hours later)
 >> 
 >> Time Braid, while being fairly good and well written, descends into pretty dark places friend. Got to agree with the other guys.
->> 
 
->>> **u/IomKg** [+1] *
+>>> **u/IomKg** [+1]  (a day later)
 >>> 
 >>> Already wrote a reply explaining my point it https://np.reddit.com/r/rational/comments/4p5pds/looking_for_rational_fiction_without_major/d4jtnwj if you wanna see
->>> 
 
 ---
 

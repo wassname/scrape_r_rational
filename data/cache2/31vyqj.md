@@ -2,7 +2,7 @@
 
 * Author: u/forrestib  *Project Freelancer**
 * URL: https://www.reddit.com/r/rational/comments/31vyqj/are_there_any_fanfics_or_continuations_for_the/
-* Score: 33
+* Score: 32
 
 * Created: 2015-04-08T16:13:06
 
@@ -20,103 +20,100 @@ I'm just sort of throwing out the ideas I've had, but really any kind of continu
 
 ### Comments:
 
-> **u/alexanderwales** [+31]  *Time flies like an arrow**
+> **u/alexanderwales** [+29]  *Time flies like an arrow* (17 minutes later)
 > 
 > So far as I know, there aren't any continuations. I've talked to a few people who have expressed interest in doing so, but if they've finished it hasn't been sent to me or linked in this subreddit.
+> 
 > If you're interested in Opinion of God:
+> 
 > * [What Lex does afterward](http://www.reddit.com/r/rational/comments/2bod5j/rt_the_metropolitan_man_chapter_13_finale_part_2/cj8vux4?context=3)
 > * [Cliffhanger endings that weren't used (but could be in a continuation)](http://www.reddit.com/r/rational/comments/2bod5j/rt_the_metropolitan_man_chapter_13_finale_part_2/cj7ofkb)
 > * [Life on Krypton](http://www.reddit.com/r/rational/comments/2va6ay/bstda_kryptonian_survivors_story_as_a_prequel_or/cogctrw)
-> 
 
->> **u/forrestib** [+11]  *Project Freelancer**
+>> **u/forrestib** [+10]  *Project Freelancer* (3 hours later)
 >> 
 >> Nice! From the man himself, no less. Perhaps Lex's efforts to colonize space could work as a sort of revisionist history leading into the moon landing? Realistically I suppose you would need to add obstacles to prevent it from coming a lot sooner though. Maybe that's not such a good idea.
->> You know, a GL related continuation did occur to me but I thought it would be way too difficult to rationalize. Not only do you need to explain a galactic-scale civilization with the means to generate any physical object imaginable out of energy, but also why said interplanetary police force has never shown up on earth in the past. The Amazon ending brings up similar issues. In general the more complicated a universe becomes the harder it's going to be to rationalize why it looked mundane to begin with.
 >> 
+>> You know, a GL related continuation did occur to me but I thought it would be way too difficult to rationalize. Not only do you need to explain a galactic-scale civilization with the means to generate any physical object imaginable out of energy, but also why said interplanetary police force has never shown up on earth in the past. The Amazon ending brings up similar issues. In general the more complicated a universe becomes the harder it's going to be to rationalize why it looked mundane to begin with.
 
->>> **u/alexanderwales** [+13]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+13]  *Time flies like an arrow* (3 hours later)
 >>> 
 >>> Yeah, the increasing ~~insanity~~ complexity of the greater DC universe is the primary reason that I didn't go with those cliffhangers. Batman, Brainiac, and Zod probably make for the most believable antagonists for a continuation, because they require the least bending.
->>> *Metropolitan Man* is set in 1934 though, and I kept thinking that if I ever wrote a sequel it would have to be about WWII in some way - a time period that I think is surprisingly untouched by comic books, probably because they don't want all the messy reality that would come from a superhero dealing with international politics. Captain America does this facile version of it, and X-men has it as a backstory, and there are certainly post-war Nazis aplenty, but what I really want to see is the harsh reality of children peering out of their bombed out homes. Which means that if I were ever to write a sequel, I don't think I would be able to resist making my own version.
->>> (It's somewhat curious to me that we've set so many videogames and movies during WWII but haven't really done that much with it when it comes to superheroes. I understand the impulse to preserve history though.)
->>> If you want a justification for the Green Lantern showing up, Earth *was* just visited by an enormously powerful alien. I sort of imagine them as a large agency that's stretched *way* too thin. But you're right, it doesn't dovetail as nicely with the story as-is.
 >>> 
+>>> *Metropolitan Man* is set in 1934 though, and I kept thinking that if I ever wrote a sequel it would have to be about WWII in some way - a time period that I think is surprisingly untouched by comic books, probably because they don't want all the messy reality that would come from a superhero dealing with international politics. Captain America does this facile version of it, and X-men has it as a backstory, and there are certainly post-war Nazis aplenty, but what I really want to see is the harsh reality of children peering out of their bombed out homes. Which means that if I were ever to write a sequel, I don't think I would be able to resist making my own version.
+>>> 
+>>> (It's somewhat curious to me that we've set so many videogames and movies during WWII but haven't really done that much with it when it comes to superheroes. I understand the impulse to preserve history though.)
+>>> 
+>>> If you want a justification for the Green Lantern showing up, Earth *was* just visited by an enormously powerful alien. I sort of imagine them as a large agency that's stretched *way* too thin. But you're right, it doesn't dovetail as nicely with the story as-is.
 
->>>> **u/None** [+13] *
+>>>> **u/None** [+15]  (5 hours later)
 >>>> 
 >>>> Since Metropolitan Man dealt mainly with x-risk of the singleton variety, perhaps a WWII era Batman fic could deal with distributed x-risk such as malthusianism (workforce saturation) or arms races? ^^^^[\*cough*](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
->>>> During the era of Superman, a young genius in Gotham suffers the death of his parents to crime, and develops a hatred for Superman's inability to effectively solve problems. Years after superman has disappeared, the young man becomes of age and inherits his father's company and wealth, and decides to prove to the world, and the hopeless children of gotham, what a real superhero can do. He discovers the difficulty of attempting to solve Friendliness while struggling to maintain his position in the face of those who pose a threat to him like crime bosses, public opinion, the city government, corporate interests, war, and a bored fellow genius with [a radically different utility function](http://i.imgur.com/pL0kU.jpg) set on disproving moral realism.
->>>> Pls.
 >>>> 
+>>>> During the era of Superman, a young genius in Gotham suffers the death of his parents to crime, and develops a hatred for Superman's inability to effectively solve problems. Years after superman has disappeared, the young man becomes of age and inherits his father's company and wealth, and decides to prove to the world, and the hopeless children of gotham, what a real superhero can do. He discovers the difficulty of attempting to solve Friendliness while struggling to maintain his position in the face of those who pose a threat to him like crime bosses, public opinion, the city government, corporate interests, war, and a bored fellow genius with [a radically different utility function](http://i.imgur.com/pL0kU.jpg) set on disproving moral realism.
+>>>> 
+>>>> Pls.
 
->>>> **u/forrestib** [+8]  *Project Freelancer**
+>>>> **u/forrestib** [+7]  *Project Freelancer* (6 hours later)
 >>>> 
 >>>> I just had an idea that's probably a little too crazy. What if Thomas and Martha Wayne died during the bombings that Lex organized to test Superman? Years later, a twenty-something Bruce sets out as the world's greatest detective on his own heroic crusade, perhaps with a ring of willpower, or not. Meanwhile, WW2 is in full swing, but the US is not yet involved. Then Pearl Harbor happens, and Brainiac volunteers to help Lex build a bomb that could end the war. What Lex doesn't know is that Brainiac helped cause Pearl Harbor with the help of the Amazons and Mercy Graves, who have some ulterior motive I haven't figured out yet...
->>>> That's all I've got for now. And it obviously needs a lot of work. Probably at least a few entire subplots need to hit the cutting room floor. The timeline needs work and the plotlines that stick around need to be better integrated. And everything needs at least a few rationality checks and rewrites. But whatever. Just thought I'd get the idea down while it was fresh in my head.
 >>>> 
+>>>> That's all I've got for now. And it obviously needs a lot of work. Probably at least a few entire subplots need to hit the cutting room floor. The timeline needs work and the plotlines that stick around need to be better integrated. And everything needs at least a few rationality checks and rewrites. But whatever. Just thought I'd get the idea down while it was fresh in my head.
 
->>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (6 hours later)
 >>>> 
 >>>> I'm probably overlooking something, but is it possible for the Green Lantern problem to be solved by changing their mission somewhat? Rather than policing individual worlds, the Green Lanterns police interactions *between* worlds. 
->>>> Or they police activity that has to do with interplanetary interactions (so a criminal organization with no direct ties to the Examplanarians, but using Examplanarian technology gotten from someone else, would be a concern of theirs). 
->>>> Or, in what will probably change them the least, they have a Prime Directive equivalent which discourages them from interacting with a species until another civilization (Krypton) has contacted them.
 >>>> 
+>>>> Or they police activity that has to do with interplanetary interactions (so a criminal organization with no direct ties to the Examplanarians, but using Examplanarian technology gotten from someone else, would be a concern of theirs). 
+>>>> 
+>>>> Or, in what will probably change them the least, they have a Prime Directive equivalent which discourages them from interacting with a species until another civilization (Krypton) has contacted them.
 
->>>>> **u/forrestib** [+2]  *Project Freelancer**
+>>>>> **u/forrestib** [+2]  *Project Freelancer* (7 hours later)
 >>>>> 
 >>>>> I kind of assumed that with any rational Green Lantern Corps having a Prime Directive that means they only police interactions between planets was a given. At least that's the only explanation I've ever thought of for why they wouldn't have shown up on earth anytime before. Maybe there's an exception that GL agents can use their rings for the benefit of their own people as long as it isn't at the expense of someone else. That would explain why they suddenly show up now, with this being the first time a human Lantern had been chosen. Although Supes showing up could also be an adequate excuse. Actually, maybe there could be a plot point that the Corps wants earth to turn over Superman, who of course is dead and buried as very few people know.
->>>>> 
 
->>> **u/Nighzmarquls** [+1] *
+>>> **u/Nighzmarquls** [+1]  (a day later)
 >>> 
 >>> I'm still contemplating the metropolitan man zod/braniac project but life has been picking up pace a bit over here so It's been on the back burner. That said I'm more then willing to collaborate/encourage if some one else manages to jump on the band wagon sooner then I can.
->>> 
 
->> **u/biomatter** [+5] *
+>> **u/biomatter** [+5]  (4 hours later)
 >> 
 >> Hey /u/alexanderwales, I just finished the story too and I think it was fantastic! Thanks for giving me a great day :D
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (4 hours later)
 >>> 
 >>> Glad you liked it, thanks for reading!
->>> 
 
-> **u/trifith** [+5]  *Man plans, god laughs. Like the ant and the grasshopper.**
+> **u/trifith** [+7]  *Man plans, god laughs. Like the ant and the grasshopper.* (5 minutes later)
 > 
 > Paging /u/alexanderwales. /u/alexanderwales, please report to /r/rational. Thank you.
-> 
 
-> **u/CopperZirconium** [+4] *
+> **u/CopperZirconium** [+4]  (28 minutes later)
 > 
 > There was this post about a month ago:["A Kryptonian Survivor's Story as a Prequel or Sequel to 'Metropolitan Man'"](http://redd.it/2va6ay). U/Alexanderwales's short story reply is in the comments.
-> 
 
->> **u/forrestib** [+4]  *Project Freelancer**
+>> **u/forrestib** [+4]  *Project Freelancer* (2 hours later)
 >> 
 >> Wow. That's great! Thanks! The prospect of the Brainiac shard in the spaceship leads into a classic AI-in-a-box scenario that Lex will have to deal with.
->> 
 
-> **u/RolandsVaria** [+3] *
+> **u/RolandsVaria** [+4]  (6 hours later)
 > 
 > Oh, how I WISH it was continued. More stories in its vein would have been wonderful to see.
-> 
 
-> **u/TotesMessenger** [+2] *
+> **u/TotesMessenger** [+2]  (a day later)
 > 
 > This thread has been linked to from another place on reddit.
+> 
 > - [/r/mistyfront] [Are there any fanfics or continuations for "The Metropolitan Man"? (/r/rational)](//np.reddit.com/r/mistyfront/comments/323e8n/are_there_any_fanfics_or_continuations_for_the/)
-
+> 
 > [](#footer)*^(If you follow any of the above links, respect the rules of reddit and don't vote.)
 > ^\([Info](/r/TotesMessenger/wiki/) ^/ ^[Contact](/message/compose/?to=\/r\/TotesMessenger))* [](#bot)
-> 
 
-> **u/EliezerYudkowsky** [+1]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+1]  *Godric Gryffindor* (2 days later)
 > 
 > > Other more sci-fi options could include Brainiac, taking the form of a Grey Goo nano-swarm run by an AI hivemind with the utility function to collect and store all information in the universe. It of course took this to the extreme and started disassembling everything to store its atomic structure.
-> The phrase "took this to the extreme" took me aback, and I had to pause and remember that not everyone would go directly from "collect and store all information in the universe" to the obvious maximum at "disassemble everything and store its structure".
 > 
+> The phrase "took this to the extreme" took me aback, and I had to pause and remember that not everyone would go directly from "collect and store all information in the universe" to the obvious maximum at "disassemble everything and store its structure".
 
 ---
 

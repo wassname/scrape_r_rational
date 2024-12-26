@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: http://talesfromaeria.tumblr.com/post/128269703332/wanderlust
-* Score: 5
+* Score: 4
 
 * Created: 2015-09-03T16:53:23
 

@@ -2,7 +2,7 @@
 
 * Author: u/andor3333 *
 * URL: https://www.reddit.com/r/rational/comments/dro17z/d_monday_request_and_recommendation_thread/
-* Score: 45
+* Score: 46
 
 * Created: 2019-11-04T20:56:16
 
@@ -17,1027 +17,1066 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/Roxolan** [+43]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+41]  *Head of antimemetiWalmart senior assistant manager* (2 hours later)
 > 
 > So, [The World As It Appears to Be](https://archiveofourown.org/works/9402014/chapters/21285149) by /u/Benedict_SC is an amazing piece of Overwatch fanfic. Let me count the ways:
-> 1. It succeeds *as writing*. The characters have depth and chemistry. The dialogues are on point. The plot twists are well done. 
-> 2. It succeeds *as science-fiction*. It takes a decent stab at hardening Overwatch's hand-waved soft-SF. It has non-silly AI. It has an SF device that I had never encountered before (and I've read a lot of SF), that raises interesting questions.
-> 3. It succeeds *as fanfiction*. All characters sound just like their Overwatch canon selves. You just naturally start hearing them talk in their voices. (With the unfortunate exception of Mercy. Though to be fair, Mercy has shown very little of herself in canon; in all her lines, her two emotions are detached heroism and doctor baby-talk.)
-> 4. But more than that: it takes characters which, in canon, are largely two-dimensional caricatures, and *gives* them depth, richness, and [intelligence](https://yudkowsky.tumblr.com/writing) - all the while remaining true to the caricature. Same with the setting, which is faithful to canon but adds elements that just feel right. Almost everything about this fic slotted right into my headcanon.
-> &nbsp;
-> So, having read this jewel, I got hungry for more Overwatch fanfics. And I got forcefully reminded of [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law). 
-> Most of what floats to the top of AO3 doesn't even succeed as fanfic. It's just some (gay romance) story with characters who share a name (and *usually* species and *maybe* job) with canon but are nothing alike personality-wise. I have nothing against Hanzo/McCree slashfic if that's what you want to write, but dammit girl, McCree has one of the most recognisable voice in Overwatch, would it kill you to write your dialogue to match?
-> I've lowered my standards considerably but I'm still disappointed. Does anyone have recs?
 > 
+> 1. It succeeds *as writing*. The characters have depth and chemistry. The dialogues are on point. The plot twists are well done. 
+> 
+> 2. It succeeds *as science-fiction*. It takes a decent stab at hardening Overwatch's hand-waved soft-SF. It has non-silly AI. It has an SF device that I had never encountered before (and I've read a lot of SF), that raises interesting questions.
+> 
+> 3. It succeeds *as fanfiction*. All characters sound just like their Overwatch canon selves. You just naturally start hearing them talk in their voices. (With the unfortunate exception of Mercy. Though to be fair, Mercy has shown very little of herself in canon; in all her lines, her two emotions are detached heroism and doctor baby-talk.)
+> 
+> 4. But more than that: it takes characters which, in canon, are largely two-dimensional caricatures, and *gives* them depth, richness, and [intelligence](https://yudkowsky.tumblr.com/writing) - all the while remaining true to the caricature. Same with the setting, which is faithful to canon but adds elements that just feel right. Almost everything about this fic slotted right into my headcanon.
+> 
+> &nbsp;
+> 
+> So, having read this jewel, I got hungry for more Overwatch fanfics. And I got forcefully reminded of [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law). 
+> 
+> Most of what floats to the top of AO3 doesn't even succeed as fanfic. It's just some (gay romance) story with characters who share a name (and *usually* species and *maybe* job) with canon but are nothing alike personality-wise. I have nothing against Hanzo/McCree slashfic if that's what you want to write, but dammit girl, McCree has one of the most recognisable voice in Overwatch, would it kill you to write your dialogue to match?
+> 
+> I've lowered my standards considerably but I'm still disappointed. Does anyone have recs?
 
->> **u/nytelios** [+5] *
+>> **u/nytelios** [+6]  (5 hours later)
 >> 
 >> Any "canon" knowledge required?
->> 
 
->>> **u/Roxolan** [+14]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+13]  *Head of antimemetiWalmart senior assistant manager* (13 hours later)
 >>> 
 >>> Hmm, the fic does reference Overwatch canon a *lot*. Much of the plot points and surprise character appearances might seem a bit... random, without the background.
->>> So I do think that the more you know about Overwatch, the more you'll enjoy this fic. (There's even subtler references to game mechanics and cosmetic items, for the enthusiasts.)
->>> That being said, there's not that much Overwatch lore altogether, and at least some of it is accessible through competently made animated shorts. If you have half an hour and don't mind being marketed to, I'd recommend watching:
->>> [Retribution trailer](https://www.youtube.com/watch?v=JMgzvpqzdTU)
->>> [Retribution cinematics](https://www.youtube.com/watch?v=wKkOEhlVc9U)
->>> [Ana origin story](https://www.youtube.com/watch?v=yzFWIw7wV8Q)
->>> **[Recall](https://www.youtube.com/watch?v=sB5zlHMsM7k)** (watch this one if nothing else)
->>> [Overwatch cinematic trailer](https://www.youtube.com/watch?v=FqnKB22pOC0)
->>> [Infiltration](https://www.youtube.com/watch?v=Og5-Pm4HNlI)
->>> [Going Legit](https://static.playoverwatch.com/media/comics/3/en-us/comic-overwatch-going-legit.pdf) (pdf)
->>> (in roughly chronological order)
 >>> 
+>>> So I do think that the more you know about Overwatch, the more you'll enjoy this fic. (There's even subtler references to game mechanics and cosmetic items, for the enthusiasts.)
+>>> 
+>>> That being said, there's not that much Overwatch lore altogether, and at least some of it is accessible through competently made animated shorts. If you have half an hour and don't mind being marketed to, I'd recommend watching:
+>>> 
+>>> [Retribution trailer](https://www.youtube.com/watch?v=JMgzvpqzdTU)
+>>> 
+>>> [Retribution cinematics](https://www.youtube.com/watch?v=wKkOEhlVc9U)
+>>> 
+>>> [Ana origin story](https://www.youtube.com/watch?v=yzFWIw7wV8Q)
+>>> 
+>>> **[Recall](https://www.youtube.com/watch?v=sB5zlHMsM7k)** (watch this one if nothing else)
+>>> 
+>>> [Overwatch cinematic trailer](https://www.youtube.com/watch?v=FqnKB22pOC0)
+>>> 
+>>> [Infiltration](https://www.youtube.com/watch?v=Og5-Pm4HNlI)
+>>> 
+>>> [Going Legit](https://static.playoverwatch.com/media/comics/3/en-us/comic-overwatch-going-legit.pdf) (pdf)
+>>> 
+>>> (in roughly chronological order)
 
->>> **u/Escapement** [+10]  *Ankh-Morpork City Watch**
+>>> **u/Escapement** [+10]  *Ankh-Morpork City Watch* (6 hours later)
 >>> 
 >>> I personally read it before my first time playing Overwatch and quite enjoyed it. I had probably absorbed a little knowledge of Overwatch from cultural osmosis in the gaming community, though.
->>> 
 
->>> **u/hyphenomicon** [+6]  *seer of seers, prognosticator of prognosticators**
+>>> **u/hyphenomicon** [+6]  *seer of seers, prognosticator of prognosticators* (7 hours later)
 >>> 
 >>> Nope. Overwatch is a team of military government people and they fight some team of bad guys, and there is future tech. Also, the game has healers and other people with weird powers, in addition to standard guns. That is literally the extent of my knowledge of the lore, never touched the game, but still enjoyed the FF.
->>> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (a day later)
 >> 
 >> Hey this is the dude who wrote Cordyceps and that time looping fic, right?
->> 
 
->>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>> 
 >>> Cordyceps yes. Don't know about a time looping fic but I haven't read all their work.
->>> 
 
->>>> **u/Benedict_SC** [+7] *
+>>>> **u/Benedict_SC** [+9]  (2 days later)
 >>>> 
 >>>> Oh, yeah, I wrote a thing about a dude with save scum powers trying to avert the apocalypse for NaNo last year, but I felt like it sort of fell apart at the ending (which I rushed because NaNo) and I've been meaning to rewrite and expand on the ending and actually put it up somewhere (outside of a google docs link on my Tumblr), but I got this full-time job eating my time. It's [here](https://docs.google.com/document/d/1SddGHeVfcVa5SCDHHTOA4RlKwnef-Q6IMw_Jqw9I0Mw/edit) if you really want to read it, but it's not really up to my standards since I was forcing it to the end to hit the target. Plus, while I try to be clever, it's probably not proper rationalfic since there's surely ways an optimizer who was really trying could have done considerably better (as opposed to the protagonist, who's kind of a slacker.)
->>>> Also, thanks for the TWAIATB rec! I... don't have any real recs of my own, unfortunately. I read a decently IC McHanzo fic once that had a pretty compelling B-plot for a while, but it's not rationalfic and it kind of lost the plot after the sexual tension resolved and it switched over to being mostly smut and angst. Don't recall the name off the top of my head and I can't unreservedly recommend it, either. It's a dang shame.
->>>> Wait, no, I remember, it was [Hang the Fool](https://archiveofourown.org/works/7127210/chapters/16186526). I never actually finished it, but yeah now that I found it again, I can confirm that it's, like, pretty darn well-done for what it is, but the what-it-is definitely traded off against my enjoyment and I kind of lost interest once it took the foreground.
 >>>> 
+>>>> Also, thanks for the TWAIATB rec! I... don't have any real recs of my own, unfortunately. I read a decently IC McHanzo fic once that had a pretty compelling B-plot for a while, but it's not rationalfic and it kind of lost the plot after the sexual tension resolved and it switched over to being mostly smut and angst. Don't recall the name off the top of my head and I can't unreservedly recommend it, either. It's a dang shame.
+>>>> 
+>>>> Wait, no, I remember, it was [Hang the Fool](https://archiveofourown.org/works/7127210/chapters/16186526). I never actually finished it, but yeah now that I found it again, I can confirm that it's, like, pretty darn well-done for what it is, but the what-it-is definitely traded off against my enjoyment and I kind of lost interest once it took the foreground.
 
->> **u/Bowbreaker** [+4]  *Solitary Locust**
+>> **u/Bowbreaker** [+4]  *Solitary Locust* (14 hours later)
 >> 
 >> I second the recommendation and the request.
->> I have recommended this fic myself a few months ago, but I wasn't as eloquent and actually got a few people saying they dislike it.
 >> 
+>> I have recommended this fic myself a few months ago, but I wasn't as eloquent and actually got a few people saying they dislike it.
 
->> **u/WalterTFD** [+3] *
+>> **u/WalterTFD** [+3]  (3 hours later)
 >> 
 >> No rec, but The World As It Appears To Be is super great.
->> 
 
->> **u/wren42** [+3] *
+>> **u/wren42** [+3]  (a day later)
 >> 
 >> I LOVED this fic.  I didn't know anything about overwatch but it hooked me immediately.  Awesome plotting, weaves futurist themes into the world well.
->> 
 
->> **u/chris-goodwin** [+2] *
+>> **u/chris-goodwin** [+2]  (a day later)
 >> 
 >> This is for Portal, not Overwatch, but [Mr. Blue Sky](https://www.fanfiction.net/s/7434133/1/Blue-Sky) succeeds in the same ways you mention.
->> 
 
-> **u/Rice_22** [+19] *
+> **u/Rice_22** [+19]  (4 hours later)
 > 
 > I wanted more places to discuss one of my recent favourite webnovels, so I'm going to recommend [Lord of the Mysteries](https://www.wuxiaworld.co/Lord-of-the-Mysteries/1486806.html) again here and hopefully get more people reading.
-> The story takes place in an alternate universe Europe in early industrial/colonial era, and the setting is basically a mix between SCP Foundation, Bloodborne/Dark Souls, Lovecraftian horror and Dickens-lite stories. After a relatively slow start where the background of the world is methodically fleshed out (until the MC joins the equivalent of magic Scotland Yard), the plot begins accelerating from one story arc to the next with minimal filler and minimal "idiot balls required by plot".
-> I think one of the things I appreciate most is how the Chinese protagonist being from Earth actually is significant to the plot, both to his advantage in surviving the world of mysteries as well as in how he reacts to little things other writers usually skip over. From little things like his love for trying out local cuisines, to his empathy for colonised natives / poor washerwomen / lead-poisoned factory workers common to that era, trying his hardest not to get innocent lives involved despite that being riskier for himself and his goals, and the feeling of going home alone while gazing out at the stars and bright lights shining out from the windows of other houses. It's also refreshing that the MC is unable to uplift the world significantly because he doesn't have photographic memory and >!because someone already did it before him.!<
-> He's also one of the few main characters that goes to the toilet often and consistently, funnily enough.
-> However, one of the most common criticisms of the novel is that it is translated from Chinese, and thus occasionally suffer from strange prose and anachronistic names. There's also some folks who thinks the protagonist didn't suffer enough permanent consequences from courting death so often.
 > 
+> The story takes place in an alternate universe Europe in early industrial/colonial era, and the setting is basically a mix between SCP Foundation, Bloodborne/Dark Souls, Lovecraftian horror and Dickens-lite stories. After a relatively slow start where the background of the world is methodically fleshed out (until the MC joins the equivalent of magic Scotland Yard), the plot begins accelerating from one story arc to the next with minimal filler and minimal "idiot balls required by plot".
+> 
+> I think one of the things I appreciate most is how the Chinese protagonist being from Earth actually is significant to the plot, both to his advantage in surviving the world of mysteries as well as in how he reacts to little things other writers usually skip over. From little things like his love for trying out local cuisines, to his empathy for colonised natives / poor washerwomen / lead-poisoned factory workers common to that era, trying his hardest not to get innocent lives involved despite that being riskier for himself and his goals, and the feeling of going home alone while gazing out at the stars and bright lights shining out from the windows of other houses. It's also refreshing that the MC is unable to uplift the world significantly because he doesn't have photographic memory and >!because someone already did it before him.!<
+> 
+> He's also one of the few main characters that goes to the toilet often and consistently, funnily enough.
+> 
+> However, one of the most common criticisms of the novel is that it is translated from Chinese, and thus occasionally suffer from strange prose and anachronistic names. There's also some folks who thinks the protagonist didn't suffer enough permanent consequences from courting death so often.
 
->> **u/Igigigif** [+15]  *IT Foxgirl**
+>> **u/Igigigif** [+14]  *IT Foxgirl* (8 hours later)
 >> 
 >> I'll give this a tentative rec. By the standards of it's main selling point as xianxia by way of hermetecism it does an excellent job. Well researched, several fleshed out characters, and an interesting world.
->> The MC has clear, thematic, and limited powers that reward creative use and is decently intelligent, and the magic system is very consistent as of chap ~550.
->> By the standards of normal fiction, not so much. Translation jank, aggravating transphobia, and a good deal of as yet unjustified plot armor make it a harder sell to anyone outside the existing audiences for translated webnovels.
->> But seriously, if you do read this stuff, definitely check it out. IMHO its on par with Omniscient Reader's Viewpoint and Way of Choices
 >> 
+>> The MC has clear, thematic, and limited powers that reward creative use and is decently intelligent, and the magic system is very consistent as of chap ~550.
+>> 
+>> By the standards of normal fiction, not so much. Translation jank, aggravating transphobia, and a good deal of as yet unjustified plot armor make it a harder sell to anyone outside the existing audiences for translated webnovels.
+>> 
+>> But seriously, if you do read this stuff, definitely check it out. IMHO its on par with Omniscient Reader's Viewpoint and Way of Choices
 
->>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (8 hours later)
 >>> 
 >>> [[Omniscient Reader's Viewpoint]](https://www.novelupdates.com/series/omniscient-readers-viewpoint/)  
 >>> [[Way of Choices]](https://www.novelupdates.com/series/ze-tian-ji/)
->>> ----
->>> > aggravating transphobia
->>> Mind linking some examples? If you do, I'll add an objectionable politics warning if I link it in the future.
 >>> 
+>>> ----
+>>> 
+>>> > aggravating transphobia
+>>> 
+>>> Mind linking some examples? If you do, I'll add an objectionable politics warning if I link it in the future.
 
->>>> **u/Igigigif** [+7]  *IT Foxgirl**
+>>>> **u/Igigigif** [+5]  *IT Foxgirl* (9 hours later)
 >>>> 
 >>>> Can't pull up a direct quote, but basically one of the cultivation routes, in addition to incentiveizng the user to act evil (on the order of wanton blood sacrifice), turns them into a woman. The thing is, whenever this pathway is mentioned, whoever brings it up will condemn or mock them for this trait. It's on the order of 1 sentence every ~50  chapters so only grating if you're archive bingeing.
->>>> I'll also specifically note that in setting it mostly been the case that people grudgingly accept it as the price of power, not bc the're actually trans. Almost certainly just authorial bias shinning through and not a deliberate plot point.
 >>>> 
+>>>> I'll also specifically note that in setting it mostly been the case that people grudgingly accept it as the price of power, not bc the're actually trans. Almost certainly just authorial bias shinning through and not a deliberate plot point.
 
->>>>> **u/Rice_22** [+11] *
+>>>>> **u/Rice_22** [+10]  (9 hours later)
 >>>>> 
 >>>>> >*The thing is, whenever this pathway is mentioned, whoever brings it up will condemn or mock them for this trait.*
->>>>> >!There's another pathway that turns the drinker male, who is similarly mocked but to a lesser degree. Also, there is an actual trans character (gender dysphoria) who pursued the turn-into-woman pathway for the effect, but she did not yet appear in the currently translated chapters.!<
->>>>> I've read ORV and I found it interesting. However, I find ORV's tackling of nationality-based superpowers rather unsettling, and the MC's obsession with martyring himself hard to understand. >!ORV also has one or more characters change genders as one of their superpowers.!<
 >>>>> 
+>>>>> >!There's another pathway that turns the drinker male, who is similarly mocked but to a lesser degree. Also, there is an actual trans character (gender dysphoria) who pursued the turn-into-woman pathway for the effect, but she did not yet appear in the currently translated chapters.!<
+>>>>> 
+>>>>> I've read ORV and I found it interesting. However, I find ORV's tackling of nationality-based superpowers rather unsettling, and the MC's obsession with martyring himself hard to understand. >!ORV also has one or more characters change genders as one of their superpowers.!<
 
->>>>>> **u/Igigigif** [+2]  *IT Foxgirl**
+>>>>>> **u/Igigigif** [+2]  *IT Foxgirl* (20 hours later)
 >>>>>> 
 >>>>>> Not sure if you're referring to the Korean historical figure constellations, or the whole thing with japan in the peace land arc.
-
+>>>>>> 
 >>>>>> For the former, every country would have had equivalents, it's just that Korean incarnations were unreasonably successful.
+>>>>>> 
 >>>>>> For the latter, while it is a reasonable outgrowth of how stories/tales work in-setting, it's also undeniably unpleasant. Thankfully, that arc was relatively short.
-
+>>>>>> 
 >>>>>> Regarding the MC's martyr complex it might be some combination of >!access to resurrection abilities, trauma from his family situation, genuine affection for the other people involved, and his (incorrect) self-perception as the only person able to change the story!<
 >>>>>> But honestly I don't get it either.
->>>>>> 
 
->>>>>>> **u/Rice_22** [+1] *
+>>>>>>> **u/Rice_22** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> First I must say ORV’s concept of a live-streamed “sadistic death game” viewed by ex-human gods is quite a fun take on things.
->>>>>>> Yes, I was referring to those segments, they were really awkward in my opinion. As for the MC’s martyr complex, I joked with others reading ORV how the MC’s obsession with tackling every crisis by sacrificing himself before returning to life had repeatedly traumatize his friends (who looked to him as a emotional crutch) into a constant state of mental breakdowns.
 >>>>>>> 
+>>>>>>> Yes, I was referring to those segments, they were really awkward in my opinion. As for the MC’s martyr complex, I joked with others reading ORV how the MC’s obsession with tackling every crisis by sacrificing himself before returning to life had repeatedly traumatize his friends (who looked to him as a emotional crutch) into a constant state of mental breakdowns.
 
->>>>> **u/Amonwilde** [+4] *
+>>>>> **u/Amonwilde** [+2]  (20 hours later)
 >>>>> 
 >>>>> Agree that these items are pretty messed up when they come up but this reflects the state of the art on trans issues in mainland Chinese culture, as far as I can tell. If you can read 19th century novels, i.e. if you can read things by people with somewhat alien and. from where we're standing, unenlightened views, then you can likely read this. Remember that we won't be remembered well by history for our own unenlightened views, judging from every possible past historical precedent.
->>>>> 
 
->>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (9 hours later)
 >>>>> 
 >>>>> This is how Lord of the Mysteries will be displayed in the future.
->>>>> -----
->>>>> [[Lord of the Mysteries]](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-1) ([Objectionable Author Politics](https://www.reddit.com/r/rational/comments/dro17z/d_monday_request_and_recommendation_thread/f6l9lj8/))
 >>>>> 
+>>>>> -----
+>>>>> 
+>>>>> [[Lord of the Mysteries]](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-1) ([Objectionable Author Politics](https://www.reddit.com/r/rational/comments/dro17z/d_monday_request_and_recommendation_thread/f6l9lj8/))
 
->>>>>> **u/nohat** [+13] *
+>>>>>> **u/nohat** [+11]  (a day later)
 >>>>>> 
 >>>>>> I appreciate you providing links.  
->>>>>> I find the entire premise of putting "objectional author politics" warnings troublesome. The author's politics shouldn't really be relevant, the question is the content. Trigger warnings should be reserved for disturbing content, and even then my understanding is that studies indicate they cause people with trauma more distress, not less. Regardless reading an author with different politics is not traumatizing.
->>>>>> Moreover in this case the author hasn't said or done anything objectionable. Even the characters haven't done or said anything objectionable. Igigigif is just inferring that the author is unsympathetic because some of the characters had a slightly mocking reaction to learning that a group of villains were forced to turn into women if they wanted to continue down their magical path to power (the magical paths being unswappable, incredibly dangerous, and each step a secret). These people are not trans in any real world way. They accepted magical sex change in order to gain magical power, and the issue of their gender identity hasn't really come up. Igigigif may be correct about the author (china is not known for progressive views on trans issues), but their evidence as described is definitely lacking, nor did they even actually link such.
 >>>>>> 
+>>>>>> I find the entire premise of putting "objectional author politics" warnings troublesome. The author's politics shouldn't really be relevant, the question is the content. Trigger warnings should be reserved for disturbing content, and even then my understanding is that studies indicate they cause people with trauma more distress, not less. Regardless reading an author with different politics is not traumatizing.
+>>>>>> 
+>>>>>> Moreover in this case the author hasn't said or done anything objectionable. Even the characters haven't done or said anything objectionable. Igigigif is just inferring that the author is unsympathetic because some of the characters had a slightly mocking reaction to learning that a group of villains were forced to turn into women if they wanted to continue down their magical path to power (the magical paths being unswappable, incredibly dangerous, and each step a secret). These people are not trans in any real world way. They accepted magical sex change in order to gain magical power, and the issue of their gender identity hasn't really come up. Igigigif may be correct about the author (china is not known for progressive views on trans issues), but their evidence as described is definitely lacking, nor did they even actually link such.
 
->>>>>>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>> 
 >>>>>>> >The author's politics shouldn't really be relevant, the question is the content.
->>>>>>> |
->>>>>>> >some of the characters had a slightly mocking reaction to learning that a group of villains were forced to turn into women if they wanted to continue down their magical path to power 
->>>>>>> Politics and worldview inform a story's content. And apparently there is a trans character in this one, so. I put this specific warning because there are people who may not want to support someone who's a bigot.
 >>>>>>> 
+>>>>>>> |
+>>>>>>> 
+>>>>>>> >some of the characters had a slightly mocking reaction to learning that a group of villains were forced to turn into women if they wanted to continue down their magical path to power 
+>>>>>>> 
+>>>>>>> Politics and worldview inform a story's content. And apparently there is a trans character in this one, so. I put this specific warning because there are people who may not want to support someone who's a bigot.
 
->>>>>>>> **u/Rice_22** [+7] *
+>>>>>>>> **u/Rice_22** [+7]  (a day later)
 >>>>>>>> 
 >>>>>>>> >*I put this specific warning because there are people who may not want to support someone who's a bigot.*
->>>>>>>> I wouldn't go as far as to claim the author is a bigot (since he has shown no outright sense of intolerance through his work), at most insensitive. However, this is just my opinion since I am not trans.
->>>>>>>> I do agree with /u/nohat partially in that there should be direct quotes we can talk over whether they warrant labelling the entire work transphobic though. That would be more productive.
 >>>>>>>> 
+>>>>>>>> I wouldn't go as far as to claim the author is a bigot (since he has shown no outright sense of intolerance through his work), at most insensitive. However, this is just my opinion since I am not trans.
+>>>>>>>> 
+>>>>>>>> I do agree with /u/nohat partially in that there should be direct quotes we can talk over whether they warrant labelling the entire work transphobic though. That would be more productive.
 
->>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>> 
 >>>>>>>>> People get to form their own opinions on whether the author is a bigot. I mean, it seems pretty obvious to me, but all I do is say that author has objectionable politics and link to here. Anyone who wants to decide for themselves gets to see this entire conversation.
->>>>>>>>> 
 
->>>>>>>>>> **u/Rice_22** [+6] *
+>>>>>>>>>> **u/Rice_22** [+6]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> In the interest of discussion, I have linked some of the relevant chapters for review. If you guys don't mind spoilers, I think this should help clear up things.
->>>>>>>>>> For some background: >!the power is associated with a villainous cult who worships an evil goddess, where those higher in the cult become more and more alike their deity (thus the change in gender for male followers). Few if any of the cult's members are portrayed as sympathetic as a result. However, every single cultist that became female was described in the text as supernaturally attractive (to both genders).!<
->>>>>>>>>> I think the first instance in which the involved character's POV is shown is [Chapter 66](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-66).
->>>>>>>>>> >!The MC is aware of the involved character's new existence in [Chapter 125](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-125/). She has shown up twice earlier without the MC realising her change in gender.!<
->>>>>>>>>> >!The MC finds another, kills her, and finds out some information regarding why they change into women in [Chapters 195-200](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-195).!<
->>>>>>>>>> >!An important person's diary talked briefly about having sex with someone from the cult in [Chapter 290](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-290/), but he might be unaware of the fact many of them are former men.!<
->>>>>>>>>> >!The same diary writer mocks the other pathway that turns women into men in [Chapter 484](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-484/).!<
->>>>>>>>>> >!The MC meets the first escaped cultist again, now a fugitive running away from being a mistress of a Prince and being subjected to supernatural brainwashing in [Chapter 470-471](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-470/).!<
 >>>>>>>>>> 
+>>>>>>>>>> For some background: >!the power is associated with a villainous cult who worships an evil goddess, where those higher in the cult become more and more alike their deity (thus the change in gender for male followers). Few if any of the cult's members are portrayed as sympathetic as a result. However, every single cultist that became female was described in the text as supernaturally attractive (to both genders).!<
+>>>>>>>>>> 
+>>>>>>>>>> I think the first instance in which the involved character's POV is shown is [Chapter 66](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-66).
+>>>>>>>>>> 
+>>>>>>>>>> >!The MC is aware of the involved character's new existence in [Chapter 125](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-125/). She has shown up twice earlier without the MC realising her change in gender.!<
+>>>>>>>>>> 
+>>>>>>>>>> >!The MC finds another, kills her, and finds out some information regarding why they change into women in [Chapters 195-200](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-195).!<
+>>>>>>>>>> 
+>>>>>>>>>> >!An important person's diary talked briefly about having sex with someone from the cult in [Chapter 290](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-290/), but he might be unaware of the fact many of them are former men.!<
+>>>>>>>>>> 
+>>>>>>>>>> >!The same diary writer mocks the other pathway that turns women into men in [Chapter 484](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-484/).!<
+>>>>>>>>>> 
+>>>>>>>>>> >!The MC meets the first escaped cultist again, now a fugitive running away from being a mistress of a Prince and being subjected to supernatural brainwashing in [Chapter 470-471](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-470/).!<
 
->>>>>>>> **u/nohat** [+7] *
+>>>>>>>> **u/nohat** [+7]  (a day later)
 >>>>>>>> 
 >>>>>>>> > Politics and worldview inform a story's content.
->>>>>>>> This is quite a large topic, and only tangentially relevant so I will just say that worldview may inform content, but you don't automatically know how (or what someones worldview actually is). If you can't point out something wrong with the actual content, clearly it hasn't been 'informed' in a damaging way. So why condemn it just because you don't agree with the author on everything. 
->>>>>>>> > And apparently there is a trans character in this one, so.
->>>>>>>> So? Having a trans character proves what? Someone said there is a trans character outside the current translation (I don't know about that part, and presumably you don't either), they didn't say they were portrayed poorly.
->>>>>>>> > I put this specific warning because there are people who may not want to support someone who's a bigot.
->>>>>>>> You are claiming the author is a bigot. The evidence for that is that someone on reddit said that they thought some of the characters in the book written by the author would think negatively about hypothetical trans characters because these characters thought something slightly negative about some other non trans characters.
 >>>>>>>> 
+>>>>>>>> This is quite a large topic, and only tangentially relevant so I will just say that worldview may inform content, but you don't automatically know how (or what someones worldview actually is). If you can't point out something wrong with the actual content, clearly it hasn't been 'informed' in a damaging way. So why condemn it just because you don't agree with the author on everything. 
+>>>>>>>> 
+>>>>>>>> > And apparently there is a trans character in this one, so.
+>>>>>>>> 
+>>>>>>>> So? Having a trans character proves what? Someone said there is a trans character outside the current translation (I don't know about that part, and presumably you don't either), they didn't say they were portrayed poorly.
+>>>>>>>> 
+>>>>>>>> > I put this specific warning because there are people who may not want to support someone who's a bigot.
+>>>>>>>> 
+>>>>>>>> You are claiming the author is a bigot. The evidence for that is that someone on reddit said that they thought some of the characters in the book written by the author would think negatively about hypothetical trans characters because these characters thought something slightly negative about some other non trans characters.
 
->>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>> 
 >>>>>>>>> > If you can't point out something wrong with the actual content, clearly it hasn't been 'informed' in a damaging way.
->>>>>>>>> I mean, that's why I asked for and received direct citations from the text. You can look at them if you want.
 >>>>>>>>> 
+>>>>>>>>> I mean, that's why I asked for and received direct citations from the text. You can look at them if you want.
 
->>>>>>>>>> **u/nohat** [+6] *
+>>>>>>>>>> **u/nohat** [+6]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Maybe you see something I don't, because all I see is:
->>>>>>>>>> > Can't pull up a direct quote, but basically one of the cultivation routes...
 >>>>>>>>>> 
+>>>>>>>>>> > Can't pull up a direct quote, but basically one of the cultivation routes...
 
->>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Check the sub-comments below it. https://www.reddit.com/r/rational/comments/dro17z/d_monday_request_and_recommendation_thread/f6l9lj8/
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/nohat** [+9] *
+>>>>>>>>>>>> **u/nohat** [+5]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> None of those quote anything?
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> >It's on the order of 1 sentence every ~50 chapters
->>>>>>>>>>>>> Like, everyone who has read the story is agreeing that it's there, it exists. If you don't trust them then that's fair, and I'll comb through the text myself until I find these occurrences.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> Like, everyone who has read the story is agreeing that it's there, it exists. If you don't trust them then that's fair, and I'll comb through the text myself until I find these occurrences.
 
->>>>>>>>>>>>>> **u/nohat** [+9] *
+>>>>>>>>>>>>>> **u/nohat** [+9]  (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> > Like, everyone who has read the story is agreeing that it's there, it exists.
->>>>>>>>>>>>>> You said:
->>>>>>>>>>>>>> > I mean, that's why I asked for and received direct citations from the text. You can look at them if you want.
->>>>>>>>>>>>>> I read the story, it's very long so maybe I missed something, but to my recollection it just had, as I said, a few characters express surprise and amusement. The MC has a few mocking thoughts (schadenfreude) about the surprise these (evil) men must have had at learning the secret that they must transform into women. It's complicated because these people didn't want to transform, but they still chose to for magical power. It's unknown whether they identify as women or men. The main plot point was simply that this transformation made tracking one of them very difficult. The scenario just doesn't really map onto real life.
->>>>>>>>>>>>>> This is really insufficient to accuse the author of bigotry, much less post said accusation on every mention of his book.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> You said:
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> > I mean, that's why I asked for and received direct citations from the text. You can look at them if you want.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I read the story, it's very long so maybe I missed something, but to my recollection it just had, as I said, a few characters express surprise and amusement. The MC has a few mocking thoughts (schadenfreude) about the surprise these (evil) men must have had at learning the secret that they must transform into women. It's complicated because these people didn't want to transform, but they still chose to for magical power. It's unknown whether they identify as women or men. The main plot point was simply that this transformation made tracking one of them very difficult. The scenario just doesn't really map onto real life.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> This is really insufficient to accuse the author of bigotry, much less post said accusation on every mention of his book.
 
->>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >The MC has a few mocking thoughts (schadenfreude) about the surprise these (evil) men must have had at learning the secret that they must transform into women. 
->>>>>>>>>>>>>>> Does this not stick out to you at all as maybe indicative of something? Another user has stated >!There's another pathway that turns the drinker male, who is similarly mocked but to a lesser degree.!<, so, you know, everything adds up. I don't "accuse the author of bigotry," either. The only thing I do is provide a tag that says the author's politics are objectionable, which links here. So if someone wants specifics they'll see this whole conversation.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Does this not stick out to you at all as maybe indicative of something? Another user has stated >!There's another pathway that turns the drinker male, who is similarly mocked but to a lesser degree.!<, so, you know, everything adds up. I don't "accuse the author of bigotry," either. The only thing I do is provide a tag that says the author's politics are objectionable, which links here. So if someone wants specifics they'll see this whole conversation.
 
->>>>>>>>>>>>>>>> **u/nohat** [+10] *
+>>>>>>>>>>>>>>>> **u/nohat** [+10]  (a day later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> Being transformed to a sex not your own is treated as a painful/difficult thing by the MC, that's not transphobic.
->>>>>>>>>>>>>>>> To my recollection the male transform potion is mentioned in one line, with just an offhand thought that it wasn't quite as bad for the drinker -- a pretty clear fact in victorian fantasy land. 
->>>>>>>>>>>>>>>> You post a tag "Objectionable author politics" that links to a post saying there's transphobia, and in sub comments say that you think the author is a bigot, and some people don't like supporting bigots. I don't see how that isn't an accusation. You really don't see a problem with posting that on every mention of the book?
->>>>>>>>>>>>>>>> Once again you have nothing at all from the author himself. You are entirely assuming the opinion of a character is the opinion of the author. Moreover you are assuming the opinion of the character, because that's hardly clear. Moreover you haven't even read the supposed problematic parts yourself.
->>>>>>>>>>>>>>>> Of course the author might be bigoted, I do think this is very slight Bayesian evidence of that, but I think you are way overstating it, and that's not a trivial accusation.
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> To my recollection the male transform potion is mentioned in one line, with just an offhand thought that it wasn't quite as bad for the drinker -- a pretty clear fact in victorian fantasy land. 
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> You post a tag "Objectionable author politics" that links to a post saying there's transphobia, and in sub comments say that you think the author is a bigot, and some people don't like supporting bigots. I don't see how that isn't an accusation. You really don't see a problem with posting that on every mention of the book?
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> Once again you have nothing at all from the author himself. You are entirely assuming the opinion of a character is the opinion of the author. Moreover you are assuming the opinion of the character, because that's hardly clear. Moreover you haven't even read the supposed problematic parts yourself.
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> Of course the author might be bigoted, I do think this is very slight Bayesian evidence of that, but I think you are way overstating it, and that's not a trivial accusation.
 
->>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> Here's someone who has just listed sources, then.
->>>>>>>>>>>>>>>>> https://www.reddit.com/r/rational/comments/dro17z/d_monday_request_and_recommendation_thread/f6oendw/
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> https://www.reddit.com/r/rational/comments/dro17z/d_monday_request_and_recommendation_thread/f6oendw/
 
->>>>>>>>>>>>>>>>>> **u/nohat** [+7] *
+>>>>>>>>>>>>>>>>>> **u/nohat** [+6]  (a day later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> Do you see anything transphobic in those chapters?
->>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> Personally, yeah, but I lack the context surrounding them so I would take up this discussion with others who've got far enough to talk about this in an informed manner.
->>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>> **u/CCC_037** [+8] *
+>>>>>>>>>>>>>>>> **u/CCC_037** [+9]  (a day later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> I have, in the past, written a short story in which one of the characters was Adolf Hitler. Now, I think we can all agree that his politics were highly objectionable.
->>>>>>>>>>>>>>>> Does that make my politics necessarily objectionable?
->>>>>>>>>>>>>>>> More generally, is there any good reason to assume that an author's politics must always match the politics of the characters he writes?
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> Does that make my politics necessarily objectionable?
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> More generally, is there any good reason to assume that an author's politics must always match the politics of the characters he writes?
 
->>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> Naw. First, you take a look at what the author espouses when they're not writing a story. If that's not viable, you look at their culture and see if they've explicitly denied having X position. Then you look at what's implied in-story, look at the tone, how the narrator treats X issue. Now, the narrator *could* just be a bigot, but that doesn't seem to be the case here, since we're given an everyman protagonist—or so it seems from what I've read. You've got isekai, anyway. The alternative is that this is just a very, very badly written story that brings across tones that are completely contrary to the author's worldview. This is actually very hard to do, usually resulting from very small snippets of text, which *really* isn't the case, because when an issue in mentioned more than once and in more than a very offhand manner, the author's actual opinion tends to shine through. So by process of elimination, it seems very likely that the tag is applicable here.
->>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>> **u/CCC_037** [+8] *
+>>>>>>>>>>>>>>>>>> **u/CCC_037** [+8]  (a day later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > First, you take a look at what the author espouses when they're not writing a story.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> That's reasonable. So, let's consider the case where the author is silent on the matter.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > If that's not viable, you look at their culture and see if they've explicitly denied having X position.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> Um... if they've denied holding X position, then that's something written when they're not writing a story. So, this really folds into the above.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > Then you look at what's implied in-story, look at the tone, how the narrator treats X issue.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> This is where it gets *super* tricky. In-story implications, especially about a subject that the *reader* feels intensely about, can easily be seen where they were never meant.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> This goes double when the author and the reader are from different cultures (or different time periods). And *triple* when there's a translator in the mix. Potential sources for confusion include:
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> - The author uses terms which have become slurs in Culture A. However, the author himself is a member of Culture B, which has different slurs.
 >>>>>>>>>>>>>>>>>> - The translator has a bias which the author does not share; this shades the translation one way or the other.
 >>>>>>>>>>>>>>>>>> - The author uses what he considers to be natural language (e.g. using the phrase "all the guys" to describe a partially-female group). A reader is expecting extreme correctness of terms and calls that sexism.
 >>>>>>>>>>>>>>>>>> - The author is *not* trying to write all his characters to be extremely politically correct, and is rather trying to imply that they are flawed in various ways. Some of these flaws are assumed to reflect on the author by an oversensitive reader.
->>>>>>>>>>>>>>>>>> > The alternative is that this is just a very, very badly written story that brings across tones that are completely contrary to the author's worldview.
->>>>>>>>>>>>>>>>>> So... you're capable of discerning the author's precise worldview from examining the tones of his story?
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> > The alternative is that this is just a very, very badly written story that brings across tones that are completely contrary to the author's worldview.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> So... you're capable of discerning the author's precise worldview from examining the tones of his story?
 
->>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> > So, this really folds into the above.
->>>>>>>>>>>>>>>>>>> If you wish, you can consider these the same action.
->>>>>>>>>>>>>>>>>>> >This goes double when the author and the reader are from different cultures (or different time periods). And triple when there's a translator in the mix.
->>>>>>>>>>>>>>>>>>> These can introduce confusion, certainly. Your list is helpful in finding false positives.
->>>>>>>>>>>>>>>>>>> >So... you're capable of discerning the author's precise worldview from examining the tones of his story?
->>>>>>>>>>>>>>>>>>> Hey now, don't put words in my mouth. I can't tell you the *precise* worldview of someone given only indirect information. However, a writer does put a lot of themself into their works. Little glimpses past the curtain build up, become evidence of one idea or another the author may have. So while an author using slurs *may* be an innocent mistake from someone with another culture, and their characters may just be written to be terrible people, and casual bigotry in language or action could just be the author showing how bigotry manifests, it's a bit harder to excuse it all away when you put a lot of evidence together. So while yes, the translator could have subtly shaded the story in such a way as to promote a false version of the author's actual intent, such a thing is pretty unlikely. And while the casual sneering going on about how other characters are trapped in the body of the wrong sex could just be showing how our everyman self-insert protagonist is actually a bigot, the lack of anyone calling out that behavior makes it doubtful. And while a casual reference to X social group could be, just by chance, coded in a way that people who irrationally dislike X social group tend to code them, when it happens multiple times, it's very unlikely. These stack up.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> If you wish, you can consider these the same action.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >This goes double when the author and the reader are from different cultures (or different time periods). And triple when there's a translator in the mix.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> These can introduce confusion, certainly. Your list is helpful in finding false positives.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >So... you're capable of discerning the author's precise worldview from examining the tones of his story?
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Hey now, don't put words in my mouth. I can't tell you the *precise* worldview of someone given only indirect information. However, a writer does put a lot of themself into their works. Little glimpses past the curtain build up, become evidence of one idea or another the author may have. So while an author using slurs *may* be an innocent mistake from someone with another culture, and their characters may just be written to be terrible people, and casual bigotry in language or action could just be the author showing how bigotry manifests, it's a bit harder to excuse it all away when you put a lot of evidence together. So while yes, the translator could have subtly shaded the story in such a way as to promote a false version of the author's actual intent, such a thing is pretty unlikely. And while the casual sneering going on about how other characters are trapped in the body of the wrong sex could just be showing how our everyman self-insert protagonist is actually a bigot, the lack of anyone calling out that behavior makes it doubtful. And while a casual reference to X social group could be, just by chance, coded in a way that people who irrationally dislike X social group tend to code them, when it happens multiple times, it's very unlikely. These stack up.
 
->>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+2] *
+>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+2]  (a day later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> Apologies for reading too much into your words. (But do you see how *easy* it is to do?)
->>>>>>>>>>>>>>>>>>>> A writer puts a lot of themselves into their works, yes. But not *just* themselves. A writer also puts in what they observe of the world around them.
->>>>>>>>>>>>>>>>>>>> A writer who observes bigotry can include it without being a bigot. A writer who observes bigotry not being called out by society can include bigotry without calling it out for multiple reasons; including the possibility of being a reflection on society, a subtle commentary on societal reactions, and so on.
->>>>>>>>>>>>>>>>>>>> If you want a list of works that have fallen foul of these sorts of implications in a completely *unintentional* manner, I'd point you to the [Unfortunate Implications](https://tvtropes.org/pmwiki/pmwiki.php/Main/UnfortunateImplications) tvtropes page, which lists exactly that. And calling things out without *very* good reason can certainly have [negative effects](https://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> A writer puts a lot of themselves into their works, yes. But not *just* themselves. A writer also puts in what they observe of the world around them.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> A writer who observes bigotry can include it without being a bigot. A writer who observes bigotry not being called out by society can include bigotry without calling it out for multiple reasons; including the possibility of being a reflection on society, a subtle commentary on societal reactions, and so on.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> If you want a list of works that have fallen foul of these sorts of implications in a completely *unintentional* manner, I'd point you to the [Unfortunate Implications](https://tvtropes.org/pmwiki/pmwiki.php/Main/UnfortunateImplications) tvtropes page, which lists exactly that. And calling things out without *very* good reason can certainly have [negative effects](https://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
 
->>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> > Apologies for reading too much into your words. (But do you see how easy it is to do?)
->>>>>>>>>>>>>>>>>>>>> To be fair, you did get the general gist. You can pretty easily guess an author's ideology, especially if a story goes above a personal level.
->>>>>>>>>>>>>>>>>>>>> >including the possibility of being a reflection on society, a subtle commentary on societal reactions, and so on.
->>>>>>>>>>>>>>>>>>>>> Indeed. However, it's one more data point. For Lord of the Mysteries, there is enough data for me to pretty conclusively say that the story is taking a side on that issue, and it is not a positive one. While a statement can have unintended implications, especially if an author is not very skilled, there's just too much here to dismiss.
 >>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> To be fair, you did get the general gist. You can pretty easily guess an author's ideology, especially if a story goes above a personal level.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> >including the possibility of being a reflection on society, a subtle commentary on societal reactions, and so on.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Indeed. However, it's one more data point. For Lord of the Mysteries, there is enough data for me to pretty conclusively say that the story is taking a side on that issue, and it is not a positive one. While a statement can have unintended implications, especially if an author is not very skilled, there's just too much here to dismiss.
 
->>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+3] *
+>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+3]  (a day later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> To be fair, the general gist - i.e. what the author is *explicitly saying* - is (usually) dead easy to guess. It gets a lot more difficult when we get into the question of what the author is *implying*.
->>>>>>>>>>>>>>>>>>>>>> Incidentally, just out of curiosity - if the only writings of his that were available were *The Hobbit* and the *Lord of the Rings* series, what conclusions would you draw about the politics of J.R.R. Tolkien?
->>>>>>>>>>>>>>>>>>>>>> I pick him largely because the books to which I refer are well-known enough that it's likely that you're well aware of them; considering *only* those written works will allow us both to get some idea (after some more research) of just how accurate you are at reading author politics from fiction.
 >>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Incidentally, just out of curiosity - if the only writings of his that were available were *The Hobbit* and the *Lord of the Rings* series, what conclusions would you draw about the politics of J.R.R. Tolkien?
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> I pick him largely because the books to which I refer are well-known enough that it's likely that you're well aware of them; considering *only* those written works will allow us both to get some idea (after some more research) of just how accurate you are at reading author politics from fiction.
 
->>>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> Hmm, well I'd say he'd religious and his political views are probably at least informed by that. The background in the Lord of the Rings series suggests heavy Christian influence. Do be aware it's been a while since I've read Tolkien.
->>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> Okay, I can see signs of it there, with Sauron as Lucifer and so on. But why would you go from there to 'Tolkein is Christian' instead of merely 'Tolkein is familiar with Christianity'?
->>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>> Well, because Christianity seems to be the *main* influence in LotR lore. Like, when I was a Christian you could be a hundred percent sure I would've spread that all across my books. Nowadays I might make an offhand reference to it or draw inspiration for one of my fictional religions, but it's not going to be the actual history of the universe like it is in LotR. Reading between the lines it seems like Tolkein subscribes to one of the more traditional sects of Christianity.
->>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> Hmmm.
->>>>>>>>>>>>>>>>>>>>>>>>>> I'd put it to you, in response, that the influence of Christianity on Lord of the Rings is substantially *less* than the influence of Christianity on, say, *The Chronicles of Narnia*.
->>>>>>>>>>>>>>>>>>>>>>>>>> Now, if you were to conclude from Narnia that C.S. Lewis were Christian, I would heartily agree; Lewis is unsubtle on the matter. But Tolkien's link here seems a lot weaker. And would it help to point out that Tolkien was writing in the same sort of era as WWII? The concept of Mordor being equatable to Russia is (I would imagine) a far easier conclusion to draw.
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> I'd put it to you, in response, that the influence of Christianity on Lord of the Rings is substantially *less* than the influence of Christianity on, say, *The Chronicles of Narnia*.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> Now, if you were to conclude from Narnia that C.S. Lewis were Christian, I would heartily agree; Lewis is unsubtle on the matter. But Tolkien's link here seems a lot weaker. And would it help to point out that Tolkien was writing in the same sort of era as WWII? The concept of Mordor being equatable to Russia is (I would imagine) a far easier conclusion to draw.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>> It seems more like, from their perspectives, Lewis wants to proselytize—Tolkein is just describing *what is*. But yeah, Tolkein was likely adding his experiences and knowledge of WW2 to his work as well.
->>>>>>>>>>>>>>>>>>>>>>>>>>> 
 
->> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (5 hours later)
 >> 
 >> I’m not going to de-rec this because I don’t think I got far enough in to give it a fair chance, but wow, that prose is awful. I really hope it’s just a result of the translation.
->> 
 
->>> **u/Rice_22** [+8] *
+>>> **u/Rice_22** [+9]  (7 hours later)
 >>> 
 >>> Yeah, I understand if it's a turn off for a native English reader used to quality stuff like PGtE etc. I'm used to it because I regularly devour translated Japanese/Chinese/Korean series and even stomached through hundreds of chapters of pure machine translations, so I built up quite a tolerance. 
->>> I would recommend you to keep reading, at least for a "novel" experience involving the work of a writer from another culture. The writer's plot ideas and weaving narrative definitely shines through despite the occasional bad prose, I guarantee.
->>> Part of the prose is because of the translator's choice of words, but the Chinese language (like other East Asian languages actually) favours a lot of quirks in writing like repetition for emphasis, off-hand references to idioms (that comes off as long-winded in English), onomatopoeia, and words with double/triple meanings which are all relevant in context.
->>> If I have to rate the translation, it turns what should be a 9/10 story into high 7/10. Not as great as it should be, but still definitely worth reading.
 >>> 
+>>> I would recommend you to keep reading, at least for a "novel" experience involving the work of a writer from another culture. The writer's plot ideas and weaving narrative definitely shines through despite the occasional bad prose, I guarantee.
+>>> 
+>>> Part of the prose is because of the translator's choice of words, but the Chinese language (like other East Asian languages actually) favours a lot of quirks in writing like repetition for emphasis, off-hand references to idioms (that comes off as long-winded in English), onomatopoeia, and words with double/triple meanings which are all relevant in context.
+>>> 
+>>> If I have to rate the translation, it turns what should be a 9/10 story into high 7/10. Not as great as it should be, but still definitely worth reading.
 
->>>> **u/IICVX** [+3] *
+>>>> **u/IICVX** [+3]  (7 hours later)
 >>>> 
 >>>> Ya for anyone wondering, the prose is roughly standard webnovel translation fare; if you've ever enjoyed a translated Chinese web novel, you'll enjoy this. If you've never tried a translated web novel before, this one is worth giving a shot.
->>>> 
 
->>> **u/EdLincoln6** [+2] *
+>>> **u/EdLincoln6** [+2]  (19 hours later)
 >>> 
 >>> I've never been able to read translated Asian works for this reason.
->>> 
 
->>> **u/reddithanG** [+2] *
+>>> **u/reddithanG** [+2]  (8 hours later)
 >>> 
 >>> Try to stomach the writing/prose because there’s a genuinely compelling and unique story to read there.
->>> 
 
->> **u/AurelianoTampa** [+4] *
+>> **u/AurelianoTampa** [+4]  (2 days later)
 >> 
 >> I'm reading it, and I like it, and it helps that new chapters get translated pretty much every day (sometimes a few times per day). To follow up on some of your comments...
->> > the setting is basically a mix between SCP Foundation, Bloodborne/Dark Souls, Lovecraftian horror and Dickens-lite stories 
->> You're not kidding here! Bloodborne especially, as one of the aliases the protagonist is using is >!Gehrman Sparrow, which is a combination of Gehrman the First Hunter from BB and Jack Sparrow from Pirates.!<
->> > It's also refreshing that the MC is unable to uplift the world significantly because he doesn't have photographic memory...
->> Well, he does kinda get a photographic memory eventually, as well as the ability for others to create copies of things they have read. And another part of the reason he isn't able to uplift the world is because oil essentially doesn't exist, so a lot of the technology he knows about isn't something that is feasible. It is a refreshing take on the trope, though.
->> > one of the most common criticisms of the novel is that it is translated from Chinese, and thus occasionally suffer from strange prose and anachronistic names. 
->> I have never seen so much lampooning before!
->> There's also some amount of cultural differences too. The protagonist seems pretty disgusted by trans characters, and mocks gay people. It took me a long time to figure out, but "curly-haired baboon" is a an awkward turn of phrase that seems to be a translation for a gay slur of some kind. Originally I just thought it was a generic insult, but later on it is used specifically to refer to a gay character. 
->> It definitely isn't the worst kind of work for these things, and they are fairly rare. But each time they kinda caught me by surprise.
->> > There's also some folks who thinks the protagonist didn't suffer enough permanent consequences from courting death so often. 
->> I'm not in this camp, but if I had a criticism it would be that the protagonist doesn't really seem to focus on getting back to his original world, nor does he miss his friends/family/old life. Yes, you can argue that his eventual goal is to ascend to godhood and hopefully have enough power to send himself back... but it really doesn't intrude on his mind. It's like he claims he wants to go back because the author feels like that's an obvious thing to want, but by not focusing on what he's missing it just feels like an excuse. It also stood out to me that the protagonist refers to himself by the name of the person whose body he took over, not as his original name. Even internally he thinks of himself as Klein, not Zhou Mingrui. I feel like this is a common isekai problem, where the protagonist being pulled into a new world is just a simple plot device so that audience understands where his references come from, but it isn't how a real person would likely act or think. 
->> Those minor quibbles aside, I second the rec. It's an interesting world with a neat power system that gets used in creative ways.
 >> 
+>> > the setting is basically a mix between SCP Foundation, Bloodborne/Dark Souls, Lovecraftian horror and Dickens-lite stories 
+>> 
+>> You're not kidding here! Bloodborne especially, as one of the aliases the protagonist is using is >!Gehrman Sparrow, which is a combination of Gehrman the First Hunter from BB and Jack Sparrow from Pirates.!<
+>> 
+>> > It's also refreshing that the MC is unable to uplift the world significantly because he doesn't have photographic memory...
+>> 
+>> Well, he does kinda get a photographic memory eventually, as well as the ability for others to create copies of things they have read. And another part of the reason he isn't able to uplift the world is because oil essentially doesn't exist, so a lot of the technology he knows about isn't something that is feasible. It is a refreshing take on the trope, though.
+>> 
+>> > one of the most common criticisms of the novel is that it is translated from Chinese, and thus occasionally suffer from strange prose and anachronistic names. 
+>> 
+>> I have never seen so much lampooning before!
+>> 
+>> There's also some amount of cultural differences too. The protagonist seems pretty disgusted by trans characters, and mocks gay people. It took me a long time to figure out, but "curly-haired baboon" is a an awkward turn of phrase that seems to be a translation for a gay slur of some kind. Originally I just thought it was a generic insult, but later on it is used specifically to refer to a gay character. 
+>> 
+>> It definitely isn't the worst kind of work for these things, and they are fairly rare. But each time they kinda caught me by surprise.
+>> 
+>> > There's also some folks who thinks the protagonist didn't suffer enough permanent consequences from courting death so often. 
+>> 
+>> I'm not in this camp, but if I had a criticism it would be that the protagonist doesn't really seem to focus on getting back to his original world, nor does he miss his friends/family/old life. Yes, you can argue that his eventual goal is to ascend to godhood and hopefully have enough power to send himself back... but it really doesn't intrude on his mind. It's like he claims he wants to go back because the author feels like that's an obvious thing to want, but by not focusing on what he's missing it just feels like an excuse. It also stood out to me that the protagonist refers to himself by the name of the person whose body he took over, not as his original name. Even internally he thinks of himself as Klein, not Zhou Mingrui. I feel like this is a common isekai problem, where the protagonist being pulled into a new world is just a simple plot device so that audience understands where his references come from, but it isn't how a real person would likely act or think. 
+>> 
+>> Those minor quibbles aside, I second the rec. It's an interesting world with a neat power system that gets used in creative ways.
 
->>> **u/Rice_22** [+1] *
+>>> **u/Rice_22** [+1]  (2 days later)
 >>> 
 >>> >*Originally I just thought it was a generic insult, but later on it is used specifically to refer to a gay character.*
->>> I think I've missed this part. From what I read, the only time the word "gay" was used was to make fun of the MC's coworker and that was only a one-off comment in [Chapter 21](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-21). There are a few gay/bisexual characters, but I don't remember any of them being referred to as a baboon.
 >>> 
+>>> I think I've missed this part. From what I read, the only time the word "gay" was used was to make fun of the MC's coworker and that was only a one-off comment in [Chapter 21](https://boxnovel.com/novel/lord-of-the-mysteries/chapter-21). There are a few gay/bisexual characters, but I don't remember any of them being referred to as a baboon.
 
->>>> **u/AurelianoTampa** [+1] *
+>>>> **u/AurelianoTampa** [+1]  (2 days later)
 >>>> 
 >>>> I was pretty sure Miss Justice meets a noble at some point and refers to him this way, though I'm only vaguely recalling it and couldn't locate it after a quick scan of the text. 
+>>>> 
 >>>> I did find in chapter 624:
+>>>> 
 >>>> > In accordance with Admiral Amyrius Rieveldt’s traits, he decided to first use work as an excuse. After that would be the excuse of him not feeling well, him losing the ability to have sex, him needing some time to digest any medicine he had just taken, and how he had suddenly realized his true sexual orientation, making him find curly-haired baboons extremely attractive. 
+>>>> 
 >>>> A few chapters later he uses the phrase again, though it's less overtly about being gay:
+>>>> 
 >>>> > H*e’s a gentleman who’s of good bearing and garners the affection of women. Eh, this point is open to debate. With his standing and status, even a curly-haired baboon would garner the affection of men and women, no—perhaps even more. At the very least, a curly-haired baboon doesn’t tell dated jokes…* 
+>>>> 
 >>>> Much earlier, in chapter 462, we have this part:
+>>>> 
 >>>> > “23rd April. This bunch of aristocrats really are a mess! I even thought that Ma’am Karen had seduced me for sex because she had taken a fancy for my inner self. But who knew that her husband, the Earl of Champagne, was peeping in the opposite room. He was even thrilled and even f\*\*king wanted to f\*\*k me!   
 >>>> >  
 >>>> >Klein was momentarily speechless. He felt that the private life of Emperor Roselle was really filled with excitement and that many of the Intis aristocracy were also sufficiently eccentric.  
 >>>> >  
 >>>> >*If some aristocrat tries to seek novelty and finds a curly-haired baboon, some kind of disease might even be born…* Klein sighed and looked down.
->>>> Rereading it now, it seems less clear that it's a gay slur. But a good number of the times it gets used, it is as part of a situation discussing non-heterosexual sex. It doesn't come up often, but much of the time it does, it's basically comparing non-straight sex to being as eccentric as having sex with curly-haired baboons.
 >>>> 
+>>>> Rereading it now, it seems less clear that it's a gay slur. But a good number of the times it gets used, it is as part of a situation discussing non-heterosexual sex. It doesn't come up often, but much of the time it does, it's basically comparing non-straight sex to being as eccentric as having sex with curly-haired baboons.
 
->>>>> **u/valeskas** [+3] *
+>>>>> **u/valeskas** [+3]  (2 days later)
 >>>>> 
 >>>>> >basically comparing non-straight sex to being as eccentric as having sex with curly-haired baboons
->>>>> Checking the wiki page:
->>>>> >The percentage of males who reported sexual interactions with animals in 1974 was 4.9% (1948: 8.3%), and in females in 1974 was 1.9% (1953: 3.6%). Miletski believes this is not due to a reduction in interest but merely a reduction in opportunity.
->>>>> It seems that sex with curly-haired baboon is not that eccentric.
 >>>>> 
+>>>>> Checking the wiki page:
+>>>>> 
+>>>>> >The percentage of males who reported sexual interactions with animals in 1974 was 4.9% (1948: 8.3%), and in females in 1974 was 1.9% (1953: 3.6%). Miletski believes this is not due to a reduction in interest but merely a reduction in opportunity.
+>>>>> 
+>>>>> It seems that sex with curly-haired baboon is not that eccentric.
 
->>>>> **u/Rice_22** [+1] *
+>>>>> **u/Rice_22** [+1]  (3 days later)
 >>>>> 
 >>>>> >*I was pretty sure Miss Justice meets a noble at some point and refers to him this way*
->>>>> That’s what I first thought too, but I don’t remember if she referred to the noble as a baboon in that chapter.
->>>>> From the three passages quoted, I believe the slur isn’t referring to gay characters, more a generic insult comparing humans to simians. Also, the last passage is likely referring to HIV originating from monkeys (beastality) as well as the rather eccentric cuckold/voyeur fetish.
 >>>>> 
+>>>>> That’s what I first thought too, but I don’t remember if she referred to the noble as a baboon in that chapter.
+>>>>> 
+>>>>> From the three passages quoted, I believe the slur isn’t referring to gay characters, more a generic insult comparing humans to simians. Also, the last passage is likely referring to HIV originating from monkeys (beastality) as well as the rather eccentric cuckold/voyeur fetish.
 
->> **u/AzaleaEllis** [+4] *
+>> **u/AzaleaEllis** [+4]  (a day later)
 >> 
 >> I'm a fan.  Started this recently due to what was likely your recommendation. As to the statements about bigotry, I've seen hints of whay might be insensitivity, but it's such a small part of the story it's hard to tell, and especially so because the targets aren't real trans people but "bad guys" who got surprised with the need to change into a woman to upgrade their evil superpowers, because the path only allows women. There's an opposite power path as well,  that requires only men. As of the current translation, the characters haven't shown any views that made me actually feel like the author had a problem with any minority groups or other countries, races, etc. I'm not okay with bigotry, but I don't think people should be scared off the story for fear of it. Judge for yourself.
->> 
 
->> **u/megazver** [+2] *
+>> **u/megazver** [+2]  (4 days later)
 >> 
 >> In the first twenty chapters or so the prose was pretty bad even by Chinese web translation standards and nothing grabbed my interest enough to continue, unfortunately.
->> 
 
->>> **u/Rice_22** [+3] *
+>>> **u/Rice_22** [+3]  (4 days later)
 >>> 
 >>> That's a shame. All I can say is it gets a lot better after the background is established. The build-up and ending of volume one is something every reader should experience.
->>> 
 
-> **u/None** [+15] *
+> **u/None** [+16]  (13 hours later)
 > 
 > Since it just updated after a long hiatus, I'm going to post a rec for [Battle Action Harem Highschool Side Character Quest (No SV, you are the Waifu)](https://forums.sufficientvelocity.com/threads/battle-action-harem-highschool-side-character-quest-no-sv-you-are-the-waifu.15335/) here.
-> This is a quest (so, reader voting and all that) about a very traumatized child soldier learning to recover her humanity as she participates in an ongoing war between all of humanity and an invasive, incomprehensible alien force. The initial premise is that the protagonist, Anna, is one of the supporting characters in a harem anime, but the incredible worldbuilding, characterization, and combat scenes quickly leave that premise in the dust with their sheer excellence.
-> Anna is very well-written and engaging character, and the journey she's on has me 100% hooked.
-> Note: the wait between chapters is long. As in "a year of hiatus is not unusual" long. If you don't want to deal with that, you may want to skip it for now.
 > 
+> This is a quest (so, reader voting and all that) about a very traumatized child soldier learning to recover her humanity as she participates in an ongoing war between all of humanity and an invasive, incomprehensible alien force. The initial premise is that the protagonist, Anna, is one of the supporting characters in a harem anime, but the incredible worldbuilding, characterization, and combat scenes quickly leave that premise in the dust with their sheer excellence.
+> 
+> Anna is very well-written and engaging character, and the journey she's on has me 100% hooked.
+> 
+> Note: the wait between chapters is long. As in "a year of hiatus is not unusual" long. If you don't want to deal with that, you may want to skip it for now.
 
->> **u/Bowbreaker** [+9]  *Solitary Locust**
+>> **u/Bowbreaker** [+8]  *Solitary Locust* (14 hours later)
 >> 
 >> How does a quest keep voters if it has frequent bouts of hiatus? It must be really well written.
->> 
 
->>> **u/skiueli** [+6] *
+>>> **u/skiueli** [+6]  (23 hours later)
 >>> 
 >>> Updates are also quite large, the latest being 30k words.
->>> 
 
->> **u/JohnKeel** [+3] *
+>> **u/JohnKeel** [+3]  (a day later)
 >> 
 >> Oh wow, I assumed it was dead years ago.
->> 
 
-> **u/andor3333** [+13] *
+> **u/andor3333** [+11]  (40 seconds later)
 > 
 > Auto-moderator didn't post the thread, so I went ahead and posted it.
-> 
 
->> **u/alexanderwales** [+15]  *Time flies like an arrow**
+>> **u/alexanderwales** [+15]  *Time flies like an arrow* (an hour later)
 >> 
 >> My guess is that it's related to daylight savings time. I'll look into it, but nothing has changed.
->> 
 
-> **u/Lightwavers** [+13]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+13]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (an hour later)
 > 
 > In honor of [Animorphs: The Reckoning](https://archiveofourown.org/works/5627803/chapters/12963046) coming out of hiatus soon, here’s [Six Days The Animorphs Were Idiots](http://cinnamonbunzuh.blogspot.com/2011/11/ifis-fanfiction-chapter-one-part-one.html).
-> 
 
->> **u/hyphenomicon** [+4]  *seer of seers, prognosticator of prognosticators**
+>> **u/hyphenomicon** [+4]  *seer of seers, prognosticator of prognosticators* (7 hours later)
 >> 
 >> One thing I like about The Reckoning is that there's almost a role reversal between Alloran and The Visser, relative to the dynamic between ordinary Yeerks and their hosts. Alloran nudges the Visser into doing things subtly differently than he otherwise would, while Yeerks, despite having complete control, are constricted to their host's previous habits to maintain an appearance of normalcy. I generally think of Yeerks as being locked inside the host, but Alloran as being locked inside The Visser. The Visser has a stronger claim on Alloran's body than Alloran, at this point, and it's almost Alloran who is the parasite.
->> I mention this because
->> > <You could kill yourself,> suggested Alloran.
->> Made me laugh.
 >> 
+>> I mention this because
+>> 
+>> > <You could kill yourself,> suggested Alloran.
+>> 
+>> Made me laugh.
 
->> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (a day later)
 >> 
 >> I love tripping-balls-Marco unironically and with all of my heart.
->> 
 
-> **u/EdLincoln6** [+8] *
+> **u/EdLincoln6** [+7]  (19 hours later)
 > 
 > Looking for a regular old fantasy novel where the hero is a reasonable guy trying to live his life in a very different world rather then a reckless murder hobo.  I like rational fiction, but I define "Rational" as common sense.  I love hard magic systems, but you can rarely find an author who can do both at once as well as actually write so I'll compromise on the other elements of rational fiction to get a professionally edited book.    
 > Loved Mother of Learning, Street Cultivation, Mistborn, Jumper.  Limited tolerance for Anime Fox Girls and books that try to imitate Anime in general.
-> 
 
->> **u/None** [+11] *
+>> **u/None** [+11]  (19 hours later)
 >> 
 >> The Unwilling Warlord by Lawrence Watt Evans
->> 
 
->>> **u/MayMaybeMaybeline** [+4] *
+>>> **u/MayMaybeMaybeline** [+3]  (a day later)
 >>> 
 >>> Yep, I was going to rec The Misenchanted Sword, also by him. Watt-Evans is just great at this sort of story.
->>> 
 
->>>> **u/EdLincoln6** [+2] *
+>>>> **u/EdLincoln6** [+2]  (2 days later)
 >>>> 
 >>>> I've thought of the protagonist of that story in connection with LitRPG.  I'd love to read a book from the point of view of a guy who sets up a business outside of a Dungeon.  It seems a lot of the arguments he makes about mines would apply to dungeons as well.
->>>> 
 
->>> **u/EdLincoln6** [+2] *
+>>> **u/EdLincoln6** [+2]  (20 hours later)
 >>> 
 >>> Ooooh...I loved that one.
->>> 
 
->>> **u/Dent7777** [+1]  *House Atreides**
+>>> **u/Dent7777** [+1]  *House Atreides* (22 hours later)
 >>> 
 >>> Should I read this book first? It seems it is the third in a series.
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (22 hours later)
 >>>> 
 >>>> It's series of stand-alones in the same world but with different characters.
->>>> 
 
->>>>> **u/Dent7777** [+1]  *House Atreides**
+>>>>> **u/Dent7777** [+1]  *House Atreides* (23 hours later)
 >>>>> 
 >>>>> Ah, got it
->>>>> 
 
->>>>> **u/EdLincoln6** [+1] *
+>>>>> **u/EdLincoln6** [+1]  (a day later)
 >>>>> 
 >>>>> Not all of them are rational or rationalist.
->>>>> 
 
->> **u/Anew_Returner** [+7] *
+>> **u/Anew_Returner** [+5]  (2 days later)
 >> 
 >> > Limited tolerance for Anime Fox Girls 
->> I thought this was a fic's name, I even googled it lmao.
 >> 
+>> I thought this was a fic's name, I even googled it lmao.
 
->>> **u/EdLincoln6** [+4] *
+>>> **u/EdLincoln6** [+4]  (2 days later)
 >>> 
 >>> My grade school teachers would yell at me and say this points out the dangers of arbitrary use of capitalization.
->>> I'm also a little surprised there **ISN'T** a book with that title.  You should write one...it would totally sell.
 >>> 
+>>> I'm also a little surprised there **ISN'T** a book with that title.  You should write one...it would totally sell.
 
->>>> **u/Anew_Returner** [+2] *
+>>>> **u/Anew_Returner** [+2]  (2 days later)
 >>>> 
 >>>> I'll make sure to credit you if I do, ngl the first thought I had after I realized it wasn't a real thing was that it should be one, the second thought was that I really should finish reading entire sentences before jumping to conclusions...
->>>> 
 
->> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (2 days later)
 >> 
 >> > Limited tolerance for Anime Fox Girls and books that try to imitate Anime in general.
->> I have an extremely high tolerance for anime fox girls, so if there's stuff you'd otherwise have completed if it wasn't for the anime, send it my way!
 >> 
+>> I have an extremely high tolerance for anime fox girls, so if there's stuff you'd otherwise have completed if it wasn't for the anime, send it my way!
 
->>> **u/EdLincoln6** [+1] *
+>>> **u/EdLincoln6** [+1]  (2 days later)
 >>> 
 >>> I'm having some problem with *A Hero's War* on Royal Road because when the hero acquired an Anime Fox Girl companion it made it hard to take seriously.  
-
->>> Now that I look most of the problematic fox girls were in Progression Fantasy of some sort.    
-
->>> For the record, I'm totally OK with Fox Shifters provided they don't have cute fox ears and tail in human form.  Also OK with fox guys.
 >>> 
+>>> Now that I look most of the problematic fox girls were in Progression Fantasy of some sort.    
+>>> 
+>>> For the record, I'm totally OK with Fox Shifters provided they don't have cute fox ears and tail in human form.  Also OK with fox guys.
 
->> **u/fassina2** [+1]  *Progressive Overload**
+>> **u/fassina2** [+1]  *Progressive Overload* (2 days later)
 >> 
 >> Lightbringer series by Brent Weeks. Final book came out last october, and it's incredible. The worldbuilding is great, the magic system is hard and great. The MC starts as a regular intelligent chubby teenager. Just ignore the cover on the first one, it does such a disservice.
->> 
 
->>> **u/Anderkent** [+3] *
+>>> **u/Anderkent** [+3]  (4 days later)
 >>> 
 >>> Huh! I admit I was wary after the first couple chapters of the first book, but it got much better very quickly! At chapter 60 and this might be one of the better fantasy books read recently. Thanks for the rec!
->>> 
 
->> **u/megazver** [+1] *
+>> **u/megazver** [+1]  (4 days later)
 >> 
 >> Try [Max Frei's The Stranger](https://smile.amazon.com/Stranger-Labyrinths-Echo-Book-ebook/dp/B07RTBL2QG). The translation isn't great but if you read stuff recommended on /r/rational you'll probably tolerate it.
->> EDIT: Also, [Cultivation Chat Group](https://www.wuxiaworld.co/Cultivation-Chat-Group/) is probably the best cultivation novel I've read. Like most of them, the start is a little slow, but stick with it. It's a slice-of-life sitcom about a Chinese college student who accidentally gets invited into the eponymous chat group and after a brief period of thinking that they're all crazy LARPers posting in-character, realizes this shit is real and becomes a cultivator himself. It's often hilarious, extremely well translated (especially after the first few chapters) by Chinese webnovel standards and is notable among its peers for having a protagonist who, for once, is just a Tom Hanks-level nice dude who tries to help people.
 >> 
+>> EDIT: Also, [Cultivation Chat Group](https://www.wuxiaworld.co/Cultivation-Chat-Group/) is probably the best cultivation novel I've read. Like most of them, the start is a little slow, but stick with it. It's a slice-of-life sitcom about a Chinese college student who accidentally gets invited into the eponymous chat group and after a brief period of thinking that they're all crazy LARPers posting in-character, realizes this shit is real and becomes a cultivator himself. It's often hilarious, extremely well translated (especially after the first few chapters) by Chinese webnovel standards and is notable among its peers for having a protagonist who, for once, is just a Tom Hanks-level nice dude who tries to help people.
 
-> **u/None** [+7] *
+> **u/None** [+8]  (11 hours later)
 > 
 > I'm looking for heavy AU fanfiction focused on indiscriminately disregarding canon after a certain point in time, and writing down the rest while trying to not be influenced by it. Think writing something like The Games We Play or Ectomancer *now*, massive AU elements be damned. Or completely ignoring everything after the Prisoner of Azkaban, and so having an AU in which, amongst many other things, the Unforgivables don't exist, Slughorn or Ariana Dumbledore don't exist, Horcruxes don't exist, Tom Riddle was a relatively normal prodigy from a pureblooded Riddle family, and so on. Basically, going back in time and finishing the story your way, *without* the appearance of later worldbuilding and characters (this is important; without that, it would just fall into a 'normal' AU category [and inevitably fall back onto the Stations of Canon anyway]).
-> Alternatively, just good *old* (written in an early stage of the original story in question) fanfiction with expansive worldbuilding.
-> Don't care about the fandom.
 > 
+> Alternatively, just good *old* (written in an early stage of the original story in question) fanfiction with expansive worldbuilding.
+> 
+> Don't care about the fandom.
 
->> **u/boomfarmer** [+7]  *Trying to be helpful**
+>> **u/boomfarmer** [+5]  *Trying to be helpful* (18 hours later)
 >> 
 >> For the AUs, how about [Saruman of Many Devices](https://m.fanfiction.net/s/7568728/1/Saruman-of-many-Devices)?
->> 
 
->>> **u/kraryal** [+7] *
+>>> **u/kraryal** [+10]  (20 hours later)
 >>> 
 >>> This is a really interesting AU and the early parts are great going, but later on the number of POVs explodes and the author has a hard time advancing each plot thread.   
-
->>> It's also dead, but I found the first half to be worth rereading multiple times. I keep wishing it would update again.
 >>> 
+>>> It's also dead, but I found the first half to be worth rereading multiple times. I keep wishing it would update again.
 
->> **u/paradoxinclination** [+3] *
+>> **u/paradoxinclination** [+3]  (a day later)
 >> 
 >> This doesn't quite fit your criteria (it's an AU with extensive world building, and it is old, but it's based off of two completed series), but the [Shadow Chronicles](http://www.shadowchronicles.net/) are great and I rarely get a chance to recommend it. It's a Ranma 1/2 fanfic (but you don't need to have read the series to understand it) set in a dark AU where demons are slowly devouring the entire multiverse, world by world. 
->> I would recommend skipping through the first four arcs and straight to On A Clear Day You Can See Forever. You don't need to have read the other arcs to understand it, and it's where the crazy worldbuilding really kicks into high gear, and if you enjoy it the previous arcs make a nice prequel.
 >> 
+>> I would recommend skipping through the first four arcs and straight to On A Clear Day You Can See Forever. You don't need to have read the other arcs to understand it, and it's where the crazy worldbuilding really kicks into high gear, and if you enjoy it the previous arcs make a nice prequel.
 
->>> **u/GlimmervoidG** [+2] *
+>>> **u/GlimmervoidG** [+2]  (a day later)
 >>> 
 >>> On A Clear Day You Can See Forever is great.
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (16 hours later)
 >> 
 >> [Looking Glass](https://www.fanfiction.net/s/9131565/1/Looking-Glass) is a Worm fanfic that was begun before Worm ended, and therefore has a lot of details about how powers work or how the Multiverse functions run counter to canon. Still a great story.
->> 
 
->> **u/narfanator** [+2] *
+>> **u/narfanator** [+2]  (a day later)
 >> 
 >> I had a good time with this one awhile ago for most of it, and that's definitely the case:  [https://www.fanfiction.net/s/3886999/1/Shinji-and-Warhammer40k](https://www.fanfiction.net/s/3886999/1/Shinji-and-Warhammer40k)
->> 
 
->> **u/Anderkent** [+2] *
+>> **u/Anderkent** [+2]  (2 days later)
 >> 
 >> Have you read [The Last Ringbearer](https://ymarkov.livejournal.com/280578.html)? It's been a while since I did, but I recall enjoying it immensely. It's not quite what you ask for; it subverts canon rather ignoring it. Still, worth a try.
->> 
 
->> **u/aponty** [+1] *
+>> **u/aponty** [+1]  (15 hours later)
 >> 
 >> I'm interested in this as well. Searches I've attempted in the past, to some degree of success, include "best harry potter fanfics of \[year\]" where \[year\] was at various stages of canon completion
->> 
 
->> **u/hwc** [+1] *
+>> **u/hwc** [+1]  (a day later)
 >> 
 >> Or Star Wars where Jedi don't have telekinetic or lightning powers you see in episodes 5 and 6. Just psychic powers and are coordinated enough to wield a lightsaber blind without cutting off their own foot.
->> 
 
->> **u/MereInterest** [+1] *
+>> **u/MereInterest** [+1]  (3 days later)
 >> 
 >> [A Thing of Vikings](https://archiveofourown.org/works/10408971/chapters/22985466) is a How to Train Your Dragon fanfiction that takes the first film as canon, then places it in context of eleventh century European politics.  Other works in the HttyD franchise are used for occasional character inspirations, but are not canon with respect to the fic.
->> 
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (15 hours later)
 >> 
 >> [Earth & Sky](https://www.fimfiction.net/story/34622/earth-sky) - expansive worldbuilding, written 'in the future' at an early stage of the relevant canon.
->> 
 
->>> **u/aponty** [+0] *
+>>> **u/aponty** [+0]  (a day later)
 >>> 
 >>> that reminds me
->>> my favorite pony fic was [https://www.fimfiction.net/story/273/paradise](https://www.fimfiction.net/story/273/paradise) and it fits a similar description, except it is set in the past
->>> before it went on hiatus (and stayed on hiatus due to author health) I got a html save of the first 21 chapters [https://drive.google.com/file/d/1qTppY2xVEJM2fCVlAokX8OOvs6w4YsOa/view?usp=sharing](https://drive.google.com/file/d/1qTppY2xVEJM2fCVlAokX8OOvs6w4YsOa/view?usp=sharing) (download to view)
->>> &#x200B;
->>> It has its own fansong here: [https://www.youtube.com/watch?v=mXvbuYzpxuo](https://www.youtube.com/watch?v=mXvbuYzpxuo)
 >>> 
+>>> my favorite pony fic was [https://www.fimfiction.net/story/273/paradise](https://www.fimfiction.net/story/273/paradise) and it fits a similar description, except it is set in the past
+>>> 
+>>> before it went on hiatus (and stayed on hiatus due to author health) I got a html save of the first 21 chapters [https://drive.google.com/file/d/1qTppY2xVEJM2fCVlAokX8OOvs6w4YsOa/view?usp=sharing](https://drive.google.com/file/d/1qTppY2xVEJM2fCVlAokX8OOvs6w4YsOa/view?usp=sharing) (download to view)
+>>> 
+>>> &#x200B;
+>>> 
+>>> It has its own fansong here: [https://www.youtube.com/watch?v=mXvbuYzpxuo](https://www.youtube.com/watch?v=mXvbuYzpxuo)
 
-> **u/ivory12** [+6] *
+> **u/ivory12** [+6]  (a day later)
 > 
 > This week I watched:
-> *The Lighthouse*. Very artsy and allegorical, sometimes at its own expense. The horror elements were understated. I confess I don't think it lived up to the hype it's been getting. Pattinson and Dafoe were excellent, but the movie was overlong and, after a fashion, under-resolved. 8/10; if you liked Robert Eggers's other work, *The Witch,* you'll like this.
-> *The King* on Netflix. An amalgamation of Shakespeare's Henriad and the real history of Henry V, I think it tried too hard to hit a middle ground between the two and failed to live up to its promise on either side. I liked, among other things, the reimagining of Falstaff's character and basically everyone's performance. The combat scenes were brutal. Making a Henry V movie without the St. Crispin's day speech is attempting too much to subvert expectations, though. 7.5/10; wonderful cinematography, acting, and sound design that carries a slightly thin script quite far. Undermined a bit by a whitewashing of Henry's motivations and his lack of agency in some ways and a cartoonish depiction of the Dauphin (although Pattinson is magnificently over the top).
-> And I read J. M. Coetzee's *Disgrace* in one sitting on a flight. Absolute gutpunch of a novel. A tight and gripping first half that turns exhausting yet held me hostage until I finished it. An interesting meditation on apartheid, reparation, gender relations, and language set in racially divided South Africa. Coetzee's prose is as excellent as always, and the religious symbolism and political commentary manages to be simultaneously overt, explicit, and impartial. 9/10, but I'm never going to read it again.
-> In terms of web fiction, I'm continuing to be disappointed in the LitRPG / Gamelit stuff out there. From RoyalRoad's offerings, *Azarinth Healer* was poor, and *New World* too; the stories available for free trend towards endlessly introspective garbage with more time spent on character stats and bland fight scenes than narrative substance. 
-> *He Who Fights With Monsters* was quality, though, and I would recommend it (which makes it amongst the only gamelit stuff I would that I've read, along with *Worth the Candle* and *Threadbare*). I can't quite call it rational fiction, but it is somewhat internally consistent and the main character's social intelligence is higher and better written than you often see in these kind of stories.
 > 
+> *The Lighthouse*. Very artsy and allegorical, sometimes at its own expense. The horror elements were understated. I confess I don't think it lived up to the hype it's been getting. Pattinson and Dafoe were excellent, but the movie was overlong and, after a fashion, under-resolved. 8/10; if you liked Robert Eggers's other work, *The Witch,* you'll like this.
+> 
+> *The King* on Netflix. An amalgamation of Shakespeare's Henriad and the real history of Henry V, I think it tried too hard to hit a middle ground between the two and failed to live up to its promise on either side. I liked, among other things, the reimagining of Falstaff's character and basically everyone's performance. The combat scenes were brutal. Making a Henry V movie without the St. Crispin's day speech is attempting too much to subvert expectations, though. 7.5/10; wonderful cinematography, acting, and sound design that carries a slightly thin script quite far. Undermined a bit by a whitewashing of Henry's motivations and his lack of agency in some ways and a cartoonish depiction of the Dauphin (although Pattinson is magnificently over the top).
+> 
+> And I read J. M. Coetzee's *Disgrace* in one sitting on a flight. Absolute gutpunch of a novel. A tight and gripping first half that turns exhausting yet held me hostage until I finished it. An interesting meditation on apartheid, reparation, gender relations, and language set in racially divided South Africa. Coetzee's prose is as excellent as always, and the religious symbolism and political commentary manages to be simultaneously overt, explicit, and impartial. 9/10, but I'm never going to read it again.
+> 
+> In terms of web fiction, I'm continuing to be disappointed in the LitRPG / Gamelit stuff out there. From RoyalRoad's offerings, *Azarinth Healer* was poor, and *New World* too; the stories available for free trend towards endlessly introspective garbage with more time spent on character stats and bland fight scenes than narrative substance. 
+> 
+> *He Who Fights With Monsters* was quality, though, and I would recommend it (which makes it amongst the only gamelit stuff I would that I've read, along with *Worth the Candle* and *Threadbare*). I can't quite call it rational fiction, but it is somewhat internally consistent and the main character's social intelligence is higher and better written than you often see in these kind of stories.
 
->> **u/EdLincoln6** [+4] *
+>> **u/EdLincoln6** [+4]  (a day later)
 >> 
 >> *He Who Fights With Monsters* is pretty decent and updates a lot.
->> If you liked that, you might like *Eight*.  One of the most sensible protagonists in the LitRPG genre and it looks like they are setting up a semi-hard magic system.  Probably closer to rationalist fiction then *He Who Fights With Monsters.*  Lots of stat screens, but not a lot of numbers.
 >> 
+>> If you liked that, you might like *Eight*.  One of the most sensible protagonists in the LitRPG genre and it looks like they are setting up a semi-hard magic system.  Probably closer to rationalist fiction then *He Who Fights With Monsters.*  Lots of stat screens, but not a lot of numbers.
 
->>> **u/ivory12** [+1] *
+>>> **u/ivory12** [+1]  (4 days later)
 >>> 
 >>> Thanks. Circling back on these recs, a quick google of *Eight* doesn't bring up anything besides a perimeter defence LitRPG. Point me in the right direction? :)
->>> 
 
->>>> **u/EdLincoln6** [+3] *
+>>>> **u/EdLincoln6** [+3]  (5 days later)
 >>>> 
 >>>> Ah.  Googling one word titles that are words in the English language is problematic, isn't it?   [Eight by 3seed on Royal Road](https://www.royalroad.com/fiction/26734/eight).
->>>> 
 
->> **u/pldl** [+4] *
+>> **u/pldl** [+3]  (a day later)
 >> 
 >> I agree that *Azarinth Healer* and *New World* were poor. 
->> He Who Fights With Monsters was OK in terms of worldbuilding, but I thought the main character was bad and got progressively worse. His social intelligence only seemed high in the beginning because the social intelligence of the other characters were being dumbed down. >!What would you classify openly disrespecting an extremely powerful entity as, in terms of social intelligence?!<
 >> 
+>> He Who Fights With Monsters was OK in terms of worldbuilding, but I thought the main character was bad and got progressively worse. His social intelligence only seemed high in the beginning because the social intelligence of the other characters were being dumbed down. >!What would you classify openly disrespecting an extremely powerful entity as, in terms of social intelligence?!<
 
->>> **u/ivory12** [+1] *
+>>> **u/ivory12** [+1]  (a day later)
 >>> 
 >>> Like I said, it's an extremely shallow genre. Even the chaff starts to look edible at a certain point. On the notion of his disrespecting a capital-G entity, I thought that came across as an almost deontological stand of his for his principles - orthogonal to any question of intelligence.
->>> 
 
->>> **u/EdLincoln6** [+1] *
+>>> **u/EdLincoln6** [+1]  (2 days later)
 >>> 
 >>> I totally agree that \[SPOILER\] was not rational and was kind of annoying  That sort of thing is a big pet peeve of mine.  It's a common problem of the genre.  I think it boils down to what you think of as being rational...are you thinking in terms of common sense or a rationalist philosophy?  It's a stand for what we see as a rationalist worldview while at the same time lacking in common sense.    
-
->>> I do think the last couple...episodes?...sort of show the main character trying to address his more reckless qualities.    
-
->>> *Azarinth Healer* involves a protagonist who behaves more like a video game character then a real person tossed into a dangerous person.  Reckless and not at all like a person. But there is math, if you like that sort of thing.
 >>> 
+>>> I do think the last couple...episodes?...sort of show the main character trying to address his more reckless qualities.    
+>>> 
+>>> *Azarinth Healer* involves a protagonist who behaves more like a video game character then a real person tossed into a dangerous person.  Reckless and not at all like a person. But there is math, if you like that sort of thing.
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >> 
 >> Have you tried [Delve](https://www.royalroad.com/fiction/25225/delve)?
->> 
 
->>> **u/ivory12** [+4] *
+>>> **u/ivory12** [+4]  (a day later)
 >>> 
 >>> I am current with Delve, yeh. In some ways it's good, but in others it exemplifies the worst of the genre with the avalanche of numbers that bury the reader. Thanks for the rec!
->>> 
 
->>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (a day later)
 >>>> 
 >>>> Yeah but for me, the numbers/math is a pro, and it does some cool stuff with it. By having the main character figure out the formulas behind his stats and skills, he can use it to figure out the fastest leveling speed and best skills to buy.
->>>> It makes the specific numbers actually meaningful instead of the nearly meaningless stat increases in say, Azarinth Healer and Legend of Randidly Ghosthound (no links because I recommend against them).
->>>> If you really want some litrpgs with the stat pages and numbers a rarity, try [Way of the Shaman](https://www.amazon.com/gp/aw/d/B074C9P3YF/?ie=UTF8&fp=1&pc_redir=T1).
->>>> There's a focus on the game but it's on skill usage instead of increasing the level/skill number. Stat pages are shown like once per book.
->>>> PS The preview sample pages on Amazon do a good job of conveying the story. If you don't like it after reading them, don't get them.
->>>> PPS Have you tried the r/ProgressionFantasy subreddit?
 >>>> 
+>>>> It makes the specific numbers actually meaningful instead of the nearly meaningless stat increases in say, Azarinth Healer and Legend of Randidly Ghosthound (no links because I recommend against them).
+>>>> 
+>>>> If you really want some litrpgs with the stat pages and numbers a rarity, try [Way of the Shaman](https://www.amazon.com/gp/aw/d/B074C9P3YF/?ie=UTF8&fp=1&pc_redir=T1).
+>>>> 
+>>>> There's a focus on the game but it's on skill usage instead of increasing the level/skill number. Stat pages are shown like once per book.
+>>>> 
+>>>> PS The preview sample pages on Amazon do a good job of conveying the story. If you don't like it after reading them, don't get them.
+>>>> 
+>>>> PPS Have you tried the r/ProgressionFantasy subreddit?
 
->>>>> **u/RetardedWabbit** [+3] *
+>>>>> **u/RetardedWabbit** [+3]  (3 days later)
 >>>>> 
 >>>>> I'm also a fan of the math in Delve, it scratches a problem solving itch for me and serves as a interesting advantage for the protagonist to have over the locals. Have you read anything similar? 
->>>>> The closest most litrpgs get is calculating stamina and Mana for training.
 >>>>> 
+>>>>> The closest most litrpgs get is calculating stamina and Mana for training.
 
->>>>> **u/ivory12** [+1] *
+>>>>> **u/ivory12** [+1]  (a day later)
 >>>>> 
 >>>>> Nope, haven't tried that subreddit, did spend some time trawling through /r/Litrpg's top all time posts the other day but that's about the extent of how far I've dipped my toe into the water (that and the top rated stuff on RR). I'll check both those things out, thanks again. 
->>>>> I don't really have a hate-on for numbers, they just should be in service to the actual story, and so often in these things there really is no 'actual story' beyond endless powerwank and monsters with ever-growing levels to stand in the way and be powerwanked at.
 >>>>> 
+>>>>> I don't really have a hate-on for numbers, they just should be in service to the actual story, and so often in these things there really is no 'actual story' beyond endless powerwank and monsters with ever-growing levels to stand in the way and be powerwanked at.
 
->>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>>>>> 
 >>>>>> Fair enough. Progression Fantasy is about stories where the main character is focused on getting stronger. So it's similar to litrpgs but without the gamelike aspects or as much numbers if any.
->>>>>> 
 
-> **u/None** [+7] *
+> **u/None** [+5]  (10 hours later)
 > 
 > [deleted]
-> 
 
->> **u/EdLincoln6** [+9] *
+>> **u/EdLincoln6** [+8]  (19 hours later)
 >> 
 >> *Street Cultivation* by Sarah Lin.  Not strictly rationalist fiction, but at least rational fiction.  It tries to figure out how elements of the standard Cultivation magic system would work in modern society.  The main character behaves in a reasonably sane manner...and when he does something dumb he realizes it and stops.
->> One of those books that fits the groups criteria as well as some of the stuff that gets mentioned, but is never mentioned because it doesn't quite fit with the very specific tastes of the community.
 >> 
+>> One of those books that fits the groups criteria as well as some of the stuff that gets mentioned, but is never mentioned because it doesn't quite fit with the very specific tastes of the community.
 
->>> **u/narfanator** [+1] *
+>>> **u/narfanator** [+1]  (a day later)
 >>> 
 >>> I read what was already written (book 1) and am now following book 2. I would recommend it, although I'd put it solidly in the B tier. Very nice for when you want something simpler / more relaxing.
->>> It's solid young adult fiction. There's massive amounts of off-screen R&D (mostly prior to the story start), and although the MC does thing through their situation and comes up with some pretty clever stuff, that's not what defines him, so the rationalist itch is only sort of scratched.  
-
->>> That said, massive props to the author - I've started thinking in terms of "investing in my lucrima cores", and I feel like I've learned a new meditative technique from it.
 >>> 
+>>> It's solid young adult fiction. There's massive amounts of off-screen R&D (mostly prior to the story start), and although the MC does thing through their situation and comes up with some pretty clever stuff, that's not what defines him, so the rationalist itch is only sort of scratched.  
+>>> 
+>>> That said, massive props to the author - I've started thinking in terms of "investing in my lucrima cores", and I feel like I've learned a new meditative technique from it.
 
->>>> **u/EdLincoln6** [+2] *
+>>>> **u/EdLincoln6** [+2]  (a day later)
 >>>> 
 >>>> >although the MC does thing through their situation and comes up with some pretty clever stuff, that's not what defines him, so the rationalist itch is only sort of scratched.
->>>> Genuinely curious about the meaning of this statement.  Are we requiring protagonists in rationalist fiction have rationalism as their sole defining character trait?  Or that they think and talk about rationality?  This could be one of the missing pieces that explains why what I think of when I read the official criteria diverges so much from what the group suggests.  Personally, I find the idea a protagonist has no personality beyond "rational" a bad thing. I'm also not a super fan of characters who preach rationality...it raises the stakes, makes it more obnoxious if the character does act irrational down the road.  Nothing worse then a Murder Hobo preaching logic.  I kind of like a character who is quietly sensible.
->>>> There is a serial I've been following that features a rational protagonist and which seems to be developing a semi-hard magic system.  The protagonist also has a reverence for mysticism, whic makes sense in-universe because the world seems to be set up to reward a certain level of mysticism.  Is that rational fiction, and would it irritate people in this community?
->>>> Anyway, Street Cultivation is unique in that it deconstructs the Cultivation genre.  Nobody does that...the super hero and Epic Fantasy genres are deconstructed all the time.  The Cultivation genre tends to be very ritualized and the exact opposite of rationalism...the standard Cultivation universe doesn't quite make sense and the standard protagonist is a reckless gambler with some huge blind spots.
 >>>> 
+>>>> Genuinely curious about the meaning of this statement.  Are we requiring protagonists in rationalist fiction have rationalism as their sole defining character trait?  Or that they think and talk about rationality?  This could be one of the missing pieces that explains why what I think of when I read the official criteria diverges so much from what the group suggests.  Personally, I find the idea a protagonist has no personality beyond "rational" a bad thing. I'm also not a super fan of characters who preach rationality...it raises the stakes, makes it more obnoxious if the character does act irrational down the road.  Nothing worse then a Murder Hobo preaching logic.  I kind of like a character who is quietly sensible.
+>>>> 
+>>>> There is a serial I've been following that features a rational protagonist and which seems to be developing a semi-hard magic system.  The protagonist also has a reverence for mysticism, whic makes sense in-universe because the world seems to be set up to reward a certain level of mysticism.  Is that rational fiction, and would it irritate people in this community?
+>>>> 
+>>>> Anyway, Street Cultivation is unique in that it deconstructs the Cultivation genre.  Nobody does that...the super hero and Epic Fantasy genres are deconstructed all the time.  The Cultivation genre tends to be very ritualized and the exact opposite of rationalism...the standard Cultivation universe doesn't quite make sense and the standard protagonist is a reckless gambler with some huge blind spots.
 
->>>>> **u/narfanator** [+1] *
+>>>>> **u/narfanator** [+1]  (a day later)
 >>>>> 
 >>>>> Sure! I guess... If you look at the canonical examples - HMPOR, Origin of the Species, Shadows of the Limelight, some characters in Unsong, - there's a, I don't know, _flavor_ to the internal reality of the "rational" characters that I'm not finding present in the MC of SC. Dunno how to describe it, but it's more-or-less present, and pretty similar every time it shows up.
->>>>> There's also thinking-about-thinking and/or scope-of-goals. These characters are all looking at the entire _world_ they are in, and usually have extremely long-term and/or far-reaching goals. That's the itch.
->>>>> In SC, he's stuck with very short-term, very small-scope goals. He does a very good job of being both intelligent and creative within that scope, and, honestly, he's kind of /too/ well-adjusted. "scratch the itch" rationalist characters are kind of crazy people.
->>>>> To name some other parts of it, many high-appeal rationalist characters have "rationality" (or some aspect of it) as a terminal value of their own identity, in SC, the MC's terminal values are his sister and climbing out of the almost-poverty-hole they're in. He applies intelligence in service to that, sure, but that intelligence itself is not one of his terminal values.
->>>>> To be clear, I don't think this is a _bad_ thing, it's just a different thing. I play 4X games for the feeling of exponential momentum, I play story games for the feelings a good narrative engenders, and I play clever indie games for the novel puzzles they present. 
->>>>> Totes point us (me?) at this serial; I think the only time I've seen this sub respond poorly/meanly to posted fiction was that trollish parody of a rational DBZ that got posted a long time ago.
->>>>> And yeah! I do like how SC deconstructs aspects of the cultivation genre; I'd actually really like to see a lot more of that, and I'm happy we're learning more about the larger world in this book.
 >>>>> 
+>>>>> There's also thinking-about-thinking and/or scope-of-goals. These characters are all looking at the entire _world_ they are in, and usually have extremely long-term and/or far-reaching goals. That's the itch.
+>>>>> 
+>>>>> In SC, he's stuck with very short-term, very small-scope goals. He does a very good job of being both intelligent and creative within that scope, and, honestly, he's kind of /too/ well-adjusted. "scratch the itch" rationalist characters are kind of crazy people.
+>>>>> 
+>>>>> To name some other parts of it, many high-appeal rationalist characters have "rationality" (or some aspect of it) as a terminal value of their own identity, in SC, the MC's terminal values are his sister and climbing out of the almost-poverty-hole they're in. He applies intelligence in service to that, sure, but that intelligence itself is not one of his terminal values.
+>>>>> 
+>>>>> To be clear, I don't think this is a _bad_ thing, it's just a different thing. I play 4X games for the feeling of exponential momentum, I play story games for the feelings a good narrative engenders, and I play clever indie games for the novel puzzles they present. 
+>>>>> 
+>>>>> Totes point us (me?) at this serial; I think the only time I've seen this sub respond poorly/meanly to posted fiction was that trollish parody of a rational DBZ that got posted a long time ago.
+>>>>> 
+>>>>> And yeah! I do like how SC deconstructs aspects of the cultivation genre; I'd actually really like to see a lot more of that, and I'm happy we're learning more about the larger world in this book.
 
->>>>>> **u/EdLincoln6** [+3] *
+>>>>>> **u/EdLincoln6** [+3]  (a day later)
 >>>>>> 
 >>>>>> >  I don't know, flavor to the internal reality of the "rational" characters that I'm not finding present in the MC of SC.
->>>>>> This is confirmation of my hypothesis that what a lot of people think of when they think "Rationalist Fiction" is slightly different from the criteria listed to the right.  When I read the description of rationalist fiction, I got really excited about this group.  I guess that ill defined "flavor" is a huge turn off to me.  
->>>>>> >  too/ well-adjusted. "scratch the itch" rationalist characters are kind of crazy people.
->>>>>> I totally agree that the most popular characters in the genre are "crazy people".  The thing is, one of the core reasons I got into this group is to search for protagonists who are not "crazy people".  Crazy people are the opposite of rational, and far to common in fiction.  One of the core requirements I have of rational fiction is that the protagonist NOT be a crazy person...I'm willing to compromise on other points.  Reading someone who acts like a crazy person think about rationality is just weird and annoying to me.
 >>>>>> 
+>>>>>> This is confirmation of my hypothesis that what a lot of people think of when they think "Rationalist Fiction" is slightly different from the criteria listed to the right.  When I read the description of rationalist fiction, I got really excited about this group.  I guess that ill defined "flavor" is a huge turn off to me.  
+>>>>>> 
+>>>>>> >  too/ well-adjusted. "scratch the itch" rationalist characters are kind of crazy people.
+>>>>>> 
+>>>>>> I totally agree that the most popular characters in the genre are "crazy people".  The thing is, one of the core reasons I got into this group is to search for protagonists who are not "crazy people".  Crazy people are the opposite of rational, and far to common in fiction.  One of the core requirements I have of rational fiction is that the protagonist NOT be a crazy person...I'm willing to compromise on other points.  Reading someone who acts like a crazy person think about rationality is just weird and annoying to me.
 
->>>>>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>>>>> **u/fassina2** [+1]  *Progressive Overload* (2 days later)
 >>>>>>> 
 >>>>>>> You're putting too much weight on one persons opinions, views and comments.
->>>>>>> &#x200B;
->>>>>>> There are rational stories, a subgenre of those are stories with rationalistic main characters.
->>>>>>> From sidebar: 
->>>>>>> > Aspiring rationalism: the story heavily focuses on characters' thinking, or their attempts to improve their reasoning abilities. This is a feature of **rationalist fiction**, a subcategory of rational fiction. 
->>>>>>> It doesn't mean the every rational story has to have them. 
->>>>>>> At the end of the day though, if your tastes match what's generally recommended / what's in the wiki recommendations here you enjoy rational fiction.. 
->>>>>>> &#x200B;
->>>>>>> PS. I don't think he means crazy as in Crazy more as in quirky or eccentric. But Again those are generally rationalistic character tropes..
 >>>>>>> 
+>>>>>>> &#x200B;
+>>>>>>> 
+>>>>>>> There are rational stories, a subgenre of those are stories with rationalistic main characters.
+>>>>>>> 
+>>>>>>> From sidebar: 
+>>>>>>> 
+>>>>>>> > Aspiring rationalism: the story heavily focuses on characters' thinking, or their attempts to improve their reasoning abilities. This is a feature of **rationalist fiction**, a subcategory of rational fiction. 
+>>>>>>> 
+>>>>>>> It doesn't mean the every rational story has to have them. 
+>>>>>>> 
+>>>>>>> At the end of the day though, if your tastes match what's generally recommended / what's in the wiki recommendations here you enjoy rational fiction.. 
+>>>>>>> 
+>>>>>>> &#x200B;
+>>>>>>> 
+>>>>>>> PS. I don't think he means crazy as in Crazy more as in quirky or eccentric. But Again those are generally rationalistic character tropes..
 
->>>>>>>> **u/EdLincoln6** [+3] *
+>>>>>>>> **u/EdLincoln6** [+3]  (2 days later)
 >>>>>>>> 
 >>>>>>>> >You're putting too much weight on one persons opinions, views and comments.
->>>>>>>> Nope.  After extensive googling I have verified  [narfanato](https://www.reddit.com/user/narfanator/)r represents the pinnacle of wisdom and an authority on anything.     :-)
->>>>>>>> Seriously...the group wiki (more then the sidebar) reads like someone wrote out my tastes in detail, but the defining works not so much.
->>>>>>>> And I do agree with the earlier post that lots of "Rationalist" protagonists are kind of crazy if judged by their actions.  Aspiring Rationalism is often paired with surreptitious use of the Idiot Ball...and I tend to dislike the second more then I like the first.
->>>>>>>> This is a tangent more then anything else of course.   N[arfanator](https://www.reddit.com/user/narfanator/) and I agree there is a certain stylistic difference between *Street Cultivation* and the more popular Rationalist works.  Whether this is a good thing or a bad one depends on whether you care for the style of the canonical rationalist works.
 >>>>>>>> 
+>>>>>>>> Nope.  After extensive googling I have verified  [narfanato](https://www.reddit.com/user/narfanator/)r represents the pinnacle of wisdom and an authority on anything.     :-)
+>>>>>>>> 
+>>>>>>>> Seriously...the group wiki (more then the sidebar) reads like someone wrote out my tastes in detail, but the defining works not so much.
+>>>>>>>> 
+>>>>>>>> And I do agree with the earlier post that lots of "Rationalist" protagonists are kind of crazy if judged by their actions.  Aspiring Rationalism is often paired with surreptitious use of the Idiot Ball...and I tend to dislike the second more then I like the first.
+>>>>>>>> 
+>>>>>>>> This is a tangent more then anything else of course.   N[arfanator](https://www.reddit.com/user/narfanator/) and I agree there is a certain stylistic difference between *Street Cultivation* and the more popular Rationalist works.  Whether this is a good thing or a bad one depends on whether you care for the style of the canonical rationalist works.
 
->>>>>>>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>>>>>>> **u/fassina2** [+1]  *Progressive Overload* (2 days later)
 >>>>>>>>> 
 >>>>>>>>> SC is probably at least rational adjacent.. And the Idiot ball trope is mostly there to hide the Mary Sue-ness a bit and or for plot reasons.
->>>>>>>>> > Seriously...the group wiki (more then the sidebar) reads like someone wrote out my tastes in detail, but the defining works not so much.
->>>>>>>>> You should try Waves Arisen, it's the best one of the bunch imo, it's kind of short too.
 >>>>>>>>> 
+>>>>>>>>> > Seriously...the group wiki (more then the sidebar) reads like someone wrote out my tastes in detail, but the defining works not so much.
+>>>>>>>>> 
+>>>>>>>>> You should try Waves Arisen, it's the best one of the bunch imo, it's kind of short too.
 
->>>>>>> **u/narfanator** [+1] *
+>>>>>>> **u/narfanator** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Totes reasonable. I like the crazy, it's delicious like a drink mixed out of a bunch of things that should NOT go together.
->>>>>>> 
 
->>>>> **u/dinoseen** [+1] *
+>>>>> **u/dinoseen** [+1]  (2 days later)
 >>>>> 
 >>>>> > There is a serial I've been following that features a rational protagonist and which seems to be developing a semi-hard magic system. The protagonist also has a reverence for mysticism, whic makes sense in-universe because the world seems to be set up to reward a certain level of mysticism. Is that rational fiction, and would it irritate people in this community?
->>>>> What's it called?
 >>>>> 
+>>>>> What's it called?
 
->>>>>> **u/EdLincoln6** [+1] *
+>>>>>> **u/EdLincoln6** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Eight
->>>>>> Not much of it yet, but I'm curious what this community would think of it.
 >>>>>> 
+>>>>>> Not much of it yet, but I'm curious what this community would think of it.
 
->>>>>>> **u/dinoseen** [+1] *
+>>>>>>> **u/dinoseen** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Ah. I've seen that recced before, but the whole "put into the body of a child" thing turns me off.
->>>>>>> 
 
->>>>>>>> **u/EdLincoln6** [+1] *
+>>>>>>>> **u/EdLincoln6** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Why?
->>>>>>>> Hey, at least it's not an infant.
 >>>>>>>> 
+>>>>>>>> Hey, at least it's not an infant.
 
->>>>>>>> **u/iftttAcct2** [+1] *
+>>>>>>>> **u/iftttAcct2** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> For what it's worth, I'd also recommend it
->>>>>>>> 
 
->> **u/GlimmervoidG** [+14] *
+>> **u/GlimmervoidG** [+13]  (11 hours later)
 >> 
 >> I like Will Wight's Cradle novels. They're written in English (so no amateur translation - which is my number one problem with other cultivation stories), have good popcorn action plots, there's quite a few of them and the story advances at a fair pace. I enjoyed them a lot. If you're looking for a competently written progression focused series, Cradle is a good place to start.
->> The quest  Forge of Destiny / Threads Of Destiny by yrsillar is also worth mentioning. It stars a young street urchin who joins a cultivation school - the  Argent Peak Sect. Power growth is keep in check. While we see the upper reaches, the MC is still steadily working her way through the first and second years of her school. No young masters causally knocked down. Features an engaging plot, likeable characters and a *lot* of content written so far. Also notable for the MC taking at least partly a support focus. She uses a magical flute that plays haunting magical music.
 >> 
+>> The quest  Forge of Destiny / Threads Of Destiny by yrsillar is also worth mentioning. It stars a young street urchin who joins a cultivation school - the  Argent Peak Sect. Power growth is keep in check. While we see the upper reaches, the MC is still steadily working her way through the first and second years of her school. No young masters causally knocked down. Features an engaging plot, likeable characters and a *lot* of content written so far. Also notable for the MC taking at least partly a support focus. She uses a magical flute that plays haunting magical music.
 
->> **u/Trew_McGuffin** [+3]  *Dao = Improve Yourself**
+>> **u/Trew_McGuffin** [+3]  *Dao = Improve Yourself* (a day later)
 >> 
 >> A quest called [White Collar Cultivator](https://forums.sufficientvelocity.com/threads/white-collar-cultivator.44460/) on Sufficient Velocity and a story on RoyalRoad called [The Dao of Magic](https://www.royalroad.com/fiction/11397/the-dao-of-magic)
->> Note that White Collar is on haitus and it's unknown when said haitus will end and I sort of dropped out of Dao of Magic because for a while it had sluggish updates... Geez there's 276 chapters now.
 >> 
+>> Note that White Collar is on haitus and it's unknown when said haitus will end and I sort of dropped out of Dao of Magic because for a while it had sluggish updates... Geez there's 276 chapters now.
 
->>> **u/IICVX** [+2] *
+>>> **u/IICVX** [+2]  (a day later)
 >>> 
 >>> FYI the sluggish updates in Dao of Magic were because the author was working on his other story, Skeleton in Space. It's a fun magic / tech fusion thing with a really stupidly fun protagonist (he starts out with literal "animated skeleton" intelligence, but at least it's only up from there...)
->>> 
 
->> **u/andor3333** [+2] *
+>> **u/andor3333** [+2]  (17 hours later)
 >> 
 >> [Record of a Mortal's Journey to Immortality](https://www.wuxiaworld.com/novel/rmji) has a cautious and pragmatic protagonist. The series is a slow build but the protagonist is very careful not to get involved in conflicts without a reason and to only start fights with overdetermined outcomes given how unpredictable xiaxia combat is unless the benefit is worth the risk. Longer review [here](https://www.reddit.com/r/rational/comments/cdil1f/d_monday_request_and_recommendation_thread/etu93h6/).
->> 
 
->> **u/Xxzzeerrtt** [+1] *
+>> **u/Xxzzeerrtt** [+1]  (16 hours later)
 >> 
 >> The divine dungeon series is sort of demi-rational, the main character is non human though if that’s a turn off. It’s all in original English, and there’s a sequel series that is neither cultivation-based or rational, but if you find yourself wanting for more it’s there. Writing is very solid, 9/10 rec.
->> 
 
->> **u/EdLincoln6** [+1] *
+>> **u/EdLincoln6** [+1]  (a day later)
 >> 
 >> Savage Divinity has some borderline Rationalist chapters...largely because the series goes on so long and wanders so much the author tries everything once to keep the story going.
->> 
 
->> **u/megazver** [+1] *
+>> **u/megazver** [+1]  (4 days later)
 >> 
 >> Cultivation Chat Group is probably the best one out of them. Like most of them, the start is a little slow, but stick with it. It's a slice-of-life sitcom about a Chinese college student who accidentally gets invited into the eponymous chat group and after a brief period of thinking that they're all crazy LARPers posting in-character, realizes this shit is real and becomes a cultivator himself. It's often hilarious, extremely well translated (especially after the first few chapters) by Chinese webnovel standards and is notable among its peers for having a protagonist who, for once, is just a Tom Hanks-level nice dude who tries to help people.
->> 
 
->> **u/Acromantula92** [+1] *
+>> **u/Acromantula92** [+1]  (5 days later)
 >> 
 >> [40 Milleniums of Cultivation](https://www.reddit.com/r/rational/comments/9y26ew/rt_wip_dc_forty_millenniums_of_cultivation/) is among the best.
->> 
 
-> **u/None** [+5] *
+> **u/None** [+6]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Air_Ship_Time** [+11] *
+>> **u/Air_Ship_Time** [+11]  (7 hours later)
 >> 
 >> https://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-1/
->> 
 
->>> **u/narfanator** [+10] *
+>>> **u/narfanator** [+9]  (a day later)
 >>> 
 >>> FYI: Most pages have worth-while alt-text, and some updates have \_incredibly\_ worthwhile accompanying posts. You can also find those on the wiki; check out Aesma and the Three Masters for my fav.
->>> 
 
->> **u/Amonwilde** [+4] *
+>> **u/Amonwilde** [+4]  (20 hours later)
 >> 
 >> Can you sell me a little harder on One Piece? I have the occasional weakness for shonen anime but have bounced off this every time, seems a little too frenetic too fast. For example, I like Hunter X Hunter as a show that pretty well draws you into an expanding world.
->> 
 
->>> **u/Wolydarg** [+5] *
+>>> **u/Wolydarg** [+4]  (a day later)
 >>> 
 >>> How far did you get in OP before you felt it got too hectic? Luffy starts his adventure in East Blue, meets friends and enemies while traveling the world. I wouldn't say it's very rational as too many people have crazy powers and aren't using them optimally, but it's definitely a fun story with some truly fantastic world building and character development. 
->>> I think my favorite part of One Piece is exploring this crazy world of superpowers and seeing our protagonist+crew travel from island to island and righting the wrongs they see. It's got some genuinely funny moments and surprisingly dark scenarios (children being abducted for research, a villain whose power makes the victim forgotten by everyone, etc.) for a shounen series.
->>> It's been a long time since I read/watched HxH, I think I stopped around when the chimeras were introduced, but I feel that if you liked HxH you should definitely give OP a try. 
->>> Let me know if you have specific questions, I'm pretty bad at just selling something haha. I have spent way too much time reading OP so I'm pretty confident I can answer any question you may have, though.
 >>> 
+>>> I think my favorite part of One Piece is exploring this crazy world of superpowers and seeing our protagonist+crew travel from island to island and righting the wrongs they see. It's got some genuinely funny moments and surprisingly dark scenarios (children being abducted for research, a villain whose power makes the victim forgotten by everyone, etc.) for a shounen series.
+>>> 
+>>> It's been a long time since I read/watched HxH, I think I stopped around when the chimeras were introduced, but I feel that if you liked HxH you should definitely give OP a try. 
+>>> 
+>>> Let me know if you have specific questions, I'm pretty bad at just selling something haha. I have spent way too much time reading OP so I'm pretty confident I can answer any question you may have, though.
 
->>>> **u/malariadandelion** [+5] *
+>>>> **u/malariadandelion** [+5]  (a day later)
 >>>> 
 >>>> It sounds very ~~monster~~ island-of-the-week ish. Do past plot threads recur as the story progresses or is it heavily attached to a formula of sequential isolated arcs?
->>>> 
 
->>>>> **u/fassina2** [+4]  *Progressive Overload**
+>>>>> **u/fassina2** [+5]  *Progressive Overload* (2 days later)
 >>>>> 
 >>>>> The arcs can be seen as books. They tend to be long. Some took 3 years+.
->>>>> &#x200B;
->>>>>  I can see how people may think it's some kind of 'each week is a different thing' story from the outside, but really the arcs function as most stories do, it's just that here it's more blatant because they almost always come in by ship and leave by ship..
 >>>>> 
+>>>>> &#x200B;
+>>>>> 
+>>>>>  I can see how people may think it's some kind of 'each week is a different thing' story from the outside, but really the arcs function as most stories do, it's just that here it's more blatant because they almost always come in by ship and leave by ship..
 
->>>>> **u/Wolydarg** [+2] *
+>>>>> **u/Wolydarg** [+2]  (a day later)
 >>>>> 
 >>>>> Oh yes past plot threads definitely recur, but there's definitely a "formula" of (crew travels to new island, encounters conflict, gains new skills/allies/strength). There is this overarc-ing goal of becoming the Pirate King, and you can definitely see progress being made and roughly where the end of the story would be (which should end in like, 10 years...).
->>>>> Also, to add on to what someone else wrote, definitely read the manga instead of watching the anime. The anime has a lot of pacing issues.
 >>>>> 
+>>>>> Also, to add on to what someone else wrote, definitely read the manga instead of watching the anime. The anime has a lot of pacing issues.
 
->>>> **u/Amonwilde** [+1] *
+>>>> **u/Amonwilde** [+1]  (3 days later)
 >>>> 
 >>>> Probably enough for me to give it a whirl. I'm visually impaired so I don't really have the option to read the manga. Thanks, all!
->>>> 
 
->>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (a day later)
 >>> 
 >>> If you like HxH you will like one piece too. The first couple of chapters are kinda not where the author has to hit his stride yet. ... You might want to try the manga instead of the show, that might also fix the timing issues.
->>> 
 
->> **u/PreFollower** [+2] *
+>> **u/PreFollower** [+2]  (8 hours later)
 >> 
 >> I personally liked "This bites!". It's a self-insert with kinda obnoxious MC, but authors try hard to preserve that overall One Piece feeling while exploring characters and taking into account big-scale power dynamics.
->> 
 
->>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>> 
 >>> [[This Bites!]](https://www.fanfiction.net/s/11515678/1/This-Bites)
->>> 
 
->>> **u/sephirothrr** [+2] *
+>>> **u/sephirothrr** [+2]  (11 hours later)
 >>> 
 >>> It's pretty explicitly non-rational though, with the SI explicitly, yet inconsistently, hiding plot details because of "spoilers."
->>> 
 
->> **u/iftttAcct2** [+1] *
+>> **u/iftttAcct2** [+1]  (3 days later)
 >> 
 >> [Memoirs of a Suicidal Pirate](https://www.fanfiction.net/s/13207817/1/Memoirs-of-a-Suicidal-Pirate)   
 >> [Tell it to the Marines](https://www.fanfiction.net/s/12187990/1/Tell-it-to-the-Marines)  
 >> [Sol Invictus](https://www.fanfiction.net/s/10724961/1/Sol-Invictus)
->> 
 
->> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (a day later)
 >> 
 >> hunter x hunter? Much more gorey+violent.
->> 
 
-> **u/balbal21** [+5] *
+> **u/balbal21** [+4]  (18 hours later)
 > 
 > I have recently read [Aircraft Design Company Quest](https://forums.sufficientvelocity.com/threads/aircraft-design-company-matsuras-planes-are-always-fastest.48927/)
 > on SF forums and am now looking for similar themed fiction or quests, where I can follow arms or technology race in some conflict, similarly fiction works on prolonged conflicts that involve problem solving would be appreciated.
-> Also, the linked quest itself was refreshing in that players had a more open way to look for solutions that fit the proposed requirements. It was very fun to read about proposed plane designs to meet certain criteria, within specific limits. I would gladly devour anything similar as well.
 > 
+> Also, the linked quest itself was refreshing in that players had a more open way to look for solutions that fit the proposed requirements. It was very fun to read about proposed plane designs to meet certain criteria, within specific limits. I would gladly devour anything similar as well.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> Not sure if it's similar enough, but Wildbow ran [a quest](https://worm.fandom.com/wiki/PRT:_Department_Sixty-Four) where players controlled the actions of a newly instated PRT director in Anchorage, Alaska. They had to manage schedules, budget allocations, important meetings, interrogations, recruitment, and office politics. All with *superpowers* and parahuman criminals!
->> Also, *fuck Faint.*
 >> 
+>> Also, *fuck Faint.*
 
-> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (2 days later)
 > 
 > [The Scythe](https://www.goodreads.com/book/show/28954189-scythe) was an excellent read. Well thought out post-singularity YA novel. It's technically utopian from the general perspective of society, but despite the constraints of living under a strong, friendly AI, still managed to *feel* dystopian; not because the AI fucks up, but because humans do, and the AI is programmed not to stop them.
-> It simultaneously benefits and suffers from the YA imperative to keep novels short and condensed. On one hand, the plot feels a little rushed and a lot of woldbuilding is condensed, but on the other hand, I never read a scene that I think the book could have done without. If I wasn't used to webfiction's sprawling works, I'd probably think it was the perfect length.
 > 
+> It simultaneously benefits and suffers from the YA imperative to keep novels short and condensed. On one hand, the plot feels a little rushed and a lot of woldbuilding is condensed, but on the other hand, I never read a scene that I think the book could have done without. If I wasn't used to webfiction's sprawling works, I'd probably think it was the perfect length.
 
-> **u/NTaya** [+2]  *Tzeentch**
+> **u/NTaya** [+2]  *Tzeentch* (3 days later)
 > 
 > I got suddenly interested in *dungeon core* as a genre, but everything that is top-rated and most-recommended on RoyalRoad is "a fresh take" or another kind of subversion. And I want to get acquainted with the genre itself before delving into plays on its common tropes. 
-> So, any recommendations for a straight-forward but well-written dungeon core story?
 > 
+> So, any recommendations for a straight-forward but well-written dungeon core story?
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (4 days later)
 >> 
 >> [deleted]
->> 
 
->>> **u/NTaya** [+1]  *Tzeentch**
+>>> **u/NTaya** [+1]  *Tzeentch* (4 days later)
 >>> 
 >>> Thank you, I'll have a look! 
->>> I'm currently reading *[Dungeon Heart](https://www.royalroad.com/fiction/10881/dungeon-heart)* and while the writing is weak, the story is interesting. This is such a unique setup.
 >>> 
+>>> I'm currently reading *[Dungeon Heart](https://www.royalroad.com/fiction/10881/dungeon-heart)* and while the writing is weak, the story is interesting. This is such a unique setup.
 
 ---
 

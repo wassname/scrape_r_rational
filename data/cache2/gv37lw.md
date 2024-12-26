@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/06/02/chapter-33-Convenience/
-* Score: 57
+* Score: 53
 
 * Created: 2020-06-02T08:06:01
 
@@ -12,31 +12,27 @@
 
 ### Comments:
 
-> **u/None** [+24] *
+> **u/None** [+22]  (2 hours later)
 > 
 > One of the things EE does exceptionally well is politics. Which a lot of other writers struggle with. We get to see both their different interests and how those affect their actions, and how personal characteristics and relationships factor in. Its not a pure theoretical game theory exercise, but neither is ist purely personal
-> 
 
->> **u/Frommerman** [+8] *
+>> **u/Frommerman** [+8]  (17 hours later)
 >> 
 >> I once described PGTE as political fiction where everyone knows they're in a story. It's just become more apt as the story has progressed
->> 
 
->> **u/Locoleos** [+3] *
+>> **u/Locoleos** [+3]  (a day later)
 >> 
 >> I mean the books very much have an opinion on politics, so if he couldn't describe the subject matter in a compelling way, that'd be pretty lame.
->> But yes, I also really like it.
 >> 
+>> But yes, I also really like it.
 
-> **u/HubrisDev** [+17] *
+> **u/HubrisDev** [+16]  (3 minutes later)
 > 
 > This time with extra chapter - [Charlatan III](https://practicalguidetoevil.wordpress.com/2020/06/02/charlatan-iii/)
-> 
 
-> **u/Keyoak** [+10] *
+> **u/Keyoak** [+9]  (38 minutes later)
 > 
 > That ending has me very excited for what’s to come
-> 
 
 ---
 

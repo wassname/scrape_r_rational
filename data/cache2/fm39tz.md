@@ -2,7 +2,7 @@
 
 * Author: u/--MCMC-- *
 * URL: https://www.reddit.com/r/rational/comments/fm39tz/agent_of_cauldron_worm_ff/
-* Score: 18
+* Score: 19
 
 * Created: 2020-03-20T21:36:47
 
@@ -18,10 +18,9 @@ I think in particular it does a decent job exploring the psychological effects o
 
 ### Comments:
 
-> **u/None** [+6] *
+> **u/None** [+7]  (16 hours later)
 > 
 > I liked it, but >!the pileup of five different decade-long conspiracies by organizations with power levels that were totally out of wack with the rest of Worm was kinda hard to follow at times, and I still don't understand a lot of what actually happened there.!<
-> 
 
 ---
 

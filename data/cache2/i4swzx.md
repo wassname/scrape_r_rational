@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 7
+* Score: 4
 
 * Created: 2020-08-06T14:36:20
 
@@ -12,28 +12,27 @@
 
 ### Comments:
 
-> **u/LazarusRises** [+11] *
+> **u/LazarusRises** [+13]  (32 minutes later)
 > 
 > Did you mean to link to that confusing blog, or to the story called [Mythosplay](https://septoberenergy.com/mythosplay/)?
-> EDIT: I now see that you are the author of the story, making the blog link even more confusing, as presumably you'd know your own URL... so maybe it was intentional, and my confusion is also an intended response?
-> Fun story. I guess people really are into all kinds of weird shit. Seriously though, figuring out the order of your ward circles should be priority one in any summoning ritual.
 > 
+> EDIT: I now see that you are the author of the story, making the blog link even more confusing, as presumably you'd know your own URL... so maybe it was intentional, and my confusion is also an intended response?
+> 
+> Fun story. I guess people really are into all kinds of weird shit. Seriously though, figuring out the order of your ward circles should be priority one in any summoning ritual.
 
->> **u/FeepingCreature** [+8]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+8]  *GCV Literally The Entire Culture* (44 minutes later)
 >> 
 >> I share your confusion.
->> What the fuck is a schlaugh? Is that also a mythos thing?
 >> 
+>> What the fuck is a schlaugh? Is that also a mythos thing?
 
->>> **u/None** [+3] *
+>>> **u/None** [+4]  (3 hours later)
 >>> 
 >>> I think schlaugh is an alternative social network where people can post once a day.
->>> 
 
->>> **u/LazarusRises** [+3] *
+>>> **u/LazarusRises** [+3]  (5 hours later)
 >>> 
 >>> /u/owenshen24 is right. [It seems pretty charming.](https://www.schlaugh.com/~faq)
->>> 
 
 ---
 

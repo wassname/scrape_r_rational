@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/i1tn4i/d_saturday_munchkinry_thread/
-* Score: 9
+* Score: 12
 
 * Created: 2020-08-01T15:06:09
 
@@ -23,95 +23,108 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/None** [+8] *
+> **u/None** [+9]  (an hour later)
 > 
 > Oaths of office for government office and employment suddenly are unbreakable vows, things-you-just-do if you hold such a position. The president of the US is trapped into the constraints of his inaugural oath, Queen Lizzy is bound by her coronation oath, legislators, judges, military members, anyone who works for the government and takes an oath of office as an official part of their position. 
-> No one knows this to be the case unless and until it is deduced from behavior of public officials. It just comes into effect one day and the relevant people start acting accordingly.
-> Feel free to consider from the point of view of a holder of a particular office or the point of view of society etc.
 > 
+> No one knows this to be the case unless and until it is deduced from behavior of public officials. It just comes into effect one day and the relevant people start acting accordingly.
+> 
+> Feel free to consider from the point of view of a holder of a particular office or the point of view of society etc.
 
->> **u/scruiser** [+4]  *CYOA**
+>> **u/scruiser** [+4]  *CYOA* (2 hours later)
 >> 
 >> How do delusional people interact with Oaths?  Like if a person can literally convince themselves of anything do their oaths bind them according to their warped perception or to the actual reality of the situation?
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+5]  (2 hours later)
 >>> 
 >>> Probably more interesting if it’s according to actual reality, non-delusional people aren’t guaranteed to treat situations according to actual reality either.
->>> 
 
->>>> **u/scruiser** [+5]  *CYOA**
+>>>> **u/scruiser** [+4]  *CYOA* (2 hours later)
 >>>> 
 >>>> The more subjective aspects of the Oath might still give delusional people more wiggle room, unless the Oath actively actively sorts through the best range of legal interpretation and applies it novel ways...
->>>> Anyway, lets look at some Oaths:
->>>> For US president
->>>> > I do solemly swear (or affirm) that I will faithfully execute the  Office of President of the United States, and will to the best of my  Ability, preserve, protect and defend the Constitution of the United  States. 
->>>> So the Oath doesn't actually directly prevent or bar much activity, the most is that "faithfully execute" implies that the President will avoid doing stuff that prevents faithfully executing the oath.  But crimes that are sufficiently disconnected from the office and the constitution might still be allowable by the Oath.  Also the oath requires the President to preserve/protect/defend the Constitution, but says nothing about the norms and precedents surrounding the constitution.  Still, this is probably enough to curb some of the worst absolute worst excesses and violations, but a lot of the subtler stuff could still go through I think.  (So not to get too political, but the Oath would only slightly get in the way of the most extreme Presidents, like Trump).
->>>> The Supreme Court Oath looks like it may have a clause that does some interesting things though:
->>>> > I, _________, do solemnly swear (or affirm) that I will administer justice without respect to persons, and do equal right to the poor and to the rich, and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as _________ under the Constitution and laws of the United States; and that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.
->>>> If the Oath takes a sufficiently literal interpretation of "administer justice without respect to persons, and do equal right to the poor and to the rich" that may actually force the supreme court judges to push policy changes to the entire legal system to correct some of the systemic issues, especially against the poor and disadvantaged.  The Supreme Court gets to affirm, amend or overturn decisions made by lower courts and tribunals, so this Oath may drive them to actively chose cases that they can push through new precedents and rulings that will change some of the systemic issues in the U.S. justice system.
 >>>> 
+>>>> Anyway, lets look at some Oaths:
+>>>> 
+>>>> For US president
+>>>> 
+>>>> > I do solemly swear (or affirm) that I will faithfully execute the  Office of President of the United States, and will to the best of my  Ability, preserve, protect and defend the Constitution of the United  States. 
+>>>> 
+>>>> So the Oath doesn't actually directly prevent or bar much activity, the most is that "faithfully execute" implies that the President will avoid doing stuff that prevents faithfully executing the oath.  But crimes that are sufficiently disconnected from the office and the constitution might still be allowable by the Oath.  Also the oath requires the President to preserve/protect/defend the Constitution, but says nothing about the norms and precedents surrounding the constitution.  Still, this is probably enough to curb some of the worst absolute worst excesses and violations, but a lot of the subtler stuff could still go through I think.  (So not to get too political, but the Oath would only slightly get in the way of the most extreme Presidents, like Trump).
+>>>> 
+>>>> The Supreme Court Oath looks like it may have a clause that does some interesting things though:
+>>>> 
+>>>> > I, _________, do solemnly swear (or affirm) that I will administer justice without respect to persons, and do equal right to the poor and to the rich, and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as _________ under the Constitution and laws of the United States; and that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.
+>>>> 
+>>>> If the Oath takes a sufficiently literal interpretation of "administer justice without respect to persons, and do equal right to the poor and to the rich" that may actually force the supreme court judges to push policy changes to the entire legal system to correct some of the systemic issues, especially against the poor and disadvantaged.  The Supreme Court gets to affirm, amend or overturn decisions made by lower courts and tribunals, so this Oath may drive them to actively chose cases that they can push through new precedents and rulings that will change some of the systemic issues in the U.S. justice system.
 
->>>>> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 >>>>> 
 >>>>> On the flipside, a RAW interpretation of that oath implies that they must oppose anyonr who would seek to modify the consitution as it stands.
->>>>> 
 
->>>>>> **u/scruiser** [+3]  *CYOA**
+>>>>>> **u/scruiser** [+3]  *CYOA* (3 hours later)
 >>>>>> 
 >>>>>> The constitution sets out terms under which it may be modified, but yeah a hyper literal interpretation of “preserve” would drive them to oppose any changes to it in so far as opposing changes doesn’t go against other parts of the Oath.
->>>>>> 
 
->>>>> **u/Norseman2** [+6] *
+>>>>> **u/Norseman2** [+4]  (7 hours later)
 >>>>> 
 >>>>> I think you've missed a significant chunk of the impact of the faithful execution clause. For example, Article II section 3 of the US constitution says of the president:
->>>>> >He shall from time to time give to the Congress information of the state of the union, and recommend to their consideration such measures as he shall judge necessary and expedient; he may, on extraordinary occasions, convene both Houses, or either of them, and in case of disagreement between them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers; **he shall take care that the laws be faithfully executed**, and shall commission all the officers of the United States.
->>>>> This, in combination with faithful execution, means he can't intentionally allow for the failure or mismanagement of branches of the government which enforce and facilitate federal law, like the EPA, the IRS, the Federal Trade Commission, or the Department of Education. It doesn't necessarily require optimal enforcement, but it does prevent intentionally suboptimal enforcement.
->>>>> All of that would be revolutionary. Suddenly, the FTC is breaking up monopolies like old times, the EPA is back in full swing, the Department of Education is functional again, and the IRS is suddenly auditing and taxing the wealthy along with the poor.
 >>>>> 
+>>>>> >He shall from time to time give to the Congress information of the state of the union, and recommend to their consideration such measures as he shall judge necessary and expedient; he may, on extraordinary occasions, convene both Houses, or either of them, and in case of disagreement between them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers; **he shall take care that the laws be faithfully executed**, and shall commission all the officers of the United States.
+>>>>> 
+>>>>> This, in combination with faithful execution, means he can't intentionally allow for the failure or mismanagement of branches of the government which enforce and facilitate federal law, like the EPA, the IRS, the Federal Trade Commission, or the Department of Education. It doesn't necessarily require optimal enforcement, but it does prevent intentionally suboptimal enforcement.
+>>>>> 
+>>>>> All of that would be revolutionary. Suddenly, the FTC is breaking up monopolies like old times, the EPA is back in full swing, the Department of Education is functional again, and the IRS is suddenly auditing and taxing the wealthy along with the poor.
 
->>>>>> **u/RetardedWabbit** [+2] *
+>>>>>> **u/RetardedWabbit** [+2]  (a day later)
 >>>>>> 
 >>>>>> I think you are too optimistic, we have a lot of laws on the books we are perfectly happy not to enforce. On the upside these laws would get fixed rapidly, and inconsistently applied laws do disproportionately harm minorities. Depending on how intense the compulsion to enforce laws is you can get a lot of bad stuff.
->>>>>> For example:
->>>>>> Federal agents invade marijuana decriminalized States, arresting citizens and state government en mass. Federal agents would also be charging millions across the country for digital piracy violations. Someone also recently pointed out that deleting cookies from "x number of free article sites before a paywall" is in fact a violation of DMCA. 
->>>>>> The entire Army gets sent to fortify the borders beyond any cost effective point. 
->>>>>> The IRS would suddenly be targeting the poor much more for minor filing issues, they currently slip through the cracks due to volume and low reward/cost, as they make mistakes more often and are hurt by audits more than the accountants of the rich.
->>>>>> National park rangers are suddenly tasked with arresting huge numbers of tourists, and would shut down large numbers of national park profiting businesses.
->>>>>> Edit: I'm not sure how this would work depending on specific wording, but federal agencies have truly astronomical amounts of data about everyone's internet usage given freely by businesses and obtained through subterfuge. If you MUST enforce laws to the best of your ability then depending on the legal use of that information it gets used to profile and target people at the least or charge them immediately at the worst.
 >>>>>> 
+>>>>>> For example:
+>>>>>> 
+>>>>>> Federal agents invade marijuana decriminalized States, arresting citizens and state government en mass. Federal agents would also be charging millions across the country for digital piracy violations. Someone also recently pointed out that deleting cookies from "x number of free article sites before a paywall" is in fact a violation of DMCA. 
+>>>>>> 
+>>>>>> The entire Army gets sent to fortify the borders beyond any cost effective point. 
+>>>>>> 
+>>>>>> The IRS would suddenly be targeting the poor much more for minor filing issues, they currently slip through the cracks due to volume and low reward/cost, as they make mistakes more often and are hurt by audits more than the accountants of the rich.
+>>>>>> 
+>>>>>> National park rangers are suddenly tasked with arresting huge numbers of tourists, and would shut down large numbers of national park profiting businesses.
+>>>>>> 
+>>>>>> Edit: I'm not sure how this would work depending on specific wording, but federal agencies have truly astronomical amounts of data about everyone's internet usage given freely by businesses and obtained through subterfuge. If you MUST enforce laws to the best of your ability then depending on the legal use of that information it gets used to profile and target people at the least or charge them immediately at the worst.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 hours later)
 >>> 
 >>> I’m going to lean towards the idea that, to the extent that an oath doesn’t give discretion, it compels the person to consider reality, and also that any legal terms in the oath are interpreted in the context of the relevant laws. So a person would have to consider how reality would affect their ability to act consistently with the oath.
->>> 
 
->> **u/Frommerman** [+4] *
+>> **u/Frommerman** [+4]  (a day later)
 >> 
 >> Local governments would be the most immediately impacted. All those wierd laws on the books which made sense at one point, but aren't getting enforced anymore? They're in force now. Police are obligated to faithfully carry out their duties to investigate every crime they become aware of, without discretion. However, the oath to serve and protect actually starts working, so as arrests skyrocket police brutality and use of excessive force plummets. This increases police mortality rates, but probably not above the rates of, like, garbage collectors, not to mention US Presidents. The court systems collapse under the sudden massive increase in cases until new judges can be sworn in. Many state bar associations have regulations allowing the attorney general to mandate any member of the bar to perform civil defender duties if the regular civil defender system comes under too much stress, so every lawyer in the state, government employee or not, suddenly *becomes* a government employee until some kind of equilibrium is reached.
->> But honestly? I expect total collapse of all government systems inside a week. Our governments were not designed to handle fae-level oathkeeping, but around ordinary human weakness. Conflicting oaths absolutely exist, and such conflicts would be suddenly magically intractable. What happens to the people sworn to a government which suddenly does not exist to any useful degree?
 >> 
+>> But honestly? I expect total collapse of all government systems inside a week. Our governments were not designed to handle fae-level oathkeeping, but around ordinary human weakness. Conflicting oaths absolutely exist, and such conflicts would be suddenly magically intractable. What happens to the people sworn to a government which suddenly does not exist to any useful degree?
 
->> **u/OnlyEvonix** [+4] *
+>> **u/OnlyEvonix** [+4]  (a day later)
 >> 
 >> What happens if an oath has a logical contradiction? For example many oaths include a bit about upholding the law and the law occasionally contradicts itself.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> Depends on the wording of the oath and the wording/context of the law? If the person is in a position to get laws changed without violating the oath, they could do that.
->>> 
 
-> **u/scruiser** [+5]  *CYOA**
+> **u/scruiser** [+5]  *CYOA* (an hour later)
 > 
 > I was mentally working out some Worth the Candle meta Self-Insert scenarios and I came up with an original entad.  It is similar to the Rod of Whispers in that it can permanently grant a unique magic.  Similar to the Temple of Silence, it takes careful management of how people interact with it to get the most out of it.  I give you the Mentalists Spoon.
+> 
 > The exact power granted by the spoon depends on how the would-be mage interacts with it.  The spoon only grants power(s) once per person, but can grant 1-3 powers depending on the exact interaction the person uses.  After being granted, the mage can gradually strengthen the power(s) with practice.
+> 
 > There are 3 basic ways of interacting with the spoon:
+> 
 > * Passively meditating on the spoon tends to result in telepathic/mind-reading/empathic/clairvoyant powers and occasionally psychometric or material analysis powers.  The exact variant of meditation influences the exact power.  The spoon needs to be undisturbed while the would-be mage focuses on it.  With meditation practice ahead of time, it take around 24-36 hours (does not need to be continuous can be interrupted) worth of meditation while in the spoon's presence.
 > * Visualizing and focusing willpower on the spoon tends to result in various forms of telekinesis, occasionally minor space warping around object, occasionally metal liquefaction/melting or pyrokinesis.  The exact variant of visualization influences the exact power.  It generally takes around 4-6 hours of uninterrupted focus on the spoon to gain magic this way.  At the end of this period of time, the power spontaneously manifests on/at the spoon all the spoon will automatically restore itself.  The spoon does not need to be completely undisturbed, powers activating on it won't interrupt focus on it, but physically handling it will.
 > * Physically handling the spoon tends to result in a mix of a boost to dexterity, minor illusions, minor material manipulation/alteration of small objects, and rarely pseudo-Elf Luck.  With practice ahead of time, physically bending spoons and performing sleight of hand with spoon it generally takes around 1-2 minutes to gain magic this way.  Sleight of hand that doesn't appear to bend the spoon tends to result in more dexterity (and rarely Elf Luck), more physically bending the spoon (it resets after the power is granted) tends to result in more object manipulation, and sleight of hand focused on appearing to bend the spoon tends to result in more illusion focused power.
+> 
 > The exact power manifested varies with the exact variant of the method of interaction used, and there is an element of chance.  Mixing variants tends to result in multiple powers that start out weaker and take longer to develop to full strength (1-2 years for a single power 3-4 years for 2-3 powers).  Going for more powers also results in a bigger element of chance with the powers.  To put some numbers on there is around a 90% chance of a particular variant of interaction matching to a particular power if it is a single power vs. 50-75% chance for 2 powers and only a 30-60% chance for 3 powers.
+> 
 > Some examples of exact powers and the variant interaction that tends to results in them:
+> 
 > * Periodically closing your eyes and visualizing the spoon while meditating passively on the spoon tends to result in visual clairvoyance (tens of feet initially up to hundreds of feet)
 >    * Focusing on the details of the spoon might make this clairvoyance more detailed focus but limit the overall area it can look at.
 >    * Focusing on the surrounding of the spoon might make the clairvoyance take a birds-eye view but be unable to zoom in.
@@ -119,32 +132,43 @@ Good Luck and Have Fun!
 > * The telekinesis tends to be overall weaker but more consistent than Passion Mage Telekinesis.  A more relaxed focus/visualization of bending the spoon tends to result in smoother more controlled telekinesis.  A more intense straining focus tends to result in stronger but cruder telekinesis.
 > * The illusions tends to be small, about spoon sized.  They tend to work better when formed around small objects.  Although some variants can also create them separately.  They tend to be limited to arms length from the Mage.
 > * The minor material manipulation tends to be limited to smaller objects and includes cleaning, changing object shape, changing object color, and changes to object composition in minor ways (from one type of wood to another, from brass to bronze, from iron to steel).
-> In general for any power the spoon can grant there is a particular method of interaction that increases the odds you get that power.
-> So munchkin questions:
-> If you are the Athaneum of Sound and Silence and you possess this entad, how do you focus on exploiting it? (I.e. what percentage of time do you allow for the 3 overall interaction methods, given that they are mutually exclusive in time usage?)
-> Most economically valuable power in Aerb?  (On Earth?)
-> Which magic would work best for canon Juniper?
-> Best overall way for Juniper's party to leverage this entad if they had it? (sell power granting, grant powers to allies, loan/lease to an Athenaeum, etc.)
-> Best synergy available for more conventional multimages (i.e. with normal learning rates and not Juniper level learning rates).
-> Which power would you go for in Aerb?  On Earth?
 > 
+> In general for any power the spoon can grant there is a particular method of interaction that increases the odds you get that power.
+> 
+> So munchkin questions:
+> 
+> If you are the Athaneum of Sound and Silence and you possess this entad, how do you focus on exploiting it? (I.e. what percentage of time do you allow for the 3 overall interaction methods, given that they are mutually exclusive in time usage?)
+> 
+> Most economically valuable power in Aerb?  (On Earth?)
+> 
+> Which magic would work best for canon Juniper?
+> 
+> Best overall way for Juniper's party to leverage this entad if they had it? (sell power granting, grant powers to allies, loan/lease to an Athenaeum, etc.)
+> 
+> Best synergy available for more conventional multimages (i.e. with normal learning rates and not Juniper level learning rates).
+> 
+> Which power would you go for in Aerb?  On Earth?
 
->> **u/scruiser** [+5]  *CYOA**
+>> **u/scruiser** [+6]  *CYOA* (an hour later)
 >> 
 >> And making a separate post with some initial munchkin ideas (because my main post was already long):
+>> 
 >> * The mental powers take the longest per person, but with the right setup and entad combos (similar to what they use in the Temple of silence) you can pack in people around meditating on it continuously.
 >> * Mental powers also seem to be relatively rare in Aerb (they are rare in entads and only Contentment Passion Mages have access to similar power).
 >> * Likewise, on Earth, only the telepathic/mind-reading powers accomplish an end result that is completely outside of what you could achieve with mundane means.
 >> * Minor material manipulation and more some of the more precise telekinesis might synergize with the existing industry around the Athenaeum  of Sound and Silence that uses vibration magic.
 >> * The Athenaeum might offer a shorter program for those that attempt to only get one power that focus on the power with the most economic utility, and a longer program for those willing to roll the dice on multiple powers.
->> 
 
-> **u/Freevoulous** [+3] *
+> **u/Freevoulous** [+3]  (a day later)
 > 
 > **YOU ARE WHAT YOU EAT** superpower.
+> 
 > Assume you exist in some kind of superhero universe (DC, Marvel, Worm etc).
+> 
 > Your superpower: you permanently gain the powers and abilities of the creatures you eat.
+> 
 > Rules:
+> 
 > 1. You gain the strength, speed, endurance, and unique inborn abilities of the creatures you eat (this includes partial or full shapeshift into that creature if needed to use that ability. Size change is prohibited, but creature combinations are not).
 > 2. gained abilities and stats stack on your own, but do not scale up. (Example, if you eat a cow you gain the cow's strength atop of your own, but if you eat an ant, you are not as strong as a human sized ant, but get a miniscule gain in strength atop of your normal human stat )
 > 3. You must eat the whole creature, but does not have to be in one go. the power triggers only after you ate the whole thing though. (So, say, you can gain the strength of a cow only after many months of eating beef, and consuming the whole cow, hooves and horns included).
@@ -152,115 +176,124 @@ Good Luck and Have Fun!
 > 5. In order to consume the "Essence" of the creature you must kill it personally, using your own body or gained abilities, not tech, no outsourcing etc.
 > 6. Only biological/inborn abilities can be gained (normal animals, mutants, mutates, born wizards etc ok. Cyborgs, learned wizards, not ok).
 > 7. One type of creature only works once (ie: cannot just binge on chickens and become a god).
-> How do you munchkin it to godhood within your favoured universe?
-> What would be your most optimal progression of meals ?
 > 
+> How do you munchkin it to godhood within your favoured universe?
+> 
+> What would be your most optimal progression of meals ?
 
->> **u/fljared** [+2]  *United Federation of Planets**
+>> **u/fljared** [+2]  *United Federation of Planets* (2 days later)
 >> 
 >> What counts as "personally"? If a horse has already been maimed or crippled, does that count, and/or do I only get the powers of a crippled horse?
+>> 
 >> Do I get the values of an *average* member of the species, or of that particular one? If the latter, given the finite number of megafauna species, I might want to steward my choice of meals. 
+>> 
 >> What happens if the creature rots before I eat it? 
+>> 
 >> A quick plan for Earth:
 >> A variety of plants and fungi for essentially-free upgrades, followed by sessile animals (Hopefully "grind up the shell and make smoothies" counts) and then some smaller chordata. As a quick power boost, kill and eat venomous snakes while a buddy holds antivenom nearby; that should give a enough of an edge to get higher on the food chain.
->> Unfortunately, most larger mammals are endangered, even if I could eat them; Morality and the IUCN bar me from eating Tigers, unless I can somehow convince a zoo that choking a old Tiger to death before eating it counts as Euthanasia.
 >> 
+>> Unfortunately, most larger mammals are endangered, even if I could eat them; Morality and the IUCN bar me from eating Tigers, unless I can somehow convince a zoo that choking a old Tiger to death before eating it counts as Euthanasia.
 
->>> **u/Freevoulous** [+2] *
+>>> **u/Freevoulous** [+2]  (2 days later)
 >>> 
 >>> > If a horse has already been maimed or crippled, does that count, and/or do I only get the powers of a crippled horse?
->>> You get whatever the crippled horse had left in it. Only THAT particular horse, and only in a state it was before you started your work on it. If you killed a creatue and it rotted, you still can get a power boos from it, but also food poisoning.
->>> plants and fungi do not count, only animals
 >>> 
+>>> You get whatever the crippled horse had left in it. Only THAT particular horse, and only in a state it was before you started your work on it. If you killed a creatue and it rotted, you still can get a power boos from it, but also food poisoning.
+>>> 
+>>> plants and fungi do not count, only animals
 
->> **u/Dezoufinous** [+1] *
+>> **u/Dezoufinous** [+1]  (3 days later)
 >> 
 >> Do I also have to digest the creature? Or can I trick the power by.... erm, modyfying my stomach to empty itself faster and eat much more stuff?
->> How would work eating the radiation-immunite creatures? I think there are some radiation-immune worms or simple life-forms in real world, would I be able to eat them and become immune to radiation?
->> Bats are small and feature echolocation, so I can gain echolocation immediatelly just be eating a single bat?
 >> 
+>> How would work eating the radiation-immunite creatures? I think there are some radiation-immune worms or simple life-forms in real world, would I be able to eat them and become immune to radiation?
+>> 
+>> Bats are small and feature echolocation, so I can gain echolocation immediatelly just be eating a single bat?
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (4 days later)
 >>> 
 >>> Yes, you have to digest the creature, or at least most of it, the way its regular predator would.
->>> You would get radiation immunity from such a worm.
->>> Yes, you would gain echolocation from consuming a bat, but only a bat-like echolocation (you would grow giant ears on demand and echolocate in the air, but not say, underwater. You would need to eat a dolhin for that).
 >>> 
+>>> You would get radiation immunity from such a worm.
+>>> 
+>>> Yes, you would gain echolocation from consuming a bat, but only a bat-like echolocation (you would grow giant ears on demand and echolocate in the air, but not say, underwater. You would need to eat a dolhin for that).
 
->> **u/Dezoufinous** [+1] *
+>> **u/Dezoufinous** [+1]  (4 days later)
 >> 
 >> >One type of creature only works once (ie: cannot just binge on chickens and become a god).
->> how do you define 'type of creature'? this is important here, do you count, for example, turkey and chicken as being the same kind, or different kinds (so powers stack on each other)?
 >> 
+>> how do you define 'type of creature'? this is important here, do you count, for example, turkey and chicken as being the same kind, or different kinds (so powers stack on each other)?
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (4 days later)
 >>> 
 >>> for the sake of the argument, it different species, with common sense approach to cases where several species are near identical, or one species has thousands of very different sub-species.
->>> The basic common person's "yep, that is different species, alright" is good enough.
 >>> 
+>>> The basic common person's "yep, that is different species, alright" is good enough.
 
->> **u/DrFretNot** [+1] *
+>> **u/DrFretNot** [+1]  (5 days later)
 >> 
 >> I think the constrictor type snakes would be one of your easier to manage boosts and a good ROI. Anacondas, pythons, etc. high strength for a reasonable amount amount mass. And literally eat one of every insect and arachnid (etc.) you can. Free boosts are free boosts. Collectively, you would end up with some awesome innate chemistry abilities. Make smoothies out of crustaceans. Find small reptiles. I think lizards for at least partial limb regrowth ability would be worth it. Prioritize ever small animal that is ethical for you to eat first. Better to get all the “starter xp” instead of taking months and potentially missing some unknown amount of a larger creature. (Example: cooking meat can leave behind fat or burned pieces. What margin of error is allowed on consuming the “whole” animal? )
->> 
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (5 days later)
 >>> 
 >>> > What margin of error is allowed on consuming the “whole” animal
->>> a reasonable one. You must make your best attempt to try to eat it whole, and eat nearly all of it, but drips of fat, crumbs, etc are allowed, just not intentionally leaving something behind.
 >>> 
+>>> a reasonable one. You must make your best attempt to try to eat it whole, and eat nearly all of it, but drips of fat, crumbs, etc are allowed, just not intentionally leaving something behind.
 
-> **u/Gray_Gryphon** [+2] *
+> **u/Gray_Gryphon** [+2]  (a day later)
 > 
 > Yet another children's book power to munchkin:
+> 
 > You are a wish fetcher, with the ability to grant others' wishes. There are several rules:
+> 
 > * You can't wish for something for yourself, or for other members of your household if it would directly benefit you. (So a car you could all drive or a game system for all of you, no. A bicycle or handheld game system for a sibling, yes.)
 > * You can't grant wishes that are directly about harming others.
 > * Wishes generally work by coincidence instead of direct supernatural intervention, so nothing like wishing up obvious superpowers for people.
 > * You can't bring back the dead or reverse aging, though you can heal all sorts of sickness.
 > * To grant a wish, you must whistle down starlight and catch it in a container of some sort, then use the liquid starlight in a ritual of some sort. The more people you want to grant wishes for, the more starlight you need.
-> 
 
->> **u/NTaya** [+3]  *Tzeentch**
+>> **u/NTaya** [+3]  *Tzeentch* (2 days later)
 >> 
 >> Some already make a fortune on gullible people asking to grant them wishes. In many countries, you can officially register as a wizard/witch and then gain a customer base via word-of-mouth when your methods suddenly prove to be effective. 
->> This will allow you to stay *completely* under the radar, use your power more-or-less for good, and earn a lot of money that you can apply for achieving your intrinsic goals.
 >> 
+>> This will allow you to stay *completely* under the radar, use your power more-or-less for good, and earn a lot of money that you can apply for achieving your intrinsic goals.
 
->> **u/vakusdrake** [+2] *
+>> **u/vakusdrake** [+2]  (2 days later)
 >> 
 >> The obvious solution here would be to find a rationalist to grant OP world changing wishes for.
->> 
 
-> **u/Slyvena** [+1] *
+> **u/Slyvena** [+1]  (2 days later)
 > 
 > If you ever die while your reflection is held by an object, you emerge unharmed from the reflection.  
 > \* The reflection must be of sufficient quality that it is immediately recognizable as 'you' and not just 'a human shape'.  
 > \* Cascading Reflections (Reflections of Reflections), will cause one of you to emerge from every existing reflection, so long as each reflection was of sufficient quality.  
-
+> 
 > How do you use this to help yourself in the short term?  
 > How does the world inevitably end in the long term?
-> 
 
->> **u/Nivirce** [+2] *
+>> **u/Nivirce** [+2]  (3 days later)
 >> 
 >> How exactly do these recursive reflections work? Like, let's say I die while two mirrors have my reflection, but not each other reflection, two of me would emerge, one from each mirror (I'm guessing). But let's say those mirrors are position in such a way that, not only they have my reflection, but they also have each other's reflections, resulting in one of those infinite reflection loops. How many of me would emerge then? Only two? Infinite? A number bigger than two, but not by much because each recursive reflection is less recognizable than the last?
->> My second question is, if more of one of me emerges from reflections do we have two minds as one would expect (essentially, we are clones) or are we a hive-mind? One shared consciousness between two minds?
->> Thirdly, what is the state of the emerged reflection? Let's say I get shot and die. Does my reflection emerge with the bullet wound still there or does it get cured? What if I die because of a brain tumor, or old age, or any other natural causes. If I lose an arm today and die tomorrow do I emerge with or without the arm? What If I get stabbed with a knife and die with the knife still in my body? Does my new self emerge with the knife still there? If not, is there a reason why the knife disappears while my clothes stay (or do the reflection emerge naked)? If the reflection does emerge with a knife on its back and subsequently die right there and then, wouldn't that mean I would be in a continuous loop of emerging and dying in front of the mirror? While that wouldn't be pleasant, it also breaks thermodynamics very easily so you could make a never-ending free energy supply that way. Actually, you could probably do that regardless.
->> Of course, given that the condition for the power activating is me dying I probably wouldn't use it, because how can I know if it's me that emerges from the mirror or a copy of me with my memories; the fact that two of you can emerge if there is more than one mirror present suggests the latter.
 >> 
+>> My second question is, if more of one of me emerges from reflections do we have two minds as one would expect (essentially, we are clones) or are we a hive-mind? One shared consciousness between two minds?
+>> 
+>> Thirdly, what is the state of the emerged reflection? Let's say I get shot and die. Does my reflection emerge with the bullet wound still there or does it get cured? What if I die because of a brain tumor, or old age, or any other natural causes. If I lose an arm today and die tomorrow do I emerge with or without the arm? What If I get stabbed with a knife and die with the knife still in my body? Does my new self emerge with the knife still there? If not, is there a reason why the knife disappears while my clothes stay (or do the reflection emerge naked)? If the reflection does emerge with a knife on its back and subsequently die right there and then, wouldn't that mean I would be in a continuous loop of emerging and dying in front of the mirror? While that wouldn't be pleasant, it also breaks thermodynamics very easily so you could make a never-ending free energy supply that way. Actually, you could probably do that regardless.
+>> 
+>> Of course, given that the condition for the power activating is me dying I probably wouldn't use it, because how can I know if it's me that emerges from the mirror or a copy of me with my memories; the fact that two of you can emerge if there is more than one mirror present suggests the latter.
 
->>> **u/Slyvena** [+2] *
+>>> **u/Slyvena** [+2]  (7 days later)
 >>> 
 >>> >Slyvena
+>>> 
 >>> Your third option was the right one. The number of you that would emerge would be the number of recognizable reflections. Since perfect mirrors essentially don't exist, this can never actually be infinite, but could be quite large.
+>>> 
 >>> The Yous that emerge are entirely real and separate thinking beings. No loss of continuity of consciousness from their mutual memory of death. Think of it as a forking path where one life branches out into two (or more). They are not each other, but they both are the original you.
+>>> 
 >>> The state of emerged reflections is a strange duality that would only be discovered with experimentation. They possess memories right up to the point of emergence, but the physical condition of when the reflection was first formed. If you managed to hold a mirror on yourself in proper lighting for 1 year, then died, the you that emerged would be the same condition as the 1 Year ago You, but with current memories. This resets if the reflection is lost for even a fraction of a moment.  
 >>> (I am very sorry, I had typed this part out, but somehow managed to not put it in the original).  
-
+>>> 
 >>> \- Me Personally  
 >>> Even if it is a true death and only clones that live on, I would consider it my duty to die for the good perfect body replication could achieve. The advances that could be made in medicine alone would be phenomenal.
->>> 
 
 ---
 

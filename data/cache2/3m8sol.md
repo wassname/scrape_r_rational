@@ -22,50 +22,59 @@ Can you help me out? Do you have any advice that could help me to get started?
 
 ### Comments:
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (an hour later)
 > 
 > > I have nothing to say, or rather I feel like there's nothing worth writing about.
-> I feel like this is your main problem. Whenever I have sat down to write something, I constantly end up throwing out at least a good third of the words I have written. However, the main trick is knowing which parts to get rid of and which part is worth keeping and it's nearly impossible to figure out the quality of a particular piece of your writing before you actually write it.
-> You say that you don't have anything new or interesting to write about, but you did say you know the "obvious" things. I recommend starting with what seems like the basics, because they can help you build up to newer and more interesting topics in the very process of writing out the foundations. Don't worry about quality, originality, or how wise you sound. All of that can only come after you put something down from your pen. No matter how stupid, silly, or inane the first words might be, you need to have some words to actually start.
-> A good starter phrase for me is: "I don't know what I want to write. I don't know, I don't know, I don't know...."
-> Get something out!
-> Good luck.
 > 
+> I feel like this is your main problem. Whenever I have sat down to write something, I constantly end up throwing out at least a good third of the words I have written. However, the main trick is knowing which parts to get rid of and which part is worth keeping and it's nearly impossible to figure out the quality of a particular piece of your writing before you actually write it.
+> 
+> You say that you don't have anything new or interesting to write about, but you did say you know the "obvious" things. I recommend starting with what seems like the basics, because they can help you build up to newer and more interesting topics in the very process of writing out the foundations. Don't worry about quality, originality, or how wise you sound. All of that can only come after you put something down from your pen. No matter how stupid, silly, or inane the first words might be, you need to have some words to actually start.
+> 
+> A good starter phrase for me is: "I don't know what I want to write. I don't know, I don't know, I don't know...."
+> 
+> Get something out!
+> 
+> Good luck.
 
-> **u/TaoGaming** [+2]  *No Flair Detected!**
+> **u/TaoGaming** [+2]  *No Flair Detected!* (an hour later)
 > 
 > OK, you want to write about Rationalist .... stuff. I assume you know in more detail what you want to write about. 
-> Write about that.
-> Suppose you want to write about "What I learned about Rationalist Fiction by setting up my website" or "Why I set up my website." Start with that.
-> You might try to find a hook. What other hobbies do you have? How do they relate? Can you explain it.
-> Can you relate the ideas in your everyday life? 
-> Try freewriting. Start with the obvious stuff, like "A common saying in Rationalist Fiction is 'foo'" and just keep writing. Don't stop typing for 20 minutes. Don't fix typos, don't edit it. See what comes out.
-> Don't imagine that the favorite thing you've read was plotted to the teeth. EY may have known how HPMOR was going to end, but I assure you he didn't have 600k+ words in his head when he started. I certainly didn't have 120k+ words in my head when I started, I just wanted there to be more stories like HPMOR, didn't see any I loved, and started writing. 
-> And don't worry about comparing yourself to some imagined reader or writer. Some people will hate your stuff, some will like it. Everyone who knows about all this stuff already had to read it somewhere first. Why not your site? And, sadly, the vast majority will ignore it
-> The main benefit you are going to get from writing is that *you* enjoy it. So, write what you enjoy.
 > 
+> Write about that.
+> 
+> Suppose you want to write about "What I learned about Rationalist Fiction by setting up my website" or "Why I set up my website." Start with that.
+> 
+> You might try to find a hook. What other hobbies do you have? How do they relate? Can you explain it.
+> 
+> Can you relate the ideas in your everyday life? 
+> 
+> Try freewriting. Start with the obvious stuff, like "A common saying in Rationalist Fiction is 'foo'" and just keep writing. Don't stop typing for 20 minutes. Don't fix typos, don't edit it. See what comes out.
+> 
+> Don't imagine that the favorite thing you've read was plotted to the teeth. EY may have known how HPMOR was going to end, but I assure you he didn't have 600k+ words in his head when he started. I certainly didn't have 120k+ words in my head when I started, I just wanted there to be more stories like HPMOR, didn't see any I loved, and started writing. 
+> 
+> And don't worry about comparing yourself to some imagined reader or writer. Some people will hate your stuff, some will like it. Everyone who knows about all this stuff already had to read it somewhere first. Why not your site? And, sadly, the vast majority will ignore it
+> 
+> The main benefit you are going to get from writing is that *you* enjoy it. So, write what you enjoy.
 
-> **u/GeeJo** [+2]  *Custom Flair**
+> **u/GeeJo** [+2]  *Custom Flair* (9 hours later)
 > 
 > One trick I tend to use for essays when I'm not sure of the *exact* direction I want to take them, but know the basic topic I want to cover, is to take a few paragraphs someone else has written on the subject and then paraphrase them into my own style. Or I take the same amount from several sources covering the same point and synthesise them into a single piece. Once I'm done with that, my brain tends to have gotten into a "flow" where I can just continue the train of thought into new areas. Then at the end I go back and either delete the paraphrased material or, if the alterations were enough to make it novel, tidy it up to fall more in line with the new direction I've taken.
-> 
 
-> **u/TennisMaster2** [+1] *
+> **u/TennisMaster2** [+1]  (10 hours later)
 > 
 > Think about what you want to say during idle time, e.g. when in the bathroom, in transit, waiting, etc.  Keep a notepad, voice recorder, or word processor handy.  When you start talking to yourself, mentally or otherwise, about the sort of topics on which you'd like to write essays, record your thoughts.
-> 
 
-> **u/Transfuturist** [+1]  *Carthago delenda est.**
+> **u/Transfuturist** [+1]  *Carthago delenda est.* (10 hours later)
 > 
 > I recently read some comments on LW that said that Eliezer said to start out with a specific example of what you want to demonstrate, and then to explain the general principle afterwards.
-> Now this advice has gone through at least three hops. Pass it on!
 > 
+> Now this advice has gone through at least three hops. Pass it on!
 
-> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (a day later)
 > 
 > Some people write better when a little buzzed.
-> Aside from that, we're not that smart here. I mean, yes some people are just like whoa but most of us are a long way from having memorised or integrated the majority of rationalism and a fair number are just here for the fanfiction. Discuss ideas more, it's good for you. And if you end up in an discussion and think you have a good point, use it as the core to build an article around.
 > 
+> Aside from that, we're not that smart here. I mean, yes some people are just like whoa but most of us are a long way from having memorised or integrated the majority of rationalism and a fair number are just here for the fanfiction. Discuss ideas more, it's good for you. And if you end up in an discussion and think you have a good point, use it as the core to build an article around.
 
 ---
 

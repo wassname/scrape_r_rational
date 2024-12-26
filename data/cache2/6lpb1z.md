@@ -50,15 +50,13 @@ Next time, the challenge will be **Moore's Law**. Moore's Law is the observation
 
 ### Comments:
 
-> **u/ShannonAlther** [+15] *
+> **u/ShannonAlther** [+17]  (7 days later)
 > 
 > [Double Helix](https://twelve-thousand.blogspot.ca/2017/07/double-helix.html), 2.7k words. Worm fanfiction.
-> 
 
-> **u/MultipartiteMind** [+4] *
+> **u/MultipartiteMind** [+6]  (7 days later)
 > 
 > (In hindsight, this would have been a more appropriate prompt for my very first submission, '[Consolidation](http://pastebin.com/QXYtSXmL)' (prompt '[Precommitment](https://www.reddit.com/r/rational/comments/3nwfh6/biweekly_challenge_precommitment/)')--I relink it here in case it's of prompt-related interest to someone who hadn't read it before.)
-> 
 
 ---
 

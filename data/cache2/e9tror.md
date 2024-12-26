@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/absolute-black** [+3] *
+> **u/absolute-black** [+3]  (37 minutes later)
 > 
 > Is this supposed to have a link, or is this a request?
-> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (an hour later)
 >> 
 >> My bad.  A request for the story.
->> 
 
 ---
 

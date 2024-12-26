@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (an hour later)
 > 
 > Hmm, apparently you are a brony or pegasister and are interested in AI research.
-> Why you are clearly a person with refined taste and I simply must get to know you better!
 > 
+> Why you are clearly a person with refined taste and I simply must get to know you better!
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (15 hours later)
 >> 
 >> Eh, mostly trying to attract more interest into AI in my in-group of fellow BS and MS Computer Science students. There's a large crossover between our active CS students and our Bronies and Pegasisters club.  But it was one of those ideas that I had to implement and share to reward my idea creation behavior.  I still need to read EY's papers and Bolstrom's X-risk book, but I need to finish a paper on Manufacturing and Google glass first.
->> 
 
-> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a minute later)
 > 
 > The I love CelestA.I bumper-sticker.  This could be fun, or attract orbital strikes from people who realize the existential risk.
-> 
 
 ---
 

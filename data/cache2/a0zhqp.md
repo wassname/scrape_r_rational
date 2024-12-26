@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/LupoCani** [+1] *
+> **u/LupoCani** [+1]  (6 seconds later)
 > 
 > Post deleted due to a typo in the title. New post here: https://redd.it/a0zil1
-> 
 
 ---
 

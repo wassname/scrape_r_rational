@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/jpsayl/d_saturday_munchkinry_thread/
-* Score: 19
+* Score: 21
 
 * Created: 2020-11-07T15:05:13
 
@@ -23,335 +23,376 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/genericaccounter** [+6] *
+> **u/genericaccounter** [+6]  (9 hours later)
 > 
 > I was reading a story where acceleration and deceleration were different forms of magic. This got me thinking. If you only have deceleration what could you do.
-> Rules(through not the ones from a hero’s war)
-> You are aware of any macro scale motion within 10 meters of you. 
-> You may set any object’s velocity to any velocity between yours and its current velocity. Ie deceleration relative to you. 
-> You may affect multiple objects at once, as many as you can focus on.
-> If an object is only partly within your range, only that part will be affected, but it will drag the rest.
-> Objects travelling too fast will past by before you can react.
-> You have the power described above. What can you use it for? How would you exploit it. How would a civilization exploit it if some fraction has it.
 > 
+> Rules(through not the ones from a hero’s war)
+> 
+> You are aware of any macro scale motion within 10 meters of you. 
+> 
+> You may set any object’s velocity to any velocity between yours and its current velocity. Ie deceleration relative to you. 
+> 
+> You may affect multiple objects at once, as many as you can focus on.
+> 
+> If an object is only partly within your range, only that part will be affected, but it will drag the rest.
+> 
+> Objects travelling too fast will past by before you can react.
+> 
+> You have the power described above. What can you use it for? How would you exploit it. How would a civilization exploit it if some fraction has it.
 
->> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager* (10 hours later)
 >> 
 >> These two powers are not very different, yours just has a slightly less convenient reference frame. 
->> You could e.g. have a cheap engine propel yourself forward on a train track, then aim your power at the leading car of a 50,000-tons train sitting idly behind you on the track and "decelerate" it to match your speed.
 >> 
+>> You could e.g. have a cheap engine propel yourself forward on a train track, then aim your power at the leading car of a 50,000-tons train sitting idly behind you on the track and "decelerate" it to match your speed.
 
->>> **u/Valeide** [+3]  ***
+>>> **u/Valeide** [+3]  ** (11 hours later)
 >>> 
 >>> Simultaneously lower and higher tech option: you can run inside one of the cars and constantly accelerate it as you run. It might be tricky to run properly, but you can accelerate the train to arbitrary (as in, as fast as the rails can safely support) speeds at the cost of the energy it costs to run.
->>> 
 
->> **u/Valeide** [+5]  ***
+>> **u/Valeide** [+6]  ** (12 hours later)
 >> 
 >> 1] If you're in a vehicle, you can run inside of the vehicle and constantly accelerate it to match you.
->> 2] You could engineer a [vehicle](https://i.imgur.com/wJ1I2Gx.png) (I'm an amazing artist, I know.) with sufficient acceleration to escape gravity and even quickly reach the speed of light. Have a bunch of spinnable wheels mounted inside of a much larger box. Strap wizards into the wheels. Spin the wheels. Whenever the people inside of the wheels are moving towards your target, have them activate their magic and accelerate the vehicle in that direction. 
->> Accelerating the outside vehicle will quickly cause them to accelerate by the same amount, because of the weird way in which the wizard is moving relative to the outside vehicle. 
->> I'm sure there's some better way to do that one, but that's the basic idea.
->> 3] Free energy/crazy new labor options. 
->> etc. The power is basically the same as regular telekinesis, as Roxolan said.
 >> 
+>> 2] You could engineer a [vehicle](https://i.imgur.com/wJ1I2Gx.png) (I'm an amazing artist, I know.) with sufficient acceleration to escape gravity and even quickly reach the speed of light. Have a bunch of spinnable wheels mounted inside of a much larger box. Strap wizards into the wheels. Spin the wheels. Whenever the people inside of the wheels are moving towards your target, have them activate their magic and accelerate the vehicle in that direction. 
+>> 
+>> Accelerating the outside vehicle will quickly cause them to accelerate by the same amount, because of the weird way in which the wizard is moving relative to the outside vehicle. 
+>> 
+>> I'm sure there's some better way to do that one, but that's the basic idea.
+>> 
+>> 3] Free energy/crazy new labor options. 
+>> 
+>> etc. The power is basically the same as regular telekinesis, as Roxolan said.
 
->> **u/SuperFartmeister** [+1] *
+>> **u/SuperFartmeister** [+1]  (a month later)
 >> 
 >> Were you by chance reading Mistborn?
->> 
 
->>> **u/genericaccounter** [+1] *
+>>> **u/genericaccounter** [+1]  (a month later)
 >>> 
 >>> It was a internet story called hero's war. The summoning ritual summons two people, and while the first becomes a traditional hero, the second one is the protag who ends up at a completely different place, and uses engineer background for making magic devices.
->>> 
 
-> **u/PastafarianGames** [+3] *
+> **u/PastafarianGames** [+4]  (3 hours later)
 > 
 > Magic has five talents:
-> - Warp, which is an intuitive understanding of the world
-> - Weft, which is the ability to manifest your will into concrete existence
-> - Shuttle, which is the ability to weave a change into the fabric of reality
-> - Comb, which is the ability to shape the after effects / wake / ripples of magical usage (this can be the actual point of a spell, or it can just be a beneficial side effect; discrete comb effects have themselves (weaker) combable wakes)
-> - Sight, which is the ability to see (perceive; it's not strictly ocular) magic and the fabric of reality
-
-> What do you feel, as a reader, are the most and least powerful one- and two-talent combinations? How would you use your _lack_ of a talent as an advantage in some scenario? Best I can come up with is basically magical flashbangs for people without the Sight.
 > 
+> - Warp, which is an intuitive understanding of the world
+> 
+> - Weft, which is the ability to manifest your will into concrete existence
+> 
+> - Shuttle, which is the ability to weave a change into the fabric of reality
+> 
+> - Comb, which is the ability to shape the after effects / wake / ripples of magical usage (this can be the actual point of a spell, or it can just be a beneficial side effect; discrete comb effects have themselves (weaker) combable wakes)
+> 
+> - Sight, which is the ability to see (perceive; it's not strictly ocular) magic and the fabric of reality
+> 
+> What do you feel, as a reader, are the most and least powerful one- and two-talent combinations? How would you use your _lack_ of a talent as an advantage in some scenario? Best I can come up with is basically magical flashbangs for people without the Sight.
 
->> **u/Nick_named_Nick** [+6] *
+>> **u/Nick_named_Nick** [+6]  (7 hours later)
 >> 
 >> What is the difference between   
 >> >	manifest your will into concrete existence
->> and 
->> >	weave a change into the fabric of reality
-
->> I would think that Warp + Sight would be an effective information gathering combo. Comb with Sight speaks to me as the most powerful Comb-based two-talent builds.
 >> 
+>> and 
+>> 
+>> >	weave a change into the fabric of reality
+>> 
+>> I would think that Warp + Sight would be an effective information gathering combo. Comb with Sight speaks to me as the most powerful Comb-based two-talent builds.
 
->>> **u/PastafarianGames** [+1] *
+>>> **u/PastafarianGames** [+1]  (12 hours later)
 >>> 
 >>> Manifesting your will into concrete existence gives you one of two things:
->>> - A physical object imbued with a spell, which can be used by someone who possesses Shuttle
->>> - A sort of aura effect or a scattergun approach, with no precision possible.
->>> edit: to be clear, these are just two examples, there are other things you can do.
 >>> 
+>>> - A physical object imbued with a spell, which can be used by someone who possesses Shuttle
+>>> 
+>>> - A sort of aura effect or a scattergun approach, with no precision possible.
+>>> 
+>>> edit: to be clear, these are just two examples, there are other things you can do.
 
->> **u/CCC_037** [+3] *
+>> **u/CCC_037** [+3]  (4 days later)
 >> 
 >> Warp + Sight gives a combination that can understand almost anything.
->> Weft + Shuttle gives a wizard who has the magical equivalent of a swiss army knife in a dark room - he can do a lot, but he can't see what you are doing.
->> Sight+Comb makes for an *infuriating* opponent. He can't do a thing on his own, but the moment you fire off a spell, he redirects it and uses the echoes to do what *he* wants done.
->> Warp+Weft makes for an interesting combination - he can only do imprecise effects, but he can do them precisely where and when they will be most effective. (If he limits himself to probability alteration, he can get away with merely looking *incredibly* lucky).
 >> 
+>> Weft + Shuttle gives a wizard who has the magical equivalent of a swiss army knife in a dark room - he can do a lot, but he can't see what you are doing.
+>> 
+>> Sight+Comb makes for an *infuriating* opponent. He can't do a thing on his own, but the moment you fire off a spell, he redirects it and uses the echoes to do what *he* wants done.
+>> 
+>> Warp+Weft makes for an interesting combination - he can only do imprecise effects, but he can do them precisely where and when they will be most effective. (If he limits himself to probability alteration, he can get away with merely looking *incredibly* lucky).
 
->>> **u/PastafarianGames** [+2] *
+>>> **u/PastafarianGames** [+2]  (5 days later)
 >>> 
 >>> Yes! (Never gamble with someone who has Weft, btw. They *will* draw the inside straight.)
->>> 
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (5 days later)
 >>>> 
 >>>> ...unless they, for whatever reason, don't want to win, I guess.
->>>> Reminds me of a character from The Dark Side Of The Sun - an android who was *designed* with high-powered electronic luck.
 >>>> 
+>>>> Reminds me of a character from The Dark Side Of The Sun - an android who was *designed* with high-powered electronic luck.
 
->>>>> **u/PastafarianGames** [+2] *
+>>>>> **u/PastafarianGames** [+2]  (5 days later)
 >>>>> 
 >>>>> They will lose exactly enough times to draw you into betting more than you thought you would, and then take the pot.
->>>>> 
 
->>>>>> **u/CCC_037** [+2] *
+>>>>>> **u/CCC_037** [+2]  (5 days later)
 >>>>>> 
 >>>>>> Or lose horribly - on the very day that a notorious outlaw is planning on killing the ultimate winner and stealing the pot. (But they manage to catch enough of a sight of the outlaw to put the sheriff on his trail and end up claiming a - *much* larger - reward for providing information that led to the outlaw's arrest).
->>>>>> 
 
->> **u/SpaceTimeOverGod** [+2] *
+>> **u/SpaceTimeOverGod** [+2]  (7 hours later)
 >> 
 >> Warp seems to be the most useful, intuitively understanding the laws of physics (and magic)  is an incredible advantage. As for weaknesses, it is hard to see how knowing the way the world work puts you at a disadvantage against somebody unknowing.
->> I have trouble understanding what you can do with the other talents. 
->> Does "manifest your will into concrete existence" mean you can use telekinesis? Cast a fireball? Do you need high willpower to use Weft effectively?
->> What is a "change into the fabric of reality"? Creating matter ex nihilo? Changing the laws of physics in an area? If so, it is extremely powerful, especially if combined with Warp.
->> Let's say somebody cast a spell neat a Comb user. Can the ripples of magic be used to cast another spell? to counter the original spell? to make a long lasting effect at the spot the magic was used?
->> With Sight, you can see the "fabric of reality" what does that mean? can you see the space-time continuum? The laws of physics?
 >> 
+>> I have trouble understanding what you can do with the other talents. 
+>> 
+>> Does "manifest your will into concrete existence" mean you can use telekinesis? Cast a fireball? Do you need high willpower to use Weft effectively?
+>> 
+>> What is a "change into the fabric of reality"? Creating matter ex nihilo? Changing the laws of physics in an area? If so, it is extremely powerful, especially if combined with Warp.
+>> 
+>> Let's say somebody cast a spell neat a Comb user. Can the ripples of magic be used to cast another spell? to counter the original spell? to make a long lasting effect at the spot the magic was used?
+>> 
+>> With Sight, you can see the "fabric of reality" what does that mean? can you see the space-time continuum? The laws of physics?
 
->>> **u/PastafarianGames** [+1] *
+>>> **u/PastafarianGames** [+1]  (12 hours later)
 >>> 
 >>> Warp does give you an intuitive understanding of the laws of magic equivalent to, say, our daily lives giving us an intuitive understanding of the laws of physics. (Not every runner can verbalize Newton's laws, but every runner feels them in their ankles.)
-
->>> High willpower is needed for Weft, though you could safely assume that nobody will low willpower is going to have weaksauce Weft, they just won't have it. As to what you can do with it? A directed fireball or precise telekinetic strike would require Weft & Shuttle, but a flamethrower spell could be done with just Weft. Creating matter ex nihilo or changing the laws of physics, much the same, with only Weft you can't do precise things, but you can do things.
-
->>> With Comb you can absolutely use the aftermagic to cast another spell (though if the original caster has Comb themselves you're trying to shape something already shaped; that's very hard). Countering the original spell is tricky, because definitionally more power went into the spell than can be Combed out of it; if it's a long-lasting spell you can unravel it and there might be consequences (backlash, explosion possibly included), if it's an instantaneous spell maybe you can destructure it or redirect it. Long-lasting effects, I'm having trouble seeing a way to do that that isn't just another spell, so that would require at a minimum one of Shuttle or Weft.
-
->>> Sight is like having another sense. It sees the nature of things, it sees patterns (including false ones, just like our other senses see false patterns), it sees magic and power as it pools and moves and is drawn and is cast. You can't see the space-time continuum or the laws of physics, but you could see the magic involved in a spell that made a micro-singularity, get a sense for whether/how it was Combed, probably see the ways in which it was twisting spacetime (though not grasp it unless you knew what you were looking for), that sort of thing.
-
->>> These are great questions which are helping me think in different ways about the system! Thank you!
 >>> 
+>>> High willpower is needed for Weft, though you could safely assume that nobody will low willpower is going to have weaksauce Weft, they just won't have it. As to what you can do with it? A directed fireball or precise telekinetic strike would require Weft & Shuttle, but a flamethrower spell could be done with just Weft. Creating matter ex nihilo or changing the laws of physics, much the same, with only Weft you can't do precise things, but you can do things.
+>>> 
+>>> With Comb you can absolutely use the aftermagic to cast another spell (though if the original caster has Comb themselves you're trying to shape something already shaped; that's very hard). Countering the original spell is tricky, because definitionally more power went into the spell than can be Combed out of it; if it's a long-lasting spell you can unravel it and there might be consequences (backlash, explosion possibly included), if it's an instantaneous spell maybe you can destructure it or redirect it. Long-lasting effects, I'm having trouble seeing a way to do that that isn't just another spell, so that would require at a minimum one of Shuttle or Weft.
+>>> 
+>>> Sight is like having another sense. It sees the nature of things, it sees patterns (including false ones, just like our other senses see false patterns), it sees magic and power as it pools and moves and is drawn and is cast. You can't see the space-time continuum or the laws of physics, but you could see the magic involved in a spell that made a micro-singularity, get a sense for whether/how it was Combed, probably see the ways in which it was twisting spacetime (though not grasp it unless you knew what you were looking for), that sort of thing.
+>>> 
+>>> These are great questions which are helping me think in different ways about the system! Thank you!
 
->> **u/gramineous** [+1] *
+>> **u/gramineous** [+1]  (a day later)
 >> 
 >> Warp is the weakest to have as a single talent.
->> Assuming any amount of organisation, community, or knowledge sharing, a large chubk of Warp can be taught. Weft, Shuttle and Comb can't be taught, Sight might be able to be mimicked to some degree with manipulation of the previous three.
->> Warp at the highest level of ability, or combined with another talent as an effectiveness multiplier, would be reasonable, but knowledge without power won't be up to snuff in the majority of cases. You don't have to know how to build a gun to pull the trigger, and you can't put a bullet in someone with only knowledge. 
->> (that might be too combat-focused an assessment of strength, but that is the immediate connotation of "powerful" to me. Also Warp may have uses in trickery, misdirection, and misinformation, but that may be countered by Sight depending on how things work)
 >> 
+>> Assuming any amount of organisation, community, or knowledge sharing, a large chubk of Warp can be taught. Weft, Shuttle and Comb can't be taught, Sight might be able to be mimicked to some degree with manipulation of the previous three.
+>> 
+>> Warp at the highest level of ability, or combined with another talent as an effectiveness multiplier, would be reasonable, but knowledge without power won't be up to snuff in the majority of cases. You don't have to know how to build a gun to pull the trigger, and you can't put a bullet in someone with only knowledge. 
+>> 
+>> (that might be too combat-focused an assessment of strength, but that is the immediate connotation of "powerful" to me. Also Warp may have uses in trickery, misdirection, and misinformation, but that may be countered by Sight depending on how things work)
 
->>> **u/PastafarianGames** [+1] *
+>>> **u/PastafarianGames** [+1]  (a day later)
 >>> 
 >>> You're definitely spot-on about the ability to teach/learn your way around not having Warp, and you're right about the immense force-multiplier of community/organization for non-Fiver wizards.
-
->>> I would say this about high-Warp single-talents: a nigh-perfect intuitive understanding of the world and of the workings of magic means that your entirely mundane bullet out of your entirely mundane firearm is going to have perfect aim and hit the exact weakest point on the enemy's shield.
 >>> 
+>>> I would say this about high-Warp single-talents: a nigh-perfect intuitive understanding of the world and of the workings of magic means that your entirely mundane bullet out of your entirely mundane firearm is going to have perfect aim and hit the exact weakest point on the enemy's shield.
 
->>>> **u/gramineous** [+1] *
+>>>> **u/gramineous** [+1]  (a day later)
 >>>> 
 >>>> At what point is the weakest point of an enemy's shield still bulletproof though? Like there are definitely going to be opportunities and points where high-Warp will work, but its significantly more effort and significantly less consistency than the other talents (unless you reach near-omniscient levels of knowledge, maybe Warp scales differently idk).
->>>> 
 
->>>>> **u/PastafarianGames** [+1] *
+>>>>> **u/PastafarianGames** [+1]  (2 days later)
 >>>>> 
 >>>>> You've gotta have a pretty good shield to laugh off a high-caliber rifle round, and if someone is high-Warp, they'll probably know it's not going to put you down, so they won't fire until it will.
->>>>> Obviously there are plenty of people with shields that good, but there're also plenty who don't; even a Fiver (wizard with all five of the talents) might have a weakness, might have to drop a shield to use the Sight, might have a flinch reflex to being shot at, might have just engineered their shield badly.
->>>>> If you've read S. L. Huang's novels featuring Cas Russell, that's a good showcase of what someone with high Warp could do. (And also some things they'd be weak to.)
 >>>>> 
+>>>>> Obviously there are plenty of people with shields that good, but there're also plenty who don't; even a Fiver (wizard with all five of the talents) might have a weakness, might have to drop a shield to use the Sight, might have a flinch reflex to being shot at, might have just engineered their shield badly.
+>>>>> 
+>>>>> If you've read S. L. Huang's novels featuring Cas Russell, that's a good showcase of what someone with high Warp could do. (And also some things they'd be weak to.)
 
-> **u/lysogeny99999** [+4] *
+> **u/lysogeny99999** [+4]  (11 hours later)
 > 
 > You wish to help people (and preferably humanity as a whole) and are incredibly powerful.... inside of an isolated 8 foot x 10 foot x 8 foot room. Inside the room you are completely immortal, can create any object that is either naturally occurring or has been made by humans before, can manipulate matter with atomic precision, and can alter the laws of physics (with a few exceptions noted below) at a whim.
+> 
 > However, no effect generated from inside the room can affect anything outside the room. Anything you take out of the room will "revert" to how it was before entering. For example, if you bring in laptop parts and assemble them in the room, they will go back to being parts when you take the device out. The only exception is that humans retain their memories when leaving the room.  
-
+> 
 > A few additional things you cannot do with your power:
+> 
 > * No time or space fuckery (You cannot for example, do anything to give yourself more time to act in the room relative to the outside, nor can you alter space to give yourself more effective room than the 8x10x8 provided.)
 > * You must actually know specifically what object are trying to create with your power (For example, thinking "I want to create the cure for cancer" will not work, even if there is a naturally occurring substance somewhere that would effectively cure all types of cancer).
-> 
 
->> **u/Genarment** [+8] *
+>> **u/Genarment** [+7]  (12 hours later)
 >> 
 >> * Rapid prototype expensive equipment. 
 >> * If you can create *specific* objects, like part #352 from batch 402 of the John Smith Space Parts Plant, destructively test them in the room. If not, have them brought to you for destructive testing; they'll revert to normal after you're done. 
 >> * Solve arbitrary computation-intensive problems by screwing with physics to give your computers faster computational speed / arbitrary information density. 
 >> * *Examine* objects at the atomic level. Simulate them with the aforementioned arbitrary compute power.
->> 
 
->>> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager* (13 hours later)
 >>> 
 >>> You have arbitrary computing power? Fuck the outside world, just bring everyone's brains into the room one by one, scan them, toss the meat into a mini black hole, and upload all the minds into your simulated instance of Equestria.
->>> 
 
->>>> **u/Worthstream** [+1] *
+>>>> **u/Worthstream** [+1]  (a day later)
 >>>> 
 >>>> Sounded like a great plan... until the Equestria bit.
->>>> 
 
->>>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+>>>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>> 
 >>>>> It's a reference to [Friendship is Optimal](https://www.fimfiction.net/story/62074/friendship-is-optimal) as well as the objectively correct answer.
->>>>> 
 
->>>>>> **u/Worthstream** [+2] *
+>>>>>> **u/Worthstream** [+2]  (2 days later)
 >>>>>> 
 >>>>>> Thank you, I never read friendship is optimal, so that was a confusing choice of heavenly place to live your eternal life in.
->>>>>> 
 
->>>>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (2 days later)
 >>>>>>> 
 >>>>>>> I heartily recommend it. It does not require any MLP knowledge, as it is not really a MLP fanfic.
->>>>>>> 
 
->> **u/PastafarianGames** [+2] *
+>> **u/PastafarianGames** [+2]  (12 hours later)
 >> 
 >> Super-rapidly iterating through ideas for battery storage tech and better superconductor tech seem like the thing to do. Solve those two and you save the world!
->> 
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (4 days later)
 >> 
 >> So, the things I create in the room will *always* revert on exit? So that means I can create a virulent disease in there, infect a volunteer in order to test a cure... and then if the test fails, the volunteer can lose the disease entirely by simply leaving the room?
->> 
 
->> **u/Frommerman** [+1] *
+>> **u/Frommerman** [+1]  (13 hours later)
 >> 
 >> Can I directly edit people's brains?
->> 
 
->>> **u/lysogeny99999** [+1] *
+>>> **u/lysogeny99999** [+1]  (a day later)
 >>> 
 >>> You can physically change them with high precision, but wouldn't intuitively know what effect those changes are going to have until you test it.
->>> 
 
->>>> **u/gramineous** [+1] *
+>>>> **u/gramineous** [+1]  (a day later)
 >>>> 
 >>>> Create a copy of a brain, test things on brain copy, practice makes perfect. I don't know whether an individual brain counts as an "object" though for creation purposes.
->>>> Could also find some exploits based on whatever definition of human is employed, how clones are counted, and how much you could "ship of theseus" a clone into not counting as human or the other way around.
->>>> Also humans retaining memories opens the door to brainwashing folks to various degrees. Saying "okay I'm going to brainwash racism out of people" could be considered beneficial.
 >>>> 
+>>>> Could also find some exploits based on whatever definition of human is employed, how clones are counted, and how much you could "ship of theseus" a clone into not counting as human or the other way around.
+>>>> 
+>>>> Also humans retaining memories opens the door to brainwashing folks to various degrees. Saying "okay I'm going to brainwash racism out of people" could be considered beneficial.
 
-> **u/Freevoulous** [+3] *
+> **u/Freevoulous** [+3]  (a day later)
 > 
 > Identity Virus Supervillain:
-> \- you gain the power to turn people into a copy of yourself, whenever you bite them (the bite must draw blood)
-> \- Only their bodies and minds change into yours, not their clothes etc. They gain/lose mass magically to match yours. You do not get their knowledge or skills.
-> \- whenever one of your copies die, their memories, knowledge, and skills gained since their creation are beamed to the original, to seamlessly add to their own. All further copies made personally by the original get that extra skills. The process is cumulative, and depends on the copies being quantum entangled, or something similar.
-> \- Copies are instinctively loyal to the copy who "made" them, and that one to their progenitor, etc back to the original. Copies instinctively know which of them is of "older generation" and thus have automatic leadership structure.
-> How would you utilize this power to take over the world the fastest, most optimally and efficiently?
-> Round 1: your goal is simply to take over the world ie: become its greatest political and military superpower, able to call the shots on a planetary scale. At least 90% of humanity must be de-facto ruled by Yous.
-> Round 2: your goal is to convert EVERYONE into a copy of yourself. At least 99% of humanity must either become You or dead.
-> Reverse Round: you are in charge of a task force intent on stopping such a self-copying Menace. By the time The Task Force is organised, the Copier had made 10 copies in EU, 10 in the US, and 10 in China.
 > 
+> \- you gain the power to turn people into a copy of yourself, whenever you bite them (the bite must draw blood)
+> 
+> \- Only their bodies and minds change into yours, not their clothes etc. They gain/lose mass magically to match yours. You do not get their knowledge or skills.
+> 
+> \- whenever one of your copies die, their memories, knowledge, and skills gained since their creation are beamed to the original, to seamlessly add to their own. All further copies made personally by the original get that extra skills. The process is cumulative, and depends on the copies being quantum entangled, or something similar.
+> 
+> \- Copies are instinctively loyal to the copy who "made" them, and that one to their progenitor, etc back to the original. Copies instinctively know which of them is of "older generation" and thus have automatic leadership structure.
+> 
+> How would you utilize this power to take over the world the fastest, most optimally and efficiently?
+> 
+> Round 1: your goal is simply to take over the world ie: become its greatest political and military superpower, able to call the shots on a planetary scale. At least 90% of humanity must be de-facto ruled by Yous.
+> 
+> Round 2: your goal is to convert EVERYONE into a copy of yourself. At least 99% of humanity must either become You or dead.
+> 
+> Reverse Round: you are in charge of a task force intent on stopping such a self-copying Menace. By the time The Task Force is organised, the Copier had made 10 copies in EU, 10 in the US, and 10 in China.
 
->> **u/Norseman2** [+2] *
+>> **u/Norseman2** [+2]  (2 days later)
 >> 
 >> >you gain the power to turn people into a copy of yourself, whenever you bite them (the bite must draw blood)
->> * How fast does the conversion occur? This significantly impacts potential strategies, since a day-long conversion process is far easier to mitigate than the absurd case of conversion which takes place in under a second (which could end up close to *28 Days Later*).
->> * Is there any variability in conversion time? In other words, could some people get bitten, think they're fine, and then later turn into me?
->> >Only their bodies and minds change into yours, not their clothes etc. They gain/lose mass magically to match yours. You do not get their knowledge or skills.
->> * If they are injured or have other medical problems at the time of conversion, do those problems go away when they are converted into me?
->> * Would biting a copy of myself cause that copy to turn into a more recent version of me?
->> * How injured does someone need to be before biting them does not convert them into a copy of me? For example, if they had a heart attack and their heart is no longer beating, but I bite them and then start providing CPR, would they still convert?
 >> 
+>> * How fast does the conversion occur? This significantly impacts potential strategies, since a day-long conversion process is far easier to mitigate than the absurd case of conversion which takes place in under a second (which could end up close to *28 Days Later*).
+>> 
+>> * Is there any variability in conversion time? In other words, could some people get bitten, think they're fine, and then later turn into me?
+>> 
+>> >Only their bodies and minds change into yours, not their clothes etc. They gain/lose mass magically to match yours. You do not get their knowledge or skills.
+>> 
+>> * If they are injured or have other medical problems at the time of conversion, do those problems go away when they are converted into me?
+>> 
+>> * Would biting a copy of myself cause that copy to turn into a more recent version of me?
+>> 
+>> * How injured does someone need to be before biting them does not convert them into a copy of me? For example, if they had a heart attack and their heart is no longer beating, but I bite them and then start providing CPR, would they still convert?
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (2 days later)
 >>> 
 >>> - there is a small variability in time of conversion, depending on how severe the bite was, but in general its between a minute and an hour tops. The change is not gradual, but rather comes in a sudden burst.
->>> - Medical problems are undone by conversion, unless the person is already dead (brain death and no life functions). They can be severely injured prior, but as long as the brain is still alive, they can be converted into a copy of you.
->>> - If a copy bites a copy, it can be up-dated, but not down-dated.
->>> - A copy cannot be more healthy than the higher tier copy that made it (in other words, copies inherit injuries, disease etc).
 >>> 
+>>> - Medical problems are undone by conversion, unless the person is already dead (brain death and no life functions). They can be severely injured prior, but as long as the brain is still alive, they can be converted into a copy of you.
+>>> 
+>>> - If a copy bites a copy, it can be up-dated, but not down-dated.
+>>> 
+>>> - A copy cannot be more healthy than the higher tier copy that made it (in other words, copies inherit injuries, disease etc).
 
->>>> **u/Norseman2** [+1] *
+>>>> **u/Norseman2** [+1]  (3 days later)
 >>>> 
 >>>> I'll go for the scenario in Round 2. Given the longer conversion time, this couldn't reliably be used to end a fight, so both the existence of the clones and the means of making them would need to be kept a secret for quite a while. Biting would need to be done in a controlled situation where the victims can't escape or report it. To minimize the flood of missing person reports, growing the evil clone horde would probably require targeting lone undocumented immigrants initially.
->>>> Transportation is tricky; driving around with four clones in a car would draw suspicion unless they could effectively pull a Borat and use disguises to ensure that the four clones look nothing alike. That's certainly a technique they would still need to keep to a minimum, preferably keeping all clones at home or traveling solo as much as possible. Additionally, getting a few replacement driver's licenses might be feasible, but more than 3-4 could quickly draw suspicion, so they'd be limited in how many vehicles could be simultaneously operated legally. International travel would be even harder, and likely require a single clone doing a tour of several countries and leaving clones behind to further plans in each.
->>>> Beyond the secrecy requirement, there's also economic considerations at play here. Each copy is another mouth to feed, another body to clothe, and another bed to fill. For the horde to grow sustainably, the copies would need to pay their keep. The best option is probably to select jobs which can be done remotely, and without necessarily being hired and needing to provide photo ID. Software development could fit the bill, such as making games and selling them on Steam. However, this gets tricky when filing taxes.
->>>> For example, if there's 100 clones, the weird income situation would probably trigger an IRS audit which would find maybe 100 times as much income as could be expected for a typical software developer, along with expenses which include enough food and clothing for 100 people, enough computers for about 100 people, and oddly something like 10 "vacation" homes. This would probably have to be justified by frequently giving away clothing at some kind of church give-away, giving food to a local food bank, as well as running an online computer store to claim the 100+ computers as "inventory" for the store.
->>>> As the horde grows, having only one ID would start to become a major roadblock. It wouldn't be possible to send a dozen or so clones to college without classmates Googling them and finding way too many results for one person. However, making fake IDs for this purpose (unofficial to semi-official IDs) could be done relatively easily. One clone could hire a lawyer in Delaware to legitimately set up a Delaware-based corporation (providing anonymity for the founder), then set up a branches of it wherever clones need IDs, and print off employee photo IDs for the clones. These would suffice for taking a GED which could then be used to apply for college under the new name. Each clone would still need to find their own 'Borat' style to reduce the risk of chance encounters with people that other clones have interacted with. While this wouldn't work for employment or driver's licenses, it would be better than nothing.
->>>> With IDs semi-solved, the next step would be development and specialization. The leader obviously needs to stay in absolutely peak physical health, probably doing cardio and body building for at least five hours per day while maintaining excellent preventative health care. A few hundred specialists would need to be assigned to a broad range of fields like rifle marksmanship, pistol quick-drawing, MMA techniques, defensive driving, lockpicking, etc., but also with assignments for things like pilot school, medical school, communications technology, chemistry, physics, electrical engineering, foreign languages, and so on. As long as they're each going to different colleges or training programs spread over a wide area, possibly several countries, and as long as the payments are done in cash to minimize any electronic trail, they would hopefully escape notice.
->>>> After perhaps eight to ten years of lying as low as possible, these specialists (and others who focused on planning) should be ready. They would be brought back and "freed of their mortal shell" to merge their consciousness with the leader. The leader would then update all the other copies, giving all the benefits of peak physical health, encyclopedic breadth and depth of knowledge in nearly all subject matter, fluency in every major foreign language, expert-level skill in firearms and hand-to-hand combat, etc. Basically Jason Bourne with about 100 PhDs and even greater strength and stamina.
->>>> At this point, the horde could start to go international, expanding into non-English speaking countries. The first phase of major expansion would likely target rural and underdeveloped areas across the world, anywhere cellphone networks aren't available. At the same time, cruise ships might be targeted, with their communications systems being disabled just prior to mass conversion of everyone onboard.
->>>> The second phase would require a near-global communications blackout. Undersea internet cables would need to be cut, radio and TV stations would need to be either directly disabled or indirectly through power outages, etc. At this phase, the clones go into combat mode. Entire cities are searched and converted overnight. Over the next two weeks or so, the hordes take over every major population center in the world. This might result in Russia or China launching nukes in response to an apparent US invasion, followed by NATO retaliation. This would be a major problem, but as long an original set are kept in secure bunkers around the world, any clones suffering from radiation sickness could be treated with a bite from an original.
->>>> The third phase would involve rebuilding and restoring power and communications, along with all other economic and infrastructural necessities. Obviously, these would not be supplied to any remaining non-clone holdouts, so eventually they'd run out of food, water, fuel, medical supplies, etc. With time, 99% of the world would end up as clones or dead.
->>>> >Reverse Round: you are in charge of a task force intent on stopping such a self-copying Menace. By the time The Task Force is organised, the Copier had made 10 copies in EU, 10 in the US, and 10 in China.
->>>> If they're spreading in China already, they've probably had a decade or so to develop language skills, among a wide variety of other skills. This would be late in the game and extremely dangerous. Evidence of the threat would need to be presented to world leaders immediately to direct all possible resources towards tracking and arresting the clones. Rural areas would need to be evacuated, ships would need to be returned to port, cities would need to be readied for fighting back, and the clones' images would need to be presented on practically every TV station and webpage.
 >>>> 
+>>>> Transportation is tricky; driving around with four clones in a car would draw suspicion unless they could effectively pull a Borat and use disguises to ensure that the four clones look nothing alike. That's certainly a technique they would still need to keep to a minimum, preferably keeping all clones at home or traveling solo as much as possible. Additionally, getting a few replacement driver's licenses might be feasible, but more than 3-4 could quickly draw suspicion, so they'd be limited in how many vehicles could be simultaneously operated legally. International travel would be even harder, and likely require a single clone doing a tour of several countries and leaving clones behind to further plans in each.
+>>>> 
+>>>> Beyond the secrecy requirement, there's also economic considerations at play here. Each copy is another mouth to feed, another body to clothe, and another bed to fill. For the horde to grow sustainably, the copies would need to pay their keep. The best option is probably to select jobs which can be done remotely, and without necessarily being hired and needing to provide photo ID. Software development could fit the bill, such as making games and selling them on Steam. However, this gets tricky when filing taxes.
+>>>> 
+>>>> For example, if there's 100 clones, the weird income situation would probably trigger an IRS audit which would find maybe 100 times as much income as could be expected for a typical software developer, along with expenses which include enough food and clothing for 100 people, enough computers for about 100 people, and oddly something like 10 "vacation" homes. This would probably have to be justified by frequently giving away clothing at some kind of church give-away, giving food to a local food bank, as well as running an online computer store to claim the 100+ computers as "inventory" for the store.
+>>>> 
+>>>> As the horde grows, having only one ID would start to become a major roadblock. It wouldn't be possible to send a dozen or so clones to college without classmates Googling them and finding way too many results for one person. However, making fake IDs for this purpose (unofficial to semi-official IDs) could be done relatively easily. One clone could hire a lawyer in Delaware to legitimately set up a Delaware-based corporation (providing anonymity for the founder), then set up a branches of it wherever clones need IDs, and print off employee photo IDs for the clones. These would suffice for taking a GED which could then be used to apply for college under the new name. Each clone would still need to find their own 'Borat' style to reduce the risk of chance encounters with people that other clones have interacted with. While this wouldn't work for employment or driver's licenses, it would be better than nothing.
+>>>> 
+>>>> With IDs semi-solved, the next step would be development and specialization. The leader obviously needs to stay in absolutely peak physical health, probably doing cardio and body building for at least five hours per day while maintaining excellent preventative health care. A few hundred specialists would need to be assigned to a broad range of fields like rifle marksmanship, pistol quick-drawing, MMA techniques, defensive driving, lockpicking, etc., but also with assignments for things like pilot school, medical school, communications technology, chemistry, physics, electrical engineering, foreign languages, and so on. As long as they're each going to different colleges or training programs spread over a wide area, possibly several countries, and as long as the payments are done in cash to minimize any electronic trail, they would hopefully escape notice.
+>>>> 
+>>>> After perhaps eight to ten years of lying as low as possible, these specialists (and others who focused on planning) should be ready. They would be brought back and "freed of their mortal shell" to merge their consciousness with the leader. The leader would then update all the other copies, giving all the benefits of peak physical health, encyclopedic breadth and depth of knowledge in nearly all subject matter, fluency in every major foreign language, expert-level skill in firearms and hand-to-hand combat, etc. Basically Jason Bourne with about 100 PhDs and even greater strength and stamina.
+>>>> 
+>>>> At this point, the horde could start to go international, expanding into non-English speaking countries. The first phase of major expansion would likely target rural and underdeveloped areas across the world, anywhere cellphone networks aren't available. At the same time, cruise ships might be targeted, with their communications systems being disabled just prior to mass conversion of everyone onboard.
+>>>> 
+>>>> The second phase would require a near-global communications blackout. Undersea internet cables would need to be cut, radio and TV stations would need to be either directly disabled or indirectly through power outages, etc. At this phase, the clones go into combat mode. Entire cities are searched and converted overnight. Over the next two weeks or so, the hordes take over every major population center in the world. This might result in Russia or China launching nukes in response to an apparent US invasion, followed by NATO retaliation. This would be a major problem, but as long an original set are kept in secure bunkers around the world, any clones suffering from radiation sickness could be treated with a bite from an original.
+>>>> 
+>>>> The third phase would involve rebuilding and restoring power and communications, along with all other economic and infrastructural necessities. Obviously, these would not be supplied to any remaining non-clone holdouts, so eventually they'd run out of food, water, fuel, medical supplies, etc. With time, 99% of the world would end up as clones or dead.
+>>>> 
+>>>> >Reverse Round: you are in charge of a task force intent on stopping such a self-copying Menace. By the time The Task Force is organised, the Copier had made 10 copies in EU, 10 in the US, and 10 in China.
+>>>> 
+>>>> If they're spreading in China already, they've probably had a decade or so to develop language skills, among a wide variety of other skills. This would be late in the game and extremely dangerous. Evidence of the threat would need to be presented to world leaders immediately to direct all possible resources towards tracking and arresting the clones. Rural areas would need to be evacuated, ships would need to be returned to port, cities would need to be readied for fighting back, and the clones' images would need to be presented on practically every TV station and webpage.
 
-> **u/Izeinwinter** [+1] *
+> **u/Izeinwinter** [+1]  (a day later)
 > 
 > So. Been reading some gamer and system fic, and decided that most of these systems are fundamentally not well designed, and also involve terrifying levels of mind-rewriting, so been doodling on a more coherent system. 
+> 
 > Rules: There is no such thing as grinding, xp for killing, or buying skills. Upgrades can be won solely from questing, which in-universe are tasks set by spiritual or temporal powers who have the ability to generate the currency the system runs on. This currency is named Talents.   
+> 
 > Stats: 
+> 
 > Stature: 
+> 
 > Your physical form. Investing talents in this will make your body better, starting with the lowest hanging fruit (fixing health problems), and escalating towards making you a paragon of whatever you are. Your ideas about what this looks like do not matter, the System has its own opinion, and it will not make you into a bodybuilder or skinny super model, but basically give you the build of a top mma fighter or dancer. With very symmetrical features and amazing skin. 
 > People with any significant investiture in stature also find it *incredibly* difficult to change their bodies by diet or training. (or the lack of it)
+> 
 > Integration: 
 > This basically improves your non-central nervous system. Nerve ending density in muscles, skin, signal speed, senses, ect. This will make you faster, stronger (because you can use stature more effectively) and more graceful, and more perceptive. It will not teach you how to fight or dance, though it will make you a very apt pupil. 
+> 
 > Cognito: 
 > This basically improves your *central* nervous system. Not by rewiring it, but by making it function better as, well, an organ. Subjectively, this feels like you are at the very top of your game all the time, and it gets progressively easier to remember things and learn. At high levels, it also means you can ignore the need for sleep for extended periods with no immediate downsides, and various other side effects. Like stature, investiture in Cognito also fixes outright cognitive disorders of the brain first. 
+> 
 > Soul: 
 > Increases your integration into the supernatural world. You cannot be a mage without soul investiture, but investiture will not by itself suffice, it is a skill. 
-> Opinions?
 > 
+> Opinions?
 
->> **u/gramineous** [+3] *
+>> **u/gramineous** [+3]  (a day later)
 >> 
 >> Being pushed into specific forms would cause all sorts of culture fuckery. Everyone being able to see who is stronger or weaker for statue specs seems open to discrimination. Also massive dysphoria for people opting into stature for any social/cultural pressures.
->> Also the stronger you are the faster you can complete quests, meaning any individual who pulls too far ahead of the pack will grow increasingly stronger than their peers. If quests have a set number of people that can complete them, the strongest folks become unkillable dictators from snatching up quests first. If quests are repeatable, it means organisations can conspire to hamper others and control the geographic area of the quest, which is harder but still achievable.
 >> 
+>> Also the stronger you are the faster you can complete quests, meaning any individual who pulls too far ahead of the pack will grow increasingly stronger than their peers. If quests have a set number of people that can complete them, the strongest folks become unkillable dictators from snatching up quests first. If quests are repeatable, it means organisations can conspire to hamper others and control the geographic area of the quest, which is harder but still achievable.
 
->>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (2 days later)
 >>> 
 >>> > If quests are repeatable, it means organisations can conspire to hamper others and control the geographic area of the quest, which is harder but still achievable.
->>> This has become a common trope in litRPG. He who controls the monster spawn point controls the universe.
 >>> 
+>>> This has become a common trope in litRPG. He who controls the monster spawn point controls the universe.
 
->>> **u/CCC_037** [+1] *
+>>> **u/CCC_037** [+1]  (4 days later)
 >>> 
 >>> > Also the stronger you are the faster you can complete quests, meaning any individual who pulls too far ahead of the pack will grow increasingly stronger than their peers.
->>> If the amount of experience required to gain the next level grows exponentially, while the increase in experience gained grows only linearly, then someone can reach the same level eventually. They'll still be a few XP points behind, but have potentially equal stats...
 >>> 
+>>> If the amount of experience required to gain the next level grows exponentially, while the increase in experience gained grows only linearly, then someone can reach the same level eventually. They'll still be a few XP points behind, but have potentially equal stats...
 
->> **u/sicutumbo** [+2] *
+>> **u/sicutumbo** [+2]  (a day later)
 >> 
 >> I guess the initial questions are what this system is in aid of, and how many people have access to this system? Is this fueling a sword and board fantasy adventure and disregarding how a society works? Or are you looking for world building implications for everyone being able to solve genetic deformities by completing some quests?
->> There's some overlap between stature and cognito, since being generally healthier improves brain performance.
->> Stature pushing your body towards very specific forms is a little weird, since training differently for different tasks will give you very different physical results. Runners look very different from weightlifters, especially internally. Some athletes gain benefits from higher bodyfat content. Will women be just as strong as men with the same points into stature? Will this disregard various biological realities such as height or muscle mass? 
->> Integration seems kind of weak. Enhanced senses is nice, but as a whole it seems like the worst stat to focus on. Good to put some points into, but you're going to getting diminishing returns pretty quick.
->> It's kind of impossible to judge what soul would do as a stat without knowing what magic does. Magic could make any of the above stats much better than they are, or render them mostly superfluous.
 >> 
+>> There's some overlap between stature and cognito, since being generally healthier improves brain performance.
+>> 
+>> Stature pushing your body towards very specific forms is a little weird, since training differently for different tasks will give you very different physical results. Runners look very different from weightlifters, especially internally. Some athletes gain benefits from higher bodyfat content. Will women be just as strong as men with the same points into stature? Will this disregard various biological realities such as height or muscle mass? 
+>> 
+>> Integration seems kind of weak. Enhanced senses is nice, but as a whole it seems like the worst stat to focus on. Good to put some points into, but you're going to getting diminishing returns pretty quick.
+>> 
+>> It's kind of impossible to judge what soul would do as a stat without knowing what magic does. Magic could make any of the above stats much better than they are, or render them mostly superfluous.
 
->>> **u/Izeinwinter** [+1] *
+>>> **u/Izeinwinter** [+1]  (a day later)
 >>> 
 >>> The archetype thing is partially there to make serious questers recognizable as all heck. It is possible to have the look without being one, but that will likely land you in trouble. (This is also one upside to integration. Someone with only heavy integration investment is superhuman.. but not visibly recognizable) 
->>> Investiture can break the limits of the humanly possible, but not the *physically* possible - the abilities granted are not themselves magical. (Because that would require ongoing expenditure by the granting powers, not just a one-time working)
 >>> 
+>>> Investiture can break the limits of the humanly possible, but not the *physically* possible - the abilities granted are not themselves magical. (Because that would require ongoing expenditure by the granting powers, not just a one-time working)
 
->>>> **u/sicutumbo** [+1] *
+>>>> **u/sicutumbo** [+1]  (a day later)
 >>>> 
 >>>> Seems like a really slim upside to going primarily integration. Somewhat baggy clothes can easily hide almost any amount of fitness. Any facial differences could be covered with makeup.
->>>> 
 
->>>>> **u/Izeinwinter** [+1] *
+>>>>> **u/Izeinwinter** [+1]  (a day later)
 >>>>> 
 >>>>> The largest upside is that it makes you faster. Speed is very much victory, so anyone that does much fighting has a bunch of it. Though, there is limits to how deep into integration you can go without stature to support it - having the neural pathways of a demi-god installed into a purely human body is a really good way to end up hurting yourself.
->>>>> 
 
 ---
 

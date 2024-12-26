@@ -2,7 +2,7 @@
 
 * Author: u/blazinghand  *Chaos Undivided**
 * URL: https://www.reddit.com/r/rational/comments/37iqxh/rtrepost_everything_by_ted_chiang/
-* Score: 26
+* Score: 25
 
 * Created: 2015-05-27T22:48:22
 

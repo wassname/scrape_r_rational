@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/nc9a5c/d_friday_open_thread/
-* Score: 22
+* Score: 21
 
 * Created: 2021-05-14T14:00:16
 
@@ -16,205 +16,201 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/Makin-** [+11]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+11]  *homestuck ratfic, you can do it* (2 hours later)
 > 
 > After Worth the Candle finishes, what do you guys think will replace it as the /r/rational ongoing staple? Wales' next project? Origin of Species? The Flower that Bloomed Nowhere? 
-> I was just noticing I've been watching the number of new stories explicitly made by this subreddit decrease, so hopefully we'll find something.
 > 
+> I was just noticing I've been watching the number of new stories explicitly made by this subreddit decrease, so hopefully we'll find something.
 
->> **u/SvalbardCaretaker** [+27]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+28]  *Mouse Army* (2 hours later)
 >> 
 >> Clearly a flood of seemingly unrelated new high quality stories will be posted by accounts entirely new to the community, each one more tantalizingly named than the one before. Cthulurepson2, DEFNOTAW, therealJuniper. Each one putting out high quality prose at a rapid pace.
->> Then a year in it is revealed that none of them are by AW - instead he went back to his programming job and trained a neural net on his work.
 >> 
+>> Then a year in it is revealed that none of them are by AW - instead he went back to his programming job and trained a neural net on his work.
 
->>> **u/fish312** [+9]  *humanifest destiny**
+>>> **u/fish312** [+9]  *humanifest destiny* (16 hours later)
 >>> 
 >>> Imagine beating models like gpt-3 with a desktop computer's worth of compute.
->>> 
 
->>>> **u/NestorDempster** [+9] *
+>>>> **u/NestorDempster** [+7]  (19 hours later)
 >>>> 
 >>>> Imagine doing so to produce fanfiction.
->>>> 
 
->>>>> **u/abcd_z** [+2] *
+>>>>> **u/abcd_z** [+2]  (2 days later)
 >>>>> 
 >>>>> Stop, stop. I can only get so hard.
->>>>> 
 
->> **u/None** [+13] *
+>> **u/None** [+11]  (2 hours later)
 >> 
 >> Well, nobody103 will have a new story coming out soon-ish, so there's that. It remains to be seen if it'll be liked as much as Mother of Learning, but the guy is good at writing high competence, judging by his Naruto fanfic as well.
->> 
 
->>> **u/netstack_** [+2] *
+>>> **u/netstack_** [+2]  (5 hours later)
 >>> 
 >>> Could you link to any of those Naruto fics? I’d heard that he worked on such before (and I believe i can see its influence on the magic mechanics), but I’ve never encountered them. Or at least I didn’t recognize the name.
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (6 hours later)
 >>>> 
 >>>> [Scorpion's Disciple](https://www.fanfiction.net/s/5166693/1/Scorpion-s-Disciple) is what he wrote prior to MoL, and while I don't personally read Naruto fanfic myself, I heard it's good.
->>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (22 hours later)
 >>> 
 >>> I found the test chapter nobody103 posted on Patreon (only to subscribers, is going to be posted publicly) to be quite similar to Mother of Learning, so I imagine it’ll be liked here.
->>> 
 
->> **u/GeeJo** [+11]  *Custom Flair**
+>> **u/GeeJo** [+10]  *Custom Flair* (6 hours later)
 >> 
 >> Used to be that Practical Guide to Evil got every chapter crossposted here as well as to its own subreddit, and got discussion in both places. That seems to have dropped off with the past two books.
->> 
 
->>> **u/Redditor76394** [+6] *
+>>> **u/Redditor76394** [+4]  (13 hours later)
 >>> 
 >>> The hiatus is mostly what killed the discussion. When chapters stopped getting posted regularly, people forgot about it. It's sad, because I really did enjoy the chapter discussion here.
->>> 
 
->>>> **u/sohois** [+1] *
+>>>> **u/sohois** [+1]  (a day later)
 >>>> 
 >>>> I think someone mentioned there was no need to post the PGtE chapters here anymore because it already has an active subreddit for discussion of each chapter. Same with Wildbows works
->>>> 
 
->>>>> **u/Redditor76394** [+2] *
+>>>>> **u/Redditor76394** [+2]  (a day later)
 >>>>> 
 >>>>> True, there was that too. Still, I personally prefer the style of commentary from here rather than the dedicated guide sub.
->>>>> 
 
-> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857* (8 hours later)
 > 
 > Back in the age of sail, the great powers invested heavily into shipyards, and consistent investment over decades and centuries plus a symbiotic relationship with merchant shipyards allowed the great naval powers to have influence disproportionate to their population on world events.
-> SpaceX is building about one Starship prototype for month (this is hearsay until I find a source) and [plans to build 100 per year](https://www.tesmanian.com/blogs/tesmanian-blog/1000-starships#:~:text=Previous%20%2F%20Next-,Elon%20Musk%20says%20'Building%20~1%2C000%20Starships%20to%20create%20a%20self,on%20Mars'%20is%20SpaceX's%20Mission). Assuming this isn't just Elon bigging himself up as usual, that's going to give the United States a truly insane lead in spacecraft building infrastructure, as it's developing and building (space)shipyards on a scale that no other nation will even try to match for potentially decades.
-> I don't really have any conclusions to make here, I just think this is really interesting.
 > 
+> SpaceX is building about one Starship prototype for month (this is hearsay until I find a source) and [plans to build 100 per year](https://www.tesmanian.com/blogs/tesmanian-blog/1000-starships#:~:text=Previous%20%2F%20Next-,Elon%20Musk%20says%20'Building%20~1%2C000%20Starships%20to%20create%20a%20self,on%20Mars'%20is%20SpaceX's%20Mission). Assuming this isn't just Elon bigging himself up as usual, that's going to give the United States a truly insane lead in spacecraft building infrastructure, as it's developing and building (space)shipyards on a scale that no other nation will even try to match for potentially decades.
+> 
+> I don't really have any conclusions to make here, I just think this is really interesting.
 
->> **u/jtolmar** [+9] *
+>> **u/jtolmar** [+9]  (9 hours later)
 >> 
 >> Naval powers in the age of sail had an incredible value proposition - subjugate far away lands, extract goods and labor from them, and monopolize trade on any goods unique to that region. Space doesn't have any laborers to exploit, so I don't think it can have anywhere near the kind of impact that early modern imperialism had.
->> I think it's more similar to when Germany was synonymous with automotive manufacturing, or Japan with semiconductors, or the current Chinese/Taiwanese dominance in chip manufacture. A country invested heavily in technical expertise and infrastructure, to the point where they have an outsized influence on that field, and could extract a profit from being the place everyone has to go to get that product. That's still a big advantage, but some of those examples have already fallen by the wayside. Also launching satellites is not as crucial an industry as chip manufacture.
 >> 
+>> I think it's more similar to when Germany was synonymous with automotive manufacturing, or Japan with semiconductors, or the current Chinese/Taiwanese dominance in chip manufacture. A country invested heavily in technical expertise and infrastructure, to the point where they have an outsized influence on that field, and could extract a profit from being the place everyone has to go to get that product. That's still a big advantage, but some of those examples have already fallen by the wayside. Also launching satellites is not as crucial an industry as chip manufacture.
 
->>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857* (10 hours later)
 >>> 
 >>> We have automation for the labor, and goods (in the sense of natural resources) are indeed feasible to extract from space in the long term.
->>> 
 
->>>> **u/ansible** [+4]  *The Culture**
+>>>> **u/ansible** [+5]  *The Culture* (22 hours later)
 >>>> 
 >>>> In particular, there are some very high-value asteroids orbiting out there.  Precious metals like platinum in high concentrations, etc.
->>>> It'd be really useful to find a big chunk of lithium for battery manufacturing.
 >>>> 
+>>>> It'd be really useful to find a big chunk of lithium for battery manufacturing.
 
-> **u/ansible** [+5]  *The Culture**
+> **u/ansible** [+5]  *The Culture* (5 hours later)
 > 
 > Time for me to fess up with regards to supporting authors.
-> I don't support anyone on Paetron.  I do tend to buy the ebooks of ongoing webfiction at least.  I have in the past sent one-time payments to my very favorite authors, but haven't done that in a while.
-> (...waves both hands out to the side...) Discuss.
 > 
+> I don't support anyone on Paetron.  I do tend to buy the ebooks of ongoing webfiction at least.  I have in the past sent one-time payments to my very favorite authors, but haven't done that in a while.
+> 
+> (...waves both hands out to the side...) Discuss.
 
->> **u/PastafarianGames** [+13] *
+>> **u/PastafarianGames** [+10]  (7 hours later)
 >> 
 >> I read an enormous number of web serials, and I would like those authors to continue producing content. So I vote with my wallet; I'll happily toss five or ten bucks a month at authors who provide me with more than a burrito's worth of joy per update.
->> Sure, this means that I'm opening my wallet to the tune of a couple hundred bucks a month to Patreon, but I love reading, I love the amount and variety of stuff to read I get sent straight to my email inbox every day, and as a software developer it's not like I can't easily afford it out of what amounts to petty cash.
->> There's obviously no moral obligation to support an author on Patreon, but you might ask yourself "do I want this author to continue producing this work", and if the answer is 'yes', consider that there's only one real way to make that statement and it's with your dollars.
 >> 
+>> Sure, this means that I'm opening my wallet to the tune of a couple hundred bucks a month to Patreon, but I love reading, I love the amount and variety of stuff to read I get sent straight to my email inbox every day, and as a software developer it's not like I can't easily afford it out of what amounts to petty cash.
+>> 
+>> There's obviously no moral obligation to support an author on Patreon, but you might ask yourself "do I want this author to continue producing this work", and if the answer is 'yes', consider that there's only one real way to make that statement and it's with your dollars.
 
->> **u/sl236** [+10] *
+>> **u/sl236** [+7]  (8 hours later)
 >> 
 >> Back when I was a penniless teenager I pirated all the things, telling myself I'd pay if I could.
->> Now I earn money and need to make good on those promises, so I support creators.
 >> 
+>> Now I earn money and need to make good on those promises, so I support creators.
 
->> **u/callmesalticidae** [+9]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+9]  *writes worldbuilding books* (17 hours later)
 >> 
 >> If you’re feeling any kind of guilt over it, I’d suggest that you at least leave comments on the chapters. 
->> Not everybody has enough pocket money to support even one author on Patreon, but if I’ve got enough time to read a fic, I’ve got enough time to comment on a fic.
 >> 
+>> Not everybody has enough pocket money to support even one author on Patreon, but if I’ve got enough time to read a fic, I’ve got enough time to comment on a fic.
 
->> **u/DangerouslyUnstable** [+8] *
+>> **u/DangerouslyUnstable** [+9]  (5 hours later)
 >> 
 >> You don't owe anyone anything. Unless you are pirating content that is only supposed to be available for purchase, then you are fine. I'd guess the fact that you have paid anything at all puts in a very high quantile among online fiction consumers (maybe not among this sub, but more generally).
->> I'm sort of in a similar boat to you where I have in the past supported an author on patreon, and have also bought ebook versions of things when they got published, but generally I am very hesitant to pay money for something that isn't completed. The rate of abandonment in online serials is just way too high. I'm also really not a fan of the patreon model for fiction because unless the monthly payment is _very_ low or the rate of production is _very_ high, the value proposition just isn't there (for me, obviously other people have different value calculations and that's fine). 
->> So, I'd personally rather buy a book once when it's completed if I really enjoyed it. Now this makes it difficult since lots of people will never officially publish their work, even if they do wind up finishing.
->> In summary, as long as you aren't pirating, I wouldn't worry about it. Pay for the things you feel like paying for and don't pay for the things you don't feel like paying for.
 >> 
+>> I'm sort of in a similar boat to you where I have in the past supported an author on patreon, and have also bought ebook versions of things when they got published, but generally I am very hesitant to pay money for something that isn't completed. The rate of abandonment in online serials is just way too high. I'm also really not a fan of the patreon model for fiction because unless the monthly payment is _very_ low or the rate of production is _very_ high, the value proposition just isn't there (for me, obviously other people have different value calculations and that's fine). 
+>> 
+>> So, I'd personally rather buy a book once when it's completed if I really enjoyed it. Now this makes it difficult since lots of people will never officially publish their work, even if they do wind up finishing.
+>> 
+>> In summary, as long as you aren't pirating, I wouldn't worry about it. Pay for the things you feel like paying for and don't pay for the things you don't feel like paying for.
 
->>> **u/ansible** [+3]  *The Culture**
+>>> **u/ansible** [+3]  *The Culture* (6 hours later)
 >>> 
 >>> I don't pirate anything.  There is no need to do so. There is already so much to read, so much to play, so much to watch.
->>> Heck, last year I signed up for Curiosity Stream for a pittance, and it included some of the higher quality Youtubers (Nebula streaming service), all of it ad-free.
->>> I have a bunch of video games I haven't played yet.  I've been fairly good about checking in with the Epic Games store and grabbing the free one every week.  Though I've only played a couple of those (What Remains of Edith Finch was really good).
->>> And I still have to master Rust programming, and there are plenty of projects there to work on for fun.
->>> Time, is what I need more of these days. Time...
 >>> 
+>>> Heck, last year I signed up for Curiosity Stream for a pittance, and it included some of the higher quality Youtubers (Nebula streaming service), all of it ad-free.
+>>> 
+>>> I have a bunch of video games I haven't played yet.  I've been fairly good about checking in with the Epic Games store and grabbing the free one every week.  Though I've only played a couple of those (What Remains of Edith Finch was really good).
+>>> 
+>>> And I still have to master Rust programming, and there are plenty of projects there to work on for fun.
+>>> 
+>>> Time, is what I need more of these days. Time...
 
->> **u/N0_B1g_De4l** [+2] *
+>> **u/N0_B1g_De4l** [+2]  (8 hours later)
 >> 
 >> I have some weird aversion to Paetron. I'll buy books I'm never going to read, or hardcopies of ebooks I've already got. But I don't support anyone on Paetron, despite reading a bunch of stuff with authors that are on Paetron.
->> 
 
-> **u/jtolmar** [+6] *
+> **u/jtolmar** [+7]  (9 hours later)
 > 
 > In psychic crystal woo, is there some sort of obvious tier list of which crystal is more powerful than the other? I've written myself into a corner where a technically-minded character needs to MacGyver some psychokinetic explosives, and I need three tiers of those. Rigging psychic crystals to explode is my best idea for it, but I don't know if quartz is better than amethyst or whatever.
-> 
 
->> **u/Redditor76394** [+1] *
+>> **u/Redditor76394** [+1]  (13 hours later)
 >> 
 >> If you find out, please respond with what your findings because I'm interested too.
->> 
 
->>> **u/jtolmar** [+16] *
+>>> **u/jtolmar** [+15]  (14 hours later)
 >>> 
 >>> There's a pretty clear consensus that clear quartz is the best for healing, but after that it's very mixed. Some sources go for mostly for quartz-derivatives like rose quartz and citrine, others go for a bunch of semiprecious stones with short names like jade and onyx. Nobody seems to think a crystal can be destructive, even though logically^1 any near-miss on a healing effect is deadly.
->>> I will give an arbitrary shoutout to [this site](https://soonyata.home.xs4all.nl/crystals.htm) for pursuing the field of crystal woo with some of the same mood that [Atomic Rockets](http://www.projectrho.com/public_html/rocket/index.php) pursues hard SF rocket designs.
->>> edit: All this said, I'm mostly looking at random listicles, which is not an accurate source even for topics where it is possible to be accurate. It's possible there's a more consistent canon that a crystal aficionado would know about, but I don't know how to access it.
->>> ---
->>> ^1 lol
 >>> 
+>>> I will give an arbitrary shoutout to [this site](https://soonyata.home.xs4all.nl/crystals.htm) for pursuing the field of crystal woo with some of the same mood that [Atomic Rockets](http://www.projectrho.com/public_html/rocket/index.php) pursues hard SF rocket designs.
+>>> 
+>>> edit: All this said, I'm mostly looking at random listicles, which is not an accurate source even for topics where it is possible to be accurate. It's possible there's a more consistent canon that a crystal aficionado would know about, but I don't know how to access it.
+>>> 
+>>> ---
+>>> 
+>>> ^1 lol
 
->>>> **u/RetardedWabbit** [+2] *
+>>>> **u/RetardedWabbit** [+2]  (a day later)
 >>>> 
 >>>> I read an entire page of that site before realizing it wasn't satire or conspiracy-observing. This hurt my brain.
->>>> I'm pretty sure that site has all of the "research" you need. You're going to be "wrong" to anyone with different crystal theories no matter what, and I'm sure there are thousands. The best option is probably to pick some "powerful and dangerous" crystals and explain them well in story. Stronger crystals and those easier to psychically detonate due to their frequency/power type stand out, maybe even combine crystals to create "unstable" frequencies/opposing properties?
 >>>> 
+>>>> I'm pretty sure that site has all of the "research" you need. You're going to be "wrong" to anyone with different crystal theories no matter what, and I'm sure there are thousands. The best option is probably to pick some "powerful and dangerous" crystals and explain them well in story. Stronger crystals and those easier to psychically detonate due to their frequency/power type stand out, maybe even combine crystals to create "unstable" frequencies/opposing properties?
 
-> **u/MagicWeasel** [+12]  *Cheela Astronaut**
+> **u/MagicWeasel** [+12]  *Cheela Astronaut* (10 hours later)
 > 
 > me and /u/callmesalticidae have just taken over /r/rationalcirclejerk - we want it to be a circlejerk of /r/rational but also the "rationalsphere" in general (SSC/ASX, lesswrong, etc). 
-> In the spirit of circlejerk it'll be poking fun at ourselves / making small grievances with the community, rather than sneering.
-> we would appreciate it if people could subscribe, post, and comment.
 > 
+> In the spirit of circlejerk it'll be poking fun at ourselves / making small grievances with the community, rather than sneering.
+> 
+> we would appreciate it if people could subscribe, post, and comment.
 
->> **u/Zayits** [-1] *
+>> **u/Zayits** [-1]  (a day later)
 >> 
 >> Why not stick to r/SneerClub ? For that matter, why post the “like and subscribe” *here*, of all places?
->> 
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>> 
 >>> ... i post on /r/survivor and i also post on /r/survivorcirclejerk 
->>> it's a circlejerk *for* rationalists, not a circlejerk *about* rationalists. 
->>> like, we're laughing with ourselves, not at ourselves? if that makes sense?
 >>> 
+>>> it's a circlejerk *for* rationalists, not a circlejerk *about* rationalists. 
+>>> 
+>>> like, we're laughing with ourselves, not at ourselves? if that makes sense?
 
->>>> **u/Zayits** [+1] *
+>>>> **u/Zayits** [+1]  (2 days later)
 >>>> 
 >>>> That’s not the impression I get from the tone of circlejerk subs I’ve been keeping up with, though I admit I don’t keep track of the usernames enough to tell if they’re regulars of their respective subs. Nevermind then.
->>>> 
 
->>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (2 days later)
 >>>>> 
 >>>>> Well, /r/vegancirclejerk  is full of vegans, if that assuages you.
->>>>> Regardless, me and Salty are both long-time regulars here, have been readers of LW/ASX for a long time, love the community/etc
->>>>> full disclosure, I have been known to post in Sneerclub, but it's about a 100:1 ratio. It's a combo of because I have genuine grievances with the community about certain things (misogyny, chiefly), and because I try to keep myself intellectually honest by not having an echochamber.
 >>>>> 
+>>>>> Regardless, me and Salty are both long-time regulars here, have been readers of LW/ASX for a long time, love the community/etc
+>>>>> 
+>>>>> full disclosure, I have been known to post in Sneerclub, but it's about a 100:1 ratio. It's a combo of because I have genuine grievances with the community about certain things (misogyny, chiefly), and because I try to keep myself intellectually honest by not having an echochamber.
 
-> **u/Gaboncio** [+3] *
+> **u/Gaboncio** [+4]  (7 hours later)
 > 
 > Anyone familiar with detailed work on having a healthy ontological ecosystem, both individually and as a society? Meta-rationality is one framework for this, but I wonder if anyone knows of any others.
-> 
 
 ---
 

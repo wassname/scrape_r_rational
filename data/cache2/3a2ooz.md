@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3a2ooz/rt_the_randi_prize_short/
-* Score: 205
+* Score: 207
 
 * Created: 2015-06-16T19:28:20
 
@@ -60,195 +60,181 @@ And then Peter was alone. He was feeling sad, and tried to remember why. The vid
 
 ### Comments:
 
-> **u/EliAndrewC** [+55] *
+> **u/EliAndrewC** [+59]  (2 hours later)
 > 
 > Great story, loved it!
-> FYI, in case you're not aware, many people who have failed to collect this prize actually do claim that Randi himself is a psychic who has the ability to suppress other people's powers.  For this reason, Randi has taken to not being present for the tests which are administered or even letting himself know the precise day/time they are happening, just so that people cannot make this claim :)
 > 
+> FYI, in case you're not aware, many people who have failed to collect this prize actually do claim that Randi himself is a psychic who has the ability to suppress other people's powers.  For this reason, Randi has taken to not being present for the tests which are administered or even letting himself know the precise day/time they are happening, just so that people cannot make this claim :)
 
->> **u/alexanderwales** [+40]  *Time flies like an arrow**
+>> **u/alexanderwales** [+40]  *Time flies like an arrow* (2 hours later)
 >> 
 >> I was aware that some people had made that claim (not just about Randi, but about all sorts of tests); I wasn't aware that he'd removed himself from the proceedings. That's pretty funny.
->> 
 
-> **u/alexanderwales** [+34]  *Time flies like an arrow**
+> **u/alexanderwales** [+35]  *Time flies like an arrow* (13 seconds later)
 > 
 > I would be very surprised if this idea hadn't been done better elsewhere, but it tickled me. ([Inspired by this.](http://www.reddit.com/r/rational/comments/3a03yc/pushing_daisies/cs8gpp4?context=1))
-> Edit: Also, my apologies to James Randi.
 > 
+> Edit: Also, my apologies to James Randi.
 
->> **u/DaystarEld** [+13]  *Pokémon Professor**
+>> **u/DaystarEld** [+15]  *Pokémon Professor* (2 hours later)
 >> 
 >> Nice. I was expecting Randi to have some anti-magic effect, with a goal of ridding the world of the supernatural. Your ending is much more diabolical.
->> 
 
->>> **u/dysfunctionz** [+20] *
+>>> **u/dysfunctionz** [+19]  (2 hours later)
 >>> 
 >>> I remember reading a short story in which it is discovered that weak effects in scientific results (such as a barely statistically significant result in a study of psychic powers) actually diminish over repeated replication attempts *as a law of physics*, and even strong effects will gradually diminish over time, so that eventually even something like relativity will no longer be true. 
->>> Essentially, the universe will slowly become less scientifically describable... until, in a few hundred years, the diminishing effect itself diminishes, and the universe becomes sane again.
 >>> 
+>>> Essentially, the universe will slowly become less scientifically describable... until, in a few hundred years, the diminishing effect itself diminishes, and the universe becomes sane again.
 
->>>> **u/gabbalis** [+17] *
+>>>> **u/gabbalis** [+19]  (5 hours later)
 >>>> 
 >>>> Hmm. Well there's the SMBC comic where the laws of mathematics wear out with repeated use.
->>>> http://www.smbc-comics.com/index.php?db=comics&id=2595
 >>>> 
+>>>> http://www.smbc-comics.com/index.php?db=comics&id=2595
 
-> **u/TheStevenZubinator** [+24]  *Chaos Legion**
+> **u/TheStevenZubinator** [+27]  *Chaos Legion* (8 hours later)
 > 
 > Having met Randi and seen a live Million Dollar Challenge, I believe your depiction of how he'd act during a test to be perfectly accurate, at least in the days when he still did them personally. 
-> I also think that if he was a magical super villain, he'd probably act a lot like you imagined. Maybe you shouldn't answer the door for a few days, just in case. 
-> If you'd like, I can try sending this a few people who might be able to get it to Randi directly. I think he might find it fun.
 > 
+> I also think that if he was a magical super villain, he'd probably act a lot like you imagined. Maybe you shouldn't answer the door for a few days, just in case. 
+> 
+> If you'd like, I can try sending this a few people who might be able to get it to Randi directly. I think he might find it fun.
 
->> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>> **u/alexanderwales** [+11]  *Time flies like an arrow* (8 hours later)
 >> 
 >> Heh, that would be great. Glad you enjoyed it.
->> 
 
->>> **u/TheStevenZubinator** [+6]  *Chaos Legion**
+>>> **u/TheStevenZubinator** [+5]  *Chaos Legion* (9 hours later)
 >>> 
 >>> I'll let you know what I hear. :)
->>> 
 
->>> **u/TheStevenZubinator** [+4]  *Chaos Legion**
+>>> **u/TheStevenZubinator** [+4]  *Chaos Legion* (6 days later)
 >>> 
 >>> Status update:
->>> The only person I've gotten in contact with is DJ Grothe, but I'm not really sure what the circumstances were regarding his being deposed and having Randi take over the Presidency last year. We're not exactly close so I don't know how to bring it up. I would ask Brian Dunning, but he's still unreachable. 
->>> That said, I'll save the link and if a good opportunity presents itself, I'll jump on it. :)
 >>> 
+>>> The only person I've gotten in contact with is DJ Grothe, but I'm not really sure what the circumstances were regarding his being deposed and having Randi take over the Presidency last year. We're not exactly close so I don't know how to bring it up. I would ask Brian Dunning, but he's still unreachable. 
+>>> 
+>>> That said, I'll save the link and if a good opportunity presents itself, I'll jump on it. :)
 
-> **u/Iconochasm** [+15] *
+> **u/Iconochasm** [+12]  (26 minutes later)
 > 
 > Mr. Wales, you are a gem.
-> 
 
-> **u/robobreasts** [+10] *
+> **u/robobreasts** [+11]  (4 hours later)
 > 
 > Hahah.  Well at least Randi didn't murder him?
-> Many of my "superpowers!" fantasies involve the Randi prize.  Except I usually like to keep my powers a secret, so many of my scenarios involve proving to Randi, personally, that my powers exist, and then encouraging him to just give me the million under the table, rather than have to publicly declare that he's been wrong all along and paranormal powers do exist... ah, the moral conundrums I've forced that poor man through in my fevered imaginings...
 > 
+> Many of my "superpowers!" fantasies involve the Randi prize.  Except I usually like to keep my powers a secret, so many of my scenarios involve proving to Randi, personally, that my powers exist, and then encouraging him to just give me the million under the table, rather than have to publicly declare that he's been wrong all along and paranormal powers do exist... ah, the moral conundrums I've forced that poor man through in my fevered imaginings...
 
->> **u/fr3ddie** [+3] *
+>> **u/fr3ddie** [+3]  (a month later)
 >> 
 >> so you dont have sex with him?
->> 
 
-> **u/DCarrier** [+11] *
+> **u/DCarrier** [+9]  (43 minutes later)
 > 
 > > Do you understand why I'm here? It's not to gloat. This is cleanup.
-> And yet you gloat. If Peter had a gun, that could have ended badly. He's not going to get powers from bullet-proof people that way.
 > 
+> And yet you gloat. If Peter had a gun, that could have ended badly. He's not going to get powers from bullet-proof people that way.
 
->> **u/alexanderwales** [+21]  *Time flies like an arrow**
+>> **u/alexanderwales** [+17]  *Time flies like an arrow* (44 minutes later)
 >> 
 >> Well, obviously part of the reason is to gloat. :)
->> If it helps, you can imagine that Randi has absorbed metal detection powers and can check for the presence of a gun. Or that he's confident enough in his psychic abilities that he could force someone to drop the gun. Or that he's absorbed a few dozen clairvoyants.
 >> 
+>> If it helps, you can imagine that Randi has absorbed metal detection powers and can check for the presence of a gun. Or that he's confident enough in his psychic abilities that he could force someone to drop the gun. Or that he's absorbed a few dozen clairvoyants.
 
->>> **u/MoralRelativity** [+1] *
+>>> **u/MoralRelativity** [+1]  (4 hours later)
 >>> 
 >>> Described that way, Randi reminds me of the 'Abzorbaloff' villain from Doctor Who [s02e10, Love and Monsters].
->>> I enjoyed your take on Randi.
 >>> 
+>>> I enjoyed your take on Randi.
 
-> **u/Sparkwitch** [+8] *
+> **u/Sparkwitch** [+7]  (an hour later)
 > 
 > James Randi is one of those people with so distinct a voice that it's impossible to read his lines here without hearing his gleeful timbre.
-> 
 
-> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (8 hours later)
 > 
 > This is fantastic. 
-> I hope that Randi is doing this to avert risks and not simply to acquire personal power.
 > 
+> I hope that Randi is doing this to avert risks and not simply to acquire personal power.
 
-> **u/None** [+3] *
+> **u/None** [+2]  (22 hours later)
 > 
 > Ben finished writing the story and clicked the little button marked "Submit". That was a good one - the idea had it he at him for a while.
-> Weeks later, Ben got a knock at his door...
 > 
+> Weeks later, Ben got a knock at his door...
 
-> **u/Arandur** [+3] *
+> **u/Arandur** [+3]  (4 hours later)
 > 
 > ........ How did Randi discover that he had this ability?
-> 
 
->> **u/None** [+15] *
+>> **u/None** [+14]  (8 hours later)
 >> 
 >> In my imagination, while he was a stage performance magician, he got curious about a performer with a trick he just couldn't figure out...
->> 
 
-> **u/logrusmage** [+3] *
+> **u/logrusmage** [+3]  (23 hours later)
 > 
 > Can anyone actually send this to Randi? He seems like the kind of guy who would enjoy it.
-> 
 
-> **u/thebeginningistheend** [+3] *
+> **u/thebeginningistheend** [+3]  (a month later)
 > 
 > This is absolutely brilliant.
-> 
 
-> **u/TotesMessenger** [+3] *
+> **u/TotesMessenger** [+3]  (a month later)
 > 
 > I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
-> - [/r/skeptic] [The Randi Prize - A short story about psychic abilities and James Randi](https://np.reddit.com/r/skeptic/comments/3fa05t/the_randi_prize_a_short_story_about_psychic/)
-> [](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger/wiki/) ^/ ^[Contact](/message/compose/?to=\/r\/TotesMessenger))*
-> [](#bot)
 > 
+> - [/r/skeptic] [The Randi Prize - A short story about psychic abilities and James Randi](https://np.reddit.com/r/skeptic/comments/3fa05t/the_randi_prize_a_short_story_about_psychic/)
+> 
+> [](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger/wiki/) ^/ ^[Contact](/message/compose/?to=\/r\/TotesMessenger))*
+> 
+> [](#bot)
 
-> **u/Farmerbob1** [+2]  *Level 1 author**
+> **u/Farmerbob1** [+2]  *Level 1 author* (4 hours later)
 > 
 > Very Well Done, sir.
-> I am now going to link a TED talk by Randi on the /r/rational mainpage if nobody else has beaten me to it recently.
 > 
+> I am now going to link a TED talk by Randi on the /r/rational mainpage if nobody else has beaten me to it recently.
 
->> **u/Farmerbob1** [+3]  *Level 1 author**
+>> **u/Farmerbob1** [+3]  *Level 1 author* (4 hours later)
 >> 
 >> I'm not entirely happy about it, but apparently we're getting far stricter than necessary (IMHO) about topics of threads in this subreddit.  [The link to James Randi's TED talk] (https://www.ted.com/talks/james_randi?language=en) was removed from the main page.
->> 
 
->>> **u/Aretii** [+6]  *Cultist of Cthugha**
+>>> **u/Aretii** [+9]  *Cultist of Cthugha* (8 hours later)
 >>> 
 >>> (not a mod)
->>> /r/rational is a misnamed sub, IMO. It's not for general discussion of rationalism or rationalist topics, it's specifically for rational (fan)fiction. There *should* be a sub for discussions and links of rational interest, but it's not this one.
 >>> 
+>>> /r/rational is a misnamed sub, IMO. It's not for general discussion of rationalism or rationalist topics, it's specifically for rational (fan)fiction. There *should* be a sub for discussions and links of rational interest, but it's not this one.
 
->>>> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (9 hours later)
 >>>> 
 >>>> There are /r/lesswrong and /r/lesswronglounge, neither of which are terribly active. I think part of the success of this subreddit is owed to the fact that we put our focus on fiction, which is a more evergreen topic than the art of human rationality in general.
->>>> Of note, we will be starting up a Friday Off-Topic thread where you can link and discuss whatever you'd like with this community; the first test of that will be soon, and we'll see how that goes.
 >>>> 
+>>>> Of note, we will be starting up a Friday Off-Topic thread where you can link and discuss whatever you'd like with this community; the first test of that will be soon, and we'll see how that goes.
 
->>> **u/FunkyCredo** [+2] *
+>>> **u/FunkyCredo** [+2]  (a month later)
 >>> 
 >>> you could link it to /r/skeptic
->>> 
 
-> **u/ancientcampus** [+2]  *juggling kittens**
+> **u/ancientcampus** [+2]  *juggling kittens* (22 hours later)
 > 
 > Aww. Now you've gone and made me sad.
-> 
 
-> **u/FunkyCredo** [+2] *
+> **u/FunkyCredo** [+2]  (a month later)
 > 
 > This is great! Thank you!
-> 
 
-> **u/neerg** [+1] *
+> **u/neerg** [+1]  (19 hours later)
 > 
 > I don't  understand. Did Randi alter his memories, or was the narrator lying to us initially?
-> 
 
->> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (19 hours later)
 >> 
 >> The intended reading was that Randi altered his memories.
->> 
 
->>> **u/neerg** [+1] *
+>>> **u/neerg** [+1]  (20 hours later)
 >>> 
 >>> Thanks for clarifying. Fun read!
->>> 
 
 ---
 

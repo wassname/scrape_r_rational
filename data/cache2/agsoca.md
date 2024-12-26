@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/agsoca/final_biweekly_challenge_endings/
-* Score: 22
+* Score: 21
 
 * Created: 2019-01-17T01:50:46
 
@@ -50,65 +50,59 @@ There is no next time. This is the last challenge.
 
 ### Comments:
 
-> **u/Nagadac** [+17]  *Challenge Winner**
+> **u/Nagadac** [+18]  *Challenge Winner* (3 days later)
 > 
 > [Brains of the Operation (Wattpad) by Rory Grainger](https://www.wattpad.com/683918027-brains-of-the-operation) 2,092 words
-> 
 
->> **u/CouteauBleu** [+2]  *We are the Empire.**
+>> **u/CouteauBleu** [+2]  *We are the Empire.* (6 days later)
 >> 
 >> …I say we take off and nuke the entire planet from orbit. It's the only way to be sure.
->> Honestly, this was surprisingly scary and terrifying. Are you secretly Wildbow?
 >> 
+>> Honestly, this was surprisingly scary and terrifying. Are you secretly Wildbow?
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (15 days later)
 >> 
 >> cowards in the CEO -> cowardice in the CEO
->> did not breath -> did not breathe
 >> 
+>> did not breath -> did not breathe
 
-> **u/sickening_sprawl** [+17] *
+> **u/sickening_sprawl** [+14]  (3 days later)
 > 
 > [Unsung](https://markdownshare.com/view/0a228271-c9d5-4e81-8990-93415c18da65) 449 words.
-> 
 
-> **u/red_adair** [+11]  *{{explosive-stub}}**
+> **u/red_adair** [+12]  *{{explosive-stub}}* (7 days later)
 > 
 > [Returning to the Moon](https://irradiate.space/stories/return-to-the-moon/), 2600 words.
-> Content warnings: historical figure deaths, national tragedy, and failure of the best-laid plans.
-> *Edit note*: See the bottom of the story for edits made in the last 21 hours, since this link was posted. The story is the same, but I've fixed some typos and added a couple paragraphs for additional detail.
 > 
+> Content warnings: historical figure deaths, national tragedy, and failure of the best-laid plans.
+> 
+> *Edit note*: See the bottom of the story for edits made in the last 21 hours, since this link was posted. The story is the same, but I've fixed some typos and added a couple paragraphs for additional detail.
 
->> **u/VirtueOrderDignity** [+5] *
+>> **u/VirtueOrderDignity** [+4]  (10 days later)
 >> 
 >> Viewed from the surface of the near side of the Moon, the Earth doesn't rise and set, it's fixed in the sky.
->> 
 
->>> **u/red_adair** [+2]  *{{explosive-stub}}**
+>>> **u/red_adair** [+2]  *{{explosive-stub}}* (10 days later)
 >>> 
 >>> Then they'd be waiting a long time to watch it set. Which is kind of the point.
->>> 
 
-> **u/conradin6622** [+6]  *Challenge Winner**
+> **u/conradin6622** [+9]  *Challenge Winner* (3 days later)
 > 
 > [My Winning Ticket](https://www.fictionpress.com/s/3333664/1/My-Winning-Ticket), 1,346 words.
-> TW suicidal ideation
 > 
+> TW suicidal ideation
 
->> **u/red_adair** [+3]  *{{explosive-stub}}**
+>> **u/red_adair** [+3]  *{{explosive-stub}}* (8 days later)
 >> 
 >> Portraying something that most people would think of as a loss as a win is a very interesting plot device.
->> 
 
-> **u/DocFuture** [+6] *
+> **u/DocFuture** [+4]  (9 days later)
 > 
 > [The Old Man](http://docfuture.tumblr.com/post/148417152631/the-old-man) 3,149 words
-> 
 
->> **u/DocFuture** [+1] *
+>> **u/DocFuture** [+1]  (9 days later)
 >> 
 >> Wrote this a couple of years ago, in my Doc Future universe.
->> 
 
 ---
 

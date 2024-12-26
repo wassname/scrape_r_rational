@@ -2,7 +2,7 @@
 
 * Author: u/Quibbloboy *
 * URL: https://www.reddit.com/r/rational/comments/kreyyp/rt_ff_wip_annotated_ranimorphs_chapter_1/
-* Score: 36
+* Score: 37
 
 * Created: 2021-01-06T03:12:45
 
@@ -46,23 +46,23 @@ This is still only the first chapter and a bit of a trial run, so I welcome any 
 
 ### Comments:
 
-> **u/callmesalticidae** [+7]  *writes worldbuilding books**
+> **u/callmesalticidae** [+6]  *writes worldbuilding books* (20 hours later)
 > 
 > Two thoughts:
-> 1. I love this and will try to contribute during my own re-read. 
-> 2. While the project is ongoing, and thus in the present tense, shouldn’t the subreddit be called r/Runimorphs? >:P
 > 
+> 1. I love this and will try to contribute during my own re-read. 
+> 
+> 2. While the project is ongoing, and thus in the present tense, shouldn’t the subreddit be called r/Runimorphs? >:P
 
->> **u/Quibbloboy** [+7] *
+>> **u/Quibbloboy** [+6]  (20 hours later)
 >> 
 >> 1. Thank you, I'm glad you liked it!
->> 2. I considered /r/CurrentlySprintingimorphs but it was taken :/
 >> 
+>> 2. I considered /r/CurrentlySprintingimorphs but it was taken :/
 
-> **u/MagicWeasel** [+5]  *Cheela Astronaut**
+> **u/MagicWeasel** [+5]  *Cheela Astronaut* (a day later)
 > 
 > This is awesome, I am bad at picking up subtle things and I am really excited to see this
-> 
 
 ---
 

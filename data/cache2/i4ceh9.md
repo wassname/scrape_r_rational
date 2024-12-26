@@ -12,40 +12,39 @@
 
 ### Comments:
 
-> **u/narfanator** [+3] *
+> **u/narfanator** [+3]  (59 seconds later)
 > 
 > This starting up snuck by me, figured some other folks here would appreciate know this is happening :)
-> There's also ~8 chapters of Angelverse short stories up in Book II's thread after its conclusion.
 > 
+> There's also ~8 chapters of Angelverse short stories up in Book II's thread after its conclusion.
 
-> **u/thatavidreadertrue** [+2] *
+> **u/thatavidreadertrue** [+2]  (a day later)
 > 
 > Awesome! Thank you for highlighting this.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (13 days later)
 > 
 > [deleted]
-> 
 
->> **u/EsquilaxM** [+2] *
+>> **u/EsquilaxM** [+2]  (17 days later)
 >> 
 >> I think that's Chrysalis, no?
->> 
 
->> **u/narfanator** [+1] *
+>> **u/narfanator** [+1]  (13 days later)
 >> 
 >> Err quick synopsis of Book 2 is:
->> Red and Echo deniably team up with the Red Hand, and enemy-of-my-enemy-is-also-my-enemy-but-also-friend with the Other Giant Star Nation to wreck a forge system where the Original "Evil" Star Nation was staging / building an invasion fleet.
->> Meanwhile, Red has been faking a nesting ground in one location while actually building a nesting ground in a different location (I think?) and mostly baits a hunter fleet through the fake one, although they figure it out by the end.
->> Trying to think "what else is plot", as opposed to universe/character development.
 >> 
+>> Red and Echo deniably team up with the Red Hand, and enemy-of-my-enemy-is-also-my-enemy-but-also-friend with the Other Giant Star Nation to wreck a forge system where the Original "Evil" Star Nation was staging / building an invasion fleet.
+>> 
+>> Meanwhile, Red has been faking a nesting ground in one location while actually building a nesting ground in a different location (I think?) and mostly baits a hunter fleet through the fake one, although they figure it out by the end.
+>> 
+>> Trying to think "what else is plot", as opposed to universe/character development.
 
->>> **u/jaghataikhan** [+1]  *Primarch of the White Scars**
+>>> **u/jaghataikhan** [+1]  *Primarch of the White Scars* (13 days later)
 >>> 
 >>> Awesome, thank you!
->>> Yep, I remember the nesting ground decoy and the team up, but not the star nation figuring the decoy out
 >>> 
+>>> Yep, I remember the nesting ground decoy and the team up, but not the star nation figuring the decoy out
 
 ---
 

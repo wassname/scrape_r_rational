@@ -50,16 +50,15 @@ I'll try to keep this top post updated with science recommendations...
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (15 minutes later)
 > 
 > [Ignition](http://library.sciencemadness.org/library/books/ignition.pdf)
-> [Excuse Me Sir, Would You Like To Buy a Kilo of Isopropyl Bromide](ftp://www.fourmilab.ch/pub/etexts/www/gergel/isopropyl_bromide.pdf)
 > 
+> [Excuse Me Sir, Would You Like To Buy a Kilo of Isopropyl Bromide](ftp://www.fourmilab.ch/pub/etexts/www/gergel/isopropyl_bromide.pdf)
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (19 hours later)
 > 
 > [Exhalation](http://www.lightspeedmagazine.com/fiction/exhalation/) by [Ted Chiang](http://www.ibooksonline.com/88/Text/tower.html).
-> 
 
 ---
 

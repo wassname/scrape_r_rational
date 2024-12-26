@@ -2,7 +2,7 @@
 
 * Author: u/OrzBrain  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
 * URL: https://www.reddit.com/r/rational/comments/a59mqg/does_arrival_take_place_in_a_universe_in_which/
-* Score: 37
+* Score: 35
 
 * Created: 2018-12-11T18:45:22
 
@@ -18,440 +18,496 @@ Thoughts?
 
 ### Comments:
 
-> **u/None** [+54] *
+> **u/None** [+59]  (21 minutes later)
 > 
 > Orginal short story was set in predetermined universe, but movie wanted to have more actiony ending and that caused some plot holes.
-> Also [relevant fanfic by Alicorn](http://alicorn.elcenia.com/stories/storyof.shtml)
 > 
+> Also [relevant fanfic by Alicorn](http://alicorn.elcenia.com/stories/storyof.shtml)
 
->> **u/BooksAndComicBooks** [+12] *
+>> **u/BooksAndComicBooks** [+12]  (an hour later)
 >> 
 >> Thank you, that was beautiful
->> 
 
-> **u/Menolith** [+19]  *Unworthy Opponent**
+> **u/Menolith** [+20]  *Unworthy Opponent* (24 minutes later)
 > 
 > Yes, that is kind of the point. Adams learns to value the here and now despite knowing where it will end.
-> The heptapods even get confused about how humans view the world with the "there is no time" comment. Humans think that time exists sequentially, while the heptapods see it as a "one long moment," so to speak. Speaking in past and future tenses on what could happen or what had happened simply doesn't make sense to them since the future "already happened" to them, and as Adams' knowledge of their language increases, she can glimpse that instantaneous perception of time too.
 > 
+> The heptapods even get confused about how humans view the world with the "there is no time" comment. Humans think that time exists sequentially, while the heptapods see it as a "one long moment," so to speak. Speaking in past and future tenses on what could happen or what had happened simply doesn't make sense to them since the future "already happened" to them, and as Adams' knowledge of their language increases, she can glimpse that instantaneous perception of time too.
 
-> **u/Ilverin** [+13] *
+> **u/Ilverin** [+15]  (27 minutes later)
 > 
 > Article by gwern: 'STORY OF YOUR LIFE' IS NOT A TIME-TRAVEL STORY
-> https://www.gwern.net/Story-Of-Your-Life
 > 
+> https://www.gwern.net/Story-Of-Your-Life
 
-> **u/bassicallyboss** [+11] *
+> **u/bassicallyboss** [+10]  (57 minutes later)
 > 
 > Arrival definitely seems to occur in a predetermined universe. But note that this is not necessary to explain the main character's behavior w.r.t. her sick daughter.
-> Even if the sick daughter who dies early is only one of many possibilities, Amy Adams' character never sees any of those other possibilities. Her heptapod-like perception (or flashes of perception) of time means that she experiences the possible future with her sick daughter as the present actuality. That is, as far as she's concerned, she has a daughter whom she loves very much, and would like to spend time with, and children aren't exactly interchangeable. It's natural that she would choose the exact sequence of events she remembers from the future that would lead to the sick daughter being born, even she and the universe had other possibilities.
-> Small variations in timing, though potentially important, aren't in this case, since the future she saw was the one in which she'd already seen the future. That is, it's not like there's an original timeline with no foreknowledge that she was trying to match to make her daughter come to be. Rather, the timeline that she saw, in which her daughter came to be, was one in which she'd already seen the timeline and all her future actions. There's no room for Primer-style small variations to have big consequences because there are no small variations.
 > 
+> Even if the sick daughter who dies early is only one of many possibilities, Amy Adams' character never sees any of those other possibilities. Her heptapod-like perception (or flashes of perception) of time means that she experiences the possible future with her sick daughter as the present actuality. That is, as far as she's concerned, she has a daughter whom she loves very much, and would like to spend time with, and children aren't exactly interchangeable. It's natural that she would choose the exact sequence of events she remembers from the future that would lead to the sick daughter being born, even she and the universe had other possibilities.
+> 
+> Small variations in timing, though potentially important, aren't in this case, since the future she saw was the one in which she'd already seen the future. That is, it's not like there's an original timeline with no foreknowledge that she was trying to match to make her daughter come to be. Rather, the timeline that she saw, in which her daughter came to be, was one in which she'd already seen the timeline and all her future actions. There's no room for Primer-style small variations to have big consequences because there are no small variations.
 
->> **u/archpawn** [+3] *
+>> **u/archpawn** [+3]  (4 hours later)
 >> 
 >> > It's natural that she would choose the exact sequence of events she remembers from the future that would lead to the sick daughter being born, even she and the universe had other possibilities.
->> How? If she missteps by a Planck length the error will grow exponentially until the wrong sperm meets the egg.
 >> 
+>> How? If she missteps by a Planck length the error will grow exponentially until the wrong sperm meets the egg.
 
->>> **u/bassicallyboss** [+9] *
+>>> **u/bassicallyboss** [+8]  (5 hours later)
 >>> 
 >>> I think the universe she's in is predetermined, so she doesn't actually have the freedom to misstep like that.
->>> But the bit you quoted was an attempt to answer OP's implicit question about why, in a counter-factual world that wasn't predetermined and she could have her choice of futures, she would choose the tragic future she saw instead of trying to get to another, happier, one. (Because she loved the child she had, not the ones she might have had)
 >>> 
+>>> But the bit you quoted was an attempt to answer OP's implicit question about why, in a counter-factual world that wasn't predetermined and she could have her choice of futures, she would choose the tragic future she saw instead of trying to get to another, happier, one. (Because she loved the child she had, not the ones she might have had)
 
->>> **u/turtleswamp** [+2] *
+>>> **u/turtleswamp** [+2]  (23 hours later)
 >>> 
 >>> Not necessarily.
->>> Chaotic systems can contain attractors, which are regions where small variations still produce convergent outcomes over infinite iterations. 
->>> &#x200B;
->>> If we presume that Adams could have made choices otehr than the ones she remembers making it's likely that the timeline she remembers is something similar where she has to do more than misstep by a plank-length to diverge from it in a way she would recognize as being different. This would not preclude there being otehr such timelines, or otehr less stable timelines.
 >>> 
+>>> Chaotic systems can contain attractors, which are regions where small variations still produce convergent outcomes over infinite iterations. 
+>>> 
+>>> &#x200B;
+>>> 
+>>> If we presume that Adams could have made choices otehr than the ones she remembers making it's likely that the timeline she remembers is something similar where she has to do more than misstep by a plank-length to diverge from it in a way she would recognize as being different. This would not preclude there being otehr such timelines, or otehr less stable timelines.
 
->>>> **u/archpawn** [+2] *
+>>>> **u/archpawn** [+2]  (a day later)
 >>>> 
 >>>> > Chaotic systems can contain attractors, which are regions where small variations still produce convergent outcomes over infinite iterations.
->>>> An attractor is when it ends up in some set of outcomes. There's still a lot of differences in what it can be.
->>>> And in any case, it's pretty clear that messing around with a bunch of molecules bouncing off of each other isn't going to end up with them bouncing in the same manner and pushing the same sperm to a given egg.
 >>>> 
+>>>> An attractor is when it ends up in some set of outcomes. There's still a lot of differences in what it can be.
+>>>> 
+>>>> And in any case, it's pretty clear that messing around with a bunch of molecules bouncing off of each other isn't going to end up with them bouncing in the same manner and pushing the same sperm to a given egg.
 
->>>>> **u/turtleswamp** [+1] *
+>>>>> **u/turtleswamp** [+1]  (a day later)
 >>>>> 
 >>>>> I don't think it's at all clear that which sperm fertilizes an egg is sufficiently unpredictable that it can be changed by a plank-scale deviation in position.
->>>>> Nor is it obvious that no two sperm are similar enough to produce phenotypically identical children when all otehr major variables (egg, mother's hormones, etc.) are identical. 
->>>>> I think an attractor set in which having sex with the same man at the same time is adequate to ensure an identical child at the level of detail Amy observes in her visions, is plausible to a degree grater than there existing aliens with interstellar travel and the ability to remember the future.
 >>>>> 
+>>>>> Nor is it obvious that no two sperm are similar enough to produce phenotypically identical children when all otehr major variables (egg, mother's hormones, etc.) are identical. 
+>>>>> 
+>>>>> I think an attractor set in which having sex with the same man at the same time is adequate to ensure an identical child at the level of detail Amy observes in her visions, is plausible to a degree grater than there existing aliens with interstellar travel and the ability to remember the future.
 
->>>>>> **u/archpawn** [+2] *
+>>>>>> **u/archpawn** [+2]  (2 days later)
 >>>>>> 
 >>>>>> > I don't think it's at all clear that which sperm fertilizes an egg is sufficiently unpredictable that it can be changed by a plank-scale deviation in position.
->>>>>> Brownian motion is a bunch of molecules bouncing off of each other. If they hit from a slightly different angle, they'll deflect at a much greater angle. It's kind of like a bunch of billiard balls bouncing off of each other. You're not going to hit it a little different but still have every ball end up in basically the same place.
->>>>>> > Nor is it obvious that no two sperm are similar enough to produce phenotypically identical children when all otehr major variables (egg, mother's hormones, etc.) are identical.
->>>>>> Just looking at which chromosome gets picked it's a one in 2^23 = 8,388,608 chance. But they also switch some of the DNA before getting selected by the sperm, so even then they won't be quite the same. Just look at any pair of fraternal twins. They're not the same.
 >>>>>> 
+>>>>>> Brownian motion is a bunch of molecules bouncing off of each other. If they hit from a slightly different angle, they'll deflect at a much greater angle. It's kind of like a bunch of billiard balls bouncing off of each other. You're not going to hit it a little different but still have every ball end up in basically the same place.
+>>>>>> 
+>>>>>> > Nor is it obvious that no two sperm are similar enough to produce phenotypically identical children when all otehr major variables (egg, mother's hormones, etc.) are identical.
+>>>>>> 
+>>>>>> Just looking at which chromosome gets picked it's a one in 2^23 = 8,388,608 chance. But they also switch some of the DNA before getting selected by the sperm, so even then they won't be quite the same. Just look at any pair of fraternal twins. They're not the same.
 
-> **u/hayshed** [+10] *
+> **u/hayshed** [+10]  (4 hours later)
 > 
 > Its a single timeline just like harry potter. She has the kid because that what has already happened. She doesn't pause and do something different, she does the thing she has already done. Everything she does with knowledge of the future makes that future happen.
-> Does it make perfect sense? Of course not time travel is a fantasy. Of course it doesn't make sense with QM, and all time travel has information from nothing paradoxes, thats time travel.
 > 
+> Does it make perfect sense? Of course not time travel is a fantasy. Of course it doesn't make sense with QM, and all time travel has information from nothing paradoxes, thats time travel.
 
->> **u/crivtox** [+3]  *Closed Time Loop Enthusiast**
+>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast* (6 hours later)
 >> 
 >> There's no information from nothing paradoxes and there's an obvious way to make it work whith Qm I think.
+>> 
 >> You just have all the posible casually consistent  timelines existing. 
+>> 
 >> In some of them it just happens to look like knowdelenge is created.
 >> But most loops will close in simpler wayand its not actually paradoxical.
 >> Realisticaly time travel would not be posible at all though, since branches where nothing time travels are way more likely. 
 >> So we might even live in a universe with time travel and some característics of it that we take for granted actually a consecuence  us being much more likely to live on universes whithout time  travel.
->> 
 
->>> **u/hayshed** [+1] *
+>>> **u/hayshed** [+1]  (2 days later)
 >>> 
 >>> If you go the multi-line theory then yeah you're right you don't get the info-from-nothing problem, but as you say you run into other problems, but it's a similar info problem - How do you access another timeline if you can't have info about that timeline? (Because by definition a separate timeline has no info sharing until the first time travel, the time travel is the info sharing)
->>> 
 
->>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast**
+>>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast* (2 days later)
 >>>> 
 >>>> I don't mean different timelinesI know I'm bad at explaning this kind of thing so Ill just link the relevant papers.
->>>> Just something like  the formulation used in this paper.[https://arxiv.org/pdf/1609.01496.pdf](https://arxiv.org/pdf/1609.01496.pdf)( there's also  the original paper by  Deutsch  [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197) but its behind a paywall, use schihub if you are interested ).
->>>> You can easily get information out of nothing , but basically what you are doing in many wolrds interpertation of qm terms is making the branches of the wavefunction were you don't get the info not happen.
->>>> Its really weird , but perfectly consistent , and not paradoxical.And complex information being generated is more unlikely.
->>>> Isolated qubits like in scot aronson's papers could work however( and not make that region of spacetime a crazy mess like it would happen if you sent lots of atoms back in time, which would impose crazy consistency requirements that make human concepts like  the human that is made of those atoms wanting  to kill their grandfather seem  irrelevant, and means you most likely don't get to ever use that kind of time machine), and that is already "generating info out of nothing ".
 >>>> 
+>>>> Just something like  the formulation used in this paper.[https://arxiv.org/pdf/1609.01496.pdf](https://arxiv.org/pdf/1609.01496.pdf)( there's also  the original paper by  Deutsch  [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197) but its behind a paywall, use schihub if you are interested ).
+>>>> 
+>>>> You can easily get information out of nothing , but basically what you are doing in many wolrds interpertation of qm terms is making the branches of the wavefunction were you don't get the info not happen.
+>>>> 
+>>>> Its really weird , but perfectly consistent , and not paradoxical.And complex information being generated is more unlikely.
+>>>> 
+>>>> Isolated qubits like in scot aronson's papers could work however( and not make that region of spacetime a crazy mess like it would happen if you sent lots of atoms back in time, which would impose crazy consistency requirements that make human concepts like  the human that is made of those atoms wanting  to kill their grandfather seem  irrelevant, and means you most likely don't get to ever use that kind of time machine), and that is already "generating info out of nothing ".
 
-> **u/FistOfFacepalm** [+5] *
+> **u/FistOfFacepalm** [+6]  (43 minutes later)
 > 
 > Have you read the original story?
-> 
 
->> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (49 minutes later)
 >> 
 >> No.
->> 
 
->>> **u/FistOfFacepalm** [+11] *
+>>> **u/FistOfFacepalm** [+11]  (56 minutes later)
 >>> 
 >>> you should, it does much more thorough job of explaining things
->>> 
 
->>>> **u/aeschenkarnos** [+6] *
+>>>> **u/aeschenkarnos** [+6]  (7 hours later)
 >>>> 
 >>>> Everyone should just read it because Ted Chiang is one of the best authors in the world.
->>>> 
 
->>>>> **u/pleasedothenerdful** [+1] *
+>>>>> **u/pleasedothenerdful** [+1]  (2 days later)
 >>>>> 
 >>>>> That too!
->>>>> 
 
-> **u/archpawn** [+3] *
+> **u/archpawn** [+3]  (4 hours later)
 > 
 > What do you mean by "predetermined"? If you mean deterministic, most likely not. Even if it's otherwise deterministic, stable time loops can resolve multiple ways, and it's presumably random which actually happens. Though it's possible that there is some rule that can be used to predict it.
-> If you're asking about whether it follows [presentism](https://en.wikipedia.org/wiki/Philosophical_presentism) or [eternalism](https://en.wikipedia.org/wiki/Eternalism_\(philosophy_of_time\)), then presentism makes even less sense than normal in this case, but it's confused to begin with.
-> There's two types of time travel: single timeline and multiple timeline. With single timeline time travel, all travel is earlier in the same timeline. With multiple timeline, you create a new timeline when you time travel. Arrival uses single timeline. It's impossible for Amy's future child to change since it's the same child. It's not that the same events happen each time. They only happen once. You just see them multiple times if you're not looking at things from a linear perspective.
 > 
+> If you're asking about whether it follows [presentism](https://en.wikipedia.org/wiki/Philosophical_presentism) or [eternalism](https://en.wikipedia.org/wiki/Eternalism_\(philosophy_of_time\)), then presentism makes even less sense than normal in this case, but it's confused to begin with.
+> 
+> There's two types of time travel: single timeline and multiple timeline. With single timeline time travel, all travel is earlier in the same timeline. With multiple timeline, you create a new timeline when you time travel. Arrival uses single timeline. It's impossible for Amy's future child to change since it's the same child. It's not that the same events happen each time. They only happen once. You just see them multiple times if you're not looking at things from a linear perspective.
 
-> **u/narfanator** [+3] *
+> **u/narfanator** [+3]  (6 hours later)
 > 
 > Short version: You're attempting to view the timeline of the movie in a linear fashion. Notionally, Adam's character was "able" to view the "future" information because time stopped being linear to her. Under that view, there is no future, and so there is no changing the future. 
-> When you have information moving through time, AFAIK/short version, you either have meta-time (the dimension along which the timeline changes) or you have a "constant" universe where the timeline is static. In "Arrival" it's the later, in most other fiction (terminator, et all) it's the former.
-> There might be some wiggle room in there with quantumn funniness and the gap between determinism and knowable (see Scott Aaronson's lecture on free will), but I figure you'd _still_ not get a "changing" timeline.
 > 
+> When you have information moving through time, AFAIK/short version, you either have meta-time (the dimension along which the timeline changes) or you have a "constant" universe where the timeline is static. In "Arrival" it's the later, in most other fiction (terminator, et all) it's the former.
+> 
+> There might be some wiggle room in there with quantumn funniness and the gap between determinism and knowable (see Scott Aaronson's lecture on free will), but I figure you'd _still_ not get a "changing" timeline.
 
-> **u/hpmorfan** [+2] *
+> **u/hpmorfan** [+2]  (a day later)
 > 
 > The neat philosophical idea at the core of Arrival is the combination of the physics "principle of least action" with the linguistics/cognitive science "Sapir Whorf hypothesis" - yes, the author was serious about his thought experiments.
-> I'll briefly describe these ideas and how they combine in Arrival, and this should answer your question. But you should really read the original short story "Story of Your Life" - it explores this very cohesively (as opposed to the movie which became heavily Hollywoodized).
-> The Sapir Whorf hypothesis was trendy in the 1960s, a cool idea but mostly not taken seriously these days. It simply says that the language one speaks significantly shapes the way one's brain works, and the way one perceives the world.
-> The "principle of least action" is a very general and enormously powerful interpretation of physics which, does \*not\* phrase things in terms of cause+effect, but instead looks at complete trajectories of a system across time and specifies the rules that characterize entire trajectories. While a typical way of describing physics would say "given the current conditions (position and velocity), this is what will happen next", the principle of least action instead says things like "a complete trajectory of light will consist of straight lines, and interactions with shiny surfaces where the angle of incidence equals the angle of reflection". This way of looking at physics only talks about "complete stories", and the "arrow of time" doesn't show up at all.
-> The thought experiment behind Arrival basically asks, since there are two languages for talking about physics (the cause+effect language, and the "characterizing complete stories" language), what if there were aliens that thought entirely in this second language? It's not that they have superpowers or can see the future, just they conceptualize only characteristics of completed stories, and don't perceive cause+effect, nor the flow of time.
-> On our world, every kid intuitively knows about cause+effect, while the logically equivalent "principle of least action" is only seriously taught at the advanced undergraduate level as an exotic alternative; consider an alien world where these facts are flipped: every kid-alien intuits the principle of least action, but "cause+effect" is an opaque abstraction taught only to ambitious aliens who are really good at math.
-> The main character of Arrival is, naturally, a linguist (with a physicist best buddy), and the main point of the story is that, as she learns the alien's language, she starts thinking in this alien way, losing her perception of time, and gaining a perception of the complete trajectories of stories.
-> Naturally, such a perception of time would be an emergent property of her brain across her entire life, and she would not be able to fully realize the thoughts outlined in the story until the end of her life. Each moment of her life contributes to a single timeless perception of the trajectory of her life, once she thinks in the alien language. But the fact that her consciousness is an emergent illusion wouldn't bother her, just as the (different) emergent illusions that characterize our consciousness don't bother us. And while this stretches the believability of the Sapir Whorf hypothesis to a wild extreme, there is well documented neuroscience demonstrating that our perception of time is full of illusions and inconsistencies, forced on us by quirks of processing in our brain (see, e.g., [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866156/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866156/)).
-> In short, Arrival isn't "just another time travel story", but rather the consequence of taking an extremely foundational, standard, influential, yet counterintuitive view of physics, and writing a story simply asking "what would it take to truly embrace this as a way of thought?"
-> The story is thus \*completely\* within mainstream physics, and isn't trying to say anything controversial about predetermination; but it is outside mainstream cognitive science/linguistics, and that is what makes it interesting.
 > 
+> I'll briefly describe these ideas and how they combine in Arrival, and this should answer your question. But you should really read the original short story "Story of Your Life" - it explores this very cohesively (as opposed to the movie which became heavily Hollywoodized).
+> 
+> The Sapir Whorf hypothesis was trendy in the 1960s, a cool idea but mostly not taken seriously these days. It simply says that the language one speaks significantly shapes the way one's brain works, and the way one perceives the world.
+> 
+> The "principle of least action" is a very general and enormously powerful interpretation of physics which, does \*not\* phrase things in terms of cause+effect, but instead looks at complete trajectories of a system across time and specifies the rules that characterize entire trajectories. While a typical way of describing physics would say "given the current conditions (position and velocity), this is what will happen next", the principle of least action instead says things like "a complete trajectory of light will consist of straight lines, and interactions with shiny surfaces where the angle of incidence equals the angle of reflection". This way of looking at physics only talks about "complete stories", and the "arrow of time" doesn't show up at all.
+> 
+> The thought experiment behind Arrival basically asks, since there are two languages for talking about physics (the cause+effect language, and the "characterizing complete stories" language), what if there were aliens that thought entirely in this second language? It's not that they have superpowers or can see the future, just they conceptualize only characteristics of completed stories, and don't perceive cause+effect, nor the flow of time.
+> 
+> On our world, every kid intuitively knows about cause+effect, while the logically equivalent "principle of least action" is only seriously taught at the advanced undergraduate level as an exotic alternative; consider an alien world where these facts are flipped: every kid-alien intuits the principle of least action, but "cause+effect" is an opaque abstraction taught only to ambitious aliens who are really good at math.
+> 
+> The main character of Arrival is, naturally, a linguist (with a physicist best buddy), and the main point of the story is that, as she learns the alien's language, she starts thinking in this alien way, losing her perception of time, and gaining a perception of the complete trajectories of stories.
+> 
+> Naturally, such a perception of time would be an emergent property of her brain across her entire life, and she would not be able to fully realize the thoughts outlined in the story until the end of her life. Each moment of her life contributes to a single timeless perception of the trajectory of her life, once she thinks in the alien language. But the fact that her consciousness is an emergent illusion wouldn't bother her, just as the (different) emergent illusions that characterize our consciousness don't bother us. And while this stretches the believability of the Sapir Whorf hypothesis to a wild extreme, there is well documented neuroscience demonstrating that our perception of time is full of illusions and inconsistencies, forced on us by quirks of processing in our brain (see, e.g., [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866156/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866156/)).
+> 
+> In short, Arrival isn't "just another time travel story", but rather the consequence of taking an extremely foundational, standard, influential, yet counterintuitive view of physics, and writing a story simply asking "what would it take to truly embrace this as a way of thought?"
+> 
+> The story is thus \*completely\* within mainstream physics, and isn't trying to say anything controversial about predetermination; but it is outside mainstream cognitive science/linguistics, and that is what makes it interesting.
 
-> **u/Kilbourne** [+2] *
+> **u/Kilbourne** [+4]  (24 minutes later)
 > 
 > Reality *is* predetermined. We only perceive randomization because we are unable to calculate all effective factors. 
-> A perfect measurement of reality would *be* reality, because all effects are real, measurable, and caused by previous effects, all the way back to the beginning of the universe.
 > 
+> A perfect measurement of reality would *be* reality, because all effects are real, measurable, and caused by previous effects, all the way back to the beginning of the universe.
 
->> **u/lolbifrons** [+6]  *Fifteenth Legion of Terror**
+>> **u/lolbifrons** [+4]  *Fifteenth Legion of Terror* (27 minutes later)
 >> 
 >> Are we talking IRL?  Because the part of real life that throws a wrench in that is that we only perceive part of the quantum superposition we’re always in, and which part we experience perceiving is subjectively random.  
->> It can’t depend on past configurations in principle because those past configurations also produced another “us” that are experiencing each other everett branch, and they could in principle be asking themselves the same questions and remember the exact same past.
->> The universe isn’t random; every branch happens exactly as previous conditions dictated.  It’s a trick of our limited perception - our ability to only subjectively experience one branch exclusively - that creates subjective randomness, but even still, the particular world we see, experience and have access to is determined subjectively by a roll of the dice and the born rule.
 >> 
+>> It can’t depend on past configurations in principle because those past configurations also produced another “us” that are experiencing each other everett branch, and they could in principle be asking themselves the same questions and remember the exact same past.
+>> 
+>> The universe isn’t random; every branch happens exactly as previous conditions dictated.  It’s a trick of our limited perception - our ability to only subjectively experience one branch exclusively - that creates subjective randomness, but even still, the particular world we see, experience and have access to is determined subjectively by a roll of the dice and the born rule.
 
->>> **u/bloodfist** [+3] *
+>>> **u/bloodfist** [+4]  (32 minutes later)
 >>> 
 >>> Right. The term is "hidden variables" or more broadly the question of whether the universe is deterministic. At the macro scale, it appears to be deterministic, but at the quantum scale, everything is non-deterministic and governed by probability. Of course this is one of the biggest questions in physics and philosophy, so there is room for that to be wrong, but all the data points to a non-deterministic universe.
->>> 
 
->>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror**
+>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror* (41 minutes later)
 >>>> 
 >>>> I mean if you subscribe to manyworlds (*cough* as you should) you can go up a level and get back to a deterministic structure.  The problem is, we don’t experience the world on that level.
->>>> It’s like a choose your own adventure book, except at every crossroads you assign a probability to take each path proportional to the square of how many pages will be down that path, and then you roll some dice to pick.
->>>> The story you experience seems pretty random, but nothing about the book ever changes.  It’s prewritten and fixed.  Immutable.  Except what page _you_ are on.
->>>> As far as we’re concerned, any decoherence event is a source of true randomness.  But really it’s an illusion.
->>>> The universe isn't random, but we are.  \*holds up spork\*
 >>>> 
+>>>> It’s like a choose your own adventure book, except at every crossroads you assign a probability to take each path proportional to the square of how many pages will be down that path, and then you roll some dice to pick.
+>>>> 
+>>>> The story you experience seems pretty random, but nothing about the book ever changes.  It’s prewritten and fixed.  Immutable.  Except what page _you_ are on.
+>>>> 
+>>>> As far as we’re concerned, any decoherence event is a source of true randomness.  But really it’s an illusion.
+>>>> 
+>>>> The universe isn't random, but we are.  \*holds up spork\*
 
->>>>> **u/OrzBrain** [+2]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>> **u/OrzBrain** [+2]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (an hour later)
 >>>>> 
 >>>>> > The story you experience seems pretty random, but nothing about the book ever changes. It’s prewritten and fixed. Immutable. Except what page you are on.
->>>>> It sounds less like a book and more like a search space. An infinite search space given structure by an equation or collection of equations (universal laws). Are you saying every possibility in that infinite search space *actually* exists somewhere?
->>>>> >I mean if you subscribe to manyworlds (cough as you should)
->>>>> Why? Isn't that merely one of many different possible quantum models?
->>>>> Can you recommenced some good books or resources on quantum stuff? I gave up on that subject years ago when I kept on running into that question, "Isn't that merely one of many different possible quantum models?", but maybe I should get back into it.
 >>>>> 
+>>>>> It sounds less like a book and more like a search space. An infinite search space given structure by an equation or collection of equations (universal laws). Are you saying every possibility in that infinite search space *actually* exists somewhere?
+>>>>> 
+>>>>> >I mean if you subscribe to manyworlds (cough as you should)
+>>>>> 
+>>>>> Why? Isn't that merely one of many different possible quantum models?
+>>>>> 
+>>>>> Can you recommenced some good books or resources on quantum stuff? I gave up on that subject years ago when I kept on running into that question, "Isn't that merely one of many different possible quantum models?", but maybe I should get back into it.
 
->>>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror**
+>>>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror* (an hour later)
 >>>>>> 
 >>>>>> > Are you saying every possibility in that infinite search space actually exists somewhere?
->>>>>> That's the conceit of manyworlds, yes.
->>>>>> >Why? Isn't that merely one of many different possible quantum models?
->>>>>> Occam's razor.  It explains at least as many observed phenomena as any other hypothesized model with at most as many axioms.
->>>>>> >Can you recommenced some good books or resources on quantum stuff?
->>>>>> Honestly you might laugh, but unless you're working on your phd in math I'd start with [the QP Sequence](https://www.lesswrong.com/posts/hc9Eg6erp6hk9bWhn/the-quantum-physics-sequence).
 >>>>>> 
+>>>>>> That's the conceit of manyworlds, yes.
+>>>>>> 
+>>>>>> >Why? Isn't that merely one of many different possible quantum models?
+>>>>>> 
+>>>>>> Occam's razor.  It explains at least as many observed phenomena as any other hypothesized model with at most as many axioms.
+>>>>>> 
+>>>>>> >Can you recommenced some good books or resources on quantum stuff?
+>>>>>> 
+>>>>>> Honestly you might laugh, but unless you're working on your phd in math I'd start with [the QP Sequence](https://www.lesswrong.com/posts/hc9Eg6erp6hk9bWhn/the-quantum-physics-sequence).
 
->>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (an hour later)
 >>>>>> 
 >>>>>> The absolute best book I have ever read for explaining what superposition really means and how quantum mechanics is really about information instead of physics is [Q for Quantum](https://www.amazon.com/Q-Quantum-Terry-Rudolph-ebook/dp/B074DYJTKN/ref=sr_1_1?ie=UTF8&qid=1544560541&sr=8-1&keywords=q+is+for+quantum).
->>>>>> It's the most well-explained introduction to quantum mechanics that I have ever heard of and it's simple enough that middle-schoolers could be reasonably expected to understand it. It doesn't even use any mathematical concepts beyond arithmetic and logic, but it makes for a great foundation for understanding the math in related quantum concepts if you chose to read beyond this book.
->>>>>> It won't explain everything, but it really helps to make a lot of aspects of quantum mechanics intuitive.
 >>>>>> 
+>>>>>> It's the most well-explained introduction to quantum mechanics that I have ever heard of and it's simple enough that middle-schoolers could be reasonably expected to understand it. It doesn't even use any mathematical concepts beyond arithmetic and logic, but it makes for a great foundation for understanding the math in related quantum concepts if you chose to read beyond this book.
+>>>>>> 
+>>>>>> It won't explain everything, but it really helps to make a lot of aspects of quantum mechanics intuitive.
 
->>>>>>> **u/pleasedothenerdful** [+1] *
+>>>>>>> **u/pleasedothenerdful** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Thanks for the book recommendation. From the reviews, it looks like that author just straight-up dismisses MWI, though, which seems like a point against it. Don't get me wrong, I'm still going to read it.
->>>>>>> 
 
->>>>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 days later)
 >>>>>>>> 
 >>>>>>>> From what I have read in the book, he doesn't agree with MWI, but he still presents the arguments for it and against it in a way that's easy to understand.
->>>>>>>> I won't say that he dismisses it, more just that he simply doesn't agree with it. Despite that, he still presents both MWI and CI in a fair manner and clearly enough to understand how they work and how they differ (which isn't always the case for other books on quantum mechanics for the layperson).
->>>>>>>> Let me know what you think of the book! I'm really curious to see what reactions other people have to the book and if it's as helpful as it was for me.
 >>>>>>>> 
+>>>>>>>> I won't say that he dismisses it, more just that he simply doesn't agree with it. Despite that, he still presents both MWI and CI in a fair manner and clearly enough to understand how they work and how they differ (which isn't always the case for other books on quantum mechanics for the layperson).
+>>>>>>>> 
+>>>>>>>> Let me know what you think of the book! I'm really curious to see what reactions other people have to the book and if it's as helpful as it was for me.
 
->>>>> **u/bloodfist** [+1] *
+>>>>> **u/bloodfist** [+1]  (an hour later)
 >>>>> 
 >>>>> MWI is pretty cool, and I'd love to hear it proven, but I'm not ready to subscribe to it yet. It's just not very testable and it raises so many questions and requires so many assumptions. The Copenhagen interpretation has had some holes punched in it, but I feel like it is a simpler, less complex explanation that will likely prove to be closer to the actual truth.
->>>>> 
 
->>>>>> **u/lolbifrons** [+2]  *Fifteenth Legion of Terror**
+>>>>>> **u/lolbifrons** [+2]  *Fifteenth Legion of Terror* (an hour later)
 >>>>>> 
 >>>>>> Copenhagen isn't simpler mathematically.  It privileges something special about human perception that even Copenhagen subscribers can't fully explain without _post hoc_ hypotheses.
->>>>>> How do you encode that?
->>>>>> MWI posits simply that we obey the same rules as everything else.  That's fewer assumptions, not more.
 >>>>>> 
+>>>>>> How do you encode that?
+>>>>>> 
+>>>>>> MWI posits simply that we obey the same rules as everything else.  That's fewer assumptions, not more.
 
->>>>>>> **u/hayshed** [+2] *
+>>>>>>> **u/hayshed** [+2]  (4 hours later)
 >>>>>>> 
 >>>>>>> Theres nothing special about human perception in copenhagen. Measurement refers to any interaction with something outside the entanglement.
->>>>>>> 
 
->>>>>>>> **u/lolbifrons** [+2]  *Fifteenth Legion of Terror**
+>>>>>>>> **u/lolbifrons** [+2]  *Fifteenth Legion of Terror* (4 hours later)
 >>>>>>>> 
 >>>>>>>> What are the boundaries of the entanglement?
->>>>>>>> Anything that we find through observation collapses the waveform?
->>>>>>>> Hmm.
->>>>>>>> Sounds like an unnecessary (and very complicated, hard to encode) axiom to me.
->>>>>>>> Edit: In order to contrast this with MWI, it explains apparent wave collapse like this:
->>>>>>>> A superposition entangles with other particles as it interacts with them and those particles' states start to depend on the state of the original superposition.  Those other particles then enter a superposition that corresponds with the original.  As we observe a superposition, the particles of light entering our eyes are entangled and superposed.  When they hit our retina, the particles in our retina become correspondingly superposed.  As signals are sent to our brain, our neurons get superposed, _just like everything else does_.
->>>>>>>> This requires no additional postulates or axioms.  Our particles behave just like everything else.
->>>>>>>> Our subjective experience of being in a superposition just happens to be "pick a position at random (weighted according to the born rule) and stay there".  As we do this, the waveform appears to collapse.  It's because we've "decided" which position we're seeing, not because the other positions stopped existing.
 >>>>>>>> 
+>>>>>>>> Anything that we find through observation collapses the waveform?
+>>>>>>>> 
+>>>>>>>> Hmm.
+>>>>>>>> 
+>>>>>>>> Sounds like an unnecessary (and very complicated, hard to encode) axiom to me.
+>>>>>>>> 
+>>>>>>>> Edit: In order to contrast this with MWI, it explains apparent wave collapse like this:
+>>>>>>>> 
+>>>>>>>> A superposition entangles with other particles as it interacts with them and those particles' states start to depend on the state of the original superposition.  Those other particles then enter a superposition that corresponds with the original.  As we observe a superposition, the particles of light entering our eyes are entangled and superposed.  When they hit our retina, the particles in our retina become correspondingly superposed.  As signals are sent to our brain, our neurons get superposed, _just like everything else does_.
+>>>>>>>> 
+>>>>>>>> This requires no additional postulates or axioms.  Our particles behave just like everything else.
+>>>>>>>> 
+>>>>>>>> Our subjective experience of being in a superposition just happens to be "pick a position at random (weighted according to the born rule) and stay there".  As we do this, the waveform appears to collapse.  It's because we've "decided" which position we're seeing, not because the other positions stopped existing.
 
->>>>>>>>> **u/bloodfist** [+3] *
+>>>>>>>>> **u/bloodfist** [+3]  (4 hours later)
 >>>>>>>>> 
 >>>>>>>>> As the person above said, no need for consciousness in CI. Any interaction collapses the wave function. That's not even unique to Copenhagen, it's just the basic math that defines all interactions in QM and applies to MWI also. The difference is mainly that CI implies that the waveform collapse is an actual physical action, whereas MWI says that this doesn't really occur, just occurs for all practical intents and purposes from our reference frame. 
->>>>>>>>> Copenhagen says that there is one observable universe, MWI implies an unimaginably huge infinite set of other universes which is a pretty big leap to me.
->>>>>>>>> But there are so many other interpretations too. De Broglie pilot wave theory is one I really like and string theory/M theory build on CI in some interesting but untestable ways. Until there's some evidence towards one or the other though, I'm not "subscribing" to any of them since they are all pretty incomplete. They're all fun to think about, though.
 >>>>>>>>> 
+>>>>>>>>> Copenhagen says that there is one observable universe, MWI implies an unimaginably huge infinite set of other universes which is a pretty big leap to me.
+>>>>>>>>> 
+>>>>>>>>> But there are so many other interpretations too. De Broglie pilot wave theory is one I really like and string theory/M theory build on CI in some interesting but untestable ways. Until there's some evidence towards one or the other though, I'm not "subscribing" to any of them since they are all pretty incomplete. They're all fun to think about, though.
 
->>>>>>>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror**
+>>>>>>>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror* (5 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> > Any interaction collapses the wave function
->>>>>>>>>> But any interaction _doesn't_ collapse the wave function.  If that was true, coherence would be completely unstable.  Hitting the half-silvered mirror would collapse the wave.  We wouldn't be able to build qubits, because "calculation" falls under "any interaction".  And yet, qubits.
->>>>>>>>>> There are certain things that collapse it and certain things that don't.  CI suggests it's "observation" or "measurement" and then goes on to define what that actually means as a post-hoc list of things that have collapsed the wave function in the past.  If we were to come up with an experiment that tests the current grey zone, I doubt any CI adherent could provide a confident prediction as to the outcome, because there's no _explanation_ in CI, just a list of past results, and the grey zone is between opposing entries on the list.  The fact that it seems to care in some way about what ~~we~~ a human is observing or can, in principle, observe, is what I mean about "privileging human perception".
->>>>>>>>>> Because in CI it's a physical phenomenon, there has to be _one_ event that collapses the wave for _everyone_, and it just so happens that it's usually when some sufficiently informative instrument or sufficiently advanced observer polls it.  But there's no way to know precisely, because any chain that results in you knowing is you polling it.  All we know is we can calculate with "coherent" phenomena, but by the time ~~we~~ a person (but probably not a dog, or maybe, who knows? A photon detector yes, but certainly not a half-silvered mirror.  Maybe a dog that's been trained to bark if it sees a photon) sees the result, it's "collapsed" somewhere along the way.
->>>>>>>>>> And also, for some reason, if a quantum phenomenon gets too "macro", it disappears, but this is completely different from the observer phenomenon, for some reason.  How much is too much?  Well we're not sure but we have this list of past results...
->>>>>>>>>> ----
->>>>>>>>>> MWI suggests it's when the neurons of the observer are sufficiently entangled with the phenomenon to themselves be superposed, and that apparent collapse is relative to each observer.  While I am aware of the "result of the experiment", the wave has "collapsed" for me, but for you, who I have not yet told, the worlds are still overlapping, and the wave is "still" in a superposition.
->>>>>>>>>> A quantum computer in MWI will work for anyone who has been kept isolated from the knock-on effects of the superpositions it uses to calculate, and will not work for anyone who hasn't.  Observing the behavior of someone who has been deisolated is almost certainly enough to deisolate you, and certainly talking to them about what they've experienced is.  Because what they'd say (and how they'd act) is entangled with the phenomenon.
->>>>>>>>>> Decoherence occurs when a superposition becomes too "macro" because its knock-on effects have become wide-spread enough for the superposition to become entangled with our brains by osmosis, _the exact same phenomenon as observation_.  The novelty here is that a phenomenon can be "too macro" for some people and not for others.  This is much less complex than positing that it's a completely different phenomenon, with a completely different explanation, which we also don't know.
->>>>>>>>>> Entanglement and associated decoherence is a local phenomenon.  The world doesn't collapse, we do.  And it's contagious.
->>>>>>>>>> ----
->>>>>>>>>> "An unimaginably huge infinite set of other universes" sounds like a big deal, but it's not hard to _describe_ or _implement_, it just takes a lot of hardware resources to _run_.  And we've observed our universe is at the very least a pretty well-endowed computer.
->>>>>>>>>> The _code_ to write MWI is simpler than CI.  The math is simpler.
->>>>>>>>>> MWI just takes more RAM.
 >>>>>>>>>> 
+>>>>>>>>>> But any interaction _doesn't_ collapse the wave function.  If that was true, coherence would be completely unstable.  Hitting the half-silvered mirror would collapse the wave.  We wouldn't be able to build qubits, because "calculation" falls under "any interaction".  And yet, qubits.
+>>>>>>>>>> 
+>>>>>>>>>> There are certain things that collapse it and certain things that don't.  CI suggests it's "observation" or "measurement" and then goes on to define what that actually means as a post-hoc list of things that have collapsed the wave function in the past.  If we were to come up with an experiment that tests the current grey zone, I doubt any CI adherent could provide a confident prediction as to the outcome, because there's no _explanation_ in CI, just a list of past results, and the grey zone is between opposing entries on the list.  The fact that it seems to care in some way about what ~~we~~ a human is observing or can, in principle, observe, is what I mean about "privileging human perception".
+>>>>>>>>>> 
+>>>>>>>>>> Because in CI it's a physical phenomenon, there has to be _one_ event that collapses the wave for _everyone_, and it just so happens that it's usually when some sufficiently informative instrument or sufficiently advanced observer polls it.  But there's no way to know precisely, because any chain that results in you knowing is you polling it.  All we know is we can calculate with "coherent" phenomena, but by the time ~~we~~ a person (but probably not a dog, or maybe, who knows? A photon detector yes, but certainly not a half-silvered mirror.  Maybe a dog that's been trained to bark if it sees a photon) sees the result, it's "collapsed" somewhere along the way.
+>>>>>>>>>> 
+>>>>>>>>>> And also, for some reason, if a quantum phenomenon gets too "macro", it disappears, but this is completely different from the observer phenomenon, for some reason.  How much is too much?  Well we're not sure but we have this list of past results...
+>>>>>>>>>> 
+>>>>>>>>>> ----
+>>>>>>>>>> 
+>>>>>>>>>> MWI suggests it's when the neurons of the observer are sufficiently entangled with the phenomenon to themselves be superposed, and that apparent collapse is relative to each observer.  While I am aware of the "result of the experiment", the wave has "collapsed" for me, but for you, who I have not yet told, the worlds are still overlapping, and the wave is "still" in a superposition.
+>>>>>>>>>> 
+>>>>>>>>>> A quantum computer in MWI will work for anyone who has been kept isolated from the knock-on effects of the superpositions it uses to calculate, and will not work for anyone who hasn't.  Observing the behavior of someone who has been deisolated is almost certainly enough to deisolate you, and certainly talking to them about what they've experienced is.  Because what they'd say (and how they'd act) is entangled with the phenomenon.
+>>>>>>>>>> 
+>>>>>>>>>> Decoherence occurs when a superposition becomes too "macro" because its knock-on effects have become wide-spread enough for the superposition to become entangled with our brains by osmosis, _the exact same phenomenon as observation_.  The novelty here is that a phenomenon can be "too macro" for some people and not for others.  This is much less complex than positing that it's a completely different phenomenon, with a completely different explanation, which we also don't know.
+>>>>>>>>>> 
+>>>>>>>>>> Entanglement and associated decoherence is a local phenomenon.  The world doesn't collapse, we do.  And it's contagious.
+>>>>>>>>>> 
+>>>>>>>>>> ----
+>>>>>>>>>> 
+>>>>>>>>>> "An unimaginably huge infinite set of other universes" sounds like a big deal, but it's not hard to _describe_ or _implement_, it just takes a lot of hardware resources to _run_.  And we've observed our universe is at the very least a pretty well-endowed computer.
+>>>>>>>>>> 
+>>>>>>>>>> The _code_ to write MWI is simpler than CI.  The math is simpler.
+>>>>>>>>>> 
+>>>>>>>>>> MWI just takes more RAM.
 
->>>>>>>>> **u/hayshed** [+1] *
+>>>>>>>>> **u/hayshed** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> First off, I wasn't using entanglement correctly. Replace entanglement with "particle/wave".
->>>>>>>>> >Anything that we find through observation collapses the waveform?
->>>>>>>>> Anything that it interacts hard enough with it. It's a packet of energy and if it transforms thats a collapse (aka hiting a wall) Of course we only known how it works through observation. 
->>>>>>>>> > The fact that it seems to care in some way about what ~~we~~ a human is observing or can, in principle, observe, is what I mean about "privileging human perception". 
->>>>>>>>> Its about information transfer, which is the " can, in principle, observe". The language around the explanation is just shit platonic language because that's what we normally use to talk with. 
->>>>>>>>> >  Because in CI it's a physical phenomenon, there has to be *one* event that collapses the wave for *everyone*, and it just so happens that it's usually when some sufficiently informative instrument or sufficiently advanced observer polls it. 
->>>>>>>>> Actually it's happening all around us all the time, that's kinda the point of the idea. It almost never "just so happens". Of course we only know about it when we look!
->>>>>>>>> &#x200B;
->>>>>>>>> \---------
->>>>>>>>> &#x200B;
->>>>>>>>> Honestly though I'm rather a minimalist when it comes to all this. If the math works the math works. Come up with ways to test if there's other patterns behind the patterns we are currently seeing, but otherwise I don't think the interpretations are worth much. Like in CI, if waveform collapse is an event its a different beast from what we have been calling events up till now.
 >>>>>>>>> 
+>>>>>>>>> >Anything that we find through observation collapses the waveform?
+>>>>>>>>> 
+>>>>>>>>> Anything that it interacts hard enough with it. It's a packet of energy and if it transforms thats a collapse (aka hiting a wall) Of course we only known how it works through observation. 
+>>>>>>>>> 
+>>>>>>>>> > The fact that it seems to care in some way about what ~~we~~ a human is observing or can, in principle, observe, is what I mean about "privileging human perception". 
+>>>>>>>>> 
+>>>>>>>>> Its about information transfer, which is the " can, in principle, observe". The language around the explanation is just shit platonic language because that's what we normally use to talk with. 
+>>>>>>>>> 
+>>>>>>>>> >  Because in CI it's a physical phenomenon, there has to be *one* event that collapses the wave for *everyone*, and it just so happens that it's usually when some sufficiently informative instrument or sufficiently advanced observer polls it. 
+>>>>>>>>> 
+>>>>>>>>> Actually it's happening all around us all the time, that's kinda the point of the idea. It almost never "just so happens". Of course we only know about it when we look!
+>>>>>>>>> 
+>>>>>>>>> &#x200B;
+>>>>>>>>> 
+>>>>>>>>> \---------
+>>>>>>>>> 
+>>>>>>>>> &#x200B;
+>>>>>>>>> 
+>>>>>>>>> Honestly though I'm rather a minimalist when it comes to all this. If the math works the math works. Come up with ways to test if there's other patterns behind the patterns we are currently seeing, but otherwise I don't think the interpretations are worth much. Like in CI, if waveform collapse is an event its a different beast from what we have been calling events up till now.
 
->>>> **u/MereInterest** [+3] *
+>>>> **u/MereInterest** [+3]  (2 hours later)
 >>>> 
 >>>> Hidden variables only works if you are willing to throw out the lightspeed limit.  As that comes from special relativity, which has had tremendous experimental success, I would be very hesitant to do so.
->>>> http://en.wikipedia.org/wiki/Bell%27s_theorem
 >>>> 
+>>>> http://en.wikipedia.org/wiki/Bell%27s_theorem
 
->>>> **u/aeschenkarnos** [+3] *
+>>>> **u/aeschenkarnos** [+3]  (7 hours later)
 >>>> 
 >>>> According to Stephen Wolfram, the "laws" we observe are emergent  phenomena from underlying, possibly deterministic or possibly probabilistic, processes that are akin to cellular automata. Matter and energy changes in the "grid" according to what matter and energy constitute its "neighbors", and in the aggregate this is observable as F=ma, b=1/d^2, etc etc.
->>>> Unfortunately it appears to be unfalsifiable, however it is interesting.
 >>>> 
+>>>> Unfortunately it appears to be unfalsifiable, however it is interesting.
 
->>> **u/Kilbourne** [+1] *
+>>> **u/Kilbourne** [+1]  (an hour later)
 >>> 
 >>> Yes, subjectively random - but universally deterministic.
->>> 
 
->>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror**
+>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror* (an hour later)
 >>>> 
 >>>> The takeaway is that we cannot in principle (edit: perfectly) predict the future even with full information.  We could, in principle, map out the entire structure of everett space if we were sufficiently omniscient, but there would remain the question of which path we should anticipate taking, and nothing _in_ everett space can tell us that except hindsight (because really, we take them all).
->>>> For all subjective intents and purposes, decoherence is a source of true randomness.
 >>>> 
+>>>> For all subjective intents and purposes, decoherence is a source of true randomness.
 
->>>>> **u/Kilbourne** [+2] *
+>>>>> **u/Kilbourne** [+2]  (2 hours later)
 >>>>> 
 >>>>> Right, but just because the determination of reality is imperceptible doesn't mean it isn't that way - our inability to conceive of it does not preclude it.
->>>>> 
 
->>>>>> **u/lolbifrons** [+1]  *Fifteenth Legion of Terror**
+>>>>>> **u/lolbifrons** [+1]  *Fifteenth Legion of Terror* (2 hours later)
 >>>>>> 
 >>>>>> It makes what you said wrong:
->>>>>> >We only perceive randomization because we are unable to calculate all effective factors.
->>>>>> No amount of information or calculation will ever allow us to accurately anticipate what we will personally experience in the future when it comes to decoherence.
->>>>>> We perceive randomness because of a fundamental limitation on our perception that as far as we know cannot be eliminated by any means, not just because we don't have enough information or the understanding to piece it together.
 >>>>>> 
+>>>>>> >We only perceive randomization because we are unable to calculate all effective factors.
+>>>>>> 
+>>>>>> No amount of information or calculation will ever allow us to accurately anticipate what we will personally experience in the future when it comes to decoherence.
+>>>>>> 
+>>>>>> We perceive randomness because of a fundamental limitation on our perception that as far as we know cannot be eliminated by any means, not just because we don't have enough information or the understanding to piece it together.
 
->>>>>>> **u/Kilbourne** [+1] *
+>>>>>>> **u/Kilbourne** [+1]  (2 hours later)
 >>>>>>> 
 >>>>>>> Right, sorry. Maybe I'm not explaining my thesis well. We, humans, are unable to perceive the deterministic nature of reality.
->>>>>>> 
 
->>>>>>>> **u/lolbifrons** [+1]  *Fifteenth Legion of Terror**
+>>>>>>>> **u/lolbifrons** [+1]  *Fifteenth Legion of Terror* (2 hours later)
 >>>>>>>> 
 >>>>>>>> Alright fair.  It just seemed like you were implying it was "in practice" rather than "in principle".
->>>>>>>> 
 
->>>>>>>>> **u/Kilbourne** [+1] *
+>>>>>>>>> **u/Kilbourne** [+1]  (2 hours later)
 >>>>>>>>> 
 >>>>>>>>> My mistake.
->>>>>>>>> 
 
->>>>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (an hour later)
 >>>>> 
 >>>>> > Everett space
->>>>> Did you mean to write something else? Googling Everett space produces nothing. . .
 >>>>> 
+>>>>> Did you mean to write something else? Googling Everett space produces nothing. . .
 
->>>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror**
+>>>>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror* (an hour later)
 >>>>>> 
 >>>>>> I may have created that term from established conventions.  I feel like I've seen it used before but maybe not.
->>>>>> The way I meant it is to refer to the "search space" you mentioned that is comprised of every everett branch.  Basically the mathematical description of everything that exists in every possible quantum position.
->>>>>> It's the book itself in my CYOA analogy.
 >>>>>> 
+>>>>>> The way I meant it is to refer to the "search space" you mentioned that is comprised of every everett branch.  Basically the mathematical description of everything that exists in every possible quantum position.
+>>>>>> 
+>>>>>> It's the book itself in my CYOA analogy.
 
->>>>>>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>>>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (an hour later)
 >>>>>>> 
 >>>>>>> Oh, got it.
->>>>>>> 
 
->> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (29 minutes later)
 >> 
 >> > Reality is predetermined. We only perceive randomization because we are unable to calculate all effective factors.
 >> > 
 >> > A perfect measurement of reality would be reality, because all effects are real, measurable, and caused by previous effects, all the way back to the beginning of the universe.
->> I thought quantum mechanics makes it so some (microscopic but still butterfly worthy) effects can be caused by randomness, not by previous effects, making perfect determinism impossible.
 >> 
+>> I thought quantum mechanics makes it so some (microscopic but still butterfly worthy) effects can be caused by randomness, not by previous effects, making perfect determinism impossible.
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (an hour later)
 >> 
 >> > Reality is predetermined. We only perceive randomization because we are unable to calculate all effective factors.
->> The uncertainty principle says you can't.
->> Unless you're one of the old-school hidden variable types who are trying to recreate the clockwork Universe of Newton by saying that the interaction depends on "hidden" interactions we haven't detected yet, and which keep getting harder to find every time someone performs an experiment testing for them, you have to accept that the information necessary to predict future states of the universe does not exist in the universe. That's true for the MWI interpretation, the Copenhagen interpretation, even oddball schemes like the pilot-wave hypothesis.
 >> 
+>> The uncertainty principle says you can't.
+>> 
+>> Unless you're one of the old-school hidden variable types who are trying to recreate the clockwork Universe of Newton by saying that the interaction depends on "hidden" interactions we haven't detected yet, and which keep getting harder to find every time someone performs an experiment testing for them, you have to accept that the information necessary to predict future states of the universe does not exist in the universe. That's true for the MWI interpretation, the Copenhagen interpretation, even oddball schemes like the pilot-wave hypothesis.
 
->>> **u/archpawn** [+1] *
+>>> **u/archpawn** [+1]  (5 hours later)
 >>> 
 >>> The Many Worlds interpretation says you can. The only random part of quantum physics is waveform collapse, and Many Worlds does away with that.
->>> 
 
->>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (5 hours later)
 >>>> 
 >>>> Technically the information exists but it can never be observed from inside the universe because the 'you' that is doing the measurements is only entangled with a subset of the wave function.
->>>> 
 
-> **u/aeschenkarnos** [+1] *
+> **u/aeschenkarnos** [+1]  (7 hours later)
 > 
 > Chiang may or may not be a believer in predestination, however he writes very well on the topic of predestination and free will. Here is [another of his short stories](https://www.nature.com/articles/436150a), from the journal *Nature*.
-> 
 
-> **u/notjustlurking** [+1] *
+> **u/notjustlurking** [+1]  (2 days later)
 > 
 > Chiming in a bit late here but I think there are a couple of points worth mentioning. In the original short story the universe is deterministic. In the short story the main character's daughter dies in a skiing accident, and there is nothing she can do to prevent it. 
-
-> The movie takes a subtly different spin. At one point her daughter asks her a question and she doesn't know the answer, later in the movie she learns the answer (my memory is confounding me but I believe it was the meaning of a specific phrase) and at that point you see the future scene with her daughter again and this time it plays out differently and she tells her daughter the meaning. This very clearly shows that time is mutable and she can choose to make (some) changes.
-> The fact that she chooses to have her daughter knowing that her daughter will die and it will cost her her marriage is absolutely saying that she valued the time with her daughter enough to make the end worth it. To Amy Adam's character her perception of time had changed so that although she was traversing along it in a moving point, the future was still to some degree real. She essentially had experience of every point of her shared life with her daughter and to choose not to conceive her daughter would have been wiping out all of that.
 > 
+> The movie takes a subtly different spin. At one point her daughter asks her a question and she doesn't know the answer, later in the movie she learns the answer (my memory is confounding me but I believe it was the meaning of a specific phrase) and at that point you see the future scene with her daughter again and this time it plays out differently and she tells her daughter the meaning. This very clearly shows that time is mutable and she can choose to make (some) changes.
+> 
+> The fact that she chooses to have her daughter knowing that her daughter will die and it will cost her her marriage is absolutely saying that she valued the time with her daughter enough to make the end worth it. To Amy Adam's character her perception of time had changed so that although she was traversing along it in a moving point, the future was still to some degree real. She essentially had experience of every point of her shared life with her daughter and to choose not to conceive her daughter would have been wiping out all of that.
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (2 days later)
 > 
 > Yes, but it's interesting to discuss if it weren't. It could also be a recursively self consistent timeline, as in Harry Potter (and as explored in HPMOR). Though he has a sense of agency, Harry can't not do the actions that lead to the future he sees. There's no real justification for this, he just...doesn't do it, in the story. Presumably time gets mad at you and punishes you and still causes the revealed future to occur, but in a more unpleasant way, for those who try to mess with it. That means, from a God's eye view, that any given story can be viewed as a single, self consistent timeline...or multiple branching but still self consistent timelines.
->  Amy Adams is in a similar circumstance, except unlike Harry who only sees small glimpses of non-linear time, Amy sees the entire timeline of her life. 
-> This means that, if there existed such a vision of the future that seeing it would alter Amy's actions, Amy wouldn't see it. Amy will only see such a future as will remain stable and will occur despite her seeing it.
-> In the book, she says that whereas her human thoughts perceive a cause and effect creating past, present, and agency over the future...her heptapod thoughts perceive the entire timeline in a single instant.
-> We can conclude that whatever she perceived with her heptapod perception (including any urges that came upon her) was perfectly consistent with the actions she chose. 
-> Accordingly, she should be able to act upon future information so long as those actions do not alter the future. (So if the future she saw was one consistent with using future information, she can and will and must use that future information.)
-> It's not *necessarily* deterministic, it's possible that Amy is able to choose between multiple possible self consistent timelines (as Harry in fact does). It's even possible that this involves multiple points of decision (as in Harry's case). However the text itself seems to suggest that it is pretty pre-determined in that Amy doesn't *want* to do anything other than what she knows she will do, and the text doesn't mention any multiple self consistent timelines. This suggests that only one self consistent timeline exists and reveals itself to the heptapod.
-> Presumably, since Amy sees the *entire* future, and she only sees *one* timeline, things are deterministic for her. That doesn't mean their aren't non-determinstic branching points that extend past her line of time-sight (her lifetime)
 > 
+>  Amy Adams is in a similar circumstance, except unlike Harry who only sees small glimpses of non-linear time, Amy sees the entire timeline of her life. 
+> 
+> This means that, if there existed such a vision of the future that seeing it would alter Amy's actions, Amy wouldn't see it. Amy will only see such a future as will remain stable and will occur despite her seeing it.
+> 
+> In the book, she says that whereas her human thoughts perceive a cause and effect creating past, present, and agency over the future...her heptapod thoughts perceive the entire timeline in a single instant.
+> 
+> We can conclude that whatever she perceived with her heptapod perception (including any urges that came upon her) was perfectly consistent with the actions she chose. 
+> 
+> Accordingly, she should be able to act upon future information so long as those actions do not alter the future. (So if the future she saw was one consistent with using future information, she can and will and must use that future information.)
+> 
+> It's not *necessarily* deterministic, it's possible that Amy is able to choose between multiple possible self consistent timelines (as Harry in fact does). It's even possible that this involves multiple points of decision (as in Harry's case). However the text itself seems to suggest that it is pretty pre-determined in that Amy doesn't *want* to do anything other than what she knows she will do, and the text doesn't mention any multiple self consistent timelines. This suggests that only one self consistent timeline exists and reveals itself to the heptapod.
+> 
+> Presumably, since Amy sees the *entire* future, and she only sees *one* timeline, things are deterministic for her. That doesn't mean their aren't non-determinstic branching points that extend past her line of time-sight (her lifetime)
 
-> **u/sickening_sprawl** [+1] *
+> **u/sickening_sprawl** [+1]  (8 hours later)
 > 
 > I'm not sure why everyone is saying it's predetermined: the entire sequence of events is hinged on it *not* being predetermined. The Heptapods reveal that they only came to Earth to change the far future, since in the original timeline they all die to disease without future-humanity's help. All Heptapods live in an outside-time context, and are still able to change the future so that their race survives, so it can't be a predetermined universe and Amy's future isn't predetermined either.
-> There's still the case of Amy maybe not knowing *how* to change her future, though. Just because the Heptapods are able to change it doesn't mean it's easy.
 > 
+> There's still the case of Amy maybe not knowing *how* to change her future, though. Just because the Heptapods are able to change it doesn't mean it's easy.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (23 hours later)
 >> 
 >> nah, in the movie reality is still predetermined. The heptapods came to Earth because in the future humans help them, because they came to Earth. They mention how the heptapods simply don't understand certain kinds of Earth math, but gets others just fine, with difficulty not being an issue - it's because to the heptapods, everything has already happened, and is happening, and will happen. The universe is predetermined.
->> The heptapods can't change the future. That's why one of them still dies; it knew it died there, because that's what happens.
->> &#x200B;
 >> 
+>> The heptapods can't change the future. That's why one of them still dies; it knew it died there, because that's what happens.
+>> 
+>> &#x200B;
 
->> **u/turtleswamp** [+1] *
+>> **u/turtleswamp** [+1]  (a day later)
 >> 
 >> Is it explicitly stated that the Hetpapods are changing their future rather than 'recreating' it? (I suspect not, but am not entirely certain)
->> &#x200B;
->> To the best of my recollection the Heptapods contacted humanity for similar reasons to Amy "choosing" to have her daughter.
->> They remember that humanity will be essential to their survival when they get the disease they remember they will have and they remember that now is when they are going to contact humanity so they "choose" to contact humanity now. (And this explanation would sound natural and really obvious if it were being written in Heptapod. Not weird and somewhat contradictory like it does in English)
+>> 
 >> &#x200B;
 >> 
+>> To the best of my recollection the Heptapods contacted humanity for similar reasons to Amy "choosing" to have her daughter.
+>> 
+>> They remember that humanity will be essential to their survival when they get the disease they remember they will have and they remember that now is when they are going to contact humanity so they "choose" to contact humanity now. (And this explanation would sound natural and really obvious if it were being written in Heptapod. Not weird and somewhat contradictory like it does in English)
+>> 
+>> &#x200B;
 
->>> **u/sickening_sprawl** [+1] *
+>>> **u/sickening_sprawl** [+1]  (a day later)
 >>> 
 >>> Hm, you're right. I thought it was explicitly said that they would die, and they came back to change that, but googling for the script says "Three thousand years from this point, humanity helps us. We help humanity now. Returning the favor". Nothing about them dying at all.
->>> 
 
 ---
 

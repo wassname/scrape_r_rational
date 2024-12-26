@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/RMcD94** [+2] *
+> **u/RMcD94** [+2]  (an hour later)
 > 
 > https://www.fanfiction.net/s/8096183/58/Harry-Potter-and-the-Natural-20
-> Non-mobile link.
 > 
+> Non-mobile link.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/lreugq/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 8
+* Score: 9
 
 * Created: 2021-02-24T15:00:15
 
@@ -24,32 +24,37 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/Freevoulous** [+2] *
+> **u/Freevoulous** [+2]  (a day later)
 > 
 > Im toying with an idea for a munchkin/rational Alt History version of WW2, focusing on Poland specifically.  
-
-> It starts as it did in original timeline, on September 1, 1939. The immediate difference is however:  
-
-> Whenever a Polish soldier dies (any member of the Polish armed forces) their strength, speed, dexterity, durability and theoretical knowledge and skills (not personal knowledge or intelligence though) is given to the nearest Polish soldier, atop of their own.  
-
-> (for example, if there were two Polish soldiers who could benchpress 60 kg, and one dies, the other can now benchpress 120 kg).  
-
-> Im working through the possible long term and exponential consequences of that "national" superpower. At what point does the number of "Super Poles" is enough to overwhelm the technological advantage of the Nazis, and the number advantage of the Soviets? At what point will they be able to go on an offensive? What would be the most optimal tactical and strategic use for a soldier who is Double (or Triple, or Quandruple) as strong and fast as normal human?  
-
-> Assuming the Polish government and military cadres are rational and bloodlusted to win, how can they munchkin this power to maximum utility?
 > 
+> It starts as it did in original timeline, on September 1, 1939. The immediate difference is however:  
+> 
+> Whenever a Polish soldier dies (any member of the Polish armed forces) their strength, speed, dexterity, durability and theoretical knowledge and skills (not personal knowledge or intelligence though) is given to the nearest Polish soldier, atop of their own.  
+> 
+> (for example, if there were two Polish soldiers who could benchpress 60 kg, and one dies, the other can now benchpress 120 kg).  
+> 
+> Im working through the possible long term and exponential consequences of that "national" superpower. At what point does the number of "Super Poles" is enough to overwhelm the technological advantage of the Nazis, and the number advantage of the Soviets? At what point will they be able to go on an offensive? What would be the most optimal tactical and strategic use for a soldier who is Double (or Triple, or Quandruple) as strong and fast as normal human?  
+> 
+> Assuming the Polish government and military cadres are rational and bloodlusted to win, how can they munchkin this power to maximum utility?
 
->> **u/LameJames1618** [+1] *
+>> **u/LameJames1618** [+1]  (2 days later)
 >> 
 >> I'm thinking two types of super soldiers. 
->> Really the most important stat is speed. The less powerful type 1 super soldiers would be those who've received a 10x multiplier. They don't need guns or even bullets. Give them gravel and they'll be able to throw them at the enemy at supersonic speeds. However, 10x durability or strength won't make them bulletproof and at most they can lift small cars. 
->> The government should be able to quell any rebellion from them unless they start numbering in the thousands. You should have hundreds of these soldiers and spread them out in battlefields. Have them keep to the back and throw gravel at the enemy while normal Polish soldiers are on the offensive. You don't want accidental deaths to make an uncontrollable 1000x super soldier. 
->> A much smaller elite type 2 squad would be those who benefit from multiplied running speed and durability. The tensile strength of skin is around 27 MPa. With 135 deaths per soldier, you can give them skin with the strength of kevlar and a Mach 1.75 running speed. I'm not sure what sort of abuse their bones could take, but I feel like WWII weapons could still hurt them a lot. 
->> Regardless, their most important stat is still speed. They can now throw heavier objects at supersonic speeds, tank shells without tanks. They should also be able to dodge any incoming fire and tolerate at least a few bullets. 
->> This squad will be very small. At most a few dozen and they'll have to be kept very far apart. If multiple type 2's are on the same battlefield they need to surround themselves with regular soldiers so the government doesn't create an uncontrollable super soldier. They need to be the most loyal Polish soldiers ever and the government should hold their families hostage just in case they ever get unruly. 
->> To make these soldiers, the government should conscript some small towns out in the most remote regions of Poland so no one objects. The soldiers will have to occupy these towns and kill them in person to become type 1's. Using bombs, gas, or even guns from a distance is too risky. A citizen might become an uncontrollable super soldier and even if you prevent that the super soldiers you get will have uneven multipliers. 
->> For the Type 2's, after they get their first few dozen deaths it should be easy for them to run around and snap the necks of the conscripted to get more power.
 >> 
+>> Really the most important stat is speed. The less powerful type 1 super soldiers would be those who've received a 10x multiplier. They don't need guns or even bullets. Give them gravel and they'll be able to throw them at the enemy at supersonic speeds. However, 10x durability or strength won't make them bulletproof and at most they can lift small cars. 
+>> 
+>> The government should be able to quell any rebellion from them unless they start numbering in the thousands. You should have hundreds of these soldiers and spread them out in battlefields. Have them keep to the back and throw gravel at the enemy while normal Polish soldiers are on the offensive. You don't want accidental deaths to make an uncontrollable 1000x super soldier. 
+>> 
+>> A much smaller elite type 2 squad would be those who benefit from multiplied running speed and durability. The tensile strength of skin is around 27 MPa. With 135 deaths per soldier, you can give them skin with the strength of kevlar and a Mach 1.75 running speed. I'm not sure what sort of abuse their bones could take, but I feel like WWII weapons could still hurt them a lot. 
+>> 
+>> Regardless, their most important stat is still speed. They can now throw heavier objects at supersonic speeds, tank shells without tanks. They should also be able to dodge any incoming fire and tolerate at least a few bullets. 
+>> 
+>> This squad will be very small. At most a few dozen and they'll have to be kept very far apart. If multiple type 2's are on the same battlefield they need to surround themselves with regular soldiers so the government doesn't create an uncontrollable super soldier. They need to be the most loyal Polish soldiers ever and the government should hold their families hostage just in case they ever get unruly. 
+>> 
+>> To make these soldiers, the government should conscript some small towns out in the most remote regions of Poland so no one objects. The soldiers will have to occupy these towns and kill them in person to become type 1's. Using bombs, gas, or even guns from a distance is too risky. A citizen might become an uncontrollable super soldier and even if you prevent that the super soldiers you get will have uneven multipliers. 
+>> 
+>> For the Type 2's, after they get their first few dozen deaths it should be easy for them to run around and snap the necks of the conscripted to get more power.
 
 ---
 

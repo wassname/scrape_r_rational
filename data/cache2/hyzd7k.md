@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (10 minutes later)
 > 
 > Can you give some more info? What's good and what's bad about it? Honestly, the description doesn't really look all that promising.
-> 
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (2 hours later)
 > 
 > We welcome fiction of all sorts so long as it matches up with what our community expects.
-> Please do not include this subreddit when mass spamming unless it fits our expectations.
 > 
+> Please do not include this subreddit when mass spamming unless it fits our expectations.
 
 ---
 

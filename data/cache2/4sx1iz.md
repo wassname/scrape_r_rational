@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/blazinghand** [+1]  *Chaos Undivided**
+> **u/blazinghand** [+1]  *Chaos Undivided* (18 hours later)
 > 
 > > *the* Panchipāma
-> Suddenly, I am reminded of *the* Ginpachi
 > 
+> Suddenly, I am reminded of *the* Ginpachi
 
 ---
 

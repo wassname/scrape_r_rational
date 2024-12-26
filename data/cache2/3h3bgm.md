@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (37 seconds later)
 > 
 > I've been too lazy to write these up lately, but this one was just *so* stupid I had to.
-> 
 
 ---
 

@@ -18,42 +18,43 @@ So. How would you use such a power? It's always on, and not more draining than n
 
 ### Comments:
 
-> **u/Murska1FIN** [+7] *
+> **u/Murska1FIN** [+7]  (an hour later)
 > 
 > First things first. Look in the mirror, to calibrate my expectations of this power. I have some sociopathic tendencies, and don't really emotionally care about other people much, but intellectually I've chosen to do my best to help humanity anyway.
-> Then I'd probably give in to my curiosity and go on a wikipedia binge on various important movers and shakers. 
-> After that, I'd start thinking on how to actually use the power. It's not exactly simple or fast to prove to anyone you've got it, but first I'd need to try and figure out whether revealing it would be very useful. I wouldn't just trust myself for this evaluation, instead asking a number of other people whom I believe are intelligent enough to contribute (such as you're doing here), but off the top of my head I might aim for becoming a career diplomat in the EU.
 > 
+> Then I'd probably give in to my curiosity and go on a wikipedia binge on various important movers and shakers. 
+> 
+> After that, I'd start thinking on how to actually use the power. It's not exactly simple or fast to prove to anyone you've got it, but first I'd need to try and figure out whether revealing it would be very useful. I wouldn't just trust myself for this evaluation, instead asking a number of other people whom I believe are intelligent enough to contribute (such as you're doing here), but off the top of my head I might aim for becoming a career diplomat in the EU.
 
-> **u/notmy2ndopinion** [+5]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+5]  *Concent of Saunt Edhar* (4 hours later)
 > 
 > >It cannot be replicated with current technology
-> But I could work with Paul Ekman's group to develop better software on microexpressions.
-> http://www.paulekman.com/lie-to-me/
-> Then, I'd use his connections to get video footage of various terrorists, violent criminals and other threats and analyze them for the days to weeks before their crimes and tag various sections to flag dangerous signals. To avoid a confirmation bias, I'd also use video clips from people wrongfully accused of crimes, people in an insane asylum, etc.
-> Then, "Minority Report" style, I'd help to develop a program that can use standard phone cameras, security footage and traffic cams to filter through the population and identify people 'at-risk' for committing a violent crime. I'd be able to predict a crime before its committed(?) or identify past offenders. We'd start with the really big headline-catchers at first.
-> Here's the critical piece. I'd contact them before they crack. Many of them would be highly paranoid, fundamentalist in their religious beliefs or otherwise difficult to get through to. Using my ability to cold-read and my knowledge of their activities, I'd be able to quickly bypass many of their defenses and I'd disarm them and get them to therapists I've screened for compatibility and get them to take psychoactive medications as prescribed by physicians I trust.
 > 
+> But I could work with Paul Ekman's group to develop better software on microexpressions.
+> 
+> http://www.paulekman.com/lie-to-me/
+> 
+> Then, I'd use his connections to get video footage of various terrorists, violent criminals and other threats and analyze them for the days to weeks before their crimes and tag various sections to flag dangerous signals. To avoid a confirmation bias, I'd also use video clips from people wrongfully accused of crimes, people in an insane asylum, etc.
+> 
+> Then, "Minority Report" style, I'd help to develop a program that can use standard phone cameras, security footage and traffic cams to filter through the population and identify people 'at-risk' for committing a violent crime. I'd be able to predict a crime before its committed(?) or identify past offenders. We'd start with the really big headline-catchers at first.
+> 
+> Here's the critical piece. I'd contact them before they crack. Many of them would be highly paranoid, fundamentalist in their religious beliefs or otherwise difficult to get through to. Using my ability to cold-read and my knowledge of their activities, I'd be able to quickly bypass many of their defenses and I'd disarm them and get them to therapists I've screened for compatibility and get them to take psychoactive medications as prescribed by physicians I trust.
 
->> **u/Pmang6** [+1] *
+>> **u/Pmang6** [+1]  (7 hours later)
 >> 
 >> Person of interest?
->> 
 
->>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (13 hours later)
 >>> 
 >>> The only thing I know about the show is that it features Ben from Lost. But now you've piqued my interest!
->>> 
 
->>>> **u/Pmang6** [+1] *
+>>>> **u/Pmang6** [+1]  (14 hours later)
 >>>> 
 >>>> its literally exactly what you described iirc. I thought for sure you were making some sort of weird semi serious joke about it. Check it out on wiki or something.
->>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> More like Psycho-Pass
->>> 
 
 ---
 

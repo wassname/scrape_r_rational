@@ -16,258 +16,276 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/onestojan** [+8] *
+> **u/onestojan** [+8]  (5 hours later)
 > 
 > [This Erotica Does Not Exist (NSFW)](https://old.reddit.com/r/MachineLearning/comments/bmaiqv/p_this_erotica_does_not_exist_nsfw/) was the funniest thing "I've played with" all week ;)
-> 
 
-> **u/alexanderwales** [+6]  *Time flies like an arrow**
+> **u/alexanderwales** [+5]  *Time flies like an arrow* (an hour later)
 > 
 > I've recently been binging through a bunch of videos [by sportswriter Jon Bois](https://www.youtube.com/user/jonbois/videos), though I'm not really about sports so much. He's a good storyteller with a focus on analytics that I really appreciate. There's a focus on outliers and statistical oddities that I find compelling. (A lot of SB Nation's stuff is really good for people who aren't into sports, and I've been steadily adding things to my various idea boards for stories that are in their planning stages.)
-> 
 
->> **u/Escapement** [+2]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+2]  *Ankh-Morpork City Watch* (an hour later)
 >> 
 >> Related: [17776](https://www.sbnation.com/a/17776-football) is extremely good.
->> 
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+6]  *My arch-enemy is entropy* (2 hours later)
 > 
 > I'll be visiting London May 16th to May 24th.
-> I can't wait!!!
-> Anyone here live in London? I'd be happy to visit and hang out while I'm there.
 > 
+> I can't wait!!!
+> 
+> Anyone here live in London? I'd be happy to visit and hang out while I'm there.
 
-> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+> **u/MagicWeasel** [+4]  *Cheela Astronaut* (19 hours later)
 > 
 > I'm moving to another country for six months! 
-> Anyone have advice for what I absolutely must do/bring/buy to make my 21 hours of travel (6 hour flight, 2 hour layover, 13 hour flight) bearable? 
-> (Unfortunately melatonin is only available by prescription here and is very expensive. I'm considering buying over the counter sleeping tablets to help me sleep on the plane but am worried about being too groggy during the layover and when I land and have to clear customs.)
-> ----
-> Anyone have advice on what I should/shouldn't pack? 
-> I'm packing clothes (selected carefully to all match and be appropriate for anything from lounging around the house to a job interview), a laptop (to be my computer over there) + mouse, phone, kindle, travel adapters, a phone power bank, chargers for everything, a SIM card that works internationally, personal hygiene items (toothbrush/menstrual cup/etc), glasses (normal/spare/sunglasses). And lots of snacks for the plane. 
-> It's interesting as it's much less stress to pack for this move than it is for a shorter holiday as I can't carry my entire life in 25kg so I'm going to need to acquire stuff over there (renting a furnished room should hopefully mean I get linens but buying cheap linens and towels is far from a prohibitive expense for me...)
 > 
+> Anyone have advice for what I absolutely must do/bring/buy to make my 21 hours of travel (6 hour flight, 2 hour layover, 13 hour flight) bearable? 
+> 
+> (Unfortunately melatonin is only available by prescription here and is very expensive. I'm considering buying over the counter sleeping tablets to help me sleep on the plane but am worried about being too groggy during the layover and when I land and have to clear customs.)
+> 
+> ----
+> 
+> Anyone have advice on what I should/shouldn't pack? 
+> 
+> I'm packing clothes (selected carefully to all match and be appropriate for anything from lounging around the house to a job interview), a laptop (to be my computer over there) + mouse, phone, kindle, travel adapters, a phone power bank, chargers for everything, a SIM card that works internationally, personal hygiene items (toothbrush/menstrual cup/etc), glasses (normal/spare/sunglasses). And lots of snacks for the plane. 
+> 
+> It's interesting as it's much less stress to pack for this move than it is for a shorter holiday as I can't carry my entire life in 25kg so I'm going to need to acquire stuff over there (renting a furnished room should hopefully mean I get linens but buying cheap linens and towels is far from a prohibitive expense for me...)
 
->> **u/CCC_037** [+6] *
+>> **u/CCC_037** [+5]  (19 hours later)
 >> 
 >> Bring a good book. On paper, not electronically, so you can read it on the plane while your electronic devices are all switched off.
->> If you're looking for something new, I can strongly recommend the Chanur series by C.J. Cherryh (if you haven't read it yet) - though note that it *does* need to be read in order.
 >> 
+>> If you're looking for something new, I can strongly recommend the Chanur series by C.J. Cherryh (if you haven't read it yet) - though note that it *does* need to be read in order.
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (19 hours later)
 >>> 
 >>> You recommended it to me about a year ago and I couldn't get through the first book, sorry :)
->>> Planes have actually gotten much less strict about electronic devices! With airplane mode you can use them the whole flight except during the safety briefing.
 >>> 
+>>> Planes have actually gotten much less strict about electronic devices! With airplane mode you can use them the whole flight except during the safety briefing.
 
->>>> **u/CCC_037** [+2] *
+>>>> **u/CCC_037** [+2]  (20 hours later)
 >>>> 
 >>>> Huh. In that case... I'm not sure how familiar you are with the gamebook genre, but I quite enjoyed the [Lone Wolf](https://www.projectaon.org) series. Alternatively, you could try to pick out a few choices from Project Gutenberg.
->>>> ...either way, print or electronic, having something available to read is a great way to pass the time.
 >>>> 
+>>>> ...either way, print or electronic, having something available to read is a great way to pass the time.
 
->>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >>>>> 
 >>>>> Well, the new Ted Chiang collection is pre-ordered on my Kindle, so I think I will probably re-read some of that. Otherwise I have some of my favourite fanfictions on there, The Martian which is always good to inhale in a couple of hours, all of Animorphs, and a bunch of books I haven't read yet. So I should hopefully manage!
->>>>> Also thinking of putting some TV series on my laptop for some quality bingeing time.
 >>>>> 
+>>>>> Also thinking of putting some TV series on my laptop for some quality bingeing time.
 
->>>>>> **u/CCC_037** [+2] *
+>>>>>> **u/CCC_037** [+2]  (2 days later)
 >>>>>> 
 >>>>>> Sounds like you're well prepared, then!
->>>>>> 
 
->> **u/RetardedWabbit** [+4] *
+>> **u/RetardedWabbit** [+5]  (a day later)
 >> 
 >> Two huge QoL items:
->> Soft earplugs - makes sleeping in the plane reasonable instead of miserable from sudden noises and talking, improves reading ability and enjoyment when people are talking around you, and might help you sleep wherever you're staying once you get there. They're tiny and cheap, bring a few.
->> A firm neck pillow - get a wrap around neck pillow that is as firm as possible and ideally can button or zip in the front. Having something that lets you rest your head on your shoulder comfortably makes sleeping while sitting up infinitely better. Just don't get suckered by really soft ones, it's not a real pillow it needs to hold your head off your shoulder comfortably.
->> Also bring and wear layers of clothes so you can shed or add them to your comfort. Planes tend to be cool.
->> Best of luck in a new country! I've never heard of melatonin being a prescription drug, you might be able to find supplements that naturally boost it. Tart cherry juice for example?
->> Also if you want to jump right into the local time and avoid jetlag I find doing a 1 day fast works well. You will be sleepy initially, then a boost of energy for about 12 hours, and finally you will get very sleepy. Get up the next day, eat a big breakfast, and you'll be well on your way adjusted to the local time if that's an issue for you.
 >> 
+>> Soft earplugs - makes sleeping in the plane reasonable instead of miserable from sudden noises and talking, improves reading ability and enjoyment when people are talking around you, and might help you sleep wherever you're staying once you get there. They're tiny and cheap, bring a few.
+>> 
+>> A firm neck pillow - get a wrap around neck pillow that is as firm as possible and ideally can button or zip in the front. Having something that lets you rest your head on your shoulder comfortably makes sleeping while sitting up infinitely better. Just don't get suckered by really soft ones, it's not a real pillow it needs to hold your head off your shoulder comfortably.
+>> 
+>> Also bring and wear layers of clothes so you can shed or add them to your comfort. Planes tend to be cool.
+>> 
+>> Best of luck in a new country! I've never heard of melatonin being a prescription drug, you might be able to find supplements that naturally boost it. Tart cherry juice for example?
+>> 
+>> Also if you want to jump right into the local time and avoid jetlag I find doing a 1 day fast works well. You will be sleepy initially, then a boost of energy for about 12 hours, and finally you will get very sleepy. Get up the next day, eat a big breakfast, and you'll be well on your way adjusted to the local time if that's an issue for you.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >>> 
 >>> OK based entirely on your recommendation I went shopping yesterday and picked up earplugs (easy), and went looking at neck pillows. I found some pretty firm looking memory foam ones for $15 and was like "this isn't too bad" when I tried them.
->>> Then I went to a department store. I saw they had the $15 ones but they also had [this monstrosity](https://www.amazon.co.uk/Go-Travel-Ultimate-Memory-Pillow/dp/B01G8IHX7A) for $55. I laughed and was like "There's no way this is three times better than the other ones" and I attached it to my head and..... it was like a flight of angels came in and started supporting my head from all directions, gently carressing me with their feathery wings. 
->>> OK, maybe not quite that good, but it was like night and day. And I figure it's either a worthy investment if it's excellent, and if it's shit it's proof for the rest of my life that neck pillows aren't something I benefit from investing in. I also grabbed a new sleep mask as there was a 20% off when buying two or more products from the line and I don't have a sleep mask with cavities for the eyes (I use sleep masks all the time at home but when I wake up there's been pressure on my eyes all night so my vision is blurry for 5-10 minutes which I can't imagine is healthy?).
->>> I just wanted to let you know that your advice was listened to and will either be responsible for me having a much more pleasant flight or will be the annoying thing I have to cart all around my travels and regret buying :P
->>> > avoid jetlag
->>> My experience with jetlag is if I'm in the sun I don't feel tired, but if I'm indoors I do, so I'm not too worried. 
->>> I arrive about 7am local time so my plan is to get an uber, put all my crap in an airbnb, and then just walk around / sit in parks / dining al fresco / etc enjoying the sunshine until about 5pm or 6pm, scarf something quick for dinner and then go back to my airbnb and sleep for ~10-12 hours, wake up at 4am, and then (hopefully!) be all reset - I tend to go to naturally be a morning lark so it should work out (fingers crossed).
 >>> 
+>>> Then I went to a department store. I saw they had the $15 ones but they also had [this monstrosity](https://www.amazon.co.uk/Go-Travel-Ultimate-Memory-Pillow/dp/B01G8IHX7A) for $55. I laughed and was like "There's no way this is three times better than the other ones" and I attached it to my head and..... it was like a flight of angels came in and started supporting my head from all directions, gently carressing me with their feathery wings. 
+>>> 
+>>> OK, maybe not quite that good, but it was like night and day. And I figure it's either a worthy investment if it's excellent, and if it's shit it's proof for the rest of my life that neck pillows aren't something I benefit from investing in. I also grabbed a new sleep mask as there was a 20% off when buying two or more products from the line and I don't have a sleep mask with cavities for the eyes (I use sleep masks all the time at home but when I wake up there's been pressure on my eyes all night so my vision is blurry for 5-10 minutes which I can't imagine is healthy?).
+>>> 
+>>> I just wanted to let you know that your advice was listened to and will either be responsible for me having a much more pleasant flight or will be the annoying thing I have to cart all around my travels and regret buying :P
+>>> 
+>>> > avoid jetlag
+>>> 
+>>> My experience with jetlag is if I'm in the sun I don't feel tired, but if I'm indoors I do, so I'm not too worried. 
+>>> 
+>>> I arrive about 7am local time so my plan is to get an uber, put all my crap in an airbnb, and then just walk around / sit in parks / dining al fresco / etc enjoying the sunshine until about 5pm or 6pm, scarf something quick for dinner and then go back to my airbnb and sleep for ~10-12 hours, wake up at 4am, and then (hopefully!) be all reset - I tend to go to naturally be a morning lark so it should work out (fingers crossed).
 
->>>> **u/RetardedWabbit** [+2] *
+>>>> **u/RetardedWabbit** [+2]  (2 days later)
 >>>> 
 >>>> That's one hell of a neck pillow, you'll have to tell us how it works out for you! It will make a great conversation piece in-flight if nothing else!
->>>> 
 
->>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (2 days later)
 >>>>> 
 >>>>> > That's one hell of a neck pillow
->>>>> Yeah my husband has chronic neck pain and he's already stolen it to wear when he's at his computer until I go because he thinks it'll improve his posture or something? IDK, but regardless, it was a neat find.
 >>>>> 
+>>>>> Yeah my husband has chronic neck pain and he's already stolen it to wear when he's at his computer until I go because he thinks it'll improve his posture or something? IDK, but regardless, it was a neat find.
 
->> **u/SvalbardCaretaker** [+4]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+4]  *Mouse Army* (a day later)
 >> 
 >> Yo MagicWeasel! All the best for the journey! Did you get a good layover airport?  
->> For flight: your own comfortable headphones! You have the glorious option to spam movies the entire flight, makes subjective time in flight very short, and the crappy free ones will hurt after 10 minutes. 
->>  And electronic devices can nowadays be used during the flight, just not landing, so don't worry too much about paper books. That includes the laptop for example, so download offline DCSS ;-)
->> Pack a warm jacket. At night the airplane gets real cold and the thin blankets don't cut it. I run pretty cold, so YMMV, but I was SO happy about my big fleece jacket. A hood also gets you a bit of placebo privacy from your seat neighbours. In addition to RetardedWabbit earplugs, bring a mask/shawl to get darkness when you want it. 
->> Depending on your dietary preferences,  snack selection: I had it happen to me on the long flight NZ->germany that there were no vegetarian options left, so if you are strict pack a bit more. 
->> Otherwise the travellers credo: pack light and carry a credit card. 
->> And hit me up for your Berlin weekend!
 >> 
+>> For flight: your own comfortable headphones! You have the glorious option to spam movies the entire flight, makes subjective time in flight very short, and the crappy free ones will hurt after 10 minutes. 
+>> 
+>>  And electronic devices can nowadays be used during the flight, just not landing, so don't worry too much about paper books. That includes the laptop for example, so download offline DCSS ;-)
+>> 
+>> Pack a warm jacket. At night the airplane gets real cold and the thin blankets don't cut it. I run pretty cold, so YMMV, but I was SO happy about my big fleece jacket. A hood also gets you a bit of placebo privacy from your seat neighbours. In addition to RetardedWabbit earplugs, bring a mask/shawl to get darkness when you want it. 
+>> 
+>> Depending on your dietary preferences,  snack selection: I had it happen to me on the long flight NZ->germany that there were no vegetarian options left, so if you are strict pack a bit more. 
+>> 
+>> Otherwise the travellers credo: pack light and carry a credit card. 
+>> 
+>> And hit me up for your Berlin weekend!
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (2 days later)
 >>> 
 >>> > your own comfortable headphones
->>> Done and done! I have bone conduction headphones and also "sleepphones" which is essentially a headband with speakers in them. Both are bluetooth though so I can't directly hook them up to the inflight system and I don't have digital or analog adapters for those. So IDK. We'll see how we go. 
->>> > so download offline DCSS
->>> ... I did not think of that I'm going to add that to my packing list
->>> > Pack a warm jacket.
->>> I also run pretty cold. I've got my warm jacket in my suitcase ATM but I think I'll wear it on the plane as you're right, it's probably the way to go (plus I'll be leaving probably on a chilly enough day that it'll be useful)
->>> > Depending on your dietary preferences, snack selection
->>> Already pre-ordered the vegan meal and triple checked but I'll probably check it another couple of times. Hopefully the airline doesn't screw up, but if they do, I'll be bringing a TON of snacks
->>> > carry a credit card
->>> Oh right. I should tell my credit card company that I'm going away for six months!
->>> > And hit me up for your Berlin weekend!
->>> Will do! I really should start planning that in earnest. I was originally planning a sleeper car on a train for the experience but I think I'll fly as it seems so much easier.
 >>> 
+>>> Done and done! I have bone conduction headphones and also "sleepphones" which is essentially a headband with speakers in them. Both are bluetooth though so I can't directly hook them up to the inflight system and I don't have digital or analog adapters for those. So IDK. We'll see how we go. 
+>>> 
+>>> > so download offline DCSS
+>>> 
+>>> ... I did not think of that I'm going to add that to my packing list
+>>> 
+>>> > Pack a warm jacket.
+>>> 
+>>> I also run pretty cold. I've got my warm jacket in my suitcase ATM but I think I'll wear it on the plane as you're right, it's probably the way to go (plus I'll be leaving probably on a chilly enough day that it'll be useful)
+>>> 
+>>> > Depending on your dietary preferences, snack selection
+>>> 
+>>> Already pre-ordered the vegan meal and triple checked but I'll probably check it another couple of times. Hopefully the airline doesn't screw up, but if they do, I'll be bringing a TON of snacks
+>>> 
+>>> > carry a credit card
+>>> 
+>>> Oh right. I should tell my credit card company that I'm going away for six months!
+>>> 
+>>> > And hit me up for your Berlin weekend!
+>>> 
+>>> Will do! I really should start planning that in earnest. I was originally planning a sleeper car on a train for the experience but I think I'll fly as it seems so much easier.
 
-> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 > 
 > Any suggestions for stuff to do in toronto when I'm there next week with some friends?
-> 
 
->> **u/GlueBoy** [+4]  *anti-skub**
+>> **u/GlueBoy** [+3]  *anti-skub* (4 hours later)
 >> 
 >> Where are you coming from? 
->> Besides the obvious touristy favourites, if you want to know what's going I recommend checking /r/Torontoevents, checking out the stickied post on r/toronto(which is affliated with an app, exploreTO), and maybe checking https://www.blogto.com/events/.
->> It's a shame you're not here this weekend. The [Toronto Comic Arts Festival](http://www2.torontocomics.com/) is happening Saturday and Sunday, probably my single favourite weekend every year. It's a free festival hosted at a huge public library, and unlike most other festivals/conventions it's actually about comics, mostly indie comics, and not superheros and video games and cosplay and merch/souvenirs. Artists and writers come from all over the world for it, and there are a bunch of workshops, panels and lectures on cool, niche topics, ranging in tone from casual to academic.
 >> 
+>> Besides the obvious touristy favourites, if you want to know what's going I recommend checking /r/Torontoevents, checking out the stickied post on r/toronto(which is affliated with an app, exploreTO), and maybe checking https://www.blogto.com/events/.
+>> 
+>> It's a shame you're not here this weekend. The [Toronto Comic Arts Festival](http://www2.torontocomics.com/) is happening Saturday and Sunday, probably my single favourite weekend every year. It's a free festival hosted at a huge public library, and unlike most other festivals/conventions it's actually about comics, mostly indie comics, and not superheros and video games and cosplay and merch/souvenirs. Artists and writers come from all over the world for it, and there are a bunch of workshops, panels and lectures on cool, niche topics, ranging in tone from casual to academic.
 
->>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (6 hours later)
 >>> 
 >>> > Where are you coming from?
->>> One of the flyover states. Thanks for the recommendations!
 >>> 
+>>> One of the flyover states. Thanks for the recommendations!
 
-> **u/DrFretNot** [+4] *
+> **u/DrFretNot** [+4]  (5 hours later)
 > 
 > If one survived a shipwreck and could theoretically have any reference pages, what would be the most useful?
 > Example: take the dinotopia universe, if you were shipwrecked and could wash up with references (they are water damaged so you have to rewrite/redraw) what would they be?
 > Periodic table, specific statistic or math charts, simplified diagrams/blueprints, whatever.
-> For those unfamiliar, dinotopia is by James Gurney. Sentient dinosaurs living alongside humans, preexisting society and culture.
 > 
+> For those unfamiliar, dinotopia is by James Gurney. Sentient dinosaurs living alongside humans, preexisting society and culture.
 
->> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+7]  *Ankh-Morpork City Watch* (19 hours later)
 >> 
 >> The US Army Survival Manual, or similar book that provides information on how to not die under such circumstances, is not a bad candidate for inclusion on Earth or Earthlike worlds - as a castaway survival would be of very high utility and there's an awful lot of ways to die stupidly by yourself. If you're going to be 'shipwrecked' to a populated area with other people around then of course this isn't so relevant.
->> 
 
->>> **u/DrFretNot** [+1] *
+>>> **u/DrFretNot** [+1]  (a day later)
 >>> 
 >>> I will definitely look at some of the US Army Manuals.
->>> 
 
->>>> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+>>>> **u/Escapement** [+3]  *Ankh-Morpork City Watch* (a day later)
 >>>> 
 >>>> They're boring and not at all interesting or well written - absent the 'actually being an isolated castaway' factor I wouldn't ever spend my time looking at them. However, having a handy list of common edible plants, poisonous/tasty fish, ways to set a snare, and how to treat a snakebite or a fracture could make a lot of difference in situations described as a 'shipwreck'.
->>>> 
 
->>> **u/RetardedWabbit** [+1] *
+>>> **u/RetardedWabbit** [+1]  (2 days later)
 >>> 
 >>> I haven't read that FM and was about to badmouth it, I expected it to be like recommending the Ranger Handbook for someone asking about infantry tactics. I'm actually amazed by how readable it is in comparison to other doctrine, thanks for pointing it out!
->>> I'd also recommend an emergency medical guide, but you might have to go civilian to find one useful without gear, training, or support. The "Austere Emergency Medical Support Field Guide" by USA Homeland security is the best one I know of but requests EMR, EMT, ALS, and wilderness training for all levels. It's also the most useful with gear. Maybe there's a civilian prepper/apocalypse guide that assumes no gear or prior knowledge?
 >>> 
+>>> I'd also recommend an emergency medical guide, but you might have to go civilian to find one useful without gear, training, or support. The "Austere Emergency Medical Support Field Guide" by USA Homeland security is the best one I know of but requests EMR, EMT, ALS, and wilderness training for all levels. It's also the most useful with gear. Maybe there's a civilian prepper/apocalypse guide that assumes no gear or prior knowledge?
 
->> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (5 hours later)
 >> 
 >> See also [*Perseverance Island*](http://www.gutenberg.org/ebooks/46128), in which the protagonist literally washes up with two enclopedias ("[Bowditch's Epitome](https://en.wikipedia.org/wiki/Bowditch%27s_American_Practical_Navigator), and&hellip; a Compendium of Useful Arts and Sciences").
->> 
 
->>> **u/DrFretNot** [+1] *
+>>> **u/DrFretNot** [+1]  (a day later)
 >>> 
 >>> I’ll have to check out Perseverance Island, thanks. I had thought about different encyclopedias, so I’ll look into that one too.
->>> 
 
->> **u/RetardedWabbit** [+1] *
+>> **u/RetardedWabbit** [+1]  (2 days later)
 >> 
 >> In today's era you can have the entirety of Wikipedia on a flashdrive, an ebook reader, and direct device solar panels if you wanted to. I don't think this would be more immediately useful than a guide, but it would be entertaining for someone to be trying to reverse engineer and implement survival techniques from this. It could also help you ID literally every organism you see, since it contains scientific species standards and pictures.
->> 
 
-> **u/red_adair** [+2]  *{{explosive-stub}}**
+> **u/red_adair** [+3]  *{{explosive-stub}}* (2 hours later)
 > 
 > What is gender?
-> 
 
->> **u/Sonderjye** [+2] *
+>> **u/Sonderjye** [+2]  (12 hours later)
 >> 
 >> A pointer towards points in the subspace of the thingspace conserning physical and personality attributes.
->> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (20 hours later)
 >> 
 >> Gender role is anything that affects someone's *perception* of themselves in a way that relates to sex or relationships. Sexual characteristic is anything that is *physical or biological* that relates to sex or relationships.
->> This often serves as the foundation for one's identity and relationship to society as people mature and grow up.
->> Yes, if there is someone who grows up isolated from society or any interaction with another person, I would argue that the individual in question would not have a gender of any sort (biological sex is another thing entirely).
 >> 
+>> This often serves as the foundation for one's identity and relationship to society as people mature and grow up.
+>> 
+>> Yes, if there is someone who grows up isolated from society or any interaction with another person, I would argue that the individual in question would not have a gender of any sort (biological sex is another thing entirely).
 
->> **u/GlueBoy** [+3]  *anti-skub**
+>> **u/GlueBoy** [+4]  *anti-skub* (4 hours later)
 >> 
 >> A prominent battleground in the culture war.
->> 
 
->> **u/GeneralExtension** [+1] *
+>> **u/GeneralExtension** [+1]  (3 days later)
 >> 
 >> Making this up on the spot:
+>> 
 >> 1. A synonym for sex.
 >> 2. One or more perceptions, usually associated with the former. (A belief about one's self.)\*\*
 >> 3. A cluster of (a variety of) characteristics which (it has been claimed) are associated\*\*\*\* with (either of) the former.
 >> 4. Associated: gender roles, ideas about what people "should" do based on (1 or 2).
 >> 5. Related: See stereotypes relating to genders, esp. professional.
 >> 6. [A grammatical category](https://en.wikipedia.org/wiki/Grammatical_gender). In english, may affect three forms associated with referencing (an individual)... (Surprisingly complicated. I think "he" used to be used as neutral, but now "they" may be preferred. (Why people can't agree on one standard, english has been in use for centuries, and "they" has always been unambiguous\*.))
->> \*Or at least, unambiguously *ambiguous*.
->> \*\*Poor definition, my apologies. This distinction is "relatively recent" (with the caveat that everything old may be new again).
->> \*\*\*\*Or correlated. The relationship between these is also a topic, and both may be flame material on the internet.
 >> 
+>> \*Or at least, unambiguously *ambiguous*.
+>> 
+>> \*\*Poor definition, my apologies. This distinction is "relatively recent" (with the caveat that everything old may be new again).
+>> 
+>> \*\*\*\*Or correlated. The relationship between these is also a topic, and both may be flame material on the internet.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (6 hours later)
 > 
 > [removed]
-> 
 
->> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (10 hours later)
 >> 
 >> From the rules:
->> > No discussion whatsoever of US politics.
 >> 
+>> > No discussion whatsoever of US politics.
 
->>> **u/CCC_037** [+3] *
+>>> **u/CCC_037** [+3]  (19 hours later)
 >>> 
 >>> But other country's politics are permitted?
->>> 
 
->>>> **u/alexanderwales** [+12]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+12]  *Time flies like an arrow* (23 hours later)
 >>>> 
 >>>> Eh. I'd rather you not, but US politics has proven itself to be the worst, quickly devolving into the sort of partisan conversations that you could find in thousands of other places on the internet. Worse, before the rule was implemented we had people with no actual interest in the subreddit coming here just to argue politics, and I would just ban those people, but they're hard to root out. I think that "heat not light" thing is especially going to be the case as the election season ramps up.
->>>> I've never seen that for any other country, but the sub has grown quite a bit, and it's *possible* that two people will get into an unproductive, partisan discussion about what's going on in French politics, at which point I would probably step in and remind people not to be turds. It if happened a lot, then I would just ban politics in general.
 >>>> 
+>>>> I've never seen that for any other country, but the sub has grown quite a bit, and it's *possible* that two people will get into an unproductive, partisan discussion about what's going on in French politics, at which point I would probably step in and remind people not to be turds. It if happened a lot, then I would just ban politics in general.
 
->>>>> **u/CCC_037** [+3] *
+>>>>> **u/CCC_037** [+4]  (23 hours later)
 >>>>> 
 >>>>> That's fair and reasonable.
->>>>> I imagine it likely has to do with a lot of people present here being from the US. Speaking as an outsider, I *could* talk about my local politics but I very much doubt that anyone here would be particularly interested. So, even though it's not forbidden, there's really no particular incentive for me to go to the effort of doing so.
 >>>>> 
+>>>>> I imagine it likely has to do with a lot of people present here being from the US. Speaking as an outsider, I *could* talk about my local politics but I very much doubt that anyone here would be particularly interested. So, even though it's not forbidden, there's really no particular incentive for me to go to the effort of doing so.
 
->>>>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>>>> **u/CouteauBleu** [+1]  *We are the Empire.* (a day later)
 >>>>> 
 >>>>> Yeah, French politics these days are plenty heated.
->>>>> Watch any French politics video, and the comment section will be full of people ranting about how Macron is the president of the rich stealing from the poor, how Europe is enforcing the Great Replacement, how must get Frexit and it will solve everything, etc.
 >>>>> 
+>>>>> Watch any French politics video, and the comment section will be full of people ranting about how Macron is the president of the rich stealing from the poor, how Europe is enforcing the Great Replacement, how must get Frexit and it will solve everything, etc.
 
 ---
 

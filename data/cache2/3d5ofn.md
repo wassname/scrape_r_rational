@@ -12,58 +12,51 @@
 
 ### Comments:
 
-> **u/INeedAUsernameToo** [+5] *
+> **u/INeedAUsernameToo** [+3]  (3 hours later)
 > 
 > This chapter felt very bitter-sweet. One last dance, before the storm.
-> 
 
-> **u/recursiveAI** [+3] *
+> **u/recursiveAI** [+3]  (4 hours later)
 > 
 > Very nice. Really enjoying it so far (finished chapter 3)
-> 
 
-> **u/Jace_MacLeod** [+2] *
+> **u/Jace_MacLeod** [+2]  (15 hours later)
 > 
 > This story seems promising. Out of curiosity, is Nerra based loosely on Kreia from KOTOR II? They both have white hair, brown robes, an affinity for force sight, and a philosophy of viewing the light and dark sides of the Force as two parts of a greater whole. If Nerra starts talking in cryptic, manipulative half-truths, I'm calling shenanigans.
-> 
 
->> **u/abcd_z** [+3] *
+>> **u/abcd_z** [+3]  (5 months later)
 >> 
 >> Nerra backwards is Arren.  As in, "[Arren Kae](http://lparchive.org/Knights-of-the-Old-Republic-II/Update%2058/)".  ;)
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (22 hours later)
 >> 
 >> More than loosely :)
->> 
 
-> **u/trifith** [+1]  *Man plans, god laughs. Like the ant and the grasshopper.**
+> **u/trifith** [+1]  *Man plans, god laughs. Like the ant and the grasshopper.* (43 minutes later)
 > 
 > Ch 1: "his performance seemed to be deteriorate with" should be "his performance seemed to be deteriorating with"
-> Ch 4: " I take it things did not go well Gil?" should be "I take it things did not go well for Gil?"
 > 
+> Ch 4: " I take it things did not go well Gil?" should be "I take it things did not go well for Gil?"
 
->> **u/2-4601** [+1] *
+>> **u/2-4601** [+1]  (an hour later)
 >> 
 >> In addition:
->> >why put emphasize that one?
->> -> Why emphasise that one?
 >> 
+>> >why put emphasize that one?
+>> 
+>> -> Why emphasise that one?
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (7 hours later)
 >>> 
 >>> Thanks, all. Will fix these when I post the next chapter.
->>> 
 
-> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (5 hours later)
 > 
 > AWESOME!
-> 
 
-> **u/whywhisperwhy** [+1] *
+> **u/whywhisperwhy** [+1]  (6 hours later)
 > 
 > Very much enjoying this, it's already better than a lot of the EU books imo.... Thanks for bringing a little SW back.
-> 
 
 ---
 

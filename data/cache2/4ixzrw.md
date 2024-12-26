@@ -2,7 +2,7 @@
 
 * Author: u/PeridexisErrant  *put aside fear for courage, and death for life**
 * URL: https://www.reddit.com/r/rational/comments/4ixzrw/d_wednesday_worldbuilding_thread/
-* Score: 34
+* Score: 29
 
 * Created: 2016-05-12T00:12:41
 
@@ -25,17 +25,18 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/callmebrotherg** [+11]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+12]  *now posting as /u/callmesalticidae* (2 hours later)
 > 
 > Could we add a request to the original text post (and the text posts of future WW threads) that people who explicitly mention if they're offering these ideas to general usage? Sometimes you just want to bat an idea around for a bit and don't actually intend to use it, so being clear about this would be helpful. 
-> (Also, this is really wonderful. Thanks for making it a thing.)
 > 
+> (Also, this is really wonderful. Thanks for making it a thing.)
 
-> **u/DataPacRat** [+6]  *Amateur Immortalist**
+> **u/DataPacRat** [+7]  *Amateur Immortalist* (an hour later)
 > 
 > My most recent bit of worldbuilding mentioned the existence of reactionless thrusters. They're not particularly powerful, in traditional scifi terms - but they still laugh at Tsiolkovsky's rocket equation. How many ways do you think that the physics that allows such things would have further knock-on effects?
-
+> 
 > For your entertainment (and assuming Reddit doesn't wonkify the formatting), here's the current draft of the relevant snippet, which takes the form of an IM conversation:
+> 
 > > 2: So, what's the most WTF factoid /you/'ve picked up so far?
 > > 
 > > 1: They've got genuine, honest-to-Klono reactionless thrusters.
@@ -91,66 +92,73 @@ Or generally work through the problems of a fictional world.
 > > 1: I know.
 > > 
 > > 2: No, not that. How are we still alive right now?
-> 
 
->> **u/Dwood15** [+6] *
+>> **u/Dwood15** [+5]  (2 hours later)
 >> 
 >> I'm not here to comment on how they affect the world, but just so you're aware, the science behind these 'thrusters' is still actually weighed against them.
->> The force that is being 'detected' is so small, that it extremely likely to be attributable to error on the part of the people setting up the experiment. It's routinely discussed by people on /r/EmDrive
 >> 
+>> The force that is being 'detected' is so small, that it extremely likely to be attributable to error on the part of the people setting up the experiment. It's routinely discussed by people on /r/EmDrive
 
->>> **u/DataPacRat** [+9]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+7]  *Amateur Immortalist* (2 hours later)
 >>> 
 >>> Actually, I'm not coming at this from the EmDrive side, I'm coming from the theoretical physics side; specifically, a theory called "MiHsC", some of whose predictions are listed at http://physicsfromtheedge.blogspot.ca/2016/04/predictions-of-mihsc.html .
->>> 
 
->>>> **u/wtfbbc** [+2] *
+>>>> **u/wtfbbc** [+2]  (4 hours later)
 >>>> 
 >>>> This is fascinating and I thank you for sharing it
->>>> 
 
->> **u/BadGoyWithAGun** [+6] *
+>> **u/BadGoyWithAGun** [+4]  (12 hours later)
 >> 
 >> >  How many ways do you think that the physics that allows such things would have further knock-on effects?
->> For one, if you have a reactionless drive, making a planet-shattering relativistic kinetic kill-vehicle is as trivial as adding a solar panel and waiting long enough.
 >> 
+>> For one, if you have a reactionless drive, making a planet-shattering relativistic kinetic kill-vehicle is as trivial as adding a solar panel and waiting long enough.
 
->>> **u/DataPacRat** [+2]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+2]  *Amateur Immortalist* (13 hours later)
 >>> 
 >>> Indeed - that's the most obvious difficulty, and forms the basis of the conversation just after the 'how are we still alive?' line.
->>> (Though by my back-of-the-envelope figuring, it'll take something on the loose order of 75 years for this thruster to reach even .1c, and that's just straight-line acceleration, not including the time to go out and turn around.)
 >>> 
+>>> (Though by my back-of-the-envelope figuring, it'll take something on the loose order of 75 years for this thruster to reach even .1c, and that's just straight-line acceleration, not including the time to go out and turn around.)
 
->> **u/None** [+4] *
+>> **u/None** [+3]  (13 hours later)
 >> 
 >> I recognized MiHsC right off the bat, haha. 
->> Anyway, you can't get a reactionless drive without also getting perpetual motion and free-energy machines. Why is this? I'll use your numbers to illustrate:
->> After 1 year, you get a kinetic energy of 25 petajoules, right? That's after a full year of 60 MW. Well, 25 petajoules per year is equal to 793 billion joules per second. 60 MW is 60 million joules per second. *So you put in 60 MW and get 793 GW out.*
 >> 
+>> Anyway, you can't get a reactionless drive without also getting perpetual motion and free-energy machines. Why is this? I'll use your numbers to illustrate:
+>> 
+>> After 1 year, you get a kinetic energy of 25 petajoules, right? That's after a full year of 60 MW. Well, 25 petajoules per year is equal to 793 billion joules per second. 60 MW is 60 million joules per second. *So you put in 60 MW and get 793 GW out.*
 
->>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (13 hours later)
 >>> 
 >>> > free-energy
->>> I'm willing to bite that particular bullet, if it's unavoidable. (Though probably with the in-universe proviso that such energy is no more 'free' than that of the Casimir effect.)
->>> But before I do, do you (or anyone else reading this) know of any remotely plausible design to extract /useful/ work, such as electricity, when it takes at least 20 kilowatts to a ~30 kg gizmo (and probably higher for both numbers, for these smaller, less efficient designs) to produce each Newton of thrust?
->>> Or, is there another subreddit I can ask this particular question?
 >>> 
+>>> I'm willing to bite that particular bullet, if it's unavoidable. (Though probably with the in-universe proviso that such energy is no more 'free' than that of the Casimir effect.)
+>>> 
+>>> But before I do, do you (or anyone else reading this) know of any remotely plausible design to extract /useful/ work, such as electricity, when it takes at least 20 kilowatts to a ~30 kg gizmo (and probably higher for both numbers, for these smaller, less efficient designs) to produce each Newton of thrust?
+>>> 
+>>> Or, is there another subreddit I can ask this particular question?
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (15 hours later)
 >>>> 
 >>>> You just put it on a ring that spins horizontally on a vertical axle and you put a generator on the axle and you are good to go.
->>>> edit: 
->>>> I figured I might as well explain why this works and at the same time see how feasible such a powerplant might be. 
->>>> Kinetic energy of a moving object is proportional to the mass of the object times the square of the velocity. At rest, your hypothetical MiHsC free-energy generator would consume 60 million joules to reach 0.015 m/s of velocity, assuming it's literally the spacecraft you proposed, taped to a stick that's attached to an electric generator. That takes exactly one second. Anyway, after one second, the MiHsC free-energy generator is carrying 200,000 * 0.015^2 or 45 joules of kinetic energy. Shit, pretty lousy return for 60 million joule input! 
->>>> The next second, it would take another 60 million joules to accelerate a further 0.015 m/s, to reach 0.3 m/s. It now carries 180 joules. That's not twice as much as after one second, but four times! The next second, it reaches 0.045 m/s and carries 405 joules, which is 9 times as much as after the first second. That's increasing quadratically. Meanwhile, the total energy cost has been 60 million, 120 million, and 180 million joules, which is a linear increase. 
->>>> At some point, there's a break-even point, and you can extract (through the electric generator) as much energy as is being added to the system through the reactionless acceleration. At this point, you have a perpetual-motion device as you could deactivate the power plant and power the drive by its own acceleration.  Let it go a little further, and you'll be extracting more energy than is required to run the MiHsC free-energy generator, meaning you can keep it running and make use of the additional energy. 
->>>> My back-of-the-envelope calculations show it would take about a year to spin up to this speed, which is about 15000 m/s, assuming some losses to friction and so on. That's Mach 15, so very very fast, but far from relativistic. So far, we've only considered the most naive construction: In "reality", you would skip the whole nuclear powerplant issue and just start it spinning with the electric generator, which is also a motor. You would also run a power line to the MiHsC free-energy generator, since it's needed anyway in order to run off of its own generated electric power. Then the thing could start supplying net power after only a few hours of spin-up, and would not require anything near 60MW to get started. Anyway, at this point, the faster it spins, the more extra MW it can produce. Larger wheels produce lower G-forces and allow faster speeds and greater output. If we're assuming 50% power loss through friction and whatever, a wheel going Mach 16 would generate 6MW and a wheel going Mach 17 generates 12MW, and it just goes up (quadratically) from there.
 >>>> 
+>>>> edit: 
+>>>> 
+>>>> I figured I might as well explain why this works and at the same time see how feasible such a powerplant might be. 
+>>>> 
+>>>> Kinetic energy of a moving object is proportional to the mass of the object times the square of the velocity. At rest, your hypothetical MiHsC free-energy generator would consume 60 million joules to reach 0.015 m/s of velocity, assuming it's literally the spacecraft you proposed, taped to a stick that's attached to an electric generator. That takes exactly one second. Anyway, after one second, the MiHsC free-energy generator is carrying 200,000 * 0.015^2 or 45 joules of kinetic energy. Shit, pretty lousy return for 60 million joule input! 
+>>>> 
+>>>> The next second, it would take another 60 million joules to accelerate a further 0.015 m/s, to reach 0.3 m/s. It now carries 180 joules. That's not twice as much as after one second, but four times! The next second, it reaches 0.045 m/s and carries 405 joules, which is 9 times as much as after the first second. That's increasing quadratically. Meanwhile, the total energy cost has been 60 million, 120 million, and 180 million joules, which is a linear increase. 
+>>>> 
+>>>> At some point, there's a break-even point, and you can extract (through the electric generator) as much energy as is being added to the system through the reactionless acceleration. At this point, you have a perpetual-motion device as you could deactivate the power plant and power the drive by its own acceleration.  Let it go a little further, and you'll be extracting more energy than is required to run the MiHsC free-energy generator, meaning you can keep it running and make use of the additional energy. 
+>>>> 
+>>>> My back-of-the-envelope calculations show it would take about a year to spin up to this speed, which is about 15000 m/s, assuming some losses to friction and so on. That's Mach 15, so very very fast, but far from relativistic. So far, we've only considered the most naive construction: In "reality", you would skip the whole nuclear powerplant issue and just start it spinning with the electric generator, which is also a motor. You would also run a power line to the MiHsC free-energy generator, since it's needed anyway in order to run off of its own generated electric power. Then the thing could start supplying net power after only a few hours of spin-up, and would not require anything near 60MW to get started. Anyway, at this point, the faster it spins, the more extra MW it can produce. Larger wheels produce lower G-forces and allow faster speeds and greater output. If we're assuming 50% power loss through friction and whatever, a wheel going Mach 16 would generate 6MW and a wheel going Mach 17 generates 12MW, and it just goes up (quadratically) from there.
 
->>>>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (19 hours later)
 >>>>> 
 >>>>> > on a ring that spins
+>>>>> 
 >>>>> Alright, how does this sound to you?
+>>>>> 
 >>>>> > 2: Wait, reactionless thrusters... why bother with the pebble-bed reactor, instead of a perpetual motion generator?
 >>>>> > 
 >>>>> > 1: Well, about that.
@@ -168,601 +176,629 @@ Or generally work through the problems of a fictional world.
 >>>>> > 1: And some members of the latter group are pouring gobs of money towards improving the efficiency of rotating thrusters, ala the Big Fusion projects circa 2010s.
 >>>>> > 
 >>>>> > 1: And some members of the latter group are crackpots with basement supercomputers and machine shops, trying to gain recognition as 'The Guy Who Cracked Over-Unity'.
-
->>>>> If that's a tolerable hand-wave, then this thread may have produced its first bit of worldbuilding that makes it into a story. :)
 >>>>> 
+>>>>> If that's a tolerable hand-wave, then this thread may have produced its first bit of worldbuilding that makes it into a story. :)
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (a day later)
 >>>>>> 
 >>>>>> Send your spacecraft, loaded with magnets, out an arbitrary distance.  Stop.  Come back withoutbstopping, straight line.  Fly through wire coils, slowing and producing electricity.  Over unity energy without spin.
->>>>>> 
 
->>>>>>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>>>>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (a day later)
 >>>>>>> 
 >>>>>>> Given the numbers I'm currently using for a default spacecraft's mass and thrust (ie, 200,000 kg plus cargo, 3,000 Newtons), then for any reasonable sorts of magnets and wire coils, how much energy could be produced over any given length of time? That is, is this technique any more useful than imparting a one-time burst of kinetic energy through lithobraking?
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> Good question.  Probably matters if you care about loooads of waste heat and if you care about complicated infrastructure.
->>>>>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> Works for me!
->>>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> There is one way to avoid free energy from reactionless drives.  It requires them to break Galilean relativity.  That is, give the universe one preferred rest frame of motion that the ke of the device is measured against.  Thrust would decline with the square of the velocity in this frame.  A reasonable frame to use would be the comoving frame of the cosmic microwave background, a few hundred km/s relative to the sun.  For velocities in the tens of km per second around the solar system its close enough to isotropic but at the hundreds of km per second or more required for interstellar stuff, it starts becoming much faster and cheaper to travel against the motion of the sun relative to said background giving a preferred direction for travel towards the blueshifted side of the sky.  Side effect: you can tell your exact velocity by turning one of these on and pointing it in a few directions and the universe is no longer isotropic.
->>>>>> 
 
-> **u/vakusdrake** [+7] *
+> **u/vakusdrake** [+7]  (3 hours later)
 > 
 > I would like to get suggestions about how much of an advantage, long lived races would have in a fantasy setting. I'm creating a heavily homebrewed pathfinder setting.
-> I think the long lived races are crazily underpowered in vanilla pathfinder. I just don't see any way that a species like elves, that has potentially hundreds of years more experience than a human can receive no massive skill boosts and other stuff. 
-> Another thing that draws my ire is that races get bonuses once they reach certain age milestones (middle age, old and venerable) which grant bonuses to mental stats and penalties to physical stats. The insane part is that _those two things are linked_ so shorter lived races age faster, but also gain the mental bonuses faster. 
-> I hate this, because it makes no sense that if a human and an elf that are both adult ages for their race that the human would somehow gain a +3 to his mental stats over the next 50 years but an elf living the same life as that human would gain nothing.
-> So assuming you are willing to accept potential level adjustments, how would you make long lived fantasy races be realistically represented rule-wise due to their age?
-> Some notes on setting: The setting is medieval, and the world runs on magic not physics for the most part, this disallows most technological advances. Sufficiently complicated machines won't even work due to the random magical effects at small but still macroscopic scales. For instance mechanical  wristwatches would fail basically immediately, because of how much precision they require. _I'm also deliberately nerfing permanent magic effects, and items to prevent this from turning into a magitech setting._ 
-> I am attempting to make this a setting that is actually modern in terms of say rationality, in some places at least. However I am trying to nerf magic and make many technologies impossible so that the setting stays for the most part pure fantasy with very little magitech/sci-fi stuff mixed in.
 > 
+> I think the long lived races are crazily underpowered in vanilla pathfinder. I just don't see any way that a species like elves, that has potentially hundreds of years more experience than a human can receive no massive skill boosts and other stuff. 
+> 
+> Another thing that draws my ire is that races get bonuses once they reach certain age milestones (middle age, old and venerable) which grant bonuses to mental stats and penalties to physical stats. The insane part is that _those two things are linked_ so shorter lived races age faster, but also gain the mental bonuses faster. 
+> 
+> I hate this, because it makes no sense that if a human and an elf that are both adult ages for their race that the human would somehow gain a +3 to his mental stats over the next 50 years but an elf living the same life as that human would gain nothing.
+> 
+> So assuming you are willing to accept potential level adjustments, how would you make long lived fantasy races be realistically represented rule-wise due to their age?
+> 
+> Some notes on setting: The setting is medieval, and the world runs on magic not physics for the most part, this disallows most technological advances. Sufficiently complicated machines won't even work due to the random magical effects at small but still macroscopic scales. For instance mechanical  wristwatches would fail basically immediately, because of how much precision they require. _I'm also deliberately nerfing permanent magic effects, and items to prevent this from turning into a magitech setting._ 
+> 
+> I am attempting to make this a setting that is actually modern in terms of say rationality, in some places at least. However I am trying to nerf magic and make many technologies impossible so that the setting stays for the most part pure fantasy with very little magitech/sci-fi stuff mixed in.
 
->> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (6 hours later)
 >> 
 >> Well, part of the problem is that your level is a reflection of your experience, so most elves should just be high level and most humans should just be low level. This would reflect their relative benefits pretty well, since it's just *demographics* rather than requiring any changes to mental abilities.
->> If you don't like the mental stat increases, just remove them. I've always thought that it was a little bit weird to get mental bonuses just because you're old. The bonus seems like it's a reflection of experience, rather than biology, and we already have levels to represent the effects of experience. If there's a human who's ninety years old and is only level one, on what basis is he more wise, smart, or charismatic than his fifteen-year-old level one traveling companion?
->> ___
->> There are a few ways that you can "fix" things without needing level adjustments or anything like that. For example, maybe the long-lived races are just less good at gaining experience than humans; a human can pick up a trade in a few months, but an elf would take a decade to reach the same level of proficiency. The elf's comparative advantage is that he can keep on going, slowly gaining mastery over what would be a lifetime to a human, and once he's a master, he can keep on going past that, until he's a grandmaster, and it's not like he's going to die anytime soon after that.
->> The only way that this fails is for player characters, who by necessity need to all level at roughly the same rate. But it's not too hard to just say that player characters are special for some in-universe reason.
->> ----
->> As for how much of an advantage age is ... it's not actually that much of an advantage. Living long allows you to acquire more skills and accrue more knowledge, but both those things atrophy with time. I took French classes in college and remember very, very little. I used to remember all of the lyrics to Vanilla Ice's "Ice Ice Baby" but now I'd be lucky if I could get through half of them. And I can't play Halo nearly as well as when I was pouring ten hours a day into it. That's with ten years time passing.
->> So I think it's fair to say that even a long-lived elf will probably not be a master at too many things, because mastery requires not only intense training and conditioning, but also *continuous* training and conditioning. It's unrealistic to think that an elf would be able to go a hundred years without using one of his languages and still recall it perfectly. The same goes for archery, or magic, or any number of other things. An elf can attain mastery of things and then do the bare minimum of continuous training necessary to keep himself sharp, but eventually he's going to run into limits in regards to how much time he's got, and if he wants to be the best at something, he probably needs to devote a disproportionate amount of his training time to it in order to stay as sharp as possible.
->> Where living a long time really comes in handy is in gaining power and money. Once you've got a lot of money (which is the hard part) a smaller portion of your wealth is going into living expenses, which means that you've got capital to invest in things in order to make more money. In the 350 years that an elf lives, a human family would go through something like seven generations, which both dilutes wealth (assuming more than one heir per generation) and runs the risk of loss through incompetence, etc. So I would expect an elf who becomes rich to become *very* rich, which easily translates to power and influence. Elves can accumulate in a way that humans cannot.
 >> 
+>> If you don't like the mental stat increases, just remove them. I've always thought that it was a little bit weird to get mental bonuses just because you're old. The bonus seems like it's a reflection of experience, rather than biology, and we already have levels to represent the effects of experience. If there's a human who's ninety years old and is only level one, on what basis is he more wise, smart, or charismatic than his fifteen-year-old level one traveling companion?
+>> 
+>> ___
+>> 
+>> There are a few ways that you can "fix" things without needing level adjustments or anything like that. For example, maybe the long-lived races are just less good at gaining experience than humans; a human can pick up a trade in a few months, but an elf would take a decade to reach the same level of proficiency. The elf's comparative advantage is that he can keep on going, slowly gaining mastery over what would be a lifetime to a human, and once he's a master, he can keep on going past that, until he's a grandmaster, and it's not like he's going to die anytime soon after that.
+>> 
+>> The only way that this fails is for player characters, who by necessity need to all level at roughly the same rate. But it's not too hard to just say that player characters are special for some in-universe reason.
+>> 
+>> ----
+>> 
+>> As for how much of an advantage age is ... it's not actually that much of an advantage. Living long allows you to acquire more skills and accrue more knowledge, but both those things atrophy with time. I took French classes in college and remember very, very little. I used to remember all of the lyrics to Vanilla Ice's "Ice Ice Baby" but now I'd be lucky if I could get through half of them. And I can't play Halo nearly as well as when I was pouring ten hours a day into it. That's with ten years time passing.
+>> 
+>> So I think it's fair to say that even a long-lived elf will probably not be a master at too many things, because mastery requires not only intense training and conditioning, but also *continuous* training and conditioning. It's unrealistic to think that an elf would be able to go a hundred years without using one of his languages and still recall it perfectly. The same goes for archery, or magic, or any number of other things. An elf can attain mastery of things and then do the bare minimum of continuous training necessary to keep himself sharp, but eventually he's going to run into limits in regards to how much time he's got, and if he wants to be the best at something, he probably needs to devote a disproportionate amount of his training time to it in order to stay as sharp as possible.
+>> 
+>> Where living a long time really comes in handy is in gaining power and money. Once you've got a lot of money (which is the hard part) a smaller portion of your wealth is going into living expenses, which means that you've got capital to invest in things in order to make more money. In the 350 years that an elf lives, a human family would go through something like seven generations, which both dilutes wealth (assuming more than one heir per generation) and runs the risk of loss through incompetence, etc. So I would expect an elf who becomes rich to become *very* rich, which easily translates to power and influence. Elves can accumulate in a way that humans cannot.
 
->>> **u/vakusdrake** [+3] *
+>>> **u/vakusdrake** [+3]  (8 hours later)
 >>> 
 >>> Hmm the option for elves learning things slower goes into the theory many people have that the longer lived races are actually really stupid. However i'm not super fond of elves being slower to acquire skills, because if that were the case they ought to take much longer to get levels skills and feats, (though humans get an extra feat at lvl 1 and 1 extra skill rank per lvl).    
 >>> And even if you say that all the pc elves are special non-idiots I just can't think of a way it's psychologically feasible that elves can take many times longer to learn everything, and yet remain otherwise intelligent. Another problem is that they wouldn't just be worse than human at learning a skill in a given time, they would also be worse at dealing with basically every situation because of their extremely poor learning.
+>>> 
 >>> As for skill mastery, well while they wouldn't necessarily retain mastery of skills they didn't keep using, they would still almost inevitably end up with a low to moderate level of knowledge of most skills and knowledge, so they might be kind of like a bard I suppose. However it seems likely that nearly all elves would remain masters (compared to a human at least) of quite a few things that interest them (after all look at all the human polymaths who don't even have a whole century to gain expertise, yet become masters in many things). The 10,000 hour rule would be nothing to a elf, especially given they are usually depicted as having longer attention spans.
+>>> 
 >>> I actually don't think elves (or other longer lived races) would necessarily have very many _class_ levels. Most npc's of any race have levels in  npc non-combat classes for one. Secondly is the fact that few npc's have more than a single level in a combat class, and those that do usually plateau at a certain point determined by their innate skill. 
+>>> 
 >>> Given how quickly pc's can overtake pretty much every other mortal in their class, it seems apparent that in the game time just can't compare to innate talent.   
 >>> Given that few people have what it takes to get to higher levels in classes. It seems likely that longer lived races usually would have a few levels in a few different related classes depending on their aptitudes. For the average member of a race, I would expect levels in classes that based on their RaW descriptions anyone can take, and of course the more people take those classes the more that knowledge will become widespread within that species.
+>>> 
 >>> Since these classes would be learned over great time (to make up for lack of any great innate skill) It might make sense to say that when they multiclass they don't get the normal benefits to gaining a level. For instance if someone took a few levels in wizard, bard and any of the other plethora of arcane casting classes, without actually ever seeing combat.    
 >>> It wouldn't make sense for their hp to increase, though actually that kind of applies to any npc who hasn't gotten their levels through any sort of physical experience and hasn't seen much combat (kind of weird that even a elderly archmage still likely has _at least_ 22hp and could probably beat a 1st lvl fighter in a fistfight).
+>>> 
 >>> *_As for what long lived races mean for society:_* In my setting most long lived races have strong preferences for certain climates and environments, which keeps a massive number of them from just migrating to shorter lived races kingdoms so they can have a comparative advantage.    
 >>> However this doesn't change the fact that there will still be many who are willing to try to to leverage their lifespans to gain their family power (you can trust your offspring more with power, if you have have been testing and grooming them for centuries)   
 >>> The question is raised; Is it inevitable that immortals will end up controlling most large kingdoms? The only disadvantages they really have are that they have somewhat longer pregnancies and take 50% longer to reach maturity.   
->>> The only method I can think of to keep immortals from ending up in charge of everything, is to make populations too xenophobic to accept anyone of a different species or who is obviously inhuman having power.
->>> (I have significantly nerfed immortality in my setting, it's no longer really easy for any king with class levels and money to keep _reincarnating_ himself, or using any of the other spells that will allow any rich guy to stay young (and mortal) forever. Basically immortality is damn near impossible to get, unless you personally wield powerful magic, what immortality you can get by paying a mage is going to leave you obviously inhuman.)
 >>> 
+>>> The only method I can think of to keep immortals from ending up in charge of everything, is to make populations too xenophobic to accept anyone of a different species or who is obviously inhuman having power.
+>>> 
+>>> (I have significantly nerfed immortality in my setting, it's no longer really easy for any king with class levels and money to keep _reincarnating_ himself, or using any of the other spells that will allow any rich guy to stay young (and mortal) forever. Basically immortality is damn near impossible to get, unless you personally wield powerful magic, what immortality you can get by paying a mage is going to leave you obviously inhuman.)
 
->>>> **u/Iconochasm** [+3] *
+>>>> **u/Iconochasm** [+3]  (17 hours later)
 >>>> 
 >>>> >Hmm the option for elves learning things slower goes into the theory many people have that the longer lived races are actually really stupid. However i'm not super fond of elves being slower to acquire skills, because if that were the case they ought to take much longer to get levels skills and feats, (though humans get an extra feat at lvl 1 and 1 extra skill rank per lvl).
->>>> It could be cultural rather than innate.  In the fantasy web serial Tales of MU, elves are fully biologically immortal, but tend to be extremely lacksidasical about things like building up skills.  A human and an elf will go to the same university, study the same major, but the human graduates in 4 years with a typical workload while the elf screws around taking one class per semester for decades before graduating.
->>>> On the other hand, an elf not bound by those cultural mores can progress just as fast as a human can, at the expense of social standing within elven communities.
 >>>> 
+>>>> It could be cultural rather than innate.  In the fantasy web serial Tales of MU, elves are fully biologically immortal, but tend to be extremely lacksidasical about things like building up skills.  A human and an elf will go to the same university, study the same major, but the human graduates in 4 years with a typical workload while the elf screws around taking one class per semester for decades before graduating.
+>>>> 
+>>>> On the other hand, an elf not bound by those cultural mores can progress just as fast as a human can, at the expense of social standing within elven communities.
 
->>>>> **u/vakusdrake** [+1] *
+>>>>> **u/vakusdrake** [+1]  (21 hours later)
 >>>>> 
 >>>>> Of course that would only account for acquiring skills one doesn't really care about at a slow pace. If an elf actually cares about learning something for its own sake there's no reason it should take them longer.   
 >>>>> Plus in areas like academia with competition there will be an incentive to learn things as fast as possible so you wont be considered woefully ignorant by one's peers.
->>>>> 
 
->>>>>> **u/Iconochasm** [+2] *
+>>>>>> **u/Iconochasm** [+2]  (22 hours later)
 >>>>>> 
 >>>>>> That depends on your perspective of pace.  If your parents tell you that they expect you to have a degree by your hundredth birthday, so you can show it off to grandpa for his 1,000th Jubilee, and there's a solid subculture of elves at your university working on similar time frames...  Well in that case taking *two* classes per semester will let you blow past your peers, while still flying under the line for being a human-poser.
->>>>>> 
 
->>>>>>> **u/vakusdrake** [+3] *
+>>>>>>> **u/vakusdrake** [+3]  (22 hours later)
 >>>>>>> 
 >>>>>>> Right i'm just saying that you would still expect competition to force some groups of elves to acquire skills as fast as possible to best each other, you can sometimes see the same thing among humans.
+>>>>>>> 
 >>>>>>> Say elves start taking 2 classes a semester to blow ahead, soon any elf who wants to best them will have to take 3 classes, and the cycle repeats. Plenty of elves are going to want to be top of their class which will inevitably lead to a subset of elves who are taking as many classes as they can manage.
+>>>>>>> 
 >>>>>>> Better yet those highly motivated elves will be far more likely to end up more influential. Both in academia and potentially elsewhere.    
 >>>>>>> Once they get in power they are likely to increase academic rigor in competition to other colleges, or to give elves a edge over other equally longer lived races, and it's unlikely that once they get used to a certain standard they would ever lower the bar again.
->>>>>>> Effectively I'm saying that if there is any element of competition you should expect it to eventually lead to people or groups operating as quickly as possible until both reach a a balance where they can't go any faster in their efforts to outdo the other.
 >>>>>>> 
+>>>>>>> Effectively I'm saying that if there is any element of competition you should expect it to eventually lead to people or groups operating as quickly as possible until both reach a a balance where they can't go any faster in their efforts to outdo the other.
 
->>>>>>>> **u/elevul** [+1]  *Cyoria Observer**
+>>>>>>>> **u/elevul** [+1]  *Cyoria Observer* (22 hours later)
 >>>>>>>> 
 >>>>>>>> How about introducing something else that takes a lot of an elf's time? Like x hours of prayers a day, for example, or etiquette learning, or whatever. There was a story where the natives of an island became incredibly intelligent thanks to a herb, but were locked in on the island by a religion that forced them to waste insane amounts of their time on inane religious practices.
->>>>>>>> 
 
->>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>> **u/vakusdrake** [+1]  (22 hours later)
 >>>>>>>>> 
 >>>>>>>>> Well if you did something like that then you would have to assume for some reason that _all_ the long lived races have those same type of weird religious responsibilities. Given how many long lived races exist in any remotely d&d style world you aren't going to be able to find a way to nerf all of them by anything cultural.     
 >>>>>>>>> Plus groups that didn't practice the religion would have such a massive advantage that if any were warlike, they would be likely to overtake those with the disadvantage.
->>>>>>>>> 
 
->>>>>>>>> **u/Quillwraith** [+1]  *Red King Consolidated**
+>>>>>>>>> **u/Quillwraith** [+1]  *Red King Consolidated* (8 days later)
 >>>>>>>>> 
 >>>>>>>>> [It Was You Who Made My Blue Eyes Blue](http://slatestarcodex.com/2015/10/15/it-was-you-who-made-my-blue-eyes-blue/), by Scott Alexander.
->>>>>>>>> 
 
->> **u/ZeroNihilist** [+2] *
+>> **u/ZeroNihilist** [+4]  (11 hours later)
 >> 
 >> Assuming that long-lived races aren't also significantly more hardy than a human of the same level, the only difference in longevity is the lack of death from age-related illness.
+>> 
 >> If you also assume that the only way to get to a high level is by dealing with comparable risks, then the level distribution shouldn't be too out of whack. Long-lived races can afford to be more careful with their progress, but the unexpected (or simple bad luck) could still kill them.
+>> 
 >> However, eventually they would become strong enough that most threats in the setting just aren't a concern. We wouldn't expect too many of these people to exist (perhaps slightly more than you would for humans), but the ones that did could continue gaining levels as long as is practical.
+>> 
 >> So a long-lived character that became an adventurer at 30 and reached the upper echelons at 90 could reasonably be an unstoppable demigod by 300 years old.
+>> 
 >> There's usually a disparity between adventurer levels and actual game time, however. Players tend to level much more quickly than you'd expect, and this isn't usually reflected in the demographics of the setting. You don't find, for example, that everybody who's been adventuring for more than 10 years is orders of magnitude stronger than the PCs who have been adventuring for a few in-game months.
+>> 
 >> If you rectified that, coming up with some particular curve for "time devoted to adventuring" and "average level" that all your characters obey, you could come up with a more firm answer for population distribution.
+>> 
 >> But in the absence of an simulations to demonstrate it, I'd say (using elves and humans as examples):
+>> 
 >> * The background mortality rate versus age for elves would be comparable to the human equivalent, except stretched out to cover the whole range and normalised.
 >> * They would likely have a commensurately lower birth rate (otherwise they would have just taken over the whole world, unless balanced by other disadvantages).
 >> * Elven military would start at a higher level than a human military (can train for literally decades before being deployed) but would probably have fewer new troops (see birth rate). Depending on how advantageous the level advantage is, this might significantly mitigate attrition. May need to tweak specifics for balance (unless you want elves to ruthlessly outcompete the other races).
 >> * Elven adventurers would have a slower rate of level advancement and be less likely to die to monsters at a given level since they have the luxury of time. Could also start with better training, but adventurers tend to just go off at level 1 for narrative purposes.
 >> * At very high levels, humans would start running into the issue of death. Expect relatively more humans than elves to turn to lichdom (or setting equivalent, if it exists).
 >> * Beyond those levels, the number of humans would drop drastically. Almost every character at the highest levels would be an elf, assuming it takes a long time to reach them.
->> 
 
->>> **u/vakusdrake** [+1] *
+>>> **u/vakusdrake** [+1]  (22 hours later)
 >>> 
 >>> I actually addressed this in a prior comment on this thread, I'll just repost it here:     
 >>> I actually don't think elves (or other longer lived races) would necessarily have very many class levels. Most npc's of any race have levels in npc non-combat classes for one. Secondly is the fact that few npc's have more than a single level in a combat class, and those that do usually plateau at a certain point determined by their innate skill.
 >>> Given how quickly pc's can overtake pretty much every other mortal in their class, it seems apparent that in the game time just can't compare to innate talent.   
+>>> 
 >>> Given that few people have what it takes to get to higher levels in classes. It seems likely that longer lived races usually would have a few levels in a few different related classes depending on their aptitudes. For the average member of a race, I would expect levels in classes that based on their RaW descriptions anyone can take, and of course the more people take those classes the more that knowledge will become widespread within that species.
 >>> Since these classes would be learned over great time (to make up for lack of any great innate skill) It might make sense to say that when they multiclass they don't get the normal benefits to gaining a level. For instance if someone took a few levels in wizard, bard and any of the other plethora of arcane casting classes, without actually ever seeing combat.   
->>> It wouldn't make sense for their hp to increase, though actually that kind of applies to any npc who hasn't gotten their levels through any sort of physical experience and hasn't seen much combat (kind of weird that even a elderly archmage still likely has at least 22hp and could probably beat a 1st lvl fighter in a fistfight).
 >>> 
+>>> It wouldn't make sense for their hp to increase, though actually that kind of applies to any npc who hasn't gotten their levels through any sort of physical experience and hasn't seen much combat (kind of weird that even a elderly archmage still likely has at least 22hp and could probably beat a 1st lvl fighter in a fistfight).
 
->> **u/RatemirTheRed** [+3] *
+>> **u/RatemirTheRed** [+3]  (10 hours later)
 >> 
 >> I am going to try to address the problem 'immortals are going to be in charge of everything'.
->> Well, why not give elves (or any other immortal race, for that matter) some disadvantages to address extremely high skills and wealth accumulation?
->>  * The accumulation of wealth is frowned upon in elven culture. If the violation of this principle will lead to worse place in afterlife (which existance is proven in-setting, perhaps), this might stop some elves enrichment.
->>  * Elven magic uses memories as mana. Therefore, irrelevant skills of elven wizards degrade very quickly.
->>  * Alternatively, some unscrupulous elven ruler had sold his/her entire race to demon king, thus casing disadvantages similar to the previous point.
->>  * Elves has much lower resistance to mind magic and (probably) reading social clues. Because of it they might much less capable rulers, even with centuries of experience.
 >> 
+>> Well, why not give elves (or any other immortal race, for that matter) some disadvantages to address extremely high skills and wealth accumulation?
+>> 
+>>  * The accumulation of wealth is frowned upon in elven culture. If the violation of this principle will lead to worse place in afterlife (which existance is proven in-setting, perhaps), this might stop some elves enrichment.
+>> 
+>>  * Elven magic uses memories as mana. Therefore, irrelevant skills of elven wizards degrade very quickly.
+>> 
+>>  * Alternatively, some unscrupulous elven ruler had sold his/her entire race to demon king, thus casing disadvantages similar to the previous point.
+>> 
+>>  * Elves has much lower resistance to mind magic and (probably) reading social clues. Because of it they might much less capable rulers, even with centuries of experience.
 
->>> **u/vakusdrake** [+1] *
+>>> **u/vakusdrake** [+1]  (22 hours later)
 >>> 
 >>> Even if most elves or other long lived races have a taboo against wealth, that will just guarantee that the elves who _do_ end up with the most power among humans, will be among the more ruthless ones.     
+>>> 
 >>> As for magic, _so what_ all that means is that the people who end up in charge might not be wizards themselves. It doesn't really matter unless you assume the rulers _must_ be mages.    
 >>> Ok for your third point...  What are you actually trying to say? I'm not sure why that would stop a small subset of elves from ending up in charge of shorter lived races kingdoms.    
 >>> As for elves being weak-willed, unless it was a massive weakness that would just ensure the elves in power were the stronger willed one's. If the weakness is universal then that just ensures that ruler has mages protecting him, or that he invests in other countermeasures.
 >>> As for them being less socially capable; For one that doesn't prevent them from ruling from behind the throne. Secondly that requires that there not be any longer lived races that aren't socially crippled, because otherwise they would probably be able to gain charisma through hundreds of years of training, people forget how many social skills actually be learned.
->>> 
 
->> **u/Sparkwitch** [+2] *
+>> **u/Sparkwitch** [+2]  (18 hours later)
 >> 
 >> I always approached Elven immortality's disadvantages the same way I approached human mental difficulties. They have a fixed amount of brain. Human cognition gets slower and slower as they age because the brain has to build everything we learn out of everything we know. Quick recall deteriorates evenly as knowledge increases.
->> It's not a medical problem so much as a data compression one.
->> Elves may have developed cultural traditions which slow their acquisition of skills in order to allow them to remain lucid in after the centuries. Investing less energy in remembering anything that isn't critically important, selecting specific skills and dabbling in them only as much as would prevent the inevitable slowing of cognition.
->> There are, perhaps, ancient elves who have drank deeply from the well of possibility and are full of the wisdom of the ages... but it is slow and delicate work to wrench it out of the tangled knots of their overstuffed memories.
->> Not that young elves mind slow and delicate work the way young people do.
 >> 
+>> It's not a medical problem so much as a data compression one.
+>> 
+>> Elves may have developed cultural traditions which slow their acquisition of skills in order to allow them to remain lucid in after the centuries. Investing less energy in remembering anything that isn't critically important, selecting specific skills and dabbling in them only as much as would prevent the inevitable slowing of cognition.
+>> 
+>> There are, perhaps, ancient elves who have drank deeply from the well of possibility and are full of the wisdom of the ages... but it is slow and delicate work to wrench it out of the tangled knots of their overstuffed memories.
+>> 
+>> Not that young elves mind slow and delicate work the way young people do.
 
->>> **u/vakusdrake** [+3] *
+>>> **u/vakusdrake** [+3]  (22 hours later)
 >>> 
 >>> See the thing is i'm not sure we actually have evidence to show that your brain being bogged down with information, is what causes cognitive slowness.      
 >>> Old humans have aging related cognitive decline, but it's not actually universal or correlated to how knowledgeable they are.    
->>> Plus if you were to for some reason buy that theory, it would still require extra assumptions because obviously if that were true then just memory acquisition by itself would make any adult elf basically non-functional. There's nothing to suggest that learning skills would take up more brain-space than that taken up by every new memory you form.
 >>> 
+>>> Plus if you were to for some reason buy that theory, it would still require extra assumptions because obviously if that were true then just memory acquisition by itself would make any adult elf basically non-functional. There's nothing to suggest that learning skills would take up more brain-space than that taken up by every new memory you form.
 
-> **u/None** [+4] *
+> **u/None** [+5]  (10 minutes later)
 > 
 > I like the idea of building [an extremely expansive world](https://github.com/kiba/writing/blob/master/world-sphere/report.md) with isolated set of human civilizations with no contact with each other, but so far I am lacking in plots.
-> I haven't even define much of anything on a human civilizational scale.
-> Though, my favorite idea for the moment is an oceanic 'space opera', complete with submarine warfare and underwater cities.
 > 
+> I haven't even define much of anything on a human civilizational scale.
+> 
+> Though, my favorite idea for the moment is an oceanic 'space opera', complete with submarine warfare and underwater cities.
 
->> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>> **u/alexanderwales** [+7]  *Time flies like an arrow* (5 hours later)
 >> 
 >> You might enjoy Charles Stross's *Missile Gap*, [which you can read here](https://subterraneanpress.com/magazine/spring_2007/fiction_missile_gap_by_charles_stross) (also collected in *Wireless*, which I highly enjoyed because it also has the novella *Palimpsest*). The premise is that Earth gets flattened out and teleported onto the top of an [Alderson Disk](https://en.wikipedia.org/wiki/Alderson_disk) during the height of the Cold War, which completely changes the dynamic because of the changed distances of continents and the fact that ICBMs don't work right on a giant disk.
->> 
 
->> **u/Dwood15** [+1] *
+>> **u/Dwood15** [+1]  (2 hours later)
 >> 
 >> If the humans are in an expansive world, what is keeping the civilizations from meeting each other? Or what's keeping them from growing to a massive enough number to where contact is inevitable?
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 hours later)
 >>> 
 >>> There is nothing to prevent them other than time and progress, actually.
->>> However, in the setting I devised, they have no concept of space. They cannot orbit satellites(pesky atmosphere getting in the way), though terrestrial radio and air travel remains viable.
 >>> 
+>>> However, in the setting I devised, they have no concept of space. They cannot orbit satellites(pesky atmosphere getting in the way), though terrestrial radio and air travel remains viable.
 
-> **u/None** [+8] *
+> **u/None** [+6]  (4 hours later)
 > 
 > I would love to read something that mixes the modern world (skyscrapers, cars, twitter mobs) with creepy medieval themes (local deities which may be bargained it, kings with royal courts, witches). 
-> At some point, I vaguely thought of writing a story called "Place of Power," taking inspiration from a common trope in computer games -- you visit a difficult-to-reach location to obtain new abilities for your character. 
-> I sort of imagine a group of people on a pilgrimage --  a wall st type, a hippy-ish college student, a disgraced (male) politician, a woman unable to let go of a former lover, someone struggling with intermittent depression  -- all hoping, mostly rationally but with a little bit of wishful thinking mixed in,  that a visit to the place-of-power will grant them some super-natural abilities, perhaps just enough to solve their problems. 
-> Not sure if I'll ever write anything like this, but there is something about a mix of modern and medieval that feels oddly compelling.
 > 
+> At some point, I vaguely thought of writing a story called "Place of Power," taking inspiration from a common trope in computer games -- you visit a difficult-to-reach location to obtain new abilities for your character. 
+> 
+> I sort of imagine a group of people on a pilgrimage --  a wall st type, a hippy-ish college student, a disgraced (male) politician, a woman unable to let go of a former lover, someone struggling with intermittent depression  -- all hoping, mostly rationally but with a little bit of wishful thinking mixed in,  that a visit to the place-of-power will grant them some super-natural abilities, perhaps just enough to solve their problems. 
+> 
+> Not sure if I'll ever write anything like this, but there is something about a mix of modern and medieval that feels oddly compelling.
 
->> **u/LiteralHeadCannon** [+7] *
+>> **u/LiteralHeadCannon** [+7]  (4 hours later)
 >> 
 >> Man, you could make an entire movie about the effects of double-jumping on inner-city parkour culture.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Can you explain what you mean? I googled "parkour" and "double-jumping" but the meaning of your comment is still unclear to me. Not being flippant here -- I find vast swaths of the internet literally incomprehensible...
->>> 
 
->>>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>>> **u/CouteauBleu** [+2]  *We are the Empire.* (a day later)
 >>>> 
 >>>> I may be missing something, but parkour is about going from point A to point B in the shortest possible time, which includes jumping and climbing over obstacles, something that gets much easier, and probably more exciting, if you can jump in mid-air (aka double-jump).
->>>> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (12 hours later)
 >> 
 >> > I sort of imagine a group of people on a pilgrimage -- maybe a wall st type, a hippy-ish college student, a disgraced (male) politician, a woman obsessed with a former lover, someone with depression -- all hoping, somewhat rationally but with some wishful thinking mixed in, that the place of power will solve their problems. Obviously only some of them can make it to the destination.
->> The book *Hyperion* by Dan Simmons is basically this. Not rational by any means, but an absolutely fantastic read - probably my favorite science-fiction book of all time.
 >> 
+>> The book *Hyperion* by Dan Simmons is basically this. Not rational by any means, but an absolutely fantastic read - probably my favorite science-fiction book of all time.
 
->> **u/Iconochasm** [+3] *
+>> **u/Iconochasm** [+3]  (18 hours later)
 >> 
 >> [Pact](https://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/) by Wildbow, author of Worm fits that bill.
->> 
 
->> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor* (a day later)
 >> 
 >> +1 to both premises.
->> 
 
-> **u/Aabcehmu112358** [+3]  *Utter Fallacy**
+> **u/Aabcehmu112358** [+3]  *Utter Fallacy* (5 hours later)
 > 
 > Dreams do come true!
-> One idea, related to magic (When are my ideas not related to a magic system?) I've been holding in my back pocket for a while, is another form of ritualism (a little bit less gruesome than blood ceremony, if anyone remembers my post about that).
-> The system is based around timely rituals, which I'll call a holiday. When a holiday is instantiated, using a special holiday-instantiating spell derived from unrelated magic, a period is chosem, as well as a depositing celebration and a withdrawing celebration. Anyone who performs the depositing celebration on the same holiday (without being too out of phase) deposits whatever they're contributing the depositing (ordinary items, generally, but interaction with other magic can allow for more interesting deposits) into a shared pool. Once it is in the pool, it disappears from physical reality, becoming almost but not completely detached from time and space. Anyone performing the withdrawal celebration on a holiday can (again assuming they are not too out of phase) withdraw from the associated pool, either with an explicit request, or with a sort of generic withdrawal. A generic withdrawal serves as a sort of limited wish-granting, where the celebration will withdraw an assortment of things, balanced against the needs of other withdrawals near the same time, and also with a random element (which can pop up even with explicit withdrawals in sufficiently extreme cases), which is determined by the length of the holiday period, and exactly how out of phase the celebration was.
-> This form of ritualism was discovered very, very early. Pre-agriculture. 
-> e-
-> A holiday is technically a single instant, and has no duration. For an explicit withdrawal, the probability of the withdrawal varying in any way from the request begins and ends one third of period away from next holiday, peaking at half a period, where the probability is approximately 63%. For a generic withdrawal, the probability of variance is never completely zero (since a mismatch between the request and what is available is always possible), but is low, no higher than about 8%, within one twelfth period of the holiday. It rises quickly beyond that, exceeding 80% at around a sixth period, 90% beyond about a fifth period, and from there steadily approaching certainty at exactly half a period.
-> It is common, but a celebration, just as a matter of practicality, usually needs at least five people, just to make sure that ritual is being performed without faults due to one or two people having to run back and forth between different parts of it.
 > 
+> One idea, related to magic (When are my ideas not related to a magic system?) I've been holding in my back pocket for a while, is another form of ritualism (a little bit less gruesome than blood ceremony, if anyone remembers my post about that).
+> 
+> The system is based around timely rituals, which I'll call a holiday. When a holiday is instantiated, using a special holiday-instantiating spell derived from unrelated magic, a period is chosem, as well as a depositing celebration and a withdrawing celebration. Anyone who performs the depositing celebration on the same holiday (without being too out of phase) deposits whatever they're contributing the depositing (ordinary items, generally, but interaction with other magic can allow for more interesting deposits) into a shared pool. Once it is in the pool, it disappears from physical reality, becoming almost but not completely detached from time and space. Anyone performing the withdrawal celebration on a holiday can (again assuming they are not too out of phase) withdraw from the associated pool, either with an explicit request, or with a sort of generic withdrawal. A generic withdrawal serves as a sort of limited wish-granting, where the celebration will withdraw an assortment of things, balanced against the needs of other withdrawals near the same time, and also with a random element (which can pop up even with explicit withdrawals in sufficiently extreme cases), which is determined by the length of the holiday period, and exactly how out of phase the celebration was.
+> 
+> This form of ritualism was discovered very, very early. Pre-agriculture. 
+> 
+> e-
+> 
+> A holiday is technically a single instant, and has no duration. For an explicit withdrawal, the probability of the withdrawal varying in any way from the request begins and ends one third of period away from next holiday, peaking at half a period, where the probability is approximately 63%. For a generic withdrawal, the probability of variance is never completely zero (since a mismatch between the request and what is available is always possible), but is low, no higher than about 8%, within one twelfth period of the holiday. It rises quickly beyond that, exceeding 80% at around a sixth period, 90% beyond about a fifth period, and from there steadily approaching certainty at exactly half a period.
+> 
+> It is common, but a celebration, just as a matter of practicality, usually needs at least five people, just to make sure that ritual is being performed without faults due to one or two people having to run back and forth between different parts of it.
 
->> **u/vakusdrake** [+2] *
+>> **u/vakusdrake** [+2]  (6 hours later)
 >> 
 >> So my question is how long can a holiday be? In addition how close do you need to be to the holiday to perform retrievals?    
 >> Oh and how common is this magic? If common, and holidays can be really long then depending on the length of the ceremony people might use it to store everything using a ritual only known to them. If longer and with shorter holidays then people would use it to store things they don't need quick access to. 
->> For items which are interchangeable organizations would almost certainly use secret rituals to store them, for instance they would be used to store gold and other resources you can stand not having access to in full at most times.
 >> 
+>> For items which are interchangeable organizations would almost certainly use secret rituals to store them, for instance they would be used to store gold and other resources you can stand not having access to in full at most times.
 
->>> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (17 hours later)
 >>> 
 >>> I have answered your questions, hopefully.
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (23 hours later)
 > 
 > Time stops... Except for bubbles surrounding a percentage of living humans. Or maybe all living humans, but the moving time is just an inches-thick film over most people, with a rare few having feet or metres or kilometres. Or maybe some people have bubbles that have effects other than allowing time to move, but they need to stay within the aegis of another to keep from being static. Or maybe gaining a bubble is a random occurance.
-> 
 
->> **u/Dwood15** [+2] *
+>> **u/Dwood15** [+2]  (a day later)
 >> 
 >> That would be... interesting. Would these people age inside the bubbles of time? Imagine trying to grow crops and stuff, but time is literally stopped when you're not present. Would it even be worth it though? I mean, you would be so hungry but you could literally walk up to animals and kill them for food, but at the same time, they wouldn't be reproducing or anything without your presence. You could walk into people's time-frozen homes and just eat out of their fridges. With time stopped, the food would still be cold.
->> The long term effects of your idea are really cool.
->> But another thing. If I have a 5 foot radius of unfrozen time around me, would I unfreeze a whole bus/car to make it move, or would the bus object stay frozen unless I was able to surround all of it with my time-bubble?
 >> 
+>> The long term effects of your idea are really cool.
+>> 
+>> But another thing. If I have a 5 foot radius of unfrozen time around me, would I unfreeze a whole bus/car to make it move, or would the bus object stay frozen unless I was able to surround all of it with my time-bubble?
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (a day later)
 >>> 
 >>> It would probably break, if you tried starting the motor with half of it time-locked. My idea here was actually to create an apocalypse where survival was plausible, technology still works, but any infrastructure larger than a certain radius doesn't work, or requires fiddly circumstances to work.
->>> A neat idea might be to have a few Sources, who have their own, massive bubbles, and Sinks, who can only have bubbles by spending time around Sources and soaking up power. Maybe have a small subset of Sinks able to spend sourcepower in some kind of a magic system, and an absolutely miniscule subset of Sources able to use that magic system as well, but with no power issues.
->>> Running out of power has the obvious drawback of dropping you into stasis, essentially at the mercy of anyone who might want to come along.
->>> Another idea might be to have some sort of way for time to return to an area - maybe, when a Source dies, their Source remains, hanging invisible at the spot they croaked, and though it doesn't have a bubble itself, it can still charge the bubble of anyone in the vicinity.
->>> The moment everything freezes and Sources and Sinks are assigned, every Source in a moving vehicle is probably going to die in a crash, with a few exceptions. This should litter high-volume freeways with Sourcepoints that communities can grow around.
 >>> 
+>>> A neat idea might be to have a few Sources, who have their own, massive bubbles, and Sinks, who can only have bubbles by spending time around Sources and soaking up power. Maybe have a small subset of Sinks able to spend sourcepower in some kind of a magic system, and an absolutely miniscule subset of Sources able to use that magic system as well, but with no power issues.
+>>> 
+>>> Running out of power has the obvious drawback of dropping you into stasis, essentially at the mercy of anyone who might want to come along.
+>>> 
+>>> Another idea might be to have some sort of way for time to return to an area - maybe, when a Source dies, their Source remains, hanging invisible at the spot they croaked, and though it doesn't have a bubble itself, it can still charge the bubble of anyone in the vicinity.
+>>> 
+>>> The moment everything freezes and Sources and Sinks are assigned, every Source in a moving vehicle is probably going to die in a crash, with a few exceptions. This should litter high-volume freeways with Sourcepoints that communities can grow around.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> Maybe the magic should be based around time acceleration and slowing - Harvesters that can accelerate time on things in their bubble, for example, to provide a way of growing crops. Flickers that can speed up personal time for superspeed. Shields that can selectively slow down areas in their bubble. Juggernauts that can slow down their own bodies selectively, conserving power, making their skin seem much tougher, making wounds bleed slowly, etc.
->>> I think, maybe have the Harvesters and Shields be fairly crude, while the Flickers and Juggernauts have instictual understanding and finesse.
 >>> 
+>>> I think, maybe have the Harvesters and Shields be fairly crude, while the Flickers and Juggernauts have instictual understanding and finesse.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (9 days later)
 >>>> 
 >>>> Sounds similar to some of Brandon Sanderson alloancy powers
->>>> 
 
-> **u/alexanderwales** [+2]  *Time flies like an arrow**
+> **u/alexanderwales** [+2]  *Time flies like an arrow* (an hour later)
 > 
 > Let's say that you're the British Home Office. You gradually become aware of other parallel Earths that diverge from your own at certain points in the past, then you gain the technological ability to send out travelers to these other worlds. Most of those you encounter have a divergence from your own timeline within the past six hundred years, typically sooner, which means that they usually speak passable English.
-> What's your first contact protocol like? What's the fastest series of questions to get vital information about a Britain that's unlike your own? Keep in mind that because of divergence, you don't necessarily share technology standards with the other Earth, and that on occasion you will encounter travelers from other Earths on mutually foreign soil (as others have their own technology to move between worlds).
 > 
+> What's your first contact protocol like? What's the fastest series of questions to get vital information about a Britain that's unlike your own? Keep in mind that because of divergence, you don't necessarily share technology standards with the other Earth, and that on occasion you will encounter travelers from other Earths on mutually foreign soil (as others have their own technology to move between worlds).
 
->> **u/UltraRedSpectrum** [+6] *
+>> **u/UltraRedSpectrum** [+6]  (3 hours later)
 >> 
 >> 1: How many voting blocs, coalitions, political parties, etc with real power are there in your country, and is any one of them particularly "dominant"? Can your country be said to have priorities, and if so, what are they?
->> 2: At what level of financial investment and/or loss of life do you draw the line between a major vs. minor war? Do you believe the majority of the more powerful countries in the world have similar levels of warlikeness? If not, are they more or less warlike?
->> 3: Does your country hold any philosophical or religious doctrine with enough conviction that you believe that the majority of alternate Britains would *also* have gravitated towards it? If so, on a scale from "kumbaya" to "death to the unbelievers", how would you feel about an alternate Britain did *not* hold this view?
 >> 
+>> 2: At what level of financial investment and/or loss of life do you draw the line between a major vs. minor war? Do you believe the majority of the more powerful countries in the world have similar levels of warlikeness? If not, are they more or less warlike?
+>> 
+>> 3: Does your country hold any philosophical or religious doctrine with enough conviction that you believe that the majority of alternate Britains would *also* have gravitated towards it? If so, on a scale from "kumbaya" to "death to the unbelievers", how would you feel about an alternate Britain did *not* hold this view?
 
->> **u/None** [+6] *
+>> **u/None** [+5]  (16 hours later)
 >> 
 >> Honestly? Probably offer a random sample of people from each world a significant sum of something they value to tell you everything they think is relevant, with a few guiding questions on tech level, politics, taboos, etc. Get a big dataset, cancel out the most common contradictions, and set a bunch of undergrads to doing inductive content analysis. Some people can fool you some of the time, but all people can't fool you all of the time.
->> It is possible that I am influenced by the fact I'm studying for my psych exam right now.
 >> 
+>> It is possible that I am influenced by the fact I'm studying for my psych exam right now.
 
->> **u/TennisMaster2** [+3] *
+>> **u/TennisMaster2** [+3]  (4 days later)
 >> 
 >> Hire a bunch of actors fluent in Original Pronunciation, maybe a few that speak Welsh, Gaelic, and Irish, as well at least one that speaks Middle and Modern French, German, Turkish, and Russian, and have them arrive wearing six layers of clothing, as well as a duffel bag full of various other costumes.  Upon arrival, they'd quickly assess what amounts for high fashion, try to approximate it in an alleyway or other area which might allow for a change of costume, then set out asking this question to strangers:
->> "Excuse me, awfully sorry to bother you, but there is a young man/woman being an absolute bother in pressing for my attentions.  To bore them off, would you mind terribly discoursing to me on the [present political climate/level of industrial development/technological advances/scientific inquiries/natural philosophic debates/view on religion/rights of man and woman/foreign affairs/etc.] of our country as though I were the worst, most ignorant sort of foreigner?  I would most appreciate your help; the miscreant has been after me for quite some time, now."  Adjust the turns of phrase and vocabulary accordingly per setting.  Record the audio of the discourse, or report it to a scribe upon interaction's end.
 >> 
+>> "Excuse me, awfully sorry to bother you, but there is a young man/woman being an absolute bother in pressing for my attentions.  To bore them off, would you mind terribly discoursing to me on the [present political climate/level of industrial development/technological advances/scientific inquiries/natural philosophic debates/view on religion/rights of man and woman/foreign affairs/etc.] of our country as though I were the worst, most ignorant sort of foreigner?  I would most appreciate your help; the miscreant has been after me for quite some time, now."  Adjust the turns of phrase and vocabulary accordingly per setting.  Record the audio of the discourse, or report it to a scribe upon interaction's end.
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (a day later)
 >> 
 >> Options:
->> - Go through with a clipboard, stop some random fellow on the street, ask him if he's got time to answer a survey. Leave the questions mostly generic ("What do you think of the current political situation?").
->> - Steal a newspaper (you probably don't have local currency). Analyse it for clues (or at least the names of politicians to ask about).
->> - Prepare a document with important information that you don't mind sharing about your home universe. Stick it up near some famous monument or building that's been standing for a long time. Search the vicinity of that monument in other Earths, in the hope that they've come up with the same idea.
->> - Arrange to get the phone number [area code] 72725535 (typing out "parallel" on the phone keypad) assigned to the Parallel Earth Exploration Department. Call this number on a pay phone in other Earths and ask "I'm new here, and interested in peaceful exploration. What do I most need to know?"
 >> 
+>> - Go through with a clipboard, stop some random fellow on the street, ask him if he's got time to answer a survey. Leave the questions mostly generic ("What do you think of the current political situation?").
+>> 
+>> - Steal a newspaper (you probably don't have local currency). Analyse it for clues (or at least the names of politicians to ask about).
+>> 
+>> - Prepare a document with important information that you don't mind sharing about your home universe. Stick it up near some famous monument or building that's been standing for a long time. Search the vicinity of that monument in other Earths, in the hope that they've come up with the same idea.
+>> 
+>> - Arrange to get the phone number [area code] 72725535 (typing out "parallel" on the phone keypad) assigned to the Parallel Earth Exploration Department. Call this number on a pay phone in other Earths and ask "I'm new here, and interested in peaceful exploration. What do I most need to know?"
 
->> **u/ulyssessword** [+2] *
+>> **u/ulyssessword** [+2]  (2 hours later)
 >> 
 >> That's really hard to say without knowing what a "normal" alt-earth is like.  Just due to random chance, our Earth is bound to be anomalous in at least one way, and probably more.  
->> For example, maybe 99% of alt-earths have developed strong AI before landing on the moon.  Maybe capitalism and democracy are rare, and they have settled on a different set of rights and responsibilities for people.
 >> 
+>> For example, maybe 99% of alt-earths have developed strong AI before landing on the moon.  Maybe capitalism and democracy are rare, and they have settled on a different set of rights and responsibilities for people.
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (5 hours later)
 >>> 
 >>> Well, part of the challenge here is that you *don't* know what typical worlds look like and your sample size thus far is vanishingly small and likely biased in several obvious (and non-obvious) ways. But you can't just go off without *any* plan. If you're part of the first British Interdimensional Survey, you need to know what you're going to do when you run into someone, especially if they're from an "uncontacted" Earth.
->>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 hours later)
 >>> 
 >>> Divergence is in the past six hundred years.
->>> 
 
->>>> **u/ulyssessword** [+3] *
+>>>> **u/ulyssessword** [+3]  (3 hours later)
 >>>> 
 >>>> That doesn't tell me very much without knowing where society/reality lies on the continuum between [butterfly-effect](https://en.wikipedia.org/wiki/Butterfly_effect)-driven chaos, and [Psychohistory](https://en.wikipedia.org/wiki/Psychohistory_%28fictional%29)-driven predestination.  
->>>> As an example, let's say that Francis Bacon was never born in 1561, and this is the point of divergence.  When, if ever, does the world discover empiricism?  (A strawman of) the butterfly effect says no, empiricism would never be discovered without Bacon, and that loss to philosophy would knock history off course.  Psychohistory says that it was just empiricism's time.  If Bacon didn't discover it, someone else would have.
->>>> There are dozens of hugely influential inventions, such as the assembly line or vaccines, that change the world in profound ways after they are introduced.  A world with one less (or more) idea of that scale would be *very* different than ours.
 >>>> 
+>>>> As an example, let's say that Francis Bacon was never born in 1561, and this is the point of divergence.  When, if ever, does the world discover empiricism?  (A strawman of) the butterfly effect says no, empiricism would never be discovered without Bacon, and that loss to philosophy would knock history off course.  Psychohistory says that it was just empiricism's time.  If Bacon didn't discover it, someone else would have.
+>>>> 
+>>>> There are dozens of hugely influential inventions, such as the assembly line or vaccines, that change the world in profound ways after they are introduced.  A world with one less (or more) idea of that scale would be *very* different than ours.
 
-> **u/zajhein** [+2] *
+> **u/zajhein** [+2]  (2 hours later)
 > 
 > I've always wanted to explore the idea of people being transported back in time, with nothing but the knowledge in their heads.
-> How would a rational person use their knowledge or skills to survive and thrive in that world? What would they prioritize first, second, and what realistic problems would they face living in that kind of world to make a story out of? How would they deal with all the different cultures and governments of the time, skipping over the time taken to learn the local languages. 
-> I think some of the basics would be to produce paper and inks of some kind to spread general knowledge, from simple math and science, to agriculture techniques and medicine, anything that could be remembered might be worth writing down before it's forgotten.
-> Some of this has been discussed before in Ask Reddit threads, from what engineers would create, to how an immortal might live then, to what items they would try to bring back. But there wasn't much depth to any of it, prioritizing what to do first or which idea would gain the most influence and power to actually change things for the better while not being killed by brigands or assassins.
 > 
+> How would a rational person use their knowledge or skills to survive and thrive in that world? What would they prioritize first, second, and what realistic problems would they face living in that kind of world to make a story out of? How would they deal with all the different cultures and governments of the time, skipping over the time taken to learn the local languages. 
+> 
+> I think some of the basics would be to produce paper and inks of some kind to spread general knowledge, from simple math and science, to agriculture techniques and medicine, anything that could be remembered might be worth writing down before it's forgotten.
+> 
+> Some of this has been discussed before in Ask Reddit threads, from what engineers would create, to how an immortal might live then, to what items they would try to bring back. But there wasn't much depth to any of it, prioritizing what to do first or which idea would gain the most influence and power to actually change things for the better while not being killed by brigands or assassins.
 
->> **u/Dwood15** [+3] *
+>> **u/Dwood15** [+3]  (4 hours later)
 >> 
 >> Before we go further with your question, we need a setting and some basic information, is this a "what if" (a Self-Insert) scenario or a character? How far back are we talking? Medieval? 1800s? Dinosaurs? Additionally, what's the location? Are they teleported to Japan? Africa? Is the character Male or Female? I would not want to be a lone female in some societies in modern times, let alone in 800 AD.
->> The more specific you get with this question, the more creative the answers can be, since we're restricted a bit.
->> These kinds of things depend entirely on the person, their understanding of the world, and their education level/type. Even very rational people can end up seeing a situation/world pretty differently, and will prioritize things differently in ways they feel would be in their self interest as well as any goal they've set themselves to achieving via some personal ethos they've adopted. (Ending slavery before it comes to America? Reducing the spread of infectious diseases? Increasing their own QoL without having a major impact on the future of the planet?)
->> Just some things to consider when you pose it. If you pick a time and location, I'll go the Self-Insert route and see wehre I can go from there.
 >> 
+>> The more specific you get with this question, the more creative the answers can be, since we're restricted a bit.
+>> 
+>> These kinds of things depend entirely on the person, their understanding of the world, and their education level/type. Even very rational people can end up seeing a situation/world pretty differently, and will prioritize things differently in ways they feel would be in their self interest as well as any goal they've set themselves to achieving via some personal ethos they've adopted. (Ending slavery before it comes to America? Reducing the spread of infectious diseases? Increasing their own QoL without having a major impact on the future of the planet?)
+>> 
+>> Just some things to consider when you pose it. If you pick a time and location, I'll go the Self-Insert route and see wehre I can go from there.
 
->>> **u/zajhein** [+1] *
+>>> **u/zajhein** [+1]  (6 hours later)
 >>> 
 >>> Well I was thinking about anyone wanting to contribute being sent back to multiple times and locations, kind of giving a broad range to choose from, but if you want specifics then how about a classic. Western Europe at the height of the Roman Empire, around 200 AD.
->>> Don't worry about changing the timeline since many people are being sent back as well and no one's disappearing from temporal paradoxes.
 >>> 
+>>> Don't worry about changing the timeline since many people are being sent back as well and no one's disappearing from temporal paradoxes.
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (6 hours later)
 >>>> 
 >>>> How do they know people are being sent back? If they can't alter the past, and you can't go to periods other than ancient rome, then all you've built is a machine that makes people permanently disappeared without a trace.
->>>> Or if you expand what time travel can do, then you inevitably end up with a singularity that propagates through nearly all universes at all times. That's actually kind of a bigger problem with time travel, how to explain why the future isn't propagating backwards and taking over all times.
 >>>> 
+>>>> Or if you expand what time travel can do, then you inevitably end up with a singularity that propagates through nearly all universes at all times. That's actually kind of a bigger problem with time travel, how to explain why the future isn't propagating backwards and taking over all times.
 
->>>>> **u/zajhein** [+1] *
+>>>>> **u/zajhein** [+1]  (8 hours later)
 >>>>> 
 >>>>> You know other people are being sent back because you can meet or hear about them after you arrive, and about anachronistic technologies that pop up from other parts of the world. For all you know this could be an alternate universe or timeline that doesn't affect your original one.
->>>>> But that's not the point of any of this, nor why you get sent back, only that it happens and you have to deal with it.
 >>>>> 
+>>>>> But that's not the point of any of this, nor why you get sent back, only that it happens and you have to deal with it.
 
->>>>>> **u/vakusdrake** [+1] *
+>>>>>> **u/vakusdrake** [+1]  (8 hours later)
 >>>>>> 
 >>>>>> No I mean, _how in the world you started out in_ did the people who used the technology to send you and others, _actually know this technology didn't wipe you from existence?_
+>>>>>> 
 >>>>>> If you want to not focus on that, I suppose you could just not explore what caused the people to be sent back in time. Which solves the obvious problems of why people would test _a machine that just seems to just make people disappear without a trace, on humans._
+>>>>>> 
 >>>>>> There's also kind of the indirect problem with how to allow time travel tech without having to deal with interactions with every point in the future that also has time travel tech.    
 >>>>>> However you could easily avert this, if you went with the prior suggestion and just had the characters flung through time due to some sort of unexplained phenomenon, which presumably isn't something that could be replicated by any future technology.
->>>>>> 
 
->>>>>>> **u/zajhein** [+1] *
+>>>>>>> **u/zajhein** [+1]  (9 hours later)
 >>>>>>> 
 >>>>>>> Yeah, I never mentioned the method people were transported at all as that would simply be a mystery to the person being transported and has little bearing on what they'll do after. It also has little to do with the topic I wanted to discuss.
->>>>>>> But if you insist on knowing the reason why this happens, it doesn't have to be a one way machine or device like you're assuming, it could simply be dumping people where it wants and returning without them knowing. It could be a phenomenon, machine, or even an alien that does this to people, but you don't even know you went back in time or to an alternate dimension, only that you appear to be in the Roman Empire, or to wherever it chooses to send you.
 >>>>>>> 
+>>>>>>> But if you insist on knowing the reason why this happens, it doesn't have to be a one way machine or device like you're assuming, it could simply be dumping people where it wants and returning without them knowing. It could be a phenomenon, machine, or even an alien that does this to people, but you don't even know you went back in time or to an alternate dimension, only that you appear to be in the Roman Empire, or to wherever it chooses to send you.
 
->>>>>>> **u/MrCogmor** [+1] *
+>>>>>>> **u/MrCogmor** [+1]  (9 hours later)
 >>>>>>> 
 >>>>>>> You could solve that issue rather simply by having the time-travel create temporary two way portals between the alternative universes that permanently close after a short time. Maybe make it so that  larger installations can extend the duration to a degree but it is prohibitively expensive and still lasts less than a day.
->>>>>>> 
 
-> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (13 hours later)
 > 
 > I'm welcoming ideas about an underground naga civilization and an undead Egypt-desert kingdom.
-> 
 
->> **u/nolrai** [+2] *
+>> **u/nolrai** [+2]  (a day later)
 >> 
 >> Nagas: Where is the human snake transition? Weather they have arms or not makes a huge difference, but weather they nurse their young is not unimportant. Where their "crotch" would effect their nudity taboos, but not much else, I think. 
->> Biologically the most natural transition point is probably near the sternum, but I'm not sure that matters. 
->> Egypt: well I think a lot depends on what sort of tone you are going for, and on how much work making and maintaining a mummy is. And how lifelike the undead are. I mean the actual Egyptian beliefs had very life like mummies, with at least one god being able to father a child post death and revival.
->> An interesting idea is if each generation of Pharoah gets their own eternal kingdom.
->> If you instead want a more pulp feel. .then I think the revival shouldn't be what the builders of the tombs intended, but rather some sort of later effect that made their material bodies come to life. 
->> Thoughts?
 >> 
+>> Biologically the most natural transition point is probably near the sternum, but I'm not sure that matters. 
+>> 
+>> Egypt: well I think a lot depends on what sort of tone you are going for, and on how much work making and maintaining a mummy is. And how lifelike the undead are. I mean the actual Egyptian beliefs had very life like mummies, with at least one god being able to father a child post death and revival.
+>> 
+>> An interesting idea is if each generation of Pharoah gets their own eternal kingdom.
+>> 
+>> If you instead want a more pulp feel. .then I think the revival shouldn't be what the builders of the tombs intended, but rather some sort of later effect that made their material bodies come to life. 
+>> 
+>> Thoughts?
 
->> **u/RatemirTheRed** [+1] *
+>> **u/RatemirTheRed** [+1]  (16 hours later)
 >> 
 >> IIRC, nagas are all great swimmers. My idea is to place them around several underground rivers and great underground lake. Sometimes, I imagine, human miners might come to the bank of this lake, scream in fear and run away, speaking of unspeakable horrors of Sunless Lake. (I am a huge fan of Fallen London and Sunless Sea \^_\^)
->> 
 
->> **u/Dwood15** [+1] *
+>> **u/Dwood15** [+1]  (a day later)
 >> 
 >> From the hidden on earth perspective or the magical world. Eg: Reign of fire dragons vs dungeons and dragons drow
->> 
 
-> **u/wtfbbc** [+3] *
+> **u/wtfbbc** [+4]  (41 minutes later)
 > 
 > Genius idea. I have nothing much to contribute (besides my continous "how would we write a rational Time War?" musing) but this is a perfect solution to my issues with that one sidebar rule. Bravo based mods.
-> 
 
->> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+>> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (4 hours later)
 >> 
 >> Doctor Who Time War? That seems difficult, considering how stubbornly defiant DW has been in the face of actually laying down many ground-rules for its time travel.
->> 
 
->>> **u/Adrastos42** [+7]  *I got a B in critical thinking!**
+>>> **u/Adrastos42** [+7]  *I got a B in critical thinking!* (4 hours later)
 >>> 
 >>> If you were going to make it rational while still feeling doctor who, I expect different methods of time travel would follow different rules. And TARDISes have access to multiple methods, because of course they do.
->>> 
 
->>>> **u/Aabcehmu112358** [+4]  *Utter Fallacy**
+>>>> **u/Aabcehmu112358** [+5]  *Utter Fallacy* (5 hours later)
 >>>> 
 >>>> True.
->>>> This reminds me, one of the supposed consequences of the Time War was that barrier between alternate universes became impermeable. That, to me, implies that there was at least some cross-timeline collaboration going on, if not full on exploitation of branching.
 >>>> 
+>>>> This reminds me, one of the supposed consequences of the Time War was that barrier between alternate universes became impermeable. That, to me, implies that there was at least some cross-timeline collaboration going on, if not full on exploitation of branching.
 
->>>>> **u/Adrastos42** [+7]  *I got a B in critical thinking!**
+>>>>> **u/Adrastos42** [+7]  *I got a B in critical thinking!* (5 hours later)
 >>>>> 
 >>>>> Bringing together every version of yourself/your race from across the multiverse in order to defeat your foe really does sound like a Doctor Who kind of plot, doesn't it? And nobody on the receiving end would want it to happen a second time:D
->>>>> 
 
->>>>>> **u/zajhein** [+3] *
+>>>>>> **u/zajhein** [+3]  (6 hours later)
 >>>>>> 
 >>>>>> Wasn't that the plot to Neil Gaiman's InterWorld? Except they were all from parallel universes instead of timelines.
->>>>>> 
 
->>>>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!**
+>>>>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!* (21 hours later)
 >>>>>>> 
 >>>>>>> No idea! Way behind on my Neil Gaiman reading.
->>>>>>> 
 
->>>>>> **u/wtfbbc** [+3] *
+>>>>>> **u/wtfbbc** [+3]  (20 hours later)
 >>>>>> 
 >>>>>> In the Doctor Who book *Warlords of Utopia*, set during the Time War, all versions of Earth where the Roman Empire never fell team up in a war against all versions of Earth where the Nazis won WWII. Highly recommended.
->>>>>> 
 
->>>>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!**
+>>>>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!* (21 hours later)
 >>>>>>> 
 >>>>>>> Fair enough, might have to add that to my to-read list then.
->>>>>>> 
 
->>> **u/MugaSofer** [+3] *
+>>> **u/MugaSofer** [+4]  (23 hours later)
 >>> 
 >>> I think, if I had to give a coherent account of DW timetravel, it would center around the analogy of time as a river - there are areas where it's fast-flowing and you can't do much or your changes risk being swept away by the time currents, "high ground" where any changes will cause the future to flow along a very different path and alterations are easy, and low points where events almost always converge and it's very difficult to tunnel through to an even lower ground-state.
->>> You can set up an ambush where the river is narrow and there's little room to maneuver, or wage a huge battle in the open water (where you might try to build something bigger, too.) You can seize valuable territory and blockade it to deny it from your enemies. You can poison the well upstream, or overfish. You might even be able to branch into, or merge with, or travel overland to another river.
->>> Basically, time travel works differently in different time periods (an idea *Who* has played with from time to time in a technobabble way.) You *deliberately try to exploit* areas with useful properties.
->>> You're safer in a place that follows HPMOR-style rules where you can't change the past, but more constrained; in a region where paradoxes kill you, you have to be incredibly careful; places where Time is flexible and cartoonish give you a lot of room to maneuver and are valuable for letting you build up forces, but you're likely to kill the local wildlife if you build too much there.
 >>> 
+>>> You can set up an ambush where the river is narrow and there's little room to maneuver, or wage a huge battle in the open water (where you might try to build something bigger, too.) You can seize valuable territory and blockade it to deny it from your enemies. You can poison the well upstream, or overfish. You might even be able to branch into, or merge with, or travel overland to another river.
+>>> 
+>>> Basically, time travel works differently in different time periods (an idea *Who* has played with from time to time in a technobabble way.) You *deliberately try to exploit* areas with useful properties.
+>>> 
+>>> You're safer in a place that follows HPMOR-style rules where you can't change the past, but more constrained; in a region where paradoxes kill you, you have to be incredibly careful; places where Time is flexible and cartoonish give you a lot of room to maneuver and are valuable for letting you build up forces, but you're likely to kill the local wildlife if you build too much there.
 
->>> **u/wtfbbc** [+3] *
+>>> **u/wtfbbc** [+3]  (20 hours later)
 >>> 
 >>> I thought [Sam Hughes' guess](https://qntm.org/who) was pretty good.
->>> 
 
->>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+>>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (22 hours later)
 >>>> 
 >>>> I don't think he really put forward a 'guess' in that article, and I don't think he was trying to. His top-down analysis isn't useful for a ratfic, unless the writer is willing to make it really meta, and, at least as I read it, his bottom-up analysis concludes that formulating a description of time is fruitless, and that any authors should simply allow it be a black box, available for use but never for in-character  inspection, which seems rather unideal for a ratfic, in my mind.
->>>> 
 
->>>>> **u/wtfbbc** [+2] *
+>>>>> **u/wtfbbc** [+2]  (a day later)
 >>>>> 
 >>>>> Since ratfic doesn't even try to be canonical, there's nothing wrong with a rational Doctor explaining to his companion the laws of this malleable, living thing called time.
->>>>> Although *Doctor Who* doesn't have a canon, and fanfic has become real far too many times in the past to be considered fanfic, but you know what I mean.
 >>>>> 
+>>>>> Although *Doctor Who* doesn't have a canon, and fanfic has become real far too many times in the past to be considered fanfic, but you know what I mean.
 
->>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor* (a day later)
 >>> 
 >>> Things I want to read: Doctor Who with Homestuck time-travel rules.
->>> 
 
->>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+>>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (a day later)
 >>>> 
 >>>> I wonder if the Doctor's regeneration is powered by Pure Immortality, like LE? It would make sense, since time lord regeneration explicitly involves some form of exotic energy, and Caliborn's classpect *is* Lord of Time.
->>>> 
 
->>> **u/MrCogmor** [+2] *
+>>> **u/MrCogmor** [+2]  (9 hours later)
 >>> 
 >>> You might want to have a look at https://en.wikipedia.org/wiki/Continuum_%28role-playing_game%29
->>> 
 
->>>> **u/Aabcehmu112358** [+2]  *Utter Fallacy**
+>>>> **u/Aabcehmu112358** [+2]  *Utter Fallacy* (17 hours later)
 >>>> 
 >>>> I am familiar with C^(o)ntinuum. It's certainly an interesting game, but I don't think it makes for an especially apt approximation of the shenanigans that the Doctor gets up to.
->>>> 
 
->> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (4 days later)
 >> 
 >> I actually want the Time War to stay a black box. Doctor Who has never established any permanent consistent inviolable rules of time travel, and if it did it wouldn't be the same show. Trying to figure out how two skilled opponents would play necessarily requires pinning down the rules of the game. Perhaps we'll see a minor skirmish or three, but the grand strategy of the Time War can never be written in a way that'll make me happy.
->> I prefer the possibilities of the post-War setting. The TARDIS is the last solar-powered aeroplane in a postapocalyptic wasteland.
 >> 
+>> I prefer the possibilities of the post-War setting. The TARDIS is the last solar-powered aeroplane in a postapocalyptic wasteland.
 
->>> **u/wtfbbc** [+2] *
+>>> **u/wtfbbc** [+2]  (4 days later)
 >>> 
 >>> > Perhaps we'll see a minor skirmish or three, but the grand strategy of the Time War can never be written in a way that'll make me happy.
->>> I support that. I liked the way it was handled in the Faction Paradox spinoff novels, or the connected BBC novels. What we *did* see in *Day of the Doctor* (and, particularly, the *Last Night* prequel) was much more like Star Wars than anything else. Very disappointing.
 >>> 
+>>> I support that. I liked the way it was handled in the Faction Paradox spinoff novels, or the connected BBC novels. What we *did* see in *Day of the Doctor* (and, particularly, the *Last Night* prequel) was much more like Star Wars than anything else. Very disappointing.
 
-> **u/blazinghand** [+2]  *Chaos Undivided**
+> **u/blazinghand** [+2]  *Chaos Undivided* (34 minutes later)
 > 
 > Oh, sounds like a good thread in general. I like the idea. It's a good way to sort of "mop up" worldbuilding/help threads into one thread, and it also puts more eyes on any individual discussion.
-> 
 
-> **u/LiteralHeadCannon** [+1] *
+> **u/LiteralHeadCannon** [+1]  (4 hours later)
 > 
 > Let's say that there are demons that take over people's bodies, permanently (or, well, at least indefinitely).  These demons have no knowledge or skills beyond those of their hosts, but their values are opposite.  Notably, this does *not* cause them to commit suicide at the first opportunity - because they know that the longer they stay alive, the more opportunities they have to do things that would upset the body's original owner.  How might we expect those possessed by such demons to behave?  Ignoring, of course, the obvious disaster scenarios of people with global power being possessed.
-> 
 
->> **u/vakusdrake** [+3] *
+>> **u/vakusdrake** [+3]  (5 hours later)
 >> 
 >> I'm curious how opposite values are defined, given not all values have opposites. The thing I think makes the most sense is that sadistic instincts are converted to altruism and vice versa. However selfishness isn't really a value per-say it's just the absence of altruistism, the _opposite_ of altruism as previously stated is sadism, or more generally a deliberate drive to commit actions one considers evil.
->> So I suspect someone pretty selfish would become selfless, however they still wouldn't care about other people, instead they would just cease to care about themselves, so without any other strong values they would probably commit suicide.
->> I suspect that the most common reactions to demons would be: Most people would probably end up reversing relationships making them kill their loved one's, after that they might then go onto do small scale serial killing probably targeting people the host would normally sympathise with the most. So most demons probably would go kill a bunch of children until caught.
->> Given most people are religious you would likely have a fair bit of variation due to that. Muslims and christians hosts would almost certainly go about trying to make people lose their faith, then killing them, and generally try to maximize the people who go to hell. Certain christian hold that once you are saved you can't be un-saved, so they would probably not bother spending their resources killing people who share their faith unless they are a figure who is likely to get multiple people saved in the future. Other religions I can't as easily make predictions about so I won't go into them here.
->> Oh and if the demons can work to get more people possessed, then they will probably work to do that above all else, provided they care about affecting the world in any way.
->> Plenty of governments would probably try to get any loyal enemy prisoners possessed, so their loyalty would turn into a strong desire to help their captors. Of course you would need to keep demonized enemies on a tight leash, because if they had any altruism they will likely be super evil (_though_ that may have certain benefits).
->> Also it would be _really_ good to know whether demon's can be exercised, and how possession works. If you have some specific setting in mind then telling us the details (medieval, or modern, etc).
 >> 
+>> So I suspect someone pretty selfish would become selfless, however they still wouldn't care about other people, instead they would just cease to care about themselves, so without any other strong values they would probably commit suicide.
+>> 
+>> I suspect that the most common reactions to demons would be: Most people would probably end up reversing relationships making them kill their loved one's, after that they might then go onto do small scale serial killing probably targeting people the host would normally sympathise with the most. So most demons probably would go kill a bunch of children until caught.
+>> 
+>> Given most people are religious you would likely have a fair bit of variation due to that. Muslims and christians hosts would almost certainly go about trying to make people lose their faith, then killing them, and generally try to maximize the people who go to hell. Certain christian hold that once you are saved you can't be un-saved, so they would probably not bother spending their resources killing people who share their faith unless they are a figure who is likely to get multiple people saved in the future. Other religions I can't as easily make predictions about so I won't go into them here.
+>> 
+>> Oh and if the demons can work to get more people possessed, then they will probably work to do that above all else, provided they care about affecting the world in any way.
+>> 
+>> Plenty of governments would probably try to get any loyal enemy prisoners possessed, so their loyalty would turn into a strong desire to help their captors. Of course you would need to keep demonized enemies on a tight leash, because if they had any altruism they will likely be super evil (_though_ that may have certain benefits).
+>> 
+>> Also it would be _really_ good to know whether demon's can be exercised, and how possession works. If you have some specific setting in mind then telling us the details (medieval, or modern, etc).
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (14 hours later)
 >>> 
 >>> The big thing to keep in mind is that self-preservation is not inverted, exactly - in fact, the demons themselves feel some sense of self-preservation, as they want to maintain a useful vessel. So, I don't think most demons will commit murder unless they think they can get away with it - or unless they see an opportunity to commit such extreme mass murder that it outweighs the personal consequences.
->>> It's a modern, apparently mundane setting. Demons can only be exorcised by the disenfranchised soul completing a difficult quest in an alternate universe. This has either never happened before or no one has ever been believed afterwards. The existence of demons is therefore essentially unknown. Demons (who aren't already possessing someone) will take any opportunity possible to possess someone, but have no control over those opportunities. The frame of mind most conducive to demonic possession is depression.
 >>> 
+>>> It's a modern, apparently mundane setting. Demons can only be exorcised by the disenfranchised soul completing a difficult quest in an alternate universe. This has either never happened before or no one has ever been believed afterwards. The existence of demons is therefore essentially unknown. Demons (who aren't already possessing someone) will take any opportunity possible to possess someone, but have no control over those opportunities. The frame of mind most conducive to demonic possession is depression.
 
->>>> **u/vakusdrake** [+4] *
+>>>> **u/vakusdrake** [+4]  (22 hours later)
 >>>> 
 >>>> Ah so if you are for some reason ensuring that the demons are thinking more long term then that makes it far worse ;)
+>>>> 
 >>>> I would like to know more about how possession works exactly, presumably most people who become suicidally depressed aren't being possessed. Depending on how it works demons might try to become psychologists, who would then deliberately prescribe medications and manipulate their patients so that their patients would be driven to the state of mind most conductive to possession.
+>>>> 
 >>>> If the setting is modern then you would expect nuclear war to be a likely outcome. Demons would take great care to end up in positions of power in multiple nations, they would then escalate into a cold war and build up reserves of nukes as high as they could, then they launch all the nukes (which were secretly dirty bombs designed to cause maximum fallout) to destroy most non-demons on the planet. 
+>>>> 
 >>>> If the demon population is smaller and less powerful they would likely instead pool their resources to develop biological weapons. 
 >>>> After spending a few billion on it they would likely be able to develop a highly contagious virus, the important thing would be that it has an long incubation period, in a few years basically everyone on the planet has the disease once it actually starts killing people, you would also design it after diseases like aids that people would have no chance of fighting off or developing vaccines for in the few years before ~99% of people were dead.
->>>> 
 
->> **u/MugaSofer** [+3] *
+>> **u/MugaSofer** [+3]  (a day later)
 >> 
 >> I personally wouldn't write about this idea, it sounds un-fun if confronted unflinchingly. Still, people manage to write about serial killers, and I guess it wouldn't be from their perspective.
->> Cutting themselves; more generally, forms of self-harm that are painful and humiliating, but not life-threatening or even crippling (BDSM people have put a lot of thought into these.) Cutting, slapping and burning onesself are the first things that come to mind for most people.
->> Psychopathic/sociopathic behaviour. More than that; this is a psychopath with a burning desire to torture and kill other people, which probably means a cannibalistic serial killer *and* children in the basement *and* serial rape ... but probably more cautious than the ones you see on the news, who are already by definition pretty darn cautious in order to make it far enough to become newsworthy. But also your usual abusive relationships, scams, and shady financial dealings because money is useful no matter what your utility function.
->> Since most people are religious, our demon will commit blasphemy and try to get themself sent to hell; more notably, they'll try to get other people sent to hell via the easiest available means. To the extent that people end up contradicting themselves because they want to believe (both in religious and philisophical terms), our demon will contradict themself because they want *not* to believe but can't deny it (because they retain the host's world-model and (lack of) knowledge.)
->> Any loved ones they had are probably dead, caution or no caution ... unless they're locked in the basement. 
->> Since it takes a while to reason things out, I'd expect a brief period of spazzing out as everything they did because they *wanted* to is suddenly inverted without any coping mechanisms. Probably building up from "immediate pain feedback is now orgasmic" to more complex ideas.
 >> 
+>> Cutting themselves; more generally, forms of self-harm that are painful and humiliating, but not life-threatening or even crippling (BDSM people have put a lot of thought into these.) Cutting, slapping and burning onesself are the first things that come to mind for most people.
+>> 
+>> Psychopathic/sociopathic behaviour. More than that; this is a psychopath with a burning desire to torture and kill other people, which probably means a cannibalistic serial killer *and* children in the basement *and* serial rape ... but probably more cautious than the ones you see on the news, who are already by definition pretty darn cautious in order to make it far enough to become newsworthy. But also your usual abusive relationships, scams, and shady financial dealings because money is useful no matter what your utility function.
+>> 
+>> Since most people are religious, our demon will commit blasphemy and try to get themself sent to hell; more notably, they'll try to get other people sent to hell via the easiest available means. To the extent that people end up contradicting themselves because they want to believe (both in religious and philisophical terms), our demon will contradict themself because they want *not* to believe but can't deny it (because they retain the host's world-model and (lack of) knowledge.)
+>> 
+>> Any loved ones they had are probably dead, caution or no caution ... unless they're locked in the basement. 
+>> 
+>> Since it takes a while to reason things out, I'd expect a brief period of spazzing out as everything they did because they *wanted* to is suddenly inverted without any coping mechanisms. Probably building up from "immediate pain feedback is now orgasmic" to more complex ideas.
 
->> **u/Adrastos42** [+2]  *I got a B in critical thinking!**
+>> **u/Adrastos42** [+2]  *I got a B in critical thinking!* (5 hours later)
 >> 
 >> How easy is it to tell someone is possessed? If it's difficult, I'd expect plent of abuse of the trust the original owner had earned from people. Starting at "you're dumped lol" and going way, way, up.
->> 
 
->> **u/ulyssessword** [+2] *
+>> **u/ulyssessword** [+2]  (5 hours later)
 >> 
 >> Terrorism, (non-targeted) mass murder, and (targeted) spree killing seem like the most likely scenarios in the current world, at least for average people.  It would take a *lot* of power to be able to do something worse than killing a bunch of people (or else different definitions of "worse").
->> 
 
-> **u/Jakkubus** [+1] *
+> **u/Jakkubus** [+1]  (3 days later)
 > 
 > As for perfect prison, in a superhero setting I am working at keeping  supervillains in normal jails would be really troublesome, since many of them can easily obliterate any conventional lock-up, so putting them behind the bars is not the best option. That's why someone clever decided to shut these criminals in Virtual Reality and block every movement command from the brain to the body (as well as sensory information from the body to the brain) of any prisoner. Of course they are put in virtual worlds serving their prison rehabilitation.
-> How would you break from something like that?
 > 
+> How would you break from something like that?
 
->> **u/TennisMaster2** [+1] *
+>> **u/TennisMaster2** [+1]  (4 days later)
 >> 
 >> Would depend on their powers, but I'd craft the worlds such that they subversively instill functional societal values in the prisoners; ideally they'd never know they were in a virtual reality.  Provably (fMRI?) irredeemable sociopaths would be put in virtual prisons, and the video feeds from those prisons would be what's transmitted to the outside world if necessary to maintaining the ruse.
->> 
 
 ---
 

@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/onlynega** [+3] *
+> **u/onlynega** [+3]  (5 hours later)
 > 
 > So is Hide going to be a rouge added to our band, or it's antagonist? Interesting turn.
-> 
 
->> **u/MimicSquid** [+2] *
+>> **u/MimicSquid** [+2]  (16 hours later)
 >> 
 >> There's already the set of races in the caravan; purely on narrative structure I expect antagonist.
->> 
 
-> **u/eltegid** [+2] *
+> **u/eltegid** [+2]  (2 days later)
 > 
 > I tried reading this yesterday. I'm quite liking it!
-> 
 
 ---
 

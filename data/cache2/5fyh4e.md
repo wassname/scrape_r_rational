@@ -26,20 +26,17 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (26 minutes later)
 > 
 > Ouch.  That ending was hardcore, /u/Velorien.  You got me right in the feels, well done.
-> 
 
->> **u/oliwhail** [+1]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+1]  *Omake-Maximizing AGI* (32 minutes later)
 >> 
 >> [<:](#s "That dedication to barely being on this side of abject trolling, though.")
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (38 minutes later)
 >>> 
 >>> [](#s "Trolling?!  I was totally serious! He just broke the cutie!")
->>> 
 
 ---
 

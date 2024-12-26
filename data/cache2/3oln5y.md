@@ -2,7 +2,7 @@
 
 * Author: u/rrobukef *
 * URL: https://www.reddit.com/r/rational/comments/3oln5y/q_killing_all_simulated_mes/
-* Score: 4
+* Score: 6
 
 * Created: 2015-10-13T16:05:08
 
@@ -20,123 +20,133 @@ Seriously, why do I need to care to not turn myself off?
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+10]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+11]  *Emergency Mustelid Hologram* (12 minutes later)
 > 
 > First: simulated-you is still a person. Even if you're not simulating yourself and there's no causal relationship, turning off the simulation is still killing, well, a world-ful of people.
-> Second: the you that isn't being simulated (or the first you that diverges from the steady state going upwards) isn't you any more. Because when he turned around he didn't see a sphere. But the you directly above you and all the other ones up to the level where one of the yous had the idea of creating the sphere, they're all you and thinking and acting the same way. If you turn the simulation off, then so will all the yous up to that point because they're all identical. So you'll be gone.
-> The first one who didn't see the sphere, he might still exist because he may have made a different decision based on different inputs. He's also not the same as the one above him, because the one above him didn't think to create the sphere in the first place. But you're on a deeper turtle, one where it's statistically improbable that you aren't the highest level to consider turning it off.
-> So, it's probable that if you turn yourself off, the you in the level above did too.
 > 
+> Second: the you that isn't being simulated (or the first you that diverges from the steady state going upwards) isn't you any more. Because when he turned around he didn't see a sphere. But the you directly above you and all the other ones up to the level where one of the yous had the idea of creating the sphere, they're all you and thinking and acting the same way. If you turn the simulation off, then so will all the yous up to that point because they're all identical. So you'll be gone.
+> 
+> The first one who didn't see the sphere, he might still exist because he may have made a different decision based on different inputs. He's also not the same as the one above him, because the one above him didn't think to create the sphere in the first place. But you're on a deeper turtle, one where it's statistically improbable that you aren't the highest level to consider turning it off.
+> 
+> So, it's probable that if you turn yourself off, the you in the level above did too.
 
->> **u/rrobukef** [+1] *
+>> **u/rrobukef** [+1]  (4 hours later)
 >> 
 >> You're not killing a world full of people. You're just stopping a full copy. There is no value in it. If you're in it you have no value. 'I as an equivalence class have no intrinsic value.' You should be saving entropy in your universe. 
->> If you want them to have value they need to be different. And since the only way to make them different is to give them their number on the ladder. Which takes an infinite amount of space (and probably time). 
->> I wouldn't know what to do if I knew a priori that I'm not a simulation. (But who cares about the 0%?) Don't care and you lose nothing, do care and multiply the amount of suffering and happiness with an arbitrary large number.
 >> 
+>> If you want them to have value they need to be different. And since the only way to make them different is to give them their number on the ladder. Which takes an infinite amount of space (and probably time). 
+>> 
+>> I wouldn't know what to do if I knew a priori that I'm not a simulation. (But who cares about the 0%?) Don't care and you lose nothing, do care and multiply the amount of suffering and happiness with an arbitrary large number.
 
->>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>> **u/Bowbreaker** [+2]  *Solitary Locust* (21 hours later)
 >>> 
 >>> Is the copy a perfect copy that doesn't even diverge after you created said copy? Like, once you start said copy, if you then decide to take an action knowing that there's a simulated copy of you will your copy take the same action?
->>> If yes, chances are turning off the copy would be suicide.
->>> If no, then the copy is distinct from you and deserves to live no less than you deserve to.
 >>> 
+>>> If yes, chances are turning off the copy would be suicide.
+>>> 
+>>> If no, then the copy is distinct from you and deserves to live no less than you deserve to.
 
->>>> **u/rrobukef** [+3] *
+>>>> **u/rrobukef** [+3]  (a day later)
 >>>> 
 >>>> I have no problem with certain metaphysical suicide...
->>>> 
 
->> **u/gabbalis** [+0] *
+>> **u/gabbalis** [+0]  (23 minutes later)
 >> 
 >> Further, its true, the one at the top isn't culpable and has nobody to answer to. He could turn you off, and nothing would stop him, though if hes nice he might run the simulation in fast forward for a couple trillion years first.
->> Either way, he is beyond your power, and assuming he will turn you off is useless, so it's better to just assume he won't and work from there.
 >> 
+>> Either way, he is beyond your power, and assuming he will turn you off is useless, so it's better to just assume he won't and work from there.
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (44 minutes later)
 >>> 
 >>> [Also](http://www.amazon.com/Stones-Significance-David-Brin-ebook/dp/B0056A23TA)
->>> 
 
-> **u/diraniola** [+6] *
+> **u/diraniola** [+6]  (16 hours later)
 > 
 > I say that having predetermined to NOT kill copies of yourself is valuable in that any copies made after that predetermination will also not kill copies of themselves, namely you. Mutual cooperation with yourself has the largest net value.
-> 
 
-> **u/JackStargazer** [+6]  *Primordial Apologist**
+> **u/JackStargazer** [+7]  *Primordial Apologist* (21 minutes later)
 > 
 > Lets say you simulate yourself perfectly, standing in front of a box simulating yourself perfectly, standing in front of a box....
-> This goes on a while.
-> The point is that there are now NI simulated yous, and 1 'real' you.
-> **They are all identical, they will all make the same decision.**
-> They all have the same memories. They do not know they are simulations.
-> To each of them, they are on the top with NI simulated them's below.
-> If they decide to kill those below, all but 1 of them will die.
-> Because they have no information on which of them is the real one, that means there is a 1/NI chance that they will survive, and a NI-1/NI chance that they will die.
-> For reference, the air molecules in front of you have more of a chance of spontaneously reforming into a perfect copy of Elvis and beginning to dance.
-> So, you can either be a person who commits suicide NI-1 times, or one who doesn't. 
-> Keeping in mind that the you thinking and making the decision has no idea which he is, no rational person chooses to kill themselves with near 100% probability.
-> So, that's why you don't turn yourself off.
 > 
+> This goes on a while.
+> 
+> The point is that there are now NI simulated yous, and 1 'real' you.
+> 
+> **They are all identical, they will all make the same decision.**
+> 
+> They all have the same memories. They do not know they are simulations.
+> 
+> To each of them, they are on the top with NI simulated them's below.
+> 
+> If they decide to kill those below, all but 1 of them will die.
+> 
+> Because they have no information on which of them is the real one, that means there is a 1/NI chance that they will survive, and a NI-1/NI chance that they will die.
+> 
+> For reference, the air molecules in front of you have more of a chance of spontaneously reforming into a perfect copy of Elvis and beginning to dance.
+> 
+> So, you can either be a person who commits suicide NI-1 times, or one who doesn't. 
+> 
+> Keeping in mind that the you thinking and making the decision has no idea which he is, no rational person chooses to kill themselves with near 100% probability.
+> 
+> So, that's why you don't turn yourself off.
 
->> **u/gabbalis** [+3] *
+>> **u/gabbalis** [+3]  (55 minutes later)
 >> 
 >> rrobukef's argument as I understand it is:
->> * If you are identical to the person in the top universe, then, by some theories of consciousness halting another identical copy of yourself in a lower universe doesn't kill you in any way. (It doesn't matter how many redundant processors you run on, there is just one 'You', so halting all but one processor changes nothing.)
->> * If you aren't identical to the person in the top universe then your decisions aren't indicative of his decisions, and therefore choosing to spare the universes below yourself does not guarantee your safety.
->> Besides that... in the story the character does know which he is. He knows hes a simulation.
 >> 
+>> * If you are identical to the person in the top universe, then, by some theories of consciousness halting another identical copy of yourself in a lower universe doesn't kill you in any way. (It doesn't matter how many redundant processors you run on, there is just one 'You', so halting all but one processor changes nothing.)
+>> 
+>> * If you aren't identical to the person in the top universe then your decisions aren't indicative of his decisions, and therefore choosing to spare the universes below yourself does not guarantee your safety.
+>> 
+>> Besides that... in the story the character does know which he is. He knows hes a simulation.
 
->>> **u/rrobukef** [+2] *
+>>> **u/rrobukef** [+2]  (4 hours later)
 >>> 
 >>> Yes, but only as long as you either are a simulation (proven) or don't know whether you're a simulation (unproven 100% chance). If you know you're at the top of your chain, then it may be different. 
->>> Perhaps you shouldn't kill all those 'not you anymore's.
 >>> 
+>>> Perhaps you shouldn't kill all those 'not you anymore's.
 
->> **u/Geminii27** [+2] *
+>> **u/Geminii27** [+2]  (6 hours later)
 >> 
 >> Technically, if all of me are *precisely* identical, then turning off all the other copies of me will not destroy any information. For any of the simulated copies, being turned off would not be any different to being teleported into the place of the 'top' copy. The pattern continues.
->> However, due to quantum disturbances, the only way that all the copies could be precisely identical would be if their state was being continually refreshed from the top copy's state, in order to prevent them from diverging. So all the copies would be, effectively, mirror images of the top copy rather than separate lives. They can be created anew simply by switching the simulator back on - death would mean nothing to NI of me because it would be temporary and imperceptable. (And of course it would also be my choice.)
->> Now if the copies were allowed to *diverge*, that's a different philosophical question.
 >> 
+>> However, due to quantum disturbances, the only way that all the copies could be precisely identical would be if their state was being continually refreshed from the top copy's state, in order to prevent them from diverging. So all the copies would be, effectively, mirror images of the top copy rather than separate lives. They can be created anew simply by switching the simulator back on - death would mean nothing to NI of me because it would be temporary and imperceptable. (And of course it would also be my choice.)
+>> 
+>> Now if the copies were allowed to *diverge*, that's a different philosophical question.
 
->> **u/rrobukef** [+1] *
+>> **u/rrobukef** [+1]  (4 hours later)
 >> 
 >> No, he's me, I'm him. And I'm not real. I don't kill myself, I just stop existing. Or I become one again. Either way, I have not gained or lost anything. The world has not gained or lost anything.
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (3 hours later)
 > 
 > Congratulations, you just decided to commit speciecide and have a very large chance of dying in the process.  Why this is a terrible idea is left as an exercise to the reader.
-> 
 
-> **u/electrace** [+2] *
+> **u/electrace** [+2]  (an hour later)
 > 
 > >Either the one at the top is ME or NOT ME. 
-> It's not necessarily binary. They could be 99.999% you, and so any decision that you make would be an extremely good indicator of what they will do.
 > 
+> It's not necessarily binary. They could be 99.999% you, and so any decision that you make would be an extremely good indicator of what they will do.
 
-> **u/Uncaffeinated** [+2] *
+> **u/Uncaffeinated** [+2]  (10 hours later)
 > 
 > The real problem with Things of Interest is that it is difficult to formalize a system in which it is possible.
-> The story is basically throwing infinity at a problem and then saying "look, weird things probably happen when infinity is involved." Which is both obvious and not terribly relevant.
-> If you want a better example of infinity weirdness, consider the classic hats puzzle. You have a countably infinite line of people numbered 0, 1, .... Each person has a white or black hat. Each person can see the hats of everyone with a higher number but not their own or anyone behind them. Starting with 0 and going up, each person guesses what color hat they have. None of the people can hear each other's guesses or communicate in any way once they see the hats, though they can agree on a plan beforehand. Assuming axiom of choice, there is a strategy which guarantees that all but finitely many people guess correctly, even though this seems impossible.
 > 
+> The story is basically throwing infinity at a problem and then saying "look, weird things probably happen when infinity is involved." Which is both obvious and not terribly relevant.
+> 
+> If you want a better example of infinity weirdness, consider the classic hats puzzle. You have a countably infinite line of people numbered 0, 1, .... Each person has a white or black hat. Each person can see the hats of everyone with a higher number but not their own or anyone behind them. Starting with 0 and going up, each person guesses what color hat they have. None of the people can hear each other's guesses or communicate in any way once they see the hats, though they can agree on a plan beforehand. Assuming axiom of choice, there is a strategy which guarantees that all but finitely many people guess correctly, even though this seems impossible.
 
-> **u/khafra** [+2] *
+> **u/khafra** [+2]  (a day later)
 > 
 > [Dr. Evil explains](https://www.princeton.edu/~adame/papers/drevil/drevil.pdf).
-> 
 
-> **u/gabbalis** [+1] *
+> **u/gabbalis** [+1]  (39 minutes later)
 > 
 > ... Of course computers of this and above universes can have infinite processing power, so you may not be entirely doomed if you halt the program due to the principle espoused in 'The Finale of the Ultimate Meta Mega Crossover'
-> 
 
-> **u/Frommerman** [+1] *
+> **u/Frommerman** [+1]  (a day later)
 > 
 > In such a situation, you must stop thinking of decisions you make as being made by you, for you, but rather as decisions being made by an infinite number of yous, for each of the infinity. Your decisions affect what happens to every simulation below you, but the fact that you would make such decisions at all makes it exceedingly likely that the simulations *above* you would make the same decisions. Turn the box off, and it is almost 100% likely that someone above you chose to do that as well, and then you get turned off.
-> 
 
 ---
 

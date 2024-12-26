@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Dwood15** [+1] *
+> **u/Dwood15** [+1]  (45 minutes later)
 > 
 > Yes...
-> 
 
 ---
 

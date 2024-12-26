@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/ThreeTiredPenguins** [+3] *
+> **u/ThreeTiredPenguins** [+3]  (an hour later)
 > 
 > How about on 1/03?
-> 
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (2 hours later)
 > 
 > This kind of post isn't at the level of substance/relevance that we really want on this subreddit, sorry. It would be better suited to /r/motheroflearning.
-> 
 
-> **u/MagicwaffIez** [+1] *
+> **u/MagicwaffIez** [+1]  (25 minutes later)
 > 
 > i hope so~
-> 
 
 ---
 

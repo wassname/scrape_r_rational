@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Xxzzeerrtt** [+1] *
+> **u/Xxzzeerrtt** [+1]  (12 minutes later)
 > 
 > You are in the wrooooooong sub for this sort of post, prepare to get eaten alive
-> 
 
-> **u/Veedrac** [+1] *
+> **u/Veedrac** [+1]  (53 minutes later)
 > 
 > Don't spam subreddits.
-> 
 
 ---
 

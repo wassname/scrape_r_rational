@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.spacebattles.com/posts/21811251/
-* Score: 9
+* Score: 8
 
 * Created: 2016-04-20T10:37:11
 
@@ -12,39 +12,37 @@
 
 ### Comments:
 
-> **u/Anderkent** [+1] *
+> **u/Anderkent** [+1]  (4 hours later)
 > 
 > This looks really interesting but there's no thread marks for posts >11 making this so hard to read...
-> 
 
->> **u/ulyssessword** [+1] *
+>> **u/ulyssessword** [+1]  (a day later)
 >> 
 >> https://forums.spacebattles.com/goto/post?id=21083920#post-21083920
->> If I did it right, that should link to a chapter list.  It's still not as good as theeadmarks, but it's something.
 >> 
+>> If I did it right, that should link to a chapter list.  It's still not as good as theeadmarks, but it's something.
 
-> **u/superk2001** [+1] *
+> **u/superk2001** [+1]  (3 days later)
 > 
 > I just read it all, very interesting.
-> I wonder if the US and Russia will form an alliance, they seem to be somewhat cooperating now.
 > 
+> I wonder if the US and Russia will form an alliance, they seem to be somewhat cooperating now.
 
-> **u/Wireless-Wizard** [+1]  *The Foundation**
+> **u/Wireless-Wizard** [+1]  *The Foundation* (6 days later)
 > 
 > I'm now fully caught up on this, and liking it so far.
-> My only minor gripe is that, as with *seemingly every single Rationalist story ever*, our protagonist just so happens to be a fan of SF.
 > 
+> My only minor gripe is that, as with *seemingly every single Rationalist story ever*, our protagonist just so happens to be a fan of SF.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (6 days later)
 >> 
 >> I don't think it's a rationalist story.
->> 
 
->>> **u/Wireless-Wizard** [+1]  *The Foundation**
+>>> **u/Wireless-Wizard** [+1]  *The Foundation* (6 days later)
 >>> 
 >>> Oh for crying out loud you know what I mean.
->>> Don't get your semantics in a twist.
 >>> 
+>>> Don't get your semantics in a twist.
 
 ---
 

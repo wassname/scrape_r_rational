@@ -2,7 +2,7 @@
 
 * Author: u/die247 *
 * URL: https://www.reddit.com/r/rational/comments/d6v9ty/any_good_suggestions_for_rational_kingdom/
-* Score: 33
+* Score: 30
 
 * Created: 2019-09-20T13:56:07
 
@@ -20,240 +20,250 @@ Thank you in advance for anyone who has suggestions!
 
 ### Comments:
 
-> **u/Frankenlich** [+19]  *Ankh-Morpork City Watch**
+> **u/Frankenlich** [+20]  *Ankh-Morpork City Watch* (2 hours later)
 > 
 > Two Year Emperor seems right up this alley. Its a "summoned to a DnD-based world to be King of a country" story. Was originally a web move but I think it's on Amazon now.
-> 
 
->> **u/eaglejarl** [+24] *
+>> **u/eaglejarl** [+20]  (4 hours later)
 >> 
 >> Also free download from http://patreon.com/davidstorrs Along with my second novel.
->> 
 
->>> **u/Sonderjye** [+1] *
+>>> **u/Sonderjye** [+1]  (21 hours later)
 >>> 
 >>> I love the prompt for your second novel.
->>> 
 
-> **u/None** [+19] *
+> **u/None** [+19]  (12 hours later)
 > 
 > Note: Not all of my recommendations are good and very few are actually complete. Also, you will have to sort through it to find what you are looking for.
-
-> Personal Favorites:
-> * [Out of Space](https://www.royalroad.com/fiction/19690/out-of-space) - Not a very detailed magic system or even good grammar, but makes up for it with content.
-> * [Dah Ork Life!](https://www.royalroad.com/fiction/19610/dah-ork-life) - a warhammer 40k self insert, although not rational it is pretty funny.
-> * [Release That Witch](https://www.novelupdates.com/series/release-that-witch/) - if you can stand the translation it probably fits what you want the most, though with the large chapter count it does tend to drag in places. I've finished it and it was worth it.
-> * [Cultivating Civilization](https://www.royalroad.com/fiction/18594/cultivating-civilization) - might fall under "all my enemies are just stupid" but otherwise good.
-> * [Infrastructure](https://forums.spacebattles.com/threads/infrastructure-an-illustrated-original-work.209283/) very dry, lacking in character interaction. But look, Pictures!
-
-> Others:
-> * [Sauron's World](https://forums.spacebattles.com/threads/saurons-world-lord-of-the-rings-fanfiction.589980/) - Same author as infrastructure
-> * [I am Urist](https://www.royalroad.com/fiction/15756/i-am-urist-book-2-start) - Haven't read and doesn't look like there is modern knowledge otherwise but fits otherwise.
-> * [Fae is Foul](https://forums.spacebattles.com/threads/fae-is-foul-sao-znt-crossover.252187/) - has hints of industrialization like every twenty chapters.
-> * [Halkegenia Online](https://forums.sufficientvelocity.com/threads/halkegenia-online-thread-24-please-stand-by.17386/page-263#post-12974511) same as fae is foul, a lot more content.
-> * [A Young Woman's Political Record](https://old.reddit.com/r/rational/comments/d6v9ty/any_good_suggestions_for_rational_kingdom/)
-
-> There are a few in ASoIaF (I think):
-> * [A Song of Ice and Fires That Weren't All My fault](https://forums.spacebattles.com/threads/a-song-of-ice-and-fires-that-werent-all-my-fault-asoiaf-dresden-files.336) - Has some (not much) future knowledge use.
-> * [The Westerosi](https://forums.spacebattles.com/threads/the-westerosi-asoiaf.393327/) - probably what you want but will take a while to get there.
-> * [The Westerosi II: Subprime Directives](https://forums.spacebattles.com/threads/the-westerosi-ii-subprime-directives-asoiaf-star-trek-ish.561856/)
-> * [A Farmer's Tale](https://forums.spacebattles.com/threads/a-farmers-tale-asoiaf.608353/) - basically slowly introducing technology, didn't get very far in this one.
-> * [The King in the Long Night](https://forums.spacebattles.com/threads/the-king-in-the-long-night-asoiaf-got-stellaris-uplift-project.578392/) - Didn't get far in this one either but looks good.
-> * [Greyjoy alla Breve](https://forums.spacebattles.com/threads/asoiaf-greyjoy-alla-breve-si.352019/) Only recommending this because of how much modern knowledge he has (wikipedia in his head or something?) didn't read it myself because it's a self insert.
-
-> If you can stand ponies:
-> * [Zebrican Warlord](https://www.fimfiction.net/story/403715/zebrican-warlord) - No actual ponies and surprisingly good. Focuses mostly on overthrowing a regime so far.
-> * ~~[Of the Hive](https://www.fimfiction.net/story/133544/of-the-hive)~~ Nevermind, no real otherworld knowledge.
-> * ~~[Empty Horizons](https://www.fimfiction.net/story/316852/empty-horizons)~~ Same as above.
-> * [Luna is a Harsh Mistress](https://www.fimfiction.net/story/439981/luna-is-a-harsh-mistress) - This one is really good, about survival and building a city on the moon with magic. some modern knowledge
-> * [The Diamond Dog's Guide to Engineering](https://www.fimfiction.net/story/306787/the-diamond-dogs-guide-to-engineering) - Human with knowledge of engineering then builds a civilization. Fair warning that is only part of the story and it is short.
-
-> There is also some in anime/manga/light novels:
-> * [Common Sense of a Duke’s Daughter](https://www.novelupdates.com/series/common-sense-of-a-dukes-daughter/) - Honestly the only good one that I've found in this genre, the sad thing is that more exist they are just plagued by harems and generally bad writing.
-
-> Some that might possibly head in that direction and deserve an honorable mention:
-> * [Record of the Inherited Memory Girl's Efforts](https://forums.sufficientvelocity.com/threads/record-of-the-inherited-memory-girls-efforts-isekai.50880/) - Written by the same person who wrote "A Hero's War" and waaay better than it even if it is a lot shorter.
-> * [Purple Days](https://forums.spacebattles.com/threads/purple-days-asoiaf-joffrey-timeloop-au.450894/) - I haven't read much of this one because the pacing is a little too slow for me, but I expect what you want will be an eventual outcome though that is a guess.
-
-> Stories about civilizations that have little to do with isekai:
-> * [Hope and Silence in the Hive](https://forums.spacebattles.com/threads/hope-and-silence-in-the-hive-warhammer-40k-complete.583942/) - An eldritch comedy that is really good, occasionally confusing but worth it in the end.
-> * [Terror & Peace Among the Stars](https://forums.spacebattles.com/threads/terror-peace-among-the-stars-sequel-warhammer-40k.672535/) - a sequel to the above.
-> * [Contact 1955](https://forums.spacebattles.com/threads/contact-1955.328914/) - Pretty massive plot hole of how exactly technology does not develop when it has the whole galaxy (possibly larger) to work on it, even with magic involved, not very long either, but still fun.
-> * [Previously Impossible Futures](https://forums.spacebattles.com/threads/previously-impossible-futures-warhammer-40-000-original.752587/) - Pretty sure this one was a little dry but still interesting enough.
 > 
+> Personal Favorites:
+> 
+> * [Out of Space](https://www.royalroad.com/fiction/19690/out-of-space) - Not a very detailed magic system or even good grammar, but makes up for it with content.
+> 
+> * [Dah Ork Life!](https://www.royalroad.com/fiction/19610/dah-ork-life) - a warhammer 40k self insert, although not rational it is pretty funny.
+> 
+> * [Release That Witch](https://www.novelupdates.com/series/release-that-witch/) - if you can stand the translation it probably fits what you want the most, though with the large chapter count it does tend to drag in places. I've finished it and it was worth it.
+> 
+> * [Cultivating Civilization](https://www.royalroad.com/fiction/18594/cultivating-civilization) - might fall under "all my enemies are just stupid" but otherwise good.
+> 
+> * [Infrastructure](https://forums.spacebattles.com/threads/infrastructure-an-illustrated-original-work.209283/) very dry, lacking in character interaction. But look, Pictures!
+> 
+> Others:
+> 
+> * [Sauron's World](https://forums.spacebattles.com/threads/saurons-world-lord-of-the-rings-fanfiction.589980/) - Same author as infrastructure
+> 
+> * [I am Urist](https://www.royalroad.com/fiction/15756/i-am-urist-book-2-start) - Haven't read and doesn't look like there is modern knowledge otherwise but fits otherwise.
+> 
+> * [Fae is Foul](https://forums.spacebattles.com/threads/fae-is-foul-sao-znt-crossover.252187/) - has hints of industrialization like every twenty chapters.
+> 
+> * [Halkegenia Online](https://forums.sufficientvelocity.com/threads/halkegenia-online-thread-24-please-stand-by.17386/page-263#post-12974511) same as fae is foul, a lot more content.
+> 
+> * [A Young Woman's Political Record](https://old.reddit.com/r/rational/comments/d6v9ty/any_good_suggestions_for_rational_kingdom/)
+> 
+> There are a few in ASoIaF (I think):
+> 
+> * [A Song of Ice and Fires That Weren't All My fault](https://forums.spacebattles.com/threads/a-song-of-ice-and-fires-that-werent-all-my-fault-asoiaf-dresden-files.336) - Has some (not much) future knowledge use.
+> 
+> * [The Westerosi](https://forums.spacebattles.com/threads/the-westerosi-asoiaf.393327/) - probably what you want but will take a while to get there.
+> 
+> * [The Westerosi II: Subprime Directives](https://forums.spacebattles.com/threads/the-westerosi-ii-subprime-directives-asoiaf-star-trek-ish.561856/)
+> 
+> * [A Farmer's Tale](https://forums.spacebattles.com/threads/a-farmers-tale-asoiaf.608353/) - basically slowly introducing technology, didn't get very far in this one.
+> 
+> * [The King in the Long Night](https://forums.spacebattles.com/threads/the-king-in-the-long-night-asoiaf-got-stellaris-uplift-project.578392/) - Didn't get far in this one either but looks good.
+> 
+> * [Greyjoy alla Breve](https://forums.spacebattles.com/threads/asoiaf-greyjoy-alla-breve-si.352019/) Only recommending this because of how much modern knowledge he has (wikipedia in his head or something?) didn't read it myself because it's a self insert.
+> 
+> If you can stand ponies:
+> 
+> * [Zebrican Warlord](https://www.fimfiction.net/story/403715/zebrican-warlord) - No actual ponies and surprisingly good. Focuses mostly on overthrowing a regime so far.
+> 
+> * ~~[Of the Hive](https://www.fimfiction.net/story/133544/of-the-hive)~~ Nevermind, no real otherworld knowledge.
+> 
+> * ~~[Empty Horizons](https://www.fimfiction.net/story/316852/empty-horizons)~~ Same as above.
+> 
+> * [Luna is a Harsh Mistress](https://www.fimfiction.net/story/439981/luna-is-a-harsh-mistress) - This one is really good, about survival and building a city on the moon with magic. some modern knowledge
+> 
+> * [The Diamond Dog's Guide to Engineering](https://www.fimfiction.net/story/306787/the-diamond-dogs-guide-to-engineering) - Human with knowledge of engineering then builds a civilization. Fair warning that is only part of the story and it is short.
+> 
+> There is also some in anime/manga/light novels:
+> 
+> * [Common Sense of a Duke’s Daughter](https://www.novelupdates.com/series/common-sense-of-a-dukes-daughter/) - Honestly the only good one that I've found in this genre, the sad thing is that more exist they are just plagued by harems and generally bad writing.
+> 
+> Some that might possibly head in that direction and deserve an honorable mention:
+> 
+> * [Record of the Inherited Memory Girl's Efforts](https://forums.sufficientvelocity.com/threads/record-of-the-inherited-memory-girls-efforts-isekai.50880/) - Written by the same person who wrote "A Hero's War" and waaay better than it even if it is a lot shorter.
+> 
+> * [Purple Days](https://forums.spacebattles.com/threads/purple-days-asoiaf-joffrey-timeloop-au.450894/) - I haven't read much of this one because the pacing is a little too slow for me, but I expect what you want will be an eventual outcome though that is a guess.
+> 
+> Stories about civilizations that have little to do with isekai:
+> 
+> * [Hope and Silence in the Hive](https://forums.spacebattles.com/threads/hope-and-silence-in-the-hive-warhammer-40k-complete.583942/) - An eldritch comedy that is really good, occasionally confusing but worth it in the end.
+> 
+> * [Terror & Peace Among the Stars](https://forums.spacebattles.com/threads/terror-peace-among-the-stars-sequel-warhammer-40k.672535/) - a sequel to the above.
+> 
+> * [Contact 1955](https://forums.spacebattles.com/threads/contact-1955.328914/) - Pretty massive plot hole of how exactly technology does not develop when it has the whole galaxy (possibly larger) to work on it, even with magic involved, not very long either, but still fun.
+> 
+> * [Previously Impossible Futures](https://forums.spacebattles.com/threads/previously-impossible-futures-warhammer-40-000-original.752587/) - Pretty sure this one was a little dry but still interesting enough.
 
->> **u/die247** [+2] *
+>> **u/die247** [+2]  (18 hours later)
 >> 
 >> Wow! Thank you for all these recommendations, quite a few of these sound very interesting... looks like I've got some more reading content now lol.
->> 
 
->> **u/valeskas** [+2] *
+>> **u/valeskas** [+2]  (2 days later)
 >> 
 >> Various fanfiction links reminded me of [Factory Isolation](https://forums.spacebattles.com/threads/factory-isolation-si-multicross.404479/), factorio/others crossover. 
->> MC is isekaed onto a biter planet, and given the controls of self replicating machine of war. Eventually he reaches other dimensions with poor living conditions and starts building a kingdom for refugees. Complete.
->> I found it a surprisingly fun read for this subgenre.
 >> 
+>> MC is isekaed onto a biter planet, and given the controls of self replicating machine of war. Eventually he reaches other dimensions with poor living conditions and starts building a kingdom for refugees. Complete.
+>> 
+>> I found it a surprisingly fun read for this subgenre.
 
->> **u/LogCareful7780** [+1] *
+>> **u/LogCareful7780** [+1]  (3 years later)
 >> 
 >> A Young Woman's Political Record just links back here
->> 
 
-> **u/PastafarianGames** [+15] *
+> **u/PastafarianGames** [+16]  (7 hours later)
 > 
 > A Connecticut Yankee in King Arthur's Court is arguably the trope creator for this genre and is 1000% worth reading.
-> 
 
->> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor* (a day later)
 >> 
 >> Seconded!
->> 
 
-> **u/LunarTulip** [+19] *
+> **u/LunarTulip** [+19]  (57 minutes later)
 > 
 > [Dungeon Keeper Ami](https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/): Ami from Sailor Moon gets plopped into the Dungeon Keeper universe. She retains all her knowledge of engineering from Earth, and uses it to get an edge on her opposition, although she does so relatively cautiously in order to try to avoid reverse-engineering. She's not *trying* to build a kingdom, per se, but circumstances keep on pushing her into it. And the story manages to avoid harem-related plot elements, making Ami too untouchable, and so forth, keeping the tension up even as she gains power and influence. So overall it seems like very plausibly the sort of thing you're after.
-> 
 
->> **u/die247** [+7] *
+>> **u/die247** [+6]  (an hour later)
 >> 
 >> Sounds interesting, no idea what Sailor Moon is though... or Dungeon keeper - didn't consider how these sorts of stories can pop up through fan fictions of already existing story universes.
->> 
 
->>> **u/Trew_McGuffin** [+17]  *Dao = Improve Yourself**
+>>> **u/Trew_McGuffin** [+16]  *Dao = Improve Yourself* (an hour later)
 >>> 
 >>> Dungeon Keeper is a game where you play at managing a dungeon by getting monsters and killing the good guys that explore the dungeon.
->>> Sailor Moon is an anime about hero transforming school girls.
->>> I've read a good chunk of the story while knowing nothing about Dungeon Keeper and only knowing about Sailor Moon through like memes and second hand sources. I can say that as the story progresses a fair amount can be inferred and a quick pop into wiki can help.
->>> It's pretty good.
 >>> 
+>>> Sailor Moon is an anime about hero transforming school girls.
+>>> 
+>>> I've read a good chunk of the story while knowing nothing about Dungeon Keeper and only knowing about Sailor Moon through like memes and second hand sources. I can say that as the story progresses a fair amount can be inferred and a quick pop into wiki can help.
+>>> 
+>>> It's pretty good.
 
->>> **u/Lightwavers** [+12]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+11]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (an hour later)
 >>> 
 >>> I had no foreknowledge of Sailor Moon and still enjoyed this story. It’s competently written, and so long as you keep reading past your confusion you’ll eventually pick up all the worldbuilding you need to know. A gripe I had was that she seemed to get shoved on the side of the ‘bad guys’ by author fiat more than actual character decisions and natural plot points, but it’s easy to look past.
->>> 
 
-> **u/clawclawbite** [+9] *
+> **u/clawclawbite** [+9]  (4 hours later)
 > 
 > There is a published series from the late 80s or early 90s called the Cross Time Engineer, about a Polish engineer who actually gets time traveled back to Europe a decade before the Mongol invasion. He does have protagonist luck with the ladies, but spends more of his time trying to get useful amounts of firearms made and dealing with local politics
-> 
 
->> **u/EliezerYudkowsky** [+4]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor* (a day later)
 >> 
 >> It's an interesting prototype of literary tendencies that later became far more pronounced.
->> 
 
->> **u/GlueBoy** [+1]  *anti-skub**
+>> **u/GlueBoy** [+1]  *anti-skub* (a day later)
 >> 
 >> Decent junk-food reading for 3 books or so, but then he fucks his horse (not kidding).
->> 
 
->>> **u/CapnSmurfy** [+1] *
+>>> **u/CapnSmurfy** [+1]  (2 days later)
 >>> 
 >>> Is..is it like a magic horse or someone reincarnated as a horse or something? Or does this dude just straight up fuck regular horse?
->>> 
 
->>>> **u/GlueBoy** [+2]  *anti-skub**
+>>>> **u/GlueBoy** [+2]  *anti-skub* (3 days later)
 >>>> 
 >>>> It's a regular horse for 3 books or so, a bit smart but just a horse. Then in book 4 or 5 it's revealed to be >!a shapeshifting AI or something sent by his future descendents to protect him, and also it's in love with him, and also it changes itself to suit his every desire.!<
->>>> To say this series jumped the shark after a while is putting it lightly. The new term should be "it fucked the damn horse", haha.
 >>>> 
+>>>> To say this series jumped the shark after a while is putting it lightly. The new term should be "it fucked the damn horse", haha.
 
->>>> **u/EdLincoln6** [+1] *
+>>>> **u/EdLincoln6** [+1]  (17 days later)
 >>>> 
 >>>> Untrue.  Slander.  The horse is actually the only female character he doesn't fuck.
->>>> The horse is a bio-engineered thing.  What you may be thinking about is he  meets other human shaped members of it's...species?  Genus?
->>>> (For some weird reason people who write this sub-genre tend to throw in harems if the series goes on long enough.)
 >>>> 
+>>>> The horse is a bio-engineered thing.  What you may be thinking about is he  meets other human shaped members of it's...species?  Genus?
+>>>> 
+>>>> (For some weird reason people who write this sub-genre tend to throw in harems if the series goes on long enough.)
 
-> **u/andor3333** [+7] *
+> **u/andor3333** [+8]  (5 hours later)
 > 
 > It isn’t medieval times but the 1632/ring of fire series by Eric Flint has a small American town sent back in time to Germany during the 30 years war.
+> 
 > Also this tvtropes page:
 > https://tvtropes.org/pmwiki/pmwiki.php/Main/OneManIndustrialRevolution
-> 
 
->> **u/Paxona** [+1] *
+>> **u/Paxona** [+1]  (15 days later)
 >> 
 >> >It isn’t medieval times but the 1632/ring of fire series by Eric Flint
->> 1632 is just bad, and as far removed from actual history as it is USA wankery.
 >> 
+>> 1632 is just bad, and as far removed from actual history as it is USA wankery.
 
-> **u/TwoxMachina** [+12] *
+> **u/TwoxMachina** [+12]  (40 minutes later)
 > 
 > Hmm, [A Hero's War](https://www.fictionpress.com/s/3238329/1/A-Hero-s-War) is pretty good.
-> Kinda Isekai'd to a magical world, and start to do magical engineering in a medieval/post-apocalyptic world to fight off zombies
-> Slow updates lately tho
 > 
+> Kinda Isekai'd to a magical world, and start to do magical engineering in a medieval/post-apocalyptic world to fight off zombies
+> 
+> Slow updates lately tho
 
->> **u/die247** [+2] *
+>> **u/die247** [+2]  (54 minutes later)
 >> 
 >> Nice suggestion! I actually read quite far into this one a while ago, don't remember why I stopped though (don't know if I got to the end of the released chapters or what...)
->> Thank you for the reminder about this one though!
 >> 
+>> Thank you for the reminder about this one though!
 
->>> **u/Lightwavers** [+16]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+17]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (an hour later)
 >>> 
 >>> One reason you may have dropped it is that it’s bad. A Hero’s War starts promisingly enough, and then everything goes downhill from there. The thing is, it gives little hints of something interesting coming eventually to keep you reading and then it never delivers. Aside from the poor writing quality, the unfortunate fact is that it’s very much not a rational story. There are two main characters, one in command of an army, the other a sort of innovator/engineer. The engineer dude just solves everything without effort because no one as ever thought about magic crossbows, or poisoning a worm, or whatever. He does this with no formal magical knowledge, just hunches, and he’s always right. The worldbuilding is atrocious.
->>> 
 
->>>> **u/die247** [+1] *
+>>>> **u/die247** [+1]  (an hour later)
 >>>> 
 >>>> Fair enough, having taken a quick look through the chapters, I think I gave up somewhere in the 30 or so chapter area, right when the forge project they were working on turned into a massive waste of time...
->>>> 
 
->>>>> **u/TwoxMachina** [+1] *
+>>>>> **u/TwoxMachina** [+1]  (23 hours later)
 >>>>> 
 >>>>> I did a bit of a skip in the middle too, but it's not bad now.
->>>>> Not sure which forge project you mean, but latest update, it's working for a while now.
 >>>>> 
+>>>>> Not sure which forge project you mean, but latest update, it's working for a while now.
 
-> **u/JustForThis167** [+6] *
+> **u/JustForThis167** [+6]  (11 hours later)
 > 
 > Destiny's Crucible! : Similar to your story except its a chemical engineer in 1600s tech esque world
-> 
 
->> **u/EdLincoln6** [+1] *
+>> **u/EdLincoln6** [+1]  (17 days later)
 >> 
 >> Seconded.
->> 
 
->>> **u/TheFightingMasons** [+1] *
+>>> **u/TheFightingMasons** [+1]  (2 months later)
 >>> 
 >>> Thirded!
->>> 
 
-> **u/jy3n2** [+4] *
+> **u/jy3n2** [+5]  (14 days later)
 > 
 > Not sure how rational it is, but I pretty much have to mention Lest Darkness Fall here.
-> 
 
->> **u/die247** [+1] *
+>> **u/die247** [+1]  (14 days later)
 >> 
 >> Thanks for the late suggestion Haha! Surprised that people are still replying to this post weeks later.
->> 
 
-> **u/wren42** [+2] *
+> **u/wren42** [+2]  (12 days later)
 > 
 > \-  find the idea of someone from the now being plonked into basically  medieval times and then trying to advance humanity really cool as a  story 
-> You mean like A Connecticut Yankee in King Arthur's Court, the original rationalist time travel novel? =)
 > 
+> You mean like A Connecticut Yankee in King Arthur's Court, the original rationalist time travel novel? =)
 
-> **u/cidqueen** [+0] *
+> **u/cidqueen** [+0]  (11 hours later)
 > 
 > First Song by Blaise Corvin. Although the time travel aspect is kinda a spoilet
-> 
 
-> **u/Shaneleee** [+1] *
+> **u/Shaneleee** [+1]  (3 years later)
 > 
 > OP can you suggest me some of the good stories from these?
-> 
 
->> **u/die247** [+1] *
+>> **u/die247** [+1]  (3 years later)
 >> 
 >> Hey, I didn't actually end up reading any of the suggestions here yet!
->> The author of Enlightened Empire has come back from their hiatus though, so I've been keeping up with that.
->> I can highly recommend it, if you don't mind a series where the kingdom building is slow and the main character doesn't get everything easily.
 >> 
+>> The author of Enlightened Empire has come back from their hiatus though, so I've been keeping up with that.
+>> 
+>> I can highly recommend it, if you don't mind a series where the kingdom building is slow and the main character doesn't get everything easily.
 
 ---
 

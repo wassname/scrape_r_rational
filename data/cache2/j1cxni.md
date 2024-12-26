@@ -2,7 +2,7 @@
 
 * Author: u/JackVoraces *
 * URL: https://www.reddit.com/r/rational/comments/j1cxni/the_mother_of_learning_audiobook_is_now_being/
-* Score: 110
+* Score: 111
 
 * Created: 2020-09-28T14:24:18
 
@@ -40,40 +40,33 @@ Podbean: [https://voraces.podbean.com/](https://voraces.podbean.com/?fbclid=IwAR
 
 ### Comments:
 
-> **u/Dent7777** [+8]  *House Atreides**
+> **u/Dent7777** [+9]  *House Atreides* (6 hours later)
 > 
 > One of my favorite podcasts! Jack's done a great job (except for the little girl voices lol).
-> 
 
->> **u/JackVoraces** [+8] *
+>> **u/JackVoraces** [+8]  (8 hours later)
 >> 
 >> Thanks so much! Very kind words. Yeh I need to go to 9 year old girl boot camp. In working on it :p
->> 
 
-> **u/None** [+6] *
+> **u/None** [+4]  (5 hours later)
 > 
 > Oh shit, I remember reading this a while back. It’s amazing that this actually got so popular that it’s getting an audiobook.
-> 
 
-> **u/seruzz2003** [+3] *
+> **u/seruzz2003** [+4]  (21 hours later)
 > 
 > I remembered reading that Xvim was described as a bald man? Or was I just stupid?
-> 
 
->> **u/teakwood54** [+4] *
+>> **u/teakwood54** [+4]  (2 days later)
 >> 
 >> I'm not sure if I read that but I definitely imagined him as bald.
->> 
 
->>> **u/Baine53** [+1] *
+>>> **u/Baine53** [+1]  (29 days later)
 >>> 
 >>> Same, with a slightly pointy beard.
->>> 
 
->> **u/MagmaDrago** [+2] *
+>> **u/MagmaDrago** [+2]  (3 days later)
 >> 
 >> I searched throught the epub, and nope, no bald Xvim anywhere, only Alanic.
->> 
 
 ---
 

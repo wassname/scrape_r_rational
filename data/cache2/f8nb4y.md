@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (10 minutes later)
 > 
 > About 9 hours from now the weekly Monday Recommendation Thread will go up. That's the perfect place to post this.
-> 
 
->> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (15 minutes later)
 >> 
 >> Ok, ty
->> 
 
 ---
 

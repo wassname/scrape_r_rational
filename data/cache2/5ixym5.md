@@ -12,102 +12,100 @@ I have been told that this subreddit could help me interact with a certain websi
 
 ### Comments:
 
-> **u/seylerius** [+14]  *Lord Inquisitor**
+> **u/seylerius** [+13]  *Lord Inquisitor* (11 minutes later)
 > 
 > The main set of sequences got collected into a book. [Rationality: From AI to Zombies](https://intelligence.org/rationality-ai-zombies/) is a great introduction to all the Less Wrong info.
-> 
 
-> **u/oliwhail** [+10]  *Omake-Maximizing AGI**
+> **u/oliwhail** [+11]  *Omake-Maximizing AGI* (19 minutes later)
 > 
 > I notice I am confused. You can just go to the site, no?
-> By 'help me interact with', do you mean 'help me make an account and comment', 'help me understand the memetic environment', or something else?
 > 
+> By 'help me interact with', do you mean 'help me make an account and comment', 'help me understand the memetic environment', or something else?
 
->> **u/nolobargescope** [+8] *
+>> **u/nolobargescope** [+6]  (9 hours later)
 >> 
 >> I just thought, you know, I heard you might have an in with the *right people* (or the wrong people haha who am i to judge) to *get things done* \*cough\*, just need a contact in relation to the el-doubleyou crowd, *thingspace* if you will, wink wink nudge nudge
->> 
 
->> **u/ninjagamerx** [+6] *
+>> **u/ninjagamerx** [+3]  (4 hours later)
 >> 
 >> Yeah I can but I'm anxious, and idk y. I guess I just want info of any kind that could assist me in accessing this stuff.
->> 
 
->>> **u/Areign** [+3] *
+>>> **u/Areign** [+3]  (3 days later)
 >>> 
 >>> Go to the site, go to the top right and click on sequences. Start on book 1: map and territory and continue from there.
->>> 
 
->>>> **u/ninjagamerx** [+3] *
+>>>> **u/ninjagamerx** [+3]  (4 days later)
 >>>> 
 >>>> Ok
->>>> 
 
-> **u/waylandertheslayer** [+6] *
+> **u/waylandertheslayer** [+6]  (an hour later)
 > 
 > You can read the 'Core Sequences' on the website: [link.](https://wiki.lesswrong.com/wiki/Sequences#Core_Sequences)
-> Especially the first few sections (Map & Territory and How to Actually Change your Mind) are very important, but later parts go very heavily into FAI design, so if you're not interested in that it might be worth reading the other sequences by other writers instead. Also, 'Yvain' now blogs on [Slate Star Codex](http://slatestarcodex.com/), but it's best to read the core sequences first, as a lot of his stuff builds on or refers to them.
 > 
+> Especially the first few sections (Map & Territory and How to Actually Change your Mind) are very important, but later parts go very heavily into FAI design, so if you're not interested in that it might be worth reading the other sequences by other writers instead. Also, 'Yvain' now blogs on [Slate Star Codex](http://slatestarcodex.com/), but it's best to read the core sequences first, as a lot of his stuff builds on or refers to them.
 
->> **u/ninjagamerx** [+2] *
+>> **u/ninjagamerx** [+2]  (4 hours later)
 >> 
 >> Fai?
->> 
 
->>> **u/gbear605** [+5]  *history’s greatest story**
+>>> **u/gbear605** [+4]  *history’s greatest story* (4 hours later)
 >>> 
 >>> Friendly Artificial Intelligence - robots that do what we would actually want them to, instead of robots that results in bad things happening for humans.
->>> 
 
-> **u/traverseda** [+5]  *With dread but cautious optimism**
+> **u/traverseda** [+3]  *With dread but cautious optimism* (3 hours later)
 > 
 > Not a secret society. Just go to the site. It's pretty inactive these days.
-> The mailing lists are a bit more active, and the best way there is just to go to CFAR.
 > 
+> The mailing lists are a bit more active, and the best way there is just to go to CFAR.
 
->> **u/ninjagamerx** [+6] *
+>> **u/ninjagamerx** [+6]  (4 hours later)
 >> 
 >> I think I'm having a preliminary archive panic over this.
->> 
 
-> **u/SpeakKindly** [+2] *
+> **u/SpeakKindly** [+2]  (12 hours later)
 > 
 > > How can I get into lesswrong?
-> Practice, practice, and more practice.
 > 
+> Practice, practice, and more practice.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Hm, if you just have questions about the general landscape / idea-verse, like what sorts of themes are discussed, definitions of words, etc. that the LW wiki doesn't do a good job of explaining, I'd be happy to try and help answer them.
-> 
 
->> **u/ninjagamerx** [+2] *
+>> **u/ninjagamerx** [+2]  (a day later)
 >> 
 >> Ok thx for the offer. I have been told to read the book first. Should that be considered a prerequisite?
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (a day later)
 >>> 
 >>> Hm, so basically LessWrong is 3ish things:
 >>> * Discussion group for math / rationality topics.
 >>> * Archive of lots of articles on math / rationality topics.
 >>> * Wikia of definitions + links to all these articles.
->>> The book that people are referring to, Rationality: From AI to Zombies, is basically a nicer edit of The Sequences, which is a core series of articles.
->>> If you want to learn some interesting ideas, the book is worth downloading and reading (be warned, it's quite long, ~1700 pages).  
->>> But it's definitely *not* a necessary prerequisite for reading everything on the site.
->>> Otherwise, if you're looking for some singular articles to sink your teeth into:
->>> * [Top-ranking posts on the site](http://lesswrong.com/top/)
->>> * [A collection of Scott Alexander's posts](http://lesswrong.com/lw/6ga/index_of_yvains_excellent_articles/)
->>> * [A collection of Luke Muehlhauser's posts](http://lukemuehlhauser.com/writings/#LWPosts)
->>> Feel free to just poke around and see what's interesting.
->>> There may be some terms or ideas that are unfamiliar in discussions, like "shut up and multiply" (referring to our inability to emotionally *feel* large numbers) but the wiki can usually point you to something, or feel free to ping me.
 >>> 
+>>> The book that people are referring to, Rationality: From AI to Zombies, is basically a nicer edit of The Sequences, which is a core series of articles.
+>>> 
+>>> If you want to learn some interesting ideas, the book is worth downloading and reading (be warned, it's quite long, ~1700 pages).  
+>>> 
+>>> But it's definitely *not* a necessary prerequisite for reading everything on the site.
+>>> 
+>>> Otherwise, if you're looking for some singular articles to sink your teeth into:
+>>> 
+>>> * [Top-ranking posts on the site](http://lesswrong.com/top/)
+>>> 
+>>> * [A collection of Scott Alexander's posts](http://lesswrong.com/lw/6ga/index_of_yvains_excellent_articles/)
+>>> 
+>>> * [A collection of Luke Muehlhauser's posts](http://lukemuehlhauser.com/writings/#LWPosts)
+>>> 
+>>> Feel free to just poke around and see what's interesting.
+>>> 
+>>> There may be some terms or ideas that are unfamiliar in discussions, like "shut up and multiply" (referring to our inability to emotionally *feel* large numbers) but the wiki can usually point you to something, or feel free to ping me.
 
-> **u/andor3333** [+2] *
+> **u/andor3333** [+2]  (a day later)
 > 
 > Here is a link to the sequences that were made into the book. 
-> https://wiki.lesswrong.com/wiki/Sequences
 > 
+> https://wiki.lesswrong.com/wiki/Sequences
 
 ---
 

@@ -48,31 +48,27 @@ I have no explanation for why people think he's dead, though. Maybe he's not. Co
 
 ### Comments:
 
-> **u/traverseda** [+5]  *With dread but cautious optimism**
+> **u/traverseda** [+3]  *With dread but cautious optimism* (a day later)
 > 
 > I propose that for any futures essay of this nature, you have to do it in character, as if you were posting it to a mailing list on Kabbalah.
-> 
 
-> **u/Frommerman** [+3] *
+> **u/Frommerman** [+3]  (6 hours later)
 > 
 > People think he's dead because his body fell out of the sky and The Other King still lives. Unlives? We don't know his life status, actually.
-> Granted, TKC could definitely fake a body if he wanted to, but it doesn't fit any of the prophesies we know right now.
 > 
+> Granted, TKC could definitely fake a body if he wanted to, but it doesn't fit any of the prophesies we know right now.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (20 hours later)
 >> 
 >> Well he could be positioning himself to *also* be the other Messiah right?  Let himself die metaphorically, and then wait until Israel is messed up and then boom hes fulfilling the prophecy for the greater Messiah.
->> 
 
->>> **u/Frommerman** [+2] *
+>>> **u/Frommerman** [+2]  (20 hours later)
 >>> 
 >>> I considered that, but it seems placebomantically wrong somehow
->>> 
 
->> **u/___ratanon___** [+1]  *Holy, holy is the lord of /etc/hosts**
+>> **u/___ratanon___** [+1]  *Holy, holy is the lord of /etc/hosts* (a day later)
 >> 
 >> Even regardless of prophecies, I don't think The Komet Cing would do that.
->> 
 
 ---
 

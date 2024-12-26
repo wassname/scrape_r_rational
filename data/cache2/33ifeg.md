@@ -2,7 +2,7 @@
 
 * Author: u/glennonymous  *Friendly AI Alliance**
 * URL: http://www.glennthomasdavis.com/books/15-mission/
-* Score: 11
+* Score: 12
 
 * Created: 2015-04-22T19:50:37
 

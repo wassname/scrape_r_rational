@@ -41,153 +41,136 @@ Vecht
 
 ### Comments:
 
-> **u/immortal_lurker** [+9] *
+> **u/immortal_lurker** [+9]  (3 hours later)
 > 
 > So wait, if plans and voting aren't a thing, are we just supposed to say ~~clever~~  hopefully clever things in reddit comments that we think various characters might do? And then hope that one of the QMs notices?
-> Interesting. I kind of like it? It should prevent youthsuit and killboxes except when appropriate from the perspective of a simulation.
 > 
+> Interesting. I kind of like it? It should prevent youthsuit and killboxes except when appropriate from the perspective of a simulation.
 
->> **u/eaglejarl** [+9] *
+>> **u/eaglejarl** [+7]  (4 hours later)
 >> 
 >> > youthsuit and killboxes
+>> 
 >> [Response:](
 >>     https://i.kym-cdn.com/entries/icons/original/000/017/204/CaptainAmerica1_zps8c295f96.JPG)
->> 
 
->>> **u/CronoDAS** [+2] *
+>>> **u/CronoDAS** [+2]  (5 hours later)
 >>> 
 >>> I sort of know about the youthsuit incident, but killboxes?
->>> 
 
->>>> **u/fiirofa** [+1] *
+>>>> **u/fiirofa** [+1]  (6 hours later)
 >>>> 
 >>>> It's when Hazou >!threatened Kabuto, leading Jiraiya to throw us out of Leaf!<
->>>> 
 
->>>>> **u/CronoDAS** [+1] *
+>>>>> **u/CronoDAS** [+1]  (6 hours later)
 >>>>> 
 >>>>> Something else that happened in a Naruto quest, then...
->>>>> 
 
->>>>>> **u/fiirofa** [+1] *
+>>>>>> **u/fiirofa** [+1]  (6 hours later)
 >>>>>> 
 >>>>>> The same quest, to be precise.  I'm not aware of any other rational Naruto quests beyond MfD.
->>>>>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (8 hours later)
 >>>> 
 >>>> The killbox in question was a cell lined with explosives.  If the prisoners did anything out of line the guards could activate the explosives, instantly killing everyone inside.
->>>> 
 
->>>>> **u/CronoDAS** [+1] *
+>>>>> **u/CronoDAS** [+1]  (9 hours later)
 >>>>> 
 >>>>> And, from context, it sounds like one was involved in an epic fail of some kind. I tried to Google the youthsuit incident and it seems like what happened was that a joke option won the voting, the QM wrote a chapter in which the protagonist took the action because he had suddenly gone insane, and then the audience revolted?
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (10 hours later)
 >>>>>> 
 >>>>>> More or less.
->>>>>> EDIT:  The killbox is chapters 95-97.  Chapter 95 is here: https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1430#post-7612249
 >>>>>> 
+>>>>>> EDIT:  The killbox is chapters 95-97.  Chapter 95 is here: https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1430#post-7612249
 
-> **u/eaglejarl** [+7] *
+> **u/eaglejarl** [+7]  (33 minutes later)
 > 
 > Note that the story starts here: https://chaossnek.com/Story?chapter=A1
-> 
 
->> **u/-Vecht-** [+5]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (3 hours later)
 >> 
 >> Thanks.
->> Also, Discord for the lazy: https://discord.gg/B5abMg8
 >> 
+>> Also, Discord for the lazy: https://discord.gg/B5abMg8
 
-> **u/Kylinger** [+2] *
+> **u/Kylinger** [+2]  (2 hours later)
 > 
 > I sort of just want to focus every power up we get on Link and have him stab bad guys until all our problems go away. It works in most of the games, right? I'm sure with a good enough sword he can stab shards too. It'll be fineee.
-
-> >! And I swear to god zelda if you break our stabby boys heart.
 > 
+> >! And I swear to god zelda if you break our stabby boys heart.
 
->> **u/immortal_lurker** [+5] *
+>> **u/immortal_lurker** [+4]  (3 hours later)
 >> 
 >> The Zelda games have no anti fortress or anti army power-ups available.
->> ...Although, we have seen greater power-ups in the quest itself when Zelda was empowered.
 >> 
+>> ...Although, we have seen greater power-ups in the quest itself when Zelda was empowered.
 
->>> **u/Kylinger** [+3] *
+>>> **u/Kylinger** [+3]  (3 hours later)
 >>> 
 >>> Link is great at breaking into fortresses! It's like, his whole thing. They usually call them dungeons and temples though...
->>> And Hyrule Warrors Link could totally handle an army- he's like a human blender in those games.
 >>> 
+>>> And Hyrule Warrors Link could totally handle an army- he's like a human blender in those games.
 
->> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (3 hours later)
 >> 
 >> I'm more worried about the effects of invigorate in bed... :P
->> 
 
->>> **u/Mathematicae** [+4] *
+>>> **u/Mathematicae** [+5]  (4 hours later)
 >>> 
 >>> You did want Zelda to work on her physical conditioning, so...:P
->>> 
 
->>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (4 hours later)
 >>>> 
 >>>> I'm more concerned for LInk there! :p
->>>> 
 
-> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (3 hours later)
 > 
 > Oooh, fascinating. I guess the egg is something like Lerasium, then, and the instructions Hylia left were in how to use it... 
-> Zelda doesn't seem to have started her physical conditioning yet, which I would very much like to pursue. Does anyone have objections to that?
 > 
+> Zelda doesn't seem to have started her physical conditioning yet, which I would very much like to pursue. Does anyone have objections to that?
 
-> **u/Mathematicae** [+2] *
+> **u/Mathematicae** [+2]  (55 minutes later)
 > 
 > No rules for voting? I am uncomfortable with that. Thanks for continuing the quest though!
-> 
 
->> **u/-Vecht-** [+3]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (an hour later)
 >> 
 >> Kind of necessary given the format change. I hope you and others can trust me and the other QMs to be sensible here.
->> 
 
-> **u/I_am_your_BRAIN** [+2] *
+> **u/I_am_your_BRAIN** [+2]  (7 hours later)
 > 
 > Unsure what the glitch is on the website, but when you click previous chapter while on the current chapter (chapter 9), it goes straight to chapter 7.  Same issue does not occur when moving forwards
-> 
 
-> **u/-Vecht-** [+2]  *Legacy of the Goddess**
+> **u/-Vecht-** [+2]  *Legacy of the Goddess* (a day later)
 > 
 > FYI: The actual chapter is still WIP. Fully drafted but it's pending editing and review. I may or may not get it out today.
-> 
 
->> **u/-Vecht-** [+2]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+2]  *Legacy of the Goddess* (a day later)
 >> 
 >> > FYI: The actual chapter is still WIP. Fully drafted but it's pending editing and review. I may or may not get it out today.
->> Update: Not today. Tomorrow. Looks to be about 10-11k words total.
->> Was hoping to have it out sooner but I couldn't resist dropping an April Fool's chapter given the timing. ;)
 >> 
+>> Update: Not today. Tomorrow. Looks to be about 10-11k words total.
+>> 
+>> Was hoping to have it out sooner but I couldn't resist dropping an April Fool's chapter given the timing. ;)
 
-> **u/Emeralda22** [+1] *
+> **u/Emeralda22** [+1]  (3 hours later)
 > 
 > Here's an important question:Can you post a link of some kind to your Discord so I can properly vote? Because every time I use the link on the SV page,it says it's invalid.
-> 
 
->> **u/-Vecht-** [+2]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+2]  *Legacy of the Goddess* (3 hours later)
 >> 
 >> https://discord.gg/B5abMg8
->> Also referenced on the website in the "about" and "progress point" pages. They do seem to expire occasionally even if you set it not to, but this one is fresh.
 >> 
+>> Also referenced on the website in the "about" and "progress point" pages. They do seem to expire occasionally even if you set it not to, but this one is fresh.
 
-> **u/MMK_II** [+1] *
+> **u/MMK_II** [+1]  (14 hours later)
 > 
 > Glad to see that this is back in action!
-> 
 
-> **u/Salaris** [+1]  *Dominion Sorcerer**
+> **u/Salaris** [+1]  *Dominion Sorcerer* (3 days later)
 > 
 > Ooh! Just saw that this had resumed. Exciting times.
-> 
 
 ---
 

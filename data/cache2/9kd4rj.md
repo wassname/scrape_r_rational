@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/10/01/nihilism-iii/
-* Score: 53
+* Score: 51
 
 * Created: 2018-10-01T04:08:28
 
@@ -12,355 +12,431 @@
 
 ### Comments:
 
-> **u/FeluriansCloak** [+29] *
+> **u/FeluriansCloak** [+30]  (7 hours later)
 > 
 > So.... the spilled cup on the table was definitely Bard, right? Who just disappeared right before Cordelia came in, and might also be one of the “monsters of both sides” Saint mentioned?
-> 
 
->> **u/AurelianoTampa** [+9] *
+>> **u/AurelianoTampa** [+9]  (8 hours later)
 >> 
 >> Absolutely, I immediately thought the same thing once I read about the laugh and the spilling cup!
->> 
 
->> **u/MutantMannequin** [+8] *
+>> **u/MutantMannequin** [+9]  (17 hours later)
 >> 
 >> The question is, what does Bard gain by pushing Saint (and possibly Cordelia) like this? The setup we've got so far goes:
+>> 
 >> 1. Hierarch disables Bard temporarily, an opportunity Dead King takes to start making moves again.
 >> 2. Bard returns and speaks with Dead King, only to give him permission to "eat the baby" without her interference.
 >> 3. Bard encourages Saint of Swords' dogmatic outlook, potentially sowing discord between Cordelia and the church and/or Good named, potentially pushing Cordelia toward some kind of name.
->> Even if Dead King doesn't decide to mobilize (and I'm not sure I would, after that exchange), it still looks like Procer's about to collapse. How does this play into Bard's game? Why does she seem to want that?
 >> 
+>> Even if Dead King doesn't decide to mobilize (and I'm not sure I would, after that exchange), it still looks like Procer's about to collapse. How does this play into Bard's game? Why does she seem to want that?
 
-> **u/notagiantdolphin** [+27] *
+> **u/notagiantdolphin** [+29]  (18 minutes later)
 > 
 > Hey, what do you know? Cat was right - the Saint really is Ranger with a coat of paint and a socially acceptable pretext for murder. Don't like Procer? Stab it! Kind of funny that she doesn't seem to accept that every institution goes the way of Procer though. Praesi are a pack of ravening lunatics, but at least they're honest about being a pack of ravening lunatics. Proceran's seem to think that they can't possibly be in the wrong. Heaven Is On Their Side! Cordelia herself rambles on the topic of Procer's history and it's about as bad as it is now. 
-> Really helps to drive home the view of the heavens and Saint though - this nation didn't work? Hey, let's burn it and try the same thing again!
 > 
+> Really helps to drive home the view of the heavens and Saint though - this nation didn't work? Hey, let's burn it and try the same thing again!
 
->> **u/signspace13** [+22] *
+>> **u/signspace13** [+22]  (2 hours later)
 >> 
 >> That duality is one of the things I love about this series, the gods bet about good and evil means that *good* and *evil* have to exist, when they objectively do not, all that exists is morality and ethics that are agreed upon by society. This forces the world into a broken cycle of stories forcing people who want to make a difference into roles so that they can achieve their ambitions, but depending on where they are, who they serve and how they do things they are arbitrarily divided into Hero's and Villains. This all leads to self righteous people like Cordelia who think they are right just because they aren't villains. Cordelia is every bit as ruthless and villainous as Cat, but she happened to be born in a place of power and privilege, so she didn't have to make the compromises that Cat did to make a difference. I could go on about this forever, I fucking love this series.
->> 
 
->> **u/Weebcluse** [+16] *
+>> **u/Weebcluse** [+16]  (2 hours later)
 >> 
 >> What I find interesting is that Saint's desire to burn down Procer to start from scratch mirror's Black wanting to stab all the high lords before rebuilding Praes.
->> 
 
->>> **u/notagiantdolphin** [+18] *
+>>> **u/notagiantdolphin** [+19]  (3 hours later)
 >>> 
 >>> I'm not sure the Saint is capable of learning and planning like Black is, though. Her entire plan seems to be 'everybody charge, it doesn't matter if everyone dies. Let god sort us out.'. Petty arson instead of grand plan.
->>> 
 
->>>> **u/tavitavarus** [+19] *
+>>>> **u/tavitavarus** [+19]  (4 hours later)
 >>>> 
 >>>> It's exactly the sort of attitude Cat hates the most. Forget the human beings who will die, the destruction of cities, the mass starvation. Just mindlessly fight Evil because the Heavens will it. Force other people to die for your principles all in the pursuit of some 'Greater Good' that helps no one.
 >>>>  And of course, rather than have an actual plan, just trust in the power of prayer and narrative to deliver your victory.
->>>> 
 
->>>> **u/Nic_Cage_DM** [+3] *
+>>>> **u/Nic_Cage_DM** [+3]  (11 hours later)
 >>>> 
 >>>> Yeah, Black would have had a plan to rebuild Praes to further the interests of the nation. The Saint neither knows nor cares what will happen to Procer afterwards, so long as "Good" wins and "Evil" loses.
->>>> 
 
-> **u/cyberdsaiyan** [+26] *
+> **u/cyberdsaiyan** [+23]  (an hour later)
 > 
 > This is Cordelia's pivot I think. She has so far been very much a "down to earth" sort of ruler, her thoughts and perspective all guided by her love for her people and the desire to keep the principate intact.
-> And now she comes across a greater power that threatens to undo all of that. A power that she thought she was on the side of. 
-> Now she will have to decide which side she prefers, from the perspective of gods rather than men.
 > 
+> And now she comes across a greater power that threatens to undo all of that. A power that she thought she was on the side of. 
+> 
+> Now she will have to decide which side she prefers, from the perspective of gods rather than men.
 
-> **u/Agnoman** [+16] *
+> **u/Agnoman** [+15]  (6 hours later)
 > 
 > So uh, Procer's fucked, right?
-> They've got to fight the Dead King, who has, amongst other advantages, dozens upon dozens of Named (which include some of the most powerful beings to have ever turned up in the story), millions of foot soldiers, and the general raising-the-dead issue that the Hidden Horror brings with him. Then they have the Woe to deal with, who a dozen heroes couldn't deal with   and now are probably going to have the Drow with them when they next turn up to fight. Then there's Black, who's been pretty damn successful in tearing up Procer without any supply lines, reinforcements, or basic logistical support on any level. Praes and the Warlock are getting ready to smash Ashur. And then the Tyrant of Helike is doing his thing (which is always quite fun).
-> By all accounts Procer would feel threatened by any one of these things, let alone all of them. Looking at [the map](https://ibb.co/b9DLMF), they've got enemies in just about every direction they *can* have enemies.
-> On top of this that the Dwarves are poised to stop selling them cheap armaments. They're running out of soldiers to the point that they're throwing out farmers en masse, leadership is being questioned and their alliance is splintering.
-> The Crusade has failed to win a battle even before things got turned up to eleven. Now? I don't think there's been any evidence in the story that Heroic Stories can really save the day here. Hell, haven't the heroes *lost* every battle they've been in, bar that off-screen one with the demon of absence and the Champion killing the Captain (with the Bard's assistance)?
 > 
+> They've got to fight the Dead King, who has, amongst other advantages, dozens upon dozens of Named (which include some of the most powerful beings to have ever turned up in the story), millions of foot soldiers, and the general raising-the-dead issue that the Hidden Horror brings with him. Then they have the Woe to deal with, who a dozen heroes couldn't deal with   and now are probably going to have the Drow with them when they next turn up to fight. Then there's Black, who's been pretty damn successful in tearing up Procer without any supply lines, reinforcements, or basic logistical support on any level. Praes and the Warlock are getting ready to smash Ashur. And then the Tyrant of Helike is doing his thing (which is always quite fun).
+> 
+> By all accounts Procer would feel threatened by any one of these things, let alone all of them. Looking at [the map](https://ibb.co/b9DLMF), they've got enemies in just about every direction they *can* have enemies.
+> 
+> On top of this that the Dwarves are poised to stop selling them cheap armaments. They're running out of soldiers to the point that they're throwing out farmers en masse, leadership is being questioned and their alliance is splintering.
+> 
+> The Crusade has failed to win a battle even before things got turned up to eleven. Now? I don't think there's been any evidence in the story that Heroic Stories can really save the day here. Hell, haven't the heroes *lost* every battle they've been in, bar that off-screen one with the demon of absence and the Champion killing the Captain (with the Bard's assistance)?
 
->> **u/Mingablo** [+13] *
+>> **u/Mingablo** [+14]  (7 hours later)
 >> 
 >> That is how the stories go though, just when the side of good needs it the most someone is gonna get a god-tier powerup or pull an army of named outta their arse. It's a fine line that the author is walking where Deus Ex Machina is literally the way the world works and the story is still compelling. The pilgrim has some story on the backburner somewhere and we haven't had the bard do anything lately so she's probably in the shadows somewhere scheming. Lastly, love it or hate it this world seems to work the same way as the force has been characterised in star wars lately. Doesn't matter how strong one side gets the other side is gonna rise to meet it. The dead king is a huge enemy with overwhelmong force. If the side of good wins that fight, no matter what they lose, they might have some absolute units left over to mop up cat with.
->> So yes, Procer is fucked. I don't see Cordelia working her way out if this one. She called the crusade as a political move. Now she's gotta face the music, even if it means the country she loves so much gets taken out and its entirely on her. 
->> I love this series so much.
 >> 
+>> So yes, Procer is fucked. I don't see Cordelia working her way out if this one. She called the crusade as a political move. Now she's gotta face the music, even if it means the country she loves so much gets taken out and its entirely on her. 
+>> 
+>> I love this series so much.
 
->>> **u/Agnoman** [+4] *
+>>> **u/Agnoman** [+5]  (22 hours later)
 >>> 
 >>> >just when the side of good needs it the most someone is gonna get a god-tier powerup or pull an army of named outta their arse.
->>> One of the big issues I'm having here is that there isn't any example we have of this happening. The closest we've come is the Champion killing the Captain after the Bard manuevered the situation. Otherwise the heroes have been pretty ineffectual and haven't really had any meaningful wins. I'm finding it hard to believe that *this time* things are going to be different when there's no evidence of Heroic narratives having much of a lasting impact in the conflicts thus far and the crusades haven't won so much as a single file battle.
->>> But if you can point to a moment where the Heroes received Heavenly help in a way that mattered beyond a few chapters, I'm all ears.
 >>> 
+>>> One of the big issues I'm having here is that there isn't any example we have of this happening. The closest we've come is the Champion killing the Captain after the Bard manuevered the situation. Otherwise the heroes have been pretty ineffectual and haven't really had any meaningful wins. I'm finding it hard to believe that *this time* things are going to be different when there's no evidence of Heroic narratives having much of a lasting impact in the conflicts thus far and the crusades haven't won so much as a single file battle.
+>>> 
+>>> But if you can point to a moment where the Heroes received Heavenly help in a way that mattered beyond a few chapters, I'm all ears.
 
->>>> **u/Mingablo** [+1] *
+>>>> **u/Mingablo** [+1]  (22 hours later)
 >>>> 
 >>>> My best example in favour is the rise and fall of Triumphant. She conquered a huge amount of the continent before the forces of good pulled together and beat her. And we've seen that people have been gaming the story system since the dead king. I don't see triumphant winning so much without some gaming happening. But on that meta level she was still defeated.
->>>> 
 
->>>>> **u/Agnoman** [+3] *
+>>>>> **u/Agnoman** [+3]  (22 hours later)
 >>>>> 
 >>>>> That's what we've been *told* about heroes, I'm more interested in what's been *shown*.
->>>>> Triumphant is something that happened off-screen and well in the past. We don't really know what went down back then in any detail, and so it's hard to draw inferences from it.
->>>>> I'm talking about the events we've seen taking place on-screen, with the characters who actually matter in this upcoming section, and from which we can actually look at and analyse.
 >>>>> 
+>>>>> Triumphant is something that happened off-screen and well in the past. We don't really know what went down back then in any detail, and so it's hard to draw inferences from it.
+>>>>> 
+>>>>> I'm talking about the events we've seen taking place on-screen, with the characters who actually matter in this upcoming section, and from which we can actually look at and analyse.
 
->>>>>> **u/Mingablo** [+2] *
+>>>>>> **u/Mingablo** [+2]  (23 hours later)
 >>>>>> 
 >>>>>> Well I'm not surprised we've had no evidence of heroes receiving heavenly help that actually works in the long term because this is the story about the rise of a villian. Any heavenly help that actually long-term helped would end the story, or at least Cat's arc. Look at the heroes she killed at the beginning of this chapter. One was offered revenge by heaven before Cat intervened and killed him for real using winter. We have to look to what has only been inferred from the past to get an idea of how the world works because this story is about Black, Malacia, and Cat exploiting the way it. The dead king is different though. He's overtly evil and although he used subversion to get where he is I doubt he has any need for it now, not that he could use it with so much overwhelming power. I believe malacia when she says that no matter how strong he gets he will be pushed back.
->>>>>> 
 
->>>>>>> **u/Agnoman** [+3] *
+>>>>>>> **u/Agnoman** [+5]  (23 hours later)
 >>>>>>> 
 >>>>>>> >Well I'm not surprised we've had no evidence of heroes receiving heavenly help that actually works in the long term because this is the story about the rise of a villian
->>>>>>> That's a doylist explanation though. *In-universe* the heroes should get as much help as heroes get, by definition.
->>>>>>>  >Any heavenly help that actually long-term helped would end the story, or at least Cat's arc.
->>>>>>> Antagonists absolutely can have lasting impacts on stories. Look at Akua and Liesse. Look at Summer and the ruin of southern Callow. None of the heroes have been anyway near as successful. Will had the best run of all of them back in Book 2. 
->>>>>>> >We have to look to what has only been inferred from the past to get an idea of how the world works
->>>>>>> I think showing>telling and evidence>speculation  should be the benchmarks we use to inform our understanding.
->>>>>>> It's better to judge the heroes by what they've actually done rather than by what history says a completely different set of heroes did. 
->>>>>>> >this story is about Black, Malacia, and Cat exploiting the way it.
->>>>>>> Totally! (Although I'm not certain how much Malicia should be included in this group, these days.) But a story is defined as much by its antagonists as it's protagonists. And what the antagonists have done seems to paint a picture of them falling like a house of cards in this coming conflict. They don't have many feats of heroic last stands or last-minute saves, and their odds are looking pretty grim.
 >>>>>>> 
+>>>>>>> That's a doylist explanation though. *In-universe* the heroes should get as much help as heroes get, by definition.
+>>>>>>> 
+>>>>>>>  >Any heavenly help that actually long-term helped would end the story, or at least Cat's arc.
+>>>>>>> 
+>>>>>>> Antagonists absolutely can have lasting impacts on stories. Look at Akua and Liesse. Look at Summer and the ruin of southern Callow. None of the heroes have been anyway near as successful. Will had the best run of all of them back in Book 2. 
+>>>>>>> 
+>>>>>>> >We have to look to what has only been inferred from the past to get an idea of how the world works
+>>>>>>> 
+>>>>>>> I think showing>telling and evidence>speculation  should be the benchmarks we use to inform our understanding.
+>>>>>>> 
+>>>>>>> It's better to judge the heroes by what they've actually done rather than by what history says a completely different set of heroes did. 
+>>>>>>> 
+>>>>>>> >this story is about Black, Malacia, and Cat exploiting the way it.
+>>>>>>> 
+>>>>>>> Totally! (Although I'm not certain how much Malicia should be included in this group, these days.) But a story is defined as much by its antagonists as it's protagonists. And what the antagonists have done seems to paint a picture of them falling like a house of cards in this coming conflict. They don't have many feats of heroic last stands or last-minute saves, and their odds are looking pretty grim.
 
->>> **u/None** [+10] *
+>>> **u/None** [+11]  (8 hours later)
 >>> 
 >>> No, it says it works that way. It literally never does. Here, I’ll make my prediction for the dead king invasion. arc outright: 
->>> no good charachter gets a deus ex machina powerup or otherwise becomes a serious threat onscreen.
->>> heroes and Procer continue to be toothless unless they’re offscreen.
->>> Narrative still doesn’t matter unless black or cat or bard or *maybe* a new charachter introduced who follows along those lines wants to exploit it without setup via poorly defined means.
 >>> 
+>>> no good charachter gets a deus ex machina powerup or otherwise becomes a serious threat onscreen.
+>>> 
+>>> heroes and Procer continue to be toothless unless they’re offscreen.
+>>> 
+>>> Narrative still doesn’t matter unless black or cat or bard or *maybe* a new charachter introduced who follows along those lines wants to exploit it without setup via poorly defined means.
 
->>>> **u/Mountebank** [+12] *
+>>>> **u/Mountebank** [+12]  (11 hours later)
 >>>> 
 >>>> Exactly. The Dead King has been at this long enough that he knows exactly how hard to push before Good jumps in with a massive Deus Ex. It's how he became King in the flashbacks--he made very slow and subtle moves and played the long game until he was the only choice left rather than try to lead an uprising or to do some politicking to gain the position over his oppositions.
->>>> That doesn't mean this latest invasion will be successful--they haven't been so far--but it does mean that he won't push hard enough for Good to somehow emerge stronger and better than before. He'll push until the State collapses and idiots like the Saint of Swords are left in charge, then probably retreat and let them turn to infighting and internal purges that, maybe, will lead to people like Cordelia switching Sides.
 >>>> 
+>>>> That doesn't mean this latest invasion will be successful--they haven't been so far--but it does mean that he won't push hard enough for Good to somehow emerge stronger and better than before. He'll push until the State collapses and idiots like the Saint of Swords are left in charge, then probably retreat and let them turn to infighting and internal purges that, maybe, will lead to people like Cordelia switching Sides.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (17 hours later)
 >>> 
 >>> I see a way for her to work it out.  She can marry Cat.  Don't forget, she is a prince after all, and marriage has been brought up in the past.  It's worth pointing out that her armies have to be utterly destroyed and submission has to be the only option before that happens; at least, if the fae were any guideline.  I bet Salia is going to get it.
->>> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (7 hours later)
 >> 
 >> I mean, they were already fucked way before this, but yeah. Theyre completely toothless and have enemies on all sides, and the four things they have going for them (Crusade, Auger, Klaus, and the northern principalities) vanish whenever its comvenient for the plot.
->> In a sorta-not-really defense, william won quite a lot, and by the grace of his own skill to boot. Cat only managed to pull out her win there via a nonsensical story with no setup *and* accidental help from akua that somehow did exactly what cat needed it to. Honestly, the idea that heroes have this sort of “heaven guidance” rather than villains has been baffling to me.
 >> 
+>> In a sorta-not-really defense, william won quite a lot, and by the grace of his own skill to boot. Cat only managed to pull out her win there via a nonsensical story with no setup *and* accidental help from akua that somehow did exactly what cat needed it to. Honestly, the idea that heroes have this sort of “heaven guidance” rather than villains has been baffling to me.
 
->> **u/paradoxinclination** [+2] *
+>> **u/paradoxinclination** [+2]  (14 hours later)
 >> 
 >> >Hell, haven't the heroes *lost* every battle they've been in, bar that off-screen one with the demon of absence and the Champion killing the Captain (with the Bard's assistance)?
->> There was also that time William lopped Catherine's head off at the end of their pattern of three. The Pilgrim also had something of a victory when he destroyed Cat's portal and knocked her and Masego into a coma.
 >> 
+>> There was also that time William lopped Catherine's head off at the end of their pattern of three. The Pilgrim also had something of a victory when he destroyed Cat's portal and knocked her and Masego into a coma.
 
->>> **u/Agnoman** [+5] *
+>>> **u/Agnoman** [+5]  (19 hours later)
 >>> 
 >>> >There was also that time William lopped Catherine's head off at the end of their pattern of three
+>>> 
 >>> In a fight he probably should have won anyway, judging by their past performances. But more to the point, it's hard to call that one a win for Heroic Stories when three seconds later when the Story help saved Cat with a last minute rescue:
+>>> 
 >>> >“A force was helping me along,” the bespectacled mage said. “Your Name, and… something else. It was like Creation did not want you to be dead.”.
+>>> 
 >>> Followed by Cat winning by tricking an angel into ressurecting her as she "couldn't be dead and win"... despite that fact that [plenty of winners in story die](https://tvtropes.org/pmwiki/pmwiki.php/Main/AGoodWayToDie) and Will's own victory condition was death.
+>>> 
 >>> >“You will die before the day is done,” I rasped.
+>>> 
 >>> “And yet,” the Lone Swordsman smiled, “I win.”
-
+>>> 
 >>> ***
 >>> >The Pilgrim also had something of a victory when he destroyed Cat's portal and knocked her and Masego into a coma.
->>> Hard to say that that came from the Story though, when you figure that it should probably just be something that one of the oldest and most powerful Heroes on the continent is able to do.
->>> And even then it didn't mean anything anyway? Cat and Mastro where asleep, the Crusade outnumbered the Army of Callow two to one, they had the Saint, the Pilgrim, and ten other heroes besides to field against Archer, and they didn't really acheive anything of note.
->>> Then all the heroes went to fight Akua, and put up a pretty bad showing despite it being Akua's first time in a physical body in a long time, being almost completey unfamiliar with the specifics of her borrowed power, and just generally being the incarnation of the old-school villainy that the heroes are meant to obliterate, both in terms of her methods and her position as the Butcher of Liesse.
->>> Then Cat wakes up from her nap with no idea of what's happened in the past few days, and rather than the heroes capitalising on any sort of confusion or disorientation, she immediately takes control of the situation and disengages without difficulty.
 >>> 
+>>> Hard to say that that came from the Story though, when you figure that it should probably just be something that one of the oldest and most powerful Heroes on the continent is able to do.
+>>> 
+>>> And even then it didn't mean anything anyway? Cat and Mastro where asleep, the Crusade outnumbered the Army of Callow two to one, they had the Saint, the Pilgrim, and ten other heroes besides to field against Archer, and they didn't really acheive anything of note.
+>>> 
+>>> Then all the heroes went to fight Akua, and put up a pretty bad showing despite it being Akua's first time in a physical body in a long time, being almost completey unfamiliar with the specifics of her borrowed power, and just generally being the incarnation of the old-school villainy that the heroes are meant to obliterate, both in terms of her methods and her position as the Butcher of Liesse.
+>>> 
+>>> Then Cat wakes up from her nap with no idea of what's happened in the past few days, and rather than the heroes capitalising on any sort of confusion or disorientation, she immediately takes control of the situation and disengages without difficulty.
 
->>>> **u/Gr_Cheese** [+2] *
+>>>> **u/Gr_Cheese** [+2]  (20 hours later)
 >>>> 
 >>>> You seem to be expressing skepticism about the validity of heroic losses. I have some pretty major problems with the end of the whole Angel arc... The only contribution I have is that, in regards to William beheading Cat, the Wandering Bard explicitly stated:
->>>> >She’d watched from a distance as William killed the Squire and known what it meant. That the Lone Swordsman had lost, that Liesse was lost, that the rebellion was over. - Book 2, Epilogue
->>>> But The Battle of Camps ran on pure story: The heroes' victory could not be decided until Cat woke up, and the pseudo-heroic role Cat claimed as *Orphan Defending Home Country from Foreign Aggressors*  basically guaranteed her victory (extended to Akua, who even comments on the novelty of acting in a heroic role.)
->>>> The meta-story here is villains flipping the story to eek out victory despite creational logic dictating Good will win in the end. The Battle of the Camps plays that tune well.
 >>>> 
+>>>> >She’d watched from a distance as William killed the Squire and known what it meant. That the Lone Swordsman had lost, that Liesse was lost, that the rebellion was over. - Book 2, Epilogue
+>>>> 
+>>>> But The Battle of Camps ran on pure story: The heroes' victory could not be decided until Cat woke up, and the pseudo-heroic role Cat claimed as *Orphan Defending Home Country from Foreign Aggressors*  basically guaranteed her victory (extended to Akua, who even comments on the novelty of acting in a heroic role.)
+>>>> 
+>>>> The meta-story here is villains flipping the story to eek out victory despite creational logic dictating Good will win in the end. The Battle of the Camps plays that tune well.
 
->>>>> **u/Agnoman** [+3] *
+>>>>> **u/Agnoman** [+3]  (21 hours later)
 >>>>> 
 >>>>> >You seem to be expressing skepticism about the validity of heroic losses
+>>>>> 
 >>>>> Less that, more scepticism about how dangerous heroes and heroic stories are meant to be, when they've spent most of the story being soundly beaten. I feel like there's a big gap between their onformed abilities and the one's we've actually seen.
+>>>>> 
 >>>>> Following on from this, I'm expressing doubt at the heroes ability to save the day here.
+>>>>> 
 >>>>> >the Wandering Bard explicitly stated
 >>>>> >>She’d watched from a distance as William killed the Squire and known what it meant. That the Lone Swordsman had lost, that Liesse was lost, that the rebellion was over. - Book 2, Epilogue
->>>>> Personally I don't think it's really a point in the heroes favour that apparently Will winning his last fight in the pattern of three apparently lead directly to his losing.
->>>>> And then there's the issue where Cat is benefiting from the story post beheading but before pulling the sword from the stone and exerting her claim in a way that puts the story behind her.(hell, she was both Dead and nameless between these two things). She got a last-minute rescue , explicitly story-given, a ressurection that the angels apparently had to give her for story reasons,  and a last-minute power up that let her win. Did the story just fiat say the villain wins, the hero loses?
->>>>> But even ignoring this. The issue is that I don't buy the threat level of the heiress, as they've not managed anything in the way of a meaningful victory. Will beheading Cat does not count as meaningful when all consequences of this are undone within three chapters and Cat is better of for it. 
->>>>> You get the same issue with the Battle of the Camps - the Pilgrim takes out Cat and Masgeo, but nothing happens due to this that really has any lasting impact.
-
->>>>> >the pseudo-heroic role Cat claimed as Orphan Defending Home Country from Foreign Aggressors basically guaranteed her victory (extended to Akua, who even comments on the novelty of acting in a heroic role.)
->>>>> There's a fair point you've made in this. But if it's that easy to co-opt narrative momentum.. it seems like less of a big deal to me. If a shiny coat of paint can make the ghost of *Akua* a heroic figure, then heroes don't have the monopoly that Black's so obsessed with. If setting yourself up as a hero means winning like a hero is meant to... then just always do that?
->>>>> If heiress are dangerous because they have the narrative on their side, but a savvy villain can steal that support.... and almost all remaining villains are that sort of savvy - what is it that makes heroes especially dangerous again?
->>>>> Maybe I'd buy it more if we'd seen the heroes actually succeeding in the way that everyone says they succeed... but the only time they've really won in the story itself, or had the narrative support which is meant to be their trump card actually work, is that one time with the Champion and the Captain.
 >>>>> 
+>>>>> Personally I don't think it's really a point in the heroes favour that apparently Will winning his last fight in the pattern of three apparently lead directly to his losing.
+>>>>> 
+>>>>> And then there's the issue where Cat is benefiting from the story post beheading but before pulling the sword from the stone and exerting her claim in a way that puts the story behind her.(hell, she was both Dead and nameless between these two things). She got a last-minute rescue , explicitly story-given, a ressurection that the angels apparently had to give her for story reasons,  and a last-minute power up that let her win. Did the story just fiat say the villain wins, the hero loses?
+>>>>> 
+>>>>> But even ignoring this. The issue is that I don't buy the threat level of the heiress, as they've not managed anything in the way of a meaningful victory. Will beheading Cat does not count as meaningful when all consequences of this are undone within three chapters and Cat is better of for it. 
+>>>>> 
+>>>>> You get the same issue with the Battle of the Camps - the Pilgrim takes out Cat and Masgeo, but nothing happens due to this that really has any lasting impact.
+>>>>> 
+>>>>> >the pseudo-heroic role Cat claimed as Orphan Defending Home Country from Foreign Aggressors basically guaranteed her victory (extended to Akua, who even comments on the novelty of acting in a heroic role.)
+>>>>> 
+>>>>> There's a fair point you've made in this. But if it's that easy to co-opt narrative momentum.. it seems like less of a big deal to me. If a shiny coat of paint can make the ghost of *Akua* a heroic figure, then heroes don't have the monopoly that Black's so obsessed with. If setting yourself up as a hero means winning like a hero is meant to... then just always do that?
+>>>>> 
+>>>>> If heiress are dangerous because they have the narrative on their side, but a savvy villain can steal that support.... and almost all remaining villains are that sort of savvy - what is it that makes heroes especially dangerous again?
+>>>>> 
+>>>>> Maybe I'd buy it more if we'd seen the heroes actually succeeding in the way that everyone says they succeed... but the only time they've really won in the story itself, or had the narrative support which is meant to be their trump card actually work, is that one time with the Champion and the Captain.
 
->>>>>> **u/Gr_Cheese** [+1] *
+>>>>>> **u/Gr_Cheese** [+1]  (a day later)
 >>>>>> 
 >>>>>> The Angel arc used its own logic to win. I don't know why the bard thought what she thought, but at least in-universe the outcome is 'logical' for the characters and is consistent in that sense. Maybe it went over my head, or maybe it was just silly. I'm happy enough to ignore than inconsistency so long as the author doesn't try it again.
->>>>>> > You get the same issue with the Battle of the Camps - the Pilgrim takes out Cat and Masgeo, but nothing happens due to this that really has any lasting impact.
->>>>>> Because the shape of that story was *Hero Awakes At Last Moment To Save The Day*. Logically, in PGtE universe, **nothing could be resolved until Cat awoke**. The Pilgrim and the Saint even commented on it:
->>>>>> > Even if the Black Queen woke, as the Pilgrim had hinted she might should defeat loom tall over the Callowans. - Book 4, Kaleidoscope VI
->>>>>> &nbsp;
->>>>>> > then heroes don't have the monopoly that Black's so obsessed with. 
->>>>>> Black spent a good portion of the last 20 years snuffing heroes in the crib while trying to 'turn' a heroic story, and Cat was the culmination of that. She wasn't supposed to be Evil. She chose to be.
->>>>>> Black, himself, has never been shown or hinted at having ever been able to step into a heroic role.
->>>>>> So I'd argue Heroes in-universe do have a monopoly on heroic roles, but Black created an exception.
->>>>>> > what is it that makes heroes especially dangerous again?
->>>>>> I agree with you here. Up to this point in the story Cat's a bit of a Mary Sue, the horrors aren't that horrible in context, the villains don't fail, and nobody important dies (except Captain.) The only evidence of 'creational logic dictates Good will win in the end' we have is the fact that every character in-universe takes this as fact. We haven't actually witnessed it.
->>>>>> That said, the author has been improving, and we might see these problems fleshed out.
->>>>>> The Battle of the Camps was more palatable than Arcadia, and Arcadia was more palatable than the Angel arc.
 >>>>>> 
+>>>>>> > You get the same issue with the Battle of the Camps - the Pilgrim takes out Cat and Masgeo, but nothing happens due to this that really has any lasting impact.
+>>>>>> 
+>>>>>> Because the shape of that story was *Hero Awakes At Last Moment To Save The Day*. Logically, in PGtE universe, **nothing could be resolved until Cat awoke**. The Pilgrim and the Saint even commented on it:
+>>>>>> 
+>>>>>> > Even if the Black Queen woke, as the Pilgrim had hinted she might should defeat loom tall over the Callowans. - Book 4, Kaleidoscope VI
+>>>>>> 
+>>>>>> &nbsp;
+>>>>>> 
+>>>>>> > then heroes don't have the monopoly that Black's so obsessed with. 
+>>>>>> 
+>>>>>> Black spent a good portion of the last 20 years snuffing heroes in the crib while trying to 'turn' a heroic story, and Cat was the culmination of that. She wasn't supposed to be Evil. She chose to be.
+>>>>>> 
+>>>>>> Black, himself, has never been shown or hinted at having ever been able to step into a heroic role.
+>>>>>> 
+>>>>>> So I'd argue Heroes in-universe do have a monopoly on heroic roles, but Black created an exception.
+>>>>>> 
+>>>>>> > what is it that makes heroes especially dangerous again?
+>>>>>> 
+>>>>>> I agree with you here. Up to this point in the story Cat's a bit of a Mary Sue, the horrors aren't that horrible in context, the villains don't fail, and nobody important dies (except Captain.) The only evidence of 'creational logic dictates Good will win in the end' we have is the fact that every character in-universe takes this as fact. We haven't actually witnessed it.
+>>>>>> 
+>>>>>> That said, the author has been improving, and we might see these problems fleshed out.
+>>>>>> 
+>>>>>> The Battle of the Camps was more palatable than Arcadia, and Arcadia was more palatable than the Angel arc.
 
->>>>>>> **u/Agnoman** [+3] *
+>>>>>>> **u/Agnoman** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> >but at least in-universe the outcome is 'logical' for the characters and is consistent in that sense
->>>>>>> The situation is one where Cat does and then, for not much in the way of reason, the narrative intercedes to mount a rescue for her. Notably, Cat doesn't know why this happens, so it's certainly not her cleverly manuevered the situation. Shortly after this, Cat looses her name and presumably her "story". She gets her name back, and *then* she starts asserting a position in the story (I think there are issues with how this happens, but let's ignore those) and gets a power-up and a ressurection.
->>>>>>> This is all made possible solely by the story. Without any prompting or coercion, the story up and said "you're going to win now Cat". It's hard to tie the rescue to what came later, seeing as in-between you get the disjoint that is the Squire Name and Story being stolen. And Cat was only able to asset her position in the story because the story said she would be alive (well, undead) to assert her position. It's a piece of circular logic that points at Cat being handed a win by the story, which is sort of the opposite of how what's apparently meant to happen. 
->>>>>>> (And Cat wasn't really a Hero there - she'd just soundly rejected a redemption story with Will, and then later with the Angels.)
-
->>>>>>> I can sort of see how it was *meant* to be read, but personally I have issues with it.
->>>>>>> >**nothing could be resolved until Cat awoke**. The Pilgrim and Saint even commented on it
->>>>>>> I'm going to be pedantic and point out that the quote doesn't actually say that. What they say is that Cat will (possibly) awake before anything is resolved.
->>>>>>> >So I'd argue Heroes in-universe do have a monopoly on heroic roles
->>>>>>> Hmmmm. Fair point. Well, I'll point out that Akua didn't have much trouble benefiting from all this
->>>>>>> >The only evidence of 'creational logic dictates Good will win in the end' we have is that every character in-universe takes this as fact. We haven't actually witnessed it.
->>>>>>> Yeah, this is the point I'm circling. Procer's doomed, unless a heroic underdog rises up to beat the odds.. except we've literally never seen a heroic underdog beat the odds.
->>>>>>> These two instances, Will and the Pilgrim sending Cat for a nap, were just semi-random points that were brought up as an example of heroes succeeding at stuff, but I don't think they actually *do* work as that - both events don't lead to the heroes really gaining anything in the way of an advantage or a victory, and certainly don't lead to anything impressive enough to matter in front of the Dead King (or the half dozen other threats that exist).
->>>>>>> >That said, the author has been improving, and we might see these problems fleshed out.
->>>>>>> We're getting into pure personal preference here, but I miss the earlier books. Not for the plot-related things, but more for character moments and the unveiling of the setting (of which admittedly there's been a lot of recently as well). And just, I don't know, getting to read the *promise* of things, rather than the executions that I sometimes take issue with.
->>>>>>> But again, this is entirely subjective - I totally respect that we might have a difference of opinion.
 >>>>>>> 
+>>>>>>> The situation is one where Cat does and then, for not much in the way of reason, the narrative intercedes to mount a rescue for her. Notably, Cat doesn't know why this happens, so it's certainly not her cleverly manuevered the situation. Shortly after this, Cat looses her name and presumably her "story". She gets her name back, and *then* she starts asserting a position in the story (I think there are issues with how this happens, but let's ignore those) and gets a power-up and a ressurection.
+>>>>>>> 
+>>>>>>> This is all made possible solely by the story. Without any prompting or coercion, the story up and said "you're going to win now Cat". It's hard to tie the rescue to what came later, seeing as in-between you get the disjoint that is the Squire Name and Story being stolen. And Cat was only able to asset her position in the story because the story said she would be alive (well, undead) to assert her position. It's a piece of circular logic that points at Cat being handed a win by the story, which is sort of the opposite of how what's apparently meant to happen. 
+>>>>>>> 
+>>>>>>> (And Cat wasn't really a Hero there - she'd just soundly rejected a redemption story with Will, and then later with the Angels.)
+>>>>>>> 
+>>>>>>> I can sort of see how it was *meant* to be read, but personally I have issues with it.
+>>>>>>> 
+>>>>>>> >**nothing could be resolved until Cat awoke**. The Pilgrim and Saint even commented on it
+>>>>>>> 
+>>>>>>> I'm going to be pedantic and point out that the quote doesn't actually say that. What they say is that Cat will (possibly) awake before anything is resolved.
+>>>>>>> 
+>>>>>>> >So I'd argue Heroes in-universe do have a monopoly on heroic roles
+>>>>>>> 
+>>>>>>> Hmmmm. Fair point. Well, I'll point out that Akua didn't have much trouble benefiting from all this
+>>>>>>> 
+>>>>>>> >The only evidence of 'creational logic dictates Good will win in the end' we have is that every character in-universe takes this as fact. We haven't actually witnessed it.
+>>>>>>> 
+>>>>>>> Yeah, this is the point I'm circling. Procer's doomed, unless a heroic underdog rises up to beat the odds.. except we've literally never seen a heroic underdog beat the odds.
+>>>>>>> 
+>>>>>>> These two instances, Will and the Pilgrim sending Cat for a nap, were just semi-random points that were brought up as an example of heroes succeeding at stuff, but I don't think they actually *do* work as that - both events don't lead to the heroes really gaining anything in the way of an advantage or a victory, and certainly don't lead to anything impressive enough to matter in front of the Dead King (or the half dozen other threats that exist).
+>>>>>>> 
+>>>>>>> >That said, the author has been improving, and we might see these problems fleshed out.
+>>>>>>> 
+>>>>>>> We're getting into pure personal preference here, but I miss the earlier books. Not for the plot-related things, but more for character moments and the unveiling of the setting (of which admittedly there's been a lot of recently as well). And just, I don't know, getting to read the *promise* of things, rather than the executions that I sometimes take issue with.
+>>>>>>> 
+>>>>>>> But again, this is entirely subjective - I totally respect that we might have a difference of opinion.
 
->>>>>>>> **u/Gr_Cheese** [+1] *
+>>>>>>>> **u/Gr_Cheese** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> I'm not going to defend the Angel arc any further than I have. It needs Author intervention.
->>>>>>>> >I'm going to be pedantic and point out that the quote doesn't actually say that. What they say is that Cat will (possibly) awake before anything is resolved.
->>>>>>>> No, the quote does not actually say that, but that was the only outcome of the Story that Creation picked up. And I'm not arguing "That was the only way it could have happened because it happened." I'm arguing that the Story of *Hero Awakes At Last Moment To Save The Day* was set in place after Cat didn't die from Fae-Gate-Recoil and the Creational Logic of that story dictated that nothing could be *resolved* until Cat awoke. Could the heroes have flipped the story? Theoretically, but Pilgrim & Saint seemed skeptical that Cat could pull a heroic role and did not try to change anything. 
->>>>>>>> >Well, I'll point out that Akua didn't have much trouble benefiting from all this
->>>>>>>> My interpretation of this is that Akua benefited from Cat's heroic Role for the same reason that she was bound to Cat's oaths and couldn't kill Masego.
->>>>>>>> > heroes succeeding at stuff, but I don't think they actually do work as that
->>>>>>>> Heroes are guaranteed wins. Those 'counted' and then played into the meta-story of villains flipping stories to eek out victory. This is short run vs. long run. Pilgrim won the fight, but 'lost' the battle. That's Cat and Black's game.
->>>>>>>> Tyrant of Helike on the other hand? Not sure why he gets to be special. My pet theory is that the Bard is not Neutral, and is in fact working against her purpose to destabilize the world.
 >>>>>>>> 
+>>>>>>>> >I'm going to be pedantic and point out that the quote doesn't actually say that. What they say is that Cat will (possibly) awake before anything is resolved.
+>>>>>>>> 
+>>>>>>>> No, the quote does not actually say that, but that was the only outcome of the Story that Creation picked up. And I'm not arguing "That was the only way it could have happened because it happened." I'm arguing that the Story of *Hero Awakes At Last Moment To Save The Day* was set in place after Cat didn't die from Fae-Gate-Recoil and the Creational Logic of that story dictated that nothing could be *resolved* until Cat awoke. Could the heroes have flipped the story? Theoretically, but Pilgrim & Saint seemed skeptical that Cat could pull a heroic role and did not try to change anything. 
+>>>>>>>> 
+>>>>>>>> >Well, I'll point out that Akua didn't have much trouble benefiting from all this
+>>>>>>>> 
+>>>>>>>> My interpretation of this is that Akua benefited from Cat's heroic Role for the same reason that she was bound to Cat's oaths and couldn't kill Masego.
+>>>>>>>> 
+>>>>>>>> > heroes succeeding at stuff, but I don't think they actually do work as that
+>>>>>>>> 
+>>>>>>>> Heroes are guaranteed wins. Those 'counted' and then played into the meta-story of villains flipping stories to eek out victory. This is short run vs. long run. Pilgrim won the fight, but 'lost' the battle. That's Cat and Black's game.
+>>>>>>>> 
+>>>>>>>> Tyrant of Helike on the other hand? Not sure why he gets to be special. My pet theory is that the Bard is not Neutral, and is in fact working against her purpose to destabilize the world.
 
->>>>>>>>> **u/Agnoman** [+3] *
+>>>>>>>>> **u/Agnoman** [+3]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> >the Creational Logic of that story dictated that nothing could be resolved until Cat awoke.
->>>>>>>>> Not really? Again, the Pilgrim just says that Cat will return at the darkest hour. *Not* that everything else is pointless before that. I think we can assume that he's meant to be taken at face value here, and not hopelessly incorrect.
->>>>>>>>> Just because King Arthur will return to Britain in is hour of greatest need, doesn't mean that that hour can't come so long as he sleeps. That's mixing up the cause and the effect here.
->>>>>>>>> >Theoretically, but Pilgrim & Saint seemed skeptical that Cat could pull a heroic role and did not try to change anything. 
->>>>>>>>> Which doesn't exactly paint a picture of Heroic competence. And remember, Pilgrim *can see the future*.
->>>>>>>>> But that aside, he did try to set up a narrative. He laid out why this war would be fought and how, then stuck to those terms. The heroes mostly fought in defence of each other, and against an army of people-eaters, murderous fairies, the undead and the Woe (who I don't think I need to paint a villanous picture of considering their usual modus operandi, but I'll point out that these chapters came out while the Court extra story came out, where thief pulled a Dread Emperor Traitorous). They where backed into a corner, with no supplies, and yeah, they turned down Cat's offer of a truce, but they had every reason to do so - to them, she's the evil fairy Queen who innocents must be saved from: why would they make peace with the momster?
->>>>>>>>> Another issue I have with the "narrative" in universe is that it often seems rather arbitrary. If you go on TVTropes, then almost any sequence of events has an assisted trope, AND has a trope for if things go the other way. The hero that has evil parents that/is an orphan / has loving parents - all of which can be used interchangeably. The hero gets the girl / doesn't. Etc. Etc. Often, these perspectives can be as valid as any other - what, then, determines who has control of the narrative? It always seems to end up being Cat or Black (or Bard that one time), but if it's arbitrary then it doesn't feel super earned.
->>>>>>>>> All of which is to say, Cat argued that the story was one way, the heroes another, and the. For poorly defined reasons Cat was right.
->>>>>>>>> But let's look at things on a smaller scale. I don't think Heroes had one narrative within this story that made heroes look dangerous.
->>>>>>>>> The Pilgrim shows up in a situation which was described as his archetypal story - heroes overmatched and with some of them dead - doesn't really do much more than a momentary respite and upping the difficulty of the fight. Which Cat continues winning until the Saint shows up, before she runs away without anyone stopping her.
->>>>>>>>> Two heroes die after being outnumbered by man-eaters - which, as situations go, is meant to be a heroic speciality.
->>>>>>>>> The Saint fails to kill someone who is monologing about killing and eating her.
->>>>>>>>> All heroes fail to do something about the elaborate plan with clearly defined failure points, leading to the death of thousands. This is despite Cat talking earlier about the need to avoid plans with crucial pivots earlier, and the fact that the Heroes can see the future.
->>>>>>>>> The heroes failed on every level except for Pilgrim knocking out Cat and Mastro for three days, which didn't lead to any consequences that survived more than a few chapters. They didn't benefit from any narratives, and even outnumbering the opposition two to one with food soldiers, and *twelve to one* with Named, they put up a terrible showing.
->>>>>>>>> The real issue I'm having here is that in the story the heroes come of as toothless. They've spent the last twenty years  being  beaten, and that trend  doesn't Iook like it's going to be reverezed  any time soon. I don't think pointing to a battle where the heroes failed to win at anything is going to change this point.
->>>>>>>>> >That's Cat and Black's game.
->>>>>>>>> Sure, but it'd be nice if the game had someone else they were playing against, who could make moves and provide danger to them. The Bard seems to be the only Hero competent enough to be a danger on the narrative level. Pilgrim is outmaneuvered, Hanno is outmaneuvered and most of them are seemingly unaware or unconcerned with the meta level of stories.
->>>>>>>>> I'm saying that the heroes have no unambiguous feats, whether by dint of their narratives or by dint of their own abilities, that lead to me to think they'll do more than fold like cheap paper against the odds they're up against. They've done nothing but lose so far, in the story we've read and in the twenty years preceding it.why would that change now?
 >>>>>>>>> 
+>>>>>>>>> Not really? Again, the Pilgrim just says that Cat will return at the darkest hour. *Not* that everything else is pointless before that. I think we can assume that he's meant to be taken at face value here, and not hopelessly incorrect.
+>>>>>>>>> 
+>>>>>>>>> Just because King Arthur will return to Britain in is hour of greatest need, doesn't mean that that hour can't come so long as he sleeps. That's mixing up the cause and the effect here.
+>>>>>>>>> 
+>>>>>>>>> >Theoretically, but Pilgrim & Saint seemed skeptical that Cat could pull a heroic role and did not try to change anything. 
+>>>>>>>>> 
+>>>>>>>>> Which doesn't exactly paint a picture of Heroic competence. And remember, Pilgrim *can see the future*.
+>>>>>>>>> 
+>>>>>>>>> But that aside, he did try to set up a narrative. He laid out why this war would be fought and how, then stuck to those terms. The heroes mostly fought in defence of each other, and against an army of people-eaters, murderous fairies, the undead and the Woe (who I don't think I need to paint a villanous picture of considering their usual modus operandi, but I'll point out that these chapters came out while the Court extra story came out, where thief pulled a Dread Emperor Traitorous). They where backed into a corner, with no supplies, and yeah, they turned down Cat's offer of a truce, but they had every reason to do so - to them, she's the evil fairy Queen who innocents must be saved from: why would they make peace with the momster?
+>>>>>>>>> 
+>>>>>>>>> Another issue I have with the "narrative" in universe is that it often seems rather arbitrary. If you go on TVTropes, then almost any sequence of events has an assisted trope, AND has a trope for if things go the other way. The hero that has evil parents that/is an orphan / has loving parents - all of which can be used interchangeably. The hero gets the girl / doesn't. Etc. Etc. Often, these perspectives can be as valid as any other - what, then, determines who has control of the narrative? It always seems to end up being Cat or Black (or Bard that one time), but if it's arbitrary then it doesn't feel super earned.
+>>>>>>>>> 
+>>>>>>>>> All of which is to say, Cat argued that the story was one way, the heroes another, and the. For poorly defined reasons Cat was right.
+>>>>>>>>> 
+>>>>>>>>> But let's look at things on a smaller scale. I don't think Heroes had one narrative within this story that made heroes look dangerous.
+>>>>>>>>> 
+>>>>>>>>> The Pilgrim shows up in a situation which was described as his archetypal story - heroes overmatched and with some of them dead - doesn't really do much more than a momentary respite and upping the difficulty of the fight. Which Cat continues winning until the Saint shows up, before she runs away without anyone stopping her.
+>>>>>>>>> 
+>>>>>>>>> Two heroes die after being outnumbered by man-eaters - which, as situations go, is meant to be a heroic speciality.
+>>>>>>>>> 
+>>>>>>>>> The Saint fails to kill someone who is monologing about killing and eating her.
+>>>>>>>>> 
+>>>>>>>>> All heroes fail to do something about the elaborate plan with clearly defined failure points, leading to the death of thousands. This is despite Cat talking earlier about the need to avoid plans with crucial pivots earlier, and the fact that the Heroes can see the future.
+>>>>>>>>> 
+>>>>>>>>> The heroes failed on every level except for Pilgrim knocking out Cat and Mastro for three days, which didn't lead to any consequences that survived more than a few chapters. They didn't benefit from any narratives, and even outnumbering the opposition two to one with food soldiers, and *twelve to one* with Named, they put up a terrible showing.
+>>>>>>>>> 
+>>>>>>>>> The real issue I'm having here is that in the story the heroes come of as toothless. They've spent the last twenty years  being  beaten, and that trend  doesn't Iook like it's going to be reverezed  any time soon. I don't think pointing to a battle where the heroes failed to win at anything is going to change this point.
+>>>>>>>>> 
+>>>>>>>>> >That's Cat and Black's game.
+>>>>>>>>> 
+>>>>>>>>> Sure, but it'd be nice if the game had someone else they were playing against, who could make moves and provide danger to them. The Bard seems to be the only Hero competent enough to be a danger on the narrative level. Pilgrim is outmaneuvered, Hanno is outmaneuvered and most of them are seemingly unaware or unconcerned with the meta level of stories.
+>>>>>>>>> 
+>>>>>>>>> I'm saying that the heroes have no unambiguous feats, whether by dint of their narratives or by dint of their own abilities, that lead to me to think they'll do more than fold like cheap paper against the odds they're up against. They've done nothing but lose so far, in the story we've read and in the twenty years preceding it.why would that change now?
 
->>>>>>>>>> **u/Gr_Cheese** [+1] *
+>>>>>>>>>> **u/Gr_Cheese** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> I'm pretty much done with expanding this argument, but I'm going to address your first paragraph:
->>>>>>>>>> > Not really? Again, the Pilgrim just says that Cat will return at the darkest hour. Not that everything else is pointless before that.
->>>>>>>>>> Pilgrim & Saint recognized the potential story, but did not accept that it was actually playing out (they didn't do shit to act against it), because they only saw Cat as a villain. The story was in place, barring interference with the story, it WILL happen. That is what this world's logic is built on, that is Creational Logic. The cause and effect here is an object put into motion staying in motion and reaching its inevitable conclusion.
->>>>>>>>>> If we swapped Pilgrim and Black here, what do you think Black would have done? He would have recognized the story being put into play, and avoided it -- potentially by negotiating a 'favorable' outcome before Cat had a chance to swoop in and inevitably defeat him.
->>>>>>>>>> The Grey Pilgrim was 1) Wrong, and 2) Full of himself to believe Cat couldn't pull a Heroic role. 
->>>>>>>>>> > Pilgrim can see the future.
->>>>>>>>>> He does not have a precog class, that the Pilgrim or any other non-Precog classed hero can see the future was never established. The closest claim you can make is that Heroes can feel the shape of stories, or have selective clairvoyance due to the heavens or Bard positioning them.
->>>>>>>>>> I'm sorry to say that you can have the last word. I'm out of steam. Perhaps we can agree that it would be good to see the Author up the ante in such a way that Heroes are actually a threat.
 >>>>>>>>>> 
+>>>>>>>>>> > Not really? Again, the Pilgrim just says that Cat will return at the darkest hour. Not that everything else is pointless before that.
+>>>>>>>>>> 
+>>>>>>>>>> Pilgrim & Saint recognized the potential story, but did not accept that it was actually playing out (they didn't do shit to act against it), because they only saw Cat as a villain. The story was in place, barring interference with the story, it WILL happen. That is what this world's logic is built on, that is Creational Logic. The cause and effect here is an object put into motion staying in motion and reaching its inevitable conclusion.
+>>>>>>>>>> 
+>>>>>>>>>> If we swapped Pilgrim and Black here, what do you think Black would have done? He would have recognized the story being put into play, and avoided it -- potentially by negotiating a 'favorable' outcome before Cat had a chance to swoop in and inevitably defeat him.
+>>>>>>>>>> 
+>>>>>>>>>> The Grey Pilgrim was 1) Wrong, and 2) Full of himself to believe Cat couldn't pull a Heroic role. 
+>>>>>>>>>> 
+>>>>>>>>>> > Pilgrim can see the future.
+>>>>>>>>>> 
+>>>>>>>>>> He does not have a precog class, that the Pilgrim or any other non-Precog classed hero can see the future was never established. The closest claim you can make is that Heroes can feel the shape of stories, or have selective clairvoyance due to the heavens or Bard positioning them.
+>>>>>>>>>> 
+>>>>>>>>>> I'm sorry to say that you can have the last word. I'm out of steam. Perhaps we can agree that it would be good to see the Author up the ante in such a way that Heroes are actually a threat.
 
->>>>>>>>>>> **u/Agnoman** [+2] *
+>>>>>>>>>>> **u/Agnoman** [+2]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I mean, I still think the story doesn't work that way - see King Arthur. But yeah, whatever was going on there, it's not a good look for Pilgrim or Saint.
->>>>>>>>>>> Re: precognition, Saint is apparently more sensitive to stories than almost any hero, but Pilgrim can apparently discern Fate by seeking guidance from the heavens. And the Augur looms in the distance.
->>>>>>>>>>> >Perhaps we can agree that it would be good to see the Author up the ante in such a way that Heroes are actually a threat.
->>>>>>>>>>> Definitely!
->>>>>>>>>>> Thanks for the discussion, you raised good points.
 >>>>>>>>>>> 
+>>>>>>>>>>> Re: precognition, Saint is apparently more sensitive to stories than almost any hero, but Pilgrim can apparently discern Fate by seeking guidance from the heavens. And the Augur looms in the distance.
+>>>>>>>>>>> 
+>>>>>>>>>>> >Perhaps we can agree that it would be good to see the Author up the ante in such a way that Heroes are actually a threat.
+>>>>>>>>>>> 
+>>>>>>>>>>> Definitely!
+>>>>>>>>>>> 
+>>>>>>>>>>> Thanks for the discussion, you raised good points.
 
->>>>>>>> **u/werafdsaew** [+1] *
+>>>>>>>> **u/werafdsaew** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> > The situation is one where Cat does and then, for not much in the way of reason, the narrative intercedes to mount a rescue for her.
->>>>>>>> No, Cat maneuvered herself into a victory because she recognized the winning narratives and her opponents did not; it's that simple.  If you cannot see her efforts then you're not reading the same story.
 >>>>>>>> 
+>>>>>>>> No, Cat maneuvered herself into a victory because she recognized the winning narratives and her opponents did not; it's that simple.  If you cannot see her efforts then you're not reading the same story.
 
->>>>>>>>> **u/Agnoman** [+1] *
+>>>>>>>>> **u/Agnoman** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> Compare
 >>>>>>>>> >“A force was helping me along,” the bespectacled mage said. “Your Name, and… something else. It was like Creation did not want you to be dead.”
->>>>>>>>> >“Ominous,” I said, tightening the strap on the greave Hakram had handed me.
->>>>>>>>> >~*Book 2, Chapter 45: Corpses*
->>>>>>>>> to 
->>>>>>>>> >A sword in a stone. That… had a shape to it. A story. Something I might be able to use, if I played this right.
->>>>>>>>> >Book 2, Chapter Chapter 47: And Justice For All
-
->>>>>>>>> Cat explicitly does not have a plan by the time Creation starts helping her. And in between the help, she is both dead and temporarily without a Name.
 >>>>>>>>> 
+>>>>>>>>> >“Ominous,” I said, tightening the strap on the greave Hakram had handed me.
+>>>>>>>>> 
+>>>>>>>>> >~*Book 2, Chapter 45: Corpses*
+>>>>>>>>> 
+>>>>>>>>> to 
+>>>>>>>>> 
+>>>>>>>>> >A sword in a stone. That… had a shape to it. A story. Something I might be able to use, if I played this right.
+>>>>>>>>> 
+>>>>>>>>> >Book 2, Chapter Chapter 47: And Justice For All
+>>>>>>>>> 
+>>>>>>>>> Cat explicitly does not have a plan by the time Creation starts helping her. And in between the help, she is both dead and temporarily without a Name.
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> What effort lol? Cat just says “this narrative is in play, I have no setup or any way to overcome the in play narratives or stronger narratives but I’m the protagonist so I think you’ll find I’m right”
->>>>>>>>> 
 
->>>> **u/Zayits** [+1] *
+>>>> **u/Zayits** [+1]  (a day later)
 >>>> 
 >>>> > Then all the heroes went to fight Akua, and put up a pretty bad showing despite it being Akua's first time in a physical body in a long time, being almost completey unfamiliar with the specifics of her borrowed power, and just generally being the incarnation of the old-school villainy that the heroes are meant to obliterate, both in terms of her methods and her position as the Butcher of Liesse.
->>>> I wrote [a post](https://old.reddit.com/r/rational/comments/913xug/rthf_a_practical_guide_to_evil_book_4_chapter_34/e2vmcsg/) way back that argues that the Pilgrim, at least, didn't seriously try to kill Akua, and neither probably did she.
 >>>> 
+>>>> I wrote [a post](https://old.reddit.com/r/rational/comments/913xug/rthf_a_practical_guide_to_evil_book_4_chapter_34/e2vmcsg/) way back that argues that the Pilgrim, at least, didn't seriously try to kill Akua, and neither probably did she.
 
->>>>> **u/Agnoman** [+2] *
+>>>>> **u/Agnoman** [+2]  (a day later)
 >>>>> 
 >>>>> Oh yeah, I remember that! I don't think it's all too relevant though - even if we assume that that theory is indisputably true, it doesn't really change the rest of what I'm saying. Eleven heroes, including the Saint of Swords, are still trying and failing to kill her in earnest.
->>>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (15 hours later)
 >>> 
 >>> I’ll count the first one, but the second failed to impress, since apparently even when both cat and Masego are out of the picture, Saint + Pilgrim + 10 heroes can’t even get past archer to *reach* the army.
->>> 
 
->> **u/CouteauBleu** [+2]  *We are the Empire.**
+>> **u/CouteauBleu** [+2]  *We are the Empire.* (16 hours later)
 >> 
 >> > Looking at 
 >> > the map
 >> > ,
->> That's a 404.
 >> 
+>> That's a 404.
 
->>> **u/Agnoman** [+1] *
+>>> **u/Agnoman** [+1]  (18 hours later)
 >>> 
 >>> Hopefully fixed? For reference, if you didn't already know, I'm pulling the map from [here](https://practicalguidetoevil.wordpress.com/maps/).
->>> 
 
-> **u/LordSwedish** [+15]  *Q Continuum**
+> **u/LordSwedish** [+14]  *Q Continuum* (6 hours later)
 > 
 > Well shit, Saint is a complete lunatic. Also, when the greatest commander in the world is currently pillaging your lands and happens to be the Black Knight "change the story" Amadeus...it might not be a good idea to burn down your house and rely on story logic to take care of things for you.
-> 
 
-> **u/cyberdsaiyan** [+1] *
+> **u/cyberdsaiyan** [+1]  (11 minutes later)
 > 
 > *Fatalism
-> 
 
->> **u/cabforpitt** [+4] *
+>> **u/cabforpitt** [+4]  (13 minutes later)
 >> 
 >> Accelerationism
->> 
 
->>> **u/aeschenkarnos** [+4] *
+>>> **u/aeschenkarnos** [+4]  (an hour later)
 >>> 
 >>> [Immanentizing the Eschaton](https://en.wikipedia.org/wiki/Immanentize_the_eschaton), a sin of Pride.
->>> 
 
 ---
 

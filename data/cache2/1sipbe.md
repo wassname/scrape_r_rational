@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (a day later)
 > 
 > This was the essay that turned me on to David Brin.  Simply awesome.  Also something of a good reply to HPMoR's *Roles* saga.
-> 
 
 ---
 

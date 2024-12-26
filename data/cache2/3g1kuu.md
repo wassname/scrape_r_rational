@@ -18,43 +18,39 @@ So, this is the first place I've dared to put any of this work out there, mainly
 
 ### Comments:
 
-> **u/TBestIG** [+3]  *Every second of quibbling is another dead baby**
+> **u/TBestIG** [+3]  *Every second of quibbling is another dead baby* (2 hours later)
 > 
 > That was pretty good, I'd love to see more
-> 
 
-> **u/rineSample** [+2] *
+> **u/rineSample** [+2]  (an hour later)
 > 
 > I came in here expecting some sort of wierd anime thing and instead was pleasantly surprised
-> 
 
->> **u/Prezombie** [+3] *
+>> **u/Prezombie** [+3]  (an hour later)
 >> 
 >> Thank you for the odd compliment, I guess?
->> I found it very difficult to make a synopsis that didn't sound like the first episode of a harem comedy, even if in the writing I found myself far from that genre's tropes. 
->> I've never really gotten much enjoyment out of that genre, an utterly whipped male protagonist with no real character traits against an increasingly unlikely number of female deuteragonists gets annoying quickly.
 >> 
+>> I found it very difficult to make a synopsis that didn't sound like the first episode of a harem comedy, even if in the writing I found myself far from that genre's tropes. 
+>> 
+>> I've never really gotten much enjoyment out of that genre, an utterly whipped male protagonist with no real character traits against an increasingly unlikely number of female deuteragonists gets annoying quickly.
 
-> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (7 hours later)
 > 
 > Definitely some cool stuff. You're making me super jelly of your future society :P. If you intend to continue it (and posting it on the internet), please consider putting it on fictionpress.net and linking it so we can get automatically notified about updates.
-> 
 
-> **u/Transfuturist** [+1]  *Carthago delenda est.**
+> **u/Transfuturist** [+1]  *Carthago delenda est.* (7 hours later)
 > 
 > How does a cat know how to put on clothes?
-> Well. I suppose I should be asking how and why this anthroid mind is considered feline. I thought it was going to be a literal cat. And if it used to be a literal cat, then how do they not have AGI when they do have the capability to uplift emulated minds. Did they do some sort of probabilistic mapping from a cat's brain to a human's brain? What is the relation to cats, besides the Doylian interpretation of the catgirl trope as premise? It honestly seems cat-themed, but... why?
 > 
+> Well. I suppose I should be asking how and why this anthroid mind is considered feline. I thought it was going to be a literal cat. And if it used to be a literal cat, then how do they not have AGI when they do have the capability to uplift emulated minds. Did they do some sort of probabilistic mapping from a cat's brain to a human's brain? What is the relation to cats, besides the Doylian interpretation of the catgirl trope as premise? It honestly seems cat-themed, but... why?
 
-> **u/castleborg** [+1] *
+> **u/castleborg** [+1]  (a day later)
 > 
 > My first though was "wait, a vagina robot?" And then I realized that it's meant to be the parallel etymological path as android
-> 
 
-> **u/nolrai** [+1] *
+> **u/nolrai** [+1]  (3 months later)
 > 
 > Finally got around to reading this. I loved it.
-> 
 
 ---
 

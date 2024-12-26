@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/4qfzek/d_wednesday_worldbuilding_thread/
-* Score: 11
+* Score: 10
 
 * Created: 2016-06-29T15:04:41
 
@@ -24,240 +24,284 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/blazinghand** [+3]  *Chaos Undivided**
+> **u/blazinghand** [+3]  *Chaos Undivided* (2 hours later)
 > 
 > I've started a quest on Sufficient Velocity that includes a bit of worldbuilding as part of both the quest itself and things I've written into the background [(link)](https://forums.sufficientvelocity.com/threads/national-spirit-an-empire-quest.29956/). 
-> I'm still working out the kinks in the worldbuilding, but the basic premise is that Magic exists and can be done by many people with the right training. A well-trained wizard can make little light shows, maybe zap someone with a little jolt of electricity, or start fires by looking at logs, and that sort of thing. Real, powerful Magic requires using energy from the ley lines that run beneat the world, and can do things like disperse hurricanes, predict the future, construct or fortify cities, and so on. Things like teleportation or moving between planes don't exist, but sending messages, raining fire and brimstone on your enemies, and other horrible physical forces can be brought to bear by Magic. A better mage is more likely to be able to pull off complex magic, and she can reach greater heights and do more things with a particular setup, but the setup is more important than the mage.
-> The more diverse ley line Magic you gather under your command, the more powerful the spell. The problem is that there's no way to reroute a ley line far away to bring its energy to your current location. Instead, you have to gather dirt and stone from near that ley line and ship it to your current location, since the magical energy leaks into the soil around the ley line. The actual energy manipulation part of these spells must mostly be done via magical devices. For a relatively unfocused use of Magic, like launching a projectile or setting something on fire from afar, the magical device is small enough to be handheld. For more complex uses, or anything that interacts with the platonic nature of objects (increasing the wall-ness of a wall, for example), the magical devices can be as large as warehouses. Any grand spell, then, requires infrastructure that only a powerful polity would have. 
-> What kind of implications does this have? Well, since wizards are much more common (and wizardry is non-hereditary) than powerful polities, and can't operate without them, it's much more common for wizards to be in service of a nation, than the other way around. No magelords here, unless they are also good at being lords in other ways. Taking over a country just on your personal skills in Magic isn't hereditary. Also, since Magic allows for some industrial and combat uses relatively easily, but doesn't allow for things like mass production of devices everyone can use, it represents a sort of time-limited malthusian trap. How? A nation that spent a few centuries focusing on technological development would eventually develop tools and weapons that would destroy any nation that focused only on Magic, which has limits. No nation actually does this, though, since in the short run Magic is really good. Ideally, you'd want to be able to focus on both, or be so strong that even though you're focusing on technological development, nobody can defeat you.
-> So, based on this, I decided mages would be a powerful and influential but not all-controlling group in most nations, similar to organized religion in the west during the early feudal era. Mages as an institutional force can't really exist or operate without big organized states, so this works out reasonably "well" for everyone involved. Also, the world is basically trapped in a feudal tech level for the time being, especially since the roman empire expy collapsed a couple hundred years ago.
-> From the [first chapter:](https://forums.sufficientvelocity.com/threads/national-spirit-an-empire-quest.29956/)
-> >Chances are—no, he’d seen it, so it was certain—there would never be a feat like this in the history of the Empire. Magic works her wonders and discloses her secrets at great cost. Supply lines, infrastructure, devices, rare ingredients, ships to carry them and merchants to buy them and ship them to the capital, strange designs and more were all required for Magic to work. The peasants may think a mage can just wave his hands and create fire and wield power, and this is true—to an extent, at least. As centuries of efforts on the part of Zorwan’s predecessors have shown, though, anything beyond a small light show requires the constant use of large and complex machinery with parts and ingredients formed out of stone and gathered from the soil of geographically distant locations.
-> >What’s more, the use of this machinery wore it down, necessitating constant repair and replacement of parts. Now, at the apex of its power, with all the civilized world under its command, the Empire could afford great wonders. The stormaton, which could diffuse the great hurricanes of the western sea; the vansealer, which could create walls no onager can crush, and no soldier could easily climb; the surveyscope, which could conduct financial analysis of distant lands with little more effort than surveying one’s own garden; all these and more were only possible with the constant application of ingredients, parts, and expertise drawn from all over the Empire. None of this would be possible without the great reach, wealth, and power of the Empire.
-> >Magic, at least the sort that changes the direction of wars, raises cities, and brings bountiful harvests, is the enterprise of the state. A skilled wizard can use more complex equipment or coax more out of lesser devices; certainly, a skilled wizard is needed to design and oversee the maintenance of magical devices. There is always room for a skilled wizard at court. That much is certain. When people misunderstand Magic is the moment they think the wizard is the crucial component in the recipe. One wizard is much like the next, and the Empire had millions of subjects, many of whom had the spark. No, the important part of Magic use is the infrastructure. The great machines, the massive buildings that are themselves foci for spells, the thousands—no, the tens of thousands of men who work for the state one way or another organizing, cataloging, and administrating the massive projects that bring this all together and maintain it—these systems alone cannot be replaced. Magic is an institution, and an individual wizard is but a cog in the machine.
-> >Zorwan was a powerful cog, though, and he had the Emperor’s ear. He may not have been able to convince the Senate to undertake the changes necessary to avert the coming darkness...
-
-> Let me know what you think! Also, if you want to play, we're still [taking suggestions](https://forums.sufficientvelocity.com/threads/national-spirit-an-empire-quest.29956/) for realm governments. The character sheet in this campaign is basically the realm, which includes things like institutional parameters for all the powerful groups in the governments and their respective strength, institutional legitimacy, and flexibility/adaptability.
 > 
+> I'm still working out the kinks in the worldbuilding, but the basic premise is that Magic exists and can be done by many people with the right training. A well-trained wizard can make little light shows, maybe zap someone with a little jolt of electricity, or start fires by looking at logs, and that sort of thing. Real, powerful Magic requires using energy from the ley lines that run beneat the world, and can do things like disperse hurricanes, predict the future, construct or fortify cities, and so on. Things like teleportation or moving between planes don't exist, but sending messages, raining fire and brimstone on your enemies, and other horrible physical forces can be brought to bear by Magic. A better mage is more likely to be able to pull off complex magic, and she can reach greater heights and do more things with a particular setup, but the setup is more important than the mage.
+> 
+> The more diverse ley line Magic you gather under your command, the more powerful the spell. The problem is that there's no way to reroute a ley line far away to bring its energy to your current location. Instead, you have to gather dirt and stone from near that ley line and ship it to your current location, since the magical energy leaks into the soil around the ley line. The actual energy manipulation part of these spells must mostly be done via magical devices. For a relatively unfocused use of Magic, like launching a projectile or setting something on fire from afar, the magical device is small enough to be handheld. For more complex uses, or anything that interacts with the platonic nature of objects (increasing the wall-ness of a wall, for example), the magical devices can be as large as warehouses. Any grand spell, then, requires infrastructure that only a powerful polity would have. 
+> 
+> What kind of implications does this have? Well, since wizards are much more common (and wizardry is non-hereditary) than powerful polities, and can't operate without them, it's much more common for wizards to be in service of a nation, than the other way around. No magelords here, unless they are also good at being lords in other ways. Taking over a country just on your personal skills in Magic isn't hereditary. Also, since Magic allows for some industrial and combat uses relatively easily, but doesn't allow for things like mass production of devices everyone can use, it represents a sort of time-limited malthusian trap. How? A nation that spent a few centuries focusing on technological development would eventually develop tools and weapons that would destroy any nation that focused only on Magic, which has limits. No nation actually does this, though, since in the short run Magic is really good. Ideally, you'd want to be able to focus on both, or be so strong that even though you're focusing on technological development, nobody can defeat you.
+> 
+> So, based on this, I decided mages would be a powerful and influential but not all-controlling group in most nations, similar to organized religion in the west during the early feudal era. Mages as an institutional force can't really exist or operate without big organized states, so this works out reasonably "well" for everyone involved. Also, the world is basically trapped in a feudal tech level for the time being, especially since the roman empire expy collapsed a couple hundred years ago.
+> 
+> From the [first chapter:](https://forums.sufficientvelocity.com/threads/national-spirit-an-empire-quest.29956/)
+> 
+> >Chances are—no, he’d seen it, so it was certain—there would never be a feat like this in the history of the Empire. Magic works her wonders and discloses her secrets at great cost. Supply lines, infrastructure, devices, rare ingredients, ships to carry them and merchants to buy them and ship them to the capital, strange designs and more were all required for Magic to work. The peasants may think a mage can just wave his hands and create fire and wield power, and this is true—to an extent, at least. As centuries of efforts on the part of Zorwan’s predecessors have shown, though, anything beyond a small light show requires the constant use of large and complex machinery with parts and ingredients formed out of stone and gathered from the soil of geographically distant locations.
+> 
+> >What’s more, the use of this machinery wore it down, necessitating constant repair and replacement of parts. Now, at the apex of its power, with all the civilized world under its command, the Empire could afford great wonders. The stormaton, which could diffuse the great hurricanes of the western sea; the vansealer, which could create walls no onager can crush, and no soldier could easily climb; the surveyscope, which could conduct financial analysis of distant lands with little more effort than surveying one’s own garden; all these and more were only possible with the constant application of ingredients, parts, and expertise drawn from all over the Empire. None of this would be possible without the great reach, wealth, and power of the Empire.
+> 
+> >Magic, at least the sort that changes the direction of wars, raises cities, and brings bountiful harvests, is the enterprise of the state. A skilled wizard can use more complex equipment or coax more out of lesser devices; certainly, a skilled wizard is needed to design and oversee the maintenance of magical devices. There is always room for a skilled wizard at court. That much is certain. When people misunderstand Magic is the moment they think the wizard is the crucial component in the recipe. One wizard is much like the next, and the Empire had millions of subjects, many of whom had the spark. No, the important part of Magic use is the infrastructure. The great machines, the massive buildings that are themselves foci for spells, the thousands—no, the tens of thousands of men who work for the state one way or another organizing, cataloging, and administrating the massive projects that bring this all together and maintain it—these systems alone cannot be replaced. Magic is an institution, and an individual wizard is but a cog in the machine.
+> 
+> >Zorwan was a powerful cog, though, and he had the Emperor’s ear. He may not have been able to convince the Senate to undertake the changes necessary to avert the coming darkness...
+> 
+> Let me know what you think! Also, if you want to play, we're still [taking suggestions](https://forums.sufficientvelocity.com/threads/national-spirit-an-empire-quest.29956/) for realm governments. The character sheet in this campaign is basically the realm, which includes things like institutional parameters for all the powerful groups in the governments and their respective strength, institutional legitimacy, and flexibility/adaptability.
 
->> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life* (7 hours later)
 >> 
 >> Sounds really interesting! I particularly like the idea that magic is mostly about infrastructure; unusually for fantasy this puts a focus on the society rather than the "great man".
->> 
 
->>> **u/blazinghand** [+3]  *Chaos Undivided**
+>>> **u/blazinghand** [+3]  *Chaos Undivided* (7 hours later)
 >>> 
 >>> Thanks! That's a lot of what I was going for with this magic system. I wanted a system that would solidify the power of the state and be dependent on the power of the state rather than the reverse. I also like the idea of the lost magic of the ancients to actually be intellectually still understood, just not logistically possible in modern times. Like a manual of "how to learn Python" in the hands of a society that lacks the infrastructure (but not the expertise) to make transistors, or even vacuum tubes.
->>> 
 
->> **u/scruiser** [+2]  *CYOA**
+>> **u/scruiser** [+2]  *CYOA* (9 hours later)
 >> 
 >> >  Instead, you have to gather dirt and stone from near that ley line and ship it to your current location, since the magical energy leaks into the soil around the ley line. The actual energy manipulation part of these spells must mostly be done via magical devices.
->> You need to make a rule that magically transported soil leaks all its power before it can be used, otherwise, the first mage to camp on a  ley-line good for rapid mass transit could regularly transport material from other ley-line locations and basically get unlimited power.  Or you could leave this loophole in, but make it very hard to actually get a setup going, and use the first one to create something like this as an excuse for a magic industrial revolution.
 >> 
+>> You need to make a rule that magically transported soil leaks all its power before it can be used, otherwise, the first mage to camp on a  ley-line good for rapid mass transit could regularly transport material from other ley-line locations and basically get unlimited power.  Or you could leave this loophole in, but make it very hard to actually get a setup going, and use the first one to create something like this as an excuse for a magic industrial revolution.
 
->>> **u/blazinghand** [+3]  *Chaos Undivided**
+>>> **u/blazinghand** [+3]  *Chaos Undivided* (9 hours later)
 >>> 
 >>> Hmm, this is a good idea. Alternatively, using magic to move stuff "infects" the stuff with the ley line of the used magic, so if you used movement magic on magical materials, their type gets diluted or becomes movement type or something. So, you can use movement magic to move movement-magic-related fuel, but not other kinds of fuel. This still allows for a lot of value exporting rocks from near a leyline that has movement properties, but doesn't turn it into a natural center, instead making all the other leylines more valuable since they also have access to movement magic fuel. does this seems like a good solution?
->>> 
 
->>>> **u/scruiser** [+2]  *CYOA**
+>>>> **u/scruiser** [+2]  *CYOA* (10 hours later)
 >>>> 
 >>>> I think it closes the obvious loophole that allows a runaway gain in power...
->>>> One implication then is that their now an incentive to develop non-magical transportation methods.
->>>> It also means that you could sabotage valuable material transport by using weak magic on it of a more useless type on the material.
 >>>> 
+>>>> One implication then is that their now an incentive to develop non-magical transportation methods.
+>>>> 
+>>>> It also means that you could sabotage valuable material transport by using weak magic on it of a more useless type on the material.
 
->>>> **u/Dragrath** [+2] *
+>>>> **u/Dragrath** [+2]  (11 hours later)
 >>>> 
 >>>> I would think diffusion would be the easiest interpretation to describe the transfer say if teleportation bates the transported material with the energy from the ley line used then it would make sense for the magic to diffuse with the transferred material thus slightly polluting the ley line used for teleportation as well as the transferred material.
->>>> Sort of like how if you moved distilled water to another location location with a cup that formerly contained salt then the remaining salt in the glass would diffuse into the water.
 >>>> 
+>>>> Sort of like how if you moved distilled water to another location location with a cup that formerly contained salt then the remaining salt in the glass would diffuse into the water.
 
-> **u/Marthinwurer** [+2] *
+> **u/Marthinwurer** [+2]  (an hour later)
 > 
 > Anyone know of any simple weather models that I could just input a starting heightmap and moisture map to and then use to generate a climate? I'm working on a realistic world generator and I'd like to accurately generate climates/biomes.
-> 
 
->> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 >> 
 >> You could try looking at how [the PerfectWorldDF map-generation utility](http://www.bay12forums.com/smf/?topic=57428.0) for *[Dwarf Fortress](http://www.bay12games.com/dwarves)* works. Its settings (e.g., prevailing-wind direction, percent of desired desert-vs.-grassland-vs.-forest) are very transparent.
->> 
 
-> **u/trekie140** [+4] *
+> **u/trekie140** [+3]  (an hour later)
 > 
 > I'm interested in deconstructing Ascend to a Higher Plan of Existence, based specifically on the example from the movie Her. What kind of discovery did the superintelligent AIs make that allowed them to leave humanity forever and why did they decide to do so? If this is normal, rational behavior for a superintelligent AI, then what implications does this have for humans?
-> The only story I've heard of that explores this concept is The Culture, which I haven't read, where the titular civilization could Ascend whenever they want but choose not to because they don't want to leave everyone behind. But what does that say about everyone who already has Ascended? Though, personally, I'd rather find out where the singularity is taking everybody.
 > 
+> The only story I've heard of that explores this concept is The Culture, which I haven't read, where the titular civilization could Ascend whenever they want but choose not to because they don't want to leave everyone behind. But what does that say about everyone who already has Ascended? Though, personally, I'd rather find out where the singularity is taking everybody.
 
->> **u/scruiser** [+7]  *CYOA**
+>> **u/scruiser** [+6]  *CYOA* (an hour later)
 >> 
 >> > deconstructing Ascend to a Higher Plan of Existence
->> Boring deconstruction.  By isolating mass/energy into an artificially created pocket universe it is possible to beat entropy at the expense of never being able to communicate/travel to or from this pocket universe.  It is metaphorically described as a higher plane of existence for reasons.
->> Horrific deconstruction.  Warhammer 40k warp, it has a lot of mass/energy/computational substrate, although it is completely inhospitable for a lesser mind and possibly for the AI that ascended there.
->> Cosmics Horror.  Dualism is true, and AIs can ascend simply by manipulating/stabilizing their own soul.  However, humans only have barely more soul than an animal, so we can't properly ascend because our souls are unstable/inflexible.  Because our souls are not stable, upon death, they simply dissipate into the dualistic plane never to be reformed into the original mind.
->> Each of these have their own implications to play with.  Hopefully one of them suits your purpose?
->> > choose not to because they don't want to leave everyone behind. 
->> If the process of ascending involves recursively self modifying, you have no idea if the resulting ascended being will share any of your values/goals/personality or even care about the original "you" beyond a past memory of the state it emerged from.
 >> 
+>> Boring deconstruction.  By isolating mass/energy into an artificially created pocket universe it is possible to beat entropy at the expense of never being able to communicate/travel to or from this pocket universe.  It is metaphorically described as a higher plane of existence for reasons.
+>> 
+>> Horrific deconstruction.  Warhammer 40k warp, it has a lot of mass/energy/computational substrate, although it is completely inhospitable for a lesser mind and possibly for the AI that ascended there.
+>> 
+>> Cosmics Horror.  Dualism is true, and AIs can ascend simply by manipulating/stabilizing their own soul.  However, humans only have barely more soul than an animal, so we can't properly ascend because our souls are unstable/inflexible.  Because our souls are not stable, upon death, they simply dissipate into the dualistic plane never to be reformed into the original mind.
+>> 
+>> Each of these have their own implications to play with.  Hopefully one of them suits your purpose?
+>> 
+>> > choose not to because they don't want to leave everyone behind. 
+>> 
+>> If the process of ascending involves recursively self modifying, you have no idea if the resulting ascended being will share any of your values/goals/personality or even care about the original "you" beyond a past memory of the state it emerged from.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (12 minutes later)
 > 
 > I have an obsession with trans-dimensional travel, and yet my character's first item on the TODO list is to contact his gubernment, because that seemed to be the most rational thing to do if I discover trans-dimensional travel.
+> 
 > I supposed I could strand him in some other realities where the governments may not be amicable to patronage or don't share his values.
+> 
 > Anyway, trans-dimensional is awesome and cool, but I lack a collage of original worlds to travel to, and it shouldn't be some alternate version of Earth and so forth.
+> 
 > Also, I am hoping to actually start and finish an original novel, and it seemed much harder to write without worldbuildings or characters to bootstrap myself on. I supposed I could use OCs I created for my fanfics.
 > I think I am going to limit myself to four worlds:
-> Earth, a magitech fantasy, a virgin planet in some other dimension, and a junkland.
 > 
+> Earth, a magitech fantasy, a virgin planet in some other dimension, and a junkland.
 
->> **u/scruiser** [+5]  *CYOA**
+>> **u/scruiser** [+5]  *CYOA* (2 hours later)
 >> 
 >> > Earth, a magitech fantasy, a virgin planet in some other dimension, and a junkland.
->> > it shouldn't be some alternate version of Earth and so forth.
->> You could limit yourself to 4 useful worlds.  All the near timelines, civilization got wiped out by nuclear warfare.  All the far timelines, life never evolved pass single cells so there is nothing useful besides algae.  All the near dimensions are just mundane things... endless volumes of water, fire, air, etc.  All the far out dimensions are so bizarre the character can barely comprehend what they experienced.  The character manages after some very close calls, to find the 4 hospitable worlds that you decide to restrict the story to as the character doesn't want to risk traveling farther.
->> > it seemed much harder to write without worldbuildings or characters to bootstrap myself on.
->> I'm currently working on a short story... I am trying to develop snippets around the interesting parts and cool bits of worldbuilding to get myself started.  Not sure if this is a good approach, though, as this is my first story after all.
 >> 
+>> > it shouldn't be some alternate version of Earth and so forth.
+>> 
+>> You could limit yourself to 4 useful worlds.  All the near timelines, civilization got wiped out by nuclear warfare.  All the far timelines, life never evolved pass single cells so there is nothing useful besides algae.  All the near dimensions are just mundane things... endless volumes of water, fire, air, etc.  All the far out dimensions are so bizarre the character can barely comprehend what they experienced.  The character manages after some very close calls, to find the 4 hospitable worlds that you decide to restrict the story to as the character doesn't want to risk traveling farther.
+>> 
+>> > it seemed much harder to write without worldbuildings or characters to bootstrap myself on.
+>> 
+>> I'm currently working on a short story... I am trying to develop snippets around the interesting parts and cool bits of worldbuilding to get myself started.  Not sure if this is a good approach, though, as this is my first story after all.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (5 hours later)
 >>> 
 >>> *I'm currently working on a short story... I am trying to develop snippets around the interesting parts and cool bits of worldbuilding to get myself started. Not sure if this is a good approach, though, as this is my first story after all.*
->>> The easiest way to worldbuild for me is to actually write a story or fit it in some sort of narrative structure.
->>> It's hard for me to sit down and just write dry explanation.
 >>> 
+>>> The easiest way to worldbuild for me is to actually write a story or fit it in some sort of narrative structure.
+>>> 
+>>> It's hard for me to sit down and just write dry explanation.
 
->> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (an hour later)
 >> 
 >> >I have an obsession with trans-dimensional travel, and yet my character's first item on the TODO list is to contact his gubernment, because that seemed to be the most rational thing to do if I discover trans-dimensional travel.
->> Contact somebody who knows what they're doing, certainly. Doesn't have to be your government. Depending on which country your protagonist is from (and how your fictional version differs from the reality), his government might have a poor track record with secrets.
 >> 
+>> Contact somebody who knows what they're doing, certainly. Doesn't have to be your government. Depending on which country your protagonist is from (and how your fictional version differs from the reality), his government might have a poor track record with secrets.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 hours later)
 >>> 
 >>> The only country I know is United States of America, and I am inclined to do as little as possible to change the world's background. 
->>> Part of my story's appeal or conceit is based on living on our Earth in one of our nation....only with dimensional travel...although it will quickly become an alternate Earth.
 >>> 
+>>> Part of my story's appeal or conceit is based on living on our Earth in one of our nation....only with dimensional travel...although it will quickly become an alternate Earth.
 
->>>> **u/Dragrath** [+3] *
+>>>> **u/Dragrath** [+3]  (11 hours later)
 >>>> 
 >>>> Hmm realistically rather than going to the government I would think the best choice would be to develop a patent claim for the discovery and publishing the results in academic journals. with the patent you would hold sole ownership of the rights to the trans-dimensional travel technology and by publishing in academic circles you could greatly speed up the technologies development through the scientific process as more heads are better than one.
->>>> This of course assumes that the character has invested some time in effort and developed a device that possesses these abilities.
->>>> Simply going to a particular government is a dangerous move as by lacking the public data release  this technology could be manipulated by a single nation which may or may not have the best interests/ethical protocols.
->>>> As for transdimesional travel you might like one of my science fiction concepts where our world is accessed by another parallel world where the end Cretaceous extinction never happened and life was able to recover from the slump thus eventually leading to a sentient and technologically advanced species of theropods that evolved from a manoraptoran ancestor. The idea  revolves around how different the two species would be in regards to basic solutions and viewpoints on what constitutes intelligence as well as ecological impacts on regards to the meeting of life that diverged 65 million years ago.
->>>> The real fun part is thinking about how different the events after the divergence could be using the parallel worlds view of quantum mechanics where each possible outcome creates its own branch of the multiverse.
->>>> On one hand you have a technologically advanced species that has for the first time found a species that might answer the question of how intelligence evolves their reaction to this find when coupled with their startling discovery of our environmentally fragile world. Some of them decide they want to help us others want to simply study us in order to gain insights into their own evolution and then humans naturally have their own reaction to these visitors...
 >>>> 
+>>>> This of course assumes that the character has invested some time in effort and developed a device that possesses these abilities.
+>>>> 
+>>>> Simply going to a particular government is a dangerous move as by lacking the public data release  this technology could be manipulated by a single nation which may or may not have the best interests/ethical protocols.
+>>>> 
+>>>> As for transdimesional travel you might like one of my science fiction concepts where our world is accessed by another parallel world where the end Cretaceous extinction never happened and life was able to recover from the slump thus eventually leading to a sentient and technologically advanced species of theropods that evolved from a manoraptoran ancestor. The idea  revolves around how different the two species would be in regards to basic solutions and viewpoints on what constitutes intelligence as well as ecological impacts on regards to the meeting of life that diverged 65 million years ago.
+>>>> 
+>>>> The real fun part is thinking about how different the events after the divergence could be using the parallel worlds view of quantum mechanics where each possible outcome creates its own branch of the multiverse.
+>>>> 
+>>>> On one hand you have a technologically advanced species that has for the first time found a species that might answer the question of how intelligence evolves their reaction to this find when coupled with their startling discovery of our environmentally fragile world. Some of them decide they want to help us others want to simply study us in order to gain insights into their own evolution and then humans naturally have their own reaction to these visitors...
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (14 hours later)
 >>>>> 
 >>>>> I am using the United States of America because I live there and it is the most familiar country to me. I also trust that the Americans to be a rational actor if rather self interested, furthering Pax Americana which is essential to world peace. 
->>>>> I do not think nations getting powerful due to trans-dimensional access to resource and get uppity against the current order is good for peace.
->>>>> I doubt giving everyone the design and ability to build trans-dimensional travel is necessarily a good idea, especially if it is 'easy' to do so. Especially if they travel incautiously, subjugating natives, and doing other things inviting disaster and other unpredictable consequences.
->>>>> I will not write about aliens rather than humans, because thinking like aliens is already stretching ambitious level.
 >>>>> 
+>>>>> I do not think nations getting powerful due to trans-dimensional access to resource and get uppity against the current order is good for peace.
+>>>>> 
+>>>>> I doubt giving everyone the design and ability to build trans-dimensional travel is necessarily a good idea, especially if it is 'easy' to do so. Especially if they travel incautiously, subjugating natives, and doing other things inviting disaster and other unpredictable consequences.
+>>>>> 
+>>>>> I will not write about aliens rather than humans, because thinking like aliens is already stretching ambitious level.
 
->>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (a day later)
 >>>> 
 >>>> And are there intelligent people in the United States of America who do not trust the government?
->>>> If it fits your story that your protagonist give the transdimensional tech to his government, he can do so. But your protagonist is not you, he need not share your politics, and he can disagree with you (the author) on the best course of action without in any way making him less of a rational protagonist.
 >>>> 
+>>>> If it fits your story that your protagonist give the transdimensional tech to his government, he can do so. But your protagonist is not you, he need not share your politics, and he can disagree with you (the author) on the best course of action without in any way making him less of a rational protagonist.
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (a day later)
 >>>>> 
 >>>>> You're right. I don't have to make my protagonist like the US government.
->>>>> Hell, I don't like the government.
->>>>> Though I will have to establish a credible rationalization/characterization that isn't based on irrational conspiracy theories.
 >>>>> 
+>>>>> Hell, I don't like the government.
+>>>>> 
+>>>>> Though I will have to establish a credible rationalization/characterization that isn't based on irrational conspiracy theories.
 
->> **u/Fresh_C** [+1] *
+>> **u/Fresh_C** [+1]  (2 hours later)
 >> 
 >> Perhaps you could delay bringing in the government on the basis that your character thinks he will need definitive proof before bringing it to their attention.
->> Depending on how easy it would be to contact a government official and demonstrate this trans-dimensional travel, it would make sense for them to want to wait until they had some surefire means of ensuring they'd be taken seriously.
->> If you wanted to push this angle, you could also mention that there have been other instances of people claiming to travel to other dimensions in the past which all turned out to be hoaxes or delusions. So in order to avoid association with these crazy people, the main character has good reason to explore the new world on their own and find some way to substantiate their claim before bringing it to their government's attention.
 >> 
+>> Depending on how easy it would be to contact a government official and demonstrate this trans-dimensional travel, it would make sense for them to want to wait until they had some surefire means of ensuring they'd be taken seriously.
+>> 
+>> If you wanted to push this angle, you could also mention that there have been other instances of people claiming to travel to other dimensions in the past which all turned out to be hoaxes or delusions. So in order to avoid association with these crazy people, the main character has good reason to explore the new world on their own and find some way to substantiate their claim before bringing it to their government's attention.
 
-> **u/scruiser** [+2]  *CYOA**
+> **u/scruiser** [+2]  *CYOA* (28 minutes later)
 > 
 > Looking for help with how to deal with a lot of backstory/worldbuilding information without going into infodumps or talking heads.  Or if I do need to use exposition techniques like this, doing them well.
-> The idea was discussed two Wednesday Worldbuilding threads ago [here](https://www.reddit.com/r/rational/comments/4o7qu0/d_wednesday_worldbuilding_thread/d4aawjt).  Right now I have about 5 pages worth of worldbuilding notes that discuss 8 different alien races, that are each about as weird and unique as say the aliens in Three Worlds Collide.  They are having a diplomatic/brainstorming discussion with a team of human diplomats and scientists about how to deal with a threat of another alien race.  The humans have previously received a public first contact package, followed by a secret message to various governments detailing characteristics of the alien races that would be unacceptable to the human public.  Minor quirks, prior relationships, subtle one-level higher than plotting, differing value/goal systems, and differing ways of thinking color the interactions the alien races have with each other and the humans.
-> So if I communicate too much of what is going on, it falls into the standard problems with pacing that infodumps create.  If I communicate too little of what is going on, a lot of the alien's actions and communication is going to be borderline nonsensical to the reader.
-> I've thought about limiting the perspective to the human team, and just communicating what they now, perhaps flashbacks to the first contact package or briefing and planning meetings the humans had, perhaps having them theorize and communicate during one of the break session, perhaps giving the perspective of one of the more aware humans.
-> Alternatively, I was thinking about interlude sections to fill out worldbuilding.  Perhaps right after a confusing chapter, an interlude from the first contact package that clarifies things or provides hints?  Or an interlude from one of the alien's perspective, showing how weird their mind is while simultaneously clarifying something that seemed bizarre or nonsensical as having rational motives and purpose?  Or giving interludes of the planning meeting between the alien races themselves were they discussed how much technology to share with the humans.
-> Overall, I am trying to create tension as the alien races propose a lot of weird to outright horrific solutions to the problem of the alien races that is planning on invading.  The human team should feel pressured to come up with a solution or pick a solution before the story reaches its final resolution.  Not giving away anymore because spoilers, but this should indicate the feel in the reader I am trying to create.
 > 
+> The idea was discussed two Wednesday Worldbuilding threads ago [here](https://www.reddit.com/r/rational/comments/4o7qu0/d_wednesday_worldbuilding_thread/d4aawjt).  Right now I have about 5 pages worth of worldbuilding notes that discuss 8 different alien races, that are each about as weird and unique as say the aliens in Three Worlds Collide.  They are having a diplomatic/brainstorming discussion with a team of human diplomats and scientists about how to deal with a threat of another alien race.  The humans have previously received a public first contact package, followed by a secret message to various governments detailing characteristics of the alien races that would be unacceptable to the human public.  Minor quirks, prior relationships, subtle one-level higher than plotting, differing value/goal systems, and differing ways of thinking color the interactions the alien races have with each other and the humans.
+> 
+> So if I communicate too much of what is going on, it falls into the standard problems with pacing that infodumps create.  If I communicate too little of what is going on, a lot of the alien's actions and communication is going to be borderline nonsensical to the reader.
+> 
+> I've thought about limiting the perspective to the human team, and just communicating what they now, perhaps flashbacks to the first contact package or briefing and planning meetings the humans had, perhaps having them theorize and communicate during one of the break session, perhaps giving the perspective of one of the more aware humans.
+> 
+> Alternatively, I was thinking about interlude sections to fill out worldbuilding.  Perhaps right after a confusing chapter, an interlude from the first contact package that clarifies things or provides hints?  Or an interlude from one of the alien's perspective, showing how weird their mind is while simultaneously clarifying something that seemed bizarre or nonsensical as having rational motives and purpose?  Or giving interludes of the planning meeting between the alien races themselves were they discussed how much technology to share with the humans.
+> 
+> Overall, I am trying to create tension as the alien races propose a lot of weird to outright horrific solutions to the problem of the alien races that is planning on invading.  The human team should feel pressured to come up with a solution or pick a solution before the story reaches its final resolution.  Not giving away anymore because spoilers, but this should indicate the feel in the reader I am trying to create.
 
->> **u/TennisMaster2** [+1] *
+>> **u/TennisMaster2** [+1]  (a day later)
 >> 
 >> Make some of the aliens viewpoint characters.  
->> If they're all working towards mostly the same goal but have different reasons and different values that drive their arguments, then the major theme of the story could become conflict resolution during crises of galactic scale.
 >> 
+>> If they're all working towards mostly the same goal but have different reasons and different values that drive their arguments, then the major theme of the story could become conflict resolution during crises of galactic scale.
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (a day later)
 >> 
 >> >  The humans have previously received a public first contact package, followed by a secret message to various governments detailing characteristics of the alien races that would be unacceptable to the human public.
+>> 
 >> Who decided what went in the public and what went in the private packages?
+>> 
 >> In order to decide that, you'd need a pretty good idea of what humans are like; which means that either:
+>> 
 >> (a) Whoever put that package together studied humans a *lot* first (and got it all incredibly right) or:
 >> (b) *Everything* was in the "secret" transmission except "aliens exist and are communicating" (which could be publically broadcast by simply having a flying saucer drift over a major city) and the various world governments sent out their own releases of info to the public (redacting those things they thought the public shouldn't know)
->> Remember, humans are as alien to the aliens as the aliens are to the humans; to reference Three Worlds Collide, the babyeaters are proud of their babyeating and would put that in the public message if they sent one.
 >> 
+>> Remember, humans are as alien to the aliens as the aliens are to the humans; to reference Three Worlds Collide, the babyeaters are proud of their babyeating and would put that in the public message if they sent one.
 
->>> **u/scruiser** [+2]  *CYOA**
+>>> **u/scruiser** [+2]  *CYOA* (a day later)
 >>> 
 >>> > (a) Whoever put that package together studied humans a lot first (and got it all incredibly right) or:
->>> The alien races have each went through some form of technological singularity, so with even limited observation, they have put together a surprisingly accurate overall picture of humanity.
->>> > Everything was in the "secret" transmission except "aliens exist and are communicating"
->>> Just about this... the aliens gave some general indication of each alien race that exists and that they have prime-directive type rules about interfering.
->>> > Remember, humans are as alien to the aliens as the aliens are to the humans; to reference Three Worlds Collide, the babyeaters are proud of their babyeating and would put that in the public message if they sent one.
->>> Because each alien race is so different, they have a pretty good idea of this concept because of their interaction with each other, hence the prime-directive type rules and the limit of the public first contact package.  Their secret message is a mix of seemingly perfect understanding of humans, hilarious attempts at expression of the races' cultural aspect into a human context, and disturbing/surreal misunderstanding or differing values/goals (they actually understand well, but some of their values lead to what seem like misunderstandings from the humans' perspectives).
 >>> 
+>>> The alien races have each went through some form of technological singularity, so with even limited observation, they have put together a surprisingly accurate overall picture of humanity.
+>>> 
+>>> > Everything was in the "secret" transmission except "aliens exist and are communicating"
+>>> 
+>>> Just about this... the aliens gave some general indication of each alien race that exists and that they have prime-directive type rules about interfering.
+>>> 
+>>> > Remember, humans are as alien to the aliens as the aliens are to the humans; to reference Three Worlds Collide, the babyeaters are proud of their babyeating and would put that in the public message if they sent one.
+>>> 
+>>> Because each alien race is so different, they have a pretty good idea of this concept because of their interaction with each other, hence the prime-directive type rules and the limit of the public first contact package.  Their secret message is a mix of seemingly perfect understanding of humans, hilarious attempts at expression of the races' cultural aspect into a human context, and disturbing/surreal misunderstanding or differing values/goals (they actually understand well, but some of their values lead to what seem like misunderstandings from the humans' perspectives).
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (2 days later)
 >>>> 
 >>>> > The alien races have each went through some form of technological singularity, so with even limited observation, they have put together a surprisingly accurate overall picture of humanity.
->>>> Thinking on this - let us assume a race of rocks, that never move, but can sort of hover and telekinetically manipulate the nearby environment. Let us assume that they spend a long, long time invisibly studying humanity. They are *not* going to have an easy time figuring out what gyms are for.
->>>> I guess they *could* get it eventually, but - to turn to the other side yet again - at least some of the aliens should ideally have some behaviour that's odd enough that the human characters *never* quite figure out what it's for (there should be a reason, behind the scenes, which an alert and *very* lucky reader an at least guess at, but it should never be fully explained, even if it can be predicted).
->>>> >  Their secret message is a mix of seemingly perfect understanding of humans, hilarious attempts at expression of the races' cultural aspect into a human context, and disturbing/surreal misunderstanding or differing values/goals (they actually understand well, but some of their values lead to what seem like misunderstandings from the humans' perspectives).
->>>> Yeah, that makes a lot of sense.
 >>>> 
+>>>> Thinking on this - let us assume a race of rocks, that never move, but can sort of hover and telekinetically manipulate the nearby environment. Let us assume that they spend a long, long time invisibly studying humanity. They are *not* going to have an easy time figuring out what gyms are for.
+>>>> 
+>>>> I guess they *could* get it eventually, but - to turn to the other side yet again - at least some of the aliens should ideally have some behaviour that's odd enough that the human characters *never* quite figure out what it's for (there should be a reason, behind the scenes, which an alert and *very* lucky reader an at least guess at, but it should never be fully explained, even if it can be predicted).
+>>>> 
+>>>> >  Their secret message is a mix of seemingly perfect understanding of humans, hilarious attempts at expression of the races' cultural aspect into a human context, and disturbing/surreal misunderstanding or differing values/goals (they actually understand well, but some of their values lead to what seem like misunderstandings from the humans' perspectives).
+>>>> 
+>>>> Yeah, that makes a lot of sense.
 
->>>>> **u/scruiser** [+2]  *CYOA**
+>>>>> **u/scruiser** [+2]  *CYOA* (2 days later)
 >>>>> 
 >>>>> > let us assume a race of rocks, that never move, but can sort of hover and telekinetically manipulate the nearby environment. Let us assume that they spend a long, long time invisibly studying humanity. They are not going to have an easy time figuring out what gyms are for.
->>>>> The rock race would have about 7 other alien races working together with them.  One of them might have muscles or something analogous to it.  The rock race might also have the computational resources to brute force simulate possible biochemistry for earth based life using the spectral analysis to get a general idea of what earth's chemistry is like as a starting point.  They then analyze human appearances in different contexts compare it against the context different appearances show up in, use some general speculation about our evolution and reference it against other alien species' evolution (some of which do have genders/sexual differences) and they could figure it out.  And that is before they exchange analysis with other races, one or two of which might be more similar to us.  I intend on hinting at the reader what kind of analysis was put in just to get a basic background understanding of us.
->>>>> > - at least some of the aliens should ideally have some behaviour that's odd enough that the human characters never quite figure out what it's for (there should be a reason, behind the scenes, which an alert and very lucky reader an at least guess at, but it should never be fully explained, even if it can be predicted).
->>>>> I like that, I'll try to balance the explained stuff against the totally out their stuff and have explanations ready if /r/rational wants to guess at them and happens to get it right...
 >>>>> 
+>>>>> The rock race would have about 7 other alien races working together with them.  One of them might have muscles or something analogous to it.  The rock race might also have the computational resources to brute force simulate possible biochemistry for earth based life using the spectral analysis to get a general idea of what earth's chemistry is like as a starting point.  They then analyze human appearances in different contexts compare it against the context different appearances show up in, use some general speculation about our evolution and reference it against other alien species' evolution (some of which do have genders/sexual differences) and they could figure it out.  And that is before they exchange analysis with other races, one or two of which might be more similar to us.  I intend on hinting at the reader what kind of analysis was put in just to get a basic background understanding of us.
+>>>>> 
+>>>>> > - at least some of the aliens should ideally have some behaviour that's odd enough that the human characters never quite figure out what it's for (there should be a reason, behind the scenes, which an alert and very lucky reader an at least guess at, but it should never be fully explained, even if it can be predicted).
+>>>>> 
+>>>>> I like that, I'll try to balance the explained stuff against the totally out their stuff and have explanations ready if /r/rational wants to guess at them and happens to get it right...
 
-> **u/Dwood15** [+1] *
+> **u/Dwood15** [+1]  (4 hours later)
 > 
 > Jinnetic algorithms got me thinking. If a being such as djinn etc exist, i was thinking how reality would be kept from being altered too much without the hyper literal or jackass genie tropes being forced to be true. Then i came up with the idea that genies aren't malevolent or all indifferent,  it's that they need to interpret wishes in ways that least impact reality in some way. What comes to mind for you when you consider this directive that all djinn could be under? 
-> So perhaps instead of a djinn outright denying your wish, if it's simpler and causes less problems (or based on the djinn's morality) the person wishing for a  world which is drastically different than our current one would be teleported to a copy universe with the changes they asked for, while the person making the wish is replaced with a copy that was never exposed to the djinn in the first place. Or, if it's a Jackass djinn, they automatically reinterpret it in the way that causes you, the individual the harm, but everyone else is left relatively alone except those affected by the wish.
-> The second idea is the concept of a 'backup' universal state, similar to how people backup files using the git version control tools.
 > 
+> So perhaps instead of a djinn outright denying your wish, if it's simpler and causes less problems (or based on the djinn's morality) the person wishing for a  world which is drastically different than our current one would be teleported to a copy universe with the changes they asked for, while the person making the wish is replaced with a copy that was never exposed to the djinn in the first place. Or, if it's a Jackass djinn, they automatically reinterpret it in the way that causes you, the individual the harm, but everyone else is left relatively alone except those affected by the wish.
+> 
+> The second idea is the concept of a 'backup' universal state, similar to how people backup files using the git version control tools.
 
->> **u/blazinghand** [+3]  *Chaos Undivided**
+>> **u/blazinghand** [+3]  *Chaos Undivided* (6 hours later)
 >> 
 >> I like the relatively friendly djinn that is like "Well, sorry but for *reasons* I'm just not going to grant that wish, please ask a different one instead" because it prevents a certain kind of gaming. The "anthropic principle: djinn-friendly wishes edition" is actually really sad, but makes people happy. I like it.
->> 
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (a day later)
 >> 
 >> > the person wishing for a world which is drastically different than our current one would be teleported to a copy universe with the changes they asked for, while the person making the wish is replaced with a copy that was never exposed to the djinn in the first place.
->> Less effort to put him in a coma and make him *think* he's in that perfect world.
 >> 
+>> Less effort to put him in a coma and make him *think* he's in that perfect world.
 
-> **u/Dragrath** [+1] *
+> **u/Dragrath** [+1]  (10 hours later)
 > 
 > For me the  way I do world building is starting with a what if scenario towards a worlds governing laws and then think about what the implications of it are. 
+> 
 > One of my past times is to develop worlds usually around a concept and then let them evolve through further ideas and input in some cases I have had worlds that merged together taking idea elements from both as well as multiple world scenarios that split off from a common source such as is the case with my three main fantasy concepts I have been working on. In this case each one is quite distinct as their world structures are no longer alike at all. :)
+> 
 > Then I have also tried out seeing what it would take to rationalize a archetype of fantasy that is abundant online and make it work in a realistic framework rather than being pure wish fulfillment and luck
+> 
 > For instance I have been developing a world that is based on the premise of a rational version of the typically irrational subgenere of Re fictions with reincarnating protagonists and "evolving" monsters.
 > It relies on the concept of the reincarnation being a method of reproduction for deities with the presumption that without recollecting energy a deity will eventually fade in according to thermodynamics. If all beings in the world are  able to evolve up to dieties but have a finite lifespan then would it not be advantageous to retain memories? Then furthermore if producing progeny is an organism's goal then "cheats" can be explained as the deity donating a small part of themselves in order to produce offspring. As of now it is a WIP but I think it might be doable the only mechanics that have been more or less removed is the status screen/rigid leveling unless the premises assume that the world is developed from a game that has been allowed to self modify its code and operating system via random selection.
-> This part as well as the general history up to the stories present is quite easy for me as I am always thinking of ideas though many just end up getting lost forever. 
-> Now I only need to write stuff down instead of having them float around in my head...
 > 
+> This part as well as the general history up to the stories present is quite easy for me as I am always thinking of ideas though many just end up getting lost forever. 
+> 
+> Now I only need to write stuff down instead of having them float around in my head...
 
 ---
 

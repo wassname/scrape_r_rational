@@ -2,7 +2,7 @@
 
 * Author: u/Linear_Cycle *
 * URL: https://www.reddit.com/r/rational/comments/f7xpd2/rtwip_the_forsaken_fidelius_ch_13/
-* Score: 18
+* Score: 17
 
 * Created: 2020-02-22T19:49:13
 
@@ -16,34 +16,33 @@ In which Peter Pettigrew must rely on creativity rather than raw magical talent 
 
 ### Comments:
 
-> **u/adgnatum** [+5] *
+> **u/adgnatum** [+3]  (16 hours later)
 > 
 > Voldemort is being very effective. Not like a storybook villain at all.
-> It's spooky.
-> Your friend is onto something good, here. Following.
 > 
+> It's spooky.
+> 
+> Your friend is onto something good, here. Following.
 
-> **u/Gurkenglas** [+3] *
+> **u/Gurkenglas** [+3]  (23 hours later)
 > 
 > Let's hope that either the momentum reference frame is based on your surroundings, not Earth, or that Peter never transforms while on a train!
-> So the maximum range of Accio is that which allows a parabola that starts at the speed of a baseball to connect the target to the caster.
-> Enchant a tungsten pod with cooling, enter it, drop it into a volcano, sink to the Earth's core, harass anyone with Bludger-level impacts until they put up a shield :/
 > 
+> So the maximum range of Accio is that which allows a parabola that starts at the speed of a baseball to connect the target to the caster.
+> 
+> Enchant a tungsten pod with cooling, enter it, drop it into a volcano, sink to the Earth's core, harass anyone with Bludger-level impacts until they put up a shield :/
 
-> **u/None** [+3] *
+> **u/None** [+3]  (7 days later)
 > 
 > [deleted]
-> 
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (29 days later)
 >> 
 >> Or, heck, there probably would have been a tradition of swearing in Day One that you would not act so as to endanger the school or its inhabitants.
->> 
 
-> **u/Mbnewman19** [+2] *
+> **u/Mbnewman19** [+2]  (10 hours later)
 > 
 > Great stuff. Following.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/emergency_exit_101 *
 * URL: https://www.reddit.com/r/rational/comments/4xiecr/rt_the_rational_walking_dead_chapter_1/
-* Score: 29
+* Score: 32
 
 * Created: 2016-08-13T09:19:33
 
@@ -84,161 +84,143 @@ She reached under his chest and read his name tag into the radio.
 
 ### Comments:
 
-> **u/None** [+9] *
+> **u/None** [+8]  (17 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+5]  *Aspiring polite Hegemonizing swarm* (18 hours later)
 >> 
 >> Have you read World War Z?  It has some fairly plausible ways for it to happen.  World War Z zombies aren't quite the same as TWD ones but close enough for it to work.  Big thing to understand is that once a zombie outbreak gets out of hand you either have to start saturation bombing population centers that won't be evacuated, or you've lost.
->> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+8]  (18 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Iconochasm** [+3] *
+>>>> **u/Iconochasm** [+3]  (a day later)
 >>>> 
 >>>> The issue is that it's not just a plague, it's every person that dies with their brain mostly intact revives as a zombie.  So every single person that dies is a new patient zero.  Combine that with some human on human conflict, and I don't think that complete social collapse is off the table.  Even if there's only a 1% chance of the cluster fuck getting that bad, "this is a story in which that 1% chance happened" is an acceptable premise for a story, imo.
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (a day later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/Iconochasm** [+2] *
+>>>>>> **u/Iconochasm** [+4]  (a day later)
 >>>>>> 
 >>>>>> Well, for starters those are all useful against massed hordes.  In, say, a major metropolitan area that's just a clusterfuck of panicked civilians and zombies?  How quickly would *you* give the order to just saturation bomb the whole place?  What do you do when afterwards, you learn that there's 30 new outbreaks in the suburbs?  What about when they're in your own base because not all of your soldiers who committed suicide after going Full Dresden on a US city thought to shoot themselves in the *head*?  When some of your soldiers are panicking and having meltdowns over killing family members and random zombie kids?  Throw in a few acts of sabotage from religious fanatics because the end appears extremely fucking nigh.  Maybe you couldn't even get authorization to deploy military assets on the mainland US until it was dangerously late in the game due to a government in denial?  
->>>>>> Honestly, I still think the "total civilizational collapse" outcome is extremely unlikely, but like I said, it's not off the table.  If I were to do a "rational" zombie apocalypse, I'd probably escalate it into something like Cthulhu-cultists with access to necromancy.
 >>>>>> 
+>>>>>> Honestly, I still think the "total civilizational collapse" outcome is extremely unlikely, but like I said, it's not off the table.  If I were to do a "rational" zombie apocalypse, I'd probably escalate it into something like Cthulhu-cultists with access to necromancy.
 
->>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (21 hours later)
 >>>> 
 >>>> That's exactly what I said when I saw the movie! Tank battalions with plenty of fuel, just keep moving!
->>>> 
 
->>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>> 
 >>>>> Well, from a simple perspective hordes are going to be in urban areas, and tanks can drive through buildings, but only until one of said buildings falls on them. 
->>>>> Tanks are fine in a zombie horde, just as long as they are buttoned up and don't try to save anyone.  Zombie swarm in the open are toast. 
->>>>> Zombie swarms in a skyscraper, with survivors in it, call for the demolition of the building. Not because I am a heartless bastard, but because zombies are really scary on the game theory side.  Cheap troops that are generally immune to light caliber small arms fire and some significant percentage of every civilian killed becomes another zombie.
->>>>> After a zombie outbreak kicks off the game theory side is all about preventing the spread that will both cost you  population and infrastructure needed to fight the swarm, and expand the outbreak.
 >>>>> 
+>>>>> Tanks are fine in a zombie horde, just as long as they are buttoned up and don't try to save anyone.  Zombie swarm in the open are toast. 
+>>>>> 
+>>>>> Zombie swarms in a skyscraper, with survivors in it, call for the demolition of the building. Not because I am a heartless bastard, but because zombies are really scary on the game theory side.  Cheap troops that are generally immune to light caliber small arms fire and some significant percentage of every civilian killed becomes another zombie.
+>>>>> 
+>>>>> After a zombie outbreak kicks off the game theory side is all about preventing the spread that will both cost you  population and infrastructure needed to fight the swarm, and expand the outbreak.
 
->>>>>> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+>>>>>> **u/OutOfNiceUsernames** [+2]  *fear of last pages* (a day later)
 >>>>>> 
 >>>>>> Why can’t you put some death-sentenced prisoners inside a steel cage as a bait to lure zombies out? The prisoners don’t even have to die, if you plan everything correctly.
->>>>>> 
 
-> **u/callmebrotherg** [+7]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+7]  *now posting as /u/callmesalticidae* (8 hours later)
 > 
 > I can keep reading this, but I am disappointed to have found that this is not going to be about zombies being rational. >:P
-> 
 
->> **u/emergency_exit_101** [+2] *
+>> **u/emergency_exit_101** [+2]  (12 hours later)
 >> 
 >> Well it’s only Chapter 1 ;)
->> 
 
-> **u/the_boyblunder** [+5] *
+> **u/the_boyblunder** [+6]  (7 hours later)
 > 
 > Interesting! Hope you keep writing.
-> 
 
->> **u/emergency_exit_101** [+2] *
+>> **u/emergency_exit_101** [+2]  (12 hours later)
 >> 
 >> Thanks. I'm such a beginner it hurts to press send. Never written before.
->> 
 
-> **u/None** [+4] *
+> **u/None** [+5]  (9 hours later)
 > 
 > Interesting start. Glad to see a not-dumb zombie survival fic.
-> On the other hand, I don't see the need for it to be a fanfic of "The Walking Dead".
 > 
+> On the other hand, I don't see the need for it to be a fanfic of "The Walking Dead".
 
->> **u/emergency_exit_101** [+4] *
+>> **u/emergency_exit_101** [+5]  (12 hours later)
 >> 
 >> Yeah I don't think I'll introduce any of the other original characters than Carl. I just wanted to make that last line work. I also have no idea if I want the zombies to behave the same as in the show.
->> 
 
-> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (18 hours later)
 > 
 > Please post more.  If We see less of Carl I won't care. Kudo for the logistics; one of my personal heros, Rickover, got started there.
-> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (21 hours later)
 >> 
 >> What's rickover?
->> 
 
->>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>> 
 >>> [ADM Hyman G. Rickover](https://en.wikipedia.org/wiki/Hyman_G._Rickover)  [father of the U.S. Nuclear Navy](https://www.amazon.com/Rickover-Effect-[How-Made-Difference/dp/0595252702/ref=sr_1_3?ie=UTF8&qid=1471184664&sr=8-3&keywords=rickover).  He had some interesting and careful [thoughts on education](https://www.amazon.com/Education-Freedom-hyman-rickover/dp/B000ORSQ0K/ref=sr_1_2?ie=UTF8&qid=1471184714&sr=8-2&keywords=education+and+freedom) too.
->>> 
 
-> **u/narfanator** [+3] *
+> **u/narfanator** [+3]  (2 days later)
 > 
 > [Council Wars](http://www.baen.com/categories/books-by-series-list/council-wars-by-john-ringo.html, [Posleen Wars](http://www.baen.com/a-hymn-before-battle.html) and **definitely** [Fido](http://www.imdb.com/title/tt0457572/) may be of interest.
-> CW is about abrupt collapse of high-tech civilization, and is basically about the historical re-enactors / creators using anachronistic know-how to survive (and then thrive) against magic-via-tech opponents. Some parts are extremely cheesy, and is DEFINITELY a military wank-fest. I still read it, and it is likely to provide good inspiration for how to run something vaguely similar to a post-zombie apocalypse society.
-> PW is about the Army Corps of Engineers teaching a horde enemy to be afraid. And shitty alien politics. But if you want ideas for how a drastically superior and horrible outnumbered force can fight unarmed hordes? Should provide some.
-> But Fido! Fido is, actually, perhaps, one of the more intelligent handling of a post-zombie world, although it's predicated on a few premises that won't really translate. Still! Should also be good for inspiration, if only for smaller cultural touches, like burial rituals and nursery rhymes. Definitely deals with the whole "when anyone dies they come back" issue, which IMO isn't too bad to deal with if you know it's coming.
 > 
+> CW is about abrupt collapse of high-tech civilization, and is basically about the historical re-enactors / creators using anachronistic know-how to survive (and then thrive) against magic-via-tech opponents. Some parts are extremely cheesy, and is DEFINITELY a military wank-fest. I still read it, and it is likely to provide good inspiration for how to run something vaguely similar to a post-zombie apocalypse society.
+> 
+> PW is about the Army Corps of Engineers teaching a horde enemy to be afraid. And shitty alien politics. But if you want ideas for how a drastically superior and horrible outnumbered force can fight unarmed hordes? Should provide some.
+> 
+> But Fido! Fido is, actually, perhaps, one of the more intelligent handling of a post-zombie world, although it's predicated on a few premises that won't really translate. Still! Should also be good for inspiration, if only for smaller cultural touches, like burial rituals and nursery rhymes. Definitely deals with the whole "when anyone dies they come back" issue, which IMO isn't too bad to deal with if you know it's coming.
 
-> **u/The_Southstrider** [+2] *
+> **u/The_Southstrider** [+3]  (10 hours later)
 > 
 > Well if you were to make the Walking Dead rational, you'd have to reevaluate how the zombies work before anything else. There's nothing wrong with having a reanimated corpse or some sort of prion based virus hijacking an individuals body. But to have essentially a carcass remain mobile for years on end without consuming food, being constantly exposed to the elements, and in a state of near perpetual motion is far from logical. The average human corpse takes around a month to completely putrefy, and that's only while remaining stationary.Add in the heat and humidity present in Atlanta or DC with the presence of flesh burrowing insects like maggots and the like, the prospect of a zombie apocalypse becomes less a matter of years of survival or rebuilding society, and more waiting for what amounts to about a semester of school
-> 
 
->> **u/Draconomial** [+5]  *Sunshine Regiment**
+>> **u/Draconomial** [+4]  *Sunshine Regiment* (14 hours later)
 >> 
 >> The best rational zombie disease I've ever read of was the antihypoxiant virus story by Andy Weir http://www.galactanet.com/oneoff/antihypoxiant.html
->> 
 
->>> **u/The_Southstrider** [+1] *
+>>> **u/The_Southstrider** [+1]  (15 hours later)
 >>> 
 >>> OK I could get behind that. Great read too. Now I kind of want tor read The Martian...
->>> 
 
->> **u/sabbrielle** [+6] *
+>> **u/sabbrielle** [+5]  (10 hours later)
 >> 
 >> I disagree. My favorite rational fiction stories all take place in fantasy settings or with fantasy elements. A writer doesn't need to give a logical explanation for Hogwarts, Krypton, vampires, or superpowers. The way characters respond to their unlikely settings is what makes the fiction rational or not.
->> 
 
->>> **u/The_Southstrider** [+3] *
+>>> **u/The_Southstrider** [+3]  (10 hours later)
 >>> 
 >>> Then how rational is it that healthy adult humans, oftentimes armed with stabbing implements and firearms, are constantly taken down and devoured by slow moving, feeble, fragile corpses? They're essentially fighting herds of carnivorous elderly people.
->>> 
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+5]  (10 hours later)
 >>>> 
 >>>> That's different from zombies being illogical in the first place.
->>>> We know it's illogical and doesn't make a lick of sense. How characters react to them is another matter.
->>>> And yes, you're right, it doesn't make sense for healthy adult humans to be so easily taken down by zombies.
 >>>> 
+>>>> We know it's illogical and doesn't make a lick of sense. How characters react to them is another matter.
+>>>> 
+>>>> And yes, you're right, it doesn't make sense for healthy adult humans to be so easily taken down by zombies.
 
->>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (12 hours later)
 >>>>> 
 >>>>> I will totally back a patreon for this!
->>>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (3 days later)
 >>>>> 
 >>>>> It can be justified a few times but not as often as it happens.
->>>>> The complete refusal to have any sort of procedure in a world where anyone who gets an infected cut can be a zombie is also galling.
 >>>>> 
+>>>>> The complete refusal to have any sort of procedure in a world where anyone who gets an infected cut can be a zombie is also galling.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/The_Southstrider** [+1] *
+>>> **u/The_Southstrider** [+1]  (a day later)
 >>> 
 >>> Too bad the Walking Dead lacks both characteristics
->>> 
 
 ---
 

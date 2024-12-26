@@ -18,15 +18,13 @@ Pyrebound is a year-old high fantasy serial, set in an original, Mesopotamian-fl
 
 ### Comments:
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (a day later)
 > 
 > That world doesn't deserve Ram as an Ensi.
-> 
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (a day later)
 >> 
 >> I think desert is a very tricky question.
->> 
 
 ---
 

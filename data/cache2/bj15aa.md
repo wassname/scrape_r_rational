@@ -2,7 +2,7 @@
 
 * Author: u/Salaris  *Dominion Sorcerer**
 * URL: https://www.reddit.com/r/rational/comments/bj15aa/rthfdc_six_sacred_swords_is_out_on_audible_on/
-* Score: 25
+* Score: 23
 
 * Created: 2019-04-30T09:05:53
 
@@ -26,47 +26,51 @@ I hope that people enjoy the book if they decide to check it out!
 
 ### Comments:
 
-> **u/zyocuh** [+4] *
+> **u/zyocuh** [+5]  (5 hours later)
 > 
 > I have been excited for this! On the last book of travelers gate, then diving into this
-> 
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (7 hours later)
 >> 
 >> Traveler's Gate is fantastic! I hope you enjoy the end of that series, as well as this one when you get to it. =)
->> 
 
-> **u/Insufficient_Metals** [+2] *
+> **u/Insufficient_Metals** [+2]  (3 days later)
 > 
 > So I am in the middle of reading On The Shoulders of Giants. Would you recommend I finish that and then start this?
-> Also, if it wouldnt bother you too much, what is the War of Broken Mirrors about? It sounds like the Lightbringer series from just the title
 > 
+> Also, if it wouldnt bother you too much, what is the War of Broken Mirrors about? It sounds like the Lightbringer series from just the title
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (3 days later)
 >> 
 >> > So I am in the middle of reading On The Shoulders of Giants. Would you recommend I finish that and then start this?
+>> 
 >> Yeah, I'd finish that first, as long as you're enjoying it. There are a couple things from the end of OTSoT that are relevant in small ways.
+>> 
 >> > Also, if it wouldnt bother you too much, what is the War of Broken Mirrors about? It sounds like the Lightbringer series from just the title
+>> 
 >> WoBM is a little more of a Western RPG style, rather than a JRPG style. It's also multi-perspective rather than focusing on a single character.
+>> 
 >> The first book follows three characters in the city of Orlyn, where the local gods claim to be able to raise anyone to divine status if they earn it through sufficient service.
+>> 
 >> The three perspectives are:
+>> 
 >> * Taelien, a wandering swordsman with a powerful weapon he can't properly control. He's searching for answers about his heritage, which may be divine in origin.
 >> * Lydia, a court sorcerer for the city of Orlyn. Minor spoilers since this is revealed very quickly, but >!she's actually a paladin from another nation investigating the claims of the local faith!<.
 >> * Jonan, an illusionist and spy from a nearby country, who claims to be investigating the disappearance of a group of children.
->> There's a stronger component of intrigue to these books than my other novels, and they're generally more serious in tone. It's hard to say if an Arcane Ascension reader will like them, but they're in the same universe.
 >> 
+>> There's a stronger component of intrigue to these books than my other novels, and they're generally more serious in tone. It's hard to say if an Arcane Ascension reader will like them, but they're in the same universe.
 
-> **u/KamikazeHamster** [+3] *
+> **u/KamikazeHamster** [+2]  (45 minutes later)
 > 
 > I'm really sad that you wrote a spin-off right in the middle of the final book. Could you please just focus? I want to see what happens to Corin!
-> 
 
->> **u/Salaris** [+10]  *Dominion Sorcerer**
+>> **u/Salaris** [+9]  *Dominion Sorcerer* (2 hours later)
 >> 
 >> Arcane Ascension is more than a three book series, which is why I'm taking a break (and planning to take more breaks). It was originally planned to be six books, and I expect it to be at least that many, if not more.
->> I'm glad you're excited to see more of Corin - and there'll be plenty more of him in the future. =)
->> Thanks!
 >> 
+>> I'm glad you're excited to see more of Corin - and there'll be plenty more of him in the future. =)
+>> 
+>> Thanks!
 
 ---
 

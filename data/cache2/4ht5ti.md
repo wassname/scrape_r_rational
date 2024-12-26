@@ -2,7 +2,7 @@
 
 * Author: u/DocFuture *
 * URL: http://docfuture.tumblr.com/post/143829427746/vignette-briefing
-* Score: 13
+* Score: 12
 
 * Created: 2016-05-04T05:46:19
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (5 hours later)
 > 
 > _"Because when you’re there, the people you talk to aren’t the invaders from another dimension.  You are."_
-> WORD
 > 
+> WORD
 
-> **u/DocFuture** [+2] *
+> **u/DocFuture** [+2]  (a minute later)
 > 
 > A rational long-term approach to being ruler of another world.  Also works for portal fantasies, if you have the resources.
-> 
 
 ---
 

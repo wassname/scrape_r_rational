@@ -2,7 +2,7 @@
 
 * Author: u/blazinghand  *Chaos Undivided**
 * URL: https://www.fanfiction.net/s/8096183/72/Harry-Potter-and-the-Natural-20
-* Score: 119
+* Score: 117
 
 * Created: 2017-12-01T22:52:15
 
@@ -12,116 +12,101 @@
 
 ### Comments:
 
-> **u/tokol** [+30]  *The Greater Good**
+> **u/tokol** [+29]  *The Greater Good* (17 minutes later)
 > 
 > I'm really grateful this is back, but what was going on with the plot? We need one of those clip montages like, ["Last time on Harry Potter and the Natural 20..."](http://tvtropes.org/pmwiki/pmwiki.php/Main/PreviouslyOn)
-> 
 
->> **u/jjy** [+22] *
+>> **u/jjy** [+23]  (21 hours later)
 >> 
 >> [Synopsis](#s " At the end of Part 2, Milo was possessed and then killed by the diary. (1) In the Outer Planes, Boccob, God of Magic, says that Milo is his own character, and sends him back to Myra to find Bellatrix within three days. (9) Milo tags along as Bellatrix is summoned back to magical London by Tom Riddle, escapes with Sirius, (10) and reunites with Hannah, his girlfriend. (14) On the Hogwarts Express, Lupin saves him from a Dementor and then Imperiused Shacklebolt and Bones take Milo away and (15) interrogate him under Veritaserum. Riddle is obsessed with how Milo obtained immortality. (16) Dumbledore bursts in and brings Milo back to Hogwarts.")
->> [More synopsis](#s " (11,12) In parallel, a muggle police officer, Fiona Smythe, investigates the magic world. (13) She talks with Milo, (15) hits Lucius with a massive tax bill, (16) fights Amycus and Alecto in Diagon Alley, (17) escapes from them in her apartment, and (18) meets up with her coworker Travis.")
 >> 
+>> [More synopsis](#s " (11,12) In parallel, a muggle police officer, Fiona Smythe, investigates the magic world. (13) She talks with Milo, (15) hits Lucius with a massive tax bill, (16) fights Amycus and Alecto in Diagon Alley, (17) escapes from them in her apartment, and (18) meets up with her coworker Travis.")
 
->>> **u/GlueBoy** [+2]  *anti-skub**
+>>> **u/GlueBoy** [+2]  *anti-skub* (22 hours later)
 >>> 
 >>> Perfect, thanks!
->>> 
 
->> **u/phylogenik** [+13] *
+>> **u/phylogenik** [+14]  (2 hours later)
 >> 
 >> I'd also be really keen for a synopsis!
->> (incidentally, does anyone know if modern automatic summarization algorithms can understand narrative structure yet? I tried running the first chapter of HPN20 through smmry.com, which is what autotldrbot uses, but the output wasn't very good. Then I tried genericSummary() in the {LSAfun} R package and it was a bit better but still rather lacking. It looks like TensorFlow has some applications that allow fancier text summarization (i.e. not just important sentence selection) so I might try firing that up later tonight to see what it gets me. Not really my field though so I was wondering what the current state of the art is -- I've seen some articles on using RNNs to write *new* stories but googling around can't seem to find any devoted purely to summarizing existing ones; edit: it looks like [this](https://arxiv.org/abs/1707.02268) and [this](http://thescipub.com/PDF/jcssp.2016.178.190.pdf) might be worth adding to my to-read pile, and [this](https://arxiv.org/pdf/1704.04368.pdf) looks pretty recent so I might try playing around with their TensorFlow/Python [code](https://github.com/abisee/pointer-generator))
 >> 
+>> (incidentally, does anyone know if modern automatic summarization algorithms can understand narrative structure yet? I tried running the first chapter of HPN20 through smmry.com, which is what autotldrbot uses, but the output wasn't very good. Then I tried genericSummary() in the {LSAfun} R package and it was a bit better but still rather lacking. It looks like TensorFlow has some applications that allow fancier text summarization (i.e. not just important sentence selection) so I might try firing that up later tonight to see what it gets me. Not really my field though so I was wondering what the current state of the art is -- I've seen some articles on using RNNs to write *new* stories but googling around can't seem to find any devoted purely to summarizing existing ones; edit: it looks like [this](https://arxiv.org/abs/1707.02268) and [this](http://thescipub.com/PDF/jcssp.2016.178.190.pdf) might be worth adding to my to-read pile, and [this](https://arxiv.org/pdf/1704.04368.pdf) looks pretty recent so I might try playing around with their TensorFlow/Python [code](https://github.com/abisee/pointer-generator))
 
-> **u/HermioneGPEV** [+16] *
+> **u/HermioneGPEV** [+18]  (5 hours later)
 > 
 > I had gave up expecting, keeping the hope that some day, Sir Poley would rise up from the dead. Finally, the singularity happened, and a new chapter came!
-> 
 
-> **u/TempAccountIgnorePls** [+15] *
+> **u/TempAccountIgnorePls** [+15]  (7 minutes later)
 > 
 > Looks like it's time for a re-read :D
-> 
 
->> **u/xartab** [+1] *
+>> **u/xartab** [+1]  (19 hours later)
 >> 
 >> Since I was following our kind Sir on Tumblr, I got a chance to re-read the whole thing just last week.
->> 
 
-> **u/MaddoScientisto** [+14] *
+> **u/MaddoScientisto** [+14]  (an hour later)
 > 
 > I was massively disappointed when I binged through the whole thing and found out it wasn't updated in years, that's why now I'm massively happy that it's finally back, I'm very hyped.
-> 
 
-> **u/DTravers** [+12] *
+> **u/DTravers** [+12]  (9 hours later)
 > 
 > > *What did you do to my door?*
-> >Myra (*City of light! City of magic!*) 
-> Welcome back Milo. Also Sir Pole if you see this, we just call those pens Biros here.
 > 
+> >Myra (*City of light! City of magic!*) 
+> 
+> Welcome back Milo. Also Sir Pole if you see this, we just call those pens Biros here.
 
-> **u/None** [+10] *
+> **u/None** [+9]  (a minute later)
 > 
 > Damn you. I've been trying to submit this for several minutes now, and it kept telling me it was already submitted and then linking me to the post for chapter 71
-> [From Sir Poley's tumblr.](http://sirpoley.tumblr.com/post/168091740244/harry-potter-and-the-natural-20-chapter-72-sd-19) Seems like it isn't a fluke---he's working on it again.
 > 
+> [From Sir Poley's tumblr.](http://sirpoley.tumblr.com/post/168091740244/harry-potter-and-the-natural-20-chapter-72-sd-19) Seems like it isn't a fluke---he's working on it again.
 
->> **u/blazinghand** [+2]  *Chaos Undivided**
+>> **u/blazinghand** [+2]  *Chaos Undivided* (43 minutes later)
 >> 
 >> Ah, I wonder if it was some kind of bug on Reddit's part?
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (46 minutes later)
 >>> 
 >>> Probably. I submitted it using a different link, but then noticed that you submitted this one right beforehand and deleted it
->>> 
 
-> **u/Sailor_Vulcan** [+4]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+5]  *Champion of Justice and Reason* (6 hours later)
 > 
 > *squeals* IT'S BACK!
-> 
 
-> **u/emilybanc** [+3] *
+> **u/emilybanc** [+3]  (41 minutes later)
 > 
 > very very excite, guess dwarf fortress lost it's shine finally!
-> 
 
-> **u/GriffinJ** [+3] *
+> **u/GriffinJ** [+3]  (2 days later)
 > 
 > fuck yeah I had given up hope
-> 
 
-> **u/Trips-Over-Tail** [+2]  *Death of Crabs**
+> **u/Trips-Over-Tail** [+2]  *Death of Crabs* (2 hours later)
 > 
 > Ow. I think I got eye-whiplash.
-> 
 
-> **u/AurelianoTampa** [+2] *
+> **u/AurelianoTampa** [+2]  (6 days later)
 > 
 > Reread the whole thing to get caught back up; it had been a while since I did so! I'm finding the third book to be pretty good, but it has a much different feel than the first two. It felt much more... serious, I suppose? There were still jokes and comedy, but overall it felt more like the author wanted to get on with the story rather than actually just let it continue paralleling the books. The Fiona chapters in particular were just super stressful. I wonder if he just lost the enjoyment of the writing and quit for a few years because of that?
-> Anyway, the new chapter was a welcome return, and while Sir Poley's tumblr said he doesn't have a set schedule for updates, hopefully we'll see more coming before too long. He has some clean-up to do to dust off the cobwebs; his intro on fanfiction.net is out of date (references having an updated character sheet on his Author page, but none exists), his forum page is full of advertising spam, and his tumblr updates infrequently. Hope this becomes a central project for him again soon!
 > 
+> Anyway, the new chapter was a welcome return, and while Sir Poley's tumblr said he doesn't have a set schedule for updates, hopefully we'll see more coming before too long. He has some clean-up to do to dust off the cobwebs; his intro on fanfiction.net is out of date (references having an updated character sheet on his Author page, but none exists), his forum page is full of advertising spam, and his tumblr updates infrequently. Hope this becomes a central project for him again soon!
 
-> **u/Electric999999** [+1] *
+> **u/Electric999999** [+1]  (2 days later)
 > 
 > Does anyone know if there's still a character sheet for Milo? (Or failing that a better place to ask this question)
-> 
 
->> **u/AurelianoTampa** [+3] *
+>> **u/AurelianoTampa** [+3]  (6 days later)
 >> 
 >> [Most recent one I found was from chapter 63](https://www.myth-weavers.com/sheetview.php?sheetid=1026861); since then he's dropped back down a level, due to Dementors.
->> 
 
-> **u/elevul** [+1]  *Cyoria Observer**
+> **u/elevul** [+1]  *Cyoria Observer* (4 days later)
 > 
 > Caught up. Didn't take as long as I'd wanted hopefully the updates will be more regular now, this story is very good.
-> 
 
-> **u/Gavinfoxx** [+1] *
+> **u/Gavinfoxx** [+1]  (12 days later)
 > 
 > Eeeeee! I'm so happy!!
-> 
 
 ---
 

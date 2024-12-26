@@ -2,7 +2,7 @@
 
 * Author: u/HeroDarkyDark *
 * URL: https://www.reddit.com/r/rational/comments/jar26a/games_of_knowledge_ch4izuku_x_school_club_with/
-* Score: 1
+* Score: 0
 
 * Created: 2020-10-14T01:27:34
 
@@ -16,43 +16,39 @@ Izuku and Setsuna flirt in front of Eri's salad
 
 ### Comments:
 
-> **u/Green0Photon** [+14]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+14]  *Student in Cyoria, Minmay, and Ranvar* (2 hours later)
 > 
 > So this is nice and all... But do you want to explain why it belongs on this sub?
-> 
 
->> **u/HeroDarkyDark** [-1] *
+>> **u/HeroDarkyDark** [-1]  (4 hours later)
 >> 
 >> It's a fic all about them in a world where everything is solve through playing a Game and each player have to tilt the scale to their favor to win. Basically a No Game No Life world
->> 
 
->>> **u/RMcD94** [+5] *
+>>> **u/RMcD94** [+5]  (12 hours later)
 >>> 
 >>> Playing games is not a sign of rationality 
->>> And NGNL is not rational
 >>> 
+>>> And NGNL is not rational
 
->>>> **u/HeroDarkyDark** [+4] *
+>>>> **u/HeroDarkyDark** [+4]  (13 hours later)
 >>>> 
 >>>> "Highly-rational fiction could include one or more of the following features:
->>>> Focus on intelligent characters solving problems through creative applications of their knowledge and resources."
->>>> How are people playing strategy-games and finding ways how to cheat/put the odds in their favor not rational.
 >>>> 
+>>>> Focus on intelligent characters solving problems through creative applications of their knowledge and resources."
+>>>> 
+>>>> How are people playing strategy-games and finding ways how to cheat/put the odds in their favor not rational.
 
-> **u/ironistkraken** [+11] *
+> **u/ironistkraken** [+10]  (16 minutes later)
 > 
 > I clicked on the ao3 link to see what it was about and the first tag I read was was "gamer midoria Izuku" and I just started laughing.
-> 
 
-> **u/dismalward7** [+6] *
+> **u/dismalward7** [+6]  (6 hours later)
 > 
 > This is one of those fanfics that have me cringe
-> 
 
->> **u/HeroDarkyDark** [+1] *
+>> **u/HeroDarkyDark** [+1]  (13 hours later)
 >> 
 >> thanks for sharing your feelings
->> 
 
 ---
 

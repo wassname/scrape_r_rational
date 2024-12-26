@@ -63,34 +63,33 @@ TL;DR:  Go start with Small Gods, then read the Watch books as defined [here](ht
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+3]  (13 hours later)
 > 
 > I always recommend the books featuring the Witches are rationalist reading material. The Witches modus operandi is simply "get it done" no matter what. 
-> Those books are also full of heroic responsibility (which is best explained in I Shall Wear Midnight as doing all the necessary things no-one else does).
-> I'm pretty sure the Tiffany Aching novels will end up on my children's bookshelves. (The translated copies, the English copies are for shelves.)
 > 
+> Those books are also full of heroic responsibility (which is best explained in I Shall Wear Midnight as doing all the necessary things no-one else does).
+> 
+> I'm pretty sure the Tiffany Aching novels will end up on my children's bookshelves. (The translated copies, the English copies are for shelves.)
 
->> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+3]  *Ankh-Morpork City Watch* (17 hours later)
 >> 
 >> The Witches books are often written as full of heroic responsibility. They also involve a lot of difficult moral judgements at times - I just recently reread the opening of Carpe Jugulum, and there is a bit about Mr. Ivy and his wife that was still as amazingly written and interesting as ever.   [Spoilers for Carpe Jugulum's opening (not relevant to the major plot of the book, just gives an idea of characters](#s "Granny Weatherwax is called to help a woman giving birth who got kicked by a cow. She decides that, with the methods she has available, she can only save one of the pregnant woman or her child. She decides to save the pregnant woman. The witch who called her in for her medical advice thinks she should ask the father, but Weatherwax declines and just does what is necessary to save the mother's life. When asked again if she shouldn't have asked the father about it, Weatherwax responds by asking if he was a bad man who had hurt the witch talking to her in some way. When she says no, Weatherwax then says 'Then what's he ever done to *me*, that I should hurt him so?'") It really brought up a lot of interesting moral ideas I hadn't considered before about people making decisions for others, and is a well-written way to expose the core of Weatherwax's character - the person who does what is necessary.
->> I agree about the Tiffany Aching books in particular - great novels for children, but fully readable as an adult. All of his YA fiction still reads well for adults. 
->> That said, I am not sure that merely having heroic responsibility qualifies a piece of fiction as rationalist. They are good books, even great books, with a lot to commend them, but there's not necessarily a lot of rationalist thought involved most of the time IMO. I don't really think semantics arguments are particularly meaningful or helpful in most circumstances, but in this particular case if we start saying "books involving protagonists who do what they need to do no matter what" are "rationalist", it will help dilute the term of any useful meaning it has accrued.
 >> 
+>> I agree about the Tiffany Aching books in particular - great novels for children, but fully readable as an adult. All of his YA fiction still reads well for adults. 
+>> 
+>> That said, I am not sure that merely having heroic responsibility qualifies a piece of fiction as rationalist. They are good books, even great books, with a lot to commend them, but there's not necessarily a lot of rationalist thought involved most of the time IMO. I don't really think semantics arguments are particularly meaningful or helpful in most circumstances, but in this particular case if we start saying "books involving protagonists who do what they need to do no matter what" are "rationalist", it will help dilute the term of any useful meaning it has accrued.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> *The Wee Free Men*, at least, blatantly exhibits an Appeal to Rationality through its advocacy of "First Sight" (seeing what's really there rather than what you expect) and "Second Thoughts" (noticing when your brain is tricking you) as being the core of magic.
->>> 
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (4 hours later)
 > 
 > Man, I love Discworld. Small Gods is definitely my favorite of the bunch, and I'd definitely give it the title of "most rational". It's funny though, since the Discworld universe runs on rules that aren't really conducive to rationality.
-> 
 
-> **u/lehyde** [+1]  *Nudist Beach**
+> **u/lehyde** [+1]  *Nudist Beach* (an hour later)
 > 
 > Thank you for posting this guide. Discworld is definitely on my list as I frequently come across quotes from the series on lesswrong and similar places. So I think this will come in handy (first need to finish some other stories, though).
-> 
 
 ---
 

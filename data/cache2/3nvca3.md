@@ -26,93 +26,95 @@ This is the 5th and second to last thread in my series on how you could abuse re
 
 ### Comments:
 
-> **u/Gurkenglas** [+7] *
+> **u/Gurkenglas** [+8]  (10 minutes later)
 > 
 > The important part is what actions can be turned into skills. In the best case, this power is "quickly reach a basic level of understanding for any action". Make as many as possible specialized skills into a single category, for example, if possible, make a skill for each topic covered in a scientific paper and get the basic boost by reading it. A multitude of specialized skills should get you as far or further as a high basic skill, and may be quicker to achieve. Maybe not.
-> What skill would it be worth spending the requisite time in to achieve perfection? Why, the skill of FAI design, of course. As an added bonus, your information about your skill level would tell you when you're done.
 > 
+> What skill would it be worth spending the requisite time in to achieve perfection? Why, the skill of FAI design, of course. As an added bonus, your information about your skill level would tell you when you're done.
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+4]  (an hour later)
 >> 
 >> > Why, the skill of FAI design, of course. As an added bonus, your information about your skill level would tell you when you're done.
->> Well, that pretty much puts paid to this thread.  Nice job breaking it, hero.  ;>
->> Although, actually...the only way to increase your skill would be to try to design an FAI, and you might not advance unless you actually tried out the design.  If so, you will almost certainly create a UFAI first and destroy the world.  Once again, nice job breaking it, hero.
 >> 
+>> Well, that pretty much puts paid to this thread.  Nice job breaking it, hero.  ;>
+>> 
+>> Although, actually...the only way to increase your skill would be to try to design an FAI, and you might not advance unless you actually tried out the design.  If so, you will almost certainly create a UFAI first and destroy the world.  Once again, nice job breaking it, hero.
 
->>> **u/LeonCross** [+2] *
+>>> **u/LeonCross** [+2]  (an hour later)
 >>> 
 >>> Hm. Couldn't you just design them on a closed system? I mean, even if you're like "Alright, I'm pretty sure this one's friendly!"
+>>> 
 >>> Looks at skill level,
 >>>  50,
 >>>  Resolves to not actually unleash any AIs until the one designed at level 100
->>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (2 hours later)
 >>>> 
 >>>> So, design an AI on a closed system that has no outputs -- not even a text channel.  Immediately destroy the AI on the assumption that it was UFAI.  Repeat until your skill is 100%.  Assume that the final product is an FAI.
->>>> That works unless your skill advancement depends on verifying the (U)FAI status of the AI.
 >>>> 
+>>>> That works unless your skill advancement depends on verifying the (U)FAI status of the AI.
 
->>>>> **u/LeonCross** [+2] *
+>>>>> **u/LeonCross** [+2]  (2 hours later)
 >>>>> 
 >>>>> I believe that the Gamer system works on sheer repetition with the level of difficulty increasing the amount of gained EXP.
->>>>> So verifying it being a friendly AI might give you more exp but not worth the risk. So just grind away those non-confirmations.
->>>>> Taking this out of the box and examining it with the rest of the mechanics, you can just use Observe on your finished product and it should tell you if it's friendly or not.
 >>>>> 
+>>>>> So verifying it being a friendly AI might give you more exp but not worth the risk. So just grind away those non-confirmations.
+>>>>> 
+>>>>> Taking this out of the box and examining it with the rest of the mechanics, you can just use Observe on your finished product and it should tell you if it's friendly or not.
 
->>>>> **u/westward101** [+2] *
+>>>>> **u/westward101** [+2]  (a day later)
 >>>>> 
 >>>>> I'd imagine skill advancement requires knowing how successful you were at performing the skill. 
->>>>> Developing AI on a output-less box would be like practicing target shooting while blindfolded.
 >>>>> 
+>>>>> Developing AI on a output-less box would be like practicing target shooting while blindfolded.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (2 hours later)
 >>>>> 
 >>>>> I must be out of the loop. What are all these different types of AIs? Google yields me nothing.
->>>>> 
 
->>>>>> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (3 hours later)
 >>>>>> 
 >>>>>> FAI means Friendly AI and UFAI means UnFriendly AI.
->>>>>> Here's a [wiki](https://en.wikipedia.org/wiki/Friendly_artificial_intelligence) link and a [LessWrong wiki](http://wiki.lesswrong.com/wiki/Friendly_artificial_intelligence) link.
 >>>>>> 
+>>>>>> Here's a [wiki](https://en.wikipedia.org/wiki/Friendly_artificial_intelligence) link and a [LessWrong wiki](http://wiki.lesswrong.com/wiki/Friendly_artificial_intelligence) link.
 
->>>>>> **u/eaglejarl** [+4] *
+>>>>>> **u/eaglejarl** [+3]  (4 hours later)
 >>>>>> 
 >>>>>> AI : artificial intelligence
->>>>>> FAI : friendly AI
->>>>>> UFAI : unfriendly AI
->>>>>> "Friendly" means "aligned with the interests of humanity" -- an FAI will figure out how to make us all happy. A UFAI is any AI that isn't friendly -- unless it actively wants to be nice to us (friendly), we are going to either be its enemies or "those puny little bugs that are using the resources I need", and in either case we're all dead. There's also the category of "hostile UFAI", but people don't usually bother with that -- whether it wants to torture us all for eternity or just turn the mass comprising our bodies into paperclips, it's definitely not friendly. 
->>>>>> The above is (over)simplified, of course.
 >>>>>> 
+>>>>>> FAI : friendly AI
+>>>>>> 
+>>>>>> UFAI : unfriendly AI
+>>>>>> 
+>>>>>> "Friendly" means "aligned with the interests of humanity" -- an FAI will figure out how to make us all happy. A UFAI is any AI that isn't friendly -- unless it actively wants to be nice to us (friendly), we are going to either be its enemies or "those puny little bugs that are using the resources I need", and in either case we're all dead. There's also the category of "hostile UFAI", but people don't usually bother with that -- whether it wants to torture us all for eternity or just turn the mass comprising our bodies into paperclips, it's definitely not friendly. 
+>>>>>> 
+>>>>>> The above is (over)simplified, of course.
 
-> **u/nicholaslaux** [+4] *
+> **u/nicholaslaux** [+3]  (2 hours later)
 > 
 > You've gained new skills: Skill acquisition and Skill levelling
-> 
 
->> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (3 hours later)
 >> 
 >> It makes sense to tackle things from a meta perspective, but how do you get the skills in the first place? I mean the only way I can think of is, constantly creating multiple new skills in ma very short period of time to trigger Skill Acquisition, and constantly leveling up multiple skills in an exceptionally short amount of time to trigger Skill Leveling. However, those are things the Gamer will be motivated to do anyway and how can the system see it as a new skill in of itself?
->> EDIT: I wonder how the Gaming System would react to a gamer who is a "completionist"? I bet there'd be a reward of some sort for leveling every possible skill to 100. Maybe, Skill Leveling?
 >> 
+>> EDIT: I wonder how the Gaming System would react to a gamer who is a "completionist"? I bet there'd be a reward of some sort for leveling every possible skill to 100. Maybe, Skill Leveling?
 
->>> **u/nicholaslaux** [+3] *
+>>> **u/nicholaslaux** [+3]  (3 hours later)
 >>> 
 >>> Well without knowing more details of what exactly a "skill" is, it's all really a crap shoot regardless. While an interesting plot point, the skill system has always come across as effectively author fiat whether a given activity develops into a skill or not.
->>> So basically, your procedure seems the best bet for developing each skill if you're trying to be at all rigorous.
 >>> 
+>>> So basically, your procedure seems the best bet for developing each skill if you're trying to be at all rigorous.
 
-> **u/michaelos22** [+2] *
+> **u/michaelos22** [+2]  (23 hours later)
 > 
 > >The more you do an action and the more focus and effort you put in the faster your skill level will increase.
-> If I put some focus and effort into improving my focus and effort skills, it seems that should hopefully speed up any other skill gain.
 > 
+> If I put some focus and effort into improving my focus and effort skills, it seems that should hopefully speed up any other skill gain.
 
-> **u/redrach** [+1] *
+> **u/redrach** [+1]  (2 days later)
 > 
 > There's a darker version of this (or perhaps it could use its own thread...), based on the experience system in games. What if every time you 'level up' you can concentrate on a particular task and you find yourself magically becoming slightly better at it. And the way you level up is by killing increasing numbers of living creatures.
-> 
 
 ---
 

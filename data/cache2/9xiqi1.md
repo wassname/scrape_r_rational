@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/HeartwarmingLies** [+7] *
+> **u/HeartwarmingLies** [+6]  (10 minutes later)
 > 
 > He would be treated like a serial killer. As he is killing people outside of the way they have been sentenced to die, which makes the killings extrajudicial and thus murder.
-> 
 
-> **u/None** [+6] *
+> **u/None** [+5]  (5 minutes later)
 > 
 > The fuck.
-> 
 
-> **u/adad64** [+3]  *Chaos Legion**
+> **u/adad64** [+3]  *Chaos Legion* (5 minutes later)
 > 
 > Wtf
-> 
 
 ---
 

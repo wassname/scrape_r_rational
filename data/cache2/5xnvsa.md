@@ -28,17 +28,17 @@ Setting design should probably go in the Wednesday Worldbuilding thread.
 
 ### Comments:
 
-> **u/FishNetwork** [+1] *
+> **u/FishNetwork** [+1]  (an hour later)
 > 
 > I'm really impressed by The Last Psychiatrists writing style.
-> The 'conversational' essays seem really effective at drawing a reader in.
-> Does anyone know what that style is called?  Are there any good breakdowns of why that works?
 > 
+> The 'conversational' essays seem really effective at drawing a reader in.
+> 
+> Does anyone know what that style is called?  Are there any good breakdowns of why that works?
 
->> **u/Kuiper** [+1] *
+>> **u/Kuiper** [+1]  (10 hours later)
 >> 
 >> I'm not sure if this answers your question, but you might enjoy the numerous essays [Paul Graham](http://www.paulgraham.com/articles.html) has written, particularly those on essay-writing: [Write Like You Talk](http://www.paulgraham.com/talk.html), [Persuade xor Discover](http://www.paulgraham.com/discover.html), [Writing, Briefly](http://www.paulgraham.com/writing44.html), and [Age of the Essay](http://www.paulgraham.com/essay.html).
->> 
 
 ---
 

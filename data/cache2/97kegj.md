@@ -2,7 +2,7 @@
 
 * Author: u/SkyTroupe *
 * URL: https://www.reddit.com/r/rational/comments/97kegj/gardens_of_the_moon_discussion/
-* Score: 9
+* Score: 10
 
 * Created: 2018-08-15T17:47:51
 
@@ -26,42 +26,43 @@ Sorry for any spelling mistakes. I have read the book in a physical format. Just
 
 ### Comments:
 
-> **u/Ka_min_sod** [+7] *
+> **u/Ka_min_sod** [+6]  (3 hours later)
 > 
 > Trying hard to remember everything. Circle breaker is not fiddler, he’s just a guy from darujistan. Ralick nom is definitely not an ascendant, and paran’s brush with ascendancy starts with getting the blood of the hounds on him. Mother dark is from the realm of the tiste, just like all the other elves. 
-> Ascendants aren’t quite gods. Both are powerful and immortal but ascendants don’t have a religion tied to them. There might be something else to it I can’t remember though. 
-> And I liked adjunct lorn the best, I wished she stuck around longer. Her journey with tool was  my favourite part of the book.
 > 
+> Ascendants aren’t quite gods. Both are powerful and immortal but ascendants don’t have a religion tied to them. There might be something else to it I can’t remember though. 
+> 
+> And I liked adjunct lorn the best, I wished she stuck around longer. Her journey with tool was  my favourite part of the book.
 
->> **u/signspace13** [+4] *
+>> **u/signspace13** [+4]  (13 hours later)
 >> 
 >> I liked Gardens of the moon quite a bit, though it took me two tries to get through it, and after that I just couldn't handle book 2, assholes in a desert was too much for me I didn't like the prospect of continuing a book in with I liked *none* of the characters.
->> 
 
->>> **u/SkyTroupe** [+1] *
+>>> **u/SkyTroupe** [+1]  (a day later)
 >>> 
 >>> Book 2 doesn't have the characters from book 1 in it? But I want more Cropper! :(
->>> 
 
->>>> **u/ShIxtan** [+2] *
+>>>> **u/ShIxtan** [+2]  (6 days later)
 >>>> 
 >>>> The series jumps around a lot. It can be frustrating sometimes because you grow to love the ones you are with, but the sheer number of amazing characters makes it worth it as you get to the end.
->>>> 
 
->>>>> **u/SkyTroupe** [+1] *
+>>>>> **u/SkyTroupe** [+1]  (7 days later)
 >>>>> 
 >>>>> I shall trust your statement and dive right into book 2. Wish me luck!
->>>>> 
 
-> **u/FlameDragonSlayer** [+4] *
+> **u/FlameDragonSlayer** [+5]  (9 hours later)
 > 
 > It has been over a year since I read MBoTF so my memory might be a bit hazy.
-> Circle breaker is not a major character as far as I can remember, I don't even remember the name.
-> Parans path did to Ascendancy did start with bathing/absorbing the blood of the Hounds of Shadows, this turned him into a soletaken, which are basically werebeasts as in they have a beast form.
-> Ascendants are those who have transcended mortality, as in they have hit the level cap if you think of it in game terms, they are the strongest players other than the gods and most of them are incredibly long lived or ridiculously powerful but not yet gods, they can probably turn into gods if they develop a religion and get enough worshippers. Also the Deck of Dragons plays a part in kind of selecting ascendants, as most of the powerful ascendants are tied to a card in the deck. 
-> And yes the goddess of Darkness is from the realm of Tiste Andii
-> My favourite characters are Ganoes Paran and Rallick Nom
 > 
+> Circle breaker is not a major character as far as I can remember, I don't even remember the name.
+> 
+> Parans path did to Ascendancy did start with bathing/absorbing the blood of the Hounds of Shadows, this turned him into a soletaken, which are basically werebeasts as in they have a beast form.
+> 
+> Ascendants are those who have transcended mortality, as in they have hit the level cap if you think of it in game terms, they are the strongest players other than the gods and most of them are incredibly long lived or ridiculously powerful but not yet gods, they can probably turn into gods if they develop a religion and get enough worshippers. Also the Deck of Dragons plays a part in kind of selecting ascendants, as most of the powerful ascendants are tied to a card in the deck. 
+> 
+> And yes the goddess of Darkness is from the realm of Tiste Andii
+> 
+> My favourite characters are Ganoes Paran and Rallick Nom
 
 ---
 

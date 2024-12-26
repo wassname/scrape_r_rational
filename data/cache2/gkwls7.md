@@ -2,7 +2,7 @@
 
 * Author: u/madwhitesnake *
 * URL: https://www.reddit.com/r/rational/comments/gkwls7/rt_pith_a_fantasy_serial_about_bodyswapping/
-* Score: 120
+* Score: 119
 
 * Created: 2020-05-16T15:36:04
 
@@ -30,252 +30,238 @@ If you have any comments or non-spoilery questions, I’d love to hear them!  An
 
 ### Comments:
 
-> **u/Watchful1** [+18] *
+> **u/Watchful1** [+18]  (10 hours later)
 > 
 > I really like it!
-> I'm also curious, is there a specific reason you decided to host this on your own site rather than an aggregator like RoyalRoad? It would make it a lot easier to get new readers if it was on another site.
 > 
+> I'm also curious, is there a specific reason you decided to host this on your own site rather than an aggregator like RoyalRoad? It would make it a lot easier to get new readers if it was on another site.
 
->> **u/madwhitesnake** [+18] *
+>> **u/madwhitesnake** [+17]  (16 hours later)
 >> 
 >> Thanks!  I like the freedom and fine-tuning that my own site gives me.  But like Pirateaba and nobody103, I'm planning to cross-post to RR once I have a bigger backlog of chapters and can drop them all fast.  My normal posting schedule is slow for web fiction, and that can make it hard to get noticed on the big sites.
->> 
 
-> **u/CouteauBleu** [+25]  *We are the Empire.**
+> **u/CouteauBleu** [+25]  *We are the Empire.* (4 hours later)
 > 
 > I've read only two chapters but holy crap am I hooked.
-> Are you secretly Wildbow's backup clone or something?
 > 
+> Are you secretly Wildbow's backup clone or something?
 
->> **u/hierarch17** [+26] *
+>> **u/hierarch17** [+25]  (5 hours later)
 >> 
 >> Its even a four letter title! Maybe wildbow is trapped in this persons body.
->> 
 
->>> **u/RedSheepCole** [+12] *
+>>> **u/RedSheepCole** [+11]  (8 hours later)
 >>> 
 >>> If he's lucky Wildbow will switch Pale's name to Pith next, and he'll get some sweet incidental pageviews.  I was hoping for "Pyre," personally, but that was always a longshot.
->>> 
 
->>>> **u/Mr_Miffs** [+8] *
+>>>> **u/Mr_Miffs** [+6]  (9 hours later)
 >>>> 
 >>>> I'll be honest, I completely thought that this was Wildbow's new work when I clicked on it.
->>>> 
 
->>>>> **u/Geminii27** [+22] *
+>>>>> **u/Geminii27** [+23]  (11 hours later)
 >>>>> 
 >>>>> It did seem like it was shooting for the Wildbow effect. From the announcement, though, I couldn't tell whether it was serious or taking the pith.
->>>>> 
 
->>>>>> **u/RedSheepCole** [+7] *
+>>>>>> **u/RedSheepCole** [+6]  (12 hours later)
 >>>>>> 
 >>>>>> I had hopes for a similar gag, but couldn't quite find the phrasing.  I salute you.
->>>>>> 
 
->>>>>> **u/C5Jones** [+4] *
+>>>>>> **u/C5Jones** [+4]  (12 hours later)
 >>>>>> 
 >>>>>> RRRRRGH
->>>>>> 
 
->>>> **u/MilesSand** [+1] *
+>>>> **u/MilesSand** [+1]  (11 hours later)
 >>>> 
 >>>> Wait I haven't heard of this yet. When's pale supposed to be out? What site?
->>>> 
 
->>>>> **u/Amagineer** [+3] *
+>>>>> **u/Amagineer** [+4]  (11 hours later)
 >>>>> 
 >>>>> [Here](https://palewebserial.wordpress.com/about/)
->>>>> 
 
->>>>>> **u/RedSheepCole** [+7] *
+>>>>>> **u/RedSheepCole** [+7]  (12 hours later)
 >>>>>> 
 >>>>>> Watch out, that lands you on the latest chapter--at least, it did for me!  Try [https://palewebserial.wordpress.com/about/](https://palewebserial.wordpress.com/about/) or [https://palewebserial.wordpress.com/2020/05/05/blood-run-cold-0-0/](https://palewebserial.wordpress.com/2020/05/05/blood-run-cold-0-0/) so Miles can start at the beginning.  Not that I imagine major spoilers four chapters in or anything ...
->>>>>> (Pale is a story set in the same world as Pact--not exactly a sequel, as I understand it.  It was originally named Poof for some reason, but that opened up a whole can of worms (har) for being a slur in Britain and also sounding silly so he retitled it)
 >>>>>> 
+>>>>>> (Pale is a story set in the same world as Pact--not exactly a sequel, as I understand it.  It was originally named Poof for some reason, but that opened up a whole can of worms (har) for being a slur in Britain and also sounding silly so he retitled it)
 
->>>> **u/slogancontagion** [+1] *
+>>>> **u/slogancontagion** [+1]  (3 days later)
 >>>> 
 >>>> She's a woman btw, it's usually best practice to say they when you're not sure and ask for clarification if it's needed
->>>> 
 
->> **u/madwhitesnake** [+19] *
+>> **u/madwhitesnake** [+19]  (16 hours later)
 >> 
 >> Any resemblance to Wildbow is unintentional, and I promise I’m not his clone or possessed by his spirit.  Though if I say the word “copacetic” more than once a year, please call an exorcist.
->> Glad you’re enjoying it!
 >> 
+>> Glad you’re enjoying it!
 
-> **u/Turniper** [+11] *
+> **u/Turniper** [+9]  (6 hours later)
 > 
 > Already on arc 4. Really well done.
-> 
 
-> **u/CouteauBleu** [+11]  *We are the Empire.**
+> **u/CouteauBleu** [+10]  *We are the Empire.* (a day later)
 > 
 > Okay, I've caught up with the story, and so far the greatest flaws are:
+> 
 > - There isn't more of it.
 > - It doesn't update on tuesdays, wednesdays, thursdays, saturdays and sundays.
-> The first flaw should fix itself over time though.
-> Seriously, I'm having a hard time conveying how much I like the story so far. The characters are on point, and I even find myself liking Wes, despite what an absolute scumbag he is. The worldbuilding is great, and every chapter I find myself giggling when the story adds another clever tidbit about how society integrates clones in good or bad ways.
-> You should probably post a new thread for every chapter. I know I want to comment on some things but I don't really like the wordpress comment box. 
-> Also, any chance you'll post a world map at some point? I'm having a hard time keeing up with the different place names and ethnicities.
 > 
+> The first flaw should fix itself over time though.
+> 
+> Seriously, I'm having a hard time conveying how much I like the story so far. The characters are on point, and I even find myself liking Wes, despite what an absolute scumbag he is. The worldbuilding is great, and every chapter I find myself giggling when the story adds another clever tidbit about how society integrates clones in good or bad ways.
+> 
+> You should probably post a new thread for every chapter. I know I want to comment on some things but I don't really like the wordpress comment box. 
+> 
+> Also, any chance you'll post a world map at some point? I'm having a hard time keeing up with the different place names and ethnicities.
 
->> **u/madwhitesnake** [+4] *
+>> **u/madwhitesnake** [+6]  (a day later)
 >> 
 >> Thanks so much!  If no one else posts threads for new chapters, I’ll gladly put one here once a week.  And I’ll do my best to live up to your high praise.
->> I’m terrible at drawing, so no map from me, but now that I have a readership over the single digits, I’ll probably add a glossary to the site.  Hope that’ll help!
 >> 
+>> I’m terrible at drawing, so no map from me, but now that I have a readership over the single digits, I’ll probably add a glossary to the site.  Hope that’ll help!
 
-> **u/alphanumericsprawl** [+8] *
+> **u/alphanumericsprawl** [+8]  (17 hours later)
 > 
 > Does anyone else think that Ana is an unusually good person? I get that it's a literary conceit, that the main character almost has to be morally noble.
-> Still, if I were in her position, with a power that seemed almost purpose-built for theft - and if I really needed money to save my life... I suppose that she's ashamed about stealing from her parents, that that might move her away from making a habit of it. There's also presumably precautions and ways people try and prevent people like her from stealing on a long-term basis.
-> >!Likewise when she attempts to save those people from being  tortured to death. Wouldn't even a good person leave rather than try to do something about it, given their very limited powers at the time? Especially given Wes's arguments?<!
-> I suppose such people do exist in the real world and maybe I'm being too edgy. It's an interesting issue with rationality in fiction. If Ana was more pragmatic as a thief, she'd have made more money (maybe?) or have otherwise scammed her way out of death. If Taylor was more pragmatic in Worm, she would've joined the Wards or not gotten ensnared with dangerous criminals on a fool's errand trying to uncover Coil. Even in Worth the Candle, a 'pragmatic' Juniper might've bulldozed through a lot of diplomatic problems with soul magic or just killing whatever was in the way. But people don't really act on this birds-eye-view of pragmatism, choosing what values they hold in order to achieve their objectives. The values define the objective most of the time.
-> I guess more interesting stories come when people decide what to do in somewhat unrealistic ways, then try and achieve their goals as cleverly as possible, given the restrictions they've placed on themselves.
 > 
+> Still, if I were in her position, with a power that seemed almost purpose-built for theft - and if I really needed money to save my life... I suppose that she's ashamed about stealing from her parents, that that might move her away from making a habit of it. There's also presumably precautions and ways people try and prevent people like her from stealing on a long-term basis.
+> 
+> >!Likewise when she attempts to save those people from being  tortured to death. Wouldn't even a good person leave rather than try to do something about it, given their very limited powers at the time? Especially given Wes's arguments?<!
+> 
+> I suppose such people do exist in the real world and maybe I'm being too edgy. It's an interesting issue with rationality in fiction. If Ana was more pragmatic as a thief, she'd have made more money (maybe?) or have otherwise scammed her way out of death. If Taylor was more pragmatic in Worm, she would've joined the Wards or not gotten ensnared with dangerous criminals on a fool's errand trying to uncover Coil. Even in Worth the Candle, a 'pragmatic' Juniper might've bulldozed through a lot of diplomatic problems with soul magic or just killing whatever was in the way. But people don't really act on this birds-eye-view of pragmatism, choosing what values they hold in order to achieve their objectives. The values define the objective most of the time.
+> 
+> I guess more interesting stories come when people decide what to do in somewhat unrealistic ways, then try and achieve their goals as cleverly as possible, given the restrictions they've placed on themselves.
 
->> **u/Luminous_Lead** [+8] *
+>> **u/Luminous_Lead** [+7]  (a day later)
 >> 
 >> I think it's a mix of compassion for people in her economic bracket, a knowledge that if she does get caught she might die, and the idealism that Paragon seems to be trying to grind into society (Strive to become an Exemplar).  The latter being referenced so often that it has to have a deeper societal meaning than we've been shown.
->> 
 
-> **u/TrebarTilonai** [+10] *
+> **u/TrebarTilonai** [+10]  (10 hours later)
 > 
 > This is good! With your permission, I would like to read at least the first arc or two in a live reading session that I do on Wednesdays. I also record the session for friends who can't make the live reading but the recordings are not used commercially in any way.
-> 
 
->> **u/madwhitesnake** [+6] *
+>> **u/madwhitesnake** [+6]  (16 hours later)
 >> 
 >> Thank you!  As long as it's not commercial or a proper full audiobook, go right ahead!
->> 
 
->>> **u/TrebarTilonai** [+7] *
+>>> **u/TrebarTilonai** [+8]  (a day later)
 >>> 
 >>> Not commercial at all, and I'm not doing any editing on the sound or anything to bring it up to production-level quality. It's mostly a way to practice my storytelling while providing some entertainment to friends and family during quarantine while introducing them to good stories. Especially one friend who loves a good web serial but is dyslexic and has trouble reading them himself, so if there isn't already an audiobook he usually misses out. But I think he'll really like this one, so thank you.
->>> 
 
-> **u/CorneliusPhi** [+3] *
+> **u/CorneliusPhi** [+4]  (a day later)
 > 
 > Just read the whole thing.  This is pretty great
-> 
 
-> **u/lurinaa** [+3] *
+> **u/lurinaa** [+4]  (2 days later)
 > 
 > Oh, huh! I was surprised to see this here - I was thinking of posting it myself at some point since I saw you link it on a different forum, but I never got around to it due to fussing over my own work.
-> It's a good story! Very tightly written, and exploits the reader desire for catharsis for the injustices the main characters suffer masterfully - there's something about the way you write body/mind incongruence and betrayal from figures who should be trustworthy or caring that really captures the sense of something sacred or primally important being violated. It makes it difficult to stop reading, even against my better sense.
-> It's also very bold in how un-wishfulfillmenty it is for Ana in particular, considering how characters like that are usually written, even if the tease at the end of the first arc is agonizing. It has the potential to climax this part of her story in an either incredible moment of relief or an absolutely heartrending tragedy. 
-> I also like the worldbuilding. It's unique and interesting without being too indulgent, unlike most of what I write, which goes right off the deep end.
 > 
+> It's a good story! Very tightly written, and exploits the reader desire for catharsis for the injustices the main characters suffer masterfully - there's something about the way you write body/mind incongruence and betrayal from figures who should be trustworthy or caring that really captures the sense of something sacred or primally important being violated. It makes it difficult to stop reading, even against my better sense.
+> 
+> It's also very bold in how un-wishfulfillmenty it is for Ana in particular, considering how characters like that are usually written, even if the tease at the end of the first arc is agonizing. It has the potential to climax this part of her story in an either incredible moment of relief or an absolutely heartrending tragedy. 
+> 
+> I also like the worldbuilding. It's unique and interesting without being too indulgent, unlike most of what I write, which goes right off the deep end.
 
-> **u/SilverstringstheBard** [+14] *
+> **u/SilverstringstheBard** [+15]  (13 hours later)
 > 
 > I've read through the first section of the story and I don't think I'll be continuing from here. This isn't a criticism of the writing quality or anything, but being a trans girl that has some experience in being in a shitty body I don't like, I have to say that Ana's sections are too harrowing for me to deal with. Everyone is just absolutely awful to her, she has no hope, they >!fucking force her to go back into a masculine body after destroying the one she stole...!< yeah. I wish you well, but I find it hard to read stories where I want everyone in them save the viewpoint character to die horrible painful deaths.
-> 
 
->> **u/madwhitesnake** [+21] *
+>> **u/madwhitesnake** [+19]  (17 hours later)
 >> 
 >> That’s super fair.  If it’s not obvious from the content, I’m trans myself, so I’ve been there.  Thanks for trying it out anyways.
->> 
 
->>> **u/slogancontagion** [+5] *
+>>> **u/slogancontagion** [+3]  (3 days later)
 >>> 
 >>> hey what are your pronouns? im really enjoying the fic so far
->>> 
 
->>>> **u/madwhitesnake** [+3] *
+>>>> **u/madwhitesnake** [+3]  (3 days later)
 >>>> 
 >>>> She/Her.  Thank you!
->>>> 
 
-> **u/Calsem** [+3] *
+> **u/Calsem** [+3]  (a day later)
 > 
 > Good first chapter, I liked it! I'll continue reading.
-> Minor note: I was a bit confused when you first mentioned smoke, as before only steam was mentioned. Made sense later on when I read about the cigarrete. Idk if it's worth changing.
-> > I wiped sweat off my forehead and dried my hand on my white dress shirt.  Steam rose from the stoves in the middle of the kitchen, filling the room to the brim.  It drifted into my eyes, making them sting.
-> > I waved my hand to clear the smoke and glanced around the room.
-> ...
-> > Clutching a cigarette in her fingers, she looked over her shoulder to breathe out a cloud of smoke.
-> Also random question - is it convention to not tab paragraphs for web serials? I've noticed that authors in books generally tab their paragraphs (ex: Stephen King) but web serials like Worth the Candle, Worm, and Pith don't.
 > 
+> Minor note: I was a bit confused when you first mentioned smoke, as before only steam was mentioned. Made sense later on when I read about the cigarrete. Idk if it's worth changing.
+> 
+> > I wiped sweat off my forehead and dried my hand on my white dress shirt.  Steam rose from the stoves in the middle of the kitchen, filling the room to the brim.  It drifted into my eyes, making them sting.
+> 
+> > I waved my hand to clear the smoke and glanced around the room.
+> 
+> ...
+> 
+> > Clutching a cigarette in her fingers, she looked over her shoulder to breathe out a cloud of smoke.
+> 
+> Also random question - is it convention to not tab paragraphs for web serials? I've noticed that authors in books generally tab their paragraphs (ex: Stephen King) but web serials like Worth the Candle, Worm, and Pith don't.
 
->> **u/RedSheepCole** [+4] *
+>> **u/RedSheepCole** [+4]  (2 days later)
 >> 
 >> I type up my serial in LibreOffice with a tab before every paragraph.  Then I copy-paste it into Wordpress, which removes all of the tabs.  I could probably work out some way to indent, but it wouldn't be worth the bother.  I suspect RR does something similar.  
->> Indenting is useful to visually offset paragraph starts, but that's probably less useful in online works where you can simply increase spacing between paragraphs for the same result.  I imagine books don't do that because paper costs money.
 >> 
+>> Indenting is useful to visually offset paragraph starts, but that's probably less useful in online works where you can simply increase spacing between paragraphs for the same result.  I imagine books don't do that because paper costs money.
 
->>> **u/Calsem** [+2] *
+>>> **u/Calsem** [+2]  (2 days later)
 >>> 
 >>> Interesting, thanks.
->>> Also I just read all the up to episode 5 in a shameful binge-read. Great web-serials are my weakness like Wes and his alcohol lol.
->>> You have a really good setting! I like the characters too. I'm sad >!Kaplen died!< - hopefully the story is less grimdark than worm? 😬 The quality is really good, I think you could self-publish it.
->>> Last question - do you have a patreon?
 >>> 
+>>> Also I just read all the up to episode 5 in a shameful binge-read. Great web-serials are my weakness like Wes and his alcohol lol.
+>>> 
+>>> You have a really good setting! I like the characters too. I'm sad >!Kaplen died!< - hopefully the story is less grimdark than worm? 😬 The quality is really good, I think you could self-publish it.
+>>> 
+>>> Last question - do you have a patreon?
 
->>>> **u/RedSheepCole** [+3] *
+>>>> **u/RedSheepCole** [+4]  (2 days later)
 >>>> 
 >>>> I'm not the author of Pith; I write [Pyrebound](https://pyrebound.wordpress.com/).  I just didn't want to be the kind of obnoxious bugger who name-drops his own work at every opportunity.  Sorry for the confusion.
->>>> 
 
->> **u/Luminous_Lead** [+1] *
+>> **u/Luminous_Lead** [+1]  (4 days later)
 >> 
 >> Regarding "tabbing", I think it's just a literary conventions shift that happened to coincide with the rise of web serials. I've been informed in my technical writing course (that develops skills for report-composition) that indenting paragraphs is falling out of style.
->> 
 
-> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+> **u/SvalbardCaretaker** [+3]  *Mouse Army* (2 days later)
 > 
 > You are emulating a british society, no? Pies and pounds. Yet your characters measure distance in blocks, an entirely US thing. Naturally grown cities don't have blocks!
-> 
 
->> **u/Luminous_Lead** [+5] *
+>> **u/Luminous_Lead** [+5]  (4 days later)
 >> 
 >> It's probably a bit of a cultural mash. It feels kind of dark and shitty future given that there are skyscrapers deep underwater.
->> 
 
-> **u/EthanTheHeffalump** [+3] *
+> **u/EthanTheHeffalump** [+3]  (2 days later)
 > 
 > Just binge read it today - I love it, please keep going! I really like the “magic” system you’ve got going, and little touches like anti-munchkinry rules about recursive pith improvements always make me happy to see
-> 
 
-> **u/MI_Solo_Firm** [+3] *
+> **u/MI_Solo_Firm** [+3]  (4 days later)
 > 
 > Just read the whole thing. Really really enjoyed.   
-
->  Great writing, great fleshed out system. Difficult, complicated world you've built. Thank you very much for writing it!
 > 
+>  Great writing, great fleshed out system. Difficult, complicated world you've built. Thank you very much for writing it!
 
->> **u/madwhitesnake** [+2] *
+>> **u/madwhitesnake** [+2]  (4 days later)
 >> 
 >> Thank you!
->> 
 
-> **u/glisteningsunlight** [+2] *
+> **u/glisteningsunlight** [+2]  (9 days later)
 > 
 > I’d love to read it, but I can’t read on a Wordpress blog, the eye strain is just too much.
-> Is there any way I can get this in ePub or mobi format?
 > 
+> Is there any way I can get this in ePub or mobi format?
 
-> **u/None** [+1] *
+> **u/None** [+1]  (13 hours later)
 > 
 > Listing "bodyswapping" first immediately made me assume this was fetishistic, but I'll give it a shot.
-> 
 
->> **u/gryfft** [+11] *
+>> **u/gryfft** [+11]  (23 hours later)
 >> 
 >> It's not. The "body-swapping" is a hard magic take on a cyberpunk trope (body fungibility a la the Takeshi Kovacs series) with some gender dysphoria themes. It's pretty damn compelling, especially if one's into psychological horror and cyberpunk things.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 years later)
 > 
 > Hey,
-> Read quite far into this and realized there was a long hiatus in the middle of volume two. Anyone know if the web novel ever resumed? Or if it has been discontinued forever
 > 
+> Read quite far into this and realized there was a long hiatus in the middle of volume two. Anyone know if the web novel ever resumed? Or if it has been discontinued forever
 
->> **u/smorb42** [+1] *
+>> **u/smorb42** [+1]  (4 years later)
 >> 
 >> I am afraid that it is likely that it will not the author seems to have vanished from the internet, and their blog is now gone. It still exists on wayback, but is otherwise lost.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://kasmana.people.cofc.edu/MATHFICT/browse.php
-* Score: 9
+* Score: 8
 
 * Created: 2013-12-06T23:17:59
 

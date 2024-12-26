@@ -18,27 +18,25 @@ For new readers, TFTBN (not exactly acronym conducive, huh?) is a murder mystery
 
 ### Comments:
 
-> **u/tjhance** [+3] *
+> **u/tjhance** [+3]  (6 hours later)
 > 
 > dang cliffhanger ending
-> ~~every chapter, Utsu progresses 1/2 of the remaining distance towards meeting Zeno~~
 > 
+> ~~every chapter, Utsu progresses 1/2 of the remaining distance towards meeting Zeno~~
 
->> **u/lurinaa** [+4] *
+>> **u/lurinaa** [+4]  (10 hours later)
 >> 
 >> I'm sorry! I _really_ wanted the whole scene with Zeno in this chapter instead of in the next one, but I keep having migraines after work recently, and I'm coming precariously close to having to cannibalize my backlog/Patreon advance stuff to not miss weeks, unfortunately.
->> 
 
->>> **u/tjhance** [+4] *
+>>> **u/tjhance** [+3]  (10 hours later)
 >>> 
 >>> (it was a 'Zeno's Paradox' joke)
->>> 
 
->>>> **u/lurinaa** [+6] *
+>>>> **u/lurinaa** [+5]  (11 hours later)
 >>>> 
 >>>> ...damn, that's a really embarrassing mistake to make on a subreddit like this, lmao. I think I even had it partially in mind when conceiving the character, too.
->>>> I swear, this story is turning my brain into soup.
 >>>> 
+>>>> I swear, this story is turning my brain into soup.
 
 ---
 

@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/None** [+4] *
+> **u/None** [+4]  (13 minutes later)
 > 
 > Sir, this is a fanfiction subreddit.
-> 
 
-> **u/CardSwipperPro69** [+1] *
+> **u/CardSwipperPro69** [+1]  (20 minutes later)
 > 
 > Wrong sub bud
-> 
 
->> **u/ZuniKay** [+1] *
+>> **u/ZuniKay** [+1]  (35 minutes later)
 >> 
 >> Where are the rational and critical thinkers at ?
->> 
 
->>> **u/CardSwipperPro69** [+1] *
+>>> **u/CardSwipperPro69** [+1]  (36 minutes later)
 >>> 
 >>> Check out the sub description
->>> 
 
 ---
 

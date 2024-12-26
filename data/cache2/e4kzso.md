@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/e4kzso/secret_of_the_patronus_chapter_41_string_theory/
-* Score: 9
+* Score: 10
 
 * Created: 2019-12-01T18:06:06
 

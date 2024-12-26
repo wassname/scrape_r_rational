@@ -2,7 +2,7 @@
 
 * Author: u/awesomeideas  *Dai stiho, cousin.**
 * URL: http://readnovelonline.com/ScienceFiction/Asimov41/27351.html
-* Score: 24
+* Score: 23
 
 * Created: 2017-11-22T19:44:55
 

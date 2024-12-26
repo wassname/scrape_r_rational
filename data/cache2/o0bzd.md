@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/florida200** [+1] *
+> **u/florida200** [+1]  (38 seconds later)
 > 
 > US interested in oil in North Korea. huh?
-> 
 
 ---
 

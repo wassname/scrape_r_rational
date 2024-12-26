@@ -13,26 +13,23 @@ My meandering mind just brought to my attention that I'd like to track down a si
 
 ### Comments:
 
-> **u/alexanderwales** [+4]  *Time flies like an arrow**
+> **u/alexanderwales** [+4]  *Time flies like an arrow* (an hour later)
 > 
 > [Long Stairs?](https://forum.rpg.net/index.php?threads/setting-riff-voices-from-below-and-the-long-stairs.391379/) That matches the first part of your info, at least, an atomic test opening a rift to a dungeon dimension.
-> 
 
->> **u/Effigydragon** [+2] *
+>> **u/Effigydragon** [+2]  (13 hours later)
 >> 
 >> Very close, if it wasn't inspired by the same thing i  am remembering it may have been the inspiration of it.
->> 
 
-> **u/Real_Name_Here** [+2] *
+> **u/Real_Name_Here** [+2]  (an hour later)
 > 
 > You should also post this in /r/tipofmytongue
-> Sorry I can't be more help.
 > 
+> Sorry I can't be more help.
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (2 days later)
 > 
 > I've read this! I can't remember what it is. I wanna say it might have been something from the SCP universe?
-> 
 
 ---
 

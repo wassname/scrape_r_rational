@@ -16,29 +16,28 @@ The truth is that the chip is a short range wireless receiver that links your br
 
 ### Comments:
 
-> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (8 hours later)
 > 
 > Sounds like *Unstable Orbits in the Space of Lies* by Greg Egan.
-> It's a short story, about a city with this sort of phenomenon (although the mind-link is magical rather than technological, it otherwise works the way you've described). Philosophies end up divided along geographical lines - you have a Buddhist neighbourhood, a nihilist neighbourhood, a Catholic neighbourhood, etc - because the effect diminishes with distance and people are drawn towards other people who agree with them. The main characters are vagrants who live in the spaces where these beliefs overlap and combine and they're less likely to be pulled into any particular basin.
-> It's a weird story even by Egan's standards.
 > 
+> It's a short story, about a city with this sort of phenomenon (although the mind-link is magical rather than technological, it otherwise works the way you've described). Philosophies end up divided along geographical lines - you have a Buddhist neighbourhood, a nihilist neighbourhood, a Catholic neighbourhood, etc - because the effect diminishes with distance and people are drawn towards other people who agree with them. The main characters are vagrants who live in the spaces where these beliefs overlap and combine and they're less likely to be pulled into any particular basin.
+> 
+> It's a weird story even by Egan's standards.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (an hour later)
 >> 
 >> You are that one weird person who manages to get into a situation where they are really alone (within 2 miles or something like that), where you can start to notice the biases when you are really left to your own devices.
 >> EDIT: a major component is belief.  If your surroundings believe, the evidence will appear to point that way.
->> 
 
-> **u/KZLightning** [+1] *
+> **u/KZLightning** [+1]  (7 hours later)
 > 
 > This would be really interesting. I especially like that the link between brains is at a subconscious level. It is not as if you are connected telepathically to others but as if you share the "same" subconscious and therefore arrive at similar beliefs and biases.
-> I do not know enough about psychology to make suggestions but this would be very interesting. I would suggest that not all of the results of this would be bad. Also, cults might become more unified, but skepticism of cults is widespread and that would become unified as well. I think that this is really an examination of individualism (the belief that individuals are most important unit of society). Remember that some people do not believe individualism and they are perfectly rational in their disbelief.
 > 
+> I do not know enough about psychology to make suggestions but this would be very interesting. I would suggest that not all of the results of this would be bad. Also, cults might become more unified, but skepticism of cults is widespread and that would become unified as well. I think that this is really an examination of individualism (the belief that individuals are most important unit of society). Remember that some people do not believe individualism and they are perfectly rational in their disbelief.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/CrystalValues *
 * URL: https://www.reddit.com/r/rational/comments/hsbvgm/terminator_time_travelmy_rationalist_versions/
-* Score: 29
+* Score: 27
 
 * Created: 2020-07-16T15:42:01
 
@@ -19,123 +19,115 @@ Here's a fun video explaining the different ways that time travel might work. I 
 
 ### Comments:
 
-> **u/sparr** [+30] *
+> **u/sparr** [+28]  (4 hours later)
 > 
 > There are concepts of time travel where there is an eventually consistent loop that isn't necessarily the first loop.
-> Maybe Sarah Connor had a child named James, who led the resistance and sent Kyle Reese back, who then fathered a child with Sarah Connor named John, who led the resistance and sent Kyle Reese back, and that second loop is stable.
 > 
+> Maybe Sarah Connor had a child named James, who led the resistance and sent Kyle Reese back, who then fathered a child with Sarah Connor named John, who led the resistance and sent Kyle Reese back, and that second loop is stable.
 
->> **u/nosoupforyou** [+10] *
+>> **u/nosoupforyou** [+10]  (5 hours later)
 >> 
 >> And the new timeline might not require Kyle to go back in time.  It already happened, and it might not be a paradox to not send him back in the new timeline.  The idea here is that the kyle who went back is from the other timeline that no longer exists.
->> 
 
->>> **u/Nimelennar** [+8] *
+>>> **u/Nimelennar** [+8]  (14 hours later)
 >>> 
 >>> I think that's the idea that *Sarah Connor Chronicles* was playing with.  Every new visitor was from a different version of the future (albeit always one where Judgement Day had happened at some point, and where John Connor had led a resistance against the machines).
->>> 
 
->>>> **u/nosoupforyou** [+1] *
+>>>> **u/nosoupforyou** [+1]  (20 hours later)
 >>>> 
 >>>> It's been a long time since I saw that show.  I don't remember it too well.  But that sounds right.
->>>> 
 
->>>>> **u/CrystalValues** [+1] *
+>>>>> **u/CrystalValues** [+1]  (a day later)
 >>>>> 
 >>>>> I haven't seen it, so apologies if there's a better explanation in there somewhere.
->>>>> 
 
-> **u/ArgentStonecutter** [+10]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram* (37 minutes later)
 > 
 > There's a shortage of rational-adjacent time travel movies.
-> I'd start with _Run Lola Run_ rather than _Terminator_.
 > 
+> I'd start with _Run Lola Run_ rather than _Terminator_.
 
->> **u/GuyWithLag** [+17] *
+>> **u/GuyWithLag** [+16]  (an hour later)
 >> 
 >> Have you read  [https://www.fanfiction.net/s/9658524/1/Branches-on-the-Tree-of-Time](https://www.fanfiction.net/s/9658524/1/Branches-on-the-Tree-of-Time)   ?
->> 
 
->>> **u/wren42** [+5] *
+>>> **u/wren42** [+5]  (4 hours later)
 >>> 
 >>> I think he was specifically stating "movies", as "Branches" is referenced in the OP as well (and is great)
->>> 
 
->>>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram* (2 days later)
 >>>> 
 >>>> It briefly read "fics" not "movies" because I pulled a braino, and it looks like GuyWithLag got in while I was editing it. So that's my bad.
->>>> I would love to see more rational/rational-adjacent time travel movies.
->>>> Like Back to the Future except when Marty gets back his parents have two different kids, because butterflies, and the firstborn was called Marty because Lorraine liked the name.
->>>> Also no photograph shenanigans. Doc Brown figures it out from first principles because he's just that cool.
 >>>> 
+>>>> I would love to see more rational/rational-adjacent time travel movies.
+>>>> 
+>>>> Like Back to the Future except when Marty gets back his parents have two different kids, because butterflies, and the firstborn was called Marty because Lorraine liked the name.
+>>>> 
+>>>> Also no photograph shenanigans. Doc Brown figures it out from first principles because he's just that cool.
 
->>> **u/Ulmaxes** [+2] *
+>>> **u/Ulmaxes** [+2]  (16 hours later)
 >>> 
 >>> Thank you for this! Very good read.
->>> 
 
->>> **u/CrystalValues** [+1] *
+>>> **u/CrystalValues** [+1]  (a day later)
 >>> 
 >>> Yes I have.
->>> 
 
-> **u/Luminous_Lead** [+5] *
+> **u/Luminous_Lead** [+6]  (8 hours later)
 > 
 > I remember a similar self-contained loop was present in Season 2 of MLP:FIM (Episode: It's About Time), where POV character Twilight Sparkle is visited by her bedraggled  future self (from next Tuesday) and given a distressing warning that is cut off before any actionable details can be given.  Twilight then rushes around the country side for days, patching minor crises, accruing injuries and generally becoming more unkempt and anxious about an uncertain future.  It finally comes to a head on Tuesday when... nothing happens.  She realizes that there's no actual crisis, breaks into the royal archives for a time travel scroll, and travels back in time to tell herself not to worry about it... but gets cut off before she can get into the details, ensuring the loop.
-> Someone was taken by the idea of how this came to be and wrote the short story "Closed Timelike Curve" https://www.fimfiction.net/story/189703/closed-timelike-curve , which addresses the "first loop" concept nicely.
 > 
+> Someone was taken by the idea of how this came to be and wrote the short story "Closed Timelike Curve" https://www.fimfiction.net/story/189703/closed-timelike-curve , which addresses the "first loop" concept nicely.
 
-> **u/Freevoulous** [+6] *
+> **u/Freevoulous** [+6]  (16 hours later)
 > 
 > What Im confused about the whole series:  
-
-> **Why is the pre-war reality not absolutely littered with Terminators, and anti-Terminator fighters?** From what we see:  
-
-> 1. every time a Terminator fails, the/some version of Skynet sends a new one, usually more advanced one.
-> 2. Every time there is a risk of SkyNet winning, the Resistance sends a human or a "good" Terminator to prevent it.
-> 3. Number 1 triggers Number 2 and vice versa, in a never ending cycle.
-> 4. We know for a fact that new timeline Terminators run into old timeline Terminators.
-> 5. We know for a fact that past-stranded parts of destroyed Terminators are used speed up the work of Cyberdyne, and improve the future Terminators, as well as Skynet itself?  
-
-> Therefore, the only logical outcome is that the moment Sarah Connor is endangered by the original Terminator there should be an instant flood of an infinite (or just absurdly large) number of more and more advanced Terminators and Anti-Terminators, resulting in a very crude and messy form of Singularity. The moment the original T800 aims its gun on Sarah for the first time, the War is basically moot, because the recursive nature of Terminatorisms would completely drown the world in time-travellers.
 > 
+> **Why is the pre-war reality not absolutely littered with Terminators, and anti-Terminator fighters?** From what we see:  
+> 
+> 1. every time a Terminator fails, the/some version of Skynet sends a new one, usually more advanced one.
+> 
+> 2. Every time there is a risk of SkyNet winning, the Resistance sends a human or a "good" Terminator to prevent it.
+> 
+> 3. Number 1 triggers Number 2 and vice versa, in a never ending cycle.
+> 
+> 4. We know for a fact that new timeline Terminators run into old timeline Terminators.
+> 
+> 5. We know for a fact that past-stranded parts of destroyed Terminators are used speed up the work of Cyberdyne, and improve the future Terminators, as well as Skynet itself?  
+> 
+> Therefore, the only logical outcome is that the moment Sarah Connor is endangered by the original Terminator there should be an instant flood of an infinite (or just absurdly large) number of more and more advanced Terminators and Anti-Terminators, resulting in a very crude and messy form of Singularity. The moment the original T800 aims its gun on Sarah for the first time, the War is basically moot, because the recursive nature of Terminatorisms would completely drown the world in time-travellers.
 
->> **u/None** [+4] *
+>> **u/None** [+5]  (19 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Freevoulous** [+4] *
+>>> **u/Freevoulous** [+4]  (19 hours later)
 >>> 
 >>> I read it not a long time ago, but I do not think it answers this particular question. Terminatorism does increase in it, but only maybe by 1-2 orders of magnitude, not to full capacity.
->>> 
 
-> **u/2Glaider** [+3] *
+> **u/2Glaider** [+3]  (11 hours later)
 > 
 > > However, Kyle Reese travels back in time with the foreknowledge that he is John Connor's father BEFORE he had traveled back in time. 
-> Is he?
 > 
+> Is he?
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (19 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/CrystalValues** [+2] *
+>>> **u/CrystalValues** [+2]  (a day later)
 >>> 
 >>> Really? My bad then. I thought I remembered him telling Sarah. It's been several years since I saw the original, and several months since I read Branches on the Tree of Time, so I probably got confused.
->>> 
 
->>>> **u/Pirellan** [+1] *
+>>>> **u/Pirellan** [+1]  (5 days later)
 >>>> 
 >>>> I like the rollover theory where it isn't actual time travel but alternate universes where the change is so infinitely small it looks like time travel.  Kyle Reese wasn't the father of the original John Connor because Kyle became an extra-dimensional traveller and knocked up the target of his protection detail and spawned the legend of John Connor Leader of the Resistance, which continued to spill over to more dimensions as that one got to the point of "time travel"
->>>> 
 
-> **u/vimefer** [+2] *
+> **u/vimefer** [+2]  (4 days later)
 > 
 > >explanation of time travel doesn't fit the events
-> Frankly this statement verifies in 100% of fictional accounts of time travel.
 > 
+> Frankly this statement verifies in 100% of fictional accounts of time travel.
 
 ---
 

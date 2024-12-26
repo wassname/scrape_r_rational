@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/mgzrl7/wip_wise_blood_part_nine_the_hunt_for_the/
-* Score: 4
+* Score: 5
 
 * Created: 2021-03-31T06:24:09
 

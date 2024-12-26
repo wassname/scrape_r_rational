@@ -12,26 +12,23 @@
 
 ### Comments:
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (24 minutes later)
 > 
 > try googling "worth the candle wiki"
-> https://worththecandle.fandom.com/wiki/Worth_the_Candle_Wiki
 > 
+> https://worththecandle.fandom.com/wiki/Worth_the_Candle_Wiki
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (33 minutes later)
 >> 
 >> There's also a ~40K word worldbuilding document, [available here](https://archiveofourown.org/works/20629112), which a fair bit of information from the wiki is directly copied from.
->> 
 
->> **u/baniel105** [+1] *
+>> **u/baniel105** [+1]  (55 minutes later)
 >> 
 >> Thought I'd done that, must have been a brainfart. Thanks!
->> 
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (34 minutes later)
 > 
 > As you've gotten your answer, I'll be removing this post, which is general policy for /r/tipofmytongue threads or questions with simple, concrete answers. If you have further questions or want clarifications, [there's a Discord](https://discord.gg/8MdWg2r).
-> 
 
 ---
 

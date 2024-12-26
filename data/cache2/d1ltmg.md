@@ -12,66 +12,61 @@
 
 ### Comments:
 
-> **u/Frommerman** [+23] *
+> **u/Frommerman** [+22]  (10 hours later)
 > 
 > The Role of the Adjutant is service to a Lord. If service to their lord requires a hand, the Adjutant will have one.
-> 
 
-> **u/NZPIEFACE** [+16] *
+> **u/NZPIEFACE** [+14]  (10 hours later)
 > 
 > > It appears the Empress had judged the Liesse Accords to be an existential threat to herself and her continued reign.
-> A means to an end has become the end itself.
 > 
+> A means to an end has become the end itself.
 
-> **u/Academic_Jellyfish** [+10] *
+> **u/Academic_Jellyfish** [+11]  (29 minutes later)
 > 
 > Now I'm just sad, for what will happen to Scribe.
-> 
 
->> **u/NZPIEFACE** [+6] *
+>> **u/NZPIEFACE** [+6]  (10 hours later)
 >> 
 >> Cat *really* doesn't like being used as a tool for other people.
->> 
 
->>> **u/panchoadrenalina** [+2] *
+>>> **u/panchoadrenalina** [+2]  (a day later)
 >>> 
 >>> but his scheme serves Cat's objectives. 
->>> she needed that amadeus wanted to become the dread emperor and now scribe baited malicia in a way that forced amadeus's hand.
->>> i think that cat will ask hakram to clean her up  give her a head rub and call her a good girl. now cat needs to keep the conspiracy under wraps
 >>> 
+>>> she needed that amadeus wanted to become the dread emperor and now scribe baited malicia in a way that forced amadeus's hand.
+>>> 
+>>> i think that cat will ask hakram to clean her up  give her a head rub and call her a good girl. now cat needs to keep the conspiracy under wraps
 
->>>> **u/NZPIEFACE** [+2] *
+>>>> **u/NZPIEFACE** [+2]  (a day later)
 >>>> 
 >>>> > i think that cat will ask hakram to clean her up give her a head rub and call her a good girl. now cat needs to keep the conspiracy under wraps
->>>> She's not nice like that. She's never been nice like that, sadly.
 >>>> 
+>>>> She's not nice like that. She's never been nice like that, sadly.
 
-> **u/Rheklr** [+9] *
+> **u/Rheklr** [+8]  (3 hours later)
 > 
 > The things we do for love.
-> 
 
-> **u/Rice_22** [+2] *
+> **u/Rice_22** [+2]  (20 hours later)
 > 
 > Black is lucky to have so many people who love him.
-> 
 
->> **u/vimefer** [+4] *
+>> **u/vimefer** [+4]  (a day later)
 >> 
 >> His fierce loyalty and his (rationality-sourced) fairness probably did more than luck here.
->> 
 
->>> **u/Rice_22** [+6] *
+>>> **u/Rice_22** [+6]  (a day later)
 >>> 
 >>> Malicia loves him in her way and is devastated with rumours of his death, Ranger loved him and would support regicide (against Malicia) if he wanted, Scribe will sacrifice herself just to see him achieve his "full potential". Only Black can calm Sabah in monster form, although that's more devotion and not romantic love.
->>> Even Catherine treats him like her father figure, and dropped pretty much everything to save him.
 >>> 
+>>> Even Catherine treats him like her father figure, and dropped pretty much everything to save him.
 
->>>> **u/PotentiallySarcastic** [+3] *
+>>>> **u/PotentiallySarcastic** [+3]  (a day later)
 >>>> 
 >>>> Black is the good old farmboy who took up their father's sword to throw down the evil emperor and rescue his friend.
->>>> Except he is as brutal and evil as anyone, the sword is his mother's instead of his father's, the evil emperor is who is usually in charge and is the expected leader of the nation, and his friend is equally conniving and ends up the Evil Empress.
 >>>> 
+>>>> Except he is as brutal and evil as anyone, the sword is his mother's instead of his father's, the evil emperor is who is usually in charge and is the expected leader of the nation, and his friend is equally conniving and ends up the Evil Empress.
 
 ---
 

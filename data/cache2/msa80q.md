@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ThirdMover** [+1] *
+> **u/ThirdMover** [+1]  (2 days later)
 > 
 > Ok, that is something very weird. Was that foreshadowed in any way? Could be easily that I just missed it because there is so much stuff going on here.
-> 
 
 ---
 

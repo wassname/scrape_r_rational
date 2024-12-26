@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/MMK_II** [+2] *
+> **u/MMK_II** [+2]  (39 minutes later)
 > 
 > Perhaps post this in the discussion thread?
-> 
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (2 hours later)
 >> 
 >> Will delete this and move it.
->> 
 
 ---
 

@@ -82,72 +82,67 @@ What do you think the society should look like?
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (17 hours later)
 > 
 > If you want to think about how the aliens' civilization might work, it could be worth it to look at EY's April's Fools post.
-> 
 
->> **u/richardwhereat** [+1] *
+>> **u/richardwhereat** [+1]  (18 hours later)
 >> 
 >> Cheers
->> 
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (11 hours later)
 > 
 > First of all, why do we need humans to be the actors?
-> Second, how is this a fanfic?  Sounds like an original to me.
-> Third, you've posted the entire story -- why not just have written it instead?  It will depend on the surprise ending for its punch, and you've ruined that, at least as far as the readers on this subreddit are concerned.  You should change your title to include a [SPOILERS] tag.
 > 
+> Second, how is this a fanfic?  Sounds like an original to me.
+> 
+> Third, you've posted the entire story -- why not just have written it instead?  It will depend on the surprise ending for its punch, and you've ruined that, at least as far as the readers on this subreddit are concerned.  You should change your title to include a [SPOILERS] tag.
 
->> **u/richardwhereat** [+1] *
+>> **u/richardwhereat** [+1]  (17 hours later)
 >> 
 >> 1. Because we can't employ aliens to do it, CGI tends to bankrupt the studio doing the CGI, and we need humans to be able to relate.
->> 2. Because it spins off the HPMOR extinction event, with the hidden backstory being explicitly an all out wizarding war between HJPEV and Quirrell.
->> 3. Yeah, but lots of people write down stuff all the time, and by the time I'm done writing backstory, character profiles and relationships, maps, civilisation profiles, and then write the script, you, and everyone else I've shown this to will have forgotten. I wanted to see reactions to the base plot, the ending, and to see if anyone had any ideas for the civilisation.
 >> 
+>> 2. Because it spins off the HPMOR extinction event, with the hidden backstory being explicitly an all out wizarding war between HJPEV and Quirrell.
+>> 
+>> 3. Yeah, but lots of people write down stuff all the time, and by the time I'm done writing backstory, character profiles and relationships, maps, civilisation profiles, and then write the script, you, and everyone else I've shown this to will have forgotten. I wanted to see reactions to the base plot, the ending, and to see if anyone had any ideas for the civilisation.
 
->>> **u/MrSink** [+2] *
+>>> **u/MrSink** [+2]  (17 hours later)
 >>> 
 >>> > Because it spins off the HPMOR extinction event, with the hidden backstory being explicitly an all out wizarding war between HJPEV and Quirrell.
->>> Honestly, I think your story would work much better without throwing in HPMOR
 >>> 
+>>> Honestly, I think your story would work much better without throwing in HPMOR
 
->>>> **u/richardwhereat** [+0] *
+>>>> **u/richardwhereat** [+0]  (18 hours later)
 >>>> 
 >>>> It won't be mentioned. There's quite a lot that won't be mentioned. But that's part of the backstory.
->>>> 
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (19 hours later)
 >>>>> 
 >>>>> > It won't be mentioned. There's quite a lot that won't be mentioned. But that's part of the backstory.
->>>>> If it won't be mentioned, why use it?  There are plenty of reasons that humanity could have wiped themselves out.  Or will HPMOR have any visible effect on the story?
 >>>>> 
+>>>>> If it won't be mentioned, why use it?  There are plenty of reasons that humanity could have wiped themselves out.  Or will HPMOR have any visible effect on the story?
 
->>>>>> **u/richardwhereat** [+0] *
+>>>>>> **u/richardwhereat** [+0]  (19 hours later)
 >>>>>> 
 >>>>>> Because that's one of the the origins of the idea, and I like it enough to use it.
->>>>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> It doesn't need to be a movie. It could be text, a comic, a cartoon...
->>> 
 
->>>> **u/richardwhereat** [+1] *
+>>>> **u/richardwhereat** [+1]  (a day later)
 >>>> 
 >>>> It could work very well as a graphic novel.
->>>> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (19 hours later)
 >>> 
 >>> Wait, you're actually making a movie of this?  Like, it's really going to be shown on a screen?  You did say 'movie' right in the title but for some reason I (and apparently others) were thinking it would be a written work.
->>> Well, I wish you all the success with it.  Link it here when you're done.
 >>> 
+>>> Well, I wish you all the success with it.  Link it here when you're done.
 
->>>> **u/richardwhereat** [+1] *
+>>>> **u/richardwhereat** [+1]  (19 hours later)
 >>>> 
 >>>> I'm not a multimillionaire, so I can't greenlight it from my own ideas. I'm going to write a script, provide all the rest of the information, and hope that a movie gets made.
->>>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/lgve83/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 6
+* Score: 5
 
 * Created: 2021-02-10T15:00:15
 
@@ -24,10 +24,9 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/DAL59** [+1] *
+> **u/DAL59** [+1]  (a day later)
 > 
 > Most stories about simulated realities have the simulation being done on some kind of supercomputer and/or the people's own dreams.  A much more interesting story would be people being emulated on a non computer substrate- for example, https://www.orionsarm.com/eg-article/470007b39d192 (one of the most underrated stories I've read).  Imagine one day, everyone starts having their thoughts jumbled and objects malfunction or disappear from reality, because a ship's engines blowed some plants around.
-> 
 
 ---
 

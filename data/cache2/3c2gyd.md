@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: http://www.anarchyishyperbole.com/2015/07/significant-digits-chapter-twelve.html
-* Score: 13
+* Score: 16
 
 * Created: 2015-07-04T03:38:06
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+2]  *Significant Digits**
+> **u/mrphaethon** [+2]  *Significant Digits* (14 seconds later)
 > 
 > /r/HPMOR comment thread:  https://www.reddit.com/r/HPMOR/comments/3c2gy5/significant_digits_chapter_twelve_opposition_end/
-> 
 
 ---
 

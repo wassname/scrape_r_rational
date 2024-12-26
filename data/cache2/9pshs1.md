@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+8] *
+> **u/eaglejarl** [+7]  (7 hours later)
 > 
 > Glad to see this is back. I binged the first sixty chapters and was left wanting more.
-> I like the clearly visible skill differences and attitudes of the experienced people versus the newbies. And it looks like Theo has not been going into the dungeon after all.
 > 
+> I like the clearly visible skill differences and attitudes of the experienced people versus the newbies. And it looks like Theo has not been going into the dungeon after all.
 
->> **u/ArgusTheCat** [+7] *
+>> **u/ArgusTheCat** [+6]  (15 hours later)
 >> 
 >> Yeah, fifty chapters ago, I made a joke to someone I know that the dark secret is that Theo just plays rugby, and there's nothing suspicious going on.  Ever since then, I've been waiting to deploy that in the story.
->> 
 
 ---
 

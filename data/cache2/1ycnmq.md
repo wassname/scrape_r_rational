@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (4 hours later)
 > 
 > And that's why you make backups. (Also, there's no reason to take meatbags to the stars when you can just send a mindstate and a small assembler). Good story though!
-> 
 
 ---
 

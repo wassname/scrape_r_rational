@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/5ktjoj/biweekly_challenge_the_heist/
-* Score: 16
+* Score: 15
 
 * Created: 2016-12-28T23:56:55
 
@@ -50,13 +50,15 @@ Next time, the challenge will be [**Megastructures**](https://en.wikipedia.org/w
 
 ### Comments:
 
-> **u/ZeroNihilist** [+8] *
+> **u/ZeroNihilist** [+8]  (11 days later)
 > 
 > [With a Little Luck](https://docs.google.com/document/d/1-nbEUnv7ZlL0CclZIJx4EsRfYewvk4DmW9F_OhVKtjQ/edit?usp=sharing) (9,542 words).
-> It's a solo heist in a D&D-inspired fantasy world.
-> I'm not terribly happy with this one. I think it could be written in half as many words, maybe fewer. However, since it's already taken far too long I'm just going to submit it as is.
-> It was also written over the duration of the challenge so far (i.e. 11 days), so the beginning may be wildly different in character to the ending. I may go back and edit it, but in all honesty I don't know if the story is worth it. The setting, on the other hand, I may toy around with.
 > 
+> It's a solo heist in a D&D-inspired fantasy world.
+> 
+> I'm not terribly happy with this one. I think it could be written in half as many words, maybe fewer. However, since it's already taken far too long I'm just going to submit it as is.
+> 
+> It was also written over the duration of the challenge so far (i.e. 11 days), so the beginning may be wildly different in character to the ending. I may go back and edit it, but in all honesty I don't know if the story is worth it. The setting, on the other hand, I may toy around with.
 
 ---
 

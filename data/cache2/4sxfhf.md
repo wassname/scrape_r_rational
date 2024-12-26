@@ -20,31 +20,27 @@ http://www.alethicorp.com/
 
 ### Comments:
 
-> **u/TeslaWasRobbed** [+13] *
+> **u/TeslaWasRobbed** [+13]  (3 hours later)
 > 
 > I couldn't bring myself to complete even the first "assignment". The interview form and the "Haka Training" absolutely killed my soul. Having sat through too many LEAN, AGILE, Six Sigma and SCRUM presentations and meetings, this hits a little too close to home
-> 
 
->> **u/JulianWyvern** [+9]  *Wayward Wanderer**
+>> **u/JulianWyvern** [+10]  *Wayward Wanderer* (12 hours later)
 >> 
 >> *flagged for Suspicious Information*
->> 
 
->>> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+6]  *My arch-enemy is entropy* (16 hours later)
 >>> 
 >>> *flagged for Suspicious Flagging*
->>> 
 
->>>> **u/abcd_z** [+2] *
+>>>> **u/abcd_z** [+2]  (a day later)
 >>>> 
 >>>> I see somebody's played [Paranoia.](http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Paranoia) ;)
->>>> 
 
-> **u/MindsEyePsi** [+10]  *PERSEVERANCE**
+> **u/MindsEyePsi** [+10]  *PERSEVERANCE* (14 hours later)
 > 
 > It's like all the worst parts of an intelligence agency turned to 11 and thrown in a blender. It's an excellent parody, but anyone who worked in a "progressive" government office will be horrified by how well it mimics the idiocy and incompetence inherent to them.
-> All in all a good job, if a bit ham handed.
 > 
+> All in all a good job, if a bit ham handed.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Nighzmarquls *
 * URL: https://www.reddit.com/r/rational/comments/8dtnow/rthsfhfthonward_to_providence_episode_iv_camping/
-* Score: 10
+* Score: 9
 
 * Created: 2018-04-21T04:48:35
 

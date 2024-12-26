@@ -2,7 +2,7 @@
 
 * Author: u/want_to_want *
 * URL: https://www.reddit.com/r/rational/comments/3ofgz7/lookahead_a_twist_on_groundhog_day/
-* Score: 27
+* Score: 26
 
 * Created: 2015-10-12T08:23:39
 
@@ -36,165 +36,156 @@ If this setup is actually new, then please go ahead and use it! I'm not a writer
 
 ### Comments:
 
-> **u/diraniola** [+21] *
+> **u/diraniola** [+19]  (an hour later)
 > 
 > I think the answer here is to minimize sleep. If you can function 32 hours without sleep you just effectively doubled your loop time. If the problems caused by sleep deprivation are primarily physical or chemical, rather than psychological, you should be able to brute force a cure for the sleep addiction inflicted on humanity. The best answer we have on why we sleep is "because we get sleepy," and that is unacceptable when you have a superpower limited purely by sleep.
-> 
 
->> **u/TimTravel** [+3] *
+>> **u/TimTravel** [+4]  (6 hours later)
 >> 
 >> I've always resented the need for sleep.
->> 
 
->>> **u/awesomeideas** [+3]  *Dai stiho, cousin.**
+>>> **u/awesomeideas** [+3]  *Dai stiho, cousin.* (19 hours later)
 >>> 
 >>> I read a short story called Beggars in Spain that I remember liking when I was younger. It's about genetically engineered people who don't need sleep, and follows one of the first as she grows up. It was adapted into a novel, which I haven't read.
->>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (3 days later)
 >>> 
 >>> I love sleep. It's like a fast-forward button.
->>> 
 
->>>> **u/TimTravel** [+1] *
+>>>> **u/TimTravel** [+1]  (3 days later)
 >>>> 
 >>>> A mandatory fast-forward button for a third of your existence.
->>>> 
 
->> **u/ZeroNihilist** [+4] *
+>> **u/ZeroNihilist** [+4]  (7 hours later)
 >> 
 >> I think you'd want to sleep somewhat regularly anyway, at the very least whenever you accomplish something difficult to replicate.
+>> 
 >> It's much like a video game save with a single slot; too incautious and you risk saving at the wrong time (e.g. just before somebody murders you, just after the NSA discovers your ability), too infrequent and you risk losing significant progress to your death.
+>> 
 >> So I think limiting abuse of your talent to events you can verify succeeded within a single sleep cycle is probably safest. Execute your plan, verify success, save.
+>> 
 >> You could potentially also take a little risk there and do two attempts.
+>> 
 >> 1. Execute plan, verify success, reset.
 >> 2. Execute plan the same, assume it will succeed, save.
->> This would greatly increase the potential frequency of your missions at the cost of a little risk of divergent outcomes (since "perfectly replicate my previous actions" is not one of your superpowers).
 >> 
+>> This would greatly increase the potential frequency of your missions at the cost of a little risk of divergent outcomes (since "perfectly replicate my previous actions" is not one of your superpowers).
 
->> **u/Ozimandius** [+2] *
+>> **u/Ozimandius** [+2]  (3 hours later)
 >> 
 >> This is a very clever idea.  And you could certainly get a really great night's sleep before starting on the sleep problem, and use whatever drugs you want to keep you awake because you don't much care about side effects.
->> 
 
->>> **u/want_to_want** [+2] *
+>>> **u/want_to_want** [+2]  (4 hours later)
 >>> 
 >>> Unless the side effects are psychological...
->>> 
 
->>>> **u/drageuth2** [+4] *
+>>>> **u/drageuth2** [+5]  (17 hours later)
 >>>> 
 >>>> Best drug I can think of would be [modafinil](https://en.wikipedia.org/wiki/Modafinil) which has been known to keep people from needing sleep for a _week_ without any noticeable effect.  Its side effects are mild and relatively rare, mostly consisting of headaches and mild stomach upset in a minority of users.
->>>> I can't remember where I read it, but I think the military's started using it instead of amphetamines for their helicopter pilots and other people who need to be awake and active for long periods of time. 
->>>> It has a _huge_ LD50 and there are no known cases of it as the primary cause of an overdose death.  Not that it'd matter for our super-groundhog here, in any case.
->>>> Far from having adverse psychological effects, modafinil appears to be a _mild nootropic and memory enhancer_
 >>>> 
+>>>> I can't remember where I read it, but I think the military's started using it instead of amphetamines for their helicopter pilots and other people who need to be awake and active for long periods of time. 
+>>>> 
+>>>> It has a _huge_ LD50 and there are no known cases of it as the primary cause of an overdose death.  Not that it'd matter for our super-groundhog here, in any case.
+>>>> 
+>>>> Far from having adverse psychological effects, modafinil appears to be a _mild nootropic and memory enhancer_
 
->> **u/gabbalis** [+1] *
+>> **u/gabbalis** [+1]  (11 hours later)
 >> 
 >> Speaking of which, what counts as sleep? Do you have to enter REM, or will microsleep reset it?
->> Cause if its the latter you'd better be well rested before trying anything you'll want to undo, and staying up late to extend the loop would be a bad idea.
 >> 
+>> Cause if its the latter you'd better be well rested before trying anything you'll want to undo, and staying up late to extend the loop would be a bad idea.
 
-> **u/MugaSofer** [+7] *
+> **u/MugaSofer** [+7]  (54 minutes later)
 > 
 > >You also have a strong incentive to figure out a way to stop the looping, because otherwise your old age will be nightmarish.
-> I'm pretty sure the win condition here is to arrange to bring back some Science (tm) from the future, and then live for decades looping in your prime until aging is cured. Shouldn't take all that long in realtime to prove yourself and get established, right?
-> The only tricky bit is that it's hard to do much experimentation in a day. I'd read that story.
 > 
+> I'm pretty sure the win condition here is to arrange to bring back some Science (tm) from the future, and then live for decades looping in your prime until aging is cured. Shouldn't take all that long in realtime to prove yourself and get established, right?
+> 
+> The only tricky bit is that it's hard to do much experimentation in a day. I'd read that story.
 
->> **u/want_to_want** [+8] *
+>> **u/want_to_want** [+7]  (2 hours later)
 >> 
 >> Groundhog day or no, you can't make a big scientific advance single-handedly. You'll go crazy first.
->> Most people who consider experimentation a superpower haven't actually tried it. Forget about aging, take something simpler: how do you stop rubber from becoming sticky when it's warm? That took one guy ten years of work.
 >> 
+>> Most people who consider experimentation a superpower haven't actually tried it. Forget about aging, take something simpler: how do you stop rubber from becoming sticky when it's warm? That took one guy ten years of work.
 
->>> **u/MugaSofer** [+13] *
+>>> **u/MugaSofer** [+13]  (2 hours later)
 >>> 
 >>> I'm picturing a setup where the scientific community can register experiments - "today I'll try high-temp rubber formulae 127-217" - and then have their success or failure conducted back in time.
->>> You could only do experiments contrived to last one day; and it might take a few loops to get a handle on the encoding (most experiments can make do with a single bit, if pressed, but I have a rubbish memory.) I suspect the most valuable info might be chip designs? Or maybe a way to encode data directly into some neurons, in a way that carries over.
->>> Yes, it would take a subjectively long time, but I can live comfortably and I think I could live with hanging out in this period for a while. Besides, *I* can always work on brute-forcing human behaviour or something if I get bored of being rich.
 >>> 
+>>> You could only do experiments contrived to last one day; and it might take a few loops to get a handle on the encoding (most experiments can make do with a single bit, if pressed, but I have a rubbish memory.) I suspect the most valuable info might be chip designs? Or maybe a way to encode data directly into some neurons, in a way that carries over.
+>>> 
+>>> Yes, it would take a subjectively long time, but I can live comfortably and I think I could live with hanging out in this period for a while. Besides, *I* can always work on brute-forcing human behaviour or something if I get bored of being rich.
 
->>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (8 hours later)
 >>>> 
 >>>> Basically, you offer your services as a one day Oracle? Once you can prove it (which may take a few Days) you won't have to limit yourself to your resources. You'll spend your day doing whatever you want, then memorize the results your clients ask you to at the end of the day and top yourself.
->>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (4 hours later)
 >>>> 
 >>>> Or just spend a while learning memory tricks, like those guys that can recite the order of a shuffled deck of cards back to you after seeing it once. It's probably difficult, especially if you don't have a natural aptitude for it, but, well, practice makes perfect.
->>>> 
 
->>>> **u/want_to_want** [+2] *
+>>>> **u/want_to_want** [+2]  (4 hours later)
 >>>> 
 >>>> Ah, I see. I misunderstood. It's true that the whole scientific community can do much better with the help of one time-looping person. When memory starts running out, you'd do periodic "savegames" by going to sleep. Indeed, I can't think of anything much better to do with that power.
->>>> 
 
->> **u/Salivanth** [+4] *
+>> **u/Salivanth** [+4]  (2 hours later)
 >> 
 >> How would you do this? I'm confused as to how this would work.
->> If it requires clarification; every time you die, you go back to when you last woke up. That means you can't set up a 20-year loop or anything.
 >> 
+>> If it requires clarification; every time you die, you go back to when you last woke up. That means you can't set up a 20-year loop or anything.
 
-> **u/diraniola** [+8] *
+> **u/diraniola** [+6]  (11 hours later)
 > 
 > The worst case scenario is that somebody does something that kills you while you are asleep, but you don't die before waking up. Say you get stabbed in the gut and disemboweled. You will wake up from the pain, and die very soon. When you die, you loop back a few minutes to agonizing pain, dying again and again unless you can figure out a way to survive such a wound.
-> 
 
->> **u/want_to_want** [+4] *
+>> **u/want_to_want** [+4]  (12 hours later)
 >> 
 >> Ouch. That's pretty much a Gray Boy loop, only with even less chance of getting saved. Also similar to Pentadact's [alternate ending of Bioshock](http://www.pentadact.com/2009-04-15-ending-bioshock/).
->> 
 
-> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram* (4 hours later)
 > 
 > [Divergences](https://forums.sufficientvelocity.com/threads/worm-au-divergences.5165/) a Worm fanfic has exactly this power.
-> Also a killer internet meme twist.
 > 
+> Also a killer internet meme twist.
 
->> **u/literal-hitler** [+4] *
+>> **u/literal-hitler** [+5]  (19 hours later)
 >> 
 >> >Contessa had proceeded to beat me half do death, silently and steadily, never giving me a chance to fight back. Then some random accountant had shown up to help her.
->> It's been two minutes and I can't stop laughing.
 >> 
+>> It's been two minutes and I can't stop laughing.
 
->> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>> **u/Transfuturist** [+2]  *Carthago delenda est.* (7 hours later)
 >> 
 >> Those hella internet maymays.
->> 
 
->> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (15 hours later)
 >> 
 >> This was quite entertaining as a powerset! Too bad it seems to end abruptly, since... [spoiler](#s "I'd be interested to see what he can do during the Golden Morning.")
->> 
 
-> **u/OrzBrain** [+4]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+> **u/OrzBrain** [+4]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (20 hours later)
 > 
 > Um, this power breaks financial markets into rubble. And resources exploration (if you can stay awake for a week at a time). And precious items mining. 
-> So, acquire as many resources as possible, hire your own army, research immortality.
 > 
+> So, acquire as many resources as possible, hire your own army, research immortality.
 
-> **u/Ozimandius** [+5] *
+> **u/Ozimandius** [+3]  (3 hours later)
 > 
 > You can very easily change the world a huge amount on your own, as long as you have access to resources.  For example, if you can find a way to access a supercomputer, you can run different scenarios that boil down to simple answers.  Used efficiently, you can easily solve some really difficult problems and usher in scientific advances much more quickly, and it wouldn't take decades of your personal time, you could do most of whatever you want all day and just memorize a few boiled down notes and numbers at the end of the day before offing yourself.
-> 
 
-> **u/hyenagrins** [-1] *
+> **u/hyenagrins** [-1]  (14 hours later)
 > 
 > Wake up (make a safe save), read a new book. Then put yourself in a Schrodinger's box (the one that contains the cat) - and bury the box somewhere so that no one ever opens it (make a measure on your alive/dead state). 
-> Quantum-mechanically, you are both alive and dead. Now the interesting question is what you would remember when your woke up from your checkpoint... a superposition of having read the book and not?
 > 
+> Quantum-mechanically, you are both alive and dead. Now the interesting question is what you would remember when your woke up from your checkpoint... a superposition of having read the book and not?
 
->> **u/eltegid** [+1] *
+>> **u/eltegid** [+1]  (a day later)
 >> 
 >> I'm not sure that can be set up. You do observe yourself wether the event that kills you has happened or not.
->> 
 
->>> **u/Gurkenglas** [+0] *
+>>> **u/Gurkenglas** [+0]  (a day later)
 >>> 
 >>> According to many-worlds, to someone outside the box, it doesn't matter whether there is a human in the box or a cat. But we don't have to set up boxes to ask what another person observes when you die. Of course, he sees his power failing or ceases to observe, depending on our anthropic weighting of the timey-wimey ball.
->>> 
 
 ---
 

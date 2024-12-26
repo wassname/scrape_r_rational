@@ -12,26 +12,29 @@
 
 ### Comments:
 
-> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (an hour later)
 > 
 > Popped over to AO3 to check out your story for the first time and noticed a typo in your summary: 
-> "In 1944, **an** American deserter named Red falls"
 > 
+> "In 1944, **an** American deserter named Red falls"
 
->> **u/AngelaCastir** [+1] *
+>> **u/AngelaCastir** [+1]  (an hour later)
 >> 
 >> Thanks so much for the catch! 
->> That's embarrassing! I am unfortunately not going to be able to fix it for a few days. I am about to fly to Prague, but this time I have a passport!!!
 >> 
+>> That's embarrassing! I am unfortunately not going to be able to fix it for a few days. I am about to fly to Prague, but this time I have a passport!!!
 
-> **u/AngelaCastir** [+1] *
+> **u/AngelaCastir** [+1]  (5 minutes later)
 > 
 > So, this chapter goes into some vampire mythology, asking some questions and answering them in terms of what's possible. There's a few hints at the larger universe that real eagle-eyed people can pick up. 
-> Speaking of pick up, we're beginning to finally ramp up into the main action of the novel. Next chapter is going to be a lot of fun!
-> Back to this one (jumping around a bit! I had a bit of a day. Forgot my passport and missed my flight, fun fun fun fun). We show Red's anxiety as he begins to realise how little he knows about vampire lore and all the dangers William is facing that he won't share. 
-> Also, there is a Christmas scene to finish the chapter - I figure you can't go through December in this time and place without mentioning it, and plus, it's romantic. The title was a happy accident. I'm using a flower dictionary to title the chapters according to the theme, and it just so happens that Christmas Rose means "relieve my anxiety". 
-> The next chapter is called " Rhododendron ", which according to florists means "passion" or some bull like that, but the vintage flower dictionary I'm using as my source has it listed as "Danger. Beware".
 > 
+> Speaking of pick up, we're beginning to finally ramp up into the main action of the novel. Next chapter is going to be a lot of fun!
+> 
+> Back to this one (jumping around a bit! I had a bit of a day. Forgot my passport and missed my flight, fun fun fun fun). We show Red's anxiety as he begins to realise how little he knows about vampire lore and all the dangers William is facing that he won't share. 
+> 
+> Also, there is a Christmas scene to finish the chapter - I figure you can't go through December in this time and place without mentioning it, and plus, it's romantic. The title was a happy accident. I'm using a flower dictionary to title the chapters according to the theme, and it just so happens that Christmas Rose means "relieve my anxiety". 
+> 
+> The next chapter is called " Rhododendron ", which according to florists means "passion" or some bull like that, but the vintage flower dictionary I'm using as my source has it listed as "Danger. Beware".
 
 ---
 

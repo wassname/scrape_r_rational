@@ -2,7 +2,7 @@
 
 * Author: u/raymestalez *
 * URL: https://www.audible.com/pd/Science-Technology/Homo-Deus-Audiobook/B01N4DCBK6
-* Score: 17
+* Score: 18
 
 * Created: 2017-11-25T06:56:22
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/BakeshopNewb** [+3] *
+> **u/BakeshopNewb** [+3]  (11 hours later)
 > 
 > Robin Hanson's [review](http://www.overcomingbias.com/2017/02/on-homo-deus.html)
-> 
 
 ---
 

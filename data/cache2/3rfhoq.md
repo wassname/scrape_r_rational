@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.reddit.com/r/changestorms/comments/3rfhj2/chpr_induction_chapter_11/
-* Score: 6
+* Score: 7
 
 * Created: 2015-11-04T00:56:00
 

@@ -2,7 +2,7 @@
 
 * Author: u/DocFuture *
 * URL: http://docfuture.tumblr.com/post/142227622296/the-makers-ark-chapter-22
-* Score: 11
+* Score: 13
 
 * Created: 2016-04-04T16:19:47
 
@@ -12,48 +12,49 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (15 hours later)
 > 
 > The "how not to get killed by the monster" video was great. Especially "if it looks like you want to have sex with it, you don't" and "broke rule 7". 
-> For something as high-quality as this series has been, you get a lot less love around here than I think you should. The Black Swan arc is not really to my tastes, but it's well written enough to enjoy anyway. The rest of it is excellent.
 > 
+> For something as high-quality as this series has been, you get a lot less love around here than I think you should. The Black Swan arc is not really to my tastes, but it's well written enough to enjoy anyway. The rest of it is excellent.
 
->> **u/DocFuture** [+2] *
+>> **u/DocFuture** [+2]  (20 hours later)
 >> 
 >> Thank you.
->> I think the range of reactions is natural, and Fall wasn't intended just as rational fiction--it's a big, sprawling, science fiction superhero fantasy adventure mystery thriller bildungsroman romance with picaresque asides, set in an inherently messy world.  And it's not tightly focused.  People are going to like (and dislike) different parts of it, and some are going to stop reading because some particular element makes the whole thing not work for them.
->> There are people who like Black Swan and hate the romantic elements, people who like the relationships but find the physics tedious, people who have no trouble with superheros and monsters, but who find the UPPfones break their personal willing suspension of disbelief, and folks who are here for the plasma and shockwaves when Flicker cuts loose, and wish there were more of that and less of all the talking 8-).
->> And that's all fine.  I started writing for myself--everyone else was a bonus.  Even if a reader likes just 'Phone Tag', 'Zenith', and chapters 29-33 of Call, they've still gotten enjoyment from my writing.
 >> 
+>> I think the range of reactions is natural, and Fall wasn't intended just as rational fiction--it's a big, sprawling, science fiction superhero fantasy adventure mystery thriller bildungsroman romance with picaresque asides, set in an inherently messy world.  And it's not tightly focused.  People are going to like (and dislike) different parts of it, and some are going to stop reading because some particular element makes the whole thing not work for them.
+>> 
+>> There are people who like Black Swan and hate the romantic elements, people who like the relationships but find the physics tedious, people who have no trouble with superheros and monsters, but who find the UPPfones break their personal willing suspension of disbelief, and folks who are here for the plasma and shockwaves when Flicker cuts loose, and wish there were more of that and less of all the talking 8-).
+>> 
+>> And that's all fine.  I started writing for myself--everyone else was a bonus.  Even if a reader likes just 'Phone Tag', 'Zenith', and chapters 29-33 of Call, they've still gotten enjoyment from my writing.
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (22 hours later)
 >>> 
 >>> It's possible "superhero" isn't a thing that resonates with this sub.  Of everything I've published here, Induction was consistently the least popular, and there's very little superhero fic submitted -- it's unusual that there's a Superman one on the page right now. The only other that I can think of offhand was Metropolitan Man, which was (A) a great story and (B) by alexanderwales, so it had the necessary social proof for people to give it a chance.
->>> 
 
->>>> **u/DocFuture** [+1] *
+>>>> **u/DocFuture** [+1]  (a day later)
 >>>> 
 >>>> Could be, but I am wary of generalizing.  I did get a much larger than usual traffic spike when someone linked to 'Phone Tag' is response to a question over on the Ask Science Fiction subreddit, but that's not really a place for story links.
->>>> 
 
->>> **u/nicholaslaux** [+1] *
+>>> **u/nicholaslaux** [+1]  (3 days later)
 >>> 
 >>> I'd like to chime in thanking you for posting this - I don't usually post talking about stories I'm reading unless there's some sort of discussion prompting me, but I heavily use this sub as a way to track when new stuff comes out.
->>> And from your list of elements mentioned, Black Swan and Flicker cutting loose are definitely at the top of my list, but even the stuff that's slightly less interesting to me (Stella/romance-y bits) still is written well enough and is informed by reality enough that I don't think I've ever actively *disliked* reading it, I just got more excited when the other stuff showed up again.
->>> So, thanks, again!
 >>> 
+>>> And from your list of elements mentioned, Black Swan and Flicker cutting loose are definitely at the top of my list, but even the stuff that's slightly less interesting to me (Stella/romance-y bits) still is written well enough and is informed by reality enough that I don't think I've ever actively *disliked* reading it, I just got more excited when the other stuff showed up again.
+>>> 
+>>> So, thanks, again!
 
->>>> **u/DocFuture** [+2] *
+>>>> **u/DocFuture** [+2]  (3 days later)
 >>>> 
 >>>> No problem, and thanks for the feedback--particularly on the elements you weren't as personally interested in.  I aim to keep a balance between a wide variety of scenes, both for dynamic contrast and to keep up the tension on whats coming next.
->>>> I don't think Flicker would be nearly as effective a character if I didn't show the ends of the spectrum--both quiet social struggles and tearing apart the sky over Bonneville salt flats.
 >>>> 
+>>>> I don't think Flicker would be nearly as effective a character if I didn't show the ends of the spectrum--both quiet social struggles and tearing apart the sky over Bonneville salt flats.
 
-> **u/DocFuture** [+1] *
+> **u/DocFuture** [+1]  (5 minutes later)
 > 
 > Aki is a rationalist, and the strange world he is trying to make sense of is Earth.
-> I firmly believe that any protagonist in a superhero, horror, or urban fantasy universe that employs a significant number of people should have a 'How Not to Get Killed by the Monster' workplace safety video.
 > 
+> I firmly believe that any protagonist in a superhero, horror, or urban fantasy universe that employs a significant number of people should have a 'How Not to Get Killed by the Monster' workplace safety video.
 
 ---
 

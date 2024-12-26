@@ -12,60 +12,55 @@
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+6]  (9 hours later)
 > 
 > [My attempt.](https://docs.google.com/document/d/18VkBY6gqKQQMUvQogWBF4kF35bOn6TBr3tZ4xaW2-mE/edit?usp=sharing)
-> Ah, thought that was max of 1k words, not min. nvm
 > 
+> Ah, thought that was max of 1k words, not min. nvm
 
->> **u/someonewrongonthenet** [+2] *
+>> **u/someonewrongonthenet** [+2]  (a day later)
 >> 
 >> Is it intentional or accidental that Kristoff is with Elsa instead of Ana now?
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> Well, Anna, like most of the Earth's matter, has been turned into 99.9999% warm hugs and .0001% spaceship material, so....
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (a day later)
 >>>>> 
 >>>>> There's a whole universe of atoms out there just waiting to be given a nice, warm hug.
->>>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 days later)
 >> 
 >> you win. btc address plz
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 days later)
 >>> 
 >>> Thanks, it was fun but I don't bitcoin. Give it to second place or donate it to charity.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (5 days later)
 >>>> 
 >>>> aw. 
->>>> 42214c8082ab55aac903b7373561351657a49c064735a95e5fe55277affbdaf3
->>>> hope the c4ss puts it to good use!
->>>> proof the address was theirs: http://c4ss.org/support
 >>>> 
+>>>> 42214c8082ab55aac903b7373561351657a49c064735a95e5fe55277affbdaf3
+>>>> 
+>>>> hope the c4ss puts it to good use!
+>>>> 
+>>>> proof the address was theirs: http://c4ss.org/support
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (5 days later)
 >>>>> 
 >>>>> I'm sure they won't. ;)
->>>>> And I have no idea what that string of numbers and letters is, but I believe you.
 >>>>> 
+>>>>> And I have no idea what that string of numbers and letters is, but I believe you.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (5 days later)
 >>>>>> 
 >>>>>> transaction ID. im a libertarian transhumanist, and I love HPMOR! c4ss tends to be less... right-wing? :P
->>>>>> 
 
 ---
 

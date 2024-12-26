@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2019/05/31/interlude-renunciation/
-* Score: 75
+* Score: 74
 
 * Created: 2019-05-31T04:01:29
 
@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/bubby_cat2** [+15] *
+> **u/bubby_cat2** [+13]  (2 hours later)
 > 
 > I'm very ready for a Reclamation of Theoden-style battle of magical wills, Pilgrim vs the Dead King, for control of Masego. I have faith it'd be written compellingly and not just read like something goofy
-> 
 
-> **u/ashinator92** [+9] *
+> **u/ashinator92** [+9]  (33 minutes later)
 > 
 > Iiiiitts zeze tiime!
-> 
 
-> **u/vimefer** [+2] *
+> **u/vimefer** [+2]  (8 hours later)
 > 
 > More death flags for Roland - and now we even got his last name, at the last minute.
-> 
 
-> **u/Zayits** [+2] *
+> **u/Zayits** [+2]  (23 seconds later)
 > 
 > [Vote for A Practical Guide to Evil on TopWebFiction!](http://topwebfiction.com/vote.php?for=a-practical-guide-to-evil)
-> 
 
 ---
 

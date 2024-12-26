@@ -12,130 +12,117 @@
 
 ### Comments:
 
-> **u/Auroch-** [+17]  *The Immortal Words**
+> **u/Auroch-** [+17]  *The Immortal Words* (an hour later)
 > 
 > Suffers a little from the twist being obvious from the title. Well, obvious to someone who has already thought about the weird implications from some interpretations of MWI. I guessed it around "Dropped out of a physics PhD, a philosophy PhD, *and* a journalism program." Still solid, though.
-> 
 
->> **u/sprague-grundy** [+7] *
+>> **u/sprague-grundy** [+8]  (an hour later)
 >> 
 >> Interesting.  I wasn't really expecting people to get it that early, but I guess you're right that if you've already thought about the topic then the title is kind of a dead giveaway.
->> 
 
->>> **u/Tommy2255** [+14] *
+>>> **u/Tommy2255** [+12]  (2 hours later)
 >>> 
 >>> I suspected that it was something along those lines from just the title alone. But that was partly primed by clicking a link on this subreddit. If I were expecting a mystery story, it might have slipped by. But if you start out expecting a science fiction story (or possibly a fantasy story leaning heavily on scientific or philosophical elements), then quantum immortality is one of the most obvious ways to obtain information by dying.
->>> 
 
->>> **u/PreciseParadox** [+13] *
+>>> **u/PreciseParadox** [+12]  (4 hours later)
 >>> 
 >>> For me it was the QRNG; I was like oh, this is like quantum bogosort isn’t it. Honestly, I don’t think it’s that obvious, but the title does kind of give more away than it needs to.
->>> 
 
->>> **u/noggin-scratcher** [+5]  *I am a happy tree**
+>>> **u/noggin-scratcher** [+4]  *I am a happy tree* (20 hours later)
 >>> 
 >>> At "two chairs, with heavy straps and bulky helmets" I was expecting it to switch which person's mind was in which body
->>> But by "From a certain philosphical perspective" I'd switched tracks to quantum immortality.
 >>> 
+>>> But by "From a certain philosphical perspective" I'd switched tracks to quantum immortality.
 
->>> **u/CreationBlues** [+4] *
+>>> **u/CreationBlues** [+5]  (9 hours later)
 >>> 
 >>> having thought about practical implementations of this experiment, the device design was *very* suspicious.
->>> 
 
->>> **u/aeschenkarnos** [+2] *
+>>> **u/aeschenkarnos** [+2]  (10 hours later)
 >>> 
 >>> Anyone who's familiar with the [work of Max Tegmark](https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality) already knows what the story is about, but for [those who don't](https://xkcd.com/1053/) it's a clever and well-written introduction.
->>> 
 
->>> **u/ThatEeveeGuy** [+2] *
+>>> **u/ThatEeveeGuy** [+2]  (2 days later)
 >>> 
 >>> > Dead giveaway
->>> Well there's your new title.
 >>> 
+>>> Well there's your new title.
 
->>> **u/Tenoke** [+1]  *Even the fuckin' trees walked in those movies**
+>>> **u/Tenoke** [+1]  *Even the fuckin' trees walked in those movies* (a month later)
 >>> 
 >>> I got it as well from the start (but I've written 1.5 quantum suicide stories) but it was still cool that he was also running it on a longer scale as well as the shorter one.
->>> 
 
->> **u/ZipZop_the_Manticore** [+3] *
+>> **u/ZipZop_the_Manticore** [+3]  (10 hours later)
 >> 
 >> I actually thought he was planning to colonize Diego's brain right up until just after they both woke.
->> 
 
->>> **u/Auroch-** [+1]  *The Immortal Words**
+>>> **u/Auroch-** [+1]  *The Immortal Words* (a day later)
 >>> 
 >>> Despite the "obviously new" chair?
->>> 
 
->>>> **u/ZipZop_the_Manticore** [+1] *
+>>>> **u/ZipZop_the_Manticore** [+1]  (a day later)
 >>>> 
 >>>> Old chair for the old body and new chair for the new body.
->>>> 
 
-> **u/DoubleSuccessor** [+7] *
+> **u/DoubleSuccessor** [+7]  (a day later)
 > 
 > This was a little too obviously something it *wasn't* for me to think the journalist would actually sit down in it. Rich old man, time releases, arcane looking brain-encompassing device. It has to be a mind-swapper right? So he can steal your younger body? Right?
-> 
 
->> **u/Makin-** [+3]  *homestuck ratfic, you can do it**
+>> **u/Makin-** [+3]  *homestuck ratfic, you can do it* (a day later)
 >> 
 >> You're not alone, I also thought that before the reveal.
->> 
 
-> **u/throwaway13548e** [+6] *
+> **u/throwaway13548e** [+6]  (4 hours later)
 > 
 > Awesome!
-> 
 
-> **u/walruz** [+3] *
+> **u/walruz** [+3]  (a day later)
 > 
 > What happened to Alice and B*b?
-> 
 
->> **u/erwgv3g34** [+2] *
+>> **u/erwgv3g34** [+2]  (25 days later)
 >> 
 >> https://web.archive.org/web/20210320022556/https://sprague-grundy.github.io/alice_and_bxb/
->> 
 
->> **u/sprague-grundy** [+2] *
+>> **u/sprague-grundy** [+2]  (26 days later)
 >> 
 >> Glib answer:
->> Performance art.
->> Real answer:
->> That story was a disaster :P
->> I had a handful of (I think) interesting things I wanted to write about and ended up just stepping on like three different culture war landmines instead.
->> Empirically the story was not producing the effect I wanted or expected it to in most of the people who read it.  I think it's important to be able to write about contentious topics, but I want to do it well and on purpose.
->> I think the biggest problem was that people read sentences of the form "this dystopian future works in X way" as claims of the form "the current world we live in works in X way", even when it obviously doesn't.  This was exacerbated by the story being set in the near future.  (I think it was also exacerbated by the story being short and not having much room to clarify or state things multiple different ways.)
->> I want to write a longer story that talks about the same things, but in a less ham-fisted way and in a further-future setting.  I haven't actually *done* that yet, but it's back in my big list of ideas.
 >> 
+>> Performance art.
+>> 
+>> Real answer:
+>> 
+>> That story was a disaster :P
+>> 
+>> I had a handful of (I think) interesting things I wanted to write about and ended up just stepping on like three different culture war landmines instead.
+>> 
+>> Empirically the story was not producing the effect I wanted or expected it to in most of the people who read it.  I think it's important to be able to write about contentious topics, but I want to do it well and on purpose.
+>> 
+>> I think the biggest problem was that people read sentences of the form "this dystopian future works in X way" as claims of the form "the current world we live in works in X way", even when it obviously doesn't.  This was exacerbated by the story being set in the near future.  (I think it was also exacerbated by the story being short and not having much room to clarify or state things multiple different ways.)
+>> 
+>> I want to write a longer story that talks about the same things, but in a less ham-fisted way and in a further-future setting.  I haven't actually *done* that yet, but it's back in my big list of ideas.
 
->> **u/fljared** [+1]  *United Federation of Planets**
+>> **u/fljared** [+1]  *United Federation of Planets* (23 days later)
 >> 
 >> I can't speak on the author's behalf, but the last thread had mixed reactions and I suspect the author decided to take it down either for a rewrite or just not liking the result.
->> 
 
-> **u/abecedarius** [+2] *
+> **u/abecedarius** [+2]  (14 hours later)
 > 
 > The story seems to say that the plan given at the end came from the gadget, but I don't see a mechanism -- how does it distinguish, at the time, a plan that will work?
-> 
 
->> **u/CronoDAS** [+5] *
+>> **u/CronoDAS** [+6]  (15 hours later)
 >> 
 >> It doesn't. As the character says, it only has to work once...
->> 
 
->>> **u/abecedarius** [+3] *
+>>> **u/abecedarius** [+3]  (23 hours later)
 >>> 
 >>> My initial reaction was that that's a pointless epicycle because 'success' branches will exist whether or not you have these random plans for success. But it does seem true that random vaguely-plausible plans are less likely to get your consciousness revived in a world where you wouldn't want it to be.
->>> 
 
->>>> **u/LazarusRises** [+2] *
+>>>> **u/LazarusRises** [+2]  (a day later)
 >>>> 
 >>>> I think the goal here is maximizing the chance that you get to live ~forever *due to your own actions*. Every branch has an identical chance of resulting in a given outcome, after all, including immortality--but humans are very self-centered.
->>>> There's also an argument to be made that, just by using a QRNG, he's automatically increasing the chances of living forever by inflating the probability space, since he doesn't care at all about any other outcome.
 >>>> 
+>>>> There's also an argument to be made that, just by using a QRNG, he's automatically increasing the chances of living forever by inflating the probability space, since he doesn't care at all about any other outcome.
 
 ---
 

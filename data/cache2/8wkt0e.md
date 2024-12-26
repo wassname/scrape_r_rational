@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/8wkt0e/d_friday_offtopic_thread/
-* Score: 15
+* Score: 14
 
 * Created: 2018-07-06T15:07:29
 
@@ -15,61 +15,57 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/phylogenik** [+7] *
+> **u/phylogenik** [+7]  (36 minutes later)
 > 
 > I received teaching assignments (as a going-into-my-sixth-year grad student) yesterday -- looks like next year I'll be instructing an upper div class on primate evolutionary biology, despite not really knowing anything about primates that aren't humans. My TA for the class will luckily have taken and TA'd the class before, though. In years past the class has focused on morphology/behavior but I'm thinking of revamping it a bit to play more to my strengths (e.g. popgen, theory, statistical phylogenetics, etc.) This'll be my first time teaching during the school year, too (I'll have taught a few times but always during the summers, where class sizes almost never exceed 20, vs. the 50-100 that we might get during the actual school year, though I have guest lectured a good few times during the year, given plenty of large-group outreach talks, and given podium presentations to crowds in the ~hundreds). Been a while since I last served as instructor but luckily I'm teaching a class again later this summer so that'll be a nice refresher (funding historically has almost entirely been through various fellowships, and last year I was out of state). Excited to teach at a time when the weather's cold, too, that I might experiment with e.g. Carl Sagan cosplay.
-> I'm hopefully graduating in a year and not entirely set on continuing on in academia, and from what I hear most R1 faculty positions dgaf about teaching experience, but sometimes SLACs do. Would it benefit me in any other areas, e.g. industry data science (my #1 plan B)? I can see myself spinning teaching duties into relevant desiderata (coordinating lotsa students and lesson plans, explaining and visualizing nuanced statistical results, etc.), but can also see any in-depth description cluttering my CV. A plan D is going to some private high school to teach, but idk if teaching experience can substitute for an education MA lol.
 > 
+> I'm hopefully graduating in a year and not entirely set on continuing on in academia, and from what I hear most R1 faculty positions dgaf about teaching experience, but sometimes SLACs do. Would it benefit me in any other areas, e.g. industry data science (my #1 plan B)? I can see myself spinning teaching duties into relevant desiderata (coordinating lotsa students and lesson plans, explaining and visualizing nuanced statistical results, etc.), but can also see any in-depth description cluttering my CV. A plan D is going to some private high school to teach, but idk if teaching experience can substitute for an education MA lol.
 
->> **u/Amonwilde** [+7] *
+>> **u/Amonwilde** [+6]  (48 minutes later)
 >> 
 >> I'm also a sixth year in grad school, but I would always say that teaching, and public speaking in general, is a useful skill for anyone. I consider public speaking one of my force multipliers, alongside writing and programming. They come up in any role, really, and allow you to put things out in the world and stand out in ways that other skills do not.
->> Glad you're back teaching, and good luck! I just got back from a week teaching APIs to humanists for use in their projects.
 >> 
+>> Glad you're back teaching, and good luck! I just got back from a week teaching APIs to humanists for use in their projects.
 
->>> **u/phylogenik** [+1] *
+>>> **u/phylogenik** [+1]  (an hour later)
 >>> 
 >>> Thanks! And yah one of my first modifications to the first course I taught a few years ago was to assign students a 10 minute presentation each (much easier when there are 12 of them vs 60). Classes in one of my ugrad majors almost always had 2-3 presentations per semester, and I feel all that practice really helped my otherwise mediocre and underdeveloped public speaking skills.
->>> 
 
-> **u/CouteauBleu** [+5]  *We are the Empire.**
+> **u/CouteauBleu** [+6]  *We are the Empire.* (2 hours later)
 > 
 > Hey! A while ago, [I mentioned](https://www.reddit.com/r/rational/comments/8q6g8c/bst_preparationspoilers_ranimorphs_crowdsourcing) I was planning a brainstorming thread for Animorphs: The Reckoning, in the vein of [previous](https://www.reddit.com/r/rational/comments/56uzvp/bst_q_request_itt_post_reactions_to_latest/) crowdsourced [chapters](https://www.reddit.com/r/rational/comments/6rnjtx/ama_im_a_soldier_for_the_yeerk_empire_and_im/) the fic had had.
-> Well, I've had a flash of inspiration, and what was going to be an unstructured discussion with a few themes has become a full roleplaying scenario, one of my favourite things to do, complete with several pages of events and worldbuilding.
-> Anyway, the ARG will start next monday and last for a week, so... tune in if you're interested!
-> Also, I'm still interested in having yeerk players. For now the list is u/Rouninscholar, u/CopperZirconium, and _maybe_ u/NatsuDragnee1 if available.
-> Also u/PeridexisErrant, u/alexanderwales, u/eaturbrainz, would any of you like to assist me? The big thing would be to sticky one different comment at the top of the thread every day for a week. Thanks in advance.
 > 
+> Well, I've had a flash of inspiration, and what was going to be an unstructured discussion with a few themes has become a full roleplaying scenario, one of my favourite things to do, complete with several pages of events and worldbuilding.
+> 
+> Anyway, the ARG will start next monday and last for a week, so... tune in if you're interested!
+> 
+> Also, I'm still interested in having yeerk players. For now the list is u/Rouninscholar, u/CopperZirconium, and _maybe_ u/NatsuDragnee1 if available.
+> 
+> Also u/PeridexisErrant, u/alexanderwales, u/eaturbrainz, would any of you like to assist me? The big thing would be to sticky one different comment at the top of the thread every day for a week. Thanks in advance.
 
->> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (2 hours later)
 >> 
 >> IIRC, if you attempt to send more than three username alerts in a single comment, *zero* alerts are sent instead. Try sending PMs.
->> 
 
->>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>> **u/CouteauBleu** [+1]  *We are the Empire.* (4 hours later)
 >>> 
 >>> Aw. Whatever, alexanderwales already said yes, so I don't need to ping anyone else. Thanks though.
->>> 
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (2 hours later)
 >> 
 >> Yeah, I can pin comments for you, just let me know.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 hours later)
 >> 
 >> I can help with stickying stuff if you ping me.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (6 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (6 hours later)
 >>> 
 >>> If you address a private message to the subreddit, the mods will get it as modmail. You can use the link "message the mods" which should be on the right-hand sidebar at the bottom. It will get handled by whichever of us has the time/effort to deal with it, and all mods will be able to see the communication. This is generally preferred if you have some moderation-specific thing that you need to communicate, because it lets whoever has the slack pick it up, while also letting everyone know who's done the picking up. Doesn't work for general comments though.
->>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: https://sidewaysfiction.wordpress.com/2017/01/29/a-prayer-for-brighter-days/
-* Score: 11
+* Score: 10
 
 * Created: 2017-01-29T16:07:50
 
@@ -12,12 +12,11 @@
 
 ### Comments:
 
-> **u/MaddoScientisto** [+1] *
+> **u/MaddoScientisto** [+1]  (5 hours later)
 > 
 > "I'll be careful" 
-
-> Aaaaaaaaaaaaaaand...called it!
 > 
+> Aaaaaaaaaaaaaaand...called it!
 
 ---
 

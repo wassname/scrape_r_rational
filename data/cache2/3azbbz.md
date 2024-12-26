@@ -2,7 +2,7 @@
 
 * Author: u/DataPacRat  *Amateur Immortalist**
 * URL: https://www.reddit.com/r/rational/comments/3azbbz/bstwipq_seeking_writing_advice_tropes_vs_writing/
-* Score: 6
+* Score: 7
 
 * Created: 2015-06-24T18:31:32
 
@@ -17,45 +17,49 @@ Anyone have any thoughts?
 
 ### Comments:
 
-> **u/Sparkwitch** [+3] *
+> **u/Sparkwitch** [+3]  (18 minutes later)
 > 
 > Knowing how much you can afford to elide is one of the great ways to tighten your writing. Does it introduce a problem? Does it solve one? Does it reveal something important about a character in a way that advances the plot?
-> If the story still work without some information, it's probably safe to remove it.
-> Skip ahead to the fun stuff.
 > 
+> If the story still work without some information, it's probably safe to remove it.
+> 
+> Skip ahead to the fun stuff.
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (40 minutes later)
 >> 
 >> > Skip ahead to the fun stuff.
->> Make sure that you're skipping ahead for the right reasons though. I've seen timeskips done really poorly in the past; sometimes an author gets bored, and just wants to race ahead, and it can leave the audience scratching their head wondering why they never got the middle section. Elide too much, and you have pay-off without the build up, which isn't actually pay-off at all.
->> I think that's probably what /u/DataPacRat is struggling with; when to skip ahead, and when not to. I think if you've got writer's block, it's fine to just write all the stuff that you feel like writing to get you back in the flow, but then you actually need to go back and write in all the necessary precursors. You can't have the climactic ending without any of the growth or development in place (or you can, but it's going to feel a little hollow).
 >> 
+>> Make sure that you're skipping ahead for the right reasons though. I've seen timeskips done really poorly in the past; sometimes an author gets bored, and just wants to race ahead, and it can leave the audience scratching their head wondering why they never got the middle section. Elide too much, and you have pay-off without the build up, which isn't actually pay-off at all.
+>> 
+>> I think that's probably what /u/DataPacRat is struggling with; when to skip ahead, and when not to. I think if you've got writer's block, it's fine to just write all the stuff that you feel like writing to get you back in the flow, but then you actually need to go back and write in all the necessary precursors. You can't have the climactic ending without any of the growth or development in place (or you can, but it's going to feel a little hollow).
 
->>> **u/Sparkwitch** [+1] *
+>>> **u/Sparkwitch** [+1]  (an hour later)
 >>> 
 >>> Absolutely.
->>> I just find, for myself at least, that the urge to skip is frequently overwhelmed by the urge to reveal *absolutely everything I ever thought of*. Killing my darlings is uniformly harder than coming up with additional awesome. Even when that's not the case, there's usually enough awesome to go around. Cramming additional space with less critical stuff is a bad habit I'm trying desperately to undo.
->>> Ultimately, I hope to find the least possible content with the most possible impact.
 >>> 
+>>> I just find, for myself at least, that the urge to skip is frequently overwhelmed by the urge to reveal *absolutely everything I ever thought of*. Killing my darlings is uniformly harder than coming up with additional awesome. Even when that's not the case, there's usually enough awesome to go around. Cramming additional space with less critical stuff is a bad habit I'm trying desperately to undo.
+>>> 
+>>> Ultimately, I hope to find the least possible content with the most possible impact.
 
->>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (6 hours later)
 >>>> 
 >>>> > Killing my darlings is uniformly harder than coming up with additional awesome.
->>>> I suddenly want to read everything you have ever written. Got any links?
 >>>> 
+>>>> I suddenly want to read everything you have ever written. Got any links?
 
-> **u/Farmerbob1** [+1]  *Level 1 author**
+> **u/Farmerbob1** [+1]  *Level 1 author* (5 hours later)
 > 
 > Don't explain away memory problems with garden variety bad memory.  Give your lead a *reason* to have failed to pay attention closely.
-> It's certainly rational to pay attention to something more important, or be startled/frightened, and miss details.
-> Is there any unresolved conflict that you can have storming in out of nowhere and drag your lead's attention away from what you don't want to write about?
-> Do it.  Follow the conflict.  If the lead misses something *now* then it makes the later *need* for that information (if that happens) more interesting as the lead struggles to remember, and has to puzzle it out as opposed to simply knowing the answer.
 > 
+> It's certainly rational to pay attention to something more important, or be startled/frightened, and miss details.
+> 
+> Is there any unresolved conflict that you can have storming in out of nowhere and drag your lead's attention away from what you don't want to write about?
+> 
+> Do it.  Follow the conflict.  If the lead misses something *now* then it makes the later *need* for that information (if that happens) more interesting as the lead struggles to remember, and has to puzzle it out as opposed to simply knowing the answer.
 
-> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (13 hours later)
 > 
 > You can also just leave a note to yourself to revisit that part in the story again later on, unless you need to update it serially.
-> 
 
 ---
 

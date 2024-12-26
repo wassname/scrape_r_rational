@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/a3kagk/biweekly_challenge_punishment/
-* Score: 18
+* Score: 16
 
 * Created: 2018-12-06T03:59:52
 
@@ -50,10 +50,9 @@ Next time, the challenge will be **Flaws**. It's a more open-ended one, but the 
 
 ### Comments:
 
-> **u/conradin6622** [+9]  *Challenge Winner**
+> **u/conradin6622** [+9]  *Challenge Winner* (5 days later)
 > 
 > [Where the Water Comes From](https://m.fictionpress.com/s/3332320/1/Where-the-Water-Comes-From) (5534 words, give or take)
-> 
 
 ---
 

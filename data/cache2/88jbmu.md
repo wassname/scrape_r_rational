@@ -2,7 +2,7 @@
 
 * Author: u/ToaKraka  *https://i.imgur.com/OQGHleQ.png**
 * URL: https://www.reddit.com/r/rational/comments/88jbmu/eduffrst_conned_again_watson_in_which_sherlock/
-* Score: 28
+* Score: 30
 
 * Created: 2018-03-31T15:23:56
 
@@ -304,42 +304,43 @@ The URL given for the author's site in the book's afterword has been dead for *q
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+6]  (9 hours later)
 > 
 > What does "officially sanctioned" mean?
-> Considering the character has been ruled to be in the public domain.
 > 
+> Considering the character has been ruled to be in the public domain.
 
->> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+10]  *https://i.imgur.com/OQGHleQ.png* (9 hours later)
 >> 
 >> > What does "officially sanctioned" mean?
->> On the copyright page:
->> > Use of the Sherlock Holmes characters by arrangement with the late Dame Jean Conan Doyle.
->> ---
->> > Considering the character has been ruled to be in the public domain.
->> [That happened in 2014.](https://www.techdirt.com/articles/20141103/17132429030/supreme-court-refuses-to-hear-sherlock-holmes-case-holmes-is-now-mostly-public-domain.shtml) This book was published in 2001.
 >> 
+>> On the copyright page:
+>> 
+>> > Use of the Sherlock Holmes characters by arrangement with the late Dame Jean Conan Doyle.
+>> 
+>> ---
+>> 
+>> > Considering the character has been ruled to be in the public domain.
+>> 
+>> [That happened in 2014.](https://www.techdirt.com/articles/20141103/17132429030/supreme-court-refuses-to-hear-sherlock-holmes-case-holmes-is-now-mostly-public-domain.shtml) This book was published in 2001.
 
->>> **u/TwoxMachina** [+0] *
+>>> **u/TwoxMachina** [+0]  (18 hours later)
 >>> 
 >>> Actually, this book is really hard to find, given that it is so old already.
->>> 
 
->>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (19 hours later)
 >>>> 
 >>>> What are you talking about? Amazon and Barnes & Noble have lots of cheap used copies available, and a Kindle edition can be bought for $12.
->>>> (Protip: Click the buttons under the "Get a Copy" heading on the Goodreads page.)
 >>>> 
+>>>> (Protip: Click the buttons under the "Get a Copy" heading on the Goodreads page.)
 
->>>>> **u/TwoxMachina** [+1] *
+>>>>> **u/TwoxMachina** [+1]  (21 hours later)
 >>>>> 
 >>>>> Ah k. Was looking in bookstores.
->>>>> 
 
-> **u/ZuoV** [+1] *
+> **u/ZuoV** [+1]  (14 days later)
 > 
 > Thanks for recommend this book! I am reading this book and quite enjoy it. Holmes and How to lie with statistic are my favorite books so far.
-> 
 
 ---
 

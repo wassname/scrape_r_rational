@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 12
+* Score: 11
 
 * Created: 2014-06-09T17:50:52
 
@@ -12,60 +12,61 @@
 
 ### Comments:
 
-> **u/Anakiri** [+7] *
+> **u/Anakiri** [+6]  (14 hours later)
 > 
 > Okay, wow, let me unpack this a bit for anyone who doesn't want to wade through fifty pages of jargon and math.
-> First, go watch [this four minute video narrated by Morgan Freeman](http://www.youtube.com/watch?v=W9yWv5dqSKk). That's the basic idea. There's a particle bouncing on the surface of a liquid, producing waves. Its own waves disturb the surface and affect how it bounces, especially when they reflect and refract around the environment.
-> This system behaves similar to quantum mechanics in some ways. Most notably, there's the double slit experiment. Make a wall with two holes in it, shoot photons through one at a time, and you'll end up with a wave-like interference pattern, as if there were two waves interfering - even though there was only one particle there at a time. These bouncing particles do that. The waves they emit affect their course in exactly such a way that the bouncing particles end up in an interference pattern.
-> That's all from [an earlier paper](http://arxiv.org/pdf/1106.5994v3.pdf). *This* paper is more about deriving the Shrödinger equation and some other things that are kind of interesting but not nearly as impressive as they sound. Overall, it says that quantum effects arise from this classical system.
-> So, what interesting, exploitable properties does this have? To start, systems have memory. Waves from a hundred bounces ago are still affecting things. There are nonlocality effects, with every particle being affected by waves emitted from every other particle. The particles keep bouncing, even though they're losing energy with every wave they make, by grabbing momentum from the zero-point field. (Yes, really.)
-> And you've lost much more than that. As a classical system, the sub-quantum world is chaotic but deterministic; there is no such thing as randomness. I'm not sure what the "zero point field" is even supposed to be once you remove the random fluctuations, and they don't explain. Also, there's no way to get back to particle-like behavior. In the real double-slit experiment, if you are entangled with which slit the photon went through, the interference pattern vanishes. You see two bands, as if they were billiard balls flying straight though. There is no way for that to happen here. It's all interference, all the time. That's, y'know, the single reason the experiment is interesting in the first place, which the authors seem to have completely missed.
-> There are other more obscure problems, like how this system's "no crossing" behavior mean that particles have individual identities, which is its own lecture. The bouncing ball wave thing is actually a really interesting system. It's annoying that they felt the need to pretend it had anything to do with quantum mechanics.
 > 
+> First, go watch [this four minute video narrated by Morgan Freeman](http://www.youtube.com/watch?v=W9yWv5dqSKk). That's the basic idea. There's a particle bouncing on the surface of a liquid, producing waves. Its own waves disturb the surface and affect how it bounces, especially when they reflect and refract around the environment.
+> 
+> This system behaves similar to quantum mechanics in some ways. Most notably, there's the double slit experiment. Make a wall with two holes in it, shoot photons through one at a time, and you'll end up with a wave-like interference pattern, as if there were two waves interfering - even though there was only one particle there at a time. These bouncing particles do that. The waves they emit affect their course in exactly such a way that the bouncing particles end up in an interference pattern.
+> 
+> That's all from [an earlier paper](http://arxiv.org/pdf/1106.5994v3.pdf). *This* paper is more about deriving the Shrödinger equation and some other things that are kind of interesting but not nearly as impressive as they sound. Overall, it says that quantum effects arise from this classical system.
+> 
+> So, what interesting, exploitable properties does this have? To start, systems have memory. Waves from a hundred bounces ago are still affecting things. There are nonlocality effects, with every particle being affected by waves emitted from every other particle. The particles keep bouncing, even though they're losing energy with every wave they make, by grabbing momentum from the zero-point field. (Yes, really.)
+> 
+> And you've lost much more than that. As a classical system, the sub-quantum world is chaotic but deterministic; there is no such thing as randomness. I'm not sure what the "zero point field" is even supposed to be once you remove the random fluctuations, and they don't explain. Also, there's no way to get back to particle-like behavior. In the real double-slit experiment, if you are entangled with which slit the photon went through, the interference pattern vanishes. You see two bands, as if they were billiard balls flying straight though. There is no way for that to happen here. It's all interference, all the time. That's, y'know, the single reason the experiment is interesting in the first place, which the authors seem to have completely missed.
+> 
+> There are other more obscure problems, like how this system's "no crossing" behavior mean that particles have individual identities, which is its own lecture. The bouncing ball wave thing is actually a really interesting system. It's annoying that they felt the need to pretend it had anything to do with quantum mechanics.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (15 hours later)
 >> 
 >> > I'm not sure what the "zero point field" is even supposed to be once you remove the random fluctuations, and they don't explain.
->> As far as I can tell, "zero-point field" is a fancy fucking term for "quantum vacuum that fluctuates on its own", and we *did* already know quantum vacuum does that.
 >> 
+>> As far as I can tell, "zero-point field" is a fancy fucking term for "quantum vacuum that fluctuates on its own", and we *did* already know quantum vacuum does that.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (8 days later)
 >> 
 >> A week later, this paper is still throwing me for a loop. Looking at this paper and its bibliography, it seems like physicists have gone a far way in deriving quantum equations from classical ones and accurately describing quantum phenomena in terms of classical mechanics. Does this mean quantum physics, at some point in the future, might be revealed to be a classical system? Or am I reading wayyy too far into this?
->> 
 
->>> **u/Anakiri** [+3] *
+>>> **u/Anakiri** [+3]  (8 days later)
 >>> 
 >>> > Does this mean quantum physics, at some point in the future, might be revealed to be a classical system?
->>> In a word? No. It's just not going to happen.
->>> What these papers are doing is basically just like explaining electric circuits in terms of hydraulic circuits. It's an extremely useful analogy and you can certainly explain a whole bunch of electric behaviors in terms of flowing water. But it's just a analogy, the systems just happen to be similar in some ways. These researchers are saying, "Therefore, it is likely that electric circuits are actually composed of a classical sub-electric liquid."
 >>> 
+>>> In a word? No. It's just not going to happen.
+>>> 
+>>> What these papers are doing is basically just like explaining electric circuits in terms of hydraulic circuits. It's an extremely useful analogy and you can certainly explain a whole bunch of electric behaviors in terms of flowing water. But it's just a analogy, the systems just happen to be similar in some ways. These researchers are saying, "Therefore, it is likely that electric circuits are actually composed of a classical sub-electric liquid."
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (8 days later)
 >>>> 
 >>>> Thanks!
->>>> 
 
-> **u/ghioopp** [+2] *
+> **u/ghioopp** [+2]  (46 minutes later)
 > 
 > Upvoted because it's an interesting exercise.
-> 
 
-> **u/sicutumbo** [+2] *
+> **u/sicutumbo** [+2]  (3 hours later)
 > 
 > How can anything be subquantum? That seems to literally defy the definition of the word quantum
-> 
 
->> **u/AmeteurOpinions** [+6]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.* (3 hours later)
 >> 
 >> Well, we have "subatomic" these days too, and people used to think that was impossible...
->> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (3 hours later)
 >> 
 >> From Wikipedia:
->> > The name atom comes from the Greek ἄτομος (atomos, "indivisible") from ἀ- (a-, "not") and τέμνω (temnō, "I cut"), which means uncuttable, or indivisible, something that cannot be divided further.
 >> 
+>> > The name atom comes from the Greek ἄτομος (atomos, "indivisible") from ἀ- (a-, "not") and τέμνω (temnō, "I cut"), which means uncuttable, or indivisible, something that cannot be divided further.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Zededarian *
 * URL: https://medium.com/@zededarian/the-king-of-greed-c877b42048f9
-* Score: 24
+* Score: 22
 
 * Created: 2020-04-29T19:12:37
 
@@ -12,84 +12,74 @@
 
 ### Comments:
 
-> **u/foveros** [+8] *
+> **u/foveros** [+8]  (46 minutes later)
 > 
 > I normally wouldn't read stories without a summary, but since I like these kinds of logic puzzle and also stories about diabolism, I'm glad I did.
-> The "Volume II, chapter 4" part at the beginniong made me think that was a series. Would totally read it.
 > 
+> The "Volume II, chapter 4" part at the beginniong made me think that was a series. Would totally read it.
 
->> **u/Zededarian** [+5] *
+>> **u/Zededarian** [+3]  (51 minutes later)
 >> 
 >> Thanks!  Are summaries normally provided as text on the toplevel post or something?
->> 
 
->>> **u/foveros** [+10] *
+>>> **u/foveros** [+9]  (an hour later)
 >>> 
 >>> Since reddit doesn't allow text on the top level post if it's a link post, you can just write a comment with a short summary.
->>> 
 
-> **u/RynnisOne** [+8] *
+> **u/RynnisOne** [+7]  (10 hours later)
 > 
 > So, just to be sure, having a coin gets you a vote, but having multiples of a coin still only gives you a single vote?
-> 
 
-> **u/MultipartiteMind** [+6] *
+> **u/MultipartiteMind** [+6]  (17 hours later)
 > 
 > Intriguing.  Thoughts:  
-
-> >!Why not combine the 7-coins and all-eternity into a single proposal?  Why not lead with the all-eternity as part of the first forced redistribution, in case of an upset later?  Since the coins are worthless/valueless if you already have a coin and aren't depriving another of their last coin, yet one was enough as a bribe to pass the all-eternity by itself, why not go straight to an all-eternity proposal for pennies, or cupcakes, or even just grains of burning sand from underfoot?!<
 > 
+> >!Why not combine the 7-coins and all-eternity into a single proposal?  Why not lead with the all-eternity as part of the first forced redistribution, in case of an upset later?  Since the coins are worthless/valueless if you already have a coin and aren't depriving another of their last coin, yet one was enough as a bribe to pass the all-eternity by itself, why not go straight to an all-eternity proposal for pennies, or cupcakes, or even just grains of burning sand from underfoot?!<
 
->> **u/Zededarian** [+6] *
+>> **u/Zededarian** [+7]  (21 hours later)
 >> 
 >> >!The "consul for all eternity" could be appended to one of the earlier proposals, I just broke it out for the dramatic reveal, and because the vote that passed it demonstrated the trick of moving the single silver coin back and forth to buy votes.  The coins are inherently valuable because each entitles you to a tenth of the souls in the circle of greed, I should probably have made that part a little clearer. 
 >>  You're right that I sort of hand-waved exactly how stupidly greedy the other demons are -- would their nature require them to elect Mammon consul for live in exchange for one more rock than they had before? -- but the rough conceit is that the only things valuable enough to get them to ignore all other considerations are the silver coins.!<
->> 
 
->>> **u/MultipartiteMind** [+2] *
+>>> **u/MultipartiteMind** [+2]  (2 days later)
 >>> 
 >>> Ahh.  Thank you for the explanation!
->>> 
 
->> **u/munkeegutz** [+6] *
+>> **u/munkeegutz** [+5]  (18 hours later)
 >> 
 >> Because each coin gives you a tenth of the souls that land in that area of hell
->> 
 
->>> **u/MultipartiteMind** [+3] *
+>>> **u/MultipartiteMind** [+3]  (2 days later)
 >>> 
 >>> I completely forgot about that part--thank you!
->>> 
 
->> **u/MilesSand** [+3] *
+>> **u/MilesSand** [+3]  (2 days later)
 >> 
 >> The demons who don't have the ability of forbearance (the ability  to leave a cookie for the promise of 2 later) are not able to use that ability.
->>  Therefore they can only act to move their own utility function toward the nearest local peak, never toward a higher peak that requires bypassing or moving away from a closer but smaller local peak.
->> Even without the soul ownership aspect each coin has a token value that is higher than  not having the coin (each is worth its weight in silver), so having the third coin is a local peak.
 >> 
+>>  Therefore they can only act to move their own utility function toward the nearest local peak, never toward a higher peak that requires bypassing or moving away from a closer but smaller local peak.
+>> 
+>> Even without the soul ownership aspect each coin has a token value that is higher than  not having the coin (each is worth its weight in silver), so having the third coin is a local peak.
 
-> **u/Nimelennar** [+3] *
+> **u/Nimelennar** [+4]  (37 minutes later)
 > 
 > >Now **Murazond** could have taken an additional coin for himself, by
 > bribing one of the last two demons to eliminate the other. But **he had
 > the boon of forbearance**
-> I think that should be Mammon.
 > 
+> I think that should be Mammon.
 
->> **u/Zededarian** [+6] *
+>> **u/Zededarian** [+5]  (50 minutes later)
 >> 
 >> Thanks, fixed.
->> 
 
-> **u/elysian_field_day** [+4] *
+> **u/elysian_field_day** [+4]  (3 days later)
 > 
 > This is a neat piece of mythology I'd like to build into my current D&D game, if you don't mind? Mammon is one of the major baddies, it would work really well as an introduction :)
-> 
 
->> **u/Zededarian** [+3] *
+>> **u/Zededarian** [+3]  (3 days later)
 >> 
 >> I'm glad you enjoyed it!  Please feel free to use it :)
->> 
 
 ---
 

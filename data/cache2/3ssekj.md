@@ -2,7 +2,7 @@
 
 * Author: u/Zephyr1011  *Potentially Unfriendly Aspiring Divinity**
 * URL: http://addventure.bast-enterprises.de/263813.html
-* Score: 21
+* Score: 19
 
 * Created: 2015-11-14T15:40:51
 
@@ -12,21 +12,22 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+5] *
+> **u/eaglejarl** [+6]  (19 minutes later)
 > 
 > Really glad to see this updating again, and especially to see a focus on Tiger's social situation, as that's one of the more unique B plots in the story. 
-> I'm confused about how she intended to use this spell originally; she had to know she was mostly going to get fish, so what was she hoping for?
 > 
+> I'm confused about how she intended to use this spell originally; she had to know she was mostly going to get fish, so what was she hoping for?
 
->> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (2 hours later)
 >> 
 >> Well on the upside she can just do the obvious thing: have all the zombies destroy all the useless zombie fish. That way the power of the chunk of Crowned Death will be lessened and she won't be wasting charge and adding latency controlling pointless zombie fish.
->> 
 
->> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+2]  *fear of last pages* (5 days later)
 >> 
 >> >Tiger's situation
+>> 
 >> There was [a story by G. Martin](https://www.goodreads.com/book/show/8725152-the-glass-flower) with a similar idea.
+>> 
 >> > “Joachim Kleronomas,” I said.
 >> > 
 >> > “Yes."
@@ -70,30 +71,28 @@
 >> > Etch your memories on diamond, or on a block of rancid meat, those are the choices. Bit by bit the flesh must die, and give way to steel and metal. Only the diamond memories survive to drive the body. In the end no flesh remains, and the echoes of lost memories are ghostly scratchings on the crystal.
 >> > 
 >> > “He forgot who he was,” the cyborg said. “I forgot who I was, rather. I began to think ... he began to think he was me.”
->> 
 
-> **u/DataPacRat** [+2]  *Amateur Immortalist**
+> **u/DataPacRat** [+2]  *Amateur Immortalist* (2 hours later)
 > 
 > For the last few updates, every time I try to read the story I get a page saying 'Access Denied'. Does anyone know of an alternate method of reading it?
-> 
 
->> **u/Zephyr1011** [+4]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+6]  *Potentially Unfriendly Aspiring Divinity* (2 hours later)
 >> 
 >> Seems to be mirrored [here](http://dkami.wikia.com/wiki/Chapter_185:_Recruiting_Trouble)
->> 
 
->>> **u/DataPacRat** [+2]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+2]  *Amateur Immortalist* (4 hours later)
 >>> 
 >>> That works. Thankee.
->>> 
 
-> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+1]  *fear of last pages* (5 days later)
 > 
 > This story reminded me of the [Tabula Avatar](http://www.tthfanfic.org/Series-298) series ([Baldur's Gate](http://baldursgate.wikia.com/) × [Buffy.)](http://buffy.wikia.com)
-> Some choices Ami was making were really frustrating, especially considering that she was supposed to be risking her “soul” and being eternally tortured in case of failing almost any of her plans. 
-> Aside from that, the unnecessary anime-style fanservice scenes, and the regular contacts with sailor universe (haven’t seen Sailor Moon, neither care much about it), the story was rather entertaining to read.
-> Too bad it’s a slow WiP like so many other interesting projects out there.
 > 
+> Some choices Ami was making were really frustrating, especially considering that she was supposed to be risking her “soul” and being eternally tortured in case of failing almost any of her plans. 
+> 
+> Aside from that, the unnecessary anime-style fanservice scenes, and the regular contacts with sailor universe (haven’t seen Sailor Moon, neither care much about it), the story was rather entertaining to read.
+> 
+> Too bad it’s a slow WiP like so many other interesting projects out there.
 
 ---
 

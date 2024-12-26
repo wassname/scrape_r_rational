@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/06/06/chapter-17-contingent/
-* Score: 76
+* Score: 78
 
 * Created: 2018-06-06T04:05:33
 
@@ -12,516 +12,514 @@
 
 ### Comments:
 
-> **u/Yes_This_Is_God** [+41] *
+> **u/Yes_This_Is_God** [+40]  (an hour later)
 > 
 > I think a lot of readers (including myself) got really excited for a flashy final showdown without realizing the consequences of it: if Cat had stayed and fought 10 heroes by herself, she would have lost and Callow would have been broken. While we all enjoyed the 'heroics' of Akua, it's nice to Cat robbing the Heroes of their narrative momentum once again. 
-> It's even hinted at in the last chapter, when one of the heroes talked about the eyes of the Gods being upon them. It's a familiar climax to a familiar pattern: a final showdown to end all final showdowns, and the heroes would arise victorious after slaying the Black Queen.
-> Now, Cat gets to win practically. It's pretty clear by now that the only way for Evil to effect lasting change is by winning in small ways. This is Black's education in practice—Cat needs to impact the institutions (i.e. Rozala) and not the Named.
 > 
+> It's even hinted at in the last chapter, when one of the heroes talked about the eyes of the Gods being upon them. It's a familiar climax to a familiar pattern: a final showdown to end all final showdowns, and the heroes would arise victorious after slaying the Black Queen.
+> 
+> Now, Cat gets to win practically. It's pretty clear by now that the only way for Evil to effect lasting change is by winning in small ways. This is Black's education in practice—Cat needs to impact the institutions (i.e. Rozala) and not the Named.
 
->> **u/Chesheire** [+21] *
+>> **u/Chesheire** [+21]  (7 hours later)
 >> 
 >> This - Cat isn't playing by their rules. She's looking more so at the meta level (ie. narrative, plot, literary flow) in order to act. She saw that the heroes were starting to have narrative weight behind their actions and swiftly moved to cut it off. 
->> In truth, I doubt that Pilgrim even understands that he's part of a story - he certainly doesn't act like it. This meta-level (near fourth-wall breaking) knowledge puts Cat 5 steps in front of the competition in terms of tactics and success.
->> I'd say that Black has a pretty good choice in successors if Cat is able to maintain this lead.
 >> 
+>> In truth, I doubt that Pilgrim even understands that he's part of a story - he certainly doesn't act like it. This meta-level (near fourth-wall breaking) knowledge puts Cat 5 steps in front of the competition in terms of tactics and success.
+>> 
+>> I'd say that Black has a pretty good choice in successors if Cat is able to maintain this lead.
 
->>> **u/PrettyDecentSort** [+6] *
+>>> **u/PrettyDecentSort** [+5]  (17 hours later)
 >>> 
 >>> > Cat 5
->>> heh.
 >>> 
+>>> heh.
 
->>>> **u/Chesheire** [+5] *
+>>>> **u/Chesheire** [+4]  (18 hours later)
 >>>> 
 >>>> [heh.](https://i.imgur.com/meftV0q.gif)
->>>> 
 
->> **u/None** [+9] *
+>> **u/None** [+9]  (12 hours later)
 >> 
 >> It also sets up a really nice contrast with Akua. Akua might have been able to force a win, but Ca realised that even having the fight was a mistake.
->> 
 
->>> **u/werafdsaew** [+10] *
+>>> **u/werafdsaew** [+10]  (17 hours later)
 >>> 
 >>> I don't think Akua could have won, as victory in the face of overwhelming odds is how Heroes triumph over Villains.
->>> 
 
-> **u/Empiricist_or_not** [+20]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+21]  *Aspiring polite Hegemonizing swarm* (2 minutes later)
 > 
 > Here I've been refreshing, do you have it scripted?
+> 
 > Edit:
 > As to the chapter, well . . . I think Cat just trumped her past actions for pure audacity, and cemented her Role as a sane monarch who cares for ~~her~~ all people
-> 
 
->> **u/None** [+5] *
+>> **u/None** [+4]  (9 hours later)
 >> 
 >> many of us have tried but failed, I think the script theory is possible
->> 
 
->>> **u/Zayits** [+12] *
+>>> **u/Zayits** [+13]  (12 hours later)
 >>> 
 >>> I just come to both r/rational and r/PGtE and start refreshing the EE's wordpress at about 4:00 UTC. It's kind of like trying to leave home without checking the stove: I *do* try to visit other webpages, but every few seconds I'm hit with a wave of doubt about whether I refreshed it *really recently*, until I read the chapter and my brain acknowledges that. Well, that, or I've fallen asleep too late the day before and sleep until 11 AM.
->>> 
 
->>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (19 hours later)
 >>>> 
 >>>> I'm in EDT so if I refresh for a PGTE fix I'm allready a zombie.
->>>> 
 
->>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (a day later)
 >>>> 
 >>>> Man, I remember doing that with Homestuck. Constantly. For multiple years.
->>>> 
 
-> **u/cyberdsaiyan** [+17] *
+> **u/cyberdsaiyan** [+18]  (an hour later)
 > 
 > This was ballsy as all hell, and shows that Catherine is really *desperately* trying to outgrow her old mentor's teachings. There were sooo many number of ways this could have gone badly. The heroes could have just ignored the truce banner and heaven wouldn't give them any flak for it. Cat could've fallen deeper into winter at Malanza claiming to be the *victim*. Malanza could have seen too much red to even contemplate a retreat. *All* of this stuff *almost* happened. 
-> It's like threading the needle of fate through a keyhole you can't even see...
 > 
+> It's like threading the needle of fate through a keyhole you can't even see...
 
->> **u/ForgottenToupee** [+14] *
+>> **u/ForgottenToupee** [+13]  (an hour later)
 >> 
 >> Two chapters in a row where the Procern side complains about Cat not playing nice, and I’m sooooo looking forward for the teeth to get kicked in
->> 
 
->>> **u/melmonella** [+28]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+26]  *Tremble, o ye mighty, for a new age is upon you* (8 hours later)
 >>> 
 >>> [Rosalia's strategy](https://puu.sh/AA41Z/0996089096.png)
->>> 
 
->>> **u/cyberdsaiyan** [+21] *
+>>> **u/cyberdsaiyan** [+22]  (an hour later)
 >>> 
 >>> Gods we're the readers and we can *feel* the sheer scathing fury at these kind of remarks... can you imagine what Cat, who herself has *been through* these events and is currently seeing her people get killed by these invaders and then hearing them *justify* it, all the while just in the back of her head an eldrich entity screams for their blood, has to go through? She just showed some of the best self control I've seen from a character period.
->>> 
 
->>>> **u/xland44** [+5] *
+>>>> **u/xland44** [+5]  (8 hours later)
 >>>> 
 >>>> have you read Worm? :D
->>>> 
 
->>>>> **u/cyberdsaiyan** [+1] *
+>>>>> **u/cyberdsaiyan** [+1]  (10 hours later)
 >>>>> 
 >>>>> I have, but it was a binge read over a period of two weeks years ago so I might have forgotten some things.
->>>>> Are you referring to dragon and the school visit?
 >>>>> 
+>>>>> Are you referring to dragon and the school visit?
 
->>>>>> **u/xland44** [+1] *
+>>>>>> **u/xland44** [+1]  (10 hours later)
 >>>>>> 
 >>>>>> Mostly to a scene during the Echidna event, where
 >>>>>> [spoilers](#s "during the Noelle fight when she spawns evil clones of people, Tattletale warns MM to shoot Taylor's clones  as soon as possible, and drives in just how dangerous a bug parahuman in a bug-infested city can be, when with malicious intentions")
->>>>>> 
 
->>>>>>> **u/cyberdsaiyan** [+4] *
+>>>>>>> **u/cyberdsaiyan** [+4]  (10 hours later)
 >>>>>>> 
 >>>>>>> Unfortunately I can't read spoilers on mobile, they disappear when I click on them...
->>>>>>> Edit: finally managed to read after a shit ton of work. That incident didn't really have a parallel to the self control discussion that was going on right?
 >>>>>>> 
+>>>>>>> Edit: finally managed to read after a shit ton of work. That incident didn't really have a parallel to the self control discussion that was going on right?
 
->>>>>>>> **u/xland44** [+1] *
+>>>>>>>> **u/xland44** [+1]  (10 hours later)
 >>>>>>>> 
 >>>>>>>> I mean, her entire shards' shtick is Control - it's even called the Queen Administrator. The few time Taylor *has* lost control are kind of terrifying
->>>>>>>> 
 
->>>>>>>>> **u/cyberdsaiyan** [+1] *
+>>>>>>>>> **u/cyberdsaiyan** [+1]  (11 hours later)
 >>>>>>>>> 
 >>>>>>>>> Ah you're talking about the influence of winter...
->>>>>>>>> yeah, cat is certainly pretty damn scary at this point.
 >>>>>>>>> 
+>>>>>>>>> yeah, cat is certainly pretty damn scary at this point.
 
->>>>>>> **u/PotentiallySarcastic** [+4] *
+>>>>>>> **u/PotentiallySarcastic** [+3]  (10 hours later)
 >>>>>>> 
 >>>>>>> The funny thing is that she need not even clarify it as a "bug-infested city".
->>>>>>> All cities are bug infested. No one truly appreciates how fucking powerful Skitter would be if she ever went murderous rampage. Frankly it's a bit fucking odd that no PRT Thinker ever read a report of BB and was like "wait. theres a fucking bug-controlling villain cape with no apparent number limit? She needs a kill order signed and locked in a drawer so we can stop her before this get's out of hand".
->>>>>>> Now Skitter in the Amazon. That's a fucking whirlwind of death.
 >>>>>>> 
+>>>>>>> All cities are bug infested. No one truly appreciates how fucking powerful Skitter would be if she ever went murderous rampage. Frankly it's a bit fucking odd that no PRT Thinker ever read a report of BB and was like "wait. theres a fucking bug-controlling villain cape with no apparent number limit? She needs a kill order signed and locked in a drawer so we can stop her before this get's out of hand".
+>>>>>>> 
+>>>>>>> Now Skitter in the Amazon. That's a fucking whirlwind of death.
 
->>>>>>>> **u/xland44** [+6] *
+>>>>>>>> **u/xland44** [+5]  (10 hours later)
 >>>>>>>> 
 >>>>>>>> >Now Skitter in the Amazon. That's a fucking whirlwind of death.
->>>>>>>> I'd heard that cities actually have *more* bugs than in the wild, because of all the food humans leave for them to feast on.
 >>>>>>>> 
+>>>>>>>> I'd heard that cities actually have *more* bugs than in the wild, because of all the food humans leave for them to feast on.
 
->>>>>>>>> **u/PotentiallySarcastic** [+1] *
+>>>>>>>>> **u/PotentiallySarcastic** [+1]  (10 hours later)
 >>>>>>>>> 
 >>>>>>>>> Interesting. I have some doubts on that due to the math that gets done when estimating the number of species in the wild we don't know of but it does make some sense.
->>>>>>>>> Same sort of thing why rats thrive in human civilization.
 >>>>>>>>> 
+>>>>>>>>> Same sort of thing why rats thrive in human civilization.
 
->> **u/akaltyn** [+3] *
+>> **u/akaltyn** [+3]  (12 hours later)
 >> 
 >> > desperately trying to outgrow her old mentor's teachings
->> Black's tactics worked great when he was an unamiguous capital V Villain going up against capital H Heroes. But Cat has more flexibility because due to both her position as queen of callow and her fae mantle instead of a name she has a kind of flexibility where she can place herself in different roles in the narrative
 >> 
+>> Black's tactics worked great when he was an unamiguous capital V Villain going up against capital H Heroes. But Cat has more flexibility because due to both her position as queen of callow and her fae mantle instead of a name she has a kind of flexibility where she can place herself in different roles in the narrative
 
-> **u/ForgottenToupee** [+10] *
+> **u/ForgottenToupee** [+10]  (57 minutes later)
 > 
 > It’s kinda disappointing that we as the readers know that any peace talks either won’t work or won’t last.  Cat owes Larat crowns, and that oath coupled with the existence of the Princes Graveyard means that Procer has a smack down coming. 
+> 
 > BUT, that means we get to (hopefully) guess where things go from here. I think this battle is probably over, but the Crusade likely won’t end just yet. 
+> 
 > Events that are being juggled right now: 
+> 
 > 1) Black’s battle in the Vales with Pappenheim (also Warlock vs Witch)
 > 2) The Dead King is in communication with someone (likely Malicia, or possibly Tyrant)
 > 3) The Free Cities are getting ready to pick a fight (probably Procer)
 > 4) The Watch  is on the march, and with Cat up they’re ready to be ported 
-> And I think that’s it? The demon of Absence is probably dealt with, in-universe the last time one broke it no one realized for a century or two, so I doubt will see anything come of that
 > 
+> And I think that’s it? The demon of Absence is probably dealt with, in-universe the last time one broke it no one realized for a century or two, so I doubt will see anything come of that
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/PotentiallySarcastic** [+10] *
+>>> **u/PotentiallySarcastic** [+9]  (10 hours later)
 >>> 
 >>> Who would've thought that the fucking gnomes are the Sword of Damocles over this entire story?
->>> It's amazing.
 >>> 
+>>> It's amazing.
 
->>> **u/akaltyn** [+1] *
+>>> **u/akaltyn** [+1]  (12 hours later)
 >>> 
 >>> There's still a bunch of elves unaccounted for as well...
->>> 
 
->>> **u/Frommerman** [+1] *
+>>> **u/Frommerman** [+1]  (17 hours later)
 >>> 
 >>> The fact that the gnomes sent a letter over a thresher and seem to have ignored a Greater Breach machine implies that dealing with them should be as simple as launching a sudden, utterly devastating magical attack. I can't see people who are paranoid about farming implements casually ignoring WMDs unless they somehow can't see or think poorly of magic as a whole.
->>> Either that, or they're wholly immune to all magic. If that's the case, though, Calernia is fucked six ways from Tuesday if the gnomes ever decide to take a swing.
 >>> 
+>>> Either that, or they're wholly immune to all magic. If that's the case, though, Calernia is fucked six ways from Tuesday if the gnomes ever decide to take a swing.
 
->>>> **u/Turniper** [+11] *
+>>>> **u/Turniper** [+12]  (18 hours later)
 >>>> 
 >>>> It's been more implied they don't even consider magic a threat. Their ships are apparently immune to everything one of the greatest magical civilizations the world had ever seen could muster, and a greater breach is nice and all, but they seem to have nukes. Also Praes's lack of agricultural infrastructure is basically the main thing keeping them from ever advancing. Plus it's entirely possible Nefarious's machine might have involved a steam engine or something.
->>>> 
 
->> **u/TaltosDreamer** [+4] *
+>> **u/TaltosDreamer** [+5]  (an hour later)
 >> 
 >> I think we potentially have a battle with the rat monsters if the crusaders weaken themselves.  Catherine isnt likely to stand by while people are slaughtered.  A potential civil war in Procer would do the trick.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (14 hours later)
 >> 
 >> If this is the Battle of the Camps then the Peace talks could work for this specific battle.
->> 
 
->> **u/AurelianoTampa** [+1] *
+>> **u/AurelianoTampa** [+1]  (12 hours later)
 >> 
 >> > And I think that’s it? 
->> Per Kaleidoscope V, there's also an invasion of the Principate from the Dominion of Levant on the horizon.
->> > The armies of the Dominion would enter the Principate soon enough, a  Principate weakened by war. Prince Cordelia might put her faith in the  alliances she had bargained for, but an alliance of victors was like a  hearth in summer. The diminished and defeated found no friends, only  hungry dogs. 
->> Probably won't be in this book, but it's likely going to happen after the Crusade.
 >> 
+>> Per Kaleidoscope V, there's also an invasion of the Principate from the Dominion of Levant on the horizon.
+>> 
+>> > The armies of the Dominion would enter the Principate soon enough, a  Principate weakened by war. Prince Cordelia might put her faith in the  alliances she had bargained for, but an alliance of victors was like a  hearth in summer. The diminished and defeated found no friends, only  hungry dogs. 
+>> 
+>> Probably won't be in this book, but it's likely going to happen after the Crusade.
 
->>> **u/werafdsaew** [+3] *
+>>> **u/werafdsaew** [+4]  (16 hours later)
 >>> 
 >>> That's not an invasion of the Principate.  That's Levant's contribution to the crusade.
->>> 
 
->>>> **u/AurelianoTampa** [+1] *
+>>>> **u/AurelianoTampa** [+1]  (a day later)
 >>>> 
 >>>> Wow, you're right, I totally misread that! Granted, it seems like he's afraid that their armies could turn on Procer if it's weakened, but yeah, my bad!
->>>> 
 
->> **u/rumblestiltsken** [+1] *
+>> **u/rumblestiltsken** [+1]  (20 hours later)
 >> 
 >> There is no way that demon is dealt with, the heroes would remember dealing with it. It is lurking and eating, presumably.
->> 
 
-> **u/paradoxinclination** [+8] *
+> **u/paradoxinclination** [+7]  (39 minutes later)
 > 
 > This is now the third time that Cat has shown the heroes her heels. It makes sense given her goals, but damned if I'm not looking forward to Catherine finding an enemy that she can kill with a clean conscience.
-> 
 
->> **u/IDKWhoitis** [+9] *
+>> **u/IDKWhoitis** [+9]  (3 hours later)
 >> 
 >> If Saint picks the stupid fight, I think we got a winner.
->> Saint be forced to make a desperate gamble, because if this Northern expedition fails, so does the Tenth Crusade. And its been established that this is her last one.
 >> 
+>> Saint be forced to make a desperate gamble, because if this Northern expedition fails, so does the Tenth Crusade. And its been established that this is her last one.
 
->>> **u/akaltyn** [+3] *
+>>> **u/akaltyn** [+3]  (12 hours later)
 >>> 
 >>> > if this Northern expedition fails, so does the Tenth Crusade.
->>> Does it? There are other ways they can reach Praes, albeit probably in smaller numbers, especially if Cat is willing to allow them passage
 >>> 
+>>> Does it? There are other ways they can reach Praes, albeit probably in smaller numbers, especially if Cat is willing to allow them passage
 
->>>> **u/IDKWhoitis** [+5] *
+>>>> **u/IDKWhoitis** [+5]  (13 hours later)
 >>>> 
 >>>> The Northern passage was one of  Hasenbachs trump cards. If the army is turned back, and sealed off, then the Vales are the only option. Short of White Knight and Iron Prince breaking Black, the crusade is pretty screwed.
->>>> Black may "lose" to White (thus gaining narrative weight to do something downright brutal later on). But White vs Cat, its more likely that White dies rather than Cat in that confrontation.
->>>> This is excluding Dead King opening up a 3rd front, which will end this crusade rather brutally. I can totally see Black and Cat teaming up with Crusaders to shut him down, since even Black fears that particular abomination.
 >>>> 
+>>>> Black may "lose" to White (thus gaining narrative weight to do something downright brutal later on). But White vs Cat, its more likely that White dies rather than Cat in that confrontation.
+>>>> 
+>>>> This is excluding Dead King opening up a 3rd front, which will end this crusade rather brutally. I can totally see Black and Cat teaming up with Crusaders to shut him down, since even Black fears that particular abomination.
 
->>>>> **u/akaltyn** [+1] *
+>>>>> **u/akaltyn** [+1]  (22 hours later)
 >>>>> 
 >>>>> > Short of White Knight and Iron Prince breaking Black, the crusade is pretty screwed.
->>>>> If they were to retreat and regroup now they could also send Saint and Pilgrim against black, which would be a significant advantage
 >>>>> 
+>>>>> If they were to retreat and regroup now they could also send Saint and Pilgrim against black, which would be a significant advantage
 
->>>>>> **u/IDKWhoitis** [+3] *
+>>>>>> **u/IDKWhoitis** [+3]  (23 hours later)
 >>>>>> 
 >>>>>> We return to the point of finite doom. Black would probably be able to twist fates arm into letting him kill one or two of the legends, and then maybe escape the consquences by being forced from the Vales, a token defeat. 
->>>>>> While not ideal, allowing the legions to fight in seiges and open field was what they were made to do. The crusade has lots of manpower, but is not infinite. Even if they pushed the front back, all the way to Praes, Malica has already made it clear she will make the Dead King mobilize if she feels threatened. 
->>>>>> The crusade will continue if they are forced from the northern pass, but it will not be able to pull off a victory, even in the long term.
 >>>>>> 
+>>>>>> While not ideal, allowing the legions to fight in seiges and open field was what they were made to do. The crusade has lots of manpower, but is not infinite. Even if they pushed the front back, all the way to Praes, Malica has already made it clear she will make the Dead King mobilize if she feels threatened. 
+>>>>>> 
+>>>>>> The crusade will continue if they are forced from the northern pass, but it will not be able to pull off a victory, even in the long term.
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+7]  *We are the Empire.* (2 hours later)
 > 
 > Is there any way the Procer army can do anything but surrender?
-> Heroes aside, they're absolutely screwed. They're in the middle of nowhere, with no food left, and the nearest city is... a week of march away, I think? That's leaving aside that Cat can make a series of fortification on the crusaders' path to force them to stay in battle formation and slow them down, without ever engaging them, thanks to the Arcadia gates. And even if they reach Hedges, they have to siege the city (which they clearly don't have the manpower or time to do) before they can claim any supplies.
-> They're super duper done.
 > 
+> Heroes aside, they're absolutely screwed. They're in the middle of nowhere, with no food left, and the nearest city is... a week of march away, I think? That's leaving aside that Cat can make a series of fortification on the crusaders' path to force them to stay in battle formation and slow them down, without ever engaging them, thanks to the Arcadia gates. And even if they reach Hedges, they have to siege the city (which they clearly don't have the manpower or time to do) before they can claim any supplies.
+> 
+> They're super duper done.
 
->> **u/PotentiallySarcastic** [+4] *
+>> **u/PotentiallySarcastic** [+5]  (10 hours later)
 >> 
 >> Heroic last charge to try and defeat the evil Queen? Noble sacrifice is a big story beat.
->> 
 
->>> **u/CouteauBleu** [+4]  *We are the Empire.**
+>>> **u/CouteauBleu** [+4]  *We are the Empire.* (10 hours later)
 >>> 
 >>> Yeah, but it's not like they can sacrifice hard enough to solve the food problem. Or even stop the Army of Callow from retreating to Hedges.
->>> 
 
->>>> **u/PotentiallySarcastic** [+8] *
+>>>> **u/PotentiallySarcastic** [+8]  (10 hours later)
 >>>> 
 >>>> No food problem if everyone's dead!
->>>> 
 
->> **u/akaltyn** [+1] *
+>> **u/akaltyn** [+1]  (12 hours later)
 >> 
 >> Even if they can't beseige the city they're still a threat roaming the countryside burning and looting
->> 
 
->>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>> **u/CouteauBleu** [+2]  *We are the Empire.* (21 hours later)
 >>> 
 >>> There's thousands of them, and they have literally no food. They can't loot fast enough to not die of starvation before they reach a population center or a granary, especially since the army of callow can stay ahead of them and apply scorched earth tactics.
->>> 
 
-> **u/Zayits** [+6] *
+> **u/Zayits** [+6]  (45 minutes later)
 > 
 > A leftover thought from the last chapter: what if all the redemption talk from Akua is the set-up for her plan to escape her bindings?
-> Diabolist seemed to genuinely consider her actions heroic, so the obvious thought is that she's trying to make herself look like a champion for the Callowan side of the conflict, either as Catherine's "follower" or as a narrative leverage to be unleashed at some point. What if she's aware of the greater scope of the coming conflict, and now aims for a redemption story and a common enemy to bring her into the resulting band of five Named? Akua has no way to know about the Witch of the Forest, since she had no previous connection to White Knight's band (or the outside world in general), and the other major practitioner Named all have their respective bands. Even if she suspects the Heavens might have propped up a mage to match Warlock at Red Flower Vales, she might have banked on them dying anyway.
-> That way, if Catherine ends up maing a truce with Procer (and tries to unseat the Empress, as Akua suspects), she can either return to Praes with a conquering army, putting herself back into prominence (maybe even as a new Chancellor, given her political connections), or fight whatever new opponents emerge, making herself indisposable.
-> I'm not saying that's a good plan, but it might look feasible from Akua's perspective. Why do you think would she make an attempt at a redemption story?
 > 
+> Diabolist seemed to genuinely consider her actions heroic, so the obvious thought is that she's trying to make herself look like a champion for the Callowan side of the conflict, either as Catherine's "follower" or as a narrative leverage to be unleashed at some point. What if she's aware of the greater scope of the coming conflict, and now aims for a redemption story and a common enemy to bring her into the resulting band of five Named? Akua has no way to know about the Witch of the Forest, since she had no previous connection to White Knight's band (or the outside world in general), and the other major practitioner Named all have their respective bands. Even if she suspects the Heavens might have propped up a mage to match Warlock at Red Flower Vales, she might have banked on them dying anyway.
+> 
+> That way, if Catherine ends up maing a truce with Procer (and tries to unseat the Empress, as Akua suspects), she can either return to Praes with a conquering army, putting herself back into prominence (maybe even as a new Chancellor, given her political connections), or fight whatever new opponents emerge, making herself indisposable.
+> 
+> I'm not saying that's a good plan, but it might look feasible from Akua's perspective. Why do you think would she make an attempt at a redemption story?
 
->> **u/TaltosDreamer** [+7] *
+>> **u/TaltosDreamer** [+7]  (an hour later)
 >> 
 >> I think her time as a broken n tortured soul has affected her.  After all, she comes from a very long line of Might Makes Right, and few are mightier than Catherine these days.
->> 
 
-> **u/over_who** [+7]  *Aleph you are going to die**
+> **u/over_who** [+8]  *Aleph you are going to die* (33 minutes later)
 > 
 > Okay, where's the story going? We have Hierophant probably being resuscitated by Cat, and the enemies regrouping. Saint and Pilgrim clearly do not want to play ball with surrender, and may break with Malanza's truce. If they go part way, why not go the whole way - start calling upon angelic powers, break their word with Cat. At that point, they are truly the villains in the story, and I expect nothing good from there on out. But what form does that take?
->  Do Saint and Pilgrim find themselves abandoned by the heavens? Unlikely, they're the big boys, and even Black, who's the antithesis of his role, has a measure of power. Heroes cheat, and I can't imagine their power failing them at a critical moment, that's far more a villain trope.
-> Do the other heroes turn on Saint and Pilgrim? Maybe part of them - I wouldn't be surprised if the younger heroes started fighting each other, or at least leaving, if Saint and Pilgrim break truce. 
-> Does Pilgrim disagree with Saint, who decides to try the reverse decapitation strike? If so, she almost certainly dies, probably to Cat + Archer.
-> Malanza will almost certainly negotiate a retreat if Saint or Pilgrim dies breaking the truce, or a sizable enough group of the younger heroes depart. The real trick will be negotiating without a failing on the other side, what's the carrot? Does Cat take them back by faerie gate? Drop them somewhere they can ravage Black's forces? Or, playing to Malanza, give her strategic information about the First Prince?
-> The real problem with all the "Saint screws up" plots is that she literally cannot fail to notice the narrative as we learned earlier, so I doubt she will be the trigger for that. But, who knows? Everybody makes mistakes.
 > 
+>  Do Saint and Pilgrim find themselves abandoned by the heavens? Unlikely, they're the big boys, and even Black, who's the antithesis of his role, has a measure of power. Heroes cheat, and I can't imagine their power failing them at a critical moment, that's far more a villain trope.
+> 
+> Do the other heroes turn on Saint and Pilgrim? Maybe part of them - I wouldn't be surprised if the younger heroes started fighting each other, or at least leaving, if Saint and Pilgrim break truce. 
+> 
+> Does Pilgrim disagree with Saint, who decides to try the reverse decapitation strike? If so, she almost certainly dies, probably to Cat + Archer.
+> 
+> Malanza will almost certainly negotiate a retreat if Saint or Pilgrim dies breaking the truce, or a sizable enough group of the younger heroes depart. The real trick will be negotiating without a failing on the other side, what's the carrot? Does Cat take them back by faerie gate? Drop them somewhere they can ravage Black's forces? Or, playing to Malanza, give her strategic information about the First Prince?
+> 
+> The real problem with all the "Saint screws up" plots is that she literally cannot fail to notice the narrative as we learned earlier, so I doubt she will be the trigger for that. But, who knows? Everybody makes mistakes.
 
->> **u/rumblestiltsken** [+4] *
+>> **u/rumblestiltsken** [+5]  (20 hours later)
 >> 
 >> No, the pilgrim is going to make Malanza attack. 
->> We already have the oath:
->> “Chosen,” the princess said. “I am in your debt for your toil. Any boon in my power to grant is yours to claim.”
->> He is going full villain and taking the principate with him. This is how we end up with the Prince's graveyard.
 >> 
+>> We already have the oath:
+>> 
+>> “Chosen,” the princess said. “I am in your debt for your toil. Any boon in my power to grant is yours to claim.”
+>> 
+>> He is going full villain and taking the principate with him. This is how we end up with the Prince's graveyard.
 
->> **u/None** [+7] *
+>> **u/None** [+7]  (2 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/IDKWhoitis** [+18] *
+>>> **u/IDKWhoitis** [+19]  (3 hours later)
 >>> 
 >>> They see that in the long term, it will cause less "suffering" if Cat is dead and Callow reverts back to good. Never mind that the Crusade itself will cause thousands of deaths and return Callow to the endless cycle of war and struggle. As long as Callow is "good" again, balance is restored, and will cause less suffering over the long term.
-
->>> The pilgrim isnt so much blind, as just as willing to burn callow to save it from a (subjectively) worse state. Maybe he knows something we dont. 
->>> Maybe he's just another heroic dick.
 >>> 
+>>> The pilgrim isnt so much blind, as just as willing to burn callow to save it from a (subjectively) worse state. Maybe he knows something we dont. 
+>>> 
+>>> Maybe he's just another heroic dick.
 
->>>> **u/akaltyn** [+14] *
+>>>> **u/akaltyn** [+14]  (12 hours later)
 >>>> 
 >>>> To think about it from their point of view, if in 1945 the nazis had agreed to cease hostilities provided they were left alone to do whatever they liked within their borders, should the allies have agreed? From the perspective of the Heroes the Evil side as the literal physical embodiment of all that is wrong with the world, and their continued presence would allow that horror to deepen and spread. We as semiobjective leaders might think they are wrong in that assessment, but from their perspective it makes perfect sense
->>>> 
 
->>>> **u/PotentiallySarcastic** [+3] *
+>>>> **u/PotentiallySarcastic** [+3]  (10 hours later)
 >>>> 
 >>>> The third option is he isn't seeing the the new narrative forming behind Black's actions. Which is entirely reasonable as Black is basically trying to shatter the entire Narrativum of the world.
->>>> Perhaps this is the beginning edges of Black's goal of "World of Grey"
 >>>> 
+>>>> Perhaps this is the beginning edges of Black's goal of "World of Grey"
 
-> **u/Ardvarkeating101** [+5]  *Father of Learning**
+> **u/Ardvarkeating101** [+6]  *Father of Learning* (16 minutes later)
 > 
 > Can you consider it blue balls if it they get tighter every goddamn update?  You’re worse than /u/nobody103
-> 
 
-> **u/sparr** [+1] *
+> **u/sparr** [+1]  (19 hours later)
 > 
 > When did the saint and pilgrim get back from the middle of the marsh fight with akua to the middle of their own battle lines to guard malanza?
-> 
 
->> **u/Zayits** [+1] *
+>> **u/Zayits** [+1]  (a day later)
 >> 
 >> I think this is the same Name trick that allowed Grey Pilgrim to get to dying hero's side in the nick of time in [chapter 15](https://practicalguidetoevil.wordpress.com/2018/05/18/chapter-15-bravura/):
->> > I almost missed it, because it wasn’t flashy. It was just a low ripple, a murmur of power. But my senses were no longer a mortal’s, so my eyes flicked to the hero I’d killed. At his side knelt an old man in grey robes, who gently took out the knife.
->> The reason I think so is because in this chapter Pilgrim is the one looking exausted:
->> > He was down there, as I’d suspected. Leaning on his staff, the Saint of Swords by his side and waiting patiently for me to gain enough momentum I wouldn’t be able to pull out of the dive when she struck.
 >> 
+>> > I almost missed it, because it wasn’t flashy. It was just a low ripple, a murmur of power. But my senses were no longer a mortal’s, so my eyes flicked to the hero I’d killed. At his side knelt an old man in grey robes, who gently took out the knife.
+>> 
+>> The reason I think so is because in this chapter Pilgrim is the one looking exausted:
+>> 
+>> > He was down there, as I’d suspected. Leaning on his staff, the Saint of Swords by his side and waiting patiently for me to gain enough momentum I wouldn’t be able to pull out of the dive when she struck.
 
-> **u/signeti** [-3] *
+> **u/signeti** [-2]  (2 hours later)
 > 
 > I really dislike Cat in this last book. In previous books she has shown willingness and ruthlessness to do whatever necessary to overcome her enemies, but now facing overwhelming enemy force, she just balks and acts with kids gloves? She acts like hero would act, but she is not hero, she is villain.
-> What is her end game? Does she somehow plan to force Procer to truce? They repeatedly shown, that they will not leave villain on the throne. Even if she convinces Malanza to retreat, I seriously doubt heroes will as well.
 > 
+> What is her end game? Does she somehow plan to force Procer to truce? They repeatedly shown, that they will not leave villain on the throne. Even if she convinces Malanza to retreat, I seriously doubt heroes will as well.
 
->> **u/Nic_Cage_DM** [+18] *
+>> **u/Nic_Cage_DM** [+19]  (2 hours later)
 >> 
 >> Her end game is to force the invading army to retreat without killing too many of them or using any scary doomsday weapons that would stop Procer from negotiating a peace.
->> >they will not leave villain on the throne
->> They certainly will if she shows that they are incapable of forcing her off it without unacceptable losses.
 >> 
+>> >they will not leave villain on the throne
+>> 
+>> They certainly will if she shows that they are incapable of forcing her off it without unacceptable losses.
 
->>> **u/None** [+4] *
+>>> **u/None** [+5]  (2 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Nic_Cage_DM** [+14] *
+>>>> **u/Nic_Cage_DM** [+13]  (3 hours later)
 >>>> 
 >>>> She's already done it...
->>>> The Procerans just accepted a truce to discuss the terms of their retreat.
 >>>> 
+>>>> The Procerans just accepted a truce to discuss the terms of their retreat.
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (4 hours later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/Nic_Cage_DM** [+11] *
+>>>>>> **u/Nic_Cage_DM** [+11]  (4 hours later)
 >>>>>> 
 >>>>>> I think at this point it's pretty clear Malanza doesn't think she can win an invasion of Callow, and even if by some miracle she did, they wouldn't be able to complete their strategic objective of encircling Black.
->>>>>> 
 
->>> **u/signeti** [+1] *
+>>> **u/signeti** [+1]  (3 hours later)
 >>> 
 >>> You both points contradict each other. If she wants to secure her position and showing Proceans that any conflict would be costly, she should be trying to inflict as much damage as possible. And I don't mean use doomsday weapons or some such. But she is holding back on all fronts.
->>> 
 
->>>> **u/Nic_Cage_DM** [+11] *
+>>>> **u/Nic_Cage_DM** [+11]  (3 hours later)
 >>>> 
 >>>> thats covered in earlier chapters; shes explained why she doesn't want to kill them all, even using conventional means. If she kills everyone then prince whats-her-name is put in too precarious of a position (in internal proceran politics) to engage in diplomacy with villain-led callow.
->>>> If instead a retreat comes about because the invading army decides it can no longer commit to the campaign (as has already happened) it puts Cat in a position to diplomatically treat with procer to not only resolve this conflict, but at the same time use procer as leverage against the Tower
->>>> She's making tactical concessions in favour of strategic goals.
 >>>> 
+>>>> If instead a retreat comes about because the invading army decides it can no longer commit to the campaign (as has already happened) it puts Cat in a position to diplomatically treat with procer to not only resolve this conflict, but at the same time use procer as leverage against the Tower
+>>>> 
+>>>> She's making tactical concessions in favour of strategic goals.
 
->>>>> **u/signeti** [+3] *
+>>>>> **u/signeti** [+3]  (3 hours later)
 >>>>> 
 >>>>> Your very first paragraph is what does not make sense to me in the setting. How exactly suffering heavy loses or even crippling blow would make Procer more unwilling to consider peace? 
->>>>> They are quite politically fragmented and they are only able to wage Crusade because First Prince united nobles with military strength. Collapse (or wipe) of the Procean armed forces in Callow would weaken First Princes position and could lead to another civil war in Procer. It has been also shown several times, that Procer can't wage protracted war and can't afford heavy loses.
->>>>> So the strategic decision to limit their loses does not seem sound to me. How does that make Procer more likely to negotiate peace?
 >>>>> 
+>>>>> They are quite politically fragmented and they are only able to wage Crusade because First Prince united nobles with military strength. Collapse (or wipe) of the Procean armed forces in Callow would weaken First Princes position and could lead to another civil war in Procer. It has been also shown several times, that Procer can't wage protracted war and can't afford heavy loses.
+>>>>> 
+>>>>> So the strategic decision to limit their loses does not seem sound to me. How does that make Procer more likely to negotiate peace?
 
->>>>>> **u/notsureiflying** [+7] *
+>>>>>> **u/notsureiflying** [+6]  (5 hours later)
 >>>>>> 
 >>>>>> You should Re read some chapter before the invading army arrives.   
 >>>>>> If the political figures leading this invasion were to be slaughtered it would mean that the Proceran would have a righteous reason to strengthen the Crusade. 
->>>>>> Also they (Malanza and Co) are the strongest political rivals to the first prince, so having them dead would effectively remove the core of policial resistance within Procer.
 >>>>>> 
+>>>>>> Also they (Malanza and Co) are the strongest political rivals to the first prince, so having them dead would effectively remove the core of policial resistance within Procer.
 
->>>>>>> **u/signeti** [+1] *
+>>>>>>> **u/signeti** [+1]  (5 hours later)
 >>>>>>> 
 >>>>>>> I'm not sure what you mean by them having reason to strengthen Crusade. Its Crusade. They are already sending everything they can. Except some units on borders with Free Cities and Chain of Hunger (and Kingdom of Dead? I'm not sure how that one works). And they can't pull those.
->>>>>>> You have a point about princes, but she could kill army and leave Prince to retreat home.
 >>>>>>> 
+>>>>>>> You have a point about princes, but she could kill army and leave Prince to retreat home.
 
->>>>>>>> **u/notsureiflying** [+7] *
+>>>>>>>> **u/notsureiflying** [+10]  (6 hours later)
 >>>>>>>> 
 >>>>>>>> https://practicalguidetoevil.wordpress.com/2018/04/18/chapter-3-chat/
->>>>>>>> Re-read this bit here, it'll be a bit clearer why Cat is acting the way she is.
->>>>>>>> Also this, on the next chapter
->>>>>>>> > “We can’t slaughter fifty thousand Procerans,” I flatly said. “Aside from the brutal bounding our manpower would take in achieving that, it’d be impossible to make peace with Hasenbach afterwards.”
->>>>>>>> >“Hasenbach’s invading us,” the Hellhound retorted. “The high horse stops being that when you ride it to war. If she doesn’t want dead soldiers, she has no business sending them to the field.”
->>>>>>>> >I knew that in speaking that she spoke as an orc. She had the bone-deep conviction that no one with a sword in hand had the right of complaining about death. And there was a lot about that way of looking at the world that appealed to me even now. But that was a seductive simplicity that’d become the kind of luxury I could no longer afford. If I offed half a hundred thousand Procerans, the Principate would be fighting this to the bitter end. The First Prince might very well get deposed if she suggested otherwise. I had to defeat the crusaders, force them out of Callow, but it couldn’t be a massacre. Assuming I could even deliver one of those, which was quite an assumption given the number of Named on the other side.
 >>>>>>>> 
+>>>>>>>> Re-read this bit here, it'll be a bit clearer why Cat is acting the way she is.
+>>>>>>>> 
+>>>>>>>> Also this, on the next chapter
+>>>>>>>> 
+>>>>>>>> > “We can’t slaughter fifty thousand Procerans,” I flatly said. “Aside from the brutal bounding our manpower would take in achieving that, it’d be impossible to make peace with Hasenbach afterwards.”
+>>>>>>>> 
+>>>>>>>> >“Hasenbach’s invading us,” the Hellhound retorted. “The high horse stops being that when you ride it to war. If she doesn’t want dead soldiers, she has no business sending them to the field.”
+>>>>>>>> 
+>>>>>>>> >I knew that in speaking that she spoke as an orc. She had the bone-deep conviction that no one with a sword in hand had the right of complaining about death. And there was a lot about that way of looking at the world that appealed to me even now. But that was a seductive simplicity that’d become the kind of luxury I could no longer afford. If I offed half a hundred thousand Procerans, the Principate would be fighting this to the bitter end. The First Prince might very well get deposed if she suggested otherwise. I had to defeat the crusaders, force them out of Callow, but it couldn’t be a massacre. Assuming I could even deliver one of those, which was quite an assumption given the number of Named on the other side.
 
->>>>>>>>> **u/signeti** [+3] *
+>>>>>>>>> **u/signeti** [+3]  (7 hours later)
 >>>>>>>>> 
 >>>>>>>>> I understand why she is acting that way and I remember this part. It also does not make sense to me. If she cripple their armies, what are they going to fight to bitter end with? They would have to raise more levies, basically crippling their economy. 
->>>>>>>>> Procer can't afford to fight protracted war. First Prince herself said in one of the preludes that they have to finish in two years. They have Chain of Hunger, Dead King and Free Cities to be vary of.
->>>>>>>>> How forcing Proceans out of the Callow without destroying their army is aligned with possibility of peace? What prevents them from coming next year again?
 >>>>>>>>> 
+>>>>>>>>> Procer can't afford to fight protracted war. First Prince herself said in one of the preludes that they have to finish in two years. They have Chain of Hunger, Dead King and Free Cities to be vary of.
+>>>>>>>>> 
+>>>>>>>>> How forcing Proceans out of the Callow without destroying their army is aligned with possibility of peace? What prevents them from coming next year again?
 
->>>>>>>>>> **u/notsureiflying** [+5] *
+>>>>>>>>>> **u/notsureiflying** [+4]  (7 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> The army invading Callow is a fraction of their total power, isn't it?
->>>>>>>>>> 
 
->>>>>>>>>>> **u/signeti** [+3] *
+>>>>>>>>>>> **u/signeti** [+3]  (7 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> No, unless I missed something, its all of their army. I will check the prologues again when I'm home from work. I think in prologue First Prince mentioned that they will leave 20k troops at Free Cities borders and some troops at borders with Chain of Hunger and Dead King, but thats it.
->>>>>>>>>>> Also First Prince mentioned that there is too many fantassins as leftover of civil wars in Procer so they sent most of them.
 >>>>>>>>>>> 
+>>>>>>>>>>> Also First Prince mentioned that there is too many fantassins as leftover of civil wars in Procer so they sent most of them.
 
->>>>>>>>>>>> **u/notsureiflying** [+4] *
+>>>>>>>>>>>> **u/notsureiflying** [+4]  (7 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> It was a rhetorical question, this army is FAR from their total.    
 >>>>>>>>>>>> They're sending a bunch to deal with Black and some to clear Callow.
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/signeti** [+1] *
+>>>>>>>>>>>>> **u/signeti** [+1]  (7 hours later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Its not FAR from their total. They sent 50k against Cat and 50k against Black. Another army will disembark in Praes and thats it.
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/Eldrene_Ay_Ellan** [+4] *
+>>>>>>>>>>>>>> **u/Eldrene_Ay_Ellan** [+4]  (7 hours later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> There have been no Levantine armies so far, as I understand it those are still on the way. Cat cannot win this war by killing all that stand against her, she needs to be able to sue for peace
->>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>> **u/signeti** [+1] *
+>>>>>>>>>>>>>>> **u/signeti** [+1]  (8 hours later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Hmm, I was under impression that Levantine army was already folded into Crusader army. Otherwise I can't see, how Procer could put together 100k troops on their own. Even medieval England and France rarely fielded more than 20k troops.
->>>>>>>>>>>>>>> How can Cat sure for peace? She is villain. Procer is rigorously "Good" nation and part of coalition. I dont think there is a way to make peace without something drastic deeds from her side. If she does not destroy their armies, what prevents Procer to just pull back, replentish troops and be back next year?
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> How can Cat sure for peace? She is villain. Procer is rigorously "Good" nation and part of coalition. I dont think there is a way to make peace without something drastic deeds from her side. If she does not destroy their armies, what prevents Procer to just pull back, replentish troops and be back next year?
 
->>>>>>>>>> **u/cyberdsaiyan** [+3] *
+>>>>>>>>>> **u/cyberdsaiyan** [+3]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> You're missing two points here.
->>>>>>>>>> Cat doesn't think she can actually massacre an entire army of disposables without the **twelve** heroes that are with them getting significant narrative advantage, likely ending the story with Cat dead and Callow folded into Procer (for another 100 years at least). This is precisely why she was adamantly against Hellhound's "bonfire" plan, as it would have similar results.
->>>>>>>>>> Second is that even if she managed to massacre the army and the heroes and everyone with them, she is at a significant disadvantage politically.
->>>>>>>>>> 1. Once again, a massacre on that scale is a huge ass target on her back for the heavens. Heroes will starts popping up everywhere, causing costly local rebellions and forcing cat to kill more of "her" people. Not what she wants.
->>>>>>>>>> 2. Once Procer is no longer a credible threat, Malicia gets a *lot* more leeway. The reason she isn't helping or hurting Cat now is the same thing, she wants Procer and Cat to eat each other. Cat wants the same of both her enemies i.e. Procer and the Empress. Which is why if she massacres the Procerans (only with quite a lot of losses on her side since she's outnumbered in Named and regulars) she would be playing right into the hands of the Empress.
->>>>>>>>>> 3. There are still some wild cards that are in play, biggest of which are the tyrant and hierarch. Cat honestly doesn't know what the hell he wants. Same with Black. You have to realise she's *surrounded* by potential enemies, all of whom are perfectly willing to eat her up if she shows weakness. And losing a significant part of her army taking down an enemy to *both* of them, well she would become a tempting target.
 >>>>>>>>>> 
+>>>>>>>>>> Cat doesn't think she can actually massacre an entire army of disposables without the **twelve** heroes that are with them getting significant narrative advantage, likely ending the story with Cat dead and Callow folded into Procer (for another 100 years at least). This is precisely why she was adamantly against Hellhound's "bonfire" plan, as it would have similar results.
+>>>>>>>>>> 
+>>>>>>>>>> Second is that even if she managed to massacre the army and the heroes and everyone with them, she is at a significant disadvantage politically.
+>>>>>>>>>> 
+>>>>>>>>>> 1. Once again, a massacre on that scale is a huge ass target on her back for the heavens. Heroes will starts popping up everywhere, causing costly local rebellions and forcing cat to kill more of "her" people. Not what she wants.
+>>>>>>>>>> 
+>>>>>>>>>> 2. Once Procer is no longer a credible threat, Malicia gets a *lot* more leeway. The reason she isn't helping or hurting Cat now is the same thing, she wants Procer and Cat to eat each other. Cat wants the same of both her enemies i.e. Procer and the Empress. Which is why if she massacres the Procerans (only with quite a lot of losses on her side since she's outnumbered in Named and regulars) she would be playing right into the hands of the Empress.
+>>>>>>>>>> 
+>>>>>>>>>> 3. There are still some wild cards that are in play, biggest of which are the tyrant and hierarch. Cat honestly doesn't know what the hell he wants. Same with Black. You have to realise she's *surrounded* by potential enemies, all of whom are perfectly willing to eat her up if she shows weakness. And losing a significant part of her army taking down an enemy to *both* of them, well she would become a tempting target.
 
->>>>>>>>>>> **u/signeti** [+1] *
+>>>>>>>>>>> **u/signeti** [+1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> You bring good points. I guess I just can't imagine anything more serious than Holy Crusade of several nations against her with dozen of heroes. I don't really see how it could escalate from there. That's why I don't like her holding back on anything. She already has huge target for heavens on her back and heroes are already poping everywhere.
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/cyberdsaiyan** [+2] *
+>>>>>>>>>>>> **u/cyberdsaiyan** [+2]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> For the majority of the crusaders, the Black Queen is the minor of the threats (at least that's the feeling I get) since the crusade's objective is to destroy whoever has the know how to create the hellgate machine. If Catherine can prove to the crusaders that she is a reasonable ruler and that Procer has more to gain by her being in power, that would be a huge political victory. Which is why she made rules of war with the Pilgrim and offered to ship them directly to the empress' door. She meant it too, but then they couldn't really promise to *not* invade Callow even if she is doing all this, since a minor threat is still a threat. So that's why they're fighting the fight.
->>>>>>>>>>>> You also have to remember that the tropes are heavily favoured against Cat. She is a recently crowned Evil Queen who has never been beaten in a battle, and the heroes are combining their powers to try and beat her (as a sidequest).
->>>>>>>>>>>> If her actions are that of a powerful villain, wreaking havoc everywhere on the Named, then the time would be ripe for a heroic sacrifice by the Saint and/or Grey Pilgrim to stop her, and then a newly empowered hero would finish her off.
->>>>>>>>>>>> But if she is a reasonable figure, prompting the ending of bloodshed every time there's a chance, suing for peace etc. then the heroes will become villanous, ganging up on the peace loving Queen. Cat is fae right now, so it's possible that she might be able to play both sides of the coin (which may be why the heavens got pissed at her and sent a crusade).
 >>>>>>>>>>>> 
+>>>>>>>>>>>> You also have to remember that the tropes are heavily favoured against Cat. She is a recently crowned Evil Queen who has never been beaten in a battle, and the heroes are combining their powers to try and beat her (as a sidequest).
+>>>>>>>>>>>> 
+>>>>>>>>>>>> If her actions are that of a powerful villain, wreaking havoc everywhere on the Named, then the time would be ripe for a heroic sacrifice by the Saint and/or Grey Pilgrim to stop her, and then a newly empowered hero would finish her off.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> But if she is a reasonable figure, prompting the ending of bloodshed every time there's a chance, suing for peace etc. then the heroes will become villanous, ganging up on the peace loving Queen. Cat is fae right now, so it's possible that she might be able to play both sides of the coin (which may be why the heavens got pissed at her and sent a crusade).
 
->>>>>> **u/Nic_Cage_DM** [+2] *
+>>>>>> **u/Nic_Cage_DM** [+2]  (5 hours later)
 >>>>>> 
 >>>>>> She doesn't want Procer fragmented. If that happened then not only could they not be used against Malicia, but it would also mean Malicia had no further use for Cat in the defence of Praes's borders.
->>>>>> >I had the the skeleton of the Liesse Accords on parchment. Now I just had to make sure everyone else in this mess was ready to sign them, and that was a different beast.
->>>>>> >Malicia, I knew, never would agree. That meant Malicia had to go, sooner or later
->>>>>> - Chapter 5
->>>>>> >How does that make Procer more likely to negotiate peace?
->>>>>> If she pisses off too many of Procers nobility by slaughtering an entire army, then it becomes politically unviable for the first prince to negotiate at all.
 >>>>>> 
+>>>>>> >I had the the skeleton of the Liesse Accords on parchment. Now I just had to make sure everyone else in this mess was ready to sign them, and that was a different beast.
+>>>>>> 
+>>>>>> >Malicia, I knew, never would agree. That meant Malicia had to go, sooner or later
+>>>>>> 
+>>>>>> - Chapter 5
+>>>>>> 
+>>>>>> >How does that make Procer more likely to negotiate peace?
+>>>>>> 
+>>>>>> If she pisses off too many of Procers nobility by slaughtering an entire army, then it becomes politically unviable for the first prince to negotiate at all.
 
->>>>>>> **u/signeti** [+1] *
+>>>>>>> **u/signeti** [+1]  (5 hours later)
 >>>>>>> 
 >>>>>>> How does that make it nonviable to negotiate? If she destroys army, what else can they do? In the moment army is dead and there is nothing between army of Callows and Procean cities, what else could they do?
->>>>>>> I'm also not sure what would have to happen for Cat to be able to use Proceans against Praes. I can't imagine what would have to happen for such rigorously "Good" nation to not only suffer existence of kingdom lead by villain on their borders, but to actively work with that villain?
 >>>>>>> 
+>>>>>>> I'm also not sure what would have to happen for Cat to be able to use Proceans against Praes. I can't imagine what would have to happen for such rigorously "Good" nation to not only suffer existence of kingdom lead by villain on their borders, but to actively work with that villain?
 
 ---
 

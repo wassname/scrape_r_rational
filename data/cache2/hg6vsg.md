@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/Nagadac** [+3]  *Challenge Winner**
+> **u/Nagadac** [+3]  *Challenge Winner* (3 hours later)
 > 
 > This is my second book of four so far, over the last few years. I have Aspergers and I'm not especially good at marketing or promoting, and I only just started posting regularly, beyond a few short stories (Like the one that won the last contest)
-> The Whispering Light is an original fiction centred around morality, difficult choices and exploring relationships between humans and non-human entities. It is not strictly rational, but my writing style absolutely tends towards it.
-> If anyone is interested in my writing, has any feedback or maybe has some advice for better getting my work out there, I'd appreciate any and all responses.
 > 
+> The Whispering Light is an original fiction centred around morality, difficult choices and exploring relationships between humans and non-human entities. It is not strictly rational, but my writing style absolutely tends towards it.
+> 
+> If anyone is interested in my writing, has any feedback or maybe has some advice for better getting my work out there, I'd appreciate any and all responses.
 
->> **u/GreenSatyr** [+3] *
+>> **u/GreenSatyr** [+3]  (a day later)
 >> 
 >> Re: marketing- This is a bit of a dark side tactic but I recommend spacing out your chapter updates rather than putting out multiple chapters all at once (including spacing out reddit posts). it's more psychologically addictive if updates are frequent and smaller, and prevents forgetting about the story.
->> 
 
 ---
 

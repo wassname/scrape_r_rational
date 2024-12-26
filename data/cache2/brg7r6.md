@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/05/21/interlude-iv-evoke/
-* Score: 16
+* Score: 17
 
 * Created: 2019-05-21T21:32:01
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/onlynega** [+2] *
+> **u/onlynega** [+2]  (20 hours later)
 > 
 > ADHD with magic Ritalin. I like it.
-> 
 
 ---
 

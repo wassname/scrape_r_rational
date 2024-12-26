@@ -22,39 +22,49 @@ As always, all comments are appreciated and deeply considered; my PMs are open a
 
 ### Comments:
 
-> **u/Tender_Luminary** [+5] *
+> **u/Tender_Luminary** [+4]  (9 hours later)
 > 
 > Been pulling together some supplementary material. Here's some Imgur galleries of the main characters, including some interesting angles and deeper sources:
-> [Banjo the Bear](https://imgur.com/a/iapCDWB)
-> [Bottles the Mole](https://imgur.com/a/2L1CkTU)
-> [Golden Jigsaws](https://imgur.com/a/dQuYgPV)
-> [Tooty the Bear](https://imgur.com/a/cIdo7oz)
-> [Gruntilda the Witch](https://imgur.com/a/X0hgku8)
-> [Wizpig the Space Genie](https://imgur.com/a/VywgBA6)
-> [Mumbo Jumbo the XXXXX (Jublin?)](https://imgur.com/a/XslwdJF)
-> &#x200B;
-> Any suggestions for additions to this kind of thing are welcome too
 > 
+> [Banjo the Bear](https://imgur.com/a/iapCDWB)
+> 
+> [Bottles the Mole](https://imgur.com/a/2L1CkTU)
+> 
+> [Golden Jigsaws](https://imgur.com/a/dQuYgPV)
+> 
+> [Tooty the Bear](https://imgur.com/a/cIdo7oz)
+> 
+> [Gruntilda the Witch](https://imgur.com/a/X0hgku8)
+> 
+> [Wizpig the Space Genie](https://imgur.com/a/VywgBA6)
+> 
+> [Mumbo Jumbo the XXXXX (Jublin?)](https://imgur.com/a/XslwdJF)
+> 
+> &#x200B;
+> 
+> Any suggestions for additions to this kind of thing are welcome too
 
->> **u/Tender_Luminary** [+3] *
+>> **u/Tender_Luminary** [+3]  (10 hours later)
 >> 
 >> Worlds
->> [Spiral Mountain](https://imgur.com/a/4iw2Fdj)
->> [Mumbo's Mountain](https://imgur.com/a/vqz8IS3)
->> [Treasure Trove Cove](https://imgur.com/a/wGaU3jq)
->> [Gobi's Valley](https://imgur.com/a/RGkmOXm)
 >> 
+>> [Spiral Mountain](https://imgur.com/a/4iw2Fdj)
+>> 
+>> [Mumbo's Mountain](https://imgur.com/a/vqz8IS3)
+>> 
+>> [Treasure Trove Cove](https://imgur.com/a/wGaU3jq)
+>> 
+>> [Gobi's Valley](https://imgur.com/a/RGkmOXm)
 
-> **u/Tender_Luminary** [+4] *
+> **u/Tender_Luminary** [+4]  (11 hours later)
 > 
 > [Annotated Timeline of Games Referenced](https://imgur.com/4Z2kDCn)
-> This is the currently relevant timeline up to Banjo-Kazooie with quotes from the text. It's not very accessible just motioning you towards the rabbit hole so here's a simple, visual format of the obscurant exposition that doesn't frontload too severely
 > 
+> This is the currently relevant timeline up to Banjo-Kazooie with quotes from the text. It's not very accessible just motioning you towards the rabbit hole so here's a simple, visual format of the obscurant exposition that doesn't frontload too severely
 
-> **u/Tender_Luminary** [+3] *
+> **u/Tender_Luminary** [+3]  (34 minutes later)
 > 
 > [My Introductory Rationalist Fiction Thesis](https://www.reddit.com/r/rational/comments/hzsi13/tender_luminarys_rationalist_thesis/)
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/7564811/
-* Score: 16
+* Score: 14
 
 * Created: 2016-12-30T23:27:02
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (a day later)
 > 
 > Yet another brilliant chapter, /u/Velorien.  The part with Mari and Akane got me right in the feels and Hazō and Akane talking was adorable.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Luminnaran  *Prophet of Asmodeus**
 * URL: https://www.reddit.com/r/rational/comments/3yvaqc/bst_rational_power_rings/
-* Score: 7
+* Score: 5
 
 * Created: 2015-12-31T03:40:50
 
@@ -19,74 +19,79 @@ My questions too you guys are does this seem like it could be an interesting sto
 
 ### Comments:
 
-> **u/alexanderwales** [+11]  *Time flies like an arrow**
+> **u/alexanderwales** [+11]  *Time flies like an arrow* (an hour later)
 > 
 > I guess I don't know enough about Lantern lore to know about good/evil alignment. I had just assumed that the "emotional spectrum" was alignment neutral, similar to how the characters in Inside Out are alignment neutral (there it's Joy, Sadness, Disgust, Fear, and Anger). Placing emotions on an alignment axis seems ... artificial to me, and I think I'd like it better as a long-standing alliance of convenience than something true to the universe.
-> I'm most curious about the replacement of Fear with Apathy. The canon counter to Fear is Willpower, but maybe something like "Caution" or "Hesitance" would be a better opposite than Apathy? Also, how does "Control" differ from "Willpower"?
-> Edit: As a general comment, I think reducing the DC universe down to one particular element is usually a good thing, since it allows for far greater consistency and a better exploration of whatever your thesis is. If you're just taking the Kitchen Sink world that is DC, there are too many questions that need answering and too many complicating factors.
 > 
+> I'm most curious about the replacement of Fear with Apathy. The canon counter to Fear is Willpower, but maybe something like "Caution" or "Hesitance" would be a better opposite than Apathy? Also, how does "Control" differ from "Willpower"?
+> 
+> Edit: As a general comment, I think reducing the DC universe down to one particular element is usually a good thing, since it allows for far greater consistency and a better exploration of whatever your thesis is. If you're just taking the Kitchen Sink world that is DC, there are too many questions that need answering and too many complicating factors.
 
->> **u/JackStargazer** [+6]  *Primordial Apologist**
+>> **u/JackStargazer** [+5]  *Primordial Apologist* (a day later)
 >> 
 >> >The canon counter to Fear is Willpower
+>> 
 >> Actually, depending on where you are in the continuity it's the other way round.
+>> 
 >> Generally the opposed Lights were 
+>> 
 >> * Red (Anger) Violet (Love)
 >> * Orange (Avarice) Indigo (Compassion)
 >> * Yellow (Fear) Blue (Hope)
->> With Green (Will) in the middle, effected in different ways by different colors, but generally being the most balanced.
 >> 
+>> With Green (Will) in the middle, effected in different ways by different colors, but generally being the most balanced.
 
->> **u/Luminnaran** [+1]  *Prophet of Asmodeus**
+>> **u/Luminnaran** [+1]  *Prophet of Asmodeus* (6 hours later)
 >> 
 >> The idea of an alliance rather than it simply being the way the universe works seems like it could be good. It might be a good idea to simply scrub the idea of white and black lanterns and have the people with these rings simply gain these two different philosophies own their own. And as they find out about other people with different rings unite in a common cause.
->> 
 
-> **u/Geminii27** [+7] *
+> **u/Geminii27** [+8]  (4 hours later)
 > 
 > Given the amount of DC lore you're tossing out, it might be easier to go the whole way and not have the two factions be 'Lanterns' with 'rings', but just two multispecies factions with some other kind of devices or granted effect, unless you're going to have a mandatory/major plot twist revolve around a canon weakness of the Lantern rings.
-> 
 
->> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >> 
 >> Sounds like lensmen
->> 
 
-> **u/eaglejarl** [+5] *
+> **u/eaglejarl** [+6]  (8 hours later)
 > 
 > Second /u/Geminii; you aren't writing a DC Lantern story, so skip their fluff and make it original. 
+> 
 > A couple questions: 
+> 
 > * Why should all members of a particular color faction have the same goals?
 > * You make a point that DC comics doesn't exist but Marvel does. Why? I can see "DC never did a Green Lantern comic" or "superhero comics were never a thing" but why ban *just* DC?
-> 
 
->> **u/Luminnaran** [+1]  *Prophet of Asmodeus**
+>> **u/Luminnaran** [+1]  *Prophet of Asmodeus* (20 hours later)
 >> 
 >> The main reason to remove all DC comics is simplicity. DC has so many crossovers with things like the justice league and the darkest night story-lines that simply removing the Lanterns would leave lots of weird gaps. I can see leaving in some hero's like batman and superman who can relatively easily be split from DC by not having them join these groups but I'll probably do this on a case by case basis and just say their all part of Marvel. Over time maybe the factions will grow but at the beginning the idea is that each ring type will gain one user and therefore differences in the faction won't matter to begin. Also generally it's probably safe to assume if someone chooses to make another ring and give it to someone they would only give it to someone with a similar ideology to themselves
->> 
 
-> **u/narfanator** [+3] *
+> **u/narfanator** [+3]  (3 hours later)
 > 
 > This sounds a lot like Babylon 5, with the Vorlons versus the Shadows. It also sounds like the problem with being a Protector, from Niven's Known Space.
-> It also sounds a lot like "Would you rather be happy, or free?" - which always has the weird other meaning that being free means you'll make bad choices and not be happy.
-> It also sounds like the Chaos lanterns exist solely in opposition to the Order lanterns.
-> Which is dumb. Planets are big. Like, really big. With some notable exceptions that really shouldn't make a difference in the self-will-ness of individuals, what happens on one continent really doesn't have much effect on another.
-> But you have an excellent answer up in the title - Rings of Rationality. Work it like a combo Death Note / Rational LOTR - Some possibly random people, unknown to each other, get a cool magic item, and that item lets you compute your Path to Victory. Maybe also empowers you to skip some of the physical steps.
-> Notably, does not help you determine what Victory actually *means*.
 > 
+> It also sounds a lot like "Would you rather be happy, or free?" - which always has the weird other meaning that being free means you'll make bad choices and not be happy.
+> 
+> It also sounds like the Chaos lanterns exist solely in opposition to the Order lanterns.
+> 
+> Which is dumb. Planets are big. Like, really big. With some notable exceptions that really shouldn't make a difference in the self-will-ness of individuals, what happens on one continent really doesn't have much effect on another.
+> 
+> But you have an excellent answer up in the title - Rings of Rationality. Work it like a combo Death Note / Rational LOTR - Some possibly random people, unknown to each other, get a cool magic item, and that item lets you compute your Path to Victory. Maybe also empowers you to skip some of the physical steps.
+> 
+> Notably, does not help you determine what Victory actually *means*.
 
-> **u/__2BR02B__** [+1]  *Marxist-Lurianism**
+> **u/__2BR02B__** [+1]  *Marxist-Lurianism* (36 minutes later)
 > 
 > Hm. I really like the "order and chaos" concept. It feels like it could result in a conflict with a lot more depth than the DC one. No obvious good guys, which is a huge plus. 
 > All in all, sounds interesting, and I'd love to read it if you end up writing it.
-> 
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (a day later)
 > 
 > I'd love to read this story, but I think you've changed enough that you're justified in divorcing it from DC canon entirely and making an original series. Fan-fiction is frowned on in literary circles, and it would probably be easier for a reader to accept your story as a completely new space-fantasy setting than an offshoot of DC's universe.
-> That then frees you up to inject all sorts of crazy ideas without worrying about contradicting DC lore.
-> I'd like some elaboration on what the different emotions mean - just a short sentence explaining the role of each. For example, what's the difference between Love and Compassion, and between Willpower and Control?
 > 
+> That then frees you up to inject all sorts of crazy ideas without worrying about contradicting DC lore.
+> 
+> I'd like some elaboration on what the different emotions mean - just a short sentence explaining the role of each. For example, what's the difference between Love and Compassion, and between Willpower and Control?
 
 ---
 

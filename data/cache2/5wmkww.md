@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/5wmkww/biweekly_challenge_games/
-* Score: 10
+* Score: 11
 
 * Created: 2017-02-28T07:00:13
 
@@ -50,113 +50,125 @@ Next time the challenge will be **Types of Conflict: Man vs Nature**. The story 
 
 ### Comments:
 
-> **u/ViceroyChobani** [+7]  *Reserve Pigeon Army**
+> **u/ViceroyChobani** [+6]  *Reserve Pigeon Army* (7 days later)
 > 
 > The Galactic Games - word count: 1888
+> 
 > https://docs.google.com/document/d/1X_0PwFCcAd-HsSOjJg38B2UjKd5CteS2C_cFjqnaBWo/edit?usp=sharing
+> 
 > Ok, quick .readme.
+> 
 > I've been lurking for...well, for quite some time.  Almost all of my reading material comes from this sub, so I just wanted to thank everyone involved in the community for countless hours of thoughtful entertainment.
+> 
 > I've bandied about ideas for stories for years, but upon writing this I realized that this is actually the first thing I've written.  Ever.
 > (discounting essays for school back in the day and such like)
 > So.  Feedback appreciated - criticisms, praisisms, you name it.
-> Yup.
-> K.
-> Toodles.
 > 
+> Yup.
+> 
+> K.
+> 
+> Toodles.
 
->> **u/Rouninscholar** [+2] *
+>> **u/Rouninscholar** [+2]  (10 days later)
 >> 
 >> You actually saved me from posting. I was going to post something last minute that was long and rambley and point out how important rules are and thus declare myself the winner on multiple levels. Now you are the only person with an eligible post. Best of luck.
->> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (10 days later)
 >>> 
 >>> > point out how important rules are
->>> I assume that you are talking about my entry? Is there some rule I am breaking?
 >>> 
+>>> I assume that you are talking about my entry? Is there some rule I am breaking?
 
->>>> **u/Rouninscholar** [+1] *
+>>>> **u/Rouninscholar** [+1]  (10 days later)
 >>>> 
 >>>> > Post as a link to Google Docs, pastebin, Dropbox, etc. This is mandatory.
->>>> >Top-level replies must be a link to Google Docs, a PDF, your personal website, etc. It is suggested that you include a word count and a title when you're linking to somewhere else.
-
->>>> Granted, I dont pay enough attention to know how important said rules are, but it seemed within the spirit of the sub to enter because of that, I was planning on posting as close to the deadline as possible to not give you a chance to notice it and fix your error :P
->>>> Good story btw.
 >>>> 
+>>>> >Top-level replies must be a link to Google Docs, a PDF, your personal website, etc. It is suggested that you include a word count and a title when you're linking to somewhere else.
+>>>> 
+>>>> Granted, I dont pay enough attention to know how important said rules are, but it seemed within the spirit of the sub to enter because of that, I was planning on posting as close to the deadline as possible to not give you a chance to notice it and fix your error :P
+>>>> 
+>>>> Good story btw.
 
->>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (10 days later)
 >>>>> 
 >>>>> Whoops! I actually thought that was only needed for the stories which were too long to fit in the comments.
->>>>> I wish I could say that I broke the rule to make a point about rules in a game, but it's too late to work a story around that idea ..... actually I think I have a idea for a second entry....
->>>>> I appreciate the compliment!
 >>>>> 
+>>>>> I wish I could say that I broke the rule to make a point about rules in a game, but it's too late to work a story around that idea ..... actually I think I have a idea for a second entry....
+>>>>> 
+>>>>> I appreciate the compliment!
 
->> **u/Iconochasm** [+1] *
+>> **u/Iconochasm** [+1]  (9 days later)
 >> 
 >> Interesting concept, decently executed.  My only serious complaint would be that it should be more fleshed out, but considering the venue you get a pass.  Two minor quibbles: there's a confused gender in the second Thailand section, and it's SoD breaking that anyone, no matter how "promising" would be allowed in on some high level government meeting in a novelty tee shirt.
->> 
 
->>> **u/ViceroyChobani** [+2]  *Reserve Pigeon Army**
+>>> **u/ViceroyChobani** [+2]  *Reserve Pigeon Army* (9 days later)
 >>> 
 >>> The concept's something I've been playing with for a while - if I decide to keep going, I have a figurative ton of flesh to out. 
+>>> 
 >>> Shoot, I thought I'd gotten all the gender issues!  That's the result of thinking I had a balanced cast, then re-reading and realizing they were actually all male-identifying. Last minute changes ensued. 
+>>> 
 >>> Yeah, I agree with the t-shirt thing. Still struggling to expunge all of my Hollywood stereotypes, I suppose. 
 >>> Thanks for the feedback!
->>> 
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (10 days later)
 >> 
 >> Nice story, but it's a little confusing to understand the aliens' motivations. Do you have any hidden background information on why the aliens would loop time for the entire human species rather than just Quentin?
->> 
 
->>> **u/ViceroyChobani** [+2]  *Reserve Pigeon Army**
+>>> **u/ViceroyChobani** [+2]  *Reserve Pigeon Army* (10 days later)
 >>> 
 >>> Yeah, it was actually tied into the **error** in the initial announcement.  I've got a whole bunch of stuff for this, but I had been procrastinating writing anything for months, so I took this as an opportunity to just get something, anything, out there.
->>> Don't want to ruin anything in case I end up going forward with it, but there's definitely a reason.
 >>> 
+>>> Don't want to ruin anything in case I end up going forward with it, but there's definitely a reason.
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+4]  *My arch-enemy is entropy* (56 minutes later)
 > 
 > The Game - Word Count: 322
-> https://docs.google.com/document/d/1HoZSH-5js3LlNMYbT1jMHxGMMVLftQESQ_ygL6lbltY/edit
-> EDIT: As /u/Rouninscholar so 'helpfully' pointed out, I was supposed to post my story as a link rather than as a comment. I actually thought that everyone else did a link because of the limited number of characters in the comments rather than as a rule.
-> Thanks /u/Rouninscholar!
 > 
+> https://docs.google.com/document/d/1HoZSH-5js3LlNMYbT1jMHxGMMVLftQESQ_ygL6lbltY/edit
+> 
+> EDIT: As /u/Rouninscholar so 'helpfully' pointed out, I was supposed to post my story as a link rather than as a comment. I actually thought that everyone else did a link because of the limited number of characters in the comments rather than as a rule.
+> 
+> Thanks /u/Rouninscholar!
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (59 minutes later)
 >> 
 >> This may be a little short for most people's tastes with it being *barely* over the minimum word limit, but I hope people like it!
->> The sharp-eyed reader may have noticed that the counter incremented every time I wrote the phrase, 'the game'.
->> For those who may be confused at what game is being played in the story, here's a link to the [rules](https://en.wikipedia.org/wiki/The_Game_(mind_game).
->> I wonder how many players will be angry at me for talking about the game?
 >> 
+>> The sharp-eyed reader may have noticed that the counter incremented every time I wrote the phrase, 'the game'.
+>> 
+>> For those who may be confused at what game is being played in the story, here's a link to the [rules](https://en.wikipedia.org/wiki/The_Game_(mind_game).
+>> 
+>> I wonder how many players will be angry at me for talking about the game?
 
->>> **u/Kiousu** [+3]  *Chaos Legion**
+>>> **u/Kiousu** [+3]  *Chaos Legion* (8 hours later)
 >>> 
 >>> Angry? No. Impressed that you managed to make *the game* (damn) somewhat interesting again, yes.
->>> 
 
->>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (12 hours later)
 >>>> 
 >>>> Yeah, I love talking about the subject, because it's a fascinating look into what makes a meme so good at replicating itself into other brains. By using ironic processing (attempting to not think about something makes it harder to forget), the concept becomes self-reinforcing and nearly impossible to forget.
->>>> The best way I have ever learned to 'win' by forgetting is to use the same advice people are given for  emptying the mind in meditation. Don't get upset when you are focusing on a thought or try to force yourself to stop thinking. Treat the thought like a butterfly. Let it linger in your mind and allow yourself to continue thinking about the game. Without over focusing on it, your mind will naturally shift to other topics (or empty itself) in due time.
->>>> Also the real rationalist in my story is never given a speaking role. She's contestant #42's best friend and told him to ignore the instructions and guided him into 'accidentally' winning the game. After all, if you don't know what the game is about, how can you ever lose?
->>>> Food for thought, game theory works by writing pay-off matrices of the rewards/punishments of different moves and using the matrix to calculate the best strategy to use. However, how can a pay-off matrix be created for the game?
 >>>> 
+>>>> The best way I have ever learned to 'win' by forgetting is to use the same advice people are given for  emptying the mind in meditation. Don't get upset when you are focusing on a thought or try to force yourself to stop thinking. Treat the thought like a butterfly. Let it linger in your mind and allow yourself to continue thinking about the game. Without over focusing on it, your mind will naturally shift to other topics (or empty itself) in due time.
+>>>> 
+>>>> Also the real rationalist in my story is never given a speaking role. She's contestant #42's best friend and told him to ignore the instructions and guided him into 'accidentally' winning the game. After all, if you don't know what the game is about, how can you ever lose?
+>>>> 
+>>>> Food for thought, game theory works by writing pay-off matrices of the rewards/punishments of different moves and using the matrix to calculate the best strategy to use. However, how can a pay-off matrix be created for the game?
 
->> **u/ViceroyChobani** [+1]  *Reserve Pigeon Army**
+>> **u/ViceroyChobani** [+1]  *Reserve Pigeon Army* (10 days later)
 >> 
 >> I think I hate you a little bit.
 >> Not in any personal way, just on principle.  This story is gonna be in my consciousness for a while, now.
->> Anyways, interesting stuff, interesting application.
 >> 
+>> Anyways, interesting stuff, interesting application.
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (10 days later)
 >>> 
 >>> > I think I hate you a little bit.
->>> *Smirk*
->>> Excellent!
 >>> 
+>>> *Smirk*
+>>> 
+>>> Excellent!
 
 ---
 

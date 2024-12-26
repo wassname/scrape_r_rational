@@ -2,7 +2,7 @@
 
 * Author: u/Kerbal_NASA *
 * URL: https://www.reddit.com/r/rational/comments/3ceiar/meta_an_idea_for_growing_the_community/
-* Score: 19
+* Score: 22
 
 * Created: 2015-07-07T07:50:35
 
@@ -57,94 +57,98 @@ edit: Also, /u/alexanderwales had a neat suggestion that an AN could contain som
 
 ### Comments:
 
-> **u/alexanderwales** [+11]  *Time flies like an arrow**
+> **u/alexanderwales** [+12]  *Time flies like an arrow* (6 hours later)
 > 
 > If you want to promote something (anything really, not just rational fiction) you need to share it with people. This means going into places where people are talking about something and giving a (hopefully well-written and on-topic) plug. If people are talking about some franchise that there's rational fiction of, you can mention that there's a fanfic *X* which attempts to answer all the questions that the original fiction raises, and that you found it on /r/rational (or a different central hub, like http://rationalfiction.io). Or if the rational fiction is original, you can mention it in passing with the same link to the central hub.
-> The problem is doing this in a deft, unobtrusive way so that you're not just some guy coming in and evangelizing for your pet genre.
 > 
+> The problem is doing this in a deft, unobtrusive way so that you're not just some guy coming in and evangelizing for your pet genre.
 
->> **u/Kerbal_NASA** [+1] *
+>> **u/Kerbal_NASA** [+1]  (10 hours later)
 >> 
 >> >The problem is doing this in a deft, unobtrusive way so that you're not just some guy coming in and evangelizing for your pet genre.
->> Yeah, that's one of my concerns as well. What did you think of the Author's Note idea (where there's an author's note that discussion involving the author takes place on an /r/rational thread)? Is that too obtrusive? Does an AN like that serve to lower the quality of the experience of reading it? Is it an unreasonable thing to expect of the author?
 >> 
+>> Yeah, that's one of my concerns as well. What did you think of the Author's Note idea (where there's an author's note that discussion involving the author takes place on an /r/rational thread)? Is that too obtrusive? Does an AN like that serve to lower the quality of the experience of reading it? Is it an unreasonable thing to expect of the author?
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (11 hours later)
 >>> 
 >>> I don't think saying something like, "This story has been posted to /r/rational, and you can find discussion of it there" is obtrusive; if anything, it's good for the reading experience. However, neither fictionpress nor fanfiction.net (both run by the same people) allow links within stories, which makes crossover a little less likely to actually happen, and means that you can't just link directly to the wider discussion.
->>> I also don't think that just saying, "This story is written with the ethos of rational fiction in mind" is too bad of an idea.
 >>> 
+>>> I also don't think that just saying, "This story is written with the ethos of rational fiction in mind" is too bad of an idea.
 
->>>> **u/Kerbal_NASA** [+1] *
+>>>> **u/Kerbal_NASA** [+1]  (11 hours later)
 >>>> 
 >>>> >However, neither fictionpress nor fanfiction.net (both run by the same people) allow links within stories
->>>> Oh yeah, forgot about that, how annoying. Hopefully the other ones do though.
->>>> >I also don't think that just saying, "This story is written with the ethos of rational fiction in mind" is too bad of an idea.
->>>> Good suggestion! I think that could definitely be a way of getting people to look up rational fiction in general. Added that to the topic post.
 >>>> 
+>>>> Oh yeah, forgot about that, how annoying. Hopefully the other ones do though.
+>>>> 
+>>>> >I also don't think that just saying, "This story is written with the ethos of rational fiction in mind" is too bad of an idea.
+>>>> 
+>>>> Good suggestion! I think that could definitely be a way of getting people to look up rational fiction in general. Added that to the topic post.
 
-> **u/avret** [+6]  *SDHS rationalist**
+> **u/avret** [+5]  *SDHS rationalist* (3 hours later)
 > 
 > Not archive of our own or FFN?
-> 
 
->> **u/linaeap** [+2] *
+>> **u/linaeap** [+2]  (5 hours later)
 >> 
 >> Upvoted for AO3. Incidentally, I'm working on an OPDS catalog for AO3 so you can browse and download stories easily on mobile. If there's interest, PM me, I'm looking for beta testers!
->> 
 
->> **u/Kerbal_NASA** [+1] *
+>> **u/Kerbal_NASA** [+1]  (10 hours later)
 >> 
 >> Archive of Our Own didn't come up in my search, so I added it, thanks (I assume https://archiveofourown.org/ is what you're referring to?). I'll add in a fan fiction (exclusively) section to the list. Do you know any other exclusively fan fiction sites?
->> 
 
->>> **u/avret** [+1]  *SDHS rationalist**
+>>> **u/avret** [+1]  *SDHS rationalist* (10 hours later)
 >>> 
 >>> fanfiction.net(same organization as fictionpress)
->>> 
 
-> **u/Kadark** [+2] *
+> **u/Kadark** [+2]  (12 hours later)
 > 
 > You may want to add /r/LightNovels.  It's mostly translated works but Mother of Learning got a pretty big following there.
-> 
 
->> **u/Kerbal_NASA** [+1] *
+>> **u/Kerbal_NASA** [+1]  (12 hours later)
 >> 
 >> Thanks for the suggestion!
->> 
 
-> **u/raymestalez** [+3] *
+> **u/raymestalez** [+3]  (5 hours later)
 > 
 > Thanks for mentioning fictionhub =) 
 > To be clear, it's best to use http://rationalfiction.io instead, it is a branch of fictionhub specifically dedicated to rational fiction.
-> &nbsp;
-> In my personal opinion, sharing stories over many websites is not a very elegant or productive approach for bringing new people into community. People tend to find stories either via social media, or through the website's own discovery system. When they find stories via website's own discovery system, it is just more convenient for them to stay on a website and discuss stories over there, rather than come over to reddit. So I'm not sure how much traffic that approach could bring.
-> &nbsp;
-> I think, it makes more sense to collect all stories in one place, and then just share them via social media. Hint - that is why I am working on rationalfiction.io =) I think it would be more convenient if you guys could just share your stories over there, and I would take care of bringing them more traffic and readers. But, of course, I'm suffering from a strong my-own-precious-project-bias here =)
-> &nbsp;
-> Having said that, if enough people find the resharing idea useful - I can add a reposting feature, so that you could connect your accounts from other websites, and submit a story to them in one click. If you know python, you could help me to [implement it](https://github.com/raymestalez/fictionhub). For example I would take care of the webdev side of things and you would write a script that authenticates on websites and submits stories.
-> &nbsp;
-> Also, I would add Hacker News to your list. I think that stories that have a lot of science/tech/transhumanism/AI themes would be really appreciated over there. For example I have discovered HPMOR and A Bluer Shade of White on HN.
 > 
+> &nbsp;
+> 
+> In my personal opinion, sharing stories over many websites is not a very elegant or productive approach for bringing new people into community. People tend to find stories either via social media, or through the website's own discovery system. When they find stories via website's own discovery system, it is just more convenient for them to stay on a website and discuss stories over there, rather than come over to reddit. So I'm not sure how much traffic that approach could bring.
+> 
+> &nbsp;
+> 
+> I think, it makes more sense to collect all stories in one place, and then just share them via social media. Hint - that is why I am working on rationalfiction.io =) I think it would be more convenient if you guys could just share your stories over there, and I would take care of bringing them more traffic and readers. But, of course, I'm suffering from a strong my-own-precious-project-bias here =)
+> 
+> &nbsp;
+> 
+> Having said that, if enough people find the resharing idea useful - I can add a reposting feature, so that you could connect your accounts from other websites, and submit a story to them in one click. If you know python, you could help me to [implement it](https://github.com/raymestalez/fictionhub). For example I would take care of the webdev side of things and you would write a script that authenticates on websites and submits stories.
+> 
+> &nbsp;
+> 
+> Also, I would add Hacker News to your list. I think that stories that have a lot of science/tech/transhumanism/AI themes would be really appreciated over there. For example I have discovered HPMOR and A Bluer Shade of White on HN.
 
->> **u/Kerbal_NASA** [+2] *
+>> **u/Kerbal_NASA** [+2]  (10 hours later)
 >> 
 >> Very interesting! I didn't even know about rationalfiction.io, but I've checked it out and its looks pretty amazing, great job! And if I implement this, I'm hugely in favour of the route you suggested (of helping implement it as a feature of your site) as that solves many issues I saw on the tech side (lack of easy editor in the tool, having to make it an executable download, etc.). And I can definitely do it in Python (even though I'm a little rusty on Python).
->> By Hacker News, you mean this site, right?: https://news.ycombinator.com/
 >> 
+>> By Hacker News, you mean this site, right?: https://news.ycombinator.com/
 
->>> **u/raymestalez** [+2] *
+>>> **u/raymestalez** [+2]  (10 hours later)
 >>> 
 >>> Thanks, I'm glad you like the website =)
->>> If we decide to do this, it would make sense to start with the biggest ones(fictionpress, fanfiction.net, archiveofourown, wattpad.....).
->>> But  first we would need some feedback from a few people who actually need this functionality. If you guys are reading this and would like to use it - please tell us =)
->>> Yes, Hacker News is https://news.ycombinator.com/
 >>> 
+>>> If we decide to do this, it would make sense to start with the biggest ones(fictionpress, fanfiction.net, archiveofourown, wattpad.....).
+>>> 
+>>> But  first we would need some feedback from a few people who actually need this functionality. If you guys are reading this and would like to use it - please tell us =)
+>>> 
+>>> Yes, Hacker News is https://news.ycombinator.com/
 
->>>> **u/avret** [+2]  *SDHS rationalist**
+>>>> **u/avret** [+2]  *SDHS rationalist* (11 hours later)
 >>>> 
 >>>> being able to one-click repost would be a *godsend*, I am extremely interested.
->>>> 
 
 ---
 

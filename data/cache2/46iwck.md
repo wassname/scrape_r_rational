@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/46iwck/rt_executive_action_112263_short/
-* Score: 43
+* Score: 41
 
 * Created: 2016-02-19T04:27:48
 
@@ -52,105 +52,97 @@ As soon as the shock wore off, I started making plans. I’d just inherited a po
 
 ### Comments:
 
-> **u/alexanderwales** [+17]  *Time flies like an arrow**
+> **u/alexanderwales** [+17]  *Time flies like an arrow* (3 minutes later)
 > 
 > (I haven't actually finished reading 11/22/63; it's sitting at 43% on my Kindle and I don't really have the desire to pick it up again. I watched the first episode 11.22.63 on Hulu though, and it reminded me what a terrible time traveler Jake Epping is.)
-> 
 
->> **u/__2BR02B__** [+4]  *Marxist-Lurianism**
+>> **u/__2BR02B__** [+3]  *Marxist-Lurianism* (14 hours later)
 >> 
 >> This is amazing. While I love 11/22/63, the whole badly done time travel bit was pretty annoying.
->> 
 
->> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (2 days later)
 >> 
 >> It gets worse. (Not in the enjoyable story way. Lots of dumb bad metaphysics shenanigan explanations by King.)
->> Its best aspect was the way King recreated the atmosphere of the time.
 >> 
+>> Its best aspect was the way King recreated the atmosphere of the time.
 
->> **u/ancientcampus** [+2]  *juggling kittens**
+>> **u/ancientcampus** [+2]  *juggling kittens* (12 days later)
 >> 
 >> I finished it, and I disliked it quite severely. I wasn't miffed by the time travel, I was miffed at the characters and plot itself. It's a long book but I kept pushing on, expecting it to "get good" but like chaosmosis said, it dissolved into bad metaphysics instead, and I think I felt personally offended as a result.
->> 
 
-> **u/lehyde** [+9]  *Nudist Beach**
+> **u/lehyde** [+9]  *Nudist Beach* (8 hours later)
 > 
 > That reminds me of how comparatively well time travel was handled in X-Men: Days of future past. When they decided to do the time travel they were aware that they were effectively killing all living humans. But they considered it worth the price because their world was so fucked up. Maybe they should have asked those other people who they were killing but at least they didn't make the decision easily. They only did it when all hope was lost.
-> (However, the screenwriters lost a good chunk of my admiration with that whole "we need to keep the connection with wolverine" even though Wolverine wasn't doing *anything important at all*.)
 > 
+> (However, the screenwriters lost a good chunk of my admiration with that whole "we need to keep the connection with wolverine" even though Wolverine wasn't doing *anything important at all*.)
 
->> **u/ulyssessword** [+6] *
+>> **u/ulyssessword** [+5]  (a day later)
 >> 
 >> >(However, the screenwriters lost a good chunk of my admiration with that whole "we need to keep the connection with wolverine" even though Wolverine wasn't doing anything important at all.)
->> That bothered me for a bit, but I got over it.  Yes, they could have sent him back for a few hours, got him to drop messages to the right people and then let the butterflies take their course, but they couldn't know what he was actually doing.  
->> They maximized their chances of a good end by giving him more time, so they gave him more time.  Also, it's not like their lives were valuable for anything *else* in their soon-to-be-erased timeline.
 >> 
+>> That bothered me for a bit, but I got over it.  Yes, they could have sent him back for a few hours, got him to drop messages to the right people and then let the butterflies take their course, but they couldn't know what he was actually doing.  
+>> 
+>> They maximized their chances of a good end by giving him more time, so they gave him more time.  Also, it's not like their lives were valuable for anything *else* in their soon-to-be-erased timeline.
 
-> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+> **u/xamueljones** [+9]  *My arch-enemy is entropy* (6 minutes later)
 > 
 > If we are going to be talking about stories with time-travel shenanigans, I must mention [All Night Laundry](http://mspaforums.com/showthread.php?54354-All-Night-Laundry-THREAD-1-Chapters-1-4).
-> For anyone who is curious, the main character was a writing teacher not a computer science teacher so that was probably the difference that Al affected.
-> Great post alexanderwales!
 > 
+> For anyone who is curious, the main character was a writing teacher not a computer science teacher so that was probably the difference that Al affected.
+> 
+> Great post alexanderwales!
 
-> **u/DaystarEld** [+3]  *Pokémon Professor**
+> **u/DaystarEld** [+3]  *Pokémon Professor* (an hour later)
 > 
 > As a huge Stephen King fan, I've resisted reading 11/22/63 for years now because it's been greatly hyped as one of his most recent best and I've found most non-rational-fiction stories about time travel to be terrible. I guess I should give it a shot, if just to appreciate how much better it could have been.
-> 
 
->> **u/Arandur** [+4] *
+>> **u/Arandur** [+6]  (7 hours later)
 >> 
 >> Having read and loved it, the time travel really plays a small role in the plot. The scene that /u/alexanderwales changed is the crux of it; we really only think about the time travel at the beginning and at the end of the book. I would say it's worth a read.
->> 
 
->>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (11 hours later)
 >>> 
 >>> Yeah, I think I'd agree that it's one of Stephen King's best. My problem with Stephen King has always been that he's a discovery writer who doesn't do enough to clean up his works after they're written. I first noticed this in *The Stand* and when I started reading about Stephen King's process I went "Oh, that's why that was that way". I think there's a lot that *11/22/63* does right, but I kept getting that same sense that Stephen King hadn't gone back and done enough editing to streamline things after he'd done his first pass. There's good atmosphere and the prose has a lot going for it technically, but the plot just didn't seem tight enough to me. I don't think I stopped reading because of that though, something probably just drew my interest more and then it seemed like too much work to start back up again after I'd been away from it for a month.
->>> 
 
->>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (a day later)
 >>>> 
 >>>> > discovery writer 
->>>> What's a discovery writer?
 >>>> 
+>>>> What's a discovery writer?
 
->>>>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (a day later)
 >>>>> 
 >>>>> Writers can be usefully put across a spectrum with people who meticulously plot things out at one end and people who make it all up as they go along at the other end. George RR Martin calls this distinction "architect" and "gardener", the Writing Excuses podcast calls it "plotter" and "pantser". "Discovery writer" is just another term for someone who's feeling out at as they go along. In reality, most writers are impure (they do both) but there are definite trends.
->>>>> Stephen King is firmly at the discovery writer end of the spectrum. His method (as stated in "On Writing") is to create some compelling characters and see where a challenging situation leads them. His method for writing "The Stand" was to write a chapter, end it on a cliffhanger, then write another chapter from another viewpoint, and continue on like that, occasionally dipping back into a viewpoint he'd already hit to resolve a previous cliffhanger then end on a new one. Eventually the plot gets where it's going, the viewpoint characters come together ... and then Stephen King gets some terrible writer's block and nearly gives up because he doesn't know how the book ends. This is one of the reasons that Stephen King seems to have trouble with endings (and the same is true for *many* authors who have trouble with endings, especially people who write web serials, which are usually not tightly plotted).
->>>>> For contrast, Brandon Sanderson is a meticulous plotter. He plans out his whole book before he's written a single word and figured out the shape of the plot with all the story beats well in advance. He goes in with a plan and then executes that plan as well as he's able.
->>>>> (My natural tendency is to write by discovery, but that's left me with a lot of drafts that have difficult problems by the late-middle, so I've made a commitment not to write things until I've pinned down the climax and ending.)
 >>>>> 
+>>>>> Stephen King is firmly at the discovery writer end of the spectrum. His method (as stated in "On Writing") is to create some compelling characters and see where a challenging situation leads them. His method for writing "The Stand" was to write a chapter, end it on a cliffhanger, then write another chapter from another viewpoint, and continue on like that, occasionally dipping back into a viewpoint he'd already hit to resolve a previous cliffhanger then end on a new one. Eventually the plot gets where it's going, the viewpoint characters come together ... and then Stephen King gets some terrible writer's block and nearly gives up because he doesn't know how the book ends. This is one of the reasons that Stephen King seems to have trouble with endings (and the same is true for *many* authors who have trouble with endings, especially people who write web serials, which are usually not tightly plotted).
+>>>>> 
+>>>>> For contrast, Brandon Sanderson is a meticulous plotter. He plans out his whole book before he's written a single word and figured out the shape of the plot with all the story beats well in advance. He goes in with a plan and then executes that plan as well as he's able.
+>>>>> 
+>>>>> (My natural tendency is to write by discovery, but that's left me with a lot of drafts that have difficult problems by the late-middle, so I've made a commitment not to write things until I've pinned down the climax and ending.)
 
-> **u/CouteauBleu** [+3]  *We are the Empire.**
+> **u/CouteauBleu** [+3]  *We are the Empire.* (7 hours later)
 > 
 > I think 11/22/63 is awesome, but I didn't really think about goal optimization while reading it. It's pretty clear Jake could achieve a lot more if he was smarter about the way he treated his goals, but he doesn't do anything incredibly dumb. Otherwise, the writing is enjoyable and the story is interesting.
-> 
 
-> **u/thecommexokid** [+2] *
+> **u/thecommexokid** [+2]  (15 minutes later)
 > 
 > Out of curiosity, since you say you've only read half, do you know (or have you guessed) how the book ends?
-> 
 
->> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>> **u/alexanderwales** [+10]  *Time flies like an arrow* (22 minutes later)
 >> 
 >> My guess is that attempting to change time goes terribly and the moral is that we shouldn't try to screw with time, but that guess is mostly informed by reading a lot of other time travel fiction and seems like it would be a little cliched. (I wouldn't be entirely surprised if it ended with JFK causing nuclear armageddon, but I have no idea whether that's something King would write.)
->> 
 
->>> **u/LiteralHeadCannon** [+13] *
+>>> **u/LiteralHeadCannon** [+15]  (28 minutes later)
 >>> 
 >>> Me am play gods!  Me go too far!
->>> 
 
->>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> Honestly the best DC strip.
->>>> 
 
->>> **u/thecommexokid** [+5] *
+>>> **u/thecommexokid** [+6]  (19 hours later)
 >>> 
 >>> It turns out on reflection that I had no real reason to ask you that question. I thought I was going somewhere with that, but after reading your response, I have realized I wasn't. Sorry.
->>> 
 
 ---
 

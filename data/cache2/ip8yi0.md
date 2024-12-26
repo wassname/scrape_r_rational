@@ -2,7 +2,7 @@
 
 * Author: u/Kurkistan *
 * URL: https://www.reddit.com/r/rational/comments/ip8yi0/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/
-* Score: 36
+* Score: 40
 
 * Created: 2020-09-09T04:01:15
 
@@ -14,49 +14,48 @@ We are now moving back to Sufficient Velocity for a more linear discussion exper
 
 ### Comments:
 
-> **u/Hexatona** [+4]  *Lina Inverse's Party of Munchkins**
+> **u/Hexatona** [+5]  *Lina Inverse's Party of Munchkins* (10 hours later)
 > 
 > Oooh, Rational Zelda...  I'll have to add this one to my watch list
-> 
 
->> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (18 hours later)
 >> 
 >> Add it to your participate list too!
->> 
 
->>> **u/Hexatona** [+2]  *Lina Inverse's Party of Munchkins**
+>>> **u/Hexatona** [+2]  *Lina Inverse's Party of Munchkins* (18 hours later)
 >>> 
 >>> You can't tell me what to do, internet words!  You're not my mom!!
->>> 
 
->>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (19 hours later)
 >>>> 
 >>>> What if internet words asked nicely?
->>>> 
 
-> **u/1337_w0n** [+5] *
+> **u/1337_w0n** [+5]  (11 hours later)
 > 
 > Pre-read thoughts: (spoilers up to last chapter)
-> >!I'm terrified of reading this. Is link still alive? Do I want him to be? OMG I'm freaking out. Will link "respawn" like he did with the Talus?!<
-> Post-reading thoughts: >!A deus ex machina was just about the last thing I expected, and I'm impressed with how it's expanded the mystery and given us some clues about previous events. Like, is the Goddess really dead, or did she just go through the same thing that she did before? If she's really dead, how is Seff doing Seff-like things? Is this a result of Ibosso not being "idealistic" as link, and the shard of courage re-attuning to him?!<
-> >!While I'm relieved that our hero is still alive, I'm concerned about his plot armor being to thick.!<
 > 
+> >!I'm terrified of reading this. Is link still alive? Do I want him to be? OMG I'm freaking out. Will link "respawn" like he did with the Talus?!<
+> 
+> Post-reading thoughts: >!A deus ex machina was just about the last thing I expected, and I'm impressed with how it's expanded the mystery and given us some clues about previous events. Like, is the Goddess really dead, or did she just go through the same thing that she did before? If she's really dead, how is Seff doing Seff-like things? Is this a result of Ibosso not being "idealistic" as link, and the shard of courage re-attuning to him?!<
+> 
+> >!While I'm relieved that our hero is still alive, I'm concerned about his plot armor being to thick.!<
 
->> **u/-Vecht-** [+5]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+5]  *Legacy of the Goddess* (13 hours later)
 >> 
 >> > >!While I'm relieved that our hero is still alive, I'm concerned about his plot armor being to thick.!<
->> >!You don't have to worry about that one. :)!<
 >> 
+>> >!You don't have to worry about that one. :)!<
 
-> **u/Meykem** [+2] *
+> **u/Meykem** [+2]  (23 hours later)
 > 
 > >!“Ibboso… is he at peace?” !<
-> Truly, he is far too kind.
 > 
+> Truly, he is far too kind.
 
->> **u/-Vecht-** [+4]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (a day later)
 >> 
 >> This was a result of player votes:
+>> 
 >> > 8 Votes
 >> > 
 >> > [x] You seem like you've got your own goals, but you saved us. Why? Is there some way we can work together?
@@ -76,7 +75,6 @@ We are now moving back to Sufficient Velocity for a more linear discussion exper
 >> > [X] Can you tell me Ibboso's story? He was a hero once, wasn't he?*
 >> > 
 >> > *Two downvotes
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/4t0m  *Chaos Legion**
 * URL: https://www.reddit.com/r/rational/comments/kp7wgl/character_arcs_in_ranimorphs/
-* Score: 34
+* Score: 35
 
 * Created: 2021-01-02T23:00:09
 
@@ -281,196 +281,279 @@ One a separate note, here are some **additional things** I’d personally like t
 
 ### Comments:
 
-> **u/4t0m** [+16]  *Chaos Legion**
+> **u/4t0m** [+16]  *Chaos Legion* (8 minutes later)
 > 
 > I sent this to u/TK17studios and he thought that some here on the subreddit might be interested in reading.  I figured that it might stir up some interesting discussion, but didn't want to put in the extra work of making this a more fun or enticing reading experience.  Here we are :P
-> Nevertheless, I'd be interested to hear others' thoughts :)
 > 
+> Nevertheless, I'd be interested to hear others' thoughts :)
 
->> **u/TK17Studios** [+15]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+16]  *Author of r!Animorphs: The Reckoning* (28 minutes later)
 >> 
 >> I am extremely grateful for this, and expect it to have a significant positive impact on the remaining ... eighth? ... of the fic.  Very very interested in hearing some of the other regulars' thoughts in response.
->> 
 
->>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning* (2 hours later)
 >>> 
 >>> u/Quibbloboy
->>> u/daytodave
->>> u/ObsidianOrangutan
 >>> 
+>>> u/daytodave
+>>> 
+>>> u/ObsidianOrangutan
 
-> **u/4t0m** [+5]  *Chaos Legion**
+> **u/4t0m** [+4]  *Chaos Legion* (20 hours later)
 > 
 > Rereading some recent chapters:
-> - Rachel's (coming?) rebirth maybe mirrors V3's
-> - Rachel and Marco are super cute, and I appreciate what the chapter did to backfill a sense of scale for their romantic interactions. I'm back to thinking their relationship is interesting.  It's fun to imagine all of these interactions happening through stored copies in the intimacy of morph, and the surfacing of those memories when the other is re-acquired.
-> - War Prince Jake is extremely intense; not really getting a Samwise vibe at all.
-> - I had somehow missed the yeerk pool interlude.  Extremely interesting and I hadn't thought about the pace-of-experience-accumulation angle.  This is exactly the sort of thing I'm here for but I'm definitely not satisfied yet :)
 > 
+> - Rachel's (coming?) rebirth maybe mirrors V3's
+> 
+> - Rachel and Marco are super cute, and I appreciate what the chapter did to backfill a sense of scale for their romantic interactions. I'm back to thinking their relationship is interesting.  It's fun to imagine all of these interactions happening through stored copies in the intimacy of morph, and the surfacing of those memories when the other is re-acquired.
+> 
+> - War Prince Jake is extremely intense; not really getting a Samwise vibe at all.
+> 
+> - I had somehow missed the yeerk pool interlude.  Extremely interesting and I hadn't thought about the pace-of-experience-accumulation angle.  This is exactly the sort of thing I'm here for but I'm definitely not satisfied yet :)
 
-> **u/oleredrobbins** [+5] *
+> **u/oleredrobbins** [+4]  (22 hours later)
 > 
 > Great thread... I love this story. I especially agree with this part, as its one of the things that didn't quite sit right with me:
-> >. It’s still difficult for me to understand Temrash’s indulgent cruelty (if I may) towards Tobias. I can see how things that feel like violations to us wouldn’t to them, but Temrash has seen this stuff from the inside, and still acted that way.
-> I did not understand this when it happened at all. We know that Yeerks are at least somewhat affected by their hosts, so maybe his cruelty was some kind of manifestation of Tobais's feelings towards himself? The same reason he would go on what was practically a suicide mission in the first place? I don't know. And it just isn't brought up again. 
-> Tobias accepting a Yeerk afterward made no sense to me either. Sure, the Yeerks claimed that they were representing a new way of cooperation, but Temrash/Ax claimed the same thing. If I had just been brutalized like that by a Yeerk who I risked my life to save and then someone offered for me to take another Yeerk the answer would be hell no, and I'm not half as paranoid as Tobias is. I just didn't understand...hopefully in a future chapter we will get some insight into his mental state when he joined the sharing
 > 
+> >. It’s still difficult for me to understand Temrash’s indulgent cruelty (if I may) towards Tobias. I can see how things that feel like violations to us wouldn’t to them, but Temrash has seen this stuff from the inside, and still acted that way.
+> 
+> I did not understand this when it happened at all. We know that Yeerks are at least somewhat affected by their hosts, so maybe his cruelty was some kind of manifestation of Tobais's feelings towards himself? The same reason he would go on what was practically a suicide mission in the first place? I don't know. And it just isn't brought up again. 
+> 
+> Tobias accepting a Yeerk afterward made no sense to me either. Sure, the Yeerks claimed that they were representing a new way of cooperation, but Temrash/Ax claimed the same thing. If I had just been brutalized like that by a Yeerk who I risked my life to save and then someone offered for me to take another Yeerk the answer would be hell no, and I'm not half as paranoid as Tobias is. I just didn't understand...hopefully in a future chapter we will get some insight into his mental state when he joined the sharing
 
-> **u/Quibbloboy** [+3] *
+> **u/Quibbloboy** [+4]  (23 hours later)
 > 
 > (1/3)
-> \*Notices ur place to talk at length about r!Animorphs\* owo whats this?
-> Another superfan! Someone who might forgive me if I type too much! Excellent! (Edit: I did. Please forgive me.)
-> I haven’t done one big start-to-finish readthrough in a couple million years; I did that when I found the fic and now I dip in and out at luxurious random, going back to reread a passage just because I liked it, or a vast swathe of chapters just because the pages kept turning. In any case I may be rusty about things, so please do correct me if I’m wrong about anything.
-> >There’s a sense that things “had to” play out as they do, as events follow logically as well as challenging characters in core ways or giving expression to some interesting ideal or real-world dynamic.
-> Does this mean you liked the end of canon, too? I hear people complain about book 54 all the time - “Butbutbut everyone was so *sad* at the end! *I* wanted a *happy* ending!” - and to me that just... so thoroughly misses the point? I love the broken child soldiers, the Pyrrhic victory over the Yeerks, for... basically the exact reasons you wrote right here.
-> >When morph!Jake recovers from his coma, we see the first clear case in which Jake suppresses his emotional turmoil in order to fulfil his responsibility in managing the group.
-> Not *quite* the first time - he does the same in Chapter 1, when he springs out of panic mode to talk to Elfangor, and I’d argue that’s a clear case when you know what to look for.
-> >It is to be expected, if Jake numbs himself in response to pain, that he will be the most numb when thinking of Cassie, after her death. And so, Jake’s interactions with his stored copy of Cassie provide another example of the degradation of his access to empathy, and the coincident diminishment in his capacity to take on alternative perspectives. When he talks with her, he is cold and derisive, and can only understand her point of view in terms of what she fails to understand. He can’t get out of his own head and actually grasp where she’s coming from.
-> I used to agree with this interpretation of that scene. (There was just the one scene, right? Beginning of Chapter 31? Say anything for “no.”) My first time or two reading it, I got caught up in the emotions of Cassie’s grounded, reasonable, principled perspective, and Jake looked cold and unfeeling and a little morally bankrupt by comparison. (It’s possible that I’ve been conditioned by all the media I’ve ever consumed to believe that the confident, emotionally resounding, Do-What’s-Right-In-Your-Heart speech is definitively correct 100% of the time, and in r!Animorphs, that isn’t always the case.) More recently, I’ve come to see it differently: I think Jake understands *exactly* where Cassie is coming from, and to him, it’s not enough.
-> Marco’s opening narration from Chapter 37 sums up Cassie’s failure really well, and there are echoes of it in Jake’s conversation with her in 31, too. Cassie’s an *amazing* idealist. She’s the kind of person we would do well to have more of in the real world; she has an innate understanding of what’s fundamentally good, and she tries - *really tries* - to use that understanding to make the world better. But she critically fails to carry her idealism through to logical ends. She can’t make the tough calls, won’t allow herself to boil down complex ethical dilemmas to hard numbers. If Marco was faced with the trolley problem, he’d pull the lever so fast he’d have time to crack six jokes before the person got squashed. If Cassie was faced with the trolley problem... well, she *might* make the “right” choice, but she’d waste time (an extremely valuable resource, especially in a war) cringing and wringing her hands and *hesitating*, and she’d waste even more time feeling really bad about it after.
-> In fact, there’s one moment in the fic when Cassie *is* faced with something a lot like the trolley problem. Her powers and intel (and presence in freakin’ prophecy!) make her extremely valuable to the war effort, and preserving her own life could calculably save millions or billions of others. But instead, she goes after the kid. Now, this isn’t *entirely* fair to Cassie. She made the “logical” call thousands of times, and it was only because the Ellimist specifically engineered the situation to undercut all her logical calls that she eventually made the illogical one. But she has the capacity to make the wrong choice like that; she’s so gravitationally drawn to good that she’ll choose “good bad bad” over “bad good good,” and that’s what Jake is running up against.
-> You ever play Pokémon Black and White? \#BestGeneration, don’t @ me? A theme that runs through those games is the concept of *truth vs ideals*. Jake is an idealist, like Cassie, but he also recognizes hard truths, like Marco. Jake feels like he’s splitting in two when he talks to Cassie about potentially betraying Telor and Tyagi and everyone. He wants so badly to live up to a righteous moral code, and he hates himself for seeing so far past immediate, obvious rights. But he’s also seen firsthand the dangers of living chained to a stiff sense of morality; he himself *died* for making that very mistake, and to REALLY drive the point home, he watched the girl he loved burn when *she* made it (and I’d bet that far-reaching insight is [precisely why the Ellimist needed her to die](https://i.redd.it/wfte93j229n31.jpg)). Jake can see where Cassie is coming from, but the truth of the matter is that the time for *only ideals* is past. There’s a war on. Jake is too much Cassie to let his world and his species die, but he’s too much Marco to get lost looking for a nonexistent clean path to victory.
-> So he does see where she’s coming from, he understands every bit of her logic, and he’s frustrated at how far it falls short. He shares her empathy for the human race, but he’s realistic enough to recognize that the best way to help everyone in the long term is to make some moral concessions in the short. Now, I don’t want to sound like the hyperlogical sociopath or something. I don’t claim for a second that I personally would pull the lever fast because it seems so clear and obvious; I’m not the guy who watches Batman and says, “Just kill the Joker! Duh!” (Even though Batman probably *should* just kill the Joker.) In fact, I think if it came down to it, I’d probably be more like Cassie here than Jake. But the point is that *Jake is better at war than I am*, he can see a bigger picture than Cassie or I, and that’s... that’s just more important, overall.
-> Oh my god this got long. What if you’re not even saying the thing I’m responding to? I‘m moving on.
-> >In this arc, we would see Jake grow to be less dissociated from his empathy, with more access to what it feels like on the inside of those he models
-> I’d also submit that Jake’s “final form” would be more in touch with *his own* feelings. There are a number of moments sprinkled around where he itemizes all his friends’ projected reactions and responses to some big Thing, then reaches for his own and finds he doesn’t know what it would be.
-> >(P.S. My reading seems to imply that he has some prior trauma or dissociative cause (since even in the first two chapters he didn’t seem especially emotional and already thought of his predictions as black-box-y) but it’s probably too late to introduce something like that to the story.)
-> Hmm. Interesting take. I ran this one by my brain and it told me it *could* potentially see this interpretation, but it’s also perfectly happy to model Jake as just being... like that. I agree it would feel pretty tacked-on to include now. (Maybe the trauma was when he slammed his hand in that car door as a kid and got a scar? Maybe it was when he met Tobias and found out he had a backstory so eerily identical it was almost as if the author had forgotten he’d used it already? ;) )
-> >In this way, he holds himself back a bit and doesn’t fully engage with Jake as an equal, taking a sort of “this is out of my hands; my irrational boss is just going to make whatever crazy choice, I guess” stance, bailing on discourse whenever Jake wants to do something based on intuition.
-> Worth noting that Marco has gotten better about this as time has gone on. He’s gone from treating Jake’s little black box with extreme skepticism to *mostly* respect and confidence. He still likes to complain about it from time to time of course, but he wouldn’t be our Marco if he didn’t.
-> >Finally, if there’s space we should probably see something about his relationship with his dad, who has been a nonentity in the story.
-> Ooh, agreed. I’m sure if I sat here and puzzled and puzzled ‘til my puzzler was sore, I could *probably* remember the three or four little appearances Peter has made since the Ellimist saw fit to teleport him out of Ventura, but his involvement in the story doesn’t even come close to Temrash’s and Tom’s contributions.
-> >He seems concerned with principles, but I’m not sure to what extent this is just a consequence of having to make things legible in his relationship to Garrett.
-> Tobias himself seems unsure on this point. There’s a part where he talks about holding himself to the principled standard that Garrett would, and then he reminds himself that that’s a standard Garrett simply copied off of the one Tobias invented for Garrett’s benefit, and then he questions the validity of this recursive value-copycatting just leaning on itself for support. I love that. It seems so relatable, somehow, and is just a real standout piece of introspection - even in a story where deep philosophical introspection and questioning one’s own values happen in, like, every chapter.
-> >and at one point Tobias wonders to what extent his principles are just a happy story he told to Garrett and then had to live up to.
-> Yeah, this part!
 > 
+> \*Notices ur place to talk at length about r!Animorphs\* owo whats this?
+> 
+> Another superfan! Someone who might forgive me if I type too much! Excellent! (Edit: I did. Please forgive me.)
+> 
+> I haven’t done one big start-to-finish readthrough in a couple million years; I did that when I found the fic and now I dip in and out at luxurious random, going back to reread a passage just because I liked it, or a vast swathe of chapters just because the pages kept turning. In any case I may be rusty about things, so please do correct me if I’m wrong about anything.
+> 
+> >There’s a sense that things “had to” play out as they do, as events follow logically as well as challenging characters in core ways or giving expression to some interesting ideal or real-world dynamic.
+> 
+> Does this mean you liked the end of canon, too? I hear people complain about book 54 all the time - “Butbutbut everyone was so *sad* at the end! *I* wanted a *happy* ending!” - and to me that just... so thoroughly misses the point? I love the broken child soldiers, the Pyrrhic victory over the Yeerks, for... basically the exact reasons you wrote right here.
+> 
+> >When morph!Jake recovers from his coma, we see the first clear case in which Jake suppresses his emotional turmoil in order to fulfil his responsibility in managing the group.
+> 
+> Not *quite* the first time - he does the same in Chapter 1, when he springs out of panic mode to talk to Elfangor, and I’d argue that’s a clear case when you know what to look for.
+> 
+> >It is to be expected, if Jake numbs himself in response to pain, that he will be the most numb when thinking of Cassie, after her death. And so, Jake’s interactions with his stored copy of Cassie provide another example of the degradation of his access to empathy, and the coincident diminishment in his capacity to take on alternative perspectives. When he talks with her, he is cold and derisive, and can only understand her point of view in terms of what she fails to understand. He can’t get out of his own head and actually grasp where she’s coming from.
+> 
+> I used to agree with this interpretation of that scene. (There was just the one scene, right? Beginning of Chapter 31? Say anything for “no.”) My first time or two reading it, I got caught up in the emotions of Cassie’s grounded, reasonable, principled perspective, and Jake looked cold and unfeeling and a little morally bankrupt by comparison. (It’s possible that I’ve been conditioned by all the media I’ve ever consumed to believe that the confident, emotionally resounding, Do-What’s-Right-In-Your-Heart speech is definitively correct 100% of the time, and in r!Animorphs, that isn’t always the case.) More recently, I’ve come to see it differently: I think Jake understands *exactly* where Cassie is coming from, and to him, it’s not enough.
+> 
+> Marco’s opening narration from Chapter 37 sums up Cassie’s failure really well, and there are echoes of it in Jake’s conversation with her in 31, too. Cassie’s an *amazing* idealist. She’s the kind of person we would do well to have more of in the real world; she has an innate understanding of what’s fundamentally good, and she tries - *really tries* - to use that understanding to make the world better. But she critically fails to carry her idealism through to logical ends. She can’t make the tough calls, won’t allow herself to boil down complex ethical dilemmas to hard numbers. If Marco was faced with the trolley problem, he’d pull the lever so fast he’d have time to crack six jokes before the person got squashed. If Cassie was faced with the trolley problem... well, she *might* make the “right” choice, but she’d waste time (an extremely valuable resource, especially in a war) cringing and wringing her hands and *hesitating*, and she’d waste even more time feeling really bad about it after.
+> 
+> In fact, there’s one moment in the fic when Cassie *is* faced with something a lot like the trolley problem. Her powers and intel (and presence in freakin’ prophecy!) make her extremely valuable to the war effort, and preserving her own life could calculably save millions or billions of others. But instead, she goes after the kid. Now, this isn’t *entirely* fair to Cassie. She made the “logical” call thousands of times, and it was only because the Ellimist specifically engineered the situation to undercut all her logical calls that she eventually made the illogical one. But she has the capacity to make the wrong choice like that; she’s so gravitationally drawn to good that she’ll choose “good bad bad” over “bad good good,” and that’s what Jake is running up against.
+> 
+> You ever play Pokémon Black and White? \#BestGeneration, don’t @ me? A theme that runs through those games is the concept of *truth vs ideals*. Jake is an idealist, like Cassie, but he also recognizes hard truths, like Marco. Jake feels like he’s splitting in two when he talks to Cassie about potentially betraying Telor and Tyagi and everyone. He wants so badly to live up to a righteous moral code, and he hates himself for seeing so far past immediate, obvious rights. But he’s also seen firsthand the dangers of living chained to a stiff sense of morality; he himself *died* for making that very mistake, and to REALLY drive the point home, he watched the girl he loved burn when *she* made it (and I’d bet that far-reaching insight is [precisely why the Ellimist needed her to die](https://i.redd.it/wfte93j229n31.jpg)). Jake can see where Cassie is coming from, but the truth of the matter is that the time for *only ideals* is past. There’s a war on. Jake is too much Cassie to let his world and his species die, but he’s too much Marco to get lost looking for a nonexistent clean path to victory.
+> 
+> So he does see where she’s coming from, he understands every bit of her logic, and he’s frustrated at how far it falls short. He shares her empathy for the human race, but he’s realistic enough to recognize that the best way to help everyone in the long term is to make some moral concessions in the short. Now, I don’t want to sound like the hyperlogical sociopath or something. I don’t claim for a second that I personally would pull the lever fast because it seems so clear and obvious; I’m not the guy who watches Batman and says, “Just kill the Joker! Duh!” (Even though Batman probably *should* just kill the Joker.) In fact, I think if it came down to it, I’d probably be more like Cassie here than Jake. But the point is that *Jake is better at war than I am*, he can see a bigger picture than Cassie or I, and that’s... that’s just more important, overall.
+> 
+> Oh my god this got long. What if you’re not even saying the thing I’m responding to? I‘m moving on.
+> 
+> >In this arc, we would see Jake grow to be less dissociated from his empathy, with more access to what it feels like on the inside of those he models
+> 
+> I’d also submit that Jake’s “final form” would be more in touch with *his own* feelings. There are a number of moments sprinkled around where he itemizes all his friends’ projected reactions and responses to some big Thing, then reaches for his own and finds he doesn’t know what it would be.
+> 
+> >(P.S. My reading seems to imply that he has some prior trauma or dissociative cause (since even in the first two chapters he didn’t seem especially emotional and already thought of his predictions as black-box-y) but it’s probably too late to introduce something like that to the story.)
+> 
+> Hmm. Interesting take. I ran this one by my brain and it told me it *could* potentially see this interpretation, but it’s also perfectly happy to model Jake as just being... like that. I agree it would feel pretty tacked-on to include now. (Maybe the trauma was when he slammed his hand in that car door as a kid and got a scar? Maybe it was when he met Tobias and found out he had a backstory so eerily identical it was almost as if the author had forgotten he’d used it already? ;) )
+> 
+> >In this way, he holds himself back a bit and doesn’t fully engage with Jake as an equal, taking a sort of “this is out of my hands; my irrational boss is just going to make whatever crazy choice, I guess” stance, bailing on discourse whenever Jake wants to do something based on intuition.
+> 
+> Worth noting that Marco has gotten better about this as time has gone on. He’s gone from treating Jake’s little black box with extreme skepticism to *mostly* respect and confidence. He still likes to complain about it from time to time of course, but he wouldn’t be our Marco if he didn’t.
+> 
+> >Finally, if there’s space we should probably see something about his relationship with his dad, who has been a nonentity in the story.
+> 
+> Ooh, agreed. I’m sure if I sat here and puzzled and puzzled ‘til my puzzler was sore, I could *probably* remember the three or four little appearances Peter has made since the Ellimist saw fit to teleport him out of Ventura, but his involvement in the story doesn’t even come close to Temrash’s and Tom’s contributions.
+> 
+> >He seems concerned with principles, but I’m not sure to what extent this is just a consequence of having to make things legible in his relationship to Garrett.
+> 
+> Tobias himself seems unsure on this point. There’s a part where he talks about holding himself to the principled standard that Garrett would, and then he reminds himself that that’s a standard Garrett simply copied off of the one Tobias invented for Garrett’s benefit, and then he questions the validity of this recursive value-copycatting just leaning on itself for support. I love that. It seems so relatable, somehow, and is just a real standout piece of introspection - even in a story where deep philosophical introspection and questioning one’s own values happen in, like, every chapter.
+> 
+> >and at one point Tobias wonders to what extent his principles are just a happy story he told to Garrett and then had to live up to.
+> 
+> Yeah, this part!
 
->> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning* (23 hours later)
 >> 
 >> > Maybe it was when he met Tobias and found out he had a backstory so eerily identical it was almost as if the author had forgotten he’d used it already? ;)
->> Hey, *hey.*  It's *Marco* who also has a scar from slamming his hand in a car door (Jake when he was eleven, Marco when he was eight), and *I* like to think they *bonded* over that shared thematic experience.  =P
 >> 
+>> Hey, *hey.*  It's *Marco* who also has a scar from slamming his hand in a car door (Jake when he was eleven, Marco when he was eight), and *I* like to think they *bonded* over that shared thematic experience.  =P
 
->>> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (a day later)
 >>> 
 >>> Honestly, that sort of thing is exactly the sort of bullshit we should expect to see with Elliak Craymist at the helm.
->>> 
 
->> **u/Quibbloboy** [+3] *
+>> **u/Quibbloboy** [+3]  (23 hours later)
 >> 
 >> (2/3)
->> >Namely his desire to save Temrash is revealed as a mask on suicidality (tying back to “black desperation”)
->> Mmm, suicidality isn’t *exactly* it - it’s more like restlessness, or dissatisfaction, or stir-craziness, or just… an urge so overwhelming to *be doing something* that it trumps even his instinct for self-preservation. Tobias and Ax talk about this in Chapter 35 (and I only bring it up because Ax specifically points out that it isn’t suicidality).
->> >There’s something beautiful about Tobias and Garrett making each other into better and stronger people, but it’s lame and disappointing if they’ve bootstrapped on the basis of Garrett taking rules seriously and Tobias being too scared of letting him down -- rather than bootstrapping from a core goodness on both of their parts, with the above stuff acting as buttressing.
->> I… think I agree with the logic of this, but I’m having trouble thinking about it as deeply “true” or “important” or something. I think it’s mostly just because, to me, Tobias and Garrett both already *do* feel like they’re motivated by a core goodness. The platitudes are a nice garnish, but they’re not *really* the foundation of everything these two characters do.
->> >Finally, I’d be interested in looping back to Tobias’ and Garrett’s discussion of copies and identities. The conversation felt unfinished, and Tobias’ thinking may have changed after he died that one time and Garrett brought him back.
->> The conversation from two bullet points ago actually does call back to this conversation; Ax is saying something to Tobias that’s a lot like what Tobias previously said to Garrett, and Tobias gets thrown off when he realizes that his thinking *has* changed since Garrett brought him back. If his perspective hasn’t *actually* pivoted, he is at least saying words that are the opposite of what he was really thinking back in Chapter 28.
->> Also, I’ve spent some time imagining what it would be like to wake up as a clone. I think the whole “death” thing would be less intimidating after it happens, and you can think back and say, “I’ve *felt* alive for my entire life,” - it’s not like there’s some traumatic break at the point where you died.
->> Overall, I think a lot of the unfulfillment you feel from Tobias is just stuff that hasn’t had time to develop yet and likely would have anyway. We’ve only had one real chapter with him since his awakening, with his absence serving as a little bit of an intentional tease; I trust the author to round out Tobias a bit more when he finally gets the stuff he’s been building to.
->> >Elfangor recently commented that the full consequences of her loss have not yet been observed, so I’m expecting something to come up.
->> Honestly? I think Elfangor is just wrong here. He receives a prophecy with four human children’s names basically painted in fire across the sky, and then he lives with that knowledge for, what, ten years? Then he wakes up one day to find that, among other things, the kids have been operating in the war against the Yeerks for a couple of months and one of them is already dead, without having struck any major blows or contributed in any decisively meaningful ways.
->> People in this story draw reasonable but incorrect conclusions all the time. Elfangor is working with the information he has - one of the things he *doesn’t* have is access to that interlude where the Ellimist or Crayak slowly and painstakingly guides Cassie to an extremely deliberate death. Probably the Ellimist, because I don’t think he’d go to the trouble of getting her involved if she was just going to accidentally die before she could serve her purpose. Again, it seems possible that dying *was* her contribution to the war, in the gift of clarity it gave the others.
->> (Incidentally, the author has been dropping hints for a looong time that >!Cassie isn’t even really all the way “dead”!< so it looks like Elfangor’s assumption is flawed to begin with.)
->> Cassie is the part of your post I’ve had the fewest responses to so far, and I think that’s because I disagree with your overall assessment of her character, so it’s more just one big point to respond to rather than several little ones. My impression of Cassie is going to seem harsh from where you’re standing, but I think she’s more of a cautionary tale about what not to do in a war. She cracks, she crumbles, and she dies. Through that lens, it is a reasonably complete arc. I don’t want to sound unsympathetic to the strain that’s placed on her, but the reality is that she has some very serious flaws in her thinking that are ultimately exploited to get her killed. She dies a noble death, a hero’s death, and that in and of itself makes our reader hearts try to jump into our throats, our souls want to rally behind her as some sort of martyr. But that *can’t* be the final arbiter of whether a character’s choices are portrayed as correct in the end. Cassie’s decision was selfish, shortsighted, and, whether it’s comfortable to admit or not, it *was* dumb. She shouldn’t get “an emotional scene where she gets to see the benefits of her sacrifice” just because it would *feel good* for the reader; an easy emotional payoff shouldn’t resolve and justify her doing the wrong thing. That flies in the face of everything rational fiction stands for.
->> >Rachel
->> I’m really into the mystery of Rachel’s glitchy morphing! Aside from that, we’re on pretty much the same page as far as she’s concerned. She has a couple destructive freakout chapters right at first (flaming tiger paw) and then she spends the story kinda slowly developing and feeling herself out. That’s cool in the long term, but isn’t quite as action-packed as being in the other characters’ heads. (I think the Ante chapter is my least-read section of the entire fic.) As canon!Ax puts it, how do you weigh the sharp rush of battle against the slower, more contemplative joys of watching your trees flower?
->> I’m also not quite sure how I feel about the degree to which Rachel leans on her Shoulder Marco for introspection. It seems like every character has a Shoulder Marco making little quips in their heads all the time, with maybe Shoulder Cassies a distant, distant second, and like, maaaybe Shoulder Jakes after that, with everyone else tied for last (aside from Garrett and Tobias who have shoulder versions of each other, even if they don’t openly converse with them often). It feels a little bit like the story is just sorta fetishizing Marco, but I’ve always been able to look past it, since it’s never been present enough to be distracting. In some of the more recent Rachel chapters, though, I would say it’s graduated to the point of being distracting. IIRC, there were times in the Ante chapter where it felt like Rachel’s little mental model of Marco was doing more of her thinking than she was. I just feel like it kinda takes away from her character if she’s routing so much of herself through another character, especially this late in the game. Maybe that was the story telegraphing her and Marco’s budding romantic relationship, but truth be told, that’s another facet that I’m a little “eh” on.
->> The sculptor section is great, though.
->> >Garrett
->> You didn’t do a section on Garrett, but I just wanna fanboy out for a second. He’s such a wonderful, fascinating character to read - possibly my favorite in the whole story, which is kinda funny, considering he’s an OC pls dont stel. I’m so excited for his chapter coming out next! If you look at the numbers a certain way, you could argue that he’s only had one real chapter in the past *three and a half years*! A crime.
->> I could go on and on but I know this comment is miles too long already.
->> >Yeerk pools
->> Out of curiosity, what else would you like to see from Yeerk pools that we haven’t already? There have been a couple of interludes now that I think captured it pretty handily. The pools are vast and ancient, and they think very broadly. Sounds good to me.
->> >If you could show a splinter cell that is able to break away from the crowd and do something useful, that would give me some hope that Andalites don’t just suck, and give them a chance to contribute to the happy non-tragic ending.
->> Helium is sorta this by themselves, no? The first Collaborator, proof that there’s another way forward for Andalites?
->> >I’d like to see more of the Arn, possibly just because I thought their grammar was extremely endearing in the V3 conversation
->> Agreed! I mean, obviously not if it came at the expense of the author’s plan, or whatever - but if there were *already* an opportunity for more Arnspeak, I also thought that was a very fun scene.
 >> 
+>> >Namely his desire to save Temrash is revealed as a mask on suicidality (tying back to “black desperation”)
+>> 
+>> Mmm, suicidality isn’t *exactly* it - it’s more like restlessness, or dissatisfaction, or stir-craziness, or just… an urge so overwhelming to *be doing something* that it trumps even his instinct for self-preservation. Tobias and Ax talk about this in Chapter 35 (and I only bring it up because Ax specifically points out that it isn’t suicidality).
+>> 
+>> >There’s something beautiful about Tobias and Garrett making each other into better and stronger people, but it’s lame and disappointing if they’ve bootstrapped on the basis of Garrett taking rules seriously and Tobias being too scared of letting him down -- rather than bootstrapping from a core goodness on both of their parts, with the above stuff acting as buttressing.
+>> 
+>> I… think I agree with the logic of this, but I’m having trouble thinking about it as deeply “true” or “important” or something. I think it’s mostly just because, to me, Tobias and Garrett both already *do* feel like they’re motivated by a core goodness. The platitudes are a nice garnish, but they’re not *really* the foundation of everything these two characters do.
+>> 
+>> >Finally, I’d be interested in looping back to Tobias’ and Garrett’s discussion of copies and identities. The conversation felt unfinished, and Tobias’ thinking may have changed after he died that one time and Garrett brought him back.
+>> 
+>> The conversation from two bullet points ago actually does call back to this conversation; Ax is saying something to Tobias that’s a lot like what Tobias previously said to Garrett, and Tobias gets thrown off when he realizes that his thinking *has* changed since Garrett brought him back. If his perspective hasn’t *actually* pivoted, he is at least saying words that are the opposite of what he was really thinking back in Chapter 28.
+>> 
+>> Also, I’ve spent some time imagining what it would be like to wake up as a clone. I think the whole “death” thing would be less intimidating after it happens, and you can think back and say, “I’ve *felt* alive for my entire life,” - it’s not like there’s some traumatic break at the point where you died.
+>> 
+>> Overall, I think a lot of the unfulfillment you feel from Tobias is just stuff that hasn’t had time to develop yet and likely would have anyway. We’ve only had one real chapter with him since his awakening, with his absence serving as a little bit of an intentional tease; I trust the author to round out Tobias a bit more when he finally gets the stuff he’s been building to.
+>> 
+>> >Elfangor recently commented that the full consequences of her loss have not yet been observed, so I’m expecting something to come up.
+>> 
+>> Honestly? I think Elfangor is just wrong here. He receives a prophecy with four human children’s names basically painted in fire across the sky, and then he lives with that knowledge for, what, ten years? Then he wakes up one day to find that, among other things, the kids have been operating in the war against the Yeerks for a couple of months and one of them is already dead, without having struck any major blows or contributed in any decisively meaningful ways.
+>> 
+>> People in this story draw reasonable but incorrect conclusions all the time. Elfangor is working with the information he has - one of the things he *doesn’t* have is access to that interlude where the Ellimist or Crayak slowly and painstakingly guides Cassie to an extremely deliberate death. Probably the Ellimist, because I don’t think he’d go to the trouble of getting her involved if she was just going to accidentally die before she could serve her purpose. Again, it seems possible that dying *was* her contribution to the war, in the gift of clarity it gave the others.
+>> 
+>> (Incidentally, the author has been dropping hints for a looong time that >!Cassie isn’t even really all the way “dead”!< so it looks like Elfangor’s assumption is flawed to begin with.)
+>> 
+>> Cassie is the part of your post I’ve had the fewest responses to so far, and I think that’s because I disagree with your overall assessment of her character, so it’s more just one big point to respond to rather than several little ones. My impression of Cassie is going to seem harsh from where you’re standing, but I think she’s more of a cautionary tale about what not to do in a war. She cracks, she crumbles, and she dies. Through that lens, it is a reasonably complete arc. I don’t want to sound unsympathetic to the strain that’s placed on her, but the reality is that she has some very serious flaws in her thinking that are ultimately exploited to get her killed. She dies a noble death, a hero’s death, and that in and of itself makes our reader hearts try to jump into our throats, our souls want to rally behind her as some sort of martyr. But that *can’t* be the final arbiter of whether a character’s choices are portrayed as correct in the end. Cassie’s decision was selfish, shortsighted, and, whether it’s comfortable to admit or not, it *was* dumb. She shouldn’t get “an emotional scene where she gets to see the benefits of her sacrifice” just because it would *feel good* for the reader; an easy emotional payoff shouldn’t resolve and justify her doing the wrong thing. That flies in the face of everything rational fiction stands for.
+>> 
+>> >Rachel
+>> 
+>> I’m really into the mystery of Rachel’s glitchy morphing! Aside from that, we’re on pretty much the same page as far as she’s concerned. She has a couple destructive freakout chapters right at first (flaming tiger paw) and then she spends the story kinda slowly developing and feeling herself out. That’s cool in the long term, but isn’t quite as action-packed as being in the other characters’ heads. (I think the Ante chapter is my least-read section of the entire fic.) As canon!Ax puts it, how do you weigh the sharp rush of battle against the slower, more contemplative joys of watching your trees flower?
+>> 
+>> I’m also not quite sure how I feel about the degree to which Rachel leans on her Shoulder Marco for introspection. It seems like every character has a Shoulder Marco making little quips in their heads all the time, with maybe Shoulder Cassies a distant, distant second, and like, maaaybe Shoulder Jakes after that, with everyone else tied for last (aside from Garrett and Tobias who have shoulder versions of each other, even if they don’t openly converse with them often). It feels a little bit like the story is just sorta fetishizing Marco, but I’ve always been able to look past it, since it’s never been present enough to be distracting. In some of the more recent Rachel chapters, though, I would say it’s graduated to the point of being distracting. IIRC, there were times in the Ante chapter where it felt like Rachel’s little mental model of Marco was doing more of her thinking than she was. I just feel like it kinda takes away from her character if she’s routing so much of herself through another character, especially this late in the game. Maybe that was the story telegraphing her and Marco’s budding romantic relationship, but truth be told, that’s another facet that I’m a little “eh” on.
+>> 
+>> The sculptor section is great, though.
+>> 
+>> >Garrett
+>> 
+>> You didn’t do a section on Garrett, but I just wanna fanboy out for a second. He’s such a wonderful, fascinating character to read - possibly my favorite in the whole story, which is kinda funny, considering he’s an OC pls dont stel. I’m so excited for his chapter coming out next! If you look at the numbers a certain way, you could argue that he’s only had one real chapter in the past *three and a half years*! A crime.
+>> 
+>> I could go on and on but I know this comment is miles too long already.
+>> 
+>> >Yeerk pools
+>> 
+>> Out of curiosity, what else would you like to see from Yeerk pools that we haven’t already? There have been a couple of interludes now that I think captured it pretty handily. The pools are vast and ancient, and they think very broadly. Sounds good to me.
+>> 
+>> >If you could show a splinter cell that is able to break away from the crowd and do something useful, that would give me some hope that Andalites don’t just suck, and give them a chance to contribute to the happy non-tragic ending.
+>> 
+>> Helium is sorta this by themselves, no? The first Collaborator, proof that there’s another way forward for Andalites?
+>> 
+>> >I’d like to see more of the Arn, possibly just because I thought their grammar was extremely endearing in the V3 conversation
+>> 
+>> Agreed! I mean, obviously not if it came at the expense of the author’s plan, or whatever - but if there were *already* an opportunity for more Arnspeak, I also thought that was a very fun scene.
 
->>> **u/4t0m** [+3]  *Chaos Legion**
+>>> **u/4t0m** [+3]  *Chaos Legion* (2 days later)
 >>> 
 >>> >  I only bring it up because Ax specifically points out that it isn’t suicidality
->>> But then Temrash says "<You are compromised. Suicidal. I would never have agreed to this if I had fully understood your mental state. I have no intention of letting you throw both of our lives away.>"  Maybe this is manipulation, but I don't think that's the best-supported reading.
->>> >  I think it’s mostly just because, to me, Tobias and Garrett both already do feel like they’re motivated by a core goodness. The platitudes are a nice garnish, but they’re not really the foundation of everything these two characters do.
->>> I want to believe this, and mostly do.  But I think the reading is better supported for Garrett than Tobias.
->>> > Overall, I think a lot of the unfulfillment you feel from Tobias is just stuff that hasn’t had time to develop yet and likely would have anyway. We’ve only had one real chapter with him since his awakening, with his absence serving as a little bit of an intentional tease; I trust the author to round out Tobias a bit more when he finally gets the stuff he’s been building to.
->>> Fair enough.  I wish there were more time left though.  Probably only one more Tobias chapter!
->>> > Cassie
->>> I think it would be too time consuming to really get into our difference of opinion here.  Perhaps one day in the future.  
->>> But if the stance of the fic is that what she did was wrong, or deeply ultra wrong, or whatever, I don't think that precludes some sort of emotional resolution.  E.g. such a scene could certainly be mostly a reflection on her failures.  I don't at all mean to be saying that she should be rewarded or given justification for doing the wrong thing.
->>> > Too many shoulder-Marcos
->>> Interesting.  I can see that, and hadn't really, before
->>> > Garrett
->>> I like Garrett too :)
->>> > Out of curiosity, what else would you like to see from Yeerk pools that we haven’t already? There have been a couple of interludes now that I think captured it pretty handily.  The pools are vast and ancient, and they think very broadly. Sounds good to me.
->>> There's an almost psychedelic experience to reading a detailed first person account of a significantly divergent mind.  I want to feel like I have a sense of what it's like to be a yeerk, from the inside.  I think I'd have to sit in the perspective for at least a few thousand words before being really able to shift into this slower, more expansive mindset.  And I bet there are a bunch of other differences too!
->>> > Helium is sorta this by themselves, no? The first Collaborator, proof that there’s another way forward for Andalites?
->>> Yeah, but that feels like the book is saying that Andalite communities (and the species in its natural form) is fully inferior in the important ways to humans.  Sure they can think multiple trains of thought at once, but the can't innovate and they can't change their minds.  If the only good andalite is the one you force into social isolation and then infest with a yeerk... that's pretty damning.  I want to see the upsides to their alternative, more interconnected mode of being!
 >>> 
+>>> But then Temrash says "<You are compromised. Suicidal. I would never have agreed to this if I had fully understood your mental state. I have no intention of letting you throw both of our lives away.>"  Maybe this is manipulation, but I don't think that's the best-supported reading.
+>>> 
+>>> >  I think it’s mostly just because, to me, Tobias and Garrett both already do feel like they’re motivated by a core goodness. The platitudes are a nice garnish, but they’re not really the foundation of everything these two characters do.
+>>> 
+>>> I want to believe this, and mostly do.  But I think the reading is better supported for Garrett than Tobias.
+>>> 
+>>> > Overall, I think a lot of the unfulfillment you feel from Tobias is just stuff that hasn’t had time to develop yet and likely would have anyway. We’ve only had one real chapter with him since his awakening, with his absence serving as a little bit of an intentional tease; I trust the author to round out Tobias a bit more when he finally gets the stuff he’s been building to.
+>>> 
+>>> Fair enough.  I wish there were more time left though.  Probably only one more Tobias chapter!
+>>> 
+>>> > Cassie
+>>> 
+>>> I think it would be too time consuming to really get into our difference of opinion here.  Perhaps one day in the future.  
+>>> 
+>>> But if the stance of the fic is that what she did was wrong, or deeply ultra wrong, or whatever, I don't think that precludes some sort of emotional resolution.  E.g. such a scene could certainly be mostly a reflection on her failures.  I don't at all mean to be saying that she should be rewarded or given justification for doing the wrong thing.
+>>> 
+>>> > Too many shoulder-Marcos
+>>> 
+>>> Interesting.  I can see that, and hadn't really, before
+>>> 
+>>> > Garrett
+>>> 
+>>> I like Garrett too :)
+>>> 
+>>> > Out of curiosity, what else would you like to see from Yeerk pools that we haven’t already? There have been a couple of interludes now that I think captured it pretty handily.  The pools are vast and ancient, and they think very broadly. Sounds good to me.
+>>> 
+>>> There's an almost psychedelic experience to reading a detailed first person account of a significantly divergent mind.  I want to feel like I have a sense of what it's like to be a yeerk, from the inside.  I think I'd have to sit in the perspective for at least a few thousand words before being really able to shift into this slower, more expansive mindset.  And I bet there are a bunch of other differences too!
+>>> 
+>>> > Helium is sorta this by themselves, no? The first Collaborator, proof that there’s another way forward for Andalites?
+>>> 
+>>> Yeah, but that feels like the book is saying that Andalite communities (and the species in its natural form) is fully inferior in the important ways to humans.  Sure they can think multiple trains of thought at once, but the can't innovate and they can't change their minds.  If the only good andalite is the one you force into social isolation and then infest with a yeerk... that's pretty damning.  I want to see the upsides to their alternative, more interconnected mode of being!
 
->>> **u/Quibbloboy** [+2] *
+>>> **u/Quibbloboy** [+2]  (23 hours later)
 >>> 
 >>> (3/3, because Reddit insisted including this in (2/3) put it over 10k characters even though I swear it didn't)
->>> >Anyway, one way for this to me a rationalist masterpiece (relative to me-as-reader), would be to flesh out those gaps and start to present conclusions or meta-conclusions.
->>> My reaction to this is… complicated. I have this kneejerk instinct that the author’s vision needs to remain “pure” and I can’t help but see reader suggestions as a diluting agent - even when they are very good suggestions, like this. I know I’m being unrealistic here. Obviously the author himself takes reader suggestions into careful consideration, and obviously he wouldn’t incorporate anything that doesn’t make the story better or that drastically changes its overall trajectory. He sees suggestions as a fertile source of change for good, not as something that seeps in and taints his “original” layout for the story.
->>> /u/TK17Studios, since I know you’re reading this…. There’s nothing I can say like “don’t let your story get tainted” that isn’t already profoundly obvious. I guess let my comment serve as a reminder to remain critical of comments. Don’t let reader opinions become any sort of gospel, even when they’re extremely intelligent and well-reasoned. You’re better at this than Applegate or Yudkowsky or any one of us readers. As long as suggestions are being rolled into the story to make it *more itself* rather than less, that’s a good thing - just don’t let the story’s identity be swayed from the seed it’s grown out of, because it is and always has been very, very good already.
->>> Last but not least:
->>> I’m sorry this got so long holy shit
 >>> 
+>>> >Anyway, one way for this to me a rationalist masterpiece (relative to me-as-reader), would be to flesh out those gaps and start to present conclusions or meta-conclusions.
+>>> 
+>>> My reaction to this is… complicated. I have this kneejerk instinct that the author’s vision needs to remain “pure” and I can’t help but see reader suggestions as a diluting agent - even when they are very good suggestions, like this. I know I’m being unrealistic here. Obviously the author himself takes reader suggestions into careful consideration, and obviously he wouldn’t incorporate anything that doesn’t make the story better or that drastically changes its overall trajectory. He sees suggestions as a fertile source of change for good, not as something that seeps in and taints his “original” layout for the story.
+>>> 
+>>> /u/TK17Studios, since I know you’re reading this…. There’s nothing I can say like “don’t let your story get tainted” that isn’t already profoundly obvious. I guess let my comment serve as a reminder to remain critical of comments. Don’t let reader opinions become any sort of gospel, even when they’re extremely intelligent and well-reasoned. You’re better at this than Applegate or Yudkowsky or any one of us readers. As long as suggestions are being rolled into the story to make it *more itself* rather than less, that’s a good thing - just don’t let the story’s identity be swayed from the seed it’s grown out of, because it is and always has been very, very good already.
+>>> 
+>>> Last but not least:
+>>> 
+>>> I’m sorry this got so long holy shit
 
->>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (23 hours later)
 >>>> 
 >>>> why would you apologize for writing so many words
->>>> so many words is what i beg for
 >>>> 
+>>>> so many words is what i beg for
 
->>>> **u/4t0m** [+3]  *Chaos Legion**
+>>>> **u/4t0m** [+3]  *Chaos Legion* (2 days later)
 >>>> 
 >>>> Oh, and thanks for the replies :)
->>>> 
 
->> **u/4t0m** [+3]  *Chaos Legion**
+>> **u/4t0m** [+3]  *Chaos Legion* (2 days later)
 >> 
 >> > Does this mean you liked the end of canon, too? 
->> I've only read a couple of the books, randomly discovered at elementary school book fairs.
->> > Not quite the first time - he does the same in Chapter 1, when he springs out of panic mode to talk to Elfangor, and I’d argue that’s a clear case when you know what to look for.
->> Good point!
->> > Stuff about Cassie's death
->> I don't disagree that Jake understands where Cassie is coming from to some extent.  
->> It's hard to really know what to say about Cassie.  I think she carries an important banner that she doesn't know how to explicate in Rationalist terms.  So I could steelman her and say what that thing might be, but I'd just attributing things to her with very little basis.  Certainly at some points she is just making mistakes.
->> Regarding the analysis about her value (given that she is one of the Chosen Ones, she is more important to save than others), I think it's true that she doesn't weigh things correctly, or even-handedly, or for nearly long enough.  On the other hand, I don't think your analysis is right either.  For one thing, any action she takes can be said to be the Ellimist's grand plan for putting her there.  I don't think it especially preferences her staying alive longer rather than shorter, or saving herself rather than someone else.  Further, she can be resurrected whereas Jake's brother and Marco's dad can't be.  Finally, a big reason she makes the call to save both of them is because she thinks doing otherwise would make them hate each other (very possibly losing the war, though that isn't her focus; she also considers saving neither, but it feels pointless because there's nobody who is a much higher priority and she thinks they would then resent her forever).  She realizes she can save the kid, which she wants to do, and sure it's a risk but I don't think we can confidently say she's wrong in her assessment that she can save him and get out of range of the explosion.
->> So, that's not SO crazy.   As you and Marco note, she has found her solution where she gets to save both of them, and help the boy in front of her, and that's enough for her. 
->> Her biggest mistakes comes after that though, not in drawing the line to the wrong point, but in failing to reevaluate as conditions change.  Specifically, she sticks with her decision after Tobias bargains for another person to be saved (saving Erek basically as an afterthought, not reevaluating the chain of emotion and logic that led her to the decision she landed on), and she still goes to save the boy after returning to Time on the outside of the building instead of inside.  Both exemplify the same basic error, but I have a hard time faulting her for it too much.  
->> Saving Erek is worse: she's finally reached a feeling of goodness and confidence in her decisions (something she values extremely highly), and she fuses that with the specific choice she's made, so (as mentioned) sticks with it even when the reasons to do so have been decreased (like, maybe she ought to have decided to teleport the kid away, fly away herself, and let Erek die; she wants to save him less than the kid, clearly, and hasn't even considered this option; indeed, she realizes this immediately after finding herself outside).  That she still tried to save the kid after being outside... well, in both of these cases she's given very little time to think, or reassess the quality of her plan.  Clearly she's a bit stubborn, but we're looking at like a couple minutes of her life.  I don't see these decisions as damning, merely as a demonstration that she lacks the important capacity to think clearly in crises and hold beliefs lightly even in charged states and high-stakes situations.  Would Jake or Marco have bailed on the attempt, if they found themselves outside and the person they meant to save was a parent?  
->> > stuff about Cassie and Jake
->> You might be right that Jake understands Cassie to some degree, and is correctly seeing her errors.  He's played the conversation a bunch of times and has direct access to her thoughts and feelings.  
->> However, I can't agree that he fully understands her in the scene we see.  I don't have the will to really justify this, but I don't think we would see the coldness or (in his words!) literal hate if he was able to actually deeply grasp her perspective from the inside.  
->> Imo, if he's hating, then 1) we can be pretty confident this is clouding his perception and judgement, hiding and distorting and selectively amplifying and 2) in itself demonstrates he doesn't get something, because Ender says that if you understand someone you love them, and the FFN/Ao3 handle of u/TK17Studios is WhatWouldEnderDo (mic drop).
 >> 
+>> I've only read a couple of the books, randomly discovered at elementary school book fairs.
+>> 
+>> > Not quite the first time - he does the same in Chapter 1, when he springs out of panic mode to talk to Elfangor, and I’d argue that’s a clear case when you know what to look for.
+>> 
+>> Good point!
+>> 
+>> > Stuff about Cassie's death
+>> 
+>> I don't disagree that Jake understands where Cassie is coming from to some extent.  
+>> 
+>> It's hard to really know what to say about Cassie.  I think she carries an important banner that she doesn't know how to explicate in Rationalist terms.  So I could steelman her and say what that thing might be, but I'd just attributing things to her with very little basis.  Certainly at some points she is just making mistakes.
+>> 
+>> Regarding the analysis about her value (given that she is one of the Chosen Ones, she is more important to save than others), I think it's true that she doesn't weigh things correctly, or even-handedly, or for nearly long enough.  On the other hand, I don't think your analysis is right either.  For one thing, any action she takes can be said to be the Ellimist's grand plan for putting her there.  I don't think it especially preferences her staying alive longer rather than shorter, or saving herself rather than someone else.  Further, she can be resurrected whereas Jake's brother and Marco's dad can't be.  Finally, a big reason she makes the call to save both of them is because she thinks doing otherwise would make them hate each other (very possibly losing the war, though that isn't her focus; she also considers saving neither, but it feels pointless because there's nobody who is a much higher priority and she thinks they would then resent her forever).  She realizes she can save the kid, which she wants to do, and sure it's a risk but I don't think we can confidently say she's wrong in her assessment that she can save him and get out of range of the explosion.
+>> 
+>> So, that's not SO crazy.   As you and Marco note, she has found her solution where she gets to save both of them, and help the boy in front of her, and that's enough for her. 
+>> 
+>> Her biggest mistakes comes after that though, not in drawing the line to the wrong point, but in failing to reevaluate as conditions change.  Specifically, she sticks with her decision after Tobias bargains for another person to be saved (saving Erek basically as an afterthought, not reevaluating the chain of emotion and logic that led her to the decision she landed on), and she still goes to save the boy after returning to Time on the outside of the building instead of inside.  Both exemplify the same basic error, but I have a hard time faulting her for it too much.  
+>> 
+>> Saving Erek is worse: she's finally reached a feeling of goodness and confidence in her decisions (something she values extremely highly), and she fuses that with the specific choice she's made, so (as mentioned) sticks with it even when the reasons to do so have been decreased (like, maybe she ought to have decided to teleport the kid away, fly away herself, and let Erek die; she wants to save him less than the kid, clearly, and hasn't even considered this option; indeed, she realizes this immediately after finding herself outside).  That she still tried to save the kid after being outside... well, in both of these cases she's given very little time to think, or reassess the quality of her plan.  Clearly she's a bit stubborn, but we're looking at like a couple minutes of her life.  I don't see these decisions as damning, merely as a demonstration that she lacks the important capacity to think clearly in crises and hold beliefs lightly even in charged states and high-stakes situations.  Would Jake or Marco have bailed on the attempt, if they found themselves outside and the person they meant to save was a parent?  
+>> 
+>> > stuff about Cassie and Jake
+>> 
+>> You might be right that Jake understands Cassie to some degree, and is correctly seeing her errors.  He's played the conversation a bunch of times and has direct access to her thoughts and feelings.  
+>> 
+>> However, I can't agree that he fully understands her in the scene we see.  I don't have the will to really justify this, but I don't think we would see the coldness or (in his words!) literal hate if he was able to actually deeply grasp her perspective from the inside.  
+>> 
+>> Imo, if he's hating, then 1) we can be pretty confident this is clouding his perception and judgement, hiding and distorting and selectively amplifying and 2) in itself demonstrates he doesn't get something, because Ender says that if you understand someone you love them, and the FFN/Ao3 handle of u/TK17Studios is WhatWouldEnderDo (mic drop).
 
->>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >>> 
 >>> Explicit endorsement of 2) 
->>> (Not to be construed as anti-endorsement of anything else.)
 >>> 
+>>> (Not to be construed as anti-endorsement of anything else.)
 
-> **u/oleredrobbins** [+3] *
+> **u/oleredrobbins** [+3]  (8 days later)
 > 
 > Revisiting this thread, another loose end I would like to see tied down is learning more about the Andalites. They are so interesting that anything would be welcome, but specifically I want to know why the Andalites are so militaristic in the first place. In the original series the Yeerk-Anadalite war had been going on for 30 years (IIRC) by the time it reaches Earth, so it makes sense that Andalite culture would be the way it is after three decades of total war. 
-> In this story, the war has been going on for a far shorter period. And yet, Alloran made his reputation as a military genius *before* the war, as his seizure was the opening move. Elfangor was Allorans apprentice and considered a prodigy before the Yeerk war. Who did the Andalites fight before the Yeerks, or who were they preparing to fight?  Helium mentions that Alloran is a "decorated veteran"...of what war? Alloran was training for military service as a child, and we aren't led to believe that this is unusual at all. We already know at this point that the Andalites aren't the noble heroes we may have initially thought. In an earlier chapter Marco finds a blocked memory of *something* that Elfangor found out that made him quit the military. Did he find out something dark about the Andalites war record? Which wars did Alloran fight in, and for what reasons were these wars fought? Granted we basically only get to hear from Ax/Helium who is either a brainwashed teenager or not even an Andalite anymore, but still the knowledge that there were previous wars just seems to be there without any details about what those wars were. Is this the kind of knowledge that has been purged by their powerful group-think?
 > 
+> In this story, the war has been going on for a far shorter period. And yet, Alloran made his reputation as a military genius *before* the war, as his seizure was the opening move. Elfangor was Allorans apprentice and considered a prodigy before the Yeerk war. Who did the Andalites fight before the Yeerks, or who were they preparing to fight?  Helium mentions that Alloran is a "decorated veteran"...of what war? Alloran was training for military service as a child, and we aren't led to believe that this is unusual at all. We already know at this point that the Andalites aren't the noble heroes we may have initially thought. In an earlier chapter Marco finds a blocked memory of *something* that Elfangor found out that made him quit the military. Did he find out something dark about the Andalites war record? Which wars did Alloran fight in, and for what reasons were these wars fought? Granted we basically only get to hear from Ax/Helium who is either a brainwashed teenager or not even an Andalite anymore, but still the knowledge that there were previous wars just seems to be there without any details about what those wars were. Is this the kind of knowledge that has been purged by their powerful group-think?
 
->> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (a month later)
 >> 
 >> This comment has resulted in an interlude, likely to be published this weekend.
->> 
 
->>> **u/oleredrobbins** [+2] *
+>>> **u/oleredrobbins** [+2]  (a month later)
 >>> 
 >>> Awesome!
->>> 
 
 ---
 

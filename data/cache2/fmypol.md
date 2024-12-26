@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/fmypol/pyrebound_133/
-* Score: 18
+* Score: 20
 
 * Created: 2020-03-22T11:48:37
 
@@ -16,31 +16,27 @@ Pyrebound is a story about dire circumstances bringing out the worst in people. 
 
 ### Comments:
 
-> **u/Dent7777** [+5]  *House Atreides**
+> **u/Dent7777** [+6]  *House Atreides* (2 hours later)
 > 
 > Man, I feel like you've really done a great job at capturing a civilization in your words. Brutal, unforgiving, rational and irrational in twisted ways.
-> Reminds me that we live at human civilization's most graceful, most enlightened peak, that it was 100x worse for most of history. I had hoped there was a light at the end of the tunnel, but now I sort of expect Ram to die a tragic, meaningless death raging against the world he was born into.
 > 
+> Reminds me that we live at human civilization's most graceful, most enlightened peak, that it was 100x worse for most of history. I had hoped there was a light at the end of the tunnel, but now I sort of expect Ram to die a tragic, meaningless death raging against the world he was born into.
 
->> **u/RedSheepCole** [+5] *
+>> **u/RedSheepCole** [+4]  (6 hours later)
 >> 
 >> I don't think any civilization remained quite as terrible as this one long-term.  As for the ending, not much I can say beyond "keep reading," and I imagine you'll like next week's too.  Thank you.
->> 
 
->>> **u/Dent7777** [+1]  *House Atreides**
+>>> **u/Dent7777** [+1]  *House Atreides* (6 hours later)
 >>> 
 >>> That, I'll agree with.
->>> 
 
-> **u/CorneliusPhi** [+4] *
+> **u/CorneliusPhi** [+4]  (8 hours later)
 > 
 > I find it hilarious that Ram has accidentally triggered a growing civilization wide civil war between two different classes of autocrats.
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (11 hours later)
 >> 
 >> It will, of course, get worse.
->> 
 
 ---
 

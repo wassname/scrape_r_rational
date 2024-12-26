@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: http://www.anarchyishyperbole.com/2015/12/significant-digits-chapter-thirty-two_20.html
-* Score: 23
+* Score: 21
 
 * Created: 2015-12-20T06:07:49
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/linkhyrule5** [+5] *
+> **u/linkhyrule5** [+4]  (21 hours later)
 > 
 > ... the moment I saw that chapter I immediately thought of Madoka.
-> 
 
-> **u/mrphaethon** [+2]  *Significant Digits**
+> **u/mrphaethon** [+2]  *Significant Digits* (12 seconds later)
 > 
 > /r/hpmor comment thread:
-> https://www.reddit.com/r/HPMOR/comments/3xjw2d/significant_digits_chapter_thirtytwo/
 > 
+> https://www.reddit.com/r/HPMOR/comments/3xjw2d/significant_digits_chapter_thirtytwo/
 
 ---
 

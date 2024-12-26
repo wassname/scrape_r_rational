@@ -2,7 +2,7 @@
 
 * Author: u/DrMaridelMolotov *
 * URL: https://www.reddit.com/r/rational/comments/icbe45/rstwiphfff_avatar_the_last_rationalist_chapter_9/
-* Score: 35
+* Score: 34
 
 * Created: 2020-08-18T22:35:51
 
@@ -33,61 +33,56 @@ Thanks for reading and/or commenting and have a nice day!
 
 ### Comments:
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (40 minutes later)
 > 
 > I know that two buns or pigtail buns are called [odango](https://en.wikipedia.org/wiki/Bun_(hairstyle)) which is a fairly japanese hairstyle, but I don't know what it's called if the buns themselves are layered. Maybe pigtail layered buns?
-> Don't call it double stacked buns, because that hairstyle is having two buns with one bun higher on the head than the other.
 > 
+> Don't call it double stacked buns, because that hairstyle is having two buns with one bun higher on the head than the other.
 
->> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (42 minutes later)
 >> 
 >> As for the calendar, I think you are better off using the ancient one instead of the modern day one for authenticity. Or just make up the names.
->> In fact, there are 4 seasons. So you could match each season to an element, and for the 3 months per season, you can name them anyway you like such as early, mid, and late air/water/earth/fire. That way you have 12 made up names which ties into the cycle of the elements.
 >> 
+>> In fact, there are 4 seasons. So you could match each season to an element, and for the 3 months per season, you can name them anyway you like such as early, mid, and late air/water/earth/fire. That way you have 12 made up names which ties into the cycle of the elements.
 
->>> **u/DrMaridelMolotov** [+2] *
+>>> **u/DrMaridelMolotov** [+2]  (16 hours later)
 >>> 
 >>> Thanks. That seems like a good idea. I guess I could name the months like 2nd Fire or 3rd Air and such.
->>> 
 
->> **u/DrMaridelMolotov** [+2] *
+>> **u/DrMaridelMolotov** [+2]  (47 minutes later)
 >> 
 >> Got it. I guess I can call them stacked orange buns or something because I don’t think I’ve ever seen another character or person ever have that haircut and what you suggested does seem to be the closest to her haircut. Thanks for the help.
->> 
 
-> **u/D0TheMath** [+2]  *Dragon Army**
+> **u/D0TheMath** [+2]  *Dragon Army* (5 days later)
 > 
 > I don't know the answer to your first question (you could try asking /r/TheLastAirbender), nor do I have any good ideas for your second. 
-> But I really like the story so far. I just started reading it, and got caught up. I hope you continue it. The characters are written really well, very canonical personalities.
 > 
+> But I really like the story so far. I just started reading it, and got caught up. I hope you continue it. The characters are written really well, very canonical personalities.
 
->> **u/DrMaridelMolotov** [+2] *
+>> **u/DrMaridelMolotov** [+2]  (5 days later)
 >> 
 >> Thanks I’ll try posting the question on that subreddit. Thanks for the support and I’m glad you enjoyed reading it. I will continue it and have no plans on abandoning it. Thanks again!
->> 
 
-> **u/zombieking26** [+2] *
+> **u/zombieking26** [+2]  (5 days later)
 > 
 > Yey thank you for continuing!
-> As for what you said at the end, I personally love the avatar and how he's from the modern world, but I'm confused/worried about Black (Is she even from the series? I have no idea who she is). Also, I wish we got more from Zuko.
-> Regardless, thanks for the great chapter :)
 > 
+> As for what you said at the end, I personally love the avatar and how he's from the modern world, but I'm confused/worried about Black (Is she even from the series? I have no idea who she is). Also, I wish we got more from Zuko.
+> 
+> Regardless, thanks for the great chapter :)
 
->> **u/DrMaridelMolotov** [+2] *
+>> **u/DrMaridelMolotov** [+2]  (5 days later)
 >> 
 >> Thanks for the support. As to your question, Black isn’t from the series, she’s from the modern world.
->> 
 
-> **u/Pauliomat** [+2] *
+> **u/Pauliomat** [+2]  (7 days later)
 > 
 > good job with the story, am rly liking all the mysteries shown to us, and the slow trickle of revelations. the first chapter was for my liking a bit heavy( Information dumb wise) but it improved as the story rly set in.
 > hope this fanfic is gonna be rly long, good health and such
-> 
 
->> **u/DrMaridelMolotov** [+1] *
+>> **u/DrMaridelMolotov** [+1]  (8 days later)
 >> 
 >> Thanks. I'll try to improve the first chapter later. I agree it's a lot of infodump. The fiction will be long and I won't abandon something I put this much work into.
->> 
 
 ---
 

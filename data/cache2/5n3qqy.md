@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/semiurge** [+2] *
+> **u/semiurge** [+2]  (9 hours later)
 > 
 > > you’re telling me that it hasn’t made you question whether you’re actually working for secret Nazis or something?
-> Almost as bad Garcia, an [incompetent institution](http://www.nytimes.com/2007/07/22/books/review/Thomas-t.html). But yeah, there were [some Nazis too](https://www.nytimes.com/2014/10/27/us/in-cold-war-us-spy-agencies-used-1000-nazis.html).
 > 
+> Almost as bad Garcia, an [incompetent institution](http://www.nytimes.com/2007/07/22/books/review/Thomas-t.html). But yeah, there were [some Nazis too](https://www.nytimes.com/2014/10/27/us/in-cold-war-us-spy-agencies-used-1000-nazis.html).
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/rabotat *
 * URL: https://www.fictionpress.com/s/3308448/9/Eleventh-prince
-* Score: 6
+* Score: 5
 
 * Created: 2017-09-01T02:22:04
 

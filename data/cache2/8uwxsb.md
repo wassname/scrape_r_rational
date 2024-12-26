@@ -2,7 +2,7 @@
 
 * Author: u/WeirdWhirl *
 * URL: https://www.reddit.com/r/rational/comments/8uwxsb/rtwipdc_the_dao_of_magic_chapter_146_tm_150/
-* Score: 9
+* Score: 6
 
 * Created: 2018-06-29T21:40:50
 
@@ -43,35 +43,29 @@
 
 ### Comments:
 
-> **u/Amonwilde** [+10] *
+> **u/Amonwilde** [+9]  (4 hours later)
 > 
 > Is this good? I was put off by the tone in the first chapter or so. The protagonist seems intolerable.
-> 
 
->> **u/serge_cell** [+7] *
+>> **u/serge_cell** [+7]  (6 hours later)
 >> 
 >> It's about the same tone aftewards.
->> 
 
->> **u/josephwdye** [+7]  *I love you**
+>> **u/josephwdye** [+7]  *I love you* (7 hours later)
 >> 
 >> It's not great. I read the first 50k and I wouldn't suggested.
->> 
 
->> **u/Cuz_Im_TFK** [+4] *
+>> **u/Cuz_Im_TFK** [+4]  (22 hours later)
 >> 
 >> I dropped it around ch14 I think when it went from interesting chi-based mental apparati to weird kidnapped boot camp...
->> 
 
->> **u/zombieking26** [+2] *
+>> **u/zombieking26** [+2]  (a day later)
 >> 
 >> It's magic system is literally magic, it's barely rational. And yes, the tone/main character is pretty consistent
->> 
 
-> **u/MaddoScientisto** [+1] *
+> **u/MaddoScientisto** [+1]  (5 days later)
 > 
 > I really enjoyed reading through the whole thing, looks like I have a soft spot for asshole magical teachers from heart, it reminded me of oretachi, that one was excellent too
-> 
 
 ---
 

@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 minutes later)
 > 
 > His profile says hes gonna update it today.
-> 
 
->> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (5 minutes later)
 >> 
 >> thank you. Hence I will delete this post in order to not create confusion
->> 
 
 ---
 

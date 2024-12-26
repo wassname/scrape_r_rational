@@ -30,20 +30,17 @@ Anyway let me know and I hope you are enjoying the audiobook.
 
 ### Comments:
 
-> **u/reddithanG** [+6] *
+> **u/reddithanG** [+5]  (11 hours later)
 > 
 > I dont own Adobe after effects, but what characters would you want to see designed?
-> 
 
->> **u/JackVoraces** [+4] *
+>> **u/JackVoraces** [+6]  (11 hours later)
 >> 
 >> You don't need after effects just software to make the artwork. As many as possible/all of them.
->> 
 
-> **u/TheAtomicOption** [+2] *
+> **u/TheAtomicOption** [+2]  (a day later)
 > 
 > I sadly don't have the strongest talent in this area (or the time to do it), but I will definitely be watching for the episodes to start coming out. I have several friends who listen instead or read almost exclusively and I'd love to get them onto MoL
-> 
 
 ---
 

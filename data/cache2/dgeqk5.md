@@ -2,7 +2,7 @@
 
 * Author: u/westward101 *
 * URL: https://www.reddit.com/r/rational/comments/dgeqk5/rattle_fiction_podcast_episode_9_the_grakian/
-* Score: 7
+* Score: 9
 
 * Created: 2019-10-11T12:53:29
 
@@ -20,20 +20,17 @@ Enjoy!
 
 ### Comments:
 
-> **u/major_fox_pass** [+2] *
+> **u/major_fox_pass** [+2]  (an hour later)
 > 
 > Your link to The Grakian Choice is broken.
-> 
 
->> **u/westward101** [+2] *
+>> **u/westward101** [+2]  (an hour later)
 >> 
 >> Fixed. Thanks!
->> 
 
-> **u/CeruleanTresses** [+2] *
+> **u/CeruleanTresses** [+2]  (a day later)
 > 
 > Nice! I enjoyed all of the contest entries, but this one was my favorite. Good to see it getting the audiobook treatment.
-> 
 
 ---
 

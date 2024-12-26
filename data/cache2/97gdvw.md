@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/LapisLightning** [+2] *
+> **u/LapisLightning** [+2]  (a minute later)
 > 
 > *🎵 Heal the world / Make it a better place🎵* 
-> In which we see how much Gabe has changed since the beginning of the story; from an impulsive asshole to a diplomat and one of the most rational characters.
 > 
+> In which we see how much Gabe has changed since the beginning of the story; from an impulsive asshole to a diplomat and one of the most rational characters.
 
 ---
 

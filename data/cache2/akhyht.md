@@ -2,7 +2,7 @@
 
 * Author: u/malusGreen *
 * URL: https://www.reddit.com/r/rational/comments/akhyht/recommendation_for_broken_veteran_protag_learning/
-* Score: 13
+* Score: 11
 
 * Created: 2019-01-28T00:46:19
 
@@ -45,94 +45,109 @@ EDIT: This is the list of things I've already read/watched. You can read it as i
 
 ### Comments:
 
-> **u/Kuiper** [+9] *
+> **u/Kuiper** [+10]  (2 hours later)
 > 
 > This may not be exactly what you're looking for, but Full Metal Panic (light novel with an anime adaptation) ticks a lot of your boxes.  Protag-kun is a child soldier who spent his early years as part of an insurgency in Afghanistan, then gets socialized as a Japanese teenager so that he can go undercover at a Japanese high school to protect an important military asset.  (There's a bit of fish-out-of-water comedy aspect to the early seasons, as the skills he picked up as a child soldier are poorly suited to life as a Japanese high schooler, he's paranoid and has a bit of a hair trigger when it comes to reacting to situations with violence, which is mostly played for laughs.)
-> Full Metal Panic is set in an alternate history (alternate present?) based on a timeline where the Cold War never ended, and the US-Soviet arms race continued to the point where both sides developed mecha, and these mecha are the main tools of armed conflict around the world.  In this alternate timeline, China (like Korea and Vietnam) had its own civil war, and is split into communist North China and democratic South China.
-> The mecha each sort of embody the ethos of certain kinds of weaponry and military, e.g. the Soviet Rk-92 is basically "What if the AK-47 was a robot": an ugly and heavy yet effective mass-produced mecha that's easy to pilot, exported en masse to North Korea and North China and serves as the backbone of many insurgencies around the world, while the United States M9 Gernsback is basically the embodiment of the Navy Seals in mecha form: special operations that are piloted by elite soldiers and require a lot of training to use effectively.
-> The military asset that Protag-kun guards is a female classmate who is one of a few people throughout the world who seem to possess supernaturally-high aptitude for science and engineering, to the point that most major advances of weapons research (e.g. the development of mecha) can be linked to government-run weapons programs effectively utilizing individuals who possess this ability.  Unsurprisingly, this makes her a target for kidnappers (which is why Protag-kun is deployed to protect her in the first place).
-> In the early seasons, Protag-kun develops emotional connections to the people he spends time with during his undercover assignment (including the asset he was assigned to protect), and the later seasons deal with the consequences of that as he's unable to protect the people he cares about when the enemy proves to be too strong for his unit to handle.  There's also the fact that the call of duty sometimes pulls him away from the people that he cares about, because the world has immediate pressing threats that are more important than "hang around in Japan and keep an eye on your friends."
-> The series probably wouldn't get a seal of approval from /r/rational for several reasons: in the early seasons, the show has some breaks in logic for the sake of comedy.  As stated before, the fish-out-of-water aspect of a hardened soldier trying to adapt to life as a high school student is a big source of comedy early on, but the consequence of this is that if you take a step back, it becomes evident that Protag-kun is actually really bad at the whole "undercover" aspect of his assignment, which would lead one to question why he was selected for this mission in the first place.  Later in the series, the villains' motivations also are sometimes clearly defined: their actions are always tactically sound (when the bad guys play, they play to win, and they're usually pretty good at it), but they're not always comprehensible from a strategic point of view.  For example, the main antagonist of season 3 is explicitly insane and sometimes kills people just for the heck of it, which also sort of leads you to question the rationality of anyone who gave him that position of power.
-> That being said, I think there are a lot of things about it that would probably get a thumbs up, particularly the world building.  Apart from the present-day Cold War setting being interesting on its own (and the design of the mechs reflecting the military ethos of the sides of the conflict that they represent in a way that I find to be very cool), it does a good job of making the robots feel like pieces of machinery that came out of a factory, rather than cool-looking characters that you'd see out of a Saturday morning cartoon meant to sell plastic toys.  And when the robots do have extra "flair," it tends to have an in-universe explanation for these concessions to coolness.  For example, the main character's mecha has a distinctive-looking head that distinguishes it from the standard-issue M9, but the purpose of the different head design is to hold an anti-tank dagger.  The antagonist of the first arc has a mech with an attachment on the back of its head that looks sort of like hair that is bound into a ponytail, but this is explained as being a heat sink.  And the series does acknowledge certain engineering limitations, like how the square-cube law basically places a limitation on how big a robot could be before it collapsed under its own weight, and how being really big at a certain point basically becomes a superpower that requires warping the laws of physics.
-> Probably my favorite thing about the series is that rather than succumbing to power creep, it often does the opposite: as the stakes grow higher and situations grow more desperate, the resources available to the main character tend to decrease and he has to complete his missions with *less* powerful hardware.  This is especially true in the latest season, where there's a real element of "Here's what we were able to scrounge up, hopefully your expertise as a pilot and your ability to use the terrain tactically will make up for it."  It really does feel like he is surviving by his wits most of the time.
-> I recommend the anime, which adapts the light novels pretty faithfully; the animation quality sees a pretty significant uptick in quality after the first season, when KyoAni got the show. If you decide to read instead of watch, I'd still recommend watching The Wind Blows at Home (parts 1, 2, and 3) from the anime's first season (episodes 15-17) after reading the second volume of the light novel.  Notably, this arc has a very "post 9/11" feel to it, as it was added in the anime adaptation that aired in 2002 (not part of the original light novels, which were written during the 90's), and it focuses on a story where the main character assists the US military as part of a mission to hunt down a terrorist in Afghanistan, which actually works really well with the story's fiction because Protag-kun is familiar with the geography of the area due to his childhood, and he has a personal connection to the terrorist they are hunting down.  (The original story was written in the years following the Gulf War, so a lot of the groundwork was already laid.) There's also a manga which more loosely adapts the events of the light novels with some original side stories, the early events of the series are covered by the manga series written and illustrated by Retsu Tateo (simply titled "Full Metal Panic") and the later events of the series are covered in the manga series illustrated by Hiroshi Ueda (titled "Full Metal Panic Sigma"), which takes a few more liberties with the story. (Any other manga apart from these are sort of official fanworks and not really related to FMP canon.)
 > 
+> Full Metal Panic is set in an alternate history (alternate present?) based on a timeline where the Cold War never ended, and the US-Soviet arms race continued to the point where both sides developed mecha, and these mecha are the main tools of armed conflict around the world.  In this alternate timeline, China (like Korea and Vietnam) had its own civil war, and is split into communist North China and democratic South China.
+> 
+> The mecha each sort of embody the ethos of certain kinds of weaponry and military, e.g. the Soviet Rk-92 is basically "What if the AK-47 was a robot": an ugly and heavy yet effective mass-produced mecha that's easy to pilot, exported en masse to North Korea and North China and serves as the backbone of many insurgencies around the world, while the United States M9 Gernsback is basically the embodiment of the Navy Seals in mecha form: special operations that are piloted by elite soldiers and require a lot of training to use effectively.
+> 
+> The military asset that Protag-kun guards is a female classmate who is one of a few people throughout the world who seem to possess supernaturally-high aptitude for science and engineering, to the point that most major advances of weapons research (e.g. the development of mecha) can be linked to government-run weapons programs effectively utilizing individuals who possess this ability.  Unsurprisingly, this makes her a target for kidnappers (which is why Protag-kun is deployed to protect her in the first place).
+> 
+> In the early seasons, Protag-kun develops emotional connections to the people he spends time with during his undercover assignment (including the asset he was assigned to protect), and the later seasons deal with the consequences of that as he's unable to protect the people he cares about when the enemy proves to be too strong for his unit to handle.  There's also the fact that the call of duty sometimes pulls him away from the people that he cares about, because the world has immediate pressing threats that are more important than "hang around in Japan and keep an eye on your friends."
+> 
+> The series probably wouldn't get a seal of approval from /r/rational for several reasons: in the early seasons, the show has some breaks in logic for the sake of comedy.  As stated before, the fish-out-of-water aspect of a hardened soldier trying to adapt to life as a high school student is a big source of comedy early on, but the consequence of this is that if you take a step back, it becomes evident that Protag-kun is actually really bad at the whole "undercover" aspect of his assignment, which would lead one to question why he was selected for this mission in the first place.  Later in the series, the villains' motivations also are sometimes clearly defined: their actions are always tactically sound (when the bad guys play, they play to win, and they're usually pretty good at it), but they're not always comprehensible from a strategic point of view.  For example, the main antagonist of season 3 is explicitly insane and sometimes kills people just for the heck of it, which also sort of leads you to question the rationality of anyone who gave him that position of power.
+> 
+> That being said, I think there are a lot of things about it that would probably get a thumbs up, particularly the world building.  Apart from the present-day Cold War setting being interesting on its own (and the design of the mechs reflecting the military ethos of the sides of the conflict that they represent in a way that I find to be very cool), it does a good job of making the robots feel like pieces of machinery that came out of a factory, rather than cool-looking characters that you'd see out of a Saturday morning cartoon meant to sell plastic toys.  And when the robots do have extra "flair," it tends to have an in-universe explanation for these concessions to coolness.  For example, the main character's mecha has a distinctive-looking head that distinguishes it from the standard-issue M9, but the purpose of the different head design is to hold an anti-tank dagger.  The antagonist of the first arc has a mech with an attachment on the back of its head that looks sort of like hair that is bound into a ponytail, but this is explained as being a heat sink.  And the series does acknowledge certain engineering limitations, like how the square-cube law basically places a limitation on how big a robot could be before it collapsed under its own weight, and how being really big at a certain point basically becomes a superpower that requires warping the laws of physics.
+> 
+> Probably my favorite thing about the series is that rather than succumbing to power creep, it often does the opposite: as the stakes grow higher and situations grow more desperate, the resources available to the main character tend to decrease and he has to complete his missions with *less* powerful hardware.  This is especially true in the latest season, where there's a real element of "Here's what we were able to scrounge up, hopefully your expertise as a pilot and your ability to use the terrain tactically will make up for it."  It really does feel like he is surviving by his wits most of the time.
+> 
+> I recommend the anime, which adapts the light novels pretty faithfully; the animation quality sees a pretty significant uptick in quality after the first season, when KyoAni got the show. If you decide to read instead of watch, I'd still recommend watching The Wind Blows at Home (parts 1, 2, and 3) from the anime's first season (episodes 15-17) after reading the second volume of the light novel.  Notably, this arc has a very "post 9/11" feel to it, as it was added in the anime adaptation that aired in 2002 (not part of the original light novels, which were written during the 90's), and it focuses on a story where the main character assists the US military as part of a mission to hunt down a terrorist in Afghanistan, which actually works really well with the story's fiction because Protag-kun is familiar with the geography of the area due to his childhood, and he has a personal connection to the terrorist they are hunting down.  (The original story was written in the years following the Gulf War, so a lot of the groundwork was already laid.) There's also a manga which more loosely adapts the events of the light novels with some original side stories, the early events of the series are covered by the manga series written and illustrated by Retsu Tateo (simply titled "Full Metal Panic") and the later events of the series are covered in the manga series illustrated by Hiroshi Ueda (titled "Full Metal Panic Sigma"), which takes a few more liberties with the story. (Any other manga apart from these are sort of official fanworks and not really related to FMP canon.)
 
->> **u/fassina2** [+2]  *Progressive Overload**
+>> **u/fassina2** [+2]  *Progressive Overload* (a day later)
 >> 
 >> It sounds cool, but mechas just can't get past my suspension of disbelief. They just break all the rules of effectiveness and efficiency. I know they are never going to be used as weapons even when we can use them so it just irks me, always has ever since I was a kid.
->> 
 
->> **u/malusGreen** [+1] *
+>> **u/malusGreen** [+1]  (15 hours later)
 >> 
 >> I'll take a look. Though I may save it for later since the fish-out-of-water is played for laughs. I'm looking for some tragedy and healing.
->> 
 
-> **u/XxChronOblivionxX** [+3] *
+> **u/XxChronOblivionxX** [+3]  (an hour later)
 > 
 > That is a character arc that I also like quite a bit, and I have a few recommendations that approximately fit that criteria.
-> First up, the most obvious one is **[My Trans-Dimensional, Overpowered Protagonist, Harem Comedy is Wrong, as Expected](https://forums.spacebattles.com/threads/my-trans-dimensional-overpowered-protagonist-harem-comedy-is-wrong-as-expected-oregairu-danmachi.367903)**, an OreGairu/DanMachi crossover fic. It is quite fantastic, it's one of the best iterations of Hachiman out there.  Has the protagonist and themes of OreGairu, with the plot and cast of DanMachi, set a couple of years after Hachiman is Isekai'd into DanMachi with a seriously powerful ability and the instruction to reach the end of the Dungeon if he ever wants to see his home again.  While plot basically follows DanMachi canon, the true thematic focus on the story is on Hachiman's character arc and personal relationships.  Hachiman has to deal with loss, figure out how much he wants to emotionally open up to people, and question how much of his own physical and mental wellness to sacrifice for the sake of the same loved ones who can't stand seeing him hurt. Fantastic stuff.
-> Secondly, we have the **[Learning to Feel](https://www.fanfiction.net/s/10236595/1/Learning-To-Feel)** a Kill la Kill fic, so HEAVY SPOILERS FOR KLK. Post-canon, set a couple of years after the ending of the show. Getting right to fundamentals of this one, this is the story of Satsuki slowly learning how to experience physical intimacy in spite of the major traumas she suffered from her mother's pervasive sexual abuse of her as a child and teenager. Fits your criteria mainly for the part where Satsuki did in fact fight extremely hard, and she did experience great trauma, even if the two don't totally coincide. As this story is focused almost entirely on sexuality, it is NSFW, so Your Mileage May Vary.  But I must recommend it because even if it is short and somewhat barebones, what is there is quite effective at making me feel deep empathy for a hurting person slowly rediscovering a piece of herself that has been shut away for far too long.
-> Thirdly, we have what is probably the most depressing piece of fanfiction I really like, is **[Queen of Sorrows](https://www.fanfiction.net/s/5465572/1/Queen-of-Sorrow)**, a Fire Emblem fic set in the Path of Radiance / Radiant Dawn continent, at the end of Book 2.  In the wake of refusing to release the imprisoned leader of the newly vanquished rebellion in exchange for her kidnapped best friend Lucia, in this story Lucia is not rescued at the last moment, in this she is summarily executed in front of Elincia's own eyes. This is not the story of a broken hero trying to heal, this is the story of that person breaking, as she attempts to come to grips with both her own overwhelming grief, and the responsibility that comes unto a Queen faced with an immense array of threats to the livelihoods of her people. Elincia's character arc is marvelously done, the ending is a masterpiece, and damn this story bums me out. But it's the one and only Fire Emblem fic that I even slightly remember, and the one I always see rec'd whenever Fire Emblem comes up.
-> Outside of fanfiction, the somewhat recent Violet Evergarden is an anime about a young female soldier with severe PTSD slowly learning how to understand both herself and the people around her. Basically exactly what you're looking for, except the war is over and the story is all about Violet. I haven't finished this one yet, but I'm told it's just as amazing as it has appeared so far.
 > 
+> First up, the most obvious one is **[My Trans-Dimensional, Overpowered Protagonist, Harem Comedy is Wrong, as Expected](https://forums.spacebattles.com/threads/my-trans-dimensional-overpowered-protagonist-harem-comedy-is-wrong-as-expected-oregairu-danmachi.367903)**, an OreGairu/DanMachi crossover fic. It is quite fantastic, it's one of the best iterations of Hachiman out there.  Has the protagonist and themes of OreGairu, with the plot and cast of DanMachi, set a couple of years after Hachiman is Isekai'd into DanMachi with a seriously powerful ability and the instruction to reach the end of the Dungeon if he ever wants to see his home again.  While plot basically follows DanMachi canon, the true thematic focus on the story is on Hachiman's character arc and personal relationships.  Hachiman has to deal with loss, figure out how much he wants to emotionally open up to people, and question how much of his own physical and mental wellness to sacrifice for the sake of the same loved ones who can't stand seeing him hurt. Fantastic stuff.
+> 
+> Secondly, we have the **[Learning to Feel](https://www.fanfiction.net/s/10236595/1/Learning-To-Feel)** a Kill la Kill fic, so HEAVY SPOILERS FOR KLK. Post-canon, set a couple of years after the ending of the show. Getting right to fundamentals of this one, this is the story of Satsuki slowly learning how to experience physical intimacy in spite of the major traumas she suffered from her mother's pervasive sexual abuse of her as a child and teenager. Fits your criteria mainly for the part where Satsuki did in fact fight extremely hard, and she did experience great trauma, even if the two don't totally coincide. As this story is focused almost entirely on sexuality, it is NSFW, so Your Mileage May Vary.  But I must recommend it because even if it is short and somewhat barebones, what is there is quite effective at making me feel deep empathy for a hurting person slowly rediscovering a piece of herself that has been shut away for far too long.
+> 
+> Thirdly, we have what is probably the most depressing piece of fanfiction I really like, is **[Queen of Sorrows](https://www.fanfiction.net/s/5465572/1/Queen-of-Sorrow)**, a Fire Emblem fic set in the Path of Radiance / Radiant Dawn continent, at the end of Book 2.  In the wake of refusing to release the imprisoned leader of the newly vanquished rebellion in exchange for her kidnapped best friend Lucia, in this story Lucia is not rescued at the last moment, in this she is summarily executed in front of Elincia's own eyes. This is not the story of a broken hero trying to heal, this is the story of that person breaking, as she attempts to come to grips with both her own overwhelming grief, and the responsibility that comes unto a Queen faced with an immense array of threats to the livelihoods of her people. Elincia's character arc is marvelously done, the ending is a masterpiece, and damn this story bums me out. But it's the one and only Fire Emblem fic that I even slightly remember, and the one I always see rec'd whenever Fire Emblem comes up.
+> 
+> Outside of fanfiction, the somewhat recent Violet Evergarden is an anime about a young female soldier with severe PTSD slowly learning how to understand both herself and the people around her. Basically exactly what you're looking for, except the war is over and the story is all about Violet. I haven't finished this one yet, but I'm told it's just as amazing as it has appeared so far.
 
->> **u/malusGreen** [+1] *
+>> **u/malusGreen** [+1]  (an hour later)
 >> 
 >> Really loved the first one. 
->> I'll try out the second.
->> I'll tuck the last one away for later because I really don't know how to take my shots tragedy without some *hope* as chaser right now.
->> Loved, adored, and was enraptured by Violet Evergarden. It was beautiful, though it lacked a bit of substance for me after episode 10. The quiet moments where Violet expresses herself in the minutia of her actions takes my breath away. (Though, to my annoyance it's the part that bores most people.)
->> To end it off: I think I'll move *Hope in a Dark World* up to my core enjoyment criteria, since upon reflection that's the particular drug I'd like a fix of at the moment.
 >> 
+>> I'll try out the second.
+>> 
+>> I'll tuck the last one away for later because I really don't know how to take my shots tragedy without some *hope* as chaser right now.
+>> 
+>> Loved, adored, and was enraptured by Violet Evergarden. It was beautiful, though it lacked a bit of substance for me after episode 10. The quiet moments where Violet expresses herself in the minutia of her actions takes my breath away. (Though, to my annoyance it's the part that bores most people.)
+>> 
+>> To end it off: I think I'll move *Hope in a Dark World* up to my core enjoyment criteria, since upon reflection that's the particular drug I'd like a fix of at the moment.
 
->> **u/razorfloss** [+1] *
+>> **u/razorfloss** [+1]  (a day later)
 >> 
 >> Whooo boy queen of sorrows is dark. Good story but damn she did somebody wrong that was not a good death and hope she never gets a good night's sleep for the rest of her life.
->> 
 
-> **u/red_adair** [+3]  *{{explosive-stub}}**
+> **u/red_adair** [+3]  *{{explosive-stub}}* (17 minutes later)
 > 
 > Ann Leckie's Imperial Radch trilogy sounds like it might suit you.
+> 
 > Perhaps also the following anime:
 > - [Gundam: Iron-Blooded Orphans](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam%3A_Iron-Blooded_Orphans), specifically the arcs of Orga and (in season 2) Vidar.
 > - [Diebuster/Top wo Nerae 2](https://en.wikipedia.org/wiki/Diebuster), specifically Lal'c's arc.
-> 
 
->> **u/malusGreen** [+2] *
+>> **u/malusGreen** [+2]  (24 minutes later)
 >> 
 >> > Ann Leckie's Imperial Radch
->> I didn't pick it up since it seemed like the main character's goals were very self-oriented. i.e. Revenge. 
->> I tend to appreciate anime despite its many flaws, since we tend to get mc who fight for something they deeply (and sincerely!) believe in. Things such as friendship, and protecting something they deeply value, such as peace are more often the motivations of characters. 
->> tl;dr Having the main character fight for something they deeply believe in is important.
 >> 
+>> I didn't pick it up since it seemed like the main character's goals were very self-oriented. i.e. Revenge. 
+>> 
+>> I tend to appreciate anime despite its many flaws, since we tend to get mc who fight for something they deeply (and sincerely!) believe in. Things such as friendship, and protecting something they deeply value, such as peace are more often the motivations of characters. 
+>> 
+>> tl;dr Having the main character fight for something they deeply believe in is important.
 
->>> **u/red_adair** [+1]  *{{explosive-stub}}**
+>>> **u/red_adair** [+1]  *{{explosive-stub}}* (2 hours later)
 >>> 
 >>> Breq's character arc starts with revenge, but pivots to "the best revenge is living well" by the second book, and in the third book her goals are not focused on herself or on the previous target of her revenge. (Well, the goals are not focused on those things except as a means to an end, and that end is focused outside those things.)
->>> 
 
-> **u/sibswagl** [+2] *
+> **u/sibswagl** [+2]  (8 days later)
 > 
 > [Learning to Breathe](https://www.fanfiction.net/s/2559745/1/Learning-to-Breathe) is a Harry Potter AU where Sirius Black learns of the prophecy and decides to turn Harry into a soldier. The story takes place after Voldemort's defeat, when Harry attends Hogwarts and has to learn how to be normal
-> This isn't precisely a rational fic, but it does offer some interesting ideas, like very efficient ways to kill with magic and invisibility pants (cloaks, after all, are visible from underneath).
 > 
+> This isn't precisely a rational fic, but it does offer some interesting ideas, like very efficient ways to kill with magic and invisibility pants (cloaks, after all, are visible from underneath).
 
-> **u/fassina2** [+1]  *Progressive Overload**
+> **u/fassina2** [+1]  *Progressive Overload* (a day later)
 > 
 > > I am intensely interested in narratives where the protagonist pushes themselves to the brink to protect something they value, only to find themselves broken on the other side. I am even more intensely interested in stories where they are given a chance to reflect, and a chance to heal. 
-> &#x200B;
-> Blackwing is really good. MC is a military general fallen from grace, turned drunken mercenary band leader, being forced to fight or die / to protect the lost love of his youth and his country..
-> &#x200B;
-> Maybe this fits what you're looking for.
-> &#x200B;
-> BTW is the manga for oregairu good? Or novel only ?
 > 
+> &#x200B;
+> 
+> Blackwing is really good. MC is a military general fallen from grace, turned drunken mercenary band leader, being forced to fight or die / to protect the lost love of his youth and his country..
+> 
+> &#x200B;
+> 
+> Maybe this fits what you're looking for.
+> 
+> &#x200B;
+> 
+> BTW is the manga for oregairu good? Or novel only ?
 
->> **u/malusGreen** [+1] *
+>> **u/malusGreen** [+1]  (2 days later)
 >> 
 >> Manga is pretty meh in the first many chapters, but the quality ramps up. There are also a few manga versions. But they are all pretty faithful to the source material, they just have different takes on how to express it.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/DiscyD3rp  *Wannabe Shakespeare**
 * URL: https://docs.google.com/document/d/1AU8o3wSAiufh-Eg1FtL-6656dNvbCFILCi2GbeESsb4/edit
-* Score: 6
+* Score: 5
 
 * Created: 2014-06-09T02:34:23
 
@@ -12,68 +12,65 @@
 
 ### Comments:
 
-> **u/DataPacRat** [+3]  *Amateur Immortalist**
+> **u/DataPacRat** [+3]  *Amateur Immortalist* (an hour later)
 > 
 > 'Interesting' and 'odd' are both definitely among what I've been aiming for. :)
-> (And yes, I'm still working on Book Two; I'm not hitting 4k words a day like I was when I started, but I'm still adding some more every day.)
 > 
+> (And yes, I'm still working on Book Two; I'm not hitting 4k words a day like I was when I started, but I'm still adding some more every day.)
 
->> **u/DiscyD3rp** [+2]  *Wannabe Shakespeare**
+>> **u/DiscyD3rp** [+2]  *Wannabe Shakespeare* (an hour later)
 >> 
 >> Oh, the author himself appears. You should know that I was not expecting such a captivating story come out of nowhere like this. I'm really enjoying it so far.
->> An interesting note: I think the story's format matches well with a serial comic. I keep imagining the cell layouts and dialogue boxes as I read. The character and setting descriptions are just *begging* to be drawn.
 >> 
+>> An interesting note: I think the story's format matches well with a serial comic. I keep imagining the cell layouts and dialogue boxes as I read. The character and setting descriptions are just *begging* to be drawn.
 
->>> **u/DataPacRat** [+3]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+4]  *Amateur Immortalist* (2 hours later)
 >>> 
 >>> > Oh, the author himself appears.
->>> It was a comment in this subreddit that I should "Just start writing" that prompted me to do just that; I've been keeping a close eye on this place since then.
->>> If I may ask, where did you learn of S.I.? SpaceBattles? LessWrong Discussion? Elsewhere?
-
->>> > The character and setting descriptions are just begging to be drawn.
->>> I'm certainly a fan of comics, including having learned some important lessons about story-telling from Scott McCloud's "Understanding Comics" and sequels; and I try to keep the visuals firmly in mind as I write. I know a few artists who'd probably be happy to create some images, but the going rate is around $20+ for a full-body figure with no background, and while I've got time to think about plots and write things down, it's a bit harder for me to convert my time into spare cash. That said, I have noted down a few visual references that come reasonably close: https://sfw.sofurry.com/view/602824 , https://sfw.furaffinity.net/view/12351256/ , and on NeutronAlchemist on DeviantArt has some NSFW photomorphs that have reasonably representative anatomy.
 >>> 
+>>> It was a comment in this subreddit that I should "Just start writing" that prompted me to do just that; I've been keeping a close eye on this place since then.
+>>> 
+>>> If I may ask, where did you learn of S.I.? SpaceBattles? LessWrong Discussion? Elsewhere?
+>>> 
+>>> > The character and setting descriptions are just begging to be drawn.
+>>> 
+>>> I'm certainly a fan of comics, including having learned some important lessons about story-telling from Scott McCloud's "Understanding Comics" and sequels; and I try to keep the visuals firmly in mind as I write. I know a few artists who'd probably be happy to create some images, but the going rate is around $20+ for a full-body figure with no background, and while I've got time to think about plots and write things down, it's a bit harder for me to convert my time into spare cash. That said, I have noted down a few visual references that come reasonably close: https://sfw.sofurry.com/view/602824 , https://sfw.furaffinity.net/view/12351256/ , and on NeutronAlchemist on DeviantArt has some NSFW photomorphs that have reasonably representative anatomy.
 
->>>> **u/DiscyD3rp** [+1]  *Wannabe Shakespeare**
+>>>> **u/DiscyD3rp** [+1]  *Wannabe Shakespeare* (3 hours later)
 >>>> 
 >>>> LessWrong is where I initially saw the link, I'm fairly sure.
->>>> 
 
->> **u/Newfur** [+2]  *Crazy like a fox. Literally.**
+>> **u/Newfur** [+2]  *Crazy like a fox. Literally.* (a day later)
 >> 
 >> You aren't a furry by any chance, are you? Because a lot of what I am reading strongly suggests either that or strong ties of another type to the subculture. If it weren't already painfully evident by both my username and flair, I am one, if generally quietly. I approve.
->> 
 
->>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (a day later)
 >>> 
 >>> Does [this](https://sfw.furaffinity.net/view/6208670/) answer your question? :)
+>>> 
 >>>     -----BEGIN FURRY CODE BLOCK-----
 >>>     Version: 1.3
 >>>     FRRct3a A– C- D H- M~+ P R+++ T W+>++ Z+ Sf#
 >>>     RLAT a+ cl++++ d++ e+/* f h+ i+++ j+ p s#
 >>>     ------END FURRY CODE BLOCK------
->>> 
 
->>>> **u/Newfur** [+1]  *Crazy like a fox. Literally.**
+>>>> **u/Newfur** [+1]  *Crazy like a fox. Literally.* (a day later)
 >>>> 
 >>>> Absolutely does.
->>>> 
 
->> **u/someonewrongonthenet** [+1] *
+>> **u/someonewrongonthenet** [+1]  (4 hours later)
 >> 
 >> So, one thing I wasn't clear on but pieced together later and want to confirm if true: The imaginary-friend-turned-into-rabbit body was designed by the AI, and the future-humans *find* it along with the cryo-frozen corpse, and decide to place the brain inside it BUT the AI designed the body with its own goals in mind so they can't trust it. Yes?
->> (I'm only part way thru so sorry if this was clarified later)
 >> 
+>> (I'm only part way thru so sorry if this was clarified later)
 
->>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (4 hours later)
 >>> 
 >>> That's reasonably accurate. The closest I have to a quibble is that the cryo-frozen corpse isn't dead when the future-humans find him and the bunny, so 'corpse' might not be the best word. ('Corpsicle', on the other paw, has a long and distinguished history...)
->>> 
 
->> **u/traverseda** [+1]  *With dread but cautious optimism**
+>> **u/traverseda** [+1]  *With dread but cautious optimism* (19 hours later)
 >> 
 >> I've forgiven you for killing of myou've.
->> 
 
 ---
 

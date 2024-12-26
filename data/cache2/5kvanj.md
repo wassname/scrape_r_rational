@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/seylerius** [+4]  *Lord Inquisitor**
+> **u/seylerius** [+4]  *Lord Inquisitor* (an hour later)
 > 
 > I'm fairly certain you meant to put this in r/hpfanfiction, not r/rational. I could be wrong, though.
-> 
 
 ---
 

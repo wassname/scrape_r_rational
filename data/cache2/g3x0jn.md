@@ -16,40 +16,39 @@ For those who don't watch it, Nailed It! is a cooking challenge show where conte
 
 ### Comments:
 
-> **u/pldl** [+29] *
+> **u/pldl** [+26]  (30 minutes later)
 > 
 > Most cooking shows are heavily edited. If every challenger just barely spends the last 3 minutes to barely finish in every episode, they most likely did not. They probably finished at reasonable times and the show was edited to make it look like it was down to the wire.
-> If you finish the baking process uninterrupted, everything afterwards is fluff to improve upon what has been baked. A last 3 minutes button would just cut into the fluff, and they most likely would have already did most of the best they could do.
-> The most opportune time, with my limited baking knowledge, would be when they are in the middle of mixing cake batter or right before they want to take something out of the oven.
 > 
+> If you finish the baking process uninterrupted, everything afterwards is fluff to improve upon what has been baked. A last 3 minutes button would just cut into the fluff, and they most likely would have already did most of the best they could do.
+> 
+> The most opportune time, with my limited baking knowledge, would be when they are in the middle of mixing cake batter or right before they want to take something out of the oven.
 
->> **u/RetardedWabbit** [+11] *
+>> **u/RetardedWabbit** [+12]  (6 hours later)
 >> 
 >> Making something burn after baking is what I thought of too, ruining it after it's already baked would be a huge time cost. You would have to plan on long bake times to try to make 3 minutes not totally ruin it, and you could try to fake out the other team so they use it when you aren't actually ready to take it out.
->> If the power up didn't have any secret rules everyone would just ensure they get everything plated/decorated 3 minutes early to guard against it. I can't think of many other good opportunities besides the oven, if they use a mixer, or if they do icing or layers that are very specific.
 >> 
+>> If the power up didn't have any secret rules everyone would just ensure they get everything plated/decorated 3 minutes early to guard against it. I can't think of many other good opportunities besides the oven, if they use a mixer, or if they do icing or layers that are very specific.
 
-> **u/MagicWeasel** [+14]  *Cheela Astronaut**
+> **u/MagicWeasel** [+13]  *Cheela Astronaut* (42 minutes later)
 > 
 > My suspicion would be that there's rules against them using it during the last [X] minutes of the show; the fact that literally every contestant has done that is a good indication. Plus, in reality TV, the advantages generally have many more rules than are  revealed to the viewer. (*Survivor* fans will pause the show to read the full rules of advantages as written on the parchments the players get, and they are far more nuanced than you'd think).
-> 
 
-> **u/sparr** [+6] *
+> **u/sparr** [+7]  (7 hours later)
 > 
 > Most shows like this have a lot more rules than they tell the audience about.
-> 
 
-> **u/kaukamieli** [+3] *
+> **u/kaukamieli** [+3]  (2 days later)
 > 
 > Really? But they still have as much time if it's used before or after. And if it's used in a critical moment, it could do more harm than just waste three minutes.
-> All they would have to do is be fast enough to finish 3min before their time, as they know the opponent can use the time.
-> Instead, shouldn't you use it when the opponent is taking something they are frying off the stove, so it will burn?
 > 
+> All they would have to do is be fast enough to finish 3min before their time, as they know the opponent can use the time.
+> 
+> Instead, shouldn't you use it when the opponent is taking something they are frying off the stove, so it will burn?
 
-> **u/everydaymovingup** [+1] *
+> **u/everydaymovingup** [+1]  (11 days later)
 > 
 > I’d add my vote to it likely being edited to look like it’s down to the wire when it only sometimes is.
-> 
 
 ---
 

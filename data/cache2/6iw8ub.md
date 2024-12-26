@@ -2,7 +2,7 @@
 
 * Author: u/gbear605  *history’s greatest story**
 * URL: http://mangastream.com/read/neverland/044/4369/1
-* Score: 20
+* Score: 21
 
 * Created: 2017-06-22T20:28:17
 
@@ -12,36 +12,37 @@
 
 ### Comments:
 
-> **u/Dwood15** [+5] *
+> **u/Dwood15** [+3]  (58 minutes later)
 > 
 > I was going to say that I'm disappointed it doesn't look like they'll use those 'Eating' trees. But the more I think about it, the more I'm happy they didn't, because that would put more problems for getting out of the situation than getting in. Surely the demons, if they're intelligent, would know how to handle such things.
-> As such, the eating trees would only be dangerous if they made a mistake, Ray severely outmaneuvered them, or they had the idiot ball. 
-> A Deus Ex Machina like this is a much better solution, imo.
-> So long as the story stays consistent within its own rules and no one get an obvious idiot ball, it's good in my book.
 > 
+> As such, the eating trees would only be dangerous if they made a mistake, Ray severely outmaneuvered them, or they had the idiot ball. 
+> 
+> A Deus Ex Machina like this is a much better solution, imo.
+> 
+> So long as the story stays consistent within its own rules and no one get an obvious idiot ball, it's good in my book.
 
->> **u/Prezombie** [+2] *
+>> **u/Prezombie** [+2]  (10 hours later)
 >> 
 >> He definitely needed assistance in order to realistically escape, but I think that he could have done more than stubbornly run.
->> After being surrounded, the obvious gambit would have been to take himself hostage, holding a knife to his neck would have been an effective way to reach a stalemate, buying time while burning far less energy than running blindly.
 >> 
+>> After being surrounded, the obvious gambit would have been to take himself hostage, holding a knife to his neck would have been an effective way to reach a stalemate, buying time while burning far less energy than running blindly.
 
->>> **u/Dwood15** [+3] *
+>>> **u/Dwood15** [+3]  (11 hours later)
 >>> 
 >>> Problem is that would be akin to giving himself up- he needed to run in a direction to take the demons away from the goup. If he stood still they might have found them. Additionally afaict Ray does not have any weapons to fight back.
->>> 
 
->>>> **u/Prezombie** [+1] *
+>>>> **u/Prezombie** [+1]  (11 hours later)
 >>>> 
 >>>> Well yeah, running to divert the group was the primary goal, but once he couldn't reasonably continue, he should have switched to a less intensive strategy.
->>>> It's less about fighting back, and more about actually exploiting the restriction the demons are laboring under. By threatening to open an artery with a pocket knife, it makes it very risky for the demons to move in and finish securing him.
 >>>> 
+>>>> It's less about fighting back, and more about actually exploiting the restriction the demons are laboring under. By threatening to open an artery with a pocket knife, it makes it very risky for the demons to move in and finish securing him.
 
->>>>> **u/CeruleanTresses** [+1] *
+>>>>> **u/CeruleanTresses** [+1]  (20 hours later)
 >>>>> 
 >>>>> That probably could have bought some more time, but it looked like he was exhausted and panicking by the time they actually cornered him. It's not surprising that he wasn't in top strategic form.
->>>>> Does he actually have a knife? I can't remember.
 >>>>> 
+>>>>> Does he actually have a knife? I can't remember.
 
 ---
 

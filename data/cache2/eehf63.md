@@ -2,7 +2,7 @@
 
 * Author: u/BoxSparrow *
 * URL: https://youtu.be/HZGCoVF3Yv
-* Score: 2
+* Score: 4
 
 * Created: 2019-12-23T07:36:20
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/jakeallstar1** [+1] *
+> **u/jakeallstar1** [+1]  (10 hours later)
 > 
 > Also unavailable for me. I tried to just youtube the title of the post and didn't get a direct match.
-> 
 
-> **u/NinkuFlavius** [+1] *
+> **u/NinkuFlavius** [+1]  (5 hours later)
 > 
 > Video seems unavailable.
-> 
 
->> **u/Sir_Paul_Harvey** [+1] *
+>> **u/Sir_Paul_Harvey** [+1]  (6 hours later)
 >> 
 >> Unavailable for me too, error code 4...
->> 
 
 ---
 

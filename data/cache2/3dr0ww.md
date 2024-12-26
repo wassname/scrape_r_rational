@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.fanfiction.net/s/11361802/9/What-if-SG-1-weren-t-stupid
-* Score: 15
+* Score: 14
 
 * Created: 2015-07-18T16:57:49
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+5] *
+> **u/eaglejarl** [+5]  (a minute later)
 > 
 > Lately, when I exercise in the mornings I put on an episode of SG-1, or two if I'm doing a long workout, because it makes the workout pass faster.  This one was so godawful I had to write it up before getting on with real work.
-> 
 
->> **u/iamzeph** [+2] *
+>> **u/iamzeph** [+2]  (7 hours later)
 >> 
 >> Yeah, the team definitely made a lot of fumbles in this adventure.  I think the writers could have reached the same sort of ending - with the replicators, sacrificing the android girl, etc - but with more rational decisions made by the team
->> 
 
 ---
 

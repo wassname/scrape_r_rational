@@ -12,9 +12,10 @@
 
 ### Comments:
 
-> **u/Husr** [+2] *
+> **u/Husr** [+2]  (6 hours later)
 > 
 > One standout review from Royal Road, with credit to Giles who posted it:
+> 
 > > Revanche. Revenge.
 > > 
 > > The Kingdom of Avalon swept across the Empire of the Fox a generation past, conquering the heartlands and leaving the broken remnants to stew in the island duchy of Guerron.
@@ -28,7 +29,6 @@
 > >  
 > > 
 > > Come read Conquest of Avalon if you want a tight story exploring a fleshed-out workd made up of believable characters acting in realistic ways for waht they think of as the right course of action.
-> 
 
 ---
 

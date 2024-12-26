@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 hours later)
 > 
 > It seems to me that the other characters are very smart people for grasping Cato's ideas rapidly.
-> 
 
-> **u/dalitt** [+2] *
+> **u/dalitt** [+2]  (22 hours later)
 > 
 > I can't say I'm thrilled with the treatment of this new character Lo.
-> 
 
->> **u/nolrai** [+1] *
+>> **u/nolrai** [+1]  (a day later)
 >> 
 >> How so?
->> 
 
 ---
 

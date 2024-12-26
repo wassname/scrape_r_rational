@@ -2,7 +2,7 @@
 
 * Author: u/pastymage *
 * URL: https://www.reddit.com/r/rational/comments/9gnce8/looking_for_infoname_for_a_specific_bias_that_may/
-* Score: 25
+* Score: 24
 
 * Created: 2018-09-17T19:15:51
 
@@ -14,76 +14,73 @@ The "not that bad" bias?  The "Uphill both ways" bias?  "Adversity builds charac
 
 ### Comments:
 
-> **u/CarsonCity314** [+37] *
+> **u/CarsonCity314** [+39]  (14 minutes later)
 > 
 > Generally, I'd consider it to usually be a status quo bias.  More specifically, the System Justification Bias: https://en.m.wikipedia.org/wiki/System_justification
-> In an individual's case, it might also be some sort of sunk-cost justification, or even a rational gatekeeping effort (e.g. "I'm already a lawyer, and if we make it easier to become a lawyer, people might not want to pay me as much")
 > 
+> In an individual's case, it might also be some sort of sunk-cost justification, or even a rational gatekeeping effort (e.g. "I'm already a lawyer, and if we make it easier to become a lawyer, people might not want to pay me as much")
 
->> **u/HelperBot_** [+9] *
+>> **u/HelperBot_** [+9]  (14 minutes later)
 >> 
 >> Non-Mobile link: https://en.wikipedia.org/wiki/System_justification
 >> ***
 >> ^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^212810
->> 
 
->> **u/pastymage** [+8] *
+>> **u/pastymage** [+9]  (an hour later)
 >> 
 >> This does seem close, though it does feel like sunk-cost should have something to do with it - a rationalizing defense against the retroactive "devaluation" of your own investment?
->> 
 
->>> **u/fassina2** [+3]  *Progressive Overload**
+>>> **u/fassina2** [+4]  *Progressive Overload* (6 hours later)
 >>> 
 >>> I think devaluation is not the main motivator here. They seem to just want reimbursement / justify their cost. 
->>> &#x200B;
->>> It'd be sunk cost related if they were still paying for it / were almost done paying. If they already paid then it's more of a fairness seeking bias (not a real bias btw). Either they'd want their money back (which is very unlikely to happen in this case) or they'd want for other people to have to pay too.
->>> Sounds petty, and is probably shortsighted but also somehow part of human nature so maybe a cognitive bias.
 >>> 
+>>> &#x200B;
+>>> 
+>>> It'd be sunk cost related if they were still paying for it / were almost done paying. If they already paid then it's more of a fairness seeking bias (not a real bias btw). Either they'd want their money back (which is very unlikely to happen in this case) or they'd want for other people to have to pay too.
+>>> 
+>>> Sounds petty, and is probably shortsighted but also somehow part of human nature so maybe a cognitive bias.
 
-> **u/Nimelennar** [+12] *
+> **u/Nimelennar** [+13]  (an hour later)
 > 
 > Retrospective determinism?  "Because I went through this, I became the person I am today, so it will have the same impact on them."
-> Courtier's reply?  "No one who hasn't been through this experience should be allowed to offer an opinion on that experience."
-> Or, as /u/lolbifrons suggests, it might just be an appeal to tradition.
 > 
+> Courtier's reply?  "No one who hasn't been through this experience should be allowed to offer an opinion on that experience."
+> 
+> Or, as /u/lolbifrons suggests, it might just be an appeal to tradition.
 
-> **u/CeruleanTresses** [+8] *
+> **u/CeruleanTresses** [+7]  (19 minutes later)
 > 
 > I think it's called the "my boomer parents" bias.
-> 
 
-> **u/lolbifrons** [+5]  *Fifteenth Legion of Terror**
+> **u/lolbifrons** [+4]  *Fifteenth Legion of Terror* (43 minutes later)
 > 
 > Stockholm Syndrome ∩ Appeal to fairness
-> Alternatively perhaps a special case of the is-ought/naturalistic fallacy, or appeal to tradition.
 > 
+> Alternatively perhaps a special case of the is-ought/naturalistic fallacy, or appeal to tradition.
 
-> **u/eroticas** [+4] *
+> **u/eroticas** [+4]  (13 hours later)
 > 
 > If you take away the time component it matches "crabs in a bucket"
-> 
 
-> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (9 minutes later)
 > 
 > Seems related to the sunk cost fallacy, but applied externally, maybe tied to displacement ("... and the office boy kicked the cat")?
-> 
 
-> **u/Timewinders** [+2] *
+> **u/Timewinders** [+2]  (4 hours later)
 > 
 > Personally I just lump that as "anecdotes are not evidence." Might be more accurate to say "anecdotes are only a single point of evidence in a vast sea of evidence that's not known without studies" but that's a bit of a mouthful.
-> 
 
->> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (6 hours later)
 >> 
 >> > Might be more accurate to say "anecdotes are only a single point of evidence in a vast sea of evidence that's not known without studies" but that's a bit of a mouthful. 
->> Might make a good Culture Ship name.
 >> 
+>> Might make a good Culture Ship name.
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (4 days later)
 > 
 > It really depends on the condition. There may be a point in that argument even - if for example we're talking about passing an especially hard (but fair) exam to gain access to a specialised profession, one might indeed feel like that exam only assesses properly the skills needed to do it, and anyone who would not pass it is best left out, so be opposed to that removal.
-> As a general rule though I guess there's something about getting used to things that might seem weird or wrong from the outside just by living in contact with them? I'm not sure what it's called. I always associate it with a professor in a physics faculty who was talking about handling radioactive materials/experiments, and who said, about a certain substance, "oh well, it's just gamma rays anyway". Of course from his perspective that's better than an alpha or beta emitter, but everyone else in the world would be (probably rightfully) horrified at the idea of being so casual about any radioactive substance at all.
 > 
+> As a general rule though I guess there's something about getting used to things that might seem weird or wrong from the outside just by living in contact with them? I'm not sure what it's called. I always associate it with a professor in a physics faculty who was talking about handling radioactive materials/experiments, and who said, about a certain substance, "oh well, it's just gamma rays anyway". Of course from his perspective that's better than an alpha or beta emitter, but everyone else in the world would be (probably rightfully) horrified at the idea of being so casual about any radioactive substance at all.
 
 ---
 

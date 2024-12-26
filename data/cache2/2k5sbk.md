@@ -2,7 +2,7 @@
 
 * Author: u/CeruleanTresses *
 * URL: https://www.reddit.com/r/rational/comments/2k5sbk/hsf_the_zero_escape_series/
-* Score: 11
+* Score: 8
 
 * Created: 2014-10-24T02:32:23
 
@@ -20,20 +20,17 @@ I really highly recommend both games. VLR is the superior of the two, but they s
 
 ### Comments:
 
-> **u/natron88** [+3]  *Ankh-Morpork City Watch**
+> **u/natron88** [+3]  *Ankh-Morpork City Watch* (an hour later)
 > 
 > I've read a bit of the iPhone version of 999. The part I remember best so far is the characters discussing chemistry while trapped in a freezer.
-> 
 
-> **u/liamash3** [+2]  *Mizu**
+> **u/liamash3** [+2]  *Mizu* (a day later)
 > 
 > I loved playing these games. I'm looking forward to the third one...presuming it gets an english release.
-> 
 
->> **u/CeruleanTresses** [+1] *
+>> **u/CeruleanTresses** [+1]  (a day later)
 >> 
 >> Bad news. As of right now, no third game is in the works because the first two sold poorly in Japan. It could still happen but at this point it's not a thing that's being made.
->> 
 
 ---
 

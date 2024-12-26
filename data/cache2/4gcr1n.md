@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/KarlitoHomes** [+4] *
+> **u/KarlitoHomes** [+4]  (8 hours later)
 > 
 > I guess the aircraft landing scene was kind of neat, but this story has 3 chapters and hasn't been updated in 8 months.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (12 hours later)
 >> 
 >> I didn't promise that it will be continued, just that it might be worth the read.
->> I thought it would be interesting to read, at least as an opener.
 >> 
+>> I thought it would be interesting to read, at least as an opener.
 
 ---
 

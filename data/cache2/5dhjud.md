@@ -25,25 +25,21 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/eaglejarl** [+11] *
+> **u/eaglejarl** [+11]  (53 minutes later)
 > 
 > This is one of the best chapters in the entire quest, IMO. Hat tip, /u/Velorien.
-> 
 
->> **u/MatterBeam** [+5] *
+>> **u/MatterBeam** [+4]  (3 hours later)
 >> 
 >> Thanks so much for keeping this up, you and your team!
->> 
 
->>> **u/eaglejarl** [+3] *
+>>> **u/eaglejarl** [+3]  (20 hours later)
 >>> 
 >>> You are most welcome.
->>> 
 
-> **u/MatterBeam** [+4] *
+> **u/MatterBeam** [+4]  (3 hours later)
 > 
 > It's happening! Team uplift in Konoha!
-> 
 
 ---
 

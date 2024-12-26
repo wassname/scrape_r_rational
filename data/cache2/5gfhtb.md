@@ -2,7 +2,7 @@
 
 * Author: u/NanashiSaito *
 * URL: http://www.2pih.com/uncategorized/orders-of-magnitude-chapter-17-beautiful-lost-nebula/
-* Score: 16
+* Score: 14
 
 * Created: 2016-12-04T13:51:42
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/NanashiSaito** [+3] *
+> **u/NanashiSaito** [+3]  (26 seconds later)
 > 
 > [Table of Contents](http://www.2pih.com/table-of-contents/) for new readers.
-> 
 
 ---
 

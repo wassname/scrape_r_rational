@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/dfib7a/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 10
+* Score: 11
 
 * Created: 2019-10-09T15:05:01
 
@@ -24,89 +24,88 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/WhoTookBibet** [+2] *
+> **u/WhoTookBibet** [+2]  (an hour later)
 > 
 > What's your favorite distribution of magical ability in fantasy settings?
+> 
 > Some examples to get things going:
+> 
 > * Magic IS like calculus in that just about everyone can learn but some people have an aptitude for it.
 > * Developing your magical talent is purely limited by your continual consumption of certain materials.
 > * Magical aptitude is fixed and measurable with a massive difference between the top and bottom of the range.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Gurkenglas** [+5] *
+>>> **u/Gurkenglas** [+4]  (a day later)
 >>> 
 >>> Oh, there are plenty of chosen ones in math.
->>> 
 
->> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (13 hours later)
 >> 
 >> I prefer a variant on the second which approaches the first for anyone with enough power. Worth the Candle inspired me, and having many magic systems that you can snap up by fulfilling certain requirements, touching/consuming an item, or sucking up to a spirit really appeals to me. Having the eventually exploits of the magic systems baked into the story itself is something else that was novel at the time, so now anyone who does so can slurp up all the power that fuels the magic system they’re exploiting, draining it dry so the same trick can’t be used twice and ascending to godhood.
->> 
 
->> **u/LazarusRises** [+1] *
+>> **u/LazarusRises** [+1]  (a day later)
 >> 
 >> Mix of #1 and #3: Magic is like athletic ability. Training will help, but if you're born with weak joints and asthma you're never going to be a world-class marathon runner. And there will always be the Michael Phelpses and Williams sisters of the world who are head, shoulders and torso above anyone else in their given fields.
->> Added bonus, you can just say "magic is genetic" and you already have a perfectly rational heritance system as well as real-world statistical distributions to draw on.
 >> 
+>> Added bonus, you can just say "magic is genetic" and you already have a perfectly rational heritance system as well as real-world statistical distributions to draw on.
 
->> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 days later)
 >> 
 >> Magic *is* calculus, where your ability to perform it is tied directly to your ability to comprehend high-level mathematics.
->> 
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (17 hours later)
 > 
 > Balance question. In a world of being with complex super powers how would you balance a protagonist that could gain power from defeated foes? Options I see for limitations are:
+> 
 > 1. only being able to get one part of a power per defeated foe (i.e. from superman you could get one of flight, toughness, speed, laser eyes, etc.), 
 > 2. Being limited to a certain number of powers
 > 3. Not being able to have two copies of the same power (i.e. strength)
 > 4. Must gain a power from a downed foe. If combined with 2 the protagonist could lose the oldest power at cap. If combined with 3 protagonist could gain undesirable weakness. 
 > 5. Must do something morally/physically uncomfortable to gain powers. Raw flesh really doesn't taste good. Admittedly this would mostly be a limiter earlier in a story. Killing someone to gain their powers would put a limiter on ethical powers to gain. Taking on some characteristica(personality/body) of the downed opponent would likewise limit feasible powers.
 > 6. Only allow the protagonist to gain a certain type of power.
-> Other suggestions/feedback on limiters.
 > 
+> Other suggestions/feedback on limiters.
 
->> **u/TheJungleDragon** [+3] *
+>> **u/TheJungleDragon** [+3]  (20 hours later)
 >> 
 >> One limit that I find very useful for things like this is just gaining a much weaker version of the power. As an example, our protagonist beats and gains the power of someone who can fly fast enough to break the sound barrier. In return, they gain the ability to hover slowly a small distance above the ground. They beat a powerful pyrokinetic, and can now snap their fingers to create a flame like that from a lighter.
->> 
 
->> **u/dinoseen** [+3] *
+>> **u/dinoseen** [+3]  (23 hours later)
 >> 
 >> In addition to /u/TheJungleDragon 's suggestion which I like, there's the obvious idea of diminishing returns. Even if he keeps stacking up similar powers for greater potency it'll only get him as far as you want it to get him. 
->> Another option is simply having all powers be accessible, but only a certain number of them at a time. Maybe Strength takes up 10% and Regeneration takes up 25% etc so there's like a balance going on and he can swap freely. This keeps things flexible both in the sense of access to interesting powers and ability for you to limit how OP things are. 
->> You could also just combine a whole load of these all together, because unless there's a rather low power ceiling, than power stealing is OP.
 >> 
+>> Another option is simply having all powers be accessible, but only a certain number of them at a time. Maybe Strength takes up 10% and Regeneration takes up 25% etc so there's like a balance going on and he can swap freely. This keeps things flexible both in the sense of access to interesting powers and ability for you to limit how OP things are. 
+>> 
+>> You could also just combine a whole load of these all together, because unless there's a rather low power ceiling, than power stealing is OP.
 
->> **u/Papa-Walrus** [+3] *
+>> **u/Papa-Walrus** [+3]  (a day later)
 >> 
 >> Branching off of dinoseen's answer even further. I like the idea of the limit being on how many powers can be used at once. Basically no limit on which powers can be acquired, or how many can be in his "library", but limited in what he can use at any one time. 
->> Sort of D&D wizard style. Downtime between swapping active powers, preventing changes mid-battle/mid-heist/etc.  Maybe a short enough downtime that there could be some risk-reward scenarios where our protagonist has to decide whether it's worth it to spend x amount of time powerless (time they would most likely have to spend hiding, running, or stalling) to fine tune his current powerset to the current opponent.
->> So you'd still be able to have the protagonist grow in versatility/max power (by getting really strong powers, or assembling new combos). If you need faster growth than that, maybe allow for either a) increases in their overall cap (e.g. Strength took 10% of cap, Regen took 20%, but now Strength takes 5% and Regen takes 10%), or b) increasing efficiency of individual (e.g. through training, usage, or stacking on a second Strength power, Strength's cap usage drops from 10% to 5%). 
->> Option B may be better for a munchkin-y type story as the protagonist may want to choose sub-optimal powers for the short term in order to improve their usefulness in the long term.
 >> 
+>> Sort of D&D wizard style. Downtime between swapping active powers, preventing changes mid-battle/mid-heist/etc.  Maybe a short enough downtime that there could be some risk-reward scenarios where our protagonist has to decide whether it's worth it to spend x amount of time powerless (time they would most likely have to spend hiding, running, or stalling) to fine tune his current powerset to the current opponent.
+>> 
+>> So you'd still be able to have the protagonist grow in versatility/max power (by getting really strong powers, or assembling new combos). If you need faster growth than that, maybe allow for either a) increases in their overall cap (e.g. Strength took 10% of cap, Regen took 20%, but now Strength takes 5% and Regen takes 10%), or b) increasing efficiency of individual (e.g. through training, usage, or stacking on a second Strength power, Strength's cap usage drops from 10% to 5%). 
+>> 
+>> Option B may be better for a munchkin-y type story as the protagonist may want to choose sub-optimal powers for the short term in order to improve their usefulness in the long term.
 
->> **u/LazarusRises** [+2] *
+>> **u/LazarusRises** [+2]  (a day later)
 >> 
 >> The other answers are good, but how about this: he has access to the last ~10 powers he's absorbed, but they get weaker the farther back in the chain they are. So he kills a foe with power 10 after having killed foes with powers 1-9, and now he has power 10 at 100% strength, power 9 at 90%, power 8 at 80%, etc. etc.
->> This means that if he defeats a foe with a really good ability, he'll have to be real careful about who he absorbs next.
 >> 
+>> This means that if he defeats a foe with a really good ability, he'll have to be real careful about who he absorbs next.
 
->> **u/siuwa** [+2]  *Puella Magi**
+>> **u/siuwa** [+2]  *Puella Magi* (2 days later)
 >> 
 >> How about limiting the protagonist's feasible options? E.g. by making him with no power whatsoever to start with and everyone else at Spiderman-ish levels.
->> Edit: Spiderman-ish levels at the lowest.
 >> 
+>> Edit: Spiderman-ish levels at the lowest.
 
->> **u/oskar31415** [+2] *
+>> **u/oskar31415** [+2]  (3 days later)
 >> 
 >> have you considered only giving him a finite amount of uses of the powers he gains? This would keep his repitoire at a much lower level, and force him to constamtly find new strategies.
->> 
 
 ---
 

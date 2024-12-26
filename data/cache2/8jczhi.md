@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/8jczhi/d_monday_general_rationality_thread/
-* Score: 10
+* Score: 12
 
 * Created: 2018-05-14T15:07:20
 
@@ -20,21 +20,19 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/Gurkenglas** [+2] *
+> **u/Gurkenglas** [+2]  (6 hours later)
 > 
 > Google's [Conversation 101](https://designguidelines.withgoogle.com/conversation/conversation-design/learn-about-conversation.html#learn-about-conversation-context) lists advice for chatbot programmers that may apply to a community correlated with ours.
-> 
 
->> **u/callmesalticidae** [+6]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+7]  *writes worldbuilding books* (12 hours later)
 >> 
 >> > a community correlated with ours.
->> Chatbots who like to read rational fic?
 >> 
+>> Chatbots who like to read rational fic?
 
->>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>> **u/traverseda** [+1]  *With dread but cautious optimism* (2 days later)
 >>> 
 >>> Presumably in that this community is bad at small talk.
->>> 
 
 ---
 

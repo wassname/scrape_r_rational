@@ -2,7 +2,7 @@
 
 * Author: u/itisike  *Dragon Army**
 * URL: https://www.reddit.com/r/WritingPrompts/comments/4ws0rq/wp_in_a_balanced_world_anything_you_do_to_improve/
-* Score: 8
+* Score: 7
 
 * Created: 2016-08-08T19:35:17
 
@@ -12,139 +12,141 @@
 
 ### Comments:
 
-> **u/Jiro_T** [+7] *
+> **u/Jiro_T** [+7]  (2 hours later)
 > 
 > "Harm" is ill-defined, and something which causes an equal amount of improvement and harm by one person's standard may not by another's.
-> 
 
->> **u/itisike** [+1]  *Dragon Army**
+>> **u/itisike** [+1]  *Dragon Army* (2 hours later)
 >> 
 >> By the standard of whoever ultimately planned the action in question.
->> If multiple people planned it or were involved, then it will conform to all of those people's standards. This could mean completely different harms in multiple places, if needed.
 >> 
+>> If multiple people planned it or were involved, then it will conform to all of those people's standards. This could mean completely different harms in multiple places, if needed.
 
->>> **u/Jiro_T** [+5] *
+>>> **u/Jiro_T** [+5]  (2 hours later)
 >>> 
 >>> What if I hire you to do something?  What if I pay some money into a fund, and other people withdraw money from the fund 50 years later and use it to do something?  What if I would consider something harmful if I were to know about it, but I don't?  What if the "harm" or "improvement" from something won't mature for a while, such as reducing by 10% the chance that I will lose my crops the next year?  What if I'm a normal human with an inconsistent discount rate for future events, what does the world use to determine how much harm balances how much improvement?  What if I'm inconsistent in other ways (for instance, my beliefs logically imply that X is harm, but I don't consider X to be harm)?  Exactly how far ahead does this look--if I research better weapons, does it count the harm caused by future people using the weapons in bad ways, and the improvement from future people using the weapons in good ways, and the effects on the trade routes caused by the fact that availability of weapons changes the political balance to give more power to one country which has slightly higher taxes, leading to a slight change in poverty rate that causes some guy to die one week earlier and fail to discover spaceflight?  Also, how does the world deal with harm to future people and/or the prevention of the existence of future people and/or the non-identity problem?
->>> Or to put it another way, take every single problem that everyone has ever tried to find with utilitarianism and realize that this just postulates that the world is capable of solving all of them.  You might not know whether you should consider torture versus dust specs to be a fair trade, but the world knows based on your utility function.
->>> >If multiple people planned it or were involved, then it will conform to all of those people's standards. 
->>> What if it is logically impossible to conform to multiple people's standards, such that balanced harm for one is necessarily unbalanced harm for another and vice versa?
 >>> 
+>>> Or to put it another way, take every single problem that everyone has ever tried to find with utilitarianism and realize that this just postulates that the world is capable of solving all of them.  You might not know whether you should consider torture versus dust specs to be a fair trade, but the world knows based on your utility function.
+>>> 
+>>> >If multiple people planned it or were involved, then it will conform to all of those people's standards. 
+>>> 
+>>> What if it is logically impossible to conform to multiple people's standards, such that balanced harm for one is necessarily unbalanced harm for another and vice versa?
 
->>>> **u/itisike** [+3]  *Dragon Army**
+>>>> **u/itisike** [+3]  *Dragon Army* (2 hours later)
 >>>> 
 >>>> This *is* a writing prompt, so those things you can write around and I won't specify everything. But it shouldn't be gameable.
->>>> > logically impossible 
->>>> Do you realize how hard that is? The burden of proof is on you to show that such logical impossibilities even exist, and I very much doubt it. Trivially everyone can be edited to any given level of utility given full physical control over the world.
 >>>> 
+>>>> > logically impossible 
+>>>> 
+>>>> Do you realize how hard that is? The burden of proof is on you to show that such logical impossibilities even exist, and I very much doubt it. Trivially everyone can be edited to any given level of utility given full physical control over the world.
 
->>>>> **u/Jiro_T** [+3] *
+>>>>> **u/Jiro_T** [+3]  (2 hours later)
 >>>>> 
 >>>>> Suppose I consider "more paperclips" to be harm and "fewer paperclips" to be an improvement,  You consider "fewer paperclips" to be harm and "more paperclips" to be an improvement.  And suppose that our standards for everything else are the same.
->>>>> Given any set of changes in the world that changes the number of paperclips, it is impossible for that change to be neutral by both of our standards.
 >>>>> 
+>>>>> Given any set of changes in the world that changes the number of paperclips, it is impossible for that change to be neutral by both of our standards.
 
->>>>>> **u/itisike** [+5]  *Dragon Army**
+>>>>>> **u/itisike** [+5]  *Dragon Army* (2 hours later)
 >>>>>> 
 >>>>>> You need to show that they exist, not that they can exist given preferences not held by any human.
->>>>>> Also, your scenario is perfectly compatible with the number of paperclips remaining constant.
 >>>>>> 
+>>>>>> Also, your scenario is perfectly compatible with the number of paperclips remaining constant.
 
->>>>>> **u/UltraRedSpectrum** [+1] *
+>>>>>> **u/UltraRedSpectrum** [+1]  (23 hours later)
 >>>>>> 
 >>>>>> First the number of paperclips increases, then it decreases, then it returns to the default. Everyone is happy and unhappy in equal measure, just at different times. It's easier if you think of it as a sitcom plotline.
->>>>>> 
 
->>>>>>> **u/Jiro_T** [+2] *
+>>>>>>> **u/Jiro_T** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> If the number of paperclips stops changing at some point, there will be a sum and that sum can't be equal for both parties.  Also, "harm" would have to consider discount rate so it can't just balance +paperclips now with the same number of -paperclips later.
->>>>>>> 
 
->>>>>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>>>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (a day later)
 >>>>>>>> 
 >>>>>>>> You could compensate for the discount rate by increasing the size of the change in number of paperclips over time.
->>>>>>>> 
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+4]  *My arch-enemy is entropy* (20 hours later)
 > 
 > An interesting thought I had. Assuming 'harm' and 'help' are arbitrarily predefined at some point in time before this world develops instead of changing over time to match society's definitions of these two terms, then wouldn't society eventually adjust to see 'harm' as not really being harmful?
-> Or in simpler words, if an early society sets 'harm' to mean death, unnecessary suffering, and hunting animals, would a later society come to believe that death is good, enduring pain for no good reason is linked to beauty, intelligence, and kindness, and animals need to be eaten alive? Would societies adapt to constant pain by twisting their morals to perceive the 'harm' as a good thing?
 > 
+> Or in simpler words, if an early society sets 'harm' to mean death, unnecessary suffering, and hunting animals, would a later society come to believe that death is good, enduring pain for no good reason is linked to beauty, intelligence, and kindness, and animals need to be eaten alive? Would societies adapt to constant pain by twisting their morals to perceive the 'harm' as a good thing?
 
->> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (21 hours later)
 >> 
 >> My thought exactly. The interesting question is what would determine which of karma's "harms" people come to accept as good and which "helps" they would accept as bad?
->> Part of it is that ideas which are good at spreading themselves would take over - memetic evolution, you know the drill. But the incentives are different in this setting than in reality, because helping other people would cause an equal and opposite amount of harm somewhere else - most likely, on a different continent or a different planet or something. You might not even notice the karmic balance phenomenon until nearly the entire world was colonised.
 >> 
+>> Part of it is that ideas which are good at spreading themselves would take over - memetic evolution, you know the drill. But the incentives are different in this setting than in reality, because helping other people would cause an equal and opposite amount of harm somewhere else - most likely, on a different continent or a different planet or something. You might not even notice the karmic balance phenomenon until nearly the entire world was colonised.
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> > somewhere else - most likely, on a different continent
->>> Yeah, unless the supernatural karmic effect directly impacts the 'helper', then I expect society to be very similar to our own. The closer the effect is to you and more immediate the consequences, the more strongly affected society will be.
 >>> 
+>>> Yeah, unless the supernatural karmic effect directly impacts the 'helper', then I expect society to be very similar to our own. The closer the effect is to you and more immediate the consequences, the more strongly affected society will be.
 
-> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (20 hours later)
 > 
 > As you've commented elsewhere, it's not remotely possible to balance good and evil for all of seven billion humans' divergent notions of good and evil. The least exploitable solution is that there is an objective notion of good - in the story, not in reality - and that is what is being kept in balance. A Black And White morality, like next week's story prompt.
-> I suppose the way forward would be to find places where society's judgement of good and evil differs from the universe's / the author's. For example, in *A Girl Corrupted by the Internet is the Summoned Hero*, lust is a deadly sin and the protagonist is considered evil verging on demonic from the amount of porn she's watched. Perhaps there is some similar "evil" that society would consider an acceptable cost.
 > 
+> I suppose the way forward would be to find places where society's judgement of good and evil differs from the universe's / the author's. For example, in *A Girl Corrupted by the Internet is the Summoned Hero*, lust is a deadly sin and the protagonist is considered evil verging on demonic from the amount of porn she's watched. Perhaps there is some similar "evil" that society would consider an acceptable cost.
 
->> **u/itisike** [+1]  *Dragon Army**
+>> **u/itisike** [+1]  *Dragon Army* (20 hours later)
 >> 
 >> You don't need to balance it for everyone, only for people involved in making any particular change.
->> And the least exploitable solution can just refuse to allow any changes that would cause a problem. So if they somehow get billions of people to collaborate on a change, then that change just gets reversed right away.
 >> 
+>> And the least exploitable solution can just refuse to allow any changes that would cause a problem. So if they somehow get billions of people to collaborate on a change, then that change just gets reversed right away.
 
->>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (20 hours later)
 >>> 
 >>> >You don't need to balance it for everyone, only for people involved in making any particular change.
->>> That opens a huge can of worms concerning what qualifies as a single change, hew far responsibility stretches, and indeed what counts as a person and how their subjective notions of good and evil are evaluated. Surely there are people whose notion of good and evil contains contradictions? Insane people, if nobody else.
->>> It's a prompt, there's room for interpretation. The interpretation that there is a single objective definition of help and harm seems less exploitable to me. I can't see a proof that your system makes sense, or that it will last 72 hours without some munchkin finding a loophole and becoming omnipotent.
->>> ---
->>> On further thought, an even less exploitable solution would be to stop time. No changes can be made. Nothing good can happen, nothing evil. Perfect balance for eternity.
->>> But the prompt actually specifies that the counterbalancing harm happens "somewhere else", so that at least gives us a limit on karma's powers. Anything that happens, happens, and won't simply be undone.
 >>> 
+>>> That opens a huge can of worms concerning what qualifies as a single change, hew far responsibility stretches, and indeed what counts as a person and how their subjective notions of good and evil are evaluated. Surely there are people whose notion of good and evil contains contradictions? Insane people, if nobody else.
+>>> 
+>>> It's a prompt, there's room for interpretation. The interpretation that there is a single objective definition of help and harm seems less exploitable to me. I can't see a proof that your system makes sense, or that it will last 72 hours without some munchkin finding a loophole and becoming omnipotent.
+>>> 
+>>> ---
+>>> 
+>>> On further thought, an even less exploitable solution would be to stop time. No changes can be made. Nothing good can happen, nothing evil. Perfect balance for eternity.
+>>> 
+>>> But the prompt actually specifies that the counterbalancing harm happens "somewhere else", so that at least gives us a limit on karma's powers. Anything that happens, happens, and won't simply be undone.
 
->>>> **u/itisike** [+1]  *Dragon Army**
+>>>> **u/itisike** [+1]  *Dragon Army* (21 hours later)
 >>>> 
 >>>> >But the prompt actually specifies that the counterbalancing harm happens "somewhere else", so that at least gives us a limit on karma's powers. Anything that happens, happens, and won't simply be undone.
->>>> Fair enough, but it can prevent you from doing it in the first place if it would cause a paradox.
 >>>> 
+>>>> Fair enough, but it can prevent you from doing it in the first place if it would cause a paradox.
 
-> **u/distributed** [+1] *
+> **u/distributed** [+1]  (13 hours later)
 > 
 > So set up a harm generator where it will be harmless. Maybe non sentient human clones that are automatically tortured to make life awesome for everyone else.
-> 
 
->> **u/itisike** [+1]  *Dragon Army**
+>> **u/itisike** [+1]  *Dragon Army* (14 hours later)
 >> 
 >> It's by the standards of whoever planned it. If they don't consider it harm, then it doesn't count.
->> 
 
->>> **u/ajuc** [+2] *
+>>> **u/ajuc** [+2]  (15 hours later)
 >>> 
 >>> Then by my standards killing flies is very harmful, while curing people is slightly good. Now in my hospital I cure millions of people from any health problems by killing a few flies.
->>> 
 
->>>> **u/itisike** [+2]  *Dragon Army**
+>>>> **u/itisike** [+2]  *Dragon Army* (15 hours later)
 >>>> 
 >>>> And how do you gain from that, if you so disvalue killing flies?
->>>> And remember, nobody put you up to this, or their standards would also apply.
->>>> So why would you randomly kill flies and start a hospital?
 >>>> 
+>>>> And remember, nobody put you up to this, or their standards would also apply.
+>>>> 
+>>>> So why would you randomly kill flies and start a hospital?
 
->>>>> **u/ajuc** [+2] *
+>>>>> **u/ajuc** [+2]  (20 hours later)
 >>>>> 
 >>>>> This is by definition an equivalent exchange according to my utility function, so why not? 
->>>>> If you are going to protest that it's not worth it because it's 0 sum and also I have to perform some activity - then this applies to any other such exchange, so you argue nobody will every do any magical trade by definition.
 >>>>> 
+>>>>> If you are going to protest that it's not worth it because it's 0 sum and also I have to perform some activity - then this applies to any other such exchange, so you argue nobody will every do any magical trade by definition.
 
->>>>>> **u/itisike** [+1]  *Dragon Army**
+>>>>>> **u/itisike** [+1]  *Dragon Army* (21 hours later)
 >>>>>> 
 >>>>>> >  so you argue nobody will every do any magical trade by definition.
->>>>>> People are stupid and will try over and over even seeing the consequences.
->>>>>> That doesn't mean anyone will start a fly-killing hospital.
 >>>>>> 
+>>>>>> People are stupid and will try over and over even seeing the consequences.
+>>>>>> 
+>>>>>> That doesn't mean anyone will start a fly-killing hospital.
 
 ---
 

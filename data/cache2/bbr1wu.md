@@ -2,7 +2,7 @@
 
 * Author: u/dyxsst *
 * URL: https://www.reddit.com/r/rational/comments/bbr1wu/is_trent_the_uncatchable_a_rational_character/
-* Score: 4
+* Score: 3
 
 * Created: 2019-04-10T20:38:18
 
@@ -28,31 +28,27 @@ I'm looking forward to your thoughts on Trent!
 
 ### Comments:
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+4]  *My arch-enemy is entropy* (2 hours later)
 > 
 > > Tales of the Continuum Time by Daniel Keys Moran
-> You misspelled the name of the series. It's not Tales of the Continuum Time, it's [Tales of the Continuing Time](https://www.amazon.com/gp/product/B01LYQBBZD/ref=series_rw_dp_sw)*.*
 > 
+> You misspelled the name of the series. It's not Tales of the Continuum Time, it's [Tales of the Continuing Time](https://www.amazon.com/gp/product/B01LYQBBZD/ref=series_rw_dp_sw)*.*
 
->> **u/dyxsst** [+1] *
+>> **u/dyxsst** [+1]  (3 days later)
 >> 
 >> Thx for the correction, fixed it in the post
->> 
 
-> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (2 days later)
 > 
 > Probably not.  The series is a personal favorite from my youth, but there's a lot of destiny weirdness going on with the two dueling time traveling posthumans (I need to look and see if this is an influence for the cosmere and dragonsteel though).
-> 
 
-> **u/OriginalFatSam** [+2] *
+> **u/OriginalFatSam** [+2]  (4 months later)
 > 
 > He always struck me as rational, but I'm biased. :-)
-> 
 
->> **u/dyxsst** [+1] *
+>> **u/dyxsst** [+1]  (4 months later)
 >> 
 >> I trust you not to be too biased xD
->> 
 
 ---
 

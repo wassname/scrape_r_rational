@@ -2,7 +2,7 @@
 
 * Author: u/raymestalez *
 * URL: https://www.reddit.com/r/rational/comments/3foue8/i_have_created_a_chat_room_for_us/
-* Score: 8
+* Score: 9
 
 * Created: 2015-08-04T00:52:03
 
@@ -22,60 +22,55 @@ Go [here](https://raymestalez.typeform.com/to/TIiWEA) to receive an invite.
 
 ### Comments:
 
-> **u/None** [+6] *
+> **u/None** [+4]  (10 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/raymestalez** [+1] *
+>> **u/raymestalez** [+2]  (14 minutes later)
 >> 
 >> Yes, it's pretty much IRC, but more convenient.
->> Thanks, I also hope it takes off =)
 >> 
+>> Thanks, I also hope it takes off =)
 
-> **u/Jello_Raptor** [+6]  *The Last Tool User**
+> **u/Jello_Raptor** [+5]  *The Last Tool User* (36 minutes later)
 > 
 > Don't we already use #HPMOR or #lesswrong for this sort of thing? why not another channel on foonetic? with maybe a webirc link pointed there for people who aren't already lounging on IRC?
-> 
 
->> **u/raymestalez** [-1] *
+>> **u/raymestalez** [-1]  (41 minutes later)
 >> 
 >> Slack is more convenient than IRC and easier to use, so it has a better chance of gaining more users.
->> Also, I didn't know that #HPMOR existed. Maybe existence of our chat room should be more clear to new users, then it will be more valuable and popular.
->> If people will find this idea useful - I can ask moderators to add a link to the sidebar, so that everybody would know that we have our chat room.
 >> 
+>> Also, I didn't know that #HPMOR existed. Maybe existence of our chat room should be more clear to new users, then it will be more valuable and popular.
+>> 
+>> If people will find this idea useful - I can ask moderators to add a link to the sidebar, so that everybody would know that we have our chat room.
 
->>> **u/Gurkenglas** [+14] *
+>>> **u/Gurkenglas** [+15]  (an hour later)
 >>> 
 >>> More convenient? I went to your link, put in my adress, went to the link in your link, was told I need to create an account, went and did so, went to the link in your link, was told the same thing (but also that I'm already logged in), noticed that you need to manually confirm my invite, and went back here to say that getting into IRC takes going on [the Freenode webchat](http://webchat.freenode.net/?channels=%23HPMOR%2C%23lesswrong%2C%23rational&amp;uio=d4) and choosing a name.
->>> Edit: Inserted superior linkage suggested by the child comment.
 >>> 
+>>> Edit: Inserted superior linkage suggested by the child comment.
 
->>>> **u/Jello_Raptor** [+5]  *The Last Tool User**
+>>>> **u/Jello_Raptor** [+3]  *The Last Tool User* (an hour later)
 >>>> 
 >>>> Also the basic setup for a client, alternately you can just click this [_link_](http://webchat.freenode.net/?channels=%23HPMOR%2C%23lesswrong%2C%23rational&uio=d4). 
->>>> Edit: oops, didn't notice you specified webchat. Link still replaces two of those steps with a click, however.
 >>>> 
+>>>> Edit: oops, didn't notice you specified webchat. Link still replaces two of those steps with a click, however.
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (4 hours later)
 >>>> 
 >>>> Add to that noscript / requestpolicy configuration and you've got a huge pile of nope.
->>>> 
 
->>> **u/IomKg** [+3] *
+>>> **u/IomKg** [+4]  (7 hours later)
 >>> 
 >>> If you want the convenience of slack using irc you can go for something like irccloud, that way whoever wants the simplicity will be able to simply run mirc/xchat/wehatever, and people that want the features could use irccloud or similar services
->>> 
 
-> **u/elevul** [+6]  *Cyoria Observer**
+> **u/elevul** [+4]  *Cyoria Observer* (9 hours later)
 > 
 > Yeah no, it's way more annoying than just using IRC
-> 
 
-> **u/blazinghand** [+3]  *Chaos Undivided**
+> **u/blazinghand** [+3]  *Chaos Undivided* (20 hours later)
 > 
 > I like the idea and the thought, so I voted this up, but Slack is such a pain to use compared to IRC that I will not be joining in.
-> 
 
 ---
 

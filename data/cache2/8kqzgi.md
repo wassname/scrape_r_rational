@@ -2,7 +2,7 @@
 
 * Author: u/stale2000 *
 * URL: https://www.reddit.com/r/rational/comments/8kqzgi/fiction_about_a_poor_kid_getting_into_a_magic/
-* Score: 8
+* Score: 10
 
 * Created: 2018-05-20T06:22:54
 
@@ -14,25 +14,21 @@ The story starts off with him being the son of a maid, and taking tutoring lesso
 
 ### Comments:
 
-> **u/user19911506** [+15] *
+> **u/user19911506** [+14]  (21 minutes later)
 > 
 > You are looking for the good student http://gravitytales.com/novel/the-good-student/tgs-chapter-1
-> 
 
-> **u/Iwasahipsterbefore** [+11] *
+> **u/Iwasahipsterbefore** [+10]  (14 hours later)
 > 
 > I know your question was already answered, but if you're looking for something published the Name of the Wind and it's sequel a Wise Mans Fear follow this plot, at least a bit.
-> 
 
-> **u/MaddoScientisto** [+5] *
+> **u/MaddoScientisto** [+6]  (20 minutes later)
 > 
 > You're talking about "the good Student"
-> 
 
->> **u/stale2000** [+2] *
+>> **u/stale2000** [+2]  (20 minutes later)
 >> 
 >> Haha!  Thats it!  Thanks.
->> 
 
 ---
 

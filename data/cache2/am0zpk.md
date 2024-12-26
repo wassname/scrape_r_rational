@@ -24,41 +24,40 @@ Updates on a frequent basis (about every 4 days)
 
 ### Comments:
 
-> **u/Rouninscholar** [+5] *
+> **u/Rouninscholar** [+4]  (11 hours later)
 > 
 > Agreeing with the other poster. First chapter is an isekai explaination. Just go through it.  
-
-> All in all I am liking it so far. Frequent updates, but they are relatively short. Writing varies from being decent enough, to having some very good lines. I am on chapter 20, and enjoying it. Came back after reading:  
-
->  The injured man's eyes snapped open, dark grey orbs meeting black clouds above. His hand jerked into the air, and fire answered his call.   
-
-> Excellent line, imho. How good of an actual book it is depends on where the story goes, but I am invested enough to read and find out.
 > 
+> All in all I am liking it so far. Frequent updates, but they are relatively short. Writing varies from being decent enough, to having some very good lines. I am on chapter 20, and enjoying it. Came back after reading:  
+> 
+>  The injured man's eyes snapped open, dark grey orbs meeting black clouds above. His hand jerked into the air, and fire answered his call.   
+> 
+> Excellent line, imho. How good of an actual book it is depends on where the story goes, but I am invested enough to read and find out.
 
-> **u/RMcD94** [+4] *
+> **u/RMcD94** [+4]  (19 hours later)
 > 
 > I'm on chapter 15 and I just want to warn people that the main character is, well, not the brightest bulb, so I'm not quite sure that if people like it for the normal rational protag that you're getting that. For the same reasons I like rational fiction to a lot of people might mean intelligent characters (even if they're not rational).  
-> I'm also a little confused if Dan was just absent for all of the mass shootings in the USA after 9/11. Dan's points seem insanely on the nose and he obviously is from a world with smartphones so I don't get it at all. Did he forget about them?
 > 
+> I'm also a little confused if Dan was just absent for all of the mass shootings in the USA after 9/11. Dan's points seem insanely on the nose and he obviously is from a world with smartphones so I don't get it at all. Did he forget about them?
 
-> **u/RetardedWabbit** [+3] *
+> **u/RetardedWabbit** [+3]  (11 hours later)
 > 
 > Stellar ending to the second chapter, and the fourth made the protagonist much more likable to me. The first chapter didn't grab me at all, so I encourage everyone to power through it.
-> Thanks for the recommendation! I've seen this recommended around here before but with not nearly as detailed a description.
 > 
+> Thanks for the recommendation! I've seen this recommended around here before but with not nearly as detailed a description.
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+3]  (3 days later)
 > 
 > Really enjoying it so far. Dan's quest to better himself, and difficulty in doing so, feels very real. He's reacting like a real person instead of like a wish-fulfillment protagonist. He's a little thick about romance but that's not unreasonable for some people.
-> I would recommend this.
 > 
+> I would recommend this.
 
-> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!* (a day later)
 > 
 > So far got to chapter 27, its pretty good, I like it.
 > Though I can't help comparing it to Jumper EXO and its scientific use of teleportation and reasonable uses for inertia / orientation / personal velocity change
-> Gonna keep reading it for now
 > 
+> Gonna keep reading it for now
 
 ---
 

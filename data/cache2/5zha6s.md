@@ -12,46 +12,39 @@
 
 ### Comments:
 
-> **u/Belgarion262** [+8] *
+> **u/Belgarion262** [+10]  (9 hours later)
 > 
 > After finding this and reaching the end of the currently posted material, I now find myself anxiously waiting for each new chapter!
-> This is always the issue with finding a good story that isn't complete yet.
 > 
+> This is always the issue with finding a good story that isn't complete yet.
 
->> **u/MoralRelativity** [+3] *
+>> **u/MoralRelativity** [+3]  (20 hours later)
 >> 
 >> I know EXACTLY what you mean. And I think this story is a long was from being complete. I'm guessing 7 - 10 books.
->> 
 
->>> **u/ErraticErrata** [+5] *
+>>> **u/ErraticErrata** [+4]  (4 days later)
 >>> 
 >>> Currently five books planned. Might go up to six, if there's too much material.
->>> 
 
->>>> **u/MoralRelativity** [+2] *
+>>>> **u/MoralRelativity** [+2]  (4 days later)
 >>>> 
 >>>> Thank you, that's useful to know.
->>>> 
 
-> **u/libertarian_reddit** [+4] *
+> **u/libertarian_reddit** [+4]  (16 hours later)
 > 
 > I hope all this interaction with the Fae, gives our favorite ~~heroine~~ villainess some practice for when it comes time to fight the real enemy, also outside of creation.
-> 
 
->> **u/MoralRelativity** [+2] *
+>> **u/MoralRelativity** [+2]  (20 hours later)
 >> 
 >> You know, that makes a lot of sense.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (23 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/libertarian_reddit** [+2] *
+>>> **u/libertarian_reddit** [+2]  (2 days later)
 >>> 
 >>> **The Gods**
->>> 
 
 ---
 

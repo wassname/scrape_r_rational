@@ -2,7 +2,7 @@
 
 * Author: u/Tinfoil_Haberdashery *
 * URL: https://www.reddit.com/r/rational/comments/k1i6gq/rt_ff_elasmosaur_a_postapocalyptic/
-* Score: 8
+* Score: 7
 
 * Created: 2020-11-26T16:27:18
 

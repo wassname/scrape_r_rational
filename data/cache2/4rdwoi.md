@@ -2,7 +2,7 @@
 
 * Author: u/Magodo  *Ankh-Morpork City Watch**
 * URL: https://www.reddit.com/r/rational/comments/4rdwoi/monthly_recommendation_thread/
-* Score: 35
+* Score: 36
 
 * Created: 2016-07-05T17:44:53
 
@@ -17,436 +17,450 @@ Other recommendation threads [here](http://pastebin.com/SbME9sXy)
 
 ### Comments:
 
-> **u/None** [+19] *
+> **u/None** [+21]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/FormerlySarsaparilla** [+6] *
+>> **u/FormerlySarsaparilla** [+7]  (3 hours later)
 >> 
 >> Second. Be sure to read all of the alt-text and and regular text posted alongside each comic. Also, the commentary posted by regular readers is surprisingly entertaining.
->> 
 
->>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (4 hours later)
 >>> 
 >>> Some of the regular text is a bit of a slog if you're reading the whole thing in one go.
->>> 
 
->>>> **u/FormerlySarsaparilla** [+3] *
+>>>> **u/FormerlySarsaparilla** [+3]  (5 hours later)
 >>>> 
 >>>> That's true. I think it might be best read as a parallel story, going back once per chapter to catch up on all the sub-text. It does add a lot of background and general world building. Plus the best pieces have a kind of Terry Pratchet Meets Zen Koans feel.
->>>> 
 
->>> **u/embrodski** [+1] *
+>>> **u/embrodski** [+1]  (10 hours later)
 >>> 
 >>> I'm not seeing text alongside comics... where is this?
->>> 
 
->>>> **u/FormerlySarsaparilla** [+2] *
+>>>> **u/FormerlySarsaparilla** [+2]  (10 hours later)
 >>>> 
 >>>> http://i.imgur.com/VJHUZ8m.jpg
->>>> Viewing the pages individually, it is just below the page itself. Often just a paragraph or sentence, sometimes a full short story. Needs a better presentation.
 >>>> 
+>>>> Viewing the pages individually, it is just below the page itself. Often just a paragraph or sentence, sometimes a full short story. Needs a better presentation.
 
->>>>> **u/embrodski** [+1] *
+>>>>> **u/embrodski** [+1]  (21 hours later)
 >>>>> 
 >>>>> Thank you! For the first few pages it was just comments and I stopped looking.
->>>>> 
 
->>> **u/_Zero12_** [+1]  *404: Flair not Funny**
+>>> **u/_Zero12_** [+1]  *404: Flair not Funny* (14 hours later)
 >>> 
 >>> Thirded. Art is really gorgeous, and I enjoy the lore stuff quite a bit. There's just enough left unsaid to make lore snippets intriguing.
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 hours later)
 >> 
 >> I thank you very much for recommending this to me. Weird, imaginative character designs, alien cities, strange worlds that are not meant to be fully understood by the reader and cryptic, Michael Kirkbride-style world-building are some of the things I enjoy most of all in fiction, and that make this story a giant superstimulus for me.
->> 
 
->>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (6 hours later)
 >>> 
 >>> My pleasure.
->>> 
 
->>> **u/rictic** [+1] *
+>>> **u/rictic** [+1]  (4 days later)
 >>> 
 >>> You may enjoy the video game Inside. It's imaginative, and heavy on setting and feeling. Not as wild as kill six billion demons, but not as mundane as it first appears either.
->>> 
 
-> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 > 
 > (The pages linked in this section contain NSFW advertisements.)
+> 
 > [Salamando_Flames](https://www.literotica.com/stories/memberpage.php?uid=1082173&page=submissions) has written many short stories in his "Sex Mage" universe, in which women have irresistible telepathic power over men. However, he's also written a few interesting deconstructions of the setting.  
 > \- *[Demoted](https://www.literotica.com/s/demoted)*: [Spoiler](#s "When any woman can snatch passwords and secrets out of any man's mind, men can't be allowed to hold positions of authority in businesses or in governments.")  
 > \- *[Blake's Roommate](https://www.literotica.com/s/metis-academy-ch-03-blakes-roommate)*: [Spoiler](#s "Homosexual women who don't want to be constantly bombarded with the psychic emanations of heterosexual men have no way to deactivate their powers.")
-> Other good, prolific authors on [Literotica](https://www.literotica.com/stories) include [JukeboxEMCSA](https://www.literotica.com/stories/memberpage.php?uid=1236860&page=submissions) and [manyeyedhydra](https://www.literotica.com/stories/memberpage.php?uid=903429&page=submissions).
-> ---
-> *[GURPS](http://www.sjgames.com/gurps)*--the Generic Universal RolePlaying System--is an **unbelievably**-awesome system for tabletop roleplaying. What evidence can be cited in support of this claim? Here are some snippets from the introduction to [the *Basic Set*](http://www.sjgames.com/gurps/books/Basic)...
-> > *"Generic."* Some people like quick, fast-moving games, where the referee makes lots of decisions to keep things moving. Others want ultimate detail, with rules for every contingency. Most of us fall somewhere in between. *GURPS* starts with simple rules, and--especially in the combat system--builds up to as much *optional* detail as you like. But it's still the same game. You may all use it differently, but your campaigns will all be compatible.[...]
-> > I'm satisfied that *GURPS* is is the most realistic, flexible, and "universal" system ever developed.
-> Not yet convinced? Check out [this extensive list of bibliographies](http://www.sjgames.com/gurps/biblios.html) for many books in the current and previous editions of *GURPS*! *GURPS* books incorporate such a *ridiculous* amount of research that they're delightful to read even if you never play a single game! Here's [a page](http://i.imgur.com/gJKUacH.png) from *[GURPS Low-Tech](http://www.sjgames.com/gurps/books/low-tech)*--just one of *dozens* of such pages in that supplement!
-> And, as the icing on the cake--all current-edition GURPS supplements (and many books from the previous edition as well) are [available](http://www.warehouse23.com) as *DRM-free,* easily-searchable PDF files! Nothing is ever out of print!
 > 
+> Other good, prolific authors on [Literotica](https://www.literotica.com/stories) include [JukeboxEMCSA](https://www.literotica.com/stories/memberpage.php?uid=1236860&page=submissions) and [manyeyedhydra](https://www.literotica.com/stories/memberpage.php?uid=903429&page=submissions).
+> 
+> ---
+> 
+> *[GURPS](http://www.sjgames.com/gurps)*--the Generic Universal RolePlaying System--is an **unbelievably**-awesome system for tabletop roleplaying. What evidence can be cited in support of this claim? Here are some snippets from the introduction to [the *Basic Set*](http://www.sjgames.com/gurps/books/Basic)...
+> 
+> > *"Generic."* Some people like quick, fast-moving games, where the referee makes lots of decisions to keep things moving. Others want ultimate detail, with rules for every contingency. Most of us fall somewhere in between. *GURPS* starts with simple rules, and--especially in the combat system--builds up to as much *optional* detail as you like. But it's still the same game. You may all use it differently, but your campaigns will all be compatible.[...]
+> 
+> > I'm satisfied that *GURPS* is is the most realistic, flexible, and "universal" system ever developed.
+> 
+> Not yet convinced? Check out [this extensive list of bibliographies](http://www.sjgames.com/gurps/biblios.html) for many books in the current and previous editions of *GURPS*! *GURPS* books incorporate such a *ridiculous* amount of research that they're delightful to read even if you never play a single game! Here's [a page](http://i.imgur.com/gJKUacH.png) from *[GURPS Low-Tech](http://www.sjgames.com/gurps/books/low-tech)*--just one of *dozens* of such pages in that supplement!
+> 
+> And, as the icing on the cake--all current-edition GURPS supplements (and many books from the previous edition as well) are [available](http://www.warehouse23.com) as *DRM-free,* easily-searchable PDF files! Nothing is ever out of print!
 
->> **u/blazinghand** [+6]  *Chaos Undivided**
+>> **u/blazinghand** [+8]  *Chaos Undivided* (an hour later)
 >> 
 >> Having worked and played with GURPS, I can say that in general (heh) I would NOT recommend it as a first RPG system to anyone. It's a different and refreshing breath of air to someone familiar with tabletop roleplay, but will be difficult and fiddly for new players. GURPS is probably the best system I've encountered from a simulationist perspective, and I've used elements of it in custom RPG systems I've made and quests I've run. That doesn't make it easy or fun for anyone not already very interested in tabletop RP. During actual play there can be some problems. It's the [Dwarf Fortress](http://i.imgur.com/B8327D0.png) of tabletop rpg systems, for better or for worse.
->> 
 
->>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (2 hours later)
 >>> 
 >>> How easy is GURPS to GM? I'm considering running a Pokemon game on it for RL friends, but not sure how easy that'd be.
->>> 
 
->>>> **u/InsaneBranch** [+3] *
+>>>> **u/InsaneBranch** [+3]  (14 hours later)
 >>>> 
 >>>> I think you're better off running Pokemon Table United ... It's a bit more sizable (400 pages for the handbook, and then there are more books, which of course aren't necessary, but can be handy), but mostly intuitive. 
->>>> Or you know, just run Pokecthulhu.:D
 >>>> 
+>>>> Or you know, just run Pokecthulhu.:D
 
->>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (4 hours later)
 >>>> 
 >>>> I don't know whether you're aware of [the dedicated Pokémon tabletop options that exist](http://pokemontabletop.com/about)...
->>>> 
 
->>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (4 hours later)
 >>>>> 
 >>>>> I'll be happy to look into that, thanks.
->>>>> 
 
->>>>>> **u/Kkrol** [+2] *
+>>>>>> **u/Kkrol** [+2]  (6 hours later)
 >>>>>> 
 >>>>>> I second the recommendation of PTU, the system isn't *that* complex. 
->>>>>> In terms of campaign, you can use programs to make GBA maps for towns and routes, [like this](https://www.youtube.com/watch?v=L3K5U74mCUM). With how many over-world sprite resources there are, it'd let your players easily pick out a trainer that suits their look and personality. 
->>>>>> I've been trying to design an adventures/anime based kanto campaign setting, but I keep losing motivation. I'm not a great DM.
 >>>>>> 
+>>>>>> In terms of campaign, you can use programs to make GBA maps for towns and routes, [like this](https://www.youtube.com/watch?v=L3K5U74mCUM). With how many over-world sprite resources there are, it'd let your players easily pick out a trainer that suits their look and personality. 
+>>>>>> 
+>>>>>> I've been trying to design an adventures/anime based kanto campaign setting, but I keep losing motivation. I'm not a great DM.
 
->>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (6 hours later)
 >>>>>>> 
 >>>>>>> Yeah, I'm not a great GM either.
->>>>>>> I kind of prefer classless, point-based systems like GURPS, though; it feels less structured, although the amount of options PTU has is somewhat fascinating... I do plan for the game to be as lethal for trainers as it is in The Origin of Species, however. So we'll see how much all this supports my idea!
 >>>>>>> 
+>>>>>>> I kind of prefer classless, point-based systems like GURPS, though; it feels less structured, although the amount of options PTU has is somewhat fascinating... I do plan for the game to be as lethal for trainers as it is in The Origin of Species, however. So we'll see how much all this supports my idea!
 
->>>>>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (7 hours later)
 >>>>>>>> 
 >>>>>>>> You could try converting PTU's numbers to GURPS, in some fashion. GURPS operates on a somewhat-different scale--like D&D, PTU allows humans to have many dozens of hit points that increase with level (from an average base of 42 for a first-level trainer), while GURPS's rules have humans at an average of 10 HP regardless of character-point total and indirectly imply that even bodybuilders among humans rarely have more than thirty hit points--but it could still be possible. Maybe just dividing PTU's damage numbers by 4 (e.g., Flamethrower goes from 6d12+40 [averaging 79] in PTU to 5d+2 [averaging 19.5] in GURPS) would be sufficient!
->>>>>>>> Each PTU move could be treated as a GURPS spell. *GURPS [Magic](http://www.sjgames.com/gurps/books/magic)* and *[Thaumatology](http://www.sjgames.com/gurps/books/thaumatology)* would be useful for devising a *Pokémon*-based "magic" system: *Magic* has guidelines for calculating a new spell's energy cost based on its effects (for example, a Flamethrower spell capable of dealing 5d+2 damage would cost about 5 points of energy, which is pretty expensive for a standard human wizard--but Pokémon would have huge energy reserves), and *Thaumatology* has guidelines for devising entire new systems of magic.
->>>>>>>> For the Pokémon themselves, GURPS assumes as a baseline that a living being has ST (Strength) and HP (Hit Points) of about 2 × ∛(weight in pounds), so that would make conversion of Pokémon stats at least *somewhat* doable, maybe...
 >>>>>>>> 
+>>>>>>>> Each PTU move could be treated as a GURPS spell. *GURPS [Magic](http://www.sjgames.com/gurps/books/magic)* and *[Thaumatology](http://www.sjgames.com/gurps/books/thaumatology)* would be useful for devising a *Pokémon*-based "magic" system: *Magic* has guidelines for calculating a new spell's energy cost based on its effects (for example, a Flamethrower spell capable of dealing 5d+2 damage would cost about 5 points of energy, which is pretty expensive for a standard human wizard--but Pokémon would have huge energy reserves), and *Thaumatology* has guidelines for devising entire new systems of magic.
+>>>>>>>> 
+>>>>>>>> For the Pokémon themselves, GURPS assumes as a baseline that a living being has ST (Strength) and HP (Hit Points) of about 2 × ∛(weight in pounds), so that would make conversion of Pokémon stats at least *somewhat* doable, maybe...
 
->>>> **u/blazinghand** [+1]  *Chaos Undivided**
+>>>> **u/blazinghand** [+1]  *Chaos Undivided* (3 hours later)
 >>>> 
 >>>> Depends how much of the mechanics you use. The big problem with GURPS is that combat is in one second turns, and is fairly complex. There's simplified combat, but it's still 1-second turns. GURPS combat is blow-by-blow. Like, if you have a big weapon, you have to ready it. If you have a crossbow you spend like, 1-2 rounds reloading, for every shot. Actually you might be able to ready and attack in the same turn, but remember a turn is 1 second. So then, your heavy weapon is unreadied. And attacking cuts your other options, like you can't do stufflike parry if your weapon is unreadied. 
->>>> There is some cool stuff though, like, if you are super strong, unbalanced weapons do not need to be readied. Er, not unbalanced, but heavy or something. The point is, GURPS combat is really high-granularity, which makes it great. I think if you avoid certain classes of things, like spellcasting, it's less bad. You often want to charge up spells for like 2-3 rounds. You can only like "charge" an amount to a spell equal to your magery level for free each round. Also you get penalties to parry based on how many other parries you did in the same round...
->>>> It's a lot of fun, but in general, it's complex and slows down combat a little bit due to the large amount of options and systems like defense roll. Most of the options in GURPS combat should be treated like 3.5e grappling (pretend it doesn't exist and never use it). You will probably end up writing a combat system that is very close to GURPS but throws a bunch of stuff out the window and adds other things that make sense.
->>>> I don't know if there's a good pokemon RPG, so GURPS might be your only option anyways. It's certainly capable of doing pokemon, as GURPS can basically do anything.
-
->>>> EDIT: they also have these combat cards you can print out and pretend it's a card game, playing one each turn. Basically a combat options cheat sheet: http://www.sjgames.com/gameaids/gurps/Combat_Cards_Color.pdf
->>>> So yeah overall the system is great. Really just the combat has issues. IT's not even THAT awful, it just requires that everyone knows the rules pretty well.
 >>>> 
+>>>> There is some cool stuff though, like, if you are super strong, unbalanced weapons do not need to be readied. Er, not unbalanced, but heavy or something. The point is, GURPS combat is really high-granularity, which makes it great. I think if you avoid certain classes of things, like spellcasting, it's less bad. You often want to charge up spells for like 2-3 rounds. You can only like "charge" an amount to a spell equal to your magery level for free each round. Also you get penalties to parry based on how many other parries you did in the same round...
+>>>> 
+>>>> It's a lot of fun, but in general, it's complex and slows down combat a little bit due to the large amount of options and systems like defense roll. Most of the options in GURPS combat should be treated like 3.5e grappling (pretend it doesn't exist and never use it). You will probably end up writing a combat system that is very close to GURPS but throws a bunch of stuff out the window and adds other things that make sense.
+>>>> 
+>>>> I don't know if there's a good pokemon RPG, so GURPS might be your only option anyways. It's certainly capable of doing pokemon, as GURPS can basically do anything.
+>>>> 
+>>>> EDIT: they also have these combat cards you can print out and pretend it's a card game, playing one each turn. Basically a combat options cheat sheet: http://www.sjgames.com/gameaids/gurps/Combat_Cards_Color.pdf
+>>>> 
+>>>> So yeah overall the system is great. Really just the combat has issues. IT's not even THAT awful, it just requires that everyone knows the rules pretty well.
 
->>> **u/edwardkmett** [+1] *
+>>> **u/edwardkmett** [+1]  (20 hours later)
 >>> 
 >>> Probably my favorite system from a "simulationist" perspective is [Hero System](https://en.wikipedia.org/wiki/Hero_System). I've run everything from cyberpunk to a campaign set in the decline and fall of the Roman Empire w/ a tinge of necromancy to street level martial arts to superheroes in it. 
->>> The way the rules are structured, say, things like strength double every 5 points. This exponential curve scales to more power levels than the GURPS equivalent. This is a particular strength in the superhero setting it was originally designed for, but it works well with "normal characeristic maxima" for street level campaigns as well. Also the stats for your characters are more interconnected in terms of base points, which leads to fewer absurd stat combinations.
 >>> 
+>>> The way the rules are structured, say, things like strength double every 5 points. This exponential curve scales to more power levels than the GURPS equivalent. This is a particular strength in the superhero setting it was originally designed for, but it works well with "normal characeristic maxima" for street level campaigns as well. Also the stats for your characters are more interconnected in terms of base points, which leads to fewer absurd stat combinations.
 
->> **u/lvwolb** [+4] *
+>> **u/lvwolb** [+3]  (23 hours later)
 >> 
 >> Having played GURPS for a couple years, I can second: It is a really nice system. After coming from GURPS, other systems tend to feel rather restrictive, especially with respect to character building.
->> That beeing said, whether GURPS is a good fit for your game really depends on what you want to do:
->> -Worldbuilding: Other systems tend to provide vast, lovingly crafted worlds. Gurps encourages GMs to engage in world-building themselves; this is hard.
->> -Magic system: Frankly, I hate the default magic system of Gurps. In order to get a coherent state of affairs, the world-building and magic system need to be designed for each other.
->> -Combat: In contrary to other posters, I don't think the combat system is overly complicated or cumbersome. It is, however, incredibly lethal, both at lower and higher tech-levels. So this is a matter of taste: Do you want "realism" or shiny, powerful fiction-like knights or space-marines? During each fight, a couple bad rolls can mean permadeath for your beloved character that you nursed for years. Does this extra tension make the game more fun for you, because you have to actually think and plan and avoid fights? Or do you rather want to relax with a couple friends over some beers? Both are totally valid answers, but your entire group should agree on this, and your choice of system should reflect this.
 >> 
+>> That beeing said, whether GURPS is a good fit for your game really depends on what you want to do:
+>> 
+>> -Worldbuilding: Other systems tend to provide vast, lovingly crafted worlds. Gurps encourages GMs to engage in world-building themselves; this is hard.
+>> 
+>> -Magic system: Frankly, I hate the default magic system of Gurps. In order to get a coherent state of affairs, the world-building and magic system need to be designed for each other.
+>> 
+>> -Combat: In contrary to other posters, I don't think the combat system is overly complicated or cumbersome. It is, however, incredibly lethal, both at lower and higher tech-levels. So this is a matter of taste: Do you want "realism" or shiny, powerful fiction-like knights or space-marines? During each fight, a couple bad rolls can mean permadeath for your beloved character that you nursed for years. Does this extra tension make the game more fun for you, because you have to actually think and plan and avoid fights? Or do you rather want to relax with a couple friends over some beers? Both are totally valid answers, but your entire group should agree on this, and your choice of system should reflect this.
 
-> **u/Faust91x** [+6]  *Iteration X**
+> **u/Faust91x** [+6]  *Iteration X* (an hour later)
 > 
 > Any good rational comedy you can recommend?
-> I'd like to read some for inspiration for an idea I got. Problem is that I suck at writing comedy and it always ends up as gallows humor or black comedy no matter how lighthearted it starts.
-> I'd like to know if there's some good non-cynical rational comedy you can recommend.
 > 
+> I'd like to read some for inspiration for an idea I got. Problem is that I suck at writing comedy and it always ends up as gallows humor or black comedy no matter how lighthearted it starts.
+> 
+> I'd like to know if there's some good non-cynical rational comedy you can recommend.
 
->> **u/Wiron** [+19] *
+>> **u/Wiron** [+19]  (an hour later)
 >> 
 >> [Twisted: The Untold Story of a Royal Vizier](https://www.youtube.com/watch?v=-77cUxba-aA) is a parody of Aladdin where Jaffar is only rational person in a kingdom.
->> 
 
->> **u/TennisMaster2** [+4] *
+>> **u/TennisMaster2** [+6]  (2 hours later)
 >> 
 >> There's a guy on BBC Radio whose works were recommended here a few months back.  I'm blanking on his name at the moment.  Check back to see if someone remembers for me.  One was about fishes.  Another about seashells.  [John Finnemore](https://www.youtube.com/watch?v=9ZXu36Qh7Yg).
->> 
 
->> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (4 hours later)
 >> 
 >> How do you define rational comedy? It seems almost - but not quite - an oxymoron.
->> I mean, I could pimp my own story.
 >> 
+>> I mean, I could pimp my own story.
 
->>> **u/None** [+8] *
+>>> **u/None** [+9]  (a day later)
 >>> 
 >>> The early chapters of HPMOR and some parts of Lighting Up the Dark definitely count as rational comedy.
->>> Also, Discworld.
 >>> 
+>>> Also, Discworld.
 
->> **u/IomKg** [+2] *
+>> **u/IomKg** [+2]  (a day later)
 >> 
 >> I found Harry Potter and the natural D20 to be quite funny.
->> 
 
-> **u/GaBeRockKing** [+8]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857* (an hour later)
 > 
 > Gonna reccomend "Soon I Will be Invincible."
-> It's almost anti-rational, in that everything is driven by plot conciet, but with the emotional tone it strikes I enjoyed it rather than got annoyed at it.
 > 
+> It's almost anti-rational, in that everything is driven by plot conciet, but with the emotional tone it strikes I enjoyed it rather than got annoyed at it.
 
-> **u/Wiron** [+4] *
+> **u/Wiron** [+4]  (an hour later)
 > 
 > [Choice of Alexandria](https://www.choiceofgames.com/alexandria/) - new interactive novel by the author of [Choice of Robots](https://www.choiceofgames.com/robots/). You play as ancient scholar in Alexandria. You can focus on pursuing studies, creating inventions, tutoring young ruler or manipulating your way to the throne.
-
-> [The Grand Vizier of Oz](https://www.fanfiction.net/s/4645725/1/The-Grand-Vizier-of-Oz) - Wicked fanfic where characters are slowly making social change, carfully learn magic and are resonable about relanshionships. Optimistic, but not unreasonably so. As author put it: *"I wondered what it would take for the characters of Wicked to actually achieve a real 'happily ever after' – what work they'd have to do, what troubles they'd have to deal with, and what things would never work out no matter what. I wanted it to be canonically plausible, not a total fantasy with no sadness or negative consequences. I think I've managed."*
-
-> [Shogun by James Clavell](http://www.goodreads.com/book/show/402093.Sh_gun) - European ship crashes on a shore of feudal Japan. English navigator must survive in unknown land and Japanese must deal with political turmoil. Lots of ambitious characters thinking about their next move.
 > 
+> [The Grand Vizier of Oz](https://www.fanfiction.net/s/4645725/1/The-Grand-Vizier-of-Oz) - Wicked fanfic where characters are slowly making social change, carfully learn magic and are resonable about relanshionships. Optimistic, but not unreasonably so. As author put it: *"I wondered what it would take for the characters of Wicked to actually achieve a real 'happily ever after' – what work they'd have to do, what troubles they'd have to deal with, and what things would never work out no matter what. I wanted it to be canonically plausible, not a total fantasy with no sadness or negative consequences. I think I've managed."*
+> 
+> [Shogun by James Clavell](http://www.goodreads.com/book/show/402093.Sh_gun) - European ship crashes on a shore of feudal Japan. English navigator must survive in unknown land and Japanese must deal with political turmoil. Lots of ambitious characters thinking about their next move.
 
->> **u/AurelianoTampa** [+5] *
+>> **u/AurelianoTampa** [+4]  (2 hours later)
 >> 
 >> > Shogun by James Clavell - European ship crashes on a shore of feudal Japan. English navigator must survive in unknown land and Japanese must deal with political turmoil. Lots of ambitious characters thinking about their next move. 
->> Slight aside. I recall reading this book about... oh, a decade ago? I mentioned it to my mother (who as a rule doesn't care for most fantasy or historical fiction novels). She started talking about all sorts of things from the book. I was shocked.
->> Turns out the book was made into a TV miniseries in the early 1980s, and she and her friends had tuned into it religiously. She still recalled it almost three decades later!
->> Anyway, I seem to recall liking the book. Hopefully you're enjoying it too!
 >> 
+>> Slight aside. I recall reading this book about... oh, a decade ago? I mentioned it to my mother (who as a rule doesn't care for most fantasy or historical fiction novels). She started talking about all sorts of things from the book. I was shocked.
+>> 
+>> Turns out the book was made into a TV miniseries in the early 1980s, and she and her friends had tuned into it religiously. She still recalled it almost three decades later!
+>> 
+>> Anyway, I seem to recall liking the book. Hopefully you're enjoying it too!
 
->> **u/Golden_Magician** [+4] *
+>> **u/Golden_Magician** [+3]  (2 hours later)
 >> 
 >> I second Shogun- an incredible read, I've read it twice despite its massive lenght. World-building is top-notch and it will make you feel as if you've lived inside feudal Japan. One particularly memorable scene involves the mention of a duck.
->> 
 
->>> **u/squidbait** [+2] *
+>>> **u/squidbait** [+2]  (11 hours later)
 >>> 
 >>> when they brought it to TV there is a duck just sort of hanging out in that particular scene
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (2 days later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/GlueBoy** [+1]  *anti-skub**
+>>>>> **u/GlueBoy** [+1]  *anti-skub* (2 days later)
 >>>>> 
 >>>>> It's the scene where Blackthorne is livid they thought he might be a "sodomite", so they discuss in japanese what his actual sexual preference might be.
->>>>> 
 
-> **u/pje** [+3] *
+> **u/pje** [+6]  (4 hours later)
 > 
 > [Broken Crescent](http://www.sandrewswann.com/books/broken-crescent) by S. Andrew Swann.  Hard portal fantasy with one of the most developed magic-as-programming-language systems I've seen.  Level 1 intelligent characters, with factions differing in values rather than "good" vs "evil".  Good reasons for why the locals haven't exploited magic OR science as much as the protagonist.  Tough problems for the protagonist, including the need to learn the local language -- no miraculous translation spells here.  Protagonist enacts some level 2-ish solutions but they are pretty obvious if you're a programmer; in fairness, the main character is not supposed to be a genius in general, just a reformed black-hat hacker.
-> 
 
->> **u/PL_TOC** [+2] *
+>> **u/PL_TOC** [+2]  (2 days later)
 >> 
 >> I've just finished reading this at your recommendation. Overall I grade it at a C+. The author tried to do too much in a single novel, so he moved too quickly through the most interesting aspects of the story.
->> 
 
->> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+1]  *fear of last pages* (a day later)
 >> 
 >> IMO, that book would also be relevant in the *[“\[D\] Good ideas in bad stories?”](https://www.reddit.com/r/rational/comments/3jz4js/d_good_ideas_in_bad_stories/)* thread. The programmable magical system was nice, but the plot wasn’t interesting enough, the characters weren’t clever and developed enough, and the advancement felt too artificial.
->> All this also made the story similar to R. Cook’s [*“Wiz Biz”*](http://www.goodreads.com/series/43084-wiz) series.
->> p.s. 
->> >hard portal fantasy
->> I thought this meant protag abusing the principles of teleportation magic and portal-casting. :&nbsp;)
 >> 
+>> All this also made the story similar to R. Cook’s [*“Wiz Biz”*](http://www.goodreads.com/series/43084-wiz) series.
+>> 
+>> p.s. 
+>> 
+>> >hard portal fantasy
+>> 
+>> I thought this meant protag abusing the principles of teleportation magic and portal-casting. :&nbsp;)
 
->>> **u/pje** [+1] *
+>>> **u/pje** [+1]  (a day later)
 >>> 
 >>> I could have called it "portal hard fantasy", but that would've sounded even *more* like abusing teleportation.
->>> Personally, I liked it better than the Wiz Biz series, in that Wiz Biz emphasized wit and whimsy over consistency.  If Broken Crescent errs on the side of being mostly too-predictable by an experienced programmer, Wiz Biz errs on the side of protagonists pulling rabbits out of hats.
 >>> 
+>>> Personally, I liked it better than the Wiz Biz series, in that Wiz Biz emphasized wit and whimsy over consistency.  If Broken Crescent errs on the side of being mostly too-predictable by an experienced programmer, Wiz Biz errs on the side of protagonists pulling rabbits out of hats.
 
-> **u/Timewinders** [+3] *
+> **u/Timewinders** [+3]  (4 hours later)
 > 
 > [Lily of the Valley](https://ebihime.itch.io/lily) is an excellent, free visual novel by ebi-hime. It only has one choice near the end (it's fairly short). It's not rational, but it's an excellent depiction of depression. Summary: Returning home to Wales for the first time in ten years to attend his mother’s funeral, a middle-aged man encounters a young girl he has never met before on a walk in the countryside. Although her face is often expressionless, her words harsh and cutting the man soon forges a friendship with her, of sorts, as he confides in her his worries. However, their every encounter leaves him with more questions. How did she know his departed mother? Why does she have such a morbid fascination with death? And why does she look so much like his childhood sweetheart?
-> ***
-> I also recommend that people here try out [Long Live the Queen](http://store.steampowered.com/app/251990/) if you haven't already. It's a visual novel with raising sim elements and lots of choices. Your goal is to survive as a 14-year-old princess until you're crowned queen. The game has a lot of branch points and it's fun replaying it to see the different ways of surviving are and slowly figuring out all the nobles' backstories and scheming.
-> ***
-> I'm not sure if I've recommended this here before, but [Wearing Robert's Crown](https://www.fanfiction.net/s/11861559/1/Wearing-Robert-s-Crown) is probably my favorite Game of Thrones self insert fic, with the main character making many rational decisions in governing Westeros. It updates regularly, and unlike most Game of Thrones fics, is actually starting to approach the point where the White Walkers become relevant.
 > 
+> ***
+> 
+> I also recommend that people here try out [Long Live the Queen](http://store.steampowered.com/app/251990/) if you haven't already. It's a visual novel with raising sim elements and lots of choices. Your goal is to survive as a 14-year-old princess until you're crowned queen. The game has a lot of branch points and it's fun replaying it to see the different ways of surviving are and slowly figuring out all the nobles' backstories and scheming.
+> 
+> ***
+> 
+> I'm not sure if I've recommended this here before, but [Wearing Robert's Crown](https://www.fanfiction.net/s/11861559/1/Wearing-Robert-s-Crown) is probably my favorite Game of Thrones self insert fic, with the main character making many rational decisions in governing Westeros. It updates regularly, and unlike most Game of Thrones fics, is actually starting to approach the point where the White Walkers become relevant.
 
->> **u/eniteris** [+1] *
+>> **u/eniteris** [+1]  (2 days later)
 >> 
 >> Visual novels without choices are referred to as kinetic novels, and another one I would like to recommend is [Narcissu](http://store.steampowered.com/app/264380/), which deals with suicide and right to die. A bit old. No choices at all in these ones.
->> 
 
-> **u/alexanderwales** [+2]  *Time flies like an arrow**
+> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 days later)
 > 
 > Does anyone have recommendations for (preferably complete) television shows that are primarily about the workplace with some element of learning? I've been watching *Shirobako*, which seems to be largely about the professional environment and working relationships, and when I get to the end of it, I'd like more of that. *Atelier* was also like that, in that the relationships and characters were largely defined by work, in contrast to American sitcoms where work is just the forgettable backdrop for jokes or romance.
-> 
 
-> **u/AKAAkira** [+2] *
+> **u/AKAAkira** [+2]  (3 days later)
 > 
 > No one really seems to talk about E.B.O.N.Y. (www.ebony.extra.hu) aside from a few forums. No discussion at all in Reddit, even. Well, this is an attempt to fix that.
-> E.B.O.N.Y. ("The Weirdest Riddle Game On The Internet!") is a "riddle game" - a screen will give you the clues that you have to solve, and (generally) you put the answer directly in the URL to get to the next level. The riddles are pretty varied - some are a little straightforward if kinda lengthy to work out, but others require you to think "different" - they're exactly the kind of puzzles that makes no sense on a first look but then, when you actually know the answer, you think again and say "****, this was so obvious!" Some also reference other works/disciplines, so you might have an easier time on some levels if you, say, went through classical music training, or like to read mystery novels, or such.
-> Riddle games were something of a fad around the time E.B.O.N.Y. first came out, I think, though as far as I know this one's the only one that has a story, the concept of which I found pretty compelling, which is what had me hooked all these years. That said, the overall story isn't actually done. The creator says it'll take about 200 levels, not including forks, to finish, and only recently did he update the game up to level ~75. And most of the story come from conversation with characters, where there tends to be an average of 10-15 levels between meeting a character. Half of me think that's the reason meeting a new character felt so engaging, though the other half wanted to bulldoze through them so I can meet a new character already.
-> Hope some of you try it so I have someone to talk about it with.
 > 
+> E.B.O.N.Y. ("The Weirdest Riddle Game On The Internet!") is a "riddle game" - a screen will give you the clues that you have to solve, and (generally) you put the answer directly in the URL to get to the next level. The riddles are pretty varied - some are a little straightforward if kinda lengthy to work out, but others require you to think "different" - they're exactly the kind of puzzles that makes no sense on a first look but then, when you actually know the answer, you think again and say "****, this was so obvious!" Some also reference other works/disciplines, so you might have an easier time on some levels if you, say, went through classical music training, or like to read mystery novels, or such.
+> 
+> Riddle games were something of a fad around the time E.B.O.N.Y. first came out, I think, though as far as I know this one's the only one that has a story, the concept of which I found pretty compelling, which is what had me hooked all these years. That said, the overall story isn't actually done. The creator says it'll take about 200 levels, not including forks, to finish, and only recently did he update the game up to level ~75. And most of the story come from conversation with characters, where there tends to be an average of 10-15 levels between meeting a character. Half of me think that's the reason meeting a new character felt so engaging, though the other half wanted to bulldoze through them so I can meet a new character already.
+> 
+> Hope some of you try it so I have someone to talk about it with.
 
-> **u/Kodix** [+4] *
+> **u/Kodix** [+5]  (2 hours later)
 > 
 > I can only recommend some fanfics I've read recently. I make no guarantees as to how good they are or their rational qualities. I will list them in reverse chronological order (the one I read most recently being the first). 
-> * [Lesser evils](https://www.fanfiction.net/s/10753296/1/Lesser-Evils) HP fic. Harry responds differently to Voldemort's resurrection and Cedric's death, which leads to him delving into his mental connection to Voldemort, resulting in consequences good and bad. The writing is largely in-character, the changes to canon believable and not at all overdone.
-> * [The Black Prince](https://www.fanfiction.net/s/11098283/1/The-Black-Prince) HP/ASoIaF Harry is born as Robert Baratheon's middle child, regaining his old memories and magic, but not his full personality. An interesting concept, adequately executed. The writing is reminiscent of ASoIaF, not HP. Left me wanting more.
-> * [Life in Konoha's ANBU](https://www.fanfiction.net/s/7977390/1/Life-in-Konoha-s-ANBU). Naruto has the Hokage's personal attention and training from an early age. He's still the same person in some ways, but in others the brainwashing/conditioning has palpable - and scary - results. One of the more enjoyable Naruto fics I've read. The characters are distinct and believable, even the OC's, the storylines interesting. Makes use of filler material, but it works out well.
-> * [He who fights monsters](https://www.fanfiction.net/s/6942921/1/He-Who-Fights-Monsters) Rosario + Vampire. Largely does away with the canon storyline (I believe - I never could get myself to watch it). Instead, the protagonist gets no help and no reprieve in his stay at the monster academy. He has to make his own way, and he does so - badass human style. Some of his kills strain credulity, but overall it's an enjoyable work that I'd recommend to this subreddit in particular.
-> * [Death is Only the Beginning](https://www.fanfiction.net/s/8114428/1/Death-Is-Only-The-Beginning) Bleach. Ichigo is born and dies in time to meet Rukia and Renji as they get their start in Rukongai/the afterlife. It's a fairly interesting take on the Soul Society, and slightly more in-depth than the usual fare. There's not as much action as you might expect of Bleach, but it didn't bore me.
-> * [Tale of the Setting Sun](https://www.fanfiction.net/s/8963527/1/Tale-of-the-Setting-Sun) Naruto. Standard "Naruto is smarter/better than usual" fare. Enjoyable enough, but I genuinely can't recall much of the story only a month after reading it - so take that as you will.
-> * [How Long is Forever?](https://www.fanfiction.net/s/11209443/1/How-Long-Is-Forever) Naruto. Sakura time-travels into her younger self, and makes some changes. Chapters are in a slightly non-chronological order, but they still tell a story decently enough, and the concept is pretty neat. Definitely more memorable than the above story, too.
-> * [Veränderung](https://www.fanfiction.net/s/7233479/1/Veränderung) Blue Exorcist. Rin accesses his blue fire very early, which results in him becoming more competent and entering a different, perhaps closer, relationship with his family. In the Anime, I found Blue Exorcist's world to be very interesting - but they never quite showed enough to satisfy me (and the final episodes were horrible and clearly filler) - this fic did far better. 
-> * [Miserly Old Man, Trickster Fox](https://www.fanfiction.net/s/8144246/1/Miserly-Old-Man-Trickster-Fox) Naruto. The Hokage's old friend (an OC) comes to town and takes an interest in Naruto, essentially fostering and training him. The OC can feel slightly grating in the beginning, but he finds his pace, and overall makes for a good addition that fits in pretty well.
-> * [A Political Perspective](https://www.fanfiction.net/s/10490270/1/A-Political-Perspective) Naruto. The civilian council tries to force Kakashi into passing Team 7. He retaliates by agreeing. Surprisingly well written, fun, and sometimes touching. Recommended.
-> * [Coming Back Late](https://www.fanfiction.net/s/6471922/1/Coming-Back-Late) HP. Harry comes back into his body late after Voldie hits him with the killing curse. This results in him faking his death for the greater good. Has a pretty good romance with Hermione, surprisingly believable and touching. It's essentially complete, so you won't feel empty after it stops mid-story, not really. 
-> * [In Memoriam](https://www.fanfiction.net/s/9442823/1/In-Memoriam) Toaru Majutsu no Index. Essentially a rewrite of canon, and for the better in my opinion. It feels like an actual world instead of something cobbled together the way anime worlds tend to. Has a pretty enjoyable writing style, too.
 > 
+> * [Lesser evils](https://www.fanfiction.net/s/10753296/1/Lesser-Evils) HP fic. Harry responds differently to Voldemort's resurrection and Cedric's death, which leads to him delving into his mental connection to Voldemort, resulting in consequences good and bad. The writing is largely in-character, the changes to canon believable and not at all overdone.
+> 
+> * [The Black Prince](https://www.fanfiction.net/s/11098283/1/The-Black-Prince) HP/ASoIaF Harry is born as Robert Baratheon's middle child, regaining his old memories and magic, but not his full personality. An interesting concept, adequately executed. The writing is reminiscent of ASoIaF, not HP. Left me wanting more.
+> 
+> * [Life in Konoha's ANBU](https://www.fanfiction.net/s/7977390/1/Life-in-Konoha-s-ANBU). Naruto has the Hokage's personal attention and training from an early age. He's still the same person in some ways, but in others the brainwashing/conditioning has palpable - and scary - results. One of the more enjoyable Naruto fics I've read. The characters are distinct and believable, even the OC's, the storylines interesting. Makes use of filler material, but it works out well.
+> 
+> * [He who fights monsters](https://www.fanfiction.net/s/6942921/1/He-Who-Fights-Monsters) Rosario + Vampire. Largely does away with the canon storyline (I believe - I never could get myself to watch it). Instead, the protagonist gets no help and no reprieve in his stay at the monster academy. He has to make his own way, and he does so - badass human style. Some of his kills strain credulity, but overall it's an enjoyable work that I'd recommend to this subreddit in particular.
+> 
+> * [Death is Only the Beginning](https://www.fanfiction.net/s/8114428/1/Death-Is-Only-The-Beginning) Bleach. Ichigo is born and dies in time to meet Rukia and Renji as they get their start in Rukongai/the afterlife. It's a fairly interesting take on the Soul Society, and slightly more in-depth than the usual fare. There's not as much action as you might expect of Bleach, but it didn't bore me.
+> 
+> * [Tale of the Setting Sun](https://www.fanfiction.net/s/8963527/1/Tale-of-the-Setting-Sun) Naruto. Standard "Naruto is smarter/better than usual" fare. Enjoyable enough, but I genuinely can't recall much of the story only a month after reading it - so take that as you will.
+> 
+> * [How Long is Forever?](https://www.fanfiction.net/s/11209443/1/How-Long-Is-Forever) Naruto. Sakura time-travels into her younger self, and makes some changes. Chapters are in a slightly non-chronological order, but they still tell a story decently enough, and the concept is pretty neat. Definitely more memorable than the above story, too.
+> 
+> * [Veränderung](https://www.fanfiction.net/s/7233479/1/Veränderung) Blue Exorcist. Rin accesses his blue fire very early, which results in him becoming more competent and entering a different, perhaps closer, relationship with his family. In the Anime, I found Blue Exorcist's world to be very interesting - but they never quite showed enough to satisfy me (and the final episodes were horrible and clearly filler) - this fic did far better. 
+> 
+> * [Miserly Old Man, Trickster Fox](https://www.fanfiction.net/s/8144246/1/Miserly-Old-Man-Trickster-Fox) Naruto. The Hokage's old friend (an OC) comes to town and takes an interest in Naruto, essentially fostering and training him. The OC can feel slightly grating in the beginning, but he finds his pace, and overall makes for a good addition that fits in pretty well.
+> 
+> * [A Political Perspective](https://www.fanfiction.net/s/10490270/1/A-Political-Perspective) Naruto. The civilian council tries to force Kakashi into passing Team 7. He retaliates by agreeing. Surprisingly well written, fun, and sometimes touching. Recommended.
+> 
+> * [Coming Back Late](https://www.fanfiction.net/s/6471922/1/Coming-Back-Late) HP. Harry comes back into his body late after Voldie hits him with the killing curse. This results in him faking his death for the greater good. Has a pretty good romance with Hermione, surprisingly believable and touching. It's essentially complete, so you won't feel empty after it stops mid-story, not really. 
+> 
+> * [In Memoriam](https://www.fanfiction.net/s/9442823/1/In-Memoriam) Toaru Majutsu no Index. Essentially a rewrite of canon, and for the better in my opinion. It feels like an actual world instead of something cobbled together the way anime worlds tend to. Has a pretty enjoyable writing style, too.
 
->> **u/gbear605** [+4]  *history’s greatest story**
+>> **u/gbear605** [+4]  *history’s greatest story* (8 hours later)
 >> 
 >> > It's essentially complete, so you won't feel empty after it stops mid-story, not really.
->> I can't tell whether this is sarcasm or truth.
 >> 
+>> I can't tell whether this is sarcasm or truth.
 
->> **u/chaosmosis** [+3]  *and with strange aeons, even death may die**
+>> **u/chaosmosis** [+3]  *and with strange aeons, even death may die* (4 hours later)
 >> 
 >> Have you read https://www.fanfiction.net/s/11115934/1/The-Shadow-of-Angmar? Some of the prose is very good. It is closer to LOTR than HP.
->> 
 
->>> **u/VanPeer** [+2]  *The shard made me do it**
+>>> **u/VanPeer** [+2]  *The shard made me do it* (a day later)
 >>> 
 >>> Thanks. It's really good.
->>> 
 
->> **u/Theoretician** [+3] *
+>> **u/Theoretician** [+3]  (4 days later)
 >> 
 >> I liked "He Who Fights Monsters"! The world of Rosario+Vampire was neat, but I'm not a fan of Harem Animes so this was a nice approach to the topic. A little over the top at times, but novel nonetheless.
->> Good rec
 >> 
+>> Good rec
 
->> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+2]  *fear of last pages* (a day later)
 >> 
 >> > Coming Back Late HP. [..] Has a pretty good romance with Hermione, surprisingly believable and touching. 
->> > Drama/Romance
->> Will this story be interesting to people who are not generally fond of the romance genre? The majority of romance stories I’ve met so far — especially in fanfiction — contained almost nothing else than the romance itself.
 >> 
+>> > Drama/Romance
+>> 
+>> Will this story be interesting to people who are not generally fond of the romance genre? The majority of romance stories I’ve met so far — especially in fanfiction — contained almost nothing else than the romance itself.
 
->>> **u/Kodix** [+2] *
+>>> **u/Kodix** [+2]  (a day later)
 >>> 
 >>> It's tough to say. The romance is the pivotal element, essentially, but there's plenty of non-romantic events. If all romance was removed from it, I think I'd still find it an interesting story.
->>> 
 
->> **u/IcyWindows** [+1] *
+>> **u/IcyWindows** [+1]  (4 days later)
 >> 
 >> Tale of the Setting Sun isn't finished, so that could be why you don't remember it.  :(
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (51 minutes later)
 > 
 > [removed]
-> 
 
->> **u/Golden_Magician** [+3] *
+>> **u/Golden_Magician** [+5]  (2 hours later)
 >> 
 >> If you're into VNs, I strongly recommend reading Umineko no naku koro ni. It's possibly my all-time favorite piece of fictional media. 
->> Plot teaser: October 1986. A rich and extravagant family holds its annual reunion in a western-style mansion on a private island in Japan. A raging typhoon prevents them from leaving while the massive portrait of a mysterious young woman smiles at them from the main hall... 
->> It's not quite rational but has rational themes and can reach impressive levels of meta-awareness. It's a bit of an unconventional VN in that it has no gameplay at all- you just read along. Also, no sexy scenes!
->> Additional notes: epic lenght (8 separate novel-lenght episodes) and absolutely stunning soundtrack.
 >> 
+>> Plot teaser: October 1986. A rich and extravagant family holds its annual reunion in a western-style mansion on a private island in Japan. A raging typhoon prevents them from leaving while the massive portrait of a mysterious young woman smiles at them from the main hall... 
+>> 
+>> It's not quite rational but has rational themes and can reach impressive levels of meta-awareness. It's a bit of an unconventional VN in that it has no gameplay at all- you just read along. Also, no sexy scenes!
+>> 
+>> Additional notes: epic lenght (8 separate novel-lenght episodes) and absolutely stunning soundtrack.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/Golden_Magician** [+3] *
+>>>> **u/Golden_Magician** [+3]  (5 hours later)
 >>>> 
 >>>> I just replied to a similar question above, but regarding gore: there is some, but it's only described on text and as such makes much less of an impact. Also, it's definitely less gratuitous this time around.
->>>> 
 
->>> **u/sir_pirriplin** [+1] *
+>>> **u/sir_pirriplin** [+1]  (3 hours later)
 >>> 
 >>> I know you said it was not quite rational so I shouldn't expect too much, but do you know how it compares to Higurashi no naku koro ni? Because that one was painful.
+>>> 
 >>> Also if you enjoy episodic visual novels with no gameplay, take a look at World End Economica. It's about this kid who lives in the moon and works as a day trader. It's sort of rationalist-ic-y-ish in that the main character's ability to consistently beat the market is [surprisingly well explained](#s "and as you would rationally expect, it stops working when the market inefficiencies he was exploiting are corrected.")
+>>> 
 >>> Also the female main character who may or may not be a love interest has a job teaching Math to poor children,  [but later](#s "uses her Math powers to become a quant and make more money to help the poor.")
 >>>  It's awesome.
->>> 
 
->>>> **u/Golden_Magician** [+2] *
+>>>> **u/Golden_Magician** [+2]  (5 hours later)
 >>>> 
 >>>> I assume you refer to the anime of Higurashi, right? Umineko is on a whole different level and the two are hardly comparable. The author even makes fun of the some of bullshit of his previous work.
->>>> I could say more, but I want to keep it as vague as possible: Umineko is a unique experience which should be enjoyed spoiler-free, although it has a somewhat slow build-up. You should definitely check it out regardless of your opinion on Higurashi!
->>>> Thanks for the recommendation, that does sound like an interesting premise.
 >>>> 
+>>>> I could say more, but I want to keep it as vague as possible: Umineko is a unique experience which should be enjoyed spoiler-free, although it has a somewhat slow build-up. You should definitely check it out regardless of your opinion on Higurashi!
+>>>> 
+>>>> Thanks for the recommendation, that does sound like an interesting premise.
 
->>>>> **u/sir_pirriplin** [+2] *
+>>>>> **u/sir_pirriplin** [+2]  (19 hours later)
 >>>>> 
 >>>>> >I assume you refer to the anime of Higurashi, right?
->>>>> The first two episodes of the Higurashi VN are available on Steam and were fairly cheap at some point. Haven't seen the anime yet, but I think I will do that instead of playing through all the dozens of episodes.
->>>>> >You should definitely check it out regardless of your opinion on Higurashi!
->>>>> I will try to give Umineko a shot. No matter how good it is, I'm subject to a powerful Streetlight Effect where I only play VNs that work in my Linux laptop. I'm too lazy to re-boot every time I want to play a Windows game. Maybe Wine will work.
 >>>>> 
+>>>>> The first two episodes of the Higurashi VN are available on Steam and were fairly cheap at some point. Haven't seen the anime yet, but I think I will do that instead of playing through all the dozens of episodes.
+>>>>> 
+>>>>> >You should definitely check it out regardless of your opinion on Higurashi!
+>>>>> 
+>>>>> I will try to give Umineko a shot. No matter how good it is, I'm subject to a powerful Streetlight Effect where I only play VNs that work in my Linux laptop. I'm too lazy to re-boot every time I want to play a Windows game. Maybe Wine will work.
 
->> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (2 days later)
 >> 
 >> > Also playing through Alice:madness returns. This is like the inverse of g-senjou: ok gameplay, story is worse than its predecessor (the dialogue is pretty bad too, way too much handholding and meaningless things that sound philosophical), but the art is gorgeous. I'd recommend this just for eye candy.
->> Yeah, I don't usually take screenshots, but this game I basically [treated like a photoshoot](http://imgur.com/a/qAQZx). (Chronological order has been lost in the uploading, I'm afraid. Possibly NSFW for gore on a few pics.)
->> They had very good artists, but apparently nobody else of talent, and they clearly ran out of money. (Did they really think we wouldn't notice that they *cancelled a boss battle* and replaced it with a slideshow cutscene?)
->> Best hair physics of all time though.
 >> 
+>> Yeah, I don't usually take screenshots, but this game I basically [treated like a photoshoot](http://imgur.com/a/qAQZx). (Chronological order has been lost in the uploading, I'm afraid. Possibly NSFW for gore on a few pics.)
+>> 
+>> They had very good artists, but apparently nobody else of talent, and they clearly ran out of money. (Did they really think we wouldn't notice that they *cancelled a boss battle* and replaced it with a slideshow cutscene?)
+>> 
+>> Best hair physics of all time though.
 
->> **u/Kodix** [+4] *
+>> **u/Kodix** [+4]  (2 hours later)
 >> 
 >> > Finished G-senjou no maou recently. Highly recommended VN, best one out of the handful I've played so far.
->> Ohhh, yesss. It was brilliant for me. 
->> If you've got a hundred hours or so to waste, then a visual novel can grip you like few other media. [Here](https://vndb.org/v/all?q=;fil=tagspoil-0;rfil=;o=d;s=pop) is a decent list. [Muv-Luv Alternative](https://vndb.org/v92) is a classic time travel story, and I can recommend both [Ever17](https://vndb.org/v17) and [Rewrite](https://vndb.org/v751), as well.
->> The only reason I don't get more into VN's is because of the sheer time investment - but nothing else gets me as invested emotionally, and the catharsis that brings is absolutely *delicious*.
->> If you've the time, and can bring yourself to ignore or enjoy the explicit parts (there's *always* going to be sex scenes), I heavily recommend VN's.
 >> 
+>> Ohhh, yesss. It was brilliant for me. 
+>> 
+>> If you've got a hundred hours or so to waste, then a visual novel can grip you like few other media. [Here](https://vndb.org/v/all?q=;fil=tagspoil-0;rfil=;o=d;s=pop) is a decent list. [Muv-Luv Alternative](https://vndb.org/v92) is a classic time travel story, and I can recommend both [Ever17](https://vndb.org/v17) and [Rewrite](https://vndb.org/v751), as well.
+>> 
+>> The only reason I don't get more into VN's is because of the sheer time investment - but nothing else gets me as invested emotionally, and the catharsis that brings is absolutely *delicious*.
+>> 
+>> If you've the time, and can bring yourself to ignore or enjoy the explicit parts (there's *always* going to be sex scenes), I heavily recommend VN's.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (4 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/sir_pirriplin** [+5] *
+>>>> **u/sir_pirriplin** [+5]  (20 hours later)
 >>>> 
 >>>> About the spoiler part, the important thing is not succeeding at the task (which as you say is impossible) but rather the side effect of trying. The method you choose is a signal of which character you trust the most, and the characters later react to that signal. It's a little weird, but that's in general how VN logic works.
->>>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> The choices to pick shouldn't really ruin the game for you. I used a walkthrough with just the things to pick for each route and I had none of the plot spoiled, at least.
->>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (3 hours later)
 >>> 
 >>> I also highly recommend Ever17 (and anything by Kotaro Uchikoshi such as the Zero Escape series), but make sure you follow a no-spoilers walkthrough and get ready to suffer through boredom until the last route. It'll all be worth it, though.
->>> 
 
->>> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+>>> **u/AugSphere** [+2]  *Dark Lord of Corruption* (19 hours later)
 >>> 
 >>> > Muv-Luv Alternative is a classic time travel story
->>> People usually recommend going through the whole trilogy to properly enjoy [the traumatic impact](#s " CHOMP") of the third one. I'm not sure it's worth the time investment in the end, but that's the way I've done it. At the very least, I'd play Unlimited before jumping to Alternative. The first one (which is Muv-Luv Extra) is a tad formulaic, silly and even boring at times: this is used to set up a thematic contrast to the later games, which works, but makes the first one a bit of a slog to get through on its own merits. You'd best not expect the way in-game world works to resemble reality, though. The authors also tend to use the word *quantum* to refer to the ridiculous hand-wavy bullshit narrativium rules their world has, rather than the actually sense-making ones of ours, which annoys me a quite bit, but YMMV.
->>> P.S. Marimo-chan best girl TT_TT
 >>> 
+>>> People usually recommend going through the whole trilogy to properly enjoy [the traumatic impact](#s " CHOMP") of the third one. I'm not sure it's worth the time investment in the end, but that's the way I've done it. At the very least, I'd play Unlimited before jumping to Alternative. The first one (which is Muv-Luv Extra) is a tad formulaic, silly and even boring at times: this is used to set up a thematic contrast to the later games, which works, but makes the first one a bit of a slog to get through on its own merits. You'd best not expect the way in-game world works to resemble reality, though. The authors also tend to use the word *quantum* to refer to the ridiculous hand-wavy bullshit narrativium rules their world has, rather than the actually sense-making ones of ours, which annoys me a quite bit, but YMMV.
+>>> 
+>>> P.S. Marimo-chan best girl TT_TT
 
->>> **u/sir_pirriplin** [+1] *
+>>> **u/sir_pirriplin** [+1]  (3 hours later)
 >>> 
 >>> >(there's always going to be sex scenes)
->>> I don't think sex scenes are an essential (or even all that common) component of good VNs. There are no sex scenes in *Ever17*, to use one of your examples. The various anime adaptations of *Fate Stay Night* are basically the VN with the sex scenes removed and they are very popular.
->>> The sibling comments also mention *Umineko no naku koro ni* and *World End Economica*.
->>> Could it be that the VNs that people from /r/rational like contain relatively few sex scenes? Or maybe VNs with no sex scenes are more likely to be translated and enjoyed in the West, in general.
 >>> 
+>>> I don't think sex scenes are an essential (or even all that common) component of good VNs. There are no sex scenes in *Ever17*, to use one of your examples. The various anime adaptations of *Fate Stay Night* are basically the VN with the sex scenes removed and they are very popular.
+>>> 
+>>> The sibling comments also mention *Umineko no naku koro ni* and *World End Economica*.
+>>> 
+>>> Could it be that the VNs that people from /r/rational like contain relatively few sex scenes? Or maybe VNs with no sex scenes are more likely to be translated and enjoyed in the West, in general.
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (4 hours later)
 >>>> 
 >>>> It depends. Some VN are perfectly fine without the sex scenes (Muv Luv, Fate), but a rare few have them as rather integral to the plot. They're rare though, the only one I can think of is Grisaia, where the pillow talk is rather crucial for character development.
->>>> 
 
 ---
 

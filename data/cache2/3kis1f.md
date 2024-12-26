@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.reddit.com/r/rational/comments/3kis1f/pokemon_toos_edits_and_flowchart/
-* Score: 26
+* Score: 25
 
 * Created: 2015-09-11T09:12:42
 
@@ -20,76 +20,69 @@ That's it for now. Any feedback on the changes to Chapter 1 or the flowchart wou
 
 ### Comments:
 
-> **u/SkeevePlowse** [+9] *
+> **u/SkeevePlowse** [+8]  (4 hours later)
 > 
 > If they're even remotely competent about it, Pokemon Go is going to make Niantic and Nintendo approximately eleven billion dollars.  Needless to say, I'm going to play it.
-> Also, thank you for the excuse to reread again.  I think I'll go do that now.
 > 
+> Also, thank you for the excuse to reread again.  I think I'll go do that now.
 
->> **u/DaystarEld** [+6]  *Pokémon Professor**
+>> **u/DaystarEld** [+8]  *Pokémon Professor* (7 hours later)
 >> 
 >> Yeah, it's a really hard concept to fuck up, but then, Elder Scrolls Online took what I thought was a no brainer (just make it like their main games, but let friends join each other's games for dungeon diving and exploring and whatever) and stripped the game down to a mostly generic fantasy MMO.
->> Pokemon Go might screw it up by abandoning the main games' battle system for something super simple (select your pokemon, select enemy's pokemon, watch as they deal a % of damage to eachother), or make the microtransactions overwhelmingly onerous: pokeballs for 1 dollar each, some kind of limited energy system, or similar. Here's hoping it's everything we can hope for and more.
 >> 
+>> Pokemon Go might screw it up by abandoning the main games' battle system for something super simple (select your pokemon, select enemy's pokemon, watch as they deal a % of damage to eachother), or make the microtransactions overwhelmingly onerous: pokeballs for 1 dollar each, some kind of limited energy system, or similar. Here's hoping it's everything we can hope for and more.
 
->>> **u/Lugnut1206** [+3] *
+>>> **u/Lugnut1206** [+3]  (8 hours later)
 >>> 
 >>> Niantic didn't have microtransactions in Ingress, right? Been a long while since I played, but they never added it, right?
->>> 
 
->>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (8 hours later)
 >>>> 
 >>>> They do not, but PGo has mentioned it would be free to play with in app purchases.
->>>> 
 
->>> **u/SkeevePlowse** [+1] *
+>>> **u/SkeevePlowse** [+1]  (15 hours later)
 >>> 
 >>> Yeah, I suppose they might end up just completely gutting it, but I ~~just know~~ am hoping that Nintendo retains enough control in this venture to keep them from gutting the combat system that much.
->>> Although I do kind of wish we'd get a proper Pokemon MMO, this could fill in the void.
 >>> 
+>>> Although I do kind of wish we'd get a proper Pokemon MMO, this could fill in the void.
 
-> **u/noggin-scratcher** [+7]  *I am a happy tree**
+> **u/noggin-scratcher** [+8]  *I am a happy tree* (51 minutes later)
 > 
 > Enjoyed the new Chapter 1. Can't really remember the details of the old Chapter 1 to compare but what I just read is good stuff. 
-> Quickly gets across some of Red's personality with all the business with his alarm, tugs at the heart when he's parting with his mother, and then the relationship with Blue is distinctly rivalrous, though not a *bitter* rivalry.
 > 
+> Quickly gets across some of Red's personality with all the business with his alarm, tugs at the heart when he's parting with his mother, and then the relationship with Blue is distinctly rivalrous, though not a *bitter* rivalry.
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (7 hours later)
 >> 
 >> >and then the relationship with Blue is distinctly rivalrous, though not a bitter rivalry.
->> This was definitely one of my main goals, as well as making Blue appear less dumb or "obviously wrong." Glad to hear you enjoyed it!
 >> 
+>> This was definitely one of my main goals, as well as making Blue appear less dumb or "obviously wrong." Glad to hear you enjoyed it!
 
->>> **u/noggin-scratcher** [+3]  *I am a happy tree**
+>>> **u/noggin-scratcher** [+3]  *I am a happy tree* (7 hours later)
 >>> 
 >>> He gets in some well-aimed barbs (the ones along the lines of "You think you know better than all the experts... why exactly?") which I think give him a viewpoint that's worth giving time and credence to, even if he does turn out to be wrong.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (23 hours later)
 >>>> 
 >>>> Is that question ever adequately answered? Why *does* Red believe what he believes about grass and poison?
->>>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (10 hours later)
 > 
 > Do you mind if I put up your flowchart in my university common room?
-> 
 
->> **u/DaystarEld** [+4]  *Pokémon Professor**
+>> **u/DaystarEld** [+3]  *Pokémon Professor* (11 hours later)
 >> 
 >> Not at all. if you want to credit it, writing "by /u/DaystarEld" in the corner is fine, for those that know what Reddit is. I'll probably be updating it sometime soon anyway, and will include it myself in the future.
->> 
 
-> **u/Bowbreaker** [+1]  *Solitary Locust**
+> **u/Bowbreaker** [+1]  *Solitary Locust* (5 days later)
 > 
 > The ending following [Said]>[Assertion]>[No]>[Yes]>[Yes] may be the most ethical response but it doesn't seem like the smartest or most rational response as it requires the assumption that the "others" in question are themselves rational. Using common logical fallacies and appeals to emotion in tandem to your facts can often be more effective in the right crowd.
-> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (5 days later)
 >> 
 >> Agreed, but I prefer to promote using Lightside techniques whenever possible, unless the stakes are sufficiently high enough to warrant actions I would criticize in others. Since the basis for this flowchart is that something someone said upset you, and not something someone said is causing you to potentially lose your livelihood or put someone in harm's way, I assume the most generic situations.
->> If however you're "upset" because someone is accusing you of being a witch in a town where the inhabitants tend to burn witches, by all means, do what you need to stay alive.
 >> 
+>> If however you're "upset" because someone is accusing you of being a witch in a town where the inhabitants tend to burn witches, by all means, do what you need to stay alive.
 
 ---
 

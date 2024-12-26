@@ -2,7 +2,7 @@
 
 * Author: u/bosnian89 *
 * URL: http://www.anarchyishyperbole.com/2015/11/significant-digits-chapter-thirty-one.html
-* Score: 4
+* Score: 3
 
 * Created: 2015-12-23T00:30:38
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram* (an hour later)
 > 
 > Mispost?
-> 
 
 ---
 

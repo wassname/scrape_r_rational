@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (a day later)
 > 
 > Interesting, but not rational fiction.  Let's stay on-topic!
-> 
 
 ---
 

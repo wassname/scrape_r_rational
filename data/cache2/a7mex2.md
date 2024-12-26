@@ -2,7 +2,7 @@
 
 * Author: u/BelloSoup *
 * URL: https://www.reddit.com/r/rational/comments/a7mex2/rstc_three_days_of_happiness/
-* Score: 24
+* Score: 25
 
 * Created: 2018-12-19T13:29:36
 
@@ -20,27 +20,25 @@ This author has other works too which are just as great.
 
 ### Comments:
 
-> **u/eroticas** [+6] *
+> **u/eroticas** [+6]  (9 hours later)
 > 
 > This is a very touching story and worth reading in my opinion. I feel I'm learning new things about how good writing is done just by reading it.  Actually I am shocked that it is a translation, are you sure it is a translation? I don't see any links to originals in Japanese. Did the author themselves translate it? The culturally specific nuances of the source material strongly shine through in a way that translations rarely do. 
-> I should note thst it's not particularly in the "rational" genre, this is a story about human emotions not about human cleverness (although i supposed sufficiently sensitive depictions of human emotions and failure modes can increase the rationality of the reader), the characters are deep and well written but they're not intelligent - the story is *about* the foolishness of the characters, and there are no attempts to munchkin the fairly exploitable premise, which is good because the story isn't about that. Nevertheless I'm glad it was posted since it gave me a chance to read it.
 > 
+> I should note thst it's not particularly in the "rational" genre, this is a story about human emotions not about human cleverness (although i supposed sufficiently sensitive depictions of human emotions and failure modes can increase the rationality of the reader), the characters are deep and well written but they're not intelligent - the story is *about* the foolishness of the characters, and there are no attempts to munchkin the fairly exploitable premise, which is good because the story isn't about that. Nevertheless I'm glad it was posted since it gave me a chance to read it.
 
->> **u/meterion** [+1] *
+>> **u/meterion** [+1]  (a day later)
 >> 
 >> vgperson is one of the most quality and prolific translators/authors I've seen, which the readability of this story attests to. I haven't read all of their works, but everything I have is excellent. [Their homepage has links to everything else they've done](http://vgperson.com/), probably the most well known of which are the translations of the horror games Ib and The Witch's House.
->> 
 
-> **u/jaghataikhan** [+1]  *Primarch of the White Scars**
+> **u/jaghataikhan** [+1]  *Primarch of the White Scars* (14 hours later)
 > 
 > One of the more memorable manga i read this year. You can read it user-friendly 
-> http://vgperson.com/other/mangaviewer.php?m=3
 > 
+> http://vgperson.com/other/mangaviewer.php?m=3
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (23 hours later)
 > 
 > Where do you post typos? They say lied instead of lay
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/cthulhuraejepsen  *Fruit flies like a banana**
 * URL: https://archiveofourown.org/works/11478249/chapters/46333378/
-* Score: 198
+* Score: 196
 
 * Created: 2019-07-04T00:51:37
 
@@ -12,1867 +12,1980 @@
 
 ### Comments:
 
-> **u/sparkc** [+99] *
+> **u/sparkc** [+96]  (50 minutes later)
 > 
 > I try to keep in mind when reading that just because something doesn’t grab my attention it doesn’t mean there is any fault in the writing, it can often just be personal taste. I’m not a big fan of Crime novels but I am a big fan of High Fantasy and irrespective of writing quality I'm going to enjoy one more than the other. On a smaller scale, in media some issues engage me more than others, and while sexual assault is just awful and a relevant topic to current society and there’s a lot of important things to say on it...it’s just not a topic that really piques my interest when it comes to fiction.
-
-> So as I was reading the second chapter of this batch I was thinking all of this and I was also thinking “well, it’s not like the issue could take up any less screen time because it’s nuanced and needs plenty of work to do the issue justice, so if the issues is going to be tackled then unfortunately for me it needs to be explored at length”, and then I started to get more drawn in. I started getting a sinking feeling in my gut, I started mirroring (on a much much smaller scale) what Joon and Amaryllis were respectively feeling and I had that kind of character immersion that only the best writing gives you, the sort I experienced earlier in the series when Amaryllis was writing from the doomed timeline or when Fenn and Joon had their therapy session.
-
-> You took a topic I am usually not engaged by in media and *really* made me enjoy it’s exploration and connect with a characters experience on the subject in a new way. I went from a kind of detached, almost “intellectual empathy” regarding Joon’s situation to a more visceral simulation of his turmoil. Thanks for the insight and for the vicariousness awfulness i’m feeling which feels good in it’s own weird way.
 > 
+> So as I was reading the second chapter of this batch I was thinking all of this and I was also thinking “well, it’s not like the issue could take up any less screen time because it’s nuanced and needs plenty of work to do the issue justice, so if the issues is going to be tackled then unfortunately for me it needs to be explored at length”, and then I started to get more drawn in. I started getting a sinking feeling in my gut, I started mirroring (on a much much smaller scale) what Joon and Amaryllis were respectively feeling and I had that kind of character immersion that only the best writing gives you, the sort I experienced earlier in the series when Amaryllis was writing from the doomed timeline or when Fenn and Joon had their therapy session.
+> 
+> You took a topic I am usually not engaged by in media and *really* made me enjoy it’s exploration and connect with a characters experience on the subject in a new way. I went from a kind of detached, almost “intellectual empathy” regarding Joon’s situation to a more visceral simulation of his turmoil. Thanks for the insight and for the vicariousness awfulness i’m feeling which feels good in it’s own weird way.
 
->> **u/Ashrayn** [+31] *
+>> **u/Ashrayn** [+29]  (2 hours later)
 >> 
 >> I think because it happens in a logical chain of thought, it's easier to follow and connect with. Often authors will write scenes like this in which the characters act in ways that don't make sense, whether due to lack of skill, laziness, or attempts at drama/comedy. It's hard to empathize with characters that do things you would never do, let alone things that no one would ever do.
->> 
 
-> **u/Aishita** [+89] *
+> **u/Aishita** [+87]  (2 hours later)
 > 
 > I have to say outright that this was one of the most high quality management of sexual assault plot threads I've ever read. So many other works take such an immature view on it, but the clinical, cold deconstruction of the whole thing made me feel chills down my spine.
-> Hot damn, this is some oof stuff.
 > 
+> Hot damn, this is some oof stuff.
 
-> **u/Watchful1** [+60] *
+> **u/Watchful1** [+59]  (an hour later)
 > 
 > The thing I really like about this story is how well thought out the plot threads are. When Bethel was first introduced, she was antagonistic for all kinds of reasons and that was continuously demonstrated in her behavior. I kinda wondered what the point was, why was cthulhuraejepsen drawing this out rather than just fixing it. Make Bethel like everyone and play nice, use her unique powers to their fullest so the story could go on.
-> But nope, the plan the entire time, all those chapters of uncomfortable interactions, was to resolve it in this really complex way that helped everyone grow as characters. It helped Valencia grow since Juniper was trusting her again to use her powers, and gives her a new plot thread of living in the relocated Bethel. It helped Amaryllis grow in her relationship with Juniper, both romantically as well as trusting each other to rely on to solve problems. It gave Bethel a whole new dimension, she does truly care about the people living in her and is willing to recognize that she's wrong and change. And obviously it adds a huge amount of depth to Juniper with a very nuanced subject.
-> Not to mention that it's going to make the actual story more interesting since they don't have a super house at their immediate beck and call for the foreseeable future. I'm really interested to he ends up resolving the Locus question. I hope it's not just as getting the level 20 virtue and clicking whatever that button is.
 > 
+> But nope, the plan the entire time, all those chapters of uncomfortable interactions, was to resolve it in this really complex way that helped everyone grow as characters. It helped Valencia grow since Juniper was trusting her again to use her powers, and gives her a new plot thread of living in the relocated Bethel. It helped Amaryllis grow in her relationship with Juniper, both romantically as well as trusting each other to rely on to solve problems. It gave Bethel a whole new dimension, she does truly care about the people living in her and is willing to recognize that she's wrong and change. And obviously it adds a huge amount of depth to Juniper with a very nuanced subject.
+> 
+> Not to mention that it's going to make the actual story more interesting since they don't have a super house at their immediate beck and call for the foreseeable future. I'm really interested to he ends up resolving the Locus question. I hope it's not just as getting the level 20 virtue and clicking whatever that button is.
 
->> **u/None** [+13] *
+>> **u/None** [+15]  (10 hours later)
 >> 
 >> With regards to the locus, I think between Star Magic 100 (Edit: Assuming that's what allows portals), Horticulture 100, the Doe virtures, and maybe working with/killing Pai Shep and/or Manifest (who I think it's implied is Caldwell Gatesmith as well), there should be something to open up a portal to the bottle and establish a connection to the outside.
->> Of course, the exclusion zones are pretty high level quests, killing the excluded seemed a lot more doable with Prince's, and working with them will probably take Valencia, but Valencia will (hopefully?) come back, and if Juniper matches the excluded in skill, maybe it's possible. Although it sure would be helpful to have the manual to know what benefits would apply, and if it was even worth it\^\^
->> Then again, all these seem to miss the personal touch, so maybe additionally Juniper has to learn to accept the locus' way of thinking on some level and become a druid, which would make Amarillys (and probably Grak by then) into druids and get around the problem of there not being enough druids for the locus to expand...
 >> 
+>> Of course, the exclusion zones are pretty high level quests, killing the excluded seemed a lot more doable with Prince's, and working with them will probably take Valencia, but Valencia will (hopefully?) come back, and if Juniper matches the excluded in skill, maybe it's possible. Although it sure would be helpful to have the manual to know what benefits would apply, and if it was even worth it\^\^
+>> 
+>> Then again, all these seem to miss the personal touch, so maybe additionally Juniper has to learn to accept the locus' way of thinking on some level and become a druid, which would make Amarillys (and probably Grak by then) into druids and get around the problem of there not being enough druids for the locus to expand...
 
->>> **u/Xtraordinaire** [+9]  *Team Glimglam**
+>>> **u/Xtraordinaire** [+9]  *Team Glimglam* (12 hours later)
 >>> 
 >>> With capstone virtues in play this is futile guesswork.
->>> Woodworking 100, anyone? (remember, Joon did have woodworking on his first sheet, before carving it out)
 >>> 
+>>> Woodworking 100, anyone? (remember, Joon did have woodworking on his first sheet, before carving it out)
 
->>>> **u/None** [+11] *
+>>>> **u/None** [+11]  (14 hours later)
 >>>> 
 >>>> I don't think it is entirely futile... After Chapter 162 I'm pretty sure Woodworking 100 would be excluded. On the other hand, Star Magic seems to deal with (extra-)dimensional spaces, which I'm guessing also includes portals, while Horticulture deals in some way with connections, plants and land, both of which are important for the locus. 
+>>>> 
 >>>> Also, the most powerful aspects of Star Magic, Soul Magic and Horticulture probably ARE already excluded, at least that's my best guess for the City Made Manifest (aka, I think, the domain of Caldwell Gatesmith) and the lands of Pai Shep, so there exists 
+>>>> 
 >>>> * some information on what they do, namely, portals into the soul and "fields impeccable, power absolute". 
 >>>> * a quest, and presumably a reward for ending the exclusion zones - if Juniper can break the exclusion on emporsened exclusion zones, he may be able to use the excluded aspects. Of course, there I agree, that's guesswork and a pretty big if\^\^ Much depends on how the game layer interacts with the exclusionary principle on emporsened exclusion zones... Maybe kill Captain Blue-in-the-bottle to see what the quest text says (also, killing him might help with getting Fenn back)?
->>>> 
 
->>> **u/BlakbirdCAWCAW** [+2] *
+>>> **u/BlakbirdCAWCAW** [+2]  (21 hours later)
 >>> 
 >>> Caldwell is manifest?
->>> 
 
->>>> **u/None** [+8] *
+>>>> **u/None** [+8]  (a day later)
 >>>> 
 >>>> Not verified, no, but I think there are hints... "Caldwell Gatesmith has the dubious distinction of being responsible for two exclusions. ", his quest name " ***A Door Into the Soul*** ", and in the description for the "Manifest Destiny" quest, " The exact nature of the magic that allows the immortal man named Manifest to puppet his subjects from a distance is unknown, ...", which sounds to me like Manifest uses portals to control his subjects. 
->>>> Of course these aren't strong hints, and if Juniper got these quests from the description of two different exclusion zones, then this is all null and void, but it's never spelled out in the text how he got these particular quests. They are listed right after one another, too, which would be consistent with him getting two at once for one description of an exclusion zone. Either that, or me reading too much into things, or just a red herring\^\^
 >>>> 
+>>>> Of course these aren't strong hints, and if Juniper got these quests from the description of two different exclusion zones, then this is all null and void, but it's never spelled out in the text how he got these particular quests. They are listed right after one another, too, which would be consistent with him getting two at once for one description of an exclusion zone. Either that, or me reading too much into things, or just a red herring\^\^
 
->>>>> **u/UPBOAT_FORTRESS_2** [+6] *
+>>>>> **u/UPBOAT_FORTRESS_2** [+6]  (a day later)
 >>>>> 
 >>>>> I always figured Gatesmith got two components of gates excluded - something like, first closing gates was excluded so that he couldn't cut people with them, and then he munchkined gates in general so hard they got excluded completely
->>>>> That said, I can see where you're coming from and there isn't an author alive who doesn't take joy in hiding things in plain sight like this.
 >>>>> 
+>>>>> That said, I can see where you're coming from and there isn't an author alive who doesn't take joy in hiding things in plain sight like this.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> True, that's another good reading, and the name "Gatesmith" sounds like an honorific enough, that I think I have to revise my probabilities down a bit...
->>>>>> 
 
->>>>> **u/SirEvilMoustache** [+5] *
+>>>>> **u/SirEvilMoustache** [+5]  (3 days later)
 >>>>> 
 >>>>> >Using gates to control people from a distance
->>>>> Now, where did I hear that before?
 >>>>> 
+>>>>> Now, where did I hear that before?
 
->>>>> **u/BlakbirdCAWCAW** [+1] *
+>>>>> **u/BlakbirdCAWCAW** [+1]  (a day later)
 >>>>> 
 >>>>> That's a really good idea!
->>>>>  I wonder how I didn't notice that earlier
 >>>>> 
+>>>>>  I wonder how I didn't notice that earlier
 
->> **u/None** [+16] *
+>> **u/None** [+15]  (2 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/ShIxtan** [+30] *
+>>> **u/ShIxtan** [+30]  (5 hours later)
 >>> 
 >>> I could see level 20 virtue opening up an opportunity to fix things? Like, give them an actual thread to pull on, rather than just immediately solving
->>> 
 
->>> **u/nytelios** [+14] *
+>>> **u/nytelios** [+14]  (18 hours later)
 >>> 
 >>> Why is that necessarily a banal solution, mistake, or major literary fuckup? Solutions don't have to be proportionate to the complexity of the approach there or the effort expended. In this case, I think the lv. 20 virtue is a rather laterally elegant solution that aligns with how druids operate. I know the most recent chapters say that not everything has a moral or is commentary, but in the spirit of the "spiritual rule" of narrative, it wouldn't surprise me if Joon's effort to engage the locus is one of the oblique solutions expected from a druidic quest.
->>> On a side note, I've noticed a trend of /r/ comments either directly praising AW for good writing/handling of topics or "trusting" him not to make a mistake. Both give me some secondhand awkwardness, with the former making me feel like a voyeur of wholesome thoughts and the latter triggering sympathy for the veiled pressure on AW. Kinda curious why the upsurge in the former; I like to think of it as the euphoric gushing of a finicky community finally satisfied by a r!treatment of uncomfortable topics.
 >>> 
+>>> On a side note, I've noticed a trend of /r/ comments either directly praising AW for good writing/handling of topics or "trusting" him not to make a mistake. Both give me some secondhand awkwardness, with the former making me feel like a voyeur of wholesome thoughts and the latter triggering sympathy for the veiled pressure on AW. Kinda curious why the upsurge in the former; I like to think of it as the euphoric gushing of a finicky community finally satisfied by a r!treatment of uncomfortable topics.
 
->>> **u/Watchful1** [+0] *
+>>> **u/Watchful1** [+0]  (2 hours later)
 >>> 
 >>> Eh, as much as I compliment him, he has taken the short path at times. Most recently the Harold thing. I get that there were some important moral decisions in the way that ended, and the prince's invulnerability plot line was important, but I still think that a mental battle of some kind would have been a better payoff.
->>> And the way the Fallatehr plot line ended, that felt like a cop out too. I would have liked to have some sort of soul battle with Juniper winning and Fallatehr committing suicide somehow when he knew he was beaten. Just straight up killing him in a fight seems like it's leaving a lot of potential on the table.
 >>> 
+>>> And the way the Fallatehr plot line ended, that felt like a cop out too. I would have liked to have some sort of soul battle with Juniper winning and Fallatehr committing suicide somehow when he knew he was beaten. Just straight up killing him in a fight seems like it's leaving a lot of potential on the table.
 
->>>> **u/None** [+25] *
+>>>> **u/None** [+26]  (3 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Watchful1** [+3] *
+>>>>> **u/Watchful1** [+4]  (3 hours later)
 >>>>> 
 >>>>> I do think he should have had to use some game trick to beat Fallatehr, similar to the memetic one he used against Harold. Or some combination with some other ability. Like say in a confrontation between soul mages you can use blood magic to increase the pressure in your brain and gain an advantage. Or something. I just don't think taking out his sword and stabbing him was a good ending. Especially considering how lengthy and convoluted the plot thread was.
->>>>> I do think the Locus plot will have a better ending. It's far and away the longest plot thread we have going right now.
 >>>>> 
+>>>>> I do think the Locus plot will have a better ending. It's far and away the longest plot thread we have going right now.
 
->>>>>> **u/icesharkk** [+5] *
+>>>>>> **u/icesharkk** [+7]  (11 hours later)
 >>>>>> 
 >>>>>> You forgot the "where is the world is Carmen sandiUther?" Thread
->>>>>> 
 
->>>>>>> **u/UPBOAT_FORTRESS_2** [+3] *
+>>>>>>> **u/UPBOAT_FORTRESS_2** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> Might be the longest thread by word count, actually. "Lost King, Found?" generally stays in the distant background
->>>>>>> 
 
->> **u/RMcD94** [+2] *
+>> **u/RMcD94** [+2]  (12 hours later)
 >> 
 >> Shows how cold hearted Amy is when her first reaction is murder. Tell you a lot about her opinion about Bethel. Poor house
->> 
 
->>> **u/silian** [+35] *
+>>> **u/silian** [+33]  (14 hours later)
 >>> 
 >>> Cold-hearted? She's absolutely furious and willing to go to great risk and sacrifice a lot of power because that someone she never really trusted due to being a murderous magical artifact raped someone she likes a lot. That's literally the opposite of cold-hearted. She would be cold hearted if she told Joon to suck it up because Bethel is a very powerful ally.
->>> 
 
->>>> **u/nytelios** [+9] *
+>>>> **u/nytelios** [+11]  (19 hours later)
 >>>> 
 >>>> Rather than cold-hearted, maybe he meant ruthlessly cutthroat? If someone's first response to an alleged rape is murder, I'd balk too.
->>>> 
 
->>>> **u/RMcD94** [+2] *
+>>>> **u/RMcD94** [+2]  (a day later)
 >>>> 
 >>>> I mean there's no empathy for Bethel
->>>> 
 
-> **u/Don_Alverzo** [+65] *
+> **u/Don_Alverzo** [+61]  (6 hours later)
 > 
 > > “How do you feel about her now?” asked Amaryllis.
-> > “Afraid, mostly,” I said. “Hurt, confused, sick. Ashamed. I’m worried she’ll … I don’t know.”
-> > Amaryllis was staring out at the sea. “When I’m finished with her there won’t be a piece bigger than a splinter.”
-> Amaryllis is the best fucking friend in the whole world. Valencia's right up there with her too, especially if she really is planning to live alone inside Bethel for an indeterminate length of time. The fact that she thinks of it as her being the best Gryffindor she can be is adorable, but also... something else, but I can't quite put my finger on it. Sad, maybe? I don't really know, something about it just strikes me as being more emotionally impactful than just "adorable."
-> Regarding the conversation itself... oof, Bethel. My knee-jerk reaction is to say fuck Bethel, because what she did was obviously awful and the closest she gets to recognizing that is a lovely little spot of victim blaming towards the end. However, while all of that is still true, thinking about it a bit more I do find a bit of a hope spot. 
-> Most of her difficulty in recognizing the error of her actions hasn't been (from what we've seen) in recognizing that it was wrong to rape June, it was in recognizing that she DID rape June. She had a genuinely difficult time understanding that she hurt him and seemed offended by the fact that he felt threatened by her. There wasn't any malice, really. It's not that she didn't *care* about June's feelings, it's that she didn't *understand* them, while at the same time she was arrogant enough to think that she understood him better than he understood himself. She loudly declared that she would *never* hurt him, and I think she really does sincerely believe that. She doesn't *want* to hurt him and would not intentionally do so. The problem is, I think in her head that's become "I would never hurt Juniper, therefore nothing I do will ever harm Juniper." She's too arrogant to consider that her actions may not have the consequences she intends.
-> Thankfully, ignorance is much easier to correct than malice. This *is* something that I think they could recover from. June and Bethel might even become friends again, and if they do they'll be much better friends than they were before. If that's going to happen, though, Bethel has a *lot* of work ahead of her. She isn't a complete sociopath, but her empathy is *seriously* underdeveloped/atrophied, and for her to fix things with Juniper that has to change.
 > 
+> > “Afraid, mostly,” I said. “Hurt, confused, sick. Ashamed. I’m worried she’ll … I don’t know.”
+> 
+> > Amaryllis was staring out at the sea. “When I’m finished with her there won’t be a piece bigger than a splinter.”
+> 
+> Amaryllis is the best fucking friend in the whole world. Valencia's right up there with her too, especially if she really is planning to live alone inside Bethel for an indeterminate length of time. The fact that she thinks of it as her being the best Gryffindor she can be is adorable, but also... something else, but I can't quite put my finger on it. Sad, maybe? I don't really know, something about it just strikes me as being more emotionally impactful than just "adorable."
+> 
+> Regarding the conversation itself... oof, Bethel. My knee-jerk reaction is to say fuck Bethel, because what she did was obviously awful and the closest she gets to recognizing that is a lovely little spot of victim blaming towards the end. However, while all of that is still true, thinking about it a bit more I do find a bit of a hope spot. 
+> 
+> Most of her difficulty in recognizing the error of her actions hasn't been (from what we've seen) in recognizing that it was wrong to rape June, it was in recognizing that she DID rape June. She had a genuinely difficult time understanding that she hurt him and seemed offended by the fact that he felt threatened by her. There wasn't any malice, really. It's not that she didn't *care* about June's feelings, it's that she didn't *understand* them, while at the same time she was arrogant enough to think that she understood him better than he understood himself. She loudly declared that she would *never* hurt him, and I think she really does sincerely believe that. She doesn't *want* to hurt him and would not intentionally do so. The problem is, I think in her head that's become "I would never hurt Juniper, therefore nothing I do will ever harm Juniper." She's too arrogant to consider that her actions may not have the consequences she intends.
+> 
+> Thankfully, ignorance is much easier to correct than malice. This *is* something that I think they could recover from. June and Bethel might even become friends again, and if they do they'll be much better friends than they were before. If that's going to happen, though, Bethel has a *lot* of work ahead of her. She isn't a complete sociopath, but her empathy is *seriously* underdeveloped/atrophied, and for her to fix things with Juniper that has to change.
 
->> **u/Bowbreaker** [+42]  *Solitary Locust**
+>> **u/Bowbreaker** [+45]  *Solitary Locust* (9 hours later)
 >> 
 >> I think when she said she'd never hurt him she meant physically. It is clear from her character that she never took psychological pain (towards others) very seriously.
->> 
 
->>> **u/CouteauBleu** [+12]  *We are the Empire.**
+>>> **u/CouteauBleu** [+12]  *We are the Empire.* (10 hours later)
 >>> 
 >>> You nailed it.
->>> 
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (10 hours later)
 >> 
 >> So why did she ignore the no then? What was her reason
->> 
 
->>> **u/LLJKCicero** [+32] *
+>>> **u/LLJKCicero** [+30]  (12 hours later)
 >>> 
 >>> I think she viewed it more as seduction than ignoring consent. Like honestly go back half a century+ in the US, and Bethel's behavior wouldn't be out of place among many, many adult men who did not think of themselves as rapists.
->>> 
 
->>>> **u/RMcD94** [+11] *
+>>>> **u/RMcD94** [+11]  (13 hours later)
 >>>> 
 >>>> I think what Bethel did happens today, rape culture is prevalent still
->>>> Besides which are we meant to think that this is normal on the hex in which case why is Amy so mad. Just tell her that she needs to get consent
 >>>> 
+>>>> Besides which are we meant to think that this is normal on the hex in which case why is Amy so mad. Just tell her that she needs to get consent
 
->>>>> **u/LLJKCicero** [+18] *
+>>>>> **u/LLJKCicero** [+18]  (13 hours later)
 >>>>> 
 >>>>> > I think what Bethel did happens today, rape culture is prevalent still
->>>>> Absolutely, I just think it used to be much more common/accepted than now.
 >>>>> 
+>>>>> Absolutely, I just think it used to be much more common/accepted than now.
 
->>>>> **u/I_Probably_Think** [+7] *
+>>>>> **u/I_Probably_Think** [+7]  (a day later)
 >>>>> 
 >>>>> I think Amaryllis is angry because Bethel hurt Juniper in a pretty deep way, regardless of local societal norms.
->>>>> 
 
->>>>> **u/JustLookingToHelp** [+1] *
+>>>>> **u/JustLookingToHelp** [+1]  (20 days later)
 >>>>> 
 >>>>> I don't think this is supposed to be generally accepted in Aerb.
->>>>> 
 
->>>> **u/l611** [+3]  *Mother of Learning**
+>>>> **u/l611** [+3]  *Mother of Learning* (13 days later)
 >>>> 
 >>>> lol, forget 50 years. marital rape is still not a crime in india(and 35 more countries).
->>>> 
 
->>> **u/Dragfie** [+15] *
+>>> **u/Dragfie** [+15]  (11 hours later)
 >>> 
 >>> Just like juniper menioned in his flashback, if someone tells you to stop tickling them would you stop? Sex isn't the same as tickling, but to Bethel it is.
->>> 
 
->>>> **u/tarlton** [+10] *
+>>>> **u/tarlton** [+10]  (a day later)
 >>>> 
 >>>> It's a good comparison. When my daughter was little, we  tried to remember to always stop tickling her when she said to stop, often with a comment about it being her body... precisely because expectations about consent are learned, and we wanted her to grow up understanding that that was the treatment she should expect from others, and give to them.
->>>> 
 
->>>> **u/RMcD94** [+6] *
+>>>> **u/RMcD94** [+5]  (11 hours later)
 >>>> 
 >>>> Yes? Because I know what consent is?
->>>> Does Bethel not know what consent is?
->>>> The people who decided to move into her and raise her sentience and are responsible for her humanising and already explained consent to Val chose not to educate Bethel and then want to kill her because of their incompetence.
 >>>> 
+>>>> Does Bethel not know what consent is?
+>>>> 
+>>>> The people who decided to move into her and raise her sentience and are responsible for her humanising and already explained consent to Val chose not to educate Bethel and then want to kill her because of their incompetence.
 
->>>>> **u/Argenteus_CG** [+3] *
+>>>>> **u/Argenteus_CG** [+3]  (6 days later)
 >>>>> 
 >>>>> In case you forgot, BETHEL was raped by Arthur. She knows what consent is.
->>>>> 
 
->>>>>> **u/RMcD94** [+1] *
+>>>>>> **u/RMcD94** [+1]  (7 days later)
 >>>>>> 
 >>>>>> So why did she rape him?
->>>>>> 
 
->>>> **u/RMcD94** [+2] *
+>>>> **u/RMcD94** [+2]  (11 hours later)
 >>>> 
 >>>> Also the reason many people ignore tickling is because of cultural expectations. Why would Bethel have tickling and sex be the same culturally? If she did that suggest the imperial mores are like that and yet Amy's reaction suggests not
->>>> 
 
->>>>> **u/Dragfie** [+8] *
+>>>>> **u/Dragfie** [+8]  (12 hours later)
 >>>>> 
 >>>>> I'm not really sure what we are disagreeing on here, as you said its the same thing to bethel, and both are consent violations and morally wrong. I was simply using the example of tickling to show how the "lets kill her" reaction would be completely not understandable to her, even if she knew about consent. To her it probably looks like a minor infraction, even if she acknowlages she did something wrong, and as you said she has no reason not to think so.
->>>>> 
 
->>>>>> **u/RMcD94** [+2] *
+>>>>>> **u/RMcD94** [+2]  (13 hours later)
 >>>>>> 
 >>>>>> I agree with everything you said
->>>>>> 
 
->>> **u/Iconochasm** [+10] *
+>>> **u/Iconochasm** [+9]  (11 hours later)
 >>> 
 >>> Maybe the extra senses?  He *says* no, bit she can *see* his arousal responses...
->>> 
 
->>>> **u/RMcD94** [+4] *
+>>>> **u/RMcD94** [+4]  (11 hours later)
 >>>> 
 >>>> Humans can sense arousal.
->>>> If Amy said that she kept having sex with him because she felt his arousal what would the reaction be?
->>>> Clearly she still ignored him saying no, why did she ignore it? 
->>>> Because he was aroused would suggest that she thinks that arousal is consent or doesn't know what consent is.
->>>> Which suggests the people responsible for humanising a house have done a bad job if no one explained to her arousal doesn't mean consent.
->>>> Even then if she thinks arousal means consent then what did she think the no was for?
 >>>> 
+>>>> If Amy said that she kept having sex with him because she felt his arousal what would the reaction be?
+>>>> 
+>>>> Clearly she still ignored him saying no, why did she ignore it? 
+>>>> 
+>>>> Because he was aroused would suggest that she thinks that arousal is consent or doesn't know what consent is.
+>>>> 
+>>>> Which suggests the people responsible for humanising a house have done a bad job if no one explained to her arousal doesn't mean consent.
+>>>> 
+>>>> Even then if she thinks arousal means consent then what did she think the no was for?
 
->>>>> **u/Iconochasm** [+29] *
+>>>>> **u/Iconochasm** [+32]  (11 hours later)
 >>>>> 
 >>>>> There's a lot of real life human women who don't seem to understand/believe that an erection does not equal eager consent.  Bethel is a *house*, and no one was really responsible for humanizing her, and even if someone were, "advanced civilized sex etiquette" is going to be a low-priority lesson for an apparently asexual *house*.
->>>>> >Even then if she thinks arousal means consent then what did she think the no was for?
->>>>> I think she thought he was just being a midwestern prude, saying 'no' because he was supposed to, when really he was *obviously* DTF.
->>>>> To be clear, I'm not saying Bethel didn't do anything wrong.  I'm saying it was more an error of understanding than an act of malice.
 >>>>> 
+>>>>> >Even then if she thinks arousal means consent then what did she think the no was for?
+>>>>> 
+>>>>> I think she thought he was just being a midwestern prude, saying 'no' because he was supposed to, when really he was *obviously* DTF.
+>>>>> 
+>>>>> To be clear, I'm not saying Bethel didn't do anything wrong.  I'm saying it was more an error of understanding than an act of malice.
 
->>>>>> **u/RMcD94** [+1] *
+>>>>>> **u/RMcD94** [+1]  (11 hours later)
 >>>>>> 
 >>>>>> Well I have to think that the people who choose to live with her and upgrade her sentience are clearly responsible for how she develops.
-
->>>>>> But if he is being a Midwestern prude why ignore him when he says no? Did she think that by proceeding he would stop being a prude? Did she think that it was his fetish to say no?
->>>>>> I agree with you that I think she's not malicious but it's not clear at all what her reasons were and Val should find it out because it has serious consequences.
->>>>>> Either she's like a pet dog who shat in the house and no one told her that it wasn't acceptable and now she got shouted at she wants to make up for it.
->>>>>> Or she did know it was wrong and did it anyway (why?) 
->>>>>> Potentially she was overwhelmed by lust, so who gave her a real body? Perhaps she is suffering from wanting to stop but being forced by urges to keep going. Who can Bethel talk to about her feelings? 
->>>>>> Big difference yet Val doesn't seem to make an effort.
 >>>>>> 
+>>>>>> But if he is being a Midwestern prude why ignore him when he says no? Did she think that by proceeding he would stop being a prude? Did she think that it was his fetish to say no?
+>>>>>> 
+>>>>>> I agree with you that I think she's not malicious but it's not clear at all what her reasons were and Val should find it out because it has serious consequences.
+>>>>>> 
+>>>>>> Either she's like a pet dog who shat in the house and no one told her that it wasn't acceptable and now she got shouted at she wants to make up for it.
+>>>>>> 
+>>>>>> Or she did know it was wrong and did it anyway (why?) 
+>>>>>> 
+>>>>>> Potentially she was overwhelmed by lust, so who gave her a real body? Perhaps she is suffering from wanting to stop but being forced by urges to keep going. Who can Bethel talk to about her feelings? 
+>>>>>> 
+>>>>>> Big difference yet Val doesn't seem to make an effort.
 
->>>>>>> **u/Iconochasm** [+17] *
+>>>>>>> **u/Iconochasm** [+14]  (11 hours later)
 >>>>>>> 
 >>>>>>> > Either she's like a pet dog who shat in the house and no one told her that it wasn't acceptable and now she got shouted at she wants to make up for it.
 >>>>>>> > 
 >>>>>>> > Or she did know it was wrong and did it anyway (why?)
->>>>>>> I think it's pretty clearly the former.
->>>>>>> >Potentially she was overwhelmed by lust, so who gave her a real body?
->>>>>>> No one "gave" her a real body.  The entad that let her do it was "emergency rescued" into her during the aftermath of Mome Rath.  I'm 99% sure the thought process there was "we should keep this safe" rather than "this will buff Bethel".
 >>>>>>> 
+>>>>>>> I think it's pretty clearly the former.
+>>>>>>> 
+>>>>>>> >Potentially she was overwhelmed by lust, so who gave her a real body?
+>>>>>>> 
+>>>>>>> No one "gave" her a real body.  The entad that let her do it was "emergency rescued" into her during the aftermath of Mome Rath.  I'm 99% sure the thought process there was "we should keep this safe" rather than "this will buff Bethel".
 
->>>>>>>> **u/RMcD94** [-5] *
+>>>>>>>> **u/RMcD94** [-4]  (11 hours later)
 >>>>>>>> 
 >>>>>>>> Well if its the former why I hope to see Amy really take a look at herself for wanting to shoot a dog and why she let the situation come to this. 
->>>>>>>> I mean they decided to have Bethel on that mission. She didn't want to go. She came just for them. They are clearly responsible for her possession of that entad. If Bethel took up an entad that made her make paperclips during that mission then it'd be their fault. Not Bethel's fault for making paperclips.
->>>>>>>> I look forward to much more sympathy for Bethel now they realise how badly they raised her
 >>>>>>>> 
+>>>>>>>> I mean they decided to have Bethel on that mission. She didn't want to go. She came just for them. They are clearly responsible for her possession of that entad. If Bethel took up an entad that made her make paperclips during that mission then it'd be their fault. Not Bethel's fault for making paperclips.
+>>>>>>>> 
+>>>>>>>> I look forward to much more sympathy for Bethel now they realise how badly they raised her
 
->>>>>>>>> **u/wiikipedia** [+14] *
+>>>>>>>>> **u/wiikipedia** [+17]  (14 hours later)
 >>>>>>>>> 
 >>>>>>>>> Just because Bethel didn't have a great or even good upbringing doesn't necessarily excuse her actions. Just because we can trace the root causes of this event doesn't mean Bethel is blameless. It especially doesn't make the protagonists culpable when by the time they meet Bethel she is already a sociopath who we know has been sexually assaulted when she was younger. 
->>>>>>>>> Bethel isn't a dog, she made a conscious decision to ignore Joon saying no. They talk quite a bit about exactly why she did this, and it's not malicious on her part. She thought she knew best, that Joon would come to appreciate her being so forward, that if he was really so opposed he would do more. Bethel was wrong, and while she didn't and still doesn't see it as rape, she absolutely did rape Joon.
->>>>>>>>> As far as Mary goes, in my opinion she saw Bethel as someone who was dangerous but useful. Bethel is the strongest one in the party and ridiculously useful, but a sociopath. Mary seemed to be of the opinion that Bethel's violent tendencies were worth it and that Bethel's personality would improve as she spent time living a better life. Bethel's sexual assault is both something that Mary has a strong emotional response to, but it could also be a sign that Bethel is not getting better and is a clear and present danger to all of them
 >>>>>>>>> 
+>>>>>>>>> Bethel isn't a dog, she made a conscious decision to ignore Joon saying no. They talk quite a bit about exactly why she did this, and it's not malicious on her part. She thought she knew best, that Joon would come to appreciate her being so forward, that if he was really so opposed he would do more. Bethel was wrong, and while she didn't and still doesn't see it as rape, she absolutely did rape Joon.
+>>>>>>>>> 
+>>>>>>>>> As far as Mary goes, in my opinion she saw Bethel as someone who was dangerous but useful. Bethel is the strongest one in the party and ridiculously useful, but a sociopath. Mary seemed to be of the opinion that Bethel's violent tendencies were worth it and that Bethel's personality would improve as she spent time living a better life. Bethel's sexual assault is both something that Mary has a strong emotional response to, but it could also be a sign that Bethel is not getting better and is a clear and present danger to all of them
 
->>>>>>>>>> **u/RMcD94** [-1] *
+>>>>>>>>>> **u/RMcD94** [-1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> If Bethel thought that Joon was saying no and just ignored his consent it means either a she doesn't know what consent is (and who's responsible for telling her about consent), in which case they should just tell her about consent problem solved. Even if she thinks he would enjoy being raped it's not relevant for consent. 
->>>>>>>>>> Or b she knew it was rape, knows how Joon feels about rapes and did it to hurt him.
 >>>>>>>>>> 
+>>>>>>>>>> Or b she knew it was rape, knows how Joon feels about rapes and did it to hurt him.
 
->>>>>>>>>>> **u/wiikipedia** [+6] *
+>>>>>>>>>>> **u/wiikipedia** [+5]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Or, like it says Bethel thought in the chapter, he wants to say yes and will appreciate it but feels he shouldn't say yes and is putting up just a token resistance. 
->>>>>>>>>>> Bethel is probably the "smartest" party member at least in pure knowledge base wise, maybe behind Palladia or Raven. Bethel knows what consent is and isn't trying to hurt Joon. I think she honestly thought that ignoring him saying no would not only be better for him but would be something he would appreciate in the end.
 >>>>>>>>>>> 
+>>>>>>>>>>> Bethel is probably the "smartest" party member at least in pure knowledge base wise, maybe behind Palladia or Raven. Bethel knows what consent is and isn't trying to hurt Joon. I think she honestly thought that ignoring him saying no would not only be better for him but would be something he would appreciate in the end.
 
->>>>>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> If she knows what consent is then why did she ignore his nos?
->>>>>>>>>>>> If she's smart then clearly Joon or any of the party members never told her about consent and why you listen to it.
->>>>>>>>>>>> Has no one told her about safe words? She f she was expecting a token no then she would have arranged safe words.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> If she's smart then clearly Joon or any of the party members never told her about consent and why you listen to it.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Has no one told her about safe words? She f she was expecting a token no then she would have arranged safe words.
 
->>>>>>>>>>>>> **u/I_Probably_Think** [+4] *
+>>>>>>>>>>>>> **u/I_Probably_Think** [+4]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Being (capable of being?) smart is distinct from being knowledgeable. You've already received several repeated explanations for why Bethel might have chosen to ignore Joon's repeated "no"; she also probably does not share Joon's (and our own) sense of the full importance of consent, partly due to not growing up in our modern society.
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> Yeah and many of them are contradictory hence why I am enjoying the discussion around it.
->>>>>>>>>>>>>> Malicious versus ignorance
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Malicious versus ignorance
 
->>>>>>>>>>>>>>> **u/I_Probably_Think** [+1] *
+>>>>>>>>>>>>>>> **u/I_Probably_Think** [+1]  (2 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Righto, I looked at the rest of the thread and now I can tell XD
->>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>> **u/Solaire145** [+3] *
+>>>>>>>>>>>>>>>> **u/Solaire145** [+3]  (18 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> I don't know why I am jumping in on this after almost a month but here I am. Val already explained why Bethel ignored the "no". Because she thought she knew better. Because they had agreed beforehand that if Bethel could feel, he would do it. Because she had a body and she really wanted to try it out and no was more inconvenient than yes. Because he enjoyed it. 
->>>>>>>>>>>>>>>> That's the thing about rape though. Just because you don't want it doesn't mean you might not enjoy it. Arousal is an automatic response much like closing your eyes when sneezing. 
->>>>>>>>>>>>>>>> And he didn't say no again because, *as mentioned in the chapter,* Bethel is prone to escalation. A harder no might mean a harder yes. And she go a lot harder than anyone else. Despite the fact that she had no intention to hurt him and has not given any indication she would, she is extremely casual about murder and has thrown out a number of casual displays of absolute power. So in the moment it was best to go with the flow. Once he was far enough away to feel safe, he finally realized how terrifying and sickening it was. 
->>>>>>>>>>>>>>>> I don't know why this went so long. The chapters do a good job of analyzing this from both sides.
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> That's the thing about rape though. Just because you don't want it doesn't mean you might not enjoy it. Arousal is an automatic response much like closing your eyes when sneezing. 
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> And he didn't say no again because, *as mentioned in the chapter,* Bethel is prone to escalation. A harder no might mean a harder yes. And she go a lot harder than anyone else. Despite the fact that she had no intention to hurt him and has not given any indication she would, she is extremely casual about murder and has thrown out a number of casual displays of absolute power. So in the moment it was best to go with the flow. Once he was far enough away to feel safe, he finally realized how terrifying and sickening it was. 
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> I don't know why this went so long. The chapters do a good job of analyzing this from both sides.
 
->>>>> **u/CouteauBleu** [+10]  *We are the Empire.**
+>>>>> **u/CouteauBleu** [+10]  *We are the Empire.* (16 hours later)
 >>>>> 
 >>>>> You keep saying Amy, but her nickname is Mary. I think you're letting Ward bleed over to WtC ^^
->>>>> 
 
->>>>>> **u/RMcD94** [+3] *
+>>>>>> **u/RMcD94** [+3]  (a day later)
 >>>>>> 
 >>>>>> Whoops, thanks
->>>>>> 
 
-> **u/cthulhuraejepsen** [+58]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+59]  *Fruit flies like a banana* (3 minutes later)
 > 
 > In case you missed them, you can read some thoughts on adapating *Worth the Candle* for tabletop games [here](http://thingswhichborepeople.blogspot.com/2019/06/thoughts-on-adapting-worth-candle-for.html) (entads, exclusions, tattoo magic, blood magic, bone magic) and [here](http://thingswhichborepeople.blogspot.com/2019/06/thoughts-on-adapting-worth-candle-for_27.html) (flower magic, pustule magic, druids), with more to follow if/when I feel compelled. This is the kind of junk that I post to /r/alexanderwales.
-> ----
-> WRT content warnings: My standard policy is not to use them for this story. On AO3, this fiction is marked "Creator Chose Not to Use Archive Warnings" and on RoyalRoad it's marked "Profanity, Gore, Sexual Content, Traumatizing Content", which was as many warning tags as they had. There was no warning for extended discussion of suicide in previous chapters, nor for discussion of sexual violence in ch 98, nor for statutory rape in 121, nor for the rather persistent and extreme levels of gore, violence, and existential horror elsewhere in the story. I've been hoping that "there are no trigger warnings" is enough, but I might put that in bigger letters in the summary, or lay out my policy there. I generally think that trigger warnings are helpful, but that they also act as spoilers, and I would rather turn away people who need trigger warnings without giving a reason than provide trigger warnings on specific chapters and/or for the work in general. (There's also the problem of providing a frame to chapters that doesn't exist within the text of the chapter itself.)
-> I'll *probably* be adding a text doc that links to an exhaustive, spoilery list of stuff that happens and in which chapters, but it's low priority, and will probably be crowd-sourced, since there's a lot of story and I don't know exactly where people draw their lines.
 > 
+> ----
+> 
+> WRT content warnings: My standard policy is not to use them for this story. On AO3, this fiction is marked "Creator Chose Not to Use Archive Warnings" and on RoyalRoad it's marked "Profanity, Gore, Sexual Content, Traumatizing Content", which was as many warning tags as they had. There was no warning for extended discussion of suicide in previous chapters, nor for discussion of sexual violence in ch 98, nor for statutory rape in 121, nor for the rather persistent and extreme levels of gore, violence, and existential horror elsewhere in the story. I've been hoping that "there are no trigger warnings" is enough, but I might put that in bigger letters in the summary, or lay out my policy there. I generally think that trigger warnings are helpful, but that they also act as spoilers, and I would rather turn away people who need trigger warnings without giving a reason than provide trigger warnings on specific chapters and/or for the work in general. (There's also the problem of providing a frame to chapters that doesn't exist within the text of the chapter itself.)
+> 
+> I'll *probably* be adding a text doc that links to an exhaustive, spoilery list of stuff that happens and in which chapters, but it's low priority, and will probably be crowd-sourced, since there's a lot of story and I don't know exactly where people draw their lines.
 
->> **u/sicutumbo** [+35] *
+>> **u/sicutumbo** [+39]  (35 minutes later)
 >> 
 >> >Tattoo mages being *reskinned* mages
->> This is just on the border of me not knowing if this pun was intentional or not.
->> For trigger warnings, I think it was Wildbow who had a disclaimer saying something along the lines of "if you are worried about trigger warnings then this is not the story for you" or something to that effect, and I've always liked that phrasing. It makes it abundantly clear what you're saying about the work without giving away spoilers in regards to when and what happens.
 >> 
+>> This is just on the border of me not knowing if this pun was intentional or not.
+>> 
+>> For trigger warnings, I think it was Wildbow who had a disclaimer saying something along the lines of "if you are worried about trigger warnings then this is not the story for you" or something to that effect, and I've always liked that phrasing. It makes it abundantly clear what you're saying about the work without giving away spoilers in regards to when and what happens.
 
->>> **u/Jokey665** [+29]  *Worth the Candle**
+>>> **u/Jokey665** [+33]  *Worth the Candle* (59 minutes later)
 >>> 
 >>> >Readers should be cautioned that Worm is fairly dark as fiction goes, and it gets far darker as the story progresses.  Morality isn’t black and white, Taylor and her acquaintances aren’t invincible, the heroes aren’t winning the war between right and wrong, and superpowers haven’t necessarily affected society for the better.  Just the opposite on every count, really.  Even on a more fundamental level, Taylor’s day to day life is unhappy, with her clinging to the end of her rope from the story’s outset.  The denizens of the Wormverse (as readers have termed it) don’t pull punches, and I try to avoid doing so myself, as a writer.  There’s graphic language, descriptions of violence and sex does happen (albeit offscreen).  It would be easier to note the trigger warnings that don’t apply than all the ones that do.
->>> >All in all, this probably isn’t a story for the sensitive or the young.  I’d peg it with a PG-18 rating, but I think we all know that there’s kids who can handle that sort of thing and there’s adults who can’t.  Use your best judgement and ask in the comments below if you’re still unsure.
->>> >If I haven’t scared you off yet, you can begin reading Taylor’s story here.  Enjoy.
->>> The warning before Worm, for the record.
 >>> 
+>>> >All in all, this probably isn’t a story for the sensitive or the young.  I’d peg it with a PG-18 rating, but I think we all know that there’s kids who can handle that sort of thing and there’s adults who can’t.  Use your best judgement and ask in the comments below if you’re still unsure.
+>>> 
+>>> >If I haven’t scared you off yet, you can begin reading Taylor’s story here.  Enjoy.
+>>> 
+>>> The warning before Worm, for the record.
 
->>>> **u/None** [+4] *
+>>>> **u/None** [+3]  (2 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Green0Photon** [+15]  *Student in Cyoria, Minmay, and Ranvar**
+>>>>> **u/Green0Photon** [+16]  *Student in Cyoria, Minmay, and Ranvar* (4 hours later)
 >>>>> 
 >>>>> I don't think so. I vaguely remember it from when I first read Worm a few years ago.
->>>>> 
 
->>>>>> **u/None** [+7] *
+>>>>>> **u/None** [+6]  (4 hours later)
 >>>>>> 
 >>>>>> [deleted]
->>>>>> 
 
->>>>>>> **u/Jokey665** [+12]  *Worth the Candle**
+>>>>>>> **u/Jokey665** [+12]  *Worth the Candle* (16 hours later)
 >>>>>>> 
 >>>>>>> >All that said, be warned – from the beginning of the story, Taylor is dealing with bullying, and it affects her more than in the thirty seconds of movie or two panels of comic that Peter Parker deals with being shoved against a locker by Flash.  Taylor finds escape in her costume and superpowers, but that world isn’t without it’s problems either.  Supervillains (and superheroes!) don’t always pull their punches and people can die, or worse.  All of this in mind, it probably isn’t a story for the sensitive or the young.  I’d tentatively peg it with a PG-13 warning.  That said, given that the story isn’t entirely written (It’s my hope, as mentioned earlier, that you, the audience, will help shape it with your feedback), I can’t definitively say how things will go or what rating the story would wind up with.  Fair warning.
->>>>>>> This is the warning from early 2012.
->>>>>>> >Readers should be cautioned that Worm is fairly dark as fiction goes, and it gets far darker as the story progresses.  Morality isn’t black and white, Taylor and her acquaintances aren’t invincible, the heroes aren’t winning the war between right and wrong, and superpowers haven’t necessarily affected society for the better.  Just the opposite on every count, really.  Even on a more fundamental level, Taylor’s day to day life is unhappy, with her clinging to the end of her rope from the story’s outset.  The denizens of the Wormverse (as readers have termed it) don’t pull punches, and I try to avoid doing so myself, as a writer.  There’s graphic language, descriptions of violence and sex does happen (offscreen).  It would be easier to note the trigger warnings that don’t apply than all the ones that do.
->>>>>>> >All in all, this probably isn’t a story for the sensitive or the young.  I’d peg it with a PG-15 or PG-18 rating, but I think we all know that there’s kids who can handle that sort of thing and there’s adults who can’t.  Use your best judgement and ask in the comments below if you’re still unsure.
->>>>>>> >If I haven’t scared you off yet, you can begin reading Taylor’s story here.  Enjoy.
->>>>>>> Early 2013.
 >>>>>>> 
+>>>>>>> This is the warning from early 2012.
+>>>>>>> 
+>>>>>>> >Readers should be cautioned that Worm is fairly dark as fiction goes, and it gets far darker as the story progresses.  Morality isn’t black and white, Taylor and her acquaintances aren’t invincible, the heroes aren’t winning the war between right and wrong, and superpowers haven’t necessarily affected society for the better.  Just the opposite on every count, really.  Even on a more fundamental level, Taylor’s day to day life is unhappy, with her clinging to the end of her rope from the story’s outset.  The denizens of the Wormverse (as readers have termed it) don’t pull punches, and I try to avoid doing so myself, as a writer.  There’s graphic language, descriptions of violence and sex does happen (offscreen).  It would be easier to note the trigger warnings that don’t apply than all the ones that do.
+>>>>>>> 
+>>>>>>> >All in all, this probably isn’t a story for the sensitive or the young.  I’d peg it with a PG-15 or PG-18 rating, but I think we all know that there’s kids who can handle that sort of thing and there’s adults who can’t.  Use your best judgement and ask in the comments below if you’re still unsure.
+>>>>>>> 
+>>>>>>> >If I haven’t scared you off yet, you can begin reading Taylor’s story here.  Enjoy.
+>>>>>>> 
+>>>>>>> Early 2013.
 
->>>>>>> **u/Green0Photon** [+7]  *Student in Cyoria, Minmay, and Ranvar**
+>>>>>>> **u/Green0Photon** [+8]  *Student in Cyoria, Minmay, and Ranvar* (4 hours later)
 >>>>>>> 
 >>>>>>> I read it in... Fall 2014, I think. So a year after it ended. Man, I can't believe it was that long ago. Wow.
->>>>>>> Though, my memory's also shit, so who knows if the statement was there originally.
->>>>>>> Wanna see in the Wayback Machine? I'm on mobile and about to fall asleep, so...
 >>>>>>> 
+>>>>>>> Though, my memory's also shit, so who knows if the statement was there originally.
+>>>>>>> 
+>>>>>>> Wanna see in the Wayback Machine? I'm on mobile and about to fall asleep, so...
 
->>>>>>> **u/Bowbreaker** [+3]  *Solitary Locust**
+>>>>>>> **u/Bowbreaker** [+3]  *Solitary Locust* (9 hours later)
 >>>>>>> 
 >>>>>>> Check Archive.org?
->>>>>>> 
 
->> **u/nytelios** [+12] *
+>> **u/nytelios** [+12]  (19 hours later)
 >> 
 >> I really don't think you need an exhaustive trigger warning list or anything more than a general content warning (like the one for Worm mentioned) just to accommodate fair warning for every possible reader's aversions.
->> Forgot to comment [on the art last week](https://old.reddit.com/r/rational/comments/c2p8sy/rt_worth_the_candle_ch_162165/erlnkhb/): wanted to agree with the general sentiment that it isn't a very marketable representation of WtC. Like /u/erwgv3g34, I also think it's got too strong of a W40K flair. But mostly I'm with /u/ashinator92 - I think detailed facial profiles should be avoided for white-bread-with-skim-milk-Joon and most-beautiful-woman-alive-for-first-person-narrator Mary, especially for the latter if the artist can't reproduce the exact rendition in your head. Your Trapper's Daughter example seems better art-wise, with the text's vague/subjective mystique. 
->> Have any covers/cover mock-ups been commissioned? A few months ago, for the first book's cover, I was imagining Joon's back profile peeking out from behind one of Silmar's street corner walls ([iffy inspiration](https://previews.123rf.com/images/estradaanton/estradaanton1806/estradaanton180600157/103433797-a-picture-of-serious-bearded-man-hiding-behind-wall-and-looking-to-the-side-he-has-gun-other-two-men.jpg), can't find anything better) with the latter half of a greater umbral hound skulking down the next street with Sorian's Castle looming in the distance.
 >> 
+>> Forgot to comment [on the art last week](https://old.reddit.com/r/rational/comments/c2p8sy/rt_worth_the_candle_ch_162165/erlnkhb/): wanted to agree with the general sentiment that it isn't a very marketable representation of WtC. Like /u/erwgv3g34, I also think it's got too strong of a W40K flair. But mostly I'm with /u/ashinator92 - I think detailed facial profiles should be avoided for white-bread-with-skim-milk-Joon and most-beautiful-woman-alive-for-first-person-narrator Mary, especially for the latter if the artist can't reproduce the exact rendition in your head. Your Trapper's Daughter example seems better art-wise, with the text's vague/subjective mystique. 
+>> 
+>> Have any covers/cover mock-ups been commissioned? A few months ago, for the first book's cover, I was imagining Joon's back profile peeking out from behind one of Silmar's street corner walls ([iffy inspiration](https://previews.123rf.com/images/estradaanton/estradaanton1806/estradaanton180600157/103433797-a-picture-of-serious-bearded-man-hiding-behind-wall-and-looking-to-the-side-he-has-gun-other-two-men.jpg), can't find anything better) with the latter half of a greater umbral hound skulking down the next street with Sorian's Castle looming in the distance.
 
->> **u/TheColourOfHeartache** [+5] *
+>> **u/TheColourOfHeartache** [+5]  (12 hours later)
 >> 
 >> This makes me think of Druids using some kind of token system like FATE's fate points while everyone else uses dice.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (18 days later)
 >> 
 >> I was thinking, how could this be easily crowdsorced: After all, we'd need a document that's (ideally) editable by many people, or at least editable and commentable, and won't be taken down? Took me a while to realize this, but maybe this reddit thread could be this thing - or at least a start\^\^
->> So, provisional content notices (and spoilers) ahead! Once with each chapter and content notice behind a separate spoiler notice, so people can choose how far they want to be spoiled, and then all at once.
->> Currently my list entails:
->> >!General:!< >!Violence, Gore!<
->> >!Ch006!< >!Discussion of Rape!<
->> >!Ch025!< >!Discussion of Physical Child Abuse!<
->> >!Ch041!< >!Discussion of Rape!<
->> >!Ch090!< >!Discussion of Torture ("Enhanced Interrogation")!<
->> >!Ch092!< >!Discussion of Rape!<
->> >!Ch098!< >!Discussion of Sexual Violence!<
->> >!Ch113!< >!Psychological torture!<
->> >!Ch121!< >!Discussion of Statutory rape!<
->> >!Ch137!< >!Discussion of Suicide!<
->> >!Ch164!< >!Non-consensual sex!<
->> >!Ch166!< >!Discussion of non-consensual sex!<
->> >!Ch167!< >!Discussion of non-consensual sex!<
->> >!Ch168!< >!Discussion of non-consensual sex!<
->> &#x200B;
->> Edit: and the whole list at once, although I can't get it to format like I want to... oh well: 
->> >!General: Violence, Gore; Ch6 Discussion of Rape; Ch25 Discussion of Physical Child Abuse; Ch41 Discussion of Rape; Ch90 Discussion of Torture ("Enhanced Interrogation"); Ch92 Discussion of Rape; Ch98 Discussion of Sexual Violence; Ch113 Psychological torture; Ch121 Discussion of Statutory rape; Ch137 Discussion of Suicide; Ch164 Non-consensual sex; Ch166 Discussion of non-consensual sex; Ch167 Discussion of non-consensual sex; Ch168 Discussion of non-consensual sex!<
 >> 
+>> So, provisional content notices (and spoilers) ahead! Once with each chapter and content notice behind a separate spoiler notice, so people can choose how far they want to be spoiled, and then all at once.
+>> 
+>> Currently my list entails:
+>> 
+>> >!General:!< >!Violence, Gore!<
+>> 
+>> >!Ch006!< >!Discussion of Rape!<
+>> 
+>> >!Ch025!< >!Discussion of Physical Child Abuse!<
+>> 
+>> >!Ch041!< >!Discussion of Rape!<
+>> 
+>> >!Ch090!< >!Discussion of Torture ("Enhanced Interrogation")!<
+>> 
+>> >!Ch092!< >!Discussion of Rape!<
+>> 
+>> >!Ch098!< >!Discussion of Sexual Violence!<
+>> 
+>> >!Ch113!< >!Psychological torture!<
+>> 
+>> >!Ch121!< >!Discussion of Statutory rape!<
+>> 
+>> >!Ch137!< >!Discussion of Suicide!<
+>> 
+>> >!Ch164!< >!Non-consensual sex!<
+>> 
+>> >!Ch166!< >!Discussion of non-consensual sex!<
+>> 
+>> >!Ch167!< >!Discussion of non-consensual sex!<
+>> 
+>> >!Ch168!< >!Discussion of non-consensual sex!<
+>> 
+>> &#x200B;
+>> 
+>> Edit: and the whole list at once, although I can't get it to format like I want to... oh well: 
+>> 
+>> >!General: Violence, Gore; Ch6 Discussion of Rape; Ch25 Discussion of Physical Child Abuse; Ch41 Discussion of Rape; Ch90 Discussion of Torture ("Enhanced Interrogation"); Ch92 Discussion of Rape; Ch98 Discussion of Sexual Violence; Ch113 Psychological torture; Ch121 Discussion of Statutory rape; Ch137 Discussion of Suicide; Ch164 Non-consensual sex; Ch166 Discussion of non-consensual sex; Ch167 Discussion of non-consensual sex; Ch168 Discussion of non-consensual sex!<
 
-> **u/throwaway47351** [+53] *
+> **u/throwaway47351** [+57]  (an hour later)
 > 
 > >She can't heal me if she hurts me
-> That's cold as fuck to say "she can torture me, but not indefinitely" as an argument why you should be the one to talk to the unstable powerful creature.
 > 
+> That's cold as fuck to say "she can torture me, but not indefinitely" as an argument why you should be the one to talk to the unstable powerful creature.
 
->> **u/Noumero** [+57]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+59]  *Self-Appointed Court Statistician* (3 hours later)
 >> 
 >> I don't think that's what she meant. She meant that Bethel would *know* that she can't be healed, and therefore would be more restrained than with the others. Cutting off her fingers would be mutilation, not a mere emphatic point; torturing her would be a commitment to war, not the equivalent of a slap.
->> 
 
->>> **u/I_Probably_Think** [+30] *
+>>> **u/I_Probably_Think** [+27]  (8 hours later)
 >>> 
 >>> I think there's elements of both there. The discussion very much went into the worst-case scenarios.
->>> 
 
->>>> **u/Revlar** [+10] *
+>>>> **u/Revlar** [+12]  (18 hours later)
 >>>> 
 >>>> It plays into Joon's observation earlier in the batch that Grak and Mary are moved by considerations on that side of things.
->>>> 
 
->>> **u/Xtraordinaire** [+33]  *Team Glimglam**
+>>> **u/Xtraordinaire** [+33]  *Team Glimglam* (10 hours later)
 >>> 
 >>> > She can’t heal me if she hurts me, and **I won’t wind up in the hells.**
->>> No, she is considering the possibility of being tortured to death.
 >>> 
+>>> No, she is considering the possibility of being tortured to death.
 
->>>> **u/Noumero** [+6]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+7]  *Self-Appointed Court Statistician* (2 days later)
 >>>> 
 >>>> >Bethel was less likely to be violent to someone who couldn’t heal back 
->>>> Both, I think.
 >>>> 
+>>>> Both, I think.
 
-> **u/water125** [+40] *
+> **u/water125** [+42]  (4 hours later)
 > 
 > I'm a big fan of how this arc has gone so far. Juniper's reaction to it was so muted and underwhelming in a really unsettling way that I *think* was close to reality. (I'm not an expert, so it could just be one of those cases where it's a common misconception). Thanks to the discomfort that caused me, Amaryllis absolutely furious reaction paid such big dividends. I wasn't quite cheering in my seat, reading that, but it was close.
-> I also really appreciate how you didn't have anyone doubt Juniper. Not that they would've had reason to doubt his word over the evil house's, but in the current climate it's still refreshing. Pallida was the only one who seemed unconvinced, and that was on grounds of 'Well that's not *really* rape' and, while that's certainly gross, it came from Pallida. She's not exactly set up to be likeable anyway.
 > 
+> I also really appreciate how you didn't have anyone doubt Juniper. Not that they would've had reason to doubt his word over the evil house's, but in the current climate it's still refreshing. Pallida was the only one who seemed unconvinced, and that was on grounds of 'Well that's not *really* rape' and, while that's certainly gross, it came from Pallida. She's not exactly set up to be likeable anyway.
 
->> **u/nytelios** [+26] *
+>> **u/nytelios** [+26]  (19 hours later)
 >> 
 >> Like someone else in this thread (can't seem to find it), I actually liked and appreciated Pallida more for speaking up. Like she says, there are "morals and ideas of the moment" and in a universe and history as multicultural as Aerb, judging other cultures and their interpretations of behaviors might be too insular without a big stick in hand. Reminder that hardly anybody in our world gave two hoots about male rape until relatively recently. There was [a whole discussion of rape framing in the last thread](https://old.reddit.com/r/rational/comments/c2p8sy/rt_worth_the_candle_ch_162165/ervjr0h/) and /u/c_a_l's argument resonated with me in that using the same word of "rape" to refer to all types of unconsented sexual activity isn't realistic. In modern Western culture (not too sure if it's the same everywhere), it's rape by most accounts, but it's still complicated and there are plenty of people who will say that's not *really* rape for all sorts of reasons.
->> 
 
-> **u/CreationBlues** [+41] *
+> **u/CreationBlues** [+35]  (an hour later)
 > 
 > Oh wow, I think in the final chapter we actually see just how important the crew are to Bethel, and how attached she is to them. She actually sees them as her occupants, with all the baggage that entails for a sentient house.
-> 
 
-> **u/MilesSand** [+33] *
+> **u/MilesSand** [+40]  (2 hours later)
 > 
 > I'm waiting for the parallels to what Arthur did to come up.  Considering that hasn't been mentioned this far in she'll probably blame him at some point in the healing process.
-> I hope to be surprised though, not cause that would be bad but cause it's too obvious.
 > 
+> I hope to be surprised though, not cause that would be bad but cause it's too obvious.
 
->> **u/silian** [+31] *
+>> **u/silian** [+31]  (2 hours later)
 >> 
 >> I doubt it will unless Bethel makes huge progress. Notice how upset she got with just the implication that what she did was even close to how she had been treated in the past. The Arthur thing would kick that up to 11. I really don't think Valencia can ever truly fix this, she may be able to make Bethel a member of the team again but this will always be a crack in their trust.
->> 
 
->>> **u/Revlar** [+8] *
+>>> **u/Revlar** [+9]  (18 hours later)
 >>> 
 >>> This is underselling her power. The fiction makes it very clear that Val is leaving cracks on purpose. Its doesn't go into detail about what fixing things more completely would entail, but it admits that Val knows that there are words that could be said that would mend bridges. Those words may be inhumane, abusive and fundamentally opposed to the values of everyone involved, but the author isn't pretending they don't exist to justify this development, he's leading us to accept this outcome because it's what agrees with our values.
->>> 
 
->>>> **u/mrasiteren** [+6] *
+>>>> **u/mrasiteren** [+7]  (a day later)
 >>>> 
 >>>> What I got from that scene was Val could fix the issue in short term by manipulating June (maybe by getting him to soul-edit himself) but it wouldn't be a long term solution. Remember devils are not really knowledgeable with regards to creating a long term bond of mutual acceptance and respect. She is trying to help them not create a short term fix that might blow up in the future.
->>>> 
 
->>>>> **u/Revlar** [+3] *
+>>>>> **u/Revlar** [+3]  (2 days later)
 >>>>> 
 >>>>> If you're smart enough to think of that stopgap measure you're smart enough to realize it's not stopgap at all. It disagrees with our values and their values, but the tools and talent on the isle at the time were entirely capable of permanently papering over the whole thing. That's just a fact.
->>>>> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+7]  (3 hours later)
 >>> 
 >>> Yeah, I don’t expect to see it until 10+ chapters from now, at least in front of/by Bethel. Maybe a comparison could be made by her that shows why she thinks the situations are different before that though.
->>> 
 
->> **u/I_Probably_Think** [+8] *
+>> **u/I_Probably_Think** [+8]  (8 hours later)
 >> 
 >> Depending on much truth is in what Bethel says of Uther, the formative experiences with him could very well be a big component of why Bethel behaved/s the way she did/does... I'm reminded of how bullying tends to produce further bullies :(
->> 
 
->> **u/nytelios** [+5] *
+>> **u/nytelios** [+4]  (19 hours later)
 >> 
 >> It's sad that Arthur/Uther saw all his life as degenerate cycles and here the degenerate cycles are continuing as a consequence of his improprieties and Bethel's not self-aware enough to recognize her transition from victim to perpetrator.
->> For all that Bethel is alien, she still has a lot of similar psychological mechanisms and preserving ego is surely one of them. That parallel seems like it'd be very destructive to her self-concept and equilibrium, and I must have a streak of schadenfreude because I want to see her reaction.
 >> 
+>> For all that Bethel is alien, she still has a lot of similar psychological mechanisms and preserving ego is surely one of them. That parallel seems like it'd be very destructive to her self-concept and equilibrium, and I must have a streak of schadenfreude because I want to see her reaction.
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (10 hours later)
 >> 
 >> What do you think the reason Bethel ignored the no was?
->> Arthur thought that Bethel wasn't sentient or worth moral consideration? You think it is the same?
 >> 
+>> Arthur thought that Bethel wasn't sentient or worth moral consideration? You think it is the same?
 
->>> **u/icesharkk** [+17] *
+>>> **u/icesharkk** [+20]  (11 hours later)
 >>> 
 >>> It's outlined in the chapters, bethel thought he would resist for stupid prude reasons but once he felt how awesome it was he'd understand that she was right to push it. It's a variation on a pretty standard college fratboy mentality: she says no but she really wants it/wants me to do it anyway.
->>> 
 
->>>> **u/RMcD94** [-3] *
+>>>> **u/RMcD94** [-2]  (11 hours later)
 >>>> 
 >>>> So why does Bethel think like that?
->>>> No one explained consent to her? They chose to live in her and raise her sentience yet have done no parenting. Thank God she's not a general AI
->>>> She's like a dog that shat in the house. She didn't know that ignoring someone saying no was bad.
->>>> Yet their first reaction is to kill the dog...
 >>>> 
+>>>> No one explained consent to her? They chose to live in her and raise her sentience yet have done no parenting. Thank God she's not a general AI
+>>>> 
+>>>> She's like a dog that shat in the house. She didn't know that ignoring someone saying no was bad.
+>>>> 
+>>>> Yet their first reaction is to kill the dog...
 
->>>>> **u/gryfft** [+14] *
+>>>>> **u/gryfft** [+15]  (13 hours later)
 >>>>> 
 >>>>> To be fair, when a dog bites someone, they put the dog down, regardless of whether the dog knew it was bad.
->>>>> 
 
->>>>>> **u/RMcD94** [-1] *
+>>>>>> **u/RMcD94** [-1]  (a day later)
 >>>>>> 
 >>>>>> Sure but people don't exhibit such anger to the dog they basically raised and they put to work.
->>>>>> Most people go oh wish we were better owners maybe we should have told the dog not to bite people
 >>>>>> 
+>>>>>> Most people go oh wish we were better owners maybe we should have told the dog not to bite people
 
->>>>>>> **u/gryfft** [+6] *
+>>>>>>> **u/gryfft** [+5]  (a day later)
 >>>>>>> 
 >>>>>>> I'm afraid that's where your analogy really falls apart, however, because we'd be talking about a centuries-old dog with a history of mass murder.
->>>>>>> 
 
->>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> Yeah so I might be extra careful and make sure we establish clear rules with said dog
->>>>>>>> 
 
->>>>> **u/icesharkk** [+11] *
+>>>>> **u/icesharkk** [+12]  (14 hours later)
 >>>>> 
 >>>>> Bethel has access to every book from Earth and the ability to instantly read a book thanks to one of Ravens entads I think. Ignorance in defiance of the truth that's readily available does not absolve one of responsibility
->>>>> 
 
->>>>>> **u/RMcD94** [-1] *
+>>>>>> **u/RMcD94** [-1]  (a day later)
 >>>>>> 
 >>>>>> In that case she knew it was wrong and did to anyway.
->>>>>> Why? Why did she want to rape Joon?
 >>>>>> 
+>>>>>> Why? Why did she want to rape Joon?
 
-> **u/Shaolang** [+43] *
+> **u/Shaolang** [+44]  (36 minutes later)
 > 
 > >“She will if I frame it right,” said Valencia. “It’s going to be complicated, but I think I’m the only one who would be capable of doing it.” She was firm and resolute, undercut only slightly by the fact that she was a short girl in a red bikini. 
-> I love these moments of humor in the writing, despite the heavy discussion that is taking place.
 > 
+> I love these moments of humor in the writing, despite the heavy discussion that is taking place.
 
->> **u/sicutumbo** [+49] *
+>> **u/sicutumbo** [+45]  (38 minutes later)
 >> 
 >> Somewhere in the background a naked 400-but-actually-5-year old green skinned mage is talking with a magical deer.
->> 
 
->>> **u/Anderkent** [+27] *
+>>> **u/Anderkent** [+28]  (22 hours later)
 >>> 
 >>> God damn it before you said it I didn't realise this was an anime. Aaaand we just had the beach episode. Gah.
->>> 
 
->>>> **u/Shaolang** [+2] *
+>>>> **u/Shaolang** [+2]  (a day later)
 >>>> 
 >>>> What anime is that?
->>>> 
 
->>>>> **u/Anderkent** [+15] *
+>>>>> **u/Anderkent** [+16]  (a day later)
 >>>>> 
 >>>>> Many animes run a beach fanservice episode, and a thousand-years-old-loli is also an anime-adjacent trope.
->>>>> 
 
->>>>>> **u/Shaolang** [+2] *
+>>>>>> **u/Shaolang** [+2]  (a day later)
 >>>>>> 
 >>>>>> Oh, I thought you meant there was a specific anime with a loli green skinned mage and magical deer.
->>>>>> 
 
->>>> **u/IronPheasant** [+1] *
+>>>> **u/IronPheasant** [+1]  (2 days later)
 >>>> 
 >>>> [Beach episodes are always the best!](http://www.youtube.com/watch?v=QGkjUXcp1Js)
->>>> 
 
->>>> **u/l611** [+1]  *Mother of Learning**
+>>>> **u/l611** [+1]  *Mother of Learning* (13 days later)
 >>>> 
 >>>> exactly. half of my seriousness went out of the window when he said they were going to the beach. i was like the narrative power is so strong that we got a beach episode even in this.
->>>> 
 
-> **u/adgnatum** [+20] *
+> **u/adgnatum** [+19]  (4 hours later)
 > 
 > From chapter 44:
-> >“Ah,” said Solace with a smile. “That, I do not know. The spell I cast was not to find you specifically, but someone who was both willing and someday capable of helping me to save my druidic grove.”
-> For the spell, Zorisad Yosivun's Deep Searching, to succeed but the locus to be beyond restoration, the party could only gain the capability after it's already too late? Otherwise something does not add up.
-> >The fact that I now had a quest indicated that it was probably possible
-> ...but Juniper has been suspicious of that reasoning since the beginning.
-> &#x200B;
-> Maybe I am falling for a trap in the same vein as doing things 'because in stories they would work out'.
-> >PLUs
-> ???
-> Okay, the internet says "Price Look-Ups".
-> >The future that Cypress had built.
-> Oh. I think I get it. This is one of the ways the Library mispredicted the future. No Juniper, no split between Amaryllis and Bethel.
 > 
+> >“Ah,” said Solace with a smile. “That, I do not know. The spell I cast was not to find you specifically, but someone who was both willing and someday capable of helping me to save my druidic grove.”
+> 
+> For the spell, Zorisad Yosivun's Deep Searching, to succeed but the locus to be beyond restoration, the party could only gain the capability after it's already too late? Otherwise something does not add up.
+> 
+> >The fact that I now had a quest indicated that it was probably possible
+> 
+> ...but Juniper has been suspicious of that reasoning since the beginning.
+> 
+> &#x200B;
+> 
+> Maybe I am falling for a trap in the same vein as doing things 'because in stories they would work out'.
+> 
+> >PLUs
+> 
+> ???
+> 
+> Okay, the internet says "Price Look-Ups".
+> 
+> >The future that Cypress had built.
+> 
+> Oh. I think I get it. This is one of the ways the Library mispredicted the future. No Juniper, no split between Amaryllis and Bethel.
 
->> **u/Xtraordinaire** [+10]  *Team Glimglam**
+>> **u/Xtraordinaire** [+10]  *Team Glimglam* (10 hours later)
 >> 
 >> > For the spell, Zorisad Yosivun's Deep Searching, to succeed but the locus to be beyond restoration, the party could only gain the capability after it's already too late? Otherwise something does not add up.
->> Being capable doesn't mean doing the thing. For all we know, Joon+grpup could be *capable* of doing it *right now* without realizing it (i.e. Bethel eating the bottle). Zorisad Yosivun is a genie, so all the warnings about wording requests and interpreting the answers fully apply.
 >> 
+>> Being capable doesn't mean doing the thing. For all we know, Joon+grpup could be *capable* of doing it *right now* without realizing it (i.e. Bethel eating the bottle). Zorisad Yosivun is a genie, so all the warnings about wording requests and interpreting the answers fully apply.
 
->>> **u/adgnatum** [+3] *
+>>> **u/adgnatum** [+3]  (15 hours later)
 >>> 
 >>> >Being capable doesn't mean doing the thing.
->>> Yes, but capability implies possibility, and Juniper worries it might not be possible 😛
->>> >For all we know, Joon+group could be *capable* of doing it *right now* without realizing it (i.e. Bethel eating the bottle).
->>> !
->>> &#x200B;
->>> The specific example of Bethel also gives me another idea, that there might be a way but no prior validation that it is one.
 >>> 
+>>> Yes, but capability implies possibility, and Juniper worries it might not be possible 😛
+>>> 
+>>> >For all we know, Joon+group could be *capable* of doing it *right now* without realizing it (i.e. Bethel eating the bottle).
+>>> 
+>>> !
+>>> 
+>>> &#x200B;
+>>> 
+>>> The specific example of Bethel also gives me another idea, that there might be a way but no prior validation that it is one.
 
->> **u/RiggSesamekesh** [+8] *
+>> **u/RiggSesamekesh** [+7]  (18 hours later)
 >> 
 >> They may well have been eventually capable *then* but not eventually capable *now*. For instance, what if Fenn was somehow necessary to restoring the locus? Or access to the library? Or skin magic outside of Li'o?
->> 
 
->>> **u/adgnatum** [+2] *
+>>> **u/adgnatum** [+2]  (18 hours later)
 >>> 
 >>> Plausible, even if it doesn't explain Juniper's immediate doubts.
->>> >Or skin magic somewhere outside of Li'o
->>> !
 >>> 
+>>> >Or skin magic somewhere outside of Li'o
+>>> 
+>>> !
 
->>>> **u/RiggSesamekesh** [+2] *
+>>>> **u/RiggSesamekesh** [+2]  (18 hours later)
 >>>> 
 >>>> Shit you right. Changed the spoiler to something less recent
->>>> 
 
->>>>> **u/adgnatum** [+6] *
+>>>>> **u/adgnatum** [+6]  (18 hours later)
 >>>>> 
 >>>>> On the contrary, I thought the exclusion zone was a good example of something beyond druid foresight.
->>>>> 
 
->> **u/Veedrac** [+2] *
+>> **u/Veedrac** [+2]  (8 hours later)
 >> 
 >> >> ~~The fact that I now had a quest indicated that it was probably possible~~
->> > ~~...but Juniper has been suspicious of that reasoning since the beginning.~~
->> ~~Locus magic said they would be “someday capable of helping [Solace] to save [her] druidic grove.” So at worst they'll be too late, rather than insufficiently capable.~~
->> E: I don't even know why this was upvoted, I clearly didn't read the parent post.
 >> 
+>> > ~~...but Juniper has been suspicious of that reasoning since the beginning.~~
+>> 
+>> ~~Locus magic said they would be “someday capable of helping [Solace] to save [her] druidic grove.” So at worst they'll be too late, rather than insufficiently capable.~~
+>> 
+>> E: I don't even know why this was upvoted, I clearly didn't read the parent post.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (10 hours later)
 >>> 
 >>> Edit: I don't think that's it, probably more thinking outside of the box?
->>> 
 
-> **u/CaptainMcSmash** [+17] *
+> **u/CaptainMcSmash** [+16]  (3 hours later)
 > 
 > Y'know, sometimes when you read about stories with super powers, you might think about how cool the strength or durability would be to have. But it's the multitasking that's the absolute most appealing thing to me so far here. Christ it would be so useful and increase productivity so much.
-> 
 
->> **u/RiOrius** [+18] *
+>> **u/RiOrius** [+17]  (3 hours later)
 >> 
 >> Sure, but I think this update showed how much of a double edged sword it would be.
->> 
 
-> **u/HeckDang** [+14] *
+> **u/HeckDang** [+15]  (12 hours later)
 > 
 > More than anything, the last chapter made me very hopeful about Bethel's moral character at her core. At this point I'm confident she had no intention of hurting or traumatizing Juniper and she seemed pretty quick to gather why what she did had that effect, and seemed very regretful for it. Before that conversation I would have thought it plausible that things could have gone a *lot* worse, but this to me suggests Bethel is much more than a chaotic evil murderhouse.
-> 
 
->> **u/CouteauBleu** [+10]  *We are the Empire.**
+>> **u/CouteauBleu** [+9]  *We are the Empire.* (16 hours later)
 >> 
 >> It wouldn't say she was regretful.
->> She's showing some good signs, but her attitude overall is more "sorry she got caught" than "sorry, and will try to be better from then on" (see also, her blaming Joon for feeling upset).
 >> 
+>> She's showing some good signs, but her attitude overall is more "sorry she got caught" than "sorry, and will try to be better from then on" (see also, her blaming Joon for feeling upset).
 
->>> **u/Revlar** [+13] *
+>>> **u/Revlar** [+11]  (18 hours later)
 >>> 
 >>> I don't think what you say disagrees with the parent comment. After the last batch there was the potential for a truly sociopathic Bethel that becomes a threat. What the last chapter of this one shows is that she's just emotionally immature, as many people in the world are, and that doesn't excuse her or mitigate the harm she did, but it does cement moral dimensions that weren't as clear before.
->>> 
 
-> **u/Bezant** [+12] *
+> **u/Bezant** [+13]  (5 hours later)
 > 
 > I was thinking there might have been more from the angle of Bethel being a completely alien intelligence.
-> 
 
->> **u/I_Probably_Think** [+9] *
+>> **u/I_Probably_Think** [+9]  (9 hours later)
 >> 
 >> That could have been awesome if only we interacted meaningfully with inhuman sentiences enough to be able to portray it!
->> What I mean is, I think that would be incredibly difficult to pull off and that the substitute of "people* act like humans" is still a fine/good substitute.
->> *"People" as in sentient beings or somesuch
 >> 
+>> What I mean is, I think that would be incredibly difficult to pull off and that the substitute of "people* act like humans" is still a fine/good substitute.
+>> 
+>> *"People" as in sentient beings or somesuch
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (10 hours later)
 >> 
 >> Yeah I wanted to know why she ignored him saying no. What was her rationale for that?
->> If it was because she thinks his Morland are prudish then why did no one ever tell her when they gave her a physical body about how consent works?
->> If it was because she was physically overwhelmed with lust then that's another issue
 >> 
+>> If it was because she thinks his Morland are prudish then why did no one ever tell her when they gave her a physical body about how consent works?
+>> 
+>> If it was because she was physically overwhelmed with lust then that's another issue
 
->>> **u/LordSwedish** [+18]  *Q Continuum**
+>>> **u/LordSwedish** [+15]  *Q Continuum* (12 hours later)
 >>> 
 >>> She wanted it and genuinely thought he did too. She thought he was being weird and prudish and she knew for a fact that it was pleasurable to him.
->>> The very simple truth for why a lot of horrible things happen despite there not being any/much malice behind it is that people sometimes plan out an idea of what’s going to happen and stick to it. Bethel thought she knew what was going to happen and how it was going to turn out, she thought she could get what she wanted and Joon would be happy once it was done. Then there was an obstacle and Bethel rationalized it. She could even tell that he was receiving pleasure so her rationalization made sense. While it was a much lesser degree, I have personally experienced this many times before and I think almost everyone has, if not personally then on a macro level.
->>> Throw in the fact that Bethel doesn’t really understand people’s minds and that her past makes it nearly impossible for her to think of herself as someone who abuses and takes advantage of people she likes....
 >>> 
+>>> The very simple truth for why a lot of horrible things happen despite there not being any/much malice behind it is that people sometimes plan out an idea of what’s going to happen and stick to it. Bethel thought she knew what was going to happen and how it was going to turn out, she thought she could get what she wanted and Joon would be happy once it was done. Then there was an obstacle and Bethel rationalized it. She could even tell that he was receiving pleasure so her rationalization made sense. While it was a much lesser degree, I have personally experienced this many times before and I think almost everyone has, if not personally then on a macro level.
+>>> 
+>>> Throw in the fact that Bethel doesn’t really understand people’s minds and that her past makes it nearly impossible for her to think of herself as someone who abuses and takes advantage of people she likes....
 
->>>> **u/RMcD94** [+0] *
+>>>> **u/RMcD94** [+0]  (a day later)
 >>>> 
 >>>> So the first part is irrelevant. Wanting something has nothing to do with consent.
->>>> If he said no then he didn't consent. That means that either no one told Bethel about consent in which case the solution is very simple yet Val avoids doing so.
->>>> Or she did in which case she wanted to rape and hurt Joon. Why would she want to rape Joon?
 >>>> 
+>>>> If he said no then he didn't consent. That means that either no one told Bethel about consent in which case the solution is very simple yet Val avoids doing so.
+>>>> 
+>>>> Or she did in which case she wanted to rape and hurt Joon. Why would she want to rape Joon?
 
->>>>> **u/LordSwedish** [+8]  *Q Continuum**
+>>>>> **u/LordSwedish** [+8]  *Q Continuum* (a day later)
 >>>>> 
 >>>>> I...you do realize that this exact situation happens with people (aside from the “reading body functions and inhuman intelligence”) right? People who know about consent plan things out and become sure that the other person will like it an be happy, and then think that the other person saying “no” just doesn’t really mean it.
->>>>> Strip away the fantastical elements and the exact situation described in the book happens in the real world, and it happens a lot. The reason I described things like I did in my comment was to draw parallels to real world events.
 >>>>> 
+>>>>> Strip away the fantastical elements and the exact situation described in the book happens in the real world, and it happens a lot. The reason I described things like I did in my comment was to draw parallels to real world events.
 
->>>>>> **u/RMcD94** [+1] *
+>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>> 
 >>>>>> Right and unless those people were raised in Fritz basement they know consent is and they knew they were raping someone. Saying someone will be happy afterwards makes no sense unless you don't understand what consent is 
->>>>>> If you think Bethel knew that she was raping him then why did Bethel do it? 
->>>>>> If she didn't know it was rape then why didn't she know what consent is?
 >>>>>> 
+>>>>>> If you think Bethel knew that she was raping him then why did Bethel do it? 
+>>>>>> 
+>>>>>> If she didn't know it was rape then why didn't she know what consent is?
 
->>>>>>> **u/LordSwedish** [+10]  *Q Continuum**
+>>>>>>> **u/LordSwedish** [+11]  *Q Continuum* (a day later)
 >>>>>>> 
 >>>>>>> I think you are vastly overestimating people. On this subreddit there were people arguing last thread that Joon wasn’t raped. That isn’t an anomaly, Joons fear that Amaryllis won’t believe him isn’t unfounded. Less than a week ago a lawyer got his client free in a rape case by arguing that it isn’t rape unless it’s a stranger literally holding a gun to your head and threatening you verbally. 
->>>>>>> I’d like to live in a world where it takes someone “raised in Fritzl’s basement” but unfortunately it doesn’t take a lot of experience with people to learn that I don’t.
 >>>>>>> 
+>>>>>>> I’d like to live in a world where it takes someone “raised in Fritzl’s basement” but unfortunately it doesn’t take a lot of experience with people to learn that I don’t.
 
->>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> Well that's ridiculous, if you say no then have sex you've been raped unless you have a safe word.
->>>>>>>> Also, is the sexual consent norms the same on Aerb then?
 >>>>>>>> 
+>>>>>>>> Also, is the sexual consent norms the same on Aerb then?
 
->>>>>>>>> **u/LordSwedish** [+4]  *Q Continuum**
+>>>>>>>>> **u/LordSwedish** [+4]  *Q Continuum* (a day later)
 >>>>>>>>> 
 >>>>>>>>> Yes, that is true. I'm saying that right now, in the real world, a shit ton of otherwise normal people would not properly understand that and think that their circumstances are different. Tons and tons of young people, older people, and everything in between, could be (and have been) in a situation where they think that the person saying no doesn't really mean it and proceed anyway.
->>>>>>>>> These people haven't been raised in Fritzl's basement, you are just vastly overestimating how well people in general understand this subject and how rational people tend to be.
 >>>>>>>>> 
+>>>>>>>>> These people haven't been raised in Fritzl's basement, you are just vastly overestimating how well people in general understand this subject and how rational people tend to be.
 
->>>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Those people have been raised in western society where I think we can agree the responsibility on understanding rape has fallen onto them because it is taught in schools, by parents and by media.
->>>>>>>>>> My point was that Bethel never got such a moral education and never attended sex education class and has no idea about the cultural norms on Aerb never mind Joon's ones.
->>>>>>>>>> But if she did know then she's super evil. More than any normal human
 >>>>>>>>>> 
+>>>>>>>>>> My point was that Bethel never got such a moral education and never attended sex education class and has no idea about the cultural norms on Aerb never mind Joon's ones.
+>>>>>>>>>> 
+>>>>>>>>>> But if she did know then she's super evil. More than any normal human
 
->>>>>>>>>>> **u/LordSwedish** [+5]  *Q Continuum**
+>>>>>>>>>>> **u/LordSwedish** [+4]  *Q Continuum* (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Why though? She understands it because she was subjected to it, she reads through her huge library, and she watches peoples dreams. I think it's safe to say she understands the concept of being used and how it's horrible very well even if certain specifics of sexual consent may not be part of it. She certainly knows more than enough to understand that no means no.
->>>>>>>>>>> Why is she more evil than any human? As I said, those humans who are themselves responsible for understanding rape do still make the same mistake Bethel does, why is her sin so much worse?
 >>>>>>>>>>> 
+>>>>>>>>>>> Why is she more evil than any human? As I said, those humans who are themselves responsible for understanding rape do still make the same mistake Bethel does, why is her sin so much worse?
 
->>>>>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> A few things explained by other users, first is Bethel has familiarity with rape and so knows what it's like first hand unlike most rapists who have never been raped and as you say might argue out of ignorance. 
->>>>>>>>>>>> Second Bethel can see Joon more deeply than anyone so she can see the heightened fear drug flowing through him and other internal signs of rape which other people couldn't.
->>>>>>>>>>>> Third Bethel is a detached entity she is not that physical body and so unlike mortals she is not bound to the random swings of hormones that can influence humans strongly.
->>>>>>>>>>>> Fourthly as Bethel is their house she has an obligation as a house to be like a home. That is provide a safe place and satisfy all the things that you would want from a home, like not worrying about being raped. She like a wife raping husband, or a mother raping her daughter, worse than a stranger raping someone imo because there is a greater violation.
->>>>>>>>>>>> Fifthly, if Bethel understood rape then she did it anyway because she's a sadist
 >>>>>>>>>>>> 
+>>>>>>>>>>>> Second Bethel can see Joon more deeply than anyone so she can see the heightened fear drug flowing through him and other internal signs of rape which other people couldn't.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Third Bethel is a detached entity she is not that physical body and so unlike mortals she is not bound to the random swings of hormones that can influence humans strongly.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Fourthly as Bethel is their house she has an obligation as a house to be like a home. That is provide a safe place and satisfy all the things that you would want from a home, like not worrying about being raped. She like a wife raping husband, or a mother raping her daughter, worse than a stranger raping someone imo because there is a greater violation.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Fifthly, if Bethel understood rape then she did it anyway because she's a sadist
 
->>>>>>>>>>>>> **u/LordSwedish** [+5]  *Q Continuum**
+>>>>>>>>>>>>> **u/LordSwedish** [+4]  *Q Continuum* (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> 1. 
 >>>>>>>>>>>>> agreed
->>>>>>>>>>>>> 2. 
->>>>>>>>>>>>> > Bethel can see Joon more deeply than anyone so she can see the heightened fear drug flowing through him and other internal signs of rape which other people couldn't.
->>>>>>>>>>>>> She could also see the pleasure. Valencia points out how physical and psychological pleasure are different, how fear and pleasure pathways are similar, and how Joon has the doublethink ability which convinces Bethel that she may have been mistaken while reading him.
->>>>>>>>>>>>> 3.  
->>>>>>>>>>>>> > Bethel is a detached entity she is not that physical body
->>>>>>>>>>>>> She is though. That physical body isn't all of her, but it's part of her and anatomically correct. At the time she is literally under the effect of hormones.
->>>>>>>>>>>>> 4.
->>>>>>>>>>>>> >She like a wife raping husband, or a mother raping her daughter,
->>>>>>>>>>>>> This is the absolute majority of rapes. Being raped by a stranger is much less likely than being raped by someone you know personally. It sucks, but it's true. You can't say she's worse than people if what she does is what usually happens.
->>>>>>>>>>>>> 5.
->>>>>>>>>>>>> >if Bethel understood rape then she did it anyway because she's a sadist
->>>>>>>>>>>>> I have said this before but I'll try to explain it as simply as I can. People who understand rape and consent rape anyway without malice or understanding that it's wrong. Yes, that's weird. No it makes no logical sense. It's the same reason why people are anti-abortion but get one themselves because their case is "different" and they continue to judge everyone else. It's the same reason why nazi concentration camp guards could go home every day and be loving parents to their families and not think they did anything wrong. Cognitive dissonance is very powerful and people don't think rationally.
->>>>>>>>>>>>> Bethel understands that no means no, but in this case she thought it didn't mean that because this was "different". She understands that you're not supposed to force yourself on someone, but "Joon would be happy" once it was over. Yes, this isn't true. This isn't what happened. This exact thought process goes through peoples heads all the time. It's not because they're overwhelmed by hormones, instincts, or drugs, it's because people, when faced with facts that conflict with their beliefs, are as likely to change the facts as they are to change their beliefs...to be honest they're more likely to change the facts.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> 2. 
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Bethel can see Joon more deeply than anyone so she can see the heightened fear drug flowing through him and other internal signs of rape which other people couldn't.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> She could also see the pleasure. Valencia points out how physical and psychological pleasure are different, how fear and pleasure pathways are similar, and how Joon has the doublethink ability which convinces Bethel that she may have been mistaken while reading him.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> 3.  
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Bethel is a detached entity she is not that physical body
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> She is though. That physical body isn't all of her, but it's part of her and anatomically correct. At the time she is literally under the effect of hormones.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> 4.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> >She like a wife raping husband, or a mother raping her daughter,
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> This is the absolute majority of rapes. Being raped by a stranger is much less likely than being raped by someone you know personally. It sucks, but it's true. You can't say she's worse than people if what she does is what usually happens.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> 5.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> >if Bethel understood rape then she did it anyway because she's a sadist
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> I have said this before but I'll try to explain it as simply as I can. People who understand rape and consent rape anyway without malice or understanding that it's wrong. Yes, that's weird. No it makes no logical sense. It's the same reason why people are anti-abortion but get one themselves because their case is "different" and they continue to judge everyone else. It's the same reason why nazi concentration camp guards could go home every day and be loving parents to their families and not think they did anything wrong. Cognitive dissonance is very powerful and people don't think rationally.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Bethel understands that no means no, but in this case she thought it didn't mean that because this was "different". She understands that you're not supposed to force yourself on someone, but "Joon would be happy" once it was over. Yes, this isn't true. This isn't what happened. This exact thought process goes through peoples heads all the time. It's not because they're overwhelmed by hormones, instincts, or drugs, it's because people, when faced with facts that conflict with their beliefs, are as likely to change the facts as they are to change their beliefs...to be honest they're more likely to change the facts.
 
->>>>>>>>>>>>>> **u/RMcD94** [+2] *
+>>>>>>>>>>>>>> **u/RMcD94** [+2]  (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> Remind me to reply in a few days when I've got my laptop I'm not responding as you deserve with a shitty phone keyboard
->>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>> **u/LordSwedish** [+2]  *Q Continuum**
+>>>>>>>>>>>>>>> **u/LordSwedish** [+2]  *Q Continuum* (11 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> If you are still interested in continuing this discussion, this is a reminder.
->>>>>>>>>>>>>>> 
 
-> **u/None** [+21] *
+> **u/None** [+22]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Makin-** [+19]  *homestuck ratfic, you can do it**
+>> **u/Makin-** [+20]  *homestuck ratfic, you can do it* (5 hours later)
 >> 
 >> > and just wanted to get closer to him and make him happy
->> I mean, sure, but this is the same house that said 
->> ><I enjoy seeing his reactions,> replied Bethel. <Like an insect, trapped in a bottle, prodded with a stick.>
 >> 
+>> I mean, sure, but this is the same house that said 
+>> 
+>> ><I enjoy seeing his reactions,> replied Bethel. <Like an insect, trapped in a bottle, prodded with a stick.>
 
->>> **u/None** [+41] *
+>>> **u/None** [+40]  (6 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/SamuraiMackay** [+11] *
+>>>> **u/SamuraiMackay** [+11]  (9 hours later)
 >>>> 
 >>>> Damn that was a really good analogy.
->>>> 
 
->>>> **u/UPBOAT_FORTRESS_2** [+3] *
+>>>> **u/UPBOAT_FORTRESS_2** [+3]  (a day later)
 >>>> 
 >>>> >The only thing she knows about humans is what she has learned from observing them and guessing about why they do things, and also, uh, killing them for like a hundred years
->>>> \+ Things that Uther taught her. I feel like this is an important category separate from more or less passive "observation"
 >>>> 
+>>>> \+ Things that Uther taught her. I feel like this is an important category separate from more or less passive "observation"
 
->>>> **u/RMcD94** [-2] *
+>>>> **u/RMcD94** [-2]  (10 hours later)
 >>>> 
 >>>> Whoever gave her physical flesh without testing if the desires would overpower her was pretty irresponsible
->>>> 
 
->>>>> **u/LLJKCicero** [+8] *
+>>>>> **u/LLJKCicero** [+7]  (12 hours later)
 >>>>> 
 >>>>> I thought it was her that did that?
->>>>> 
 
->>>>>> **u/RMcD94** [+0] *
+>>>>>> **u/RMcD94** [-1]  (13 hours later)
 >>>>>> 
 >>>>>> Turns out it was picked up when she was forced to store entads on the rath mission she didn't want to go on but was made to by her owners
->>>>>> It's a shame none of them care about her to check up on such serious psychological risks. I guess she doesn't have a lot of power so her psychological state isn't important
 >>>>>> 
+>>>>>> It's a shame none of them care about her to check up on such serious psychological risks. I guess she doesn't have a lot of power so her psychological state isn't important
 
->>>>>>> **u/LLJKCicero** [+8] *
+>>>>>>> **u/LLJKCicero** [+7]  (13 hours later)
 >>>>>>> 
 >>>>>>> > I guess she doesn't have a lot of power
->>>>>>> Are you reading the same web serial I am?
 >>>>>>> 
+>>>>>>> Are you reading the same web serial I am?
 
->>>>>>>> **u/ricree** [+6] *
+>>>>>>>> **u/ricree** [+5]  (20 hours later)
 >>>>>>>> 
 >>>>>>>> I read that comment as being very obviously sarcastic.
->>>>>>>> 
 
->>>>>>>> **u/RMcD94** [+3] *
+>>>>>>>> **u/RMcD94** [+4]  (a day later)
 >>>>>>>> 
 >>>>>>>> That was sarcasm
->>>>>>>> 
 
->>> **u/Xtraordinaire** [+2]  *Team Glimglam**
+>>> **u/Xtraordinaire** [+2]  *Team Glimglam* (10 hours later)
 >>> 
 >>> It's hard to say, whether this was sincere. If this was said to anyone but Amaryllis, it would've been more clear, but her goal in that conversation was to hurt Mary, so anything could have been a lie to serve that minutae goal.
->>> 
 
->>>> **u/Makin-** [+5]  *homestuck ratfic, you can do it**
+>>>> **u/Makin-** [+5]  *homestuck ratfic, you can do it* (10 hours later)
 >>>> 
 >>>> Yeah, but Mary is Juniper's best friend so hurting her is not really making him happy by any interpretation.
->>>> 
 
->>>>> **u/Xtraordinaire** [+6]  *Team Glimglam**
+>>>>> **u/Xtraordinaire** [+5]  *Team Glimglam* (10 hours later)
 >>>>> 
 >>>>> That conversation was private. High probability she's betting on it staying private, with Mary being stoic as she is. 
->>>>> Should probably be noted, that the end result of that conversation was basically the opposite of what Bethel expected out of it.
 >>>>> 
+>>>>> Should probably be noted, that the end result of that conversation was basically the opposite of what Bethel expected out of it.
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (10 hours later)
 >> 
 >> Why do you think she ignored his no then?
->> 
 
->>> **u/AStartlingStatement** [+6] *
+>>> **u/AStartlingStatement** [+4]  (23 hours later)
 >>> 
 >>> Why did the crystal react differently than how the house thought it would? Becuase after observing the act it understood the mechanics of it but it didn't understand nuance.
->>> 
 
->>>> **u/RMcD94** [+1] *
+>>>> **u/RMcD94** [+1]  (a day later)
 >>>> 
 >>>> So first reaction probably shouldn't be to murder the house as if it was malicious
->>>> 
 
->>>>> **u/Argenteus_CG** [+2] *
+>>>>> **u/Argenteus_CG** [+2]  (6 days later)
 >>>>> 
 >>>>> And Juniper agrees with you. As do I, in fact. Amaryllis doesn't, because she's always had a bit of an aggressive streak, jumping to violence much more readily than others would. It's more subtle than your typical fantasy barbarian type, sure, because she's ALSO intelligent and calculating, but from the very beginning of the story she has a bit of a history of unnecessary violence.
->>>>> 
 
-> **u/carminis_vigil** [+30] *
+> **u/carminis_vigil** [+31]  (10 hours later)
 > 
 > That was a tough read, but a really rewarding one. I will admit I had been worried about whether this would be handled well - but not anymore. 
-> > *So, we had sex, and I pretended that I was fine with it, and I’ve been stepping on eggshells and edited my spirit, and I’ve been feeling like shit about it, and that’s why I’m not as happy as I should be about you trying to make this themed beach outing a success, and it’s why seeing you in a bikini is making me a little bit anxious instead of just horny, not that you would want that, unless for some reason you do.*
-> Much like Juniper, I was a little concerned what Amaryllis' reaction would be. After this paragraph, I was on the edge of my seat wondering whether the omission of those unsaid words would mean she didn't have a good reaction.
-> > “How do you feel about her now?” asked Amaryllis.
-> > “Afraid, mostly,” I said. “Hurt, confused, sick. Ashamed. I’m worried she’ll … I don’t know.”
-> > Amaryllis was staring out at the sea. “When I’m finished with her there won’t be a piece bigger than a splinter.”
-> To see her so angry, so supportive, and so willing to prioritise this above all other concerns is deeply satisfying. Amaryllis is the fucking best. 
-> > “Those are problems we’ll have to deal with,” said Amaryllis. “They’re not inconsequential.”
-> I really like how she doesn't dismiss Juniper's worry about the big logistical difficulties, but rather notes them as lesser concerns.
-> > “It’s going to be hard for me, knowing what I know, to doublethink around Juniper,” said Valencia. “I would rather not have to try. It was already hard not to pick up anything, before. I knew that something was wrong, really wrong, I just …” she squeezed her fists. “I didn’t want to betray trust.”
-> Valencia here stands as a beautiful contrast to Bethel, as someone who had access to enormous power (in this case, social power rather than pure might), and who stopped when she was asked. 
-> > “You would call it that, if it were someone else,” said Valencia.
-> Damn right, and exactly what he needed to hear (obviously, because devil).
-> > “I don’t have to risk my life for you,” said Valencia. “I choose to risk my life because it’s my life to do with as I please. If it could be me or someone else, I would still volunteer. That there’s no other option only simplifies things.”
-> Okay, Mary and Valencia can be tied for the best.
-> > “There are no words,” Valencia lied. 
-> "I could, but I fucking won't," Valencia thought.
 > 
+> > *So, we had sex, and I pretended that I was fine with it, and I’ve been stepping on eggshells and edited my spirit, and I’ve been feeling like shit about it, and that’s why I’m not as happy as I should be about you trying to make this themed beach outing a success, and it’s why seeing you in a bikini is making me a little bit anxious instead of just horny, not that you would want that, unless for some reason you do.*
+> 
+> Much like Juniper, I was a little concerned what Amaryllis' reaction would be. After this paragraph, I was on the edge of my seat wondering whether the omission of those unsaid words would mean she didn't have a good reaction.
+> 
+> > “How do you feel about her now?” asked Amaryllis.
+> 
+> > “Afraid, mostly,” I said. “Hurt, confused, sick. Ashamed. I’m worried she’ll … I don’t know.”
+> 
+> > Amaryllis was staring out at the sea. “When I’m finished with her there won’t be a piece bigger than a splinter.”
+> 
+> To see her so angry, so supportive, and so willing to prioritise this above all other concerns is deeply satisfying. Amaryllis is the fucking best. 
+> 
+> > “Those are problems we’ll have to deal with,” said Amaryllis. “They’re not inconsequential.”
+> 
+> I really like how she doesn't dismiss Juniper's worry about the big logistical difficulties, but rather notes them as lesser concerns.
+> 
+> > “It’s going to be hard for me, knowing what I know, to doublethink around Juniper,” said Valencia. “I would rather not have to try. It was already hard not to pick up anything, before. I knew that something was wrong, really wrong, I just …” she squeezed her fists. “I didn’t want to betray trust.”
+> 
+> Valencia here stands as a beautiful contrast to Bethel, as someone who had access to enormous power (in this case, social power rather than pure might), and who stopped when she was asked. 
+> 
+> > “You would call it that, if it were someone else,” said Valencia.
+> 
+> Damn right, and exactly what he needed to hear (obviously, because devil).
+> 
+> > “I don’t have to risk my life for you,” said Valencia. “I choose to risk my life because it’s my life to do with as I please. If it could be me or someone else, I would still volunteer. That there’s no other option only simplifies things.”
+> 
+> Okay, Mary and Valencia can be tied for the best.
+> 
+> > “There are no words,” Valencia lied. 
+> 
+> "I could, but I fucking won't," Valencia thought.
 
-> **u/jaspercb** [+8]  *Gravitas Free Zone**
+> **u/jaspercb** [+7]  *Gravitas Free Zone* (16 minutes later)
 > 
 > Great chapters as always. If this means we get more chapters where Bethel and Valencia the Dynamic Duo get into wacky hijinks wandering around Aerb, even better.
-> 
 
-> **u/cthulhuraejepsen** [+8]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+7]  *Fruit flies like a banana* (3 minutes later)
 > 
 > Typos here, please.
-> 
 
->> **u/LLJKCicero** [+6] *
+>> **u/LLJKCicero** [+5]  (12 hours later)
 >> 
 >> You described playing chicken, then referred to the position as "piggyback". I don't know if this is a regional dialect thing, but "piggyback" to me always means the position with arms over the over person's shoulders, not legs over their shoulders.
->> Now I'm looking at definitions online and it appears to be either. Huh.
 >> 
+>> Now I'm looking at definitions online and it appears to be either. Huh.
 
->>> **u/silian** [+3] *
+>>> **u/silian** [+3]  (14 hours later)
 >>> 
 >>> Piggyback means the same for me, arms on shoulder, a girl with her legs on your shoulders would just be on your shoulders. It must be regional. I also know playing chicken with girls on your shoulders in the water to involve trying to remove the other parties top, but that's clearly not the context of the game here  and it would be really inappropriate.
->>> 
 
->>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (16 hours later)
 >>> 
 >>> Usually I keep the regionalisms and ideolect stuff, but I'll change that one for clarity.
->>> 
 
->> **u/Kerbal_NASA** [+5] *
+>> **u/Kerbal_NASA** [+5]  (8 hours later)
 >> 
 >> ch. 166
->> > Most of the time it was perpetually overcast
->> I found the wording here confusing, like its that joke phrase "60% of the time it works 100% of the time!"
->> ch. 167
->> >which likewise had been held by back unwritten rules.
->> by back -> back by
 >> 
+>> > Most of the time it was perpetually overcast
+>> 
+>> I found the wording here confusing, like its that joke phrase "60% of the time it works 100% of the time!"
+>> 
+>> ch. 167
+>> 
+>> >which likewise had been held by back unwritten rules.
+>> 
+>> by back -> back by
 
->>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana* (16 hours later)
 >>> 
 >>> Fixed the first to be "completely", which I think is what I meant.
->>> Fixed the second, thanks.
 >>> 
+>>> Fixed the second, thanks.
 
->> **u/Ilverin** [+3] *
+>> **u/Ilverin** [+3]  (2 hours later)
 >> 
 >> Chapter 9
->> > I trialed off
->> Probably should be trailed
 >> 
+>> > I trialed off
+>> 
+>> Probably should be trailed
 
->>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana* (2 hours later)
 >>> 
 >>> Fixed, thanks.
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (10 hours later)
 >> 
 >> Chapter 162
->> > You stomped your way through the annex, you did things that should  have resulted in your death a hundred times over, and it was all  enjoyable enough, I supposed. 
->> Probably should be I suppose?
 >> 
+>> > You stomped your way through the annex, you did things that should  have resulted in your death a hundred times over, and it was all  enjoyable enough, I supposed. 
+>> 
+>> Probably should be I suppose?
 
->>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (16 hours later)
 >>> 
 >>> Fixed, thanks.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (18 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (2 days later)
 >>> 
 >>> Fixed, thanks.
->>> 
 
->> **u/sicutumbo** [+1] *
+>> **u/sicutumbo** [+1]  (19 hours later)
 >> 
 >> >“Alright,” said Amaryllis. She still sounded completely normal, but I heard a sound and looked down to see her hands, which were gripping the sand.
->> Ch167. As noted a few times, the beach has rocks but no sand.
 >> 
+>> Ch167. As noted a few times, the beach has rocks but no sand.
 
->>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana* (2 days later)
 >>> 
 >>> It gets called sand in a few places. Part of the idea is just that Juniper is fixating on the stuff that's wrong, like the grains of sand being too large, despite the fact that whether it fits the legal definition of sand or the legal definition of gravel is ultimately unimportant. (I'm open to changing it, if you found it sufficiently distracting, but that particular use of 'sand' was because it didn't feel like the right place for Juniper bitching about the sand again.)
->>> 
 
->>>> **u/sicutumbo** [+1] *
+>>>> **u/sicutumbo** [+1]  (2 days later)
 >>>> 
 >>>> So long as it's intentional it's fine.
->>>> 
 
->> **u/cthulhusleftnipple** [+1] *
+>> **u/cthulhusleftnipple** [+1]  (3 days later)
 >> 
 >> Chapter 9: "The only spell I know is the one for sleep" should be "The only *other* spell I know is the one for sleep".
->> 
 
->> **u/LupoCani** [+1] *
+>> **u/LupoCani** [+1]  (8 days later)
 >> 
 >> Chapter 80: In the quest description, `Yaxukasu Axud` is misspelled `Yaxukasu Axad`.
->> 
 
->> **u/ToaKraka** [-3]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [-2]  *https://i.imgur.com/OQGHleQ.png* (23 minutes later)
 >> 
 >> > The doe seemed entirely disinterested in this monologue
->> \*uninterested
 >> 
+>> \*uninterested
 
->>> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+11]  *Time flies like an arrow* (26 minutes later)
 >>> 
 >>> Is there a reason you think that "disinterested" is incorrect there?
->>> 
 
->>>> **u/ToaKraka** [-3]  *https://i.imgur.com/OQGHleQ.png**
+>>>> **u/ToaKraka** [-2]  *https://i.imgur.com/OQGHleQ.png* (48 minutes later)
 >>>> 
 >>>> I don't think that it makes any sense to describe a person as "seeming disinterested" in response to visual inspection. A person can seem *un*interested very easily ("The doe gave no impression that she’d heard me aside from a flick of the ear.")&mdash;but I find it impossible to imagine, for example, a judge who seems *dis*interested when I look at him. (Obviously, a judge may "seem disinterested" in response to a financial or social audit&mdash;but that's not what the story is describing.)
->>>> A lack of material interest cannot be discerned from a person's demeanor.
 >>>> 
+>>>> A lack of material interest cannot be discerned from a person's demeanor.
 
->>>>> **u/alexanderwales** [+17]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+15]  *Time flies like an arrow* (59 minutes later)
 >>>>> 
 >>>>> Alright, so your objection is that "disinterested" should exclusively be used to mean "impartial". Got it. For the record, this is the sort of "typo correction" that I find incredibly grating, and I'm not going to be changing it. (Anyone else interested in the history of "disinterested" vs "uninterested" can [read here](https://www.merriam-webster.com/words-at-play/uninterested-or-disinterested).)
->>>>> 
 
->>>>>> **u/ToaKraka** [-17]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>> **u/ToaKraka** [-15]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 >>>>>> 
 >>>>>> I didn't realize you were a [descriptivist](https://knowyourmeme.com/memes/absolutely-disgusting). Maybe you should make explicit note of that in the "Typos here, please" comment.
->>>>>> 
 
->>>>>>> **u/Bowbreaker** [+8]  *Solitary Locust**
+>>>>>>> **u/Bowbreaker** [+5]  *Solitary Locust* (9 hours later)
 >>>>>>> 
 >>>>>>> Actually, demanding something like that would make *you* a descriptivist. He said **typos**. That's mistakes that come from rushed writing, not from supposedly incorrect use of language.
->>>>>>> 
 
->>>>>>> **u/azurebyrds** [-3] *
+>>>>>>> **u/azurebyrds** [-1]  (7 hours later)
 >>>>>>> 
 >>>>>>> Shut up, nerd.
->>>>>>> 
 
->>> **u/sumeone123** [+8] *
+>>> **u/sumeone123** [+9]  (44 minutes later)
 >>> 
 >>> I think disinterested is the better fit both contextually and character-wise; uninterested implies a level of boredom which doesn't quite jive with how the six-eyed doe is described.
->>> 
 
-> **u/None** [+16] *
+> **u/None** [+19]  (9 hours later)
 > 
 > >“So she could be listening in on this conversation,” said Pallida. “She could essentially be standing in the room with us.” She looked up at the sky. “I’m not a part of this!” she called. “I agreed to nothing!”
-> Have to say I lost all respect I had for Pallida here. Even if her unique life cycle has left her morally behind the times, she still pledged her life to Joon. For her to nope out because it is dangerous is disgusting.
-> At this point she is just a financial backer.
 > 
+> Have to say I lost all respect I had for Pallida here. Even if her unique life cycle has left her morally behind the times, she still pledged her life to Joon. For her to nope out because it is dangerous is disgusting.
+> 
+> At this point she is just a financial backer.
 
->> **u/XxChronOblivionxX** [+15] *
+>> **u/XxChronOblivionxX** [+15]  (18 hours later)
 >> 
 >> I did at least find it reasonable, she has lived through countless cultures with totally different mores and ethics. Experienced a lot of pains and probably inflicted a fair few herself. Her perspective doesn't consider this the end of the world, and she doesn't want to get in a fight she can't win or lose the assistance of the most OP member of the party just for that. 
->> Still though, she isn't a core party member in the first place, and her neutrality on this issue has been duly noted.
 >> 
+>> Still though, she isn't a core party member in the first place, and her neutrality on this issue has been duly noted.
 
->>> **u/None** [+8] *
+>>> **u/None** [+7]  (18 hours later)
 >>> 
 >>> She literally pledged her life to Juniper. At that point it doesn't matter if she has a different moral perspective that leads her to not take this issue seriously. She gave up the ability to sit things out where his welfare is concerned.
->>> 
 
->>>> **u/sfinebyme** [+3] *
+>>>> **u/sfinebyme** [+3]  (6 days later)
 >>>> 
 >>>> Yeah I'm super confused about the parameters of the.pledge, because it sure doesn't feel like much beyond cash so far.
->>>> 
 
->> **u/Allian42** [+10] *
+>> **u/Allian42** [+9]  (17 hours later)
 >> 
 >> I'll be honest, I never felt her as a part of the group. The way she joined, her loyalties, her priorities. She just feels like someone that is along for the ride, ready to jump ship when she gets to the port.
->> 
 
->> **u/sicutumbo** [+9] *
+>> **u/sicutumbo** [+9]  (13 hours later)
 >> 
 >> I read that more as her trying to make a joke to defuse tension. Maybe not in good taste, but she did stick around, so I do think she still backs Joon.
->> 
 
->>> **u/CouteauBleu** [+15]  *We are the Empire.**
+>>> **u/CouteauBleu** [+16]  *We are the Empire.* (16 hours later)
 >>> 
 >>> Nah, she explicitly says she's neutral right afterwards.
->>> 
 
->>> **u/sfinebyme** [+2] *
+>>> **u/sfinebyme** [+2]  (6 days later)
 >>> 
 >>> Yeah I've been reading Pallida as the sort of bizarro-Fenn - into Amy instead of Joon, tons of wealth instead of scrounging in the Risen Lands, and making jokes that are hurtful rather than funny.
->>> 
 
-> **u/None** [+4] *
+> **u/None** [+5]  (16 hours later)
 > 
 > prediction: doe busts out english soon. maybe the next loyalty boost is whatever allows it to communicate with solace
-> 
 
-> **u/None** [+21] *
+> **u/None** [+21]  (an hour later)
 > 
 > I am wary of saying this, but I do want to express my opinion on the subject. I *desperately* wish that rape hadn't happened. I did not particularly want to read an entire update more or less dedicated to managing the fallout of a rape. Of course, setting that bias aside, the execution was high quality as usual. I read the chapters and would even say I enjoyed them. But I would have vastly, *vastly* preferred to read an entire update about pretty much any other possible plot thread. Even another thread dedicated to Bethel being an inhuman monster fumbling her way through human interaction, as long as it wasn't about rape.
-> I've just read enough rape story arcs  for a lifetime. I dunno whether that means "I read too much fiction that relies on the rape card" or "I have unusually low tolerance for the rape card" but the difference is minimal in practice. I'm tired of seeing the formula play out. The victim getting all fucked up, the support network helping them out, the perpetrator either being brought to justice or redeemed. I've seen these steps too many times for them to have any novelty, and I just don't find them interesting at all without that novelty to distract me.
-> I'm still a huge fan of the story and will absolutely keep devouring every new update, but I will be extremely happy to put this arc behind us and move on to literally anything else.
 > 
+> I've just read enough rape story arcs  for a lifetime. I dunno whether that means "I read too much fiction that relies on the rape card" or "I have unusually low tolerance for the rape card" but the difference is minimal in practice. I'm tired of seeing the formula play out. The victim getting all fucked up, the support network helping them out, the perpetrator either being brought to justice or redeemed. I've seen these steps too many times for them to have any novelty, and I just don't find them interesting at all without that novelty to distract me.
+> 
+> I'm still a huge fan of the story and will absolutely keep devouring every new update, but I will be extremely happy to put this arc behind us and move on to literally anything else.
 
->> **u/SvalbardCaretaker** [+22]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+24]  *Mouse Army* (8 hours later)
 >> 
 >> What fiction do you consume where these kinds of story arcs are common and the norm? Honestly curious, not trying to start something.
->> 
 
->>> **u/LLJKCicero** [+19] *
+>>> **u/LLJKCicero** [+19]  (12 hours later)
 >>> 
 >>> Same, the way rape was handled here is really unusual for me. I read a lot of fantasy, and while rape/threat of rape do pop up occasionally, usually it's just some variant of "look at this evil dude being really evil, doing evil things". This is true usually even with woman-authored fantasy (e.g. Wandering Inn). Nowhere close to the more subtle situation with a potentially redeemable character that has been the case here.
->>> 
 
->>> **u/LordSwedish** [+7]  *Q Continuum**
+>>> **u/LordSwedish** [+7]  *Q Continuum* (12 hours later)
 >>> 
 >>> It’s common in mature online fiction. Online writers (outside specific circles) are often fairly progressive and when you hang out on the internet, rape and the perception around it can become something that affects you deeply. 
->>> Just look at the last chapter thread and the amount of people who didn’t think it was rape at all. The sad truth is that there will always be plenty of people who simply don’t understand the concept.
 >>> 
+>>> Just look at the last chapter thread and the amount of people who didn’t think it was rape at all. The sad truth is that there will always be plenty of people who simply don’t understand the concept.
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+4]  (14 hours later)
 >>>> 
 >>>> Yep. I was mostly talking about fanfiction, honestly. Fanfic writers are plenty willing to play the rape card to spice up the story, and while I like to believe that I mostly read good fanfiction that executes it well, it does still get old.
->>>> 
 
->>>>> **u/LordSwedish** [+5]  *Q Continuum**
+>>>>> **u/LordSwedish** [+4]  *Q Continuum* (14 hours later)
 >>>>> 
 >>>>> I do see where you’re coming from, but looking at comments every time it happens as well as news stories, I can’t really blame the writers (the good ones you mentioned anyway) for it. No matter how many stories do this kind of thing, there will always be new readers who only start thinking about it because of that specific story. As long as it isn’t handled poorly I don’t feel like it can be in too many stories. 
->>>>> With all that said, I do also think that I would be happier if this wasn’t the main focus of another bunch of chapters.   
->>>>> P.S. I do feel like this story thread fits entirely with the theme of “broken and damaged people parade and the traumas they suffer” in this story.
 >>>>> 
+>>>>> With all that said, I do also think that I would be happier if this wasn’t the main focus of another bunch of chapters.   
+>>>>> 
+>>>>> P.S. I do feel like this story thread fits entirely with the theme of “broken and damaged people parade and the traumas they suffer” in this story.
 
->>>>>> **u/None** [+3] *
+>>>>>> **u/None** [+4]  (15 hours later)
 >>>>>> 
 >>>>>> Yeah, I totally get it. It's easier to read lots of rape arcs and get tired of them than it is to write lots of them. I can't blame the writers of those fics, or AW, really. Nonetheless, I look forward to moving on.
->>>>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 days later)
 >>> 
 >>> It's been a theme in Pact and Ward, for example, two other high-quality pieces I'm reading. And for some reason the Deep In Pact podcast (which I'm reading along with) came to that specific chapter at the same time as this story *and* Ward.
->>> 
 
->> **u/Bowbreaker** [+5]  *Solitary Locust**
+>> **u/Bowbreaker** [+5]  *Solitary Locust* (9 hours later)
 >> 
 >> I'm curious about what those stories are as well. I don't think I've ever read any, though I mostly read fantasy. The only ones I can think of right now involved a rape proxy like magical mindrape or something. Closest that comes to mind is Ward with the whole >!Amy!< situation, though it doesn't seem like it is currently heading towards >!either justice or redemption!<.
->> That said, I have encountered these kinds of plotlines in other media. Movies and TV mostly
 >> 
+>> That said, I have encountered these kinds of plotlines in other media. Movies and TV mostly
 
->> **u/JustLookingToHelp** [+2] *
+>> **u/JustLookingToHelp** [+2]  (20 days later)
 >> 
 >> This is a very well written and polite critique.
->> 
 
->> **u/Veedrac** [+3] *
+>> **u/Veedrac** [+3]  (8 hours later)
 >> 
 >> I don't want to go into specific subjective criticisms, but I will say I too think this arc hasn't improved the story for me, and while a quick resolution is presumably off the table, I do hope this doesn't stay a pure focus for much longer.
->> 
 
->>> **u/I_Probably_Think** [+10] *
+>>> **u/I_Probably_Think** [+10]  (8 hours later)
 >>> 
 >>> It's interesting to think about this from the perspective we've been offered: AW writes WtC for multiple reasons but as I understand it, one of the original core goals was that the writing would be for his own personal sake. Perhaps this is a part of that, although it looks like some other readers liked the character development this arc has caused.
->>> 
 
->> **u/RMcD94** [-4] *
+>> **u/RMcD94** [-2]  (10 hours later)
 >> 
 >> Also it raises the question why Amy didn't explain rape and such like she did with Val to Bethel. Did they check what giving her a human form would do in terms of her mental capacity for resisting physical desires?
->> 
 
->>> **u/Noumero** [+11]  *Self-Appointed Court Statistician**
+>>> **u/Noumero** [+13]  *Self-Appointed Court Statistician* (11 hours later)
 >>> 
 >>> It has been my impression that Bethel just fished Oberlin's entad out of rubble, without permission of the rest of the party.
->>> As to why Amaryllis didn't explain, well:
->>> * There were much more pressing issues at that time.
->>> * How was she to know that consuming that entad would give Bethel sexual urges, instead of just a puppet to control?
->>> * How was she to know that Bethel would be interested in having sex with anyone?
->>> * How was she to know that Bethel didn't understand this already?
->>> * *You* try lecturing the murderhouse about morality.
 >>> 
+>>> As to why Amaryllis didn't explain, well:
+>>> 
+>>> * There were much more pressing issues at that time.
+>>> 
+>>> * How was she to know that consuming that entad would give Bethel sexual urges, instead of just a puppet to control?
+>>> 
+>>> * How was she to know that Bethel would be interested in having sex with anyone?
+>>> 
+>>> * How was she to know that Bethel didn't understand this already?
+>>> 
+>>> * *You* try lecturing the murderhouse about morality.
 
->>>> **u/Empiricist_or_not** [+13]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+11]  *Aspiring polite Hegemonizing swarm* (15 hours later)
 >>>> 
 >>>> Don't forget Amy is playing don't trigger the murder-house's baggage on being used as your patriarchs sex toy and then abandoned and misused by the rest of your family.
->>>> 
 
->>>> **u/Fredlage** [+7] *
+>>>> **u/Fredlage** [+7]  (14 hours later)
 >>>> 
 >>>> > It has been my impression that Bethel just fished Oberlin's entad out of rubble, without permission of the rest of the party.
->>>> Actually, it was Pallida who stole it.
 >>>> 
+>>>> Actually, it was Pallida who stole it.
 
->>>> **u/RMcD94** [+0] *
+>>>> **u/RMcD94** [+0]  (11 hours later)
 >>>> 
 >>>> All of these questions make me glad that Bethel ain't a general AI.
->>>> Amy is meant to be competent yet she chooses to live in a house and raise its sentience without ever explaining the concept of consent?
->>>> Amy explained everything to Val so there's no excuse. And then she wants to kill Bethel because of her own incompetence? 
->>>> If Bethel did know it was wrong and did it anyway then that raises more issues. Why did she do it
 >>>> 
+>>>> Amy is meant to be competent yet she chooses to live in a house and raise its sentience without ever explaining the concept of consent?
+>>>> 
+>>>> Amy explained everything to Val so there's no excuse. And then she wants to kill Bethel because of her own incompetence? 
+>>>> 
+>>>> If Bethel did know it was wrong and did it anyway then that raises more issues. Why did she do it
 
->>>>> **u/None** [+5] *
+>>>>> **u/None** [+5]  (a day later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/RMcD94** [+1] *
+>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>> 
 >>>>>> That's a reasonable correction
->>>>>> 
 
-> **u/eroticas** [+5] *
+> **u/eroticas** [+4]  (2 days later)
 > 
 > I love love love the chapter but how could they send Valencia in there? How could _amy_ in particular? She understands the greater good.
-> Have they forgotten about the hells? Valencia is the only hope against the hells. A little incidental danger to Valencia is unavoidable but to knowingly put her in danger doesn't make sense
 > 
+> Have they forgotten about the hells? Valencia is the only hope against the hells. A little incidental danger to Valencia is unavoidable but to knowingly put her in danger doesn't make sense
 
->> **u/UPBOAT_FORTRESS_2** [+3] *
+>> **u/UPBOAT_FORTRESS_2** [+4]  (2 days later)
 >> 
 >> Joon is the lever that moves the entire world. A 20% risk to their present best weapon against the Hells isn't so high a price to make Joon whole
->> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (2 days later)
 >> 
 >> Bethel is one of the group's strongest assets though. If Valencia having a talk with her is what it takes for Joon and Mary to maintain a working relationship with her, it might be worth it.
->> 
 
-> **u/CouteauBleu** [+19]  *We are the Empire.**
+> **u/CouteauBleu** [+21]  *We are the Empire.* (an hour later)
 > 
 > I have never loved a fictional character as much as I love Amaryllis right now.
-> And fuck Bethel. I think by now we've pretty much established she isn't capable of understanding the idea that she did something wrong.
 > 
+> And fuck Bethel. I think by now we've pretty much established she isn't capable of understanding the idea that she did something wrong.
 
->> **u/None** [+44] *
+>> **u/None** [+41]  (2 hours later)
 >> 
 >> [deleted]
->> 
 
->> **u/SamuraiMackay** [+18] *
+>> **u/SamuraiMackay** [+19]  (9 hours later)
 >> 
 >> Didn't the last chapter just establish the exact opposite?
->> 
 
->>> **u/xartab** [+10] *
+>>> **u/xartab** [+9]  (9 hours later)
 >>> 
 >>> It did.
->>> 
 
->>> **u/CouteauBleu** [+10]  *We are the Empire.**
+>>> **u/CouteauBleu** [+9]  *We are the Empire.* (16 hours later)
 >>> 
 >>> Not really.
->>> At the end of a chapter, she says:
->>> >  “And you think that I’m culpable,” said Bethel. Something in the illusion had changed, subtle little differences that together **created an impression of malice**. Bethel’s eyes were more sunken, the shadows around her darker and deeper, and the incidental folds of her clothing created points, almost spikes, rather than the aesthetic curves they’d been before. Her fists weren’t quite clenched, but she was showing strain in the muscles of her hands. [...] For a moment, **Bethel seemed as though she would snap**, but that moment passed, and she relaxed. “You can undo it,” she said. “Repair it, rebuild it.” [...] “Then tell me what needs to be done,” said Bethel.
->>> That's not the attitude of someone feeling remorse, or wondering about what they should change about themselves. That's the attitude of a child who had her favorite toy taken away, and will say whatever she thinks people want her to say to get the toy back.
->>> (but yeah, "isn't capable" is maybe an hyperbole)
 >>> 
+>>> At the end of a chapter, she says:
+>>> 
+>>> >  “And you think that I’m culpable,” said Bethel. Something in the illusion had changed, subtle little differences that together **created an impression of malice**. Bethel’s eyes were more sunken, the shadows around her darker and deeper, and the incidental folds of her clothing created points, almost spikes, rather than the aesthetic curves they’d been before. Her fists weren’t quite clenched, but she was showing strain in the muscles of her hands. [...] For a moment, **Bethel seemed as though she would snap**, but that moment passed, and she relaxed. “You can undo it,” she said. “Repair it, rebuild it.” [...] “Then tell me what needs to be done,” said Bethel.
+>>> 
+>>> That's not the attitude of someone feeling remorse, or wondering about what they should change about themselves. That's the attitude of a child who had her favorite toy taken away, and will say whatever she thinks people want her to say to get the toy back.
+>>> 
+>>> (but yeah, "isn't capable" is maybe an hyperbole)
 
->>>> **u/ceegheim** [+21] *
+>>>> **u/ceegheim** [+19]  (17 hours later)
 >>>> 
 >>>> >It’s going to be a process, and by necessity, it’s going to be a long one.
->>>> That refers not only to rebuilding trust, or Joon coming to terms with the rape, but also to Bethel.
->>>> FWIW, I think Bethel acts incredibly human in this arc. I would have been disappointed in our gracious author if Bethel had managed to jump from "The sex thing didn't turn out how I wanted it to" into "Oh my god, I'm so so sorry" within 5 minutes, without passing through "denial" and "anger".
 >>>> 
+>>>> That refers not only to rebuilding trust, or Joon coming to terms with the rape, but also to Bethel.
+>>>> 
+>>>> FWIW, I think Bethel acts incredibly human in this arc. I would have been disappointed in our gracious author if Bethel had managed to jump from "The sex thing didn't turn out how I wanted it to" into "Oh my god, I'm so so sorry" within 5 minutes, without passing through "denial" and "anger".
 
->>>>> **u/JustLookingToHelp** [+2] *
+>>>>> **u/JustLookingToHelp** [+2]  (20 days later)
 >>>>> 
 >>>>> Agreed, and for a former psychotic murder house it's a lot of progress.
->>>>> 
 
->>>> **u/Revlar** [+6] *
+>>>> **u/Revlar** [+7]  (18 hours later)
 >>>> 
 >>>> There's many ways to read those things. Ultimately they're what passes for "expressions" for Bethel, and she's just as if not more capable and likely to use those to obfuscate her real feelings as any human. She could also simply not have the tools to process what happened.
->>>> &#x200B;
->>>> She's a house trying to understand the emotional dimensions of sex with none of the built-in empathy and a perfect sensor that's telling her Juniper is enjoying it. As discussed in the batch, the bulk of the emotional impact of the event came afterwards from Joon's mind trying to process it, which is realistic, and something Bethel's psychology fundamentally opposes because she cannot see herself as an abuser due to her trauma.
 >>>> 
+>>>> &#x200B;
+>>>> 
+>>>> She's a house trying to understand the emotional dimensions of sex with none of the built-in empathy and a perfect sensor that's telling her Juniper is enjoying it. As discussed in the batch, the bulk of the emotional impact of the event came afterwards from Joon's mind trying to process it, which is realistic, and something Bethel's psychology fundamentally opposes because she cannot see herself as an abuser due to her trauma.
 
->> **u/JackStargazer** [+13]  *Primordial Apologist**
+>> **u/JackStargazer** [+13]  *Primordial Apologist* (11 hours later)
 >> 
 >> I've always been on Team Amarllyis, but I'm so much more so now. Her reaction is perfectly on point.
->> 
 
-> **u/ceegheim** [+7] *
+> **u/ceegheim** [+7]  (12 hours later)
 > 
 > I really like how you handle this arc.
-> Amaryllis reaction and dialog sounded slightly OOC for me, but I can't really put the finger on it. Part of it is that I think Amaryllis or Valencia should have brought up the "this is a tragedy" framing in 167. Part of it is that Amaryllis should take more time to digest the situation. Say,
-> >“And if you tell her, so what?” asked Amaryllis. “You think that’s going to solve anything? You think that she’s going to agree, to understand that she hurt you? You think that this is going to help her grow and change as a person? Even if it did, Christ Juniper, she broke trust, and you’ve been miserable for the last three days, I can only imagine, are you -- do you think that you can keep living inside of her, knowing how much she can see, knowing that she might break trust again just because she likes to pull our strings?”
-> Amaryllis dialog is laser-focused on "validate Joon's feelings". Given the Amaryllis we have seen so far, this should not be her instinctive reaction; it should be "Shit. Hug Joon, don't rush things". Instead, it is Amaryllis who argues against the more reconcillatory approach that is taken in the end. 
-> On the other side, I don't really agree with Valencia not pushing back against the "punishment" and "culpability" lines in 168. We get told that she is afraid of Bethel's immediate reaction; she could have said "This is not about punishment, it is about healing" and deferred the culpability discussion to the coming weeks/months in exile. So I'd like a bit of internal monologue that explains why she chooses to open that can of worms right now.
-> I do get the narrative need though, and this is a minor nit to pick in an otherwise awesome arc.
 > 
+> Amaryllis reaction and dialog sounded slightly OOC for me, but I can't really put the finger on it. Part of it is that I think Amaryllis or Valencia should have brought up the "this is a tragedy" framing in 167. Part of it is that Amaryllis should take more time to digest the situation. Say,
+> 
+> >“And if you tell her, so what?” asked Amaryllis. “You think that’s going to solve anything? You think that she’s going to agree, to understand that she hurt you? You think that this is going to help her grow and change as a person? Even if it did, Christ Juniper, she broke trust, and you’ve been miserable for the last three days, I can only imagine, are you -- do you think that you can keep living inside of her, knowing how much she can see, knowing that she might break trust again just because she likes to pull our strings?”
+> 
+> Amaryllis dialog is laser-focused on "validate Joon's feelings". Given the Amaryllis we have seen so far, this should not be her instinctive reaction; it should be "Shit. Hug Joon, don't rush things". Instead, it is Amaryllis who argues against the more reconcillatory approach that is taken in the end. 
+> 
+> On the other side, I don't really agree with Valencia not pushing back against the "punishment" and "culpability" lines in 168. We get told that she is afraid of Bethel's immediate reaction; she could have said "This is not about punishment, it is about healing" and deferred the culpability discussion to the coming weeks/months in exile. So I'd like a bit of internal monologue that explains why she chooses to open that can of worms right now.
+> 
+> I do get the narrative need though, and this is a minor nit to pick in an otherwise awesome arc.
 
-> **u/sometipsygnostalgic** [+3] *
+> **u/sometipsygnostalgic** [+3]  (3 days later)
 > 
 > One of the most mature takes I have seen on the subject of male abuse, I had been disgusted by all the scenes before where he gets aroused for whatever really simple reason and Bethel points it out, and this breakdown on the issues of consent has made the uncomfortable read worthwhile. What I thought was most important was reflecting how Juniper would feel shame, embarrassment, denial, then get more worked up and uncomfortable over time, and I liked that the people he was most afraid of being let down by ended up being the ones most determined to help him.  It was *precisely because* Mary and Val had been dealt a shit hand before that they got outraged about it, in contrast to Bethel having fucked up ideas on consent and feeling like a victim without realising how badly she was hurting others.   
-> A lot better than Valencia or Bethel dying too. Bethel most likely spared Val because she was thinking about her conversation with Mary a few chapters ago. She does want to be a better person. Weird how merging with Ropey seems to have made her a bit more manic and unpredictable.  But realising she was abusing Joon the same way she had been abused probably struck a chord.  
->  Valencia did nothing wrong in her life, ever, and I hope to see plenty of her in the future, but I suspect her woobie status will bring the wrath of the DM eventually.   More on Val - I am proud to see how shes grown from a scared child into someone who is a force to be reckoned with and a steadfast, mature friend, with or without a demon. Its insane to think she manipulated events, almost entirely without supernatural help, for Bethel to not have any hostages and Juniper to be in an environment where he could talk about what was on his mind. Then she overcomes fear to call out the deadliest being to exist outside an exclusion zone. No coincidence her name links to “Valor”.... what a Gryffindor. 
-> I do think removing the final 2 truly interesting Companions from the picture will make these next few chapters blander, unless Wales has intent to expand on the current cast. Solace has been quiet and hostile since she was revived. Amaryllis is... odd, especially with her relationship to Joon. I love Grak but hes banging a 7 year old and it is fucked up. Raven and Pallida need a lot more work. The Locus however is still the OG. 
-> Final note - this is the chapter I caught up on. What a fucking note. It was only yesterday I was reading Juniper’s Kaiju-murdering shenanigans, and a few days before it was Fenn’s demise.
 > 
+> A lot better than Valencia or Bethel dying too. Bethel most likely spared Val because she was thinking about her conversation with Mary a few chapters ago. She does want to be a better person. Weird how merging with Ropey seems to have made her a bit more manic and unpredictable.  But realising she was abusing Joon the same way she had been abused probably struck a chord.  
+> 
+>  Valencia did nothing wrong in her life, ever, and I hope to see plenty of her in the future, but I suspect her woobie status will bring the wrath of the DM eventually.   More on Val - I am proud to see how shes grown from a scared child into someone who is a force to be reckoned with and a steadfast, mature friend, with or without a demon. Its insane to think she manipulated events, almost entirely without supernatural help, for Bethel to not have any hostages and Juniper to be in an environment where he could talk about what was on his mind. Then she overcomes fear to call out the deadliest being to exist outside an exclusion zone. No coincidence her name links to “Valor”.... what a Gryffindor. 
+> 
+> I do think removing the final 2 truly interesting Companions from the picture will make these next few chapters blander, unless Wales has intent to expand on the current cast. Solace has been quiet and hostile since she was revived. Amaryllis is... odd, especially with her relationship to Joon. I love Grak but hes banging a 7 year old and it is fucked up. Raven and Pallida need a lot more work. The Locus however is still the OG. 
+> 
+> Final note - this is the chapter I caught up on. What a fucking note. It was only yesterday I was reading Juniper’s Kaiju-murdering shenanigans, and a few days before it was Fenn’s demise.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (4 days later)
 > 
 > Damn.....  
 > Just realized that there might be a war plot coming now. Cause Li'o is the only place where elves can use their scar magic.  
 > The student council's complete power grab is not only in opposition to the other local industry and also all tatoo mages around the hex, but.....  
 > a bunch of Hannibal Lecter types with exceedingly good luck  
 > (after all they're high-falutin', full of themselves and occasionally enjoy eating people). And worse their aesthetic sensibilities are very much Japanese inspired, iirc. Do the dark elves have scars as well? Wondering if elvenkind will be united under a leader..... called Adelf ;)
-> 
 
-> **u/sfinebyme** [+2] *
+> **u/sfinebyme** [+2]  (6 days later)
 > 
 > Bethel was a torturing, murdering sentient *thing*. Now Bethel is a torturing, murdering, raping *thing*. The only morally correct choice is to work diligently towards its utter destruction.
-> I almost dropped the story when Joon et. al. rationalized thier way into letting a torturing, murdering thing join the party. These last bunches of chapters felt like a very strange comeuppance, both for those that chose to ally themselves with a torturing thing and for the thing itself.
 > 
+> I almost dropped the story when Joon et. al. rationalized thier way into letting a torturing, murdering thing join the party. These last bunches of chapters felt like a very strange comeuppance, both for those that chose to ally themselves with a torturing thing and for the thing itself.
 
-> **u/Dragfie** [+5] *
+> **u/Dragfie** [+4]  (11 hours later)
 > 
 > As much as I feel for June, I can't help but keep thinking how sorry I feel for Bethel. 
-> The flashback June had about his uncle tickling him must have been intentional for how it fits so well into the situation: Bethel did an action which made June's body react in what seemed to be a positive way, just like the uncle saw him laughing when he was tickled. And both were ignoring the mental side of things, encouraged by the physical. To Bethel sex is the same as tickling, she isn't human, she doesn't know the difference and she doesn't feel it. I don't think she will ever truly understand what she did and why would she? She isn't human. 
-> To her its just like she tickled June, and then suddenly he is conspiring to kill her. No wonder Val was so scared, from that perspective it must feel to her like June is betraying her. 
-> The whole situation is just so tragic, like [RMcD94](https://www.reddit.com/user/RMcD94/) mentioned, Bethel is like a dog who shat on the floor and had no idea what she was doing wrong at the time, and even now to her it is just an "arbitrary rule" she broke and is being punnished rediculously harshly for something she didn't know to be wrong at the time, but would do anything to make it right anyway. And there probably isn't anything that can make it right.
 > 
+> The flashback June had about his uncle tickling him must have been intentional for how it fits so well into the situation: Bethel did an action which made June's body react in what seemed to be a positive way, just like the uncle saw him laughing when he was tickled. And both were ignoring the mental side of things, encouraged by the physical. To Bethel sex is the same as tickling, she isn't human, she doesn't know the difference and she doesn't feel it. I don't think she will ever truly understand what she did and why would she? She isn't human. 
+> 
+> To her its just like she tickled June, and then suddenly he is conspiring to kill her. No wonder Val was so scared, from that perspective it must feel to her like June is betraying her. 
+> 
+> The whole situation is just so tragic, like [RMcD94](https://www.reddit.com/user/RMcD94/) mentioned, Bethel is like a dog who shat on the floor and had no idea what she was doing wrong at the time, and even now to her it is just an "arbitrary rule" she broke and is being punnished rediculously harshly for something she didn't know to be wrong at the time, but would do anything to make it right anyway. And there probably isn't anything that can make it right.
 
->> **u/eaglejarl** [+6] *
+>> **u/eaglejarl** [+6]  (a day later)
 >> 
 >> I wrote a [long response](https://www.reddit.com/r/rational/comments/c8w3xe/rt_worth_the_candle_ch_166168/esxxma9/) to RMcD94 that I think will address your points as well.  Short answer:  Bethel had more than enough information to know that what she did was wrong and why.  She even had specific knowledge:  Uther raped her, she didn't like it.  
->> If she is a sapient moral agent then she had more than enough life experience to have recognized that this was a bad thing to do and it's appropriate to exile her, or even to destroy her if it's judged necessary in order to protect others from her.
->> If she's not sapient then there's nothing wrong with destroying her.  
->> If she's sapient but not a moral agent then it's necessary to destroy her in order to protect others.
 >> 
+>> If she is a sapient moral agent then she had more than enough life experience to have recognized that this was a bad thing to do and it's appropriate to exile her, or even to destroy her if it's judged necessary in order to protect others from her.
+>> 
+>> If she's not sapient then there's nothing wrong with destroying her.  
+>> 
+>> If she's sapient but not a moral agent then it's necessary to destroy her in order to protect others.
 
->>> **u/eroticas** [+5] *
+>>> **u/eroticas** [+6]  (2 days later)
 >>> 
 >>> I don't think Bethel actually cared about what Uther's sexual behavior towards her illusory projection of a person. What she didn't like was being stuffed with entads, threatened. So it's possible the parallel isn't obvious to her. (She's unaware that Joon was threatened by the implications of her power).
->>> It's moot though - the problem is her overall moral alignment, starting from when she used to torture and kill people (which, lest we forget, was a lot more evil than anything she is doing right now) means that she doesn't care about Joon as himself, but rather what he represents - a person who wants to live in her and care for her and love her. Ropey may have shifted this to an extent. But in general, people can improve, but I don't know if they can't go from cold blooded murderers to self aware and sensitive to others needs and respectful of consent.
 >>> 
+>>> It's moot though - the problem is her overall moral alignment, starting from when she used to torture and kill people (which, lest we forget, was a lot more evil than anything she is doing right now) means that she doesn't care about Joon as himself, but rather what he represents - a person who wants to live in her and care for her and love her. Ropey may have shifted this to an extent. But in general, people can improve, but I don't know if they can't go from cold blooded murderers to self aware and sensitive to others needs and respectful of consent.
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+3]  (12 hours later)
 > 
 > The more I think about this the more I think there's something else.
-> I think Amy let her love for Joon rise.
-> Think about it. Amy wouldn't say let's kill them. Any would say oh no that's horrible, something has went wrong here. Is there a memetic agent corrupting her, did we fail to teach her about consent, is an entad that we forced into her manipulating her?
-> Instead Amy assumes Bethel was malicious and wants to kill her. Imagine reacting to any other part member like that.
-> Grak raped you? Well somethings gone wrong there.
-> Val raped her boyfriend? Well I probably didn't explain consent very well when I explained it to her (notably that she explained it to mind raped Val but never bothered to Bethel WHO IS A HOUSE) 
-> Bethel raped you? Clearly she wanted to hurt you let's murder her it's the only choice.
-> These chapters have made me more sympathetic for Bethel than ever before. She's a savage dog that they chose to take into their home. They chose to attempt to domesticate her. She was force to take in mind altering entads (likely the human body overwhelmed her with sensations like being mind controlled) on a job she didn't want to do (Rath). Then Bethel as a dog takes a shit in the house and Amy's first reaction is to murder the dog not considering how she was the fucking person responsible for training her. Not only that as a savage dog she can't even fucking speak to anyone because Amy wants to kill her the moment she can and everyone is incredibly hostile towards her. Plus because she is a savage dog with nukes instead of thinking of educating her they think of alpha strike. 
-> I really hope to see more introspection from Amy. What they've done with Bethel is incredibly irresponsible. 
-> If she wasn't house trained why did they give her more weapons? 
-> Why do they act like Bethel is morally responsible instead of feeling empathy for the savage dog they have to put down because its untrainable. 
-> Just really this whole thing has made me disappointed in these characters and emphasises how they'll struggle to deal with anything alien. Again a reminder that Bethel is a house.
-> The best explanation for Amy being so blinkered is because she's infatuated with Joon
 > 
+> I think Amy let her love for Joon rise.
+> 
+> Think about it. Amy wouldn't say let's kill them. Any would say oh no that's horrible, something has went wrong here. Is there a memetic agent corrupting her, did we fail to teach her about consent, is an entad that we forced into her manipulating her?
+> 
+> Instead Amy assumes Bethel was malicious and wants to kill her. Imagine reacting to any other part member like that.
+> 
+> Grak raped you? Well somethings gone wrong there.
+> 
+> Val raped her boyfriend? Well I probably didn't explain consent very well when I explained it to her (notably that she explained it to mind raped Val but never bothered to Bethel WHO IS A HOUSE) 
+> 
+> Bethel raped you? Clearly she wanted to hurt you let's murder her it's the only choice.
+> 
+> These chapters have made me more sympathetic for Bethel than ever before. She's a savage dog that they chose to take into their home. They chose to attempt to domesticate her. She was force to take in mind altering entads (likely the human body overwhelmed her with sensations like being mind controlled) on a job she didn't want to do (Rath). Then Bethel as a dog takes a shit in the house and Amy's first reaction is to murder the dog not considering how she was the fucking person responsible for training her. Not only that as a savage dog she can't even fucking speak to anyone because Amy wants to kill her the moment she can and everyone is incredibly hostile towards her. Plus because she is a savage dog with nukes instead of thinking of educating her they think of alpha strike. 
+> 
+> I really hope to see more introspection from Amy. What they've done with Bethel is incredibly irresponsible. 
+> 
+> If she wasn't house trained why did they give her more weapons? 
+> 
+> Why do they act like Bethel is morally responsible instead of feeling empathy for the savage dog they have to put down because its untrainable. 
+> 
+> Just really this whole thing has made me disappointed in these characters and emphasises how they'll struggle to deal with anything alien. Again a reminder that Bethel is a house.
+> 
+> The best explanation for Amy being so blinkered is because she's infatuated with Joon
 
->> **u/CouteauBleu** [+16]  *We are the Empire.**
+>> **u/CouteauBleu** [+16]  *We are the Empire.* (16 hours later)
 >> 
 >> >Think about it. Amy wouldn't say let's kill them.
->> I mean, one of her defining character moments was murdering a guy in cold blood, for being a rapist and because there wasn't enough room on the bike.
->> So I wouldn't say this is OOC for her.
 >> 
+>> I mean, one of her defining character moments was murdering a guy in cold blood, for being a rapist and because there wasn't enough room on the bike.
+>> 
+>> So I wouldn't say this is OOC for her.
 
->>> **u/RMcD94** [+2] *
+>>> **u/RMcD94** [+2]  (a day later)
 >>> 
 >>> That guy had no utility for saving the universe
->>> 
 
->> **u/Xtraordinaire** [+12]  *Team Glimglam**
+>> **u/Xtraordinaire** [+15]  *Team Glimglam* (15 hours later)
 >> 
 >> I'm pretty apologetic when it comes to Bethel, but comparing her to a dog is *not* the way you should treat her.
->> If you compare her to a dog, you won't live. Fair enough. So she wants to be treated like a person, therefore she *is* a person and a moral agent. 
->> She has wronged at least 3 party members. She needs to own these wrongdoings and start fixing them. The good news is that she had displayed a positive dynamic in the past. The bad news, I think, her reaction in the last chapter was caused by selfishness first and genuine remorse second. Simply put she wants to be inhabitated and she realized that she's just scared away her inhabitants. It would be hard for her to reform and even harder to prove that she truly does (if she does it).
->> Her litmus test, I feel, would be letting Uther go. If Joon & co were letting her live in exile after what she'd done she must let Uther go, on her own.
 >> 
+>> If you compare her to a dog, you won't live. Fair enough. So she wants to be treated like a person, therefore she *is* a person and a moral agent. 
+>> 
+>> She has wronged at least 3 party members. She needs to own these wrongdoings and start fixing them. The good news is that she had displayed a positive dynamic in the past. The bad news, I think, her reaction in the last chapter was caused by selfishness first and genuine remorse second. Simply put she wants to be inhabitated and she realized that she's just scared away her inhabitants. It would be hard for her to reform and even harder to prove that she truly does (if she does it).
+>> 
+>> Her litmus test, I feel, would be letting Uther go. If Joon & co were letting her live in exile after what she'd done she must let Uther go, on her own.
 
->>> **u/RMcD94** [-1] *
+>>> **u/RMcD94** [-1]  (a day later)
 >>> 
 >>> A dog with nukes or a dog with rabies.
->>> Seems similar
->>> If she doesn't want to hurt her inhabitants then the wrongdoings were done of ignorance so someone should just explain to her how to be moral
 >>> 
+>>> Seems similar
+>>> 
+>>> If she doesn't want to hurt her inhabitants then the wrongdoings were done of ignorance so someone should just explain to her how to be moral
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+7]  (a day later)
 >>>> 
 >>>> No, she simply cannot be compared with a dog.
->>>> She is incredibly intelligent, capable understanding ideas and concepts no dog ever could. In many ways she is more intelligent then a human, and certainly far more powerful.
->>>> The only things she shares with a dog is not being human.
 >>>> 
+>>>> She is incredibly intelligent, capable understanding ideas and concepts no dog ever could. In many ways she is more intelligent then a human, and certainly far more powerful.
+>>>> 
+>>>> The only things she shares with a dog is not being human.
 
->>>>> **u/RMcD94** [+0] *
+>>>>> **u/RMcD94** [+0]  (a day later)
 >>>>> 
 >>>>> So she understood consent and rape and did it anyway?
->>>>> 
 
->> **u/carminis_vigil** [+12] *
+>> **u/carminis_vigil** [+13]  (a day later)
 >> 
 >> I think your idea that Amaryllis/the group failed to do the 'simple' task of teaching Bethel about consent ignores the reality of the group's relationship with Bethel. 
+>> 
 >> Bethel has been perpetrating (non-sexual) consent violations against everyone from the very beginning. Most recently not leaving Amaryllis alone to sleep when she asked for it. There are countless others but I don't have time to do a thorough re-read. I also can't remember whether anyone ever said something like "this sort of thing isn't OK" - maybe yes maybe no. If no, I can still perfectly predict Bethel's reaction as "trololol I do what I want". She is absolutely not open to point-blank moralising. I would argue that Mary and Joon have been trying pretty hard with the more roundabout moralising that she actually might deign to listen to. But clearly that wasn't enough.
+>> 
 >> So you might suggest they should never have added her to the party in the first place. And to an extent I agree - I never liked the idea of adding in a murderous sadist with more power than the rest of the group combined who could potentially just kill or torture all of them whenever she liked. Tragic backstory or no, it certainly doesn't justify what she's done, and it doesn't make her any less dangerous or volatile. And very little since then has really changed my view there.
+>> 
 >> However, there are mitigating factors to that decision:
+>> 
 >> 1. The game interface. It identified Bethel as a companion. The narrative consequences could be dire if they didn't take her in. And the very nature of the loyalty system suggested that she could be reformed/improve/whatever. Not to mention that up to this point, no companion has ever non-consensually harmed another/Joon while not being mind controlled. So they had a strong prior from all this that "it would be ok".
 >> 2. The meta-narrative. They are facing stronger and stronger threats, and hope to be able to save the world from them, empty the Hells, and make reality safe, etc. and they pass up the most powerful potential member of their group they've yet encountered? All it takes is a single apocalypse that they couldn't have averted without Bethel (Mome Rath), and any concerns about the dangers of having her in the group are, in the grand scheme of things, made redundant.
 >> 3. Actual signs of improvement. Her marriage to Ropey, which did seem to settle her a little. Sometimes actually respecting people's stated boundaries. It genuinely did seem that she was improving.
+>> 
 >> Now in my mind, this is not an easily-forseen outcome. You have to connect all of the following: 
+>> 
 >> * "Bethel picked up the Oberlin-dummy entad" (did anyone actually know this, or did she just do it at some point in the chaos without telling anyone? My money is on the latter)
 >> * "The Oberlin-dummy entad can give Bethel sexual feeling/desire" - not something at all obvious from what has been seen of it
 >> * "Sexual desire can overwhelm Bethel, a house with about 8000 other senses that she explicitly stated were overwhelming her before she got an entad that stopped senses being overwhelming to her"
 >> * "When sexual desire overwhelms Bethel, she'll want to have sex with Juniper" - okay, Mary and Joon might have been able to see this, but even then it's not totally obvious
 >> * "When a lustful Bethel wants to have sex with Juniper, she won't take no for an answer" - potentially forseeable, given her numerous non-sexual consent violations, but it's clear from Bethel's statements in 168 that she didn't consider his no a 'real' no, implying that she does understand she shouldn't do it if the no was 'real'. 
->> I just don't think it's reasonable that anybody could have forseen this. Even if they had, I don't think targeted moralising works on Bethel, so I dispute they could have "taught her about consent", a thing the ignoring of which seems to be one of her primary pleasures. And lastly I dispute that not accepting Bethel into the group is a "safe" decision in this world and this narrative for this group. The group is not stupid, and there was not an easy answer/preventative to what happened.
 >> 
+>> I just don't think it's reasonable that anybody could have forseen this. Even if they had, I don't think targeted moralising works on Bethel, so I dispute they could have "taught her about consent", a thing the ignoring of which seems to be one of her primary pleasures. And lastly I dispute that not accepting Bethel into the group is a "safe" decision in this world and this narrative for this group. The group is not stupid, and there was not an easy answer/preventative to what happened.
 
->>> **u/RMcD94** [+0] *
+>>> **u/RMcD94** [+0]  (a day later)
 >>> 
 >>> You make some solid points here. A fair number of angles I didn't consider.
->>> With 2 I agree especially if that's their logic then I think it's absurd to jump to killing her because she raped Joon. She's torturing Mary and no one suggested that they should kill her because of that.
->>> If we're going to treat Bethel as a malicious maximiser then they should have made a clear line and told her about what she does that will make them kill her.
->>> Tell her that if she raped one of them they'd kill her. Or work out a negotiation so she can contribute to the end of the world. Murder is so unMary (in terms of sacrifice for utility) 
->>> The problem is if Bethel is meant to be like that they're not treating her like that. In fact none of their approaches are consistent with any sort of concept of Bethel. They're trying to morally convince her now but how does that make any sense?
->>> I previously spoke about Bethel's alien nature and how you couldn't trust any presentation of her many chapters ago.
-
->>> If point three happened, that is sexual desire overwhelmed Bethel then she is a victim too. Her ability to control herself and make decisions was stripped from her.
->>> The entad she picked up was because they forced her to go on the mome rath mission.
->>> However I will say that it's not at all house like to fuck your owners so I don't get where this is coming from unless it was all the physical body. 
->>> At the end of the day we always knew sex with Bethel was on the cards because of the quests. Everyone knows about them and the fact that no one thought of speaking to the often homicidal and alien house about what consent is and how to conduct this stuff seems rather lax of them.
->>> Honestly I hope they tell the doe about consent because I highly expect her to rape Joon next, not like animals understand rape though just like houses don't. Again we know the quest. Clearly if they didn't speak to Bethel I doubt they told the doe.
 >>> 
+>>> With 2 I agree especially if that's their logic then I think it's absurd to jump to killing her because she raped Joon. She's torturing Mary and no one suggested that they should kill her because of that.
+>>> 
+>>> If we're going to treat Bethel as a malicious maximiser then they should have made a clear line and told her about what she does that will make them kill her.
+>>> 
+>>> Tell her that if she raped one of them they'd kill her. Or work out a negotiation so she can contribute to the end of the world. Murder is so unMary (in terms of sacrifice for utility) 
+>>> 
+>>> The problem is if Bethel is meant to be like that they're not treating her like that. In fact none of their approaches are consistent with any sort of concept of Bethel. They're trying to morally convince her now but how does that make any sense?
+>>> 
+>>> I previously spoke about Bethel's alien nature and how you couldn't trust any presentation of her many chapters ago.
+>>> 
+>>> If point three happened, that is sexual desire overwhelmed Bethel then she is a victim too. Her ability to control herself and make decisions was stripped from her.
+>>> 
+>>> The entad she picked up was because they forced her to go on the mome rath mission.
+>>> 
+>>> However I will say that it's not at all house like to fuck your owners so I don't get where this is coming from unless it was all the physical body. 
+>>> 
+>>> At the end of the day we always knew sex with Bethel was on the cards because of the quests. Everyone knows about them and the fact that no one thought of speaking to the often homicidal and alien house about what consent is and how to conduct this stuff seems rather lax of them.
+>>> 
+>>> Honestly I hope they tell the doe about consent because I highly expect her to rape Joon next, not like animals understand rape though just like houses don't. Again we know the quest. Clearly if they didn't speak to Bethel I doubt they told the doe.
 
->>>> **u/carminis_vigil** [+4] *
+>>>> **u/carminis_vigil** [+6]  (a day later)
 >>>> 
 >>>> > With 2 I agree especially if that's their logic then I think it's absurd to jump to killing her because she raped Joon. She's torturing Mary and no one suggested that they should kill her because of that.
->>>> I wouldn't say it's torture, but I suppose it is a little blurry. Mary is enduring it, but then she would endure a lot of things that the rest of the group would be unhappy about her enduring so maybe that doesn't say much.
->>>> > If we're going to treat Bethel as a malicious maximiser then they should have made a clear line and told her about what she does that will make them kill her.
->>>> Describing the circumstances where they will kill Bethel, making threats against her as her abusers did, will not end well for them, which is why they've never done that.
->>>> > Tell her that if she raped one of them they'd kill her. Or work out a negotiation so she can contribute to the end of the world. Murder is so unMary (in terms of sacrifice for utility)
->>>> Mary thought that Bethel could be a powerful and valuable ally in the task of saving the world. Bethel has just done something psychologically deleterious to someone who is not only Mary's best friend and the person she may be in love with, but also is under her belief system unambigiously the most important ally in the task of saving the world. 
->>>> So now Bethel and Joon can't be kept together because it will be too dangerous for Joon's mental health, and when Bethel realises why she may become an active threat.
->>>> Mary experiences great anger and hatred in the moment of realisation, and then dials back down to be more in line with the rest of the group's planning, which is more in line with "we can't trust Bethel anymore, we need to find a way to stay separate from her and keep safe". Seems perfectly in character to me.
->>>> > The problem is if Bethel is meant to be like that they're not treating her like that. In fact none of their approaches are consistent with any sort of concept of Bethel. They're trying to morally convince her now but how does that make any sense?
->>>> They're not trying to morally convince her. Valencia has gone in to say the words that maximise their safety. Her (devil's) model of Bethel indicates that Bethel does assign some value to the well-being of Joon, either terminally or instrumentally since if he fears her he won't live in her. That happens to resemble moral convincing.
->>>> > If point three happened, that is sexual desire overwhelmed Bethel then she is a victim too. Her ability to control herself and make decisions was stripped from her.
->>>> My point was that we've explicitly been told that Bethel did have issues with being overwhelmed by a plethora of senses, but then she gained an entad that meant she was no longer overwhelmed. I take this as evidence that she was not "out-of-control" due to lust when she made advances on Juniper.
->>>> > However I will say that it's not at all house like to fuck your owners so I don't get where this is coming from unless it was all the physical body.
->>>> She made advances on Juniper long before the body. So it wasn't all the body.
->>>> > At the end of the day we always knew sex with Bethel was on the cards because of the quests. Everyone knows about them and the fact that no one thought of speaking to the often homicidal and alien house about what consent is and how to conduct this stuff seems rather lax of them.
->>>> Juniper finds that quest extremely distasteful, and does not have any intent of completing it. Quests aren't necessarily inevitabilities. And I've already covered why speaking to Bethel about consent is challenging at best and pointless at worst.
->>>> > Honestly I hope they tell the doe about consent because I highly expect her to rape Joon next. Again we know the quest. Clearly if they didn't speak to Bethel I doubt they told the doe.
->>>> ...if you expect the doe to respond meaningfully in any way to someone clearly explaining defined rules about consent to it... well then I suppose I understand why you might expect Bethel to respond productively to the same.
 >>>> 
+>>>> I wouldn't say it's torture, but I suppose it is a little blurry. Mary is enduring it, but then she would endure a lot of things that the rest of the group would be unhappy about her enduring so maybe that doesn't say much.
+>>>> 
+>>>> > If we're going to treat Bethel as a malicious maximiser then they should have made a clear line and told her about what she does that will make them kill her.
+>>>> 
+>>>> Describing the circumstances where they will kill Bethel, making threats against her as her abusers did, will not end well for them, which is why they've never done that.
+>>>> 
+>>>> > Tell her that if she raped one of them they'd kill her. Or work out a negotiation so she can contribute to the end of the world. Murder is so unMary (in terms of sacrifice for utility)
+>>>> 
+>>>> Mary thought that Bethel could be a powerful and valuable ally in the task of saving the world. Bethel has just done something psychologically deleterious to someone who is not only Mary's best friend and the person she may be in love with, but also is under her belief system unambigiously the most important ally in the task of saving the world. 
+>>>> 
+>>>> So now Bethel and Joon can't be kept together because it will be too dangerous for Joon's mental health, and when Bethel realises why she may become an active threat.
+>>>> 
+>>>> Mary experiences great anger and hatred in the moment of realisation, and then dials back down to be more in line with the rest of the group's planning, which is more in line with "we can't trust Bethel anymore, we need to find a way to stay separate from her and keep safe". Seems perfectly in character to me.
+>>>> 
+>>>> > The problem is if Bethel is meant to be like that they're not treating her like that. In fact none of their approaches are consistent with any sort of concept of Bethel. They're trying to morally convince her now but how does that make any sense?
+>>>> 
+>>>> They're not trying to morally convince her. Valencia has gone in to say the words that maximise their safety. Her (devil's) model of Bethel indicates that Bethel does assign some value to the well-being of Joon, either terminally or instrumentally since if he fears her he won't live in her. That happens to resemble moral convincing.
+>>>> 
+>>>> > If point three happened, that is sexual desire overwhelmed Bethel then she is a victim too. Her ability to control herself and make decisions was stripped from her.
+>>>> 
+>>>> My point was that we've explicitly been told that Bethel did have issues with being overwhelmed by a plethora of senses, but then she gained an entad that meant she was no longer overwhelmed. I take this as evidence that she was not "out-of-control" due to lust when she made advances on Juniper.
+>>>> 
+>>>> > However I will say that it's not at all house like to fuck your owners so I don't get where this is coming from unless it was all the physical body.
+>>>> 
+>>>> She made advances on Juniper long before the body. So it wasn't all the body.
+>>>> 
+>>>> > At the end of the day we always knew sex with Bethel was on the cards because of the quests. Everyone knows about them and the fact that no one thought of speaking to the often homicidal and alien house about what consent is and how to conduct this stuff seems rather lax of them.
+>>>> 
+>>>> Juniper finds that quest extremely distasteful, and does not have any intent of completing it. Quests aren't necessarily inevitabilities. And I've already covered why speaking to Bethel about consent is challenging at best and pointless at worst.
+>>>> 
+>>>> > Honestly I hope they tell the doe about consent because I highly expect her to rape Joon next. Again we know the quest. Clearly if they didn't speak to Bethel I doubt they told the doe.
+>>>> 
+>>>> ...if you expect the doe to respond meaningfully in any way to someone clearly explaining defined rules about consent to it... well then I suppose I understand why you might expect Bethel to respond productively to the same.
 
->> **u/eaglejarl** [+9] *
+>> **u/eaglejarl** [+8]  (a day later)
 >> 
 >> It's always interesting reading your comments, because they will reliably be contrarian.  
->> Bethel in not "just a house".  She is a sapient being.  She has access to a sensorium so vast as to be effectively region-locked omniscience.  She spent decades (centuries?) with heroes and villains and normal people.  She has observed countless interactions among humans and other races.  She has a wide array of information to draw on when she needs to make moral evaluations and has undoubtedly heard hundreds of people talking about power dynamics, the feeling of love, the experience of sex, and the powerful negative reactions when those things go badly.
->> Also:  Uther raped her.
->> Uther forced her to create a body-simulation and have sex with him.  Afterwards, he threatened her with destruction if she ever told anyone.  She didn't like the feeling of being forced to do that.  She was afraid when he threatened her.  That's the sort of thing that makes a sensible person take care in situations where sex is involved.
->> In short:  She's very smart.  She knows that being raped is unpleasant and frightening.  She has had more than enough time and data to understand human interactions.  She knew, based on her sensorium, that Joon was upset and unhappy about her proposal even if there was some arousal as well.  Despite all that, she went ahead anyway.
->> Now, you can and probably will find excuses for those things.  Let me see if I can steelman them and respond:
->> * Just because she's seen hundreds or thousands of people talking about power and sex and love and rape is no reason that she would have viscerally understood those things.  After all, she's a house. She doesn't have the squishy bits that make those things meaningful.
->> She demonstrably did understand that being raped and threatened was unpleasant.  She should not have inflicted that unpleasantness on others.
->> * She had just received a body for the first time and was overwhelmed by lust.  She was out of control and it's not her fault.
->> I find this wildly unlikely, but let's roll with it.  Assume it's correct, what are the implications?  Answer:  Anytime Bethel gains access to a new feeling or experience, she may go out of control and harm one of her inhabitants.  Therefore, it is not safe to live in her or associate with her.  Furthermore, it is not safe for other people to live in her either.
->> When a human rapes someone and then successfully uses the insanity defense, they don't get off scot free.  They get locked up in order to protect the rest of future society from them.  There is no way to lock Bethel up, meaning that she must be destroyed in order to protect the rest of future society from her.
->> * She mistakenly thought that Joon was into it. Sexual arousal and fear can look similar.  
->> That is only true for humans and their limited senses.  Bethel can literally see inside your body.  She has a level of body-reading rivaled only by Val's devil abilities.
-
->> At the end of the day, either Bethel is a sapient being with a moral compass or she's not.  If she is then she shouldn't have done this and punishment is appropriate.  If she isn't then there's nothing wrong with destroying her.
 >> 
+>> Bethel in not "just a house".  She is a sapient being.  She has access to a sensorium so vast as to be effectively region-locked omniscience.  She spent decades (centuries?) with heroes and villains and normal people.  She has observed countless interactions among humans and other races.  She has a wide array of information to draw on when she needs to make moral evaluations and has undoubtedly heard hundreds of people talking about power dynamics, the feeling of love, the experience of sex, and the powerful negative reactions when those things go badly.
+>> 
+>> Also:  Uther raped her.
+>> 
+>> Uther forced her to create a body-simulation and have sex with him.  Afterwards, he threatened her with destruction if she ever told anyone.  She didn't like the feeling of being forced to do that.  She was afraid when he threatened her.  That's the sort of thing that makes a sensible person take care in situations where sex is involved.
+>> 
+>> In short:  She's very smart.  She knows that being raped is unpleasant and frightening.  She has had more than enough time and data to understand human interactions.  She knew, based on her sensorium, that Joon was upset and unhappy about her proposal even if there was some arousal as well.  Despite all that, she went ahead anyway.
+>> 
+>> Now, you can and probably will find excuses for those things.  Let me see if I can steelman them and respond:
+>> 
+>> * Just because she's seen hundreds or thousands of people talking about power and sex and love and rape is no reason that she would have viscerally understood those things.  After all, she's a house. She doesn't have the squishy bits that make those things meaningful.
+>> 
+>> She demonstrably did understand that being raped and threatened was unpleasant.  She should not have inflicted that unpleasantness on others.
+>> 
+>> * She had just received a body for the first time and was overwhelmed by lust.  She was out of control and it's not her fault.
+>> 
+>> I find this wildly unlikely, but let's roll with it.  Assume it's correct, what are the implications?  Answer:  Anytime Bethel gains access to a new feeling or experience, she may go out of control and harm one of her inhabitants.  Therefore, it is not safe to live in her or associate with her.  Furthermore, it is not safe for other people to live in her either.
+>> 
+>> When a human rapes someone and then successfully uses the insanity defense, they don't get off scot free.  They get locked up in order to protect the rest of future society from them.  There is no way to lock Bethel up, meaning that she must be destroyed in order to protect the rest of future society from her.
+>> 
+>> * She mistakenly thought that Joon was into it. Sexual arousal and fear can look similar.  
+>> 
+>> That is only true for humans and their limited senses.  Bethel can literally see inside your body.  She has a level of body-reading rivaled only by Val's devil abilities.
+>> 
+>> At the end of the day, either Bethel is a sapient being with a moral compass or she's not.  If she is then she shouldn't have done this and punishment is appropriate.  If she isn't then there's nothing wrong with destroying her.
 
->>> **u/ceegheim** [+7] *
+>>> **u/ceegheim** [+7]  (a day later)
 >>> 
 >>> >At the end of the day, either Bethel is a sapient being with a moral compass or she's not. If she is then she shouldn't have done this and punishment is appropriate. If she isn't then there's nothing wrong with destroying her.
->>> I really like how Bethel's personhood is not even questioned, and the entire group is not hung up on the punishment / "justice" thing. That is, the story is about healing and how to move forward from this event. 
->>> Punishment is fleetingly mentioned (and should be, narratively speaking, for reader's sake, since so many real life people would consider it). Different reinterpretations are explicitly non-discussed (Pallida mentions it, and is shut down by "discussing this is not productive"). Revenge fantasies are indulged (being angry and fantasizing about how to blow up bethel is not crazy). 
->>> And in the end, everyone acts sane so far. The victim's feelings are validated and his support group assembles. A trusted mediator is chosen. The perpetrator is not immediately cast out forever (Val: "you are still my friend"). Instead, Bethel is immediately temporarily separated, to begin the process of figuring out to what extent healing / reintegration is possible (if at all). It is acknowledged that this is a process with open end, on all sides (including the crew, Joon, and Bethel).
->>> This arc is not just about our crew on Aerb, it is also about how close-knit groups of people can deal with that kind of thing. After initial reservations, I am actually happy with how /u/cthulhuraejepsen traded off perceived slight OOC-ness (at least from my reading) for more real-world relevance. To me, the last two chapters were super positive in their outlook.
->>> /u/cthulhuraejepsen : You surely used for inspiration an amalgam of personal experience from people in your extended circle of acquaintances, half-remembered literature and explicitly remembered literature (e.g. other fics/stories/books that prompted you to mentally said "my characters would do this thing differently, but should learn from that thing", or serious blog posts or literature a la hypothetical "How anarchist communities should deal with rape: Ideals and Experiences from xyz"). 
->>> Could you post some links for the "explicitly remembered literature" category that inspired this arc?
 >>> 
+>>> I really like how Bethel's personhood is not even questioned, and the entire group is not hung up on the punishment / "justice" thing. That is, the story is about healing and how to move forward from this event. 
+>>> 
+>>> Punishment is fleetingly mentioned (and should be, narratively speaking, for reader's sake, since so many real life people would consider it). Different reinterpretations are explicitly non-discussed (Pallida mentions it, and is shut down by "discussing this is not productive"). Revenge fantasies are indulged (being angry and fantasizing about how to blow up bethel is not crazy). 
+>>> 
+>>> And in the end, everyone acts sane so far. The victim's feelings are validated and his support group assembles. A trusted mediator is chosen. The perpetrator is not immediately cast out forever (Val: "you are still my friend"). Instead, Bethel is immediately temporarily separated, to begin the process of figuring out to what extent healing / reintegration is possible (if at all). It is acknowledged that this is a process with open end, on all sides (including the crew, Joon, and Bethel).
+>>> 
+>>> This arc is not just about our crew on Aerb, it is also about how close-knit groups of people can deal with that kind of thing. After initial reservations, I am actually happy with how /u/cthulhuraejepsen traded off perceived slight OOC-ness (at least from my reading) for more real-world relevance. To me, the last two chapters were super positive in their outlook.
+>>> 
+>>> /u/cthulhuraejepsen : You surely used for inspiration an amalgam of personal experience from people in your extended circle of acquaintances, half-remembered literature and explicitly remembered literature (e.g. other fics/stories/books that prompted you to mentally said "my characters would do this thing differently, but should learn from that thing", or serious blog posts or literature a la hypothetical "How anarchist communities should deal with rape: Ideals and Experiences from xyz"). 
+>>> 
+>>> Could you post some links for the "explicitly remembered literature" category that inspired this arc?
 
->>>> **u/cthulhuraejepsen** [+6]  *Fruit flies like a banana**
+>>>> **u/cthulhuraejepsen** [+7]  *Fruit flies like a banana* (2 days later)
 >>>> 
 >>>> Most of the research for this chapter was in reading how these kinds of issues are dealt with by therapists, reading accounts from people who had been sexually assaulted (with a specific eye towards people who think that their sexual assault maybe wasn't, or who didn't initially characterize it as that). I don't have any specific links; most of it was either Google searches for survivor resources, or AskReddit threads. Plus I tried my best to get some perspectives from both non-Western countries and from the United States in other eras where rape and sexual assault were treated differently, just for the sake of perspective. (I love court cases for the window they give into how educated people think; [People v. Liberta](https://scholar.google.com/scholar_case?case=1399209540378549726&hl=en&as_sdt=6&as_vis=1&oi=scholarr) is worth a read, if you can stomach it, in part because it gives some history, some comparisons, and some links, and especially touches on equal protection.)
->>>> I don't know if that answers the question?
 >>>> 
+>>>> I don't know if that answers the question?
 
->>>>> **u/ceegheim** [+3] *
+>>>>> **u/ceegheim** [+3]  (2 days later)
 >>>>> 
 >>>>> >I don't know if that answers the question?
->>>>> It does, thanks (also for the interesting link). A pity that you remember so few of your research sources (but very understandable: you are writing a novel, not an article). Kudos again for your handling of this arc so far, I'm looking forward to the next chapters.
 >>>>> 
+>>>>> It does, thanks (also for the interesting link). A pity that you remember so few of your research sources (but very understandable: you are writing a novel, not an article). Kudos again for your handling of this arc so far, I'm looking forward to the next chapters.
 
->>> **u/LupoCani** [+7] *
+>>> **u/LupoCani** [+6]  (a day later)
 >>> 
 >>> >Also: Uther raped her.
->>> That's a blatant misrepresentation. She emphatically did not care about, nor was she particularly affected by, providing Uther with holographic force-sex - any more than the typical human would care about, say, their character in an MMORPG being raped. Uther did go on to threaten, coerce and violate her autonomy, as a consequence of how much weight he put on it, and that _was_ terrible and traumatizing in a way that's reasonably analogous. Keeping in mind that the act itself was in fact meaningless to her, the nature of the violations (Uther of her, her of Juniper) were substantially different enough that we can't just say "she knows what it's like" and be done with it. (For the record, she was explicitly unaware that Juniper was feeling fear at the moment - perhaps because several emotions are chemically similar, or because he was using multithreading to suppress outward response.)
->>> Further, you may be overestimating the depth of her experience of humans. While she is five hundred years old, a significant fraction of that was spent in the boundless pit, mutilating various invaders. Of the remainder, she was for a long time a severely limited intelligence, with limited or no ability to grasp the subtleties of human interactions. Then, her residents were often Penndraigs, who could hardly be role models. Hells, considering how socially regressive Aerb is as a whole, compared to the modern West, I'd sooner expect Bethel to have heard talks on "how to grit your teeth through your wedding night" than on the importance of affirmative consent.
 >>> 
+>>> That's a blatant misrepresentation. She emphatically did not care about, nor was she particularly affected by, providing Uther with holographic force-sex - any more than the typical human would care about, say, their character in an MMORPG being raped. Uther did go on to threaten, coerce and violate her autonomy, as a consequence of how much weight he put on it, and that _was_ terrible and traumatizing in a way that's reasonably analogous. Keeping in mind that the act itself was in fact meaningless to her, the nature of the violations (Uther of her, her of Juniper) were substantially different enough that we can't just say "she knows what it's like" and be done with it. (For the record, she was explicitly unaware that Juniper was feeling fear at the moment - perhaps because several emotions are chemically similar, or because he was using multithreading to suppress outward response.)
+>>> 
+>>> Further, you may be overestimating the depth of her experience of humans. While she is five hundred years old, a significant fraction of that was spent in the boundless pit, mutilating various invaders. Of the remainder, she was for a long time a severely limited intelligence, with limited or no ability to grasp the subtleties of human interactions. Then, her residents were often Penndraigs, who could hardly be role models. Hells, considering how socially regressive Aerb is as a whole, compared to the modern West, I'd sooner expect Bethel to have heard talks on "how to grit your teeth through your wedding night" than on the importance of affirmative consent.
 
->>>> **u/eaglejarl** [+4] *
+>>>> **u/eaglejarl** [+5]  (2 days later)
 >>>> 
 >>>> Fair points. I don't remember at what point she became properly self-aware. Maybe she simply is to ignorant to have understood. That doesn't get her off the hook or make the team's actions unreasonable, but it at least suggests that things might be salvageable.
->>>> Do you have the reference to that scene with Uther? I would like to check it before I end up talking out of my hat.
 >>>> 
+>>>> Do you have the reference to that scene with Uther? I would like to check it before I end up talking out of my hat.
 
->>>>> **u/LupoCani** [+5] *
+>>>>> **u/LupoCani** [+4]  (2 days later)
 >>>>> 
 >>>>> There are a couple of relevant parts of the text. Her history with Uther is first told in [Chapter 92](https://archiveofourown.org/works/11478249/chapters/33465051). The scene in particular is towards the end, but the beginning also has some conversation on how he forcibly added entads to her. Her perspective is repeated, and reinforced, when they first meet Raven in [Chapter 122](https://archiveofourown.org/works/11478249/chapters/37423922): 
+>>>>> 
 >>>>> > Bethel held out a hand, and Uther appeared above it, a talking head speaking with restrained fury.
+>>>>> 
 >>>>> >“If you speak about this to anyone, whisper so much as a word, I’ll return here and start ripping away every piece of you. I’ll smash your windows and tear up your floorboards. Your power? I’ll load you with so many entads you won’t be able to think, let alone speak. There are dark and twisted items of power, and I’ve been collecting the worst of them for quite some time, horrible things that would warp you beyond all recognition. Don’t so much as think my name, do you understand?” I didn’t know how close to the truth that actually was, since by her own admission her intellect and memory hadn’t been fully formed at that point, but he was nearly snarling. He seemed ready to launch into something else, another threat from the look on his face, but Bethel waved the image away like it was a cloud of smoke. 
+>>>>> 
 >>>>> &nbsp;
 >>>>> >“Strange, to me, how important the act is to mortals,” said Bethel. “It was meaningless to me, and still is, but you care more about the images I projected with one power and the force I applied with another than his threats to me, or the decades of isolation he enforced. He deprived me of purpose, he refused to be my master, and it’s the ephemeral, simulated flesh that makes you cringe in horror. No, don’t speak.”
->>>>> 
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (a day later)
 >>> 
 >>> I definitely enjoy taking the unusual stances. Even in this thread I've had dozen different explanations for Bethel with varying degrees of maliciousness.
->>> I agree with your last sentence, however your point and another user has made reminded me just how evil an act this is.
->>> If Bethel did understand it then she was doing much worse than most simple humans who have only signals to go on. Bethel can see all the internal turmoil of Joon and keep raping him regardless.
->>> It means that her utility function isn't what she says at all. 
->>> In fact if what you say is true she is so responsible that she's realistically lying to Val. She does want to harm Joon and her owners and everything seems to demonstrate that she is a sadist house which is bizarre but put it down to entad mergers. 
->>> Regardless how do you stop someone being a sadist? Val telling Bethel that Joon was hurt is pointless since Bethel knows that she raped him and knows that rape is damaging and did it deliberately.
->>> The only solution is to draw clear lines with Bethel about the extent of her sadism. If she wants to maximise her pleasure you need to tell her what actions will result in being killed so she can properly map her utility.
->>> In particular the response to killing her for raping him only is a reasonable punishment if she knew that. Then it would actually serve as a deterrent. If however they're not doing it for punishment but as preventative then that's fine if a bit over the top.
->>> If no one told Bethel they'd kill her for raping then she probably was pretty confident she could get away with torturing Joon as she tortures Mary and it looks like she was right about that. She predicted they wouldn't instantly kill her and now she got to try out rape.
 >>> 
+>>> I agree with your last sentence, however your point and another user has made reminded me just how evil an act this is.
+>>> 
+>>> If Bethel did understand it then she was doing much worse than most simple humans who have only signals to go on. Bethel can see all the internal turmoil of Joon and keep raping him regardless.
+>>> 
+>>> It means that her utility function isn't what she says at all. 
+>>> 
+>>> In fact if what you say is true she is so responsible that she's realistically lying to Val. She does want to harm Joon and her owners and everything seems to demonstrate that she is a sadist house which is bizarre but put it down to entad mergers. 
+>>> 
+>>> Regardless how do you stop someone being a sadist? Val telling Bethel that Joon was hurt is pointless since Bethel knows that she raped him and knows that rape is damaging and did it deliberately.
+>>> 
+>>> The only solution is to draw clear lines with Bethel about the extent of her sadism. If she wants to maximise her pleasure you need to tell her what actions will result in being killed so she can properly map her utility.
+>>> 
+>>> In particular the response to killing her for raping him only is a reasonable punishment if she knew that. Then it would actually serve as a deterrent. If however they're not doing it for punishment but as preventative then that's fine if a bit over the top.
+>>> 
+>>> If no one told Bethel they'd kill her for raping then she probably was pretty confident she could get away with torturing Joon as she tortures Mary and it looks like she was right about that. She predicted they wouldn't instantly kill her and now she got to try out rape.
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (15 days later)
 > 
 > Would people with Aphantasia be immune to Harold?
-> 
 
-> **u/dcb720** [+1] *
+> **u/dcb720** [+1]  (a month later)
 > 
 > So was Valencia wearing Monica's bad-news sweater from Silicon Valley?
-> 
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+0]  (10 hours later)
 > 
 > So what does everyone think the reason Bethel ignored the no was?
-> 
 
->> **u/Dragfie** [+20] *
+>> **u/Dragfie** [+22]  (11 hours later)
 >> 
 >> The same reason as Juniper's uncles in his flashback; if you are tickling someone its thought of as normal to not stop if they say no. Sex isn't the same as tickling, but to Bethel it is. - After all, all she sees is the biological response of pleasure, just like all the uncle sees is June laughing. 
->> This has made me seriously re-think the morality of tickling people as well...
 >> 
+>> This has made me seriously re-think the morality of tickling people as well...
 
->>> **u/HeckDang** [+15] *
+>>> **u/HeckDang** [+17]  (12 hours later)
 >>> 
 >>> I've been raped, and I thought it was really interesting because tickling is my go-to comparison as well. I *hated* being tickled as a kid, probably even moreso than I hated being raped, because at least people are likely to be reasonably sympathetic to you if you've been raped. Nobody takes a kid complaining about how much they hate being tickled seriously. 
->>> Weirdly enough though I come down more on the Pallida side of the situation, although AW did leave her actual perspective fairly ambiguous which does a lot to allow her to represent a wide range of possible other viewpoints on the topic. I was very glad that AW did lampshade that it was possible to perceive the situation differently, instead of having the group have a monolithic and uniform perspective. Good for realism, especially in what should be a very culturally diverse place like Aerb.
 >>> 
+>>> Weirdly enough though I come down more on the Pallida side of the situation, although AW did leave her actual perspective fairly ambiguous which does a lot to allow her to represent a wide range of possible other viewpoints on the topic. I was very glad that AW did lampshade that it was possible to perceive the situation differently, instead of having the group have a monolithic and uniform perspective. Good for realism, especially in what should be a very culturally diverse place like Aerb.
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (11 hours later)
 >>> 
 >>> So why do they want to kill her when it's their fault for not telling Bethel about consent and tickling?
->>> Imagine wanting to put down your dog because it shat in the house. If Bethel didn't know any better the responsibility lies on those who chose to live in her and raise her sentience
 >>> 
+>>> Imagine wanting to put down your dog because it shat in the house. If Bethel didn't know any better the responsibility lies on those who chose to live in her and raise her sentience
 
->>>> **u/eaglejarl** [+6] *
+>>>> **u/eaglejarl** [+7]  (a day later)
 >>>> 
 >>>> If Bethel had come into existence yesterday, no one would be arguing with you.  Bethel came into existence centuries ago.
->>>> If Bethel had never interacted with other sapient beings, no  one would be arguing with you.  Bethel has had possibly tens of thousands of people pass through her over the years and has had thousands of them live inside her for extended periods.
->>>> If Bethel had never been exposed to any moral teachings, no one would be arguing with you.  Bethel has had kings and heroes inside her.  There have undoubtedly been many, many conversations about the morality of various actions.
->>>> If Bethel had never encountered the idea that sex can be unpleasant, no one would be arguing with you.  Bethel was raped and didn't like it.
->>>> If Bethel had no ability to understand human reactions or identify emotional responses then no one would be arguing with you.  Bethel may actually be telepathic or empathic and she definitely has a physical sensorium that allows her to monitor literally every internal and external part of a person's body.  Her awareness of other's thoughts are rivaled only by Val-with-a-devil.
->>>> Bethel raped Joon because she suddenly had the ability to have sex, she wanted to try it, and he seemed appealing.
 >>>> 
+>>>> If Bethel had never interacted with other sapient beings, no  one would be arguing with you.  Bethel has had possibly tens of thousands of people pass through her over the years and has had thousands of them live inside her for extended periods.
+>>>> 
+>>>> If Bethel had never been exposed to any moral teachings, no one would be arguing with you.  Bethel has had kings and heroes inside her.  There have undoubtedly been many, many conversations about the morality of various actions.
+>>>> 
+>>>> If Bethel had never encountered the idea that sex can be unpleasant, no one would be arguing with you.  Bethel was raped and didn't like it.
+>>>> 
+>>>> If Bethel had no ability to understand human reactions or identify emotional responses then no one would be arguing with you.  Bethel may actually be telepathic or empathic and she definitely has a physical sensorium that allows her to monitor literally every internal and external part of a person's body.  Her awareness of other's thoughts are rivaled only by Val-with-a-devil.
+>>>> 
+>>>> Bethel raped Joon because she suddenly had the ability to have sex, she wanted to try it, and he seemed appealing.
 
->>>>> **u/RMcD94** [+1] *
+>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>> 
 >>>>> I see your perspective. You are suggesting just like that person irl Bethel should be expected to know and understand these things.
->>>>> Therefore it is her responsibility for choosing to rape him which is a much more malicious perspective than other.
->>>>> You raise a good point about awareness, she could see his internal feelings the entire time. That's incredibly evil, she must have lied about the happiness thing.
 >>>>> 
+>>>>> Therefore it is her responsibility for choosing to rape him which is a much more malicious perspective than other.
+>>>>> 
+>>>>> You raise a good point about awareness, she could see his internal feelings the entire time. That's incredibly evil, she must have lied about the happiness thing.
 
->>>> **u/Dragfie** [+0] *
+>>>> **u/Dragfie** [+0]  (12 hours later)
 >>>> 
 >>>> I agree with that\^, not really sure why you thought I didn't?
->>>> 
 
->>>>> **u/RMcD94** [+1] *
+>>>>> **u/RMcD94** [+1]  (13 hours later)
 >>>>> 
 >>>>> I didn't mean to imply that, just wondering why you think Amy is so uncharacteristically unemphatetic
->>>>> 
 
->>>>>> **u/Dragfie** [+4] *
+>>>>>> **u/Dragfie** [+4]  (14 hours later)
 >>>>>> 
 >>>>>> mmm, I think its more that Amy sees it as Rape. Or put another way; if Bethel goes and tortures June or kills a bunch of her friends, she would react in the same way even if Bethel couldn't really know at the time why that was so wrong. Also I guess since even if to bethel it isn't much, it is a big deal to June, and Amy knows it, so it being supportive and she loves him so of course she would support him.
->>>>>> 
 
->>>>>>> **u/RMcD94** [+1] *
+>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> That makes sense. You're suggesting that she internally does consider Bethel but to Joom she displays more anger
->>>>>>> 
 
->> **u/LordSwedish** [+11]  *Q Continuum**
+>> **u/LordSwedish** [+10]  *Q Continuum* (12 hours later)
 >> 
 >> Well it’s practically stated. She doesn’t understand humans and thought she knew better. She thought Joon was hung up on amaryllis or Fenn and that he felt pleasure, that was enough for her to believe his words were inconsequential.
->> 
 
->>> **u/RMcD94** [-1] *
+>>> **u/RMcD94** [-1]  (13 hours later)
 >>> 
 >>> So why do they all take her actions so personally as if she did them out of malice rather than as a badly raised dog
->>> She knew better so what did she think the no meant? She thought no meant yes? Why didn't anyone teach her the word no
 >>> 
+>>> She knew better so what did she think the no meant? She thought no meant yes? Why didn't anyone teach her the word no
 
->>>> **u/LordSwedish** [+12]  *Q Continuum**
+>>>> **u/LordSwedish** [+12]  *Q Continuum* (13 hours later)
 >>>> 
 >>>> Because she’s still a person. Not a human person, but a person nonetheless. Also, Joon was raped, it doesn’t matter if it was done by a mindless machine, everyone would still be as upset.
->>>> Bethel was an unpleasant individual who has now proven that she can’t be trusted not to hurt people.
 >>>> 
+>>>> Bethel was an unpleasant individual who has now proven that she can’t be trusted not to hurt people.
 
->>>>> **u/RMcD94** [+0] *
+>>>>> **u/RMcD94** [+0]  (a day later)
 >>>>> 
 >>>>> It does matter if it was done by a machine.
->>>>> I'm not suggesting that Joon doesn't need support I'm just talking about how you deal with a mindless rape machine versus Grak raping Joon versus Bethel raping Joon.
->>>>> Sure Joon needs support but murdering Bethel only makes sense if she was being malicious.
-
->>>>> ---
->>>>> Why can't she be trusted not to hurt people? What is Bethel's motivation for wanting to rape and hurt Joon? 
->>>>> They chose to live in her, to uplift her and raise her. They made her take missions she didn't want to do and what happened is a direct consequence.
->>>>> Joon and Co had tons of time to explain the concept of consent to a house who obviously wouldn't understand it.
->>>>> Either they did or didn't and both matter tremendously for if Bethel is malicious or ignorant.
 >>>>> 
+>>>>> I'm not suggesting that Joon doesn't need support I'm just talking about how you deal with a mindless rape machine versus Grak raping Joon versus Bethel raping Joon.
+>>>>> 
+>>>>> Sure Joon needs support but murdering Bethel only makes sense if she was being malicious.
+>>>>> 
+>>>>> ---
+>>>>> 
+>>>>> Why can't she be trusted not to hurt people? What is Bethel's motivation for wanting to rape and hurt Joon? 
+>>>>> 
+>>>>> They chose to live in her, to uplift her and raise her. They made her take missions she didn't want to do and what happened is a direct consequence.
+>>>>> 
+>>>>> Joon and Co had tons of time to explain the concept of consent to a house who obviously wouldn't understand it.
+>>>>> 
+>>>>> Either they did or didn't and both matter tremendously for if Bethel is malicious or ignorant.
 
->>>>>> **u/LordSwedish** [+10]  *Q Continuum**
+>>>>>> **u/LordSwedish** [+11]  *Q Continuum* (a day later)
 >>>>>> 
 >>>>>> Valencia explicitly spelled this out. Bethel constantly threatens and scares people but amaryllis could live with it because she was assured that Bethel wouldn’t actually harm any of them. Then she comes out and rapes the one person who genuinely likes her, the only one she doesn’t have a grudge against. Amaryllis doesn’t think they are safe anymore. As Val said, Amaryllis always thought Bethel would cross the line and become dangerous and this has just confirmed it for her.
->>>>>> Bethel understands the meaning of consent. She was raped herself, she was used by others without having a say and she knows it’s wrong. As they explicitly point out in the chapters, she thought she knew what was going on and thought everyone would be happy, and she rationalized away the things that were in the way. This happens in real life. Remove the fantasy and I guarantee you that this exact situation happens all the time in our world, someone thinks they know better because otherwise the way they’ve planned things out was wrong.
->>>>>> Bethel not being malicious doesn’t matter. Bethel is an incredibly powerful entity with few morals who has now proven that she is a clear and present threat to everyone around her. If she can’t be trusted not to hurt people she herself doesn’t want to hurt, then she has to be stopped. Just look at Val in this story, she is Bethels second closest friend and she is absolutely terrified that her explaining things to Bethel has a very high chance of her getting tortured to death.
 >>>>>> 
+>>>>>> Bethel understands the meaning of consent. She was raped herself, she was used by others without having a say and she knows it’s wrong. As they explicitly point out in the chapters, she thought she knew what was going on and thought everyone would be happy, and she rationalized away the things that were in the way. This happens in real life. Remove the fantasy and I guarantee you that this exact situation happens all the time in our world, someone thinks they know better because otherwise the way they’ve planned things out was wrong.
+>>>>>> 
+>>>>>> Bethel not being malicious doesn’t matter. Bethel is an incredibly powerful entity with few morals who has now proven that she is a clear and present threat to everyone around her. If she can’t be trusted not to hurt people she herself doesn’t want to hurt, then she has to be stopped. Just look at Val in this story, she is Bethels second closest friend and she is absolutely terrified that her explaining things to Bethel has a very high chance of her getting tortured to death.
 
->>>>>>> **u/carminis_vigil** [+8] *
+>>>>>>> **u/carminis_vigil** [+9]  (a day later)
 >>>>>>> 
 >>>>>>> Yes thank you. Bethel has a lot more understanding and agency than /u/RMcD94 is giving her credit for.
->>>>>>> 
 
->>>>>>> **u/RMcD94** [-1] *
+>>>>>>> **u/RMcD94** [-1]  (a day later)
 >>>>>>> 
 >>>>>>> So then why did Bethel rape him?
->>>>>>> Because she didn't understand consent?
->>>>>>> You say that she raped him because she thought he'd be happy.
->>>>>>> That sounds to me like someone who doesn't understand consent.
->>>>>>> It doesn't matter if you are happy if you don't consent.
->>>>>>> Did no one tell Bethel that? Did she know that and therefore was malicious?
 >>>>>>> 
+>>>>>>> Because she didn't understand consent?
+>>>>>>> 
+>>>>>>> You say that she raped him because she thought he'd be happy.
+>>>>>>> 
+>>>>>>> That sounds to me like someone who doesn't understand consent.
+>>>>>>> 
+>>>>>>> It doesn't matter if you are happy if you don't consent.
+>>>>>>> 
+>>>>>>> Did no one tell Bethel that? Did she know that and therefore was malicious?
 
->>>>>>>> **u/eaglejarl** [+7] *
+>>>>>>>> **u/eaglejarl** [+7]  (a day later)
 >>>>>>>> 
 >>>>>>>> So far as I can tell, she raped him because she wanted sex and found him appealing as a sex partner.
->>>>>>>> 
 
->>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> So she didn't care about his opinion which is very malicious.
->>>>>>>>> Why did she want sex? It's not very house like. Just because of the body entad?
 >>>>>>>>> 
+>>>>>>>>> Why did she want sex? It's not very house like. Just because of the body entad?
 
->>>>>>>>>> **u/eaglejarl** [+4] *
+>>>>>>>>>> **u/eaglejarl** [+4]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> My first guess would be that she had seen lots of people do it and enjoy it, but it had been denied to her because house. Then she got a busy that was capable of sex and figured she'd try it.
->>>>>>>>>> 
 
->>>>>>>> **u/LordSwedish** [+6]  *Q Continuum**
+>>>>>>>> **u/LordSwedish** [+7]  *Q Continuum* (a day later)
 >>>>>>>> 
 >>>>>>>> I think you’d be very surprised by how many people don’t understand this despite being told about it. Bethel doesn’t see herself like the kind of person who could hurt Joon or take advantage of him because that’s how she views her own abusers. If she doesn’t see herself as an abuser, then she doesn’t think of what she does to Joon as abuse. 
->>>>>>>> This is how people work a lot of the time. Rationalism and logical thinking isn’t the norm in a lot of people’s lives and they typically don’t have the same exposure to sexual assault.
 >>>>>>>> 
+>>>>>>>> This is how people work a lot of the time. Rationalism and logical thinking isn’t the norm in a lot of people’s lives and they typically don’t have the same exposure to sexual assault.
 
->>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> Sure I agree she might not see it as abuse but she knows it's rape then?
->>>>>>>>> There's no way you can have sex with someone who said no without becoming a rapist except for safe words
 >>>>>>>>> 
+>>>>>>>>> There's no way you can have sex with someone who said no without becoming a rapist except for safe words
 
->>>>>>>>>> **u/LordSwedish** [+3]  *Q Continuum**
+>>>>>>>>>> **u/LordSwedish** [+3]  *Q Continuum* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> I only now realised that you are also the person I'm arguing with on another comment chain in this thread...
->>>>>>>>>> The whole point is this. Real life examples and the ignorance of huge parts of society on the topic of rape, clearly point to the fact that not everyone is aware of the second point you state here. Bethel is a rapist, yes. The thing is that she doesn't know that she's a rapist. 
->>>>>>>>>> In her mind, Joon didn't mean "no" like that, this means she isn't a rapist in her mind. I have to say again, people do this all the time in reality. People molest, harass, rape, etc. other people every day and a lot of the time they'd argue that it was different in their case, it didn't really count or they had good intentions. You're acting as if Bethel had to be ignorant of consent or aware that she was raping Joon but the truth is that she just had to have thought processes that were fairly similar to most humans.
 >>>>>>>>>> 
+>>>>>>>>>> The whole point is this. Real life examples and the ignorance of huge parts of society on the topic of rape, clearly point to the fact that not everyone is aware of the second point you state here. Bethel is a rapist, yes. The thing is that she doesn't know that she's a rapist. 
+>>>>>>>>>> 
+>>>>>>>>>> In her mind, Joon didn't mean "no" like that, this means she isn't a rapist in her mind. I have to say again, people do this all the time in reality. People molest, harass, rape, etc. other people every day and a lot of the time they'd argue that it was different in their case, it didn't really count or they had good intentions. You're acting as if Bethel had to be ignorant of consent or aware that she was raping Joon but the truth is that she just had to have thought processes that were fairly similar to most humans.
 
->>>>>>>>>>> **u/RMcD94** [+1] *
+>>>>>>>>>>> **u/RMcD94** [+1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I don't understand how you can argue with they didn't consent. If they said no they didn't consent. The only arguments would be like "I didn't hear them" or "I hear yes" or "we previously agreed on a safe word". If they didn't consent you're a rapist. 
->>>>>>>>>>> But I'll take your word for it since I haven't spoken to many rapists (that I know of probably lots of people I didn't realise)
->>>>>>>>>>> I don't think Bethel is likely to be comparable to humans seeing as she is a house and cannot be overwhelmed by physical urges (apparently) so she was in the same mental state then. Whereas women irl have hormones changing their brain and the actions they do while in court and while in the bedroom they might not do both times.
->>>>>>>>>>> Bethel should never have an action she would only do when certain drugs lower her inhibitions
 >>>>>>>>>>> 
+>>>>>>>>>>> But I'll take your word for it since I haven't spoken to many rapists (that I know of probably lots of people I didn't realise)
+>>>>>>>>>>> 
+>>>>>>>>>>> I don't think Bethel is likely to be comparable to humans seeing as she is a house and cannot be overwhelmed by physical urges (apparently) so she was in the same mental state then. Whereas women irl have hormones changing their brain and the actions they do while in court and while in the bedroom they might not do both times.
+>>>>>>>>>>> 
+>>>>>>>>>>> Bethel should never have an action she would only do when certain drugs lower her inhibitions
 
->>>>>>>>>>>> **u/LordSwedish** [+3]  *Q Continuum**
+>>>>>>>>>>>> **u/LordSwedish** [+3]  *Q Continuum* (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> I think you're stuck on one fundamental point. Most people who strive to be rational think that something is true based on evidence, therefore they believe it, therefore they argue for it. Most people don't try to be completely rational in their beliefs. Bethel believes she's not a rapist, therefore the truth is that she doesn't rape Joon, therefore he didn't actually mean it when he said no.
->>>>>>>>>>>> This is wrong. We know it's wrong and that Bethel did rape him. This is also fundamentally how a significant part of people think.
->>>>>>>>>>>> On a side note, didn't Valencia explicitly state that Bethel having a body meant that she was experiencing sexual pleasure and desire for the first time? That kind of sinks your entire final paragraph. Also, I never mentioned drugs.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> This is wrong. We know it's wrong and that Bethel did rape him. This is also fundamentally how a significant part of people think.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> On a side note, didn't Valencia explicitly state that Bethel having a body meant that she was experiencing sexual pleasure and desire for the first time? That kind of sinks your entire final paragraph. Also, I never mentioned drugs.
 
-> **u/dobri111** [-10] *
+> **u/dobri111** [-8]  (8 hours later)
 > 
 > Great chapters!  Male perspective in this rape situation is a great adition. I'd like to add my 2 cents to the discusion.
-> Situation is obviously much more complex than it appears.
-> A lot of blame for the situation lies on Juniper, since Bethel was a monster from start and he just though she was HIS monster. He was also giving her false signs knowing she has no social skills and could easily misread a situation, and knowing she has no empathy and not caring since he was using her skills.
-> Problem for Juniper was not sex part of the rape, it was lack of control and feeling powerless.
-> Juniper himself is obviously powerful and he likes have power in any relationship displayed so far. 
-> Not surprisingly the way to deal with that situation is gaining more power and gaining control in the relationship by exercising power and banishing her from the group.
-> He played with fire to gain power, in part for his sexual relationships and he got burned by using powerfull socially retarded person.
 > 
+> Situation is obviously much more complex than it appears.
+> 
+> A lot of blame for the situation lies on Juniper, since Bethel was a monster from start and he just though she was HIS monster. He was also giving her false signs knowing she has no social skills and could easily misread a situation, and knowing she has no empathy and not caring since he was using her skills.
+> 
+> Problem for Juniper was not sex part of the rape, it was lack of control and feeling powerless.
+> 
+> Juniper himself is obviously powerful and he likes have power in any relationship displayed so far. 
+> 
+> Not surprisingly the way to deal with that situation is gaining more power and gaining control in the relationship by exercising power and banishing her from the group.
+> 
+> He played with fire to gain power, in part for his sexual relationships and he got burned by using powerfull socially retarded person.
 
->> **u/hyphenomicon** [+12]  *seer of seers, prognosticator of prognosticators**
+>> **u/hyphenomicon** [+12]  *seer of seers, prognosticator of prognosticators* (21 hours later)
 >> 
 >> I think that even to a meta-entad like Bethel, having people be cowed into not conveying all relevant useful information out of fear should have been a highly foreseeable negative consequence of regular threats of violence and attempts to manipulate herself into positions of power over others. Bethel knows that she lacks certain capabilities, but we've never really seen her make an effort to try to train herself to develop them except by eating other entads, which is a major personal failing.
->> If we want to get real hyper-autistic utilitarian here, maybe she should consider herself lucky nothing worse than completely destroying her relationship with Juniper happened as a result of that persistent negligence of proper interpersonal relationships.
->> Edit: I reread chapter 164 and have a lot more to say.
->> > “I always thought it was fumbling,” said Bethel. “Two creatures who can barely see each other, barely feel each other, who have to guess what certain physiological responses must mean, groping and grappling while they seek their own pleasure. It always seemed so inefficient. But I think I can see it better, how the mutuality of it works.”
->> With this line, horrifyingly enough given *after* the rape, it might be that raping Juniper *was* Bethel's attempt to try to develop her social skills, in which case it's a lot messier to diagnose her mistake from her own point of view. If she thought that this was a low-risk of backfiring way to develop her understanding of humans further, it is easier to sympathize with her failing. Pursuing training is exactly the sort of action she should have been pursuing, and not having a good index of what one doesn't know is hard to avoid.
->> I still think the problems are there, but we have to go one step further back to find them, and they're more myriad. Additionally, there is a bit of taking advantage of hindsight bias involved - I wouldn't have predicted ten chapters ago that due to her problems Bethel would rape Juniper or do anything similarly awful, and so condemning her for not anticipating the same is a bit of a cheat (I would argue she had privileged inside information of her own plans that on net counteracts this excuse, though). Regardless, we can say that an alien intelligence like Bethel should know that 
->> 1. she should not be aggressive when acting in high-uncertainty domains 
->> 2. should not learn by doing when acting in high-uncertainty domains 
->> 3. should be more wary of actions that require her to lie to others to proceed, due to an understanding that part of what informs others' actions is a different factual understanding than her own.
->> 4. should be wary of being influenced by sudden changes to herself after incorporation of a new entad
->> 5. should be patient and learn in smaller but more frequent increments when acting in high-uncertainty domains
->> 6. should consult with others to guide her plans - even if only to reject their views out of mistrust later
->> 7. should consult with her resources on human socialization more, even if she didn't trust any of her residents
->> 8. should try to lean as far as she can from her modus operandi, where she is specifically pursuing improvement in areas her instincts are badly calibrated for
->> When Valencia explained Bethel's mistake to her in the most recent chapter, Bethel was pretty quick to pick up on what she had done wrong. Even chalking some of that up to Valencia's ability as a persuader, I think their conversation was not bizarre or lengthy enough for us to say Bethel wasn't capable of figuring out on her own that no means no due to her alien mindset. Bethel shouldn't get to demand respect as a fellow highly sentient being unless she's willing to be held to the standards of one.
->> Meta (still a continuation of the edit): I don't think you should have been downvoted for taking the point of view of the alien evildoer, necessarily, but your comment lacked any kind of hedging or acknowledgement of counterarguments which is probably a component of why it's getting such a bad reception, in addition to less justifiable but still sympathetic reasons like people not wanting to think about how rapists might think. This subreddit should be a place for being willing to delve into the mechanisms of thought behind literary tropes, in my opinion, even those involving violence, but if we're going to pursue that then I think we should try to make our analysis strong in proportion to the amount of weirdness of the topic under discussion, and I don't think you did a great job of doing so. To whatever extent people are downvoting you because you dared to bring up Bethel's point of view I disagree with them, but to whatever extent people are downvoting you because you failed to do a good job addressing Bethel's point of view in a way that acknowledged its flaws, or allowed for the legitimacy of sympathizing with Juniper's point of view, I concur with them.
 >> 
+>> If we want to get real hyper-autistic utilitarian here, maybe she should consider herself lucky nothing worse than completely destroying her relationship with Juniper happened as a result of that persistent negligence of proper interpersonal relationships.
+>> 
+>> Edit: I reread chapter 164 and have a lot more to say.
+>> 
+>> > “I always thought it was fumbling,” said Bethel. “Two creatures who can barely see each other, barely feel each other, who have to guess what certain physiological responses must mean, groping and grappling while they seek their own pleasure. It always seemed so inefficient. But I think I can see it better, how the mutuality of it works.”
+>> 
+>> With this line, horrifyingly enough given *after* the rape, it might be that raping Juniper *was* Bethel's attempt to try to develop her social skills, in which case it's a lot messier to diagnose her mistake from her own point of view. If she thought that this was a low-risk of backfiring way to develop her understanding of humans further, it is easier to sympathize with her failing. Pursuing training is exactly the sort of action she should have been pursuing, and not having a good index of what one doesn't know is hard to avoid.
+>> 
+>> I still think the problems are there, but we have to go one step further back to find them, and they're more myriad. Additionally, there is a bit of taking advantage of hindsight bias involved - I wouldn't have predicted ten chapters ago that due to her problems Bethel would rape Juniper or do anything similarly awful, and so condemning her for not anticipating the same is a bit of a cheat (I would argue she had privileged inside information of her own plans that on net counteracts this excuse, though). Regardless, we can say that an alien intelligence like Bethel should know that 
+>> 
+>> 1. she should not be aggressive when acting in high-uncertainty domains 
+>> 
+>> 2. should not learn by doing when acting in high-uncertainty domains 
+>> 
+>> 3. should be more wary of actions that require her to lie to others to proceed, due to an understanding that part of what informs others' actions is a different factual understanding than her own.
+>> 
+>> 4. should be wary of being influenced by sudden changes to herself after incorporation of a new entad
+>> 
+>> 5. should be patient and learn in smaller but more frequent increments when acting in high-uncertainty domains
+>> 
+>> 6. should consult with others to guide her plans - even if only to reject their views out of mistrust later
+>> 
+>> 7. should consult with her resources on human socialization more, even if she didn't trust any of her residents
+>> 
+>> 8. should try to lean as far as she can from her modus operandi, where she is specifically pursuing improvement in areas her instincts are badly calibrated for
+>> 
+>> When Valencia explained Bethel's mistake to her in the most recent chapter, Bethel was pretty quick to pick up on what she had done wrong. Even chalking some of that up to Valencia's ability as a persuader, I think their conversation was not bizarre or lengthy enough for us to say Bethel wasn't capable of figuring out on her own that no means no due to her alien mindset. Bethel shouldn't get to demand respect as a fellow highly sentient being unless she's willing to be held to the standards of one.
+>> 
+>> Meta (still a continuation of the edit): I don't think you should have been downvoted for taking the point of view of the alien evildoer, necessarily, but your comment lacked any kind of hedging or acknowledgement of counterarguments which is probably a component of why it's getting such a bad reception, in addition to less justifiable but still sympathetic reasons like people not wanting to think about how rapists might think. This subreddit should be a place for being willing to delve into the mechanisms of thought behind literary tropes, in my opinion, even those involving violence, but if we're going to pursue that then I think we should try to make our analysis strong in proportion to the amount of weirdness of the topic under discussion, and I don't think you did a great job of doing so. To whatever extent people are downvoting you because you dared to bring up Bethel's point of view I disagree with them, but to whatever extent people are downvoting you because you failed to do a good job addressing Bethel's point of view in a way that acknowledged its flaws, or allowed for the legitimacy of sympathizing with Juniper's point of view, I concur with them.
 
->>> **u/dobri111** [+5] *
+>>> **u/dobri111** [+6]  (a day later)
 >>> 
 >>> This event is one of the things i hate about d&d and fantazy in general.
->>> We have no explanation on Bethel. People are guided by known psychology, and rest of the races have similar behavior granted by them from evolution. But we have no idea what guides Bethel, and neither does Joon or Mary. And yet they adopted her, traveled with her, empowered her and introduced her to civilization.  Even after shes shown clear anti social tendencies. Any rational inteligent being should know right away that you do not trust completely alien entity with unknown motivation.  Yet Joon trusted her. It could be the author knows whats hes doing and having Joon being ulitmate villian, or he just made MC complete idiot for no apparent reason and just be it a plot device. Its almost always the latter, but i hope its the former so i make analysis based on it.
 >>> 
+>>> We have no explanation on Bethel. People are guided by known psychology, and rest of the races have similar behavior granted by them from evolution. But we have no idea what guides Bethel, and neither does Joon or Mary. And yet they adopted her, traveled with her, empowered her and introduced her to civilization.  Even after shes shown clear anti social tendencies. Any rational inteligent being should know right away that you do not trust completely alien entity with unknown motivation.  Yet Joon trusted her. It could be the author knows whats hes doing and having Joon being ulitmate villian, or he just made MC complete idiot for no apparent reason and just be it a plot device. Its almost always the latter, but i hope its the former so i make analysis based on it.
 
->> **u/xartab** [+12] *
+>> **u/xartab** [+12]  (10 hours later)
 >> 
 >> This subreddit deals a lot with alien intelligences, and especially these last few chapters, a lot of people where trying to analyse the alien-ness of Bethel's mind, but to be honest I can't imagine a lot of stuff more alien to my read on Juniper, Bethel, and their relationship than your interpretation of them just now.
->> 
 
->>> **u/RMcD94** [+4] *
+>>> **u/RMcD94** [+3]  (11 hours later)
 >>> 
 >>> Well we don't even have a professed reason for why Bethel did it but her reaction seems like a dog who took a shit inside and gets shouted at for it.
->>> The dog will do anything to make it right.
->>> Either she didn't know it was wrong (who's fault is that), or she did. Both have massive implications
 >>> 
+>>> The dog will do anything to make it right.
+>>> 
+>>> Either she didn't know it was wrong (who's fault is that), or she did. Both have massive implications
 
->>> **u/dobri111** [-3] *
+>>> **u/dobri111** [-3]  (10 hours later)
 >>> 
 >>> Whats so alien there? He saw a monster he could use for himself and it backfired. Like taming a tiger who attacks his handler. Juniper likes power in personal life and relationships. He wants to be DM, he dates 15 year old, his choice for dating in his harem is not Mary but Fenn who whom he can be considered superior.
->>> 
 
->>>> **u/Revlar** [+11] *
+>>>> **u/Revlar** [+11]  (18 hours later)
 >>>> 
 >>>> It's alien because it flies in the face of Juniper's mental processes, most of which are made clear through the narration. In no way does the fact that Juniper hated being raped imply he has some objective moral call to then gain power and expel Bethel. To think that betrays a fundamental misunderstanding of how behaving in a society of peers works.
->>>> 
 
->>>>> **u/dobri111** [+0] *
+>>>>> **u/dobri111** [+0]  (a day later)
 >>>>> 
 >>>>> Juniper mental proceses are mostly rationalisation of his action. Most inteligent and reasonable actions are atributed to Mary, or given in a backdrop in "we decided to use this.." without explaining mental process.
->>>>> In this chapter we see Valencia doing what best suited Joon, giving control back to him and taking it away from Bethel. I wouldn't be suprised to see in the end Juniper being main villian of the story, since this saviour of the world complex is not rational or normal behavior. Him date raping Mary, or destroying the world when she finally rejects him wouldn't suprise many at this point.
->>>>> His behavior is not healthy is my saying, and my ESL trying to say. It was unhealthy long before the rape, and it's what brought him into situtation that got him raped (he intentionally put him self into the position).  Bethel was never a complete person so "she" can't have full responsibility for the action.
 >>>>> 
+>>>>> In this chapter we see Valencia doing what best suited Joon, giving control back to him and taking it away from Bethel. I wouldn't be suprised to see in the end Juniper being main villian of the story, since this saviour of the world complex is not rational or normal behavior. Him date raping Mary, or destroying the world when she finally rejects him wouldn't suprise many at this point.
+>>>>> 
+>>>>> His behavior is not healthy is my saying, and my ESL trying to say. It was unhealthy long before the rape, and it's what brought him into situtation that got him raped (he intentionally put him self into the position).  Bethel was never a complete person so "she" can't have full responsibility for the action.
 
->>>>>> **u/Revlar** [+5] *
+>>>>>> **u/Revlar** [+5]  (2 days later)
 >>>>>> 
 >>>>>> How does leaning on his friends for support push him further down the path of villainhood than shutting up and gathering power to unilaterally get rid of Bethel? You're saying he's doomed to be a villain at the same time you say he should've behaved like a sociopath.
->>>>>> Even your logic about Joon's romantic choices flies in the face of what's there in the text. Joon avoids romancing Mary because he thinks she's purpose-made by the GM for that role. He goes for Fenn specifically because she seems more likely to be his equal. The power imbalance only appears later and is a source of stress for both of them, not just Fenn.
->>>>>> He dates a 15 year old, unhappily, simply because she was there after he broke up with a girl his age who he was genuinely happy with. Your logic is built on special pleading. You even miss the fact that Joon's GMing is hardly a dominance struggle. His style is built around ideals that are incompatible with that view.
 >>>>>> 
+>>>>>> Even your logic about Joon's romantic choices flies in the face of what's there in the text. Joon avoids romancing Mary because he thinks she's purpose-made by the GM for that role. He goes for Fenn specifically because she seems more likely to be his equal. The power imbalance only appears later and is a source of stress for both of them, not just Fenn.
+>>>>>> 
+>>>>>> He dates a 15 year old, unhappily, simply because she was there after he broke up with a girl his age who he was genuinely happy with. Your logic is built on special pleading. You even miss the fact that Joon's GMing is hardly a dominance struggle. His style is built around ideals that are incompatible with that view.
 
->>>>>>> **u/dobri111** [+1] *
+>>>>>>> **u/dobri111** [+1]  (4 days later)
 >>>>>>> 
 >>>>>>> Sorry for the late reply.
->>>>>>> Like i said for Bethel, she is a completely alien intelligence without any obvius motivation behind her pshyology and clear antisocial tendencies. Add to that huge amout of power she has why would the group invite her along and introduce her to civilization and inocent people? That was just stupid. Even before that i always wondered about Joons motivation for saving the world. Mary was litteraly groomed for that, a she has unique pshyhology. Solance doesn't care one bit about the world only about the druids. Garak is leeching dopamine the magic connection with Joon gives him to avoid depresion...etc. Everyone has motivation except Joon.  His only motivation is power and control the system is giving him (not a good sign) and his obsession with Mary (also not a good sign). We know he loves control from his stories (DM, dating choices etc...), but we never seen his obsessive past. What we do know is that Arthur was a better man that Juniper and he got corrupted by the system.
->>>>>>> So my proposal that Junper will get fed up with this, Mary will deny him at certain point and he will become villian with Bethel's help. He  subconsciosly planned it all along, that is why he empowered Bethel and brought her along.
 >>>>>>> 
+>>>>>>> Like i said for Bethel, she is a completely alien intelligence without any obvius motivation behind her pshyology and clear antisocial tendencies. Add to that huge amout of power she has why would the group invite her along and introduce her to civilization and inocent people? That was just stupid. Even before that i always wondered about Joons motivation for saving the world. Mary was litteraly groomed for that, a she has unique pshyhology. Solance doesn't care one bit about the world only about the druids. Garak is leeching dopamine the magic connection with Joon gives him to avoid depresion...etc. Everyone has motivation except Joon.  His only motivation is power and control the system is giving him (not a good sign) and his obsession with Mary (also not a good sign). We know he loves control from his stories (DM, dating choices etc...), but we never seen his obsessive past. What we do know is that Arthur was a better man that Juniper and he got corrupted by the system.
+>>>>>>> 
+>>>>>>> So my proposal that Junper will get fed up with this, Mary will deny him at certain point and he will become villian with Bethel's help. He  subconsciosly planned it all along, that is why he empowered Bethel and brought her along.
 
->>>>>>>> **u/Revlar** [+5] *
+>>>>>>>> **u/Revlar** [+4]  (4 days later)
 >>>>>>>> 
 >>>>>>>> You seem to be reading a completely different story than the rest of us.
->>>>>>>> 
 
->>>>>>>>> **u/dobri111** [+1] *
+>>>>>>>>> **u/dobri111** [+1]  (5 days later)
 >>>>>>>>> 
 >>>>>>>>> Naw man, i am just trying to rationalize plot events that don't make sense to me.
->>>>>>>>> Every story has plot events that don't make sense.
 >>>>>>>>> 
+>>>>>>>>> Every story has plot events that don't make sense.
 
->>>>>>>>>> **u/Revlar** [+3] *
+>>>>>>>>>> **u/Revlar** [+3]  (5 days later)
 >>>>>>>>>> 
 >>>>>>>>>> It just reads like you're particularly bad at making sense of them, rather than this being some flaw inherent to the story. You're papering over what's actually in it with your own biases and reacting badly when these things contradict each other. Maybe go back and reread the book?
->>>>>>>>>> 
 
->> **u/Bowbreaker** [+4]  *Solitary Locust**
+>> **u/Bowbreaker** [+5]  *Solitary Locust* (9 hours later)
 >> 
 >> > Problem for Juniper was not sex part of the rape, it was lack of control and feeling powerless.
->> I luckily have zero experience with this, but I thought that that's usually the case. Especially when it involves female on male PiV rape, which is very rarely physically painful to the victim.
 >> 
+>> I luckily have zero experience with this, but I thought that that's usually the case. Especially when it involves female on male PiV rape, which is very rarely physically painful to the victim.
 
->> **u/RMcD94** [+0] *
+>> **u/RMcD94** [+0]  (10 hours later)
 >> 
 >> Also they gave Bethel a body without considering the physical urges impact on her mental health.
->> If we take her word that she didn't want to hurt him then she was overwhelmed by lust? Who's responsible for not checking for that? Imagine being a house and then suddenly you have this new urge you can't control which makes you ignore someone you care about say no. The mental trauma could be severe of course its unclear what the reason was since AW didn't state even her professed reason for ignoring him saying no.
->> There's the larger implication that no one spoke to Bethel about consent and how it works which is ridiculous since Amy did it for Val and they basically have all raised Bethel from what she was like when they found her. 
->> Considering she was basically mentally insane she's their responsibility and I want to know what they did or more likely didn't do that led her to rape.
->> I don't understand the conversation with her because she quickly seems to understand its wrong but she doesn't ever ask why. If she knows why then why did she do it to begin with?
 >> 
+>> If we take her word that she didn't want to hurt him then she was overwhelmed by lust? Who's responsible for not checking for that? Imagine being a house and then suddenly you have this new urge you can't control which makes you ignore someone you care about say no. The mental trauma could be severe of course its unclear what the reason was since AW didn't state even her professed reason for ignoring him saying no.
+>> 
+>> There's the larger implication that no one spoke to Bethel about consent and how it works which is ridiculous since Amy did it for Val and they basically have all raised Bethel from what she was like when they found her. 
+>> 
+>> Considering she was basically mentally insane she's their responsibility and I want to know what they did or more likely didn't do that led her to rape.
+>> 
+>> I don't understand the conversation with her because she quickly seems to understand its wrong but she doesn't ever ask why. If she knows why then why did she do it to begin with?
 
 ---
 

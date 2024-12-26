@@ -2,7 +2,7 @@
 
 * Author: u/_brightwing  *Feathered menace**
 * URL: https://www.reddit.com/r/WritingPrompts/comments/3majoy/wp_write_an_untraditional_god/cvdib4e
-* Score: 31
+* Score: 30
 
 * Created: 2015-09-25T09:08:23
 
@@ -12,33 +12,31 @@
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+10]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram* (4 hours later)
 > 
 > >  Who knew Sebastian messed up world history that much?
-> I'm sure glad our simulation left Sebastian out.
 > 
+> I'm sure glad our simulation left Sebastian out.
 
-> **u/_brightwing** [+3]  *Feathered menace**
+> **u/_brightwing** [+3]  *Feathered menace* (12 seconds later)
 > 
 > A short I came across today. Any other examples of simulated worlds?
-> 
 
->> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (4 hours later)
 >> 
 >> David Brin's "Stones of Significance".
->> 
 
-> **u/notmy2ndopinion** [+4]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+3]  *Concent of Saunt Edhar* (15 hours later)
 > 
 > >Y's log: day 1,608,323,874,634,905: We've delayed the production of the SAViOR line of supercomputers that operate the Atlantean Time Machine until I can confirm that we are capable of creating a Friendly AI that utilizes these time forks with coherent extrapolated volition. I've postulated that the creation of a prophecied Infinity Reactor which tears apart the very stars in the heaven could cause the premature heat death of the universe. I've run recursive scenarios using Quirrelmort to determine if SAViOR would influence the Infinity Reactor and in all scenarios I've run on a limited scale, QM projects a posterior probability of >90% of failure.
-> >Y's log: day 1,608,323,874,634,906: I've decided to crowd-source the solution to this answer and see what emerges.
 > 
+> >Y's log: day 1,608,323,874,634,906: I've decided to crowd-source the solution to this answer and see what emerges.
 
-> **u/Transfuturist** [+2]  *Carthago delenda est.**
+> **u/Transfuturist** [+2]  *Carthago delenda est.* (10 hours later)
 > 
 > I believe this counts as yet another fictional demonstration of the Procrastination Paradox.
-> The original, of course, is Calvin and the Unethicated Duplicator.
 > 
+> The original, of course, is Calvin and the Unethicated Duplicator.
 
 ---
 

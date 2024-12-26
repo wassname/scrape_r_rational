@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 1
+* Score: 4
 
 * Created: 2015-01-01T21:05:28
 
@@ -12,38 +12,35 @@
 
 ### Comments:
 
-> **u/heiligeEzel** [+3] *
+> **u/heiligeEzel** [+3]  (11 hours later)
 > 
 > Clarification: I posted chapter 32, which worked... for a while.
-> Then fanfiction.net stopped showing it (even though it still showed that there were 32 chapters!), and I got all kinds of PMs questioning what happened and why I pulled it. I reposted the chapter, which sent mails advertising itself as chapter 33, and that made *both* the original 32 and the copy visible. I deleted the copy, and that briefly solved the problem.
-> Then fanfiction.net started playing up again. By now I think it fixed itself, though. :)
 > 
+> Then fanfiction.net stopped showing it (even though it still showed that there were 32 chapters!), and I got all kinds of PMs questioning what happened and why I pulled it. I reposted the chapter, which sent mails advertising itself as chapter 33, and that made *both* the original 32 and the copy visible. I deleted the copy, and that briefly solved the problem.
+> 
+> Then fanfiction.net started playing up again. By now I think it fixed itself, though. :)
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > This link is broken :(
-> 
 
-> **u/Noir_Bass** [+1] *
+> **u/Noir_Bass** [+1]  (2 hours later)
 > 
 > Weird, I got emails for chapters 32 and 33 being up, but neither of the links work and the chapters don't show up on the list.
-> 
 
->> **u/None** [+0] *
+>> **u/None** [+0]  (2 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/eaglejarl** [+2] *
+>>> **u/eaglejarl** [+2]  (3 hours later)
 >>> 
 >>> How do you mean "too soon"? If alert emails went out then the chapters were posted. If they were posted, they should be reachable. Since they aren't, that strongly suggests that FFN is messed up. I've had similar things happen with 2YE, although not for this long.
->>> 
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (2 hours later)
 > 
 > [Most recent chapter listed](https://www.fanfiction.net/s/10636246/31/Following-the-Phoenix)
-> That's for chapter 31; this post should be to 32, but that isn't available. Check in periodically, load the 31 link and then hit "Next".
 > 
+> That's for chapter 31; this post should be to 32, but that isn't available. Check in periodically, load the 31 link and then hit "Next".
 
 ---
 

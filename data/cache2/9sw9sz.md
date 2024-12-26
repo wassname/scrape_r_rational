@@ -2,7 +2,7 @@
 
 * Author: u/signspace13 *
 * URL: https://www.reddit.com/r/rational/comments/9sw9sz/rthfwiptwice_lived/
-* Score: 13
+* Score: 15
 
 * Created: 2018-10-31T06:29:33
 
@@ -20,43 +20,39 @@ The author has made it clear that this is very much a draft and will be edited e
 
 ### Comments:
 
-> **u/CoronaPollentia** [+6] *
+> **u/CoronaPollentia** [+6]  (11 hours later)
 > 
 > I read it for a while, but between the clumsy references, the relentless gory nihilism, and the clumsy word choice I just lost interest. It's good enough to suck you in - decent grammar, okay characterization - but no aspect rises above "meh" in the firsr bit. Like, if you disliked Worm, this has all the things people cite as turning them off of it, but multiplied to a level even I can't stand. And look at my username.
-> 
 
->> **u/Abpraestigio** [+2] *
+>> **u/Abpraestigio** [+2]  (13 hours later)
 >> 
 >> I completely agree.
->> Additionally I found the MC to be thoroughly dislikable, both due to his character and his agonizing stupidity.
->> Not to mention that the author appears to have memory problems, since he keeps contradicting thing that he established in earlier chapters.
->> His mother, for example. In the three chapters that she is mentioned she gets three different characterizations. And the number of times that he has met her in his life keeps going down.
 >> 
+>> Additionally I found the MC to be thoroughly dislikable, both due to his character and his agonizing stupidity.
+>> 
+>> Not to mention that the author appears to have memory problems, since he keeps contradicting thing that he established in earlier chapters.
+>> 
+>> His mother, for example. In the three chapters that she is mentioned she gets three different characterizations. And the number of times that he has met her in his life keeps going down.
 
-> **u/SyntaqMadeva** [+2] *
+> **u/SyntaqMadeva** [+2]  (7 hours later)
 > 
 > I do love the bait & switch. He originally named it "Standard reincarnation story" and it couldn't be further from the truth. The whole story seems professional to me.
-> 
 
-> **u/HereticalRants** [+2] *
+> **u/HereticalRants** [+2]  (a day later)
 > 
 > I rather enjoyed reading this, thanks for the rec!
-> 
 
->> **u/signspace13** [+1] *
+>> **u/signspace13** [+1]  (a day later)
 >> 
 >> No problem, if you like it try leaving a review, helps keep the author upbeat.
->> 
 
-> **u/generalamitt** [+2] *
+> **u/generalamitt** [+2]  (2 days later)
 > 
 > Terrible writing, far from rational.
-> 
 
->> **u/signspace13** [+1] *
+>> **u/signspace13** [+1]  (2 days later)
 >> 
 >> Thanks for the detailed and insightful criticism.
->> 
 
 ---
 

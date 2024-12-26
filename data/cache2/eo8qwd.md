@@ -2,7 +2,7 @@
 
 * Author: u/addicted_to_reddit_ *
 * URL: https://www.reddit.com/r/rational/comments/eo8qwd/rt_wip_ff_pokemon_trials_of_a_trainer_ch_1_battle/
-* Score: 16
+* Score: 19
 
 * Created: 2020-01-13T19:15:46
 
@@ -32,20 +32,20 @@ Let me know what you guys think, and if it is even rational enough to belong her
 
 ### Comments:
 
-> **u/None** [+13] *
+> **u/None** [+12]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/addicted_to_reddit_** [+5] *
+>> **u/addicted_to_reddit_** [+6]  (19 hours later)
 >> 
 >> I doubt I'll ever be able to fill those shoes. I'm just happy playing in the sandbox.
->> 
 
-> **u/OnlyEvonix** [+7] *
+> **u/OnlyEvonix** [+7]  (2 days later)
 > 
 > Here's a bunch of pokemon headcannons I have:
+> 
 > &#x200B;
+> 
 > * It was mentioned that in the ancient past people made pokeballs out of berries which implies that they can be low tech. Some pokemon when they evolve shrink to a small sphere then expand in their new shape (does that actually happen? In some of the 3d games atleast?). So people would first launch a blowdart filled with a berry essence that would put the target unwittingly into a evolution state, since the conditions aren't right it'd just "evolve" into the same form, if it wasn't interrupted by someone putting a specially made container around the sphere that prevents the pokemon from rexpanding. The container would probably have an inner coating to keep the pokemon stable, perhaps another berry mixture? Carved everstone? Mirrors? This technology has of course advanced immensely, with advances such a signal projector instead of a dart, lucid dreaming with a psychically connected programable sim and stuff like that.
 > * The reason that many pokemon's calls and thus names are so appropriate is that the modern common language can be traced back in part to people imitating pokemon calls to refer to something similar to the pokemon, much like why writing looks sorta like the unown.
 > * Nobody actually knows what's up with the unown, least of all the unown themselves.
@@ -69,96 +69,104 @@ Let me know what you guys think, and if it is even rational enough to belong her
 > * The achievement of creating the porygon line is an impressive achievement but if you look deeper it's creation is perhaps the single most important accomplishment ever. Porygon is a purely aura based pokemon and does not necessarily have a distinct physical form or location. Although it was built using the same basic principles and to be compatible with systems like pokeballs it is the only pokemon that can't be traced to the same origin as the rest, it is being argued that it shouldn't be classified as a pokemon at all. Porygon and porygon2 have very large yet very simple minds arguably not truly intelligent or even alive. PorygonZ however is most certainly both though not in a way even it's creators entirely understand.
 > * There are many pokemon with no designation or place in the training system, for example ones that have never been caught or studied, truly sessile ones, or ones that can't be trained.
 > * It's not uncommon for a high tier team to have several trainers, even outnumbering the pokemon, for example tactician, battle director, nutritionist, researcher, publicist and of course the trainer.
-> 
 
-> **u/Thulahn** [+3] *
+> **u/Thulahn** [+3]  (a day later)
 > 
 > I'm just reading through it now. A few small things: I think the Pokémon names should be capitalized, like Arbok. Also, I think it could do with a few more read throughs because of typos.
-> But overall, I'm quite enjoying it. I'd encourage you to think more about why things are the way they are in the Pokémon world. You'll get that a lot in this subreddit.
 > 
+> But overall, I'm quite enjoying it. I'd encourage you to think more about why things are the way they are in the Pokémon world. You'll get that a lot in this subreddit.
 
->> **u/ketura** [+6]  *Organizer**
+>> **u/ketura** [+7]  *Organizer* (a day later)
 >> 
 >> I dunno, it makes pokemon feel a bit more real if they're not a Character with a Capital Name like each one is an Important Individual.  Better for them to be integrated into the language like dog or giraffe or cockroach.
->> 
 
->>> **u/Thulahn** [+2] *
+>>> **u/Thulahn** [+2]  (a day later)
 >>> 
 >>> Good point!
->>> 
 
->> **u/addicted_to_reddit_** [+5] *
+>> **u/addicted_to_reddit_** [+5]  (a day later)
 >> 
 >> I have them all lowercase because in my universe I consider them to be different species. Similar to in real life you don't capitalize dog, cat or tiger. If that makes sense.
->> 
 
-> **u/hyphenomicon** [+2]  *seer of seers, prognosticator of prognosticators**
+> **u/hyphenomicon** [+2]  *seer of seers, prognosticator of prognosticators* (a day later)
 > 
 > If you're doing a first person story, your character should establish their value and their distinctive voice right away. Prove that they're interesting with some incident or challenge that they tackle in a way that is rewarding to discover.
-> 
 
-> **u/Thulahn** [+2] *
+> **u/Thulahn** [+2]  (2 days later)
 > 
 > I've read 3 chapters now and I'm really getting into it. I hope you keep going with it. I'm enjoying the twists you did to the canon story line as they make more sense, and I'm digging the Pokédex entries too. Keep up the good work. I think you're striking a good tone, just keep to the world building! The characters seem to be getting established in their individuality, which is great.
-> 
 
-> **u/JulianWyvern** [+2]  *Wayward Wanderer**
+> **u/JulianWyvern** [+2]  *Wayward Wanderer* (2 days later)
 > 
 > Typo thread?
-> Chapter 3 (I only thought about pointing these out during this Chapter. I might go back and revisit the older ones later if you don't mind?)
-> "Special designation is given to those trainers that have beat members of the Elite Four. **Fourth ring** has defeated one member; third ring has defeated two members; second ring has defeated three members; and **fourth ring** has defeated all four members."
-> Fourth ring appears twice. From the context, I'm guessing the second should be "First ring"
-> "The Youngster Act became dead in the water the instant **Aconite** ratified it"
-> Isn't Lance the Grand Champion at this point, and as such the one who'd ratify it?
-> "we never **~~had ran~~**"
-> Past perfect. If the To Have verb is in the past, the main verb (To run in this case) needs to be in the present. 
-> "**~~Padding~~** paws echoed"
-> Padded
-> "Nevertheless, it doesn't **~~whether~~** you have Oak or Ketchum as your last name
-> It doesn't matter. Or keep whether and remove the "it doesn't"
-> "battling techniques**~~,~~** and species biology"
-> No need for a comma if you're following with "and (last part of the sentence). Actually, take this one with a grain of salt, I might be wrong.
-> **Other minor nitpicks**
-> A number of lines end in commas instead of periods. I do believe that even in the occasions where you end a line, followed by some minor narration and return to the same line, there is no comma you just don't use a period. Like here;
-> **"That is true,"** Davis nodded. "But we are starting..."
-> Inconsistent accenting in Pokémon. Sometimes it shows with the accent, sometimes it doesn't. I believe that for convenience sake, writers who aren't from a language that usually accent words just don't bother with it and no one sees problems;
-> Every letter in an acronym followed by a period. This is one is technically correct I think, but there is no strict ruling saying so. And actually, there is a push for using what is more aesthetically pleasing, meaning cutting the periods. Which also makes it more convenient for writers (coincidence, I'm sure).
 > 
+> Chapter 3 (I only thought about pointing these out during this Chapter. I might go back and revisit the older ones later if you don't mind?)
+> 
+> "Special designation is given to those trainers that have beat members of the Elite Four. **Fourth ring** has defeated one member; third ring has defeated two members; second ring has defeated three members; and **fourth ring** has defeated all four members."
+> 
+> Fourth ring appears twice. From the context, I'm guessing the second should be "First ring"
+> 
+> "The Youngster Act became dead in the water the instant **Aconite** ratified it"
+> 
+> Isn't Lance the Grand Champion at this point, and as such the one who'd ratify it?
+> 
+> "we never **~~had ran~~**"
+> 
+> Past perfect. If the To Have verb is in the past, the main verb (To run in this case) needs to be in the present. 
+> 
+> "**~~Padding~~** paws echoed"
+> 
+> Padded
+> 
+> "Nevertheless, it doesn't **~~whether~~** you have Oak or Ketchum as your last name
+> 
+> It doesn't matter. Or keep whether and remove the "it doesn't"
+> 
+> "battling techniques**~~,~~** and species biology"
+> 
+> No need for a comma if you're following with "and (last part of the sentence). Actually, take this one with a grain of salt, I might be wrong.
+> 
+> **Other minor nitpicks**
+> 
+> A number of lines end in commas instead of periods. I do believe that even in the occasions where you end a line, followed by some minor narration and return to the same line, there is no comma you just don't use a period. Like here;
+> 
+> **"That is true,"** Davis nodded. "But we are starting..."
+> 
+> Inconsistent accenting in Pokémon. Sometimes it shows with the accent, sometimes it doesn't. I believe that for convenience sake, writers who aren't from a language that usually accent words just don't bother with it and no one sees problems;
+> 
+> Every letter in an acronym followed by a period. This is one is technically correct I think, but there is no strict ruling saying so. And actually, there is a push for using what is more aesthetically pleasing, meaning cutting the periods. Which also makes it more convenient for writers (coincidence, I'm sure).
 
->> **u/addicted_to_reddit_** [+1] *
+>> **u/addicted_to_reddit_** [+1]  (2 days later)
 >> 
 >> Yup that's correct. I swear no matter how many times I look over the it typos still slip through. Thanks!
->> 
 
->>> **u/JulianWyvern** [+2]  *Wayward Wanderer**
+>>> **u/JulianWyvern** [+2]  *Wayward Wanderer* (2 days later)
 >>> 
 >>> I actually edited it with some more. >.< Sorry
->>> 
 
->>>> **u/addicted_to_reddit_** [+1] *
+>>>> **u/addicted_to_reddit_** [+1]  (2 days later)
 >>>> 
 >>>> Yeah that is a lot. No problem at all though. Anything that helps make it a little bit better is worth it. Thanks!
->>>> 
 
-> **u/Thulahn** [+1] *
+> **u/Thulahn** [+1]  (2 days later)
 > 
 > Ok, I've finally read all the chapters. Just wanted to encourage you to keep up the momentum. I do indeed get a good Game of Champions vibe from it. I like the relationship between Mimey and Red. I hope to find out more about the brink. Am I right to say that it takes place in a future history of our world? Gotta say, was sad to see that Red didn't start with Pikachu but I understand the motive.
-> 
 
->> **u/addicted_to_reddit_** [+2] *
+>> **u/addicted_to_reddit_** [+2]  (3 days later)
 >> 
 >> I'm glad you enjoyed it. I wanted to try and mash together a bunch of different concepts/headcanons/ideas from different fics I've read over the years. Im a little surprised it fit together so nicely. 
-
->> >I hope to find out more about the brink. Am I right to say that it takes place in a future history of our world? 
->> Yup! You're right. It takes place in a post-post-apocolypse world where civilization was torn down completely and repeatedly over the millennia by pokémon coming through the Brink. Which there will be explored more later on in the story. 
->> >Gotta say, was sad to see that Red didn't start with Pikachu but I understand the motive.
->> I wrestled with this decision a lot, including debating about adding a Pikachu later on in the story, but I was afraid it might be too similar to Game of Champions if I did that. So I decided to go a different route.
 >> 
+>> >I hope to find out more about the brink. Am I right to say that it takes place in a future history of our world? 
+>> 
+>> Yup! You're right. It takes place in a post-post-apocolypse world where civilization was torn down completely and repeatedly over the millennia by pokémon coming through the Brink. Which there will be explored more later on in the story. 
+>> 
+>> >Gotta say, was sad to see that Red didn't start with Pikachu but I understand the motive.
+>> 
+>> I wrestled with this decision a lot, including debating about adding a Pikachu later on in the story, but I was afraid it might be too similar to Game of Champions if I did that. So I decided to go a different route.
 
->>> **u/Thulahn** [+1] *
+>>> **u/Thulahn** [+1]  (3 days later)
 >>> 
 >>> I do enjoy the charmander rebellious nature too. Will you talk a bit more about how the pidgey can understand spoken commands so quickly?
->>> 
 
 ---
 

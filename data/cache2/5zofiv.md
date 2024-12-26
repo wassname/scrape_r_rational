@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/5zofiv/challenge_companion_man_vs_nature/
-* Score: 11
+* Score: 12
 
 * Created: 2017-03-16T04:00:19
 
@@ -23,15 +23,13 @@ Man vs Nature stories have, at their core, an unthinking opponent, whether it ta
 
 ### Comments:
 
-> **u/Slapdash17** [+1] *
+> **u/Slapdash17** [+1]  (a day later)
 > 
 > Could the original Halloween movie be considered as fitting into the guidelines of man vs. nature? Michael Meyers is a dude, sure, but he's a noncommunicating dude that can't be reasoned with, and at least in the first movie is only defeated through sheer force. Would that qualify?
-> 
 
->> **u/Kishoto** [+1] *
+>> **u/Kishoto** [+1]  (a day later)
 >> 
 >> Well...in my opinion, you could if you were to spin it in such a way that Michael Meyers is mentally impaired enough that he's little more than an animal following certain base urges (I've never seen the movies myself). It would be sort of a modern humans vs. caveman sort of deal; the caveman is physically stronger and has better survival instincts whereas modern humans are more intelligent. I could see you taking that spin and running with it.
->> 
 
 ---
 

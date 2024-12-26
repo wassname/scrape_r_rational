@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (11 hours later)
 > 
 > I added this story to [RationalReads](http://rationalreads.com/#/works/49) recently. Comment on it if you liked it or not and why.
-> 
 
 ---
 

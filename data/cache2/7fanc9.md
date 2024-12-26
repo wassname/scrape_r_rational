@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/TheUtilitaria** [+1] *
+> **u/TheUtilitaria** [+1]  (20 hours later)
 > 
 > There's a couple of classic sci-fi references in this one. Feedback and comments would be helpful, as always.
-> 
 
 ---
 

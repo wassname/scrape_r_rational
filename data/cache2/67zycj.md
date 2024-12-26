@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/67zycj/challenge_companion_monster_mash/
-* Score: 3
+* Score: 4
 
 * Created: 2017-04-28T01:08:22
 
@@ -18,48 +18,43 @@ These days the horror icon tropes have been tread and retread so many times that
 
 ### Comments:
 
-> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (16 hours later)
 > 
 > A challenge I'm looking forward to reading. Might I suggest A Night in the Lonesome October as an amazing short story and best example of Monster Mash I have ever read?
-> 
 
-> **u/thepublicinternet** [+2] *
+> **u/thepublicinternet** [+2]  (16 hours later)
 > 
 > I'd like to thank everybody (especially u/alexanderwales) for participating in the writing challenge. I've had arresting anxiety over sharing fiction with others for years and years, and I got some upvotes without any strange personal nightmares coming true. I think it's the coolest thing we could use r/rational for. :)
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > I'm planning to start a Worm fanfic sometime soon. Would the first chapter of that work for the next challenge?
-> 
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 hours later)
 >> 
 >> Yup, that works!
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (3 hours later)
 >>> 
 >>> Awesome, guess I should get started on that... at some point
->>> 
 
-> **u/MonstrousBird** [+1] *
+> **u/MonstrousBird** [+1]  (21 hours later)
 > 
 > Are Zombies allowed?
-> 
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (22 hours later)
 >> 
 >> Zombies are fine; they show up in many traditional monster mashes.(e.g. the zombie bellhops in *Hotel Transylvania*).
->> 
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (a day later)
 > 
 > Can I enter my 50,000 word supernatural romance novel in this one?
-> ... I'm kidding! 
-> But I might enter something I have lying around that's written in the same urban fantasy universe. I probably have *something* interesting.
-> Previous work looks OK according to the rules so I might try and rustle something up!
 > 
+> ... I'm kidding! 
+> 
+> But I might enter something I have lying around that's written in the same urban fantasy universe. I probably have *something* interesting.
+> 
+> Previous work looks OK according to the rules so I might try and rustle something up!
 
 ---
 

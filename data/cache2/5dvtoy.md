@@ -19,62 +19,57 @@ https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dun
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (26 minutes later)
 > 
 > Yeah, that was definitely one of my favorite parts, of an altogether too  excellent series. the beginning is a bit rough, but it has genuinely intelligent characters, great worldbuilding, and (mostly) intelligent opponents like Mukrezar. 
 > There is also a rewrite/sanctioned fanfiction going on- it's IMO better written than the beginning of DKA, so I have high hopes, but it isn't at the level of recent chapters yet.
 > https://forums.sufficientvelocity.com/threads/dungeon-keeper-of-love-and-justice-dka-au-sailor-moon-dungeon-keeper.32279/
-> 
 
->> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (52 minutes later)
 >> 
 >> OMG there's more lol! Now that I think of it, why doesn't Keeper Mercury ever recover any memories of the silver millenium in the original Dungeon Keeper Ami? Is it because recovering her memories is only triggered by the moon princess being revealed or something?
->> 
 
-> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+2]  *fear of last pages* (an hour later)
 > 
 > *(sorry, don’t remember spoilers’ chapters)*
-> The scene from that story that stayed with me was [when](#s "she weaponised the sacrificial altar she’d built and turned it into an on-touch activated soul sucking mine.")
-> p.s. She [stupidly](#s "lost the cape though.")
 > 
+> The scene from that story that stayed with me was [when](#s "she weaponised the sacrificial altar she’d built and turned it into an on-touch activated soul sucking mine.")
+> 
+> p.s. She [stupidly](#s "lost the cape though.")
 
->> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (an hour later)
 >> 
 >> ah crap i shouldn't have looked. i wish you did remember the spoilers' chapters. that definitely wasn't before the part with the avatar fight. it must have been at some point after...
->> 
 
->>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages* (16 hours later)
 >>> 
 >>> Sorry about that. Now that I think about it, *of course* it would be after your current chapter, since, you know.
->>> As a consolation, now you probably won’t be as pissed off at protag’s OoC idiocy as I was after that scene.
 >>> 
+>>> As a consolation, now you probably won’t be as pissed off at protag’s OoC idiocy as I was after that scene.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/Ruljinn** [+2] *
+>> **u/Ruljinn** [+2]  (18 days later)
 >> 
 >> were you reading it on Sufficient Velocity or addventure(Sp?)
->> Apparently the story was originally hosted on some sort of CYOA site where people could add their own branches. There's only the one branch done by the original author that was then ported to SV tho.
->> Unless you mean the bit in the early chapters where the POV swaps from Reaper to Ami a lot without much warning... in which case that settles out over time and gets much smoother.
 >> 
+>> Apparently the story was originally hosted on some sort of CYOA site where people could add their own branches. There's only the one branch done by the original author that was then ported to SV tho.
+>> 
+>> Unless you mean the bit in the early chapters where the POV swaps from Reaper to Ami a lot without much warning... in which case that settles out over time and gets much smoother.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (18 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Ruljinn** [+2] *
+>>>> **u/Ruljinn** [+2]  (18 days later)
 >>>> 
 >>>> Actually... I **think** you want the story only thread on SV? that way you only get the original author's linear story (albeit linear while following multiple POVs, which, again, smooths out after a few chapters.)
->>>> 
 
-> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (a day later)
 > 
 > You want to read the ones that are written by puskaronu. Not sure I spelled that right. Anyways they're at a newer location in the link in the OP.
-> 
 
 ---
 

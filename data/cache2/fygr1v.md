@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/04/10/interlude-deadhand/
-* Score: 54
+* Score: 57
 
 * Created: 2020-04-10T14:25:32
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/MisterCommonMarket** [+6] *
+> **u/MisterCommonMarket** [+6]  (22 hours later)
 > 
 > Hakram is the true and only acceptable waifu, CMV.
-> 
 
->> **u/ashinator92** [+2] *
+>> **u/ashinator92** [+2]  (3 days later)
 >> 
 >> Cyto-megalo-virus?
->> 
 
->>> **u/ashinator92** [+3] *
+>>> **u/ashinator92** [+3]  (3 days later)
 >>> 
 >>> Ohhhhh, "change my view". Whups. Leaving this here for other idiots like me.
->>> 
 
 ---
 

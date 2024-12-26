@@ -20,63 +20,55 @@ Thanks to this new law though there has been a spike in superpowered crime activ
 
 ### Comments:
 
-> **u/xland44** [+5] *
+> **u/xland44** [+4]  (2 hours later)
 > 
 > Yo, just at first glance you need basic formatting to make the text readable.
-> Add an empty line between the header and the story, make the header bold to make it clear that it's a title. Add paragraph breaks.
-> Otherwise, it's just an unreadable wall of text, regardless of how good it is.
 > 
+> Add an empty line between the header and the story, make the header bold to make it clear that it's a title. Add paragraph breaks.
+> 
+> Otherwise, it's just an unreadable wall of text, regardless of how good it is.
 
->> **u/Coolskull27** [+2] *
+>> **u/Coolskull27** [+2]  (2 hours later)
 >> 
 >> Dammit thanks man appreciate it
->> 
 
->>> **u/xland44** [+5] *
+>>> **u/xland44** [+5]  (2 hours later)
 >>> 
 >>> No problem. Also, if you're serious about it, I do suggest you host it on a site of your own rather than on reddit. It takes only a few clicks to create a brand new Wordpress site or blog!
->>> 
 
->>>> **u/Coolskull27** [+2] *
+>>>> **u/Coolskull27** [+2]  (2 hours later)
 >>>> 
 >>>> Well yeah and thanks but I wanna learn how to animate then bring it to life. But I suppose you’re right as using Wordpress or something as a jump off platform
->>>> 
 
-> **u/GunnerGrey** [+5] *
+> **u/GunnerGrey** [+5]  (6 hours later)
 > 
 > The premise could be good, though it sounds at least sort of similar to The Incredibles or The Watchmen.
-> The big thing that makes stories like this shine is strong characters, both heroes and villians.
 > 
+> The big thing that makes stories like this shine is strong characters, both heroes and villians.
 
->> **u/Coolskull27** [+3] *
+>> **u/Coolskull27** [+3]  (7 hours later)
 >> 
 >> Thank you. And it’s funny once I finished writing the premise I was like “wait this is a mix of my hero academia and the incredibles… fuck”
->> 
 
-> **u/Coolskull27** [+2] *
+> **u/Coolskull27** [+2]  (19 minutes later)
 > 
 > Could use some feedback I wanna improve
-> 
 
->> **u/Husr** [+3] *
+>> **u/Husr** [+3]  (55 minutes later)
 >> 
 >> Try adding paragraph breaks to make it more readable.
->> 
 
->>> **u/Coolskull27** [+1] *
+>>> **u/Coolskull27** [+1]  (56 minutes later)
 >>> 
 >>> Thanks sorry I didn’t think of that
->>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (13 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Coolskull27** [+3] *
+>> **u/Coolskull27** [+3]  (16 hours later)
 >> 
 >> Oooohhhhh ok thanks I didn’t know
->> 
 
 ---
 

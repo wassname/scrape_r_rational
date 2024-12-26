@@ -12,46 +12,54 @@
 
 ### Comments:
 
-> **u/haiku_fornification** [+11] *
+> **u/haiku_fornification** [+11]  (2 hours later)
 > 
 > Seems like one of core differences between Nic and Dizzy is how they view people - Nic would be confident in his read on Dizzy if the situation was reversed and he also spotted something was wrong with Davo straight away. Still not sure why Denke is helping the demons - aren't they going to invade? Is he one of them too?
-> It also finally clicked for me why the demon inside of Nic was so eager to make a deal. From what we know of the them from the Librarian, they're basically immutable and we can assume they have a strict hierarchy in place based on that. In Nic's story however, the demon changed on a fundamental level. I imagine this knowledge would seem like the holy grail to many of them as they're at the bottom of the hierarchy.
 > 
+> It also finally clicked for me why the demon inside of Nic was so eager to make a deal. From what we know of the them from the Librarian, they're basically immutable and we can assume they have a strict hierarchy in place based on that. In Nic's story however, the demon changed on a fundamental level. I imagine this knowledge would seem like the holy grail to many of them as they're at the bottom of the hierarchy.
 
->> **u/Noumero** [+5]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+6]  *Self-Appointed Court Statistician* (13 hours later)
 >> 
 >> Regarding the Green Demon and demon hierarchy — interesting point.
->> > Still not sure why Denke is helping the demons - aren't they going to invade? Is he one of them too?
->> No. It Is All For A Cause. He is a demon fanatic, see the last section of [Chapter 39](http://gravitytales.com/novel/the-good-student/tgs-chapter-39):
->> >**The Librarian:** The sacrifice need not be of the highest order of power. Better to be something more easily digested and not so potent. A mage, perhaps, such as yourself. Perhaps that’s why you were sent here.
->> >**Denke:** Gladly would I have offered myself. <...> If that was your wish, I would not hesitate to obey. But I would serve you better in other ways. <...>
->> >**The Librarian:** And what of you, little mage? What does your loyalty cost?
->> >**Denke:** Mine is given freely, for it is not loyalty but love.
->> Probably was manipulated or even grown into that role by one of the demons, who as you probably noticed by now love their extremely-long-term plans. “Your desire to shed your skin makes it easy to tempt you into new clothes”, indeed.
 >> 
+>> > Still not sure why Denke is helping the demons - aren't they going to invade? Is he one of them too?
+>> 
+>> No. It Is All For A Cause. He is a demon fanatic, see the last section of [Chapter 39](http://gravitytales.com/novel/the-good-student/tgs-chapter-39):
+>> 
+>> >**The Librarian:** The sacrifice need not be of the highest order of power. Better to be something more easily digested and not so potent. A mage, perhaps, such as yourself. Perhaps that’s why you were sent here.
+>> 
+>> >**Denke:** Gladly would I have offered myself. <...> If that was your wish, I would not hesitate to obey. But I would serve you better in other ways. <...>
+>> 
+>> >**The Librarian:** And what of you, little mage? What does your loyalty cost?
+>> 
+>> >**Denke:** Mine is given freely, for it is not loyalty but love.
+>> 
+>> Probably was manipulated or even grown into that role by one of the demons, who as you probably noticed by now love their extremely-long-term plans. “Your desire to shed your skin makes it easy to tempt you into new clothes”, indeed.
 
->>> **u/jjy** [+2] *
+>>> **u/jjy** [+2]  (5 days later)
 >>> 
 >>> Denkne comes from a demon-aligned country. Chapter 40:
->>> > She knew the stories of his countrymen, how they had tried to win favour with the demons by fighting against Ranvar. The stories were unproven rumours with no foundation, or at least none that had survived. The nations had different names then, but their white hair and pale skin had survived long after the flags and borders had changed.
 >>> 
+>>> > She knew the stories of his countrymen, how they had tried to win favour with the demons by fighting against Ranvar. The stories were unproven rumours with no foundation, or at least none that had survived. The nations had different names then, but their white hair and pale skin had survived long after the flags and borders had changed.
 
->>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (5 days later)
 >>>> 
 >>>> Indeed. Good catch.
->>>> 
 
->> **u/Vingle** [+3] *
+>> **u/Vingle** [+3]  (8 hours later)
 >> 
 >> > In Nic's story however, the demon changed on a fundamental level.
->> I'll bite. My IQ isn't high enough to understand his story.
 >> 
+>> I'll bite. My IQ isn't high enough to understand his story.
 
->>> **u/haiku_fornification** [+5] *
+>>> **u/haiku_fornification** [+5]  (a day later)
 >>> 
 >>> Ok, I'll give you my take on it in hopes of making it clear :)
+>>> 
 >>> Back in [chapter 38](http://gravitytales.com/Novel/the-good-student/tgs-chapter-38) Nic tells the tale of Green Demon. After the story, the demon inside of Nic tries to figure out the reasons behind the Green Demon's actions but it can't make heads nor tails of it. First, its answer is incorrect and then it tries to argue that the Green Demon is not really a demon at all. 
+>>> 
 >>> This continues in [chapter 40](http://gravitytales.com/novel/the-good-student/tgs-chapter-40). It's easier to quote the text than explain it:
+>>> 
 >>> > “Your mistake,” said Nic, “is in assuming the Green Demon was unchanged by his many years in captivity. Or assuming he resented those years.”
 >>> > 
 >>> > There was a moment of stillness between them. *He gained from those years,* said the demon, hesitant but clear.
@@ -69,73 +77,78 @@
 >>> > *And become changed by it.*
 >>> > 
 >>> > “Yes,” said Nic.
->>> And then in [chapter 42](http://gravitytales.com/novel/the-good-student/tgs-chapter-42) the Librarian talks about humans in comparison to demons:
->>> > “Your souls are so different from ours,” the Librarian continued. “A person is constantly changing. They have the capacity to grow, learn, wither, die. Their soul does the same. It is fascinating to watch. Every morning... you are someone new. Even the most insignificant of you have the potential to be something better. Or worse. We are what we are. You are never the same person twice."
->>> Looking at the story of the Green Demon with the above quote in mind makes it clear it holds the key to how demons can change their nature - which seems impossible. I think that's why Nic's demon is so eager to find the ending of the story and cut a deal.
 >>> 
+>>> And then in [chapter 42](http://gravitytales.com/novel/the-good-student/tgs-chapter-42) the Librarian talks about humans in comparison to demons:
+>>> 
+>>> > “Your souls are so different from ours,” the Librarian continued. “A person is constantly changing. They have the capacity to grow, learn, wither, die. Their soul does the same. It is fascinating to watch. Every morning... you are someone new. Even the most insignificant of you have the potential to be something better. Or worse. We are what we are. You are never the same person twice."
+>>> 
+>>> Looking at the story of the Green Demon with the above quote in mind makes it clear it holds the key to how demons can change their nature - which seems impossible. I think that's why Nic's demon is so eager to find the ending of the story and cut a deal.
 
-> **u/ansible** [+7]  *The Culture**
+> **u/ansible** [+3]  *The Culture* (an hour later)
 > 
 > Is there an alternate site to read this?gravitytales.com started serving me scammy ads, and my battery drains very quickly, like they are mining for Bitcoin using my phone.
-> 
 
->> **u/mooderino** [+13]  *The Good Student**
+>> **u/mooderino** [+11]  *The Good Student* (an hour later)
 >> 
 >> Yes, my site. [MoodyLit.com](http://moodylit.com/the-good-student-table-of-contents). No ads.
->> 
 
->> **u/cjet79** [+1] *
+>> **u/cjet79** [+1]  (5 hours later)
 >> 
 >> It also might be worth trying out an adblock browser on your phone. RoyalRoadl.com had mobile ads that would hijack my entire browser and I'd have to force close the app and reopen it.
->> 
 
-> **u/AnOrnateToilet** [+4] *
+> **u/AnOrnateToilet** [+3]  (4 hours later)
 > 
-> Not sure if you’re OP, but the website has some major issues on mobile; every minute or so the screen goes white and the entire site disappears
+>  Not sure if you’re OP, but the website has some major issues on mobile; every minute or so the screen goes white and the entire site disappears
+> 
 > I’m on iOS if that helps at all
-> Best guess on my end is either incompatibility with mobile browsers, or the site code has some memory leak issues, but I can’t say for sure
-> That said, I love the story, and I’ve been following it every chance I get when I get back home to my desktop
 > 
+> Best guess on my end is either incompatibility with mobile browsers, or the site code has some memory leak issues, but I can’t say for sure
+> 
+> That said, I love the story, and I’ve been following it every chance I get when I get back home to my desktop
 
->> **u/mooderino** [+4]  *The Good Student**
+>> **u/mooderino** [+4]  *The Good Student* (4 hours later)
 >> 
 >> Which site are you referring to?
->> 
 
->>> **u/AnOrnateToilet** [+1] *
+>>> **u/AnOrnateToilet** [+1]  (7 days later)
 >>> 
 >>> Hi /u/mooderino,
->>> I've started reading on MoodyLit.com as per /u/Veedrac 's suggestions, and that's been working for me. Gravitytales is the site's that's been giving me some issues.
->>> Thanks for writing this story, and I look forward to how it progresses :)
 >>> 
+>>> I've started reading on MoodyLit.com as per /u/Veedrac 's suggestions, and that's been working for me. Gravitytales is the site's that's been giving me some issues.
+>>> 
+>>> Thanks for writing this story, and I look forward to how it progresses :)
 
->> **u/Veedrac** [+3] *
+>> **u/Veedrac** [+3]  (4 hours later)
 >> 
 >> I'm not the author, no. /u/mooderino is, and he hosts it at [MoodyLit.com](http://moodylit.com/the-good-student-table-of-contents) which you can use instead.
->> 
 
-> **u/tokol** [+3]  *The Greater Good**
+> **u/tokol** [+4]  *The Greater Good* (a day later)
 > 
 > Typos:
-> > “Don’t you think he might just been like that around you?”
-> just been -> just have been
-> > the way a child might be led to a dentist with encouraging worlds and the promise of ice cream later.
-> worlds -> words
-> > “We don’t even know he’d down there for certain,” 
-> he'd -> if he's 
-> > “But is he demon still inside of you?”
-> he -> the
 > 
+> > “Don’t you think he might just been like that around you?”
+> 
+> just been -> just have been
+> 
+> > the way a child might be led to a dentist with encouraging worlds and the promise of ice cream later.
+> 
+> worlds -> words
+> 
+> > “We don’t even know he’d down there for certain,” 
+> 
+> he'd -> if he's 
+> 
+> > “But is he demon still inside of you?”
+> 
+> he -> the
 
->> **u/mooderino** [+3]  *The Good Student**
+>> **u/mooderino** [+3]  *The Good Student* (a day later)
 >> 
 >> Thanks very much, really appreciate it. Fixed.
->> 
 
->>> **u/tokol** [+2]  *The Greater Good**
+>>> **u/tokol** [+2]  *The Greater Good* (a day later)
 >>> 
 >>> Hey, no problem. Thanks for the story. :)
->>> 
 
 ---
 

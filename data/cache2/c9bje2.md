@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2019/07/05/chapter-52-recovery/
-* Score: 71
+* Score: 72
 
 * Created: 2019-07-05T04:11:41
 
@@ -12,90 +12,79 @@
 
 ### Comments:
 
-> **u/Mountebank** [+18] *
+> **u/Mountebank** [+18]  (21 minutes later)
 > 
 > So how long until Cat finds out about the tortured Callowan prisoners?
-> 
 
->> **u/Academic_Jellyfish** [+18] *
+>> **u/Academic_Jellyfish** [+18]  (45 minutes later)
 >> 
 >> She'll probably find out when everyone releases their prisoners, since they're all buddies now. Though they may kill the tortured ones, to keep her from finding out.
->> 
 
->>> **u/Amaranthyne** [+15] *
+>>> **u/Amaranthyne** [+15]  (an hour later)
 >>> 
 >>> They are actively offending Pilgrim's honor as long as they hold prisoners. That is not a good look for their people.
->>> 
 
->>>> **u/Ardvarkeating101** [+22]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+22]  *Father of Learning* (an hour later)
 >>>> 
 >>>> > That is not a good look for their people.
->>>> I know right!  Body paints *completely clash* with the various fluids that leak from a tortured prisoner.
->>>> God, some people.
 >>>> 
+>>>> I know right!  Body paints *completely clash* with the various fluids that leak from a tortured prisoner.
+>>>> 
+>>>> God, some people.
 
->>>>> **u/MisterCommonMarket** [+3] *
+>>>>> **u/MisterCommonMarket** [+3]  (6 hours later)
 >>>>> 
 >>>>> I know right, no fashion sense. Plebeians.
->>>>> 
 
->>>>>> **u/Allian42** [+8] *
+>>>>>> **u/Allian42** [+7]  (8 hours later)
 >>>>>> 
 >>>>>> Someone get Akua in on this!
->>>>>> 
 
->>>>> **u/MisterCommonMarket** [+3] *
+>>>>> **u/MisterCommonMarket** [+3]  (8 hours later)
 >>>>> 
 >>>>> *Sniff.* They probably used cheap off brand torture implements
->>>>> 
 
-> **u/OmniscientQ** [+11] *
+> **u/OmniscientQ** [+9]  (14 hours later)
 > 
 > So, if the Twilight Road is established and functions as intended, does this mean the seven princes (minus the dead one) can get back to Salia fast enough to fuck over Cordelias plans for succession? The law stating that they have to show up in person was supposed to allow her to put puppets in place and become a de facto tyrant of Procer.
-> Also, the Twilight Road needs to be added to Mario Kart as a twisted, mirror-realm version of Rainbow Road.
 > 
+> Also, the Twilight Road needs to be added to Mario Kart as a twisted, mirror-realm version of Rainbow Road.
 
->> **u/Academic_Jellyfish** [+5] *
+>> **u/Academic_Jellyfish** [+4]  (14 hours later)
 >> 
 >> Only Cat and her people can build the gates, so I assume they won't be able to exit near Salia without her help, though Roland might be able to figure something out. Hard to say if she'd help them though.
->> 
 
->>> **u/Herestheproof** [+2] *
+>>> **u/Herestheproof** [+2]  (a day later)
 >>> 
 >>> Cat mentions at one point that the war would take them to Salia to forge a peace. I’m guessing she’ll be going there pretty soon. 
->>> Of course, I don’t think the successors are with her, so it’s unknown if that would throw a wrench in Cordelia’s plan.
 >>> 
+>>> Of course, I don’t think the successors are with her, so it’s unknown if that would throw a wrench in Cordelia’s plan.
 
-> **u/Zayits** [+3] *
+> **u/Zayits** [+3]  (35 seconds later)
 > 
 > [Vote for A Practical Guide to Evil on TopWebFiction!](http://topwebfiction.com/vote.php?for=a-practical-guide-to-evil)
-> 
 
-> **u/Academic_Jellyfish** [+3] *
+> **u/Academic_Jellyfish** [+3]  (16 hours later)
 > 
 > While they're all distracted, Zombie Saint sneaks through the portal.
-> Probably not. Still, I wonder what they did with her corpse.
 > 
+> Probably not. Still, I wonder what they did with her corpse.
 
->> **u/panchoadrenalina** [+5] *
+>> **u/panchoadrenalina** [+5]  (20 hours later)
 >> 
 >> i imagine she stole an aspect of the saint and will appear as a chekhov sword in the future, probably **Sever** or **Listen**
->> 
 
->>> **u/ATRDCI** [+2] *
+>>> **u/ATRDCI** [+2]  (21 hours later)
 >>> 
 >>> **Sever** is the better bet since it's one of the few things that can hurt DK where it hurts (though arguably **Listen** may somehow be used metaphysically in conflict vs the Bard)
->>> 
 
->>>> **u/Zayits** [+2] *
+>>>> **u/Zayits** [+2]  (a day later)
 >>>> 
 >>>> Am I the only one that thinks **Decree** would be insanely useful if it can be made work with non-innate domains?
->>>> 
 
->>>>> **u/panchoadrenalina** [+2] *
+>>>>> **u/panchoadrenalina** [+2]  (a day later)
 >>>>> 
 >>>>> Decree is insanely powerful, given time. It took years for the saint to become a monster. If it is single use only i think sever has more potential
->>>>> 
 
 ---
 

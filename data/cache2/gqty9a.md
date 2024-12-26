@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/CouteauBleu** [+1]  *We are the Empire.**
+> **u/CouteauBleu** [+1]  *We are the Empire.* (23 minutes later)
 > 
 > And?
-> 
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (51 minutes later)
 > 
 > Political images with HPMOR quotes narrated over them are not an appropriate form of submission to this subreddit.
-> Please do not do so again.
 > 
+> Please do not do so again.
 
 ---
 

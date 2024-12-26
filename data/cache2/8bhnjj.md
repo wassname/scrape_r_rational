@@ -2,7 +2,7 @@
 
 * Author: u/hoja_nasredin  *Dai-Gurren Brigade**
 * URL: https://www.reddit.com/r/rational/comments/8bhnjj/opening_quotes_and_worldbuilding_of_practical/
-* Score: 0
+* Score: 1
 
 * Created: 2018-04-11T14:51:01
 
@@ -56,10 +56,9 @@ One of the best thing about the early quotes were world building elements. In th
 
 ### Comments:
 
-> **u/Ardvarkeating101** [+5]  *Father of Learning**
+> **u/Ardvarkeating101** [+4]  *Father of Learning* (a day later)
 > 
 > I have no idea what you're talking about for most of this but that last link if fucking hilarious
-> 
 
 ---
 

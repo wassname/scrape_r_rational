@@ -2,7 +2,7 @@
 
 * Author: u/MelasD *
 * URL: https://www.royalroad.com/fiction/41599/tian/chapter/668073/106
-* Score: 34
+* Score: 36
 
 * Created: 2021-04-20T19:26:54
 
@@ -12,46 +12,45 @@
 
 ### Comments:
 
-> **u/MelasD** [+12] *
+> **u/MelasD** [+12]  (a minute later)
 > 
 > Some flashback/backstory on Tian to flesh her and the Cultivation world out a little bit more. Also, hopefully the logic regarding why she wants to be immortal makes sense. It is very much inspired by this [CGP Grey](https://www.youtube.com/watch?v=C25qzDhGLx8) video I watched when I was 17 years old, which I could never quite relate to. Personally, I would never want to be immortal. I wouldn't mind living a little longer. Just... not dying sounds troublesome to me. What happens if you go insane? Lose your mind? Or what if everyone you know just... dies?
-> It just sounds lonely, to me. But how would a culture that can *actually* cure death react to it? Certainly not the same way I would. Hence, the logic I hopefully try to rationalize here.
 > 
+> It just sounds lonely, to me. But how would a culture that can *actually* cure death react to it? Certainly not the same way I would. Hence, the logic I hopefully try to rationalize here.
 
->> **u/Bartimeus29** [+29] *
+>> **u/Bartimeus29** [+28]  (2 hours later)
 >> 
 >> I think you may have missed the main point of the video. 
->> Growing up in a society where death has so far been inevitable, it's natural that we come up with rationalisation as to why death isn't so bad after all, even desirable. 
->> But for each probleme which death gives a solution, death is the absolute worst solution! (Overpopulation? Just kill some of them... Bored? No probleme just die before you had the time to explore  0.1% of what there is... and my favorite: people i love might die, well i guess i really should also hurry up and die as well so i don't get lonely)
->> Don't take the status quo of how the world i for how the world should be.
 >> 
+>> Growing up in a society where death has so far been inevitable, it's natural that we come up with rationalisation as to why death isn't so bad after all, even desirable. 
+>> 
+>> But for each probleme which death gives a solution, death is the absolute worst solution! (Overpopulation? Just kill some of them... Bored? No probleme just die before you had the time to explore  0.1% of what there is... and my favorite: people i love might die, well i guess i really should also hurry up and die as well so i don't get lonely)
+>> 
+>> Don't take the status quo of how the world i for how the world should be.
 
->>> **u/MelasD** [+10] *
+>>> **u/MelasD** [+9]  (2 hours later)
 >>> 
 >>> No, no. I got the point of the video. I just can't relate to wanting to be immortal. I understand its message is not that. Hence, why I am able to use that video to help me rationalize Tiao's logic in this chappie.
->>> 
 
->> **u/PastafarianGames** [+10] *
+>> **u/PastafarianGames** [+10]  (5 hours later)
 >> 
 >> I think you nailed it, fwiw; as someone who feels that death is the end of the universe and mortality is the literal worst because I *won't get to read any more books*, I feel a serious sympathy with Tian's position.
->> 
 
->> **u/GlueBoy** [+3]  *anti-skub**
+>> **u/GlueBoy** [+3]  *anti-skub* (an hour later)
 >> 
 >> Sounds interesting, I'll check it out... after it has over 50k words. 
->> Any reason you put the chapter before the title, though?
 >> 
+>> Any reason you put the chapter before the title, though?
 
->>> **u/MelasD** [+3] *
+>>> **u/MelasD** [+3]  (an hour later)
 >>> 
 >>> It was automatically formatted that way, so I didn't change it.
->>> 
 
->> **u/echemon** [+1] *
+>> **u/echemon** [+1]  (8 days later)
 >> 
 >> You could go insane, your friends and family could all die, etc. right now, and then you're left in a situation where you have ~60+ years to live on (at 17).  
->> And obviously, if you figured out a way to cure your own horrible degenerative disease, you'd try and apply the cure to your family, loved ones, friends, and then just sell it to people.
 >> 
+>> And obviously, if you figured out a way to cure your own horrible degenerative disease, you'd try and apply the cure to your family, loved ones, friends, and then just sell it to people.
 
 ---
 

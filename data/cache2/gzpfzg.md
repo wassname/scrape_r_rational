@@ -12,16 +12,14 @@
 
 ### Comments:
 
-> **u/Nimelennar** [+2] *
+> **u/Nimelennar** [+2]  (21 minutes later)
 > 
 > There's a worldbuilding and writing thread posted every Wednesday for exactly this kind of question.
 > [Here's](https://www.reddit.com/r/rational/comments/gvvlgq/d_wednesday_worldbuilding_and_writing_thread/) last week's, but, given that it's Tuesday, you might just want to wait until tomorrow, when this week's will be posted.
-> 
 
->> **u/kubor04** [+2] *
+>> **u/kubor04** [+2]  (32 minutes later)
 >> 
 >> Sorry for bothering, new to the sub. Thank you
->> 
 
 ---
 

@@ -22,13 +22,14 @@ In the real world, there are either relatively few areas of research that are fo
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 days later)
 > 
 > Isaaac Asimov had a good story about forbbidden research into a device that can see into the past called ["The dead past."](https://archive.org/stream/Astounding_v57n02_1956-04_Gorgon776#page/n5/mode/2up)  
 > Its got that early asimov feeling of lots of 1960s men arguing about academic politics but I've enjoyed it quite a lot.
-> [Major spoilers](#s " the semi-twist ending is that the real reason they were preventing research was the the device could allow you to see anyone anywhere at any time, by looking a tiny amount of time into the past, effectively destroying all notions of privacy. And the latest version of it can be built with household materials. And the protagonists released the plans before finding out. ")  
-> [continues](#s " Asimov said in the commentary on it in the collection I read that he wanted to challenge himself to write a story where the oppressive government beaurocracy was actually the good guys")
 > 
+> [Major spoilers](#s " the semi-twist ending is that the real reason they were preventing research was the the device could allow you to see anyone anywhere at any time, by looking a tiny amount of time into the past, effectively destroying all notions of privacy. And the latest version of it can be built with household materials. And the protagonists released the plans before finding out. ")  
+> 
+> [continues](#s " Asimov said in the commentary on it in the collection I read that he wanted to challenge himself to write a story where the oppressive government beaurocracy was actually the good guys")
 
 ---
 

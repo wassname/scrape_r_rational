@@ -2,7 +2,7 @@
 
 * Author: u/erwgv3g34 *
 * URL: http://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/
-* Score: 35
+* Score: 37
 
 * Created: 2014-01-02T23:28:52
 
@@ -12,30 +12,25 @@
 
 ### Comments:
 
-> **u/mycroftxxx42** [+4] *
+> **u/mycroftxxx42** [+4]  (3 hours later)
 > 
 > That was something special.  Thank you for sharing it.  It was both full of rational problems and a good fairy tale.
-> 
 
-> **u/alexanderwales** [+4]  *Time flies like an arrow**
+> **u/alexanderwales** [+4]  *Time flies like an arrow* (3 hours later)
 > 
 > I liked that quite a bit - extremely well written.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (9 hours later)
 > 
 > This is a seriously cool story. The world needs more like this.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (16 hours later)
 > 
 > What everyone else said- this is fantastic. I'll be looking for more from [that author](http://www.danielabraham.com/). Thanks for sharing!
-> 
 
-> **u/GeeJo** [+1]  *Custom Flair**
+> **u/GeeJo** [+1]  *Custom Flair* (4 days later)
 > 
 > A great example of the sort of thing that I think most people in the sub are looking for!
-> 
 
 ---
 

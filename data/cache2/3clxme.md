@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3clxme/weekly_challenge_ever_after/
-* Score: 20
+* Score: 21
 
 * Created: 2015-07-08T22:56:59
 
@@ -50,165 +50,159 @@ Next week's prompt is "The Chosen One". [See the entry at TV Tropes.](http://tvt
 
 ### Comments:
 
-> **u/erenthia** [+13] *
+> **u/erenthia** [+12]  (5 days later)
 > 
 > [The Cycle](https://docs.google.com/document/d/1lwLecMNmxX5475LplYFVaRJI26J6RqB1NcT5ol0PYXE/edit?usp=sharing)
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (7 days later)
 >> 
 >> This was a great twist, and I especially liked the fact that you made sure the final sentence was on the next page.  It put a layer of meta on it that worked for me.
->> 
 
-> **u/eaglejarl** [+22] *
+> **u/eaglejarl** [+25]  (6 hours later)
 > 
 > [**Happily? Ever After**](https://docs.google.com/document/d/1eH1eY6kZFavP3B_P5XqfrVz4EKhItJcJxk_Vi0R9sVE/edit?usp=sharing)
-> 
 
->> **u/TennisMaster2** [+1] *
+>> **u/TennisMaster2** [+1]  (5 months later)
 >> 
 >> That last line cracked me up.  I've previously heard or made that same joke, or perhaps both; loved it.
->> 
 
-> **u/royishere** [+5] *
+> **u/royishere** [+5]  (5 days later)
 > 
 > >Remember, prompts are to inspire, not to limit.
-> If you say so. :)
-> [**Truly A Miracle**](http://pastebin.com/WjRjTZbE)
-> 1,642 words
 > 
+> If you say so. :)
+> 
+> [**Truly A Miracle**](http://pastebin.com/WjRjTZbE)
+> 
+> 1,642 words
 
-> **u/Coadie** [+9] *
+> **u/Coadie** [+9]  (9 hours later)
 > 
 > **[Happily ever after](http://pastebin.com/Z9Mn9NSz)**
-> Word count: *1,834*
 > 
+> Word count: *1,834*
 
->> **u/Coadie** [+1] *
+>> **u/Coadie** [+1]  (a day later)
 >> 
 >> So I ended up finishing this in a rush in order to meet the opening of the challenge. I'd appreciate criticism of the story as it stands, and whether people think it is worthwhile extending it.
->> The ending would probably still be the same, it would just be a bit more of a journey to get there. Alternatively, the ending could be more positive, with the current ending narrowly averted.
 >> 
+>> The ending would probably still be the same, it would just be a bit more of a journey to get there. Alternatively, the ending could be more positive, with the current ending narrowly averted.
 
->>> **u/Kishoto** [+2] *
+>>> **u/Kishoto** [+2]  (a day later)
 >>> 
 >>> Just curious. [](#s "What does the static on the cup at the end imply?")
->>> 
 
->>>> **u/Coadie** [+1] *
+>>>> **u/Coadie** [+1]  (a day later)
 >>>> 
 >>>> Ah, thought it was more obvious. [Spoiler](#s "The cup is infected with nanites, the static is the cup being converted into more nanites, world will quickly be turned into grey goo.")
->>>> 
 
->>>>> **u/Kishoto** [+2] *
+>>>>> **u/Kishoto** [+2]  (a day later)
 >>>>> 
 >>>>> Ah, I see. [](#s "My foremost assumption was that the static indicated some sort of design error, maybe a breakdown or decay on the atomic scale, and the implied terror was similar to the terror of transfiguration in HPMOR. That the fabricated substance would break down while inside your body. Depending on how this happens, it could have a variety of effects, ranging from mildly unpleasant to catastrophically dangerous.")
->>>>> 
 
->>>>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>>>>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (2 days later)
 >>>>>> 
 >>>>>> Well, the two interpretations don't contradict one another.
->>>>>> 
 
->>>>>> **u/Coadie** [+1] *
+>>>>>> **u/Coadie** [+1]  (2 days later)
 >>>>>> 
 >>>>>> That's not bad! Might use that if I extend the story. It has the benefit of [Spoiler](#s "allowing for the problems to propagate throughout the population as they use the newly upgraded machines before the consequences are discovered.")
->>>>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (3 days later)
 >>>>> 
 >>>>> How do you deal with the thermodynamic issues inherent to [](#s "grey goo")?
->>>>> 
 
->>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (6 days later)
 >>> 
 >>> If this is equivalent to  [spoiler](#s "open-source 3D printer hacking"), then Kishoto's interpretation makes more sense IMO.
->>> If  [spoiler](#s "a computer is needed to scan an object to replicate it and it develops AI... then the nanite grey goo scenario makes more sense to me.")
 >>> 
+>>> If  [spoiler](#s "a computer is needed to scan an object to replicate it and it develops AI... then the nanite grey goo scenario makes more sense to me.")
 
-> **u/blazinghand** [+6]  *Chaos Undivided**
+> **u/blazinghand** [+6]  *Chaos Undivided* (3 hours later)
 > 
 > **[The Gone Day](https://www.fanfiction.net/s/11368256/1/The-Gone-Day)**
-> Fanfiction of Canon HP, set after the books.
 > 
+> Fanfiction of Canon HP, set after the books.
 
->> **u/Chronophilia** [+4]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+4]  *sci-fi ≠ futurology* (2 days later)
 >> 
 >> Today's life lesson is that *Avada Kedavra*-ing the Dark Lord does not instantly solve all everyone's problems forever. One that a lot of writers seem to gloss over.
->> It seems a bit strange that Aurors wouldn't know what a gun is, but then this is canon HP...
 >> 
+>> It seems a bit strange that Aurors wouldn't know what a gun is, but then this is canon HP...
 
-> **u/Kerbal_NASA** [+9] *
+> **u/Kerbal_NASA** [+6]  (20 minutes later)
 > 
 > [**Memoirs of the Cold Traitor**](http://pastebin.com/FT4Wt90K)
-> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (23 minutes later)
 >> 
 >> Please submit as a link to outside of reddit, per the announcement last week and in the rules this week; it's mostly a readability issue. (You can just edit this post.)
->> 
 
->>> **u/Kerbal_NASA** [+2] *
+>>> **u/Kerbal_NASA** [+2]  (31 minutes later)
 >>> 
 >>> Oops, thought that was only going to apply to long (>1 reddit post) stories. Editing now.
->>> 
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (35 minutes later)
 >>>> 
 >>>> "Long" was a little too poorly defined, so I just made it a blanket rule. A single reddit post is 10,000 characters (~2,000 words), which takes up a screen and a half on my laptop, so I think that's "long". But it's open to interpretation, which isn't really a quality that you want in rules.
->>>> 
 
->>>>> **u/Kerbal_NASA** [+2] *
+>>>>> **u/Kerbal_NASA** [+2]  (36 minutes later)
 >>>>> 
 >>>>> Makes sense, good decision.
->>>>> 
 
->> **u/Kerbal_NASA** [+2] *
+>> **u/Kerbal_NASA** [+2]  (3 days later)
 >> 
 >> I'd really love criticism/feedback. If anyone takes the time to reply about this or any of my other stories, I'd be super appreciative!
->> 
 
->>> **u/Chronophilia** [+5]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+5]  *sci-fi ≠ futurology* (4 days later)
 >>> 
 >>> I like the idea. It reminds me a lot of *The Sword Of Good* - taking a D&D murder-hobo protagonist and dropping them into a world where actions have consequences and the NPCs are people too. Was that your inspiration?
->>> The main scene was excellent. The new emperor was funny and memorable, and the narrator makes a fine straight-man to emphasise his wacky blockheadedness. The old emperor is also a cool character. I think the introduction and the epilogue could have been folded into this scene more neatly; /u/alexanderwales has talked about the importance of beginning and ending on a strong point, and here your middle is easily the best part. All the best characterisation and humour is between Carillion, Ferion, and the narrator - the two other speakers aren't interesting enough, there's no sparks flying between them and any other characters.
->>> The way the narration uses informal language makes a nice contrast between the way the narrator talks in his head and the affected style he uses out loud. I think you've overdone this a bit - "Sigh." is not a sentence, and breaking the fourth wall by saying "my dear reader" should only be done for comedy purposes. I think the dramatic moment where the main character decides to become the Cold Traitor (whatever that means) really suffers from this, because he doesn't come across as serious or angry - just bored and jokey.
->>> And there's a couple of mistakes and stylistic quirks that distract from the story. "Plyable" should be "pliable". If you correct "kingdom" to "empire", you should also change "royal" to "imperial" throughout. Magical essence is usually spelled "mana", not "manna". The first "its" needs an apostrophe. Minor things like that.
->>> Hope this was helpful to you. Happy 4th Reddit anniversary!
 >>> 
+>>> The main scene was excellent. The new emperor was funny and memorable, and the narrator makes a fine straight-man to emphasise his wacky blockheadedness. The old emperor is also a cool character. I think the introduction and the epilogue could have been folded into this scene more neatly; /u/alexanderwales has talked about the importance of beginning and ending on a strong point, and here your middle is easily the best part. All the best characterisation and humour is between Carillion, Ferion, and the narrator - the two other speakers aren't interesting enough, there's no sparks flying between them and any other characters.
+>>> 
+>>> The way the narration uses informal language makes a nice contrast between the way the narrator talks in his head and the affected style he uses out loud. I think you've overdone this a bit - "Sigh." is not a sentence, and breaking the fourth wall by saying "my dear reader" should only be done for comedy purposes. I think the dramatic moment where the main character decides to become the Cold Traitor (whatever that means) really suffers from this, because he doesn't come across as serious or angry - just bored and jokey.
+>>> 
+>>> And there's a couple of mistakes and stylistic quirks that distract from the story. "Plyable" should be "pliable". If you correct "kingdom" to "empire", you should also change "royal" to "imperial" throughout. Magical essence is usually spelled "mana", not "manna". The first "its" needs an apostrophe. Minor things like that.
+>>> 
+>>> Hope this was helpful to you. Happy 4th Reddit anniversary!
 
->>>> **u/Kerbal_NASA** [+2] *
+>>>> **u/Kerbal_NASA** [+2]  (5 days later)
 >>>> 
 >>>> Thanks so much for the feedback! To answer your question, my inspiration for this was was two main things. The first is the conversations I've had with people who have very strong opinions on absurdly complicated political issues that they haven't even given much real thought to. The second was just that I thought it would be funny to portray a rational version of certain fantasy tropes, especially the heroic power fantasy ones. Oh and the evil orc bit was almost completely lifted off *The Sword of Good*.
->>>> I definitely agree with you on the intro; rereading it, it feels very disjointed from the rest. It definitely needs a rewriting in a way that ties into the epilogue. See, this was *supposed* to be a sample from her memoirs,  but next to nothing in the writing actually suggests/evokes that. Which I think explains some about why the epilogue, particularly the fourth wall breaking moment, feels so off. I think the story would benefit hugely from an intro rewrite.
->>>> I fixed the spelling and "it's/its" is the bane of my existence, thanks for pointing that out! And I completely forgot about the royal/imperial distinction, thanks again!
->>>> I didn't even realize it was my cake day, that's cool! And yeah, your comment was super helpful! When I get the time, I'll rewrite the intro completely and make some changes to the epilogue. If she survives the intro rewrite, the intro character might get merged with the epilogue character to make characterization easier/better.
 >>>> 
+>>>> I definitely agree with you on the intro; rereading it, it feels very disjointed from the rest. It definitely needs a rewriting in a way that ties into the epilogue. See, this was *supposed* to be a sample from her memoirs,  but next to nothing in the writing actually suggests/evokes that. Which I think explains some about why the epilogue, particularly the fourth wall breaking moment, feels so off. I think the story would benefit hugely from an intro rewrite.
+>>>> 
+>>>> I fixed the spelling and "it's/its" is the bane of my existence, thanks for pointing that out! And I completely forgot about the royal/imperial distinction, thanks again!
+>>>> 
+>>>> I didn't even realize it was my cake day, that's cool! And yeah, your comment was super helpful! When I get the time, I'll rewrite the intro completely and make some changes to the epilogue. If she survives the intro rewrite, the intro character might get merged with the epilogue character to make characterization easier/better.
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (7 days later)
 >>>> 
 >>>> > mana", not "manna"
->>>> Technically, manna-with-two-Ns is the edible stuff that God gave the Israelites in the Bible.  (Just as a point of interest.)
 >>>> 
+>>>> Technically, manna-with-two-Ns is the edible stuff that God gave the Israelites in the Bible.  (Just as a point of interest.)
 
-> **u/Chronophilia** [+4]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+4]  *sci-fi ≠ futurology* (2 days later)
 > 
 > **[Three Weeks Later](https://www.fictionpress.com/s/3258230/1/Three-Weeks-Later)**
-> 1,794 words
-> It's a few days after the start of the competition, but I didn't find a good idea until now.
 > 
+> 1,794 words
+> 
+> It's a few days after the start of the competition, but I didn't find a good idea until now.
 
-> **u/Pialgo** [+2] *
+> **u/Pialgo** [+2]  (3 days later)
 > 
 > [Fight-Off](https://docs.google.com/document/d/1VlyinwW1-14OKBS-dHOl_Q44JAhxKu2zj66EvysNe_o/pub)
+> 
 > Fanfiction of Avatar, 16 years after the film.
 > ~1 300 words
-> my first story in english. And this is not my mother tongue. So sorry in advance for any eyes i will burn. If you have remarks or corrections, i will listen carefully !
 > 
+> my first story in english. And this is not my mother tongue. So sorry in advance for any eyes i will burn. If you have remarks or corrections, i will listen carefully !
 
->> **u/fortycakes** [+3] *
+>> **u/fortycakes** [+3]  (6 days later)
 >> 
 >> Right. Some corrections to use of English, I haven't tried to touch the story content:
+>> 
 >> * "they come with three ships" should probably be "they came with three ships" - past tense rather than present
 >> * RDA should be "Research Development Administration" - one S in Research and one P in Development.
 >> * "worked on the bridge" -> "was working on the bridge"
@@ -227,31 +221,34 @@ Next week's prompt is "The Chosen One". [See the entry at TV Tropes.](http://tvt
 >> * "SETI had never detected anything" -> "SETI never detected anything"
 >> * "Do you have heard of" -> "Have you heard of"
 >> * "Whatever the conclusion will be" -> "Whatever the conclusion was" - this looks like it should be future tense, but past tense is more correct
->> 
 
->>> **u/Pialgo** [+1] *
+>>> **u/Pialgo** [+1]  (7 days later)
 >>> 
 >>> Thank you a lot ! I will correct these errors !
->>> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (7 days later)
 >> 
 >> > Speech in English text encloses each sentence in double quotes "like so" rather than enclosing the entire conversation in one set and separating lines with -
+>> 
 >> Riffing off something that /u/fortycakes said in his comment, here's some rules about punctuating dialogue in English.  
+>> 
 >> * Double quotes around the spoken part.
 >> * There is always punctuation inside the closing quote.
 >> * If you are going to have a dialogue tag (e.g. 'said Bob', or 'Bob said') after the dialogue, one of these is immediately inside the close quote:  ? ! ,
+>> 
 >> All of these are correct:
+>> 
 >> *  "Tom always loved you."
 >> *  "Tom always loved you," Bob said.
 >> *  "Tom always loved you," said Bob.
 >> *  "Tom always loved you!" said Bob.
 >> *  "Tom always loved you?" said Bob.
->> This one is NOT correct:   
->> * "Tom always loved you." said Bob.
-
->> [Here's a more complete version.](http://theeditorsblog.net/2010/12/08/punctuation-in-dialogue/)  It's actually pretty interesting, and worth reading even if you're a native speaker.
 >> 
+>> This one is NOT correct:   
+>> 
+>> * "Tom always loved you." said Bob.
+>> 
+>> [Here's a more complete version.](http://theeditorsblog.net/2010/12/08/punctuation-in-dialogue/)  It's actually pretty interesting, and worth reading even if you're a native speaker.
 
 ---
 

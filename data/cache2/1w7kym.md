@@ -2,7 +2,7 @@
 
 * Author: u/traverseda  *With dread but cautious optimism**
 * URL: http://www.schlockmercenary.com/2013-05-19
-* Score: 8
+* Score: 9
 
 * Created: 2014-01-26T18:53:40
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (2 days later)
 > 
 > Interesting how the GFAI doesn't have time to optimize the mortals due to opposing existential threats, and slowly working through the mortality problem, but with some prejudiced cached thoughts.
-> 
 
 ---
 

@@ -32,25 +32,21 @@
 
 ### Comments:
 
-> **u/Makin-** [+21]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+22]  *homestuck ratfic, you can do it* (52 minutes later)
 > 
 > You made me excited for a Misfits (2009) rational fic... though I guess that's pretty much Worm.
-> 
 
->> **u/AezyDesu** [+14]  *The Culture**
+>> **u/AezyDesu** [+12]  *The Culture* (an hour later)
 >> 
 >> My first thought as well lmao miss Nathan </3
->> 
 
->> **u/rationalidurr** [+4]  *If fighting is sure to result in victory, then you must fight!**
+>> **u/rationalidurr** [+4]  *If fighting is sure to result in victory, then you must fight!* (10 hours later)
 >> 
 >> Lol same here, started humming the theme reading the title, dunanaa dananaa dududu duu dududu duu.
->> 
 
->>> **u/LazarusRises** [+1] *
+>>> **u/LazarusRises** [+1]  (a day later)
 >>> 
 >>> *the city's churning, the conversating, the price is--***NEHH**
->>> 
 
 ---
 

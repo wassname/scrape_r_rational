@@ -16,21 +16,19 @@ There will be a new post Very Soon and hopefully On Schedule with the next chapt
 
 ### Comments:
 
-> **u/Frommerman** [+8] *
+> **u/Frommerman** [+9]  (3 hours later)
 > 
 > I haven't noticed any plot - relevant issues so far, assuming that there wasn't something you messed up related to worldbuilding that I don't know about.
-> And I do honestly read this story because I'm interested in what the characters will do and the worldbuilfing. Seriously.
 > 
+> And I do honestly read this story because I'm interested in what the characters will do and the worldbuilfing. Seriously.
 
-> **u/FeepingCreature** [+4]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+4]  *GCV Literally The Entire Culture* (17 hours later)
 > 
 > _:hugs:_
-> 
 
-> **u/k-k-KFC** [+1] *
+> **u/k-k-KFC** [+1]  (3 days later)
 > 
 > loved the story so far keep it up; only thing was in first chapter it was kinda confusing with when the POV was switching.
-> 
 
 ---
 

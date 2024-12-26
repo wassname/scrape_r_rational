@@ -2,7 +2,7 @@
 
 * Author: u/Gavinfoxx *
 * URL: https://www.reddit.com/r/rational/comments/4ia7wc/rtwipffdcrational_planeswalker_quest_major_update/
-* Score: 6
+* Score: 7
 
 * Created: 2016-05-07T14:42:00
 
@@ -20,15 +20,13 @@ https://forums.sufficientvelocity.com/threads/planecrawler-quest-mtg-semi-si-que
 
 ### Comments:
 
-> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (14 hours later)
 > 
 > You're seriously going to get a lot less passing readers coming in to try things out as long as you keep semi SI in the title.
-> 
 
->> **u/Gavinfoxx** [+1] *
+>> **u/Gavinfoxx** [+1]  (14 hours later)
 >> 
 >> This has been mentioned a few times, so I did finally change it. I think I got all the mentions. Did I miss any?
->> 
 
 ---
 

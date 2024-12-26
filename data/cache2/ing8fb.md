@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.royalroad.com/fiction/25225/delve/chapter/550244/111-pickup
-* Score: 47
+* Score: 45
 
 * Created: 2020-09-06T05:02:45
 
@@ -12,147 +12,130 @@
 
 ### Comments:
 
-> **u/None** [+43] *
+> **u/None** [+43]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Reply_or_Not** [+20] *
+>> **u/Reply_or_Not** [+21]  (7 hours later)
 >> 
 >> Fuck, who was it who said that we were going to get a completely useless Kettle chapter last week, because they called it we got a useless Kettle chapter.
->> I skipped everything till I saw Rain mentioned in the last paragraph, did anything relevant happen at all?
 >> 
+>> I skipped everything till I saw Rain mentioned in the last paragraph, did anything relevant happen at all?
 
->>> **u/chicken_fried_steak** [+14] *
+>>> **u/chicken_fried_steak** [+15]  (7 hours later)
 >>> 
 >>> It's an interesting view of what leveling is like for people that aren't Rain and have an XP printer, anyway. I kind of get why so few people have done the "Just unlock all the trees" trick, at least.
->>> 
 
->>>> **u/Reply_or_Not** [+11] *
+>>>> **u/Reply_or_Not** [+11]  (7 hours later)
 >>>> 
 >>>> Regular people being limited by circumstance (and not being good at game theory) is super old news. 
->>>> Was there anything else I missed besides the reminder that kettle is an uneducated moron?
 >>>> 
+>>>> Was there anything else I missed besides the reminder that kettle is an uneducated moron?
 
->>>>> **u/None** [+27] *
+>>>>> **u/None** [+27]  (8 hours later)
 >>>>> 
 >>>>> There was also a reminder that Ameliah is hot, but other than that, not much. A couple game-mechanical specifics:
+>>>>> 
 >>>>> 1. Potions degrade on contact with air.
 >>>>> 2. There exists a low-level monster called a "plague rat." They come in swarms and deal minor poison damage on a bite.
 >>>>> 3. The Froststorm skill is similar to Rain's auras in mook-killing AOE power.
 >>>>> 4. "Nature Magic" has lots of druidy AOE/area denial stuff.
->>>>> Also, Rain seems to have just casually hugged Ameliah. No explanation for this apparent change in their relationship was given.
 >>>>> 
+>>>>> Also, Rain seems to have just casually hugged Ameliah. No explanation for this apparent change in their relationship was given.
 
->>>>>> **u/torac** [+14] *
+>>>>>> **u/torac** [+14]  (9 hours later)
 >>>>>> 
 >>>>>> I think the plague rats were already mentioned at some point. The most interesting point which was new to me was this:
->>>>>> It’s possible to summon subordinate monsters who fight for you. I wonder how that works. Do you get XP when they fight? Can you (with the right metamagics) send them out to fight without *you*?
 >>>>>> 
+>>>>>> It’s possible to summon subordinate monsters who fight for you. I wonder how that works. Do you get XP when they fight? Can you (with the right metamagics) send them out to fight without *you*?
 
->>>>>>> **u/LazarusRises** [+1] *
+>>>>>>> **u/LazarusRises** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> There probably exists a class or skill combo that allows that, but I wouldn't be surprised if the Nature Mage's summon skills have a short timer or a range limit.
->>>>>>> 
 
->>>>>> **u/None** [+11] *
+>>>>>> **u/None** [+10]  (16 hours later)
 >>>>>> 
 >>>>>> > Also, Rain seems to have just casually hugged Ameliah. No explanation for this apparent change in their relationship was given.
->>>>>> Would've been nice to see a chapter about that instead.
 >>>>>> 
+>>>>>> Would've been nice to see a chapter about that instead.
 
->>>>>>> **u/None** [+8] *
+>>>>>>> **u/None** [+6]  (16 hours later)
 >>>>>>> 
 >>>>>>> Yeah. Though NGL SenescentSoul sucks at writing interpersonal stuff.
->>>>>>> 
 
->>>>>> **u/Bowbreaker** [+5]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+5]  *Solitary Locust* (2 days later)
 >>>>>> 
 >>>>>> > Also, Rain seems to have just casually hugged Ameliah. No explanation for this apparent change in their relationship was given.
->>>>>> I don't understand. They are friends and he missed her. I hug the people I consider friends too if I haven't seen them in a while, provided they don't have issues with being touched (or COVID makes it taboo).
 >>>>>> 
+>>>>>> I don't understand. They are friends and he missed her. I hug the people I consider friends too if I haven't seen them in a while, provided they don't have issues with being touched (or COVID makes it taboo).
 
->>>>>>> **u/Veedrac** [+2] *
+>>>>>>> **u/Veedrac** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> I agree. She did also just save Kettel's life.
->>>>>>> 
 
->>>>>> **u/Reply_or_Not** [+3] *
+>>>>>> **u/Reply_or_Not** [+3]  (8 hours later)
 >>>>>> 
 >>>>>> Thank you!
->>>>>> 
 
->>>>>>> **u/None** [+2] *
+>>>>>>> **u/None** [+2]  (8 hours later)
 >>>>>>> 
 >>>>>>> You're welcome.
->>>>>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (16 hours later)
 >>> 
 >>> At least it wasn't 2 Kettle chapters.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> *8 Kettle chapters
->>>> 
 
->>> **u/EsquilaxM** [+2] *
+>>> **u/EsquilaxM** [+2]  (a day later)
 >>> 
 >>> Saw how a lack of education could severely limit system interface.
->>> 
 
->>> **u/TheColourOfHeartache** [+2] *
+>>> **u/TheColourOfHeartache** [+2]  (15 hours later)
 >>> 
 >>> I liked this chapter, it may be Kettle but it's action packed.
->>> 
 
->>>> **u/Reply_or_Not** [+23] *
+>>>> **u/Reply_or_Not** [+23]  (15 hours later)
 >>>> 
 >>>> I think the reason why I hate Kettle so much is because he is the same character as Val, except instead of a cool backstory where he is trying to live up to the impossible standard of his father -- Kettle is just a moron.
->>>> Plus a bunch of awesome characters just got slaughtered a couple of chapters ago, and Im pissed that Kettle has been roping more people into his idiocy rather than facing consequences for his actions
 >>>> 
+>>>> Plus a bunch of awesome characters just got slaughtered a couple of chapters ago, and Im pissed that Kettle has been roping more people into his idiocy rather than facing consequences for his actions
 
->>>>> **u/sibswagl** [+3] *
+>>>>> **u/sibswagl** [+3]  (a day later)
 >>>>> 
 >>>>> Yeah, Val is ballsy as fuck, but he needs to be. He’s playing a high-risk, high-reward game and he knows it. Kettle is just a dumbass.
->>>>> 
 
-> **u/WalterTFD** [+22] *
+> **u/WalterTFD** [+21]  (14 hours later)
 > 
 > I continue to be WAY more interested in Jaks than his personality warrants, just because his build is so wild.  Aside from Rain's, he seems to have the only other single attribute build worth considering.
-> 
 
->> **u/None** [+13] *
+>> **u/None** [+14]  (16 hours later)
 >> 
 >> Jaks was the best part of this chapter.
->> 
 
->> **u/LifeIsBizarre** [+2] *
+>> **u/LifeIsBizarre** [+2]  (19 hours later)
 >> 
 >> You mean the 'asshole blood mage axe murderer' build?
->> 
 
->>> **u/Bellaby** [+2] *
+>>> **u/Bellaby** [+2]  (a day later)
 >>> 
 >>> What's not to like?
->>> 
 
-> **u/Food_and_Fun** [+15] *
+> **u/Food_and_Fun** [+15]  (9 hours later)
 > 
 > Calling kettle a puppy is a little on nose .
-> And counting to 800 in units of 10 using the counting system with no zero is moderately impressive, I would say Kettle is actually showing to be pretty smart just ignorant
 > 
+> And counting to 800 in units of 10 using the counting system with no zero is moderately impressive, I would say Kettle is actually showing to be pretty smart just ignorant
 
->> **u/bigbysemotivefinger** [+10] *
+>> **u/bigbysemotivefinger** [+10]  (14 hours later)
 >> 
 >> Not even ignorant so much as smart-but-*uneducated*.
->> 
 
-> **u/aBedofSloths** [+2] *
+> **u/aBedofSloths** [+2]  (23 hours later)
 > 
 > How are adventurers so dumb?
-> 
 
 ---
 

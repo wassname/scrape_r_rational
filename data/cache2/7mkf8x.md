@@ -2,7 +2,7 @@
 
 * Author: u/Veedrac *
 * URL: https://www.fanfiction.net/s/12717474/17/Horry-Patter-and-the-Philologer-s-Stone
-* Score: 29
+* Score: 32
 
 * Created: 2017-12-28T04:41:07
 
@@ -12,147 +12,127 @@
 
 ### Comments:
 
-> **u/Frommerman** [+8] *
+> **u/Frommerman** [+8]  (an hour later)
 > 
 > These are short, but already tons to look at. It seems my prediction that Future!Horry removed Present!Horry's soul for some reason might be correct, though I suppose we don't know precisely when Horry's soul vanished. It sounded sort of like Horry's abuse at the hands of the...Durbleys? (I've forgotten them already) might have something to do with this.
-> In any case, Alvin feels he has already failed monumentally. Considering that we have *no idea at all* what the grander conflicts in this story might be, this may or may not be a horrifically bad thing. The people of this world seem unusually attached to the idea that all of their actions are predecided, so I am unsure if Voltebort-he-who-must-be-named should be thwarted or not.
 > 
+> In any case, Alvin feels he has already failed monumentally. Considering that we have *no idea at all* what the grander conflicts in this story might be, this may or may not be a horrifically bad thing. The people of this world seem unusually attached to the idea that all of their actions are predecided, so I am unsure if Voltebort-he-who-must-be-named should be thwarted or not.
 
->> **u/Gurkenglas** [+6] *
+>> **u/Gurkenglas** [+7]  (9 hours later)
 >> 
 >> >Loose threads weave through the boy on a far distant roof—still as glass in a slice of spacetime, points of rain frozen around him—and the threads wind suddenly into nothingness.
->> His soul vanished on a roof in the rain. We know only one scene on a roof.
 >> 
+>> His soul vanished on a roof in the rain. We know only one scene on a roof.
 
->>> **u/tokol** [+4]  *The Greater Good**
+>>> **u/tokol** [+5]  *The Greater Good* (11 hours later)
 >>> 
 >>> Alvin's eye can see the past. So, if on the rooftop future!Horry managed to swap souls with present!Horry, that likely explains Alvin's observance of Horry's soul suddenly disappearing and a new soul replacing it from nowhere. The soul lines are unbroken, they just cross a temporal boundary that Alvin can't see across.
->>> Is present!Horry now a horcrux for future!Horry?
 >>> 
+>>> Is present!Horry now a horcrux for future!Horry?
 
-> **u/MultipartiteMind** [+5] *
+> **u/MultipartiteMind** [+5]  (21 hours later)
 > 
 > Ah-hah.  The future-book *changes* (in location at least, though I don't know about contents).
-> 
 
->> **u/Frommerman** [+1] *
+>> **u/Frommerman** [+1]  (a day later)
 >> 
 >> If we  look at today's post, it seems future-books might be *editable.*
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> Or perhaps, that all future-books have to be written *eventually*, and aren't available in the library when they're being made because of timey-wimey crap.
->>> 
 
-> **u/abcd_z** [+3] *
+> **u/abcd_z** [+3]  (an hour later)
 > 
 > Bleh.  Too short.  I've found that updates need at least 1,000 words in order for the readers to not start complaining about shortness.  The author would have done better to combine them all into one chapter.
-> 
 
->> **u/fawnmod** [+10] *
+>> **u/fawnmod** [+10]  (an hour later)
 >> 
 >> Yeah, this is at least half my fault.  Fanfiction.net was refusing to accept new chapters, so I had to edit an old document, and stick the text of the chapter in it.  This screwed up all the formatting, so after I was halfway through fixing the formatting through (what will be parts 1-4), it was eaten by a failed update.
->> Then I ragequit and just posted what now is part 1, because I still had that saved.  I may eventually rejoin them all into 1 chapter, but I didn't want to post *nothing* yesterday.  They've since fixed the updating bug.
 >> 
+>> Then I ragequit and just posted what now is part 1, because I still had that saved.  I may eventually rejoin them all into 1 chapter, but I didn't want to post *nothing* yesterday.  They've since fixed the updating bug.
 
->>> **u/abcd_z** [+3] *
+>>> **u/abcd_z** [+5]  (2 hours later)
 >>> 
 >>> > but I didn't want to post *nothing* yesterday.
->>> \*shrug\* Well, it's not like you're on a deadline or anything.  We wouldn't have known (or cared) if you'd taken an extra day or two to get all 4 parts together.
 >>> 
+>>> \*shrug\* Well, it's not like you're on a deadline or anything.  We wouldn't have known (or cared) if you'd taken an extra day or two to get all 4 parts together.
 
->> **u/Frommerman** [+1] *
+>> **u/Frommerman** [+1]  (an hour later)
 >> 
 >> Sounds like we're getting two more in quick succession, though.
->> 
 
->>> **u/abcd_z** [+1] *
+>>> **u/abcd_z** [+1]  (an hour later)
 >>> 
 >>> Not for another day and two.  Better to combine all four of them into one post and release *that*.  IMO, YMMV, etc.
->>> 
 
-> **u/MaddoScientisto** [+3] *
+> **u/MaddoScientisto** [+3]  (4 hours later)
 > 
 > I have absolutely no idea what Alvin just did
-> 
 
->> **u/Gurkenglas** [+1] *
+>> **u/Gurkenglas** [+1]  (9 hours later)
 >> 
 >> He used his Eye's past-gazing power to follow Horry's timeline back to whence his soul came. Apparently, this path leads to space, suggesting that either that's where they originally come from, or the trails that objects leave to his Eye are imprinted on the aether that Earth travels through.
->> He then identifies the point at which Horry's soul vanishes to be on a roof in rain.
 >> 
+>> He then identifies the point at which Horry's soul vanishes to be on a roof in rain.
 
->>> **u/Frommerman** [+1] *
+>>> **u/Frommerman** [+1]  (14 hours later)
 >>> 
 >>> I don't think he was following the soul into space, I think he wanted to be able to see the entire planet so he could follow the soul wherever it had been. He was getting a wider angle.
->>> 
 
->>>> **u/Gurkenglas** [+1] *
+>>>> **u/Gurkenglas** [+1]  (15 hours later)
 >>>> 
 >>>> Then he needn't have broken velocity to go faster than light.
->>>> 
 
->>>>> **u/Frommerman** [+1] *
+>>>>> **u/Frommerman** [+1]  (15 hours later)
 >>>>> 
 >>>>> I get the impression he did that just to go fast and hopefully solve the problem earlier. He doesn't say anything about the threads of the soul following him into space, and in fact says that they are quite far away.
->>>>> 
 
->>>>>> **u/Gurkenglas** [+1] *
+>>>>>> **u/Gurkenglas** [+1]  (a day later)
 >>>>>> 
 >>>>>> Earth fills 60° of the view at an altitude of .02 light seconds. His behavior before turning into violent blue magick does not indicate he optimizes on the order of hundredths of a second.
->>>>>> 
 
->>>>>>> **u/Frommerman** [+1] *
+>>>>>>> **u/Frommerman** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> He also didn't have a wand before that point. Remember, Horry has Doubledoor's wand.
->>>>>>> 
 
-> **u/Dent7777** [+2]  *House Atreides**
+> **u/Dent7777** [+2]  *House Atreides* (18 hours later)
 > 
 > I've got an epub for this with the proper HP names, if anyone is interested. I like it, but the story hurts my mind enough without it causing me mental anguish every time I read a name that is just slightly different than the one I associate with the character.
-> 
 
->> **u/ZeCatox** [+4] *
+>> **u/ZeCatox** [+5]  (a day later)
 >> 
 >> And 20 chapters later, you find out the names changes are essential to the story... oops ?
->> 
 
->>> **u/Dent7777** [+1]  *House Atreides**
+>>> **u/Dent7777** [+1]  *House Atreides* (a day later)
 >>> 
 >>> Is there any reason to believe that is going to happen?
->>> 
 
->>>> **u/Gurkenglas** [+4] *
+>>>> **u/Gurkenglas** [+5]  (a day later)
 >>>> 
 >>>> Luna has her real name, and that one giver of sage advice who has appeared one of three times was about to call him Harry.
->>>> 
 
->>>>> **u/Dent7777** [+1]  *House Atreides**
+>>>>> **u/Dent7777** [+1]  *House Atreides* (a day later)
 >>>>> 
 >>>>> So do you think we'll end up with some sort of alternate universe or communication across universes sorta thing?
->>>>> 
 
->> **u/ArisKatsaris** [+2]  *Sidebar Contender**
+>> **u/ArisKatsaris** [+2]  *Sidebar Contender* (2 days later)
 >> 
 >> > I've got an epub for this with the proper HP names
->> Well, since the change in names seems to be a plot-point, that seems wrong.
 >> 
+>> Well, since the change in names seems to be a plot-point, that seems wrong.
 
->>> **u/Dent7777** [+1]  *House Atreides**
+>>> **u/Dent7777** [+1]  *House Atreides* (2 days later)
 >>> 
 >>> This is clear to me now
->>> 
 
-> **u/Ardvarkeating101** [+2]  *Father of Learning**
+> **u/Ardvarkeating101** [+2]  *Father of Learning* (2 days later)
 > 
 > So I saw this on here, read up to chapter 7, and have to say: what the fuck is this?  I'm honestly not sure what this is.
-> 
 
->> **u/fawnmod** [+4] *
+>> **u/fawnmod** [+4]  (2 days later)
 >> 
 >> this is the correct response
->> 
 
 ---
 

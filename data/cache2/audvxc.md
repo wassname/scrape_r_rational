@@ -16,20 +16,17 @@ https://www.amazon.com/Beginners-Guide-Magical-Licensing-ebook/dp/B07NK7GTBS
 
 ### Comments:
 
-> **u/AnimaLepton** [+4] *
+> **u/AnimaLepton** [+4]  (3 hours later)
 > 
 > The author made a post about it here just a day ago.
-> 
 
-> **u/Achille-Talon** [+5] *
+> **u/Achille-Talon** [+4]  (a day later)
 > 
 > Sounds kinda like *Unsong* but less Jewish. (That's not particularly a criticism; fantasy books keep ripping each other off, on purpose or not on purpose, depending.)
-> 
 
->> **u/andor3333** [+1] *
+>> **u/andor3333** [+1]  (4 days later)
 >> 
 >> I actually recommended it here shortly before Scott started unsong, so it was here first. I actually wondered if he saw it and it was part of his inspiration for the start but he said in a post it was something else years ago.
->> 
 
 ---
 

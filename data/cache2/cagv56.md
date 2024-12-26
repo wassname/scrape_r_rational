@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/swagrabbit** [+2] *
+> **u/swagrabbit** [+2]  (10 hours later)
 > 
 > It seems very foolish to have followed Rutga.
-> 
 
 ---
 

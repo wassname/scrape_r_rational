@@ -12,50 +12,41 @@
 
 ### Comments:
 
-> **u/Geminii27** [+7] *
+> **u/Geminii27** [+7]  (3 hours later)
 > 
 > One of my favorite older webcomics.
-> 
 
->> **u/NestorDempster** [+1] *
+>> **u/NestorDempster** [+1]  (18 hours later)
 >> 
 >> I just finished reading this, and I've really liked it. But I had never heard about it before. Do you have any other recommendations of the same quality?
->> 
 
->>> **u/Geminii27** [+1] *
+>>> **u/Geminii27** [+1]  (a day later)
 >>> 
 >>> Hmm. Quality's a very personal thing, but... Skin Horse? Girl Genius? Schlock Mercenary? Freefall, maybe?
->>> 
 
->>> **u/NotACauldronAgent** [+1]  *Probably**
+>>> **u/NotACauldronAgent** [+1]  *Probably* (a day later)
 >>> 
 >>> Perhaps Always Human?
->>> 
 
-> **u/JohnKeel** [+5] *
+> **u/JohnKeel** [+5]  (4 hours later)
 > 
 > This is a classic, and finished to boot. Focuses on “what if mad scientists were real?”
-> 
 
-> **u/ThirdMover** [+5] *
+> **u/ThirdMover** [+4]  (8 hours later)
 > 
 > Mars is probably the my favorite hivemind ever.
-> 
 
-> **u/ascii158** [+3] *
+> **u/ascii158** [+3]  (11 hours later)
 > 
 > Oh, I think I read that three or four times. I have the first half as a book. They promised to do the second half at some point, but I guess life happened...
-> 
 
->> **u/CreationBlues** [+1] *
+>> **u/CreationBlues** [+1]  (20 hours later)
 >> 
 >> Looks like the last time they did anything was 2011...
->> 
 
->>> **u/ascii158** [+1] *
+>>> **u/ascii158** [+1]  (a day later)
 >>> 
 >>> Yes. Very sad. It was quite fun waiting for the chapters to update.
->>> 
 
 ---
 

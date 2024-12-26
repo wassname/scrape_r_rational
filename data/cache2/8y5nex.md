@@ -50,10 +50,9 @@ Next time, the challenge will be **Uplift**. Per [the Wikipedia page](https://en
 
 ### Comments:
 
-> **u/Sparkwitch** [+3] *
+> **u/Sparkwitch** [+4]  (9 days later)
 > 
 > [A Believable Interlude](https://docs.google.com/document/d/1KtmWLVz2rZ3eMGWnq38TaR805Muv9JuAUd_fiQCQBtk/edit?usp=sharing)
-> 
 
 ---
 

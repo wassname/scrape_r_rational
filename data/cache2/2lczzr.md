@@ -12,174 +12,169 @@
 
 ### Comments:
 
-> **u/Bouletcorp** [+41] *
+> **u/Bouletcorp** [+44]  (an hour later)
 > 
 > The answer is "no" :) But it seems to be a big thing because hundreds of people sent me the link! I'm gonna read that or listen to the podcast as soon as I can!
-> 
 
->> **u/AE-lith** [+12] *
+>> **u/AE-lith** [+12]  (an hour later)
 >> 
 >> It's a big thing in many ways... seeing your interest, you might want to save a week for that, or forget about sleeping for a while. And then there's the unavoidable descent in everything rationalist, from which some never come out.
->> Btw LOVE YOUR WORK. I'm getting Augie and the Green Knight as a gift for a friend but I'm definitely going to read it a few times before handing it over.
->> edit:letterS
 >> 
+>> Btw LOVE YOUR WORK. I'm getting Augie and the Green Knight as a gift for a friend but I'm definitely going to read it a few times before handing it over.
+>> 
+>> edit:letterS
 
->>> **u/mskwark** [+5] *
+>>> **u/mskwark** [+4]  (6 hours later)
 >>> 
 >>> Boulet is indeed amazing and both me and my daughter cannot really wait to get Augie (it is Augie, not Angie) in our hands.
->>> 
 
->>>> **u/AE-lith** [+2] *
+>>>> **u/AE-lith** [+2]  (6 hours later)
 >>>> 
 >>>> (sorry. fixed.)
->>>> 
 
->> **u/Jello_Raptor** [+1]  *The Last Tool User**
+>> **u/Jello_Raptor** [+1]  *The Last Tool User* (3 months later)
 >> 
 >> Did you ever end up reading HPMOR after your hogwarts comic?
->> 
 
->> **u/None** [-5] *
+>> **u/None** [-3]  (6 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/capsless** [+6]  *despiser of hpmor**
+>>> **u/capsless** [+5]  *despiser of hpmor* (11 hours later)
 >>> 
 >>> this hurt to read.
->>> 
 
-> **u/None** [+7] *
+> **u/None** [+7]  (18 hours later)
 > 
 > [deleted]
-> 
 
->> **u/AugSphere** [+5]  *Dark Lord of Corruption**
+>> **u/AugSphere** [+7]  *Dark Lord of Corruption* (22 hours later)
 >> 
 >> >And why would they need to explore space?
->> For fun?
 >> 
+>> For fun?
 
->>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (a day later)
 >>> 
 >>> Or maybe to explore fun phase space.
->>> 
 
->>> **u/okaycat** [+3] *
+>>> **u/okaycat** [+3]  (a day later)
 >>> 
 >>> I don't know about HPMOR  canon but in HP canon Harry saw a fully accurate scale model of the milky way galaxy being sold in diagon ally.
->>> I don't know about a magical spaceship but wizards probably have spells or divinations to explore outer space without actually leaving Earth.
 >>> 
+>>> I don't know about a magical spaceship but wizards probably have spells or divinations to explore outer space without actually leaving Earth.
 
->>>> **u/AugSphere** [+9]  *Dark Lord of Corruption**
+>>>> **u/AugSphere** [+8]  *Dark Lord of Corruption* (a day later)
 >>>> 
 >>>> >In HP canon Harry saw a fully accurate scale model of the milky way galaxy being sold in diagon ally.
->>>> I wonder how reliably canon Harry rates the accuracy of milky way galaxy models.
->>>> >I don't know about a magical spaceship but wizards probably have spells or divinations to explore outer space without actually leaving Earth.
->>>> I would probably still go in person, even if I had an identical experience available in some sort of virtual reality device. I suspect, I would not be alone. 
->>>> Besides, I feel that this type of spell would be a bit inconsistent with the canon universe. The society described in the books does not look like a terribly outward-looking civ hungry for exploration. Sure, the spells were probably invented at one point or another, but they are not widely known or available. At least that's my reading.
 >>>> 
+>>>> I wonder how reliably canon Harry rates the accuracy of milky way galaxy models.
+>>>> 
+>>>> >I don't know about a magical spaceship but wizards probably have spells or divinations to explore outer space without actually leaving Earth.
+>>>> 
+>>>> I would probably still go in person, even if I had an identical experience available in some sort of virtual reality device. I suspect, I would not be alone. 
+>>>> 
+>>>> Besides, I feel that this type of spell would be a bit inconsistent with the canon universe. The society described in the books does not look like a terribly outward-looking civ hungry for exploration. Sure, the spells were probably invented at one point or another, but they are not widely known or available. At least that's my reading.
 
->>>>> **u/okaycat** [+5] *
+>>>>> **u/okaycat** [+6]  (a day later)
 >>>>> 
 >>>>> I feel like we don't really get to see the wizarding world accuralty because we see through the eyes of Harry.  He barely interacts with other people his own age besides Hermione and Ron.
->>>>> The wizarding world is probably advancing spellcraft and magical theory all the time, its just that Harry doesn't care about that sort of stuff.  I do think though there probably isn't an organization dedicated to systematically progressing magic.  In our world we have universities, research groups, and companies all advancing science and technology.  The wizarding world has some advancement, but its probably done indipendently by curious wizards
->>>>> There probably isn't a government sponsored wizard!NASA but I wouldn't be surprised that there is a loosely sffliated group of wizards somewhere who study and explore space or something.
 >>>>> 
+>>>>> The wizarding world is probably advancing spellcraft and magical theory all the time, its just that Harry doesn't care about that sort of stuff.  I do think though there probably isn't an organization dedicated to systematically progressing magic.  In our world we have universities, research groups, and companies all advancing science and technology.  The wizarding world has some advancement, but its probably done indipendently by curious wizards
+>>>>> 
+>>>>> There probably isn't a government sponsored wizard!NASA but I wouldn't be surprised that there is a loosely sffliated group of wizards somewhere who study and explore space or something.
 
->>>>>> **u/J4k0b42** [+1] *
+>>>>>> **u/J4k0b42** [+1]  (12 days later)
 >>>>>> 
 >>>>>> Isn't there a department of experimental magic or something at the ministry? I think something like that was mentioned when Harry was going in for his trial in the fifth (?) book.
->>>>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> That's probably the best reason I've ever seen, but still it suffers from an issue that it is a pretty niche interest, especially in a society that doesn't have stuff like Star Trek. And even for wizards it's probably not trivial, as you'd likely have to invent spells for stuff like radiation shields.
->>> Still, I'd really really like to read a "wizards-colonise-space" story. To The Stars does the magical space colonisation from a different angle (and is therefore my favourite space story), but it might be more fun with wizards because the big magics in To The Stars can be used just once per lifetime.
 >>> 
+>>> Still, I'd really really like to read a "wizards-colonise-space" story. To The Stars does the magical space colonisation from a different angle (and is therefore my favourite space story), but it might be more fun with wizards because the big magics in To The Stars can be used just once per lifetime.
 
->> **u/Nepene** [+1] *
+>> **u/Nepene** [+1]  (3 days later)
 >> 
 >> They might have some issues reaching the moon too.
->> The max speed of a firebolt is 150mph. That means it's about 100 days to get to the moon. Apparition has range limits and requires knowing your destination.
 >> 
+>> The max speed of a firebolt is 150mph. That means it's about 100 days to get to the moon. Apparition has range limits and requires knowing your destination.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (3 days later)
 >>> 
 >>> Apparition has range limits? :x I agree it's unviable for reaching the moon though.
->>> 
 
->>>> **u/Nepene** [+3] *
+>>>> **u/Nepene** [+4]  (4 days later)
 >>>> 
 >>>> http://harrypotter.wikia.com/wiki/Apparition
->>>> >Apparition may have a certain range. In 1998, Lord Voldemort was seen by Harry Potter as flying towards Malfoy Manor, thinking to himself that he would soon be near enough to Apparate. This could explain Voldemort's need to fly to locations to check on his Horcruxes, as he may have been out of his range to Apparate. However it is more likely that there are anti-Apparition spells protecting those areas, such as Nurmengard, which would have these spells because it is a prison.[2]
->>>> >Apparition becomes increasingly difficult with the distance to be travelled. Inter-continental Apparition should only be attempted by the most highly skilled of wizards.[3] 
->>>> The moon is a lot further away than any continent.
 >>>> 
+>>>> >Apparition may have a certain range. In 1998, Lord Voldemort was seen by Harry Potter as flying towards Malfoy Manor, thinking to himself that he would soon be near enough to Apparate. This could explain Voldemort's need to fly to locations to check on his Horcruxes, as he may have been out of his range to Apparate. However it is more likely that there are anti-Apparition spells protecting those areas, such as Nurmengard, which would have these spells because it is a prison.[2]
+>>>> 
+>>>> >Apparition becomes increasingly difficult with the distance to be travelled. Inter-continental Apparition should only be attempted by the most highly skilled of wizards.[3] 
+>>>> 
+>>>> The moon is a lot further away than any continent.
 
->>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (26 days later)
 >>>>> 
 >>>>> Couldn't one just do multiple consecutive apparitions?
->>>>> 
 
->>>>>> **u/Nepene** [+1] *
+>>>>>> **u/Nepene** [+1]  (26 days later)
 >>>>>> 
 >>>>>> You need to have a strong awareness of your destination, which is tricky for a spot of air several miles up. Otherwise you splinch.
->>>>>> 
 
->>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (26 days later)
 >>>>>>> 
 >>>>>>> Okay, so maybe it is useless to go to the moon. It was more of a contention on why Voldy needed to fly at all.
->>>>>>> Although if you find a way to summon a hologram (a la dark mark) or even just a very large firework spark at the edge of your vision or at the maximum safe range for apparition then you could apparate to the exact spot indicated by your signal spell. And spells leaving your wand as a beam travel pretty fast if I remember right.
->>>>>>> Add something to negate your weight and you can travel at speed of beam + 1/time needed to cast beam + 1/time needed to apparate mph.
 >>>>>>> 
+>>>>>>> Although if you find a way to summon a hologram (a la dark mark) or even just a very large firework spark at the edge of your vision or at the maximum safe range for apparition then you could apparate to the exact spot indicated by your signal spell. And spells leaving your wand as a beam travel pretty fast if I remember right.
+>>>>>>> 
+>>>>>>> Add something to negate your weight and you can travel at speed of beam + 1/time needed to cast beam + 1/time needed to apparate mph.
 
->>>>>>>> **u/Nepene** [+1] *
+>>>>>>>> **u/Nepene** [+1]  (26 days later)
 >>>>>>>> 
 >>>>>>>> Spells seem to travel at about 80-100 mph based on most calculations I've seen. The moon is 240000 miles away. It would take 3000 hours minimum to get to the moon like that.
->>>>>>>> I'm not saying it's not doable, there probably is some way to do it, but the sheer distance of the moon makes any of these methods long and tricky.
->>>>>>>> I'd probably do it with programmed magical items. Send one to fly every mile up, or every ten miles. Then someone could use them as a chain to get to the moon.
 >>>>>>>> 
+>>>>>>>> I'm not saying it's not doable, there probably is some way to do it, but the sheer distance of the moon makes any of these methods long and tricky.
+>>>>>>>> 
+>>>>>>>> I'd probably do it with programmed magical items. Send one to fly every mile up, or every ten miles. Then someone could use them as a chain to get to the moon.
 
->>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (26 days later)
 >>>>>>>>> 
 >>>>>>>>> > Spells seem to travel at about 80-100 mph based on most calculations I've seen.
->>>>>>>>> Huh. Can I ask for how those calculations were done or for a source? Because that would mean that one could outrun jinxes on a Firebolt without any evasive maneuvers. Indeed, barring spells being affected by initial momentum, in flight skirmishes would look pretty weird.
 >>>>>>>>> 
+>>>>>>>>> Huh. Can I ask for how those calculations were done or for a source? Because that would mean that one could outrun jinxes on a Firebolt without any evasive maneuvers. Indeed, barring spells being affected by initial momentum, in flight skirmishes would look pretty weird.
 
->>>>>>>>>> **u/Nepene** [+2] *
+>>>>>>>>>> **u/Nepene** [+2]  (26 days later)
 >>>>>>>>>> 
 >>>>>>>>>> https://www.youtube.com/watch?v=4DM46lozSxI
->>>>>>>>>> You can see how fast a typical spell goes here. You can count how far a spell moved over a certain time period. You can see that generally they are fast enough to hit people but visible when they move. People are capable of reacting to and deflecting spells, so this is necessary.
->>>>>>>>>> >Because that would mean that one could outrun jinxes on a Firebolt without any evasive maneuvers.
->>>>>>>>>> From youtube, spells seem to inherit your initial velocity.
 >>>>>>>>>> 
+>>>>>>>>>> You can see how fast a typical spell goes here. You can count how far a spell moved over a certain time period. You can see that generally they are fast enough to hit people but visible when they move. People are capable of reacting to and deflecting spells, so this is necessary.
+>>>>>>>>>> 
+>>>>>>>>>> >Because that would mean that one could outrun jinxes on a Firebolt without any evasive maneuvers.
+>>>>>>>>>> 
+>>>>>>>>>> From youtube, spells seem to inherit your initial velocity.
 
->>>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (26 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Hmm. I guess one would have to research a new spell that combines Dark Mark like final visuals with the speed of non-beam spells like the one used to control Harry's broom in the first book (which would need its caster to predict were Harry would be if it wasn't near instantaneous).
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/Nepene** [+1] *
+>>>>>>>>>>>> **u/Nepene** [+1]  (26 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> Why would the broomstick control spell need you to know where Harry would be? It's not trying to control him precisely, it's trying to jerk him off and did so rather ineffectively. It basically just told the broom to buck.
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (26 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Not Harry then but the broom itself. If it was just an ongoing control interference spell it would be fire and forget but evidently it needs continued casting. So if there was an invisible beam of roughly 100mph speed delivering the spell effect one would always have to point to where the target (the broom) would be once a 100mph particle would have traversed the distance between wand and target. Judging from how beamless spells seem to function in general this is not the case. Though I am curious at what range one can channel effectively instantaneous pain with the Cruciatus curse.
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/Nepene** [+1] *
+>>>>>>>>>>>>>> **u/Nepene** [+1]  (26 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> >If it was just an ongoing control interference spell it would be fire and forget but evidently it needs continued casting.
->>>>>>>>>>>>>> You give me no reason why an ongoing control interference spell would be fire and forget. It could be an ongoing control interference spell that needs continual casting.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> You give me no reason why an ongoing control interference spell would be fire and forget. It could be an ongoing control interference spell that needs continual casting.
 
-> **u/V2Blast** [+2] *
+> **u/V2Blast** [+2]  (3 days later)
 > 
 > ...token /r/HPMOR link (since nobody has posted it yet)
-> 
 
 ---
 

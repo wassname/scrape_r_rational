@@ -22,326 +22,308 @@ Can anyone reccommend me a book based of these. I know they're quite obscure, so
 
 ### Comments:
 
-> **u/Veedrac** [+24] *
+> **u/Veedrac** [+23]  (5 minutes later)
 > 
 > This is so on topic here you can basically just look at our Wiki:
-> https://www.reddit.com/r/rational/wiki/index#wiki_defining_works
-> https://www.reddit.com/r/rational/wiki/index#wiki_where_to_find_more_rational_works
-> We also had [book suggestion threads](https://www.reddit.com/r/rational/comments/6zr43u/monthly_book_club_perpetual_book_suggestion/) for our "Monthly" Book Club.
-> Though mind the sidebar:
-> > Post links to or discussion of rational fiction only; otherwise use one of the weekly discussion threads.
 > 
+> https://www.reddit.com/r/rational/wiki/index#wiki_defining_works
+> 
+> https://www.reddit.com/r/rational/wiki/index#wiki_where_to_find_more_rational_works
+> 
+> We also had [book suggestion threads](https://www.reddit.com/r/rational/comments/6zr43u/monthly_book_club_perpetual_book_suggestion/) for our "Monthly" Book Club.
+> 
+> Though mind the sidebar:
+> 
+> > Post links to or discussion of rational fiction only; otherwise use one of the weekly discussion threads.
 
->> **u/None** [+3] *
+>> **u/None** [+4]  (6 minutes later)
 >> 
 >> Thanks, ill definitely check some of those out!
->> 
 
->>> **u/alaxai** [+17] *
+>>> **u/alaxai** [+18]  (an hour later)
 >>> 
 >>> To save you some time: [Worth the Candle](https://archiveofourown.org/works/11478249/chapters/25740126) fits pretty well with the books you mentioned and is highly regarded by this sub.
->>> 
 
-> **u/LazarusRises** [+9] *
+> **u/LazarusRises** [+9]  (5 hours later)
 > 
 > Wow, first time I've ever seen Skullduggery Pleasant outside my bookshelf! 
-> /u/Veedrac is right, you'll like most anything that this sub likes. I feel obligated to recommend Worm, as it's one of my favorite books of all time, even though it's not thematically related to the other ones you posted. www.parahumans.net
-> Also, if you don't know about China Mieville, check him out. He writes excellent urban fantasy. Kraken specifically is really really good.
 > 
+> /u/Veedrac is right, you'll like most anything that this sub likes. I feel obligated to recommend Worm, as it's one of my favorite books of all time, even though it's not thematically related to the other ones you posted. www.parahumans.net
+> 
+> Also, if you don't know about China Mieville, check him out. He writes excellent urban fantasy. Kraken specifically is really really good.
 
->> **u/Veedrac** [+3] *
+>> **u/Veedrac** [+1]  (6 hours later)
 >> 
 >> I'm about 1k pages into Worm and the lack of rationality is a bit grating at times. It's not so much that I dislike non-rational fiction, but that Worm kind of has the veneer of it, but with obvious glaring holes.
->> 
 
->>> **u/PastafarianGames** [+6] *
+>>> **u/PastafarianGames** [+8]  (11 hours later)
 >>> 
 >>> Worm isn't at all trying to be rational/ist fiction, though. The closest it gets is "people are pretty good at using their powers creatively". Can't really go into detail/depth because, well, spoilers.
->>> 
 
->>>> **u/Veedrac** [+0] *
+>>>> **u/Veedrac** [+0]  (19 hours later)
 >>>> 
 >>>> Well let's run with the example of power munckinism. If a story doesn't even try to do coherent things there, as with most casual things in this genre, I don't particularly care how good they are at it: it's not the point of the story, so I'm not going to dwell on it. But Worm is putting nominal effort in, which makes me feel it's legitimate to think about these things─and that goes horribly wrong because Worm is really bad at using powers remotely intelligently. You can't have a story *about* creative uses of abilities without it feeling like a problem when people miss extremely obvious things.
->>>> cc /u/CoronaPollentia
 >>>> 
+>>>> cc /u/CoronaPollentia
 
->>>>> **u/None** [+9] *
+>>>>> **u/None** [+11]  (23 hours later)
 >>>>> 
 >>>>> That's kind of missing the whole point of Worm though; its characters put thought into how they use their powers, but they're irrational in the same way people are irrational- not in the "hurr durr not everything has to be rational it's a story guyz" way, but like, in real life people make sub-optimal decisions all the time, but not necessarily arbitrary ones. 
->>>>> To use an example, if a character withholds information from someone who could help them, for no reason other than to drive the plot, that's bad writing. If a character withholds information from someone who could help, because they are mistrustful of authority figures, and they're mistrustful of authority figures because they've been frequently mistreated and ignored by people in power in the past, and those people in power weren't comic book villans, but realistic depictions of people with human biases goals, and flaws... then yes, it's probably irrational for a character to be cagey to a character wanting to help, but it's irrational in a way that is realistic. That's what worm is, the characters aren't always rational, but it's never arbitrary.
 >>>>> 
+>>>>> To use an example, if a character withholds information from someone who could help them, for no reason other than to drive the plot, that's bad writing. If a character withholds information from someone who could help, because they are mistrustful of authority figures, and they're mistrustful of authority figures because they've been frequently mistreated and ignored by people in power in the past, and those people in power weren't comic book villans, but realistic depictions of people with human biases goals, and flaws... then yes, it's probably irrational for a character to be cagey to a character wanting to help, but it's irrational in a way that is realistic. That's what worm is, the characters aren't always rational, but it's never arbitrary.
 
->>>>>> **u/Veedrac** [+0] *
+>>>>>> **u/Veedrac** [+0]  (a day later)
 >>>>>> 
 >>>>>> > That's kind of missing the whole point of Worm though; its characters put thought into how they use their powers, but they're irrational in the same way people are irrational
->>>>>> I don't think that's remotely true, though; for example [spoilers for first ~1k pages](#s "I don't think it's plausible that real humans would have failed to dominate the Endbringer fight").
 >>>>>> 
+>>>>>> I don't think that's remotely true, though; for example [spoilers for first ~1k pages](#s "I don't think it's plausible that real humans would have failed to dominate the Endbringer fight").
 
->>>>>>> **u/None** [+7] *
+>>>>>>> **u/None** [+6]  (a day later)
 >>>>>>> 
 >>>>>>> As far as the Endbringers go, I can't really give you more information without venturing into serious spoiler territory. Suffice to say, there's a damn good reason why those fights go down the way they do.
->>>>>>> 
 
->>>>>>>> **u/Veedrac** [+4] *
+>>>>>>>> **u/Veedrac** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> I don't think that really solves the issue. [We need better spoiler tags.](#s "I can believe there are reasons beyond what has been shown─it was strongly hinted that the whole fight was a farce─but I'm just talking about the sheer incompetence in the fight that did happen. Unless the truth is 'endbringers make people dumb', that part isn't explained away.")
->>>>>>>> As another example, there is no excuse for paying your Wards, literally a good fraction of your defense against the ENDbringers, *400 dollars a month that they can't even spend*. Think of how many of this world's problems just completely disappear if you gave these people proper 7+ digit salaries like anybody remotely sane whatsoever would do.
 >>>>>>>> 
+>>>>>>>> As another example, there is no excuse for paying your Wards, literally a good fraction of your defense against the ENDbringers, *400 dollars a month that they can't even spend*. Think of how many of this world's problems just completely disappear if you gave these people proper 7+ digit salaries like anybody remotely sane whatsoever would do.
 
->>>>>>>>> **u/EliezerYudkowsky** [+7]  *Godric Gryffindor**
+>>>>>>>>> **u/EliezerYudkowsky** [+7]  *Godric Gryffindor* (a day later)
 >>>>>>>>> 
 >>>>>>>>> I'm pretty sure I could fix a lot of *this* world's problems if I got to hand out 7-figure salaries to an equivalent number of people to do what I thought those people ought to be doing.
->>>>>>>>> 
 
->>>>>>>>>> **u/Veedrac** [+4] *
+>>>>>>>>>> **u/Veedrac** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Difference is that in this world you need to be competent to see who to give the money to.
->>>>>>>>>> 
 
->>>>>>>>> **u/None** [+5] *
+>>>>>>>>> **u/None** [+6]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I'm wondering what your specific criticism of that fight is, because I thought it made a hell of a lot of sense considering the forces involved and the opponent they were up against. As far as the Wards go, I can point to a whole host of situations where people get paid FAR less than what their actually contribution to society represents, despite everyone agreeing it's wrong. Teachers, people in the military, etc etc etc. Add to that the fact that they are kids, and the significant societal inertia that entails. I can easily imagine a town meeting/ballot question/etc where the salary is getting set, and people arguing "what could they possibly need the money for, they're in high school." And if you want to use your powers non-illegally and you disagree with the pay, it's not like you can just go somewhere else. Your options are "suck it up," "become a criminal," or "attempt to use your powers for financial gain in a purely non-violent manner" which has the side effect of being deemed suspicious by society, as well as other  problems for spoilery reasons.
->>>>>>>>> 
 
->>>>>>>>>> **u/Veedrac** [+2] *
+>>>>>>>>>> **u/Veedrac** [+2]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Given in A level my secondary school paid *me* competitively with the Wards, and the only thing I contributed was improved numbers of low-income students, and then university *far* outdid them in terms of free money for the same reason as before (but this time they cared more), I really have no illusion that the same government that today happily spends a hundred million on an aircraft has so little ability to fund *literal superheroes defending against city-destroying apocalypses* that do a hundred billion dollars of damage every strike, a significant fraction of whom─as you say─would otherwise become criminals because they happen to want nonzero compensation.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Tinac4** [+1] *
+>>>>>>>>>>> **u/Tinac4** [+1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> The government certainly funds the Protectorate where it matters.  Dragon, for instance, receives loads of money to build her suits, and Armsmaster gets enough that he’s never been seen worrying about it.
->>>>>>>>>>> A big chunk of the problem is that giving Ward Tinkers more funding wouldn’t substantially improve the outcome of Endbringer fights.  As you’ve seen, most capes aren’t powerful enough to do anything but land a few hits that do barely any damage before getting taken out.  The same applies to most Tinkers.  Armsmaster and Dragon, the only Tinkers we saw who did something useful against Leviathan, are two of the best heroic Tinkers in the world.  Dragon is *the* best.  Armsmaster has been working on his prediction algorithm and nanothorns for years, and that’s with him being a workaholic with a strong power on top of that.  What they can accomplish is not representative of what the average Ward can accomplish; look at Kid Win for a better example of that.  (Did insignificant damage with his Alternator Canon and then got KOed.)
->>>>>>>>>>> Furthermore, there aren’t very many Ward Tinkers showing up to Endbringer fights.  Out of maybe 250 capes in total, maybe 20 of them are Tinkers, of whom most are adults.  I don’t have any hard numbers, but I’d guess that maybe five (at most 10) of the defending capes were underage Tinkers.  Not enough to really affect the outcome, even with funding.
->>>>>>>>>>> Now, your point that the government should just pay villains not to be evil is a fair one.  There’s a couple of problems, though.  One is that good, well-balanced people in general are not the sort of people who tend to undergo trigger events.  Money is far from the only reason capes go villain.  Another is that crime *does* pay, really well if you’re a powerful cape that can interfere with an Endbringer.  It would be hard for the Protectorate to justify handing out seven-figure salaries right and left, especially when most of the recipients of said salaries woudnt actually show up to the fights.  That brings us to another problem.  Attendance at Endbringer fights is voluntary; someone who only joins the Protectorate for the money isn’t going to want to stick their neck out against a city-destroying monster that kills at least a quarter of the defenders on average.
 >>>>>>>>>>> 
+>>>>>>>>>>> A big chunk of the problem is that giving Ward Tinkers more funding wouldn’t substantially improve the outcome of Endbringer fights.  As you’ve seen, most capes aren’t powerful enough to do anything but land a few hits that do barely any damage before getting taken out.  The same applies to most Tinkers.  Armsmaster and Dragon, the only Tinkers we saw who did something useful against Leviathan, are two of the best heroic Tinkers in the world.  Dragon is *the* best.  Armsmaster has been working on his prediction algorithm and nanothorns for years, and that’s with him being a workaholic with a strong power on top of that.  What they can accomplish is not representative of what the average Ward can accomplish; look at Kid Win for a better example of that.  (Did insignificant damage with his Alternator Canon and then got KOed.)
+>>>>>>>>>>> 
+>>>>>>>>>>> Furthermore, there aren’t very many Ward Tinkers showing up to Endbringer fights.  Out of maybe 250 capes in total, maybe 20 of them are Tinkers, of whom most are adults.  I don’t have any hard numbers, but I’d guess that maybe five (at most 10) of the defending capes were underage Tinkers.  Not enough to really affect the outcome, even with funding.
+>>>>>>>>>>> 
+>>>>>>>>>>> Now, your point that the government should just pay villains not to be evil is a fair one.  There’s a couple of problems, though.  One is that good, well-balanced people in general are not the sort of people who tend to undergo trigger events.  Money is far from the only reason capes go villain.  Another is that crime *does* pay, really well if you’re a powerful cape that can interfere with an Endbringer.  It would be hard for the Protectorate to justify handing out seven-figure salaries right and left, especially when most of the recipients of said salaries woudnt actually show up to the fights.  That brings us to another problem.  Attendance at Endbringer fights is voluntary; someone who only joins the Protectorate for the money isn’t going to want to stick their neck out against a city-destroying monster that kills at least a quarter of the defenders on average.
 
->>>>>>>>>>>> **u/Veedrac** [+2] *
+>>>>>>>>>>>> **u/Veedrac** [+2]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> I'd assumed Tinkers already weren't resource limited. My point wasn't really about that and I'm going to skip the point about the effectiveness of the average Tinker here for brevity.
->>>>>>>>>>>> The incentive problem is much more where I was pointing. My "7+ digit salaries" comment was for those who are relevant in significant events like Endbringer attacks. Their jobs would be more specialized towards those things that law enforcement with guns would be unable to do, especially for the non-bulletproof ones, and their level of income would be conditional on showing up.
->>>>>>>>>>>> My impression so far is that a very significant fraction of the villains would be swayed by resources including reasonable pay, support for their particular circumstances, or being better treated by the law. You'd see a lot more dead Wards if most supervillains really were so irredeemable that a good legal path wouldn't interest them. 7 figures may sound like a huge amount, but it's really not that large; it's not uncommon for Google to give total compensation for new graduates in the ~$170k range, and they neither have superpowers nor do they fight the Endbringers.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> The incentive problem is much more where I was pointing. My "7+ digit salaries" comment was for those who are relevant in significant events like Endbringer attacks. Their jobs would be more specialized towards those things that law enforcement with guns would be unable to do, especially for the non-bulletproof ones, and their level of income would be conditional on showing up.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> My impression so far is that a very significant fraction of the villains would be swayed by resources including reasonable pay, support for their particular circumstances, or being better treated by the law. You'd see a lot more dead Wards if most supervillains really were so irredeemable that a good legal path wouldn't interest them. 7 figures may sound like a huge amount, but it's really not that large; it's not uncommon for Google to give total compensation for new graduates in the ~$170k range, and they neither have superpowers nor do they fight the Endbringers.
 
->>>>>>>>>>>>> **u/Tinac4** [+1] *
+>>>>>>>>>>>>> **u/Tinac4** [+1]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> You have a good point about villains getting paid enough to prevent them from becoming criminals.  Wildbow hasn't really addressed this anywhere, AFAIK, and even though there are quite a lot of capes who wouldn't care about the money (the Fallen, Butcher, probably Bakuda, Kaiser, etc.), higher salaries would probably help to an extent.
->>>>>>>>>>>>> The tricky thing is that incentivizing new recruits to do something *useful*\--i.e. volunteering against class-S threats--is significantly more difficult.  If a quarter of the defenders die in each Endbringer fight, their odds of survival aren't great if they attend them regularly and don't have Triumvirate-tier powers.  The average cape knows this, and even though the Protectorate does pay people extra if they help against the class-S threats, it still wouldn't be enough to substantially increase Endbringer fight attendance, especially since someone willing to consider becoming a villain isn't going to feel morally obligated to help.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> The tricky thing is that incentivizing new recruits to do something *useful*\--i.e. volunteering against class-S threats--is significantly more difficult.  If a quarter of the defenders die in each Endbringer fight, their odds of survival aren't great if they attend them regularly and don't have Triumvirate-tier powers.  The average cape knows this, and even though the Protectorate does pay people extra if they help against the class-S threats, it still wouldn't be enough to substantially increase Endbringer fight attendance, especially since someone willing to consider becoming a villain isn't going to feel morally obligated to help.
 
->>>>>>>>>>>>>> **u/Veedrac** [+1] *
+>>>>>>>>>>>>>> **u/Veedrac** [+1]  (2 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> It seemed like a significant number of villains are willing to fight them. At minimum putting them on the good guys' team means you need to throw fewer of them in jail, and what I've read so far is that a lot of them are in jail. Even just getting some of the others off the streets or doing lesser hero work frees up time for the major capes to focus on their class-S hero work; [minor spoiler](#s "it's pretty silly how much non-lethal weaponry Armsmaster spent time making given his efforts with nanites were one of the most directly effective tools used against Leviathan").
->>>>>>>>>>>>>> 
 
->>>>>>>>> **u/icesharkk** [+1] *
+>>>>>>>>> **u/icesharkk** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> I assume you accept that there are reasons beyond the apparent that things in the real world happen right? I'm thinking state secrets and national frenemy level shit. Why do you expect a teenage girl vs a world ending water monster to accurately portray there truth of reality in their first fight?
->>>>>>>>> 
 
->>>>>>>>>> **u/Veedrac** [+1] *
+>>>>>>>>>> **u/Veedrac** [+1]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> The combination of the obviousness of there being a lot of such reasons with the fact that people on this subreddit aren't amazing at not spoiling things is why I've been avoiding listing ways to munchkin things─I don't want people to say "ah, but..." My only such example I made explicit (monetary incentives) was one I expected would be spoiler-free.
->>>>>>>>>> I don't think it's likely any objections would satisfy me given the huge array of things they just didn't try, but I'm patient enough to wait until I've finished the story. I believe EY has given his own criticism on these lines, which I haven't read but should be easy to find.
 >>>>>>>>>> 
+>>>>>>>>>> I don't think it's likely any objections would satisfy me given the huge array of things they just didn't try, but I'm patient enough to wait until I've finished the story. I believe EY has given his own criticism on these lines, which I haven't read but should be easy to find.
 
->>>>> **u/PastafarianGames** [+3] *
+>>>>> **u/PastafarianGames** [+3]  (a day later)
 >>>>> 
 >>>>> All I can say is that I 100% disagree with you and disagree with the examples you've given here, but the conversation doesn't really belong in this thread. If you made a "armchair generals of Worm's canon" thread, I'd be happy to participate there.
->>>>> 
 
->>>>>> **u/Veedrac** [+1] *
+>>>>>> **u/Veedrac** [+1]  (a day later)
 >>>>>> 
 >>>>>> I'm happy with just agreeing to disagree. A formal munchkinry thread might be fun but I'd avoid it until I'm able to Google things without risking spoilers.
->>>>>> 
 
->>>>>>> **u/LazarusRises** [+2] *
+>>>>>>> **u/LazarusRises** [+2]  (4 days later)
 >>>>>>> 
 >>>>>>> Sorry you've been getting downvoted for stating your opinions. I know it's because Worm is very popular but it's not a good show for this sub.
->>>>>>> I applaud you for sticking to it even though you don't like it. Once you've finished the story I'd be curious to hear if it solved any of the issues you've brought up. Please give us an update post if and when you're done!
 >>>>>>> 
+>>>>>>> I applaud you for sticking to it even though you don't like it. Once you've finished the story I'd be curious to hear if it solved any of the issues you've brought up. Please give us an update post if and when you're done!
 
->>>>>>>> **u/Veedrac** [+2] *
+>>>>>>>> **u/Veedrac** [+2]  (4 days later)
 >>>>>>>> 
 >>>>>>>> I don't mean to imply I dislike Worm! This is an aspect I wish it would do better at, but it's one part among many.
->>>>>>>> 
 
->>>>> **u/icesharkk** [+1] *
+>>>>> **u/icesharkk** [+1]  (2 days later)
 >>>>> 
 >>>>> Plenty of characters are munchkining. Accord, coil, tattletale, lung. It's just yay in worm there is a very wide spectrum of intelligence and the author keeps creativity blind tightly to intelligence. Lung does his best with what he's got but man is he fucking stupid. It's mostly the thinkers that out think situations.
->>>>> 
 
->>> **u/CoronaPollentia** [+7] *
+>>> **u/CoronaPollentia** [+6]  (13 hours later)
 >>> 
 >>> What do you mean by a veneer? It never seemed to me like it was trying to be rational and failing or trying to decieve the reader into thinking that it was rational, which are the definitions I would use. Though given my username I suppose I'm biased.
->>> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (10 hours later)
 >>> 
 >>> After i read hpmor, it kind of ruined other books for me, there are so many ways the protagonist can easily win, that are just ignored by the author. All the characters seem so much more unrealistic.
->>> 
 
->>>> **u/sparkc** [+5] *
+>>>> **u/sparkc** [+4]  (10 hours later)
 >>>> 
 >>>> Alexander Wales is the most comparable author, imo, when it comes to having in-character, reasoned decisions that are made within a world that is thought through well enough that there are no obvious paths to victory that are ignored. His Worth the Candle series has already been recommended to you before and I think you’d get a lot of enjoyment out of it.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (10 hours later)
 >>>>> 
 >>>>> Oh, did he write worth the candle? Ill definitely give it a go then.
->>>>> 
 
->>>>>> **u/sicutumbo** [+5] *
+>>>>>> **u/sicutumbo** [+5]  (11 hours later)
 >>>>>> 
 >>>>>> He wrote it under a pseudonym, and he only revealed that it was him a few months ago. Something about wanting to let WTC and other works under that pseudonym to live or die by their own merits, and not have any of the positive or negative associations that his Alexander Wales username would bring. Eventually WTC got popular enough that he couldn't justify not taking people's offered money.
->>>>>> 
 
-> **u/ProudTurtle** [+8] *
+> **u/ProudTurtle** [+9]  (7 hours later)
 > 
 > The Player of Games by Iain M. Banks. (Maybe the whole culture series)
-> Ender's Game (mentioned in HPMOR)
-> Prophet's for the End of Time by Marcos Donnelly (conflict between faith and rationality)
-> Armor by John Steakley (Ender's game adjacent)
-> Rosencrantz and Guildenstern Are Dead by Tom Stoppard (also a movie starring Gary Oldman and Tim Roth)
-> Those are all the books that have stopped my life for a moment and made me never want to read again. The one on your list that made the cut is HPMOR. Read it once then listened to the Audi version twice all in the span of a year.
-> Enchanter by Robin W. Bailey has a similar feel to Mother of Learning. Also similar is Riftwar Saga by Raymond Feist. Slightly more serious but not entirely serious.
 > 
+> Ender's Game (mentioned in HPMOR)
+> 
+> Prophet's for the End of Time by Marcos Donnelly (conflict between faith and rationality)
+> 
+> Armor by John Steakley (Ender's game adjacent)
+> 
+> Rosencrantz and Guildenstern Are Dead by Tom Stoppard (also a movie starring Gary Oldman and Tim Roth)
+> 
+> Those are all the books that have stopped my life for a moment and made me never want to read again. The one on your list that made the cut is HPMOR. Read it once then listened to the Audi version twice all in the span of a year.
+> 
+> Enchanter by Robin W. Bailey has a similar feel to Mother of Learning. Also similar is Riftwar Saga by Raymond Feist. Slightly more serious but not entirely serious.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (10 hours later)
 >> 
 >> Ill definitely check those out, thanks!
->> 
 
->> **u/NewDarkAgesAhead** [+1] *
+>> **u/NewDarkAgesAhead** [+1]  (2 days later)
 >> 
 >> > Enchanter by Robin W. Bailey has a similar feel to Mother of Learning.
->> Can you elaborate a bit on this, please (spoiler-free)? In what aspects is it similar to MoL, is it only the *Enchanter* or the whole *Infocom* series, etc?
 >> 
+>> Can you elaborate a bit on this, please (spoiler-free)? In what aspects is it similar to MoL, is it only the *Enchanter* or the whole *Infocom* series, etc?
 
->>> **u/ProudTurtle** [+2] *
+>>> **u/ProudTurtle** [+2]  (3 days later)
 >>> 
 >>> There is a tone of voice in mother of learning  that feels similar. The rest of the Zork series failed to capture it imo. Sort of a light exasperation by the protagonist.
->>> 
 
->>>> **u/NewDarkAgesAhead** [+1] *
+>>>> **u/NewDarkAgesAhead** [+1]  (3 days later)
 >>>> 
 >>>> But no similar tropes? I.e. repeating time travel, gradual accumulation of power and knowledge, gradual character growth, etc.
->>>> 
 
->>>>> **u/ProudTurtle** [+2] *
+>>>>> **u/ProudTurtle** [+2]  (3 days later)
 >>>>> 
 >>>>> Not time travel. Definite character growth and using resources differently than expected.
->>>>> 
 
->> **u/icesharkk** [+1] *
+>> **u/icesharkk** [+1]  (2 days later)
 >> 
 >> I love r&g are dead. Especially the movie adaptation. Look the question game scene up on YouTube if you're looking for some nostalgia from that movie
->> 
 
-> **u/PastafarianGames** [+10] *
+> **u/PastafarianGames** [+9]  (5 hours later)
 > 
 > Since you asked for books, rather than web serials, I'd like to suggest the following:
+> 
 > - Yoon Ha Lee's "Machineries of Empire" series, with its Sufficiently Advanced [Technology/Magic] in the Calendrical exotics
 > - Lois McMaster Bujold, and in particular "Falling Free", with its heroic engineers working together to build themselves a future
 > - Graydon Saunders's "Commonweal" series, beginning with the military fantasy The March North and continuing with the sorcery school A Succession Of Bad Days; this is either a civil engineering manual lost in a fantasy or the other way around, not sure which.
 > - Rick Cook's "The Wiz Biz" series is trashy pulp, but it's delicious trashy pulp with computer engineers figuring out a magic system. Well, I thought it was delicious. Note that I'm not saying it was *good*.
-> In terms of web serials, not many people seem to recommend Scott Alexander's "Unsong", but there is no better repository of whale puns and bad Kabbalah in the entirety of fiction.
 > 
+> In terms of web serials, not many people seem to recommend Scott Alexander's "Unsong", but there is no better repository of whale puns and bad Kabbalah in the entirety of fiction.
 
->> **u/Anderkent** [+3] *
+>> **u/Anderkent** [+3]  (2 days later)
 >> 
 >> Ooh I missed Machineries of Empire book 3 being published?
->> I wish there was a better way to follow series continuations publishing... Like, I'm on fictfact but keeping both that and goodreads up to date is more work than I'm willing to put into it. Why doesn't kindle notify me when they get book 3 of a series where I read books 1 and 2... /rant
->> Thanks for making me realise!
->> (also, Bujold is indeed great)
 >> 
+>> I wish there was a better way to follow series continuations publishing... Like, I'm on fictfact but keeping both that and goodreads up to date is more work than I'm willing to put into it. Why doesn't kindle notify me when they get book 3 of a series where I read books 1 and 2... /rant
+>> 
+>> Thanks for making me realise!
+>> 
+>> (also, Bujold is indeed great)
 
->>> **u/PastafarianGames** [+2] *
+>>> **u/PastafarianGames** [+2]  (2 days later)
 >>> 
 >>> True story, I met my wife through our mutual love of Bujold's books. I recommend her stuff on the slightest justification, because they're awesome.
->>> 
 
->> **u/Munchkingman** [+2] *
+>> **u/Munchkingman** [+2]  (a day later)
 >> 
 >> just saying, im halfway through falling free right now and am loving it absolutely. thanks.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (10 hours later)
 >> 
 >> To clear it up, i meant web serials too, but ill definitely check out those books. As for unsong, i really liked the plot but the author seemed to drone on and on and there was so many boring interludes that i quit reading it. If there was a trimmed version, i would definirely read it.
->> 
 
->>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (21 hours later)
 >>> 
 >>> Practical guide to evil.  100% best web series save MoL
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (21 hours later)
 >>>> 
 >>>> Ill give it a go
->>>> 
 
-> **u/MacDancer** [+5] *
+> **u/MacDancer** [+3]  (16 hours later)
 > 
 > Lots of good recommendations here, so I'll add a couple of easy reading fantasy options. Both got references from HPMOR, either in-story or in an author's note.
-> Lawrence Watt-Evans' *Legends of Ethshar* series dips in and out of rational fantasy territory, and they're quite good. None of the characters are hyper-rational, but their behavior is believably within the spectrum of normal humans, irrespective of their role in the plot. Narrative is unpredictable; sometimes there's a hint of deus ex machina but just as often the plots go off the rails in unexpected directions. As with Watt-Evans' other series, the world-building is excellent with well-defined political and magic systems.
-> Patricia C. Wrede's *Enchanted Forest Chronicles* are not so much rational as comic fantasy deconstruction. Set in a standard high fantasy universe, with witches, wizards, dragons, magic swords, et c., but similar in tone to Discworld. Main characters tend to be normal-ish people in a world populated largely by overblown caricatures of standard fantasy archetypes.
 > 
+> Lawrence Watt-Evans' *Legends of Ethshar* series dips in and out of rational fantasy territory, and they're quite good. None of the characters are hyper-rational, but their behavior is believably within the spectrum of normal humans, irrespective of their role in the plot. Narrative is unpredictable; sometimes there's a hint of deus ex machina but just as often the plots go off the rails in unexpected directions. As with Watt-Evans' other series, the world-building is excellent with well-defined political and magic systems.
+> 
+> Patricia C. Wrede's *Enchanted Forest Chronicles* are not so much rational as comic fantasy deconstruction. Set in a standard high fantasy universe, with witches, wizards, dragons, magic swords, et c., but similar in tone to Discworld. Main characters tend to be normal-ish people in a world populated largely by overblown caricatures of standard fantasy archetypes.
 
-> **u/BashDashovi** [+2] *
+> **u/BashDashovi** [+2]  (7 hours later)
 > 
 > You'd probably like books by Lawrence Watt-Evans and Larry Niven.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (9 hours later)
 > 
 > [deleted]
-> 
 
->> **u/causalchain** [+1] *
+>> **u/causalchain** [+1]  (9 hours later)
 >> 
 >> \[Not the poster\] I also found all the books he mentioned except Sufficiently Advanced Magic before I found this subreddit.
->> Skullduggery Pleasant: Browsing through the YA section of a local library when I was younger. Pretty cover, Fantasy? I read. I used to get lots of books from browsing the library.
->> Then I got absorbed into webnovels + lightnovels
->> Mother of learning: recommended from a friend -> most likely from /r/webnovels or similar
->> Gam3: found on RRL (RoyalRoadl)
->> HPMOR: Funniest one this. Someone made a review on a story on RRL and mentioned HPMOR as a an example of "well written antagonists". Now, I think that example was overkill. I found /r/rational from HPMOR.
 >> 
+>> Skullduggery Pleasant: Browsing through the YA section of a local library when I was younger. Pretty cover, Fantasy? I read. I used to get lots of books from browsing the library.
+>> 
+>> Then I got absorbed into webnovels + lightnovels
+>> 
+>> Mother of learning: recommended from a friend -> most likely from /r/webnovels or similar
+>> 
+>> Gam3: found on RRL (RoyalRoadl)
+>> 
+>> HPMOR: Funniest one this. Someone made a review on a story on RRL and mentioned HPMOR as a an example of "well written antagonists". Now, I think that example was overkill. I found /r/rational from HPMOR.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (10 hours later)
 >> 
 >> I just found skullduggery pleasant at a local library. HPMOR was from a reccomendation, and it got me hooked. I was googling stories similar to hpmor and mother of learning was mentioned so i gave it a go. From there, somebody reccomended both sufficiently advanced magic and the gam3, which i both liked. Ive kinda hit a dead end though. I have also tried pokemon origin of the species (which was decent), and im currently checking out animorphs: the reckoning (which looks to be good so far).
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (12 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (12 hours later)
 >>>> 
 >>>> Thx, ill check those out
->>>> 
 
->> **u/sswanlake** [+1] *
+>> **u/sswanlake** [+1]  (11 hours later)
 >> 
 >> Also not OP, also newly come to r/rational, but several of these have been recommended to me by the nice folks over at r/hfy
->> 
 
-> **u/pizzahotdoglover** [+1] *
+> **u/pizzahotdoglover** [+1]  (16 hours later)
 > 
 > [Recommendations thread](https://www.reddit.com/r/Parahumans/comments/8tl8za/what_are_some_other_enjoyable_works_wb_fans_will)
-> 
 
-> **u/vimefer** [+1] *
+> **u/vimefer** [+1]  (21 hours later)
 > 
 > The Blue World, by Jack Vance. How do you fight a giant armored kraken when you have no stone, no ore, no metal ?
-> 
 
-> **u/Lemerney2** [+1] *
+> **u/Lemerney2** [+1]  (2 days later)
 > 
 > You should absolutely read Worm or Pact. They’re both by the same author, but Worm is a superhero story while Pact is a more magicy demony story. Worm is better, but Pact maintains a more consistent quality throughout, Worm starts a bit slow.
-> 
 
 ---
 

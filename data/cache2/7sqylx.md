@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/7sqylx/biweekly_challenge_pioneer/
-* Score: 10
+* Score: 12
 
 * Created: 2018-01-24T22:20:52
 
@@ -50,28 +50,27 @@ Next time, the challenge will be **Infighting**. Write a story about two (or mor
 
 ### Comments:
 
-> **u/None** [+11] *
+> **u/None** [+12]  (10 hours later)
 > 
 > [108 Terabytes Per Second](https://docs.google.com/document/d/1nZ_BNm6cZNcSjPRWcP_RyM2Bvfw731NgVjK6h2ONmYw/edit?usp=sharing) (2250 words)
-> 
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (14 days later)
 >> 
 >> Ahh.  I like the true intended meaning of [](#s "peace"), concealed in the face of the more shallow/normal interpretation.
->> Further thoughts:  [](#s "Faraday cages ineffectual?  Mineshaft-deeper-and-deeper-underground ineffectual?  Why not at least have policy of wearing something which seamlessly covers all bare skin except one's face, if that..?  (Is there a need for one's arm to be exposed?)")  
->> [](#s "--Ah, a last thought:  Mara's suggestion to take the machine away confused me at the time, but made a sort of sense only after the revelation.  If he wanted 'satisfaction of exploration' peace, then throwing it down the mountain wouldn't help where burying it deep wouldn't help, and 'more devices than we can see' neither affects the 'satisfaction of exploration' (can't get that anyway) nor the 'lie that undiscovered' (since if can't be seen, others can't see to deny you either--or is it that they would find them if they digged more?). Her suggestion to get rid of it in a different way only makes sense if she already understands that it's it being there, not having been there, that causes pain; his mention of there being more devices only makes sense if he's speaking as if she already understood the true reason, but that can be treated as him talking about what matters without caring if she understands or not.  Ah, yet another thought--what about a metal-detector or signal-strength triangulation to, one by one, completely remove every device in a certain plot of land?  Or use diggers and giant sieves to one-by-one get out all the large rocks and ancients' devices out of a certain plot of land?  (Assuming that since some are macroscopic, the others are too.)  If beamed over from further away despite that, again the mineshaft nuclear-bunker approach; what is the range limit and how deep down are the deepest ones buried..?")
 >> 
+>> Further thoughts:  [](#s "Faraday cages ineffectual?  Mineshaft-deeper-and-deeper-underground ineffectual?  Why not at least have policy of wearing something which seamlessly covers all bare skin except one's face, if that..?  (Is there a need for one's arm to be exposed?)")  
+>> 
+>> [](#s "--Ah, a last thought:  Mara's suggestion to take the machine away confused me at the time, but made a sort of sense only after the revelation.  If he wanted 'satisfaction of exploration' peace, then throwing it down the mountain wouldn't help where burying it deep wouldn't help, and 'more devices than we can see' neither affects the 'satisfaction of exploration' (can't get that anyway) nor the 'lie that undiscovered' (since if can't be seen, others can't see to deny you either--or is it that they would find them if they digged more?). Her suggestion to get rid of it in a different way only makes sense if she already understands that it's it being there, not having been there, that causes pain; his mention of there being more devices only makes sense if he's speaking as if she already understood the true reason, but that can be treated as him talking about what matters without caring if she understands or not.  Ah, yet another thought--what about a metal-detector or signal-strength triangulation to, one by one, completely remove every device in a certain plot of land?  Or use diggers and giant sieves to one-by-one get out all the large rocks and ancients' devices out of a certain plot of land?  (Assuming that since some are macroscopic, the others are too.)  If beamed over from further away despite that, again the mineshaft nuclear-bunker approach; what is the range limit and how deep down are the deepest ones buried..?")
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (a month later)
 >>> 
 >>> [](#s "I don't think they had much in the way of technology considering the were using rope maid of yak fur instead of nylon or something. They did have steel, but that could have just been forged from what the ancients left. They probably didn't know about Faraday cages. Though that doesn't explain the part about mineshafts.")
->>> 
 
->>>> **u/MultipartiteMind** [+1] *
+>>>> **u/MultipartiteMind** [+1]  (a month later)
 >>>> 
 >>>> Ah, a very good point!
->>>> [](#s "Perhaps they also couldn't safely dig deeply, going over a surface somewhat easier than changing a landscape...  though I don't know how the required industrial(/tool) levels for mining and mountain-climbing interact.")
 >>>> 
+>>>> [](#s "Perhaps they also couldn't safely dig deeply, going over a surface somewhat easier than changing a landscape...  though I don't know how the required industrial(/tool) levels for mining and mountain-climbing interact.")
 
 ---
 

@@ -16,23 +16,23 @@ Another is that if a new understanding of the ["EM Drive"](https://www.scienceal
 
 ### Comments:
 
-> **u/trekie140** [+12] *
+> **u/trekie140** [+11]  (10 hours later)
 > 
 > These are both great set ups for new takes on classic stories. The first one can easily rationalize the standard alien invasion seen in War of the Worlds, Independence Day, and Falling Skies while opening the path for exploration of themes about human society. 
-> The second one sounds like Firefly meets Star Trek with all the pieces necessary for episodic adventures consisting of frontier trading, exploring the unknown, and fighting oppressive governments. Throw in some weird superpowers and you'd have a sci-fi One Piece, which I have no objection to.
 > 
+> The second one sounds like Firefly meets Star Trek with all the pieces necessary for episodic adventures consisting of frontier trading, exploring the unknown, and fighting oppressive governments. Throw in some weird superpowers and you'd have a sci-fi One Piece, which I have no objection to.
 
-> **u/mcgruntman** [+4] *
+> **u/mcgruntman** [+3]  (a day later)
 > 
 > My only thought is that is scenario #2, who makes the warp drives? Would the factories not be just as vulnerable to pirate raids as everyone else? Great ideas though.
-> 
 
-> **u/Flashbunny** [+1] *
+> **u/Flashbunny** [+1]  (4 days later)
 > 
 > Didn't the EM Drive turn out to not work as they thought it did? And even when it did work, it was only tiny amounts of thrust?
-> Scenario #2 still works if you replace it with [applied phlebotinum](http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum) to taste though.
-> EDIT: Haven't actually found anything disproving it - I must have misremembered.
 > 
+> Scenario #2 still works if you replace it with [applied phlebotinum](http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum) to taste though.
+> 
+> EDIT: Haven't actually found anything disproving it - I must have misremembered.
 
 ---
 

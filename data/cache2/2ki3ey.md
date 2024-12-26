@@ -18,20 +18,17 @@ The stories themselves are pretty fun to read, though some are more related to p
 
 ### Comments:
 
-> **u/MoralRelativity** [+2] *
+> **u/MoralRelativity** [+2]  (4 hours later)
 > 
 > Thanks for the recommendation.
-> 
 
-> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!* (2 days later)
 > 
 > Where can I find ebook version of these books, goodreads lists paperbacks for sale, and a net search gives nothing in the pegleg format.
-> 
 
->> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (2 days later)
 >> 
 >> It's always possible that they were never re-released in electronic form. I read the paperback versions, years ago.
->> 
 
 ---
 

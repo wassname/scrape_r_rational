@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://thezombieknight.blogspot.ca/2018/05/page-1764.html
-* Score: 2
+* Score: 3
 
 * Created: 2018-05-18T19:51:05
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/Weebcluse** [+7] *
+> **u/Weebcluse** [+8]  (an hour later)
 > 
 > Well to reiterate, I love me some TZK but I feel like linking [the entire last completed chapter](https://thezombieknight.blogspot.com/search/label/ch186?max-results=26#order=ASC) is more useful then linking the most recent page. 
-> Especially since posting daily/multiple times daily is probably just going to annoy the people here.
 > 
+> Especially since posting daily/multiple times daily is probably just going to annoy the people here.
 
 ---
 

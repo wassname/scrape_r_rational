@@ -43,16 +43,15 @@ Books in order, all by Patricia C. Wrede:
 
 ### Comments:
 
-> **u/Escapement** [+4]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+3]  *Ankh-Morpork City Watch* (3 hours later)
 > 
 > I'm a big fan of these books. I am not sure that I'd praise the [plot spoilers](#s "wizard's competency as much as you do - they struck me as ineffectual and not very grounded, and liable to making the same mistakes repeatedly - i mean, I understand losing to the bucket of soapy water once, but being defeated by the same method again and again is silly. That said, it was nice when the stone prince reasoned Morwen wouldn't melt by the state of her domicile in the climax of the first book, for example.") That said, the set of antagonists had fairly understandable goals they were working towards by fairly reasonable methods. It was only their preparation for others' interference I would fault. 
-> Also, many of the characters are great and wonderful. I am a big, big fan of Morwen.
 > 
+> Also, many of the characters are great and wonderful. I am a big, big fan of Morwen.
 
->> **u/Suitov** [+1]  *The Culture**
+>> **u/Suitov** [+1]  *The Culture* (16 days later)
 >> 
 >> Yes; now I've finished all four books, you make a fair point about the antagonists: after the first book, their failure to learn from mistakes, even over a long span of time, pushes them further and further into Too Dumb To Live territory.
->> 
 
 ---
 

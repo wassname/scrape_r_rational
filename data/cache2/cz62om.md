@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/09/03/chapter-22-challenge/
-* Score: 16
+* Score: 14
 
 * Created: 2019-09-03T15:05:05
 

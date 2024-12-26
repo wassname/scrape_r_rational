@@ -2,7 +2,7 @@
 
 * Author: u/hoja_nasredin  *Dai-Gurren Brigade**
 * URL: https://www.reddit.com/r/rational/comments/45rksb/ideas_on_ration_got_where_crazy_theories_are_true/
-* Score: 1
+* Score: 2
 
 * Created: 2016-02-14T16:44:10
 
@@ -25,96 +25,91 @@ P.P.S. I will probably never write it so feel free to use this idea.
 
 ### Comments:
 
-> **u/LeonCross** [+7] *
+> **u/LeonCross** [+8]  (9 hours later)
 > 
 > Isn't a song of ice and fire already reasonably rational in that all of the actors make decisions based on realistic thought processes?
-> 
 
-> **u/None** [+6] *
+> **u/None** [+6]  (14 hours later)
 > 
 > >THe obvious solution is too make true all crazy conspiracy theories that go around GoT:
-> No. The obvious solution is to treat the major political problems of the ASOIAF universe as the worthy adversaries they are. 
-> To have someone actually navigate the complex feudal landscape in a way that isn't as convenient as can be for them. 
-> Not to disagree with the rest of the thread and its point but let's not act like writer's basically got all the mileage they could out of the social problems in the GoT universe.
 > 
+> No. The obvious solution is to treat the major political problems of the ASOIAF universe as the worthy adversaries they are. 
+> 
+> To have someone actually navigate the complex feudal landscape in a way that isn't as convenient as can be for them. 
+> 
+> Not to disagree with the rest of the thread and its point but let's not act like writer's basically got all the mileage they could out of the social problems in the GoT universe.
 
->> **u/KZLightning** [+3] *
+>> **u/KZLightning** [+3]  (23 hours later)
 >> 
 >> More power simply can't solve the major political problems. Even telepathy won't completely solve them as they are complex and involve far too many people. Most fictions simply gloss over this and pretend that these problems either don't exist or are solved with a few conversations.
->> 
 
->>> **u/None** [+5] *
+>>> **u/None** [+5]  (a day later)
 >>> 
 >>> > and involve far too many people
->>> And too far away too. 
->>> We're talking about what seems like an ossified feudal society, one that's stayed relatively similar for thousands of years (though there's some doubt cast on how many thousands of years). If you cannot mine some conflict and drama out of this situation...what the fuck can you mine it out of? Dany's storyline, while infuriating, is an example of the writer trying to show the problems of just throwing more unconditional power at the situation and forcing people to change. Even if they are abhorrent, it's fucking *hard*. Now imagine that across all of Westeros. 
->>> I think part of the problem is that the problem is too big for most people's expertise. You have the inherent problems of OCPs and then you have to layer on outside, future knowledge and you have to deal with how these medieval people would react to that knowledge and what the knowledge is or can do or can be used to do and so on and so forth all while considering the specific nature of Westeros itself. 
->>> You don't need to give Sauron a Death Star when there's already a thousand vibroblade-wielding fighters hiding behind every rock 
->>> It's hard. Even the professional ISOT writers who throw people into the past with future knowledge often get a lot of criticism. The level of historical literacy required must be incredible. Then you throw in fanfic problems like writer's focusing more on the plot they read and not the plot they *could* write...
 >>> 
+>>> And too far away too. 
+>>> 
+>>> We're talking about what seems like an ossified feudal society, one that's stayed relatively similar for thousands of years (though there's some doubt cast on how many thousands of years). If you cannot mine some conflict and drama out of this situation...what the fuck can you mine it out of? Dany's storyline, while infuriating, is an example of the writer trying to show the problems of just throwing more unconditional power at the situation and forcing people to change. Even if they are abhorrent, it's fucking *hard*. Now imagine that across all of Westeros. 
+>>> 
+>>> I think part of the problem is that the problem is too big for most people's expertise. You have the inherent problems of OCPs and then you have to layer on outside, future knowledge and you have to deal with how these medieval people would react to that knowledge and what the knowledge is or can do or can be used to do and so on and so forth all while considering the specific nature of Westeros itself. 
+>>> 
+>>> You don't need to give Sauron a Death Star when there's already a thousand vibroblade-wielding fighters hiding behind every rock 
+>>> 
+>>> It's hard. Even the professional ISOT writers who throw people into the past with future knowledge often get a lot of criticism. The level of historical literacy required must be incredible. Then you throw in fanfic problems like writer's focusing more on the plot they read and not the plot they *could* write...
 
-> **u/chaosmosis** [+4]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+4]  *and with strange aeons, even death may die* (3 hours later)
 > 
 > Merlings. Time traveling fetus.
-> 
 
->> **u/steadwik** [+3] *
+>> **u/steadwik** [+3]  (a day later)
 >> 
 >> It warms my heart that the famous "D+D=T"  theory has migrated so successfully.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (18 hours later)
 >> 
 >> Shireen Baratheon raised by a White Walker/Jarfetus conspiracy, becomes Azor Ahai, transforms Bran and Hodor into a human centaur[pede], Greyscale zombies become Red Priests in her honour
->> 
 
->>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> wow.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (5 days later)
 >>>> 
 >>>> You're welcome
->>>> 
 
-> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate* (21 hours later)
 > 
 > >The obvious solution is too make true all crazy conspiracy theories that go around GoT
-> I would have thought the obvious solution would be exactly what normally happens when someone exploits a fleeting advantage to gain power. Exactly the kinds of things that killed Robert. Unexpected alliances, knives in the dark, clever plots and scheming subordinates. Defusing the canon plots hardly makes one immune to the machinations of those who replace them.
 > 
+> I would have thought the obvious solution would be exactly what normally happens when someone exploits a fleeting advantage to gain power. Exactly the kinds of things that killed Robert. Unexpected alliances, knives in the dark, clever plots and scheming subordinates. Defusing the canon plots hardly makes one immune to the machinations of those who replace them.
 
-> **u/ZeroNihilist** [+3] *
+> **u/ZeroNihilist** [+3]  (19 minutes later)
 > 
 > What about Benjen = Daario = Euron and other similar identity conflations? Implies a pretty horrifying level of deception, like a Faceless Man except able to impersonate people with strong social ties (we see Faceless!Pate slipping up around relative strangers, by contrast).
-> A shapeshifter that can blend in to an established character so effectively is practically an unstoppable force all on their own if they use their abilities wisely. The Faceless Men are limited both by their ethos and their relatively poor skills at deception; they are still excellent performers, but not so good as the Benjen = Daario = Euron hypothesis implies.
 > 
+> A shapeshifter that can blend in to an established character so effectively is practically an unstoppable force all on their own if they use their abilities wisely. The Faceless Men are limited both by their ethos and their relatively poor skills at deception; they are still excellent performers, but not so good as the Benjen = Daario = Euron hypothesis implies.
 
-> **u/wtfbbc** [+3] *
+> **u/wtfbbc** [+4]  (53 minutes later)
 > 
 > >What other crazy theories to add?
-> Umm /r/cleganebowl confirmed get fucking hype
 > 
+> Umm /r/cleganebowl confirmed get fucking hype
 
->> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> That thing ha da  subreddit?
->> 
 
->> **u/Nevereatcars** [+0]  *The Greatest Is Behind**
+>> **u/Nevereatcars** [+0]  *The Greatest Is Behind* (a day later)
 >> 
 >> #OURS IS THE HYPE
->> 
 
-> **u/KharakIsBurning** [+1] *
+> **u/KharakIsBurning** [+1]  (9 hours later)
 > 
 > The theory that the White Walkers are actually just trying to retake their land that was taken by the Wildlings by a very old treaty.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (18 hours later)
 >> 
 >> White Walkers=Children of the Forest/Old Gods? I'm half convinced the Faceless Old Winter God and the Red Summer Dragon God are going to stop fighting and make out, so this works for me.
->> 
 
 ---
 

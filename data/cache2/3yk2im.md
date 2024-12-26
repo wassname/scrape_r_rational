@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/ZeroNihilist** [+1] *
+> **u/ZeroNihilist** [+1]  (10 hours later)
 > 
 > Link is broken. [Corrected link](http://junctureserial.blogspot.co.il/2015/12/juncture-44_28.html).
-> 
 
->> **u/AHatfulOfBomb** [+1] *
+>> **u/AHatfulOfBomb** [+1]  (11 hours later)
 >> 
 >> Ah, thank you!
->> 
 
 ---
 

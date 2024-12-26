@@ -2,7 +2,7 @@
 
 * Author: u/literal-hitler *
 * URL: https://www.fictionpress.com/s/2961893/41/Mother-of-Learning
-* Score: 94
+* Score: 97
 
 * Created: 2015-09-06T16:59:23
 
@@ -12,77 +12,81 @@
 
 ### Comments:
 
-> **u/Stop_Sign** [+26] *
+> **u/Stop_Sign** [+26]  (34 minutes later)
 > 
 > I'm hyped for xvim talking about mind magic!
-> 
 
-> **u/None** [+15] *
+> **u/None** [+16]  (20 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/Cheese_Ninja** [+5] *
+>> **u/Cheese_Ninja** [+7]  (6 hours later)
 >> 
 >> Yeah, I was wondering who it was he found attractive way back in that first chapter.  But he also acknowledges that his tastes have probably changed since then, and that he's grown more mature.  I think Akoja might have some chance after all, however small.
->> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (20 hours later)
 >> 
 >> Imagine if it was TimeBraid!Sakura instead of Zorian here. Everybody would be fucked.
->> ...Literally
 >> 
+>> ...Literally
 
->>> **u/protagnostic** [+5] *
+>>> **u/protagnostic** [+4]  (a day later)
 >>> 
 >>> TimeBraid!Sakura don't fuck around (except literally)
->>> 
 
->>> **u/gabbalis** [+1] *
+>>> **u/gabbalis** [+1]  (a day later)
 >>> 
 >>> Hell, even Phil Connors did more than Zorian on that front.
->>> 
 
-> **u/None** [+11] *
+> **u/None** [+10]  (9 hours later)
 > 
 > Somewhat interesting. This also gets posted in /r/noveltranslations (really just a webnovel subreddit though the majority of posts are translated works)
-> https://www.reddit.com/r/noveltranslations/comments/3jvfqh/en_mother_of_learning_chapter_41/
 > 
+> https://www.reddit.com/r/noveltranslations/comments/3jvfqh/en_mother_of_learning_chapter_41/
 
-> **u/Stop_Sign** [+15] *
+> **u/Stop_Sign** [+16]  (32 minutes later)
 > 
 > He has a brother who is an extremely accomplished mage and hasn't even tried to access that resource because of pride. Grr zorian you're better than that. 
-> I don't expect that to change though unless he conveniently helps someone else overcome their pride then applies that lesson to himself.
 > 
+> I don't expect that to change though unless he conveniently helps someone else overcome their pride then applies that lesson to himself.
 
->> **u/darkflagrance** [+17] *
+>> **u/darkflagrance** [+16]  (4 hours later)
 >> 
 >> To be fair, his brother might also be the villain. There might be plot reasons why the two of them cannot interact yet.
->> 
 
->> **u/Nepene** [+28] *
+>> **u/Nepene** [+29]  (14 hours later)
 >> 
 >> >It
 >> was always Daimen this, Daimen that. There were days when Zorian wondered why
 >> his parents made three other children when they were clearly so enamored with their
 >> eldest son. Really, going to another continent just to visit him? What, were they
 >> going to die if they didn't see him for a year?
+>> 
 >> He dislikes him as his parents are obsessed.
+>> 
 >> >He was like Daimen in this way, only Daimen had actual skills to back up his
 >> charm.
+>> 
 >> Daimen has skills and charm.
+>> 
 >> >His father always joked that Fortov and Zorian each got a half of Daimen in them:
 >> Fortov got his charm, and Zorian his competence.
+>> 
 >> Zorian's father used him to insult Zorian.
+>> 
 >> >Zorian resisted the urge to scowl. Getting put under that spell by Daimen was one of
 >> his childhood traumas. It wasn't amusing at all.
+>> 
 >> Daimen tortured him with animation.
+>> 
 >> >Poorly controlled, the spell is intensely uncomfortable. We don't want to give anyone
 >> traumas."
 >> Zorian narrowed his eyes. He didn't. Not even Daimen would… oh, who is he
 >> kidding? Of course he would have. Practicing such a spell on your own little brother
 >> was right up Daimen's alley.
+>> 
 >> This is normal behaviour for his bro, implying other abuse.
+>> 
 >> >"Everything I do is always compared to Daimen and, to a slightly lesser extent,
 >> Fortov. It has been that way since I was a child, before Daimen ever became
 >> famous. My parents have never been shy about playing favorites, and since they
@@ -90,10 +94,14 @@
 >> My family has no use for a withdrawn bookworm, and made that abundantly clear
 >> over the years. Until recently, they ignored me completely, treating me more like I
 >> was my sister's babysitter than their son."
+>> 
 >> His brother is famous, has social achievements, was used to attack him.
+>> 
 >> >since Daimen and Fortov were both relatively decent at music, Daimen at
 >> playing the piano and Fortov at playing the violin.
+>> 
 >> Damien can play piano.
+>> 
 >> >Once upon a time, when Zorian was younger,
 >> he dreamt of being a great mage. The sort that legends were made of, the kind that
 >> revolutionized whole fields of magic all by themselves. In time this dream died as it
@@ -101,376 +109,385 @@
 >> make that happen. He was just a slightly above average civilian-born student with no
 >> special advantages to his name. But now? He had all the time he needed to build up
 >> an advantage over his peers and become truly great. Greater than Daimen.
+>> 
 >> Becoming greater than Daimen is a major motivation.
+>> 
 >> >Zorian suppressed a wave of jealousy that washed over him. Zach was just making
 >> the most of his unique situation, just like Zorian would have in his place. It still
 >> bothered him, though, reminding him of how Daimen and Fortov could ask and get
 >> all sorts of help and concessions from their teachers, only for Zorian to fail in
 >> securing the same for himself.
+>> 
 >> He has huge resentment for his brothers succeeding with charisma.
+>> 
 >> >"Well done," Ilsa said with a smile. "Not many students have such a firm grasp on
 >> their magic at this stage. I see someone is continuing in Daimen's footsteps."
 >> Zorian smiled back politely. He mustn't scowl, he mustn't scowl…
+>> 
 >> The idea of following Daimen makes him scowl.
+>> 
 >> >"Daimen and I don't get along," Zorian said bluntly. "There is not much I can tell you
 >> about him that Kiri already hasn't."
+>> 
 >> They have a poor relationship.
+>> 
 >> >but the sad fact was that she was closer to him in talent
 >> than, say, Daimen or some other child prodigy.
+>> 
 >> Daimen was a child prodigy.
+>> 
 >> >"Umm…" Kirielle stammered. "Please don't be mad because mother told me not to
 >> tell you this because you would get mad at me but mother said you and Fortov were
 >> only accepted so easily because Daimen got so big and successful..."
 >> "Daimen had nothing to do with it," Zorian said, grinding his teeth in annoyance
->> He hates the idea of riding on Daimen's coattails.
->> So, to summarize- he hates Daimen, hates the idea of relying on him, hates the idea of relying on charisma and prefers to rely on competence, and this has been reinforced by years of his parent's and brother's abuse.
->> It's not because of pride. Rationality doesn't mean ignoring emotions. He has years of experience avoiding Daimen, it's something important to him.
 >> 
+>> He hates the idea of riding on Daimen's coattails.
+>> 
+>> So, to summarize- he hates Daimen, hates the idea of relying on him, hates the idea of relying on charisma and prefers to rely on competence, and this has been reinforced by years of his parent's and brother's abuse.
+>> 
+>> It's not because of pride. Rationality doesn't mean ignoring emotions. He has years of experience avoiding Daimen, it's something important to him.
 
->> **u/OutOfNiceUsernames** [+14]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+15]  *fear of last pages* (an hour later)
 >> 
 >> Maybe it’s more than pride.
->> >I'm sure you'll hear all about it when he finally deigns to unveil it to the world.
->> Daimen could be a type of person who holds all the knowledge he posesses very close to the vest, only annoying those who seek to get such knowledge and giving nothing more.
 >> 
+>> >I'm sure you'll hear all about it when he finally deigns to unveil it to the world.
+>> 
+>> Daimen could be a type of person who holds all the knowledge he posesses very close to the vest, only annoying those who seek to get such knowledge and giving nothing more.
 
->>> **u/None** [+6] *
+>>> **u/None** [+6]  (8 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler**
+>>>> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler* (12 hours later)
 >>>> 
 >>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>> 
+>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>> 
+>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>> 
+>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>> 
+>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>> 
+>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>> 
+>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>> 
+>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>> **u/literal-hitler** [+3] *
+>>>>> **u/literal-hitler** [+3]  (a day later)
 >>>>> 
 >>>>> There are only really two times Zorian has met RR, if I recall. Both in the same [chapter.](https://www.fictionpress.com/s/2961893/26/Mother-of-Learning) Zorian disintegrates the vampire chick, and it reads like RR sees this and doesn't react, where Daimen would have been quite shocked if baseline Zorian had done that. After that he's at least partially disguised.
->>>>> All of the "ripples" before that could have been caused by the aranae (in RR's mind). Zorian hasn't been in Cyoria until recently. And RR appears to not be paying attention to Cyoria enough to notice now.
 >>>>> 
+>>>>> All of the "ripples" before that could have been caused by the aranae (in RR's mind). Zorian hasn't been in Cyoria until recently. And RR appears to not be paying attention to Cyoria enough to notice now.
 
->>>>> **u/UPBOAT_FORTRESS_2** [+3] *
+>>>>> **u/UPBOAT_FORTRESS_2** [+3]  (a day later)
 >>>>> 
 >>>>> I have the strong impression that "soul kill" isn't actually harmful - it kicks the victim out of whatever magic construct created the time loop
->>>>> 
 
->>>>>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler**
+>>>>>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler* (a day later)
 >>>>>> 
 >>>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>>> 
+>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>>> 
+>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>>> 
+>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>>> 
+>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>>> 
+>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>>> 
+>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>>> 
+>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>>> **u/Keshire** [+1] *
+>>>>>>> **u/Keshire** [+1]  (16 days later)
 >>>>>>> 
 >>>>>>> > Which raises the question of why Red Robe isn't just doing that for everyone who interferes with his or her plans. Unless there is some other sort of cost...
->>>>>>> It messes with predictability. He eliminated a huge chunk of something that makes the city work on a day to day basis. It'd be like one day all the people at the electric plant up and died. Sure you can get them all replaced in a couple months. But in the meantime there's going to be chaos.
 >>>>>>> 
+>>>>>>> It messes with predictability. He eliminated a huge chunk of something that makes the city work on a day to day basis. It'd be like one day all the people at the electric plant up and died. Sure you can get them all replaced in a couple months. But in the meantime there's going to be chaos.
 
->>> **u/Stop_Sign** [+4] *
+>>> **u/Stop_Sign** [+6]  (2 hours later)
 >>> 
 >>> Right but a simple "Hey bro, I have a strong need for knowledge. Here's my skills to prove that I'm trying. Any pointers for what I can do next?"
->>> 
 
->>>> **u/Rillet** [+8] *
+>>>> **u/Rillet** [+8]  (6 hours later)
 >>>> 
 >>>> Maybe I'm remembering wrong, but wasn't it said (or hinted) that Daimen was abusive?
->>>> 
 
-> **u/OutOfNiceUsernames** [+6]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+6]  *fear of last pages* (an hour later)
 > 
 > Ok, I am nitpicking because I didn’t notice any typos\errors this time.
-> * you're holding in your hand,  → you’re holding
-> * Zorian said nothing, simply continuing his endless repetition of **his tasks that Xvim** gave him → Zorian said nothing, simply continuing his endless repetition of **the tasks Xvim** gave him
-> Also, I wish the chapters were longer. : (
 > 
+> * you're holding in your hand,  → you’re holding
+> 
+> * Zorian said nothing, simply continuing his endless repetition of **his tasks that Xvim** gave him → Zorian said nothing, simply continuing his endless repetition of **the tasks Xvim** gave him
+> 
+> Also, I wish the chapters were longer. : (
 
->> **u/torac** [+5] *
+>> **u/torac** [+7]  (an hour later)
 >> 
 >> >too grabby than was proper
->> too→more
 >> 
+>> too→more
 
->> **u/literal-hitler** [+2] *
+>> **u/literal-hitler** [+4]  (an hour later)
 >> 
 >> There's also full-proof plan
->> I would also take quicker updates instead of longer chapters.
 >> 
+>> I would also take quicker updates instead of longer chapters.
 
->>> **u/PeridexisErrant** [+19]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+20]  *put aside fear for courage, and death for life* (6 hours later)
 >>> 
 >>> I actually favour longer chapters - each one is more self-contained, and the structure works a lot better for rereading.
->>> 
 
->>>> **u/protagnostic** [+3] *
+>>>> **u/protagnostic** [+3]  (9 hours later)
 >>>> 
 >>>> I approve of your username.
->>>> 
 
->>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (9 hours later)
 >>>>> 
 >>>>> Join us on the good ship /r/errantry then! *Lifeboats* should be arriving any day now...
->>>>> 
 
->>>>>> **u/protagnostic** [+2] *
+>>>>>> **u/protagnostic** [+2]  (9 hours later)
 >>>>>> 
 >>>>>> I didn't realize there was another book coming out. I think the last one I read was *Wizards at War*. Gosh, ten years ago!
->>>>>> 
 
->>>>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>>>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (11 hours later)
 >>>>>>> 
 >>>>>>> Ooh, you're in for a treat then.  *Wizard of Mars* has been out for a while, and *Games Wizards Play* is due early next year.
->>>>>>> There's a trilogy of transitional novellas between them - *Not on my patch*, *How lovely are thy branches*, and (soon) *Lifeboats*.
->>>>>>> All of them are easily available as ebooks direct from the author, and hardcopies of *Wizard of Mars* are available if you look for them.
 >>>>>>> 
+>>>>>>> There's a trilogy of transitional novellas between them - *Not on my patch*, *How lovely are thy branches*, and (soon) *Lifeboats*.
+>>>>>>> 
+>>>>>>> All of them are easily available as ebooks direct from the author, and hardcopies of *Wizard of Mars* are available if you look for them.
 
->>>> **u/Stop_Sign** [+3] *
+>>>> **u/Stop_Sign** [+3]  (20 hours later)
 >>>> 
 >>>> Also, now that he's getting money per chapter, he will be criticized harshly for lots of short chapters.
->>>> 
 
->>>> **u/elevul** [+1]  *Cyoria Observer**
+>>>> **u/elevul** [+1]  *Cyoria Observer* (17 hours later)
 >>>> 
 >>>> I wish he worked like Ryuugi (The Games We Play), though. Waking up every morning to TWO 2k+ characters chapters would be gorgeous! :D
->>>> 
 
-> **u/Siliniez** [+6] *
+> **u/Siliniez** [+5]  (3 hours later)
 > 
 > I came up with the theory a couple weeks ago that maybe the aranea figured out that the time loop was degrading because they were using their prophecy powers to prophesize what was happening inside the time loop. I mean Zorian dreams from before the loop possibly have predicted what happened in future time loops.
-> 
 
-> **u/protagnostic** [+7] *
+> **u/protagnostic** [+7]  (9 hours later)
 > 
 > After this chapter, I find myself wanting to re-read Time Braid. Perhaps it's been long enough that it'll have some surprises again...
-> 
 
->> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler**
+>> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler* (12 hours later)
 >> 
 >> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >> 
+>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>> 
+>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>> 
+>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>> 
+>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>> 
+>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>> 
+>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>> 
+>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->> **u/elevul** [+2]  *Cyoria Observer**
+>> **u/elevul** [+2]  *Cyoria Observer* (17 hours later)
 >> 
 >> Also check out the books written by the time braid author!
->> 
 
->>> **u/Anderkent** [+1] *
+>>> **u/Anderkent** [+1]  (18 hours later)
 >>> 
 >>> Link?
->>> 
 
->>>> **u/elevul** [+2]  *Cyoria Observer**
+>>>> **u/elevul** [+2]  *Cyoria Observer* (22 hours later)
 >>>> 
 >>>> http://www.amazon.com/Fimbulwinter-Daniel-Black-Book-1-ebook/dp/B00KZ41LHM
->>>> http://www.amazon.com/Black-Coven-Daniel-Book-ebook/dp/B00WZNZ3LG/
 >>>> 
+>>>> http://www.amazon.com/Black-Coven-Daniel-Book-ebook/dp/B00WZNZ3LG/
 
->>>>> **u/Anderkent** [+1] *
+>>>>> **u/Anderkent** [+1]  (22 hours later)
 >>>>> 
 >>>>> Oh yeah. I read fimbulwinter but wasn't very impressed. Alas.
->>>>> 
 
->>>>> **u/protagnostic** [+1] *
+>>>>> **u/protagnostic** [+1]  (a day later)
 >>>>> 
 >>>>> Oooh. How favorably do these compare to Time Braid itself?
->>>>> 
 
->>>>>> **u/elevul** [+2]  *Cyoria Observer**
+>>>>>> **u/elevul** [+2]  *Cyoria Observer* (a day later)
 >>>>>> 
 >>>>>> Not that well as far as story goes and the male character is even more wish fulfillment than Naruto is in Time Braid. But it's still pretty good, and one of the VERY few novels with TRP elements in it.
->>>>>> 
 
->>>>>>> **u/Anderkent** [+1] *
+>>>>>>> **u/Anderkent** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> Yeah I couldn't stomach the MC. It was just too porny for me.
->>>>>>> 
 
->>>>>>>> **u/protagnostic** [+1] *
+>>>>>>>> **u/protagnostic** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> Womp. Probably going to skip it; Time Braid is about as porny as I can handle outside of actual erotic fiction.
->>>>>>>> 
 
-> **u/world_is_wide** [+6] *
+> **u/world_is_wide** [+5]  (4 hours later)
 > 
 > How does one get RSS feed for this story?
-> 
 
->> **u/Anderkent** [+6] *
+>> **u/Anderkent** [+7]  (4 hours later)
 >> 
 >> I don't think fictionpress does rss feeds, but if you register you can follow a story so that they send you emails.
->> 
 
->> **u/Calsem** [+5] *
+>> **u/Calsem** [+5]  (5 hours later)
 >> 
 >> try this site:
->> http://www.page2rss.com/
 >> 
+>> http://www.page2rss.com/
 
->>> **u/world_is_wide** [+3] *
+>>> **u/world_is_wide** [+3]  (5 hours later)
 >>> 
 >>> Thanks. Used the site to turn the authors [bio page into an RSS feed](http://page2rss.com/rss/34e88fa027edca486a8300353709dd70), as that changes with latest update time and next target date.
->>> 
 
-> **u/None** [+11] *
+> **u/None** [+13]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/Anderkent** [+21] *
+>> **u/Anderkent** [+19]  (2 hours later)
 >> 
 >> Eh. Could be read that way, but could be read as Xvim being as completely socially inept as usual.
->> 
 
->> **u/RMcD94** [+11] *
+>> **u/RMcD94** [+11]  (5 hours later)
 >> 
 >> Cause if I was a time-looper I'd spend my time on mentoring kids
->> 
 
->> **u/2-4601** [+6] *
+>> **u/2-4601** [+5]  (15 hours later)
 >> 
 >> I think he'd have noticed Zorian doing different stuff in each loop, not to mention retaining all the exercises he'd learned in the previous loop's lessons.
->> 
 
->>> **u/noggin-scratcher** [+4]  *I am a happy tree**
+>>> **u/noggin-scratcher** [+4]  *I am a happy tree* (2 days later)
 >>> 
 >>> Maybe that's why he's never impressed - he's secretly thinking "Sure you're good at this now, but it's taken you months of do-overs to get there"
->>> 
 
->> **u/Iconochasm** [+10] *
+>> **u/Iconochasm** [+11]  (4 hours later)
 >> 
 >> Calling it now.  Xvim is PeggySue!Zorian.
->> 
 
->> **u/FeepingCreature** [+5]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture* (21 hours later)
 >> 
 >> I think Xvim notices that Zorian is a time looper as a theory every loop, but is not in the loop himself.
->> 
 
->> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler**
+>> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler* (12 hours later)
 >> 
 >> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >> 
+>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>> 
+>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>> 
+>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>> 
+>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>> 
+>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>> 
+>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>> 
+>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>> **u/None** [+6] *
+>>> **u/None** [+6]  (14 hours later)
 >>> 
 >>> Maybe. Not feeling like it. Different personality, different methods
->>> 
 
-> **u/daydev** [+3] *
+> **u/daydev** [+3]  (14 hours later)
 > 
 > One passage bothers me:
-> > they were actually closer to animals such as ravens and pigs than something **dumb** like a horse or a **dog.** 
-> So I know that pigs are supposed to be smarter than you'd think, but smarter than dogs? And dogs are lumped in the "dumb" category? I would guess that the author mixed up the animals and it's supposed to be "they were actually closer to animals such as ravens and dogs than something dumb like a horse or a pig", but maybe there's something I don't know?
 > 
+> > they were actually closer to animals such as ravens and pigs than something **dumb** like a horse or a **dog.** 
+> 
+> So I know that pigs are supposed to be smarter than you'd think, but smarter than dogs? And dogs are lumped in the "dumb" category? I would guess that the author mixed up the animals and it's supposed to be "they were actually closer to animals such as ravens and dogs than something dumb like a horse or a pig", but maybe there's something I don't know?
 
->> **u/Anderkent** [+11] *
+>> **u/Anderkent** [+12]  (18 hours later)
 >> 
 >> Pigs are definitely smarter than dogs. They have cognitive abilities similar to a 3 year old child.
->> 
 
->> **u/CopperZirconium** [+1] *
+>> **u/CopperZirconium** [+1]  (2 days later)
 >> 
 >> Pigs are smarter, but only are only motivated by food. Dogs are actually obedient and can be trained easier, but are really quite dumb.
->> 
 
-> **u/elevul** [+6]  *Cyoria Observer**
+> **u/elevul** [+7]  *Cyoria Observer* (54 seconds later)
 > 
 > Hahaha, 30 seconds before I could. Nice. :D
-> 
 
->> **u/literal-hitler** [+5] *
+>> **u/literal-hitler** [+5]  (5 minutes later)
 >> 
 >> I don't even have notifications set up. I just happened to check the page at just the right time.
->> 
 
-> **u/rhaps0dy4** [+2] *
+> **u/rhaps0dy4** [+2]  (7 hours later)
 > 
 > Anyone knows what Mother of Learning is inspired on? I need MORE!
-> 
 
->> **u/Nepene** [+3] *
+>> **u/Nepene** [+4]  (14 hours later)
 >> 
 >> I personally am doing a roleplay of it to get more.
->> Time looping Naruto fanfiction is the closest thing to it, stuff like timebraid, Harry potter time loop fanfiction.
->> https://www.fanfiction.net/u/1980911/nobody102#fs
->> You can see his favorites there.
->> https://www.fanfiction.net/s/6517567/1/Harry-Potter-and-the-Temporal-Beacon
->> https://www.fanfiction.net/s/5193644/1/Time-Braid
->> https://www.fanfiction.net/s/4823029/1/Naruto-Game-of-the-Year-Edition
->> https://www.fanfiction.net/s/7028564/1/Echoes
->> Some examples.
 >> 
+>> Time looping Naruto fanfiction is the closest thing to it, stuff like timebraid, Harry potter time loop fanfiction.
+>> 
+>> https://www.fanfiction.net/u/1980911/nobody102#fs
+>> 
+>> You can see his favorites there.
+>> 
+>> https://www.fanfiction.net/s/6517567/1/Harry-Potter-and-the-Temporal-Beacon
+>> 
+>> https://www.fanfiction.net/s/5193644/1/Time-Braid
+>> 
+>> https://www.fanfiction.net/s/4823029/1/Naruto-Game-of-the-Year-Edition
+>> 
+>> https://www.fanfiction.net/s/7028564/1/Echoes
+>> 
+>> Some examples.
 
->> **u/Stop_Sign** [+2] *
+>> **u/Stop_Sign** [+2]  (20 hours later)
 >> 
 >> In addition to the examples other's have listed, there's the "loops" meta-story, which TVtropes has a bunch of links [here](http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheInfiniteLoops). Rather than start at the start, these stories tend to focus on "OK loops are happening and all, but what about 300 loops later? What do the characters start doing? What about millions of loops later?"
->> 
 
->> **u/ggrey7** [+1] *
+>> **u/ggrey7** [+1]  (9 hours later)
 >> 
 >> The author mentions a few inspirations on [his bio page](https://www.fictionpress.com/u/804592/nobody103). None of them are exactly the same though...
->> 
 
-> **u/valeskas** [+1] *
+> **u/valeskas** [+1]  (21 hours later)
 > 
 > I would blame Xvim weirdness on him being open and getting prophetic dreams, but that should be visible to Zorian. Or maybe Xvim is perfectly aware and just cant resist trolling his students.
-> 
 
-> **u/TimTravel** [+1] *
+> **u/TimTravel** [+1]  (23 hours later)
 > 
 > full-proof -> foolproof
-> I know pigs are more intelligent than they get credit for but I always thought they were about equal to dogs. Is that not the case?
 > 
+> I know pigs are more intelligent than they get credit for but I always thought they were about equal to dogs. Is that not the case?
 
-> **u/nytelios** [+1] *
+> **u/nytelios** [+1]  (7 days later)
 > 
 > Wow, what a huge bomb thrown into this chapter.
-> Even though the loop began several hours earlier and Zorian slept through it, he still managed to meet Red Robe in the aranea settlement a few hours/minutes (? 30 minutes) into the new loop after the soulkill. Does this mean Red Robe set up a spell to detect intruders into the settlement (if he already went there at the very start of the loop)? But why would it then take 30 minutes for him to show up after Zorian sees the settlement and act surprised upon seeing Zorian? Was it just a coincidence and he returned to check the situation after preparing things at the start of the loop?
-> Or does it mean the RR himself is not aware that the loop starts several hours before he (RR) wakes up? Maybe he's in a different time zone and actually wakes up 1-2 hours after Zorian (*cough* flimsy Daimen theories).
-> Anybody else have any theories about the time gap?
 > 
+> Even though the loop began several hours earlier and Zorian slept through it, he still managed to meet Red Robe in the aranea settlement a few hours/minutes (? 30 minutes) into the new loop after the soulkill. Does this mean Red Robe set up a spell to detect intruders into the settlement (if he already went there at the very start of the loop)? But why would it then take 30 minutes for him to show up after Zorian sees the settlement and act surprised upon seeing Zorian? Was it just a coincidence and he returned to check the situation after preparing things at the start of the loop?
+> 
+> Or does it mean the RR himself is not aware that the loop starts several hours before he (RR) wakes up? Maybe he's in a different time zone and actually wakes up 1-2 hours after Zorian (*cough* flimsy Daimen theories).
+> 
+> Anybody else have any theories about the time gap?
 
-> **u/protagnostic** [+1] *
+> **u/protagnostic** [+1]  (9 hours later)
 > 
 > Could Xvim be Red ~~Hood~~ Robe? Only time will tell.
-> 
 
->> **u/Anderkent** [+2] *
+>> **u/Anderkent** [+2]  (18 hours later)
 >> 
 >> One would think if that was the case he'd have known Zorian was looping long ago.
->> 
 
->> **u/Stop_Sign** [+1] *
+>> **u/Stop_Sign** [+1]  (20 hours later)
 >> 
 >> He's too static between loops to be Red Robe.
->> 
 
 ---
 

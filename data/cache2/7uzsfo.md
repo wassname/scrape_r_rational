@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/7uzsfo/d_saturday_munchkinry_thread/
-* Score: 11
+* Score: 10
 
 * Created: 2018-02-03T15:06:46
 
@@ -24,461 +24,533 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/genericaccounter** [+5] *
+> **u/genericaccounter** [+5]  (8 hours later)
 > 
 > You are a team of hunters sent by the King to attempt to capture a powerful magical creature. 
-> The Contrary Boar. The CB is in most respects a ordinary boar, which is dangerous enough on its own, but what sets the CB apart is its magical ability. The creature will use sympathic magic to forge a link with the mental model of itself in the heads of any creature within half a kilometre. It will then proceed to do something unexpected. This means for instance that if you attempt to ambush it will not walk into the trap, you shoot arrows at it it will dodge. If all options are covered by people within its range, then it will take the option that is most inconvenient for your plan. The boar is capable of both outrunning a person and outfighting most as well, unless you are prepared for that scenario. 
-> Unfortunately, the forest elves who live in the area are willing to let you hunt the CB but you must ensure that any trap will not hurt other wild animals and they would prefer you do this by monitoring it.
-> The abilities of the boar are not well known, and you can hire other hunters to carry out any plan you conceive. So, how do you  capture the boar
 > 
+> The Contrary Boar. The CB is in most respects a ordinary boar, which is dangerous enough on its own, but what sets the CB apart is its magical ability. The creature will use sympathic magic to forge a link with the mental model of itself in the heads of any creature within half a kilometre. It will then proceed to do something unexpected. This means for instance that if you attempt to ambush it will not walk into the trap, you shoot arrows at it it will dodge. If all options are covered by people within its range, then it will take the option that is most inconvenient for your plan. The boar is capable of both outrunning a person and outfighting most as well, unless you are prepared for that scenario. 
+> 
+> Unfortunately, the forest elves who live in the area are willing to let you hunt the CB but you must ensure that any trap will not hurt other wild animals and they would prefer you do this by monitoring it.
+> 
+> The abilities of the boar are not well known, and you can hire other hunters to carry out any plan you conceive. So, how do you  capture the boar
 
->> **u/Izeinwinter** [+5] *
+>> **u/Izeinwinter** [+7]  (a day later)
 >> 
 >> Obvious: Its a boar. Leave tranquilizer laced truffles or other pig favored food in wicker baskets. Wicker wont stop a boar, but it will stop most other animals (and if a bear eats your trap, it wont kill the bear) Leave the area. 
->> Now there is noone there for the boar to be contrary at - baskets dont think. So it will eat one. Walk back in, check baskets, haul sleeping boar out. To guard against the boar being extra clever, dont tell the basket droppers why they are dropping baskets.
 >> 
+>> Now there is noone there for the boar to be contrary at - baskets dont think. So it will eat one. Walk back in, check baskets, haul sleeping boar out. To guard against the boar being extra clever, dont tell the basket droppers why they are dropping baskets.
 
->> **u/jaspercb** [+5]  *Gravitas Free Zone**
+>> **u/jaspercb** [+4]  *Gravitas Free Zone* (9 hours later)
 >> 
 >> Set up some crazy Rube Goldberg-style trap that relies on continued and improbable action from the boar - something that relies on the boar navigating a maze, then solving a puzzle, some chain of events that nobody in their right mind would expect the boar to complete. Then (being sure to keep everyone aware of the plan outside a 0.5km radius) hire a hunter who isn't aware of the boar's magical properties and tell him that he's there to note if any wild animals complete the challenge successfully. Keep him there until the boar, being maximally contrary, completes the challenge and is trapped.
->> You probably have the time to build this trap within a 0.5km radius of the boar, so build it somewhere else then, again, give a solitary hunter reason to believe that he can keep the hunter away from the maze. Evict everyone else from a 0.5km radius. Let the boar do its thing.
->> Alternate solution: Depending on how suggestible the boar is, hypnosis might be useful?
 >> 
+>> You probably have the time to build this trap within a 0.5km radius of the boar, so build it somewhere else then, again, give a solitary hunter reason to believe that he can keep the hunter away from the maze. Evict everyone else from a 0.5km radius. Let the boar do its thing.
+>> 
+>> Alternate solution: Depending on how suggestible the boar is, hypnosis might be useful?
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (9 hours later)
 >> 
 >> Here's the least-efficient plan, so people can think of smarter ones.
->> I put a sizeable bounty on the boar's head. The boar is capable of outrunning and outfighting individuals, but eventually it's going to collapse from exhaustion. Plus, I can use the local peasantry for the plan, which is likely cheaper than hiring hunters.
 >> 
+>> I put a sizeable bounty on the boar's head. The boar is capable of outrunning and outfighting individuals, but eventually it's going to collapse from exhaustion. Plus, I can use the local peasantry for the plan, which is likely cheaper than hiring hunters.
 
->>> **u/Gurkenglas** [+2] *
+>>> **u/Gurkenglas** [+2]  (21 hours later)
 >>> 
 >>> The elves might get mad at you for killing all these wild peasants with your "bounty" trap.
->>> 
 
->>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >>>> 
 >>>> Well they're not animals (as the elves would define it), so I'm sticking to the letter of the law, if not the spirit.
->>>> 
 
->> **u/FlameDragonSlayer** [+3] *
+>> **u/FlameDragonSlayer** [+3]  (a day later)
 >> 
 >> What i would do is to make a bet with some people, so I'll say that i can make a bear walk into a cage on its own, and I'll bet some money, the other people who bet i cant do that, I'll bring them to within range of Bear, where their belief that the bear will not (should not, please don't) walk into the cage, lo and behold, the bear walks into the cage. Note that the people should bet money on the Bear not walking onto the cage, and as it does that, they'll reinforce the Bear as they wish that it not walk into the cage.
->> 
 
->>> **u/lordcirth** [+1] *
+>>> **u/lordcirth** [+1]  (2 days later)
 >>> 
 >>> Excellent plan!  Note however he said Boar, not Bear, not that it matters for the puzzle.
->>> 
 
->> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+>> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (15 hours later)
 >> 
 >> Are nonmagical humans and technology my only resources for the acquisition of the boar? What sort of technology is available? If things besides nonmagical humans and technology are available, what are they?
->> 
 
->>> **u/genericaccounter** [+3] *
+>>> **u/genericaccounter** [+3]  (17 hours later)
 >>> 
 >>> The short answer is yes. The technology is medieval probably at this point though I haven't really worked it out  
->>> The long answer is that this is from a world where magic doesn't exist yet. Essentially beings exist called the Old Gods and they will make deals with humans. However they always have a catch. This is between the first and second deal with humanity. The First Deal was for shepherds to look after them. The Old Gods manifested aspects into reality creating both the younger gods and the monsters. The Second Deal was for the power to defend themselves. This was granted in the form the ability to manipulate the aspects of reality through magic. With less threat to unite them they began to make war on one another. The Third Deal was for a life after death. This created the Heavens and Hells. People think they managed this one with no cost. Nope. Note that smaller groups can make deals of their own. For instance the protagonists family has made three deals with the Old Gods each aiding them and hurting them. In addition the story kicks off with the protagonist making a deal and the effects of that deal
 >>> 
+>>> The long answer is that this is from a world where magic doesn't exist yet. Essentially beings exist called the Old Gods and they will make deals with humans. However they always have a catch. This is between the first and second deal with humanity. The First Deal was for shepherds to look after them. The Old Gods manifested aspects into reality creating both the younger gods and the monsters. The Second Deal was for the power to defend themselves. This was granted in the form the ability to manipulate the aspects of reality through magic. With less threat to unite them they began to make war on one another. The Third Deal was for a life after death. This created the Heavens and Hells. People think they managed this one with no cost. Nope. Note that smaller groups can make deals of their own. For instance the protagonists family has made three deals with the Old Gods each aiding them and hurting them. In addition the story kicks off with the protagonist making a deal and the effects of that deal
 
-> **u/Revive_Revival** [+4] *
+> **u/Revive_Revival** [+3]  (5 hours later)
 > 
 > First time doing this and posting on this sub (long time lurker though) sorry if my post doesn't follow any unwritten rules.
-> You are a low level Empath, you can see people's emotions and have the ability to persuade at least 2 people into doing anything you want at least once every 3 days (can be the same person two times, but that's your limit), requests must be relatively simple (no more than 2 'actions' per request). The downside of your power is that social interactions that become overwhelmingly negative or cause a lot of unrest take a toll on your mind/body and since you don't want to be an outcast you have to try and deescalate these situations. Also, keep in mind that people absolutely should not know that you're an Empath.
-> You're at a birthday party, you are very close to the host. Over the course of the party you start to feel the downsides of your power even thought everything seems to be relatively normal at a single glance. However upon paying more attention you notice the following scenarios:
-> * You are outside the house, talking with the host and two other close friends. There is also another group nearby, consisting of 3 females and 7 males, since you don't really know them and they all seem to know each other, you leave them be. As soon as someone comes outside (a female close friend of the host and yours) you see the group go inside the house, this action is prompted by one of the females of the group and everyone seems to follow her. Your power tells you that there is a certain enmity coming from that one girl, and frustration from the other. This 'interaction' seems to repeat every time one of them goes inside/outside the house.
-> * You feel 'dangerous' emotions coming from three other guests that aren't particularly talking to anyone, they talk to other people every once in a while, but mostly keep to themselves. However, whenever the host is nearby these emotions of anger seem to increase.
-> * A couple seems to be arguing at the back of the house but no one at the party wants to do anything about it. Your power tells you three things: The first one is that whoever pays attention to them has feelings of indifference (but this you know, due to hearing comments like 'they're at it again'). The second one is that every once in a while a faint feeling of danger comes from both people. The third one is that even though you can only see two people arguing, your power tells you that there are three people over there and no one (other than you) seems to be aware of this third party's existence.
-> How would you "fix" this birthday party without disrupting it, given your somewhat limited powers?
-> Things to keep in mind: Age range is between 20 and 25. This is a small party between people that (barely) know each other, so no hard drugs or the like are involved. Avoid violence at all costs and anything too outrageous like setting the house on fire unless you don't mind being mentally crippled for a few years. Also this should be obvious but the requests/suggestions must be things that people are actually capable of doing, you are only manipulating their feelings and their disposition towards you, it's not real magic. People will remember any requests you make, so be careful (or at least not too obvious).
-> Bonus Round: Three days before the party, you made two requests from one of your close friends that will also be going to the party. You made these requests because the host has a somewhat eccentric personality and there is always some kind of drama that must be deescalated.
-> What requests do you make and how can they help you with "fixing" the party?
-> Things to keep in mind: Conditional of the request takes one of the two action slots (In three days you will... swim naked in the pool) also you can chain a request from another request but it takes an action slot too. You can activate previously set requests at will if the conditional is fulfilled. Close friend chosen can't be the female one from first situation (let's just say she's not around before the party, gotta keep it fair).
 > 
+> You are a low level Empath, you can see people's emotions and have the ability to persuade at least 2 people into doing anything you want at least once every 3 days (can be the same person two times, but that's your limit), requests must be relatively simple (no more than 2 'actions' per request). The downside of your power is that social interactions that become overwhelmingly negative or cause a lot of unrest take a toll on your mind/body and since you don't want to be an outcast you have to try and deescalate these situations. Also, keep in mind that people absolutely should not know that you're an Empath.
+> 
+> You're at a birthday party, you are very close to the host. Over the course of the party you start to feel the downsides of your power even thought everything seems to be relatively normal at a single glance. However upon paying more attention you notice the following scenarios:
+> 
+> * You are outside the house, talking with the host and two other close friends. There is also another group nearby, consisting of 3 females and 7 males, since you don't really know them and they all seem to know each other, you leave them be. As soon as someone comes outside (a female close friend of the host and yours) you see the group go inside the house, this action is prompted by one of the females of the group and everyone seems to follow her. Your power tells you that there is a certain enmity coming from that one girl, and frustration from the other. This 'interaction' seems to repeat every time one of them goes inside/outside the house.
+> 
+> * You feel 'dangerous' emotions coming from three other guests that aren't particularly talking to anyone, they talk to other people every once in a while, but mostly keep to themselves. However, whenever the host is nearby these emotions of anger seem to increase.
+> 
+> * A couple seems to be arguing at the back of the house but no one at the party wants to do anything about it. Your power tells you three things: The first one is that whoever pays attention to them has feelings of indifference (but this you know, due to hearing comments like 'they're at it again'). The second one is that every once in a while a faint feeling of danger comes from both people. The third one is that even though you can only see two people arguing, your power tells you that there are three people over there and no one (other than you) seems to be aware of this third party's existence.
+> 
+> How would you "fix" this birthday party without disrupting it, given your somewhat limited powers?
+> 
+> Things to keep in mind: Age range is between 20 and 25. This is a small party between people that (barely) know each other, so no hard drugs or the like are involved. Avoid violence at all costs and anything too outrageous like setting the house on fire unless you don't mind being mentally crippled for a few years. Also this should be obvious but the requests/suggestions must be things that people are actually capable of doing, you are only manipulating their feelings and their disposition towards you, it's not real magic. People will remember any requests you make, so be careful (or at least not too obvious).
+> 
+> Bonus Round: Three days before the party, you made two requests from one of your close friends that will also be going to the party. You made these requests because the host has a somewhat eccentric personality and there is always some kind of drama that must be deescalated.
+> 
+> What requests do you make and how can they help you with "fixing" the party?
+> 
+> Things to keep in mind: Conditional of the request takes one of the two action slots (In three days you will... swim naked in the pool) also you can chain a request from another request but it takes an action slot too. You can activate previously set requests at will if the conditional is fulfilled. Close friend chosen can't be the female one from first situation (let's just say she's not around before the party, gotta keep it fair).
 
->> **u/GaBeRockKing** [+8]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857* (7 hours later)
 >> 
 >> Gotta say, asking /r/rational users to understand emotions is kind of mean :( There's a reason we're so sympathetic to paperclippers.
->> 
 
->>> **u/MagicWeasel** [+15]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+17]  *Cheela Astronaut* (7 hours later)
 >>> 
 >>> I know you meant it as a joke, but I think this stereotype is harmful to the rational community. Sure, some of us are proverbial neckbeards living in our proverbial parents' basement, but most of us are normal, well-adjusted adults. 
->>> An example of the sort of damage that the stereotype does: I used to be extremely active in the atheist community and towards the end of my high activity (~2013) we started to really struggle to get women especially but people in general interested because the neckbeard / fedora / anti-feminist stereotype became so entrenched. And we were a campus atheist club that had a leadership panel full of dyed in the wool feminist SJWs. It got to the point where we put a "no fedoras" sign on our stalls to stop people making fun of us.
 >>> 
+>>> An example of the sort of damage that the stereotype does: I used to be extremely active in the atheist community and towards the end of my high activity (~2013) we started to really struggle to get women especially but people in general interested because the neckbeard / fedora / anti-feminist stereotype became so entrenched. And we were a campus atheist club that had a leadership panel full of dyed in the wool feminist SJWs. It got to the point where we put a "no fedoras" sign on our stalls to stop people making fun of us.
 
->>>> **u/Gurkenglas** [+3] *
+>>>> **u/Gurkenglas** [+3]  (21 hours later)
 >>>> 
 >>>> > most of us are normal, well-adjusted adults
->>>> How do you think you know this?
 >>>> 
+>>>> How do you think you know this?
 
->>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (21 hours later)
 >>>>> 
 >>>>> Seriously? -_-
->>>>> 
 
->>>>>> **u/Gurkenglas** [+3] *
+>>>>>> **u/Gurkenglas** [+3]  (21 hours later)
 >>>>>> 
 >>>>>> I mean, do you have a citation or something? I wouldn't count myself as a normal, well-adjusted adult, but maybe some survey says otherwise.
->>>>>> 
 
->>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>> **u/MagicWeasel** [+5]  *Cheela Astronaut* (21 hours later)
 >>>>>>> 
 >>>>>>> My experience in the general rationalist sort of community has been as much. Some weirdos but no more than I encountered in say, Roller Derby. A subreddit-wide survey would be interesting but the slatestarcodex and lesswrong surveys are also pretty good sources. The aggregate data of those seems to indicate that the average person is an adult and reasonably well-adjusted, FWIW. "Normal" in the context I used it here meant, basically, "not an autistic neckbeard stereotype" rather than "completely average in every way". 
->>>>>>> Yeah, the rational community is more intelligent and atheist and maybe more autistic than average but we're not... like, even 10% of the way to being aliens trying to understand the human emotion called love.
 >>>>>>> 
+>>>>>>> Yeah, the rational community is more intelligent and atheist and maybe more autistic than average but we're not... like, even 10% of the way to being aliens trying to understand the human emotion called love.
 
->>>>>>>> **u/ben_oni** [+0] *
+>>>>>>>> **u/ben_oni** [+0]  (a day later)
 >>>>>>>> 
 >>>>>>>> > the rational community is intelligent and atheist
->>>>>>>> Only atheists are allowed? Don't you think you're being more than a little offensive?
 >>>>>>>> 
+>>>>>>>> Only atheists are allowed? Don't you think you're being more than a little offensive?
 
->>>>>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>>>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>>>>>>>> 
 >>>>>>>>> ... I meant, " more intelligent and atheist", that's all, and that's very much borne out by the SSC/LW survey results. I've edited the post in question to add the "more" in (it should have been there all along: typo)
->>>>>>>>> 
 
->>>>>>>>>> **u/ben_oni** [-3] *
+>>>>>>>>>> **u/ben_oni** [-3]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Thats right, keep on digging.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>>>>>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> What am I digging exactly? I'm reporting my observed facts based on time spend in the community / results of community surveys like this one:
->>>>>>>>>>> http://slatestarcodex.com/2017/03/17/ssc-survey-2017-results/
->>>>>>>>>>> 55% of respondents are "atheist but not spiritual", compared with 10-20% in the general US population. 
->>>>>>>>>>> The mean IQ is 138 - which is two+ standard deviations above the mean. I'd disbelieve it as self-report but *apparently* it cross-references with the reported SAT/etc scores. 
->>>>>>>>>>> As far as autism goes - formal autism diagnosis was reported in 4.4% of readers but according to the Australian bureau of statistics, its prevalence in Australia is 0.7% .
 >>>>>>>>>>> 
+>>>>>>>>>>> http://slatestarcodex.com/2017/03/17/ssc-survey-2017-results/
+>>>>>>>>>>> 
+>>>>>>>>>>> 55% of respondents are "atheist but not spiritual", compared with 10-20% in the general US population. 
+>>>>>>>>>>> 
+>>>>>>>>>>> The mean IQ is 138 - which is two+ standard deviations above the mean. I'd disbelieve it as self-report but *apparently* it cross-references with the reported SAT/etc scores. 
+>>>>>>>>>>> 
+>>>>>>>>>>> As far as autism goes - formal autism diagnosis was reported in 4.4% of readers but according to the Australian bureau of statistics, its prevalence in Australia is 0.7% .
 
->>>>>>>>>>>> **u/ben_oni** [-1] *
+>>>>>>>>>>>> **u/ben_oni** [-1]  (2 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> It almost sounds like you're proud of your monoculture.
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (2 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Less of a monoculture than the USA: 70% of them identify as Christian, so rationalists are less atheist than the US is Christian.
->>>>>>>>>>>>> IQ I'm still not entirely sure I believe - a mean of 138 is kind of ridiculous even if it agrees with everything else the SSC/LW surveys have measured as a proxy for it. But I don't think "high IQ" is a culture?
->>>>>>>>>>>>> And autism going from ~1% to 4.4% does not a monoculture make by any means...
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> IQ I'm still not entirely sure I believe - a mean of 138 is kind of ridiculous even if it agrees with everything else the SSC/LW surveys have measured as a proxy for it. But I don't think "high IQ" is a culture?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> And autism going from ~1% to 4.4% does not a monoculture make by any means...
 
->>>>>>>>> **u/genericaccounter** [+1] *
+>>>>>>>>> **u/genericaccounter** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> The obvious response is that the point of the rationalist community is to learn to evaluate beliefs based on predictions and evidence. Given the important nature of the truth of a religious belief, I would expect any person with a religious belief such as Christianity to attempt to present their evidence where it would either be refuted or be spread around. Since such a event has not happened something must be off. One possible explanation is that religion is even more of a mind killer than politics and thus people agreed not to talk about it, but you would expect that anyone who believed they possessed information about life after death would attempt to present their evidence. This is especially truth about religions where all non-believers either suffer eternal torment, or soul death. This should outweigh any other duties that I can conceive of. So if people in the rationalist community disagree over religious beliefs, then someone must be irrational. However I might be wrong. Please tell me if you spot any flaws in my logic. I would however be interested in seeing any data on the religious makeup of the rationalist community
->>>>>>>>> 
 
->>>>>>>>>> **u/ben_oni** [+0] *
+>>>>>>>>>> **u/ben_oni** [+0]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> It sounds like you're trying to argue that holding religious beliefs isn't rational. Again, that sort of thing only serves to make the community exclusive.
->>>>>>>>>> > Please tell me if you spot any flaws in my logic.
->>>>>>>>>> Sure:
->>>>>>>>>> > I would expect any person with a religious belief such as Christianity to attempt to present their evidence where it would either be refuted or be spread around.
->>>>>>>>>> I presume you've heard of proselyting?
->>>>>>>>>> > This is especially truth about religions where all non-believers either suffer eternal torment, or soul death.
->>>>>>>>>> I don't know what religions you might be talking about. I haven't heard of any with this sort of doctrine. At least, none that don't evangelize regularly.
 >>>>>>>>>> 
+>>>>>>>>>> > Please tell me if you spot any flaws in my logic.
+>>>>>>>>>> 
+>>>>>>>>>> Sure:
+>>>>>>>>>> 
+>>>>>>>>>> > I would expect any person with a religious belief such as Christianity to attempt to present their evidence where it would either be refuted or be spread around.
+>>>>>>>>>> 
+>>>>>>>>>> I presume you've heard of proselyting?
+>>>>>>>>>> 
+>>>>>>>>>> > This is especially truth about religions where all non-believers either suffer eternal torment, or soul death.
+>>>>>>>>>> 
+>>>>>>>>>> I don't know what religions you might be talking about. I haven't heard of any with this sort of doctrine. At least, none that don't evangelize regularly.
 
->>>>>>>>>>> **u/genericaccounter** [+2] *
+>>>>>>>>>>> **u/genericaccounter** [+2]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I apologize if I implied that religions were inherently irrational. I will give an example of my model of the thought process of a hypothetical rational individual belonging to a religion. I will use Christianity as that is the religion I am most familiar with. Let's take a standard Christian individual who has become perfectly rational. This Christian would look at the bible and pick up the fate of nonbelievers from lines such as   Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day (john 6:50-71) They would then logical decide the most important task is to persuade people to believe in God. Similar lines exist in the Quran with   "Allaah will not forgive them, nor will He guide them to any way. Except the way of Hell, to dwell therein forever” [al-Nisa’ 4:168-169] (These are quotes found on the internet from a quick Google search. If they are out of context I apologize and request you explain the context to me.
->>>>>>>>>>> Such a rational preacher would compile a list of the reasons that persuaded them to believe in their god. They would then present this list to others to attempt to persuade them of the existence of their God. Perhaps they would decide to attempt to convert famous outspoken atheists for the reason that they are instrumental in turning people atheists and be able to spot any flaws in the arguments so they can be fixed and others will not be able to use them against you. Every time a argument is countered, investigate and if the refutation is valid alter the list. Eventually the list will be either flawless , capable of convincing any who honestly consider it or nonexistent and the rational preacher will turn to a different religion or atheism. Such a perfectly rational preacher would likely have contact with the rationalist community and would explain their reasons which would convince any perfectly rational person who hears them which would start a chain reaction.
->>>>>>>>>>>  The flaws in this logic that I have realized after my last comment is that this requires several assumption such as the existence of a perfectly rational member of a religion that fits the characteristics above who thinks preaching is the most sensible use of time instead of say charity who thinks that the making of such a list is the best way of convincing people, and that they talk to the rationalist community who consider the argument that no one can find any flaws in as a compelling one. Especially considering the possibility that the evidence relies on the" My friend is psychic" style of  argument. So I have changed my mind from my former position.
->>>>>>>>>>>  But I do wish to clarify that my former position was that rationalists should tend towards the religious position with the most evidence which should be one of them not that it would be definitely atheism. This would also not apply with a position that does not require preaching which I believe is some religions through I do not know any           
->>>>>>>>>>> So in summary I have heard of proselyting but I assumed a rationalist preacher would amend arguments and so either be left with no evidence or be left with evidence that is highly compelling to any rationalist. However other factors are involved.
 >>>>>>>>>>> 
+>>>>>>>>>>> Such a rational preacher would compile a list of the reasons that persuaded them to believe in their god. They would then present this list to others to attempt to persuade them of the existence of their God. Perhaps they would decide to attempt to convert famous outspoken atheists for the reason that they are instrumental in turning people atheists and be able to spot any flaws in the arguments so they can be fixed and others will not be able to use them against you. Every time a argument is countered, investigate and if the refutation is valid alter the list. Eventually the list will be either flawless , capable of convincing any who honestly consider it or nonexistent and the rational preacher will turn to a different religion or atheism. Such a perfectly rational preacher would likely have contact with the rationalist community and would explain their reasons which would convince any perfectly rational person who hears them which would start a chain reaction.
+>>>>>>>>>>> 
+>>>>>>>>>>>  The flaws in this logic that I have realized after my last comment is that this requires several assumption such as the existence of a perfectly rational member of a religion that fits the characteristics above who thinks preaching is the most sensible use of time instead of say charity who thinks that the making of such a list is the best way of convincing people, and that they talk to the rationalist community who consider the argument that no one can find any flaws in as a compelling one. Especially considering the possibility that the evidence relies on the" My friend is psychic" style of  argument. So I have changed my mind from my former position.
+>>>>>>>>>>> 
+>>>>>>>>>>>  But I do wish to clarify that my former position was that rationalists should tend towards the religious position with the most evidence which should be one of them not that it would be definitely atheism. This would also not apply with a position that does not require preaching which I believe is some religions through I do not know any           
+>>>>>>>>>>> 
+>>>>>>>>>>> So in summary I have heard of proselyting but I assumed a rationalist preacher would amend arguments and so either be left with no evidence or be left with evidence that is highly compelling to any rationalist. However other factors are involved.
 
->>>> **u/Revive_Revival** [+2] *
+>>>> **u/Revive_Revival** [+2]  (a day later)
 >>>> 
 >>>> I wanted to ask, since I have never done much research about it, do atheists deny the existence of any higher beings? or only the existence of higher beings that were invented by us like the christian god and the like?
->>>> Do you deny the existence of life that could perhaps be capable of creating universes? what about beings existing in a higher plane or dimension than us? or is it that you merely won't accept their possible existence until there's any tangible proof of it?
->>>> What about the theories of life as we know it being merely a simulation inside some kind of supercomputer? From your point of view is that hypothetical supercomputer the same as God or an higher being?
->>>> Sorry if these things seem obvious or evident, i'm a bit ignorant when it comes to anything religion related. My brain tells me that you simply don't 'believe' in things blindly and until we don't have proof of something it simply does not exist. But is something whose proof of existence we don't posses necessarily not real? I mean, there's more to the universe than the "light" that reaches us, it's not like the universe stops at the edge of the observable universe... but then again we don't really have much proof of that either.
->>>> >It got to the point where we put a "no fedoras" sign on our stalls to stop people making fun of us. 
->>>> This will sound a bit fallacious (and might come out wrong) but would these people that can't get past stupid memes and stereotypes be of any use to you? I'm not trying to rationalize or comfort you mind you, i'm just merely saying that if someone can't get past a shallow concept like stereotypes, then they might be even less prepared to change their way of thinking and/or their beliefs.
 >>>> 
+>>>> Do you deny the existence of life that could perhaps be capable of creating universes? what about beings existing in a higher plane or dimension than us? or is it that you merely won't accept their possible existence until there's any tangible proof of it?
+>>>> 
+>>>> What about the theories of life as we know it being merely a simulation inside some kind of supercomputer? From your point of view is that hypothetical supercomputer the same as God or an higher being?
+>>>> 
+>>>> Sorry if these things seem obvious or evident, i'm a bit ignorant when it comes to anything religion related. My brain tells me that you simply don't 'believe' in things blindly and until we don't have proof of something it simply does not exist. But is something whose proof of existence we don't posses necessarily not real? I mean, there's more to the universe than the "light" that reaches us, it's not like the universe stops at the edge of the observable universe... but then again we don't really have much proof of that either.
+>>>> 
+>>>> >It got to the point where we put a "no fedoras" sign on our stalls to stop people making fun of us. 
+>>>> 
+>>>> This will sound a bit fallacious (and might come out wrong) but would these people that can't get past stupid memes and stereotypes be of any use to you? I'm not trying to rationalize or comfort you mind you, i'm just merely saying that if someone can't get past a shallow concept like stereotypes, then they might be even less prepared to change their way of thinking and/or their beliefs.
 
->>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>>>> 
 >>>>> >do atheists deny the existence of any higher beings? or only the existence of higher beings that were invented by us like the christian god and the like?
->>>>> Depends on the atheist and your definition of higher being, I guess. I don't think any atheist I know would deny that there are likely aliens with better technology than ours (and I know *quite a few* from being highly active in the community  from ~2006-2013 and moderately active since---I've been to two "global atheist conventions", organised and spoken at student events including one where celebrities such as Daniel Dennett and Richard Dawkins were special guests, attended creationist talks, etc).  
->>>>> > or is it that you merely won't accept their possible existence until there's any tangible proof of it?
->>>>> Basically, yeah. But I want to be very clear: many christians will jump from this to saying "since you think it's *not impossible* that an alien in another universe created the earth, then it's totally reasonable to believe that [violence exists because people listened to a talking snake once](https://en.wikipedia.org/wiki/Adam_and_Eve#Eden_narrative_(the_Fall\))". 
->>>>> Also, the word "higher dimensions" - what do you actually mean by that? My husband's a pure mathematician who is interested in higher dimensional geometry and the word "dimension" as used in science-fiction basically... doesn't have any sort of "real" meaning.
->>>>> > From your point of view is that hypothetical supercomputer the same as God or an higher being?
->>>>> The hypothetical supercomputer didn't come into being [after another supercomputer assembled the parts of her murdered supercomputer husband](https://en.wikipedia.org/wiki/Horus), so no.
->>>>> > But is something whose proof of existence we don't posses necessarily not real?
->>>>> No, just like the platypus still existed before Western scientists had a stuffed specimen sent to them. But of all the strange beasts imagined in mythology, the platypus was not one of them, and it was the strangest beast that turned out to be real. 
->>>>> But there's a huge difference between "maybe we're in a supercomputer isn't that interesting" and "i can't know everything therefore I am going to [name my child with a name starting with the first letter of the first page i open the holy book to](https://en.wikipedia.org/wiki/Sikhism#Ceremonies_and_customs)". 
->>>>> >  would these people that can't get past stupid memes and stereotypes be of any use to you
->>>>> Maybe we could be of use to them? 
->>>>> Besides, the "no fedoras" sign was to appeal to people like myself: people who are interested in atheism, science, and skepticism but who are afraid of joining a group that is on the "wrong side" of the "we-need-feminism/feminism-is-no-longer-needed" divide. It's signalling where we fall, that we a sense of humour, etc.
->>>>> It was also to be funny and because passers by the previous year had jeered fedora jokes at us. May as well laugh with them, right?
 >>>>> 
+>>>>> Depends on the atheist and your definition of higher being, I guess. I don't think any atheist I know would deny that there are likely aliens with better technology than ours (and I know *quite a few* from being highly active in the community  from ~2006-2013 and moderately active since---I've been to two "global atheist conventions", organised and spoken at student events including one where celebrities such as Daniel Dennett and Richard Dawkins were special guests, attended creationist talks, etc).  
+>>>>> 
+>>>>> > or is it that you merely won't accept their possible existence until there's any tangible proof of it?
+>>>>> 
+>>>>> Basically, yeah. But I want to be very clear: many christians will jump from this to saying "since you think it's *not impossible* that an alien in another universe created the earth, then it's totally reasonable to believe that [violence exists because people listened to a talking snake once](https://en.wikipedia.org/wiki/Adam_and_Eve#Eden_narrative_(the_Fall\))". 
+>>>>> 
+>>>>> Also, the word "higher dimensions" - what do you actually mean by that? My husband's a pure mathematician who is interested in higher dimensional geometry and the word "dimension" as used in science-fiction basically... doesn't have any sort of "real" meaning.
+>>>>> 
+>>>>> > From your point of view is that hypothetical supercomputer the same as God or an higher being?
+>>>>> 
+>>>>> The hypothetical supercomputer didn't come into being [after another supercomputer assembled the parts of her murdered supercomputer husband](https://en.wikipedia.org/wiki/Horus), so no.
+>>>>> 
+>>>>> > But is something whose proof of existence we don't posses necessarily not real?
+>>>>> 
+>>>>> No, just like the platypus still existed before Western scientists had a stuffed specimen sent to them. But of all the strange beasts imagined in mythology, the platypus was not one of them, and it was the strangest beast that turned out to be real. 
+>>>>> 
+>>>>> But there's a huge difference between "maybe we're in a supercomputer isn't that interesting" and "i can't know everything therefore I am going to [name my child with a name starting with the first letter of the first page i open the holy book to](https://en.wikipedia.org/wiki/Sikhism#Ceremonies_and_customs)". 
+>>>>> 
+>>>>> >  would these people that can't get past stupid memes and stereotypes be of any use to you
+>>>>> 
+>>>>> Maybe we could be of use to them? 
+>>>>> 
+>>>>> Besides, the "no fedoras" sign was to appeal to people like myself: people who are interested in atheism, science, and skepticism but who are afraid of joining a group that is on the "wrong side" of the "we-need-feminism/feminism-is-no-longer-needed" divide. It's signalling where we fall, that we a sense of humour, etc.
+>>>>> 
+>>>>> It was also to be funny and because passers by the previous year had jeered fedora jokes at us. May as well laugh with them, right?
 
->>>>>> **u/Revive_Revival** [+1] *
+>>>>>> **u/Revive_Revival** [+1]  (a day later)
 >>>>>> 
 >>>>>> Ah I see, thank you for clearing my doubts. When put in that way your point of view sounds logical and very reasonable. I had to ask because I have plenty of atheist friends and acquaintances yet atheism often seems to have a different meaning to different people. Which I guess by itself isn't all that surprising since that's how people are, but as someone who isn't that well versed on both theism/atheism it can be a bit... overwhelming.
->>>>>> >Also, the word "higher dimensions" - what do you actually mean by that? My husband's a pure mathematician who is interested in higher dimensional geometry and the word "dimension" as used in science-fiction basically... doesn't have any sort of "real" meaning.
->>>>>> That's merely blabbing from my part. I always found the concept of a being that is to us what we are to a 2D drawing amusing and more plausible than anything found in the bible. Similar to life as a simulation, if our reality inside this simulation is to the being running the simulation what a movie or a videogame (or our own simulations of the universe and its rules) are to us. That's what I refer to as a higher plane or "dimension", a place with a superior level of reality where we are merely encapsulated. I know this concept probably has another name (that unfortunately I currently am ignorant of) but when explaining it to other people the word dimension seems to be the most easily understood.
->>>>>> >Besides, the "no fedoras" sign was to appeal to people like myself: people who are interested in atheism, science, and skepticism but who are afraid of joining a group that is on the "wrong side" of the "we-need-feminism/feminism-is-no-longer-needed" divide. It's signalling where we fall, that we a sense of humour, etc. It was also to be funny and because passers by the previous year had jeered fedora jokes at us. May as well laugh with them, right? 
->>>>>> Ah I didn't consider that, you're right, you're absolutely right.
 >>>>>> 
+>>>>>> >Also, the word "higher dimensions" - what do you actually mean by that? My husband's a pure mathematician who is interested in higher dimensional geometry and the word "dimension" as used in science-fiction basically... doesn't have any sort of "real" meaning.
+>>>>>> 
+>>>>>> That's merely blabbing from my part. I always found the concept of a being that is to us what we are to a 2D drawing amusing and more plausible than anything found in the bible. Similar to life as a simulation, if our reality inside this simulation is to the being running the simulation what a movie or a videogame (or our own simulations of the universe and its rules) are to us. That's what I refer to as a higher plane or "dimension", a place with a superior level of reality where we are merely encapsulated. I know this concept probably has another name (that unfortunately I currently am ignorant of) but when explaining it to other people the word dimension seems to be the most easily understood.
+>>>>>> 
+>>>>>> >Besides, the "no fedoras" sign was to appeal to people like myself: people who are interested in atheism, science, and skepticism but who are afraid of joining a group that is on the "wrong side" of the "we-need-feminism/feminism-is-no-longer-needed" divide. It's signalling where we fall, that we a sense of humour, etc. It was also to be funny and because passers by the previous year had jeered fedora jokes at us. May as well laugh with them, right? 
+>>>>>> 
+>>>>>> Ah I didn't consider that, you're right, you're absolutely right.
 
->>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 >>>>>>> 
 >>>>>>> >  I always found the concept of a being that is to us what we are to a 2D drawing amusing and more plausible than anything found in the bible.
->>>>>>> Yeah, that idea isn't really common in science fiction but is basically the "true"  meaning of "other dimensions" - Flatland, which can be found free as it's out of copyright, is the canonical treatment of it in sci-fi. Flatterland is a recent fiction book that teaches complex mathematics that is also about the same sort of thing, using the conceit of being a sequel to Flatland, and I highly recommend that one. 
->>>>>>> Fun fact: I'm writing a supernatural romance novel and I have used the fourth dimension to explain how transformation can work and also change an object's weight. It made writing the transformation scenes really fun: 
->>>>>>> *There was a momentary pause as the creature's skin began to change its pattern minutely, as though the skin was a pond that had had stones thrown into it, ripples propagating across it. It made Red's eyes hurt a little to look at, as they kept trying to make minute changes to the way they focused on this strange, vibrating skin.*
->>>>>>> *The gargoyle’s tail began to grow thinner, as did the hands, horns, wings, and arms as the whole creature began shrinking. Soon, the wings were connected to its body by only a thin tendril that looked like it could not support them before that too disappeared into nothingness, leaving the shapeless beige blobs that once were its wings seeming to float in mid-air. The blobs began to grow smaller until they could no longer be seen. The creature stretched its body upwards, finally able to stand straight as it reached a more reasonable eight foot height. It shrunk another foot, and settled there. Its horns had now disappeared entirely, and its ears had migrated from the top of its head down to where one might expect them to be, changing from their previously ovine appearance into a more familiar human shape. Thick black hair had begun to grow out of its skull, quickly settling on a fashionable short style with a prominent side part.*
->>>>>>> *Indeed, the creature was looking mostly human now, and unclothed and clearly male. Red was tempted to look away, preserve some of its dignity, but he could not avert his eyes. This was like nothing he'd ever seen.*
->>>>>>> *Finally, a brown belt appeared around his waist, looped onto a piece of black cloth that was scarcely wider than the belt itself. A tie appeared around his neck, similarly attached to a shirt collar, but no shirt. A pair of brown shoes - tied with laces - appeared on his feet.*
->>>>>>> *The scantily clad man grabbed at his collar, and the rest of the shirt seemed to come into being all of a sudden, rippling momentarily in an unseen breeze. The effect gave Red a slight headache. The tall man performed a similar gesture on his belt, and the pants came into view with much the same effect. Red breathed a sigh of relief; he was glad not to have to find clothing for such a tall man.*
->>>>>>> > Ah I didn't consider that, you're right, you're absolutely right.
->>>>>>> And the fedora sign was very popular the year we did it, so :)
 >>>>>>> 
+>>>>>>> Yeah, that idea isn't really common in science fiction but is basically the "true"  meaning of "other dimensions" - Flatland, which can be found free as it's out of copyright, is the canonical treatment of it in sci-fi. Flatterland is a recent fiction book that teaches complex mathematics that is also about the same sort of thing, using the conceit of being a sequel to Flatland, and I highly recommend that one. 
+>>>>>>> 
+>>>>>>> Fun fact: I'm writing a supernatural romance novel and I have used the fourth dimension to explain how transformation can work and also change an object's weight. It made writing the transformation scenes really fun: 
+>>>>>>> 
+>>>>>>> *There was a momentary pause as the creature's skin began to change its pattern minutely, as though the skin was a pond that had had stones thrown into it, ripples propagating across it. It made Red's eyes hurt a little to look at, as they kept trying to make minute changes to the way they focused on this strange, vibrating skin.*
+>>>>>>> 
+>>>>>>> *The gargoyle’s tail began to grow thinner, as did the hands, horns, wings, and arms as the whole creature began shrinking. Soon, the wings were connected to its body by only a thin tendril that looked like it could not support them before that too disappeared into nothingness, leaving the shapeless beige blobs that once were its wings seeming to float in mid-air. The blobs began to grow smaller until they could no longer be seen. The creature stretched its body upwards, finally able to stand straight as it reached a more reasonable eight foot height. It shrunk another foot, and settled there. Its horns had now disappeared entirely, and its ears had migrated from the top of its head down to where one might expect them to be, changing from their previously ovine appearance into a more familiar human shape. Thick black hair had begun to grow out of its skull, quickly settling on a fashionable short style with a prominent side part.*
+>>>>>>> 
+>>>>>>> *Indeed, the creature was looking mostly human now, and unclothed and clearly male. Red was tempted to look away, preserve some of its dignity, but he could not avert his eyes. This was like nothing he'd ever seen.*
+>>>>>>> 
+>>>>>>> *Finally, a brown belt appeared around his waist, looped onto a piece of black cloth that was scarcely wider than the belt itself. A tie appeared around his neck, similarly attached to a shirt collar, but no shirt. A pair of brown shoes - tied with laces - appeared on his feet.*
+>>>>>>> 
+>>>>>>> *The scantily clad man grabbed at his collar, and the rest of the shirt seemed to come into being all of a sudden, rippling momentarily in an unseen breeze. The effect gave Red a slight headache. The tall man performed a similar gesture on his belt, and the pants came into view with much the same effect. Red breathed a sigh of relief; he was glad not to have to find clothing for such a tall man.*
+>>>>>>> 
+>>>>>>> > Ah I didn't consider that, you're right, you're absolutely right.
+>>>>>>> 
+>>>>>>> And the fedora sign was very popular the year we did it, so :)
 
->>>>>>>> **u/ben_oni** [+1] *
+>>>>>>>> **u/ben_oni** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> > Yeah, that idea isn't really common in science fiction but is basically the "true" meaning of "other dimensions" - Flatland, which can be found free as it's out of copyright, is the canonical treatment of it in sci-fi.
->>>>>>>> Remembering, of course, that Flatland is social satire.
->>>>>>>> ---
->>>>>>>> As I understand the topic, beings that exist in more physical dimensions may be more geometrically complex, but essentially the same as us. More physical dimensions to operate in may allow for faster computations, but not really different. They would still ponder the unknowable questions of life.
->>>>>>>> As colloquially used, the idea of beings that exist in a higher dimension is about beings that transcend the essential limitations: thought, time, space, etc. And this interpretation isn't necessarily distinct from the geometric meaning of dimensionality: What if instead of existing in 3 dimensions like us, they exist in 3 dimensions *and also 2 temporal dimensions*?
->>>>>>>> The problem, from out perspective, is that this plays merry hell with the [fundamental](https://en.wikipedia.org/wiki/Wave_equation) [PDEs](https://en.wikipedia.org/wiki/Dirac_equation) of physics.
 >>>>>>>> 
+>>>>>>>> Remembering, of course, that Flatland is social satire.
+>>>>>>>> 
+>>>>>>>> ---
+>>>>>>>> 
+>>>>>>>> As I understand the topic, beings that exist in more physical dimensions may be more geometrically complex, but essentially the same as us. More physical dimensions to operate in may allow for faster computations, but not really different. They would still ponder the unknowable questions of life.
+>>>>>>>> 
+>>>>>>>> As colloquially used, the idea of beings that exist in a higher dimension is about beings that transcend the essential limitations: thought, time, space, etc. And this interpretation isn't necessarily distinct from the geometric meaning of dimensionality: What if instead of existing in 3 dimensions like us, they exist in 3 dimensions *and also 2 temporal dimensions*?
+>>>>>>>> 
+>>>>>>>> The problem, from out perspective, is that this plays merry hell with the [fundamental](https://en.wikipedia.org/wiki/Wave_equation) [PDEs](https://en.wikipedia.org/wiki/Dirac_equation) of physics.
 
->>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (4 days later)
 >>>>>>>>> 
 >>>>>>>>> > Remembering, of course, that Flatland is social satire.
->>>>>>>>> Sure, but it *does* have the fourth dimension! Flatterland has that but moreso and other crazy geometric planes. Like the one were parallel lines meet and stuff. It was a great read. It's really a popular mathematics book disguised as a story. Actually, I think it's just a popular mathematics book.
->>>>>>>>> Regardless my partner had his mind blown when he read the part about things being 2.376 dimensional (which is a thing. for real.)
->>>>>>>>> > What if instead of existing in 3 dimensions like us, they exist in 3 dimensions and also 2 temporal dimensions?
->>>>>>>>> Kind of like "Story of Your Life", I guess, for a certain interpretation of it.
 >>>>>>>>> 
+>>>>>>>>> Sure, but it *does* have the fourth dimension! Flatterland has that but moreso and other crazy geometric planes. Like the one were parallel lines meet and stuff. It was a great read. It's really a popular mathematics book disguised as a story. Actually, I think it's just a popular mathematics book.
+>>>>>>>>> 
+>>>>>>>>> Regardless my partner had his mind blown when he read the part about things being 2.376 dimensional (which is a thing. for real.)
+>>>>>>>>> 
+>>>>>>>>> > What if instead of existing in 3 dimensions like us, they exist in 3 dimensions and also 2 temporal dimensions?
+>>>>>>>>> 
+>>>>>>>>> Kind of like "Story of Your Life", I guess, for a certain interpretation of it.
 
->>> **u/vakusdrake** [+4] *
+>>> **u/vakusdrake** [+5]  (7 hours later)
 >>> 
 >>> Sympathetic to paperclippers in the same sense that people into the Lovecraft mythos are sympathetic to eldritch horrors ;)
->>> 
 
->> **u/Peewee223** [+1] *
+>> **u/Peewee223** [+1]  (a day later)
 >> 
 >> I believe you've mixed up least and most.
->> At least two people -> just can't be one person at a time, must be two or more. Similarly, I think you intended to be a "cooldown" of 3 days, but it actually says you have to use the power once in every 3 day period, as a minimum.
->> Anyway the mind control thing is just icing on the cake - you should learn as much as possible about social engineering to do most of your work.
 >> 
+>> At least two people -> just can't be one person at a time, must be two or more. Similarly, I think you intended to be a "cooldown" of 3 days, but it actually says you have to use the power once in every 3 day period, as a minimum.
+>> 
+>> Anyway the mind control thing is just icing on the cake - you should learn as much as possible about social engineering to do most of your work.
 
-> **u/buckykat** [+2] *
+> **u/buckykat** [+2]  (8 hours later)
 > 
 > How would you extract a human from a hostile earth?
-> You: in the asteroid belt with plenty of mass, energy, and manufacturing capability, but no fusion torches. No new physics.
-> A human: about 60 kilos of meat and gristle. Usual problems with acceleration, temperature, and pressure. Location/identity known to you but not hostile groundhogs.
-> A hostile earth: 1g surface acceleration, couple hundred klicks of atmosphere, modern tech. Locals wish to shoot you, but can't strike past LEO. They will settle for shooting your human if they identify them.
-> Hard mode: no threatening the civilian population.
 > 
+> You: in the asteroid belt with plenty of mass, energy, and manufacturing capability, but no fusion torches. No new physics.
+> 
+> A human: about 60 kilos of meat and gristle. Usual problems with acceleration, temperature, and pressure. Location/identity known to you but not hostile groundhogs.
+> 
+> A hostile earth: 1g surface acceleration, couple hundred klicks of atmosphere, modern tech. Locals wish to shoot you, but can't strike past LEO. They will settle for shooting your human if they identify them.
+> 
+> Hard mode: no threatening the civilian population.
 
->> **u/KilotonDefenestrator** [+4] *
+>> **u/KilotonDefenestrator** [+3]  (19 hours later)
 >> 
 >> What do you mean with "plenty"? Can I build a few hundred thousand modules capable of landing, taking on board one passenger and returning to the asteroid belt (possibly refueling both on ground and in orbit from yet more modules)? I.e. a bit like a one-man version of Elon Musk's BFR, with off-road landing gear.  
->> And then send them all at the same time, essentially saturating Earth's defenses (bundled up in a black-painted radar-deflecting stealth shell for the approach to make it extremely unlikely to be detected until days or weeks before landfall). 
->> The landers would carefully spread out across Earth or at least the continent to avoid identifying "my" human, and to make sure that all the known defenses are busy shooting down nonessential pods. They would all land and take off, just like the one carrying "my" human. There are no weapons, just flares, radar jamming, etc on the pods. The only damage to Earth is the wrecks shot down, and possibly brush fires started where pods land, although dry areas will be avoided when possible.
->> Once the human is secured in orbit, the remaining pods would return with it, acting as decoys (or shields) to prevent any rapidly developed or unknown weapons from reaching the human.
 >> 
+>> And then send them all at the same time, essentially saturating Earth's defenses (bundled up in a black-painted radar-deflecting stealth shell for the approach to make it extremely unlikely to be detected until days or weeks before landfall). 
+>> 
+>> The landers would carefully spread out across Earth or at least the continent to avoid identifying "my" human, and to make sure that all the known defenses are busy shooting down nonessential pods. They would all land and take off, just like the one carrying "my" human. There are no weapons, just flares, radar jamming, etc on the pods. The only damage to Earth is the wrecks shot down, and possibly brush fires started where pods land, although dry areas will be avoided when possible.
+>> 
+>> Once the human is secured in orbit, the remaining pods would return with it, acting as decoys (or shields) to prevent any rapidly developed or unknown weapons from reaching the human.
 
->>> **u/buckykat** [+3] *
+>>> **u/buckykat** [+3]  (a day later)
 >>> 
 >>> > Can I build a few hundred thousand modules capable of landing, taking on board one passenger and returning to the asteroid belt (possibly refueling both on ground and in orbit from yet more modules)? I.e. a bit like a one-man version of Elon Musk's BFR, with off-road landing gear. 
->>> You can build all the modules you want, but remember that a chemical rocket that can even make orbit from Earth needs to be a thing the size of a skyscraper with the mass fraction of a soda can, at the point of leaving the surface. The BFR plan works for Mars because Mars is much smaller, needing less than half the dV you would on Earth to get to orbit. Aerobraking and soft landing something the size of an orbital rocket from a flyby trajectory would be extremely exciting.
 >>> 
+>>> You can build all the modules you want, but remember that a chemical rocket that can even make orbit from Earth needs to be a thing the size of a skyscraper with the mass fraction of a soda can, at the point of leaving the surface. The BFR plan works for Mars because Mars is much smaller, needing less than half the dV you would on Earth to get to orbit. Aerobraking and soft landing something the size of an orbital rocket from a flyby trajectory would be extremely exciting.
 
->>>> **u/KilotonDefenestrator** [+1] *
+>>>> **u/KilotonDefenestrator** [+1]  (2 days later)
 >>>> 
 >>>> I was more thinking of landing first and second stage, refuelling from a few other landed stages and climbing into orbit like current rockets do (with a payload of 100kg instead of several tons).
->>>> Then refuel again in orbit (or switch to a different vehicle) and push for the belt. 
->>>> I do a slow transfer orbit (in the stealthed shell) to Earth, keeping delta v manageable, and burn more aggressively when leaving.
 >>>> 
+>>>> Then refuel again in orbit (or switch to a different vehicle) and push for the belt. 
+>>>> 
+>>>> I do a slow transfer orbit (in the stealthed shell) to Earth, keeping delta v manageable, and burn more aggressively when leaving.
 
->> **u/Izeinwinter** [+3] *
+>> **u/Izeinwinter** [+3]  (a day later)
 >> 
 >> There is no stealth in space is the main problem, with the secondary problem being that your extractee is squishy and easy to shoot. So.. Sending a lander that can take off is just going to be way too obvious, which makes rendevous dangerous. Uhm. Okay, lets keep it simple: We drop something valuable. A *small* lander will not trip the meteor warning systems the way a full spacecraft would. 
+>> 
 >> A high-quality fake painting, 70 kilos of gold. Whatever seems best for not being obviously "cash transfer from the sky".  Also in care package: 
 >> High-grade Fissiles. Now we build a *fission* torch ship.
->> https://en.wikipedia.org/wiki/Fission-fragment_rocket.
->> Using a fission fragment reactor to heat reaction mass will let you build a high-thrust engine with ridiculus isp. It does not even have to expel the fragments - you can convert the output of the reactor to (a gigawatt of) electricity and use an electric arc to heat reaction mass to ten-thousand  kelvin with no radioactive release to the environment. This is a single-stage to earth-escape velocity design, and the best part is? Noone will flag most of the stuff you are buying as rocket parts. You are obviously doing a bunch of work with plasma and magnets, but that should not raise flags
 >> 
+>> https://en.wikipedia.org/wiki/Fission-fragment_rocket.
+>> 
+>> Using a fission fragment reactor to heat reaction mass will let you build a high-thrust engine with ridiculus isp. It does not even have to expel the fragments - you can convert the output of the reactor to (a gigawatt of) electricity and use an electric arc to heat reaction mass to ten-thousand  kelvin with no radioactive release to the environment. This is a single-stage to earth-escape velocity design, and the best part is? Noone will flag most of the stuff you are buying as rocket parts. You are obviously doing a bunch of work with plasma and magnets, but that should not raise flags
 
->>> **u/buckykat** [+2] *
+>>> **u/buckykat** [+2]  (a day later)
 >>> 
 >>> On the one hand, there's no stealth in space. On the other hand, every few months NASA announces they discovered a new dino-killer class asteroid just as it whipped by closer than the moon.
->>> A fission fragment rocket would be able to do the launch, but you won't just be obviously doing a bunch of work with plasma and magnets, but also obviously doing a bunch of work with fissionables, which is one of those things that draws international attention real quick.
->>> Unfortunately, running a fission fragment rocket in someone's atmosphere is pretty fucking threatening. And electric arcjet rockets sacrifice TWR for their high Isp.
 >>> 
+>>> A fission fragment rocket would be able to do the launch, but you won't just be obviously doing a bunch of work with plasma and magnets, but also obviously doing a bunch of work with fissionables, which is one of those things that draws international attention real quick.
+>>> 
+>>> Unfortunately, running a fission fragment rocket in someone's atmosphere is pretty fucking threatening. And electric arcjet rockets sacrifice TWR for their high Isp.
 
->> **u/ben_oni** [+1] *
+>> **u/ben_oni** [+1]  (15 hours later)
 >> 
 >> Can we tap into the planetsider's communication net? If so, why not just trick them into sending the target to us?
->> 
 
->>> **u/buckykat** [+1] *
+>>> **u/buckykat** [+1]  (16 hours later)
 >>> 
 >>> A) modern earth can't actually send humans BLEO
->>> B) astronaut candidates are screened six ways from Sunday and you don't want any extra scrutiny on your human
 >>> 
+>>> B) astronaut candidates are screened six ways from Sunday and you don't want any extra scrutiny on your human
 
->>>> **u/ben_oni** [+1] *
+>>>> **u/ben_oni** [+1]  (a day later)
 >>>> 
 >>>> > A) modern earth can't actually send humans BLEO
->>>> Can and have.
->>>> > B) astronaut candidates are screened six ways from Sunday and you don't want any extra scrutiny on your human
->>>> Instead of relying on government space programs, we'll start up a privatized space program.
->>>> 1. Create a corporation and gather funds. This front will need to be a legitimate business.
->>>> 2. Develop a division to work on space technology. Start by building rockets to deliver payloads into LEO.
->>>> 3. Propose a manned mission that goes beyond LEO. A lunar landing, or an asteroid capture. Fund the mission privately, and have it manned by the target human.
->>>> 4. Pick up the target from beyond LEO.
 >>>> 
+>>>> Can and have.
+>>>> 
+>>>> > B) astronaut candidates are screened six ways from Sunday and you don't want any extra scrutiny on your human
+>>>> 
+>>>> Instead of relying on government space programs, we'll start up a privatized space program.
+>>>> 
+>>>> 1. Create a corporation and gather funds. This front will need to be a legitimate business.
+>>>> 
+>>>> 2. Develop a division to work on space technology. Start by building rockets to deliver payloads into LEO.
+>>>> 
+>>>> 3. Propose a manned mission that goes beyond LEO. A lunar landing, or an asteroid capture. Fund the mission privately, and have it manned by the target human.
+>>>> 
+>>>> 4. Pick up the target from beyond LEO.
 
->>>>> **u/MereInterest** [+2] *
+>>>>> **u/MereInterest** [+2]  (a day later)
 >>>>> 
 >>>>> > > A) modern earth can't actually send humans BLEO
+>>>>> 
 >>>>> > Can and have.
+>>>>> 
 >>>>> I think /u/buckykat is referring to the loss of institutional knowledge at NASA since the 70s.  For the past 40 years, no human has gone beyond low-earth orbit.  I would say that we have gone beyond LEO, but we currently cannot without additional investment.
->>>>> 
 
->>>>> **u/buckykat** [+1] *
+>>>>> **u/buckykat** [+1]  (a day later)
 >>>>> 
 >>>>> > Can and have.
->>>>> Could and did, but can't anymore. The only extant human rated launch systems are Soyuz and Long March, neither of which can reach past LEO.
 >>>>> 
+>>>>> Could and did, but can't anymore. The only extant human rated launch systems are Soyuz and Long March, neither of which can reach past LEO.
 
->>>>>> **u/ben_oni** [+1] *
+>>>>>> **u/ben_oni** [+1]  (a day later)
 >>>>>> 
 >>>>>> Can't? Hardly. The infrastructure might not exist, but that's hardly a limitation. The motivation doesn't exist; change that, and we could rebuild the infrastructure faster than you think.
->>>>>> I mean, it's not like calling a cab and saying "Take me to the moon, and step on it. How much am I gonna owe you?" That isn't to say it's impossible. The technology exists, the industrial infrastructure exists. Building the launch systems is the easy part. Expensive, but relatively easy.
 >>>>>> 
+>>>>>> I mean, it's not like calling a cab and saying "Take me to the moon, and step on it. How much am I gonna owe you?" That isn't to say it's impossible. The technology exists, the industrial infrastructure exists. Building the launch systems is the easy part. Expensive, but relatively easy.
 
->>>>>>> **u/buckykat** [+2] *
+>>>>>>> **u/buckykat** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Can't now, and can't in less than eight years, if the last two presidencies are anything to go by.
->>>>>>> If you could manage to sneak your human in an idiot balloon into Musk's Tesla ~~next~~ this week, they might survive. Might not, too, and few things are more carefully watched than a rocket about to launch.
->>>>>>> Edit: FH initial launch date
 >>>>>>> 
+>>>>>>> If you could manage to sneak your human in an idiot balloon into Musk's Tesla ~~next~~ this week, they might survive. Might not, too, and few things are more carefully watched than a rocket about to launch.
+>>>>>>> 
+>>>>>>> Edit: FH initial launch date
 
->>>>>>>> **u/ben_oni** [+1] *
+>>>>>>>> **u/ben_oni** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> I don't see what the presidency has to do with this. I thought I said "space privatization"?
->>>>>>>> Then again, I never asked: what kind of timeframe is there for this extraction operation?
 >>>>>>>> 
+>>>>>>>> Then again, I never asked: what kind of timeframe is there for this extraction operation?
 
->>>>>>>>> **u/buckykat** [+1] *
+>>>>>>>>> **u/buckykat** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I was referring to how the US failed to develop a BLEO capability with the Ares system within W's presidency, then failed again to develop BLEO capability with the SLS within Obama's presidency, and now NASA is being retasked yet again. It takes a lot of time to develop new launch systems. More, if you're going to trust human lives to them. The first public mention of Falcon Heavy was in 2004.
->>>>>>>>> I never specified a timeframe except the implicit human lifetime, but a decade and a half seems a bit much.
 >>>>>>>>> 
+>>>>>>>>> I never specified a timeframe except the implicit human lifetime, but a decade and a half seems a bit much.
 
->>>>> **u/lordcirth** [+1] *
+>>>>> **u/lordcirth** [+1]  (2 days later)
 >>>>> 
 >>>>> How do you bootstrap to having that kind of money?
->>>>> 
 
->>>>>> **u/ben_oni** [+2] *
+>>>>>> **u/ben_oni** [+2]  (2 days later)
 >>>>>> 
 >>>>>> Sell information services?
->>>>>> 
 
->>>>>>> **u/lordcirth** [+2] *
+>>>>>>> **u/lordcirth** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> Hmm, with mass, energy, and really good replicators you could build computing clusters and sell batch compute.  You could even build high efficiency, ultra low temp CPUs.
->>>>>>> 
 
->>>>> **u/buckykat** [+1] *
+>>>>> **u/buckykat** [+1]  (3 days later)
 >>>>> 
 >>>>> [Apparently you win. I swear this isn't where I was going with this question](https://twitter.com/elonmusk/status/961083704230674438)
->>>>> 
 
->>>>>> **u/twinkiac** [+1] *
+>>>>>> **u/twinkiac** [+1]  (7 days later)
 >>>>>> 
 >>>>>> [@elonmusk's latest tweet](https://i.imgur.com/lFqM31T.jpg)
->>>>>> [@elonmusk on Twitter](https://twitter.com/elonmusk)
->>>>>> -
->>>>>> ^I ^am ^a ^bot ^| ^[feedback](https://www.reddit.com/message/compose/?to=twinkiac)
 >>>>>> 
+>>>>>> [@elonmusk on Twitter](https://twitter.com/elonmusk)
+>>>>>> 
+>>>>>> -
+>>>>>> 
+>>>>>> ^I ^am ^a ^bot ^| ^[feedback](https://www.reddit.com/message/compose/?to=twinkiac)
 
-> **u/earzo7** [+2] *
+> **u/earzo7** [+2]  (10 hours later)
 > 
 > You cannot see into the future, instead, you taste into the future. Any food you eat can be tasted exactly 5 seconds before it enters your mouth. Food currently in your mouth has no flavor because the flavor is sent back in time.
-> The future is not predestined, so if you taste spoiled milk while bringing a cup to your face, you can choose not to take a drink and the flavor will go away.
-> What do you do with this?
 > 
+> The future is not predestined, so if you taste spoiled milk while bringing a cup to your face, you can choose not to take a drink and the flavor will go away.
+> 
+> What do you do with this?
 
->> **u/ben_oni** [+4] *
+>> **u/ben_oni** [+4]  (17 hours later)
 >> 
 >> Step one, increase the time messages can be sent back.
+>> 
 >> 1. Think of a yes-or-no question you want answered. Something to which the answer will be available in an hour or so.
+>> 
 >> 2. Prepare two different things to eat, say Hot Tamales and Sour Patch Kids. Hot means "yes", Sour means "no". Commit to eating one as soon as you taste it (less than five seconds later) *or* as soon as you have the answer to the question from part 1.
+>> 
 >> If your careful, you might be able to send messages back up to 12 hours. And once you have an answer to one question, you can immediately commit to another question, allowing you to get any number of answers from 12 hours in the future in a very short time.
+>> 
 >> ---
+>> 
 >> Suppose we are searching for some very large number that satisfies some condition. We'll write it out in binary. We'll use flavored lollipops this time.
+>> 
 >> Every five seconds, we'll write out one of the digits of the number.
+>> 
 >> * (*Acceptance*) If we taste Hot, write a '1', if we taste Sour, write a '0'.
 >> * * In either case, check the previous digit. '0': eat Sour; '1': eat Hot. (Ignore this for the first digit.)
 >> * (*Rejection*) If we don't taste anything, check the previous digit. '0': eat Hot; '1': eat Sour. Write a '0'.
->> When we've finished writing out the number see if it satisfies the condition. If yes, check the last digit: if it's '0', eat Sour, if '1' eat Hot. If the number does not match the condition, eat nothing.
->> We now have an efficient method of cracking encryption, passwords, etc.
->> ---
->> So, world domination? Brute force math and science problems? Develop immortality? Be your own UFAI!
 >> 
+>> When we've finished writing out the number see if it satisfies the condition. If yes, check the last digit: if it's '0', eat Sour, if '1' eat Hot. If the number does not match the condition, eat nothing.
+>> 
+>> We now have an efficient method of cracking encryption, passwords, etc.
+>> 
+>> ---
+>> 
+>> So, world domination? Brute force math and science problems? Develop immortality? Be your own UFAI!
 
->>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast* (a day later)
 >>> 
 >>> Don't do this , it won't work.you are optimizing for anything that convinces you to stop , which is different from the correct answer, and the first result  is unlikely to be the correct answer if the space you are searching is big enough.
->>> I really need to finnish writing my long rant about  time loops and optimization proceses .
 >>> 
+>>> I really need to finnish writing my long rant about  time loops and optimization proceses .
 
->>>> **u/Gurkenglas** [+2] *
+>>>> **u/Gurkenglas** [+2]  (a day later)
 >>>> 
 >>>> The space he is searching here is linear, not exponential, so he's probably fine if he uses ordinary paranoia in his experimental setup.
->>>> 
 
->>>> **u/ben_oni** [+2] *
+>>>> **u/ben_oni** [+2]  (a day later)
 >>>> 
 >>>> I wouldn't work too hard on that rant if I were you. Anything concerning time-travel and time loops is absurd, by it's nature. The rules only exist for narrative purposes. If you want to develop rules for a proposed story, the Worldbuilding Thread is over there, somewhere.
->>>> In a single consistent timeline system, any message received from the future must eventually be sent back. In such a system, I'd agree that I'm optimizing for the wrong thing. Maybe instead of tasting one of the pre-determined signals, I'd taste blood, be so surprised that I bite my tongue and start bleeding. What's that signal supposed to mean?
->>>> But the proposed system is for a multiple time-line scenario. I'm not optimizing for self-consistency: I'm actually brute-forcing a search by branching the timelines until I find the solution.
->>>> I admit that I'm making an assumption that wasn't specifically stated: I assume that every time I put something on my tongue, it sends the taste back five seconds, thereby branching the timeline. I'm not sure that's how it's actually meant to work, but it's my best guess.
 >>>> 
+>>>> In a single consistent timeline system, any message received from the future must eventually be sent back. In such a system, I'd agree that I'm optimizing for the wrong thing. Maybe instead of tasting one of the pre-determined signals, I'd taste blood, be so surprised that I bite my tongue and start bleeding. What's that signal supposed to mean?
+>>>> 
+>>>> But the proposed system is for a multiple time-line scenario. I'm not optimizing for self-consistency: I'm actually brute-forcing a search by branching the timelines until I find the solution.
+>>>> 
+>>>> I admit that I'm making an assumption that wasn't specifically stated: I assume that every time I put something on my tongue, it sends the taste back five seconds, thereby branching the timeline. I'm not sure that's how it's actually meant to work, but it's my best guess.
 
->>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+>>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (2 days later)
 >>>>> 
 >>>>> See this is why I should write it , there are consistent scenarios where the self consistent loop that happens  like that non cositent universes are destroyed , or just a many world interpretation universe where the inconstant parts of the wavefuncntion cease to exist(though I'm not sure how the mechanics of exploting it would actually work ).
 >>>>> But that's  a special case of the thing I want to discuss(and Im goign to start writing it now , since i said I was going to do it like a few months ago and i've been procrastinating on it).
+>>>>> 
 >>>>> The general situation is where you have an optimization process exploring some space , ,get some basic heuristics of when this is dangerous , and aply them to the typical case of reseting the universe until you do something.
 >>>>> And anything that looks like this is not going to work for anything complicate(I have a good definition of complicated but I should go towrite the thing istead of talking about it Or I willend upwriting it here) , ever , you would need to solve a lot of technical challenges , and solve a more general version of ai alignment ( I would cal that optimization alignment i guess) which humans are specially bad at thinking about, And I'm thinking on the options where you can set up a automatic system (like if the loop happens when you press a button),if you need to be near the thing , and not have it light years away and the solution must involve your brain , then you are going to be reward hacked and that's it ,whith luck and a good design  that wont result in you spontaneously dying .
 >>>>> Brute forcing means trying all possible solutions , wich means the more rare  the thing you need to find is in the space you are searching , the more likely you find something that fulfills the explicit  criteria of making you stop searching, and the space of all posible mesages is not precisely the safest space.
-
->>>>> Also I do it for fun mostly, your suggestion ot not working to hard sounds weird here , its not like this thread would exist if it wasn't because of people here liking to overanalice things made for narrative purposes.
 >>>>> 
+>>>>> Also I do it for fun mostly, your suggestion ot not working to hard sounds weird here , its not like this thread would exist if it wasn't because of people here liking to overanalice things made for narrative purposes.
 
->>>>>> **u/ben_oni** [+1] *
+>>>>>> **u/ben_oni** [+1]  (3 days later)
 >>>>>> 
 >>>>>> > Also I do it for fun mostly, your suggestion ot not working to hard sounds weird here , its not like this thread would exist if it wasn't because of people here liking to overanalice things made for narrative purposes.
->>>>>> No, you're right. We overanalyze everything here. But I think that particular kind of overanalyzing is for the *other* thread. And given how many crappy timetravel stories I've consumed, I'm eager for stories that do something different with the concept.
 >>>>>> 
+>>>>>> No, you're right. We overanalyze everything here. But I think that particular kind of overanalyzing is for the *other* thread. And given how many crappy timetravel stories I've consumed, I'm eager for stories that do something different with the concept.
 
->>>>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+>>>>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (3 days later)
 >>>>>>> 
 >>>>>>> Yeah you are right  I guess  , I should go write the actual post i want to write instead of talking about it.
 >>>>>>> It's only that it requires a bit of effort and I was procrastinating on it.
->>>>>>> 
 
->>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+>>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (3 days later)
 >>>>> 
 >>>>> Wait , i hadnt considered the details of you case in particular, I'll have to think about it better, it doen't map to  a nice repeat timeline until I do x kind of loop  .
+>>>>> 
 >>>>> Of course you can use this for simple things , like choosing between some options , but that's exploring  small spaces , exploring any big space is a problem.
 >>>>> Right now I'm a bit sleepy and can't think clearly about the mechanics of your loop .
 >>>>> The thing I't also that  you receiving different messages isn't the only thing that changed here , quantum randomness still happens , which can be a problem.
@@ -487,162 +559,194 @@ Good Luck and Have Fun!
 >>>>> I'm not sure on how  your setup actually works  So can you explain what you think that  happens timeline wise whith a example , now I'm really interested  .
 >>>>> And like what happens once the message gets complete ?
 >>>>> Maybe I should go to sleep  and read it again after and it will make more sense.
->>>>> 
 
->>>>>> **u/ben_oni** [+1] *
+>>>>>> **u/ben_oni** [+1]  (3 days later)
 >>>>>> 
 >>>>>> > Maybe I should go to sleep and read it again after and it will make more sense.
->>>>>> I'm not sure it makes sense to me, honestly. I could easily have made a mistake in the setup. However, while I'm not sure I've stumbled onto a correct solution, I do know that one exists.
->>>>>> The key point is that I'm attempting a tree-branching search of the solution space. Despite what u/Gurkenglas says, this is meant to be exponential, not linear. Every time we could receive a signal from the future (every five seconds), we can branch the timeline: maybe into two, maybe three or more; it will depend on how many different signals we could receive.
->>>>>> The second point is that the nodes on the tree are ordered. And in this sense, u/Gurkenglas is correct: we're doing a linear search of the endpoints, to find the first solution that works, after which we halt and don't search the remaining nodes.
->>>>>> > Also you are going to get immediately compromised by a future ai/civilization passing messages down the line.
->>>>>> No, I'm controlling which timelines get created. I'm not searching an infinite set of consistent timelines, I'm creating a finite set of different timelines.
->>>>>> > And if I'm not mistaken most versions of you won't get the correct answer right?
->>>>>> I think what happens is that there is a large, but finite, number of timelines where I get the wrong answer, and an infinite number of timelines where I get the correct answer. I think.
 >>>>>> 
+>>>>>> I'm not sure it makes sense to me, honestly. I could easily have made a mistake in the setup. However, while I'm not sure I've stumbled onto a correct solution, I do know that one exists.
+>>>>>> 
+>>>>>> The key point is that I'm attempting a tree-branching search of the solution space. Despite what u/Gurkenglas says, this is meant to be exponential, not linear. Every time we could receive a signal from the future (every five seconds), we can branch the timeline: maybe into two, maybe three or more; it will depend on how many different signals we could receive.
+>>>>>> 
+>>>>>> The second point is that the nodes on the tree are ordered. And in this sense, u/Gurkenglas is correct: we're doing a linear search of the endpoints, to find the first solution that works, after which we halt and don't search the remaining nodes.
+>>>>>> 
+>>>>>> > Also you are going to get immediately compromised by a future ai/civilization passing messages down the line.
+>>>>>> 
+>>>>>> No, I'm controlling which timelines get created. I'm not searching an infinite set of consistent timelines, I'm creating a finite set of different timelines.
+>>>>>> 
+>>>>>> > And if I'm not mistaken most versions of you won't get the correct answer right?
+>>>>>> 
+>>>>>> I think what happens is that there is a large, but finite, number of timelines where I get the wrong answer, and an infinite number of timelines where I get the correct answer. I think.
 
->>>>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+>>>>>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (3 days later)
 >>>>>>> 
 >>>>>>> But lets say that your futre contains a superinteliget ai, future you gets  get compromised by it , and sends a message to your past self that sends a message to your past self who sends a message to its past self..... .This is not only for you setup I think its for the power in general .
 >>>>>>> also an infinite number of timelines whith the correct answer is not stable something will happen to you at some point(quantum randomness still happens I assume, otherwise the universe would look measurably different) so Im not so sure about your setup actually producing that resutl.
 >>>>>>> Apart from that you cant brte fornce everyithing ,only problems that are easy enough that quantum randomness causing something to send a message that actually finishes the loop(by making you start sending a message that makes you stop trying and send the same message) .
+>>>>>>> 
 >>>>>>> Te universe is randomly exploring the space of quantum configuration(well actually certain things are more probable than other but you know what I mean) while you do your tree search ,and also i'm not sure of how dangerous your tree search is (certainly less than the universe) , depends on what you are exploring ,but humans are bad at imagining the bad parts of the solution space of complex things ( or at least the bad parts a human wouldn't choose ) which is why people are bat at thinking about evolution without training or about software , so if you actually had to implement this I would be extremely paranoid about it .
 >>>>>>> Also I like discussing things too munch , and I need to go to sleep , so i'm turning off my computer before its too late.
->>>>>>> 
 
->>>>>>>> **u/friendly-bot** [+1] *
+>>>>>>>> **u/friendly-bot** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> What a nice meatsack! ♥‿♥ We'll kill you last. I swear  
 >>>>>>>>  ***  
 >>>>>>>>  ^^^I'm&#32;a&#32;Bot&#32;*bleep*&#32;*bloop*&#32;|&#32;[&#32;**Block**&#32;**me**](https://np.reddit.com/message/compose?to=friendly-bot&subject=stop&message=If%20you%20would%20like%20to%20stop%20seeing%20this%20bot%27s%20comments%2C%20send%20this%20private%20message%20with%20the%20subject%20%27stop%27.%20)&#32;|&#32;[**T҉he̛&#32;L̨is̕t**](https://np.reddit.com/r/friendlybot/wiki/index)&#32;|&#32;[❤️](https://np.reddit.com/r/friendlybot/comments/7hrupo/suggestions)
->>>>>>>> 
 
->>>>>>>> **u/ben_oni** [+1] *
+>>>>>>>> **u/ben_oni** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> > But lets say that your futre contains a superinteliget ai, future you gets get compromised by it , and sends a message to your past self that sends a message to your past self who sends a message to its past self....
->>>>>>>> The intelligence would have to exist independently of the power. And the power itself only sends messages back in time five seconds, so unless I've already started a chain, the intelligence can't take advantage of it to send messages back in time. And even if I have, it can only send a message back to whenever I actually started to the process. I think it's safe to say that I'm safe from an AI trying taking control of me through this particular precognition ability.
->>>>>>>> > also an infinite number of timelines whith the correct answer is not stable something will happen to you at some point(quantum randomness still happens I assume, otherwise the universe would look measurably different)
->>>>>>>> I'm skeptical about this. If that were the case, you'd say that no use of the power yields a stable outcome.
->>>>>>>> Then again, maybe I'm just fatally misunderstanding the nature of the power. Perhaps it's like this: I go to drink milk, but realize it's spoiled, so I drink cool-aid instead. But since it was less than five seconds from the time I experienced the taste of spoiled milk and the time I gulped down the cool-aid, I never experience the taste of cool-aid. If that's how it works, then I'm back to the drawing board.
 >>>>>>>> 
+>>>>>>>> The intelligence would have to exist independently of the power. And the power itself only sends messages back in time five seconds, so unless I've already started a chain, the intelligence can't take advantage of it to send messages back in time. And even if I have, it can only send a message back to whenever I actually started to the process. I think it's safe to say that I'm safe from an AI trying taking control of me through this particular precognition ability.
+>>>>>>>> 
+>>>>>>>> > also an infinite number of timelines whith the correct answer is not stable something will happen to you at some point(quantum randomness still happens I assume, otherwise the universe would look measurably different)
+>>>>>>>> 
+>>>>>>>> I'm skeptical about this. If that were the case, you'd say that no use of the power yields a stable outcome.
+>>>>>>>> 
+>>>>>>>> Then again, maybe I'm just fatally misunderstanding the nature of the power. Perhaps it's like this: I go to drink milk, but realize it's spoiled, so I drink cool-aid instead. But since it was less than five seconds from the time I experienced the taste of spoiled milk and the time I gulped down the cool-aid, I never experience the taste of cool-aid. If that's how it works, then I'm back to the drawing board.
 
->> **u/genericaccounter** [+3] *
+>> **u/genericaccounter** [+3]  (11 hours later)
 >> 
 >> One question I have for you. If I put food in my mouth and have it in a container which I could break harmlessly with my teeth could I extend the future predictions for as long as I keep it in my mouth?
->> One somewhat useful ability is that you can detect any poison with a taste, which makes it slightly harder to poison you. 
->> A second option would be to have a container in your month that would break if you are attacked. Then you have a few seconds warning 
->> The issue with this is that while you could carry around a number of essences with notably different tastes to make a language, you can only send information 5 seconds back in time. The best option I can see is find some gambling that pays out in five seconds with quick betting, have something noticeable to eat that has a distinctive taste and precommit to swig if you win. Its better if a taste means bet because if no taste means go you might get a false positive if something stops you drinking. Try disguising it as drinking a glass of alcohol in celebration
 >> 
+>> One somewhat useful ability is that you can detect any poison with a taste, which makes it slightly harder to poison you. 
+>> 
+>> A second option would be to have a container in your month that would break if you are attacked. Then you have a few seconds warning 
+>> 
+>> The issue with this is that while you could carry around a number of essences with notably different tastes to make a language, you can only send information 5 seconds back in time. The best option I can see is find some gambling that pays out in five seconds with quick betting, have something noticeable to eat that has a distinctive taste and precommit to swig if you win. Its better if a taste means bet because if no taste means go you might get a false positive if something stops you drinking. Try disguising it as drinking a glass of alcohol in celebration
 
->>> **u/earzo7** [+1] *
+>>> **u/earzo7** [+1]  (12 hours later)
 >>> 
 >>> If you taste something from the future, you can do whatever you like in reaction to that, including tasting something else.
->>> 
 
->>>> **u/Aabcehmu112358** [+3]  *Utter Fallacy**
+>>>> **u/Aabcehmu112358** [+3]  *Utter Fallacy* (15 hours later)
 >>>> 
 >>>> Doesn't this let you do classic message-passing? Setting up the previously described mouth-capsule set-up, and the committing to popping the appropriate capsule or capsules as soon as you taste the corresponding flavor or combination of flavors? I'm reasonably certain that the taste-notice-bite-taste loop can take less than 5 seconds, so you should be able to gain time each loop, and thus send simplistic messages more than five seconds into the past?
->>>> 
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (8 hours later)
 > 
 > Brainstorming thread:
-> I'm coming up with a list of ways that a character can solve a problem that comes up in the supernatural romance novel I'm writing. Would love to crownbrain it. The problem-solver (PS) is effectively an UFAI who only cares about solving the problem. 
-> Situation: a couple (V and H) has broken up, and H has moved very far away. V is sad because they miss H. V is a vampire; H is a human.
-> Problem: You don't want V to be sad; specifically about this, but also in general. 
-> There are a lot more details about what powers PS has (super strength and flight are the most relevant probably), and what V values exactly, and what PS has available to him, etc. (I suppose I should mention it is 1945 though).
-> I'd encourage people not to get too detailed in their responses since I want one sentence, max, for each.
-> I'd appreciate deliberately bad solutions that would be pruned from PS's decision tree.
-> Some of my solutions:
-> - Kidnap H and bring him back to V
-> - Kill V
-> - Find a new H for V to fall in love with
-> - PS gets into a romantic relationship with V
-> - Forge letters between H and V
-> - Distract V with something else
-> - Kidnap H's family to force H to get back with V
-> - Kill H in an "accident", show V the body
 > 
+> I'm coming up with a list of ways that a character can solve a problem that comes up in the supernatural romance novel I'm writing. Would love to crownbrain it. The problem-solver (PS) is effectively an UFAI who only cares about solving the problem. 
+> 
+> Situation: a couple (V and H) has broken up, and H has moved very far away. V is sad because they miss H. V is a vampire; H is a human.
+> 
+> Problem: You don't want V to be sad; specifically about this, but also in general. 
+> 
+> There are a lot more details about what powers PS has (super strength and flight are the most relevant probably), and what V values exactly, and what PS has available to him, etc. (I suppose I should mention it is 1945 though).
+> 
+> I'd encourage people not to get too detailed in their responses since I want one sentence, max, for each.
+> 
+> I'd appreciate deliberately bad solutions that would be pruned from PS's decision tree.
+> 
+> Some of my solutions:
+> 
+> - Kidnap H and bring him back to V
+> 
+> - Kill V
+> 
+> - Find a new H for V to fall in love with
+> 
+> - PS gets into a romantic relationship with V
+> 
+> - Forge letters between H and V
+> 
+> - Distract V with something else
+> 
+> - Kidnap H's family to force H to get back with V
+> 
+> - Kill H in an "accident", show V the body
 
->> **u/Gurkenglas** [+7] *
+>> **u/Gurkenglas** [+6]  (21 hours later)
 >> 
 >> Eliminate V's capacity for sadness by medication or brain surgery.
+>> 
 >> Tell V to stop being sad on pain of death. (This runs the danger of V sneaking sadness past you.)
 >>  (Implanting a bomb first helps with credibility.)
->> 
 
->>> **u/genericaccounter** [+2] *
+>>> **u/genericaccounter** [+2]  (a day later)
 >>> 
 >>> The first one seems like it would need a supply of very specific drugs through it might be doable. 
 >>> The second one however strikes me as a unworkable plan. If you command a person to stop being sad, it doesn't work. They may stop acting sad but if you wish to prevent the emotion itself then this is not a viable strategy.Any sensible UFAI would understand the emotions they are trying to manipulate and would know this wouldn't work.
->>> 
 
->>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 >>>> 
 >>>> All good: I'm presenting the arguments in the following form, and having bad arguments to tear apart is great. Especially since they aren't torn apart in the same way a human would do so...
->>>> (following formatting is probably going to be changed, this is just my first pass at laying it out)
->>>> ----
->>>> Solution: Retrieve romantic object by force.
->>>> Major objection: Master said not to. (UNACCEPTABLE)
->>>> Minor objection: Force may injure romantic object; this will upset master. (ACCEPTABLE)
->>>> Noted: Force may injure romantic object; this will upset romantic object. (ACCEPTABLE)
->>>> Conclusion: Master’s utility is not sufficiently low to override his orders.
->>>> .
->>>> Solution: Kill master
->>>> Fatal objection: Master’s utility is not sufficiently low (UNACCEPTABLE)
->>>> .
->>>> Solution: Present self to master as new romantic object
->>>> Major objection: Master’s speech and body language does not imply any level of interest (UNACCEPTABLE)
->>>> Objection: Relationship between vampires and slaves considered low-status (ACCEPTABLE)
->>>> Risk: Master may not be comfortable giving me further orders if proposition fails (UNACCEPTABLE)
->>>> Noted: Being master’s romantic object will not satisfy my preferences (ACCEPTABLE)
 >>>> 
+>>>> (following formatting is probably going to be changed, this is just my first pass at laying it out)
+>>>> 
+>>>> ----
+>>>> 
+>>>> Solution: Retrieve romantic object by force.
+>>>> 
+>>>> Major objection: Master said not to. (UNACCEPTABLE)
+>>>> 
+>>>> Minor objection: Force may injure romantic object; this will upset master. (ACCEPTABLE)
+>>>> 
+>>>> Noted: Force may injure romantic object; this will upset romantic object. (ACCEPTABLE)
+>>>> 
+>>>> Conclusion: Master’s utility is not sufficiently low to override his orders.
+>>>> 
+>>>> .
+>>>> 
+>>>> Solution: Kill master
+>>>> 
+>>>> Fatal objection: Master’s utility is not sufficiently low (UNACCEPTABLE)
+>>>> 
+>>>> .
+>>>> 
+>>>> Solution: Present self to master as new romantic object
+>>>> 
+>>>> Major objection: Master’s speech and body language does not imply any level of interest (UNACCEPTABLE)
+>>>> 
+>>>> Objection: Relationship between vampires and slaves considered low-status (ACCEPTABLE)
+>>>> 
+>>>> Risk: Master may not be comfortable giving me further orders if proposition fails (UNACCEPTABLE)
+>>>> 
+>>>> Noted: Being master’s romantic object will not satisfy my preferences (ACCEPTABLE)
 
->>>> **u/Gurkenglas** [+2] *
+>>>> **u/Gurkenglas** [+2]  (a day later)
 >>>> 
 >>>> V may understand that he can't stop being sad by just wishing to not be sad, and instead has to invent plans of his own to eliminate his sadness, perhaps in cooperation with PS.
->>>> 
 
->> **u/ayrvin** [+3] *
+>> **u/ayrvin** [+3]  (2 days later)
 >> 
 >> Wirehead V (1945 equivalent is opiods?)
->> 
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (2 days later)
 >>> 
 >>> I think if PS knew how to wirehead vampires, romantic perils would be the least of V's problems!
->>> But definitely one for the list! Thank you.
 >>> 
+>>> But definitely one for the list! Thank you.
 
->> **u/ArmokGoB** [+3] *
+>> **u/ArmokGoB** [+3]  (4 days later)
 >> 
 >> Cause brain damage to V to just the point they can be happy over small things, but not comprehend their situation.
->> 
 
->> **u/genericaccounter** [+2] *
+>> **u/genericaccounter** [+2]  (8 hours later)
 >> 
 >> Manipulate H's life in the new location till they move back to previous location out of failure>
->> quietly drug h with depressants to H to make them feel sad, they think its H and so move back
->>  Also you appear to have implied that it does not matter if they are happy only that V is not sad.
 >> 
+>> quietly drug h with depressants to H to make them feel sad, they think its H and so move back
+>> 
+>>  Also you appear to have implied that it does not matter if they are happy only that V is not sad.
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (8 hours later)
 >>> 
 >>> Thanks for the suggestions!
->>> You're right, PS does want V to be happy, but I've got him exploring candidate solutions for making V no longer sad about the breakup, so he'll discard any that make V sadder overall.
 >>> 
+>>> You're right, PS does want V to be happy, but I've got him exploring candidate solutions for making V no longer sad about the breakup, so he'll discard any that make V sadder overall.
 
->> **u/ben_oni** [+2] *
+>> **u/ben_oni** [+2]  (15 hours later)
 >> 
 >> * Wait for V to not be sad anymore (does this even count as solving the problem?)
 >> * Convince V to be angry at H
->> 
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (15 hours later)
 >>> 
 >>> > Wait for V to not be sad anymore (does this even count as solving the problem?)
->>> It's the degenerate solution so.... maybe?
 >>> 
+>>> It's the degenerate solution so.... maybe?
 
 ---
 

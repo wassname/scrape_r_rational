@@ -2,7 +2,7 @@
 
 * Author: u/narfanator *
 * URL: https://practicalguidetoevil.wordpress.com/2019/07/15/chapter-56-reflections/
-* Score: 70
+* Score: 74
 
 * Created: 2019-07-15T04:08:54
 
@@ -12,138 +12,145 @@
 
 ### Comments:
 
-> **u/anenymouse** [+16] *
+> **u/anenymouse** [+16]  (22 minutes later)
 > 
 > Ooh Amadeus I have missed your cold calculations.  Also like Scribe is still on the table as one of the biggest institutional threats minus like exactly the Dead King and The Bard. I do love how Amadeus is so upfront on how Cat is basically his heir-apparent and that while he isn't outright denying that Malicia needs to be removed he certainly isn't in a position to press any claims of his undying loyalty at this point. Also that we only have his word that Scribe is where he says she is, for all we know she's been running the Dread Empire into the ground using her bureaucratic prowess. Granted it's not like Praes really needed anything to be more of a pit of vipers or to take advantage of Malicia's many weaknesses.
-> 
 
->> **u/Nic_Cage_DM** [+4] *
+>> **u/Nic_Cage_DM** [+5]  (10 hours later)
 >> 
 >> AFAIK Amadeus has only lied to Cat once, at second Liesse, so she's probably where he says she is.
->> 
 
->>> **u/TrebarTilonai** [+4] *
+>>> **u/TrebarTilonai** [+3]  (15 hours later)
 >>> 
 >>> But he could also be mistaken. He assumes she is there, but it is only a logical conclusion built off of what he believes her goals would be. He knows her well after so many years, but if her axioms have altered then the conclusions would be invalid.
->>> 
 
->>> **u/anenymouse** [+2] *
+>>> **u/anenymouse** [+2]  (17 hours later)
 >>> 
 >>> Is that also including what Assassin was saying while disguised as Black?
->>> 
 
-> **u/melmonella** [+7]  *Tremble, o ye mighty, for a new age is upon you**
+> **u/melmonella** [+9]  *Tremble, o ye mighty, for a new age is upon you* (8 hours later)
 > 
 > >“Asking,” he said, “is not enough. That you are my daughter in all but blood is not enough. 
-> Fucks sakes.
-> Back in books 1-3 this father/daughter dynamic was okay, because it was *implicit* and *subtle*. Black never explicitly leaned into the trope of having a daughter, nor *would* he, because that'd end up in him *up and dying* at some point. But the dynamic was there, and it was good.
-> Now in book 5 first we have Catherine suddenly start calling him Daddy, after 4 books of doing nothing of the sort. Every bloody time she thinks of Black, she thinks of him as her father. Not even teacher, not very smart colleague, *father*. This after she stabbed him in the liver at the end of book 3 and ignored him completely in book 4. Some faithful daughter she is. 
-> But okay, *maybe* Catherine was just such a complete and utter idiot she missed the fact that calling Black *father* would hang death flags on him every bloody time. It certainly wouldn't be the first time she missed what was right in front of her. Or maybe she was trying to off Black while claiming plausible deniability - hang so many death flags on him he'd be guaranteed to die, or some bullshit like that. Okay, whatever.
-> But now Black himself is using the damn word. Is he suicidal? Did he hit his head? Is implied soul damage affecting him? Who the hell knows, but he sure as shit has been acting as a helpless idiotic damsel in distress the whole book for Catherine to heroically save. In a complete contradiction to his character in the previous books.
-> It sure looks like author just wants to off him at some point, and have Catherine do the sad-daughter-because-her-father-was-killed jig. And in order to do that, he needs this father/daughter stuff jammed in beforehand as "foreshadowing". So instead of being an actual character, Black gets an authorial hand jammed way up his ass right up to his nostrils, just so he can be moved into the appropriate position for the execution. 
-> As far as I am concerned, Black as a character died in book 4 when he was ambushed on that boat. Everything else is some other character wearing the same meatsuit.
 > 
+> Fucks sakes.
+> 
+> Back in books 1-3 this father/daughter dynamic was okay, because it was *implicit* and *subtle*. Black never explicitly leaned into the trope of having a daughter, nor *would* he, because that'd end up in him *up and dying* at some point. But the dynamic was there, and it was good.
+> 
+> Now in book 5 first we have Catherine suddenly start calling him Daddy, after 4 books of doing nothing of the sort. Every bloody time she thinks of Black, she thinks of him as her father. Not even teacher, not very smart colleague, *father*. This after she stabbed him in the liver at the end of book 3 and ignored him completely in book 4. Some faithful daughter she is. 
+> 
+> But okay, *maybe* Catherine was just such a complete and utter idiot she missed the fact that calling Black *father* would hang death flags on him every bloody time. It certainly wouldn't be the first time she missed what was right in front of her. Or maybe she was trying to off Black while claiming plausible deniability - hang so many death flags on him he'd be guaranteed to die, or some bullshit like that. Okay, whatever.
+> 
+> But now Black himself is using the damn word. Is he suicidal? Did he hit his head? Is implied soul damage affecting him? Who the hell knows, but he sure as shit has been acting as a helpless idiotic damsel in distress the whole book for Catherine to heroically save. In a complete contradiction to his character in the previous books.
+> 
+> It sure looks like author just wants to off him at some point, and have Catherine do the sad-daughter-because-her-father-was-killed jig. And in order to do that, he needs this father/daughter stuff jammed in beforehand as "foreshadowing". So instead of being an actual character, Black gets an authorial hand jammed way up his ass right up to his nostrils, just so he can be moved into the appropriate position for the execution. 
+> 
+> As far as I am concerned, Black as a character died in book 4 when he was ambushed on that boat. Everything else is some other character wearing the same meatsuit.
 
->> **u/Malek_Deneith** [+14] *
+>> **u/Malek_Deneith** [+14]  (10 hours later)
 >> 
 >> >  This after she stabbed him in the liver at the end of book 3 and ignored him completely in book 4. Some faithful daughter she is.
->> To be perfectly fair: a) she was full of fey crazy at the time, b) stabbing him probably saved his life, considering the usual Squire and Black Knight story is that the former kills the latter to take their role.
 >> 
+>> To be perfectly fair: a) she was full of fey crazy at the time, b) stabbing him probably saved his life, considering the usual Squire and Black Knight story is that the former kills the latter to take their role.
 
->>> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you* (11 hours later)
 >>> 
 >>> >stabbing him probably saved his life, considering the usual Squire and Black Knight story is that the former kills the latter to take their role.
->>> Man, sure is nice that she isn't setting up the same bullshit with the "daughter takes her father's place due to his unfortunate demise" story. Oh wait.
->>> Like, the stab isn't the issue, the discrepancy between what the stab was supposedly meant to achieve and what it symbolized and how she currently behaves is the issue.
 >>> 
+>>> Man, sure is nice that she isn't setting up the same bullshit with the "daughter takes her father's place due to his unfortunate demise" story. Oh wait.
+>>> 
+>>> Like, the stab isn't the issue, the discrepancy between what the stab was supposedly meant to achieve and what it symbolized and how she currently behaves is the issue.
 
->> **u/Tholo** [+17] *
+>> **u/Tholo** [+16]  (8 hours later)
 >> 
 >> From another perspective, this might be a small layer of protection. Early on we were told that orphans were exterminated to make sure they didn’t become named. By declaring familial bonds, they are basically creating a consequence to killing off Black- cat, who is already playing at the level of the Dead King, gets another power up.
->> 
 
->> **u/rustndusty** [+10] *
+>> **u/rustndusty** [+11]  (12 hours later)
 >> 
 >> A couple things:
 >> First of all, Black actually is something close to suicidal. He was willing to let Cat kill him at Liesse, then after she didn't running around Procer commiting atrocities sure to lead to heroic intervention. He intends his death to have purpose, but its not something he's avoiding.
 >> Second, neither he nor Cat are full Named now. This gives them a whole bunch of leeway with regard to stories.
->> 
 
->>> **u/BlackKnightG93M** [+4] *
+>>> **u/BlackKnightG93M** [+3]  (14 hours later)
 >>> 
 >>> They may not be full Named but their interactions have accumulated enough weight that the Story can still act upon their lives. An example of this is when Cat said that she was the Pilgrim's mirror even though she is not Named so that the Rule of Three is applicable to them.
->>> It all depends on how much narrative weight they have accumulated. Remember Black is also a Claimant now, so the amount of leeway they have might not be as much as you'd think...
 >>> 
+>>> It all depends on how much narrative weight they have accumulated. Remember Black is also a Claimant now, so the amount of leeway they have might not be as much as you'd think...
 
->> **u/Gr_Cheese** [+4] *
+>> **u/Gr_Cheese** [+5]  (21 hours later)
 >> 
 >> You seem to have missed the end of Book I, where Cat leverages Black as her father for the Sword in the Stone shenanigans. That die was cast early on, and nothing came from it. I don't think the characters acknowledging their relationship now is quite as important as that prior moment in terms of fate.
->> The father / family death, in my mind, tends to be an early trope rather than a later trope. And we're pretty late in the story.
->> So I don't think Black is being set up by EE to die (again). And I don't think Black's acknowledgment of Cat is his daughter is equivalent to suicide. Black's death wouldn't change or refine Cat's path, just piss her off, and that kind of takes away from the story's weight in our current setting of signing the Liesse Accords and war against the Dead King.
->> And as a side note, it is my personal opinion PGtE is not rational (fiction) and should not be posted to this sub.
 >> 
+>> The father / family death, in my mind, tends to be an early trope rather than a later trope. And we're pretty late in the story.
+>> 
+>> So I don't think Black is being set up by EE to die (again). And I don't think Black's acknowledgment of Cat is his daughter is equivalent to suicide. Black's death wouldn't change or refine Cat's path, just piss her off, and that kind of takes away from the story's weight in our current setting of signing the Liesse Accords and war against the Dead King.
+>> 
+>> And as a side note, it is my personal opinion PGtE is not rational (fiction) and should not be posted to this sub.
 
->> **u/Jarwain** [+7] *
+>> **u/Jarwain** [+7]  (15 hours later)
 >> 
 >> Yes, Black as a character died when he was ambushed on the boat in book 4.
->> He's not the Black Knight anymore. He is Amadeus of the Green Stretch, arguably a different charater filling a different Role than the Black Knight. That his mindset or character has changed as a side effect of losing his Name would make sense. That the situation, their relationship has changed and evolved over time and their shared experience makes sense too, even if it isn't necessarily the "rationally optimal" route.
 >> 
+>> He's not the Black Knight anymore. He is Amadeus of the Green Stretch, arguably a different charater filling a different Role than the Black Knight. That his mindset or character has changed as a side effect of losing his Name would make sense. That the situation, their relationship has changed and evolved over time and their shared experience makes sense too, even if it isn't necessarily the "rationally optimal" route.
 
->> **u/American_Phi** [+6] *
+>> **u/American_Phi** [+5]  (8 hours later)
 >> 
 >> She's called him "father" for at least several books now. I think the first time would have been back in book 2 or 3.
->> 
 
->> **u/red_adair** [+4]  *{{explosive-stub}}**
+>> **u/red_adair** [+4]  *{{explosive-stub}}* (15 hours later)
 >> 
 >> Or Amadeus is as narratively cunning as Catherine, and has interpreted her actions towards him as towards a parent, so he is in turn acting towards her as towards a daughter, so as to better play into a narrative that he finds useful.
->> He could have just left camp.
 >> 
+>> He could have just left camp.
 
->> **u/thunder_crane** [+2] *
+>> **u/thunder_crane** [+2]  (a day later)
 >> 
 >> For what it's worth I've never understood this father business. I've never gotten the impression that they viewed each other as family apart from suddenly beginning to say it. Very much an instance of the author telling you rather than showing you, imo. It stills falls flat for me to this day.
->> 
 
->>> **u/Keyenn** [+1] *
+>>> **u/Keyenn** [+1]  (a day later)
 >>> 
 >>> 1) Black was the one giving her a chance. And not any chance, THE chance.
->>> 2) Black was protecting her a LOT, like a father would do
->>> 3) Black was teaching her a LOT, like a father would do.
->>> 4) Black punished her for her mistakes, like a father would do.
->>> 5) Black gave her free reins after a while, expecting that successes and failure would do the rest of the teaching, exactly like a father would do.
->>> &#x200B;
->>> While it was mostly implicit, it doesn't come out of nowhere.
 >>> 
+>>> 2) Black was protecting her a LOT, like a father would do
+>>> 
+>>> 3) Black was teaching her a LOT, like a father would do.
+>>> 
+>>> 4) Black punished her for her mistakes, like a father would do.
+>>> 
+>>> 5) Black gave her free reins after a while, expecting that successes and failure would do the rest of the teaching, exactly like a father would do.
+>>> 
+>>> &#x200B;
+>>> 
+>>> While it was mostly implicit, it doesn't come out of nowhere.
 
->> **u/TrebarTilonai** [+4] *
+>> **u/TrebarTilonai** [+4]  (15 hours later)
 >> 
 >> I mean, I can see why you could see this as frustrating. At this point, though, I'm willing to give EE the benefit of the doubt that he isn't just suddenly holding the idiot ball. He being either Black OR the author, take your pick. Every other time we've gotten upset about an apparently idiotic character decision it's turned out to have a purpose and a huge payoff; I'm sure something like that is happening here, although EE has kept me on my toes enough that I'm not even going to try and speculate at this point. I'm almost guaranteed to be wrong. Again.
->> 
 
->>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity* (a day later)
 >>> 
 >>> > Every other time we've gotten upset about an apparently idiotic character decision it's turned out to have a purpose and a huge payoff
->>> Curious what you were thinking about here?
 >>> 
+>>> Curious what you were thinking about here?
 
->> **u/Keyenn** [+1] *
+>> **u/Keyenn** [+1]  (a day later)
 >> 
 >> Actually, Cat called Black "father" back in book 3, so your memory isn't quite on point.
->> 
 
->> **u/summertime_sadnes** [+1] *
+>> **u/summertime_sadnes** [+1]  (a day later)
 >> 
 >> What if it's the other way around. Two possible next level reasons if we assume the premise to be true that them calling each other father/daughter significantly changes events in the future and either one or both of them know that.
->> Firstly for the both explanations I need to specify black was never above dying for his cause or to further his goals and neither is cat as long as she gets her accords signed.
->> Now let's assume in the next step of our hypothetical scenario that one of them dies because of the story flags set through their relationship, or maybe even unrelated reasons. Ask yourself what would happen next?
-
->> And this is where it gets interesting because the story options for avenging someone's loved father/daughter are unrivaled.
->> 1st:  Black dying and leaving Cat behind enables her not only the daughter of the wanted / most feared / maybe even rightful ruler (because he got the new fledgling name) of praes retaking the throne from the usurper or backstabber story( if malicia did it, probably even if she didn't ) which malicia  desperately wants to avoid, it would make her hugely powerful versus the only force that could be a thorn in her side. Truthfully if black dies, cat is gonna be super powerful in general story wise for a while and whoever killed him is fucked 
->> 2nd: cat dying and leaving black gets a lot of shit done as well. Arguably avenging your child's murder is a stronger story then the other way around . Add to that the story that you finish your child's only and last wish in life(accords) Holy shit black would become unstoppable. Again bad guys desperately want to avoid that and the dead king is too smart to fall into this kind of trap, but this is a great deterrent. Kill either of us and our safeguards make your life miserable.
-
->> So to me the real question is what is the downside of settings these flags knowing that either outcome reaches your goal and that your enemy's will actually be trying to avoid killing you easily. If you have no issue putting your life on the line to empower the one other person you believe capable enough to fix shit, then this seems like an inspired binding of fates
 >> 
+>> Firstly for the both explanations I need to specify black was never above dying for his cause or to further his goals and neither is cat as long as she gets her accords signed.
+>> 
+>> Now let's assume in the next step of our hypothetical scenario that one of them dies because of the story flags set through their relationship, or maybe even unrelated reasons. Ask yourself what would happen next?
+>> 
+>> And this is where it gets interesting because the story options for avenging someone's loved father/daughter are unrivaled.
+>> 
+>> 1st:  Black dying and leaving Cat behind enables her not only the daughter of the wanted / most feared / maybe even rightful ruler (because he got the new fledgling name) of praes retaking the throne from the usurper or backstabber story( if malicia did it, probably even if she didn't ) which malicia  desperately wants to avoid, it would make her hugely powerful versus the only force that could be a thorn in her side. Truthfully if black dies, cat is gonna be super powerful in general story wise for a while and whoever killed him is fucked 
+>> 
+>> 2nd: cat dying and leaving black gets a lot of shit done as well. Arguably avenging your child's murder is a stronger story then the other way around . Add to that the story that you finish your child's only and last wish in life(accords) Holy shit black would become unstoppable. Again bad guys desperately want to avoid that and the dead king is too smart to fall into this kind of trap, but this is a great deterrent. Kill either of us and our safeguards make your life miserable.
+>> 
+>> So to me the real question is what is the downside of settings these flags knowing that either outcome reaches your goal and that your enemy's will actually be trying to avoid killing you easily. If you have no issue putting your life on the line to empower the one other person you believe capable enough to fix shit, then this seems like an inspired binding of fates
 
 ---
 

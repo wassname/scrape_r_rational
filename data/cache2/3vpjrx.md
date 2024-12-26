@@ -2,7 +2,7 @@
 
 * Author: u/desertfudge *
 * URL: https://www.reddit.com/r/rational/comments/3vpjrx/polyhistor_questrstmkthnsfw/
-* Score: 17
+* Score: 18
 
 * Created: 2015-12-06T21:50:02
 
@@ -55,201 +55,197 @@ A classroom lecture:
 
 ### Comments:
 
-> **u/Transfuturist** [+9]  *Carthago delenda est.**
+> **u/Transfuturist** [+9]  *Carthago delenda est.* (2 hours later)
 > 
 > I should not take up space in Σ\*, it should be the point in Σ\*. Localities *are* the universes. I^0 should be a subset of I's own space, it contains its own share of alternate futures. G should then be a region in Σ\* (that wholly covers the point I) of all localities that contain some part of it.
-> > Killing your fellow students is expected and normal.
-> > Topics like torture and rape are handled in a serious and mature manner.
-> Why the hell do they even have to be handled? Sounds like a fetish thing.
-> Is aeromancy the name for magic in general? The physics sounds delightfully Tegmarkian.
 > 
+> > Killing your fellow students is expected and normal.
+> 
+> > Topics like torture and rape are handled in a serious and mature manner.
+> 
+> Why the hell do they even have to be handled? Sounds like a fetish thing.
+> 
+> Is aeromancy the name for magic in general? The physics sounds delightfully Tegmarkian.
 
->> **u/None** [+10] *
+>> **u/None** [+11]  (5 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (7 hours later)
 >>> 
 >>> I'm not just talking about sexual fetishism, but whatever.
->>> 
 
->>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (18 hours later)
 >>>> 
 >>>> I'm not sure I understand?
->>>> 
 
->>>>> **u/alexanderwales** [+11]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+9]  *Time flies like an arrow* (19 hours later)
 >>>>> 
 >>>>> Two definitions of the word:
->>>>> > * a course of action to which one has an excessive and irrational commitment.
->>>>> > * a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, etc.
->>>>> So if I wrote a bunch of books that all had critiques of capitalism in them, you might say that I had a fetishistic urge to deal with that topic, meaning it in the first sense rather than the second sense (with the connotation that I'm doing this because I have a compulsion rather than because I'm doing my job as a writer).
->>>>> I think /u/Transfuturist is thinking that the author is irrationally and/or excessively drawn to torture and rape as topics, rather than taking sexual gratification from writing about them (though I don't think I'd preclude that without having read any of Polyhistor). A writer brings torture and rape into the story because they want to; they control the circumstances that make it necessary to be dealt with.
->>>>> Whether it's fetishitic is largely a matter of taste.
->>>>> Edit: A widely agreed upon example would be the overly elaborate (and long) descriptions of food in Redwall, which I think could safely be described as fetishism (in the first sense).
 >>>>> 
+>>>>> > * a course of action to which one has an excessive and irrational commitment.
+>>>>> 
+>>>>> > * a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, etc.
+>>>>> 
+>>>>> So if I wrote a bunch of books that all had critiques of capitalism in them, you might say that I had a fetishistic urge to deal with that topic, meaning it in the first sense rather than the second sense (with the connotation that I'm doing this because I have a compulsion rather than because I'm doing my job as a writer).
+>>>>> 
+>>>>> I think /u/Transfuturist is thinking that the author is irrationally and/or excessively drawn to torture and rape as topics, rather than taking sexual gratification from writing about them (though I don't think I'd preclude that without having read any of Polyhistor). A writer brings torture and rape into the story because they want to; they control the circumstances that make it necessary to be dealt with.
+>>>>> 
+>>>>> Whether it's fetishitic is largely a matter of taste.
+>>>>> 
+>>>>> Edit: A widely agreed upon example would be the overly elaborate (and long) descriptions of food in Redwall, which I think could safely be described as fetishism (in the first sense).
 
->>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (19 hours later)
 >>>>>> 
 >>>>>> After all these years I still don't know what hot root pie and mash is, but I've always kinda wanted it.
->>>>>> 
 
->>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (a day later)
 >>>>>> 
 >>>>>> > A writer brings torture and rape into the story because they want to; they control the circumstances that make it necessary to be dealt with.
->>>>>> Yes.
 >>>>>> 
+>>>>>> Yes.
 
->>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (3 days later)
 >>>>>>> 
 >>>>>>> Hmmm, having read further into the story I am more inclined to agree with your assessment.
->>>>>>> 
 
->>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (3 days later)
 >>>>>>>> 
 >>>>>>>> I feel a tiny grain of vindication. I still haven't read past the first post, though.
->>>>>>>> 
 
->> **u/desertfudge** [+6] *
+>> **u/desertfudge** [+5]  (3 hours later)
 >> 
 >> > Why the hell do they even have to be handled? Sounds like a fetish thing.
->> It is not a fetish thing. Some people are simply interested in exploring the more unpleasant aspects of human nature. If this is not to your taste, I would encourage you to give this story a pass.
->> > Is aeromancy the name for magic in general? The physics sounds delightfully Tegmarkian.
->> The setting is too immense for me to describe in here. Suffice it to say that there are three branches of magic, one of which is Aeromancy.
 >> 
+>> It is not a fetish thing. Some people are simply interested in exploring the more unpleasant aspects of human nature. If this is not to your taste, I would encourage you to give this story a pass.
+>> 
+>> > Is aeromancy the name for magic in general? The physics sounds delightfully Tegmarkian.
+>> 
+>> The setting is too immense for me to describe in here. Suffice it to say that there are three branches of magic, one of which is Aeromancy.
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (18 hours later)
 >> 
 >> I presume you don't wonder why almost every book on here "handles"/includes murder?
->> 
 
->>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>> 
 >>> The torture and rape were what I was referring to, first of all, and second of all, the kind of bloodsport that these stories (The Long Walk, Battle Royale, The Hunger Games, and now this) are about differs greatly from warfare. In these settings, the bloodsport isn't even necessary, as it is imposed by a unified authority instead of as a reaction to a genuine militaristic threat.
->>> 
 
->>>> **u/RMcD94** [+2] *
+>>>> **u/RMcD94** [+2]  (a day later)
 >>>> 
 >>>> I haven't read the story yet but presumably this is a choice made by students in order to increase their chances of success. If there's only 10% left then everyone gets funding. 
->>>> In that case you have a self selecting population of people willing to murder to get ahead, if there was no rape or torture or other psychopathic tendencies I would be more surprised then. 
->>>> Enders Game for example has the whole watching thing to select out too sadistic people. 
->>>> Either way Battle Royale doesn't fit because it's everyones first time. Hunger Games I would expect sadistic behaviour from careers and in those type of games where it is a short period you have less time for indulgence. If careers aren't monsters outside then I am surprised.
 >>>> 
+>>>> In that case you have a self selecting population of people willing to murder to get ahead, if there was no rape or torture or other psychopathic tendencies I would be more surprised then. 
+>>>> 
+>>>> Enders Game for example has the whole watching thing to select out too sadistic people. 
+>>>> 
+>>>> Either way Battle Royale doesn't fit because it's everyones first time. Hunger Games I would expect sadistic behaviour from careers and in those type of games where it is a short period you have less time for indulgence. If careers aren't monsters outside then I am surprised.
 
->>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (3 days later)
 >>>>> 
 >>>>> > If careers aren't monsters outside then I am surprised. 
->>>>> I don't know. Outside they are with *their* people. And they haven't actually been in any Hunger Games, only prepared for them. And whoever teaches them would probably try and discourage sadistic behavior as it limits the sympathy gifts getting send in by the rich viewers.
 >>>>> 
+>>>>> I don't know. Outside they are with *their* people. And they haven't actually been in any Hunger Games, only prepared for them. And whoever teaches them would probably try and discourage sadistic behavior as it limits the sympathy gifts getting send in by the rich viewers.
 
-> **u/None** [+8] *
+> **u/None** [+7]  (5 hours later)
 > 
 > [deleted]
-> 
 
->> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+7]  *Godric Gryffindor* (12 hours later)
 >> 
 >> Don't keep us in suspense, what's the one other quest?
->> 
 
->>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (18 hours later)
 >>> 
 >>> [Puella Magi Adfligo Systema](http://tvtropes.org/pmwiki/pmwiki.php/Roleplay/PuellaMagiAdfligoSystema)
->>> 
 
->>>> **u/desertfudge** [+2] *
+>>>> **u/desertfudge** [+2]  (a day later)
 >>>> 
 >>>> I've read that one, and yeah, it's pretty well done, though not personally to my taste. Hand-holding Mami while she worked through her PTSD got old for me pretty quick.
->>>> I'd say Panopticon Quest is probably my second favorite.
 >>>> 
+>>>> I'd say Panopticon Quest is probably my second favorite.
 
-> **u/IomKg** [+4] *
+> **u/IomKg** [+5]  (an hour later)
 > 
 > is the reason such a system exists explained?
 > doesn't make too much sense to me.
 > I mean sure there have been cultures where that was accepted a long time ago (though i doubt it was quite that high of a death rate), but humanity generally averts such ideas. and magic doesn't really make it go away. there should be some pretty good reason for a world to exist where it is expected that 90% of the kids going to school are going to die..
-> 
 
->> **u/Transfuturist** [+8]  *Carthago delenda est.**
+>> **u/Transfuturist** [+8]  *Carthago delenda est.* (an hour later)
 >> 
 >> The setting is on the Babyeater homeworld?
->> 
 
->>> **u/desertfudge** [+8] *
+>>> **u/desertfudge** [+9]  (3 hours later)
 >>> 
 >>> There is only one murder-school; all the other colleges are normal. People attend because outside this school information about magic is carefully hoarded, and because graduates are given unlimited funding for personal research as well as a million a year for living expenses.
->>> The school itself exists because in this world, trauma, insanity, and immense magical power often go hand in hand. Kroll, the founder and funder of Polyhistor, is a scientist, and Polyhistor is his personal experiment in using sadism and cruelty to motivate people to accomplish great things (Kroll is not a nice man). Other reasons become obvious as you read the text.
 >>> 
+>>> The school itself exists because in this world, trauma, insanity, and immense magical power often go hand in hand. Kroll, the founder and funder of Polyhistor, is a scientist, and Polyhistor is his personal experiment in using sadism and cruelty to motivate people to accomplish great things (Kroll is not a nice man). Other reasons become obvious as you read the text.
 
->>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (3 hours later)
 >>>> 
 >>>> It says the top 10% of graduates are given unlimited funding, not top 10% of attendees. So at most 1% of attendees are given unlimited funding.
->>>> 
 
->>>>> **u/desertfudge** [+3] *
+>>>>> **u/desertfudge** [+3]  (3 hours later)
 >>>>> 
 >>>>> Let's say 100 people attend Polyhistor.
->>>>> At the end of their fourth year, 30 people are left alive to graduate. Of those 30 people, the top 10 all receive unlimited funding and go on to do whatever they want with their lives. The other twenty are "employed" by the Hydromancy division whether they like it or not, and by employed I mean they are broken and enslaved to Kroll, a fate worse than death.
 >>>>> 
+>>>>> At the end of their fourth year, 30 people are left alive to graduate. Of those 30 people, the top 10 all receive unlimited funding and go on to do whatever they want with their lives. The other twenty are "employed" by the Hydromancy division whether they like it or not, and by employed I mean they are broken and enslaved to Kroll, a fate worse than death.
 
->>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (3 hours later)
 >>>>>> 
 >>>>>> > [](#s "by employed I mean they are broken and enslaved to Kroll, a fate worse than death.")
->>>>>> Spoilers, please. But the part that was confusing was actually your explanation. You gave the impression that it was an elimination-style thing, where only 10% of attendees would be allowed to graduate, which I combined with the text's '10% of graduates are given unlimited funding.'
 >>>>>> 
+>>>>>> Spoilers, please. But the part that was confusing was actually your explanation. You gave the impression that it was an elimination-style thing, where only 10% of attendees would be allowed to graduate, which I combined with the text's '10% of graduates are given unlimited funding.'
 
->>>>>>> **u/desertfudge** [+2] *
+>>>>>>> **u/desertfudge** [+2]  (4 hours later)
 >>>>>>> 
 >>>>>>> > Spoilers, please. 
->>>>>>> Not actually a spoiler. Anyways, I edited the main post to be more clear.
 >>>>>>> 
+>>>>>>> Not actually a spoiler. Anyways, I edited the main post to be more clear.
 
->>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (4 hours later)
 >>>>>>>> 
 >>>>>>>> > Not actually a spoiler.
->>>>>>>> Is it in the second post or something? I haven't moved past the first.
 >>>>>>>> 
+>>>>>>>> Is it in the second post or something? I haven't moved past the first.
 
->>>>>>>>> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+>>>>>>>>> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate* (19 hours later)
 >>>>>>>>> 
 >>>>>>>>> Post 12 or so, but it's not really a twist or anything, just regular backstory.
->>>>>>>>> 
 
-> **u/None** [+5] *
+> **u/None** [+4]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/desertfudge** [+1] *
+>> **u/desertfudge** [+1]  (a day later)
 >> 
 >> I tried to pick a good quote that showcased character interaction, but they all felt like spoilers. Or they were too long. Also, the worldbuilding is a large part of why people like this quest, so I figured a world-building heavy excerpt would be a good idea.
->> Looking back... you're right, it is technobabble. I think it's well done technobabble though.
 >> 
+>> Looking back... you're right, it is technobabble. I think it's well done technobabble though.
 
-> **u/Rouninscholar** [+1] *
+> **u/Rouninscholar** [+1]  (a day later)
 > 
 > Why can I not view the thread?
-> 
 
->> **u/desertfudge** [+3] *
+>> **u/desertfudge** [+3]  (a day later)
 >> 
 >> You have to make an account on the site.
->> 
 
->>> **u/Rouninscholar** [+1] *
+>>> **u/Rouninscholar** [+1]  (a day later)
 >>> 
 >>> My issue I learned was I missed the part that said "check your email for confirmation" lol
->>> 
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (3 days later)
 > 
 > Reading quests is always just so bothersome. 1st is the awkward broken up nature of the story, one part has Time 1, Time 3, Time 5 the next has Time 2, 4, and 6. Just really awkward.
-> The second biggest thing is the author includes information in non-story posts with which the readers vote. Missing this information detracts from the story and the experience.
-> At this point I've read up to the first time skip and I just don't understand why they haven't gone back and sorted it all. It's not exactly like he's just started and so catching up would be easy.
-> There's also all the not time specific stuff that I have no idea when I should read.
-> Plus there are way too many typos for my liking.
 > 
+> The second biggest thing is the author includes information in non-story posts with which the readers vote. Missing this information detracts from the story and the experience.
+> 
+> At this point I've read up to the first time skip and I just don't understand why they haven't gone back and sorted it all. It's not exactly like he's just started and so catching up would be easy.
+> 
+> There's also all the not time specific stuff that I have no idea when I should read.
+> 
+> Plus there are way too many typos for my liking.
 
 ---
 

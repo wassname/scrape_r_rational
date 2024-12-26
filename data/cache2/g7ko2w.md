@@ -16,30 +16,25 @@ Thanks for your patience.  I'm really honored by your continued support through 
 
 ### Comments:
 
-> **u/Brell4Evar** [+2] *
+> **u/Brell4Evar** [+2]  (an hour later)
 > 
 > Always great to see a new chapter up.
-> 
 
-> **u/Dent7777** [+2]  *House Atreides**
+> **u/Dent7777** [+2]  *House Atreides* (9 hours later)
 > 
 > Bookmarked, thanks for the new chappie
-> 
 
-> **u/Marthinwurer** [+2] *
+> **u/Marthinwurer** [+2]  (22 hours later)
 > 
 > This was really great. The revelation at the end made actually made me, well, hopeful. There's been enough death in this series that it was time for life to make an appearance.
-> 
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (22 hours later)
 >> 
 >> The plot has to resolve sometime!  Not gonna say how, of course ...
->> 
 
->>> **u/Marthinwurer** [+2] *
+>>> **u/Marthinwurer** [+2]  (22 hours later)
 >>> 
 >>> Well, thank you for writing this. I love the setting. Something about the primitive river valley civilization with magic sprinkled in just does it for me.
->>> 
 
 ---
 

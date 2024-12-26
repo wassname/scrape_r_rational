@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/ekd3by/pyrebound_113/
-* Score: 30
+* Score: 31
 
 * Created: 2020-01-05T13:36:59
 
@@ -16,15 +16,13 @@ Pyrebound is a story of brutal power politics in a world coping with an unstoppa
 
 ### Comments:
 
-> **u/Brell4Evar** [+7] *
+> **u/Brell4Evar** [+7]  (6 hours later)
 > 
 > I love how you show of the interaction between the mystical and the political. If the people of this world are slaves to the gods, they really make the gods work for it.
-> 
 
->> **u/RedSheepCole** [+5] *
+>> **u/RedSheepCole** [+4]  (7 hours later)
 >> 
 >> The funny thing is, I'm pretty sure this is much more straightforward and orderly than real-world theocracies.
->> 
 
 ---
 

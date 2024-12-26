@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (41 minutes later)
 > 
 > Nothing substantially changed in [the 2016 version](http://alexanderwales.com/darkWizardNaNo2016.html) except for the addition of another 76K words which brings it to the conclusion. (I've removed this post, since it shouldn't need more of an answer than that. Let me know.)
-> 
 
 ---
 

@@ -12,10 +12,9 @@ Just watched the most recent episode. Ron says something about dying being natur
 
 ### Comments:
 
-> **u/Transfuturist** [+3]  *Carthago delenda est.**
+> **u/Transfuturist** [+3]  *Carthago delenda est.* (a day later)
 > 
 > Also Chris Traeger on longevity: "Scientists believe that the first human being who will live 150 years has already been born. I believe I am that human being."
-> 
 
 ---
 

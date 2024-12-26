@@ -14,10 +14,9 @@ I wouldn't call it rationalist, per se, but I'd recommend it regardless. it spen
 
 ### Comments:
 
-> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity* (an hour later)
 > 
 > I think you forgot to link to the fic. Is [this](https://www.fanfiction.net/s/5141657/1/Catalysis) what you're talking about?
-> 
 
 ---
 

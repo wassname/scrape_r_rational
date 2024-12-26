@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/07/02/court-iii/
-* Score: 77
+* Score: 74
 
 * Created: 2018-07-02T04:05:40
 
@@ -12,55 +12,51 @@
 
 ### Comments:
 
-> **u/Frommerman** [+27] *
+> **u/Frommerman** [+26]  (an hour later)
 > 
 > >They’d had their own watch as well, once upon a time, though Catherine had disbanded it after her coronation with a look in her eyes that was all savage glee. Sometimes Vivienne forgot the Queen of Callow had been a nobody orphan but a few years ago, and one used to being stepped on by foreign and homebred lords alike. She had not forgotten a single slight from those days, the Black Queen. As was their people’s way.
-> I wonder if this will enter into the public consciousness, once all of this is done. The thought that the urchin you spurn today might be your liegelord tomorrow could become a morality tale for Callow. A myth told to to young lords and peasants alike, to keep the peace and foster some sense of national unity.
-> Hell, if I were Catherine, I would be trying to implant that myth right now. Legends are some of the strongest institutions, after all, and everything she does is to create an institution which will outlast her.
 > 
+> I wonder if this will enter into the public consciousness, once all of this is done. The thought that the urchin you spurn today might be your liegelord tomorrow could become a morality tale for Callow. A myth told to to young lords and peasants alike, to keep the peace and foster some sense of national unity.
+> 
+> Hell, if I were Catherine, I would be trying to implant that myth right now. Legends are some of the strongest institutions, after all, and everything she does is to create an institution which will outlast her.
 
->> **u/leakycauldron** [+24]  *Imperium of Man**
+>> **u/leakycauldron** [+23]  *Imperium of Man* (3 hours later)
 >> 
 >> It's BECAUSE rags to riches is a morality tale for Callow that she is even there. A foreign knight picks an orphan Squire who becomes a powerful noble. Every part of that is a tale as old as time.
->> 
 
->>> **u/pizzahotdoglover** [+1] *
+>>> **u/pizzahotdoglover** [+1]  (a day later)
 >>> 
 >>> *...True as it can be*
->>> *Barely even friends*
->>> *Then some body bends*
->>> *Unexpectedly*
 >>> 
+>>> *Barely even friends*
+>>> 
+>>> *Then some body bends*
+>>> 
+>>> *Unexpectedly*
 
-> **u/TideofKhatanga** [+15] *
+> **u/TideofKhatanga** [+15]  (2 hours later)
 > 
 > Thief doesn't get much visible action during regular chapters, but she's really earning her place as Assassin's counterpart in the Woe. Less drowning people in their own piss though.
-> 
 
->> **u/ProfessorPhi** [+7] *
+>> **u/ProfessorPhi** [+5]  (7 hours later)
 >> 
 >> Kind of a mix of Both Assassin and Scribe
->> 
 
->>> **u/chloeia** [+4] *
+>>> **u/chloeia** [+3]  (9 hours later)
 >>> 
 >>> Ass..cribe ?
->>> 
 
->>>> **u/Empiricist_or_not** [+6]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+7]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>>> 
 >>>> I would ascribe as much of Callow's stability to Vivienne as I would to Ratface, Masego, or Juniper.
->>>> 
 
->>> **u/signspace13** [+4] *
+>>> **u/signspace13** [+4]  (2 days later)
 >>> 
 >>> Which seems appropriate, as Adjutant is a mix between captain and scribe, and archer a mix of assassin and ranger, Heirophant is a a direct parallel to warlock, honestly the calamities aren't really playing Fair, because Ranger isn't really a calamity as much as incidental help and Black's crush, *scribe* is the 5th member of the calamities not Ranger, it's just that her role is specifically not appear in the story's narrative, it almost feels like Ranger was pulled into it because she has a loose enough moral compass and the story **needed** 5 visible Villains and it had to adapt when one turned out to be a pencil pusher instead of knife fighter.
->>> 
 
-> **u/cyberdsaiyan** [+14] *
+> **u/cyberdsaiyan** [+14]  (45 minutes later)
 > 
 > I loved this entire court series of chapters. The sheer level of detail and intrigue in every scene just sucks you into this amazingly built world.
-> 
 
 ---
 

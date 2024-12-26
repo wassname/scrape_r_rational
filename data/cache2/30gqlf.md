@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/30gqlf/implication_of_transdimensional_travelrtwipbst/
-* Score: 9
+* Score: 8
 
 * Created: 2015-03-27T05:54:54
 
@@ -32,126 +32,135 @@ I already wrote 1K words of note and 1K words of a prologue. It's terribly writt
 
 ### Comments:
 
-> **u/DCarrier** [+5] *
+> **u/DCarrier** [+6]  (2 hours later)
 > 
 > Any sort of intellectual property only has to be made once to be used in both universes. Basically, once you get a gate working, you can eliminate the cost of an entire planet's worth of software, movies, drug research, material science research, etc.
-> This would require a change in economics. Competition in these fields will instantly double. A lot of people will lose their jobs. But everything will become a little cheaper and a little higher quality.
-> Even without a universal TD theory, the growth will increase exponentially. You'll have to do just as much work, but you'll have twice as many universes working on it. Suppose it takes five years to build a gate. Two universes are connected. After ten years, it's four. After 50 years, it's a thousand. After a 165 years, there will be more worlds connected than there are people on each world. Entire worlds will use their whole economy just to create one move, one piece of software, one technology so amazing that they might be remembered. Few worlds will succeed.
-> Exactly how similar are the universes? Do they have the same people? The same countries?
-> It sounds like your gateway sends physical objects, which seems like overkill. Could cheaper ones be made to send only information?
 > 
+> This would require a change in economics. Competition in these fields will instantly double. A lot of people will lose their jobs. But everything will become a little cheaper and a little higher quality.
+> 
+> Even without a universal TD theory, the growth will increase exponentially. You'll have to do just as much work, but you'll have twice as many universes working on it. Suppose it takes five years to build a gate. Two universes are connected. After ten years, it's four. After 50 years, it's a thousand. After a 165 years, there will be more worlds connected than there are people on each world. Entire worlds will use their whole economy just to create one move, one piece of software, one technology so amazing that they might be remembered. Few worlds will succeed.
+> 
+> Exactly how similar are the universes? Do they have the same people? The same countries?
+> 
+> It sounds like your gateway sends physical objects, which seems like overkill. Could cheaper ones be made to send only information?
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (7 hours later)
 >> 
 >> You can build as many gates as you want to a known universe. 
->> Advance in TD theory is required to travel to a new universe, which may required altercation of existing gate design to connect to this new universe.
 >> 
+>> Advance in TD theory is required to travel to a new universe, which may required altercation of existing gate design to connect to this new universe.
 
->> **u/Subrosian_Smithy** [+3]  *Nudist Beach**
+>> **u/Subrosian_Smithy** [+3]  *Nudist Beach* (2 days later)
 >> 
 >> >Entire worlds will use their whole economy just to create one move, one piece of software, one technology so amazing that they might be remembered. Few worlds will succeed.
->> That seems implausible. Even assuming that people get themselves so worked up over fame, wouldn't people be capable of doing work over TD lines?
 >> 
+>> That seems implausible. Even assuming that people get themselves so worked up over fame, wouldn't people be capable of doing work over TD lines?
 
->>> **u/DCarrier** [+2] *
+>>> **u/DCarrier** [+2]  (2 days later)
 >>> 
 >>> You mean like have a hundred Californias working together instead of one Earth? I imagine both would happen. I don't know what would be more common. On the one hand, Californias are culturally similar and all speak the same language, which would make working together easy. On the other hand, I suspect finding identical copies of Earth would make people want to make their Earth stand apart.
->>> 
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (9 hours later)
 > 
 > Economy
 > -
+> 
 > The portal isn't terribly great for transporting goods. Even if you set up a rail system pointed at where the portal is going to be, you're still going to run into cost issues pretty fast. The single portal-hour is, however, great for transporting people, especially if you can get them lined up and passing through at sixty miles per hour (which would get you thirty miles worth of people per opening).
+> 
 > There would be an initial glut of intellectual property from the other side. Red has a full history of radio, movies, television, etc. which they can trade to Blue. The countries would have to decide whether to honor each others copyright laws, and how their legal interface is going to work, and who has jurisdiction over what, but it seems likely that this would end up spiraling out of control (and fighting hard against smugglers). What would mostly end up happening is a glut of content, followed by a reorganization of the entertainment industry as lots of people lost their jobs. Movie budgets would go up, and marketing budgets would go up, but the number of blockbusters would probably stay the same.
+> 
 > Politics
 > -
+> 
 > It's not actually Red and Blue. It's all the Red countries, and all the Blue countries. Most likely, there would be some new legal framework with a bunch of signatories. Depending on how free travel between the sides is, there would have to be some determinations about immigration/emigration, intellectual property, jurisdiction for transdimensional crime, extradition, taxation of trade ... basically every single thing that modern countries have to deal with when dealing with other countries, except sprung on them with hundreds of new actors all at once. This is going to be especially tough where territory doesn't overlap entirely - where the Accord of 1873 never happened, and France is missing half of its land.
+> 
 > (If any politicians are duplicated, expect attack ads to focus on what their parallel counterpart did in the other universe.)
+> 
 > Religion
 > -
+> 
 > Here you get into a problem - there are now two popes. There were, presumably, two of Jesus. There are two Meccas. This duplication shoots a lot of theology squarely in the foot. It raises questions of free will, if there are any people who followed different life paths (if any of the people are duplicated at all).
+> 
 > Science
 > -
-> Science works through collaboration and open communication. You're doubling the population of scientists and engineers in all specialties. This does *not* mean that half of them are out of a job - it means that they'll increase specialization. Information travels freely through the portals (with any format or hardware standardization differences probably figured out pretty quickly) but it seems likely that scientists would be the first to cross the portal in order to set up shop with their counterparts. This will quickly lead to specialization - say, with Red being better at certain areas of biological science and Blue being better at certain areas of semiconductor manufacturing.
 > 
+> Science works through collaboration and open communication. You're doubling the population of scientists and engineers in all specialties. This does *not* mean that half of them are out of a job - it means that they'll increase specialization. Information travels freely through the portals (with any format or hardware standardization differences probably figured out pretty quickly) but it seems likely that scientists would be the first to cross the portal in order to set up shop with their counterparts. This will quickly lead to specialization - say, with Red being better at certain areas of biological science and Blue being better at certain areas of semiconductor manufacturing.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (9 hours later)
 >> 
 >> Politically, since RED and BLUES are pretty damn similar, I am thinking countries will instead unites with their counterpart rather than remains apart.
->> Those that don't merge will have a harder time competing.
->> The rich countries are able to afford more gateways, thus they are more connected to their counterpart, which amplify their powers.
 >> 
+>> Those that don't merge will have a harder time competing.
+>> 
+>> The rich countries are able to afford more gateways, thus they are more connected to their counterpart, which amplify their powers.
 
->> **u/DCarrier** [+2] *
+>> **u/DCarrier** [+2]  (14 hours later)
 >> 
 >> It seems highly unlikely there were two Jesuses. Even a slight change will quickly result in completely different children being born. In order for there to be two, the universes would have to split during his lifetime. If the split was after, there was only one universe to have a Jesus. If it was before, only one of the two universes would have a Jesus.
->> "This does not mean that half of them are out of a job"
->> No, but it means some of them are out of a job, and the way economics is, the rest get a pay cut. The pure sciences seem to be more signalling than anything, and I suspect would actually increase now that countries have doppelgangers to compete with. But the rest of the have to face the law of diminishing returns. Twice as many scientists is not twice as good.
 >> 
+>> "This does not mean that half of them are out of a job"
+>> 
+>> No, but it means some of them are out of a job, and the way economics is, the rest get a pay cut. The pure sciences seem to be more signalling than anything, and I suspect would actually increase now that countries have doppelgangers to compete with. But the rest of the have to face the law of diminishing returns. Twice as many scientists is not twice as good.
 
->>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+5]  *Time flies like an arrow* (15 hours later)
 >>> 
 >>> > It seems highly unlikely there were two Jesuses. Even a slight change will quickly result in completely different children being born. In order for there to be two, the universes would have to split during his lifetime. If the split was after, there was only one universe to have a Jesus. If it was before, only one of the two universes would have a Jesus.
->>> One universe not having Jesus *at all* is actually even more theologically troubling. An entire planet full of people who never experienced salvation is a big problem for Christianity, and would necessitate a shift in thinking that the Christians who believe in aliens have long been preparing for. And the Evangelicals would probably pitch a fit. But since OP stated that Red and Blue were pretty damned close to each other, I think something like a major world religion that's been around for two thousand years is probably the same between the two of them - maybe with some differences in the Bible - because you can't get modern America without Christianity playing a role.
 >>> 
+>>> One universe not having Jesus *at all* is actually even more theologically troubling. An entire planet full of people who never experienced salvation is a big problem for Christianity, and would necessitate a shift in thinking that the Christians who believe in aliens have long been preparing for. And the Evangelicals would probably pitch a fit. But since OP stated that Red and Blue were pretty damned close to each other, I think something like a major world religion that's been around for two thousand years is probably the same between the two of them - maybe with some differences in the Bible - because you can't get modern America without Christianity playing a role.
 
->>>> **u/DCarrier** [+2] *
+>>>> **u/DCarrier** [+2]  (15 hours later)
 >>>> 
 >>>> I can see why finding a new world that never heard of Jesus might be theologically troubling, and I'm sure some people were troubled when they found out the inhabitants of the New World didn't know about Him. But now that that's established, why would this happening with a different reality be a problem?
->>>> > because you can't get modern America without Christianity playing a role.
->>>> Differences grow exponentially. If you have modern America, Christianity isn't just similar. It's identical. There was one universe with one Christ, and then the universe split into two. Though that does create interesting theological implications for whoever was alive during the split.
 >>>> 
+>>>> > because you can't get modern America without Christianity playing a role.
+>>>> 
+>>>> Differences grow exponentially. If you have modern America, Christianity isn't just similar. It's identical. There was one universe with one Christ, and then the universe split into two. Though that does create interesting theological implications for whoever was alive during the split.
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (16 hours later)
 >>>>> 
 >>>>> The divergence didn't occur thousand of years early. RED and BLUE is for the most part basically identical to each other up until recently until things slightly went off into different directions. 
->>>>> But there's no guarantee that the next world they're going to find is going to have Jesus.
 >>>>> 
+>>>>> But there's no guarantee that the next world they're going to find is going to have Jesus.
 
->>>>>> **u/DCarrier** [+2] *
+>>>>>> **u/DCarrier** [+2]  (16 hours later)
 >>>>>> 
 >>>>>> So? America didn't have Jesus. I don't know what people thought of it at the time, but now we know that not every world is going to know about Jesus.
->>>>>> 
 
-> **u/Vebeltast** [+3]  *You should have expected the bayesian inquisition!**
+> **u/Vebeltast** [+3]  *You should have expected the bayesian inquisition!* (18 hours later)
 > 
 > Required reading: the Merchant Princes series by Charles Stross. Very comparable to this, complete with the focus on economics.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 hours later)
 > 
 > Have you read the *Long Earth* series by Pratchett and Baxter?
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (7 hours later)
 >> 
 >> No, though I heard of it.
->> I am trying to make travel to parallel universes an expensive proposition.
 >> 
+>> I am trying to make travel to parallel universes an expensive proposition.
 
-> **u/Gurkenglas** [+1] *
+> **u/Gurkenglas** [+1]  (4 hours later)
 > 
 > If the research in TD physics and mathematics required to travel to a new universe is completely parallelizable, making a connection from a pair of universes to another pair would take at most half the time it took the first time, and then connecting two quartets would take half that, and the number of universes accessible after twice the initial research time diverges.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (7 hours later)
 >> 
 >> It's not parallelizable.
->> There is also no way to predict how many years it to take to reach a new destination. It might be a year, 23 years, or hundred of years. Nobody knows.
->> However, roughly speaking, the research time would decrease as each new world double the amount of population that can be devoted to this effort.
 >> 
+>> There is also no way to predict how many years it to take to reach a new destination. It might be a year, 23 years, or hundred of years. Nobody knows.
+>> 
+>> However, roughly speaking, the research time would decrease as each new world double the amount of population that can be devoted to this effort.
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (14 hours later)
 >>> 
 >>> If it's not parallelizable, they could at least have different worlds each looking to reach a different destination. They might not be able to find the next world in half the time, but they could at least find the next two in the same amount of time.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (16 hours later)
 >>>> 
 >>>> The way I set up is that with a major breakthough in TD physics, a new world will be found using the new theory.
->>>> Then they find out that the new theory not 'universal' as physicists hope. So they began the cycle again to try to generalize the theory.
 >>>> 
+>>>> Then they find out that the new theory not 'universal' as physicists hope. So they began the cycle again to try to generalize the theory.
 
 ---
 

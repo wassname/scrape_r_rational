@@ -2,7 +2,7 @@
 
 * Author: u/MMK_II *
 * URL: https://www.reddit.com/r/rational/comments/fuiff4/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/
-* Score: 22
+* Score: 21
 
 * Created: 2020-04-03T22:55:08
 
@@ -22,45 +22,58 @@ You folks are certainly in for a ride.
 
 ### Comments:
 
-> **u/crivtox** [+8]  *Closed Time Loop Enthusiast**
+> **u/crivtox** [+8]  *Closed Time Loop Enthusiast* (4 hours later)
 > 
 > I might be reading too much into it , but the way she phrased that last request doest feel right.We definitely need their help though, so we will have to ask how and where to meet with the  Lynx .
-> Going alone seems like it would offend them less, but would be a crazy risk, especially if it's relatively far. And I doubt they are idiotic enough to jeopardize negotiations during an apocalyptic scenario just for being offended. And we have to consider the possibility of the lynx secretly working for the enemy or thinking we are working for fae or something.
-> Definitely go with at least Link(doubt they would complain if we explain some of his status, ignoring the farore part because possession of triforce fragments is best kept secret).And more guards if possible.
-> Also, ask fi what was she saying before Zelda interrupted her in case it was something beyond the obvious .
-> And confirm Naibi's intentions via fi lie detection
 > 
+> Going alone seems like it would offend them less, but would be a crazy risk, especially if it's relatively far. And I doubt they are idiotic enough to jeopardize negotiations during an apocalyptic scenario just for being offended. And we have to consider the possibility of the lynx secretly working for the enemy or thinking we are working for fae or something.
+> 
+> Definitely go with at least Link(doubt they would complain if we explain some of his status, ignoring the farore part because possession of triforce fragments is best kept secret).And more guards if possible.
+> 
+> Also, ask fi what was she saying before Zelda interrupted her in case it was something beyond the obvious .
+> 
+> And confirm Naibi's intentions via fi lie detection
 
->> **u/Salaris** [+5]  *Dominion Sorcerer**
+>> **u/Salaris** [+6]  *Dominion Sorcerer* (22 hours later)
 >> 
 >> > I might be reading too much into it , but the way she phrased that last request doest feel right.We definitely need their help though, so we will have to ask how and where to meet with the  Lynx .
->> I agree, it felt very "old sagey", like "you must do the thing, I am being intentionally vague even though I clearly have knowledge on this subject and appalled by your lack of knowledge".
->> I think we should try to avoid substantial offense by grilling her too much immediately, but try to get some more details along the journey. At present, we have no way of even knowing with any certainty that this is the Lynx's actual representative, do we?
->> > Definitely go with at least Link(doubt they would complain if we explain some of his status, ignoring the farore part because possession of triforce fragments is best kept secret).And more guards if possible.
->> Agree. Absolutely do not split Link and Zelda up, imo.
->> > Also, ask fi what was she saying before Zelda interrupted her in case it was something beyond the obvious . And confirm Naibi's intentions via fi lie detection
->> Agree on both.
 >> 
+>> I agree, it felt very "old sagey", like "you must do the thing, I am being intentionally vague even though I clearly have knowledge on this subject and appalled by your lack of knowledge".
+>> 
+>> I think we should try to avoid substantial offense by grilling her too much immediately, but try to get some more details along the journey. At present, we have no way of even knowing with any certainty that this is the Lynx's actual representative, do we?
+>> 
+>> > Definitely go with at least Link(doubt they would complain if we explain some of his status, ignoring the farore part because possession of triforce fragments is best kept secret).And more guards if possible.
+>> 
+>> Agree. Absolutely do not split Link and Zelda up, imo.
+>> 
+>> > Also, ask fi what was she saying before Zelda interrupted her in case it was something beyond the obvious . And confirm Naibi's intentions via fi lie detection
+>> 
+>> Agree on both.
 
-> **u/Kylinger** [+7] *
+> **u/Kylinger** [+7]  (58 minutes later)
 > 
 > We've sort of have to go with her, right? The risk of betrayal can't be so high that the possibility of an alliance wouldn't be worth it. 
-> I did notice that she avoided making any direct statements on whether we could actually trust her. If the existence of Zelda's honesty detector leaked somehow, avoiding direct statements would be one way to thwart it.
 > 
+> I did notice that she avoided making any direct statements on whether we could actually trust her. If the existence of Zelda's honesty detector leaked somehow, avoiding direct statements would be one way to thwart it.
 
-> **u/Mathematicae** [+8] *
+> **u/Mathematicae** [+7]  (an hour later)
 > 
 > Questions I want to ask her:
-> Where do you want Zelda to meet the Lynx?
-> How far away is that?
-> Do you promise safe travel to and from the meeting? (Fie lie detector please work!)
-> &#x200B;
-> Anyone else have things they think Zelda should ask before going to see the Lynx?
 > 
+> Where do you want Zelda to meet the Lynx?
+> 
+> How far away is that?
+> 
+> Do you promise safe travel to and from the meeting? (Fie lie detector please work!)
+> 
+> &#x200B;
+> 
+> Anyone else have things they think Zelda should ask before going to see the Lynx?
 
->> **u/Salaris** [+5]  *Dominion Sorcerer**
+>> **u/Salaris** [+5]  *Dominion Sorcerer* (22 hours later)
 >> 
 >> These are solid. Maybe add some things like:
+>> 
 >> * What sorts of resistance should we expect on the journey, if any?
 >> * What are the weather and conditions that we should expect?
 >> * What sorts of supplies should we bring?
@@ -68,47 +81,70 @@ You folks are certainly in for a ride.
 >> * Are there any traditional forms of etiquette we should be aware of when speaking with the Lynx?
 >> * Do you know of any reliable way of identifying followers of our enemies that we could relay to our officers while we are gone?
 >> * Do you have any existing knowledge of areas in which our people have been infiltrated by the enemy that we should act on before we leave for this journey?
+>> 
 >> Then maybe some things for during the journey:
+>> 
 >> * What can you tell us about yourself?
 >> * What can you tell us about the forces arrayed against us?
 >> * What can you tell us about the Lightsworn?
->> 
 
-> **u/-Vecht-** [+4]  *Legacy of the Goddess**
+> **u/-Vecht-** [+4]  *Legacy of the Goddess* (2 minutes later)
 > 
 > ~~**Voting time! What do you do?**~~ **(E: Voting is closed. Any additional discussion or comments will not affect the outcome of the next update.)**
+> 
 > Does Zelda go with Naibi...
+> 
 > ...by herself?
+> 
 > ...with Link?
+> 
 > ...does Link go in her stead?
+> 
 > ...do neither of them go? (If so, how do you respond to Naibi?)
+> 
 > What else do you wish to do?
+> 
 > [(Previous Plan)](https://forums.sufficientvelocity.com/threads/legacy-of-the-goddess-a-rational-zelda-quest.55903/page-81#post-12970246)
+> 
 > ---
+> 
 > Your previous Void Power total was 1668.
+> 
 > You were able to complete research on the Cane of Byrna reinvigoration effect. This required 769 additional VP.
+> 
 > Fi used a total of 174 VP to restore Link's magic during the course of his training. She did this 9 times.
+> 
 > Fi used a total of 363 VP reinvigorating Zelda during the course of her training. She did this 7 times. 
+> 
 > Fi used a total of 136 VP on a combination of Ethereal Avatar and telepathic communication.
+> 
 > This update (chapters 9 and 10) spanned 6 days and you have earned 289 VP from Zelda and 406 VP from Link during that time.
+> 
 > You have earned 250 additional VP per day (out of a possible 250) as a bonus for enduring the hiatus and in place of the previous planning quality and brevity/conciseness incentives, for a total of 1500.
+> 
 > **You currently have 2421 Void Power.**
+> 
 > ---
+> 
 > NOTE: For future updates, you can earn up to 250 additional VP per day. This is based on the following criteria:
+> 
 > * How well did you progress your goals?
 > * Did you take any risks, and did they pay off?
 > * How interesting was writing/worldbuilding for us?
 > * How frustrating was writing/worldbuilding for us?
 > * How much did we enjoy the discussion?
 > * How easy was it to figure out what players wanted to do?
-> ---
-> It is currently the evening of 25th of Last Brisk.
 > 
+> ---
+> 
+> It is currently the evening of 25th of Last Brisk.
 
->> **u/Salaris** [+7]  *Dominion Sorcerer**
+>> **u/Salaris** [+7]  *Dominion Sorcerer* (23 hours later)
 >> 
 >> Thanks for the update! I'm excited this is going again.
+>> 
 >> Some initial plan ideas:
+>> 
 >> * Go with Naibi. Bring Link. Discuss the viability of bringing a larger entourage with Naibi; if you can reasonably bring sheikah and guards, bring sheikah and guards.
 >> * Ask questions (as discussed separately in the thread.)
 >> * Check status with the fortress before leaving.
@@ -119,7 +155,9 @@ You folks are certainly in for a ride.
 >> * Have Link spend some time on figuring out how to safely reproduce his monster one-shotting Invigorate technique.
 >> * Continue having Link and Zelda practice with each other. Try some training with handicaps; e.g. Link only uses magic, Zelda uses no magic, etc.
 >> * SOP: Spend up to one tenth of our current VP on time-sensitive research related to old magic or Link's essence changes.
+>> 
 >> World questions for Fi to discuss with Zelda at some point, since they may be relevant to our assumptions about physics, the passage of time, and >!cosmere crossover stuff!<:
+>> 
 >> * How many seconds are there in a day on Zelda's world, using earth seconds as a measurement?"
 >> * How strong is gravity on her planet, in earth "g" units?
 >> * If this can't be answered directly, how fast do objects drop on Zelda's planet, using earth seconds as a mesurement?
@@ -129,38 +167,44 @@ You folks are certainly in for a ride.
 >> * How many suns, if any, does her planet have?
 >> * What's the size of Zelda's planet, in square miles?
 >> * What is the closest other planet to her's? How distant is it?
->> It's possible I've missed some of this; I haven't checked the Discord updates or new website yet.
->> A note to my fellow questers:
->> 7 restores totaling 363 VP means ~51 VP per restore for Zelda.
->> 9 restores totaling 174 VP means ~19 VP per restore for Link.
->> I don't know what % of their mana pool Fi was using the restores at (that may have been in our old plans, but I don't have it handy). This is good for giving us a general idea of how costly a restore is right now, though, and maybe a general relative idea of their mana pools (assuming they are being restored at a similar mana threshold, Link might have around 40% of Zelda's mana pool?)
->> Also of note, it sounded like mana pool/threshold could increase with practice, so we'll see how that tracks with future mana restoration.
->> Also of note in regards to crossovers, I saw an interesting word in regard to Hylia: >!Creation!<. Given the crossover, this might mean >!she is - or was - the Creation shard!<, and contrasted with the >!Demise shard!<.
 >> 
+>> It's possible I've missed some of this; I haven't checked the Discord updates or new website yet.
+>> 
+>> A note to my fellow questers:
+>> 
+>> 7 restores totaling 363 VP means ~51 VP per restore for Zelda.
+>> 
+>> 9 restores totaling 174 VP means ~19 VP per restore for Link.
+>> 
+>> I don't know what % of their mana pool Fi was using the restores at (that may have been in our old plans, but I don't have it handy). This is good for giving us a general idea of how costly a restore is right now, though, and maybe a general relative idea of their mana pools (assuming they are being restored at a similar mana threshold, Link might have around 40% of Zelda's mana pool?)
+>> 
+>> Also of note, it sounded like mana pool/threshold could increase with practice, so we'll see how that tracks with future mana restoration.
+>> 
+>> Also of note in regards to crossovers, I saw an interesting word in regard to Hylia: >!Creation!<. Given the crossover, this might mean >!she is - or was - the Creation shard!<, and contrasted with the >!Demise shard!<.
 
->>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (2 days later)
 >>> 
 >>> I'd suggest adding to the list of things to do Link and Zelda sparring together, as they have time and space to, with Link only using magic and Zelda using no magic, to apply appropriate handicaps to them both.
->>> 
 
->>>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+1]  *Dominion Sorcerer* (2 days later)
 >>>> 
 >>>> Sure, that sounds like a good idea! Added.
->>>> 
 
->>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (2 days later)
 >>> 
 >>> Shouldn't we explicitly  bring a bit more guards than Link if possible?(I mean because bring link sounds like bring only link, but that sounds like a weird thing to do) .
+>>> 
 >>> I mean not sure what is expected of us, and I guess Link and Zelda are not helpless .
 >>> But imagine if it's a trap and they attack us whith more people than we can handle and we just die/are captured. 
+>>> 
 >>> Seems like an unnecessary risk. 
 >>> I guess if the lynx is camping near the castle whith a few soldiers it might be worth going only us as a show of trust. 
 >>> But otherwise I don't see any reason to only go whith link apart from the fact vetch's questions sugest it.
+>>> 
 >>> In another order of things I'm not sure  
 >>> the secons question  will work as it is because it references an ooc concept of seconds , we might need to frame the question whith  the definition of second  instead(something something caesium 133) same for temperature.
->>> 
 
->>>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+1]  *Dominion Sorcerer* (2 days later)
 >>>> 
 >>>> > Shouldn't we explicitly bring a bit more guards than Link if possible?(I mean because bring link sounds like bring only link, but that sounds like a weird thing to do) .
 >>>> > 
@@ -171,105 +215,97 @@ You folks are certainly in for a ride.
 >>>> > 
 >>>> > 
 >>>> > Seems like an unnecessary risk. I guess if the lynx is camping near the castle whith a few soldiers it might be worth going only us as a show of trust. But otherwise I don't see any reason to only go whith link apart from the fact vetch's questions sugest it.
->>>> Good point. Added a note on this.
->>>> > the secons question will work as it is because it references an ooc concept of seconds , we might need to frame the question whith the definition of second instead(something something caesium 133) same for temperature.
->>>> I phrased it that way because Fi appears to be familiar with our world's metrics based on previous discussions, but I'm okay with trying to figure out objective measurements if we think it's necessary.
 >>>> 
+>>>> Good point. Added a note on this.
+>>>> 
+>>>> > the secons question will work as it is because it references an ooc concept of seconds , we might need to frame the question whith the definition of second instead(something something caesium 133) same for temperature.
+>>>> 
+>>>> I phrased it that way because Fi appears to be familiar with our world's metrics based on previous discussions, but I'm okay with trying to figure out objective measurements if we think it's necessary.
 
->> **u/Mathematicae** [+3] *
+>> **u/Mathematicae** [+3]  (58 minutes later)
 >> 
 >> Is Gerudo lady going to tell Zelda where the Lynx meeting is, or at least how long traveling there will be?
->> 
 
->>> **u/-Vecht-** [+3]  *Legacy of the Goddess**
+>>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (an hour later)
 >>> 
 >>> We are looking to player direction on how you choose to interact with Naibi. That includes what questions you ask her, what demands you make of her, whether or not you believe her, and everything else you think is important. Your decision can be contingent on information yet to be shown on screen.
->>> 
 
->>>> **u/Mathematicae** [+3] *
+>>>> **u/Mathematicae** [+3]  (2 hours later)
 >>>> 
 >>>> Ok, thanks :)
->>>> 
 
->> **u/-Vecht-** [+3]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (2 hours later)
 >> 
 >> NB: "No rules" doesn't mean we wouldn't appreciate having a single comment with everything important listed and voted highly to signal your collective acceptance. We won't *necessarily* take that to be "the plan," and aren't requiring such, but if you all want to preserve a similar status quo and all collectively act to make such a thing Very Obviously The Consensus, then we will go with it so long as it remains Very Obviously The Consensus.
->> Same for any other way you want to go about it.
 >> 
+>> Same for any other way you want to go about it.
 
->> **u/-Vecht-** [+2]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+2]  *Legacy of the Goddess* (2 days later)
 >> 
 >> PSA: Closing vote in 48 hours (April 7, 5:00 pm PST).
->> 
 
-> **u/Cariyaga** [+5]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+5]  *Kyubey did nothing wrong* (a day later)
 > 
 > Is perception of time something that can be affected by native-magic Invigorate?
-> Are there any magics that require the use of multiple affinities?
 > 
+> Are there any magics that require the use of multiple affinities?
 
-> **u/Cariyaga** [+4]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+4]  *Kyubey did nothing wrong* (an hour later)
 > 
 > VERY good progress. Link and Zelda both need to learn more from each other in their specializations (combat and magic). 
-> I am exceptionally glad we now have Reinvigorate. That's very helpful for keeping Zelda and Link both alive. Link's a fucking juggernaut to which the only limiter is his own body, which Reinvigorate helps a lot with. And Zelda's not conditioned enough to function in combat longer than 30 seconds, so keeping her fresh is even more important. 
-> Link should consider the use of Bursts to redirect his momentum in ways that're impossible to predict.
 > 
+> I am exceptionally glad we now have Reinvigorate. That's very helpful for keeping Zelda and Link both alive. Link's a fucking juggernaut to which the only limiter is his own body, which Reinvigorate helps a lot with. And Zelda's not conditioned enough to function in combat longer than 30 seconds, so keeping her fresh is even more important. 
+> 
+> Link should consider the use of Bursts to redirect his momentum in ways that're impossible to predict.
 
-> **u/Riddle-Tom_Riddle** [+3] *
+> **u/Riddle-Tom_Riddle** [+3]  (36 minutes later)
 > 
 > [Oh Hel](https://cdn.discordapp.com/attachments/506952085624061963/695776513445855333/unknown.png), now we have to catch up. aaaaa that's like three things getting big cool stuff going on.
-> 
 
-> **u/Salaris** [+3]  *Dominion Sorcerer**
+> **u/Salaris** [+3]  *Dominion Sorcerer* (22 hours later)
 > 
 > Thanks for joining us as a new QM! I'm excited the game has started back up and appreciate all of you for running it.
-> 
 
->> **u/MMK_II** [+2] *
+>> **u/MMK_II** [+2]  (22 hours later)
 >> 
 >> Your thanks and appreciation is itself much appreciated! :)
->> 
 
->>> **u/Salaris** [+2]  *Dominion Sorcerer**
+>>> **u/Salaris** [+2]  *Dominion Sorcerer* (23 hours later)
 >>> 
 >>> Oh no! This sounds like a recursion loop!
->>> 
 
->>>> **u/-Vecht-** [+2]  *Legacy of the Goddess**
+>>>> **u/-Vecht-** [+2]  *Legacy of the Goddess* (23 hours later)
 >>>> 
 >>>> Don't worry; I'll end the loop by awarding you 20 VechtPoints for being the first one to post detailed discussion points and something resembling a plan.
->>>> (Note to new players: I didn't name them that. :S)
 >>>> 
+>>>> (Note to new players: I didn't name them that. :S)
 
->>>>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>>>> **u/Salaris** [+1]  *Dominion Sorcerer* (a day later)
 >>>>> 
 >>>>> > Don't worry; I'll end the loop by awarding you 20 VechtPoints for being the first one to post detailed discussion points and something resembling a plan.
->>>>> Yay! I love arbitrary points of nebulous value! =D
 >>>>> 
+>>>>> Yay! I love arbitrary points of nebulous value! =D
 
->>>>>> **u/eaglejarl** [+2] *
+>>>>>> **u/eaglejarl** [+2]  (3 days later)
 >>>>>> 
 >>>>>> My understanding is that they actually do have value, because you can trade them with other players and spend them in-game. /u/Vecht, please confirm?
->>>>>> 
 
->>>>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>>>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (3 days later)
 >>>>>>> 
 >>>>>>> Trading with other players is their main purpose. Unsure of their use in game, though it's *possible* they could be a target for Sacrifice...
->>>>>>> 
 
-> **u/immortal_lurker** [+2] *
+> **u/immortal_lurker** [+2]  (an hour later)
 > 
 > We're flush right now. If push comes to shove, we can whammy whoever looks like their in charge to aid in Zelda's escape. Zelda + Link should work.
-> 
 
-> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (13 hours later)
 > 
 > I just arrived at the party, anyone have a pitch for this story?
-> 
 
->> **u/-Vecht-** [+3]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (14 hours later)
 >> 
 >> From the blurb on the "About" page:
+>> 
 >> > Legacy of the Goddess is a rational-deconstruction take on the Legend of Zelda setting, as an AU cross with >!the cosmere setting!<, explored in the format of a Quest. Among other things, this work aims to be:
 >> > 
 >> > Rational:
@@ -284,18 +320,20 @@ You folks are certainly in for a ride.
 >> > Canon story elements, tropes, and other material are used only as inspiration to reverse engineer a setting where these ideas are taken seriously and pushed to their logical conclusions. This has involved substantial world-building, crafting of fictional histories, etc.
 >> > 
 >> > First and foremost, this work aims to be as internally and logically consistent as possible while still remaining true to the source material.
+>> 
 >> And if I had to give an elevator pitch:
+>> 
 >> > Hylia is dead, and a malevolent force greater than she is working behind the scenes to unknown ends. The Kingdom of Hyrule, caught up in the center of this conflict, has been on the decline for thousands of years, and in the present day is now faced with annihilation.
 >> > 
 >> > Can you save their world from its impending demise?
->> Still on the fence? I would say read the [first chapter](https://chaossnek.com/Story?chapter=C1). If that doesn't hook you, then you probably won't enjoy the story. (Do keep in mind there are two prologue chapters before that if you do decide to read.)
->> E: I should also note that since this is an AU, familiarity with the source material isn't strictly necessary to enjoy the story or to participate in the quest.
 >> 
+>> Still on the fence? I would say read the [first chapter](https://chaossnek.com/Story?chapter=C1). If that doesn't hook you, then you probably won't enjoy the story. (Do keep in mind there are two prologue chapters before that if you do decide to read.)
+>> 
+>> E: I should also note that since this is an AU, familiarity with the source material isn't strictly necessary to enjoy the story or to participate in the quest.
 
-> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (a day later)
 > 
 > Oh, another thing Zelda needs to do is have a refresher on the military circumstances, perhaps from Link.
-> 
 
 ---
 

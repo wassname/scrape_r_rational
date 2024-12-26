@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/fzns99/how_would_you_justify_spoken_magic/
-* Score: 37
+* Score: 36
 
 * Created: 2020-04-12T01:51:24
 
@@ -17,357 +17,349 @@ What are your ideas?
 
 ### Comments:
 
-> **u/NotACauldronAgent** [+53]  *Probably**
+> **u/NotACauldronAgent** [+56]  *Probably* (12 minutes later)
 > 
 > Both yours are good, I have a few more if you want.
-> 1) Spoken is a crutch. Merely thinking of the spell is enough for a trained wizard, but to a beginner, silent magic is hard, so speaking it out-loud is easier for novice wizards. 
-> 2) Magic is ancient tech. Not really different from your 2, merely flavor, but the ancient chanting triggers the precursor satellite to do whatever the spell is, and hypothetical root access could fix that. Think a smart-house, and fragmented bits of English getting it to do things in a post-apocalyptic future.  
-> 3) Specific words are special. The Unsong approach, basically, the fabric of reality is specifically designed such that the specific word triggers an action. 
-> 4) Magic, or magic combat, is a game. Calling out your moves as you do them is considered fair play, like pokemon moves or whatever, it's not required as such but it's the rules imposed by the Game Master. 
-> 5) Magic has a willpower component. The act of focusing and screaming out the word can help you concentrate and focus on the spell output. Think Kamehameha.
 > 
+> 1) Spoken is a crutch. Merely thinking of the spell is enough for a trained wizard, but to a beginner, silent magic is hard, so speaking it out-loud is easier for novice wizards. 
+> 
+> 2) Magic is ancient tech. Not really different from your 2, merely flavor, but the ancient chanting triggers the precursor satellite to do whatever the spell is, and hypothetical root access could fix that. Think a smart-house, and fragmented bits of English getting it to do things in a post-apocalyptic future.  
+> 
+> 3) Specific words are special. The Unsong approach, basically, the fabric of reality is specifically designed such that the specific word triggers an action. 
+> 
+> 4) Magic, or magic combat, is a game. Calling out your moves as you do them is considered fair play, like pokemon moves or whatever, it's not required as such but it's the rules imposed by the Game Master. 
+> 
+> 5) Magic has a willpower component. The act of focusing and screaming out the word can help you concentrate and focus on the spell output. Think Kamehameha.
 
->> **u/Strike_Thanatos** [+20] *
+>> **u/Strike_Thanatos** [+20]  (an hour later)
 >> 
 >> Thinking requires intense focus at the moment of activation and the use of thought alone can be distracted by intrusive thoughts, so speaking your intent while willing the use of magic is a good way to focus.
->> 
 
->>> **u/DuplexFields** [+7]  *New Lunar Republic**
+>>> **u/DuplexFields** [+6]  *New Lunar Republic* (2 days later)
 >>> 
 >>> Here’s another. Speaking puts the tongue, lung, face, and larynx muscles through specific physical configurations, like waving hands or wands in a specific motion, or like Goku performing a Kamehameha attack.
->>> If I were creating a magic system for a fiction, I’d say it’s turning the body into a four-dimensional rune — 3 dimensions plus time.
 >>> 
+>>> If I were creating a magic system for a fiction, I’d say it’s turning the body into a four-dimensional rune — 3 dimensions plus time.
 
->>>> **u/HypnoticProposal** [+3] *
+>>>> **u/HypnoticProposal** [+3]  (6 days later)
 >>>> 
 >>>> oh shit, that's a cool one
->>>> 
 
-> **u/WhoTookBibet** [+23] *
+> **u/WhoTookBibet** [+23]  (an hour later)
 > 
 > Depending on how sensitive the mental act of casting a spell is *not* having a vocal or somatic component could be anywhere from reckless to suicide. I've seen this featured in a few otherwise bland stories and really enjoy the flavor aspect.
-> For example: if the purely mental act of casting a fireball is the same as remembering how it feels to cast a fireball then anyone without an unreasonable amount of mental discipline is going to launch one off accidentally a few times over their life. If you instead mentally link a short series of made up words (or words in a language you would never need to speak) to the act of casting a fireball it becomes much more manageable. As an additional plus side you also get an excuse to have spell names that would otherwise be silly or out of place.
 > 
+> For example: if the purely mental act of casting a fireball is the same as remembering how it feels to cast a fireball then anyone without an unreasonable amount of mental discipline is going to launch one off accidentally a few times over their life. If you instead mentally link a short series of made up words (or words in a language you would never need to speak) to the act of casting a fireball it becomes much more manageable. As an additional plus side you also get an excuse to have spell names that would otherwise be silly or out of place.
 
-> **u/Norseman2** [+19] *
+> **u/Norseman2** [+19]  (45 minutes later)
 > 
 > In the beginning, the magical fields that permeate the aether were manually and laboriously manipulated with arcane rituals involving the manipulation of magical reagents. Merlin devised a stable, programmable field effect which allowed him to produce many of the same effects using only a single reagent contained in his wand as a trigger. Over the years, small iterations on Merlin's genius field-effect technique allowed for improved ease-of-use and a wider range of effects. Still, loss of wands posed a dire challenge for wizards, at least until Rasputin devised a voice-activated Merlin field effect, though unfortunately, he only begun to unlock its potential when he had to heal himself repeatedly as Russian nobles repeatedly dealt him fatal blows to keep his method from spreading. It wasn't until the senior clergymen of the Catholic church took an interest in his research that the yet-to-be Pope Benedict XVI ultimately rediscovered the Rasputin variant of the Merlin field effect and used it to pursue world domination. While his plans were ultimately thwarted, the use of the Rasputin variant of the Merlin field effect leaked to the world and it is now becoming increasingly commonplace among elite magicians internationally. Public attention has finally begun to pick up on how the world is changing in ways that are strange and unpredictable, but few would ever guess that all it comes down just to increasing ease-of-use with voice-activated Merlin field effects.
-> 
 
-> **u/Ephemeralen** [+14] *
+> **u/Ephemeralen** [+13]  (an hour later)
 > 
 > Point 2: An idea I've used is that the incantations are ritual prayers to higher entities, but the higher entities themselves mostly respond by subconscious reflex *especially* to repeat castings, in such a way that the incantation must be in the entity's native language, as a justification for why the caster casts in a language they don't speak, but can be shortened/abbreviated as the entity gets "used to" a specific caster.
+> 
 > Other ideas:
+> 
 > 1. Technological aide. Your incantation is the filename of your spell on your Intelligent Device.
 > 2. Magic is mental and perceptual. Your incantation is a trigger-phrase embedded in the mind of your target, but with greater and more interesting effects than one usually sees in spy novels featuring brainwashing.
 > 3. Magic is ubiquitous but application exceeds diagnostic power; ie, in a civilization of magic users it is polite to announce just what you're doing with the whirlwind of deadly mana you're gathering in an inhabited city.
 > 4. Matter has memory. Either by hidden tech or cosmological fiat, consensus reality imbues language with meaning where that meaning converges. Shouting a word then impresses that concept directly on existence.
 > 5. Gatekeeping. Magic has been locked down by the precursors to ignore you unless you know the right passphrases.
 > 6. It's not actually linguistic at all, its *sonic*, like the opera singer and the wine-glass but with far greater axis of resonance. Like in the old Dune movie.
-> 
 
->> **u/OnlyEvonix** [-1] *
+>> **u/OnlyEvonix** [-1]  (2 days later)
 >> 
 >> It's a bit spoilery but that first one sounds a bit like the magic thief series.
->> 
 
->>> **u/GreenGriffin8** [+1] *
+>>> **u/GreenGriffin8** [+1]  (2 days later)
 >>> 
 >>> You can spoiler tag like \>!this!\<
->>> 
 
-> **u/Penumbra_Penguin** [+12] *
+> **u/Penumbra_Penguin** [+13]  (6 hours later)
 > 
 > You're asking why it so happens that the thing you need to do to summon fire is chanting 'fire' in an appropriate ancient language? That question has causality going in the wrong direction. The reason that the ancients chose that word for 'fire' is that it's one of the noises you need to make to actually summon fire. The entire language was designed that way.
-> 
 
-> **u/jtolmar** [+8] *
+> **u/jtolmar** [+8]  (6 hours later)
 > 
 > Reductionism is wrong, the laws of physics actually include ontologically basic elements with mental characteristics. Thaums can be angry, fire can be hungry, words are not made up by humans but are the pre-existing communication mechanism used by the fundamental particles (words are the fundamental forces). Magic is just invoking those communication mechanisms in a non-standard way.
-> 
 
->> **u/GreenSatyr** [+3] *
+>> **u/GreenSatyr** [+3]  (16 hours later)
 >> 
 >> (That doesn't make necessarily reductionism wrong, it only means that in that universe, the biggest conceptual unit that things can be reduced to are bigger than they are in our universe - although one would of course probably never think of being reductionist in the first place if one grew up in such a place)
->> 
 
->>> **u/OnlyEvonix** [+2] *
+>>> **u/OnlyEvonix** [+2]  (14 days later)
 >>> 
 >>> One could have a system where there are effects that apply to cirtain patterns of objects but not to any of it's components.
->>> 
 
->>>> **u/GreenSatyr** [+2] *
+>>>> **u/GreenSatyr** [+2]  (14 days later)
 >>>> 
 >>>> Interesting and accurate! Although, you get into semantics a bit because to some degree this is true for our universe as well
->>>> E.g. if our universe only had one charged particle, that would be entirely different from if we had \_two\_ charged particles, for reasons that no amount of deduction regarding the first particle would ever reveal.
->>>> So when I said "it only means that in that universe, the biggest conceptual unit that things can be reduced to are bigger than they are in our universe" I mean e.g. "the universe cares when you say   'Wingardium Leviosa'  and the fact that the universe responds to that cannot be reduced further - but that doesn't mean you shouldn't still reduce things as much as you *can*"
 >>>> 
+>>>> E.g. if our universe only had one charged particle, that would be entirely different from if we had \_two\_ charged particles, for reasons that no amount of deduction regarding the first particle would ever reveal.
+>>>> 
+>>>> So when I said "it only means that in that universe, the biggest conceptual unit that things can be reduced to are bigger than they are in our universe" I mean e.g. "the universe cares when you say   'Wingardium Leviosa'  and the fact that the universe responds to that cannot be reduced further - but that doesn't mean you shouldn't still reduce things as much as you *can*"
 
-> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor* (15 hours later)
 > 
 > Why have spoken magic if you don't think it makes sense?  The answer might be as simple as "Because I like incantations" (Brust Theory of Literature) but this is still an important question that I'd expect to be key info for selecting a rationalization.
-> 
 
-> **u/Nearatree** [+9] *
+> **u/Nearatree** [+8]  (21 hours later)
 > 
 > Words insulate your brain from the magic so it doesn't get fried, this weakens the magic but is the middle ground between function and death. The less the words mean to the caster, the safer and weaker it is. Gestures have the same effect. Casting in a language you speak is nearly fatal.
-> 
 
->> **u/throwaway11252016** [+4] *
+>> **u/throwaway11252016** [+4]  (a day later)
 >> 
 >> Babies: the ultimate archmages.
->> 
 
->> **u/hayshed** [+4] *
+>> **u/hayshed** [+4]  (2 days later)
 >> 
 >> There's a monty python skit with british troops reciting german jokes that are so funny that they kill whoever understands it.
->> 
 
-> **u/archpawn** [+5] *
+> **u/archpawn** [+6]  (2 hours later)
 > 
 > Magic responds to vibrations in the air in complicated ways. In principle, any sound might be used to cast a spell. But people have only figured out the ones that are actually pronounceable. Though this would imply that tape recorder could cast spells, so I'd avoid the explanation in settings that have tape recorders. You could say that you need a human there for other reasons, but then they could use the tape recorder while doing the other stuff on their own.
-> Magic is powered by belief, and people think incantations matter.
-> Magic can only be done with rituals, but you can set them to go off after some trigger. Incantations aren't the only choice of trigger, but they're an easy one that gets used a lot.
 > 
+> Magic is powered by belief, and people think incantations matter.
+> 
+> Magic can only be done with rituals, but you can set them to go off after some trigger. Incantations aren't the only choice of trigger, but they're an easy one that gets used a lot.
 
->> **u/chillanous** [+3] *
+>> **u/chillanous** [+3]  (a day later)
 >> 
 >> I like this a lot because I immediately think of spells that can only be cast by nonhumans, such as animals or machines.
->> Also a chance for musicians to be very strong. New meaning to the term "power chord."
 >> 
+>> Also a chance for musicians to be very strong. New meaning to the term "power chord."
 
->> **u/covert_operator100** [+1] *
+>> **u/covert_operator100** [+1]  (6 days later)
 >> 
 >> Magic is shaped by what the audience believes will happen to them.
->> 
 
-> **u/None** [+4] *
+> **u/None** [+4]  (14 minutes later)
 > 
 > 1) something that understands the incantation is listening
-> 2) magic responds to focused willpower and speaking or gesturing in a specific trained way triggers the correct associated neural pathways
-> 3) do deaf folks who perform sign language have the ability to do magic? 
-> 4) the magic is internal and pushing the words out also pushes out the magic
-> 5) the "magic" phrases aren't a language but the soundwaves/internal magic interact with the external world in specified ways that have specific results, like making an "ooo" sound in the direction of paper makes it catch on fire or whatever. Like interruption in standing waves
 > 
+> 2) magic responds to focused willpower and speaking or gesturing in a specific trained way triggers the correct associated neural pathways
+> 
+> 3) do deaf folks who perform sign language have the ability to do magic? 
+> 
+> 4) the magic is internal and pushing the words out also pushes out the magic
+> 
+> 5) the "magic" phrases aren't a language but the soundwaves/internal magic interact with the external world in specified ways that have specific results, like making an "ooo" sound in the direction of paper makes it catch on fire or whatever. Like interruption in standing waves
 
-> **u/MultipartiteMind** [+3] *
+> **u/MultipartiteMind** [+4]  (an hour later)
 > 
 > Mentioned in another comment, compared to a 'top-down' system of someone listening and obeying, I rather like the Type-Moon universe (specifically Kara no Kyoukai I believe) explanation that many magicians can cast exactly the same magic(?), but use different incantations, because the spoken incantation is like an autohypnotic suggestion to automatically carry out the rather complicated non-verbal contortions(?) that bring it about--though that doesn't explain why the words have to be spoken with the voice rather than only subvocalised.  In any case, those who use shorter incantations for the same spell are treated as more impressive because they're successfully associating greater numbers of spell-actions into each line(/word).  
-
-> Though this could be broken easily I imagine, I'm having a little fun imagining right now a system whereby microbes in the air release different types of magic (maybe with different delays) according to pressure waves that they're subject to--specifically I'm imagining someone making a 'laser' in which someone's voice is amplified and shot down a long long hard tube with little fading, so that more and more magic builds up by the time it gets to the end.  Ah!  However, the magic release would be slower than the sound propagation speed (and thus mitigate the usefulness of this), so easy short spells would be near-instant, whereas with long spells you could be crafting the later bits of a complicated spell after the first part started!  (Like 'wind cyclone' and 'freezing cold' one before the other for 'Blizzard'.)  And for cold spells say, the spell would still affect anywhere the sound reached, but once quiet enough there would be a massive reduction in effect and so just a slight temperature falling or air-stirring...  presumably a louder volume could make a spell larger in scale but not in strength, and for larger in strength you'd need either several people (like in a formation) or curving sound back to get different sections of air releasing power which then combines when focused on something..?  
-
-> Hmm, that's also an interesting approach--"The hard part isn't freezing your enemy into a solid block of ice, the hard part is freezing your enemy into a solid block of ice WITHOUT freezing yourself too along with all the surrounding space within 30 metres".  Ahhh, yes, that 'affecting oneself' concept is fun...  now I'm imagining incantation-bombs, maybe produced by speeding up vinyl-like recordings recorded at lower frequencies than the dangerous ones, or amplifying a whispered recording...
 > 
+> Though this could be broken easily I imagine, I'm having a little fun imagining right now a system whereby microbes in the air release different types of magic (maybe with different delays) according to pressure waves that they're subject to--specifically I'm imagining someone making a 'laser' in which someone's voice is amplified and shot down a long long hard tube with little fading, so that more and more magic builds up by the time it gets to the end.  Ah!  However, the magic release would be slower than the sound propagation speed (and thus mitigate the usefulness of this), so easy short spells would be near-instant, whereas with long spells you could be crafting the later bits of a complicated spell after the first part started!  (Like 'wind cyclone' and 'freezing cold' one before the other for 'Blizzard'.)  And for cold spells say, the spell would still affect anywhere the sound reached, but once quiet enough there would be a massive reduction in effect and so just a slight temperature falling or air-stirring...  presumably a louder volume could make a spell larger in scale but not in strength, and for larger in strength you'd need either several people (like in a formation) or curving sound back to get different sections of air releasing power which then combines when focused on something..?  
+> 
+> Hmm, that's also an interesting approach--"The hard part isn't freezing your enemy into a solid block of ice, the hard part is freezing your enemy into a solid block of ice WITHOUT freezing yourself too along with all the surrounding space within 30 metres".  Ahhh, yes, that 'affecting oneself' concept is fun...  now I'm imagining incantation-bombs, maybe produced by speeding up vinyl-like recordings recorded at lower frequencies than the dangerous ones, or amplifying a whispered recording...
 
-> **u/causalchain** [+4] *
+> **u/causalchain** [+4]  (10 hours later)
 > 
 > Reading through other peoples' comments inspired in me another solution which makes for an interesting setting
+> 
 > * After a mage invents a spell, they decide on a casting action and anyone can use it if they copy the mage's actions
 > * Mages want to preserve their copyright, so they make the actions highly specific
 > * On the other hand, if they want to share it then they need something easy to duplicate
+> 
 > So they make it unusual strings of syllables: Hard to stumble across, but so easy to teach that they can write it on paper. This would mean spoken words are used in the most commonly shared magic, but other magics can use any form of gesture. 
+> 
 > Either mechanic
+> 
 > * the first time the spell is invented, is the only gesture it will have
 > * the more a spell is cast, the stronger it gets
-> Can justify using spells in ancient, dead languages.
 > 
+> Can justify using spells in ancient, dead languages.
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (15 hours later)
 >> 
 >> This is also a great way to justify ancient magic being uber-fantastic despite magical research bring an ongoing thing.
->> 
 
-> **u/GreenSatyr** [+3] *
+> **u/GreenSatyr** [+5]  (16 hours later)
 > 
 > Your ideas are interesting, but it's worth pointing out that adding *any* magic means that you can put the "bottom" of the justification chain anywhere you like.
-> >It seemed the universe actually *did* want you to say 'Wingardium Leviosa' and it wanted you to say it in a certain exact way and it didn't care what *you* thought the pronunciation should be any more than it cared how you felt about gravity.
-> From a non-human, god's eye view of things (or perhaps I should say *math's* eye view, given the subject matter) this isn't actually any *less* arbitrary than any other magic.
 > 
+> >It seemed the universe actually *did* want you to say 'Wingardium Leviosa' and it wanted you to say it in a certain exact way and it didn't care what *you* thought the pronunciation should be any more than it cared how you felt about gravity.
+> 
+> From a non-human, god's eye view of things (or perhaps I should say *math's* eye view, given the subject matter) this isn't actually any *less* arbitrary than any other magic.
 
->> **u/TrebarTilonai** [+1] *
+>> **u/TrebarTilonai** [+1]  (2 days later)
 >> 
 >> Pretty sure that quote is from HPMOR, right? And the implication in that series is that magic is just the result of ancient Atlantean technology that you are activating with the right sounds + gestures.
->> 
 
->>> **u/GreenSatyr** [+1] *
+>>> **u/GreenSatyr** [+1]  (2 days later)
 >>> 
 >>> I think this was one of Harry's hypothesis - but I think the Opinion of God (not supported by text) is that this universe is simply _like that_ - the laws of the universe itself really care about things like how you say words and there's no deeper technological explanation underlying it all. 
->>> But I don't have a link to where he said this handy, and anyhow this doesn't influence the meaning of the story.
 >>> 
+>>> But I don't have a link to where he said this handy, and anyhow this doesn't influence the meaning of the story.
 
-> **u/Uristqwerty** [+4] *
+> **u/Uristqwerty** [+5]  (2 days later)
 > 
 > There is an intelligent reality-shaping entity/force inhabiting the local solar system. Magic is performed by having a debate with it, trying to convince it that you have a good reason to break normal physics. Over thousands of years and billions of mages holding trillions of debates, it has grown exasperated with the whole process, and what once took a day of complex back-and-forth discussion has shrunk to the point where you just have to say "fire", and with an air of "ugh, not another one", fire *happens*.
-> A fight between wizards, then, is mostly them arguing why the other's spell is a bad idea.
-> It's a bit of a silly idea, and justifying why such a force both exists and doesn't just make those pesky humans disappear and leave it in peace might push the concept into a less-rational genre. Still, hopefully an amusing enough idea to be worth sharing.
 > 
+> A fight between wizards, then, is mostly them arguing why the other's spell is a bad idea.
+> 
+> It's a bit of a silly idea, and justifying why such a force both exists and doesn't just make those pesky humans disappear and leave it in peace might push the concept into a less-rational genre. Still, hopefully an amusing enough idea to be worth sharing.
 
->> **u/covert_operator100** [+3] *
+>> **u/covert_operator100** [+3]  (6 days later)
 >> 
 >> You could do this with Devil Warlock as a magic style. Saying the invocation for a spell, is a fast way to reference a loophole in an ancient Infernal Contract that some soul-tortured fast-talker managed to extract from an ancient entity. 
->> In the world of magic, Wizards are Scientists and Warlocks are Lawyers.
->> ^(cc /u/Genarment)
 >> 
+>> In the world of magic, Wizards are Scientists and Warlocks are Lawyers.
+>> 
+>> ^(cc /u/Genarment)
 
->> **u/Genarment** [+2] *
+>> **u/Genarment** [+2]  (2 days later)
 >> 
 >> I don't care how silly this is, I freaking love it. Henceforth I will be looking for a way to work it into one of my roleplaying campaigns.
->> 
 
-> **u/chlorinecrownt** [+3] *
+> **u/chlorinecrownt** [+3]  (48 minutes later)
 > 
 > Yeah, I like number 2.
-> In [Ra](https://qntm.org/ra), >!magic operates by having embedded speakers in the world that supercomputers then use to make stuff happen with nanobots/light pulses/whatever!<
-> In [The study of Anglophysics](https://slatestarcodex.com/2014/04/03/the-study-of-anglophysics/), >!It's basically a dude listening to stuff and making it happen!<
 > 
+> In [Ra](https://qntm.org/ra), >!magic operates by having embedded speakers in the world that supercomputers then use to make stuff happen with nanobots/light pulses/whatever!<
+> 
+> In [The study of Anglophysics](https://slatestarcodex.com/2014/04/03/the-study-of-anglophysics/), >!It's basically a dude listening to stuff and making it happen!<
 
-> **u/13rett13** [+3] *
+> **u/13rett13** [+3]  (2 hours later)
 > 
 > Haven't seen this sort posted yet. The pattern completion style.
 > Magic is a sort of field that builds upon patterns of repetition. The spoken magic isn't a requirement for magic use, just a common pattern. 
-> One of the earliest forms of magic was to symbolically recreate the events of a natural magic and with each use that wore the pattern deeper than before. As practitioners found the magic responding to less strict representations and simplified these rituals which slowly allowed the magic to respond to only that which was easiest to recreate widely as those patterns were able to be preformed more often.
 > 
+> One of the earliest forms of magic was to symbolically recreate the events of a natural magic and with each use that wore the pattern deeper than before. As practitioners found the magic responding to less strict representations and simplified these rituals which slowly allowed the magic to respond to only that which was easiest to recreate widely as those patterns were able to be preformed more often.
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (3 hours later)
 > 
 > If magic is art, the speech involved is part of the experience of the caster and the audience.  Tolkien's Lord of the Rings is the archetype of this. The world and all upon it were created in a grand song. All subsequent magic's are merely lesser echoes and variations on this act. Also, all art is magical. 
-> If magic is a science,  magic will involve binding forces, or even beings, to focus items and acts. Verner Vinge, who wrote of magic that inspired D&D,  and by extension many tabletop and computer games (and derived litRPGs), conceived of a byzantine system of technology cobbled together over millennia by various sorcerers, many alien in nature. In this situation, words act as markers upon reality, drawing the magic and instructing it in a way like computer programming.
 > 
+> If magic is a science,  magic will involve binding forces, or even beings, to focus items and acts. Verner Vinge, who wrote of magic that inspired D&D,  and by extension many tabletop and computer games (and derived litRPGs), conceived of a byzantine system of technology cobbled together over millennia by various sorcerers, many alien in nature. In this situation, words act as markers upon reality, drawing the magic and instructing it in a way like computer programming.
 
-> **u/LostTrueTime** [+3] *
+> **u/LostTrueTime** [+3]  (3 hours later)
 > 
 > Magic words are macros in LISP. Sure, you could spend the time to laboriously design your magic to do what you need, but it's likely to take a while and need some debugging. The better alternative in most situations is to say the magic words and let the program unfurl itself.
-> 
 
-> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+> **u/SvalbardCaretaker** [+3]  *Mouse Army* (14 hours later)
 > 
 > TotallyaCauldronAgents point 3 is equivalent to "true name" setting. For example see Le Guins Earthsee or https://tvtropes.org/pmwiki/pmwiki.php/Main/IKnowYourTrueName 
-> Deeply anchored culturally, requires hiding true name from strangers, magic is learning a lot of true names.
 > 
+> Deeply anchored culturally, requires hiding true name from strangers, magic is learning a lot of true names.
 
-> **u/ABZB** [+2]  *Count of Real Numbers**
+> **u/ABZB** [+2]  *Count of Real Numbers* (2 hours later)
 > 
 > Similar to 2, there is some kind of Jungian collective consciousness or memory, spoken words interact with that (somehow)
-> (\[raining oneself to\] Speak spells rather than thinking them is a safeguard, so that that you don't cast spells based on fleeting thoughts.
 > 
+> (\[raining oneself to\] Speak spells rather than thinking them is a safeguard, so that that you don't cast spells based on fleeting thoughts.
 
-> **u/true-name-raven** [+2] *
+> **u/true-name-raven** [+2]  (2 hours later)
 > 
 > True magic is mentally controlled. But this is really hard, so [aliens|ancient race|whoever] built an incantation interface. Kinda like how all programs reduce down to binary but humans suck at binary so we use text languages instead.
-> 
 
-> **u/Nine-LifedEnchanter** [+2] *
+> **u/Nine-LifedEnchanter** [+2]  (7 hours later)
 > 
 > Magic was raw and malleable before. That was dangerous and a group of magicians forced it to take shape. Creating new spells forces the technique into the  tapestry of magic and you summon it by saying the name of the spell (as well as practice of course, otherwise people could just say random spells until things happened).
-> 
 
-> **u/demoran** [+2] *
+> **u/demoran** [+2]  (11 hours later)
 > 
 > Magic is an effective expression of intent.  It is made manifest through both words and gestures.
-> Much like mundane moving, one cannot simply dream about walking to move from one place to another - one must actually walk.
 > 
+> Much like mundane moving, one cannot simply dream about walking to move from one place to another - one must actually walk.
 
-> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist* (18 hours later)
 > 
 > In the Abhorsen series there is "Charter Magic" which is rule-bound and relies on incantations, and "wild/free magic" which is much more powerful but also much more dangerous and seems to operate on belief power. During the series prehistory the "charter" was established to force a system of control on the wild magic to stop it from ending the world.
-> 
 
-> **u/JesradSeraph** [+2] *
+> **u/JesradSeraph** [+2]  (a day later)
 > 
 > Magic as ad-hoc hypnosis, makes you and others within hearing distance believe against objective evidence that something happened.
-> 
 
-> **u/wren42** [+2] *
+> **u/wren42** [+2]  (a day later)
 > 
 > Hpmor kinda meta spoilers:
-> I always found the "computer program" explanation for the purpose behind incantations and wand movements pretty compelling. 
-> The theory goes - the universe was once filled with magic. Mental entities could make things happen just by wishing for them.  At some point our material world was formed with the rules as we know them - as an experiment, pet project, or mutually agreed upon equilibrium.  In order to protect this semi stable subset of reality, magic was locked off, unless you knew the code.  Certain people had access to magic in their DNA, and could execute commands built into the "source of magic" (really more like guardian or gatekeeper of magic) to grant limited wishes in pre defined ways.
 > 
+> I always found the "computer program" explanation for the purpose behind incantations and wand movements pretty compelling. 
+> 
+> The theory goes - the universe was once filled with magic. Mental entities could make things happen just by wishing for them.  At some point our material world was formed with the rules as we know them - as an experiment, pet project, or mutually agreed upon equilibrium.  In order to protect this semi stable subset of reality, magic was locked off, unless you knew the code.  Certain people had access to magic in their DNA, and could execute commands built into the "source of magic" (really more like guardian or gatekeeper of magic) to grant limited wishes in pre defined ways.
 
-> **u/4444Stricture** [+2] *
+> **u/4444Stricture** [+2]  (2 days later)
 > 
 > In Bakker's setting The Second Apocalypse magic requires extreme and precision of thought, all magic is therefore performed in long dead languages so as to not muddle the meaning of the words by associating them with the kind of flexibility demanded of a language in use.
 > The mage also simultaneously speaks a 'mental' incantation, further fixing the meaning of the spoken incantation.
 > The gift of magic is the ability to make the universe hear what you are saying.
 > I have always liked this explanation.
-> This is a variation of 1, but the more demanding you make the practice the more necessary you make the incantations, thereby making them less of a placebo. Under such a system a lot of the 'skill' of magic can be about your internal incantation and not the external incantation.
 > 
+> This is a variation of 1, but the more demanding you make the practice the more necessary you make the incantations, thereby making them less of a placebo. Under such a system a lot of the 'skill' of magic can be about your internal incantation and not the external incantation.
 
-> **u/nicholaslaux** [+2] *
+> **u/nicholaslaux** [+2]  (6 minutes later)
 > 
 > What limitations are you wanting to imply with the system? Given that it's magic, you don't really have to justify it, in the same that I don't have to justify to you why using my Google home requires incantations as well.
-> 
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (7 hours later)
 > 
 > It's a user interface for some software that implements the magic. This doesn't mean you're in a simulation or that there's some superscientific computer handing out the magic (though there's a lot of stories with that setting). There's possibly some lower level programming interface (primordial magic, etc) that earlier mages used to create it because primordial magic was too complex to do off the cuff. Alternatively, the word is just a cue to activate a spell that the mage himself set up in meditation or other plot bunny that's too time consuming to use when you just need a fireball NOW.
-> 
 
-> **u/darkaxel1989** [+1]  *LessWrong (than usual)**
+> **u/darkaxel1989** [+1]  *LessWrong (than usual)* (15 hours later)
 > 
 > an ancient group of people bounded magic to the words you speak, because thoughts are too volatile and it's dangerous to use magic only through your mind.
-> 
 
-> **u/loimprevisto** [+1] *
+> **u/loimprevisto** [+1]  (18 hours later)
 > 
 > There's a lot of great brainstorming here, I love reading posts like this!
-> My favorite explanation is that invoking magic requires a certain level of information density backed by properly formed willpower/intent. Your magical 'bandwidth' is all about how much information you can modulate into your spellcasting actions. It might be technically possible to conjure a fireball in conversational English or non-verbally with pure mathematical symbolism, but learning a conlang with vocabulary and conjugations specifically designed to communicate elaborate magical concepts lets you take a lot of mental shortcuts and cast the spell more reliably/quickly. The conlang can also include a sign language to further improve the modulation rate and let the practitioner convey more information per word.
 > 
+> My favorite explanation is that invoking magic requires a certain level of information density backed by properly formed willpower/intent. Your magical 'bandwidth' is all about how much information you can modulate into your spellcasting actions. It might be technically possible to conjure a fireball in conversational English or non-verbally with pure mathematical symbolism, but learning a conlang with vocabulary and conjugations specifically designed to communicate elaborate magical concepts lets you take a lot of mental shortcuts and cast the spell more reliably/quickly. The conlang can also include a sign language to further improve the modulation rate and let the practitioner convey more information per word.
 
-> **u/throwaway11252016** [+1] *
+> **u/throwaway11252016** [+1]  (a day later)
 > 
 > You could entangle vibrational energy with mana. Speech is intricate mana manipulation to achieve certain effects. Crudely vibrating things imposes their nature on the surroundings, so speech is about creating specific patterns of vibration in air to isolate certain things about it to cause an effect. Instruments are just as much function as form. Environments are hugely impacted by their soundscapes. Seismic events are strong pulls toward the planet's equilibrium.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > I would go with 2, which is the simplest option.
-> 
 
-> **u/fassina2** [+1]  *Progressive Overload**
+> **u/fassina2** [+1]  *Progressive Overload* (a day later)
 > 
 > Don't like the trope, don't think it's interesting, fun or cool. I'd avoid it if you can, it adds nothing, and justifying doesn't make the overused trope ok or good, just less bad.
-> 
 
-> **u/OnlyEvonix** [+1] *
+> **u/OnlyEvonix** [+1]  (2 days later)
 > 
 > Im vaguely working on some HP worldbuilding, I wrote something more detailed here a few times but I kept doing something else and losing it. magic starts out as wordless, wandless magic, when spells are done repeatedly similarly they start leaving an imprint in the "weave"(what exactly the weave actually is is unclear but it's agreed it's a useful abstraction for most basic magical theory) and becomes associated with certain words and actions and over time casters improve on the spell, like a shared skill and it becomes easier and easier to do. The spells usually sound latin due to their culture of spell creation and modern spells tend to sound latin-ish as they're more likely to be picked up. It's possible to alter it more directly, for example the Taboo is done by making a word a spell that can be done accidentally. Of course the weave is not clearly partitioned and is more like a landscape built up over millennia of magical history and magical theory tends to be more of a soft science than a hard one.
-> Secondly there's my DnD headcanon: spell words are mostly arbitrary, they're triggers for spells that have already been mostly cast ahead of time.
 > 
+> Secondly there's my DnD headcanon: spell words are mostly arbitrary, they're triggers for spells that have already been mostly cast ahead of time.
 
-> **u/ironistkraken** [+1] *
+> **u/ironistkraken** [+1]  (2 days later)
 > 
 > The world could just require it.  To make it more rational all magic is based around sounds that voice can produce (or maybe magic can only be with instruments), so if some one has the gift of magic and they put sounds together (would have to uncommon sounds) they can make things happen.  So MC can munchkin.
-> 
 
-> **u/thekme** [+1] *
+> **u/thekme** [+1]  (2 days later)
 > 
 > Magic is a mystic force that is not really understood. But it is known that the act of casting a spell is basically a very focused and powerful way of expressing your thoughts. Powerful enough to alter reality.
-> When a magician utters an incantation, it's not just a word, it is backed by his understanding of magic and the abstract concept of the effect that he is producing. These incantations are not just sound waves, they flow trough meta-reality and bypass the material, like some sort of  left over residue of the spell. When heard by humans they can often sound distorted, dreamlike or spoken in a different voice, always conveying more meaning then what is just encoded in the words.
-> It is also not really required to use the same word for the same spell. It only matters how the caster conceptualizes the effect that the word captures. But of course, one tradition can standardize these words as they are very likely to work more or less the same for the casters of the same culture.
-> Same rules are also applied to the gestures and other acts that can help in spellcasting, but master archmages are so advanced in their understanding of magic that they don't need anything else except their thoughts (at least for simpler spells).
 > 
+> When a magician utters an incantation, it's not just a word, it is backed by his understanding of magic and the abstract concept of the effect that he is producing. These incantations are not just sound waves, they flow trough meta-reality and bypass the material, like some sort of  left over residue of the spell. When heard by humans they can often sound distorted, dreamlike or spoken in a different voice, always conveying more meaning then what is just encoded in the words.
+> 
+> It is also not really required to use the same word for the same spell. It only matters how the caster conceptualizes the effect that the word captures. But of course, one tradition can standardize these words as they are very likely to work more or less the same for the casters of the same culture.
+> 
+> Same rules are also applied to the gestures and other acts that can help in spellcasting, but master archmages are so advanced in their understanding of magic that they don't need anything else except their thoughts (at least for simpler spells).
 
-> **u/TrebarTilonai** [+1] *
+> **u/TrebarTilonai** [+1]  (2 days later)
 > 
 > The Dresden Files aren't particularly rational, but they have a neat take on this. In that world, the incantation literally doesn't matter. Magic is nothing but the control and shaping of energy through willpower. Channeling that energy, though, is dangerous, and so words are used to isolate your thoughts from the energy as you would probably fry your brain if you tried to cast without some kind of insulation. It's also why they tend to be in ancient languages; you get less leakage of the power if the words aren't associated with something besides the spell you are using.  
-
-> Though this isn't always the case. The main character has a cute little spell to light candles or small objects like a cigarette with. His incantation is "flickum bicus", which is both easy to associate with what he wants to do but also the pseudo-Latin helps him to isolate even though the association is obviously there.
 > 
+> Though this isn't always the case. The main character has a cute little spell to light candles or small objects like a cigarette with. His incantation is "flickum bicus", which is both easy to associate with what he wants to do but also the pseudo-Latin helps him to isolate even though the association is obviously there.
 
-> **u/ZachPruckowski** [+1] *
+> **u/ZachPruckowski** [+1]  (2 days later)
 > 
 > What if it functions as a locking method keeping something else from using magic? This could be a cultural thing ([like this](https://www.youtube.com/watch?v=8Q57FRfFlnQ)) or a physical/biological thing, and you could use pitch or specific phonemes ([unused in a given language](https://www.quora.com/What-sounds-are-not-found-in-the-English-language)). You could set this up so that magic is gender/culture-specific among humans - if you've gotta cast spells in mezzo-soprano, you're not going to get many dude-mages.
-> Obviously that would have to fit within an existing backstory (where magic is invented by someone who wants to restrict it to certain people) and might have downstream effects (if there's a group locked out of using magic).
-> &#x200B;
-> \[1\] - Good candidates would be the ʒ (ZH) or ɔɪ (OI) phonemes, since [they're uncommon in English words](https://cmloegcmluin.wordpress.com/2012/11/10/relative-frequencies-of-english-phonemes/) (and thus unlikely to trip you up). You'd just say that whichever folks are being kept from magic just don't have that sound in their language.
 > 
+> Obviously that would have to fit within an existing backstory (where magic is invented by someone who wants to restrict it to certain people) and might have downstream effects (if there's a group locked out of using magic).
+> 
+> &#x200B;
+> 
+> \[1\] - Good candidates would be the ʒ (ZH) or ɔɪ (OI) phonemes, since [they're uncommon in English words](https://cmloegcmluin.wordpress.com/2012/11/10/relative-frequencies-of-english-phonemes/) (and thus unlikely to trip you up). You'd just say that whichever folks are being kept from magic just don't have that sound in their language.
 
-> **u/lmbfan** [+1] *
+> **u/lmbfan** [+1]  (3 days later)
 > 
 > Probably too late but:
-> Magic is a type of particle/energy/element that permeates the universe. The body naturally collects and stores magic, including the brain. Mental energy (synapses firing) activates the magic. Specific gestures, words, visualizations are required to energize magic in a structured way to produce spells.
 > 
+> Magic is a type of particle/energy/element that permeates the universe. The body naturally collects and stores magic, including the brain. Mental energy (synapses firing) activates the magic. Specific gestures, words, visualizations are required to energize magic in a structured way to produce spells.
 
 ---
 

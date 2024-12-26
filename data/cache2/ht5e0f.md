@@ -2,7 +2,7 @@
 
 * Author: u/cstmorr *
 * URL: https://www.reddit.com/r/rational/comments/ht5e0f/should_i_return_to_reading_worth_the_candle/
-* Score: 31
+* Score: 30
 
 * Created: 2020-07-17T22:28:48
 
@@ -18,419 +18,371 @@ Anyway, to be clear it's a great story, top 10 in the genre IMO, I just got exha
 
 ### Comments:
 
-> **u/istandleet** [+30] *
+> **u/istandleet** [+35]  (17 minutes later)
 > 
 > The next arc kinda maxes out what you are describing, but the latest published arc published (ending chapter 205) pays it off really well and dramatically changes things. I'm looking forward to the next arc, I think the characters are developing in novel ways.
-> 
 
->> **u/cstmorr** [+13] *
+>> **u/cstmorr** [+13]  (34 minutes later)
 >> 
 >> Oh, that's good to know. If it's something that I can push through I'll happily do so. Thank you!
->> 
 
->>> **u/Reply_or_Not** [+11] *
+>>> **u/Reply_or_Not** [+8]  (4 hours later)
 >>> 
 >>> I would argue that the entire story is set up to be a subversion of "narrative theory", of course to subvert it, the story has to set it up first!
->>> 
 
->>>> **u/vimefer** [+3] *
+>>>> **u/vimefer** [+3]  (3 days later)
 >>>> 
 >>>> That's been my hope too, with Juniper's belief in how the narrative theory "ought to work" being the actual reason why it is currently verifying, all because the DM makes the world work the way the PC expects it should work ; and >!this being a future point that Juniper and gang have to disprove to Arthur once they eventually meet him - so that Arthur realizes his being trapped by narrative was all his own doing in the first place.!<
->>>> 
 
-> **u/assbutter9** [+18] *
+> **u/assbutter9** [+18]  (an hour later)
 > 
 > "top 10 in the genre", wow what weighty praise lol
-
-> Edit: To answer your question though, for a while WtC was honestly getting a little too depressing and feeling a bit aimless to me but I've been in love with the story again as of the last couple of releases.
 > 
+> Edit: To answer your question though, for a while WtC was honestly getting a little too depressing and feeling a bit aimless to me but I've been in love with the story again as of the last couple of releases.
 
->> **u/Jokey665** [+27]  *Worth the Candle**
+>> **u/Jokey665** [+28]  *Worth the Candle* (an hour later)
 >> 
 >> Worth the Candle is at absolute worst the second best story ever posted to this subreddit.
->> 
 
->>> **u/assbutter9** [+19] *
+>>> **u/assbutter9** [+17]  (an hour later)
 >>> 
 >>> On this subreddit I'd say it's #1 and it's honestly not that close. 
->>> Just the quality of the writing in general puts it head and shoulders above anything else in this genre.
 >>> 
+>>> Just the quality of the writing in general puts it head and shoulders above anything else in this genre.
 
->>>> **u/Jokey665** [+13]  *Worth the Candle**
+>>>> **u/Jokey665** [+10]  *Worth the Candle* (an hour later)
 >>>> 
 >>>> I like Worm more but I see mixed opinions on whether or not it belongs here.
->>>> Nothing else is close to those, though. PGtE is the next closest and is very good, but it's still a step behind.
 >>>> 
+>>>> Nothing else is close to those, though. PGtE is the next closest and is very good, but it's still a step behind.
 
->>>>> **u/Anew_Returner** [+32] *
+>>>>> **u/Anew_Returner** [+26]  (2 hours later)
 >>>>> 
 >>>>> >Nothing else is close to those, though
->>>>> Guess everyone has already forgotten about Mother of Learning :/ I'm pretty sure that fic is the reason a lot of people found out this sub.
 >>>>> 
+>>>>> Guess everyone has already forgotten about Mother of Learning :/ I'm pretty sure that fic is the reason a lot of people found out this sub.
 
->>>>>> **u/Jokey665** [-16]  *Worth the Candle**
+>>>>>> **u/Jokey665** [-17]  *Worth the Candle* (2 hours later)
 >>>>>> 
 >>>>>> MoL is honestly really bad and I don't understand its huge following at all.
->>>>>> 
 
->>>>>>> **u/JusticeBeak** [+21] *
+>>>>>>> **u/JusticeBeak** [+22]  (2 hours later)
 >>>>>>> 
 >>>>>>> The prose is lackluster, but the story is engaging and the world is very rich.
->>>>>>> 
 
->>>>>>>> **u/Jokey665** [-10]  *Worth the Candle**
+>>>>>>>> **u/Jokey665** [-10]  *Worth the Candle* (2 hours later)
 >>>>>>>> 
 >>>>>>>> Disagree on story and world.
->>>>>>>> 
 
->>>>>>>>> **u/ArcTruth** [+13] *
+>>>>>>>>> **u/ArcTruth** [+14]  (4 hours later)
 >>>>>>>>> 
 >>>>>>>>> I'm seeing you and a couple others say it's bad but that's it - I don't follow. How is it bad? It had solid worldbuilding, an interesting, thought-out, and intricate plot, an ending that was unexpected but foreshadowed and effectively resolved most plot points despite being a bit of a deus ex machina. And very solid prose throughout. What made it so bad?
->>>>>>>>> 
 
->>>>>>>>>> **u/Jokey665** [+0]  *Worth the Candle**
+>>>>>>>>>> **u/Jokey665** [+1]  *Worth the Candle* (5 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> The prose is very poor, and every character's dialogue felt the same. Nobody had a unique 'voice'. And honestly I didn't find the world or plot very interesting outside of a few details (i like psychic spiders). That comment, "i like psychic spiders" is honestly the only good thing I can think of to say about the 80~ chapters I read of that story.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/ArcTruth** [+2] *
+>>>>>>>>>>> **u/ArcTruth** [+2]  (7 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I appreciate you taking the time to share those thoughts in at least some detail. I find some truth, too, in your saying that few characters had their own "voice."
->>>>>>>>>>> 
 
->>>>>>> **u/cstmorr** [+5] *
+>>>>>>> **u/cstmorr** [+6]  (2 hours later)
 >>>>>>> 
 >>>>>>> MoL took me 2-3 tries to get into, and I only kept trying because it kept getting recommended. It's enjoyable once you get past the setup, IMO, but the first part of the story is pretty lackluster.
->>>>>>> 
 
->>>>>>>> **u/Jokey665** [-7]  *Worth the Candle**
+>>>>>>>> **u/Jokey665** [-7]  *Worth the Candle* (3 hours later)
 >>>>>>>> 
 >>>>>>>> i forced myself to read 80 chapters before finally giving up on it. it's ass
->>>>>>>> 
 
->>>>>>>>> **u/cstmorr** [+9] *
+>>>>>>>>> **u/cstmorr** [+9]  (3 hours later)
 >>>>>>>>> 
 >>>>>>>>> Oh, wow. That's more than I'd spend on a story I hate. I have a 30 chapter limit before applying my "shit forever" label.
->>>>>>>>> 
 
->>>>>>>>> **u/Vircuso** [-4] *
+>>>>>>>>> **u/Vircuso** [-2]  (4 hours later)
 >>>>>>>>> 
 >>>>>>>>> None of the stuff you find online is excellent. It is just amateur writers after all. It all boils down to taste though. What kind of online stuff do you find good if MoL is ass?
->>>>>>>>> 
 
->>>>>>>>>> **u/Jokey665** [+2]  *Worth the Candle**
+>>>>>>>>>> **u/Jokey665** [+2]  *Worth the Candle* (4 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I've mentioned the best of them: Worth the Candle, Worm, Practical Guide to Evil. All excellent, and honestly better than most of the published novels I've read.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Vircuso** [+1] *
+>>>>>>>>>>> **u/Vircuso** [+1]  (4 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Those three are better than MoL in my opinion as well. But your comment was so dismissive. It was a pretty well thought out story and I enjoyed it at least.
->>>>>>>>>>> 
 
->>>>>>> **u/Xtraordinaire** [+4]  *Team Glimglam**
+>>>>>>> **u/Xtraordinaire** [+4]  *Team Glimglam* (9 hours later)
 >>>>>>> 
 >>>>>>> I could say the same about Guide, ha. I mean, if we're comparing audience reception here measured by upvotes, PGTE is not even third (deservedly so if you ask me).
->>>>>>> 
 
->>>>>>> **u/assbutter9** [-1] *
+>>>>>>> **u/assbutter9** [-2]  (3 hours later)
 >>>>>>> 
 >>>>>>> Agreed honestly. The ending was very, very poorly done as well but was pretty much universally praised on this sub. 
->>>>>>> It was really lukewarm praise though lol like people felt really bad that they were disappointed. Like 90% of the comments on the last chapter were things like "Wow, this story was a great ride and I'm so sad it's over! ....here's hoping for an epilogue!"
 >>>>>>> 
+>>>>>>> It was really lukewarm praise though lol like people felt really bad that they were disappointed. Like 90% of the comments on the last chapter were things like "Wow, this story was a great ride and I'm so sad it's over! ....here's hoping for an epilogue!"
 
->>>>>>>> **u/ArcTruth** [+6] *
+>>>>>>>> **u/ArcTruth** [+6]  (4 hours later)
 >>>>>>>> 
 >>>>>>>> I'm seeing you and a couple others say it's bad but that's it - I don't follow. How is it bad? It had solid worldbuilding, an interesting and intricate plot, an ending that was unexpected but foreshadowed and effectively resolved most plot points despite being a bit of a deus ex machina.
->>>>>>>> 
 
->>>>>>>>> **u/Xtraordinaire** [+2]  *Team Glimglam**
+>>>>>>>>> **u/Xtraordinaire** [+2]  *Team Glimglam* (18 hours later)
 >>>>>>>>> 
 >>>>>>>>> As a fan of MoL I can definitely say that it has its share of weaknesses (so does WtC), and I suppose these can be a deal-breaker for some people. I.e. regarding the plot, the tension was pretty low for a good part of the third arc, once it was determined that the red robe has fled the loop.
->>>>>>>>> That said I was one of the "Wow, this story was a great ride and I'm so sad it's over! ....here's hoping for an epilogue!" people, and the person you're replying to had completely missed the point behind these comments (the point was, we want more of the good stuff, not that the story was bad. If it wasn't we wouldn't be asking for more, duh).
 >>>>>>>>> 
+>>>>>>>>> That said I was one of the "Wow, this story was a great ride and I'm so sad it's over! ....here's hoping for an epilogue!" people, and the person you're replying to had completely missed the point behind these comments (the point was, we want more of the good stuff, not that the story was bad. If it wasn't we wouldn't be asking for more, duh).
 
->>>>>>>>>> **u/assbutter9** [+1] *
+>>>>>>>>>> **u/assbutter9** [+1]  (19 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I more so meant that almost no one was discussing the ending itself. I am assuming mostly because it was a combination of extremely predictable and hamfisted deus ex machina, so there really wasn't anything to discuss.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>>>>>>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam* (20 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> This is fairplay mystery/puzzle working as intended. More so, it's *a defining feature of the entire rational fiction genre*. This is exactly why MoL is highly regarded in this subreddit.
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/assbutter9** [+0] *
+>>>>>>>>>>>> **u/assbutter9** [+0]  (20 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> No. Just fucking no, I'm not even going to engage on this.
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>>>>>>>>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam* (20 hours later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Can't say this has been engaging up to this point, so I guess, par for the course.
->>>>>>>>>>>>> 
 
->>>>> **u/cstmorr** [+11] *
+>>>>> **u/cstmorr** [+11]  (an hour later)
 >>>>> 
 >>>>> Oof, Worm's author is offender #1 when it comes to writing predictable challenges that scale to exceed the power of the characters by the precise amount needed to be nearly impossible. He's gotten worse about it over time, too. I tried to start Ward a couple weeks ago and had to nope out after the first fight, because it was just a frustrating, shitty mess of "ooh I'm slightly too strong for you".
->>>>> I actually felt like WtC was partially based on wanting to call out the narrative theory cycle that produces that kind of stuff. And that was even fun, until it went on for too long.
 >>>>> 
+>>>>> I actually felt like WtC was partially based on wanting to call out the narrative theory cycle that produces that kind of stuff. And that was even fun, until it went on for too long.
 
->>>>>> **u/assbutter9** [+15] *
+>>>>>> **u/assbutter9** [+17]  (an hour later)
 >>>>>> 
 >>>>>> ....honestly not sure what you're looking for buddy. Don't think your kind of story really exists, I literally never had that impression a single time reading worm/ward. Pretty sure you got this idea in your head and now you see it everywhere.
->>>>>> 
 
->>>>>>> **u/cstmorr** [+5] *
+>>>>>>> **u/cstmorr** [+5]  (an hour later)
 >>>>>>> 
 >>>>>>> I loved Worm, actually. I got that idea from Pact, and then from Twig. Each seemed to progressively intensify the worse parts of the plotting style that produced Worm, although the ideas and worldbuilding were still great. Did you read those two?
->>>>>>> 
 
->>>>>>>> **u/assbutter9** [+4] *
+>>>>>>>> **u/assbutter9** [+3]  (2 hours later)
 >>>>>>>> 
 >>>>>>>> I can actually absolutely see that in Pact, 100%. I loved Twig though and don't see what you mean there, I think it's Wildbow's best work.
->>>>>>>> 
 
->>>>>>>>> **u/cstmorr** [+13] *
+>>>>>>>>> **u/cstmorr** [+13]  (2 hours later)
 >>>>>>>>> 
 >>>>>>>>> Oh, I looooooooved the worldbuilding in Twig. It's an amazing premise that nobody else has succeeded with the same way. I don't mean to give the impression that I hated the story, I ate up most of it. But every single fight or emergency, they only escaped by the skin of their teeth, and the escalating pattern ultimately felt predictable for me. That's not a pattern I see in all fictions, or even most.
->>>>>>>>> 
 
->>>>> **u/assbutter9** [+1] *
+>>>>> **u/assbutter9** [+1]  (an hour later)
 >>>>> 
 >>>>> I don't consider worm in the same genre, I've loved basically everything from Wildbow more than/just as much as WtC though.
->>>>> 
 
->>>> **u/PastafarianGames** [+3] *
+>>>> **u/PastafarianGames** [+4]  (6 hours later)
 >>>> 
 >>>> While WtC is indeed very good, I think it's a reach to call it head and shoulders above APGtE or some of the short stories people have written. I mean, Scott Alexander has written some stuff that stands just as tall as WtC.
->>>> 
 
->>>>> **u/assbutter9** [+4] *
+>>>>> **u/assbutter9** [+4]  (6 hours later)
 >>>>> 
 >>>>> Oh I was mostly talking about the litrpg genre in general, where nothing is really close to the same league as WtC. 
->>>>> I didn't know APGtE really got posted here anymore but if we're counting that I'd rate it as a reasonably close #2 to WtC, I'm a big fan.
 >>>>> 
+>>>>> I didn't know APGtE really got posted here anymore but if we're counting that I'd rate it as a reasonably close #2 to WtC, I'm a big fan.
 
->>>>>> **u/PastafarianGames** [+3] *
+>>>>>> **u/PastafarianGames** [+3]  (18 hours later)
 >>>>>> 
 >>>>>> Yeah, most of the LitRPG genre is absolute dross, I'll grant you that. The first book in Andrew Rowe's Arcane Ascension series was quite good, but it's not a free web serial so it's not really the kind of thing this subreddit goes for.
->>>>>> 
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (18 hours later)
 >>>>>> 
 >>>>>> The WanderingInn is really good. Not particularly rational and unfortunately the first book is the weakest. But IMO more enjoyable than WTC which is probably my second favorite litrpg.
->>>>>> 
 
->>>>>>> **u/assbutter9** [+4] *
+>>>>>>> **u/assbutter9** [+4]  (19 hours later)
 >>>>>>> 
 >>>>>>> I absolutely love The Wandering Inn, it's currently my favorite web serial and I'm a patreon supporter who looks forward to every release.
->>>>>>> I honestly don't really consider it part of the LitRPG genre anymore though, it has basically just become a fantasy series with a power system.
 >>>>>>> 
+>>>>>>> I honestly don't really consider it part of the LitRPG genre anymore though, it has basically just become a fantasy series with a power system.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (8 hours later)
 >>> 
 >>> yep. and there’s a huge drop-off after the top 2-3
->>> 
 
->> **u/cstmorr** [+11] *
+>> **u/cstmorr** [+11]  (an hour later)
 >> 
 >> Just personal opinion obviously :) But I feel like 90% of the competition is utter schlock, and I'm not even referring to the wish fulfillment stuff -- just poorly written LitRPG that utterly fails to justify its worldbuilding. I admire WtC for the high effort attempt at rationality, heh.
->> 5 seconds later edit: oh you were probably being sarcastic. facepalm.
 >> 
+>> 5 seconds later edit: oh you were probably being sarcastic. facepalm.
 
->>> **u/assbutter9** [+15] *
+>>> **u/assbutter9** [+16]  (an hour later)
 >>> 
 >>> Lol yes I was absolutely being sarcastic. Compared to any other litrpg that exists WtC is a masterpiece. It's the only one I've ever read with genuinely quality writing and a fully realized world. Everything else in the genre is borderline gutter-tier garbage.
->>> 
 
->>>> **u/cstmorr** [+17] *
+>>>> **u/cstmorr** [+17]  (an hour later)
 >>>> 
 >>>> Eh, I wouldn't call everything else garbage, not by a long shot. I think LitRPG is actually much harder to rationalize and turn into a believable story than the broader fantasy genre, because it's inherently about something trivial (a game) that has no reasonable purpose for existing (especially looking at the grimderp System Apocalypse stories here).
->>>> WtC kind of slides around that criticism by acknowledging that the world is fucking ridiculous and utterly broken, and that the reason for that is that it's a poorly cobbled together collection of ideas from a single person, and also only exists to antagonize that same person. In other words, it didn't find a "solution" for the challenge facing the genre as a whole, it just created a very specific solution for itself -- and that solution still has the potential to fall apart when the story reveals the full justification for it.
->>>> Some other stories are trying to create fully-fledged worlds that matter for more than a single character and/or provide a solution that would work for the whole genre, and I think that's worth points for effort, and mega points for success, if any should actually succeed.
->>>> ... goddamnit I word too much.
 >>>> 
+>>>> WtC kind of slides around that criticism by acknowledging that the world is fucking ridiculous and utterly broken, and that the reason for that is that it's a poorly cobbled together collection of ideas from a single person, and also only exists to antagonize that same person. In other words, it didn't find a "solution" for the challenge facing the genre as a whole, it just created a very specific solution for itself -- and that solution still has the potential to fall apart when the story reveals the full justification for it.
+>>>> 
+>>>> Some other stories are trying to create fully-fledged worlds that matter for more than a single character and/or provide a solution that would work for the whole genre, and I think that's worth points for effort, and mega points for success, if any should actually succeed.
+>>>> 
+>>>> ... goddamnit I word too much.
 
->>>>> **u/assbutter9** [+10] *
+>>>>> **u/assbutter9** [+11]  (2 hours later)
 >>>>> 
 >>>>> Nah, every single LitRPG out there right now is written in a terrible, stilted, amateurish style. I've tried basically every single popular one and that is what always ruins them for me. 
->>>>> It isn't a matter of making the plot more rational or anything like that, it's just the fact that for 99% of them they are the authors first work in any genre. And it shows.
 >>>>> 
+>>>>> It isn't a matter of making the plot more rational or anything like that, it's just the fact that for 99% of them they are the authors first work in any genre. And it shows.
 
->>>>>> **u/cstmorr** [+7] *
+>>>>>> **u/cstmorr** [+9]  (2 hours later)
 >>>>>> 
 >>>>>> That's true in general. But I also think the average quality of new stories has risen over the past year. Compare something like Seaborn or the Menocht Loop to the top new fictions from 2-3 years ago on Royalroad and I think you'd agree they don't deserve to be put in the same bucket, even if you still don't like the two I named.
->>>>>> 
 
->>>>>>> **u/assbutter9** [+12] *
+>>>>>>> **u/assbutter9** [+8]  (3 hours later)
 >>>>>>> 
 >>>>>>> For sure I can agree with that, stuff like Delve, while not actually "good" is 10000x better than some of the older stuff that was almost unanimously praised at the time. The authors who have been at it a little while have been getting better and better too. 
->>>>>>> For example, The Wandering Inn was barely readable to me at first and I dropped it like 5 times during the first couple arcs but I think it's genuinely good now, I look forward to the releases every week. Practical Guide to Evil was really roughly written at first too and I love that one now as well. For both of those though, Wandering Inn started off LitRPG and is pretty much just a fantasy story now, and Practical guide was always just fantasy. The litrpg genre is getting better but still just really rough.
 >>>>>>> 
+>>>>>>> For example, The Wandering Inn was barely readable to me at first and I dropped it like 5 times during the first couple arcs but I think it's genuinely good now, I look forward to the releases every week. Practical Guide to Evil was really roughly written at first too and I love that one now as well. For both of those though, Wandering Inn started off LitRPG and is pretty much just a fantasy story now, and Practical guide was always just fantasy. The litrpg genre is getting better but still just really rough.
 
->>>>>>>> **u/cstmorr** [+4] *
+>>>>>>>> **u/cstmorr** [+7]  (3 hours later)
 >>>>>>>> 
 >>>>>>>> The Wandering Inn started off as quite unremarkable, even boring / frustrating, but it's my absolute favorite now. I'm basing that solely off arcs 6 and 7, but I think it's fair to consider the latest 2 million words of a 5 million word fiction. The problem is how a new reader would get into it. Skimming? That's unique to webfic; no traditional fantasy author ever had to worry about spending their entire career on one ongoing story, and they all have notoriously bad stories / series that got buried under new stuff (e.g. Glen Cook's Dread Empire versus the Black Company).
->>>>>>>> Similarly to TWI, I tried PGtE and bounced out early on, but never gave it another chance. We've been arguing all through this thread but I suspect we're actually seem pretty similar in terms of taste, so I guess I'm going to pull up my socks and give it a real try. Thanks (if I don't hate it).
 >>>>>>>> 
+>>>>>>>> Similarly to TWI, I tried PGtE and bounced out early on, but never gave it another chance. We've been arguing all through this thread but I suspect we're actually seem pretty similar in terms of taste, so I guess I'm going to pull up my socks and give it a real try. Thanks (if I don't hate it).
 
->>>>>>>>> **u/assbutter9** [+2] *
+>>>>>>>>> **u/assbutter9** [+2]  (3 hours later)
 >>>>>>>>> 
 >>>>>>>>> Yeah The Wandering Inn is wonderful now, it's just like a smooth, addicting read every chapter. There aren't many serials out right now that scratch the same itch. It's long-winded but I honestly prefer that in a serial. The author is insane no idea how she churns out 40-60k words a week this consistently. 
->>>>>>>>> But yeaaah I've never been able to recommend it to a friend lol. "Just lightly read/skim the first 1 million words and it gets great I swear!" Not the best sell. 
->>>>>>>>> And yeah I'm pretty convinced our taste is very similar, hope you didn't get the impression I was arguing angrily or anything, just a good discussion. I would thoroughly recommend PGtE, it's the same situation as Wandering Inn where the first 1/2 arcs are very mediocre but it gets much better. I think I've heard English isn't the authors first language and if true it makes perfect sense, it becomes more and more fluid as it goes. 
->>>>>>>>> Won't say it's my favorite or the best web serial out there but it's very good and worth reading if you like fantasy.
 >>>>>>>>> 
+>>>>>>>>> But yeaaah I've never been able to recommend it to a friend lol. "Just lightly read/skim the first 1 million words and it gets great I swear!" Not the best sell. 
+>>>>>>>>> 
+>>>>>>>>> And yeah I'm pretty convinced our taste is very similar, hope you didn't get the impression I was arguing angrily or anything, just a good discussion. I would thoroughly recommend PGtE, it's the same situation as Wandering Inn where the first 1/2 arcs are very mediocre but it gets much better. I think I've heard English isn't the authors first language and if true it makes perfect sense, it becomes more and more fluid as it goes. 
+>>>>>>>>> 
+>>>>>>>>> Won't say it's my favorite or the best web serial out there but it's very good and worth reading if you like fantasy.
 
->>>>>>>>>> **u/cstmorr** [+1] *
+>>>>>>>>>> **u/cstmorr** [+1]  (4 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Arguing with people about nerdy stuff is pure entertainment for me and I assume everyone engaging is having fun, so no worries.
->>>>>>>>>> I feel you on the Wandering Inn. I have a friend I got into it who dropped it in, I think, Arc 4 because of Ryoka. He refuses to pick it up since then and I can't really blame him for it, either.
 >>>>>>>>>> 
+>>>>>>>>>> I feel you on the Wandering Inn. I have a friend I got into it who dropped it in, I think, Arc 4 because of Ryoka. He refuses to pick it up since then and I can't really blame him for it, either.
 
->>>>>>>>> **u/ArcTruth** [+2] *
+>>>>>>>>> **u/ArcTruth** [+2]  (4 hours later)
 >>>>>>>>> 
 >>>>>>>>> I sing the praises of PGtE every chance I get lately. Especially in the latest 2 arcs I honestly feel it's some of the best written stuff out there. Its politics, especially, have been incredible lately, and that's not only hard to write but hard to make fun to read.
->>>>>>>>> 
 
->>>>>>>>>> **u/cstmorr** [+2] *
+>>>>>>>>>> **u/cstmorr** [+2]  (4 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Push through several books worth of material to get to the good stuff? ... yeah, it won't be my first time. Challenge accepted.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/ArcTruth** [+2] *
+>>>>>>>>>>> **u/ArcTruth** [+2]  (4 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Good luck! For what it's worth I recall thoroughly enjoying books 3 and 4, though I suspect from your discussions my standards aren't quite as high as yours and assbutter's. I also liked 1 and 2 but it's been too long for me to recall criticisms clearly.
->>>>>>>>>>> 
 
->>>>>>>>> **u/Turniper** [+2] *
+>>>>>>>>> **u/Turniper** [+2]  (5 hours later)
 >>>>>>>>> 
 >>>>>>>>> Gotta chime in that you need to read Practical. The first arc is a little slow, but particularly from book 2 onward it's absolutely on another level compared to anything else on TWF or on Royal Road. From your comment I may need to give Wandering Inn a 3rd try, I kept getting stopped at the first or second chapter. Honestly it being insanely long is a plus for me, I keep knocking out million word stories in a week and as long as I know it gets better I'll probably stick it out. The writing in the first chapter and a half is almost painfully stilted though.
->>>>>>>>> 
 
->>>>>>>>>> **u/cstmorr** [+4] *
+>>>>>>>>>> **u/cstmorr** [+5]  (6 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> TWI is becoming a weird anomaly. The author keeps getting better, even as the story keeps getting larger and larger. I think arc 7, the latest, is by far the best. It's just inhuman to not get burned out, run out of ideas, or lose the plot after 5 million words. 
->>>>>>>>>> But, it's a long haul to reach the very best material. My advice: if a particular character annoys you, just skip their sections. A lot of readers apparently do that for characters they find disagreeable or morally objectionable.
 >>>>>>>>>> 
+>>>>>>>>>> But, it's a long haul to reach the very best material. My advice: if a particular character annoys you, just skip their sections. A lot of readers apparently do that for characters they find disagreeable or morally objectionable.
 
->>>>>>>> **u/Vircuso** [+4] *
+>>>>>>>> **u/Vircuso** [+5]  (4 hours later)
 >>>>>>>> 
 >>>>>>>> Totally agree about the wandering inn. It started out as a weird little 4/10 story but now it's the height of my day whenever a new chapter comes out. Mostly the the negative things i see from other readers is that it's too long or that pirateaba changes character perspectives too often. But all the people that say that just don't get the story or the format it feels like. It's a huge story and it's gonna take years and years to tell it properly. I read all the popular stories on here and love the wandering inn as well. Not because it's rational but because it's just good.
->>>>>>>> Im not an english speaker and I was a little drunk but this looks fine to me. I had to give TWI some love.
 >>>>>>>> 
+>>>>>>>> Im not an english speaker and I was a little drunk but this looks fine to me. I had to give TWI some love.
 
->>>>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (3 days later)
 >>>>>>>> 
 >>>>>>>> Interesting...I haven't looked at it in a while. Can't remember exactly where I was up to (there are sooo many different points of view) but I think it wasn't all that long after the Doctor >!walked out on the battlefield!<. And Erin recently >!shut down the portal to a lizardman city because the city officials were complaining that it was a security breach, and then they wanted to seize it for themselves!<.
->>>>>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (16 hours later)
 >>>>>> 
 >>>>>> *Every* one? Have you tried these?: 
+>>>>>> 
 >>>>>> <plug type="self'>
 >>>>>> https://forums.sufficientvelocity.com/threads/the-patchwork-realms-arrival.63045/#post-14500524
 >>>>>> </plug
+>>>>>> 
 >>>>>> <plug type="other">
 >>>>>> https://www.royalroad.com/fiction/29358/dungeon-crawler-carl/chapter/442507/chapter-1
 >>>>>> </plug>
->>>>>> 
 
->>>>> **u/mannieCx** [+1] *
+>>>>> **u/mannieCx** [+1]  (6 hours later)
 >>>>> 
 >>>>> What other LitRPGs do you like?
->>>>> 
 
->>>>>> **u/cstmorr** [+1] *
+>>>>>> **u/cstmorr** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> The webfics, not all LitRPG, that I have open on my phone right now (meaning I'm at least mildly interested in another chapter) are The Wandering Inn, Wake of the Ravager, Delve, the Zombie Knight, Seaborn, A Journey of Black and Red, Blessed Time, Returning, and the Menocht Loop. Some other stuff I like, such as The Gilded Hero, update so infrequently that I periodically forget they exist.
->>>>>> 
 
-> **u/Geminii27** [+5] *
+> **u/Geminii27** [+4]  (13 hours later)
 > 
 > Honestly, I kind of like the narrative thing, because we're never *entirely* sure whether it's actually true, or just something Juniper is seeing due to his own background. Maybe Aerb does run on Joon-style narrative. But maybe it runs on Arthur-style narrative, which is subtly different. Or maybe it's neither; it's just that Joon and Arthur came close to getting the framework right.
-> Essentially, we still don't know if there are underlying frameworks that Joon is missing entirely, which could become problematic. He seems to have found something which is broadly correct, but the world is stuffed to the gills with weird shit that can suddenly leap out and be horrifying. We already know that there are memetic agents, memory-wipers, and ways to alter people fundamentally. How do we know that such things didn't happen to Arthur - and might have *already happened* to Joon and co?
 > 
+> Essentially, we still don't know if there are underlying frameworks that Joon is missing entirely, which could become problematic. He seems to have found something which is broadly correct, but the world is stuffed to the gills with weird shit that can suddenly leap out and be horrifying. We already know that there are memetic agents, memory-wipers, and ways to alter people fundamentally. How do we know that such things didn't happen to Arthur - and might have *already happened* to Joon and co?
 
-> **u/theLastHaruspex** [+3] *
+> **u/theLastHaruspex** [+3]  (an hour later)
 > 
 > This is really funny. I think the reason you dropped the fic-- that it's getting too predictable, I think that's exactly what the author is going for 😂
-> I may be wrong, of course. It just struck me that I do that kind of thing all the time :)
 > 
+> I may be wrong, of course. It just struck me that I do that kind of thing all the time :)
 
->> **u/cstmorr** [+3] *
+>> **u/cstmorr** [+5]  (an hour later)
 >> 
 >> Yeah, I totally agree. That's what made me give up hope -- because I think the author is competent and he'll succeed at what he's trying to do :P
->> 
 
->>> **u/Mason-B** [+7] *
+>>> **u/Mason-B** [+7]  (6 hours later)
 >>> 
 >>> I think he is going for it as well, but I think he is doing it to subvert it.
->>> The way I view it >!is that it was necessary for the narrative theory to be addressed in character due to the plot. But further than that I think it's a predictable sequence for a little while because the author is trying to make sure we "get" how the meta-narrative system works (kind of like PGtE, if you've ever read that, but in a more acknowledged way).!<
->>> I'm not quite sure when you stopped, >!but after it's established to an extent the author begins to subvert it and play with it. Because now that the characters are aware of it, it's no longer a useful way to predict what happens sort of thing. If I knew when you stopped and what specific parts you took issue with I might be able to better answer if it gets subverted or not.!<
 >>> 
+>>> The way I view it >!is that it was necessary for the narrative theory to be addressed in character due to the plot. But further than that I think it's a predictable sequence for a little while because the author is trying to make sure we "get" how the meta-narrative system works (kind of like PGtE, if you've ever read that, but in a more acknowledged way).!<
+>>> 
+>>> I'm not quite sure when you stopped, >!but after it's established to an extent the author begins to subvert it and play with it. Because now that the characters are aware of it, it's no longer a useful way to predict what happens sort of thing. If I knew when you stopped and what specific parts you took issue with I might be able to better answer if it gets subverted or not.!<
 
->>> **u/theLastHaruspex** [+1] *
+>>> **u/theLastHaruspex** [+1]  (2 hours later)
 >>> 
 >>> I understand how you feel. I think you if you ever do choose to hop back on, whether it's now or in the future, you'll gain more than you've invested in reading it. But don't feel the need to rush it :)
->>> 
 
-> **u/werafdsaew** [+2] *
+> **u/werafdsaew** [+2]  (9 hours later)
 > 
 > No it has not changed
-> 
 
-> **u/serge_cell** [+2] *
+> **u/serge_cell** [+2]  (19 hours later)
 > 
 > Author has writer's block right now, so I'd say it's not only you who have problem with where story is going.
-> 
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 > 
 > I just wanted to post this somewhere, but I was dreaming that there were new WtC chapters released and I was so sad when I woke up. I guess this is a sign of withdrawal symptoms?
-> 
 
-> **u/Mr-Mister** [+1] *
+> **u/Mr-Mister** [+1]  (22 hours later)
 > 
 > Could you edit your post to use the reddit-wide spoiler format, rather than /rational’s legacy one? Can’t see that one on some mobiles.
-> 
 
-> **u/rubix314159265** [+1] *
+> **u/rubix314159265** [+1]  (23 days later)
 > 
 > While in the begining of the story, the difficulty of encounters was obviously being scaled to his combat power, more it seems that obstacles are being crafted to challenge his own growth. To pass a specific obstacle he must overcome one of his personal failings, instead of just figure out how to hit very hard.
-> While to a point can be a different brand of predictable, I think it still allows a varied and shifting story.
 > 
+> While to a point can be a different brand of predictable, I think it still allows a varied and shifting story.
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [-1]  *Emergency Mustelid Hologram* (3 hours later)
 > 
 > I gave up on it after >!Shia LaBeouf!< actually showed up.
-> 
 
->> **u/Gr_Cheese** [+28] *
+>> **u/Gr_Cheese** [+26]  (3 hours later)
 >> 
 >> That was literally the best part of the story to date. Fight me.
->> 
 
->>> **u/RedSheepCole** [+18] *
+>>> **u/RedSheepCole** [+17]  (4 hours later)
 >>> 
 >>> Not sure I'd call it THE best, but it was certainly enjoyable, coming as it did at the tail end of a different ridiculous action sequence; there was a certain "my cup runneth over" effect there.
->>> 
 
->>>> **u/Mason-B** [+15] *
+>>>> **u/Mason-B** [+15]  (6 hours later)
 >>>> 
 >>>> I actually think that was the intention of the entire conclusion to that book. >!To demonstrate once and for all that Juniper has reached a level beyond comprehension/mortal levels. I'm not sure where the author is going to go with it, but I think the exclusion zone with Doris is better in the end because of it. That we are back to him solving problems with guile now that he has demonstrated that most simple martial challenges in the world are binary for him (either he will obviously win, or obviously not).!<
->>>> 
 
->>> **u/UPBOAT_FORTRESS_2** [+2] *
+>>> **u/UPBOAT_FORTRESS_2** [+2]  (2 days later)
 >>> 
 >>> Over >!blood God Doris? The tricked into a blowjob scene? Literally anything with Grak?!< I dunno man.
->>> 
 
-> **u/Luminous_Lead** [+0] *
+> **u/Luminous_Lead** [+0]  (a day later)
 > 
 > If you're into literary rpgs I'm liking Elemental Arena. I'd place it in the same bracket as Delve.  Elemental Arena is above in pacing, perhaps as it's earlier on in its development and still has a kind of frantic energy that comes from a life or death story, but I also really like how well integrated the system is into Delve's world.
-> 
 
 ---
 

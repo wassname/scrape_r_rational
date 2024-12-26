@@ -2,7 +2,7 @@
 
 * Author: u/LeonCross *
 * URL: https://www.reddit.com/r/rational/comments/3lggfh/worm_qa_computation/
-* Score: 14
+* Score: 17
 
 * Created: 2015-09-18T17:29:04
 
@@ -41,80 +41,95 @@ Bonus: A dragonflies vision is apparently crazy with 36 different kinds of cells
 
 ### Comments:
 
-> **u/MugaSofer** [+11] *
+> **u/MugaSofer** [+13]  (2 hours later)
 > 
 > I think the QA is doing something more sophisticated than "merely" attaching an extra short-term memory and sensory processing module to Skitter's brain - it learns tactics and, judging from the ending, more complex cognitive strategies involved in "creativity" and analysing complex ideas from her.
-> I'd model the QA as containing several partially-lobotomized uploads of Taylor's brain; maybe running on co-opted bug brains, maybe running on Shard computronium somewhere, all linked to her conscious mind. (I assume the actual mechanism is more advanced.)
-> Anything she's practiced enough that she can do it automatically is something the *uploads* can do automatically, freeing up her *actual* subconscious to automatically, say, consider which target is most important, or direct bugs to prepare silk just in case, or whatever. And then her shard learns how to do that, it starts doing it, and her subconscious is freed up to do something else in an ever-improving cycle.
-> The sensory processing is actually quite minimal, brains seem to do OK with prioritizing which bit of information is important.
-> In short: I don't think Taylor can multitask on thing which require her attention. She *might* be able to practise writing out pre-prepared essays until her power began automatically doing it in the background whenever she needed it to, but it would take far too much time for minimal reward.
-> On the other hand, she could use it for computational stuff, like image-classification or solving *simple* math problems - maybe even complex ones, but she'd need enough practise at math that splitting a problem up into subtasks becomes automatic. She'd probably be great as some kind of PRT analyst, watching camera feeds for suspects or even controlling automated drones; but they wouldn't be as smart as *Taylor*. She'd probably be pretty great at almost anything, really, given enough time to train.
 > 
+> I'd model the QA as containing several partially-lobotomized uploads of Taylor's brain; maybe running on co-opted bug brains, maybe running on Shard computronium somewhere, all linked to her conscious mind. (I assume the actual mechanism is more advanced.)
+> 
+> Anything she's practiced enough that she can do it automatically is something the *uploads* can do automatically, freeing up her *actual* subconscious to automatically, say, consider which target is most important, or direct bugs to prepare silk just in case, or whatever. And then her shard learns how to do that, it starts doing it, and her subconscious is freed up to do something else in an ever-improving cycle.
+> 
+> The sensory processing is actually quite minimal, brains seem to do OK with prioritizing which bit of information is important.
+> 
+> In short: I don't think Taylor can multitask on thing which require her attention. She *might* be able to practise writing out pre-prepared essays until her power began automatically doing it in the background whenever she needed it to, but it would take far too much time for minimal reward.
+> 
+> On the other hand, she could use it for computational stuff, like image-classification or solving *simple* math problems - maybe even complex ones, but she'd need enough practise at math that splitting a problem up into subtasks becomes automatic. She'd probably be great as some kind of PRT analyst, watching camera feeds for suspects or even controlling automated drones; but they wouldn't be as smart as *Taylor*. She'd probably be pretty great at almost anything, really, given enough time to train.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> > I think the QA is doing something more sophisticated than "merely" attaching an extra short-term memory and sensory processing module to Skitter's brain - it learns tactics and, judging from the ending, more complex cognitive strategies involved in "creativity" and analysing complex ideas from her.
->> It's sentient and even sapient, if you look at Noelle's interlude with her shard, they do seem to have some sort of self-identity and can apparently outright negotiate with their hosts. I don't even think you need uploads. Shards do a lot of processing that depends on some sort of processing that matches what humans can do (value judgments, etc.). They can then store common patterns the more they get a grasp on host psychology and tactics (imagine what they'll look like after 300 years of that)
->> >In short: I don't think Taylor can multitask on thing which require her attention. She might be able to practise writing out pre-prepared essays until her power began automatically doing it in the background whenever she needed it to, but it would take far too much time for minimal reward.
->> She might not be able to. Because shards don't have to work that way. Why can she do spiders but not crabs or ticks? It's deliberately arbitrary.
->> That's the beauty of shards; they explain the completely arbitrary limits on power and information processing you see in superpowers. Her shard lets her multitask for bugs because that's the stuff her shard wants info on. It doesn't have to grant her any leeway on anything else. How does the shard know about math problems vs. bug problems? How does it subtly encourage conflict here or there, how does it distinguish between the right bugs or the right emotional effects, especially subtle ones, or any of the shit they do?
->> That's the thing about the talk of "munchkinry" in the Worm universe. It only goes so far since it's a locked system. Apple vs. Android. What you "should" be able to do doesn't matter. The Manton Effect is just the best example of this.
 >> 
+>> It's sentient and even sapient, if you look at Noelle's interlude with her shard, they do seem to have some sort of self-identity and can apparently outright negotiate with their hosts. I don't even think you need uploads. Shards do a lot of processing that depends on some sort of processing that matches what humans can do (value judgments, etc.). They can then store common patterns the more they get a grasp on host psychology and tactics (imagine what they'll look like after 300 years of that)
+>> 
+>> >In short: I don't think Taylor can multitask on thing which require her attention. She might be able to practise writing out pre-prepared essays until her power began automatically doing it in the background whenever she needed it to, but it would take far too much time for minimal reward.
+>> 
+>> She might not be able to. Because shards don't have to work that way. Why can she do spiders but not crabs or ticks? It's deliberately arbitrary.
+>> 
+>> That's the beauty of shards; they explain the completely arbitrary limits on power and information processing you see in superpowers. Her shard lets her multitask for bugs because that's the stuff her shard wants info on. It doesn't have to grant her any leeway on anything else. How does the shard know about math problems vs. bug problems? How does it subtly encourage conflict here or there, how does it distinguish between the right bugs or the right emotional effects, especially subtle ones, or any of the shit they do?
+>> 
+>> That's the thing about the talk of "munchkinry" in the Worm universe. It only goes so far since it's a locked system. Apple vs. Android. What you "should" be able to do doesn't matter. The Manton Effect is just the best example of this.
 
->>> **u/MugaSofer** [+2] *
+>>> **u/MugaSofer** [+2]  (a day later)
 >>> 
 >>> >Shards do a lot of processing that depends on some sort of processing that matches what humans can do (value judgments, etc.). 
->>> They have their own alien intelligence, yeah - although I got the impression it was used mostly for promoting conflict and ensuring the powers don't kill the host.
->>> But they're *explicitly* less intelligent than humans, to the point where they
->>> >Why can she do spiders but not crabs or ticks? 
->>> She *can* do crabs, actually.
->>> Her power is (deliberately shackled by the Entities to be) only effective on things above a certain size and below a certain level of mental complexity. But you're right, even that limit is pretty arbitrary (and apparently implemented in part of *her* brain, rather than the Shard itself.)
->>> >Shards do a lot of processing that depends on some sort of processing that matches what humans can do (value judgments, etc.)
->>> Shards are explicitly much less intelligent than humans. It's kind of ... the entire plot of the story.
 >>> 
+>>> They have their own alien intelligence, yeah - although I got the impression it was used mostly for promoting conflict and ensuring the powers don't kill the host.
+>>> 
+>>> But they're *explicitly* less intelligent than humans, to the point where they
+>>> 
+>>> >Why can she do spiders but not crabs or ticks? 
+>>> 
+>>> She *can* do crabs, actually.
+>>> 
+>>> Her power is (deliberately shackled by the Entities to be) only effective on things above a certain size and below a certain level of mental complexity. But you're right, even that limit is pretty arbitrary (and apparently implemented in part of *her* brain, rather than the Shard itself.)
+>>> 
+>>> >Shards do a lot of processing that depends on some sort of processing that matches what humans can do (value judgments, etc.)
+>>> 
+>>> Shards are explicitly much less intelligent than humans. It's kind of ... the entire plot of the story.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (2 days later)
 >>>> 
 >>>> >But they're explicitly less intelligent than humans, to the point where they
->>>> Hm?
->>>> >Shards are explicitly much less intelligent than humans. It's kind of ... the entire plot of the story.
->>>> The entire plot of the story is that Entities,the sum of shards, are less *creative*. Yes, some of us might find being massively better at computation but less creative strange, but there you go. Number Man apparently has some ineffable quality that both his shard and the Entity don't have, despite being clearly less capable in some fields.
->>>> But it doesn't matter if shards themselves are less intelligent. A question with AI (or supposed "dumb" intelligence) is if it can do the sort of value judgments we do. If a shard can't do that sort of thing it'd naturally need to run simulations of Taylor's brains. But shards seem to have little problem with the jump from raw data to categorizing stuff like emotions and working out intentions and so on. Even if they didn't know at the start, it's a temporary problem, not an inherent one like the apparent inability to innovate.
 >>>> 
+>>>> Hm?
+>>>> 
+>>>> >Shards are explicitly much less intelligent than humans. It's kind of ... the entire plot of the story.
+>>>> 
+>>>> The entire plot of the story is that Entities,the sum of shards, are less *creative*. Yes, some of us might find being massively better at computation but less creative strange, but there you go. Number Man apparently has some ineffable quality that both his shard and the Entity don't have, despite being clearly less capable in some fields.
+>>>> 
+>>>> But it doesn't matter if shards themselves are less intelligent. A question with AI (or supposed "dumb" intelligence) is if it can do the sort of value judgments we do. If a shard can't do that sort of thing it'd naturally need to run simulations of Taylor's brains. But shards seem to have little problem with the jump from raw data to categorizing stuff like emotions and working out intentions and so on. Even if they didn't know at the start, it's a temporary problem, not an inherent one like the apparent inability to innovate.
 
->>>>> **u/MugaSofer** [+1] *
+>>>>> **u/MugaSofer** [+1]  (2 days later)
 >>>>> 
 >>>>> >Hm?
->>>>> Whoops, that was moved below. It was going to be "have to farm humans to come up with ideas for them."
->>>>> (Seriously, though, just look at Scion. He's practically a zombie.)
->>>>> >But it doesn't matter if shards themselves are less intelligent. A question with AI (or supposed "dumb" intelligence) is if it can do the sort of value judgments we do. If a shard can't do that sort of thing it'd naturally need to run simulations of Taylor's brains.
->>>>> Oh, yeah, it may well not be a *literal* copy of Taylor's brainstates - it probably isn't actually. That's just a handy way to model it; to suggest it was mimicking her thought process during combat, style of thing.
 >>>>> 
+>>>>> Whoops, that was moved below. It was going to be "have to farm humans to come up with ideas for them."
+>>>>> 
+>>>>> (Seriously, though, just look at Scion. He's practically a zombie.)
+>>>>> 
+>>>>> >But it doesn't matter if shards themselves are less intelligent. A question with AI (or supposed "dumb" intelligence) is if it can do the sort of value judgments we do. If a shard can't do that sort of thing it'd naturally need to run simulations of Taylor's brains.
+>>>>> 
+>>>>> Oh, yeah, it may well not be a *literal* copy of Taylor's brainstates - it probably isn't actually. That's just a handy way to model it; to suggest it was mimicking her thought process during combat, style of thing.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 hours later)
 > 
 > Just a note: I believe the muscles for an insects wings are in fact cyclical, something like our hearts. And just as you can't output binary information via heartbeat, an insect can't output binary information via wingbeats - they're either on or they're off.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (5 hours later)
 >> 
 >> And because that's exactly what binary information IS, I'm clarifying that I mean she can't do individual wingbeats quite that easily.
->> 
 
->>> **u/Jiopaba** [+3] *
+>>> **u/Jiopaba** [+3]  (15 hours later)
 >>> 
 >>> Seems an easy enough fix.  Set the key to trigger on a tenth of a second pulse, or whatever the minimum workable timeframe is for that sort of thing.  It doesn't literally have to be 'a single wingbeat.'
->>> 
 
->> **u/buckykat** [+2] *
+>> **u/buckykat** [+2]  (5 hours later)
 >> 
 >> it must be modulatable, or they couldn't steer.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Now, what are the calculations for the Clairvoyant's shard?
-> 
 
 ---
 

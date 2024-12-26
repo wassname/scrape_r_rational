@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/4htlfr/rtrstbst_psychonauts_and_dimensionhopping/
-* Score: 13
+* Score: 15
 
 * Created: 2016-05-04T08:32:00
 
@@ -40,147 +40,155 @@ Over time, by visiting repeatedly, taking and comparing notes, and doing the nee
 
 ### Comments:
 
-> **u/noggin-scratcher** [+9]  *I am a happy tree**
+> **u/noggin-scratcher** [+9]  *I am a happy tree* (an hour later)
 > 
 > Reminds me of a long-held curiosity (of the sort that could never be ethically tested) about how an infant brain would develop if you put them in a simulated environment with wildly different physics than the norm - just how much of the standard set of assumptions is "hard wired" and how much is learned by experience?
-> Given a VR feed with 4 spatial dimensions, or a hyperbolic space, or noticeable relativistic effects, is the brain plastic enough to learn how to operate in that space like a true native?
-> ***
-> Also, separately, I felt a twinge of disappointment that this wasn't about an idea for Rational [Psychonauts](https://en.wikipedia.org/wiki/Psychonauts)
 > 
+> Given a VR feed with 4 spatial dimensions, or a hyperbolic space, or noticeable relativistic effects, is the brain plastic enough to learn how to operate in that space like a true native?
+> 
+> ***
+> 
+> Also, separately, I felt a twinge of disappointment that this wasn't about an idea for Rational [Psychonauts](https://en.wikipedia.org/wiki/Psychonauts)
 
->> **u/None** [+4] *
+>> **u/None** [+5]  (2 hours later)
 >> 
 >> I think the amount of things that are "hard wired" are fewer than most people realize. Gravity, causality, object persistence, and so on appear to me as a parent to have been wholly strange to a newborn infant because I observed him learning these concepts over time. Cognitive feats like recognizing vertical lines in the visual field are also learned, as demonstrated by an experience using cats.
->> What is "hard-wired" is the potential to learn from experience and to create abstractions. If a weird alternate reality does not lend itself to abstraction for some reason (perhaps it's purely noise, but of a kind that due to Lovecraftian whimsy simply cannot be characterized in any way), then I think a baby would be unable to function... but then again, so would an adult. 
->> Of course, there are other aspects of "hard-wiring" - some brain structures lend themselves to facial recognition, vocalization, and so on, which means that human babies are simply very good at acquiring those skills. I think if we put a baby in a hyperdimensional simulator, it could learn to operate in space like a true native, but like a mentally handicapped native (i.e. slow to learn).
->> ---
->> I've never played Psychonauts but I did wonder if anybody would associate my post with the game. Would Rational Psychonauts be interesting?
 >> 
+>> What is "hard-wired" is the potential to learn from experience and to create abstractions. If a weird alternate reality does not lend itself to abstraction for some reason (perhaps it's purely noise, but of a kind that due to Lovecraftian whimsy simply cannot be characterized in any way), then I think a baby would be unable to function... but then again, so would an adult. 
+>> 
+>> Of course, there are other aspects of "hard-wiring" - some brain structures lend themselves to facial recognition, vocalization, and so on, which means that human babies are simply very good at acquiring those skills. I think if we put a baby in a hyperdimensional simulator, it could learn to operate in space like a true native, but like a mentally handicapped native (i.e. slow to learn).
+>> 
+>> ---
+>> 
+>> I've never played Psychonauts but I did wonder if anybody would associate my post with the game. Would Rational Psychonauts be interesting?
 
->>> **u/Escapement** [+2]  *Ankh-Morpork City Watch**
+>>> **u/Escapement** [+2]  *Ankh-Morpork City Watch* (2 hours later)
 >>> 
 >>> The game Psychonauts is of the "Kid saves the world for no reason and adults are incompetent for no reason" formula. Making the adults competent/rational and still having kids with no experience have a reason to be centerpieces of the plot is ... difficult. HPMOR took similarly problematic source material and worked with it, but still - a lot of the Psychonauts plot makes very little sense. Admittedly, most of the people involved had very obvious psychological problems... 
->>> I really liked the game's aesthetics, it's general ideas, and it's setting. However, the actual implementation stunk - the platforming was sort of garbage, collecting a billion collectables was made extremely unfun, and the actual plot was sort of cliche and also silly. Also, Psychonauts isn't the sort of thing that necessarily calls out for fanfiction - the actual plot was resolved fairly well and the game felt pretty satisfactory, and there is less of a feeling of potential greatness missed that seems to motivate so much fanfiction.
->>> If I was making some sort of Psychonauts fanfic, a good start might be to make Raz, the kid who just came to camp this day with no real experience and who in canon solves all problems and fixes everything by himself... less of a mary sue, and involve more of the other characters as active agents. There's a huge cast of colorful characters in psychonauts, and almost none of them really do anything important in the plot.
 >>> 
+>>> I really liked the game's aesthetics, it's general ideas, and it's setting. However, the actual implementation stunk - the platforming was sort of garbage, collecting a billion collectables was made extremely unfun, and the actual plot was sort of cliche and also silly. Also, Psychonauts isn't the sort of thing that necessarily calls out for fanfiction - the actual plot was resolved fairly well and the game felt pretty satisfactory, and there is less of a feeling of potential greatness missed that seems to motivate so much fanfiction.
+>>> 
+>>> If I was making some sort of Psychonauts fanfic, a good start might be to make Raz, the kid who just came to camp this day with no real experience and who in canon solves all problems and fixes everything by himself... less of a mary sue, and involve more of the other characters as active agents. There's a huge cast of colorful characters in psychonauts, and almost none of them really do anything important in the plot.
 
->>> **u/noggin-scratcher** [+1]  *I am a happy tree**
+>>> **u/noggin-scratcher** [+1]  *I am a happy tree* (2 hours later)
 >>> 
 >>> In the hypothetical experiment, that's pretty much what my first hypothesis would be - the brain as a general purpose shit-figuring-out device, which will adapt around making sense of whatever regularities it finds in its experience of the world. 
->>> But I could also imagine it turning out to be optimised to some degree for the world as it actually is... tangentially reminded of a conversation I had a little while ago about how our circulation assumes the assistance of gravity, and doesn't have good mechanisms to force blood out of our head because we have no history of spending lots of time upside down.
->>> ***
->>> As for Psychonauts... it's an old favourite so I would derive great fan-joy if someone wrote a decent piece of fiction in that world, but I'm not sure exactly what approach a Rational treatment would want to take. 
->>> There's some scope for munchkinry with the psychic powers you get in-game, but the plot of the game already has the protagonist as the nearest thing to a rational person in a slightly insane world.
 >>> 
+>>> But I could also imagine it turning out to be optimised to some degree for the world as it actually is... tangentially reminded of a conversation I had a little while ago about how our circulation assumes the assistance of gravity, and doesn't have good mechanisms to force blood out of our head because we have no history of spending lots of time upside down.
+>>> 
+>>> ***
+>>> 
+>>> As for Psychonauts... it's an old favourite so I would derive great fan-joy if someone wrote a decent piece of fiction in that world, but I'm not sure exactly what approach a Rational treatment would want to take. 
+>>> 
+>>> There's some scope for munchkinry with the psychic powers you get in-game, but the plot of the game already has the protagonist as the nearest thing to a rational person in a slightly insane world.
 
->> **u/abcd_z** [+1] *
+>> **u/abcd_z** [+1]  (a day later)
 >> 
 >> > Also, separately, I felt a twinge of disappointment that this wasn't about an idea for Rational Psychonauts
->> [Oh God, the feels.](https://www.youtube.com/watch?v=4O22ITqkOAM)
 >> 
+>> [Oh God, the feels.](https://www.youtube.com/watch?v=4O22ITqkOAM)
 
-> **u/mhd-hbd** [+6]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+6]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (10 hours later)
 > 
 > Reminds me of [*Universal Love, Said the Cactus Person*](http://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/)
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (13 hours later)
 >> 
 >> Ah, very good!
->> 
 
-> **u/dragonballherpeZ** [+5] *
+> **u/dragonballherpeZ** [+5]  (12 hours later)
 > 
 > Check out r/RationalPsychonaut if there is any community to consult with on this it is them
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (13 hours later)
 >> 
 >> Hey wow reddit never ceases to amaze.
->> 
 
-> **u/MrCogmor** [+2] *
+> **u/MrCogmor** [+2]  (an hour later)
 > 
 > You might like JAGS wonderland
 > http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/JAGSWonderland
 > http://mchacon8.wix.com/jagsrpg#!books/cngp
-> It's a free tabletop roleplaying game where the characters are afflicted with a paranormal disease that causes them to periodically disappear into wonderland, swapping places with their insane duplicate on a lower level of reality.
 > 
+> It's a free tabletop roleplaying game where the characters are afflicted with a paranormal disease that causes them to periodically disappear into wonderland, swapping places with their insane duplicate on a lower level of reality.
 
-> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (2 hours later)
 > 
 > There's been a number of SF novels and short stories where this kind of things happen, chemically, geometrically, and so on. Rudy Rucker visits this in a number of his works starting with _White Light_, and then in _The Indian Rope trick Explained_ he describes something like this from the point of view of someone outside the experience.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 hours later)
 >> 
 >> > White Light
->> Wow, [this](https://en.wikipedia.org/wiki/White_Light_\(novel\)) really sounds like a cool book I would enjoy. I have an annotated Flatland in my bookshelf, but it's a bit dated.
 >> 
+>> Wow, [this](https://en.wikipedia.org/wiki/White_Light_\(novel\)) really sounds like a cool book I would enjoy. I have an annotated Flatland in my bookshelf, but it's a bit dated.
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 hours later)
 >>> 
 >>> It's a really cool book. Really, most everything he's written since has been downhill.
->>> 
 
-> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (15 hours later)
 > 
 > I like #3. Even better if it's true. Also, I've got a horror story idea in the same neighborhood as this (more about the drugs than the dimension-hopping), so I'd be open to bouncing ideas back and forth if you're interested.
-> 
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (an hour later)
 > 
 > Well, from a rational perspective, I'd ask if the effect can be recreated without a human in the loop. You never *ever* test a potential new drug on humans before you know exactly what to expect from it. Try it on cultured cells, animal models, etc. See what happens when rats get an overdose, so you have a ballpark idea of how much is safe to use on people.
-> And then, if there really is no effective way to access this alternate world without a human mind in the loop, at least stuff them in an MRI machine first so you can get some objective data as well as subjective experiences.
-> If people on this drug can communicate with each other in the shared psychospace, regardless of their positions in the real world, that's like having a radio in your head. Very useful for sending messages that can't be blocked by Faraday cages. If indeed they aren't blocked by Faraday cages...
-> ----
-> From a sci-fi perspective, it's a pretty good premise for a short story / thought experiment. How do babies turn a stream of experiences into a coherent narrative? How do we learn to move around, to recognise people, and how do we persuade ourselves that the outside world is *real*? Through what process do pictures on the screen of the Cartesian Theatre become powerful beliefs that shape your identity - beliefs that you'd be willing to die for? What things that we accept as universal could just as easily vary from place to place? And what's the difference between a parallel universe and an Inception-style shared dream?
 > 
+> And then, if there really is no effective way to access this alternate world without a human mind in the loop, at least stuff them in an MRI machine first so you can get some objective data as well as subjective experiences.
+> 
+> If people on this drug can communicate with each other in the shared psychospace, regardless of their positions in the real world, that's like having a radio in your head. Very useful for sending messages that can't be blocked by Faraday cages. If indeed they aren't blocked by Faraday cages...
+> 
+> ----
+> 
+> From a sci-fi perspective, it's a pretty good premise for a short story / thought experiment. How do babies turn a stream of experiences into a coherent narrative? How do we learn to move around, to recognise people, and how do we persuade ourselves that the outside world is *real*? Through what process do pictures on the screen of the Cartesian Theatre become powerful beliefs that shape your identity - beliefs that you'd be willing to die for? What things that we accept as universal could just as easily vary from place to place? And what's the difference between a parallel universe and an Inception-style shared dream?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 hours later)
 >> 
 >> > Well, from a rational perspective, I'd ask if the effect can be recreated without a human in the loop. 
->> To answer that question, I'd first have to decide on what the operant mechanism *is* and a bit about how it works. I'm partial to the idea that whatever biochemical process that accounts for the experience of consciousness is somehow *tuned* to an analogous process in the alternate universe. That way, the mind is swapped out to the other universe while keeping the physical brain here. It also opens up the ability to *tune* other processes, such as a simple oxidation reaction or a computer program.
->> >You never ever test a potential new drug on humans before you know exactly what to expect from it.
->> To construct a better story with characters that readers would have an easier time to relate to, I think the psychonauts should be acting outside of a dedicated research facility. Otherwise, when the anomaly is discovered, the story would get bogged down in practical and organizational issues like ethics boards and so on. The idea of a basement lab or a garage experiment opening up new possibilities for a group of geeks is much more appealing. Amateur scientists would be torn between publishing early (which risks losing ownership of or even access to this amazing new thing, or just being called crackpots and being shut down if the materials or equipment are illegal) and continuing to work privately to learn more about what it actually is before breaking the story (risking being scooped, psychological specters like addiction or obsession, etc.).
->> The discovery should be serendipitous, I think, to be at all believable. It's so far out of what current scientific understanding permits, that any research in this direction would be carried out only by crackpots (or secret government labs). I'd rather not have to write characters who are actually crackpots!
->> >From a sci-fi perspective, it's a pretty good premise for a short story / thought experiment.
->> Potentially, there are a lot of really interesting ideas to explore here, I feel. I almost posted it to /r/scificoncepts, but decided /r/rational would be a better fit because it's the rational and rationalist treatment of the subject that's novel and interesting. There are tons of stories, books, films, and tv shows that explore "sliding" between parallel dimensions or whatever, and none of them treat it seriously (just as a plot device). I want to explore what it would *actually* be like, because that exploration leads to a whole nest of fascinating questions like the ones you posed.
 >> 
+>> To answer that question, I'd first have to decide on what the operant mechanism *is* and a bit about how it works. I'm partial to the idea that whatever biochemical process that accounts for the experience of consciousness is somehow *tuned* to an analogous process in the alternate universe. That way, the mind is swapped out to the other universe while keeping the physical brain here. It also opens up the ability to *tune* other processes, such as a simple oxidation reaction or a computer program.
+>> 
+>> >You never ever test a potential new drug on humans before you know exactly what to expect from it.
+>> 
+>> To construct a better story with characters that readers would have an easier time to relate to, I think the psychonauts should be acting outside of a dedicated research facility. Otherwise, when the anomaly is discovered, the story would get bogged down in practical and organizational issues like ethics boards and so on. The idea of a basement lab or a garage experiment opening up new possibilities for a group of geeks is much more appealing. Amateur scientists would be torn between publishing early (which risks losing ownership of or even access to this amazing new thing, or just being called crackpots and being shut down if the materials or equipment are illegal) and continuing to work privately to learn more about what it actually is before breaking the story (risking being scooped, psychological specters like addiction or obsession, etc.).
+>> 
+>> The discovery should be serendipitous, I think, to be at all believable. It's so far out of what current scientific understanding permits, that any research in this direction would be carried out only by crackpots (or secret government labs). I'd rather not have to write characters who are actually crackpots!
+>> 
+>> >From a sci-fi perspective, it's a pretty good premise for a short story / thought experiment.
+>> 
+>> Potentially, there are a lot of really interesting ideas to explore here, I feel. I almost posted it to /r/scificoncepts, but decided /r/rational would be a better fit because it's the rational and rationalist treatment of the subject that's novel and interesting. There are tons of stories, books, films, and tv shows that explore "sliding" between parallel dimensions or whatever, and none of them treat it seriously (just as a plot device). I want to explore what it would *actually* be like, because that exploration leads to a whole nest of fascinating questions like the ones you posed.
 
->>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (15 hours later)
 >>> 
 >>> Right. I'm pretty sure that there are plenty of mind-altering drugs that have been developed by and for the street scene, that cared not a whit for nonhuman trials.
->>> 
 
->> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (5 hours later)
 >> 
 >> if we are in the future on multipel planets this allows FTL comunication.
->> 
 
-> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (5 hours later)
 > 
 > One use of this. You can comunicate with other individuals across the world in real time without being traced.
-> So it is used by terrorist and maybe secret organizations to cordinate or pass sensitive information.
 > 
+> So it is used by terrorist and maybe secret organizations to cordinate or pass sensitive information.
 
->> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (7 hours later)
 >> 
 >> But you can be intercepted by agents or bugs in the alternate world. It's not foolproof once the enemy knows about it.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > Dr. Rick Strassman notes a number of consistencies in a what is ostensibly an 'other dimension'. This dude conducted intravenous DMT experiments in the 90's, and wrote a bunch of books. We're talking about alien beings, insectoid/mantis/reptilian/Aryan entities, alternate forms of communication, unboundedness to time.
-> Also, shamans.
 > 
+> Also, shamans.
 
-> **u/MugaSofer** [+0] *
+> **u/MugaSofer** [+0]  (7 hours later)
 > 
 > Even if this occurs to animals, I don't see how you would figure that out - it's not as if they can report their experiences in sufficient detail.
-> The big issue with a story like this would be the alternate-universe rules; most of the munchkinning comes from there, but presumably they'd be frightfully complicated, the natives would have an enormous head-start, and they'd be difficult to convey.
-> If this works by "connecting" or "swapping" you with something from another world, then it wold make a lot of sense for every journey to let Something Else into ours.
 > 
+> The big issue with a story like this would be the alternate-universe rules; most of the munchkinning comes from there, but presumably they'd be frightfully complicated, the natives would have an enormous head-start, and they'd be difficult to convey.
+> 
+> If this works by "connecting" or "swapping" you with something from another world, then it wold make a lot of sense for every journey to let Something Else into ours.
 
 ---
 

@@ -62,138 +62,145 @@ I like this motive, it shares a feeling of self-interestedness with many Lovecra
 
 ### Comments:
 
-> **u/Geminii27** [+9] *
+> **u/Geminii27** [+9]  (an hour later)
 > 
 > Art, commerce, industry.
-> We have plenty of games today which have level-builders. We even have games which are world-builders. High-level entities might build planets and/or life because they're interested in the natural version, because their friends are into it, because there's a fashion for planet-building, because there's an art contest, because it's calming/distracting/enjoyable, for therapy, to show off to the grandkids, to have something to do in between their day job, or because it *is* their day job - planets might be useful for anything from stage props to corporate lobby art to collector's items to just something to flog on cosmic eBay.
-> Perhaps planet/life creation is a larger market, whether a mainstream one or niche, like potted plants or landscaping. Or a government project (via pressure groups or core policy) to increase the amount of life/civilization in the galaxy - the equivalent of eco-management or parks/recreation.
-> Perhaps it's actually a side-effect of some industrial process or practice. Maybe fiddling with spacetime or gravity loops or certain particles or the structure of probability in order to produce some desired item or service also has the side-effect of making star/planet creation much more likely. For all we know, what we perceive as galaxies are actually waste heaps.
 > 
+> We have plenty of games today which have level-builders. We even have games which are world-builders. High-level entities might build planets and/or life because they're interested in the natural version, because their friends are into it, because there's a fashion for planet-building, because there's an art contest, because it's calming/distracting/enjoyable, for therapy, to show off to the grandkids, to have something to do in between their day job, or because it *is* their day job - planets might be useful for anything from stage props to corporate lobby art to collector's items to just something to flog on cosmic eBay.
+> 
+> Perhaps planet/life creation is a larger market, whether a mainstream one or niche, like potted plants or landscaping. Or a government project (via pressure groups or core policy) to increase the amount of life/civilization in the galaxy - the equivalent of eco-management or parks/recreation.
+> 
+> Perhaps it's actually a side-effect of some industrial process or practice. Maybe fiddling with spacetime or gravity loops or certain particles or the structure of probability in order to produce some desired item or service also has the side-effect of making star/planet creation much more likely. For all we know, what we perceive as galaxies are actually waste heaps.
 
-> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+4]  *If fighting is sure to result in victory, then you must fight!* (2 hours later)
 > 
 > If I were to ever become a part of a complete post scarcity, immortal, do whatever you want society, the first thing I would do is ask a random output engine on what to do. This stops boredom and assures diverse experiences. One result of said engine would inevitably be "BE GOD" or something like that.
-> 
 
->> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (5 hours later)
 >> 
 >> "Give me a random word that has not yet been assigned to another person."
->> [when this inevitably fails]
->> "Give me two random words that have not yet" etc.
 >> 
+>> [when this inevitably fails]
+>> 
+>> "Give me two random words that have not yet" etc.
 
-> **u/Anakiri** [+3] *
+> **u/Anakiri** [+3]  (7 hours later)
 > 
 > So I'm currently running five-ish concurrent games of [*Species*](http://www.speciesgame.com/) that I skip between on a whim. It's basically an evolution sandbox.
-> One of my games is almost completely habitable, with fertile fields across the whole map. That one keeps hitting the population cap. Another's mostly water with some islands. Two of the islands are uninhabited now; I'm seeing if I can't encourage the survivors to ford the ocean, just for kicks. I've got a world that's basically a ring, where populations aren't separated by insurmountable barriers, just by distance, without shortcuts. It's interesting how the different set-ups can lead to different patterns of speciation.
-> One game had a few distinct continents, connected by isthmuses. It ended up being dominated by stupid-looking things that only survived due to quirks in the physics engine. That wasn't interesting to me, so I ended that world, freeing up resources to dedicate to the more interesting ones. I mean, I want to see the wild designs evolution can come up with. I discover something new every few in-game hours, it's great! But the solution space the game allows isn't quite the solution space I enjoy seeing explored.
 > 
+> One of my games is almost completely habitable, with fertile fields across the whole map. That one keeps hitting the population cap. Another's mostly water with some islands. Two of the islands are uninhabited now; I'm seeing if I can't encourage the survivors to ford the ocean, just for kicks. I've got a world that's basically a ring, where populations aren't separated by insurmountable barriers, just by distance, without shortcuts. It's interesting how the different set-ups can lead to different patterns of speciation.
+> 
+> One game had a few distinct continents, connected by isthmuses. It ended up being dominated by stupid-looking things that only survived due to quirks in the physics engine. That wasn't interesting to me, so I ended that world, freeing up resources to dedicate to the more interesting ones. I mean, I want to see the wild designs evolution can come up with. I discover something new every few in-game hours, it's great! But the solution space the game allows isn't quite the solution space I enjoy seeing explored.
 
-> **u/cinnamontoastPUNCH** [+3] *
+> **u/cinnamontoastPUNCH** [+3]  (16 hours later)
 > 
 > As you point out, a planet is a shitty place to create a civilization. Even if everything goes well and sentient life evolves, it's still just a thin film of fragile biomass that's stuck in a gravity well with a miniscule amount of matter and energy to work with. If I was an Elder God from Beyond the Void, and I wanted to make a matter-based civilization (for whatever reason), I'd do it in a universe where *all* the matter was fit for life, like a universe-sized flat grassy plain. For instance, your suggestion that the gods are farming humans for art is a nice idea, but but you'd get a lot more art if you created art-producers that could thrive anywhere in the world you created. That is, if the earth is just a farm to gods, then it's a spectacularly inefficient one. 
-> But I'm not giving up yet, because I like this prompt. 
-> Maybe the gods have a different understanding of space and time. Our human perception of time as linear and one-directional probably has more to do with the stuff that we're made of, rather than how the universe actually *is.* Kurt Vonnegut messed around with this idea a little bit in the Sirens of Titan and Slaughterhouse Five. The Tralfamadorians perceive all of time at once and have no sensation of change; they see their whole lives as a single complex experience. A consequence is that they don't care how long it takes to do something; they are happy to influence humans over periods of thousands of years just for stupid petty bullshit. A race like that wouldn't care if their human-farm was inefficient as long as it produced the desired results *eventually.*
-> Another possibility is that our universe is a work of art made by the gods. I wouldn't expect aliens to understand our art very well. What we humans consider aesthetically satisfying has a lot to do with particular aspects of our minds, not external reality. An intelligent alien could maybe understand why we make art-- that is, they could figure out that certain modules of our brains are drawn to particular configurations of landscapes, even if those landscapes are painted instead of real-- but I wouldn't expect them to appreciate art. Likewise, I wouldn't expect to be able to appreciate an alien's art. So maybe the gods built our universe as a monument or a narrative or a statement. It might not be *for* anything, it's just an expression of things that they like. The fact that the artwork contains sentient beings is just a little added adornment.
-> Your suggestion of atonement for a past sin is interesting. Maybe the gods previously made a universe that was full of sentient beings, but it turns out that you're not supposed to do that. They were reprimanded by their supervisor and told to make a safer, more stable, more predictable universe that only contains a few sentient beings. It does kinda seem like our universe was built to keep us from causing any trouble-- for instance, there's a hard speed limit that stops us from rushing out and getting to know any other sentients. The gods were allowed to include humans in the universe only if they agreed to keep them locked away in a gravity well. I like this version because it includes a conflict between gods that like humans and gods that don't. That conflict could feed an interesting story.
-> I like to work on sci-fi stories from time to time, and I like the trope of the story's central conflict being a part of some larger struggle between cosmic good and evil. But, like you've observed, it's hard to think of a cosmic struggle that makes any sense that produces a relatable world. It's fun to brainstorm about though.
 > 
+> But I'm not giving up yet, because I like this prompt. 
+> 
+> Maybe the gods have a different understanding of space and time. Our human perception of time as linear and one-directional probably has more to do with the stuff that we're made of, rather than how the universe actually *is.* Kurt Vonnegut messed around with this idea a little bit in the Sirens of Titan and Slaughterhouse Five. The Tralfamadorians perceive all of time at once and have no sensation of change; they see their whole lives as a single complex experience. A consequence is that they don't care how long it takes to do something; they are happy to influence humans over periods of thousands of years just for stupid petty bullshit. A race like that wouldn't care if their human-farm was inefficient as long as it produced the desired results *eventually.*
+> 
+> Another possibility is that our universe is a work of art made by the gods. I wouldn't expect aliens to understand our art very well. What we humans consider aesthetically satisfying has a lot to do with particular aspects of our minds, not external reality. An intelligent alien could maybe understand why we make art-- that is, they could figure out that certain modules of our brains are drawn to particular configurations of landscapes, even if those landscapes are painted instead of real-- but I wouldn't expect them to appreciate art. Likewise, I wouldn't expect to be able to appreciate an alien's art. So maybe the gods built our universe as a monument or a narrative or a statement. It might not be *for* anything, it's just an expression of things that they like. The fact that the artwork contains sentient beings is just a little added adornment.
+> 
+> Your suggestion of atonement for a past sin is interesting. Maybe the gods previously made a universe that was full of sentient beings, but it turns out that you're not supposed to do that. They were reprimanded by their supervisor and told to make a safer, more stable, more predictable universe that only contains a few sentient beings. It does kinda seem like our universe was built to keep us from causing any trouble-- for instance, there's a hard speed limit that stops us from rushing out and getting to know any other sentients. The gods were allowed to include humans in the universe only if they agreed to keep them locked away in a gravity well. I like this version because it includes a conflict between gods that like humans and gods that don't. That conflict could feed an interesting story.
+> 
+> I like to work on sci-fi stories from time to time, and I like the trope of the story's central conflict being a part of some larger struggle between cosmic good and evil. But, like you've observed, it's hard to think of a cosmic struggle that makes any sense that produces a relatable world. It's fun to brainstorm about though.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (21 hours later)
 >> 
 >> > If I was an Elder God from Beyond the Void, and I wanted to make a matter-based civilization (for whatever reason), I'd do it in a universe where all the matter was fit for life, like a universe-sized flat grassy plain.
->> You mean the Great A'Tuin?
 >> 
+>> You mean the Great A'Tuin?
 
->>> **u/cinnamontoastPUNCH** [+1] *
+>>> **u/cinnamontoastPUNCH** [+1]  (a day later)
 >>> 
 >>> I didn't even make that connection, but yeah! I read 'Strata' a long time ago, and I don't remember it very well, but I think there's a scene where the characters discuss how a flat shape would be superior to a planet for most purposes. The trick is getting gravity to behave properly. Anyway, Pratchett reworked most of the elements in that book into the discworld series, so, yes, like the Great A'Tuin.
->>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (21 hours later)
 > 
 > I'll throw you a short conceit I never made use of: the gods care, but don't notice (yet).
-> That is, Someone built a star system or a whole universe as a fun little science experiment, and implanted some kind of spell/satellite/device/subroutine designed to notify Them if sapient life developed so that they can uplift it.  However, They live on long-since-immortal timespans, and it could take millenia between the Hey God People Have Developed alarm-clock "ringing", and Their actually showing up to meet the people.
-> As to "why", the simple answer is: because Nature.  Such beings could create anything in accordance with their own preferences, but they couldn't *actually* random-generate life-forms *without* their own aesthetics interfering (in the same way that if I generate random numbers according to a nonuniform distribution, my preference in distribution has interfered with the randomness).  So they set up a more-or-less random material area and set evolution going, allowing the random processes of Nature to determine what they get.
-> They weren't even planning for a civilization, they just left an alarm-clock in place (monoliths from *2001*?) to notify them in the unlikely case that such a thing happens.
-> Or, another one: your "gods" *hate* life and try to destroy it at every opportunity, but in a wide universe (or set of universes), *it just keeps happening* despite Them, as a simple, built-in fact of nature that even They can't fully suppress without destroying Themselves.  You may remember this idea from [TTGL](#s "its being the Anti-Spirals").
 > 
+> That is, Someone built a star system or a whole universe as a fun little science experiment, and implanted some kind of spell/satellite/device/subroutine designed to notify Them if sapient life developed so that they can uplift it.  However, They live on long-since-immortal timespans, and it could take millenia between the Hey God People Have Developed alarm-clock "ringing", and Their actually showing up to meet the people.
+> 
+> As to "why", the simple answer is: because Nature.  Such beings could create anything in accordance with their own preferences, but they couldn't *actually* random-generate life-forms *without* their own aesthetics interfering (in the same way that if I generate random numbers according to a nonuniform distribution, my preference in distribution has interfered with the randomness).  So they set up a more-or-less random material area and set evolution going, allowing the random processes of Nature to determine what they get.
+> 
+> They weren't even planning for a civilization, they just left an alarm-clock in place (monoliths from *2001*?) to notify them in the unlikely case that such a thing happens.
+> 
+> Or, another one: your "gods" *hate* life and try to destroy it at every opportunity, but in a wide universe (or set of universes), *it just keeps happening* despite Them, as a simple, built-in fact of nature that even They can't fully suppress without destroying Themselves.  You may remember this idea from [TTGL](#s "its being the Anti-Spirals").
 
-> **u/RMcD94** [+2] *
+> **u/RMcD94** [+2]  (2 days later)
 > 
 > Why does lust need therapy but not anger or greed?
-> 
 
->> **u/KJ6BWB** [+1] *
+>> **u/KJ6BWB** [+1]  (2 days later)
 >> 
 >> Because everyone knows rape is worse than getting tortured or having your stuff stolen.  Don't agree?  Consider, any time any comic makes a joke about rape, or some idiot spouts off about something stupid concerning rape, it turns into a front page feature headline news story and tons of people get upset about it.  If a comic makes a joke about getting tortured or open theft or whatever, or some idiot says something stupid about any of that, people just laugh.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (9 hours later)
 > 
 > [removed]
-> 
 
->> **u/Prezombie** [+2] *
+>> **u/Prezombie** [+2]  (10 hours later)
 >> 
 >> Because that brings us back to the epicurean dilemma. How can a being be called good if they create a moral species when it's in their power to create immortals?
->> 
 
->>> **u/SoundLogic2236** [+2] *
+>>> **u/SoundLogic2236** [+2]  (11 hours later)
 >>> 
 >>> With a sufficient level of power, one could easily have us BE immortal. If I was sufficiently powerful, one of the first things I would do would be run a massive simulation of everything that happened up to the point where I made everyone immortal, and copy out everyone right before they died. No one would notice inside the simulation (since that would prevent me from properly copying people out after that due to disruption), but everyone would actually be immortal.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (21 hours later)
 >>>> 
 >>>> Good job on the Reverse Basilisk.
->>>> 
 
->>> **u/KJ6BWB** [+2] *
+>>> **u/KJ6BWB** [+2]  (22 hours later)
 >>> 
 >>> Isn't that basically what most religions teach already?  You have this immortal soul and this whole "life" part of your immortal existence is basically just a flash in the pan.  You're going to be "dead" forever and this whole life thing is only going to last 50 years, give or take 50 -- that's nothing compared to infinity.  Buddhism, Hinduism, Christianity, Jewish, Muslim, I think that takes care of the major religions in the world, they all say that a focus on this mortal phase of "being" isn't worthwhile, that the true focus should be on the immortal being, on what happens next and where we'll be going next.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> That's not actually theologically true, at least for several cases.
->>>> * Hinduism varies in its approach to "this life", since it believes in reincarnation.
->>>> * Buddhism varies too, but overall is about trying to escape sapient existence altogether, by *not even getting reincarnated*.
->>>> * Islam is, I would say, the most evenly divided.  Certain branches are *dangerously* deathist, but the Sharia also gives quite a lot of attention to common ethical and social questions of "this life" with much more reasonable and complex answers than "kill/die".
->>>> * Christianity is the *most* deathist, but Catholicism, say, can vary towards being as "lifeist" as Islam at times.
->>>> * Judaism, in all varieties except the *very* Haredi is, to my knowledge, the most "lifeist", probably because the very concept of an afterlife was a late addition.  Even with several afterlife legends added on, Jewish religious sages tend to say that [focusing on the afterlife distracts you from *real* life.](http://lesswrong.com/lw/xp/seduced_by_imagination/)
 >>>> 
+>>>> * Hinduism varies in its approach to "this life", since it believes in reincarnation.
+>>>> 
+>>>> * Buddhism varies too, but overall is about trying to escape sapient existence altogether, by *not even getting reincarnated*.
+>>>> 
+>>>> * Islam is, I would say, the most evenly divided.  Certain branches are *dangerously* deathist, but the Sharia also gives quite a lot of attention to common ethical and social questions of "this life" with much more reasonable and complex answers than "kill/die".
+>>>> 
+>>>> * Christianity is the *most* deathist, but Catholicism, say, can vary towards being as "lifeist" as Islam at times.
+>>>> 
+>>>> * Judaism, in all varieties except the *very* Haredi is, to my knowledge, the most "lifeist", probably because the very concept of an afterlife was a late addition.  Even with several afterlife legends added on, Jewish religious sages tend to say that [focusing on the afterlife distracts you from *real* life.](http://lesswrong.com/lw/xp/seduced_by_imagination/)
 
->>>>> **u/notentirelyrandom** [+1] *
+>>>>> **u/notentirelyrandom** [+1]  (6 days later)
 >>>>> 
 >>>>> A typical Christian is extremely deathist. In Christian theology, though, death is pretty explicitly evil.
->>>>> I can't speak to the theology of any other religion.
 >>>>> 
+>>>>> I can't speak to the theology of any other religion.
 
-> **u/KJ6BWB** [+1] *
+> **u/KJ6BWB** [+1]  (22 hours later)
 > 
 > Why does a God create beings like us?  Why does any parent go to the bother and trouble of creating kids?
-> 
 
->> **u/Prezombie** [+1] *
+>> **u/Prezombie** [+1]  (22 hours later)
 >> 
 >> Because parents are mortal. 
->> Because parents make kids the same species as themselves.
->> Equating Creator-deity to a new civilization is a lot closer to a parent making an ant farm, not a kid.
 >> 
+>> Because parents make kids the same species as themselves.
+>> 
+>> Equating Creator-deity to a new civilization is a lot closer to a parent making an ant farm, not a kid.
 
->>> **u/KJ6BWB** [+1] *
+>>> **u/KJ6BWB** [+1]  (a day later)
 >>> 
 >>> But we haven't defined God yet.  If he's like Arthur C. Clarke posited (sufficiently advanced technology is indistinguishable from magic), then why couldn't he be of the same species that we are?  Anyway, let me be more general then.  Why do some carpenters enjoy making things like fine furniture?  Why does anyone go to the trouble of creating anything?  Why then go the trouble of creating one or more civilizations?  Perhaps so that a person can look back and say, "I was the start of that.  I made that."  But why would God want to look back on anything and say something like that?  Well, why does anyone want to create anything?  Why would the state of being (from our point of view) omnipotent and omniscient preclude someone from continuing to harbor a desire to create something that could literally outlive them?  Even if God couldn't ever die, or has transcended to a state where death as we know it would be a meaningless distinction, why would the desire to create and make something suddenly go away?  Even so, if you know that the ant farm you were making could someday create spaceships, travel to new ant farms and eventually become, well, you, wouldn't that be fun?  Although I'm reminded of that old science fiction story about the guy who decided to do just that, only he led the "ants" to have rather cruel short lives and when they finally branched out they weren't too happy with the God they found.  I can't remember who wrote that story, though.
->>> 
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (3 days later)
 > 
 > Science. 
-> Assume that the god-things evolved in our universe, were originally mortal, and later became immortal and nigh-omnipotent. In other words, assume that real physics is real, and the gods aren't magical beings with no beginning or end. 
-> The gods may well have evolved on a planet themselves, and they want to run some experiments about other ways their evolution could have gone, much like we study apes living in the ancestral environment. 
-> They may have multiple experiments running at once, some in stars, some on neutron stars, some in free space, some on the accretion disk of a black hole. We happen to be one of the ones running on a planet.  If this model is true and you do want to say that the gods created the whole universe, then the speed of light limit is the equivalent of the walls of the petri dish: it's there to keep the experiments from mixing.
 > 
+> Assume that the god-things evolved in our universe, were originally mortal, and later became immortal and nigh-omnipotent. In other words, assume that real physics is real, and the gods aren't magical beings with no beginning or end. 
+> 
+> The gods may well have evolved on a planet themselves, and they want to run some experiments about other ways their evolution could have gone, much like we study apes living in the ancestral environment. 
+> 
+> They may have multiple experiments running at once, some in stars, some on neutron stars, some in free space, some on the accretion disk of a black hole. We happen to be one of the ones running on a planet.  If this model is true and you do want to say that the gods created the whole universe, then the speed of light limit is the equivalent of the walls of the petri dish: it's there to keep the experiments from mixing.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/sparr *
 * URL: https://www.reddit.com/r/rational/comments/ajix6v/name_that_fic_multiple_viewpoints_kids_find/
-* Score: 10
+* Score: 9
 
 * Created: 2019-01-24T23:52:19
 
@@ -14,31 +14,27 @@ Anyone remember that story?
 
 ### Comments:
 
-> **u/Alphanos** [+10]  *The Bright Powers**
+> **u/Alphanos** [+9]  *The Bright Powers* (16 minutes later)
 > 
 > You're probably thinking of [Sideways in Hyperspace](https://sidewaysfiction.wordpress.com/), which was also posted on /r/HFY.  The parts that you mention are in chapters 8 and 12.
-> 
 
-> **u/Charlie___** [+3] *
+> **u/Charlie___** [+5]  (58 minutes later)
 > 
 > Right, and there were also some first contact stories going on at the same time, right?
-> Aha! Some clever googling turns up [Sideways in Hyperspace](https://sidewaysfiction.wordpress.com/).
 > 
+> Aha! Some clever googling turns up [Sideways in Hyperspace](https://sidewaysfiction.wordpress.com/).
 
->> **u/BuccaneerRex** [+2] *
+>> **u/BuccaneerRex** [+2]  (an hour later)
 >> 
 >> Nice find. It was gearing up to be really good. I liked all the characters and the premise was sufficiently mind-blowing.
->> 
 
-> **u/MaddoScientisto** [+3] *
+> **u/MaddoScientisto** [+3]  (46 minutes later)
 > 
 > Sideways in hyperspace, it was really good, it's too bad it hasn't been updated in more than one year
-> 
 
->> **u/sparr** [+4] *
+>> **u/sparr** [+4]  (an hour later)
 >> 
 >> Aww, damn. That's probably why I stopped reading :(
->> 
 
 ---
 

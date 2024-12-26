@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/MagicwaffIez** [+5] *
+> **u/MagicwaffIez** [+4]  (6 days later)
 > 
 > Well, mafia guys screwed themselves... Had they played it better, they could have had the cops on their side,,, the refraxx came in and attacked them... Had they been honest up front then the NYST would be in hot water... But noooo~ they tried to cover it up
-> 
 
 ---
 

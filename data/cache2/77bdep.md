@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/77bdep/biweekly_challenge_slasher_movies/
-* Score: 11
+* Score: 10
 
 * Created: 2017-10-19T01:45:10
 
@@ -50,43 +50,51 @@ Next time, the challenge will be **Worm**. [Worm](https://parahumans.wordpress.c
 
 ### Comments:
 
-> **u/None** [+10] *
+> **u/None** [+10]  (15 hours later)
 > 
 > [Spaceman](https://docs.google.com/document/d/16eEFcRkX1uNWQ8T460F03PAbiDGAn11tTZnkphiUNrY/edit?usp=sharing) (4241 words)
-> Content warning: gore for the gore god (as the theme demands)
 > 
+> Content warning: gore for the gore god (as the theme demands)
 
->> **u/MultipartiteMind** [+4] *
+>> **u/MultipartiteMind** [+4]  (8 days later)
 >> 
 >> Interesting.  From the timing (Edit:  and how well [](#s "their violent actions flowed together")), I'm assuming that [](#s "Ai was the original source of the computer doom.  I'm fairly curious about whether Ai or the narrator was the original 'seed' (of insanity), or whether both were acting as puppets by a third party.  If Ai or a third party, the narrator presumably selected ahead-of-time according to suitability.  If the narrator, maybe deliberate retooling of Ai during a state of insanity, or maybe a gradual transference/transmission/contagion of subconscious insanity to her, potentially prompting self-modification later.  Or incomplete self-modification in reaction to his actions/mental state...  either way, I'm setting my headcanon to having every one of those remembered 42 instances of 'profit' as actually being another settlement wiped out and looted!  Whee!").
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (8 days later)
 >>> 
 >>> That's some interesting speculation.
->>> > [ ](#s "Ai was the original source of the computer doom")
->>> This would necessitate Ai communicating with the asteroid quite some time before the protagonist reaches it, as it is silent when they arrive. Of course, transmitting at light speed would enable that...
->>> > [](#s "I'm fairly curious which of them was the original seed")
->>> Whoopsie. Originally, I intended for [](#s "Dave's and Ai's issues") to be quite separate ([](#s "remember also that Ai's issues are heavily hinted to be alien in origin, while Dave is just mundanely bio-engineered")). I mean, given your theory as stated above, it would make sense for both to be related, and I generally think it elegant if all themes of a story spring from a single idea, especially in the case of short stories...
->>> ... I'm never quite sure whether to be happy or sad when a reader's headcanon is better than canon.
->>> > [](#s "instances of 'profit'")
->>> Not sure about that one. The prediction Dave makes is rather small in scale, and "profit" from a single prediction would therefore often be something far, far smaller than [](#s "an entire settlement being wiped out.")
->>> Thank you for sharing your thoughts! That gave me some much-needed motivation to go back to writing *Worm* fanfics for the next challenge...
 >>> 
+>>> > [ ](#s "Ai was the original source of the computer doom")
+>>> 
+>>> This would necessitate Ai communicating with the asteroid quite some time before the protagonist reaches it, as it is silent when they arrive. Of course, transmitting at light speed would enable that...
+>>> 
+>>> > [](#s "I'm fairly curious which of them was the original seed")
+>>> 
+>>> Whoopsie. Originally, I intended for [](#s "Dave's and Ai's issues") to be quite separate ([](#s "remember also that Ai's issues are heavily hinted to be alien in origin, while Dave is just mundanely bio-engineered")). I mean, given your theory as stated above, it would make sense for both to be related, and I generally think it elegant if all themes of a story spring from a single idea, especially in the case of short stories...
+>>> 
+>>> ... I'm never quite sure whether to be happy or sad when a reader's headcanon is better than canon.
+>>> 
+>>> > [](#s "instances of 'profit'")
+>>> 
+>>> Not sure about that one. The prediction Dave makes is rather small in scale, and "profit" from a single prediction would therefore often be something far, far smaller than [](#s "an entire settlement being wiped out.")
+>>> 
+>>> Thank you for sharing your thoughts! That gave me some much-needed motivation to go back to writing *Worm* fanfics for the next challenge...
 
->>>> **u/MultipartiteMind** [+2] *
+>>>> **u/MultipartiteMind** [+2]  (8 days later)
 >>>> 
 >>>> Thank you for your feedback on my thoughts!
->>>> [](#s "'quite some time':  Checking, the can't-trust-the-computers person doesn't mention how recently it happened, let alone that 'an indeterminate time' had passed before then.  We know that the central computer is dead by the time that the narrator arrives inside, but all that we know before that is that Ai says it's dark (not responding to signals) which could easily either be 'someone using an non-automated radio to constantly manually send out frantic distress signals, but I'm not aware of them at all', and/or (my preference) 'I'm opening communications and infecting their systems with the kill-virus now... (and not telling you)'.  --To rephrase, there's no mention of visual indication of strangeness before landing, and he only has Ai's word for it that it's truly silent when they arrive.")
->>>> The [](#s "'profit'") matter doesn't have anything else backing it up, just that I enjoy imagining it that way.  I suppose [](#s "it hooks into my Ai-origin imagining in that if they're doing this at all (concerted), this probably isn't the first time, and it would be odd for them to be spending so much time on other things, rather than going straight towards a base from day 1, then from base to base (with the narrator under the delusion of doing a normal humans-largely-uninvolved job) (Ah, though it's entirely possible they did a normal job at first, before switching their main pattern after Ai got turned weird unconsciously or intentionally)").
->>>> I'm happy that my thoughts were thought-provoking!
 >>>> 
+>>>> [](#s "'quite some time':  Checking, the can't-trust-the-computers person doesn't mention how recently it happened, let alone that 'an indeterminate time' had passed before then.  We know that the central computer is dead by the time that the narrator arrives inside, but all that we know before that is that Ai says it's dark (not responding to signals) which could easily either be 'someone using an non-automated radio to constantly manually send out frantic distress signals, but I'm not aware of them at all', and/or (my preference) 'I'm opening communications and infecting their systems with the kill-virus now... (and not telling you)'.  --To rephrase, there's no mention of visual indication of strangeness before landing, and he only has Ai's word for it that it's truly silent when they arrive.")
+>>>> 
+>>>> The [](#s "'profit'") matter doesn't have anything else backing it up, just that I enjoy imagining it that way.  I suppose [](#s "it hooks into my Ai-origin imagining in that if they're doing this at all (concerted), this probably isn't the first time, and it would be odd for them to be spending so much time on other things, rather than going straight towards a base from day 1, then from base to base (with the narrator under the delusion of doing a normal humans-largely-uninvolved job) (Ah, though it's entirely possible they did a normal job at first, before switching their main pattern after Ai got turned weird unconsciously or intentionally)").
+>>>> 
+>>>> I'm happy that my thoughts were thought-provoking!
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a month later)
 >>>> 
 >>>> > as it is silent when they arrive. Of course, transmitting at light speed would enable that...
->>>> I had assumed the silence was another lie/detection failure by the AI. Totally plausible that it communicated with them and was totally aware of the situation, but chose not to tell him to engineer its goal. Afterall all his information is seemingly mediated by the AI....
 >>>> 
+>>>> I had assumed the silence was another lie/detection failure by the AI. Totally plausible that it communicated with them and was totally aware of the situation, but chose not to tell him to engineer its goal. Afterall all his information is seemingly mediated by the AI....
 
 ---
 

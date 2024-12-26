@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/DaystarEld** [+1]  *Pokémon Professor**
+> **u/DaystarEld** [+1]  *Pokémon Professor* (3 minutes later)
 > 
 > Finally got the first episode up! It's being hosted on SoundCloud for now and was submitted to iTunes, so soon will spread to other platforms.  
-> Hope you enjoy the listen, and all feedback welcome!
 > 
+> Hope you enjoy the listen, and all feedback welcome!
 
-> **u/dysfunctionz** [+1] *
+> **u/dysfunctionz** [+1]  (14 minutes later)
 > 
 > Link is dead.
-> 
 
 ---
 

@@ -26,85 +26,80 @@ Again, thanks for all the comments!
 
 ### Comments:
 
-> **u/CaseyAshford** [+7] *
+> **u/CaseyAshford** [+8]  (4 hours later)
 > 
 > What is the expected update schedule for this fanfic? You mentioned in the post for the prologue that you already had 300 pages and I am eager to read more.
-> 
 
->> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>> **u/Sophronius** [+2]  *The Need to Become Stronger* (18 hours later)
 >> 
 >> Glad you liked it! The planned update schedule is biweekly - probably On sundays and Wednesdays or something like that. 
->> If you want to be alerted to new updates as soon as they appear, please feel free to use the Follow functionality on my website.
 >> 
+>> If you want to be alerted to new updates as soon as they appear, please feel free to use the Follow functionality on my website.
 
-> **u/Kodix** [+5] *
+> **u/Kodix** [+6]  (3 hours later)
 > 
 > I liked it and am looking forward to more. The start seems relatively slow, but that's alright.
-> 
 
-> **u/Elhokar** [+3] *
+> **u/Elhokar** [+4]  (13 hours later)
 > 
 > I'm a big fan of the whole grandiose, over the top writing style in general. That being said it's a hard style to nail and you'll probably need a couple of edits to make it flow better, not that your current chapter is bad or anything. Just some advice to keep in mind for future chapters.
-> 
 
-> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!* (14 hours later)
 > 
 > TLDR: This good!
+> 
 > Okay so the writing style is a bit different, makes me think of trailers for movies where narator lines are mixed with scenes of protag. It's not bad just different to me.
+> 
 > Character behavior is pretty good and unravels pretty much how character descriptions and the originals would behave in real life, specifically talking about Kiba, Iruka, Sakura and Naruto's liking of her, and people's reactions to attacking noble and important figures.
+> 
 > Mizuki the QuirelMort seems a bit of copy from hpmor with his cynism, story and personality. Not a bad thing, just don't overdo it.
+> 
 > Prologue was good too. I like the attitude of 
 > Army > OP character/person in combat, I mean unless your special snowflake powers include out thinking a group of cunning people working in unison then you're gonna get screwed.
-> 
 
->> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>> **u/Sophronius** [+2]  *The Need to Become Stronger* (19 hours later)
 >> 
 >> Thanks for the feedback! You're right about Mizuki resembling Quirrelmort too much... I think I accidentally channeled him in the process of writing an evil cynical teacher. I think I need to rewrite the section where he actually teaches, because I suspect that's the main offender.
->> 
 
->>> **u/JackStargazer** [+2]  *Primordial Apologist**
+>>> **u/JackStargazer** [+2]  *Primordial Apologist* (a day later)
 >>> 
 >>> I think you need to pad that scene out more, there is a lot of "Telling not Showing" there when it comes to how he teaches with 'passion' or in a way that makes you pay attention even though it's the same information Iruka would have taught.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> Have you read the full first act?  [SPOILER](#s "I don't think this matters as much as you're making it out to. The direction surprised me. I'm still not sure of what direction OP is going to take this. I didn't expect the wave mission happened as quickly as it did.")
->>>> 
 
->>>>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>>>> **u/JackStargazer** [+1]  *Primordial Apologist* (2 days later)
 >>>>> 
 >>>>> I have now. I agree with your points entirely.
->>>>> 
 
->>>>> **u/Sophronius** [+1]  *The Need to Become Stronger**
+>>>>> **u/Sophronius** [+1]  *The Need to Become Stronger* (2 days later)
 >>>>> 
 >>>>> Ooh, can I get more feedback on the whole act? I know that 30 of you have read the whole thing, so some of you must have something to say :p.
->>>>> [Spoiler](#s "To be honest, I personally suspect the biggest flaw of the story is the lack of direction. Looking back I think I should have focussed more on the parts that really make the story original, i.e. when Naruto visits the Kyubi and when they talk about the Enemy and so on. I'm not sure I should have left the Wave Arc in at all, actually.")
 >>>>> 
+>>>>> [Spoiler](#s "To be honest, I personally suspect the biggest flaw of the story is the lack of direction. Looking back I think I should have focussed more on the parts that really make the story original, i.e. when Naruto visits the Kyubi and when they talk about the Enemy and so on. I'm not sure I should have left the Wave Arc in at all, actually.")
 
-> **u/Sophronius** [+3]  *The Need to Become Stronger**
+> **u/Sophronius** [+3]  *The Need to Become Stronger* (23 hours later)
 > 
 > Hey all,
-> per request I have now added the full Act 1 to the mediafire folder, for any who wish to beta read the whole thing. Please note that you'll be getting a slightly less polished version if you read it this way, and of course take care not to spoil anything for others!
 > 
+> per request I have now added the full Act 1 to the mediafire folder, for any who wish to beta read the whole thing. Please note that you'll be getting a slightly less polished version if you read it this way, and of course take care not to spoil anything for others!
 
-> **u/tokol** [+1]  *The Greater Good**
+> **u/tokol** [+1]  *The Greater Good* (28 days later)
 > 
 > Typos:
-> >I told my friend that we had to keep going to fulfil our mission, but he insisted on carrying him while we ran.
-> fulfil -> fulfill
 > 
+> >I told my friend that we had to keep going to fulfil our mission, but he insisted on carrying him while we ran.
+> 
+> fulfil -> fulfill
 
->> **u/Sophronius** [+1]  *The Need to Become Stronger**
+>> **u/Sophronius** [+1]  *The Need to Become Stronger* (28 days later)
 >> 
 >> Cheers, but fulfil is actually the correct British spelling. I know, annoying ain't it! :p
->> 
 
->>> **u/tokol** [+1]  *The Greater Good**
+>>> **u/tokol** [+1]  *The Greater Good* (29 days later)
 >>> 
 >>> Good to know!
->>> 
 
 ---
 

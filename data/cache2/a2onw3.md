@@ -12,72 +12,67 @@ What’s some good rationalist fiction to read for someone who has already read 
 
 ### Comments:
 
-> **u/daytodave** [+7]  *an altruistic conversion of calories to hedons**
+> **u/daytodave** [+8]  *an altruistic conversion of calories to hedons* (6 hours later)
 > 
 > [Animorphs: The Reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning)
-> The single best ratfic I have ever read. Alien technology (including The Ellimist/Crayak) have logical, internally consistent rules, Visser Three is competent, and the Animorphs are actually trying to win.
-> Some parts are extremely dark, but it does an amazing job of staying true to the spirit of canon and the characters' core personalities.
 > 
+> The single best ratfic I have ever read. Alien technology (including The Ellimist/Crayak) have logical, internally consistent rules, Visser Three is competent, and the Animorphs are actually trying to win.
+> 
+> Some parts are extremely dark, but it does an amazing job of staying true to the spirit of canon and the characters' core personalities.
 
->> **u/doc-pilot** [+3] *
+>> **u/doc-pilot** [+3]  (8 hours later)
 >> 
 >> Sounds awesome. Thanks.
->> 
 
-> **u/None** [+11] *
+> **u/None** [+10]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/doc-pilot** [+11] *
+>> **u/doc-pilot** [+11]  (8 hours later)
 >> 
 >> Thanks for saying why you’re downvoting. Would you have downvoted if I had explicitly asked about audio content in the op?
->> 
 
->>> **u/None** [+12] *
+>>> **u/None** [+12]  (9 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/doc-pilot** [+6] *
+>>>> **u/doc-pilot** [+6]  (9 hours later)
 >>>> 
 >>>> Very cool. Thank you.
->>>> 
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (11 hours later)
 >> 
 >> [The Bobiverse](https://www.audible.com/series?asin=B01M1RDL6W) is a fun series about a uploaded von-neumann probe.  Think passages of the void, but add in a heavy dose of programming humor.  I found it hilarious.
->> 
 
->>> **u/Chrontius** [+2] *
+>>> **u/Chrontius** [+2]  (4 days later)
 >>> 
 >>> I never thought about this as rationalist, but it's a rollicking good time, and I basically read each book in its entirety the day I bought it.  They're not hard to love.
->>> Also, nobody ever holds the idiot ball, and implications are taken seriously.
 >>> 
+>>> Also, nobody ever holds the idiot ball, and implications are taken seriously.
 
-> **u/Sophronius** [+2]  *The Need to Become Stronger**
+> **u/Sophronius** [+2]  *The Need to Become Stronger* (an hour later)
 > 
 > [The Need to Become Stronger.](https://needtobecomestronger.wordpress.com/)
-> You didn't specify what kind of stories you were looking for (which settings? Which genre?) so I just went ahead and named the best one :>
-> In all seriousness though, you should check out the rational reading list on goodreads: [https://www.goodreads.com/list/show/100705.Rational\_Fiction](https://www.goodreads.com/list/show/100705.Rational_Fiction)
-> There's also useful overview sorted by media on tvtropes: [https://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic](https://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic)
-> If you want more specific suggestions, you'll have to tell us what you're looking for exactly.
 > 
+> You didn't specify what kind of stories you were looking for (which settings? Which genre?) so I just went ahead and named the best one :>
+> 
+> In all seriousness though, you should check out the rational reading list on goodreads: [https://www.goodreads.com/list/show/100705.Rational\_Fiction](https://www.goodreads.com/list/show/100705.Rational_Fiction)
+> 
+> There's also useful overview sorted by media on tvtropes: [https://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic](https://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic)
+> 
+> If you want more specific suggestions, you'll have to tell us what you're looking for exactly.
 
->> **u/doc-pilot** [+2] *
+>> **u/doc-pilot** [+2]  (an hour later)
 >> 
 >> I have a strong bias in favor of things available in audio book format. As a consequence of various lifestyle factors I have limited time for reading from a screen.
->> 
 
->>> **u/gbear605** [+2]  *history’s greatest story**
+>>> **u/gbear605** [+2]  *history’s greatest story* (3 hours later)
 >>> 
 >>> Maybe try The Martian? I’ve heard it has a good audiobook, and it at least counts as rational if not rationalist
->>> 
 
->>>> **u/doc-pilot** [+2] *
+>>>> **u/doc-pilot** [+2]  (8 hours later)
 >>>> 
 >>>> Thanks. I’ll take look.
->>>> 
 
 ---
 

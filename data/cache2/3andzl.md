@@ -127,50 +127,53 @@ The discussion for the next chapter is posted here.
 
 ### Comments:
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (4 minutes later)
 > 
 > *facepalms*
-> I accidentally typed 5 PM instead of 7 PM on my warning post. So as a very poor apology, I'm posting this 20 minutes early even though to you guys, it's an hour and 40 minutes late.
-> This was also a very hard chapter to write about because I don't actually know enough about biology to write anything more than what Hofstadter says or how to summarize it properly.
-> Also this was one of the longest chapter in the book which was the main reason for why I had so much trouble finishing this post. Well that and a brand-new full time job researching for the summer.
-> I'll shoot for next Sunday to post the next chapter, but I'm not promising anything which is why there are no dates on the schedule for the remaining chapters.
 > 
+> I accidentally typed 5 PM instead of 7 PM on my warning post. So as a very poor apology, I'm posting this 20 minutes early even though to you guys, it's an hour and 40 minutes late.
+> 
+> This was also a very hard chapter to write about because I don't actually know enough about biology to write anything more than what Hofstadter says or how to summarize it properly.
+> 
+> Also this was one of the longest chapter in the book which was the main reason for why I had so much trouble finishing this post. Well that and a brand-new full time job researching for the summer.
+> 
+> I'll shoot for next Sunday to post the next chapter, but I'm not promising anything which is why there are no dates on the schedule for the remaining chapters.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (22 hours later)
 >> 
 >> > Well that and a brand-new full time job researching for the summer.
->> Wahoo!  Congratulations!
 >> 
+>> Wahoo!  Congratulations!
 
-> **u/None** [+1] *
+> **u/None** [+1]  (22 hours later)
 > 
 > >According to Gödel’s Incompleteness Theorem and the isomorphism between biology and TNT, there must be some sequence of bases which would result in destruction of the cell.
-> Uhhhh... not really?  I mean, in proof theory, attempting to evaluate a Goedel Statement doesn't make the proof system "explode and die", it just makes it enter an infinite loop from which it will never jump out.  The normal way to get around this, particularly when you want to consider infinite loops we *want*, is to use [codata and corecursion](http://blog.sigfpe.com/2007/07/data-and-codata.html), in which we guarantee that an infinite sequence of steps will happen, but each one will generate a useful result in finite time.
-> [](#s "And that doesn't get into the recent result by Calude for anytime computation of well-defined nonhalting probabilities for general Turing machines, which make Goedel Statements evaluable to stochastic bounded reasoners.")
 > 
+> Uhhhh... not really?  I mean, in proof theory, attempting to evaluate a Goedel Statement doesn't make the proof system "explode and die", it just makes it enter an infinite loop from which it will never jump out.  The normal way to get around this, particularly when you want to consider infinite loops we *want*, is to use [codata and corecursion](http://blog.sigfpe.com/2007/07/data-and-codata.html), in which we guarantee that an infinite sequence of steps will happen, but each one will generate a useful result in finite time.
+> 
+> [](#s "And that doesn't get into the recent result by Calude for anytime computation of well-defined nonhalting probabilities for general Turing machines, which make Goedel Statements evaluable to stochastic bounded reasoners.")
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >> 
 >> But in the context of a cell interpreting a 'Godelian' DNA sequence, isn't failure the same thing as destruction of the cell just like how the Phonograph break due to vibrations when playing a Godelian record?
->> How can you have 'infinite loops' in the context of cells?
 >> 
+>> How can you have 'infinite loops' in the context of cells?
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> > How can you have 'infinite loops' in the context of cells?
->>> Homeostasis?  The Krebs Cycle?
 >>> 
+>>> Homeostasis?  The Krebs Cycle?
 
->>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >>>> 
 >>>> Oh....thanks for that. I don't know why I didn't think of them (not enough automatic familiarity?).
->>>> 
 
-> **u/markus1189** [+1] *
+> **u/markus1189** [+1]  (4 days later)
 > 
 > I found the start of the dialogue strange.
-> On p. 549 the first speech of the crab seems kind of backwards (and it can be read forwards and backwards) and already talks about eating and being-stuffed although the tortoise did not yet ask about the teahouse at all.
 > 
+> On p. 549 the first speech of the crab seems kind of backwards (and it can be read forwards and backwards) and already talks about eating and being-stuffed although the tortoise did not yet ask about the teahouse at all.
 
 ---
 

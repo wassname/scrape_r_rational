@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/2w6lhw/qedu_should_we_start_community_readthrough_on/
-* Score: 12
+* Score: 13
 
 * Created: 2015-02-17T11:15:49
 
@@ -40,195 +40,203 @@ edit. People seem to support GEB, so I don't mind reading it again because the e
 
 ### Comments:
 
-> **u/None** [+10] *
+> **u/None** [+9]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (an hour later)
 >> 
 >> Yeah, I think we should wait until HPMOR is finished. I'll probably post this same question on /r/hpmor /r/singularity and maybe LW if we could get more people on board.
->> 
 
-> **u/GEBisaGoodiDEA** [+6] *
+> **u/GEBisaGoodiDEA** [+7]  (2 hours later)
 > 
 > Okay, well, my thoughts.
-> * Well, it does seem like this sub is bound to get a bit quieter unless someone starts something. Both *The Waves Arisen* and *The Two-Year Emperor* – the most frequently-updating fics over the last month – finished just before *HPMOR* started updating. And, of course, most of the *MoR* discussion is gonna be at /r/HPMOR. So
-> * I expect we'll gain a lot more readers as /r/HPMOR ends. Someone should definitely make a thread over there maybe after the last chapter, or between the last two chapters, to basically remind everyone that /r/rational exists.
-> * On that note, there's already a SlateStar Codex readthrough going on over in /r/VoluntaristLWBookClub
-> * However, I do agree that a readthrough here would be interesting. It would be announced in the gap between the last two MoR chapters, and the first thread would be a week after that announcement. It would be good topic for that advertising thread for /r/HPMOR. We wouldn't want it to drown out the actual rational fiction discussion, ofc, but maybe 2-3 chapters a week?
-> * I think *Gödel, Escher, Bach* is sufficiently difficult-to-understand to justify a community readthrough/discussion. See my username.
-> Good idea /u/19283123! Thanks for bringing it up 😃
 > 
+> * Well, it does seem like this sub is bound to get a bit quieter unless someone starts something. Both *The Waves Arisen* and *The Two-Year Emperor* – the most frequently-updating fics over the last month – finished just before *HPMOR* started updating. And, of course, most of the *MoR* discussion is gonna be at /r/HPMOR. So
+> 
+> * I expect we'll gain a lot more readers as /r/HPMOR ends. Someone should definitely make a thread over there maybe after the last chapter, or between the last two chapters, to basically remind everyone that /r/rational exists.
+> 
+> * On that note, there's already a SlateStar Codex readthrough going on over in /r/VoluntaristLWBookClub
+> 
+> * However, I do agree that a readthrough here would be interesting. It would be announced in the gap between the last two MoR chapters, and the first thread would be a week after that announcement. It would be good topic for that advertising thread for /r/HPMOR. We wouldn't want it to drown out the actual rational fiction discussion, ofc, but maybe 2-3 chapters a week?
+> 
+> * I think *Gödel, Escher, Bach* is sufficiently difficult-to-understand to justify a community readthrough/discussion. See my username.
+> 
+> Good idea /u/19283123! Thanks for bringing it up 😃
 
->> **u/eaglejarl** [+8] *
+>> **u/eaglejarl** [+9]  (7 hours later)
 >> 
 >> For the record, I'll be starting something new in two weeks, at which point I will be updating at least once per week.
->> 
 
->>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (10 hours later)
 >>> 
 >>> Hooray!
->>> 
 
->>>> **u/GEBisaGoodiDEA** [+8] *
+>>>> **u/GEBisaGoodiDEA** [+8]  (10 hours later)
 >>>> 
 >>>> Speaking of – you plan on starting a new story sometime ever?
->>>> 
 
->>>>> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+10]  *Time flies like an arrow* (10 hours later)
 >>>>> 
 >>>>> I'm working on the second draft of a time travel novel, but I'm going to at least make an honest effort to get it traditionally published before going self-published, which means that it's literally years away from being seen by anyone other than friends and family (and agents/editors). Once the second draft is done, I'm going to send it out to some beta readers before draft number three, and then work on a different project in the meantime. I think that will probably be published weekly at AO3 or FictionPress (or both).
->>>>> The elevator pitch for what I have in mind is that it's a version of the 1600s where people get superpowers from being famous. I reserve the right to change my mind though.
 >>>>> 
+>>>>> The elevator pitch for what I have in mind is that it's a version of the 1600s where people get superpowers from being famous. I reserve the right to change my mind though.
 
->>>>>> **u/GEBisaGoodiDEA** [+5] *
+>>>>>> **u/GEBisaGoodiDEA** [+6]  (11 hours later)
 >>>>>> 
 >>>>>> Best of luck with your time travel novel! It's a long and arduous process, but I hope it works out for you. God knows you deserve it. (And also, that pitch sounds awesome.) See you around!    
 >>>>>> - /u/seraphnb
->>>>>> 
 
->>>>>>> **u/None** [+2] *
+>>>>>>> **u/None** [+2]  (21 hours later)
 >>>>>>> 
 >>>>>>> Are you actually going to stick with that username or *actually quit reddit this time?*
->>>>>>> 
 
->>>>>>>> **u/GEBisaGoodiDEA** [+2] *
+>>>>>>>> **u/GEBisaGoodiDEA** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> Well, it's kinda important to that one post, so I think I'll just change the password into a random alphanumeric string instead of deleting it.
->>>>>>>> And maybe I'll give up Reddit for Lent. Because Lent's a thing that exists for some people I think.
->>>>>>>> Oh wait — this is the first day of Lent already, right? Oops, well, too late for that.
 >>>>>>>> 
+>>>>>>>> And maybe I'll give up Reddit for Lent. Because Lent's a thing that exists for some people I think.
+>>>>>>>> 
+>>>>>>>> Oh wait — this is the first day of Lent already, right? Oops, well, too late for that.
 
->>>>>> **u/eaglejarl** [+3] *
+>>>>>> **u/eaglejarl** [+3]  (11 hours later)
 >>>>>> 
 >>>>>> If you don't mind me asking, why are you going the traditional publishing route?
->>>>>> 
 
->>>>>>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>>>>>> **u/alexanderwales** [+5]  *Time flies like an arrow* (11 hours later)
 >>>>>>> 
 >>>>>>> There are a couple reasons.
->>>>>>> First is convenience. I like writing a whole lot. Things I don't like include marketing, editing, and promoting. Traditional publishing doesn't eliminate the need to do those things, but it does reduce them, and that means that the ratio of writing to doing things that aren't writing goes up, which I think would make me happy.
->>>>>>> Second is prestige. There are numerous gatekeepers involved in traditional publishing, and getting past those gatekeepers on the merits of my work would make me happy - and prove some of that merit to people upfront. Self-publishing doesn't have that. I could put the first draft of the novel up on Kindle in the next twenty-four hours, and that would prove approximately nothing (until and unless readers/customers start coming in, and I start getting mentioned places, which is really variable and comes down to that marketing/promotion stuff *on top of* writing well).
->>>>>>> Third are connections. An agent knows people, and can deal with all that social stuff that I'm decent enough at but really dislike. Getting into the inner circle would allow me better access to my favorite authors, who are all traditionally published. Traditional publishing gets you introductions and opportunities that selfpub doesn't.
->>>>>>> Fourth is the physicality of actually getting a physical book in my hands (possible with print-on-demand for selfpub, I will grant that).
->>>>>>> The big benefits of selfpub seem to be that you can instantly get your book to market and make a higher margin on sales, but the money aspect of it is mostly irrelevant to me (since no sane person decides that authorship is the path to riches) and I don't actually think that getting traditionally published is going to require all that much actual *work* once I have a manuscript I'm happy with - just time spent on queries and probably lots of rejection.
->>>>>>> And once my manuscript is done, I can always self-publish it later on.
 >>>>>>> 
+>>>>>>> First is convenience. I like writing a whole lot. Things I don't like include marketing, editing, and promoting. Traditional publishing doesn't eliminate the need to do those things, but it does reduce them, and that means that the ratio of writing to doing things that aren't writing goes up, which I think would make me happy.
+>>>>>>> 
+>>>>>>> Second is prestige. There are numerous gatekeepers involved in traditional publishing, and getting past those gatekeepers on the merits of my work would make me happy - and prove some of that merit to people upfront. Self-publishing doesn't have that. I could put the first draft of the novel up on Kindle in the next twenty-four hours, and that would prove approximately nothing (until and unless readers/customers start coming in, and I start getting mentioned places, which is really variable and comes down to that marketing/promotion stuff *on top of* writing well).
+>>>>>>> 
+>>>>>>> Third are connections. An agent knows people, and can deal with all that social stuff that I'm decent enough at but really dislike. Getting into the inner circle would allow me better access to my favorite authors, who are all traditionally published. Traditional publishing gets you introductions and opportunities that selfpub doesn't.
+>>>>>>> 
+>>>>>>> Fourth is the physicality of actually getting a physical book in my hands (possible with print-on-demand for selfpub, I will grant that).
+>>>>>>> 
+>>>>>>> The big benefits of selfpub seem to be that you can instantly get your book to market and make a higher margin on sales, but the money aspect of it is mostly irrelevant to me (since no sane person decides that authorship is the path to riches) and I don't actually think that getting traditionally published is going to require all that much actual *work* once I have a manuscript I'm happy with - just time spent on queries and probably lots of rejection.
+>>>>>>> 
+>>>>>>> And once my manuscript is done, I can always self-publish it later on.
 
->>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>> **u/eaglejarl** [+3]  (14 hours later)
 >>>>>>>> 
 >>>>>>>> Those are good reasons.  Thanks for explaining.
->>>>>>>> 
 
->>>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (11 hours later)
 >>>>>> 
 >>>>>> That sounds fascinating. So kind of like deities in a lot of settings; if you don't mind answering questions about the concepts, do they become more powerful as they become more famous? I could see that giving rise to space travel (eventually) in order to become famous to aliens, too...
->>>>>> 
 
->>>>>>> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>>>>>>> **u/alexanderwales** [+7]  *Time flies like an arrow* (12 hours later)
 >>>>>>> 
 >>>>>>> Yes, they get more powerful as they become more famous. I'm still sort of tweaking the setting (mostly on the drive to/from work), so all the details aren't in place yet. My notes include the words "aggressive self-mythologizing", which I think is probably one of the conceptual cornerstones of the idea.
->>>>>>> 
 
->>>>>>>> **u/eaglejarl** [+6] *
+>>>>>>>> **u/eaglejarl** [+4]  (14 hours later)
 >>>>>>>> 
 >>>>>>>> > aggressive self-mythologizing
+>>>>>>>> 
 >>>>>>>> Huh.  This is, actually, a really good explanation for most of the stock superhero tropes.
+>>>>>>>> 
 >>>>>>>> * Spandex and capes
 >>>>>>>> * Talk in purple prose / have catchphrases / have battle cry
 >>>>>>>> * Have a theme -- riddles, bats, clown, weather, boomerangs....
 >>>>>>>> * Elaborate villainous schemes in broad daylight instead of quiet robbery at night
 >>>>>>>> * Deathtraps for the hero, not a bullet
->>>>>>>> This is a *much* better explanation than Worm came up with.
 >>>>>>>> 
+>>>>>>>> This is a *much* better explanation than Worm came up with.
 
->>>>>>>> **u/Pluvialis** [+4]  *Second Age Sauron**
+>>>>>>>> **u/Pluvialis** [+3]  *Second Age Sauron* (12 hours later)
 >>>>>>>> 
 >>>>>>>> >aggressive self-mythologizing
->>>>>>>> That sounds like a really cool mechanic for having over the top hero characters.
 >>>>>>>> 
+>>>>>>>> That sounds like a really cool mechanic for having over the top hero characters.
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (21 hours later)
 >>>>>>>> 
 >>>>>>>> > My notes include the words "aggressive self-mythologizing", which I think is probably one of the conceptual cornerstones of the idea.
->>>>>>>> I can feel the reverberations of *Kill la Kill* from even a year and a half away.
->>>>>>>> This is going to be one of the most deliciously hammy things I've ever seen.
 >>>>>>>> 
+>>>>>>>> I can feel the reverberations of *Kill la Kill* from even a year and a half away.
+>>>>>>>> 
+>>>>>>>> This is going to be one of the most deliciously hammy things I've ever seen.
 
->>>>>> **u/gamarad** [+2]  *LessWrong (than usual)**
+>>>>>> **u/gamarad** [+2]  *LessWrong (than usual)* (13 hours later)
 >>>>>> 
 >>>>>> That premise sounds like it has a lot of potential. I'd like to see what you do with it; [this thread](http://www.reddit.com/r/Parahumans/comments/2w2l46/what_sort_of_powers_would_you_expect_if_worm_were/) from /r/Parahumans has got me interested in superhero stories set in the late middle ages/early renaissance.  (Thanks for suggesting Marvel 1602.)
->>>>>> 
 
->>> **u/GEBisaGoodiDEA** [+1] *
+>>> **u/GEBisaGoodiDEA** [+1]  (10 hours later)
 >>> 
 >>> Best news all day.
->>> 
 
-> **u/None** [+5] *
+> **u/None** [+3]  (7 hours later)
 > 
 > I would like to cast my vote for, in descending order of preference:
-> * AI: A modern approach
-> * Judgment Under Uncertainty: Heuristics and Biases
-> * Probability Theory: The Logic of Science
-> * Thinking, Fast and Slow
-> * Thinking and Deciding
-> * Anything else on your list that is not GEB
-> * GEB (I've already read it, and ~~I suspect many have~~ I didn't enjoy it much, and before I caught myself, I tried to provide a convincing rationalization to tip the scales in my favor, because in actuality I am selfish and would only begrudgingly support this option if it lead to reading other books)
-
-> I have the first 5 and have been meaning to read them, but haven't been able to make myself keep at it. A community read-through would give me that extra bit of motivation.
 > 
+> * AI: A modern approach
+> 
+> * Judgment Under Uncertainty: Heuristics and Biases
+> 
+> * Probability Theory: The Logic of Science
+> 
+> * Thinking, Fast and Slow
+> 
+> * Thinking and Deciding
+> 
+> * Anything else on your list that is not GEB
+> 
+> * GEB (I've already read it, and ~~I suspect many have~~ I didn't enjoy it much, and before I caught myself, I tried to provide a convincing rationalization to tip the scales in my favor, because in actuality I am selfish and would only begrudgingly support this option if it lead to reading other books)
+> 
+> I have the first 5 and have been meaning to read them, but haven't been able to make myself keep at it. A community read-through would give me that extra bit of motivation.
 
->> **u/None** [+5] *
+>> **u/None** [+4]  (21 hours later)
 >> 
 >> > Probability Theory: The Logic of Science
->> Seconding the vote for Jaynes.  It's definitely one of the textbooks that you can play Talmud with.
->> EDIT: And if we're considering *AI: A Modern Approach*, I would also like to recommend Shalev-Shwartz and Ben-David's *Understanding Machine Learning*, since GOFAI is a crock of shit and everyone should learn learning theory instead.
 >> 
+>> Seconding the vote for Jaynes.  It's definitely one of the textbooks that you can play Talmud with.
+>> 
+>> EDIT: And if we're considering *AI: A Modern Approach*, I would also like to recommend Shalev-Shwartz and Ben-David's *Understanding Machine Learning*, since GOFAI is a crock of shit and everyone should learn learning theory instead.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (an hour later)
 > 
 > Ooh!  Ooh!  Ooh!  Nonfiction!
-> As long as we're at the suggestion game, does anyone else have a copy of Smullyan's *Logical Labyrinths*?  It more-or-less teaches an intro class in mathematical logic (classical logic, starting with some intuitions, then symbolic propositional logic, and then some topics on first-order logic) entirely via puzzles.
 > 
+> As long as we're at the suggestion game, does anyone else have a copy of Smullyan's *Logical Labyrinths*?  It more-or-less teaches an intro class in mathematical logic (classical logic, starting with some intuitions, then symbolic propositional logic, and then some topics on first-order logic) entirely via puzzles.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (11 hours later)
 > 
 > I definitely support Godel, Escher, Bach (I've just picked it up, but haven't gotten around to reading it, actually).
-> 
 
-> **u/Dykster** [+2] *
+> **u/Dykster** [+2]  (4 hours later)
 > 
 > Ooh, interesting. I think I'll partake, whatever we decide on. 
 > I've already read GEB and "Thinking, Fast and Slow", but wouldn't mind to reread it.
-> 
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (5 hours later)
 > 
 > I'd love to start with GEB as the first book and then AIMA as the second book to go through.
-> I would recommend going at the pace of one chapter per week to best fit differing schedules and to allow people to read the chapter at a slow pace if they wish (about a few pages per day or so).
-> If people don't like one book, can we have two books be read at the same time? It wouldn't be too hard to read two chapters in a week and be part of both groups if some people like both of them.
 > 
+> I would recommend going at the pace of one chapter per week to best fit differing schedules and to allow people to read the chapter at a slow pace if they wish (about a few pages per day or so).
+> 
+> If people don't like one book, can we have two books be read at the same time? It wouldn't be too hard to read two chapters in a week and be part of both groups if some people like both of them.
 
-> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (13 hours later)
 > 
 > *psst!*
-> *Your link to Judgement Under Uncertainty goes to Thinking, Fast and Slow.*
 > 
+> *Your link to Judgement Under Uncertainty goes to Thinking, Fast and Slow.*
 
-> **u/None** [+1] *
+> **u/None** [+1]  (4 hours later)
 > 
 > RemindMe! 7 days
-> 
 
->> **u/RemindMeBot** [+1] *
+>> **u/RemindMeBot** [+1]  (5 hours later)
 >> 
 >> Messaging you on [**2015-02-24 16:16:01 UTC**](http://www.wolframalpha.com/input/?i=2015-02-24 16:16:01 UTC To Local Time) to remind you of [**this comment.**](http://www.reddit.com/r/rational/comments/2w6lhw/qedu_should_we_start_community_readthrough_on/coo7ej5)
->> [**CLICK THIS LINK**](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[http://www.reddit.com/r/rational/comments/2w6lhw/qedu_should_we_start_community_readthrough_on/coo7ej5]%0A%0ARemindMe!  7 days) to send a PM to also be reminded and to reduce spam.
->> _____
->> [^([FAQs])](http://www.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/) ^| [^([Custom Reminder])](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!) ^| [^([Feedback])](http://www.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback) ^| [^([Code])](https://github.com/SIlver--/remindmebot-reddit)
 >> 
+>> [**CLICK THIS LINK**](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[http://www.reddit.com/r/rational/comments/2w6lhw/qedu_should_we_start_community_readthrough_on/coo7ej5]%0A%0ARemindMe!  7 days) to send a PM to also be reminded and to reduce spam.
+>> 
+>> _____
+>> 
+>> [^([FAQs])](http://www.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/) ^| [^([Custom Reminder])](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!) ^| [^([Feedback])](http://www.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback) ^| [^([Code])](https://github.com/SIlver--/remindmebot-reddit)
 
 ---
 

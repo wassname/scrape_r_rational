@@ -2,7 +2,7 @@
 
 * Author: u/NanashiSaito *
 * URL: http://www.2pih.com/orders-of-magnitude/orders-of-magnitude-chapter-13-things-fall-apart-i-love-the-way-you-lie-pt-ii/
-* Score: 7
+* Score: 6
 
 * Created: 2016-11-05T11:20:43
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/NanashiSaito** [+2] *
+> **u/NanashiSaito** [+2]  (58 seconds later)
 > 
 > [Table of Contents](http://www.2pih.com/table-of-contents/) for new readers.
-> 
 
 ---
 

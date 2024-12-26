@@ -12,201 +12,178 @@
 
 ### Comments:
 
-> **u/CeruleanTresses** [+5] *
+> **u/CeruleanTresses** [+7]  (22 hours later)
 > 
 > Her dad is so laid-back about the whole torture thing that he's kind of creeping me out.
-> 
 
->> **u/AmyWarlock** [+4] *
+>> **u/AmyWarlock** [+4]  (23 hours later)
 >> 
 >> It makes me wonder if something's up. Maybe the drow did something or being resurrected by the God of Death did?
->> 
 
->>> **u/eaglejarl** [+3] *
+>>> **u/eaglejarl** [+3]  (a day later)
 >>> 
 >>> Would I do such a thing?
->>> 
 
->>>> **u/MoralRelativity** [+3] *
+>>>> **u/MoralRelativity** [+3]  (2 days later)
 >>>> 
 >>>> Yes, you would. :) However I've got the feeling that Suze is holding the idiot ball on this one. Given her boosted Int score she should be more cunning.
->>>> 
 
->>>>> **u/eaglejarl** [+3] *
+>>>>> **u/eaglejarl** [+3]  (2 days later)
 >>>>> 
 >>>>> Well, if I *were* planning something that heinous, I would probably respond by saying something about "just getting over a mental breakdown", or...ah...oh, "one level higher" (that's always a good one around here), or maybe "Jesus, just enjoy the ~~movie~~ book and say ten MST3K mantras and have a nice lie-down". (Well, ok, maybe not that last one. (*))
->>>>> Of course, I am absolutely categorically NOT, I repeat NOT, planning anything that heinous as far as you know for sure. 
-
->>>>> (*) I've been watching a bit too much of the ridiculously funny and VERY foul-mouthed (NSFW) "zero punctuation" channel on YouTube and apparently I'm channeling Yahtzee. Sorry about that.
 >>>>> 
+>>>>> Of course, I am absolutely categorically NOT, I repeat NOT, planning anything that heinous as far as you know for sure. 
+>>>>> 
+>>>>> (*) I've been watching a bit too much of the ridiculously funny and VERY foul-mouthed (NSFW) "zero punctuation" channel on YouTube and apparently I'm channeling Yahtzee. Sorry about that.
 
->>>>>> **u/MoralRelativity** [+1] *
+>>>>>> **u/MoralRelativity** [+1]  (2 days later)
 >>>>>> 
 >>>>>> :)
->>>>>> I'll take that as a recommendation to check that channel out when my kids aren't around!
 >>>>>> 
+>>>>>> I'll take that as a recommendation to check that channel out when my kids aren't around!
 
->>> **u/CeruleanTresses** [+2] *
+>>> **u/CeruleanTresses** [+2]  (a day later)
 >>> 
 >>> Yeah, that's kind of what I was thinking. His behavior definitely hints at something fucked-up going on.
->>> 
 
->> **u/MoralRelativity** [+2] *
+>> **u/MoralRelativity** [+2]  (2 days later)
 >> 
 >> Yeah, about that, I'm pretty confident that there's something going on there. Maybe some intervention from the Drow Priestess who would be motivated to ensure that Suze was receiving the 'best' advice.
->> 
 
-> **u/SkeevePlowse** [+7] *
+> **u/SkeevePlowse** [+6]  (23 hours later)
 > 
 > Although I really, really enjoyed part one of Two Year Emperor, these most recent chapters are constantly reminding me of the line "So, I told you that story so I could tell you this one."  I'm finding Suze's story a lot more compelling than Jake's.
-> Keep up the good work!
 > 
+> Keep up the good work!
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (a day later)
 >> 
 >> *laugh*
->> Thank you.
 >> 
+>> Thank you.
 
->>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (2 days later)
 >>> 
 >>> I have had the opposite reaction, no offense. I want to see Suze doing more creative and clever things, like Jake did.
->>> 
 
->>>> **u/eaglejarl** [+3] *
+>>>> **u/eaglejarl** [+3]  (2 days later)
 >>>> 
 >>>> Thanks for letting me know.  Book 2 is very different from Book 1 -- I'm trying to stretch my writing abilities in new directions, so it's probably going to start off a bit rocky.
->>>> Hopefully the upcoming few chapters will be more satisfying for you; Suze started off a bit batty because of the strain of her new senses / powers / worship requirement, but is starting to get a handle on it and I'll be going back more to the problem-solving part of things.  Please do let me know periodically; it's hard to improve without feedback...ideally constructive-but-negative feedback.
->>>> EDIT:  Corrected iPhone auto-correct error.
 >>>> 
+>>>> Hopefully the upcoming few chapters will be more satisfying for you; Suze started off a bit batty because of the strain of her new senses / powers / worship requirement, but is starting to get a handle on it and I'll be going back more to the problem-solving part of things.  Please do let me know periodically; it's hard to improve without feedback...ideally constructive-but-negative feedback.
+>>>> 
+>>>> EDIT:  Corrected iPhone auto-correct error.
 
->>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (2 days later)
 >>>>> 
 >>>>> Glad you're receptive to such feedback. I thought you'd want it, but was worried that might not be the case. I might possibly PM you sometime in the future if I have further thoughts. (I'll avoid being a jerk.)
->>>>> 
 
->>>>>> **u/eaglejarl** [+2] *
+>>>>>> **u/eaglejarl** [+2]  (2 days later)
 >>>>>> 
 >>>>>> Much appreciated.
->>>>>> 
 
-> **u/JackStargazer** [+4]  *Primordial Apologist**
+> **u/JackStargazer** [+5]  *Primordial Apologist* (4 hours later)
 > 
 > I had a feeling that there was a *secret* behind the identity of the fortune teller.
-> 
 
->> **u/eaglejarl** [+5] *
+>> **u/eaglejarl** [+4]  (5 hours later)
 >> 
 >> Heh. I didn't think I was being that subtle, but maybe I was. [The fortune teller ](#s "wasn't Herrún"). Actually, [she was ](#s "Loki -- he does that whole gender-bending thing, you know. Even gave birth a couple times.")
->> 
 
->>> **u/notentirelyrandom** [+1] *
+>>> **u/notentirelyrandom** [+1]  (20 hours later)
 >>> 
 >>> What was the second-most famous one?
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (21 hours later)
 >>>> 
 >>>> ?
->>>> 
 
->>>>> **u/notentirelyrandom** [+1] *
+>>>>> **u/notentirelyrandom** [+1]  (a day later)
 >>>>> 
 >>>>> There's Sleipnir, but if it was a couple of times there must have been another. I was curious.
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>> 
 >>>>>> Actually, I had it wrong.  He's the father of [Fenrir](http://en.wikipedia.org/wiki/Fenrir) (aka Fenris) and [Jörmungandr](http://en.wikipedia.org/wiki/J%C3%B6rmungandr) but he only gave birth to Sleipnir.  My bad.
->>>>>> 
 
->>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>> **u/JackStargazer** [+1]  *Primordial Apologist* (23 hours later)
 >>> 
 >>> Would have been my second guess.
->>> 
 
-> **u/Drazelic** [+3]  *Dai-Gurren Brigade**
+> **u/Drazelic** [+3]  *Dai-Gurren Brigade* (5 hours later)
 > 
 > Man, I can't see a not-tarot-card-deck reading in fiction these days without wondering what Persona or Stand that card would be associated with.
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (8 hours later)
 >> 
 >> For the unenlightened, this means...?
->> 
 
->>> **u/Drazelic** [+3]  *Dai-Gurren Brigade**
+>>> **u/Drazelic** [+3]  *Dai-Gurren Brigade* (9 hours later)
 >>> 
 >>> Stands are from Jojo's Bizarre Adventure, whole Personas are from... Persona. Basically, both are sets of themed superpowers embodied in spirit guardians, designed to counterbalance each other, one power per card per wielder. They're part of sort of a subgenre of story setups where the protagonist gets a power and then is told that X other people in the world also got different unique powers and now they have to fighht to the death because reasons- very Highlander-esque.
->>> Generally, works in this slightly nebulous genre have powersets which tend to be slightly more unique than regular comicbook characters. For example, one character in JJBA basically has the power to turn anything he touches into a time-delayed explosive. Another character can attack your reflection in a mirror, inflicting damage to you without being near you. The appeal of the genre lies partially in how the protagonist works their way around such seemingly OP powers with tricks and clever utilization of their own card, which is partially why I was reminded of the genre.
 >>> 
+>>> Generally, works in this slightly nebulous genre have powersets which tend to be slightly more unique than regular comicbook characters. For example, one character in JJBA basically has the power to turn anything he touches into a time-delayed explosive. Another character can attack your reflection in a mirror, inflicting damage to you without being near you. The appeal of the genre lies partially in how the protagonist works their way around such seemingly OP powers with tricks and clever utilization of their own card, which is partially why I was reminded of the genre.
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (19 hours later)
 >>>> 
 >>>> Ah, cool.  Sounds interesting -- any specific recommendations?
->>>> 
 
->>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (22 hours later)
 >>>>> 
 >>>>> The entirety of JJBA can be found as a manga if you google it online. The latest anime adaptation of JJBA, Stardust Crusaders, is pretty cool too; it's the third manga volume, and the first to introduce the concept of the 'Stand' as a framework for explaining the powers. Here's a video that, I feel, sums up the entirety of JJBA's appeal to people in a very short clip:
->>>>> https://www.youtube.com/watch?v=6BgqFYrD8UM
->>>>> If you laughed your ass off at this like I did, I bet you'd like the rest Jojo's Bizarre Adventure.
->>>>> As for other works. I... honestly can't think of anything else offhand that matches every requirement, but the basic idea of 'sets of weird powers with the same fundamental source fighting against each other' shows up a lot in japanese works, I've noticed. I may get back to you if I think of something else in the near future.
 >>>>> 
+>>>>> https://www.youtube.com/watch?v=6BgqFYrD8UM
+>>>>> 
+>>>>> If you laughed your ass off at this like I did, I bet you'd like the rest Jojo's Bizarre Adventure.
+>>>>> 
+>>>>> As for other works. I... honestly can't think of anything else offhand that matches every requirement, but the basic idea of 'sets of weird powers with the same fundamental source fighting against each other' shows up a lot in japanese works, I've noticed. I may get back to you if I think of something else in the near future.
 
-> **u/Mraedis** [+3] *
+> **u/Mraedis** [+3]  (15 hours later)
 > 
 > Just commenting to let you know it's being read, lovely chapter.
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (15 hours later)
 >> 
 >> Thank you, much appreciated.
->> 
 
-> **u/duffmancd** [+2] *
+> **u/duffmancd** [+2]  (43 minutes later)
 > 
 > This is one of those things that depends on interpretation, but I always thought that for a handy haversack: "each [pocket] is like a bag of holding" would mean that it responds similarly to portable holes.
-> You might be able to place a bag of holding in a handy haversack. Rope trick states that "It is hazardous to create an extradimensional space within an existing extradimensional space or to take an extradimensional space into an existing one." But, bags of holding are nondimensional rather than extradimensional.
-> Anyway, aside from rules lawyering, I enjoyed this chapter, I think the pace is picking up again and you're back into the swing of things.
 > 
+> You might be able to place a bag of holding in a handy haversack. Rope trick states that "It is hazardous to create an extradimensional space within an existing extradimensional space or to take an extradimensional space into an existing one." But, bags of holding are nondimensional rather than extradimensional.
+> 
+> Anyway, aside from rules lawyering, I enjoyed this chapter, I think the pace is picking up again and you're back into the swing of things.
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+5]  (an hour later)
 >> 
 >> My interpretation has always been that the rules say "if you put a Bag of Holding in a Portable Hole...."  They do *not* say "if you put something that works like a Bag of Holding in a Portable Hole...."
->> I did this for Grǫfhamr as well -- the whole place is made of Portable Holes, but the Landguard walked in with their Handy Haversacks no problem.  Albrecht hadn't even *heard* of Bags of Holding or their bad interaction with PHs; he was appalled that anyone would invent such a thing.
 >> 
+>> I did this for Grǫfhamr as well -- the whole place is made of Portable Holes, but the Landguard walked in with their Handy Haversacks no problem.  Albrecht hadn't even *heard* of Bags of Holding or their bad interaction with PHs; he was appalled that anyone would invent such a thing.
 
->>> **u/Kuratius** [+1] *
+>>> **u/Kuratius** [+1]  (a day later)
 >>> 
 >>> Oh and btw, knowing Jake these are probably part of the standard repertoire by now:
 >>> http://3.bp.blogspot.com/-HvjnwDRBnjo/T6VwU_hzp2I/AAAAAAAAA4Y/ZQKyjt5E7aI/s640/522630_10150900661888625_829178624_12894060_157796545_n.jpg
->>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (a day later)
 >>>> 
 >>>> Heh.  I love those things.  I've actually wanted to include them in 2YE for quite a while now, but there was never a point at which it made sense -- before they had the production lines BoHs and PHs would have been too scarce and afterwards there was little to nothing they would have needed to use them on that they didn't have more efficient ways to deal with.
->>>> 
 
->>>>> **u/Putnam3145** [+1] *
+>>>>> **u/Putnam3145** [+1]  (2 days later)
 >>>>> 
 >>>>> Eh, it seems like one of those weird real-life/RAW mixes like commoner-railguns-as-weapons.
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (2 days later)
 >>>>>> 
 >>>>>> How so? Which part of it seems unworkable to you?
->>>>>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (18 hours later)
 > 
 > Great chapter, really excited that things are starting to move forwards.
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (19 hours later)
 >> 
 >> Thank you!
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/LupoCani *
 * URL: https://astralcodexten.substack.com/p/youre-probably-wondering-why-ive
-* Score: 119
+* Score: 121
 
 * Created: 2021-01-21T23:25:52
 
@@ -12,329 +12,302 @@
 
 ### Comments:
 
-> **u/Dragonheart91** [+12] *
+> **u/Dragonheart91** [+12]  (an hour later)
 > 
 > What is this author most famous for? To help the more casual fans like me remember the relevance.
-> Edit: Old list, but for out of the loop readers like me, these are some of Scott’s literary works.
-> https://www.reddit.com/r/slatestarcodex/comments/3u39yg/a_collection_of_scott_alexanders_literary_works/?ampcid=1*8wbmzd*cid*RU1SVmpOSklXRnd0bUQwNmNyeUg0RUd5MjdEZnBuV1c4X2VNblZnSzZNVGZQczNNY3VfOUs1QmRCbXVLdUlENg..
 > 
+> Edit: Old list, but for out of the loop readers like me, these are some of Scott’s literary works.
+> 
+> https://www.reddit.com/r/slatestarcodex/comments/3u39yg/a_collection_of_scott_alexanders_literary_works/?ampcid=1*8wbmzd*cid*RU1SVmpOSklXRnd0bUQwNmNyeUg0RUd5MjdEZnBuV1c4X2VNblZnSzZNVGZQczNNY3VfOUs1QmRCbXVLdUlENg..
 
->> **u/DawnPaladin** [+42]  *Young Wizards**
+>> **u/DawnPaladin** [+41]  *Young Wizards* (an hour later)
 >> 
 >> Arguably the most on-topic for this subreddit is his novel _[Unsong](http://unsongbook.com/)_.
->> 
 
->>> **u/Dragonheart91** [+19] *
+>>> **u/Dragonheart91** [+18]  (an hour later)
 >>> 
 >>> Definitely. Scott is apparently one of the most well known members of the rational community after Elizer Yudkowsky. I’ve read a lot of Scott’s stuff and didn’t realize it was all by the same author.
->>> 
 
->>>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >>>> 
 >>>> >The Big Yud himself
->>>> I hear Yudkowsky [doesn't really appreciate the nickname](https://twitter.com/esyudkowsky/status/1219327143949111296?lang=en) so we should probably avoid using it, no matter how catchy it might sound.
 >>>> 
+>>>> I hear Yudkowsky [doesn't really appreciate the nickname](https://twitter.com/esyudkowsky/status/1219327143949111296?lang=en) so we should probably avoid using it, no matter how catchy it might sound.
 
->>>>> **u/Dragonheart91** [+6] *
+>>>>> **u/Dragonheart91** [+5]  (a day later)
 >>>>> 
 >>>>> Thanks. I had no idea. I just thought it was a cute joke. I thought “big yud” like “the big man in charge himself.” (And it is easy and convenient to type.) I had no idea it was related to fat shaming. Frankly I have no idea what Yudkowsky looks like lol.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (3 days later)
 >>>>>> 
 >>>>>> isn't Yud a letter in the hebrew alphabet?
->>>>>> 
 
->>>>>> **u/blablatrooper** [+1] *
+>>>>>> **u/blablatrooper** [+1]  (21 days later)
 >>>>>> 
 >>>>>> In charge?
->>>>>> 
 
->>>>>>> **u/Dragonheart91** [+1] *
+>>>>>>> **u/Dragonheart91** [+1]  (21 days later)
 >>>>>>> 
 >>>>>>> He "started" or at least helped popularize the rationalist movement. Many people on this sub follow his philosophies. Almost everyone here respects him to some degree. If we had a "leader", it would probably be Elizer.
->>>>>>> 
 
->>>>>>>> **u/blablatrooper** [+1] *
+>>>>>>>> **u/blablatrooper** [+1]  (21 days later)
 >>>>>>>> 
 >>>>>>>> Fair, “follow his philosophies” seems a bit strong though. There’s no philosophy or ideas he actually came up with himself,  he just repackaged pretty basic stuff from elsewhere in a way that made it palatable to a certain new audience really
->>>>>>>> 
 
->>>>>>>>> **u/Dragonheart91** [+1] *
+>>>>>>>>> **u/Dragonheart91** [+1]  (21 days later)
 >>>>>>>>> 
 >>>>>>>>> Ya sure.
->>>>>>>>> 
 
->> **u/PastafarianGames** [+20] *
+>> **u/PastafarianGames** [+20]  (4 hours later)
 >> 
 >> One of the things not mentioned there is an absolutely fantastic piece called Meditations on Moloch. It's a critique of... bad equilibria, I guess, a kind of "local maximum, but general near-minimum" degenerate race-to-the-bottom state. (It is both a work of fiction and a political polemic.)
->> 
 
->>> **u/DangerouslyUnstable** [+13] *
+>>> **u/DangerouslyUnstable** [+12]  (18 hours later)
 >>> 
 >>> Meditations on Moloch, I can tolerate anything except the outgroup, and toxoplasma of rage have, together, pretty much crystalized how I view of the world and why it is the way it is. They are probably the three most personally influential pieces of writing I have ever read.
->>> 
 
->>>> **u/Silver_Swift** [+7] *
+>>>> **u/Silver_Swift** [+6]  (22 hours later)
 >>>> 
 >>>> [In favor of niceness, community and civilisation] (https://slatestarcodex.com/2014/02/23/in-favor-of-niceness-community-and-civilization/) is also up there, for me at least.
->>>> 
 
->>>> **u/Zaurebrauden** [+1] *
+>>>> **u/Zaurebrauden** [+1]  (20 hours later)
 >>>> 
 >>>> Agreed, these three have really shaped my worldview, but I still struggle to explain the ideas behind them to others.
->>>> 
 
->>>>> **u/khafra** [+3] *
+>>>>> **u/khafra** [+3]  (22 hours later)
 >>>>> 
 >>>>> >	 I still struggle to explain the ideas behind them to others
->>>>> It’s easy! As long as the person you’re explaining to has read the Sequences and has some familiarity with the rest of the rationalsphere canon. If they haven’t, I dunno what to tell you, man.
->>>>> I was able to explain Moloch to my wife, but she made out with Aubrey de Grey at a party, a few years before we met; and she’s smarter than I am; the exception that proves the “haven’t read the sequences” rule.
 >>>>> 
+>>>>> It’s easy! As long as the person you’re explaining to has read the Sequences and has some familiarity with the rest of the rationalsphere canon. If they haven’t, I dunno what to tell you, man.
+>>>>> 
+>>>>> I was able to explain Moloch to my wife, but she made out with Aubrey de Grey at a party, a few years before we met; and she’s smarter than I am; the exception that proves the “haven’t read the sequences” rule.
 
->>>>>> **u/PastafarianGames** [+10] *
+>>>>>> **u/PastafarianGames** [+10]  (23 hours later)
 >>>>>> 
 >>>>>> Meditations on Moloch's explanation isn't all that complicated. If you strip away the poetry, here it is:
+>>>>>> 
 >>>>>> 1. If a market optimizes for Thing X, it will anti-optimize for all other things.
 >>>>>> 2. Some of those things have value to humans. It would be bad if all of those things were optimized away.
 >>>>>> 3. There definitionally isn't a market-based solution for this.
 >>>>>> 4. Conveniently, governments exist and can legislate & regulate to shape outcomes.
->>>>>> 
 
->>>>>>> **u/khafra** [+3] *
+>>>>>>> **u/khafra** [+3]  (23 hours later)
 >>>>>>> 
 >>>>>>> I agree; it really isn’t that complicated, for anyone who can do arithmetic and take the results seriously—which is maybe 1% of the population.   
 >>>>>>> I have actually seen Moloch explained even more briefly than that, [here](https://twitter.com/speedprior/status/1298639590807478275?s=21)
->>>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> Moloch is just another word for "massively multiplayer prisoner's dilemmas", and the same strategies of ethics and caring that we evolved to use to get rid of normal prisoner's dilemmas can work to solve them if we understand the general space of values and concerns of all the stakeholders involved. It's just that most of Scott's readers don't notice that because they have much better hard skills than soft skills.
->>>>>>> 
 
->>>>>>>> **u/PastafarianGames** [+1] *
+>>>>>>>> **u/PastafarianGames** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> I'm really not sure what, in a practical sense, any of what you said means. Perhaps it's nice to understand the values and concerns of the resource extraction industries, but as an example, society benefits from not having ash ponds leaking heavy metals into the groundwater. To stop that, you need to either enact and enforce government regulation or start shooting executives, and I don't really see how "create the regulatory state, enforce its dictates" fits into the prisoner's dilemma model.
->>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>> 
 >>>>>>>>> Resource extraction industries are a means, not an end. Give their investors an effective alternative means of fulfilling their underlying goals and they'll be much more likely to stop relying on means which destroy the ecosystem.
->>>>>>>>> 
 
->>>>>>>>>> **u/PastafarianGames** [+1] *
+>>>>>>>>>> **u/PastafarianGames** [+1]  (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Given that the underlying goal is the accumulation of power and status, I would prefer almost any solution to giving the investors in question a more effective or more efficient means of achieving their goal.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> The accumulation of power and status usually is also just a means. Not all of them want power purely for power's sake. Power that doesn't have a purpose to use it for is useless. 
->>>>>>>>>>> Perhaps they want it to make them feel safer? What other ways are there to make them safer or to assure them of their safety?
->>>>>>>>>>> Is it to advance the mental and material wealth and freedom of society via new technological innovations? Are there any other ways they can increase society's mental and material wealth and freedom without needing to rely on techniques with such large negative long-term side effects?
->>>>>>>>>>> Is it because they're sociopaths and only care about themselves? In which case how can their non-sociopathic acquaintances, relatives and professional circles be incentivized to hold them accountable?
->>>>>>>>>>> Are they indirectly destroying people, property and infrastructure in order to roll back liberal-type social progress so that conservatives are no longer so behind, so that we can return to an environment that they are better adapted to? Then how can you enable conservatives to build infrastructure which allows them to make independent social progress of their own, so that they no longer feel like they need to tear down liberal-type social progress to keep up?
 >>>>>>>>>>> 
+>>>>>>>>>>> Perhaps they want it to make them feel safer? What other ways are there to make them safer or to assure them of their safety?
+>>>>>>>>>>> 
+>>>>>>>>>>> Is it to advance the mental and material wealth and freedom of society via new technological innovations? Are there any other ways they can increase society's mental and material wealth and freedom without needing to rely on techniques with such large negative long-term side effects?
+>>>>>>>>>>> 
+>>>>>>>>>>> Is it because they're sociopaths and only care about themselves? In which case how can their non-sociopathic acquaintances, relatives and professional circles be incentivized to hold them accountable?
+>>>>>>>>>>> 
+>>>>>>>>>>> Are they indirectly destroying people, property and infrastructure in order to roll back liberal-type social progress so that conservatives are no longer so behind, so that we can return to an environment that they are better adapted to? Then how can you enable conservatives to build infrastructure which allows them to make independent social progress of their own, so that they no longer feel like they need to tear down liberal-type social progress to keep up?
 
->>>>>>>>>>>> **u/PastafarianGames** [+1] *
+>>>>>>>>>>>> **u/PastafarianGames** [+1]  (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> These are interesting questions for the design of long-term utopia, I suppose, but while I'd love to build the iconic Fully Automated Queer Luxury Space Communism in due course, it's necessary to prevent towns from having their groundwater poisoned by heavy metals in the meantime.
->>>>>>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>> 
 >>>>>>>>> Creating that regulatory system and enforcing it's dictates requires getting other people to *want* to let that happen or punishing those who don't until they change their minds. 
->>>>>>>>> Legal penalties do have their place for punishing bad choices, but that is only sustainable if we can offer alternative good choices we can reward them for. Punishment cannot be our only response when others commit a wrong, or it just becomes an endless feedback loop of punishments.
->>>>>>>>> You end up needing a regulatory system already to ensure that you can enforce the building of the new regulatory system that replaces it. That's what happens when you rely too much on disincentivizing the behaviors you don't want and not incentivizing the behaviors you do want.
 >>>>>>>>> 
+>>>>>>>>> Legal penalties do have their place for punishing bad choices, but that is only sustainable if we can offer alternative good choices we can reward them for. Punishment cannot be our only response when others commit a wrong, or it just becomes an endless feedback loop of punishments.
+>>>>>>>>> 
+>>>>>>>>> You end up needing a regulatory system already to ensure that you can enforce the building of the new regulatory system that replaces it. That's what happens when you rely too much on disincentivizing the behaviors you don't want and not incentivizing the behaviors you do want.
 
->>>>>>>>>> **u/PastafarianGames** [+1] *
+>>>>>>>>>> **u/PastafarianGames** [+1]  (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Conveniently, we built a regulatory state because people *do* in fact want OSHA and the EPA and the FAA to exist, and businesses which don't violate those regulations get the reward of extracting value out of their workers and/or their comparative advantage.
->>>>>>>>>> Ideally, the reward for not violating the law, when you're a CEO, is that you get to keep being a CEO. It's a pretty sweet gig, even before the exorbitant pay. This only works when the government and the regulatory agencies enforce the law, because otherwise the *punishment* for not violating the law (or for not extracting maximum value out of the commons to the detriment of society) is that you are replaced with someone who will. Which is what Mammon is about.
 >>>>>>>>>> 
+>>>>>>>>>> Ideally, the reward for not violating the law, when you're a CEO, is that you get to keep being a CEO. It's a pretty sweet gig, even before the exorbitant pay. This only works when the government and the regulatory agencies enforce the law, because otherwise the *punishment* for not violating the law (or for not extracting maximum value out of the commons to the detriment of society) is that you are replaced with someone who will. Which is what Mammon is about.
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Yes. But that regulatory state was probably created when there was less socioeconomic inequality than there is now. Back then the public had enough power to get the government to form those agencies to hold corporations accountable even if only a little bit. And the public also had sufficient education to understand why those agencies were necessary to make.
->>>>>>>>>>> That isn't the situation we're living in today. Regulatory states which benefit the public don't just happen on their own automatically. There are mechanisms behind their formation and maintenance.
 >>>>>>>>>>> 
+>>>>>>>>>>> That isn't the situation we're living in today. Regulatory states which benefit the public don't just happen on their own automatically. There are mechanisms behind their formation and maintenance.
 
->>>>>>>>>>>> **u/PastafarianGames** [+1] *
+>>>>>>>>>>>> **u/PastafarianGames** [+1]  (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> I admit that I am not a historian, but to the best of my knowledge the socioeconomic inequality of today is absolutely dwarfed by what it was at the later parts of the 19th century, and the creation thereof was driven by the political elite rather than grassroots. (The extension of the regulatory state to include labor law was grassroot-driven, on the other hand, and wildly more violent than modern historiography does credit to.)
->>>>>>>>>>>> There certainly wasn't a *more educated* public then than there is today; perhaps a less mal-educated one, but even then, I'm dubious.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> There certainly wasn't a *more educated* public then than there is today; perhaps a less mal-educated one, but even then, I'm dubious.
 
->>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> It depends on how were defining poverty and inequality. It would probably be more reliable to use a standardized scorecard of key indicators of socioeconomic prosperity like the American scorecard Andrew Yang recommended during his presidential campaign. Then each indicator could to a large extent be evaluated independently of the others.
->>>>>>>>>>>>> Things have gotten a lot better in some ways and lagged behind in others.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> Things have gotten a lot better in some ways and lagged behind in others.
 
->>>>>>>>>>>>>> **u/PastafarianGames** [+1] *
+>>>>>>>>>>>>>> **u/PastafarianGames** [+1]  (4 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> Yeah, those exist. Turns out the late 19th century really, really sucked. I'm happy to entertain specifics if you have any that disagree.
->>>>>>>>>>>>>> 
 
->> **u/Excessive_Etcetra** [+14] *
+>> **u/Excessive_Etcetra** [+13]  (2 hours later)
 >> 
 >> Alexander is most well known for *Slate Star Codex*, a blog in the 'rationalist' blogosphere, basically nonfiction rational writing. He originated as a commenter in the *LessWrong* community which was formed around the writings of Eliezer Yudkowsky who wrote the prototypical rational story: *Harry Potter and the Methods of Rationality*.
->> 
 
->>> **u/WhispersOfSeaSpiders** [+2] *
+>>> **u/WhispersOfSeaSpiders** [+2]  (3 hours later)
 >>> 
 >>> Huh, never heard that- have there been any other LessWrong commenters who developed an independent blog or claim to fame, out of curiosity?
->>> 
 
->>>> **u/churidys** [+13] *
+>>>> **u/churidys** [+13]  (3 hours later)
 >>>> 
 >>>> Gwern is the other big one, but there are loads of smaller names.
->>>> 
 
->>>>> **u/Empiricist_or_not** [+12]  *Aspiring polite Hegemonizing swarm**
+>>>>> **u/Empiricist_or_not** [+13]  *Aspiring polite Hegemonizing swarm* (4 hours later)
 >>>>> 
 >>>>> Notable in this context is that Gwern went private recently because he's followed by Musk of SpaceX/Tesla/etc. fame (he said he's tied of getting asked to plug stuff). They are  lso know for "this waifu does not exist" and more recently on hacker news "this anime does not exist" (Machine learning generation of anime faces and body/characters respectively).
->>>>> Their website is one of the most exhaustive and systematic investigations of whatever strikes his fancy. 
->>>>> *caveat: I don't know or correspond with Gwern. I don't read their stuff half as deeply as I should, but if you plan to skim their site for five minutes make sure you have at least two hours free.
 >>>>> 
+>>>>> Their website is one of the most exhaustive and systematic investigations of whatever strikes his fancy. 
+>>>>> 
+>>>>> *caveat: I don't know or correspond with Gwern. I don't read their stuff half as deeply as I should, but if you plan to skim their site for five minutes make sure you have at least two hours free.
 
->>>>>> **u/None** [+0] *
+>>>>>> **u/None** [+0]  (2 days later)
 >>>>>> 
 >>>>>> well gwern also faced some backlash from folks because of his whole "richard lynn was 100% correct" thing
->>>>>> 
 
->>>> **u/DuplexFields** [+3]  *New Lunar Republic**
+>>>> **u/DuplexFields** [+3]  *New Lunar Republic* (15 hours later)
 >>>> 
 >>>> Zvi has a weekly in-depth post on LW about the fight against COVID. In addition to numbers of cases and deaths and predictions thereof, there’s always some science-based hindsight that would have saved 90% of those who’ve died.
->>>> 
 
->>>> **u/kryptomicron** [+2] *
+>>>> **u/kryptomicron** [+2]  (a day later)
 >>>> 
 >>>> Yes, lots – tho maybe not with much of a 'claim to fame' among people already not pretty plugged in to the wider network of related sites.
->>>> 
 
->> **u/EdenicFaithful** [+7] *
+>> **u/EdenicFaithful** [+9]  (5 hours later)
 >> 
 >> Scott has a list of his most popular articles on [the about page](https://astralcodexten.substack.com/about).
->> I recommend checking [Slate Star Codex Abridged](https://www.slatestarcodexabridged.com/) for a great collection of his essays. My favourite was [Beware Isolated Demands For Rigor](https://www.slatestarcodexabridged.com/Beware-Isolated-Demands-For-Rigor).
->> As another commenter mentioned, he wrote [Unsong](http://unsongbook.com/).
->> I'll add that some other (shorter) stories he has written include […And I Show You How Deep The Rabbit Hole Goes](https://www.slatestarcodexabridged.com/And-I-Show-You-How-Deep-The-Rabbit-Hole-Goes), [It Was You Who Made My Blue Eyes Blue](https://www.slatestarcodexabridged.com/It-Was-You-Who-Made-My-Blue-Eyes-Blue), and [Universal Love, Said The Cactus Person](https://www.slatestarcodexabridged.com/Universal-Love-Said-The-Cactus-Person).
 >> 
+>> I recommend checking [Slate Star Codex Abridged](https://www.slatestarcodexabridged.com/) for a great collection of his essays. My favourite was [Beware Isolated Demands For Rigor](https://www.slatestarcodexabridged.com/Beware-Isolated-Demands-For-Rigor).
+>> 
+>> As another commenter mentioned, he wrote [Unsong](http://unsongbook.com/).
+>> 
+>> I'll add that some other (shorter) stories he has written include […And I Show You How Deep The Rabbit Hole Goes](https://www.slatestarcodexabridged.com/And-I-Show-You-How-Deep-The-Rabbit-Hole-Goes), [It Was You Who Made My Blue Eyes Blue](https://www.slatestarcodexabridged.com/It-Was-You-Who-Made-My-Blue-Eyes-Blue), and [Universal Love, Said The Cactus Person](https://www.slatestarcodexabridged.com/Universal-Love-Said-The-Cactus-Person).
 
-> **u/LupoCani** [+24] *
+> **u/LupoCani** [+25]  (8 minutes later)
 > 
 > For a chronicle of the events of the past half a year so from his perspective, and other interesting facts, you may read his second inagural post, [Still Alive](https://astralcodexten.substack.com/p/still-alive).
-> ---
-> In submitting this as a post, instead of an Open Thread comment, I'm knowingly skirting the scope of the subreddit - nominally, works and discussion of rational fiction - which this is strictly speaking outside of. Still, it's new (and good) content pertaining to the continued activity of a notable ratfic author, so I hope the post is allowed to stand.
 > 
+> ---
+> 
+> In submitting this as a post, instead of an Open Thread comment, I'm knowingly skirting the scope of the subreddit - nominally, works and discussion of rational fiction - which this is strictly speaking outside of. Still, it's new (and good) content pertaining to the continued activity of a notable ratfic author, so I hope the post is allowed to stand.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (an hour later)
 >> 
 >> [removed]
->> 
 
->>> **u/LupoCani** [+4] *
+>>> **u/LupoCani** [+4]  (9 hours later)
 >>> 
 >>> Pretty much. Still, I was going to ask forgiveness instead of permission, I thought I should do it properly.
->>> 
 
-> **u/Jules-LT** [+2] *
+> **u/Jules-LT** [+2]  (21 hours later)
 > 
 > Now, what does the August date on that first post *mean*? Is that when he wrote it? Was it available to some people before this public launch?
-> 
 
-> **u/None** [+3] *
+> **u/None** [+5]  (2 days later)
 > 
 > daily reminder that scott went out of his way back in the day to defend noted white supremacist and former president donald j trump as being totally not racist
-> 
 
->> **u/Newfur** [+5]  *Crazy like a fox. Literally.**
+>> **u/Newfur** [+4]  *Crazy like a fox. Literally.* (4 days later)
 >> 
 >> No idea why you're getting downvoted here - that's literally why I stopped reading SSC back in late 2016.
->> 
 
->> **u/therealeconomoy** [+5] *
+>> **u/therealeconomoy** [+4]  (4 days later)
 >> 
 >> I typed out a long description of why I think this position you're taking is ridiculous based on easily searchable evidence, however, you're clearly a troll. That is why you have my downvote.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+1]  (4 days later)
 >>> 
 >>> Please show me your easily searched evidence that he didn't do the thing that he did
->>> 
 
->>>> **u/therealeconomoy** [+4] *
+>>>> **u/therealeconomoy** [+2]  (4 days later)
 >>>> 
 >>>> [https://slatestarcodex.com/2016/09/28/ssc-endorses-clinton-johnson-or-stein/](https://slatestarcodex.com/2016/09/28/ssc-endorses-clinton-johnson-or-stein/)
->>>> [https://slatestarcodex.com/2016/11/07/tuesday-shouldnt-change-the-narrative/](https://slatestarcodex.com/2016/11/07/tuesday-shouldnt-change-the-narrative/)
->>>> I found your stupid post, y'troll. OOH, yes, the fact that he said that Trump wasn't more racist then the American government, in general, has me  definitely updating my beliefs that he's a horrible racist.... [https://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/](https://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/)
 >>>> 
+>>>> [https://slatestarcodex.com/2016/11/07/tuesday-shouldnt-change-the-narrative/](https://slatestarcodex.com/2016/11/07/tuesday-shouldnt-change-the-narrative/)
+>>>> 
+>>>> I found your stupid post, y'troll. OOH, yes, the fact that he said that Trump wasn't more racist then the American government, in general, has me  definitely updating my beliefs that he's a horrible racist.... [https://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/](https://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/)
 
->>>>> **u/None** [+0] *
+>>>>> **u/None** [+2]  (4 days later)
 >>>>> 
 >>>>> Did I say anything about whether or not he publicly supported other politicians?  No.  What I said is that he defended noted racist and white supremacist Donald Trump as being not that racist - which is not the case.  This is clearly the case - he was specifically racist against Mexicans during his campaigning, he has historically been incredibly racist against black folks (y'know, the whole central park five thing, where he spent thousands of dollars taking out an ad to sway public opinion to reinstate the death penalty for them), I mean you can literally go on.  Donald Trump was a specifically very racist President - and his alliance with white supremacist groups culminated in the whole storming the Capitol thing and led to a massive increase of white supremacist acts.
->>>>> 
 
->>>>>> **u/gordianus24** [+5] *
+>>>>>> **u/gordianus24** [+4]  (8 days later)
 >>>>>> 
 >>>>>> This is a misleading exaggeration of Scott's argument ([here](https://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/) and [here](https://slatestarcodex.com/2017/01/29/dogs-and-wolves-in-defense-of-some-past-posts/)), which was that during the campaign and the early part of his presidency, Trump's statements and actions did not fit a relatively specific definition of racism (basically, that he didn't hate non-white people or consider them inferior **just** based on their race). Scott did not deny that Trump's actions were partly based on racial bias:
+>>>>>> 
 >>>>>> > [Trump]’s at least anti-undocumented immigrant, which is close to being anti-immigrant. And while one can argue that “anti-immigrant” is different than “racist”, I would agree that probably nobody cares that much about British or German immigrants, suggesting that some racial element is involved.
 >>>>>> > ...
 >>>>>> > You can argue that he and his supporters are biased for caring more about terrorism ... . But do you see how there’s a difference between “cognitive bias that makes you unreasonably afraid” versus “white supremacy”?
 >>>>>> > ...
 >>>>>> > Let me say this for the millionth time. I’m not saying Trump doesn’t have some racist attitudes and policies.
+>>>>>> 
 >>>>>> Scott's main point was that people criticizing him as 'white supremacist' or 'openly racist' were exaggerating to the point of blatant falsehood, and that racial bias and outright white supremacy should not be conflated:
+>>>>>> 
 >>>>>> > *Aren’t there a lot of voters who, although not willing to vote for David Duke or even willing to express negative feelings about black people on a poll, still have implicit racist feelings, the kind where they’re nervous when they see a black guy on a deserted street at night?*
 >>>>>> > Probably. And this is why I am talking about crying wolf. If you wanted to worry about the voter with subconscious racist attitudes carefully hidden even from themselves, you shouldn’t have used the words “openly white supremacist KKK supporter” like a verbal tic.
->>>>>> Obviously the way Trump has acted since those posts were published has changed, meaning that parts of Scott's argument no longer apply (e.g. on January 6 Trump clearly did ally with actual white supremacists) and his prioritization of criticizing hyperbolic criticism of Trump seems more questionable, but with the information available at the beginning of Trump's administration, Scott's argument generally made sense, and considering how critical Scott has been of Trump there and elsewhere, it does not make sense to interpret Scott as trying to "defend" Trump in any sense broader than saying he wasn't a literal white supremacist.
 >>>>>> 
+>>>>>> Obviously the way Trump has acted since those posts were published has changed, meaning that parts of Scott's argument no longer apply (e.g. on January 6 Trump clearly did ally with actual white supremacists) and his prioritization of criticizing hyperbolic criticism of Trump seems more questionable, but with the information available at the beginning of Trump's administration, Scott's argument generally made sense, and considering how critical Scott has been of Trump there and elsewhere, it does not make sense to interpret Scott as trying to "defend" Trump in any sense broader than saying he wasn't a literal white supremacist.
 
->>>>>> **u/zorianteron** [+2] *
+>>>>>> **u/zorianteron** [+2]  (5 days later)
 >>>>>> 
 >>>>>> I read a lot of articles that show all of the similarities between Trump and Adolf Hitler. It has me so scared. I have many friends who are Hispanic, Muslim, and LGBTP and I am literally shaking knowing that on January 21st there is a good chance that they will all be rounded up in concentration camps and sent to the gas chambers. He was endorsed by the KKK and alt-right extremism is on the rise. I am most concerned about how this affects the younger generations. During thanksgiving dinner I had to yell at my young niece who mentioned that Pepe was her favorite "meme." I firmly explained to her that Pepe was a symbol of racism and made her delete all of the Pepes from her phone. Her parents actually defended her when she started crying, which was a horrifying revelation about how you can never tell who is a deeply closeted racist/Trump supporter until it is too late. Our youth are being radicalized. I have contacted CPS for my niece, and am thinking of moving to Sweden to be somewhere more tolerant. At least when the nuclear bombs fall, I will die standing up for what is right.
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> No I just don't like people advertising for shitheads and who knows sometimes people actually learn something and peace out instead of spiralling from SSC to the Motte to the CW subreddit
->>>>>>> 
 
->>>>>>>> **u/zorianteron** [+3] *
+>>>>>>>> **u/zorianteron** [+3]  (5 days later)
 >>>>>>>> 
 >>>>>>>> I don't think your method will succeed in the long run, given it misrepresents what Scott said- and the sorts of people attracted to SSC's MO won't like that.
->>>>>>>> 
 
->>>>>>>>> **u/None** [+2] *
+>>>>>>>>> **u/None** [+2]  (5 days later)
 >>>>>>>>> 
 >>>>>>>>> It doesn't misrepresent what he said, it just doesn't give him the most charitable interpretation possible - a thing I'm not convinced he really deserves, given the degree to which he had no problem letting people use his platform as a way to propagate beliefs regarding HBD and other pseudoscientific alt-right beliefs.  I mean, to be honest, at this point Scott (and Gwern and really most of these people who ran in these circles) have had their audience move more and more towards being composed mostly of alt-right folks so it's probably pointless but there are still some people out there who either didn't read SSC or otherwise aren't aware of Scott's history and relationship with the alt-right which has of course always been exactly at arm's reach and no nearer or further.
->>>>>>>>> 
 
->>>>>>>>>> **u/therealeconomoy** [+5] *
+>>>>>>>>>> **u/therealeconomoy** [+5]  (5 days later)
 >>>>>>>>>> 
 >>>>>>>>>> It’s funny, because I’m definitely not alt right, and I follow both Gwern and SSC. Poly, healthcare, gay, government spending all cool with me. I’ve read your source material and despite my best attempts at Steel manning your criticisms all I have got is that we should deplatform gwern and ssc because they haven’t met your standards of discussion moderation.
->>>>>>>>>> Maybe you have unrealistic expectations of people with platforms. Or maybe you don’t like your thought leaders to challenge you. I’d do more introspection instead of tilting at windmills, there are no giants here.
 >>>>>>>>>> 
+>>>>>>>>>> Maybe you have unrealistic expectations of people with platforms. Or maybe you don’t like your thought leaders to challenge you. I’d do more introspection instead of tilting at windmills, there are no giants here.
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (5 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> There are plenty of so called thought leaders that I disagree with but don't call shitheads that should be ignored.  Gwern, the guy who unironically links and agrees with research done by Richard fucking Lynn is not one of them.
->>>>>>>>>>> 
 
-> **u/WildFowl82** [-7] *
+> **u/WildFowl82** [-7]  (11 hours later)
 > 
 > Meh. We can no longer trust the guy not to turn the site off again tomorrow.
-> 
 
->> **u/Putnam3145** [+20] *
+>> **u/Putnam3145** [+21]  (18 hours later)
 >> 
 >> It is wise to consider that decisions people make might have internal reasoning behind them, especially when the entire internet was very loudly yelling about the reasoning at the time.
->> 
 
->> **u/thecommexokid** [+6] *
+>> **u/thecommexokid** [+6]  (23 hours later)
 >> 
 >> I consider that unlikely, but even if he did, how does the possibility that this content may not be available tomorrow diminish my ability to enjoy it today?
->> 
 
 ---
 

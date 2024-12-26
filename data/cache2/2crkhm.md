@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 19
+* Score: 17
 
 * Created: 2014-08-06T06:39:29
 
@@ -12,107 +12,101 @@
 
 ### Comments:
 
-> **u/Escapement** [+6]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+6]  *Ankh-Morpork City Watch* (8 hours later)
 > 
 > I started reading this hoping, based on the title, that it would be about Harry Potter and financial instruments designed to work over interstellar distances and times, like the schemes written about by Charles Stross in his *Neptune's Brood* - a distributed interstellar cryptocurrency based around transmitting and receiving to peers located lightyears away, with transaction times measured in decades or longer. I was sort of disappointed when this was not the case.
-> That said, this explanation become super technical super fast, and seems to rely on people already fully understanding the underlying concepts and terminology a lot of the time, which makes it less than useful for beginners. If you were going to introduce new people to the concept, this isn't how I'd do it - If you don't already know and understand the underlying concepts, putting them into stories with Harry Potter characters' names is not sufficient - a glib glossed-over jargon-laden example doesn't seem like good enough explanation to actually teach, you actually have to explain things in depth.  The obfuscation around specific incidents and names and the "Things that can't be named" seem to also hinder it's useability as an introductory/teaching work - I am broadly familiar with the ongoing saga of e.g. Magic The Gathering Online eXchange and the like, but if I wasn't this sort of thing would probably leave me more confused for no reason.
-> It's interesting and amusing for people already familiar with bitcoin and the various spinoffs to some degree, but I would not use this particular piece as an actual way to teach others.
 > 
+> That said, this explanation become super technical super fast, and seems to rely on people already fully understanding the underlying concepts and terminology a lot of the time, which makes it less than useful for beginners. If you were going to introduce new people to the concept, this isn't how I'd do it - If you don't already know and understand the underlying concepts, putting them into stories with Harry Potter characters' names is not sufficient - a glib glossed-over jargon-laden example doesn't seem like good enough explanation to actually teach, you actually have to explain things in depth.  The obfuscation around specific incidents and names and the "Things that can't be named" seem to also hinder it's useability as an introductory/teaching work - I am broadly familiar with the ongoing saga of e.g. Magic The Gathering Online eXchange and the like, but if I wasn't this sort of thing would probably leave me more confused for no reason.
+> 
+> It's interesting and amusing for people already familiar with bitcoin and the various spinoffs to some degree, but I would not use this particular piece as an actual way to teach others.
 
-> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity* (5 hours later)
 > 
 > What's the [EDU] tag? I can't find it in the sidebar. Educational?
-> 
 
->> **u/lehyde** [+1]  *Nudist Beach**
+>> **u/lehyde** [+1]  *Nudist Beach* (5 hours later)
 >> 
 >> I'd guess so too.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 hours later)
 >>> 
 >>> Can confirm. Just needs to be added. That and [MK] for Munchkin. Paging /u/eaturbrainz, wee oo wee oo wee oo
->>> ETA: or /u/PeridexisErrant
 >>> 
+>>> ETA: or /u/PeridexisErrant
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (7 hours later)
 >>>> 
 >>>> Done.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (7 hours later)
 >>>>> 
 >>>>> Mr Brainz, aka the Bomb dot Com! Thanks.
->>>>> 
 
->>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (15 hours later)
 >>>> 
 >>>> If you're trying to page *me*, try that with a 'u' instead on an 'r'.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (18 hours later)
 >>>>> 
 >>>>> Oh yeah … thanks
->>>>> 
 
-> **u/JackStargazer** [+1]  *Primordial Apologist**
+> **u/JackStargazer** [+1]  *Primordial Apologist* (5 hours later)
 > 
 > Well, I wasn't expecting that, but now I'm linking this to the next person who asks me what a Bitcoin is.
-> 
 
->> **u/Anderkent** [+1] *
+>> **u/Anderkent** [+1]  (6 hours later)
 >> 
 >> It doesn't really say much about bitcoin though?
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (7 hours later)
 >>> 
 >>> Eh, cryptocurrency is cryptocurrency is cryptocurrency, know what I'm saying
->>> 
 
->>>> **u/iJ5dac9oN1** [+1] *
+>>>> **u/iJ5dac9oN1** [+1]  (4 days later)
 >>>> 
 >>>> Well, no. BitCoin and Stellar are very different models -- as this story addresses. Stellar's like a distributed credit system, kind-of like a distributed version of how a lot of traditional banking works -- and can represent things like real dollars from a real institution (such as Stripe). BitCoin's more like virtual gold - a resource available in limited quantity, produced through an expensive process.
->>>> 
 
->>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>> **u/JackStargazer** [+1]  *Primordial Apologist* (6 hours later)
 >>> 
 >>> When people ask "what is Bitcoin?" the question they really want the answer to is most often "what is a cryptocurrency?".
->>> 
 
-> **u/DaystarEld** [+1]  *Pokémon Professor**
+> **u/DaystarEld** [+1]  *Pokémon Professor* (7 hours later)
 > 
 > Very well written. Now I have a go-to share for my more literary-minded friends who wonder what cryptocurrencies are :)
-> 
 
-> **u/Anderkent** [+1] *
+> **u/Anderkent** [+1]  (8 hours later)
 > 
 > >Cho Chang: Alright, as a favor: Stellarmus, I offer to buy one Weasley!GBP in exchange for ten stellars.
-> This doesn't seem to be how the system works though, I think the assumption is that 1 USD is worth 1 USD no matter where it comes from, as long as you trust the source. So Cho can decide to trust Weasley, and send an order to buy 1 GBP for 10 stellars, but as long as she trusts any other kinds of GBP they can also fulfill that order.
-> See discussion [here](https://news.ycombinator.com/item?id=8117303)
-> >andrewstellar 5 days ago
-> >We recommend you only trust one gateway per currency for that exact reason. You can only paid in currency issued from accounts you trust. Lets say your friend holds Euro credits from a gateway in London, and you live in San Francisco and therefore only hold USD credits from a gateway there. All she has to do to send you USD is specify "Send him X USD". She doesn't have to care about your issuer. It's taken care of by the protocol.
 > 
+> This doesn't seem to be how the system works though, I think the assumption is that 1 USD is worth 1 USD no matter where it comes from, as long as you trust the source. So Cho can decide to trust Weasley, and send an order to buy 1 GBP for 10 stellars, but as long as she trusts any other kinds of GBP they can also fulfill that order.
+> 
+> See discussion [here](https://news.ycombinator.com/item?id=8117303)
+> 
+> >andrewstellar 5 days ago
+> 
+> >We recommend you only trust one gateway per currency for that exact reason. You can only paid in currency issued from accounts you trust. Lets say your friend holds Euro credits from a gateway in London, and you live in San Francisco and therefore only hold USD credits from a gateway there. All she has to do to send you USD is specify "Send him X USD". She doesn't have to care about your issuer. It's taken care of by the protocol.
 
->> **u/patio11** [+1] *
+>> **u/patio11** [+1]  (8 hours later)
 >> 
 >> I wrote the article, and I'm technically correct, which is the best form of correct.  Notice, on the API documentation for Order Create, the issuer parameter.
->> https://www.stellar.org/api/#api-offercreate
->> Or the API documentation for "amounts" in general: 
->> https://www.stellar.org/api/#api-amount
->> This is distinct from the code path for *sending* money as opposed to making markets in money -- on that one, you don't specify whose GBP you want to have sent, it will pick one acceptable to the sendee (if possible -- when not possible, your software should ideally recover for you, like Harry's wand does).
 >> 
+>> https://www.stellar.org/api/#api-offercreate
+>> 
+>> Or the API documentation for "amounts" in general: 
+>> 
+>> https://www.stellar.org/api/#api-amount
+>> 
+>> This is distinct from the code path for *sending* money as opposed to making markets in money -- on that one, you don't specify whose GBP you want to have sent, it will pick one acceptable to the sendee (if possible -- when not possible, your software should ideally recover for you, like Harry's wand does).
 
->>> **u/Anderkent** [+1] *
+>>> **u/Anderkent** [+1]  (9 hours later)
 >>> 
 >>> Oh, I see. Nice. I crawled the wiki before posting this but it's really rather miserable. it didn't occur to me to look through the api docs :P
->>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > There's competition in *every* niche, it seems. Something to remember.
-> That Defense Professor is evil enough to give Lord Voldemort a run for his money. And indeed if enough people listen to him they might just see some runs on their money....
 > 
+> That Defense Professor is evil enough to give Lord Voldemort a run for his money. And indeed if enough people listen to him they might just see some runs on their money....
 
 ---
 

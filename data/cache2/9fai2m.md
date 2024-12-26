@@ -2,7 +2,7 @@
 
 * Author: u/SimoneNonvelodico  *Dai-Gurren Brigade**
 * URL: https://www.reddit.com/r/rational/comments/9fai2m/a_modest_epistemology_proposal/
-* Score: 20
+* Score: 22
 
 * Created: 2018-09-12T18:48:14
 
@@ -16,10 +16,9 @@ It's the work of basically half an hour at most, so obviously it's not exactly a
 
 ### Comments:
 
-> **u/Roey2009** [+2] *
+> **u/Roey2009** [+2]  (an hour later)
 > 
 > Good work on the paper. Looks interesting.
-> 
 
 ---
 

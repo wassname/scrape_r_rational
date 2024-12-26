@@ -2,7 +2,7 @@
 
 * Author: u/Salaris  *Dominion Sorcerer**
 * URL: https://www.reddit.com/r/rational/comments/ap1qj5/rthf_six_sacred_swords_a_prequel_to_sufficiently/
-* Score: 45
+* Score: 47
 
 * Created: 2019-02-10T07:06:32
 
@@ -20,200 +20,203 @@ I hope people enjoy the book if anyone decides to check it out!
 
 ### Comments:
 
-> **u/elevul** [+7]  *Cyoria Observer**
+> **u/elevul** [+8]  *Cyoria Observer* (4 hours later)
 > 
 > Thank you! Added it to my Kindle Unlimited library.
-> So frustrating that the Kindle application recommends all the possible garbage but it doesn't bother to inform me about new releases from authors I'm following... What's the point of following an author at that point...
 > 
+> So frustrating that the Kindle application recommends all the possible garbage but it doesn't bother to inform me about new releases from authors I'm following... What's the point of following an author at that point...
 
->> **u/Salaris** [+3]  *Dominion Sorcerer**
+>> **u/Salaris** [+3]  *Dominion Sorcerer* (21 hours later)
 >> 
 >> That's weird, I'm surprised it didn't tell you. Maybe I need to figure out how to post something to Amazon? I'm not sure.
->> Anyway, thanks for the interest, and I hope you like the book!
 >> 
+>> Anyway, thanks for the interest, and I hope you like the book!
 
->>> **u/elevul** [+4]  *Cyoria Observer**
+>>> **u/elevul** [+5]  *Cyoria Observer* (a day later)
 >>> 
 >>> Don't worry, it's not just you, there is never any notification from any of the authors I'm following and the new releases from them are not shown in the app homepage, just a mountain of "recommended for you" garbage.
->>> Thank you! For now it's cool, though the use of "they" for Reika was really weird. Usually most authors use "it" in those situations.
 >>> 
+>>> Thank you! For now it's cool, though the use of "they" for Reika was really weird. Usually most authors use "it" in those situations.
 
->>>> **u/Salaris** [+6]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+7]  *Dominion Sorcerer* (a day later)
 >>>> 
 >>>> > Don't worry, it's not just you, there is never any notification from any of the authors I'm following and the new releases from them are not shown in the app homepage, just a mountain of "recommended for you" garbage.
->>>> Gotcha. Huh. Sounds like they just aren't doing much with that feature, then.
->>>> > Thank you! For now it's cool, though the use of "they" for Reika was really weird. Mais bon, English doesn't have gender neutral pronouns so you have to work with what you have.
->>>> Interestingly, singular they has been around for a long time. It's been used more or less constantly for centuries for situations where a gender is unknown, ("I couldn't read their writing").
->>>> Meriam Webster has some info on that [here](https://www.merriam-webster.com/words-at-play/singular-nonbinary-they), if you're interested.
->>>> With Reika, "they" is used until Keras figures out which pronouns are appropriate to use, although I do have some strictly agender and non-binary characters that use "they" pronouns consistently in other books.
 >>>> 
+>>>> Gotcha. Huh. Sounds like they just aren't doing much with that feature, then.
+>>>> 
+>>>> > Thank you! For now it's cool, though the use of "they" for Reika was really weird. Mais bon, English doesn't have gender neutral pronouns so you have to work with what you have.
+>>>> 
+>>>> Interestingly, singular they has been around for a long time. It's been used more or less constantly for centuries for situations where a gender is unknown, ("I couldn't read their writing").
+>>>> 
+>>>> Meriam Webster has some info on that [here](https://www.merriam-webster.com/words-at-play/singular-nonbinary-they), if you're interested.
+>>>> 
+>>>> With Reika, "they" is used until Keras figures out which pronouns are appropriate to use, although I do have some strictly agender and non-binary characters that use "they" pronouns consistently in other books.
 
->> **u/IICVX** [+2] *
+>> **u/IICVX** [+2]  (a day later)
 >> 
 >> Amazon is absolutely awful about letting you know that authors you follow have released new books. 
->> It's happened multiple times now that I've received a notification that a book has been released days after I'd already read it.
 >> 
+>> It's happened multiple times now that I've received a notification that a book has been released days after I'd already read it.
 
-> **u/signspace13** [+5] *
+> **u/signspace13** [+5]  (37 minutes later)
 > 
 > Awesome! I have been waiting for it in anticipation, how much before the arcane acension series is it set?
-> 
 
->> **u/Salaris** [+5]  *Dominion Sorcerer**
+>> **u/Salaris** [+4]  *Dominion Sorcerer* (an hour later)
 >> 
 >> Sorry, the answer to that is a spoiler. You'll find out in the coming books. =)
->> 
 
-> **u/PresentCompanyExcl** [+5]  *The Culture**
+> **u/PresentCompanyExcl** [+5]  *The Culture* (48 minutes later)
 > 
 > I thought the series was good and pretty rationalist, so I'm looking forward to reading the prequel. Thanks for sharing.
-> 
 
->> **u/Salaris** [+3]  *Dominion Sorcerer**
+>> **u/Salaris** [+3]  *Dominion Sorcerer* (an hour later)
 >> 
 >> You're welcome, I hope you enjoy the prequel!
->> 
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (7 hours later)
 > 
 > You said that it's a prequel to *Arcane Ascension*, so I assumed that it's just the one story set before the main series. But on Amazon the title is followed by (*Weapon and Wielders* ***Book 1***). How many books are you planning to have in this series and in *Arcane Ascension*?
-> Also, I'm curious about why you have decided to have your books on Kindle Unlimited?
-> EDIT: Actually, how many books are planned for *The War of Broken Mirrors* as well? And are you planning on making any more series set in this world?
 > 
+> Also, I'm curious about why you have decided to have your books on Kindle Unlimited?
+> 
+> EDIT: Actually, how many books are planned for *The War of Broken Mirrors* as well? And are you planning on making any more series set in this world?
 
->> **u/Salaris** [+3]  *Dominion Sorcerer**
+>> **u/Salaris** [+3]  *Dominion Sorcerer* (12 hours later)
 >> 
 >> > You said that it's a prequel to Arcane Ascension, so I assumed that it's just the one story set before the main series. But on Amazon the title is followed by (Weapon and Wielders Book 1). How many books are you planning to have in this series and in Arcane Ascension?
->> This will be a series, but I don't have a set number yet. At least one more, possibly several.
->> Arcane Ascension is planned for six to seven books, but that may change.
->> > Also, I'm curious about why you have decided to have your books on Kindle Unlimited?
->> It's both good for readers and extremely good for me, in my experience. Kindle Unlimited reads account for a huge number of my total "sales".
->> > EDIT: Actually, how many books are planned for The War of Broken Mirrors as well?
->> That one is only three books in the series proper, but it will potentially spin off into other stuff.
->> > And are you planning on making any more series set in this world?
->> Yes.
 >> 
+>> This will be a series, but I don't have a set number yet. At least one more, possibly several.
+>> 
+>> Arcane Ascension is planned for six to seven books, but that may change.
+>> 
+>> > Also, I'm curious about why you have decided to have your books on Kindle Unlimited?
+>> 
+>> It's both good for readers and extremely good for me, in my experience. Kindle Unlimited reads account for a huge number of my total "sales".
+>> 
+>> > EDIT: Actually, how many books are planned for The War of Broken Mirrors as well?
+>> 
+>> That one is only three books in the series proper, but it will potentially spin off into other stuff.
+>> 
+>> > And are you planning on making any more series set in this world?
+>> 
+>> Yes.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (9 hours later)
 > 
 > I just went onto the Kindle store to download sufficiently Advanced Magic and was pleasantly surprised to find that it's free with kindle unlimited! Brilliant, I will start it tonight!
-> 
 
->> **u/Salaris** [+3]  *Dominion Sorcerer**
+>> **u/Salaris** [+3]  *Dominion Sorcerer* (12 hours later)
 >> 
 >> Awesome, hope you like it!
->> 
 
-> **u/SpeculativeFiction** [+3] *
+> **u/SpeculativeFiction** [+3]  (18 hours later)
 > 
 > Do you have an estimate on when the audiobook version will be released? I know the second arcane ascension book took several months to release on audible, due to the packed schedule of the first books narrator.
-> 
 
->> **u/Salaris** [+3]  *Dominion Sorcerer**
+>> **u/Salaris** [+3]  *Dominion Sorcerer* (21 hours later)
 >> 
 >> I'm trying to get this recorded sooner, but it still really comes down to when my publisher can arrange for the narrator to record it. If believe they may already have a recording time booked for this one, but I don't know the exact details. When I get a better idea of the date, I'll try to post something on /r/climberscourt and/or my blog.
->> 
 
-> **u/Green0Photon** [+3]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+3]  *Student in Cyoria, Minmay, and Ranvar* (19 hours later)
 > 
 > I really need to get around to reading book 2 of this series. I read book 1, and bought book 2 immediately once it came out, but I just haven't read it yet. ¯\\\_(ツ)\_/¯
-> I probably should reread book 1 first...
 > 
+> I probably should reread book 1 first...
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (21 hours later)
 >> 
 >> Book 2 does have a recap of book 1, which *might* be enough to skip a reread, depending on your preferences.
->> Either way, I hope you enjoy whichever book you decide to check out next!
 >> 
+>> Either way, I hope you enjoy whichever book you decide to check out next!
 
->>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar* (21 hours later)
 >>> 
 >>> Awesome that you have that; authors don't typically have that as much as they should, imo. It's been quite awhile, though, since I read book 1. If we were chatting when book 2 first came out, then fine, but right now? A reread is probably a better idea.
->>> In any case, I'm sure I'll enjoy the reread!
 >>> 
+>>> In any case, I'm sure I'll enjoy the reread!
 
->>>> **u/Salaris** [+2]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+2]  *Dominion Sorcerer* (22 hours later)
 >>>> 
 >>>> Yeah, I find having the recap very useful - maybe we'll see more authors doing them in the future. Thanks again for the support!
->>>> 
 
-> **u/RossDCurrie** [+2] *
+> **u/RossDCurrie** [+2]  (20 hours later)
 > 
 > What amazing timing... I just finished reading books 1 and 2 a few days ago, and was looking for something new.
-> I've really enjoyed the world you've built. Characters are great, and the quippy dialogue works really well. I really enjoy the magic system, even if it's a bit convoluted, and would love to see more about what's happening to the other characters outside of the dungeons (>!eg, Jin basically didn't exist between the end of book 1 and the test in book 2, which I get is part of his attunement, but seems to happen to other plot elements too.. like what happened to his enchantments teacher teaching him how to use his magic sword?!<). Overall, pretty hard to put these books down once you start reading.
-> Now to change some work mana into payment mana and channel it from my left hip into the clicking attunement on my right hand
 > 
+> I've really enjoyed the world you've built. Characters are great, and the quippy dialogue works really well. I really enjoy the magic system, even if it's a bit convoluted, and would love to see more about what's happening to the other characters outside of the dungeons (>!eg, Jin basically didn't exist between the end of book 1 and the test in book 2, which I get is part of his attunement, but seems to happen to other plot elements too.. like what happened to his enchantments teacher teaching him how to use his magic sword?!<). Overall, pretty hard to put these books down once you start reading.
+> 
+> Now to change some work mana into payment mana and channel it from my left hip into the clicking attunement on my right hand
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (21 hours later)
 >> 
 >> Great timing, then! I hope you end up enjoying this one.
->> I've absolutely considered writing about what other characters are up to when Corin isn't watching them at some point. There's a lot going on off-screen, some of which is implied, like >!Corin hearing the tail end of a conversation between Sera and Keras, or Derek going out at night a lot without telling anyone where, or what happened in Sera's judgment!<, etc. Corin will eventually find out about *some* of that stuff, but some of it may end up being better explored through other mediums.
 >> 
+>> I've absolutely considered writing about what other characters are up to when Corin isn't watching them at some point. There's a lot going on off-screen, some of which is implied, like >!Corin hearing the tail end of a conversation between Sera and Keras, or Derek going out at night a lot without telling anyone where, or what happened in Sera's judgment!<, etc. Corin will eventually find out about *some* of that stuff, but some of it may end up being better explored through other mediums.
 
-> **u/RetardedWabbit** [+2] *
+> **u/RetardedWabbit** [+2]  (22 hours later)
 > 
 > Totally new reader giving it a go: thanks for the chronology and Series information at the start! That makes it a lot more inviting to new readers, and tells them where to go once they've finished the book. 
-> It's certainly a lot better than having to hunt through chronological order vs reading order lists online
 > 
+> It's certainly a lot better than having to hunt through chronological order vs reading order lists online
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (22 hours later)
 >> 
 >> I'm glad that you found that intro helpful, and I hope you end up enjoying the book!
->> 
 
-> **u/Hust91** [+2] *
+> **u/Hust91** [+2]  (23 hours later)
 > 
 > First time I hear of the series, and as a big fan of LitRPGs (and Sufficiently Analyzed Magic as a trope) it sounds fantastic!
-> Sadly have little time for direct reading these days, so I wonder will the first series become an Audio Book (audible or otherwise) at any time time soon?
 > 
+> Sadly have little time for direct reading these days, so I wonder will the first series become an Audio Book (audible or otherwise) at any time time soon?
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (a day later)
 >> 
 >> The first series is already up on Audible! Thanks for the interest.
->> 
 
->>> **u/Hust91** [+2] *
+>>> **u/Hust91** [+2]  (a day later)
 >>> 
 >>> Yusss!
->>> Know where my next credit is going!
 >>> 
+>>> Know where my next credit is going!
 
->>>> **u/Salaris** [+3]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+3]  *Dominion Sorcerer* (a day later)
 >>>> 
 >>>> Thank you!
->>>> 
 
->>>>> **u/Hust91** [+2] *
+>>>>> **u/Hust91** [+2]  (a day later)
 >>>>> 
 >>>>> Thank *you*.
->>>>> 
 
-> **u/elevul** [+2]  *Cyoria Observer**
+> **u/elevul** [+2]  *Cyoria Observer* (2 days later)
 > 
 > Finished. Very nice and engaging and now I'm curious to see how everything continues, especially the arcane Ascension book 3!
-> It kind of felt too short, though, both because I finished it in barely a day and because it felt like not so much has happened. I'm way too used to million+ words webserials haha
-> Thank you, and let us know when the next book is released, since Amazon clearly won't!
 > 
+> It kind of felt too short, though, both because I finished it in barely a day and because it felt like not so much has happened. I'm way too used to million+ words webserials haha
+> 
+> Thank you, and let us know when the next book is released, since Amazon clearly won't!
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (2 days later)
 >> 
 >> > Finished. Very nice and engaging and now I'm curious to see how everything continues, especially the arcane Ascension book 3!
->> Thanks for reading it! I'm already working on Arcane Ascension 3 a bit, but I have some other stuff I need to finish first, like my third War of Broken Mirrors book.
->> > It kind of felt too short, though, both because I finished it in barely a day and because it felt like not so much has happened. I'm way too used to million+ words webserials haha
->> Yeah, this one was more like a prologue/side story. I'm glad you still enjoyed it. The next one may be longer.
->> > Thank you, and let us know when the next book is released, since Amazon clearly won't!
->> I'll plan to keep doing that in the future, then. =)
 >> 
+>> Thanks for reading it! I'm already working on Arcane Ascension 3 a bit, but I have some other stuff I need to finish first, like my third War of Broken Mirrors book.
+>> 
+>> > It kind of felt too short, though, both because I finished it in barely a day and because it felt like not so much has happened. I'm way too used to million+ words webserials haha
+>> 
+>> Yeah, this one was more like a prologue/side story. I'm glad you still enjoyed it. The next one may be longer.
+>> 
+>> > Thank you, and let us know when the next book is released, since Amazon clearly won't!
+>> 
+>> I'll plan to keep doing that in the future, then. =)
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 days later)
 > 
 > [deleted]
-> 
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (3 days later)
 >> 
 >> You're welcome, I hope you enjoy it!
->> 
 
 ---
 

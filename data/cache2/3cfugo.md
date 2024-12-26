@@ -56,165 +56,167 @@ Does one approach seem particularly advantageous, compared to the other? Is ther
 
 ### Comments:
 
-> **u/Escapement** [+8]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+9]  *Ankh-Morpork City Watch* (2 hours later)
 > 
 > A few points against what they pulled in Time Braid applying to Orochimaru:
-> 1. Getting killed matters a lot more when you are not coming back. Small risks, taken often enough, are really bad - they just have to get lucky once, while you have to get lucky a thousand times.
-> 2. People already know Orochimaru and don't trust him, making his success rate of diplomacy likely much worse. If a couple genin missing nin who's worst act is deserting Konoha show up they probably elicit a different reaction from the Snake Sannin who experimented on humans and did a lot of other nasty shit. 
-> 3. Trading for techniques may empower people in a way that turns out to be bad in unobvious ways. This doesn't matter if you're gonna reset a time loop and keep their knowledge while removing everything they've gained from you. You could end up making really bad trades this way - if you If you trade someone the Impure World Resurrection technique in a time loop, it doesn't matter what they do with it because if it's bad enough you go back and redo. Outside of looping, if you trade that technique to someone and they happen to have the corpse of the Sage of Six Paths in their possession and you didn't know about it, ya dun goofed and you just made someone into a new world power - you just accidentally the whole setting. If there's some unexpected synergy, some sort of expert at using synergistic techniques, or whatever, you can EASILY create S-rank competition for yourself.
 > 
+> 1. Getting killed matters a lot more when you are not coming back. Small risks, taken often enough, are really bad - they just have to get lucky once, while you have to get lucky a thousand times.
+> 
+> 2. People already know Orochimaru and don't trust him, making his success rate of diplomacy likely much worse. If a couple genin missing nin who's worst act is deserting Konoha show up they probably elicit a different reaction from the Snake Sannin who experimented on humans and did a lot of other nasty shit. 
+> 
+> 3. Trading for techniques may empower people in a way that turns out to be bad in unobvious ways. This doesn't matter if you're gonna reset a time loop and keep their knowledge while removing everything they've gained from you. You could end up making really bad trades this way - if you If you trade someone the Impure World Resurrection technique in a time loop, it doesn't matter what they do with it because if it's bad enough you go back and redo. Outside of looping, if you trade that technique to someone and they happen to have the corpse of the Sage of Six Paths in their possession and you didn't know about it, ya dun goofed and you just made someone into a new world power - you just accidentally the whole setting. If there's some unexpected synergy, some sort of expert at using synergistic techniques, or whatever, you can EASILY create S-rank competition for yourself.
 
->> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png* (3 hours later)
 >> 
 >> > 1\. Getting killed matters a lot more when you are not coming back.
->> He can use his Cursed Seals as Horcruxes, so he may not care as much.
->> > 2\. People already know Orochimaru and don't trust him.
->> I always thought that, before his defection, Orochimaru's global reputation wasn't significantly worse than that of the Sannin in general, even if he was feared in Konoha itself for general creepiness. Certainly, he might be suspected of being a long-term Konoha spy, out to steal everyone else's techniques before returning to Leaf--but would Hiruzen be willing to publicize the fact that he'd failed to stop his favorite student from experimenting on his own civilians? And would unaffiliated clans even take such information as anything but propaganda from the big Villages against the independent clans and "missing"-nin?
->> > 3\. If you trade someone the Impure World Resurrection technique in a time loop...
->> Well, [there do exist S-rank techniques less world-shattering than Edo Tensei](http://naruto.wikia.com/wiki/Special:BrowseData/Jutsu?Jutsu_rank=S)--even Kakashi's Raikiri and Danzou's Reverse Tetragram Seal are listed as S-rank, and I'm sure Orochimaru would know many more such relatively-innocuous S-rank techniques. In any event, if worse comes to worst, he's already immortal with Fushi Tensei when he defects--he can always just flee off an edge of the map and wait for a few decades (if he doesn't go crazy with Sharingan-lust).
 >> 
+>> He can use his Cursed Seals as Horcruxes, so he may not care as much.
+>> 
+>> > 2\. People already know Orochimaru and don't trust him.
+>> 
+>> I always thought that, before his defection, Orochimaru's global reputation wasn't significantly worse than that of the Sannin in general, even if he was feared in Konoha itself for general creepiness. Certainly, he might be suspected of being a long-term Konoha spy, out to steal everyone else's techniques before returning to Leaf--but would Hiruzen be willing to publicize the fact that he'd failed to stop his favorite student from experimenting on his own civilians? And would unaffiliated clans even take such information as anything but propaganda from the big Villages against the independent clans and "missing"-nin?
+>> 
+>> > 3\. If you trade someone the Impure World Resurrection technique in a time loop...
+>> 
+>> Well, [there do exist S-rank techniques less world-shattering than Edo Tensei](http://naruto.wikia.com/wiki/Special:BrowseData/Jutsu?Jutsu_rank=S)--even Kakashi's Raikiri and Danzou's Reverse Tetragram Seal are listed as S-rank, and I'm sure Orochimaru would know many more such relatively-innocuous S-rank techniques. In any event, if worse comes to worst, he's already immortal with Fushi Tensei when he defects--he can always just flee off an edge of the map and wait for a few decades (if he doesn't go crazy with Sharingan-lust).
 
->>> **u/avret** [+1]  *SDHS rationalist**
+>>> **u/avret** [+1]  *SDHS rationalist* (21 hours later)
 >>> 
 >>> I find it interesting that you list the reverse tetragram as innocuous, given that it's basically an automatic win in the right hands, since it breaks izanagi and Madara's phasing.
->>> 
 
->>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (23 hours later)
 >>>> 
 >>>> Innocuous in comparison to Edo Tensei, I mean--it's impossible to say that a technique capable of acting across a continent is on the same level as a technique that acts on a radius of just a few feet.
->>>> 
 
->>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>> **u/avret** [+1]  *SDHS rationalist* (a day later)
 >>>>> 
 >>>>> I know, I'm just curious why you picked an uzumaki sealing technique over rasenshuriken.
->>>>> 
 
->>>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (a day later)
 >>>>>> 
 >>>>>> The [Tetragram](http://naruto.wikia.com/wiki/Four_Symbols_Seal) and [Reverse Tetragram](http://naruto.wikia.com/wiki/Reverse_Four_Symbols_Sealing) are different seals. It's not definite, either, that Reverse Tetragram is Uzumaki-specific, especially since Reverse Tetragram was used by Danzou. In any event, Orochimaru was knowledgeable enough to manipulate Naruto's Tetragram in the Forest of Death, so I don't think it too outlandish that he knows the entire technique (and he *does* know it in an anime filler).
->>>>>> 
 
->>>>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>>>> **u/avret** [+1]  *SDHS rationalist* (a day later)
 >>>>>>> 
 >>>>>>> I had thought that tetragram-based seals were in general uzumaki, but that might just be fanon.
->>>>>>> Orochimaru didn't manipulate the tetragram, he slapped a five elements over it--you don't need to understand how a given faucet works to cover it in sealant.(Also, he does?  which filler?)
 >>>>>>> 
+>>>>>>> Orochimaru didn't manipulate the tetragram, he slapped a five elements over it--you don't need to understand how a given faucet works to cover it in sealant.(Also, he does?  which filler?)
 
->>>>>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (a day later)
 >>>>>>>> 
 >>>>>>>> I haven't seen it, but the wiki article says he used it in the infamous Mecha-Naruto arc.
->>>>>>>> 
 
->>>>>>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>>>>>> **u/avret** [+1]  *SDHS rationalist* (a day later)
 >>>>>>>>> 
 >>>>>>>>> ok
->>>>>>>>> 
 
-> **u/redrach** [+3] *
+> **u/redrach** [+3]  (6 hours later)
 > 
 > I think you need to remember a key difference between Orochimaru's research and Sakura's - he was looking specifically for ways to achieve immortality, while Sakura was content with just finding anything that made her stronger (and to whom immortality techniques weren't as big a deal, since she had the time loops anyway).
-> That meant that Sakura didn't have a time constraint and no matter what the village had to offer she'd be gaining something, so she could afford to wander around. 
-> Orochimaru's research on the other hand had to be uniquely focused, and largely relied on his own experiments opposed to stuff people already knew.
 > 
+> That meant that Sakura didn't have a time constraint and no matter what the village had to offer she'd be gaining something, so she could afford to wander around. 
+> 
+> Orochimaru's research on the other hand had to be uniquely focused, and largely relied on his own experiments opposed to stuff people already knew.
 
->> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (6 hours later)
 >> 
 >> Orochimaru had already gained immortality through Fushi Tensei when he defected--his objective *after* that was to learn all the techniques in the world, which is why he was after the Sharingan. By the time he left Konoha, he'd already become immortal.
->> 
 
->>> **u/redrach** [+2] *
+>>> **u/redrach** [+2]  (6 hours later)
 >>> 
 >>> Ah, shows how much I know. Thanks for the correction.
->>> 
 
->>> **u/Stop_Sign** [+2] *
+>>> **u/Stop_Sign** [+2]  (a day later)
 >>> 
 >>> I thought it was an incomplete immortality. He had to switch bodies every few years or he would die, and the time until the next switch was required got shorter with each switch. I forget if this is canon though
->>> 
 
->>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (a day later)
 >>>> 
 >>>> The body-switching is canon (the Fushi Tensei technique); the progressively-shorter lifespans for each body depend on the fanfiction writer.
->>>> 
 
->>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (3 days later)
 >>>> 
 >>>> Body switching like soul based possession, or that creepy-as-hell serial reincarnation out of his own mouth trick?
->>>> 
 
-> **u/None** [+5] *
+> **u/None** [+4]  (an hour later)
 > 
 > ... I should reread time braid. It’s been nearly a month.
-> I don’t know enough Naruto canon to know the answer to this though.
 > 
+> I don’t know enough Naruto canon to know the answer to this though.
 
-> **u/Solonarv** [+2]  *Chaos Legion**
+> **u/Solonarv** [+2]  *Chaos Legion* (a day later)
 > 
 > ...and there went my afternoon. Damn.
-> Well, it was definitely a good read.
 > 
+> Well, it was definitely a good read.
 
-> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (a day later)
 > 
 > Why should he have to choose? As owner of Sound village Orochimaru can have various strong-ish not-obviously affiliated shinobi wander round the world offering trades of knowledge to the various clans. He's Orochimaru so he'd likely be creepy as all hell about it, sneaking in to malcontent's bedrooms at night to make offers perhaps. Presumably in the time between his exile and canon start he's done a fair bit of this, It's what I'd do if I was a sociopath who sought knowledge more than I valued my subordinates in such a world.
-> The wonders of delegation.
 > 
+> The wonders of delegation.
 
-> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (3 days later)
 > 
 > Painfully stupid question. Can you tweak the storage seal to cover a large patch of ground instead? Boom. City of portable holes! Helps with concealment at least.
-> 
 
->> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (3 days later)
 >> 
 >> Probably, though I don't think storage seals on such a large scale have been shown in canon.
->> 
 
->>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (3 days later)
 >>> 
 >>> Maybe not, but looping!Sakura knows the seal grammar and syntax. It always bugged me that they never actually bothered to implement any of the world-changing things Sakura thought up in Idyll. Chapter 12 I think. Maybe he was saving that for the sequel, but AFAIK that never happened. An epilogue would have been nice.
->>> 
 
-> **u/paladinneph** [+2] *
+> **u/paladinneph** [+2]  (3 days later)
 > 
 > a village trading jutsu is absolutely unthinkable, especially S-ranked
-> a village leader should be well aware that this deal is being offered to everyone, which means he has no idea where any jutsu he gives out will end up. considering that shady arms dealer is shady, the odds are good that it will end up in the hands of someone crazy enough to use it in stupid ways.
-> in addition, knowing how a jutsu works often exposes flaws and limitations in it- exposing even lesser-ranked utility jutsu carries the risk that enemy agents will render it useless
-> considering that jutsu is basically information and can be traded endlessly, there's no guarantee that the won't end up with not just one enemy village knowing it, but *all* enemy villages knowing it- suppose we have 5 competing village, they all take the deal, village X gives one, takes two, the rest take X's in addition to another, and give one of theirs. X has potential advantage on two villages, while three have potential advantage on X.
-> note that each village takes the same risk, but the point is they have no control over it- there's no telling who'd be the odd man out, or even if there'd be an odd man out. it's a complete and total gamble with lives on the line.
 > 
+> a village leader should be well aware that this deal is being offered to everyone, which means he has no idea where any jutsu he gives out will end up. considering that shady arms dealer is shady, the odds are good that it will end up in the hands of someone crazy enough to use it in stupid ways.
+> 
+> in addition, knowing how a jutsu works often exposes flaws and limitations in it- exposing even lesser-ranked utility jutsu carries the risk that enemy agents will render it useless
+> 
+> considering that jutsu is basically information and can be traded endlessly, there's no guarantee that the won't end up with not just one enemy village knowing it, but *all* enemy villages knowing it- suppose we have 5 competing village, they all take the deal, village X gives one, takes two, the rest take X's in addition to another, and give one of theirs. X has potential advantage on two villages, while three have potential advantage on X.
+> 
+> note that each village takes the same risk, but the point is they have no control over it- there's no telling who'd be the odd man out, or even if there'd be an odd man out. it's a complete and total gamble with lives on the line.
 
-> **u/IomKg** [+1] *
+> **u/IomKg** [+1]  (5 hours later)
 > 
 > there are two more shortcomings for jutsu trading:
-> * While it will empower you it will empower others, and as power is relative doing so basically keeps you on the same spot.. for the protags that didn't matter much because they reset, but for oro it does
-> * orochimaru might not have been looking for generic jutsu so much as specific jutsu abilities, things which he just wasnt going to get from others(who is going to trade better imortality jutsus with you exactly?)
 > 
+> * While it will empower you it will empower others, and as power is relative doing so basically keeps you on the same spot.. for the protags that didn't matter much because they reset, but for oro it does
+> 
+> * orochimaru might not have been looking for generic jutsu so much as specific jutsu abilities, things which he just wasnt going to get from others(who is going to trade better imortality jutsus with you exactly?)
 
->> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (6 hours later)
 >> 
 >> > While it will empower you it will empower others
->> Let's say Orochimaru trades one technique with each of a dozen clans. Each clan gains one new technique--but Orochimaru gains twelve. Also, the clans won't trade the techniques with *each other*--so maybe Orochimaru can pull a fast one and trade the same technique to all twelve before they figure out he's tricked them. The point is that Orochimaru gains more power than any individual clan does.
->> > orochimaru might not have been looking for generic jutsu so much as specific jutsu abilities
->> Even so, maybe he's heard rumors of clans with particularly-useful teachable techniques--just as he recruited Kimimaro and Juugo because he heard rumors of their particularly-useful bloodline techniques.
 >> 
+>> Let's say Orochimaru trades one technique with each of a dozen clans. Each clan gains one new technique--but Orochimaru gains twelve. Also, the clans won't trade the techniques with *each other*--so maybe Orochimaru can pull a fast one and trade the same technique to all twelve before they figure out he's tricked them. The point is that Orochimaru gains more power than any individual clan does.
+>> 
+>> > orochimaru might not have been looking for generic jutsu so much as specific jutsu abilities
+>> 
+>> Even so, maybe he's heard rumors of clans with particularly-useful teachable techniques--just as he recruited Kimimaro and Juugo because he heard rumors of their particularly-useful bloodline techniques.
 
->>> **u/IomKg** [+1] *
+>>> **u/IomKg** [+1]  (20 hours later)
 >>> 
 >>> >Let's say Orochimaru trades one technique with each of a dozen clans. Each clan gains one new technique--but Orochimaru gains twelve. Also, the clans won't trade the techniques with each other--so maybe Orochimaru can pull a fast one and trade the same technique to all twelve before they figure out he's tricked them. The point is that Orochimaru gains more power than any individual clan does.
+>>> 
 >>> But that's not how it will work, the other clans are not retarded, the only reason they accepted the protag's offer was because it was disproportionate.. 
 >>> why do you think the clans will not trade with each other? i mean sure, they won't trade with their direct compatitors, but no reason to assume they arent trading jutsus all the time. you just don't see it because the jutsu market rarely gets disturbed by someone willing to give so much more power then they receive.. 
 >>> these are all market dynamics, if you go selling 2 jutsus for 1 it is like someone suddenly going on the stock exchange and selling huge amounts of stock very cheaply, in the end the market will normalize, and you absolutely cannot be sure you will on the winning side..
->>> >Even so, maybe he's heard rumors of clans with particularly-useful teachable techniques--just as he recruited Kimimaro and Juugo because he heard rumors of their particularly-useful bloodline techniques.
->>> well, but thats just the thing, when he could get a useful ability from others he did so, you just gave such examples.. the rest of his research doesn't seem so much related to jutsus of other clans, mostly to the abilities that madara, the first\second etc. developed, mostly fobidden ones..
 >>> 
+>>> >Even so, maybe he's heard rumors of clans with particularly-useful teachable techniques--just as he recruited Kimimaro and Juugo because he heard rumors of their particularly-useful bloodline techniques.
+>>> 
+>>> well, but thats just the thing, when he could get a useful ability from others he did so, you just gave such examples.. the rest of his research doesn't seem so much related to jutsus of other clans, mostly to the abilities that madara, the first\second etc. developed, mostly fobidden ones..
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (a day later)
 > 
 > As said elsewhere, Orochimaru specifically wanted immortality, on top of his desire to Know All Jutsu. Presumably he's already looked into most existing lore and found dead ends. Given that he's encountered no existing immortal humans, it's likely he'll need to invent it. Hence laboratories.
-> Furthermore, he has ambitions of empire-building. Starting many separate laboratories in addition to your own village seems like a good way to go.
-> Thus, his base plan seems reasonable. (Expecting Sasuke to roll over and die, though, that was a little silly.)
 > 
+> Furthermore, he has ambitions of empire-building. Starting many separate laboratories in addition to your own village seems like a good way to go.
+> 
+> Thus, his base plan seems reasonable. (Expecting Sasuke to roll over and die, though, that was a little silly.)
 
 ---
 

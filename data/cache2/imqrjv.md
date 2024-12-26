@@ -2,7 +2,7 @@
 
 * Author: u/EliezerYudkowsky  *Godric Gryffindor**
 * URL: https://www.reddit.com/r/rational/comments/imqrjv/ffrst_the_erogamer_a_darker_timeline_sfw/
-* Score: 84
+* Score: 82
 
 * Created: 2020-09-04T23:29:47
 
@@ -232,191 +232,172 @@ The commandant of Heinlein Base leaned back in his chair, an easy motion in the 
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+49]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+51]  *Godric Gryffindor* (3 minutes later)
 > 
 > I'm probably never continuing this, unless I decide to start a story series written in "the Dimension of 1950s Republicanism" without other reference to the Erogamer continuity.
-> For those who aren't familiar with the style, this is written as "the future as described in pre-1970s science fiction".  Including, for example, the fact that Akio speaks with a written accent; I would not otherwise write a story in which somebody had a written accent like that.  Or in which I bothered to look in on a military commander's thoughts about whether the medical officer was pretty, etcetera.  If either trope strikes a modern reader as jarring, it's meant to be so.
-> Not posting this to [the original Erogamer on Questionable Questing](https://forum.questionablequesting.com/threads/the-erogamer-original.5465) because they have a rule against multiple accounts (which is the kind of rule I usually obey without strong reason otherwise) (so I can't make a throwaway account) and I prefer not to reveal which account there is mine.  It might also violate their Rule 8: No Politics, but that's a moot point given the previous one.
 > 
+> For those who aren't familiar with the style, this is written as "the future as described in pre-1970s science fiction".  Including, for example, the fact that Akio speaks with a written accent; I would not otherwise write a story in which somebody had a written accent like that.  Or in which I bothered to look in on a military commander's thoughts about whether the medical officer was pretty, etcetera.  If either trope strikes a modern reader as jarring, it's meant to be so.
+> 
+> Not posting this to [the original Erogamer on Questionable Questing](https://forum.questionablequesting.com/threads/the-erogamer-original.5465) because they have a rule against multiple accounts (which is the kind of rule I usually obey without strong reason otherwise) (so I can't make a throwaway account) and I prefer not to reveal which account there is mine.  It might also violate their Rule 8: No Politics, but that's a moot point given the previous one.
 
->> **u/xamueljones** [+9]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+9]  *My arch-enemy is entropy* (a day later)
 >> 
 >> I am just ***🔥****burning****🔥*** with curiosity as to what you've posted to questionablequesting.
->> Fingers crossed that it'll get linked to r/rational some point in the future.
 >> 
+>> Fingers crossed that it'll get linked to r/rational some point in the future.
 
->>> **u/thecommexokid** [+8] *
+>>> **u/thecommexokid** [+8]  (4 days later)
 >>> 
 >>> Keep in mind the possibility that the answer is “nothing” and this is just another play in Eliezer’s “can neither confirm nor deny” playbook.
->>> 
 
->> **u/robotowilliam** [+6] *
+>> **u/robotowilliam** [+6]  (11 days later)
 >> 
 >> Not sure if it was intentional but your attempt at writing Akio's accent was pretty piss-poor. Japanese-accented English doesn't replace every l in the spelling with an r. Japanese language just doesn't have an l or an r phoneme in it, so English learners often can't remember which one it is when speaking (and it can go either way, so "rabbit"->"labbit" is as likely as "hello"->"herro").
->> Anyway, words like "would", without an audible l, are not affected.
 >> 
+>> Anyway, words like "would", without an audible l, are not affected.
 
-> **u/thequizzicaleyebrow** [+17] *
+> **u/thequizzicaleyebrow** [+17]  (3 hours later)
 > 
 > If anyone enjoyed this, they might also enjoy Larry Niven's "The Return of William Proxmire," which is a 10 page story that is also about alternate timelines, 1950's Republicanism, and Robert Heinlein. 
-> I couldn't find it hosted anywhere accessible on the internet, so I'm going to include a link to a google docs version that I'll take down in a bit.  
-> [Here it is](https://docs.google.com/document/d/1VBfi2dDWLeAoVjDWPKXMtyqSO62hvGByr_Mg-fz2J2k/edit?usp=sharing)
 > 
+> I couldn't find it hosted anywhere accessible on the internet, so I'm going to include a link to a google docs version that I'll take down in a bit.  
+> 
+> [Here it is](https://docs.google.com/document/d/1VBfi2dDWLeAoVjDWPKXMtyqSO62hvGByr_Mg-fz2J2k/edit?usp=sharing)
 
->> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life* (13 hours later)
 >> 
 >> Diane Duane's short story *Uptown Local* is in some ways pretty similar.
->> Though it's also simultaneously *Young Wizards* fluff (fanfic by the author? She even does self-insert fic on Tumblr), urban fantasy, science fiction, and a Heinlein tribute from a friend. Not sure if there's a free version online, but I'll recommend anything in the setting and this is a great entry point.
 >> 
+>> Though it's also simultaneously *Young Wizards* fluff (fanfic by the author? She even does self-insert fic on Tumblr), urban fantasy, science fiction, and a Heinlein tribute from a friend. Not sure if there's a free version online, but I'll recommend anything in the setting and this is a great entry point.
 
->>> **u/thequizzicaleyebrow** [+3] *
+>>> **u/thequizzicaleyebrow** [+3]  (18 hours later)
 >>> 
 >>> Thanks, I enjoyed that one quite a bit; I read some of the Young Wizards books while growing up, which I think nicely prepared me for some of the commons themes and ideas in rational fiction. It’s fun to see that Diane Duane has her own entry in the hyper specific genre of alternate universes, 1950’s conservatism, and Heinlein tributes; three  examples of that genre is already more than I really would have anticipated, wonder if there’s any more
->>> 
 
->>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (22 hours later)
 >>>> 
 >>>> I think the key is that, well, what else could a Heinlein tribute be? The author's introduction to *Uptown Local*:
->>>> > Most of my stories are presents for somebody or other. When Jane Yolen asked me to write something for her anthology  Dragons and Dreams, the recipient I had in mind was Robert Heinlein—who (to my complete astonishment and delight) was a fan of the Young Wizards books. It’s been impossible to forget the time he brought up  Deep Wizardry in the middle of one phone conversation. “I’m a Navy man,” he said. “We don’t like sharks. You made me like that shark.” A pause. “That was a dirty trick.” And his laughter…  
->>>> > I miss him.
 >>>> 
+>>>> > Most of my stories are presents for somebody or other. When Jane Yolen asked me to write something for her anthology  Dragons and Dreams, the recipient I had in mind was Robert Heinlein—who (to my complete astonishment and delight) was a fan of the Young Wizards books. It’s been impossible to forget the time he brought up  Deep Wizardry in the middle of one phone conversation. “I’m a Navy man,” he said. “We don’t like sharks. You made me like that shark.” A pause. “That was a dirty trick.” And his laughter…  
+>>>> 
+>>>> > I miss him.
 
-> **u/foveros** [+10] *
+> **u/foveros** [+10]  (an hour later)
 > 
 > Your prose remains very pleasant to read.
-
-> I enjoyed the ambiguousness of the title, with the readers probably having differing thoughts than the characters on which timeline is the darker one. It works especially well due to Cindy's canon pessimism coloring the explanations she gave them. Their reactions may have been slightly too strong though. Not sure if I would jump straight to mass scale biological accidents when hearing of Trump's presidency. Granted, as a European, I did feel some disbelief when I heard he was elected.
-
-> I am missing the twist at the ending. Marcus is Charles' grandfather, if I recall correctly, and Heinlein is ofc a sci fi writer who in this timeline apparently was a moon base creator instead. But what detail did Cindy change? And what does the last line mean?
-
-> Edit: ah, the last line refers to Akio's joking comment. Still don't understand what conclusion the commander reached.
 > 
+> I enjoyed the ambiguousness of the title, with the readers probably having differing thoughts than the characters on which timeline is the darker one. It works especially well due to Cindy's canon pessimism coloring the explanations she gave them. Their reactions may have been slightly too strong though. Not sure if I would jump straight to mass scale biological accidents when hearing of Trump's presidency. Granted, as a European, I did feel some disbelief when I heard he was elected.
+> 
+> I am missing the twist at the ending. Marcus is Charles' grandfather, if I recall correctly, and Heinlein is ofc a sci fi writer who in this timeline apparently was a moon base creator instead. But what detail did Cindy change? And what does the last line mean?
+> 
+> Edit: ah, the last line refers to Akio's joking comment. Still don't understand what conclusion the commander reached.
 
->> **u/EliezerYudkowsky** [+17]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+16]  *Godric Gryffindor* (an hour later)
 >> 
 >> Marcus Adan, characterized as an eternally 1950s-style Republican to the point of that being his religion, thinks Starry is joking about Trump being a Republican President, and thinks that her timeline actually had Trump as a Democratic President.
->> Note that even in our timeline, Trump was a Democratic donor before something got into our water supply.
 >> 
+>> Note that even in our timeline, Trump was a Democratic donor before something got into our water supply.
 
->>> **u/CronoDAS** [+8] *
+>>> **u/CronoDAS** [+6]  (5 hours later)
 >>> 
 >>> The spinning in Barry Goldwater's grave is now fast enough that if they hooked him up to a generator it would power the entire state of Arizona. :/
->>> 
 
->>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>> **u/DaystarEld** [+3]  *Pokémon Professor* (3 months later)
 >>> 
 >>> My guess is that the same thing happened to him as happened to my dad and countless other adults of his rough age group across the country: rightwing radio/news radicalized him from mostly centrist to insane conspiracy theorist.
->>> 
 
-> **u/Mowtom_** [+6] *
+> **u/Mowtom_** [+7]  (4 hours later)
 > 
 > I haven't read the Erogamer, who is Marcus Adan supposed to be?  Is this understandable without the original context?
-> 
 
->> **u/ArisKatsaris** [+12]  *Sidebar Contender**
+>> **u/ArisKatsaris** [+11]  *Sidebar Contender* (18 hours later)
 >> 
 >> Charles Adan is Starry's fiance/primary lover/most important love interest.
 >> Marcus Adan is Charles' late grandfather and a person that Charles holds in the utmost respect as a pinnacle of moral virtue and wisdom.
->> So basically Cindy realized she was in the custody of (and about to meet) her fiance's extremely highly esteemed and respected grandfather, that's why she asked for clothes and stopped thinking she was experiencing a sexy adventure where the guards would molest her.
 >> 
+>> So basically Cindy realized she was in the custody of (and about to meet) her fiance's extremely highly esteemed and respected grandfather, that's why she asked for clothes and stopped thinking she was experiencing a sexy adventure where the guards would molest her.
 
->>> **u/Nimelennar** [+7] *
+>>> **u/Nimelennar** [+7]  (a day later)
 >>> 
 >>> I wonder if this is part of the "Hands Across Forever" quest.
->>> 
 
->> **u/absolute-black** [+8] *
+>> **u/absolute-black** [+7]  (4 hours later)
 >> 
 >> To be brief, he is the grandfather of the protagonist's Dom, Charles Adan, who is also her primary moral compass reference point. Charles speaks highly of his grandfather often, crediting much of his worldview to Marcus.
->> 
 
->> **u/lordcirth** [+3] *
+>> **u/lordcirth** [+3]  (4 hours later)
 >> 
 >> No, he's a character in the original fiction.
->> 
 
-> **u/Reply_or_Not** [+6] *
+> **u/Reply_or_Not** [+6]  (an hour later)
 > 
 > thanks for writing this!  Did the original Erogamer quest end?  I just realized that I have not seen an update here in a long long time
-> 
 
->> **u/groon_the_walker** [+30] *
+>> **u/groon_the_walker** [+30]  (an hour later)
 >> 
 >> No.  But I may write a final update set and end it soon.  I have less free time during the Coronaviral times, rather than more, and the series has been getting harder to write over time.
->> 
 
->>> **u/masterax2000** [+12]  *Chaos Legion**
+>>> **u/masterax2000** [+13]  *Chaos Legion* (2 hours later)
 >>> 
 >>> Damn, that sucks to hear. It's one of my all time favorite stories. If it does end though, I'm wondering, do you have any plans to write anything else?
->>> 
 
->>> **u/Reply_or_Not** [+9] *
+>>> **u/Reply_or_Not** [+9]  (an hour later)
 >>> 
 >>> woah, the actual author, thanks for doing what you do!  while you are here, could i get a link to the official story? my google-fu is failing me
->>> 
 
->>>> **u/absolute-black** [+10] *
+>>>> **u/absolute-black** [+11]  (an hour later)
 >>>> 
 >>>> https://forum.questionablequesting.com/threads/the-erogamer-original.5465/
->>>> 
 
->>>> **u/FeepingCreature** [+7]  *GCV Literally The Entire Culture**
+>>>> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture* (9 hours later)
 >>>> 
 >>>> It's failing cause the site, being porn, is registration only and hence not indexed by Google.
->>>> 
 
->>> **u/the_one_butcher** [+6] *
+>>> **u/the_one_butcher** [+5]  (18 hours later)
 >>> 
 >>> This is the worst news I've heard this year.
->>> Take as much time as you need, but please reconsider not making the erogamer all it has potential to be.
 >>> 
+>>> Take as much time as you need, but please reconsider not making the erogamer all it has potential to be.
 
->>> **u/Gavinfoxx** [+4] *
+>>> **u/Gavinfoxx** [+4]  (15 hours later)
 >>> 
 >>> Why would you end it? Even if you just put it on hiatus, the story has *so much promise*, I want to see this story continue!
->>> 
 
->>> **u/yourrabbithadwritten** [+3] *
+>>> **u/yourrabbithadwritten** [+3]  (3 days later)
 >>> 
 >>> Yet another vote for hiatus rather than ending. As far as I concerned, it had barely *started* yet, but even so I would prefer it *not* to end. As in, if it came to that, I'd rather prefer it be abandoned entirely, rather than end, though of course I wouldn't like either.
->>> 
 
-> **u/DaystarEld** [+7]  *Pokémon Professor**
+> **u/DaystarEld** [+6]  *Pokémon Professor* (3 months later)
 > 
 > Wonderfully written, as usual. This makes me want a Three Worlds Collide where instead of aliens it's representatives from three alternate histories (or, from our perspective, our history +2 alternates) colliding.
-> 
 
-> **u/the_one_butcher** [+6] *
+> **u/the_one_butcher** [+6]  (18 hours later)
 > 
 > After Marc has outlined his speculation, the rejoinder could be:
-> "It... it might have been the climate. After the Chernobyl nuclear reactor exploded and irradiated Europe we became too afraid of nuclear power to save it. The republican party was backed by corporate interests. When it was determined that we needed to slow down our industry to save the climate, they blocked it. They began to deny the problem. They started lying. If once you tell a lie the truth forever becomes your enemy. Soon they needed to deny science to defend their lie. And all good honest men fled to the democrats."
 > 
+> "It... it might have been the climate. After the Chernobyl nuclear reactor exploded and irradiated Europe we became too afraid of nuclear power to save it. The republican party was backed by corporate interests. When it was determined that we needed to slow down our industry to save the climate, they blocked it. They began to deny the problem. They started lying. If once you tell a lie the truth forever becomes your enemy. Soon they needed to deny science to defend their lie. And all good honest men fled to the democrats."
 
->> **u/CronoDAS** [+6] *
+>> **u/CronoDAS** [+6]  (5 days later)
 >> 
 >> The other thing that got the Republican party the way it is was Nixon's "Southern Strategy" of appealing to the racist vote. My impression is that by the 1950s there were racists and anti-racists in both parties; racism and civil rights were an important political issue, but not a *partisan* political issue. When LBJ managed to get the Civil Rights Act through the Senate, he remarked that they had just lost the South for a generation; the Democrats ended up as the party of civil rights and the Republicans eventually turned the South red.
->> 
 
->>> **u/Auroch-** [+1]  *The Immortal Words**
+>>> **u/Auroch-** [+1]  *The Immortal Words* (1 year, 5 months later)
 >>> 
 >>> This is basically correct, yes. DW-NOMINATE for Congress has two axes, where the first has always been the primary party axis (as far back as we have enough information to calculate it, which includes two realignments). The second has shifted in what it reflects, but 'Southern', roughly meaning 'more racist, particularly against blacks', is the primary interpretation for most of the 20th century. I think it started to change in the 80s but don't have a source for that. (Modern interpreters read the second axis as 'culture war' in the 21st century to date.)
->>> (When did Reddit stop locking/archiving old posts six months in?)
 >>> 
+>>> (When did Reddit stop locking/archiving old posts six months in?)
 
->>>> **u/CronoDAS** [+1] *
+>>>> **u/CronoDAS** [+1]  (1 year, 5 months later)
 >>>> 
 >>>> I think it probably depends on the subreddit if old posts get locked or not?
->>>> 
 
-> **u/the_one_butcher** [+2] *
+> **u/the_one_butcher** [+2]  (15 days later)
 > 
 > WAITAMINUTE! Bad weather knocked out the radio? On the MOON???
-> 
 
->> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor* (16 days later)
 >> 
 >> Solar flares are often referred to as space weather, especially in old science fiction.  [https://en.wikipedia.org/wiki/Space\_weather](https://en.wikipedia.org/wiki/Space_weather)
->> 
 
 ---
 

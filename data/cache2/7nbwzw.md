@@ -2,7 +2,7 @@
 
 * Author: u/everything-narrative  *Coral, Abide with Rubicon!**
 * URL: https://www.reddit.com/r/rational/comments/7nbwzw/d_i_know_it_isnt_worldbuilding_wednesday_but_what/
-* Score: 17
+* Score: 18
 
 * Created: 2017-12-31T23:55:09
 
@@ -47,173 +47,189 @@ Thoughts?
 
 ### Comments:
 
-> **u/GaBeRockKing** [+11]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+10]  *Horizon Breach: http://archiveofourown.org/works/6785857* (7 minutes later)
 > 
 > There's a distinction to be made between "industry" and "technology."
-> The reason industrialization happened was because mechanization allowed massive economies of scale that lead to mass production of goods and resources. But depending on how your magic system is set up, it's entirely possible that the economies of scale available don't outweigh the chance to get more customized goods, leading instead to specialty manufacturers like the tailors and shoemakers of old.
 > 
+> The reason industrialization happened was because mechanization allowed massive economies of scale that lead to mass production of goods and resources. But depending on how your magic system is set up, it's entirely possible that the economies of scale available don't outweigh the chance to get more customized goods, leading instead to specialty manufacturers like the tailors and shoemakers of old.
 
->> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!* (24 minutes later)
 >> 
 >> That's an interesting observation. I'd say the mass production of thread and the mass production of woven cloth; as well as mass production of leather tanning chemicals factors in somewhere.
->> On the other hand, no reason not to tailor clothes with magic.
 >> 
+>> On the other hand, no reason not to tailor clothes with magic.
 
->> **u/KilotonDefenestrator** [+1] *
+>> **u/KilotonDefenestrator** [+1]  (18 hours later)
 >> 
 >> Very interesting! Could this distinction be leveraged to have a fantasy word with magic (and the possibility to craft magical items), yet avoid "magical industrialization"? What would be plausible conditions for this to happen?
->> 
 
->>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (19 hours later)
 >>> 
 >>> Magic being something that can't be effectively standardized, where each person has their own special snowflake power, or magic relies on emotional state, or somesuch.
->>> And you can avoid a regular industrialization by just mkaing mahic OP enough machinery can't compete.
 >>> 
+>>> And you can avoid a regular industrialization by just mkaing mahic OP enough machinery can't compete.
 
->>>> **u/KilotonDefenestrator** [+1] *
+>>>> **u/KilotonDefenestrator** [+1]  (22 hours later)
 >>>> 
 >>>> I realize I was a bit unclear. 
->>>> I'd like to have a world where magic exists, magic is not "special snowflake" superpowers and where creating magical items is possible. But I *don't* want that to result in everyone having horseless carriages, animated looms, etc.
->>>> So I was looking for factors that results in masters doing customized goods rather than stores full of the latest ManaPhone. Factors that are needed to go from "technology" to "industry" that can be averted. 
->>>> One such factor could be the amount of effort and resources needed to become a mage. If mage studies are the equivalent of PhD in time, intellectual challenge and financial burden, then maybe it is more plausible to have a "tailor and shoemaker" world.
->>>> So the question was really "how to design magic for a fictional world to plausibly avert magic reasonably leading to industrialization."
 >>>> 
+>>>> I'd like to have a world where magic exists, magic is not "special snowflake" superpowers and where creating magical items is possible. But I *don't* want that to result in everyone having horseless carriages, animated looms, etc.
+>>>> 
+>>>> So I was looking for factors that results in masters doing customized goods rather than stores full of the latest ManaPhone. Factors that are needed to go from "technology" to "industry" that can be averted. 
+>>>> 
+>>>> One such factor could be the amount of effort and resources needed to become a mage. If mage studies are the equivalent of PhD in time, intellectual challenge and financial burden, then maybe it is more plausible to have a "tailor and shoemaker" world.
+>>>> 
+>>>> So the question was really "how to design magic for a fictional world to plausibly avert magic reasonably leading to industrialization."
 
->>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (23 hours later)
 >>>>> 
 >>>>> >I'd like to have a world where magic exists, magic is not "special snowflake" superpowers and where creating magical items is possible. But I don't want that to result in everyone having horseless carriages, animated looms, etc.
->>>>> These aren't directly related. Creating magic items is stil entirely possible with special snowflake abilities.
->>>>> But the point is that there's no point industrializing when there's no stabdardization. Barrier to entry isn't what matters; it's still easily possible to industrialize under those conditions (remember; coal powered trains used to be incredibly expensive, brand new technology), it's the economies of scale.
 >>>>> 
+>>>>> These aren't directly related. Creating magic items is stil entirely possible with special snowflake abilities.
+>>>>> 
+>>>>> But the point is that there's no point industrializing when there's no stabdardization. Barrier to entry isn't what matters; it's still easily possible to industrialize under those conditions (remember; coal powered trains used to be incredibly expensive, brand new technology), it's the economies of scale.
 
->>>>>> **u/KilotonDefenestrator** [+1] *
+>>>>>> **u/KilotonDefenestrator** [+1]  (a day later)
 >>>>>> 
 >>>>>> And how to (plausibly) "prevent" economies of scale while still having useful magic and useful magic items?
->>>>>> 
 
->>>>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >>>>>>> 
 >>>>>>> By making magic and magic items unique(ish) and preventing interchangability. Much if the modern world runs on agree-upon standards, like the diameter of hex bolts or the voltage of phone chargers or the arrangment of pins in an HDMI cable. If magic users are incapable of casting the exact same (or suffuciently similar) spell twice in tge same way, then that prevents interchangability. Each part would need to be custom made, instead of mass produced, effectively preventing standardization.
->>>>>>> 
 
-> **u/CCC_037** [+6] *
+> **u/CCC_037** [+6]  (16 hours later)
 > 
 > - Your circles are software, with many of the benefits and failings thereof. Specifically, if you get a circle *wrong*, you can blow things up (just try making an error in the sign of the electric charge on your subatomic particles and see what happens when you synthesise a bunch of antimatter)
-> - Circles will be regulated, with government-approved circles being sold in the market (perhaps printed on carpets). These are guaranteed not to blow up on you, but also don't produce anything all that exciting (circles to produce food or clothing from dirt are common). Circles to produce new printed circles are *not* sold (but can be legal and are commonly used by merchants)
-> - Most people refuse to create their own circles, thinking themselves unable to learn how to do so. However, every now and then a young farm boy will develop an interest in Circles and study them, either blowing himself (and likely his farm) up or finding himself successful in his endeavours.
-> - Illegal circles are often obfuscated to make it hard to see what they are doing.
-> - Circles bought on the black market can make pretty near anything. However, a percentage of them will go things like teleport any users to a slave market, or teleport the user's children away and hold them for ransom. Anyone caught making such a circle is executed.
-> - Getting government approval for a Circle involves paying the high Inspection fees. Making a Circle without government approval risks being arrested.
 > 
+> - Circles will be regulated, with government-approved circles being sold in the market (perhaps printed on carpets). These are guaranteed not to blow up on you, but also don't produce anything all that exciting (circles to produce food or clothing from dirt are common). Circles to produce new printed circles are *not* sold (but can be legal and are commonly used by merchants)
+> 
+> - Most people refuse to create their own circles, thinking themselves unable to learn how to do so. However, every now and then a young farm boy will develop an interest in Circles and study them, either blowing himself (and likely his farm) up or finding himself successful in his endeavours.
+> 
+> - Illegal circles are often obfuscated to make it hard to see what they are doing.
+> 
+> - Circles bought on the black market can make pretty near anything. However, a percentage of them will go things like teleport any users to a slave market, or teleport the user's children away and hold them for ransom. Anyone caught making such a circle is executed.
+> 
+> - Getting government approval for a Circle involves paying the high Inspection fees. Making a Circle without government approval risks being arrested.
 
->> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!* (2 days later)
 >> 
 >> Antimatter isn't a thing, since these idiots don't know relativity and quantum _anything_. But yes, circles are software.
->> Yes, gov't regulations, and yeah, carpets and metal plates would be a cheap way to transport them — if you don't have the money to hire a professional imitationist to draw you a circle. Producing food is a bit beyond what modern imitationism can make, but fuel, medicine (i.e. sulfa drug antibiotics and what not) and heat (for heating, cooking, etc) are common. Circles can be safely and easily printed in a printing press — mechanisms are not common, but have their use.
->> Nice touch with the 'circles are mumbo jumbo' thing. There's a second kind of imitationism which uses spirits/true names/witchcraft/etc, which is closer to 'folk magic.' Caloric imitationism is programming.
->> Freemasons/illuminati style secret symbolism encryption.
->> Teleportation is a bit more expensive — you'd notice if your circle requires a pound of HE and a brainjar with a teleportation spell pattern to function, when it is supposed to do a simple chemical reaction (like synthesizing heroin — although the world at large is in a pre-drug war state.) Witchcraft circles are illegal — mostly. Your firstborn for wealth and good fortune (caveats may apply) is certainly something you can get on the black market.
->> Certified imitationists from the University of Imitationism in the capital; complete with ethics committees. Gold!
 >> 
+>> Yes, gov't regulations, and yeah, carpets and metal plates would be a cheap way to transport them — if you don't have the money to hire a professional imitationist to draw you a circle. Producing food is a bit beyond what modern imitationism can make, but fuel, medicine (i.e. sulfa drug antibiotics and what not) and heat (for heating, cooking, etc) are common. Circles can be safely and easily printed in a printing press — mechanisms are not common, but have their use.
+>> 
+>> Nice touch with the 'circles are mumbo jumbo' thing. There's a second kind of imitationism which uses spirits/true names/witchcraft/etc, which is closer to 'folk magic.' Caloric imitationism is programming.
+>> 
+>> Freemasons/illuminati style secret symbolism encryption.
+>> 
+>> Teleportation is a bit more expensive — you'd notice if your circle requires a pound of HE and a brainjar with a teleportation spell pattern to function, when it is supposed to do a simple chemical reaction (like synthesizing heroin — although the world at large is in a pre-drug war state.) Witchcraft circles are illegal — mostly. Your firstborn for wealth and good fortune (caveats may apply) is certainly something you can get on the black market.
+>> 
+>> Certified imitationists from the University of Imitationism in the capital; complete with ethics committees. Gold!
 
->>> **u/CCC_037** [+1] *
+>>> **u/CCC_037** [+1]  (2 days later)
 >>> 
 >>> > Teleportation is a bit more expensive — you'd notice if your circle requires a pound of HE and a brainjar with a teleportation spell pattern to function, when it is supposed to do a simple chemical reaction
->>> You would, and I would. But the sort of little old lady who in another world would send money to a deposed Nigerian prince who contacts her over email - would she notice, or would she just follow the instructions?
 >>> 
+>>> You would, and I would. But the sort of little old lady who in another world would send money to a deposed Nigerian prince who contacts her over email - would she notice, or would she just follow the instructions?
 
->>>> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!**
+>>>> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!* (2 days later)
 >>>> 
 >>>> Hm. Food for thought.
->>>> There'd probably be some stark regulation on teleport spells, brianjars and HE, meaning the black market sale would be very expensive.
->>>> Perhaps there are ways to make dowsing pendulums that point towards such illegal production — or a spirit/devil/entity to employ in such endeavors.
->>>> ETA: Emanationists/Wizards would frown upon the proliferation of teleportation spells. Don't make enemies of wizards.
 >>>> 
+>>>> There'd probably be some stark regulation on teleport spells, brianjars and HE, meaning the black market sale would be very expensive.
+>>>> 
+>>>> Perhaps there are ways to make dowsing pendulums that point towards such illegal production — or a spirit/devil/entity to employ in such endeavors.
+>>>> 
+>>>> ETA: Emanationists/Wizards would frown upon the proliferation of teleportation spells. Don't make enemies of wizards.
 
-> **u/Gurkenglas** [+3] *
+> **u/Gurkenglas** [+4]  (2 hours later)
 > 
 > Sounds like it's trivial to combine a scrying link, kinetic link and teleporter into an RC drone that could spew out bombs or soldiers or more drones.
-> 
 
-> **u/CapnQwerty** [+3] *
+> **u/CapnQwerty** [+3]  (22 hours later)
 > 
 > >Action-at-a-distance is par for the course, and you can make guns that not only convert chemical energy directly into kinetic, but also deposit recoil in the user's vest rather than their hand.
-> So what you're telling me... is that rocket jumping works in this universe!
-
-> (why yes this *was* the most useful thing I could think of, thank you for asking)
-> ((but no really a character who literally flies through the power of moar dakka would be pretty cool))
 > 
+> So what you're telling me... is that rocket jumping works in this universe!
+> 
+> (why yes this *was* the most useful thing I could think of, thank you for asking)
+> 
+> ((but no really a character who literally flies through the power of moar dakka would be pretty cool))
 
->> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!* (2 days later)
 >> 
 >> Heh.
->> 
 
-> **u/SoylentRox** [+2] *
+> **u/SoylentRox** [+2]  (an hour later)
 > 
 > So what you're saying is, these magic pots are machinery.  And which spells work depends on the 'majority theory' on how the population of people (or just wizards) think the universe works.
-> So I guess if you, for instance, used a viewing spell to look at the sun during an eclipse, you wouldn't see gravitational lensing on the spell output but it would mysteriously take more mana because silently the magic is correcting for this real physical effect?
-> And in some cases, spells mysteriously fail when they try to do something so incompatible with the laws of nature as they actually are, versus how people think they work, that the magic can't compensate?
-> I have always thought if you could build some sort of device that can be powered by people who do not have the wizardry talents, but get the same effects, you could end up with a world that resembles ours, even if natural wizards were fairly uncommon.  
-> Especially if one magical device can be used to produce another.
-> You'd probably end up with lots and lots of non-wizard jobs, and presumably most soldiers would not be wizards, as wizards would be too valuable to risk.  Assuming that you can make things like enchanted body armor and then overwhelm with concentrated fire even a 'dumbledore' of the age.
 > 
+> So I guess if you, for instance, used a viewing spell to look at the sun during an eclipse, you wouldn't see gravitational lensing on the spell output but it would mysteriously take more mana because silently the magic is correcting for this real physical effect?
+> 
+> And in some cases, spells mysteriously fail when they try to do something so incompatible with the laws of nature as they actually are, versus how people think they work, that the magic can't compensate?
+> 
+> I have always thought if you could build some sort of device that can be powered by people who do not have the wizardry talents, but get the same effects, you could end up with a world that resembles ours, even if natural wizards were fairly uncommon.  
+> 
+> Especially if one magical device can be used to produce another.
+> 
+> You'd probably end up with lots and lots of non-wizard jobs, and presumably most soldiers would not be wizards, as wizards would be too valuable to risk.  Assuming that you can make things like enchanted body armor and then overwhelm with concentrated fire even a 'dumbledore' of the age.
 
-> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (10 hours later)
 > 
 > David Brin sort of did the "industry without machinery" thing in _The Practice Effect_. You might want to read it for ideas.
-> 
 
-> **u/Peewee223** [+2] *
+> **u/Peewee223** [+2]  (21 hours later)
 > 
 > >Convert energy of one kind into another, for instance, convert sunlight to chemical energy (carbon dioxide, nitrogen, and water in the atmosphere go together to create octanitrocubane.)
-> So... any nut with some knowhow can spend a week in a big open field and generate enough explosives to level a city, out of nothing but sunlight and air?
-> Sure, they'd probably need a big circle to catch enough light, but that won't stop the Crazy Cultist Club from taking over a farm and trying it with "crop circles". If there's no way to detect large circles there are going to be some nasty surprises.
-> There's going to be a pretty big market for energy-dense materials, whether they're used for your coin-op guns or heating homes or powering mechanical things (cars, airships, non-magic parts of factories...). Think oil industry, minus the refineries, and based on solar power. Hydrocarbons should probably be the preferred energy source; gasoline is more energy dense than high explosives, it just can't release all the energy all at once. I imagine factories may need blowers to move air over the circles to provide O2 for reactions.
-> How much height above the circle can be considered a part of the circle's affected area, for transmutation purposes? You may be able to turn a circle on its side and punch holes through walls that way.
-> Antimatter thankfully doesn't matter to your economy yet, since our knowledge of that relied on both relativistic and quantum physics. It could be a fun plot point, though. Similarly, radioactivity requires knowledge of subatomic physics, but if it's ever worked out, energy gets waaaay cheaper (hydrogen fusion from water as the most abundant fuel).
 > 
+> So... any nut with some knowhow can spend a week in a big open field and generate enough explosives to level a city, out of nothing but sunlight and air?
+> 
+> Sure, they'd probably need a big circle to catch enough light, but that won't stop the Crazy Cultist Club from taking over a farm and trying it with "crop circles". If there's no way to detect large circles there are going to be some nasty surprises.
+> 
+> There's going to be a pretty big market for energy-dense materials, whether they're used for your coin-op guns or heating homes or powering mechanical things (cars, airships, non-magic parts of factories...). Think oil industry, minus the refineries, and based on solar power. Hydrocarbons should probably be the preferred energy source; gasoline is more energy dense than high explosives, it just can't release all the energy all at once. I imagine factories may need blowers to move air over the circles to provide O2 for reactions.
+> 
+> How much height above the circle can be considered a part of the circle's affected area, for transmutation purposes? You may be able to turn a circle on its side and punch holes through walls that way.
+> 
+> Antimatter thankfully doesn't matter to your economy yet, since our knowledge of that relied on both relativistic and quantum physics. It could be a fun plot point, though. Similarly, radioactivity requires knowledge of subatomic physics, but if it's ever worked out, energy gets waaaay cheaper (hydrogen fusion from water as the most abundant fuel).
 
->> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!* (2 days later)
 >> 
 >> A big circle eating sunlight makes a noticable darkness, so crop circles that are twilit in high sun would be a dead giveaway.
->> Good call with the gasoline; maybe secondary high explosives are more military issue? Also, perhaps, compressed oxygen?
->> Circles are metaphors for spheres, obviously.
 >> 
+>> Good call with the gasoline; maybe secondary high explosives are more military issue? Also, perhaps, compressed oxygen?
+>> 
+>> Circles are metaphors for spheres, obviously.
 
-> **u/plushiemancer** [+2] *
+> **u/plushiemancer** [+2]  (22 hours later)
 > 
 > I can see poison, corrosives and explosives used a lot in combat due to how easy chemistry and energy storage is in this world. Easy teleportation ss also abuseable when you have the above. Since you favor magical gun in combat, maybe make shield spells against those combat magic 101, or cheaply sold in stores.
-> 
 
->> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!* (2 days later)
 >> 
 >> Shields require a lot more energy than bullets; reactive shields require a lot more complexity; physical shields are popular. A magically reinforced sheet of steel that is large enough to cover your body and can teleport into place from being stored in a folded state.
->> And yeah, chemical weapons would be horrific.
 >> 
+>> And yeah, chemical weapons would be horrific.
 
-> **u/Aegeus** [+2] *
+> **u/Aegeus** [+2]  (a day later)
 > 
 > What's the range on teleportation?  Can you teleport living things?  Can you teleport inside an object?  Can you teleport a piece of an object?  Is there a way to ward an area against hostile teleports?
-> There are a lot of ways to use teleportation as a weapon, or as the delivery system for a weapon.  So be careful with that one.
 > 
+> There are a lot of ways to use teleportation as a weapon, or as the delivery system for a weapon.  So be careful with that one.
 
->> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!* (2 days later)
 >> 
 >> Energy consumption is roughly square with the distance, so you are limited by energy usage and integrity of the teleportation capability. A powerful 'wizard' (in universe, an Emanationist) can teleport a couple of people up to a few dozen kilometers.
->> As for the rest: yes, yes, yes, and yes. The _interesting_ limitation is that to teleport is to swap, and if you want to swap a chunk of rock out of a wall, you have to overcome the binding energy — portal cutting is equal to regular cutting. Since the binding energy in air is virtually nil, air-to-air teleportation is virtually free.
 >> 
+>> As for the rest: yes, yes, yes, and yes. The _interesting_ limitation is that to teleport is to swap, and if you want to swap a chunk of rock out of a wall, you have to overcome the binding energy — portal cutting is equal to regular cutting. Since the binding energy in air is virtually nil, air-to-air teleportation is virtually free.
 
-> **u/Frommerman** [+1] *
+> **u/Frommerman** [+1]  (2 days later)
 > 
 > Wars will be fought over maintaining or changing scientific consensus. If you can make competitor states' circles all stop working and fill the market void by printing your own with laws you already know inside and out, you can both cause ruin to your enemies and rake in the gold for yourself. It's a good question how you would fight such a war, but strong public education (and foreign attacks upon your schools) would probably come into play.
-> 
 
->> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!* (3 days later)
 >> 
 >> I have a good fix for that kind of interesting but arguably silly issue: circles work to the extent that they accurately describe things, not because people believe in stuff. Four-elements alchemy circles still work, but there is lots they can't do. 
->> Also, gods dont need beleief to exist, but retroactively pop into history when critical belief mass is achieved.
 >> 
+>> Also, gods dont need beleief to exist, but retroactively pop into history when critical belief mass is achieved.
 
 ---
 

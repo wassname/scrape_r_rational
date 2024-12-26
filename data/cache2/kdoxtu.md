@@ -45,70 +45,69 @@ Feel free to DM me if you have any questions, and I hope you decide to participa
 
 ### Comments:
 
-> **u/SvalbardCaretaker** [+7]  *Mouse Army**
+> **u/SvalbardCaretaker** [+8]  *Mouse Army* (an hour later)
 > 
 > I'm confused about the entry fee. Is there going to be a pot or is this all just a fun competitive way to donate to the charity of our choice?
-> 
 
->> **u/YellowSplatters** [+8] *
+>> **u/YellowSplatters** [+7]  (an hour later)
 >> 
 >> There's no pot. The second thing you said is pretty much accurate.
->> 
 
-> **u/Iconochasm** [+3] *
+> **u/Iconochasm** [+5]  (an hour later)
 > 
 > For a second I misread one of those as "SCP Foundation" and got really excited. 
-> If I considered myself likely to do well in 2/3, but have absolutely no familiarity with the third, would competing feel pointless?
 > 
+> If I considered myself likely to do well in 2/3, but have absolutely no familiarity with the third, would competing feel pointless?
 
->> **u/YellowSplatters** [+3] *
+>> **u/YellowSplatters** [+3]  (an hour later)
 >> 
 >> Nope! A couple people participating have only read one of the works, so you're all good. I might make teams too, depending on the interest level.
->> 
 
-> **u/Pel-Mel** [+3]  *Adept**
+> **u/Pel-Mel** [+3]  *Adept* (4 hours later)
 > 
 > >No Practical Guide to Evil
-> Quoi.
 > 
+> Quoi.
 
->> **u/Dufaer** [+5] *
+>> **u/Dufaer** [+4]  (5 hours later)
 >> 
 >> Pourquoi pas? On ne peut pas inclure tout.
->> Or rather, the more web serials you inclde, the more time will your average participant have no idea what you are talking about in a question.
->> (Also, OP who might be writing all the questions is likely most familiar with the works he listed.)
 >> 
+>> Or rather, the more web serials you inclde, the more time will your average participant have no idea what you are talking about in a question.
+>> 
+>> (Also, OP who might be writing all the questions is likely most familiar with the works he listed.)
 
-> **u/catern** [+4] *
+> **u/catern** [+4]  (5 hours later)
 > 
 > It's interesting to me which web serials are popular and which are not-as-popular. I'm guessing from your selection that Worm, Mother of Learning, and Wandering Inn are the three most popular web serials out there? That's obvious to me with Worm, but I didn't know that Mother of Learning was popular, and I've never heard of Wandering Inn.
-> How does Worth the Candle compare in popularity? That's the most popular story on r/rational, after Mother of Learning. (And after HPMOR (which has a permanent place of eminence) and Significant Digits, I suppose, but those technically aren't original web serials, I guess)
-> An r/rational quizbowl would be interesting, maybe covering Mother of Learning, Worth the Candle, HPMOR, Significant Digits, and other r/rational standbys. (I admit I'm not so interested in your event, since I've only read Mother of Learning, like I guess some others on r/rational)
 > 
+> How does Worth the Candle compare in popularity? That's the most popular story on r/rational, after Mother of Learning. (And after HPMOR (which has a permanent place of eminence) and Significant Digits, I suppose, but those technically aren't original web serials, I guess)
+> 
+> An r/rational quizbowl would be interesting, maybe covering Mother of Learning, Worth the Candle, HPMOR, Significant Digits, and other r/rational standbys. (I admit I'm not so interested in your event, since I've only read Mother of Learning, like I guess some others on r/rational)
 
->> **u/YellowSplatters** [+7] *
+>> **u/YellowSplatters** [+8]  (5 hours later)
 >> 
 >> Alexa web traffic ranks are a pretty good way to gauge popularity, but it's hard because web serials hosted on Royal Road or some other third party are not indexed. In this metric, I believe "Practical Guide" is the most popular web serial currently running, but I'd imagine Worm has a much higher total readership.  
->> Patreon supporters can be a good guide for those Royal Road fics. In this metric, Worth the Candle (369 Patrons), Practical Guide (615 Patrons), and Mother of Learning (634 Patrons) are dwarfed by Wandering Inn's 4,136 Patrons. So while I wouldn't say that this is entirely accurate (no way TWI is 10 times more popular than Worth the Candle), but it does tell you something.
 >> 
+>> Patreon supporters can be a good guide for those Royal Road fics. In this metric, Worth the Candle (369 Patrons), Practical Guide (615 Patrons), and Mother of Learning (634 Patrons) are dwarfed by Wandering Inn's 4,136 Patrons. So while I wouldn't say that this is entirely accurate (no way TWI is 10 times more popular than Worth the Candle), but it does tell you something.
 
->> **u/sohois** [+4] *
+>> **u/sohois** [+4]  (6 hours later)
 >> 
 >> Mother of Learning has been the top rated fic on royal road basically since it has been on there. It's not got the most followers (which I think is other rational favourite Delve) but has got very high numbers.
->> Wandering Inn, as noted, dwarfs pretty much every other web serial for oatreon numbers.
->> All three have also always been popular on top web fiction, and none of them actually push readers to vote there, unlike some others
 >> 
+>> Wandering Inn, as noted, dwarfs pretty much every other web serial for oatreon numbers.
+>> 
+>> All three have also always been popular on top web fiction, and none of them actually push readers to vote there, unlike some others
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (6 hours later)
 > 
 > Is Wandering in a finished web serial? I know that the other two are, but I never read that one.
-> Also, will Worm trivia be only about Worm or also about its sequel?
 > 
+> Also, will Worm trivia be only about Worm or also about its sequel?
 
->> **u/YellowSplatters** [+2] *
+>> **u/YellowSplatters** [+2]  (6 hours later)
 >> 
 >> Wandering Inn is not finished. And the Worm trivia will only include Worm content. (nothing from Ward)
->> 
 
 ---
 

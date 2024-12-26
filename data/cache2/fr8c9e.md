@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/cynar** [+2] *
+> **u/cynar** [+2]  (20 hours later)
 > 
 > It lives!
-> Almost 3 years and it lives again! 😁
 > 
+> Almost 3 years and it lives again! 😁
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (a day later)
 > 
 > If you fail, all of humanity is locked out forever.
-> No pressure, of course.
 > 
+> No pressure, of course.
 
 ---
 

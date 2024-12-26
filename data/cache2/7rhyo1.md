@@ -32,97 +32,85 @@ I would appreciate it if recommendations are above 100 K words of written conten
 
 ### Comments:
 
-> **u/blazinghand** [+9]  *Chaos Undivided**
+> **u/blazinghand** [+7]  *Chaos Undivided* (5 hours later)
 > 
 > EagleJarl's Team Anko is Naruto Rational Fanfiction: https://www.fanfiction.net/s/11087425/1/Team-Anko
-> > (AU) [Rationality, meet Naruto] - Anko never wanted to lead a genin team. Sadly, the Hokage isn't okay with that; he hands her Naruto, Hinata, and Shino and orders her to "make them the best ninja and, more importantly, the best *people* possible." She's got her work cut out for her. M for combat and occasional cursing.
-> 164k words, complete. Naruto is the MC but there is another character who really shines here.
-> Many people liked it. Could be worth investigating.
 > 
+> > (AU) [Rationality, meet Naruto] - Anko never wanted to lead a genin team. Sadly, the Hokage isn't okay with that; he hands her Naruto, Hinata, and Shino and orders her to "make them the best ninja and, more importantly, the best *people* possible." She's got her work cut out for her. M for combat and occasional cursing.
+> 
+> 164k words, complete. Naruto is the MC but there is another character who really shines here.
+> 
+> Many people liked it. Could be worth investigating.
 
->> **u/ToaKraka** [+5]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png* (5 hours later)
 >> 
 >> OP wants stories that stick to canon characterizations. IIRC, *Team Anko* completely eviscerates Shino.
->> 
 
->>> **u/blazinghand** [+2]  *Chaos Undivided**
+>>> **u/blazinghand** [+2]  *Chaos Undivided* (7 hours later)
 >>> 
 >>> Given that he tolerated the characterization of certain characters in Lighting Up The Dark, I think Team Anko might well be up his alley. Certainly Naruto is more canonically characterized in Team Anko than he is in Lighting Up The Dark by a huge amount. So, it's worth a shot for him.
->>> 
 
->> **u/EthanCC** [+2] *
+>> **u/EthanCC** [+2]  (a day later)
 >> 
 >> IMO *Team Anko* turns Orochimaru into a villain sue, by making him a bit too moral among other things I picked up on in the narrative (it was one of those death of a thousand cuts situations where I can't really point to one thing). The hypercompetency I can understand since he's supposed to be at the absolute top of a very competitive profession in canon, but it confuses me how he seems to genuinely care about his people when there's no need to act despite being stated to have some sort of antisocial personality disorder, and at other times ot showing any empathy. Otherwise it was pretty enjoyable.
->> 
 
->>> **u/eaglejarl** [+9] *
+>>> **u/eaglejarl** [+10]  (2 days later)
 >>> 
 >>> [He](#s " didn't give a damn about anyone else, but was smart enough to realize that appearing to was an excellent means to power. Hence why he killed one of his ninja for even vaguely arguing with him, then murderee sixty-something people to cover up the fact that Naruto and Hinata has killed two. He threatened Naruto into helping with the doctoring because it was a cheap way to gain reputational credit with both his people and Naruto, as well as preserving his labor pool. On the other hand, when he was told that one of those people was too injured to be useful, Orochimaru ordered him taken to the labs to be vivisected.")
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (19 hours later)
 >> 
 >> Will give it a try.
->> 
 
-> **u/paradoxinclination** [+7] *
+> **u/paradoxinclination** [+5]  (9 hours later)
 > 
 > I'm not sure it's exactly rational- it might be rational*ist* -but [People Lie](https://www.fanfiction.net/s/3745099/1/People-Lie) by Nugar is pretty great. Good fight scenes and characterization, with some weird Lovecraftian elements tossed in for fun.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (19 hours later)
 >> 
 >> Will give it a try.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> People Lie was excellent. Unfortunately abandoned though.
->> 
 
-> **u/GeeJo** [+4]  *Custom Flair**
+> **u/GeeJo** [+4]  *Custom Flair* (an hour later)
 > 
 > Try out [Chiaroscuro](https://www.fanfiction.net/s/11267384/1/Chiaroscuro), if you haven't.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (19 hours later)
 >> 
 >> It's great, however adjusting to it was difficult. I was so used to smart Naruto, that I forgot why I rated the original Naruto series as a B-rate anime in the first place. Adjusting to dumb Naruto, and getting used to Shikamaru was a different experience. I intend on finishing it though.
->> 
 
-> **u/serge_cell** [+3] *
+> **u/serge_cell** [+3]  (4 hours later)
 > 
 > I wouldnt qualify Need to become stronger as truly rational fiction. It has some qualities of rational fiction but missing the first - nothing happens because plot require it. Most glaring are long, high intencity fights where no one important is killed.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (19 hours later)
 >> 
 >> The author definitely tried to make it rationalist—whether they succeeded is something else (IIRC the Wave people died like flies).
->> 
 
-> **u/Chimerasame** [+3] *
+> **u/Chimerasame** [+3]  (6 days later)
 > 
 > > Time Braid: I dislike Sakura, and don't want to read a story where she's the MC (rationalist or not). Reading it feels like a chore and isn't hedonistic (this may be due to my reluctance to start stories with female MCs (and I have much less patience in fanfiction).
-> If it helps, the characterization of Time Braid Sakura is very different from the characterization of canon Sakura. She kind of starts out the same way, but changes fast.
-> Out of curiosity, why the antipathy towards female MCs? Do the authors you've tried out thus far just write them differently? Or is it something more than that, like just simply knowing they're female makes it harder to identify with or something?
 > 
+> If it helps, the characterization of Time Braid Sakura is very different from the characterization of canon Sakura. She kind of starts out the same way, but changes fast.
+> 
+> Out of curiosity, why the antipathy towards female MCs? Do the authors you've tried out thus far just write them differently? Or is it something more than that, like just simply knowing they're female makes it harder to identify with or something?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (8 days later)
 >> 
 >> Well I recently read [Lavender Clouds](https://m.fanfiction.net/s/11953567/126/) (MC is Hinata), and I really, really enjoyed it (much more than I expected to (the grammar is horrendous)), even crying at times). I thought it might be because knowing they're female makes them harder to identify with (and the situation with Lavender clouds is very rare), I still think it is, but seeing as I could empathise with Hinata (though not fully insert myself as her (I usually inserted from the POV of the male characters she interacted with)) I think how the author writes them affects my enjoyment. I now believe that I simply cannot self insert in female characters though (this isn't the same as identifying with a character (which I can do)).     
 >> &nbsp;   
 >> Time Braid sounds like something I'll read because I should read it, not because I'll enjoy it. Sakura as an MC is a problem (I have trouble with Chiaroscuro because Shikamaru is the MC). Excluding the fact I can't self insert in female characters, I dislike Sakura as a character, and reading her as MC (even with a different personality) is not something I **want** to do).
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> Not my recollection of Time Braid. It  did have some smut, but not excessive (IMO).
->> 
 
 ---
 

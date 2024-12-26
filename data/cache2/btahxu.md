@@ -32,72 +32,73 @@ In short, I really recommend this story! If you have read it, write a comment be
 
 ### Comments:
 
-> **u/lolbifrons** [+4]  *Fifteenth Legion of Terror**
+> **u/lolbifrons** [+5]  *Fifteenth Legion of Terror* (an hour later)
 > 
 > I enjoyed the original ~~short story~~ novel by lindqvist.  I might check this out.
-> He wrote his own sequel, also, but it was a much shorter story and from the perspective of someone else.
 > 
+> He wrote his own sequel, also, but it was a much shorter story and from the perspective of someone else.
 
->> **u/THEHYPERBOLOID** [+3] *
+>> **u/THEHYPERBOLOID** [+3]  (3 hours later)
 >> 
 >> Wasn't the original story a novel, and then the sequel was a short story? I've only read the novel, but I enjoyed it.
->> https://en.m.wikipedia.org/wiki/Let_the_Right_One_In_(novel)
->> https://en.wikipedia.org/wiki/Let_the_Old_Dreams_Die
 >> 
+>> https://en.m.wikipedia.org/wiki/Let_the_Right_One_In_(novel)
+>> 
+>> https://en.wikipedia.org/wiki/Let_the_Old_Dreams_Die
 
->>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror**
+>>> **u/lolbifrons** [+3]  *Fifteenth Legion of Terror* (7 hours later)
 >>> 
 >>> Ah right, my bad.
->>> 
 
-> **u/CouteauBleu** [+3]  *We are the Empire.**
+> **u/CouteauBleu** [+3]  *We are the Empire.* (6 hours later)
 > 
 > I've read a few chapters so far and it's quite enthralling! Much better-paced than the average vampire story too.
-> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (a day later)
 >> 
 >> Alright, spoiler-free review time!
->> I think this is a good example of a story that isn't necessarily *good* fiction, but is very definitely *rational* fiction (though I'd say it's quite good too). The characters are very introspective, the protagonist is way smarter than his age, and everyone spends their time discussing the practicalities and consequences of their actions.
->> The story feels like an okay continuation of *Let me In*, that shows the guilt of people committing terrible actions for selfish reasons, and how they deal with it. The story analyzes their behavior in a way that's very analytical and detailed; it lays out the different courses of actions available to them, what happens if they take them, and the reasoning both rational and emotional that informs their choices.
->> Spoilers: >!I'm a little disappointed by the ending. It works as a tragic ending, I guess, but I really don't like the idea that Owen killing Abby was the right choice. They point out that as time goes on her chances to get a stable, murder-free life increase, so it's not like she was terminally ill and had to be euthanized. And if you think your friend secretly wants to die and is too afraid to vocalize it (modulo some magic personality alterations), the right thing to do is to get them committed to a hospital where they can get the help they need, not enable their suicidal tendencies, let alone *kill them by surprise*.!<
 >> 
+>> I think this is a good example of a story that isn't necessarily *good* fiction, but is very definitely *rational* fiction (though I'd say it's quite good too). The characters are very introspective, the protagonist is way smarter than his age, and everyone spends their time discussing the practicalities and consequences of their actions.
+>> 
+>> The story feels like an okay continuation of *Let me In*, that shows the guilt of people committing terrible actions for selfish reasons, and how they deal with it. The story analyzes their behavior in a way that's very analytical and detailed; it lays out the different courses of actions available to them, what happens if they take them, and the reasoning both rational and emotional that informs their choices.
+>> 
+>> Spoilers: >!I'm a little disappointed by the ending. It works as a tragic ending, I guess, but I really don't like the idea that Owen killing Abby was the right choice. They point out that as time goes on her chances to get a stable, murder-free life increase, so it's not like she was terminally ill and had to be euthanized. And if you think your friend secretly wants to die and is too afraid to vocalize it (modulo some magic personality alterations), the right thing to do is to get them committed to a hospital where they can get the help they need, not enable their suicidal tendencies, let alone *kill them by surprise*.!<
 
->>> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>>> **u/Sophronius** [+2]  *The Need to Become Stronger* (a day later)
 >>> 
 >>> I agree it's definitely rational (to a surprising extent, given that the guy doesn't seem to know about us), but why do you say it's not necessarily good? I'd say the writing fundamentals are better than 80% of what's popular on this reddit. I mean, he has an actual editor, a clear understanding of the genre, and he planned the entire plot in advance. Yes, his use of dialogue tags is a bit novice, and he's not a big fan of descriptions (seriously, he never even described what Abby's wings look like. Are they bat wings? Feather wings? What?), but that's minor compared to the rest. Contrast this with stories like Purple Days, which is hugely popular even though it's unreadable garbage.
->>> I totally agree about the part in spoilers: >!I got physically angry when that happened. At the same time, it was entirely believable that Abby would want that and that Owen would do it, hopeless romantic that he is. And I clearly \*cared\* about what happened to the characters, which is always a sign of strong writing. So yeah, I think this is a case of the author wanting to carry out his genre-established Tragedy Tropes(TM), when actually I think this would have been a great opportunity for a rationalist subversion. Have Owen go "screw the tropes, I have rationality!" and find a way to fix things. I'm actually somewhat tempted to write a (short) alternative ending to this story, just for the heck of it. <\_<!<
 >>> 
+>>> I totally agree about the part in spoilers: >!I got physically angry when that happened. At the same time, it was entirely believable that Abby would want that and that Owen would do it, hopeless romantic that he is. And I clearly \*cared\* about what happened to the characters, which is always a sign of strong writing. So yeah, I think this is a case of the author wanting to carry out his genre-established Tragedy Tropes(TM), when actually I think this would have been a great opportunity for a rationalist subversion. Have Owen go "screw the tropes, I have rationality!" and find a way to fix things. I'm actually somewhat tempted to write a (short) alternative ending to this story, just for the heck of it. <\_<!<
 
->>>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>>> **u/CouteauBleu** [+3]  *We are the Empire.* (2 days later)
 >>>> 
 >>>> Re: the ending, yeah, Owen would totally do that, but I'd expect Alvirez to know better given his previous experience with depressed people.
->>>> (I would also read that, probably)
->>>> Re: rationality, I'm not saying it's not good, I'm saying it tries to be rational before it tries to be engaging. It's hard to nail down why, and I wouldn't want the story to change radically, but it's definitely a vibe I had reading it.
 >>>> 
+>>>> (I would also read that, probably)
+>>>> 
+>>>> Re: rationality, I'm not saying it's not good, I'm saying it tries to be rational before it tries to be engaging. It's hard to nail down why, and I wouldn't want the story to change radically, but it's definitely a vibe I had reading it.
 
->>>>> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>>>>> **u/Sophronius** [+2]  *The Need to Become Stronger* (2 days later)
 >>>>> 
 >>>>> (I would spoiler that first bit, just in case)
->>>>> I get what you mean now. The rationality is too explicit, which is a common flaw of rational fiction. Instead of having a teacher character go "I will now lecture about X for 5 paragraphs", it's better to work the lessons into the story to make it less heavy-handed. I didn't mind it too much in this story though, but I'll admit I started skimming some of the psychology stuff near the end. The epilogue especially felt to me like the introspection and narrating distracted too much from the ending.
 >>>>> 
+>>>>> I get what you mean now. The rationality is too explicit, which is a common flaw of rational fiction. Instead of having a teacher character go "I will now lecture about X for 5 paragraphs", it's better to work the lessons into the story to make it less heavy-handed. I didn't mind it too much in this story though, but I'll admit I started skimming some of the psychology stuff near the end. The epilogue especially felt to me like the introspection and narrating distracted too much from the ending.
 
->>>> **u/lmbfan** [+2] *
+>>>> **u/lmbfan** [+2]  (2 days later)
 >>>> 
 >>>> I would read that.
->>>> 
 
-> **u/Salivanth** [+3] *
+> **u/Salivanth** [+3]  (18 hours later)
 > 
 > Do you recommend watching the Swedish or American movie as preparation for this story? I know it's been mentioned that it isn't necessary, but I'd like to anyway.
-> 
 
->> **u/Sophronius** [+3]  *The Need to Become Stronger**
+>> **u/Sophronius** [+3]  *The Need to Become Stronger* (22 hours later)
 >> 
 >> The Swedish version is a bit more artsy, and frankly, better. So unless you're a really big fan of Chloë Grace Moretz or hate Swedish, I would watch that one. That said, the remake isn't bad, so if you're only watching it to get a better feel for the characters in the fanfic, go ahead and watch the American one.
->> &#x200B;
->> Edit: Oh, uh, if you do watch the swedish version, bear in mind that one of the characters has a different gender in the remake. That might prove a bit confusing, otherwise. <\_<
 >> 
+>> &#x200B;
+>> 
+>> Edit: Oh, uh, if you do watch the swedish version, bear in mind that one of the characters has a different gender in the remake. That might prove a bit confusing, otherwise. <\_<
 
 ---
 

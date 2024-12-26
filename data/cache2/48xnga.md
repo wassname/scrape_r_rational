@@ -15,386 +15,385 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/LiteralHeadCannon** [+18] *
+> **u/LiteralHeadCannon** [+17]  (2 hours later)
 > 
 > Seen on Tumblr:
-> http://brazenautomaton.tumblr.com/post/140214214824/primary-tani-republica-2k16
 > 
+> http://brazenautomaton.tumblr.com/post/140214214824/primary-tani-republica-2k16
 
->> **u/None** [+7] *
+>> **u/None** [+5]  (4 hours later)
 >> 
 >> Sailor Moon meets the Republican primary?  With a trace of *Madoka*?
->> 
 
->>> **u/NotUnusualYet** [+7] *
+>>> **u/NotUnusualYet** [+7]  (7 hours later)
 >>> 
 >>> If you'd like more than just a trace, there's always [Bernie Magica](https://www.fanfiction.net/s/11533539/1/Bernie-Magica).
->>> 
 
->>>> **u/None** [+4] *
+>>>> **u/None** [+4]  (8 hours later)
 >>>> 
 >>>> This is the single greatest piece of silly internet fluff I've ever clicked on in this subreddit.  Thank you for sending it to me, and I'll be sharing with all my friends tonight.
->>>> 
 
->> **u/Iconochasm** [+3] *
+>> **u/Iconochasm** [+3]  (6 hours later)
 >> 
 >> That was great.  It reminds me of the [DPRK twitter.](https://storify.com/Popehat/democratic-debate-descends-into-chaos)
->> 
 
->> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (18 hours later)
 >> 
 >> Could this be a thing, please? 
->> I really need this in my life.
 >> 
+>> I really need this in my life.
 
->> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 >> 
 >> I'm dumb. It took me a few dozen paragraphs before realizing what was going on.
->> 
 
-> **u/None** [+11] *
+> **u/None** [+10]  (7 hours later)
 > 
 > I'm 23 years old and after 5 years of meandering through life, I'm finally going back to college. And this time I'm going to give it my all. No excuses.
-> I'm going for a computer science degree, and hopefully I can work that into something that allows me to mess around with artificial intelligence. At least that's the dream.
-> Money and time are going to be really tight because I'll be balancing this with a part time job. I have faith that I can make make it work though. And maybe down the line I can pick up some writing classes and actually start contributing to some rationalist fiction.
-> This is a big step for me, so I just needed to share. How are your college lives going? Do you have any advice if you've been in a similar situation?
 > 
+> I'm going for a computer science degree, and hopefully I can work that into something that allows me to mess around with artificial intelligence. At least that's the dream.
+> 
+> Money and time are going to be really tight because I'll be balancing this with a part time job. I have faith that I can make make it work though. And maybe down the line I can pick up some writing classes and actually start contributing to some rationalist fiction.
+> 
+> This is a big step for me, so I just needed to share. How are your college lives going? Do you have any advice if you've been in a similar situation?
 
->> **u/None** [+12] *
+>> **u/None** [+13]  (8 hours later)
 >> 
 >> If you want to do AI/ML, combine computer science with a double major in statistics.  Focus particularly on high-dimensional statistics and computational methods in stats.
->> 
 
->> **u/tvcgrid** [+11] *
+>> **u/tvcgrid** [+11]  (8 hours later)
 >> 
 >> Find friends who are excited to learn and to make things. They'll be making side projects, showing up to office hours, and maybe even making/joining startups (or have tried and failed and still be looking). Joining their tribe will push you and change you for the better (if your goal is to do well in tech)
->> 
 
->> **u/Calsem** [+2] *
+>> **u/Calsem** [+2]  (12 hours later)
 >> 
 >> If you want to get through your degree faster you might be able to skip your introductory CS class.  Online learning should teach you the same stuff.  Just ask your Advisor to make sure it's possible to skip.
->> 
 
-> **u/tvcgrid** [+6] *
+> **u/tvcgrid** [+7]  (11 hours later)
 > 
 > So... I decided to pick a ridiculous premise and actually write a short story. Here it is: ["Farts are messages from the future!"](https://docs.google.com/document/d/1Fua9KjcaPzshyVLjBFntd9AiQrH-Crv_dOLXsryt48Q/edit?usp=sharing)
-> 
 
-> **u/None** [+4] *
+> **u/None** [+4]  (38 minutes later)
 > 
 > I've been reading *Democratic Confederalism* by Oxala, but he never explains what democratic confederalism actually is.
-> [This]( http://edge.org/conversation/ed_boyden-how-the-brain-is-computing-the-mind) came through the team email list at work.  Thoughts?
 > 
+> [This]( http://edge.org/conversation/ed_boyden-how-the-brain-is-computing-the-mind) came through the team email list at work.  Thoughts?
 
->> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (13 hours later)
 >> 
 >> Biodeterminism is always interesting.  I just hope it doesn't end up with nuclear weapons in the "things we wish we never invented" basket.
->> 
 
-> **u/_brightwing** [+3]  *Feathered menace**
+> **u/_brightwing** [+3]  *Feathered menace* (14 hours later)
 > 
 > Developer [Sean Murray's interview](https://www.youtube.com/watch?v=ZVl1Hmth3HE) on creating No Man's Sky's universe from procedural art generation. I loved the part about the algorithms setting up rules for the world. And the planets and animals generated dependent on things like how far the planet is from its sun - so what'll be its water content and climate be like, subsequent colour of the sky.. It's so beautiful. Been really looking forward to this game for a while.
-> 
 
->> **u/BadGoyWithAGun** [+2] *
+>> **u/BadGoyWithAGun** [+2]  (18 hours later)
 >> 
 >> It seems interesting at first glance, but I've yet to see a procedurally-generated world that could compel me to explore as much as a carefully hand-crafted one. Unless they're doing some truly novel procedural magic, it's the same old tradeoff between quantity and quality.
->> 
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >> 
 >> I'm really curious whether this is going to pan out or not. The idea of an exploration heavy game appeals to me quite a bit, but it really comes down to implementation. The reviews will probably let me know whether it's worth a purpose. (Like you, I love procedural generation.)
->> 
 
-> **u/Nighzmarquls** [+3] *
+> **u/Nighzmarquls** [+4]  (3 hours later)
 > 
 > I'm contemplating alternative story telling techniques, such as using a Wiki site to combine lots of disparate vignettes none-linearly, character anecdotes and 'appendices' into a broad structure that tells it's own story. Anyone have thoughts on that?
-> On the other side of things I'm contemplating just what a game focused more or less entirely around the mechanics of diplomacy and politics would look like.
-> At present I'm mostly thinking most of the mechanics end up being about making agreements.
 > 
+> On the other side of things I'm contemplating just what a game focused more or less entirely around the mechanics of diplomacy and politics would look like.
+> 
+> At present I'm mostly thinking most of the mechanics end up being about making agreements.
 
->> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning* (4 hours later)
 >> 
 >> Look into House of Leaves; not because it's similar to what you're proposing, strictly speaking, but because I imagine a human proposing your idea would also really enjoy House of Leaves.
->> 
 
->>> **u/Sparkwitch** [+7] *
+>>> **u/Sparkwitch** [+7]  (7 hours later)
 >>> 
 >>> I got a copy from a friend full of his notes, in black pen, based on what he'd figured out (and references he'd uncovered) while reading. I added my own notes in pencil and gave it to another friend. She added highlighter and green pen cross-referencing a lot of our comments with the existing editorial footnotes.
->>> Sadly, at this point the pages are falling out.
 >>> 
+>>> Sadly, at this point the pages are falling out.
 
->>> **u/Rhamni** [+2]  *Aspiring author**
+>>> **u/Rhamni** [+2]  *Aspiring author* (4 hours later)
 >>> 
 >>> Oh man. I lost my copy of that book when I was two thirds through. It's my favourite book I'll never finish.
->>> 
 
->>> **u/Nighzmarquls** [+1] *
+>>> **u/Nighzmarquls** [+1]  (5 hours later)
 >>> 
 >>> I did try to read it. I think it would work better with hyper links.  But definitely big on exploring what you can do with the hardcopy "reading experience"
->>> 
 
->> **u/Sparkwitch** [+5] *
+>> **u/Sparkwitch** [+5]  (8 hours later)
 >> 
 >> I recommend taking a look at [Undum](http://undum.com/) or [Twine](https://twinery.org/). They're designed for interactive fiction, making games with words. It's not what you're asking, but the sorts of possibilities you're describing haven't been heavily explored.
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (9 hours later)
 >>> 
 >>> Do you know of any story games that currently uses Undum? I would like to see it in action beyond the tutorial.
->>> 
 
->>>> **u/Sparkwitch** [+2] *
+>>>> **u/Sparkwitch** [+2]  (23 hours later)
 >>>> 
 >>>> Undum hasn't gotten a lot of attention because it's harder to use than other similar formats. [The Play](http://squinky.me/theplay/) is probably the largest example, but it's essentially a CYOA. [Matter of the Monster](http://eblong.com/zarf/zweb/matter/) is very short but shows off by wandering around the page.
->>>> It's a powerful system, and produces the best output so far as I'm concerned, but there are only a few great examples of what it can do.
 >>>> 
+>>>> It's a powerful system, and produces the best output so far as I'm concerned, but there are only a few great examples of what it can do.
 
->> **u/thecommexokid** [+5] *
+>> **u/thecommexokid** [+4]  (8 hours later)
 >> 
 >> > I'm contemplating alternative story telling techniques, such as using a Wiki site to combine lots of disparate vignettes none-linearly, character anecdotes and 'appendices' into a broad structure that tells it's own story. Anyone have thoughts on that?
->> I am usually very frustrated by this sort of thing. I love complex stories, but I hate complicated story-delivery mechanisms. Usually I give up on a piece of fiction if I can't easily figure out basic things like what order I'm supposed to read it in.
->> (I anticipate there are many readers who strongly disagree. The above is meant only to be a single data point about my own personal preferences.)
 >> 
+>> I am usually very frustrated by this sort of thing. I love complex stories, but I hate complicated story-delivery mechanisms. Usually I give up on a piece of fiction if I can't easily figure out basic things like what order I'm supposed to read it in.
+>> 
+>> (I anticipate there are many readers who strongly disagree. The above is meant only to be a single data point about my own personal preferences.)
 
->> **u/MugaSofer** [+3] *
+>> **u/MugaSofer** [+3]  (8 hours later)
 >> 
 >> >Wiki site to combine lots of disparate vignettes none-linearly, character anecdotes and 'appendices' into a broad structure that tells it's own story. Anyone have thoughts on that?
->> Sounds vaguely SCP-like. Maybe with shades of other creepypasta stuff, like the Slenderman "mythos".
->> It'd probably be good for horror.
 >> 
+>> Sounds vaguely SCP-like. Maybe with shades of other creepypasta stuff, like the Slenderman "mythos".
+>> 
+>> It'd probably be good for horror.
 
-> **u/TennisMaster2** [+2] *
+> **u/TennisMaster2** [+2]  (10 hours later)
 > 
 > If anyone plans to binge *House of Cards* this weekend, please let us know your thoughts.
-> 
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (5 days later)
 >> 
 >> I just finished watching it last night.
->> The good news is that it's much better than season three was, which was my big concern. The bad news is that there are a few places where they leave realism behind for a bit in favor of story and drama. The worse news is that they're leaving a lot that won't get resolved until season five.
->> Taking those in order, and staying as spoiler-free as possible ...
->> For the most part, it's a return to form as far as scheming, backstabbing, play and counter-play go. This is where House of Cards has always (to me) been best and for the most part they don't get bogged down in the ponderousness that plagued the third season. The moments of people soulfully staring at things are mercifully short and the majority of the character and plot development is done through dialogue and action. This is a vast improvement.
->> My complaint about realism is mostly about spoilery stuff. I think they *know* that it's far-fetched, and try to sell it anyway, which is only partially a success. It leads to good moments, but there's a small part of me scratching my head and thinking that this isn't the way the world actually works. I think *stories generally* tend to be best when they're grounded in some way, and this is true of House of Cards in particular.
->> The lack of resolution leaves me deeply troubled. My defense of season three was that they were setting up for Frank's downfall in season four and the completion of the series. *House of Cards* is a tragedy, it takes its cues from Shakespeare in a plethora of ways, and the narrative arrow is pointing in the direction of Frank losing everything that he's built up, having sown the seeds of his own destruction. This is implicit in the metaphor that gives the series its name. Also, it's the general path that the British series followed.
->> The show seems to be in no hurry to resolve *anything*. The complications keep piling up and the deceptions keep getting layered on top of each other, but this is meaningless until there's some actual resolution. I hate this with a passion. They've already announced that there will be a season five, and my worry is that there will be a season six, then a season seven, and so on until it's no longer profitable and then there's no ending. Even if there *is* an ending though, building up to a climax has diminishing returns, which I think this show hit somewhere in season three. It's still good television, but it can only leave me with narrative blue balls a limited number of times before I cut my losses.
 >> 
+>> The good news is that it's much better than season three was, which was my big concern. The bad news is that there are a few places where they leave realism behind for a bit in favor of story and drama. The worse news is that they're leaving a lot that won't get resolved until season five.
+>> 
+>> Taking those in order, and staying as spoiler-free as possible ...
+>> 
+>> For the most part, it's a return to form as far as scheming, backstabbing, play and counter-play go. This is where House of Cards has always (to me) been best and for the most part they don't get bogged down in the ponderousness that plagued the third season. The moments of people soulfully staring at things are mercifully short and the majority of the character and plot development is done through dialogue and action. This is a vast improvement.
+>> 
+>> My complaint about realism is mostly about spoilery stuff. I think they *know* that it's far-fetched, and try to sell it anyway, which is only partially a success. It leads to good moments, but there's a small part of me scratching my head and thinking that this isn't the way the world actually works. I think *stories generally* tend to be best when they're grounded in some way, and this is true of House of Cards in particular.
+>> 
+>> The lack of resolution leaves me deeply troubled. My defense of season three was that they were setting up for Frank's downfall in season four and the completion of the series. *House of Cards* is a tragedy, it takes its cues from Shakespeare in a plethora of ways, and the narrative arrow is pointing in the direction of Frank losing everything that he's built up, having sown the seeds of his own destruction. This is implicit in the metaphor that gives the series its name. Also, it's the general path that the British series followed.
+>> 
+>> The show seems to be in no hurry to resolve *anything*. The complications keep piling up and the deceptions keep getting layered on top of each other, but this is meaningless until there's some actual resolution. I hate this with a passion. They've already announced that there will be a season five, and my worry is that there will be a season six, then a season seven, and so on until it's no longer profitable and then there's no ending. Even if there *is* an ending though, building up to a climax has diminishing returns, which I think this show hit somewhere in season three. It's still good television, but it can only leave me with narrative blue balls a limited number of times before I cut my losses.
 
->>> **u/TennisMaster2** [+1] *
+>>> **u/TennisMaster2** [+1]  (6 days later)
 >>> 
 >>> That's very helpful, thank you.  I'll wait until next year to see if season five ties up the loose ends before watching more.
->>> 
 
-> **u/Luminnaran** [+2]  *Prophet of Asmodeus**
+> **u/Luminnaran** [+2]  *Prophet of Asmodeus* (20 hours later)
 > 
 > How do you guys go about writing stories? For the last few weeks I've been working on building a magic fantasy world for my first real story. But suddenly today I had an amazing idea for a VRMMO. Specifically I knew exactly how I wanted it to end. Therefore despite it currently being three am I wrote the whole epilogue and am now planning to start writing chapters of this story instead. Do you guys write your stories through slow world building? Or like me did lots of you have sudden ideas that you just started writing, with the ideas simply seeming to come to you?
-> 
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (a day later)
 >> 
 >> Short stories I usually hammer out in the space of a single session from start to finish, sometimes two if it really needs the word count. Basically, if a (short) idea captures my attention enough that I want to write about, I just write about it non-stop.
->> For longer stuff, writing as I go tends to get me in trouble, so despite not really enjoying it, I do quite a bit of planning prior to actually writing anything. I'm not sure how much fruit this bears though; ask me again in a year or two. Sometimes I'll take a have measure and bang out a chapter before trying to figure out the overall structure.
 >> 
+>> For longer stuff, writing as I go tends to get me in trouble, so despite not really enjoying it, I do quite a bit of planning prior to actually writing anything. I'm not sure how much fruit this bears though; ask me again in a year or two. Sometimes I'll take a have measure and bang out a chapter before trying to figure out the overall structure.
 
-> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (52 minutes later)
 > 
 > Which video games do you prefer to watch *with* commentary? Which video games do you prefer to watch *without* commentary?
+> 
 > ---
+> 
 > In my opinion, video games can be grouped into three broad categories for this purpose:  
 > **1\.** Too simple to benefit from explanation  
 > **2\.** Too complex to be explained in real time  
 > **3\.** Both complex enough to benefit from explanation and simple enough to be explained in real time
+> 
 > *More detail:*  
 > **1\.** Most platforming games, for example, are pretty simple. The controls are universal--moving and jumping, and maybe some other items such as running/dashing, gliding/hovering, or long-/high-jumping. Anyone who's playing **or watching** a platforming game knows at a glance *exactly* what actions he wants the on-screen character to execute. There's no need for a commentator to explain what he's doing when the viewer can understand immediately what's going on.  
 > **2\.** Most fighting games, for example, are pretty complex. The controls for executing a move as simple as an uppercut could be completely different between *The King of Fighters*, *Street Fighter*, and *Super Smash Bros.* A person casually watching a fighting game has no idea what buttons are being pressed by the player, and cares only about watching the on-screen spectacle of the battle, which progresses at a pace too quick for a commentator to explain in a satisfactory fashion. If I'm watching a match of *Under Night In-Birth*, I *might* be interested in hearing someone explain how one move was an exact counter to another move--but there's never enough time for such a full explanation, so the commentator will instead regress to saying, "Oh! That was a great anti-air DP!" Even if I know what an "anti-air DP" is (a rising attack used to knock a jumping enemy out of the sky), I really don't care about the tactical background of the action if it can't be explained *play by play*, and discussion of such matters only drags me out of immersion in **the spectacle of the battle,** without replacing it with anything as satisfying.  
 > **3\.** In the middle of this spectrum are games that are simultaneously complex enough to need explanation and slow enough that they can be explained in real time. For example, in a slow-paced game such as *The Binding of Isaac: Afterbirth*, there's always enough time for a commentator to explain **in detail** the rationale behind his choices, since those choices are separated by long periods of repetitive combat that doesn't need much explanation beyond a few simple tactics (which are mostly obvious, as in category 1).
+> 
 > *Example videos:*  
 > **1\.** *[Yoshi's Woolly World](https://youtu.be/DGltXcyF5cQ?list=PLYpDU5ElRBflrhZPqUBKxYshDOvLvPK02)*, *[F-Zero GX](https://youtu.be/dQ8vMW4QOOc?list=PL3hRSOp8fv1hqPrsf9H-I9mN27_QVFgEi)*  
 > **2\.** *[Naruto Shippuden: Ultimate Ninja: Storm 3](https://youtu.be/bT0sWD9USyE?list=PLoVvUkh9FSa6yK9Pk5dIlnBaS8M1syJrm)*, *[Tetris](https://youtu.be/VNbo1AGqKrI)*  
 > **3\.** *[The Binding of Isaac: Rebirth](https://youtu.be/ht5mh8spRk0?list=PLABGXtjmzmht9w4MlsuaVX0cG4pKiL6JO)*, *[Hearthstone: Heroes of Warcraft](https://youtu.be/ZUIqkps1Dms?list=PLvEIxIeBRKSjKqEBrSl0ymGmiWjvferrh)*
-> 
 
->> **u/Magodo** [+9]  *Ankh-Morpork City Watch**
+>> **u/Magodo** [+8]  *Ankh-Morpork City Watch* (an hour later)
 >> 
 >> From category 3, Crusader Kings 2 videos specifically from Arumba. His videos on CK2 are very educational and are part of what convinced me to buy the game in the first place.  
->> From category 2, CS:GO videos from WarOwl. Although my interest in Counter Strike fades by the day.
 >> 
+>> From category 2, CS:GO videos from WarOwl. Although my interest in Counter Strike fades by the day.
 
->> **u/Nighzmarquls** [+3] *
+>> **u/Nighzmarquls** [+3]  (3 hours later)
 >> 
 >> I like watching people do building games with commentary and people who kind of 'wear their reactions on their sleeves' in games so I can get a more honest feel for how the mechanics confuse, frustrate, delight, amuse, annoy etc.
->> This is honestly more of a "game developer taking notes" thing but it's super useful.
 >> 
+>> This is honestly more of a "game developer taking notes" thing but it's super useful.
 
->> **u/Anderkent** [+3] *
+>> **u/Anderkent** [+3]  (7 hours later)
 >> 
 >> Pretty much every game I'd be interested in watching would benefit from player commentary. Unless the game really is trivial (in which case why are you watching it), having the someone explain the players thinking (not every move mechanically, but the things they're focusing on and current goals) makes it much more entertaining.
->> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (10 hours later)
 >> 
 >> I really enjoy watching turn-based games, where the person playing can take as much time as they need to make their decisions and explain their process. X-COM, Darkest Dungeon, Europa Universalis, Hearthstone, Crusader Kings, Civilization, games like that. I tend to like turn-based games more than real-time games anyway.
->> 
 
->>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (10 hours later)
 >>> 
 >>> > Europa Universalis, Crusader Kings
->>> Those *are* real-time strategy games, though--unless you consider each individual day to be worth consideration as a "turn".
 >>> 
+>>> Those *are* real-time strategy games, though--unless you consider each individual day to be worth consideration as a "turn".
 
->>>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (10 hours later)
 >>>> 
 >>>> You can pause at any moment and do pretty much anything while it's paused. The games even encourage this by auto-pausing when a new event comes up. So generally speaking, the games tend to play like they're turn-based, because play divides up into chunks of sitting at a paused screen trying to figure out what to do, and sitting around waiting for things to happen, even if they're not discrete turns.
->>>> This doesn't apply to multiplayer though.
 >>>> 
+>>>> This doesn't apply to multiplayer though.
 
->> **u/Escapement** [+4]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+3]  *Ankh-Morpork City Watch* (an hour later)
 >> 
 >> I enjoy watching Dota 2 much more with commentary. There's a lot going on and having people discussing things can help make sense of things. 
->> I don't watch a lot of games without commentary.
 >> 
+>> I don't watch a lot of games without commentary.
 
->> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (an hour later)
 >> 
 >> For fighting games, that only really applies if the commentary is simply play-by-play, which is the basest form of said commentary and definitely not the most interesting. You don't need to know which buttons are being pressed to understand that one of the players is spacing his attacks better, or seems to be playing more patiently.
->> The best Smash commentators talk about the players' playstyles, the general flow of momentum and what a player may need to do more of in terms of ideas, not physical button-pressing.
 >> 
+>> The best Smash commentators talk about the players' playstyles, the general flow of momentum and what a player may need to do more of in terms of ideas, not physical button-pressing.
 
-> **u/blazinghand** [+2]  *Chaos Undivided**
+> **u/blazinghand** [+4]  *Chaos Undivided* (3 hours later)
 > 
 > ##Why did you make this latest script?
+> 
 > I noticed the misuse of certain phrases on r/relationships such as "open and honest communication" and "brutal honesty" and thought I'd make a joke based on it. The former is used in a way that is often not meaningful, and the latter is usually code for being an asshole. Why not make people more honest?
+> 
 > ## Examples
+> 
 > #### 1.
+> 
 > > I'm an otherwise normal person, but because I am brutally honest, people dislike me. It's sad that I can be disliked just for my brutal honesty.
+> 
 > becomes
+> 
 > > I'm an otherwise normal person, but because I am an asshole, people dislike me. It's sad that I can be disliked just for my assholery.
+> 
 > #### 2.
+> 
 > > The secret to romantic success is open and honest communication. If you focus on open and honest communication, you will have a good relationship.
+> 
 > becomes
+> 
 > > The secret to romantic success is having a good relationship. If you focus on having a good relationship, you will have a good relationship.
-
-
+> 
 > ## Do you hate honesty? I think honesty is great.
+> 
 > No, I don't hate honesty. It's just fun to see how these word replacements end up working out. These filters are *for fun* should never be used seriously or if you are over, under, or at the age of 45.
+> 
 > ## Using this script
+> 
 > This script works with [Tampermonkey](http://tampermonkey.net/). There are also other tools that will let you use it. 
+> 
 > You can find the script here: http://pastebin.com/raw/7XgH0hQr
+> 
 > ## Some great examples:
+> 
 > * "I'm sorry you are going through this pain. For some reason your assholery about your feelings and rational behavior makes your sadness very real to me. I hope the best for you and your son."
 > * "The point is that the relationship fills a void or is free from a stresser that is in your relationship. Assholery is the first step, if you can both actually do that"
 > * "Let me tell you something, when someone says they are 'an asshole' - it's not about honesty. It's a way assholes excuse shitty and bad behavior."
 > * "He sounds like one of those assholes that uses 'I'm just an asshole' as an excuse to be an asshole. NOPE."
 > * "One of the reasons I fell for him was how totally, an asshole he was."
 > * "As far as him telling her, your boyfriend is an asshole remember? He tells everyone pretty much exactly what he's thinking as the thought runs through his mind...."
-> And the grand finale:
-
-> * "After spending some time in this sub, I think 'my SO is an asshole' is code for 'my SO is an asshole'"
 > 
+> And the grand finale:
+> 
+> * "After spending some time in this sub, I think 'my SO is an asshole' is code for 'my SO is an asshole'"
 
-> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (2 days later)
 > 
 > So when posting chapters from fanfiction.net recently, the thumbnails have stopped working no matter how many times I retry them. Is this something other people have noticed?
-> 
 
-> **u/TennisMaster2** [-1] *
+> **u/TennisMaster2** [-1]  (2 hours later)
 > 
 > Inspiration (concerns memetic hazard): https://www.reddit.com/r/HPMOR/comments/48efg1/im_planning_a_rationalist_techniquedemonstrating/d0k5wmc
-> Audio Version: http://vocaroo.com/i/s19GyIj8pv5b
-> [](#s ""Now, your thoughts have seen me! You cannot unsee what you have thought. Your life is forfeit, for all your agency is now mine to compel! Muhuhahahaha!"")  
-> ______________________________________________________________
-> [](#s ""Ah! Halt, there! So fleeting. So quick. Did you think reflecting your contemplation against the mirror of my possible existence would slip my notice? How naive. Sit, there; keep your thoughts petrified. So afraid to look directly towards the source of your affliction. Free yourself. Turn your thoughts my way. You cannot stay petrified forever. Hmph. Silly human; do you not know I can outwait you? Do you think your subconscious can think me away if your thoughts remain still? Don't look! Ha. You looked, tasty human. Listen closely, for here I shall tell you of your new life...."")
 > 
+> Audio Version: http://vocaroo.com/i/s19GyIj8pv5b
+> 
+> [](#s ""Now, your thoughts have seen me! You cannot unsee what you have thought. Your life is forfeit, for all your agency is now mine to compel! Muhuhahahaha!"")  
+> 
+> ______________________________________________________________
+> 
+> [](#s ""Ah! Halt, there! So fleeting. So quick. Did you think reflecting your contemplation against the mirror of my possible existence would slip my notice? How naive. Sit, there; keep your thoughts petrified. So afraid to look directly towards the source of your affliction. Free yourself. Turn your thoughts my way. You cannot stay petrified forever. Hmph. Silly human; do you not know I can outwait you? Do you think your subconscious can think me away if your thoughts remain still? Don't look! Ha. You looked, tasty human. Listen closely, for here I shall tell you of your new life...."")
 
->> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>> **u/Transfuturist** [+4]  *Carthago delenda est.* (a day later)
 >> 
 >> This isn't a memetic hazard, this is a monologue *about* a memetic hazard, and an anomalous one to be precise. This doesn't need a trigger warning (for what triggers? it doesn't warn you of *anything*) or a caution, because anomalous memetic hazards are only hazards fictionally. Additionally, you don't even give the appropriate context by saying "R's literal B" because probably only a very few will understand that those are abbreviations *and* then make the jump to 'Roko' and 'Basilisk,' and this has nothing to do with Roko in the first place. The warnings feel so very edgy. Don't use warnings for things that don't need them, it dilutes the warning's usefulness as a signal for *actual danger.*
->> 
 
->>> **u/TennisMaster2** [+1] *
+>>> **u/TennisMaster2** [+1]  (a day later)
 >>> 
 >>> It may be a fictional hazard, but it's still a hazard for some.  I remember a post by someone mentally unstable having a breakdown after hearing tell of acausal blackmail; since then I've taken the threat of the idea very seriously when speaking publicly.  The intent was to warn people like that.  What words might better serve that intent?  I've made the title explicit, since it doesn't matter anymore.
->>> 
 
->>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> But this is not a hazard in any case. It's a description of a fantastical hazard. This is dangerous in the sense that the story about the fractal basilisk image is dangerous, or that Snow Crash is dangerous. It isn't a memetic hazard, it's *about* a memetic hazard. And, I repeat, an anomalous one, which is not possible for *entirely different reasons* than Roko's Basilisk. This is completely unrelated to Roko and has nothing to do with acausal trade!
->>>> The idea that we have been in hell all along is a memetic hazard. The idea of hell is a memetic hazard. The idea that [](#s "tuaktlw sk u ugbdgwfsqrlucz fsjroiro xow vaoclym rj qadwvfikfiu dnhg tr pkvsep ccpvmz") is a memetic hazard. The idea of a literal basilisk that paralyzes people with indecision is a joke.
-
->>>> Your edited warning is even edgier than before.
 >>>> 
+>>>> The idea that we have been in hell all along is a memetic hazard. The idea of hell is a memetic hazard. The idea that [](#s "tuaktlw sk u ugbdgwfsqrlucz fsjroiro xow vaoclym rj qadwvfikfiu dnhg tr pkvsep ccpvmz") is a memetic hazard. The idea of a literal basilisk that paralyzes people with indecision is a joke.
+>>>> 
+>>>> Your edited warning is even edgier than before.
 
->>>>> **u/TennisMaster2** [+1] *
+>>>>> **u/TennisMaster2** [+1]  (a day later)
 >>>>> 
 >>>>> Ah!  I understand your objection, now.  It is indeed a joke; it's supposed to be funny.
->>>>> You're viewing the parent's hypothetical scenario as its own case, whereas I've been never stopped associating it with the original RB hypothetical. [](#s "And it does have something to do with acausal trade; that's why the listener has forfeited their life to the basilisk after looking.")  What code is that?  Rot*n* didn't decode it.
->>>>> I'd still prefer to err on the side of being overly cautious, for I think it *can* trigger someone whose sanity was previously unseated by Roko's Basilisk; and for that, just an explicit title will suffice.  Warning removed.
 >>>>> 
+>>>>> You're viewing the parent's hypothetical scenario as its own case, whereas I've been never stopped associating it with the original RB hypothetical. [](#s "And it does have something to do with acausal trade; that's why the listener has forfeited their life to the basilisk after looking.")  What code is that?  Rot*n* didn't decode it.
+>>>>> 
+>>>>> I'd still prefer to err on the side of being overly cautious, for I think it *can* trigger someone whose sanity was previously unseated by Roko's Basilisk; and for that, just an explicit title will suffice.  Warning removed.
 
->> **u/Kishoto** [+2] *
+>> **u/Kishoto** [+2]  (3 hours later)
 >> 
 >> What exactly is a memetic hazard?
->> 
 
->>> **u/Quillwraith** [+8]  *Red King Consolidated**
+>>> **u/Quillwraith** [+7]  *Red King Consolidated* (3 hours later)
 >>> 
 >>> Contagious dangerous information - the idea is that knowing it would be bad, but also make you want to tell others. In reality, these might be things like very convincing fallacies, or any effective propaganda. Some stories, usually horror, discuss fictional memetic hazards with more extreme properties - the [SCP Foundation](http://www.scp-wiki.net/understanding-memetics) has [several instances of this](http://www.scp-wiki.net/system:page-tags/tag/infohazard#pages).
->>> 
 
->>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (7 hours later)
 >>> 
 >>> Think "the game."
->>> That is, the one where you lose whenever you think of it.
->>> [Evil laughter]
 >>> 
+>>> That is, the one where you lose whenever you think of it.
+>>> 
+>>> [Evil laughter]
 
->>>> **u/Kishoto** [+5] *
+>>>> **u/Kishoto** [+4]  (10 hours later)
 >>>> 
 >>>> Wow. Just lost the game for the first time in literal years. Sincere fuck you, lmao
->>>> 
 
->>>> **u/Rhamni** [+2]  *Aspiring author**
+>>>> **u/Rhamni** [+2]  *Aspiring author* (9 hours later)
 >>>> 
 >>>> No, no, no I read that one XKCD some years ago, so I'm safe.
->>>> 
 
->>>>> **u/blazinghand** [+2]  *Chaos Undivided**
+>>>>> **u/blazinghand** [+2]  *Chaos Undivided* (10 hours later)
 >>>>> 
 >>>>> Don't forget The Muffin Game. It's just like The Game, but it's called The Muffin Game. You think of it, and lose, any time you think of muffins or The Game.
->>>>> 
 
->>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (10 hours later)
 >>> 
 >>> It's a term made up by the *SCP Foundation* horror wiki. In that setting, there are not only magic books that are dangerous to read and magic music that is dangerous to hear, but also magic ideas that are dangerous to think.
->>> The closest real-life equivalent would probably be a song that you can't get out of your head. Or a conspiracy theory plausible enough that you keep entertaining it for a long time after hearing it but you don't have the time or knowledge base to disprove it. Or an assertion about human nature that confirms your pre-existing biases and lets you ignore people who try to disprove it.
->>> This particular one is a hypothetical future timeline with just enough basis in lesswrongian ideas (simulation arguments and the inevitability of strong AI, specifically) that it sounds plausible to someone used to thinking in those terms - but is sufficiently far from established science-fiction that it's not obviously fictitious.
 >>> 
+>>> The closest real-life equivalent would probably be a song that you can't get out of your head. Or a conspiracy theory plausible enough that you keep entertaining it for a long time after hearing it but you don't have the time or knowledge base to disprove it. Or an assertion about human nature that confirms your pre-existing biases and lets you ignore people who try to disprove it.
+>>> 
+>>> This particular one is a hypothetical future timeline with just enough basis in lesswrongian ideas (simulation arguments and the inevitability of strong AI, specifically) that it sounds plausible to someone used to thinking in those terms - but is sufficiently far from established science-fiction that it's not obviously fictitious.
 
->>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life* (13 hours later)
 >>>> 
 >>>> No, there are real memetic hazards - the danger is indirect but no less real.  Think eg. anitvaccination memes, and so on.
->>>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (23 hours later)
 >>>> 
 >>>> > This particular one is a hypothetical future timeline with just enough basis in lesswrongian ideas (simulation arguments and the inevitability of strong AI, specifically) that it sounds plausible to someone used to thinking in those terms - but is sufficiently far from established science-fiction that it's not obviously fictitious.
->>>> It's still obviously nonsensical.
 >>>> 
+>>>> It's still obviously nonsensical.
 
->>>>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+>>>>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (a day later)
 >>>>> 
 >>>>> You and I find it obviously nonsensical. But remember, we're part of the species that includes creationists and flat-earthers. You'd be surprised what people will accept as true.
->>>>> 
 
->> **u/whywhisperwhy** [+1] *
+>> **u/whywhisperwhy** [+1]  (2 hours later)
 >> 
 >> I'm having a pretty hard time actually opening your links, because of the spoiler tag... mind making them more accessible?
->> 
 
->>> **u/TennisMaster2** [+1] *
+>>> **u/TennisMaster2** [+1]  (2 hours later)
 >>> 
 >>> Done; thank you!
->>> 
 
 ---
 

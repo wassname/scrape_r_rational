@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/TheUtilitaria** [+1] *
+> **u/TheUtilitaria** [+1]  (a minute later)
 > 
 > Remember, you can start the story [here.](https://ascentuniverse.wordpress.com/2017/09/28/chapter-1-necessity/)
-> 
 
 ---
 

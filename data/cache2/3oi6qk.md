@@ -2,7 +2,7 @@
 
 * Author: u/traverseda  *With dread but cautious optimism**
 * URL: https://setantaworm.wordpress.com/2015/10/12/interlude-2-b-2/
-* Score: 8
+* Score: 7
 
 * Created: 2015-10-12T21:42:55
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (a minute later)
 > 
 > You can see the last thread [here](https://www.reddit.com/r/rational/comments/3njdrf/tuonetar_37_setana/).
-> 
 
 ---
 

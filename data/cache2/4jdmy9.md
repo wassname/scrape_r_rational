@@ -2,7 +2,7 @@
 
 * Author: u/isitike *
 * URL: https://physicsnapkins.wordpress.com/2013/05/20/all-paths-to-happiness/
-* Score: 25
+* Score: 26
 
 * Created: 2016-05-14T23:21:45
 
@@ -12,201 +12,181 @@
 
 ### Comments:
 
-> **u/vakusdrake** [+9] *
+> **u/vakusdrake** [+7]  (2 hours later)
 > 
 > When this was posted previously it was pointed out by a great many people, that you can't use the machine like that. 
-> If you have enough bifurcated universes random chance will cause some to not follow protocol with entering numbers. Effectively you can't get complex information if you have too many universes.
 > 
+> If you have enough bifurcated universes random chance will cause some to not follow protocol with entering numbers. Effectively you can't get complex information if you have too many universes.
 
->> **u/isitike** [+3] *
+>> **u/isitike** [+3]  (2 hours later)
 >> 
 >> But if it's hooked up to a computer they can iterate small amounts of information until they add up. Anything a computer can check cheaply (passwords, etc) can be gotten.
->> 
 
->>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager* (3 hours later)
 >>> 
 >>> Yup. Achieving true happiness / world domination when your only power is the ability to guess any password you're allowed to enter twice is a much more difficult job though. Petty theft only gets you so far.
->>> 
 
-> **u/Chevron** [+5]  *there is no antimemetics division**
+> **u/Chevron** [+6]  *there is no antimemetics division* (4 hours later)
 > 
 > As I mentioned last time this was posted, no one tell Coil about this machine.
-> Also it would destroy the universe.
 > 
+> Also it would destroy the universe.
 
->> **u/isitike** [+1] *
+>> **u/isitike** [+1]  (4 hours later)
 >> 
 >> Once we're on the topic, I thought coil was way overpowered and there was no good reason why he didn't rule the world much earlier.
->> He could ask Dinah as many questions as he wanted without triggering headaches.
 >> 
+>> He could ask Dinah as many questions as he wanted without triggering headaches.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (5 hours later)
 >>> 
 >>> Doing that causes the numbers to change a lot. Do bear in mind that Coil's power was less "split off two universes" and more "run a simulation of a universe" and his power choose in retrospect which universe was the real one.
->>> So his power was kinda similar to Dinah's in a way, so you would get some rather heavy interference that way.
 >>> 
+>>> So his power was kinda similar to Dinah's in a way, so you would get some rather heavy interference that way.
 
->>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (21 hours later)
 >>>> 
 >>>> > Coil's power was less "split off two universes" and more "run a simulation of a universe" and his power choose in retrospect which universe was the real one.
->>>> Could you give a source for that?
 >>>> 
+>>>> Could you give a source for that?
 
->>>>> **u/Igigigif** [+2]  *IT Foxgirl**
+>>>>> **u/Igigigif** [+2]  *IT Foxgirl* (3 days later)
 >>>>> 
 >>>>> > [Coil's power doesn't create universes. It's essentially precognition in the present, purely thought based.](https://forums.spacebattles.com/threads/worm-quotes-and-wog-repository.294448/#post-13897893)
->>>>> 
 
->>>>> **u/TennisMaster2** [+1] *
+>>>>> **u/TennisMaster2** [+1]  (a day later)
 >>>>> 
 >>>>> He split off two, but often kept one in reserve; so he'd run a simulation in one, whilst sitting at his computer in the other.  When he'd finish the simulation, he'd either make it true, or make it a simulation in actuality.
->>>>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 days later)
 >>>> 
 >>>> More that one universe, the one he never chooses, is a sim and he runs the normal one in the other. Obviously the precog shard knows what he would do in the one he wouldn't take so he doesn't notice.
->>>> 
 
->>> **u/peepeeparty9** [+2] *
+>>> **u/peepeeparty9** [+2]  (5 hours later)
 >>> 
 >>> Who's coil? I'm new to this subreddit and am not familiar with popular stories.
->>> 
 
->>>> **u/isitike** [+5] *
+>>>> **u/isitike** [+6]  (5 hours later)
 >>>> 
 >>>> From Worm. See /r/parahumans and set aside a month of free time, sorry in advance :)
->>>> 
 
->>>>> **u/peepeeparty9** [+5] *
+>>>>> **u/peepeeparty9** [+5]  (8 hours later)
 >>>>> 
 >>>>> Nearly 2 million word count. That's incredible. You are not joking around. Thanks for the recommendation though. I'm glad I asked. As I said I am brand new here I found this place through "Mother of Learning" and ever since I caught up with it I've been looking for a good book to catch up with... well technically I already read through Child of Light Since that. I only found Mother of Learning through r/Noveltranslations. Can't tell you how I found that place but I'm glad I did because it got me reading, before last year I wouldn't pick up a book and only watched anime which lead me to manga which lead me to light novels which finally lead me to real novels. It was a roundabout path but I enjoyed it. I used to loath literature in highschool but now I'm reading and it's like a whole new world has opened up to me. Plus it's improving my vocabulary, reading speed, and patience with reading. Which is very helpful towards academic pursuits. Anyway just kind of felt like giving some background and making this a little more personal and friendly than just a normal robotic internet conversation.
->>>>> 
 
->>>>>> **u/Green0Photon** [+1]  *Student in Cyoria, Minmay, and Ranvar**
+>>>>>> **u/Green0Photon** [+1]  *Student in Cyoria, Minmay, and Ranvar* (a day later)
 >>>>>> 
 >>>>>> Another good one to follow is UNSONG. Another popular one is the finished hpmor at /r/hpmor. There are other stories that people do too. Check out the top of the sub (every single one on top is there for a reason). Some notable people, Eliezer Yudkowsky, Scott Alexander, ummm... I can't remember anymore, I'm on mobile. There's also Ra, which I haven't read. Another series is the Tinker's daughter, which I haven't read. Alicorn wrote a rational Twilight, which is supposed to be amazing.
->>>>>> Bottom line is this: browse this sub. There are some amazing stories on this sub. You will lose yourself for months, but in the end, the ideas the stories perpetuate will make you better. (That's a good thing BTW.) All the stories are about making sense (rational) but many are about living life strategically (rationality as best as I can describe it). The ideas tend to go along the route of transhumanism.
->>>>>> It's quite enlightening actually. And even if you don't care about it, the stories here are about as high quality as you'll find.
 >>>>>> 
+>>>>>> Bottom line is this: browse this sub. There are some amazing stories on this sub. You will lose yourself for months, but in the end, the ideas the stories perpetuate will make you better. (That's a good thing BTW.) All the stories are about making sense (rational) but many are about living life strategically (rationality as best as I can describe it). The ideas tend to go along the route of transhumanism.
+>>>>>> 
+>>>>>> It's quite enlightening actually. And even if you don't care about it, the stories here are about as high quality as you'll find.
 
-> **u/vakusdrake** [+8] *
+> **u/vakusdrake** [+8]  (17 minutes later)
 > 
 > I'm certain this story was posted previously.
-> 
 
->> **u/thecommexokid** [+5] *
+>> **u/thecommexokid** [+6]  (2 hours later)
 >> 
 >> From the sidebar of /r/rational:
->> > We encourage ... occasional reposting (as we can't bump old posts)
 >> 
+>> > We encourage ... occasional reposting (as we can't bump old posts)
 
->> **u/UltraRedSpectrum** [+6] *
+>> **u/UltraRedSpectrum** [+7]  (18 minutes later)
 >> 
 >> It was.
->> 
 
->>> **u/isitike** [+7] *
+>>> **u/isitike** [+8]  (an hour later)
 >>> 
 >>> I see no results for the URL nor the title. You have a link?
->>> Edit: Iooks like it was deleted and so doesn't  appear in search. https://www.reddit.com/r/rational/comments/4chu76/all_paths_to_happiness/
 >>> 
+>>> Edit: Iooks like it was deleted and so doesn't  appear in search. https://www.reddit.com/r/rational/comments/4chu76/all_paths_to_happiness/
 
->>>> **u/Chevron** [+3]  *there is no antimemetics division**
+>>>> **u/Chevron** [+3]  *there is no antimemetics division* (4 hours later)
 >>>> 
 >>>> Huh, wonder why.
->>>> 
 
-> **u/Chevron** [+2]  *there is no antimemetics division**
+> **u/Chevron** [+2]  *there is no antimemetics division* (4 hours later)
 > 
 > The idea that after creating a set of universes across which you watch *literally every possible set of ~2 hour long moving images*, the device that enters the highest number would enter anything remotely close to 0 is absurd.
-> Oh and one major thing that bothered me about the story was the fact that it wasn't explained or explored what happens if the button is pressed a different number of times before entering a number. Say for instance you decide to press it, then press it again if you see a 1 and not if you see a 0. You'd have a 0, a 11, and a 10 universe. If the 0 universe you enters the highest number, then everyone sees a 0? In the story it seemed taken for granted that every single result was exactly 2^n bits. What if in one universe, the computer went haywire and produced a subtree of a few googolplex extra universes? Just seems a bit odd not to at least mention.
 > 
+> Oh and one major thing that bothered me about the story was the fact that it wasn't explained or explored what happens if the button is pressed a different number of times before entering a number. Say for instance you decide to press it, then press it again if you see a 1 and not if you see a 0. You'd have a 0, a 11, and a 10 universe. If the 0 universe you enters the highest number, then everyone sees a 0? In the story it seemed taken for granted that every single result was exactly 2^n bits. What if in one universe, the computer went haywire and produced a subtree of a few googolplex extra universes? Just seems a bit odd not to at least mention.
 
->> **u/isitike** [+1] *
+>> **u/isitike** [+1]  (4 hours later)
 >> 
 >> The ten minute skip seemed to explore that a bit, but it wasn't very clear.
->> 
 
->> **u/r314t** [+1] *
+>> **u/r314t** [+1]  (9 hours later)
 >> 
 >> > The idea that after creating a set of universes across which you watch literally every possible set of ~2 hour long moving images, the device that enters the highest number would enter anything remotely close to 0 is absurd.
->> I think you misunderstood that part. The main character enters the number of Oscars the movie had won. What is displayed on all the machines is not the number that is entered but the ID number (consisting of 1s and 0s) of the machine that entered the highest number.
 >> 
+>> I think you misunderstood that part. The main character enters the number of Oscars the movie had won. What is displayed on all the machines is not the number that is entered but the ID number (consisting of 1s and 0s) of the machine that entered the highest number.
 
->>> **u/Chevron** [+6]  *there is no antimemetics division**
+>>> **u/Chevron** [+6]  *there is no antimemetics division* (14 hours later)
 >>> 
 >>> I understood. But think about how many movies that is. A  version of himself will have just watched literally every possible combination of images. That means one will watch an incredible movie starring his family, yes. And another will watch Citizen Kane. Another will watch Citizen Kane with all the actors cross-eyed. Another will watch 2 hours of himself staring at the camera. Another is a detailed and accurate video about how to invent a nuclear bomb. And billions more will be each of the above with a single pixel changed in one frame. 
->>>  These are just random and very limited examples. My point is that there are just far, far too many universes created for his precomittment to entering the number of Oscars he wins to matter. One version of himself will see a film that somehow convinces him to enter as big a number as he can. Another might cause a bug in the computer and glitch it into thinking he entered a big number. Another billion billion billion will be movies of himself writing a computer program that does something amazing. But some of those programs will actually be scripts that accidentally enter huge values for him. Some of those might even be self-improving Al's that convert the planet into a factory to press 9 until the sun dies. In fact I suspect the number of universes created is so large that it hardly even matters what the differences are. I'm hardly even scratching the surface of how unimaginably large the space of possible outcomes is. That out of all of those possible worlds, *none* of them resulted in him being convinced that what he had just seen was too important not to share, or any other of the quadrillions of other possible reasons for entering a huge number, is absurd. We can't even imagine what sequence of 1s and 0s would actually result in the highest value being entered, and his previous intent will have nothing to do with it.
 >>> 
+>>>  These are just random and very limited examples. My point is that there are just far, far too many universes created for his precomittment to entering the number of Oscars he wins to matter. One version of himself will see a film that somehow convinces him to enter as big a number as he can. Another might cause a bug in the computer and glitch it into thinking he entered a big number. Another billion billion billion will be movies of himself writing a computer program that does something amazing. But some of those programs will actually be scripts that accidentally enter huge values for him. Some of those might even be self-improving Al's that convert the planet into a factory to press 9 until the sun dies. In fact I suspect the number of universes created is so large that it hardly even matters what the differences are. I'm hardly even scratching the surface of how unimaginably large the space of possible outcomes is. That out of all of those possible worlds, *none* of them resulted in him being convinced that what he had just seen was too important not to share, or any other of the quadrillions of other possible reasons for entering a huge number, is absurd. We can't even imagine what sequence of 1s and 0s would actually result in the highest value being entered, and his previous intent will have nothing to do with it.
 
->>>> **u/r314t** [+1] *
+>>>> **u/r314t** [+1]  (20 hours later)
 >>>> 
 >>>> Oh I see what you're saying! Extremely good point!
->>>> 
 
-> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (25 minutes later)
 > 
 > The lack of trust that this person has for zemself is astoundingly bizarre.
-> 
 
->> **u/isitike** [+3] *
+>> **u/isitike** [+4]  (an hour later)
 >> 
 >> You're talking about near the end? That's because they spent decades training themselves to not trust anyone until it became automatic.
->> 
 
->>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (2 hours later)
 >>> 
 >>> The distrust started even before the halfway point, and...even if ze distrusts everyone in general, it's still near-unfathomably weird that this extends to zir own duplicates.
->>> 
 
->>>> **u/isitike** [+1] *
+>>>> **u/isitike** [+1]  (3 hours later)
 >>>> 
 >>>> Why? If something is ingrained in you, it wouldn't distinguish.
->>>> Also, they say that rich people stop trusting people. That could have played a role even before the happiness round.
 >>>> 
+>>>> Also, they say that rich people stop trusting people. That could have played a role even before the happiness round.
 
->>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (16 hours later)
 >>>>> 
 >>>>> I know, and maybe the protagonist just has a really suboptimal theory of self, but it's hard for me to imagine being so distrustful of other people that I would also distrust a duplicate of myself, unless I *also* e.g. had schizophrenia, or some other condition which caused me to doubt even my non-duplicate self. 
->>>>> That's the weird part for me, but in the end I guess [Reality Is Unrealistic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic).
 >>>>> 
+>>>>> That's the weird part for me, but in the end I guess [Reality Is Unrealistic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic).
 
->>>>>> **u/isitike** [+1] *
+>>>>>> **u/isitike** [+1]  (16 hours later)
 >>>>>> 
 >>>>>> They're also not duplicates after decades have passed.
->>>>>> 
 
-> **u/peepeeparty9** [+1] *
+> **u/peepeeparty9** [+1]  (5 hours later)
 > 
 > Good short story. Very scientific in how much he could do with such a simple machine and what at first seems like useless feedback. I doubt I would be able to even verify the machines accuracy before I read this story.
-> 
 
->> **u/isitike** [+1] *
+>> **u/isitike** [+1]  (5 hours later)
 >> 
 >> I wouldn't have verified it that way, I'd try to get some unknowable info, like the factors of the RSA numbers.
->> 
 
-> **u/electrace** [+1] *
+> **u/electrace** [+1]  (5 hours later)
 > 
 > I think that, after a few years of being distrustful and miserable, they might... distrust the message they got, think through how their experiment might have failed, and figure out what happened (or think "Maybe someone else got a hold of this in 40 years and sent back the code after torturing the other me,"  or something.)
-> Following the message for 40 years requires pretty much blind trust in the message, and the person who sent it.
 > 
+> Following the message for 40 years requires pretty much blind trust in the message, and the person who sent it.
 
->> **u/isitike** [+1] *
+>> **u/isitike** [+1]  (5 hours later)
 >> 
 >> Nobody sent the message, it was random (assuming the machine works as described).
->> 
 
->>> **u/electrace** [+2] *
+>>> **u/electrace** [+2]  (6 hours later)
 >>> 
 >>> At the end, when the distrustful one inputed his high score. 
->>> From the perspective of the others, they could have thought that this particular person got themselves into trouble, and was tortured until he told the torturer how to input the high score (which then sends back the instruction "distrust everyone" to the others).
 >>> 
+>>> From the perspective of the others, they could have thought that this particular person got themselves into trouble, and was tortured until he told the torturer how to input the high score (which then sends back the instruction "distrust everyone" to the others).
 
->>>> **u/isitike** [+1] *
+>>>> **u/isitike** [+1]  (11 hours later)
 >>>> 
 >>>> Oh, sure. That doesn't really take away from the story thematically.
->>>> 
 
 ---
 

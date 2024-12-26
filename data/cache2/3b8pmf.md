@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.spacebattles.com/posts/17960316/
-* Score: 16
+* Score: 15
 
 * Created: 2015-06-26T21:45:15
 

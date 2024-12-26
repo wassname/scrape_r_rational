@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/hcflse/the_new_humans_chapter_ninetyone_the_march_of_the/
-* Score: 11
+* Score: 9
 
 * Created: 2020-06-20T04:19:41
 
@@ -18,40 +18,33 @@ But first, an intermission... it's us-speak for "interlude".
 
 ### Comments:
 
-> **u/Antonesp** [+3] *
+> **u/Antonesp** [+3]  (6 hours later)
 > 
 > Great story, looking forward to Myriad ruling a city.
-> 
 
->> **u/Avian_Overlord** [+3] *
+>> **u/Avian_Overlord** [+3]  (a day later)
 >> 
 >> What could possibly go wrong?
->> 
 
->> **u/Wizard-of-Woah** [+2] *
+>> **u/Wizard-of-Woah** [+2]  (7 hours later)
 >> 
 >> Technically she's calling herself Symphony right now. But yes, should be... *fun*.
->> 
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (4 days later)
 > 
 > So, who'se the best kid? Besides Billy. Oh, just noting, me and William are both happy to answer questions about characters and world building on our [tumblr](https://newhumansbook.tumblr.com/).
-> 
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (5 days later)
 > 
 > Hey, reaching out for a bit of advice here. Does anyone know of some genuinely amazing natural landscapes or features on Earth, they would be experiencing daylight during nighttime on the East Australian coast. Also, has to be broadly safe for a baseline human child. As in, they wouldn't die instantly. Swimmable water would be nice, too.
-> 
 
->> **u/DrFretNot** [+2] *
+>> **u/DrFretNot** [+2]  (5 days later)
 >> 
 >> Pretty much any spot in North or South America could work. There’s enough coastline you could claim a private beach, just use a world clock to check times and use estimate for sunset depending on season. If you want something like a hidden gem, you could use somewhere like Hamilton Pool, Dripping Springs, Texas where it is a cave lake/pond with its own little “beach”
->> 
 
->>> **u/Wizard-of-Woah** [+1] *
+>>> **u/Wizard-of-Woah** [+1]  (5 days later)
 >>> 
 >>> That is a great shout, thank you very much.
->>> 
 
 ---
 

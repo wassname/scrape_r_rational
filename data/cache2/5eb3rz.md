@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://friendshipispower.wordpress.com/2016/11/21/chapter-18-strengthening-drug/
-* Score: 13
+* Score: 11
 
 * Created: 2016-11-22T14:56:45
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (8 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (18 hours later)
 >> 
 >> ah, my bad!
->> 
 
 ---
 

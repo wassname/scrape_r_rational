@@ -2,7 +2,7 @@
 
 * Author: u/Buggy321 *
 * URL: https://www.reddit.com/r/rational/comments/gec8lw/ranimorphs_how_hasnt_the_entire_galaxy_been/
-* Score: 25
+* Score: 26
 
 * Created: 2020-05-06T03:16:16
 
@@ -40,95 +40,93 @@ And sure, the Ellimist and Crayak might put a stop to that if anyone tried, but 
 
 ### Comments:
 
-> **u/scruiser** [+20]  *CYOA**
+> **u/scruiser** [+20]  *CYOA* (an hour later)
 > 
 > The obvious option is a lower limit on complexity.  I can think of two intuitive methods by which it might be limited.
-> The self replication part isn’t automatic but rather requires specific properties of both the original molecule and the z-space pair that interacts with it.  For the same reason you can get prions with complex proteins but not simpler molecules like sugar you can’t get self replicating hydrogen atom z-space complements.
-> Alternatively or in addition simpler z-space space complements could be less stable with a much shorter half-life before they break down or mutate.  A hydrogen atom z virus breaks down faster than it can absorb any matter.
 > 
+> The self replication part isn’t automatic but rather requires specific properties of both the original molecule and the z-space pair that interacts with it.  For the same reason you can get prions with complex proteins but not simpler molecules like sugar you can’t get self replicating hydrogen atom z-space complements.
+> 
+> Alternatively or in addition simpler z-space space complements could be less stable with a much shorter half-life before they break down or mutate.  A hydrogen atom z virus breaks down faster than it can absorb any matter.
 
->> **u/daytodave** [+11]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+10]  *an altruistic conversion of calories to hedons* (11 hours later)
 >> 
 >> I thought Helium said something about the attractive force being proportional to the size of the Z-molecule? Z-hydrogen isn't a threat because it doesn't pull real hydrogen to itself fast enough to get there before it decoheres.
->> 
 
->>> **u/CouteauBleu** [+5]  *We are the Empire.**
+>>> **u/CouteauBleu** [+5]  *We are the Empire.* (12 hours later)
 >>> 
 >>> Oh, I like that! I vote for it to be the retcon Cyaed suggests.
->>> 
 
-> **u/None** [+11] *
+> **u/None** [+11]  (an hour later)
 > 
 > Because very soon, there will be a clever retcon.
-> 
 
-> **u/sparr** [+8] *
+> **u/sparr** [+6]  (a day later)
 > 
 > This happens to 80% of all galaxies, and is the explanation for the "missing mass" dark matter.
-> 
 
-> **u/daytodave** [+4]  *an altruistic conversion of calories to hedons**
+> **u/daytodave** [+5]  *an altruistic conversion of calories to hedons* (11 hours later)
 > 
 > > And sure, the Ellimist and Crayak might put a stop to that if anyone tried, but they aren't omnipotent.
-> We don't actually know that the Ellimist plus Crayak, working *together* aren't omnipotent, but that explanation doesn't work anyway, because what stopped a QV from killing off E and C's species before they reached omnipotence?
-> It could be that quantum viruses aren't natural at all. They might have been created and regulated by the gods as part of their game.
 > 
+> We don't actually know that the Ellimist plus Crayak, working *together* aren't omnipotent, but that explanation doesn't work anyway, because what stopped a QV from killing off E and C's species before they reached omnipotence?
+> 
+> It could be that quantum viruses aren't natural at all. They might have been created and regulated by the gods as part of their game.
 
-> **u/zaxqs** [+9] *
+> **u/zaxqs** [+9]  (11 minutes later)
 > 
 > Anthropic principle
-> 
 
->> **u/Buggy321** [+15] *
+>> **u/Buggy321** [+14]  (34 minutes later)
 >> 
 >> This is true, but the Anthropic principle only guarantees that we exist to observe the universe. There are any of a variety of explanations:
->> For one, life might actually be *exceedingly* rare; all species we know about in the Milky Way rather look like the product of Crayimist. And on top of that, it might be range limited to a galaxy or similar, so sudden-galaxy-vanishing-syndrome would be a rare occurrence.
->> Or this might be the reason for the (apparently still true, in-universe) Fermi Paradox. Hydrogen viruses aren't possible, but sucrose viruses *are*, so the slate gets wiped clean often enough to prevent ancient civilizations from existing.
->> Or, heh, maybe it does work on arbitrary molecules/atoms, with no range limit, but it's z-space all the way down. So the entire universe just gets teleported to another z-space every so often, with no apparent effects except that everything drops out of z-space for no apparent reason.
->> Or any of a variety of other explanations. Even if the continued existence of the universe seems probable, it's possible that such a virus is still a threat to the Milky Way.
 >> 
+>> For one, life might actually be *exceedingly* rare; all species we know about in the Milky Way rather look like the product of Crayimist. And on top of that, it might be range limited to a galaxy or similar, so sudden-galaxy-vanishing-syndrome would be a rare occurrence.
+>> 
+>> Or this might be the reason for the (apparently still true, in-universe) Fermi Paradox. Hydrogen viruses aren't possible, but sucrose viruses *are*, so the slate gets wiped clean often enough to prevent ancient civilizations from existing.
+>> 
+>> Or, heh, maybe it does work on arbitrary molecules/atoms, with no range limit, but it's z-space all the way down. So the entire universe just gets teleported to another z-space every so often, with no apparent effects except that everything drops out of z-space for no apparent reason.
+>> 
+>> Or any of a variety of other explanations. Even if the continued existence of the universe seems probable, it's possible that such a virus is still a threat to the Milky Way.
 
->>> **u/Geminii27** [+16] *
+>>> **u/Geminii27** [+16]  (5 hours later)
 >>> 
 >>> The stacked Z-space one might be a useful thought experiment. Assume that there are an infinite number of Z-space layers. Assume that Z-space layers next to each other whose properties are sufficiently similar (i.e. most of them) merge into a single layer, leaving only Z-space layers which have (relatively) dissimilar properties, at least to the point where a merge can't be triggered by the normal operations of the universe.
->>> Now assume that life arises in a layer where a hydrogen virus is feasible. It inevitably gets invented and, as you surmise, all the matter in the universe falls through to the next layer. And the next, and the next, until it tries to fall through to a layer where a hydrogen virus is *not* possible.
->>> And there it sits. Until the life which created the hydrogen virus, or one of their contemporaries, creates something like a sucrose virus, and matter drops down a bunch more Z-layers until it bumps into one where both hydrogen and sucrose viruses don't work.
->>> Eventually you're going to get to the point where only molecules which haven't been tried before in the universe's entire history by any species at all work for a Z-virus. Which will generally mean that the only molecules which don't trigger a Z-crash will be extremely complex ones only found in microscopically tiny regions of space, such as specific DNA from specific alien species.
 >>> 
+>>> Now assume that life arises in a layer where a hydrogen virus is feasible. It inevitably gets invented and, as you surmise, all the matter in the universe falls through to the next layer. And the next, and the next, until it tries to fall through to a layer where a hydrogen virus is *not* possible.
+>>> 
+>>> And there it sits. Until the life which created the hydrogen virus, or one of their contemporaries, creates something like a sucrose virus, and matter drops down a bunch more Z-layers until it bumps into one where both hydrogen and sucrose viruses don't work.
+>>> 
+>>> Eventually you're going to get to the point where only molecules which haven't been tried before in the universe's entire history by any species at all work for a Z-virus. Which will generally mean that the only molecules which don't trigger a Z-crash will be extremely complex ones only found in microscopically tiny regions of space, such as specific DNA from specific alien species.
 
->>>> **u/None** [+6] *
+>>>> **u/None** [+6]  (11 hours later)
 >>>> 
 >>>> This is wonderful.
->>>> 
 
->>> **u/Chosen_Pun** [+13]  *The Chosen Ones**
+>>> **u/Chosen_Pun** [+11]  *The Chosen Ones* (5 hours later)
 >>> 
 >>> The idea of using a sufficiently robust quantum virus as a circuitous method to instantaneously but momentarily disable all use of z-space by transposing *the entire universe* is absolutely ridiculous and I hope it happens now
->>> 
 
->>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (9 hours later)
 >>> 
 >>> >  is true, but the Anthropic principle only guarantees that we exist to observe the universe.
->>> Anthropic principle AND quantum immortality. Like the old trick of using quantum immortality and false vacuum collapse to ensure only the universes in which you win survive.
 >>> 
+>>> Anthropic principle AND quantum immortality. Like the old trick of using quantum immortality and false vacuum collapse to ensure only the universes in which you win survive.
 
-> **u/CouteauBleu** [+2]  *We are the Empire.**
+> **u/CouteauBleu** [+2]  *We are the Empire.* (12 hours later)
 > 
 > > And sure, the Ellimist and Crayak might put a stop to that if anyone tried, but they aren't omnipotent. The Virus might have no range limit, so it would only take one person in the universe to do it.
-> Assuming the range is limited to one galaxy, it could be that E&C preemptively glass any civilization that has a high likelihood of developing a quantum virus, with a few exceptions that fit the framework of their game.
 > 
+> Assuming the range is limited to one galaxy, it could be that E&C preemptively glass any civilization that has a high likelihood of developing a quantum virus, with a few exceptions that fit the framework of their game.
 
-> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (5 days later)
 > 
 > The Ellimist is omnipotent though. He can explicitly play with timelines, if that happens, roll back and tweak until it doesn't.
-> 
 
->> **u/Buggy321** [+1] *
+>> **u/Buggy321** [+1]  (5 days later)
 >> 
 >> If i'm remembering right, that wasn't quite it. The Ellimist is running on a z-space computer, the same one that morphing uploads your brain onto. This means that they can play silly nanners with anyone in morph.
-
->> That entire sequence was a simulation, apparently with some rules about how it had to be 'real' (showing only an accurate picture of reality or something, I would guess). And this vulnerability has come up a few other times as well.
 >> 
+>> That entire sequence was a simulation, apparently with some rules about how it had to be 'real' (showing only an accurate picture of reality or something, I would guess). And this vulnerability has come up a few other times as well.
 
 ---
 

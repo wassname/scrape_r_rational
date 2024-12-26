@@ -28,71 +28,65 @@ The entire story has just been proof-read and spit-shined for your enjoyment. Wi
 
 ### Comments:
 
-> **u/GrecklePrime** [+1] *
+> **u/GrecklePrime** [+1]  (28 minutes later)
 > 
 > Yay!  Just checked it about three days ago to see if there was anything new.
-> 
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (an hour later)
 > 
 > More specifically, [here](http://theworldofstevenuniverse.blogspot.ca/p/steven-universe-season-1-english.html). I think it's pretty great.
-> 
 
->> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (6 hours later)
 >> 
 >> That link is dead.
->> 
 
->>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>> **u/traverseda** [+1]  *With dread but cautious optimism* (6 hours later)
 >>> 
 >>> Whole thing is dead...
->>> That's very strange. Nothing wrong with the link.
 >>> 
+>>> That's very strange. Nothing wrong with the link.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (2 hours later)
 >> 
 >> It's coming. First there are the stations of the canon — Peridot and the Cluster. Oh yes.
->> 
 
-> **u/TimTravel** [+1] *
+> **u/TimTravel** [+1]  (6 hours later)
 > 
 > > Connie kills herself sixty times
-> O_O
 > 
+> O_O
 
->> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (a day later)
 >> 
 >> [Cf. this tweet for the funny reference](http://i1.kym-cdn.com/photos/images/facebook/001/015/632/58a.jpg)
->> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 days later)
 > 
 > > the best way not to be outsmarted was not to **play the game**
-> ARGH! I just lost the game!
-> Ha, ha, ha...I'm just joking, I don't actually play the game, but was that a reference to it?
 > 
+> ARGH! I just lost the game!
+> 
+> Ha, ha, ha...I'm just joking, I don't actually play the game, but was that a reference to it?
 
->> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (2 days later)
 >> 
 >> What chapter you at? Can't find those words anywhere in my story.
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 >>> 
 >>> *blink, blink*
->>> *smacks face*
->>> I thought I was posting in the thread for *Lighting Up the Dark*. Sorry about that. You're doing a great with your story though and I'm redownloading my own copy of it every time you post a new chapter.
 >>> 
+>>> *smacks face*
+>>> 
+>>> I thought I was posting in the thread for *Lighting Up the Dark*. Sorry about that. You're doing a great with your story though and I'm redownloading my own copy of it every time you post a new chapter.
 
->>>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>>>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (2 days later)
 >>>> 
 >>>> Happens to the best of us.
->>>> 
 
 ---
 

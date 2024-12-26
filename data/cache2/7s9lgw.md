@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/Annieelo** [+3] *
+> **u/Annieelo** [+3]  (3 hours later)
 > 
 > Is this manga really worth reading from a rationalist point of view? I only hear good things about this manga but didn't had time to give it a try.
-> 
 
->> **u/gbear605** [+6]  *history’s greatest story**
+>> **u/gbear605** [+4]  *history’s greatest story* (5 hours later)
 >> 
 >> IMO it's rationalist in the same way that Sherlock Holmes is rationalist, but people on the sub like it so I keep on posting it here.
->> 
 
->>> **u/LupoCani** [+4] *
+>>> **u/LupoCani** [+4]  (a day later)
 >>> 
 >>> That's just a tad harsh, isn't it?
->>> Certainly, both are first and foremost *clever*, not rationalist. Nevertheless, as far as thinking goes, *Neverland* does seem rather more grounded about it.
 >>> 
+>>> Certainly, both are first and foremost *clever*, not rationalist. Nevertheless, as far as thinking goes, *Neverland* does seem rather more grounded about it.
 
 ---
 

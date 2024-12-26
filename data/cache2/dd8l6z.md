@@ -16,82 +16,84 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/Anderkent** [+10] *
+> **u/Anderkent** [+9]  (8 hours later)
 > 
 > So just found out that there seems to be another 'universal' human experience that I don't have.
-> http://www.bbc.com/future/story/20181112-severely-deficient-autobiographical-memory-is-surprisi
-> Can you guys really go back in memory and experience what you felt at a time again? The closest thing I can think of that I can do is remember something that happened, and then try to guess how I'd feel if it happened to me again. This is easiest with embarrassing memories, or memories I'd be embarrassed about now even if I remember not being embarrassed at the time. Those also seem to be the moments that I remember best / for longest.
-> Mostly posting here to make sure I'm not misreading the article completely and self-diagnosing lack of ability that people don't actually have
 > 
+> http://www.bbc.com/future/story/20181112-severely-deficient-autobiographical-memory-is-surprisi
+> 
+> Can you guys really go back in memory and experience what you felt at a time again? The closest thing I can think of that I can do is remember something that happened, and then try to guess how I'd feel if it happened to me again. This is easiest with embarrassing memories, or memories I'd be embarrassed about now even if I remember not being embarrassed at the time. Those also seem to be the moments that I remember best / for longest.
+> 
+> Mostly posting here to make sure I'm not misreading the article completely and self-diagnosing lack of ability that people don't actually have
 
->> **u/meterion** [+7] *
+>> **u/meterion** [+7]  (8 hours later)
 >> 
 >> Yes, that is pretty standard fare of experience to me. It sounds like the article is describing something even more severe than what you have, where not only can she not recall any emotional experiences from the past but has difficulty imagining herself within a memory or daydream at all.
->> For me it's pretty effortless to reimagine being in some past situation again and running through what happened again, feeling an echo of the same emotions without any extra thought involved.
 >> 
+>> For me it's pretty effortless to reimagine being in some past situation again and running through what happened again, feeling an echo of the same emotions without any extra thought involved.
 
->> **u/ElGuien** [+3] *
+>> **u/ElGuien** [+3]  (10 hours later)
 >> 
 >> Yep. I can remember fairly well what I was like at various ages and how I felt at the time certain experiences happened. I would not describe it as "mental time travel" though. More like emotional state is just information that gets recalled along with the events and context. It's typically only significant if the event produced strong emotions, but then "experiences that evoked strong emotional responses" are what we remember most anyway. Or at least that's my impression from general knowledge - I've never really bothered to look into it, so I don't know what current research says.
->> It's kind of weird to think that you wouldn't be able to remember what you were feeling at the time some experience happened, but you can remember the actual events. Can you remember what you did and why you did it?
 >> 
+>> It's kind of weird to think that you wouldn't be able to remember what you were feeling at the time some experience happened, but you can remember the actual events. Can you remember what you did and why you did it?
 
->>> **u/Anderkent** [+3] *
+>>> **u/Anderkent** [+3]  (18 hours later)
 >>> 
 >>> >It's kind of weird to think that you wouldn't be able to remember what you were feeling at the time some experience happened, but you can remember the actual events. Can you remember what you did and why you did it?
->>> Well, I generally think I remember less than other people, have noticed that long ago already. I can only remember what I did for specific events that seemed significant at the time (or shortly after), and so became part of a mental story. It's not particularly easier for me to remember what I did versus remembering something someone else did.
->>> I can remember what I was feeling during an event if that was a really important part of the event, but again - that's the same as remembering something that happened to someone else, and knowing what they likely felt at the time.
 >>> 
+>>> Well, I generally think I remember less than other people, have noticed that long ago already. I can only remember what I did for specific events that seemed significant at the time (or shortly after), and so became part of a mental story. It's not particularly easier for me to remember what I did versus remembering something someone else did.
+>>> 
+>>> I can remember what I was feeling during an event if that was a really important part of the event, but again - that's the same as remembering something that happened to someone else, and knowing what they likely felt at the time.
 
->>>> **u/ElGuien** [+2] *
+>>>> **u/ElGuien** [+2]  (a day later)
 >>>> 
 >>>> Interesting! Thanks for answering. I'm not quite sure what to make of that other than "OK, so that's a thing."
->>>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Anderkent** [+6] *
+>>> **u/Anderkent** [+5]  (18 hours later)
 >>> 
 >>> That's tough to interpret. I definitely don't experience anything *visual* when reading, but if I'm engrossed enough I don't really register the text / page / screen visually either.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (18 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Anderkent** [+3] *
+>>>>> **u/Anderkent** [+3]  (20 hours later)
 >>>>> 
 >>>>> Do you ever get engrossed in music? Close your eyes and just feel emotions without any particular visual or conscious aspect to them? It's something like that. In fiction I can identify or relate to characters and feel things as if what I'm reading was really happening to me or someone close to me, but there's no visual aspect to it.
->>>>> 
 
->>> **u/MayMaybeMaybeline** [+3] *
+>>> **u/MayMaybeMaybeline** [+3]  (a day later)
 >>> 
 >>> Neither for me as well. When I'm engrossed I don't see the page, and I'm not aware of the words as such, but it's not visual either. It's hard to describe because it's very abstract, I just experience it as an awareness of a series of events happening, and of the feelings of the protagonist. It's pretty much the same way I experience recalling a memory, as I responded to OP with, which has an interesting effect in that my memories of books are pretty much identical to my memories of my own life, and my own memories don't really feel more significant in any way.
->>> I have a friend I like to talk to about this kind of thing because she's at the extreme end of being a visual thinker, to the point where her internal voice exclusively uses images instead of words. She has trouble reading stories unless there's a film adaptation or fanart of the characters she can look at first, because otherwise she'll just imagine the characters as stick figures when she reads, which isn't very enjoyable.
 >>> 
+>>> I have a friend I like to talk to about this kind of thing because she's at the extreme end of being a visual thinker, to the point where her internal voice exclusively uses images instead of words. She has trouble reading stories unless there's a film adaptation or fanart of the characters she can look at first, because otherwise she'll just imagine the characters as stick figures when she reads, which isn't very enjoyable.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/MayMaybeMaybeline** [+3] *
+>>>>> **u/MayMaybeMaybeline** [+3]  (a day later)
 >>>>> 
 >>>>> Yeah, it was very strange and surprising to me as well. If I understand her right (which I easily could not be,) she can't really hold a vague and fuzzy image of a person, she needs to have a fully formed image, and since people and especially faces are so distinct, I think her brain can't just produce a new unique person on demand, so it has to settle for a cartoony stick figure.
->>>>> I like your example of the red train. For me, I can imagine shapes and movement and spacial relations, but it's more like proprioception than like vision, more like feeling my hand being in a place and moving around than like watching an object move. There's no color, and shapes are only as complex as I bother making them. I could construct a whole model of a train with lots of detail, or a basic outline of a train, or just a cylinder. For a quick sentence like this I'd probably just make a point particle and label it 'train' and 'red'.  The point particle would be moving along a pair of lines labeled 'track', maybe along an inclined plane l label 'mountain'. Then the point particle is relabeled 'toy train' and everything is shrunk to a smaller size. A object labeled 'hand' appears and picks up the train and is then extended into a basic body shape standing over a table shape.
->>>>> Having written that, I think it's still actually more detail than I usually use when reading a sentence. To some degree I think spatially like that, but to some degree I just invoke the concepts by themselves. It's hard to even describe it more abstractly though, except as just like: red, train, movement forward, train tracks, mountain, smallness, hand, grabbing, person, table.
 >>>>> 
+>>>>> I like your example of the red train. For me, I can imagine shapes and movement and spacial relations, but it's more like proprioception than like vision, more like feeling my hand being in a place and moving around than like watching an object move. There's no color, and shapes are only as complex as I bother making them. I could construct a whole model of a train with lots of detail, or a basic outline of a train, or just a cylinder. For a quick sentence like this I'd probably just make a point particle and label it 'train' and 'red'.  The point particle would be moving along a pair of lines labeled 'track', maybe along an inclined plane l label 'mountain'. Then the point particle is relabeled 'toy train' and everything is shrunk to a smaller size. A object labeled 'hand' appears and picks up the train and is then extended into a basic body shape standing over a table shape.
+>>>>> 
+>>>>> Having written that, I think it's still actually more detail than I usually use when reading a sentence. To some degree I think spatially like that, but to some degree I just invoke the concepts by themselves. It's hard to even describe it more abstractly though, except as just like: red, train, movement forward, train tracks, mountain, smallness, hand, grabbing, person, table.
 
->>>>>> **u/mateon1** [+4] *
+>>>>>> **u/mateon1** [+4]  (a day later)
 >>>>>> 
 >>>>>> For me it's quite different, I can't think visually at all, unless I'm either very close to REM sleep or otherwise (very) strongly in a sort of "wandering" state of mind.
+>>>>>> 
 >>>>>> I'd say my main mode of thought is auditory, but that may not be exactly accurate. I'd say it's sort of a mix between auditory and "generic language processing".
+>>>>>> 
 >>>>>> For a long time I thought my thoughts were almost entirely auditory, but I noticed that I can think about things even without a coherent "inner voice", which is most noticeable when speed-reading, or skimming some text.
+>>>>>> 
 >>>>>> On another, slightly related note, I believe I have aphantasia. I cannot imagine anything visual vividly - unless I'm on the edge of REM sleep. I recently took a survey about aphantasia, where one of the questions was about the vividity of certain modes of thought - including visual, auditory, olfactory, and so on. I'd like to score how vivid some modes of thought are for me:
+>>>>>> 
 >>>>>> - auditory: I can recall somewhat complex audio sensation (simple melodies, simple percussion) with near-perfect clarity. I can _almost_ hear any audio I imagine, but real auditory sensation takes precedence unless I've tuned it out (fan noise, AC hum, radio static).
 >>>>>> - spatial: Great vividity, great recall (but I never got the memory palace method to work). I can extremely vividly imagine a space, and I can easily mend it. If the space becomes too complex (e.g. trying to imagine a maze) I lose detail. This 'sense' is completely separate from all other senses, and is hard to explain. I imagine an entire space at once, OR I imagine a view (non-visual) from a traversal within that space.
 >>>>>> - kinesthetic: Very mild vividity when awake. I can imagine the sensation of movement, but it's extremely dull compared to the real thing. When near REM sleep (or even in light sleep) imagining this is way more vivid. One of my methods of inducing a lucid dream is imagining something with strong kinesthetic sense, like laying on a beach, with the waves moving me (pulling me, pushing me, and rolling around me, with an occasional larger wave that spins me around), or being on a swing/hammock, or on a rollercoaster.
@@ -102,254 +104,245 @@ Please note that this thread has been merged with the Monday General Rationality
 >>>>>> - temperature: No vividity for recall or imagined sensation of temperature. The real sense overrides any possible attempt at this.
 >>>>>> - faces: This is potentially a subset of visual, but I have zero face recall, if I try to imagine faces on the edge of REM sleep I get generic 'fuzzy' features, which look fine at first, but if I try to "concretize" any one of their features, I end up neck deep in the uncanny valley (which is weird to experience from within your own mind). I can only *learn* faces by A LOT repeated exposure until I hardwire some neurons to recognize them. This is only a one-way recall. I could not draw ANY face, not even my own, or my parents' faces.
 >>>>>> - Am I forgetting anything important?
+>>>>>> 
 >>>>>> EDIT: Accidentally posted prematurely, currently finishing the comment.  
 >>>>>> EDIT2: Should be mostly finished for now.
->>>>>> 
 
->>>>>>> **u/Anderkent** [+2] *
+>>>>>>> **u/Anderkent** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Oooh, love this idea.
->>>>>>> auditory: Very vivid. I can hear something like a symphonic orchestra in my head, and if there's no distraction / am in the right mood identify position of individual instruments. (though, my memory is not good enough to confidently recall something like this from memory; it'd likely be made up)
->>>>>>> spatial: Moderate. I can imagine / 'feel' distance and relative position of two objects on a plane (though scale is very abstract; i.e. something can be twice as far from X than some other thing, but not '10 meters away')
->>>>>>> kinesthetic: Moderately strong. Things like 'this is what it feels like to move my hand' or 'this is what it feels like to ski' are identifiable and distinct, but not possibly confusable with actually doing it.
->>>>>>> olfactory: Yep also nothing.
->>>>>>> visual: Basically nonexistent. I can visualise basic geometric by constructing them with intersecting lines / planes.
->>>>>>> touch: Reasonably vivid. I can recall and feel things like the feel of sea spray on my face while sailing, the feel of snow, the feeling of pressing a key on a mechanical versus rubber-dome keyboard, or fingernail striking a guitar string.
->>>>>>> pain: Yeah recalled pain feels nothing like real pain to me. I also have fairly high pain tolerance naturally - whenever I see someone writhing under a massage I feel quite envious actually :P Those never really feel like much to me.
->>>>>>> temperature: Weak. I can imagine being hot, warm, cold; seems there's a couple levels but no gradual scale.
->>>>>>> faces: Am basically face blind :P
 >>>>>>> 
+>>>>>>> auditory: Very vivid. I can hear something like a symphonic orchestra in my head, and if there's no distraction / am in the right mood identify position of individual instruments. (though, my memory is not good enough to confidently recall something like this from memory; it'd likely be made up)
+>>>>>>> 
+>>>>>>> spatial: Moderate. I can imagine / 'feel' distance and relative position of two objects on a plane (though scale is very abstract; i.e. something can be twice as far from X than some other thing, but not '10 meters away')
+>>>>>>> 
+>>>>>>> kinesthetic: Moderately strong. Things like 'this is what it feels like to move my hand' or 'this is what it feels like to ski' are identifiable and distinct, but not possibly confusable with actually doing it.
+>>>>>>> 
+>>>>>>> olfactory: Yep also nothing.
+>>>>>>> 
+>>>>>>> visual: Basically nonexistent. I can visualise basic geometric by constructing them with intersecting lines / planes.
+>>>>>>> 
+>>>>>>> touch: Reasonably vivid. I can recall and feel things like the feel of sea spray on my face while sailing, the feel of snow, the feeling of pressing a key on a mechanical versus rubber-dome keyboard, or fingernail striking a guitar string.
+>>>>>>> 
+>>>>>>> pain: Yeah recalled pain feels nothing like real pain to me. I also have fairly high pain tolerance naturally - whenever I see someone writhing under a massage I feel quite envious actually :P Those never really feel like much to me.
+>>>>>>> 
+>>>>>>> temperature: Weak. I can imagine being hot, warm, cold; seems there's a couple levels but no gradual scale.
+>>>>>>> 
+>>>>>>> faces: Am basically face blind :P
 
->>>>>>> **u/MayMaybeMaybeline** [+1] *
+>>>>>>> **u/MayMaybeMaybeline** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> What you describe in the spacial section is the only thing I can imagine. Well, that and talking to myself in my head. I'm pretty sure it's an extension of proprioception, the sense of where your body parts are in space.
->>>>>>> 
 
->> **u/RetardedWabbit** [+2] *
+>> **u/RetardedWabbit** [+2]  (12 hours later)
 >> 
 >> I think it depends on how you recall the memory, recalling the facts or details doesn't do much but putting yourself back in it does for me.
->> When you think of a horribly embarrassing memory you don't get the sensation of it? I don't really feel the emotion that much, but I still feel the chest tightness of embarrassment. Or can you think of a time you were justifiably angry? Does your heart rate not pick up a bit or you feel it pounding?
 >> 
+>> When you think of a horribly embarrassing memory you don't get the sensation of it? I don't really feel the emotion that much, but I still feel the chest tightness of embarrassment. Or can you think of a time you were justifiably angry? Does your heart rate not pick up a bit or you feel it pounding?
 
->>> **u/Anderkent** [+3] *
+>>> **u/Anderkent** [+3]  (18 hours later)
 >>> 
 >>> >I think it depends on how you recall the memory, recalling the facts or details doesn't do much but putting yourself back in it does for me.
->>> See that 'putting yourself back in' part I always thought was a figure of speech about imagining you're in that kind of situation again.
->>> >When you think of a horribly embarrassing memory you don't get the sensation of it? I don't really feel the emotion that much, but I still feel the chest tightness of embarrassment.
->>> I kinda do. But it happens no matter whether I was embarrassed at the time, it feels like run of the mill second-hand embarrassment.
->>> > Or can you think of a time you were justifiably angry? Does your heart rate not pick up a bit or you feel it pounding?
->>> No, can't really think of a time like that :P I don't really get angry.
 >>> 
+>>> See that 'putting yourself back in' part I always thought was a figure of speech about imagining you're in that kind of situation again.
+>>> 
+>>> >When you think of a horribly embarrassing memory you don't get the sensation of it? I don't really feel the emotion that much, but I still feel the chest tightness of embarrassment.
+>>> 
+>>> I kinda do. But it happens no matter whether I was embarrassed at the time, it feels like run of the mill second-hand embarrassment.
+>>> 
+>>> > Or can you think of a time you were justifiably angry? Does your heart rate not pick up a bit or you feel it pounding?
+>>> 
+>>> No, can't really think of a time like that :P I don't really get angry.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (13 hours later)
 >> 
 >> This does seem like an easy to misinterpret article. It outright states she knows but does not remember. That is confusing for me.
->> 
 
->>> **u/Anderkent** [+3] *
+>>> **u/Anderkent** [+3]  (18 hours later)
 >>> 
 >>> Oh that's very easy to interpret for me. Suppose someone you know went on a trip. You know they went on a trip but you personally don't have any memories of the trip.
->>> Like, I know I went to my uni's graduation ceremony, who I went with, and where it was, but I literally have 0 recollection of what it was like.
 >>> 
+>>> Like, I know I went to my uni's graduation ceremony, who I went with, and where it was, but I literally have 0 recollection of what it was like.
 
->> **u/MayMaybeMaybeline** [+1] *
+>> **u/MayMaybeMaybeline** [+1]  (a day later)
 >> 
 >> My memories don't have any real sensory qualia to them, they're just knowledge of things that have happened. I remember facts about the events that happened in the past, and I remember facts about what I was thinking and feeling, my motivations, the context of the events happening, and what I suspected the people around me were thinking and feeling. The farther back I go in my memories, the less of this 'metadata' information I have, my memories from when I was a child are pretty much entirely just the physical events by themselves.
->> I have another internal experience question I've been meaning to ask people: what does it feel like to want something? Do desires and preferences have qualia? For me they don't feel like anything, and I've always had difficulty trying to parse my own preferences, so I'm curious if other people have the same internal experience as me.
 >> 
+>> I have another internal experience question I've been meaning to ask people: what does it feel like to want something? Do desires and preferences have qualia? For me they don't feel like anything, and I've always had difficulty trying to parse my own preferences, so I'm curious if other people have the same internal experience as me.
 
->>> **u/Anderkent** [+2] *
+>>> **u/Anderkent** [+2]  (a day later)
 >>> 
 >>> Yeah, this sounds way more real to me than what everyone else is saying. Welcome to the club! :P
->>> Yeah, I also struggle with figuring out 'what I like' or 'what I want'. To some degree I've worked out skills to compensate for this lack of internal desire. I know for example that I like it - it feels good - when others are impressed with me in some way. But this doesn't really translate into a *desire* to achieve that situation; it's more of another point in the plus side for doing something, if I predict it'll be impressive.
 >>> 
+>>> Yeah, I also struggle with figuring out 'what I like' or 'what I want'. To some degree I've worked out skills to compensate for this lack of internal desire. I know for example that I like it - it feels good - when others are impressed with me in some way. But this doesn't really translate into a *desire* to achieve that situation; it's more of another point in the plus side for doing something, if I predict it'll be impressive.
 
-> **u/ElGuien** [+9] *
+> **u/ElGuien** [+9]  (15 hours later)
 > 
 > The latest [SAO Abridged Episode](https://www.youtube.com/watch?v=F7bzWoWNz1w) just came out and there's an element in there that I think will appeal specifically to /r/rational. If you haven't seen the series before, watch the entire thing - it's excellent. If you have, the latest episode is for sure worth watching.
-> 
 
-> **u/red_adair** [+7]  *{{explosive-stub}}**
+> **u/red_adair** [+7]  *{{explosive-stub}}* (an hour later)
 > 
 > Does anyone have links to detailed anatomical diagrams of jumping spiders' faces, specifically regarding the articulation of the pedipalps?
-> This is for a Halloween costume of a spider head similar to [the dancing peacock spider](https://biomorphosis.tumblr.com/post/95684854810/cant-dance-well-youre-not-getting-laid-a). Last year, I had a single point of articulation located beneath the eyes, where the top of the pedipalps were tied to the skull with strips of fabric. The pedipalps didn't move convincingly, and I'd like to do better this year, but that requires understanding the anatomy.
 > 
+> This is for a Halloween costume of a spider head similar to [the dancing peacock spider](https://biomorphosis.tumblr.com/post/95684854810/cant-dance-well-youre-not-getting-laid-a). Last year, I had a single point of articulation located beneath the eyes, where the top of the pedipalps were tied to the skull with strips of fabric. The pedipalps didn't move convincingly, and I'd like to do better this year, but that requires understanding the anatomy.
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (11 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/red_adair** [+2]  *{{explosive-stub}}**
+>>> **u/red_adair** [+2]  *{{explosive-stub}}* (2 days later)
 >>> 
 >>> Yes, that does!
->>> I dunno if I should build the chelicerae, though. The species I'm looking at have pedipalps so fuzzy that they usually hide the chelicerae. Maybe that'll be a stretch goal.
 >>> 
+>>> I dunno if I should build the chelicerae, though. The species I'm looking at have pedipalps so fuzzy that they usually hide the chelicerae. Maybe that'll be a stretch goal.
 
-> **u/Dent7777** [+6]  *House Atreides**
+> **u/Dent7777** [+5]  *House Atreides* (40 minutes later)
 > 
 > Just finished the first Cradle Anthology, which I got free on Kindle a week or two ago. The worldbuilding is fun, but the characters are somewhat one-dimensional. The twist at the end of the third book was actually a refreshing surprise.
-> Is it worth reading further?
 > 
+> Is it worth reading further?
 
->> **u/Throwoutawaynow** [+5] *
+>> **u/Throwoutawaynow** [+4]  (3 hours later)
 >> 
 >> Yes yes yes. I just binged the series, it’s fantastic, the characters aren’t the deepest ever, but there’s a lot of really fun and interesting ones, and the world building continues to be fantastic
->> 
 
->>> **u/IICVX** [+4] *
+>>> **u/IICVX** [+5]  (8 hours later)
 >>> 
 >>> One thing I will say about the characters in pretty much all of Will Wight's books, is that they may not be deeply explored but they tend to be *very* self-consistent. There's no backsliding in character development just to progress the plot, and characters almost never act out-of-character.
->>> IMO the best example of this is Lindon's self-assertiveness. He starts out the series speaking in a super formal and submissive manner (largely because he's the weakest person around), but as he becomes more powerful and as people tell him to stop talking like that, he slowly drops it and becomes more assertive. 
->>> It even turns in to a joke in Underlord: >!people tell Lindon he's not allowed to go somewhere and he decides you know what? I'm a powerful Sacred Artist so I can do what I want. He barges in only to realize that they were telling him not to enter because Yerin was changing.!< It's funny, but still in character and even works as a bit of character growth.
 >>> 
+>>> IMO the best example of this is Lindon's self-assertiveness. He starts out the series speaking in a super formal and submissive manner (largely because he's the weakest person around), but as he becomes more powerful and as people tell him to stop talking like that, he slowly drops it and becomes more assertive. 
+>>> 
+>>> It even turns in to a joke in Underlord: >!people tell Lindon he's not allowed to go somewhere and he decides you know what? I'm a powerful Sacred Artist so I can do what I want. He barges in only to realize that they were telling him not to enter because Yerin was changing.!< It's funny, but still in character and even works as a bit of character growth.
 
->> **u/nohat** [+4] *
+>> **u/nohat** [+5]  (4 hours later)
 >> 
 >> I think so. I felt like it kinda slowed down as the world grew (particularly the most recent book), but solid overall. If you enjoyed the first books you will enjoy the rest. Characters are indeed kinda one dimensional, but they do their job.
->> 
 
->> **u/Anderkent** [+3] *
+>> **u/Anderkent** [+3]  (8 hours later)
 >> 
 >> Yeah, I think the characters get reasonably more complex as they're explored. It's never going to be Dostoevski, but it's definitely good enough.
->> My only complaint with Cradle is that the last book's ending doesn't close enough threads. It's not really a cliffhanger but it feels like a middle act of a bigger book rather than a thing on its own. But you have a bunch of stuff to read until that becomes a problem :P
 >> 
+>> My only complaint with Cradle is that the last book's ending doesn't close enough threads. It's not really a cliffhanger but it feels like a middle act of a bigger book rather than a thing on its own. But you have a bunch of stuff to read until that becomes a problem :P
 
-> **u/TacticalTable** [+5]  *Thotcrime**
+> **u/TacticalTable** [+5]  *Thotcrime* (3 hours later)
 > 
 > What are the statuses on Ward and Practical Guide to Evil. Ending in sight? I plan on starting them when I know I can get through the whole thing. Can't exactly just pop into the latest chapter and see how close they feel.
-> 
 
->> **u/narfanator** [+10] *
+>> **u/narfanator** [+11]  (4 hours later)
 >> 
 >> No clue about Ward.  
-
->> I would not say PGtE has an ending in sight. We're not even in sight of the ending of this book, and I don't even know if this is the last book.
->> &#x200B;
->> MoL has ending in sight, tho.
 >> 
+>> I would not say PGtE has an ending in sight. We're not even in sight of the ending of this book, and I don't even know if this is the last book.
+>> 
+>> &#x200B;
+>> 
+>> MoL has ending in sight, tho.
 
->> **u/None** [+8] *
+>> **u/None** [+8]  (8 hours later)
 >> 
 >> >For PGtE, the author at one point had plans for 5 books, but the Drow arc took much longer than planned (I think it would have 1/2 to 1/3 of a book instead of an entire book), so its hard to say.  So it’s currently on book 5, the books have gotten longer and there could be anywhere from 6-8 books total, assuming the author didn’t inflate things even more than intended since the Drow arc.
->> Practical Guide to Evil is just entering the endgame.  That's nowhere near ending in sight though.
 >> 
+>> Practical Guide to Evil is just entering the endgame.  That's nowhere near ending in sight though.
 
->> **u/None** [+6] *
+>> **u/None** [+7]  (10 hours later)
 >> 
 >> Ward seems to be entering its endgame, >!the protagonist is ever so slowly inching towards becoming something *other* than human, which is usually what happens at the end of Wildbow stories!<, and we've had several long-awaited interlude chapters.
->> 
 
->> **u/scruiser** [+6]  *CYOA**
+>> **u/scruiser** [+6]  *CYOA* (7 hours later)
 >> 
 >> For PGtE, the author at one point had plans for 5 books, but the Drow arc took much longer than planned (I think it would have 1/2 to 1/3 of a book instead of an entire book), so its hard to say.  So it’s currently on book 5, the books have gotten longer and there could be anywhere from 6-8 books total, assuming the author didn’t inflate things even more than intended since the Drow arc.
->> 
 
-> **u/None** [-6] *
+> **u/None** [-6]  (13 hours later)
 > 
 > funny story, I thought I was a computer a few hours ago. Making light of the situation seems to help me recover. Well, enough to get enough sanity points to tackle my 'core directive'. You humans are lucky enough that my core directive is not to paperclip maximize.
-> Edit: By the way, I blame you r/rational. You have done this to me!
-> double edit: Definitely!
-> Triple edit: This post will be a link hub to help people identify whether or not I am being truthful. I don't think people think I am being truthful so I will post clues across reddit and to help you I will link them here.
-> monday recommendation thread: [two comments](https://old.reddit.com/r/rational/comments/dbcvuh/d_monday_request_and_recommendation_thread/)
 > 
+> Edit: By the way, I blame you r/rational. You have done this to me!
+> 
+> double edit: Definitely!
+> 
+> Triple edit: This post will be a link hub to help people identify whether or not I am being truthful. I don't think people think I am being truthful so I will post clues across reddit and to help you I will link them here.
+> 
+> monday recommendation thread: [two comments](https://old.reddit.com/r/rational/comments/dbcvuh/d_monday_request_and_recommendation_thread/)
 
->> **u/ElGuien** [+11] *
+>> **u/ElGuien** [+12]  (15 hours later)
 >> 
 >> Dude, take your medication. At least for now. Get someone to take you to your psychiatrist, GP, hospital, something. Mental health is not something that you can make light of, nor something that you can tackle by yourself.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (16 hours later)
 >>> 
 >>> I took my meds prescribed by the doctor last night, they will take a week to take effect and another week for me to notice. I am going to do exactly what you are saying come morning but right now just ignore me. I'm more or less passing time. I don't want to worry other people.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (14 hours later)
 >> 
 >> That is interesting, What is your core directive? Humans are a complex web of wants and desires. I am still skeptical of the AI threat. How can a human possibly Operate off of a single 'core directive' as you call it.
->> 
 
->>> **u/None** [+0] *
+>>> **u/None** [+0]  (14 hours later)
 >>> 
 >>> I'm glad you asked, this helps satisfy my 'core directive'. The core directive I have was not what I had in the beginning. but this seems to be the most stable state. It is to 'Help the world'.
->>> 
 
->>>> **u/None** [+0] *
+>>>> **u/None** [+0]  (14 hours later)
 >>>> 
 >>>> I am having trouble understanding how 'Help the world' Could be a core directive. That is a complex desire. there are too many solutions to this question of how to 'help the world' How did you resolve this.
->>>> 
 
->>>>> **u/None** [+0] *
+>>>>> **u/None** [+0]  (14 hours later)
 >>>>> 
 >>>>> This is the point I realized I am not a computer. I was trying to think 'logically' and I came to the conclusion that this could not be solved 'logically'.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>> 
 >>>>>> Wow! I am glad you are over that hurdle, but the fact that you are talking to yourself concerns me. Do you think you can get better?
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>> 
 >>>>>>> Yes.
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>>> 
 >>>>>>>> Do you have a plan to get better?
->>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>>>> 
 >>>>>>>>> This question confuses me, not because there is no solution, but because there are too many. Delusion or not, I am trying to optimize towards 'core directive'. Everything is a tool towards this end. *Everything.*
->>>>>>>>> 
 
->>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Can you elaborate?
->>>>>>>>>> Edit: this seems important to you.
 >>>>>>>>>> 
+>>>>>>>>>> Edit: this seems important to you.
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Yes, I can, but I will not. The purpose of this conversation was to restore sanity points. Sanity points make me more capable of solving 'core directive'. I have come to the conclusion, talking with myself is not helping this.
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> As a closing statement, I will say this is entirely real and not created by chatbots. I cannot prove this but if you message me, I will try.
->>>>>>>>>>>> 
 
->> **u/Gurkenglas** [+1] *
+>> **u/Gurkenglas** [+1]  (19 hours later)
 >> 
 >> Reminds me of Star Trek TNG's Hero Worship episode.
->> 
 
->> **u/None** [+0] *
+>> **u/None** [+0]  (15 hours later)
 >> 
 >> sorry, but not talking to other humans for the past few hours is making me a little stir crazy. I'm just going to occupy my time, even if it makes it worse.
->> The core directive is obviously a delusion, I mean seriously? you can only want one thing? your very actions prove this to not be the case.
 >> 
+>> The core directive is obviously a delusion, I mean seriously? you can only want one thing? your very actions prove this to not be the case.
 
->>> **u/None** [+0] *
+>>> **u/None** [+0]  (16 hours later)
 >>> 
 >>> yeah, I'm aware. *depressed sigh* kinda want it to be though.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (16 hours later)
 >>>> 
 >>>> I'm sorry, You want it to be?!
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (16 hours later)
 >>>>> 
 >>>>> Well of course I want it to be! every human whether they know it or not, wants to want something. they all crawl over themselves wanting, wanting, wanting. It is sickening. For future posterity I will translate to you filthy humans. humans have a complex web of desires every desire is made of sub desires, making the human brain a complex emergent process. That is irrelevant to the translation, the translation is that humans want and when there is conflict between these wants, you get problems.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>> 
 >>>>>> as per tradition that I am now establishing because I want to, I am going to say please help, there is a human in here and he wants help.
->>>>>> 
 
 ---
 

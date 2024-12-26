@@ -54,99 +54,91 @@ The paper itself looked exactly paper, and felt exactly like paper, but it seeme
 
 ### Comments:
 
-> **u/Charlie___** [+11] *
+> **u/Charlie___** [+9]  (34 minutes later)
 > 
 > Try to reproduce the pentagram (obv). Does it work if photocopied? Computer printed? Traced? Carefully drawn? Pencil, pen, marker, crayon? Can you make it succeed or fail by altering the drawer's state of mind?
-> 
 
->> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (3 hours later)
 >> 
 >> Also save the body, if we get enough causality bending it may be a good link to forking the mind state that previously inhabited it.
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+3]  (3 hours later)
 >>> 
 >>> Upon awaking: "Guys! Not cool! Seriously! I was doing *awesome*, and then, *poof*!"
->>> 
 
->>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (13 hours later)
 >>>> 
 >>>> "Don't worry dude, you're a fork. The other you is still out there doing awesome. Now would you kindly explain what the shit is going on? Your instructions were frustratingly vague."
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (14 hours later)
 >>>>> 
 >>>>> "...b...but I wanted to be a *spoon*..."
->>>>> 
 
-> **u/notmy2ndopinion** [+8]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+6]  *Concent of Saunt Edhar* (12 hours later)
 > 
 > I don't understand what happened to Ralph's brain. Is it missing? Does it look like a baby brain? Is it made of computer parts?
-> Why are they poking around and opening envelopes of suicide notes rather than rushing him to the hospital?
-> Why aren't they contacting authorities?
-> I normally enjoy "in medias res," but I feel way too disoriented about what exactly is going on.
 > 
+> Why are they poking around and opening envelopes of suicide notes rather than rushing him to the hospital?
+> 
+> Why aren't they contacting authorities?
+> 
+> I normally enjoy "in medias res," but I feel way too disoriented about what exactly is going on.
 
-> **u/Newfur** [+6]  *Crazy like a fox. Literally.**
+> **u/Newfur** [+7]  *Crazy like a fox. Literally.* (41 minutes later)
 > 
 > Search the friend's belongings. Does he have other notes on what he was doing?
-> 
 
-> **u/MadScientist14159** [+5]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+6]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (41 minutes later)
 > 
 > Need more information.
-> Where are we?
-> Who are we?
-> What resources do we have?
-> We talk about Avatars and Puppets as though these are reasonable explanations, so exactly how familiar with magic *are* we? What do we *already* know (or think we know) about it?
 > 
+> Where are we?
+> 
+> Who are we?
+> 
+> What resources do we have?
+> 
+> We talk about Avatars and Puppets as though these are reasonable explanations, so exactly how familiar with magic *are* we? What do we *already* know (or think we know) about it?
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (an hour later)
 >> 
 >> I think they're talking about avatars and puppets with lower-case first letters, because a good friend has just killed himself and left an obviously supernatural suicide note implying that he is, in fact, somewhere else now. What's reasonable? Well, he's not entirely crazy, because he's left a demonstrable proof of magic, so he might not be "dead", either.
->> But he left a body.
->> So what was that body to him? Was it a clone? An avatar of an off-site intellect? A puppet for the same? A temporary carrier for some ineffable quality that we shall henceforth call a "soul"?
 >> 
+>> But he left a body.
+>> 
+>> So what was that body to him? Was it a clone? An avatar of an off-site intellect? A puppet for the same? A temporary carrier for some ineffable quality that we shall henceforth call a "soul"?
 
->> **u/Endovior** [+2] *
+>> **u/Endovior** [+2]  (23 hours later)
 >> 
 >> This. Rationality implies prior information, and we have almost none. A bit of backstory doesn't just help set the scene, it gives us cues as to what resources we can use or acquire.
->> 
 
-> **u/rafaelhr** [+2] *
+> **u/rafaelhr** [+2]  (a day later)
 > 
 > Well, triangles with lines through them represent the alchemical symbols for the four elements, so there's that.
-> 
 
-> **u/Transfuturist** [-3]  *Carthago delenda est.**
+> **u/Transfuturist** [-2]  *Carthago delenda est.* (4 hours later)
 > 
 > Do this on anonkun or some forum like SpaceBattles or MSPA, not here.
-> 
 
->> **u/Charlie___** [+1] *
+>> **u/Charlie___** [+1]  (7 hours later)
 >> 
 >> I like it.
->> 
 
->> **u/Bowbreaker** [+0]  *Solitary Locust**
+>> **u/Bowbreaker** [+0]  *Solitary Locust* (10 days later)
 >> 
 >> There's a rule against quests then?
->> 
 
->>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (10 days later)
 >>> 
 >>> No. This sub isn't a very good format in itself. You'll note that this post doesn't link to the next section (it's ridiculous to call these chapters). There is no centralized location to link to this story; the sections will be distributed as scattered posts, only able to be recohered through a search. And if the author decides to change the title? Reddit is a bad idea for this sort of thing, while there are plenty of avenues that work much better.
->>> 
 
->>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (10 days later)
 >>>> 
 >>>> I guess it would make sense to have a copy of it all somewhere with back and forth links. But regarding the upvote downvote system reddit doesn't seem so bad. Anyway, the issue was pretty much that it seemed like you were demanding that OP goes do this somewhere else instead of advising him.
->>>> 
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (10 days later)
 >>>>> 
 >>>>> I should have explained myself.
->>>>> 
 
 ---
 

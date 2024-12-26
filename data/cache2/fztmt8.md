@@ -18,163 +18,170 @@ I guess that this is more of an announcement than a question, but even so here w
 
 ### Comments:
 
-> **u/causalchain** [+23] *
+> **u/causalchain** [+21]  (2 hours later)
 > 
 > I reckon I don't want to see the hunter exams again. I didn't think they were rational in the original series:
+> 
 > * Too many deaths, which isn't a problem when your mc has plot armor, but not so fantastic in a real system
 > * Information is weirdly distributed. Rather than promoting 'hunting for information', it would actually create a class of people 'in the know'.
-> Maybe if you come up with a different system it can be good, but the HxH world is full of other interesting things. People can learn nen without becoming hunters, so you could always insert the hunter exam in later.
-> I like the magic system a lot, and would love to see interesting uses. I'd prefer if you don't use 'special' types much. I get the impression they're just a cop-out from the author to let him put in abilities that don't actually work in his system. Kurapika's special ability actually fits with the system, which I like. Kurapika's restrictions to improve his power are also really cool. The original series had interesting ways of balancing OP abilities, and that would be cool to see. I particularly like ones based on physical limitations (eg. an invisible person still needs to see, so they will leave a small shadow where their eyes absorb light)
-> It'd be nice if you build an underlying system that keeps track on how the powers work and how powerful they should be - so no unreasonable power levels, and there is a clear distinction of what powers are theoretically copyable, and which are unique to the user.  
-> \[more personal opinions\]
-> I prefer lighter stories and light rational stories are surprisingly few. 
-> Please don't make the MC the only rational character! On that note, I like team strategy+battles more than individuals, so a support-based MC could be cool.
 > 
+> Maybe if you come up with a different system it can be good, but the HxH world is full of other interesting things. People can learn nen without becoming hunters, so you could always insert the hunter exam in later.
+> 
+> I like the magic system a lot, and would love to see interesting uses. I'd prefer if you don't use 'special' types much. I get the impression they're just a cop-out from the author to let him put in abilities that don't actually work in his system. Kurapika's special ability actually fits with the system, which I like. Kurapika's restrictions to improve his power are also really cool. The original series had interesting ways of balancing OP abilities, and that would be cool to see. I particularly like ones based on physical limitations (eg. an invisible person still needs to see, so they will leave a small shadow where their eyes absorb light)
+> 
+> It'd be nice if you build an underlying system that keeps track on how the powers work and how powerful they should be - so no unreasonable power levels, and there is a clear distinction of what powers are theoretically copyable, and which are unique to the user.  
+> 
+> \[more personal opinions\]
+> 
+> I prefer lighter stories and light rational stories are surprisingly few. 
+> 
+> Please don't make the MC the only rational character! On that note, I like team strategy+battles more than individuals, so a support-based MC could be cool.
 
->> **u/Nine-LifedEnchanter** [+4] *
+>> **u/Nine-LifedEnchanter** [+3]  (12 hours later)
 >> 
 >> I'd do different exams, since the examiners would be different. They'd be more rational and the entire exam would have a different vibe. 
->> I'd definitely have more rational characters.. and not only the antagonists.
 >> 
+>> I'd definitely have more rational characters.. and not only the antagonists.
 
->> **u/Tringard** [+2] *
+>> **u/Tringard** [+2]  (4 hours later)
 >> 
 >> Death in the exams was supposed to be rarer, they just happened to start with a tester that chose to cull the field by killing them. Just need a few rules around the testers and what they are allowed to set.
->> 
 
-> **u/i6i** [+7] *
+> **u/i6i** [+7]  (5 hours later)
 > 
 > The most glaring flaw in HxH I felt was that the baseline of the setting isn't really well defined which is what I usually gripe about in fantasy stories. If getting a hunter licence is just worth a lot of money and prestige then the hunter exams would naturally attract the desperate rather than the capable. Kurapika mentions hidden opportunities but until Nen gets introduced there is no context for this at all and later who knows what about it and most importantly why is left really unclear. It feels like it was written like this for the sake of having more big reveals in the story.
-> 
 
->> **u/mightykushthe1st** [+9] *
+>> **u/mightykushthe1st** [+9]  (5 hours later)
 >> 
 >> > It feels like it was written like this for the sake of having more big reveals in the story.
->> That is exactly why it was written; you've just described how manga authors ensure their serializations continue for as long as possible haha.
 >> 
+>> That is exactly why it was written; you've just described how manga authors ensure their serializations continue for as long as possible haha.
 
->> **u/Nine-LifedEnchanter** [+3] *
+>> **u/Nine-LifedEnchanter** [+3]  (12 hours later)
 >> 
 >> I think it was more like free education and travel and the license makes most issues go away. You can basically do whatever you want.
->> 
 
->> **u/immortal_lurker** [+2] *
+>> **u/immortal_lurker** [+2]  (2 days later)
 >> 
 >> Don't forget that there were a great deal of trials to even get to the hunter exam. Absolutely the desperate will try to get there, but unless they are capable, they won't even be able to show up on exam day.
->> 
 
->>> **u/i6i** [+3] *
+>>> **u/i6i** [+3]  (2 days later)
 >>> 
 >>> It's more that nobody else has a clear reason to show up at all. There isn't anything that someone competent enough to pass the exam by anything other than sheer luck wouldn't be able to do without needing a license.
->>> 
 
-> **u/incamaDaddy** [+7] *
+> **u/incamaDaddy** [+4]  (2 hours later)
 > 
 > i like the idea, wish you luck.
-> 
 
-> **u/Nearatree** [+5] *
+> **u/Nearatree** [+4]  (12 hours later)
 > 
 > HYPE!
-> 
 
->> **u/Nine-LifedEnchanter** [+1] *
+>> **u/Nine-LifedEnchanter** [+1]  (12 hours later)
 >> 
 >> Thank you!
->> 
 
-> **u/Annieelo** [+3] *
+> **u/Annieelo** [+3]  (9 hours later)
 > 
 > Not sure if ditching the characters is a good idea. The great thing about fanfic is that you can more or less skip the lenghty introduction about who is who, what is their background and what is their purpose.
->  Instead, what I would like to see is a story  centered on (for example) kurapika and his goal of killing the spiders. AFAIK a group as an antagonist as not been widely explored in a rational setting. This could lead to interesting interactions. 
-> Also, if you plan to do the hunter exam, maybe changing some of the stages since the first two were pretty boring (they were meant for the character intro) and not very ''rationalisable''. 
-> I will follow this closely.
 > 
+>  Instead, what I would like to see is a story  centered on (for example) kurapika and his goal of killing the spiders. AFAIK a group as an antagonist as not been widely explored in a rational setting. This could lead to interesting interactions. 
+> 
+> Also, if you plan to do the hunter exam, maybe changing some of the stages since the first two were pretty boring (they were meant for the character intro) and not very ''rationalisable''. 
+> 
+> I will follow this closely.
 
->> **u/Nine-LifedEnchanter** [+3] *
+>> **u/Nine-LifedEnchanter** [+3]  (12 hours later)
 >> 
 >> Personally I don't feel comfortable using established characters in that way. But we will see. I'm still drafting it all out.
->> 
 
->> **u/Sonderjye** [+1] *
+>> **u/Sonderjye** [+1]  (4 days later)
 >> 
 >> I disagree with this. I read plenty recommended fanfics of which I haven't seen the original fic, and the ones that have a good introduction to the characters are much more enjoyable.
->> 
 
-> **u/chillanous** [+3] *
+> **u/chillanous** [+3]  (a day later)
 > 
 > I had a long conversation with my wife about how this universe setting is very difficult to rationalize.
-> Hunters seem to have this insane amount of immunity and power. What government is cool with all of these essentially uncontrolled vigilantes running around? Who enforces the sovereignty of Hunters, did everyone just get together one day and decide to be super cool about letting Hunters do what they want?
-> Who is pouring these vast resources into the exam just to sort out the strong guys? Wouldn't it be better for the Hunters to use the peons as labor with opportunity for promotion instead of just failing them out of the exam?
-> And don't get me started on the fight tower. It's literally the size of a city, and you can get Insanely Rich just by being a decent fighter. You can make a living wage fighting without even being very good. It's like if, in our world, being a junior varsity high school wrestler was enough to get you an apartment and disposable income.
-> It's a fun universe, but the politics and resource allocation doesn't follow any sort of pattern. It is pretty much just a series of hand waves so that you van have a universe where everyone expects you to constantly fight and no one is upset about it. Expect to bend a lot of the setting if you want to make it make objective sense.
 > 
+> Hunters seem to have this insane amount of immunity and power. What government is cool with all of these essentially uncontrolled vigilantes running around? Who enforces the sovereignty of Hunters, did everyone just get together one day and decide to be super cool about letting Hunters do what they want?
+> 
+> Who is pouring these vast resources into the exam just to sort out the strong guys? Wouldn't it be better for the Hunters to use the peons as labor with opportunity for promotion instead of just failing them out of the exam?
+> 
+> And don't get me started on the fight tower. It's literally the size of a city, and you can get Insanely Rich just by being a decent fighter. You can make a living wage fighting without even being very good. It's like if, in our world, being a junior varsity high school wrestler was enough to get you an apartment and disposable income.
+> 
+> It's a fun universe, but the politics and resource allocation doesn't follow any sort of pattern. It is pretty much just a series of hand waves so that you van have a universe where everyone expects you to constantly fight and no one is upset about it. Expect to bend a lot of the setting if you want to make it make objective sense.
 
->> **u/Nine-LifedEnchanter** [+1] *
+>> **u/Nine-LifedEnchanter** [+1]  (a day later)
 >> 
 >> Yeah, things will be different enough that it makes sense, but not so different that it feels like another universe. 
->> My ttrpg group played a HxH campaign for 7 years and our GM, an engineer and rationalist, changed some things that made it more consistent.
 >> 
+>> My ttrpg group played a HxH campaign for 7 years and our GM, an engineer and rationalist, changed some things that made it more consistent.
 
-> **u/IV-TheEmperor** [+2] *
+> **u/IV-TheEmperor** [+2]  (17 hours later)
 > 
 > Contrary to other opinion, I would like to see Hunter exam again. I think it is the most interesting and easy setting to write rational story in.
-> However I'm kinda wary of doing everything from scratch, mainly because it could mean we get another training arc. Which I think the source material had done it enough.
 > 
+> However I'm kinda wary of doing everything from scratch, mainly because it could mean we get another training arc. Which I think the source material had done it enough.
 
->> **u/Nine-LifedEnchanter** [+2] *
+>> **u/Nine-LifedEnchanter** [+2]  (a day later)
 >> 
 >> I am aware of the training arc problem and I have spent some time thinking about handling it. I'm actively trying to avoid most shounen tropes that impedes pacing and rationalism.
->> 
 
-> **u/fassina2** [+2]  *Progressive Overload**
+> **u/fassina2** [+2]  *Progressive Overload* (a day later)
 > 
 > I'd personally prefer if it was something original, inspired by it.. Make something better if you can, don't be held back by someone else's creation.
-> 
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (2 days later)
 > 
 > My only knowledge about Hunter x Hunter are a few random and out of context episodes I've seen. So I know it is Shonen and different people have different powers, but not from birth or by consuming a power up. I don't even know what Hunters hunt.
-> So whatever you want to write, all I would personally care about is how well your story stands on its own feet. I'll probably have the wiki open in parallel (like I do for most fanfics I read), but if I don't need prior knowledge to enjoy your fanfic and at the same time it scratches the fandom itch of the actual fans then that's perfect for me.
 > 
+> So whatever you want to write, all I would personally care about is how well your story stands on its own feet. I'll probably have the wiki open in parallel (like I do for most fanfics I read), but if I don't need prior knowledge to enjoy your fanfic and at the same time it scratches the fandom itch of the actual fans then that's perfect for me.
 
-> **u/Nivirce** [+1] *
+> **u/Nivirce** [+1]  (22 hours later)
 > 
 > I would very much like to see that. I agree with the opinion that I'd still like to see our main cast, but I would also like to suggest some of the unexplore storylines from the manga. Particularly I would love to see Melody's quest for the three versions of The Dark Sonata
-> 
 
-> **u/immortal_lurker** [+1] *
+> **u/immortal_lurker** [+1]  (2 days later)
 > 
 > Here's my attempt at the bones of it:
-> The Hunter Association is a mix between the Justice League and a sort of platonic protection racket.
-> Superhumans are basically everywhere in this setting. Ordinary people have essentially no recourse against them. So desperate countries flocked to the Hunter Association. The rules are simple. Being a Hunter comes with incredible privileges, prestige, and freedom. 
-> And a few very basic restrictions. They are usually things like, "don't kill anyone who didn't have it coming", "avoid wanton destruction of property", and "don't start a revolution". The Hunters like the amazing lifestyle provided to them, so they at least try to police themselves.
-> Receiving a Hunter's license is society acknowledging that you're strong enough to take whatever you want, so society is going to avoid all that mess by giving you a really nice life for free.
-> Starred hunters are a little different. Getting stars means you're basically a feudal lord. You have a flipping ton of privileges, but it comes with responsibilities. You have to respond to dangers. Ging Freecss is a double star ruin hunter. Which means that if he wants a ruin that he found below your building, he can just declare immanent domain and take it, paying you what the Hunter Association thinks is fair.  
-> But if anything comes out of a ruin and attacks you, he is required to neutralize the threat. He can refuse, but your country can threaten to revoke the rights of Hunters if they think he's being overly negligent.
-> They are also required to stop rogue superhumans.
-> The lethality of the exam is mostly due to pressure from the nations supporting the Hunter Association. They want only enough hunters to keep the disasters in check, and don't really like funding them.
-> On the flip side, the general populace *loves* hunters. Most are peaceful, they tend to go dangerous places and fight bad things, and they spend money like water. 
-> Meteor City refuses to support the Hunter Association. It is protected (owned?) by the Phantom Troupe, who are classified as terrorists internationally. 
-> Various shady cities try to discretely support them, viewing them as one of the only hard checks on the Hunter Association's power.
-> Oh, and the dark continent is space.
 > 
+> The Hunter Association is a mix between the Justice League and a sort of platonic protection racket.
+> 
+> Superhumans are basically everywhere in this setting. Ordinary people have essentially no recourse against them. So desperate countries flocked to the Hunter Association. The rules are simple. Being a Hunter comes with incredible privileges, prestige, and freedom. 
+> 
+> And a few very basic restrictions. They are usually things like, "don't kill anyone who didn't have it coming", "avoid wanton destruction of property", and "don't start a revolution". The Hunters like the amazing lifestyle provided to them, so they at least try to police themselves.
+> 
+> Receiving a Hunter's license is society acknowledging that you're strong enough to take whatever you want, so society is going to avoid all that mess by giving you a really nice life for free.
+> 
+> Starred hunters are a little different. Getting stars means you're basically a feudal lord. You have a flipping ton of privileges, but it comes with responsibilities. You have to respond to dangers. Ging Freecss is a double star ruin hunter. Which means that if he wants a ruin that he found below your building, he can just declare immanent domain and take it, paying you what the Hunter Association thinks is fair.  
+> 
+> But if anything comes out of a ruin and attacks you, he is required to neutralize the threat. He can refuse, but your country can threaten to revoke the rights of Hunters if they think he's being overly negligent.
+> 
+> They are also required to stop rogue superhumans.
+> 
+> The lethality of the exam is mostly due to pressure from the nations supporting the Hunter Association. They want only enough hunters to keep the disasters in check, and don't really like funding them.
+> 
+> On the flip side, the general populace *loves* hunters. Most are peaceful, they tend to go dangerous places and fight bad things, and they spend money like water. 
+> 
+> Meteor City refuses to support the Hunter Association. It is protected (owned?) by the Phantom Troupe, who are classified as terrorists internationally. 
+> 
+> Various shady cities try to discretely support them, viewing them as one of the only hard checks on the Hunter Association's power.
+> 
+> Oh, and the dark continent is space.
 
-> **u/Sonderjye** [+1] *
+> **u/Sonderjye** [+1]  (4 days later)
 > 
 > I would like to request to avoid anything resembling a tournament arc.
-> 
 
->> **u/Nine-LifedEnchanter** [+2] *
+>> **u/Nine-LifedEnchanter** [+2]  (4 days later)
 >> 
 >> More tournament arcs, got it! It'll be like Yu Yu Hakusho, tournament arcs only!
->> /s
 >> 
+>> /s
 
->>> **u/Sonderjye** [+1] *
+>>> **u/Sonderjye** [+1]  (4 days later)
 >>> 
 >>> I've been reading a bunch of MHA fanfiction and all of them have a solid 10-20 chapters dedicated to the sports festival that fundementally could just have been glaced over and doesn't really impact the rest of the story.
->>> 
 
 ---
 

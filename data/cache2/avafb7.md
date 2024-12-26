@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/MythSteak** [+2] *
+> **u/MythSteak** [+2]  (22 hours later)
 > 
 > If you haven't read this series, then you  should stop whatever you are doing and correct yourself.
-> 
 
->> **u/MimicSquid** [+2] *
+>> **u/MimicSquid** [+2]  (a day later)
 >> 
 >> I second that. I devoured it over the last day, and while I am sleepy, I do not regret my choices.
->> 
 
-> **u/icesharkk** [+2] *
+> **u/icesharkk** [+2]  (a day later)
 > 
 > Ewww extra fingers. I have mixed feelings about theo. She was way cooler outside the dungeon.
-> 
 
 ---
 

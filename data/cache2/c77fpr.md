@@ -2,7 +2,7 @@
 
 * Author: u/FTL_wishes  *superluminal**
 * URL: https://www.fictionpress.com/s/3238329/122/A-Hero-s-War
-* Score: 35
+* Score: 36
 
 * Created: 2019-06-30T01:37:27
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Ardvarkeating101** [+3]  *Father of Learning**
+> **u/Ardvarkeating101** [+3]  *Father of Learning* (an hour later)
 > 
 > Huh, can't believe I forgot to post this.
-> 
 
 ---
 

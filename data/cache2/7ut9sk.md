@@ -2,7 +2,7 @@
 
 * Author: u/akaltyn *
 * URL: https://www.reddit.com/r/rational/comments/7ut9sk/wip_hsf_citadels_in_space_setting_im_working_on/
-* Score: 19
+* Score: 20
 
 * Created: 2018-02-02T18:16:04
 
@@ -78,46 +78,44 @@ Other less formed ideas are something longer term and bigger picture about the e
 
 ### Comments:
 
-> **u/Izeinwinter** [+8] *
+> **u/Izeinwinter** [+9]  (a day later)
 > 
 > Economic goals: 
 > 1: Types of manufacture noone sane wants anywhere near the biosphere. - that is, experimental self-replicants, solvents and acids that are extremely useful and also just ridiculously toxic, raw material extraction and refining in bulk. : Generally speaking earthside takes externalities *very seriously* which means a lot of heavy industry is automated off world. Workers on the space station are obsessively safety conscious because if anything they worked with was in any way shape or form safe, it would be happening on a ground side installation in Germany or something. This also makes soldiers very nervous because breaking a vat of goo has a very good chance of dissolving you. All of this type of activity is mostly near earth, to keep the supply chains and inevitable evacuations short. Space stations that go grey goo are focused with mirrors until they reach temperature equilibrium with the sun, which is a very reliable solution. 
-> The mining is not near earth. Melting down asteroids happens where the asteroids are. 
-> 2: Big Science. Further out, mostly because most of these projects need very empty space. Huge telescope arrays, probes shot out to do gravity lens work from beyond Pluto, LISA...
 > 
+> The mining is not near earth. Melting down asteroids happens where the asteroids are. 
+> 
+> 2: Big Science. Further out, mostly because most of these projects need very empty space. Huge telescope arrays, probes shot out to do gravity lens work from beyond Pluto, LISA...
 
-> **u/SoylentRox** [+6] *
+> **u/SoylentRox** [+6]  (a day later)
 > 
 > *Possible character arc is a technically competent astronaut who is used to working on technical projects with contiunous communication with earth having to make solo tactical and leadership decisions when communications are shut off and they are attacked.*
-> Keep in mind that since we have handheld satellite phones today, the opposite also is possible.  A handheld device could be used to communicate with ground, assuming it has LoS with one of the massive ground stations any major space agency will have.  
-> Our astronaut merely needs to shield his device from any jammers the enemy is using such that no jammer can see the phone while it can see the antenna.
 > 
+> Keep in mind that since we have handheld satellite phones today, the opposite also is possible.  A handheld device could be used to communicate with ground, assuming it has LoS with one of the massive ground stations any major space agency will have.  
+> 
+> Our astronaut merely needs to shield his device from any jammers the enemy is using such that no jammer can see the phone while it can see the antenna.
 
->> **u/None** [+5] *
+>> **u/None** [+4]  (a day later)
 >> 
 >> As above, so below - as below, so above - any competent corporate strike would probably be accompanied by an attack - social, software, hardware, whatever - to minimize the ability of the target to communicate with their handlers on the ground.
->> 
 
->>> **u/SoylentRox** [+2] *
+>>> **u/SoylentRox** [+2]  (a day later)
 >>> 
 >>> Maybe.  I guess what I am trying to say is that I am skeptical that this is a practical action the enemy can take.  Storm the place with dudes wearing armored suits and carrying environment appropriate weapons?  Sure.  But jamming the signals for days and preventing all communications isn't.
->>> 
 
-> **u/EthanCC** [+3] *
+> **u/EthanCC** [+3]  (2 days later)
 > 
 > But on the other hand, if your goal is to ruin a competitor or if you are at a military disadvantage, there's no reason no to just destroy a space station. I don't think this situation would be stable, since anyone at a disadvantage can just flip the table. And that's not getting into political reasons for destroying a space station.
-> 
 
-> **u/stevedoesIP** [+2] *
+> **u/stevedoesIP** [+2]  (3 days later)
 > 
 > On the economics what if you had reliable terraforming tech, but it took thousands of years and was finnicky (I.E. required constant monitoring and tweaking by present staff or settlers).
-> To make that work you essentially need an on site society, but owning a significant chunk of a livable planet is definitely a worthwhile investment.
 > 
+> To make that work you essentially need an on site society, but owning a significant chunk of a livable planet is definitely a worthwhile investment.
 
-> **u/ben_oni** [+1] *
+> **u/ben_oni** [+1]  (2 days later)
 > 
 > Just install self-destruct devices on all stations. If a station ever falls into enemy hands, just destroy it. What's the point of capturing something that will fall apart on you as soon as you've taken it?
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/8f0evo/news_regarding_fargo_madoka_fic_sequel/
-* Score: 17
+* Score: 18
 
 * Created: 2018-04-26T05:54:25
 
@@ -23,46 +23,44 @@ I assume there are others in this subreddit like myself, so I decided to submit 
 
 ### Comments:
 
-> **u/Noumero** [+6]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+6]  *Self-Appointed Court Statistician* (3 hours later)
 > 
 > I do not think it's a sequel. Bavitz mentioned that it's "an **original** dark and psychological urban fantasy featuring high school girls as protagonists", i. e. not a PMMM fanfiction. Albeit that tweet seems to be deleted, there are still, not to put too fine a point on it, *ways* to access it.
-> Bavitz is also active on a Discord server of a subreddit related to one of the two stories OP mentioned, though I'll similarly refrain from mentioning the particulars, since Bavitz seems to value anonymity. Frankly, I already said too much — the rest could be inferred with a bit of work — but my desire to share valuable findings is only slightly weaker than my desire to be ethical.
 > 
+> Bavitz is also active on a Discord server of a subreddit related to one of the two stories OP mentioned, though I'll similarly refrain from mentioning the particulars, since Bavitz seems to value anonymity. Frankly, I already said too much — the rest could be inferred with a bit of work — but my desire to share valuable findings is only slightly weaker than my desire to be ethical.
 
-> **u/MaddoScientisto** [+3] *
+> **u/MaddoScientisto** [+3]  (22 minutes later)
 > 
 > That's some very good news, I enjoyed both stories immensely and I'm looking forward to his new one
-> 
 
-> **u/lawnmowerlatte** [+1] *
+> **u/lawnmowerlatte** [+1]  (10 hours later)
 > 
 > Can't wait. Fargo was really good!
-> 
 
-> **u/skwint** [+1] *
+> **u/skwint** [+1]  (11 hours later)
 > 
 > RemindMe! May 5th 4PM "Chicago - Chapter 1 - Bavitz"
-> 
 
->> **u/RemindMeBot** [+1] *
+>> **u/RemindMeBot** [+1]  (11 hours later)
 >> 
 >> I will be messaging you on [**2018-05-05 16:00:00 UTC**](http://www.wolframalpha.com/input/?i=2018-05-05 16:00:00 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/rational/comments/8f0evo/news_regarding_fargo_madoka_fic_sequel/)
+>> 
 >> [**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/rational/comments/8f0evo/news_regarding_fargo_madoka_fic_sequel/]%0A%0ARemindMe!  May 5th 4PM ) to send a PM to also be reminded and to reduce spam.
+>> 
 >> ^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dy0gn1b)
+>> 
 >> _____
+>> 
 >> |[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
 >> |-|-|-|-|-|-|
->> 
 
-> **u/Boscolt** [+1] *
+> **u/Boscolt** [+1]  (a day later)
 > 
 > Holy shit, I was just coincidentally googling this fanfic for a reread and I found this thread talking about a sequel.
-> 
 
->> **u/Redzedhead** [+1] *
+>> **u/Redzedhead** [+1]  (5 months later)
 >> 
 >> The sequel is out now. Arc 1 is complete.
->> 
 
 ---
 

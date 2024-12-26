@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.royalroad.com/fiction/30636/the-patchwork-realms-arrival/chapter/548504/chapter-16-court-concluded-also-math
-* Score: 14
+* Score: 13
 
 * Created: 2020-09-05T04:00:06
 
@@ -12,35 +12,32 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+4] *
+> **u/eaglejarl** [+3]  (28 seconds later)
 > 
 > The previous chapter got renamed because court did not actually conclude there, it concludes here.  Also, there's math.
-> 
 
->> **u/eaglejarl** [+6] *
+>> **u/eaglejarl** [+5]  (11 hours later)
 >> 
 >> Sidebar:  It's actually very difficult writing a character who knows nothing about basic arithmetic.  It's so ingrained into our thought patterns that it's hard to notice when you're using it.
->> 
 
->>> **u/sparr** [+2] *
+>>> **u/sparr** [+2]  (a day later)
 >>> 
 >>> My wife is effectively innumerate and it's been eye opening for me.
->>> 
 
->>> **u/PDNeznor** [+2] *
+>>> **u/PDNeznor** [+2]  (a day later)
 >>> 
 >>> Oh god, oh no, Athos doesnt know math? Oh geez, oh my, thats so awful. How could you cripple him so?
 >>> On a related note, he was using division before when he counted how many uses of Mystic Acceleration he had left in the court fight. Might want to look into modifying that bit if he can only count.
 >>> Maybe by saying something like "looking at my mana i can still use MA a bunch of times so itll probably be fine if i use it on this bunch once." Or something like that.
 >>> Also, all of the spirit web stuff would technically be addition/subtraction, but he understands that much, so that should be fine. Just means he's not as ignorant as everybody thought.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> > On a related note, he was using division before when he counted how many uses of Mystic Acceleration he had left in the court fight. 
->>>> Doh.  That's exactly what I was talking about -- arithmetic is so ingrained in graduates of the modern school system that we (at least I) don't even recognize when it's being used.
->>>> Thanks for pointing this out. Will fix.
 >>>> 
+>>>> Doh.  That's exactly what I was talking about -- arithmetic is so ingrained in graduates of the modern school system that we (at least I) don't even recognize when it's being used.
+>>>> 
+>>>> Thanks for pointing this out. Will fix.
 
 ---
 

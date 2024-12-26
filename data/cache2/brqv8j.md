@@ -16,176 +16,189 @@ I would also love advice for writing villains that can read the protagonists’ 
 
 ### Comments:
 
-> **u/best_cat** [+17] *
+> **u/best_cat** [+16]  (4 hours later)
 > 
 > The problem with balance comes down to a notion of "gains from trade."
-> I'll only make a trade if the thing I'm getting (a soda) is worth more to me than the thing I'm giving up ($1).  Soda machines work because Coca-Cola and I *disagree* about the actual value of a soda.  
-> Maybe Coke can produce cans for $0.50/each, and the drink provides me with $2 worth of pleasure.  That difference is valuations is what motivates us to trade.
-> If I'm offered a trade that's equal according to *my* valuation, then I'm not doing to bother.  By definition, it doesn't make me better off, so why expend any effort?
-> If the McGuffin uses some other valuation, then it can be useful, but at that point, we start looking for exploits.  I'd more of less pick what I want to buy (eg. "a cure for my friend's cancer") and then start searching for the least-valuable-to-me thing that the McGuffin regards as a fair exchange.
-> For instance, if the trade is "a life for a life" then I'd head to the grocery store, buy a couple lobsters, and sacrifice the lobster's life for the life of my friend.  (Then try bugs, or clams and see if I can heal everyone in the local cancer ward)
-> If we're restricted to human lives, then I'd cast the spell targeting people who are seconds away from death due to some natural cause.
-> I think the narrative problem here is that the things are too similar.  If we do "life for life" then either we prefer one to the other, or we say that they're similar enough that the outcome doesn't matter.
 > 
+> I'll only make a trade if the thing I'm getting (a soda) is worth more to me than the thing I'm giving up ($1).  Soda machines work because Coca-Cola and I *disagree* about the actual value of a soda.  
+> 
+> Maybe Coke can produce cans for $0.50/each, and the drink provides me with $2 worth of pleasure.  That difference is valuations is what motivates us to trade.
+> 
+> If I'm offered a trade that's equal according to *my* valuation, then I'm not doing to bother.  By definition, it doesn't make me better off, so why expend any effort?
+> 
+> If the McGuffin uses some other valuation, then it can be useful, but at that point, we start looking for exploits.  I'd more of less pick what I want to buy (eg. "a cure for my friend's cancer") and then start searching for the least-valuable-to-me thing that the McGuffin regards as a fair exchange.
+> 
+> For instance, if the trade is "a life for a life" then I'd head to the grocery store, buy a couple lobsters, and sacrifice the lobster's life for the life of my friend.  (Then try bugs, or clams and see if I can heal everyone in the local cancer ward)
+> 
+> If we're restricted to human lives, then I'd cast the spell targeting people who are seconds away from death due to some natural cause.
+> 
+> I think the narrative problem here is that the things are too similar.  If we do "life for life" then either we prefer one to the other, or we say that they're similar enough that the outcome doesn't matter.
 
->> **u/Ardvarkeating101** [+7]  *Father of Learning**
+>> **u/Ardvarkeating101** [+7]  *Father of Learning* (9 hours later)
 >> 
 >> There was an SMBC comic about Satan counting zygotes briefly combined and then technologically separated as souls, and so they made enormous "soul generators" to sell to satan for immortality and no negative consequences. 
->> Sounds like that, honestly.
 >> 
+>> Sounds like that, honestly.
 
->>> **u/TheJungleDragon** [+1] *
+>>> **u/TheJungleDragon** [+1]  (22 hours later)
 >>> 
 >>> Do you have the link to the comic?
->>> 
 
->>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (23 hours later)
 >>>> 
 >>>> I'm searching but SMBC doesn't have a search engine and duckduckgo can't seem to find it.  Uh............  It has Satan invading heaven screaming "My armies are infinite" with the caption "There are *some* downsides".  But those doesn't really help when searching.
->>>> 
 
->>>>> **u/rngoddesst** [+8] *
+>>>>> **u/rngoddesst** [+7]  (a day later)
 >>>>> 
 >>>>> [https://www.smbc-comics.com/comic/2012-11-19](https://www.smbc-comics.com/comic/2012-11-19)
->>>>> 
 
->>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (a day later)
 >>>>>> 
 >>>>>> You are a living treasure
->>>>>> 
 
->>>>>> **u/meterion** [+3] *
+>>>>>> **u/meterion** [+3]  (a day later)
 >>>>>> 
 >>>>>> /u/TheJungleDragon see above, since I don't think you'd get pinged by the comment.
->>>>>> 
 
->>>>>> **u/TheJungleDragon** [+1] *
+>>>>>> **u/TheJungleDragon** [+1]  (a day later)
 >>>>>> 
 >>>>>> Thanks man!
->>>>>> 
 
->> **u/TheJungleDragon** [+2] *
+>> **u/TheJungleDragon** [+2]  (22 hours later)
 >> 
 >> There is one way to benefit from a 'balanced' trade which varies in reward based on the perception of the user towards the trade, and that's to give someone who doesn't fully understand what they are doing the McGuffin. As an example, /u/CreationBlues said lower down in the thread that a dog level AI would be incredibly helpful for AI research. Now, if you were to tell an AI researcher to make that trade, they would presumably have to sacrifice huge amounts to create that dog AI, as they have an intrinsic understanding of the huge amounts of good that could come from that trade. On the other hand, give your average (trusted) adult who has different things to worry about the McGuffin, and order *them* to make the  trade, and they won't understand the full consequences of the trade they are making, and thus the dog AI gets made for much cheaper than it otherwise would have.
->> So if the protagonist wants to end death, if they can't do it in a roundabout way and have to do it very urgently for whatever reason, then maybe they talk to the town crazy who believes they have unlimited power over life and death. The protag gives them the McGuffin secretly and tells them to end death for whatever reason, then silently takes the McGuffin back. This would only be done in the worst case scenario, of course, and would normally take place after very carefully vetting candidates who are just the right combination of loyal, and uneducated in a specific area. Example: an adult who has received no formal training in physics is told to wish for a chunk of rock, using a gold bar as a sacrifice. Obviously the gold is viewed as much more valuable than the big chunk of rock, and thermodynamics has been violated easily enough.
->> And if the value of the trade is made from a static subjective position, like the average of human belief, then the plan still somewhat works - as the average human probably places about the same value on a dog AI as they would a living dog.
 >> 
+>> So if the protagonist wants to end death, if they can't do it in a roundabout way and have to do it very urgently for whatever reason, then maybe they talk to the town crazy who believes they have unlimited power over life and death. The protag gives them the McGuffin secretly and tells them to end death for whatever reason, then silently takes the McGuffin back. This would only be done in the worst case scenario, of course, and would normally take place after very carefully vetting candidates who are just the right combination of loyal, and uneducated in a specific area. Example: an adult who has received no formal training in physics is told to wish for a chunk of rock, using a gold bar as a sacrifice. Obviously the gold is viewed as much more valuable than the big chunk of rock, and thermodynamics has been violated easily enough.
+>> 
+>> And if the value of the trade is made from a static subjective position, like the average of human belief, then the plan still somewhat works - as the average human probably places about the same value on a dog AI as they would a living dog.
 
->>> **u/best_cat** [+3] *
+>>> **u/best_cat** [+3]  (22 hours later)
 >>> 
 >>> You could do a great twist on "Those who walk away from Omelas^1 " based on this:
+>>> 
 >>> > Timmy loved his dog, and wouldn't trade him for anything in the whole wide world. 
 >>> >
 >>> > And that's why the McGuffin men came to his door
->>> ^1 Or maybe John Wick?
 >>> 
+>>> ^1 Or maybe John Wick?
 
->> **u/Aegeus** [+1] *
+>> **u/Aegeus** [+1]  (2 days later)
 >> 
 >> "The trade is positive-sum to me but from an outside perspective it's zero-sum" sounds like a negative externality.  Clearly, Hawk Moth thinks that getting his wife back is worth any price, so the trade is beneficial according to his own valuation, but not according to the rest of humanity's.
->> (Although there's one person that I think he would consider an "equal" trade for his wife, such that he'd regret making the trade if that was the price.  I suppose we won't know for sure until the series finale.)
->> Looking for exploits in the Miraculous's value function is theoretically possible, but risky.  We don't know if the price is known or specified by the caster in advance, or if it just extracts whatever price it thinks is fair after you're done using it.  Start small - maybe bring someone's pet back to life instead of a person.
->> On the other hand, neither Hawk Moth nor Master Fu has seen a wish made in person, as far as we know, so it's possible they're both wrong about how it really works.  Plenty of room for a fanfic author to play around.
 >> 
+>> (Although there's one person that I think he would consider an "equal" trade for his wife, such that he'd regret making the trade if that was the price.  I suppose we won't know for sure until the series finale.)
+>> 
+>> Looking for exploits in the Miraculous's value function is theoretically possible, but risky.  We don't know if the price is known or specified by the caster in advance, or if it just extracts whatever price it thinks is fair after you're done using it.  Start small - maybe bring someone's pet back to life instead of a person.
+>> 
+>> On the other hand, neither Hawk Moth nor Master Fu has seen a wish made in person, as far as we know, so it's possible they're both wrong about how it really works.  Plenty of room for a fanfic author to play around.
 
-> **u/darkflagrance** [+6] *
+> **u/darkflagrance** [+7]  (4 hours later)
 > 
 > Considering the main villain is already opposed to death, maybe he realizes that he could potentially persuade the protagonists (one of whom is his son!) to his side by manipulating events in their lives. He could leverage the more powerful tool his McGuffin offers him - to surveil the emotions of others, rather than just use those emotions to corrupt them - to ensure the creation of a dystopian society that everyone would wish reformed.
-> &#x200B;
-> Instead of creating supervillains who get instantly defeated, create superpowered agents (Lila, Nathalie) who manipulate society from the shadows, empowering them temporarily to make mundane changes to society's detriment and exaggerating the flaws of its selfish aristocracy (the mayor's family).
-> &#x200B;
-> If Ladybug personally experienced death and suffering that she needs her McGuffin to fix, perhaps she could be persuaded that the status quo needed changing. The villain doesn't even need to know her true identity to influence her this way.
 > 
+> &#x200B;
+> 
+> Instead of creating supervillains who get instantly defeated, create superpowered agents (Lila, Nathalie) who manipulate society from the shadows, empowering them temporarily to make mundane changes to society's detriment and exaggerating the flaws of its selfish aristocracy (the mayor's family).
+> 
+> &#x200B;
+> 
+> If Ladybug personally experienced death and suffering that she needs her McGuffin to fix, perhaps she could be persuaded that the status quo needed changing. The villain doesn't even need to know her true identity to influence her this way.
 
->> **u/etiepe** [+2] *
+>> **u/etiepe** [+2]  (4 hours later)
 >> 
 >> Since you’re familiar with the source material, can I trouble you for constructive criticism for what I already have up? I’m going to have all the pieces close to where I want them by Sunday, but “the villain had a valid point but needs to think on a grander scope” is... always problematic.
->> 
 
-> **u/dyxsst** [+3] *
+> **u/dyxsst** [+3]  (4 hours later)
 > 
 > I am familiar with the source material. I've been thinking for a while on what I could advice you, but after seriously thinking about it I don't see any objection in letting the Villain try out using the McGuffins, and undo it if things went southwards (didn't know about the secondary effects of using their combined power though).
-> As best\_cat said, the best option is to play it straight. Either have the MC be more worried about the possible fallout of allowing the Villain the single use of the McGuffins, or let her do it and deal with whatever happens afterwards, including any guilty concience in case of a massively horrible consequence. If you change the main conflict to the morality of the usage of the McGuffins, the Villain's methods to secure them can be changed a lot from physical to psychological. If the Villain can be open about his goals it can even produce additional conflict between the 2 MC's.
 > 
+> As best\_cat said, the best option is to play it straight. Either have the MC be more worried about the possible fallout of allowing the Villain the single use of the McGuffins, or let her do it and deal with whatever happens afterwards, including any guilty concience in case of a massively horrible consequence. If you change the main conflict to the morality of the usage of the McGuffins, the Villain's methods to secure them can be changed a lot from physical to psychological. If the Villain can be open about his goals it can even produce additional conflict between the 2 MC's.
 
->> **u/etiepe** [+1] *
+>> **u/etiepe** [+1]  (4 hours later)
 >> 
 >> Since you’re familiar with the source material, can I trouble you for constructive criticism for what I already have up? I’m going to have all the pieces close to where I want them by Sunday, but “the villain had a valid point but needs to think on a grander scope” is... always problematic.
->> 
 
-> **u/CreationBlues** [+2] *
+> **u/CreationBlues** [+2]  (3 hours later)
 > 
 > I'm going to preface this with the idea that I'm not familiar with the media you're referencing, so I'm not sure how acurate my analysis will be.
-> Obviously, the goal here is to minimize suffering while maximizing return. An AI? Sure, humanity's cool and all, but a lot of what we want out of an AI can be had with animal level inteligences, for example, a dog AI would be massively helpful. Considering that an AI could be theoretically extended with high level modules that could handle things like memory and logic, and you find your bang for your buck starts going pretty far.
-> You could go pretty far with that. Livestock massively outnumbers humans, and even with a shitty conversion rate for life force, you get a fast and humane way of slaughtering them.
 > 
+> Obviously, the goal here is to minimize suffering while maximizing return. An AI? Sure, humanity's cool and all, but a lot of what we want out of an AI can be had with animal level inteligences, for example, a dog AI would be massively helpful. Considering that an AI could be theoretically extended with high level modules that could handle things like memory and logic, and you find your bang for your buck starts going pretty far.
+> 
+> You could go pretty far with that. Livestock massively outnumbers humans, and even with a shitty conversion rate for life force, you get a fast and humane way of slaughtering them.
 
-> **u/WalterTFD** [+2] *
+> **u/WalterTFD** [+2]  (22 hours later)
 > 
 > Consider letting the villain that can read the protagonist's mind win.  Like, that ought to be a huge advantage, and its a twist most readers won't see coming.  Make the villlain's objective something that they can achieve without breaking the story too much, then have them achieve it because "telepathy, son!"
-> 
 
->> **u/etiepe** [+1] *
+>> **u/etiepe** [+1]  (23 hours later)
 >> 
 >> He’s definitely going to have a catastrophic success situation going on
->> 
 
-> **u/best_cat** [+1] *
+> **u/best_cat** [+1]  (2 hours later)
 > 
 > One (extremely satisfying for me) option would be to play the moral choice situation straight. 
-> The standard non-rationalist story sets up a choice between two moral options: Do we achieve some large (but impersonal) good?  Or do we preserve our sacred values like "never leave a man behind" or "never use human lives as a means to and end". 
-> The problem is that non-rationalist authors inevitably flinch.
-> Maybe we learn that the villain is actually just selfish and all of their utilitarian rhetoric is just a lie.  Or maybe the hero gets lucky for reasons outside of their control and knowledge.
-> Either way, the inevitable non-rationalist outcome is that the Hero gets to preserve their sacred values, keep their heroic reputation AND ALSO achieve the large-scale good that the villain wanted.
-> I'd honestly just play is straight, but don't flinch, and spend a bunch of camera time on the "impersonal" people who the camera normally glosses over.
-> Like, in Chapter 1 the hero refuses to sacrifice someone to end a plague.  They save the victim and secure the McGuffin.  But then the plague gets out and kills 10% of the people in their city. 
-> Chapter 2, and the rest of the story, would involve the aftermath.  The heroes have the McGuffin, but now need to keep it safe from the many, many people who've been hurt and want to use the item for the "greater good."
 > 
+> The standard non-rationalist story sets up a choice between two moral options: Do we achieve some large (but impersonal) good?  Or do we preserve our sacred values like "never leave a man behind" or "never use human lives as a means to and end". 
+> 
+> The problem is that non-rationalist authors inevitably flinch.
+> 
+> Maybe we learn that the villain is actually just selfish and all of their utilitarian rhetoric is just a lie.  Or maybe the hero gets lucky for reasons outside of their control and knowledge.
+> 
+> Either way, the inevitable non-rationalist outcome is that the Hero gets to preserve their sacred values, keep their heroic reputation AND ALSO achieve the large-scale good that the villain wanted.
+> 
+> I'd honestly just play is straight, but don't flinch, and spend a bunch of camera time on the "impersonal" people who the camera normally glosses over.
+> 
+> Like, in Chapter 1 the hero refuses to sacrifice someone to end a plague.  They save the victim and secure the McGuffin.  But then the plague gets out and kills 10% of the people in their city. 
+> 
+> Chapter 2, and the rest of the story, would involve the aftermath.  The heroes have the McGuffin, but now need to keep it safe from the many, many people who've been hurt and want to use the item for the "greater good."
 
-> **u/Nimelennar** [+1] *
+> **u/Nimelennar** [+1]  (4 hours later)
 > 
 > It's hard to help you on the "eliminating death" idea without knowing how "balance" is determined.  It may be exploitable.
-> For instance, let's say that there are million sentient species in the universe.  Could you sacrifice 1% of the lifespan of one species in the universe to make the human lifespan 1% longer?  And then repeat that for every species in the universe?
-> 1.01^(1,000,000) is equivalent to about 10^(4,321).
-> And then you could sacrifice, say, a googol of years of the new human lifespan to extend the lifespan of each of the species you borrowed the 1% from by the same googol of years, costing you 10^(106) years of the new human lifespan, which doesn't even approach a rounding error.
-> I can't know whether that exploit, or one like it, would work, without knowing how whether a change is "balanced" or not is decided.
 > 
+> For instance, let's say that there are million sentient species in the universe.  Could you sacrifice 1% of the lifespan of one species in the universe to make the human lifespan 1% longer?  And then repeat that for every species in the universe?
+> 
+> 1.01^(1,000,000) is equivalent to about 10^(4,321).
+> 
+> And then you could sacrifice, say, a googol of years of the new human lifespan to extend the lifespan of each of the species you borrowed the 1% from by the same googol of years, costing you 10^(106) years of the new human lifespan, which doesn't even approach a rounding error.
+> 
+> I can't know whether that exploit, or one like it, would work, without knowing how whether a change is "balanced" or not is decided.
 
->> **u/Nimelennar** [+2] *
+>> **u/Nimelennar** [+2]  (9 hours later)
 >> 
 >> Heck, you wouldn't even have to Munchkin it *that* hard...  There are already people working on human immortality.  All you have to do is transfer knowledge and processing power to them and they'll do the job for you, with a much lower moral cost.  No genocide necessary.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (7 hours later)
 > 
 > Maybe the genocide of a non-sapient species that would end up killing/harming innocent sapient beings?
-> 
 
->> **u/etiepe** [+2] *
+>> **u/etiepe** [+2]  (7 hours later)
 >> 
 >> I don't know if that maintains balance, and there's another sentient, non-human, immortal species that's RIGHT THERE in the canon
->> ...but that's super dark and the protagonist absolutely wouldn't do that.
->> Maybe that's how humans stay mortal...?
 >> 
+>> ...but that's super dark and the protagonist absolutely wouldn't do that.
+>> 
+>> Maybe that's how humans stay mortal...?
 
->>> **u/etiepe** [+3] *
+>>> **u/etiepe** [+3]  (7 hours later)
 >>> 
 >>> I think I just found my endgame for the big bad
->>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> I haven't seen/read the series, but just to clarify, I meant sentient, but not sapient. As in, self aware, but without emotions.
->>> 
 
-> **u/Aegeus** [+1] *
+> **u/Aegeus** [+1]  (2 days later)
 > 
 > I feel like the wish-granting ability works better as a background hook rather than a main focus, both because it hasn't been fully explained on screen, and because I'm a little tired of ratfic discussion centering around wish-granting and/or the risks of asking a UFAI to grant wishes.  Not saying it can't be done well, just that it's been done.
-> As for Hawk Moth's emotion sensing abilities, there's one clear gap in his abilities: He can't break secret identities.  He's never noticed the fact that Marinette's emotions disappear from his senses, shortly followed by Ladybug appearing on his radar in the same spot.
-> There are a couple of possible explanations for this - maybe it's magic, maybe he can't sense people when they're not thinking akuma-worthy thoughts (which Marinette rarely is), maybe he hasn't realized how much information he can get from the absence of evidence.  But whatever the reason, it limits him to making short-term plans.  He can't wage long psychological campaigns because he only knows what Ladybug and Cat Noir are thinking in the narrow window between when they show up and when they defeat the Akuma.  That's probably enough to keep the heroes safe.
-> (Going with the third option - that he *could* break their identity but hasn't yet figured out how to do so - could be interesting, since it sort of fits the series rule that Ladybug and Cat Noir aren't immune to the villains' powers and it's something you could build up to over a story.)
-> One other thing I think he could be doing better is re-using his Akumas.  Ladybug and Cat Noir are slowly mastering their abilities, but Hawk Moth never has a tool on hand long enough to learn more than the basics of it.  Yes, they become a lot weaker when Ladybug and Cat Noir already know their abilities, but combinations of their powers can be pretty damn powerful, and he can bring out new Akumas with no cooldown while Ladybug and Cat Noir need time to recharge.  Gathering people like Lila and Nathalie who he can repeatedly send out gives him the ability to make long-term plans instead of starting fresh with each Akuma.
 > 
+> As for Hawk Moth's emotion sensing abilities, there's one clear gap in his abilities: He can't break secret identities.  He's never noticed the fact that Marinette's emotions disappear from his senses, shortly followed by Ladybug appearing on his radar in the same spot.
+> 
+> There are a couple of possible explanations for this - maybe it's magic, maybe he can't sense people when they're not thinking akuma-worthy thoughts (which Marinette rarely is), maybe he hasn't realized how much information he can get from the absence of evidence.  But whatever the reason, it limits him to making short-term plans.  He can't wage long psychological campaigns because he only knows what Ladybug and Cat Noir are thinking in the narrow window between when they show up and when they defeat the Akuma.  That's probably enough to keep the heroes safe.
+> 
+> (Going with the third option - that he *could* break their identity but hasn't yet figured out how to do so - could be interesting, since it sort of fits the series rule that Ladybug and Cat Noir aren't immune to the villains' powers and it's something you could build up to over a story.)
+> 
+> One other thing I think he could be doing better is re-using his Akumas.  Ladybug and Cat Noir are slowly mastering their abilities, but Hawk Moth never has a tool on hand long enough to learn more than the basics of it.  Yes, they become a lot weaker when Ladybug and Cat Noir already know their abilities, but combinations of their powers can be pretty damn powerful, and he can bring out new Akumas with no cooldown while Ladybug and Cat Noir need time to recharge.  Gathering people like Lila and Nathalie who he can repeatedly send out gives him the ability to make long-term plans instead of starting fresh with each Akuma.
 
 ---
 

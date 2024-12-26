@@ -17,169 +17,172 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/Do_Not_Go_In_There** [+19] *
+> **u/Do_Not_Go_In_There** [+18]  (an hour later)
 > 
 > I recently came across [*My Next Life as a Supervillain: All Routes Lead to Doctor Doom!*](https://forums.spacebattles.com/threads/my-next-life-as-a-supervillain-all-routes-lead-to-doctor-doom-hamefura-mcu.1164297/), a MCU x Hamefura crossover, and I'm loving it.
-> If you're not familiar with [Hamefure](https://en.wikipedia.org/wiki/My_Next_Life_as_a_Villainess:_All_Routes_Lead_to_Doom!), it's a story that basically combines a "reincarnated as a villain" with the dense MC trope, but playing up the latter more for laughs than cringeness.
-> Here the MC is Katerina von Doom, who got a boink on the head (when her science project exploded in her face), and remembers how the MCU story plays out. She decides to try and prevent some of the worst events, or at least diminish the collateral damage, and ends up a victim of her own success.
 > 
+> If you're not familiar with [Hamefure](https://en.wikipedia.org/wiki/My_Next_Life_as_a_Villainess:_All_Routes_Lead_to_Doom!), it's a story that basically combines a "reincarnated as a villain" with the dense MC trope, but playing up the latter more for laughs than cringeness.
+> 
+> Here the MC is Katerina von Doom, who got a boink on the head (when her science project exploded in her face), and remembers how the MCU story plays out. She decides to try and prevent some of the worst events, or at least diminish the collateral damage, and ends up a victim of her own success.
 
->> **u/XxChronOblivionxX** [+11] *
+>> **u/XxChronOblivionxX** [+10]  (6 hours later)
 >> 
 >> It's a lot of fun, infusing the derpy Bakarina with that much raw intelligence results in someone that is very entertaining to read.
->> 
 
->> **u/NTaya** [+6]  *Tzeentch**
+>> **u/NTaya** [+4]  *Tzeentch* (2 days later)
 >> 
 >> I open the link in idle curiosity and immediately saw TL;DRs for the source materials. Which made me like the author on the spot—I wish more people did this, especially for crossovers.
->> 
 
->> **u/Dragongeek** [+3]  *Path to Victory**
+>> **u/Dragongeek** [+3]  *Path to Victory* (4 days later)
 >> 
 >> I read what's there and it's not bad. Amusing, and definitely above average in this genre.
->> Also I know nothing about Hamefure, and don't feel like my reading experience was impacted at all. Very little of it seems relevant besides the isekai setup.
 >> 
+>> Also I know nothing about Hamefure, and don't feel like my reading experience was impacted at all. Very little of it seems relevant besides the isekai setup.
 
->> **u/ozbooks** [+3] *
+>> **u/ozbooks** [+3]  (4 days later)
 >> 
 >> I enjoyed this. Any recommendations for other Dr. Doom fics?
->> 
 
->> **u/Revlar** [+3] *
+>> **u/Revlar** [+4]  (3 days later)
 >> 
 >> Probably the most Bakarina-in-name-only story I've seen. She acts nothing like the character. She acts like every other SI fanfic protagonist. The only Bakarina thing about her is how she accidentally gets two people to fall in love with her early on, but she doesn't do that by doing what Bakarina would do. She does it by doing SI things
->> 
 
->>> **u/Naitra** [+9] *
+>>> **u/Naitra** [+9]  (4 days later)
 >>> 
 >>> Yeah, it is a pretty meh self-insert among the sea of marvel self inserts.
->>> 
 
->>>> **u/happyfridays_** [+5] *
+>>>> **u/happyfridays_** [+5]  (4 days later)
 >>>> 
 >>>> Any recs for good marvel SI's?
->>>> 
 
-> **u/GlueBoy** [+9]  *anti-skub**
+> **u/GlueBoy** [+9]  *anti-skub* (11 hours later)
 > 
 > Any recommendations for stories that:
+> 
 > - take place over long time spans 
 > - society changing in the background/foreground figures as part of the plot or themes
+> 
 > Optional: 
+> 
 > - features the same protagonist throughout
 > - fantasy or anything besides scifi would be nice too for a change
+> 
 > I'm thinking of something along the lines of **The Forever War**, which takes place over 1000 years with the same characters experiencing everything due to traveling at relativistic speeds. Every time they return to earth they experience massive culture shock from the changes that the society underwent in the decades or centuries they are gone. 
+> 
 > Other works: 
+> 
 > Scifi
+> 
 > - Foundation
 > - A Canticle for Leibowitz
 > - Seveneves
 > - The Years of Rice and Salt
 > - Children of Time
+> 
 > Fantasy
+> 
 > - Mistborn series, era 1 and 2
 > - Ar'kendrithist(kinda applies)
 > - Tree of Aeons(recommended with many caveats)
-> 
 
->> **u/Do_Not_Go_In_There** [+7] *
+>> **u/Do_Not_Go_In_There** [+8]  (11 hours later)
 >> 
 >> Have you read *The Century Trilogy* series by Ken Follett? It starts a bit before WW1 and ends with the fall of the wall, and covers the majors events that happen over the years. It doesn't have the same protagonist throughout, but does follow 3-4 families as they adapt to changing times.
->> Fair warning, it is *very* long. Three book that are ~1000 pages each.
 >> 
+>> Fair warning, it is *very* long. Three book that are ~1000 pages each.
 
->>> **u/GlueBoy** [+5]  *anti-skub**
+>>> **u/GlueBoy** [+5]  *anti-skub* (11 hours later)
 >>> 
 >>> Thanks, I'll check it out. Though from what I can see it's historical fiction, which is something I've never managed to get into. It's weird because I read a lot of fiction and I read a lot of history, but for whatever reason I can't stand the two put together without some kind of twist, alternate history or time travel or something along those lines.
->>> 
 
->> **u/gfe98** [+6] *
+>> **u/gfe98** [+4]  (11 hours later)
 >> 
 >> You could try some "civilization management quest" fics.
->> [Paths of Civilization](https://forums.sufficientvelocity.com/threads/paths-of-civilization.36410/)
->> [Keeping to the Dream: A Warhammer Age of Strife Quest](https://forums.sufficientvelocity.com/threads/keeping-to-the-dream-a-warhammer-age-of-strife-quest.58431/#post-13257561)
 >> 
+>> [Paths of Civilization](https://forums.sufficientvelocity.com/threads/paths-of-civilization.36410/)
+>> 
+>> [Keeping to the Dream: A Warhammer Age of Strife Quest](https://forums.sufficientvelocity.com/threads/keeping-to-the-dream-a-warhammer-age-of-strife-quest.58431/#post-13257561)
 
->> **u/IICVX** [+4] *
+>> **u/IICVX** [+6]  (13 hours later)
 >> 
 >> I'm surprised you put Seveneves on the list but not Anathem, I feel like it had a similar feeling what with Stephenson's normal digressions into history (in this case, of the setting). 
->> Anyway you might like Alastair Reynold's sci-fi - he tends to write stories without FTL, so time tends to pass in huge chunks. _Pushing Ice_ specifically fills your request though, I think. 
->> Another sci-fi author you might like is Dan Simmons - his Hyperion Cantos is great, largely features the same protagonist, and is the kind of sci-fi that's basically magic.
->> Focusing a bit on fantasy: David Eddings books are pretty trash, but I liked _Belgarath the Sorcerer_ and _Polgara the Sorceress_. They're teeeechnically the two capstone books of his Belgariad and Mallorean quintets(?) and I think you're intended to read them after those ten other books, but they work just fine standalone. Eddings also has _The Redemption of Athalus_, which is worse but is definitely standalone. 
->> On a similar vein, there's the Elminster novels; if you're not familiar, he's a DM PC from the guy who created the D&D Forgotten Realms setting. Elminster's an ancient archmage so there's all that going on.
 >> 
+>> Anyway you might like Alastair Reynold's sci-fi - he tends to write stories without FTL, so time tends to pass in huge chunks. _Pushing Ice_ specifically fills your request though, I think. 
+>> 
+>> Another sci-fi author you might like is Dan Simmons - his Hyperion Cantos is great, largely features the same protagonist, and is the kind of sci-fi that's basically magic.
+>> 
+>> Focusing a bit on fantasy: David Eddings books are pretty trash, but I liked _Belgarath the Sorcerer_ and _Polgara the Sorceress_. They're teeeechnically the two capstone books of his Belgariad and Mallorean quintets(?) and I think you're intended to read them after those ten other books, but they work just fine standalone. Eddings also has _The Redemption of Athalus_, which is worse but is definitely standalone. 
+>> 
+>> On a similar vein, there's the Elminster novels; if you're not familiar, he's a DM PC from the guy who created the D&D Forgotten Realms setting. Elminster's an ancient archmage so there's all that going on.
 
->>> **u/cthulhusleftnipple** [+5] *
+>>> **u/cthulhusleftnipple** [+4]  (a day later)
 >>> 
 >>> I reread Eddings on a lark last year, and *wow* do they not hold up. I get why 13-year old me enjoyed them, but I don't understand how they were so broadly popular.
->>> 
 
->>>> **u/IICVX** [+1] *
+>>>> **u/IICVX** [+1]  (a day later)
 >>>> 
 >>>> Wow maybe they're even more trash than I remember - it's certainly been a couple of decades since I read the books.
->>>> 
 
->> **u/Dragongeek** [+6]  *Path to Victory**
+>> **u/Dragongeek** [+5]  *Path to Victory* (22 hours later)
 >> 
 >> I mean, you've got Seveneves but many of Stephenson's works fall into this category. Hell, changing society across history with a dash of immortal characters (mostly through descendants, but also through the literal immortal, Enoch Root) is like the core theme in the entire Stephenson Cinematic Universe, spanning from *Baroque Cycle* to *Cryptonomicon* to *Fall; or Dodge in Hell*.  
-
->> Outside of the SCU, there's also *Anathem*. I like this one a lot because I feel he really manages to capture "old world" here. The setting has gone from caveman to spaceman and back again multiple times, and it really involves a sense of depth and wonder I feel.
 >> 
+>> Outside of the SCU, there's also *Anathem*. I like this one a lot because I feel he really manages to capture "old world" here. The setting has gone from caveman to spaceman and back again multiple times, and it really involves a sense of depth and wonder I feel.
 
->> **u/meangreenking** [+4] *
+>> **u/meangreenking** [+3]  (16 hours later)
 >> 
 >> Immortal defense, a 17 year old story focused tower defense game where you play as someone that gave up their corporeal body to defend their planet forever.
 >> The story is powerful and compelling even if the graphics leave something to be desired.
->> 
 
->> **u/ErinFlight** [+3] *
+>> **u/ErinFlight** [+3]  (a day later)
 >> 
 >> You get a good amount of this in ‘The Raven Tower’. It’s a fantasy novel about a god of sorts, who watches human groups and nations rise and fall. The god’s perspective is distant and not necessarily friendly. 
->> There’s a bit of this in “The Vanished Birds” since one of the main characters goes in and out of stasis as humanity leaves earth and develops new societies and another returns to the same planet multiple times after relativistic trips.
->> Semiosis is a sci fi book that shows three generations after they settle on an alien world. 
->> The Fifty Science is a series of connected short stories set in the same universe. The gaps of time between the stories are huge though and they take place on different worlds, so the profession you see is mostly in a single technology. 
->> Both NK Jemisin’s Broken Earth and Inheritance series have some of this. Inheritance more strongly as it has both immortal characters who watch the world change and time jumps between books
 >> 
+>> There’s a bit of this in “The Vanished Birds” since one of the main characters goes in and out of stasis as humanity leaves earth and develops new societies and another returns to the same planet multiple times after relativistic trips.
+>> 
+>> Semiosis is a sci fi book that shows three generations after they settle on an alien world. 
+>> 
+>> The Fifty Science is a series of connected short stories set in the same universe. The gaps of time between the stories are huge though and they take place on different worlds, so the profession you see is mostly in a single technology. 
+>> 
+>> Both NK Jemisin’s Broken Earth and Inheritance series have some of this. Inheritance more strongly as it has both immortal characters who watch the world change and time jumps between books
 
->> **u/Mbnewman19** [+3] *
+>> **u/Mbnewman19** [+3]  (11 hours later)
 >> 
 >> Mistborn
->> 
 
->>> **u/GlueBoy** [+2]  *anti-skub**
+>>> **u/GlueBoy** [+2]  *anti-skub* (11 hours later)
 >>> 
 >>> That's a good example which I've already read! I'll add it to the list.
->>> 
 
->> **u/ThePhrastusBombastus** [+2] *
+>> **u/ThePhrastusBombastus** [+2]  (19 days later)
 >> 
 >> If you're willing to try anime, take a look at [Gunbuster](https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster), which is another story that plays with time dilation due to traveling at relativistic speeds.
->> 
 
->> **u/OGSyedIsEverywhere** [+2] *
+>> **u/OGSyedIsEverywhere** [+2]  (a month later)
 >> 
 >> The Clockwork Rocket trilogy is about constructing and operating a generation ship in a universe where time dilation is inverted - objects inside gravity wells or at high fractions of C move faster instead of slower.
->> 
 
->>> **u/GlueBoy** [+1]  *anti-skub**
+>>> **u/GlueBoy** [+1]  *anti-skub* (a month later)
 >>> 
 >>> That sounds interesting, thanks!
->>> 
 
->> **u/DomesticatedDungeon** [+2] *
+>> **u/DomesticatedDungeon** [+2]  (5 days later)
 >> 
 >> `•` *Worthing Saga, The*
->> `•` *Speaker for the Dead* (Ender's Game)
->> `•` *Bicentennial Man*
->> `~` *Interview with the Vampire*
->> `~` *Sandkings* (G. R. R. M.)
->> `~` *Ice Age* (Love, Death & Robots)
 >> 
+>> `•` *Speaker for the Dead* (Ender's Game)
+>> 
+>> `•` *Bicentennial Man*
+>> 
+>> `~` *Interview with the Vampire*
+>> 
+>> `~` *Sandkings* (G. R. R. M.)
+>> 
+>> `~` *Ice Age* (Love, Death & Robots)
 
->> **u/devalue4801** [+1] *
+>> **u/devalue4801** [+1]  (2 months later)
 >> 
 >> The *Mars* trilogy by Kim Stanley Robinson (Red Mars, Green Mars, Blue Mars) covers a long span of time with an immortal cast of characters. Some die, and some new ones are introduced, but many of the characters who are introduced in the start live to the end. It's a series about the colonization and terraformation of Mars, as well as development of a new culture and society there. Halfway through the first book, a longevity treatment is discovered, and the effects of this are a major focus of the series.
->> 
 
 ---
 

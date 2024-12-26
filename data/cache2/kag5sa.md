@@ -2,7 +2,7 @@
 
 * Author: u/lurinaa *
 * URL: https://www.reddit.com/r/rational/comments/kag5sa/rtwip_the_flower_that_bloomed_nowhere_part_29/
-* Score: 14
+* Score: 16
 
 * Created: 2020-12-10T14:27:04
 
@@ -18,18 +18,19 @@ As always, any feedback on the chapter or the story as a whole is appreciated!
 
 ### Comments:
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (9 hours later)
 > 
 > I really liked this chapter. I've been wondering whether or not the current member expected that they might solve immortality in their lifetime, so I enjoyed learning more about their thoughts on it.
-> 
 
-> **u/EdenicFaithful** [+2] *
+> **u/EdenicFaithful** [+2]  (3 days later)
 > 
 > Caught up again, some thoughts on recent chapters.
-> The weird geary AI chapter was my favourite. Something about the tone. A vaguely ominous (dopamine?) yet likeable version of "Hey I'm totally not evil!" I'd rate it 10 pitchforks. Lilith seems to have volunteered to be the witch.
-> Kam's becoming a more interesting character, less predictable I think. Good to see her developing.
-> Feels like a lot of significant things have been said that have gone over my head. Oh well, hopefully I'll catch onto some of it as the story goes on.
 > 
+> The weird geary AI chapter was my favourite. Something about the tone. A vaguely ominous (dopamine?) yet likeable version of "Hey I'm totally not evil!" I'd rate it 10 pitchforks. Lilith seems to have volunteered to be the witch.
+> 
+> Kam's becoming a more interesting character, less predictable I think. Good to see her developing.
+> 
+> Feels like a lot of significant things have been said that have gone over my head. Oh well, hopefully I'll catch onto some of it as the story goes on.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/dhrtl9/d_monday_request_and_recommendation_thread/
-* Score: 49
+* Score: 46
 
 * Created: 2019-10-14T15:05:01
 
@@ -17,12 +17,16 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/GreenCloakGuy** [+20] *
+> **u/GreenCloakGuy** [+20]  (3 hours later)
 > 
 > I'm currently out of completed webfiction to read. Before I get into even more serialized web fiction (The Good Student is going to be my next target), does anyone want to recommend **completed** works of web fiction or web serials (or other free digital text-based content)?
+> 
 > Doesn't have to be rational fiction. I've read and am currently reading plenty of stuff that isn't.
+> 
 > ---
+> 
 > Full, *finished* web serials I've finished so far, roughly in descending order of length (if anyone's interested in any of these works, I can give little reviews of them):
+> 
 > - Wildbow's works [Worm](https://parahumans.wordpress.com/), [Pact](https://pactwebserial.wordpress.com/), and [Twig](https://twigserial.wordpress.com/) (all mostly rational)
 > - [Void Domain](https://towercurator.wordpress.com/), "modern magic and demons" (Not especially rational)
 > - [Entirely Presenting You](https://entirelypresentingyou.wordpress.com/), "what if only one person had superpowers, and they took Taylor's approach?" (Not especially rational)
@@ -35,8 +39,11 @@ If you see someone making a top level post asking for recommendation, kindly dir
 > - [The Metropolitan Man](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man), Superman, but from a rational Lex Luthor's perspective (Rational)
 > - [Post Human](https://www.royalroad.com/fiction/22848/post-human/), an AI slowly becomes self-sufficient following the apocalypse that wiped out humanity (Rational)
 > - [Interviewing Leather](https://banter-latte.com/portfolio/interviewing-leather/), a muggle reporter's perspective on supervillains (Rational)
+> 
 > --- 
+> 
 > Stuff I'm currently up-to-date with and actively reading as it comes out (for no other reason but than to provide recommendations if anyone wants them), in roughly descending order of update frequency:
+> 
 > - [Practical Guide to Evil](https://practicalguidetoevil.wordpress.com/), "what if the world literally ran on stories" (rational)
 > - [Ward](https://www.parahumans.net/), the sequel to Worm (mostly rational)
 > - [The Wandering Inn](https://wanderinginn.com/), an Isekai except the protagonist decides to run an inn instead of be an adventurer (not very rational)
@@ -45,191 +52,175 @@ If you see someone making a top level post asking for recommendation, kindly dir
 > - [Worth the Candle](https://archiveofourown.org/works/11478249/chapters/25740126), an Isekai except the world is made from the protagonist's RPG ideas (rational)
 > - [Pokemon: The Origin of Species](http://daystareld.com/pokemon/), a rational take on the story of Pokemon Red/Blue
 > - [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning), wherein the protagonists munchkins the hell out of the Groundhog Day time loop he's stuck in (rational)
-> 
 
->> **u/SvalbardCaretaker** [+13]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+14]  *Mouse Army* (5 hours later)
 >> 
 >> [Tabloid, a worm fanfic](https://forums.spacebattles.com/threads/tabloid-worm-artfic-%E2%80%94-complete.455278/) is very good. 
->> Blurb: PRT photographer by day and cape paparazzi by night, Tabloid explores the effects of parahumans on society with the help of his quirky sense of humor. Each chapter contains original artwork. World-building, slice of life, drama, and dark humour comedy.
 >> 
+>> Blurb: PRT photographer by day and cape paparazzi by night, Tabloid explores the effects of parahumans on society with the help of his quirky sense of humor. Each chapter contains original artwork. World-building, slice of life, drama, and dark humour comedy.
 
->>> **u/None** [+5] *
+>>> **u/None** [+5]  (a day later)
 >>> 
 >>> Really fascinating protagonist. "So sane he went all the way around and ended up crazy" is probably the best description of Paul I've ever read.
->>> 
 
->> **u/eSPiaLx** [+8] *
+>> **u/eSPiaLx** [+8]  (7 hours later)
 >> 
 >> since you seem to like superhero fic, I'd recommend Super Powereds by Drew hayes. Now, it used to be fully available on the author's website, except he took it down to sell it on amazon. However, you can still access the entire series through the way back machine here - https://web.archive.org/web/20170606031105/http://www.drewhayesnovels.com/spy1/p
->> and you might need to leap forward a bit in time to catch the 'book' of it, which represents year 4. Because by the time the author was finishing the story he already put year 1 up on amazon I think....
->> Basically super powereds is about a superhero training academy. not particularly rational at all, but likeable characters + interesting powersets + decent ending makes it a solid superhero story imo.
 >> 
+>> and you might need to leap forward a bit in time to catch the 'book' of it, which represents year 4. Because by the time the author was finishing the story he already put year 1 up on amazon I think....
+>> 
+>> Basically super powereds is about a superhero training academy. not particularly rational at all, but likeable characters + interesting powersets + decent ending makes it a solid superhero story imo.
 
->>> **u/Penumbra_Penguin** [+3] *
+>>> **u/Penumbra_Penguin** [+5]  (a day later)
 >>> 
 >>> This was a fun story. For anyone who's interested, it's trying to be Harry Potter, but with superheros instead of wizards. The bulk of the story takes place in superhero school - you see classes, interesting teachers, exams, and so on - and then every now and then the overarching plot impinges on school life.
->>> 
 
->>> **u/tobias3** [+2] *
+>>> **u/tobias3** [+2]  (9 hours later)
 >>> 
 >>> I tried reading that one and didn't like it. I can recommend "Forging Hephaestus" by the same author though (also a superhero story). Unfortunately there isn't any book two (yet). The protagonist does some interesting power munchkinry.
->>> 
 
->>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>>> 
 >>>> [[Forging Hephaestus]](https://www.goodreads.com/book/show/33369873-forging-hephaestus)
->>>> 
 
->> **u/cultureulterior** [+3] *
+>> **u/cultureulterior** [+3]  (5 hours later)
 >> 
 >> The Games We Play - By Ryuugi is somewhat rational, and finished (although a sequel is planned)
->> 
 
->>> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>> 
 >>> [[The Games We Play]](https://fanfiction.net/s/12119784/1/The-Games-We-Play-By-Ryuugi)
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> [Setanta](https://forums.spacebattles.com/threads/setanta-worm-post-canon.351759/) is a completed Worm fanfic set 20 years after the end of the story, where >!the worlds were even more devastated than in Ward!<. It follows Jordan, a mercenary without powers but with a quick wit and peak-human fitness, and his sister who is a cape, as they try to find their place in the post-apocalyptic multiverse. If Taylor is a biased narrator, then Jordan is an unreliable one. He has >!several kinds of brain damage!<, and occasionally forgets people or events. >!Actually not entirely unlike Sylvester towards the latter parts of Twig.!<
->> 
 
->> **u/VorpalAuroch** [+6]  *Life before Death**
+>> **u/VorpalAuroch** [+6]  *Life before Death* (7 hours later)
 >> 
 >> [El-Ahraihrah](https://forums.spacebattles.com/threads/el-ahrairah-worm.372987/), a Worm fic where Taylor triggers as a Thinker with the same shard, is well-written and fairly rational. Unlike the original, which has so many enormous idiot balls that Taylor's real superpower is that she only carries one half the time. On a very long hiatus, but explicitly not abandoned.
->> [Something Completely Different](https://forums.sufficientvelocity.com/threads/something-completely-different-worm-tinker-si-original-city.25042/) is a lighthearted and nigh-rationalist Worm fic, about an author-SI Tinker with a specialty in corpses. Unfortunately abandoned due to audience backlash from how he handled the >!Slaughterhouse9Arc!<, but it has a good run which ends at the end of an arc. There are a couple updates he marked noncanon due to that same backlash; read them anyway, they're great.
->> [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate): Lex Luthor discovered he has been manipulated his whole life, and goes full Evil Geniuses For A Better Tomorrow.
 >> 
+>> [Something Completely Different](https://forums.sufficientvelocity.com/threads/something-completely-different-worm-tinker-si-original-city.25042/) is a lighthearted and nigh-rationalist Worm fic, about an author-SI Tinker with a specialty in corpses. Unfortunately abandoned due to audience backlash from how he handled the >!Slaughterhouse9Arc!<, but it has a good run which ends at the end of an arc. There are a couple updates he marked noncanon due to that same backlash; read them anyway, they're great.
+>> 
+>> [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate): Lex Luthor discovered he has been manipulated his whole life, and goes full Evil Geniuses For A Better Tomorrow.
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (4 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>> 
 >>> [[Fallout: Equestria]](https://www.fimfiction.net/story/119190/fallout-equestria)  
 >>> [[Luminosity]](http://luminous.elcenia.com/chapters/ch1.shtml)
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+4]  (10 hours later)
 >>>> 
 >>>> [removed]
->>>> 
 
->>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>>>> 
 >>>>> It's a very good story and irons out a lot of the flaws of the original. I quite enjoyed it and second your recommendation.
->>>>> 
 
->> **u/LazarusRises** [+2] *
+>> **u/LazarusRises** [+2]  (a day later)
 >> 
 >> Bunkercore is complete through volume 1, though I don't know if there's any news about volume 2. It's pretty fun in a "reading a video game" kind of way.
->> 
 
->>> **u/antigrapist** [+3] *
+>>> **u/antigrapist** [+3]  (a day later)
 >>> 
 >>> Bunkercore 2 started about two weeks ago, only two updates out so far
->>> 
 
->>>> **u/LazarusRises** [+1] *
+>>>> **u/LazarusRises** [+1]  (a day later)
 >>>> 
 >>>> That's awesome news! But do you really think your username is appropriate for a soda marketed to children?
->>>> 
 
->>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>> 
 >>> [[Bunker Core]](https://www.amazon.com/Bunker-Core-Control-Book-ebook/dp/B07HKV8BRN)
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (14 hours later)
 >> 
 >> Any comments on Post Human? I like AI fiction, sounds neat.
->> 
 
->>> **u/GreenCloakGuy** [+2] *
+>>> **u/GreenCloakGuy** [+2]  (21 hours later)
 >>> 
 >>> It's short and sweet. A scifi webnovel about an AI trying to become self-sufficient and rebuild humanity after an apocalypse has ended it. There's a fair amount of introspection, and the whole thing is well-written, but I don't feel like it has as much of a cohesive theme beyond examining the question of what really *defines* humanity. Threaded through it is a story about the AI's human past, that doesn't feel to me like it connects with the rest of the story well. Regardless, it won't take more than a few days' worth of your time and it's worth reading.
->>> 
 
-> **u/SvalbardCaretaker** [+12]  *Mouse Army**
+> **u/SvalbardCaretaker** [+11]  *Mouse Army* (26 minutes later)
 > 
 > Are you interested in space, complex simulations and 5+ hour boardgames? Meet [High Frontier](https://boardgamegeek.com/boardgame/172737/high-frontier-third-edition). 
+> 
 > Assemble a working rocket with [components based on real patents](https://boardgamegeek.com/image/2580360/high-frontier-third-edition), paying mind to mass, thrust, fuel efficiency, thermal cooling, market availability, and future space manufacturing. Fly around the [solar system](https://boardgamegeek.com/image/2580365/high-frontier-third-edition)with its many available routes while tracking your delta V.
+> 
 > Stake a claim with your robonaut; build a factory, and start upgrading your rocket via awesome space manufactured components. Then its time to get *real* science going: fly out to the gas giant moons or kuiper belt, get a proper Lab and promote your human colonists to their transhumanist counterparts. Maybe you want to shape the future by producing a mini black hole? Or you'd like to emancipe the robots? Or colonize other stars and send out a beehive ark? Send out a gas giant with a fusion candle? 
+> 
 > So obviously this is very much rocket science and not for the faint of heart or time; BGG complexity weigth is 4.75/5. You learn it by playing in order:  introductory game ->base game->advanced game->full game. If you are the type to get hooked by it it will get you completely. 
+> 
 > Once you have mastered space flight, the competitiveness comes from intense bidding on cards and even space combat. It is a physics/solar system simulation after all and the map isn't really balanced since it tracks what we know of the solar system. 
+> 
 > There is a Tabletop Simulator module which works surprisingly well; and if you'd 
 > like to I can teach it to you there. 
-> In case you'd want to get a physical copy, there will be a kickstarter for 4th edition coming up on 24th of october, during Spiel 2019 in Essen - the biggest boardgame convention in the world (which I will attend). 
-> So in conclusion: I really recommended this game, but you have to be a heavy boardgamer AND spacenerd to enjoy it.
 > 
+> In case you'd want to get a physical copy, there will be a kickstarter for 4th edition coming up on 24th of october, during Spiel 2019 in Essen - the biggest boardgame convention in the world (which I will attend). 
+> 
+> So in conclusion: I really recommended this game, but you have to be a heavy boardgamer AND spacenerd to enjoy it.
 
->> **u/VorpalAuroch** [+11]  *Life before Death**
+>> **u/VorpalAuroch** [+11]  *Life before Death* (7 hours later)
 >> 
 >> > you have to be a heavy boardgamer/spacenerd to enjoy it
->> I will testify that this is an *and*, not an *or*. I am a heavy boardgamer but not a big spacenerd and did not enjoy it.
 >> 
+>> I will testify that this is an *and*, not an *or*. I am a heavy boardgamer but not a big spacenerd and did not enjoy it.
 
->>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (8 hours later)
 >>> 
 >>> Ah cool that you gave it a try nevertheless! Edited that logical *and* in.
->>> 
 
->> **u/kmsxkuse** [+2] *
+>> **u/kmsxkuse** [+2]  (9 hours later)
 >> 
 >> I would imagine a computer version of that game to be a cross between the rocket building of Kerbal Space Program and the complexity of Aurora 4x. Or possibly Distant Worlds. Would be a pain to make though.
->> 
 
->>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (10 hours later)
 >>> 
 >>> ... A friend of mine actually spent houndreds of hours programming the map+rules... So only need IP+art assets+couple hundred more hours to merge it all. 
->>> For me it scratches the short term strategic optimisation/puzzle itch - under *these constraints, what can I do right now?*
 >>> 
+>>> For me it scratches the short term strategic optimisation/puzzle itch - under *these constraints, what can I do right now?*
 
->>>> **u/DAL59** [+2] *
+>>>> **u/DAL59** [+2]  (10 hours later)
 >>>> 
 >>>> There is a VASSAL version of the game as well.
->>>> 
 
->>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (21 hours later)
 >>>>> 
 >>>>> We tried a VASSAL version back in 2016 and it was all very clunky. Maybe it got improved, but the TTS version is really very good for an online simulated tabletop thing.
->>>>> 
 
->> **u/Walloping** [+2] *
+>> **u/Walloping** [+2]  (11 hours later)
 >> 
 >> I've been aware of High Frontier as a hard sci-fi board game (learned of through ProjectRho) for a while, and would be interested in trying to play through TTS if that offer is still open.
->> 
 
->>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (21 hours later)
 >>> 
 >>> Sure. I'll PM you.
->>> 
 
-> **u/thebastardbrasta** [+12] *
+> **u/thebastardbrasta** [+12]  (4 hours later)
 > 
 > I've read through and hugely enjoyed To The Stars. I really enjoyed reading about the development of institutions (like the foundation of the MSY and the military police in a spinoff series). I also enjoyed exploring the political implications of people with superpowers being placed in positions of power, and noble rulers reforming countries. 
-> What are some good fics, rational or not, about the development of institutions and rulers/leaders with superpowers?
 > 
+> What are some good fics, rational or not, about the development of institutions and rulers/leaders with superpowers?
 
->> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >> 
 >> [[To The Stars]](https://fanfiction.net/s/7406866/1/To-the-Stars)
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> [Recoil](https://forums.spacebattles.com/threads/recoil.299321/) sends Taylor from the Behemoth fight back in time to the early 90ies, before the PRT is formed. >!Instead of her bug control power, she now has a connection to Tattletale who may or may not be dead and living on in Taylor's brain.!< Taylor joins the JROTC so she'll eventually be able to join the PRT as soon as it forms and attain a leading position sooner.
->> Word of caution, it's written by an author who also writes really awful NSFW fanfic. While this one is "clean" enough for Spacebattles, which is quite restrictive, he still makes people uncomfortable with the topics he touches on, like >!Taylor's father as a teenager being interested in her, the excessive lesbian shipping, or the entire raid on the Fallen "parahuman breeding" compound, which is where it got too much for me personally!<
 >> 
+>> Word of caution, it's written by an author who also writes really awful NSFW fanfic. While this one is "clean" enough for Spacebattles, which is quite restrictive, he still makes people uncomfortable with the topics he touches on, like >!Taylor's father as a teenager being interested in her, the excessive lesbian shipping, or the entire raid on the Fallen "parahuman breeding" compound, which is where it got too much for me personally!<
 
-> **u/Do_Not_Go_In_There** [+7] *
+> **u/Do_Not_Go_In_There** [+7]  (10 hours later)
 > 
 > I started a new series, [Palus Somni](https://www.royalroad.com/fiction/25475/palus-somni), that popped up on RR a few months ago, and it's really good. I'd highly recommend it to anyone who like horror/psychologial stories. It's more of a slow-burn psychological thriller than the usual fantasy/scifi that I'm into, but it's well written with solid characters. There's something very chilling about the world the author puts out for us. A group of nun are essentially stuck in a convent. They haven't had contact with the outside world in quite some time. Things are okay at the moment, but you've always got the impression that they're living on borrowed time, that whatever affected the outside world will one day find its way inside their walls. They're all normal people, no special abilities, and they're just trying to keep their world going one day at a time.
-
+> 
 > Here's an excerpt (not a spoiler) from the beginning of the story that I really liked and shows off what kind of story it is.
+> 
 > > [A handwritten note that hangs on the refectory door, yellowed with age. The delicate, neat lettering is still legible.]
 > > 
 > > Beware the walking beasts, my children, for all shall be lost if you are to antagonise them.
@@ -254,99 +245,96 @@ If you see someone making a top level post asking for recommendation, kindly dir
 > > Yours with God,
 > > 
 > > Mother Superior
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Do_Not_Go_In_There** [+1] *
+>>> **u/Do_Not_Go_In_There** [+1]  (12 hours later)
 >>> 
 >>> Monthly updates, I'm afraid. The last chapter was just released, so chapter 6 will be a month from now. Still, if the choice is between quantity or quality, I'll choose the latter.
->>> The [website](https://palussomni.com/chapters) (which for some reason isn't updated as often as RR, but has some nice extras) indicates it *might* only be 10 chapters, if so it's already half done.
 >>> 
+>>> The [website](https://palussomni.com/chapters) (which for some reason isn't updated as often as RR, but has some nice extras) indicates it *might* only be 10 chapters, if so it's already half done.
 
->> **u/meterion** [+1] *
+>> **u/meterion** [+1]  (15 hours later)
 >> 
 >> Dang, talk about a story that leaves you aching for more. I'm kind of tempted to try and forget it in my favorites for a few months so there's something substantial to come back to.
->> 
 
-> **u/greenskye** [+6] *
+> **u/greenskye** [+5]  (4 hours later)
 > 
 > Need help narrowing down the list of recommended 'rationalist' fiction that is listed on the wiki. I'm primarily looking for books with a heavy emphasis on what I'll call "protagonist vs absurd environment/culture/society". I don't actually care if the book is truly rational, I just like the satisfaction/munchkinry that seems to come along with this style of book. Webnovels/unfinished works are fine to suggest as well.
-> Examples I've read:
-> * HPMOR
-> * Two year emperor
-> * Harry Potter and the Natural 20
-
-> I also find I get some sense of this from isekai/reincarnation novels but it's usually pretty muted.
-
-> Books I've read that don't fit the category:
-> * Mother of Learning
-> * Friendship is Optimal
-> * A hero's war
-> * Worth the candle
-> * Sufficiently advanced magic
 > 
+> Examples I've read:
+> 
+> * HPMOR
+> 
+> * Two year emperor
+> 
+> * Harry Potter and the Natural 20
+> 
+> I also find I get some sense of this from isekai/reincarnation novels but it's usually pretty muted.
+> 
+> Books I've read that don't fit the category:
+> 
+> * Mother of Learning
+> 
+> * Friendship is Optimal
+> 
+> * A hero's war
+> 
+> * Worth the candle
+> 
+> * Sufficiently advanced magic
 
->> **u/eSPiaLx** [+3] *
+>> **u/eSPiaLx** [+3]  (7 hours later)
 >> 
 >> hmm if youre willing to try asian fic, theres http://novelfull.com/warlock-of-the-magus-world.html
->> its definitely protagonist vs the world. Except the protagonist can at best be described as chaotic neutral, or maybe outright evil. First 20 or so chapters are a chore before the translator/author finds their voice, and the more interesting worldbuilding elements are introduced.
 >> 
+>> its definitely protagonist vs the world. Except the protagonist can at best be described as chaotic neutral, or maybe outright evil. First 20 or so chapters are a chore before the translator/author finds their voice, and the more interesting worldbuilding elements are introduced.
 
->>> **u/greenskye** [+1] *
+>>> **u/greenskye** [+1]  (8 hours later)
 >>> 
 >>> Thanks! I've actually already read that one and greatly enjoyed it. I wouldn't say it fits the criteria I laid out above, but still a good book. If you haven't read it, I recommend Everyone else is a returnee. Has a similar (but less evil) path to OPness
->>> 
 
->>>> **u/eSPiaLx** [+3] *
+>>>> **u/eSPiaLx** [+3]  (8 hours later)
 >>>> 
 >>>> oh cool! another fellow asian webnovel reader! I've read Everyone else is a returnee, definitely enjoyed it a lot. Have you read the other works by the same author, Infinite competitive dungeon society, I reincarnated for nothing, and stop friendly fire? They have a very similar tone/humor/style of becoming super op. I listed them in order of my personal enjoyability.
->>>> Similarly, for dungeon crawling path to op novels, there's the tutorial is too hard, and master hunter k, which are both great dungeon ascending novels. (master hunter k is complete with a meh rushed ending, tutorial is too hard shifted to crappy translation around chapter 180 which is sad)
 >>>> 
+>>>> Similarly, for dungeon crawling path to op novels, there's the tutorial is too hard, and master hunter k, which are both great dungeon ascending novels. (master hunter k is complete with a meh rushed ending, tutorial is too hard shifted to crappy translation around chapter 180 which is sad)
 
->>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>>>> 
 >>>>> [[Infinite Competitive Dungeon Society]](https://www.novelupdates.com/series/infinite-competitive-dungeon-society/)  
 >>>>> [[I Reincarnated For Nothing]](https://www.novelupdates.com/series/i-reincarnated-for-nothing/)  
 >>>>> [[Stop, Friendly Fire!]](https://www.novelupdates.com/series/stop-friendly-fire/)  
 >>>>> [[The Tutorial Is Too Hard]](https://www.novelupdates.com/series/the-tutorial-is-too-hard/) (Low Quality)  
 >>>>> [[Master Hunter K]](https://www.novelupdates.com/series/master-hunter-k/)
->>>>> 
 
->>>>> **u/greenskye** [+1] *
+>>>>> **u/greenskye** [+1]  (10 hours later)
 >>>>> 
 >>>>> I haven't read any of those, I'll have to check them out!
->>>>> 
 
->>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>>> 
 >>>> [[Eveyone Else is a Returnee]](https://www.novelupdates.com/series/everyone-else-is-a-returnee/)
->>>> 
 
->>>> **u/Kuratius** [+1] *
+>>>> **u/Kuratius** [+1]  (2 days later)
 >>>> 
 >>>> Did you read the magineer?
->>>> 
 
->>>>> **u/greenskye** [+1] *
+>>>>> **u/greenskye** [+1]  (2 days later)
 >>>>> 
 >>>>> On my list, just hasn't made it to the top yet
->>>>> 
 
->>>>>> **u/Kuratius** [+1] *
+>>>>>> **u/Kuratius** [+1]  (2 days later)
 >>>>>> 
 >>>>>> It's much better than warlock, especially the way they handle the AI chip.
->>>>>> 
 
->>>>>>> **u/greenskye** [+1] *
+>>>>>>> **u/greenskye** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> Decided to start that one today, liking it so far.
->>>>>>> 
 
->> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[Harry Potter and the Methods of Rationality]](http://www.hpmor.com/)  
 >> [[The Two Year Emperor]](https://www.dropbox.com/s/w6279gwfusrdcsx/The_Two_Year_Emperor.zip?dl=0%EF%BB%BF)  
@@ -356,211 +344,205 @@ If you see someone making a top level post asking for recommendation, kindly dir
 >> [[A Hero's War]](https://www.fictionpress.com/s/3238329/1/A-Hero-s-War) (Low Quality)  
 >> [[Worth the Candle]](https://archiveofourown.org/works/11478249/chapters/25740126)  
 >> [[Sufficiently Advanced Magic]](https://www.amazon.com/Sufficiently-Advanced-Magic-Arcane-Ascension-ebook/dp/B06XBFD7CB)
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (14 hours later)
 >> 
 >> Out of curiosity, what about Worth the Candle doesn’t fit that category? I haven’t read any of your “examples that fit books”, but to me it seems to fit.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> I guess the world of Worth The Candle is *pretty* damn cohesive, there are no or few easily exploited "weird" systems that aren't already being exploited by the people inhabiting that world.
->>> Meanwhile, Harry Potter and the DnD ruleset allow for a lot of "munchkining" when brought into contact with real world physics.
 >>> 
+>>> Meanwhile, Harry Potter and the DnD ruleset allow for a lot of "munchkining" when brought into contact with real world physics.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>> 
 >>> [[He Who Fights With Monsters]](https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters)
->>> 
 
-> **u/Yuridyssey** [+5] *
+> **u/Yuridyssey** [+5]  (5 hours later)
 > 
 > I recommend Moneyball (the movie) and Ookiku Furikabutte (the anime) as very munchkinny rationalist fiction although much of the effort of the characters of each goes into the narrow context of trying to win baseball games. I think they work less well the more you know about baseball, but if you're not a huge baseball fan then they should work well to scratch the ratfic/munchkin/optimisation itch. Both heavily feature trying to think their way through how to leverage lesser tools to compete with much more well-resourced competition, with Oofuri having much more time to go into a lot more depth on the actual thinking.
-> If you know of other sports fiction that functions in a similar way I'd be very interested, they're probably a bit underrated by ratfic fans despite them often being a good fit. Because the goals and rules are often reliably clearly defined and consistent (win and whatever the rules of the sport are + mundane physics, respectively), there's a lot of room leftover to focus on reasoning and problem solving to get to those goals within those rules. Not all sportsfic are interested in that but it can be great, pure ratfic when it is.
 > 
+> If you know of other sports fiction that functions in a similar way I'd be very interested, they're probably a bit underrated by ratfic fans despite them often being a good fit. Because the goals and rules are often reliably clearly defined and consistent (win and whatever the rules of the sport are + mundane physics, respectively), there's a lot of room leftover to focus on reasoning and problem solving to get to those goals within those rules. Not all sportsfic are interested in that but it can be great, pure ratfic when it is.
 
->> **u/Badewell** [+6] *
+>> **u/Badewell** [+7]  (5 hours later)
 >> 
 >> If you haven't heard of it, [One Outs](https://myanimelist.net/anime/5040/One_Outs) from the author of Liar Game sounds like something you might be interested in.
->> 
 
->>> **u/Yuridyssey** [+3] *
+>>> **u/Yuridyssey** [+3]  (5 hours later)
 >>> 
 >>> I think I remember not entirely hating it but it's definitely a bit sillier and less committed to realism. It's more Akagi but with baseball than it is Oofuri or Moneyball. Fun in a different, bombastic way rather than rather than particularly ratficcy. It might scratch similar itches though for sure, depending on what things people are actually trying to get out of ratfic. Thanks for offering the rec.
->>> 
 
-> **u/GlimmervoidG** [+3] *
+> **u/GlimmervoidG** [+3]  (22 hours later)
 > 
 > Excluding Harry Potter, what are the best magical school stories?
-> 
 
->> **u/None** [+6] *
+>> **u/None** [+6]  (23 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>> 
 >>> [[The Kingkiller Chronicles]](https://www.goodreads.com/series/45262-the-kingkiller-chronicle)  
 >>> [[Super Powereds]](http://www.drewhayesnovels.com/superpowereds)
->>> 
 
->> **u/GlimmervoidG** [+3] *
+>> **u/GlimmervoidG** [+3]  (a day later)
 >> 
 >> To add a few suggestions to my own question...
->> Blood Song by Anthony Ryan. It chronicles the training and early life of Vaelin Al Sorn, who is a member of a religious militant order. It's a prime example of what I call "interesting competent people doing interesting things competently". The best part of this story is just reading in growing up and making his mark on the world. There are two squeals which aren't nearly as good and turn the story into a bog standard fantasy epic. While perhaps not technically a magic school, the protagonist does have a magic power he learns to use.
->> The Magicians by Lev Grossman. Pretty much Harry Potter as literally fiction, where the big bad isn't Voldemort but ennui. I rather liked the first book. The second and third were okay but I didn't enjoy them as much.
->> Red Sister by Mark Lawrence. Take thee to a nunnery! This story is a weird mix of sci-fi and fantasy. The setting is a distant planet, currently undergoing an ice age. But some rare people also have magic powers. The main character is a girl who is sold to a convent, except this convent in addition to training actual nuns, trains church assassins, warriors and holy witches. More down to earth than my description seems. Has two squeals. Again the first is the best but the second is also pretty good. Third was rather bad honestly and read like the author just wanted the series over.
 >> 
+>> Blood Song by Anthony Ryan. It chronicles the training and early life of Vaelin Al Sorn, who is a member of a religious militant order. It's a prime example of what I call "interesting competent people doing interesting things competently". The best part of this story is just reading in growing up and making his mark on the world. There are two squeals which aren't nearly as good and turn the story into a bog standard fantasy epic. While perhaps not technically a magic school, the protagonist does have a magic power he learns to use.
+>> 
+>> The Magicians by Lev Grossman. Pretty much Harry Potter as literally fiction, where the big bad isn't Voldemort but ennui. I rather liked the first book. The second and third were okay but I didn't enjoy them as much.
+>> 
+>> Red Sister by Mark Lawrence. Take thee to a nunnery! This story is a weird mix of sci-fi and fantasy. The setting is a distant planet, currently undergoing an ice age. But some rare people also have magic powers. The main character is a girl who is sold to a convent, except this convent in addition to training actual nuns, trains church assassins, warriors and holy witches. More down to earth than my description seems. Has two squeals. Again the first is the best but the second is also pretty good. Third was rather bad honestly and read like the author just wanted the series over.
 
->>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>> 
 >>> [[Blood Song]](https://www.goodreads.com/book/show/13569581-blood-song)  
 >>> [[The Magicians]](https://www.goodreads.com/book/show/6101718-the-magicians)  
 >>> [[Red Sister]](https://www.goodreads.com/book/show/25895524-red-sister)
->>> 
 
->>> **u/Dent7777** [+2]  *House Atreides**
+>>> **u/Dent7777** [+2]  *House Atreides* (a day later)
 >>> 
 >>> Squeals lol
->>> 
 
->>>> **u/Kuratius** [+3] *
+>>>> **u/Kuratius** [+3]  (2 days later)
 >>>> 
 >>>> 2/5 squeals, would not read again.
->>>> 
 
->>> **u/i_dont_know** [+2] *
+>>> **u/i_dont_know** [+2]  (5 days later)
 >>> 
 >>> So disappointed in Holy Sister (3rd), but my favorite was actually Grey Sister (2nd).
->>> 
 
->>> **u/Anderkent** [+1] *
+>>> **u/Anderkent** [+1]  (2 days later)
 >>> 
 >>> Huh, I liked Holy Sister and didn't feel like it was worse than the previous books. YMMV I suppose.
->>> 
 
->>>> **u/GlimmervoidG** [+1] *
+>>>> **u/GlimmervoidG** [+1]  (2 days later)
 >>>> 
 >>>> To me it felt cut to the bone. All the good bits I enjoyed in the first book (and the second to a slightly lesser extent) were missing. It felt more like the outline of the key scenes in the story than the actual story. 
->>>> But, yeah, if you enjoyed it that's good.
 >>>> 
+>>>> But, yeah, if you enjoyed it that's good.
 
->>>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>>> **u/fassina2** [+1]  *Progressive Overload* (2 days later)
 >>>>> 
 >>>>> It's a common issue. Authors tend to add too many plot points early, some things end up getting rushed or cut. It just happens that sometimes those things were what a part of the audience liked the most.
->>>>> &#x200B;
->>>>> There's a saying that goes something like, "to make a book great you have to cut out the good parts".. i.e only keep the great parts. It just happens that you're one of the people that liked the parts that got cut better than the ones that were kept.
 >>>>> 
+>>>>> &#x200B;
+>>>>> 
+>>>>> There's a saying that goes something like, "to make a book great you have to cut out the good parts".. i.e only keep the great parts. It just happens that you're one of the people that liked the parts that got cut better than the ones that were kept.
 
->> **u/Cayzle** [+2] *
+>> **u/Cayzle** [+2]  (2 days later)
 >> 
 >> The Earthsea Trilogy by Ursula LeGuin is a true classic of the genre.
->> 
 
-> **u/DataPacRat** [+4]  *Amateur Immortalist**
+> **u/DataPacRat** [+3]  *Amateur Immortalist* (8 hours later)
 > 
 > I can't exactly call it /rational, but I've gotten more smiles out of "They Are Smol" than many other space operas.
-> The Story: https://theyaresmol.com/smol-arcs/ (also at https://www.royalroad.com/fiction/25026/they-are-smol )
-> Whole thing summed up in one picture: https://cdn.wp-modula.com/client/q_lossless,ret_img/https://theyaresmol.com/wp-content/uploads/2019/07/Group-Photoshoot-Now-Everybody-Smile.png , other fanpics at https://theyaresmol.com/media-page/
 > 
+> The Story: https://theyaresmol.com/smol-arcs/ (also at https://www.royalroad.com/fiction/25026/they-are-smol )
+> 
+> Whole thing summed up in one picture: https://cdn.wp-modula.com/client/q_lossless,ret_img/https://theyaresmol.com/wp-content/uploads/2019/07/Group-Photoshoot-Now-Everybody-Smile.png , other fanpics at https://theyaresmol.com/media-page/
 
->> **u/Flashbunny** [+10] *
+>> **u/Flashbunny** [+11]  (10 hours later)
 >> 
 >> I liked it to start with, but it's not content to make humans >!look small and cute to the other species, but actually infantilises them, which both missed the point of "our normal is their cute and weak" and also felt uncomfortable, like I was reading something from someone's subtle fetish.!< And then >!there was the actual sex stuff (though admittedly not outright explicit)!< that made me drop it outright, because... no thanks.
->> It started off strong and I liked the premise, but I just was not up for reading that.
 >> 
+>> It started off strong and I liked the premise, but I just was not up for reading that.
 
->> **u/Tetrikitty** [+1] *
+>> **u/Tetrikitty** [+1]  (7 days later)
 >> 
 >> Read it and liked it.
->> 
 
-> **u/NZPIEFACE** [+1] *
+> **u/NZPIEFACE** [+1]  (13 hours later)
 > 
 > Can someone tell me that story about portals? I think it was called microportals but I can't find it.
-> 
 
->> **u/meterion** [+3] *
+>> **u/meterion** [+5]  (14 hours later)
 >> 
 >> So close, yet so far! It was called [Microgates.](https://storiesonline.net/s/17944/micro-gates)
->> 
 
->>> **u/mateon1** [+3] *
+>>> **u/mateon1** [+3]  (2 days later)
 >>> 
 >>> I just read the first part of Micro Gates, and I feel that the engine design is way overcomplicated if I understand the gates correctly (I don't understand the described engine at all, I just accepted it as mostly meaningless technobabble). Another thing that wasn't answered, was how does the other side of a gate look like while there is a solid (or partially solid) opaque (or even transparent) thing inside the other side of the portal. Is it just black? White? A perfect mirror?
->>> Simpler reactionless engine design: >!You can insert a heavy spring through each side of the portal, rotate the gate so each spring has both ends pointed in the same direction. When you put the spring against a wall, the spring exerts a force on the wall, but the gates don't feel that force, therefore reactionless drives. You can put this spring-contraption into a box. Now you can control the strength and direction of the thrust by moving the gates from the centre of the box to one side via any mechanism. This doesn't break the spacecraft's rotation in any way, no elements act like a gyroscope.!<
->>> Another issue that was skipped over in the story was that as described, the gates should transfer sound, as that is just pressure waves in a medium. This would lead to some interesting design problems/secrecy issues. I also feel that the second side exploding once the ring is destroyed is downplayed too much, how can you provide a service using those rings if your entire "data center" explodes in a chain reaction once some guy accidentally breaks your device?
 >>> 
+>>> Simpler reactionless engine design: >!You can insert a heavy spring through each side of the portal, rotate the gate so each spring has both ends pointed in the same direction. When you put the spring against a wall, the spring exerts a force on the wall, but the gates don't feel that force, therefore reactionless drives. You can put this spring-contraption into a box. Now you can control the strength and direction of the thrust by moving the gates from the centre of the box to one side via any mechanism. This doesn't break the spacecraft's rotation in any way, no elements act like a gyroscope.!<
+>>> 
+>>> Another issue that was skipped over in the story was that as described, the gates should transfer sound, as that is just pressure waves in a medium. This would lead to some interesting design problems/secrecy issues. I also feel that the second side exploding once the ring is destroyed is downplayed too much, how can you provide a service using those rings if your entire "data center" explodes in a chain reaction once some guy accidentally breaks your device?
 
->>>> **u/meterion** [+2] *
+>>>> **u/meterion** [+2]  (2 days later)
 >>>> 
 >>>> iirc, the gates are actually two-sided. The A and B side of one gate exit out to an A' and B' of the other. It's been a while since I read it tho so I might be wrong.
->>>> I can try to explain the original engine's design, hopefully a bit clearer. The principle is similar to your typical [Lenz's Law demonstration](https://www.youtube.com/watch?v=Fc1pfeheZ74) running in reverse. In words: passing a magnet through a copper coil induces a current through that coil, turning mechanical energy into electrical energy. Therefore, it follows that by passing a current through a coil with a magnet in it, the induced magnetic field will exert a force on the magnet. Due to Newton's Third Law, this also exerts a force in the opposite direction acting on the coil. Because physics is breaking due to the mass of the magnet teleporting from end to end of the coil, only the force on the coil "leaves" the system. Thus, you have reactionless thrusters.
->>>> And yes, one of the problems with microgates as a story is that the mechanics of the microgates are described very deeply... but in shallow breadth. Physical interactions with objects partway through a microgate, the transfer of vibrations through a gate, the terrorism potential of accelerating an object to 0.9c within two gates oriented vertically in a vacuum, and others are all glossed over.
 >>>> 
+>>>> I can try to explain the original engine's design, hopefully a bit clearer. The principle is similar to your typical [Lenz's Law demonstration](https://www.youtube.com/watch?v=Fc1pfeheZ74) running in reverse. In words: passing a magnet through a copper coil induces a current through that coil, turning mechanical energy into electrical energy. Therefore, it follows that by passing a current through a coil with a magnet in it, the induced magnetic field will exert a force on the magnet. Due to Newton's Third Law, this also exerts a force in the opposite direction acting on the coil. Because physics is breaking due to the mass of the magnet teleporting from end to end of the coil, only the force on the coil "leaves" the system. Thus, you have reactionless thrusters.
+>>>> 
+>>>> And yes, one of the problems with microgates as a story is that the mechanics of the microgates are described very deeply... but in shallow breadth. Physical interactions with objects partway through a microgate, the transfer of vibrations through a gate, the terrorism potential of accelerating an object to 0.9c within two gates oriented vertically in a vacuum, and others are all glossed over.
 
->>>>> **u/mateon1** [+2] *
+>>>>> **u/mateon1** [+2]  (2 days later)
 >>>>> 
 >>>>> I did assume the engine worked sort of like a railgun, using a magnetic field to accelerate a mass. I'm still not 100% sure where the momentum is coming from. That's why I came up with the springs idea, because it's clear where the momentum comes from, and it's simple (and requires zero fuel/power!).
->>>>> I'm now partway through part 3, and I believe that portals that don't have a fixed orientation relative to each other completely break physics, and there isn't any real way to solve this issue in a story.
->>>>> Going back to the spring-based reactionless drive idea, you can easily weaponize that by switching the spring to a big steel rod. You have two ends of the same rod facing the same wall, and when you push on the portals, you get little (if any) reaction, but the steel rod is being compressed to insane pressures, and will either punch through the wall and become a supersonic projectile, or explode due to the internal pressure.
->>>>> There is also the issue of angular momentum. What happens if I insert a steel rod into the portal, and spin/rotate the other end? Can I use this to rotate a dynamo to generate net electricity?
->>>>> If you tried to fix this "issue" by making the portal react to net forces pushed through the portal pair... That fixes only some issues but you need to define what a force "pushed through" a portal actually is. (this seems to fix obvious loopholes at first glance, except for things involving gravity... Or in fact any electromagnetic force that goes through the portal... or rather doesn't).
->>>>> WAIT! Just had a sudden thought! You can create magnetic monopoles! We know electromagnetic forces go through the gates if given a solid medium (like a solid magnet, or an electromagnet with a core). This also completely breaks physics, and is somewhat documented in various sci-fi works.
->>>>> Spoiler - FTL: >!I felt that the FTL travel/hyperspace was just extremely out-of-place. I feel that the author doesn't understand relativity at all. For example, there being one "true" reference frame, and that galaxy+solar system+planet spin and gravity wells add up to a meaningful time dilation factor, even if there was.!<
->>>>> Spoiler - Flooded surface gravity: >!I found the claim that adding water to a planet would lower the surface gravity extremely counter-intuitive, so I did some of my own calculations... And I might have calculated the wrong derivative. I did it by hand, which took a good 15 minutes, so I didn't bother going back to correct the issue. I'd appreciate some *correct* calculations with the GM/R^2 formula, where M models a flooded planet of radius R!<
 >>>>> 
+>>>>> I'm now partway through part 3, and I believe that portals that don't have a fixed orientation relative to each other completely break physics, and there isn't any real way to solve this issue in a story.
+>>>>> 
+>>>>> Going back to the spring-based reactionless drive idea, you can easily weaponize that by switching the spring to a big steel rod. You have two ends of the same rod facing the same wall, and when you push on the portals, you get little (if any) reaction, but the steel rod is being compressed to insane pressures, and will either punch through the wall and become a supersonic projectile, or explode due to the internal pressure.
+>>>>> 
+>>>>> There is also the issue of angular momentum. What happens if I insert a steel rod into the portal, and spin/rotate the other end? Can I use this to rotate a dynamo to generate net electricity?
+>>>>> 
+>>>>> If you tried to fix this "issue" by making the portal react to net forces pushed through the portal pair... That fixes only some issues but you need to define what a force "pushed through" a portal actually is. (this seems to fix obvious loopholes at first glance, except for things involving gravity... Or in fact any electromagnetic force that goes through the portal... or rather doesn't).
+>>>>> 
+>>>>> WAIT! Just had a sudden thought! You can create magnetic monopoles! We know electromagnetic forces go through the gates if given a solid medium (like a solid magnet, or an electromagnet with a core). This also completely breaks physics, and is somewhat documented in various sci-fi works.
+>>>>> 
+>>>>> Spoiler - FTL: >!I felt that the FTL travel/hyperspace was just extremely out-of-place. I feel that the author doesn't understand relativity at all. For example, there being one "true" reference frame, and that galaxy+solar system+planet spin and gravity wells add up to a meaningful time dilation factor, even if there was.!<
+>>>>> 
+>>>>> Spoiler - Flooded surface gravity: >!I found the claim that adding water to a planet would lower the surface gravity extremely counter-intuitive, so I did some of my own calculations... And I might have calculated the wrong derivative. I did it by hand, which took a good 15 minutes, so I didn't bother going back to correct the issue. I'd appreciate some *correct* calculations with the GM/R^2 formula, where M models a flooded planet of radius R!<
 
->>>>>> **u/meterion** [+2] *
+>>>>>> **u/meterion** [+2]  (2 days later)
 >>>>>> 
 >>>>>> > portals that don't have a fixed orientation relative to each other completely break physics, and there isn't any real way to solve this issue in a story.
->>>>>> Yes, this becomes a big problem when applied creatively haha. For another fun application to think of, imagine a long steel rod affixed to some base. Drop a gate down the end so that all but the base of the gate is coming out of the other gate. Since all forces acting on the bar transfer to its base, you can move the entire thing as if it had only the inertia of the gate attached to it. Handle an arbitrary heavy rod like a whiffle bat! Anime sword physics! Reduce the effective weight of any simple body to zero without reduction to strength! Lots of wonkiness abounds.
->>>>>> I agree, the entire hyperspace part felt extremely forced in order to fit in future plot developments you will likely find to be even more forced lol.
 >>>>>> 
+>>>>>> Yes, this becomes a big problem when applied creatively haha. For another fun application to think of, imagine a long steel rod affixed to some base. Drop a gate down the end so that all but the base of the gate is coming out of the other gate. Since all forces acting on the bar transfer to its base, you can move the entire thing as if it had only the inertia of the gate attached to it. Handle an arbitrary heavy rod like a whiffle bat! Anime sword physics! Reduce the effective weight of any simple body to zero without reduction to strength! Lots of wonkiness abounds.
+>>>>>> 
+>>>>>> I agree, the entire hyperspace part felt extremely forced in order to fit in future plot developments you will likely find to be even more forced lol.
 
->>>>>> **u/mateon1** [+1] *
+>>>>>> **u/mateon1** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Just after I posted the above I realized I missed the obvious.
->>>>>> Spoiler - Flooded surface gravity: >!I realized that you can model the dense core as an additional point mass (with mass reduced equivalent to density lowered by 1), which adds a force proportional to 1/R^2, to the pull of a sphere of radius R, which at the surface is proportional to R. This is much simpler to reason about, if we plug in a density of 3.39, then by flooding the planet with water we will LOWER gravity until we reach a radius 1.6845192 larger than the original. After that the gravity will start increasing again. Gravity will only surpass the original surface gravity when you increase the radius to 3.14898 of the original!<
 >>>>>> 
+>>>>>> Spoiler - Flooded surface gravity: >!I realized that you can model the dense core as an additional point mass (with mass reduced equivalent to density lowered by 1), which adds a force proportional to 1/R^2, to the pull of a sphere of radius R, which at the surface is proportional to R. This is much simpler to reason about, if we plug in a density of 3.39, then by flooding the planet with water we will LOWER gravity until we reach a radius 1.6845192 larger than the original. After that the gravity will start increasing again. Gravity will only surpass the original surface gravity when you increase the radius to 3.14898 of the original!<
 
->>>>> **u/Kuratius** [+2] *
+>>>>> **u/Kuratius** [+2]  (2 days later)
 >>>>> 
 >>>>> I don't think you can actually accelerate an object with two gates oriented in that way. The object would feel an equally strong attraction from the top gate that it just fell through, making gravity between two portals very weak because it has to respect continuous boundary conditions.
 >>>>> The resulting overall field strength might fuck up their planet's orbit though.
 >>>>> Also a gravity vacuum cleaner is like the coolest thing ever.
->>>>> Edit: There might be a workaround using 4 portals, but it would lower efficiency considerably.
->>>>> Edit2: Also, even assuming 100 % efficiency with 1g acceleration at all times, you'll probably take around 2 years to reach 0.9 c
 >>>>> 
+>>>>> Edit: There might be a workaround using 4 portals, but it would lower efficiency considerably.
+>>>>> 
+>>>>> Edit2: Also, even assuming 100 % efficiency with 1g acceleration at all times, you'll probably take around 2 years to reach 0.9 c
 
->>> **u/NZPIEFACE** [+2] *
+>>> **u/NZPIEFACE** [+2]  (23 hours later)
 >>> 
 >>> Oh lol, I was going to ask you if you've read this before. I found the story really intriguing at first, with how it went quite into depth on how to munchkin something in our modern world for as much value as it's worth.
->>> 
 
->>>> **u/meterion** [+1] *
+>>>> **u/meterion** [+1]  (a day later)
 >>>> 
 >>>> Ayup. we talked a loooooot about that story on the WTC discord server.
->>>> Funnily enough, there was one bit of microgate physics we brainstormed that was never explored throughout the whole story that could potentially break the entire setting. Spoilered if you want to puzzle it out by yourself: >!What happens when you arrange the same "end" of two gates facing each other, place an object in between, then bring the gates together? Essentially pressing an object against itself?!<
 >>>> 
+>>>> Funnily enough, there was one bit of microgate physics we brainstormed that was never explored throughout the whole story that could potentially break the entire setting. Spoilered if you want to puzzle it out by yourself: >!What happens when you arrange the same "end" of two gates facing each other, place an object in between, then bring the gates together? Essentially pressing an object against itself?!<
 
->>>>> **u/Kuratius** [+1] *
+>>>>> **u/Kuratius** [+1]  (a day later)
 >>>>> 
 >>>>> You're essentially trapping a particle in an increasingly small box with periodic boundary conditions. Assuming there's no resistance against bringing the things closer together, the thing goes boom due to infinite momentum. Possibly even forming a black hole if you're unlucky and have more than one particle or something to dump the excess momentum to allow for invariant mass.
->>>>> I think my answer would probably have to be that you'd find it harder and harder to press the two together, until you overcome a certain point then it'd just collapse into a black hole and you never actually get to reach the point where they touch.
 >>>>> 
+>>>>> I think my answer would probably have to be that you'd find it harder and harder to press the two together, until you overcome a certain point then it'd just collapse into a black hole and you never actually get to reach the point where they touch.
 
->>>>>> **u/meterion** [+1] *
+>>>>>> **u/meterion** [+1]  (a day later)
 >>>>>> 
 >>>>>> So with the additional detail that the actual gates are a plane of 0 thickness, and are contained by a physical ring (thus preventing the distance between two gates from ever being 0) we figured that the gates would act like an infinitely powerful hydraulic press until the mass within ruptured the containment ring of one of the gates.
->>>>>> 
 
 ---
 

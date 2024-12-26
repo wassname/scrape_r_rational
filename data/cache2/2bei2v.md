@@ -2,7 +2,7 @@
 
 * Author: u/krakonfour *
 * URL: https://www.reddit.com/r/rational/comments/2bei2v/simverse_iii/
-* Score: 9
+* Score: 7
 
 * Created: 2014-07-22T15:36:21
 
@@ -74,90 +74,97 @@ So, you can hop from one solar system to another in a fraction of a second, if y
 
 ### Comments:
 
-> **u/Gurkenglas** [+2] *
+> **u/Gurkenglas** [+2]  (5 hours later)
 > 
 > Hmm. Instead of swapping two sectors, could you copy the state of the first to the second? Exponential growth! You said that the verification tool checks on the oort cloud about once a minute, and that being outside lunar orbit (rendering cycle length up to 10^-5 seconds) gives you enough time to do a teleport, whose time requirement surely is on the order of a duplication. 3 million duplications and then 2^(3 million) spaceships doing whatever the hell you programmed them with for 30 seconds is surely an instant global victory condition. (Or just simulate your own sub-universe for longer than Gurkenglas' universe might have left to live.)
-> 
 
->> **u/krakonfour** [+1] *
+>> **u/krakonfour** [+1]  (5 hours later)
 >> 
 >> Two reasons why that wouldn't work, before I get to the subject of further hacks in Simverse IV:
->> -The simulator has limited resources available. While it can handle a hack from a single ship, it would be difficult to accommodate 3 million new realtime zones to fully render, much less the googol^googol that follows. You'll crash the simulation in literally a fraction of a second.
->> -To duplicate 2^3,000,0000 entities, you're going to have to find 2^3,000,000 rendered sectors. I mentioned that an 'empty swap' doesn't work.
 >> 
+>> -The simulator has limited resources available. While it can handle a hack from a single ship, it would be difficult to accommodate 3 million new realtime zones to fully render, much less the googol^googol that follows. You'll crash the simulation in literally a fraction of a second.
+>> 
+>> -To duplicate 2^3,000,0000 entities, you're going to have to find 2^3,000,000 rendered sectors. I mentioned that an 'empty swap' doesn't work.
 
->>> **u/Gurkenglas** [+1] *
+>>> **u/Gurkenglas** [+1]  (5 hours later)
 >>> 
 >>> You mean, the simulator on our host universe would need a nigh-infinite time before we observe a minute having passed? Oh no ;)
->>> As for there not being enough sectors, eh, all of the sectors outside the inner solar system will suffice.
 >>> 
+>>> As for there not being enough sectors, eh, all of the sectors outside the inner solar system will suffice.
 
->>>> **u/krakonfour** [+1] *
+>>>> **u/krakonfour** [+1]  (5 hours later)
 >>>> 
 >>>> Well, you'd think you'd have enough volume, but the smallest sectors are 125,000m3 and they reach 1,000,000,000m3 near the edge. Given an average of 500,062,500m3, you'd need a sphere, well...
->>>> The universe contains about 2.34x10e33 cubic light years, and it is a tiny fraction of the figure we're talking about.
 >>>> 
+>>>> The universe contains about 2.34x10e33 cubic light years, and it is a tiny fraction of the figure we're talking about.
 
->>>>> **u/Gurkenglas** [+1] *
+>>>>> **u/Gurkenglas** [+1]  (6 hours later)
 >>>>> 
 >>>>> No, I mean I will be content with whatever amount of sectors the universe can come up with. I still have enough computing power to, say, manually run the incomprehensible code that runs the sector that contains my brain for a while to come up with more plans.
->>>>> 
 
-> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (10 minutes later)
 > 
 > Very cool. I'm looking forward to the next part.
-> 
 
-> **u/Nepene** [+1] *
+> **u/Nepene** [+1]  (6 hours later)
 > 
 > How fast can you swap?
-> Could you swap a memory card between two zones say? Swap it into a large off ship quantum computer, get it to do calculations, swap it back, read off the results. A way to boost your computing power over enemies.
 > 
+> Could you swap a memory card between two zones say? Swap it into a large off ship quantum computer, get it to do calculations, swap it back, read off the results. A way to boost your computing power over enemies.
 
->> **u/krakonfour** [+1] *
+>> **u/krakonfour** [+1]  (6 hours later)
 >> 
 >> Beyond a certain distance, you can swap as fast as your computer allows you to. 
->> The problem with your method is that
->> A) You can only swap whole sectors. Unless your memory card is one hundred thousand meters cubed, there is no point in doing so.
->> B) The only useful pre-calculation is when you are trying to guess the coordinates of a sector outside of your realtime zone. Inside that zone, you can read the coordinates off the sectors around you directly, calculate the hack and apply it much faster than you could by transmitting it and receiving the calculated information at the speed of light. Plus, you can't read coordinates outside of your own realtime zone, so it is limited in that aspect.
 >> 
+>> The problem with your method is that
+>> 
+>> A) You can only swap whole sectors. Unless your memory card is one hundred thousand meters cubed, there is no point in doing so.
+>> 
+>> B) The only useful pre-calculation is when you are trying to guess the coordinates of a sector outside of your realtime zone. Inside that zone, you can read the coordinates off the sectors around you directly, calculate the hack and apply it much faster than you could by transmitting it and receiving the calculated information at the speed of light. Plus, you can't read coordinates outside of your own realtime zone, so it is limited in that aspect.
 
->>> **u/Nepene** [+1] *
+>>> **u/Nepene** [+1]  (7 hours later)
 >>> 
 >>> Maybe have a tether behind the ship with a sensor on it and a small computer preloaded with transportation stuff. It sends details of the code around you to another zone which is next to a huge super computer. The super computer calculates all the details and sends the small computer back, and it relays the code.
->>> I imagine you could use it for rapid ship to ship combat and teleportation. Jump in, see an enemy, teleport to a safe unrendered zone.
 >>> 
+>>> I imagine you could use it for rapid ship to ship combat and teleportation. Jump in, see an enemy, teleport to a safe unrendered zone.
 
->>>> **u/krakonfour** [+1] *
+>>>> **u/krakonfour** [+1]  (8 hours later)
 >>>> 
 >>>> Well, look at it this way:
->>>> Imagine we are in a sector where the simulation's attention window is 0.03 seconds.
->>>> Now imagine we have a spaceship with a poor onboard computer struggles to complete a swap in 0.03 seconds. There are three steps to a swap: reading, calculating and running. The first and second step are outside of the computer's control: they will always take 0.02 second.
->>>> Now the spaceship decides to use an external computer that can do the  calculation part 10 times faster: 0.001 seconds.
->>>> The swap now takes 0.01+0.001+0.01: 0.021 seconds, right?
->>>> No. You need to send information to the external computer, then receive it back. Information travels at lightspeed. In 0.009 seconds, light travels 2700km, so the external computer must be within 1350km. That's basically dragging it along with you. Furthermore, there is delay involved in sending the information to the transmitter, and reading the information received. Each millisecond delay forces the external computer to be 300km closer... in space, you're practically dragging the computer along with you.
->>>> On top of all that....
->>>> The way swap work is that the hack is only implemented at the END of a rendering cycle. That means that even if you complete steps 1 and 2 as quickly as possible, you will be stuk loading for step 3 to happen. There is no point in 'going' faster' with such a hard limitation.
->>>> I'll talk more about how ships use these hacks and how they influecnce their design later.
->>>> PS: A bigger computer requires more energy and cooling, which basically means its a second spaceship in this setting.
 >>>> 
+>>>> Imagine we are in a sector where the simulation's attention window is 0.03 seconds.
+>>>> 
+>>>> Now imagine we have a spaceship with a poor onboard computer struggles to complete a swap in 0.03 seconds. There are three steps to a swap: reading, calculating and running. The first and second step are outside of the computer's control: they will always take 0.02 second.
+>>>> 
+>>>> Now the spaceship decides to use an external computer that can do the  calculation part 10 times faster: 0.001 seconds.
+>>>> 
+>>>> The swap now takes 0.01+0.001+0.01: 0.021 seconds, right?
+>>>> 
+>>>> No. You need to send information to the external computer, then receive it back. Information travels at lightspeed. In 0.009 seconds, light travels 2700km, so the external computer must be within 1350km. That's basically dragging it along with you. Furthermore, there is delay involved in sending the information to the transmitter, and reading the information received. Each millisecond delay forces the external computer to be 300km closer... in space, you're practically dragging the computer along with you.
+>>>> 
+>>>> On top of all that....
+>>>> 
+>>>> The way swap work is that the hack is only implemented at the END of a rendering cycle. That means that even if you complete steps 1 and 2 as quickly as possible, you will be stuk loading for step 3 to happen. There is no point in 'going' faster' with such a hard limitation.
+>>>> 
+>>>> I'll talk more about how ships use these hacks and how they influecnce their design later.
+>>>> 
+>>>> PS: A bigger computer requires more energy and cooling, which basically means its a second spaceship in this setting.
 
->>>>> **u/Nepene** [+1] *
+>>>>> **u/Nepene** [+1]  (8 hours later)
 >>>>> 
 >>>>> The idea was that you'd the ftl power to skip the information travels at light speed. You are in zone 1, your relay computer is in zone 2 and is much smaller and preloaded with another location. You report a conflict, teleport the relay computer over, it sends light speed signals at the speed of light to the massive computer 50m away, receives signals, teleports back.
->>>>> Clarifying whether this work is important for other things. If the rendering time is 0.03 seconds and you can cut it down to 0.02 then a third of the time you can teleport first, which is a huge advantage, though thinking about it the required times stop that. If it works it also means you can send ftl signals and teleport an army over, having given them your coordinates.
 >>>>> 
+>>>>> Clarifying whether this work is important for other things. If the rendering time is 0.03 seconds and you can cut it down to 0.02 then a third of the time you can teleport first, which is a huge advantage, though thinking about it the required times stop that. If it works it also means you can send ftl signals and teleport an army over, having given them your coordinates.
 
-> **u/Laborbuch** [+1] *
+> **u/Laborbuch** [+1]  (14 hours later)
 > 
 > I assume the coordinates have to be calculated anew each time; you can't simply make a database with all the block coordinates you know already?
-> 
 
->> **u/krakonfour** [+1] *
+>> **u/krakonfour** [+1]  (a day later)
 >> 
 >> Coordinates change constantly and dynamically: they adjust to your own realtime zone, and to information you can't perceive: realtime zones of other people, resources being diverted elsewhere, special verifications being run ect.
->> The only accurate reading is the one you do at the start of the hack, and is only valid for a handful of rendering cycles or less.
 >> 
+>> The only accurate reading is the one you do at the start of the hack, and is only valid for a handful of rendering cycles or less.
 
 ---
 

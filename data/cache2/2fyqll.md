@@ -2,7 +2,7 @@
 
 * Author: u/PeridexisErrant  *put aside fear for courage, and death for life**
 * URL: http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang
-* Score: 14
+* Score: 11
 
 * Created: 2014-09-10T01:28:16
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Escapement** [+1]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+1]  *Ankh-Morpork City Watch* (10 hours later)
 > 
 > Interesting story. Reminds me of The Black Mirror S1E03, "The Entire History of You", but with a more positive light on the complete memory technology.
-> 
 
 ---
 

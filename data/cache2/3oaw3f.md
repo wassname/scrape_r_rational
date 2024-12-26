@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/ShadowsOfTheLimelight/comments/3oaw10/shadows_of_the_limelight_ch_23_the_way_forward/
-* Score: 24
+* Score: 27
 
 * Created: 2015-10-11T05:26:00
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/blazinghand** [+4]  *Chaos Undivided**
+> **u/blazinghand** [+5]  *Chaos Undivided* (4 hours later)
 > 
 > This wraps things up nicely. What a great read!
-> 
 
 ---
 

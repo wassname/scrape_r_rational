@@ -2,7 +2,7 @@
 
 * Author: u/generalamitt *
 * URL: https://www.reddit.com/r/rational/comments/aqn4ok/what_happened_to_wtc_updating_schedule/
-* Score: 3
+* Score: 2
 
 * Created: 2019-02-14T18:51:52
 
@@ -12,28 +12,27 @@ I wanted to catch up with the story recently and was surprised to discover that 
 
 ### Comments:
 
-> **u/bpgbcg** [+27] *
+> **u/bpgbcg** [+26]  (39 minutes later)
 > 
 > There's a [spreadsheet](https://docs.google.com/spreadsheets/d/1PaLrwVYgxp_SYHtkred7ybpSJPHL88lf4zB0zMKmk1E/edit#gid=0) with current progress. The current release schedule seems to be bulk chapter releases whenever they're ready. The writing rate has been extremely fast overall, but there's often 30,000 words released at a time or something, so the length between updates is longer than one might expect.
-> (Also, the author has been sick recently, but that only affects the most recent stuff.)
 > 
+> (Also, the author has been sick recently, but that only affects the most recent stuff.)
 
-> **u/MarkArrows** [+23] *
+> **u/MarkArrows** [+23]  (an hour later)
 > 
 > MoL's updates tend to be 6-9k words.
-> WtC's updates are 4-5 times that size. 
-> They might release similarly, but if you broke down WtC you'd get a MoL sized update every week.
 > 
+> WtC's updates are 4-5 times that size. 
+> 
+> They might release similarly, but if you broke down WtC you'd get a MoL sized update every week.
 
->> **u/None** [+9] *
+>> **u/None** [+9]  (18 hours later)
 >> 
 >> Which tbh I might prefer. Thank Cthulurae [the spreadsheet](https://docs.google.com/spreadsheets/d/1PaLrwVYgxp_SYHtkred7ybpSJPHL88lf4zB0zMKmk1E/edit#gid=0) exists though
->> 
 
-> **u/zaxqs** [+1] *
+> **u/zaxqs** [+1]  (9 days later)
 > 
 > When I saw the title I thought "World Trade Center"
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/traverseda  *With dread but cautious optimism**
 * URL: http://www.inkitt.com/stories/13596
-* Score: 10
+* Score: 12
 
 * Created: 2015-06-20T15:00:05
 
@@ -12,50 +12,41 @@
 
 ### Comments:
 
-> **u/Sagebrysh** [+10]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+10]  *Rank 7 Pragmatist* (an hour later)
 > 
 > That last sentence...fuck, what?
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 hours later)
 > 
 > That is delicious.
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (4 hours later)
 > 
 > I love how all of his stories are labeled "Horror".
-> 
 
-> **u/CopperZirconium** [+3] *
+> **u/CopperZirconium** [+3]  (13 hours later)
 > 
 > Um. Ok. Clearly the protagonist was under some kind of external mental influence. I think his thoughts and attitudes changed too rapidly for anything natural.
-> 
 
-> **u/Arandur** [+2] *
+> **u/Arandur** [+2]  (3 hours later)
 > 
 > Wh..... what? But..... why?!
-> 
 
-> **u/puesyomero** [+2]  *The Culture**
+> **u/puesyomero** [+2]  *The Culture* (a day later)
 > 
 > great, grey goo underside and a hungry yogh sothoth up above! talk about a rock and a hard place!
-> 
 
->> **u/redrach** [+2] *
+>> **u/redrach** [+2]  (2 days later)
 >> 
 >> Shoggoth below and Yog-Sothoth above!
->> 
 
-> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (5 hours later)
 > 
 > It's the ciiircle of life!
-> 
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (a day later)
 > 
 > That was a very strange story.
-> 
 
 ---
 

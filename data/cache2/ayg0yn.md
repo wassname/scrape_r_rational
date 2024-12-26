@@ -22,15 +22,13 @@ Links:
 
 ### Comments:
 
-> **u/Xtraordinaire** [+8]  *Team Glimglam**
+> **u/Xtraordinaire** [+9]  *Team Glimglam* (40 minutes later)
 > 
 > Too bad NAS got only 2 episodes. It was starting to grow on me.
-> 
 
-> **u/cthulhusleftnipple** [+5] *
+> **u/cthulhusleftnipple** [+6]  (12 hours later)
 > 
 > I... don't quite understand these. Can someone tell me what I'm seeing?
-> 
 
 ---
 

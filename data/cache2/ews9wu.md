@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/DearDeathDay** [+1] *
+> **u/DearDeathDay** [+1]  (10 minutes later)
 > 
 > Well, there’s no pure oxygen down there so... something I’m not qualified to say, not knowing much about the flammable materials in the human gut, and then it would stop burning?
-> 
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (21 minutes later)
 > 
 > Removed. This kind of question is much more suited to either the [Wednesday thread](https://www.reddit.com/r/rational/comments/evo145/d_wednesday_worldbuilding_and_writing_thread/) or [Friday thread](https://www.reddit.com/r/rational/comments/ewppno/d_friday_open_thread/), given that it's a pure science question.
-> 
 
 ---
 

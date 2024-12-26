@@ -18,20 +18,17 @@ Go to [An Advance in Time](https://www.royalroad.com/fiction/31377/an-advance-in
 
 ### Comments:
 
-> **u/ironistkraken** [+2] *
+> **u/ironistkraken** [+2]  (19 hours later)
 > 
 > I just got in 5 chapters, Can you explain why this is rational vs just well written?
-> 
 
->> **u/everydaymovingup** [+2] *
+>> **u/everydaymovingup** [+2]  (23 hours later)
 >> 
 >> An ongoing theme is the MC solving problems via figuring out technological or knowledge-based solutions to the problems at hand. Let me know if you disagree, though.
->> 
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (7 days later)
 > 
 > Definitely getting echoes of A Hero's War or Release That Witch, except without magic.
-> 
 
 ---
 

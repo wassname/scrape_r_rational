@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (52 minutes later)
 > 
 > I think it's more likely that I exist than that 13 is prime.
-> 
 
-> **u/Uncaffeinated** [+1] *
+> **u/Uncaffeinated** [+1]  (2 hours later)
 > 
 > Wow, after reading that '1 is not a probability' post, I suddenly think a lot less of EY.
-> 
 
 ---
 

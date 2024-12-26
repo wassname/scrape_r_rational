@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2020/01/16/chapter-2/
-* Score: 11
+* Score: 10
 
 * Created: 2020-01-16T15:23:08
 

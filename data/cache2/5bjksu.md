@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/5bjksu/rtffhf_marked_for_death_ch_81_the_opposite_of/
-* Score: 10
+* Score: 9
 
 * Created: 2016-11-07T01:56:35
 
@@ -23,18 +23,19 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+> **u/xamueljones** [+6]  *My arch-enemy is entropy* (52 minutes later)
 > 
 > *twitch*
-> You guys are evil! Stop tormenting us with crazy bio-sealing shenanigans!
-> Brilliantly written update /u/eaglejarl
 > 
+> You guys are evil! Stop tormenting us with crazy bio-sealing shenanigans!
+> 
+> Brilliantly written update /u/eaglejarl
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+4]  (2 hours later)
 >> 
 >> Thank you!  It was a lot of fun.
->> (Teasing the thread was at least as much fun.)
 >> 
+>> (Teasing the thread was at least as much fun.)
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/73uysc/rt_the_steerswoman/
-* Score: 7
+* Score: 8
 
 * Created: 2017-10-02T19:15:00
 
@@ -16,27 +16,25 @@ I couldn't quite follow everything, however, and was hoping someone else who rea
 
 ### Comments:
 
-> **u/rdalex** [+2] *
+> **u/rdalex** [+2]  (29 minutes later)
 > 
 > It's been a very long time, but I think that was explained? Something about [](#s " extrapolating from the 'splash pattern' of the discovery sites")? And the fact that the angles were all wrong for [](#s " surface launch but right for orbital fall")?
-> Okay now I have to reread this series.
 > 
+> Okay now I have to reread this series.
 
-> **u/Charlie___** [+1] *
+> **u/Charlie___** [+1]  (a day later)
 > 
 > Oh man, you're in for a treat with book 2. Er, 3? Whichever one the Lost Steersman is, it's the high point for me.
-> Anyhow, [](#s "they knew there was a missing guidestar, at least. But did they have some notion of its absolute location, from observations at different latitudes and longitudes? The pieces should be at about the same latitude as the missing guidestar. I, too haven't read the books in a while.")
 > 
+> Anyhow, [](#s "they knew there was a missing guidestar, at least. But did they have some notion of its absolute location, from observations at different latitudes and longitudes? The pieces should be at about the same latitude as the missing guidestar. I, too haven't read the books in a while.")
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> https://www.kobo.com/ww/en/ebook/the-steerswoman
->> 
 
 ---
 

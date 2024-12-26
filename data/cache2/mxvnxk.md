@@ -2,7 +2,7 @@
 
 * Author: u/Jello_Raptor  *The Last Tool User**
 * URL: https://www.reddit.com/r/rational/comments/mxvnxk/challenge_what_can_rrational_glean_from_this/
-* Score: 25
+* Score: 29
 
 * Created: 2021-04-24T23:24:37
 
@@ -190,135 +190,183 @@ A lot of the basic info *is* handed to the reader on a platter but I'm curious t
 
 ### Comments:
 
-> **u/GET_A_LAWYER** [+17] *
+> **u/GET_A_LAWYER** [+15]  (27 minutes later)
 > 
 > I read the first two snippets. 
-> There was originally a single universe that got sundered into interconnected demi-planes called bubbles. Planar travel is possible via portals, and may have a cost low enough individuals can do it regularly. Portals can be manipulated via advanced technology, which is dangerous. Bubbles "want" a particular number of portals, in the way that atoms "want" eight electrons and will spontaneously connect to other bubbles if they have fewer than the proper number of portals. By default, bubbles are connected to other bubbles that are similar in some way. A -> B -> C, A is most similar to B, and less similar to C. If you disconnect a portal, the resulting new portal may connect to a very dissimilar bubble, which may contain bizarre dangers.
 > 
+> There was originally a single universe that got sundered into interconnected demi-planes called bubbles. Planar travel is possible via portals, and may have a cost low enough individuals can do it regularly. Portals can be manipulated via advanced technology, which is dangerous. Bubbles "want" a particular number of portals, in the way that atoms "want" eight electrons and will spontaneously connect to other bubbles if they have fewer than the proper number of portals. By default, bubbles are connected to other bubbles that are similar in some way. A -> B -> C, A is most similar to B, and less similar to C. If you disconnect a portal, the resulting new portal may connect to a very dissimilar bubble, which may contain bizarre dangers.
 
->> **u/Jello_Raptor** [+1]  *The Last Tool User**
+>> **u/Jello_Raptor** [+1]  *The Last Tool User* (6 days later)
 >> 
 >> Cool, I hadn't noticed the analogy to atoms and electrons. That'll probably come in useful at some point or another. Thanks.
->> 
 
-> **u/plutonicHumanoid** [+8] *
+> **u/plutonicHumanoid** [+8]  (41 minutes later)
 > 
 > All I’ve got is that some previous civilization used space-warping tech/magic (pocket dimensions, teleportation gates, bags of holding) which eventually reached an unstable critical point that messed up space really bad, at a minimum of a country sized level. This created discrete bubbles of space, drawing from many worlds, some which were inhabited. Some of these bubbles are naturally inhospitable, or have native monsters. Travel between bubbles is relatively easy, but you move directly to adjacent bubbles?
-> The volumetrics part of the creation myth section is confusing, and it’s not entirely clear how travel between bubbles works.
 > 
+> The volumetrics part of the creation myth section is confusing, and it’s not entirely clear how travel between bubbles works.
 
->> **u/Jello_Raptor** [+1]  *The Last Tool User**
+>> **u/Jello_Raptor** [+1]  *The Last Tool User* (6 days later)
 >> 
 >> > The volumetrics part of the creation myth section is confusing, 
->> Yeah, that's a an issue. I was trying to get across that there's a lot of different cultures and part of that means you have a lot of different terminology. That particular culture, at least its academia, uses "volume" as a technical term for the bubble, with "volumetrics" being "the study of volumes". Also it's a math pun. :>
->> > and it’s not entirely clear how travel between bubbles works.
->> I've been imagining that you'd have Portal style portals, just "holes" that you can step through of various sizes.
 >> 
+>> Yeah, that's a an issue. I was trying to get across that there's a lot of different cultures and part of that means you have a lot of different terminology. That particular culture, at least its academia, uses "volume" as a technical term for the bubble, with "volumetrics" being "the study of volumes". Also it's a math pun. :>
+>> 
+>> > and it’s not entirely clear how travel between bubbles works.
+>> 
+>> I've been imagining that you'd have Portal style portals, just "holes" that you can step through of various sizes.
 
-> **u/CCC_037** [+4] *
+> **u/CCC_037** [+4]  (10 hours later)
 > 
 > So. You have... space-warping magics. Gates, bags of holding, and whatnot.
-> Sometime in the dim and distant past, these were overused, and space itself was *shattered* into separate bubbles. People continued living (and non-people too, in a variety of ways) but space-warping magic became *harder*. Pre-existing Gates and so forth still worked, though. Well. More or less. A Gate has to connect to *somewhere*, but a connection can be severed; and when it is severed, then that Gate will (eventually, after a short interval) end up connecting to something else.
-> The different worlds have *changed* over time; and some natural forces may be different (e.g. some worlds may have no gravity). It's unclear whether this is a fundamental change in the laws of nature, or whether it's just that some worlds don't contain the raw *mass* to have measurable gravity.
-> There's enough worlds - and they're often separate enough - that almost nothing affects them *all*. And a random connection is more than likely going to take you to a world that has never heard of your known history. (It's possible that there may some temporal distortion as well - going to a world through Gate A then back through Gate B could perhaps bring you back to the original universe before you left it).
-> Portals may take *effort* to hold open, collapsing (and re-connecting to somewhere else) on their own after some time. And there are enough people who have been cut off from what they consider home that there are *always* going to be wandering groups looking for a way home (or, at least, a way to a place that can become their *new* home).
-> Clerics have particular trouble, because the reach of the gods is *not* universal...
 > 
+> Sometime in the dim and distant past, these were overused, and space itself was *shattered* into separate bubbles. People continued living (and non-people too, in a variety of ways) but space-warping magic became *harder*. Pre-existing Gates and so forth still worked, though. Well. More or less. A Gate has to connect to *somewhere*, but a connection can be severed; and when it is severed, then that Gate will (eventually, after a short interval) end up connecting to something else.
+> 
+> The different worlds have *changed* over time; and some natural forces may be different (e.g. some worlds may have no gravity). It's unclear whether this is a fundamental change in the laws of nature, or whether it's just that some worlds don't contain the raw *mass* to have measurable gravity.
+> 
+> There's enough worlds - and they're often separate enough - that almost nothing affects them *all*. And a random connection is more than likely going to take you to a world that has never heard of your known history. (It's possible that there may some temporal distortion as well - going to a world through Gate A then back through Gate B could perhaps bring you back to the original universe before you left it).
+> 
+> Portals may take *effort* to hold open, collapsing (and re-connecting to somewhere else) on their own after some time. And there are enough people who have been cut off from what they consider home that there are *always* going to be wandering groups looking for a way home (or, at least, a way to a place that can become their *new* home).
+> 
+> Clerics have particular trouble, because the reach of the gods is *not* universal...
 
->> **u/Jello_Raptor** [+2]  *The Last Tool User**
+>> **u/Jello_Raptor** [+2]  *The Last Tool User* (6 days later)
 >> 
 >> > The different worlds have changed over time; and some natural forces may be different (e.g. some worlds may have no gravity). It's unclear whether this is a fundamental change in the laws of nature, or whether it's just that some worlds don't contain the raw mass to have measurable gravity.
->> Cool. I've had the "change over time" idea in my setting notes since it's really important, but I wasn't really trying to leave clues to that effect. I love that you managed to just work backwards and figure that out. 
->> > There's enough worlds - and they're often separate enough - that almost nothing affects them all. And a random connection is more than likely going to take you to a world that has never heard of your known history. (It's possible that there may some temporal distortion as well - going to a world through Gate A then back through Gate B could perhaps bring you back to the original universe before you left it).
->> Yup. I don't have temporal distortions though, mostly because it'd be hell to run a campaign with either closed time loops or split timelines. I just can't handle that and still keep the 'rational' feel of the setting. 
->> > Portals may take effort to hold open, collapsing (and re-connecting to somewhere else) on their own after some time. And there are enough people who have been cut off from what they consider home that there are always going to be wandering groups looking for a way home (or, at least, a way to a place that can become their new home).
->> You're spot on about the wandering groups. Though I'm still trying to figure out how often wanderers end up creating new settlements vs joining other settlements. 
->> I want them to be able to join existing settlements relatively often but the wanderers are just more mouths to feed for any group that's low-mid tech level. Food in particular can be really hard to source just because of the limited space.
->> High tech level groups tend to have food (aquaponics and hydroponics analogs) but they're rare since they either stumble onto *things* or *things* stumble onto them. 
->> > Clerics have particular trouble, because the reach of the gods is not universal...
->> Yup, this is part of why cleric-analogs tend to carry bits of their gods with them. God-shards also make for really adorable pets.
 >> 
+>> Cool. I've had the "change over time" idea in my setting notes since it's really important, but I wasn't really trying to leave clues to that effect. I love that you managed to just work backwards and figure that out. 
+>> 
+>> > There's enough worlds - and they're often separate enough - that almost nothing affects them all. And a random connection is more than likely going to take you to a world that has never heard of your known history. (It's possible that there may some temporal distortion as well - going to a world through Gate A then back through Gate B could perhaps bring you back to the original universe before you left it).
+>> 
+>> Yup. I don't have temporal distortions though, mostly because it'd be hell to run a campaign with either closed time loops or split timelines. I just can't handle that and still keep the 'rational' feel of the setting. 
+>> 
+>> > Portals may take effort to hold open, collapsing (and re-connecting to somewhere else) on their own after some time. And there are enough people who have been cut off from what they consider home that there are always going to be wandering groups looking for a way home (or, at least, a way to a place that can become their new home).
+>> 
+>> You're spot on about the wandering groups. Though I'm still trying to figure out how often wanderers end up creating new settlements vs joining other settlements. 
+>> 
+>> I want them to be able to join existing settlements relatively often but the wanderers are just more mouths to feed for any group that's low-mid tech level. Food in particular can be really hard to source just because of the limited space.
+>> 
+>> High tech level groups tend to have food (aquaponics and hydroponics analogs) but they're rare since they either stumble onto *things* or *things* stumble onto them. 
+>> 
+>> > Clerics have particular trouble, because the reach of the gods is not universal...
+>> 
+>> Yup, this is part of why cleric-analogs tend to carry bits of their gods with them. God-shards also make for really adorable pets.
 
->>> **u/CCC_037** [+1] *
+>>> **u/CCC_037** [+1]  (6 days later)
 >>> 
 >>> > Yup. I don't have temporal distortions though, mostly because it'd be hell to run a campaign with either closed time loops or split timelines. I just can't handle that and still keep the 'rational' feel of the setting. 
->>> There's one sort of temporal shenanigan that's very straightforward to campaign with, and that's the [Year Inside, Hour Outside](https://tvtropes.org/pmwiki/pmwiki.php/Main/YearInsideHourOutside) situation; where you can never go from future to past, but you can step through a portal, spend a year training, and then go back to find only an hour has elapsed.
->>> > You're spot on about the wandering groups. Though I'm still trying to figure out how often wanderers end up creating new settlements vs joining other settlements.
->>> That's probably going to depend on how fully inhabited your Realms are. Is a wandering group more likely to come across a settlement that will accept them, or an empty place where they *can* settle? And once they *have* settled, will they accept other wandering settlers? (If they don't, their settlement is unlikely to last more than a few generations...)
->>> > Yup, this is part of why cleric-analogs tend to carry bits of their gods with them. God-shards also make for really adorable pets.
->>> If two shards have been apart for ten thousand years, both growing in different ways and experiencing different things in that time, then what happens when they suddenly and unexpectedly meet up again? Do they both share memories and experience a sharp alignment shift towards each other, or do they consider each other to be different gods by then?
 >>> 
+>>> There's one sort of temporal shenanigan that's very straightforward to campaign with, and that's the [Year Inside, Hour Outside](https://tvtropes.org/pmwiki/pmwiki.php/Main/YearInsideHourOutside) situation; where you can never go from future to past, but you can step through a portal, spend a year training, and then go back to find only an hour has elapsed.
+>>> 
+>>> > You're spot on about the wandering groups. Though I'm still trying to figure out how often wanderers end up creating new settlements vs joining other settlements.
+>>> 
+>>> That's probably going to depend on how fully inhabited your Realms are. Is a wandering group more likely to come across a settlement that will accept them, or an empty place where they *can* settle? And once they *have* settled, will they accept other wandering settlers? (If they don't, their settlement is unlikely to last more than a few generations...)
+>>> 
+>>> > Yup, this is part of why cleric-analogs tend to carry bits of their gods with them. God-shards also make for really adorable pets.
+>>> 
+>>> If two shards have been apart for ten thousand years, both growing in different ways and experiencing different things in that time, then what happens when they suddenly and unexpectedly meet up again? Do they both share memories and experience a sharp alignment shift towards each other, or do they consider each other to be different gods by then?
 
->>>> **u/Jello_Raptor** [+2]  *The Last Tool User**
+>>>> **u/Jello_Raptor** [+2]  *The Last Tool User* (6 days later)
 >>>> 
 >>>> > There's one sort of temporal shenanigan that's very straightforward to campaign with, and that's the Year Inside, Hour Outside situation; where you can never go from future to past, but you can step through a portal, spend a year training, and then go back to find only an hour has elapsed.
+>>>> 
 >>>> True. It would also be useful to have that be another great filter that kills higher tech civs. A group living in a fast-time bubble has huge problems sourcing enough stuff to survive from the surrounding slow-time area. I've got a bunch of other things that make it hard for high-tech civs to last (I want a lot of advanced ruins floating around, among other things) but more interesting variety in existential threat would be nice. 
+>>>> 
 >>>> Likewise in the other direction, a slow-time area could just "freeze" something interesting for players to stumble upon later. 
+>>>> 
 >>>> Hmm, I should avoid letting players get caught in a slow bubble. It'd make for a really bad player experience if they did a side-quest only to find the quest giver, and their entire civilization, is dead. 
+>>>> 
 >>>> I'll probably use the mechanic sparingly, but it's nice to have in the toolbox. Thanks. 
+>>>> 
 >>>> > That's probably going to depend on how fully inhabited your Realms are. Is a wandering group more likely to come across a settlement that will accept them, or an empty place where they can settle?
+>>>> 
 >>>> In general they'll mostly find empty, but very forage-able, spots if they move a fixed distance from their start. Other side of that is, if they just sort of travel a random path for a while (say 20-30x the fixed distance), they have a good chance of stumbling onto another civilization. If the wanderers try to look at most of the portals in each bubble they go through and stick to larger bubbles (which have more portals) they'll end up seeing an immense amount of locations where they can look for signs of human life. This might take longer to pay off but if the group can keep moving it's a better strategy.  
+>>>> 
 >>>> So, thinking out loud, it's a bunch of tradeoffs: 
+>>>> 
 >>>>   - **Movement Speed:** If your group can move fast then you want to wander, otherwise settle. 
 >>>>   - **Defense Strategy:** If you can stand your ground then settle. If running away is your best defense then wander. 
 >>>>   - **Ability to Build:** If you can build a settlement then you probably should, otherwise the choice is made for you.
 >>>>   - **Tech-Level / Skill Specialization:** People from higher tech-level civs will be more specialized, making them more valuable to other civs and less productive in new settlements. 
 >>>>   - **Group Size:** Travel logistics is generally harder for a large group, so they'd want to settle, they're also more able to defend and build.
->>>> Which makes for a nice varied landscape of choices and, given how portals shift and chop bits off of civilizations, means there's a lot of room for random settlers to just walk in and lots of new tiny civs popping up. Cool.
->>>> > And once they have settled, will they accept other wandering settlers? (If they don't, their settlement is unlikely to last more than a few generations...)
->>>> See, early on, when a civ is at a low tech-level and small then trustworthy wanderers are a huge boost to stability. On the other hand larger/higher-tech civs will find wanderers are just more mouths to feed, but those civs are also more likely to have a surplus. 
->>>> I can see some larger civs developing a tradition of hospitality where they treat wanderers well because they'd want to be treated well. On the other hand I could also see them developing a culture that shuns wanderers as  useless.
->>>> The other issue here is trust. It's rare, but shapeshifters and brain-slugs are real. Every wanderer is an unknown, possibly existential, danger that's hiding as a human. Likewise, civs don't really have to play an iterated prisoner's dilemma with each other.
->>>> At every level it's similar to a few-shot interaction between two agents, at least if they don't make an active choice to stick together. If you send a wanderer away you'll never see them again, their descendants will probably not see your descendants before both civs are lost to time. At the civ level, the bubbles can wander closer together letting them communicate and trade but they'll also eventually drift apart. At some point the distance between two civs will become large enough that maintaining the path between them is not really possible and they lose touch. 
->>>> Really, it's all about the balance between risk, reward, trust, and accountability. I don't think it'll pan out the same way every time but should there be a bias? 
->>>> Maybe I can just shrug and use that as an excuse to have a variety of cultures with different takes on hospitality and isolationism?
->>>> > If two shards have been apart for ten thousand years, both growing in different ways and experiencing different things in that time, then what happens when they suddenly and unexpectedly meet up again? Do they both share memories and experience a sharp alignment shift towards each other, or do they consider each other to be different gods by then?
->>>> This is what was going on when one of the characters mentioned their god's 'lineage'. They can grow to be different enough to be separate entities, though they're still generally thought of as related to each other. 
->>>> I have it so that gods have a sort of "density" in each bubble. If they're dense enough in a bubble, that god can exist independently of a cleric without eroding. If not then they need a cleric to protect the tiny fragment they carry. Plus all the "sufficiently similar" god bits in a bubble synchronize and become more alike. 
->>>> So clerics can go back to one of their god's home bubbles to make sure their shards don't diverge too much and that their god's "primary self" gets any new memories. This also happens when a bunch of clerics for the same god gather in another bubble, all of those shards will synchronize too.
->>>> There's no way to make a new god out of a fragment that's diverged too much. New gods usually happen when a god is dense in more than one bubble and some of those bubbles drift away and diverge.
 >>>> 
+>>>> Which makes for a nice varied landscape of choices and, given how portals shift and chop bits off of civilizations, means there's a lot of room for random settlers to just walk in and lots of new tiny civs popping up. Cool.
+>>>> 
+>>>> > And once they have settled, will they accept other wandering settlers? (If they don't, their settlement is unlikely to last more than a few generations...)
+>>>> 
+>>>> See, early on, when a civ is at a low tech-level and small then trustworthy wanderers are a huge boost to stability. On the other hand larger/higher-tech civs will find wanderers are just more mouths to feed, but those civs are also more likely to have a surplus. 
+>>>> 
+>>>> I can see some larger civs developing a tradition of hospitality where they treat wanderers well because they'd want to be treated well. On the other hand I could also see them developing a culture that shuns wanderers as  useless.
+>>>> 
+>>>> The other issue here is trust. It's rare, but shapeshifters and brain-slugs are real. Every wanderer is an unknown, possibly existential, danger that's hiding as a human. Likewise, civs don't really have to play an iterated prisoner's dilemma with each other.
+>>>> 
+>>>> At every level it's similar to a few-shot interaction between two agents, at least if they don't make an active choice to stick together. If you send a wanderer away you'll never see them again, their descendants will probably not see your descendants before both civs are lost to time. At the civ level, the bubbles can wander closer together letting them communicate and trade but they'll also eventually drift apart. At some point the distance between two civs will become large enough that maintaining the path between them is not really possible and they lose touch. 
+>>>> 
+>>>> Really, it's all about the balance between risk, reward, trust, and accountability. I don't think it'll pan out the same way every time but should there be a bias? 
+>>>> 
+>>>> Maybe I can just shrug and use that as an excuse to have a variety of cultures with different takes on hospitality and isolationism?
+>>>> 
+>>>> > If two shards have been apart for ten thousand years, both growing in different ways and experiencing different things in that time, then what happens when they suddenly and unexpectedly meet up again? Do they both share memories and experience a sharp alignment shift towards each other, or do they consider each other to be different gods by then?
+>>>> 
+>>>> This is what was going on when one of the characters mentioned their god's 'lineage'. They can grow to be different enough to be separate entities, though they're still generally thought of as related to each other. 
+>>>> 
+>>>> I have it so that gods have a sort of "density" in each bubble. If they're dense enough in a bubble, that god can exist independently of a cleric without eroding. If not then they need a cleric to protect the tiny fragment they carry. Plus all the "sufficiently similar" god bits in a bubble synchronize and become more alike. 
+>>>> 
+>>>> So clerics can go back to one of their god's home bubbles to make sure their shards don't diverge too much and that their god's "primary self" gets any new memories. This also happens when a bunch of clerics for the same god gather in another bubble, all of those shards will synchronize too.
+>>>> 
+>>>> There's no way to make a new god out of a fragment that's diverged too much. New gods usually happen when a god is dense in more than one bubble and some of those bubbles drift away and diverge.
 
->>>>> **u/CCC_037** [+1] *
+>>>>> **u/CCC_037** [+1]  (7 days later)
 >>>>> 
 >>>>> > I'll probably use the mechanic sparingly, but it's nice to have in the toolbox. Thanks. 
->>>>> As a bonus, at low level (four weeks inside, three weeks outside, sort of thing) it also serves as an explanation for any potential schedule slips, if any of your players is the sort to carefully count the days.
->>>>> > The other issue here is trust. It's rare, but shapeshifters and brain-slugs are real. Every wanderer is an unknown, possibly existential, danger that's hiding as a human. Likewise, civs don't really have to play an iterated prisoner's dilemma with each other.
->>>>> I can see a cautious civilisation devising a series of simple tests (such as, say, pouring salt into a visitor's ear to see if that kills any brain-control slugs). These tests will presumably only be effective on a proportion of Horrors, and many of these tests will turn out on close examination to be utterly useless, or a consequence of a hazing tradition, or (rarely) a flimsily disguised means of putting the local brain-slugs into any visitors.
->>>>> Then you also have the rare case of an immortal shapeshifter who really *doesn't* want to mess with people and actually just wants to live in peace with his neighbours, perhaps feeding gently off their emotions, like some sort of creature that literally lives on happiness...
->>>>> > This is what was going on when one of the characters mentioned their god's 'lineage'. They can grow to be different enough to be separate entities, though they're still generally thought of as related to each other.
->>>>> Hmmm. So, if Dr. Evil manages to take a few shards off into nearby bubbles, push them towards a desired alignment of Chaotic Evil a bit while they're weak then bring them back to the main bubble, rinse and repeat... he could, eventually, given time and effort - and a *lot* of time - try to influence the god *as a whole* to his preferred alignment?
->>>>> (Of course, the god in question will likely object to being influenced in such a manner and send off paladins or something to Deal With him)
->>>>> > There's no way to make a new god out of a fragment that's diverged too much. New gods usually happen when a god is dense in more than one bubble and some of those bubbles drift away and diverge.
->>>>> Can the fragments not grow, given time and a suitable environment? ('Time' meaning perhaps a few centuries or so)
 >>>>> 
+>>>>> As a bonus, at low level (four weeks inside, three weeks outside, sort of thing) it also serves as an explanation for any potential schedule slips, if any of your players is the sort to carefully count the days.
+>>>>> 
+>>>>> > The other issue here is trust. It's rare, but shapeshifters and brain-slugs are real. Every wanderer is an unknown, possibly existential, danger that's hiding as a human. Likewise, civs don't really have to play an iterated prisoner's dilemma with each other.
+>>>>> 
+>>>>> I can see a cautious civilisation devising a series of simple tests (such as, say, pouring salt into a visitor's ear to see if that kills any brain-control slugs). These tests will presumably only be effective on a proportion of Horrors, and many of these tests will turn out on close examination to be utterly useless, or a consequence of a hazing tradition, or (rarely) a flimsily disguised means of putting the local brain-slugs into any visitors.
+>>>>> 
+>>>>> Then you also have the rare case of an immortal shapeshifter who really *doesn't* want to mess with people and actually just wants to live in peace with his neighbours, perhaps feeding gently off their emotions, like some sort of creature that literally lives on happiness...
+>>>>> 
+>>>>> > This is what was going on when one of the characters mentioned their god's 'lineage'. They can grow to be different enough to be separate entities, though they're still generally thought of as related to each other.
+>>>>> 
+>>>>> Hmmm. So, if Dr. Evil manages to take a few shards off into nearby bubbles, push them towards a desired alignment of Chaotic Evil a bit while they're weak then bring them back to the main bubble, rinse and repeat... he could, eventually, given time and effort - and a *lot* of time - try to influence the god *as a whole* to his preferred alignment?
+>>>>> 
+>>>>> (Of course, the god in question will likely object to being influenced in such a manner and send off paladins or something to Deal With him)
+>>>>> 
+>>>>> > There's no way to make a new god out of a fragment that's diverged too much. New gods usually happen when a god is dense in more than one bubble and some of those bubbles drift away and diverge.
+>>>>> 
+>>>>> Can the fragments not grow, given time and a suitable environment? ('Time' meaning perhaps a few centuries or so)
 
-> **u/asimplerationalist** [+3] *
+> **u/asimplerationalist** [+3]  (a day later)
 > 
 > I like it very much. It seems to have alot of potential, lots of different systems combining in different ways. Your group is lucky to have you.
-> 
 
-> **u/CorneliusPhi** [+2] *
+> **u/CorneliusPhi** [+2]  (3 days later)
 > 
 > The setting reminds me of the Fate SciFi rpg Diaspora.  The magic system involves skills which you can get better at, so it sounds more like GURPS or Shadowrun.  The discussion of Volumetrics and super weapons suggests that at least the most advanced societies are at a much higher tech level than the default D&D world, with advanced scientific institutions and understandings of their world
-> 
 
-> **u/frodo_skywalker** [+1] *
+> **u/frodo_skywalker** [+1]  (4 days later)
 > 
 > This was very enjoyable, thanks. I'd be keen to read more. 
-> The only thing I picked up on beyond the obvious is (from cannon) there's an implication that natural law might bleed across the jumps a little; if a severed jump reconnects to *anything* but most jumps link similar places, that suggests they might even out over time.
-> Of course, there are alternative explanations. Maybe it's sampling bias: people don't tend to live in bubbles linked to very different places because they're hellholes. Perhaps previous civilisations have put the hard work in to join good bubbles together or the existing networks formed that way because of something the pre-cataclysm civilisation did.
-> Also: the average bubble is connected to almost 3 bubbles ("20 random jumps and he could be in a million worlds" taken literally implies an average of 2.95)
 > 
+> The only thing I picked up on beyond the obvious is (from cannon) there's an implication that natural law might bleed across the jumps a little; if a severed jump reconnects to *anything* but most jumps link similar places, that suggests they might even out over time.
+> 
+> Of course, there are alternative explanations. Maybe it's sampling bias: people don't tend to live in bubbles linked to very different places because they're hellholes. Perhaps previous civilisations have put the hard work in to join good bubbles together or the existing networks formed that way because of something the pre-cataclysm civilisation did.
+> 
+> Also: the average bubble is connected to almost 3 bubbles ("20 random jumps and he could be in a million worlds" taken literally implies an average of 2.95)
 
->> **u/Jello_Raptor** [+1]  *The Last Tool User**
+>> **u/Jello_Raptor** [+1]  *The Last Tool User* (6 days later)
 >> 
 >> > Also: the average bubble is connected to almost 3 bubbles ("20 random jumps and he could be in a million worlds" taken literally implies an average of 2.95)
->> You have no idea how happy it makes me that someone actually did the math. 
->> In story the protag is half using "million" in a poetic sense (i.e. "so huge it's basically infinite") and as an actual approximation that's optimized to be punchy. (since that's his style of storytelling) 
->> My notes have the average as around 5.5 for an actual number of 14-ish million, if you assume that there's only a single path from where you are to any other bubble. 
->> I want the actual number to be 5 or 6 million but I still need to work out what that means for how many short-ish paths there are between bubbles that are 2-3 jumps away. That ends up being important for how groups manage the area near their home bubble.
 >> 
+>> You have no idea how happy it makes me that someone actually did the math. 
+>> 
+>> In story the protag is half using "million" in a poetic sense (i.e. "so huge it's basically infinite") and as an actual approximation that's optimized to be punchy. (since that's his style of storytelling) 
+>> 
+>> My notes have the average as around 5.5 for an actual number of 14-ish million, if you assume that there's only a single path from where you are to any other bubble. 
+>> 
+>> I want the actual number to be 5 or 6 million but I still need to work out what that means for how many short-ish paths there are between bubbles that are 2-3 jumps away. That ends up being important for how groups manage the area near their home bubble.
 
 ---
 

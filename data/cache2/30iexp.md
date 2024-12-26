@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/30iexp/geb_discussion_6_chapter_5_recursive_structures/
-* Score: 11
+* Score: 10
 
 * Created: 2015-03-27T17:20:27
 
@@ -54,106 +54,129 @@ The discussion for the next chapter is posted [here](http://www.reddit.com/r/rat
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (4 hours later)
 > 
 > Chapter 5 leads to a lot of questions. I'll copy them from the wiki to here for discussion:
-> 1) We have provided lots of examples of recursion, self-similar fractals, and so on. Come up with some other contexts in which recursion appears.
-> 2) Use the RTN on p. 134 to come up with some "fancy nouns".
-> 2a) What path do you go down to implement the linguistic structure of the nursery rhyme "The House that Jack Built"? Leave off the "This is", because this isn't a machine for making complete sentences. For reference, it goes, in part:
-> *[This is] the dog that worried the cat that chased the rat that ate the cheese that lay in the house that Jack built.*
-> 2b) What path do you go down to make a phrase where all the verbs pile up at the end, as the German language is known for?
-> 3) On p. 137, Hofstadter describes the sequence known as "G-flip", where you flip diagram G from left to right and re-number the nodes.
-> 3a) Draw a few levels of G-flip. What is the algebraic expression that defines it?
-> 3b) Draw a few levels of H-flip. What is the algebraic expression that defines it?
-> 4) What does the diagram of the "married" functions F and M look like?
-> 5) To what extent are Feynman diagrams a formal system?
-> 6) What type of isomorphism links all the butterflies in Escher’s Butterflies on page 148?
-> 7) What is the connection between recursion and isomorphism? What does Hofstadter say the connection is?
-> 8) What is the essence of modularity in programming?
-> 9) Discuss the following quote: “Modularity exists, of course, in hi-fi systems, furniture, living cells, human society — wherever there is a hierarchical organization.” (p. 150)
-> 10) Did "Hofstadter's Law" (p. 152) actually apply to a computer program becoming the world chess champion?
-> 11) How does human intelligence make use of recursion, according to Hofstadter?
-> 12) How does human intelligence make use of recursion, according to someone relevant *besides* Hofstadter?
 > 
+> 1) We have provided lots of examples of recursion, self-similar fractals, and so on. Come up with some other contexts in which recursion appears.
+> 
+> 2) Use the RTN on p. 134 to come up with some "fancy nouns".
+> 
+> 2a) What path do you go down to implement the linguistic structure of the nursery rhyme "The House that Jack Built"? Leave off the "This is", because this isn't a machine for making complete sentences. For reference, it goes, in part:
+> 
+> *[This is] the dog that worried the cat that chased the rat that ate the cheese that lay in the house that Jack built.*
+> 
+> 2b) What path do you go down to make a phrase where all the verbs pile up at the end, as the German language is known for?
+> 
+> 3) On p. 137, Hofstadter describes the sequence known as "G-flip", where you flip diagram G from left to right and re-number the nodes.
+> 
+> 3a) Draw a few levels of G-flip. What is the algebraic expression that defines it?
+> 
+> 3b) Draw a few levels of H-flip. What is the algebraic expression that defines it?
+> 
+> 4) What does the diagram of the "married" functions F and M look like?
+> 
+> 5) To what extent are Feynman diagrams a formal system?
+> 
+> 6) What type of isomorphism links all the butterflies in Escher’s Butterflies on page 148?
+> 
+> 7) What is the connection between recursion and isomorphism? What does Hofstadter say the connection is?
+> 
+> 8) What is the essence of modularity in programming?
+> 
+> 9) Discuss the following quote: “Modularity exists, of course, in hi-fi systems, furniture, living cells, human society — wherever there is a hierarchical organization.” (p. 150)
+> 
+> 10) Did "Hofstadter's Law" (p. 152) actually apply to a computer program becoming the world chess champion?
+> 
+> 11) How does human intelligence make use of recursion, according to Hofstadter?
+> 
+> 12) How does human intelligence make use of recursion, according to someone relevant *besides* Hofstadter?
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (6 hours later)
 >> 
 >> Do you want me to include the questions in the above post?
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (10 hours later)
 >>> 
 >>> Eh, no need to duplicate. I think they work fine here.
->>> 
 
->> **u/markus1189** [+1] *
+>> **u/markus1189** [+1]  (20 hours later)
 >> 
 >> Did someone manage 3) or is it just another MU-puzzle?  I did some tries but could not find anything so I decided to **jump out of the system** / **drink my popping tonic** (sounds better than to give up).
->> 
 
->>> **u/Ty-Guy9** [+1]  *Wants to become a "FAI"**
+>>> **u/Ty-Guy9** [+1]  *Wants to become a "FAI"* (a day later)
 >>> 
 >>> Haha. I got all excited when I thought of trying G(n)=n-G(G(n)-1).  ;P
->>> G-flip could be a fun group exercise to try with my more mathy in-person friends. Seems like something requiring some creativity/analysis/stubbornness to solve. Then again, it might be more fun if we knew that it was solvable, or at least that it was provably unsolvable. Some people don't like playing games they can't 'win'.
->>> That said, I've had friends who enjoyed trying to prove the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), even knowing that it had never been done before. So maybe it's only discouraging facing the terrible odds when you expected them to be good odds.
 >>> 
+>>> G-flip could be a fun group exercise to try with my more mathy in-person friends. Seems like something requiring some creativity/analysis/stubbornness to solve. Then again, it might be more fun if we knew that it was solvable, or at least that it was provably unsolvable. Some people don't like playing games they can't 'win'.
+>>> 
+>>> That said, I've had friends who enjoyed trying to prove the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), even knowing that it had never been done before. So maybe it's only discouraging facing the terrible odds when you expected them to be good odds.
 
->> **u/markus1189** [+1] *
+>> **u/markus1189** [+1]  (a day later)
 >> 
 >> [3a](http://i.imgur.com/TLNTrt3.png)
->> 
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 minutes later)
 > 
 > Writing the post for this chapter felt weird, because for once there wasn't a large number of ideas being discussed simultaneously all at the same time and I didn't have to pick and choose the most interesting ones. It was all about recursion and the post feels particularly short.
-> I'm also glad that next week, we are going to be going over only two chapters. I wouldn't have been able to keep up three posts per week much longer. I noticed that last Friday's post is the worst written of the lot.
 > 
+> I'm also glad that next week, we are going to be going over only two chapters. I wouldn't have been able to keep up three posts per week much longer. I noticed that last Friday's post is the worst written of the lot.
 
-> **u/Ty-Guy9** [+2]  *Wants to become a "FAI"**
+> **u/Ty-Guy9** [+2]  *Wants to become a "FAI"* (18 hours later)
 > 
 > > It always takes longer than you expect, even when you take into account Hofstadter's Law.
-> Oh, Hofstadter. Pessimism can be just as blind as optimism, if neither is paired with accurate observations and correct principles. You can't just expect every plan/expectation to fall through and call that wisdom. (Although being prepared in case things do go long/wrong can be wise.)
 > 
+> Oh, Hofstadter. Pessimism can be just as blind as optimism, if neither is paired with accurate observations and correct principles. You can't just expect every plan/expectation to fall through and call that wisdom. (Although being prepared in case things do go long/wrong can be wise.)
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > >I recommend looking up John Cage and his music such as 4’33”.
-> From Wikipedia
-> >The piece purports to consist of the sounds of the environment that the listeners hear while it is performed
-> That is actually far more interesting than what I have always imagined 4’33” would be like - just silence.
 > 
+> From Wikipedia
+> 
+> >The piece purports to consist of the sounds of the environment that the listeners hear while it is performed
+> 
+> That is actually far more interesting than what I have always imagined 4’33” would be like - just silence.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 hours later)
 > 
 > >Hofstadter concluded the chapter by briefly talking about recursively-enumerable sets where “This kind of ‘tangled recursion’ probably lies at the heart of intelligence.” It may be a little soon to question this idea, since Hofstadter has not yet mentioned any possible supporting arguments, but do you agree with the idea that recursions is a fundamental quality of (and possibly the cause of) intelligence? Or would creativity be a better description for how recursion relates to intelligence? Remember if you believe Hofstadter is right, then why are humans so bad at it as compared to computer programs which are clearly not as intelligent? A good example is Gary Kasparov vs. Deep Blue in a chess match.
-> Well plainly an intelligent creature has to deal with Turing-complete possibility spaces.  That doesn't mean that dealing in Turing-complete stuff necessarily makes you intelligent, though.
 > 
+> Well plainly an intelligent creature has to deal with Turing-complete possibility spaces.  That doesn't mean that dealing in Turing-complete stuff necessarily makes you intelligent, though.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > Curry's notes about God that is unattainable was interesting, and if I were a believer, I think the GOD acronym description would very well fit the image of God I have in mind: God that is always an infinite distance away.
-> In the chapter I was particularly interested in the connection of intelligence and recursion. The book gave the example of a chess machine that calculates the point of view of his opponent, and then recursively how that opponent would imagine the machine itself would act. I think this might be pretty central to the intelligence of humans because humans are incredibly social animals who are constantly thinking how other people might think about themselves. I think it was in HPMOR in which Yudkowsky brought up the idea that social competition might have been the launchpad for the evolution of human intelligence. I haven't read much evolutionary psychology so I don't know how credible that idea really is, but intuitively it sounds sensible, seeing how much I am constantly thinking of how other people think about me.
-> Oh, I googled it and it seems Dunbar was the one who was advocate of [the social brain hypothesis.](http://en.wikipedia.org/wiki/Evolution_of_human_intelligence#Social_brain_hypothesis) He argues that once groups among humans got larger than before (150 is the famous Dunbar number for average size of human groups), complex social dynamics and behaviors like reciprocal altruism, deception and coalition formation started contributing to the evolution of intelligence. Dunbar cites a relationship between neocortex size and group size of various mammals.
-> (When I googled about this, I also found an interesting study which said that depression might have evolved as an involuntary losing strategy in social competition, "enabling the individual to accept defeat in ritual agonistic encounters and to accommodate to what would otherwise be unacceptably low social rank." I've suffered from depression and this rings a bell for me because I've always thought that low status has mostly been the cause of my depression. Go figure, but anyway, I think status games are really interesting.)
-> Another use for recursion might be as a source of randomness in creativity. Hofstadster gave the example of a chaotic sequence in which after a while the sequence starts to behave very chaotically. [Slate Star Codex has argued that random noise is our most valuable resource.](http://slatestarcodex.com/2014/08/06/random-noise-is-our-most-valuable-resource/) He gives multiple examples of how events in which what you might call "imperfect recursion", if you can call imperfect recall that, is a cause of inspiration:
-> >In partner dancing I sort of stumble onto inventing a lot of new moves by fucking up a standard move. But then it’s kinda hard to remember the new move since it was based on a mistake. The only times I remember a new move is if I make the same mistake at the same point in the step constantly.
-> >Neil Gaiman noted, in his commencement address that’s all over the Internet, that he once misspelled “Caroline” as “Coraline” and he went “that’s interesting,” and saved it for later.
-> >I remember reading that Neuromancer’s great opening line “The sky above the port was the color of television, tuned to a dead channel” was intended just to describe a blue sky, because Gibson’s television showed a blue screen on dead channels, but that most people read it and picture black-and-white static, which makes the line a lot cooler and more memorable
-> >The part where you said you mishear other people, misinterpret it and then have a new idea – shares similarity with Harold Bloom’s ideas about Shakespeare’s soliloquies, wherein the character speaks aloud, mishears himself, misinterprets what he misheard and then allows that new interpretation to change him away from his original stance, allowing growth.
 > 
+> In the chapter I was particularly interested in the connection of intelligence and recursion. The book gave the example of a chess machine that calculates the point of view of his opponent, and then recursively how that opponent would imagine the machine itself would act. I think this might be pretty central to the intelligence of humans because humans are incredibly social animals who are constantly thinking how other people might think about themselves. I think it was in HPMOR in which Yudkowsky brought up the idea that social competition might have been the launchpad for the evolution of human intelligence. I haven't read much evolutionary psychology so I don't know how credible that idea really is, but intuitively it sounds sensible, seeing how much I am constantly thinking of how other people think about me.
+> 
+> Oh, I googled it and it seems Dunbar was the one who was advocate of [the social brain hypothesis.](http://en.wikipedia.org/wiki/Evolution_of_human_intelligence#Social_brain_hypothesis) He argues that once groups among humans got larger than before (150 is the famous Dunbar number for average size of human groups), complex social dynamics and behaviors like reciprocal altruism, deception and coalition formation started contributing to the evolution of intelligence. Dunbar cites a relationship between neocortex size and group size of various mammals.
+> 
+> (When I googled about this, I also found an interesting study which said that depression might have evolved as an involuntary losing strategy in social competition, "enabling the individual to accept defeat in ritual agonistic encounters and to accommodate to what would otherwise be unacceptably low social rank." I've suffered from depression and this rings a bell for me because I've always thought that low status has mostly been the cause of my depression. Go figure, but anyway, I think status games are really interesting.)
+> 
+> Another use for recursion might be as a source of randomness in creativity. Hofstadster gave the example of a chaotic sequence in which after a while the sequence starts to behave very chaotically. [Slate Star Codex has argued that random noise is our most valuable resource.](http://slatestarcodex.com/2014/08/06/random-noise-is-our-most-valuable-resource/) He gives multiple examples of how events in which what you might call "imperfect recursion", if you can call imperfect recall that, is a cause of inspiration:
+> 
+> >In partner dancing I sort of stumble onto inventing a lot of new moves by fucking up a standard move. But then it’s kinda hard to remember the new move since it was based on a mistake. The only times I remember a new move is if I make the same mistake at the same point in the step constantly.
+> 
+> >Neil Gaiman noted, in his commencement address that’s all over the Internet, that he once misspelled “Caroline” as “Coraline” and he went “that’s interesting,” and saved it for later.
+> 
+> >I remember reading that Neuromancer’s great opening line “The sky above the port was the color of television, tuned to a dead channel” was intended just to describe a blue sky, because Gibson’s television showed a blue screen on dead channels, but that most people read it and picture black-and-white static, which makes the line a lot cooler and more memorable
+> 
+> >The part where you said you mishear other people, misinterpret it and then have a new idea – shares similarity with Harold Bloom’s ideas about Shakespeare’s soliloquies, wherein the character speaks aloud, mishears himself, misinterprets what he misheard and then allows that new interpretation to change him away from his original stance, allowing growth.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (5 hours later)
 >> 
 >> > In the chapter I was particularly interested in the connection of intelligence and recursion. The book gave the example of a chess machine that calculates the point of view of his opponent, and then recursively how that opponent would imagine the machine itself would act. I think this might be pretty central to the intelligence of humans because humans are incredibly social animals who are constantly thinking how other people might think about themselves. I think it was in HPMOR in which Yudkowsky brought up the idea that social competition might have been the launchpad for the evolution of human intelligence. I haven't read much evolutionary psychology so I don't know how credible that idea really is, but intuitively it sounds sensible, seeing how much I am constantly thinking of how other people think about me.
->> Actually, Sicilian Reasoning can only continue for a finite number of levels, that number being the number of available moves in the game.  After that, it cycles back: Nth-level Sicilian Reasoning leads you to make the same object-level move as 0th-level naive reasoning.
 >> 
+>> Actually, Sicilian Reasoning can only continue for a finite number of levels, that number being the number of available moves in the game.  After that, it cycles back: Nth-level Sicilian Reasoning leads you to make the same object-level move as 0th-level naive reasoning.
 
->> **u/Ty-Guy9** [+1]  *Wants to become a "FAI"**
+>> **u/Ty-Guy9** [+1]  *Wants to become a "FAI"* (a day later)
 >> 
 >> Slate Star Codex also clarifies that the random noise that actually helps you learn things (by breaking you out of your cognitive ruts) is of a specific kind:
->> > Just as geologists know where to look for oil, so there should be some heuristics about where to look for original thoughts that will expand your ideaspace. The main rule seems to be: anywhere with people whose thoughts have diverged from your own a lot.
->> So, basically, the valuable resource is still human intelligence, it's just human intelligence that points in a different direction than your own. Intelligence (still) doesn't come out of nowhere.
 >> 
+>> > Just as geologists know where to look for oil, so there should be some heuristics about where to look for original thoughts that will expand your ideaspace. The main rule seems to be: anywhere with people whose thoughts have diverged from your own a lot.
+>> 
+>> So, basically, the valuable resource is still human intelligence, it's just human intelligence that points in a different direction than your own. Intelligence (still) doesn't come out of nowhere.
 
 ---
 

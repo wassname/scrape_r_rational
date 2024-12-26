@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/04/07/interlude-archer/
-* Score: 54
+* Score: 50
 
 * Created: 2020-04-07T11:52:26
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/Ardvarkeating101** [+10]  *Father of Learning**
+> **u/Ardvarkeating101** [+11]  *Father of Learning* (6 hours later)
 > 
 > This guy is so good at skewering tropes I'm half-willing to believe Cat is dead just because it would be so *in-character* with the author.
-> 
 
->> **u/Spare_Emu** [+15] *
+>> **u/Spare_Emu** [+11]  (8 hours later)
 >> 
 >> I mean, by now it should be a matter of just how long she stays dead.
->> 
 
->>> **u/NorskDaedalus** [+4] *
+>>> **u/NorskDaedalus** [+4]  (10 hours later)
 >>> 
 >>> Third time’s the charm, and all that.
->>> 
 
 ---
 

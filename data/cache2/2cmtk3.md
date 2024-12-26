@@ -56,43 +56,39 @@ Note: This is going to be *rational* worldbuilding.
 
 ### Comments:
 
-> **u/None** [+0] *
+> **u/None** [+0]  (8 hours later)
 > 
 > Don't talk to me about worldbuilding.  My subconscious dumped an entire setting into my conscious awareness as I was in the grocery store Sunday night.
-> ONLY LAST NIGHT did it finally start to generate material for the actual matter at hand again.
 > 
+> ONLY LAST NIGHT did it finally start to generate material for the actual matter at hand again.
 
->> **u/krakonfour** [+1] *
+>> **u/krakonfour** [+1]  (10 hours later)
 >> 
 >> I'm sure I can help if you give me the 'material' :)
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (10 hours later)
 >>> 
 >>> For that I have quite enough to worldbuild with, and just have to make all the pieces of absurdist bullshit fit together in fun ways.
->>> 
 
->>>> **u/krakonfour** [+1] *
+>>>> **u/krakonfour** [+1]  (10 hours later)
 >>>> 
 >>>> That's the fun part!
->>>> Can you describe it in one sentence?
 >>>> 
+>>>> Can you describe it in one sentence?
 
->>>>> **u/None** [+0] *
+>>>>> **u/None** [+0]  (13 hours later)
 >>>>> 
 >>>>> No, but I can take the thing my subconscious dumped in my head on Sunday night, shove it in a Google Doc, and send it to you.
->>>>> 
 
->>>>>> **u/krakonfour** [+1] *
+>>>>>> **u/krakonfour** [+1]  (14 hours later)
 >>>>>> 
 >>>>>> Sure thing.
->>>>>> Send it to {sorry, edit} at yahoo dot com email.
 >>>>>> 
+>>>>>> Send it to {sorry, edit} at yahoo dot com email.
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (14 hours later)
 >>>>>>> 
 >>>>>>> Done.
->>>>>>> 
 
 ---
 

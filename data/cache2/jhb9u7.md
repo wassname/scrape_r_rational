@@ -2,7 +2,7 @@
 
 * Author: u/-Vecht-  *Legacy of the Goddess**
 * URL: https://www.reddit.com/r/rational/comments/jhb9u7/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/
-* Score: 29
+* Score: 26
 
 * Created: 2020-10-24T15:55:25
 
@@ -16,15 +16,13 @@ As mentioned previously we have moved back to SV. [Come join us in the SV thread
 
 ### Comments:
 
-> **u/-Vecht-** [+4]  *Legacy of the Goddess**
+> **u/-Vecht-** [+5]  *Legacy of the Goddess* (3 hours later)
 > 
 > Note: There's also a new [discord](https://discord.gg/7TeHZUU) shared with MFD (and possibly other future projects). Most of the discourse tends to happen there, incidentally.
-> 
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (2 days later)
 > 
 > Is there a way to read the old version of the first chapters/mechanics? And/or the discussion that lead to changing the system?
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/c3h0kv/secret_of_the_patronus_chapter_31_something/
-* Score: 12
+* Score: 11
 
 * Created: 2019-06-21T21:51:24
 
@@ -26,35 +26,34 @@ https://www.fanfiction.net/s/12975806/1/Harry-Potter-and-the-Secret-of-the-Patro
 
 ### Comments:
 
-> **u/Sailor_Vulcan** [+4]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+4]  *Champion of Justice and Reason* (a day later)
 > 
 > omg, how was there a good hpmor fanfic that i didn't know about and haven't already read!? see, this is why people should still be posting updates to the reddit threads.
-> 
 
->> **u/Ms_CIA** [+2]  *Derp**
+>> **u/Ms_CIA** [+2]  *Derp* (a day later)
 >> 
 >> Ha ha, well I'm glad you think the fic is good. :) I do wish there was a way to update the recommended thread on the HPMOR sub with the more recent stories. It's three years old now. :P
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> PM the mods and/or start a top level post asking for the people to post their suggestions of what should be added?
->>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/RemindMeBot** [+1] *
+>> **u/RemindMeBot** [+1]  (an hour later)
 >> 
 >> I will be messaging you on [**2019-06-22 11:57:43 UTC**](http://www.wolframalpha.com/input/?i=2019-06-22 11:57:43 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/rational/comments/c3h0kv/secret_of_the_patronus_chapter_31_something/err1mi4/)
+>> 
 >> [**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/rational/comments/c3h0kv/secret_of_the_patronus_chapter_31_something/err1mi4/]%0A%0ARemindMe!  13 hours) to send a PM to also be reminded and to reduce spam.
+>> 
 >> ^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! err1sbs)
+>> 
 >> _____
+>> 
 >> |[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
 >> |-|-|-|-|-|-|
->> 
 
 ---
 

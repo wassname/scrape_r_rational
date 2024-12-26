@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://friendshipispower.wordpress.com/2016/12/28/chapter-44-a-collision-of-essence-particles/
-* Score: 13
+* Score: 14
 
 * Created: 2016-12-28T00:15:51
 

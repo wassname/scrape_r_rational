@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (26 seconds later)
 > 
 > [deleted]
-> 
 
->> **u/ironistkraken** [+1] *
+>> **u/ironistkraken** [+1]  (a day later)
 >> 
 >> Just because I see the poly relations part, there's no underage relationships right?
->> 
 
->>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (3 days later)
 >>> 
 >>> I mean, there’s underage relationships *in the canon books*. I suppose you mean anything too graphic?
->>> 
 
->>>> **u/ironistkraken** [+1] *
+>>>> **u/ironistkraken** [+1]  (3 days later)
 >>>> 
 >>>> Yes, the way op talked said made me nervous.
->>>> 
 
 ---
 

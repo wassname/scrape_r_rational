@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/07/16/chapter-17-descend/
-* Score: 13
+* Score: 14
 
 * Created: 2019-07-16T21:11:18
 

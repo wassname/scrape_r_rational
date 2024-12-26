@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: http://www.anarchyishyperbole.com/2015/08/significant-digits-chapter-sixteen.html
-* Score: 12
+* Score: 10
 
 * Created: 2015-08-08T17:47:03
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (24 seconds later)
 > 
 > /r/hpmor comment thread:
-> https://www.reddit.com/r/HPMOR/comments/3g9huh/significant_digits_chapter_sixteen_protagonists/
 > 
+> https://www.reddit.com/r/HPMOR/comments/3g9huh/significant_digits_chapter_sixteen_protagonists/
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: http://mysocialsherpa.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/
-* Score: 12
+* Score: 11
 
 * Created: 2015-03-18T21:37:15
 
@@ -12,26 +12,23 @@
 
 ### Comments:
 
-> **u/BadGoyWithAGun** [+3] *
+> **u/BadGoyWithAGun** [+3]  (2 hours later)
 > 
 > Plus one reason to never turn off adblock plus.
-> 
 
-> **u/Farmerbob1** [+1]  *Level 1 author**
+> **u/Farmerbob1** [+1]  *Level 1 author* (16 hours later)
 > 
 > Wow.  I'm not sure if I was more amused or horrified.  This definitely crosses some lines.
-> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (59 seconds later)
 > 
 > I couldn't stop laughing and I'm still chuckling about it 15 minutes later.
-> 
 
-> **u/Sailor_Vulcan** [+0]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+0]  *Champion of Justice and Reason* (2 hours later)
 > 
 > ROTFLMAOUMAFO! g2g 2 d ER 2 stop LMAO or MAWFO!
-> (If you can read this, YOU WIN @ READING COMPREHENSION FOREVER!!11!)
 > 
+> (If you can read this, YOU WIN @ READING COMPREHENSION FOREVER!!11!)
 
 ---
 

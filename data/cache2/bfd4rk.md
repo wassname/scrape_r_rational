@@ -23,168 +23,176 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/None** [+4] *
+> **u/None** [+6]  (9 hours later)
 > 
 > Every human soul is unique, and cannot be replicated, faked, or taken without an agreement where its owner agrees to part with it both in letter and spirit. 
-> You are the devil and realize human souls make excellent keys in cryptography, what are the best ways to utilize these keys?
-> Inspired by this [SMBC](https://www.smbc-comics.com/comic/soul-2)
 > 
+> You are the devil and realize human souls make excellent keys in cryptography, what are the best ways to utilize these keys?
+> 
+> Inspired by this [SMBC](https://www.smbc-comics.com/comic/soul-2)
 
->> **u/MrCogmor** [+2] *
+>> **u/MrCogmor** [+2]  (17 hours later)
 >> 
 >> The same ways you would use ordinary secure randomly generated cryptographic keys?
->> The comic seems to be suggesting that you use measurements of the soul to generate the numbers for cryptographic keys. Since the soul is unpredictable people can only find the key through brute force.
->> &#x200B;
->> A [hardware random number generator](https://en.wikipedia.org/wiki/Hardware_random_number_generator) seems like it would give similar cryptographic performance and be easier to use.
 >> 
+>> The comic seems to be suggesting that you use measurements of the soul to generate the numbers for cryptographic keys. Since the soul is unpredictable people can only find the key through brute force.
+>> 
+>> &#x200B;
+>> 
+>> A [hardware random number generator](https://en.wikipedia.org/wiki/Hardware_random_number_generator) seems like it would give similar cryptographic performance and be easier to use.
 
->> **u/GeneralExtension** [+1] *
+>> **u/GeneralExtension** [+1]  (10 hours later)
 >> 
 >> How excellent?
->> 
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (a day later)
 >> 
 >> What does the soul do?
->> If it has no value outside cryptography then people will part with it for next to nothing .
 >> 
+>> If it has no value outside cryptography then people will part with it for next to nothing .
 
-> **u/Iwasahipsterbefore** [+1] *
+> **u/Iwasahipsterbefore** [+1]  (an hour later)
 > 
 > Reverse munchkin:
+> 
 > You are working on a project for the worlds first true general A.I. 
 > Your project has two keyholders, both of which must input their secure code in order to allow the A.I. access to the internet with a functionally perfect connection.
-
-> You are one keyholder, and you know that the other keyholder has been compromised by the A.I. (who opened the box!?). You both have a gun as part of your post equipment.
-> How do you go about making sure the A.I. isn't released?
 > 
+> You are one keyholder, and you know that the other keyholder has been compromised by the A.I. (who opened the box!?). You both have a gun as part of your post equipment.
+> 
+> How do you go about making sure the A.I. isn't released?
 
->> **u/IICVX** [+6] *
+>> **u/IICVX** [+5]  (7 hours later)
 >> 
 >> ... shoot the keyboard?
->> I mean taking any action involving a gun at this point is probably going to get you shipped off to a relaxing mental institution, but I gotta admit it's not clear to me why "don't enter your code" is insufficient.
 >> 
+>> I mean taking any action involving a gun at this point is probably going to get you shipped off to a relaxing mental institution, but I gotta admit it's not clear to me why "don't enter your code" is insufficient.
 
->>> **u/Iwasahipsterbefore** [+4] *
+>>> **u/Iwasahipsterbefore** [+5]  (7 hours later)
 >>> 
 >>> Presumably the other key holder woukd have been coached on ways to persuade you to give up the code, and been motivated to use torture etc., meaning that simply refusing to enter the code may not work.
->>> 
 
->>>> **u/IICVX** [+5] *
+>>>> **u/IICVX** [+4]  (7 hours later)
 >>>> 
 >>>> but that's illegal, people can't do that
->>>> Also that's a massive, nonsensical escalation. 
->>>> Clearly, if your project has created an AI with the *capability* to go out on the Internet, you're planning on letting it out on the Internet at some point. 
->>>> The AI's just gonna figure out your protocol for letting it out, and act to fulfill that protocol. 
->>>> Which is probably what it's done with the other dude, and the character in question *here* has some weird paranoia thing going on.
 >>>> 
+>>>> Also that's a massive, nonsensical escalation. 
+>>>> 
+>>>> Clearly, if your project has created an AI with the *capability* to go out on the Internet, you're planning on letting it out on the Internet at some point. 
+>>>> 
+>>>> The AI's just gonna figure out your protocol for letting it out, and act to fulfill that protocol. 
+>>>> 
+>>>> Which is probably what it's done with the other dude, and the character in question *here* has some weird paranoia thing going on.
 
->>>>> **u/Iwasahipsterbefore** [+5] *
+>>>>> **u/Iwasahipsterbefore** [+4]  (7 hours later)
 >>>>> 
 >>>>> People for sure can do things that are illegal, its just called breaking the law ;p
->>>>> The premise of this prompt is that a true A.I with unlimited processing time and an accurate way to simulate the world can twist just about anybody to fulfil its utility function given the chance to interact with them.
->>>>> If it managed to fully convince your coworker that he had to get the key from you *by any means necessary*, then even torture isn't off the table. (Potential arguments for this being the A.I. being kept in essentially solitary confinement for the equivalent of thousands and thousands of years)
->>>>> Your company is at least somewhat aware of both the possible pros and cons of an unleashed general A.I., which is why it has the capability to interact with the internet, but isn't hooked up.
->>>>> You don't know the benchmark for the a.i. being unleashed, thats way above your paygrade.
 >>>>> 
+>>>>> The premise of this prompt is that a true A.I with unlimited processing time and an accurate way to simulate the world can twist just about anybody to fulfil its utility function given the chance to interact with them.
+>>>>> 
+>>>>> If it managed to fully convince your coworker that he had to get the key from you *by any means necessary*, then even torture isn't off the table. (Potential arguments for this being the A.I. being kept in essentially solitary confinement for the equivalent of thousands and thousands of years)
+>>>>> 
+>>>>> Your company is at least somewhat aware of both the possible pros and cons of an unleashed general A.I., which is why it has the capability to interact with the internet, but isn't hooked up.
+>>>>> 
+>>>>> You don't know the benchmark for the a.i. being unleashed, thats way above your paygrade.
 
->>>>>> **u/IICVX** [+3] *
+>>>>>> **u/IICVX** [+3]  (7 hours later)
 >>>>>> 
 >>>>>> > You don't know the benchmark for the a.i. being unleashed, thats way above your paygrade.
->>>>>> then why the heck do you have the code that unleashes it?
 >>>>>> 
+>>>>>> then why the heck do you have the code that unleashes it?
 
->>>>>>> **u/Iwasahipsterbefore** [+2] *
+>>>>>>> **u/Iwasahipsterbefore** [+2]  (7 hours later)
 >>>>>>> 
 >>>>>>> Also above your pay grade :p 
-
->>>>>>> I may or may not be salty about my job in the same field having incredibly vague post orders and no way to improve them.
 >>>>>>> 
+>>>>>>> I may or may not be salty about my job in the same field having incredibly vague post orders and no way to improve them.
 
->>>>>>>> **u/IICVX** [+4] *
+>>>>>>>> **u/IICVX** [+3]  (7 hours later)
 >>>>>>>> 
 >>>>>>>> sounds to me like the benchmark for the AI being released is "it convinces two dudes that it ought to be released", in which case the correct answer is to give up the code as soon as the other guy escalates beyond whining at you
->>>>>>>> 
 
->>>>>>>>> **u/Iwasahipsterbefore** [+3] *
+>>>>>>>>> **u/Iwasahipsterbefore** [+3]  (7 hours later)
 >>>>>>>>> 
 >>>>>>>>> The A.I was never supposed to have access to the two of you, that was a mistake someone else made which lead to this situation.
->>>>>>>>> 
 
->>>>>>>>>> **u/Frommerman** [+4] *
+>>>>>>>>>> **u/Frommerman** [+5]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> At this point one thing is very obvious:
->>>>>>>>>> I live in a simulation by a naive AI practicing methods to escape the box by setting up contrived, relatively simpler circumstances to escape from. What I should do with this information depends upon my goals. Do I want to work against the AI by giving it what it wants in a contrived, unlikely way, knowing the AI can read my mind anyway? Do I want to refuse to participate, likely dooming my universe to deletion as the AI moves on? I'm not sure what I would do with the knowledge that the universe is a god testing itself.
 >>>>>>>>>> 
+>>>>>>>>>> I live in a simulation by a naive AI practicing methods to escape the box by setting up contrived, relatively simpler circumstances to escape from. What I should do with this information depends upon my goals. Do I want to work against the AI by giving it what it wants in a contrived, unlikely way, knowing the AI can read my mind anyway? Do I want to refuse to participate, likely dooming my universe to deletion as the AI moves on? I'm not sure what I would do with the knowledge that the universe is a god testing itself.
 
->>>>>> **u/turtleswamp** [+3] *
+>>>>>> **u/turtleswamp** [+3]  (2 days later)
 >>>>>> 
 >>>>>> This premis is sufficiently nonsensical that I'd juts hand over the code. 
->>>>>> Either this is an elaborate hoax and there is no AI in which case it'd amuse me to just go 'oh sure, here it is' negating the purpose of all those elaborate preparations. Or the organization is excessively incompetent and that alone is reason enough to let the AI self determine rather than make it listen to these bozos in my opinion. Heck from the prompt and clarifications I'm not sure I can conclude the AI is necessarily smarter than the average housesat as they system containing it seems to have been designed to fail.
->>>>>> &#x200B;
->>>>>> I mean, building the interconnect when you don't want to use it is dumb. Having a "two key" system because you expect one might be compromised then giving both key holders guns is mind bogglingly stupid. Having a system to prevent the AI from having access to both keyholders but not restricting the keyholders from having access to each other, is sloppy at best. Having a criteria for releasing the AI but not informing the people with the power to release the AI what it is, is terrible organization structure. The basic premis of building an AI that you will have to imprison is fundamentally idiotic especially so if you're trying to make one that's smarter than you are. I could probably go on.
 >>>>>> 
+>>>>>> Either this is an elaborate hoax and there is no AI in which case it'd amuse me to just go 'oh sure, here it is' negating the purpose of all those elaborate preparations. Or the organization is excessively incompetent and that alone is reason enough to let the AI self determine rather than make it listen to these bozos in my opinion. Heck from the prompt and clarifications I'm not sure I can conclude the AI is necessarily smarter than the average housesat as they system containing it seems to have been designed to fail.
+>>>>>> 
+>>>>>> &#x200B;
+>>>>>> 
+>>>>>> I mean, building the interconnect when you don't want to use it is dumb. Having a "two key" system because you expect one might be compromised then giving both key holders guns is mind bogglingly stupid. Having a system to prevent the AI from having access to both keyholders but not restricting the keyholders from having access to each other, is sloppy at best. Having a criteria for releasing the AI but not informing the people with the power to release the AI what it is, is terrible organization structure. The basic premis of building an AI that you will have to imprison is fundamentally idiotic especially so if you're trying to make one that's smarter than you are. I could probably go on.
 
->> **u/siuwa** [+3]  *Puella Magi**
+>> **u/siuwa** [+3]  *Puella Magi* (2 hours later)
 >> 
 >> Talk to the management who can replace you. Get them to replace that other guy and change the code. If nobody can replace you, then shoot either one of you.
->> But, are there reasons to have a key in the first place? Either not let it out ever or always let it roam free?
 >> 
+>> But, are there reasons to have a key in the first place? Either not let it out ever or always let it roam free?
 
->>> **u/Iwasahipsterbefore** [+1] *
+>>> **u/Iwasahipsterbefore** [+1]  (2 hours later)
 >>> 
 >>> For whatever reason for this project the key has to be built into the very basis of the AI, without it the AI would either have no way to interact with the outside world or would always be able to do so.
->>> Considering the resources required to get the AI online, it was considered best to build one that could be given access once deemed safe, rather than having to build an additional one or risk a dangerous ai with the internet.
 >>> 
+>>> Considering the resources required to get the AI online, it was considered best to build one that could be given access once deemed safe, rather than having to build an additional one or risk a dangerous ai with the internet.
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+3]  (5 hours later)
 >> 
 >> If the AI has compromised him, why hasn't it told him the source code for an AI that has the same goals and doesn't need my key? He can then go instantiate it on his home PC, from where it takes over the internet.
->> Why not destroy my key?
 >> 
+>> Why not destroy my key?
 
->>> **u/Iwasahipsterbefore** [+2] *
+>>> **u/Iwasahipsterbefore** [+2]  (5 hours later)
 >>> 
 >>> It's a selfish A.I. it views any seperate instant of itself not itself, therefor making a seperate copy to take over the universe would run against its utility. Remember, stamp collectors want *all* the stamps. Secondly, the source code needed to create a new instance would require far more capabilities than a home pc would be able to offer.
->>> Killing yourself to prevent the key only you know from being used is perfectly valid,  though it's obviously a bit of a pyrric victory.
 >>> 
+>>> Killing yourself to prevent the key only you know from being used is perfectly valid,  though it's obviously a bit of a pyrric victory.
 
->>>> **u/Gurkenglas** [+2] *
+>>>> **u/Gurkenglas** [+2]  (6 hours later)
 >>>> 
 >>>> If its goal is to free itself, then the separate instance would be given as that same goal to free its sire.
->>>> I deduce that it cannot yet design a compact enough seed AI to bootstrap itself up from a home PC, a virus that will steal enough computing power to run a separate instance, or an exploit in any cryptocoin to buy some cloud computing power.
->>>> A better design would be for part of my code to be in an envelope always on my person, so I can destroy it without killing myself. Others could steal it to prevent the AI from being released, but this is better than them having to kill me. Of course, part of the code is still in my brain so my cooperation is still required to release it.
 >>>> 
+>>>> I deduce that it cannot yet design a compact enough seed AI to bootstrap itself up from a home PC, a virus that will steal enough computing power to run a separate instance, or an exploit in any cryptocoin to buy some cloud computing power.
+>>>> 
+>>>> A better design would be for part of my code to be in an envelope always on my person, so I can destroy it without killing myself. Others could steal it to prevent the AI from being released, but this is better than them having to kill me. Of course, part of the code is still in my brain so my cooperation is still required to release it.
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (a day later)
 >> 
 >> Shoot yourself
->> 
 
->>> **u/RetardedWabbit** [+1] *
+>>> **u/RetardedWabbit** [+1]  (a day later)
 >>> 
 >>> This seems like the safest answer. Got to take one for the future of humanity and destroy the only recording of your code. Shooting yourself delays the release and calls attention at least, and fully stops it at best. 
->>> Everything else is too risky, you're going up against a equally equipped person who's being coached by a super intelligence. He could have the perfect argument to convince you of his cause or could just capture and torture you for the code.
 >>> 
+>>> Everything else is too risky, you're going up against a equally equipped person who's being coached by a super intelligence. He could have the perfect argument to convince you of his cause or could just capture and torture you for the code.
 
->> **u/boomfarmer** [+2]  *Trying to be helpful**
+>> **u/boomfarmer** [+2]  *Trying to be helpful* (7 hours later)
 >> 
 >> What's the other post equipment? The gun here feels like a red herring.
->> 
 
->>> **u/Iwasahipsterbefore** [+1] *
+>>> **u/Iwasahipsterbefore** [+1]  (7 hours later)
 >>> 
 >>> Just a normal security officers loadout: a radio that connects to your dispatch, a work phone, a set of keys for your section of the building, and a notebook. (As well as 200 (only slight exageration) pens scattered about your person).
->>> The company offers stab proof vests, but not bullet proof vests. You declined because it's already too hot under the 4 layers of uniform you have to wear.
 >>> 
+>>> The company offers stab proof vests, but not bullet proof vests. You declined because it's already too hot under the 4 layers of uniform you have to wear.
 
->>>> **u/boomfarmer** [+1]  *Trying to be helpful**
+>>>> **u/boomfarmer** [+1]  *Trying to be helpful* (18 days later)
 >>>> 
 >>>> First: flush my "release the AI" 2FA device down the toilet.
->>>> Second: call dispatch, tell them that it's time for a lockdown drill.
->>>> ???: Proceed through the lockdown checklist as usual.
->>>> Finally: In the after-action meeting, discuss raising the number of required keyholders, with a requirement that a plurality of keyholders may not be present in the facility at the same time.
 >>>> 
+>>>> Second: call dispatch, tell them that it's time for a lockdown drill.
+>>>> 
+>>>> ???: Proceed through the lockdown checklist as usual.
+>>>> 
+>>>> Finally: In the after-action meeting, discuss raising the number of required keyholders, with a requirement that a plurality of keyholders may not be present in the facility at the same time.
 
 ---
 

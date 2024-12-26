@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (44 minutes later)
 > 
 > Ah, of course. If a rationalist finds self in a strange situation, the first thing he or she should do is to try and find (or construct) a gun.
-> 
 
 ---
 

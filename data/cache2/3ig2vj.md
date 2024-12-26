@@ -20,15 +20,13 @@ The machine had a safety mechanism that every 24 hours it is reset. AI circumven
 
 ### Comments:
 
-> **u/Nevereatcars** [+2]  *The Greatest Is Behind**
+> **u/Nevereatcars** [+2]  *The Greatest Is Behind* (2 days later)
 > 
 > [Here is the debate we had 7 months ago.](https://www.reddit.com/r/rational/comments/2sc3yj/forget_skynet_how_person_of_interest_depicts_a/)
-> 
 
-> **u/Transfuturist** [+1]  *Carthago delenda est.**
+> **u/Transfuturist** [+1]  *Carthago delenda est.* (18 hours later)
 > 
 > I've watched a few episodes. How is it transhumanist?
-> 
 
 ---
 

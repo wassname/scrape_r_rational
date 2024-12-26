@@ -2,7 +2,7 @@
 
 * Author: u/Lightwavers  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
 * URL: https://www.reddit.com/r/rational/comments/d1lbnm/lf_stories_with_multiple_simple_hard_magic_systems/
-* Score: 10
+* Score: 9
 
 * Created: 2019-09-09T03:17:34
 
@@ -18,138 +18,129 @@ Further, it would be great if the entire world is at least somewhat aware of the
 
 ### Comments:
 
-> **u/dinoseen** [+19] *
+> **u/dinoseen** [+20]  (14 minutes later)
 > 
 > Mistborn is basically the poster child for this. Fair warning, the second book in the original trilogy is mostly just conflict because a character tightly clutches the idiot ball. Democracy is not something you *start out* with, for good reason. Other more interesting stuff happens too, but that's definitely my biggest criticism of it. The rest of the series is much better.
-> I haven't really read them, but most of Brandon Sanderson's works have magic systems such as you describe. I know that Stormlight Archive does, and Elantris kinda doesn't, but yeah. Mostly.
 > 
+> I haven't really read them, but most of Brandon Sanderson's works have magic systems such as you describe. I know that Stormlight Archive does, and Elantris kinda doesn't, but yeah. Mostly.
 
->> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+6]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (15 minutes later)
 >> 
 >> I should have mentioned that I've read Mistborn. It's an excellent example of what I'm looking for.
->> 
 
->>> **u/LazarusRises** [+2] *
+>>> **u/LazarusRises** [+2]  (12 hours later)
 >>> 
 >>> Have you read his other stuff? The Stormlight Archive fits too.
->>> 
 
->>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (21 hours later)
 >>>> 
 >>>> I have indeed. The Stormlight Archive is of extremely high quality.
->>>> 
 
-> **u/Kachajal** [+8] *
+> **u/Kachajal** [+7]  (an hour later)
 > 
 > I know exactly what you mean and I *adore* this sort of thing, but unfortunately there just aren't many examples of it that I'm aware of. Worth The Candle comes the closest.
-> Sanderson's works, as mentioned, can come close. It's not much of a spoiler, but >!most of his works are part of a single universe, just on different planets. This means that there's the *potential* that Stormlight Archive, the series that ties it all together, will eventually allow for the proliferation of magics from other planets. There are, in fact, at least two characters in the story that already do this. But it isn't what you want - the different magics are not generally known or available. There's just one character known so far that makes it his goal to Catch Them All, as it were. !<
-> Unsurprisingly, another of Alexander Wales' works, [The Dark Wizard of Donkerk](http://www.alexanderwales.com/darkWizardNaNo2016.html) also has elements of this. I recommend it on its own merits, anyway, it's really great.
-> [Metal and Magic](https://www.royalroad.com/fiction/21323/metal-and-magic) also has elements of this. There's three or four magic systems that have been shown so far and it's all hard magic behind the curtain. Most people are only aware of their own culture's magic, though. Again, I recommend the story on its other merits anyway.
 > 
+> Sanderson's works, as mentioned, can come close. It's not much of a spoiler, but >!most of his works are part of a single universe, just on different planets. This means that there's the *potential* that Stormlight Archive, the series that ties it all together, will eventually allow for the proliferation of magics from other planets. There are, in fact, at least two characters in the story that already do this. But it isn't what you want - the different magics are not generally known or available. There's just one character known so far that makes it his goal to Catch Them All, as it were. !<
+> 
+> Unsurprisingly, another of Alexander Wales' works, [The Dark Wizard of Donkerk](http://www.alexanderwales.com/darkWizardNaNo2016.html) also has elements of this. I recommend it on its own merits, anyway, it's really great.
+> 
+> [Metal and Magic](https://www.royalroad.com/fiction/21323/metal-and-magic) also has elements of this. There's three or four magic systems that have been shown so far and it's all hard magic behind the curtain. Most people are only aware of their own culture's magic, though. Again, I recommend the story on its other merits anyway.
 
->> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (3 hours later)
 >> 
 >> Yeah, the scenes where >!Hoid tried to become an Elantrian and then the one where he stole a bead of Lerasium!< were great, but also frustrating teases since he’s not a viewpoint character.
->> The Dark Wizard of Donkerk is really good.
->> I haven’t read Metal and Magic, thanks for the rec!
 >> 
+>> The Dark Wizard of Donkerk is really good.
+>> 
+>> I haven’t read Metal and Magic, thanks for the rec!
 
-> **u/Roneitis** [+6] *
+> **u/Roneitis** [+7]  (17 hours later)
 > 
 > Patrick Rothfuss's Kingkiller Chronicles are quite excellent(though if you read them, beware seeming eternal 3rd book hiatus).
-> There are 7 or 9 distinct magic systems in universe (I'm not wholly sure), of which about 6 have clear distinct explanations (though the MC doesn't use all of them), and I think 2 at least are distinctly hard. 
-> The MC is most skilled at the hardest system, but is attempting to learn the softest (though I would hold that it's an excellent soft system), so YMMV.
 > 
+> There are 7 or 9 distinct magic systems in universe (I'm not wholly sure), of which about 6 have clear distinct explanations (though the MC doesn't use all of them), and I think 2 at least are distinctly hard. 
+> 
+> The MC is most skilled at the hardest system, but is attempting to learn the softest (though I would hold that it's an excellent soft system), so YMMV.
 
-> **u/DRMacIver** [+7] *
+> **u/DRMacIver** [+5]  (17 hours later)
 > 
 > Lawrence Watt-Evans's "Legends of Eshthar" series is a bit closer to the Worth the Candle end of the spectrum but has quite a lot of different magic systems ([tvtropes lists six](https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLegendsOfEthshar?from=Literature.Ethshar) though I thought I remembered there being a few more than that). Each of the different magic systems is quite general purpose, but with very different strengths and limitations.
-> The books are generally pretty good mid-range fantasy. They're not necessarily rational rational but they're pretty intelligently written and I don't recall any examples of characters holding the idiot ball (with a few exceptions when they were under the influence of things that affect their sanity).
 > 
+> The books are generally pretty good mid-range fantasy. They're not necessarily rational rational but they're pretty intelligently written and I don't recall any examples of characters holding the idiot ball (with a few exceptions when they were under the influence of things that affect their sanity).
 
->> **u/chris-goodwin** [+1] *
+>> **u/chris-goodwin** [+1]  (2 days later)
 >> 
 >> Six major schools, which are more or less incompatible systems; five minor schools, of which sometimes little is shared in the novels (one of which is Science), several specializations, and two forms of charlatanry (prestidigitation and prognostication, neither of which actually do anything).
->> 
 
-> **u/Salaris** [+4]  *Dominion Sorcerer**
+> **u/Salaris** [+3]  *Dominion Sorcerer* (2 days later)
 > 
 > Self promotion warning, but all my books use multiple magic systems. Arcane Ascension is the most popular example.
-> 
 
->> **u/Lightwavers** [+6]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (2 days later)
 >> 
 >> I’ll check it out, then, thanks.
->> Edit: nvm I already read all your books. They’re really good.
 >> 
+>> Edit: nvm I already read all your books. They’re really good.
 
->>> **u/Salaris** [+3]  *Dominion Sorcerer**
+>>> **u/Salaris** [+4]  *Dominion Sorcerer* (3 days later)
 >>> 
 >>> > Edit: nvm I already read all your books. They’re really good.
->>> Glad to hear you like them! Thanks for the support. =D
 >>> 
+>>> Glad to hear you like them! Thanks for the support. =D
 
-> **u/Sonderjye** [+3] *
+> **u/Sonderjye** [+3]  (6 hours later)
 > 
 > If you squint your eyes a little big most litrpgs fit this description. Each ability can be considered it's own simple hard magic system.
-> 
 
->> **u/Lightwavers** [+10]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+10]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (7 hours later)
 >> 
 >> True enough. The problem with that, though, is that most litrpgs are terrible and I’ve already read the good ones.
->> 
 
->>> **u/Retbull** [+1] *
+>>> **u/Retbull** [+1]  (3 days later)
 >>> 
 >>> Have you checked out he who fights with monsters?
->>> 
 
->>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (3 days later)
 >>>> 
 >>>> I have, though I didn't get far. The introduction is pretty stereotypical and put a bad taste in my mouth. It's on the level of "Protagonist woke up," or "Protagonist looked in the mirror," as a starting sentence.
->>>> 
 
->>>>> **u/Retbull** [+1] *
+>>>>> **u/Retbull** [+1]  (3 days later)
 >>>>> 
 >>>>> Ah yeah cool.
->>>>> 
 
-> **u/narfanator** [+4] *
+> **u/narfanator** [+4]  (a day later)
 > 
 > Codex Alera comes to mind. There's a \*bit\* of "everyone else holds the idiot ball", but it's explainable by the main character being literally the only person without magic and so making up for it with cleverness. Everyone else can get by on lazy solutions, but the MC has to get \_creative\_.  
-
-> Like - You could learn to cook a pizza. Or you could order one from you magic mirror. But if you learn to cook a pizza, then you get some \_ideas\_....  
-
-> And by the end the world at large has picked up on this habit and there's off-screen tech development. It's pretty great.
 > 
+> Like - You could learn to cook a pizza. Or you could order one from you magic mirror. But if you learn to cook a pizza, then you get some \_ideas\_....  
+> 
+> And by the end the world at large has picked up on this habit and there's off-screen tech development. It's pretty great.
 
->> **u/dinoseen** [+2] *
+>> **u/dinoseen** [+2]  (2 days later)
 >> 
 >> >Everyone else can get by on lazy solutions, but the MC has to get _creative_.
->> Bear in mind I've only read part of the first book, but to me this idea doesn't really hold water. Sure, there's magic, but most people aren't going to be all that good at it(and if they are, then wouldn't the world be different to how it is?, and it's still a fairly brutal culture and world they live in. Magic can't solve everything, especially if you don't have the right kind. In a rational setting, there's still going to be plenty of pressure to come up with clever mundane solutions, which obviously necessitates clever mundane thinking.
 >> 
+>> Bear in mind I've only read part of the first book, but to me this idea doesn't really hold water. Sure, there's magic, but most people aren't going to be all that good at it(and if they are, then wouldn't the world be different to how it is?, and it's still a fairly brutal culture and world they live in. Magic can't solve everything, especially if you don't have the right kind. In a rational setting, there's still going to be plenty of pressure to come up with clever mundane solutions, which obviously necessitates clever mundane thinking.
 
->>> **u/narfanator** [+2] *
+>>> **u/narfanator** [+2]  (2 days later)
 >>> 
 >>> Sure. I might not have done a good job selling this, but that was the impression I walked away with.
->>> It's not that other people aren't clever, it's just that they can make use of an easier solution, so they do so. It's also that while everyone else is practicing magic, the MC is practicing cleverness, literally because he can't do the first one. This makes the MC substantially more clever than most people, but only somewhat more clever that other people who care about being clever - because they also care about being good at magic.
 >>> 
+>>> It's not that other people aren't clever, it's just that they can make use of an easier solution, so they do so. It's also that while everyone else is practicing magic, the MC is practicing cleverness, literally because he can't do the first one. This makes the MC substantially more clever than most people, but only somewhat more clever that other people who care about being clever - because they also care about being good at magic.
 
-> **u/Frenis92** [+2] *
+> **u/Frenis92** [+2]  (18 hours later)
 > 
 > [Delve](https://www.royalroad.com/fiction/25225/delve) isekai with hard magic, no particular advantages for the protagonist like unique power or cheat ability, everyone use the same sistem and people are aware of it.
-> 
 
-> **u/iftttAcct2** [+2] *
+> **u/iftttAcct2** [+2]  (a day later)
 > 
 > Just a quick note -- you're broadly right about wuxia and xanxia being soft magic systems but there are some out there that at least pay homage to the idea of a real magic system. [Reverend Insanity](https://www.novelupdates.com/series/reverend-insanity/) comes to mind. (They're never very rational, though, to be fair.)
-> There's the [Wiz](https://www.goodreads.com/series/43084-wiz) series (meh, IMO)
 > 
+> There's the [Wiz](https://www.goodreads.com/series/43084-wiz) series (meh, IMO)
 
->> **u/JAFANZ** [+1] *
+>> **u/JAFANZ** [+1]  (a day later)
 >> 
 >> I think the ones that go more for what westerners expect in a magic system are "Xanhuan" rather than "Wuxia" or "Xianxia", though I believe that technically there is a bunch of stuff in Taoist mythology (& thus be classifiable as "Xianxia" I believe) that could be pass for a localized version of Europe's Hermetic tradition(s).
->> 
 
 ---
 

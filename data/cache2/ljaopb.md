@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/AnythingMachine** [+3] *
+> **u/AnythingMachine** [+3]  (3 hours later)
 > 
 > Ooh - nice to see this is back.
-> There's definitely something funny going on here - this feels like almost one sided propaganda, like we're seeing how Arco's enemies interpret them. From Arco's POV, did they even do anything wrong? They were attacked by forces unknown and then fired on.
-> Definitely some transhumanist themes going on too - 'the grey man'...
 > 
+> There's definitely something funny going on here - this feels like almost one sided propaganda, like we're seeing how Arco's enemies interpret them. From Arco's POV, did they even do anything wrong? They were attacked by forces unknown and then fired on.
+> 
+> Definitely some transhumanist themes going on too - 'the grey man'...
 
 ---
 

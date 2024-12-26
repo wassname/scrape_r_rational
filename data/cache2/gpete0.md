@@ -12,40 +12,33 @@ Just heard about this.  [https://forums.webfictionguide.com/t/new-site-developme
 
 ### Comments:
 
-> **u/emilybanc** [+5] *
+> **u/emilybanc** [+3]  (19 hours later)
 > 
 > Awesome, I've been hoping this site gets faceted searches for a while now, hopefully it's on the list.
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/emilybanc** [+3] *
+>>> **u/emilybanc** [+3]  (a day later)
 >>> 
 >>> Thank you!
->>> 
 
->>> **u/emilybanc** [+2] *
+>>> **u/emilybanc** [+2]  (a day later)
 >>> 
 >>> Let me know if you need an extra hand on any design work :)
->>> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (21 hours later)
 >> 
 >> I think there's a whole lot of things on the list.  Just semi-automated listings like they're talking about would be a huge improvement.
->> 
 
-> **u/Calsem** [+4] *
+> **u/Calsem** [+5]  (a day later)
 > 
 > FYI /u/madwhitesnake
-> 
 
->> **u/madwhitesnake** [+4] *
+>> **u/madwhitesnake** [+4]  (a day later)
 >> 
 >> This is great news!  I thought I'd missed the boat and that WFG was in dire straits.  I'll post there as soon as submissions open again.
->> 
 
 ---
 

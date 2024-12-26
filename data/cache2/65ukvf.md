@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/Anderkent** [+3] *
+> **u/Anderkent** [+3]  (3 hours later)
 > 
 > Whee, infodumps! Pretty cool, and so far Kagome was 10/10 in accuracy AFAIK.
-> Not sure how much is actually relevant though to what we'll be doing.
 > 
+> Not sure how much is actually relevant though to what we'll be doing.
 
->> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (10 hours later)
 >> 
 >> There's an opinion that what we will be doing is mostly dying because Kagome said all of that right next to the Sage's listening ear.
->> ^(I'm still not sorry for bringing it about.)
 >> 
+>> ^(I'm still not sorry for bringing it about.)
 
 ---
 

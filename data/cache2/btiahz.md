@@ -2,7 +2,7 @@
 
 * Author: u/timecubefanfiction *
 * URL: https://www.reddit.com/r/rational/comments/btiahz/rambling_nonsense_about_evil_and_sociological/
-* Score: 56
+* Score: 52
 
 * Created: 2019-05-27T05:47:09
 
@@ -118,148 +118,141 @@ Um. Is that the end of the essay? I guess.
 
 ### Comments:
 
-> **u/timecubefanfiction** [+22] *
+> **u/timecubefanfiction** [+22]  (5 minutes later)
 > 
 > uhhh let me see if this essay has a point
-> basically
-> fi you want to tell sociological stories, just have a hundred characters, and then tell a psychology story.
 > 
+> basically
+> 
+> fi you want to tell sociological stories, just have a hundred characters, and then tell a psychology story.
 
-> **u/himself_v** [+18] *
+> **u/himself_v** [+17]  (2 hours later)
 > 
 > > Why is it rational for Robb to start a war so he can maintain power? Only if he values his own power more than the lives of thousands of innocents. Which makes him an asshole.
-> Maybe he's reasonably assuming that he makes a good enough king and whoever replaces him is likely to be worse, and the net loss from that is more than what it takes to keep him in power?
-> And that if you don't punish the evil other people may follow suit?
 > 
+> Maybe he's reasonably assuming that he makes a good enough king and whoever replaces him is likely to be worse, and the net loss from that is more than what it takes to keep him in power?
+> 
+> And that if you don't punish the evil other people may follow suit?
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (3 days later)
 >> 
 >> He however does not want to be King of the Iron Throne, which gets mentioned above. Though you're right about the element of deterrence, especially in a honour-based society.
->> 
 
-> **u/vimefer** [+13] *
+> **u/vimefer** [+12]  (3 hours later)
 > 
 > > A lot of commentary, and very little actual analysis, has been given as to the ending’s faults.
-> You must not be reading the right subs then ;)
-> GRRM said he's more a gardener than an architect when it comes to stories (plant the seed, let it grow however it has to grow, organically). This seems to mirror your point about sociological storytelling.
-> > A great tragedy of modern life is that most people never get the chance to be truly evil.
-> A very, very good point that you've argued sensibly, thank you. So many people think that they wouldn't do any of the shit they see the Hollywood villains do (or read Nazis/Commies did in History books), and then promptly tell all about what "we should" do about all kinds of topic and how people they disagree with must be subhuman, on their Facetumblitter.
 > 
+> You must not be reading the right subs then ;)
+> 
+> GRRM said he's more a gardener than an architect when it comes to stories (plant the seed, let it grow however it has to grow, organically). This seems to mirror your point about sociological storytelling.
+> 
+> > A great tragedy of modern life is that most people never get the chance to be truly evil.
+> 
+> A very, very good point that you've argued sensibly, thank you. So many people think that they wouldn't do any of the shit they see the Hollywood villains do (or read Nazis/Commies did in History books), and then promptly tell all about what "we should" do about all kinds of topic and how people they disagree with must be subhuman, on their Facetumblitter.
 
->> **u/CronoDAS** [+8] *
+>> **u/CronoDAS** [+7]  (14 hours later)
 >> 
 >> A lot of problems in this world can't realistically be "solved" without a lot of people dying. (Slavery in the US wasn't resolved until the American Civil War, and the Israeli-Palestinian conflict has people on both sides who would rather die than give in to the other.) The "least evil" strategy for dealing with these kinds of problems is often *not to deal with them* - let the armed insurgency go on for thirty years instead of acting like Saddam Hussein or Stalin and killing as many people as it takes to end it, regardless of whether those people are "innocent" or not. Eventually the insurgents will get old and die, and if you're lucky the next generation won't carry on the fight.
->> 
 
-> **u/narfanator** [+20] *
+> **u/narfanator** [+19]  (an hour later)
 > 
 > Read the last four paragraphs, and yes, I agree, and actually, I think you make the good point in a very succinct way:
-> "Robb’s problem, and what makes this sociological storytelling, is that the universe does not know that Robb Stark is the main character. He wants Edmure Tully to lure the Mountain in while the Mountain continues to brutalize Edmure’s home. But actually, Edmure is the main character..."
-> I think this is really well put, actually. Sociological storytelling (among other factors) then has two parts: from the universe's perspective, there is no main character; from each character's perspective, they are the main character.
-> I think PGtE does this really well, as well, and frequently takes huge advantage of the degree to which each person actually is the universe's main character, at least for their part of it.
-> Like, in the Pilgrim's universe, he's DEFINITELY the main character. In living Akua's universe, she's definitely the main character. Up until they're not, and I feel like this really comes through when you read their perspective chapters - especially Pilgrim's. Cat (and the Bard) are kind of the only two for whom that's not completely true (ironic, given that Cat is the literal main character).
 > 
+> "Robb’s problem, and what makes this sociological storytelling, is that the universe does not know that Robb Stark is the main character. He wants Edmure Tully to lure the Mountain in while the Mountain continues to brutalize Edmure’s home. But actually, Edmure is the main character..."
+> 
+> I think this is really well put, actually. Sociological storytelling (among other factors) then has two parts: from the universe's perspective, there is no main character; from each character's perspective, they are the main character.
+> 
+> I think PGtE does this really well, as well, and frequently takes huge advantage of the degree to which each person actually is the universe's main character, at least for their part of it.
+> 
+> Like, in the Pilgrim's universe, he's DEFINITELY the main character. In living Akua's universe, she's definitely the main character. Up until they're not, and I feel like this really comes through when you read their perspective chapters - especially Pilgrim's. Cat (and the Bard) are kind of the only two for whom that's not completely true (ironic, given that Cat is the literal main character).
 
-> **u/timecubefanfiction** [+6] *
+> **u/timecubefanfiction** [+8]  (4 minutes later)
 > 
 > i’m sorry thigns get stupid when i get tired and i just want the essay done f
-> anyone im done with the impromptu unsolciited essays on writing evil. i can dissolve into dust now.
 > 
+> anyone im done with the impromptu unsolciited essays on writing evil. i can dissolve into dust now.
 
->> **u/narfanator** [+11] *
+>> **u/narfanator** [+13]  (an hour later)
 >> 
 >> I heartily encourage you to keep doing this. I think you'll continue to get better.
->> 
 
-> **u/Xtraordinaire** [+7]  *Team Glimglam**
+> **u/Xtraordinaire** [+6]  *Team Glimglam* (6 hours later)
 > 
 > Reading the article on sci-am gave me a sour taste of deepity. In fact, if we are going to use xkcd's, then this one https://xkcd.com/435/ seems appropriate. So when prof Tufekci labels Dany's abrupt plunge into cartoonish villainy as 'spontaneous psychology' I can't help cringing. This sociologist is salty, and I know this because GOT writing wasn't psychology. That was just bad, lazy writing, period. So maybe that essay has a point, but HBO!GOT is a poor example to illustrate it because the glaring flaws just obscure the nuance, or maybe leave no room for it whatsoever.
-> So in regards to sociological vs psychological writing, and the writing advice I think the distinction is how many actors does the writer simulate and how well he does. It's fairly easy to tell when the writer does not simulate an actor in his story. The Dothraki in the GOT finale is a good example: so they are in this foreign land, their ruler is treacherously killed, and they react... how? Oh, right they just disappear peacefully. If the writers asked themselves how they would feel if they were an average Dothraki rider, it would be apparent to them that they can't and won't go away peacefully, and this issue has to be addressed, somehow. But nope. So failure or unwillingness to simulate enough actors is *laziness* and it's a deadly sin. Then there's *quality*, which stems from how diverse and accurate these actor models are, which is where the 'knowledge of medieval stuff' helps. This is less of a sin, because we, readers, are also biased and are not very good at modeling medieval peasants inside our heads, so we can give presentism a pass. At least to some degree. Ideally, you want to simulate in earnest, but in terms of practicality, building a set of decent Chinese rooms for minor characters is okay. Let's call it our 'Chinese hotel'. Then we add some real models of our main cast to explore this hotel and we have a story that feels *alive* (no laziness) and *authentic* (no, or at least not too much presentism). Last seasons of GOT fail on both count. It wasn't perfect in terms of authenticity from the start (but it was good enough!) but it *really* dropped the ball on laziness.
-> This is reductionism, I guess. And yeah, "sociological" writing is just "psychological" writing done non-lazily and authentically on a large-groop scale. 
-> AKA Simply Good Writing.
 > 
+> So in regards to sociological vs psychological writing, and the writing advice I think the distinction is how many actors does the writer simulate and how well he does. It's fairly easy to tell when the writer does not simulate an actor in his story. The Dothraki in the GOT finale is a good example: so they are in this foreign land, their ruler is treacherously killed, and they react... how? Oh, right they just disappear peacefully. If the writers asked themselves how they would feel if they were an average Dothraki rider, it would be apparent to them that they can't and won't go away peacefully, and this issue has to be addressed, somehow. But nope. So failure or unwillingness to simulate enough actors is *laziness* and it's a deadly sin. Then there's *quality*, which stems from how diverse and accurate these actor models are, which is where the 'knowledge of medieval stuff' helps. This is less of a sin, because we, readers, are also biased and are not very good at modeling medieval peasants inside our heads, so we can give presentism a pass. At least to some degree. Ideally, you want to simulate in earnest, but in terms of practicality, building a set of decent Chinese rooms for minor characters is okay. Let's call it our 'Chinese hotel'. Then we add some real models of our main cast to explore this hotel and we have a story that feels *alive* (no laziness) and *authentic* (no, or at least not too much presentism). Last seasons of GOT fail on both count. It wasn't perfect in terms of authenticity from the start (but it was good enough!) but it *really* dropped the ball on laziness.
+> 
+> This is reductionism, I guess. And yeah, "sociological" writing is just "psychological" writing done non-lazily and authentically on a large-groop scale. 
+> 
+> AKA Simply Good Writing.
 
-> **u/Demon_Sage** [+6] *
+> **u/Demon_Sage** [+6]  (2 hours later)
 > 
 > This is a great essay that I enjoyed reading. Would love more insightful posts like these.
-> 
 
-> **u/TaltosDreamer** [+4] *
+> **u/TaltosDreamer** [+3]  (3 hours later)
 > 
 > I liked the essay. Felt like you meandered a bit, but you shared some good ideas and made some very interesting points.
-> Thank you for writing it and sharing it with us.
 > 
+> Thank you for writing it and sharing it with us.
 
-> **u/doremitard** [+3] *
+> **u/doremitard** [+2]  (49 minutes later)
 > 
 > You shouldn’t be giving out writing advice if you can’t even be bothered before hitting “post”
-> 
 
->> **u/rabotat** [+10] *
+>> **u/rabotat** [+8]  (2 hours later)
 >> 
 >> Bothered to what? Or am I wooshing here?
->> 
 
->>> **u/doremitard** [+12] *
+>>> **u/doremitard** [+11]  (2 hours later)
 >>> 
 >>> Bothered to edit, I meant. Godammit.
->>> 
 
->>>> **u/Beardus_Maximus** [+20] *
+>>>> **u/Beardus_Maximus** [+20]  (3 hours later)
 >>>> 
 >>>> The irony here is delicious.
->>>> 
 
->>>>> **u/Xtraordinaire** [+17]  *Team Glimglam**
+>>>>> **u/Xtraordinaire** [+16]  *Team Glimglam* (7 hours later)
 >>>>> 
 >>>>> Ironic. He wanted to save others from poor editing, but not himself.
->>>>> 
 
->>>>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>>>>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (a day later)
 >>>>>> 
 >>>>>> Or maybe he cares more about content editing than copy-editing? There are two kinds of editing after all. Or maybe he's using exactly the kind of grammar the situation calls for, and you guys are being obnoxious and discouraging by trying to police his writing style? As long as the essay was clear, comprehensible, interesting and insightful, why does it matter if it has perfect "standard" English grammar or not? This isn't a formal presentation, it's a *Reddit post!!!* for crying out loud, quit discouraging u/timecubefanfiction, his post is just fine. Better than fine, actually, it's very good.
->>>>>> 
 
->>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam* (a day later)
 >>>>>>> 
 >>>>>>> IDK about previous commenters, but I was literally memeing.
->>>>>>> 
 
->>>>>>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>>>>>>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (a day later)
 >>>>>>>> 
 >>>>>>>> ok. sorry i misunderstood. thing is, timecube literally commented above that expressing insecurity over his post because it wasn't written like a perfect standard formal english essay and was saying he wasn't going to post that stuff here anymore because of it. it looked like you were kinda twisting that knife a little. I'm glad to see I was wrong about that. :)
->>>>>>>> 
 
->>>>> **u/doremitard** [+2] *
+>>>>> **u/doremitard** [+2]  (4 hours later)
 >>>>> 
 >>>>> It’s even worse that my comment made more sense when I posted, and then I botched editing it.
->>>>> Still, I think it’s worse to write a long post dispensing writing advice and tell the reader to ignore everything but the last 4 paragraphs.
 >>>>> 
+>>>>> Still, I think it’s worse to write a long post dispensing writing advice and tell the reader to ignore everything but the last 4 paragraphs.
 
->>>>>> **u/rabotat** [+8] *
+>>>>>> **u/rabotat** [+8]  (4 hours later)
 >>>>>> 
 >>>>>> I've read the whole post. It's rambling, but I enjoyed it.
->>>>>> 
 
->>>>> **u/iftttAcct2** [+2] *
+>>>>> **u/iftttAcct2** [+2]  (13 hours later)
 >>>>> 
 >>>>> [Muphry's Law](https://en.m.wikipedia.org/wiki/Muphry%27s_law)
->>>>> 
 
->>>> **u/Nimelennar** [+1] *
+>>>> **u/Nimelennar** [+1]  (10 hours later)
 >>>> 
 >>>> Another victim of Muphry's Law.
->>>> 
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (3 days later)
 > 
 > Great essay, and I agree with a lot of points but... why do you say Joffrey is "tragic"? As far as evil goes, he's an example of a character who really goes out of their way to just do evil shit for the lulz, fuck incentives, he does evil stuff *even when it actually goes against his interest*. He's a sadist. Sure, he's young and not exactly mature, and sure, he's grown up in a horrible environment to develop his moral fibre. But so have Tommen and Myrcella, and they're both reasonably good kids. No matter how you put it, the individual Joffrey has many characteristics that can be considered understandably as "hateable".
-> 
 
-> **u/WalterTFD** [+1] *
+> **u/WalterTFD** [+1]  (4 days later)
 > 
 > GoT's point was the famous Mencken quote about defending scoundrels.  It made people salty because modern media is supposed to be supine and cringing, confirming that we are double great.  The idea of telling us to do stuff differently clashes with the whole 'the customer/viewer' is always right ethic we go by nowadays.
-> 
 
 ---
 

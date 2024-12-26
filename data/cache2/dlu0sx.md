@@ -2,7 +2,7 @@
 
 * Author: u/ulyssessword *
 * URL: https://yudkowsky.tumblr.com/post/188511784460/prokopetz-bad-superhero-whose-secret-identity
-* Score: 181
+* Score: 178
 
 * Created: 2019-10-23T04:19:42
 
@@ -12,65 +12,62 @@
 
 ### Comments:
 
-> **u/MutantMannequin** [+60] *
+> **u/MutantMannequin** [+58]  (55 minutes later)
 > 
 > This was absolutely delightful. The idea that >!an alter ego could be an entirely different (but equally heroic) person!< was completely novel to me.
-> 
 
->> **u/EliezerYudkowsky** [+46]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+50]  *Godric Gryffindor* (10 hours later)
 >> 
 >> Thank you!  After I finished writing, the thought occurred to me that it seemed a simple enough idea that it had probably been done before, but I haven't yet seen somebody chime in with where.
->> 
 
->>> **u/xamueljones** [+29]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+29]  *My arch-enemy is entropy* (12 hours later)
 >>> 
 >>> It doesn't appear in the [list of ways](https://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/SecretIdentity) to play with the trope of Secret Identity.
->>> The closest trope is [Identity Impersonator](https://tvtropes.org/pmwiki/pmwiki.php/Main/IdentityImpersonator) where you have a body double in the same room as you to 'disprove' yourself as the hero. In your story, it's simply a never ending case of a "failed" Identity Impersonator which I have never seen being done anywhere else.
->>> Thanks for the story. It was pleasure to read such a novel twist.
 >>> 
+>>> The closest trope is [Identity Impersonator](https://tvtropes.org/pmwiki/pmwiki.php/Main/IdentityImpersonator) where you have a body double in the same room as you to 'disprove' yourself as the hero. In your story, it's simply a never ending case of a "failed" Identity Impersonator which I have never seen being done anywhere else.
+>>> 
+>>> Thanks for the story. It was pleasure to read such a novel twist.
 
->>> **u/thrawnca** [+3]  *Carbon-based biped**
+>>> **u/thrawnca** [+2]  *Carbon-based biped* (21 hours later)
 >>> 
 >>> I don't recall an exact case offhand, but for something related, there is Helmuth, of the Lensman series, who "speaks for Boskone" but the rank and file have never encountered actual Boskone, and the protagonist becomes convinced that Boskone is a fiction and it's all just Helmuth. >!The council of Boskone totally exists, they're just operating from another galaxy.!<
->>> 
 
-> **u/JustLookingToHelp** [+20] *
+> **u/JustLookingToHelp** [+20]  (9 hours later)
 > 
 > A great example of genre savviness.
-> 
 
-> **u/GrafZeppelin127** [+16] *
+> **u/GrafZeppelin127** [+16]  (14 hours later)
 > 
 > This is delightful, and reminds me of the classic “Captain Gars” trope (the name of King Gustav of Sweden’s alter ego, which was just an acronym of his initials) where the obvious alter ego is just maintained as a sort of “polite fiction.”
-> *Everyone* knows who the alter ego is. Everyone pretends anyway, because refusing to go along with this lunacy wouldn’t benefit them one bit. You’d just be making a powerful enemy and going against the grain of everyone else. I love the idea of people involuntarily being forced to play along from the sheer social pressure alone.
 > 
+> *Everyone* knows who the alter ego is. Everyone pretends anyway, because refusing to go along with this lunacy wouldn’t benefit them one bit. You’d just be making a powerful enemy and going against the grain of everyone else. I love the idea of people involuntarily being forced to play along from the sheer social pressure alone.
 
->> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade* (6 days later)
 >> 
 >> > Everyone knows who the alter ego is. Everyone pretends anyway, because refusing to go along with this lunacy wouldn’t benefit them one bit. You’d just be making a powerful enemy and going against the grain of everyone else. I love the idea of people involuntarily being forced to play along from the sheer social pressure alone.
->> [Relevant "Texts from Superheroes" entry](https://i.pinimg.com/originals/56/28/c6/5628c6a8770e574d27b94b4bca7d3a0a.jpg).
 >> 
+>> [Relevant "Texts from Superheroes" entry](https://i.pinimg.com/originals/56/28/c6/5628c6a8770e574d27b94b4bca7d3a0a.jpg).
 
-> **u/absolute-black** [+22] *
+> **u/absolute-black** [+25]  (11 hours later)
 > 
 > I swear this concept is in my pile of completely unwritten worm fanfic ideas, down to the phrase “mask code” instead of the endlessly annoying “unwritten rules”. But now I don’t have to pretend I’ll write it someday, since EY just did a much better job of it anyway.
-> 
 
->> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (3 days later)
 >> 
 >> Mind if I steal the phrase ‘mask code’ from you?
->> 
 
->>> **u/absolute-black** [+2] *
+>>> **u/absolute-black** [+2]  (4 days later)
 >>> 
 >>> I mean, really it's Eliezer's at this point, but I certainly don't mind. Any story that doesn't act like the common phrase 'unwritten rules' is a specific in-universe thing is great with me.
->>> 
 
-> **u/ArisKatsaris** [+5]  *Sidebar Contender**
+> **u/ArisKatsaris** [+7]  *Sidebar Contender* (20 hours later)
 > 
 > The "Fans!" webcomic had a storyline ( the arc in question began at  [http://www.faans.com/books1-6/index.php?p=357](http://www.faans.com/books1-6/index.php?p=357)  ) that does something like the premise indicated -- though the implementation is not the same.
+> 
 > Most relevant page (which explains the background and spoils the mystery) is probably [this](http://www.faans.com/books1-6/index.php?p=388). 
+> 
 > SPOILERS:
+> 
 > >Some kind of magic *talisman*. It doesn't grant *wishes*... It grants *wants.* *One* want.  
 > >  
 > >I got a hold of it at a, um, journalist's convention, and it turned out I secretly wanted to be known as a hero.  
@@ -80,279 +77,290 @@
 > >Now he's a cultural *god,* everyone thinks he's me, and I can't bring myself to tell them otherwise.  
 > >  
 > >*God*, I hate him.
-> 
 
-> **u/keeper52** [+6] *
+> **u/keeper52** [+5]  (2 days later)
 > 
 > [The sequel](https://yudkowsky.tumblr.com/post/188572976735/mirasorastone-yudkowsky-prokopetz-bad)
-> 
 
->> **u/CCC_037** [+3] *
+>> **u/CCC_037** [+3]  (3 days later)
 >> 
 >> >!No, look, what happens in the sequel is obvious.!<
->> >!*Clearly* the 'Goose (who is Bruce) survived the shots because he's the 'Goose. Then there was a moment when the attention of the crowd is on the shooter. He couldn't have left to change undershirts without being noticed... but he is known to be able to move faster than the human eye can see.!<
->> >!So, clearly, what he did was to take a bit of metal from his pocket. A key, some coins... something along those lines. Using his well-known power of thermokinesis, the heated up the metal until it melted, and then spread it over his chest evenly as it applying superspeed sunscreen. Then he waited - just long enough for it to solidify - before getting up.!<
->> >!He opened his shirt, claiming that the thin (and unmarked) sheet of metal was a bulletproof undershirt; and since the metal was moulded to his Masculine Mongoosely physique, it *looked* exactly like a slightly stretched undershirt; though, of course, it wouldn't actually stop a bullet.!<
->> >!And then he left, before anyone could closely inspect the 'undershirt'...!<
 >> 
+>> >!*Clearly* the 'Goose (who is Bruce) survived the shots because he's the 'Goose. Then there was a moment when the attention of the crowd is on the shooter. He couldn't have left to change undershirts without being noticed... but he is known to be able to move faster than the human eye can see.!<
+>> 
+>> >!So, clearly, what he did was to take a bit of metal from his pocket. A key, some coins... something along those lines. Using his well-known power of thermokinesis, the heated up the metal until it melted, and then spread it over his chest evenly as it applying superspeed sunscreen. Then he waited - just long enough for it to solidify - before getting up.!<
+>> 
+>> >!He opened his shirt, claiming that the thin (and unmarked) sheet of metal was a bulletproof undershirt; and since the metal was moulded to his Masculine Mongoosely physique, it *looked* exactly like a slightly stretched undershirt; though, of course, it wouldn't actually stop a bullet.!<
+>> 
+>> >!And then he left, before anyone could closely inspect the 'undershirt'...!<
 
->>> **u/keeper52** [+5] *
+>>> **u/keeper52** [+5]  (3 days later)
 >>> 
 >>> I don't know why people are getting all conspiracy theory about this.
->>> >!It's ridiculous - take away the colors and the flair and suddenly most people can't even recognize the supersuit that they've seen a hundred times before.!<
->>> >!The Goose's suit has got to be one of the most advanced garments known to man - obviously he's going to want to wear something similar when he goes out as Bruce. And obviously he'll go with a copy of it that is tasteful and subdued and appropriate to wear under Mr. Kent's formalwear.!<
->>> >!Mask Twitter has been all over this. If the logic of it all doesn't have you convinced yet, then go look up the thread comparing images of the "damage" that MM's suit took when he got rocked by the Piper with the pictures of Bruce's new "bullet wounds". Same suit, different color.!<
 >>> 
+>>> >!It's ridiculous - take away the colors and the flair and suddenly most people can't even recognize the supersuit that they've seen a hundred times before.!<
+>>> 
+>>> >!The Goose's suit has got to be one of the most advanced garments known to man - obviously he's going to want to wear something similar when he goes out as Bruce. And obviously he'll go with a copy of it that is tasteful and subdued and appropriate to wear under Mr. Kent's formalwear.!<
+>>> 
+>>> >!Mask Twitter has been all over this. If the logic of it all doesn't have you convinced yet, then go look up the thread comparing images of the "damage" that MM's suit took when he got rocked by the Piper with the pictures of Bruce's new "bullet wounds". Same suit, different color.!<
 
->>>> **u/CCC_037** [+2] *
+>>>> **u/CCC_037** [+2]  (4 days later)
 >>>> 
 >>>> >!The suit? No, the suit of the 'Goose is just ordinary spandex. Besides, Bruce, being the 'Goose, won't wear that in his civilian guise because that would be proof that Bruce *is* the 'Goose and while other's lips may be loose, Bruce the 'Goose is very public in his denials of being the 'Goose.!<
->>>> >!It only looks like a super-suit because it's attached to the skin of the 'Goose. Besides, Mask Twitter is probably in breach of a dozen cases of unmasking supers, and the only reason they're not prosecuted is because none of them have any sort of decent proof. You can't trust what you read on there.!<
 >>>> 
+>>>> >!It only looks like a super-suit because it's attached to the skin of the 'Goose. Besides, Mask Twitter is probably in breach of a dozen cases of unmasking supers, and the only reason they're not prosecuted is because none of them have any sort of decent proof. You can't trust what you read on there.!<
 
->>>>> **u/keeper52** [+3] *
+>>>>> **u/keeper52** [+3]  (4 days later)
 >>>>> 
 >>>>> We're not talking about an unmasking here, just sorting out the Undershirt Conundrum. And in this case everyone else is making up convoluted stories while the folks on Twitter quickly settled on the one simple straightforward explanation.
->>>>> >!We already saw what Bruce has to say about his super undershirt and he went with the "we happen to have the same tailor" defense. No one bought it for a second, but you know the drill - Bruce's denials don't have to be at all convincing, it just has to be impossible for any of us to pin things down definitively.!<
 >>>>> 
+>>>>> >!We already saw what Bruce has to say about his super undershirt and he went with the "we happen to have the same tailor" defense. No one bought it for a second, but you know the drill - Bruce's denials don't have to be at all convincing, it just has to be impossible for any of us to pin things down definitively.!<
 
->>>>>> **u/CCC_037** [+1] *
+>>>>>> **u/CCC_037** [+1]  (5 days later)
 >>>>>> 
 >>>>>> In *this* case, yeah, Mask Twitter isn't unmasking anyone. But they have a *reputation*. Seriously, you give some people a veneer of anonymity, and they think they can say *anything*.
->>>>>> >!But you still haven't explained why the 'Goose would take the potentially unmasking risk of wearing a version of his supersuit under his clothes. I mean, what possible benefit does it give that's worth the potential risk of proving his identity? It *can't* be comfort; the 'Goose may be immune to chafing, but he can surely find at least equally comfortable civilian clothes. And the 'Goose doesn't need bulletproof undershirts.!<
 >>>>>> 
+>>>>>> >!But you still haven't explained why the 'Goose would take the potentially unmasking risk of wearing a version of his supersuit under his clothes. I mean, what possible benefit does it give that's worth the potential risk of proving his identity? It *can't* be comfort; the 'Goose may be immune to chafing, but he can surely find at least equally comfortable civilian clothes. And the 'Goose doesn't need bulletproof undershirts.!<
 
->>>>>>> **u/keeper52** [+2] *
+>>>>>>> **u/keeper52** [+2]  (5 days later)
 >>>>>>> 
 >>>>>>> Maybe we hang out on different parts of Twitter? I'm thinking of folks like @MasklessGeek.
->>>>>>> >!One advantage of wearing a piece of the ol' supersuit while out of costume is that the suit is useful. No need to rehash the whole powers vs. tech debate, I hope I can just say that the Mongoose with tech is in at least a slightly better position than the Mongoose without tech. Can we leave it at that? If something comes up while he's out of costume he's got to be more comfortable having a bit of his gear. I'm not saying I would've been able to call it before we saw it, but considering how much effort he must've put into his costume it shouldn't be a huge surprise that he prefers to wear something like it even when he's out of costume.!<
->>>>>>> >!And the other advantage which we just saw is that it gives him (semi-)plausible deniability. It is decidedly not "proof" of his identity, just another in a long line of hints; everyone (correctly) sees the Smart Guy's gambit as a failure despite revealing Bruce's "bulletproof undershirt." I don't know if the Masculine Mongoose envisioned this exact sort of gunman scenario (though he easily could have, what with all the death threats surrounding him), but he must've figured that if he had to pull something while he was out of costume, it sure would be convenient to be able to pin it on tech rather than powers.!<
 >>>>>>> 
+>>>>>>> >!One advantage of wearing a piece of the ol' supersuit while out of costume is that the suit is useful. No need to rehash the whole powers vs. tech debate, I hope I can just say that the Mongoose with tech is in at least a slightly better position than the Mongoose without tech. Can we leave it at that? If something comes up while he's out of costume he's got to be more comfortable having a bit of his gear. I'm not saying I would've been able to call it before we saw it, but considering how much effort he must've put into his costume it shouldn't be a huge surprise that he prefers to wear something like it even when he's out of costume.!<
+>>>>>>> 
+>>>>>>> >!And the other advantage which we just saw is that it gives him (semi-)plausible deniability. It is decidedly not "proof" of his identity, just another in a long line of hints; everyone (correctly) sees the Smart Guy's gambit as a failure despite revealing Bruce's "bulletproof undershirt." I don't know if the Masculine Mongoose envisioned this exact sort of gunman scenario (though he easily could have, what with all the death threats surrounding him), but he must've figured that if he had to pull something while he was out of costume, it sure would be convenient to be able to pin it on tech rather than powers.!<
 
->>>>>>>> **u/CCC_037** [+2] *
+>>>>>>>> **u/CCC_037** [+2]  (5 days later)
 >>>>>>>> 
 >>>>>>>> I don't actually hang out on Twitter much at all, but wasn't there that one guy who got struck by lightning just after he posted what he insisted was the Weathermaster's real identity? I seem to recall that there was quite a lot of noise about that.
->>>>>>>> >!And sure, the Suit is useful when the Mongoose is on the job. I won't deny that (though I'm still not sure there is any actual tech in the Suit at all). But - well, let's talk analogy for a moment. Let's say there's a professional runner. When he's running, he wears running shoes, lightweight vest, etc. And this costume is pretty good for running in. But does he wear any of this costume when he is, let's say, giving a speech at a charity event?!<
->>>>>>>> >!No. No, he does not.!<
->>>>>>>> >!Similarly, the 'Goose no doubt has made sure that his Suit is exactly what he needs when in a standoff with the Weathermaster or something. But I explicitly *don't* agree that that makes him in any way more likely to wear the Suit in his civilian identity.!<
->>>>>>>> >!In fact, I find it hard to imagine anyone, in any job that requires particular clothing, who would continue to wear said clothing on his off hours.!<
->>>>>>>> >!And it does *not* give him semi-plausible deniability. If anything, it strengthens the case for Bruce being the 'Goose - not that that needed strengthening in the first place.!<
 >>>>>>>> 
+>>>>>>>> >!And sure, the Suit is useful when the Mongoose is on the job. I won't deny that (though I'm still not sure there is any actual tech in the Suit at all). But - well, let's talk analogy for a moment. Let's say there's a professional runner. When he's running, he wears running shoes, lightweight vest, etc. And this costume is pretty good for running in. But does he wear any of this costume when he is, let's say, giving a speech at a charity event?!<
+>>>>>>>> 
+>>>>>>>> >!No. No, he does not.!<
+>>>>>>>> 
+>>>>>>>> >!Similarly, the 'Goose no doubt has made sure that his Suit is exactly what he needs when in a standoff with the Weathermaster or something. But I explicitly *don't* agree that that makes him in any way more likely to wear the Suit in his civilian identity.!<
+>>>>>>>> 
+>>>>>>>> >!In fact, I find it hard to imagine anyone, in any job that requires particular clothing, who would continue to wear said clothing on his off hours.!<
+>>>>>>>> 
+>>>>>>>> >!And it does *not* give him semi-plausible deniability. If anything, it strengthens the case for Bruce being the 'Goose - not that that needed strengthening in the first place.!<
 
-> **u/ratthrow** [+12] *
+> **u/ratthrow** [+11]  (14 hours later)
 > 
 > Why wouldn't a supervillain attack Bruce Kent thinking he was Goose? l think this ploy would be exposed quickly in a rational world.
-> 
 
->> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor* (a day later)
 >> 
 >> I'd say it'd be rather less dangerous in a rational world than in a comic-book one.  Suppose that in Worm you know that Alexandria is (her civilian identity).  She probably doesn't get one assassination attempt per week in the first place.  If for some reason you *are* attempting that, why attack her civilian identity and get a hell of a lot more opprobrium for having broken the unwritten rules?
->> 
 
->>> **u/AmeteurOpinions** [+6]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.* (a day later)
 >>> 
 >>> C’mon EY, tag your spoilers!
->>> 
 
->> **u/ulyssessword** [+8] *
+>> **u/ulyssessword** [+7]  (14 hours later)
 >> 
 >> Why would you start a fight you were going to lose?  Blackmail and kidnapping is much more effective.
->> 
 
->>> **u/ratthrow** [+7] *
+>>> **u/ratthrow** [+7]  (14 hours later)
 >>> 
 >>> Why fight heroes at all? Because you think you have a chance of winning. And what better way to maximize your odds than by ambushing the civilian alter ego?
->>> 
 
->>>> **u/Norseman2** [+22] *
+>>>> **u/Norseman2** [+22]  (15 hours later)
 >>>> 
 >>>> This depends on the superpowers involved. For example, if you want to get rid of Superman, attacking Clark Kent is always a bad idea unless you happen have kryptonite. Of course, even if you do have kryptonite, with this approach you'd end up attacking a guy who is actually immune to kryptonite, probably packing a gun, and has Superman available to provide immediate assistance.
->>>> 
 
->>>>> **u/Nimelennar** [+16] *
+>>>>> **u/Nimelennar** [+15]  (17 hours later)
 >>>>> 
 >>>>> Yeah, considering that the Masculine Mongoose explicitly has "meta powers," it's more likely to be a situation where if you tried to put a bullet through the secret identity's skull, you'd expect to end up with a flattened bullet than a dead hero (and that would have been an excellent decoy to run at some point: set up a fake assassination attempt that Bruce Kent inexplicably walks away from without any injury).
->>>>> If the hero were Bruce Wayne, or Tony Stark, or Oliver Queen, on the other hand, and was just a badass normal with some high-tech toys, then this ploy would carry a much higher risk of backfiring, because assassinating the "millionaire playboy" would seem to be a workable way of ridding yourself of the hero.
 >>>>> 
+>>>>> If the hero were Bruce Wayne, or Tony Stark, or Oliver Queen, on the other hand, and was just a badass normal with some high-tech toys, then this ploy would carry a much higher risk of backfiring, because assassinating the "millionaire playboy" would seem to be a workable way of ridding yourself of the hero.
 
->>>>> **u/ratthrow** [+5] *
+>>>>> **u/ratthrow** [+6]  (18 hours later)
 >>>>> 
 >>>>> > Of course, even if you do have kryptonite, with this approach you'd end up attacking a guy who is actually immune to kryptonite, probably packing a gun, and has Superman available to provide immediate assistance.
->>>>> You're a supervillain with kryptonite. I imagine you're going to do more than just throw an unpowered punch at the dude while waving a green rock in his face. Anyone that is looking to pick a fight with Goose or Superman will crush a baseline human like an insect.
 >>>>> 
+>>>>> You're a supervillain with kryptonite. I imagine you're going to do more than just throw an unpowered punch at the dude while waving a green rock in his face. Anyone that is looking to pick a fight with Goose or Superman will crush a baseline human like an insect.
 
->> **u/None** [+9] *
+>> **u/None** [+7]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (3 days later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/Paxona** [+1] *
+>>>> **u/Paxona** [+1]  (3 days later)
 >>>> 
 >>>> I disagree with that. The supers make little sense even in that universe.
->>>> 
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (3 days later)
 >>>>> 
 >>>>> [removed]
->>>>> 
 
->>>>>> **u/Paxona** [+2] *
+>>>>>> **u/Paxona** [+2]  (3 days later)
 >>>>>> 
 >>>>>> The fact that they're putting kids in the frontlines to prevent crime, in bright costumes, for one? 
 >>>>>> 'Oh, I'm clockblocker, I can stop time with my hands.' - Try and stop a hail from a machine gun.
->>>>>> The 'super code' for another? Why would villains even bother with that nonsense. And don't give me 'driven to conflict by the shards' because humanity would have plenty of conflict, but unlikely to have the bright costumes.
 >>>>>> 
+>>>>>> The 'super code' for another? Why would villains even bother with that nonsense. And don't give me 'driven to conflict by the shards' because humanity would have plenty of conflict, but unlikely to have the bright costumes.
 
->>>>>>> **u/GrafZeppelin127** [+2] *
+>>>>>>> **u/GrafZeppelin127** [+2]  (11 days later)
 >>>>>>> 
 >>>>>>> > The fact that they're putting kids in the frontlines to prevent crime, in bright costumes, for one? 
->>>>>>> They don’t. The Wards are explicitly forbidden from going into situations more dangerous than the PRT thinks they can reasonably deal with. They’re used primarily for patrol and PR events, with supervision. It’s only in a shithole like Brockton Bay that they actually see real violence on a regular basis, and it’s only when the world is literally ending that they’re put on the actual front lines of a conflict. Besides which, the costumes’ showiness or lack thereof is kind of immaterial in the kinds of conflicts capes get into. Only for the extremely street-level capes, like the protagonist, are the costumes made to be camouflaged and combat-practical, and for most capes use of camouflage is rendered rather pointless by their powers. It’s either redundant or completely blown the second they employ their powers.
->>>>>>> >’Oh, I'm clockblocker, I can stop time with my hands.' - Try and stop a hail from a machine gun.
->>>>>>> Clockblocker could stop time for objects touching anywhere near his skin, not just using his hands. He was capable of freezing entire clouds of insects swarming his body, all simultaneously. It didn’t really help him in that case, but a machine gun probably *wouldn’t* be able to harm him if he was on his guard. Likewise, Browbeat has his telekinetic shield and healing ability, Aegis has redundant biology, Gallant and Kid Win have Tinker-built armor, Vista can curve bullets, and Shadow Stalker can become insubstantial. Not that the Wards would be sent into a situation where a machine gun was even in play in the first place; the Wards were never used against Coil’s gun-wielding mercenaries, for example. That’s not to say a human with a gun is useless in the setting; Miss Militia’s one of the better heroes in the city and her power is essentially just “guns, but with unlimited ammo.” Likewise, Coil’s aforementioned mercenaries acquit themselves rather well, but people with guns are by no means an excessively dominant or insurmountable force in the setting, for mostly sound reasons. 
->>>>>>> >The 'super code' for another? Why would villains even bother with that nonsense.
->>>>>>> The “Unwritten Rules” are a thin veneer that binds the weak and not the powerful. It’s discarded the second it’s no longer advantageous to use as a cudgel. Coil, for example, outed the entire white supremacist gang, root and branch, when it behooved him to do so. A random street-level cape can’t get away with being too rough, going after civilian identities, or going too far with rape or murder, lest the other parahuman villains and heroes gang up against them, but established powerful capes like Oni Lee, Hookwolf, and Lung can rape and murder all they want, because everyone else already wants to stop them anyway, but simply aren’t strong enough to.
 >>>>>>> 
+>>>>>>> They don’t. The Wards are explicitly forbidden from going into situations more dangerous than the PRT thinks they can reasonably deal with. They’re used primarily for patrol and PR events, with supervision. It’s only in a shithole like Brockton Bay that they actually see real violence on a regular basis, and it’s only when the world is literally ending that they’re put on the actual front lines of a conflict. Besides which, the costumes’ showiness or lack thereof is kind of immaterial in the kinds of conflicts capes get into. Only for the extremely street-level capes, like the protagonist, are the costumes made to be camouflaged and combat-practical, and for most capes use of camouflage is rendered rather pointless by their powers. It’s either redundant or completely blown the second they employ their powers.
+>>>>>>> 
+>>>>>>> >’Oh, I'm clockblocker, I can stop time with my hands.' - Try and stop a hail from a machine gun.
+>>>>>>> 
+>>>>>>> Clockblocker could stop time for objects touching anywhere near his skin, not just using his hands. He was capable of freezing entire clouds of insects swarming his body, all simultaneously. It didn’t really help him in that case, but a machine gun probably *wouldn’t* be able to harm him if he was on his guard. Likewise, Browbeat has his telekinetic shield and healing ability, Aegis has redundant biology, Gallant and Kid Win have Tinker-built armor, Vista can curve bullets, and Shadow Stalker can become insubstantial. Not that the Wards would be sent into a situation where a machine gun was even in play in the first place; the Wards were never used against Coil’s gun-wielding mercenaries, for example. That’s not to say a human with a gun is useless in the setting; Miss Militia’s one of the better heroes in the city and her power is essentially just “guns, but with unlimited ammo.” Likewise, Coil’s aforementioned mercenaries acquit themselves rather well, but people with guns are by no means an excessively dominant or insurmountable force in the setting, for mostly sound reasons. 
+>>>>>>> 
+>>>>>>> >The 'super code' for another? Why would villains even bother with that nonsense.
+>>>>>>> 
+>>>>>>> The “Unwritten Rules” are a thin veneer that binds the weak and not the powerful. It’s discarded the second it’s no longer advantageous to use as a cudgel. Coil, for example, outed the entire white supremacist gang, root and branch, when it behooved him to do so. A random street-level cape can’t get away with being too rough, going after civilian identities, or going too far with rape or murder, lest the other parahuman villains and heroes gang up against them, but established powerful capes like Oni Lee, Hookwolf, and Lung can rape and murder all they want, because everyone else already wants to stop them anyway, but simply aren’t strong enough to.
 
->>>>>>>> **u/None** [-1] *
+>>>>>>>> **u/None** [-1]  (11 days later)
 >>>>>>>> 
 >>>>>>>> [deleted]
->>>>>>>> 
 
->>>>>>>>> **u/GrafZeppelin127** [+2] *
+>>>>>>>>> **u/GrafZeppelin127** [+2]  (11 days later)
 >>>>>>>>> 
 >>>>>>>>> Wow. I expected better from someone who goes on r/rational, of all places. Chill out.
->>>>>>>>> 
 
->>>>>>>>>> **u/Paxona** [+1] *
+>>>>>>>>>> **u/Paxona** [+1]  (11 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I'm not angry. I'm just tired of having this same conversation over and over again.
->>>>>>>>>> Justifications for superheroes are silly. Superheroes are silly. 
->>>>>>>>>> You can have your superhero stories, they're fine, and occasionally entertaining. I like worm.
->>>>>>>>>> But I need to suspend my disbelief that the world would somehow devolve into groups of people in garish costumes that would fight in the streets in the open like that.
->>>>>>>>>> I need to suspend disbelief that a teen who fights for his life against criminals (you know what those people do, right?) would still accept to be treated like a regular highschooler. People get emancipated for less in the real world.
->>>>>>>>>> I need to suspend my disbelief that criminals would give up their anonymity - their biggest advantage, bar none - for 'reasons.'
->>>>>>>>>> I need to suspend my disbelief why wouldn't the government just clamp down on these para-military organizations with people that can level cities - or allow them to form in the first place - rather than creating a special police unit, at least.
->>>>>>>>>> There is a reason why the state is the monopoly of violence. 
->>>>>>>>>> But every time this gets brought up, including rational, people come out of the woodwork to defend this genre tripe.
->>>>>>>>>> I was /rude/, but I wasn't wrong.
 >>>>>>>>>> 
+>>>>>>>>>> Justifications for superheroes are silly. Superheroes are silly. 
+>>>>>>>>>> 
+>>>>>>>>>> You can have your superhero stories, they're fine, and occasionally entertaining. I like worm.
+>>>>>>>>>> 
+>>>>>>>>>> But I need to suspend my disbelief that the world would somehow devolve into groups of people in garish costumes that would fight in the streets in the open like that.
+>>>>>>>>>> 
+>>>>>>>>>> I need to suspend disbelief that a teen who fights for his life against criminals (you know what those people do, right?) would still accept to be treated like a regular highschooler. People get emancipated for less in the real world.
+>>>>>>>>>> 
+>>>>>>>>>> I need to suspend my disbelief that criminals would give up their anonymity - their biggest advantage, bar none - for 'reasons.'
+>>>>>>>>>> 
+>>>>>>>>>> I need to suspend my disbelief why wouldn't the government just clamp down on these para-military organizations with people that can level cities - or allow them to form in the first place - rather than creating a special police unit, at least.
+>>>>>>>>>> 
+>>>>>>>>>> There is a reason why the state is the monopoly of violence. 
+>>>>>>>>>> 
+>>>>>>>>>> But every time this gets brought up, including rational, people come out of the woodwork to defend this genre tripe.
+>>>>>>>>>> 
+>>>>>>>>>> I was /rude/, but I wasn't wrong.
 
->>>>>>>>>> **u/Paxona** [+1] *
+>>>>>>>>>> **u/Paxona** [+1]  (11 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Oh, and don't get me started with the absolutely bonkers notions of 'due process' and 'jurisdiction' and 'sovereignty' that Ward tossed aside.
->>>>>>>>>> It was so bad I needed to give up on it.
 >>>>>>>>>> 
+>>>>>>>>>> It was so bad I needed to give up on it.
 
->>>>>>> **u/DuplexFields** [+1]  *New Lunar Republic**
+>>>>>>> **u/DuplexFields** [+1]  *New Lunar Republic* (7 days later)
 >>>>>>> 
 >>>>>>> I want a comic world where Peter Parker joined the police academy after Uncle Ben died. A world in which he reveals his amazing spider-powers to his superiors and training officer. He joins SWAT and foils the kinds of crimes that involve criminal organizations, standoffs, holdups with hostages, or metahumans with powers.
->>>>>>> Others join him in legit law enforcement, or make their place in industry and tech. There are one-off vigilantes, the occasional good Samaritan, but largely, it becomes clear that Powered crime pays even less than normal crime because of the world of hurt that will descend on you.
 >>>>>>> 
+>>>>>>> Others join him in legit law enforcement, or make their place in industry and tech. There are one-off vigilantes, the occasional good Samaritan, but largely, it becomes clear that Powered crime pays even less than normal crime because of the world of hurt that will descend on you.
 
->>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (6 days later)
 >>>>> 
 >>>>> Not saying it's rational overall, but in My Hero Academia heroes are adults (well, the protagonists are teenagers but they're in school, do the occasional internship, and it's just generally accepted that in order to get good you need to start training early, like we do now for sports, so a bit of danger is par for the course) and they're basically private contractors that work next to the government. It's suggested that at least part of the reason why they exist is that, well, superhero fiction existed in this world and thus as soon as powers started appearing vigilantism sprung up. Then it was brought under control after some very messy years and the current status quo is a bit of a compromise. Still, powers are regulated and registered and can't be used without a governmental license, at least in Japan. There's almost no secret identities, heroes are more like celebrities, with the exception of All Might who has a secret that goes beyond just being a hero (his power is transferable). We haven't seen any example of villains attacking heroes at home, but they *have* attacked UA school, and the school itself has security measures to try and prevent that. It helps that powers are relatively limited, there's generally no city or planet busters just going around willy-nilly (well, arguably, in the manga >!Tomura might be one now!<). A bullet is a bullet and will still kill most villains. Plus multiple teachers at school are also pro heroes.
->>>>> I think that overall makes more or less sense. The existence of heroes is a compromise between the fact that superpowers exist, some are combat oriented, and they're very useful to apprehend superpowered criminals, and a bit of show business thrown in which makes these figures much flashier than they need to be. There's a lot of stress on public image and the rhetoric surrounding heroes. All Might was "the Symbol of Peace" and his disappearance has literally caused such widespread social turmoil it has come with its own surge in crime. Heroes, in this picture, are charismatic figures, not just average law enforcers.
 >>>>> 
+>>>>> I think that overall makes more or less sense. The existence of heroes is a compromise between the fact that superpowers exist, some are combat oriented, and they're very useful to apprehend superpowered criminals, and a bit of show business thrown in which makes these figures much flashier than they need to be. There's a lot of stress on public image and the rhetoric surrounding heroes. All Might was "the Symbol of Peace" and his disappearance has literally caused such widespread social turmoil it has come with its own surge in crime. Heroes, in this picture, are charismatic figures, not just average law enforcers.
 
->>>>>> **u/Paxona** [+1] *
+>>>>>> **u/Paxona** [+1]  (6 days later)
 >>>>>> 
 >>>>>> >Not saying it's rational overall, but in My Hero Academia heroes are adults (well, the protagonists are teenagers but they're in school, do the occasional internship, and it's just generally accepted that in order to get good you need to start training early, like we do now for sports,
->>>>>> Man, I grew out of manga years ago - but let me say this: One dude creates blackholes. The girl makes anything out of her skin. And the best humanity does is... sponsored police force?
->>>>>> It's not rational. It's not realistic. It's fun, but can't be used as justification.
 >>>>>> 
+>>>>>> Man, I grew out of manga years ago - but let me say this: One dude creates blackholes. The girl makes anything out of her skin. And the best humanity does is... sponsored police force?
+>>>>>> 
+>>>>>> It's not rational. It's not realistic. It's fun, but can't be used as justification.
 
->>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (6 days later)
 >>>>>>> 
 >>>>>>> As I said, I think the justification for the existence of superheroes makes sense. Other aspects of the manga aren't rational at all. For starters, these are squishy humans fighting superpowered battles. They'd be dead at their first clash.
->>>>>>> And you're right, those powers are ridiculously OP and munchkinable with some serious thought. There's some mention of using powers for work purposes - though you still need a license. I think Ochako (the girl who makes stuff weightless by touching it) mentions wanting to help with her parents' construction company, and Yaoyorozu (the one who makes stuff out of her skin) says something about there being rules to prevent people like her from breaking the economy - which implies they HAVE thought about her powers, they've just come to the extremely stupid decision that she should not use them for fear of depreciating the goods she'd make. I premised that I didn't think the work as a whole was rational.
->>>>>>> But "growing out of manga" seems a pretty weird thing to say. There's manga of all degrees of maturity. Ever read anything by Naoki Urasawa? Or Inio Asano?
 >>>>>>> 
+>>>>>>> And you're right, those powers are ridiculously OP and munchkinable with some serious thought. There's some mention of using powers for work purposes - though you still need a license. I think Ochako (the girl who makes stuff weightless by touching it) mentions wanting to help with her parents' construction company, and Yaoyorozu (the one who makes stuff out of her skin) says something about there being rules to prevent people like her from breaking the economy - which implies they HAVE thought about her powers, they've just come to the extremely stupid decision that she should not use them for fear of depreciating the goods she'd make. I premised that I didn't think the work as a whole was rational.
+>>>>>>> 
+>>>>>>> But "growing out of manga" seems a pretty weird thing to say. There's manga of all degrees of maturity. Ever read anything by Naoki Urasawa? Or Inio Asano?
 
->>>>>>>> **u/Paxona** [+1] *
+>>>>>>>> **u/Paxona** [+1]  (6 days later)
 >>>>>>>> 
 >>>>>>>> >As I said, I think the justification for the existence of superheroes makes sense.
->>>>>>>> No it doesn't. As history shows us, if someone is stronger than the government, they become the government. If in japan there is an association with a guy who can make a black hole wherever he likes, he is the fucking absolute ruler of the nation, wether he overtly wants to or not. If a 'contractor' group is the government's army, they're the government, man. It's silly. 
->>>>>>>> Superheroes are dumb, dumb, dumb. There are millions of better ways to apply super powered police/army sans the lack of uniform (which exists for a reason, really). Child soldiers school slice of life isn't it.
->>>>>>>> >But "growing out of manga" seems a pretty weird thing to say. There's manga of all degrees of maturity. Ever read anything by Naoki Urasawa? Or Inio Asano?
->>>>>>>> Sorry, I ate up 'shonen' for some reason.
 >>>>>>>> 
+>>>>>>>> No it doesn't. As history shows us, if someone is stronger than the government, they become the government. If in japan there is an association with a guy who can make a black hole wherever he likes, he is the fucking absolute ruler of the nation, wether he overtly wants to or not. If a 'contractor' group is the government's army, they're the government, man. It's silly. 
+>>>>>>>> 
+>>>>>>>> Superheroes are dumb, dumb, dumb. There are millions of better ways to apply super powered police/army sans the lack of uniform (which exists for a reason, really). Child soldiers school slice of life isn't it.
+>>>>>>>> 
+>>>>>>>> >But "growing out of manga" seems a pretty weird thing to say. There's manga of all degrees of maturity. Ever read anything by Naoki Urasawa? Or Inio Asano?
+>>>>>>>> 
+>>>>>>>> Sorry, I ate up 'shonen' for some reason.
 
->>>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (6 days later)
 >>>>>>>>> 
 >>>>>>>>> > No it doesn't. As history shows us, if someone is stronger than the government, they become the government. If in japan there is an association with a guy who can make a black hole wherever he likes, he is the fucking absolute ruler of the nation, wether he overtly wants to or not. If a 'contractor' group is the government's army, they're the government, man. It's silly. 
->>>>>>>>> We don't know what happened. It's strongly hinted that there was a time of anarchy when Quirks first arose - and that the current peace is what emerged from then. 
->>>>>>>>> Sure, black hole guy is powerful. But this is not a world in which superpowers are uncommon. Like, 80% and counting of the population has a superpower, though not all powers are useful. And powers don't make you invulnerable by a long shot. If the really strong are a minority, they still wouldn't manage to overcome the vast majority that can simply shoot them.
->>>>>>>>> There's a few broken powers that kinda violate that rule. Black hole dude depending on what his body is actually like, portal black cloud dude, Endeavour and Todoroki are no joke either... but a lot of them have pretty silly and limited powers. People like the girl with earbud jacks attached to her body, or Iida who can run really fast, or the guy who gets somewhat stronger by eating sugar. Those aren't world-breaking powers. If everyone was more like them it'd be easier to buy that their world does indeed make sense.
 >>>>>>>>> 
+>>>>>>>>> We don't know what happened. It's strongly hinted that there was a time of anarchy when Quirks first arose - and that the current peace is what emerged from then. 
+>>>>>>>>> 
+>>>>>>>>> Sure, black hole guy is powerful. But this is not a world in which superpowers are uncommon. Like, 80% and counting of the population has a superpower, though not all powers are useful. And powers don't make you invulnerable by a long shot. If the really strong are a minority, they still wouldn't manage to overcome the vast majority that can simply shoot them.
+>>>>>>>>> 
+>>>>>>>>> There's a few broken powers that kinda violate that rule. Black hole dude depending on what his body is actually like, portal black cloud dude, Endeavour and Todoroki are no joke either... but a lot of them have pretty silly and limited powers. People like the girl with earbud jacks attached to her body, or Iida who can run really fast, or the guy who gets somewhat stronger by eating sugar. Those aren't world-breaking powers. If everyone was more like them it'd be easier to buy that their world does indeed make sense.
 
->>>>>>>>>> **u/Paxona** [+1] *
+>>>>>>>>>> **u/Paxona** [+1]  (6 days later)
 >>>>>>>>>> 
 >>>>>>>>>> >It's strongly hinted that there was a time of anarchy when Quirks first arose - and that the current peace is what emerged from then. 
->>>>>>>>>> And yet it's still Japan like modern times so it's 'relatable'
->>>>>>>>>> >Sure, black hole guy is powerful. But this is not a world in which superpowers are uncommon.
->>>>>>>>>> And the association which holds them all is the government. That's my point.
->>>>>>>>>> Superheroes are dumb, dumb, dumb.
 >>>>>>>>>> 
+>>>>>>>>>> And yet it's still Japan like modern times so it's 'relatable'
+>>>>>>>>>> 
+>>>>>>>>>> >Sure, black hole guy is powerful. But this is not a world in which superpowers are uncommon.
+>>>>>>>>>> 
+>>>>>>>>>> And the association which holds them all is the government. That's my point.
+>>>>>>>>>> 
+>>>>>>>>>> Superheroes are dumb, dumb, dumb.
 
->>>>>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (6 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > And the association which holds them all is the government. That's my point.
->>>>>>>>>>> Isn't that basically what it is anyway? I mean, them being private simply means they have some degree of autonomy. But they're still tied to the government. We haven't seen much of MHA's politics (perhaps a bit too touchy a topic to go into in a WSJ series). But I mean, come on, whoever All Might said "this candidate is my man" of would have won ALL the elections ever.
->>>>>>>>>>> That said, yeah, superheroes are kinda dumb, or at least they are if they're the major use of powers in a setting. I could imagine someone using their powers for fighting, and even wanting to be considered more special than the regular police forces, but they would be immersed in a society in which powers play a much larger scale transformative role.
 >>>>>>>>>>> 
+>>>>>>>>>>> Isn't that basically what it is anyway? I mean, them being private simply means they have some degree of autonomy. But they're still tied to the government. We haven't seen much of MHA's politics (perhaps a bit too touchy a topic to go into in a WSJ series). But I mean, come on, whoever All Might said "this candidate is my man" of would have won ALL the elections ever.
+>>>>>>>>>>> 
+>>>>>>>>>>> That said, yeah, superheroes are kinda dumb, or at least they are if they're the major use of powers in a setting. I could imagine someone using their powers for fighting, and even wanting to be considered more special than the regular police forces, but they would be immersed in a society in which powers play a much larger scale transformative role.
 
->>>>>>>>>>>> **u/Paxona** [+1] *
+>>>>>>>>>>>> **u/Paxona** [+1]  (6 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> But that is what I said. I can enjoy a series with super heroes, I just prefer they don't try to justify it because it's a pretty sad state of affairs.
 >>>>>>>>>>>> The justifications tend to be silly - because superheroes are a silly state of affairs.
->>>>>>>>>>>> 
 
->> **u/sparr** [+5] *
+>> **u/sparr** [+3]  (21 hours later)
 >> 
 >> The "mask code" seems to suggest some societal pressure against such actions. Maybe every other superhero has promised to focus on any villain that breaks the code?
->> 
 
->>> **u/Frommerman** [+7] *
+>>> **u/Frommerman** [+6]  (a day later)
 >>> 
 >>> Probably most of the more reasonable villains as well. Keeping such a code benefits every villain who wants to have a civilian life or who has people to protect. Which probably means the heroes prop up such villains on the side, to flood the market with people they can bargain and reason with if necessary.
->>> 
 
->> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (6 days later)
 >> 
 >> Depends on what the Goose's powers and defences are. If the Goose is like Superman, then little point in a surprise attack other than making him even angrier at you. If he's more like Batman, maybe, but also depends on how many defences Kent has. He's supposed to be a millionaire so you'll expect his house to be a fortress (in fact it's necessary to keep up the fiction; it would make him more suspicious as a potential Goose, which is exactly what the real one wants).
->> Of course, in general, in a rational world, any superhero at all who's not some kind of abso-fucking-lutely invulnerable would simply die in action way before the villains get the chance to start pondering other attack strategies.
 >> 
+>> Of course, in general, in a rational world, any superhero at all who's not some kind of abso-fucking-lutely invulnerable would simply die in action way before the villains get the chance to start pondering other attack strategies.
 
-> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+6]  *Dai-Gurren Brigade* (6 days later)
 > 
 > That was great! My only doubt is, >!if this person is so wise and so smart and so good, what on God's good Earth was going through their mind when they settled on such a stupid, jockish code name as "Masculine Mongoose"?!<
-> 
 
->> **u/DuplexFields** [+7]  *New Lunar Republic**
+>> **u/DuplexFields** [+8]  *New Lunar Republic* (7 days later)
 >> 
 >> It could have been >!coined by the first reporter who got a story on him. Or he could have shown up for the first time in public in costume in India or thereabouts, and gotten his nickname from the way he ducked and weaved and struck the villain he defeated. It could be a stupidly literal translation where it could have been "The Manly Mongoose."!<
->> 
 
->>> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor* (11 days later)
 >>> 
 >>> Canonized.
->>> 
 
->>>> **u/DuplexFields** [+2]  *New Lunar Republic**
+>>>> **u/DuplexFields** [+2]  *New Lunar Republic* (12 days later)
 >>>> 
 >>>> A [No Prize](https://en.wikipedia.org/wiki/Marvel_No-Prize)? Thanks!
->>>> 
 
-> **u/Ms_CIA** [+1]  *Derp**
+> **u/Ms_CIA** [+1]  *Derp* (3 days later)
 > 
 > Fantastic story idea, can't remember that I've ever seen it done before. Buuuut, I'm going to be that person. The conversation with the girl sounds very unpolished, to the point where it doesn't seem realistic (especially the girl's lines). I think if you went back for another pass you could make that scene clearer and heighten the tension as well.
-> 
 
 ---
 

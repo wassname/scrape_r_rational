@@ -21,80 +21,83 @@ I know not to blindly follow the internet's advice, however I think this might b
 
 ### Comments:
 
-> **u/None** [+10] *
+> **u/None** [+9]  (33 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (43 minutes later)
 >> 
 >> I'm not sure. That's why I need information.
->> I suppose when addiction becomes a factor, it's already too late to be objective, right?
->> Are there tells that one might be particularly bad/good at this? My family contains quite some alcoholics and smokers, how important is that? What are warning signs that you become addicted? How bad is addiction of these drugs, (Erdős seemed to be okay)? Are they all equally addictive or are they different? Is there a way to use, like one would use coffee? Where there is an addiction, but it is not really harmful?
 >> 
+>> I suppose when addiction becomes a factor, it's already too late to be objective, right?
+>> 
+>> Are there tells that one might be particularly bad/good at this? My family contains quite some alcoholics and smokers, how important is that? What are warning signs that you become addicted? How bad is addiction of these drugs, (Erdős seemed to be okay)? Are they all equally addictive or are they different? Is there a way to use, like one would use coffee? Where there is an addiction, but it is not really harmful?
 
->>> **u/Farmerbob1** [+3]  *Level 1 author**
+>>> **u/Farmerbob1** [+5]  *Level 1 author* (9 hours later)
 >>> 
 >>> Alcoholism is a sign of genetic addiction tendencies, from what I've read, but it's not a clear sign.  Nicotine addiction isn't a sign at all.  It's one of the most addictive drugs known to man, and about the only thing genetic you might be able to say about it is that if your family has a tendency to be able to drop smoking as a habit, easily, your family may not have enhanced tendencies toward addiction.  However, as with anything genetic that doesn't clearly express itself in a measureable way, whether or not you inherited addictive tendencies is a guess until you know yourself, which is something few college-age young people are capable of.
->>> I know I have addictive tendencies after 43 years of experience knowing myself.  I now watch myself for patterns all the time and do my best to avoid exposure to harmful addictions.  I avoid prescription pain medicines like the plague, and won't go anywhere that people smoke if I can avoid it.  I smoked for twenty-two years and even now, nearly five years after quitting, every single time I get into my truck to drive anywhere, I want a cigarette.
->>> Using addictive drugs in order to improve the quality of your education is a severe risk.  I'll tentatively say that nobody here is going to say it's a good idea, because that would be a risk to US either in reality as an accomplice of some sort, or figuratively if we later discover you became a life-failure because of advice given here and mentally beat ourselves up for it.
->>> I could have just said 'Not here.  Go ask somewhere else.' but figured I'd give you a little food for thought first.
->>> Now, I'll say it.
->>> Please, not here.  Go ask somewhere else.
 >>> 
+>>> I know I have addictive tendencies after 43 years of experience knowing myself.  I now watch myself for patterns all the time and do my best to avoid exposure to harmful addictions.  I avoid prescription pain medicines like the plague, and won't go anywhere that people smoke if I can avoid it.  I smoked for twenty-two years and even now, nearly five years after quitting, every single time I get into my truck to drive anywhere, I want a cigarette.
+>>> 
+>>> Using addictive drugs in order to improve the quality of your education is a severe risk.  I'll tentatively say that nobody here is going to say it's a good idea, because that would be a risk to US either in reality as an accomplice of some sort, or figuratively if we later discover you became a life-failure because of advice given here and mentally beat ourselves up for it.
+>>> 
+>>> I could have just said 'Not here.  Go ask somewhere else.' but figured I'd give you a little food for thought first.
+>>> 
+>>> Now, I'll say it.
+>>> 
+>>> Please, not here.  Go ask somewhere else.
 
->>> **u/None** [+5] *
+>>> **u/None** [+5]  (14 hours later)
 >>> 
 >>> I once took a prescription stimulant for ADHD.  Frankly, I very probably do really have ADHD, but I'm still better off, in the end, having learned how to manage myself rather than relying on a drug as a tactic that makes up for bad strategy.
->>> 
 
-> **u/PeridexisErrant** [+15]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+19]  *put aside fear for courage, and death for life* (5 hours later)
 > 
 > *[With this in mind...](http://lesswrong.com/lw/c1/wellkept_gardens_die_by_pacifism/)*
-> /r/rational is "**A subreddit dedicated to the discussion of works of rational and rationalist fiction.**"
-> That might be correlated with interest in this kind of question, but it's not what we're about.  This would be a better fit on /r/transhuman, /r/lifehacks, or /r/notactuallyrationalistadvice.
-> Imagine a work of rationalist fiction.  The setting:  a world twenty minutes into the future.  The character:  a student watching his peers turn to drugs to keep an edge.  The question:  does the student do drugs?  What are the (long term?) effects?  How does rational thought come into it?
-> Protip:  just as dark is not always evil (but usually *is*), illegal drugs tend to be a *very very very* bad idea.  That story isn't going to end well.
-> So let's stay safe, and stay on topic.
 > 
+> /r/rational is "**A subreddit dedicated to the discussion of works of rational and rationalist fiction.**"
+> 
+> That might be correlated with interest in this kind of question, but it's not what we're about.  This would be a better fit on /r/transhuman, /r/lifehacks, or /r/notactuallyrationalistadvice.
+> 
+> Imagine a work of rationalist fiction.  The setting:  a world twenty minutes into the future.  The character:  a student watching his peers turn to drugs to keep an edge.  The question:  does the student do drugs?  What are the (long term?) effects?  How does rational thought come into it?
+> 
+> Protip:  just as dark is not always evil (but usually *is*), illegal drugs tend to be a *very very very* bad idea.  That story isn't going to end well.
+> 
+> So let's stay safe, and stay on topic.
 
->> **u/qznc** [+0]  *Chaos Legion**
+>> **u/qznc** [+0]  *Chaos Legion* (17 hours later)
 >> 
 >> > With this in mind...
->> I agree. However, I still think it is ok to comment and answer him here. Just everybody downvote the overall topic, though.
 >> 
+>> I agree. However, I still think it is ok to comment and answer him here. Just everybody downvote the overall topic, though.
 
->>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (17 hours later)
 >>> 
 >>> Hence not removing the topic, yeah.
->>> 
 
->>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (22 hours later)
 >>> 
 >>> I think 0 points is sufficient, no need to wreck his karma, for whatever that's worth.
->>> 
 
-> **u/LucidityWaver** [+3] *
+> **u/LucidityWaver** [+3]  (2 hours later)
 > 
 > If you do a search, I believe a similar question was asked several months ago. When I am not on a phone, if I can find it I'll edit this post with a link.
-> No computer, but still managed. Was actually on /r/lesswronglounge: https://www.reddit.com/r/LessWrongLounge/comments/2k7uzc/opinions_on_modafinil/
 > 
+> No computer, but still managed. Was actually on /r/lesswronglounge: https://www.reddit.com/r/LessWrongLounge/comments/2k7uzc/opinions_on_modafinil/
 
-> **u/Predictablicious** [+3]  *Only Mark Annuncio Saves**
+> **u/Predictablicious** [+3]  *Only Mark Annuncio Saves* (11 hours later)
 > 
 > You may like to lurk/ask at /r/nootropics on this subject.
-> 
 
-> **u/qznc** [+1]  *Chaos Legion**
+> **u/qznc** [+1]  *Chaos Legion* (17 hours later)
 > 
 > You might be interested in [Gwern's experiences](http://www.gwern.net/Nootropics).
-> 
 
-> **u/INeedAUsernameToo** [+1] *
+> **u/INeedAUsernameToo** [+1]  (a day later)
 > 
 > /r/nootropics
-> Short answer: The more problems/the more messed up you are, the more drugs can help. Otherwise, just use coffee.
 > 
+> Short answer: The more problems/the more messed up you are, the more drugs can help. Otherwise, just use coffee.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/mhd-hbd  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
 * URL: http://archiveofourown.org/works/3808279/chapters/12534686
-* Score: 8
+* Score: 7
 
 * Created: 2015-12-14T14:56:13
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/kais2** [+3] *
+> **u/kais2** [+3]  (5 hours later)
 > 
 > I read through the whole thing on Friday; I really enjoyed it.
-> Keep up the good work, I'm excited to see where this goes.
 > 
+> Keep up the good work, I'm excited to see where this goes.
 
->> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (a day later)
 >> 
 >> :D
->> 
 
 ---
 

@@ -30,60 +30,55 @@ And how in the world does it make any business sense to keep that technology sec
 
 ### Comments:
 
-> **u/None** [+4] *
+> **u/None** [+5]  (16 hours later)
 > 
 > This is very common in (stupid) sci-fi. The author comes up with this cool plot that requires certain technology. They then stop thinking about the real implications of their technology and just write the plot they wanted in the first place.
-> Just look at In Time for another example. They can extend someone's healthspan indefinitely and all they use it for is oppressing the masses. This might not be completely unrealistic, but it's probably the most boring plot you could write with that premise.
 > 
+> Just look at In Time for another example. They can extend someone's healthspan indefinitely and all they use it for is oppressing the masses. This might not be completely unrealistic, but it's probably the most boring plot you could write with that premise.
 
->> **u/khafra** [+4] *
+>> **u/khafra** [+4]  (2 days later)
 >> 
 >> Yup, good Speculative Fiction makes only so large a tweak to the real world that the author can explore the truly interesting consequences of it. Bad SF is a normal adventure story or romance or whatever with a shiny setting, and a MacGuffin that happens to have a technobabble name.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (3 days later)
 >> 
 >> > Just look at In Time for another example. They can extend someone's healthspan indefinitely and all they use it for is oppressing the masses. This might not be completely unrealistic, but it's probably the most boring plot you could write with that premise.
->> That was technically a Marxist author tract.  Badly-done scifi, excellently done metaphor for the intended point.  Not sure what to think.
 >> 
+>> That was technically a Marxist author tract.  Badly-done scifi, excellently done metaphor for the intended point.  Not sure what to think.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (3 days later)
 >>> 
 >>> I personally found the metaphor a bit too on the nose. On the other hand, I was constantly screaming: "IF YOU HAVE THAT TECHNOLOGY, WHY DON'T YOU USE TO IMPROVE EVERYONE'S LIFE." so it did reach its desired effect.
->>> I've headcanoned that other parts of the world makes basically everyone immortal and has started space colonization.
 >>> 
+>>> I've headcanoned that other parts of the world makes basically everyone immortal and has started space colonization.
 
-> **u/Bobertus** [+3] *
+> **u/Bobertus** [+3]  (an hour later)
 > 
 > > Every password you had at the time of having your memory read is now suspect.
-> Now I feel really smart about not remembering my passowrds (I write them down).
 > 
+> Now I feel really smart about not remembering my passowrds (I write them down).
 
->> **u/Jon_Freebird** [+2] *
+>> **u/Jon_Freebird** [+2]  (19 days later)
 >> 
 >> That still wouldn't help in this scenario, if you've ever looked at your password in written format they'd still be able to pick it out of the visual record.
->> Unless of course that was sarcasm in which case, carry on.
 >> 
+>> Unless of course that was sarcasm in which case, carry on.
 
-> **u/Evilness42** [+3]  *And even myth is long forgotten...**
+> **u/Evilness42** [+3]  *And even myth is long forgotten...* (an hour later)
 > 
 > Always remember: Any character that's supposed to be smarter than the author is inevitably going to do something that seems stupid/irrational.
-> 
 
->> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.* (15 hours later)
 >> 
 >> That's kind of a misapplication here. This is more a case of the writer's overreaching for a plot-device to support their cloning-based plot.
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (3 days later)
 > 
 > This described a lot of how I felt after watching *Robocop*.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 months later)
 > 
 > Good question. The potential for misuse is staggering. If this kind of thing were possible, though, I'd make use of it. A new body would be great.
-> 
 
 ---
 

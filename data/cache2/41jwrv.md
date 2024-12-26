@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.reddit.com/r/rational/comments/41jwrv/bstrthf_name_for_the_new_novel/
-* Score: 9
+* Score: 8
 
 * Created: 2016-01-18T17:23:25
 
@@ -28,73 +28,63 @@ His daughter, Jess, had snuck out the night of the fire to win money at the mech
 
 ### Comments:
 
-> **u/JackStargazer** [+12]  *Primordial Apologist**
+> **u/JackStargazer** [+11]  *Primordial Apologist* (10 minutes later)
 > 
 > * "The Tinker's Daughter" - If the work focuses more on Jess
 > * "The Murder of Worlds"
 > * "Thinking Machine" - If the work focuses more on Rob
 > * "The Tinker's Legacy"
 > * "Erudition" - If the book ends/results in FOOM.
-> "The Tinker's Daughter" is my favorite of these. Fits fantasy naming schema in my head, and makes you want to read the blurb.
 > 
+> "The Tinker's Daughter" is my favorite of these. Fits fantasy naming schema in my head, and makes you want to read the blurb.
 
->> **u/ulyssessword** [+6] *
+>> **u/ulyssessword** [+5]  (a day later)
 >> 
 >> Alternatively "The Tinker's Child" if you want more ambiguity, or "The Tinker's Children" for something a bit different.
->> 
 
->>> **u/eaglejarl** [+2] *
+>>> **u/eaglejarl** [+2]  (a day later)
 >>> 
 >>> Ooh, nice touch.  Thank you.
->>> 
 
->>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (a day later)
 >>> 
 >>> Seconding "The Tinker's Children". Being inclusive of both Jess and Rob works really well.
->>> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (17 minutes later)
 >> 
 >> Mine too.  I'm going to wait before saying "Eureka!  That's it!" to see if any other suggestions come in, but it fits really well.  Thank you.
->> 
 
->>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>> **u/JackStargazer** [+1]  *Primordial Apologist* (30 minutes later)
 >>> 
 >>> No problem. Sounds like an interesting story, and I've enjoyed a lot of what you've written. Keep it up!
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (a day later)
 >>> 
 >>> It would make a good title to frame the relationship between them, but it's pretty long to fit on a book cover.
->>> 
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (3 hours later)
 > 
 > "The Entropy Engine" is my submission. Or "The Golem, Yet Unformed" (which is an adaptation of [Tehillim 139:16](https://www.biblegateway.com/passage/?search=Tehillim+139%3A16&version=OJB)).
-> I think my general preference for titles is that they're evocative, have a double meaning, and don't have too many conflicts on Google. But matching tone is also important, so I doubt my suggestions are what you're looking for.
 > 
+> I think my general preference for titles is that they're evocative, have a double meaning, and don't have too many conflicts on Google. But matching tone is also important, so I doubt my suggestions are what you're looking for.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (3 hours later)
 >> 
 >> Good ideas but yes, a bit more highbrow than I was looking for.  I don't think most people would get it.
->> 
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (3 hours later)
 > 
 > "I t~~h~~ink, therefore I am" - silly title that popped into my head. The h, in case it's not clear enough, would be marked out but visible in some way.
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (3 hours later)
 >> 
 >> Cute. :>
->> 
 
-> **u/TennisMaster2** [+2] *
+> **u/TennisMaster2** [+2]  (6 hours later)
 > 
 > * ***Mana Master*** | ***Mana Master's Sister*** | ***Sister of Mana***
 > * *Harnessed Change* | *The Harnesser's Change*
@@ -106,30 +96,29 @@ His daughter, Jess, had snuck out the night of the fire to win money at the mech
 > * *The Wizard-Tinker's Children* | *Children of the Tinkerwizard*
 > * *Agents of Mana*
 > * ***The Magical Potential of Knowledge***
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (a day later)
 >> 
 >> Wow, that's a lot of ideas, thank you.  I like 'The Tinker's Last Wonder'.
->> 
 
-> **u/DocFuture** [+2] *
+> **u/DocFuture** [+2]  (7 hours later)
 > 
 > "The Changesmith's Daughter"
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (a day later)
 >> 
 >> Hm.  I like the term 'changesmith'; I'll look around to see where it fits as an element of the setting.
->> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (7 hours later)
 > 
 > I have a strong preference for unique single word titles in the style of wildbow's naming scheme with *Worm*, *Pact*, and *Twig*. But thinking of a single good word to summarize your book which hasn't already been used before is hard.
+> 
 > * Golem
 > * Tinker (Wen Spencer already used this one)
 > * Clayshaper, Claytinker, Clayworker, Clayautomata or some other material+builder word for the title
+> 
 > But there are a few phrase-style titles I can come up with.
+> 
 > * Clay Machine
 > * Clay Fighter
 > * Clay and Magic
@@ -139,21 +128,20 @@ His daughter, Jess, had snuck out the night of the fire to win money at the mech
 > * My Friend is Made of Clay
 > * The Clayshaper's Daughter
 > * Golem with Feet of Clay (references [feet of clay](https://en.wikipedia.org/wiki/Feet_of_clay) and while it doesn't work with your summary, I was wondering if it fits any particular characterization of Jess or Rob)
-> Most of my title ideas basically can be summed up as combining the material of the golem (guessed to be clay) with some interaction between Jess and Rob.
-> If you liked "The Clayshaper's Daughter" and go with it, credit and the free book should go to JackStargazer since I was just trying to improve on "The Tinker's Daughter".
 > 
+> Most of my title ideas basically can be summed up as combining the material of the golem (guessed to be clay) with some interaction between Jess and Rob.
+> 
+> If you liked "The Clayshaper's Daughter" and go with it, credit and the free book should go to JackStargazer since I was just trying to improve on "The Tinker's Daughter".
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (13 hours later)
 >> 
 >> He's actually made of metal, I'm afraid.  'magesteel' (basically, enchanted steel) to be precise.  I like the term 'clayshaper', though.  I might build a specialist wizard character around the term...maybe an terramancer who got caught in a rogue mana surge while he was earthwalking; he became a sapient clay statue, retaining all his magical powers but now bearing the form of clay. His body is protean as long as he keeps himself from drying out.
->> 
 
-> **u/recursiveAI** [+1] *
+> **u/recursiveAI** [+1]  (a day later)
 > 
 > "A Girl and Her Golem" 
-
-> "Fatal Heuristic"
 > 
+> "Fatal Heuristic"
 
 ---
 

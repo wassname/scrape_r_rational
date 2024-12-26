@@ -16,21 +16,18 @@ I think it was probably a blog? I realize that's like saying I think it was a pa
 
 ### Comments:
 
-> **u/rineSample** [+9] *
+> **u/rineSample** [+7]  (12 minutes later)
 > 
 > *...A Song of Ice and Fire?*
-> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (18 minutes later)
 >> 
 >> Ok, no.
 >> A semi recent post to this thread. And definitely not a dead tree book.
->> 
 
-> **u/Aretii** [+2]  *Cultist of Cthugha**
+> **u/Aretii** [+2]  *Cultist of Cthugha* (6 hours later)
 > 
 > You could have just looked down the front page of the sub. I grabbed the first NSFW-tagged thing and it seems what you were after: https://www.reddit.com/r/rational/comments/3dehai/i_do_not_trust_humans_theyll_betray_you_without/
-> 
 
 ---
 

@@ -36,302 +36,281 @@ Edit again: Major update in the quest!
 
 ### Comments:
 
-> **u/rafaelhr** [+10] *
+> **u/rafaelhr** [+9]  (9 hours later)
 > 
 > One of the most important aspects of magic in **Magic** (IMO) is how the color pie (the differences in mechanics and philosophy between the five colors) interacts with magic users. 
-> I don't know if, for example, your natural affinity to blue magic makes you more of a blue character, or if being a blue character enables learning bue magic. But the correlation between personality and acccess to specific colors is very much there.
 > 
+> I don't know if, for example, your natural affinity to blue magic makes you more of a blue character, or if being a blue character enables learning bue magic. But the correlation between personality and acccess to specific colors is very much there.
 
->> **u/Gavinfoxx** [+1] *
+>> **u/Gavinfoxx** [+1]  (a day later)
 >> 
 >> I've got some of my own thoughts about that, but I'm more interested in the 'character enables learning' angle.  Could you go into detail about that?
->> 
 
->>> **u/rafaelhr** [+2] *
+>>> **u/rafaelhr** [+2]  (3 days later)
 >>> 
 >>> That option is what I think is most likely as well. That would mean that learning, for example, red magic, requires that the person frames his/her thoughts in a red way, like prioritizing short-term goals instead of long-term ones, or using one's emotion to fuel rage, passion, or happiness and use these emotions as conduits for the spellcasting. 
->>> That's why I think there are enemy colors and allied colors. It's easier for a blue mage to think in a way that represents order, structure and morality (White's characteristics) than it is to reframe your mind to stop making detailed plans and think only "on the moment" (Red's characteristic). So, it's easier to learn allied-color magic than it is enemy-color magic. One must be good at reframing their way of thinking/feeling to adapt to new colors. 
->>> And that doesn't even take into account intra-color magical styles. A Beastcaller (a mage who controls and summons beasts, *a la* Garruk) has a different way of thinking from a Nurturer (a mage who encourages and hastens natural growth in plants and animals), though their way of thinking is much closer than the way of an artificer. 
->>> I've been thinking a lot about the precise mechanics of magic in **Magic** for at least 3 years (when I started playing), so, I have some pretty strong opinions on it, hahaha. Feel free to prod my mind for anything you'd like.
 >>> 
+>>> That's why I think there are enemy colors and allied colors. It's easier for a blue mage to think in a way that represents order, structure and morality (White's characteristics) than it is to reframe your mind to stop making detailed plans and think only "on the moment" (Red's characteristic). So, it's easier to learn allied-color magic than it is enemy-color magic. One must be good at reframing their way of thinking/feeling to adapt to new colors. 
+>>> 
+>>> And that doesn't even take into account intra-color magical styles. A Beastcaller (a mage who controls and summons beasts, *a la* Garruk) has a different way of thinking from a Nurturer (a mage who encourages and hastens natural growth in plants and animals), though their way of thinking is much closer than the way of an artificer. 
+>>> 
+>>> I've been thinking a lot about the precise mechanics of magic in **Magic** for at least 3 years (when I started playing), so, I have some pretty strong opinions on it, hahaha. Feel free to prod my mind for anything you'd like.
 
-> **u/mhd-hbd** [+7]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+5]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (5 hours later)
 > 
 > Lore-wise, I might be wrong, but here's a list of things to consider:
-> * Planeswalker-ness doesn't really come with any other upgrades. It doesn't make you smarter, or better at magic, or more resilient, it just gives you the GURPS 4e *Warper (World) [100]* advantage.
-> * Mana is not discrete in the way portrayed by the card game. Mana ought to be physics-like. Mana Field Theory?
-> * Anyone could in principle cast any sorcery/instant that does not involve summoning creatures.
-> * An open question is whether to accept the post-mending summoning mechanic (turning archetypes real) or the pre-mending summoning mechanic (essentially D&D *Gate* spell.)
 > 
+> * Planeswalker-ness doesn't really come with any other upgrades. It doesn't make you smarter, or better at magic, or more resilient, it just gives you the GURPS 4e *Warper (World) [100]* advantage.
+> 
+> * Mana is not discrete in the way portrayed by the card game. Mana ought to be physics-like. Mana Field Theory?
+> 
+> * Anyone could in principle cast any sorcery/instant that does not involve summoning creatures.
+> 
+> * An open question is whether to accept the post-mending summoning mechanic (turning archetypes real) or the pre-mending summoning mechanic (essentially D&D *Gate* spell.)
 
->> **u/Salivanth** [+5] *
+>> **u/Salivanth** [+6]  (6 hours later)
 >> 
 >> Lore-wise, being a planeswalker means that with enough experience, you can be a better mage than any non-planeswalker.
->> Regular mages are limited to the mana and spells of a single world. Planeswalkers can draw from dozens. However, this isn't particularly relevant when you know little to no magic yet.
 >> 
+>> Regular mages are limited to the mana and spells of a single world. Planeswalkers can draw from dozens. However, this isn't particularly relevant when you know little to no magic yet.
 
->> **u/rafaelhr** [+5] *
+>> **u/rafaelhr** [+5]  (9 hours later)
 >> 
 >> IIRC, the planeswalker spark gives you some advantage in magical skill. That's why Jace, being so young, can still be considered one of the best mindmages of Ravnica. If you look at his early history, he was one of the best mindmages of his homeplane (Vryn) as well, and he was still a child. He managed to defeat an ancient sphinx in a mental battle (he lost most of his memories, but the sphinx forgot *how to breathe*.) The same can be said for every planeswalker we encounter on the lore. All of them were greatly talented in their fields and more powerful than their peers. I guess it's safe to assume that it's not just coincidence.
->> Also, your last point is crucial to the development of the quest. Summoning an aetheric copy of something is vastly different from summoning a specific something from somewhere. Because there's the conundrum of "how can two planeswalkers both summon the same legendary creature?" or "Why does the summoned creature obey the planeswalker's orders?"
 >> 
+>> Also, your last point is crucial to the development of the quest. Summoning an aetheric copy of something is vastly different from summoning a specific something from somewhere. Because there's the conundrum of "how can two planeswalkers both summon the same legendary creature?" or "Why does the summoned creature obey the planeswalker's orders?"
 
->>> **u/Caois** [+1] *
+>>> **u/Caois** [+1]  (4 days later)
 >>> 
 >>> where do you find this lore, i don't play mtg anymore but i'd love to read this stuff
->>> 
 
->>>> **u/rafaelhr** [+1] *
+>>>> **u/rafaelhr** [+1]  (4 days later)
 >>>> 
 >>>> They post stories every wednesday on their main site if you want to stay up to date with the recent lore, and also the MTG Salvation wiki has many articles regarding the older stuff. Mostly I just search online for whatever I'm interested at the moment.
->>>> 
 
->> **u/gabbalis** [+2] *
+>> **u/gabbalis** [+2]  (12 hours later)
 >> 
 >> >An open question is whether to accept the post-mending summoning mechanic (turning archetypes real) or the pre-mending summoning mechanic (essentially D&D Gate spell.)
->> Well, Do any of the planeswalkers we typically see even do summoning? Jace 'summons' illusions in stories. I think Garruk just calls actual beasts that happen to be around, Sorin makes vampires the hard way. Do story walkers even typically do summoning the same way player walkers do?
 >> 
+>> Well, Do any of the planeswalkers we typically see even do summoning? Jace 'summons' illusions in stories. I think Garruk just calls actual beasts that happen to be around, Sorin makes vampires the hard way. Do story walkers even typically do summoning the same way player walkers do?
 
->>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (21 hours later)
 >>> 
 >>> The players are uber-planeswalkers? 
->>> (I mean, they're able to summon other planeswalkers, right?)
 >>> 
+>>> (I mean, they're able to summon other planeswalkers, right?)
 
->>>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (23 hours later)
 >>>> 
 >>>> > (I mean, they're able to summon other planeswalkers, right?)
->>>> It's more of a business relationship between equals than the "summon, mind control, send to their death" of normal creatures.
->>>> Modern storyline planeswalkers vary considerably in power. The spellcaster types seem to be at least as powerful and versatile as the average 60-cards Standard deck, albeit with fewer creatures (Liliana excepted). Others are just buff warriors with a few tricks up their sleeves.
 >>>> 
+>>>> It's more of a business relationship between equals than the "summon, mind control, send to their death" of normal creatures.
+>>>> 
+>>>> Modern storyline planeswalkers vary considerably in power. The spellcaster types seem to be at least as powerful and versatile as the average 60-cards Standard deck, albeit with fewer creatures (Liliana excepted). Others are just buff warriors with a few tricks up their sleeves.
 
->>>> **u/gabbalis** [+2] *
+>>>> **u/gabbalis** [+2]  (21 hours later)
 >>>> 
 >>>> Oh they definitely are. When Planeswalker Nicol Bolas was spoiled they came out and said that we're assumed to be at least in his league or higher, and he's basically the MTG big bad.
->>>> 
 
->>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (22 hours later)
 >>>>> 
 >>>>> Maybe "summon lots of critters" is something that most planeswalkers can't do, then.
->>>>> 
 
->>> **u/rafaelhr** [+1] *
+>>> **u/rafaelhr** [+1]  (3 days later)
 >>> 
 >>> I guess it comes down to the personal magic style of each planeswalker. Garruk's thing is about summoning beasts, that's why most of his cards make tokens.
->>> 
 
-> **u/FuguofAnotherWorld** [+7]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+6]  *Roll the Dice on Fate* (13 hours later)
 > 
 > If you're going to make it into a quest, I would suggest against explicitly making it an SI. Many people play quests to immerse themselves in the character as a form of escapism, and when that character is explicitly someone else that becomes harder. Especially when that someone else is in fact the QM. Double especially since many people will feel like they can't make proper criticism since they would be indirectly criticising the QM which is a rather dangerous thing for any player to do. Not all QMs are reasonable about such things after all, and it is hard to know which side of the line a certain QM lies on before it is too late.
-> To be clear, I am not suggesting actually changing the character in any way; make them be as SI as you want, but I suggest not actually telling/reminding players that they're an SI.
 > 
+> To be clear, I am not suggesting actually changing the character in any way; make them be as SI as you want, but I suggest not actually telling/reminding players that they're an SI.
 
->> **u/Gavinfoxx** [+1] *
+>> **u/Gavinfoxx** [+1]  (18 hours later)
 >> 
 >> It isn't exactly an SI; this character is not me, but he resembles me in several important ways, as I describe in the OP of the quest. It hasn't seemed to slow down anyone's answers any, that's for sure!
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (a day later)
 >>> 
 >>> If he isn't an SI then don't mention the term SI. Plenty of characters in fiction share one of two characteristics with their authors, but they don't feel the need to label that. As soon as the term is mentioned everyone will assume that it's the case.
->>> 
 
->>>> **u/Gavinfoxx** [+1] *
+>>>> **u/Gavinfoxx** [+1]  (a day later)
 >>>> 
 >>>> Well I won't mention it again, but what's done is done so far.
->>>> 
 
->>>> **u/Gavinfoxx** [+1] *
+>>>> **u/Gavinfoxx** [+1]  (6 days later)
 >>>> 
 >>>> I'd love to have you respond to the last two updates!
->>>> 
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (7 days later)
 >>>>> 
 >>>>> I'll be glad to as soon as I dig out from under my current TODO list. Give it a few days.
->>>>> 
 
-> **u/Gavinfoxx** [+3] *
+> **u/Gavinfoxx** [+3]  (a day later)
 > 
 > In the second post, I have had difficulty as an author getting across exactly how fish out of water the character is with wilderness survival and finding food, and how hard it is to sustain yourself in the wild and take in more calories than you burn if you have absolutely no idea what you are doing, and that you have to be very careful and make a really hard decision because of that.  What could I do as an author to get that across, or am I missing something obvious?
-> 
 
->> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>> **u/alexanderwales** [+7]  *Time flies like an arrow* (a day later)
 >> 
 >> I don't know how you'd do it in a quest, but typically you'd show a series of failures.
->> The main character thinks "I need food", decides "I'll catch a rabbit", then starts building a trap. But he doesn't know how to build a trap, so rather than just outright saying that, you want to describe his pitiful attempts to make some sort of collapsing rock trap he'd once seen Wily Coyote use in a cartoon, which is difficult because he has to improvise everything and doesn't really know what sort of bait to use for a rabbit. He's getting hungrier the whole time he's doing this.
->> Eventually, after the rock trap fails to get anything, he goes looking for rabbits, and eats some leafy greens along the way in the hopes of staving off hunger. This makes him quite sick, but he eventually does find something that he thinks is probably a path made by animals, and sets up a rock trap there to wait.
->> As he's approaching true starvation, he somehow, by some miracle, catches a rabbit, only the rock falls on the rabbit's back legs, so he hears [this horrible, almost human screaming](https://www.youtube.com/watch?v=O-3z-TjnqB4) and has to kill the rabbit by snapping its neck, only he doesn't quite know the right way to do that, so spends a lot of time fumbling around with it before deciding to just bash the rabbit's head in.
->> Next comes starting a fire, gutting the rabbit, etc.
->> But you get the point; if you want to express that someone is over their head, show them being over their head. Especially good if you show a lot of stuff that seems reasonable if you've never done anything with wilderness survival.
->> Edit: You're probably not looking for any reading recommendations, but I really enjoyed "Drop City" by T.C. Boyle, which is about a bunch of 1970's free spirits who move their commune from Colorado to Alaska where they hope to live off the land.
 >> 
+>> The main character thinks "I need food", decides "I'll catch a rabbit", then starts building a trap. But he doesn't know how to build a trap, so rather than just outright saying that, you want to describe his pitiful attempts to make some sort of collapsing rock trap he'd once seen Wily Coyote use in a cartoon, which is difficult because he has to improvise everything and doesn't really know what sort of bait to use for a rabbit. He's getting hungrier the whole time he's doing this.
+>> 
+>> Eventually, after the rock trap fails to get anything, he goes looking for rabbits, and eats some leafy greens along the way in the hopes of staving off hunger. This makes him quite sick, but he eventually does find something that he thinks is probably a path made by animals, and sets up a rock trap there to wait.
+>> 
+>> As he's approaching true starvation, he somehow, by some miracle, catches a rabbit, only the rock falls on the rabbit's back legs, so he hears [this horrible, almost human screaming](https://www.youtube.com/watch?v=O-3z-TjnqB4) and has to kill the rabbit by snapping its neck, only he doesn't quite know the right way to do that, so spends a lot of time fumbling around with it before deciding to just bash the rabbit's head in.
+>> 
+>> Next comes starting a fire, gutting the rabbit, etc.
+>> 
+>> But you get the point; if you want to express that someone is over their head, show them being over their head. Especially good if you show a lot of stuff that seems reasonable if you've never done anything with wilderness survival.
+>> 
+>> Edit: You're probably not looking for any reading recommendations, but I really enjoyed "Drop City" by T.C. Boyle, which is about a bunch of 1970's free spirits who move their commune from Colorado to Alaska where they hope to live off the land.
 
-> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (a day later)
 > 
 > Can planeswalkers take people with them when they planeswalk? And can planeswalkers bring people back to life? If so, why haven't any of the planeswalkers tried setting up an interplanar transportation system and advanced medical care to ascend non-planeswalkers to closer to their level of skill and experience?
-> 
 
->> **u/Gavinfoxx** [+2] *
+>> **u/Gavinfoxx** [+2]  (2 days later)
 >> 
 >> I don't think they can take people with them when they fully swap planes, by stepping into the Blind Eternities; only their Spark protects them.  But the lesser walks, around the same plane, which are just teleports... Those they can take people on. I think. Does anyone know if lore contradicts this?
->> 
 
->>> **u/rafaelhr** [+1] *
+>>> **u/rafaelhr** [+1]  (4 days later)
 >>> 
 >>> They can't actually. Their "teleportation" requires going through the Blind Eternities just the same as interplanar travel. Venser (who is now dead) was an exception to that because his magical style involved true  intraplanar teleportation, enabling him to take people and things with him.
->>> 
 
->>>> **u/Gavinfoxx** [+2] *
+>>>> **u/Gavinfoxx** [+2]  (4 days later)
 >>>> 
 >>>> What are some of the basic post mending Spark specific abilities that a Planeswalker should have?
->>>> 
 
->>>>> **u/rafaelhr** [+1] *
+>>>>> **u/rafaelhr** [+1]  (4 days later)
 >>>>> 
 >>>>> Basically:
->>>>> * Innate language comprehension
->>>>> * Significant resistance to injuries (both physical and mental)
->>>>> * Greater than average magical prowess
->>>>> * Ability to retain and utilize mana bonds with extra-planar lands
->>>>> * Ability to follow "aether trails" when other planeswalkers planeswalk (to allow a planeswalker to follow another between planes)
->>>>> * Resistance to phyrexian corruption (but not immunity)
->>>>> I guess there must be some other perks, but none that have been officially stated, afaik.
 >>>>> 
+>>>>> * Innate language comprehension
+>>>>> 
+>>>>> * Significant resistance to injuries (both physical and mental)
+>>>>> 
+>>>>> * Greater than average magical prowess
+>>>>> 
+>>>>> * Ability to retain and utilize mana bonds with extra-planar lands
+>>>>> 
+>>>>> * Ability to follow "aether trails" when other planeswalkers planeswalk (to allow a planeswalker to follow another between planes)
+>>>>> 
+>>>>> * Resistance to phyrexian corruption (but not immunity)
+>>>>> 
+>>>>> I guess there must be some other perks, but none that have been officially stated, afaik.
 
->>>>>> **u/Gavinfoxx** [+2] *
+>>>>>> **u/Gavinfoxx** [+2]  (4 days later)
 >>>>>> 
 >>>>>> Argh, that is incredibly hard to define.  What are some things they MIGHT have, when they have a little bit of mana of a given color on tap to do things with?
->>>>>> 
 
->>>>>>> **u/rafaelhr** [+1] *
+>>>>>>> **u/rafaelhr** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> The only use for mana is to cast known spells and use abilities of creatures/artifacts/enchantments. Planeswalking doesn't cost mana, only mental/physical fatigue.
->>>>>>> But, I'm not sure I get why those abilities are hard to define (I guess "*significant resistance to injuries*" and "*greater than average magical prowess*" are somewhat broad terms, but the rest are pretty straightfoward, and even those two can be determined simply as "more hp" and "faster magic learning". (Just like the character did last update, when he pulled a spell out of a mana well.)
 >>>>>>> 
+>>>>>>> But, I'm not sure I get why those abilities are hard to define (I guess "*significant resistance to injuries*" and "*greater than average magical prowess*" are somewhat broad terms, but the rest are pretty straightfoward, and even those two can be determined simply as "more hp" and "faster magic learning". (Just like the character did last update, when he pulled a spell out of a mana well.)
 
->>> **u/SpeculativeFiction** [+1] *
+>>> **u/SpeculativeFiction** [+1]  (6 days later)
 >>> 
 >>> I've seen a (fanfiction) MTG story get around this by using soulgems (after all, if things like clothing survive the blind eternities, a soul gem should), but this would require the ability to transfer someone into such an item, then back again.
->>> 
 
-> **u/rafaelhr** [+2] *
+> **u/rafaelhr** [+2]  (3 days later)
 > 
 > There's an interesting story set in the old days of Magic about an artificer, Feldon, who tries to learn multiple colors of magic to bring his wife back to life, and the story also touches on aspects about planeswalker summoning as well, give it a read if you can, it's beautifully written.
-> [Loran's Smile](http://magic.wizards.com/en/articles/archive/arcana/lorans-smile-2014-10-27)
 > 
+> [Loran's Smile](http://magic.wizards.com/en/articles/archive/arcana/lorans-smile-2014-10-27)
 
-> **u/Gavinfoxx** [+2] *
+> **u/Gavinfoxx** [+2]  (6 days later)
 > 
 > The quest has, um, kind of slowed down a lot, and I REALLY need some help with some particulars. Erk!
-> 
 
->> **u/rafaelhr** [+1] *
+>> **u/rafaelhr** [+1]  (7 days later)
 >> 
 >> Gavin, feel free to hit me up with anything you need.
->> 
 
->>> **u/Gavinfoxx** [+2] *
+>>> **u/Gavinfoxx** [+2]  (9 days later)
 >>> 
 >>> Well, just reply in detail to the latest, that would help!
->>> 
 
-> **u/Traiden04** [+1] *
+> **u/Traiden04** [+1]  (8 hours later)
 > 
 > I have near zero knowledge of MtG lore but working within an unknown rule set would be interesting. I only know I have some potential to do magic but don't know how to activate it. If the player is a planeswalker(The owner of a deck?) could putting forth the effort to make something to the concept of something could that effort be stored and then called forth again.
-> 
 
->> **u/Gavinfoxx** [+2] *
+>> **u/Gavinfoxx** [+2]  (8 hours later)
 >> 
 >> Not the owner of a deck analogy yet. What he knows of the lore is that he should be a super++ intuitive archwizard, able to connect with mana sources from land and draw ethereal copies of things and make them real by pumping mana into them.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > Planeswalkers are complete bullshit. It's part of the fun of reading them, but you have to remember to make the conflict in the story personal or mental. At least after you've graduated from the baby-walker stage, anyways. A planeswalkers can fuck off to the blind eternities whenever they want. Make sure to have reasons that they want to stay. Shadow-y conspiracies and puppet masters make for the best conflict in this particular brand of story because they just can't set loose creatures of legend on their asses to just dakka them to death. Nothing out-dakka's a competent planeswalker besides an older one.
-> 
 
->> **u/Gavinfoxx** [+1] *
+>> **u/Gavinfoxx** [+1]  (a day later)
 >> 
 >> I know they are complete bullshit, but keep in mind I specifically mentioned that some things are different than you might expect.
->> 
 
->> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >> 
 >> The top tier planeswalkers are complete bullshit, but lesser ones can still be challenged by a plane's most dangerous denizens, and the lowest are basically just mid-level D&D adventurers. 
->> They do have the ability to walk out of any fight though. This can to some extent be remedied with the proper stakes: yes, *you* can run away, but not the world / your parents / the ancient scrolls you haven't found yet.
 >> 
+>> They do have the ability to walk out of any fight though. This can to some extent be remedied with the proper stakes: yes, *you* can run away, but not the world / your parents / the ancient scrolls you haven't found yet.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> This is mildly off topic, but I've had a scene in my head for ages where a blue focused oldwalker pops up in Worm next to the Simurgh and then it just turns around a floats into space.
->>> 
 
->>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning* (3 days later)
 >>>> 
 >>>> HAH.
->>>> 
 
-> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning* (a day later)
 > 
 > There is a tremendous amount of nuance and subtlety in the color pie, in terms of philosophy and psychology (I've actually given lectures on it in rationality orgs, alongside lectures on Meyers-Briggs or Enneagram or other wrong-but-useful typing systems).  It's got a lot of power for informing character and motivation (I used it in my own entirely non-magical fiction, to clarify my thinking), and if you want to shortcut doing the research yourself, please ping me with questions and I'll happily go on [ad nauseum](http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174915&type=card).
-> 
 
->> **u/Gavinfoxx** [+1] *
+>> **u/Gavinfoxx** [+1]  (a day later)
 >> 
 >> I would love to take you up on that! Do you use Skype or similar?
->> 
 
->>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning* (a day later)
 >>> 
 >>> I do.  Skype: tk17studios, Hangouts: tk17studios@gmail.com
->>> ... I've got an insane 36 hours coming up, but would happily talk with you on Sunday, if you're free.  I'm on Pacific coast time, and could be grabbed any time between 10AM and 10PM.
 >>> 
+>>> ... I've got an insane 36 hours coming up, but would happily talk with you on Sunday, if you're free.  I'm on Pacific coast time, and could be grabbed any time between 10AM and 10PM.
 
->>>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture**
+>>>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (2 days later)
 >>>> 
 >>>> Any chance of making it a podcast?
->>>> 
 
->>>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning**
+>>>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >>>>> 
 >>>>> Think there's an audience larger than like two people?
->>>>> 
 
->>>>>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture**
+>>>>>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (2 days later)
 >>>>>> 
 >>>>>> Unno, sorry. I can only speak for myself. :)
->>>>>> 
 
->>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (3 days later)
 >>>>>>> 
 >>>>>>> Looks like it probably won't be a podcast, but since you raised the question, I'm going to record or take notes in some form, so that I can easily pass the same info on to others (e.g. you).
->>>>>>> 
 
->>>> **u/Gavinfoxx** [+1] *
+>>>> **u/Gavinfoxx** [+1]  (a day later)
 >>>> 
 >>>> Added, and request sent!
->>>> 
 
-> **u/Gavinfoxx** [+1] *
+> **u/Gavinfoxx** [+1]  (4 days later)
 > 
 > My third update is up! I also edited the original post of this thread with a new question.
-> 
 
-> **u/Gavinfoxx** [+1] *
+> **u/Gavinfoxx** [+1]  (5 days later)
 > 
 > Update four is up! Well, three and a half, really.  The last update is a mini one, more to help the people actually give useful answers for the what to do...
-> 
 
->> **u/Gavinfoxx** [+1] *
+>> **u/Gavinfoxx** [+1]  (6 days later)
 >> 
 >> I have another mini update up, and need your help!
->> 
 
-> **u/Gavinfoxx** [+1] *
+> **u/Gavinfoxx** [+1]  (9 days later)
 > 
 > So there's been a major update in the quest!
-> 
 
 ---
 

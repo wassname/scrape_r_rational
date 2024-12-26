@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (28 seconds later)
 > 
 > People seemed to enjoy the oneshot and asked for an extended version; the Muse was onboard with that idea, so here you go.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Yes_This_Is_God *
 * URL: https://practicalguidetoevil.wordpress.com/2017/12/27/chapter-54-wake/
-* Score: 48
+* Score: 46
 
 * Created: 2017-12-27T05:05:57
 
@@ -12,122 +12,136 @@
 
 ### Comments:
 
-> **u/TheEngineer923** [+8] *
+> **u/TheEngineer923** [+8]  (an hour later)
 > 
 > Hahaha! Yes! Parent kid tag team yeah! 
+> 
 > Warlock + Hierophant vs Diabolist + Akua's Father
 > Black Knight + Squire
-> Hierophant and Warlock are there to subvert all magical dangers. Black and Cat are there to kick ass and take Names. 
-> Oh YEAH! THIS WILL BE GOOD! 
-> ALSO FINAL CHAPTER FOR 2017. DESPAIR AND LAMENT FOR ITS ONLY NEXT YEAR WE MAY READ AGAIN!
 > 
+> Hierophant and Warlock are there to subvert all magical dangers. Black and Cat are there to kick ass and take Names. 
+> 
+> Oh YEAH! THIS WILL BE GOOD! 
+> 
+> ALSO FINAL CHAPTER FOR 2017. DESPAIR AND LAMENT FOR ITS ONLY NEXT YEAR WE MAY READ AGAIN!
 
->> **u/None** [+8] *
+>> **u/None** [+9]  (2 hours later)
 >> 
 >> Unfortunately I think it's been foreshadowed that Black is going to very soon become another obstacle for Cat to overcome. The way the three legions in this most recent battle pretty much have no loyalty to her and tons for Black, the way Black is "breaking down" or w/e and thus may be willing to sacrifice Callowans in a way that Cat will feel obligated to oppose, and the way Malicia has apparently been trying to replace Black with Cat for a while now all seem to point to an unhappy reunion as being likely. 
->> Good guys get to fight with their dads and take up their mantles when they fall in the final confrontation with evil. Bad guys get dads who don't actually view their apprentices as anything other than a means to an end.
 >> 
+>> Good guys get to fight with their dads and take up their mantles when they fall in the final confrontation with evil. Bad guys get dads who don't actually view their apprentices as anything other than a means to an end.
 
->>> **u/TheEngineer923** [+7] *
+>>> **u/TheEngineer923** [+6]  (5 hours later)
 >>> 
 >>> Perhaps... However it's not uncommon for the Knights to fight alongside their Squires. And I really doubt Black would not assist Cat here. Remember the longer they dick around with Akua the higher the chance that Cordelia decides to join the fight. 
->>> Remember it was Malicia who said that Black is dangerous to be around now to Cat. I take EVERYTHING that woman says with an aircraft carrier worth of the salt. 
->>> From what I saw of Black's thought processes at the conclusion of his fight with White, after he learned of Sabah's fate, was that he shoved everything in a box and cast the box into the cold oblivion because such sentimental feelings are useless to him. He's cultivated that personality for a couple of decades at a conservative  estimate. He's not likely to "forget" it now. 
->>> I assign EXTREMELY low probability mass to the hypothesis that his behaviour is uncalculated.
 >>> 
+>>> Remember it was Malicia who said that Black is dangerous to be around now to Cat. I take EVERYTHING that woman says with an aircraft carrier worth of the salt. 
+>>> 
+>>> From what I saw of Black's thought processes at the conclusion of his fight with White, after he learned of Sabah's fate, was that he shoved everything in a box and cast the box into the cold oblivion because such sentimental feelings are useless to him. He's cultivated that personality for a couple of decades at a conservative  estimate. He's not likely to "forget" it now. 
+>>> 
+>>> I assign EXTREMELY low probability mass to the hypothesis that his behaviour is uncalculated.
 
->>>> **u/GeeJo** [+10]  *Custom Flair**
+>>>> **u/GeeJo** [+9]  *Custom Flair* (10 hours later)
 >>>> 
 >>>> Oh, I agree he'll remain calculated. The problem is as follows:
->>>> Cat's arc throughout this book has been coming to terms with the idea of 'sacrifice for a greater good'. It started with Kilian, went on to others forcing her hand and the loss of men, then Nauk, and now her being personally willing to throw away the lives of her men for an advantage. She's becoming steadily more and more accepting of the necessity. 
->>>> There's a capstone to that kind of arc, though, where she encounters the *actual* limits to what she can accept (rather than the instinctive 'icky!' response that led her to breaking up with her lover at the start of the book). She sets her line in the sand and accepts the consequences of not passing that line.
->>>> If Black's shut-down-emotions lead him to full-on "HARD MAN MAKING HARD DECISION", he's going to be the one that forces her up against that line. Maybe it'll be blood sacrifice of the Callowans, maybe it'll be something else. But there'll come a point during the upcoming conflict where the two disagree. Forcefully. And since neither will be emotionally capable of backing down at that point, it's likely only one of them is going to walk away from that.
 >>>> 
+>>>> Cat's arc throughout this book has been coming to terms with the idea of 'sacrifice for a greater good'. It started with Kilian, went on to others forcing her hand and the loss of men, then Nauk, and now her being personally willing to throw away the lives of her men for an advantage. She's becoming steadily more and more accepting of the necessity. 
+>>>> 
+>>>> There's a capstone to that kind of arc, though, where she encounters the *actual* limits to what she can accept (rather than the instinctive 'icky!' response that led her to breaking up with her lover at the start of the book). She sets her line in the sand and accepts the consequences of not passing that line.
+>>>> 
+>>>> If Black's shut-down-emotions lead him to full-on "HARD MAN MAKING HARD DECISION", he's going to be the one that forces her up against that line. Maybe it'll be blood sacrifice of the Callowans, maybe it'll be something else. But there'll come a point during the upcoming conflict where the two disagree. Forcefully. And since neither will be emotionally capable of backing down at that point, it's likely only one of them is going to walk away from that.
 
->>>>> **u/TheEngineer923** [+3] *
+>>>>> **u/TheEngineer923** [+3]  (14 hours later)
 >>>>> 
 >>>>> I concede your point. That is how it looks like it's going to go. 
->>>>> ...I'm still hoping for a subversion though.
 >>>>> 
+>>>>> ...I'm still hoping for a subversion though.
 
->>>>> **u/Schuano** [+3] *
+>>>>> **u/Schuano** [+3]  (a day later)
 >>>>> 
 >>>>> Black can back down if it's practical to do so.  
->>>>> Remember hpmor and voldemort's lecture about learning how to lose. 
->>>>> He doesn't give a rat's ass  about backing down if that gets him closer to his goals.
 >>>>> 
+>>>>> Remember hpmor and voldemort's lecture about learning how to lose. 
+>>>>> 
+>>>>> He doesn't give a rat's ass  about backing down if that gets him closer to his goals.
 
->>>>> **u/-main** [+1] *
+>>>>> **u/-main** [+1]  (19 hours later)
 >>>>> 
 >>>>> It's also traditional, possibly even part of the Name itself, that Black Knights are killed by their Squires. Back in book one Black says he intends to avoid that...
->>>>> 
 
->>> **u/sparr** [+3] *
+>>> **u/sparr** [+3]  (a day later)
 >>> 
 >>> Isn't Black *actively* trying to replace himself with Cat?
->>> 
 
-> **u/cyberdsaiyan** [+8] *
+> **u/cyberdsaiyan** [+7]  (7 minutes later)
 > 
 > I told y'all, it was a bait!
-> She's finally embraced the evil, in her deepest of hearts.
-> Edit: Oh shit he's back!
 > 
+> She's finally embraced the evil, in her deepest of hearts.
+> 
+> Edit: Oh shit he's back!
 
-> **u/Ardvarkeating101** [+8]  *Father of Learning**
+> **u/Ardvarkeating101** [+7]  *Father of Learning* (22 minutes later)
 > 
 > Hooray!  We find out what Black's up to now.  Maybe he's crazy?  Maybe the Empress was just fucking with her and he's fine?  Maybe he's sexing up Hye, who knows?
-> 
 
->> **u/TheEngineer923** [+1] *
+>> **u/TheEngineer923** [+1]  (5 hours later)
 >> 
 >> Yeah, Hye is dead. The Queen would not be alive otherwise.
->> 
 
->>> **u/haiku_fornification** [+7] *
+>>> **u/haiku_fornification** [+8]  (7 hours later)
 >>> 
 >>> Hye has left some of her prey alive before. What makes you think the Summer Queen is different?
->>> 
 
->>>> **u/TheEngineer923** [+1] *
+>>>> **u/TheEngineer923** [+1]  (10 hours later)
 >>>> 
 >>>> The Calamities are on the Way out to make way for the Woe. 
->>>> Their Era is done. It's time for the Woe to take center stage.
 >>>> 
+>>>> Their Era is done. It's time for the Woe to take center stage.
 
->>>>> **u/Yes_This_Is_God** [+2] *
+>>>>> **u/Yes_This_Is_God** [+2]  (a day later)
 >>>>> 
 >>>>> Depends if Ranger has successfully decoupled herself from the 'Calamity' title or not.
->>>>> I'm uncertain if she's still alive. It's possible she just gained a minor trophy from the Queen and left after that.
 >>>>> 
+>>>>> I'm uncertain if she's still alive. It's possible she just gained a minor trophy from the Queen and left after that.
 
->>>>>> **u/TheEngineer923** [+6] *
+>>>>>> **u/TheEngineer923** [+6]  (a day later)
 >>>>>> 
 >>>>>> That is true. But each member of the Calamities has a counterpart in the Woe. Most of the people in the Woe could be considered as direct successors to the Calamities. 
->>>>>> Archer embodies many of the traits of the Ranger, and her relationship to Cat has strong parallels with the one between Black and Ranger.  
->>>>>> Masego is also a watered down version of Warlock. Before Cat came along Masego had no interest in going adventuring and the chapter where he and Archer staked out the Summer Contingent near Liesse (I think, not sure about the location) showed that he is beginning to develop a strong camaraderie with Cat. 
->>>>>> Hakram is to Cat what Captain was to Black. He also doubles as Cat's scribe since Cat shamelessly shoves most paper pushing jobs onto him. 
->>>>>> Since we have no onscreen viewing of the relationship between Black and Assassin I can't draw parallels between Viviene and Cat. Suffice to say it should exist if only to complete the mirror. 
->>>>>> As I said, the Calamities had their time on the Stage. There is simply no more need for any of them and indeed, Black is actively working to ensure Cat succeeds him because in the Epilogue of Book 2, both he and Malicia confess that they are tired of all of this. 
->>>>>> The nail in the coffin is the fact that they are largely a villainous group. Villains don't die of old age, usually. The Dead King is undead so he doesn't count. 
->>>>>> Though Ranger may have survived the encounter with the Queen she HAS to be neutralized along with the Calamities because Black's plan requires it. And despite Cat being a veritable demi god she would DIE if the entire Calamities would show up to kill her because she had a hand in Black's death. 
->>>>>> Warlock's chapter and Cat's arc where she deals with the other claimants shows that a Name can only be transferred with the Death of the owner at the hands of a claimant/successor. So Cat must end Black's life if she is to claim his Name just like Black did with the previous Black Knight. Black WANTS her to claim his Name so he HAS to die at Cat's hands. 
->>>>>> Because for all their practical realism, all of the Calamities have one berserk button: harm to Black. 
->>>>>> They have to be dealt with. 
->>>>>> That is why Black seems "tilted", he's deliberately exploiting his pain at Captain's loss to Malicia, knowing full well she would tell Cat to sow the seeds of discord and tension that would culminate in Cat killing Black and taking his Name in the process.
 >>>>>> 
+>>>>>> Archer embodies many of the traits of the Ranger, and her relationship to Cat has strong parallels with the one between Black and Ranger.  
+>>>>>> 
+>>>>>> Masego is also a watered down version of Warlock. Before Cat came along Masego had no interest in going adventuring and the chapter where he and Archer staked out the Summer Contingent near Liesse (I think, not sure about the location) showed that he is beginning to develop a strong camaraderie with Cat. 
+>>>>>> 
+>>>>>> Hakram is to Cat what Captain was to Black. He also doubles as Cat's scribe since Cat shamelessly shoves most paper pushing jobs onto him. 
+>>>>>> 
+>>>>>> Since we have no onscreen viewing of the relationship between Black and Assassin I can't draw parallels between Viviene and Cat. Suffice to say it should exist if only to complete the mirror. 
+>>>>>> 
+>>>>>> As I said, the Calamities had their time on the Stage. There is simply no more need for any of them and indeed, Black is actively working to ensure Cat succeeds him because in the Epilogue of Book 2, both he and Malicia confess that they are tired of all of this. 
+>>>>>> 
+>>>>>> The nail in the coffin is the fact that they are largely a villainous group. Villains don't die of old age, usually. The Dead King is undead so he doesn't count. 
+>>>>>> 
+>>>>>> Though Ranger may have survived the encounter with the Queen she HAS to be neutralized along with the Calamities because Black's plan requires it. And despite Cat being a veritable demi god she would DIE if the entire Calamities would show up to kill her because she had a hand in Black's death. 
+>>>>>> 
+>>>>>> Warlock's chapter and Cat's arc where she deals with the other claimants shows that a Name can only be transferred with the Death of the owner at the hands of a claimant/successor. So Cat must end Black's life if she is to claim his Name just like Black did with the previous Black Knight. Black WANTS her to claim his Name so he HAS to die at Cat's hands. 
+>>>>>> 
+>>>>>> Because for all their practical realism, all of the Calamities have one berserk button: harm to Black. 
+>>>>>> 
+>>>>>> They have to be dealt with. 
+>>>>>> 
+>>>>>> That is why Black seems "tilted", he's deliberately exploiting his pain at Captain's loss to Malicia, knowing full well she would tell Cat to sow the seeds of discord and tension that would culminate in Cat killing Black and taking his Name in the process.
 
->>> **u/werafdsaew** [+6] *
+>>> **u/werafdsaew** [+7]  (12 hours later)
 >>> 
 >>> I doubt Hye is dead; not enough foreshadowing for that to have happened.
->>> 
 
-> **u/haiku_fornification** [+7] *
+> **u/haiku_fornification** [+8]  (7 hours later)
 > 
 > It was good to see some introspection on Cat's part. She's been on a moral high horse since the beginning and her hypocrisy was getting a bit grating though I feel like she went a bit too far in this chapter. 
-> As for Thief, running in alone as a Hero in a sacrificial mission against a much stronger opponent will surely play a role from a narrative point of view. I will eat my hat if she doesn't succeed by the skin of her teeth.
-> Next chapter will be super interesting. Black can go either way imo, though I'm leaning towards "reasonable but psychopathic". I don't think he'll sabotage himself by getting into conflict with Cat... unless it's part of her succession.
 > 
+> As for Thief, running in alone as a Hero in a sacrificial mission against a much stronger opponent will surely play a role from a narrative point of view. I will eat my hat if she doesn't succeed by the skin of her teeth.
+> 
+> Next chapter will be super interesting. Black can go either way imo, though I'm leaning towards "reasonable but psychopathic". I don't think he'll sabotage himself by getting into conflict with Cat... unless it's part of her succession.
 
 ---
 

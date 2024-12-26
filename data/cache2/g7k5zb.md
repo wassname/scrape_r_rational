@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (9 minutes later)
 > 
 > Top-level posts should pertain to rational *fiction*, not rationality in general.
-> Also a terrible title even if it *was* relevant.
 > 
+> Also a terrible title even if it *was* relevant.
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/themousehunter** [+1]  *Sunshine Regiment**
+> **u/themousehunter** [+1]  *Sunshine Regiment* (4 hours later)
 > 
 > Story of your Life is fantastic!
-> 
 
 ---
 

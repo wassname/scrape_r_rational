@@ -12,21 +12,19 @@ I've seen some discussion of the Bobiverse books here and thought it'd interest 
 
 ### Comments:
 
-> **u/Empiricist_or_not** [+4]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+4]  *Aspiring polite Hegemonizing swarm* (2 hours later)
 > 
 > (Preventative typo apologies: I'm on mobile) I found it entertaining popcorn book.  I gave it a half my attention first listen through today: it has some spots with poor pacing and there is a rather glaring strawman of anti-upload ideology repeated by more than a few characters, but overall if you've read the first two you will enjoy this one.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 days later)
 >> 
 >> Well, I can sort of see the reasoning behind the anti-upload side. It isn't you, it's a copy of you. The anti-replicant racism is similarly just regular old human tribal bullshit. 
->> Also most people are actually fairly illogical. Can't forget that.
 >> 
+>> Also most people are actually fairly illogical. Can't forget that.
 
-> **u/SanityDzn** [+2] *
+> **u/SanityDzn** [+2]  (4 days later)
 > 
 > It's not the final book in the series. He has multiple trilogies planned.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Ardvarkeating101  *Father of Learning**
 * URL: https://practicalguidetoevil.wordpress.com/2020/09/01/chapter-55-queens-pawn/
-* Score: 44
+* Score: 50
 
 * Created: 2020-09-01T23:18:42
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Ardvarkeating101** [+7]  *Father of Learning**
+> **u/Ardvarkeating101** [+8]  *Father of Learning* (22 seconds later)
 > 
 > [Extra Chapter!](https://practicalguidetoevil.wordpress.com/2020/09/01/malanza/)
-> 
 
 ---
 

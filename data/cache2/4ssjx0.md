@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/6425191/
-* Score: 10
+* Score: 11
 
 * Created: 2016-07-14T10:15:02
 
@@ -12,29 +12,29 @@
 
 ### Comments:
 
-> **u/blazinghand** [+5]  *Chaos Undivided**
+> **u/blazinghand** [+4]  *Chaos Undivided* (9 hours later)
 > 
 > I'm one of the two authors in this quest. I hadn't really considered whether it was rational, so it didn't occur to me to post it here. I see how it might fit the bill, though. Here's a quick intro:
-> National Spirit is a quest in which the players control an constructed intelligence made of magic a low-fantasy early middle ages / late antiquity setting. Magic operates on infrastructure rather than on individual skill, and during the height of the empire's power, a wizard was able to foresee its downfall. He began work on a magical spirit, the only one of its kind, that would protect and grow the empire. His successor, a more paranoid and cautious man, completed work on the spirit, laying in several restrictions to control its actions better.
-> Hilariously, the players immediately started plotting how able they are to smite their allies and end the succession crisis that way, or to grant powers to people and smite them later to get it back. I had to reply to a question with this:
-> > Ioannas was a paranoid guy and there are restrictions on what the National Spirit can do, especially regarding smiting legitimate rulers and loyal citizens. For the most part, you are constitutionally unable to break the law.
-> It'll be interesting to see how things go. This quest updates every Sunday. /u/EagleJarl gave me some advice on getting set up. Thanks!
 > 
+> National Spirit is a quest in which the players control an constructed intelligence made of magic a low-fantasy early middle ages / late antiquity setting. Magic operates on infrastructure rather than on individual skill, and during the height of the empire's power, a wizard was able to foresee its downfall. He began work on a magical spirit, the only one of its kind, that would protect and grow the empire. His successor, a more paranoid and cautious man, completed work on the spirit, laying in several restrictions to control its actions better.
+> 
+> Hilariously, the players immediately started plotting how able they are to smite their allies and end the succession crisis that way, or to grant powers to people and smite them later to get it back. I had to reply to a question with this:
+> 
+> > Ioannas was a paranoid guy and there are restrictions on what the National Spirit can do, especially regarding smiting legitimate rulers and loyal citizens. For the most part, you are constitutionally unable to break the law.
+> 
+> It'll be interesting to see how things go. This quest updates every Sunday. /u/EagleJarl gave me some advice on getting set up. Thanks!
 
->> **u/Absox** [+1]  *Iserlohn Fortress**
+>> **u/Absox** [+1]  *Iserlohn Fortress* (15 hours later)
 >> 
 >> So what exactly is a quest? From reading the thread, it seems to be a segmented story where readers vote on courses of action, but I don't know if there was something more to it.
->> 
 
->>> **u/eaglejarl** [+2] *
+>>> **u/eaglejarl** [+2]  (15 hours later)
 >>> 
 >>> That's pretty much it. The players vote on what the protagonist does.
->>> 
 
->>> **u/blazinghand** [+2]  *Chaos Undivided**
+>>> **u/blazinghand** [+2]  *Chaos Undivided* (15 hours later)
 >>> 
 >>> Basically, it's like D&D but instead of each player controlling a character, all the players jointly control a single character. This is usually done via voting. The character interacts with the rest of the world as written by the author, but character sheet generation and certain key decisions are up to the players. It's usually expected that the author use some kind of RPG system as a base to provide a framework for character generation and actions. Compared to D&D, there's a lot more storytelling and characterization coming from the author/DM/Quest Master, and much reduced RP by the player(s).
->>> 
 
 ---
 

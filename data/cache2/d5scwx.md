@@ -2,7 +2,7 @@
 
 * Author: u/thebishop8 *
 * URL: https://practicalguidetoevil.wordpress.com/2019/09/18/chapter-77-artless/
-* Score: 72
+* Score: 68
 
 * Created: 2019-09-18T04:04:26
 
@@ -12,80 +12,71 @@
 
 ### Comments:
 
-> **u/Ardvarkeating101** [+29]  *Father of Learning**
+> **u/Ardvarkeating101** [+28]  *Father of Learning* (13 minutes later)
 > 
 > Well that was... I can’t quite say gut-wrenching.  Difficult to watch?  Like a violent criminal being executed.  It was brutal and even though you might have thought it necessary or even enjoyable, *just*, before, now it just seems cruel.
-> 
 
->> **u/werafdsaew** [+9] *
+>> **u/werafdsaew** [+8]  (55 minutes later)
 >> 
 >> Considering the epigraph, Cordelia didn't tell a lie, yet her desperation isn't real.
->> 
 
->>> **u/JanusTheDoorman** [+20] *
+>>> **u/JanusTheDoorman** [+21]  (57 minutes later)
 >>> 
 >>> It's real, it's just that she's only displaying it because she knows its the most effective way to get Catherine to deal. Catherine can expect Cordelia to bow her head and beg for help as long as she needs to, and then promptly sell Catherine down the river as soon as the winds change.
->>> 
 
->>>> **u/anenymouse** [+8] *
+>>>> **u/anenymouse** [+9]  (an hour later)
 >>>> 
 >>>> But who's even left for Cordelia to sell Cat out too at this point?
->>>> 
 
->>>>> **u/Mountebank** [+8] *
+>>>>> **u/Mountebank** [+8]  (an hour later)
 >>>>> 
 >>>>> The Bard, but The Auger made sure that she couldn't easily approach Cordelia for the moment.
->>>>> 
 
->>>>>> **u/SuperFartmeister** [+1] *
+>>>>>> **u/SuperFartmeister** [+1]  (6 days later)
 >>>>>> 
 >>>>>> I didn't fully understand what the Augur did. Please explain?
->>>>>> 
 
->>>>> **u/JanusTheDoorman** [+4] *
+>>>>> **u/JanusTheDoorman** [+5]  (3 hours later)
 >>>>> 
 >>>>> Akua, Tariq, and Malicia come to mind first. Attempting to drive a wedge between Cat and Viv to prompt Viv to attempt a coup seems like something Cordelia would do. Similarly Kegan. Similarly Black, though less a coup in that case than familicide. Pumping Cat up to "worthy for Ranger to hunt" status which she's been flirting with ever since mantling Winter, and she'd immediately jump into if she killed/was seriously antagonistic toward Black.
->>>>> I kinda got the implication that Cordelia's twelve hours of "preparation" was really twelve hours of "desperately seeking any possible leverage to use against you and coming up empty."
 >>>>> 
+>>>>> I kinda got the implication that Cordelia's twelve hours of "preparation" was really twelve hours of "desperately seeking any possible leverage to use against you and coming up empty."
 
->>>>>> **u/anenymouse** [+8] *
+>>>>>> **u/anenymouse** [+9]  (4 hours later)
 >>>>>> 
 >>>>>> But what can Cordelia even offer to any of them that they would be willing to do more harm than they were already going to do? 
->>>>>> Well i guess Ubua might be able to jerry-rig a redemption/rebirth type thing out of the angel bits/hell egg/whatever she drudged up, Grey has been bound by his word and by his people's word to Cat's cause at least for the foreseeable future. And Malicia who i'm not sure can do much more to Cat that she wasn't already going to do. By that i mean Cordelia doesn't profit in any way from it.
->>>>>> If anything the big thing that Cordelia is going to be using against Cat at this point is her better nature, which if abused probably leads to the end of Procer anyway. I mean Cordelia's already at this point fucked up like she's the reason that the province that she was responsible is currrently overrun, and in terms of her duties as First Prince she's also lead her people right into a bigger war than the civil war she lead them out of.
 >>>>>> 
+>>>>>> Well i guess Ubua might be able to jerry-rig a redemption/rebirth type thing out of the angel bits/hell egg/whatever she drudged up, Grey has been bound by his word and by his people's word to Cat's cause at least for the foreseeable future. And Malicia who i'm not sure can do much more to Cat that she wasn't already going to do. By that i mean Cordelia doesn't profit in any way from it.
+>>>>>> 
+>>>>>> If anything the big thing that Cordelia is going to be using against Cat at this point is her better nature, which if abused probably leads to the end of Procer anyway. I mean Cordelia's already at this point fucked up like she's the reason that the province that she was responsible is currrently overrun, and in terms of her duties as First Prince she's also lead her people right into a bigger war than the civil war she lead them out of.
 
-> **u/Academic_Jellyfish** [+27] *
+> **u/Academic_Jellyfish** [+27]  (9 hours later)
 > 
 > >“Get up, Hasenbach,” I said. “You and I are going for a walk.”
-> They both have leg injuries.
 > 
+> They both have leg injuries.
 
->> **u/vimefer** [+7] *
+>> **u/vimefer** [+8]  (a day later)
 >> 
 >> "Let's go for a limp" does not quite have the same ring to it though.
->> 
 
-> **u/hzla00** [+21] *
+> **u/hzla00** [+19]  (3 hours later)
 > 
 > In case anyone wants a refresher on what happened the last time Catherine and Cordelia tried to negotiate. https://practicalguidetoevil.wordpress.com/2018/07/04/chapter-26-plunge/
-> 
 
-> **u/anenymouse** [+10] *
+> **u/anenymouse** [+11]  (53 minutes later)
 > 
 > Oh sweet vindication man i've been waiting for this moment and more for what feels like years. The humbling of those that were warned. I'll admit it brings to my mind the very beginning of the story of Cat standing at another arguably corrupt authority figure and giving them their just desserts. I hope it's just as sweet in the Tower.
-> 
 
-> **u/NZPIEFACE** [+4] *
+> **u/NZPIEFACE** [+4]  (3 hours later)
 > 
 > She has ringlets. How have I not noticed that.
-> 
 
-> **u/vimefer** [+3] *
+> **u/vimefer** [+3]  (a day later)
 > 
 > > “I expect that the moment Salia falls the Principate will end,” she said. “Southern principalities will secede and form alliances with each other and abroad, throwing the rest of us to the dogs. "
-> And if you beat back the Death King, they'll take advantage of the exhaustion, death tolls and debts incurred along to do just that anyway. Let's face it: Procer is finished already, it'll break up no matter what. Prepare for the aftermath of the breakup right away.
 > 
+> And if you beat back the Death King, they'll take advantage of the exhaustion, death tolls and debts incurred along to do just that anyway. Let's face it: Procer is finished already, it'll break up no matter what. Prepare for the aftermath of the breakup right away.
 
 ---
 

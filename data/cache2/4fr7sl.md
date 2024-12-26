@@ -16,10 +16,9 @@ I'm afraid I have no rational examples for this one, but would welcome some in t
 
 ### Comments:
 
-> **u/Sparkwitch** [+1] *
+> **u/Sparkwitch** [+1]  (15 hours later)
 > 
 > I find it interesting to compare Cat and Mouse to Spy vs. Spy. The latter isn't symmetric so much as there's a frequent shift of exactly which side is cat and which is mouse at any given moment. If they're smart, neither side ever allows themselves to be lured into a fair fight.
-> 
 
 ---
 

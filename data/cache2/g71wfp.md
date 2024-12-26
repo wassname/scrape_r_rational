@@ -2,7 +2,7 @@
 
 * Author: u/grokkingStuff *
 * URL: https://practicalguidetoevil.wordpress.com/2020/04/24/interlude-knock-them-down/
-* Score: 67
+* Score: 63
 
 * Created: 2020-04-24T04:28:19
 
@@ -12,60 +12,61 @@
 
 ### Comments:
 
-> **u/GeeJo** [+26]  *Custom Flair**
+> **u/GeeJo** [+24]  *Custom Flair* (6 hours later)
 > 
 > > She breathed out and opened her eyes, a starry sky sprawled above her.
-> > In and out, slowly. Unmistakably. She was still alive, though no longer Marguerite de Baillons. The Wandering Bard, the Keeper of Stories, closed her eyes and repressed the urge to scream until her voice went hoarse.
-> > “I did it all right,” she said. “And still? Still?”
-> > Her nails dug into her palms until they bled.
-> > “Fine,” she whispered. “Fine. The hard way it is, then, and on your heads be it.”
-> The Bard's latest suicide attempt fails even with the perfect narrative weight put behind it, even with the perfect successor lined up to take her place. So now it's time to upend the applecart and try taking down all of Creation.
 > 
+> > In and out, slowly. Unmistakably. She was still alive, though no longer Marguerite de Baillons. The Wandering Bard, the Keeper of Stories, closed her eyes and repressed the urge to scream until her voice went hoarse.
+> 
+> > “I did it all right,” she said. “And still? Still?”
+> 
+> > Her nails dug into her palms until they bled.
+> 
+> > “Fine,” she whispered. “Fine. The hard way it is, then, and on your heads be it.”
+> 
+> The Bard's latest suicide attempt fails even with the perfect narrative weight put behind it, even with the perfect successor lined up to take her place. So now it's time to upend the applecart and try taking down all of Creation.
 
->> **u/ironistkraken** [+3] *
+>> **u/ironistkraken** [+3]  (20 hours later)
 >> 
 >> Not only fighting the giant lich king but also the ultimate web weaver is what this series deserves for its ending.
->> 
 
->> **u/hayshed** [+2] *
+>> **u/hayshed** [+2]  (2 days later)
 >> 
 >> I always read the Bard as needing to destroy her Name to actually die, though I suppose another Name succeeding her's would also work - Is that what she was trying here?
->> 
 
-> **u/None** [+10] *
+> **u/None** [+9]  (5 hours later)
 > 
 > Meta narratively it's interesting that Cat ended things with rejecting the whole framework of the game they were playing. Ties into the theme of rejecting stories and constraining narratives
-> Reminds me of the ending of watchmen and War Games.
-> Does give rise to a problem with how to end the story on a satisfying way. How much can you make it about the protagonist rejecting stories while still having satisfying story beats
 > 
+> Reminds me of the ending of watchmen and War Games.
+> 
+> Does give rise to a problem with how to end the story on a satisfying way. How much can you make it about the protagonist rejecting stories while still having satisfying story beats
 
->> **u/Mountebank** [+10] *
+>> **u/Mountebank** [+7]  (9 hours later)
 >> 
 >> Cat rejected Bard’s game (the Tarot cards) by playing at a higher level, The Game of Creation: forcing Bard to make three mistakes so that narrative weight would allow Hierophant to hold her down while Cat knifed her, and in doing so interrupting Bard’s scheme.
->> 
 
->>> **u/JesradSeraph** [+3] *
+>>> **u/JesradSeraph** [+4]  (a day later)
 >>> 
 >>> Bard wanted out of the Game, and Cat beat her to it by getting out of the game even earlier :D
->>> But I wonder about Bard’s endgames overall. Most of the redditors on this sub would relish having her powers even in the specific context, and probably would shape Creation towards very long-term optimisation. The character we’re shown basically wants out, like she ran out of want and perspective long ago. Are there explicit constraints that make it impossible for the world to evolve, and force Bard to be stuck in a static world ?
->>> And if so... Is Cat’s adventure how the world fixes this ?
 >>> 
+>>> But I wonder about Bard’s endgames overall. Most of the redditors on this sub would relish having her powers even in the specific context, and probably would shape Creation towards very long-term optimisation. The character we’re shown basically wants out, like she ran out of want and perspective long ago. Are there explicit constraints that make it impossible for the world to evolve, and force Bard to be stuck in a static world ?
+>>> 
+>>> And if so... Is Cat’s adventure how the world fixes this ?
 
->> **u/ryujinmaru** [+1] *
+>> **u/ryujinmaru** [+1]  (2 days later)
 >> 
 >> i mean the form of the story being rejected by Cat is the one of "straightforward" good and evil along with the end of the Age of Wonders...
->> whatever new angle/story is replacing that as the overarching narrative will be how satisfying the ending is
 >> 
+>> whatever new angle/story is replacing that as the overarching narrative will be how satisfying the ending is
 
-> **u/EsquilaxM** [+6] *
+> **u/EsquilaxM** [+2]  (2 hours later)
 > 
 > So the empress tower and judgement has to do with Crumbling Hatchback and the red axe situation?
-> 
 
-> **u/Anderkent** [+4] *
+> **u/Anderkent** [+3]  (9 hours later)
 > 
 > Honestly I lost track of what's happening but it's entertaining.
-> 
 
 ---
 

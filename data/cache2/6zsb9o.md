@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://practicalguidetoevil.wordpress.com/2017/09/13/chapter-31-high-noon/
-* Score: 72
+* Score: 67
 
 * Created: 2017-09-13T04:17:16
 
@@ -12,273 +12,247 @@
 
 ### Comments:
 
-> **u/Hoactzins** [+18] *
+> **u/Hoactzins** [+21]  (56 minutes later)
 > 
 > Interesting. Hierophant seems like a neutral name to me, but I can't see Masego getting less... evil. 
-> Also, doesn't Hanno have a name in his archive for the Thief of Stars? Thief just stole an actual star. That's pretty sick.
 > 
+> Also, doesn't Hanno have a name in his archive for the Thief of Stars? Thief just stole an actual star. That's pretty sick.
 
->> **u/ricree** [+20] *
+>> **u/ricree** [+22]  (2 hours later)
 >> 
 >> "Vivisector of miracles" does seem something less than complete neutrality.
->> 
 
->>> **u/IgonnaBe3** [+5] *
+>>> **u/IgonnaBe3** [+4]  (15 hours later)
 >>> 
 >>> i had to actually look up the word and in my understanding vivisection means that its a surgical operation being done on a live animal. So i think its still kinda neutral he is just disecting miracles and showing how they work ? or smth...
->>> 
 
->>>> **u/Ibbot** [+3] *
+>>>> **u/Ibbot** [+4]  (a day later)
 >>>> 
 >>>> It's more the connotation - vivisection has historically been used on people as a method of torture, or simply to experiment on them.
->>>> 
 
->>>> **u/MoralRelativity** [+2] *
+>>>> **u/MoralRelativity** [+2]  (17 hours later)
 >>>> 
 >>>> Maybe taking apart miracles while they are happening so that he can rewrite them to do what he wants them to do?
->>>> 
 
->> **u/sparkc** [+12] *
+>> **u/sparkc** [+12]  (2 hours later)
 >> 
 >> Interestingly all four named plus thief continue to have neutral names.
->> 
 
->>> **u/NaricssusIII** [+11] *
+>>> **u/NaricssusIII** [+9]  (11 hours later)
 >>> 
 >>> Their names seem neutral, but the actions of the group seem to mostly align with lawful evil, which parallels with the calamities. Diabolist seems to be straight up chaotic evil, as does the Tyrant.
->>> 
 
->>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (a day later)
 >>>> 
 >>>> I'd say diabolist is neutral evil, she does have a plan, and she doesn't do stuff for no reason, but she's certainly not lawful
->>>> 
 
->>>>> **u/NaricssusIII** [+3] *
+>>>>> **u/NaricssusIII** [+3]  (a day later)
 >>>>> 
 >>>>> Idk the very name of diabolist seems pretty chaotic what with the consorting with devils and demons thing, considering that they're beings outside of creation that want to twist and warp it
->>>>> 
 
->>>>>> **u/swaskowi** [+5] *
+>>>>>> **u/swaskowi** [+4]  (a day later)
 >>>>>> 
 >>>>>> I dunno, diabolists and demon summoning in general is normally very bound up in the idea of legalistic contracts.
->>>>>> 
 
-> **u/ForgottenToupee** [+19] *
+> **u/ForgottenToupee** [+19]  (14 hours later)
 > 
 > Can we talk about how she has a declaration from the House of Light framed and hanging on her wall?
-> 
 
->> **u/MoralRelativity** [+13] *
+>> **u/MoralRelativity** [+14]  (17 hours later)
 >> 
 >> That bit made me laugh. I really enjoy Cat & Black's relationship.
->> 
 
->>> **u/ForgottenToupee** [+3] *
+>>> **u/ForgottenToupee** [+6]  (17 hours later)
 >>> 
 >>> These last few chapters have been full of little tidbits like that
->>> 
 
-> **u/JdubCT** [+15] *
+> **u/JdubCT** [+15]  (an hour later)
 > 
 > Thief: *one of us one of us one of us!*
-> 
 
-> **u/None** [+12] *
+> **u/None** [+13]  (31 minutes later)
 > 
 > Wow, that ending could be an xpost from r/unexpected
-> 
 
-> **u/Oaden** [+11] *
+> **u/Oaden** [+10]  (5 hours later)
 > 
 > For others that like me have no idea what a Hierophant actually is, Wikipedia helpfully provides
-> A hierophant (Ancient Greek: ἱεροφάντης) is a person who brings religious congregants into the presence of that which is deemed holy.[1] The word comes from ancient Greece, where it was constructed from the combination of ta hiera, "the holy", and phainein, "to show". In Attica it was the title of the chief priest at the Eleusinian Mysteries. A hierophant is an interpreter of sacred mysteries and arcane principles.
-> Now he healed archer and adjudant, while talking about miracles, miracles are in creation, a different thing from healing magic, it comes from gods, maybe he can manipulate them? or cause them himself? It would tie into his search for understanding creation if he intruded into the domain of gods
 > 
+> A hierophant (Ancient Greek: ἱεροφάντης) is a person who brings religious congregants into the presence of that which is deemed holy.[1] The word comes from ancient Greece, where it was constructed from the combination of ta hiera, "the holy", and phainein, "to show". In Attica it was the title of the chief priest at the Eleusinian Mysteries. A hierophant is an interpreter of sacred mysteries and arcane principles.
+> 
+> Now he healed archer and adjudant, while talking about miracles, miracles are in creation, a different thing from healing magic, it comes from gods, maybe he can manipulate them? or cause them himself? It would tie into his search for understanding creation if he intruded into the domain of gods
 
->> **u/Iconochasm** [+25] *
+>> **u/Iconochasm** [+26]  (9 hours later)
 >> 
 >> I think his grand epiphany was that miracles aren't actually *miracles*, but just sorcery that operates One Level Deeper.  Basically, every other mortal mage is running around casting with elements (legion mages) or atomic theory (Named and the best regular mages), but Masego just figured out Quantum Wizardry.  *Strings*, motherfuckers!
->> 
 
->>> **u/MoralRelativity** [+2] *
+>>> **u/MoralRelativity** [+2]  (17 hours later)
 >>> 
 >>> Good explanation, I like it.
->>> 
 
->> **u/M3mentoMori** [+12] *
+>> **u/M3mentoMori** [+11]  (6 hours later)
 >> 
 >> I feel like he'll be able to create his own mysteries and miracles. His words as he transitioned imply that mysteries are more tricking reality than the domain of gods.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (7 hours later)
 >>> 
 >>> Like magic on Dragon Age where it simply is to force your will over reality.
->>> 
 
->>> **u/MoralRelativity** [+2] *
+>>> **u/MoralRelativity** [+2]  (17 hours later)
 >>> 
 >>> > I feel like he'll be able to create his own mysteries and miracles.
->>> Definitely. AND being able to take apart other miracles to disrupt or usurp them.
 >>> 
+>>> Definitely. AND being able to take apart other miracles to disrupt or usurp them.
 
->> **u/NaricssusIII** [+8] *
+>> **u/NaricssusIII** [+8]  (11 hours later)
 >> 
 >> Catherine even mentions a few chapters previous that Masego has a sort of religious bent to his worldview despite his upbringing and insistence that he isn't.
->> 
 
->>> **u/MoralRelativity** [+10] *
+>>> **u/MoralRelativity** [+10]  (17 hours later)
 >>> 
 >>> Of course Masego has a religious bent to his worldview. In contrast to our universe, gods are actually real in this one. Masego, however, does not want to worship any of them. He wants to understand and usurp the source of their power.
->>> 
 
->>>> **u/NaricssusIII** [+8] *
+>>>> **u/NaricssusIII** [+6]  (17 hours later)
 >>>> 
 >>>> That's a good point I just remembered Catherine saying that there seemed to be a lot of religion in his explanation despite him insisting otherwise
->>>> 
 
->>>>> **u/MoralRelativity** [+2] *
+>>>>> **u/MoralRelativity** [+2]  (22 hours later)
 >>>>> 
 >>>>> You're right, I do recall that now. On reflection, I think Cat's religious interpretation would largely be the result of her upbringing combined with her (in the area of magic) limited knowledge and intellect.
->>>>> 
 
->>> **u/Menolith** [+6]  *Unworthy Opponent**
+>>> **u/Menolith** [+8]  *Unworthy Opponent* (11 hours later)
 >>> 
 >>> The last time he came close to transitioning was in his own words "an almost religious experience," too.
->>> 
 
->> **u/MoralRelativity** [+1] *
+>> **u/MoralRelativity** [+1]  (7 hours later)
 >> 
 >> Thank you!
->> 
 
-> **u/TheAtomicOption** [+22] *
+> **u/TheAtomicOption** [+22]  (31 minutes later)
 > 
 > bwahahahahaha that was so awesome. 
-> As usual a bunch of typos, but when the story is this good I can handle it.
-> Can't wait to see what happens with Masengo next.
 > 
+> As usual a bunch of typos, but when the story is this good I can handle it.
+> 
+> Can't wait to see what happens with Masengo next.
 
->> **u/sparr** [+17] *
+>> **u/sparr** [+17]  (19 hours later)
 >> 
 >> > a bunch of typos
->> > Masengo
 >> 
+>> > Masengo
 
-> **u/AurelianoTampa** [+11] *
+> **u/AurelianoTampa** [+11]  (10 hours later)
 > 
 > Ha! That ending caught me by surprise, which is always fun. I do kinda wish "Yoink!" was an Aspect... Imagine how much crap Thief would have had to deal with after!
-> So, this opens new puzzles:
-> * Thief is a heroine, and we've seen before that she can release what she steals. Might she turn on Cat at the worst possible time?
-> * Masego was blinded in the transition/fight when his glasses shattered and pierced his eyes. Is this permanent? Will he absorb the power of his glasses? 
-> * We know 2/3 of Archer's Aspects (right?). See and Flow. What's the last? 
-> * Rampage is a great aspect for Hakram, but seems a bit less of a fit for Adjutant... Is that just my take on it?
-> * What is Ranger waiting for? I still think she's the "and one" part of the Battle of Four Armies and One. Does she want a Queen or King?
-> * Edit: what is the "upset" that Cat really wants to save for later? And who does she think she needs it against; the Summer fae or Diabolist?
-> Still, an excellent chapter and a great ending!
 > 
+> So, this opens new puzzles:
+> 
+> * Thief is a heroine, and we've seen before that she can release what she steals. Might she turn on Cat at the worst possible time?
+> 
+> * Masego was blinded in the transition/fight when his glasses shattered and pierced his eyes. Is this permanent? Will he absorb the power of his glasses? 
+> 
+> * We know 2/3 of Archer's Aspects (right?). See and Flow. What's the last? 
+> 
+> * Rampage is a great aspect for Hakram, but seems a bit less of a fit for Adjutant... Is that just my take on it?
+> 
+> * What is Ranger waiting for? I still think she's the "and one" part of the Battle of Four Armies and One. Does she want a Queen or King?
+> 
+> * Edit: what is the "upset" that Cat really wants to save for later? And who does she think she needs it against; the Summer fae or Diabolist?
+> 
+> Still, an excellent chapter and a great ending!
 
->> **u/Menolith** [+18]  *Unworthy Opponent**
+>> **u/Menolith** [+17]  *Unworthy Opponent* (12 hours later)
 >> 
 >> > Rampage is a great aspect for Hakram, but seems a bit less of a fit for Adjutant...
->> He might be the Adjutant, but he's also someone who routinely eats people should the regulations allow.
 >> 
+>> He might be the Adjutant, but he's also someone who routinely eats people should the regulations allow.
 
->>> **u/PrettyDecentSort** [+2] *
+>>> **u/PrettyDecentSort** [+2]  (a day later)
 >>> 
 >>> and, let's not forget, an orc.
->>> 
 
->> **u/CeruleanTresses** [+10] *
+>> **u/CeruleanTresses** [+10]  (11 hours later)
 >> 
 >> I believe the upset she wanted to save for later was Thief coming in to steal Sulia's power. If she hadn't been able to Take the wings away from her on her own, she'd have needed Thief to do it.
->> 
 
->>> **u/MoralRelativity** [+2] *
+>>> **u/MoralRelativity** [+2]  (17 hours later)
 >>> 
 >>> Definitely.
->>> 
 
->> **u/MoralRelativity** [+5] *
+>> **u/MoralRelativity** [+4]  (17 hours later)
 >> 
 >> > Thief is a heroine, and we've seen before that she can release what she steals. Might she turn on Cat at the worst possible time?
->> Good point. I'm hoping she saves it for Akua.
 >> 
+>> Good point. I'm hoping she saves it for Akua.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (10 hours later)
 >> 
 >> I think masego glasses broke when he was overpowered by Sulia, my head cannon is cat x héroe, that way thief would not need to betray her.
->> 
 
->> **u/gamedori3** [+1] *
+>> **u/gamedori3** [+1]  (a day later)
 >> 
 >> Sounds like Ranger is going to be needed to neal with a thermonuclear thief.
->> 
 
->> **u/M3mentoMori** [+1] *
+>> **u/M3mentoMori** [+1]  (a day later)
 >> 
 >> >* Thief is a heroine, and we've seen before that she can release what she steals. Might she turn on Cat at the worst possible time?
->> I hope not. Thief x Cat is my new OTP. The snark alone means it's inevitable.
->> >* Masego was blinded in the transition/fight when his glasses shattered and pierced his eyes. Is this permanent? Will he absorb the power of his glasses? 
->> Temporary, I think. He literally just handwaved away a broken jaw on Archer immediately after his transition.
 >> 
+>> I hope not. Thief x Cat is my new OTP. The snark alone means it's inevitable.
+>> 
+>> >* Masego was blinded in the transition/fight when his glasses shattered and pierced his eyes. Is this permanent? Will he absorb the power of his glasses? 
+>> 
+>> Temporary, I think. He literally just handwaved away a broken jaw on Archer immediately after his transition.
 
-> **u/MoralRelativity** [+8] *
+> **u/MoralRelativity** [+8]  (7 hours later)
 > 
 > Loved, loved, loved that ending. Even the heroes are working for Cat now...
-> And I'm really glad that Masego didn't manage to save the day. He's been too much of a trump card for Cat.
 > 
+> And I'm really glad that Masego didn't manage to save the day. He's been too much of a trump card for Cat.
 
->> **u/None** [+14] *
+>> **u/None** [+15]  (7 hours later)
 >> 
 >> I was expecting for ranger to save their sorry asses but this one was way better, the best part is that she hinted it when she took Sulia's wings
->> 
 
->>> **u/Hoactzins** [+7] *
+>>> **u/Hoactzins** [+7]  (11 hours later)
 >>> 
 >>> I'm betting Ranger is going to come in and take the Queen of Summer if/when she decides to take the field.
->>> 
 
->>> **u/PrettyDecentSort** [+3] *
+>>> **u/PrettyDecentSort** [+3]  (a day later)
 >>> 
 >>> And with a reference to the Theft of Fire as the story archetype she was invoking.
->>> 
 
->> **u/CeruleanTresses** [+3] *
+>> **u/CeruleanTresses** [+3]  (11 hours later)
 >> 
 >> Even though he wasn't the one to ultimately save the day, I don't think he was supposed to be--it was always the plan for him to come in with the assist and force Sulia into a position where the Thief could make her play.
->> 
 
->>> **u/MoralRelativity** [+2] *
+>>> **u/MoralRelativity** [+2]  (17 hours later)
 >>> 
 >>> Agreed.
->>> 
 
-> **u/MoralRelativity** [+7] *
+> **u/MoralRelativity** [+8]  (7 hours later)
 > 
 > So Masego has taken another big step towards understanding the structure of their world. And he's now got more tools to take it apart and change it. That's quite the powerup.
-> 
 
->> **u/None** [+6] *
+>> **u/None** [+6]  (7 hours later)
 >> 
 >> Still not enough to take Sulia, but Damm if it wasn't cool
->> 
 
-> **u/DaystarEld** [+6]  *Pokémon Professor**
+> **u/DaystarEld** [+5]  *Pokémon Professor* (a day later)
 > 
 > Woooo, finally caught up!
-> Amazing chapter. This and the last few have reminded me of one of the things that makes this story so great: its moments of just sheer fun, from the over-the-top crazy action to the quips and witty banter that's been there from the start. The closest thing I can compare this aspect to is The Dresden Files, with all the compliments that implies.
-> Can't wait for the next one, now that I'm stuck in the grind with everyone else!
 > 
+> Amazing chapter. This and the last few have reminded me of one of the things that makes this story so great: its moments of just sheer fun, from the over-the-top crazy action to the quips and witty banter that's been there from the start. The closest thing I can compare this aspect to is The Dresden Files, with all the compliments that implies.
+> 
+> Can't wait for the next one, now that I'm stuck in the grind with everyone else!
 
->> **u/MoralRelativity** [+2] *
+>> **u/MoralRelativity** [+2]  (2 days later)
 >> 
 >> Welcome to the grind! Unlike many others, this updates frequently and reliably on time.
->> 
 
-> **u/None** [+4] *
+> **u/None** [+4]  (10 hours later)
 > 
 > I had to struggle so hard not to simple burst out laughing at the end. Lovely.
-> 
 
 ---
 

@@ -48,146 +48,201 @@ February: [https://www.reddit.com/r/rational/comments/lakicm/february\_genre\_fi
 
 ### Comments:
 
-> **u/Freevoulous** [+26] *
+> **u/Freevoulous** [+25]  (a day later)
 > 
 > &#x200B;
+> 
 > I live, I die, I live again,
+> 
 > forever stuck, November, ten.
-> My plane hijacked by a group of men,
-> I live, I die, I live again.
-> &#x200B;
-> I live, I die, I live again,
-> Loop'd twenty two minutes of pain.
-> not landing but blown up instead,
-> I fight, I die, I live again.
-> &#x200B;
-> I live, I die, I live again,
-> my mind can barely take the strain.
-> Keep trying every stratagem,
-> Plane blows, I die, I live again.
-> &#x200B;
-> I live, I die, I live again,
-> hijacker stabbed in the vein,
-> reaching to snuff the bomb and then..
-> A blast, I die, I live again.
-> &#x200B;
-> I live, I die, I live again,
-> try maybe talking sense in them,
-> their empty stares laugh at me and,
-> I fail, I die, I live again.
-> &#x200B;
-> I live, I die, I live again,
-> Flight Marshal's name was Jimmy Glenn,
-> Hijackers shot him in the brain
-> I cry, I die I live again.
-> &#x200B;
-> I live, I die, I live again,
-> trying to crack a window pane,
-> diversion fails and though glass rained,
-> they win, I die, I live again
-> &#x200B;
-> I live, I die, I live again,
-> Id rather have my whisky gents,
-> Feel free to blow us up when can,
-> I drink, I die, I live again
-> &#x200B;
-> I live, I die, I live again,
-> if plane took path most turbulent,
-> would wires of the bomb be rent?
-> I think, I die, I live again
-> &#x200B;
-> I live, I die, I live again,
-> A clever plot, and luck insane,
-> a certain cellphone number gained,
-> I smile, I die, I live again
-> &#x200B;
-> I live, I die, I live again,
-> Idea formed, a message sent,
-> the pilot takes a hint, loop spent,
-> I WIN, I live, I laugh, the end.   
-
-> &#x200B;
-> ***(maybe not exactly what the prompt calls for, but one of my exercises in learning English resulted in that. Maybe not exactly sing-along lyrics, but one could probably imagine Johnny Cash or Tom Waits give it a go.)***
 > 
+> My plane hijacked by a group of men,
+> 
+> I live, I die, I live again.
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> Loop'd twenty two minutes of pain.
+> 
+> not landing but blown up instead,
+> 
+> I fight, I die, I live again.
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> my mind can barely take the strain.
+> 
+> Keep trying every stratagem,
+> 
+> Plane blows, I die, I live again.
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> hijacker stabbed in the vein,
+> 
+> reaching to snuff the bomb and then..
+> 
+> A blast, I die, I live again.
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> try maybe talking sense in them,
+> 
+> their empty stares laugh at me and,
+> 
+> I fail, I die, I live again.
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> Flight Marshal's name was Jimmy Glenn,
+> 
+> Hijackers shot him in the brain
+> 
+> I cry, I die I live again.
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> trying to crack a window pane,
+> 
+> diversion fails and though glass rained,
+> 
+> they win, I die, I live again
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> Id rather have my whisky gents,
+> 
+> Feel free to blow us up when can,
+> 
+> I drink, I die, I live again
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> if plane took path most turbulent,
+> 
+> would wires of the bomb be rent?
+> 
+> I think, I die, I live again
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> A clever plot, and luck insane,
+> 
+> a certain cellphone number gained,
+> 
+> I smile, I die, I live again
+> 
+> &#x200B;
+> 
+> I live, I die, I live again,
+> 
+> Idea formed, a message sent,
+> 
+> the pilot takes a hint, loop spent,
+> 
+> I WIN, I live, I laugh, the end.   
+> 
+> &#x200B;
+> 
+> ***(maybe not exactly what the prompt calls for, but one of my exercises in learning English resulted in that. Maybe not exactly sing-along lyrics, but one could probably imagine Johnny Cash or Tom Waits give it a go.)***
 
->> **u/SimoneNonvelodico** [+8]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+9]  *Dai-Gurren Brigade* (12 days later)
 >> 
 >> Well, they say you never see something genuinely new, but “action movie time loop story in poem form” might actually be a first.
->> 
 
->> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor* (16 days later)
 >> 
 >> That was brilliant and I hope you have somewhere else to post it where people can admire it.
->> 
 
->>> **u/Freevoulous** [+2] *
+>>> **u/Freevoulous** [+2]  (16 days later)
 >>> 
 >>> Wow, a praise from Eliezer Yudkowsky himself, that is more of a reward than I expected
->>> 
 
-> **u/Ms_CIA** [+3]  *Derp**
+> **u/Ms_CIA** [+3]  *Derp* (3 days later)
 > 
 > Portrait of Suffering
+> 
 > She lingers with the broken  
 > The despondent and the damned  
 > Each step is cowled in silence  
 > She dares not raise her head
+> 
 > Robed in grey, her hands  
 > Are clasped in constant prayer  
 > She's unobtrusive, yet  
 > You'll always know she's there  
+> 
 > All will shun her presence  
 > But those who seek her find  
 > In anguish she is peace  
 > And rest for weary minds
-> 
 
-> **u/Aging-poet70** [+2] *
+> **u/Aging-poet70** [+2]  (3 days later)
 > 
 > I really like this. A good twist on a form poem. Expresses your story well, the repetition creates a rhythm, moves the reader on through it.
-> 
 
-> **u/kevshea** [+2] *
+> **u/kevshea** [+2]  (6 days later)
 > 
 > Rage builds, pressing my brain's inner wall:  
 > the urge to avenge you, refusing to stall.   
 > And as none struck you down (our loss cancer's theft),  
 > I won't taste revenge until I've murdered Death.  
+> 
 > The foe is collosal, its power unmatched--  
 > I can't claim revenge by sword or by hatchet,  
 > but scalpel, perhaps, can provide me intel.  
 > To conquer my foe, I must needs know him well.
+> 
 > Study his methods, surpassingly subtle,  
 > his arguments always beyond our rebuttal,  
 > but tut, 's his advantage not singular still?  
 > His time can't run out, ours inev'tably will.  
+> 
 > But evit I must, it's the goal of this game,  
 > To see the scythe-wielder be finally tame.  
 > And as humankind's been compared to a flame,  
 > I dissect respiration to further my aim.
+> 
 > Oxidative damage grinds me like a mill,  
 > Free radicals taking their wage to the till.  
 > As nothing is free and I've no time to muddle,  
 > I drop nanite and compound into petri puddle.
+> 
 > At last I find one that makes telomeres swell,  
 > The sick and the aged begin to feel well.  
 > I brew it by barrels, my plot finely hatched--  
 > the bug in our bestial code finally patched.
+> 
 > I feel at this point like I've got nothing left,  
 > and stare wild-eyed into the face of Death.  
 > As though I've won the game, he stoops down for his ball,  
 > but I snatch it and say, "not 'til I've rezzed them all."
-> 
 
-> **u/gramineous** [+1] *
+> **u/gramineous** [+1]  (14 hours later)
 > 
 > Might want to take out the usual bit about a 500 word minimum given the format this month is inherently shorter than usual and to help nip misunderstandings in the bud
-> 
 
->> **u/Ms_CIA** [+2]  *Derp**
+>> **u/Ms_CIA** [+2]  *Derp* (18 hours later)
 >> 
 >> Lol yep, fixed it!
->> 
 
 ---
 

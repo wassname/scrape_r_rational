@@ -51,37 +51,33 @@ Next time, the challenge is **Barrier Maiden**. Your prompt is, "The girl is alo
 
 ### Comments:
 
-> **u/syncope_apocope** [+27] *
+> **u/syncope_apocope** [+25]  (2 days later)
 > 
 > [The Voices of the Gods](https://www.dropbox.com/s/0h8vqrklvazriqf/Voices%20of%20the%20Gods.doc?dl=0)
-> 2700 words
 > 
+> 2700 words
 
->> **u/alexshatberg** [+8]  *Mouse Army**
+>> **u/alexshatberg** [+9]  *Mouse Army* (3 days later)
 >> 
 >> Nice! For a while I was convinced the story would end with [spoiler](#s "him choosing a god that simply offered him peace from other gods.")
->> 
 
->> **u/arenavanera** [+6] *
+>> **u/arenavanera** [+5]  (4 days later)
 >> 
 >> I like it!  I was expecting a story where he picks a munchkin power and somehow escapes the cost, but was pleasantly surprised.  (Not because I don't love munchkin stories, just because it's fun to have some variety.)
->> 
 
->> **u/eaterofclouds** [+3]  *Sunshine Regiment**
+>> **u/eaterofclouds** [+3]  *Sunshine Regiment* (4 days later)
 >> 
 >> Wow. That was fantastic! I loved everything about this story.
->> 
 
->> **u/DCarrier** [+2] *
+>> **u/DCarrier** [+2]  (14 days later)
 >> 
 >> If I were in his position I'd try to find anyone else who made that deal and see if there were any hidden downsides. Also, I'm surprised he didn't think to ask. From pretty much the beginning I was wondering if he could find a god that would just do absolutely nothing.
->> 
 
-> **u/arenavanera** [+10] *
+> **u/arenavanera** [+10]  (4 days later)
 > 
 > [A Discussion About Lightning](https://medium.com/@arenavanera/a-discussion-about-lightning-5d2adba4433)
-> 1600 words
 > 
+> 1600 words
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Swimmer963 *
 * URL: https://archiveofourown.org/works/17096885/chapters/40206899
-* Score: 12
+* Score: 9
 
 * Created: 2018-12-21T21:35:36
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Schuano** [+1] *
+> **u/Schuano** [+1]  (a day later)
 > 
 > These are delightful and so well done.
-> 
 
->> **u/Swimmer963** [+1] *
+>> **u/Swimmer963** [+1]  (a day later)
 >> 
 >> Aww, thank you!
->> 
 
 ---
 

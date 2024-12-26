@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/enwu1m/secret_of_the_patronus_chapter_43_harry_potter/
-* Score: 7
+* Score: 8
 
 * Created: 2020-01-13T01:15:15
 

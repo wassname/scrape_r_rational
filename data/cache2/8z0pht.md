@@ -2,7 +2,7 @@
 
 * Author: u/CouteauBleu  *We are the Empire.**
 * URL: https://www.reddit.com/r/rational/comments/8z0pht/bst_the_dark_wizard_of_donkerke_typo_thread/
-* Score: 16
+* Score: 15
 
 * Created: 2018-07-15T10:01:33
 
@@ -26,100 +26,103 @@ A few links:
 
 ### Comments:
 
-> **u/CouteauBleu** [+4]  *We are the Empire.**
+> **u/CouteauBleu** [+6]  *We are the Empire.* (4 minutes later)
 > 
 > Copy-pasting from another thread, here are some big edits I'm thinking of:
+> 
 > * Removing the prophecy entirely, for reasons you've already talked about. It's a crutch, it derails character motivations, most characters  already have plausible reasons to do what they're doing (eg Henry could  be going to the Important Place to retrieve his birth certificate).
 > * Spend a little more time describing Henry's time at the  orphanage. As it is, Henry goes from naive cloistered weird kid to  well-adjusted, popular, socially confident young adult with no  transition. I think it would be interesting to show how his time at the  orphanage and his experience reading an adult's memories made him more  able to navigate social situations.
 > * Delay the realization that Fiona is Sofia a bit longer. It'd add  some tension, make their relationship a bit more organic, and make Henry  look less self-indulgent. (though it's not a major problem in the first  place)
 > * Make the first confrontation between usurper!Rowan and Sofia  happen in private, and last longer. I've already talked about why, I  think your version goes way too fast, and misses some occasion to have  characters express their differences, what they learned through their  journey, the different ways the King affected his children, etc.
+> 
 > Other, smaller changes:
+> 
 > * Rename it to *The Dark Wizard****s*** *of Donkerk*. Similar title, feels less generic, and suggests emphasis on the world and the society rather than a character-driven plot.
 > * Shorten the first arcs, before Sofia starts going out of the  Castle and Henry goes to the orphanage. This is when the story really  begins, everything else is setup and needs to be as short as possible.
 > * Add some foreshadowing for the evil Queen mom reveal.
 > * Spend more screentime addressing the fact that the Chief  Mentalist is evil, maybe add more foreshadowing, or make it look like  the story will be about him taking over the kingdom (making Rowan look  more like a heroic figure for opposing him).
 > * Give Sofia more screentime to process her family's death, her new  responsibilities, and what she learned about her mom, before she goes  confront her brother.
 > * Make the final battle shorter, somehow. There's a lot of cool  scenes in there, but they're all extraneous, and at this point it feels  pretty inevitable that Sofia will win.
-> I'd be interested in the perspective of anyone disagreeing.
 > 
+> I'd be interested in the perspective of anyone disagreeing.
 
->> **u/the_terran** [+14] *
+>> **u/the_terran** [+13]  (5 hours later)
 >> 
 >> > Rename it to The Dark Wizards of Donkerk. Similar title, feels less generic, and suggests emphasis on the world and the society rather than a character-driven plot.
->> Really disagree with this one. *Wizards* sounds a lot more campy and would make me less likely to read it. The singular makes the reader think, wait which one is the dark wizard, is it the boy, is it the teacher, is it the prince, etc.
 >> 
+>> Really disagree with this one. *Wizards* sounds a lot more campy and would make me less likely to read it. The singular makes the reader think, wait which one is the dark wizard, is it the boy, is it the teacher, is it the prince, etc.
 
->>> **u/I_am_your_BRAIN** [+7] *
+>>> **u/I_am_your_BRAIN** [+7]  (6 hours later)
 >>> 
 >>> Seconded
->>> 
 
->>>> **u/mojojo46** [+1] *
+>>>> **u/mojojo46** [+1]  (a day later)
 >>>> 
 >>>> Thirded.
->>>> 
 
->>> **u/sir_pirriplin** [+2] *
+>>> **u/sir_pirriplin** [+2]  (4 days later)
 >>> 
 >>> I like the title too. It made me think about Sophia's sacrifice near the end.
->>> Is she the dark wizard because she sacrificed the crown to cast a spell? Or is it because she sacrificed her brother's life to save the kingdom? Or maybe Henry is right, and there is no difference between those two and sacrificing a cow so we can eat steak?
 >>> 
+>>> Is she the dark wizard because she sacrificed the crown to cast a spell? Or is it because she sacrificed her brother's life to save the kingdom? Or maybe Henry is right, and there is no difference between those two and sacrificing a cow so we can eat steak?
 
->> **u/mojojo46** [+6] *
+>> **u/mojojo46** [+8]  (9 hours later)
 >> 
 >> > Removing the prophecy entirely, for reasons you've already talked about. It's a crutch, it derails character motivations, most characters already have plausible reasons to do what they're doing (eg Henry could be going to the Important Place to retrieve his birth certificate).
->> The prophecy drives a part of Sophia's relationship with her father. It also sets the scene for the story in general. It seems like this would be a really big change to remove, doesn't it?
->> > Delay the realization that Fiona is Sofia a bit longer. It'd add some tension, make their relationship a bit more organic, and make Henry look less self-indulgent. (though it's not a major problem in the first place)
->> I kind of liked this the way it is now, personally. It motivates Henry to go with her in a way that might seem odd or forced otherwise, and makes for a fun tension in their travels.
 >> 
+>> The prophecy drives a part of Sophia's relationship with her father. It also sets the scene for the story in general. It seems like this would be a really big change to remove, doesn't it?
+>> 
+>> > Delay the realization that Fiona is Sofia a bit longer. It'd add some tension, make their relationship a bit more organic, and make Henry look less self-indulgent. (though it's not a major problem in the first place)
+>> 
+>> I kind of liked this the way it is now, personally. It motivates Henry to go with her in a way that might seem odd or forced otherwise, and makes for a fun tension in their travels.
 
->>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>> **u/CouteauBleu** [+2]  *We are the Empire.* (a day later)
 >>> 
 >>> > The prophecy drives a part of Sophia's relationship with her father. It also sets the scene for the story in general. It seems like this would be a really big change to remove, doesn't it?
->>> Things that are driven by the prophecy, that I remember:
->>> * Ventor learns about Henry's kidnapping.
->>> * A scene that shows how the sages work, where they dissect the prophecy.
->>> * The King locks up his daughter.
->>> * Ventor goes after Henry when Sofia disappears.
->>> * Henry meets Sofia, they talk about the prophecy.
->>> Of all these, n°4 seems to be the hardest to justify without the prophecy. On the other hand, the King's relationship with his daughter already makes sense without a prophecy, just based off her being kidnapped as a kid.
 >>> 
+>>> Things that are driven by the prophecy, that I remember:
+>>> 
+>>> * Ventor learns about Henry's kidnapping.
+>>> 
+>>> * A scene that shows how the sages work, where they dissect the prophecy.
+>>> 
+>>> * The King locks up his daughter.
+>>> 
+>>> * Ventor goes after Henry when Sofia disappears.
+>>> 
+>>> * Henry meets Sofia, they talk about the prophecy.
+>>> 
+>>> Of all these, n°4 seems to be the hardest to justify without the prophecy. On the other hand, the King's relationship with his daughter already makes sense without a prophecy, just based off her being kidnapped as a kid.
 
->>>> **u/mojojo46** [+1] *
+>>>> **u/mojojo46** [+1]  (a day later)
 >>>> 
 >>>> It also justifies Ventor's original trip to the orphanage, and his later diligent search of the orphanage records. How do you motivate both of these as tasks for Ventor with the same lack of clear directly and uncertainty, yet diligence and importance? I'm not sure why Ventor would travel north at Henry's kidnapping originally at all, and without Ventor there then, many other things have to be changed, including Ventor's relation with the other nun. Not that this couldn't be done, but you're shifting a lot of the story at that point.
->>>> 
 
->> **u/Amonwilde** [+3] *
+>> **u/Amonwilde** [+3]  (9 hours later)
 >> 
 >> I agree with the name change. It sounds too much like Dark Lord of Dirkholm and also sounds too generic. Honestly there are probably better names, perhaps it should just be changed outright. Admittedly, naming things is hard. (Also cache invalidation.)
->> 
 
->>> **u/mojojo46** [+2] *
+>>> **u/mojojo46** [+2]  (a day later)
 >>> 
 >>> Is it not intended to be a callback to the Dark Lord of Derkholm? It's a slightly obscure, but I assumed Friesen was a Jones fan.
->>> 
 
->>>> **u/Amonwilde** [+1] *
+>>>> **u/Amonwilde** [+1]  (8 days later)
 >>>> 
 >>>> No, author was unaware. There has been some discussion of this previously.
->>>> 
 
->> **u/_brightwing** [+1]  *Feathered menace**
+>> **u/_brightwing** [+1]  *Feathered menace* (a day later)
 >> 
 >> In the author's blog about pending works it would seem an alternate title was Dark Tidings.
->> 
 
-> **u/Laborbuch** [+2] *
+> **u/Laborbuch** [+2]  (7 hours later)
 > 
 > Huh, I suppose I ought to read the work again to find all the typos. You know what? I am fine with this.
-> Anyway, I always was a bit confused by Donkerk, since it made me think if Dunkirk (an the battle nearby).
 > 
+> Anyway, I always was a bit confused by Donkerk, since it made me think if Dunkirk (an the battle nearby).
 
-> **u/Amonwilde** [+2] *
+> **u/Amonwilde** [+2]  (9 hours later)
 > 
 > Can the story be put up on GitHub so we can use VC to make suggestions?
-> 
 
 ---
 

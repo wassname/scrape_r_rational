@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/kbqiem/d_saturday_munchkinry_thread/
-* Score: 10
+* Score: 9
 
 * Created: 2020-12-12T15:04:52
 
@@ -23,146 +23,165 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/scruiser** [+2]  *CYOA**
+> **u/scruiser** [+2]  *CYOA* (an hour later)
 > 
 > **Parallel universe reality bending**: by visualizing a clear alternative course of action that you might have plausibly taken and exerting willpower you can overwrite reality with one in which that course of action was actually taken.
-> * Completely overwriting reality is the easiest and safest.  Your own mental perspective is the only thing that remains of the old reality and the rest of the universe, including your physical body except your brain is exactly as it would be had you made the alternate choice you imagined making. Of course, that choice might have led in expected directions, which you have no control over. 
-> * Older decisions are “harder” to use than more recent choices.  Less plausible choices are harder to use than more plausible choices.  Using the choice to buy one reasonable stock over another is easier than using a choice about buying a penny stock which is easier still than retroactively choosing a correct lottery number.
-> * easier means less meditation, concentration, and willpower requires.  An easy usage might require a few minutes and simple visualization.  The lottery number example might require several hours of continuous intense focus and willpower.
-> * Mixing the current reality and the alternate reality adds a lot of difficulty making an otherwise easy overwriting very hard.  Something as simple as asking for a glass of tea instead of soda and physically bringing the glass  over from the old reality might require tens of minutes intense focus and effort vs barely a second or two of effort for pure mental effect.  With large scale events this can have weird “Mandela Effect” style side effects which would allow mundane people to remember inconsistencies.
-> * Events of which you aren’t sure about the exact choice lead to them, but plausibly within your control can be rewritten but with added difficulty and might have unpredictable side effects in terms of consequences.
-> * Overwriting your own mind is possible... but the new version of you could be drastically different, enough to count as a form of death.  In fact, that is how you discovered your powers: some alternate version of you tried it, leaving “you” suddenly in a different location, with helpfully written notes explaining what happened.
-> * your powers are slowly growing over time.  Within ten years hard difficulty will become medium and easy will be trivial.
-> So ideas?  Stock trading is obvious but other opportunities to exploit this ability?
 > 
+> * Completely overwriting reality is the easiest and safest.  Your own mental perspective is the only thing that remains of the old reality and the rest of the universe, including your physical body except your brain is exactly as it would be had you made the alternate choice you imagined making. Of course, that choice might have led in expected directions, which you have no control over. 
+> 
+> * Older decisions are “harder” to use than more recent choices.  Less plausible choices are harder to use than more plausible choices.  Using the choice to buy one reasonable stock over another is easier than using a choice about buying a penny stock which is easier still than retroactively choosing a correct lottery number.
+> 
+> * easier means less meditation, concentration, and willpower requires.  An easy usage might require a few minutes and simple visualization.  The lottery number example might require several hours of continuous intense focus and willpower.
+> 
+> * Mixing the current reality and the alternate reality adds a lot of difficulty making an otherwise easy overwriting very hard.  Something as simple as asking for a glass of tea instead of soda and physically bringing the glass  over from the old reality might require tens of minutes intense focus and effort vs barely a second or two of effort for pure mental effect.  With large scale events this can have weird “Mandela Effect” style side effects which would allow mundane people to remember inconsistencies.
+> 
+> * Events of which you aren’t sure about the exact choice lead to them, but plausibly within your control can be rewritten but with added difficulty and might have unpredictable side effects in terms of consequences.
+> 
+> * Overwriting your own mind is possible... but the new version of you could be drastically different, enough to count as a form of death.  In fact, that is how you discovered your powers: some alternate version of you tried it, leaving “you” suddenly in a different location, with helpfully written notes explaining what happened.
+> 
+> * your powers are slowly growing over time.  Within ten years hard difficulty will become medium and easy will be trivial.
+> 
+> So ideas?  Stock trading is obvious but other opportunities to exploit this ability?
 
->> **u/Amagineer** [+4] *
+>> **u/Amagineer** [+5]  (10 hours later)
 >> 
 >> > your powers are slowly growing over time. Within ten years hard difficulty will become medium and easy will be trivial
->> This seems... concerning. Suddenly "I wonder what would've happened if I'd just...." hypothetical thoughts (and others in that genre) become trivially easy to actually live, depending on what exactly they were.
 >> 
+>> This seems... concerning. Suddenly "I wonder what would've happened if I'd just...." hypothetical thoughts (and others in that genre) become trivially easy to actually live, depending on what exactly they were.
 
->>> **u/scruiser** [+3]  *CYOA**
+>>> **u/scruiser** [+3]  *CYOA* (a day later)
 >>> 
 >>> That is actually close to the ending of the SCP story I copied this from... the reality bender is pressured, makes some major jumps in power, but then finds their mundane subconscious fears slipping in each time they reality bend, until they are a delusional wreck by the time the Mobile Task Force catches up with them.
->>> 
 
->>>> **u/Ya-dungoofed** [+2] *
+>>>> **u/Ya-dungoofed** [+2]  (7 days later)
 >>>> 
 >>>> Interesting. What SCP is this based off of?
->>>> 
 
->>>>> **u/scruiser** [+2]  *CYOA**
+>>>>> **u/scruiser** [+2]  *CYOA* (7 days later)
 >>>>> 
 >>>>> A set of connected tales, [New Age](http://www.scpwiki.com/new-age-hub). The Reality Bender which has the power I describe is an antagonist that shows up early on and gradually has their power revealed.  They don't have an SCP article, just the tale.
->>>>> 
 
->> **u/justletmebrowse68** [+2] *
+>> **u/justletmebrowse68** [+2]  (7 hours later)
 >> 
 >> If certain actions would be more plausible based on choices I had changed then it tracks that changes could be stacked. You could build a habit backwards in time to increasingly implausible actions.
->> 
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (16 hours later)
 >> 
 >> If I take a good night's sleep, then retroactively decide that I stayed up all night working, then do I have the results of that work (e.g. notes, computer documents) but a non-tired brain?
->> Perhaps I can't use the ability to give myself-in-the-past a complete correct lottery number. But I can decide, before selecting each individual number, whether I'm going even or odd - which halves the number of possible sets of lottery numbers I might choose. If I'm choosing a list of six numbers, then pulling even-or-odd (and rewriting that decision after the fact if necessary) reduces the number of, well, numbers that I'm choosing between by a factor of 64. I'm not sure whether or not this is enough to give me an expectation of (on average) winning more than I spend, or not; but it might.
->> --------------
->> If, every morning, I spend some time deciding whether to get up *now* or wait ten more minutes; then I can avoid most Black Swan type events by resetting to sleep in ten more minutes that morning. (It's a lot better to be late than to be in a traffic accident).
->> --------------
->> I can become a perfect spy; breaking into a location, finding out the info I need, and then retroactively deciding not to break in after all. This way, I get the required info but I don't leave behind any evidence.
 >> 
+>> Perhaps I can't use the ability to give myself-in-the-past a complete correct lottery number. But I can decide, before selecting each individual number, whether I'm going even or odd - which halves the number of possible sets of lottery numbers I might choose. If I'm choosing a list of six numbers, then pulling even-or-odd (and rewriting that decision after the fact if necessary) reduces the number of, well, numbers that I'm choosing between by a factor of 64. I'm not sure whether or not this is enough to give me an expectation of (on average) winning more than I spend, or not; but it might.
+>> 
+>> --------------
+>> 
+>> If, every morning, I spend some time deciding whether to get up *now* or wait ten more minutes; then I can avoid most Black Swan type events by resetting to sleep in ten more minutes that morning. (It's a lot better to be late than to be in a traffic accident).
+>> 
+>> --------------
+>> 
+>> I can become a perfect spy; breaking into a location, finding out the info I need, and then retroactively deciding not to break in after all. This way, I get the required info but I don't leave behind any evidence.
 
->>> **u/scruiser** [+2]  *CYOA**
+>>> **u/scruiser** [+2]  *CYOA* (a day later)
 >>> 
 >>> Your body would be tired, but your brain would be mostly non-tired.  
->>> The trick of cutting down the space of lottery number is interesting.  If didn’t describe a limit on iteration, so with a sequence of carefully layers out decisions narrowing down the number you could change it from one massive meditation to win the lottery to a bunch of little ones.
->>> The morning trick is a good one, it gives you a quickly useable escape option.  If your ten minutes delayed timeline is close enough but ten minutes earlier to the non-delayed timeline, you could even use it once a day as a 10 minute do-over.
 >>> 
+>>> The trick of cutting down the space of lottery number is interesting.  If didn’t describe a limit on iteration, so with a sequence of carefully layers out decisions narrowing down the number you could change it from one massive meditation to win the lottery to a bunch of little ones.
+>>> 
+>>> The morning trick is a good one, it gives you a quickly useable escape option.  If your ten minutes delayed timeline is close enough but ten minutes earlier to the non-delayed timeline, you could even use it once a day as a 10 minute do-over.
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (a day later)
 >>>> 
 >>>> > Your body would be tired, but your brain would be mostly non-tired.
->>>> Hmmm. So, not something I can do every night. But still better than actually staying up all night.
->>>> > The trick of cutting down the space of lottery number is interesting. If didn’t describe a limit on iteration, so with a sequence of carefully layers out decisions narrowing down the number you could change it from one massive meditation to win the lottery to a bunch of little ones.
->>>> If I work on a binary-search basis, I could probably cut 'finding the winning lottery numbers' down to about eight yes-or-no decisions per lottery number (assuming the lottery numbers don't go above 64 - nine decisions per number if they reach more than 64 but less than 128).
->>>> And if I'm planning on winning a smaller prize, i.e. *not* the jackpot but only, say, four correct humbers, then it becomes even easier...
->>>> > If your ten minutes delayed timeline is close enough but ten minutes earlier to the non-delayed timeline, you could even use it once a day as a 10 minute do-over.
->>>> I don't see what you mean by this. I don't get to experience the new timeline, do I? I just see the results in it (but I remember only the original timeline). Or am I misunderstanding?
 >>>> 
+>>>> Hmmm. So, not something I can do every night. But still better than actually staying up all night.
+>>>> 
+>>>> > The trick of cutting down the space of lottery number is interesting. If didn’t describe a limit on iteration, so with a sequence of carefully layers out decisions narrowing down the number you could change it from one massive meditation to win the lottery to a bunch of little ones.
+>>>> 
+>>>> If I work on a binary-search basis, I could probably cut 'finding the winning lottery numbers' down to about eight yes-or-no decisions per lottery number (assuming the lottery numbers don't go above 64 - nine decisions per number if they reach more than 64 but less than 128).
+>>>> 
+>>>> And if I'm planning on winning a smaller prize, i.e. *not* the jackpot but only, say, four correct humbers, then it becomes even easier...
+>>>> 
+>>>> > If your ten minutes delayed timeline is close enough but ten minutes earlier to the non-delayed timeline, you could even use it once a day as a 10 minute do-over.
+>>>> 
+>>>> I don't see what you mean by this. I don't get to experience the new timeline, do I? I just see the results in it (but I remember only the original timeline). Or am I misunderstanding?
 
->>>>> **u/scruiser** [+2]  *CYOA**
+>>>>> **u/scruiser** [+2]  *CYOA* (a day later)
 >>>>> 
 >>>>> > I don't see what you mean by this. I don't get to experience the new  timeline, do I? I just see the results in it (but I remember only the  original timeline). 
->>>>> You are correct, you don't experience the  new timeline.  But if you precommitted to keeping certain actions consistent you could set things up so that the new timeline is likely to be very similar to the old timeline, just several minutes behind (10 minutes is probably too long for this trick, you would need to set things off just a few minutes behind).  Of course... someone else doing something different or butterfly effects making those few minutes of difference lead to large differences would throw things off, and you wouldn't know for sure until you actually saw how the new timeline was playing out, so it would be a bit tricky and risky.  So at best, you could leverage it like Coil leverages his power in Worm if you precommited to take notes for yourself to read, with the advantage over Coil that your power is more retroactive, but disadvantage that your aren't aware of all the timelines at once.
 >>>>> 
+>>>>> You are correct, you don't experience the  new timeline.  But if you precommitted to keeping certain actions consistent you could set things up so that the new timeline is likely to be very similar to the old timeline, just several minutes behind (10 minutes is probably too long for this trick, you would need to set things off just a few minutes behind).  Of course... someone else doing something different or butterfly effects making those few minutes of difference lead to large differences would throw things off, and you wouldn't know for sure until you actually saw how the new timeline was playing out, so it would be a bit tricky and risky.  So at best, you could leverage it like Coil leverages his power in Worm if you precommited to take notes for yourself to read, with the advantage over Coil that your power is more retroactive, but disadvantage that your aren't aware of all the timelines at once.
 
->>>>>> **u/CCC_037** [+2] *
+>>>>>> **u/CCC_037** [+2]  (a day later)
 >>>>>> 
 >>>>>> Yeah, notes can really work... with anything risky, but where that risk pays off in the short term, I can take a moment to decide whether or not I *really* want to do it before trying it anyway (then, even if I fail, I go back and learn from it...)
->>>>>> But the *big* advantage that I'd have over Coil is that I'm *not* limited to only *two* timelines.
 >>>>>> 
+>>>>>> But the *big* advantage that I'd have over Coil is that I'm *not* limited to only *two* timelines.
 
->> **u/gramineous** [+2] *
+>> **u/gramineous** [+2]  (a day later)
 >> 
 >> You could exploit 'have plausibly taken' with a random number generator set to pick from 1 to 10000, and if you roll 10000 you agree to wait shortly before doing whatever it is you wanted to do anyway. Any time you want to do something, there is now a 0.01% chance  you did not do that exact thing, therefore there are substantially more plausible divergences.
->> 
 
->>> **u/scruiser** [+1]  *CYOA**
+>>> **u/scruiser** [+1]  *CYOA* (a day later)
 >>> 
 >>> That should partly work... you are using the power by imagining an alternative course of action you could take.  If you just naively had the RNG generate a number corresponding to a choice, your choice isn't the number the RNG generated, but rather the choice is to follow the RNG in the first place.  You could still make your idea work with some tweaking... you would need to Seed the RNG using your choices.  You wouldn't know how your choices contributed to the resulting random number which would make the visualization step tricky, but as a mentioned in the bullet points,  "Events of which you aren’t sure about the exact choice lead to them, but  plausibly within your control can be rewritten but with added difficulty" so you could still retroactively change the RNG is you seeded using your choices.
->>> 
 
-> **u/ulyssessword** [+2] *
+> **u/ulyssessword** [+2]  (6 hours later)
 > 
 > A genie grants you the key to a new realm of physics, engineering, and technology.  This isn't quite a blank cheque, though, as you still have to comply with *most* of our currently-known laws of physics.  Examples of previously-successful wishes include:
-> - **Thermodynamics** which connects temperature gradients <-> work
-> - **Electromagnetism** magnetic flux <-> electricity
-> - **Photovoltaics** light <-> electricity
-> What do you ask for, and what do you do with it if granted?
 > 
+> - **Thermodynamics** which connects temperature gradients <-> work
+> 
+> - **Electromagnetism** magnetic flux <-> electricity
+> 
+> - **Photovoltaics** light <-> electricity
+> 
+> What do you ask for, and what do you do with it if granted?
 
->> **u/gramineous** [+3] *
+>> **u/gramineous** [+3]  (a day later)
 >> 
 >> I don't know enough about physics or the relevant linguistocs here, but my first instinct is to say "genie magic." Either I get monkey's paw'd for being a smartass, the genie is flattered, it gets vetoed, or several of those at once.
->> 
 
->> **u/scruiser** [+2]  *CYOA**
+>> **u/scruiser** [+2]  *CYOA* (a day later)
 >> 
 >> So the genie reworks the entire laws of the universe?  In a way that is retroactively consistent with everything observed by humanity so far?  I would be scared to make a wish that is too unworkable or raises the odds of false vacuum collapse or something like that.
->> But if I did make a wish it would be aimed at something completely physically impossible right now.  Maybe FTL of some form?  I would need to read up more on physics to figure out where I should suggest making the conceptual link.
 >> 
+>> But if I did make a wish it would be aimed at something completely physically impossible right now.  Maybe FTL of some form?  I would need to read up more on physics to figure out where I should suggest making the conceptual link.
 
->>> **u/ulyssessword** [+1] *
+>>> **u/ulyssessword** [+1]  (a day later)
 >>> 
 >>> > So the genie reworks the entire laws of the universe? In a way that is retroactively consistent with everything observed by humanity so far? I would be scared to make a wish that is too unworkable or raises the odds of false vacuum collapse or something like that.
->>> Pretty much.  Don't worry about false vacuum collapse or similar apocalyptic disasters, though.  *Most* fields are less destructive than nuclear bombs.
 >>> 
+>>> Pretty much.  Don't worry about false vacuum collapse or similar apocalyptic disasters, though.  *Most* fields are less destructive than nuclear bombs.
 
->> **u/Audere_of_the_Grey** [+1]  *Grey Collegium**
+>> **u/Audere_of_the_Grey** [+1]  *Grey Collegium* (22 days later)
 >> 
 >> I would try to figure out something that would increase the chances of preventing the heat death of the universe, such as perhaps a link between negentropy and the universe's spatial expansion. If there turned out to be a way to harness the expansion of the universe to produce negentropy, possible even converting one into the other, that would solve multiple problems at once.
->> There may be other promising fields to link thermodynamics with, particularly ones with non time symmetrical aspects.
 >> 
+>> There may be other promising fields to link thermodynamics with, particularly ones with non time symmetrical aspects.
 
-> **u/Freevoulous** [+2] *
+> **u/Freevoulous** [+2]  (a day later)
 > 
 > Im fishing for ideas. Im trying to write a story about **vampires,** but I want them to be as scientifically plausible as possible, while also trying to make the resultant vampire "society" rational-ish (not another group of brooding Goths).  
-
-> The "HARD RULES" would be:  
-
-> \- the vampires must be scientifically plausible, in accordance to what we know about evolution, metabolism, and basic biology.
-> \- the vampires must REQUIRE drinking human blood to survive, but it does not have to be their sole sustenance.
-> \- the Vampires must be able to be biologically extremely long lived (at least that Dracula could be still alive today after nearly 600 years).
-> \- the vampires must be at least "human passing" enough to allow casual interaction with humans, and be able to infiltrate human society without being easily detected.  
-
-> THE "SOFT RULES" would be:  
-
-> \- would be nice if the vampires were somehow allergic to concentrated UV (sunlight yes, moonlight no)
-> \- would be cool if there was a "scientific-ish" explanation for at least some of milder versions of vampiric powers, like superhuman strength, speed, durability or hypnotism.
-> \- would be great if the explanation of vampirism allowed them to "turn" humans, rather than being born with vampirism.
-> \- a nice perk would be if there was a good explanation for the various types/clans/bloodlines of vampires being different but having a common origin.
-> \- finally, as per the name of this thread, I would wish for an explanation that munchkins the vamps as much as possible within constrains of a plausible scientific explanation. Im not much interested in hemovorous, slightly pale humans, but scary night predators who stalk the darkness for centuries.
 > 
+> The "HARD RULES" would be:  
+> 
+> \- the vampires must be scientifically plausible, in accordance to what we know about evolution, metabolism, and basic biology.
+> 
+> \- the vampires must REQUIRE drinking human blood to survive, but it does not have to be their sole sustenance.
+> 
+> \- the Vampires must be able to be biologically extremely long lived (at least that Dracula could be still alive today after nearly 600 years).
+> 
+> \- the vampires must be at least "human passing" enough to allow casual interaction with humans, and be able to infiltrate human society without being easily detected.  
+> 
+> THE "SOFT RULES" would be:  
+> 
+> \- would be nice if the vampires were somehow allergic to concentrated UV (sunlight yes, moonlight no)
+> 
+> \- would be cool if there was a "scientific-ish" explanation for at least some of milder versions of vampiric powers, like superhuman strength, speed, durability or hypnotism.
+> 
+> \- would be great if the explanation of vampirism allowed them to "turn" humans, rather than being born with vampirism.
+> 
+> \- a nice perk would be if there was a good explanation for the various types/clans/bloodlines of vampires being different but having a common origin.
+> 
+> \- finally, as per the name of this thread, I would wish for an explanation that munchkins the vamps as much as possible within constrains of a plausible scientific explanation. Im not much interested in hemovorous, slightly pale humans, but scary night predators who stalk the darkness for centuries.
 
 ---
 

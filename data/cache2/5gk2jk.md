@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/
-* Score: 44
+* Score: 41
 
 * Created: 2016-12-05T04:57:27
 
@@ -12,66 +12,67 @@
 
 ### Comments:
 
-> **u/narfanator** [+12] *
+> **u/narfanator** [+15]  (an hour later)
 > 
 > TBH, my first response was "Thamiel is such a *dick*".
-> 
 
->> **u/oliwhail** [+27]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+25]  *Omake-Maximizing AGI* (3 hours later)
 >> 
 >> "Dick" begins with 'di-', two, connects with Thamiel, 'duality of god', weilds a bident (phallic symbol built around the number two, i.e. a dick). 'Ck' has a gemmatria value of 13, representing unluck and bad circumstances. 26 (2 x 13 , 'di-' x ck) is the same value as the gemmatria for "bad egg".
->> Nothing is a coincidence.
 >> 
+>> Nothing is a coincidence.
 
->>> **u/FeepingCreature** [+5]  *GCV Literally The Entire Culture**
+>>> **u/FeepingCreature** [+4]  *GCV Literally The Entire Culture* (13 hours later)
 >>> 
 >>> [This adorable critter is called a 'dik-dik'.](https://www.youtube.com/watch?v=0Vk4jd0bt6Q) Explain.
->>> 
 
->>>> **u/oliwhail** [+8]  *Omake-Maximizing AGI**
+>>>> **u/oliwhail** [+9]  *Omake-Maximizing AGI* (16 hours later)
 >>>> 
 >>>> 'K' has a value of 10. 10 commandments, 10 sephirot bringing divine light into the world, in contrast to 'ck' with a value of 13.
->>>> Di-k is therefore 20 - but there are two of them, for 40. 40 days and nights Jesus spent resisting temptation in the desert, 40 years of the Hebrews' wandering being rewarded by God by delivery to the promised land. 40 also corresponds to the gematria value for 'life' and 'I am', the divine statement of pure being.
->>>> *Nothing is a coincidence.*
 >>>> 
+>>>> Di-k is therefore 20 - but there are two of them, for 40. 40 days and nights Jesus spent resisting temptation in the desert, 40 years of the Hebrews' wandering being rewarded by God by delivery to the promised land. 40 also corresponds to the gematria value for 'life' and 'I am', the divine statement of pure being.
+>>>> 
+>>>> *Nothing is a coincidence.*
 
-> **u/monkyyy0** [+5] *
+> **u/monkyyy0** [+3]  (3 hours later)
 > 
 > I'm starting to wonder if ana and sohu mother were at least some part angel and what makes sohu special is that she's a very special mix of angel and human.
-> We of course know ana isn't a full angel(she speaks the made up language); but it seems a little odd her asexuality played such a heavy focus early. And that brief random mention of one of the comet king suitors can't be a coincidence BNIAC.
-> >“So is the moon,” said the Comet King, “and so much the worse for the darkness.”
-> Ummmm what? In a chapter that they are messing with the moon, it gets mentioned?
-> How is the moon going to get lost?
-> >“Boop,” he said.
-> So how exactly does T relate to the Russian leader in overwatch?
 > 
+> We of course know ana isn't a full angel(she speaks the made up language); but it seems a little odd her asexuality played such a heavy focus early. And that brief random mention of one of the comet king suitors can't be a coincidence BNIAC.
+> 
+> >“So is the moon,” said the Comet King, “and so much the worse for the darkness.”
+> 
+> Ummmm what? In a chapter that they are messing with the moon, it gets mentioned?
+> 
+> How is the moon going to get lost?
+> 
+> >“Boop,” he said.
+> 
+> So how exactly does T relate to the Russian leader in overwatch?
 
->> **u/ulyssessword** [+3] *
+>> **u/ulyssessword** [+3]  (18 hours later)
 >> 
 >> > How is the moon going to get lost?
->> Uriel dropped the moon behind the sun.  
->> >Uriel dropped the moon [...] Sohu kept seizing until the last curve of the moon came out from **behind the sun**.
 >> 
+>> Uriel dropped the moon behind the sun.  
+>> 
+>> >Uriel dropped the moon [...] Sohu kept seizing until the last curve of the moon came out from **behind the sun**.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (22 hours later)
 > 
 > So, I haven't read this in a while, and I'm considering waiting until it's done so that I can read the entire thing without having to wait. Can anyone tell me how close it is to being finished,
-> 
 
->> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (22 hours later)
 >> 
 >> 3/5 done, I think.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (22 hours later)
 >>> 
 >>> Alright, thanks fam
->>> 
 
->> **u/stavro375** [+2] *
+>> **u/stavro375** [+2]  (a day later)
 >> 
 >> We don't know.  It's *thought* that it will be 72 chapters long, but only because that puts its finale on May 14, 2017 -- note that the last time we saw Ana it was May 13, 2017.  But nobody really knows.
->> 
 
 ---
 

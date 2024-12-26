@@ -18,16 +18,15 @@ I'm very fond of this game, and I hope someone here might similarly enjoy it.
 
 ### Comments:
 
-> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (2 hours later)
 > 
 > This looks really cool. How do you play it though? Is it possible to try a demo of it or something?
-> 
 
->> **u/Aretii** [+1]  *Cultist of Cthugha**
+>> **u/Aretii** [+1]  *Cultist of Cthugha* (4 hours later)
 >> 
 >> There's a description of the genre [on his website](http://www.paracelsus-games.com/theatrical-experiences-explanation), but it's really geared at people who aren't that familiar with role-playing games to begin with. If you are, though, the concept is identical to a tabletop RPG, except that instead of sitting around a table, you're moving around in a game space, in character except when you specifically signal that you aren't, and mingle (or whatever else the game might have you doing). "Boxed" theater LARPs like this are a lot like certain tabletop RPG modules: the documents include rules and character sheets that tell you everything you need to know to play. Different theater games have different personnel/logistical requirements, but this one is rather small (seven people and a GM) and very simple: when I played, we played in two small rooms of the author's apartment.
->> As far as a demo goes: it's not really a demo-able game, because the game experience doesn't lend itself to being broken down into chunks. Mostly, you're seven people talking at a funeral (for varying definitions of "person," which is where a lot of the thematic meat of the game is).
 >> 
+>> As far as a demo goes: it's not really a demo-able game, because the game experience doesn't lend itself to being broken down into chunks. Mostly, you're seven people talking at a funeral (for varying definitions of "person," which is where a lot of the thematic meat of the game is).
 
 ---
 

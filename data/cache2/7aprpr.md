@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 27
+* Score: 29
 
 * Created: 2017-11-04T09:45:27
 
@@ -12,176 +12,155 @@
 
 ### Comments:
 
-> **u/LazarusRises** [+21] *
+> **u/LazarusRises** [+21]  (7 hours later)
 > 
 > Parahumans 2 is shaping up to be one of these. Requires that you've read Worm.
-> 
 
->> **u/Anderkent** [+1] *
+>> **u/Anderkent** [+1]  (2 days later)
 >> 
 >> > Requires that you've read Worm
->> I wouldn't be that surprised if parahumans 2 worked standalone.
 >> 
+>> I wouldn't be that surprised if parahumans 2 worked standalone.
 
->>> **u/LazarusRises** [+1] *
+>>> **u/LazarusRises** [+1]  (2 days later)
 >>> 
 >>> Fair! I feel like the prologue chapters require a lot of background knowledge, but maybe not.
->>> 
 
->>>> **u/Anderkent** [+2] *
+>>>> **u/Anderkent** [+2]  (2 days later)
 >>>> 
 >>>> The preludes are super confusing for me even after having recently re-read worm :P I treat them as teasers rather than actual content.
->>>> 
 
->>>>> **u/LazarusRises** [+1] *
+>>>>> **u/LazarusRises** [+1]  (2 days later)
 >>>>> 
 >>>>> Yeah same. Probably a good call. GodDAMN I can't wait for the story proper to start.
->>>>> 
 
->>>>> **u/earnestadmission** [+1]  *Singular "they" user**
+>>>>> **u/earnestadmission** [+1]  *Singular "they" user* (3 days later)
 >>>>> 
 >>>>> Yes! I am not a huge fan of the parahumans online format to begin with, but the prelude Glow chapters have been pretty much a non-starter for me.
->>>>> I'm hoping that we move on to more traditional narrative quickly.
 >>>>> 
+>>>>> I'm hoping that we move on to more traditional narrative quickly.
 
-> **u/SimonSim211** [+15] *
+> **u/SimonSim211** [+16]  (an hour later)
 > 
 > while the primary theme is uplift https://www.fictionpress.com/s/3238329/1/A-Hero-s-War fits this as well
-> 
 
->> **u/mp3max** [+4] *
+>> **u/mp3max** [+4]  (3 hours later)
 >> 
 >> That's not post-apocalyptic
->> 
 
->>> **u/caverts** [+10] *
+>>> **u/caverts** [+10]  (5 hours later)
 >>> 
 >>> [minor spoiler:](#s "It is, actually. It's just that the apocalypse happened a few centuries ago. There's even a zombie outbreak the characters have to deal with.")
->>> 
 
->>>> **u/mp3max** [+3] *
+>>>> **u/mp3max** [+4]  (5 hours later)
 >>>> 
 >>>> But that was so long ago it's like saying 450 - 300 B.C. Egypt is post apocalyptic (early bronze age) Egypt.
->>>> 
 
->>>>> **u/caverts** [+2] *
+>>>>> **u/caverts** [+2]  (18 hours later)
 >>>>> 
 >>>>> Do you view Fallout as being "post-apocalyptic"?
->>>>> Being post-apocalyptic is more about the atmosphere of the setting than its history. Admittedly, the atmosphere of A Hero's War isn't *that* post-apocalyptic, but it is somewhat post-apocalyptic.
 >>>>> 
+>>>>> Being post-apocalyptic is more about the atmosphere of the setting than its history. Admittedly, the atmosphere of A Hero's War isn't *that* post-apocalyptic, but it is somewhat post-apocalyptic.
 
->>>>>> **u/sicutumbo** [+3] *
+>>>>>> **u/sicutumbo** [+3]  (20 hours later)
 >>>>>> 
 >>>>>> It has much stronger vibes of "the forerunner race with great mastery of nature" even if said race did mostly blow itself and the world up. The evidence of that apocalypse is fairly rare and inconsequential to the main plot of the story.
->>>>>> 
 
->>>> **u/StretchMcJenks** [+1] *
+>>>> **u/StretchMcJenks** [+1]  (12 hours later)
 >>>> 
 >>>> Works for me!
->>>> 
 
->> **u/somnolentSlumber** [+1] *
+>> **u/somnolentSlumber** [+1]  (15 hours later)
 >> 
 >> This one, while having themes I agree with and find interesting, is just too badly riddled with grammar mistakes for me to enjoy, unfortunately.
->> 
 
-> **u/mcgruntman** [+7] *
+> **u/mcgruntman** [+8]  (3 hours later)
 > 
 > There's a worm fic called Setanta which might just barely count. Characters are not rationalists, but the setting is pretty well designed and realistic. Side stories go into decent depth about the process of building a town using a "flat-pack" building kit and a chemistry Bible created pre-apocalypse specifically to enable the reconstruction of society.
-> 
 
->> **u/LazarusRises** [+1] *
+>> **u/LazarusRises** [+1]  (15 hours later)
 >> 
 >> Bookmarked, thanks for the rec. This sounds cool.
->> 
 
-> **u/ArgentStonecutter** [+17]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+17]  *Emergency Mustelid Hologram* (22 minutes later)
 > 
 > David Brin, _The Postman_.
-> Vernor Vinge, _The Peace War_, _The Ungoverned_, _Marooned in Realtime_.
 > 
+> Vernor Vinge, _The Peace War_, _The Ungoverned_, _Marooned in Realtime_.
 
->> **u/StretchMcJenks** [+2] *
+>> **u/StretchMcJenks** [+2]  (41 minutes later)
 >> 
 >> Thanks!
->> 
 
-> **u/TastyBrainMeats** [+4] *
+> **u/TastyBrainMeats** [+5]  (12 hours later)
 > 
 > S.M. Stirling's *Emberverse* series *may* qualify.
-> 
 
->> **u/Marthinwurer** [+2] *
+>> **u/Marthinwurer** [+2]  (12 hours later)
 >> 
 >> Yeah, I was just going to say that "Dies the Fire" would definitely count.
->> 
 
->> **u/Evan_Th** [+2]  *Sunshine Regiment**
+>> **u/Evan_Th** [+2]  *Sunshine Regiment* (2 days later)
 >> 
 >> On the other hand, it goes downhill after the first book when [](#s "the author's favorites become implausibly good at war, and the Wiccan religion starts spreading implausibly fast"), and then a lot farther down after book 3 or 4 when the [](#s "Alien Space Bats actually show up and start dispensing quests and crowning kings").  The first book's probably worth reading, but anything else is debatable.
->> 
 
->>> **u/TastyBrainMeats** [+1] *
+>>> **u/TastyBrainMeats** [+1]  (3 days later)
 >>> 
 >>> Eh, I'm still very much fond of the whole series, even the latter books. There's a definite shift in tone, but I'm OK with that, as it makes sense given the changing focus characters.
->>> 
 
->>>> **u/Evan_Th** [+1]  *Sunshine Regiment**
+>>>> **u/Evan_Th** [+1]  *Sunshine Regiment* (3 days later)
 >>>> 
 >>>> Okay, if you like it, but I'm curious - is it that you don't think [](#s "High King Rudi Artos") is a Gary Stu, or is it that you don't mind it?
->>>> And to say the least, I definitely wouldn't call it rationalfic - though rationalfic about meeting some [](#s "alien space bats who've recently killed billions to avert what might be a bad!Singularity") would be really interesting.
 >>>> 
+>>>> And to say the least, I definitely wouldn't call it rationalfic - though rationalfic about meeting some [](#s "alien space bats who've recently killed billions to avert what might be a bad!Singularity") would be really interesting.
 
->>>>> **u/TastyBrainMeats** [+1] *
+>>>>> **u/TastyBrainMeats** [+1]  (3 days later)
 >>>>> 
 >>>>> >Okay, if you like it, but I'm curious - is it that you don't think is a Gary Stu, or is it that you don't mind it?
->>>>> I certainly don't think that it's a Gary Stu. Yes, Rudi and his friends are certainly potent warriors, but I don't recall them pulling off anything more impressive than, say, Aragorn does. They get injured, they lose friends along the way, they fuck up, and in the end - even Rudi can't live forever. What's Gary Stu-ish about them, really?
->>>>> >And to say the least, I definitely wouldn't call it rationalfic - though rationalfic about meeting some would be really interesting.
->>>>> The later books definitely aren't rationalfic, but I was thinking mostly of *Dies the Fire* and the rest of the initial trilogy.
->>>>> (And: the Mackenzies go heavy Wiccan, but they're only one nation, aren't they? The Protectorate is definitely more Christian than not, and there's the Mormons, Mount Angel, the Dunedain, Corvallis, Boise...)
 >>>>> 
+>>>>> I certainly don't think that it's a Gary Stu. Yes, Rudi and his friends are certainly potent warriors, but I don't recall them pulling off anything more impressive than, say, Aragorn does. They get injured, they lose friends along the way, they fuck up, and in the end - even Rudi can't live forever. What's Gary Stu-ish about them, really?
+>>>>> 
+>>>>> >And to say the least, I definitely wouldn't call it rationalfic - though rationalfic about meeting some would be really interesting.
+>>>>> 
+>>>>> The later books definitely aren't rationalfic, but I was thinking mostly of *Dies the Fire* and the rest of the initial trilogy.
+>>>>> 
+>>>>> (And: the Mackenzies go heavy Wiccan, but they're only one nation, aren't they? The Protectorate is definitely more Christian than not, and there's the Mormons, Mount Angel, the Dunedain, Corvallis, Boise...)
 
->>>>>> **u/Evan_Th** [+3]  *Sunshine Regiment**
+>>>>>> **u/Evan_Th** [+3]  *Sunshine Regiment* (3 days later)
 >>>>>> 
 >>>>>> Rudi's personal feats aren't too Stu-ish, but how quickly all the other characters fall in line is.  Realistically, I don't see how he would've [](#s "been accepted as High King") so quickly - at least, not without a whole lot more politicking and internal opposition that Stirling doesn't even hint at.
->>>>>> (And:  sure, I'll believe the Mackenzies going Wiccan; I'll even accept Pastor Whatshisname's convenient death as permissible coincidence.  But how'd it spread so quickly among the Bearkillers?  And how'd it get to be such a coordinated underground in the PPA?  And for that matter, how are the Mackenzies so good at the longbow so quickly, when the medieval English required years of practice from youth on to train up their archers?)
 >>>>>> 
+>>>>>> (And:  sure, I'll believe the Mackenzies going Wiccan; I'll even accept Pastor Whatshisname's convenient death as permissible coincidence.  But how'd it spread so quickly among the Bearkillers?  And how'd it get to be such a coordinated underground in the PPA?  And for that matter, how are the Mackenzies so good at the longbow so quickly, when the medieval English required years of practice from youth on to train up their archers?)
 
-> **u/Galap** [+3] *
+> **u/Galap** [+3]  (17 hours later)
 > 
 > the anime/novel *From the New World* by Yuusuke Kishi fits pretty well.
-> 
 
-> **u/somnolentSlumber** [+4] *
+> **u/somnolentSlumber** [+3]  (6 hours later)
 > 
 > Which fic are you reading?
-> 
 
->> **u/StretchMcJenks** [+1] *
+>> **u/StretchMcJenks** [+1]  (12 hours later)
 >> 
 >> [The Length and Breadth of Fury Road.](http://archiveofourown.org/works/4031473) It's a continuation of the last movie. I've no idea whether it's rational or not, but I'd say it's definitely intense.
->> 
 
->>> **u/somnolentSlumber** [+2] *
+>>> **u/somnolentSlumber** [+2]  (13 hours later)
 >>> 
 >>> Hm. I thought that one was complete? It's marked as such on Ao3.
->>> 
 
->>>> **u/StretchMcJenks** [+1] *
+>>>> **u/StretchMcJenks** [+1]  (14 hours later)
 >>>> 
 >>>> My mistake - it *is* complete, but the following series isn't.
->>>> 
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 > 
 > Localroger has covered this a few times. If you'll forgive spoilers, the much-panned end of the novella Metamorphisis of Prime Intellect is a very "close up" view of this (an Adam and Eve sort of thing), while the entire series of (very) short stories *Passages in the Void* details that from a "wide angle" view (robots seeding humanity on a new planet). 
-> Both are good reads but I highly recommend *Passages in the Void*.
 > 
+> Both are good reads but I highly recommend *Passages in the Void*.
 
-> **u/you_troll** [+1] *
+> **u/you_troll** [+1]  (2 days later)
 > 
 > It's not rational, but I think it's pretty close to it (?). [Paladin](http://royalroadl.com/fiction/13468/paladin) is pretty cool. You also have mech, so yeah.
-> 
 
 ---
 

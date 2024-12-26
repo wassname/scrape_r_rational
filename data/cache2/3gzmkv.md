@@ -12,28 +12,27 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Magic via multi-dimensional nanobots?
-> On an unrelated note, have you read Ra?
 > 
+> On an unrelated note, have you read Ra?
 
->> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist**
+>> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist* (a day later)
 >> 
 >> They might be nanobots, you're actually the first person to guess that as far as I can tell, ^_^
->> And of course I've read Ra :P
 >> 
+>> And of course I've read Ra :P
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Tiny metallic rings that can interface with brains and propagate instructions, which have self-replication constrained by a) population size and b) human instruction? Of course they're nanobots, the question is whether they're natural or artificial.
-> 
 
-> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (a minute later)
 > 
 > I also updated the [magic](http://talesfromaeria.tumblr.com/post/124367572852/magic) page to replace 'magic motes' with aara. 
-> If there's any inconsistencies between the pages please let me know.
 > 
+> If there's any inconsistencies between the pages please let me know.
 
 ---
 

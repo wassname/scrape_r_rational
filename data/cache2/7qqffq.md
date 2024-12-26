@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.reddit.com/r/rational/comments/7qqffq/song_from_shadows_of_the_limelight_as_low_as_a/
-* Score: 23
+* Score: 22
 
 * Created: 2018-01-16T06:24:26
 
@@ -16,15 +16,13 @@ It's really good, complete with extra lyrics and crowd reactions! Thought I'd sh
 
 ### Comments:
 
-> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (47 minutes later)
 > 
 > Fan-works!
-> 
 
-> **u/sparkc** [+1] *
+> **u/sparkc** [+1]  (7 hours later)
 > 
 > I remember catching this on my recent re read too. I particularly enjoyed the ‘ad libs’ and the flavour they add.
-> 
 
 ---
 

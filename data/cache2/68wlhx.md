@@ -2,7 +2,7 @@
 
 * Author: u/ulyssessword *
 * URL: https://www.reddit.com/r/Luna_Lovewell/comments/68vv3v/fork_in_the_road/
-* Score: 40
+* Score: 43
 
 * Created: 2017-05-02T23:06:42
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Kishoto** [+4] *
+> **u/Kishoto** [+5]  (a day later)
 > 
 > Nice little blurb. Kinda serves to remind us that not every rationalist story needs to be filled with twisty plots and tons of fancy schmancy talk.
-> 
 
 ---
 

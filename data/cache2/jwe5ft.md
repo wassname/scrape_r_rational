@@ -16,126 +16,131 @@ We're nearing the endgame. This is also a reminder that this fic updates almost 
 
 ### Comments:
 
-> **u/Mowtom_** [+13] *
+> **u/Mowtom_** [+14]  (6 hours later)
 > 
 > For anyone reading this thread, do note: In my opinion a lot of the appeal of rational fiction is taking a very similar starting point and watching it diverge wildly.  Characters make entirely new mistakes that are hard to see coming, rather than mistakes you can see a mile away and scream at them not to do.  Characters that have intelligence boosts use them to make plans that are better thought out and more interesting.
-> In this fic...there's none of that.  To quote the author from the other thread, it is the same as canon, "plot-beat for plot-beat".  I'm up to date and I'm still going to finish it but I doubt I'd have started it if I'd known in advance that every single mistake the characters in canon make, every single important event, I already knew going in.
 > 
+> In this fic...there's none of that.  To quote the author from the other thread, it is the same as canon, "plot-beat for plot-beat".  I'm up to date and I'm still going to finish it but I doubt I'd have started it if I'd known in advance that every single mistake the characters in canon make, every single important event, I already knew going in.
 
->> **u/everything-narrative** [+5]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+5]  *Coral, Abide with Rubicon!* (11 hours later)
 >> 
 >> I never claimed this was explicitly rational, just that the demographics here might find it interesting.
->> In fact I have found that stories with explicitly rational protagonists bore me to read, and annoy me to write. Real people, even smart ones, are dumb as fuck, and that makes them all the more charming, IMO.
->> What I am presenting here is hard fantasy, a frank look at war as a concept, and the characters we know and love, doing the things we know and love.
 >> 
+>> In fact I have found that stories with explicitly rational protagonists bore me to read, and annoy me to write. Real people, even smart ones, are dumb as fuck, and that makes them all the more charming, IMO.
+>> 
+>> What I am presenting here is hard fantasy, a frank look at war as a concept, and the characters we know and love, doing the things we know and love.
 
->>> **u/Mowtom_** [+6] *
+>>> **u/Mowtom_** [+6]  (12 hours later)
 >>> 
 >>> Understood!  My intent with that comment was to make sure readers understand the ways in which this fic is different from the sort of things that are usually posted here before they start reading.  I do think you're a good author and what you're writing is worth writing!  Just that it very isn't what I was led to expect and hopefully I can clarify that for people.
->>> 
 
->>>> **u/everything-narrative** [+4]  *Coral, Abide with Rubicon!**
+>>>> **u/everything-narrative** [+5]  *Coral, Abide with Rubicon!* (22 hours later)
 >>>> 
 >>>> I understood that; my comment was without reproach. :)
->>>> 
 
->>> **u/derefr** [+3] *
+>>> **u/derefr** [+3]  (14 hours later)
 >>> 
 >>> > Real people, even smart ones, are dumb as fuck
->>> I read fiction because I'm trying to *get away from* dumb-ass real people. Are you not stymied by dumbassery often-enough in your own life, that you need to imagine more dumbassery into the world? :P
->>> (Seriously though, it's good writing, and I'm sure *someone* will like it.)
 >>> 
+>>> I read fiction because I'm trying to *get away from* dumb-ass real people. Are you not stymied by dumbassery often-enough in your own life, that you need to imagine more dumbassery into the world? :P
+>>> 
+>>> (Seriously though, it's good writing, and I'm sure *someone* will like it.)
 
->>>> **u/everything-narrative** [+7]  *Coral, Abide with Rubicon!**
+>>>> **u/everything-narrative** [+5]  *Coral, Abide with Rubicon!* (22 hours later)
 >>>> 
 >>>> I am a dumbass smart person. I'm writing this in part to process my own feelings about being a dumbass smart person.
->>>> 
 
->>>>> **u/derefr** [+1] *
+>>>>> **u/derefr** [+1]  (2 days later)
 >>>>> 
 >>>>> Ah, I feel that. I *do* like characters who are intelligent enough, but who have flawed *preferences, motivations, and cached beliefs.* And who may be prone to mental-illness-y things like unfounded social anxiety, or inattention to detail. To me, those don't make the story or the character any less *rational* — it just means their attempts at rationality are being played on hard mode. :)
->>>>> Usually, though—at least in serious, literary fiction—such characters are considered to have a *fatal character flaw*, and stories starring such characters are usually tragedies. Such stories are *very* unsatisfying to me personally.
->>>>> Meanwhile, the rational-fiction take on characters like this is more-often-than-not a redemption arc, where they slowly learn to be better to themselves and to others. (E.g. the protagonist of *Worth the Candle*.)
->>>>> I guess I'm a sucker for the starting-from-the-bottom equivalent of competence porn. "Climbing out of a rut"-porn?
 >>>>> 
+>>>>> Usually, though—at least in serious, literary fiction—such characters are considered to have a *fatal character flaw*, and stories starring such characters are usually tragedies. Such stories are *very* unsatisfying to me personally.
+>>>>> 
+>>>>> Meanwhile, the rational-fiction take on characters like this is more-often-than-not a redemption arc, where they slowly learn to be better to themselves and to others. (E.g. the protagonist of *Worth the Candle*.)
+>>>>> 
+>>>>> I guess I'm a sucker for the starting-from-the-bottom equivalent of competence porn. "Climbing out of a rut"-porn?
 
->>> **u/wren42** [+3] *
+>>> **u/wren42** [+3]  (15 hours later)
 >>> 
 >>> The "beat for beat" thing confuses me though, having not read it yet. Fanfic usually diverges in some way...you are basically describing the same events in additional detail or from another perspective?
->>> 
 
->>>> **u/Mowtom_** [+5] *
+>>>> **u/Mowtom_** [+5]  (17 hours later)
 >>>> 
 >>>> There are things that are different, but all of the main events are the same.  Spoilers for canon and this fic I suppose, but all of the following happen in the same order in both:
->>>> >!Adora finding the sword, deserting in Thaymor, offering Catra a chance to join her and being rejected!<
->>>> >!Catra capturing Bow and Glimmer at Princess Prom, Adora leading the Princess Alliance to rescue them, Glimmer losing her powers!<
->>>> >!Adora and Catra fighting in the north with the First Ones data virus thingy!<
->>>> >!Catra being exiled to the Crimson Waste, almost becoming happy there, then upon learning Shadow Weaver defected to Bright Moon rejoining the Horde in anger!<
->>>> >!Adora convincing Entrapta not to open the portal, Catra betraying Entrapta, sending her to Beast Island, and opening the portal anyway.  Queen Angela sacrificing herself to close the portal up again!<
->>>> That's about as far as this fic has updated so far.  But given that we're halfway through the events of canon, the fact that this has all happened more or less the same way is a bit much, in my opinion.
 >>>> 
+>>>> >!Adora finding the sword, deserting in Thaymor, offering Catra a chance to join her and being rejected!<
+>>>> 
+>>>> >!Catra capturing Bow and Glimmer at Princess Prom, Adora leading the Princess Alliance to rescue them, Glimmer losing her powers!<
+>>>> 
+>>>> >!Adora and Catra fighting in the north with the First Ones data virus thingy!<
+>>>> 
+>>>> >!Catra being exiled to the Crimson Waste, almost becoming happy there, then upon learning Shadow Weaver defected to Bright Moon rejoining the Horde in anger!<
+>>>> 
+>>>> >!Adora convincing Entrapta not to open the portal, Catra betraying Entrapta, sending her to Beast Island, and opening the portal anyway.  Queen Angela sacrificing herself to close the portal up again!<
+>>>> 
+>>>> That's about as far as this fic has updated so far.  But given that we're halfway through the events of canon, the fact that this has all happened more or less the same way is a bit much, in my opinion.
 
->>>> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!**
+>>>> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!* (22 hours later)
 >>>> 
 >>>> No. The story is set in a more fleshed-out world, for instance with actual geography, and diverges wildly. What I mean is that there are many key events in canon which also happen in the fic, for instance in book 1:
+>>>> 
 >>>> - Adora is captured, becomes She-Ra, defects during a battle in a place called Thaymor
 >>>> - They go to Salineas, and there's a Horde attack
 >>>> - Glimmer is kidnapped at the ball in Snows, and they Princesses come together in a rescue mission
->>>> All of these things happen both in my story and canon.
->>>> What I am writing is something meant to evoke familiarity: you might know where it's going but you want to see my spin on it. The world is different, but recognizable, the characters are mostly the same, etc.
->>>> I hope that explains it.
 >>>> 
+>>>> All of these things happen both in my story and canon.
+>>>> 
+>>>> What I am writing is something meant to evoke familiarity: you might know where it's going but you want to see my spin on it. The world is different, but recognizable, the characters are mostly the same, etc.
+>>>> 
+>>>> I hope that explains it.
 
-> **u/callmesalticidae** [+6]  *writes worldbuilding books**
+> **u/callmesalticidae** [+6]  *writes worldbuilding books* (13 hours later)
 > 
 > First thought: Oh no, somebody got to Rationalist!She-Ra first! 
-> Second thought: Oh, good, this isn't the same approach I was thinking of taking. 
-> Third thought: Gonna bookmark the heck out of this. 
-> I look forward to reading and commenting on this in the future when my other work clears up!
 > 
+> Second thought: Oh, good, this isn't the same approach I was thinking of taking. 
+> 
+> Third thought: Gonna bookmark the heck out of this. 
+> 
+> I look forward to reading and commenting on this in the future when my other work clears up!
 
->> **u/DawnPaladin** [+3]  *Young Wizards**
+>> **u/DawnPaladin** [+3]  *Young Wizards* (4 days later)
 >> 
 >> I'm looking forward to reading your take, too!
->> 
 
->>> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (4 days later)
 >>> 
 >>> Thank you! I'll make sure to let you know when/if it gets posted. Probably won't happen till late next year, though. I've got a lot on my plate right now.
->>> 
 
->> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!* (22 hours later)
 >> 
 >> Glad you like it.
->> 
 
-> **u/K97** [+3] *
+> **u/K97** [+3]  (19 minutes later)
 > 
 > Thank you; I've been looking for a rational fic of She-Ra for so long.
-> 
 
-> **u/Sarkavonsy** [+1] *
+> **u/Sarkavonsy** [+1]  (a day later)
 > 
 > Oh no, I've reached the latest chapter and now I can't continue to read this continuously at all waking hours! How can you do this\* to me, author?!
-> \*specifically, not have already finished this whole story so i can binge it twice
 > 
+> \*specifically, not have already finished this whole story so i can binge it twice
 
->> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!**
+>> **u/everything-narrative** [+2]  *Coral, Abide with Rubicon!* (a day later)
 >> 
 >> I am literally writing so fast it's bad for my health.
->> Look at the publishing dates. NaNoWriMo eat your heart out.
 >> 
+>> Look at the publishing dates. NaNoWriMo eat your heart out.
 
->>> **u/Sarkavonsy** [+1] *
+>>> **u/Sarkavonsy** [+1]  (a day later)
 >>> 
 >>> Oh jeez, oh no! I was being 0% serious about the demandingness. Your story is amazing and the pace you've been writing at is even more amazing. Please prioritize yourself over the story or the readers!
->>> 
 
->>>> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!**
+>>>> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!* (2 days later)
 >>>> 
 >>>> I am prioritizing myself. The sooner I finish this story, the sooner I am rid of my obsession with it.
->>>> New chapter, by the way.
 >>>> 
+>>>> New chapter, by the way.
 
 ---
 

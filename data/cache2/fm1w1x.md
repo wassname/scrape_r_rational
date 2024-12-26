@@ -2,7 +2,7 @@
 
 * Author: u/SpectrumDT *
 * URL: https://www.reddit.com/r/rational/comments/fm1w1x/fantasy_or_science_fiction_with_a_utilitarian_hero/
-* Score: 73
+* Score: 74
 
 * Created: 2020-03-20T20:15:03
 
@@ -26,465 +26,414 @@ EDIT: Also Frank Herbert's _Dune_.
 
 ### Comments:
 
-> **u/WalterTFD** [+26] *
+> **u/WalterTFD** [+26]  (an hour later)
 > 
 > I hope it isn't tacky to self rec.  I write The Fifth Defiance.  (link: [https://thefifthdefiance.com/2015/11/02/introduction/](https://thefifthdefiance.com/2015/11/02/introduction/))
-> It's a story about a world where there is a super person reigning as dictator, and all attempts to straightforwardly rise up against her regime have failed.  The protags are collaborators, attempting to work from within the system to bring it down.
-> The necessity or lack thereof of utilitarian tradeoffs is pretty central to the various dilemmas that they face.  I dunno, I think I can at least give myself points for 'doesn't demonize it'.
-> It's pretty long too, so if you turn out to be able to get some enjoyment out of it, you should probably be good for a few days.
 > 
+> It's a story about a world where there is a super person reigning as dictator, and all attempts to straightforwardly rise up against her regime have failed.  The protags are collaborators, attempting to work from within the system to bring it down.
+> 
+> The necessity or lack thereof of utilitarian tradeoffs is pretty central to the various dilemmas that they face.  I dunno, I think I can at least give myself points for 'doesn't demonize it'.
+> 
+> It's pretty long too, so if you turn out to be able to get some enjoyment out of it, you should probably be good for a few days.
 
->> **u/SpectrumDT** [+3] *
+>> **u/SpectrumDT** [+3]  (an hour later)
 >> 
 >> Thanks for the recommendation!
->> 
 
->> **u/Dent7777** [+2]  *House Atreides**
+>> **u/Dent7777** [+2]  *House Atreides* (9 hours later)
 >> 
 >> How far into it are you?
->> 
 
->>> **u/WalterTFD** [+2] *
+>>> **u/WalterTFD** [+2]  (10 hours later)
 >>> 
 >>> Pretty far along, a couple hundred updates I'm sure.
->>> 
 
->>>> **u/Dent7777** [+2]  *House Atreides**
+>>>> **u/Dent7777** [+2]  *House Atreides* (16 hours later)
 >>>> 
 >>>> Count me in!
->>>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 days later)
 >> 
 >> [deleted]
->> 
 
->>> **u/WalterTFD** [+1] *
+>>> **u/WalterTFD** [+1]  (6 days later)
 >>> 
 >>> I can't plot speculate, but thanks for reading along so far!
->>> 
 
->> **u/zaxqs** [+3] *
+>> **u/zaxqs** [+3]  (11 days later)
 >> 
 >> I'll be honest, I didn't think this was going to be exceptional, but having read through part 1 and a bit of part 2, I'd rate this story on par with Worm. Incredible work!
->> 
 
-> **u/None** [+50] *
+> **u/None** [+55]  (24 minutes later)
 > 
 > If you are fine with webfiction i can recommend practical guide to evil, its really long though. If you like superman i can recommend [The Metropolitian Man](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) which focuses on Lex Luthers attempts to kill superman and his motivations for doing so, which are hardcore utilitarian.
-> 
 
->> **u/archpawn** [+33] *
+>> **u/archpawn** [+29]  (an hour later)
 >> 
 >> I feel like Practical Guide to Evil ignores the fact that hell literally exists in that universe. Catherine seems to only care about this life.
->> Also, Metropolitan Man seems like it might be more about a possible failure state. Lex was so concerned about the dangers of Superman that he didn't worry about what else might be out there, and now he'll likely be stuck fighting Brainiac without help from someone with superpowers.
 >> 
+>> Also, Metropolitan Man seems like it might be more about a possible failure state. Lex was so concerned about the dangers of Superman that he didn't worry about what else might be out there, and now he'll likely be stuck fighting Brainiac without help from someone with superpowers.
 
->>> **u/darkardengeno** [+27] *
+>>> **u/darkardengeno** [+29]  (3 hours later)
 >>> 
 >>> >I feel like Practical Guide to Evil ignores the fact that hell literally exists in that universe.
->>> You may want to check out [Unsong](http://unsongbook.com/). The premise is that Jewish myths are real, as is the judeochristian hell. Without spoiling, this is a major theme that certainly does not go ignored. Peter Singer is referenced as an early figure in the fight against Hell and there are some definite instances of the sort of tricky utilitarian decisions you're looking for.
 >>> 
+>>> You may want to check out [Unsong](http://unsongbook.com/). The premise is that Jewish myths are real, as is the judeochristian hell. Without spoiling, this is a major theme that certainly does not go ignored. Peter Singer is referenced as an early figure in the fight against Hell and there are some definite instances of the sort of tricky utilitarian decisions you're looking for.
 
->>>> **u/foveros** [+2] *
+>>>> **u/foveros** [+2]  (21 hours later)
 >>>> 
 >>>> Since I found Unsong a slog to read through most of the time, [I will link to the relevant chapter, the one describing hell](http://unsongbook.com/interlude-%D7%99-the-broadcast/). Can be read as a standalone interlude, and is really good.
->>>> 
 
->>> **u/Pel-Mel** [+14]  *Adept**
+>>> **u/Pel-Mel** [+14]  *Adept* (10 hours later)
 >>> 
 >>> To be fair though, the Hells we know of aren't really designated afterlifes, at least, none that we've seen. They seem more like dimensional homes for devils and demons rather than any kind of karmic punishment. Whatever the afterlife for Villains is, even Cat hasn't gotten to see it.
->>> Edit: As a matter of fact, considering that >!Kairos got applause from the Gods Below when he died!< seems to indicate that the Gods Below might actually have rewards for their best adherents just like Above. Pragmatically speaking, you've got to motivate loyalty somehow.
 >>> 
+>>> Edit: As a matter of fact, considering that >!Kairos got applause from the Gods Below when he died!< seems to indicate that the Gods Below might actually have rewards for their best adherents just like Above. Pragmatically speaking, you've got to motivate loyalty somehow.
 
->>> **u/Kaiern9** [+11] *
+>>> **u/Kaiern9** [+12]  (2 hours later)
 >>> 
 >>> Do we actually know the mechanics of hell in PGTE?
->>> 
 
->>>> **u/archpawn** [+11] *
+>>>> **u/archpawn** [+12]  (2 hours later)
 >>>> 
 >>>> We don't know much as far as I've read (book 4 chapter 13), but that's exactly the issue. She should be putting a lot more effort into learning about that.
->>>> 
 
->>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (4 days later)
 >>>>> 
 >>>>> It’s impossible to know, so far, since as we’re aware anyone brought back (and the Praesi have tried *a lot*) always have their memories wiped.  We know it exists, and that’s about it.
->>>>> 
 
->>>>> **u/GeneralExtension** [+1] *
+>>>>> **u/GeneralExtension** [+1]  (6 days later)
 >>>>> 
 >>>>> If you can't handle your angry neighbors who are try to destroy you right now, how are you going to take on Hades, at the same time?
->>>>> 
 
->>>>>> **u/archpawn** [+1] *
+>>>>>> **u/archpawn** [+1]  (6 days later)
 >>>>>> 
 >>>>>> At least at the beginning her ultimate goal was to improve conditions in Callow. Even if step one is fight off the neighbors either way, some more thought should be put into the ultimate goal being improving conditions in the afterlife.
->>>>>> 
 
->>> **u/MagicHamsta** [+21] *
+>>> **u/MagicHamsta** [+21]  (5 hours later)
 >>> 
 >>> >  ignores the fact that hell literally exists in that universe
->>> Not really.
->>> >!IIRC part of hell was literally invaded and taken over. So Hell isn't some undefeatable force as long as you have the right Story backing you up. Also they've acknowledged that different Heaven and Hells exists, same goes for the Fae. It basically boils down to what you/your people believe. Also apparently the Gnomes are more powerful than Heaven/Hell since their threat of Exterminatus keeps them from developing certain tech.!<
 >>> 
+>>> Not really.
+>>> 
+>>> >!IIRC part of hell was literally invaded and taken over. So Hell isn't some undefeatable force as long as you have the right Story backing you up. Also they've acknowledged that different Heaven and Hells exists, same goes for the Fae. It basically boils down to what you/your people believe. Also apparently the Gnomes are more powerful than Heaven/Hell since their threat of Exterminatus keeps them from developing certain tech.!<
 
->>>> **u/archpawn** [+9] *
+>>>> **u/archpawn** [+9]  (5 hours later)
 >>>> 
 >>>> It's possible that they start worrying about it eventually, but in the books I've read Catherine seems to be far more worried about everyone's first life. She didn't join Black to take over hell. She did it to improve the living conditions in Callow.
->>>> 
 
->>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (4 days later)
 >>>>> 
 >>>>> There’s a major misconception here.  The afterlife is not “The Hells.”  The Hells are parallel universes filled with raining blood and psychopathic monsters called devils.  The afterlife is a complete unknown.  There are tons of beliefs about what it is, and people have come back from it with their souls intact, but their memories are always wiped.  WoG is that they differ based on beliefs, but we don’t actually know if being an awful person sees you punished by the Gods Above or rewarded by the Gods Below.
->>>>> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+8]  (an hour later)
 >>> 
 >>> Well Catherine is big on (self )sacrifice, so I don’t think she cares very much about her own eternal Damnation.
 >>> Also Huge spoilers !
->>> 
 
->>>> **u/archpawn** [+8] *
+>>>> **u/archpawn** [+8]  (2 hours later)
 >>>> 
 >>>> I don't mean just her damnation. I don't mean to say that everything she's doing is damning everyone around her. Just that she's put little to no thought into what will happen to them after they die and instead focuses on making mortality better. Focusing on that infinitely thin sliver of their life is absurd.
->>>> 
 
->> **u/SpectrumDT** [+3] *
+>> **u/SpectrumDT** [+3]  (an hour later)
 >> 
 >> Thanks. I'm not sure either is my thing, but they are valid answers!
->> 
 
->>> **u/None** [+8] *
+>>> **u/None** [+9]  (an hour later)
 >>> 
 >>> I am actually 100% sure you would love metropolitan man, but I know fanfiction can be a big turn off.
->>> 
 
-> **u/clawclawbite** [+13] *
+> **u/clawclawbite** [+13]  (2 hours later)
 > 
 > Have you read Heinline's The Moon is a Harsh Mistress? Often considered on the libertarian end  of SF, it involves a lunar rebellion where the revolutionary leadership knows the exact odds of success from the start (1/7).
-> 
 
-> **u/tjhance** [+12] *
+> **u/tjhance** [+11]  (17 hours later)
 > 
 > [Dark wizard of Donkerk](http://www.alexanderwales.com/darkWizardNaNo2016.html)
-> 
 
-> **u/archpawn** [+21] *
+> **u/archpawn** [+21]  (an hour later)
 > 
 > Juniper from Worth The Candle isn't strictly utilitarian, but he has certainly gone pretty far in the whole ends justify the means thing. He has sent innocent people to the hells in the hopes that eventually he'll be powerful enough to destroy them.
-> The Tau from Warhammer 40k come to mind, but I don't know enough about the lore to say how much they're demonized. Though they must be at least a little, given that they even exist in that universe.
 > 
+> The Tau from Warhammer 40k come to mind, but I don't know enough about the lore to say how much they're demonized. Though they must be at least a little, given that they even exist in that universe.
 
->> **u/SpectrumDT** [+2] *
+>> **u/SpectrumDT** [+2]  (14 hours later)
 >> 
 >> Thanks. "Worth the Candle" is a _Dungeons and Dragons_-eqsue isekai?
->> 
 
->>> **u/Geminii27** [+10] *
+>>> **u/Geminii27** [+11]  (18 hours later)
 >>> 
 >>> Yep. There's a lot of worldbuilding discussion woven in and around the central plot; Juniper is basically an experienced and creative DM who is dropped into a world that seems to be at least partially based on several of the worlds he made up over the years (which in turn drew heavily on classic DnD manuals).
->>> Except that he's not the first Earth human to have ended up there, and the deeper he goes, the more everything seems to point to the Lost King...
->>> It does keep things relatively fresh by having the game interface elements be only one part of the overall story, and while they start off relatively straightforward (and are actively used as Chekov's Guns a few times), they fade into the background a little as the story proper develops more complexity. It's also one of the few Gamer isekais where the protagonist gains companions which are, in at least one case, notably *smarter* than him and actively give suggestions about how to explore and munchkin the interface (and push it towards particular goals).
->>> I should add that the character of Amaryllis (the aforementioned companion) is probably even *more* utilitarian than Juniper. She has a very political background in a fairly red-in-tooth-and-claw noble society, and has absolutely no compunction about killing people in cold blood if that would be the most useful thing to do.
 >>> 
+>>> Except that he's not the first Earth human to have ended up there, and the deeper he goes, the more everything seems to point to the Lost King...
+>>> 
+>>> It does keep things relatively fresh by having the game interface elements be only one part of the overall story, and while they start off relatively straightforward (and are actively used as Chekov's Guns a few times), they fade into the background a little as the story proper develops more complexity. It's also one of the few Gamer isekais where the protagonist gains companions which are, in at least one case, notably *smarter* than him and actively give suggestions about how to explore and munchkin the interface (and push it towards particular goals).
+>>> 
+>>> I should add that the character of Amaryllis (the aforementioned companion) is probably even *more* utilitarian than Juniper. She has a very political background in a fairly red-in-tooth-and-claw noble society, and has absolutely no compunction about killing people in cold blood if that would be the most useful thing to do.
 
->>>> **u/SpectrumDT** [+1] *
+>>>> **u/SpectrumDT** [+1]  (18 hours later)
 >>>> 
 >>>> Thanks for the explanation!
->>>> 
 
->>> **u/LLJKCicero** [+1] *
+>>> **u/LLJKCicero** [+1]  (15 hours later)
 >>> 
 >>> Yes, LitRPG too (though tonally *very* different from typical isekai LitRPG's).
->>> 
 
-> **u/GreenGriffin8** [+6] *
+> **u/GreenGriffin8** [+7]  (4 hours later)
 > 
 > Not an answer to your question, but I have to disagree with Reinhardt as a utilitarian hero, especially compared to characters like Oberstein.  Reinhardt was no less focused on his image and being seen as a hero than he was on actually unifying the galaxy.  See the Westerland incident for a perfect example of what I mean.
-> 
 
->> **u/SpectrumDT** [+2] *
+>> **u/SpectrumDT** [+2]  (13 hours later)
 >> 
 >> Fair enough. I don't know the whole story. So far I've only watched the 2010s anime, not the older anime nor the books.
->> 
 
->>> **u/forthemostpart** [+1] *
+>>> **u/forthemostpart** [+1]  (a day later)
 >>> 
 >>> Have you seen the movie trilogy sequel?
->>> 
 
->>>> **u/SpectrumDT** [+1] *
+>>>> **u/SpectrumDT** [+1]  (a day later)
 >>>> 
 >>>> Yes. There's a scene where he sacrifices some people. The story doesn't overtly demonize him for it. That's better than nothing.
->>>> 
 
-> **u/tvcgrid** [+8] *
+> **u/tvcgrid** [+7]  (8 hours later)
 > 
 > Baru Cormorant in the Masquerade series. The Masquerade are a colonial expansionist empire that economically and culturally invade Baru’s island home, and she decides to work from within to help her family, her people. It has legitimately interesting application of economics in the story too! And has a gut wrenching emotional core.
-> 
 
->> **u/SpectrumDT** [+2] *
+>> **u/SpectrumDT** [+2]  (14 hours later)
 >> 
 >> Looks interesting. Will check it out! What is the worldbuilding like? High or low on magic and fantastic creatures?
->> 
 
->>> **u/sparkc** [+2] *
+>>> **u/sparkc** [+2]  (18 hours later)
 >>> 
 >>> Nearly non-existent in Book 1. Apparently that changes in Book 2 but i haven’t read it yet (waiting on the release of Book ~~2.5~~ 3).
->>> 
 
->>>> **u/tvcgrid** [+1] *
+>>>> **u/tvcgrid** [+1]  (a day later)
 >>>> 
 >>>> Good/bad news. It’s gonna be 4 books now haha.
->>>> 
 
->>> **u/tvcgrid** [+2] *
+>>> **u/tvcgrid** [+2]  (a day later)
 >>> 
 >>> Yeah, having read book 2 also (and agonizingly waiting for book 3 this year), it doesn’t have much magic. I’d describe it as ‘hard fantasy’ — and the author relates concepts to real historical stuff in a great way; in other words, there’s a conscious interest in making things seem very real and grounded. But hey, where else do you get an exciting protagonist who’s a freaking accountant (there’s more to Baru than that, don’t worry lol)
->>> 
 
-> **u/BoxSparrow** [+9] *
+> **u/BoxSparrow** [+10]  (2 hours later)
 > 
 > Many (or just some) of the fics in the reddit wiki have utilitarianism as a thing, so check those out if you hadn't already.
-> A pretty good one not on the list is [Isekai Speedrun](https://www.royalroad.com/fiction/21107/isekai-speedrun), where the world is post-apocalyptic and the characters morally dark. Pretty interesting worldbuilding as well, I think.
 > 
+> A pretty good one not on the list is [Isekai Speedrun](https://www.royalroad.com/fiction/21107/isekai-speedrun), where the world is post-apocalyptic and the characters morally dark. Pretty interesting worldbuilding as well, I think.
 
-> **u/JosephPrince42** [+10] *
+> **u/JosephPrince42** [+10]  (3 hours later)
 > 
 > Not exactly what you're looking for, since the story does attempt to imply he was wrong, but I have a feeling you'd really enjoy the character Emiya Kiritsugu from the Fate/Zero anime and light novel.
-> Also: Amaryllis from Worth the Candle.
 > 
+> Also: Amaryllis from Worth the Candle.
 
->> **u/SpectrumDT** [+10] *
+>> **u/SpectrumDT** [+9]  (14 hours later)
 >> 
 >> IMO Emiya Kiritsugu is a horror example of the opposite. He is a strawman utilitarian. The plot goes out of its way to dishonestly stack the odds against his philosophy and make him look wrong and pave the way for his stupid, plot-armoured son to look heroic. Of all the tepid philosophy I've seen in Nasu Kinoko's works, this bit is the worst.
->> Thanks, though. :)
 >> 
+>> Thanks, though. :)
 
->>> **u/ShinkenBrown** [+3] *
+>>> **u/ShinkenBrown** [+3]  (3 days later)
 >>> 
 >>> >The plot goes out of its way to dishonestly stack the odds against his philosophy and make him look wrong and pave the way for his stupid, plot-armoured son to look heroic.
->>> To be fair it's also pretty clear that >!Shiro's heroism is naïve and he eventually comes to regret his ideals.!< I think that story does a pretty good job of not picking one philosophy over others, but rather exploring the positives and negatives of several different worldviews without trying to claim one is better than others. You don't get competing worldviews with one coming out on top, you get worldviews struggling against their own internal inconsistencies.
 >>> 
+>>> To be fair it's also pretty clear that >!Shiro's heroism is naïve and he eventually comes to regret his ideals.!< I think that story does a pretty good job of not picking one philosophy over others, but rather exploring the positives and negatives of several different worldviews without trying to claim one is better than others. You don't get competing worldviews with one coming out on top, you get worldviews struggling against their own internal inconsistencies.
 
-> **u/CronoDAS** [+4] *
+> **u/CronoDAS** [+6]  (21 hours later)
 > 
 > Well, in *Wizard's First Rule* by Terry Goodkind, the heroes have a discussion in which they say that their mission to keep the MacGuffin away from the Evil Overlord is more important than any of them, so they agree that if one of them gets captured and held hostage, they won't give up the MacGuffin no matter what.
-> I found the first two books in the Sword of Truth series to be very good, but it starts taking a serious nosedive in quality starting with the third book, eventually descending into Ayn Rand worshipping madness. The worst part is the disgusting eighth book, *Naked Empire*, which explicitly reverses some of the morality discussed in previous books. In the first book, it's discussed how killing is always a tragedy, because even the life of an enemy has value, and the most dangerous thing in the world is someone utterly convinced of the rightness of their own cause, because they'll be capable of anything. In the eighth book, the moral is that some things really are as simple as black and white, that some things really are just Evil and that there is nothing bad whatsoever about killing people that support Evil. :/
 > 
+> I found the first two books in the Sword of Truth series to be very good, but it starts taking a serious nosedive in quality starting with the third book, eventually descending into Ayn Rand worshipping madness. The worst part is the disgusting eighth book, *Naked Empire*, which explicitly reverses some of the morality discussed in previous books. In the first book, it's discussed how killing is always a tragedy, because even the life of an enemy has value, and the most dangerous thing in the world is someone utterly convinced of the rightness of their own cause, because they'll be capable of anything. In the eighth book, the moral is that some things really are as simple as black and white, that some things really are just Evil and that there is nothing bad whatsoever about killing people that support Evil. :/
 
->> **u/SpectrumDT** [+1] *
+>> **u/SpectrumDT** [+1]  (21 hours later)
 >> 
 >> Thanks. I intend to steer clear of Goodkind.
->> 
 
->>> **u/CronoDAS** [+1] *
+>>> **u/CronoDAS** [+1]  (21 hours later)
 >>> 
 >>> It started out so promisingly, too; some of the life lessons and rationality tips in the first two books actually helped me in real life, but I think after his first two books were bestsellers he got Protection from Editors. I also suspect it's not a coincidence that *Naked Empire* came out not too long after the 9/11 attacks.
->>> 
 
->>>> **u/KilotonDefenestrator** [+3] *
+>>>> **u/KilotonDefenestrator** [+3]  (a day later)
 >>>> 
 >>>> I enjoyed the first few books, and read a bunch more on pure inertia. But the frequent just-in-time out of nowhere deus ex moments with the soft and inconsistent magic system and the cyclic way every book ends with the big problem solved and the next book has a new problem lined up out of nowhere just turned me off. I stopped at the book where he brought down an evil socialist nightmare by *working hard*.
->>>> 
 
->>>>> **u/CronoDAS** [+3] *
+>>>>> **u/CronoDAS** [+3]  (a day later)
 >>>>> 
 >>>>> I actually enjoyed that one, but I had been exposed to Ayn Rand before, quickly saw where it was going and decided to appreciate it as a member of the Author Tract genre rather than as  Robert Jordan-esque epic fantasy. (I didn't enjoy the first book of George RR Martin's *A Song of Ice and Fire* because I had the wrong expectations; I was expecting a story about Jon Snow and the invasion of the White Walkers, but it's been five books and the invasion has barely even begun. I liked the rest of the books a lot more once I stopped expecting Winter to actually arrive.)
->>>>> Incidentally, the "each book has a new problem that's solved by the end" structure was a deliberate attempt by Goodkind to let each book stand on its own as much as possible. That may or may not have been a good decision.
 >>>>> 
+>>>>> Incidentally, the "each book has a new problem that's solved by the end" structure was a deliberate attempt by Goodkind to let each book stand on its own as much as possible. That may or may not have been a good decision.
 
->>>>>> **u/KilotonDefenestrator** [+1] *
+>>>>>> **u/KilotonDefenestrator** [+1]  (a day later)
 >>>>>> 
 >>>>>> > Incidentally, the "each book has a new problem that's solved by the end" structure was a deliberate attempt by Goodkind to let each book stand on its own as much as possible. That may or may not have been a good decision.
->>>>>> It think I was more annoyed with how (to my eye) the new problem wasn't foreshadowed, it just popped up fully formed out of nowhere, and often were things that they should have seen signs of in the previous books.
->>>>>> I enjoyed the books, parts very much, just not enough (in the end) to pick up the next book.
 >>>>>> 
+>>>>>> It think I was more annoyed with how (to my eye) the new problem wasn't foreshadowed, it just popped up fully formed out of nowhere, and often were things that they should have seen signs of in the previous books.
+>>>>>> 
+>>>>>> I enjoyed the books, parts very much, just not enough (in the end) to pick up the next book.
 
->>>>>>> **u/CronoDAS** [+2] *
+>>>>>>> **u/CronoDAS** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> You got out while the getting was good. *Naked Empire* felt disgusting and horrified me on a moral level; reading it felt like I imagine reading Nazi propaganda would feel like. It felt like Richard was turning into exactly the kind of heartless fanatic that he was warned against becoming in the first book, except that the author was *cheering on* the transformation. (And the strawman version of the "there is no such thing as objective knowledge" philosophical position that the Bandakarians hold was absurd and felt like the author was insulting my intelligence by describing it. No sane person would believe that, because we can't be completely certain of anything and our senses are fallible, learning anything at all about the world is impossible.)
->>>>>>> 
 
->>>>>>>> **u/KilotonDefenestrator** [+1] *
+>>>>>>>> **u/KilotonDefenestrator** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> Wow, yeah it really seems like I dodged a bullet there.
->>>>>>>> 
 
->>>>>>>>> **u/CronoDAS** [+1] *
+>>>>>>>>> **u/CronoDAS** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> It goes back to baseline levels of mediocrity afterwards, but yeah. (I read the series all the way up to *Phantom*; I'll probably read *Confessor* some day to finish it off, but I'm not going to give Goodkind any money for it.)
->>>>>>>>> 
 
-> **u/Ikacprzak** [+5] *
+> **u/Ikacprzak** [+5]  (23 hours later)
 > 
 > 1) Ozymandias in Watchmen, there's strong arguments both for and against his actions. In the very beginning, Rorshach talks about how Truman deploying the A-bomb saved more people than it killed, which sets up Ozymandias's actions. Are three million people worth it to save billions both now and in the future? And will his noble lie even lead to a lasting peace?
-> 2) Deus Ex and Fallout both can be played with a utilitarian worldview that leads to multiple endings. In New Vegas I support the NCR because it leads to the greatest good in both the short term and the long term by establishing a functioning democracy.
 > 
+> 2) Deus Ex and Fallout both can be played with a utilitarian worldview that leads to multiple endings. In New Vegas I support the NCR because it leads to the greatest good in both the short term and the long term by establishing a functioning democracy.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 years later)
 >> 
 >> But ozymadias is a Villain
->> 
 
-> **u/Xtraordinaire** [+4]  *Team Glimglam**
+> **u/Xtraordinaire** [+4]  *Team Glimglam* (a day later)
 > 
 > Prisoners of Power by brothers Strugatsky. It's hard to give a pitch without spoiling too much, but the plot boils down to this. Maxim, a posthuman from a communist utopia crash-lands on a post nuclear war planet, and the conditions are not great, not terrible. The protag is Superman lite. No flight or laser eyes, but impervious to radiation and vastly superior to the natives in every metric. From there Max, decidedly not an utilitarian, works to fix the local dystopia. And fails.
-> Oh, and how come Dune isn't on your list.
 > 
+> Oh, and how come Dune isn't on your list.
 
->> **u/SpectrumDT** [+1] *
+>> **u/SpectrumDT** [+1]  (a day later)
 >> 
 >> Thanks! You're right, _Dune_ counts. I thought of it but then forgot it when I wrote the post.
->> 
 
-> **u/LLJKCicero** [+3] *
+> **u/LLJKCicero** [+3]  (15 hours later)
 > 
 > The protagonist in **Practical Guide to Evil**, as well as her mentor are both kind of utilitarian "villains".
-> Catherine is nominally on the side of Evil, but in practice often seems good-er than the heroes on the side of Good.
-> For utilitarianism, there was recently a plot point revolving around reacting to a highly infectious, deadly disease by either >!praying to the Gods Above for salvation, vs containment followed by killing people who tried to escape quarantine.!< Acting on faith vs taking pragmatic but ruthless action.
 > 
+> Catherine is nominally on the side of Evil, but in practice often seems good-er than the heroes on the side of Good.
+> 
+> For utilitarianism, there was recently a plot point revolving around reacting to a highly infectious, deadly disease by either >!praying to the Gods Above for salvation, vs containment followed by killing people who tried to escape quarantine.!< Acting on faith vs taking pragmatic but ruthless action.
 
-> **u/CronoDAS** [+3] *
+> **u/CronoDAS** [+3]  (21 hours later)
 > 
 > Ender's Game?
-> 
 
->> **u/SpectrumDT** [+1] *
+>> **u/SpectrumDT** [+1]  (22 hours later)
 >> 
 >> Which character(s) are you thinking about? Ender? Or his siblings?
->> 
 
->>> **u/CronoDAS** [+1] *
+>>> **u/CronoDAS** [+1]  (23 hours later)
 >>> 
 >>> Ender, mostly, and his approach to fighting; that it's not enough to win one fight, you have to win hard enough to win all the future fights, too.
->>> 
 
->>>> **u/SpectrumDT** [+2] *
+>>>> **u/SpectrumDT** [+2]  (23 hours later)
 >>>> 
 >>>> That's not necessarily utilitarian. It's just brutal. It can be for a utilitarian goal or other principle or it can be selfish. In the beginning Ender does this just to protect himself, not out of any morals. And as far as I remember, until near the end Ender's morals are fairly black-and-white.
->>>> 
 
->>>>> **u/CronoDAS** [+1] *
+>>>>> **u/CronoDAS** [+1]  (23 hours later)
 >>>>> 
 >>>>> That's why the question mark.
->>>>> 
 
->>>>> **u/GeneralExtension** [+1] *
+>>>>> **u/GeneralExtension** [+1]  (6 days later)
 >>>>> 
 >>>>> Some stories are about people doing things they regret, rather than not making mistakes.
->>>>> 
 
->>>>>> **u/SpectrumDT** [+1] *
+>>>>>> **u/SpectrumDT** [+1]  (6 days later)
 >>>>>> 
 >>>>>> Sure. But does that have anything to do with the topic at hand?
->>>>>> 
 
->>>>>>> **u/GeneralExtension** [+1] *
+>>>>>>> **u/GeneralExtension** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> Do Ender's morals change at the end?
->>>>>>> 
 
->>>>>>>> **u/SpectrumDT** [+1] *
+>>>>>>>> **u/SpectrumDT** [+1]  (6 days later)
 >>>>>>>> 
 >>>>>>>> I think so, yes, but I don't remember exactly how. 
->>>>>>>> Do you think the book features utilitarianism to any significant extent? If so, can you remind me how?
 >>>>>>>> 
+>>>>>>>> Do you think the book features utilitarianism to any significant extent? If so, can you remind me how?
 
->>>>>>>>> **u/GeneralExtension** [+1] *
+>>>>>>>>> **u/GeneralExtension** [+1]  (7 days later)
 >>>>>>>>> 
 >>>>>>>>> >!The first thing that comes to mind, is that all three wars are believed to have been against a grand total of 2 people. !<
->>>>>>>>> 
 
-> **u/Argerro** [+6] *
+> **u/Argerro** [+6]  (8 hours later)
 > 
 > I do have another webfiction and this one is nearly one of the longest books in the english language. [Worm](https://parahumans.wordpress.com/) . Basically if superheroes/villains actually made sense characterwise. Warning though, it is VERY graphic in everything from violence to the R-word. But taylor ,the main character, is very pragmatic.
-> 
 
->> **u/ianyboo** [+8] *
+>> **u/ianyboo** [+7]  (18 hours later)
 >> 
 >> My biggest problem with Worm ended up being a practical one. I had a hard time keeping all the names, nicknames and powers straight. I made little cheat sheets for myself to avoid spoilers but it didn't help much. I'd be in situations where the author *clearly* was doing something clever or subtle and I'd be at a complete loss because I had no clue who or what was implied in the text.
->> "A slithering glint of gun metal flashed past the window and Taylor had a sinking sensation that an old foe was upon her..."
->> Meanwhile I'm scrambling to think back 460 chapters to that one fight she had with a metal snake... Or was it a tinker with a tentacle weapon...
 >> 
+>> "A slithering glint of gun metal flashed past the window and Taylor had a sinking sensation that an old foe was upon her..."
+>> 
+>> Meanwhile I'm scrambling to think back 460 chapters to that one fight she had with a metal snake... Or was it a tinker with a tentacle weapon...
 
-> **u/CronoDAS** [+2] *
+> **u/CronoDAS** [+2]  (21 hours later)
 > 
 > L.E. Modesitt Jr. has heroes that generally have a utilitarian bent, frequently choosing to use magic or advanced technology to cause large scale destruction in order to make sure that defeated enemies can never pose a threat again. This is taken to an extreme in *The Ethos Effect* in which the hero observes that a civilization is about to become an Evil Empire and destroys it (using a device that causes what appears to be a massive natural disaster) *before* it can become a threat to everyone else.
-> 
 
-> **u/CronoDAS** [+2] *
+> **u/CronoDAS** [+2]  (22 hours later)
 > 
 > *Watchmen* might be a good example?
-> 
 
-> **u/kaukamieli** [+2] *
+> **u/kaukamieli** [+2]  (a day later)
 > 
-> OK not gonna call it rational but it was damn funny.
+>   OK not gonna call it rational but it was damn funny.
+> 
 > So last night I read LORD DOOM, where Taylor wants to become a hero, but she figures she needs to fund her tinkering first so she creates a disposable alter ego to steal some funds.
-> Not sure if it is utilitarianism of idiocy, but... https://forums.spacebattles.com/forums/worm.115/
 > 
+> Not sure if it is utilitarianism of idiocy, but... https://forums.spacebattles.com/forums/worm.115/
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > The protagonist of Ward just tried to >!hopefully save the world by unleashing a virus that would have killed all Capes, and hopefully fucked up the Entities' data storage scheme!<, so that was pretty utilitarian of her, but for most of the rest of the book she was pretty set against the utilitarian mindset in general.
-> 
 
-> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+> **u/SvalbardCaretaker** [+2]  *Mouse Army* (a day later)
 > 
 > Ringworld engineers by Larry Niven features at its core classic utilitarian calculations. Probably better to read "ringworld" before. Standard Niven disclaimers apply.
-> 
 
->> **u/SpectrumDT** [+2] *
+>> **u/SpectrumDT** [+2]  (a day later)
 >> 
 >> Thanks. What are the standard Niven disclaimers? I haven't read any Niven. :D
->> 
 
->>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (a day later)
 >>> 
 >>> His characters do act and react in ways that are not obvious and not always well explained, but are consistent. Eg. its a bit of a puzzle sometimes to figure stuff out, I like that though. Let me see if I can find a certain short story in the ringworld universe that'll show this.
->>> 
 
->>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (a day later)
 >>>> 
 >>>> You'll want the story "Madness has its place" in Man-Kzin wars III. We see characters updating thoroughly and then act on it - but we see this only implicated not well explained. I consider Niven a quintessential rational author
->>>> . People update on info like no-ones buisness, like in the linked story. Foes often include superhuman intelligent beings that can out-predict you. So the characters start throwing coins to randomize their actions. 
->>>> https://www.baen.com/Chapters/0671878794/0671878794___3.htm
 >>>> 
+>>>> . People update on info like no-ones buisness, like in the linked story. Foes often include superhuman intelligent beings that can out-predict you. So the characters start throwing coins to randomize their actions. 
+>>>> 
+>>>> https://www.baen.com/Chapters/0671878794/0671878794___3.htm
 
-> **u/EsquilaxM** [+1] *
+> **u/EsquilaxM** [+1]  (8 hours later)
 > 
 > Not quite utilitarian but practically driven is the protagonist of the dark fantasy in the broken empire, I think it's called.
-> 
 
->> **u/SpectrumDT** [+1] *
+>> **u/SpectrumDT** [+1]  (13 hours later)
 >> 
 >> Thanks! You mean the ones by Mark Lawrence?
->> What is the worldbuilding like? High or low on magic and fantastic creatures?
 >> 
+>> What is the worldbuilding like? High or low on magic and fantastic creatures?
 
->>> **u/EsquilaxM** [+2] *
+>>> **u/EsquilaxM** [+2]  (3 days later)
 >>> 
 >>> it's relatively low magic, though that's mainly because the mc isn't proficient in it. fantastic creatures there's very few. The worldbiulding of the magic and creatures is a nice idea, i don't think it's explained until the second book though.
->>> 
 
->>>> **u/SpectrumDT** [+1] *
+>>>> **u/SpectrumDT** [+1]  (3 days later)
 >>>> 
 >>>> Thanks.
->>>> 
 
->>> **u/4444Stricture** [+1] *
+>>> **u/4444Stricture** [+1]  (16 hours later)
 >>> 
 >>> That is a very tricky question.
->>> Fundamentally the setting is one of a high fantasy post-apocalyptic medieval/reneaissance earth. Basically, in the future human science was used to erode the natural laws, allowing the human mind to have direct effect on reality i.e. they made magic work. Then the apocalypse happened and society was destroyed.
->>> Basically, the earth is a functioning, mostly feudal, post-apocalyptic grimdark place rife with magic and strange creatures (high magic). It is, in my opinion, one of the better built settings.
 >>> 
+>>> Fundamentally the setting is one of a high fantasy post-apocalyptic medieval/reneaissance earth. Basically, in the future human science was used to erode the natural laws, allowing the human mind to have direct effect on reality i.e. they made magic work. Then the apocalypse happened and society was destroyed.
+>>> 
+>>> Basically, the earth is a functioning, mostly feudal, post-apocalyptic grimdark place rife with magic and strange creatures (high magic). It is, in my opinion, one of the better built settings.
 
->>>> **u/SpectrumDT** [+1] *
+>>>> **u/SpectrumDT** [+1]  (18 hours later)
 >>>> 
 >>>> Thanks!
->>>> 
 
 ---
 

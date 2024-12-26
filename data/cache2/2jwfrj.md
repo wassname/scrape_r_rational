@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.reddit.com/r/rational/comments/2jwfrj/bst_pokefans_lend_me_your_eyes/
-* Score: 20
+* Score: 18
 
 * Created: 2014-10-21T16:27:28
 
@@ -36,256 +36,262 @@ I'm curious to know what you guys think, and what you'd prefer.
 
 ### Comments:
 
-> **u/E-o_o-3** [+13] *
+> **u/E-o_o-3** [+12]  (15 minutes later)
 > 
 > I don't know which one would work better with your story, but I have to say the explanation you came up with is fun and clever. 
-> My impression is that your fictional civilization doesn't quite understand typing yet (like that confusion between poison and grass types between blue and red), but if your civilization contains people constantly battling pokemon for sport and practical purposes, it seems like even if no one was doing science a sudden change would be a pretty significant event, and people would know and wonder about it.
-> Do you see pokemon types as being physics-style laws (as in, the laws governing the universe specifically mention pokemon types) or more descriptions of emergent properties? (for example, the notion that water is strong against fire somehow being a result of the fact that water cuts off combustion from oxygen as an oxidizing agent,  would make the water vs. fire relationship emerge from a different set of rules)
 > 
+> My impression is that your fictional civilization doesn't quite understand typing yet (like that confusion between poison and grass types between blue and red), but if your civilization contains people constantly battling pokemon for sport and practical purposes, it seems like even if no one was doing science a sudden change would be a pretty significant event, and people would know and wonder about it.
+> 
+> Do you see pokemon types as being physics-style laws (as in, the laws governing the universe specifically mention pokemon types) or more descriptions of emergent properties? (for example, the notion that water is strong against fire somehow being a result of the fact that water cuts off combustion from oxygen as an oxidizing agent,  would make the water vs. fire relationship emerge from a different set of rules)
 
->> **u/empocariam** [+9] *
+>> **u/empocariam** [+9]  (an hour later)
 >> 
 >> Red in the story does cast doubt on "The Type Chart" meme, saying it is mostly just cultural baggage from the early days of pokemon, and that it is the actual reality of "Water physically prevents fire" that created it.
->> Which is why the only problem Daystar faces is rationalizing a "Fairy Type" pokemon's sudden immunity to dragon fire, not the type itself.
 >> 
+>> Which is why the only problem Daystar faces is rationalizing a "Fairy Type" pokemon's sudden immunity to dragon fire, not the type itself.
 
->>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>> **u/DaystarEld** [+3]  *Pokémon Professor* (8 hours later)
 >>> 
 >>> Exactly :)
->>> 
 
->> **u/E-o_o-3** [+8] *
+>> **u/E-o_o-3** [+8]  (47 minutes later)
 >> 
 >> If you are comfortable with stretching the canon a bit more, you *could* have the later-Generation Fairy types present ...except they lose the Fairy type, or are transformed into Normal type just like Togepi, Clefairy, and jigglypuff if they are pure-fairy type. That would allow you to use the cool explanation while keeping any conspicuous fairy types you had in mind for plot in the story. It would be a cool little "wait, what? that's normal type?" moment for the reader, which would happen to have a perfectly good explanation.
-
->> You don't actually have to answer the physics/emergent question, but this provides an interesting opportunity for the *characters* to consider the distinction. After all, many of the legendary pokemon are considered gods. It's fitting for them to alter big laws, and the challenges that posed to those who are trying to figure out which laws are universal constants and which are just local peculiarities.
->> For example, if Fairy type appears and disappears (in sync with Xerneas's hibernation habits, although I don't know whether the characters are aware of Xerneas or not) it means that Type law must on certain other factors, and that we don't know the whole story.
->> If it's really 1000 years, I imagine what would *actually* happen in a world like our own is that people would assume the ancient records were simply mistaken about the existence of a Fairy type, its properties, and the pokemon assigned to it before considering the idea that the rules actually changed. You could have some staunch traditionalist insist upon it.
->> If you want to get around *that*, then there are multiple Xernea, they have a localized effect, and there were no fairies in earlier versions because the Xernea weren't nearby. That's generally a model that works for all legendary pokemon - there could be more than one, but they are rare and powerful so a local mythology develops around them. (We do much the same with our own animals, despite them not being powerful).
 >> 
+>> You don't actually have to answer the physics/emergent question, but this provides an interesting opportunity for the *characters* to consider the distinction. After all, many of the legendary pokemon are considered gods. It's fitting for them to alter big laws, and the challenges that posed to those who are trying to figure out which laws are universal constants and which are just local peculiarities.
+>> 
+>> For example, if Fairy type appears and disappears (in sync with Xerneas's hibernation habits, although I don't know whether the characters are aware of Xerneas or not) it means that Type law must on certain other factors, and that we don't know the whole story.
+>> 
+>> If it's really 1000 years, I imagine what would *actually* happen in a world like our own is that people would assume the ancient records were simply mistaken about the existence of a Fairy type, its properties, and the pokemon assigned to it before considering the idea that the rules actually changed. You could have some staunch traditionalist insist upon it.
+>> 
+>> If you want to get around *that*, then there are multiple Xernea, they have a localized effect, and there were no fairies in earlier versions because the Xernea weren't nearby. That's generally a model that works for all legendary pokemon - there could be more than one, but they are rare and powerful so a local mythology develops around them. (We do much the same with our own animals, despite them not being powerful).
 
->>> **u/DaystarEld** [+7]  *Pokémon Professor**
+>>> **u/DaystarEld** [+8]  *Pokémon Professor* (2 hours later)
 >>> 
 >>> >If it's really 1000 years, I imagine what would actually happen in a world like our own is that people would assume the ancient records were simply mistaken about the existence of a Fairy type, its properties, and the pokemon assigned to it before considering the idea that the rules actually changed. You could have some staunch traditionalist insist upon it.
->>> Yeah, that's kind of what I had in mind for the hint-dropping.  A thousand years would put them back beyond the point of modern technology, and firmly in the scope of legends.
->>> The idea of there being multiple Xernea works too, though that works best paired with a localization effect, which means there can still be stories of Clefairy exhibiting odd properties in other regions from time to time.
 >>> 
+>>> Yeah, that's kind of what I had in mind for the hint-dropping.  A thousand years would put them back beyond the point of modern technology, and firmly in the scope of legends.
+>>> 
+>>> The idea of there being multiple Xernea works too, though that works best paired with a localization effect, which means there can still be stories of Clefairy exhibiting odd properties in other regions from time to time.
 
->>>> **u/E-o_o-3** [+5] *
+>>>> **u/E-o_o-3** [+5]  (4 hours later)
 >>>> 
 >>>> In general, I think the world makes a lot more sense if there are multiple legendaries, although they don't necessarily have to be in the ecosystem or reproduce like the others. 
->>>> Pokemon like Mewtwo can get a pass for uniqueness, but it's kind hard to design a universe where some individual Pokemon is *actually* the sole embodiment of Big Concepts like Life, God, Space, Time or whatever, and then not have weird, universe ending implications when a trainer catches them or they get defeated by some Gastly with destiny bond.
 >>>> 
+>>>> Pokemon like Mewtwo can get a pass for uniqueness, but it's kind hard to design a universe where some individual Pokemon is *actually* the sole embodiment of Big Concepts like Life, God, Space, Time or whatever, and then not have weird, universe ending implications when a trainer catches them or they get defeated by some Gastly with destiny bond.
 
->>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (7 hours later)
 >>>>> 
 >>>>> Agree completely :)
->>>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (22 hours later)
 >>>>> 
 >>>>> Well, there are two solutions to that problem. Either make those legendaries non-unique or scale up their power because you're writing a story instead of balancing a competitive game.
->>>>> Personally, I'd be happier doing the latter, but I can understand the appeal of the former.
 >>>>> 
+>>>>> Personally, I'd be happier doing the latter, but I can understand the appeal of the former.
 
->>>> **u/empocariam** [+2] *
+>>>> **u/empocariam** [+2]  (4 hours later)
 >>>> 
 >>>> Just a note, it is 3,000 years, not 1,000. At least according to AZ. I mean, even 300 years ago can easily become 3,000 years ago in myths and legends time, but if AZ was telling the truth, he has lived that whole time, so its unlikely *he* would be wrong.
->>>> Unless being an immortal giant who nearly destroyed all life makes you go a little crazy...
 >>>> 
+>>>> Unless being an immortal giant who nearly destroyed all life makes you go a little crazy...
 
->>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (7 hours later)
 >>>>> 
 >>>>> Hmm, I think the war was 3000 years ago, but Xerneas only hibernates for 1000, and maybe something else put it back into hibernation? That's the number listed on Bulbapedia, anyway :)
->>>>> 
 
->>>>>> **u/empocariam** [+1] *
+>>>>>> **u/empocariam** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> Hm, I thought for sure AZ mentioned sealing Xerneas/Yveltal away in the Ultimate Weapon, and then Lysandre opens it again. I'll have to replay the game.
->>>>>> 
 
->>>>>>> **u/DaystarEld** [+4]  *Pokémon Professor**
+>>>>>>> **u/DaystarEld** [+5]  *Pokémon Professor* (8 hours later)
 >>>>>>> 
 >>>>>>> Oh god, don't subject yourself to that! There's got to be an explanation online somewhere...
->>>>>>> (Feel free to replay it if you enjoyed it obviously, personally I found X and Y's story kinda terrible :P)
 >>>>>>> 
+>>>>>>> (Feel free to replay it if you enjoyed it obviously, personally I found X and Y's story kinda terrible :P)
 
->>>> **u/Chosen_Pun** [+1]  *The Chosen Ones**
+>>>> **u/Chosen_Pun** [+1]  *The Chosen Ones* (17 hours later)
 >>>> 
 >>>> If you want to make things simple, you shouldn't go out of your way to include elements not present in the game your story is based on.
 >>>> If you really want to include, or at least comment on, the Fairy type in the story, I think a periodic event/localization effect is the way to go, since this time next month you'll be able to mention Hoenn in this context as well as Kalos. It looks like the Generation III remakes are going to calmly ignore this dilemma altogether, for the Fairy type and for Mega Evolutions.
->>>> 
 
->>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (21 hours later)
 >>>>> 
 >>>>> Right, so there being Fairy types emerge in Hoenn would go a long way toward explaining the discrepency.
->>>>> 
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (an hour later)
 >> 
 >> Definitely descriptions of emergent properties :) And yes, typing is an imprecise science that functions based off observation and attempts at logical extrapolation.
->> 
 
->>> **u/E-o_o-3** [+1] *
+>>> **u/E-o_o-3** [+1]  (4 hours later)
 >>> 
 >>> So if it's a descriptions of emergent properties  that means in a way you almost *have* to depart from game canon at various points - For example, a hydro pump should absolutely decimate a Slugma, but there's no particular reason an Arcanine should care any more than a Raticate if it takes a water jet anywhere that's not directly to the fire-pipe, unless you're going to say that the fire stems from the fur somehow.
->>> So while I think the fairy sub-plot is fun and worth doing, you're already sufficiently far away from canon to get away with almost anything you want without people feeling it's "wrong".
 >>> 
+>>> So while I think the fairy sub-plot is fun and worth doing, you're already sufficiently far away from canon to get away with almost anything you want without people feeling it's "wrong".
 
->>>> **u/empocariam** [+3] *
+>>>> **u/empocariam** [+3]  (4 hours later)
 >>>> 
 >>>> Natural fear can be a part of it. If a predator who relies on breathing flame, Arcanine, comes into the territory of something with the ability to quench those flames, Wartortle, and prevent new fires from being started, you might expect the Fire-Breather to be wary of those Water-Breathing creatures. Whereas a Raticate knows it can still bite a Wartortle, whether it's wet or not.
->>>> 
 
->>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (8 hours later)
 >>>> 
 >>>> Part of it is that the typing matchups are much more mechanical than the games can demonstrate.
->>>> Water isn't strong against an arcanine the same way it's strong against a slugma. With the latter, "it does more damage" makes sense.  But with the former, the reason a water type has an advantage is that its attacks can cancel out the fire type's, which means it has to resort to purely physical attacks while the water type can use its special attacks too. 
->>>> As for the fire coming from the fur, arcanine can combust their fur the way rapidash can their hair, but it doesn't necessarily hurt to get it quenched. Though it is likely very distracting and uncomfortable.
 >>>> 
+>>>> Water isn't strong against an arcanine the same way it's strong against a slugma. With the latter, "it does more damage" makes sense.  But with the former, the reason a water type has an advantage is that its attacks can cancel out the fire type's, which means it has to resort to purely physical attacks while the water type can use its special attacks too. 
+>>>> 
+>>>> As for the fire coming from the fur, arcanine can combust their fur the way rapidash can their hair, but it doesn't necessarily hurt to get it quenched. Though it is likely very distracting and uncomfortable.
 
->>>>> **u/Drexer** [+2] *
+>>>>> **u/Drexer** [+2]  (a day later)
 >>>>> 
 >>>>> Even considering the various fringe cases where type matchups do not behave as deterministically as it happens in the games, I find it curious that we haven't seen a more deterministic and well thought example of type matchups yet.
->>>>> If the inhabitants obtain even some 17 cases of clear type differences and impacts and make with them a linear system it woud be trivial to compute the full type chart. With so many Pokémon it should be relatively trivial to get a statistic indication of a general graph, and then the discussion would move more towards each Pokémon's type classification.
->>>>> I can't help but feel that someone like Bill has gotten the hard data from N official and registered Pokémon battles and wastes quite a bit of time classifying type matchups.
 >>>>> 
+>>>>> If the inhabitants obtain even some 17 cases of clear type differences and impacts and make with them a linear system it woud be trivial to compute the full type chart. With so many Pokémon it should be relatively trivial to get a statistic indication of a general graph, and then the discussion would move more towards each Pokémon's type classification.
+>>>>> 
+>>>>> I can't help but feel that someone like Bill has gotten the hard data from N official and registered Pokémon battles and wastes quite a bit of time classifying type matchups.
 
-> **u/Anakiri** [+5] *
+> **u/Anakiri** [+3]  (3 hours later)
 > 
 > I generally prefer to retcon things so that they were always there. In Generation 1, there were 150 known species of Pokémon - never mind the millenia old, civilization-defining interactions with other species a few hundred miles away. In Generation 2, Pokémon eggs were just discovered. Before that, Pokémon just... didn't reproduce, I guess?
-> The Pokémon series does this sort of thing all the time. You certainly *could* explain it with the Xerneas thing, but that would make the issue of typing even more confusing than it already is. It would make "types" more fundamental to the universe than I think you want them to be. You shouldn't just wave a magic deer and turn on a latent type, just like you can't wave a magic wand and turn on a latent exoskeleton, whatever that would mean.
-> On the other hand, Fairy is basically pure magic, so if any type can be turned on and off, it would be Fairy. But if you want types to be emergent properties, then you'd have to specifically tell me that Fairy is different from organism-with-oil-bladder. And if Fairy actually is a real fundamental thing, how should I know that Rock is not? Can I trust that you won't pull out special rock-magic the same way you would pull out special fairy-magic?
 > 
+> The Pokémon series does this sort of thing all the time. You certainly *could* explain it with the Xerneas thing, but that would make the issue of typing even more confusing than it already is. It would make "types" more fundamental to the universe than I think you want them to be. You shouldn't just wave a magic deer and turn on a latent type, just like you can't wave a magic wand and turn on a latent exoskeleton, whatever that would mean.
+> 
+> On the other hand, Fairy is basically pure magic, so if any type can be turned on and off, it would be Fairy. But if you want types to be emergent properties, then you'd have to specifically tell me that Fairy is different from organism-with-oil-bladder. And if Fairy actually is a real fundamental thing, how should I know that Rock is not? Can I trust that you won't pull out special rock-magic the same way you would pull out special fairy-magic?
 
->> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> **u/DaystarEld** [+3]  *Pokémon Professor* (3 hours later)
 >> 
 >> Yeah, there's a definite division between the types that are emergent properties and those that aren't. 
->> As you said, the Fairy type is basically mystical: that's part of why I made Daisy's clefairy show abilities with so much of a "wow" factor, to ease in the idea that Red might not be completely correct in his belief that the types are **all** merely descriptive.
->> Dragon energy, as well as Psychic/Ghost/Dark energy, are the other things that, as "Types," clearly stand apart from physics as we know it, but I'm also going into those last three quite a bit this chapter, so I'm curious to find out how well you think the description of them walks the line.
 >> 
+>> As you said, the Fairy type is basically mystical: that's part of why I made Daisy's clefairy show abilities with so much of a "wow" factor, to ease in the idea that Red might not be completely correct in his belief that the types are **all** merely descriptive.
+>> 
+>> Dragon energy, as well as Psychic/Ghost/Dark energy, are the other things that, as "Types," clearly stand apart from physics as we know it, but I'm also going into those last three quite a bit this chapter, so I'm curious to find out how well you think the description of them walks the line.
 
->>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>> **u/Bowbreaker** [+2]  *Solitary Locust* (4 hours later)
 >>> 
 >>> Make fairy energy similar to Psychic/Ghost/Dark energy then but far less understood and subtle, to the point of not being yet known and used as a separate Type classification.
->>> As to why their moves have different strengths, what Fairy-Type moves actually existed as Normal-Type in the original games? Maybe the trainer has to actually understand and be in tune with whatever Fairy energy is to effectively use it in a way that somehow disturbs Dragons, disrupts the counterpoint Dark energy, surpasses the defenses granted by Ghost energy, confuses complicated Fighting moves and affects hard but porous Rock a bit more than expected?
->>> Harder would be to explain why no one noticed those moves being less effective when it comes to combustion capable Pokémon or those with natural immunities to Poison (often because they themselves contain such). Maybe the weakness is subtle and the effects haven't been studied enough because of the rarity of such encounters? Something to do with volatile chemicals?
->>> In any case there seem to be only three second generation moves to change from Normal to Fairy.
->>> Much harder still are the defensive traits though. I can't come up with anything easy and sensible for those changes at the moment.
->>> At worst you just forget those and act as if they were just Normal types, maybe with a few very conditional exceptions that seem to crop up more and more often, culminating to whatever triggers Xerneas awakening?
 >>> 
+>>> As to why their moves have different strengths, what Fairy-Type moves actually existed as Normal-Type in the original games? Maybe the trainer has to actually understand and be in tune with whatever Fairy energy is to effectively use it in a way that somehow disturbs Dragons, disrupts the counterpoint Dark energy, surpasses the defenses granted by Ghost energy, confuses complicated Fighting moves and affects hard but porous Rock a bit more than expected?
+>>> 
+>>> Harder would be to explain why no one noticed those moves being less effective when it comes to combustion capable Pokémon or those with natural immunities to Poison (often because they themselves contain such). Maybe the weakness is subtle and the effects haven't been studied enough because of the rarity of such encounters? Something to do with volatile chemicals?
+>>> 
+>>> In any case there seem to be only three second generation moves to change from Normal to Fairy.
+>>> 
+>>> Much harder still are the defensive traits though. I can't come up with anything easy and sensible for those changes at the moment.
+>>> 
+>>> At worst you just forget those and act as if they were just Normal types, maybe with a few very conditional exceptions that seem to crop up more and more often, culminating to whatever triggers Xerneas awakening?
 
->>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (8 hours later)
 >>>> 
 >>>> All of the Normal type attacks that changed to Fairy type were non-damaging, so it's easy to just have the "type" of them unimportant or unclassified :) The defensive traits are the major issue, I think.
->>>> 
 
->>> **u/Anakiri** [+1] *
+>>> **u/Anakiri** [+1]  (3 hours later)
 >>> 
 >>> I'm quite curious as well! It's definitely been interesting so far. You've got plenty of time to shape my understanding of your world, so as long as you take care with that, I'm sure whatever you decide will be fun to read.
->>> 
 
-> **u/RMcD94** [+3] *
+> **u/RMcD94** [+3]  (7 minutes later)
 > 
 > You could always just ignore fairies without explanation, might be hard to constantly be keeping track of the new generations too
-> 
 
->> **u/empocariam** [+2] *
+>> **u/empocariam** [+2]  (an hour later)
 >> 
 >> He can't really ignore them completely, because the world already includes Kalos as a place, with presumably Fairy type pokemon already existing there.
->> 
 
-> **u/noggin-scratcher** [+3]  *I am a happy tree**
+> **u/noggin-scratcher** [+3]  *I am a happy tree* (40 minutes later)
 > 
 > I would say do whichever one produces the most compelling story. I'm only very loosely familiar with developments after Gen2 so... I don't think I'm going to feel it's "wrong" either way.
-> 
 
-> **u/empocariam** [+2] *
+> **u/empocariam** [+2]  (42 minutes later)
 > 
 > If at all possible, you might want to wait until ORAS comes out. I'm getting a feeling that XY & ORAS are actually a part of a sort of "universe reset" timeline, and ORAS's story might lend something to that. Especially with the Hoopa side-plot.
-> In the immediate sense however, it could be said that Kalosian Jigglypuff are Fairy Type, while Kantoan, etc., Jigglypuff are just Normal. You could link it back to Xerneas, and the war 3000 years ago, perhaps had a regional effect which gave those pokemon special powers.
-> However, since ORAS is technically contemporaneous with the Kanto games, and those games will have Mega-Evolutions and Fairy types, which were "discovered" upwards of 15 years later in XY, it might be better to just take the same approach Gamefreak does, and just make new things, always things.
-> Edit: Sylveon, for example. Any random affectionate trainer who teaches their Eevee charm could concievably evolve it into a Sylveon, but for some-one reason this only happens in Kalos.
-> Edit 2: Your Awakened Xerneas theory is good, but I can see one small problem. Moves like Moonlight, that were retconned fairy type. If "Fairy Magic" comes from Xerneas, then why do these moves still work exactly the same? And all the moves that are only fairy type, what happens to them?
 > 
+> In the immediate sense however, it could be said that Kalosian Jigglypuff are Fairy Type, while Kantoan, etc., Jigglypuff are just Normal. You could link it back to Xerneas, and the war 3000 years ago, perhaps had a regional effect which gave those pokemon special powers.
+> 
+> However, since ORAS is technically contemporaneous with the Kanto games, and those games will have Mega-Evolutions and Fairy types, which were "discovered" upwards of 15 years later in XY, it might be better to just take the same approach Gamefreak does, and just make new things, always things.
+> 
+> Edit: Sylveon, for example. Any random affectionate trainer who teaches their Eevee charm could concievably evolve it into a Sylveon, but for some-one reason this only happens in Kalos.
+> 
+> Edit 2: Your Awakened Xerneas theory is good, but I can see one small problem. Moves like Moonlight, that were retconned fairy type. If "Fairy Magic" comes from Xerneas, then why do these moves still work exactly the same? And all the moves that are only fairy type, what happens to them?
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (2 hours later)
 >> 
 >> >If at all possible, you might want to wait until ORAS comes out. I'm getting a feeling that XY & ORAS are actually a part of a sort of "universe reset" timeline, and ORAS's story might lend something to that. Especially with the Hoopa side-plot.
->> I'm definitely going to be interested in ORAS's story, since they take place at the same time :) I plan to keep the focus of my story firmly on Kanto, but the events in Hoenn will make waves (so to speak) far and wide, and there might be an interlude or two that takes place there.
->> >Sylveon, for example. Any random affectionate trainer who teaches their Eevee charm could concievably evolve it into a Sylveon, but for some-one reason this only happens in Kalos.
->> Or only happens when a Xerneas is out of hibernation, and the rest of the time possible Sylveons remain dormant as Eevees and evolve into something else.
->> To be honest the whole method of evolving Sylveon is too gamey anyway, and I'm going to be tweaking some of the Eevee evolutions mechanics.
->> > Your Awakened Xerneas theory is good, but I can see one small problem. Moves like Moonlight, that were retconned fairy type. If "Fairy Magic" comes from Xerneas, then why do these moves still work exactly the same? And all the moves that are only fairy type, what happens to them?
->> Well this is actually another problem with the way the game arbitrarily classifies things: the Moon is given huge importance for Fairy pokemon, with moves like Moonlight and Moonblast, and pokemon like Clefairy praying/singing to the moon.
->> But pokemon that are inherently tied to the moon, like Lunatone or Cressalia, were not retconned as Fairy types. And Clefairy is actually the only Fairy type pokemon that learns Moonlight, while the rest are non-Fairy types.
->> So the typing of moves can be left to interpretation if it doesn't really make sense within Pokemon's own internal logic.  For example, I'm not making "Bite" attacks dark type. It's one of those really illogical things that the game does for mechanical balancing reasons (when Dark was introduced there were virtually no moves for it, so they converted some existing ones).
 >> 
+>> I'm definitely going to be interested in ORAS's story, since they take place at the same time :) I plan to keep the focus of my story firmly on Kanto, but the events in Hoenn will make waves (so to speak) far and wide, and there might be an interlude or two that takes place there.
+>> 
+>> >Sylveon, for example. Any random affectionate trainer who teaches their Eevee charm could concievably evolve it into a Sylveon, but for some-one reason this only happens in Kalos.
+>> 
+>> Or only happens when a Xerneas is out of hibernation, and the rest of the time possible Sylveons remain dormant as Eevees and evolve into something else.
+>> 
+>> To be honest the whole method of evolving Sylveon is too gamey anyway, and I'm going to be tweaking some of the Eevee evolutions mechanics.
+>> 
+>> > Your Awakened Xerneas theory is good, but I can see one small problem. Moves like Moonlight, that were retconned fairy type. If "Fairy Magic" comes from Xerneas, then why do these moves still work exactly the same? And all the moves that are only fairy type, what happens to them?
+>> 
+>> Well this is actually another problem with the way the game arbitrarily classifies things: the Moon is given huge importance for Fairy pokemon, with moves like Moonlight and Moonblast, and pokemon like Clefairy praying/singing to the moon.
+>> 
+>> But pokemon that are inherently tied to the moon, like Lunatone or Cressalia, were not retconned as Fairy types. And Clefairy is actually the only Fairy type pokemon that learns Moonlight, while the rest are non-Fairy types.
+>> 
+>> So the typing of moves can be left to interpretation if it doesn't really make sense within Pokemon's own internal logic.  For example, I'm not making "Bite" attacks dark type. It's one of those really illogical things that the game does for mechanical balancing reasons (when Dark was introduced there were virtually no moves for it, so they converted some existing ones).
 
->>> **u/Schpwuette** [+3] *
+>>> **u/Schpwuette** [+3]  (7 hours later)
 >>> 
 >>> I've heard that the dark type is meant to be interpreted as dirty fighting/dishonour. At least, the physical side of it. That's why fighting is good against it (honourable justice prevails), and why dark is good against psychic (all the telekinesis in the world won't save you if you don't see the hit coming).  
 >>> It's also why dark is bad against steel - underhanded tricks won't help you punch through metal.
+>>> 
 >>> In this sense, it's clear that Bite is a dark attack, alongside the likes of sucker punch, thief and feint attack.
+>>> 
 >>> edit: uh, really like your story by the way :>  
 >>> It's very clear that you've thought carefully about the pokemon world, and come up with some awesome ideas for it. Fight on!
->>> 
 
->>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (7 hours later)
 >>>> 
 >>>> Yeah, that explanation works a lot better for the physical moves rather than the special ones, but even then it just doesn't make much sense why a move like Bite would, say, pierce through a steel pokemon's hide, or harm a ghost, when normal teeth wouldn't. Also "Fighting" as honor/light works a lot better in Japanese culture than elsewhere I think :)
->>>> And thank you, I'm glad you're enjoying it!
 >>>> 
+>>>> And thank you, I'm glad you're enjoying it!
 
->>>>> **u/Chosen_Pun** [+3]  *The Chosen Ones**
+>>>>> **u/Chosen_Pun** [+3]  *The Chosen Ones* (17 hours later)
 >>>>> 
 >>>>> I always imagined Fighting type as, like, ki stuff. Or just the whole Aura thing that really should have been a bigger thing than it was; there's really no reason it **couldn't** be used to ~~handwave~~ explain the extra properties of all fighting-type moves. Even Counter and Detect, which make enough sense as martial arts techniques, make just a little bit less sense in the Pokémon world, and it couldn't really hurt to say "Aura is why it works on sea serpents and space aliens in equal measure"
->>>>> Also relevant: http://www.awkwardzombie.com/index.php?page=0&comic=081610
 >>>>> 
+>>>>> Also relevant: http://www.awkwardzombie.com/index.php?page=0&comic=081610
 
->>>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (21 hours later)
 >>>>>> 
 >>>>>> I've actually been thinking about the whole Fighting thing quite a bit lately, and having "ki" be a thing actually might make it in :)
->>>>>> 
 
-> **u/wjtaylor** [+2] *
+> **u/wjtaylor** [+2]  (3 hours later)
 > 
 > How much do you care about the timelines between regions being consistent? I like your explanation, but I'd also like to see fairy types in your story.
-> Can Xerneas have just awakened before the start of your story or in the middle of it?
 > 
+> Can Xerneas have just awakened before the start of your story or in the middle of it?
 
->> **u/DaystarEld** [+4]  *Pokémon Professor**
+>> **u/DaystarEld** [+4]  *Pokémon Professor* (8 hours later)
 >> 
 >> It's the kind of thing I feel like I should pay attention to, but there's also a chance that the journey is going to actually take a few years, so we'll see :)
->> 
 
-> **u/Evilness42** [+2]  *And even myth is long forgotten...**
+> **u/Evilness42** [+2]  *And even myth is long forgotten...* (4 hours later)
 > 
 > I would suggest just going with the Xernas explanation. Possibly putting in sources for other kinds of Extra-Physics energy as well? Ex, other legendary Pokemon, like, mew or something, for psychic, etc. (I don't know all the legendary Pokemon and don't know the types properly, Ok? Don't judge me!)
-> This sort of thing would be a bit better of a handwave thing than 'this type of energy's source is known but all the other far more common ones aren't.'
 > 
+> This sort of thing would be a bit better of a handwave thing than 'this type of energy's source is known but all the other far more common ones aren't.'
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (8 hours later)
 >> 
 >> I do have a source of the other powers in mind :)
->> 
 
-> **u/Evilness42** [+2]  *And even myth is long forgotten...**
+> **u/Evilness42** [+2]  *And even myth is long forgotten...* (4 hours later)
 > 
 > In addition to my previous comments on this, (I'm too lazy to find and edit it), I would also like to offer my own explanation: 
-> Pokemon are cleverly disguised (robotic, animatronic, whatever) things sent by aliens and/or other humans in order to preform experiments on things, and it's all an insanely massive scam in which the sufficiently advanced aliens fool equipment and tests with false data in order to preserve the secret and continue to obtain data. The 'Fairy' update was/is going to be a badly retconned-in addition to the experiment in order to add elements and new data. 
-> However, after the addition of the Fairies, *everyone* knew they'd always been there, they just had this funny feeling of *not remembering*, but that's nothing, right? The only people who believe in that sort of stuff are just crackpot conspiracy theorists on the edges of society, always spouting gibberish about alien conspiracies and Fairy types not being there. I mean, what *sane* person would listen to *that?*
 > 
+> Pokemon are cleverly disguised (robotic, animatronic, whatever) things sent by aliens and/or other humans in order to preform experiments on things, and it's all an insanely massive scam in which the sufficiently advanced aliens fool equipment and tests with false data in order to preserve the secret and continue to obtain data. The 'Fairy' update was/is going to be a badly retconned-in addition to the experiment in order to add elements and new data. 
+> 
+> However, after the addition of the Fairies, *everyone* knew they'd always been there, they just had this funny feeling of *not remembering*, but that's nothing, right? The only people who believe in that sort of stuff are just crackpot conspiracy theorists on the edges of society, always spouting gibberish about alien conspiracies and Fairy types not being there. I mean, what *sane* person would listen to *that?*
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (7 hours later)
 >> 
 >> XD That would be pretty amusing, yeah.
->> 
 
-> **u/Topher876** [+1] *
+> **u/Topher876** [+1]  (a day later)
 > 
 > my reaction is number two, it opens the possibility of a future puzzle (how they affect the world and what not) maybe you could use them as a device to help red more equally take on statistically more powerful enemies.
-> 
 
 ---
 

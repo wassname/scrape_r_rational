@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/5ike6a/rtffhf_marked_for_death_chapter_892_reaping_the/
-* Score: 20
+* Score: 19
 
 * Created: 2016-12-15T21:56:34
 
@@ -28,60 +28,53 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/eaglejarl** [+5] *
+> **u/eaglejarl** [+5]  (8 minutes later)
 > 
 > > Note the second one isn't threadmarked at the time of this writing
-> Oops, fixed.
 > 
+> Oops, fixed.
 
->> **u/oliwhail** [+2]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+2]  *Omake-Maximizing AGI* (30 minutes later)
 >> 
 >> Edited to reflect the fix.
->> 
 
-> **u/MatterBeam** [+2] *
+> **u/MatterBeam** [+2]  (2 hours later)
 > 
 > One of the funniest updates so far. I was surprised by how long it was and how much happened. Straight up fights between canon and OC characters is the holy grail of naruto questing.
-> Also, Hazou needs to organize his feelings as well as his ideas. Although, being 13yo really hinders meaningful relationships in the quest.
 > 
+> Also, Hazou needs to organize his feelings as well as his ideas. Although, being 13yo really hinders meaningful relationships in the quest.
 
->> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (2 hours later)
 >> 
 >> On the other hand, it allows adorableness and drama, so it's not all bad.
->> 
 
->> **u/oliwhail** [+2]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+2]  *Omake-Maximizing AGI* (4 hours later)
 >> 
 >> This particular facet of his subconscious continues to support either Inazou or ace!Hazou.
->> 
 
->>> **u/MatterBeam** [+1] *
+>>> **u/MatterBeam** [+1]  (4 hours later)
 >>> 
 >>> What's ace!Hazou?
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 hours later)
 >>>> 
 >>>> It means asexual
->>>> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (4 hours later)
 >> 
 >> The players may vote to ask Inoue-sensei for training in how to flirt. I am SO hoping they do that.
->> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (18 hours later)
 >>> 
 >>> If you get too impatient, just write an omake about it. There's nothing stopping QMs from writing their own. ;)
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> True, and we have done so on a couple of occasions.  Still, I was hoping it would make it into the official vote...which it did!  (I think?)
+>>>> 
 >>>> > If we did not do it the night before, speak to Inoue in private about flirting-focused social difficulties / emotional processing.
 >>>> >
 >>>> >    Because Hazou is confused about both Ino and Akane (be open about this). Asking in private so she does not have to manage other dynamics simultaneously.
->>>> 
 
 ---
 

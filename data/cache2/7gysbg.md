@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (25 seconds later)
 > 
 > A mere two and a half years since the last update, too
-> 
 
 ---
 

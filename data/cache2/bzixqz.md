@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/06/11/chapter-15-chronicle/
-* Score: 12
+* Score: 9
 
 * Created: 2019-06-11T22:11:47
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/onlynega** [+2] *
+> **u/onlynega** [+2]  (a day later)
 > 
 > I think this was my favorite chapter yet. The mystery myth building is interesting. Learn's dilemma is compelling.
-> 
 
 ---
 

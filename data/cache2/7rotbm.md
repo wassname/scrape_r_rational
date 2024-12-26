@@ -16,59 +16,53 @@ As I said, pretty meta, but it does nicely highlight one of the key tenants of r
 
 ### Comments:
 
-> **u/Gigapode** [+6] *
+> **u/Gigapode** [+6]  (19 minutes later)
 > 
 > Does the tone change much? I remember trying this one a couple years ago and being put-off by the character's lack of empathy when messed up stuff happens to others.
-> 
 
->> **u/patil-triplet** [+8] *
+>> **u/patil-triplet** [+9]  (20 minutes later)
 >> 
 >> In the author's defense, a certain apathy is necessary to be able to actively ignore events you know are going to happen, especially when it concerns lives to be saved.
->> 
 
->> **u/MarshallEye** [+2] *
+>> **u/MarshallEye** [+2]  (29 days later)
 >> 
 >> Sorry for replying to an old comment, but it does. Raiku’s lack of empathy is a plot point of sorts. I can’t defend anyone else though if it seems unrealistic at times for humor.
->> 
 
->> **u/totorox92** [+1]  *Because I want to Know**
+>> **u/totorox92** [+1]  *Because I want to Know* (10 hours later)
 >> 
 >> I think so. She tries to maintain a bit of distance but she's only human.
->> 
 
-> **u/SkyTroupe** [+5] *
+> **u/SkyTroupe** [+4]  (8 hours later)
 > 
 > Ive only read the first chapter but the comedy comes out well. My favorite part so far is the drama levels. 
-> >Uchiha Sasuke – level five risk of drama. Impressive, since there were only three levels.
-> Quickly followed by:
-> >Uzumaki Naruto – drama level ten, human whirlwind.
-> I got in trouble for laughing out loud at work.
 > 
+> >Uchiha Sasuke – level five risk of drama. Impressive, since there were only three levels.
+> 
+> Quickly followed by:
+> 
+> >Uzumaki Naruto – drama level ten, human whirlwind.
+> 
+> I got in trouble for laughing out loud at work.
 
-> **u/I_am_your_BRAIN** [+2] *
+> **u/I_am_your_BRAIN** [+2]  (14 hours later)
 > 
 > Is it finished, or still being written?
-> 
 
->> **u/totorox92** [+3]  *Because I want to Know**
+>> **u/totorox92** [+3]  *Because I want to Know* (21 hours later)
 >> 
 >> Ongoing. 300k words in and last updated 2 weeks ago.
->> 
 
->>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (5 days later)
 >>> 
 >>> This may be an obvious pun, but her name means lightning, and so story grounds itself out around her.
->>> 
 
->>> **u/I_am_your_BRAIN** [+1] *
+>>> **u/I_am_your_BRAIN** [+1]  (21 hours later)
 >>> 
 >>> Awesome, will have to check it out
->>> 
 
-> **u/Thusit** [+2] *
+> **u/Thusit** [+2]  (16 days later)
 > 
 > Checked it, loved it. Thanks for the recommendation!
-> 
 
 ---
 

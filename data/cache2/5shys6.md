@@ -70,43 +70,48 @@ So, thoughts? Is there anything you know that I have missed?
 
 ### Comments:
 
-> **u/None** [+26] *
+> **u/None** [+26]  (17 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you* (30 minutes later)
 >> 
 >> >No, but why does he still need to? He's way beyond them thanks to the aranea.
->> To see if that's actually true or not. Also, healing magic.
->> >Completionist satisfaction?
->> Hey, achievements are important.
 >> 
+>> To see if that's actually true or not. Also, healing magic.
+>> 
+>> >Completionist satisfaction?
+>> 
+>> Hey, achievements are important.
 
->>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>> **u/thrawnca** [+1]  *Carbon-based biped* (19 hours later)
 >>> 
 >>> Zorian recently visited a competent mind mage (from Xvim's list iirc) and compared notes.
->>> 
 
->>> **u/tokol** [+1]  *The Greater Good**
+>>> **u/tokol** [+1]  *The Greater Good* (a day later)
 >>> 
 >>> We've been given hints as to how useful healing magic will be. Plus, Zach was prodding Zorian to learn healing magic the traditional  (structured) way. I expect Zorian will eventually master healing magic as a sub-function of learning blood magic and learning how to perceive and manipulate life force. 
->>> What's really exciting is Zorian possibly enhancing himself with Grey Hunter essence. I think it'll be the hunter because, unlike the alien-mind of the Eye Ooze, the hunter has been much more fully developed as a character. Zorian will be more effective at pretty much everything once he has full-blown mana-sensing. And, to top it all off, magic resistance/immunity is a classic broken-power trope.
->>> I'm sure this has been mentioned before, but what are the odds on Xvim being behind everything in the end?
 >>> 
+>>> What's really exciting is Zorian possibly enhancing himself with Grey Hunter essence. I think it'll be the hunter because, unlike the alien-mind of the Eye Ooze, the hunter has been much more fully developed as a character. Zorian will be more effective at pretty much everything once he has full-blown mana-sensing. And, to top it all off, magic resistance/immunity is a classic broken-power trope.
+>>> 
+>>> I'm sure this has been mentioned before, but what are the odds on Xvim being behind everything in the end?
 
->>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>> **u/thrawnca** [+2]  *Carbon-based biped* (a day later)
 >>>> 
 >>>> > what are the odds on Xvim
->>>> Low to nonexistent, I'd say. He doesn't act like someone aware of the loop until told.
 >>>> 
+>>>> Low to nonexistent, I'd say. He doesn't act like someone aware of the loop until told.
 
->>>>> **u/tokol** [+1]  *The Greater Good**
+>>>>> **u/tokol** [+1]  *The Greater Good* (a day later)
 >>>>> 
 >>>>> Good point. Unless we see him start exploiting the time loop a lot more, I don't think he'll try pulling a Matriarch and plot to escape the time loop on his own. 
+>>>>> 
 >>>>> Any chance we're in recursive time loops?
+>>>>> 
 >>>>> **edit:**
+>>>>> 
 >>>>> Expanding on the time loop within a time loop theory:
+>>>>> 
 >>>>> * We've already seen both black rooms and pocket dimensions working normally inside the looped world (a.k.a. a giant pocket dimension black room). 
 >>>>> * Mana-generation seems unaffected inside the loop, so I don't think there are any concerns with finite energy.
 >>>>> * This theory would neatly explain why the loop starts one month before the optimal loop-start time. Each loop would have it's entire month to gather enough energy to start another loop.
@@ -117,10 +122,15 @@ So, thoughts? Is there anything you know that I have missed?
 >>>>> * Someone (Xvim!) steals the key, starts his own inner loop, emerges a god, returns to original world, becomes the final boss. *nailed it*
 >>>>> * Scrapping the inner time loop idea, perhaps Zorian, Inc. will return to original world, get trounced by RR/Primordial, and will have to start a second time loop on the actual planetary alignment to get more time to try again.
 >>>>> * Big stretch here - The true "outer time loop" corresponds to the disappearance of the gods. The Zorian train ain't stoppin' until he's battling Gods, Demons, and Primordials over the fate of the Material Plane.
+>>>>> 
 >>>>> I just think the frame world has to have more going on than described thus far. The best way this story enters mindfuck territory is if the whole thing takes place effectively *in media res*.
+>>>>> 
 >>>>> **2nd edit:**
+>>>>> 
 >>>>> Clearly, Damien is behind it all. 
+>>>>> 
 >>>>> Beware: Random conjecture follows
+>>>>> 
 >>>>> * Damien is RR.
 >>>>> * Damien has the original marker, not Zach. *unlikely, included for completeness*
 >>>>> * Damien is just a cool dude who plotted everything before throwing Zach into the loop.
@@ -128,87 +138,77 @@ So, thoughts? Is there anything you know that I have missed?
 >>>>> * Zach's Sovereign Gate might be the original tech, but Damien copied it, removed the one month restriction, and used Gate 2.0 to run the outer loop where he uses Gate 1.0 for the inner loop.
 >>>>> * Gate 2.0 is running an outer loop, but Gate 1.0 wasn't supposed to be turned on and this is all an accident.
 >>>>> * **Drama:** Zach, Zorian, et. al. use the Key to leave the inner loop just to find themselves in yet another race to be the first to leave the outer loop... against RR and Damien. And, of course, the Key won't work on outer loop/Gate 2.0.
->>>>> 
 
->>>>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>>>> **u/thrawnca** [+2]  *Carbon-based biped* (a day later)
 >>>>>> 
 >>>>>> Sounds like a good fanfic idea someday :). Obviously not possible in canon given the number of remaining chapters, since it would have to be horribly rushed and I don't think that's the author's style.
->>>>>> 
 
->>>>>>> **u/tokol** [+1]  *The Greater Good**
+>>>>>>> **u/tokol** [+1]  *The Greater Good* (2 days later)
 >>>>>>> 
 >>>>>>> Oh. How many remaining chapters are there?
->>>>>>> 
 
->>>>>>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>>>>>> **u/thrawnca** [+2]  *Carbon-based biped* (3 days later)
 >>>>>>>> 
 >>>>>>>> Well, the first arc had 26 chapters, and the second had 28. If we assume this one will have 30, then that leaves 20 to go. Not enough, I reckon, for a whole outer loop to be introduced.
->>>>>>>> 
 
->>>>>>>>> **u/tokol** [+2]  *The Greater Good**
+>>>>>>>>> **u/tokol** [+2]  *The Greater Good* (3 days later)
 >>>>>>>>> 
 >>>>>>>>> That still leaves open some of the more narrative-light possibilities:
+>>>>>>>>> 
 >>>>>>>>> * All the cases where Zorian just witnesses someone else enter a loop and then moments later emerge powered up. 
 >>>>>>>>> * Using the planetary alignment and time loop mechanism to defeat the Primordial.
 >>>>>>>>> * A big revelation that the gods are still around, but the last several hundred years have been spent in a big simulation meant to produce a "worthy hero". Perhaps all arranged by a female god of knowledge, a so-called "Mother of Learning." :3
->>>>>>>>> 
 
->>>>>>>>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>>>>>>>> **u/thrawnca** [+2]  *Carbon-based biped* (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Those all sound narratively unsatisfying.
->>>>>>>>>> 
 
->>>>>> **u/jimbarino** [+1] *
+>>>>>> **u/jimbarino** [+1]  (4 days later)
 >>>>>> 
 >>>>>> Let me throw out another possibility: Damean is also psychic. It could explain his seemingly unusual prodigy if he kept it secret and was willing to use it to cheat by reading minds. Zorian learns that being psychic is usualy a bloodline thing and while he checks if Kirelle is psychic, he hasn't seen Damean ever since becoming capable in his abilities.
->>>>>> 
 
->> **u/Areign** [+5] *
+>> **u/Areign** [+6]  (2 hours later)
 >> 
 >> Can you remind me what the silver one's origin is? Is it just something made by that giant soul siphon guy or is there more?
->> 
 
->>> **u/None** [+9] *
+>>> **u/None** [+9]  (6 hours later)
 >>> 
 >>> Remember the mayor? He experimented in shifters/soul magic and used a human soul to bond with a wolf. Its not like other wolf shifters who turn into wolf and have inherited some wolf intuition. Its the other way around where the wolf can now now turn human and have gained human intelligence and intuitions.
->>> 
 
->> **u/Fredlage** [+2] *
+>> **u/Fredlage** [+2]  (35 minutes later)
 >> 
 >> >No, but why does he still need to? He's way beyond them thanks to the aranea.
->> Not for the empathy, for the healing. 
->> Another thing that is pending is his attempt at subverting the cranium rats.
 >> 
+>> Not for the empathy, for the healing. 
+>> 
+>> Another thing that is pending is his attempt at subverting the cranium rats.
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (19 hours later)
 >> 
 >> > presumably the best things are kept there
->> Whatever is there, the matriarch surely anticipated Zorian opening it. Although since it's reset to the start of the month, I guess there's nothing she could do about it, and no chance of further messages.
 >> 
+>> Whatever is there, the matriarch surely anticipated Zorian opening it. Although since it's reset to the start of the month, I guess there's nothing she could do about it, and no chance of further messages.
 
-> **u/CF_Honeybadger** [+9] *
+> **u/CF_Honeybadger** [+8]  (3 hours later)
 > 
 > Ah,  not fair.  I saw this post and got excited thinking there was another chapter out.  You got my hopes up :P
-> 
 
->> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you* (6 hours later)
 >> 
 >> I hath become Death, the destroyer of hopes.
->> 
 
->> **u/-Fender-** [+2] *
+>> **u/-Fender-** [+2]  (3 days later)
 >> 
 >> New chapter this Sunday, the 12th. It's soon.
->> 
 
->>> **u/CF_Honeybadger** [+1] *
+>>> **u/CF_Honeybadger** [+1]  (3 days later)
 >>> 
 >>> Awww yiss
->>> 
 
-> **u/thrawnca** [+8]  *Carbon-based biped**
+> **u/thrawnca** [+6]  *Carbon-based biped* (18 hours later)
 > 
 > Others include:
+> 
 > - Temporary markers. Possible connection to Red Robe gaining loop access?
 > - Zach's amnesia + compulsion(s).
 > - Zenomir Olgai the polyglot. Why did speaking with him get Zorian assassinated? Is he a cultist (and how much does he know), or did he pass the info on to the wrong person (and presumably get himself killed too)?
@@ -217,161 +217,188 @@ So, thoughts? Is there anything you know that I have missed?
 > - The Immortal Eleven. Their existence was confirmed on the blog - they made themselves a potion of endless youth - but details restricted for plot reasons.
 > - Did Zach have deeper reasons for killing a dragon, not just "because I can"? He doesn't seem to have discussed the details of his victory with Zorian, which would seem odd if he did it for bragging rights.
 > - Plus, of course, major plot points like, How can both of them get out despite the fact that Zorian's original body already contains a soul? Is Red Robe really Veyers? How can they stop the real invasion, which will add a horde of summoned demons to everything else?
-> 
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (21 days later)
 >> 
 >> > Temporary markers
->> You know, Zorian and Kael discussed a while back (chapter 39) how Red Robe could be looping, and Zorian dismissed the idea that he could be implanting memory packets in Zach, since he's active at the start of the loop, without any apparent intervention from Zach.
->> Temporary markers offer a potential explanation for this. What if RR was compelling Zach to place a temporary marker on him as soon as the old one broke down?
->> It's not entirely clear whether the temporary marker means you get a total of 5 resets/six months, or six resets/7 months, but either way, on his final iteration, the temporary marker has presumably dissolved, so there's theoretically no reason he couldn't be marked again. Being a soul mage and all, he might even be able to hurry it up and wipe a marker that was about to expire, ready for a fresh one. He could thus achieve continuity between one temporary marker and the next.
->> This could explain his bathroom assault on Zach. The events of chapter 26 made Zach aware of him, and aware that he's an enemy, so RR wasn't able to surreptitiously approach him to get his marker updated any more. Probably he was running out of iterations, and made a final attempt to regain control of Zach, but the boy got away, so he escaped before his marker broke down.
->> This theory doesn't explain why the Guardian would think he had a Controller marker and let him out. On the other hand, the Guardian gave a bit of a non-answer when asked about whether RR had a Controller marker, as if it was restating an expectation rather than an observation - a bit like when Zorian asked it how many people were in the control room, and it replied that "Only the Controller can reach this place." I wouldn't be surprised if there was some way it could be fooled.
 >> 
+>> You know, Zorian and Kael discussed a while back (chapter 39) how Red Robe could be looping, and Zorian dismissed the idea that he could be implanting memory packets in Zach, since he's active at the start of the loop, without any apparent intervention from Zach.
+>> 
+>> Temporary markers offer a potential explanation for this. What if RR was compelling Zach to place a temporary marker on him as soon as the old one broke down?
+>> 
+>> It's not entirely clear whether the temporary marker means you get a total of 5 resets/six months, or six resets/7 months, but either way, on his final iteration, the temporary marker has presumably dissolved, so there's theoretically no reason he couldn't be marked again. Being a soul mage and all, he might even be able to hurry it up and wipe a marker that was about to expire, ready for a fresh one. He could thus achieve continuity between one temporary marker and the next.
+>> 
+>> This could explain his bathroom assault on Zach. The events of chapter 26 made Zach aware of him, and aware that he's an enemy, so RR wasn't able to surreptitiously approach him to get his marker updated any more. Probably he was running out of iterations, and made a final attempt to regain control of Zach, but the boy got away, so he escaped before his marker broke down.
+>> 
+>> This theory doesn't explain why the Guardian would think he had a Controller marker and let him out. On the other hand, the Guardian gave a bit of a non-answer when asked about whether RR had a Controller marker, as if it was restating an expectation rather than an observation - a bit like when Zorian asked it how many people were in the control room, and it replied that "Only the Controller can reach this place." I wouldn't be surprised if there was some way it could be fooled.
 
->>> **u/Cheese_Ninja** [+2] *
+>>> **u/Cheese_Ninja** [+2]  (24 days later)
 >>> 
 >>> Zorian thinks that with RR being a non-empath, RR's unstructured mind magic was very limited in what it could do to Zach. Searching for information (such as about the aranea), erasing Zach's memory of Veyers, and placing a compulsion to dismiss mentions of Veyers should be his very limit.  RR shouldn't have the capability of compelling Zach to do something as complex as give him a temporary marker. (Something Zach himself doesn't know how to do, that very likely involves a degree of soul sense, which Zach had apparently never developed.)
->>> So, I've got a newish Red Robe that isn't total garbage. I mean, it still has a lot of bad points, but that's kind of unavoidable. Felt like putting it down somewhere before the new chapter comes out in case I'm right about anything.
->>> So I think RR cheated or gained his marker some other way, but it still must have been different from Zach and Zorian's, since he never used the locator ritual spell to find Zorian. I still don't have a good theory on the how for this, but I think it required knowledge of the loop/marker/Sovereign's Gate that no modern mage had.
->>> So it might sound dumb that my current RR theory (Is this my 3rd or 4th now?) is that RR is Veyers. Or rather, partially Veyers? 
->>> The whole "experimental ritual to awaken his bloodline" thing probably either directly exposed him/his soul to takeover/fusion by another, more ancient being, or just made him very vulnerable to such an attack. Maybe it was something like a Soul Bond with a powerful ancient Fire Elemental? 
->>> What other reason does RR have to prioritize the erasure of Veyers from Zach's memory above all else? 
->>> Could part of the reason the 1st Arc spend a few chapters on Soul Bonds because it would be relevant later? Perhaps Veyers' unstable behavior in the past years was because of a foreign influence upon him that grew stronger as time passed. This could also explain how a Veyers!RR would have the skills and knowledge necessary from the beginning of the loops.
->>> It also explains why Veyers got thrown out of school and seemingly disappeared without a trace conveniently just before the loop began. Not!Veyers somehow triggered the early activation of the Gate and ensured his own marker's existence. He couldn't simply kill Zach, because Zach was still the true Controller, and necessary for the function of loop. 
->>> And something that always bothered me was Zach's disappearance in Zorian's loops 2-7, and recently how similar it was to Veyer's own disappearance, which makes sense if RR kidnapped an unconscious Zach at the beginning of each of the loops and used some sort of trick to keep him unconscious for the remainder, but was unwilling to that on his own in every loop because the risk of causing an early restart was too high.
 >>> 
+>>> So, I've got a newish Red Robe that isn't total garbage. I mean, it still has a lot of bad points, but that's kind of unavoidable. Felt like putting it down somewhere before the new chapter comes out in case I'm right about anything.
+>>> 
+>>> So I think RR cheated or gained his marker some other way, but it still must have been different from Zach and Zorian's, since he never used the locator ritual spell to find Zorian. I still don't have a good theory on the how for this, but I think it required knowledge of the loop/marker/Sovereign's Gate that no modern mage had.
+>>> 
+>>> So it might sound dumb that my current RR theory (Is this my 3rd or 4th now?) is that RR is Veyers. Or rather, partially Veyers? 
+>>> 
+>>> The whole "experimental ritual to awaken his bloodline" thing probably either directly exposed him/his soul to takeover/fusion by another, more ancient being, or just made him very vulnerable to such an attack. Maybe it was something like a Soul Bond with a powerful ancient Fire Elemental? 
+>>> 
+>>> What other reason does RR have to prioritize the erasure of Veyers from Zach's memory above all else? 
+>>> 
+>>> Could part of the reason the 1st Arc spend a few chapters on Soul Bonds because it would be relevant later? Perhaps Veyers' unstable behavior in the past years was because of a foreign influence upon him that grew stronger as time passed. This could also explain how a Veyers!RR would have the skills and knowledge necessary from the beginning of the loops.
+>>> 
+>>> It also explains why Veyers got thrown out of school and seemingly disappeared without a trace conveniently just before the loop began. Not!Veyers somehow triggered the early activation of the Gate and ensured his own marker's existence. He couldn't simply kill Zach, because Zach was still the true Controller, and necessary for the function of loop. 
+>>> 
+>>> And something that always bothered me was Zach's disappearance in Zorian's loops 2-7, and recently how similar it was to Veyer's own disappearance, which makes sense if RR kidnapped an unconscious Zach at the beginning of each of the loops and used some sort of trick to keep him unconscious for the remainder, but was unwilling to that on his own in every loop because the risk of causing an early restart was too high.
 
->>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>> **u/thrawnca** [+2]  *Carbon-based biped* (24 days later)
 >>>> 
 >>>> Red Robe doesn't necessarily have to plant a complex compulsion in Zach. He could just plant a suggestion that he is "perfectly normal, nothing to see here," so that he can approach Zach every six months and dominate him. Domination doesn't make any lasting changes, so the marker might well ignore it, especially if it's unstructured. And Zach appears to have some weak compulsion on him, to dismiss the topic of Veyers, so we know RR can do that.
->>>> That would also explain why it broke down: a mere suggestion wasn't enough to overcome Zach's suspicion once he knew about the existence of RR, and particularly once they fought. If RR could have wiped his memories, things could have stabilized, but the threat of the aranea meant he didn't hang around for that, and then Zach started protecting himself from divination. RR still ambushed him in the places he knew Zach might go, but both attacks failed, and then, I suspect, time was up. So he got out while the getting was good.
->>>> Veyers does fit the theory well in general. If you want someone to completely ignore you, then making them completely forget you is a good start. It would especially make sense for Veyers, being Zach's enemy. But I don't think soul bonds will let you loop. They're just not that rigid a connection IMO.
 >>>> 
+>>>> That would also explain why it broke down: a mere suggestion wasn't enough to overcome Zach's suspicion once he knew about the existence of RR, and particularly once they fought. If RR could have wiped his memories, things could have stabilized, but the threat of the aranea meant he didn't hang around for that, and then Zach started protecting himself from divination. RR still ambushed him in the places he knew Zach might go, but both attacks failed, and then, I suspect, time was up. So he got out while the getting was good.
+>>>> 
+>>>> Veyers does fit the theory well in general. If you want someone to completely ignore you, then making them completely forget you is a good start. It would especially make sense for Veyers, being Zach's enemy. But I don't think soul bonds will let you loop. They're just not that rigid a connection IMO.
 
->>>>> **u/Cheese_Ninja** [+2] *
+>>>>> **u/Cheese_Ninja** [+2]  (24 days later)
 >>>>> 
 >>>>> So then for loops 2-7 do you think that RR had to allow Zach to awaken to refresh the temporary marker? That's about the time limit for a temp marker.
->>>>> I don't think that a soul bond itself would let RR loop either. I just think the only beings with knowledge about the Gate and capability to insert themselves into the loop would be from at least several hundred years ago and more powerful than Veyers himself. I think the makeshift ritual to awaken his bloodline exposed him to such a being, possibly in the form of a soul bond.  Just plain Veyers shouldn't have been competent enough to become RR.
 >>>>> 
+>>>>> I don't think that a soul bond itself would let RR loop either. I just think the only beings with knowledge about the Gate and capability to insert themselves into the loop would be from at least several hundred years ago and more powerful than Veyers himself. I think the makeshift ritual to awaken his bloodline exposed him to such a being, possibly in the form of a soul bond.  Just plain Veyers shouldn't have been competent enough to become RR.
 
->>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (25 days later)
 >>>>>> 
 >>>>>> For the intermediate loops, I think RR wouldn't need to interact with Zach at all.
->>>>>> Getting into the loop temporarily has a known mechanism. My only question is how he got out.
 >>>>>> 
+>>>>>> Getting into the loop temporarily has a known mechanism. My only question is how he got out.
 
-> **u/ODIN_ALL_FATHER** [+7] *
+> **u/ODIN_ALL_FATHER** [+6]  (15 hours later)
 > 
 > I have a theory on RR=Veyers that didn't seem to have a good place to post and this seems like a good place!
-> In the first few loops Zach is missing, not just missing but no one can find him including his caretaker and a meagerly skilled Zorion. Then much later we find out that when interacting with the sovereign gate (SG) that the avatar can pull souls into the SG for safe keeping. Thus I think what happened to Zach was that the SG was keeping his soul with the gate while it self-repaired the damage dealt by the lich. Then it didn't bother to create Zach's body since he isn't a copy and it would just die without Zach's soul to inhabit it.
-> This applies to Veyers because I think when Veyers convinced the SG to let him leave it no longer had a reason to create Veyers's body for the same reason it never bothered to create Zach's.
 > 
+> In the first few loops Zach is missing, not just missing but no one can find him including his caretaker and a meagerly skilled Zorion. Then much later we find out that when interacting with the sovereign gate (SG) that the avatar can pull souls into the SG for safe keeping. Thus I think what happened to Zach was that the SG was keeping his soul with the gate while it self-repaired the damage dealt by the lich. Then it didn't bother to create Zach's body since he isn't a copy and it would just die without Zach's soul to inhabit it.
+> 
+> This applies to Veyers because I think when Veyers convinced the SG to let him leave it no longer had a reason to create Veyers's body for the same reason it never bothered to create Zach's.
 
->> **u/thrawnca** [+5]  *Carbon-based biped**
+>> **u/thrawnca** [+5]  *Carbon-based biped* (18 hours later)
 >> 
 >> I'm pretty sure that excluding an unnecessary body is *more* effort than just faithfully reproducing the template. Because the aranea bodies still get created.
->> If Veyers is RR, then I'd say that either his body is now a soulless husk in some out-of-the-way location (wherever he was when the loop started, which no-one seems to know), or he specifically altered the template to exclude it. Which both he and the Guardian had no reason to do, both expecting the loop to collapse upon the Controller's exit.
->> If Veyers is not RR, his body might still be a hidden husk, or he might be alive and held by the cult or something.
 >> 
+>> If Veyers is RR, then I'd say that either his body is now a soulless husk in some out-of-the-way location (wherever he was when the loop started, which no-one seems to know), or he specifically altered the template to exclude it. Which both he and the Guardian had no reason to do, both expecting the loop to collapse upon the Controller's exit.
+>> 
+>> If Veyers is not RR, his body might still be a hidden husk, or he might be alive and held by the cult or something.
 
->>> **u/ODIN_ALL_FATHER** [+1] *
+>>> **u/ODIN_ALL_FATHER** [+1]  (20 hours later)
 >>> 
 >>> Right but my point is that the SG in its confusion acts more like how it handled Zach recovering from soul damage (if his body was just a lifeless husk then it should have been big news and discovered by his caretaker) as opposed to how the Aranea were deleted from the template.
->>> I also imagine that divination spells could locate Veyers if his body was still around.
 >>> 
+>>> I also imagine that divination spells could locate Veyers if his body was still around.
 
->>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> **u/thrawnca** [+1]  *Carbon-based biped* (21 hours later)
 >>>> 
 >>>> > discovered by his caretaker
->>>> ...who might have his own reasons for concealing such a discovery. He may well qualify as a loose end in his own right. Very possibly there's more to him than we have yet learned.
->>>> Good point though, there's inconclusive evidence of Controller bodies disappearing.
->>>> > divination spells could locate Veyers
->>>> Depends on how they work. And how far away he traveled in the weeks between when he was last seen and the start of the loop.
 >>>> 
+>>>> ...who might have his own reasons for concealing such a discovery. He may well qualify as a loose end in his own right. Very possibly there's more to him than we have yet learned.
+>>>> 
+>>>> Good point though, there's inconclusive evidence of Controller bodies disappearing.
+>>>> 
+>>>> > divination spells could locate Veyers
+>>>> 
+>>>> Depends on how they work. And how far away he traveled in the weeks between when he was last seen and the start of the loop.
 
-> **u/thrawnca** [+4]  *Carbon-based biped**
+> **u/thrawnca** [+5]  *Carbon-based biped* (11 hours later)
 > 
 > > Potion that gives soulsight
-> Not possible inside the loop, *but* blood magic is capable of copying such abilities from another person (like Kael).
-> > Familiar bonds
-> Too dangerous for a Controller. Zach would probably trip the reset, and Zorian might damage his marker further and stop looping. For the same reason, they shouldn't try to become shifters.
 > 
+> Not possible inside the loop, *but* blood magic is capable of copying such abilities from another person (like Kael).
+> 
+> > Familiar bonds
+> 
+> Too dangerous for a Controller. Zach would probably trip the reset, and Zorian might damage his marker further and stop looping. For the same reason, they shouldn't try to become shifters.
 
-> **u/thrawnca** [+3]  *Carbon-based biped**
+> **u/thrawnca** [+3]  *Carbon-based biped* (3 days later)
 > 
 > We still don't know why Zach has abnormal mana reserves, with inhuman size and yet decent control.
-> 
 
-> **u/Sidereal529** [+3] *
+> **u/Sidereal529** [+3]  (4 days later)
 > 
 > Fortov. In any given timeloop, Zorian has *never* tried to save him during the invasion. Maybe things will get better between them after Zorian encounters Daimen.
-> Nice work on tracking these plot threads \^.^
 > 
+> Nice work on tracking these plot threads \^.^
 
-> **u/Xtraordinaire** [+2]  *Team Glimglam**
+> **u/Xtraordinaire** [+2]  *Team Glimglam* (20 hours later)
 > 
 > > Mystery not resolved: why do certain Ironbeaks hate invaders? This one could be an important clue.
-> There was some info on that somewhere around assault on the zombie mansion. I remember Sudomir holds their hatchlings hostage and uses some domination spells on the alphas, so I inferred that if Zorian mind controls said alpha it resets Sudomir's control and their true intentions are revealed. However most of the ironbeaks are not in the know and don't hold a grudge against invaders.
 > 
+> There was some info on that somewhere around assault on the zombie mansion. I remember Sudomir holds their hatchlings hostage and uses some domination spells on the alphas, so I inferred that if Zorian mind controls said alpha it resets Sudomir's control and their true intentions are revealed. However most of the ironbeaks are not in the know and don't hold a grudge against invaders.
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (a day later)
 >> 
 >> > if Zorian mind controls said alpha it resets Sudomir's control
->> Not quite. The iron beaks are smart enough to understand a hostage situation, so they all hate the invaders, but they're not smart enough to realize that their leaders are subverted, so they generally play along.
->> There just happen to be a few individuals that are independent-minded and/or bloodthirsty enough that when Zorian suggests actually attacking the invaders, they run with it.
 >> 
+>> Not quite. The iron beaks are smart enough to understand a hostage situation, so they all hate the invaders, but they're not smart enough to realize that their leaders are subverted, so they generally play along.
+>> 
+>> There just happen to be a few individuals that are independent-minded and/or bloodthirsty enough that when Zorian suggests actually attacking the invaders, they run with it.
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (a day later)
 > 
 > Maybe Zorian's forays into making transformation potions?
-> 
 
-> **u/SpeculativeFiction** [+2] *
+> **u/SpeculativeFiction** [+2]  (17 days later)
 > 
 > I've just reread most of mother of learning, and it's been mentioned that the school dance was basically an excuse for an important meeting between different nations, but we never really found out exactly what is was.
-> The planar alignment doesn't seem to be it. I wonder if the old alliance of Eldemar was tentatively being slightly reinstated, which is part of why the Ibasans attacked early?
-> As for the identity of Red Robe, the Simulacrum idea has merits, but also issues.
-> Problems:
-> 1) Red Robe made a simulacrum of himself when he killed the Aranea, which seems like it might not be possible for a simulacrum to do.
-> 2) He was explicitly "bloodied" by a group of students, and simulacrums don't have blood. It *could* just be a figure of speech though.
-> Merits:
-> 1) Zach, the man so desperate for company that he tried to convince hundreds of people in Cyoria he was a time traveler, *supposedly* thought little of the Simulacrum spell. This really doesn't make sense to me--it feels like his memories and inclinations have been edited.
-> 2) A simulacrum theoretically wouldn't need a marker to be pulled back through the time loop. It should already be connected to Zach. The author has been very careful to not really have Zorian experiment with long-lived simulacrums, or whether they get looped with him.
-> 3) We've been shown that Simulacrums can diverge from their creator pretty early, and told they may go crazy and try to murder/replace them.
-> >Zorian's father has never appeared in the narrative, but was described, same as Damien
-> He sort of does, after Zorian was attacked by the Sword Divers web, he was bedridded for three days. His father apparently sneeringly called him his "Fainting son", but it wasn't directly shown.
-> I also have a theory about Zach's reserves. We don't necessarily know he had them before the loop--his memory is edited and spotty, and he could have just had marginally better reserves than average, and been lazy like Benisek.
-> The time loop can copy souls, apparently. Why not copy the soul of the original looper 6-10 times or so, and merge them all together? This would expand their mana reserves dramatically without crippling their shaping ability, and additionally fulfill the purpose of making the looper stronger.
-> I can't think of anything else that explains his ludicrous reserves that have no attendant loss in shaping skills. 
-> Zorian might theoretically be able to double his reserves by merging with his original self's soul once he escapes the loop.
 > 
+> The planar alignment doesn't seem to be it. I wonder if the old alliance of Eldemar was tentatively being slightly reinstated, which is part of why the Ibasans attacked early?
+> 
+> As for the identity of Red Robe, the Simulacrum idea has merits, but also issues.
+> 
+> Problems:
+> 
+> 1) Red Robe made a simulacrum of himself when he killed the Aranea, which seems like it might not be possible for a simulacrum to do.
+> 
+> 2) He was explicitly "bloodied" by a group of students, and simulacrums don't have blood. It *could* just be a figure of speech though.
+> 
+> Merits:
+> 
+> 1) Zach, the man so desperate for company that he tried to convince hundreds of people in Cyoria he was a time traveler, *supposedly* thought little of the Simulacrum spell. This really doesn't make sense to me--it feels like his memories and inclinations have been edited.
+> 
+> 2) A simulacrum theoretically wouldn't need a marker to be pulled back through the time loop. It should already be connected to Zach. The author has been very careful to not really have Zorian experiment with long-lived simulacrums, or whether they get looped with him.
+> 
+> 3) We've been shown that Simulacrums can diverge from their creator pretty early, and told they may go crazy and try to murder/replace them.
+> 
+> >Zorian's father has never appeared in the narrative, but was described, same as Damien
+> 
+> He sort of does, after Zorian was attacked by the Sword Divers web, he was bedridded for three days. His father apparently sneeringly called him his "Fainting son", but it wasn't directly shown.
+> 
+> I also have a theory about Zach's reserves. We don't necessarily know he had them before the loop--his memory is edited and spotty, and he could have just had marginally better reserves than average, and been lazy like Benisek.
+> 
+> The time loop can copy souls, apparently. Why not copy the soul of the original looper 6-10 times or so, and merge them all together? This would expand their mana reserves dramatically without crippling their shaping ability, and additionally fulfill the purpose of making the looper stronger.
+> 
+> I can't think of anything else that explains his ludicrous reserves that have no attendant loss in shaping skills. 
+> 
+> Zorian might theoretically be able to double his reserves by merging with his original self's soul once he escapes the loop.
 
-> **u/abcd_z** [+2] *
+> **u/abcd_z** [+2]  (4 hours later)
 > 
 > A minor note, but will we ever see a three-eyed wolf?  In Ch. 5 Zorian mentions that his dreams are often full of weirdness like talking birds, floating pyramids, and three-eyed wolves.  Empaths are supposed to have the occasional  prophetic dream, and we've already seen a talking bird and a floating pyramid (of glass marbles, under Xvim's tutelage).
-> Edit: we've seen the talking bird, not the 3-eyed wolf.  My bad.
 > 
+> Edit: we've seen the talking bird, not the 3-eyed wolf.  My bad.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 days later)
 > 
 > [deleted]
-> 
 
->> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (5 days later)
 >> 
 >> I don't remember those.
->> 
 
-> **u/FlameDragonSlayer** [+1] *
+> **u/FlameDragonSlayer** [+1]  (4 hours later)
 > 
 > Can someone remind when we encountered the three eyed wolf
-> 
 
->> **u/tokol** [+1]  *The Greater Good**
+>> **u/tokol** [+1]  *The Greater Good* (a day later)
 >> 
 >> He discovered the wolf when initially scouting the mansion while avoiding enemies with his limited mind-sense. The mystery was solved during his enhanced-interrogation of Sudomir when he discovered the three-eyed wolf was a normal wolf that was soul-spliced with a human.
->> 
 
 ---
 

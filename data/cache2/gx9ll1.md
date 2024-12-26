@@ -2,7 +2,7 @@
 
 * Author: u/-Vecht-  *Legacy of the Goddess**
 * URL: https://www.reddit.com/r/rational/comments/gx9ll1/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/
-* Score: 38
+* Score: 39
 
 * Created: 2020-06-05T18:03:23
 
@@ -22,39 +22,37 @@ Extra thanks to co-QMs MMKII and Kurkistan for assistance in running the live se
 
 ### Comments:
 
-> **u/Memes_Of_Production** [+9] *
+> **u/Memes_Of_Production** [+9]  (an hour later)
 > 
 > >“Apologies,” Fi said. “It was not my intention to upset you. I will continue to observe from a more socially appropriate distance.” She floated about six feet away and continued to peer down at him.
-> What you did there, *I see it!*
 > 
+> What you did there, *I see it!*
 
-> **u/faflec** [+4] *
+> **u/faflec** [+5]  (a day later)
 > 
 > WE'RE ALL GONNA DIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-> 
 
-> **u/-Vecht-** [+3]  *Legacy of the Goddess**
+> **u/-Vecht-** [+3]  *Legacy of the Goddess* (3 seconds later)
 > 
 > The realtime DM session was hosted [here](https://discord.gg/cttUrsE). (Separate from usual Discord)
-> [LotG Discord](https://discordapp.com/invite/B5abMg8)
-> [First Chapter](https://chaossnek.com/Story?chapter=A1)
-> [Previous Reddit Thread](https://www.reddit.com/r/rational/comments/gk13j8/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/)
 > 
+> [LotG Discord](https://discordapp.com/invite/B5abMg8)
+> 
+> [First Chapter](https://chaossnek.com/Story?chapter=A1)
+> 
+> [Previous Reddit Thread](https://www.reddit.com/r/rational/comments/gk13j8/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/)
 
-> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (2 hours later)
 > 
 > RIP
-> 
 
->> **u/-Vecht-** [+2]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+2]  *Legacy of the Goddess* (3 hours later)
 >> 
 >> ?
->> 
 
->>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (5 hours later)
 >>> 
 >>> Being silly and trying to trick people :P
->>> 
 
 ---
 

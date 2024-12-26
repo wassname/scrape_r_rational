@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/TimTravel** [+1] *
+> **u/TimTravel** [+1]  (35 minutes later)
 > 
 > edit: deleted and moved to the other post
-> 
 
 ---
 

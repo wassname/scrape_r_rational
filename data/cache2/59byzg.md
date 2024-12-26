@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/59byzg/senlin_ascends_by_josiah_bancroft/
-* Score: 12
+* Score: 15
 
 * Created: 2016-10-25T16:27:50
 
@@ -18,10 +18,9 @@ The book is the first of the planned 4 book series. It reaches a fairly solid co
 
 ### Comments:
 
-> **u/superk2001** [+1] *
+> **u/superk2001** [+1]  (6 days later)
 > 
 > Nice recommendation, I'm currently up to the Commissioner art arc and its been fun so far.
-> 
 
 ---
 

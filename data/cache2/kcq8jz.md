@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Paladaddy** [+2] *
+> **u/Paladaddy** [+2]  (a day later)
 > 
 > It's been nice getting a few more tidbits of lore, though it must fucking suck to not have access to coffee. Personally, I'm looking forward to seeing how the protag deals with the anarchist group.
-> 
 
 ---
 

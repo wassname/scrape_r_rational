@@ -2,7 +2,7 @@
 
 * Author: u/hoja_nasredin  *Dai-Gurren Brigade**
 * URL: https://www.reddit.com/r/rational/comments/7mhxtn/supernatural_horror_in_a_rational_setting/
-* Score: 22
+* Score: 23
 
 * Created: 2017-12-27T21:29:36
 
@@ -24,98 +24,111 @@ So, what kind of entities would become more relatively more powerful in comparis
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+53]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+49]  *Emergency Mustelid Hologram* (17 minutes later)
 > 
 > Entities that can't act directly on the world but only through human agents? That equalizes the technological advantage/disadvantage.
-> Dread Master: "Wait a second, Brother Joe is TWO HUNDRED MILES AWAY, how can you possibly know what he's doing? The Power barely works over a mile, that's why you're hauling me around in this coffin in the first place."
-> Acolyte: "Cellphone"
-> (explains)
-> Dread Master: "BUT THIS IS AMAZING! We can..."
-> Acolyte: "They have cellphones too."
-> Dread Master: "Shit."
 > 
+> Dread Master: "Wait a second, Brother Joe is TWO HUNDRED MILES AWAY, how can you possibly know what he's doing? The Power barely works over a mile, that's why you're hauling me around in this coffin in the first place."
+> 
+> Acolyte: "Cellphone"
+> 
+> (explains)
+> 
+> Dread Master: "BUT THIS IS AMAZING! We can..."
+> 
+> Acolyte: "They have cellphones too."
+> 
+> Dread Master: "Shit."
 
->> **u/callmesalticidae** [+9]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+9]  *writes worldbuilding books* (an hour later)
 >> 
 >> I love this.
->> 
 
-> **u/Noumero** [+22]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+21]  *Self-Appointed Court Statistician* (4 hours later)
 > 
 > >The entity can't have a high intelligence
-> I don't think it's necessary. We're talking about inhuman monsters; why can't they have high but *orthogonal* intelligence? They can't plan for long-term, but can win any fight that could ever take place. They have a bag full of tricks, but are slow in developing new ones. They're devilishly clever, but only whenever people are involved. Or vice versa: they don't have same fine-tuned ability to model intelligent agents that we do, and so don't understand human emotions/cooperation/[insert important aspect of human condition here]. 
-> Or they're inherently self-destructive: their utility function implores them to play with their victims even as their doom creeps closer and closer. They can only derive pleasure by setting up ever-more-complicated plans.
-> Or their ability to affect the world is limited, either to a certain place, or a certain time, or people in certain emotional states, or to a certain kind of actions...
-> >So, what kind of entities would become more relatively more powerful in comparison to the pray in modern era, then in ancient times? 
-> Either they mirror human advancement, becoming more powerful as humans learn more, or... they simply can improve themselves. A species of boogeymen capable of biological self-augmentation. A malevolent ghost that learned to use her powers better after centuries she spent Sealed In A Can.
-> Alternatively, remove human advantages. Trap the rational protagonist somewhere where he or she wouldn't have access to modern technology or weapons, forced to rely on improvisation to win.
-> Alternatively, have the entity target us somewhere where we haven't advanced at all. Our defenses against dream-eaters, which could temporarily accelerate your brain in your sleep, invade your dream, and spent subjective centuries torturing you, or conceptual stalkers, which ensure that the actual timeline is always the one where they're within 100 meters away from you, didn't improve at all, did they?
-> >So what kind of entities would have side effects so that someone rational would aid them? What gain can you imagine?
-> Well, it's trivial if "someone rational" is a sociopath and/or megalomaniac: they could convince themselves that they're on a road to infinite power, that *they're* using the entity as a tool, not the other way around.
-> If we're talking about "ordinary" rationalists...
-> Mindrape: an entity that brainwashes its victims into seeing high utility in pleasing it, and capable of doing little else besides that.
-> Lesser of two evils: the entity *is* going to win eventually, and the rational extremist-with-good-intentions sees helping it take over the world now in exchange for sparing 15% of humanity better than letting it kill everyone one century later. Or it would offer protection against a different eldritch entity. Or against some kind of natural omnicide.
-> >if weapons of 500 years ago could keep it at bay, modern weapons would make it easy target practice
-> There's a story based on this premise, actually: *Absolute Weapon* by Yuri Nesterenko, where a Mayan world-ending demon gets anticlimactically mowed down by a squad of soldiers. But I can't find translation from Russian, unfortunately.
 > 
+> I don't think it's necessary. We're talking about inhuman monsters; why can't they have high but *orthogonal* intelligence? They can't plan for long-term, but can win any fight that could ever take place. They have a bag full of tricks, but are slow in developing new ones. They're devilishly clever, but only whenever people are involved. Or vice versa: they don't have same fine-tuned ability to model intelligent agents that we do, and so don't understand human emotions/cooperation/[insert important aspect of human condition here]. 
+> 
+> Or they're inherently self-destructive: their utility function implores them to play with their victims even as their doom creeps closer and closer. They can only derive pleasure by setting up ever-more-complicated plans.
+> 
+> Or their ability to affect the world is limited, either to a certain place, or a certain time, or people in certain emotional states, or to a certain kind of actions...
+> 
+> >So, what kind of entities would become more relatively more powerful in comparison to the pray in modern era, then in ancient times? 
+> 
+> Either they mirror human advancement, becoming more powerful as humans learn more, or... they simply can improve themselves. A species of boogeymen capable of biological self-augmentation. A malevolent ghost that learned to use her powers better after centuries she spent Sealed In A Can.
+> 
+> Alternatively, remove human advantages. Trap the rational protagonist somewhere where he or she wouldn't have access to modern technology or weapons, forced to rely on improvisation to win.
+> 
+> Alternatively, have the entity target us somewhere where we haven't advanced at all. Our defenses against dream-eaters, which could temporarily accelerate your brain in your sleep, invade your dream, and spent subjective centuries torturing you, or conceptual stalkers, which ensure that the actual timeline is always the one where they're within 100 meters away from you, didn't improve at all, did they?
+> 
+> >So what kind of entities would have side effects so that someone rational would aid them? What gain can you imagine?
+> 
+> Well, it's trivial if "someone rational" is a sociopath and/or megalomaniac: they could convince themselves that they're on a road to infinite power, that *they're* using the entity as a tool, not the other way around.
+> 
+> If we're talking about "ordinary" rationalists...
+> 
+> Mindrape: an entity that brainwashes its victims into seeing high utility in pleasing it, and capable of doing little else besides that.
+> 
+> Lesser of two evils: the entity *is* going to win eventually, and the rational extremist-with-good-intentions sees helping it take over the world now in exchange for sparing 15% of humanity better than letting it kill everyone one century later. Or it would offer protection against a different eldritch entity. Or against some kind of natural omnicide.
+> 
+> >if weapons of 500 years ago could keep it at bay, modern weapons would make it easy target practice
+> 
+> There's a story based on this premise, actually: *Absolute Weapon* by Yuri Nesterenko, where a Mayan world-ending demon gets anticlimactically mowed down by a squad of soldiers. But I can't find translation from Russian, unfortunately.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (7 days later)
 >> 
 >> There was an episode of Buffy where they did that -- "The Judge" was this demon that no weapons could hurt...as of a thousand years ago, anyway. A rocket launcher killed him just fine.
->> 
 
->>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (7 days later)
 >>> 
 >>> Oh, right, an image from it is used on [Muggles Do It Better](http://tvtropes.org/pmwiki/pmwiki.php/Main/MugglesDoItBetter) entry page.
->>> Hmm, probably also relevant: [*The Salvation War*](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSalvationWar). Biblical Hell invades modern humanity, gets slaughtered.
 >>> 
+>>> Hmm, probably also relevant: [*The Salvation War*](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSalvationWar). Biblical Hell invades modern humanity, gets slaughtered.
 
->>>> **u/eaglejarl** [+3] *
+>>>> **u/eaglejarl** [+3]  (8 days later)
 >>>> 
 >>>> Read that. It was engaging for a while but definitely wouldn't recommend it. Every single engagement is a curbstomp for the humans and the demons are primitive and almost universally stupid.
->>>> 
 
->>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (9 days later)
 >>>>> 
 >>>>> I see. I, ahem, didn't read it myself, so thank you for notifying. Was the stupidity at least rooted in their inhuman psychology, or were they just portrayed as stupid and evil people?
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (10 days later)
 >>>>>> 
 >>>>>> Nope, just plain stupid.
->>>>>> 
 
-> **u/TheAnt88** [+10] *
+> **u/TheAnt88** [+10]  (28 minutes later)
 > 
 > Perhaps an entity that can take over or assimilate physical objects. In the past this wasn't very useful but taking over cars, computers, satellites, and drones is alto more deadly or powerful.
-> 
 
-> **u/bloodfist** [+8] *
+> **u/bloodfist** [+7]  (an hour later)
 > 
 > The entity could have been locked away, refining and honing its power for centuries (like a prisoner doing push-ups in his cell). Depending on the power level desired, it also could have kept abreast of human developments and been planning how to deal with them.
-> Or, a common component of this trope is some sort of astronomical component; the villain only arises when a comet shows up, or during a full moon, etc. The current configuration could be more conducive for the villains power. For example, the comet is on a closer pass, or the villain is even more powerful during a supermoon. This didn't occur the last time it was battled. 
-> Or if the entity is decidedly non-human, the last time it was faced, it was a juvenile. Ignorant and reckless. This time it is fully grown and more formidable.
-> EDIT: One more. Since this is horror, the entity feeds on death. It feeds directly on death it causes, but it's power is drawn from the death in the world. While people live longer these days, the sheer volume of people means considerably more death in the world, making it more powerful.
 > 
+> Or, a common component of this trope is some sort of astronomical component; the villain only arises when a comet shows up, or during a full moon, etc. The current configuration could be more conducive for the villains power. For example, the comet is on a closer pass, or the villain is even more powerful during a supermoon. This didn't occur the last time it was battled. 
+> 
+> Or if the entity is decidedly non-human, the last time it was faced, it was a juvenile. Ignorant and reckless. This time it is fully grown and more formidable.
+> 
+> EDIT: One more. Since this is horror, the entity feeds on death. It feeds directly on death it causes, but it's power is drawn from the death in the world. While people live longer these days, the sheer volume of people means considerably more death in the world, making it more powerful.
 
-> **u/ajuc** [+6] *
+> **u/ajuc** [+6]  (12 hours later)
 > 
 > > So, what kind of entities would become more relatively more powerful in comparison to the pray in modern era, then in ancient times? 
-> I liked one story where some girl discovered magic and fought crime, then there was a regular supergirl story for a few chapters, then the magic spread out, people with talent started to use it a lot, and it turned out using magic slowly breaks a barrier between us and ancient and powerful evil.
-> So the ancient evil just waits and sends some trouble makers so that people have to use more magic to defend, so that the apocalypse is coming faster :)
 > 
+> I liked one story where some girl discovered magic and fought crime, then there was a regular supergirl story for a few chapters, then the magic spread out, people with talent started to use it a lot, and it turned out using magic slowly breaks a barrier between us and ancient and powerful evil.
+> 
+> So the ancient evil just waits and sends some trouble makers so that people have to use more magic to defend, so that the apocalypse is coming faster :)
 
-> **u/awesomeideas** [+4]  *Dai stiho, cousin.**
+> **u/awesomeideas** [+6]  *Dai stiho, cousin.* (5 hours later)
 > 
 > As to the ancient weapons vs modern weapons bit, I remember that the *Midnighters* trilogy had an interesting take on that: the big bad was actually kinda held back by technological progress itself, literally. New things can stop it for a bit, until it learns. Stone weapons are worthless, though they used to be enough, steel is mostly shit, though it used to be enough, but space-age alloys are enough. So, we're essentially at the exact same level of effectiveness as the first *Homo whateveris* that raised its wooden cudgel in defence.
-> 
 
-> **u/EthanCC** [+5] *
+> **u/EthanCC** [+3]  (2 hours later)
 > 
 > Any entity capable of manipulating people or that people could exploit for some benefit would scale with human weapons, since it could have human followers working with it. Or something that can take control of a small amount of humans. In ancient times it could topple a kingdom or (after a lot of time) an empire, today it could destroy humanity with nuclear weapons.
-
-> Or an entity that can only be defeated a certain way, like the creature in Dunwich Horror. If that information has become lost or scarce over time it would be more difficult to defeat.
 > 
+> Or an entity that can only be defeated a certain way, like the creature in Dunwich Horror. If that information has become lost or scarce over time it would be more difficult to defeat.
 
 ---
 

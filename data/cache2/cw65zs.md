@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/08/27/interlude-9-judge/
-* Score: 7
+* Score: 8
 
 * Created: 2019-08-27T15:40:08
 

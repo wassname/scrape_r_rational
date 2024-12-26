@@ -2,7 +2,7 @@
 
 * Author: u/Rangi42 *
 * URL: http://www.rifters.com/starfish/s_main.htm
-* Score: 6
+* Score: 5
 
 * Created: 2014-08-05T01:51:41
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Rangi42** [+2] *
+> **u/Rangi42** [+2]  (11 seconds later)
 > 
 > *Starfish* is not exactly rationalist fiction, but it does deal with rationalist themes. For instance, the "shut up and multiply" utilitarian approach to ethics and its consequences; the difficulty of getting a powerful optimizer to Do What You Mean, not what you literally said; and factions "defined and driven into conflict by their beliefs and values."
-> 
 
 ---
 

@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (10 seconds later)
 > 
 > /r/hpmor comment thread:
-> https://www.reddit.com/r/HPMOR/comments/3yz3aa/significant_digits_bonus_science/
 > 
+> https://www.reddit.com/r/HPMOR/comments/3yz3aa/significant_digits_bonus_science/
 
 ---
 

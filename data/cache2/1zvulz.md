@@ -2,7 +2,7 @@
 
 * Author: u/occasional-redditor *
 * URL: https://www.reddit.com/r/rational/comments/1zvulz/directory_of_free_science_fiction_stories/
-* Score: 6
+* Score: 5
 
 * Created: 2014-03-08T11:07:33
 
@@ -12,16 +12,15 @@ from the site-"The science in science fiction isn't limited to ray guns, black h
 
 ### Comments:
 
-> **u/bbrazil** [+4]  *NERV**
+> **u/bbrazil** [+5]  *NERV* (54 minutes later)
 > 
 > http://sciencefictionbiology.com/directory/
-> You can't post both a link and text.
 > 
+> You can't post both a link and text.
 
->> **u/occasional-redditor** [+1] *
+>> **u/occasional-redditor** [+1]  (2 days later)
 >> 
 >> thx,i was not aware of that.
->> 
 
 ---
 

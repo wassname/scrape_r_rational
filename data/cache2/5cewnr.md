@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/5cewnr/d_friday_offtopic_thread/
-* Score: 18
+* Score: 19
 
 * Created: 2016-11-11T15:04:51
 
@@ -15,1029 +15,1152 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/alexanderwales** [+35]  *Time flies like an arrow**
+> **u/alexanderwales** [+37]  *Time flies like an arrow* (13 minutes later)
 > 
 > "If you understood the argument, you would agree with me" is one of the most frustrating things to hear when having a conversation with a person.
-> I get the general principle, which is that if you want to argue against someone you should first fully understand what *their* argument is, but over the last few days I've kept running into people who think that "you don't understand" is a perfectly valid way to shut down conversation -- since they are so clearly in the right, which any person could see if they applied a little objectivity.
 > 
+> I get the general principle, which is that if you want to argue against someone you should first fully understand what *their* argument is, but over the last few days I've kept running into people who think that "you don't understand" is a perfectly valid way to shut down conversation -- since they are so clearly in the right, which any person could see if they applied a little objectivity.
 
->> **u/That2009WeirdEmoKid** [+23] *
+>> **u/That2009WeirdEmoKid** [+22]  (23 minutes later)
 >> 
 >> *Preach!* I hate it when people do this. My usual rebuttal is:
->> "If you understood your argument as well as you think you do, you wouldn't have a problem explaining it in an easily digestible way."
->> Seriously, I've never met someone who actually knew what they're talking about who couldn't use an analogy or break down their own point of view. Most of the time, people who say this are just arguing for the sake of protecting their ego. If they *really* wanted to have a productive discussion, *they'd* be the ones trying to see things from your perspective. That way, they could potentially identify where they're not getting their point across.
 >> 
+>> "If you understood your argument as well as you think you do, you wouldn't have a problem explaining it in an easily digestible way."
+>> 
+>> Seriously, I've never met someone who actually knew what they're talking about who couldn't use an analogy or break down their own point of view. Most of the time, people who say this are just arguing for the sake of protecting their ego. If they *really* wanted to have a productive discussion, *they'd* be the ones trying to see things from your perspective. That way, they could potentially identify where they're not getting their point across.
 
->>> **u/Gurkenglas** [+1] *
+>>> **u/Gurkenglas** [+1]  (a day later)
 >>> 
 >>> > I've never met someone who actually knew what they're talking about who couldn't use an analogy or break down their own point of view.
->>> How would you know whether they knew what they're talking about, apart from seeing whether they can use an analogy or break down their own point of view?
 >>> 
+>>> How would you know whether they knew what they're talking about, apart from seeing whether they can use an analogy or break down their own point of view?
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (2 days later)
 >>>> 
 >>>> I've definitely met people who knew what they were talking about but could not explain it worth a damn. In the field of software engineering there are loads of *demonstrably* more talented coders than me, many who I worked with, as proven by their ability to make code fast and efficient (or sometimes work at all). That ability doesn't translate to being able to communicate what they're doing though, as many frustrating meetings have shown me.
->>>> It's hard for me to assume that this is the case with non-technical things though. I can fully believe that my doctor knows how to perform open heart surgery without being able to break it down for me in an easily digestible way ... but for something like philosophy or politics, where there's not an easy metric to *show* domain knowledge, I don't see how you separate out the people who know what they're talking about but are shitty at explaining it from the people who just don't know what they're talking about. Getting basic facts wrong, I guess?
 >>>> 
+>>>> It's hard for me to assume that this is the case with non-technical things though. I can fully believe that my doctor knows how to perform open heart surgery without being able to break it down for me in an easily digestible way ... but for something like philosophy or politics, where there's not an easy metric to *show* domain knowledge, I don't see how you separate out the people who know what they're talking about but are shitty at explaining it from the people who just don't know what they're talking about. Getting basic facts wrong, I guess?
 
->>>> **u/That2009WeirdEmoKid** [+1] *
+>>>> **u/That2009WeirdEmoKid** [+1]  (2 days later)
 >>>> 
 >>>> Ha! Touché, I didn't consider that. Still, I was referring to people who act incredibly sure of themselves when talking about something subjective or nuanced. If I started arguing about economic policy with a person that possesses a PhD in economics, it's pretty obvious that they know what they're talking about. I'd give more weight to their opinion and I'd try to see where they're coming from. But if it's a discussion over something where we're on equal footing, then the way they argue their points is more important to me. If they're not afraid of having their points dissected, then they wouldn't resort to saying "if you understood the argument, you'd agree with me". They'd try to explain themselves better. I guess I just don't respect the opinion of someone who thinks it's more likely that I can't understand them over the possibility that they're wrong.
->>>> 
 
->> **u/LiteralHeadCannon** [+9] *
+>> **u/LiteralHeadCannon** [+7]  (an hour later)
 >> 
 >> Most infuriating when they're bingo-squaring off all of your arguments to weakman arguments they already have counter-arguments for.
->> 
 
->>> **u/DaystarEld** [+4]  *Pokémon Professor**
+>>> **u/DaystarEld** [+3]  *Pokémon Professor* (7 hours later)
 >>> 
 >>> This was manifested most this past election by "Whatabouther"s that popped up every time a Trump supporter had no answer for some terrible thing their candidate had said.
->>> Even after acknowledging their criticisms right, the original point is never brought back up and addressed.
 >>> 
+>>> Even after acknowledging their criticisms right, the original point is never brought back up and addressed.
 
->>>> **u/Iconochasm** [+5] *
+>>>> **u/Iconochasm** [+5]  (7 hours later)
 >>>> 
 >>>> There was plenty of that all around.  It was very much an election of the lesser evil, with an awful lot of willful ignorance sprinkled on top.
->>>> 
 
->> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> "Why is it that you can only be convinced I'm thinking for myself if I unquestioningly believe everything you tell me?"
->> 
 
->>> **u/Gurkenglas** [+1] *
+>>> **u/Gurkenglas** [+1]  (2 days later)
 >>> 
 >>> Well you can't possibly be thinking for yourself as long as you're holding *that* belief, so starting to believe in his side is a required step towards convincing him you've arrived at some belief by yourself.
->>> 
 
->> **u/Dwood15** [+1] *
+>> **u/Dwood15** [+1]  (3 hours later)
 >> 
 >> I've come across this a bit this week. Do you have any examples?
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (9 hours later)
 >>> 
 >>> Mostly just election bullshit that makes me depressed and angry. I think the worst thing is that there are so many people on "my side" that I end up arguing with because they're using bad arguments. But I'm mostly burnt out on politics at this point, largely because of Facebook.
->>> 
 
->>>> **u/Dwood15** [+1] *
+>>>> **u/Dwood15** [+1]  (10 hours later)
 >>>> 
 >>>> Gotcha. I've steered clear from FB for some time now, and it's been a great benefit. I heartily recommend doing the same.
->>>> 
 
-> **u/CouteauBleu** [+9]  *We are the Empire.**
+> **u/CouteauBleu** [+11]  *We are the Empire.* (4 hours later)
 > 
 > One (of the many many many things) that bugged me about Dishonored's story was the involvement of a guild of Assassins.
-> There is one guy named Daud, who has the mark of the Outsider, and can give his followers some of his powers (mostly teleportation and weak telekinesis). He used this ability to build a mercenary band, who mostly gets involved in high-profile assassinations. From a gameplay perspective, this is great: high level mooks with the same powers a you!
-> But I'm preeeetty sure it doesn't make any sense. From what we've seen, there's around fifty assassins in Daud's guild, who have been operating for months at the very least, and are implied to have worked been in place for years, maybe decades. Now, the question his: how the hell do 50+ high-grade assassins find months' worth of work in a city ravaged by pest, let alone the years before?
-> I mean, Dishonored is kind of a crappy world and a socialist's nightmare, with tons of evil aristocrats and capitalists ready to oppress the poor, stab each other in the back at a moment's notice, but even if every single nobleman and rich man is evil... wouldn't you run out of rich men to kill after some time. The assassins can clearly go through almost any defense (they killed the empress with next to no inside help), and are implied to have a pretty active schedule, so...
-> I guess my question is, how many magical unstoppable assassins could a capital city like Dunwall reliably support for several months, taking into account that the authorities are undermined by plague and high criminality?
 > 
+> There is one guy named Daud, who has the mark of the Outsider, and can give his followers some of his powers (mostly teleportation and weak telekinesis). He used this ability to build a mercenary band, who mostly gets involved in high-profile assassinations. From a gameplay perspective, this is great: high level mooks with the same powers a you!
+> 
+> But I'm preeeetty sure it doesn't make any sense. From what we've seen, there's around fifty assassins in Daud's guild, who have been operating for months at the very least, and are implied to have worked been in place for years, maybe decades. Now, the question his: how the hell do 50+ high-grade assassins find months' worth of work in a city ravaged by pest, let alone the years before?
+> 
+> I mean, Dishonored is kind of a crappy world and a socialist's nightmare, with tons of evil aristocrats and capitalists ready to oppress the poor, stab each other in the back at a moment's notice, but even if every single nobleman and rich man is evil... wouldn't you run out of rich men to kill after some time. The assassins can clearly go through almost any defense (they killed the empress with next to no inside help), and are implied to have a pretty active schedule, so...
+> 
+> I guess my question is, how many magical unstoppable assassins could a capital city like Dunwall reliably support for several months, taking into account that the authorities are undermined by plague and high criminality?
 
->> **u/Escapement** [+9]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+9]  *Ankh-Morpork City Watch* (5 hours later)
 >> 
 >> It doesn't really make a great deal of sense to have that many of them all be assassins operating constantly as assassins. 
->> I don't know the precise scale of Dunwall, but for comparison in 1800 London was ~1 million people, if Dunwall was similar then they could support quite a large criminal element. It would make more sense if they were not specifically 'just' assassin but were generally thugs, murderers, and otherwise in charge of or profiting from various criminal activities of all types - sort of like the Jhereg from Steven Brust's Dragaeran books, a criminal group that performs assassinations fairly often but also supported themselves by larceny, running illegal businesses, fencing stolen goods, protection rackets, etc. If Daud's followers were somewhat similar to that, they could occasionally work as assassins but at other times make money kneecapping people who don't pay up to loan sharks, telling businesses about how it would "be a shame if the whole place caught fire", and otherwise acting as general-purpose thugs, then I think they could quite likely support themselves.
->> A reputation as "crazy magical killers who can and do kill anyone with magic powers" would probably prove quite helpful in many criminal enterprises, so taking a name like "guild of assassins" and having them all dress the same and so forth while they *sometimes* kill important people for money but get to spend most of their time profiting from other criminal enterprises seems reasonable enough as backstory goes.
 >> 
+>> I don't know the precise scale of Dunwall, but for comparison in 1800 London was ~1 million people, if Dunwall was similar then they could support quite a large criminal element. It would make more sense if they were not specifically 'just' assassin but were generally thugs, murderers, and otherwise in charge of or profiting from various criminal activities of all types - sort of like the Jhereg from Steven Brust's Dragaeran books, a criminal group that performs assassinations fairly often but also supported themselves by larceny, running illegal businesses, fencing stolen goods, protection rackets, etc. If Daud's followers were somewhat similar to that, they could occasionally work as assassins but at other times make money kneecapping people who don't pay up to loan sharks, telling businesses about how it would "be a shame if the whole place caught fire", and otherwise acting as general-purpose thugs, then I think they could quite likely support themselves.
+>> 
+>> A reputation as "crazy magical killers who can and do kill anyone with magic powers" would probably prove quite helpful in many criminal enterprises, so taking a name like "guild of assassins" and having them all dress the same and so forth while they *sometimes* kill important people for money but get to spend most of their time profiting from other criminal enterprises seems reasonable enough as backstory goes.
 
->> **u/TennisMaster2** [+3] *
+>> **u/TennisMaster2** [+3]  (5 hours later)
 >> 
 >> Haven't played it, but maybe they purposefully keep Dunwall corrupted to serve as a training and proving ground before allowing new assassins to take out-of-city contracts, on which the guild makes its mint?
->> 
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 days later)
 >> 
 >> I was actually just reading an interesting [article on dueling](http://www.antipope.org/charlie/blog-static/2016/11/duelling-essentially-a-bloody-.html#more) the other day which cited 4,000 French gentlemen killed by duels during the 57 year reign of Henry IV. That's roughly 70 murders per year.
->> We might posit a society in which dueling is almost entirely replaced by assassination (though this is not the case in Dunwall, because there's a duel in Dishonored). When someone besmirches your name, you don't challenge them to a duel, you send an assassin after them. This isn't *entirely* stupid, or at least not much more stupid than entering into a duel.
->> Given that an assassin's guild in Dunwall might service a region much larger than just Dunwall itself (being able to outcompete other upstart assassins by assassinating them), it might be possible for them to match the epidemic of gentlemen dueling. 15th century France had a population of ~10 million, but Gristol and the Empire of the Isles seems further along, so ~30 million isn't unreasonable. That gives us a lot more gentlemen having a lot more duels, but with those duels replaced by assassinations.
->> So figure Daud's guild makes roughly 210 murders per year. With a 50 assassin guild, that's 4 assassinations per assassin per year. Depending on pay, which might actually be quite low, **this isn't entirely unreasonable**. Lower tier MMA fighters don't actually get paid that much, and they have roughly as many fights per year (maybe a bit more), with the rest of their time spent training and preparing. Add in that many assassinations would have more than one assassin working them (as with the Empress) and it's almost reasonable. Then add in all the assassinations that don't involve gentlemen (since our number of duels just comes from there).
->> Naturally this analysis makes some generous assumptions, largely in the realm of worldbuilding. Assassination as a replacement for dueling doesn't work in Dishonored, because there's still dueling. It gets a little sketchy *in general* because you have to look at the psychological reasons for duels existing in the first place, which seem to me to be more about heat-of-the-moment machismo than anything else, but I guess that could be explained away with transference. And naturally duels don't cost money, but I'm thinking of assassination as something rich people hire the underclass for.
 >> 
+>> We might posit a society in which dueling is almost entirely replaced by assassination (though this is not the case in Dunwall, because there's a duel in Dishonored). When someone besmirches your name, you don't challenge them to a duel, you send an assassin after them. This isn't *entirely* stupid, or at least not much more stupid than entering into a duel.
+>> 
+>> Given that an assassin's guild in Dunwall might service a region much larger than just Dunwall itself (being able to outcompete other upstart assassins by assassinating them), it might be possible for them to match the epidemic of gentlemen dueling. 15th century France had a population of ~10 million, but Gristol and the Empire of the Isles seems further along, so ~30 million isn't unreasonable. That gives us a lot more gentlemen having a lot more duels, but with those duels replaced by assassinations.
+>> 
+>> So figure Daud's guild makes roughly 210 murders per year. With a 50 assassin guild, that's 4 assassinations per assassin per year. Depending on pay, which might actually be quite low, **this isn't entirely unreasonable**. Lower tier MMA fighters don't actually get paid that much, and they have roughly as many fights per year (maybe a bit more), with the rest of their time spent training and preparing. Add in that many assassinations would have more than one assassin working them (as with the Empress) and it's almost reasonable. Then add in all the assassinations that don't involve gentlemen (since our number of duels just comes from there).
+>> 
+>> Naturally this analysis makes some generous assumptions, largely in the realm of worldbuilding. Assassination as a replacement for dueling doesn't work in Dishonored, because there's still dueling. It gets a little sketchy *in general* because you have to look at the psychological reasons for duels existing in the first place, which seem to me to be more about heat-of-the-moment machismo than anything else, but I guess that could be explained away with transference. And naturally duels don't cost money, but I'm thinking of assassination as something rich people hire the underclass for.
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+5]  *We are the Empire.* (8 hours later)
 > 
 > I'm starting to feel what EY must have felt when he wrote the "Politics is the Mind-Killer" article. (probably a lot of others articles too; the Sequences strike me as something mostly written out of frustration)
-> It's this obvious pattern, where, as soon as people start caring about the outcome of the debate, and especially when the debate is political... everyone becomes a liar. If you want to make a political opinion for yourself, every single source of information you can find is your enemy. Nobody wants to help you become wise, nobody wants to become wiser, they just want to recruit you.
-> I have no idea who I'm going to vote for in the next French Presidential election. How the hell am I supposed to choose, when every source of information I know is unreliable? For every argument a peer can give me that would steer me in one direction, there's another peer who can give me a convincing counter-argument!
-> That's not what frustrates me most, though, and I don't think it's what bothered EY most (or bothers; s'not like he's a dead prophet :p). It's the way I can see reason and epistemology loosing again and again. The way I see people advance their arguments like they're (shit, find a metaphor that isn't soldiers) flags that hey can wave, and say "Look at how many arguments I have! Look at how bright they shine! How can you disagree with me?", and these people never consider that things might be complicated, that smart people can know about their amazing arguments and *still* disagree with them, that policy debates are *not* one-sided AND SHOULD NOT APPEAR SO! (heh, I feel like I just reinvented long-known math theorems on my own, except with epistemology instead of math)
-> I think I do it too. I know I've thrown way too many anti-Trumps arguments I wasn't actually confident about. I'm ~80% confident that my brain is trustworthy-ish regarding politics, but that doesn't keep me from killing it from times to times. Got to sacrifice your own rationality for the sake of trying to convince other people to be smart, at least from times to times, I guess.
-> Well, it's out of my system. While I'm ranting, here's a confession: I totally stalk alexanderwales' profile for insightful political comments, because he's literally the only person I know who I trust to keep a semi-clear head when dealing with politics. So, um, if you're reading this, sorry for the internet stalking. Also you're great.
 > 
+> It's this obvious pattern, where, as soon as people start caring about the outcome of the debate, and especially when the debate is political... everyone becomes a liar. If you want to make a political opinion for yourself, every single source of information you can find is your enemy. Nobody wants to help you become wise, nobody wants to become wiser, they just want to recruit you.
+> 
+> I have no idea who I'm going to vote for in the next French Presidential election. How the hell am I supposed to choose, when every source of information I know is unreliable? For every argument a peer can give me that would steer me in one direction, there's another peer who can give me a convincing counter-argument!
+> 
+> That's not what frustrates me most, though, and I don't think it's what bothered EY most (or bothers; s'not like he's a dead prophet :p). It's the way I can see reason and epistemology loosing again and again. The way I see people advance their arguments like they're (shit, find a metaphor that isn't soldiers) flags that hey can wave, and say "Look at how many arguments I have! Look at how bright they shine! How can you disagree with me?", and these people never consider that things might be complicated, that smart people can know about their amazing arguments and *still* disagree with them, that policy debates are *not* one-sided AND SHOULD NOT APPEAR SO! (heh, I feel like I just reinvented long-known math theorems on my own, except with epistemology instead of math)
+> 
+> I think I do it too. I know I've thrown way too many anti-Trumps arguments I wasn't actually confident about. I'm ~80% confident that my brain is trustworthy-ish regarding politics, but that doesn't keep me from killing it from times to times. Got to sacrifice your own rationality for the sake of trying to convince other people to be smart, at least from times to times, I guess.
+> 
+> Well, it's out of my system. While I'm ranting, here's a confession: I totally stalk alexanderwales' profile for insightful political comments, because he's literally the only person I know who I trust to keep a semi-clear head when dealing with politics. So, um, if you're reading this, sorry for the internet stalking. Also you're great.
 
->> **u/TennisMaster2** [+3] *
+>> **u/TennisMaster2** [+3]  (9 hours later)
 >> 
 >> Read an academic history book.  They're generally balanced, and if not, the author is clear about their biases or intent.  The more recent the history, the less consensus you'll find, but being able to see the background will bring contrast and perspective to the arguments of today.
->> 
 
->> **u/blazinghand** [+1]  *Chaos Undivided**
+>> **u/blazinghand** [+1]  *Chaos Undivided* (12 hours later)
 >> 
 >> Purely strategically, depends on your goals. If you like Le Pen, vote Le Pen. If you don't like Le Pen, vote for your favorite major party candidate who isn't Hollande. Vote in the UMP primary if you prefer Juppe or Sarkozy to the other. 
->> My prediction is Juppe wins the primary and beats Le Pen in the runoff... probably. Sarkozy can also beat Le Pen though socialists, greens, and communists might have lower turnout. Hollande is underrated as a politician but he would probably lose to Le Pen so don't vote him unless you support Le Pen and are sure she will make the runoff.
->> Who *should* you support? That's not my business.
 >> 
+>> My prediction is Juppe wins the primary and beats Le Pen in the runoff... probably. Sarkozy can also beat Le Pen though socialists, greens, and communists might have lower turnout. Hollande is underrated as a politician but he would probably lose to Le Pen so don't vote him unless you support Le Pen and are sure she will make the runoff.
+>> 
+>> Who *should* you support? That's not my business.
 
-> **u/blazinghand** [+13]  *Chaos Undivided**
+> **u/blazinghand** [+11]  *Chaos Undivided* (2 hours later)
 > 
 > People are very doom-and-gloom after the election outcome. I know Trump has said some very discouraging things. But, and I feel like maybe this is just my patriotism talking, this is *America*. We’ll survive, no matter what Trump does or who he turns out to be. Why? We’ll survive because as a democratic republic, we can change our leaders with elections. We'll servive because the American ideal is bigger than any one person. We'll survive because Trump hasn’t been elected King, just President. 
-> Yes, there may be damage to our civil liberties. I won't downplay that.
-> But, we’ll survive because we’ll keep fighting. We know this isn’t the end. We can win. The civil libertarian movement won’t bow its head before anyone, won’t stop defending rights, won’t stop fighting the good fight. The ACLU didn’t fold when the PATRIOT act passed, and should Trump and the Republicans try any funny business with people’s rights, we will be there to defend the weak. Even if Trump cows the members of his own party, he won’t cow them all. The most principled defenders of civil liberties in the Republican party will stand against him, and all the Democrats will as well if only because they are the opposition. 
-> There are things you can do as well.
-> I’ll call my Senators and my Congressperson if a bad bill about this comes up, and let them know they have my vote, and I’ll have their back if they have to vote in an obstructionist way to defend our liberties. The election is over, and the actual work of governance will soon begin, with all that it entails. The process continues, and America is strong. We are strong because of our freedoms and our belief in the American ideal. America isn’t some concept caught in the past. America is a project, ever growing, something we can believe in and bring into the world. We’ll make it. We always have.
 > 
+> Yes, there may be damage to our civil liberties. I won't downplay that.
+> 
+> But, we’ll survive because we’ll keep fighting. We know this isn’t the end. We can win. The civil libertarian movement won’t bow its head before anyone, won’t stop defending rights, won’t stop fighting the good fight. The ACLU didn’t fold when the PATRIOT act passed, and should Trump and the Republicans try any funny business with people’s rights, we will be there to defend the weak. Even if Trump cows the members of his own party, he won’t cow them all. The most principled defenders of civil liberties in the Republican party will stand against him, and all the Democrats will as well if only because they are the opposition. 
+> 
+> There are things you can do as well.
+> 
+> I’ll call my Senators and my Congressperson if a bad bill about this comes up, and let them know they have my vote, and I’ll have their back if they have to vote in an obstructionist way to defend our liberties. The election is over, and the actual work of governance will soon begin, with all that it entails. The process continues, and America is strong. We are strong because of our freedoms and our belief in the American ideal. America isn’t some concept caught in the past. America is a project, ever growing, something we can believe in and bring into the world. We’ll make it. We always have.
 
->> **u/Loiathal** [+15] *
+>> **u/Loiathal** [+16]  (5 hours later)
 >> 
 >> I'm with you, but I'm very, very worried about climate change. It's not an issue we can take a slow, measured pace with.
->> 
 
->> **u/Polycephal_Lee** [+11] *
+>> **u/Polycephal_Lee** [+12]  (2 hours later)
 >> 
 >> I fully agree with [Bernie Sander](https://pbs.twimg.com/media/Cw5EAY1UQAQLlJq.jpg:large)s on it:
 >> >Donald Trump tapped into the anger of a declining middle class that is sick and tired of establishment economics, establishment politics and the establishment media.  People are tired of working longer hours for lower wages, of seeing decent paying jobs go to China and other low-wage countries, of billionaires not paying any federal income taxes and of not being able to afford a college education for their kids - all while the very rich become much richer. 
->> >To the degree that Mr. Trump is serious about pursuing policies that improve the lives of working families in this country, I and other progressives are prepared to work with him. To the degree that he pursues racist, sexist, xenophobic and anti-environment policies, we will vigorously oppose him.
 >> 
+>> >To the degree that Mr. Trump is serious about pursuing policies that improve the lives of working families in this country, I and other progressives are prepared to work with him. To the degree that he pursues racist, sexist, xenophobic and anti-environment policies, we will vigorously oppose him.
 
->>> **u/None** [+9] *
+>>> **u/None** [+9]  (3 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Polycephal_Lee** [+7] *
+>>>> **u/Polycephal_Lee** [+6]  (3 hours later)
 >>>> 
 >>>> Hate of Hillary is tied up with hate of the establishment, hate of the current economic conditions. If you don't have stock or own a house, you haven't recovered from 2008.
->>>> 
 
->>>>> **u/blazinghand** [+8]  *Chaos Undivided**
+>>>>> **u/blazinghand** [+10]  *Chaos Undivided* (3 hours later)
 >>>>> 
 >>>>> I totally get what you're saying and agree with what you are getting at--that some people still have it quite tough! I would like to also add, though, that this isn't the case for everyone. 
->>>>> When Obama was sworn in, in early 2009, Black unemployment was rising and had hit 13%. Within a couple of months it capped out at 16%, and over the course of 8 years it slowly came back down, finally dipping down to 8% recently. It has only ever been this low right before the financial crisis, and during the Clinton administration. 
->>>>> This is why, by the way, people of color massively went for Clinton in the primary. Sanders came in and said "the system is broken, we need to fix it" just when it's finally starting to work (or be less bad) for a lot of people. This is also why, despite the problems of current economic conditions, blacks still feel more optimistic [(link)](https://www.washingtonpost.com/news/the-fix/wp/2015/06/03/black-unemployment-remains-very-high-but-nobody-is-more-optimistic-about-the-economy-why/) in general about the future.
->>>>> This doesn't mean there aren't economic problems--there are a lot of them--but this is on the list of things to think about when we try to suss out how the economy helps various groups of people and harms others. America is a great country, and also a large country. Lots of people live in different areas, different economic conditions, and so on. We have diversity of situations and even the diversity of situations in the Black community isn't captured by the stuff I put in here. 
->>>>> In addition to fighting for our rights, it's important that as a country we sit down and listen to each other. We're all Americans and we're all in this together. People who disagree with you on politics aren't the enemy, they're the opposition. And yes, I oppose those who would curtail my liberties, but they are still my countrymen, and America is great.
 >>>>> 
+>>>>> When Obama was sworn in, in early 2009, Black unemployment was rising and had hit 13%. Within a couple of months it capped out at 16%, and over the course of 8 years it slowly came back down, finally dipping down to 8% recently. It has only ever been this low right before the financial crisis, and during the Clinton administration. 
+>>>>> 
+>>>>> This is why, by the way, people of color massively went for Clinton in the primary. Sanders came in and said "the system is broken, we need to fix it" just when it's finally starting to work (or be less bad) for a lot of people. This is also why, despite the problems of current economic conditions, blacks still feel more optimistic [(link)](https://www.washingtonpost.com/news/the-fix/wp/2015/06/03/black-unemployment-remains-very-high-but-nobody-is-more-optimistic-about-the-economy-why/) in general about the future.
+>>>>> 
+>>>>> This doesn't mean there aren't economic problems--there are a lot of them--but this is on the list of things to think about when we try to suss out how the economy helps various groups of people and harms others. America is a great country, and also a large country. Lots of people live in different areas, different economic conditions, and so on. We have diversity of situations and even the diversity of situations in the Black community isn't captured by the stuff I put in here. 
+>>>>> 
+>>>>> In addition to fighting for our rights, it's important that as a country we sit down and listen to each other. We're all Americans and we're all in this together. People who disagree with you on politics aren't the enemy, they're the opposition. And yes, I oppose those who would curtail my liberties, but they are still my countrymen, and America is great.
 
->>>>>> **u/Iconochasm** [+1] *
+>>>>>> **u/Iconochasm** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> That unemployment stat is disingenuous.  The labor participation rate for African Americans is the lowest that's ever been recorded.  Additionally, in that time frame, poverty rates are up, and incomes are down since 2009.
->>>>>> 
 
->>>>>>> **u/electrace** [+4] *
+>>>>>>> **u/electrace** [+4]  (8 hours later)
 >>>>>>> 
 >>>>>>> [It isn't the lowest that's ever been recorded.](https://fred.stlouisfed.org/series/LNS11300006) It is lower than in 2009, but it looks like it's been pretty steadily decreasing since the year 2000. I'm not sure if you can blame that one on the recession. 
->>>>>>> [Income's are up since 2009.](https://fred.stlouisfed.org/series/MEHOINUSA672N#0)
->>>>>>> [Poverty rates are down since 2009.](https://www.statista.com/statistics/200463/us-poverty-rate-since-1990/)
 >>>>>>> 
+>>>>>>> [Income's are up since 2009.](https://fred.stlouisfed.org/series/MEHOINUSA672N#0)
+>>>>>>> 
+>>>>>>> [Poverty rates are down since 2009.](https://www.statista.com/statistics/200463/us-poverty-rate-since-1990/)
 
->>>>>>>> **u/Iconochasm** [+1] *
+>>>>>>>> **u/Iconochasm** [+1]  (9 hours later)
 >>>>>>>> 
 >>>>>>>> Hm.  The latter two point were specifically about African Americans, as opposed to Americans in general, but the first bit being wrong makes it worth taking another look at the whole argument.
->>>>>>>> 
 
->>>>>>>>> **u/electrace** [+2] *
+>>>>>>>>> **u/electrace** [+2]  (12 hours later)
 >>>>>>>>> 
 >>>>>>>>> Oh, I didn't realize that you meant African Americans for all of them. In that case, [here's poverty rates for African American families](https://www.statista.com/statistics/205059/percentage-of-poor-black-families--in-the-us/). It decreased from 1990 to 2000, increased sharply until 2003, and then stayed basically constant until 2010, and has been on a downward trend since then. 2015 rate is 1.6% lower than 2009.
->>>>>>>>> And on [this page](http://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html), Median and mean income for African Americans were $38,439 in 2002 (constant 2015 dollars), fell a bit 2008-2010, where it ended up at $34,957.  From there, it's been steadily increasing. In 2015, it was $37,211. 
->>>>>>>>> So, it's lower than it was in 2002 (the earliest year I could find), but there's been roughly a 10% increase in real terms in 5 years.
 >>>>>>>>> 
+>>>>>>>>> And on [this page](http://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html), Median and mean income for African Americans were $38,439 in 2002 (constant 2015 dollars), fell a bit 2008-2010, where it ended up at $34,957.  From there, it's been steadily increasing. In 2015, it was $37,211. 
+>>>>>>>>> 
+>>>>>>>>> So, it's lower than it was in 2002 (the earliest year I could find), but there's been roughly a 10% increase in real terms in 5 years.
 
->> **u/Gaboncio** [+7] *
+>> **u/Gaboncio** [+7]  (2 hours later)
 >> 
 >> Yes, but nuclear war. The president can call in and authorize a nuclear strike within minutes.
->> 
 
->>> **u/electrace** [+1] *
+>>> **u/electrace** [+1]  (2 hours later)
 >>> 
 >>> Not without the Secretary of Defense.
->>> 
 
->>>> **u/ketura** [+8]  *Organizer**
+>>>> **u/ketura** [+8]  *Organizer* (3 hours later)
 >>>> 
 >>>> ... Which is a cabinet position, is it not?
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (3 hours later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/xamueljones** [+10]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+8]  *My arch-enemy is entropy* (4 hours later)
 >>>>>> 
 >>>>>> > to get two people to agree to a nuclear strike than one.
->>>>>> If calling a nuclear strike only requires the agreement of *two* people, then something's wrong.
 >>>>>> 
+>>>>>> If calling a nuclear strike only requires the agreement of *two* people, then something's wrong.
 
->>>>>>> **u/electrace** [+2] *
+>>>>>>> **u/electrace** [+2]  (5 hours later)
 >>>>>>> 
 >>>>>>> Something's wrong with the President, any President, having virtually  full control of the military.
->>>>>>> 
 
->>>>>>> **u/MugaSofer** [+2] *
+>>>>>>> **u/MugaSofer** [+2]  (9 hours later)
 >>>>>>> 
 >>>>>>> Yes, that something is called MAD, and it's been wrong for a while.
->>>>>>> 
 
->>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>>> 
 >>>> Um, do you have a citation for that? I'm pretty sure NCA (National Command Authority) is a single man decision and two man rule only applies in authentication of the order the rest of the way down the chain.
->>>> 
 
->>>>> **u/electrace** [+3] *
+>>>>> **u/electrace** [+3]  (10 hours later)
 >>>>> 
 >>>>> Technically, the President has the sole authority. In reality, the Secretary of Defense can refuse to authenticate the President's nuclear codes. The President can't order a launch unless the codes have been authenticated by the Secretary of Defense. 
->>>>> However, the President has the sole authority to fire the Secretary of Defense. But, then he would need to present the Secreatary's replacement to Congress, and have them approved. That may be difficult when the reason for the dismissal became known.
->>>>> I'm not sure what would happen if the President physically flew to a nuclear launch site, and gave the order in person. I would think he wouldn't need codes then, but who knows? Seriously, who knows? I don't.
 >>>>> 
+>>>>> However, the President has the sole authority to fire the Secretary of Defense. But, then he would need to present the Secreatary's replacement to Congress, and have them approved. That may be difficult when the reason for the dismissal became known.
+>>>>> 
+>>>>> I'm not sure what would happen if the President physically flew to a nuclear launch site, and gave the order in person. I would think he wouldn't need codes then, but who knows? Seriously, who knows? I don't.
 
->>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 days later)
 >>>>>> 
 >>>>>> > I'm not sure what would happen if the President physically flew to a nuclear launch site, and gave the order in person. I would think he wouldn't need codes then, but who knows? Seriously, who knows? I don't.
->>>>>> That would make for an amazing short story. The President arrives at a nuclear silo, demanding the launch of a nuclear missile for some insane reason, loudly berating a Secretary of Defense that refused to authenticate the codes.
 >>>>>> 
+>>>>>> That would make for an amazing short story. The President arrives at a nuclear silo, demanding the launch of a nuclear missile for some insane reason, loudly berating a Secretary of Defense that refused to authenticate the codes.
 
->>> **u/Dwood15** [+1] *
+>>> **u/Dwood15** [+1]  (3 hours later)
 >>> 
 >>> Can you give a direct, recorded quote that Trump said that he considers it an option? Or a source that names the person that claimed it?
->>> 
 
->>>> **u/ketura** [+10]  *Organizer**
+>>>> **u/ketura** [+9]  *Organizer* (4 hours later)
 >>>> 
 >>>> Besides "if we have nukes, why can't we use them?" 
->>>> Although now I'm finding that this was second hand,  alleged to have happened behind closed doors.
 >>>> 
+>>>> Although now I'm finding that this was second hand,  alleged to have happened behind closed doors.
 
->>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>>>> 
 >>>>> It is politically important in the irrational strategy to winning global thermonuclear war (I'm referencing war games: the only way to win is not to play) to be thought willing to play.  A precomittment to never actually play even if the other player does (President B. Clinton) is noble, but a vulnerability if it is known, and the other guy is willing to accept the cost of a ruined earth.
->>>>> 
 
->>>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (13 hours later)
 >>>>>> 
 >>>>>> Double-edged sword. If you are known as having an itchy trigger finger, then next time a military plane accidentally crosses the wrong border during a training exercise, things can spiral out of control quicker.
->>>>>> 
 
->>>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (13 hours later)
 >>>>>>> 
 >>>>>>> *sigh* It's veteran's day, I've had a quarter of a bottle of scotch, and I'm giving myself a free pass to make an argument from authority.
->>>>>>> Authority credentials:  4 years at a service academy, 10 years active duty service as a commissioned officer working as middle management  (aka commissioned officer) where to handling things at the lowest possible level is a sign of *basic* competence, to whit *calling the boss is an admission of failure*.
-
->>>>>>> **Please check your Dunning Kruger at the door. You don't know what you are talking about, and are making the worst type of straw man argument.**  *You obviously have no*  **idea** *how seriously an out of area even is planned against, how much things are sent up to prevent it, and seem  (this is probably my bias/intoxication talking and not you) to have no respect for the competence of the people who do this shit as a living* **Training events** conducted in the vicinity of someone else's national territoriality are not **'training events'** they are operational events, with the most stone cold highly prepared people conducting them, probably requested by people with black passports if not higher. * facepalm shakes-head *   
-
->>>>>>> Lets just put it this way; asking why we can't use nukes is playing by the rules for leaders in the big strategy game.  **We don't want to use nukes.  The other guy doesn't want to use nukes,** *we hope,*  barring Grand Ayatolla Ali Khamenei, the game is played so both leaders are/pretend they are willing to use nukes until we can either get rid of them (unfeasible, someone will cheat) or can reliably shoot them all down from the sky at greater than five nines accuracy, yes the much derided star wars is now AEGIS-1 TBMD, google it.
->>>>>>> I'm going to back up from my rage and try to recommend something that might be communicative here: /u/docfuture (sorry to pull you into this) has a great discussion of how corporations are UFAI incubators using people as a computational substrate optimizing for their profit somewhere in his "Maker's ark" novel, nations aren't all that different, but they optimize for survival and influence ( a long term prerequisite survival).  Part of influence, when you both are amoeba with big poisonous spines that kill the other guy, and can still be launched, and will generally hit, when you are already impaled and **will die**, oh an yeah the poison will probably eventually slowly kill every amoeba in this puddle; is regularly signaling that you have said death spine.  You don't want to use it, lets be honest outside of good SI fanfiction, you have no idea how you'd cross dry land to the next puddle, but if you don't someone else might be stupid enough to use it on you.
->>>>>>> Try thinking iterated prisoner's dilemma.  We discovered defecting in 1945 when only one party had the defect button; **nobody,** not even an actor, has defected since then the vetting, and or assassination processes, are no-where as weak as you think.
 >>>>>>> 
+>>>>>>> Authority credentials:  4 years at a service academy, 10 years active duty service as a commissioned officer working as middle management  (aka commissioned officer) where to handling things at the lowest possible level is a sign of *basic* competence, to whit *calling the boss is an admission of failure*.
+>>>>>>> 
+>>>>>>> **Please check your Dunning Kruger at the door. You don't know what you are talking about, and are making the worst type of straw man argument.**  *You obviously have no*  **idea** *how seriously an out of area even is planned against, how much things are sent up to prevent it, and seem  (this is probably my bias/intoxication talking and not you) to have no respect for the competence of the people who do this shit as a living* **Training events** conducted in the vicinity of someone else's national territoriality are not **'training events'** they are operational events, with the most stone cold highly prepared people conducting them, probably requested by people with black passports if not higher. * facepalm shakes-head *   
+>>>>>>> 
+>>>>>>> Lets just put it this way; asking why we can't use nukes is playing by the rules for leaders in the big strategy game.  **We don't want to use nukes.  The other guy doesn't want to use nukes,** *we hope,*  barring Grand Ayatolla Ali Khamenei, the game is played so both leaders are/pretend they are willing to use nukes until we can either get rid of them (unfeasible, someone will cheat) or can reliably shoot them all down from the sky at greater than five nines accuracy, yes the much derided star wars is now AEGIS-1 TBMD, google it.
+>>>>>>> 
+>>>>>>> I'm going to back up from my rage and try to recommend something that might be communicative here: /u/docfuture (sorry to pull you into this) has a great discussion of how corporations are UFAI incubators using people as a computational substrate optimizing for their profit somewhere in his "Maker's ark" novel, nations aren't all that different, but they optimize for survival and influence ( a long term prerequisite survival).  Part of influence, when you both are amoeba with big poisonous spines that kill the other guy, and can still be launched, and will generally hit, when you are already impaled and **will die**, oh an yeah the poison will probably eventually slowly kill every amoeba in this puddle; is regularly signaling that you have said death spine.  You don't want to use it, lets be honest outside of good SI fanfiction, you have no idea how you'd cross dry land to the next puddle, but if you don't someone else might be stupid enough to use it on you.
+>>>>>>> 
+>>>>>>> Try thinking iterated prisoner's dilemma.  We discovered defecting in 1945 when only one party had the defect button; **nobody,** not even an actor, has defected since then the vetting, and or assassination processes, are no-where as weak as you think.
 
->>>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>>>>> 
 >>>>>>>> > *You obviously have no* **idea** *how seriously an out of area even is* [etc]
->>>>>>>> I really don't, but you're nitpicking the hypothetical. It's a stand-in for "the next time something happens that makes a country worried that the US is planning a nuclear strike". We've had sunlight reflected on clouds, simulation treated as the real thing *Wargames*-style, a bear intruder at a military base etc. and some have gone very close to launch indeed. And I expect these have been patched, so if nuclear war ever starts by accident, it will be something else. 
->>>>>>>> We'd also need tension to build up to cold-war level first. But a president perceived as *too* unpredictable and vindictive is part of what makes tension build, for all that too little is dangerous prisoner's-dilemma-wise too.
->>>>>>>> I don't otherwise disagree with your post.
 >>>>>>>> 
+>>>>>>>> I really don't, but you're nitpicking the hypothetical. It's a stand-in for "the next time something happens that makes a country worried that the US is planning a nuclear strike". We've had sunlight reflected on clouds, simulation treated as the real thing *Wargames*-style, a bear intruder at a military base etc. and some have gone very close to launch indeed. And I expect these have been patched, so if nuclear war ever starts by accident, it will be something else. 
+>>>>>>>> 
+>>>>>>>> We'd also need tension to build up to cold-war level first. But a president perceived as *too* unpredictable and vindictive is part of what makes tension build, for all that too little is dangerous prisoner's-dilemma-wise too.
+>>>>>>>> 
+>>>>>>>> I don't otherwise disagree with your post.
 
->>>>>>>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>>>>>>> **u/CouteauBleu** [+1]  *We are the Empire.* (22 hours later)
 >>>>>>>> 
 >>>>>>>> So how safe are nukes from impulsive presidents? My gut tells me "safe-ish, because military people have seen Doctor Strangelove too", but I don't know.
->>>>>>>> 
 
->>>>> **u/Dwood15** [+1] *
+>>>>> **u/Dwood15** [+1]  (4 hours later)
 >>>>> 
 >>>>> Which makes it all the less likely to be real... I haven't been able to find any primary source that actually says Trump said that (and they heard it first hand), or a damning recording of it.
->>>>> 
 
->>>>>> **u/xamueljones** [+9]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+9]  *My arch-enemy is entropy* (4 hours later)
 >>>>>> 
 >>>>>> While it's true that second-hand evidence is less important/accurate than first-hand evidence, they tend to have a grain of truth.
->>>>>> If he's the kind of person that people easily believe will say something like that, then it's a symptom of an underlying problem.
->>>>>> While I don't believe he will actually use nukes on a whim, it still worries me that he appears to be the kind of person who is more likely to use nukes than anyone else. [WWIII](https://en.wikipedia.org/wiki/Stanislav_Petrov) was narrowly adverted in 1983 and I believe that if Trump was in the same situation, he wouldn't have thought twice before pressing the button.
->>>>>> EDIT: Thanks /u/Empiricist_or_not for correcting me on the historical accuracy.
 >>>>>> 
+>>>>>> If he's the kind of person that people easily believe will say something like that, then it's a symptom of an underlying problem.
+>>>>>> 
+>>>>>> While I don't believe he will actually use nukes on a whim, it still worries me that he appears to be the kind of person who is more likely to use nukes than anyone else. [WWIII](https://en.wikipedia.org/wiki/Stanislav_Petrov) was narrowly adverted in 1983 and I believe that if Trump was in the same situation, he wouldn't have thought twice before pressing the button.
+>>>>>> 
+>>>>>> EDIT: Thanks /u/Empiricist_or_not for correcting me on the historical accuracy.
 
->>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (10 hours later)
 >>>>>>> 
 >>>>>>> Looking at your link I think you mean WWIII (1983) was narrowly avoided.  Though this is why missile tests and space launches are publicly and diplomatically promulgated today.
-
->>>>>>> > Nuclear bombardment was narrowly adverted in WWII 
->>>>>>> Huh? America was the only country with the bomb at that point and [they didn't have another bomb avalible after the second bombing](http://history.stackexchange.com/questions/8718/did-the-united-states-have-a-third-atomic-bomb-to-drop-on-japan)
 >>>>>>> 
+>>>>>>> > Nuclear bombardment was narrowly adverted in WWII 
+>>>>>>> 
+>>>>>>> Huh? America was the only country with the bomb at that point and [they didn't have another bomb avalible after the second bombing](http://history.stackexchange.com/questions/8718/did-the-united-states-have-a-third-atomic-bomb-to-drop-on-japan)
 
->>>>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (10 hours later)
 >>>>>>>> 
 >>>>>>>> Whoops. I typed that post in a rush earlier and completely goofed. Thanks for the correction!
->>>>>>>> 
 
->>>>>>> **u/Dwood15** [+1] *
+>>>>>>> **u/Dwood15** [+1]  (5 hours later)
 >>>>>>> 
 >>>>>>> > he appears to be the kind of person who is more likely to use nukes
->>>>>>> But can you identify that that is not just what he's been portrayed as?
 >>>>>>> 
+>>>>>>> But can you identify that that is not just what he's been portrayed as?
 
->>>>>>>> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+>>>>>>>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (5 hours later)
 >>>>>>>> 
 >>>>>>>> True, but what I'm thinking is that if someone makes an accusation of something you didn't do and everyone is convinced that you are the kind of person who would do something like that, doesn't it say something about you?
->>>>>>>> Another way to put it is that Trump has repeatedly shown himself to be impulsive, very aggressive, and constantly calling for war against other countries. The obvious follow-up question is *is this the sort of person we want in charge of the nukes?* This is why people find it so easy to believe he's the sort of person to say "if we have nukes, why can't we use them?"
->>>>>>>> > But can you identify that that is not just what he's been portrayed as?
->>>>>>>> You have me there, since people can often be portrayed as someone completely different from who they actually are. But can you actually tell me anything about Trump to make me less nervous about him having control over the nukes? I'm willing to accept alternative views of Trump if you can explain why you believe these views.
 >>>>>>>> 
+>>>>>>>> Another way to put it is that Trump has repeatedly shown himself to be impulsive, very aggressive, and constantly calling for war against other countries. The obvious follow-up question is *is this the sort of person we want in charge of the nukes?* This is why people find it so easy to believe he's the sort of person to say "if we have nukes, why can't we use them?"
+>>>>>>>> 
+>>>>>>>> > But can you identify that that is not just what he's been portrayed as?
+>>>>>>>> 
+>>>>>>>> You have me there, since people can often be portrayed as someone completely different from who they actually are. But can you actually tell me anything about Trump to make me less nervous about him having control over the nukes? I'm willing to accept alternative views of Trump if you can explain why you believe these views.
 
->>>>>>>>> **u/Dwood15** [+3] *
+>>>>>>>>> **u/Dwood15** [+4]  (6 hours later)
 >>>>>>>>> 
 >>>>>>>>> > repeatedly shown himself to be impulsive, very aggressive, and constantly calling for war
->>>>>>>>> You say constantly. Have you listened to any of his Townhall speeches? Has it shown that he is actually a war hawk? At the very least, he'll likely attempt to deal with ISIS, which he ought to be doing, to help stabilize the gvt and country of Iraq...
->>>>>>>>> Trump is a bit of an antithesis to the current politician who thinks about every thing they're going to do, carefully plans out their exact talking points, and don't deviate from the script, even if they have to lie and cheat to get there. Obama, Romney, McCain, Hillary, and other 'establishment' politicians are like this. When it comes to warhawking, [Clinton qualifies](http://foreignpolicy.com/2016/07/27/hillary-the-hawk-a-history-clinton-2016-military-intervention-libya-iraq-syria/) and even suggested a [no fly zone](http://www.huffingtonpost.com/entry/hillary-clinton-syria-no-fly-zone-third-debate_us_58084280e4b0180a36e91a53) over Syria, leaving me [more afraid of what she would do](http://www.salon.com/2016/10/21/hillary-clinton-admitted-in-2013-that-a-no-fly-zone-would-kill-a-lot-of-syrians-but-still-wants-one/) than Trump, who can merely be portrayed as having a loud mouth.
->>>>>>>>> A track record of actually starting wars and wanting to get involved in conflicts we shouldn't, is worse than someone with a loud mouth, right?
->>>>>>>>> >people can often be portrayed as someone completely different
->>>>>>>>> That's exactly what I'm saying has happened.
->>>>>>>>> >can you actually tell me anything about Trump to make me less nervous about him having control over the nukes?
->>>>>>>>> Not likely, but i'll try. While you might disagree with the actual policies [read his 100 day plan](https://assets.donaldjtrump.com/_landings/contract/O-TRU-102316-Contractv02.pdf) and notice that there is not a mention of military intervention anywhere. 
->>>>>>>>> Additionally, Trump would long be out of business if he were as over the top as dramatised.
->>>>>>>>> [I also wrote a really crappy paper](https://docs.google.com/document/d/1hnaf5Pq7-2P8ZAkp4MHk5AcBQoB06lqc08z_xVA_w8Y/edit?usp=sharing) on why I think voting for Trump is fairly rational. The main point being Eliezer Yudkowsky is pretty elitist.
 >>>>>>>>> 
+>>>>>>>>> You say constantly. Have you listened to any of his Townhall speeches? Has it shown that he is actually a war hawk? At the very least, he'll likely attempt to deal with ISIS, which he ought to be doing, to help stabilize the gvt and country of Iraq...
+>>>>>>>>> 
+>>>>>>>>> Trump is a bit of an antithesis to the current politician who thinks about every thing they're going to do, carefully plans out their exact talking points, and don't deviate from the script, even if they have to lie and cheat to get there. Obama, Romney, McCain, Hillary, and other 'establishment' politicians are like this. When it comes to warhawking, [Clinton qualifies](http://foreignpolicy.com/2016/07/27/hillary-the-hawk-a-history-clinton-2016-military-intervention-libya-iraq-syria/) and even suggested a [no fly zone](http://www.huffingtonpost.com/entry/hillary-clinton-syria-no-fly-zone-third-debate_us_58084280e4b0180a36e91a53) over Syria, leaving me [more afraid of what she would do](http://www.salon.com/2016/10/21/hillary-clinton-admitted-in-2013-that-a-no-fly-zone-would-kill-a-lot-of-syrians-but-still-wants-one/) than Trump, who can merely be portrayed as having a loud mouth.
+>>>>>>>>> 
+>>>>>>>>> A track record of actually starting wars and wanting to get involved in conflicts we shouldn't, is worse than someone with a loud mouth, right?
+>>>>>>>>> 
+>>>>>>>>> >people can often be portrayed as someone completely different
+>>>>>>>>> 
+>>>>>>>>> That's exactly what I'm saying has happened.
+>>>>>>>>> 
+>>>>>>>>> >can you actually tell me anything about Trump to make me less nervous about him having control over the nukes?
+>>>>>>>>> 
+>>>>>>>>> Not likely, but i'll try. While you might disagree with the actual policies [read his 100 day plan](https://assets.donaldjtrump.com/_landings/contract/O-TRU-102316-Contractv02.pdf) and notice that there is not a mention of military intervention anywhere. 
+>>>>>>>>> 
+>>>>>>>>> Additionally, Trump would long be out of business if he were as over the top as dramatised.
+>>>>>>>>> 
+>>>>>>>>> [I also wrote a really crappy paper](https://docs.google.com/document/d/1hnaf5Pq7-2P8ZAkp4MHk5AcBQoB06lqc08z_xVA_w8Y/edit?usp=sharing) on why I think voting for Trump is fairly rational. The main point being Eliezer Yudkowsky is pretty elitist.
 
->>>>>>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>>>>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (6 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Okay, thank you. This election has been very stressful and opened my eyes to understand that I'm biased due to the people I'm surrounded by and live with (urban vs rural, upper-class vs lower-class), and it affects what sort of news I hear and listen to.
->>>>>>>>>> I doubt my opinion will change before I read the links you sent me, but I do believe it will help me better understand the opposing side's perspective and what conflicts with my knowledge of Trump. When I say that my opinion won't change, I mean that I still believe Trump is a terrible choice for president, but I do believe more strongly that Clinton is a terrible choice for president and is only *barely* a better choice.
->>>>>>>>>> Thank you for taking the time to explain.
 >>>>>>>>>> 
+>>>>>>>>>> I doubt my opinion will change before I read the links you sent me, but I do believe it will help me better understand the opposing side's perspective and what conflicts with my knowledge of Trump. When I say that my opinion won't change, I mean that I still believe Trump is a terrible choice for president, but I do believe more strongly that Clinton is a terrible choice for president and is only *barely* a better choice.
+>>>>>>>>>> 
+>>>>>>>>>> Thank you for taking the time to explain.
 
->>>>>>>>>>> **u/Dwood15** [+1] *
+>>>>>>>>>>> **u/Dwood15** [+1]  (8 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Thanks for discussing it with me.
->>>>>>>>>>> 
 
->>>>>>>>>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>>>>>>>>> **u/CouteauBleu** [+2]  *We are the Empire.* (22 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I think you're being asymmetrically rigorous, or at least asymmetrically charitable. If we assume that Trump isn't a madman who will actually order Iranian boats to be blown up like he said he would, shouldn't we also assume that Clinton isn't a mad woman who would have razed Syria and started Word War III?
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Dwood15** [+1] *
+>>>>>>>>>>> **u/Dwood15** [+1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> My point is the likelihood of everything happening. Clinton has proven herself to be a warhawk already on the world stage, making her getting into stupid wars much more likely. The threat of Clinton getting involved in some war we have no business is much more real than trump, because of her speeches and track record.
->>>>>>>>>>> While i cannot rule out Trump getting involved in stupid wars, his actual rhetoric has not been that which would make me think he's a war hawk, and so makes me rate him as much less likely than Clinton.
 >>>>>>>>>>> 
+>>>>>>>>>>> While i cannot rule out Trump getting involved in stupid wars, his actual rhetoric has not been that which would make me think he's a war hawk, and so makes me rate him as much less likely than Clinton.
 
->>>>>>>>> **u/Dwood15** [+1] *
+>>>>>>>>> **u/Dwood15** [+1]  (6 hours later)
 >>>>>>>>> 
 >>>>>>>>> By the way, I edited my initial reply.
->>>>>>>>> 
 
->>>> **u/Iconochasm** [+3] *
+>>>> **u/Iconochasm** [+3]  (7 hours later)
 >>>> 
 >>>> During the primary debates, he (paraphrased from memory) called nukes a last resort, but refused to take them off the table in a general principle sort of way.  If I could trust he was being canny, I'd kind of think "a last resort is still a resort" is the sweet spot for nukes.  Some deterrent effect, but no likely threat of use.
->>>> 
 
->>>>> **u/Dwood15** [+2] *
+>>>>> **u/Dwood15** [+2]  (8 hours later)
 >>>>> 
 >>>>> I would read that as 'If someone uses a nuclear weapon on us, we will retaliate.' kind of deal. We aren't so kind as to just lay over and die for fear of mutual destruction. I'd need an exact video to watch for it to have a good answer though.
->>>>> 
 
->>>>>> **u/MugaSofer** [+2] *
+>>>>>> **u/MugaSofer** [+2]  (9 hours later)
 >>>>>> 
 >>>>>> IIRC this was talking about first strikes.
->>>>>> But Obama also refused to take a first strike off the table, as has every president IIRC. I may not agree with it, but it's hardly unusual.
 >>>>>> 
+>>>>>> But Obama also refused to take a first strike off the table, as has every president IIRC. I may not agree with it, but it's hardly unusual.
 
->>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>> 
 >>> What in the world makes you think this is more likely?  How is trump more hawkish that hillary?  Politics is spiders and my tarantula is showing but this, like the constant pattern of calling opposing presidents stupid, just baffles me.
->>> 
 
->> **u/None** [+11] *
+>> **u/None** [+10]  (7 hours later)
 >> 
 >> >People are very doom-and-gloom after the election outcome. I know Trump has said some very discouraging things. But, and I feel like maybe this is just my patriotism talking, this is America. We’ll survive, no matter what Trump does or who he turns out to be. Why? We’ll survive because as a democratic republic, we can change our leaders with elections. We'll servive because the American ideal is bigger than any one person. We'll survive because Trump hasn’t been elected King, just President. 
->> No, we won't.  If American institutions and customs hadn't been rotten, this would never have happened.  There wouldn't be a slate consisting of the two most hated people current politics could locate.
->> For God's sakes, the President-elected receives mostly unfavorable ratings *from his own voters*, and the Democrats apparently consider the letter of the Electoral College far more important than keeping a fascist demagogue out of office -- just as they considered Hillary's connections more important than putting up a candidate the public at large would actually want to vote for.
->> The veil of legitimacy over American neoliberal proceduralism has dropped, and behind that veil is a turd.
->> And as stated in another reply to you above me, there's climate change to consider.  Or UFAI, or nuclear war, if you think that could happen in the next eight years (or the next eight *decades*, if the radical Left doesn't get off its ass and depose neoliberal hegemony).  There are genuinely existential, life-or-death issues where society cannot afford to *work through its issues* by punching itself in the face repeatedly!
 >> 
+>> No, we won't.  If American institutions and customs hadn't been rotten, this would never have happened.  There wouldn't be a slate consisting of the two most hated people current politics could locate.
+>> 
+>> For God's sakes, the President-elected receives mostly unfavorable ratings *from his own voters*, and the Democrats apparently consider the letter of the Electoral College far more important than keeping a fascist demagogue out of office -- just as they considered Hillary's connections more important than putting up a candidate the public at large would actually want to vote for.
+>> 
+>> The veil of legitimacy over American neoliberal proceduralism has dropped, and behind that veil is a turd.
+>> 
+>> And as stated in another reply to you above me, there's climate change to consider.  Or UFAI, or nuclear war, if you think that could happen in the next eight years (or the next eight *decades*, if the radical Left doesn't get off its ass and depose neoliberal hegemony).  There are genuinely existential, life-or-death issues where society cannot afford to *work through its issues* by punching itself in the face repeatedly!
 
->>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (8 hours later)
 >>> 
 >>> Well said on all counts.
->>> 
 
-> **u/ketura** [+12]  *Organizer**
+> **u/ketura** [+10]  *Organizer* (2 hours later)
 > 
 > Weekly update on my rational pokemon game, including work on the data creation tool Bill's PC. [Handy discussion links and previous threads here](https://docs.google.com/document/d/1EUSMDHdRdbvQJii5uoSezbjtvJpxdF6Da8zqvuW42bg/edit?usp=sharing).
-
-> ----
-
-> So I got very little done this week.  I almost don’t even want to make this post, but if experience is any indicator that will lead the death spiral of the project, so here I am.
-> Mostly this is due to the election this week; I spent Monday researching my local ballot, Tuesday nervously staying up all night to see the results of the vote, and then the last few days doing my best non-alcoholic impression of someone drinking their woes away.  I imagine it won’t be hard to get sympathy for this position.
-> I *think* I’ve come to terms with it.  While I don’t think the current president-elect will be the cure-all his supporters seem to rabidly insist he is, I’m willing to wait for actions to object to.  This is probably just a defense mechanism, but I’ll take what I can get if it leaves me functioning.
-
-> ----
-
-> Feel free to leave any comments or questions below. Also feel free to join us [on the #pokengineering channel of the /r/rational Discord server](https://discord.gg/sM99CF3) for brainstorming and discussion.  It’s a great group, really, and I would highly recommend hanging out, even if you’re not in it for this project itself.  There’s tabletop groups, Dota 2 partying, and [puns](http://i.imgur.com/j3jRmMZ.png) like you wouldn’t [believe](http://i.imgur.com/8cUkzoGl.jpg).  Come join us!
 > 
+> ----
+> 
+> So I got very little done this week.  I almost don’t even want to make this post, but if experience is any indicator that will lead the death spiral of the project, so here I am.
+> 
+> Mostly this is due to the election this week; I spent Monday researching my local ballot, Tuesday nervously staying up all night to see the results of the vote, and then the last few days doing my best non-alcoholic impression of someone drinking their woes away.  I imagine it won’t be hard to get sympathy for this position.
+> 
+> I *think* I’ve come to terms with it.  While I don’t think the current president-elect will be the cure-all his supporters seem to rabidly insist he is, I’m willing to wait for actions to object to.  This is probably just a defense mechanism, but I’ll take what I can get if it leaves me functioning.
+> 
+> ----
+> 
+> Feel free to leave any comments or questions below. Also feel free to join us [on the #pokengineering channel of the /r/rational Discord server](https://discord.gg/sM99CF3) for brainstorming and discussion.  It’s a great group, really, and I would highly recommend hanging out, even if you’re not in it for this project itself.  There’s tabletop groups, Dota 2 partying, and [puns](http://i.imgur.com/j3jRmMZ.png) like you wouldn’t [believe](http://i.imgur.com/8cUkzoGl.jpg).  Come join us!
 
->> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (5 hours later)
 >> 
 >> Good luck with continuing the project and here's an imaginary hug from an internet stranger to help!
->> *hugs*
 >> 
+>> *hugs*
 
-> **u/xamueljones** [+15]  *My arch-enemy is entropy**
+> **u/xamueljones** [+17]  *My arch-enemy is entropy* (4 hours later)
 > 
 > This Wednesday was an eye-opener for me.
-> When I saw Trump win, I thought to myself, *Oh crap, we're screwed.*
-> Then something I've been training myself to do for years kicked in automatically. I imagined what the people on the opposite side (Trump supporters) would think if the opposite had happened (Clinton winning), *Oh crap, we're screwed.*
-> That's when something in my brain went *something's wrong here*. People on both sides of an election genuinely believed there will be a World War III, the US will be destroyed, there will be thousands ruined for life, and other horrific scenarios were likely to happen which were not fear-mongering or exaggeration by journalists.
-> **If most people on BOTH sides of an election believe the other candidate will actually destroy the nation if elected, then you've got a problem with the entire system of election!**
-> Enlightenment is about gaining a new insight into the working of some important matter, but what I felt is something I would call a **bitter enlightenment**.
-> I realized that when it came to my beliefs in democracy, they were childish. I grew up believing that democracy was the best form of government and that no other form could compare because they didn't allow for everyone to have a say in important affairs. While my belief has gotten tarnished over the years seeing all of the corruption of our leaders, ways people are prevented from actually having a say (electoral college vs the popular vote), and how it's probably not a good idea to allow those ignorant and untrained to vote on issues requiring experts, I retained that belief for years unconsciously defending it.
-> That sensation of sickening realization of having a fundamental belief crack and crumble away as I gained a dreadful insight into human nature and governments would be what I call a bitter enlightenment. It was an insight I didn't want to know (left a 'bitter' taste in my mouth) and tried to make excuses for *this was just an outlier, next election will show everyone returning to their senses*, but once you learn a truth you can't unlearn it. It forced me to update on what makes a good system of government, how necessary it is to allow freedom of speech, how nasty people can be on both sides of a losing arguments/"correcting" those in the wrong, and just how deeply flawed my mind is.
-> Before Wednesday November 9th, I always had the unconscious visualization of the human mind as a shining pearl with some warps and dents in it as if we were nearly perfect only with some deviations from perfect rationality. But with the destruction of one of my fundamental beliefs, it felt as if I saw a glimpse into a mirror showing myself as a hodge-podge of widely different materials all straining to rip apart from each other. It was as if my mind was made of many disgusting parts, all deeply warped and bent, barely cooperating together to make something that sometimes equaled to a greater whole and sometimes equaled to less than any single part. I felt on a visceral level the human mind *is* made of flaws as if we were nothing more than a collection of numerous error-prone algorithms switching out programs for the best algorithms with the fewest errors for any given solution.
-> This experience demanded I STOP and rethink everything. No continuing on with false beliefs and don't do anything until I have updated.
-> I don't know yet what I'm going to do from here on out, but I wanted to share the experience to convey what it feels like to dramatically reevaluate a fundamental belief.
-> EDIT: After /u/LiteralHeadCannon pointed out that [dark enlightenment](https://en.wikipedia.org/wiki/Dark_Enlightenment) was already used, I renamed it to 'bitter enlightenment' which might be a better name, because calling something 'dark' brings up gothic tones and implies 'Evil is Cool'. Bitter enlightenment is more descriptive of explaining the distaste in reaching this particular enlightened state I found myself in.
 > 
+> When I saw Trump win, I thought to myself, *Oh crap, we're screwed.*
+> 
+> Then something I've been training myself to do for years kicked in automatically. I imagined what the people on the opposite side (Trump supporters) would think if the opposite had happened (Clinton winning), *Oh crap, we're screwed.*
+> 
+> That's when something in my brain went *something's wrong here*. People on both sides of an election genuinely believed there will be a World War III, the US will be destroyed, there will be thousands ruined for life, and other horrific scenarios were likely to happen which were not fear-mongering or exaggeration by journalists.
+> 
+> **If most people on BOTH sides of an election believe the other candidate will actually destroy the nation if elected, then you've got a problem with the entire system of election!**
+> 
+> Enlightenment is about gaining a new insight into the working of some important matter, but what I felt is something I would call a **bitter enlightenment**.
+> 
+> I realized that when it came to my beliefs in democracy, they were childish. I grew up believing that democracy was the best form of government and that no other form could compare because they didn't allow for everyone to have a say in important affairs. While my belief has gotten tarnished over the years seeing all of the corruption of our leaders, ways people are prevented from actually having a say (electoral college vs the popular vote), and how it's probably not a good idea to allow those ignorant and untrained to vote on issues requiring experts, I retained that belief for years unconsciously defending it.
+> 
+> That sensation of sickening realization of having a fundamental belief crack and crumble away as I gained a dreadful insight into human nature and governments would be what I call a bitter enlightenment. It was an insight I didn't want to know (left a 'bitter' taste in my mouth) and tried to make excuses for *this was just an outlier, next election will show everyone returning to their senses*, but once you learn a truth you can't unlearn it. It forced me to update on what makes a good system of government, how necessary it is to allow freedom of speech, how nasty people can be on both sides of a losing arguments/"correcting" those in the wrong, and just how deeply flawed my mind is.
+> 
+> Before Wednesday November 9th, I always had the unconscious visualization of the human mind as a shining pearl with some warps and dents in it as if we were nearly perfect only with some deviations from perfect rationality. But with the destruction of one of my fundamental beliefs, it felt as if I saw a glimpse into a mirror showing myself as a hodge-podge of widely different materials all straining to rip apart from each other. It was as if my mind was made of many disgusting parts, all deeply warped and bent, barely cooperating together to make something that sometimes equaled to a greater whole and sometimes equaled to less than any single part. I felt on a visceral level the human mind *is* made of flaws as if we were nothing more than a collection of numerous error-prone algorithms switching out programs for the best algorithms with the fewest errors for any given solution.
+> 
+> This experience demanded I STOP and rethink everything. No continuing on with false beliefs and don't do anything until I have updated.
+> 
+> I don't know yet what I'm going to do from here on out, but I wanted to share the experience to convey what it feels like to dramatically reevaluate a fundamental belief.
+> 
+> EDIT: After /u/LiteralHeadCannon pointed out that [dark enlightenment](https://en.wikipedia.org/wiki/Dark_Enlightenment) was already used, I renamed it to 'bitter enlightenment' which might be a better name, because calling something 'dark' brings up gothic tones and implies 'Evil is Cool'. Bitter enlightenment is more descriptive of explaining the distaste in reaching this particular enlightened state I found myself in.
 
->> **u/None** [+10] *
+>> **u/None** [+10]  (8 hours later)
 >> 
 >> >Then something I've been training myself to do for years kicked in automatically. I imagined what the people on the opposite side (Trump supporters) would think if the opposite had happened (Clinton winning), Oh crap, we're screwed.
 >> >
 >> >That's when something in my brain went something's wrong here. People on both sides of an election genuinely there will be a World War III, the US will be destroyed, there will be thousands ruined for life, and other horrific scenarios many people believed were likely to happen which were not fear-mongering or exaggeration by journalists.
->> Who says they're wrong?  Both candidates can be horrible.  The world is not obligated to provide us with United States Presidents who actually want to serve the people well and keep the country in a good shape.
->> I expected beforehand that Trump would be a fascist dictator and Hillary would be such a thoroughly awful elitist neoliberal that a Trump figure would get elected in 2020 if he didn't make it in 2016.  I think that letting *social reconciliation after a loss* override the *probability of bad things happening* is itself irrational.  Trump can win and then be *exactly* as bad as we all expected him to be.  Or worse.  Clinton can win, and be *exactly* as bad as we all expected her to be.  Or worse.
->> We have not yet woven our human and moral needs into the fabric of history.  There is no reason we *can't* be completely fucked when all the evidence says we're completely fucked.
->> >I realized that when it came to my beliefs in democracy, they were childish. I grew up believing that democracy was the best form of government and that no other form could compare because they didn't allow for everyone to have a say in important affairs. While my belief has gotten tarnished over the years seeing all of the corruption of our leaders, ways people are prevented from actually having a say (electoral college vs the popular vote), and how it's probably not a good idea to allow those ignorant and untrained to vote on issues requiring experts, I retained that belief for years unconsciously defending it.
->> I'm going to give my defensive counterpoint first, followed by my even grimmer counterpoint.  Defensive counterpoint:
->> * The United States simply doesn't have what most of the Western world would recognize as democracy, that is, a multi-party system in which elections are high-entropy random variables with actual causal influence upon governance.
->> * You can claim that Trump's victory is a sign of variance/entropy in the American electoral process, except that his Cabinet picks already show that the downstream influence on governance is near-null (he's going with completely conventional Republicans and already starting to walk back various previous positions).
->> * If you *think* you're being sufficiently cynical by viewing democracy as a schoolyard popularity contest, you're not.  To repeat myself from last week, the most *popular* presidential contender, whose positions were quite reasonable, was shunted from the ballots by Inner Party shenanigans *months* before anyone could actually vote for him.
->> * The two candidates who *were* on the ballot were deeply unpopular, and neither won a majority vote.  The majority of the American people voted *fuck those two and fuck this noise* by voting third party and staying home on Election Day, which is in fact the correct response.
->> * The "victories" were separated into a "popular vote" and the Electoral College.  This means that the "winner", the ork, got fewer votes than the "loser", which is basically not how a *democratic* system works.
->> * The "loser" then *conceded*, because 200-year-old procedure is more important to her than both the mandate of the people and *preventing a fascist takeover*.  Again, not how a *democratic* system works.
->> * The Voting Rights Act was gutted this past year, which resulted in *certain places* (read: black areas of the South) having orders of magnitude fewer polling-places than last election.
->> So in summary, you shouldn't claim to be losing faith in democracy because *this shit ain't democracy*.  I've voted in *democratic* elections, and seen the guy I hated ascend to power.  That was extremely different: that other system has universal registration for all citizens, a wide-open field of parties that actually changes almost every election season, proportional representation, and coalition governments that guarantee the government in power has some level of support from the majority of voters -- even when I personally despise the shit out of it.
->> Now comes the *grim* stuff:
->> * This election cycle isn't really about the human mind-design.  Sorry, but even a computationally omniscient Bayesian reasoner who doesn't have to resort to approximations can still be *information-theoretically* screwed-over if their sensory signals are ambiguous.  We all know P(H|E) = P(E|H) * P(H) / P(E), right?  But what if P(E|H) doesn't vary much based on H, and P(E) is actually pretty high?
->> * As an example, [take the ad in this article.](https://www.washingtonpost.com/opinions/anti-semitism-is-no-longer-an-undertone-of-trumps-campaign-its-the-melody/2016/11/07/b1ad6e22-a50a-11e6-8042-f4d111c862d1_story.html)  Actually watch it.  Then ask yourself: if you were primed with anti-capitalism, would you see it as antisemitic?  If you belonged to the white working class and weren't primed to see antisemitism, would you see it as antisemitic?  The answers are not really, and definitely not.  Now, if you're either a lefty SJW type or a Jew yourself, do you see this as antisemitic?  Definitely!  When you receive an inherently ambiguous signal, you're forced to rely on your own priors, and when the subject matter is "far away", you can't resolve the ambiguities through experimental actions.
->> * This is a major failure mode for *any Bayesian social reasoner*, approximate, bounded, or otherwise.  People need common priors and hierarchical hyperpriors to make social reasoning possible *at all*; otherwise we all drift apart into our own little worlds.
->> * *Some people* have basically been pissing in the swimming pool and sending the precisions of their communications to near-zero.  That's not just the Trump campaign!  If the *Clinton* campaign and the liberal media hadn't been *willfully deluding themselves*, the voting public would have had much clearer information with which to both make their choice and with which to predict Tuesday's events.  Decades of media consolidation have also helped degrade our information environment by reducing the number of independent information sources whose correlation would provide evidence for the veracity of events.
->> >It was as if my mind was made of many disgusting parts, all deeply warped and bent, barely cooperating together to make something that sometimes equaled to a greater whole and sometimes equaled to less than any single part. I felt on a visceral level the human mind is made of flaws as if we were nothing more than a collection of numerous error-prone algorithms switching out programs for the best algorithms with the fewest errors for any given solution.
->> You are better than this.  However, as a living organism, as a *statistical* reasoner, you do not receive truth from heaven.  In my view, this is what makes you *count* as a *real person*: you don't take orders from Above, you take the fight *to* Above.  You are an embodied, material being.
->> That means you have real value rather than being the drone-man of some thirsting god.  [It also means you are dependent on finding precise signals in order to reason, just as you depend upon nutritious biomass being inserted into your digestive tract in order to metabolize.](http://lesswrong.com/lw/k2/a_priori/)
->> >Bitter enlightenment is more descriptive of explaining the distaste in reaching this particular enlightened state I found myself in.
->> And yet tomorrow you have to get up and continue on in the world we have now, with the people we have now, for the people who are still alive.
->> Speaking of which, I'm going to get back to composing my CV for my PhD application, and meeting my friend for our organizing meeting, and writing my damned cog/neuro-sci material for Nate.  Because I crossed the Bitter and Crazy Line *years* ago, and now it's just politeness that stops me from yelling cult slogans cribbed from Warhammer 40K in the streets.
 >> 
+>> Who says they're wrong?  Both candidates can be horrible.  The world is not obligated to provide us with United States Presidents who actually want to serve the people well and keep the country in a good shape.
+>> 
+>> I expected beforehand that Trump would be a fascist dictator and Hillary would be such a thoroughly awful elitist neoliberal that a Trump figure would get elected in 2020 if he didn't make it in 2016.  I think that letting *social reconciliation after a loss* override the *probability of bad things happening* is itself irrational.  Trump can win and then be *exactly* as bad as we all expected him to be.  Or worse.  Clinton can win, and be *exactly* as bad as we all expected her to be.  Or worse.
+>> 
+>> We have not yet woven our human and moral needs into the fabric of history.  There is no reason we *can't* be completely fucked when all the evidence says we're completely fucked.
+>> 
+>> >I realized that when it came to my beliefs in democracy, they were childish. I grew up believing that democracy was the best form of government and that no other form could compare because they didn't allow for everyone to have a say in important affairs. While my belief has gotten tarnished over the years seeing all of the corruption of our leaders, ways people are prevented from actually having a say (electoral college vs the popular vote), and how it's probably not a good idea to allow those ignorant and untrained to vote on issues requiring experts, I retained that belief for years unconsciously defending it.
+>> 
+>> I'm going to give my defensive counterpoint first, followed by my even grimmer counterpoint.  Defensive counterpoint:
+>> 
+>> * The United States simply doesn't have what most of the Western world would recognize as democracy, that is, a multi-party system in which elections are high-entropy random variables with actual causal influence upon governance.
+>> 
+>> * You can claim that Trump's victory is a sign of variance/entropy in the American electoral process, except that his Cabinet picks already show that the downstream influence on governance is near-null (he's going with completely conventional Republicans and already starting to walk back various previous positions).
+>> 
+>> * If you *think* you're being sufficiently cynical by viewing democracy as a schoolyard popularity contest, you're not.  To repeat myself from last week, the most *popular* presidential contender, whose positions were quite reasonable, was shunted from the ballots by Inner Party shenanigans *months* before anyone could actually vote for him.
+>> 
+>> * The two candidates who *were* on the ballot were deeply unpopular, and neither won a majority vote.  The majority of the American people voted *fuck those two and fuck this noise* by voting third party and staying home on Election Day, which is in fact the correct response.
+>> 
+>> * The "victories" were separated into a "popular vote" and the Electoral College.  This means that the "winner", the ork, got fewer votes than the "loser", which is basically not how a *democratic* system works.
+>> 
+>> * The "loser" then *conceded*, because 200-year-old procedure is more important to her than both the mandate of the people and *preventing a fascist takeover*.  Again, not how a *democratic* system works.
+>> 
+>> * The Voting Rights Act was gutted this past year, which resulted in *certain places* (read: black areas of the South) having orders of magnitude fewer polling-places than last election.
+>> 
+>> So in summary, you shouldn't claim to be losing faith in democracy because *this shit ain't democracy*.  I've voted in *democratic* elections, and seen the guy I hated ascend to power.  That was extremely different: that other system has universal registration for all citizens, a wide-open field of parties that actually changes almost every election season, proportional representation, and coalition governments that guarantee the government in power has some level of support from the majority of voters -- even when I personally despise the shit out of it.
+>> 
+>> Now comes the *grim* stuff:
+>> 
+>> * This election cycle isn't really about the human mind-design.  Sorry, but even a computationally omniscient Bayesian reasoner who doesn't have to resort to approximations can still be *information-theoretically* screwed-over if their sensory signals are ambiguous.  We all know P(H|E) = P(E|H) * P(H) / P(E), right?  But what if P(E|H) doesn't vary much based on H, and P(E) is actually pretty high?
+>> 
+>> * As an example, [take the ad in this article.](https://www.washingtonpost.com/opinions/anti-semitism-is-no-longer-an-undertone-of-trumps-campaign-its-the-melody/2016/11/07/b1ad6e22-a50a-11e6-8042-f4d111c862d1_story.html)  Actually watch it.  Then ask yourself: if you were primed with anti-capitalism, would you see it as antisemitic?  If you belonged to the white working class and weren't primed to see antisemitism, would you see it as antisemitic?  The answers are not really, and definitely not.  Now, if you're either a lefty SJW type or a Jew yourself, do you see this as antisemitic?  Definitely!  When you receive an inherently ambiguous signal, you're forced to rely on your own priors, and when the subject matter is "far away", you can't resolve the ambiguities through experimental actions.
+>> 
+>> * This is a major failure mode for *any Bayesian social reasoner*, approximate, bounded, or otherwise.  People need common priors and hierarchical hyperpriors to make social reasoning possible *at all*; otherwise we all drift apart into our own little worlds.
+>> 
+>> * *Some people* have basically been pissing in the swimming pool and sending the precisions of their communications to near-zero.  That's not just the Trump campaign!  If the *Clinton* campaign and the liberal media hadn't been *willfully deluding themselves*, the voting public would have had much clearer information with which to both make their choice and with which to predict Tuesday's events.  Decades of media consolidation have also helped degrade our information environment by reducing the number of independent information sources whose correlation would provide evidence for the veracity of events.
+>> 
+>> >It was as if my mind was made of many disgusting parts, all deeply warped and bent, barely cooperating together to make something that sometimes equaled to a greater whole and sometimes equaled to less than any single part. I felt on a visceral level the human mind is made of flaws as if we were nothing more than a collection of numerous error-prone algorithms switching out programs for the best algorithms with the fewest errors for any given solution.
+>> 
+>> You are better than this.  However, as a living organism, as a *statistical* reasoner, you do not receive truth from heaven.  In my view, this is what makes you *count* as a *real person*: you don't take orders from Above, you take the fight *to* Above.  You are an embodied, material being.
+>> 
+>> That means you have real value rather than being the drone-man of some thirsting god.  [It also means you are dependent on finding precise signals in order to reason, just as you depend upon nutritious biomass being inserted into your digestive tract in order to metabolize.](http://lesswrong.com/lw/k2/a_priori/)
+>> 
+>> >Bitter enlightenment is more descriptive of explaining the distaste in reaching this particular enlightened state I found myself in.
+>> 
+>> And yet tomorrow you have to get up and continue on in the world we have now, with the people we have now, for the people who are still alive.
+>> 
+>> Speaking of which, I'm going to get back to composing my CV for my PhD application, and meeting my friend for our organizing meeting, and writing my damned cog/neuro-sci material for Nate.  Because I crossed the Bitter and Crazy Line *years* ago, and now it's just politeness that stops me from yelling cult slogans cribbed from Warhammer 40K in the streets.
 
->>> **u/LiteralHeadCannon** [+6] *
+>>> **u/LiteralHeadCannon** [+3]  (8 hours later)
 >>> 
 >>> Who are you saying was the most popular presidential contender?  My best guess is Joe Biden?  I know things were rigged against Bernie Sanders, but I think he probably would have done worse than his base expects in a general election, and he wasn't "shunted from the ballots", exactly.  He still *technically* could have won, the deck was just stacked against him.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (13 hours later)
 >>>> 
 >>>> I meant Bernie Sanders.  I realize it's totally a counterfactual, but let's put it this way:
->>>> * [Polls for potential general-election races during the primary showed Sanders beating Trump by a landslide](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_sanders-5565.html), with the RCP average linked here being +10.4 percentage points of margin for Sanders.  They showed Clinton beating Trump by a small but comfortable margin.
->>>> * In actuality, Clinton lost to Trump by a tiny margin.
->>>> * My reasoning is: Sanders would not *actually* have won against Trump with some massive historical landslide, but he would have *bothered* to fight over the working-class segment of Trump's base.  He wouldn't have said "basket of deplorables" or anything like that.  He would have fought the race in a way that is more appropriate to *this specific race* rather than to Democratic presidential campaigns in the past 30 years in general.
->>>> * So Sanders would *probably* have beaten Trump *at all*, with a better margin than Clinton could have or did, just because that's what the available data says.
->>>> Further, yes, among the actually-existing Presidential contenders, Bernie is the most popular in terms of "% favorable - % unfavorable".  Trump actually has a [net-unfavorable rating](http://www.nationalreview.com/election-night/441951/donald-trump-hillary-clinton-unfavorable-exit-polls), despite being the technical winner.  I'd like to find data on views among his actual voters, because, yeah, the guy is *historically* unpopular for having won the election.  The data shows that voters really did consider this "election" to be pulling the lever for one lesser evil or another.
->>>> In contrast, since [Sanders has fairly positive favorable/unfavorable balance](http://www.realclearpolitics.com/epolls/other/sanders_favorableunfavorable-5263.html), supposedly the best in the country, I consider that evidence that *given a choice* between Sanders, Trump, and Clinton, voters would largely have broken for Sanders.  They also would have had all kinds of ideological problems with him, because Americans really aren't *such* huge fans of socialism or social-democracy *yet*, but Americans also *do* tend to vote on personality, where Sanders has a clear advantage.
->>>> So yeah.  Despite not being at all a perfect candidate, I think Sanders is the most popular guy in the race this year, and the fact that *he* got thrown out of the process at the primary stage while *both* actual major-party candidates were *really deeply hated* shows a systemic problem.
 >>>> 
+>>>> * [Polls for potential general-election races during the primary showed Sanders beating Trump by a landslide](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_sanders-5565.html), with the RCP average linked here being +10.4 percentage points of margin for Sanders.  They showed Clinton beating Trump by a small but comfortable margin.
+>>>> 
+>>>> * In actuality, Clinton lost to Trump by a tiny margin.
+>>>> 
+>>>> * My reasoning is: Sanders would not *actually* have won against Trump with some massive historical landslide, but he would have *bothered* to fight over the working-class segment of Trump's base.  He wouldn't have said "basket of deplorables" or anything like that.  He would have fought the race in a way that is more appropriate to *this specific race* rather than to Democratic presidential campaigns in the past 30 years in general.
+>>>> 
+>>>> * So Sanders would *probably* have beaten Trump *at all*, with a better margin than Clinton could have or did, just because that's what the available data says.
+>>>> 
+>>>> Further, yes, among the actually-existing Presidential contenders, Bernie is the most popular in terms of "% favorable - % unfavorable".  Trump actually has a [net-unfavorable rating](http://www.nationalreview.com/election-night/441951/donald-trump-hillary-clinton-unfavorable-exit-polls), despite being the technical winner.  I'd like to find data on views among his actual voters, because, yeah, the guy is *historically* unpopular for having won the election.  The data shows that voters really did consider this "election" to be pulling the lever for one lesser evil or another.
+>>>> 
+>>>> In contrast, since [Sanders has fairly positive favorable/unfavorable balance](http://www.realclearpolitics.com/epolls/other/sanders_favorableunfavorable-5263.html), supposedly the best in the country, I consider that evidence that *given a choice* between Sanders, Trump, and Clinton, voters would largely have broken for Sanders.  They also would have had all kinds of ideological problems with him, because Americans really aren't *such* huge fans of socialism or social-democracy *yet*, but Americans also *do* tend to vote on personality, where Sanders has a clear advantage.
+>>>> 
+>>>> So yeah.  Despite not being at all a perfect candidate, I think Sanders is the most popular guy in the race this year, and the fact that *he* got thrown out of the process at the primary stage while *both* actual major-party candidates were *really deeply hated* shows a systemic problem.
 
->>>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (2 days later)
 >>>>> 
 >>>>> I am sure that I will see this continuously until the end of time, but I have to point out that Sanders never experienced the full brunt of Republican negative campaigning, which he would have had he been in the general. Look at [Hillary Clinton's favorable/unfavorable spread](http://www.realclearpolitics.com/epolls/other/clinton_favorableunfavorable-1131.html), then back it out the graph to a two year timeframe. As late as February 2015, she had +9 favorability. Back in 2013, she had +30 favorability.
->>>>> The incredible drop in favorability of Hillary Clinton can be attributed to a few factors, but one of the common threads is that she was running for President. That explains numerous Benghazi hearings, the FBI investigation into her private server (a result of those hearings), every negative piece of information that came out of Judicial Watch FOIA requests, impact from the DNC leaks, impact from Podesta leaks, talking heads on CNN, etc. ***I am not saying that Clinton did nothing wrong***, before someone once again calls me a "ctr paid shill". I am saying that if she had decided not to run for President, she would probably still have high favorability ratings.
->>>>> By contrast, Sanders' favorability ratings at least partly reflect that not only has he not been attacked by Democrats (recently - you can see that his poll numbers are lower when he was in the primaries) but that he's been boosted by Republicans attempting to sow division within the left in order to get Trump elected.
->>>>> It's completely counterfactual, but I expect that if Bernie Sanders were to have run for President, he would have been smeared into the ground by the Republicans over whatever true or false stuff that they could find to hit him on. And then we'd be talking about how the Democrats should never have run someone with such low favorability.
 >>>>> 
+>>>>> The incredible drop in favorability of Hillary Clinton can be attributed to a few factors, but one of the common threads is that she was running for President. That explains numerous Benghazi hearings, the FBI investigation into her private server (a result of those hearings), every negative piece of information that came out of Judicial Watch FOIA requests, impact from the DNC leaks, impact from Podesta leaks, talking heads on CNN, etc. ***I am not saying that Clinton did nothing wrong***, before someone once again calls me a "ctr paid shill". I am saying that if she had decided not to run for President, she would probably still have high favorability ratings.
+>>>>> 
+>>>>> By contrast, Sanders' favorability ratings at least partly reflect that not only has he not been attacked by Democrats (recently - you can see that his poll numbers are lower when he was in the primaries) but that he's been boosted by Republicans attempting to sow division within the left in order to get Trump elected.
+>>>>> 
+>>>>> It's completely counterfactual, but I expect that if Bernie Sanders were to have run for President, he would have been smeared into the ground by the Republicans over whatever true or false stuff that they could find to hit him on. And then we'd be talking about how the Democrats should never have run someone with such low favorability.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (2 days later)
 >>>>>> 
 >>>>>> > 
 >>>>>> > 
 >>>>>> > It's completely counterfactual, but I expect that if Bernie Sanders were to have run for President, he would have been smeared into the ground by the Republicans over whatever true or false stuff that they could find to hit him on. And then we'd be talking about how the Democrats should never have run someone with such low favorability.
->>>>>> So your expectation is that there was no actual way for Trump to lose?
 >>>>>> 
+>>>>>> So your expectation is that there was no actual way for Trump to lose?
 
->>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 days later)
 >>>>>>> 
 >>>>>>> No, my argument is that looking at favorability ratings of people who did not run in the general and comparing them against people who *did* run in the general is not terribly instructive because it ignores how the general election impacts favorability ratings.
->>>>>>> I'm not arguing against Sanders being a better candidate than Clinton, only against the specific argument that he would have done better because he has such better favorability, or because polling for hypothetical matchups between Sanders and Trump show Sanders as favored. They're enormously flawed arguments (which I think I'll probably be hearing for years).
 >>>>>>> 
+>>>>>>> I'm not arguing against Sanders being a better candidate than Clinton, only against the specific argument that he would have done better because he has such better favorability, or because polling for hypothetical matchups between Sanders and Trump show Sanders as favored. They're enormously flawed arguments (which I think I'll probably be hearing for years).
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> > I'm not arguing against Sanders being a better candidate than Clinton, only against the specific argument that he would have done better because he has such better favorability, or because polling for hypothetical matchups between Sanders and Trump show Sanders as favored. They're enormously flawed arguments (which I think I'll probably be hearing for years).
->>>>>>>> Ok, so you think the favorability ratings are imprecise evidence, or possibly even imprecise *counter*-evidence.
->>>>>>>> Questions: how do you think Trump could have lost, and what evidence do you consider precise enough to point to how he could have lost (or how he could lose in the future)?
 >>>>>>>> 
+>>>>>>>> Ok, so you think the favorability ratings are imprecise evidence, or possibly even imprecise *counter*-evidence.
+>>>>>>>> 
+>>>>>>>> Questions: how do you think Trump could have lost, and what evidence do you consider precise enough to point to how he could have lost (or how he could lose in the future)?
 
->>>>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 days later)
 >>>>>>>>> 
 >>>>>>>>> > Questions: how do you think Trump could have lost, and what evidence do you consider precise enough to point to how he could have lost (or how he could lose in the future)?
->>>>>>>>> Clinton lost on a margin of 1% in a few swing states. I think something as insignificant as the weather might have made the difference.
->>>>>>>>> I also think Sanders was a better candidate than her, specifically because "change" was the most important thing to a lot of people and that was not something that Clinton could credibly offer. I think that's something that Sanders would have been attacked on, same as Clinton was, "Bernie Sanders had 30 years to change things and he didn't", but it would probably have been less effective because his name hasn't been in the news for 30 years.
->>>>>>>>> Defeating Trump *this time* could have been done by focusing on *winning* rather than positioning for a blowout by going after places like Texas and Arizona. Data journalists like Nate Silver were saying that for a long time.
->>>>>>>>> Clinton could also have handled her private e-mail server better, or just not set it up in the first place, though I think that it's mostly a big deal because Republicans A) pushed hard enough to actually find it and B) convinced a lot of people that it was super important. Evidence I'd use for that is a comparison to the Bush White House e-mail server, which most people don't know or care about.
->>>>>>>>> I'm sort of against any one holistic explanation of elections, since a whole lot of people voted and a whole lot of things were important to them. Clinton would have won with higher turnout, or if Trump had lower turnout, or if she'd been able to sway a demographic better, or if people hadn't gone third party, and if you just say "this election was about women" or "this election was about the working class" or "this election was about change" then you're missing the forest for the trees.
 >>>>>>>>> 
+>>>>>>>>> Clinton lost on a margin of 1% in a few swing states. I think something as insignificant as the weather might have made the difference.
+>>>>>>>>> 
+>>>>>>>>> I also think Sanders was a better candidate than her, specifically because "change" was the most important thing to a lot of people and that was not something that Clinton could credibly offer. I think that's something that Sanders would have been attacked on, same as Clinton was, "Bernie Sanders had 30 years to change things and he didn't", but it would probably have been less effective because his name hasn't been in the news for 30 years.
+>>>>>>>>> 
+>>>>>>>>> Defeating Trump *this time* could have been done by focusing on *winning* rather than positioning for a blowout by going after places like Texas and Arizona. Data journalists like Nate Silver were saying that for a long time.
+>>>>>>>>> 
+>>>>>>>>> Clinton could also have handled her private e-mail server better, or just not set it up in the first place, though I think that it's mostly a big deal because Republicans A) pushed hard enough to actually find it and B) convinced a lot of people that it was super important. Evidence I'd use for that is a comparison to the Bush White House e-mail server, which most people don't know or care about.
+>>>>>>>>> 
+>>>>>>>>> I'm sort of against any one holistic explanation of elections, since a whole lot of people voted and a whole lot of things were important to them. Clinton would have won with higher turnout, or if Trump had lower turnout, or if she'd been able to sway a demographic better, or if people hadn't gone third party, and if you just say "this election was about women" or "this election was about the working class" or "this election was about change" then you're missing the forest for the trees.
 
->>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> > I'm sort of against any one holistic explanation of elections, since a whole lot of people voted and a whole lot of things were important to them. Clinton would have won with higher turnout, or if Trump had lower turnout, or if she'd been able to sway a demographic better, or if people hadn't gone third party, and if you just say "this election was about women" or "this election was about the working class" or "this election was about change" then you're missing the forest for the trees.
->>>>>>>>>> That's a very good point.  So I guess we could "holistically" say: this election is about how the American electoral system doesn't generate a strongly nonrandom signal anymore, if it ever did?
 >>>>>>>>>> 
+>>>>>>>>>> That's a very good point.  So I guess we could "holistically" say: this election is about how the American electoral system doesn't generate a strongly nonrandom signal anymore, if it ever did?
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (9 hours later)
 >>> 
 >>> Thank you! Your points nearly-perfectly described basically everything I found wrong about the election and have been trying to comprehend, but better and more well-informed.
->>> Thank you for explaining why the government election is not reflective of a democracy. I was thinking that this is a democracy and we needed something better, but didn't have enough knowledge about politics to understand how it was flawed and how it should be improved.
->>> Thank you for explaining why it's so hard to properly reason at all about the candidates with the reliability of all of my evidence being brought down to zero.
->>> Thank you for the encouragement for having real value.
->>> I will get up tomorrow and move on with my life. I will continue improving myself in every way possible. I will reach out and help others to learn and grow while respecting their wishes and desires. I will keep looking up out to the stars at the future of humanity as we spread across the universe.
->>> Thank you.
 >>> 
+>>> Thank you for explaining why the government election is not reflective of a democracy. I was thinking that this is a democracy and we needed something better, but didn't have enough knowledge about politics to understand how it was flawed and how it should be improved.
+>>> 
+>>> Thank you for explaining why it's so hard to properly reason at all about the candidates with the reliability of all of my evidence being brought down to zero.
+>>> 
+>>> Thank you for the encouragement for having real value.
+>>> 
+>>> I will get up tomorrow and move on with my life. I will continue improving myself in every way possible. I will reach out and help others to learn and grow while respecting their wishes and desires. I will keep looking up out to the stars at the future of humanity as we spread across the universe.
+>>> 
+>>> Thank you.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> >Thank you for explaining why the government election is not reflective of a democracy. I was thinking that this is a democracy and we needed something better, but didn't have enough knowledge about politics to understand how it was flawed and how it should be improved.
->>>> I mean, if you're just gonna replace another Platonic concept of Democracy with the one I articulated, the problem is still Platonic concepts.  It's like Eliezer once said when someone tried to associate him with neoreactionaries: the wheel of history turns for materialistic, naturalistic reasons, and it only turns one way.  We have democracy because it moves goal information from the voters to the officials.  Someday, we will probably have something very different.  It will still be different in virtue of *how* it obtains and utilizes that goal information, rather than in virtue of throwing that information away and going with some kind of Platonic form spouted by a wannabe philosopher-king.
->>>> >I will get up tomorrow and move on with my life. I will continue improving myself in every way possible. I will reach out and help others to learn and grow while respecting their wishes and desires. I will keep looking up out to the stars at the future of humanity as we spread across the universe.
->>>> Thank *you*.  It's a lot easier to keep that up myself knowing there are other people doing it too.  These are our people, and we will yet bring them to the heavens.
->>>> I've been so stressed and on-edge this whole damn week, and have only recovered the ability to process anything over days.  *Just* getting to that CV composing now and coping with the Latex and XML issues.  Partly filled in the actual application; still have to corral the letters of recommendation, write the statement of purpose to show how I'm not really a shitty student, and retake the GRE.
->>>> Meanwhile, the week's evenings were taken up in emergency demonstrations and meetings.
->>>> Oy gevalt.
 >>>> 
+>>>> I mean, if you're just gonna replace another Platonic concept of Democracy with the one I articulated, the problem is still Platonic concepts.  It's like Eliezer once said when someone tried to associate him with neoreactionaries: the wheel of history turns for materialistic, naturalistic reasons, and it only turns one way.  We have democracy because it moves goal information from the voters to the officials.  Someday, we will probably have something very different.  It will still be different in virtue of *how* it obtains and utilizes that goal information, rather than in virtue of throwing that information away and going with some kind of Platonic form spouted by a wannabe philosopher-king.
+>>>> 
+>>>> >I will get up tomorrow and move on with my life. I will continue improving myself in every way possible. I will reach out and help others to learn and grow while respecting their wishes and desires. I will keep looking up out to the stars at the future of humanity as we spread across the universe.
+>>>> 
+>>>> Thank *you*.  It's a lot easier to keep that up myself knowing there are other people doing it too.  These are our people, and we will yet bring them to the heavens.
+>>>> 
+>>>> I've been so stressed and on-edge this whole damn week, and have only recovered the ability to process anything over days.  *Just* getting to that CV composing now and coping with the Latex and XML issues.  Partly filled in the actual application; still have to corral the letters of recommendation, write the statement of purpose to show how I'm not really a shitty student, and retake the GRE.
+>>>> 
+>>>> Meanwhile, the week's evenings were taken up in emergency demonstrations and meetings.
+>>>> 
+>>>> Oy gevalt.
 
->> **u/LiteralHeadCannon** [+3] *
+>> **u/LiteralHeadCannon** [+3]  (5 hours later)
 >> 
 >> I largely agree with this post, but, um, you might want to come up with some term other than "dark enlightenment".
->> 
 
->>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (5 hours later)
 >>> 
 >>> Oops! I never heard of the [dark enlightenment](https://en.wikipedia.org/wiki/Dark_Enlightenment) before, so I renamed it to bitter enlightenment.
->>> Thanks for the catch!
 >>> 
+>>> Thanks for the catch!
 
->> **u/CouteauBleu** [+2]  *We are the Empire.**
+>> **u/CouteauBleu** [+2]  *We are the Empire.* (7 hours later)
 >> 
 >> It's funny, I remember learning about the results of the elections, and having a huge, enlightening update chain going the other way. I thought "Crap, now we're going to have World War III", then "No, wait, I don't actually believe this at all".
->> I'm not sure exactly what to believe, and I don't want to pretend to be confident about it (because politics are complicated and people make it worse when they're persuaded *they* get it), but I think we have a serious tendency to exaggerate the negative consequences of an election not going our way. Again, I'm not confident about this, because existential risks are a thing, and I obviously wouldn't recognize the announcing signs of the world being about to end; and presidents of the USA *do* have the power to harm millions of people; but I really don't expect him to destroy the world. The world survived an actor being president of the United States during the Cold War, it'll probably survive Trump; the "probably" is the bothering part.
->> As for democracy and people in general being awful and stupid, I think slatestarcodex put it best (or at least helped me see the pattern I felt was there). You can see it as a machine for safety and prosperity and helping poor people, with bad things as an exceptional byproduct; or you can see it as a machine for oppressing people and making elites richer and putting lying schemers in power, with good things being incidental; but really, it's not a binary thing, and if you want an accurate model of democracy you must account for the fact that it reliably produces both the safety/prosperity and the corruption.
 >> 
+>> I'm not sure exactly what to believe, and I don't want to pretend to be confident about it (because politics are complicated and people make it worse when they're persuaded *they* get it), but I think we have a serious tendency to exaggerate the negative consequences of an election not going our way. Again, I'm not confident about this, because existential risks are a thing, and I obviously wouldn't recognize the announcing signs of the world being about to end; and presidents of the USA *do* have the power to harm millions of people; but I really don't expect him to destroy the world. The world survived an actor being president of the United States during the Cold War, it'll probably survive Trump; the "probably" is the bothering part.
+>> 
+>> As for democracy and people in general being awful and stupid, I think slatestarcodex put it best (or at least helped me see the pattern I felt was there). You can see it as a machine for safety and prosperity and helping poor people, with bad things as an exceptional byproduct; or you can see it as a machine for oppressing people and making elites richer and putting lying schemers in power, with good things being incidental; but really, it's not a binary thing, and if you want an accurate model of democracy you must account for the fact that it reliably produces both the safety/prosperity and the corruption.
 
->>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (8 hours later)
 >>> 
 >>> Maybe you are right that democracy is one of the best forms of government (sorry if I'm exaggerating what you said), but the core underpinning of the belief I had was that "democracy is perfect!" with a bunch of caveats and exceptions protecting it from crumbling.
->>> What I was trying to say is that I learned democracy failed to live up to my desires and I see it more as a failure to understand how democracy actually works rather than outside forces creating an unusual situation.
->>> I failed to predict or comprehend that democracy doesn't choose the best candidate for the job, it chooses the candidate who can best convince others he's the best person for the job.
->>> Right now, I'm not saying that democracy is a horrible choice of government, but the way America has implemented it is flawed and I believe that we can do better. For pete's sake, this government was first created in the 1700s! There are parts of it which are centuries out of date and need updating!
->>> I'm thinking over how I thought democracy worked and calibrating to (hopefully) better predict how it actually behaves in real life.
 >>> 
+>>> What I was trying to say is that I learned democracy failed to live up to my desires and I see it more as a failure to understand how democracy actually works rather than outside forces creating an unusual situation.
+>>> 
+>>> I failed to predict or comprehend that democracy doesn't choose the best candidate for the job, it chooses the candidate who can best convince others he's the best person for the job.
+>>> 
+>>> Right now, I'm not saying that democracy is a horrible choice of government, but the way America has implemented it is flawed and I believe that we can do better. For pete's sake, this government was first created in the 1700s! There are parts of it which are centuries out of date and need updating!
+>>> 
+>>> I'm thinking over how I thought democracy worked and calibrating to (hopefully) better predict how it actually behaves in real life.
 
->>>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>>> **u/CouteauBleu** [+3]  *We are the Empire.* (8 hours later)
 >>>> 
 >>>> To tl;dr my own post: just be careful not to fall into the trap of "this thing isn't perfect; therefore it must be worthless".
->>>> But yeah, fair enough.
 >>>> 
+>>>> But yeah, fair enough.
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (10 hours later)
 >> 
 >> Well said, but one correction: it's a republic not a democracy. Democracy is to be avoided at all costs as is oligarchy.  This is part of the general founding principle that it is often better if people fix things (think Space X or the DMV.org not .gov websites you use to avoid the DMV)  and government is too gridlocked, but unfortunately we have federal regulations.
->> 
 
-> **u/trekie140** [+8] *
+> **u/trekie140** [+10]  (2 hours later)
 > 
 > I've been pretty active the past few days, so this post is going to be in three parts that are independent of each other even if they're all related to politics. I apologize that I didn't make the format prettier but it's been a long week.
-> ***
-> Here's what I posted on Facebook the day after the election that people seemed to like:
-> I slept through the election because I cared more too much about getting enough rest to endure the anxiety of watching the results come in. Now I'm trying to reassure myself that the world hasn't ended and that we have no reason to stop trying even if things look bad. If anything we need to work harder, but not on winning.
-> In Colbert's video where he tries to make sense of this, he mentions a Pew study indicating that both republicans and democrats are terrified of one another and convinced the other side is a danger to the country. I think that speaks volumes as to how Trump got elected, we have allowed ourselves to be ruled by hate instead of love.
-> It's not just between liberals and conservatives, though. Tons of Bernie supporters are already blaming other democrats for nominating an unelectable candidate. Is that really what we do when we lose a election? We're just going to turn on each other when we need each other more than ever? Well I'm not doing that.
-> Yesterday I saw a girl at SSU wearing a Trump t-shirt. If I see her again today, I'm going to show her nothing but compassion because she is a human being and I can't think of a better way to show her how I want to be treated. I'm not going to write off my country, or even half of it, as insane or stupid or evil because that just further divides us.
-> We're not living in a new world, the bubble many of us live in just got popped. So I'm not going to build a new bubble for myself that encourages the biases and prejudices that I have been guilty of, I am going to walk freely and encourage others to do as well. I'm still afraid, but I will not let that fear rule me or ruin me.
-> It's hard to try, it really is, and it's hard not to get angry. But if we decide that it is okay not to try or okay to be angry instead of doing what's right, then we'll just be stuck where we are and things will get worse in the meantime. Yes the world can be ugly and dangerous, but we need to face the darkness without giving into its temptation.
-> We can't give up, we can't give in, but we can find the courage to fight the darkness with kindness and face it within ourselves. The road ahead is not easy, but it never has been. We've already come so far and our children may yet go further, but not without being shown the way. I will show them a path forward better than the one that brought us here, and I will show them not to be discouraged by the dangers ahead.
-> ***
-> Here are some articles that helped me understand why people voted for Trump:
-> http://www.nytimes.com/interactive/projects/cp/opinion/election-night-2016/life-outside-the-liberal-bubble?smid=fb-share
-> http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/
-> http://www.nytimes.com/2016/11/02/world/americas/brexit-donald-trump-whites.html?action=click&contentCollection=The+Upshot&module=RelatedCoverage&region=EndOfArticle&pgtype=article&_r=0
-> http://www.nytimes.com/2016/11/09/opinion/absorbing-the-impossible.html?smid=fb-share
-> http://www.economist.com/news/united-states/21709919-setting-americans-against-each-other-paved-president-elects-path-power-people-v
-> http://www.nytimes.com/interactive/projects/cp/opinion/election-night-2016/stop-shaming-trump-supporters?smid=fb-share
-> ***
-> The comments on this Facebook post are the first example I've seen of a liberal and conservative having a civil conversation about politics and arriving at an agreement since the election: https://www.facebook.com/ashleigh.r.walker/posts/1423573394321328
-> ***
-> Finally, this is a post I made on r/conservative with over a hundred comments where I spoke with actual Trump voters about politics to try and learn about the half of the country that I clearly do not understand. I'm not exactly sure what the result of it was besides giving me anecdotal evidence for things I already believed, but somebody is going to read the damn thing after the amount of time and brainpower I have dedicated to it! https://www.reddit.com/r/Conservative/comments/5c5utp/im_a_liberal_who_wants_to_try_and_bridge_the_gap/
 > 
+> ***
+> 
+> Here's what I posted on Facebook the day after the election that people seemed to like:
+> 
+> I slept through the election because I cared more too much about getting enough rest to endure the anxiety of watching the results come in. Now I'm trying to reassure myself that the world hasn't ended and that we have no reason to stop trying even if things look bad. If anything we need to work harder, but not on winning.
+> 
+> In Colbert's video where he tries to make sense of this, he mentions a Pew study indicating that both republicans and democrats are terrified of one another and convinced the other side is a danger to the country. I think that speaks volumes as to how Trump got elected, we have allowed ourselves to be ruled by hate instead of love.
+> 
+> It's not just between liberals and conservatives, though. Tons of Bernie supporters are already blaming other democrats for nominating an unelectable candidate. Is that really what we do when we lose a election? We're just going to turn on each other when we need each other more than ever? Well I'm not doing that.
+> 
+> Yesterday I saw a girl at SSU wearing a Trump t-shirt. If I see her again today, I'm going to show her nothing but compassion because she is a human being and I can't think of a better way to show her how I want to be treated. I'm not going to write off my country, or even half of it, as insane or stupid or evil because that just further divides us.
+> 
+> We're not living in a new world, the bubble many of us live in just got popped. So I'm not going to build a new bubble for myself that encourages the biases and prejudices that I have been guilty of, I am going to walk freely and encourage others to do as well. I'm still afraid, but I will not let that fear rule me or ruin me.
+> 
+> It's hard to try, it really is, and it's hard not to get angry. But if we decide that it is okay not to try or okay to be angry instead of doing what's right, then we'll just be stuck where we are and things will get worse in the meantime. Yes the world can be ugly and dangerous, but we need to face the darkness without giving into its temptation.
+> 
+> We can't give up, we can't give in, but we can find the courage to fight the darkness with kindness and face it within ourselves. The road ahead is not easy, but it never has been. We've already come so far and our children may yet go further, but not without being shown the way. I will show them a path forward better than the one that brought us here, and I will show them not to be discouraged by the dangers ahead.
+> 
+> ***
+> 
+> Here are some articles that helped me understand why people voted for Trump:
+> 
+> http://www.nytimes.com/interactive/projects/cp/opinion/election-night-2016/life-outside-the-liberal-bubble?smid=fb-share
+> 
+> http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/
+> 
+> http://www.nytimes.com/2016/11/02/world/americas/brexit-donald-trump-whites.html?action=click&contentCollection=The+Upshot&module=RelatedCoverage&region=EndOfArticle&pgtype=article&_r=0
+> 
+> http://www.nytimes.com/2016/11/09/opinion/absorbing-the-impossible.html?smid=fb-share
+> 
+> http://www.economist.com/news/united-states/21709919-setting-americans-against-each-other-paved-president-elects-path-power-people-v
+> 
+> http://www.nytimes.com/interactive/projects/cp/opinion/election-night-2016/stop-shaming-trump-supporters?smid=fb-share
+> 
+> ***
+> 
+> The comments on this Facebook post are the first example I've seen of a liberal and conservative having a civil conversation about politics and arriving at an agreement since the election: https://www.facebook.com/ashleigh.r.walker/posts/1423573394321328
+> 
+> ***
+> 
+> Finally, this is a post I made on r/conservative with over a hundred comments where I spoke with actual Trump voters about politics to try and learn about the half of the country that I clearly do not understand. I'm not exactly sure what the result of it was besides giving me anecdotal evidence for things I already believed, but somebody is going to read the damn thing after the amount of time and brainpower I have dedicated to it! https://www.reddit.com/r/Conservative/comments/5c5utp/im_a_liberal_who_wants_to_try_and_bridge_the_gap/
 
->> **u/None** [+11] *
+>> **u/None** [+12]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/sir_pirriplin** [+7] *
+>>> **u/sir_pirriplin** [+9]  (3 hours later)
 >>> 
 >>> Haven't read the others yet, but I recognize the cracked.com article and it was written before the election.
->>> 
 
->>> **u/Empiricist_or_not** [+5]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>> 
 >>> Here, you could consider as a primary source in contrast:
->>> [/r/TheDonald: They just don't fucking get it](https://np.reddit.com/r/The_Donald/comments/5c5ctg/they_just_dont_fucking_get_it/)
->>> *Edit: punctuation grammar*
 >>> 
+>>> [/r/TheDonald: They just don't fucking get it](https://np.reddit.com/r/The_Donald/comments/5c5ctg/they_just_dont_fucking_get_it/)
+>>> 
+>>> *Edit: punctuation grammar*
 
->>>> **u/trekie140** [+4] *
+>>>> **u/trekie140** [+7]  (10 hours later)
 >>>> 
 >>>> That post really does encapsulate most of the reasons people had for voting Trump. If only I could find I single one that I consider rational. A couple of them are legitimate grievances, but the response seems so misdirected from the causes of those problems. It's like their main goal is to tear down the establishment in its entirety and replace it with something vaguely defined. 
->>>> I can't help but look at it and see people lashing out in anger without thinking, but they think their decisions are perfectly rational from their perspective including their distrust of intellectualism. All I know for sure is that what they're feeling is real and has been going on for long enough for studies to come out saying [suicide rates have increased specifically for white Americans.](https://www.washingtonpost.com/opinions/americas-self-destructive-whites/2015/12/31/5017f958-afdc-11e5-9ab0-884d1cc4b33e_story.html)
 >>>> 
+>>>> I can't help but look at it and see people lashing out in anger without thinking, but they think their decisions are perfectly rational from their perspective including their distrust of intellectualism. All I know for sure is that what they're feeling is real and has been going on for long enough for studies to come out saying [suicide rates have increased specifically for white Americans.](https://www.washingtonpost.com/opinions/americas-self-destructive-whites/2015/12/31/5017f958-afdc-11e5-9ab0-884d1cc4b33e_story.html)
 
->>> **u/trekie140** [+2] *
+>>> **u/trekie140** [+2]  (10 hours later)
 >>> 
 >>> Actually those articles have a kind of reverse bias. These are people who realized they don't understand why anyone chose to vote for Trump, so they're putting themselves in the mindset of people they didn't take seriously until now. As a liberal myself, I found them very informative and they also had some decent advice on what to do now.
->>> 
 
->> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (6 hours later)
 >> 
 >> > Here are some articles that helped me understand why people voted for Trump:
+>> 
 >> Without looking at the sites, how many of them said something along the lines of:
+>> 
 >> * Gary Johnson underperformed by about 2 percentage points
 >> * Where trump won swing states, it was often within 2 percentage points.
 >> * Therefore Trump won because voters reluctantly switched from GJ to him to prevent a hillary win.
->> That's my personal theory, so I'm just putting it out there so it can be falsified. I was looking at 538 graphs for the majority of the election, and I saw Hilllary's share of the electorate stay largely equal through the scandals, but Trump eke away at GJ's the worse hillary seemed.
 >> 
+>> That's my personal theory, so I'm just putting it out there so it can be falsified. I was looking at 538 graphs for the majority of the election, and I saw Hilllary's share of the electorate stay largely equal through the scandals, but Trump eke away at GJ's the worse hillary seemed.
 
->>> **u/trekie140** [+1] *
+>>> **u/trekie140** [+1]  (10 hours later)
 >>> 
 >>> No, none of them mention those. All they talk about are the reasons why people voted for Trump, except now they take them more seriously.
->>> 
 
->>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (10 hours later)
 >>>> 
 >>>> That's a pity; I thought I was onto something...
->>>> 
 
->>>>> **u/trekie140** [+1] *
+>>>>> **u/trekie140** [+1]  (11 hours later)
 >>>>> 
 >>>>> Maybe you were, but I don't think that line of reasoning is productive. Whenever people talk about people voting differently than they wanted them to, it sounds to me like they're saying "If only everyone believed what I wanted them to." As much as us rationalists would like everyone to agree on things, you ultimately can't control what people think. You have to deal with the fact that people disagree with you for reasons they think are reasonable.
->>>>> 
 
->> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (16 hours later)
 >> 
 >> i'm writing off ninety five percent of the country, not just half
->> 
 
->>> **u/trekie140** [+2] *
+>>> **u/trekie140** [+2]  (a day later)
 >>> 
 >>> May I ask what the criteria to join the special 5% is?
->>> 
 
-> **u/Norseman2** [+4] *
+> **u/Norseman2** [+3]  (18 hours later)
 > 
 > I'm interested in what will happen in the next eight years. Here's my expectations:
-> * Starting in 2017, tax cuts for the rich seem very likely. Slashes to welfare seem probable. Reversal of the Affordable Care Act seems possible, despite Trump's recent flip-flopping on that, since the Republican congress may want to push ahead with it anyway.
-> * Republican opposition to Trump seemed to collapse once he took the nomination, but I suspect this may have been merely to help him win the presidency, much as Democratic opposition to Hillary grew silent around the same time. Now that he's secured the nomination, opposition to him can resume, but it risks making an enemy out of him. His reaction to opposition in the first few months will be quite telling. If he destroys his opposition ("draining the swamp", but targeted exclusively at anyone who opposes him), congress will quietly fall in line. If he brushes it off or makes deals with his opponents, congress will eventually break him in.
-> * It looks like a pretty good bet that the US Senate will still be controlled by Republicans in 2018, as I explained [here](https://www.reddit.com/r/EverythingScience/comments/5c7qhm/trump_picks_top_climate_skeptic_to_lead_epa/d9v36x2/?context=3). There's actually a small but realistic threat that the Republicans could even take a 2/3rds majority.
-> * The US House of Representatives in 2018? There's a good chance they'll stay Republican as well. Based on the absurdly long lines to vote in this election, the effect of [Shelby County v. Holder](https://en.wikipedia.org/wiki/Shelby_County_v._Holder) on the Voting Rights Act was disastrous, and we can expect that it will probably be increasingly difficult for minorities and Democrats to vote in Republican-controlled states, which will almost certainly suppress participation. The fact that Democrats tend to have lower turnout in midterm elections (as illustrated [here](https://www.washingtonpost.com/news/the-fix/wp/2014/10/24/the-democrats-midterm-turnout-problem-in-6-charts/)) just adds fuel to the fire.
-> * Unless there's a drastic change of DNC leadership, like [Bernie's plan](https://go.berniesanders.com/page/s/keith-ellison-dnc?source=em161110) to make Keith Ellison the DNC chair, the 2020 election will almost certainly go to Trump again. The combination of the incumbent effect plus the same old failures from the DNC would make it exceedingly likely.
-> * The [2020 senate elections](https://en.wikipedia.org/wiki/United_States_Senate_elections,_2020) *may* swing Democrat. It's not a midterm election, and there will be 22 Republican seats up for election as opposed to 11 Democrat seats up for election. As per usual, congressional races also tend to favor whichever party is not in control of the executive branch.
-> * The 2020 House of Representatives probably has about even odds of going either Democrat or Republican. It will face the same issues as 2018 with impediments to voting under the Shelby County v. Holder ruling, but it won't be a midterm election.
-> * By 2024, probably about 5-6% of [Trump's base](https://en.wikipedia.org/wiki/United_States_presidential_election,_2016#Voter_demographics) in the 65+ age range will be dead. Meanwhile, 8 more years of young voters will have been introduced. On top of this, population growth will leave a larger portion of the country in urban centers (which tend to vote Democrat). Due to these factors, and eight years of dealing with Trump, this election will almost certainly go to the Democrats.
 > 
+> * Starting in 2017, tax cuts for the rich seem very likely. Slashes to welfare seem probable. Reversal of the Affordable Care Act seems possible, despite Trump's recent flip-flopping on that, since the Republican congress may want to push ahead with it anyway.
+> 
+> * Republican opposition to Trump seemed to collapse once he took the nomination, but I suspect this may have been merely to help him win the presidency, much as Democratic opposition to Hillary grew silent around the same time. Now that he's secured the nomination, opposition to him can resume, but it risks making an enemy out of him. His reaction to opposition in the first few months will be quite telling. If he destroys his opposition ("draining the swamp", but targeted exclusively at anyone who opposes him), congress will quietly fall in line. If he brushes it off or makes deals with his opponents, congress will eventually break him in.
+> 
+> * It looks like a pretty good bet that the US Senate will still be controlled by Republicans in 2018, as I explained [here](https://www.reddit.com/r/EverythingScience/comments/5c7qhm/trump_picks_top_climate_skeptic_to_lead_epa/d9v36x2/?context=3). There's actually a small but realistic threat that the Republicans could even take a 2/3rds majority.
+> 
+> * The US House of Representatives in 2018? There's a good chance they'll stay Republican as well. Based on the absurdly long lines to vote in this election, the effect of [Shelby County v. Holder](https://en.wikipedia.org/wiki/Shelby_County_v._Holder) on the Voting Rights Act was disastrous, and we can expect that it will probably be increasingly difficult for minorities and Democrats to vote in Republican-controlled states, which will almost certainly suppress participation. The fact that Democrats tend to have lower turnout in midterm elections (as illustrated [here](https://www.washingtonpost.com/news/the-fix/wp/2014/10/24/the-democrats-midterm-turnout-problem-in-6-charts/)) just adds fuel to the fire.
+> 
+> * Unless there's a drastic change of DNC leadership, like [Bernie's plan](https://go.berniesanders.com/page/s/keith-ellison-dnc?source=em161110) to make Keith Ellison the DNC chair, the 2020 election will almost certainly go to Trump again. The combination of the incumbent effect plus the same old failures from the DNC would make it exceedingly likely.
+> 
+> * The [2020 senate elections](https://en.wikipedia.org/wiki/United_States_Senate_elections,_2020) *may* swing Democrat. It's not a midterm election, and there will be 22 Republican seats up for election as opposed to 11 Democrat seats up for election. As per usual, congressional races also tend to favor whichever party is not in control of the executive branch.
+> 
+> * The 2020 House of Representatives probably has about even odds of going either Democrat or Republican. It will face the same issues as 2018 with impediments to voting under the Shelby County v. Holder ruling, but it won't be a midterm election.
+> 
+> * By 2024, probably about 5-6% of [Trump's base](https://en.wikipedia.org/wiki/United_States_presidential_election,_2016#Voter_demographics) in the 65+ age range will be dead. Meanwhile, 8 more years of young voters will have been introduced. On top of this, population growth will leave a larger portion of the country in urban centers (which tend to vote Democrat). Due to these factors, and eight years of dealing with Trump, this election will almost certainly go to the Democrats.
 
->> **u/LiteralHeadCannon** [+2] *
+>> **u/LiteralHeadCannon** [+2]  (a day later)
 >> 
 >> My greatest fear politically in the next eight years is that Trump's populism inspires the Democrats to try to out-populist him, and they succeed.
->> In other words, there've been two celebrity presidents now, Reagan and Trump, and they've both been Republicans.  Doesn't that strike you as a little *odd*?  The kind of thing likely to *collapse*?
 >> 
+>> In other words, there've been two celebrity presidents now, Reagan and Trump, and they've both been Republicans.  Doesn't that strike you as a little *odd*?  The kind of thing likely to *collapse*?
 
->>> **u/Norseman2** [+2] *
+>>> **u/Norseman2** [+2]  (a day later)
 >>> 
 >>> >In other words, there've been two celebrity presidents now, Reagan and Trump, and they've both been Republicans. Doesn't that strike you as a little odd? The kind of thing likely to collapse?
->>> Yeah, it does seem like celebrities do exceedingly well in elections. They've got name recognition before they even start campaigning, they're comfortable in front of cameras, typically charismatic, and the media pays a lot of attention to them.
->>> Similar to how we have been in a lesser-of-two-evils cycle for quite some time now, we could quite easily end up in a cycle where each side competes to present the most popular celebrities to represent their parties.
->>> For example, if the Democratic front-runner for 2020 were Brad Pitt or Morgan Freeman, I expect Donald Trump would have good odds of losing the election. The Republicans would then have to find an even more popular Republican-leaning celebrity to stand a chance against the Democratic incumbent in the 2024 elections. Old style career politicians as presidential candidates would quickly become untenable, but I don't think that would necessarily lead the country to collapse. It would probably cause a rather significant power shift towards congress and away from the presidency.
 >>> 
+>>> Yeah, it does seem like celebrities do exceedingly well in elections. They've got name recognition before they even start campaigning, they're comfortable in front of cameras, typically charismatic, and the media pays a lot of attention to them.
+>>> 
+>>> Similar to how we have been in a lesser-of-two-evils cycle for quite some time now, we could quite easily end up in a cycle where each side competes to present the most popular celebrities to represent their parties.
+>>> 
+>>> For example, if the Democratic front-runner for 2020 were Brad Pitt or Morgan Freeman, I expect Donald Trump would have good odds of losing the election. The Republicans would then have to find an even more popular Republican-leaning celebrity to stand a chance against the Democratic incumbent in the 2024 elections. Old style career politicians as presidential candidates would quickly become untenable, but I don't think that would necessarily lead the country to collapse. It would probably cause a rather significant power shift towards congress and away from the presidency.
 
->>>> **u/LiteralHeadCannon** [+2] *
+>>>> **u/LiteralHeadCannon** [+2]  (2 days later)
 >>>> 
 >>>> Kanye West just confirmed that he's running in 2020.  I'd say he has a pretty good shot iff he wins the Democrat nomination, and has some shot at winning the Democrat nomination iff he runs as a Democrat (it's currently unclear if he intends to run as a Democrat or as a third party candidate; if he runs as a third party candidate then he *might* actually ironically ensure Trump a second term).
->>>> 
 
-> **u/None** [+7] *
+> **u/None** [+8]  (an hour later)
 > 
 > So, with Donald Trump as president, I decided to hope for the best...and hope the worst didn't come. I am not entirely sure what I would do with a nuclear apocalypse.
-> I am reasonably sure that Trump won't kill us all...
-> I am glad I voted, even though it's one vote in the sea of million. I wasn't voting in any of the swing state unfortunately.
 > 
+> I am reasonably sure that Trump won't kill us all...
+> 
+> I am glad I voted, even though it's one vote in the sea of million. I wasn't voting in any of the swing state unfortunately.
 
->> **u/Frommerman** [+9] *
+>> **u/Frommerman** [+9]  (5 hours later)
 >> 
 >> Trump might be Chaotic Neutral, but the people he is surrounding himself with are Lawful Evil. This is obviously bad, but the good thing is that Lawful Evil does value self preservation, and thus won't deliberately start a nuclear war.
->> 
 
->>> **u/Reasonableviking** [+10] *
+>>> **u/Reasonableviking** [+10]  (7 hours later)
 >>> 
 >>> I feel that you are talking mostly in jest but please remember that reducing people's political/ethical views down to 9 options is not only foolish but dangerous. As an avid DnD player it annoys me greatly every time I see it.
->>> 
 
->>>> **u/Frommerman** [+3] *
+>>>> **u/Frommerman** [+5]  (7 hours later)
 >>>> 
 >>>> I find it a useful model for quickly describing my thoughts on these people in a way that is easily understood. I, of course, don't think that they fit the archetypes perfectly.
->>>> 
 
->>>>> **u/CouteauBleu** [+9]  *We are the Empire.**
+>>>>> **u/CouteauBleu** [+9]  *We are the Empire.* (7 hours later)
 >>>>> 
 >>>>> Calling your political opponents evil is precisely the kind of things you shouldn't do when discussing politics, and the fact that people do it all the time anyway is the reason why "Politics is the Mind-Killer".
->>>>> I mean, it sounds snappy and it intuitively makes sense, "right, LE is bad news but at least they're reliable!", but reality doesn't give a shit about D&D labels. If you model someone as "Lawful Evil" or "Chaotic Neutral", you make an inaccurate model because real people never hold "hurting people" or "being chaotic" as a terminal value (or at least, it's rare enough that any attempt to detect them will just give you false positives). Real right-wing politicians will take decisions that can't be predicted by saying "he's LE".
 >>>>> 
+>>>>> I mean, it sounds snappy and it intuitively makes sense, "right, LE is bad news but at least they're reliable!", but reality doesn't give a shit about D&D labels. If you model someone as "Lawful Evil" or "Chaotic Neutral", you make an inaccurate model because real people never hold "hurting people" or "being chaotic" as a terminal value (or at least, it's rare enough that any attempt to detect them will just give you false positives). Real right-wing politicians will take decisions that can't be predicted by saying "he's LE".
 
->>>>>> **u/Frommerman** [+1] *
+>>>>>> **u/Frommerman** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> I am entirely comfortable with calling a man who thinks that torturing gay people until they tell you they aren't gay any more evil.
->>>>>> 
 
->>>>>>> **u/CouteauBleu** [+15]  *We are the Empire.**
+>>>>>>> **u/CouteauBleu** [+17]  *We are the Empire.* (8 hours later)
 >>>>>>> 
 >>>>>>> Isn't that the whole fucking point? Everyone has things they care about! You think Mister Evil Politician goes around thinking "Hmm, I really like hurting those innocent homosexual people! I really don't think they deserve it, but by God I'm going to make them suffer for no reason".
->>>>>>> That's why everyone needs perspective. Everyone has enemies, and clear reason to hate their enemies and think their enemies are evil. General principles like "not calling your enemies evil" is not for everyone, it's for **you**!
->>>>>>> General principles don't apply to abstract situations, they apply to concrete situations. "Respect your enemies and don't dehumanize them" doesn't apply to "your enemies", it applies to homosexual-hating scum.
 >>>>>>> 
+>>>>>>> That's why everyone needs perspective. Everyone has enemies, and clear reason to hate their enemies and think their enemies are evil. General principles like "not calling your enemies evil" is not for everyone, it's for **you**!
+>>>>>>> 
+>>>>>>> General principles don't apply to abstract situations, they apply to concrete situations. "Respect your enemies and don't dehumanize them" doesn't apply to "your enemies", it applies to homosexual-hating scum.
 
->>>>>>> **u/LiteralHeadCannon** [+13] *
+>>>>>>> **u/LiteralHeadCannon** [+11]  (8 hours later)
 >>>>>>> 
 >>>>>>> And I'm entirely comfortable with calling people who defend and hold sacred the "right" to kill babies evil.
->>>>>>> Worst Argument In The World, meet Worst Argument In The World.
->>>>>>> Your political enemies are *exactly* as deeply morally disgusted with you as you are with them.  This has always been true and will always be true for every ideological conflict from the start of time to the end of time.
 >>>>>>> 
+>>>>>>> Worst Argument In The World, meet Worst Argument In The World.
+>>>>>>> 
+>>>>>>> Your political enemies are *exactly* as deeply morally disgusted with you as you are with them.  This has always been true and will always be true for every ideological conflict from the start of time to the end of time.
 
->>>>>>>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>>>>>>> **u/CouteauBleu** [+2]  *We are the Empire.* (8 hours later)
 >>>>>>>> 
 >>>>>>>> Huh, you put it more elegantly than me.
->>>>>>>> 
 
->>>>>>>> **u/Frommerman** [+2] *
+>>>>>>>> **u/Frommerman** [+1]  (9 hours later)
 >>>>>>>> 
 >>>>>>>> The abortion debate is the only one where I concede that the opposition has a point. I disagree with them, but it's a philosophical difference that cannot be settled through argument.
->>>>>>>> Every other debate, *literally all of them*, is fact-based, and these people are *objectively wrong on every count.* Either they are massively ignorant or, more likely, they choose to make the world objectively worse for personal power. If that isn't a solid working definition of evil, I don't know what is.
 >>>>>>>> 
+>>>>>>>> Every other debate, *literally all of them*, is fact-based, and these people are *objectively wrong on every count.* Either they are massively ignorant or, more likely, they choose to make the world objectively worse for personal power. If that isn't a solid working definition of evil, I don't know what is.
 
->>>>>>>>> **u/waylandertheslayer** [+2] *
+>>>>>>>>> **u/waylandertheslayer** [+2]  (11 hours later)
 >>>>>>>>> 
 >>>>>>>>> You sound very confident. I'm from the UK and not 100% up-to-date on how US political issues break down across party lines. Could you give me a few examples of other debates that are 100% fact-based and the other side is objectively wrong?
->>>>>>>>> 
 
->>>>>>>>>> **u/Frommerman** [+3] *
+>>>>>>>>>> **u/Frommerman** [+4]  (11 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Republicans are against: single-payer healthcare, climate change, economic regulations meant to prevent banking fraud, effective sex ed, gun control of any kind, and other things like that.
->>>>>>>>>> Republicans are in favor of: Gay conversion therapy, voter ID against in-person voter fraud that does not happen, the war on drugs, the war on terror, teaching "the controversy" on evolution, and other things like that.
->>>>>>>>>> It seems odd I'm sure, from the outside, but American politics is quite literally separated into a party which believes in facts and a party which does not. This isn't helped by the fact that Republicans tend to be less educated and religious.
 >>>>>>>>>> 
+>>>>>>>>>> Republicans are in favor of: Gay conversion therapy, voter ID against in-person voter fraud that does not happen, the war on drugs, the war on terror, teaching "the controversy" on evolution, and other things like that.
+>>>>>>>>>> 
+>>>>>>>>>> It seems odd I'm sure, from the outside, but American politics is quite literally separated into a party which believes in facts and a party which does not. This isn't helped by the fact that Republicans tend to be less educated and religious.
 
->>>>>>>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>>>>>>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (13 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Democrats are against: punishing crinimals, more money to the military, individual rights, proper protection against crime, and other things like that.
->>>>>>>>>>> Democrats are in favor of: higher taxes, the war on terror, the war on drugs, new agey religions, abortion, and other things like that.
->>>>>>>>>>> People are not stupid, if it was merely a difference between a party that relies on facts and one that makes stupid decisions, the public would find it incredibly obvious. People have good reasons for picking one party over the other and it is not an simple choice. I know people from both parties who are virtually indistinguishable and are equally wonderful persons I am grateful to know. My mother was a Democrat, my father was a Republican.
->>>>>>>>>>> Even if the debates were fact based, most debates are settled through opinion. Many debates aren't something we can apply only facts too. They are more about stating plans on how to solve problems.
->>>>>>>>>>> Even then, this is about choosing a president and it's not as simple as choosing who's part of your party. As this election showed many people on either side were concerned. 10% of Clinton's voters were worried about her becoming president while 17% of Trump's voters were also deeply concerned about him ([source](http://www.cbsnews.com/news/cbs-news-exit-polls-how-donald-trump-won-the-us-presidency/)).
->>>>>>>>>>> What I'm trying to say is that everything you think about Republicans, *they think exactly the same things about you!*
->>>>>>>>>>> EDIT: Added in some points.
 >>>>>>>>>>> 
+>>>>>>>>>>> Democrats are in favor of: higher taxes, the war on terror, the war on drugs, new agey religions, abortion, and other things like that.
+>>>>>>>>>>> 
+>>>>>>>>>>> People are not stupid, if it was merely a difference between a party that relies on facts and one that makes stupid decisions, the public would find it incredibly obvious. People have good reasons for picking one party over the other and it is not an simple choice. I know people from both parties who are virtually indistinguishable and are equally wonderful persons I am grateful to know. My mother was a Democrat, my father was a Republican.
+>>>>>>>>>>> 
+>>>>>>>>>>> Even if the debates were fact based, most debates are settled through opinion. Many debates aren't something we can apply only facts too. They are more about stating plans on how to solve problems.
+>>>>>>>>>>> 
+>>>>>>>>>>> Even then, this is about choosing a president and it's not as simple as choosing who's part of your party. As this election showed many people on either side were concerned. 10% of Clinton's voters were worried about her becoming president while 17% of Trump's voters were also deeply concerned about him ([source](http://www.cbsnews.com/news/cbs-news-exit-polls-how-donald-trump-won-the-us-presidency/)).
+>>>>>>>>>>> 
+>>>>>>>>>>> What I'm trying to say is that everything you think about Republicans, *they think exactly the same things about you!*
+>>>>>>>>>>> 
+>>>>>>>>>>> EDIT: Added in some points.
 
->>>>>>>>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>>>>>>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (16 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> only like half those are unambiguous
->>>>>>>>>>> 
 
->>>>>>>>>>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>>>>>>>>>> **u/CouteauBleu** [+1]  *We are the Empire.* (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> This subreddit should have a "Don't downvote that post, dammit, just because you don't agree with it doesn't mean it's not constructive!" button. 
->>>>>>>>>>> Guys, we're supposed to be the rational, charitable ones. This post is a straightforward, sincere answer to the question above it. The fact that it bashes a large political group doesn't mean it's uncivil, against the rules, or un-constructive.
 >>>>>>>>>>> 
+>>>>>>>>>>> Guys, we're supposed to be the rational, charitable ones. This post is a straightforward, sincere answer to the question above it. The fact that it bashes a large political group doesn't mean it's uncivil, against the rules, or un-constructive.
 
->>>>>>> **u/Chronophilia** [+4]  *sci-fi ≠ futurology**
+>>>>>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (7 hours later)
 >>>>>>> 
 >>>>>>> To what purpose? That won't help you understand his motivations, his point of view, or what he'll do next. You'll alienate the people you should be trying to understand.
->>>>>>> 
 
->>>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>>>>>> 
 >>>>>>> You mean the assassination insurance VP right? (honest question)
->>>>>>> 
 
->>>>>> **u/Empiricist_or_not** [+0]  *Aspiring polite Hegemonizing swarm**
+>>>>>> **u/Empiricist_or_not** [+0]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>>>>> 
 >>>>>> **Bring on the down-votes,** but it is the tendency to reduce of those who dissent to various vile labels that has catapulted trump into the white house.
->>>>>> Relevant CGP Grey Video: [This video will make you angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)
 >>>>>> 
+>>>>>> Relevant CGP Grey Video: [This video will make you angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)
 
->>> **u/None** [+2] *
+>>> **u/None** [+3]  (7 hours later)
 >>> 
 >>> Who the hell said Trump is Neutral?  He's Evil as hell.
->>> 
 
->>> **u/Anderkent** [+1] *
+>>> **u/Anderkent** [+1]  (7 hours later)
 >>> 
 >>> Trump's Chaotic Evil, and he surrounds himself with minions that don't ever contradict him.
->>> 
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >> 
 >> >I am not entirely sure what I would do with a nuclear apocalypse.
->> I live in a fleet concentration area and as such would not have to worry about fallout, and probably will be toast before I have to worry about dying of a high (multi-gray) dose.
->> Look at how far you are from your nearest large military base, you might be able to put that in the worrying about surviving a skydive without a parachute category.
 >> 
+>> I live in a fleet concentration area and as such would not have to worry about fallout, and probably will be toast before I have to worry about dying of a high (multi-gray) dose.
+>> 
+>> Look at how far you are from your nearest large military base, you might be able to put that in the worrying about surviving a skydive without a parachute category.
 
-> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+> **u/xamueljones** [+6]  *My arch-enemy is entropy* (4 hours later)
 > 
 > I've been imagining rationality as eldritch knowledge in the Lovecraftian mythos.
-> You don't need to do anything special/supernatural to make rationality into something out of the Necronomicon. If you already live in a world with Cthulhu, and eldritch beings have been manipulating or affecting human society for generations, then rationality will be demanding you to accept horrific truths.
-> Just learning about the Old Ones will break anyone and signs of people refusing to accept such a horrific truth can be made into the same as how people react so badly to books like the Necronomicon in Lovecraft's tales. I would term accepting the horrific truth and moving past it a bitter enlightenment. I have already described it in another of my [comments](https://www.reddit.com/r/rational/comments/5cewnr/d_friday_offtopic_thread/d9w8x4p/) about the election. It'd be something similar but with a larger scope.
-> Rationality in Lovecraft demands following the Fridge Logic and accepting the truth. It would look like an eldritch art as one uses their knowledge of the eldritch to do amazing things.
 > 
+> You don't need to do anything special/supernatural to make rationality into something out of the Necronomicon. If you already live in a world with Cthulhu, and eldritch beings have been manipulating or affecting human society for generations, then rationality will be demanding you to accept horrific truths.
+> 
+> Just learning about the Old Ones will break anyone and signs of people refusing to accept such a horrific truth can be made into the same as how people react so badly to books like the Necronomicon in Lovecraft's tales. I would term accepting the horrific truth and moving past it a bitter enlightenment. I have already described it in another of my [comments](https://www.reddit.com/r/rational/comments/5cewnr/d_friday_offtopic_thread/d9w8x4p/) about the election. It'd be something similar but with a larger scope.
+> 
+> Rationality in Lovecraft demands following the Fridge Logic and accepting the truth. It would look like an eldritch art as one uses their knowledge of the eldritch to do amazing things.
 
->> **u/That2009WeirdEmoKid** [+2] *
+>> **u/That2009WeirdEmoKid** [+2]  (5 hours later)
 >> 
 >> I'm actually exploring this in my new story! In this world, magic is only as strong as the person believes it to be. The better you understand something, the stronger your belief in it. That's why people who aren't trained in the arcane go mad when they get powers. Only someone who's already a bit crazy or broken can wield magic effectively, otherwise you risk losing your sanity. I even have a type of priest called inquisitors that are trained by the church to question reality from an early age. It's literally weaponized rationality in the form of eldritch knowledge.
->> 
 
->>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (6 hours later)
 >>> 
 >>> That sounds like a very interesting story to read, but you are talking about a magic system which is affected by belief.
->>> I wanted to point out that in the setting I envisioned, rationality is exactly the same as in our world and magic isn't affected by how much of a rationalist the user is. Instead rationality affects the individual's perception on the setting and makes them better able to handle sanity-breaking truths and to use the eldritch knowledge without going mad a la [Sanity Has Advantages](http://tvtropes.org/pmwiki/pmwiki.php/Main/SanityHasAdvantages).
->>> This is slightly different from your idea where rationality impacts the magic directly which is still a cool idea.
->>> However, if magic is affected by belief, it shouldn't be controlled by understanding alone. Telling someone from birth that the spell Godicus Modus is the most powerful spell in existence will create a strong belief which is not true.
->>> Sorry if the post's not very clear. I'm in a rush.
 >>> 
+>>> I wanted to point out that in the setting I envisioned, rationality is exactly the same as in our world and magic isn't affected by how much of a rationalist the user is. Instead rationality affects the individual's perception on the setting and makes them better able to handle sanity-breaking truths and to use the eldritch knowledge without going mad a la [Sanity Has Advantages](http://tvtropes.org/pmwiki/pmwiki.php/Main/SanityHasAdvantages).
+>>> 
+>>> This is slightly different from your idea where rationality impacts the magic directly which is still a cool idea.
+>>> 
+>>> However, if magic is affected by belief, it shouldn't be controlled by understanding alone. Telling someone from birth that the spell Godicus Modus is the most powerful spell in existence will create a strong belief which is not true.
+>>> 
+>>> Sorry if the post's not very clear. I'm in a rush.
 
->>>> **u/That2009WeirdEmoKid** [+1] *
+>>>> **u/That2009WeirdEmoKid** [+1]  (6 hours later)
 >>>> 
 >>>> Oh no, belief isn't the only thing that shapes it. Otherwise, a person who thinks they're invincible would literally never lose. It's just a really important aspect of it. Psychological strength is the key factor, since the more suited you are to understanding the mind breaking truths, the stronger you are. That's why I compared it to what you said.
->>>> Someone believing in someone else wouldn't make the latter person stronger. Unless they *know* the person believes in them and they believe in their belief. Fuck. This is getting confusing. I swear it makes sense. I think *I'm* the one who's not being clear here.
 >>>> 
+>>>> Someone believing in someone else wouldn't make the latter person stronger. Unless they *know* the person believes in them and they believe in their belief. Fuck. This is getting confusing. I swear it makes sense. I think *I'm* the one who's not being clear here.
 
->>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (6 hours later)
 >>>>> 
 >>>>> If your are haven't trouble explaining how your magic works, try writing down examples of where it works as well as counter-examples where it doesn't work.
->>>>> Also, it seems as if you have multiple factors affecting the magic and only came up with the case of people who have everything working together in harmony. Try outlining the examples where some people only have one of the factors missing and explain how it affects the magic and why it isn't the case for those who retains the 'missing' factor.
 >>>>> 
+>>>>> Also, it seems as if you have multiple factors affecting the magic and only came up with the case of people who have everything working together in harmony. Try outlining the examples where some people only have one of the factors missing and explain how it affects the magic and why it isn't the case for those who retains the 'missing' factor.
 
->> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (16 hours later)
 >> 
 >> I think rationality in Lovecraft would be instrumental, not epistemic. There aren't any happy knowledgeable non-evil people in the source material. Knowing your limits is critical.
->> 
 
->>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (17 hours later)
 >>> 
 >>> It sounds like you are just taking as a given that knowledge of the eldritch guarantees insanity/evilness, but being a rationalist requires training to accept harsh truths and learning how to continue on any way. Thus the main character builds up his 'will' and mental fortitude so he can handle horrific knowledge and work to make the world better anyway. There's nothing supernatural to drive people insane, just the horror alone is considered enough to break them. If you think human minds shouldn't be able to snap so easily, then maybe the supernatural aspect of is that people are forced to accept the horror as a truth and cannot lie to themselves in any way to pretend it's not real or something like that?
->>> The epistemic part will be accepting the truths (and then communicating it safely to others) while the instrumental part is to use the horrific truths to better handle the horrors.
 >>> 
+>>> The epistemic part will be accepting the truths (and then communicating it safely to others) while the instrumental part is to use the horrific truths to better handle the horrors.
 
->>>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>>>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (a day later)
 >>>> 
 >>>> That's a large deviation from canon that I personally don't like.
->>>> I think there is truth to the idea that sufficient indifference in the universe can hurt people's sanity. People who are exposed to violence, for example, often are traumatized by their recognition that reality is gross and people are fragile.
->>>> Perhaps a sort of gradual exposure therapy could be done. But thrusting someone into an aggressively uncaring universe when they haven't already developed the psychological tools to handle it would just straight up damage them. I don't think rationality should be portrayed as a mutation or superpower.
 >>>> 
+>>>> I think there is truth to the idea that sufficient indifference in the universe can hurt people's sanity. People who are exposed to violence, for example, often are traumatized by their recognition that reality is gross and people are fragile.
+>>>> 
+>>>> Perhaps a sort of gradual exposure therapy could be done. But thrusting someone into an aggressively uncaring universe when they haven't already developed the psychological tools to handle it would just straight up damage them. I don't think rationality should be portrayed as a mutation or superpower.
 
->>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>>>> 
 >>>>> > I don't think rationality should be portrayed as a mutation or superpower.
->>>>> Okay, you have a fair point about that and I didn't realize I was edging towards that. But I would be really interested in a story where a character knows he's going to face a very traumatic event and deliberately prepares himself for it using psychological tools like gradual exposure therapy. It would be a very unusual and interesting challenge.
 >>>>> 
+>>>>> Okay, you have a fair point about that and I didn't realize I was edging towards that. But I would be really interested in a story where a character knows he's going to face a very traumatic event and deliberately prepares himself for it using psychological tools like gradual exposure therapy. It would be a very unusual and interesting challenge.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (6 hours later)
 > 
 > Readings for this week:
-> * *The Simple Truth* by /u/EliezerYudkowsky
-> * the epilogue to HPMoR, by same
-> * *Following the Phoenix*, by one of our resident authors
-> Intended lesson: the truth is not complicated, does not come from the heavens, and mostly does not even require any great cleverness.  In fact, a *temptation to cleverness* and a *liking* for sophistication can mask utter evil.
-> Sometimes you really need to admit that the world *is* that simple, that Dark Lords are bad, that Defense Profeasors who love to play at being Dark Lords are bad, and phoenixes are good.  Grab the phoenix, and go where it takes you.
-> When you don't, people can and will die.  And that's *bad*.
-> And yes, this is intended as commentary on current events, because apparently people can't hear the plain truth if you just tell them to their faces, so you have to veil it in stories that yes, Captain Planet villains are still Captain Planet villains after Tuesdays.  Both of them.
 > 
+> * *The Simple Truth* by /u/EliezerYudkowsky
+> 
+> * the epilogue to HPMoR, by same
+> 
+> * *Following the Phoenix*, by one of our resident authors
+> 
+> Intended lesson: the truth is not complicated, does not come from the heavens, and mostly does not even require any great cleverness.  In fact, a *temptation to cleverness* and a *liking* for sophistication can mask utter evil.
+> 
+> Sometimes you really need to admit that the world *is* that simple, that Dark Lords are bad, that Defense Profeasors who love to play at being Dark Lords are bad, and phoenixes are good.  Grab the phoenix, and go where it takes you.
+> 
+> When you don't, people can and will die.  And that's *bad*.
+> 
+> And yes, this is intended as commentary on current events, because apparently people can't hear the plain truth if you just tell them to their faces, so you have to veil it in stories that yes, Captain Planet villains are still Captain Planet villains after Tuesdays.  Both of them.
 
->> **u/LiteralHeadCannon** [+3] *
+>> **u/LiteralHeadCannon** [+3]  (6 hours later)
 >> 
 >> You mean HPMOR chapter 122, right?  The epilogue's still not out?
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 hours later)
 >>> 
 >>> Yeah, I think you're right.
->>> 
 
->> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (6 hours later)
 >> 
 >> > *The Simple Truth*
->> [Link](http://www.yudkowsky.net/rational/the-simple-truth/)
->> ---
->> > the epilogue to HPMoR, by same
->> Did you mean [the Aftermath: Something to Protect chapters](https://www.fanfiction.net/s/5782108/116), or [the final chapter](https://www.fanfiction.net/s/5782108/122)? I think [the Epilogue hasn't yet been posted](https://np.reddit.com/r/HPMOR/comments/4adej8/happy_pi_day_when_can_we_expect_an_epilogue/d0zjsfv/). (Or did you mean [*this* Epilogue](https://www.fanfiction.net/s/11293489)?)
->> ---
->> > *Following the Phoenix*
->> [Link](https://www.fanfiction.net/s/10636246)
 >> 
+>> [Link](http://www.yudkowsky.net/rational/the-simple-truth/)
+>> 
+>> ---
+>> 
+>> > the epilogue to HPMoR, by same
+>> 
+>> Did you mean [the Aftermath: Something to Protect chapters](https://www.fanfiction.net/s/5782108/116), or [the final chapter](https://www.fanfiction.net/s/5782108/122)? I think [the Epilogue hasn't yet been posted](https://np.reddit.com/r/HPMOR/comments/4adej8/happy_pi_day_when_can_we_expect_an_epilogue/d0zjsfv/). (Or did you mean [*this* Epilogue](https://www.fanfiction.net/s/11293489)?)
+>> 
+>> ---
+>> 
+>> > *Following the Phoenix*
+>> 
+>> [Link](https://www.fanfiction.net/s/10636246)
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 hours later)
 >>> 
 >>> I meant the part where Dumbledore and Hermione were right about everything all along, mostly.
->>> 
 
-> **u/chthonicSceptre** [+2]  *Highly Unlikely**
+> **u/chthonicSceptre** [+2]  *Highly Unlikely* (3 hours later)
 > 
 > I started writing last week, not really as part of NaNoWriMo but just because I thought it was time... and my academic performance dropped like the Dow Jones in 2008. I'll get back to it in December, hopefully. 😅 Mostly I'm disappointed that I can't finish on the timetable I wanted to, but this is clearly something I can't do.
-> 
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (8 hours later)
 > 
 > So, because I like to be different, I'm doing JaNoWriMo (january novel writing month). Me and my long-time roleplaying partner will each be writing a novel, based on our roleplaying universe, which, thanks to the amazing /u/ccc_037, has been fleshed out quite a bit and is now a kind of hopefully mostly rational "vampires and werewolves, oh my!" setting.
-> So I'm planning  on writing a pretty straightforward romance story of Red (human) and William (1500 yo vampire). 
-> Act 1: They meet, fall in love, tasty human is tasty (c. 1942). 
-> Act 2: Red becomes an immortal vampire servant (ghoul), dynamic with that (c. 1950). 
-> Act 3: Red becomes a vampire, relationship almost strains to its breaking point (c. 2016). 
-> Act 4: Red is now a mature vampire, everything is perfect, the end (c. 2050). Probably going to have no or only minor antagonists. The characters will have good communication, of course.
-> In the meantime, I need to plan the structure a bit more, work out the major events in each part (I know most of act 3, and the highlights of act 1, but act 2 and 4 are murky), probably roleplaying the major things with my partner so we know where the signposts are.
-> I love the community here and would love to share the story either as I write it or in parts after it's finished, but I'm a bit worried that it's not "rational enough" because it really is about two guys kissing and not about teenagers saving the world, superheroes, or anything like that that is really "rationalisable". (I guess, looking back to the sidebar, my story would be rational, but not rational*ist*)
-> So here's my questions I guess:
-> 1) Does anyone have advice for how to do JaNoWriMo, based on their lessions from doing NaNoWriMo now or in the past? I already plan to use beeminder for my word count, and make it a priority, and collaborate with my roleplaying partner to check each other's work (she will also write something, a friendship/action type novel in the same universe).
-> 2) Does anyone have feedback on the story itself as I've laid it out? What sorts of things might be interesting to explore? What things do you think are lame and should be avoided?
-> 3) Do you think it would be appropriate to share the completed or in progress story on here? Regardless of whether it's appropriate, do you think people would be interested in it? I feel like the demographics of "rational fiction" and "gay vampires kissing fiction" have a small overlap, but "true crime" fans are overwhelmingly women, so I could be wrong here.
 > 
+> So I'm planning  on writing a pretty straightforward romance story of Red (human) and William (1500 yo vampire). 
+> 
+> Act 1: They meet, fall in love, tasty human is tasty (c. 1942). 
+> 
+> Act 2: Red becomes an immortal vampire servant (ghoul), dynamic with that (c. 1950). 
+> 
+> Act 3: Red becomes a vampire, relationship almost strains to its breaking point (c. 2016). 
+> 
+> Act 4: Red is now a mature vampire, everything is perfect, the end (c. 2050). Probably going to have no or only minor antagonists. The characters will have good communication, of course.
+> 
+> In the meantime, I need to plan the structure a bit more, work out the major events in each part (I know most of act 3, and the highlights of act 1, but act 2 and 4 are murky), probably roleplaying the major things with my partner so we know where the signposts are.
+> 
+> I love the community here and would love to share the story either as I write it or in parts after it's finished, but I'm a bit worried that it's not "rational enough" because it really is about two guys kissing and not about teenagers saving the world, superheroes, or anything like that that is really "rationalisable". (I guess, looking back to the sidebar, my story would be rational, but not rational*ist*)
+> 
+> So here's my questions I guess:
+> 
+> 1) Does anyone have advice for how to do JaNoWriMo, based on their lessions from doing NaNoWriMo now or in the past? I already plan to use beeminder for my word count, and make it a priority, and collaborate with my roleplaying partner to check each other's work (she will also write something, a friendship/action type novel in the same universe).
+> 
+> 2) Does anyone have feedback on the story itself as I've laid it out? What sorts of things might be interesting to explore? What things do you think are lame and should be avoided?
+> 
+> 3) Do you think it would be appropriate to share the completed or in progress story on here? Regardless of whether it's appropriate, do you think people would be interested in it? I feel like the demographics of "rational fiction" and "gay vampires kissing fiction" have a small overlap, but "true crime" fans are overwhelmingly women, so I could be wrong here.
 
->> **u/Escapement** [+2]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+2]  *Ankh-Morpork City Watch* (10 hours later)
 >> 
 >> I'm going to tackle your questions in reverse order, because I'm contradictory like that.
+>> 
 >> 3) Yes, do share please. I think many people here are interested in a variety of of fiction. IMO, fiction by people *aware of things like /r/rational's ethos* is very frequently interesting even if it's not at all 'rational', however you choose to define that - if for no other reason than that it usually means that if characters are behaving extremely irrationally, it is done for a purpose and a reason rather than not. The fact that an author thinks about things like this, even if they choose not to write in the genre exactly, tends to add a lot and make things more interesting even if they are outside of whatever you consider 'rational'.
+>> 
 >> I also think more people would be interested than you expect, and that the overlap in the Venn diagram of '/r/rational' and 'gay vampires kissing fiction' will actually be sorta high. I mean, Nostalgebraist's two major fics Floornight and The Northern Caves were both quite well received here, and they are both quite high in the 'gay kissing' quotient. BenedictSC's Cordyceps has plenty of LGBT romance stuff too.  For the vampire side of things, Alicorn's Twilight fic Luminosity is about 1/3rd or more vampire romance and is way, way up there in 'rational canon' too. However, for vampirism in previous works in the rationalist genre we've largely looked at How To Power Game with Vampire Magic rather than more... emotional things, which is something of a missed opportunity - vampires have traditionally been used to tap into a lot very primal concepts, such as (to quote someone else):
+>> 
 >> >- Loss of Innocence
 >> >- Fear of Death
 >> >- Danger and Lure of Intimacy
 >> >- Moral Nostalgia
 >> >- Regret
->> And I think your story sounds like it could get right into some of that quite thoroughly.
->> 2) Beyond what I said above... I think the story seems pretty interesting. I don't have much criticism here because it's so vague. Not exactly sure what ideas and themes Act 2 is going to explore that Act 1 and Act 3 couldn't have - but hey Heather Poe and Mercurio were pretty amazing and I am totally in favour of ghouls in general.  It feels like you're cribbing a bit from World of Darkness with the 'ghoul' thing though (perhaps this may be because of the RP origin?). If you're not planning to publish or sell or whatever, you should consider whether or not to actually make it World of Darkness fiction explicitly (if you want to actually make money selling it or whatever, the answer is clearly 'no', just take vampire themes and ideas without using any exact names from White Wolf IP that don't show up elsewhere).  
->> 1) I don't have much advice here, save that you try to budget time specifically to write in.
 >> 
+>> And I think your story sounds like it could get right into some of that quite thoroughly.
+>> 
+>> 2) Beyond what I said above... I think the story seems pretty interesting. I don't have much criticism here because it's so vague. Not exactly sure what ideas and themes Act 2 is going to explore that Act 1 and Act 3 couldn't have - but hey Heather Poe and Mercurio were pretty amazing and I am totally in favour of ghouls in general.  It feels like you're cribbing a bit from World of Darkness with the 'ghoul' thing though (perhaps this may be because of the RP origin?). If you're not planning to publish or sell or whatever, you should consider whether or not to actually make it World of Darkness fiction explicitly (if you want to actually make money selling it or whatever, the answer is clearly 'no', just take vampire themes and ideas without using any exact names from White Wolf IP that don't show up elsewhere).  
+>> 
+>> 1) I don't have much advice here, save that you try to budget time specifically to write in.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (11 hours later)
 >>> 
 >>> Thankyou so much for your reply! I really appreciate you taking the time to respond to me like this. 
->>> > in the rationalist genre we've largely looked at How To Power Game with Vampire Magic rather than more... emotional things, which is something of a missed opportunity
->>> This is exactly it, and all the emotional stuff, the instincts, the predation, etc are things I really like exploring. 
->>> > Not exactly sure what ideas and themes Act 2 is going to explore that Act 1 and Act 3 couldn't have 
->>> You're right. I might end up putting Act 1 and 2 together and just having 3 acts. I'm trying to decide whether a 1500 year old vampire would immediately take a liking to a human and decide to ghoul him for a few decades and see how things go, or if he'd wait a few years before that. Ghouling is not difficult so I suppose there's no reason that it need happen 10 years later, and canonically the ghouling happens within 6 months of them first meeting. That would probably be better structure, thankyou!
->>> >  It feels like you're cribbing a bit from World of Darkness with the 'ghoul' thing though 
->>> Yeah, WoD is one of the places where the "rules" came from. I think the only things that remain from it that are potentially WoD-specific are the concepts of ghouls, being fed upon being pleasurable (and addictive, and nootropic - people who regularly feed vampires are called jannisaries), vulnerability to fire, stake to the heart merely paralyzing (...maybe that's a bit much?). Everything else is general vampire lore (sunlight), or original stuff. (My personal favourite: zombie legends actually come from vampire bodies that have grown a new head after being beheaded. The new head has only the most basest instincts, so it operates much like a fast!zombie.)
->>> [Here's a little (~600 word) side-fic I wrote recently](http://pastebin.com/w77NDT3H), that sort of covers the "untapped corners of vampires" that you mentioned. It's devoid of context: broadly, William has just turned Red, and their relationship has grown most distant as a result. Note that Our Vampires have a *thing* about giving gifts and writing letters. They have a very rigid set of social norms, and if it is disrupted, the result is often rather bloody.
 >>> 
+>>> > in the rationalist genre we've largely looked at How To Power Game with Vampire Magic rather than more... emotional things, which is something of a missed opportunity
+>>> 
+>>> This is exactly it, and all the emotional stuff, the instincts, the predation, etc are things I really like exploring. 
+>>> 
+>>> > Not exactly sure what ideas and themes Act 2 is going to explore that Act 1 and Act 3 couldn't have 
+>>> 
+>>> You're right. I might end up putting Act 1 and 2 together and just having 3 acts. I'm trying to decide whether a 1500 year old vampire would immediately take a liking to a human and decide to ghoul him for a few decades and see how things go, or if he'd wait a few years before that. Ghouling is not difficult so I suppose there's no reason that it need happen 10 years later, and canonically the ghouling happens within 6 months of them first meeting. That would probably be better structure, thankyou!
+>>> 
+>>> >  It feels like you're cribbing a bit from World of Darkness with the 'ghoul' thing though 
+>>> 
+>>> Yeah, WoD is one of the places where the "rules" came from. I think the only things that remain from it that are potentially WoD-specific are the concepts of ghouls, being fed upon being pleasurable (and addictive, and nootropic - people who regularly feed vampires are called jannisaries), vulnerability to fire, stake to the heart merely paralyzing (...maybe that's a bit much?). Everything else is general vampire lore (sunlight), or original stuff. (My personal favourite: zombie legends actually come from vampire bodies that have grown a new head after being beheaded. The new head has only the most basest instincts, so it operates much like a fast!zombie.)
+>>> 
+>>> [Here's a little (~600 word) side-fic I wrote recently](http://pastebin.com/w77NDT3H), that sort of covers the "untapped corners of vampires" that you mentioned. It's devoid of context: broadly, William has just turned Red, and their relationship has grown most distant as a result. Note that Our Vampires have a *thing* about giving gifts and writing letters. They have a very rigid set of social norms, and if it is disrupted, the result is often rather bloody.
 
-> **u/LiteralHeadCannon** [+4] *
+> **u/LiteralHeadCannon** [+4]  (7 hours later)
 > 
 > Personally, as someone who enthusiastically voted for Trump because Clinton seemed so much worse to me, I think we need, proportionally speaking, a lot less talk about how Trump won and a lot more talk about how Clinton lost.  The analyses I've read have focused on the silent demographics and feelings Trump tapped into.  While that is valid, I think there's been much too little focus on how Hillary scared people the way the media wanted Trump to scare people.
-> There's been some talk of how voters rejected Hillary as a symbol of their rejecting the establishment.  I think this is kind of true, but really pulls its punches towards Hillary.  I didn't reject Hillary because she was an establishment politician - I rejected Hillary because *she's the type of politician that makes me reject the establishment*.  She's *the thing I'm afraid of the establishment producing*.  If the establishment is the common cold, Hillary's the Spanish Flu.  To overextend this analogy, Trump is a tapeworm and hypothetical evil Trump is at best a Guinea worm and at worst a Xenomorph.
-> For the record, contrary to leftist dogma, I think the child sex trafficking allegations against Hillary Clinton are much more credible and plausible than the rape allegations against Donald Trump.  Even if they were equally credible and plausible, which I don't think they are, I would consider the allegations against Hillary Clinton much more serious because of their magnitude.  The left dismisses these allegations too easily because they cannot possibly imagine Their Girl being an evil shitbag.  This is not even to mention the way that Hillary constantly tried to paint Donald Trump as an existential risk on the basis of his temperament, all while being the most hawkish candidate in ages, promising to directly militarily engage with the other foremost nuclear power in the world over a dispute in some fucking third-world hellhole, and generally *deliberately antagonizing Russia as much as possible for social justice points what the fuck is wrong with you*
 > 
+> There's been some talk of how voters rejected Hillary as a symbol of their rejecting the establishment.  I think this is kind of true, but really pulls its punches towards Hillary.  I didn't reject Hillary because she was an establishment politician - I rejected Hillary because *she's the type of politician that makes me reject the establishment*.  She's *the thing I'm afraid of the establishment producing*.  If the establishment is the common cold, Hillary's the Spanish Flu.  To overextend this analogy, Trump is a tapeworm and hypothetical evil Trump is at best a Guinea worm and at worst a Xenomorph.
+> 
+> For the record, contrary to leftist dogma, I think the child sex trafficking allegations against Hillary Clinton are much more credible and plausible than the rape allegations against Donald Trump.  Even if they were equally credible and plausible, which I don't think they are, I would consider the allegations against Hillary Clinton much more serious because of their magnitude.  The left dismisses these allegations too easily because they cannot possibly imagine Their Girl being an evil shitbag.  This is not even to mention the way that Hillary constantly tried to paint Donald Trump as an existential risk on the basis of his temperament, all while being the most hawkish candidate in ages, promising to directly militarily engage with the other foremost nuclear power in the world over a dispute in some fucking third-world hellhole, and generally *deliberately antagonizing Russia as much as possible for social justice points what the fuck is wrong with you*
 
->> **u/Cariyaga** [+8]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+9]  *Kyubey did nothing wrong* (9 hours later)
 >> 
 >> Point in fact: Hilary's plan for the no-fly zone over Syria was always intended to be put into place *with Russian support*. She stated that she *knew* it wouldn't work without that.
->> 
 
-> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png* (29 minutes later)
 > 
 > I had some fun with constructing [a strawman](http://i.imgur.com/iUh7PGC.png) out of [someone's opinion](http://i.imgur.com/drML9fD.png).
-> It's an interesting question, though: Are text-based let's-plays economically viable for a content creator on YouTube, in comparison to live-commentated ones? The one to which I referred in the imaginary conversation was [a playthrough of *Amnesia: The Dark Descent*](http://lparchive.org/Amnesia-The-Dark-Descent/). I've also seen [one or two tool-assisted speedruns](http://tasvideos.org/3343S.html) in which the speedrunners added textual commentary to the video. [HCBailly](https://www.youtube.com/user/HCBailly/videos) is an expert at seamlessly adding post-commentary to his videos, and he's achieved some very modest success.
 > 
+> It's an interesting question, though: Are text-based let's-plays economically viable for a content creator on YouTube, in comparison to live-commentated ones? The one to which I referred in the imaginary conversation was [a playthrough of *Amnesia: The Dark Descent*](http://lparchive.org/Amnesia-The-Dark-Descent/). I've also seen [one or two tool-assisted speedruns](http://tasvideos.org/3343S.html) in which the speedrunners added textual commentary to the video. [HCBailly](https://www.youtube.com/user/HCBailly/videos) is an expert at seamlessly adding post-commentary to his videos, and he's achieved some very modest success.
 
->> **u/ZeroNihilist** [+6] *
+>> **u/ZeroNihilist** [+6]  (2 hours later)
 >> 
 >> If you're interested in commentated TASs, I highly recommend [every video by pannenkoek](https://www.youtube.com/user/pannenkoek2012/videos). He also has a [secondary channel](https://www.youtube.com/user/pannenkeok2012) for less polished videos, often lacking commentary.
->> All 393 videos are for Super Mario 64 (I think), and they go quite in depth about mechanics most players would never have dreamed of, including parallel universes, unbounded momentum accumulation, RNG manipulation, and cloning entities in distant locations. Some are voiced commentary, others are text-based.
->> His thing is the "0x A press challenge", where the goal is to complete SM64 without ever pressing the A button (used for jumping, launching from cannons, and a few other things). That goal is believed to be impossible at the moment, but I think the minimum is only 33 A presses (I'm not sure if that's for 100% or minimal completion).
->> His most famous video is [SM64 - Watch for Rolling Rocks - 0.5x A Presses (Commentated)](https://www.youtube.com/watch?v=kpk2tdsPh0A), featuring the phrase "But first, we need to talk about parallel universes." which has since become a meme in some circles.
->> He is probably the world's foremost expert on Super Mario 64, including as competition the people who programmed the game.
 >> 
+>> All 393 videos are for Super Mario 64 (I think), and they go quite in depth about mechanics most players would never have dreamed of, including parallel universes, unbounded momentum accumulation, RNG manipulation, and cloning entities in distant locations. Some are voiced commentary, others are text-based.
+>> 
+>> His thing is the "0x A press challenge", where the goal is to complete SM64 without ever pressing the A button (used for jumping, launching from cannons, and a few other things). That goal is believed to be impossible at the moment, but I think the minimum is only 33 A presses (I'm not sure if that's for 100% or minimal completion).
+>> 
+>> His most famous video is [SM64 - Watch for Rolling Rocks - 0.5x A Presses (Commentated)](https://www.youtube.com/watch?v=kpk2tdsPh0A), featuring the phrase "But first, we need to talk about parallel universes." which has since become a meme in some circles.
+>> 
+>> He is probably the world's foremost expert on Super Mario 64, including as competition the people who programmed the game.
 
-> **u/CouteauBleu** [+1]  *We are the Empire.**
+> **u/CouteauBleu** [+1]  *We are the Empire.* (2 days later)
 > 
 > Since this is politics week, here's a deep, insightful commentary on the recent election by one of the most renowned, intelligent analysts of my country (in French): https://unodieuxconnard.com/2016/11/09/le-candidat/.
-> 
 
-> **u/CGHThrow** [+0] *
+> **u/CGHThrow** [+0]  (a day later)
 > 
 > I believe I know a real cognitohazard in the form of a certain proof that will dramatically raise the lifetime risk of suicide for a certain subset of the population.
-> As for why I haven't killed myself, it's because certain memes I have function to give me weak immunity. However, this immunity requires a belief in the truth value of these memes, which - given their subjectivity - cannot be forced, and in any case is likely to engender suicidal ideation, also. It also obligates you to set the worth of most values to null to attain consistency. Eg, another cognitohazard, albeit one less dangerous since there's no obligation to believe it, which is why I'm offering as much detail as I am.
-> I am, of course, not planning on releasing the cognitohazards, but felt like making this post since the strain of living with it is starting to grate.
-> Oh, and this isn't some kind of stealth RP. I'm not a fun enough individual for something like that, given as I care about very, very, very little.
 > 
+> As for why I haven't killed myself, it's because certain memes I have function to give me weak immunity. However, this immunity requires a belief in the truth value of these memes, which - given their subjectivity - cannot be forced, and in any case is likely to engender suicidal ideation, also. It also obligates you to set the worth of most values to null to attain consistency. Eg, another cognitohazard, albeit one less dangerous since there's no obligation to believe it, which is why I'm offering as much detail as I am.
+> 
+> I am, of course, not planning on releasing the cognitohazards, but felt like making this post since the strain of living with it is starting to grate.
+> 
+> Oh, and this isn't some kind of stealth RP. I'm not a fun enough individual for something like that, given as I care about very, very, very little.
 
 ---
 

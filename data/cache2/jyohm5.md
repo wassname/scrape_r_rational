@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/GeeJo** [+4]  *Custom Flair**
+> **u/GeeJo** [+5]  *Custom Flair* (18 hours later)
 > 
 > It's been a long time since much was done on-screen with the Office itself. To the point where when the trio brought up purple orbs, I blanked for a second or two on what those did or where specifically in the dungeon they came from.
-> 
 
->> **u/BumblingJumbles** [+1] *
+>> **u/BumblingJumbles** [+1]  (13 days later)
 >> 
 >> Wow, this fic is still going?
->> 
 
 ---
 

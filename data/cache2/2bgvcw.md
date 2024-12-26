@@ -2,7 +2,7 @@
 
 * Author: u/brandalizing  *Reserve Pigeon Army**
 * URL: https://www.reddit.com/r/rational/comments/2bgvcw/im_writing_a_rationalsmash_bros_fic_anything/
-* Score: 15
+* Score: 12
 
 * Created: 2014-07-23T05:00:11
 
@@ -18,183 +18,180 @@ With that out there; is there anything you'd like to see done? Any suggestions o
 
 ### Comments:
 
-> **u/EndlessStrategy** [+9] *
+> **u/EndlessStrategy** [+10]  (an hour later)
 > 
 > The Smash Bros verse is so nonsensical, I'm very curious how you'd go about it. Nothing in particular comes to mind, but with how many powers are at work, you'd think at least a few would prove themselves to be game-breakers.
-> 
 
->> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (an hour later)
 >> 
 >> In respect to the tournament itself, the Brothers of Smash Judging Committee (composed of a few particular older characters from some of the franchises) has each fighter register a certain number of moves, each of which must be approved. These correspond to the moves in the actual game, i.e. b-air, n-air, down b, etc.
->> In respect to everyday things, it's less of a problem and more just 'that's how it is'.
->> Although in this world, Palutena - being a real-life goddess - would not be allowed to compete. In actuality she would never want to anyway.
 >> 
+>> In respect to everyday things, it's less of a problem and more just 'that's how it is'.
+>> 
+>> Although in this world, Palutena - being a real-life goddess - would not be allowed to compete. In actuality she would never want to anyway.
 
-> **u/Laborbuch** [+4] *
+> **u/Laborbuch** [+3]  (49 minutes later)
 > 
 > I'm curious how you'll resolve the physics issue. Will there be a singular meta-universe and its rules be responsible for the various supernatural technique and features of the various canons, or will it work something like "each character's home universe' rules apply to them, unless noted" (Ike shan't be able to turn into a pinball like Sonic does).
-> 
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (an hour later)
 >> 
 >> I'm going the route of each characters' skills/powers only being applicable to them, because of where they are from.
->> Even in the fic, Kirby, for example, comes from a different universe - the Warp Stars are how he came to the Smash Bros. 'verse. So his biological/supernatural makeup is ridiculously different from any of the other characters, which allows him his unique powerset.
->> I won't go in-depth for the explanations of the characters' powers' origins, but rest assured the actual powers themselves will stay consistent in their interactions.
 >> 
+>> Even in the fic, Kirby, for example, comes from a different universe - the Warp Stars are how he came to the Smash Bros. 'verse. So his biological/supernatural makeup is ridiculously different from any of the other characters, which allows him his unique powerset.
+>> 
+>> I won't go in-depth for the explanations of the characters' powers' origins, but rest assured the actual powers themselves will stay consistent in their interactions.
 
->>> **u/Laborbuch** [+1] *
+>>> **u/Laborbuch** [+1]  (an hour later)
 >>> 
 >>> Well, you could have gone the route of magical schools, so to speak. The underlying principle and limitations are the same, but the specifics to each universe came into being due to the relevant school of magic being dominant.  
 >>> Imagine for instance an Avatar universe in which the various nations never came in contact with each other: Given enough time each nation would have a broad swath of styles and mythologies, maybe even creation myth and religions; then they come into contact with each other and everyone is freaking out because these new people are doing magic; there have to be paradigm shifts in science and religion and revolutions are par of the course, but the underlying principle—bending—remains the same.
->>> 
 
->>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (2 hours later)
 >>>> 
 >>>> I'm not so sure that a single underlining magic system that would allow anything from 'inhaling a living being to gain a fraction of their abilites' to 'become a blue pinball and home in on your enemies' to 'punch so hard the air around your fist bursts into flames' would be sustainable and explainable.
->>>> Not actually being all that smart, I'm struggling just with the 'keep everything consistent, have the backstories make sense, and write all the characters as rationally as possible without the Idiot Ball being held too much by anyone' part of this as it is. I'd welcome help if you're offering it - I just can't fathom being able to create that entire system myself, and have it work. I appreciate your input regardless, it's very helpful.
 >>>> 
+>>>> Not actually being all that smart, I'm struggling just with the 'keep everything consistent, have the backstories make sense, and write all the characters as rationally as possible without the Idiot Ball being held too much by anyone' part of this as it is. I'd welcome help if you're offering it - I just can't fathom being able to create that entire system myself, and have it work. I appreciate your input regardless, it's very helpful.
 
->>>>> **u/Laborbuch** [+1] *
+>>>>> **u/Laborbuch** [+1]  (5 hours later)
 >>>>> 
 >>>>> Well, you can always make the point of the universe being a simulation run on some supercomputer, with the magic rules being grafted onto the regular 'mundane' reality. If it's run by the same computer, you have technically all *magic* derived from the same system. The system would be universe-relative reality manipulation, sure, but it's a common theme.
->>>>> Alternatively, the universes are internally consistent with their own inherent features and qualia. The Masters of Smash 'verse allows for cross-'dimensional', or from our perspective cross-narrative, travel in some capacity. The multiverse containing all the various universes works for the travelling individuals by the individuals retaining the physics of their home universe – Kirby will still be able to float and copy skills of things it swallows, Falcon's punches will still ignite or superheat the air, Sonic will still be able to run at the speeds his name implies, and so on.
->>>>> My point being, depending on your goal, fusings canons into a coherent whole is not exactly necessary. Especially considering some canons are simply broken and barely internally consistent (Zelda, Pokémon, …).
->>>>> So no, I can't fuse all those canons either without relying on a deus ex machina either.
 >>>>> 
+>>>>> Alternatively, the universes are internally consistent with their own inherent features and qualia. The Masters of Smash 'verse allows for cross-'dimensional', or from our perspective cross-narrative, travel in some capacity. The multiverse containing all the various universes works for the travelling individuals by the individuals retaining the physics of their home universe – Kirby will still be able to float and copy skills of things it swallows, Falcon's punches will still ignite or superheat the air, Sonic will still be able to run at the speeds his name implies, and so on.
+>>>>> 
+>>>>> My point being, depending on your goal, fusings canons into a coherent whole is not exactly necessary. Especially considering some canons are simply broken and barely internally consistent (Zelda, Pokémon, …).
+>>>>> 
+>>>>> So no, I can't fuse all those canons either without relying on a deus ex machina either.
 
->>>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (6 hours later)
 >>>>>> 
 >>>>>> Honestly, going the supercomputer simulation route would feel like a cop-out, as tempting as it is. It also puts a bit of a wall between the readers and the characters - and I'm specifically trying to make the characters as real and relatable as possible. I'm going to try my hand at writing the 'verses together by combining their histories and whatnot, but if I find it to be impossible without a large amount of handwavium, I might fall back on the simulation premise.
->>>>>> 
 
-> **u/None** [+5] *
+> **u/None** [+5]  (7 hours later)
 > 
 > I don't see why or how there's any kind of story here.  Are you sure you don't want to just build a game?
-> 
 
->> **u/brandalizing** [+3]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+3]  *Reserve Pigeon Army* (8 hours later)
 >> 
 >> Um, we'll, 1 - it's already a game. It's called Super Smash Bros.. And 2 - of course there isn't inherently a plot, that's what I'M doing. Otherwise, what would be the point?
->> 
 
-> **u/ArmokGoB** [+3] *
+> **u/ArmokGoB** [+3]  (5 days later)
 > 
 > Suggestion: A multiverse setup, maybe inpired by https://www.fanfiction.net/s/5389450/1/The-Finale-of-the-Ultimate-Meta-Mega-Crossover , would make much more sense than trying to cram them into a single simultaneous universe.
-> 
 
->> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (5 days later)
 >> 
 >> I have since decided on a combination of both - some characters (Fox and Captain Falcon, and perhaps Samus) would exist in the same universe, because it easily makes sense and provides interesting intertwining backstories. And other 'verses, like Fire Emblem, Hyrule, and Dreamworld, would be universes of their own.
->> Luckily Kirby's Warp Stars provide easy transport between them. Hmm, maybe Fox can get a Warp Star-powered warp-drive made...
 >> 
+>> Luckily Kirby's Warp Stars provide easy transport between them. Hmm, maybe Fox can get a Warp Star-powered warp-drive made...
 
-> **u/TimTravel** [+2] *
+> **u/TimTravel** [+2]  (an hour later)
 > 
 > Aw man, Super Rational Bros would've been a great title. Super Rash...super Ratio....I can't make the spelling line up the pronunciation. Whatever.
-> 
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (an hour later)
 >> 
 >> That is precisely why I passed it over as an option for the title. Rash Bros. just doesn't work, and Ratio Bros. is silly.
->> I settled on Brothers of Smash.
 >> 
+>> I settled on Brothers of Smash.
 
-> **u/Anakiri** [+2] *
+> **u/Anakiri** [+2]  (7 hours later)
 > 
 > This seems like it could be an interesting worldbuilding exercise, and thinking about who could beat up who is always fun. (The Smash Bros. roster would need to be broken into tiers to be even remotely fair.) But I'm having trouble imagining any actual plot. Arbitrary tournaments aren't really interesting, as plots go, particularly since they put constraints on characterization. Why would the timid psychic toddler fight? Who would sign his release form? Why would the mountaineers fight? Why were they even invited? Why would the King of Evil consent to leave his Triforce at home so he's not literally invincible? Who explained the rules to the monkey?
-> In your place, I'd probably drop the entire fighting thing and just write a big crossover. But even then I'd have trouble writing an intelligent story where Link or Samus don't fix everything with time travel and overwhelming firepower.
 > 
+> In your place, I'd probably drop the entire fighting thing and just write a big crossover. But even then I'd have trouble writing an intelligent story where Link or Samus don't fix everything with time travel and overwhelming firepower.
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (7 hours later)
 >> 
 >> Good point about the tiers - I was just going to put a ton of restraints on some characters' wilder abilities.
->> As for a plot: Mwahahaha. No worries there. Delving into certain characters' histories led to some interesting ideas, and with the addition of the main character and his goals and motivations, it works out perfectly. The plot is not about the tournament - the tournament is merely a construct, a plot device. After the first arc, the tournament isn't even part of the story, at least not directly.
->> As for Gabon, unfortunately he does not compete. I could not think of a suitable reason any of the veterans would sponsor him.
->> Hey, Samus had some trouble there with Mother Brain - if not for the Baby Metroid, she'd have been toast. And Link, well - I'll think of something.
 >> 
+>> As for a plot: Mwahahaha. No worries there. Delving into certain characters' histories led to some interesting ideas, and with the addition of the main character and his goals and motivations, it works out perfectly. The plot is not about the tournament - the tournament is merely a construct, a plot device. After the first arc, the tournament isn't even part of the story, at least not directly.
+>> 
+>> As for Gabon, unfortunately he does not compete. I could not think of a suitable reason any of the veterans would sponsor him.
+>> 
+>> Hey, Samus had some trouble there with Mother Brain - if not for the Baby Metroid, she'd have been toast. And Link, well - I'll think of something.
 
-> **u/spiralingtides** [+2] *
+> **u/spiralingtides** [+2]  (6 days later)
 > 
 > The story behind the smash bros games, while quite different, might help.
-> The characters in the game are actually toys. They are being animated by the imagination of the child playing with them. When one character beats all the others, there is only one opponent remaining: the child. When the toy beats the hand of the child (master hand,) the child lets go and stops playing, thus rendering the character back to a toy. Pretty simple story, but it effectively explained why all those Nintendo characters were suddenly all in the same world and fighting.
-> Please, be careful with Samua. She isn't an easy character to write about.
 > 
+> The characters in the game are actually toys. They are being animated by the imagination of the child playing with them. When one character beats all the others, there is only one opponent remaining: the child. When the toy beats the hand of the child (master hand,) the child lets go and stops playing, thus rendering the character back to a toy. Pretty simple story, but it effectively explained why all those Nintendo characters were suddenly all in the same world and fighting.
+> 
+> Please, be careful with Samua. She isn't an easy character to write about.
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (6 days later)
 >> 
 >> I realize that to explain the situation in a simple, quick way, Nintendo invented that story, but that's definitely not what I'm going for with this fic. I'm essentially just making a mash-up of all of their 'verses, utilizing a multiverse concept combined with a few of the franchises actually existing side-by-side in the same universe.
->> I will of course try my best with Samus. As my story starts years after some mysterious tragic event in the Smash Bros. 'verse, many characters act differently than one might expect, but I will do my best to stay true to their games.
 >> 
+>> I will of course try my best with Samus. As my story starts years after some mysterious tragic event in the Smash Bros. 'verse, many characters act differently than one might expect, but I will do my best to stay true to their games.
 
->>> **u/spiralingtides** [+2] *
+>>> **u/spiralingtides** [+2]  (6 days later)
 >>> 
 >>> That's cool. I was just putting it out there in case it might have been helpful. You seem to got it under control though.
->>> 
 
->>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (7 days later)
 >>>> 
 >>>> It's pretty cemented by now, yeah. Thanks for your input!
->>>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 hours later)
 > 
 > One thing I think might be interesting is some investigation into the connections between the universes inbetween the games.
-> I always found [Tommy Westphall's Universe](http://knowyourmeme.com/memes/tommy-westphalls-universe) to be incredibly interesting, and a rational investigation into how all that could conceivably work would be cool. Since you're starting out with a fighter, it seems easy to have reasonably loose rules connecting most major video game franchises. Especially with the presence of Snake, my immediate question is where everyone, and everywhere, else is. Some reasonable discussions about this, and some cameos from disparate (non Smash) franchises would certainly be cool.
-> Considering they travel to numerous locations that are distinctly within eachothers' universes to fight, I'd like to see all the unique reactions the characters have to the situations they're put in. How would Link react to Zebes? What would Marth think of the fountain of dreams? What schemes would Dedede or Bowser get into when they find themselves in Saffron City? And, of course, how would the occupants there react to them?
 > 
+> I always found [Tommy Westphall's Universe](http://knowyourmeme.com/memes/tommy-westphalls-universe) to be incredibly interesting, and a rational investigation into how all that could conceivably work would be cool. Since you're starting out with a fighter, it seems easy to have reasonably loose rules connecting most major video game franchises. Especially with the presence of Snake, my immediate question is where everyone, and everywhere, else is. Some reasonable discussions about this, and some cameos from disparate (non Smash) franchises would certainly be cool.
+> 
+> Considering they travel to numerous locations that are distinctly within eachothers' universes to fight, I'd like to see all the unique reactions the characters have to the situations they're put in. How would Link react to Zebes? What would Marth think of the fountain of dreams? What schemes would Dedede or Bowser get into when they find themselves in Saffron City? And, of course, how would the occupants there react to them?
 
->> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (6 hours later)
 >> 
 >> I'm not starting "at the beginning", where none of the franchises have yet to cross over, and the characters have yet to meet: in the verse I'm building, they've always existed alongside each other. For example, Samus and Captain Falcon have been competing for the title of best Bounty Hunter for decades; Jigglypuff and Kirby hang out all the time; Peach and Zelda are best friends. The backstories and histories are all intertwined.
->> I'm starting at the "dawn" of the Brawl era, with the Melee fighters being the seasoned veterans and the others the aspiring newcomers to the scene. There's a ton of history with all all the characters, quite a few skeleton's in the respective closets, and more than a couple of major secrets being kept.
->> Zebes was pretty much destroyed by Samus, so they wouldn't hold matches there, but most of the other places will see the tournament visit. Kirby's Warp Stars are the most convenient form of travel for these types of situations.
 >> 
+>> I'm starting at the "dawn" of the Brawl era, with the Melee fighters being the seasoned veterans and the others the aspiring newcomers to the scene. There's a ton of history with all all the characters, quite a few skeleton's in the respective closets, and more than a couple of major secrets being kept.
+>> 
+>> Zebes was pretty much destroyed by Samus, so they wouldn't hold matches there, but most of the other places will see the tournament visit. Kirby's Warp Stars are the most convenient form of travel for these types of situations.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 hours later)
 >>> 
 >>> That still leaves open the question of new franchises. If Snake isn't already a veteran, then why is he competing now, and not before? And what about the franchises that have no competitors? If the people from there know about the tournament, why haven't they been competing? Are there some that don't know about the tournament? And why do some franchises (universes?) have multiple competitors, while others have one?
->>> And, continuing on the themes I was talking about before, how many past cameos before the tournament were legitimate? Did Link, Samus, and Mario know about eachother before they knew about the tournament? That goes along with your intertwined backstories thing. I suppose my point is that such things would be worth addressing specifically at some point.
->>> Edit: Also, a slight variation on my last paragraph on my last post still applies. What would Marth think of the fountain of dreams, even if he knew about it before? What schemes would Dedede or Bowser get into when they find themselves in Saffron City, even if they knew about it before?
 >>> 
+>>> And, continuing on the themes I was talking about before, how many past cameos before the tournament were legitimate? Did Link, Samus, and Mario know about eachother before they knew about the tournament? That goes along with your intertwined backstories thing. I suppose my point is that such things would be worth addressing specifically at some point.
+>>> 
+>>> Edit: Also, a slight variation on my last paragraph on my last post still applies. What would Marth think of the fountain of dreams, even if he knew about it before? What schemes would Dedede or Bowser get into when they find themselves in Saffron City, even if they knew about it before?
 
->>>> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>>>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (6 hours later)
 >>>> 
 >>>> In order to enter the Qualifiers as a newcomer, you have to be sponsored by a veteran.
->>>> All that you have mentioned will definitely addressed, though some characters more than others. The first arc is heavily focused on the main character, a newcomer (one not actually in any smash games to date), along with Captain Falcon, Fox McCloud, and a few others.
 >>>> 
+>>>> All that you have mentioned will definitely addressed, though some characters more than others. The first arc is heavily focused on the main character, a newcomer (one not actually in any smash games to date), along with Captain Falcon, Fox McCloud, and a few others.
 
-> **u/Rebuta** [+1] *
+> **u/Rebuta** [+1]  (12 hours later)
 > 
 > Links time travel
-> 
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (13 hours later)
 >> 
 >> It's not really something I'm going to touch on much in the first arc, but I definitely want to address it, and a time-travel arc with all the characters would be incredibly interesting. As soon as I iron out the mechanics of his time travel in this 'verse, I'll start applying it to existing conflicts and brainstorming for a future arc.
->> Edit - left out a word. Luckily I can effectively time-travel to put it in.
 >> 
+>> Edit - left out a word. Luckily I can effectively time-travel to put it in.
 
-> **u/LeonCross** [+1] *
+> **u/LeonCross** [+1]  (2 days later)
 > 
 > Well. Are you planning on keeping the characters powers and abilities (Including durability, destructive capabilities, etc) consistent with their in universe showings?
-> If you decide to do that, you'll have to do a fair amount of research into them. Thankfully there's a few websites and even a wiki for that.
 > 
+> If you decide to do that, you'll have to do a fair amount of research into them. Thankfully there's a few websites and even a wiki for that.
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (2 days later)
 >> 
 >> Yes, for the most part, with a few tweaks for otherwise-overpowered beings.
->> I downloaded a variety of wiki pages for each of the characters and their respective 'verses, and have been reading through and noting down everything important and relevant. Definitely more research than I've ever done for a fanfic before.
 >> 
+>> I downloaded a variety of wiki pages for each of the characters and their respective 'verses, and have been reading through and noting down everything important and relevant. Definitely more research than I've ever done for a fanfic before.
 
-> **u/Rheaeus** [+0] *
+> **u/Rheaeus** [+0]  (12 hours later)
 > 
 > What are you going to do with subspace and Tabuu?
-> 
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (13 hours later)
 >> 
 >> Definitely not counting Subspace as canon. That storyline was completely removed from everything else, 100% self-contained.
->> 
 
 ---
 

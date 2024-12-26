@@ -2,7 +2,7 @@
 
 * Author: u/westward101 *
 * URL: https://www.reddit.com/r/rational/comments/dmxejd/rattle_fiction_now_on_itunes/
-* Score: 19
+* Score: 20
 
 * Created: 2019-10-25T13:23:59
 
@@ -20,40 +20,33 @@ Enjoy!
 
 ### Comments:
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (an hour later)
 > 
 > I don't usually listen to audible anything, but in this case I would like to have my own offline copies. Which site do people prefer?
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (17 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> Thanks.
->>> 
 
->>> **u/westward101** [+1] *
+>>> **u/westward101** [+1]  (3 days later)
 >>> 
 >>> Yep, you should be able to download file from Soundcloud as a logged in user.
->>> 
 
-> **u/Thulahn** [+2] *
+> **u/Thulahn** [+2]  (19 hours later)
 > 
 > Subscribed!
-> 
 
-> **u/CeruleanTresses** [+2] *
+> **u/CeruleanTresses** [+2]  (2 days later)
 > 
 > Congrats!
-> 
 
-> **u/Hidden-50** [+1] *
+> **u/Hidden-50** [+1]  (7 hours later)
 > 
 > Slight inconsistency in episode names ("Part 1" vs. "Part Two")
-> 
 
 ---
 

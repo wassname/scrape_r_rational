@@ -2,7 +2,7 @@
 
 * Author: u/MoralRelativity *
 * URL: https://practicalguidetoevil.wordpress.com/2017/06/21/chapter-15-bestowal/
-* Score: 31
+* Score: 32
 
 * Created: 2017-06-21T04:19:01
 
@@ -12,152 +12,163 @@
 
 ### Comments:
 
-> **u/None** [+8] *
+> **u/None** [+9]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/JdubCT** [+5] *
+>> **u/JdubCT** [+5]  (13 hours later)
 >> 
 >> Why do people think she lost her third aspect here? From how I read it she just gained a scarily powerful one.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (15 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/JdubCT** [+5] *
+>>>> **u/JdubCT** [+6]  (15 hours later)
 >>>> 
 >>>> Yeah. Filled with the new aspect. But even if it isn't a new aspect I doubt it's less powerful than one. Like being made into a duke level fae.  
->>>> Remember, black is a nightmare because of his shadows and inherent nature. Not because of his silly trump cards.
 >>>> 
+>>>> Remember, black is a nightmare because of his shadows and inherent nature. Not because of his silly trump cards.
 
-> **u/TwoxMachina** [+9] *
+> **u/TwoxMachina** [+8]  (12 hours later)
 > 
 > Looks like Cat just became the
+> 
 > Black Night. :P
+> 
 > The King had an entirely novel way to conquer a city. Give the current leader a title under you and ask for no allegiance.
+> 
 > And now she's a double Duchess, so I wonder how the Empress will react to that.
 > As well as to the claim that Marchfort is now a city of the fae.
-> 
 
-> **u/Arganthonius** [+5] *
+> **u/Arganthonius** [+3]  (9 hours later)
 > 
 > She only has six months? He said you have six times the coming of your title, which is "Duchess of Moonless Nights". Seems a little unreasonable. I thought it was six times the coming of winter, which is more realistic. He's only asking her to break the story that governs the two courts of Fae.
-> 
 
->> **u/TwoxMachina** [+3] *
+>> **u/TwoxMachina** [+4]  (10 hours later)
 >> 
 >> Might be that Fae titles are renewed every year. Winter comes, and the Duchess of the Moonless Nights is here.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (11 hours later)
 >>> 
 >>> I wonder what happens to Cat if she gets her heart back. Can she become human again? Will she always have the Duchess of Moonless Nights title, or will she lose it at the start of the new year? Can she be both human and hold a Fae title?
->>> 
 
->>>> **u/TwoxMachina** [+2] *
+>>>> **u/TwoxMachina** [+2]  (12 hours later)
 >>>> 
 >>>> There's also the issue with how to get the heart back.
+>>>> 
 >>>> Cause, she needs to kill the Winter King to get it.
 >>>> But, as he said, Winter keeps what you kill.
 >>>> So, if she does, she's now Queen of Winter.
->>>> EDIT: Oh wait, my mistake. She just needs to finish the war to get her heart back.
 >>>> 
+>>>> EDIT: Oh wait, my mistake. She just needs to finish the war to get her heart back.
 
->>>>> **u/None** [+7] *
+>>>>> **u/None** [+6]  (12 hours later)
 >>>>> 
 >>>>> Related to this is an interesting callback in wording,
+>>>>> 
 >>>>> >“Your signet ring,” I said. “I want it. I also want to have always had it.”  
 >>>>>   ...  
->>>>> > It did not even take a heartbeat. Instantaneous would have been wrong still – it had always been the case that the water in my eyes was frozen.   
->>>>> I think Cat's keeping this power.
->>>>> Edit: Has Cat ever cried in this story? Maybe the water in her eyes always was frozen.
 >>>>> 
+>>>>> > It did not even take a heartbeat. Instantaneous would have been wrong still – it had always been the case that the water in my eyes was frozen.   
+>>>>> 
+>>>>> I think Cat's keeping this power.
+>>>>> 
+>>>>> Edit: Has Cat ever cried in this story? Maybe the water in her eyes always was frozen.
 
->>>>>> **u/JdubCT** [+6] *
+>>>>>> **u/JdubCT** [+6]  (13 hours later)
 >>>>>> 
 >>>>>> The only time she's cried is when creation fucked with her narrative after she let Lone Swordsman go free. When Black hanged the rebellion.
->>>>>> 
 
-> **u/MoralRelativity** [+3] *
+> **u/MoralRelativity** [+3]  (a minute later)
 > 
 > I haven't read this yet but I feel the title may be a little bit of a spoiler this time.
-> 
 
->> **u/JdubCT** [+6] *
+>> **u/JdubCT** [+7]  (15 minutes later)
 >> 
 >> Read it now! Holy crap things just went into fifth gear.
->> 
 
->>> **u/MoralRelativity** [+5] *
+>>> **u/MoralRelativity** [+6]  (2 hours later)
 >>> 
 >>> Wow, just... Wow.
->>> Loved the imagery. Summer is 100 x worse than any previous challenge Catherine has faced. Archer will be a good asset but I don't know how the hell Catherine is going to overcome. (And how Heiress is going to try to fuck it up for her.)
->>> This is an awesome set up for the rest of this book.
 >>> 
+>>> Loved the imagery. Summer is 100 x worse than any previous challenge Catherine has faced. Archer will be a good asset but I don't know how the hell Catherine is going to overcome. (And how Heiress is going to try to fuck it up for her.)
+>>> 
+>>> This is an awesome set up for the rest of this book.
 
->>>> **u/JdubCT** [+3] *
+>>>> **u/JdubCT** [+4]  (2 hours later)
 >>>> 
 >>>> I'm sure our Duchess has it well in hand.
->>>> 
 
->>>>> **u/sitsthewind** [+3] *
+>>>>> **u/sitsthewind** [+3]  (2 hours later)
 >>>>> 
 >>>>> > I'm sure our Duchess has it well in hand. 
->>>>> No; you believe that she has well in hand because *that is the Story*.
 >>>>> 
+>>>>> No; you believe that she has well in hand because *that is the Story*.
 
->>>>>> **u/MoralRelativity** [+3] *
+>>>>>> **u/MoralRelativity** [+3]  (2 hours later)
 >>>>>> 
 >>>>>> Insightful.
->>>>>> 
 
->>>>>>> **u/sitsthewind** [+8] *
+>>>>>>> **u/sitsthewind** [+9]  (3 hours later)
 >>>>>>> 
 >>>>>>> I'm still trying to articulate this point fully, but I enjoy what Practical Guide does to our (as the reader's) sense of narrative.
->>>>>>> We know, at the end of the day, that Cat will win. The question becomes - how does she win? What does she give up? For example, in today's chapter, she gave up her literal heart. 
->>>>>>> At the same time, we know Cat's world works within narratives/stories. She "fits" her story within that of the Orphan Squire to beat the Swordsman. She "fits" her story to touch the power of the daughter-killing-her-father and therefore defeat the Duke of Violent Squalls. Today's chapter (King setting her a task) sounds like the start of a Story, but the question to the reader is: which story are we going to see?
->>>>>>> So as the reader, we wonder: which story is the author going to "fit" this into? King setting an impossible task to get rid of a "faithless" steward (focusing on the relationship between the King and Cat, like Hercules or other [Impossible Tasks](http://tvtropes.org/pmwiki/pmwiki.php/Main/ImpossibleTask))? Group of people [questing](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuest) to save their friend (focusing on Cat's heart-loss)? Hero trying to defeat great evil (focusing on the war against Summer)?
->>>>>>> But at the end of the day, we believe that Cat will win. Because that is the unspoken compact between author (erraticerrata) and reader. If not, *why are we reading this*?
 >>>>>>> 
+>>>>>>> We know, at the end of the day, that Cat will win. The question becomes - how does she win? What does she give up? For example, in today's chapter, she gave up her literal heart. 
+>>>>>>> 
+>>>>>>> At the same time, we know Cat's world works within narratives/stories. She "fits" her story within that of the Orphan Squire to beat the Swordsman. She "fits" her story to touch the power of the daughter-killing-her-father and therefore defeat the Duke of Violent Squalls. Today's chapter (King setting her a task) sounds like the start of a Story, but the question to the reader is: which story are we going to see?
+>>>>>>> 
+>>>>>>> So as the reader, we wonder: which story is the author going to "fit" this into? King setting an impossible task to get rid of a "faithless" steward (focusing on the relationship between the King and Cat, like Hercules or other [Impossible Tasks](http://tvtropes.org/pmwiki/pmwiki.php/Main/ImpossibleTask))? Group of people [questing](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuest) to save their friend (focusing on Cat's heart-loss)? Hero trying to defeat great evil (focusing on the war against Summer)?
+>>>>>>> 
+>>>>>>> But at the end of the day, we believe that Cat will win. Because that is the unspoken compact between author (erraticerrata) and reader. If not, *why are we reading this*?
 
->>>>>>>> **u/MoralRelativity** [+5] *
+>>>>>>>> **u/MoralRelativity** [+4]  (4 hours later)
 >>>>>>>> 
 >>>>>>>> > We know, at the end of the day, that Cat will win. The question becomes - how does she win? What does she give up? For example, in today's chapter, she gave up her literal heart.
->>>>>>>> And her third aspect; she's sacrificed whatever it might have been.
->>>>>>>> > So as the reader, we wonder: which story is the author going to "fit" this into? King setting an impossible task to get rid of a "faithless" steward (focusing on the relationship between the King and Cat, like Hercules or other Impossible Tasks)?
->>>>>>>> That's a good possibility given the attitude of the Winter King.
->>>>>>>> > Group of people questing to save their friend (focusing on Cat's heart-loss)?
->>>>>>>> > Hero trying to defeat great evil (focusing on the war against Summer)?
->>>>>>>> These two are virtual certainties.
->>>>>>>> > But at the end of the day, we believe that Cat will win. Because that is the unspoken compact between author (erraticerrata) and reader. If not, why are we reading this?
->>>>>>>> Yes, indeed. It seems to me that Cat always loses something when she wins. I fully expect Killian to either betray Cat or die (or both) before the end of this story.
->>>>>>>> Whatever happens it's going to continue to be more complex and nuanced than can be captured in any one sentence story plot line. I think Heiress (or should I say, the Diabolist) is going to be part of the story to the end; and she always adds an unpredictable element in my view.
 >>>>>>>> 
+>>>>>>>> And her third aspect; she's sacrificed whatever it might have been.
+>>>>>>>> 
+>>>>>>>> > So as the reader, we wonder: which story is the author going to "fit" this into? King setting an impossible task to get rid of a "faithless" steward (focusing on the relationship between the King and Cat, like Hercules or other Impossible Tasks)?
+>>>>>>>> 
+>>>>>>>> That's a good possibility given the attitude of the Winter King.
+>>>>>>>> 
+>>>>>>>> > Group of people questing to save their friend (focusing on Cat's heart-loss)?
+>>>>>>>> 
+>>>>>>>> > Hero trying to defeat great evil (focusing on the war against Summer)?
+>>>>>>>> 
+>>>>>>>> These two are virtual certainties.
+>>>>>>>> 
+>>>>>>>> > But at the end of the day, we believe that Cat will win. Because that is the unspoken compact between author (erraticerrata) and reader. If not, why are we reading this?
+>>>>>>>> 
+>>>>>>>> Yes, indeed. It seems to me that Cat always loses something when she wins. I fully expect Killian to either betray Cat or die (or both) before the end of this story.
+>>>>>>>> 
+>>>>>>>> Whatever happens it's going to continue to be more complex and nuanced than can be captured in any one sentence story plot line. I think Heiress (or should I say, the Diabolist) is going to be part of the story to the end; and she always adds an unpredictable element in my view.
 
->>>>>>>>> **u/sitsthewind** [+6] *
+>>>>>>>>> **u/sitsthewind** [+6]  (8 hours later)
 >>>>>>>>> 
 >>>>>>>>> > And her third aspect; she's sacrificed whatever it might have been.
->>>>>>>>> Am I missing something - does it say so explicitly? This is the part:
->>>>>>>>> > Power pulsed in my chest, spreading through my veins. I felt the third part of my soul, the missing aspect I had yet to forge, fill with something old and too large to comprehend.
->>>>>>>>> > “I stand by my oath, dead thing,” I rasped. “Before my days are done *I will see you unmade*.”
->>>>>>>>> It doesn't sound like she's sacrificed the third aspect - just that it's affected by Winter powers. Could she lay claim to the name "Make"? (It's repeated several times - she says she'll see the King unmade; the King charges her with the making of peace.) The third aspect was also triggered by the ice entering her heart. If she gets her heart back, does she get the third aspect back?
->>>>>>>>> Alternatively - Masego did mention in Book II Chapter 27 (Cut) that the name of the Squire was permanently crippled - it would fit if she never gained that third aspect, with the winter powers being the replacement. 
->>>>>>>>> Another speculation - the Snow Queen fable can be about a girl with a shard of ice inside her heart. Would also fit into the idea of castle building and the image of Winter that Cat sees.
 >>>>>>>>> 
+>>>>>>>>> Am I missing something - does it say so explicitly? This is the part:
+>>>>>>>>> 
+>>>>>>>>> > Power pulsed in my chest, spreading through my veins. I felt the third part of my soul, the missing aspect I had yet to forge, fill with something old and too large to comprehend.
+>>>>>>>>> 
+>>>>>>>>> > “I stand by my oath, dead thing,” I rasped. “Before my days are done *I will see you unmade*.”
+>>>>>>>>> 
+>>>>>>>>> It doesn't sound like she's sacrificed the third aspect - just that it's affected by Winter powers. Could she lay claim to the name "Make"? (It's repeated several times - she says she'll see the King unmade; the King charges her with the making of peace.) The third aspect was also triggered by the ice entering her heart. If she gets her heart back, does she get the third aspect back?
+>>>>>>>>> 
+>>>>>>>>> Alternatively - Masego did mention in Book II Chapter 27 (Cut) that the name of the Squire was permanently crippled - it would fit if she never gained that third aspect, with the winter powers being the replacement. 
+>>>>>>>>> 
+>>>>>>>>> Another speculation - the Snow Queen fable can be about a girl with a shard of ice inside her heart. Would also fit into the idea of castle building and the image of Winter that Cat sees.
 
->>>>>>>>>> **u/Iconochasm** [+8] *
+>>>>>>>>>> **u/Iconochasm** [+9]  (10 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> It was explicitly said at some point that only that iteration of Squire was crippled.  The goblin who stole it would have been able to get 3, and Squire!Cat2.0 is able to get 3.
->>>>>>>>>> 
 
->>>>>> **u/JdubCT** [+2] *
+>>>>>> **u/JdubCT** [+2]  (9 hours later)
 >>>>>> 
 >>>>>> That was mostly sarcasm on my part. Cat's style of "winning" a game is flipping over the chess board then throwing pawns at the opponent's eyes while stomping on their feet.
->>>>>> Things are going to be chaos.
 >>>>>> 
+>>>>>> Things are going to be chaos.
 
 ---
 

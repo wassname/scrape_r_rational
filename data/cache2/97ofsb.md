@@ -50,76 +50,63 @@ Next time, the challenge will be **Conversion**. Conversion is the changing from
 
 ### Comments:
 
-> **u/xXnormanborlaugXx** [+30]  *Challenge Winner**
+> **u/xXnormanborlaugXx** [+30]  *Challenge Winner* (10 hours later)
 > 
 > [Eat Shit Silverstein](https://docs.google.com/document/d/1w3ypE5BTEsrh-ETOb8ghwpAaitdGYNquNf8J9tM_smA/edit?usp=sharing) (1702 words)
-> 
 
->> **u/kraryal** [+8] *
+>> **u/kraryal** [+9]  (17 hours later)
 >> 
 >> I really liked this one. It covered the viewpoint nicely, I could tell what was going on, the dramatic arc flowed well. The alient felt really alien too, not just a reskinned human or animal.
->> 
 
->> **u/zombieking26** [+2] *
+>> **u/zombieking26** [+2]  (a day later)
 >> 
 >> That was pretty great!
->> 
 
->> **u/causalchain** [+2] *
+>> **u/causalchain** [+2]  (10 days later)
 >> 
 >> Is [this](https://en.wikipedia.org/wiki/The_Giving_Tree) what your title is referencing?
->> 
 
->>> **u/xXnormanborlaugXx** [+2]  *Challenge Winner**
+>>> **u/xXnormanborlaugXx** [+2]  *Challenge Winner* (10 days later)
 >>> 
 >>> Yes!
->>> 
 
->> **u/makoConstruct** [+2]  *Praises of Nayru, FLI Worldbuilding**
+>> **u/makoConstruct** [+2]  *Praises of Nayru, FLI Worldbuilding* (a month later)
 >> 
 >> The least obvious thing to cry over that I've ever cried over. Mad respect.
->> Have you ever heard of [these penguins](https://www.youtube.com/watch?v=zWH_9VRWn8Y&t=3s), who like to wander insanely? There's an important commonality here. Mutation, as it exists in systems of ideas. The precept corresponding to mutation. It invites us to risk our lives in pursuit of imagined frontiers that we can't yet see, frontiers that reasonable members of our species don't believe in. Usually it kills us, but sometimes it doesn't. So we each hurl ourselves towards our frontier, we're all pointed in different directions, but mutation is one of the three ingredients of evolution, every living thing carries some version of that same basic drive.
 >> 
+>> Have you ever heard of [these penguins](https://www.youtube.com/watch?v=zWH_9VRWn8Y&t=3s), who like to wander insanely? There's an important commonality here. Mutation, as it exists in systems of ideas. The precept corresponding to mutation. It invites us to risk our lives in pursuit of imagined frontiers that we can't yet see, frontiers that reasonable members of our species don't believe in. Usually it kills us, but sometimes it doesn't. So we each hurl ourselves towards our frontier, we're all pointed in different directions, but mutation is one of the three ingredients of evolution, every living thing carries some version of that same basic drive.
 
-> **u/None** [+21] *
+> **u/None** [+20]  (a day later)
 > 
 > [Xenogastronomy](https://vi-fi.github.io/Xenogastronomy) (3800 words)
-> 
 
->> **u/Krossfireo** [+3] *
+>> **u/Krossfireo** [+3]  (7 days later)
 >> 
 >> I really like this one, the changing mentality of the narrator is one of my favorite story devices
->> 
 
-> **u/SimoneNonvelodico** [+17]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+16]  *Dai-Gurren Brigade* (3 days later)
 > 
 > [Schwarz's Child](https://archiveofourown.org/works/15731304) (1712 words)
-> 
 
->> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (6 days later)
 >> 
 >> I try to limit and schedule my crying for when i re-watch grave of the fireflies.  That hurt.
->> 
 
->> **u/Ascendant_Mind_01** [+2] *
+>> **u/Ascendant_Mind_01** [+2]  (22 days later)
 >> 
 >> The ending was so sad.
->> 
 
-> **u/SamuelTailor** [+13]  *Biweekly Challenge Winner**
+> **u/SamuelTailor** [+11]  *Biweekly Challenge Winner* (2 days later)
 > 
 > [Promoted Into Darkness](https://docs.google.com/document/d/1fMrWWVAWFObFTXxqipTjBOqjVz7g5Y7tldSBrwypQVE/edit?usp=sharing) (850 words)
-> 
 
->> **u/PlaneOfInfiniteCats** [+2] *
+>> **u/PlaneOfInfiniteCats** [+2]  (20 days later)
 >> 
 >> Is that a life description of a fig tree wasp life, by any chance?
->> 
 
->>> **u/SamuelTailor** [+1]  *Biweekly Challenge Winner**
+>>> **u/SamuelTailor** [+1]  *Biweekly Challenge Winner* (20 days later)
 >>> 
 >>> Yes! From Dawkins' *Climbing Mount Improbable*. The description of their life cycle really shook me up.
->>> 
 
 ---
 

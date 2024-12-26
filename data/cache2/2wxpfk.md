@@ -2,7 +2,7 @@
 
 * Author: u/raymestalez *
 * URL: https://www.reddit.com/r/rational/comments/2wxpfk/q_what_are_some_of_your_favorite_blogs_andor/
-* Score: 8
+* Score: 6
 
 * Created: 2015-02-24T00:58:52
 
@@ -16,16 +16,18 @@ But feel free to recommend cool stuff about any subject that you enjoy =)
 
 ### Comments:
 
-> **u/alexanderwales** [+7]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (2 hours later)
 > 
 > [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting) is one of my favorite Youtube channels, since it's a very in-depth look at storytelling, and since I love film.
-> [Write About Dragons](https://www.youtube.com/user/WriteAboutDragons) has all of Brandon Sanderson's Creative Writing classes, which I've found interesting (if a little 101) - doesn't update regularly though.
-> [CGP Grey](https://www.youtube.com/user/CGPGrey) has exceptionally well-produced videos about a variety of esoteric subjects.
 > 
+> [Write About Dragons](https://www.youtube.com/user/WriteAboutDragons) has all of Brandon Sanderson's Creative Writing classes, which I've found interesting (if a little 101) - doesn't update regularly though.
+> 
+> [CGP Grey](https://www.youtube.com/user/CGPGrey) has exceptionally well-produced videos about a variety of esoteric subjects.
 
-> **u/DataPacRat** [+6]  *Amateur Immortalist**
+> **u/DataPacRat** [+7]  *Amateur Immortalist* (an hour later)
 > 
 > Let's see if I can just copy-and-paste from my RSS reader. (If it doesn't work, I'll have to edit this post.)
+> 
 >       <outline text="A-list" rssowl:isSet="false" rssowl:id="436">
 >         <outline text="A-list - rationality" rssowl:isSet="false" rssowl:id="442">
 >           <outline text="A-list - LW - Yudkowsky" rssowl:isSet="false" rssowl:id="1022331">
@@ -106,11 +108,11 @@ But feel free to recommend cool stuff about any subject that you enjoy =)
 >           <outline text="Input Junkie" xmlUrl="http://nancylebov.livejournal.com/data/rss" rssowl:id="1022694" />
 >           <outline text="ribbonfarm" xmlUrl="http://feeds.ribbonfarm.com/Ribbonfarm" rssowl:id="1057915" />
 >         </outline>
-> 
 
->> **u/DataPacRat** [+3]  *Amateur Immortalist**
+>> **u/DataPacRat** [+3]  *Amateur Immortalist* (an hour later)
 >> 
 >> Since that worked, let's try a few more:
+>> 
 >>       <outline text="Webcomics" rssowl:isSet="false" rssowl:id="601">
 >>         <outline text="Ape, not monkey" xmlUrl="http://www.apenotmonkey.com/feed/" rssowl:id="604" />
 >>         <outline text="PHD Comics" xmlUrl="http://www.phdcomics.com/gradfeed.php" rssowl:id="609" />
@@ -181,21 +183,22 @@ But feel free to recommend cool stuff about any subject that you enjoy =)
 >>         <outline text="reddit cryonics" xmlUrl="http://www.reddit.com/r/cryonics/.rss" rssowl:id="884" />
 >>         <outline text="reddit cryonics comments" xmlUrl="http://www.reddit.com/r/cryonics/comments/.rss" rssowl:id="863099" />
 >>       </outline>
->> 
 
-> **u/Timewinders** [+2] *
+> **u/Timewinders** [+2]  (an hour later)
 > 
 > Not sure whether it counts as a blog, but the xkcd [what ifs](https://what-if.xkcd.com/) are often interesting to read.
-> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 hours later)
 > 
 > Here are links to a few interesting blog entries:
-> [Dark Arts of Rationality](http://mindingourway.com/dark-arts-of-rationality/)
-> [Eliezer's Writing Advice](http://yudkowsky.tumblr.com/writing)
-> [Awesome Anniversary Post](http://blog.jaibot.com/?p=413)
-> They are links to the most interesting entries, but I suggest poking around to see what else the authors have written.
 > 
+> [Dark Arts of Rationality](http://mindingourway.com/dark-arts-of-rationality/)
+> 
+> [Eliezer's Writing Advice](http://yudkowsky.tumblr.com/writing)
+> 
+> [Awesome Anniversary Post](http://blog.jaibot.com/?p=413)
+> 
+> They are links to the most interesting entries, but I suggest poking around to see what else the authors have written.
 
 ---
 

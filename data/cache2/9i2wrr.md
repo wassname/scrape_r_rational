@@ -2,7 +2,7 @@
 
 * Author: u/melmonella  *Tremble, o ye mighty, for a new age is upon you**
 * URL: https://www.reddit.com/r/rational/comments/9i2wrr/bormor_little_boy/
-* Score: 26
+* Score: 28
 
 * Created: 2018-09-22T20:43:23
 
@@ -50,80 +50,75 @@ ___
 
 ### Comments:
 
-> **u/None** [+13] *
+> **u/None** [+15]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you* (2 hours later)
 >> 
 >> I don't particularily see how that'd be relevant, to be honest. Story works on it's own.
->> 
 
->>> **u/alexanderwales** [+17]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+18]  *Time flies like an arrow* (5 hours later)
 >>> 
 >>> Eh, the story is basically saying:
+>>> 
 >>> 1. The opposition are liars
 >>> 2. Most people who believe the opposition are idiots
 >>> 3. Most people are unthinking morons who will repeat things they know not to be true even though they've seen otherwise with their own eyes
->>> It's basically the story that you'd write if you wanted a fully general defense against criticism via parable, and I think that's worth pointing out, especially if that's one of the intended purposes of someone writing this story.
 >>> 
+>>> It's basically the story that you'd write if you wanted a fully general defense against criticism via parable, and I think that's worth pointing out, especially if that's one of the intended purposes of someone writing this story.
 
->>>> **u/exceptioncause** [+3] *
+>>>> **u/exceptioncause** [+3]  (a day later)
 >>>> 
 >>>> In the original Andersen's story the boy was stating the obvious, not criticizing, in this story we see "obvious" as a prepared thing. Though it tells a lot about the current Russian political discourse that the story was instantly applied to it.
->>>> 
 
->>>> **u/melmonella** [+8]  *Tremble, o ye mighty, for a new age is upon you**
+>>>> **u/melmonella** [+11]  *Tremble, o ye mighty, for a new age is upon you* (11 hours later)
 >>>> 
 >>>> To me, it seems like a retelling of The Emperor's New Clothes. I don't know where commenters got the alleged political context, I don't see it myself and it's not stated in the original. Adding it seems like mudding a perfectly good story with politics.
->>>> 
 
->>> **u/CouteauBleu** [+8]  *We are the Empire.**
+>>> **u/CouteauBleu** [+9]  *We are the Empire.* (12 hours later)
 >>> 
 >>> I'd say the story fails on it own, personally.
->>> And yes, it's obviously political. It's about dishonest conspirators trying to stage a coup.
 >>> 
+>>> And yes, it's obviously political. It's about dishonest conspirators trying to stage a coup.
 
->>>> **u/melmonella** [+6]  *Tremble, o ye mighty, for a new age is upon you**
+>>>> **u/melmonella** [+3]  *Tremble, o ye mighty, for a new age is upon you* (12 hours later)
 >>>> 
 >>>> It's political if you go out of your way to see it as political. Conspiracies and coups are not inherently political, unless you claim Game of Thrones is a highly politicised show.
->>>> It's a rationalization of a well-known fable, in line with about two thousand other such rationalizations author has written over the years. Of course you can read whatever you want into whatever you want, but saying author definitely intended it to be a critique of politics is really disingenious.
 >>>> 
+>>>> It's a rationalization of a well-known fable, in line with about two thousand other such rationalizations author has written over the years. Of course you can read whatever you want into whatever you want, but saying author definitely intended it to be a critique of politics is really disingenious.
 
->>>>> **u/nytelios** [+2] *
+>>>>> **u/nytelios** [+2]  (2 days later)
 >>>>> 
 >>>>> > Conspiracies and coups are not inherently political
->>>>> What?
->>>>> Some fables naturally lend themselves to a political bent. I agree that the short story and the author's intent are open to intepretation, like most other great stories, and it doesn't *need* to be shoehorned as a critique of politics. But it's not too far-fetched to say the shape of the story primes the political part of our collective consciousness.
 >>>>> 
+>>>>> What?
+>>>>> 
+>>>>> Some fables naturally lend themselves to a political bent. I agree that the short story and the author's intent are open to intepretation, like most other great stories, and it doesn't *need* to be shoehorned as a critique of politics. But it's not too far-fetched to say the shape of the story primes the political part of our collective consciousness.
 
->> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (12 hours later)
 >> 
 >> That's one of the beauties of short stories like this: you let your imagination to work out the context. What you see is up to you :)
->> 
 
-> **u/CouteauBleu** [+9]  *We are the Empire.**
+> **u/CouteauBleu** [+8]  *We are the Empire.* (12 hours later)
 > 
 > > You are our only hope in this. Well, and a dozen other such boys, just in case, but that's details.
-> I love-hate sentences like this. They show up everywhere in political fiction, and they're so reflective of how most people represent their political opposition: as this guy who is consciously being dishonest and mercenary in a really naked way, just to make sure everyone who's "not an idiot" realizes how wrong they are.
 > 
+> I love-hate sentences like this. They show up everywhere in political fiction, and they're so reflective of how most people represent their political opposition: as this guy who is consciously being dishonest and mercenary in a really naked way, just to make sure everyone who's "not an idiot" realizes how wrong they are.
 
-> **u/_immute_** [+2]  *Secretly Awesome**
+> **u/_immute_** [+2]  *Secretly Awesome* (a day later)
 > 
 > Why/how is it listed as published in 2020 on the original site?
-> 
 
->> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (a day later)
 >> 
 >> LJ lets you choose the date of posting. It's convenient, for example, when you want a post to appear on top of your blog for a long time, but don't want to pin it (as you can only pin one post).
->> Why does Bormor post everything two years into the future? Dunno.
 >> 
+>> Why does Bormor post everything two years into the future? Dunno.
 
->>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast* (3 days later)
 >>> 
 >>> Something something time travel .
->>> 
 
 ---
 

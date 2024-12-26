@@ -2,7 +2,7 @@
 
 * Author: u/nohat *
 * URL: https://www.reddit.com/r/rational/comments/dpuni2/half_horror_short/
-* Score: 12
+* Score: 11
 
 * Created: 2019-10-31T21:54:46
 
@@ -60,72 +60,66 @@ Unless... Egil slowly looked over, seeing his duplicate lying next to him. He di
 
 ### Comments:
 
-> **u/CCC_037** [+7] *
+> **u/CCC_037** [+6]  (12 hours later)
 > 
 > For being the half *without* the language skills, this half is surprisingly well-spoken.
-> 
 
->> **u/nohat** [+5] *
+>> **u/nohat** [+5]  (18 hours later)
 >> 
 >> Heh, I usually can't stand when narrative style tries to reflect the insanity of a character. In most cases it just makes the description incoherent and painful. So it may be less likely he would verbalize his thoughts like this, but as a story about his thought process, entirely from his perspective, I'm not sure how to convey that properly otherwise. Probably a better author could do so just with images. But to take your comment seriously, I'm no neurosurgeon, but from researching this procedure I think this capability within the plausible range. The brain typically has distributed capability, and can recover remarkably well. Keyword: Majority.
->> 
 
->>> **u/CCC_037** [+4] *
+>>> **u/CCC_037** [+4]  (19 hours later)
 >>> 
 >>> I remember reading a book some years back (a brief Google tells me that it was "Peace On Earth" by Stanislaw Lem) in which the narrator had had his brain bisected in a bizarre accident. In his case, each half of the brain retained control of half of the body; the narration was carried out by the left brain, since the right brain couldn't talk (but was clearly still active, since, among other things, it would pinch the bottom of any blonde the narrator passed - which got the narrator slapped about half the time and his right-brain twin slapped the other half the time).
->>> I have absolutely no idea how accurate Lem's description of the two halves of the brain were (or even were intended to be) but if you can find a copy of the book, I can heartily recommend it; the protagonist remains same, merely unable to think in certain ways and with half his body under control of someone he can't quite communicate with.
 >>> 
+>>> I have absolutely no idea how accurate Lem's description of the two halves of the brain were (or even were intended to be) but if you can find a copy of the book, I can heartily recommend it; the protagonist remains same, merely unable to think in certain ways and with half his body under control of someone he can't quite communicate with.
 
->>>> **u/nohat** [+1] *
+>>>> **u/nohat** [+1]  (a day later)
 >>>> 
 >>>> Thanks, I'll check it out. It sounds reasonably plausible to me [for instance this guy](https://www.youtube.com/watch?v=ZMLzP1VCANo). Though this guy doesn't have all connections severed. Not sure how plausible the emerging disagreement between the halves is.
->>>> 
 
->>>>> **u/CCC_037** [+2] *
+>>>>> **u/CCC_037** [+2]  (a day later)
 >>>>> 
 >>>>> The disagreement seemed quite plausible; both halves wanted to protect themselves (and each other) but were starting with different information and reacting to it in different ways, with their *biggest* problem being their inability to explain to each other what they were thinking.
->>>>> 
 
-> **u/zaxqs** [+5] *
+> **u/zaxqs** [+3]  (3 days later)
 > 
 > Oh shit this could have happened and we'd never even know.
-> 
 
->> **u/nohat** [+3] *
+>> **u/nohat** [+3]  (3 days later)
 >> 
 >> Terrifyingly I believe it is indeed possible. In researching this I found that postop eeg and ecog indicate continued activity in the other hemisphere. The brain can be quite amazing at recovering, even in cases where it is more than half missing.  
->> On the other hand this procedure is typically done in children with a significantly damaged hemisphere, that may not be capable of thought. Plus I'm not a doctor so who knows.
->> It does make for some really strange and difficult moral and existential questions.
 >> 
+>> On the other hand this procedure is typically done in children with a significantly damaged hemisphere, that may not be capable of thought. Plus I'm not a doctor so who knows.
+>> 
+>> It does make for some really strange and difficult moral and existential questions.
 
->>> **u/zaxqs** [+2] *
+>>> **u/zaxqs** [+2]  (3 days later)
 >>> 
 >>> Yeah if one hemisphere can recover then why can't the other? The brain cells are still alive in the other hemisphere, right? Or not?
->>> 
 
->>>> **u/nohat** [+3] *
+>>>> **u/nohat** [+4]  (3 days later)
 >>>> 
 >>>> The isolated hemisphere is the more damaged one (since that is where the seizures are originating). So it would be expected to have less function than the connected one, but exactly how much would be case by case.  The peri insular functional hemispherectomy leaves pretty much the entire isolated hemisphere intact. It is still alive and active. The procedure seems to be safer and have better outcomes than the more destructive alternatives. 
+>>>> 
 >>>> [or in other words:](https://academic.oup.com/neurosurgery/article-abstract/37/5/975/2758086)
 >>>> > Overall, peri-insular hemispherotomy can be viewed as a radical hemispheric tractotomy, resulting in a completely disconnected hemisphere. Advantages include shorter operative times, a less stormy postoperative course, and better anatomic preservation of the operated hemisphere, thus presumably reducing long-term complications.
->>>> I don't see any particular reason it couldn't think, though this story does portray a very 'cogent' remaining hemisphere.
 >>>> 
+>>>> I don't see any particular reason it couldn't think, though this story does portray a very 'cogent' remaining hemisphere.
 
->>>>> **u/zaxqs** [+2] *
+>>>>> **u/zaxqs** [+2]  (3 days later)
 >>>>> 
 >>>>> [I asked about it on r/askscience](https://old.reddit.com/r/askscience/comments/drbx53/could_the_disconnected_hemisphere_of_someones/?)
->>>>> 
 
->>>>>> **u/nohat** [+3] *
+>>>>>> **u/nohat** [+3]  (3 days later)
 >>>>>> 
 >>>>>> Says [removed] for me. You might not have much luck since proving consciousness is a bit difficult. Disproving would be more practical, but given that there is brain activity that also might be difficult. Frankly I hope someone can disprove it, because I find it deeply horrifying. Hence writing a story about it (also it fit my criteria for a reveal that was not supernatural and was more horrifying than the mystery).
->>>>>> 
 
->>>>>>> **u/zaxqs** [+3] *
+>>>>>>> **u/zaxqs** [+5]  (3 days later)
 >>>>>>> 
 >>>>>>> Yeah it was a very good story. Not supernatural but still disconcerting enough to be similar to a supernatural horror in feel.
->>>>>>> As for it being removed I forgot to add the neuroscience flair(which I now added), hopefully they'll review it and keep it up.
 >>>>>>> 
+>>>>>>> As for it being removed I forgot to add the neuroscience flair(which I now added), hopefully they'll review it and keep it up.
 
 ---
 

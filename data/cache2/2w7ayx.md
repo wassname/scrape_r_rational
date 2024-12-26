@@ -14,52 +14,45 @@ Does anyone know of anything like that? The closest I can think of are a few of 
 
 ### Comments:
 
-> **u/duffmancd** [+10] *
+> **u/duffmancd** [+9]  (an hour later)
 > 
 > [The fable of the Dragon-Tyrant](http://www.nickbostrom.com/fable/dragon.html) is the first thing to come to mind.
-> I vaguely recall someone trying to write Aesop-style stories for the common biases, maybe from CFAR? I wasn't too impressed by the results though.
 > 
+> I vaguely recall someone trying to write Aesop-style stories for the common biases, maybe from CFAR? I wasn't too impressed by the results though.
 
->> **u/SidAdAstra** [+2] *
+>> **u/SidAdAstra** [+2]  (11 hours later)
 >> 
 >> Nate recently wrote an [adaptation of the dragon tyrant story](http://mindingourway.com) in his most recent post.
->> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (an hour later)
 >> 
 >> Ahhh, I remember that. It was fantastic, but not quite what I'm looking for. 
->> If you come across the aesops I'd be interested in checking them out at least.
 >> 
+>> If you come across the aesops I'd be interested in checking them out at least.
 
-> **u/FeepingCreature** [+5]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture* (an hour later)
 > 
 > Not _precisely_ what you want, but.. [SlateStarCodex does Transhumanist Fables](http://slatestarcodex.com/2013/05/27/transhumanist-fables/). Short but sweet.
-> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (an hour later)
 >> 
 >> Yeah, those were great too :) Thanks for bringing them up, I should have mentioned them in the OP.
->> 
 
-> **u/buckykat** [+2] *
+> **u/buckykat** [+2]  (an hour later)
 > 
 > sagan's garage dragon
-> 
 
-> **u/qznc** [+1]  *Chaos Legion**
+> **u/qznc** [+1]  *Chaos Legion* (2 hours later)
 > 
 > I love to see rational stories for kids. Mine are not old enough yet, but they will be.
-> 
 
->> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> **u/DaystarEld** [+3]  *Pokémon Professor* (3 hours later)
 >> 
 >> The creator of SMBC Comics recently wrote a [children's book](https://www.kickstarter.com/projects/weiner/augie-and-the-green-knight-a-childrens-adventure-b) that you might be interested in :)
->> 
 
->>> **u/qznc** [+1]  *Chaos Legion**
+>>> **u/qznc** [+1]  *Chaos Legion* (7 hours later)
 >>> 
 >>> Thanks. Did not know that. Maybe they will even have german translations soon enough. :)
->>> 
 
 ---
 

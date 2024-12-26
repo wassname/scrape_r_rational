@@ -49,41 +49,35 @@
 
 ### Comments:
 
-> **u/over_who** [+3]  *Aleph you are going to die**
+> **u/over_who** [+3]  *Aleph you are going to die* (22 hours later)
 > 
 > I really enjoy your work! One note, I think there might be a mistake, Oak says that Red doesn't speak a single word, but Brock hears Red give Mawile an order.
-> 
 
->> **u/MilesSand** [+2] *
+>> **u/MilesSand** [+2]  (a day later)
 >> 
 >> Typo thread?  Typo thread!
->> Brock calls for a 2 hour intermission but Oak decides at the end the battle is about to start after 1 hour has passed.
 >> 
+>> Brock calls for a 2 hour intermission but Oak decides at the end the battle is about to start after 1 hour has passed.
 
-> **u/TheFlameTest2** [+2] *
+> **u/TheFlameTest2** [+2]  (47 minutes later)
 > 
 > Another great chapter! Is there a release schedule for this?
-> 
 
->> **u/NightMarE--666--** [+5] *
+>> **u/NightMarE--666--** [+4]  (58 minutes later)
 >> 
 >> No. Chapters can take varying amounts of time to write. For example, the end of Act 1 took over two months. It's not really plausible to do that. Also, that makes it feel too much like a job if you know what I mean. Still, we do try to get out a couple of chapters every month, across all of our fiction.
->> 
 
->>> **u/360Saturn** [+2] *
+>>> **u/360Saturn** [+2]  (22 hours later)
 >>> 
 >>> What else are you writing?
->>> 
 
->>>> **u/NightMarE--666--** [+2] *
+>>>> **u/NightMarE--666--** [+2]  (2 days later)
 >>>> 
 >>>> Misfits - a naruto fan fiction
->>>> 
 
->>>>> **u/360Saturn** [+1] *
+>>>>> **u/360Saturn** [+1]  (2 days later)
 >>>>> 
 >>>>> Cool, I'll check it out too
->>>>> 
 
 ---
 

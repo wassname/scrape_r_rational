@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/11/07/chapter-68-poised/
-* Score: 74
+* Score: 76
 
 * Created: 2018-11-07T05:36:51
 
@@ -12,615 +12,665 @@
 
 ### Comments:
 
-> **u/IgnatiusFlamel** [+24] *
+> **u/IgnatiusFlamel** [+25]  (53 minutes later)
 > 
 > Lakeomancy for the win!
-> Seriously, using portals like this is brilliant.
 > 
+> Seriously, using portals like this is brilliant.
 
->> **u/mcgruntman** [+34] *
+>> **u/mcgruntman** [+31]  (4 hours later)
 >> 
 >> “It’s not stealing,” I protested. “You can’t own a lake. I mean, legally yes and nobody better take mine, but when you think about it in a religious sense-”
-
->> Glorious
 >> 
+>> Glorious
 
-> **u/Nimelennar** [+19] *
+> **u/Nimelennar** [+19]  (8 hours later)
 > 
 > Dammit, u/erraticerrata, stop making me want a Dread Emperor Irritant prequel novel that I'm never going to get!
-> 
 
-> **u/TaltosDreamer** [+16] *
+> **u/TaltosDreamer** [+17]  (4 hours later)
 > 
 > Thus Cat invented Sim-Earth, though forever after her people wondered wtf "Earth" means.
-> Seriously, this means she can reshape massive amounts of terrain very quickly. Valleys, mountains, creating or filling in mountain passes.  She is become the changer of worlds.  
-> In the real world geography controls far more than people realize. Cat doesnt need an army any longer to destroy empires.  She can fill in harbors to uselessness. Reroute rivers important to trade. Bury or steal forests. 
-> I am in awe of the possibilities...and amused at the idea of calernian farmers trying to irrigate with a river filled with underdark leviathans.
 > 
+> Seriously, this means she can reshape massive amounts of terrain very quickly. Valleys, mountains, creating or filling in mountain passes.  She is become the changer of worlds.  
+> 
+> In the real world geography controls far more than people realize. Cat doesnt need an army any longer to destroy empires.  She can fill in harbors to uselessness. Reroute rivers important to trade. Bury or steal forests. 
+> 
+> I am in awe of the possibilities...and amused at the idea of calernian farmers trying to irrigate with a river filled with underdark leviathans.
 
->> **u/magna-terra** [+12] *
+>> **u/magna-terra** [+12]  (6 hours later)
 >> 
 >> nah callow just gets new water cavalry
->> 
 
->>> **u/TaltosDreamer** [+5] *
+>>> **u/TaltosDreamer** [+6]  (6 hours later)
 >>> 
 >>> They are stubborn enough to pull it off for sure!
->>> 
 
->>>> **u/magna-terra** [+5] *
+>>>> **u/magna-terra** [+7]  (6 hours later)
 >>>> 
 >>>> archer can go entice the beast tamer over from refuge
->>>> 
 
->>>>> **u/TaltosDreamer** [+5] *
+>>>>> **u/TaltosDreamer** [+5]  (6 hours later)
 >>>>> 
 >>>>> Zombie the 3rd as a tentacle monster!
->>>>> 
 
->> **u/notagiantdolphin** [+4] *
+>> **u/notagiantdolphin** [+3]  (20 hours later)
 >> 
 >> Well, she's going to have a pile of hideously empowered drow that she, a demigod, can't really touch. Just apply those to the problem and let it the fun begin.
->> If she manages to wait until the 10th Crusade gets rolled over by the Dead King and then single handedly drives him back with her army of god-slaves, they'll have a hard time painting her with the evil brush.
 >> 
+>> If she manages to wait until the 10th Crusade gets rolled over by the Dead King and then single handedly drives him back with her army of god-slaves, they'll have a hard time painting her with the evil brush.
 
->>> **u/TaltosDreamer** [+3] *
+>>> **u/TaltosDreamer** [+3]  (21 hours later)
 >>> 
 >>> Im kinda thinking the spider queen has been too quiet. I think cat might lose more than we expect facing her
->>> 
 
->>>> **u/notagiantdolphin** [+2] *
+>>>> **u/notagiantdolphin** [+2]  (21 hours later)
 >>>> 
 >>>> Well, she certainly can't beat her in force of arms, so it'll have to be treachery all the way.
->>>> 
 
->>>>> **u/TaltosDreamer** [+2] *
+>>>>> **u/TaltosDreamer** [+2]  (22 hours later)
 >>>>> 
 >>>>> Right, like ripping the night away from convenient delivery people. Or possessing them?
->>>>> 
 
->>>>>> **u/HeWhoBringsDust** [+6] *
+>>>>>> **u/HeWhoBringsDust** [+6]  (23 hours later)
 >>>>>> 
 >>>>>> Inb4 Sve Noc is like,”Yo, this place is a shithole and you’re my way out. Want another treacherous lieutenant?”
->>>>>> 
 
->>>>>>> **u/notagiantdolphin** [+2] *
+>>>>>>> **u/notagiantdolphin** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Sve Noc, Larat and those seven crowns of Procer. Match made in heaven.
->>>>>>> 
 
->> **u/CouteauBleu** [+1]  *We are the Empire.**
+>> **u/CouteauBleu** [+1]  *We are the Empire.* (6 hours later)
 >> 
 >> Nah, these things would require permanent portals. If she tried to eg starve a Proceran city by draining its rivers, mages could close the portals, unless she stayed there to maintain them; it's powerful, but still needs some logistics to work.
->> 
 
->>> **u/TaltosDreamer** [+9] *
+>>> **u/TaltosDreamer** [+9]  (6 hours later)
 >>> 
 >>> I wasnt looking at draining anything in my examples. Dropping a mountain into someone's harbor would make it too shallow to be used by bigger ships.
->>> Rivers can be ruined by going upstream, gouging out a different river course and then dumping that soil & rock into the old river.  Even just dumping random mountains at various points would stop trading in it's tracks.
 >>> 
+>>> Rivers can be ruined by going upstream, gouging out a different river course and then dumping that soil & rock into the old river.  Even just dumping random mountains at various points would stop trading in it's tracks.
 
-> **u/Agnoman** [+18] *
+> **u/Agnoman** [+18]  (3 hours later)
 > 
 > > Great Strycht had proved as much of a wonder as Great Lotow, in its own way.
-> Have we just skipped over what happened in Lotow then? Because things were not settled there, and the exact way things shook out seems important to know. If Cat's going the classic evil route of kidnapping people and forcing them into her magically bound army, then the details are quite important. Especially if it's literally the first time she's doing it. Outside the serial it lets us know what to expect with this strategy when she does it off screen later on, and inside the universe of the Guide it determines how she's able to move onward to Strycht and the inner cities and is a fairly important turning point within her own narrative.
-
-> Like, are the sigil holders still in Winter? Did they all humbly agree to sign up? Did some of them wander off in search of a way out? Did they try and fight Cat? What's the deal with the seven demigods who were individually a threat to Cat and had a great reason to band together?
-> This chapter has no information, except that Cat's gone to Strycht, and a passing comment that Soln is now with Cat.
-
-> >“Yes, Indrani wants me to start dropping mountains,” I sighed. “I’m well aware.”
-> >“There are also volcanoes in what was once Summer,” the shade reminded me. “Actually triggering an eruption when we need it would be significantly more difficult, but not outright impossible.”
-> >“There’s basically everything in Arcadia, if you look long enough,
-> What? When did this become an option? First she's apparently secretly had the ability to use her portals to cut through things the whole time, and now she can drop mountains on people and steal cities? This is a crazy amount of power escalation coming out of almost nowhere.
-> Not too mention that she's apparently now capable of using Absolute Positioning, which was set up as an incredibly difficult, dangerous task, without Masego. She's not even done any practice or training that we've seen.
-> I mean, Cat's gotten a lot of power ups over the series (an awful, *awful*, lot) but this is one of the biggest so far and has also happened without any commentary or explanation?
-> >this is basically Dread Empress Sinistra’s plan only with riches instead of hero-delivered death at the end.”
-> What have we learnt about raising death flags Cat?
-> >Night could be taken without killing
-> Did we know this? It feels like the kind of thing that could have consequences for Drow society.
-> >“I should have killed her myself, mother to daughter.”
-> God damn Akua. I occasionally find myself liking you, but then you keep dropping things like this. Fantastic character though.
 > 
+> Have we just skipped over what happened in Lotow then? Because things were not settled there, and the exact way things shook out seems important to know. If Cat's going the classic evil route of kidnapping people and forcing them into her magically bound army, then the details are quite important. Especially if it's literally the first time she's doing it. Outside the serial it lets us know what to expect with this strategy when she does it off screen later on, and inside the universe of the Guide it determines how she's able to move onward to Strycht and the inner cities and is a fairly important turning point within her own narrative.
+> 
+> Like, are the sigil holders still in Winter? Did they all humbly agree to sign up? Did some of them wander off in search of a way out? Did they try and fight Cat? What's the deal with the seven demigods who were individually a threat to Cat and had a great reason to band together?
+> 
+> This chapter has no information, except that Cat's gone to Strycht, and a passing comment that Soln is now with Cat.
+> 
+> >“Yes, Indrani wants me to start dropping mountains,” I sighed. “I’m well aware.”
+> 
+> >“There are also volcanoes in what was once Summer,” the shade reminded me. “Actually triggering an eruption when we need it would be significantly more difficult, but not outright impossible.”
+> 
+> >“There’s basically everything in Arcadia, if you look long enough,
+> 
+> What? When did this become an option? First she's apparently secretly had the ability to use her portals to cut through things the whole time, and now she can drop mountains on people and steal cities? This is a crazy amount of power escalation coming out of almost nowhere.
+> 
+> Not too mention that she's apparently now capable of using Absolute Positioning, which was set up as an incredibly difficult, dangerous task, without Masego. She's not even done any practice or training that we've seen.
+> 
+> I mean, Cat's gotten a lot of power ups over the series (an awful, *awful*, lot) but this is one of the biggest so far and has also happened without any commentary or explanation?
+> 
+> >this is basically Dread Empress Sinistra’s plan only with riches instead of hero-delivered death at the end.”
+> 
+> What have we learnt about raising death flags Cat?
+> 
+> >Night could be taken without killing
+> 
+> Did we know this? It feels like the kind of thing that could have consequences for Drow society.
+> 
+> >“I should have killed her myself, mother to daughter.”
+> 
+> God damn Akua. I occasionally find myself liking you, but then you keep dropping things like this. Fantastic character though.
 
->> **u/earnestadmission** [+31]  *Singular "they" user**
+>> **u/earnestadmission** [+32]  *Singular "they" user* (10 hours later)
 >> 
 >> >the exact way things shook out seems important to know.
->> I couldn’t disagree more. Cat having a dramatic showdown with the 7 leaders would be important if it were the climax of the arc. But the 7 were explicitly said to be small fish in a bigger pond. Cat found a winning move without drawing her sword, and the implications of her choice are shown in this chapter. We don’t need stilted dialogue where the antagonistic characters assert that they have no choice but to comply, followed by more stilted dialogue where Cat agrees.
->> Imagine that we got the update that you’re asking for, where Cat pops in to Arcadia to check on her prisoners. Maybe it takes a few tries. Eventually they submit. This might be an engaging sequence of dialogue or torture porn but is there any plot-relevant information that we wouldn’t otherwise discover?
 >> 
+>> I couldn’t disagree more. Cat having a dramatic showdown with the 7 leaders would be important if it were the climax of the arc. But the 7 were explicitly said to be small fish in a bigger pond. Cat found a winning move without drawing her sword, and the implications of her choice are shown in this chapter. We don’t need stilted dialogue where the antagonistic characters assert that they have no choice but to comply, followed by more stilted dialogue where Cat agrees.
+>> 
+>> Imagine that we got the update that you’re asking for, where Cat pops in to Arcadia to check on her prisoners. Maybe it takes a few tries. Eventually they submit. This might be an engaging sequence of dialogue or torture porn but is there any plot-relevant information that we wouldn’t otherwise discover?
 
->>> **u/hailcapital** [+15] *
+>>> **u/hailcapital** [+15]  (11 hours later)
 >>> 
 >>> I strongly agree with this. What we're getting right now is mostly character work between Cat and Archer and Cat and Akua, as well as world-building, so it hasn't been too bad, but ultimately there's a ceiling for how much interest you can have in "Cat takes on some Strong Mighty who we've never seen before and she has no real reason to care about."
->>> 
 
->>>> **u/Agnoman** [+1] *
+>>>> **u/Agnoman** [+1]  (a day later)
 >>>> 
 >>>> The entire point of the Under Dark segment is Cat picking up an army.
->>>> We just brushed over her picking up to seven demigods who were each an individual threat to her and increasing her military power almost exponentially.
->>>> How did Cat get them? Well,at the end of 67 she set up a classic evil situation - with monologues and death traps she walked away from and truce-breaking and ultimatums about joining her - by stranding them at the edge of Winter and then somewhere before 68 Soln (and maybe some unknown number of the other 6) was inducted into Cat's peerage. 
->>>> Why did the sigil-holders give in? Maybe they got cold and asked to be let out? Despite how environmental hazards far deeper into Winter have never been shown to worry even far weaker beings than these seven Drow? Will was fine in Arcadia for months back in book one, Black was using Arcadia to portal around with in book 2, Juniper and cat debated sending normal soldiers into Arcadia in book 3, and then Cat, Hakram, and Masego (as Apprentice) walked to the heart of winter without so much as mentioning the cold.
->>>> That's without getting into all the ways *out* of Arcadia that have been set up: with permanent gates existing , or using sorcery, or finding a fae to do it. Or how vulnerable Arcadia is to stories and the set up Cat is handing them on a silver platter.
->>>> But let's move on. Cat's also leapt from struggling against the weakest sigil-holder in a nowhere-city to the point where she is now single-handily sacking an entire city three times the size of Lotow with powers that have come out of nowhere.
->>>> She's had the ability to open gates for something like a book and a half now, and has never so much as mentioned the ability to cut things with them before 67. Was she always capable of this, but somehow never thought it would be useful before now? Has she been secretly training off-screen and just never brought this up or hinted at it on-screen? Did she accidentally cut something recently and go "wow, this is neat, this sure would have been useful previously"?
->>>> And she can also now pull off absolute positioning without either Masego or the Observatory and can drop volcanoes and mountains and lakes on her enemies, despite how difficult this was shown to be previously. Huh?
->>>> And not only was there no build up or explanation given to perhaps the single greatest expansion in Cat's power, she's not even mentioned this increase in her capabilities after the fact? Apparently no-one is surprised by the incredible power-up Cat received?
->>>> And then there's the story stuff going on here, which I've touched on. But is Cat going Classic Evil now? Monolouges and death-traps are just the tip of the iceberg. She's also enslaving a race to serve in her evil army, is chaining monsters that have both motive and means to kill her if the bindings break, is relying on the single point of failure that is the oaths, is using doomsday style weapons, is creating a court were previously she was worried about narrative consequences, is talking about pulling a dread Empress Sinastra, etc.
->>>> You can say that this a Evil vs Evil fight and so the rules don't apply (note; this was mentioned in an Extra chapter, which exists outside the story proper), but we've seen Evil on Evil before with Cat/Black and Akua and stories were critical at literally every juncture of the fight. And, perhaps more importantly, *the actions now are ones that will have consequences later*. Does cat really think that the single point of control over the monsters that hate her, the oaths, isn't going to fail at some critical juncture further down the line?
->>>> You wanted to talk about character work, right? Cat's been against classic evil methods for the entire series - why this change in motive? Cat's also been against slavery for the entire series and just recently had a big talk about how she didn't want to kill the Drow prisoners she took - why's she now okay with enslaving an entire race? Seems like a big change of heart.
->>>> It's easy to say that the plot details were glossed over for characters development, but what happens with the plot is hugely important in defining that character development. The details matter. Hell, knowing how Cat felt when Soln and whoever else bowing down to her matters a whole lot.
 >>>> 
+>>>> We just brushed over her picking up to seven demigods who were each an individual threat to her and increasing her military power almost exponentially.
+>>>> 
+>>>> How did Cat get them? Well,at the end of 67 she set up a classic evil situation - with monologues and death traps she walked away from and truce-breaking and ultimatums about joining her - by stranding them at the edge of Winter and then somewhere before 68 Soln (and maybe some unknown number of the other 6) was inducted into Cat's peerage. 
+>>>> 
+>>>> Why did the sigil-holders give in? Maybe they got cold and asked to be let out? Despite how environmental hazards far deeper into Winter have never been shown to worry even far weaker beings than these seven Drow? Will was fine in Arcadia for months back in book one, Black was using Arcadia to portal around with in book 2, Juniper and cat debated sending normal soldiers into Arcadia in book 3, and then Cat, Hakram, and Masego (as Apprentice) walked to the heart of winter without so much as mentioning the cold.
+>>>> 
+>>>> That's without getting into all the ways *out* of Arcadia that have been set up: with permanent gates existing , or using sorcery, or finding a fae to do it. Or how vulnerable Arcadia is to stories and the set up Cat is handing them on a silver platter.
+>>>> 
+>>>> But let's move on. Cat's also leapt from struggling against the weakest sigil-holder in a nowhere-city to the point where she is now single-handily sacking an entire city three times the size of Lotow with powers that have come out of nowhere.
+>>>> 
+>>>> She's had the ability to open gates for something like a book and a half now, and has never so much as mentioned the ability to cut things with them before 67. Was she always capable of this, but somehow never thought it would be useful before now? Has she been secretly training off-screen and just never brought this up or hinted at it on-screen? Did she accidentally cut something recently and go "wow, this is neat, this sure would have been useful previously"?
+>>>> 
+>>>> And she can also now pull off absolute positioning without either Masego or the Observatory and can drop volcanoes and mountains and lakes on her enemies, despite how difficult this was shown to be previously. Huh?
+>>>> 
+>>>> And not only was there no build up or explanation given to perhaps the single greatest expansion in Cat's power, she's not even mentioned this increase in her capabilities after the fact? Apparently no-one is surprised by the incredible power-up Cat received?
+>>>> 
+>>>> And then there's the story stuff going on here, which I've touched on. But is Cat going Classic Evil now? Monolouges and death-traps are just the tip of the iceberg. She's also enslaving a race to serve in her evil army, is chaining monsters that have both motive and means to kill her if the bindings break, is relying on the single point of failure that is the oaths, is using doomsday style weapons, is creating a court were previously she was worried about narrative consequences, is talking about pulling a dread Empress Sinastra, etc.
+>>>> 
+>>>> You can say that this a Evil vs Evil fight and so the rules don't apply (note; this was mentioned in an Extra chapter, which exists outside the story proper), but we've seen Evil on Evil before with Cat/Black and Akua and stories were critical at literally every juncture of the fight. And, perhaps more importantly, *the actions now are ones that will have consequences later*. Does cat really think that the single point of control over the monsters that hate her, the oaths, isn't going to fail at some critical juncture further down the line?
+>>>> 
+>>>> You wanted to talk about character work, right? Cat's been against classic evil methods for the entire series - why this change in motive? Cat's also been against slavery for the entire series and just recently had a big talk about how she didn't want to kill the Drow prisoners she took - why's she now okay with enslaving an entire race? Seems like a big change of heart.
+>>>> 
+>>>> It's easy to say that the plot details were glossed over for characters development, but what happens with the plot is hugely important in defining that character development. The details matter. Hell, knowing how Cat felt when Soln and whoever else bowing down to her matters a whole lot.
 
->>> **u/sparr** [+5] *
+>>> **u/sparr** [+5]  (12 hours later)
 >>> 
 >>> > but is there any plot-relevant information that we wouldn’t otherwise discover?
->>> I want to know whether or not any of the drow survived and remained in Arcadia to become antagonists later, rather than being surprised by it later. Also if they had any notable interaction with fae while there that Cat knows about now.
 >>> 
+>>> I want to know whether or not any of the drow survived and remained in Arcadia to become antagonists later, rather than being surprised by it later. Also if they had any notable interaction with fae while there that Cat knows about now.
 
->>> **u/Agnoman** [+2] *
+>>> **u/Agnoman** [+2]  (18 hours later)
 >>> 
 >>> >at having a dramatic showdown with the 7 leaders would be important if it were the climax of the arc. But the 7 were explicitly said to be small fish in a bigger pond
->>> We spent a couple of chapters building up just how strong the weakest sigil-holder in Lotow was, and how the 7 leaders were individually a threat to Cat even before they had a great reason to band together. Then they were put in Arcadia, where they had a whole host of options for getting out, and probably weren't in an incredible amount of danger themselves.
->>> But leave aside the more logistical concerns and look at the narrative: Cat is abducting people, forcing them into magical service, and I'm pretty sure we've had chapter quotes about this exact situation. She was also monologuing about her inevitable win before locking them in an "inescapable" trap and walking away. Knowing how this played out is important if this is going to be standard operating procedure for her, exactly so it can be glossed over in the future.
 >>> 
+>>> We spent a couple of chapters building up just how strong the weakest sigil-holder in Lotow was, and how the 7 leaders were individually a threat to Cat even before they had a great reason to band together. Then they were put in Arcadia, where they had a whole host of options for getting out, and probably weren't in an incredible amount of danger themselves.
+>>> 
+>>> But leave aside the more logistical concerns and look at the narrative: Cat is abducting people, forcing them into magical service, and I'm pretty sure we've had chapter quotes about this exact situation. She was also monologuing about her inevitable win before locking them in an "inescapable" trap and walking away. Knowing how this played out is important if this is going to be standard operating procedure for her, exactly so it can be glossed over in the future.
 
->>>> **u/werafdsaew** [+6] *
+>>>> **u/werafdsaew** [+6]  (19 hours later)
 >>>> 
 >>>> > they had a great reason to band together.
->>>> They had a great reason to band together against the Dwarves too.  They're culturally incapable to working together because of the Night.
->>>> > whole host of options for getting out
->>>> Like how?  If it is not in the Night then it's not known to them.
->>>> > probably weren't in an incredible amount of danger themselves
->>>> Did you forget that Cat and company can travel though Arcadia safely only because of her deal with the Fae Queen?
 >>>> 
+>>>> They had a great reason to band together against the Dwarves too.  They're culturally incapable to working together because of the Night.
+>>>> 
+>>>> > whole host of options for getting out
+>>>> 
+>>>> Like how?  If it is not in the Night then it's not known to them.
+>>>> 
+>>>> > probably weren't in an incredible amount of danger themselves
+>>>> 
+>>>> Did you forget that Cat and company can travel though Arcadia safely only because of her deal with the Fae Queen?
 
->>>>> **u/Agnoman** [+5] *
+>>>>> **u/Agnoman** [+5]  (21 hours later)
 >>>>> 
 >>>>> >They're culturally incapable to working together because of the Night.
->>>>> I think you might have missed the part about cabals.
->>>>> >Like how? If it is not in the Night then it's not known to them.
->>>>> I listed a few [here](https://www.reddit.com/r/rational/comments/9uwo4b/rthf_a_practical_guide_to_evil_book_4_chapter_68/e99qrsx/).
->>>>> >Did you forget that Cat and company can travel though Arcadia safely only because of her deal with the Fae Queen?
->>>>> Cat, hakram and Apprentice were walking through Arcadia back before they had a deal and *while activley at war with the fae* just fine, and this was when Cat was the squire and far weaker she or the Drow are now.
->>>>> Will survived wandering around for six months on his own, back when he was roughly equal to cat circa book one.
->>>>> Black, notable in part for his relative weakness, used it for fast travel.
->>>>> And Juniper/Cat's only concern about sending scouts into Arcadia back at the start of book 3 was time dilation, and they talked about how they'd send an army of normal soldiers in if they knew it wouldn't escalate the situation.
->>>>> And Arcadia itself is so vulnerable to stories that Cat literally just had to say, in a hesitant voice, "you'll never get away with this" to utterly upend a fight with a powerful Fae who was easily destroying her. What do you think happens if one of the Drow, after being monolouged too and locked in what's meant to be an inescapable death trap, say "I will escape and have my revenge"? Because personally I think things might start looking like the Count of Monte Christo.
 >>>>> 
+>>>>> I think you might have missed the part about cabals.
+>>>>> 
+>>>>> >Like how? If it is not in the Night then it's not known to them.
+>>>>> 
+>>>>> I listed a few [here](https://www.reddit.com/r/rational/comments/9uwo4b/rthf_a_practical_guide_to_evil_book_4_chapter_68/e99qrsx/).
+>>>>> 
+>>>>> >Did you forget that Cat and company can travel though Arcadia safely only because of her deal with the Fae Queen?
+>>>>> 
+>>>>> Cat, hakram and Apprentice were walking through Arcadia back before they had a deal and *while activley at war with the fae* just fine, and this was when Cat was the squire and far weaker she or the Drow are now.
+>>>>> 
+>>>>> Will survived wandering around for six months on his own, back when he was roughly equal to cat circa book one.
+>>>>> 
+>>>>> Black, notable in part for his relative weakness, used it for fast travel.
+>>>>> 
+>>>>> And Juniper/Cat's only concern about sending scouts into Arcadia back at the start of book 3 was time dilation, and they talked about how they'd send an army of normal soldiers in if they knew it wouldn't escalate the situation.
+>>>>> 
+>>>>> And Arcadia itself is so vulnerable to stories that Cat literally just had to say, in a hesitant voice, "you'll never get away with this" to utterly upend a fight with a powerful Fae who was easily destroying her. What do you think happens if one of the Drow, after being monolouged too and locked in what's meant to be an inescapable death trap, say "I will escape and have my revenge"? Because personally I think things might start looking like the Count of Monte Christo.
 
->>>> **u/earnestadmission** [+5]  *Singular "they" user**
+>>>> **u/earnestadmission** [+4]  *Singular "they" user* (19 hours later)
 >>>> 
 >>>> >they were put in Arcadia, where they had a whole host of options for getting out
->>>> [citation needed]
 >>>> 
+>>>> [citation needed]
 
->>>>> **u/Agnoman** [+4] *
+>>>>> **u/Agnoman** [+4]  (21 hours later)
 >>>>> 
 >>>>> That's fair. A few of the top of my head:
->>>>> * Will went into and out of Arcadia through a set of permanent gates that exist
->>>>> * Black and Warlock used Arcadia for fast travel. We don't have the full details on this, but to my best knowledge it involved Black summoning a fae to creation to open a gate into Arcadia, and then Black later finding one and coercing it to open a gate back out of Arcadia
->>>>> * We've seen magical rituals involved in moving things from creation towards Arcadia
->>>>> * Book three we find that any high-ranking fae can open a gate out of Arcadia. Which brings us to two sub options: 1) Eat the faerie and take it's knowledge and the Secret of Gate-Making. 2) force it to open a portal with their faerie-queen crushing strength 
->>>>> And what are the chances of any of these things happening, you might ask? It's Arcadia - chance doesn't mean anything.
 >>>>> 
+>>>>> * Will went into and out of Arcadia through a set of permanent gates that exist
+>>>>> 
+>>>>> * Black and Warlock used Arcadia for fast travel. We don't have the full details on this, but to my best knowledge it involved Black summoning a fae to creation to open a gate into Arcadia, and then Black later finding one and coercing it to open a gate back out of Arcadia
+>>>>> 
+>>>>> * We've seen magical rituals involved in moving things from creation towards Arcadia
+>>>>> 
+>>>>> * Book three we find that any high-ranking fae can open a gate out of Arcadia. Which brings us to two sub options: 1) Eat the faerie and take it's knowledge and the Secret of Gate-Making. 2) force it to open a portal with their faerie-queen crushing strength 
+>>>>> 
+>>>>> And what are the chances of any of these things happening, you might ask? It's Arcadia - chance doesn't mean anything.
 
->>>>>> **u/werafdsaew** [+3] *
+>>>>>> **u/werafdsaew** [+4]  (22 hours later)
 >>>>>> 
 >>>>>> Yes but how would the Mighties know any of these methods?  Considering how poor Ivah's knowledge of the humans are, I think they're pretty ignorant of anything outside of Everdark
->>>>>> 
 
->>>>>>> **u/Agnoman** [+2] *
+>>>>>>> **u/Agnoman** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Ivan's knowledge of humans is poor because the Drow have been isolated from outside civilizations for millenia. But Arcadia has existed since literally before Creation, and so that knowledge isn't going to go out of date.
->>>>>>> Add onto that that there's a significant risk factor just from escape methods *existing* - the way Arcadia has been explained is that it's going to drop things into you if they're story relevant. Like, say, a way out of the death trap a villain just you in after proclaiming the imminentcy of their inevitable vixtory.
 >>>>>>> 
+>>>>>>> Add onto that that there's a significant risk factor just from escape methods *existing* - the way Arcadia has been explained is that it's going to drop things into you if they're story relevant. Like, say, a way out of the death trap a villain just you in after proclaiming the imminentcy of their inevitable vixtory.
 
->>>>>> **u/earnestadmission** [+1]  *Singular "they" user**
+>>>>>> **u/earnestadmission** [+1]  *Singular "they" user* (22 hours later)
 >>>>>> 
 >>>>>> Good post. I was stuck in the mindset that Night can only be used for specific spells, but there are non-Night methods of escape. (fwiw, I think that they can only quickly learn skills from other Night users, since a given fae has no Night to harvest. but your point stands regardless)
->>>>>> I think your objection can be handled by thinking as a DM. Sometimes plans just work. The potential failures described above require that Cat's court encounters and is defeated by the 7 Mighty. This is a direct inversion of her power, which would be an unfair trick to use as a DM against a player. Alternatively, they require that Cat knows less about her domain than her prisoners do. That is plausible if her victims were Good, but this is evil-on-Evil combat. Narrative causality doesn't interfere in quite the same way (see: Akua & the monster thread last book)
->>>>>> Your concern is justified, but not damning imo
 >>>>>> 
+>>>>>> I think your objection can be handled by thinking as a DM. Sometimes plans just work. The potential failures described above require that Cat's court encounters and is defeated by the 7 Mighty. This is a direct inversion of her power, which would be an unfair trick to use as a DM against a player. Alternatively, they require that Cat knows less about her domain than her prisoners do. That is plausible if her victims were Good, but this is evil-on-Evil combat. Narrative causality doesn't interfere in quite the same way (see: Akua & the monster thread last book)
+>>>>>> 
+>>>>>> Your concern is justified, but not damning imo
 
->>>>>>> **u/Agnoman** [+2] *
+>>>>>>> **u/Agnoman** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> >stuck in the mindset that Night can only be used for specific spells,
->>>>>>> I mean, looking at the diversity of powers that Mighty Urulan alone displayed in, like, two minutes and you can see the crazy versatility of it, and that's before you add in some of the other Secrets we've glimpsed
->>>>>>> Plus there's been a Big deal made about how close Winter and the Night are, with tricks already being converted from one system to the other, and Gate making is a Winter thing...
->>>>>>> > (fwiw, I think that they can only quickly learn skills from other Night users, since a given fae has no Night to harvest. but your point stands regardless)
->>>>>>> Actually, Night can be harvested from non-Drow too:
->>>>>>> >“I want to be perfectly clear, here,” I said. “If you kill humans, or any other race. It grows the Night?”
->>>>>>> >“That is so,” the drow reverently said. “All is one. All is strife. The worthy rise.”
-
->>>>>>> >Narrative causality doesn't interfere in quite the same way (see: Akua & the monster thread last book)
->>>>>>> This is funny, because I was going to point to the Akua fight as an example of the significance of narrative fights in Evil vs Evil fights - literally every segment of that fight revolved very explicitly around stories. There was the monster/trial/pivot layout, the mentor in danger, Black's (seemingly) dangerous last-minute gamble, Akua's story based triumph over Cat in Arcadia, and then finally the villain's monster breaking its leash.
->>>>>>> And now here we have Cat making decisions of the sort that appear in chapter quotes (hell, I think at least a few of those decisions actually *do* mirror chapter quotes). She monologued about her inevitable win, she locked the Drow in what she thought was an inescapable death trap, she's making an unwilling army of monsters bound to her though magic, she's using the titles that she was afraid would have story repercussions, breaking truces, using doomsday weapons, and so on. This is the sort of classic Evil behaviour we've been warned about.
->>>>>>> And, back to the Drow, they were locked in *Arcadia*, the place where story triumphs over all. I mean, look at what Black said last time Cat dragged someone there during a villain fight:
->>>>>>> >“Arcadia was a mistake,” he told me, returning to ignoring Akua. “You won a greater comparative advantage in capacity, but in Arcadia narrative matters most of all. You lacked the necessary weight to win, Catherine. In the future, consult further than Hierophant. His lack of interest in stories is a glaring weakness.”
 >>>>>>> 
+>>>>>>> I mean, looking at the diversity of powers that Mighty Urulan alone displayed in, like, two minutes and you can see the crazy versatility of it, and that's before you add in some of the other Secrets we've glimpsed
+>>>>>>> 
+>>>>>>> Plus there's been a Big deal made about how close Winter and the Night are, with tricks already being converted from one system to the other, and Gate making is a Winter thing...
+>>>>>>> 
+>>>>>>> > (fwiw, I think that they can only quickly learn skills from other Night users, since a given fae has no Night to harvest. but your point stands regardless)
+>>>>>>> 
+>>>>>>> Actually, Night can be harvested from non-Drow too:
+>>>>>>> 
+>>>>>>> >“I want to be perfectly clear, here,” I said. “If you kill humans, or any other race. It grows the Night?”
+>>>>>>> 
+>>>>>>> >“That is so,” the drow reverently said. “All is one. All is strife. The worthy rise.”
+>>>>>>> 
+>>>>>>> >Narrative causality doesn't interfere in quite the same way (see: Akua & the monster thread last book)
+>>>>>>> 
+>>>>>>> This is funny, because I was going to point to the Akua fight as an example of the significance of narrative fights in Evil vs Evil fights - literally every segment of that fight revolved very explicitly around stories. There was the monster/trial/pivot layout, the mentor in danger, Black's (seemingly) dangerous last-minute gamble, Akua's story based triumph over Cat in Arcadia, and then finally the villain's monster breaking its leash.
+>>>>>>> 
+>>>>>>> And now here we have Cat making decisions of the sort that appear in chapter quotes (hell, I think at least a few of those decisions actually *do* mirror chapter quotes). She monologued about her inevitable win, she locked the Drow in what she thought was an inescapable death trap, she's making an unwilling army of monsters bound to her though magic, she's using the titles that she was afraid would have story repercussions, breaking truces, using doomsday weapons, and so on. This is the sort of classic Evil behaviour we've been warned about.
+>>>>>>> 
+>>>>>>> And, back to the Drow, they were locked in *Arcadia*, the place where story triumphs over all. I mean, look at what Black said last time Cat dragged someone there during a villain fight:
+>>>>>>> 
+>>>>>>> >“Arcadia was a mistake,” he told me, returning to ignoring Akua. “You won a greater comparative advantage in capacity, but in Arcadia narrative matters most of all. You lacked the necessary weight to win, Catherine. In the future, consult further than Hierophant. His lack of interest in stories is a glaring weakness.”
 
->>>> **u/CrimsonOwl1181** [+5] *
+>>>> **u/CrimsonOwl1181** [+4]  (19 hours later)
 >>>> 
 >>>> Regarding her narrative, I believe she even said that this being an Evil vs Evil aligned conflict, she can employ the most effective means necessairy to reach her goal without Above getting involved.
->>>> As long as the plan looks solid from the outside everything should go according to it since there's no story shenanigans going on.
 >>>> 
+>>>> As long as the plan looks solid from the outside everything should go according to it since there's no story shenanigans going on.
 
->>>>> **u/Agnoman** [+4] *
+>>>>> **u/Agnoman** [+4]  (21 hours later)
 >>>>> 
 >>>>> I mean, we've seen an Evil vs Evil fight before with Cat/Black and Akua, and the story was critical at literally every juncture of the fight.
->>>>> 
 
->>>>>> **u/HeWhoBringsDust** [+1] *
+>>>>>> **u/HeWhoBringsDust** [+1]  (a day later)
 >>>>>> 
 >>>>>> Yeah, but in that case Cat was playing the role of a Queen defeating an evil sorceress that took over and murdered a major city.
->>>>>> 
 
->> **u/BaggyOz** [+11] *
+>> **u/BaggyOz** [+11]  (3 hours later)
 >> 
 >> IIRC Akua can help with absolute positioning but I don't think stealing the lake requires absolute positioning. Cat had to open a portal at a specific location in Arcadia during the battle of the camps. She doesn't need to open a portal in a specific place in Arcadia to drain the giant lake.
->> 
 
->>> **u/Agnoman** [+5] *
+>>> **u/Agnoman** [+7]  (4 hours later)
 >>> 
 >>> >She doesn't need to open a portal in a specific place in Arcadia to drain the giant lake.
->>> She does if she wants to be able to keep the lake in a usable form. Or if she wants to drop a mountain on her enemies like she apparently can now.
->>> >IIRC Akua can help with absolute positioning 
->>> Where was this mentioned? Because I can't recall that coming up anywhere. Plus they needed the Observatory, which itself was a huge investment of resources.
 >>> 
+>>> She does if she wants to be able to keep the lake in a usable form. Or if she wants to drop a mountain on her enemies like she apparently can now.
+>>> 
+>>> >IIRC Akua can help with absolute positioning 
+>>> 
+>>> Where was this mentioned? Because I can't recall that coming up anywhere. Plus they needed the Observatory, which itself was a huge investment of resources.
 
->>>> **u/BaggyOz** [+10] *
+>>>> **u/BaggyOz** [+10]  (4 hours later)
 >>>> 
 >>>> Perhaps I should have been clearer, she doesn't  need to be able to open a portal at a specific place such as a particular lake like before, due to the volume of water she just needs to be able to open a portal with an accuracy smaller than a province.
->>>> I believe that it was never stated absolute positioning required anything specific to Hierophant, he merely guided Cat and provided the bowl of water. There's nothing to suggest that he couldn't be replaced by a mage of similar knowledge such as Akua. Plus for all we know Masego left the bowl with Cat.
->>>> Youve also got to consider that Cat is much more in tune with her mantle now and can shove the side effects in to hindred or thousands of Drow.
 >>>> 
+>>>> I believe that it was never stated absolute positioning required anything specific to Hierophant, he merely guided Cat and provided the bowl of water. There's nothing to suggest that he couldn't be replaced by a mage of similar knowledge such as Akua. Plus for all we know Masego left the bowl with Cat.
+>>>> 
+>>>> Youve also got to consider that Cat is much more in tune with her mantle now and can shove the side effects in to hindred or thousands of Drow.
 
->>>>> **u/Agnoman** [+8] *
+>>>>> **u/Agnoman** [+9]  (5 hours later)
 >>>>> 
 >>>>> >Perhaps I should have been clearer, she doesn't need to be able to open a portal at a specific place such as a particular lake like before, due to the volume of water she just needs to be able to open a portal with an accuracy smaller than a province.
->>>>> Yes. On creation side. On Arcadia side she's got to put it somewhere it can remain as a lake if she wants to pull it back out again. Or, if she wants to drop a mountain on her enemies, she's got to open a portal to a specific mountain, and then above her enemies.
->>>>> This is all approximately as complex as what she was doing in the Battle of the Camps, where she opened a portal to a specific lake and then roughly above the armies she wanted to destroy, and that instance was treated as a huge deal.
->>>>> >I believe that it was never stated absolute positioning required anything specific to Hierophant, he merely guided Cat 
->>>>> He also explicitly used magic to help the process along. And saying that Masego can easily be replaced is something of a leap when he's one of the most powerful mages around and he's doing one of the larger rituals we've seen in the series, with Cat temporarily embracing the perspective of a god
->>>>> I'll agree that if anyone could replace him here, then it'd be Akua (even without a proper name of her own)... but there's also no evidence that Akua is doing that? And if she was, then it'd be a fairly huge deal anyway, if for different reasons?
->>>>> >Plus for all we know Masego left the bowl with Cat.
->>>>> As a reminder, that "bowl of water" was a link to the observatory, which was a huge investment of time and resources and is presumably less accessible from the Everdark. If Cat even has the bowl, which has never been stated. And where would she carry a bowl for months on end anyway? Do you think she took it to the Dead King?
->>>>> >Youve also got to consider that Cat is much more in tune with her mantle now and can shove the side effects in to hindred or thousands of Drow.
->>>>> And if this is something that lets her make super powered portals, it'd be nice to have some reference to that in the text, rather than glossing over what's arguably the biggest power boost Cat has gotten thus far.
 >>>>> 
+>>>>> Yes. On creation side. On Arcadia side she's got to put it somewhere it can remain as a lake if she wants to pull it back out again. Or, if she wants to drop a mountain on her enemies, she's got to open a portal to a specific mountain, and then above her enemies.
+>>>>> 
+>>>>> This is all approximately as complex as what she was doing in the Battle of the Camps, where she opened a portal to a specific lake and then roughly above the armies she wanted to destroy, and that instance was treated as a huge deal.
+>>>>> 
+>>>>> >I believe that it was never stated absolute positioning required anything specific to Hierophant, he merely guided Cat 
+>>>>> 
+>>>>> He also explicitly used magic to help the process along. And saying that Masego can easily be replaced is something of a leap when he's one of the most powerful mages around and he's doing one of the larger rituals we've seen in the series, with Cat temporarily embracing the perspective of a god
+>>>>> 
+>>>>> I'll agree that if anyone could replace him here, then it'd be Akua (even without a proper name of her own)... but there's also no evidence that Akua is doing that? And if she was, then it'd be a fairly huge deal anyway, if for different reasons?
+>>>>> 
+>>>>> >Plus for all we know Masego left the bowl with Cat.
+>>>>> 
+>>>>> As a reminder, that "bowl of water" was a link to the observatory, which was a huge investment of time and resources and is presumably less accessible from the Everdark. If Cat even has the bowl, which has never been stated. And where would she carry a bowl for months on end anyway? Do you think she took it to the Dead King?
+>>>>> 
+>>>>> >Youve also got to consider that Cat is much more in tune with her mantle now and can shove the side effects in to hindred or thousands of Drow.
+>>>>> 
+>>>>> And if this is something that lets her make super powered portals, it'd be nice to have some reference to that in the text, rather than glossing over what's arguably the biggest power boost Cat has gotten thus far.
 
->>>>>> **u/Ka_min_sod** [+6] *
+>>>>>> **u/Ka_min_sod** [+6]  (7 hours later)
 >>>>>> 
 >>>>>> From what I understand The absolute positioning was a big deal to do because of the size of the gate. It was so large that is created a swamp after a few seconds, 5 iirc. They did this not by creating a traditional gate but overlaying the fae over creation, which I guess is an entirely different thing than gating. 
-
->>>>>> Draining the drow lake isn’t as difficult, just put one portal in a really deep spot and the other end over a natural basin in winter. 
->>>>>> So I guess what I’m saying is that Cat can do the same thing by herself with her new control and grasp of her powers, but at a different rate than absolute positioning. The math and time required to drain a province sized lake over several days is a question of fluid dynamics that I can’t answer, but in a word, absolute positioning just makes it happen near instantly by comparison.
 >>>>>> 
+>>>>>> Draining the drow lake isn’t as difficult, just put one portal in a really deep spot and the other end over a natural basin in winter. 
+>>>>>> 
+>>>>>> So I guess what I’m saying is that Cat can do the same thing by herself with her new control and grasp of her powers, but at a different rate than absolute positioning. The math and time required to drain a province sized lake over several days is a question of fluid dynamics that I can’t answer, but in a word, absolute positioning just makes it happen near instantly by comparison.
 
->>>>>>> **u/vimefer** [+5] *
+>>>>>>> **u/vimefer** [+3]  (8 hours later)
 >>>>>>> 
 >>>>>>> Cat, Larat and now Akua all can create gates to and from Arcadia, with some degree of "aiming" to the other side and precise control of where the gate appears on whichever side they are currently sitting on, this we already know and was established. Larat can make the largest gates, with Akua second and Cat trailing behind, IIRC.
->>>>>>> 
 
->>>>>>> **u/Agnoman** [+3] *
+>>>>>>> **u/Agnoman** [+3]  (18 hours later)
 >>>>>>> 
 >>>>>>> >was a big deal to do because of the size of the gate.
->>>>>>> Not quite. Cat and Masego, even working together, required the Observatory to pull it off.  The observatory which is an incredible tool for scrying, and was an incredible sink of resources to build.
->>>>>>> The fact that they needed an expensive scyring tool points towards this being something of a precision act.
->>>>>>> >They did this not by creating a traditional gate but overlaying the fae over creation, which I guess is an entirely different thing than gating
->>>>>>> The event was still described as a gate opening up over the armies, several times. The fact that Cat called out the process as somewhat distinct from gating just reinforces how difficult a task it's meant to be.
->>>>>>> > Cat can do the same thing by herself with her new control and grasp of her powers
->>>>>>> I'd buy this more if cat had made a comment literally anywhere about how her capability with gates has expanded, instead of her just receiving one of her biggest power ups seemingly in the background.
 >>>>>>> 
+>>>>>>> Not quite. Cat and Masego, even working together, required the Observatory to pull it off.  The observatory which is an incredible tool for scrying, and was an incredible sink of resources to build.
+>>>>>>> 
+>>>>>>> The fact that they needed an expensive scyring tool points towards this being something of a precision act.
+>>>>>>> 
+>>>>>>> >They did this not by creating a traditional gate but overlaying the fae over creation, which I guess is an entirely different thing than gating
+>>>>>>> 
+>>>>>>> The event was still described as a gate opening up over the armies, several times. The fact that Cat called out the process as somewhat distinct from gating just reinforces how difficult a task it's meant to be.
+>>>>>>> 
+>>>>>>> > Cat can do the same thing by herself with her new control and grasp of her powers
+>>>>>>> 
+>>>>>>> I'd buy this more if cat had made a comment literally anywhere about how her capability with gates has expanded, instead of her just receiving one of her biggest power ups seemingly in the background.
 
->>>> **u/rabotat** [+2] *
+>>>> **u/rabotat** [+2]  (14 hours later)
 >>>> 
 >>>> It was explicitly mentioned in the chapter where she goes to talk with the sigil holders.
->>>> 
 
->>>>> **u/Agnoman** [+3] *
+>>>>> **u/Agnoman** [+3]  (18 hours later)
 >>>>> 
 >>>>> It really wasn't. I'm assumiming you're talking about this:
 >>>>> >Having Masego along for the calculations would have been preferable, but admittedly Diabolist was no slouch when it came to numbers. She’d counted the bridges, figured out the weight and given me the correct floor. I hoped, anyway.
->>>>> ?
->>>>> Because for a start that math wasn't about the act of gate keeping, and beyond that Masego was doing a lot more than crunching numbers back when we saw the first lake drop.
 >>>>> 
+>>>>> ?
+>>>>> 
+>>>>> Because for a start that math wasn't about the act of gate keeping, and beyond that Masego was doing a lot more than crunching numbers back when we saw the first lake drop.
 
->>>>>> **u/rabotat** [+3] *
+>>>>>> **u/rabotat** [+3]  (a day later)
 >>>>>> 
 >>>>>> Yeah, that's the part. I read that as "akua is not masego, but she is still one of the most competent magic users of her generation, so she can run the necessary calculations".
->>>>>> 
 
->>>>>>> **u/Agnoman** [+0] *
+>>>>>>> **u/Agnoman** [+0]  (a day later)
 >>>>>>> 
 >>>>>>> Yes, Akua's good at maths, but the "necessary calculations" *weren't for the absolute positioning*.
->>>>>>> 
 
->> **u/Azzazeal** [+21] *
+>> **u/Azzazeal** [+21]  (3 hours later)
 >> 
 >> >Did we know this? It feels like the kind of thing that could have consequences for Drow society.
->> Yes. All the drow exiles have very little night. Ivah was a rylleh before being exiled to the surface.
 >> 
+>> Yes. All the drow exiles have very little night. Ivah was a rylleh before being exiled to the surface.
 
->>> **u/Agnoman** [+4] *
+>>> **u/Agnoman** [+4]  (3 hours later)
 >>> 
 >>> You're exactly right, thanks.
->>> 
 
->> **u/tavitavarus** [+7] *
+>> **u/tavitavarus** [+6]  (4 hours later)
 >> 
 >> The sigil-holders apparently took the oaths and may have been granted fae titles; as Akua now calls them the Peerage. Though I do agree that forcing Mighty into service like that seems worryingly villainous. 
->> Absolute positioning involved aligning specific places in Creation and Arcadia and opening a portal between them. That wasn't what she did when she stranded the Mighty or drained the lake here, she just opened a single portal to whatever part of Arcadia corresponds to this area and then closed it again.
 >> 
+>> Absolute positioning involved aligning specific places in Creation and Arcadia and opening a portal between them. That wasn't what she did when she stranded the Mighty or drained the lake here, she just opened a single portal to whatever part of Arcadia corresponds to this area and then closed it again.
 
->>> **u/Agnoman** [+13] *
+>>> **u/Agnoman** [+13]  (5 hours later)
 >>> 
 >>> >as Akua now calls them the Peerage
->>> This actually isn't stated. Akua calls the titled Drow the Peerage, but all we know of who those Drow are is that it includes "Soln and its fellows". How many of its fellows? Your guess is as good as mine. How did Soln end up oathed and titled? Your guess is as good as mine. Was there any change in protocols with the Drow who didn't originally sign up by choice? You get the idea.
->>> >Though I do agree that forcing Mighty into service like that seems worryingly villainous.
->>> Add onto this that there's a single obvious failure point for the Drow - the oaths - and it gets even more worrying. We've been told how obvious failure points tend to fail at just the wrong moment, even if we haven't really seen it happen.
-
->>> >she just opened a single portal to whatever part of Arcadia corresponds to this area and then closed it again.
->>> This potentially makes it difficult/impossible to get the lake back *out* of Arcadia like she thinks she can (if the other side is, say, a hill/incline or even just flat land)
->>> But throwing mountains and volcanoes on her enemies is definitely the sort of thing that absolute positioning would be used for. Hell, she threw a *lake* onto her enemies just a few chapters ago, the exact act that was shown to require absolute positioning.
 >>> 
+>>> This actually isn't stated. Akua calls the titled Drow the Peerage, but all we know of who those Drow are is that it includes "Soln and its fellows". How many of its fellows? Your guess is as good as mine. How did Soln end up oathed and titled? Your guess is as good as mine. Was there any change in protocols with the Drow who didn't originally sign up by choice? You get the idea.
+>>> 
+>>> >Though I do agree that forcing Mighty into service like that seems worryingly villainous.
+>>> 
+>>> Add onto this that there's a single obvious failure point for the Drow - the oaths - and it gets even more worrying. We've been told how obvious failure points tend to fail at just the wrong moment, even if we haven't really seen it happen.
+>>> 
+>>> >she just opened a single portal to whatever part of Arcadia corresponds to this area and then closed it again.
+>>> 
+>>> This potentially makes it difficult/impossible to get the lake back *out* of Arcadia like she thinks she can (if the other side is, say, a hill/incline or even just flat land)
+>>> 
+>>> But throwing mountains and volcanoes on her enemies is definitely the sort of thing that absolute positioning would be used for. Hell, she threw a *lake* onto her enemies just a few chapters ago, the exact act that was shown to require absolute positioning.
 
->>>> **u/tavitavarus** [+6] *
+>>>> **u/tavitavarus** [+6]  (5 hours later)
 >>>> 
 >>>> >This actually isn't stated. Akua calls the titled Drow the Peerage, but all we know of who those Drow are is that it includes "Soln and its fellows". How many of its fellows? Your guess is as good as mine. How did Soln end up oathed and titled? Your guess is as good as mine. Was there any change in protocols with the Drow who didn't originally sign up by choice? You get the idea.
->>>> Yes? I'm not sure what your point is here. You’re right, we know very little of what happened with the sigil-holders. All I was saying was that at least some of them appear to have been given Winter titles. 
->>>> >Add onto this that there's a single obvious failure point for the Drow - the oaths - and it gets even more worrying. We've been told how obvious failure points tend to fail at just the wrong moment, even if we haven't really seen it happen
->>>> In fairness the reason we haven't seen it happen much is because Black taught her to avoid single points of failure from day one. Although there are two examples I can think of-Cat's plan in the war games back in Book One and the lake-dropping at the start of this book.
->>>> >This potentially makes it difficult/impossible to get the lake back out of Arcadia like she thinks she can (if the other side is, say, a hill/incline or even just flat land)
->>>> The lake is described as being half the size of Daoine. It's not going to drain away any time soon
->>>> >But throwing mountains and volcanoes on her enemies is definitely the sort of thing that absolute positioning would be used for. Hell, she threw a lake onto her enemies just a few chapters ago, the exact act that was shown to require absolute positioning.
->>>> True. Hopefully we'll get an explanation in the next few chapters.
 >>>> 
+>>>> Yes? I'm not sure what your point is here. You’re right, we know very little of what happened with the sigil-holders. All I was saying was that at least some of them appear to have been given Winter titles. 
+>>>> 
+>>>> >Add onto this that there's a single obvious failure point for the Drow - the oaths - and it gets even more worrying. We've been told how obvious failure points tend to fail at just the wrong moment, even if we haven't really seen it happen
+>>>> 
+>>>> In fairness the reason we haven't seen it happen much is because Black taught her to avoid single points of failure from day one. Although there are two examples I can think of-Cat's plan in the war games back in Book One and the lake-dropping at the start of this book.
+>>>> 
+>>>> >This potentially makes it difficult/impossible to get the lake back out of Arcadia like she thinks she can (if the other side is, say, a hill/incline or even just flat land)
+>>>> 
+>>>> The lake is described as being half the size of Daoine. It's not going to drain away any time soon
+>>>> 
+>>>> >But throwing mountains and volcanoes on her enemies is definitely the sort of thing that absolute positioning would be used for. Hell, she threw a lake onto her enemies just a few chapters ago, the exact act that was shown to require absolute positioning.
+>>>> 
+>>>> True. Hopefully we'll get an explanation in the next few chapters.
 
->>>>> **u/Agnoman** [+6] *
+>>>>> **u/Agnoman** [+7]  (7 hours later)
 >>>>> 
 >>>>> >Yes? I'm not sure what your point is here. You’re right, we know very little of what happened with the sigil-holders. All I was saying was that at least some of them appear to have been given Winter titles.
+>>>>> 
 >>>>> Right, I think we're on the same page here as my point is exactly that - we know very little of what happened with the sigil-holders, which is an important thing for us to know about for the reasons I mentioned.
+>>>>> 
 >>>>> >The lake is described as being half the size of Daoine. It's not going to drain away any time soon
+>>>>> 
 >>>>> But put it out on flat land and it's not going to form a lake, so much as spread out into a very thin marshland-looking thing - and that's not exactly conducive to getting the water *out* with portals, because it wouldn't drain neatly. She just talked about the difficulty of pulling all the water out of the lake due to irregularities in the topography, and that's happening in what was already the basin of a lake.
+>>>>> 
 >>>>> I mean it could work, I guess, as there are a lot of unknowns in play here. But it doesn't really matter either way? My point is that Cat can 
 >>>>> can apparently do absolute positioning on her own now, and what happens with the lake here doesn't really change that either way when she's talking about dropping lakes/mountains/volcanoes from Arcadia onto her enemies.
->>>>> >In fairness the reason we haven't seen it happen much is because Black taught her to avoid single points of failure from day one. Although there are two examples I can think of-Cat's plan in the war games back in Book One and the lake-dropping at the start of this book.
->>>>> I think a big part of the reason is that Cat tends to avoid *plans* full stop and go for a more improvisational approach to problem solving. 
->>>>> Although the specific ones I was thinking of were the more recent plans from Juniper and Black against the Crusades, which had big obvious failure points that triggered nothing (even though there was explicit discussion of the need to avoid such plans right beforehand). But that's straying from the point here.
->>>>> >True. Hopefully we'll get an explanation in the next few chapters.
->>>>> Fingers crossed. Personally my preferences run more towards getting foreshadowing and setup happening *before* important things occur, but I'm certainly not going to say no to an explanation.
 >>>>> 
+>>>>> >In fairness the reason we haven't seen it happen much is because Black taught her to avoid single points of failure from day one. Although there are two examples I can think of-Cat's plan in the war games back in Book One and the lake-dropping at the start of this book.
+>>>>> 
+>>>>> I think a big part of the reason is that Cat tends to avoid *plans* full stop and go for a more improvisational approach to problem solving. 
+>>>>> 
+>>>>> Although the specific ones I was thinking of were the more recent plans from Juniper and Black against the Crusades, which had big obvious failure points that triggered nothing (even though there was explicit discussion of the need to avoid such plans right beforehand). But that's straying from the point here.
+>>>>> 
+>>>>> >True. Hopefully we'll get an explanation in the next few chapters.
+>>>>> 
+>>>>> Fingers crossed. Personally my preferences run more towards getting foreshadowing and setup happening *before* important things occur, but I'm certainly not going to say no to an explanation.
 
->>>>>> **u/Chesheire** [+2] *
+>>>>>> **u/Chesheire** [+2]  (12 hours later)
 >>>>>> 
 >>>>>> [u/earnestadmission's comment, which I strongly believe in. We don't need extremely forced dialogue with a force that was shown to be a trifle along a larger, more dangerous path. It's the first victory of many in an arc specifically set up to display inter-personal relationships and character interaction.](https://www.reddit.com/r/rational/comments/9uwo4b/rthf_a_practical_guide_to_evil_book_4_chapter_68/e98f8q6/)
->>>>>> 
 
->>>>>>> **u/Agnoman** [+3] *
+>>>>>>> **u/Agnoman** [+3]  (17 hours later)
 >>>>>>> 
 >>>>>>> "Trifle" in that individual members of the group were actual threats to Cat, and who are a vital first step along that more dangerous path. Plus there's the whole narrative importance of Cat kidnapping people and forcing them into her magically-bound army.
->>>>>>> 
 
->>>> **u/vimefer** [+1] *
+>>>> **u/vimefer** [+1]  (8 hours later)
 >>>> 
 >>>> > We've been told how obvious failure points tend to fail at just the wrong moment, even if we haven't really seen it happen.
->>>> As an aside, I wonder if this could be exploited, where as long as you make sure there is a "better" later time at which failure of that point would be more devastating for yourself, you can assume it will keep holding ? If it's a thing then I'm sure Dread Emperor Irritant already knew all about this...
->>>> IIRC Cat incorporated contingencies in the oaths.
 >>>> 
+>>>> As an aside, I wonder if this could be exploited, where as long as you make sure there is a "better" later time at which failure of that point would be more devastating for yourself, you can assume it will keep holding ? If it's a thing then I'm sure Dread Emperor Irritant already knew all about this...
+>>>> 
+>>>> IIRC Cat incorporated contingencies in the oaths.
 
->>>> **u/MythSteak** [+1] *
+>>>> **u/MythSteak** [+1]  (12 hours later)
 >>>> 
 >>>> I think that the lacof focus on the particulars of the oaths is a signal that they won’t be a point of failure... there is such a thing as the “conservation of narrative” and I bet that there would be much more focus on the oaths if that were planned for a later piece of plot
->>>> 
 
->> **u/melmonella** [+2]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+2]  *Tremble, o ye mighty, for a new age is upon you* (8 hours later)
 >> 
 >> > now she can drop mountains on people and steal cities
->> I mean, that one is just a normal use of a gate.
 >> 
+>> I mean, that one is just a normal use of a gate.
 
->>> **u/Agnoman** [+3] *
+>>> **u/Agnoman** [+3]  (18 hours later)
 >>> 
 >>> Not really?
->>> We've never heard of Cat's gates being able to cut things until a few chapters ago, despite her having them for over a book now. And the last time  she was doing precision work like this required Masego, the Observatory, and a whole lot of set up.
 >>> 
+>>> We've never heard of Cat's gates being able to cut things until a few chapters ago, despite her having them for over a book now. And the last time  she was doing precision work like this required Masego, the Observatory, and a whole lot of set up.
 
->>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (18 hours later)
 >>>> 
 >>>> Cutting thing is the new one, sure, but if you grant that then mountain is not in principle different from a lake.
->>>> 
 
->>>>> **u/Agnoman** [+2] *
+>>>>> **u/Agnoman** [+2]  (21 hours later)
 >>>>> 
 >>>>> Exactly. And when we were introduced to the principle of the lake dropping, we were show the requirements for it - namely, Masego and the Observatory. Now she doesn't need them? And she can cut things with her portals? And she's using these two powers to sack cities without any build up or explanation?
->>>>> 
 
->> **u/werafdsaew** [+1] *
+>> **u/werafdsaew** [+1]  (12 hours later)
 >> 
 >> Chapter 67 and the Ivah interlude told us how she took Lotow.
->> 
 
->>> **u/Agnoman** [+1] *
+>>> **u/Agnoman** [+1]  (a day later)
 >>> 
 >>> Neither of these chapters dealt with what happened with the seven sigil-holders post chapter 67, and Ivah's interlude was an extra chapter that's not even part of the main story.
->>> Cat set up a classic evil situation at the end of 67, with monologues and death traps she walked away from and truce-breaking and ultimatums about joining her, and then somewhere before 68 Soln (and maybe some unknown number of the other 6) was inducted into Cat's peerage. "How did that happen?", you might ask. Maybe they got cold and asked to be let out? Despite how environmental hazards far deeper into Winter have never been shown to worry even far weaker beings than these seven Drow?
->>> What else happened here? Are there any Drow wandering around Arcadia that have vowed revenge and stumbled into a story, as those in Arcadia are wont to do? No clue. Is there anything different going on with the oaths of these Drow who, unlike the rest, were *forced* into oath-bound slavery against their will? Maybe we'll find out later.
->>> And now Cat has dealt with these seven godlike figures, whose strength and power were built up over several chapters to the point where each one individually was a deadly threat, almost entirely off-screen and increased her military power almost exponentially.
->>> Also she's leapt from struggling against the weakest sigil-holder in a nowhere-city to the point where she is now single-handily sacking an entire city three times the size of Lotow with powers that have come out of nowhere.
->>> She's had the ability to open gates for something like a book and a half now, and has never so much as *mentioned* the ability to cut things with them before 67. Was she always capable of this, but somehow never thought it would be useful before now? Has she been secretly training off-screen and just never brought this up or hinted at it on-screen? Did she accidentally cut something recently and go "wow, this is neat, this sure would have been useful previously"?
->>> And she can also now pull off absolute positioning without either Masego or the Observatory and can drop volcanoes and mountains and lakes on her enemies, despite how difficult this was shown to be previously. Huh?
->>> And not only was there no build up or explanation given to this, she's not even mentioned this increase in her capabilities after the fact? Apparently no-one is surprised by the incredible power-up Cat received?
 >>> 
+>>> Cat set up a classic evil situation at the end of 67, with monologues and death traps she walked away from and truce-breaking and ultimatums about joining her, and then somewhere before 68 Soln (and maybe some unknown number of the other 6) was inducted into Cat's peerage. "How did that happen?", you might ask. Maybe they got cold and asked to be let out? Despite how environmental hazards far deeper into Winter have never been shown to worry even far weaker beings than these seven Drow?
+>>> 
+>>> What else happened here? Are there any Drow wandering around Arcadia that have vowed revenge and stumbled into a story, as those in Arcadia are wont to do? No clue. Is there anything different going on with the oaths of these Drow who, unlike the rest, were *forced* into oath-bound slavery against their will? Maybe we'll find out later.
+>>> 
+>>> And now Cat has dealt with these seven godlike figures, whose strength and power were built up over several chapters to the point where each one individually was a deadly threat, almost entirely off-screen and increased her military power almost exponentially.
+>>> 
+>>> Also she's leapt from struggling against the weakest sigil-holder in a nowhere-city to the point where she is now single-handily sacking an entire city three times the size of Lotow with powers that have come out of nowhere.
+>>> 
+>>> She's had the ability to open gates for something like a book and a half now, and has never so much as *mentioned* the ability to cut things with them before 67. Was she always capable of this, but somehow never thought it would be useful before now? Has she been secretly training off-screen and just never brought this up or hinted at it on-screen? Did she accidentally cut something recently and go "wow, this is neat, this sure would have been useful previously"?
+>>> 
+>>> And she can also now pull off absolute positioning without either Masego or the Observatory and can drop volcanoes and mountains and lakes on her enemies, despite how difficult this was shown to be previously. Huh?
+>>> 
+>>> And not only was there no build up or explanation given to this, she's not even mentioned this increase in her capabilities after the fact? Apparently no-one is surprised by the incredible power-up Cat received?
 
-> **u/leakycauldron** [+22]  *Imperium of Man**
+> **u/leakycauldron** [+22]  *Imperium of Man* (24 minutes later)
 > 
 > Sort of a rush-job chapter to get us back up to speed after a month skip.
-> Akua's separation of personality might be the means of betrayal, though. Cat's questions might be being asked to one and not the other. I doubt Diabolist would tip her hand so early, but maybe Akua would.
-> It's generally agreed on this subreddit that Akua will take the Mantle of Winter and we'll get Cat with a Name again, while I tend to agree, Cat is still clenching her teeth about Liesse. How does the Queen of Winter make up for past sins? Nothing about Akua, Diabolist or Winter suggest to me that it'll be a peaceful abdication.
 > 
+> Akua's separation of personality might be the means of betrayal, though. Cat's questions might be being asked to one and not the other. I doubt Diabolist would tip her hand so early, but maybe Akua would.
+> 
+> It's generally agreed on this subreddit that Akua will take the Mantle of Winter and we'll get Cat with a Name again, while I tend to agree, Cat is still clenching her teeth about Liesse. How does the Queen of Winter make up for past sins? Nothing about Akua, Diabolist or Winter suggest to me that it'll be a peaceful abdication.
 
->> **u/Just_some_guy16** [+21] *
+>> **u/Just_some_guy16** [+23]  (55 minutes later)
 >> 
 >> Really? Why do people think akua will get the winter mantle, it seems like a hilariously bad idea to me
->> 
 
->>> **u/signspace13** [+10] *
+>>> **u/signspace13** [+11]  (an hour later)
 >>> 
 >>> Yeah, I'm not to into that idea either, I haven't been keeping up too much lately (mostly because I'm waiting for some chapters to build up, I check these comments cause I enjoy spoilers) but I'm not a fan of Cat losing a power that she rightfully earned, I like the idea of her harnessing the power to her will more, changing it in such a way that it conforms to her desires, which has always been Cat's brand of evil.
->>> My pet theory on how her plot with Akua is that at some point their will be a merger, similar to what happened with the mantle, she will somehow merge with Akua and gain all her memories, which would make her better at magic and politics, both of which she dearly needs, but not change too fundamentally as a result. 
->>> I have had this theory ever since Akua managed to weave herself into the mantle, it might however happen in such a way that conforms to the above suggestion, Akua makes off with the mantle and to get it back Cat has to take her in with it, this could result in a name, something defined by the act of bending the power of a god to your will, rather than just having it.
 >>> 
+>>> My pet theory on how her plot with Akua is that at some point their will be a merger, similar to what happened with the mantle, she will somehow merge with Akua and gain all her memories, which would make her better at magic and politics, both of which she dearly needs, but not change too fundamentally as a result. 
+>>> 
+>>> I have had this theory ever since Akua managed to weave herself into the mantle, it might however happen in such a way that conforms to the above suggestion, Akua makes off with the mantle and to get it back Cat has to take her in with it, this could result in a name, something defined by the act of bending the power of a god to your will, rather than just having it.
 
->>>> **u/vimefer** [+10] *
+>>>> **u/vimefer** [+11]  (8 hours later)
 >>>> 
 >>>> I hope Akua ends up dissolving into Cat's persona rather than a melding, if you're right. And I hope that the process is properly mind-chillingly horrific for her to undergo while conscious and able to understand what is happening to her.
->>>> 
 
->>>> **u/SrNagato** [+4] *
+>>>> **u/SrNagato** [+5]  (7 hours later)
 >>>> 
 >>>> >this could result in a name, something defined by the act of bending the power of a god to your will, rather than just having it.
->>>> That sounds awfully like Hierophant's area of expertise, although he is focused on actions performed by the power of gods (miracles) he isn't shy of binding, brainwashing and generally fucking over gods
 >>>> 
+>>>> That sounds awfully like Hierophant's area of expertise, although he is focused on actions performed by the power of gods (miracles) he isn't shy of binding, brainwashing and generally fucking over gods
 
->>>>> **u/signspace13** [+2] *
+>>>>> **u/signspace13** [+2]  (10 hours later)
 >>>>> 
 >>>>> That is a bit of an overlap, my assumption of Heirophant, and most other mage named, is that he is doing it with magic, not name magic, but actual sorcery as it is defined in the world. I believe this because if it isn't true than mage names are complete bullshit. 
->>>>> Heirophant can use the magic to imitate a god's (lower case intentional) action so long as he has *witnessed*, my idea for cat is more domineering than that, she would be an actual threat to all Gods, including above and bellow, and I say this because the story has to have an end, and the most conclusive end I can think of is if Cat manages to tell the Gods to go fuck themselves and leave her continent alone, a conclusion in which she would need the ability to kill and utilise the power of gods for, because the best reason I can think of for them to leave her and her stuff be is if they are *terrified* of her.
 >>>>> 
+>>>>> Heirophant can use the magic to imitate a god's (lower case intentional) action so long as he has *witnessed*, my idea for cat is more domineering than that, she would be an actual threat to all Gods, including above and bellow, and I say this because the story has to have an end, and the most conclusive end I can think of is if Cat manages to tell the Gods to go fuck themselves and leave her continent alone, a conclusion in which she would need the ability to kill and utilise the power of gods for, because the best reason I can think of for them to leave her and her stuff be is if they are *terrified* of her.
 
->>>>>> **u/SrNagato** [+2] *
+>>>>>> **u/SrNagato** [+2]  (10 hours later)
 >>>>>> 
 >>>>>> So you are talking about a return to Take/Break/Fall Cat or some version of it?
->>>>>> I can see that happening if Cat loses the Winter mantle, gets a dope new name and somehow breaks Creation in the process.
 >>>>>> 
+>>>>>> I can see that happening if Cat loses the Winter mantle, gets a dope new name and somehow breaks Creation in the process.
 
->>> **u/Ardvarkeating101** [+5]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+4]  *Father of Learning* (an hour later)
 >>> 
 >>> Yes, and Akua is famous for those.  So she’ll steal the winter mantle and horrible things will happen
->>> 
 
->>> **u/leakycauldron** [+7]  *Imperium of Man**
+>>> **u/leakycauldron** [+5]  *Imperium of Man* (an hour later)
 >>> 
 >>> Catherine hasn't been doing a great job of using winter power. The guess is that Akua will be her treacherous lieutenant and usurp the moment winter is cut from her by Saint of Swords again
->>> 
 
->>> **u/leakycauldron** [+4]  *Imperium of Man**
+>>> **u/leakycauldron** [+4]  *Imperium of Man* (an hour later)
 >>> 
 >>> After all, she Named the Lords, has been the shunting spot for Catherine's power and has been getting in close with cat's Fae faction since they left for Arcadia. Diabolist is more than prepared to usurp extraworldy powers.
->>> 
 
->>>> **u/tavitavarus** [+6] *
+>>>> **u/tavitavarus** [+7]  (3 hours later)
 >>>> 
 >>>> Yeah but Diabolist herself admitted she has no hope of taking the mantle by force as in Kaleidoscope part 6
->>>> 'In her current state, it would be impossible for her to claim this body if Catherine disallowed it. The discrepancy in will and power was overwhelming.'
->>>> And any more complicated plot will be discovered by Cat during their regular chats.
 >>>> 
+>>>> 'In her current state, it would be impossible for her to claim this body if Catherine disallowed it. The discrepancy in will and power was overwhelming.'
+>>>> 
+>>>> And any more complicated plot will be discovered by Cat during their regular chats.
 
->> **u/werafdsaew** [+15] *
+>> **u/werafdsaew** [+13]  (12 hours later)
 >> 
 >> > It's generally agreed on this subreddit that Akua will take the Mantle of Winter and we'll get Cat with a Name again
->> No, there is no such consensus, and I wish people would stop treating Cat like an idiot.
 >> 
+>> No, there is no such consensus, and I wish people would stop treating Cat like an idiot.
 
->>> **u/Nic_Cage_DM** [+2] *
+>>> **u/Nic_Cage_DM** [+2]  (18 hours later)
 >>> 
 >>> Wouldn't you agree that she's going to try to usurp Winter, though? She's got 'Traitorous Lieutenant' carved into her soul.
->>> 
 
->>>> **u/werafdsaew** [+3] *
+>>>> **u/werafdsaew** [+3]  (18 hours later)
 >>>> 
 >>>> No, she currently has no plan to usurp Winter, or else Cat would find out during one of her daily chats.  She certainly would try if she thought she would succeeds, but she won't until she's certain.
->>>> 
 
->>>>> **u/leakycauldron** [+2]  *Imperium of Man**
+>>>>> **u/leakycauldron** [+2]  *Imperium of Man* (21 hours later)
 >>>>> 
 >>>>> Akua the Diabolist definitely knows a thing or two about avoiding questions and subverting oaths
->>>>> 
 
->>>>> **u/greiskul** [+1] *
+>>>>> **u/greiskul** [+1]  (23 hours later)
 >>>>> 
 >>>>> Could Akua be removing her memories of her plan to betray Cat, so when she is questioned she can be honest? Maybe have one of her drow return her memories from time to time, just enough for her to plan what next step is necessary. If anybody is good enough to make a plan that involves the manipulation of Cat, drows, and Akua, it could be Akua herself.
->>>>> 
 
->>>>>> **u/werafdsaew** [+1] *
+>>>>>> **u/werafdsaew** [+1]  (a day later)
 >>>>>> 
 >>>>>> Except you've just increased the difficulty exponentially
->>>>>> 
 
->> **u/LordSwedish** [+6]  *Q Continuum**
+>> **u/LordSwedish** [+4]  *Q Continuum* (an hour later)
 >> 
 >> I think Cat's words are on point here, the "veil" Praesi use to separate themselves from their titles is fragile. Catherine doesn't just ask Akua or Diabolist, she asks her soul..and by ask, I mean force.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 hours later)
 >> 
 >> Maybe, but wasn't her second self destroyed at Liesse?
->> 
 
->>> **u/leakycauldron** [+1]  *Imperium of Man**
+>>> **u/leakycauldron** [+1]  *Imperium of Man* (6 hours later)
 >>> 
 >>> Which self?
->>> 
 
->>>> **u/GeeJo** [+2]  *Custom Flair**
+>>>> **u/GeeJo** [+2]  *Custom Flair* (8 hours later)
 >>>> 
 >>>> Akua's reincarnation vessel, I presume.
->>>> 
 
->>>>> **u/hailcapital** [+1] *
+>>>>> **u/hailcapital** [+1]  (11 hours later)
 >>>>> 
 >>>>> I think it might be the other way 'round. What we're seeing could be the reincarnation vessel.
->>>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (18 hours later)
 >>>> 
 >>>> Her self as Diabloist.
->>>> 
 
-> **u/narfanator** [+9] *
+> **u/narfanator** [+8]  (3 hours later)
 > 
 > I am ridiculously excited for what the tactical, strategic, and economic usage of Arcadia will be.
-> Also, called it.
 > 
+> Also, called it.
 
-> **u/Zayits** [+5] *
+> **u/Zayits** [+5]  (52 seconds later)
 > 
 > [Vote for A Practical Guide to Evil on TopWebFiction!](http://topwebfiction.com/vote.php?for=a-practical-guide-to-evil)
-> Character contest continues, Hierophant vs Hune. [Link to the vote.](https://www.strawpoll.me/16794917?fbclid=IwAR07-zJQGBZfft87vMfWiqOtpZ7FiilSEbg8yPc3apfD1C98wtNJjih7ub8)
 > 
+> Character contest continues, Hierophant vs Hune. [Link to the vote.](https://www.strawpoll.me/16794917?fbclid=IwAR07-zJQGBZfft87vMfWiqOtpZ7FiilSEbg8yPc3apfD1C98wtNJjih7ub8)
 
-> **u/MasterCrab** [+3] *
+> **u/MasterCrab** [+3]  (an hour later)
 > 
 > Catherine's mention of Sinstra makes me interested about what she actually did back then.
-> 
 
->> **u/hailcapital** [+22] *
+>> **u/hailcapital** [+21]  (2 hours later)
 >> 
 >> Try to steal Callow's weather, IIRC
->> Which is why Akua likes it so much. It's the ultimate form of Classical Ham villainy.
 >> 
+>> Which is why Akua likes it so much. It's the ultimate form of Classical Ham villainy.
 
->>> **u/tavitavarus** [+10] *
+>>> **u/tavitavarus** [+10]  (3 hours later)
 >>> 
 >>> Yep and the backlash created the Wasteland.
->>> 
 
->>>> **u/narfanator** [+2] *
+>>>> **u/narfanator** [+2]  (3 hours later)
 >>>> 
 >>>> Yeah, but then don't steal it!
->>>> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+9]  (5 hours later)
 >>> 
 >>> >Which is why Akua likes it so much. It's the ultimate form of Classical Ham villainy.
->>> I've always suspected that Sinistra was one of the more intelligent villains.  She saw an overarching problem caused by geography and tried to solve it through her only lens.  The Gods probably leaned heavily on the scale to make it blow up.
 >>> 
+>>> I've always suspected that Sinistra was one of the more intelligent villains.  She saw an overarching problem caused by geography and tried to solve it through her only lens.  The Gods probably leaned heavily on the scale to make it blow up.
 
->>>> **u/hailcapital** [+9] *
+>>>> **u/hailcapital** [+7]  (11 hours later)
 >>>> 
 >>>> intelligence and classical villainy aren't necessarily in opposition- I think Kairos and Akua speak to that.
->>>> 
 
 ---
 

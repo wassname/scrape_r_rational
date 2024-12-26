@@ -22,25 +22,21 @@ If you read this and enjoy it too, I also recommend Butler's [Kindred](https://w
 
 ### Comments:
 
-> **u/AllfairChatwin** [+9] *
+> **u/AllfairChatwin** [+7]  (56 minutes later)
 > 
 > Love Octavia Butler's books.  The Xenogenesis trilogy is also excellent and has a complex, well-written alien species with logical motivations for wanting to take over the human species based on their own biological drives, and the main characters, especially the protagonist of the first book, may not be totally rationalist but they at least seem to try hard to make sensible, pragmatic decisions when trapped in frightening, unfamiliar situations.
-> 
 
->> **u/LazarusRises** [+3] *
+>> **u/LazarusRises** [+3]  (18 hours later)
 >> 
 >> +1 for Xenogenesis, which is now sold as Lilith's Brood. Specifically interesting for its take on nonhuman sexuality and interspecies dynamics (as are many of Butler's books).
->> 
 
-> **u/AnonymousAvatar** [+3] *
+> **u/AnonymousAvatar** [+3]  (38 minutes later)
 > 
 > And I didn't even mention The Destiny...
-> 
 
-> **u/aarongertler** [+3] *
+> **u/aarongertler** [+3]  (4 hours later)
 > 
 > I second both Parable of the Sower and Wild Seed. Parable is a really fascinating look at an alternate reality where the ambient level of social trust drops sharply and people just can't get along anymore.
-> 
 
 ---
 

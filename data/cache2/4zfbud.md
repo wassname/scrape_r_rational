@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/4zfbud/biweekly_challenge_underground/
-* Score: 11
+* Score: 12
 
 * Created: 2016-08-24T22:51:52
 
@@ -51,17 +51,17 @@ Next time we'll be doing **"Moloch"**. If you haven't already, go read [Meditati
 
 ### Comments:
 
-> **u/Kishoto** [+7] *
+> **u/Kishoto** [+8]  (9 days later)
 > 
 > [ViD](https://kishoto.wordpress.com/2016/09/03/vid/)
-> Word Count: 5500 words.
 > 
+> Word Count: 5500 words.
 
-> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (11 days later)
 > 
 > [Echoes](https://docs.google.com/document/d/1UcTFMA1yy9SzxZTMw_i4Lv5nytISJyKS0ELYrR-RUI4/edit), a short elaboration on the history behind certain events in Undertale. Spoilers for it, of course, and this isn't particularly rational, but I did promise to put out SOMETHING for this challenge, and my fanfic isn't quite ready to publish yet.
-> Word count: 674
 > 
+> Word count: 674
 
 ---
 

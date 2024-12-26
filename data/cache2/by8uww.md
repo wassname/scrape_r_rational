@@ -23,240 +23,244 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/the_terran** [+14] *
+> **u/the_terran** [+14]  (an hour later)
 > 
 > You have been given an extremely detailed snapshot of Earth’s surface by say, aliens. Nobody else knows you have it, nobody knows it exists.
-> Snapshot itself is a gigantic array of non-indexed data. It is stored in an irreplaceable and irreplicable artifact that you have managed to build an interface to. The data contains everything 10 km above and below sea level with a resolution of 1 nanometer, taken at January 1st of this year at GMT 00:00. For every nanometer cube (actually slightly skewed cube, being part of a shell), percentage of every element (down to a minimum of 1%), and its overall weight in grams are given.
-> [Some back of the envelope calculations suggest that amount of data exceeds the storage capabilities we have, so assume you send queries for a given volume and get back the results.]
-> You have the resources of a mid-size software company; 100 employees, $100 million in liquid assets, as well as a network you can tap for additional financing as needed.
-> How do you effectively go around making money (and/or take over the world), without getting killed by every intelligence agency ever?
 > 
+> Snapshot itself is a gigantic array of non-indexed data. It is stored in an irreplaceable and irreplicable artifact that you have managed to build an interface to. The data contains everything 10 km above and below sea level with a resolution of 1 nanometer, taken at January 1st of this year at GMT 00:00. For every nanometer cube (actually slightly skewed cube, being part of a shell), percentage of every element (down to a minimum of 1%), and its overall weight in grams are given.
+> 
+> [Some back of the envelope calculations suggest that amount of data exceeds the storage capabilities we have, so assume you send queries for a given volume and get back the results.]
+> 
+> You have the resources of a mid-size software company; 100 employees, $100 million in liquid assets, as well as a network you can tap for additional financing as needed.
+> 
+> How do you effectively go around making money (and/or take over the world), without getting killed by every intelligence agency ever?
 
->> **u/Veedrac** [+10] *
+>> **u/Veedrac** [+10]  (7 hours later)
 >> 
 >> > Some back of the envelope calculations suggest that amount of data exceeds the storage capabilities we have
->> That's not even close. This *contains* all the storage we have, and a whole other bunch besides.
->> The primary issue is that if you only have access to the raw data, you won't have the compute necessary to exploit it properly. If it came with hierarchical summaries, usage would be a lot more feasible.
 >> 
+>> That's not even close. This *contains* all the storage we have, and a whole other bunch besides.
+>> 
+>> The primary issue is that if you only have access to the raw data, you won't have the compute necessary to exploit it properly. If it came with hierarchical summaries, usage would be a lot more feasible.
 
->>> **u/the_terran** [+1] *
+>>> **u/the_terran** [+1]  (16 hours later)
 >>> 
 >>> That is what makes it a long term project. You won't have access to entire data at once, only try to analyze it in manageable chunks.
->>> 
 
->>> **u/Norseman2** [+1] *
+>>> **u/Norseman2** [+1]  (17 hours later)
 >>> 
 >>> For reference, the actual volume within that shell would be about 10.2 billion cubic kilometers, so you'd have about 1.02 × 10^25 nanometer-cube-sized spaces within the shell. Each cube would need to specify a position to nanometer precision, plus a list of elements by percentages (to what precision?), and the combined mass of the contents of the cube in grams (to what precision?). Without specified precision it's hard to say exactly how large this would be, but the upper limit should be an exact specification of the number of atoms of each element. For that, we'd be looking at something like less than 100 bytes for each cube depending on how many different elements are present. That leaves us with 1.02 × 10^27 bytes of data. So, that's maybe a billion times more than the combined data storage capacity of all devices on Earth at present.
->>> You could exploit the data fairly effectively for mining if you just ask for millions or billions of nanometer-sized areas scattered around the world at positions that would place them underground in a location that you would be able to buy mining rights in. That gives you little samplers of the exact geological composition so you could easily locate ore deposits, precious gems, groundwater, oil reserves, etc. Basically, use a stochastic search. You could also, conceivably, build your own hierarchical summary based upon stochastically-collected data to help you analyze the best locations for setting up mines.
 >>> 
+>>> You could exploit the data fairly effectively for mining if you just ask for millions or billions of nanometer-sized areas scattered around the world at positions that would place them underground in a location that you would be able to buy mining rights in. That gives you little samplers of the exact geological composition so you could easily locate ore deposits, precious gems, groundwater, oil reserves, etc. Basically, use a stochastic search. You could also, conceivably, build your own hierarchical summary based upon stochastically-collected data to help you analyze the best locations for setting up mines.
 
->>>> **u/Veedrac** [+2] *
+>>>> **u/Veedrac** [+2]  (19 hours later)
 >>>> 
 >>>> [surface area of earth * 20km / 1nm³ ≈ 10^(46)](https://www.wolframalpha.com/input/?i=surface+area+of+earth+*+20km+%2F+1nm%C2%B3)
->>>> A human alone contains significantly more than 10^25 atoms.
 >>>> 
+>>>> A human alone contains significantly more than 10^25 atoms.
 
->>>>> **u/Norseman2** [+1] *
+>>>>> **u/Norseman2** [+1]  (19 hours later)
 >>>>> 
 >>>>> Thank you, you are close to correct, but calculating for a flat plane. I screwed up on the volume conversion between kilometers cubed and nanometers cubed. I had a brain fart and treated it as 12 orders of magnitude instead of 36 orders of magnitude. The correct answer using spherical volumes is actually ~ 1.02 × 10^49.
->>>>> To get the volume in kilometers cubed: (4/3.0)×pi×(6371+10)^3 - (4/3.0)×pi×(6371-10)^3.
 >>>>> 
+>>>>> To get the volume in kilometers cubed: (4/3.0)×pi×(6371+10)^3 - (4/3.0)×pi×(6371-10)^3.
 
->>>>>> **u/Veedrac** [+2] *
+>>>>>> **u/Veedrac** [+2]  (20 hours later)
 >>>>>> 
 >>>>>> A flat plane is fine because the earth is [locally flat](https://twitter.com/topologyfact/status/1023341932955795456?lang=en). [You calculated incorrectly again, sorry.][1]
->>>>>> [1]: https://www.wolframalpha.com/input/?i=((4%2F3.0)%C3%97pi%C3%97(6371%2B10)%C2%B3+-+(4%2F3.0)%C3%97pi%C3%97(6371-10)%C2%B3+km%C2%B3)+%2F+1nm%C2%B3
 >>>>>> 
+>>>>>> [1]: https://www.wolframalpha.com/input/?i=((4%2F3.0)%C3%97pi%C3%97(6371%2B10)%C2%B3+-+(4%2F3.0)%C3%97pi%C3%97(6371-10)%C2%B3+km%C2%B3)+%2F+1nm%C2%B3
 
->> **u/holomanga** [+9] *
+>> **u/holomanga** [+8]  (7 hours later)
 >> 
 >> Background on this thing's resolution: A nanometer is hella small. An atom is about an angstrom, which is 0.1 nm. Typical lattice parameters for crystals are like 2-3 angstroms. So a 1 nm cube is averaging over something on the order of 100 atoms, and for a good proportion of them the percentages boil down to more-or-less exact atom counts.
->> 
 
->>> **u/the_terran** [+3] *
+>>> **u/the_terran** [+3]  (16 hours later)
 >>> 
 >>> My benchmark was being able to identify a single viral particle in the air so I went a little over the board. That is too fine a resolution.
->>> 
 
->> **u/Roneitis** [+5] *
+>> **u/Roneitis** [+6]  (2 hours later)
 >> 
 >> My first thoughts would be mining, make some sort of a simple ordering function accounting for market value of a material, density, depth etc, and ask for a sorted list of deposits in terms of this ordering. Then pretend you've got a fancy new method for finding this info without telling anyone how it works and start a small but hyper efficient mining operation.
->> Maybe this could be used for fossils or something, but I doubt you could make any great distinctions with this sort of resolution, and there's not much money to be found here. More generally along this line, I realise I'm thinking down the track of valuable things to be found in the crust of the earth, and other than simple valuable materials, probably the next best thing is underground ruins? I don't know much about the field, but with some research, maybe this is a valuable path to go down. Maybe air pockets of a certain unusual shape? Look for sharp corners?
->> I don't think this has a whole bunch of utility with regards to doing anything with the populated world, because the data you're getting is rather vague with the whole elemental breakdown thing. How could you read a piece of paper or hear a conversation using such a tool? This makes it kinda worthless for political stuff I'd think.
->> You could find man made objects on the floor of the ocean, but that seems like it might net you notoriety, not riches. Which is kinda my thought on the ruins and fossils thing too.
->> Maybe there's some value in being able to chemically analyse objects that already exist but are too valuable to actually break down? If you got isotopic data (I'm lightly massaging the prompt here) you could carbon date anything, but you can't disclose information gotten this way to the world, and it seems a little hard to leverage. Maybe isotopic data could be calculated based off the weight (if it's precise enough) and you have the elemental make up?
 >> 
+>> Maybe this could be used for fossils or something, but I doubt you could make any great distinctions with this sort of resolution, and there's not much money to be found here. More generally along this line, I realise I'm thinking down the track of valuable things to be found in the crust of the earth, and other than simple valuable materials, probably the next best thing is underground ruins? I don't know much about the field, but with some research, maybe this is a valuable path to go down. Maybe air pockets of a certain unusual shape? Look for sharp corners?
+>> 
+>> I don't think this has a whole bunch of utility with regards to doing anything with the populated world, because the data you're getting is rather vague with the whole elemental breakdown thing. How could you read a piece of paper or hear a conversation using such a tool? This makes it kinda worthless for political stuff I'd think.
+>> 
+>> You could find man made objects on the floor of the ocean, but that seems like it might net you notoriety, not riches. Which is kinda my thought on the ruins and fossils thing too.
+>> 
+>> Maybe there's some value in being able to chemically analyse objects that already exist but are too valuable to actually break down? If you got isotopic data (I'm lightly massaging the prompt here) you could carbon date anything, but you can't disclose information gotten this way to the world, and it seems a little hard to leverage. Maybe isotopic data could be calculated based off the weight (if it's precise enough) and you have the elemental make up?
 
->>> **u/the_terran** [+5] *
+>>> **u/the_terran** [+4]  (5 hours later)
 >>> 
 >>> Mining and treasure hunting is a given, though you need to come up with a cover story for literally striking gold every time. 
->>> &#x200B;
->>> A nanometer resolution should be enough to read most texts I believe. Ink would have a different elemental profile compared to blank paper.
 >>> 
+>>> &#x200B;
+>>> 
+>>> A nanometer resolution should be enough to read most texts I believe. Ink would have a different elemental profile compared to blank paper.
 
->>>> **u/CCC_037** [+3] *
+>>>> **u/CCC_037** [+3]  (a day later)
 >>>> 
 >>>> Strike literal gold the first two or three times, and then start deliberate missing every second strike. (Or claim you're still looking for gold when you send a team to strike oil).
->>>> 
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (9 hours later)
 >>> 
 >>> Search for graphite, nanometer cubes with graphite are pixels and draw the letters
->>> 
 
->> **u/Nimelennar** [+8] *
+>> **u/Nimelennar** [+8]  (12 hours later)
 >> 
 >> Congratulations, you have a full brain scan of every person on the planet, as a brain cell is much larger than a cubic nanometer.
->> Start with a single human brain, and use the information about how things are connected to build a brain emulator.
->> If you can't figure out a dozen different ways to turn a working human brain emulator and a complete scan of every living human brain in existence into world domination, I can't help you.
 >> 
+>> Start with a single human brain, and use the information about how things are connected to build a brain emulator.
+>> 
+>> If you can't figure out a dozen different ways to turn a working human brain emulator and a complete scan of every living human brain in existence into world domination, I can't help you.
 
->>> **u/ShiranaiWakaranai** [+4] *
+>>> **u/ShiranaiWakaranai** [+3]  (13 hours later)
 >>> 
 >>> 1. Create a brain emulator that is smarter than yourself.
 >>> 2. Brain emulator uses its superior smarts to make itself smarter.
 >>> 3. ???
 >>> 4. World domination achieved by the AGI.
->>> That's honestly the most likely result of this method lol.
 >>> 
+>>> That's honestly the most likely result of this method lol.
 
->> **u/ShiranaiWakaranai** [+4] *
+>> **u/ShiranaiWakaranai** [+4]  (3 hours later)
 >> 
 >> A high-risk high-reward scheme is to start blackmailing the hell out of people. 1 nanometer resolution is enough to read every printed or written text on any surface within your snapshot, and most of the world still hasn't transitioned to keeping all documents on computers. You will be able to pick just about any target and read through everything in their office/house.
->> Even better: plenty of people are dumb enough to write down their passwords somewhere so they don't forget. There will be lists of passwords in their wallets or their homes and you can see them all and log in to all their accounts. Emails, banks, offices, social media, you'll have access to several accounts on just about every network on earth.
->> Now you can either stealthily log in and gain information about your targets for more blackmail, or you can loot them dry through a series of proxies that include the other accounts you stole so you can frame everyone for stealing from everyone else while you secretly make off with the profits.
 >> 
+>> Even better: plenty of people are dumb enough to write down their passwords somewhere so they don't forget. There will be lists of passwords in their wallets or their homes and you can see them all and log in to all their accounts. Emails, banks, offices, social media, you'll have access to several accounts on just about every network on earth.
+>> 
+>> Now you can either stealthily log in and gain information about your targets for more blackmail, or you can loot them dry through a series of proxies that include the other accounts you stole so you can frame everyone for stealing from everyone else while you secretly make off with the profits.
 
->>> **u/Veedrac** [+7] *
+>>> **u/Veedrac** [+6]  (7 hours later)
 >>> 
 >>> > Even better: plenty of people are dumb enough to write down their passwords somewhere so they don't forget.
->>> It's not really that dumb to consider alien tech outside your risk profile.
 >>> 
+>>> It's not really that dumb to consider alien tech outside your risk profile.
 
->>>> **u/-main** [+1] *
+>>>> **u/-main** [+1]  (12 hours later)
 >>>> 
 >>>> It doesn't take alien tech to read passwords on paper. Maybe if you then take it as seriously as your other physical security, and store the password-paper with your other valuables in a safe?
->>>> 
 
->>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (3 hours later)
 >>> 
 >>> Except the data contain elements present on queried volume of queried location. Not a photograph of queried location. If you know the place where somebody important stored their important letter, you'll get element that makes up ink and paper.
->>> 
 
->>>> **u/ShiranaiWakaranai** [+4] *
+>>>> **u/ShiranaiWakaranai** [+4]  (4 hours later)
 >>>> 
 >>>> Well, whether this method is feasible depends on how quickly you can send queries, and whether you can send multiple in parallel, or do other kinds of queries like "tell me which of the 1mm3 cubes in this volume of space have high ink content".
->>>> The main idea is to do binary search on the house to find any kind of paper, then binary search parts of the paper to determine where the inked volumes are and are not. Since the snapshot has 1 nanometer resolution, this is way more than enough to determine exactly which parts of the paper have ink and which do not, effectively letting you create a picture of the paper and read it.
 >>>> 
+>>>> The main idea is to do binary search on the house to find any kind of paper, then binary search parts of the paper to determine where the inked volumes are and are not. Since the snapshot has 1 nanometer resolution, this is way more than enough to determine exactly which parts of the paper have ink and which do not, effectively letting you create a picture of the paper and read it.
 
->> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (5 hours later)
 >> 
 >> In case of gold, I first have to wonder, what ppm of gold is considered rich enough to be worth mining? If the number is less than 10,000 ppm (=1%), then we have a problem: the artifact cannot detect which site is worth mining. The artifact would only be useful to detect place where purified gold located. This is doubly troublesome for other mine-able stuff, as they're not occurred in nature as un-compounded element. Therefore, lawful mining operation is out.
->> But the artifact is not useless to seek riches. Consider you want to rob a house, the artifact would be useful to locate where the inhabitant of the house hide their precious metal. Of course, if they store them inside a safe, you'd still need to break it.
 >> 
+>> But the artifact is not useless to seek riches. Consider you want to rob a house, the artifact would be useful to locate where the inhabitant of the house hide their precious metal. Of course, if they store them inside a safe, you'd still need to break it.
 
->>> **u/the_terran** [+2] *
+>>> **u/the_terran** [+2]  (5 hours later)
 >>> 
 >>> OK, I *did* not now the world's highest grade gold mine provided [44.1 g/t](http://www.mining.com/the-worlds-highest-grade-gold-mines/) . That is well below the 1% mark I stated. Although, it depends on how gold is distributed inside the ore. It cannot be fully homogeneous, and there should be >1 nanometer chunks that contain a higher percentage.
->>> 
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (9 hours later)
 >> 
 >> How do you request an area? You'd need to request a ton of points before you can work out what the coordinates you're requesting actually maps too right?
->> Finding keys could work. You could probably read a keypad to find the codes by comparing the surface of multiple ones.
->> Reading open books and maybe even closed ones
 >> 
+>> Finding keys could work. You could probably read a keypad to find the codes by comparing the surface of multiple ones.
+>> 
+>> Reading open books and maybe even closed ones
 
->>> **u/causalchain** [+1] *
+>>> **u/causalchain** [+1]  (18 hours later)
 >>> 
 >>> The owner has created an interface, so I'll assume that the program can query a number of points and manipulate the data. Assuming the height parameter is easy to use, query lines across the earth and do some statistical analysis to smooth out the bumps; you should get regions of water and not-water. Repeating this for many lines should begin to form approximations for land masses, which can be matched up to a map. Once the general position and orientation is found, we need more precision, and we can do that with a series of (elementally) distinct things with progressively smaller sizes.
->>> 
 
-> **u/holoclever** [+6] *
+> **u/holoclever** [+6]  (4 hours later)
 > 
 > I'm unsure if I'm phrasing this in a manner that syncs up well with the purpose of this thread, but here goes: assuming you are using the DnD 5th edition magic ruleset and spell list, what is some munchkinry you can come up with 5e magic that would further the efforts of the PCs in defeating enemies? Just looking for anything creative, clever, or otherwise innovative, really.
-> 
 
->> **u/LazarusRises** [+9] *
+>> **u/LazarusRises** [+7]  (9 hours later)
 >> 
 >> One of my favorite little 5e tricks: the Find Familiar spell allows you to look through your familiar's eyes as an action, and the Misty Step spell lets you teleport anywhere you can see within 30 feet of you. So if you send your familiar somewhere that it can access but you can't, like over an enormous wall, you can circumvent Misty Step's line-of-sight rule as long as it's within 30 feet. My wizard once used it to nope out of a ship's hold: left his familiar aboveboard, then blipped back up when things got dicey.
->> Also, if you can get Otiluke's Resilient Sphere moving fast enough, that's a damn good wrecking ball.
 >> 
+>> Also, if you can get Otiluke's Resilient Sphere moving fast enough, that's a damn good wrecking ball.
 
->> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (18 hours later)
 >> 
 >> Garden variety, but I play a rogue (with the arcane speciality) and I've got an aerchaopteryx familiar (OK mechanically it's an owl) and as long as it's next to an opponent, I've got advantage against that opponent, so I always get my sneak attack bonus (which is sizeable).  If the opponent kills my familiar I can just summon it again after the battle, so there's really no downside.
->> 
 
-> **u/genericaccounter** [+3] *
+> **u/genericaccounter** [+3]  (8 hours later)
 > 
 > You have been granted control over the fabric of space itself. Unfortunately for technical reasons, you can't make things bigger on the inside, only smaller on the inside. Namely you can take any container and shrink internal dimensions, to a minimum size of all entrances to the container placed side by side. If another entrance is opened while it is smaller than that it will expand and not shrink again. Shrinking will compress anything inside, but it will push back against the walls, possibly breaking them. Growth will not uncompress anything inside, merely provide room to grow into. At anytime while touching a given container you may change size between proper size and minimum size as rapidly as you wish. How do you use this power? What is the biggest exploits and most useful loopholes? Can you make money, can you take over the world, can you solve entropy?
-> 
 
->> **u/Veedrac** [+3] *
+>> **u/Veedrac** [+3]  (16 hours later)
 >> 
 >> The material physics of this is confusing me. Imagine you had a hollow metal sphere, and collapsed the inside space to zero. What happens to the inside surface of the material? Where does it go? Correspondingly, what happens when you hit the sphere, in a way that would otherwise dent it? What if the space inside was small but finite, and you dented it from the inside?
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (8 hours later)
 >> 
 >> Will compressing air generate heat? If so, hello free energy, goodbye entropy.
->> 
 
->>> **u/Veedrac** [+2] *
+>>> **u/Veedrac** [+2]  (15 hours later)
 >>> 
 >>> Any ideas how to make such a thing economical? Your time is incredibly precious, you don't want to be pumping a turbine all day, even if it's a large one.
->>> A different approach would be to make gravity-powered perpetual motion generators. If you run fluid in a closed loop, where the trip up is shorter than the trip down, you're feeding energy into the system. Make these lake-sized and you're done. This is simple enough that handheld versions should work fine too, though I struggle to imagine in what cases such a thing would be affordable.
 >>> 
+>>> A different approach would be to make gravity-powered perpetual motion generators. If you run fluid in a closed loop, where the trip up is shorter than the trip down, you're feeding energy into the system. Make these lake-sized and you're done. This is simple enough that handheld versions should work fine too, though I struggle to imagine in what cases such a thing would be affordable.
 
->> **u/ShiranaiWakaranai** [+2] *
+>> **u/ShiranaiWakaranai** [+2]  (10 hours later)
 >> 
 >> > can you solve entropy?
->> Depends where the energy you use to shrink the container comes from, and how much you need versus how strong the container presses inwards. 
->> > At anytime while touching a given container you may change size between proper size and minimum size as rapidly as you wish. 
->> As rapidly as you wish is extremely exploitable. Above lightspeed size changes are effectively time travel. Below lightspeed size changes that are still at rather high speeds can cause air to literally undergo nuclear fusion. If doing this doesn't drain you dry of energy, it would be a massive source of free energy.
->> >  Namely you can take any container and shrink internal dimensions, to a minimum size of all entrances to the container placed side by side 
->> What if there are no entrances? It's simple enough to make a hollow cylinder with no openings. Or simply seal the entrance of a water bottle with clay so it can't be opened without breaking open an entrance. In that case, is there minimum size? Can you shrink everything inside into 0 volume, effectively creating a very low mass black hole? Can you use such a trick to create extremely powerful grenades?
->> > Namely you can take any container and shrink internal dimensions 
->> ANY container? What counts as a container? Is there a size limit? Does the Earth's crust count as a container that contains the Earth's core? Can you apply your power to the Earth's crust and cause earthquakes and volcano eruptions everywhere from all the internal magma trying to escape the shrinking space within the Earth? 
->> What's scarier is that the containers are allowed to have multiple entrances, which makes the definition even more vague. Does a fishing net count as a container for fish, even though it is full of holes (entrances)? If so, can you create a very sparse net around the solar system and shrink the space inside to reduce the distance between planets and the Sun? Would clever compression tactics let you bring the orbits of Mars and Venus into the same range as Earth, thus making them much easier to terraform and colonize?
 >> 
+>> Depends where the energy you use to shrink the container comes from, and how much you need versus how strong the container presses inwards. 
+>> 
+>> > At anytime while touching a given container you may change size between proper size and minimum size as rapidly as you wish. 
+>> 
+>> As rapidly as you wish is extremely exploitable. Above lightspeed size changes are effectively time travel. Below lightspeed size changes that are still at rather high speeds can cause air to literally undergo nuclear fusion. If doing this doesn't drain you dry of energy, it would be a massive source of free energy.
+>> 
+>> >  Namely you can take any container and shrink internal dimensions, to a minimum size of all entrances to the container placed side by side 
+>> 
+>> What if there are no entrances? It's simple enough to make a hollow cylinder with no openings. Or simply seal the entrance of a water bottle with clay so it can't be opened without breaking open an entrance. In that case, is there minimum size? Can you shrink everything inside into 0 volume, effectively creating a very low mass black hole? Can you use such a trick to create extremely powerful grenades?
+>> 
+>> > Namely you can take any container and shrink internal dimensions 
+>> 
+>> ANY container? What counts as a container? Is there a size limit? Does the Earth's crust count as a container that contains the Earth's core? Can you apply your power to the Earth's crust and cause earthquakes and volcano eruptions everywhere from all the internal magma trying to escape the shrinking space within the Earth? 
+>> 
+>> What's scarier is that the containers are allowed to have multiple entrances, which makes the definition even more vague. Does a fishing net count as a container for fish, even though it is full of holes (entrances)? If so, can you create a very sparse net around the solar system and shrink the space inside to reduce the distance between planets and the Sun? Would clever compression tactics let you bring the orbits of Mars and Venus into the same range as Earth, thus making them much easier to terraform and colonize?
 
->>> **u/genericaccounter** [+1] *
+>>> **u/genericaccounter** [+1]  (10 hours later)
 >>> 
->>> "What if there are no entrances? It's simple enough to make a hollow cylinder with no openings. Or simply seal the entrance of a water bottle with clay so it can't be opened without breaking open an entrance. In that case, is there minimum size? Can you shrink everything inside into 0 volume, effectively creating a very low mass black hole? Can you use such a trick to create extremely powerful grenades? "
+>>>  "What if there are no entrances? It's simple enough to make a hollow cylinder with no openings. Or simply seal the entrance of a water bottle with clay so it can't be opened without breaking open an entrance. In that case, is there minimum size? Can you shrink everything inside into 0 volume, effectively creating a very low mass black hole? Can you use such a trick to create extremely powerful grenades? "
+>>> 
 >>> As was noted in the initial question, it was noted that anything inside pushes back. Given that no matter how sparse the filling of the container, attempting to compress a finite amount of matter to a zero dimensional point seems like it would generate infinite pressure, probably not, unless you had a infinitely strong material. A grenade seems like it would work. 
->>>  "ANY container? What counts as a container? Is there a size limit? Does the Earth's crust count as a container that contains the Earth's core? Can you apply your power to the Earth's crust and cause earthquakes and volcano eruptions everywhere from all the internal magma trying to escape the shrinking space within the Earth? "
->>> While I didn't state it in the initial question, what I was assuming that a container was is a solid shape enclosing a hollow cavity, filled with either vacuum, gas, liquid, or disconnected solid. A fishing net would count as long as it enclosed the volume, but given the minimum size is the total full length of all opening put together, might not be effective. For example, if you have a box with holes on each side totalling half the length of each side, the smallest you can shrink it is half each side length, or 1/8 full size. A fish net, being even sparser would have less effect.
 >>> 
+>>>  "ANY container? What counts as a container? Is there a size limit? Does the Earth's crust count as a container that contains the Earth's core? Can you apply your power to the Earth's crust and cause earthquakes and volcano eruptions everywhere from all the internal magma trying to escape the shrinking space within the Earth? "
+>>> 
+>>> While I didn't state it in the initial question, what I was assuming that a container was is a solid shape enclosing a hollow cavity, filled with either vacuum, gas, liquid, or disconnected solid. A fishing net would count as long as it enclosed the volume, but given the minimum size is the total full length of all opening put together, might not be effective. For example, if you have a box with holes on each side totalling half the length of each side, the smallest you can shrink it is half each side length, or 1/8 full size. A fish net, being even sparser would have less effect.
 
->> **u/turtleswamp** [+2] *
+>> **u/turtleswamp** [+2]  (2 days later)
 >> 
 >> A sealed tube with doors at both ends shrunk as small as possible would be the best transportation system around. You can feed anything though it (rail line, fiber optic cable, etc.)
->> &#x200B;
->> Money should practically throw itself at you in once you prove you can deliver.
 >> 
+>> &#x200B;
+>> 
+>> Money should practically throw itself at you in once you prove you can deliver.
 
->> **u/Veedrac** [+1] *
+>> **u/Veedrac** [+1]  (15 hours later)
 >> 
 >> At the very least, you solve transport. This doubles global GDP or something of that scale.
->> 
 
->>> **u/CCC_037** [+1] *
+>>> **u/CCC_037** [+1]  (a day later)
 >>> 
 >>> How does making things smaller on the inside allow you to "solve transport"?
->>> 
 
->>>> **u/Veedrac** [+3] *
+>>>> **u/Veedrac** [+3]  (a day later)
 >>>> 
 >>>> Make a tube between any two places, collapse its length to the size of the entrances. If you can do 1000 of these a day, which is a very modest number because the strategy is just shrink-step-repeat, and your speed sounds like it can be munchkin'd further, in three years you've given the world a million point-to-point hops of arbitrary length. The bottleneck is presumably how fast they can be built.
->>>> 
 
->>>>> **u/CCC_037** [+2] *
+>>>>> **u/CCC_037** [+2]  (2 days later)
 >>>>> 
 >>>>> ...huh. Yeah, that'll work quite nicely. And in some cases (subway systems) the tubes are *already there*...
->>>>> Going transatlantic will be difficult, but the only difficulty there lies in the creation and maintenance of a sufficiently long tube...
 >>>>> 
+>>>>> Going transatlantic will be difficult, but the only difficulty there lies in the creation and maintenance of a sufficiently long tube...
 
 ---
 

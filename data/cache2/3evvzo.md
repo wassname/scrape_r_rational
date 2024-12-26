@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/3evvzo/hsf_rainbows_end/
-* Score: 16
+* Score: 15
 
 * Created: 2015-07-28T11:09:15
 
@@ -24,52 +24,45 @@ Edit. made a slight typo in the title, had to post again.
 
 ### Comments:
 
-> **u/alexanderwales** [+6]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (3 hours later)
 > 
 > If you haven't read it already, here's Vinge's [The Coming Technological Singularity](https://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html) (notable partly because it was written in 1993, and partly because it's the wellspring of a lot of talk about the Singularity).
-> And yes, this is (probably) my favorite book. There are imperfect characters who get a little less imperfect as they go, fumbling their way forward in uncertain times like most of us do. I personally like that, but could understand if it weren't in /r/rational's set. It's got some stellar near-future worldbuilding.
 > 
+> And yes, this is (probably) my favorite book. There are imperfect characters who get a little less imperfect as they go, fumbling their way forward in uncertain times like most of us do. I personally like that, but could understand if it weren't in /r/rational's set. It's got some stellar near-future worldbuilding.
 
->> **u/embrodski** [+4] *
+>> **u/embrodski** [+4]  (4 hours later)
 >> 
 >> FYI for those who aren't yet aware: Vernor Vinge coined the term "Singularity." I believe this essay was the first major popularization of it.
->> 
 
-> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (56 minutes later)
 > 
 > The way the protagonist starts out being a deliberate asshole, and eventually realizes that that's not working for him any more... and probably wasn't working as well as he thought before he got sick... is pretty core to the story. He's not _supposed_ to be a likeable character, he's supposed to have the potential for becoming one.
-> 
 
-> **u/Shrlck** [+3]  *Dragon Army**
+> **u/Shrlck** [+3]  *Dragon Army* (47 minutes later)
 > 
 > I read that book as per /u/alexanderwales suggestion too. I completely agree with your analysis. Really good worldbuilding but un-awesome characters.
-> 
 
-> **u/biomatter** [+2] *
+> **u/biomatter** [+2]  (2 hours later)
 > 
 > Your description of the setting reminds me of the Oubliette in Hannu Rajaniemi's [The Quantum Thief](https://en.wikipedia.org/wiki/The_Quantum_Thief). People could move around in public as visible-but-indiscernible hazy people-clouds, or reveal themselves to only friends/family/etc, however they wanted to customize it.
-> 
 
->> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (3 hours later)
 >> 
 >> More like the Rights Economy in Karl Schroeder's _Permanence_.
->> 
 
->>> **u/biomatter** [+1] *
+>>> **u/biomatter** [+1]  (16 hours later)
 >>> 
 >>> That sounds like a really interesting book! I skimmed a bit of the plot intro on Wikipedia - would you recommend it?
->>> 
 
->>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>> 
 >>>> > would you recommend it?
->>>> Unreservedly.
 >>>> 
+>>>> Unreservedly.
 
->>>>> **u/biomatter** [+1] *
+>>>>> **u/biomatter** [+1]  (8 days later)
 >>>>> 
 >>>>> Just finished *Permanence*! It was fantastic, thanks for the rec.
->>>>> 
 
 ---
 

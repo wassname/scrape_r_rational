@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://delphicserial.com/2019/03/02/1665/
-* Score: 15
+* Score: 16
 
 * Created: 2019-03-03T19:08:56
 
@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/Watchful1** [+6] *
+> **u/Watchful1** [+8]  (3 hours later)
 > 
 > Hector, for the love of god, please investigate Kim some before talking to her again.
-> 
 
->> **u/BaggyOz** [+2] *
+>> **u/BaggyOz** [+2]  (15 hours later)
 >> 
 >> He can't do that when he took a stupid pill as soon as he woke up. It explains the last couple of chapters though.
->> 
 
-> **u/None** [+6] *
+> **u/None** [+6]  (2 minutes later)
 > 
 > I've finished the trajectory for Book 2 and should be completing it apace.
-> While I was having trouble deciding on a direction for Delphic, I started writing a [Star Wars self-insert](https://forum.questionablequesting.com/threads/complete-detachment-star-wars-prequel-si.8977/). It definitely helped me clear my mind. Always on the lookout for feedback.
 > 
+> While I was having trouble deciding on a direction for Delphic, I started writing a [Star Wars self-insert](https://forum.questionablequesting.com/threads/complete-detachment-star-wars-prequel-si.8977/). It definitely helped me clear my mind. Always on the lookout for feedback.
 
 ---
 

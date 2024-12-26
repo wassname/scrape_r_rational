@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/oliwhail** [+3]  *Omake-Maximizing AGI**
+> **u/oliwhail** [+3]  *Omake-Maximizing AGI* (3 hours later)
 > 
 > u/AugSphere - my b for not checking whether anyone had already posted.
-> 
 
->> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+>> **u/AugSphere** [+3]  *Dark Lord of Corruption* (3 hours later)
 >> 
 >> It's fine. Taken care of already.
->> 
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+4]  (25 minutes later)
 > 
 > In which the players are perhaps not quite as good at modeling the reactions of others as they might be.
-> 
 
 ---
 

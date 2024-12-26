@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://friendshipispower.wordpress.com/2016/12/05/chapter-27-actually-hes-the-fiercest/
-* Score: 22
+* Score: 21
 
 * Created: 2016-12-14T13:35:12
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Endovior** [+6] *
+> **u/Endovior** [+7]  (19 hours later)
 > 
 > 31-34 were just posted, as well.
-> 
 
 ---
 

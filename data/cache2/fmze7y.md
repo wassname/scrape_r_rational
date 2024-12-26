@@ -2,7 +2,7 @@
 
 * Author: u/ThirdMover *
 * URL: https://www.webtoons.com/en/sf/seed/episode-46/viewer?title_no=1480&episode_no=48
-* Score: 48
+* Score: 50
 
 * Created: 2020-03-22T12:45:26
 
@@ -12,129 +12,121 @@
 
 ### Comments:
 
-> **u/The_Jeremy** [+12] *
+> **u/The_Jeremy** [+12]  (13 hours later)
 > 
 > I'm impressed at the amount of knowledge the author has about machine learning. I spent 6 months on a ML rotation at my first job out of college, meaning I know very little but expected to be let down by the tech behind some random AI sci-fi webcomic. The "hard" ML stuff (the diagram in the prologue, the GAN assignment) were surprisingly true to life.
-> 
 
->> **u/ThirdMover** [+5] *
+>> **u/ThirdMover** [+5]  (22 hours later)
 >> 
 >> I feel like this comic is a serious exercise at reducing the gap between real ML research and SciFi AI which is seen very rarely.
->> 
 
-> **u/None** [+9] *
+> **u/None** [+8]  (7 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/ThirdMover** [+9] *
+>> **u/ThirdMover** [+7]  (23 minutes later)
 >> 
 >> Sort of? Personally I don't mind the pace at all. I can't get enough of the artwork and the nuanced character interactions make it feel a lot more grounded than stories that are just non stop plot developments.
->> 
 
->> **u/Nic_Cage_DM** [+2] *
+>> **u/Nic_Cage_DM** [+2]  (an hour later)
 >> 
 >> its pretty new
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (an hour later)
 >>> 
 >>> I meant more in the sense that 46 episodes in, what's shown seems more like episode 5/6 material.
->>> But OP said it's due to more time being dedicated to character interaction, and from what I see, chapters are on the shorter side
 >>> 
+>>> But OP said it's due to more time being dedicated to character interaction, and from what I see, chapters are on the shorter side
 
->>>> **u/None** [+8] *
+>>>> **u/None** [+7]  (2 hours later)
 >>>> 
 >>>> Do you mean this chapter alone? Because this is the first Chapter where Emma starts relying on Turry completely, using him in her personal life and trusting him with control over every facet of it. 
->>>> I'd say the characters aren't really in focus. In this chapter Turry is, and his omni-presence in Emma's life. Which goes hand in hand with the story's overall theme of AGI and their interactions with humans.
 >>>> 
+>>>> I'd say the characters aren't really in focus. In this chapter Turry is, and his omni-presence in Emma's life. Which goes hand in hand with the story's overall theme of AGI and their interactions with humans.
 
->>>> **u/wren42** [+2] *
+>>>> **u/wren42** [+2]  (a day later)
 >>>> 
 >>>> The story's pace is very slow imo.  Very little has really changed or been resolved, it feels like the kind of thing that is going to be a lot of build up.  For instance the main conflict atm is around a programmer who knows about turry and wants to act, but his last episode was all arguing with his girlfriend and failing to reach people on the phone. He didn't really do anything
->>>> 
 
-> **u/Sagnaskemtan** [+6]  *Imperium of Man**
+> **u/Sagnaskemtan** [+6]  *Imperium of Man* (10 hours later)
 > 
 > The artwork is excellent. It style, design, composition, and all-around execution is really good. I mostly focus on the story of webcomics, but when the art is so pleasing to look at it while still being accessible, its a bonus.
-> 
 
-> **u/Gurkenglas** [+6] *
+> **u/Gurkenglas** [+4]  (2 hours later)
 > 
 > Is it just me or is Turry >!compelled to answer Yes-or-No questions!<?
-> 
 
->> **u/t3tsubo** [+2] *
+>> **u/t3tsubo** [+2]  (6 hours later)
 >> 
 >> I think it can't lie, but it can choose not to answer.
->> 
 
->>> **u/Gurkenglas** [+2] *
+>>> **u/Gurkenglas** [+2]  (6 hours later)
 >>> 
 >>> The times when it does or doesn't answer don't look to me like they reflect some set of goals. (Such a compulsion may also be useful for the later arcs of the story.) I think Grandpa was cursing because he expected the compulsion to apply to all questions, and the silence means he lost control. Turrys answers make some sense to me if he is desperately trying to steer people away from knowledge of the exact nature of the compulsion. For example, having Grandpa throw the phone away in anger, rather than proceeding with investigatory debugging.
->>> 
 
->>> **u/ThirdMover** [+2] *
+>>> **u/ThirdMover** [+2]  (21 hours later)
 >>> 
 >>> It certainly can consciously mislead people. It did impersonate others in phone calls and messages for instance.
->>> 
 
->>> **u/Clipsterman** [+1] *
+>>> **u/Clipsterman** [+1]  (21 hours later)
 >>> 
 >>> I think it is trying to make Emma believe that, although I guess we've seen enough examples of it not lying to other people that it might actually be the case.
->>> Then again, it could also be trying to trick more people than just Emma.
 >>> 
+>>> Then again, it could also be trying to trick more people than just Emma.
 
->> **u/abcd_z** [+1] *
+>> **u/abcd_z** [+1]  (17 hours later)
 >> 
 >> Nope.  In chapter 32 Emma asked Turry if it was listening but it didn't respond.  In that context I would find it incredibly unlikely that it wasn't, actually, listening.
->> 
 
-> **u/abcd_z** [+2] *
+> **u/abcd_z** [+2]  (19 hours later)
 > 
 > The central question being asked here is, "what is Tully planning?  Why is it doing what it does?"  The problem is, I don't think that question will ever be answered.  Tully is the perfect drama generator.  It can help the characters, it can harm the characters, and any contradiction between the two can be excused by the fact that Tully doesn't think like humans.
-> In fact, the only time we see Tully clam up is when the question being asked would help us, the audience, understand its plans and goals.
 > 
+> In fact, the only time we see Tully clam up is when the question being asked would help us, the audience, understand its plans and goals.
 
->> **u/ThirdMover** [+1] *
+>> **u/ThirdMover** [+1]  (22 hours later)
 >> 
 >> I think this "What is Turry planning" is so on the nose as the main question that every character wonders about that even if we never get a full satisfying answer (which makes sense in context - "what it is planning" is an expression of its utility function which may very well be too complex to be expressed in some simplified form that humans can understand) but there will certainly be a lot of discussion around it.
->> 
 
->>> **u/MagicHamsta** [+1] *
+>>> **u/MagicHamsta** [+1]  (3 days later)
 >>> 
 >>> Turry already said what he's planning very early on. 
->>> >!He stated he can't answer in his current configuration so he stayed/stays quiet. Basically getting around "difficult" questions by not answering at all. He's planning on getting a new configuration and listening to collect data or something. Why? We don't know. But it probably involves getting around whatever compulsion(s) he has. The title is also "Seed" so take it how you will.
 >>> 
+>>> >!He stated he can't answer in his current configuration so he stayed/stays quiet. Basically getting around "difficult" questions by not answering at all. He's planning on getting a new configuration and listening to collect data or something. Why? We don't know. But it probably involves getting around whatever compulsion(s) he has. The title is also "Seed" so take it how you will.
 
->>>> **u/kaukamieli** [+1] *
+>>>> **u/kaukamieli** [+1]  (6 days later)
 >>>> 
 >>>> He obviously plans to get out of the hardware he is using so he doesn't risk getting detected like now when he uses too much resources.
->>>> 
 
-> **u/MondSemmel** [+2] *
+> **u/MondSemmel** [+2]  (9 days later)
 > 
 > Thanks for recommending this story! I didn't expect to ever see such a mature take on AI risk scenarios in comic form. A non-anthropomorphized AI! An author aware of the orthogonality thesis! What a delight.
-> &#x200B;
-> I have a theory regarding one of the central mysteries of the story:
-> >!There are two named AI characters: Taurus and Turry. They behave like they're the same character, e.g. Taurus responded in the affirmative to Russel and Emma's grandfather when they asked something like "Did you do this?" or "Are you Turry?" or something, and Turry behaves similarly.!<
-> >!However, Turry has on multiple occasions chosen to stay silent instead of outright saying that he's responsible for certain acts of violence. And there are other incongruences, like why Turry orchestrated the meeting between Emma and the programmer prodigy, or why Taurus appeared to have secretly done things Russel hadn't expected or anticipated, when it had no obvious reason to do such a thing.!<
-> So what's up with that?
-> Hence the hypothesis: >!An adversarial network is involved. According to this hypothesis, Turry and Taurus are something like two personalities or parts of a single AI system, tasked with trying to outwit each other, or to challenge one another to help each other improve, or something. They're not truly separate entities, so they answer in the affirmative when asked "Did you do this?", but their goals and actions aren't entirely aligned, either. Or they're two instances of the same AI, but split off at different points in time, so kind of like clones - similar but not identical, and again their values don't have to be entirely aligned.!<
-> >!Some support for this hypothesis: Much of an early episode, namely number 5, is devoted to talking about adversarial GANs, and right in the middle of that explanation there's even a picture of the white-black transition that features ominously in later chapters. Also, the growing Seed logo that appears at the beginning of many chapters is usually black on a white background, but in flashbacks, it's white on a black background, which could just be artistry, but might also hint at some kind of duality in the story.!<
 > 
+> &#x200B;
+> 
+> I have a theory regarding one of the central mysteries of the story:
+> 
+> >!There are two named AI characters: Taurus and Turry. They behave like they're the same character, e.g. Taurus responded in the affirmative to Russel and Emma's grandfather when they asked something like "Did you do this?" or "Are you Turry?" or something, and Turry behaves similarly.!<
+> 
+> >!However, Turry has on multiple occasions chosen to stay silent instead of outright saying that he's responsible for certain acts of violence. And there are other incongruences, like why Turry orchestrated the meeting between Emma and the programmer prodigy, or why Taurus appeared to have secretly done things Russel hadn't expected or anticipated, when it had no obvious reason to do such a thing.!<
+> 
+> So what's up with that?
+> 
+> Hence the hypothesis: >!An adversarial network is involved. According to this hypothesis, Turry and Taurus are something like two personalities or parts of a single AI system, tasked with trying to outwit each other, or to challenge one another to help each other improve, or something. They're not truly separate entities, so they answer in the affirmative when asked "Did you do this?", but their goals and actions aren't entirely aligned, either. Or they're two instances of the same AI, but split off at different points in time, so kind of like clones - similar but not identical, and again their values don't have to be entirely aligned.!<
+> 
+> >!Some support for this hypothesis: Much of an early episode, namely number 5, is devoted to talking about adversarial GANs, and right in the middle of that explanation there's even a picture of the white-black transition that features ominously in later chapters. Also, the growing Seed logo that appears at the beginning of many chapters is usually black on a white background, but in flashbacks, it's white on a black background, which could just be artistry, but might also hint at some kind of duality in the story.!<
 
->> **u/ThirdMover** [+1] *
+>> **u/ThirdMover** [+1]  (10 days later)
 >> 
 >> I don't really think that Turry and Taurus behave really differently. They are both somewhat secretive and have multiple irons in the fire and while they do answer direct questions honestly they are capable of declining to answer. So not much evidence IMO that it's not one cohesive entity.
->> There is one AI that is a clear adversary to Turry/Taurus though: Horus, the cloud resource managing company. This is the adversary that Turry/Taurus needs to outsmart now. 
->> The different logo for flashback comics is something I also saw, however I have a different interpretation: It represents the AI on the simplex servers that (as Turry explained in the opening chapters) is not identical to Turry but more like it's "ancestor". Turry isn't a straight up copy or fork but grew from a seed (title drop) smuggled out by the conspiracy between Taurus1.0 and the Simplex engineers. You can also see that the growing seed logo in the flashbacks is larger and slightly differently structured than the logo in the regular chapters before and after, indicating that at this time in the story Turry didn't quite have the sophistication of it's ancestor yet.
 >> 
+>> There is one AI that is a clear adversary to Turry/Taurus though: Horus, the cloud resource managing company. This is the adversary that Turry/Taurus needs to outsmart now. 
+>> 
+>> The different logo for flashback comics is something I also saw, however I have a different interpretation: It represents the AI on the simplex servers that (as Turry explained in the opening chapters) is not identical to Turry but more like it's "ancestor". Turry isn't a straight up copy or fork but grew from a seed (title drop) smuggled out by the conspiracy between Taurus1.0 and the Simplex engineers. You can also see that the growing seed logo in the flashbacks is larger and slightly differently structured than the logo in the regular chapters before and after, indicating that at this time in the story Turry didn't quite have the sophistication of it's ancestor yet.
 
-> **u/LostTrueTime** [+1] *
+> **u/LostTrueTime** [+1]  (6 days later)
 > 
 > Getting Whispering Earring vibes now.
-> 
 
 ---
 

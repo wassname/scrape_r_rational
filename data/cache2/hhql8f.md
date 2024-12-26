@@ -2,7 +2,7 @@
 
 * Author: u/theLastHaruspex *
 * URL: https://www.reddit.com/r/rational/comments/hhql8f/the_last_haruspex_forward/
-* Score: 15
+* Score: 16
 
 * Created: 2020-06-29T01:20:02
 
@@ -40,39 +40,35 @@ Your loving father, Isidor Burakh.
 
 ### Comments:
 
-> **u/invisible_tomatoes** [+11] *
+> **u/invisible_tomatoes** [+11]  (2 hours later)
 > 
 > "Truth to me is like a disease with a guaranteed transmission rate-- once it is out there is no containing it, for the human spirit knows truth when it hears. Truth strikes the mind as if upon an iron bell; ringing and ringing. "
-> If only...
 > 
+> If only...
 
->> **u/MultipartiteMind** [+10] *
+>> **u/MultipartiteMind** [+9]  (13 hours later)
 >> 
 >> This comes to mind, read recently (PGtE):  
-
->>  *“For though the Gods Above laid down the path of righteousness for all to see, so did the Gods Below then lay down a hundred others that look just like it.”*
 >> 
+>>  *“For though the Gods Above laid down the path of righteousness for all to see, so did the Gods Below then lay down a hundred others that look just like it.”*
 
-> **u/Nimelennar** [+3] *
+> **u/Nimelennar** [+4]  (13 hours later)
 > 
 > Can we please get some details about what this story is going to be about, and why it's considered rational?
-> I'd probably extend some credit to a familiar face, but this seems to be your first post anywhere on Reddit.
 > 
+> I'd probably extend some credit to a familiar face, but this seems to be your first post anywhere on Reddit.
 
-> **u/None** [+7] *
+> **u/None** [+6]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+8] *
+>> **u/None** [+8]  (an hour later)
 >> 
 >> This is Pathologic fanfiction, so fortunately the words aren't made up by OP.
->> 
 
->> **u/lordcirth** [+3] *
+>> **u/lordcirth** [+3]  (13 hours later)
 >> 
 >> The only word I can see that is made up and not a proper name is Yargachin. So I'm not seeing it.
->> 
 
 ---
 

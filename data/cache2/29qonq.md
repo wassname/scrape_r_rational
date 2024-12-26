@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/29qonq/q_what_would_you_ask_about_the_death_note/
-* Score: 12
+* Score: 13
 
 * Created: 2014-07-03T14:03:51
 
@@ -14,13 +14,18 @@ EDIT: (Also, please don't look up the official rules of the DN online, I'd like 
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+24]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+23]  *Godric Gryffindor* (a day later)
 > 
 > The critical questions about the Death Note are what it can achieve in terms of optimization, fact-revealing, the limits of the channels by which it can alter reality, and what the Death Note's existence reveals about the rest of reality.  The fact that the Death Note kills people is a distraction, the critical point is that it's MAGIC.  So, sample questions:
+> 
 > * Can the Death Note ensure that the past (from before the command was written) is in conformance with the required result?  What if I write that in 30 seconds someone will die from atherosclerosis or an advanced brain cancer?  This doesn't distinguish well between the atherosclerosis having been retroactively added, or just magically materalized, but there may be other ways to check.
+> 
 > * Can the Death Note reveal facts via its operation?  What are the limits of what it can reveal?  E.g, "Bob dies of a heart attack if the Goldbach Conjecture is true, or Bob dies of a stroke if the Goldbach Conjecture is false."  "Bob dies after jotting down a critical insight into proving the Riemann Hypothesis."
+> 
 > * How much optimization can the Death Note do to achieve the desired outcome?  "Bob is killed by Device X functioning as intended."  Device X uses a thermodynamic random noise generator to try to solve an NP-hard problem and fires a bullet if it succeeds.  (If that works, try it on a protein folding problem and get nanotechnology.)
+> 
 > If there's a Shinigami who might answer you, there are all sorts of questions which are worth at least trying to ask, like:
+> 
 > * What the hell is going on
 > * Why do Shinigami exist
 > * Do Shinigami have brains and how do the brains work
@@ -35,69 +40,87 @@ EDIT: (Also, please don't look up the official rules of the DN online, I'd like 
 > * If some rule prevents you from answering me directly, are you allowed to do hints
 > * Are there any behaviors you can exhibit which can correlate to the answers of my questions
 > * What would potentially motivate you to give me hints, is there anything I have that you might want, can we trade utility function fulfillments
-> I finally remark that it seems to me that if the canon rules are not artificially hacked to forbid it, the canon Death Note has demonstrated enough power to fulfill the command, "Bob dies of a quiet stroke in a bathroom stall of the following club, brought on by the excitement of seeing on his cellphone that his lottery ticket has the winning numbers."  Then take the ticket and go.
 > 
+> I finally remark that it seems to me that if the canon rules are not artificially hacked to forbid it, the canon Death Note has demonstrated enough power to fulfill the command, "Bob dies of a quiet stroke in a bathroom stall of the following club, brought on by the excitement of seeing on his cellphone that his lottery ticket has the winning numbers."  Then take the ticket and go.
 
->> **u/dontknowmeatall** [+4] *
+>> **u/dontknowmeatall** [+4]  (5 days later)
 >> 
 >> >Can the Death Note ensure that the past (from before the command was written) is in conformance with the required result? What if I write that in 30 seconds someone will die from atherosclerosis or an advanced brain cancer? This doesn't distinguish well between the atherosclerosis having been retroactively added, or just magically materalized, but there may be other ways to check.
->> It cannot.
->> >>The conditions for death will not be realized unless it is physically possible for that human or it is reasonably assumed to be carried out by that human.
->> >>>If you write die of disease with a specific disease’s name and the person’s time of death, there must be a sufficient amount of time for the disease to progress. If the set time is too tight, the victim will die of a heart attack after 6 minutes and 40 seconds after completing the Death Note.
->>  In the second episode of the anime Light tests this; he tries to kill a Japanese prisoner "one hour later in Paris". Since it's physically impossible for him to be transported to Paris in that time by current technology, and the Death Note has a limited span of action, he just dies of a heart attack.
->> >Can the Death Note reveal facts via its operation? What are the limits of what it can reveal? E.g, "Bob dies of a heart attack if the Goldbach Conjecture is true, or Bob dies of a stroke if the Goldbach Conjecture is false." "Bob dies after jotting down a critical insight into proving the Riemann Hypothesis."
->> It is not established. However, the same episode, along with the previously mentioned rules, suggest that it wouldn't be possible unless the person can think of it. There is also this rule:
->> >>Suicide is a valid cause of death. Basically, all humans are thought to possess the possibility to commit suicide. It is, therefore, not something unbelievable to think of.
->> which suggests that your second example might be plausible, if Bob is a trained scientis who can reasonably reach that conclusion by his own means; but since the first example works on hypothesis instead of factual knowledge, the Death Note would simply kill him with a heart attack.
->> > How much optimization can the Death Note do to achieve the desired outcome? "Bob is killed by Device X functioning as intended." Device X uses a thermodynamic random noise generator to try to solve an NP-hard problem and fires a bullet if it succeeds. (If that works, try it on a protein folding problem and get nanotechnology.)
->> This one might actually work, but the device would have to fit the limits of reasonable thought. Since you cannot make a human murder another one intentionally, you would need science geniuses willing to give their lives for science. The most plausible scenario that I can think of (that could succeed) is this:
->> 1. Make a scientist (Dave) build a prototype. If it doesn't work, go to step 2.
->> 2. Organise the lab in a way that success starts a chain reaction that kills the guy.
->> 3. Write on the Note: "Dave. [time of death]. Goes to work and analyses his prototype. Figures out the problem with it and fixes it. He tests it and the device works as intended. The device starts a chain reaction [describe reaction in detail within the limits of reasonable thought]. The last step kills him without suffering."
->> 4. If it doesn't work, Dave will die of a heart attack, which means he wasn't able to fix the device. Kill a few more scientists until you a) find one who can do it or b) the utilitarian value of the device is outweighed by the utilitarian value of the scientists' lives (which, depending on the device and the scientists, is totally subjective).
->> By the way, big fan, waiting for chapter 102.
 >> 
+>> It cannot.
+>> 
+>> >>The conditions for death will not be realized unless it is physically possible for that human or it is reasonably assumed to be carried out by that human.
+>> 
+>> >>>If you write die of disease with a specific disease’s name and the person’s time of death, there must be a sufficient amount of time for the disease to progress. If the set time is too tight, the victim will die of a heart attack after 6 minutes and 40 seconds after completing the Death Note.
+>> 
+>>  In the second episode of the anime Light tests this; he tries to kill a Japanese prisoner "one hour later in Paris". Since it's physically impossible for him to be transported to Paris in that time by current technology, and the Death Note has a limited span of action, he just dies of a heart attack.
+>> 
+>> >Can the Death Note reveal facts via its operation? What are the limits of what it can reveal? E.g, "Bob dies of a heart attack if the Goldbach Conjecture is true, or Bob dies of a stroke if the Goldbach Conjecture is false." "Bob dies after jotting down a critical insight into proving the Riemann Hypothesis."
+>> 
+>> It is not established. However, the same episode, along with the previously mentioned rules, suggest that it wouldn't be possible unless the person can think of it. There is also this rule:
+>> 
+>> >>Suicide is a valid cause of death. Basically, all humans are thought to possess the possibility to commit suicide. It is, therefore, not something unbelievable to think of.
+>> 
+>> which suggests that your second example might be plausible, if Bob is a trained scientis who can reasonably reach that conclusion by his own means; but since the first example works on hypothesis instead of factual knowledge, the Death Note would simply kill him with a heart attack.
+>> 
+>> > How much optimization can the Death Note do to achieve the desired outcome? "Bob is killed by Device X functioning as intended." Device X uses a thermodynamic random noise generator to try to solve an NP-hard problem and fires a bullet if it succeeds. (If that works, try it on a protein folding problem and get nanotechnology.)
+>> 
+>> This one might actually work, but the device would have to fit the limits of reasonable thought. Since you cannot make a human murder another one intentionally, you would need science geniuses willing to give their lives for science. The most plausible scenario that I can think of (that could succeed) is this:
+>> 
+>> 1. Make a scientist (Dave) build a prototype. If it doesn't work, go to step 2.
+>> 
+>> 2. Organise the lab in a way that success starts a chain reaction that kills the guy.
+>> 
+>> 3. Write on the Note: "Dave. [time of death]. Goes to work and analyses his prototype. Figures out the problem with it and fixes it. He tests it and the device works as intended. The device starts a chain reaction [describe reaction in detail within the limits of reasonable thought]. The last step kills him without suffering."
+>> 
+>> 4. If it doesn't work, Dave will die of a heart attack, which means he wasn't able to fix the device. Kill a few more scientists until you a) find one who can do it or b) the utilitarian value of the device is outweighed by the utilitarian value of the scientists' lives (which, depending on the device and the scientists, is totally subjective).
+>> 
+>> By the way, big fan, waiting for chapter 102.
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+3]  (4 days later)
 >> 
 >> Seems to me that if you're trying to test "can it provide facts", the first question to try to answer is "how do I resurrect someone using not more than X amount of resources (energy / equipment / time / information)?"
->> If you can get the answer to that, then you have an engine -- kill and then resurrect people in order to gain more information, more lottery wins, etc.
 >> 
+>> If you can get the answer to that, then you have an engine -- kill and then resurrect people in order to gain more information, more lottery wins, etc.
 
->> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>> **u/DataPacRat** [+1]  *Amateur Immortalist* (3 days later)
 >> 
 >> I have to admit that I wish I was able to find such optimization issues for other settings; or at least have a handy set of criteria memorized to work them out. "Intelligence enhancement" feels like it's one step too general to easily apply.
-
->> (I've just added an authour's note for my own story's setting, that I might have to explicitly arrange for Eliezer to have been cryo-preserved at least a few years before my version of the Singularity, in order to keep his fictional self from already having taken over the world...)
 >> 
+>> (I've just added an authour's note for my own story's setting, that I might have to explicitly arrange for Eliezer to have been cryo-preserved at least a few years before my version of the Singularity, in order to keep his fictional self from already having taken over the world...)
 
-> **u/DeliaEris** [+11]  *Fully General Idealist**
+> **u/DeliaEris** [+13]  *Fully General Idealist* (38 minutes later)
 > 
 > Do torn-out pages remain effective?
+> 
 > * If yes:  
 > If I burn a page, will anyone exposed to the smoke become able to see shinigami?
+> 
 > * If no:  
 > If I tear out a page after writing a name but before the named person dies, does this cancel the killing?
-> What happens if I specify a time/date of death later than the named person would have died otherwise?
-> * If this would extend their lifespan: Can I use this on myself to cheat out of the cost of the Eyes of the Shinigami?
-> If I write new rules on the part of the note that explains some of the rules, do my new rules take effect?
 > 
+> What happens if I specify a time/date of death later than the named person would have died otherwise?
+> 
+> * If this would extend their lifespan: Can I use this on myself to cheat out of the cost of the Eyes of the Shinigami?
+> 
+> If I write new rules on the part of the note that explains some of the rules, do my new rules take effect?
 
->> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.* (8 hours later)
 >> 
 >> IIRC Light offs a few people with pages he'd torn out and hidden, so they are still effective.
->> 
 
->> **u/MadScientist14159** [+1]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+>> **u/MadScientist14159** [+1]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (6 days later)
 >> 
 >> You can't directly extend a humans life.
->> If the default death is in 2 days and you write that they die in 300 million years, they will die in 2 days.
->> You can only extend a life *indirectly* (say by killing the person who would have killed the subject in 2 days).
 >> 
+>> If the default death is in 2 days and you write that they die in 300 million years, they will die in 2 days.
+>> 
+>> You can only extend a life *indirectly* (say by killing the person who would have killed the subject in 2 days).
 
-> **u/alexanderwales** [+7]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (2 hours later)
 > 
 > Assuming that the only things I'm certain of are that I have access to a shinigami and that the notebook kills people whose names are written in it, and none of the other rules I know are certain (and some of these are predicated on the answers to the initial questions having answers that are reasonably similar to canon), and assuming I am completely immoral:
+> 
 > 1. To what extent can I control the method of death?
 > 2. To what extent can I control the time of death?
 > 3. How many pages does the Death Note have, and can I get more?
@@ -122,48 +145,62 @@ EDIT: (Also, please don't look up the official rules of the DN online, I'd like 
 > 22. If I give someone a page of the death note, will they be able to see/control the shinigami?
 > 23. If I lose control of the death note, will I be able to continue seeing the shinigami?
 > 24. What happens to pages of the death note that are destroyed? (pulped, burnt, etc.)
-> 
 
-> **u/gabbalis** [+5] *
+> **u/gabbalis** [+4]  (45 minutes later)
 > 
 > When a shinagami kills someone with the deathnote they get their life added on to their own. So is lifeforce tangible via some sort of liquid assets system? And if so, where does the life go when a mortal uses it to kill (or perhaps the life extension for shinigami is just an arbitrary incentive to do their jobs occasionally.)?
-> If a shinagami using it to extend lives is lethal to them, what happens if a mortal uses it to extend lives?
-> Whats so special about humans to the death note? Could it be used to kill an uploaded consciousness? A strong AI? Any other sapient being with a cultural tenancy to choose a name? Can a human ever have no Name?
-> Also the death note constitutes a bit of supernatural mind control. But the limits of this aren't really clear... I'm pretty sure the original limit was anything they could reasonably be expected to do. Which was vague. Can I make a tech official change his password to something I know and open a firewall hole to a specified IP? These are the sorts of things I'd expect to have to test myself rather than ask rules for though.
-> Also: You're picking our minds for ideas aren't you! You sneaky fanfic author you.
 > 
+> If a shinagami using it to extend lives is lethal to them, what happens if a mortal uses it to extend lives?
+> 
+> Whats so special about humans to the death note? Could it be used to kill an uploaded consciousness? A strong AI? Any other sapient being with a cultural tenancy to choose a name? Can a human ever have no Name?
+> 
+> Also the death note constitutes a bit of supernatural mind control. But the limits of this aren't really clear... I'm pretty sure the original limit was anything they could reasonably be expected to do. Which was vague. Can I make a tech official change his password to something I know and open a firewall hole to a specified IP? These are the sorts of things I'd expect to have to test myself rather than ask rules for though.
+> 
+> Also: You're picking our minds for ideas aren't you! You sneaky fanfic author you.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (an hour later)
 >> 
 >> > Also: You're picking our minds for ideas aren't you! You sneaky fanfic author you.
->> [Mild spoilers.](#s "Sorta kinda not really. I was wondering what someone who didn't have the benefit of hindsight about the rules (since I know them by heart) would ask.")
 >> 
+>> [Mild spoilers.](#s "Sorta kinda not really. I was wondering what someone who didn't have the benefit of hindsight about the rules (since I know them by heart) would ask.")
 
->>> **u/JackStargazer** [+2]  *Primordial Apologist**
+>>> **u/JackStargazer** [+2]  *Primordial Apologist* (22 hours later)
 >>> 
 >>> I am fairly certain he's writing Misa's questions to Rem,  and Misa seems to be a rational person in the sense of Less Wrong. So the attempt is to figure out how someone with a similar mindset but who was ignorant of all the rules of the Death Note would go about figuring them out, without testing it, as sane people might have a moral opposition to killing people to test the limits. 
->>> Here are a few from me,  specifically about how to break it like a handheld time machine given to children.  These assume I am Misa and know what she knows:
->>> Is there a time limit on the Death Note? Can I write my own name for example and write 'Dies peacefully in her sleep in 1 billion AD'? 
->>> Is someone whose name and type of death is written immune to dying in any other manner and at any other time before? 
->>> I already know it is possible to extend life with the Death Note,  from experience. Do humans suffer the same fate that shinigami do if they do it? 
->>> What are the physical limits of controlling people before death with the Death Note? Will they teleport across the world if you write it? 
->>> What are the ancillary limits? If you kill someone who theoretically was in DC,  and you wrote 'dies with the original copy of the Declaration of Independence in his hands', would the note arrange for that to happen? 
->>> How does the Death Note kill people? Is it possible to reverse it? 
->>> As the above, is it physical death,  instant brain death, or some kind of dualism soul rip? 
->>> Actually, while we are at it. Souls? Afterlife? Get as much as possible. I just found out most of my axioms about reality aren't. I need more information. 
->>> Does the Death Note have to target people? I know shinigami are immune, but what about animals? Concepts?  Physical objects? 
->>> Can the Death Note create information? What limits? If I try to get a physicist to solve an equation,  an then get a high school dropout to do the same, will either or both get an answer? What if it is an unanswered major problem (GUT?) 
->>> Basically thinking in this vein.  The incidental powers of the note are much, much more interesting to an extropian than the death effect. 
->>> PS : if you happen to be looking for a beta reader or just someone to bounce ideas off of, feel free to pm me. I've done editing before, and I enjoy this story.
 >>> 
+>>> Here are a few from me,  specifically about how to break it like a handheld time machine given to children.  These assume I am Misa and know what she knows:
+>>> 
+>>> Is there a time limit on the Death Note? Can I write my own name for example and write 'Dies peacefully in her sleep in 1 billion AD'? 
+>>> 
+>>> Is someone whose name and type of death is written immune to dying in any other manner and at any other time before? 
+>>> 
+>>> I already know it is possible to extend life with the Death Note,  from experience. Do humans suffer the same fate that shinigami do if they do it? 
+>>> 
+>>> What are the physical limits of controlling people before death with the Death Note? Will they teleport across the world if you write it? 
+>>> 
+>>> What are the ancillary limits? If you kill someone who theoretically was in DC,  and you wrote 'dies with the original copy of the Declaration of Independence in his hands', would the note arrange for that to happen? 
+>>> 
+>>> How does the Death Note kill people? Is it possible to reverse it? 
+>>> 
+>>> As the above, is it physical death,  instant brain death, or some kind of dualism soul rip? 
+>>> 
+>>> Actually, while we are at it. Souls? Afterlife? Get as much as possible. I just found out most of my axioms about reality aren't. I need more information. 
+>>> 
+>>> Does the Death Note have to target people? I know shinigami are immune, but what about animals? Concepts?  Physical objects? 
+>>> 
+>>> Can the Death Note create information? What limits? If I try to get a physicist to solve an equation,  an then get a high school dropout to do the same, will either or both get an answer? What if it is an unanswered major problem (GUT?) 
+>>> 
+>>> Basically thinking in this vein.  The incidental powers of the note are much, much more interesting to an extropian than the death effect. 
+>>> 
+>>> PS : if you happen to be looking for a beta reader or just someone to bounce ideas off of, feel free to pm me. I've done editing before, and I enjoy this story.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> > I am fairly certain he's writing Misa's questions to Rem, and Misa seems to be a rational person in the sense of Less Wrong. So the attempt is to figure out how someone with a similar mindset but who was ignorant of all the rules of the Death Note would go about figuring them out, without testing it, as sane people might have a moral opposition to killing people to test the limits.
->>>> [Very mild spoilers.](#s "Something like that yeah. I mean I posted the same question on /r/deathnote and the suggestions are so *boring* there T.T")
 >>>> 
+>>>> [Very mild spoilers.](#s "Something like that yeah. I mean I posted the same question on /r/deathnote and the suggestions are so *boring* there T.T")
 
-> **u/Harkins** [+5] *
+> **u/Harkins** [+4]  (52 minutes later)
 > 
 > * What are its limits?
 > * Can it be exhausted besides filling it?
@@ -179,147 +216,167 @@ EDIT: (Also, please don't look up the official rules of the DN online, I'd like 
 > * Can I change my name in a way that makes it impossible to write  in a death note?
 > * Are all deaths written in death notes?
 > * - lots of questions exploring shinigami, other deities and supernatural entities, the physics behind them, dualism, the afterlife, cosmology, etc.
-> I think the "you can write their method of death (and be quite elaborate and mind-controlling)" rule is a big topic from the series that doesn't come up automatically from the prompt you've given.  Same with time of death.
 > 
+> I think the "you can write their method of death (and be quite elaborate and mind-controlling)" rule is a big topic from the series that doesn't come up automatically from the prompt you've given.  Same with time of death.
 
-> **u/Caloce** [+3] *
+> **u/Caloce** [+3]  (4 hours later)
 > 
 > If a person relinquishes his or her Death Note, does that allow another person with the Eyes of the Shinigami to see his or her lifespan?
-> (If allowed, then there's suddenly a solution to not knowing your own lifespan. If the blindness effect is permanent however, then suddenly we have a way of telling conclusively whether a person has used a Death Note before.)
 > 
+> (If allowed, then there's suddenly a solution to not knowing your own lifespan. If the blindness effect is permanent however, then suddenly we have a way of telling conclusively whether a person has used a Death Note before.)
 
->> **u/Rhamni** [+1]  *Aspiring author**
+>> **u/Rhamni** [+1]  *Aspiring author* (2 days later)
 >> 
 >> In canon at least, Light's dad dies happy because he was able to see numbers over Light's head.
->> 
 
-> **u/lsparrish** [+3] *
+> **u/lsparrish** [+3]  (11 days later)
 > 
 > Is a death note death compatible with cryonics?  May a person who has died of a heart attack due to the death note be resuscitated with a defibrillator and live a normal life?  Can the death note be used to arrange for a form of death that increases the effectiveness of cryonics (and if so, what are the limits)?  May eventual reanimation via future science be specified as an aspect of the death?
-> How about undeath?  Can a person be killed in a way that makes them reanimate as a magical being?  Without loss of personality?
-> Could conditional descriptions of death be used on terminally ill people undergoing a clinical trial to capture better data, e.g. making them die of one cause if the drug is ineffective and of a different cause (or not at all) if the drug is effective?
-> What are the limits on the definition of "human" -- is it possible to name a human tumor, draw a smiley face on it, and write its death via the host's immune system?
 > 
+> How about undeath?  Can a person be killed in a way that makes them reanimate as a magical being?  Without loss of personality?
+> 
+> Could conditional descriptions of death be used on terminally ill people undergoing a clinical trial to capture better data, e.g. making them die of one cause if the drug is ineffective and of a different cause (or not at all) if the drug is effective?
+> 
+> What are the limits on the definition of "human" -- is it possible to name a human tumor, draw a smiley face on it, and write its death via the host's immune system?
 
-> **u/Bobertus** [+2] *
+> **u/Bobertus** [+2]  (an hour later)
 > 
 > I think that in canon, you can take out as many pages as you want, there will always be some left. Knowing this, I would wonder if it's possible to destroy the death note. E.g. What happens if I burn it, or make it wet or put it in acid?
-> Is it important who writes in it? If it's in my possession, will it still work for someone who accidentally finds it?
-> And knowing that loosing possesion of the death note will remove it from my memories, what happens to my memories if I destroy the death note?
-> A silly question, but what if a blind person had found a death note? Would it be useless, because he/she can't picture the face (I assume he/she could still write on it in some form)?
-> Can I use the death note via printer (instead of writing by hand), if I think about the relevant face when I click 'print'?
 > 
+> Is it important who writes in it? If it's in my possession, will it still work for someone who accidentally finds it?
+> 
+> And knowing that loosing possesion of the death note will remove it from my memories, what happens to my memories if I destroy the death note?
+> 
+> A silly question, but what if a blind person had found a death note? Would it be useless, because he/she can't picture the face (I assume he/she could still write on it in some form)?
+> 
+> Can I use the death note via printer (instead of writing by hand), if I think about the relevant face when I click 'print'?
 
-> **u/Rhamni** [+2]  *Aspiring author**
+> **u/Rhamni** [+2]  *Aspiring author* (an hour later)
 > 
 > Well, I would try and coax the Shinigami into telling me about stuff other than death gods and death notes that exist but which humans don't seem to know about. Basically, I would want to make absolutely sure there is no way I could extend my life or get additional powers before I started using the death note. Because if one very supernatural thing exists, there may be more.
-> More specifically about the death note, I would definitely make sure I found out all I could about the following: Do scraps of paper removed still work? Can I write on the same page several times, writing over text I have already written to kill someone else? Because if so, I could have a relatively small scrap of paper, filled with so much ink that no one would be able to easily read the text on it, and then just reuse it at will. Smaller = better.
-> Will the death note ever run out? (Seemingly no) - excellent. If I rip out page after page after page, can I generate an arbitrarily high number of pages, each of which still works? Because if so, I can write someone's name in the book, and instruct them to write down the names of [category of people to murder] and send them a few pages, which they are instructed to destroy after use. Makes it that much harder to identify me.
-> I suppose I would also ask if it were possible for me, while alive, to get into the Shinigami realm (and then return to the human realm), because I'm sure that would make it easier to gather information. Downside: The king might not like it, and he might have a book that can kill me even though I have a note book.
 > 
+> More specifically about the death note, I would definitely make sure I found out all I could about the following: Do scraps of paper removed still work? Can I write on the same page several times, writing over text I have already written to kill someone else? Because if so, I could have a relatively small scrap of paper, filled with so much ink that no one would be able to easily read the text on it, and then just reuse it at will. Smaller = better.
+> 
+> Will the death note ever run out? (Seemingly no) - excellent. If I rip out page after page after page, can I generate an arbitrarily high number of pages, each of which still works? Because if so, I can write someone's name in the book, and instruct them to write down the names of [category of people to murder] and send them a few pages, which they are instructed to destroy after use. Makes it that much harder to identify me.
+> 
+> I suppose I would also ask if it were possible for me, while alive, to get into the Shinigami realm (and then return to the human realm), because I'm sure that would make it easier to gather information. Downside: The king might not like it, and he might have a book that can kill me even though I have a note book.
 
-> **u/themiragechild** [+2] *
+> **u/themiragechild** [+2]  (3 hours later)
 > 
 > If the contents of two Death Notes conflict, how is that conflict resolved? Is it the death that comes first? Is it what was written first?
-> 
 
-> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (8 hours later)
 > 
 > If the number of pages in the notebook is infinite, does that break any laws of thermodynamics?
-> 
 
-> **u/someonewrongonthenet** [+2] *
+> **u/someonewrongonthenet** [+2]  (23 hours later)
 > 
 > What if your handwriting really sucks? What if you spell the name wrong, or if the name doesn't have a spelling? Can I kill a person who doesn't have a face? If I change my name to contain syllables un-writable in any language, and/or i remove my face or wear a permanent mask, am I immune to death notes? 
-> Can I kill animals? If I can *see* them, can I kill stuff like single celled organisms and cancers? 
-> Can I use my foreknowledge of what will happen in the future to reverse entropy, Maxwell's demon style? Because I'm *pretty* sure that magic knowledge of the future would allow one to reverse entropy.
-> If I write a time of death which exceeds the time at which they otherwise would have died, does it prolong the person's life? Does the rule against extending people's lives apply to me? (I guess not, since Light probably extended a few lives by killing murderers) 
-> Can I write things like "so and so lives as he would and dies at the normal time, except now he can't commit murders due to spontaneous compulsions to turn around and go home"?
-> The Shinigami Eyes can see how long you're "supposed" to live naturally, and Shinigami must structure deaths so as not to *lengthen* anyone's time (That seems *really* hard, one might easily do it by accident without lots of foreknowledge. Shinigami live precarious lives). Anyway, presumably, the "supposed to live" time does not factor in Death Notes used by Shinigami. Does the calculation of how long people are *supposed* to live factor in death notes used by Humans on Earth?
-> Can I use the Death Note to make other humans write on Death Notes?
 > 
+> Can I kill animals? If I can *see* them, can I kill stuff like single celled organisms and cancers? 
+> 
+> Can I use my foreknowledge of what will happen in the future to reverse entropy, Maxwell's demon style? Because I'm *pretty* sure that magic knowledge of the future would allow one to reverse entropy.
+> 
+> If I write a time of death which exceeds the time at which they otherwise would have died, does it prolong the person's life? Does the rule against extending people's lives apply to me? (I guess not, since Light probably extended a few lives by killing murderers) 
+> 
+> Can I write things like "so and so lives as he would and dies at the normal time, except now he can't commit murders due to spontaneous compulsions to turn around and go home"?
+> 
+> The Shinigami Eyes can see how long you're "supposed" to live naturally, and Shinigami must structure deaths so as not to *lengthen* anyone's time (That seems *really* hard, one might easily do it by accident without lots of foreknowledge. Shinigami live precarious lives). Anyway, presumably, the "supposed to live" time does not factor in Death Notes used by Shinigami. Does the calculation of how long people are *supposed* to live factor in death notes used by Humans on Earth?
+> 
+> Can I use the Death Note to make other humans write on Death Notes?
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> > and Shinigami must structure deaths so as not to lengthen anyone's time
->> Not really. It's only bad if the shinigami *purposefully* lengthen someone's life. If it's on accident, c'est la vie, they go on.
 >> 
+>> Not really. It's only bad if the shinigami *purposefully* lengthen someone's life. If it's on accident, c'est la vie, they go on.
 
->>> **u/Solonarv** [+2]  *Chaos Legion**
+>>> **u/Solonarv** [+2]  *Chaos Legion* (a month later)
 >>> 
 >>> > c'est la vie
->>> That irony. (the phrase means, literally, *that's life*)
 >>> 
+>>> That irony. (the phrase means, literally, *that's life*)
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Can the death note function as an Oracle machine and be used to solve problems that the victim doesn't necessarily have the answer to?
-> 
 
-> **u/Farmerbob1** [+2]  *Level 1 author**
+> **u/Farmerbob1** [+2]  *Level 1 author* (4 days later)
 > 
 > 1a) Is karma real?
 > 1b) Can I gain karma by using the death note to end heinous individuals?
+> 
 > 2a) Are there any direct costs, immediate or delayed, that I will be responsible for if I using the death note, other than the psychological ones associated with a choice to kill another person?
 > 2b) If there are costs, can I consult with the shinigami to learn what those costs would be for any specific person?
+> 
 > 3a) Are my contributions to the deaths that I cause traceable?
 > 3b) If so, what are the names of the people who can trace it?
-> 4) How many death notes are there?
-> 5) Does the death note seek to avoid collateral damage?  For example:  If I write an airline pilot's name in the note, does the note care about if the pilot is flying a plane with passengers at the time of their death?
 > 
+> 4) How many death notes are there?
+> 
+> 5) Does the death note seek to avoid collateral damage?  For example:  If I write an airline pilot's name in the note, does the note care about if the pilot is flying a plane with passengers at the time of their death?
 
-> **u/gabbalis** [+1] *
+> **u/gabbalis** [+1]  (50 minutes later)
 > 
 > Oh, also, anything in the original rules:http://deathnote.wikia.com/wiki/Rules_of_the_Death_Note
-> Would be a good thing to ask about, since presumably I wouldn't know about them yet.
 > 
+> Would be a good thing to ask about, since presumably I wouldn't know about them yet.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (59 minutes later)
 >> 
 >> Of course, but in hindsight it's very easy to come up with the questions :P I was wondering what someone would ask being ignorant of those rules. Actually I'ma edit something like that on the original post.
->> 
 
-> **u/CopperZirconium** [+1] *
+> **u/CopperZirconium** [+1]  (13 hours later)
 > 
 > I would want to know what name the death note uses to kill people: Legal name, name the victim cinsiders themselves to be, name the victim was given at birth, name the most people think the victim's name is, some sort of True Name. Once I know the rules I would want to know how to subvert them. One thing I am intrested in finding out is if the Egyptian practice of using a [cartouche](http://en.wikipedia.org/wiki/Cartouche) could actually protect a name.
-> IIRC the death note regenerates torn out pages. What are the mechanics of that? Does this create mass?
 > 
+> IIRC the death note regenerates torn out pages. What are the mechanics of that? Does this create mass?
 
->> **u/autowikibot** [+1] *
+>> **u/autowikibot** [+1]  (13 hours later)
 >> 
 >> #####&#009;
+>> 
 >> ######&#009;
+>> 
 >> ####&#009;
 >>  [**Cartouche**](https://en.wikipedia.org/wiki/Cartouche): [](#sfw) 
->> ---
->> >In [Egyptian hieroglyphs](https://en.wikipedia.org/wiki/Egyptian_hieroglyph), a __cartouche__ (English pronunciation: /kɑːˈtuːʃ/)  is an oval with a horizontal line at one end, indicating that the text enclosed is a [royal](https://en.wikipedia.org/wiki/Pharaoh) name,  coming into use during the beginning of the [Fourth Dynasty](https://en.wikipedia.org/wiki/Fourth_dynasty_of_Egypt) under Pharaoh [Sneferu](https://en.wikipedia.org/wiki/Sneferu). While the cartouche is usually vertical with a horizontal line, it is sometimes horizontal if it makes the name fit better, with a vertical line on the left.  The [Ancient Egyptian](https://en.wikipedia.org/wiki/Egyptian_language) word for it was *shenu*, and it was essentially an expanded [shen ring](https://en.wikipedia.org/wiki/Shen_ring). In [Demotic](https://en.wikipedia.org/wiki/Demotic_(Egyptian\)), the cartouche was reduced to a pair of brackets and a vertical line.
->> >====
->> >[**Image**](https://i.imgur.com/wJkqE3O.jpg) [^(i)](https://commons.wikimedia.org/wiki/File:GD-EG-Karnak040.JPG) - *Ancient Egyptian cartouche of Thutmose III, Karnak, Egypt.*
->> ---
->> ^Interesting: [^Cartouche ^\(design)](https://en.wikipedia.org/wiki/Cartouche_\(design\)) ^| [^Cartouche ^\(film)](https://en.wikipedia.org/wiki/Cartouche_\(film\)) ^| [^Escutcheon ^\(heraldry)](https://en.wikipedia.org/wiki/Escutcheon_\(heraldry\)) ^| [^Cartouche ^\(hieroglyph)](https://en.wikipedia.org/wiki/Cartouche_\(hieroglyph\)) 
->> ^Parent ^commenter ^can [^toggle ^NSFW](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cio4gvk) ^or[](#or) [^delete](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cio4gvk)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 >> 
+>> ---
+>> 
+>> >In [Egyptian hieroglyphs](https://en.wikipedia.org/wiki/Egyptian_hieroglyph), a __cartouche__ (English pronunciation: /kɑːˈtuːʃ/)  is an oval with a horizontal line at one end, indicating that the text enclosed is a [royal](https://en.wikipedia.org/wiki/Pharaoh) name,  coming into use during the beginning of the [Fourth Dynasty](https://en.wikipedia.org/wiki/Fourth_dynasty_of_Egypt) under Pharaoh [Sneferu](https://en.wikipedia.org/wiki/Sneferu). While the cartouche is usually vertical with a horizontal line, it is sometimes horizontal if it makes the name fit better, with a vertical line on the left.  The [Ancient Egyptian](https://en.wikipedia.org/wiki/Egyptian_language) word for it was *shenu*, and it was essentially an expanded [shen ring](https://en.wikipedia.org/wiki/Shen_ring). In [Demotic](https://en.wikipedia.org/wiki/Demotic_(Egyptian\)), the cartouche was reduced to a pair of brackets and a vertical line.
+>> 
+>> >====
+>> 
+>> >[**Image**](https://i.imgur.com/wJkqE3O.jpg) [^(i)](https://commons.wikimedia.org/wiki/File:GD-EG-Karnak040.JPG) - *Ancient Egyptian cartouche of Thutmose III, Karnak, Egypt.*
+>> 
+>> ---
+>> 
+>> ^Interesting: [^Cartouche ^\(design)](https://en.wikipedia.org/wiki/Cartouche_\(design\)) ^| [^Cartouche ^\(film)](https://en.wikipedia.org/wiki/Cartouche_\(film\)) ^| [^Escutcheon ^\(heraldry)](https://en.wikipedia.org/wiki/Escutcheon_\(heraldry\)) ^| [^Cartouche ^\(hieroglyph)](https://en.wikipedia.org/wiki/Cartouche_\(hieroglyph\)) 
+>> 
+>> ^Parent ^commenter ^can [^toggle ^NSFW](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cio4gvk) ^or[](#or) [^delete](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cio4gvk)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > Is there a life note?
-> 
 
->> **u/TheStevenZubinator** [+1]  *Chaos Legion**
+>> **u/TheStevenZubinator** [+1]  *Chaos Legion* (21 days later)
 >> 
 >> How would that work? Does it create new people? Does it resurrect dead people?
 >> If so? Does it reanimate (what's left of) their corpse or create them as they were right before dying? Both would suck. Imagine writing someone's name in the Life Note who died while on fire. If it brought them back to where there were right before dying, they'd be ruined, pain-wracked bodies.
->> 
 
-> **u/TheStevenZubinator** [+1]  *Chaos Legion**
+> **u/TheStevenZubinator** [+1]  *Chaos Legion* (21 days later)
 > 
 > I always wondered about loopholes to escape the Death Note. What if you could use someone's birth name if they had a legal name change. Do you use the new name? What if they're finalizing their name change while you're writing their name down?
-> What if you write someone's name and the default heart attack can't kill them because they're currently on bypass? Related, what if you're technically dead during an intense brain surgery while your name is written down?
-> How do you use the death note to kill someone who's native language is one that doesn't use letters, like the click/pop language of some isolated tribes?
-> What if someone literally was never given a name, possibly for intentionally avoiding being killed by the Note? Like, an orphanage similar to the one Near and Mello were raised in, but none of the children ever had birth certificates and were never called a name ("you, in the red shirt..."). 
-> Is the death necessarily permanent? What if you're set up for ideal crionic preservation at the time of death? 
-> Lastly, since the notebook never runs out of pages, I always liked to imagine sitting by a fire place, throwing one page in after another for hours. Could this be harnessed to create lots of (very dirty) energy?
 > 
+> What if you write someone's name and the default heart attack can't kill them because they're currently on bypass? Related, what if you're technically dead during an intense brain surgery while your name is written down?
+> 
+> How do you use the death note to kill someone who's native language is one that doesn't use letters, like the click/pop language of some isolated tribes?
+> 
+> What if someone literally was never given a name, possibly for intentionally avoiding being killed by the Note? Like, an orphanage similar to the one Near and Mello were raised in, but none of the children ever had birth certificates and were never called a name ("you, in the red shirt..."). 
+> 
+> Is the death necessarily permanent? What if you're set up for ideal crionic preservation at the time of death? 
+> 
+> Lastly, since the notebook never runs out of pages, I always liked to imagine sitting by a fire place, throwing one page in after another for hours. Could this be harnessed to create lots of (very dirty) energy?
 
 ---
 

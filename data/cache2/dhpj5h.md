@@ -2,7 +2,7 @@
 
 * Author: u/SyntaqMadeva *
 * URL: http://moodylit.com/the-good-student-table-of-contents/book-2-chapter-thirty-six-part-one
-* Score: 24
+* Score: 26
 
 * Created: 2019-10-14T11:58:18
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/AStartlingStatement** [+2] *
+> **u/AStartlingStatement** [+2]  (16 hours later)
 > 
 > Very enjoyable, I like the double chapter format.
-> 
 
 ---
 

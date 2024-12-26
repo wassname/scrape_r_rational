@@ -13,15 +13,13 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (an hour later)
 > 
 > … okay, who wants to be the first to submit this to /r/badphilosophy?
-> 
 
->> **u/stringless** [+1]  *Rebel Alliance**
+>> **u/stringless** [+1]  *Rebel Alliance* (a day later)
 >> 
 >> Depends. Is /r/notevenwrong a thing?
->> 
 
 ---
 

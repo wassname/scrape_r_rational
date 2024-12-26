@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/nht7sz/d_friday_open_thread/
-* Score: 15
+* Score: 13
 
 * Created: 2021-05-21T14:00:14
 
@@ -16,97 +16,101 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857* (2 hours later)
 > 
 > There's got to be at least a few paradox fans here. Who's ready to riot if Vicky 3 doesn't get announced?
-> 
 
->> **u/netstack_** [+1] *
+>> **u/netstack_** [+1]  (5 hours later)
 >> 
 >> As someone who is on-and-off working on learning HoI4, I guess I've got plenty on my plate, so I can't be too mad.
->> What's the biggest appeal of Victoria for you?
->> Edit: looks like you got your wish!
 >> 
+>> What's the biggest appeal of Victoria for you?
+>> 
+>> Edit: looks like you got your wish!
 
->>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857* (5 hours later)
 >>> 
 >>> I like to roleplay in paradox games, which means I care about 'historical' outcomes. In particular, the more simulationist a game is, the more outcomes feel like they're 'plausible' rather than just me playing a historically-themed board game. Victoria 2 (and the newly announced Victoria 3) are by far the most simulationist of the paradox games. Conquering europe in EU4 or HOI4 feels like winning a game of chess, but raising literacy to 100% as russia in Vicky 2 feels like I'm the enlightened national leader that brought my backwards nation from poverty into prosperity.
->>> It's why I'm super hyped about a lot of the systems that Victoria 3 got announced with-- market management, standards of living, interest groups, employment, technological growth, etcetera. It's just so much more engaging for me to craft an industry that enriches my people to increase my power to allow my diplomatic influence to spread over europe to reclaim territories full of my cultural minorities than it is to spend bird mana to turn Italy Brazilian or bullhorn mana to kick the communists out of belgium.
 >>> 
+>>> It's why I'm super hyped about a lot of the systems that Victoria 3 got announced with-- market management, standards of living, interest groups, employment, technological growth, etcetera. It's just so much more engaging for me to craft an industry that enriches my people to increase my power to allow my diplomatic influence to spread over europe to reclaim territories full of my cultural minorities than it is to spend bird mana to turn Italy Brazilian or bullhorn mana to kick the communists out of belgium.
 
->>>> **u/netstack_** [+2] *
+>>>> **u/netstack_** [+2]  (6 hours later)
 >>>> 
 >>>> Dang. I find your argument compelling. Only reason I'm tinkering with HoI is to explore a game with a good mass combat model that didn't rely on killing everyone to the last hit point^TM
->>>> 
 
->>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (6 hours later)
 >>>>> 
 >>>>> Well Vicky 2 is on sale right now so it's a great time to check it out :)
->>>>> 
 
->>>> **u/AbysmalLion** [+1] *
+>>>> **u/AbysmalLion** [+1]  (4 days later)
 >>>> 
 >>>> I'm late and it's kind of tangential, but this is why I really enjoy Endless Space 2 and to a lesser extent, Civilization: Beyond Earth. Both have tons of flavor and theme for me to role-play with in my mind. They don't get as specifically in-depth as paradox games, but I still really enjoy them for the role-playing potential. Even if it's a sort of high level aesthetic role-play.
->>>> 
 
-> **u/CouteauBleu** [+7]  *We are the Empire.**
+> **u/CouteauBleu** [+7]  *We are the Empire.* (5 hours later)
 > 
 > I'm thinking of buying an oxygen meter for my room; I'm seriously worried it's not ventilated enough and it's a reason I'm often tired, and I'd like to measure it.
-> Anybody here has tried getting one? Any advice of what model I should buy, etc?
 > 
+> Anybody here has tried getting one? Any advice of what model I should buy, etc?
 
->> **u/npanov** [+9] *
+>> **u/npanov** [+7]  (7 hours later)
 >> 
 >> Maybe, CO2 meter instead of oxygen? We usually feel tired when there is an abundance of CO2 around us?
->> 
 
->>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>> **u/CouteauBleu** [+2]  *We are the Empire.* (7 hours later)
 >>> 
 >>> Oh, yeah, I got that mixed up.
->>> 
 
->> **u/xachariah** [+4] *
+>> **u/xachariah** [+4]  (12 hours later)
 >> 
 >> Have you thought about a pulse oximiter?  
->> It's somewhat unlikely that your room is low on oxygen.  A pulse oximiter will end up getting you the same information (whether or not you have enough oxygen), but unlike an oxygen meter it isn't worthless if it turns out your hypothesis is incorrect since you'll still be able to use it for medical diagnostics.  IIRC, I think pulse oximiters are cheaper too since they're a relatively commonly used medical device.
 >> 
+>> It's somewhat unlikely that your room is low on oxygen.  A pulse oximiter will end up getting you the same information (whether or not you have enough oxygen), but unlike an oxygen meter it isn't worthless if it turns out your hypothesis is incorrect since you'll still be able to use it for medical diagnostics.  IIRC, I think pulse oximiters are cheaper too since they're a relatively commonly used medical device.
 
-> **u/fljared** [+8]  *United Federation of Planets**
+> **u/fljared** [+8]  *United Federation of Planets* (10 hours later)
 > 
 > This has never really fit in another thread, so I'll talk about it here:
+> 
 > I think the reason Charlie failed in [Chili and the Chocolate Factory](https://www.fanfiction.net/s/13451176/1/Chili-and-the-Chocolate-Factory-Fudge-Revelation) is that he did not complain enough.
 > In almost all versions of Charlie and the Chocolate factory, the children (except Charlie) are used in order to complain about society, especially Kids These Days. 
+> 
 > Mike Teevee stares at the Boob Tube all day, unlike us enlightened Book Readers.
+> 
 > Veruca Salt is a spoiled rich girl who throws tantrums whenever she doesn't get what she wants. She only gets her ticket because her father can pay both for enormous amounts of chocolate and an army people to unwrap them.
+> 
 > Augustus Gloop is a fat little piggy who eats to much chocolate, isn't that gross? 
+> 
 > Violet Beauregarde chews gum all day and that is Gross.
+> 
 > In later version, we see additions to characters adding on more modern complaints: In the second movie, [Mike's parents](https://youtu.be/BBQ90lypkL8?t=4) let him be raised by a CoD lobby his diction and obnoxiousness show it.* In one of the stage plays, he's also used to criticize reality TV, medication, and Twitter. [Violet](https://youtu.be/SS9UYJSOJDE) becomes an obnoxious overachiever who's clearly being used for vicarious wins by her mother.
-
+> 
 > (Spoiled rich kids and spoiled fat kids are timeless enough to not need or allow much change)
+> 
 > But Charlie's group has none of this. None of them are without flaws, but their flaws are not *fatal*, in the classic sense. The closest we get (other than JUROR**) is Lim's bad taste in Chopin, but him being killed is unrelated to this. None of Gloop's Gluttony leading to him trying to 
 > swim in a river of chocolate, or Spoiled Salt demanding a squirrel she cannot have. He is lead near the Thing-That-Kills-People-Who-Have-Bad-Taste and is killed for liking Chopin. His death is no more just than had Keerthi died in the disease room of not-being-immune-to-disease.
-> And the reason why? Charlie's just-world-fallacy. His habit of assuming any bad thing being a moral comeuppance also means all moral judgements must be post-hoc. He cannot predict in advance what will cause someone to fail because if he is ever wrong it would mean his viewpoint was wrong. So he gathers a bunch of random kids and throws taffy at the wall to see what sticks. When he runs out of ways to be rid of people he starts killing them off with open hostility because once they're dead he can paint a picture of why they deserved to die. He's not entirely blind- His actions with Chili show him being able to guess what might work, but in general his tests are unfair enough that no one but him can take the idea of separating the good from the ill seriously. It's telling that the victor is someone with so few moral properties, or any at all, that she's never able to be given a test to fail even by Charlie's standards. 
-> The pickle thus receives a meal with no just desserts, and is thus unpleased.
-> *A change I really liked from the now-outdated "Obsessed with Cowboys" Schtick that hasn't been popular since the 50s)
-> **JUROR dying of tripping on untied shoelaces counts, in that his failure is related to something he both had control over and is caused by his person quirk of
 > 
+> And the reason why? Charlie's just-world-fallacy. His habit of assuming any bad thing being a moral comeuppance also means all moral judgements must be post-hoc. He cannot predict in advance what will cause someone to fail because if he is ever wrong it would mean his viewpoint was wrong. So he gathers a bunch of random kids and throws taffy at the wall to see what sticks. When he runs out of ways to be rid of people he starts killing them off with open hostility because once they're dead he can paint a picture of why they deserved to die. He's not entirely blind- His actions with Chili show him being able to guess what might work, but in general his tests are unfair enough that no one but him can take the idea of separating the good from the ill seriously. It's telling that the victor is someone with so few moral properties, or any at all, that she's never able to be given a test to fail even by Charlie's standards. 
+> 
+> The pickle thus receives a meal with no just desserts, and is thus unpleased.
+> 
+> *A change I really liked from the now-outdated "Obsessed with Cowboys" Schtick that hasn't been popular since the 50s)
+> 
+> **JUROR dying of tripping on untied shoelaces counts, in that his failure is related to something he both had control over and is caused by his person quirk of
 
->> **u/gryfft** [+7] *
+>> **u/gryfft** [+8]  (11 hours later)
 >> 
 >> Man, I miss Chiliposting. I was literally just digging back through those comment threads. What a phenomenal time that was to be alive.
->> >no just desserts
->> Y'know, the deserts/desserts thing was called out and pointed out in-story with the joke about being stranded in a massive dessert and so on, but it hadn't occurred to me that Bucket's just world fallacy + the deaths of the children by means of confections == "just desserts." Man, that story is like an everlasting gobstopper, there's just always more delicious layers to suck on.
 >> 
+>> >no just desserts
+>> 
+>> Y'know, the deserts/desserts thing was called out and pointed out in-story with the joke about being stranded in a massive dessert and so on, but it hadn't occurred to me that Bucket's just world fallacy + the deaths of the children by means of confections == "just desserts." Man, that story is like an everlasting gobstopper, there's just always more delicious layers to suck on.
 
-> **u/hwc** [+3] *
+> **u/hwc** [+4]  (a day later)
 > 
 > Anyone remember reading a story about a guy isekai'd into a lich overlord?  I remember he tried to introduce reforms in his domain, but was assassinated several times, and once took centuries to come back to life. I think the story had a definite ending.
-> 
 
->> **u/hwc** [+5] *
+>> **u/hwc** [+5]  (a day later)
 >> 
 >> Finally found it: _The World Waits on Evil_
->> 
 
 ---
 

@@ -18,17 +18,17 @@ A side note, I've initiated discussion on my discord about switching to a batch 
 
 ### Comments:
 
-> **u/Hidden-50** [+2] *
+> **u/Hidden-50** [+2]  (16 hours later)
 > 
 > Hey, thanks for the update :)
-> I really enjoyed the audio narration last week, so I'll wait for Sunday before reading alongside it.
-> As for the update schedule, I'd say whichever works best for you. Weekly updates probably mean more viewers, as it'll get attention more frequently on the subreddit. But whichever process makes it less likely you'll burn out and have to abandon the project is infinitely preferable in my opinion.
 > 
+> I really enjoyed the audio narration last week, so I'll wait for Sunday before reading alongside it.
+> 
+> As for the update schedule, I'd say whichever works best for you. Weekly updates probably mean more viewers, as it'll get attention more frequently on the subreddit. But whichever process makes it less likely you'll burn out and have to abandon the project is infinitely preferable in my opinion.
 
-> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights**
+> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights* (a day later)
 > 
 > Finished the episode, a bit later than anticipated! You can listen [here](https://youtu.be/N0O7UuEUSYk)
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.fanfiction.net/s/9794740/34/Pokemon-The-Origin-of-Species
-* Score: 50
+* Score: 48
 
 * Created: 2016-08-01T09:47:40
 
@@ -12,451 +12,464 @@
 
 ### Comments:
 
-> **u/DerSaidin** [+19] *
+> **u/DerSaidin** [+17]  (3 hours later)
 > 
 > Nice work as always :)
+> 
 > > "Is Kemuri your lead, or your trump?" Red asks as he watches Blue run through drills with the shiftry during one of their rest stops.
+> 
 > > "If I can sweep with him, I will," Blue says. "But I know they're going to throw some bulk at me, and I'll have to wear that down with Gon and Maturin first. Ion will be the trump; if I don't reveal an Electric Type right away they might think I don't have one. Thanks again for him, Leaf."
+> 
 > When I'm reading this, I don't know what these Pokemon are. I don't doubt they were well introduced earlier in the story, but with all the time between chapters being released, and spending some chapters focused on different characters and locations, I just don't remember anything about these minor pokemon characters (Gon, Maturin, Ion, etc) - the key thing I'd like to know is what Pokemon they are.
-
+> 
 > One way to handle this is to make a point of *always* doing what you did for Kemuri, mentioning that it is a Shiftry in very close proximity to where you first use it's name in this chapter (at least the first, more uses probably better). Having to work this in everywhere might get annoying for you.
-
+> 
 > Alternatively, you could just put the Pokemon in brackets after it..
+> 
 > > "But I know they're going to throw some bulk at me, and I'll have to wear that down with Gon (shroomish) and Maturin (squirtle) first. Ion (shinx) will be the trump;
+> 
 > That might feel a little inelegant. I don't think so, it gets the job done and we know to ignore it for the general flow.
+> 
 > I did find http://www.daystareld.com/pokemon-team-roster/ but TBH I only bothered searching for the purpose of writing this post (and having the pokemon names in the above example).
 > Another option would be to provide this information more easily/prominently at the start of the chapter. I have a further suggestion for this option; tie in to your source material - the games. At the start of each chapter involving Red/Blue/Leaf, add something like this at the start:
-> > ** Loading Save State **
-
-> > Red:
-> > Charmander { Scratch, Tail Whip, Ember, Smokescreen }
-> > Spinarak { Poison Sting, Night Shade, Sticky Web, Bug Bite }
-> > Caterpie { Tackle, String Shot }
-> > Pichu { Thundershock, Quick Attack }
-> > Nidoran { Poison Sting, Horn Attack, Double Kick }
-
-> > Blue (Earth Badge):
-> > Squirtle "Maturin" { Water Gun, Bubblebeam, Rapid Spin, Withdraw }
-> > Pidgey "Zephyr" { Gust, Peck, Wing Attack, Quick Attack }
-> > Shroomish "Gon" { Absorb, Leech Seed, Poison Powder, Stun Spore, Headbutt }
-> > Shiftry "Kemuri" { Razor Leaf, Extrasensory, Feint Attack, Leaf Tornado }
-> > Shinx "Ion" { Spark, Bite, Charge, Tackle }
-> > Ekans { Poison Sting, Bite, Acid, Wrap }
-> > Rattata "Joey" { Tackle, Bite, Quick Attack, Tail Whip }
-> > Zubat { Wing Attack, Leech Life, Poison Sting, Supersonic }
-
-> > Leaf:
-> > Bulbasaur { Tackle, Leech Seed, Vine Whip, Razor Leaf, Sleep Powder }
-> > Rattata "Scamp" { Tackle, Bite, Quick Attack, Tail Whip }
-> > Pidgey "Crimson" { Gust, Peck, Wing Attack, Quick Attack }
-> > Ledyba { Comet Punch, Supersonic, Silver Wind }
-> > Beedrill { Poison Jab, Twinneedle, Fury Attack }
-> > Wigglytuff { Sing, Pound, Disable, Round }
-
-> Maybe that brings the feel away from being a story too much? Or maybe throw in some stats like days "played" for the characters for the extra game feel :)
-
-> The other advantage doing something like this would have is that unlike http://www.daystareld.com/pokemon-team-roster/ which is up to date, and potentially includes spoilers, this list at the start of the chapter would be specific to that point in time and spoiler free.
 > 
+> > ** Loading Save State **
+> 
+> > Red:
+> 
+> > Charmander { Scratch, Tail Whip, Ember, Smokescreen }
+> 
+> > Spinarak { Poison Sting, Night Shade, Sticky Web, Bug Bite }
+> 
+> > Caterpie { Tackle, String Shot }
+> 
+> > Pichu { Thundershock, Quick Attack }
+> 
+> > Nidoran { Poison Sting, Horn Attack, Double Kick }
+> 
+> > Blue (Earth Badge):
+> 
+> > Squirtle "Maturin" { Water Gun, Bubblebeam, Rapid Spin, Withdraw }
+> 
+> > Pidgey "Zephyr" { Gust, Peck, Wing Attack, Quick Attack }
+> 
+> > Shroomish "Gon" { Absorb, Leech Seed, Poison Powder, Stun Spore, Headbutt }
+> 
+> > Shiftry "Kemuri" { Razor Leaf, Extrasensory, Feint Attack, Leaf Tornado }
+> 
+> > Shinx "Ion" { Spark, Bite, Charge, Tackle }
+> 
+> > Ekans { Poison Sting, Bite, Acid, Wrap }
+> 
+> > Rattata "Joey" { Tackle, Bite, Quick Attack, Tail Whip }
+> 
+> > Zubat { Wing Attack, Leech Life, Poison Sting, Supersonic }
+> 
+> > Leaf:
+> 
+> > Bulbasaur { Tackle, Leech Seed, Vine Whip, Razor Leaf, Sleep Powder }
+> 
+> > Rattata "Scamp" { Tackle, Bite, Quick Attack, Tail Whip }
+> 
+> > Pidgey "Crimson" { Gust, Peck, Wing Attack, Quick Attack }
+> 
+> > Ledyba { Comet Punch, Supersonic, Silver Wind }
+> 
+> > Beedrill { Poison Jab, Twinneedle, Fury Attack }
+> 
+> > Wigglytuff { Sing, Pound, Disable, Round }
+> 
+> Maybe that brings the feel away from being a story too much? Or maybe throw in some stats like days "played" for the characters for the extra game feel :)
+> 
+> The other advantage doing something like this would have is that unlike http://www.daystareld.com/pokemon-team-roster/ which is up to date, and potentially includes spoilers, this list at the start of the chapter would be specific to that point in time and spoiler free.
 
->> **u/DaystarEld** [+7]  *Pokémon Professor**
+>> **u/DaystarEld** [+6]  *Pokémon Professor* (8 hours later)
 >> 
 >> Thanks, glad you enjoyed it!
->> I added a reference to Ion being the shinx, since he's a pretty new pokemon, but am still working on the best way to add in Maturin and Gon's species in the current dialogue. I really like the "loading save data" idea, that's pretty clever :) Ultimately it still feels like too bulky an opening to each chapter though. I'll think it over!
 >> 
+>> I added a reference to Ion being the shinx, since he's a pretty new pokemon, but am still working on the best way to add in Maturin and Gon's species in the current dialogue. I really like the "loading save data" idea, that's pretty clever :) Ultimately it still feels like too bulky an opening to each chapter though. I'll think it over!
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (10 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/DaystarEld** [+4]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+5]  *Pokémon Professor* (14 hours later)
 >>>> 
 >>>> Hmm. I don't think Fanfiction allows that (could be wrong), but that's definitely something worth looking into for the chapters on my site. Thanks for the idea!
->>>> 
 
->>>>> **u/DerSaidin** [+1] *
+>>>>> **u/DerSaidin** [+1]  (2 days later)
 >>>>> 
 >>>>> The down side of a tool tip is no one knows to mouse-over some random bit of text.
->>>>> For your site it would be really cool if you had a little icon with a pop up of stats and moves and stuff.
 >>>>> 
+>>>>> For your site it would be really cool if you had a little icon with a pop up of stats and moves and stuff.
 
->>> **u/DerSaidin** [+3] *
+>>> **u/DerSaidin** [+3]  (15 hours later)
 >>> 
 >>> Yeah, it is bulky. Probably doesn't need to have all the movesets though. Then you can just have a list of pokemon and their aliases on one line for each person.
->>> 
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (15 hours later)
 >>> 
 >>> The loaded save state would also be good for people reading it later, since they see what pokemon there are at the time instead of eventually. Although I do think it would be interesting to have it use cookies to track how far they are into it when reading it on your website, and have it show whatever's current for that. I wrote a basic javascript program for that a while ago if you want it.
->>> 
 
->>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (21 hours later)
 >>> 
 >>> You can do it Japanese web novel style, and put the status list in the end of chapters. Anyone who needs a reference can simply scroll down, and those who don't can just ignore it, since it's not catching eye whe it's far in the bottom.
->>> 
 
->> **u/empocariam** [+1] *
+>> **u/empocariam** [+1]  (15 hours later)
 >> 
 >> Including something like "Kemuri, my Shiftry..," whenever a named pokemon appears for the first time would somewhat defeat the point of giving them names. The names are an intentional way of seperating them from the generic shiftry. If this was a story about literal pet dogs, cats, etc. I would imagine it would feel more natural to call them by character names, and more "important" in the readers mind to remember them.  
 >> I think that this problem might be helped a little if when names are introduced for the first time, there is a bit more of an explanations why those names were chosen, to solidify the sort of, metaphorical leap the name conveys between the generic shroomish and the specific Gon.  
->> However, to completely contradict my whole point, I think it would actually be useful after story breaks like interludes to reintroduce the names of Pokemon, especially if they haven't been seen for awhile.
 >> 
+>> However, to completely contradict my whole point, I think it would actually be useful after story breaks like interludes to reintroduce the names of Pokemon, especially if they haven't been seen for awhile.
 
->>> **u/DerSaidin** [+3] *
+>>> **u/DerSaidin** [+5]  (a day later)
 >>> 
 >>> It would certainly be unnatural for the characters to do that in dialogue. Red/Blue/Leaf would know their pokemon by name.
->>> But if you look at the shiftry example, it is not in dialogue. It reads quite nicely and adds information. This is what I meant by "Having to work this in", it will take time and effort to find fresh ways to fit it in naturally in so many places.
 >>> 
+>>> But if you look at the shiftry example, it is not in dialogue. It reads quite nicely and adds information. This is what I meant by "Having to work this in", it will take time and effort to find fresh ways to fit it in naturally in so many places.
 
-> **u/4t0m** [+11]  *Chaos Legion**
+> **u/4t0m** [+10]  *Chaos Legion* (9 hours later)
 > 
 > It's too bad that Red's plan for getting Abra didn't work out right away, but I liked it a lot.  It's been a while since we've seen him come up with something like this.  His plans are consistently clever and also carry a sort of signature of taking advantage of pokemon's instincts in various ways: they're very *him* and very Ratfic, imo.  It also makes me happy to see the faith that Blue and Green have in him.
-> Generally, I am quite happy with the developments in this chapter.  The slow update pace, the high level of detail and large world, and /u/DaystarEld's commitment to reasonable-ish rates of success make for a story that is sometimes a bit slow.  In this chapter though, Red has finally started to devote some time to developing his abilities, and I am looking forward to future progress in this area.  We also saw a bit of a timeskip during their journey, which was carried off well, and I hope there will be more of this sort of thing in the future, if only to speed up the development of the characters a bit.  The more I think about this story, the more potential I think it has, and I can't wait to see these three start to act on a larger scale.  Some of Daystar's comments on the podcast have caused me to revise upwards my estimation of where Red's ambitions will take him, and given his repeated references to Legendaries in and out of the text, I'm sure we'll see great things there.
 > 
+> Generally, I am quite happy with the developments in this chapter.  The slow update pace, the high level of detail and large world, and /u/DaystarEld's commitment to reasonable-ish rates of success make for a story that is sometimes a bit slow.  In this chapter though, Red has finally started to devote some time to developing his abilities, and I am looking forward to future progress in this area.  We also saw a bit of a timeskip during their journey, which was carried off well, and I hope there will be more of this sort of thing in the future, if only to speed up the development of the characters a bit.  The more I think about this story, the more potential I think it has, and I can't wait to see these three start to act on a larger scale.  Some of Daystar's comments on the podcast have caused me to revise upwards my estimation of where Red's ambitions will take him, and given his repeated references to Legendaries in and out of the text, I'm sure we'll see great things there.
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (9 hours later)
 >> 
 >> > We also saw a bit of a timeskip during their journey, which was carried off well, and I hope there will be more of this sort of thing in the future, if only to speed up the development of the characters a bit.
->> Absolutely. Now that the majority of the groundwork for the characters and world's establishment is done, I'm planning more plot focused chapters.
->> Glad you're enjoying the story so much :) It still has a long way to go, but it's good to see that people are still enjoying it for what it is!
 >> 
+>> Absolutely. Now that the majority of the groundwork for the characters and world's establishment is done, I'm planning more plot focused chapters.
+>> 
+>> Glad you're enjoying the story so much :) It still has a long way to go, but it's good to see that people are still enjoying it for what it is!
 
->>> **u/4t0m** [+2]  *Chaos Legion**
+>>> **u/4t0m** [+2]  *Chaos Legion* (11 hours later)
 >>> 
 >>> I wrote [a comment that ballooned into a text post](https://www.reddit.com/r/rational/comments/4vopj3/thoughts_on_coolness_and_pacing_in_pokemon_origin/), expanding on what I was thinking about above.  Hopefully it won't strike you as too critical.
->>> 
 
->>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (14 hours later)
 >>>> 
 >>>> [Responded!](https://www.reddit.com/r/rational/comments/4vopj3/thoughts_on_coolness_and_pacing_in_pokemon_origin/d60c1wj)
->>>> 
 
->> **u/Radioterrill** [+1] *
+>> **u/Radioterrill** [+1]  (10 hours later)
 >> 
 >> One question I have about Red's plan is how they will set up the whole trap. It will be in an area containing wild Pokémon that might interfere, so setting up the speakers and getting ready in the centre would both run the risk of battles. In order to avoid scaring the Abras off before they start the experiment, they'd have to either deal with any other encounters quietly and discreetly, or set up and wait for the Abras to return. Neither of these options seem particularly practical. Looking forward to seeing how Red deals with this, and the other difficulties that will doubtless beset the experiment!
->> 
 
-> **u/DaystarEld** [+7]  *Pokémon Professor**
+> **u/DaystarEld** [+6]  *Pokémon Professor* (15 seconds later)
 > 
 > Hey everyone, welcome back! A couple quick notes: First, I hope those of you who've been listening to my podcast have been enjoying it, and I'm sorry if you've tried to download it without being able to. The current limit is 100 per episode, which apparently gets hit really quick after uploading each. Thanks to the continued support of my patrons, starting next week we'll likely go for the monthly paid account, which should allow for more downloads to be available!
-> Second, I hope everyone who's playing Pokemon GO's been having a blast with it. I haven't been able to play it as much as I'd like, and it's definitely not everything I wanted out of a pokemon AR game, but I've been enjoying playing it with friends here and there. What I do want to say is thanks to any readers who've been spreading the word about my story while you're out and about to fellow pokefans: after one of my readers admitted to doing so, I noticed that fanfiction's traffic graph is showing a steady upward tick ever since GO came out, beyond the usual, occasional spikes from it being linked somewhere on the web. until the average views to has nearly doubled from its usual mid-month resting point. It's humbling to know how much you guys enjoy the story, and I hope others have enjoyed it too.
-> Recent loss of the tracking aside, happy hunting to all! (Especially Team Instinct!)
 > 
+> Second, I hope everyone who's playing Pokemon GO's been having a blast with it. I haven't been able to play it as much as I'd like, and it's definitely not everything I wanted out of a pokemon AR game, but I've been enjoying playing it with friends here and there. What I do want to say is thanks to any readers who've been spreading the word about my story while you're out and about to fellow pokefans: after one of my readers admitted to doing so, I noticed that fanfiction's traffic graph is showing a steady upward tick ever since GO came out, beyond the usual, occasional spikes from it being linked somewhere on the web. until the average views to has nearly doubled from its usual mid-month resting point. It's humbling to know how much you guys enjoy the story, and I hope others have enjoyed it too.
+> 
+> Recent loss of the tracking aside, happy hunting to all! (Especially Team Instinct!)
 
->> **u/CarVac** [+8] *
+>> **u/CarVac** [+6]  (58 minutes later)
 >> 
 >> Go Instinct!
->> (Instinct technically isn't very rational, is it?)
 >> 
+>> (Instinct technically isn't very rational, is it?)
 
->>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>> **u/DaystarEld** [+5]  *Pokémon Professor* (7 hours later)
 >>> 
 >>> Nope, if I knew what Mystic was about in the beginning I might have chosen it, but the name was a huge turn-off, and really didn't communicate intellect or science. As it is, I just went with my favorite of the three birds :)
->>> 
 
->>> **u/creatureofthewood** [+1] *
+>>> **u/creatureofthewood** [+1]  (18 hours later)
 >>> 
 >>> Instinct is the most rational in some bounded contexts.
->>> 
 
->> **u/traverseda** [+2]  *With dread but cautious optimism**
+>> **u/traverseda** [+2]  *With dread but cautious optimism* (5 hours later)
 >> 
 >> > after one of my readers admitted to doing so, I noticed that fanfiction's traffic graph
->> You might consider linking to the discussions here then? Anyone trying to figure out what this podcast you're talking about is might have a hard time.
->> Or just include on link to your website, somewhere?
 >> 
+>> You might consider linking to the discussions here then? Anyone trying to figure out what this podcast you're talking about is might have a hard time.
+>> 
+>> Or just include on link to your website, somewhere?
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (7 hours later)
 >>> 
 >>> You can't put direct links into Fanfiction, but I do point to them a few times in previous author notes. I try not to so it every chapter, since I figure it would get annoying?
->>> 
 
->>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (14 hours later)
 >>>> 
 >>>> Author's notes in general do not annoy me. Actually, I like them, because it's nice to have the chance to get to know the authors of stories I read a little better.
->>>> 
 
->>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (15 hours later)
 >>>>> 
 >>>>> Yeah, I don't mind the author notes themselves, but putting a full team dossier at the beginning of each chapter would get annoying, I think :)
->>>>> 
 
->>>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (15 hours later)
 >>>>>> 
 >>>>>> Hmm. Maybe include a pastebin link to the most recent team, so it doesn't crowd the author notes?
->>>>>> 
 
->>>> **u/4t0m** [+1]  *Chaos Legion**
+>>>> **u/4t0m** [+1]  *Chaos Legion* (14 hours later)
 >>>> 
 >>>> Other authors seem to mention the subreddit fairly often.  You could also put a note in the story description, I suppose.
->>>> Also you could put author notes at the end?
 >>>> 
+>>>> Also you could put author notes at the end?
 
->>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (15 hours later)
 >>>>> 
 >>>>> Yeah, I usually mention it as /r/rational. And I could put the notes at the bottom, but that wouldn't really help the people trying to remember the nicknames while they're reading :)
->>>>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (10 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (14 hours later)
 >>> 
 >>> Soundcloud is what we're using now, and it's only free for the first ~150 minutes of uploaded files :) That's the cap we've just about reached with this episode.
->>> As far as I can tell from some quick googling, vocaroo is just a voice recording site, not a hosting one? Is there something I'm missing?
->>> And Youtube is a great service for videos, but not quite as good for podcasts, as it doesn't allow many people to play them conveniently while driving or from mp3 players and so on.
 >>> 
+>>> As far as I can tell from some quick googling, vocaroo is just a voice recording site, not a hosting one? Is there something I'm missing?
+>>> 
+>>> And Youtube is a great service for videos, but not quite as good for podcasts, as it doesn't allow many people to play them conveniently while driving or from mp3 players and so on.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (14 hours later)
 >>>> 
 >>>> [removed]
->>>> 
 
->>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (15 hours later)
 >>>>> 
 >>>>> Yeah, it's still not a hosting site: the uploads are temporary :)
->>>>> http://vocaroo.com/?help
->>>>> >Also, https://www.google.com/search?q=free+sound+hosting
->>>>> Yes, I've researched this before quite a bit, believe it or not. The only stable free sound hosting site that I found was archive.org, and from what I read it often has issues with lag and doesn't do rss feeds well.
->>>>> Thanks for trying to help though! If you find an established and reliable service that's free, let me know!
 >>>>> 
+>>>>> http://vocaroo.com/?help
+>>>>> 
+>>>>> >Also, https://www.google.com/search?q=free+sound+hosting
+>>>>> 
+>>>>> Yes, I've researched this before quite a bit, believe it or not. The only stable free sound hosting site that I found was archive.org, and from what I read it often has issues with lag and doesn't do rss feeds well.
+>>>>> 
+>>>>> Thanks for trying to help though! If you find an established and reliable service that's free, let me know!
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (15 hours later)
 >>>>>> 
 >>>>>> [removed]
->>>>>> 
 
->>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (15 hours later)
 >>>>>>> 
 >>>>>>> Hmm. That's one I haven't encountered before, but looks promising. Only issue I can see so far is it has no RSS feed (no albums or branding in general, each file is treated as its own individual thing), so it can only be shared through direct links, embeds, and downloads.
->>>>>>> Which might not be a dealbreaker, since I don't know how important things like itunes availability is to our listeners. I'll look into things like sound quality and potential bandwidth issues when I can.
->>>>>>> Thanks!
 >>>>>>> 
+>>>>>>> Which might not be a dealbreaker, since I don't know how important things like itunes availability is to our listeners. I'll look into things like sound quality and potential bandwidth issues when I can.
+>>>>>>> 
+>>>>>>> Thanks!
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (15 hours later)
 >>>>>>>> 
 >>>>>>>> [removed]
->>>>>>>> 
 
->>>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (16 hours later)
 >>>>>>>>> 
 >>>>>>>>> It might be because I was looking specifically for good places to host podcasts, and I don't think clyp.it is built for that. Without playlists or an rss, it would be kind of like hosting a web comic on imgur.
->>>>>>>>> Still, it's still a fairly new site, so maybe they'll expand its functionality at some point.
 >>>>>>>>> 
+>>>>>>>>> Still, it's still a fairly new site, so maybe they'll expand its functionality at some point.
 
->>>>>>>> **u/4t0m** [+1]  *Chaos Legion**
+>>>>>>>> **u/4t0m** [+1]  *Chaos Legion* (16 hours later)
 >>>>>>>> 
 >>>>>>>> Could you manually create an RSS feed consisting of links to each episode?
->>>>>>>> 
 
-> **u/ZeroNihilist** [+9] *
+> **u/ZeroNihilist** [+7]  (10 hours later)
 > 
 > I think the psychic/sensitive/dark trichotomy is interesting. Perhaps each is on its own spectrum, rather than all lying on the same one.
-> Possible line of inquiry: is there any degree of variability with being dark? For example, are there some people that are *hard* to read, but not impossible?
-> If so, it's possible that it reflects a separate skill in its own right, and perhaps one that could be trained like psychic ability if it had an organised group of practitioners. The story has set up the fact that they really don't organise, due to stigma and the fact that the psychics dominate the scientific and popular narratives.
-> If not, why? What do dark people have/lack that results in a complete inability to interact with psychics and sensitives? It must either be something they have/lack or do/don't, and that something could provide the key to unravelling psychic phenomena in general.
-> My hypothesis is that the "dark spectrum" could have its own gradations that haven't been adequately explored because of the society they live in. If the narrative is "psychic > sensitive > normal >> dark",  then people who are merely "slightly dark" will mentally put themselves in the "normal" bucket.
-> In this hypothesis, "dark" would mean "aptitude with mental defences". The stereotypical dark person would be both skilled in this area and unable to modulate it (much like Red can't modulate his psychic powers, if indeed he is psychic and not sensitive as a separate category).
 > 
+> Possible line of inquiry: is there any degree of variability with being dark? For example, are there some people that are *hard* to read, but not impossible?
+> 
+> If so, it's possible that it reflects a separate skill in its own right, and perhaps one that could be trained like psychic ability if it had an organised group of practitioners. The story has set up the fact that they really don't organise, due to stigma and the fact that the psychics dominate the scientific and popular narratives.
+> 
+> If not, why? What do dark people have/lack that results in a complete inability to interact with psychics and sensitives? It must either be something they have/lack or do/don't, and that something could provide the key to unravelling psychic phenomena in general.
+> 
+> My hypothesis is that the "dark spectrum" could have its own gradations that haven't been adequately explored because of the society they live in. If the narrative is "psychic > sensitive > normal >> dark",  then people who are merely "slightly dark" will mentally put themselves in the "normal" bucket.
+> 
+> In this hypothesis, "dark" would mean "aptitude with mental defences". The stereotypical dark person would be both skilled in this area and unable to modulate it (much like Red can't modulate his psychic powers, if indeed he is psychic and not sensitive as a separate category).
 
->> **u/DaystarEld** [+4]  *Pokémon Professor**
+>> **u/DaystarEld** [+4]  *Pokémon Professor* (14 hours later)
 >> 
 >> As far as anyone can tell, Dark is an absolute... but even the best human psychics are virtual children fumbling with powers they barely understand, and it's possible their perception so far isn't subtle enough to tell any differences that might exist.
->> 
 
-> **u/4t0m** [+12]  *Chaos Legion**
+> **u/4t0m** [+13]  *Chaos Legion* (6 hours later)
 > 
 > > Leaf leans over to watch over his shoulder, which causes Red to mess up a few times, distracted by the feel of her hair brushing his arm.
-> :D :D :D
-> (I am trash.)
 > 
+> :D :D :D
+> 
+> (I am trash.)
 
->> **u/Ulmaxes** [+12] *
+>> **u/Ulmaxes** [+12]  (9 hours later)
 >> 
 >> I love little throwaway lines like these because it helps keep these people cemented as relatable humans (teenage ones, at that).
->> 
 
-> **u/KnickersInAKnit** [+5] *
+> **u/KnickersInAKnit** [+4]  (9 hours later)
 > 
 > Leaf got rudely bumped by someone. I MUST KNOW WHETHER THIS IS IMPORTANT.
-> 
 
->> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> **u/DaystarEld** [+3]  *Pokémon Professor* (9 hours later)
 >> 
 >> I usually avoid them but in this case I'll safely say, spoiler: It's not.
->> It was just someone being rude :(
 >> 
+>> It was just someone being rude :(
 
->>> **u/KnickersInAKnit** [+7] *
+>>> **u/KnickersInAKnit** [+7]  (9 hours later)
 >>> 
 >>> Here I was thinking it was someone working with that priest trying to stick a delayed poison barb in Leaf or something. Phew.
->>> 
 
-> **u/The_Magus_199** [+5]  *Ankh-Morpork City Watch**
+> **u/The_Magus_199** [+5]  *Ankh-Morpork City Watch* (9 hours later)
 > 
 > Nice chapter! I'm looking forward to Red working more with his psychic powers, and his plan's also pretty neat if they can get enough people. That "predator/prey pokedex cry" trick seems to be quickly becoming his trademark, doesn't it. ;p
-> Also, in light of today's Sun/Moon info, I was wondering if you're thinking of incorporating Pokemon regional subspecies into the story? Considering that this is the first overt use of real evolution in Pokemon, not to mention that Alola is basically the Galapokegos Islands, it seems like that could be relevant.
 > 
+> Also, in light of today's Sun/Moon info, I was wondering if you're thinking of incorporating Pokemon regional subspecies into the story? Considering that this is the first overt use of real evolution in Pokemon, not to mention that Alola is basically the Galapokegos Islands, it seems like that could be relevant.
 
->> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> **u/DaystarEld** [+4]  *Pokémon Professor* (9 hours later)
 >> 
 >> Man, yeah, what a love-letter to Darwin that was! 
->> Not sure how I'll incorporate Z-Moves just yet (it'll probably be like Mega Evolution, alluded to but not part of the story) but the region-specific forms are a really cool addition :)
 >> 
+>> Not sure how I'll incorporate Z-Moves just yet (it'll probably be like Mega Evolution, alluded to but not part of the story) but the region-specific forms are a really cool addition :)
 
-> **u/DaystarEld** [+4]  *Pokémon Professor**
+> **u/DaystarEld** [+4]  *Pokémon Professor* (35 seconds later)
 > 
 > Typo thread!
-> 
 
->> **u/Alphanos** [+3]  *The Bright Powers**
+>> **u/Alphanos** [+3]  *The Bright Powers* (8 hours later)
 >> 
 >> > can't possibly be less dangerous
->> He probably intended to say that the new method can't possibly be more dangerous?  Not sure if that's really true, but it would make more sense in context for him to be saying that.
 >> 
+>> He probably intended to say that the new method can't possibly be more dangerous?  Not sure if that's really true, but it would make more sense in context for him to be saying that.
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (8 hours later)
 >>> 
 >>> Woops. Fixed!
->>> 
 
->> **u/Grasmel** [+2] *
+>> **u/Grasmel** [+2]  (an hour later)
 >> 
 >> "Charmander and Bulbasaur.." sentence ends with two periods.
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (8 hours later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/4t0m** [+2]  *Chaos Legion**
+>> **u/4t0m** [+2]  *Chaos Legion* (6 hours later)
 >> 
 >> > Ryback and Red's phones chime. 
+>> 
 >> Should be "Ryback's and Red's phones chime."  
 >> [Source](http://english.stackexchange.com/questions/11849/nikkis-and-alices-x-vs-nikki-and-alices-x)
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (8 hours later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/MaddoScientisto** [+1] *
+>> **u/MaddoScientisto** [+1]  (46 minutes later)
 >> 
 >> there's a repeated "thanks to" somewhere, just look for "thanks to thanks to"
->> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (8 hours later)
 >>> 
 >>> Fixed it, thank you!
->>> 
 
->> **u/Mizu25** [+1] *
+>> **u/Mizu25** [+1]  (a day later)
 >> 
 >> > About an hour into their travels, Ryback's and Red's phones chime
->> Ryback and Red's phones
->> > gaze distracted by a street magician who throws a huge velvet over a machoke, then whisks it off to reveal two machop, 
->> velvet cloth over a machoke
 >> 
+>> Ryback and Red's phones
+>> 
+>> > gaze distracted by a street magician who throws a huge velvet over a machoke, then whisks it off to reveal two machop, 
+>> 
+>> velvet cloth over a machoke
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (a day later)
 >>> 
 >>> Fixed the second one, thanks! First one was how I had it originally, then someone pointed out that it was incorrect :)
->>> http://english.stackexchange.com/questions/11849/nikkis-and-alices-x-vs-nikki-and-alices-x
 >>> 
+>>> http://english.stackexchange.com/questions/11849/nikkis-and-alices-x-vs-nikki-and-alices-x
 
-> **u/vallar57** [+3]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+3]  *Unseen University: Faculty of High-Energy Magic* (21 hours later)
 > 
 > I was recently rereading the whole fic, and I think I found a pretty big mistake in Red's paper on Spinaraks.
-> While looking for correllation with Night Shade attack strength, Red checked a multitude of parameters, such as weight, "other" and other. However, he didn't seem to make [multiple comparisons correction](https://en.wikipedia.org/wiki/Multiple_comparisons_problem). The more parameters you check for correllation, the bigger is the chance that you'll find your correllation simply by chance. The most common multiple comparison correction is [Bonferroni correction](https://en.wikipedia.org/wiki/Bonferroni_correction), which is simply dividing statistical significance level by the number of comparisons you make. So, if Red tested, say, 10 parameters, he would have needed to squeack by not with 0.05, but with 0.005... which he promptly failed, since he got p-value of 0.048.
 > 
+> While looking for correllation with Night Shade attack strength, Red checked a multitude of parameters, such as weight, "other" and other. However, he didn't seem to make [multiple comparisons correction](https://en.wikipedia.org/wiki/Multiple_comparisons_problem). The more parameters you check for correllation, the bigger is the chance that you'll find your correllation simply by chance. The most common multiple comparison correction is [Bonferroni correction](https://en.wikipedia.org/wiki/Bonferroni_correction), which is simply dividing statistical significance level by the number of comparisons you make. So, if Red tested, say, 10 parameters, he would have needed to squeack by not with 0.05, but with 0.005... which he promptly failed, since he got p-value of 0.048.
 
->> **u/DaystarEld** [+5]  *Pokémon Professor**
+>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >> 
 >> Maybe I didn't make it clear, but all he compared was Other and Night Shade power. The rest of the data was incidentally collected and used as a form of payment for volunteers.
->> 
 
->>> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+>>> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (2 days later)
 >>> 
 >>> Ah, okay then) Best Wishes!
->>> 
 
->>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (2 days later)
 >>>> 
 >>>> You too, thanks for looking out for the story's accuracy :) If you see anything else let me know!
->>>> 
 
-> **u/Mizu25** [+3] *
+> **u/Mizu25** [+3]  (a day later)
 > 
 > It just clicked to me this little Pichu Red has is the Pikachu he's well known for in the videogames. Don't know how I missed that till now.
-> Ah, the chewing out Red got from Oak over his plan suggestion had me laughing a fair bit. He was so suspicious!
-> >  I think I'm going to get a laptop tomorrow on our way up."
-> My, tech's cheap in the poke-verse if Leaf can nab a laptop with her available funds. Presuming she's just got ~150 pokedollar like Red, that is. The ups of functionally hitting the singularity, or something?
-> ...Oh, crap, Leaf triggered a political issue. That's going to be a problem~
 > 
+> Ah, the chewing out Red got from Oak over his plan suggestion had me laughing a fair bit. He was so suspicious!
+> 
+> >  I think I'm going to get a laptop tomorrow on our way up."
+> 
+> My, tech's cheap in the poke-verse if Leaf can nab a laptop with her available funds. Presuming she's just got ~150 pokedollar like Red, that is. The ups of functionally hitting the singularity, or something?
+> 
+> ...Oh, crap, Leaf triggered a political issue. That's going to be a problem~
 
->> **u/iaido22** [+5] *
+>> **u/iaido22** [+5]  (a day later)
 >> 
 >> > My, tech's cheap in the poke-verse if Leaf can nab a laptop with her available funds
->> They carry around multiple little pocket sized balls that can transmute living beings into data and store them, among other things. I doubt a laptop would cost much.
 >> 
+>> They carry around multiple little pocket sized balls that can transmute living beings into data and store them, among other things. I doubt a laptop would cost much.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 days later)
 > 
 > And another question; in this story you've established that psychic power is genetic. However, is it genetic in the way muscle building is in real life, or how intelligence is defined in real life? To elaborate, if you're born an ectomorph in today's world, you're never going to win the strongman competition, but you can still get pretty damn strong. Do psychic powers work like that, with people able to make definite, concrete gains, or is it more nebulous like intelligence, with some psychics simply not being able to do some advanced skills and no one really knows why?
-> 
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (4 days later)
 >> 
 >> Thanks for the questions, first person to ask this :) It's a sort of mix of both.  There are three major factors to psychic powers:
->> 1) Inborn ability. The way people in the world conceptualize it, you either have it or you don't. If you put a scale on it, 1-10, those in the 1-2 range would be sensitives, and humans don't generally go above 5-6, which is where psychic pokemon start. Alakazam would be a 10. Mewtwo isn't a known entity yet, so his abilities are off the scale. 
->> This scale effects everything you do as a psychic. It's like a "general intelligence" score, your ability to comprehend new ideas, retain information, and think critically.
->> 2) Your abilities. Telepathic Reading (reception),Telepathic Communication (projection), telekinesis, hypnosis, healing (pokemon only), teleportation (pokemon only), etc. 
->> These aren't binary, so technically everyone might have access to all of them. But as far as humans can tell, there are some that no human has been able to accomplish, the ones labeled "pokemon only," and some people are so bad at some common ones that they effectively don't have the power.  Which leads to:
->> 3) Your training. People can improve their skills by instruction and practice, though there seem to be hard limits on individuals.
-
->> So combining all three, if we were to make a "beginner" character sheet of a psychic human, it might look like this:
->> Psychic (can't be improved by any known means)
->> Level: 4 / 10 
->> Psychic Abilities (can be improved)
->> T. Reception: 1 / 4
->> T. Projection:  1 / 4
->> Telekinesis: 0 / 3  
->> Hypnosis: 2 / 5
 >> 
+>> 1) Inborn ability. The way people in the world conceptualize it, you either have it or you don't. If you put a scale on it, 1-10, those in the 1-2 range would be sensitives, and humans don't generally go above 5-6, which is where psychic pokemon start. Alakazam would be a 10. Mewtwo isn't a known entity yet, so his abilities are off the scale. 
+>> 
+>> This scale effects everything you do as a psychic. It's like a "general intelligence" score, your ability to comprehend new ideas, retain information, and think critically.
+>> 
+>> 2) Your abilities. Telepathic Reading (reception),Telepathic Communication (projection), telekinesis, hypnosis, healing (pokemon only), teleportation (pokemon only), etc. 
+>> 
+>> These aren't binary, so technically everyone might have access to all of them. But as far as humans can tell, there are some that no human has been able to accomplish, the ones labeled "pokemon only," and some people are so bad at some common ones that they effectively don't have the power.  Which leads to:
+>> 
+>> 3) Your training. People can improve their skills by instruction and practice, though there seem to be hard limits on individuals.
+>> 
+>> So combining all three, if we were to make a "beginner" character sheet of a psychic human, it might look like this:
+>> 
+>> Psychic (can't be improved by any known means)
+>> 
+>> Level: 4 / 10 
+>> 
+>> Psychic Abilities (can be improved)
+>> 
+>> T. Reception: 1 / 4
+>> 
+>> T. Projection:  1 / 4
+>> 
+>> Telekinesis: 0 / 3  
+>> 
+>> Hypnosis: 2 / 5
 
-> **u/elevul** [+1]  *Cyoria Observer**
+> **u/elevul** [+1]  *Cyoria Observer* (23 hours later)
 > 
 > I'm not sure if it has been asked already, but could you make .epub files available for Patrons? I can make it myself with ficsave, but it's a pain in the butt from mobile so I have to wait until I'm back to the PC to do it.
-> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (a day later)
 >> 
 >> Hey there, just put the latest epub up in a post on Patreon. Sorry it took so long, literally just got home 10 minutes ago.
->> 
 
->>> **u/elevul** [+1]  *Cyoria Observer**
+>>> **u/elevul** [+1]  *Cyoria Observer* (2 days later)
 >>> 
 >>> Thanks!
->>> 
 
-> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (2 days later)
 > 
 > It will be interesting to see if, as Red grows closer to his pokemon, he chooses one of them over a human at some point.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (4 days later)
 > 
 > Just a quick question now that Red is looking to catch a psychic Pokemon. Seeing as a psychic Pokemon attacks the mind, would a psi blast have the potential to knock out Red's mental blocks?
-> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (4 days later)
 >> 
 >> It would be very unlikely, like shooting someone at exactly the right place to destroy a tumor. And even if it does, the resulting trauma of having the "bandage ripped off" could be more harmful than helpful.
->> 
 
 ---
 

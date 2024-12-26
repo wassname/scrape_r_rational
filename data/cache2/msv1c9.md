@@ -2,7 +2,7 @@
 
 * Author: u/MegFairchild *
 * URL: https://www.reddit.com/r/rational/comments/msv1c9/the_boros_bachelor_a_dd_ravnica_webnovel/
-* Score: 18
+* Score: 16
 
 * Created: 2021-04-17T17:30:03
 
@@ -16,34 +16,39 @@ Here's a link:  [https://www.royalroad.com/fiction/39885/the-boros-bachelor](htt
 
 ### Comments:
 
-> **u/plutonicHumanoid** [+3] *
+> **u/plutonicHumanoid** [+3]  (4 hours later)
 > 
 > Would it happen to/will it deal with the other guilds? It’s a neat setting that I haven’t read any other stories in.
-> Also Batman -> Rocman is pretty funny.
 > 
+> Also Batman -> Rocman is pretty funny.
 
->> **u/MegFairchild** [+2] *
+>> **u/MegFairchild** [+2]  (11 hours later)
 >> 
 >> Yes, all ten guilds are featured in various interactions throughout! Ravnica is such a diverse setting, so many groups and people with unique motivations. 
->> Haha, thanks, glad you like it!
 >> 
+>> Haha, thanks, glad you like it!
 
-> **u/EsquilaxM** [+1] *
+> **u/EsquilaxM** [+1]  (7 days later)
 > 
 > Any background reading on Ravnica suggested? Or perhaps discouraged? I actually know near nothing of Ravnica, chose Exandria for my short-lived game and haven't mtged in a long time.
-> 
 
->> **u/MegFairchild** [+1] *
+>> **u/MegFairchild** [+1]  (10 days later)
 >> 
 >> None needed for our fanfic, we introduce the plane as we see it throughout the story :) 
->> Otherwise,  just get the Guildmaster's Guide to Ravnica (GGR) D&D sourcebook if you're keen on Ravnica! With that and your imagination, you're set. There is also a sub for r/RavnicaDMs if you're thinking of running. The GGR has everything you need.
->> That being said, there are several official novels set in Ravnica. The timeline is kind of messed up, and their quality control leaves something to be desired, but the books do exist... As I understand the state of the multiverse there are 3 series. 
->> If you want to read the books, here's my take:
->> First is the Agrus Kos trilogy/The Ravnica Cycle available in paperback (Ravnica, Guildpact, and Dissention) set at the turn of the decamillennial or the year 10,000. (TLDR: Racist grandpa Boros cop who refuses to retire ends up destroying the ten thousand year peace on Ravnica and saves the plane from bad dudes who want to take over.) I was not impressed by the quality of the writing. 
->> Next, the Jace trilogy was released straight to eBook (oof. Return to Ravnica, Gatecrash, and Dragon's Maze) and you can buy it from Amazon. It's pretty much just one regular sized book but they split it into three mini-books? I'm most of the way through book 2. I'm not riveted, the whole thing is in passive voice and Jace is ridiculous, but that's just my opinion. This series is set in the year 10,075 and details Jace becoming The Living Guildpact when he solves the Implicit Maze, a failsafe built into the original guildpact in case someone broke it (like Agrus Kos...)
->> Finally, the two War of the Spark books. (Ravnica and Forsaken.) The War of the Spark happens (I believe) in 10,076, which is also the year the GGR is set. Makes the timeline a little tight, considering the massive destruction of the War. Have not read the books yet (just ordered them a few weeks ago off ebay) but first glance shows they follow a ton of characters and switch perspectives like literally every three pages. Still, they're hardcover and look fancy, so I'm hopeful they're better quality than the others.
->> Let me know if you have more questions! We've been gaming in Ravnica since 2019 and have done a lot of research for the game/novel!
 >> 
+>> Otherwise,  just get the Guildmaster's Guide to Ravnica (GGR) D&D sourcebook if you're keen on Ravnica! With that and your imagination, you're set. There is also a sub for r/RavnicaDMs if you're thinking of running. The GGR has everything you need.
+>> 
+>> That being said, there are several official novels set in Ravnica. The timeline is kind of messed up, and their quality control leaves something to be desired, but the books do exist... As I understand the state of the multiverse there are 3 series. 
+>> 
+>> If you want to read the books, here's my take:
+>> 
+>> First is the Agrus Kos trilogy/The Ravnica Cycle available in paperback (Ravnica, Guildpact, and Dissention) set at the turn of the decamillennial or the year 10,000. (TLDR: Racist grandpa Boros cop who refuses to retire ends up destroying the ten thousand year peace on Ravnica and saves the plane from bad dudes who want to take over.) I was not impressed by the quality of the writing. 
+>> 
+>> Next, the Jace trilogy was released straight to eBook (oof. Return to Ravnica, Gatecrash, and Dragon's Maze) and you can buy it from Amazon. It's pretty much just one regular sized book but they split it into three mini-books? I'm most of the way through book 2. I'm not riveted, the whole thing is in passive voice and Jace is ridiculous, but that's just my opinion. This series is set in the year 10,075 and details Jace becoming The Living Guildpact when he solves the Implicit Maze, a failsafe built into the original guildpact in case someone broke it (like Agrus Kos...)
+>> 
+>> Finally, the two War of the Spark books. (Ravnica and Forsaken.) The War of the Spark happens (I believe) in 10,076, which is also the year the GGR is set. Makes the timeline a little tight, considering the massive destruction of the War. Have not read the books yet (just ordered them a few weeks ago off ebay) but first glance shows they follow a ton of characters and switch perspectives like literally every three pages. Still, they're hardcover and look fancy, so I'm hopeful they're better quality than the others.
+>> 
+>> Let me know if you have more questions! We've been gaming in Ravnica since 2019 and have done a lot of research for the game/novel!
 
 ---
 

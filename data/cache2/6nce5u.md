@@ -23,592 +23,601 @@ parts, and the characters have relatable motivations, can this be rational fic?
 
 ### Comments:
 
-> **u/MagicWeasel** [+73]  *Cheela Astronaut**
+> **u/MagicWeasel** [+73]  *Cheela Astronaut* (3 hours later)
 > 
 > Replace "sex scene" with "fight scene" and all of a sudden it doesn't seem like it's a question that you need to bother asking, if you get me: I assume everyone would be fine with a rational superhero fanfic where spiderman gets into very well described karate battles that get into explicit detail. Maybe people might not enjoy reading well-described fight scenes like that - I know that's not really my jam - but nobody would think that your story was *not rational* just because you thought that including detailed fight scenes was helpful to your story.
-> The fact you replace "scenes where they're trying to poke each other with swords" with "scenes where they're trying to *poke* each other with *swords*" and all of a sudden there's a question says a lot about what people think about the "prestige" of different stories in general.
-> If you want to write a "low-prestige" story, more power to you, I say. We always need more diversity, and the rational space is no exception. I'm working on an original supernatural romance (non-explicit) partly for this reason (mostly because I wanted to write one). 
-> More power to you, I say. It's not really something I'd like to read personally (I'm not a fan of superhero stories, and I like my titillating stories to be very light on plot), but if I see you post it here I'll try to give it a shot.
 > 
+> The fact you replace "scenes where they're trying to poke each other with swords" with "scenes where they're trying to *poke* each other with *swords*" and all of a sudden there's a question says a lot about what people think about the "prestige" of different stories in general.
+> 
+> If you want to write a "low-prestige" story, more power to you, I say. We always need more diversity, and the rational space is no exception. I'm working on an original supernatural romance (non-explicit) partly for this reason (mostly because I wanted to write one). 
+> 
+> More power to you, I say. It's not really something I'd like to read personally (I'm not a fan of superhero stories, and I like my titillating stories to be very light on plot), but if I see you post it here I'll try to give it a shot.
 
->> **u/696e6372656469626c65** [+18]  *I think, therefore I am pretentious.**
+>> **u/696e6372656469626c65** [+18]  *I think, therefore I am pretentious.* (8 hours later)
 >> 
 >> I agree with you, but in the interest of steelmanning the opposition: sex is an extremely... well, *arousing* thing, and it's reasonable to assume that an author of erotica is driven, at least to some extent, by his/her own fantasies. There's nothing wrong with that, of course, but it does mean that there are additional factors at play during the course of writing a story wherein sex features heavily, and that these factors tend to be at best *arational*. (Something similar could be said of high-adrenaline fight scenes, of course, but to a lesser extent.)
->> 
 
->>> **u/RMcD94** [+7] *
+>>> **u/RMcD94** [+7]  (14 hours later)
 >>> 
 >>> I would say that's true of all writing, and not to such a lesser extent that it suddenly becomes only important for sex.
->>> The vast majority of fictional authors write because of intrinsic motivation, it's another thing when you're talking about mandatory essays or reports but as long as humans are a bunch of chemicals and physical processes rather than a set of rules there will always be irrational/arational motivations.
 >>> 
+>>> The vast majority of fictional authors write because of intrinsic motivation, it's another thing when you're talking about mandatory essays or reports but as long as humans are a bunch of chemicals and physical processes rather than a set of rules there will always be irrational/arational motivations.
 
->>> **u/MagicWeasel** [+8]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+9]  *Cheela Astronaut* (8 hours later)
 >>> 
 >>> To sort of tack onto the concept that "if you titillate your readers you are doing the wrong thing", I think if a good writer makes someone feel scared during a scary part of a story, then why shouldn't a good writer also make someone feel, well, *sexy* during a sexy part of the story?
->>> That said, if a story is all jump scares and no plot then it's not a very good story; equally if a story is all quivering members and no plot then it's not a very good story. (In both cases, unless you want nothing but jump scares/quivering members, in which case they're *perfect*.)
->>> FWIW I read the Crystal Society story that people referred to in other posts, and I found the sex scene both titillating and vitally important to the plot/character development.
 >>> 
+>>> That said, if a story is all jump scares and no plot then it's not a very good story; equally if a story is all quivering members and no plot then it's not a very good story. (In both cases, unless you want nothing but jump scares/quivering members, in which case they're *perfect*.)
+>>> 
+>>> FWIW I read the Crystal Society story that people referred to in other posts, and I found the sex scene both titillating and vitally important to the plot/character development.
 
->> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram* (15 hours later)
 >> 
 >> > Replace "sex scene" with "fight scene" and all of a sudden it doesn't seem like it's a question that you need to bother asking
->> Or replace "sex scene" with "a whole bunch of really bad puns". Though I admit you can go too far with that: there's things like Unsong or the Xanth series, which are like 99% bad-reference-porn.
->> Hail Eris.
 >> 
+>> Or replace "sex scene" with "a whole bunch of really bad puns". Though I admit you can go too far with that: there's things like Unsong or the Xanth series, which are like 99% bad-reference-porn.
+>> 
+>> Hail Eris.
 
->>> **u/aspiring_author999** [+1] *
+>>> **u/aspiring_author999** [+4]  (16 hours later)
 >>> 
 >>> Ahahah, I don't think Unsong is rational fiction and it doesn't try to be.
->>> EDIT: removed spoilers until I can get the spoiler tag to work.
 >>> 
+>>> EDIT: removed spoilers until I can get the spoiler tag to work.
 
->>>> **u/Kishoto** [+4] *
+>>>> **u/Kishoto** [+5]  (a day later)
 >>>> 
 >>>> [](#s "So....we got these little things called spoiler tags...")
->>>> 
 
->>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (21 hours later)
 >>>> 
 >>>> I don't think Xanth is rational either. :)
->>>> Also, I wish you hadn't spoiled Unsong. I gave up on it, but I might pick it up again.
 >>>> 
+>>>> Also, I wish you hadn't spoiled Unsong. I gave up on it, but I might pick it up again.
 
->>>>> **u/aspiring_author999** [+2] *
+>>>>> **u/aspiring_author999** [+2]  (a day later)
 >>>>> 
 >>>>> Sorry, the point of marking it as a spiler was to avoid spoiling it... I'm sorry it didn't work
->>>>> 
 
->>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (a day later)
 >>>>>> 
 >>>>>> There's a spoiler tag mechanism that actually hides spoilers.
->>>>>> 
 
->> **u/aspiring_author999** [+5] *
+>> **u/aspiring_author999** [+4]  (14 hours later)
 >> 
 >> I think the main break from "rationality" is having characters in a mood for sex in situations in which they wouldn't be in real life. But I think I can tweak the story in order to keep the sex constant and the situations more credible
->> 
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 >>> 
 >>> Yeah, having them be in the mood for sex when it wouldn't make sense for them to be could be a problem.
->>> That said, if their society is more like bonobos than like chimpanzees, you could probably put that into the worldbuilding...
 >>> 
+>>> That said, if their society is more like bonobos than like chimpanzees, you could probably put that into the worldbuilding...
 
->>>> **u/aspiring_author999** [+3] *
+>>>> **u/aspiring_author999** [+3]  (2 days later)
 >>>> 
 >>>> Yes, I haven't decided yet if I want to describe a bonobo like society, or something like reality unless noted.
->>>> 
 
->>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >>>>> 
 >>>>> If people are having sex at the drop of a hat, you need to have some sort of "sex = handshake" society, or, like, "a sex potion is made and there is lust in the air can our heroes stop it before succumbing to its effects?" plot device.
->>>>> Honestly I"m really intrigued by this whole concept. Can't wait to read it!
 >>>>> 
+>>>>> Honestly I"m really intrigued by this whole concept. Can't wait to read it!
 
->>>>>> **u/aspiring_author999** [+3] *
+>>>>>> **u/aspiring_author999** [+3]  (2 days later)
 >>>>>> 
 >>>>>> I like the idea of the sex potion. I might use it :p
->>>>>> 
 
->>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >>>>>>> 
 >>>>>>> Sex potion would be hard... (heh, *hard*)
->>>>>>> You gotta really make sure you nail this point from the sidebar:
->>>>>>> * Nothing happens solely because 'the plot requires it'. If characters do (or don't do) something, there must be a plausible reason.
->>>>>>> And what problem would the Bad Guy need to solve that is best accomplished with a Sex Potion?
 >>>>>>> 
+>>>>>>> You gotta really make sure you nail this point from the sidebar:
+>>>>>>> 
+>>>>>>> * Nothing happens solely because 'the plot requires it'. If characters do (or don't do) something, there must be a plausible reason.
+>>>>>>> 
+>>>>>>> And what problem would the Bad Guy need to solve that is best accomplished with a Sex Potion?
 
->>>>>>>> **u/aspiring_author999** [+3] *
+>>>>>>>> **u/aspiring_author999** [+3]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Uh, many possibilities for that... controlling his/her enemies through lust and blackmail, totally legit libido enhancing drug with bad side effects he/she's hiding. Or maybe it's must a normal drug that becomes so prevalent that it shapes society (think alcohol or tobacco).
->>>>>>>> 
 
->>>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >>>>>>>>> 
 >>>>>>>>> I like the idea of it becoming a normalised drug. That would make some interesting worldbuilding!
->>>>>>>>> 
 
->>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>> **u/Kishoto** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> We could also just have a bad guy with distorted values; they may honestly believe that a lust filled world is the best world for all of humanity. Selling that to the reader would obviously take some effort and set up but I could easily be convinced of something like that. Most bad guys have twisted methodologies anyhow and one that prioritizes sex to the point of societal collapse seems like he/she would fit right in.
->>>>>>>> 
 
->>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (3 days later)
 >>>>>>>>> 
 >>>>>>>>> Well, there's a bunch of people (myself included, tbh) who think that humans would be better if they were more like bonobos and less like chimps - so it could work quite well.
->>>>>>>>> 
 
->> **u/philip1201** [+2] *
+>> **u/philip1201** [+2]  (9 hours later)
 >> 
 >> In fight scenes, the practical goals are often paramount. You don't care about how you feel while you take someone out, you just want to find a way to win. You could write a brawl where emotion is most important, but it isn't meaningless if the characters focus on the technicalities instead.
->> Sex, on the other hand, is primarily emotional, which makes it much harder to be intellectual about in the moment without defeating the purpose. The same goes for comedy - while there are no sex scenes in HPMoR, there aren't any rationalist procedural scenes about characters trying to be funny either; there are just people making jokes.
->> You could undoubtedly write a good sex scene in a rationalist work, and have people act rationally outside the scene and rational-but-preoccupied in the scene. You can probably write an interesting or even engaging sex scene where a character rationally tries to approach sex, or a rational description of having sex. But a pornographic rational sex scene doesn't seem possible, any more than a funny rational comedy writing scene, or an emotionally charged rational fight scene for that matter.
 >> 
+>> Sex, on the other hand, is primarily emotional, which makes it much harder to be intellectual about in the moment without defeating the purpose. The same goes for comedy - while there are no sex scenes in HPMoR, there aren't any rationalist procedural scenes about characters trying to be funny either; there are just people making jokes.
+>> 
+>> You could undoubtedly write a good sex scene in a rationalist work, and have people act rationally outside the scene and rational-but-preoccupied in the scene. You can probably write an interesting or even engaging sex scene where a character rationally tries to approach sex, or a rational description of having sex. But a pornographic rational sex scene doesn't seem possible, any more than a funny rational comedy writing scene, or an emotionally charged rational fight scene for that matter.
 
->>> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (10 hours later)
 >>> 
 >>> So, what, you're basically saying that "sex itself isn't necessarily rational, so in a rational work, it would not be explicitly rational"? Because I endorse that, more-or-less. (You could have the sex scene further Rational Goals, like wanting to distract someone, wanting to make the Evil Ejaculate of Doom go into your Resistant Vagina Of Awesomeness instead of the metropolis water supply)
->>> I'll hold the *Crystal Society* sex scene up as a good example - you get a *lot* of character development and stuff happening in what is otherwise a very graphic sapphic sex scene.
->>> I think we're conflating Rational and Rational*ist* fiction? Rationalist has a huge helping of, well, prosthelytizing, whereas Rational just basically means "makes sense".
 >>> 
+>>> I'll hold the *Crystal Society* sex scene up as a good example - you get a *lot* of character development and stuff happening in what is otherwise a very graphic sapphic sex scene.
+>>> 
+>>> I think we're conflating Rational and Rational*ist* fiction? Rationalist has a huge helping of, well, prosthelytizing, whereas Rational just basically means "makes sense".
 
-> **u/groon_the_walker** [+15] *
+> **u/groon_the_walker** [+13]  (21 hours later)
 > 
 > Besides the aforementioned *Care and Feeding of Magical Creatures* and *Crystal Society* as clear examples of stories in which characters are being curious and intelligent about and during sex, I would offer up my own opus [The Erogamer](https://forum.questionablequesting.com/threads/the-erogamer-original.5465/) as an example of pornography meant to arouse both the mind and the flesh.  For example the scene in 1.6 where the protagonist is wondering what her powers' rules are and why while trying to wake somebody up with oral sex.  You'll need a Questionable Questing login to read.
-> 
 
->> **u/Endovior** [+3] *
+>> **u/Endovior** [+4]  (3 days later)
 >> 
 >> Oh, wow; this.
->> The quest format doesn't normally lend itself to the Rational genre of fiction, since it is frequently the case that the rules are getting made up as the story advances... behind the scenes, by the QM, in response to the choices of the players. This is *especially* true for Gamer-type quests, which are defined by mysterious and incredible powers appearing in response to the PC doing random things.
->> Turning that around, with a character intelligently *responding* to the sudden appearance of an individual with strange and potentially world-shaking powers, and having deep philosophical discussions with them in an attempt to avert the potential horrible consequences of such a being invoking those powers at whim...
->> That's significantly deeper and more compelling than I was expecting from pornographic fiction. The hosting site does provide a bit of an entry barrier, but it's well worth the attempt. Enthusiastically recommended!
 >> 
+>> The quest format doesn't normally lend itself to the Rational genre of fiction, since it is frequently the case that the rules are getting made up as the story advances... behind the scenes, by the QM, in response to the choices of the players. This is *especially* true for Gamer-type quests, which are defined by mysterious and incredible powers appearing in response to the PC doing random things.
+>> 
+>> Turning that around, with a character intelligently *responding* to the sudden appearance of an individual with strange and potentially world-shaking powers, and having deep philosophical discussions with them in an attempt to avert the potential horrible consequences of such a being invoking those powers at whim...
+>> 
+>> That's significantly deeper and more compelling than I was expecting from pornographic fiction. The hosting site does provide a bit of an entry barrier, but it's well worth the attempt. Enthusiastically recommended!
 
->> **u/-main** [+2] *
+>> **u/-main** [+2]  (6 days later)
 >> 
 >> Well, that was far better than the premise would suggest. Recommended. I'm now a bit annoyed it's not finished and wondering where the author will go with the big mysteries. I'm not sure how much familiarity you need with the genre it's drawing from -- having played a few games of that nature did help me understand, but I think it's likely not essential to enjoying the story.  
->> [The superpower ](#s "Conceptual Hair ") was awesome and terrifying and interesting to read about.
 >> 
+>> [The superpower ](#s "Conceptual Hair ") was awesome and terrifying and interesting to read about.
 
-> **u/ArisKatsaris** [+9]  *Sidebar Contender**
+> **u/ArisKatsaris** [+10]  *Sidebar Contender* (16 hours later)
 > 
 > On that note, [Forever After Earth](http://archiveofourown.org/works/1246519/chapters/2562553) is the most rationalist porn fic I know -- it even pays homage to EY by having the ship named "Eliezera". I heartily recommend it.
-> It begins as a crossover between Buffy, Stargate SG-1 and the author's original universe, and it eventually turns into a mega-crossover that also fuses variants of Harry Potter, Madoka Magica, Nanoha, Fate Zero... That made it slightly confusing for me towards the end, and I think the early chapters are better, but still heartily recommending it.
 > 
+> It begins as a crossover between Buffy, Stargate SG-1 and the author's original universe, and it eventually turns into a mega-crossover that also fuses variants of Harry Potter, Madoka Magica, Nanoha, Fate Zero... That made it slightly confusing for me towards the end, and I think the early chapters are better, but still heartily recommending it.
 
->> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor* (8 days later)
 >> 
 >> The ship name initially went right over my head, until the other details started to pile up, and then I was like "Wait, is this ship named after me?" and a chapter later "Yeah, this ship is named after me."
->> I'm still not used to having an influence on other fictons.  It feels a lot like walking down the street and seeing a new shop has been built exactly like one you dreamed about last night: "These are my thoughts, what are they doing outside my own head?"
 >> 
+>> I'm still not used to having an influence on other fictons.  It feels a lot like walking down the street and seeing a new shop has been built exactly like one you dreamed about last night: "These are my thoughts, what are they doing outside my own head?"
 
->> **u/kozinc** [+2] *
+>> **u/kozinc** [+2]  (23 hours later)
 >> 
 >> I remember that one! It was fun!
->> 
 
-> **u/CeruleanTresses** [+11] *
+> **u/CeruleanTresses** [+12]  (49 minutes later)
 > 
 > I know there's someone here who regularly posts installments of their BDSM-themed story that is unambiguously straight up fluids-dripping erotica, in a "let's figure out the rules of this universe and its magic system, rational-style" framework. And as I recall it got a reasonably good reaction from the sub. So I'd say that's proof of concept that rational or rational-ish porn is a thing that can be written and that has an audience here.
-> Edit: Turns out that story was banned, so I guess it's not proof of concept for this after all. 
-> Edit 2: Actually it was just one chapter that was removed, the story was not banned.
 > 
+> Edit: Turns out that story was banned, so I guess it's not proof of concept for this after all. 
+> 
+> Edit 2: Actually it was just one chapter that was removed, the story was not banned.
 
->> **u/LazarusRises** [+10] *
+>> **u/LazarusRises** [+10]  (2 hours later)
 >> 
 >> Care and Feeding of Magical Creatures! It's quite good, and quite sexy if you're straight and even remotely into BDSM. If a mod really banned it as mentioned below, that's fuckin' dumb.
->> 
 
->>> **u/None** [+19] *
+>>> **u/None** [+20]  (18 hours later)
 >>> 
 >>> It's not banned!  I removed *one chapter* because it was confusing and difficult to comprehend what's going on.  Seriously, *erotic* is fine, but make it *recognizably* erotic.  If all I can tell is that something messily biological is going on, please just make the text clearer.
->>> Here's an easy compromise: can we get warnings or ratings for how readable a text is?
 >>> 
+>>> Here's an easy compromise: can we get warnings or ratings for how readable a text is?
 
->>>> **u/LazarusRises** [+3] *
+>>>> **u/LazarusRises** [+3]  (19 hours later)
 >>>> 
 >>>> That's fair. It did get a bit wordy and confusing at times. I'm still not 100% sure what happened with the perfekti.
->>>> 
 
->>> **u/CeruleanTresses** [+8] *
+>>> **u/CeruleanTresses** [+9]  (2 hours later)
 >>> 
 >>> Yeah--I'm asexual and completely indifferent to the BDSM stuff, but the cool worldbuilding aspects held my interest for a long time. I stopped keeping up on it once it entered a phase where the sex-to-plot ratio got too high to keep my interest, but I could tell that it was very well written for people who are into BDSM. I thought the seraphim were really interesting.
->>> 
 
->>>> **u/LazarusRises** [+3] *
+>>>> **u/LazarusRises** [+3]  (2 hours later)
 >>>> 
 >>>> I knew your username was familiar from somewhere! I think we chatted in an AskReddit thread a few months back :)
->>>> I actually didn't get that far--they had just barely arrived in Sade Hall (?) last I read. Gotta get back into it though, it seems to be built on a cool premise.
 >>>> 
+>>>> I actually didn't get that far--they had just barely arrived in Sade Hall (?) last I read. Gotta get back into it though, it seems to be built on a cool premise.
 
->>>>> **u/CeruleanTresses** [+2] *
+>>>>> **u/CeruleanTresses** [+2]  (2 hours later)
 >>>>> 
 >>>>> Oh, we did? You'll have to refresh my memory, I usually don't remember usernames and if it was that long ago I'll never find the conversation!
->>>>> Were you maybe the one who recommended the Dirk Gently books? Because if so, I read both of the ones that are finished and I absolutely loved them.
 >>>>> 
+>>>>> Were you maybe the one who recommended the Dirk Gently books? Because if so, I read both of the ones that are finished and I absolutely loved them.
 
->>>>>> **u/LazarusRises** [+2] *
+>>>>>> **u/LazarusRises** [+2]  (2 hours later)
 >>>>>> 
 >>>>>> Ha, no I wasn't, but I love me some Adams! 
->>>>>> [DATA EXPUNGED]
 >>>>>> 
+>>>>>> [DATA EXPUNGED]
 
->>>>>>> **u/CeruleanTresses** [+1] *
+>>>>>>> **u/CeruleanTresses** [+1]  (2 hours later)
 >>>>>>> 
 >>>>>>> Oh yeah! That's why you remembered me when I said I was ace, haha. Mmmaaaybe edit out that link now that I've seen it though!
->>>>>>> 
 
->>>>>>>> **u/LazarusRises** [+2] *
+>>>>>>>> **u/LazarusRises** [+2]  (2 hours later)
 >>>>>>>> 
 >>>>>>>> Yep no problem :)
->>>>>>>> 
 
->>>>>>>>> **u/CeruleanTresses** [+1] *
+>>>>>>>>> **u/CeruleanTresses** [+1]  (2 hours later)
 >>>>>>>>> 
 >>>>>>>>> Thanks! And good to see you again!
->>>>>>>>> 
 
->>>>>>>>>> **u/LazarusRises** [+2] *
+>>>>>>>>>> **u/LazarusRises** [+2]  (2 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> And you!
->>>>>>>>>> 
 
->> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+8]  *GCV Literally The Entire Culture* (2 hours later)
 >> 
 >> Pretty sure a mod banned it. Sadly.
->> 
 
->>> **u/CeruleanTresses** [+15] *
+>>> **u/CeruleanTresses** [+13]  (2 hours later)
 >>> 
 >>> Yeah, seems you're right. Looking at the thread where it happened, it kind of seems like the mod in question made the decision to remove at least partly because they personally didn't like the writing, which...It's not a hill I'd die on, but I don't love the decision-making process there. The post they made right before they looked at the story didn't give me the impression that they were going into it with an open mind, either.
->>> 
 
->>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (7 days later)
 >>>> 
 >>>> /u/FeepingCreature 
->>>> I'm a bit late, but please do send modmail if you have any issues with us mods - we're here for the community, not the other way around.  Even if we had made a formal decision, it's always open for discussion.
 >>>> 
+>>>> I'm a bit late, but please do send modmail if you have any issues with us mods - we're here for the community, not the other way around.  Even if we had made a formal decision, it's always open for discussion.
 
->>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+>>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (7 days later)
 >>>>> 
 >>>>> I didn't exactly _disagree_ with the decision so much as _dislike_ it. As mods, it's your right to decide what you want the subreddit to be for and what not.
->>>>> 
 
->>>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (7 days later)
 >>>>>> 
 >>>>>> OK then; please note that as an autocrat I like feedback from the /r/rational community - whether you agree or not :)
->>>>>> 
 
->>> **u/alexanderwales** [+14]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+14]  *Time flies like an arrow* (2 hours later)
 >>> 
 >>> [See discussion here.](https://www.reddit.com/r/rational/comments/6et9s1/nsfwrthf_magical_creatures_ch_iii3_awesome_orgy/)
->>> 
 
->>>> **u/FeepingCreature** [+23]  *GCV Literally The Entire Culture**
+>>>> **u/FeepingCreature** [+25]  *GCV Literally The Entire Culture* (3 hours later)
 >>>> 
 >>>> I sort of agree with the other poster that it seems to have been removed partially on the basis of personal dislike.
->>>> Upvote numbers were pretty good, last I checked, so clearly it had a following. ^^I ^^liked ^^it ^^too. ^^It ^^has ^^that ^^nice ^^sense ^^of ^^*Utopia* ^^*is* ^^*Scary*, ^^yanno?
 >>>> 
+>>>> Upvote numbers were pretty good, last I checked, so clearly it had a following. ^^I ^^liked ^^it ^^too. ^^It ^^has ^^that ^^nice ^^sense ^^of ^^*Utopia* ^^*is* ^^*Scary*, ^^yanno?
 
->>>>> **u/callmebrotherg** [+6]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+8]  *now posting as /u/callmesalticidae* (6 hours later)
 >>>>> 
 >>>>> Upvotes aren't everything. Off-topic posts could get upvotes in the past too, but we still quarantined them to a thread.
->>>>> 
 
->>>>>> **u/FeepingCreature** [+5]  *GCV Literally The Entire Culture**
+>>>>>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (7 hours later)
 >>>>>> 
 >>>>>> Yeah but I wouldn't expect people to upvote a fic they don't want on the subreddit.
->>>>>> 
 
->>>>>>> **u/callmebrotherg** [+11]  *now posting as /u/callmesalticidae**
+>>>>>>> **u/callmebrotherg** [+10]  *now posting as /u/callmesalticidae* (7 hours later)
 >>>>>>> 
 >>>>>>> Sure, but if you don't cull posts then you experience drift, and over time the subreddit ceases to retain its focus. I don't expect the community at large to keep that in mind, but it's one of the duties of a mod to keep the subreddit's purpose in mind and remove posts accordingly.
->>>>>>> 
 
->>>>>>>> **u/FeepingCreature** [+8]  *GCV Literally The Entire Culture**
+>>>>>>>> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture* (7 hours later)
 >>>>>>>> 
 >>>>>>>> Eh, I don't think there was a significant risk of experiencing drift towards bdsm porn with unusually interesting worldbuilding.
->>>>>>>> 
 
->>>>>>>>> **u/callmebrotherg** [+12]  *now posting as /u/callmesalticidae**
+>>>>>>>>> **u/callmebrotherg** [+12]  *now posting as /u/callmesalticidae* (7 hours later)
 >>>>>>>>> 
 >>>>>>>>> "BDSM porn with unusually interesting worldbuilding" isn't, in itself, rational fiction. Therefore, drift. The author himself admitted that the rational fic elements hadn't really appeared yet.
->>>>>>>>> 
 
->>>> **u/Tenoke** [+3]  *Even the fuckin' trees walked in those movies**
+>>>> **u/Tenoke** [+4]  *Even the fuckin' trees walked in those movies* (15 hours later)
 >>>> 
 >>>> This is the first time I'm genuinely disappointed in this sub. :(
->>>> 
 
->> **u/SparkyJ2** [+2] *
+>> **u/SparkyJ2** [+2]  (18 hours later)
 >> 
 >> “The story is like a puzzle; readers can reach the same solution as the characters by using the information provided earlier in the story.” - the sidebar.
->> I too was very sad to see this story (rather unfairly I thought) banned, but I might try posting links to it myself when a more plotty/technical chapter turns up. I’m not the author, just a big fan.
->> Discussion continues elsewhere, on questionablequesting, you'll need to (free) sign up to see and post on the NSFW forums.
->> I've posted a number of commentaries on the forums there, including how the strange magic gravity might work, why the plot was damped while they were finding their way to their new digs, how the magic system might work, thoughts on the use of succubus nectar in transhumanism, speculation on the appearance of Limbo, why demons might be scared of copper, and getting way too into it asking questions to the characters. I've honestly found this to be one of the most thought stimulating stories I've read, up there along with the puzzley parts of HPatMoR.
->> Also, if you message me personally (here or there, either is fine), I'll tell you what's been going on with pets voice since near the beginning. It’s such an agonisingly clever bit of writing that I decided against posting it to the forum proper.
 >> 
+>> I too was very sad to see this story (rather unfairly I thought) banned, but I might try posting links to it myself when a more plotty/technical chapter turns up. I’m not the author, just a big fan.
+>> 
+>> Discussion continues elsewhere, on questionablequesting, you'll need to (free) sign up to see and post on the NSFW forums.
+>> 
+>> I've posted a number of commentaries on the forums there, including how the strange magic gravity might work, why the plot was damped while they were finding their way to their new digs, how the magic system might work, thoughts on the use of succubus nectar in transhumanism, speculation on the appearance of Limbo, why demons might be scared of copper, and getting way too into it asking questions to the characters. I've honestly found this to be one of the most thought stimulating stories I've read, up there along with the puzzley parts of HPatMoR.
+>> 
+>> Also, if you message me personally (here or there, either is fine), I'll tell you what's been going on with pets voice since near the beginning. It’s such an agonisingly clever bit of writing that I decided against posting it to the forum proper.
 
->>> **u/kozinc** [+6] *
+>>> **u/kozinc** [+6]  (23 hours later)
 >>> 
 >>> The mod said it wasn't banned, but only a chapter cause it wasn't readable or something. It's somewhere in this comment section.
->>> 
 
->>>> **u/SparkyJ2** [+3] *
+>>>> **u/SparkyJ2** [+3]  (a day later)
 >>>> 
 >>>> Yep, that reply was after I posted, but your pointing it out to me is appreciated.
->>>> 
 
-> **u/Callid13** [+12] *
+> **u/Callid13** [+12]  (5 hours later)
 > 
 > I don't see a reason why a rational fic cannot be porn, and vice versa.
-> In fact, [Time Braid](https://www.fanfiction.net/s/5193644) - essentially universally agreed to be a rational fic - is banned from TVTropes due to being too porn-like (which I can't help but find both hilarious and frustrating), and meanwhile [Friendship is Mind Control](https://www.fimfiction.net/story/238368/friendship-is-mind-control) is definitely porn (with all that that includes), while at the same time having a rational plot (not as rational as HPMOR, maybe, but definitely on or beyond the level of HPN20), and even some rationalist themes.
-> So yeah, just as you can have feminist porn, you can have rational porn. It's just going to be a bit different from normal porn in some regards.
 > 
+> In fact, [Time Braid](https://www.fanfiction.net/s/5193644) - essentially universally agreed to be a rational fic - is banned from TVTropes due to being too porn-like (which I can't help but find both hilarious and frustrating), and meanwhile [Friendship is Mind Control](https://www.fimfiction.net/story/238368/friendship-is-mind-control) is definitely porn (with all that that includes), while at the same time having a rational plot (not as rational as HPMOR, maybe, but definitely on or beyond the level of HPN20), and even some rationalist themes.
+> 
+> So yeah, just as you can have feminist porn, you can have rational porn. It's just going to be a bit different from normal porn in some regards.
 
-> **u/DaystarEld** [+6]  *Pokémon Professor**
+> **u/DaystarEld** [+7]  *Pokémon Professor* (20 hours later)
 > 
 > Can rational fiction have sex scenes? Absolutely.
-> Is the sex depicted rational? That's a whole different question.
-> If you're committing to a rational setting, your sex has to take on the characteristics just like your other action scenes. No massive breasts without attending back problems, no random unprotected sex without STD risk being addressed, and if the female reliably climaxes multiple times a scene, then by God you'd better describe what their partner is doing in detail so the readers can test for accuracy ;)
-> Unless of course the superpowers are related to or impact sexual things, which could be fun too, but then I'd want to see the consequences of that explored too.
 > 
+> Is the sex depicted rational? That's a whole different question.
+> 
+> If you're committing to a rational setting, your sex has to take on the characteristics just like your other action scenes. No massive breasts without attending back problems, no random unprotected sex without STD risk being addressed, and if the female reliably climaxes multiple times a scene, then by God you'd better describe what their partner is doing in detail so the readers can test for accuracy ;)
+> 
+> Unless of course the superpowers are related to or impact sexual things, which could be fun too, but then I'd want to see the consequences of that explored too.
 
-> **u/GaBeRockKing** [+15]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+13]  *Horizon Breach: http://archiveofourown.org/works/6785857* (33 minutes later)
 > 
 > Proof by induction:
+> 
 > Base case: rational fics are rational (duh)
 > Inductive case: adding a sex scene to a rational fic doesn't make the fic non-rational, providing the sex scene keeps to the rules of rational fic.
-> So from an intellection perspective a fic with arbitrary amounts of sex can still be rational.
-> However, from a past-experience perspective, any time many authors even come *close* to writing about sex they tend devolve into wish fulfilment fantasies that are decidedly non-rational, so it's going to be something of a challenge to make sure you stay on the straight-and-narrow (so to speak).
-> But hey-- don't let random nerds on the internet tell you what to write. If it's something you want to do, do it. Whether it's "rational" or not doesn't matter.
 > 
+> So from an intellection perspective a fic with arbitrary amounts of sex can still be rational.
+> 
+> However, from a past-experience perspective, any time many authors even come *close* to writing about sex they tend devolve into wish fulfilment fantasies that are decidedly non-rational, so it's going to be something of a challenge to make sure you stay on the straight-and-narrow (so to speak).
+> 
+> But hey-- don't let random nerds on the internet tell you what to write. If it's something you want to do, do it. Whether it's "rational" or not doesn't matter.
 
->> **u/aspiring_author999** [+1] *
+>> **u/aspiring_author999** [+1]  (41 minutes later)
 >> 
 >> Oh, I was not asking for permission to write it :) I'll do it anyway. I was just asking if being basically porn disqualifies it from being a rational fic. It was just a labelling issue :) Anyway, thanks for the feedback!
->> 
 
-> **u/SevereCircle** [+6] *
+> **u/SevereCircle** [+5]  (a day later)
 > 
 > > Only with a slightly (much?) higher than average sex drive to justify the sex scenes that make it a porn. 
-> Beware: mind magic is the enemy of character development.
-> There have been discussions here about rational romance, and how to have conflict without one character just being dumb or communicating poorly. Personally I find that romance + sex fanfic > just sex fanfic so it's related but I don't have a link to the thread I'm thinking of.
 > 
+> Beware: mind magic is the enemy of character development.
+> 
+> There have been discussions here about rational romance, and how to have conflict without one character just being dumb or communicating poorly. Personally I find that romance + sex fanfic > just sex fanfic so it's related but I don't have a link to the thread I'm thinking of.
 
->> **u/EliezerYudkowsky** [+7]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor* (3 days later)
 >> 
 >> > Beware: mind magic is the enemy of character development
->> Why?
 >> 
+>> Why?
 
->>> **u/SevereCircle** [+10] *
+>>> **u/SevereCircle** [+9]  (4 days later)
 >>> 
 >>> More precisely, magic should only have read-only access to emotions. "He did it because he was magically convinced." or "he was scared because of a fear spell." are less compelling than "He was convinced to do the thing because of actual reasons x y and z." or "He was scared because of related traumatic experiences.".
->>> 
 
->> **u/aspiring_author999** [+1] *
+>> **u/aspiring_author999** [+1]  (2 days later)
 >> 
 >> IF there is "magic mind" in the form of a higher sex drive, I intend to treat it like I would treat a superpower: it's a thing in this universe and society is adapted to it.
->> 
 
-> **u/Draconomial** [+5]  *Sunshine Regiment**
+> **u/Draconomial** [+5]  *Sunshine Regiment* (4 hours later)
 > 
 > [Crystal Society](http://crystal.raelifin.com/) is a rational story with part of the story hinged on the sexual relationship between AI and a human. Detailed smut, as well as R&D for equipment that allows an AI's robot to have a physical, sensual relationship with their partner. And one of the AIs in the story gets paid to make porn.
-> As for whether your fic can be rational fic, just check the guidelines on the sidebar that explain the characteristics of ratfic very well. I can only hope that your story will not just be a rational fic, but also a rationalist fic.
 > 
+> As for whether your fic can be rational fic, just check the guidelines on the sidebar that explain the characteristics of ratfic very well. I can only hope that your story will not just be a rational fic, but also a rationalist fic.
 
-> **u/alexanderwales** [+2]  *Time flies like an arrow**
+> **u/alexanderwales** [+2]  *Time flies like an arrow* (48 minutes later)
 > 
 > This is going to depend on your definition of rational fiction, which is not something that the community currently comes to a clear consensus on.
-> *Personally* I think that appeals to an interest in sex are likely to dilute the rational aspects, and in some cases that will be enough that I'd instead say "rational-adjacent" or "thing you might like if you like rational fiction". If the *primary purpose* of the work is appealing to sexual urges, then I probably wouldn't give it the label "rational", though I reserve the right to be surprised by execution.
 > 
+> *Personally* I think that appeals to an interest in sex are likely to dilute the rational aspects, and in some cases that will be enough that I'd instead say "rational-adjacent" or "thing you might like if you like rational fiction". If the *primary purpose* of the work is appealing to sexual urges, then I probably wouldn't give it the label "rational", though I reserve the right to be surprised by execution.
 
->> **u/MasterfulSandking** [+3] *
+>> **u/MasterfulSandking** [+3]  (17 hours later)
 >> 
 >> *Personally*, Rational stories and fiction which *involve* Sex become more real to me - more rational. In the real world, sex is a fundamental feature of The Human Experience. We wouldn't exist without sex. In almost every story, there exist characters. Those characters came into existence, not due to the author, but due to imaginary sex (for the most part). That's in-line with how this sub-reddit views rationality in Stories. 
->> My point being, Sex should be in most stories because it aids Plot, World Building, and Character Creation *wink* *wink*. Not to mention that it makes the overall world of that story more Rational and believable. I also read too much erotica, and I wrote this with a grin on my face, so potential authors would add erotica in their stores.
 >> 
+>> My point being, Sex should be in most stories because it aids Plot, World Building, and Character Creation *wink* *wink*. Not to mention that it makes the overall world of that story more Rational and believable. I also read too much erotica, and I wrote this with a grin on my face, so potential authors would add erotica in their stores.
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (a day later)
 > 
 > Yes
-> 
 
-> **u/PM_ME_OS_DESIGN** [+1] *
+> **u/PM_ME_OS_DESIGN** [+1]  (a day later)
 > 
 > >My (meta) question is: as long as there is an actual plot, which gets pretty intellectual in some parts, and the characters have relatable motivations, can this be rational fic?
-> Yes.
 > 
+> Yes.
 
-> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (7 days later)
 > 
 > Oh yeah; this is a bit late but [Fall of Doc Future](http://docfuture.tumblr.com/post/82363551272/fall-of-doc-future-contents) also has sexual content, though I wouldn't call it porn. And is probably rational, and definitely really good!
-> 
 
-> **u/TheAtomicOption** [+1] *
+> **u/TheAtomicOption** [+1]  (15 days later)
 > 
 > Rational fiction is rational fiction regardless of how many sex scenes it does or does not have. If you write a rational fiction, the same piece you wrote can't also be not a rational fiction no matter what else is in it.
-> 
 
-> **u/leofrost13** [+1] *
+> **u/leofrost13** [+1]  (6 hours later)
 > 
 > When you finish it could you post a link? Would love to read this
-> 
 
->> **u/aspiring_author999** [+1] *
+>> **u/aspiring_author999** [+1]  (2 days later)
 >> 
 >> Yes, I can, of course. If it turns out not to be that rational after all, I'll PM you a link to the text.
->> 
 
->>> **u/leofrost13** [+1] *
+>>> **u/leofrost13** [+1]  (2 days later)
 >>> 
 >>> Thanks
->>> 
 
-> **u/ShiranaiWakaranai** [-8] *
+> **u/ShiranaiWakaranai** [-7]  (6 hours later)
 > 
 > I'm confused by sex in a rational fic, because rational people tend to not have sex. Whether their utility functions are selfish or selfless, having sex usually provides negligible positive consequences. Want an heir? Adopt a child, it's faster and safer. No point in taking risks like STDs or death from childbirth or getting murdered for inheritance.
-> 
 
->> **u/themaniac2** [+11] *
+>> **u/themaniac2** [+11]  (13 hours later)
 >> 
 >> Feeling good is a positive consequence
->> 
 
->> **u/Anderkent** [+6] *
+>> **u/Anderkent** [+6]  (a day later)
 >> 
 >> > Want an heir? Adopt a child, it's faster and safer
->> Except that ignores the bit where you might want your child to share some of your characteristics, and not be a random person off the street. Genetics matter *a lot*.
 >> 
+>> Except that ignores the bit where you might want your child to share some of your characteristics, and not be a random person off the street. Genetics matter *a lot*.
 
->> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (13 hours later)
 >> 
 >> > Adopt a child, it's faster and safer. No point in taking risks like [...] getting murdered for inheritance.
->> I think you may be misunderstanding inheritance laws here.
->> And I think you may have some issues that are not entirely rational, too. You're afraid your children may decide to kill you? What is the probability of that happening, as opposed to being taken care of by your children in your old age? That is, after all, the traditional "rational" reason for having children.
 >> 
+>> I think you may be misunderstanding inheritance laws here.
+>> 
+>> And I think you may have some issues that are not entirely rational, too. You're afraid your children may decide to kill you? What is the probability of that happening, as opposed to being taken care of by your children in your old age? That is, after all, the traditional "rational" reason for having children.
 
->>> **u/ShiranaiWakaranai** [+0] *
+>>> **u/ShiranaiWakaranai** [+0]  (13 hours later)
 >>> 
 >>> >I think you may be misunderstanding inheritance laws here. 
->>> Ok I kinda lost track of my argument there. Scratch that part.
->>> > What is the probability of that happening, as opposed to being taken care of by your children in your old age? That is, after all, the traditional "rational" reason for having children.
->>> But for this, couldn't you get the exact same thing by adopting a child? Why go through all the risks of pregnancy when you can adopt? The probability may be small, but its not negligible. Plenty of people still die from pregnancy/sex related issues.
 >>> 
+>>> Ok I kinda lost track of my argument there. Scratch that part.
+>>> 
+>>> > What is the probability of that happening, as opposed to being taken care of by your children in your old age? That is, after all, the traditional "rational" reason for having children.
+>>> 
+>>> But for this, couldn't you get the exact same thing by adopting a child? Why go through all the risks of pregnancy when you can adopt? The probability may be small, but its not negligible. Plenty of people still die from pregnancy/sex related issues.
 
->>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (15 hours later)
 >>>> 
 >>>> For one thing literally everyone can't adopt, or there wouldn't be anyone to adopt.
->>>> 
 
->>>>> **u/MasterfulSandking** [+2] *
+>>>>> **u/MasterfulSandking** [+2]  (18 hours later)
 >>>>> 
 >>>>> Rational people, are people, and people have sex. Period. Rational people carry intellectual genes that should be passed on. If rational people didn't like having sex, I'd say the Earth is in trouble.
->>>>> Sex doesn't provide *negligible* positive consequence, it's bonds two people together primarily, both mentally and physically. Trust, compassion, love and euphoria are created and established during sex. I'd say it's rational to want those things.  
->>>>> The act of creating a child further bonds those two people together. It's also a healthy activity, which promotes physical health and healthy eating. Maybe you could argue that sex is irrational from its evolutionary standpoint, where the act itself leaves you vulnerable, not to mention pregnancy itself, where even falling down can be a hazard. But then we'd be talking about the Rationality about Nature and Evolution...
->>>>> Sex is a complicated topic that even involves Natural and Sexual selection. To say it's irrational with the reasons you mentioned is irrational in itself.
 >>>>> 
+>>>>> Sex doesn't provide *negligible* positive consequence, it's bonds two people together primarily, both mentally and physically. Trust, compassion, love and euphoria are created and established during sex. I'd say it's rational to want those things.  
+>>>>> 
+>>>>> The act of creating a child further bonds those two people together. It's also a healthy activity, which promotes physical health and healthy eating. Maybe you could argue that sex is irrational from its evolutionary standpoint, where the act itself leaves you vulnerable, not to mention pregnancy itself, where even falling down can be a hazard. But then we'd be talking about the Rationality about Nature and Evolution...
+>>>>> 
+>>>>> Sex is a complicated topic that even involves Natural and Sexual selection. To say it's irrational with the reasons you mentioned is irrational in itself.
 
->>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (21 hours later)
 >>>>>> 
 >>>>>> I think you intended that to be a reply to the parent post. :)
->>>>>> 
 
->> **u/ShiranaiWakaranai** [-1] *
+>> **u/ShiranaiWakaranai** [-2]  (8 hours later)
 >> 
 >> You know, you could tell me how sex is rational instead of just downvoting...
->> 
 
->>> **u/Subrosian_Smithy** [+8]  *Nudist Beach**
+>>> **u/Subrosian_Smithy** [+8]  *Nudist Beach* (12 hours later)
 >>> 
 >>> Okay, I'll bite.
->>> >Whether their utility functions are selfish or selfless, having sex usually provides negligible positive consequences.
->>> Are orgasms and physical pleasure negligible? They're transient sensations within a moment, sure, but I don't see that as a reason to discount them. Generally, the reason we optimize for the long-term is because we anticipate that eventually the future we've planned for will become the present, and we'll be able to reap rewards at the end of the day.
->>> Is physical intimacy negligible? I really don't think so, considering it brings me so much satisfaction, as a means of achieving emotional intimacy.
->>> >Want an heir? Adopt a child, it's faster and safer.
->>> I think you've already baked your presumptions into the question by talking about 'heirs'
->>> Some people just really, genuinely want biological children. You can argue with them until you're blue in the face about how adoption is faster and safer, or about how they're contributing to overpopulation, or about how they can find an heir in some other way, but the fact of the matter is - they want biological children. That's it. That's just something in the bedrock of their value system.
->>> >No point in taking risks like STDs or death from childbirth or getting murdered for inheritance.
->>> This is just an issue of optimization trade-offs. Some people will value risk-aversion over their sexuality and reproductive drive, so they will be chaste. Some people will value sexual satisfaction and reproduction over risk-aversion, and so they will be promiscuous. And some people will compromise, using birth control (temporary or otherwise) and risk management.
->>> Now, that's not to say that some of these people might not be acting against their better judgement, but I don't think we can say that it's *prima facie* wrong to engage in any of these behaviors, or to have these desires.
 >>> 
+>>> >Whether their utility functions are selfish or selfless, having sex usually provides negligible positive consequences.
+>>> 
+>>> Are orgasms and physical pleasure negligible? They're transient sensations within a moment, sure, but I don't see that as a reason to discount them. Generally, the reason we optimize for the long-term is because we anticipate that eventually the future we've planned for will become the present, and we'll be able to reap rewards at the end of the day.
+>>> 
+>>> Is physical intimacy negligible? I really don't think so, considering it brings me so much satisfaction, as a means of achieving emotional intimacy.
+>>> 
+>>> >Want an heir? Adopt a child, it's faster and safer.
+>>> 
+>>> I think you've already baked your presumptions into the question by talking about 'heirs'
+>>> 
+>>> Some people just really, genuinely want biological children. You can argue with them until you're blue in the face about how adoption is faster and safer, or about how they're contributing to overpopulation, or about how they can find an heir in some other way, but the fact of the matter is - they want biological children. That's it. That's just something in the bedrock of their value system.
+>>> 
+>>> >No point in taking risks like STDs or death from childbirth or getting murdered for inheritance.
+>>> 
+>>> This is just an issue of optimization trade-offs. Some people will value risk-aversion over their sexuality and reproductive drive, so they will be chaste. Some people will value sexual satisfaction and reproduction over risk-aversion, and so they will be promiscuous. And some people will compromise, using birth control (temporary or otherwise) and risk management.
+>>> 
+>>> Now, that's not to say that some of these people might not be acting against their better judgement, but I don't think we can say that it's *prima facie* wrong to engage in any of these behaviors, or to have these desires.
 
->>>> **u/ShiranaiWakaranai** [-1] *
+>>>> **u/ShiranaiWakaranai** [-1]  (14 hours later)
 >>>> 
 >>>> > Now, that's not to say that some of these people might not be acting against their better judgement, but I don't think we can say that it's prima facie wrong to engage in any of these behaviors, or to have these desires.
->>>> I do not believe it is wrong (in any sense) to have desires, since desires may not be fully controllable. What could be wrong is whether one acts on those desires. For example, there's nothing wrong with having murderous rage, but actually murdering someone can be wrong. So the question isn't whether it's wrong to have sexual desire, but whether it's wrong to have sex. 
->>>> Consider drug abuse. Drugs can give you an inordinate amount of transient happiness. But is it rational to abuse drugs then? Considering the long term consequences, which includes risk of death by drug overdose, I would say no. Because while transient happiness is not nothing, isn't it negligible compared to the risk of death?
->>>> By the same logic, I cannot see the transient happiness of sex as a good reason to have sex, not when there's plenty of evidence for sex-related deaths. So if sex isn't wrong, if it is indeed rational to have sex, then there must be some long term positive consequence of sex. 
->>>> The problem is, for most of the long-term positive consequences of sex, it seems like there are better/safer alternatives. Children can be adopted. Intimacy can be achieved in other ways. You can engage in physical activities that are close to sex but do not involve contact between reproductive organs. If you want biological children, you can donate sperm/eggs, or have babies produced in vitro rather than via sex. So I find it odd if these alternatives are not used instead of sex.
 >>>> 
+>>>> I do not believe it is wrong (in any sense) to have desires, since desires may not be fully controllable. What could be wrong is whether one acts on those desires. For example, there's nothing wrong with having murderous rage, but actually murdering someone can be wrong. So the question isn't whether it's wrong to have sexual desire, but whether it's wrong to have sex. 
+>>>> 
+>>>> Consider drug abuse. Drugs can give you an inordinate amount of transient happiness. But is it rational to abuse drugs then? Considering the long term consequences, which includes risk of death by drug overdose, I would say no. Because while transient happiness is not nothing, isn't it negligible compared to the risk of death?
+>>>> 
+>>>> By the same logic, I cannot see the transient happiness of sex as a good reason to have sex, not when there's plenty of evidence for sex-related deaths. So if sex isn't wrong, if it is indeed rational to have sex, then there must be some long term positive consequence of sex. 
+>>>> 
+>>>> The problem is, for most of the long-term positive consequences of sex, it seems like there are better/safer alternatives. Children can be adopted. Intimacy can be achieved in other ways. You can engage in physical activities that are close to sex but do not involve contact between reproductive organs. If you want biological children, you can donate sperm/eggs, or have babies produced in vitro rather than via sex. So I find it odd if these alternatives are not used instead of sex.
 
->>>>> **u/JackStargazer** [+4]  *Primordial Apologist**
+>>>>> **u/JackStargazer** [+6]  *Primordial Apologist* (17 hours later)
 >>>>> 
 >>>>> There are other non-transient benefits to regular sex. Studies have shown it contributes to immune system growth, partner intimacy and trust, lowers the risk of heart attacks (one of the largest single causes of death), releases enough endorphins to function as an analgesic, and lowers stress and anxiety. There's even some tentative evidence that it increases short-term mental acuity.
->>>>> Many of these are actual significant benefits that people would seek out.
->>>>> The fact that they also come from a pleasurable activity just makes it even better.
->>>>> As to desires: Rationalism is used to acquire your goals, not to define when those goals are. Quirrelmort is no less rational a character simply because he delights in causing death to others and maximizes his ability to do so. Rationality isn't morality.
->>>>> For some people, sex is a terminal value (or biological children are). You don't use rationality to convince someone to change their terminal values, they use it to maximize those values.
 >>>>> 
+>>>>> Many of these are actual significant benefits that people would seek out.
+>>>>> 
+>>>>> The fact that they also come from a pleasurable activity just makes it even better.
+>>>>> 
+>>>>> As to desires: Rationalism is used to acquire your goals, not to define when those goals are. Quirrelmort is no less rational a character simply because he delights in causing death to others and maximizes his ability to do so. Rationality isn't morality.
+>>>>> 
+>>>>> For some people, sex is a terminal value (or biological children are). You don't use rationality to convince someone to change their terminal values, they use it to maximize those values.
 
->>>>>> **u/ShiranaiWakaranai** [+3] *
+>>>>>> **u/ShiranaiWakaranai** [+3]  (a day later)
 >>>>>> 
 >>>>>> I'll be blunt: your and /u/MasterfulSandking 's replies terrify me. I was not aware of all the health benefits of sex, and I can't believe other people aren't freaking out about this.
->>>>>> Do you understand what this means? It means that all along, your body had the power to make itself healthy. But it doesn't if you don't have sex, even though it can. Because of course it can, you aren't getting special health nutrients from having sex, sex is obviously just a trigger for the release of hormones that tell your body to be healthy. In other words, we are slaves, being held at metaphorical gunpoint by natural selection. Unless its demands are met, it will ill-treat our bodies until they break down. And its demands are for us to have sex and thus produce more slaves for natural selection.
->>>>>> I had always thought of natural selection as a will o' wisp, encouraging people to take actions that endanger themselves and everyone around them as long as it helps to produce more grandchildren. Now I learn it is also a vengeful god, writing down the names of the disobedient people who refuse to have sex and killing them via heart attacks and other health problems. If you choose to be abstinent, your body just goes "Oh look, doctor smart-ass brain doesn't want to get with the program. Screw it, why bother to keep it alive then! Let's just half-ass our maintenance until it gives up or dies."
->>>>>> And you know what the worst part is? This means that every time you reject someone's romantic/sexual advances, you could be condemning them to an early grave. By denying them from having sex, you make them unable to appease the vengeful god of natural selection, and so it destroys their bodies from the inside. It doesn't even care that they aren't at fault for not being able to have sex, it kills them anyway.
->>>>>> I don't even know what to say at this point. In light of this, it seems that having sex is not only rational, but enforced by threat of death. I'm going to need to rethink many of my life choices...
 >>>>>> 
+>>>>>> Do you understand what this means? It means that all along, your body had the power to make itself healthy. But it doesn't if you don't have sex, even though it can. Because of course it can, you aren't getting special health nutrients from having sex, sex is obviously just a trigger for the release of hormones that tell your body to be healthy. In other words, we are slaves, being held at metaphorical gunpoint by natural selection. Unless its demands are met, it will ill-treat our bodies until they break down. And its demands are for us to have sex and thus produce more slaves for natural selection.
+>>>>>> 
+>>>>>> I had always thought of natural selection as a will o' wisp, encouraging people to take actions that endanger themselves and everyone around them as long as it helps to produce more grandchildren. Now I learn it is also a vengeful god, writing down the names of the disobedient people who refuse to have sex and killing them via heart attacks and other health problems. If you choose to be abstinent, your body just goes "Oh look, doctor smart-ass brain doesn't want to get with the program. Screw it, why bother to keep it alive then! Let's just half-ass our maintenance until it gives up or dies."
+>>>>>> 
+>>>>>> And you know what the worst part is? This means that every time you reject someone's romantic/sexual advances, you could be condemning them to an early grave. By denying them from having sex, you make them unable to appease the vengeful god of natural selection, and so it destroys their bodies from the inside. It doesn't even care that they aren't at fault for not being able to have sex, it kills them anyway.
+>>>>>> 
+>>>>>> I don't even know what to say at this point. In light of this, it seems that having sex is not only rational, but enforced by threat of death. I'm going to need to rethink many of my life choices...
 
->>>>>>> **u/Kishoto** [+7] *
+>>>>>>> **u/Kishoto** [+8]  (a day later)
 >>>>>>> 
 >>>>>>> Ok. Let's take it down a couple notches there, my guy/gal. 
->>>>>>> I'm going to assume you were being serious (as your post could've been taken for a sort of dramatically dry sarcasm, possibly) and I'll respond in kind:
->>>>>>> Sex is an important facet of the human experience for most people. It has a number of health benefits, though I must point out that most of these benefits are nothing you couldn't obtain from a modicum of exercise. It provides a level of intimacy on a biological and emotional level. It feels *awesome*. Pregnancy, while not without its risks, is a generally safe process, especially if you're consulting your OBGYN regularly, as there are ways to evaluate how well your body would handle a pregnancy even before you're pregnant. 
->>>>>>> All of the above being said, that doesn't mean you should be scared/worried that you don't value sex in the same way. That's perfectly fine. Natural selection isn't holding a gun to your head. There are obvious built-in incentives for humans to have sex but that doesn't mean you'll be harmed in any way by choosing to abstain yourself. You won't suffer any ill effects from abstaining from sex because you honestly have no desire for it. Does that put you somewhat outside of the norm, neurologically? Sure. Asexuality certainly isn't anywhere close to the majority. But every human is outside of the norm in some fashion. For some, it just happens to be in that way. And they'll be none the worse for wear for it.
 >>>>>>> 
+>>>>>>> I'm going to assume you were being serious (as your post could've been taken for a sort of dramatically dry sarcasm, possibly) and I'll respond in kind:
+>>>>>>> 
+>>>>>>> Sex is an important facet of the human experience for most people. It has a number of health benefits, though I must point out that most of these benefits are nothing you couldn't obtain from a modicum of exercise. It provides a level of intimacy on a biological and emotional level. It feels *awesome*. Pregnancy, while not without its risks, is a generally safe process, especially if you're consulting your OBGYN regularly, as there are ways to evaluate how well your body would handle a pregnancy even before you're pregnant. 
+>>>>>>> 
+>>>>>>> All of the above being said, that doesn't mean you should be scared/worried that you don't value sex in the same way. That's perfectly fine. Natural selection isn't holding a gun to your head. There are obvious built-in incentives for humans to have sex but that doesn't mean you'll be harmed in any way by choosing to abstain yourself. You won't suffer any ill effects from abstaining from sex because you honestly have no desire for it. Does that put you somewhat outside of the norm, neurologically? Sure. Asexuality certainly isn't anywhere close to the majority. But every human is outside of the norm in some fashion. For some, it just happens to be in that way. And they'll be none the worse for wear for it.
 
->>>>>>>> **u/ShiranaiWakaranai** [+1] *
+>>>>>>>> **u/ShiranaiWakaranai** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> > I'm going to assume you were being serious (as your post could've been taken for a sort of dramatically dry sarcasm, possibly) 
+>>>>>>>> 
 >>>>>>>> I am being serious. Look, think about what it means for sex to have health benefits. How is that possible? I mean, sex is not injecting vitamins and vaccines into your bloodstream, nor nutrients into your stomach or oxygen into your lungs. So how in the world is it making you healthier? That makes no sense.
+>>>>>>>> 
 >>>>>>>> Yet there are studies which show that sex "makes you healthier". So think about these studies. How did they reach the conclusion that sex makes you healthier? Well, they must have compared two groups of people, one group that had sex, and one group that didn't, and found that the first group had better health than the second. (+ whatever control groups and so on for avoiding bias.) Since we have established that "having sex gives you health bonuses" makes no sense, the obvious conclusion is that "not having sex gives you health penalties".
+>>>>>>>> 
 >>>>>>>> After mulling over it for a while, I concluded that the most likely method by which "sex gives you health bonuses", is by releasing something like a signal hormone when you have sex, and the hormone then tells your body to make itself healthier. The act of having sex does not give you the special chemicals needed to construct this hormone, your body could just as easily make that hormone, or make itself healthier without that hormone. But it won't. It purposefully refuses to make itself healthier until you have sex. 
+>>>>>>>> 
 >>>>>>>> In other words, if you refuse to have sex, your body refuses to make itself healthier. It could, but it won't. It just half-asses its life-sustaining activities. That is pretty much a health penalty by definition. QED: people who do abstain from sex, whether voluntarily or involuntarily, **are all suffering ill effects from it.**
+>>>>>>>> 
 >>>>>>>> >Does that put you somewhat outside of the norm, neurologically?
+>>>>>>>> 
 >>>>>>>> I'm not worried about norms and social customs. I'm worried about death. What I just found out is that virginity is comparable to malnutrition, as absurd as that sounds, just lesser in magnitude depending on how large these "health benefits" are.
+>>>>>>>> 
 >>>>>>>> * Malnutrition: Your body lacks to nutrients to conduct proper life-sustaining activities.
 >>>>>>>> * Virginity: Your body has the nutrients, but refuses to conduct proper life-sustaining activities with them.
->>>>>>>> So abstaining from sex has similar health penalties as not eating sufficient amounts of nutrients. And so refusing someone's sexual advances is analogous to refusing to give a starving person food. Sure, maybe someone else could give them food, but if everyone thinks that and refuses to help, that person is just going to wither away from malnutrition until they die. Does this not weigh on your conscience? Because it does on mine. I do not like dying, or causing other people to die. Yet it seems that a lot of my actions have been raising the probability of both, and I am honestly freaking out about that.
 >>>>>>>> 
+>>>>>>>> So abstaining from sex has similar health penalties as not eating sufficient amounts of nutrients. And so refusing someone's sexual advances is analogous to refusing to give a starving person food. Sure, maybe someone else could give them food, but if everyone thinks that and refuses to help, that person is just going to wither away from malnutrition until they die. Does this not weigh on your conscience? Because it does on mine. I do not like dying, or causing other people to die. Yet it seems that a lot of my actions have been raising the probability of both, and I am honestly freaking out about that.
 
->>>>>>>>> **u/Subrosian_Smithy** [+3]  *Nudist Beach**
+>>>>>>>>> **u/Subrosian_Smithy** [+3]  *Nudist Beach* (a day later)
 >>>>>>>>> 
 >>>>>>>>> > I am being serious. Look, think about what it means for sex to have health benefits. How is that possible? I mean, sex is not injecting vitamins and vaccines into your bloodstream, nor nutrients into your stomach or oxygen into your lungs. So how in the world is it making you healthier? That makes no sense.
->>>>>>>>> >In other words, if you refuse to have sex, your body refuses to make itself healthier. It could, but it won't. It just half-asses its life-sustaining activities. That is pretty much a health penalty by definition. QED: people who do abstain from sex, whether voluntarily or involuntarily, are all suffering ill effects from it.
->>>>>>>>> Does the existence of the placebo effect prove that your body is refusing to make itself healthy until it receives medicine?
 >>>>>>>>> 
+>>>>>>>>> >In other words, if you refuse to have sex, your body refuses to make itself healthier. It could, but it won't. It just half-asses its life-sustaining activities. That is pretty much a health penalty by definition. QED: people who do abstain from sex, whether voluntarily or involuntarily, are all suffering ill effects from it.
+>>>>>>>>> 
+>>>>>>>>> Does the existence of the placebo effect prove that your body is refusing to make itself healthy until it receives medicine?
 
->>>>>>>>>> **u/ShiranaiWakaranai** [+1] *
+>>>>>>>>>> **u/ShiranaiWakaranai** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> > Does the existence of the placebo effect prove that your body is refusing to make itself healthy until it receives medicine?
->>>>>>>>>> Yes. Or well, not exactly. The placebo effect doesn't really have anything to do with medicine, it's about believing you will become healthier. So, even believing that your arbitrary daily routine is somehow "medical" allows the placebo effect to activate and make you healthier. It is a bit odd that your body refuses to be as healthy as it can be if you don't believe it will, but at least that's easily munchkinable: just always believe you will become healthy. A bit of a pain yes, but a relatively minor problem.
 >>>>>>>>>> 
+>>>>>>>>>> Yes. Or well, not exactly. The placebo effect doesn't really have anything to do with medicine, it's about believing you will become healthier. So, even believing that your arbitrary daily routine is somehow "medical" allows the placebo effect to activate and make you healthier. It is a bit odd that your body refuses to be as healthy as it can be if you don't believe it will, but at least that's easily munchkinable: just always believe you will become healthy. A bit of a pain yes, but a relatively minor problem.
 
->>>>>>>>> **u/Kishoto** [+3] *
+>>>>>>>>> **u/Kishoto** [+3]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> As I said before, dial it back. Most of the benefits attained through regular sex are just as attainable through regular exercise. There's nothing inherent about sex that will extend your lifespan to the point where you should be concerned about the amount of sex you're getting from a medical standpoint.
->>>>>>>>> Do you feel as if you would die from not taking multivitamins on schedule? Or not closely adhering to typical nutritional guidelines every day? If your answer to those questions is no, then you shouldn't concern yourself with the thought of the potential downsides of not having sex. They're really not all that bad.
 >>>>>>>>> 
+>>>>>>>>> Do you feel as if you would die from not taking multivitamins on schedule? Or not closely adhering to typical nutritional guidelines every day? If your answer to those questions is no, then you shouldn't concern yourself with the thought of the potential downsides of not having sex. They're really not all that bad.
 
->>>>>>>>>> **u/ShiranaiWakaranai** [+1] *
+>>>>>>>>>> **u/ShiranaiWakaranai** [+1]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> > Most of the benefits attained through regular sex are just as attainable through regular exercise. 
->>>>>>>>>> Erm, what? If that's true, then how does sex give you health benefits? That just makes it sound like the exercise part of sex is what's giving you the benefit, and surely the studies made a control group for that. Like, compared the health of a group of people that exercise and have sex, versus a group of people that exercise but not have sex, and found that the first group had better health.
->>>>>>>>>> >  There's nothing inherent about sex that will extend your lifespan to the point where you should be concerned about the amount of sex you're getting from a medical standpoint.
->>>>>>>>>> They literally said that one of the health benefits is reduced risk of heart attacks. In order for a study to say that, the difference must be **statistically significant**. I.e., the group of people that exercise but don't have sex are significantly more likely to get heart attacks than the group of people that exercise and have sex. Heart attacks kinda kill you, that's lifespan shortening. 
->>>>>>>>>> > Do you feel as if you would die from not taking multivitamins on schedule? Or not closely adhering to typical nutritional guidelines every day?
->>>>>>>>>> I'm honestly quite concerned about these issues too. Improper eating probably does have significant health effects. Unfortunately, nutrition is one of those really confusing problems since everyone needs different amounts of different things, and it's not even consistent from day to day. If I had the money to spare I would hire a team of nutritionists/doctors/etc. to tell me what I had to consume.
 >>>>>>>>>> 
+>>>>>>>>>> Erm, what? If that's true, then how does sex give you health benefits? That just makes it sound like the exercise part of sex is what's giving you the benefit, and surely the studies made a control group for that. Like, compared the health of a group of people that exercise and have sex, versus a group of people that exercise but not have sex, and found that the first group had better health.
+>>>>>>>>>> 
+>>>>>>>>>> >  There's nothing inherent about sex that will extend your lifespan to the point where you should be concerned about the amount of sex you're getting from a medical standpoint.
+>>>>>>>>>> 
+>>>>>>>>>> They literally said that one of the health benefits is reduced risk of heart attacks. In order for a study to say that, the difference must be **statistically significant**. I.e., the group of people that exercise but don't have sex are significantly more likely to get heart attacks than the group of people that exercise and have sex. Heart attacks kinda kill you, that's lifespan shortening. 
+>>>>>>>>>> 
+>>>>>>>>>> > Do you feel as if you would die from not taking multivitamins on schedule? Or not closely adhering to typical nutritional guidelines every day?
+>>>>>>>>>> 
+>>>>>>>>>> I'm honestly quite concerned about these issues too. Improper eating probably does have significant health effects. Unfortunately, nutrition is one of those really confusing problems since everyone needs different amounts of different things, and it's not even consistent from day to day. If I had the money to spare I would hire a team of nutritionists/doctors/etc. to tell me what I had to consume.
 
->>>>>>>>>>> **u/Kishoto** [+3] *
+>>>>>>>>>>> **u/Kishoto** [+3]  (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I would say look into the study yourself. I don't think it's been as comprehensive as that yet but I'm not sure. Regardless: we're all but reasonably certain that no one has ever died with the primary cause being "not enough sex". You're good :)
->>>>>>>>>>> 
 
->>>>>>>>>>> **u/-main** [+1] *
+>>>>>>>>>>> **u/-main** [+1]  (6 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > Heart attacks kinda kill you, that's lifespan shortening. 
->>>>>>>>>>> Consider that 'statistically significant' isn't always large, and that you should probably read the study before freaking out and should then keep the freakout proportional to the size of the possible gain plus or minus an order of magnitude. 
->>>>>>>>>>> It may be that you value an extra on-average half hour of life enough that you'll engage in sex even if it's not enjoyable for you, but I wouldn't make that tradeoff. It may be that I'd make an equivalent tradeoff -- like abstaining forever -- in exchange for several more decades of life. The quantities involved matter, basically.
 >>>>>>>>>>> 
+>>>>>>>>>>> Consider that 'statistically significant' isn't always large, and that you should probably read the study before freaking out and should then keep the freakout proportional to the size of the possible gain plus or minus an order of magnitude. 
+>>>>>>>>>>> 
+>>>>>>>>>>> It may be that you value an extra on-average half hour of life enough that you'll engage in sex even if it's not enjoyable for you, but I wouldn't make that tradeoff. It may be that I'd make an equivalent tradeoff -- like abstaining forever -- in exchange for several more decades of life. The quantities involved matter, basically.
 
->>> **u/eroticas** [+1] *
+>>> **u/eroticas** [+1]  (a day later)
 >>> 
 >>> It's fun.
->>> 
 
 ---
 

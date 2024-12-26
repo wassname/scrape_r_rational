@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/4hx2rs/biweekly_challenge_romance/
-* Score: 20
+* Score: 19
 
 * Created: 2016-05-04T22:43:44
 
@@ -52,113 +52,101 @@ There exists magic which can create objects *ex nihilo*. Over time, this has led
 
 ### Comments:
 
-> **u/None** [+20] *
+> **u/None** [+18]  (an hour later)
 > 
 > [removed]
-> 
 
->> **u/MultipartiteMind** [+4] *
+>> **u/MultipartiteMind** [+5]  (12 hours later)
 >> 
 >> (I approve of the cake!  <smiles>)
->> 
 
->> **u/Killako1** [+3] *
+>> **u/Killako1** [+3]  (4 days later)
 >> 
 >> Logging in just to updoot.
->> 
 
->> **u/Lowtuff** [+1] *
+>> **u/Lowtuff** [+1]  (14 days later)
 >> 
 >> Real lovely read, great work!
->> 
 
-> **u/Kishoto** [+8] *
+> **u/Kishoto** [+8]  (2 hours later)
 > 
 > [What Do You Want](https://www.fanfiction.net/s/11840095/1/What-Do-You-Want)
-> 7,642 words.
-> Not rational at all, per se, but I shall post it purely for Megumi's mature, level headed approach to speaking with Erina about her unrequited crush. Downvote at your leisure!
 > 
+> 7,642 words.
+> 
+> Not rational at all, per se, but I shall post it purely for Megumi's mature, level headed approach to speaking with Erina about her unrequited crush. Downvote at your leisure!
 
-> **u/Faust91x** [+2]  *Iteration X**
+> **u/Faust91x** [+2]  *Iteration X* (13 days later)
 > 
 > Very very late :S
-> [Friendship/Love](http://pastebin.com/raw/HY3Z3JEx) (2,483 words)
-> Part one of a White Album 2 short story where Setsuna chooses between friendship and love.
 > 
+> [Friendship/Love](http://pastebin.com/raw/HY3Z3JEx) (2,483 words)
+> 
+> Part one of a White Album 2 short story where Setsuna chooses between friendship and love.
 
-> **u/JackStargazer** [+2]  *Primordial Apologist**
+> **u/JackStargazer** [+3]  *Primordial Apologist* (an hour later)
 > 
 > [Interlude: The Book](https://docs.google.com/document/d/17K5sC6bVf51QjsCtPSKrSpkRvu89OFvbSZfbmJuj-2o/edit?usp=sharing)
 > (1949 Words)
-> A bit of background: This is a future scene in a fanfiction I have started to write. I haven't gotten very far into it yet, and I'm trying to avoid too many spoilers, so the characters are only identified by pronouns here. Two of the main themes of the story are alienation and relationships, and so I thought I'd cut a slice of two of the main character's future as I see it and put it down as an example of how I see them acting.
 > 
+> A bit of background: This is a future scene in a fanfiction I have started to write. I haven't gotten very far into it yet, and I'm trying to avoid too many spoilers, so the characters are only identified by pronouns here. Two of the main themes of the story are alienation and relationships, and so I thought I'd cut a slice of two of the main character's future as I see it and put it down as an example of how I see them acting.
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (12 hours later)
 >> 
 >> Intriguing.  (Reincarnation seems to be implied; the association with madness/breakdowns reminds me both of Fantastic Children (which I've watched barely anything of) and Air (which I watched all of).  Something to accomplish to break out of a cycle into an able state, the cycle itself made harder due to not being an able state, and the underlying question of 'how did the cycle get started in the first place'...  the indication of it as a fanfiction makes me curious in that I don't clearly recall any fictions I've encountered that directly fit the indicated context.)
->> 
 
->> **u/TwoxMachina** [+1] *
+>> **u/TwoxMachina** [+1]  (4 days later)
 >> 
 >> Would love to read that fanfiction of yours. Please post a link here.
->> 
 
->>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>> **u/JackStargazer** [+1]  *Primordial Apologist* (4 days later)
 >>> 
 >>> I haven't posted any of it yet, I'm only about 4 thousand words into my rough draft of the main story, with a few future scenes written out but not connected.
->>> 
 
->> **u/whywhisperwhy** [+1] *
+>> **u/whywhisperwhy** [+1]  (10 days later)
 >> 
 >> Just wanted to second that this is a very intriguing teaser. When you do start posting I'd be happy to beta if you'd like (although I have not read whatever source material this is based off).
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/CouteauBleu** [+5]  *We are the Empire.**
+>> **u/CouteauBleu** [+4]  *We are the Empire.* (2 days later)
 >> 
 >> Not... sure what that was about?
->> 
 
->>> **u/Enasni_** [+1] *
+>>> **u/Enasni_** [+1]  (3 days later)
 >>> 
 >>> A relationship between two individuals involving total power exchange (see also; master/slave).
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (13 days later)
 >>>> 
 >>>> Were you trying for any particlar rationalist themes? Seems pretty standard bdsmy to me
->>>> 
 
->>>>> **u/Enasni_** [+2] *
+>>>>> **u/Enasni_** [+2]  (13 days later)
 >>>>> 
 >>>>> No rationalist themes. Was just trying my hand at a prompt.
->>>>> 
 
-> **u/Golden_Magician** [+2] *
+> **u/Golden_Magician** [+2]  (3 days later)
 > 
 > [Confession](https://www.docdroid.net/yPctR1T/confession.pdf.html) (1111 words)
-> Just a raw confession.
 > 
+> Just a raw confession.
 
->> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (13 days later)
 >> 
 >> Wait, is this a real life confession? Because if so, then
 >> 1. you've got guts
 >> 2. it's really well-written. And 
 >> 3. also kind of off topic, since this thread is for fiction, but I don't think anyone is going to care about that because if you had put it in the off topic thread perhaps a lot of people might have missed it. And seriously, you just did the equivalent of standing on a stage in front of an audience of maybe hundreds of people who you might or might not have even met in real life and pouring your heart out to them. Even if you're standing on that stage with a mask on, it still must have been pretty nerve-wracking for you. It probably would have been nerve wracking for most people in your shoes. If you think that's cowardly, then what do you consider brave?
-
->> If it is fictional, then I am very impressed. You really brought the character to life with that monologue, to the point where it's hard to tell that they're not a real person. IF it's not a real person, anyways.
 >> 
+>> If it is fictional, then I am very impressed. You really brought the character to life with that monologue, to the point where it's hard to tell that they're not a real person. IF it's not a real person, anyways.
 
->> **u/TennisMaster2** [+1] *
+>> **u/TennisMaster2** [+1]  (13 days later)
 >> 
 >> Since this is an account on which you can be yourself, feel free to engage with the community.  If you'd like help or advice for managing and improving your self-esteem (if fictional, you have the tone and diction of someone suffering from low self-esteem down pat), link to this and share what methods you've already tried in overmorrow's off-topic thread.  Many here would be happy to talk with you about personal topics that are hard to air elsewhere, and perhaps direct you to or directly become a resource for the recovery, maintenance, and/or furtherance of your positive mental health.
->> You've already taken the step into the communal pool.  If you need guidance on swimming technique, just splash.
 >> 
+>> You've already taken the step into the communal pool.  If you need guidance on swimming technique, just splash.
 
 ---
 

@@ -14,68 +14,77 @@ What is some rational fiction based on the Final Fantasy universe?
 
 ### Comments:
 
-> **u/Salaris** [+11]  *Dominion Sorcerer**
+> **u/Salaris** [+11]  *Dominion Sorcerer* (5 hours later)
 > 
 > I haven't found any actual Final Fantasy rational fiction, but you may be interested in my own **Arcane Ascension** or **Weapons and Wielders** books. Both series are expressly inspired by JRPGs, including **Final Fantasy**, **Ys**, **Bravely Default**, etc.
-> **Arcane Ascension** is a mix between a dungeon crawling book and a magical academy. There's a lot of emphasis on learning how magic works in an academy setting.
-> **Weapons & Wielders** is a spin-off from both my **Arcane Ascension** series and my older **War of Broken Mirrors**. It's much more adventure focused; you can think of it as being more like **Zelda** or **Ys**, but there's still some **Final Fantasy** influence in there, and one of the protagonists is very directly FF4 inspired.
-> They're rational in terms of characters using a lot of lateral thinking to solve problems, as well as a strong emphasis on hard magic and internal consistency. You should be aware that I don't write characters with the intention of them being just "intelligent" - I tend to write different characters having different *types* of intelligence and weaknesses in other forms of intelligence.
-> For example, Corin tends to think about how he can exploit specific resources in the long-term, Sera is much better at social intelligence, and Keras is great at finding ways to just ignore the obvious answer to something and punch through it.
-> This can be frustrating for some readers - there's a subset of the rational community (and fantasy fans in general) that prefers for characters that are basically a power fantasy of perfect intellect, and you should be aware I don't write anything like that.
 > 
+> **Arcane Ascension** is a mix between a dungeon crawling book and a magical academy. There's a lot of emphasis on learning how magic works in an academy setting.
+> 
+> **Weapons & Wielders** is a spin-off from both my **Arcane Ascension** series and my older **War of Broken Mirrors**. It's much more adventure focused; you can think of it as being more like **Zelda** or **Ys**, but there's still some **Final Fantasy** influence in there, and one of the protagonists is very directly FF4 inspired.
+> 
+> They're rational in terms of characters using a lot of lateral thinking to solve problems, as well as a strong emphasis on hard magic and internal consistency. You should be aware that I don't write characters with the intention of them being just "intelligent" - I tend to write different characters having different *types* of intelligence and weaknesses in other forms of intelligence.
+> 
+> For example, Corin tends to think about how he can exploit specific resources in the long-term, Sera is much better at social intelligence, and Keras is great at finding ways to just ignore the obvious answer to something and punch through it.
+> 
+> This can be frustrating for some readers - there's a subset of the rational community (and fantasy fans in general) that prefers for characters that are basically a power fantasy of perfect intellect, and you should be aware I don't write anything like that.
 
->> **u/Rouninscholar** [+5] *
+>> **u/Rouninscholar** [+4]  (14 hours later)
 >> 
 >> I didnt realize you were on this sub. Arcane ascension is such a great series. One of the best litrpgs I have read.
->> 
 
->>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>> **u/Salaris** [+1]  *Dominion Sorcerer* (22 hours later)
 >>> 
 >>> My main subs are r/climberscourt (for my own books) and r/progressionfantasy (for books with a similar focus on character progression), but I drop by here from time to time and read some of the works here. =) Mother of Learning was a huge influence on Arcane Ascension, for example, and I'm enjoying Legacy of the Goddess and Delve right now.
->>> I'm glad you're enjoying Arcane Ascension! Thank you very much for reading the books. =D
 >>> 
+>>> I'm glad you're enjoying Arcane Ascension! Thank you very much for reading the books. =D
 
->> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (17 hours later)
 >> 
 >> Different types of intelligence? Respect and appreciation for the fact that there are many kinds of skills far beyond and outside of pure truth seeking/analysis/explicit epistemic updating, which are all just as useful and valuable? In a rational fic? That's not something I get to see very often.
->> I'm intrigued, what's it about?
 >> 
+>> I'm intrigued, what's it about?
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (22 hours later)
 >>> 
 >>> Early/pre industrial setting, there’s 5 dungeon towers throughout the continent  created said to be created by a god, completing a challenge in the tower gives you a mark that gives you the ability to interact with mana in a specific way, such as shaping it into weapons, making contracts with monsters to summon them, or enchanting items. Corin goes to a school for people with these marks and is trying to learn about how to use his mark and how to improve, and wants to find his missing brother.
->>> 
 
->>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>> **u/Salaris** [+1]  *Dominion Sorcerer* (22 hours later)
 >>> 
 >>> > Different types of intelligence? Respect and appreciation for the fact that there are many kinds of skills far beyond and outside of pure truth seeking/analysis/explicit epistemic updating, which are all just as useful and valuable? In a rational fic? That's not something I get to see very often.
->>> It's a difficult balance, since I know that a lot of rational fiction readers find it off-putting when a character makes sub-optimal choices. I've tried to address this by making sure that these specialists each have areas to shine, but it's still not perfect for every reader.
->>> > I'm intrigued, what's it about?
->>> **Arcane Ascension** is about Corin Cadence, a teenager who attempts to learn magic and climb a gigantic ever-changing tower to search for his brother, Tristan, who disappeared into the tower five years earlier. The story moves back and forth between magical academy segments and dungeon crawls in the tower (and other locations). 
->>> It's also very party based after the intro. Each member of the protagonist's group has a different attunement - the primary sources of magic power on this continent. Attunements confer powers analogous to character classes; they're things like "Guardian", which has physical combat powers, or "Elementalist", which has blasty magic, etc. Every character spends time training and improving their abilities.
->>> In terms of rational themes, it gets into things like magical influences on society, the ethics of specific types of magic (especially monster binding and summoning), different categories of sentience, some transhumanism themes, etc.
->>> **Weapons & Wielders** is a prequel/side story following Keras Selyrian - a crossover character from my **War of Broken Mirrors** series - when he first shows up on the continent where **Arcane Ascension** takes place. The frame story for this takes place after **Arcane Ascension** book 2, but the main narrative is years earlier, so you can read them in any order (although I generally recommend you read **Arcane Ascension** first unless you dislike magical academies). It's largely focused on a quest to obtain the Six Sacred Swords, legendary magical artifacts tied to defeating the God Beasts, unbelievably powerful monsters.
->>> Keras is already something of a powerhouse when this starts (it's after the third **War of Broken Mirrors** book, and he was pretty strong even at the start of the first one), but he still spends a lot of time looking for ways to improve his skill and learn new ones, especially in the second book and forward.
->>> This is a good series if you're looking for someone with more of a JRPG hero mentality - Keras is pretty close to the standard yuusha archetype that people like Link and Adol Christin belong to, but a lot chattier.
->>> It hits a lot of the same types of themes as **Arcane Ascension**, but with a particular emphasis on interacting with non-human characters.
 >>> 
+>>> It's a difficult balance, since I know that a lot of rational fiction readers find it off-putting when a character makes sub-optimal choices. I've tried to address this by making sure that these specialists each have areas to shine, but it's still not perfect for every reader.
+>>> 
+>>> > I'm intrigued, what's it about?
+>>> 
+>>> **Arcane Ascension** is about Corin Cadence, a teenager who attempts to learn magic and climb a gigantic ever-changing tower to search for his brother, Tristan, who disappeared into the tower five years earlier. The story moves back and forth between magical academy segments and dungeon crawls in the tower (and other locations). 
+>>> 
+>>> It's also very party based after the intro. Each member of the protagonist's group has a different attunement - the primary sources of magic power on this continent. Attunements confer powers analogous to character classes; they're things like "Guardian", which has physical combat powers, or "Elementalist", which has blasty magic, etc. Every character spends time training and improving their abilities.
+>>> 
+>>> In terms of rational themes, it gets into things like magical influences on society, the ethics of specific types of magic (especially monster binding and summoning), different categories of sentience, some transhumanism themes, etc.
+>>> 
+>>> **Weapons & Wielders** is a prequel/side story following Keras Selyrian - a crossover character from my **War of Broken Mirrors** series - when he first shows up on the continent where **Arcane Ascension** takes place. The frame story for this takes place after **Arcane Ascension** book 2, but the main narrative is years earlier, so you can read them in any order (although I generally recommend you read **Arcane Ascension** first unless you dislike magical academies). It's largely focused on a quest to obtain the Six Sacred Swords, legendary magical artifacts tied to defeating the God Beasts, unbelievably powerful monsters.
+>>> 
+>>> Keras is already something of a powerhouse when this starts (it's after the third **War of Broken Mirrors** book, and he was pretty strong even at the start of the first one), but he still spends a lot of time looking for ways to improve his skill and learn new ones, especially in the second book and forward.
+>>> 
+>>> This is a good series if you're looking for someone with more of a JRPG hero mentality - Keras is pretty close to the standard yuusha archetype that people like Link and Adol Christin belong to, but a lot chattier.
+>>> 
+>>> It hits a lot of the same types of themes as **Arcane Ascension**, but with a particular emphasis on interacting with non-human characters.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (8 hours later)
 > 
 > [deleted]
-> 
 
->> **u/my_alt_at_my_job** [+2] *
+>> **u/my_alt_at_my_job** [+2]  (14 hours later)
 >> 
 >> Spells and skills that specifically appear in the game except for summons. I'd like to see the consequences of having people in the world who can cast e.g. Quake, Float, Haste, and have abilities such as Jump.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (7 days later)
 > 
 > I wish there was a rational rewrite of FF7. I don't expect anything rational to come out of Nomura's mind. 
-> I've been looking for a rational rewrite of FF7. Considering FF7 has been out for a couple of decades I would think there would have been something, but nope. 
-> The plot had so much potential but retcons, bad devices, stupid motivations from both protagonists and antagonists, and glaring plotholes just kind of ruin it for me. I still love the world and idea but I can't view the story the same way again.
 > 
+> I've been looking for a rational rewrite of FF7. Considering FF7 has been out for a couple of decades I would think there would have been something, but nope. 
+> 
+> The plot had so much potential but retcons, bad devices, stupid motivations from both protagonists and antagonists, and glaring plotholes just kind of ruin it for me. I still love the world and idea but I can't view the story the same way again.
 
 ---
 

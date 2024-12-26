@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (9 hours later)
 > 
 > https://www.reddit.com/r/rational/comments/g0knxr/d_monday_request_and_recommendation_thread/
-> 
 
 ---
 

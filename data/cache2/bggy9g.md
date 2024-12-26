@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Sonderjye** [+3] *
+> **u/Sonderjye** [+4]  (10 hours later)
 > 
 > I thought that this was a neat way of getting Learn into the mage academy. I thought that he was going to straight out flunk the test since he hasn't studied magic theory on screen but the test is just a facade to appear fair while the actual selection process are done by Know via the knowledge she grants Scry.
-> I'm a little bummed that we won't see Learn fail and then work hard until he reaches the goal at the academy but I'm looking forward to see how he'll use his gift.
 > 
+> I'm a little bummed that we won't see Learn fail and then work hard until he reaches the goal at the academy but I'm looking forward to see how he'll use his gift.
 
-> **u/_brightwing** [+2]  *Feathered menace**
+> **u/_brightwing** [+2]  *Feathered menace* (2 days later)
 > 
 > I was so worried Lrfshmn died in the explosion in his interlude. Really looking forward to seeing more of him.
-> 
 
 ---
 

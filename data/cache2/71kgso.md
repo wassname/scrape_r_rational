@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/71kgso/challenge_companion_emulated_intelligence/
-* Score: 8
+* Score: 7
 
 * Created: 2017-09-21T16:52:13
 
@@ -16,17 +16,17 @@ See [the wiki page](https://en.wikipedia.org/wiki/Mind_uploading) for more, or i
 
 ### Comments:
 
-> **u/trekie140** [+2] *
+> **u/trekie140** [+2]  (a day later)
 > 
 > If you need some inspiration, the tabletop RPG [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) is a gold mine for story ideas related to transhumanism. Due to everyone fleeing into space after The Fall as digital minds, the ability to email yourself anywhere in the solar system has led people to congregate in like-minded communities. It is now the norm for people to purchase backup insurance for their mind while copying or altering a person's mind without consent is illegal basically everywhere.
-> The inner system is controlled by corporations who place criminals and refugees in indentured servitude due to the cost of rebuilding and producing physical bodies. The outer system is filled with every flavor of anarchist and socialist who use social networks to track labor instead of currency. There are "copyrations" made up of hundreds of copies of the same person, "soul traffickers" who sell copies of people on the black market, and whole industries based around creating simulations.
 > 
+> The inner system is controlled by corporations who place criminals and refugees in indentured servitude due to the cost of rebuilding and producing physical bodies. The outer system is filled with every flavor of anarchist and socialist who use social networks to track labor instead of currency. There are "copyrations" made up of hundreds of copies of the same person, "soul traffickers" who sell copies of people on the black market, and whole industries based around creating simulations.
 
-> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (a day later)
 > 
 > I would like to enter /u/eliezeryudkowsky's [*The Finale of the Ultimate Meta Mega Crossover*](https://www.fanfiction.net/s/5389450) as a somewhat misnamed but excellent short story.
-> Notably, it has spoiler warnings for *A Fire Upon the Deep* and *Permutation City*, which would also be fantastic entries.
 > 
+> Notably, it has spoiler warnings for *A Fire Upon the Deep* and *Permutation City*, which would also be fantastic entries.
 
 ---
 

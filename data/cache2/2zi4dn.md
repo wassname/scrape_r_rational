@@ -2,7 +2,7 @@
 
 * Author: u/Adamantium9001  *United Federation of Planets**
 * URL: https://archiveofourown.org/works/3558143
-* Score: 8
+* Score: 7
 
 * Created: 2015-03-18T19:42:49
 

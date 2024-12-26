@@ -2,7 +2,7 @@
 
 * Author: u/qznc  *Chaos Legion**
 * URL: https://www.reddit.com/r/rational/comments/2ngnkl/anybody_seen_coherence/
-* Score: 5
+* Score: 6
 
 * Created: 2014-11-26T08:32:36
 
@@ -12,31 +12,33 @@ I have read [this review](http://www.sirlin.net/posts/interstellar-and-coherence
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (5 hours later)
 > 
 > Seems like a pretty good character study, where everyone can blame their irrationality on a comet. The claim that it "does for quantum physics what *Looper* did for time travel" throws me off, since there's nothing particularly quantum in the trailer. But hey, the reviews are good, and I'm a big fan of those *Blair Witch Project* style natural-script stories, so I'd certainly be interested in watching it. Needless to say, I'll be monitoring this thread.
-> ETA: Skimming the review. Tired of scrolling past pages of unoriginal *Interstellar* critiques. I **liked** that movie, dammit. If you're worried about the science so much, [there's literally a book about that](http://www.amazon.com/The-Science-Interstellar-Kip-Thorne/dp/0393351378), and it's quite good at justifying the film. And no, love didn't actually matter, like, at all, that was just Nolan putting themes on top of it. As a story, it's great; as hard science fiction, it falls a bit short. But it wasn't meant to be judged as hard science fiction! So don't.
-> Also, that soundtrack was objectively amazing, no matter what he says.
-> I wonder how he's gonna 180° into applauding a story whose premise seems to be that a comet causes parallel universes to run into each other …
 > 
+> ETA: Skimming the review. Tired of scrolling past pages of unoriginal *Interstellar* critiques. I **liked** that movie, dammit. If you're worried about the science so much, [there's literally a book about that](http://www.amazon.com/The-Science-Interstellar-Kip-Thorne/dp/0393351378), and it's quite good at justifying the film. And no, love didn't actually matter, like, at all, that was just Nolan putting themes on top of it. As a story, it's great; as hard science fiction, it falls a bit short. But it wasn't meant to be judged as hard science fiction! So don't.
+> 
+> Also, that soundtrack was objectively amazing, no matter what he says.
+> 
+> I wonder how he's gonna 180° into applauding a story whose premise seems to be that a comet causes parallel universes to run into each other …
 
->> **u/Nevereatcars** [+0]  *The Greatest Is Behind**
+>> **u/Nevereatcars** [+0]  *The Greatest Is Behind* (2 days later)
 >> 
 >> I also liked Interstellar, additional assertions of brotherhood and commonality. The music, though, I didn't like at all. Sweeping, dramatic orchestral scores are fine, but there's a time for them, and when the sweeping orchestral scores are literally so loud that I can't hear plot-relevant dialogue, You're Doing It Wrong.
->> I didn't know what Coherence was and clicked this thread from curiosity. Having seen the trailer now, I will continue my disinterest. Internet Guy Away!
 >> 
+>> I didn't know what Coherence was and clicked this thread from curiosity. Having seen the trailer now, I will continue my disinterest. Internet Guy Away!
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (12 hours later)
 > 
 > I wasn't a big fan.
-> It's available on [pirate netflix](https://popcorntime.io/) though.
 > 
+> It's available on [pirate netflix](https://popcorntime.io/) though.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (17 hours later)
 >> 
 >> >pirate netflix
->> Did not know that this service existed. Cheers!
 >> 
+>> Did not know that this service existed. Cheers!
 
 ---
 

@@ -50,111 +50,103 @@ Next time the challenge is **Gods**. You are free to take this in whatever direc
 
 ### Comments:
 
-> **u/arenavanera** [+32] *
+> **u/arenavanera** [+31]  (3 hours later)
 > 
 > [A boring test in a room](https://medium.com/@arenavanera/a-boring-test-in-a-room-5e80f775a44)
-> 6500 words
 > 
+> 6500 words
 
->> **u/Tetrikitty** [+9] *
+>> **u/Tetrikitty** [+8]  (16 hours later)
 >> 
 >> That was amazing. I really liked the logic puzzle - it was legitimately challenging, but not so much as to be unsolvable. The ending also plays off very well with the setting.
->> 
 
->>> **u/Tetrikitty** [+3] *
+>>> **u/Tetrikitty** [+4]  (17 hours later)
 >>> 
 >>> On a re-read, I noticed that Ashley's name changes to Alice halfway through.
->>> 
 
->>> **u/arenavanera** [+3] *
+>>> **u/arenavanera** [+3]  (a day later)
 >>> 
 >>> Thanks!
->>> (Thanks also for noticing the name error; just went through and fixed those.)
 >>> 
+>>> (Thanks also for noticing the name error; just went through and fixed those.)
 
->> **u/eniteris** [+3] *
+>> **u/eniteris** [+5]  (7 days later)
 >> 
 >> Not the biggest fan; but still well done.
->> I was hung up on the single-demon problem; that's probably my bad.
->> But I also don't trust people's memories. I mean, if you had everyone assign their belief in their memory's accuracy, the coffeeshop and the rally would be of suspicion. Pvetre shows strong belief in the existence of Veera, but Ashley only has a (relatively) weak belief in the existence of Pvetre. And Ashley <-> Tom and Josh <-> Graff, so I would have picked Pvetre.
->> I also didn't anticipate the rector having planted the demon months/years before, but that would only invalidate the photo of Veera.
 >> 
+>> I was hung up on the single-demon problem; that's probably my bad.
+>> 
+>> But I also don't trust people's memories. I mean, if you had everyone assign their belief in their memory's accuracy, the coffeeshop and the rally would be of suspicion. Pvetre shows strong belief in the existence of Veera, but Ashley only has a (relatively) weak belief in the existence of Pvetre. And Ashley <-> Tom and Josh <-> Graff, so I would have picked Pvetre.
+>> 
+>> I also didn't anticipate the rector having planted the demon months/years before, but that would only invalidate the photo of Veera.
 
->>> **u/arenavanera** [+3] *
+>>> **u/arenavanera** [+3]  (11 days later)
 >>> 
 >>> That's a fair point.  I've had this problem before too; it's surprisingly hard to put a logic puzzle into a story without it having out-of-band solutions you didn't think of, and it's hard to present the information for the logic puzzle in such a way that it's 100% trustworthy.
->>> 
 
->> **u/Kishoto** [+4] *
+>> **u/Kishoto** [+4]  (9 days later)
 >> 
 >> That was rather interesting. I was drawn in quickly; I love reading about logic puzzles, though I'm admittedly not that good at solving them. I have two questions, one I'm sure you can answer and one you may not want to.
->> 1. Is it possible for us, as the reader, to figure out who the demon(s) was with only the information the test takers had?
->> 2. Who was the demon(s)?
 >> 
+>> 1. Is it possible for us, as the reader, to figure out who the demon(s) was with only the information the test takers had?
+>> 
+>> 2. Who was the demon(s)?
 
->>> **u/arenavanera** [+4] *
+>>> **u/arenavanera** [+4]  (11 days later)
 >>> 
 >>> It isn't possible to figure out with 100% certainty who the demons are with the information the test takers have.  If you grant the assumptions Graff mentions (most importantly, no human conspirators and no demons planted months before), it still isn't possible to be 100% sure that you've identified all the demons, but it's possible to identify Ashley and Tom as demons.  The real trick, though, is noticing that the Rector didn't actually say that you pass if you correctly identify a demon.  He just says that "the test is over" in that case.  (Ashley misquotes him to try and trick everyone into holding a vote, because the "correct" answer is not to hold a vote at all.)
->>> One of the things I kind of dislike about this story is that there are a bunch of clever things stepping on each other's toes.  I think if I were doing this again I would pick one clever thing to be the "answer" (probably either "there can be more than one demon" or "the correct answer is not to vote"), change the statement of the rules to be more clear-cut, and remove ~2000 words.
 >>> 
+>>> One of the things I kind of dislike about this story is that there are a bunch of clever things stepping on each other's toes.  I think if I were doing this again I would pick one clever thing to be the "answer" (probably either "there can be more than one demon" or "the correct answer is not to vote"), change the statement of the rules to be more clear-cut, and remove ~2000 words.
 
->>>> **u/tonytwostep** [+1] *
+>>>> **u/tonytwostep** [+1]  (14 days later)
 >>>> 
 >>>> I loved the story, but I agree that the "dual clever answers" kind of clashed. Like, it was cool to figure out that Ashley and Tom were demons, but ultimately made no difference in the end (other than to allow Graff to impress the rector); they could have figured out the waiting part either way.
->>>> If the test *did* end in success when all the demons were found, then (a) the focus would have been on Graff's deduction abilities, and (b) it would have allowed Graff to locate all possible demons (after Ashley and Tom are voted out, if the test didn't end, they could have had Graff and Josh vote for Pvetre and Veera vote against).
 >>>> 
+>>>> If the test *did* end in success when all the demons were found, then (a) the focus would have been on Graff's deduction abilities, and (b) it would have allowed Graff to locate all possible demons (after Ashley and Tom are voted out, if the test didn't end, they could have had Graff and Josh vote for Pvetre and Veera vote against).
 
->> **u/ardetor** [+3] *
+>> **u/ardetor** [+3]  (6 hours later)
 >> 
 >> That was pretty interesting, I liked it.
->> One question though: What is Graff's name an aptronym for? I assume it's a reference to Colonel Graff from the Enderverse, but I don't quite understand why.
 >> 
+>> One question though: What is Graff's name an aptronym for? I assume it's a reference to Colonel Graff from the Enderverse, but I don't quite understand why.
 
->>> **u/arenavanera** [+4] *
+>>> **u/arenavanera** [+5]  (14 hours later)
 >>> 
 >>> A graph in the CS sense (http://web.cecs.pdx.edu/~sheard/course/Cs163/Graphics/graph4.png).  When I was first writing the story I had him drawing graphs on the board while he was explaining things, but I cut that because it was too hard to draw in non-monospaced ASCII art.  In retrospect I probably should have considered renaming him at that point.
->>> 
 
->> **u/Covane** [+2]  *Dragon Army**
+>> **u/Covane** [+2]  *Dragon Army* (2 days later)
 >> 
 >> my goodness that was superb
->> 
 
->>> **u/Covane** [+1]  *Dragon Army**
+>>> **u/Covane** [+1]  *Dragon Army* (2 days later)
 >>> 
 >>> /u/flagamuffin
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 days later)
 >> 
 >> Good story but I'm a bit confused by the ending. So they were correct in guessing taht one or both of Ashley and Tom were the demon?But only graff really passed because he wanted to wait?
->> 
 
->>> **u/arenavanera** [+3] *
+>>> **u/arenavanera** [+3]  (4 days later)
 >>> 
 >>> They all "passed" because they waited and didn't hold a vote with incomplete information.  Graph passed for realsies because the demons reported back to the Rector that he'd done several clever things over the course of the test.
->>> 
 
->>>> **u/thrawnca** [+3]  *Carbon-based biped**
+>>>> **u/thrawnca** [+3]  *Carbon-based biped* (9 days later)
 >>>> 
 >>>> > Graph passed for realsies
->>>> ...or, at least, that's what he was told.
 >>>> 
+>>>> ...or, at least, that's what he was told.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 days later)
 >>>> 
 >>>> so could the others have passed as well if some of them had come up with useful ideas?
->>>> 
 
->>>>> **u/arenavanera** [+5] *
+>>>>> **u/arenavanera** [+4]  (4 days later)
 >>>>> 
 >>>>> Yup.  The in-universe explanation is that Demonologists used to be extremely careful about who they taught, but were forced for political reasons to lower their standards for entry to the Demonarium, so they ostensibly admit a large number of people and then select the most impressive ones to get an actual education.
->>>>> 
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (4 days later)
 >>>>>> 
 >>>>>> Yeah I understoodthat bit, just not what Graff had specifically done which put him ahead of the others.
->>>>>> 
 
 ---
 

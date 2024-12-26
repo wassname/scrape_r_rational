@@ -2,7 +2,7 @@
 
 * Author: u/Veedrac *
 * URL: https://royalroadl.com/fiction/10286/the-good-student/chapter/140180/chapter-eighteen
-* Score: 44
+* Score: 45
 
 * Created: 2017-06-04T17:58:09
 
@@ -12,91 +12,93 @@
 
 ### Comments:
 
-> **u/Cryxx** [+11] *
+> **u/Cryxx** [+11]  (an hour later)
 > 
 > So apparently this is really good, but I just haven't managed to bring myself to read this yet. The synopsis on royalroad just isn't doing it for me. At all. Not that anything off-putting is there, it just doesn't capture my imagination.
-> Would an enthusiast mind selling me on this? I'd like an excuse to move this towards the top of my to read pile, if only to have something I can join the comment threads on.
 > 
+> Would an enthusiast mind selling me on this? I'd like an excuse to move this towards the top of my to read pile, if only to have something I can join the comment threads on.
 
->> **u/GlueBoy** [+19]  *anti-skub**
+>> **u/GlueBoy** [+19]  *anti-skub* (2 hours later)
 >> 
 >> Someone here called it competency porn, and I'd agree. It scratches a similar itch as Mother of Learning, imo. If you like one, you'd like the other. 
->> In addition, the MC is sympathetic and has a clear, relatable goal from the very start, the worldbuilding is decent, and the side characters are all interesting and well realized. And it's [RT].
 >> 
+>> In addition, the MC is sympathetic and has a clear, relatable goal from the very start, the worldbuilding is decent, and the side characters are all interesting and well realized. And it's [RT].
 
->>> **u/over_who** [+8]  *Aleph you are going to die**
+>>> **u/over_who** [+7]  *Aleph you are going to die* (3 hours later)
 >>> 
 >>> While I agree it was all of the above at the start, I think the quality has severely declined and the story has little shape or progression. I recommend giving this a pass.
->>> 
 
->>>> **u/GlueBoy** [+12]  *anti-skub**
+>>>> **u/GlueBoy** [+12]  *anti-skub* (6 hours later)
 >>>> 
 >>>> The only issue I have with the story lately is that the author is leaving hooks as if the story is a daily rather than a weekly updated one. It feels unsatisfying to read because things seem to be moving very slowly. Maybe he'll start to update this more often soon, like with his other story.
->>>> 
 
->> **u/IgonnaBe3** [+5] *
+>> **u/IgonnaBe3** [+7]  (5 hours later)
 >> 
 >> So if you liked the authors previous work "How to Avoid Death on a Daily Basis" then i would say that this one is even better.
->> Characters that have simple and clear motivations from the start. They are extremaly relatable too. And ofcourse they are intelligent and competent, i would say too competent but thats rather my personnal opinion and bias.
->> The setting is interesting to say the least, its fleshed out rather well considered the wordcount.
->> And its a magic academy, if you are a fan of those you will like this one... I think
->> To sumarize its a well crafted piece of fantasy with a relatable protagonist that is competent, an interesting world in it and political intrigue thrown in.
->> In terms of how it compares to the authors previous work. As i said its better. His characters always followed simple motivations that were established pretty early which is a good thing. But in this one we have a more thightly knit world with none of the weird tone shifts, annoying accents and a comedy that works atleast for me. Another problem with his previous work for was that it wasnt that well thought out. The pragmatic mc was interesting but the group of idiots that sometimes was suddenly smart didnt hold up. Instead of the group of missfits that work well together we have the smart mc that is hateful oh himself and other people and some other bunch of losers that he is the leader of. In this one we havent had enough time yet to apreciate the whole group working together but they play off each other really well. The banter between them serves for better comedic relief. The plot makes more sense(better planned story). Even the world makes more sense and is netter presented.
->> In the end, yes its good i recommend it although i dont know ur reading queue. Its centaurlu easier to get into than other things because of its format.
->> Sorry for the messy comment, i am on mobile
 >> 
+>> Characters that have simple and clear motivations from the start. They are extremaly relatable too. And ofcourse they are intelligent and competent, i would say too competent but thats rather my personnal opinion and bias.
+>> 
+>> The setting is interesting to say the least, its fleshed out rather well considered the wordcount.
+>> 
+>> And its a magic academy, if you are a fan of those you will like this one... I think
+>> 
+>> To sumarize its a well crafted piece of fantasy with a relatable protagonist that is competent, an interesting world in it and political intrigue thrown in.
+>> 
+>> In terms of how it compares to the authors previous work. As i said its better. His characters always followed simple motivations that were established pretty early which is a good thing. But in this one we have a more thightly knit world with none of the weird tone shifts, annoying accents and a comedy that works atleast for me. Another problem with his previous work for was that it wasnt that well thought out. The pragmatic mc was interesting but the group of idiots that sometimes was suddenly smart didnt hold up. Instead of the group of missfits that work well together we have the smart mc that is hateful oh himself and other people and some other bunch of losers that he is the leader of. In this one we havent had enough time yet to apreciate the whole group working together but they play off each other really well. The banter between them serves for better comedic relief. The plot makes more sense(better planned story). Even the world makes more sense and is netter presented.
+>> 
+>> In the end, yes its good i recommend it although i dont know ur reading queue. Its centaurlu easier to get into than other things because of its format.
+>> 
+>> Sorry for the messy comment, i am on mobile
 
->>> **u/talks2deadpeeps** [+5]  *The Culture**
+>>> **u/talks2deadpeeps** [+6]  *The Culture* (9 hours later)
 >>> 
 >>> I hate his other work, but this one is alright. It's not great, but it's good enough to read if you've nothing better to do.
->>> 
 
->>>> **u/IgonnaBe3** [+5] *
+>>>> **u/IgonnaBe3** [+4]  (11 hours later)
 >>>> 
 >>>> i wasnt a fan of his previous work either. It has an interesting subversion on the isekai genre with an interesting protagonist at the begining but you could tell it was his first attempt. He wrote a lot and now he is simply a better writer.
->>>> I would say that the good student (for now) is on the level of MoL or slightly behind it because of pacing.
->>>> I stopped reading his previous novel pretty quickly because of the previously mentioned flaws which annoyed me to the high heavens but its nice to see his evolution as a writer. I think he improved a lot with this one.
 >>>> 
+>>>> I would say that the good student (for now) is on the level of MoL or slightly behind it because of pacing.
+>>>> 
+>>>> I stopped reading his previous novel pretty quickly because of the previously mentioned flaws which annoyed me to the high heavens but its nice to see his evolution as a writer. I think he improved a lot with this one.
 
-> **u/IgonnaBe3** [+8] *
+> **u/IgonnaBe3** [+9]  (4 hours later)
 > 
 > Oh boy what do we have here.
-> A surprising chapter to be sure, especially the end. I just have hope that simole doesnt die, she was a nice character and although her death could lead to character plot progression it wont have as much of an impact.
-> On the other hand things are kicking into full gear. I wonder when simoles father shows up.
 > 
+> A surprising chapter to be sure, especially the end. I just have hope that simole doesnt die, she was a nice character and although her death could lead to character plot progression it wont have as much of an impact.
+> 
+> On the other hand things are kicking into full gear. I wonder when simoles father shows up.
 
->> **u/Anderkent** [+3] *
+>> **u/Anderkent** [+3]  (12 hours later)
 >> 
 >> >  I just have hope that simole doesnt die
->> Honestly, Simole surviving would disappoint me on a meta level - it just seems like such a cheap cliffhanger if she's actually OK.
 >> 
+>> Honestly, Simole surviving would disappoint me on a meta level - it just seems like such a cheap cliffhanger if she's actually OK.
 
->>> **u/KilotonDefenestrator** [+3] *
+>>> **u/KilotonDefenestrator** [+3]  (a day later)
 >>> 
 >>> Huh. I figured it was some kind of possession or doppelganger deal going on, because the character seems so central and has a bunch of threads loose (dragon master, father in prison, spec ops guards (why?), angering other students, etc).
->>> 
 
->>> **u/IgonnaBe3** [+1] *
+>>> **u/IgonnaBe3** [+1]  (21 hours later)
 >>> 
 >>> as i said personally i think she hasnt been given enough time to develop to make her death memorable and impactful. But i agree if the author pulls some cheap cliff hanger i will call BS. Now that he wrote it like that i expect consequences
->>> 
 
-> **u/thecommexokid** [+3] *
+> **u/thecommexokid** [+3]  (a day later)
 > 
 > Still tentatively enjoying this story, but increasingly less on board with calling it 'rational'. Over the last several weeks the relationship between Nic and Dizzy, as well as between Nic and the librarian, have seemed very much driven by the author's plot requirements rather than a consistent model of the characters involved.
-> 
 
-> **u/Cryxx** [+3] *
+> **u/Cryxx** [+3]  (9 hours later)
 > 
 > Well, I "started" reading. Although this is interesting, I must say I'd have enjoyed a story line where Nic left Dizzy in the dust, and had her crawling back after realizing that he really was over her. But this is probably just leftover vindictiveness from reading so much Worm fanfiction, as worm canon features a brutal betrayal and shunning between former best friends. At school.
-> Anyway, while this is all very suspenseful, I have to agree with one reviewer who remarked that the pacing and plot seem to have become rather chaotic in this latest chapter. I hope it'll look more ordered as part of the bigger picture.
 > 
+> Anyway, while this is all very suspenseful, I have to agree with one reviewer who remarked that the pacing and plot seem to have become rather chaotic in this latest chapter. I hope it'll look more ordered as part of the bigger picture.
 
-> **u/thrawnca** [+1]  *Carbon-based biped**
+> **u/thrawnca** [+1]  *Carbon-based biped* (4 days later)
 > 
 > they were fairly tales/they were fairy tales
-> fiveyears/five years
 > 
+> fiveyears/five years
 
 ---
 

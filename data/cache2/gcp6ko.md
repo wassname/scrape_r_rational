@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/Makin-** [+3]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+3]  *homestuck ratfic, you can do it* (7 minutes later)
 > 
 > Worth the Candle starts in a sorta-post-apocalypse zombie setting, but that's just the first book. It's got a plot device that "contains" multiple apocalyptic settings called Exclusion Zones, and several are visited throughout the story.
-> CORDYCEPS is a horror story with some rationalist themes.
 > 
+> CORDYCEPS is a horror story with some rationalist themes.
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (6 hours later)
 > 
 > Please utilize the pinned Monday Requests thread for such, well, requests.
-> Although the thread is going to be replaced in about 20 hours, so that might be a better time to post anyhow.
 > 
+> Although the thread is going to be replaced in about 20 hours, so that might be a better time to post anyhow.
 
 ---
 

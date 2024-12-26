@@ -20,211 +20,205 @@ PS: I started thinking about it after watching this: [Unlimited Rice Pudding - E
 
 ### Comments:
 
-> **u/None** [+16] *
+> **u/None** [+16]  (an hour later)
 > 
 > [removed]
-> 
 
->> **u/abcd_z** [+8] *
+>> **u/abcd_z** [+8]  (15 hours later)
 >> 
 >> "Point of order: issues related to Hitler’s service in the Bavarian Army ought to go in the World War I forum."
->> 
 
->> **u/quark_epoch** [+4] *
+>> **u/quark_epoch** [+4]  (7 days later)
 >> 
 >> WHOA! Incredibly glad you send this across my way. Loved it.
->> 
 
-> **u/hzla00** [+16] *
+> **u/hzla00** [+14]  (7 hours later)
 > 
 > Timeline by Michael Crichton sounds like exactly what you're looking for minus the magic. It's about a group of history students who travel back to 14th century France to rescue their professor. 
-> Crichton, best known for Jurassic Park, is also well known for investing heavy research into his works and it really shows in his construction of the historical setting. From the language, to the customs and combat, it's so realistic that I was able to choose this book from a pre-approved list of books to write a report on back in high school history class. 
-> It's not like the ratfics usually recommended on this sub as it's a traditional Sci-fi novel with no magic. However, it's definitely rational-adjacent and educational with a compelling plot.
 > 
+> Crichton, best known for Jurassic Park, is also well known for investing heavy research into his works and it really shows in his construction of the historical setting. From the language, to the customs and combat, it's so realistic that I was able to choose this book from a pre-approved list of books to write a report on back in high school history class. 
+> 
+> It's not like the ratfics usually recommended on this sub as it's a traditional Sci-fi novel with no magic. However, it's definitely rational-adjacent and educational with a compelling plot.
 
->> **u/DAL59** [+2] *
+>> **u/DAL59** [+2]  (16 hours later)
 >> 
 >> The movie is really, really bad though.
->> 
 
->> **u/quark_epoch** [+1] *
+>> **u/quark_epoch** [+1]  (7 days later)
 >> 
 >> Oh, that sounds really interesting. I'll check it out. Thanks.
->> 
 
-> **u/ketura** [+19]  *Organizer**
+> **u/ketura** [+18]  *Organizer* (55 minutes later)
 > 
 > Branches on the Tree of Time (Terminator fanfic by Alexander Wales).
-> 
 
->> **u/Kachajal** [+6] *
+>> **u/Kachajal** [+5]  (15 hours later)
 >> 
 >> Probably the best piece of time-travel related fiction I've read so far. Can't recommend this highly enough.
->> 
 
->>> **u/baniel105** [+1] *
+>>> **u/baniel105** [+1]  (2 days later)
 >>> 
 >>> Is it still good if you're not very familiar with the setting? I've only seen Terminator 2.
->>> 
 
->>>> **u/redrach** [+3] *
+>>>> **u/redrach** [+3]  (3 days later)
 >>>> 
 >>>> That's all you need.
->>>> 
 
->> **u/tjhance** [+2] *
+>> **u/tjhance** [+2]  (16 hours later)
 >> 
 >> not really what OP is looking for, is it?
->> 
 
-> **u/Pacific_Rimming** [+17] *
+> **u/Pacific_Rimming** [+16]  (3 hours later)
 > 
 > I'm probably beating an undead horse here, since it gets recommended so often on this sub, but I just started reading it myself: [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning), 823k words long.
-> I'm on chapter 8 currently and really liking it so far. The main character is a wizard student who is stuck in a month long time loop and he doesn't know why.
 > 
+> I'm on chapter 8 currently and really liking it so far. The main character is a wizard student who is stuck in a month long time loop and he doesn't know why.
 
->> **u/Watchful1** [+10] *
+>> **u/Watchful1** [+9]  (4 hours later)
 >> 
 >> What do you mean the epilogue is missing? It was released months ago.
->> 
 
->>> **u/Pacific_Rimming** [+3] *
+>>> **u/Pacific_Rimming** [+5]  (6 hours later)
 >>> 
 >>> Oh is it? I was just looking at the author's notes on their fictionpress page, I didn't realize it's not up to date.
->>> 
 
->> **u/I_Probably_Think** [+5] *
+>> **u/I_Probably_Think** [+6]  (16 hours later)
 >> 
 >> I like MoL but I believe the OP here is looking specifically for *historically educational*, as in, “teaches the reader about actual Earth history”
->> 
 
-> **u/Nimelennar** [+6] *
+> **u/Nimelennar** [+6]  (17 hours later)
 > 
 > I'm going to recommend a classic:
-> [A Connecticut Yankee in King Arthur's Court](https://www.gutenberg.org/files/86/86-h/86-h.htm)
-> It's more based on the Morte D'Arthur than on real history, but it looks at some realities of medieval life that often get romanticized away.
 > 
+> [A Connecticut Yankee in King Arthur's Court](https://www.gutenberg.org/files/86/86-h/86-h.htm)
+> 
+> It's more based on the Morte D'Arthur than on real history, but it looks at some realities of medieval life that often get romanticized away.
 
->> **u/PastafarianGames** [+1] *
+>> **u/PastafarianGames** [+1]  (2 days later)
 >> 
 >> I came to this thread to post this, so... seconded!
->> 
 
-> **u/FireCire7** [+6] *
+> **u/FireCire7** [+5]  (5 hours later)
 > 
 > The End of Eternity (Asimov) is classic.  It’s not the most rational but I enjoyed it. It involves traveling to various different time periods with some prep. It’s all far future to future time travel, so nothing historically relevant. It involves atemporal scheming and some unexpected twists.
-> 
 
-> **u/MyLife-is-a-diceRoll** [+5] *
+> **u/MyLife-is-a-diceRoll** [+5]  (5 hours later)
 > 
 > Check out the novel called Time Ships
-> 
 
->> **u/The_Northern_Light** [+6] *
+>> **u/The_Northern_Light** [+4]  (10 hours later)
 >> 
 >> You neglected to mention its Stephen Baxter's *authorized* sequel to H. G. Wells' The Time Machine.
->> 
 
->>> **u/MereInterest** [+2] *
+>>> **u/MereInterest** [+2]  (a day later)
 >>> 
 >>> That it is by Stephen Baxter and is a sequel to The Time Machine is a good point.  Out of curiosity, why emphasize that it is an authorized sequel?  They feels to me to be the least useful part of the recommendation, typically having to do merely with legal formalities, and not about the quality of the work itself.  (And is doubly irrelevant in this case, as The Time Machine is in the public domain.)
->>> 
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+5]  (3 hours later)
 > 
 > Palimpsest by Charles Stross - https://en.wikipedia.org/wiki/Palimpsest_(novella) - is a collection of entertaining, often rational stories, some involving time travel.
-> 
 
-> **u/LimeDog** [+4] *
+> **u/LimeDog** [+5]  (4 hours later)
 > 
 > [Doomsday Book](https://en.wikipedia.org/wiki/Doomsday_Book_\(novel\)) by  Connie Willis is a nice time travel jaunt by Oxford historians to the medieval past.
-> 
 
-> **u/DAL59** [+2] *
+> **u/DAL59** [+2]  (16 hours later)
 > 
 > The Xeelee Sequence features heavy use of internally consistant time travel, and the author is a physicist, but is very hard to get into and is all over the place.  For example, one book is about a secret society in ancient rome, and then another is about tiny people inside a neutron star, and then a massive alien war, and then a mission to proxima centauri across a multiverse.  I genuinely do not understand what is going on anymore.
-> 
 
->> **u/EsquilaxM** [+2] *
+>> **u/EsquilaxM** [+2]  (2 days later)
 >> 
 >> Hahaha I was going to ask if all those plot points were related but then read your final sentence.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+1]  (3 hours later)
 > 
 > [removed]
-> 
 
->> **u/Pacific_Rimming** [+13] *
+>> **u/Pacific_Rimming** [+13]  (4 hours later)
 >> 
 >> Orson Scott Card... yikes....
->> So much wasted talent on a bigot. Ngl, after reading the wikipedia summary of The Redemption of Christopher Columbus, I'm more upset over what this book could have been.
->> The time travelers come up with the following ideas >!on how to strengthen the Native Americans:!<
->> > >!They use genetically-engineered viruses to spread immunity to Old World diseases...!<
->> ...yes, yes good..
->> > >!and work to strengthen Indian society for the coming European contact, including by spreading a pseudo-Christian religion among them...!<
->> BIG FUCKING YIKES
->> > >!and outlawing human sacrifice.!<
->> >!Love the implication here that all native Americans are inherently obsessed with human sacrifice.!<
->> You could write this off as it "being a book off it's time" with it being written in the ancient time of 1996 /s but seeing as the author is OSC I very much doubt it.
->> >!Columbus also seems to regret the monster he would inevitably turn into but may I ask why would you want to redeem Columbus to begin with? Like if we wanted to redeem baby Hitler, I doubt many people would enjoy reading it besides people who already *want* to forgive Hitler aka nazi apologists. Columbus is viciously hated for a reason by native Americans. Proselytizing is bad actually.!<
->> >!I also have to acknowledge that while this is an alternative timeline story, it pretends as if everything pre Columbus going to America is fact and not revisionist. Like no, Columbus was always a huge fucking asshole and everyone at the Portuguese court hated him.!<
 >> 
+>> So much wasted talent on a bigot. Ngl, after reading the wikipedia summary of The Redemption of Christopher Columbus, I'm more upset over what this book could have been.
+>> 
+>> The time travelers come up with the following ideas >!on how to strengthen the Native Americans:!<
+>> 
+>> > >!They use genetically-engineered viruses to spread immunity to Old World diseases...!<
+>> 
+>> ...yes, yes good..
+>> 
+>> > >!and work to strengthen Indian society for the coming European contact, including by spreading a pseudo-Christian religion among them...!<
+>> 
+>> BIG FUCKING YIKES
+>> 
+>> > >!and outlawing human sacrifice.!<
+>> 
+>> >!Love the implication here that all native Americans are inherently obsessed with human sacrifice.!<
+>> 
+>> You could write this off as it "being a book off it's time" with it being written in the ancient time of 1996 /s but seeing as the author is OSC I very much doubt it.
+>> 
+>> >!Columbus also seems to regret the monster he would inevitably turn into but may I ask why would you want to redeem Columbus to begin with? Like if we wanted to redeem baby Hitler, I doubt many people would enjoy reading it besides people who already *want* to forgive Hitler aka nazi apologists. Columbus is viciously hated for a reason by native Americans. Proselytizing is bad actually.!<
+>> 
+>> >!I also have to acknowledge that while this is an alternative timeline story, it pretends as if everything pre Columbus going to America is fact and not revisionist. Like no, Columbus was always a huge fucking asshole and everyone at the Portuguese court hated him.!<
 
->>> **u/cthulhusleftnipple** [+16] *
+>>> **u/cthulhusleftnipple** [+17]  (7 hours later)
 >>> 
 >>> Card has this seeming obsession in shoehorning his Mormon beliefs into his work. It's so annoying, as once you start to see it you can't really ignore it, and it really ruins the story, at least for me. The spreading of religion among the American natives was such a dumb idea that it undermines the entire rest of the story. It's obviously there just there because his religion hypes the idea of Jesus having come to the Americas.
->>> 
 
->>> **u/blindsight** [+3] *
+>>> **u/blindsight** [+4]  (5 hours later)
 >>> 
 >>> That's a pretty strong opinion there, considering you haven't read the book.
->>> The Aztecs did have a lot of human sacrifice, didn't they? I thought they've found tens of thousands of skulls in some places. So what's wrong with outlawing that?
->>> The religion thing made total sense in the context of the book; they had very limited "levers" they could use to gain influence as complete outsiders, so using religion seems like an obvious choice. It did not come off as preachy, and I say this as an anti-theist.
->>> I read the book before I knew anything about OSC's personal views, so maybe I'd read it differently now, but from what I remember it's a *fantastic* example of what OP is asking for.
 >>> 
+>>> The Aztecs did have a lot of human sacrifice, didn't they? I thought they've found tens of thousands of skulls in some places. So what's wrong with outlawing that?
+>>> 
+>>> The religion thing made total sense in the context of the book; they had very limited "levers" they could use to gain influence as complete outsiders, so using religion seems like an obvious choice. It did not come off as preachy, and I say this as an anti-theist.
+>>> 
+>>> I read the book before I knew anything about OSC's personal views, so maybe I'd read it differently now, but from what I remember it's a *fantastic* example of what OP is asking for.
 
->>>> **u/None** [+0] *
+>>>> **u/None** [+0]  (11 hours later)
 >>>> 
 >>>> >The Aztecs did have a lot of human sacrifice, didn't they? I thought they've found tens of thousands of skulls in some places. So what's wrong with outlawing that?
->>>> Yikes, bruh.
 >>>> 
+>>>> Yikes, bruh.
 
->>>>> **u/blindsight** [+14] *
+>>>>> **u/blindsight** [+14]  (20 hours later)
 >>>>> 
 >>>>> I just did a Google search, and apparently human sacrifices by the Aztecs is supported by archaeological records, so what's wrong with what I said?
->>>>> Asking seriously; not sure why my comment is detracting from the conversation here.
->>>>> Edit:
->>>>> > Some post-conquest sources report that at the re-consecration of Great Pyramid of Tenochtitlan in 1487, the Aztecs sacrificed about 80,400 prisoners over the course of four days. This number is considered by Ross Hassig, author of Aztec Warfare, to be an exaggeration. Hassig states "between 10,000 and 80,400 persons" were sacrificed in the ceremony.[12] The higher estimate would average 15 sacrifices per minute during the four-day consecration. Four tables were arranged at the top so that the victims could be jettisoned down the sides of the temple.[19] Nonetheless, according to Codex Telleriano-Remensis, old Aztecs who talked with the missionaries told about a much lower figure for the reconsecration of the temple, approximately 4,000 victims in total.
->>>>> An estimated 4000+ in one ceremony, supported by modern sources.
 >>>>> 
+>>>>> Asking seriously; not sure why my comment is detracting from the conversation here.
+>>>>> 
+>>>>> Edit:
+>>>>> 
+>>>>> > Some post-conquest sources report that at the re-consecration of Great Pyramid of Tenochtitlan in 1487, the Aztecs sacrificed about 80,400 prisoners over the course of four days. This number is considered by Ross Hassig, author of Aztec Warfare, to be an exaggeration. Hassig states "between 10,000 and 80,400 persons" were sacrificed in the ceremony.[12] The higher estimate would average 15 sacrifices per minute during the four-day consecration. Four tables were arranged at the top so that the victims could be jettisoned down the sides of the temple.[19] Nonetheless, according to Codex Telleriano-Remensis, old Aztecs who talked with the missionaries told about a much lower figure for the reconsecration of the temple, approximately 4,000 victims in total.
+>>>>> 
+>>>>> An estimated 4000+ in one ceremony, supported by modern sources.
 
-> **u/Nimelennar** [+1] *
+> **u/Nimelennar** [+1]  (21 hours later)
 > 
 > Taking a closer look at this paragraph:
-> >Mainly to understand the preparations involved in packing and planning for events.
-> I have to recommend the *Time Scout* series by Robert Asprin and Linda Evans.
-> The basic premise is that a bunch of rifts opened up to past times and places, some of which are stable, some aren't.  The Time Scouts go on to new rifts and try to figure out where and when on Earth they come out.  If the rift is stable and goes to a hospitable place, companies start setting up tours to the past, and there's a lot of discussion about the kind of preparations you're asking for.
 > 
+> >Mainly to understand the preparations involved in packing and planning for events.
+> 
+> I have to recommend the *Time Scout* series by Robert Asprin and Linda Evans.
+> 
+> The basic premise is that a bunch of rifts opened up to past times and places, some of which are stable, some aren't.  The Time Scouts go on to new rifts and try to figure out where and when on Earth they come out.  If the rift is stable and goes to a hospitable place, companies start setting up tours to the past, and there's a lot of discussion about the kind of preparations you're asking for.
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (3 days later)
 > 
 > I came here just to upvote the link to [Unlimited Rice Pudding - Exurb1a](https://www.youtube.com/watch?v=wPODghAr3Vc&feature=youtu.be).
-> Ju-just straight up crying with laughter near to the end. \~10 minutes to watch and a very worthy comedy about time travel.
 > 
+> Ju-just straight up crying with laughter near to the end. \~10 minutes to watch and a very worthy comedy about time travel.
 
-> **u/Freevoulous** [+1] *
+> **u/Freevoulous** [+1]  (4 days later)
 > 
 > **Lest the Darkness fall** \- a classic about a modern linguist stranded in the final years of the Roman Empire, and trying to prevent the cultural decline. Not really a rat-fic but close enough: the protag is a smart and reasonable guy, mostly makes rational decisions, and only fails due to lack of information not bad thinking.  
-
-> **Cross-Time Engineer** \- an engineer from 20th century is stranded in 1200s a few years before the Mongol Invasion, and decides to use his technological knowledge to fight them. Again, not a typical rat-fic, more like a engi-fic (the protag sees all problems as engineering issues to be solved with technology, and fails more often at things like \[politics and diplomacy)? Not sure if it is a pro or con, but it is also the *most Red Pill and masculine series I have ever read*, easily beating Conan in that regard.
 > 
+> **Cross-Time Engineer** \- an engineer from 20th century is stranded in 1200s a few years before the Mongol Invasion, and decides to use his technological knowledge to fight them. Again, not a typical rat-fic, more like a engi-fic (the protag sees all problems as engineering issues to be solved with technology, and fails more often at things like \[politics and diplomacy)? Not sure if it is a pro or con, but it is also the *most Red Pill and masculine series I have ever read*, easily beating Conan in that regard.
 
-> **u/Badewell** [+0] *
+> **u/Badewell** [+0]  (an hour later)
 > 
 > [The Rise and Fall of D.O.D.O.](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.)
-> I wouldn't call it rational (or good), and I normally wouldn't recommend it, but the entire premise of the book is an organization that travels to different time periods several centuries ago for reasons, and the prep they do for that.
 > 
+> I wouldn't call it rational (or good), and I normally wouldn't recommend it, but the entire premise of the book is an organization that travels to different time periods several centuries ago for reasons, and the prep they do for that.
 
 ---
 

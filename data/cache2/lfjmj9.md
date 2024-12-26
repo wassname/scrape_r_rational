@@ -39,302 +39,304 @@ References:
 
 ### Comments:
 
-> **u/Valdrax** [+35] *
+> **u/Valdrax** [+39]  (3 hours later)
 > 
 > Another possible rational one:
-> FTL is cheap, terraforming is not, and comfortably habitable planets are rare enough to make an invasion worthwhile.
 > 
+> FTL is cheap, terraforming is not, and comfortably habitable planets are rare enough to make an invasion worthwhile.
 
->> **u/xachariah** [+18] *
+>> **u/xachariah** [+19]  (6 hours later)
 >> 
 >> I'm reminded of "The Road Not Taken" (1985) by Harry Turtledove, a ~20 page short story.  Apparently FTL is the scientific equivalent of inventing fire or metal tools, but that earth managed to miss it or is missing the element locally.  
->> As a result, taking over territory is orders of magnitude easier than terraforming.  Warfare is so easy in fact, that Earth is the odd one out with unique selective pressures on Earth, while the rest of space society develops differently in culture... (it's decent and short, worth the read IMO, and may be open domain as the PDF itself pops up on engines if you search.)
 >> 
+>> As a result, taking over territory is orders of magnitude easier than terraforming.  Warfare is so easy in fact, that Earth is the odd one out with unique selective pressures on Earth, while the rest of space society develops differently in culture... (it's decent and short, worth the read IMO, and may be open domain as the PDF itself pops up on engines if you search.)
 
->> **u/N0_B1g_De4l** [+9] *
+>> **u/N0_B1g_De4l** [+8]  (6 hours later)
 >> 
 >> The specific mechanics of FTL matter too. To take an extreme example, you could imagine a situation like Stargate: the aliens have a teleporter that goes to Earth, and doesn't go to Mars. They can march over to Earth with their Death Robots or War Cyborgs or whatever, but they don't have any particular space launch capability, let alone terraforming.
->> Alternatively, maybe the alien's approach to interstellar travel is to launch a really big ship at a planet which lands automatically and dumps out aliens. For whatever reason, their ship doesn't realize there's already a civilization on Earth, so they can't jump over to Mars until they establish an industrial base here.
->> Or maybe the aliens use some kind of psychic stardrive that can only go to inhabited planets. If they go too far away from a source of bio-energy, their technology starts to fail.
->> Provided you're willing to accept technical constraints on the problem, it's *relatively* easy to get "aliens are stuck with Earth" as an output.
 >> 
+>> Alternatively, maybe the alien's approach to interstellar travel is to launch a really big ship at a planet which lands automatically and dumps out aliens. For whatever reason, their ship doesn't realize there's already a civilization on Earth, so they can't jump over to Mars until they establish an industrial base here.
+>> 
+>> Or maybe the aliens use some kind of psychic stardrive that can only go to inhabited planets. If they go too far away from a source of bio-energy, their technology starts to fail.
+>> 
+>> Provided you're willing to accept technical constraints on the problem, it's *relatively* easy to get "aliens are stuck with Earth" as an output.
 
->>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (3 days later)
 >>> 
 >>> > Or maybe the aliens use some kind of psychic stardrive that can only go to inhabited planets. If they go too far away from a source of bio-energy, their technology starts to fail.
->>> The problem with that is the same with food/reproduction, how is our psychic whatever general enough to be compatible with their scanners? Does all life in the universe have DNA and circuits made of tiny spindly cells running on ionic concentration differentials?
 >>> 
+>>> The problem with that is the same with food/reproduction, how is our psychic whatever general enough to be compatible with their scanners? Does all life in the universe have DNA and circuits made of tiny spindly cells running on ionic concentration differentials?
 
->> **u/jacky986** [+3] *
+>> **u/jacky986** [+2]  (4 hours later)
 >> 
 >> I guess but war is also an expensive option. Frankly I don't see any reason why aliens with terraforming technology would want to colonize Earth when Mars is a safer option.
->> 
 
->>> **u/magictheblathering** [+11]  * The Gothamite 🦇 dot net **
+>>> **u/magictheblathering** [+14]  * The Gothamite 🦇 dot net * (5 hours later)
 >>> 
 >>> War is not expensive to a species with FTL travel. Their technological advancement over ours would likely be the equivalent of bringing an ion cannon to a knife fight.
->>> 
 
->>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram* (5 hours later)
 >>> 
 >>> Terraforming may well be way more expensive than colonization.
->>> Consider human history.
 >>> 
+>>> Consider human history.
 
->>>> **u/jacky986** [+2] *
+>>>> **u/jacky986** [+2]  (8 hours later)
 >>>> 
 >>>> Could you care to elaborate a little? I mean considering Europe colonized both the Americas and Africa without taking into account the long-term costs of such endeavors, I failed to see how colonization is less expense than terraforming.
->>>> 
 
->>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (15 hours later)
 >>>>> 
 >>>>> Terraforming is a multi thousand year project before you get any payback on your effort. That's pretty long term.
->>>>> 
 
->>>>>> **u/jacky986** [+1] *
+>>>>>> **u/jacky986** [+1]  (2 days later)
 >>>>>> 
 >>>>>> True, but one of the benefits of colonizing an uninhabited planet like Mars is that you won't have to deal with problems from the locals. Granted, you could make the rationalization that the aliens would wipe us out with their advance weaponery, but I'd like to think we would put up a fight before they conquer us. But then again maybe I'm a little too optimistic.
->>>>>> 
 
->>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>> 
 >>>>>>> If you’re sitting there dropping comets on Mars for thousands of years any locals are going to come visit long before you’re done.
->>>>>>> 
 
->>>>>>>> **u/zorianteron** [+2] *
+>>>>>>>> **u/zorianteron** [+2]  (3 days later)
 >>>>>>>> 
 >>>>>>>> I mean, there's a question of exactly how long-term a plan it really has to be.  We assume terraforming is a ten-thousand year project based on our current notions of human industrial capacity, but imagine a von neumann probe that comes into the solar system and recursively reproduces until all the space-bound matter is industry (and say it starts cracking mercury, while it's at it.)  How long would that take, given exponential growth and a relatively technologically mature level of technology?  If you were willing to spend lots of energy to get seed probes to different parts of the solar system faster, weeks, maybe?  
->>>>>>>> After that, it's a matter of 'how fast do we want those comets on mars, and what portion of the dyson sphere's energy output are we willing to spend on the project?'
 >>>>>>>> 
+>>>>>>>> After that, it's a matter of 'how fast do we want those comets on mars, and what portion of the dyson sphere's energy output are we willing to spend on the project?'
 
->>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (3 days later)
 >>>>>>>>> 
 >>>>>>>>> > but imagine a von neumann probe that comes into the solar system and recursively reproduces until all the space-bound matter is industry
->>>>>>>>> Then colonization or terraforming is irrelevant, since humanity won't survive the project. Plus, that level of civilization doesn't need to terraform Mars or colonize Earth, they'll get more use out of converting the whole solar system to Orbitals and Ships.
->>>>>>>>> Any civilization that needs planets can't be significantly ahead of us in Kardashev level. They're just another K0, maybe a bit richer.
 >>>>>>>>> 
+>>>>>>>>> Then colonization or terraforming is irrelevant, since humanity won't survive the project. Plus, that level of civilization doesn't need to terraform Mars or colonize Earth, they'll get more use out of converting the whole solar system to Orbitals and Ships.
+>>>>>>>>> 
+>>>>>>>>> Any civilization that needs planets can't be significantly ahead of us in Kardashev level. They're just another K0, maybe a bit richer.
 
->>> **u/Valdrax** [+2] *
+>>> **u/Valdrax** [+2]  (5 hours later)
 >>> 
 >>> Assuming that their needs are roughly equivalent to ours, Earth has a functional, self-regulating atmosphere complete with ozone layer and GHG to keep warm, an active magnetic field to ensure we keep it, an active carbon-oxygen cycle, and it's in the Goldilocks zone for liquid water.
->>> Getting Mars to that state is *theoretically* possible, but terraforming requires an expenditure of energy and resources on the scale of an entire planet and the resources of much of a solar system, generally over centuries, whereas fictional SF FTL usually involves energy expenditures on the scale of what can be carried along on the journey.  (Just the energy required to give Mars a rotating core capable of generating a sufficiently protective magnetic field is staggering.  It's probably be orders of magnitude cheaper to build a shield against the solar wind in between Mars and the Sun, and that's not small potatoes either.)
->>> In contrast, when you control orbits, wiping out an earthbound civilization down to the level where the survivors are essentially Stone Age primitives with a manageable fraction of their population is the effort of a few years or decades of dropping rocks from above at most.  Smash us to the bedrock, let a few generations pass to lose any remaining scientific and technical ability to resist, and return to reap the spoils.
->>> And if you get too aggressive with the bombardment, you can just leave for a while and come back to a planet that might be stuck in an Ice Age but with still living oceans, which is leagues ahead of where Mars starts -- a frozen ball of rock with almost no atmosphere or surface liquid water, mostly thanks to no magnetic fields to prevent hydrogen from getting stripped away by the solar winds, much less any kind of self-sustaining ecology.
->>> **Edit:**  That's without considering all the things that may just be impossible or expensive to engineer nicely that humans will want in other star systems:  near-Earth gravity, a day-night cycle that won't mess up our circadian rhythms, not being tidally-locked, survivable atmospheric pressure, lack of many natural contaminants like heavy metals and chloride chemistry, a good ratio of nitrogen to oxygen, gentle axial tilt giving seasons and reasonable weather, a simple tidal system due to one moon, an orbit well-cleared of dinosaur-killers, a stable star that rarely sends out solar flares beyond what a civilization can deal with, no nearby quasars to sterilize the system, etc.
->>> Planets capable of supporting *some* kind of life might be common and yet planets capable of comfortably supporting *us* might exceptionally rare gems worth the hassle of dropping rocks on monkeys.
 >>> 
+>>> Getting Mars to that state is *theoretically* possible, but terraforming requires an expenditure of energy and resources on the scale of an entire planet and the resources of much of a solar system, generally over centuries, whereas fictional SF FTL usually involves energy expenditures on the scale of what can be carried along on the journey.  (Just the energy required to give Mars a rotating core capable of generating a sufficiently protective magnetic field is staggering.  It's probably be orders of magnitude cheaper to build a shield against the solar wind in between Mars and the Sun, and that's not small potatoes either.)
+>>> 
+>>> In contrast, when you control orbits, wiping out an earthbound civilization down to the level where the survivors are essentially Stone Age primitives with a manageable fraction of their population is the effort of a few years or decades of dropping rocks from above at most.  Smash us to the bedrock, let a few generations pass to lose any remaining scientific and technical ability to resist, and return to reap the spoils.
+>>> 
+>>> And if you get too aggressive with the bombardment, you can just leave for a while and come back to a planet that might be stuck in an Ice Age but with still living oceans, which is leagues ahead of where Mars starts -- a frozen ball of rock with almost no atmosphere or surface liquid water, mostly thanks to no magnetic fields to prevent hydrogen from getting stripped away by the solar winds, much less any kind of self-sustaining ecology.
+>>> 
+>>> **Edit:**  That's without considering all the things that may just be impossible or expensive to engineer nicely that humans will want in other star systems:  near-Earth gravity, a day-night cycle that won't mess up our circadian rhythms, not being tidally-locked, survivable atmospheric pressure, lack of many natural contaminants like heavy metals and chloride chemistry, a good ratio of nitrogen to oxygen, gentle axial tilt giving seasons and reasonable weather, a simple tidal system due to one moon, an orbit well-cleared of dinosaur-killers, a stable star that rarely sends out solar flares beyond what a civilization can deal with, no nearby quasars to sterilize the system, etc.
+>>> 
+>>> Planets capable of supporting *some* kind of life might be common and yet planets capable of comfortably supporting *us* might exceptionally rare gems worth the hassle of dropping rocks on monkeys.
 
-> **u/Ozryela** [+9] *
+> **u/Ozryela** [+9]  (4 hours later)
 > 
 > One scenario you missed is where earth is basically collateral damage in a conflict between two different alien factions. For example in the first Men in Black where an alien species shows up and threatens to annihilate the planet unless we return the macguffin, which was stolen by a different alien. Another example comes from StarCraft, where the Protoss destroy Terran worlds as part of their war against the Zerg (Although technically not Earth, they are still human planets).
-> I'm sure there are other examples of this basic theme.
 > 
+> I'm sure there are other examples of this basic theme.
 
->> **u/jacky986** [+6] *
+>> **u/jacky986** [+6]  (6 hours later)
 >> 
 >> I thought that I said that in #2
->> >in a key military location between two warring alien factions.
->> Technically I wasn't thinking of MIB or of a macguffin when I was writing it, but I guess it could count.
 >> 
+>> >in a key military location between two warring alien factions.
+>> 
+>> Technically I wasn't thinking of MIB or of a macguffin when I was writing it, but I guess it could count.
 
->>> **u/Ozryela** [+2] *
+>>> **u/Ozryela** [+2]  (17 hours later)
 >>> 
 >>> I think that's different.
->>> I'm thinking of a scenario where earth is not inherently a target of the aliens, but just collateral damage. The aliens may not even want to invade earth.
->>> Imagine the following. Some alien space terrorist group is discovered hiding out on earth. The local Galactic Empire sends in the military to arrest him. It's not even an invasion force, just a small elite unit, a couple hundred thousand ships at most.
->>> They aren't attacking humans. In fact their mission is explicitly to minimize destruction of the native life forms. Before the mission was even approved, experts analyzed dozens of scenarios, and losses to native life are expected to be no more than 10% to 20%, which is considered acceptable.
 >>> 
+>>> I'm thinking of a scenario where earth is not inherently a target of the aliens, but just collateral damage. The aliens may not even want to invade earth.
+>>> 
+>>> Imagine the following. Some alien space terrorist group is discovered hiding out on earth. The local Galactic Empire sends in the military to arrest him. It's not even an invasion force, just a small elite unit, a couple hundred thousand ships at most.
+>>> 
+>>> They aren't attacking humans. In fact their mission is explicitly to minimize destruction of the native life forms. Before the mission was even approved, experts analyzed dozens of scenarios, and losses to native life are expected to be no more than 10% to 20%, which is considered acceptable.
 
->>>> **u/jacky986** [+1] *
+>>>> **u/jacky986** [+1]  (20 hours later)
 >>>> 
 >>>> Makes sense.
->>>> 
 
-> **u/archpawn** [+8] *
+> **u/archpawn** [+8]  (4 hours later)
 > 
 > [Footfall](https://en.wikipedia.org/wiki/Footfall) was pretty good. I don't remember why they decided to settle, but according to Wikipedia they were facing possible extinction because of the long-term effects of biological weapons. They need a new place to settle, and Earth already has a breathable atmosphere.
-> 
 
->> **u/TaoGaming** [+3]  *No Flair Detected!**
+>> **u/TaoGaming** [+3]  *No Flair Detected!* (20 hours later)
 >> 
 >> Footfall was OK. It's "The Towering Inferno" (or any 70s disaster movie) but with Alien Invasion. Independence Day but with some actual SF authors. Cast of hundreds (etc etc), doorstop of a book that I remember a few scenes from.
->> As to why the Aliens decided to come to Earth .... >!They were the losing side in a civil war and were exiled.!<
 >> 
+>> As to why the Aliens decided to come to Earth .... >!They were the losing side in a civil war and were exiled.!<
 
-> **u/KriegerClone02** [+7] *
+> **u/KriegerClone02** [+6]  (9 hours later)
 > 
 > Without spoiling it, Accelerando by Charlie Stross contains both a unique method of invasion and a good rational reason for it.
-> 
 
->> **u/jacky986** [+3] *
+>> **u/jacky986** [+3]  (10 hours later)
 >> 
 >> Thanks!
->> 
 
->> **u/ADotSapiens** [+2] *
+>> **u/ADotSapiens** [+2]  (23 hours later)
 >> 
 >> I'm not sure if the VO counts as an invasion.
->> 
 
-> **u/totorox92** [+6]  *Because I want to Know**
+> **u/totorox92** [+6]  *Because I want to Know* (8 hours later)
 > 
 > I'd strongly recommend checking out [Science and Futurism with Isac Arthur](https://www.youtube.com/watch?v=yXWe8g0zziw&list=PLIIOUpOge0Lu97HzMt_BJu36UMaItB1cm&ab_channel=IsaacArthur); he has done several videos on this topic.
-> As a corollary to reason 1: They might want humans as slaves because while automation is possible, general AI might be impossible or categorically unsafe. In other words, they might have robots, but the robots are not very good, so they want intelligent slaves that won't turn them into paperclips someday.
 > 
+> As a corollary to reason 1: They might want humans as slaves because while automation is possible, general AI might be impossible or categorically unsafe. In other words, they might have robots, but the robots are not very good, so they want intelligent slaves that won't turn them into paperclips someday.
 
->> **u/jacky986** [+1] *
+>> **u/jacky986** [+1]  (8 hours later)
 >> 
 >> Well, I suppose that's possible but wouldn't a civilization that relied on AI labor have failsafes in case of a revolt like restraining bolts or a shutdown code or weapons like viruses to destroy said synthetics programming.
->> 
 
->>> **u/elleasar** [+2] *
+>>> **u/elleasar** [+2]  (9 hours later)
 >>> 
 >>> There could be a fundamental reason for a tradeoff between having AI plus higher risk of escalation vs having no AI and low risk.
->>> Take having a free, open society vs a more authoritarian society. The perks of a free society enable growth in science and the arts, but makes it more vulnerable to espionage and more difficult to plan long term projects. The perks of an authoritarian system chinese style are quick execution of infrastructure projects and a guided industrial policy, but suffers from less individual freedom and less creativity.
->>> So you might not find a combination of high security and high productivity of artificial intelligence that let's you reap the benefits.
 >>> 
+>>> Take having a free, open society vs a more authoritarian society. The perks of a free society enable growth in science and the arts, but makes it more vulnerable to espionage and more difficult to plan long term projects. The perks of an authoritarian system chinese style are quick execution of infrastructure projects and a guided industrial policy, but suffers from less individual freedom and less creativity.
+>>> 
+>>> So you might not find a combination of high security and high productivity of artificial intelligence that let's you reap the benefits.
 
->>> **u/totorox92** [+2]  *Because I want to Know**
+>>> **u/totorox92** [+2]  *Because I want to Know* (23 hours later)
 >>> 
 >>> Dude. This is /rational. There is no way to make a super intelligence safe. And its possible that there is no way to build a general AI that is not also a strong general AI, or to build a general AI that cannot make itself a strong general AI.
->>> 
 
->>>> **u/Stumpy_Bumpo** [+5]  *Sunshine Regiment**
+>>>> **u/Stumpy_Bumpo** [+4]  *Sunshine Regiment* (2 days later)
 >>>> 
 >>>> Well, there is no way to trap an UFAI so that it won't achieve its goals, but a superintelligent AI designed to friendly is a different matter.
->>>> 
 
-> **u/PastafarianGames** [+5] *
+> **u/PastafarianGames** [+4]  (3 hours later)
 > 
 > Glynn Stewart's "Duchy of Terra" might be up your alley.
-> 
 
->> **u/jacky986** [+2] *
+>> **u/jacky986** [+2]  (9 hours later)
 >> 
 >> Thanks!
->> 
 
-> **u/Zarohk** [+5] *
+> **u/Zarohk** [+3]  (5 hours later)
 > 
 > What you’re looking for is [Worldfall: a Modern-Day Invasion Story](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/Worldfall). Told in the style of *World War Z*, this is the story of when two invasions of Earth collide.
-> 
 
-> **u/gramineous** [+3] *
+> **u/gramineous** [+3]  (8 hours later)
 > 
 > I think you've gone a bit more narrow than necessary here. You've talked about an alien civilisation invading, rather than an alien invasion. I mean, if you've got mass produced robot/slave/etc soldiers, you only really need a single alien in command, and then the big cultural/social/resource motivations don't really matter when it could just as easily be the alien equivalent of a kid with a magnifying glass burning ants. >!(which is basically the plot of Stephen King's Under The Dome novel, but limitted to one town)!< I mean, there's enough fucked up "animal crush" porn in dark internet corners, there's no reason an alien can't be a shithead too.
-> 
 
-> **u/N0_B1g_De4l** [+2] *
+> **u/N0_B1g_De4l** [+2]  (6 hours later)
 > 
 > It's a bit similar to 2, but I think a setup like the [CoDominium](https://en.wikipedia.org/wiki/CoDominium), [Starfire](https://www.goodreads.com/series/41767-starfire), [Antares](https://www.amazon.com/gp/product/B074CG2QZ1?ref_=dbs_p_mng_rwt_ser_shvlr&storeType=ebooks), or [Vorkosigan](https://en.wikipedia.org/wiki/Vorkosigan_Saga) series does a good job of providing a rational rationale for interstellar warfare.
-> Basically, the way FTL works is that there are "warp points" that provided instantaneous travel between star systems (potentially separated by great distances in real space). This means that the number of systems accessible to any given civilization is pretty low, but that civilizations that are distant in real terms can come in contact with each-other. As noted, this is kind of like Earth being prime real estate, but rather that Earth being especially desirable it's more that there aren't very many alternatives.
-> Another thing these settings typically do is declare that FTL is relatively easy, technically speaking. This means that in addition to Sol system being the only choice the aliens have, they can't just terraform Mars or Venus into something better-suited to their needs. Arguably this is a stretch, but any kind of interstellar war scenario means a great deal of "tech tree" fuckery to avoid curbstomp scenarios, or extremely unsatisfying battle scenes.
 > 
+> Basically, the way FTL works is that there are "warp points" that provided instantaneous travel between star systems (potentially separated by great distances in real space). This means that the number of systems accessible to any given civilization is pretty low, but that civilizations that are distant in real terms can come in contact with each-other. As noted, this is kind of like Earth being prime real estate, but rather that Earth being especially desirable it's more that there aren't very many alternatives.
+> 
+> Another thing these settings typically do is declare that FTL is relatively easy, technically speaking. This means that in addition to Sol system being the only choice the aliens have, they can't just terraform Mars or Venus into something better-suited to their needs. Arguably this is a stretch, but any kind of interstellar war scenario means a great deal of "tech tree" fuckery to avoid curbstomp scenarios, or extremely unsatisfying battle scenes.
 
-> **u/serge_cell** [+2] *
+> **u/serge_cell** [+2]  (a day later)
 > 
 > Another couple of reasons:
+> 
 > * [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning). As civilization advance there are exponentially more ways open for advancing technology father. It's impossible to explore all the tech trees sprouting. Some have dead end and some end with technogenic catastrophe. Some technologies will be missed due to civilization cultural/developmental bias. To explore these missed technologies safely fresh civilizations seeded to be as diverse as possible. However then seeded civ stray too much from some promising direction corrective invasion could be used.
 > * MMORPG. Invaders drop down and play, purely for entertainment. Could be PvP. PvE is especially unpleasant for natives.
-> 
 
-> **u/AnythingMachine** [+2] *
+> **u/AnythingMachine** [+2]  (8 days later)
 > 
 > Ascent has an alien occupation of Earth for a very interesting and plausible motive (values incompatibility, saying any more would be giving it away):
-> https://ascentuniverse.wordpress.com/2017/09/28/chapter-1-necessity/
 > 
+> https://ascentuniverse.wordpress.com/2017/09/28/chapter-1-necessity/
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (5 hours later)
 > 
 > I think #6 is the only one that really makes sense unless you have some kind of interstellar transport that costs no more than a luxury yacht to build and operate.
-> Also, if you're looking for rational science fiction you're better off with written literature than media SF.
 > 
+> Also, if you're looking for rational science fiction you're better off with written literature than media SF.
 
-> **u/emofishermen** [+1] *
+> **u/emofishermen** [+1]  (5 hours later)
 > 
 > to expand on 2, i always had a thought that earth is the only habitable planet for hundreds/thousands/etc of lightyears. taking over earth could create a travel route as you said, but it could also be a secret outpost for alien governments for covert spying or experiments. earth could be the aliens' equivalent of area 51 lol
-> another thing could be that some earthling species, either humans or some other species, could be biologically similar to another alien race. either the superior human alien species tries to eliminate us for ruining their reputation, or their enemies capture us for experimenting bioweapons that would be harmful on the human aliens (which they wouldnt need to try hard for lol, as we humans have gotten very good at killing other humans)
-> i actually havent read many alien sci-fi books or other media, so idk if anything ive thought of has been explored much. i'll eventually try to find some, but i got a long list to go thru first lol
 > 
+> another thing could be that some earthling species, either humans or some other species, could be biologically similar to another alien race. either the superior human alien species tries to eliminate us for ruining their reputation, or their enemies capture us for experimenting bioweapons that would be harmful on the human aliens (which they wouldnt need to try hard for lol, as we humans have gotten very good at killing other humans)
+> 
+> i actually havent read many alien sci-fi books or other media, so idk if anything ive thought of has been explored much. i'll eventually try to find some, but i got a long list to go thru first lol
 
->> **u/jacky986** [+1] *
+>> **u/jacky986** [+1]  (5 hours later)
 >> 
 >> By human species you mean like [ultraterrestials](https://tvtropes.org/pmwiki/pmwiki.php/Main/Ultraterrestrials) from #12?
->> 
 
->>> **u/emofishermen** [+1] *
+>>> **u/emofishermen** [+1]  (5 hours later)
 >>> 
 >>> not exactly. i was thinking about if some alien species were like what MCU & popular media portray em as, aka humans but with green skin, then some of those species might not like the fact that earthlings are stupidly killing themselves & their planet. theyd kill us out of pettiness because they dont want to be compared to us
->>> ultraterrestials could easily have similar motivations for wanting humanity gone. their race of superior beings would hate being compared to a barbaric species like modern humans & would maybe even destroy the whole planet just to erase theif dark history.
->>> both reasons dont have to be because other alien species are the problem tho. plenty of empires would want the disfavorable parts to be censored, and removing humanity & earth entirely could be part of theid effort of glorifying their empire & their species
 >>> 
+>>> ultraterrestials could easily have similar motivations for wanting humanity gone. their race of superior beings would hate being compared to a barbaric species like modern humans & would maybe even destroy the whole planet just to erase theif dark history.
+>>> 
+>>> both reasons dont have to be because other alien species are the problem tho. plenty of empires would want the disfavorable parts to be censored, and removing humanity & earth entirely could be part of theid effort of glorifying their empire & their species
 
-> **u/cjet79** [+1] *
+> **u/cjet79** [+1]  (6 hours later)
 > 
 > Possible redemption of the 'harvesting resources':
-> They could just be harvesting everything in the solar system and Earth is enough of a threat that they choose to remove it first.
-> _______
-> "We Are Bob" has some invading aliens that gamma ray blast planets and then suck up all the organic compounds for reuse to grow their own populations. Its generally a rational story and pretty fun read.
-> ________
-> Another reason for invasion: Earth is just in the way of a mundane expansion. Its not important or strategic, its just that FTL doesn't exist and skipping over a solar system could mean an extra ten thousand years of travel. They don't really want to fight us, but we don't really want them strip mining the entire solar system either (even if they left Earth alone).  And we *do* have the capability of launching nukes into space, so maybe that is enough of a danger for them. Though they could just soften us up with a few asteroids before actually invading.
-> This is partially the story that takes place in half life. The Combine has an empire connected through portals, but not really FTL. And I think its necessary for the other side to open the portal for them to jump through. So they are just always going to invade when a portal opens up.
-> ________
-> Another potentially rational reason for us to be invaded: for shits and giggles. 
-> Ya it doesn't sound rational. But if you are a highly advanced alien race maybe re-enacting independence day is a fun scenario. Imagine a kid with an ant farm who chooses to introduce red ants to the black ant nest and watch them fight. The kid has any number of options for actually wiping out the ant farm, but that isn't any fun.
-> This gets even more messed up if we are the product of accelerated evolution and we were literally created for entertainment purposes.
-> Oddly I think of all the possible alien invasion scenarios this is probably the only one where we have a chance in hell of winning.
 > 
+> They could just be harvesting everything in the solar system and Earth is enough of a threat that they choose to remove it first.
+> 
+> _______
+> 
+> "We Are Bob" has some invading aliens that gamma ray blast planets and then suck up all the organic compounds for reuse to grow their own populations. Its generally a rational story and pretty fun read.
+> 
+> ________
+> 
+> Another reason for invasion: Earth is just in the way of a mundane expansion. Its not important or strategic, its just that FTL doesn't exist and skipping over a solar system could mean an extra ten thousand years of travel. They don't really want to fight us, but we don't really want them strip mining the entire solar system either (even if they left Earth alone).  And we *do* have the capability of launching nukes into space, so maybe that is enough of a danger for them. Though they could just soften us up with a few asteroids before actually invading.
+> 
+> This is partially the story that takes place in half life. The Combine has an empire connected through portals, but not really FTL. And I think its necessary for the other side to open the portal for them to jump through. So they are just always going to invade when a portal opens up.
+> 
+> ________
+> 
+> Another potentially rational reason for us to be invaded: for shits and giggles. 
+> 
+> Ya it doesn't sound rational. But if you are a highly advanced alien race maybe re-enacting independence day is a fun scenario. Imagine a kid with an ant farm who chooses to introduce red ants to the black ant nest and watch them fight. The kid has any number of options for actually wiping out the ant farm, but that isn't any fun.
+> 
+> This gets even more messed up if we are the product of accelerated evolution and we were literally created for entertainment purposes.
+> 
+> Oddly I think of all the possible alien invasion scenarios this is probably the only one where we have a chance in hell of winning.
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (2 days later)
 >> 
 >> > Another reason for invasion: Earth is just in the way of a mundane expansion.
->> "Look, the plans for the hyperspace bypass have been on file in your local galactic planning office on Alpha Centauri for the last four of your Earth years! You can't tell us you haven't heard about it *yet*, surely?"
->> --- Transmission from the Vogon Deconstructor Fleet, minutes before the destruction of Earth.
 >> 
+>> "Look, the plans for the hyperspace bypass have been on file in your local galactic planning office on Alpha Centauri for the last four of your Earth years! You can't tell us you haven't heard about it *yet*, surely?"
+>> 
+>> --- Transmission from the Vogon Deconstructor Fleet, minutes before the destruction of Earth.
 
-> **u/grekhaus** [+1] *
+> **u/grekhaus** [+1]  (6 hours later)
 > 
 > Given that biological life is functionally just naturally occuring nanotechnology, I feel like you're not giving the 'they want to harvest our natural resources' angle enough credit. Obviously they're not after water and iron, but the biochemical outputs of novel evolutionary pathways? That's one of the major selling points for conservation of the Amazon, all of that precious, precious biodiversity.
-> 
 
->> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (a day later)
 >> 
 >> Peter Watts’ novelization of Crysis 2 is along those lines— >!The aliens keep Earth—and countless other planets—as “gardens” they can harvest materials from every hundred thousand years or so, and they attack us because we’re messing with their garden. Also, the reason the invasion isn’t a complete curbstomp is because we’re just fighting the equivalent of some semi-intelligent gardening tools that were woken up prematurely and, not actually being designed for war, are just DeepMind-ing their way into a solution to “some of the native fauna are interfering with our job.”!<
->> 
 
-> **u/okaycat** [+1] *
+> **u/okaycat** [+1]  (6 hours later)
 > 
 > I think that if alien invasions do happen, it will happen for cultural/religious reasons rather then an interest in our resources.
-> Perhaps they want to spread their religion to us?  Or maybe they have some cultural imperative (white man's burden) to uplift and rule over other races.
 > 
+> Perhaps they want to spread their religion to us?  Or maybe they have some cultural imperative (white man's burden) to uplift and rule over other races.
 
->> **u/jacky986** [+1] *
+>> **u/jacky986** [+1]  (6 hours later)
 >> 
 >> Do you know of any good works of fiction that are like that?
->> 
 
-> **u/15_Redstones** [+1] *
+> **u/15_Redstones** [+1]  (22 hours later)
 > 
 > Another possibility: An uncrewed, automated alien probe that wasn't programmed with the possibility of meeting intelligent life in mind. Aliens aren't aware that we're here, they just know that the planet has biological life so they send a probe that uses local resources (screws us over) to construct a teleporter. In The Expanse, the alien probe is a virus like nanotechnology that hijacks lifeforms and repurposes them to build a stargate, but by that time the makers have been extinct for billions of years.
-> 
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (3 days later)
 > 
 > Maybe we should flip the question. Let’s think about *us*. In what realistic scenario would we turn into invaders for another planet?
-> The answer is... all of them. Like, suppose we identified one potentially close livable planet with spectroscopy. We got excited, managed to drum up enough support to send a mission. A steady stream of fusion ramscoops with cryopreserved colonists leaves the Solar System. Armed, of course, you never know. Then upon getting there, we find out the place has intelligent life. Would the official policy be “let’s invade them”? No. Would that convince a bunch of armed, hopeful colonists with a reasonable technological edge to just pack their stuff and come back, especially when they already have lots of prepackaged cultural explanations to rationalise invasion and enslavement? Also no. It’d be the Americas all over again.
 > 
+> The answer is... all of them. Like, suppose we identified one potentially close livable planet with spectroscopy. We got excited, managed to drum up enough support to send a mission. A steady stream of fusion ramscoops with cryopreserved colonists leaves the Solar System. Armed, of course, you never know. Then upon getting there, we find out the place has intelligent life. Would the official policy be “let’s invade them”? No. Would that convince a bunch of armed, hopeful colonists with a reasonable technological edge to just pack their stuff and come back, especially when they already have lots of prepackaged cultural explanations to rationalise invasion and enslavement? Also no. It’d be the Americas all over again.
 
-> **u/CronoDAS** [+1] *
+> **u/CronoDAS** [+1]  (5 days later)
 > 
 > We know today that there's no such thing as a Martian civilization, but it's a lot more practical to invade a world when you don't actually have to cross intellerstellar distances to do it; old science fiction such as "War of the Worlds" can give Martians the same kinds of motives that humans have had for crossing oceans when that was difficult.
-> 
 
-> **u/TJ333** [+1] *
+> **u/TJ333** [+1]  (6 days later)
 > 
 > Related to #3 was an old sci-fi story where aliens to to Earth to trade knowledge. The aliens only was of life was to travel between solar systems at sub-light speeds only stopping to trade and prepare for the next journey. The time scales involved meant there was no repeat business. The aliens' main trade good was knowledge pills of skills and unique experiences. The aliens' preferred option was to trade these pills collected from many other solar systems over untold years and have the locals build a giant laser to propel and power them onthe first leg of the journey to the next solar system. Building the laser would have left Earth materially impoverished, possibly for generations.
-> Earth had the options of trading and building the laser (but hey, you now have the knowledge and a giant propulsion laser to exploit the local solar system) or be used as forced labour to build the laser and produce new knowledge/experiences for pills. The aliens could also detonate a portion of the sun (and incidentally fry the Earth with radiation) to propel themselves onward.
-> Only really a traditional invasion story in option 2 but a rationalish setup.
 > 
+> Earth had the options of trading and building the laser (but hey, you now have the knowledge and a giant propulsion laser to exploit the local solar system) or be used as forced labour to build the laser and produce new knowledge/experiences for pills. The aliens could also detonate a portion of the sun (and incidentally fry the Earth with radiation) to propel themselves onward.
+> 
+> Only really a traditional invasion story in option 2 but a rationalish setup.
 
 ---
 

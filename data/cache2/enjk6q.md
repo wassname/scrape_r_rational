@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/enjk6q/rtwip_superhero_webserial_creep_updating_every/
-* Score: 34
+* Score: 36
 
 * Created: 2020-01-12T05:35:30
 
@@ -22,74 +22,65 @@ Either way, thanks for taking the time to read this post! College is starting ba
 
 ### Comments:
 
-> **u/wren42** [+7] *
+> **u/wren42** [+8]  (2 days later)
 > 
 > Every weekday sounds crazy fast. I'm not sure how anyone could keep that up while maintaining quality, and readers don't really demand that rate anyway.  Just a suggestion, but a few specific days a week will probably improve your story with more editing planning and give you more runway without hurting momentum for your readers
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (2 days later)
 >> 
 >> It's brutal, man! Yet so far, this has been the absolute largest success of any of my serials and virtually no single reader has done anything but treat the schedule with glee and praise. While I completely agree that going slower would improve quality and there have been a few times that it killed me to go on when I really wanted to do a big edit (like split a chapter in two) I got over it. The crowd has spoken, and the crowd says quantity > quality. 
->> That said, I like to think I'm a pretty decent and entertaining/meaningful writer, even at these speeds, so I would encourage you to give it a chance. I might add that if you're looking more for proper literary art than entertainment (I try my best... but *honestly*) you should probably not be reading web serials. Funny enough, I don't! :P
->> Thanks for your response. Good to know some people exist who value a more deliberate pace. As it stands, I'm just trying out a different tactic to writing. I've done weekly updates and I've done biweekly. Been at this a long time. See my RRL profile for more fiction!
->> Thanks!
 >> 
+>> That said, I like to think I'm a pretty decent and entertaining/meaningful writer, even at these speeds, so I would encourage you to give it a chance. I might add that if you're looking more for proper literary art than entertainment (I try my best... but *honestly*) you should probably not be reading web serials. Funny enough, I don't! :P
+>> 
+>> Thanks for your response. Good to know some people exist who value a more deliberate pace. As it stands, I'm just trying out a different tactic to writing. I've done weekly updates and I've done biweekly. Been at this a long time. See my RRL profile for more fiction!
+>> 
+>> Thanks!
 
->>> **u/nohat** [+4] *
+>>> **u/nohat** [+4]  (3 days later)
 >>> 
 >>> I think the big advantage of a harsh schedule like that is that it pushes writers to just write and publish without looking back, and the biggest way to improve is to actually write a lot. Of course if the outline of the plot and basics of the world aren't planned it will end up being kinda incoherent in the large scale, but often times the specific scenes, plot points and even characters tend to change as you write anyway.
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (3 days later)
 >>>> 
 >>>> Definitely. I have a definite plan, but here's hoping we don't get a big mess anyway, lol.
->>>> 
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (5 days later)
 >> 
 >> Really depends on style.  A lot of 3×/week writers write the chapter last minute anyway. Many people put out their best content when they write under pressure and the daily chapter leads to more steady progress and improvement than weekly bursts of the same lengths.
->> 
 
-> **u/narfanator** [+2] *
+> **u/narfanator** [+2]  (a day later)
 > 
 > Nice. Keep going. I read the first couple then skipped to the most recent (the level of grim isn't for me at this time) but I like the world-building in that latest chapter, and the something-to-look-forward-to. I'd like to see perspective chapters from people with wildly different characters and mindsets than Walter.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> Hey, thanks! Funny you say that - you might have seen in the author's note below that the next chapter will be an interlude. While it's not someone more 'fresh perspective' like one of the Heroes, I would definitely like to do more.
->> Thanks again for the encouragement :D
 >> 
+>> Thanks again for the encouragement :D
 
-> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (2 days later)
 > 
 > You mentioned body horror, how does the current arc compare to FoamingHam's Twig?
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (2 days later)
 >> 
 >> That must be wildbow's handle on here. I have to say, it's hard for me to judge. I think Twig probably did it more, also had a lot more time to do it. Was it *worse?* Probably. For me personally, the body-horror has not felt as scary *as I would like to end up being* if that makes sense. And that is about as bad as Twig's, with the occasional 'ew I hate parasites/that mental image' moment.
->> 
 
->>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (2 days later)
 >>> 
 >>> People shuffle ethusastic-porkers's handle with synonyms after how he twisted the nightcrawler scenes' when his name was used in the extra-apes comments section. I think the Gieco gecko, not-ziz or Miluk started it.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> You learn something new every day! I was reading back in 2011 and I must have never caught the joke.
->>>> 
 
->>>> **u/causalchain** [+1] *
+>>>> **u/causalchain** [+1]  (4 days later)
 >>>> 
 >>>> do you have a link/something to search for? this sounds amusing
->>>> 
 
->>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (4 days later)
 >>>>> 
 >>>>> Read the original comments to worm, twig and pact on pahumans.net; the readers would alter the author, wildbow's handel in the comments and occasionally accuse him of defying predictions.  All of these stories have fair and honest rational characters pursuing thier goals logically with some semblance of ethics.
->>>>> 
 
 ---
 

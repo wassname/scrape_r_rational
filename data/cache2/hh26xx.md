@@ -22,247 +22,246 @@ I'd appreciate it if you gave it a read and let me know what you think.
 
 ### Comments:
 
-> **u/mcherm** [+13] *
+> **u/mcherm** [+13]  (40 minutes later)
 > 
 > It looks like there is only one chapter so far... am I missing something?
-> 
 
->> **u/None** [+27] *
+>> **u/None** [+27]  (44 minutes later)
 >> 
 >> It's self-promotion.
->> 
 
->>> **u/mcherm** [+24] *
+>>> **u/mcherm** [+24]  (47 minutes later)
 >>> 
 >>> I don't mind self-promotion in /r/rational . But I take exception to PRETENDING to be an independent submitter. I was hoping (still am hoping) the OP would clarify.
->>> 
 
->>>> **u/glisteningsunlight** [+9] *
+>>>> **u/glisteningsunlight** [+11]  (58 minutes later)
 >>>> 
 >>>> I’m not intending to pretend to be an independent submittier. Time is my work.
->>>> 
 
->>>>> **u/Way-a-throwKonto** [+39] *
+>>>>> **u/Way-a-throwKonto** [+36]  (2 hours later)
 >>>>> 
 >>>>> Cool! If it's ok, just rewrite your post if you would. As it is, the verb tenses are passive instead of active, which leaves you out of the picture, and the whole thing reads differently if it's you who wrote vs not you.  I.e., the "I *think*..." part sounds like "This author did a pretty good job doing the rational genre right!" when you're not the author, but when you are, it reads more as "I hope I'm doing the rational genre right."  And "Give it a read" sounds like a recommendation of quality from an independent source when it's not the author, but when it's the author it's more like a request for indulgence.
->>>>> That is to say, whether you're the author in this promotion makes a big difference in how people view your work going in, and is important to include.  
->>>>> Additionally, it's not a serial yet - it's just one chapter. 
->>>>> If it were me, I'd edit it to "Time is *the first chapter in* a web serial *I'm writing*..." and "*I'd appreciate it if you would* give it a read *and let me know what you think in the comments.*"  More upfront and more constructive and aware of your role of the author that way.  But, do what you think is best - I'm just an internet rando with rando advice.
 >>>>> 
+>>>>> That is to say, whether you're the author in this promotion makes a big difference in how people view your work going in, and is important to include.  
+>>>>> 
+>>>>> Additionally, it's not a serial yet - it's just one chapter. 
+>>>>> 
+>>>>> If it were me, I'd edit it to "Time is *the first chapter in* a web serial *I'm writing*..." and "*I'd appreciate it if you would* give it a read *and let me know what you think in the comments.*"  More upfront and more constructive and aware of your role of the author that way.  But, do what you think is best - I'm just an internet rando with rando advice.
 
->>> **u/RMcD94** [+4] *
+>>> **u/RMcD94** [+4]  (46 minutes later)
 >>> 
 >>> Not following the 10:1 redditique?
->>> 
 
->> **u/glisteningsunlight** [+4] *
+>> **u/glisteningsunlight** [+4]  (57 minutes later)
 >> 
 >> There is one chapter so far. More will come soon.
->> 
 
->>> **u/mcherm** [+13] *
+>>> **u/mcherm** [+14]  (an hour later)
 >>> 
 >>> I'm not sure it's far enough along yet to get a clear idea of whether I think it is rationalist fiction, but I think it's great that it is intending to be.
->>> I'm curious: one of the key elements in time travel stories (that are rational) is what the [metaphysics](https://qntm.org/models) of time travel is. Works range from "everything is immutable, and fate conspires to make this work out despite the apparent existence of free will" ([eg](https://gist.github.com/defunkt/759182/ad44c6135d168ae54503a281bb7e1a24c6c2ea0c)) to things like "time can be changed, which is simply the actor moving to a different possible path in the multiverse" ([eg](http://www.antipope.org/charlie/blog-static/2011/12/rudy-6-time-as-a-divergent-ser.html)). But to be honest, MOST time travel stories have a metaphysics where time travel works different ways as the plot demands it.
->>> What is this story planning to do?
 >>> 
+>>> I'm curious: one of the key elements in time travel stories (that are rational) is what the [metaphysics](https://qntm.org/models) of time travel is. Works range from "everything is immutable, and fate conspires to make this work out despite the apparent existence of free will" ([eg](https://gist.github.com/defunkt/759182/ad44c6135d168ae54503a281bb7e1a24c6c2ea0c)) to things like "time can be changed, which is simply the actor moving to a different possible path in the multiverse" ([eg](http://www.antipope.org/charlie/blog-static/2011/12/rudy-6-time-as-a-divergent-ser.html)). But to be honest, MOST time travel stories have a metaphysics where time travel works different ways as the plot demands it.
+>>> 
+>>> What is this story planning to do?
 
->>>> **u/ArgentStonecutter** [+8]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+8]  *Emergency Mustelid Hologram* (an hour later)
 >>>> 
 >>>> > one of the key elements in time travel stories (that are rational) is what the metaphysics of time travel is
->>>> This.
->>>> Best time travel stories, like "All you Zombies" or "Try to Change the Past", consider the time travel mechanism itself as important as any character or story arc.
 >>>> 
+>>>> This.
+>>>> 
+>>>> Best time travel stories, like "All you Zombies" or "Try to Change the Past", consider the time travel mechanism itself as important as any character or story arc.
 
->>>>> **u/misanthropokemon** [+5] *
+>>>>> **u/misanthropokemon** [+6]  (7 hours later)
 >>>>> 
 >>>>> There's something narratively unsatisfying about the way these closed-loop type stories are causally tautological though.
->>>>> 
 
->>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (14 hours later)
 >>>>>> 
 >>>>>> Then try Psalimpsest by Charlie Stross.
->>>>>> 
 
-> **u/tjhance** [+7] *
+> **u/tjhance** [+7]  (2 hours later)
 > 
 > Hard to say much with only one chapter so far. There's no time stuff yet, just teenager stuff. The dating stuff is rather plain, but the asshole-dad stuff makes me sympathize with Emily.
+> 
 > A few comments:
+> 
 > *  Everything is center-aligned, which isn't pleasant.
 > * It was weird that Emily couldn't remember which class she was in with George given she's apparently really into him.
 > * There were a few punctuation errors at the ending quotes. Easily the worst offender was this one with the double-period,
-> > rain.”.
 > 
+> > rain.”.
 
->> **u/Solliel** [+4] *
+>> **u/Solliel** [+5]  (2 hours later)
 >> 
 >> Actually doing punctuation like that (the double period example) is common in certain dialects.
->> 
 
->>> **u/Solliel** [+3] *
+>>> **u/Solliel** [+3]  (2 hours later)
 >>> 
 >>> This is only "correct" in sentences *containing* quotes not ones that *are* quotes.
->>> 
 
->>> **u/k5josh** [+1] *
+>>> **u/k5josh** [+1]  (a day later)
 >>> 
 >>> Really? I know in British English it's more common to put punctuation outside quotation marks, and in American English it's the opposite, but I've never heard of doing *both*.
->>> 
 
->>>> **u/Solliel** [+1] *
+>>>> **u/Solliel** [+1]  (2 days later)
 >>>> 
 >>>> Yeah, it's a more logical way to do it. You treat quotes as parentheticals rather than some weird ad hoc combination of a normal sentence and a parenthetical. 
->>>> Here's an example.
->>>> He said, "I wanna go to the store.". 
->>>> The quote is treated as it's own thing like an interjection so you also need another period to end the sentence it's interjected into.
 >>>> 
+>>>> Here's an example.
+>>>> 
+>>>> He said, "I wanna go to the store.". 
+>>>> 
+>>>> The quote is treated as it's own thing like an interjection so you also need another period to end the sentence it's interjected into.
 
->>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (3 days later)
 >>>>> 
 >>>>> But even in parenthetical you don't do .).
->>>>> 
 
->>>>> **u/Law_Student** [-1] *
+>>>>> **u/Law_Student** [-1]  (6 days later)
 >>>>> 
 >>>>> I don't doubt that you've seen this done somewhere, because goodness knows that lots of people mess up the rules of punctuation around dialogue, but this is not the way that is accepted as correct by authoritative sources. The reason is that the dialogue is the sentence, it is not a sentence within a sentence.
->>>>> 
 
->>>>>> **u/Solliel** [+2] *
+>>>>>> **u/Solliel** [+2]  (6 days later)
 >>>>>> 
 >>>>>> Language is descriptive. There are no authorities on English.
->>>>>> 
 
->>>>>>> **u/Law_Student** [+1] *
+>>>>>>> **u/Law_Student** [+1]  (7 days later)
 >>>>>>> 
 >>>>>>> You've misunderstood what that means. Do you think that because there is no English pope handing down rules of grammar from on high that every imagined way of doing things is going to be regarded as equally correct?
->>>>>>> People don't think that way. There are dominant views of how grammar is done, and authorities catalogue those views. Diverging from them will make people conclude that you can't be bothered to learn how to communicate clearly.
->>>>>>> This is a useful assumption, because it keeps people adhering to one set of rules and that makes clear communication possible.
->>>>>>> So, while you can use two periods in a sentence if you want, the price is that people will assume you're making a mistake and unaware of it. If that makes you happy, then by all means, nobody will arrest you for it. But some people simply won't read your work because the author not knowing the correct rules of grammar and punctuation suggests that the quality of the rest of the work will be similarly poor.
 >>>>>>> 
+>>>>>>> People don't think that way. There are dominant views of how grammar is done, and authorities catalogue those views. Diverging from them will make people conclude that you can't be bothered to learn how to communicate clearly.
+>>>>>>> 
+>>>>>>> This is a useful assumption, because it keeps people adhering to one set of rules and that makes clear communication possible.
+>>>>>>> 
+>>>>>>> So, while you can use two periods in a sentence if you want, the price is that people will assume you're making a mistake and unaware of it. If that makes you happy, then by all means, nobody will arrest you for it. But some people simply won't read your work because the author not knowing the correct rules of grammar and punctuation suggests that the quality of the rest of the work will be similarly poor.
 
->>>>>>>> **u/Solliel** [+1] *
+>>>>>>>> **u/Solliel** [+1]  (7 days later)
 >>>>>>>> 
 >>>>>>>> The only "correct" rules of grammar are determined solely by what is mostly commonly done within each linguistic community. Your comment is such presciptivistic nonsense.
->>>>>>>> 
 
->>>>>>>>> **u/Law_Student** [+1] *
+>>>>>>>>> **u/Law_Student** [+1]  (7 days later)
 >>>>>>>>> 
 >>>>>>>>> First of all, please read and pay attention to reddiquette. It is important.
->>>>>>>>> Second, you are repeating what I said in a tone of disagreement. I think maybe you need to re-read a bit more carefully instead of being in such a rush to pick a fight.
 >>>>>>>>> 
+>>>>>>>>> Second, you are repeating what I said in a tone of disagreement. I think maybe you need to re-read a bit more carefully instead of being in such a rush to pick a fight.
 
->>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>> **u/Solliel** [+1]  (7 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I didn't repeat what you said at all. You seem to be talking about presciptivistic standards which I reject. Whereas I am talking about linguistic description which is the exact opposite.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Law_Student** [+2] *
+>>>>>>>>>>> **u/Law_Student** [+2]  (7 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> If that is what you think then you really didn't exercise sufficient care in reading. 
+>>>>>>>>>>> 
 >>>>>>>>>>> "...there is no English pope handing down rules of grammar from on high..."  
 >>>>>>>>>>> "There are dominant views of how grammar is done, and authorities catalogue those views."
->>>>>>>>>>> Do those statements sound more like prescriptivism to you, or a rejection of it?
->>>>>>>>>>> The absence of prescriptivism does not mean that there is no such thing as correct or incorrect usage. There absolutely is a consensus view on most subjects of grammar, and diverging from it is perceived as incorrect, which is for all functional purposes the same thing as being incorrect under a prescriptivist standard. 
->>>>>>>>>>> I have gone looking and been unable to find any authoritative source that recommends putting a full stop within quotation marks and then again after them, except in the special circumstance that another poster explained above. I've gone through a number of style guides that all agreed. 
->>>>>>>>>>> If you can find something to the contrary, please, I invite you to present it, but I think you may have misinterpreted an error you've seen more than once for a common practice.
 >>>>>>>>>>> 
+>>>>>>>>>>> Do those statements sound more like prescriptivism to you, or a rejection of it?
+>>>>>>>>>>> 
+>>>>>>>>>>> The absence of prescriptivism does not mean that there is no such thing as correct or incorrect usage. There absolutely is a consensus view on most subjects of grammar, and diverging from it is perceived as incorrect, which is for all functional purposes the same thing as being incorrect under a prescriptivist standard. 
+>>>>>>>>>>> 
+>>>>>>>>>>> I have gone looking and been unable to find any authoritative source that recommends putting a full stop within quotation marks and then again after them, except in the special circumstance that another poster explained above. I've gone through a number of style guides that all agreed. 
+>>>>>>>>>>> 
+>>>>>>>>>>> If you can find something to the contrary, please, I invite you to present it, but I think you may have misinterpreted an error you've seen more than once for a common practice.
 
->>>>>>>>>>>> **u/Solliel** [+0] *
+>>>>>>>>>>>> **u/Solliel** [+0]  (7 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >which is for all functional purposes the same thing as being incorrect under a prescriptivist standard. 
->>>>>>>>>>>> That's my whole point. I reject prescriptivism. If something is a mistake as in one would fix it on a second read without prompting then that is fine. I do not consider anything besides that to be incorrect. Nonstandard is *not* the same as incorrect.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> That's my whole point. I reject prescriptivism. If something is a mistake as in one would fix it on a second read without prompting then that is fine. I do not consider anything besides that to be incorrect. Nonstandard is *not* the same as incorrect.
 
->>>>>>>>>>>>> **u/Law_Student** [+2] *
+>>>>>>>>>>>>> **u/Law_Student** [+2]  (7 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> You are entitled to your opinion on how things should be, but use non-standard grammar and everyone will think it is incorrect regardless of what you think. This makes it functionally incorrect.
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>>>>>> **u/Solliel** [+1]  (7 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> Okey. It's nothing new that people are wont to be willfully ignorant. Thankfully, ignorance doesn't erase reality.
->>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>> **u/Law_Student** [+3] *
+>>>>>>>>>>>>>>> **u/Law_Student** [+3]  (7 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> You've got that reversed. By insisting on your own private grammar as perfectly correct and accepted when it isn't, you're the one being willfully ignorant in this situation. You are entitled to your opinion that English should have multiple full stops per sentence, but you are not entitled to your own fact that this is commonly accepted practice when it simply is not. That is self-delusion.
->>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>>>>>>>> **u/Solliel** [+1]  (7 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> First off, I don't use that grammar. It makes more sense but I use the version I studied years ago. I never said it was common practice merely that I thought it was common in some dialects/language communities. And I certainly never said it was accepted. There are entire dialects which aren't accepted (e.g. African-American Vernacular English). And, indeed, most non-prestige dialects are *not* accepted. I, normatively, and in accordance with science reject such non-acceptance as the ignorance it is. On this topic I am not delusional though I may be mistaken on the object-level that negates none of the general things I have stated.
->>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>> **u/Law_Student** [+3] *
+>>>>>>>>>>>>>>>>> **u/Law_Student** [+3]  (7 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> I'm having trouble wrapping my head around your position, here. You appear to be saying that you think the idea of there being accepted grammar rules is ignorant, implying that you believe that anybody should be able to make up whatever rules they want and they are all equally valid.
->>>>>>>>>>>>>>>>> I don't think you've thought this position through. First, as a factual matter, a consensus view on what is and isn't correct exists. The fact that you don't seem to like the idea of a consensus view doesn't make everyone who participates in the consensus 'ignorant' somehow. That is snide and dismissive of most of society at best, and that isn't what ignorance means anyway. Ignorance means not knowing. Ignorance does not mean in disagreement with your personal ideas. 
->>>>>>>>>>>>>>>>> Second, we all benefit from there being a consensus view and from adhering to it. The purpose of language is to clearly communicate ideas. Having one set of rules is a key part of what makes that possible. When language balkanizes it gets in the way of communication. Criticize homogeneity if you like, but it has real benefits.
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I don't think you've thought this position through. First, as a factual matter, a consensus view on what is and isn't correct exists. The fact that you don't seem to like the idea of a consensus view doesn't make everyone who participates in the consensus 'ignorant' somehow. That is snide and dismissive of most of society at best, and that isn't what ignorance means anyway. Ignorance means not knowing. Ignorance does not mean in disagreement with your personal ideas. 
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Second, we all benefit from there being a consensus view and from adhering to it. The purpose of language is to clearly communicate ideas. Having one set of rules is a key part of what makes that possible. When language balkanizes it gets in the way of communication. Criticize homogeneity if you like, but it has real benefits.
 
->>>>>>>>>>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>>>>>>>>>> **u/Solliel** [+1]  (7 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> I am a descriptivist if you don't know what that is or means you can look it up. Having one set of rules could be useful and is especially within technical communities wherein they usually choose their own. Consensus when it does exist merely determines what people *think* is correct. Language is always changing and is dependent on context. There are many language communities all with different styles. I think we disagree on a philosophical level. To make an analogy you seem like you would be a person that would dismiss climate change if they did a popular vote on its existence and 95% of people thought it was made up. So much so that you wouldn't even think of asking for scientific evidence. People are ignorant of the *science* of linguistics which says that no variety/dialect is better than any other and that usage determines what is legitimate.
->>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>> **u/KilotonDefenestrator** [+2] *
+>>>>>>>>>>>>>>>>>>> **u/KilotonDefenestrator** [+2]  (7 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> > People are ignorant of the science of linguistics which says that no variety/dialect is better than any other and that usage determines what is legitimate.
->>>>>>>>>>>>>>>>>>> Isn't the "usages determines what is legitimate" a reference to (local) consensus though? If the group that is communicating has a consensus to communicate in a certain way, then that is the language/dialect that is "legitimate" at that point in time and space?
->>>>>>>>>>>>>>>>>>> If a single member of the group picks a different way to communicate, it will be "incorrect" unless it gets enough traction to cause the consensus drift to include it.
->>>>>>>>>>>>>>>>>>> A variety/dialect can be better than another, within the scope "to clearly communicate with a certain group at a certain point in time". Like any task, the right tool for the job is better than the wrong tool.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Isn't the "usages determines what is legitimate" a reference to (local) consensus though? If the group that is communicating has a consensus to communicate in a certain way, then that is the language/dialect that is "legitimate" at that point in time and space?
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> If a single member of the group picks a different way to communicate, it will be "incorrect" unless it gets enough traction to cause the consensus drift to include it.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> A variety/dialect can be better than another, within the scope "to clearly communicate with a certain group at a certain point in time". Like any task, the right tool for the job is better than the wrong tool.
 
->>>>>>>>>>>>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>>>>>>>>>>>> **u/Solliel** [+1]  (7 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> In this context "better" refers to moral (i.e. normative) superiority not increased utility. It's sociolinguistic and the scienctific stance is identical to the one given for race, nationality, gender etc. In as much as those things exist (looking at you "biological race") no one is "better" based on wherever they fall among these types of characteristics. 
->>>>>>>>>>>>>>>>>>>> Regarding linguistics (and ignoring the things said about language utility) what you said is mostly accurate if simplistic and not necessarily the phrasing I would use to explain it.
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Regarding linguistics (and ignoring the things said about language utility) what you said is mostly accurate if simplistic and not necessarily the phrasing I would use to explain it.
 
->>>>>>>>>>>>>>>>>>>>> **u/KilotonDefenestrator** [+3] *
+>>>>>>>>>>>>>>>>>>>>> **u/KilotonDefenestrator** [+3]  (7 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> This is the first time I have ever heard the moral "better" used in the context of language. I feels completely out of context to me. It's like discussing the moral "better" of oxygen.
->>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>>>>>>>>>>>>>> **u/Solliel** [+1]  (8 days later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> Yes, well, many people will look down on you as uneducated if you use the non-prestige dialect. They'll also try to correct you because they feel their dialect is the only "real" one. In reality, yes, it *is* exactly like discussing the moral better of oxygen.
->>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>> **u/KilotonDefenestrator** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>> **u/KilotonDefenestrator** [+2]  (8 days later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> But in this case (I thought) we were discussing language choice for a written story, not prejudice at interpersonal interactions nor general philosophical questions like the value of languages themselves, uniqueness, understanding, etc. 
->>>>>>>>>>>>>>>>>>>>>>> The goal (when writing in English) is commonly to communicate the story clearly to the English speaking world in general, because your target audience is presumably global. The context then becomes a question of which language is the best tool to achieve that.
->>>>>>>>>>>>>>>>>>>>>>> If you want to get your book accepted by a publisher, there is also a set of standards involved that will influence what is the best tool for the job.
 >>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> The goal (when writing in English) is commonly to communicate the story clearly to the English speaking world in general, because your target audience is presumably global. The context then becomes a question of which language is the best tool to achieve that.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> If you want to get your book accepted by a publisher, there is also a set of standards involved that will influence what is the best tool for the job.
 
->>>>>>>>>>>>>>>>>>> **u/Law_Student** [+2] *
+>>>>>>>>>>>>>>>>>>> **u/Law_Student** [+2]  (7 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> Yes, precisely, in the case of language usage determines what is legitimate. 
->>>>>>>>>>>>>>>>>>> That means that, unlike in the case of something that is empirically true like climate change, the consensus view of the language's rules actually determines correctness. 
->>>>>>>>>>>>>>>>>>> This means that some individual believing that the rules are something else is just plain incorrect. The majority view dictates correctness and has  legitimacy because it is a consensus. The individual's rules are not equally as valid as the consensus view.
->>>>>>>>>>>>>>>>>>> I hope this makes the idea clear to you, because I'm running out of different ways to say the same thing and it is clear you've been misunderstanding descriptivism to mean that there are no rules and everyone's ideas about grammar are equally valid when it does not remotely stand for that idea.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> That means that, unlike in the case of something that is empirically true like climate change, the consensus view of the language's rules actually determines correctness. 
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> This means that some individual believing that the rules are something else is just plain incorrect. The majority view dictates correctness and has  legitimacy because it is a consensus. The individual's rules are not equally as valid as the consensus view.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I hope this makes the idea clear to you, because I'm running out of different ways to say the same thing and it is clear you've been misunderstanding descriptivism to mean that there are no rules and everyone's ideas about grammar are equally valid when it does not remotely stand for that idea.
 
->>>>>>>>>>>>>>>>>>>> **u/Solliel** [+1] *
+>>>>>>>>>>>>>>>>>>>> **u/Solliel** [+1]  (8 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> Yes, however, there is no singular use case. There are many. Dialect, register, politeness level, formality, setting, background and so on. You have to understand the idea of correctness is something that only exists in prescriptive thinking. There are rules but no way to break them. If I and everyone around me call the word "carmel" there is no authority that can tell us we're wrong. There is a dictionary editor however that will happily add our version to the dictionary though.  
-
->>>>>>>>>>>>>>>>>>>> EDIT: I'll add some resources on linguistic prescription vs description.  
-
->>>>>>>>>>>>>>>>>>>> [https://en.wikipedia.org/wiki/Linguistic\_description](https://en.wikipedia.org/wiki/Linguistic_description)  
-
->>>>>>>>>>>>>>>>>>>> [https://english.blogoverflow.com/2012/10/prescriptivism-and-descriptivism/](https://english.blogoverflow.com/2012/10/prescriptivism-and-descriptivism/) This link really explains it.
->>>>>>>>>>>>>>>>>>>> https://en.wikipedia.org/wiki/English_usage_controversies This one is hilarious.
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> EDIT: I'll add some resources on linguistic prescription vs description.  
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> [https://en.wikipedia.org/wiki/Linguistic\_description](https://en.wikipedia.org/wiki/Linguistic_description)  
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> [https://english.blogoverflow.com/2012/10/prescriptivism-and-descriptivism/](https://english.blogoverflow.com/2012/10/prescriptivism-and-descriptivism/) This link really explains it.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> https://en.wikipedia.org/wiki/English_usage_controversies This one is hilarious.
 
->>>>>>>>>>>>>>>>>>>>> **u/Law_Student** [+1] *
+>>>>>>>>>>>>>>>>>>>>> **u/Law_Student** [+1]  (8 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> I am unable to find any evidence of a 'linguistic community' that uses the double full stop grammar you describe. I believe you are factually incorrect in thinking it is an accepted thing anywhere. I have invited you to provide evidence to the contrary and you've given me nothing.
->>>>>>>>>>>>>>>>>>>>> You may be conflating descriptivism with the old linguistics rule regarding 'what is a word', for the purposes of linguistic study which welcomes anything anyone uses that anyone else understands, even if it is a single case. (It should be noted that this definition is for the purposes of study and classification only, not something incumbent on the actual users of a language to accept, and most do not.)
->>>>>>>>>>>>>>>>>>>>> Descriptivism absolutely considers something that one person makes up and nobody else uses to be incorrect. Something must be in common use at least somewhere to be accepted as regular practice. That is fundamental to descriptivism. If it is not actually in common use then it is aberrant use not recognized by others, an error.
->>>>>>>>>>>>>>>>>>>>> I am not sure how many more ways I can explain this point to you. You seem extremely focused on not listening.
 >>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> You may be conflating descriptivism with the old linguistics rule regarding 'what is a word', for the purposes of linguistic study which welcomes anything anyone uses that anyone else understands, even if it is a single case. (It should be noted that this definition is for the purposes of study and classification only, not something incumbent on the actual users of a language to accept, and most do not.)
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Descriptivism absolutely considers something that one person makes up and nobody else uses to be incorrect. Something must be in common use at least somewhere to be accepted as regular practice. That is fundamental to descriptivism. If it is not actually in common use then it is aberrant use not recognized by others, an error.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> I am not sure how many more ways I can explain this point to you. You seem extremely focused on not listening.
 
 ---
 

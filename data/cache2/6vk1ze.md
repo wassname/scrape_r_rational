@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/DocFuture** [+3] *
+> **u/DocFuture** [+3]  (2 minutes later)
 > 
 > Find out what song Donner would sing to take over the world if he had to, and why.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Nagadac  *Challenge Winner**
 * URL: https://www.reddit.com/r/rational/comments/gkibk7/rtwiphf_the_whispering_light_chapter_update/
-* Score: 12
+* Score: 11
 
 * Created: 2020-05-15T21:51:08
 
@@ -18,25 +18,21 @@ Since I've not been posting here regularly I posted the link to the whole story,
 
 ### Comments:
 
-> **u/Imperialgecko** [+3] *
+> **u/Imperialgecko** [+3]  (3 hours later)
 > 
 > I haven't read it yet, just wanted to give you a heads up it looks like you have chapter six posted twice and "TWo" instead of "Two" for chapter two.
-> 
 
->> **u/Nagadac** [+3]  *Challenge Winner**
+>> **u/Nagadac** [+3]  *Challenge Winner* (3 hours later)
 >> 
 >> Oops, oh well. Fixed and thanks for the heads up
->> 
 
-> **u/GreenSatyr** [+3] *
+> **u/GreenSatyr** [+3]  (a day later)
 > 
 > Wait did he just >!kill Layla with the light by mistake!<
-> 
 
->> **u/Yodra_B** [+1] *
+>> **u/Yodra_B** [+1]  (a day later)
 >> 
 >> I know!!!
->> 
 
 ---
 

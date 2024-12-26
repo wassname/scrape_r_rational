@@ -2,7 +2,7 @@
 
 * Author: u/megazver *
 * URL: https://www.reddit.com/r/rational/comments/8alpwg/rtyou_might_enjoy_the_daily_grind/
-* Score: 32
+* Score: 30
 
 * Created: 2018-04-07T22:38:34
 
@@ -17,58 +17,57 @@ Unfortunately, some of the office supplies inside want to eat him. But when has 
 
 ### Comments:
 
-> **u/None** [+25] *
+> **u/None** [+27]  (an hour later)
 > 
 > Based on that blurb, I'm wondering how long it is until a group of serious people with uniforms marked "SCP" show up and ruin his fun.
-> 
 
->> **u/CouteauBleu** [+14]  *We are the Empire.**
+>> **u/CouteauBleu** [+14]  *We are the Empire.* (9 hours later)
 >> 
 >> That would be a nice twist for a portal fantasy fic.
->> "And just as he was about to save the kingdom, a squad of soldiers with assault rifles, body armor and faceless helmets stormed the throne room, shooting everyone with tranquilizer darts.
->> John S.I. Worldsaver raised his sword high, activating its impenetrable forcefield, and making himself impervious to all physical attack. One of the goons turned towards him, and pressed his helmet's earpiece.
->> "Interest target Bravo located", the soldier said. Another soldier slid a small metal object towards John that bumped harmlessly against his forcefield. In the confusion, it took John a few seconds to realize that the shape was that of a smoke grenade. Gaz flowed out of the grenade, filling John's lungs before he could think to hold his breath.
->> As he slipped into unconsciousness, John dimly heard a voice, sounding like it was light-years away:
->> "Target is contained."
 >> 
+>> "And just as he was about to save the kingdom, a squad of soldiers with assault rifles, body armor and faceless helmets stormed the throne room, shooting everyone with tranquilizer darts.
+>> 
+>> John S.I. Worldsaver raised his sword high, activating its impenetrable forcefield, and making himself impervious to all physical attack. One of the goons turned towards him, and pressed his helmet's earpiece.
+>> 
+>> "Interest target Bravo located", the soldier said. Another soldier slid a small metal object towards John that bumped harmlessly against his forcefield. In the confusion, it took John a few seconds to realize that the shape was that of a smoke grenade. Gaz flowed out of the grenade, filling John's lungs before he could think to hold his breath.
+>> 
+>> As he slipped into unconsciousness, John dimly heard a voice, sounding like it was light-years away:
+>> 
+>> "Target is contained."
 
->> **u/megazver** [+11] *
+>> **u/megazver** [+12]  (an hour later)
 >> 
 >> SCP is referenced in the story by the heroes, so it's probably fiction in that world.
->> 
 
-> **u/Noumero** [+13]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+15]  *Self-Appointed Court Statistician* (54 minutes later)
 > 
 > I support this recommendation. Characters' reasoning makes sense, they methodically investigate the anomaly they're presented with, exploit it in a variety of ways, come up with new approaches and ways to make life easier for themselves, and otherwise act intelligently.
-> One of the negatives is a somewhat slow/purposeless plot. I don't think it would be much of a spoiler to say that by chapter 37, there's still no more concrete goal than "make profit, try to figure out what the dungeon is". They *are* greatly interested in both, and with latest plot developments it may speed up, but the large-scale plot is a bit... loose.
-> The exploration and the anomaly are quite entertaining, though. The author [wrote several sci-fi stories for r/HFY](https://www.reddit.com/r/HFY/comments/836g9f/oc_the_last_nights_of_castle_verdant/dvffp92/), by the way, so I'm looking forward to the anomaly's inevitable explanation.
 > 
+> One of the negatives is a somewhat slow/purposeless plot. I don't think it would be much of a spoiler to say that by chapter 37, there's still no more concrete goal than "make profit, try to figure out what the dungeon is". They *are* greatly interested in both, and with latest plot developments it may speed up, but the large-scale plot is a bit... loose.
+> 
+> The exploration and the anomaly are quite entertaining, though. The author [wrote several sci-fi stories for r/HFY](https://www.reddit.com/r/HFY/comments/836g9f/oc_the_last_nights_of_castle_verdant/dvffp92/), by the way, so I'm looking forward to the anomaly's inevitable explanation.
 
-> **u/DCarrier** [+4] *
+> **u/DCarrier** [+4]  (9 hours later)
 > 
 > I'd say the rational thing would be to stay well away, or maybe try to get just enough proof that the paranormal exists, but it's a fun read nonetheless.
-> 
 
->> **u/BlueSigil** [+6] *
+>> **u/BlueSigil** [+5]  (a day later)
 >> 
 >> The anomaly explicitly mentally compels them both to secrecy and exploration of the anomaly.
->> 
 
-> **u/jaghataikhan** [+2]  *Primarch of the White Scars**
+> **u/jaghataikhan** [+2]  *Primarch of the White Scars* (a day later)
 > 
 > Thanks for the rec - rather enjoying this story!
-> 
 
-> **u/Prezombie** [+2] *
+> **u/Prezombie** [+2]  (a day later)
 > 
 > The setting reminds me of Discworld's L-Space, but with an office environment instead of a library.
-> An eldritch space in the theme of a mundane location has been done several times, I'd love to see the idea expanded into a story with several different archetypal locations, like The Hospital and The School.
 > 
+> An eldritch space in the theme of a mundane location has been done several times, I'd love to see the idea expanded into a story with several different archetypal locations, like The Hospital and The School.
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (3 days later)
 >> 
 >> There's a tumblr rp currently running about a university built on a fairy hill. Elsewhere University. Maybe something like what your looking for?
->> 
 
 ---
 

@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (4 hours later)
 >> 
 >> Not exactly "rational," hence the [DC] tag: definitely an amusing deconstruction of Star Wars and RPG tropes :)
->> 
 
->> **u/clawclawbite** [+1] *
+>> **u/clawclawbite** [+1]  (2 hours later)
 >> 
 >> In fact, you eventually find out that one if the players is deliberately arational.
->> 
 
 ---
 

@@ -32,97 +32,105 @@ Edit: Maybe they all go to the Gate. Quatach-Ichl gets them all into the control
 
 ### Comments:
 
-> **u/TheIssac** [+14] *
+> **u/TheIssac** [+15]  (22 minutes later)
 > 
 > I think its through the use of the black room, he maybe wanted to help Veyers better control his magic, as such he only needed time ->blackrooms -> very close to the sovereign gate. Veyers then returned to the classroom with new control telling zach about this as they are in similar positions. Zach meeting Jornak. Or searching for him in a new restart to get in on the time in the balckroom (maybe over multiple restarts, again zach struggling with his contorls in the beginning of the loop). Jornak got some good connections and in chapter 54 it is said that the royals regularly checked up on the sovereign gate (connection to dagger). So after letting Zach entering the black room a couple times, Panaxeth contacts Jornak, because he sees an opening. And Panaxeth helping Jornak getting a stable marker is not that far fetched. 
-> &#x200B;
-> Or zach told him about the gate and the items stolen from him and they checked up on it based on that. But i think it was because of the blackroom project.
 > 
+> &#x200B;
+> 
+> Or zach told him about the gate and the items stolen from him and they checked up on it based on that. But i think it was because of the blackroom project.
 
->> **u/Academic_Jellyfish** [+4] *
+>> **u/Academic_Jellyfish** [+5]  (26 minutes later)
 >> 
 >> Of course! The Gate was stolen from Zach! That explains...some things. I suppose if Panaxeth could pull someone into the control room if they touch the Gate or something, that could work...
->> Do we know what happens if someone's soul is in the control room when the iteration ends? Maybe that's how Jornak initially retained continuity, with Zach's consent...but then how would he get into his old body? Hm...
 >> 
+>> Do we know what happens if someone's soul is in the control room when the iteration ends? Maybe that's how Jornak initially retained continuity, with Zach's consent...but then how would he get into his old body? Hm...
 
->>> **u/TheIssac** [+3] *
+>>> **u/TheIssac** [+3]  (an hour later)
 >>> 
 >>> I dont think it was Zach helping him with that, i think it was Panaxeth, after all panaxeth is even powerfull enough to create new bodies in the real world and transport their souls there , should be easy to take one soul and merge the marker into it... or just remerge it into the new body at the start of every restart. But Jornak needed the marker to leave and bare the gate that way... so most likely Panaxeth merging the marker into his soul. Except that its a kind of deus ex machina , so something we just dont know yet. Maybe Jornak has some connection to one of the other immortals, someone very skilled in divine magic etc... but i doubt that.
->>> 
 
->> **u/exceptioncause** [+1] *
+>> **u/exceptioncause** [+1]  (6 hours later)
 >> 
 >> stabilizing frame was given from the start and it should solve Zak's magic control issues
->> 
 
->>> **u/TheIssac** [+5] *
+>>> **u/TheIssac** [+4]  (10 hours later)
 >>> 
 >>> That is not the case! The stabilizing frame is used to stabilize his magic pool which got doubled, through it. Not to help him contol it. Zorian remembered Zach in the beginning as a poor student because of his issues with his control. This wouldnt be the case if the frame also helped him with his shaping. An Quatach-Ichl who got the same kind of blessing, describes the stabilizing frames structure and functionality in Chapter 81, but doesnt talk about any effects on the shaping skills. Just that doubling his mana reservoirs dwarfs any other kind of natural mana pool enhancement.
->>> 
 
->>>> **u/exceptioncause** [+2] *
+>>>> **u/exceptioncause** [+2]  (11 hours later)
 >>>> 
 >>>> \>That is not the case! The stabilizing frame is used to stabilize his magic pool which got doubled, through it.
->>>> &#x200B;
->>>> it should be obvious additional effect, cause big natural limits have the same consequences.
->>>> &#x200B;
->>>> \>Zorian remembered Zach in the beginning as a poor student because of his issues with his control
->>>> &#x200B;
->>>> it was a year ago, before the blessing.
->>>> &#x200B;
->>>> \>An Quatach-Ichl who got the same kind of blessing, describes the  stabilizing frames structure and functionality in Chapter 81, but doesnt  talk about any effects on the shaping skills.
->>>> &#x200B;
->>>> he probably did not have natural big reserve and low control in the beginning, also blessing does not affect the shaping, it just enables normal shaping control while having big reserve ("The divine blessing then doubled my maximum without hurting my shaping skills in the slightest")
 >>>> 
+>>>> &#x200B;
+>>>> 
+>>>> it should be obvious additional effect, cause big natural limits have the same consequences.
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> \>Zorian remembered Zach in the beginning as a poor student because of his issues with his control
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> it was a year ago, before the blessing.
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> \>An Quatach-Ichl who got the same kind of blessing, describes the  stabilizing frames structure and functionality in Chapter 81, but doesnt  talk about any effects on the shaping skills.
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> he probably did not have natural big reserve and low control in the beginning, also blessing does not affect the shaping, it just enables normal shaping control while having big reserve ("The divine blessing then doubled my maximum without hurting my shaping skills in the slightest")
 
-> **u/Academic_Jellyfish** [+9] *
+> **u/Academic_Jellyfish** [+8]  (7 minutes later)
 > 
 > What Jornak said about how Zach "just wouldn't understand" seems to imply that they had already spent some time together, so Zach likely already knew how to give people the ability to retain continuity. But why would Zach use such an ability when he knows that he would eventually have to take it away or kill them? I guess if he wanted to do some legal prep for his court case, he might give Jornak a temporary marker. But that still doesn't explain how Jornak could modify his marker or contact Panaxeth.
-> And I don't think Jornak accepted Panaxeth's deal until he already became frustrated with Zach, which would likely take longer than a month. The only explanation that I can think of is that Jornak already had some way of maintaining continuity between restarts before betraying Zach.
-> I suppose out of everyone in the story, Jornak would be in the best position to become Red Robe. But there's still a lot of things that need explaining.
 > 
+> And I don't think Jornak accepted Panaxeth's deal until he already became frustrated with Zach, which would likely take longer than a month. The only explanation that I can think of is that Jornak already had some way of maintaining continuity between restarts before betraying Zach.
+> 
+> I suppose out of everyone in the story, Jornak would be in the best position to become Red Robe. But there's still a lot of things that need explaining.
 
->> **u/DismalWard77** [+8] *
+>> **u/DismalWard77** [+8]  (an hour later)
 >> 
 >> Jornak's marker must have been degrading and he had no choice but accept Panaxeth's deal. Or he might have found some loophole in the angel's contract that he exploited to stay with Zach long enough to backstab him. 
->> Once RR was revealed there'll be people who want explanations even though the novel ain't even over yet. Just chill.
 >> 
+>> Once RR was revealed there'll be people who want explanations even though the novel ain't even over yet. Just chill.
 
->>> **u/Academic_Jellyfish** [+12] *
+>>> **u/Academic_Jellyfish** [+12]  (2 hours later)
 >>> 
 >>> Did you forget which subreddit you're in? This is more fun.
->>> 
 
->>>> **u/DismalWard77** [+5] *
+>>>> **u/DismalWard77** [+6]  (2 hours later)
 >>>> 
 >>>> i've been following this novel for 7 years so another one wouldn't hurt.
->>>> 
 
-> **u/lehyde** [+6]  *Nudist Beach**
+> **u/lehyde** [+5]  *Nudist Beach* (7 hours later)
 > 
 > Maybe QI had once been in a time loop himself. He has a divine blessing for his mana reserves and was very quick to sacrifice himself when he learned about the time loop which maybe suggests that he was already familiar with the concept.
-> If this is true then maybe QI explained to Jornak how the time loop works and QI lended him the crown to get a temporary marker. Then he tried to leave the loop before the the end of his last temporary loop, but that didn't work because he is not the controller. But Panaxeth used this chance to tell him how to get a longer lasting marker in exchange for freeing it.
 > 
+> If this is true then maybe QI explained to Jornak how the time loop works and QI lended him the crown to get a temporary marker. Then he tried to leave the loop before the the end of his last temporary loop, but that didn't work because he is not the controller. But Panaxeth used this chance to tell him how to get a longer lasting marker in exchange for freeing it.
 
-> **u/theelbandito** [+3] *
+> **u/theelbandito** [+3]  (6 hours later)
 > 
 > I figure that Zach put a temporary marker on him so he could lawyer it up and get all the info over the course of 6 restarts.  How many restarts would it take for him to get some deep dirt on the government? Then get disgruntled?
-> 
 
-> **u/xachariah** [+2] *
+> **u/xachariah** [+2]  (4 hours later)
 > 
 > Jornak knows QI, or is at least in an organization that can meet with him easily.
-> Jornak and Zach go to talk to him, as Zach still thinks he's invincible.
-> QI learns their story and says, "Hey that's a cool soul marker you've got.  Lets do some experimenting!"
-> Jornak gets ends up with the same effect as Zorian.
 > 
+> Jornak and Zach go to talk to him, as Zach still thinks he's invincible.
+> 
+> QI learns their story and says, "Hey that's a cool soul marker you've got.  Lets do some experimenting!"
+> 
+> Jornak gets ends up with the same effect as Zorian.
 
-> **u/Hidden-50** [+1] *
+> **u/Hidden-50** [+1]  (16 minutes later)
 > 
 > If Panaxeth did the contacting in (2), that would explain (1). (3) is easy if we assume Quatach-Ichl cooperated because of his cult connections. Remains (4), which might be through Panaxeth's help.
-> Did Panaxeth state it never contacted anyone before? I'd have to re-read that, but if so it could also be a lie.
-> Also, how much useful knowledge could have been obtained from Quatach-Ichl? He was the one who used the Sovereign Gate before, so knowledge about the crown's function could have come through him.
 > 
+> Did Panaxeth state it never contacted anyone before? I'd have to re-read that, but if so it could also be a lie.
+> 
+> Also, how much useful knowledge could have been obtained from Quatach-Ichl? He was the one who used the Sovereign Gate before, so knowledge about the crown's function could have come through him.
 
 ---
 

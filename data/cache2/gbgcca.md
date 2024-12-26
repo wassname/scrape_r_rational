@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.fanfiction.net/s/9794740/80/Pokemon-The-Origin-of-Species
-* Score: 125
+* Score: 126
 
 * Created: 2020-05-01T11:25:02
 
@@ -12,768 +12,708 @@
 
 ### Comments:
 
-> **u/ManyCookies** [+44] *
+> **u/ManyCookies** [+43]  (13 minutes later)
 > 
 > I'm somewhat surprised Red and Blue are on speaking terms so soon, I thought you'd make that a story wide rift that matched the in-game rivalry.
-> But more importantly, nice _fucking_ going Heonn teams. Maybe Rayquaza will bail their asses out.
 > 
+> But more importantly, nice _fucking_ going Heonn teams. Maybe Rayquaza will bail their asses out.
 
->> **u/Roneitis** [+8] *
+>> **u/Roneitis** [+8]  (10 hours later)
 >> 
 >> To be fair, it would be hard to have the interact if that happened
->> 
 
-> **u/CarVac** [+29] *
+> **u/CarVac** [+32]  (26 minutes later)
 > 
 > Oh shit it's Groudon and Kyogre!
-> Giovanni will be antsy about using Mewtwo… or Mewtwo will be using the opportunity to escape?
 > 
+> Giovanni will be antsy about using Mewtwo… or Mewtwo will be using the opportunity to escape?
 
->> **u/Electric999999** [+23] *
+>> **u/Electric999999** [+22]  (16 hours later)
 >> 
 >> I feel like if Mewtwo isn't ready for the stormbringers he's definitely not ready for those two, Zapdos affected a single city, Groudon is collapsing this building from another country.
->> 
 
->>> **u/gamerpenguin** [+11] *
+>>> **u/gamerpenguin** [+10]  (22 hours later)
 >>> 
 >>> I was going to correct you that they're both at least based on Japan, but the regions they're based on are on opposite sides of the country (~1000KM apart). Scary stuff!
->>> 
 
->>> **u/LazarusRises** [+3] *
+>>> **u/LazarusRises** [+3]  (5 days later)
 >>> 
 >>> I'm pretty sure whatever's going on under the casino is distinct from but related to the Hoenn earthquake.
->>> 
 
-> **u/ECUIYCAMOICIQMQACKKE** [+26] *
+> **u/ECUIYCAMOICIQMQACKKE** [+27]  (16 hours later)
 > 
 > > But her and Red…
-> > She could see it. Maybe. Potentially.
-
-> no one talking about the ship's progress?
 > 
+> > She could see it. Maybe. Potentially.
+> 
+> no one talking about the ship's progress?
 
->> **u/The_Magus_199** [+23]  *Ankh-Morpork City Watch**
+>> **u/The_Magus_199** [+23]  *Ankh-Morpork City Watch* (a day later)
 >> 
 >> I’m scared that if I look directly at it, it’ll vanish.
->> Like an Abra.
 >> 
+>> Like an Abra.
 
->>> **u/writersfuelcantmelt** [+8] *
+>>> **u/writersfuelcantmelt** [+9]  (a day later)
 >>> 
 >>> So if we bait and switch enough, it'll get a spoon?
->>> 
 
->>> **u/ForMyWork** [+3] *
+>>> **u/ForMyWork** [+3]  (a day later)
 >>> 
 >>> Here here, this has me hopeful but nervous.
->>> 
 
->>> **u/CarVac** [+3] *
+>>> **u/CarVac** [+3]  (9 days later)
 >>> 
 >>> You just have to think love at it hard enough and it'll stay.
->>> 
 
->> **u/Memes_Of_Production** [+22] *
+>> **u/Memes_Of_Production** [+21]  (a day later)
 >> 
 >> I like how Leaf at this point low-key likes it when she does things that makes Red blush or stammer due to his feelings, and occasionally acts in a way that will induce that reaction intentionally.
->> We have name for this, Leaf: its called flirting.
 >> 
+>> We have name for this, Leaf: its called flirting.
 
->>> **u/ArcFurnace** [+15] *
+>>> **u/ArcFurnace** [+15]  (a day later)
 >>> 
 >>> Alternately, a specific sub-definition of "teasing". Which ends up meaning basically the same thing in the end.
->>> They're all young, it's fair if they don't quite realize what they're doing yet.
 >>> 
+>>> They're all young, it's fair if they don't quite realize what they're doing yet.
 
->>>> **u/Memes_Of_Production** [+7] *
+>>>> **u/Memes_Of_Production** [+5]  (a day later)
 >>>> 
 >>>> Oh for sure, this is not at all meant as criticism - just that if you like flirting with someone, its decent odds you like-like them. (not 100% of course)
->>>> 
 
->> **u/Ceres_Golden_Cross** [+1] *
+>> **u/Ceres_Golden_Cross** [+1]  (6 days later)
 >> 
 >> Al aboard! Let's goooo
->> 
 
-> **u/absolute-black** [+29] *
+> **u/absolute-black** [+28]  (2 hours later)
 > 
 > I love Groudon quakes being what reveals the Casino basement, the second the gang is back together.
-> 
 
-> **u/Grasmel** [+24] *
+> **u/Grasmel** [+25]  (4 hours later)
 > 
 > I could feel the tension building the whole chapter. Earthquakes, strange weather, the gang in one spot again and gathering at the casino, a team rocket hideout in the games. If the translation from game lore to OOS lore is what I think it is, that means there will be encounters with renegades. Exciting. 
-> But now I really want to know what happens next. Curse you and your month-long cliffhangers!
 > 
+> But now I really want to know what happens next. Curse you and your month-long cliffhangers!
 
->> **u/ArcFurnace** [+12] *
+>> **u/ArcFurnace** [+16]  (15 hours later)
 >> 
 >> > If the translation from game lore to OOS lore is what I think it is, that means there will be encounters with renegades.
->> "Renegades don't wear shirts with a giant red 'R' on them!"
 >> 
+>> "Renegades don't wear shirts with a giant red 'R' on them!"
 
->>> **u/MilesSand** [+17] *
+>>> **u/MilesSand** [+17]  (a day later)
 >>> 
 >>> >"Renegades don't wear shirts with a giant red 'R' on them!"
->>> That kind of still matches the games.  You don't find out they're team rocket until the battle starts,  except if you're infiltrating their hq or some operation. It just looks like some random hiker in Mt Moon and then the battle starts and they have an R. If you take their overworld sprite as what they're actually wearing and the battle sprite as a metaphor for who they really are it fits.
 >>> 
+>>> That kind of still matches the games.  You don't find out they're team rocket until the battle starts,  except if you're infiltrating their hq or some operation. It just looks like some random hiker in Mt Moon and then the battle starts and they have an R. If you take their overworld sprite as what they're actually wearing and the battle sprite as a metaphor for who they really are it fits.
 
->>> **u/Radix2309** [+5] *
+>>> **u/Radix2309** [+6]  (19 hours later)
 >>> 
 >>> But they are branded with an R arent they?
->>> 
 
->>>> **u/Grasmel** [+4] *
+>>>> **u/Grasmel** [+3]  (19 hours later)
 >>>> 
 >>>> Is the branding a literal branding? I thought it was mostly metaphorical, since renegades are executed anyway.
->>>> 
 
->>>>> **u/DaystarEld** [+13]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+14]  *Pokémon Professor* (a day later)
 >>>>> 
 >>>>> It is metaphorical :)
->>>>> 
 
->>>> **u/VivaLaPandaReddit** [+3] *
+>>>> **u/VivaLaPandaReddit** [+3]  (2 days later)
 >>>> 
 >>>> The casino logo is an R though 😉
->>>> 
 
-> **u/Memes_Of_Production** [+21] *
+> **u/Memes_Of_Production** [+21]  (3 hours later)
 > 
 > Extremely disappointed they won't be finding a switch behind a poster, instead relying on a legendary team-up to open up the basement Rocket base for them - that's overkill guys! Its one poster, how hard could it be?
-> Also Blue/Red talking, woo! I expect that things won't actually be as easy as Blue hopes, in that they can resume friendship without digging into it - I still think Blue only even partially understands what went down even now (imo, how bad of a friend he was at that time, a partly-different topic he has yet to apologize for). But I guess it might not matter, as their stances on what to sacrifice in a dangerous situation are about to be dramatically tested; nothing better than life-or-death situation to put things into practice.
 > 
+> Also Blue/Red talking, woo! I expect that things won't actually be as easy as Blue hopes, in that they can resume friendship without digging into it - I still think Blue only even partially understands what went down even now (imo, how bad of a friend he was at that time, a partly-different topic he has yet to apologize for). But I guess it might not matter, as their stances on what to sacrifice in a dangerous situation are about to be dramatically tested; nothing better than life-or-death situation to put things into practice.
 
-> **u/WalterTFD** [+17] *
+> **u/WalterTFD** [+18]  (12 hours later)
 > 
 > Poor Rocket Owners, such upstanding businesspeople.  Their contest will be ruined by this disaster.  I hope everyone pitches in to shore up their profits.
-> 
 
-> **u/None** [+17] *
+> **u/None** [+18]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+17] *
+>> **u/None** [+16]  (2 hours later)
 >> 
 >> Maybe the next chapter will be a POV interlude from May or Brendan (or both) as they're climbing the sky pillar to awaken RayRay. Could be cool just as a "what if" sorta thing, since presumably the plotlines of those games are happening simultaneously to this one.
->> 
 
->>> **u/Electric999999** [+7] *
+>>> **u/Electric999999** [+6]  (a day later)
 >>> 
 >>> Somehow I doubt it's going to be that easy, just wake another legend up and it all gets sorted. Then again if it doesn't get sorted easily this could go really badly really fast with the endless quakes.
->>> 
 
->> **u/None** [+9] *
+>> **u/None** [+9]  (a day later)
 >> 
 >> If we go by various Pokémon canons, you can stop Kyogre and Groudon via:
->> Rayquaza
->> Red / Blue Orbs
->> All three Regis, albeit not permanantly
->> Certain machines, very temporarily.
-
->> So my guess is Mewtwo will have to step in, as most of these as solutions aren’t available given the worldbuilding. Rayquaza is a possibility though.
 >> 
+>> Rayquaza
+>> 
+>> Red / Blue Orbs
+>> 
+>> All three Regis, albeit not permanantly
+>> 
+>> Certain machines, very temporarily.
+>> 
+>> So my guess is Mewtwo will have to step in, as most of these as solutions aren’t available given the worldbuilding. Rayquaza is a possibility though.
 
->>> **u/Trips-Over-Tail** [+3]  *Death of Crabs**
+>>> **u/Trips-Over-Tail** [+3]  *Death of Crabs* (4 days later)
 >>> 
 >>> My strategy would be to tear open a few Ultra Wormholes over Hoenn and see what happens.
->>> 
 
->>> **u/Ceres_Golden_Cross** [+1] *
+>>> **u/Ceres_Golden_Cross** [+1]  (6 days later)
 >>> 
 >>> Hadn't heard about the last to, where do they come from?
->>> 
 
->>>> **u/None** [+4] *
+>>>> **u/None** [+5]  (7 days later)
 >>>> 
 >>>> Pokémon Adventures / Pokémon Special. Ruby and Sapphire’s.  second plan, after stopping the awakening fails, is to use a machine powered by a meteor - the same deal used earlier to turn off mount chimney by team aqua. The Regis are Steven Stone’s plan; he’d been spending the story thus far tracking them down and getting the instructions to awake them. He deploys the three of them in sootopolis to attempt to limit the spread of the damage, but while they stop the energy and weather from spreading, it’s an imperfect solution.
->>>> 
 
->>>>> **u/Ceres_Golden_Cross** [+2] *
+>>>>> **u/Ceres_Golden_Cross** [+2]  (7 days later)
 >>>>> 
 >>>>> That sounds so cool
->>>>> 
 
-> **u/Leemorry** [+16] *
+> **u/Leemorry** [+15]  (2 hours later)
 > 
 > > You guys are talking now, you don't need me to be the intermediary,"  
 > > "Right."  
+> 
 > Hell yeeahhhhhh!  
 > They’re talking again, bless you!!! Thank you!  
-> [5 minutes later]  
-> > when the rumble is rent by an almighty crack, and part of the casino collapses inward, the ground tilting and sliding out from under them.  
-> Noooooooooooooooooo!
 > 
+> [5 minutes later]  
+> 
+> > when the rumble is rent by an almighty crack, and part of the casino collapses inward, the ground tilting and sliding out from under them.  
+> 
+> Noooooooooooooooooo!
 
-> **u/NuzlockedReap** [+14] *
+> **u/NuzlockedReap** [+14]  (an hour later)
 > 
 > Glad to see Red and Blue reconciled, but wow, they're back in a situation like the one that caused the rift between them in the first place.
-> 
 
->> **u/ECUIYCAMOICIQMQACKKE** [+19] *
+>> **u/ECUIYCAMOICIQMQACKKE** [+19]  (7 hours later)
 >> 
 >> I think this situation will cause their rift to repair though, not widen... Blue can see that Red isn't a coward, and Red can see Blue isn't obsessed with his image.
->> 
 
-> **u/TheTrickFantasic** [+13] *
+> **u/TheTrickFantasic** [+14]  (5 hours later)
 > 
 > Reads: "pinpoint the epicenter to be off the coast in eastern Hoenn."  
 > Whistles in Ruby, Sapphire & Emerald.
-> 
 
->> **u/Radix2309** [+15] *
+>> **u/Radix2309** [+15]  (19 hours later)
 >> 
 >> > ~~Whistles~~ Blows horns in Ruby, Saphire & Emerald.
->> FTFY
 >> 
+>> FTFY
 
->>> **u/TheTrickFantasic** [+5] *
+>>> **u/TheTrickFantasic** [+6]  (4 days later)
 >>> 
 >>> >~~Whistles~~ Blows ~~horns~~ trumpets in Ruby, Sapphire & Emerald.
->>> I mean, if you wanna get *really* technical :D
 >>> 
+>>> I mean, if you wanna get *really* technical :D
 
->> **u/writersfuelcantmelt** [+2] *
+>> **u/writersfuelcantmelt** [+2]  (a day later)
 >> 
 >> If I understand PokeJapan Home Island geography (big maybe), this is the Fortree/Fallarbor coast...right?
->> 
 
->>> **u/TheTrickFantasic** [+2] *
+>>> **u/TheTrickFantasic** [+2]  (4 days later)
 >>> 
 >>> It almost definitely refers to the Seafloor Cavern, south of Mossdeep City (where the Space Center is) and east of Sootopolis City (the city built in the white-stone crater), but west of Ever Grande City (the eastern-most island associated with Hoenn, where their Pokemon League is).
->>> 
 
->>>> **u/writersfuelcantmelt** [+1] *
+>>>> **u/writersfuelcantmelt** [+1]  (6 days later)
 >>>> 
 >>>> Correct me if I'm wrong, but that's the right side of the Hoenn map; but Hoenn map has east on the top, not north? Obviously that's never said in the games, but Kyushu is oriented that way...
->>>> 
 
->>>>> **u/TheTrickFantasic** [+2] *
+>>>>> **u/TheTrickFantasic** [+2]  (7 days later)
 >>>>> 
 >>>>> IRL, Kyushu *is* oriented that way, but during game development, the island was rotated 90 degrees to improve playability.  And based on (admittedly obscure) game dialogue, that design choice included making the top of the Hoenn map oriented north within the Pokemon world.  According to Bulbapedia, in Pokemon Emerald, if you call May with Match Call after connecting the two halves of Rusturf Tunnel, her dialogue is:
->>>>> *"<player>, how are you? I'm out on Route 111 now. I'm going to get a rest at an old lady's house. She lives just north of the desert."*  
-
->>>>> [https://bulbapedia.bulbagarden.net/wiki/May\_(game)](https://bulbapedia.bulbagarden.net/wiki/May_(game))  
-
->>>>> So, as much as the Pokemon game environments are based on real world geography, some creative license on Game Freak's part should still be accounted for.
 >>>>> 
+>>>>> *"<player>, how are you? I'm out on Route 111 now. I'm going to get a rest at an old lady's house. She lives just north of the desert."*  
+>>>>> 
+>>>>> [https://bulbapedia.bulbagarden.net/wiki/May\_(game)](https://bulbapedia.bulbagarden.net/wiki/May_(game))  
+>>>>> 
+>>>>> So, as much as the Pokemon game environments are based on real world geography, some creative license on Game Freak's part should still be accounted for.
 
->>>>>> **u/writersfuelcantmelt** [+1] *
+>>>>>> **u/writersfuelcantmelt** [+1]  (7 days later)
 >>>>>> 
 >>>>>> To be fair, there's a wide disparity between real world geography and Pokemon world geography.... Or at least, the possibility of such. With the creation of fanfiction, a third world is created, which takes its queues from both. Is Alola in the Pacific, an ocean and a continent between it and Unova? Are Kalos and Galar neighbours? There are plenty unaddressed mysteries. In this case, it's up to our writer to decide the orientation of Hoenn, along with everything else.
->>>>>> 
 
->>>>>>> **u/TheTrickFantasic** [+2] *
+>>>>>>> **u/TheTrickFantasic** [+2]  (7 days later)
 >>>>>>> 
 >>>>>>> >In this case, it's up to our writer to decide the orientation of Hoenn, along with everything else.
->>>>>>> Absolutely true.  But I believe it's evident that Daystareld also interprets the  Hoenn map to be oriented top = north.  *If* top = east, then the east coast of Hoenn would be the Fortree / Fallabor coast.  But in the source material, the games, that specific coastline and the offshore ocean never features in the story, and is never explored (other than Soaring over it in Alpha/Omega).  In contrast, if top = north, then the east coast of Hoenn is the Lillycove-Mossdeep-Sootopolis region, which lines up with the game lore of the Seafloor Cavern being ground-zero for a super-ancient Legendary Pokemon in all Hoenn games.  
-
->>>>>>> *If* Daystareld adapts Pokemon Emerald's version of the story, then only Kyogre is in the Seafloor Carvern while Groudon is inside Mt. Chimney.  But even if top = east, then it would make more sense for the epicenter of the first earthquake to be described as closer to central Hoenn rather than off of the Fortree / Fallabor coast  =)
 >>>>>>> 
+>>>>>>> Absolutely true.  But I believe it's evident that Daystareld also interprets the  Hoenn map to be oriented top = north.  *If* top = east, then the east coast of Hoenn would be the Fortree / Fallabor coast.  But in the source material, the games, that specific coastline and the offshore ocean never features in the story, and is never explored (other than Soaring over it in Alpha/Omega).  In contrast, if top = north, then the east coast of Hoenn is the Lillycove-Mossdeep-Sootopolis region, which lines up with the game lore of the Seafloor Cavern being ground-zero for a super-ancient Legendary Pokemon in all Hoenn games.  
+>>>>>>> 
+>>>>>>> *If* Daystareld adapts Pokemon Emerald's version of the story, then only Kyogre is in the Seafloor Carvern while Groudon is inside Mt. Chimney.  But even if top = east, then it would make more sense for the epicenter of the first earthquake to be described as closer to central Hoenn rather than off of the Fortree / Fallabor coast  =)
 
->>>>> **u/Ceres_Golden_Cross** [+1] *
+>>>>> **u/Ceres_Golden_Cross** [+1]  (6 days later)
 >>>>> 
 >>>>> A friend of mine made a hoenn map, and we had to put a compass on it to remind us that "left" is actually north, going by irl locations
->>>>> 
 
->>>>>> **u/TheTrickFantasic** [+1] *
+>>>>>> **u/TheTrickFantasic** [+1]  (7 days later)
 >>>>>> 
 >>>>>> Going by IRL locations, under a... one-to-one conversion, left would be north.  But, as I elaborated on elsewhere, it appears that Game Freak exercised creative license to reorient the landmass with respect to north.
->>>>>> 
 
->>>>>>> **u/Ceres_Golden_Cross** [+1] *
+>>>>>>> **u/Ceres_Golden_Cross** [+1]  (7 days later)
 >>>>>>> 
 >>>>>>> Do we have any sort of official map?
->>>>>>> 
 
->>>>>>>> **u/TheTrickFantasic** [+2] *
+>>>>>>>> **u/TheTrickFantasic** [+2]  (7 days later)
 >>>>>>>> 
 >>>>>>>> There are the in-game maps as well as at least two released as promontional materials, none of which feature a traditional "north arrow".  However, there is (obscure) game dialogue in Pokemon Emerald\* which confirms that the in-game Hoenn map is oriented with north at the top.  
-
->>>>>>>> \*This dialogue occurs when the player calls May after clearing the Rusturf Tunnel of boulders, where she says she's going to rest at the Old Lady's House, north of the desert.
 >>>>>>>> 
+>>>>>>>> \*This dialogue occurs when the player calls May after clearing the Rusturf Tunnel of boulders, where she says she's going to rest at the Old Lady's House, north of the desert.
 
-> **u/melmonella** [+11]  *Tremble, o ye mighty, for a new age is upon you**
+> **u/melmonella** [+10]  *Tremble, o ye mighty, for a new age is upon you* (10 hours later)
 > 
 > Just finished catching up, assorted reactions:
-> 1) they just developed this tulpa mind technology, and we know that the way it works, one mind can be affected by a mental effect while the other one is free to act(see: red's merger with egg pokemon). We also know that red's second mind feels like something that encompasses the first, like a bubble within a bubble, to both red and other psychics(see: red's examination by the psych doctor). Further, Pressure is very likely a mental(or well, emotional) effect, mostly because I don't think there is anything else that they wouldn't have thought of guarding against by now(e.g. weird sound beyond the range of human hearing would show up on recording devices, and would be possible to fend off against with good sound insulation)
-> my hypothesis thus is: can you guard against Pressure with a tulpa by just dumping the entire mental effect into one mind and subsequently ignoring it
-> A thing you'd need to test before testing this if you can kill a tulpa, since you probably don't want a pressured insane mind inside your noggin.
-> 2) Blue can get dabbed on with his non-risk-management ethics. Here is me, dabbing on him: \o\
-> 3) I strongly suspect red could have made the whole storm night much safer by spending some % of that 150k bank he has on purchasing pre-trained pokemon. Given how shitty their world is, having more stuff to put between yourself and whatever is trying to kill you really seems pretty essential. A basic flier, some easy to catch pokemons with status effect attacks, something like a Tauros for the sheer bulk - surely all of those should be cheap due to supply being very significant. I can't really buy that glorified cattle would be expensive to raise in a world where you can make them follow all orders unconditionally by just putting them on a shelf in a pokeball for a week.
-> A shock suit would have helped greatly too, and he was thinking of buying one all the way back in chapter 7. That whole Magnemite fight had a lot of close calls, and being immune to electricity would sure have helped. 
-> All this to say: what are the chances that at least one of the common-sense purchases red could have made in order to prepare for *general* threats before that night would have helped with the whole fire hospital fiasco? A pokemon that can prevent the roof from crushing you, some firefighter suit? Hell, just a basic construciton helmet, thing fairly useful for keeping yourself alive when things fall on your head?
-> I do not think assigning lower odds to this than 5% is justified, so red has at the minimum directly murdered 5% of Aiko by being insufficiently prepared for threats and not utilizing his monetary advantages.
 > 
+> 1) they just developed this tulpa mind technology, and we know that the way it works, one mind can be affected by a mental effect while the other one is free to act(see: red's merger with egg pokemon). We also know that red's second mind feels like something that encompasses the first, like a bubble within a bubble, to both red and other psychics(see: red's examination by the psych doctor). Further, Pressure is very likely a mental(or well, emotional) effect, mostly because I don't think there is anything else that they wouldn't have thought of guarding against by now(e.g. weird sound beyond the range of human hearing would show up on recording devices, and would be possible to fend off against with good sound insulation)
+> 
+> my hypothesis thus is: can you guard against Pressure with a tulpa by just dumping the entire mental effect into one mind and subsequently ignoring it
+> 
+> A thing you'd need to test before testing this if you can kill a tulpa, since you probably don't want a pressured insane mind inside your noggin.
+> 
+> 2) Blue can get dabbed on with his non-risk-management ethics. Here is me, dabbing on him: \o\
+> 
+> 3) I strongly suspect red could have made the whole storm night much safer by spending some % of that 150k bank he has on purchasing pre-trained pokemon. Given how shitty their world is, having more stuff to put between yourself and whatever is trying to kill you really seems pretty essential. A basic flier, some easy to catch pokemons with status effect attacks, something like a Tauros for the sheer bulk - surely all of those should be cheap due to supply being very significant. I can't really buy that glorified cattle would be expensive to raise in a world where you can make them follow all orders unconditionally by just putting them on a shelf in a pokeball for a week.
+> 
+> A shock suit would have helped greatly too, and he was thinking of buying one all the way back in chapter 7. That whole Magnemite fight had a lot of close calls, and being immune to electricity would sure have helped. 
+> 
+> All this to say: what are the chances that at least one of the common-sense purchases red could have made in order to prepare for *general* threats before that night would have helped with the whole fire hospital fiasco? A pokemon that can prevent the roof from crushing you, some firefighter suit? Hell, just a basic construciton helmet, thing fairly useful for keeping yourself alive when things fall on your head?
+> 
+> I do not think assigning lower odds to this than 5% is justified, so red has at the minimum directly murdered 5% of Aiko by being insufficiently prepared for threats and not utilizing his monetary advantages.
 
->> **u/DaystarEld** [+17]  *Pokémon Professor**
+>> **u/DaystarEld** [+18]  *Pokémon Professor* (a day later)
 >> 
 >> Pokemon that are better at battling than the average trainer can capture and train themselves within a couple months are \*very\* expensive in this world, since, as you say, supply and demand. Tauros are not just good at battling, however, they're actually super rare, hence the Safari Zone nature preserve. 
->> For trainers to buy their own powerful pokemon, they have to believe they will need it NOW rather than just collecting powerful pokemon for later. If you've ever played a video game and not purchased some good gear from a vendor because you might find gear just as good or better on your own soon, I'm picturing the same mentality.
->> All that said, yes, underutilizing their money to gain advantages in survivability is a mistake that they made. Red in particular has his money bookmarked for other things that might help in his research, but as the end of this chapter showed a hint of, they have all definitely updated on that mistake.
 >> 
+>> For trainers to buy their own powerful pokemon, they have to believe they will need it NOW rather than just collecting powerful pokemon for later. If you've ever played a video game and not purchased some good gear from a vendor because you might find gear just as good or better on your own soon, I'm picturing the same mentality.
+>> 
+>> All that said, yes, underutilizing their money to gain advantages in survivability is a mistake that they made. Red in particular has his money bookmarked for other things that might help in his research, but as the end of this chapter showed a hint of, they have all definitely updated on that mistake.
 
->>> **u/R1C3M4N** [+2] *
+>>> **u/R1C3M4N** [+2]  (a day later)
 >>> 
 >>> Wait but isn’t tauros steak a thing? And I’d assume that it’s not that uncommon either, for a ball version to be made.
->>> 
 
->>>> **u/DaystarEld** [+8]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+8]  *Pokémon Professor* (a day later)
 >>>> 
 >>>> It is, but it's expensive, as I don't imagine any are being raised specifically to be eaten. Sometimes they die in captivity or in battles, and selling them for meat is an obvious thing to do (especially considering how easy it is to store and transport).
->>>> Your second comment confuses me, since it being uncommon seems like the best reason for a ball version to be prioritized, to me?
 >>>> 
+>>>> Your second comment confuses me, since it being uncommon seems like the best reason for a ball version to be prioritized, to me?
 
->>>>> **u/R1C3M4N** [+3] *
+>>>>> **u/R1C3M4N** [+3]  (a day later)
 >>>>> 
 >>>>> Really? I would think that more common foods would be turned into ball food for familiarity and comparability, since these are basically sellers giving out free samples.
->>>>> 
 
->>>>>> **u/DaystarEld** [+7]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+7]  *Pokémon Professor* (a day later)
 >>>>>> 
 >>>>>> Oh there's that too, but the boat isn't exactly full of the "common folk" ;) But also, if you can generate "fake" meat that's in high demand otherwise, you can sell it for a lot more.
->>>>>> 
 
->> **u/thrawnca** [+9]  *Carbon-based biped**
+>> **u/thrawnca** [+10]  *Carbon-based biped* (15 hours later)
 >> 
 >> I doubt that tulpas are sufficiently distinct and independent to be killable, at least without substantial harm to the entire mind.
->> 
 
->> **u/gamerpenguin** [+6] *
+>> **u/gamerpenguin** [+8]  (22 hours later)
 >> 
 >> Tauros might he expensive because of the sheer bulk. Cattle are fully grown after 18 months, vs rats at 6 months. That would take a lot more effort and food
->> 
 
->>> **u/writersfuelcantmelt** [+2] *
+>>> **u/writersfuelcantmelt** [+2]  (a day later)
 >>> 
 >>> a couple of extremely quick and un-thorough googles tells me a heifer cow sells for about $130/100lbs., and usually weigh (alive!) about 600lbs, for a very rough price of $780. This is probably in USD. Not cheap, but both useful and affordable.
->>> 
 
-> **u/The_Magus_199** [+9]  *Ankh-Morpork City Watch**
+> **u/The_Magus_199** [+10]  *Ankh-Morpork City Watch* (10 hours later)
 > 
 > Oh man, when Leaf saw the quakes originating from Hoenn and I realized Ruby/Sapphire/Emerald is hitting the climax right now, I got *so* excited. I love that you’re incorporating that chronology here! And it’s how they find the rocket base! Soooooooo cooooooool!
-> 
 
->> **u/thrawnca** [+3]  *Carbon-based biped**
+>> **u/thrawnca** [+3]  *Carbon-based biped* (15 hours later)
 >> 
 >> I've actually only played generations 1, 2, and Pokemon Uranium. Anything in particular I should know?
->> 
 
->>> **u/The_Magus_199** [+14]  *Ankh-Morpork City Watch**
+>>> **u/The_Magus_199** [+14]  *Ankh-Morpork City Watch* (15 hours later)
 >>> 
 >>> The Hoenn games (gen 3) take place at the same time as the Kanto games, and in them Team Aqua and Team Magma fight to try and awaken Kyogre and Groudon respectively, in order to try and expand the sea or the land respectively. In the climax, one or both teams succeeds, causing natural disasters (storms for Kyogre, a drought for Groudon, or the two alternating in Emerald where they both are woken up and fight each other) until the player intervenes by either defeating the woken legendary in the cave of origin, or in Emeral, waking Rayquaza so that it can stop the fighting.
->>> 
 
-> **u/coltzord** [+10] *
+> **u/coltzord** [+9]  (2 hours later)
 > 
 > This is nice. I'm always wondering about the plot of the games and how things are going to play out in here and this is not how I expected they would find out about the rocket hideout. 
-> I like this.
 > 
+> I like this.
 
-> **u/WankSocrates** [+9] *
+> **u/WankSocrates** [+8]  (5 hours later)
 > 
 > On the one hand: I'm so glad they're talking.
-> On the other: Oh. Oh *no.*
 > 
+> On the other: Oh. Oh *no.*
 
-> **u/chaos-engine** [+9] *
+> **u/chaos-engine** [+9]  (4 days later)
 > 
 > “The advertising for the contest is ubiquitous, banners and posters showing a dark silhouette with a question mark in it, the shape different in each poster”
-> I enjoyed the throwback to “Who’s that Pokemon” from the original series :D
-> Surprised no one else has commented on it yet. Are most folks to young to remember it? (yikes)
 > 
+> I enjoyed the throwback to “Who’s that Pokemon” from the original series :D
+> 
+> Surprised no one else has commented on it yet. Are most folks to young to remember it? (yikes)
 
-> **u/Cariyaga** [+8]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+8]  *Kyubey did nothing wrong* (5 hours later)
 > 
 > Hell yeah! The gang's back together!
-> 
 
-> **u/TheGreatTactician** [+8] *
+> **u/TheGreatTactician** [+8]  (11 hours later)
 > 
 > I do have to wonder, are the player characters from the Hoenn games canon to this universe? Like, maybe they're not catching legendaries and stuff like that since this is a pretty realistically grounded series, but I guess what I'm asking is, do they exist and are they actively taking a part in helping stop the situation in Hoenn?
-> 
 
->> **u/Electric999999** [+5] *
+>> **u/Electric999999** [+3]  (16 hours later)
 >> 
 >> Not sure how active, but given what we've seen so far I wouldn't be surprised if their names pop up.
->> 
 
->>> **u/writersfuelcantmelt** [+5] *
+>>> **u/writersfuelcantmelt** [+5]  (a day later)
 >>> 
 >>> I would love to see them, whether as actual characters with their own chapters, as brief cameos or even just in passing on the news. But then, maybe this even is what convinces them they aren't safe at home and sets them on their adventure?
->>> 
 
->> **u/Ceres_Golden_Cross** [+3] *
+>> **u/Ceres_Golden_Cross** [+3]  (6 days later)
 >> 
 >> I wonder how strong/famous are they by know. Following the games chrology, if both mons are awaken... They have 6-7 badges, which is quite a bunch.
->> 
 
-> **u/Dragolien** [+6] *
+> **u/Dragolien** [+6]  (2 hours later)
 > 
 > Finally, we have a scene with both Red and Blue in! I'm very interested to see how things turn out in Hoenn too.
-> 
 
-> **u/EdenicFaithful** [+6] *
+> **u/EdenicFaithful** [+5]  (15 hours later)
 > 
 > Guess we'll be seeing more of the inner workings of Team Rocket. Very interested to know more about them broadly, especially the less-sinister sides of them. Come to think of it I don't think we've seen a picture of what a low-level member's work would look like.
-> Nice to see the team back together. Hoping for some Red/Blue alone time. I found Blue's perspective fascinating and they really need to hash this out.
 > 
+> Nice to see the team back together. Hoping for some Red/Blue alone time. I found Blue's perspective fascinating and they really need to hash this out.
 
->> **u/writersfuelcantmelt** [+4] *
+>> **u/writersfuelcantmelt** [+4]  (a day later)
 >> 
 >> I've just recently become obsessed with the 2004 cult classic 'Evil Genius', where you build a lair full of mooks and henchmen, so I'm obviously an expert at this subject;   
-
->> 1. So first off, your general purpose raw man power to buy furniture, dynamite caves out and set up rooms, pick up the briefcases full of money, set up cameras and traps... the odds and ends.   
-
->> 2. You get your hospitality industry; the friendly front behind which you operate your shady business. The restaurant, hotel, resort, whatever. They'll also be at shell corporations making your business look good and profitable and stable and not at all money laundering.  
-
->> 3. Then of course the guards are trained in fighting, and can do gigs as terrorists, mercenaries, guns for hire, security, kidnappings, whatever.   
-
->> 4. The iconic researchers and technicians will run your computer systems monitoring the global situation (where can we deploy soldiers too? Who needs a fake charity to boost our image?), as well as to research new and interesting things (You know, a camera with a laser on it is basically a motion sensor, right? And this furnace we're shoveling coal into, well it's in the basement, and we could just open the floor up to it. We'll just tell everyone that works here not to step right HERE, and when the bad guys break in, they fall into the flames!)  
-
->> Obviously all of these mooks could level up from basic grunts to karate masters or sharpshooters, from lab techs to quantum physicists, etc.   
-
->> Don't forget, the only way to turn a henchman into anything other than a henchman is to have him kidnap a maid or plumber or something and strap them into a chair and interrogate them. Usually with Michael Jackson moves, sometimes cymbals.
 >> 
+>> 1. So first off, your general purpose raw man power to buy furniture, dynamite caves out and set up rooms, pick up the briefcases full of money, set up cameras and traps... the odds and ends.   
+>> 
+>> 2. You get your hospitality industry; the friendly front behind which you operate your shady business. The restaurant, hotel, resort, whatever. They'll also be at shell corporations making your business look good and profitable and stable and not at all money laundering.  
+>> 
+>> 3. Then of course the guards are trained in fighting, and can do gigs as terrorists, mercenaries, guns for hire, security, kidnappings, whatever.   
+>> 
+>> 4. The iconic researchers and technicians will run your computer systems monitoring the global situation (where can we deploy soldiers too? Who needs a fake charity to boost our image?), as well as to research new and interesting things (You know, a camera with a laser on it is basically a motion sensor, right? And this furnace we're shoveling coal into, well it's in the basement, and we could just open the floor up to it. We'll just tell everyone that works here not to step right HERE, and when the bad guys break in, they fall into the flames!)  
+>> 
+>> Obviously all of these mooks could level up from basic grunts to karate masters or sharpshooters, from lab techs to quantum physicists, etc.   
+>> 
+>> Don't forget, the only way to turn a henchman into anything other than a henchman is to have him kidnap a maid or plumber or something and strap them into a chair and interrogate them. Usually with Michael Jackson moves, sometimes cymbals.
 
-> **u/DaystarEld** [+4]  *Pokémon Professor**
+> **u/DaystarEld** [+5]  *Pokémon Professor* (2 minutes later)
 > 
 > Typo thread!
-> 
 
->> **u/CarVac** [+2] *
+>> **u/CarVac** [+2]  (an hour later)
 >> 
 >> Not entirely sure about how this works in present-tense writing, but
->> >if he wasn't so focused on ensuring as many pokemon are as well cared for as possible, he could be
->> "weren't so focused"?
 >> 
+>> >if he wasn't so focused on ensuring as many pokemon are as well cared for as possible, he could be
+>> 
+>> "weren't so focused"?
 
->>> **u/Adonidis** [+6] *
+>>> **u/Adonidis** [+4]  (an hour later)
 >>> 
 >>> Indeed, subjunctive is correct here.
->>> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (9 hours later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/Hidden-50** [+2] *
+>> **u/Hidden-50** [+2]  (6 hours later)
 >> 
 >> > If it really is a new specie
->> specie -> species
->> > She decides to wait until she can talk to him again, and continues withdrawing the rest of the pokemon as dials Red
->> as dials -> as she dials
->> > she think Mr. Sakai enjoys teaching it, too.
->> she think -> she thinks
->> > ignoring the machines that would let them create their own game cards pre-load them with money
->> pre-load them -> and pre-load them
->> > the fifth would bumped the payout to 100,000
->> would -> would have
 >> 
+>> specie -> species
+>> 
+>> > She decides to wait until she can talk to him again, and continues withdrawing the rest of the pokemon as dials Red
+>> 
+>> as dials -> as she dials
+>> 
+>> > she think Mr. Sakai enjoys teaching it, too.
+>> 
+>> she think -> she thinks
+>> 
+>> > ignoring the machines that would let them create their own game cards pre-load them with money
+>> 
+>> pre-load them -> and pre-load them
+>> 
+>> > the fifth would bumped the payout to 100,000
+>> 
+>> would -> would have
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (9 hours later)
 >>> 
 >>> Fixed, thank you!
->>> 
 
->> **u/FireHawkDelta** [+2]  ***
+>> **u/FireHawkDelta** [+2]  ** (3 days later)
 >> 
 >> Leaf says the first earthquakes are off the east coast of Hoenn, while the seafloor cavern in the games is south of Hoenn. I guess you indended it to follow the games, and just forgot the Hoenn map is rotated 90 degrees from Kyushu IRL. That or the quakes are just very widespread, or you intended for the first one to be near Mt Chimney rather than Sootopolis. It's hard to tell what was intended here.
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (3 days later)
 >>> 
 >>> Ha, good catch! I did indeed forget about the rotation :) Fixing it now, thanks!
->>> 
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (14 hours later)
 >> 
 >> speech app on: -> ;
->> before she was as good -> before she's
->> one of my own needs are -> Singular vs plural disagreement.
->> signs of her investigation: -> :
->> Unfortunately by the time -> Unfortunately,
->> and smiling to herself -> Doesn't quite fit when the subject was "her thoughts". Could be "smiles" or "starts smiling".
->> as the table start -> "tables start" or "table starts"
 >> 
+>> before she was as good -> before she's
+>> 
+>> one of my own needs are -> Singular vs plural disagreement.
+>> 
+>> signs of her investigation: -> :
+>> 
+>> Unfortunately by the time -> Unfortunately,
+>> 
+>> and smiling to herself -> Doesn't quite fit when the subject was "her thoughts". Could be "smiles" or "starts smiling".
+>> 
+>> as the table start -> "tables start" or "table starts"
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (16 hours later)
 >>> 
 >>> All fixed, thanks!
->>> 
 
->>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> **u/thrawnca** [+1]  *Carbon-based biped* (16 hours later)
 >>>> 
 >>>> Most look good. The one about Leaf smiling to herself, though, has dropped the "to herself" but that wasn't the problematic part.
->>>> 
 
->>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (18 hours later)
 >>>>> 
 >>>>> Woops, super fixed now.
->>>>> 
 
->>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (20 hours later)
 >>>>>> 
 >>>>>> Looks good (^ ^)b
->>>>>> 
 
->> **u/Jigsawbit** [+1] *
+>> **u/Jigsawbit** [+1]  (19 hours later)
 >> 
 >> >Sure, that the thing
->> That's the thing
->> >when the rumble is rent by an almighty crack, 
->> I'm not sure what word you wanted to use here, but I don't think it's rent?
 >> 
+>> That's the thing
+>> 
+>> >when the rumble is rent by an almighty crack, 
+>> 
+>> I'm not sure what word you wanted to use here, but I don't think it's rent?
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (a day later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/writersfuelcantmelt** [+1] *
+>> **u/writersfuelcantmelt** [+1]  (2 days later)
 >> 
 >> Not exactly a typo, but Blues letter to Red is written in italics, and Leafs immediate reaction is a mental word, also in italics. I know that’s the existing format, but having them next to each other makes for a clunky read; maybe use something like “Leaf rolled her eyes. /Rambly/?” Or some other way to break up the letter and her first thought.
->> 
 
-> **u/cheesy-aint-easy** [+4] *
+> **u/cheesy-aint-easy** [+4]  (20 hours later)
 > 
 > Is there a chance, that through the stay at home induced time, ghat there will be more chapters coming out sooner than monthly?  It is one of the things I am always looking forward to in these troubled times...
-> And as always, well done, I really enjoyed the chapter
 > 
+> And as always, well done, I really enjoyed the chapter
 
-> **u/gamerpenguin** [+3] *
+> **u/gamerpenguin** [+3]  (22 hours later)
 > 
 > Wait, if this underground facility built by Giovanni collapses, the labs may also collapse! Maybe this is where Mewtwo makes his escape!
-> 
 
->> **u/ForMyWork** [+4] *
+>> **u/ForMyWork** [+4]  (a day later)
 >> 
 >> I'm quite certain that is in another location, the outside of that lab was in a grassy area.
->> 
 
->>> **u/gamerpenguin** [+3] *
+>>> **u/gamerpenguin** [+3]  (a day later)
 >>> 
 >>> Right, but they're both likely in the same archipelago and may have similar construction
->>> 
 
->>>> **u/ForMyWork** [+3] *
+>>>> **u/ForMyWork** [+4]  (a day later)
 >>>> 
 >>>> Ah I see, I thought you were implying under the casino were the labs, but you were saying since collapses are happening the labs may also separately collapse. That makes much more sense. Though I do assume they are built to be sturdier to contain Mewtwo as well.
->>>> 
 
->> **u/hbthebattle** [+4] *
+>> **u/hbthebattle** [+5]  (a day later)
 >> 
 >> In all likelihood Mewtwo is in Hoenn right now, dealing with the crisis. Giovanni was training him directly for the awakening of Groudon and Kyogre, which is absolutely happening.
->> 
 
->> **u/Baljar** [+2] *
+>> **u/Baljar** [+2]  (4 days later)
 >> 
 >> Could be. Groudon causes Cinnabar volcano to erupt, giving Mewtwo his chance to escape? It's a cool idea.
->> 
 
-> **u/ForMyWork** [+2] *
+> **u/ForMyWork** [+2]  (a day later)
 > 
 > Loved the chapter! I'm glad to see the team back together again, if tentatively to start with, what with them not having addressed the split itself. But it seems that may be forced to the forefront soon, or maybe even put on the back-burner while they escape (explore?) the underground rocket base.   
-
-> Also tentative is my rising hope for Red and Leaf! We may have nudged in the right direction in this chapter, though it's still a bit shaky.  
-
-> I must admit, the first quake I didn't connect to the showers indicating it was the Hoenn pair going at it, but it clicked a bit after. It'll be interesting to see the reaction both there and here, and I have to wonder how Giovanni will try and solve it, since he is closely related to both parties I assume he will.
 > 
+> Also tentative is my rising hope for Red and Leaf! We may have nudged in the right direction in this chapter, though it's still a bit shaky.  
+> 
+> I must admit, the first quake I didn't connect to the showers indicating it was the Hoenn pair going at it, but it clicked a bit after. It'll be interesting to see the reaction both there and here, and I have to wonder how Giovanni will try and solve it, since he is closely related to both parties I assume he will.
 
->> **u/writersfuelcantmelt** [+2] *
+>> **u/writersfuelcantmelt** [+2]  (a day later)
 >> 
 >> To me it felt too foreboding to just be descriptive text, but vague enough I never pieced it together... about as good as foreshadowing gets!
->> 
 
-> **u/writersfuelcantmelt** [+2] *
+> **u/writersfuelcantmelt** [+2]  (a day later)
 > 
 > I bug all my friends with how much I talk about this story. I'm literally such a nerd for this.   
-
-> Loved the ship complexity; the gang's back and I love it but also gonna be more complex... they all had a huge jump in power and ability, but suddenly their coordination and shared goals are DRASTICALLY different. This could lead to redefining themselves together, or being too different to work together, or any combination of giving up other goals to get back to adventuring or giving up adventuring because OHGODDANGER....  
-
-> Just when I was thinking the whole rocket casino part was being HPMOR chamber of secrets hand-waved away, it comes crashing through! What a roller coaster.
 > 
+> Loved the ship complexity; the gang's back and I love it but also gonna be more complex... they all had a huge jump in power and ability, but suddenly their coordination and shared goals are DRASTICALLY different. This could lead to redefining themselves together, or being too different to work together, or any combination of giving up other goals to get back to adventuring or giving up adventuring because OHGODDANGER....  
+> 
+> Just when I was thinking the whole rocket casino part was being HPMOR chamber of secrets hand-waved away, it comes crashing through! What a roller coaster.
 
-> **u/diggerda** [+2] *
+> **u/diggerda** [+2]  (5 days later)
 > 
 > There better be at least one button behind a poster!
-> 
 
-> **u/Ceres_Golden_Cross** [+2] *
+> **u/Ceres_Golden_Cross** [+2]  (6 days later)
 > 
 > I'm not screaming, you are screamimg.
 > GROUDON AND KYOGRE
 > As a hoenn baby, I'm so happy to read this. Finally, I get to grasp the size of the cataclism those gods provide. I hope you tell us as much as posible, probably enough to make me retcon some stuff in my PTU campaign.
-> 
 
-> **u/cthulhusleftnipple** [+2] *
+> **u/cthulhusleftnipple** [+2]  (13 hours later)
 > 
 > Can anyone tell me if I should give this story another go? I read the first three or so chapters a couple years ago, and just had trouble getting in to it. Does it get better/change in tone, or is it just not a good fit for me?
-> 
 
->> **u/shankarsivarajan** [+7] *
+>> **u/shankarsivarajan** [+5]  (a day later)
 >> 
 >> The world is extremely well-built, as are the characters. Some scenes are so visceral that every thunderstorm, I find myself thinking of a line from the chapter with Zapdos.
->> At times the characters' thoughts could stand to be a little more "show, don't tell," but this is intended as a "rationalist" story, so that's a stylistic choice. I really dislike the "therapy" chapters (basically entirely told, not shown), but they're few and far between. There's also a fair bit of woo-woo psychology, some of it taken seriously.
->> I've been reading this story every month for more than five years, so let that inform how you take my critique.
->> I think you've read so little that you've only seen the story's weaknesses. You should give it another shot, reading at least a few more chapters; once the cliffhangers start, I expect you'll be hooked.
->> Also, I vaguely remember that the first few chapters were being rewritten. They might be better now; I haven't reread them.
 >> 
+>> At times the characters' thoughts could stand to be a little more "show, don't tell," but this is intended as a "rationalist" story, so that's a stylistic choice. I really dislike the "therapy" chapters (basically entirely told, not shown), but they're few and far between. There's also a fair bit of woo-woo psychology, some of it taken seriously.
+>> 
+>> I've been reading this story every month for more than five years, so let that inform how you take my critique.
+>> 
+>> I think you've read so little that you've only seen the story's weaknesses. You should give it another shot, reading at least a few more chapters; once the cliffhangers start, I expect you'll be hooked.
+>> 
+>> Also, I vaguely remember that the first few chapters were being rewritten. They might be better now; I haven't reread them.
 
->> **u/stale2000** [+3] *
+>> **u/stale2000** [+3]  (a day later)
 >> 
 >> The big different between the early chapters, and now, is that, the characters have grown up.  
-
->> Early on, the character truly felt like 11 year olds (which doesn't make for a great story), and now, after going through quite a few significant ordeals, and after years of in story time, it feels like the characters have grown up quite a bit.
 >> 
+>> Early on, the character truly felt like 11 year olds (which doesn't make for a great story), and now, after going through quite a few significant ordeals, and after years of in story time, it feels like the characters have grown up quite a bit.
 
->>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>> **u/DaystarEld** [+7]  *Pokémon Professor* (3 days later)
 >>> 
 >>> \*months of in story time
->>> 
 
->> **u/noimnotgreedy** [+2] *
+>> **u/noimnotgreedy** [+2]  (2 days later)
 >> 
 >> Time to make your beliefs pay rent. Buncha freeloaders!
->> 
 
-> **u/cthulhusleftnipple** [+1] *
+> **u/cthulhusleftnipple** [+1]  (13 hours later)
 > 
 > Can anyone tell me if I should give this story another go? I read the first three or so chapters a couple years ago, and just had trouble getting in to it. Does it get better/change in tone, or is it just not a good fit for me?
-> 
 
->> **u/Sir_William_V** [+14] *
+>> **u/Sir_William_V** [+14]  (14 hours later)
 >> 
 >> Daystareld's interpretation of the Pokemon universe is honestly my absolute favorite interpretation. But I can see where in some places there's just a lot of *talking*, as well as exposition about some world stuff. Sometimes I find myself skipping lines, and even though I go back to read them when I catch myself doing it I don't think it would hurt my enjoyment of the action scenes down the line. I would say you should definitely give it another go, especially if you've ever wanted to know what a truly living Pokemon world would be like. Of course I'm also extremely biased, so keep that in mind!
->> 
 
->>> **u/Radix2309** [+6] *
+>>> **u/Radix2309** [+6]  (19 hours later)
 >>> 
 >>> Yes. I love it so much. The world is so carefully built. So much room for other stories to exist. And yet it incorporates canon in a way that fits this interpretation.
->>> 
 
->>> **u/shankarsivarajan** [+2] *
+>>> **u/shankarsivarajan** [+2]  (a day later)
 >>> 
 >>> >what a truly living Pokemon world would be like.
->>> My headcanon blends this with a lot of *Game of Champions;* Skyeater in particular is a much better Onix.
 >>> 
+>>> My headcanon blends this with a lot of *Game of Champions;* Skyeater in particular is a much better Onix.
 
->>>> **u/DaystarEld** [+7]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+8]  *Pokémon Professor* (3 days later)
 >>>> 
 >>>> My problem with Skyeater (and the Game of Champions world of pokemon in general) was that if you get pokemon that powerful \*and\* are sapient, the worldbuilding kind of falls apart for human survival at that point.  
-
->>>> I don't mean this as a major criticism, I loved GoC. It's actually the only pokemon fanfic I really enjoyed beyond "The Line," which was only a few chapters long.  But realistic/rational it is not.  
-
->>>> Badass, however... hell yes.
 >>>> 
+>>>> I don't mean this as a major criticism, I loved GoC. It's actually the only pokemon fanfic I really enjoyed beyond "The Line," which was only a few chapters long.  But realistic/rational it is not.  
+>>>> 
+>>>> Badass, however... hell yes.
 
->>>>> **u/shankarsivarajan** [+2] *
+>>>>> **u/shankarsivarajan** [+2]  (3 days later)
 >>>>> 
 >>>>> Yeah, that's true; Game of Champions *is* basically post-apocalyptic, with entire towns capable of being destroyed by >!Butterfree.!< It's just that, other than Zapdos (and the other legendaries), none of your pokémon are awe-inspiring. Which is perfectly reasonable, since they're supposed to be mundane.
->>>>> And I read The Line on the recommendation of one of your comments a few years ago; from what little we see, its Giovanni is about as good as yours.
 >>>>> 
+>>>>> And I read The Line on the recommendation of one of your comments a few years ago; from what little we see, its Giovanni is about as good as yours.
 
->>>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (3 days later)
 >>>>>> 
 >>>>>> Yeah, at this point I feel like I'd rather get more The Line than GoC just based on how much more "rich" Giovanni is in it, even if GoC might be more entertaining.
->>>>>> 
 
->>>>>>> **u/shankarsivarajan** [+3] *
+>>>>>>> **u/shankarsivarajan** [+3]  (3 days later)
 >>>>>>> 
 >>>>>>> Since you mention it, there *is* more Game of Champions. There were a few updates (not really chapters, just snippets) last year that most people probably missed. Someone compiled them onto [fanfiction.net/s/13407176/](https://fanfiction.net/s/13407176/).
->>>>>>> 
 
->>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (3 days later)
 >>>>>>>> 
 >>>>>>>> I did see those, thanks!
->>>>>>>> 
 
->> **u/thrawnca** [+8]  *Carbon-based biped**
+>> **u/thrawnca** [+9]  *Carbon-based biped* (14 hours later)
 >> 
 >> It's always relatively slow paced; there are busy chapters, but even then, there's a lot of thinking going on. And there's a lot of psychology in it.
->> If you liked the idea of HPMoR, but thought HJPEV was too arrogant and condescending, TOoS does a good job.
 >> 
+>> If you liked the idea of HPMoR, but thought HJPEV was too arrogant and condescending, TOoS does a good job.
 
->> **u/EdenicFaithful** [+2] *
+>> **u/EdenicFaithful** [+2]  (15 hours later)
 >> 
 >> Turned out to be a much more insightful story than I thought it would be. Also the stakes keep raising; I'd say the beginning is a poor example of the story's merits.
->> 
 
->> **u/lead-y** [+2] *
+>> **u/lead-y** [+2]  (2 days later)
 >> 
 >> One of my favorite things about POoS is that the characters feel like real people. This is not as apparent in the first few chapters. POoS also has a very cool take on the danger and society of the Pokemon world. Again, not really captured in the first few chapters.
->> If you don’t like Red talking about scientific theories, that doesn’t ever go away. But there are a lot of really great aspects of the book that you don’t get until reading more than the first few chapters.
 >> 
+>> If you don’t like Red talking about scientific theories, that doesn’t ever go away. But there are a lot of really great aspects of the book that you don’t get until reading more than the first few chapters.
 
-> **u/SkeevePlowse** [+1] *
+> **u/SkeevePlowse** [+1]  (19 hours later)
 > 
 > So... Leaf's friend "Natural" is really Silver, right?  It's not just me that's thinking that?
-> 
 
->> **u/ECUIYCAMOICIQMQACKKE** [+18] *
+>> **u/ECUIYCAMOICIQMQACKKE** [+18]  (19 hours later)
 >> 
 >> I thought it was pretty obvious he was N from B&W.
->> 
 
->>> **u/SkeevePlowse** [+7] *
+>>> **u/SkeevePlowse** [+7]  (19 hours later)
 >>> 
 >>> Ah, I never played B&W.  Probably should have considered it might've been someone from another game.
->>> 
 
->>>> **u/absolute-black** [+9] *
+>>>> **u/absolute-black** [+9]  (a day later)
 >>>> 
 >>>> Yeah he's extremely definitely N, I'd suggest reading a plot summary of B&W to get an idea of his character
->>>> 
 
-> **u/lead-y** [+1] *
+> **u/lead-y** [+1]  (2 days later)
 > 
 > Is there some timeline of events for this story? I get the impression that only 6 months or so have passed since the beginning of the story. Is that correct? 
-> I love this story! Look forward to reading it every month!
 > 
+> I love this story! Look forward to reading it every month!
 
-> **u/Luminous_Lead** [+1] *
+> **u/Luminous_Lead** [+1]  (2 days later)
 > 
 > Whoa, that's one way to get them into that dungeon!
-> 
 
-> **u/Baljar** [+1] *
+> **u/Baljar** [+1]  (4 days later)
 > 
 > I just realized that last chapter mentioned Scyther were only obtainable in the Safari Zone. Didn't Red's dad get killed by a swarm of Scyther?
-> 
 
->> **u/DaystarEld** [+6]  *Pokémon Professor**
+>> **u/DaystarEld** [+5]  *Pokémon Professor* (4 days later)
 >> 
 >> Yep; the way I see it, they were basically too dangerous to leave in the "Wild" and were caught/hunted into endangered status anyone other than in the preserve.
->> 
 
->>> **u/Baljar** [+1] *
+>>> **u/Baljar** [+1]  (5 days later)
 >>> 
 >>> So this would be something that happened in the last 5ish years? Or are there still the occasional wild swarms?
->>> 
 
->>>> **u/DaystarEld** [+7]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+7]  *Pokémon Professor* (5 days later)
 >>>> 
 >>>> The latter; Red's dad was responding to a crisis when he was killed, not just defending Pallet Town.
->>>> 
 
->>>>> **u/Baljar** [+4] *
+>>>>> **u/Baljar** [+3]  (5 days later)
 >>>>> 
 >>>>> Got it. Thanks for being so active in these threads.
->>>>> I'm loving the story, and the extra work you put into the comment section is really impressive.
 >>>>> 
+>>>>> I'm loving the story, and the extra work you put into the comment section is really impressive.
 
->>>>>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+5]  *Pokémon Professor* (5 days later)
 >>>>>> 
 >>>>>> Thank you!
->>>>>> 
 
-> **u/lead-y** [+1] *
+> **u/lead-y** [+1]  (7 days later)
 > 
 > I wonder if Red is ever going to get around to nicknaming his pokemon.
-> Great chapter!
 > 
+> Great chapter!
 
 ---
 

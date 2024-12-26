@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/ancientcampus** [+2]  *juggling kittens**
+> **u/ancientcampus** [+2]  *juggling kittens* (39 minutes later)
 > 
 > I've always wanted to read(/play) Dangan Ronpa, but I probably won't any time soon. Is this worth reading for those with little knowledge of canon?
-> 
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (an hour later)
 >> 
 >> I've gotten that question a few times--You may be confused for the first arc or so, but after that the story diverges from canon more and more anyway so it won't matter too much.
->> 
 
 ---
 

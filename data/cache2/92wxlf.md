@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.fictionpress.com/s/3327562/2/The-Vasra-Journals
-* Score: 9
+* Score: 11
 
 * Created: 2018-07-29T18:39:39
 
@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (5 minutes later)
 > 
 > Six thousand words to a reader is a watery soup, but by Azura (By Azura By Azura) my brain will burst like the heart of a mortal gazing onto Yog-sothoth's sexy cosmic-class body.
-> Hope you guys enjoy it, the pacing will slow down a bit and involve more character building in the next few chapters. 
-> edit: I think this is several steps from turning into a Japanese harem light novel, gods help me.
 > 
+> Hope you guys enjoy it, the pacing will slow down a bit and involve more character building in the next few chapters. 
+> 
+> edit: I think this is several steps from turning into a Japanese harem light novel, gods help me.
 
 ---
 

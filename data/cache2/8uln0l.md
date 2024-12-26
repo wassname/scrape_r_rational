@@ -20,34 +20,39 @@ I tend to find cults poorly executed in most fiction, or more charitably, I thin
 
 ### Comments:
 
-> **u/WalterTFD** [+2] *
+> **u/WalterTFD** [+2]  (21 hours later)
 > 
 > Cult writing is really hard, basically for the Moldbug reason.
-> To paraphrase, I want to talk to a chick still in its shell about the egg.  I talk about a white thing, thin and fragile, that I can shatter at will.  
-> He doesn't know anything about that.  He says the word I am using refers to the Wall Of The World, the absolute limit of all experience and possibility, the Pressure That Grows.
-> Similarly, if I am writing about a cult, I am not doing so to a cult audience.  (The cult, of course, doesn't see itself as such, it is simply the only group that sees the World-As-It-Is)  So it is going to feel cheap and silly, like watching a magic trick from behind.
-> It's like writing about a character with a compulsion or whatever.  You can be like "Now they must wash their hands ten thousand times", and the reader is like..."Ok, I guess I can imagine what it would be like to do that", but what you want to get across is what it would be like to *have* to do that.
-> To grok a cult, or other worldview, I think one must be a participant.  Outsiders can only be given the whole picture, and the magic trick lies in what is omitted.
-> Maybe the way to properly write a Cult would be to write a fantasy novel kind of story, with a miraculous world latent with purpose serving as the setting, only to reveal the true (utterly mundane) outside POV at the end.  "The City and The City" does something like this.
 > 
+> To paraphrase, I want to talk to a chick still in its shell about the egg.  I talk about a white thing, thin and fragile, that I can shatter at will.  
+> 
+> He doesn't know anything about that.  He says the word I am using refers to the Wall Of The World, the absolute limit of all experience and possibility, the Pressure That Grows.
+> 
+> Similarly, if I am writing about a cult, I am not doing so to a cult audience.  (The cult, of course, doesn't see itself as such, it is simply the only group that sees the World-As-It-Is)  So it is going to feel cheap and silly, like watching a magic trick from behind.
+> 
+> It's like writing about a character with a compulsion or whatever.  You can be like "Now they must wash their hands ten thousand times", and the reader is like..."Ok, I guess I can imagine what it would be like to do that", but what you want to get across is what it would be like to *have* to do that.
+> 
+> To grok a cult, or other worldview, I think one must be a participant.  Outsiders can only be given the whole picture, and the magic trick lies in what is omitted.
+> 
+> Maybe the way to properly write a Cult would be to write a fantasy novel kind of story, with a miraculous world latent with purpose serving as the setting, only to reveal the true (utterly mundane) outside POV at the end.  "The City and The City" does something like this.
 
-> **u/CouteauBleu** [+1]  *We are the Empire.**
+> **u/CouteauBleu** [+1]  *We are the Empire.* (2 hours later)
 > 
 > > before being kidnapped and 'deprogrammed' by his parents
-> Oh yeah, that was a big thing, right?
-> How did it go for him?
 > 
+> Oh yeah, that was a big thing, right?
+> 
+> How did it go for him?
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (5 hours later)
 >> 
 >> Fine. I never got the full details on the deprogramming, but it apparently worked, since he left the church and never looked back. So far as I know, most "deprogramming" is just getting someone good at argumentation to argue in favor of the old value system or set of beliefs, which is more effective than having a vested but inexperienced family member do it.
->> 
 
-> **u/Roneitis** [+1] *
+> **u/Roneitis** [+1]  (12 hours later)
 > 
 > There was a fair bit of cult exploration in the Dune sequels. Both through the specific cult of Muad'Dib, and also the more general stuff created by the Bene Gesserit.
-> The muad'dib cult was interesting, exploring some of the pitfalls of following a messiah, and following it's inevitable downfall. I found it an interesting idea, the active cultivation of cults by groups like the Missionaria Protectiva, through the sowing of prophecies to be made use of by agents in need.
 > 
+> The muad'dib cult was interesting, exploring some of the pitfalls of following a messiah, and following it's inevitable downfall. I found it an interesting idea, the active cultivation of cults by groups like the Missionaria Protectiva, through the sowing of prophecies to be made use of by agents in need.
 
 ---
 

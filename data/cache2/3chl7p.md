@@ -2,7 +2,7 @@
 
 * Author: u/DAL82 *
 * URL: https://www.reddit.com/r/rational/comments/3chl7p/wip_hsf_the_wait_calculation/
-* Score: 4
+* Score: 5
 
 * Created: 2015-07-07T23:38:14
 
@@ -47,76 +47,69 @@ They had been dark for a long time, an indistinguishable speck in the dark. But 
 
 ### Comments:
 
-> **u/blockbaven** [+2] *
+> **u/blockbaven** [+2]  (14 hours later)
 > 
 > The basic premise is almost a cliche. It's been done over and over.
-> https://www.reddit.com/r/scifi/comments/2d3qco/stories_about_long_sleep_colony_ships_waking_up/
 > 
+> https://www.reddit.com/r/scifi/comments/2d3qco/stories_about_long_sleep_colony_ships_waking_up/
 
-> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (an hour later)
 > 
 > I'm confused I see HSF and FTL, why not just make it a faster relativistic engine and a slower one?  Have you read the passages through the void?
-> 
 
->> **u/DAL82** [+2] *
+>> **u/DAL82** [+2]  (an hour later)
 >> 
 >> Sorry, I'm new here.  I might've tagged incorrectly.
->> Is FTL 100% not HSF in this community?
 >> 
+>> Is FTL 100% not HSF in this community?
 
->>> **u/failed_novelty** [+5] *
+>>> **u/failed_novelty** [+3]  (5 hours later)
 >>> 
 >>> HSF is hard sci-fi, which means that the science is good to the best of your knowledge. FTL isn't HSF unless you can demonstrate (or point to a demonstration of) it working in reality.
->>> 
 
->>>> **u/Anderkent** [+1] *
+>>>> **u/Anderkent** [+1]  (13 hours later)
 >>>> 
 >>>> > HSF is hard sci-fi, which means that the science is good to the best of your knowledge.
->>>> Ugh, that's not really true? Like, anti-gravity is fairly common in HSF; we have no science that would support that.
->>>> Usually HSF is science fiction where the technology is in focus; soft science fiction is SF where the technology is just background for a story focused about something else. You can still take an impossible technological idea, but as long as you treat it consistently and in enough detail (rather than just handwaving it away), you're writing HSF.
 >>>> 
+>>>> Ugh, that's not really true? Like, anti-gravity is fairly common in HSF; we have no science that would support that.
+>>>> 
+>>>> Usually HSF is science fiction where the technology is in focus; soft science fiction is SF where the technology is just background for a story focused about something else. You can still take an impossible technological idea, but as long as you treat it consistently and in enough detail (rather than just handwaving it away), you're writing HSF.
 
->>>>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+>>>>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (a day later)
 >>>>> 
 >>>>> This is the problem with using a binary tag to represent [a continuum](http://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfScienceFictionHardness).
->>>>> 
 
->>> **u/Chronophilia** [+0]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+0]  *sci-fi ≠ futurology* (4 hours later)
 >>> 
 >>> Not necessarily, but you lose a few hardness points for it. If that matters to you.
->>> 
 
->>> **u/capsless** [+0]  *despiser of hpmor**
+>>> **u/capsless** [+0]  *despiser of hpmor* (4 hours later)
 >>> 
 >>> ftl isn't hsf in *any* community, afaik. true, different people draw the line in different places, but generally it's kept to speculative tech vs. possible tech. ftl is, like, *proven impossible*. if you're willing to allow mistakes in physics, then *everything's* "hard".
->>> 
 
->>>> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (13 hours later)
 >>>> 
 >>>> [There's multiple levels of hardness.](http://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfScienceFictionHardness)
->>>> Lots of people consider level four (one big lie) to be acceptable in hard SF.
 >>>> 
+>>>> Lots of people consider level four (one big lie) to be acceptable in hard SF.
 
->>>>> **u/Soak96** [+1] *
+>>>>> **u/Soak96** [+1]  (22 hours later)
 >>>>> 
 >>>>> And then there's the really really hard SF - invent an entirely new universe with consistent laws of physics that make "FTL" travel possible.
->>>>> See Greg Egan's Orthogonal trilogy.
 >>>>> 
+>>>>> See Greg Egan's Orthogonal trilogy.
 
->>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (a day later)
 >>>>>> 
 >>>>>> See most of Greg Egan's stuff.
->>>>>> 
 
->>>>>>> **u/Soak96** [+1] *
+>>>>>>> **u/Soak96** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> I was thinking specifically about the "FTL" I guess - everything he writes is hard SF yeah.
->>>>>>> 
 
->>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>>>>>> 
 >>>>>>>> He usually has one impossible idea. The dust theory. Ensemble. Distress. Long Neutrons. Mimosa. ...
->>>>>>>> 
 
 ---
 

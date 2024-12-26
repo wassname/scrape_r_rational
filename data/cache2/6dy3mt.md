@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://forums.sufficientvelocity.com/threads/dragon-ball-after-the-end.30940/
-* Score: 3
+* Score: 4
 
 * Created: 2017-05-29T03:54:03
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/JBVmtg** [+1] *
+> **u/JBVmtg** [+1]  (3 days later)
 > 
 > There doesn't seem to be any activity in the last three weeks or so. Has this been abandoned?
-> 
 
 ---
 

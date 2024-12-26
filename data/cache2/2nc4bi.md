@@ -2,7 +2,7 @@
 
 * Author: u/neshalchanderman *
 * URL: http://www.reddit.com/r/Writeresearch/
-* Score: 20
+* Score: 22
 
 * Created: 2014-11-25T03:53:09
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (8 hours later)
 > 
 > Subbed, and will ~~probably~~ almost definitely make use of it at some point.  I mean, honestly, you can't always just leave fictional characters with your own skillsets.
-> 
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (22 hours later)
 > 
 > Offtopic.  Reddit's voting algorithms really befuddle me sometimes.  A moment ago this was at "11: 88% upvoted".  I upvoted it and reloaded, now it says "14: 100% upvoted"  Assuming that two more upvotes came in at the same time as mine, how do you go from 88% upvoted to 100%?
-> (I know, vote fuzzing.  I just wish they'd be consistent about their numbers.)
 > 
+> (I know, vote fuzzing.  I just wish they'd be consistent about their numbers.)
 
 ---
 

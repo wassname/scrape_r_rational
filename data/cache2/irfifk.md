@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/Ibbot** [+2] *
+> **u/Ibbot** [+2]  (3 hours later)
 > 
 > I'm not sure.  You might have better luck getting answers if you use a post title that tells people what your post is about.  "A question" is not really specific enough.
-> 
 
->> **u/TheShadow777** [+1] *
+>> **u/TheShadow777** [+1]  (4 hours later)
 >> 
 >> Yeah... I realized that after posting it, but honestly it's not that big of a thing, because if I want one, I'm bound to just write it myself.
->> 
 
-> **u/Charlie___** [+2] *
+> **u/Charlie___** [+2]  (4 hours later)
 > 
 > [Google-fu is a useful skill](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.reddit.com%2Fr%2Frational+percy+jackson)
-> 
 
 ---
 

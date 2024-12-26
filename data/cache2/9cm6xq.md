@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/9cm6xq/d_monday_general_rationality_thread/
-* Score: 12
+* Score: 14
 
 * Created: 2018-09-03T15:07:04
 
@@ -20,136 +20,128 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/Veedrac** [+7] *
+> **u/Veedrac** [+6]  (an hour later)
 > 
 > What do people think of MIRI as a charity?
-> 
 
->> **u/callmesalticidae** [+14]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+13]  *writes worldbuilding books* (2 hours later)
 >> 
 >> I’m skeptical of its effectiveness, mainly because I’ve encountered more than a few people who believe that AI is what we should all be focusing on, and who still doubt that MIRI in particular is the optimal AI risk nonprofit. I haven’t seen anyone write up something on what we’d expect from the ideal AI risk nonprofit, either, so as a layperson in a complicated field, I don’t think I’m well equipped to judge MIRI’s effectiveness myself.
->> 
 
->>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast* (9 hours later)
 >>> 
 >>> Yeah , though there are not much more ai safety nonprofits either .
 >>> And all of them are doing different parts of   basic research  so Its difficult to tell at this point  which ones will end up being relevant .
+>>> 
 >>> How much competent researchers  consider the problem important enough to work on it will probably be more important that money , unless you had the enormous amounts of money necessary to change that .
+>>> 
 >>> Miri  has had some impact on the field  , independently on how useful their research ends up being .
 >>> But its not very clear if them having  more  money would change anything significant .
->>> 
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (9 hours later)
 >> 
 >> I have my amazon smile donation set to give money to MIRI, but that's mostly just because I think it's funny. My total donation has ended up being $3.62 so far, which I guess is enough for EY to buy most of a cup of coffee.
->> 
 
-> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+> **u/xamueljones** [+5]  *My arch-enemy is entropy* (an hour later)
 > 
 > So I'm planning to start my first ever quest. TL;DR the quest is about having strange dreams where you explore a world of horror in a bombed city.
+> 
 > Type - Exploration/Mystery/Experimentation
+> 
 > Genre - Horror/Mystery/Journey
+> 
 >  Here's my current [draft](https://docs.google.com/document/d/1JHLywZ8JPwUhB5CrGHwBW2dZEzShti6KAYdWhOsDLCI/edit) of the first chapter for anyone interested.
+> 
 > But I have questions about running a quest that I hope people here can provide advice on:
+> 
 > * I want to do an exploration/mystery style quest. This means that I don't want offer any choices and every post will be write-ins only. Should I expect issues with this?
 > * I have no idea what would be better to post this quest to. SpaceBattles or SufficientVelocity (or some third option I haven't considered). Or should I go with both and combine votes from both sites?
 > * I dislike quests where the character does things out-of-character depending on the vote. So I want to do a trait system where the character will have bonuses or maluses depending in how in-line the vote is with their (determined) personality. The trait system is inspired by [Dragon Ball: After the End](https://forums.sufficientvelocity.com/threads/dragon-ball-after-the-end.30940/). Since it sounds like it might conflict with my desire to only allow write-ins, will this be a problem?
 > * What style of voting would work best? I know of [NetTally](https://forums.spacebattles.com/threads/nettally-vote-tally-program.508853/) and am tentatively deciding on approval voting.
 > * A lot of quests have game mechanics, but I want the quest to be character-driven and to focus on the actions taken rather than stats. Will I run into issues without having stats?
 > * Anything else I should be aware of?
-> 
 
->> **u/best_cat** [+4] *
+>> **u/best_cat** [+3]  (5 hours later)
 >> 
 >> I've seen some threads where the Quest Master ends update posts with a note like, "voting opens 12 hours after this post" to give people a chance to discuss write in plans.
->> In your case, I might insert an extra step.
->> You make an update.  Voters have 24 hours to suggest plans.  You make a post that summarizes the top plans and opens things for voting.
->> You can even add a multiplier for plans that are especially in character
 >> 
+>> In your case, I might insert an extra step.
+>> 
+>> You make an update.  Voters have 24 hours to suggest plans.  You make a post that summarizes the top plans and opens things for voting.
+>> 
+>> You can even add a multiplier for plans that are especially in character
 
->>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (8 hours later)
 >>> 
 >>> >You make an update.  Voters have 24 hours to suggest plans.  You make a post that summarizes the top plans and opens things for voting.
->>> Yeah a moratorium would work well for that, and when I lift the moratorium in 24 hours, I can then post the plans made. Thanks!
 >>> 
+>>> Yeah a moratorium would work well for that, and when I lift the moratorium in 24 hours, I can then post the plans made. Thanks!
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (21 hours later)
 >>>> 
 >>>> I would suggest keeping the moratorium shorter than 24 hours; maybe two or three. Vary it depending on how much discussion you think there will be.
->>>> 
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (2 hours later)
 >> 
 >> I’ll think about the rest and post when I’m no longer on mobile, but SV is the generally seen as the forum to go to for Quests.
->> 
 
-> **u/None** [+3] *
+> **u/None** [+5]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (2 hours later)
 >> 
 >> I’m doing something like that with [Salticidae Philosophiae](https://saltphil.wordpress.com)
->> EDIT: got the link to work, finally
 >> 
+>> EDIT: got the link to work, finally
 
->> **u/None** [-3] *
+>> **u/None** [-3]  (2 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/sicutumbo** [+6] *
+>>> **u/sicutumbo** [+5]  (2 hours later)
 >>> 
 >>> So this bot seems to work by finding comments with the string "Sarah", "John" or "terminated" in them and making the relevant reply to that comment.
->>> Honestly, I don't think it adds much to any given conversation, was probably made just to get experience making a Reddit bot, and should be banned.
 >>> 
+>>> Honestly, I don't think it adds much to any given conversation, was probably made just to get experience making a Reddit bot, and should be banned.
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (12 hours later)
 >>>> 
 >>>> Just gave it a ban.
->>>> 
 
->>>>> **u/sicutumbo** [+1] *
+>>>>> **u/sicutumbo** [+1]  (12 hours later)
 >>>>> 
 >>>>> Thank you.
->>>>> 
 
->>> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (2 hours later)
 >>> 
 >>> No no, John FOWLER.
->>> 
 
->>> **u/Killako1** [+1] *
+>>> **u/Killako1** [+1]  (9 hours later)
 >>> 
 >>> Bad bot
->>> 
 
-> **u/EmmaJuicyClementine** [+6] *
+> **u/EmmaJuicyClementine** [+2]  (3 hours later)
 > 
 > If anyone else here is poly like me, I found a great little poly discord server here: [https://discord.gg/AamDEGC](https://discord.gg/AamDEGC) 
-> It's an awesome community, and I definitely recommend checking it out
 > 
+> It's an awesome community, and I definitely recommend checking it out
 
->> **u/EPPiano** [+1] *
+>> **u/EPPiano** [+1]  (13 hours later)
 >> 
 >> Poly?
->> 
 
->>> **u/causalchain** [+1] *
+>>> **u/causalchain** [+1]  (16 hours later)
 >>> 
 >>> Polyamorous
->>> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (a day later)
 >> 
 >> Neat, I'll check it out, thanks for posting it!
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (9 hours later)
 > 
 > Anyone know a good intro to Bayesian extreme-value modeling?
-> 
 
 ---
 

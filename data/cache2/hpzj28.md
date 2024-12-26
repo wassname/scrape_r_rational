@@ -21,15 +21,13 @@ Also, please wish William a very happy birthday.
 
 ### Comments:
 
-> **u/Rhythminthemind** [+3] *
+> **u/Rhythminthemind** [+3]  (17 hours later)
 > 
 > Happy birthday, William.
-> 
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (9 days later)
 > 
 > Update, we've finished the text of the next chapter, currently editing.
-> 
 
 ---
 

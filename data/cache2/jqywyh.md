@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/rizcoco** [+1] *
+> **u/rizcoco** [+1]  (3 hours later)
 > 
 > There's a description in the sidebar. Awareness of genre tropes is secondary.
-> 
 
 ---
 

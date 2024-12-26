@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/ccjmo0/gpt2_tickertape_method_for_idea_generation/
-* Score: 64
+* Score: 62
 
 * Created: 2019-07-13T01:40:45
 
@@ -161,166 +161,189 @@ GPT-2 does *not* come up with original proper names. I've tried to create namege
 
 ### Comments:
 
-> **u/Iwasahipsterbefore** [+9] *
+> **u/Iwasahipsterbefore** [+7]  (13 hours later)
 > 
 > >Sonic boom, no I don't like that one.
-> Lol
 > 
+> Lol
 
->> **u/Toastybob42** [+2] *
+>> **u/Toastybob42** [+2]  (16 days later)
 >> 
 >> Nothing personnel.
->> 
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (3 hours later)
 > 
 > Time to boot up warehouse 23 I suppose.
-> http://basement.warehouse23.com/box/index.html
 > 
+> http://basement.warehouse23.com/box/index.html
 
-> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (3 days later)
 > 
 > At least if *this* AI ever gets out of control we know its weak point. It fears sonic booms.
-> 
 
-> **u/abcd_z** [+1] *
+> **u/abcd_z** [+1]  (23 hours later)
 > 
 > Hey, is there a bug on that site? I can't get anything to happen on my older Firefox or my somewhat newer Android Chrome.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> .
->> 
 
->>> **u/abcd_z** [+1] *
+>>> **u/abcd_z** [+1]  (3 days later)
 >>> 
 >>> I never got the website to run on my computer, but my GF has a setup that works.
->>> 
 
-> **u/abcd_z** [+1] *
+> **u/abcd_z** [+1]  (3 days later)
 > 
 > IME, GPF-2 has three problems.  The first problem is its tendency to repeat earlier elements.  The second is that, even if you remove the duplicates, it tends to lose the varied sentence structure of the priming elements.  The third problem is that, if you increase the temperature to counteract the first two problems, it tends to lose track of the original material and start going its own direction.  
-> The best results I've gotten so far were when I used it as an oracle to help me write story outlines.  I wrote down the outline I had come up with so far and let GPT-2 complete the next sentence.  It usually came up with something I didn't like, but there was no cost to rolling the dice again and again until I found something I *did* like.  I fed it a paragraph or two describing a Narnia story, which then evolved into a story where the White Witch was obsessed with a book (whose details elude me now, but I think it dealt with the Lost First Men).  The children and Aslan had to retrieve the book before the witch could.  The wizard Zaza helped them deal with their first obstacle, an island of amazons.  By the end of the story arc one of the amazons, who had been in love with Zaza, faked her death to be with him.
-> I never would have been able to come up with any of that on my own.
 > 
+> The best results I've gotten so far were when I used it as an oracle to help me write story outlines.  I wrote down the outline I had come up with so far and let GPT-2 complete the next sentence.  It usually came up with something I didn't like, but there was no cost to rolling the dice again and again until I found something I *did* like.  I fed it a paragraph or two describing a Narnia story, which then evolved into a story where the White Witch was obsessed with a book (whose details elude me now, but I think it dealt with the Lost First Men).  The children and Aslan had to retrieve the book before the witch could.  The wizard Zaza helped them deal with their first obstacle, an island of amazons.  By the end of the story arc one of the amazons, who had been in love with Zaza, faked her death to be with him.
+> 
+> I never would have been able to come up with any of that on my own.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 days later)
 >> 
 >> I have something similar. I gave it this prompt: Luigi Diomedes is a famous figure from Italian folklore. He is the hero of the "Pisa Cycle", a series of sixteen stories originating from the city of Pisa. 
->> So far it's up to story six, where the immortal-as-in-regenerates-from-a-pile-of-dust-immortal Luigi and his travelling companion, the shapeshifting ogre Lucino, have descended into a cyclopean underground city to retrieve the seeds stolen from the garden of Idun by the scoundrel Maxime - a man who wants to slaughter the heathen gods - as well as to save Lucino's daughter from him. Meanwhile they're being hunted by the prince of hell, and a greater-scope villain named Ismael has been forshadowed in the fourth story.
 >> 
+>> So far it's up to story six, where the immortal-as-in-regenerates-from-a-pile-of-dust-immortal Luigi and his travelling companion, the shapeshifting ogre Lucino, have descended into a cyclopean underground city to retrieve the seeds stolen from the garden of Idun by the scoundrel Maxime - a man who wants to slaughter the heathen gods - as well as to save Lucino's daughter from him. Meanwhile they're being hunted by the prince of hell, and a greater-scope villain named Ismael has been forshadowed in the fourth story.
 
->>> **u/abcd_z** [+2] *
+>>> **u/abcd_z** [+2]  (3 days later)
 >>> 
 >>> LMAO.  That's awesome.  How much detail did it go into?  I mean, are these full-fledged stories or just story outlines?  Also, how much curation did you have to do?  I usually had to redo the autocomplete about a dozen times each, and I would occasionally cut out part of the result or even insert my own ideas.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (5 days later)
 >>>> 
 >>>> Curation needs are variable. I did most of my intercessions when it was obvious that the model was gostaking it up. It can go for almost an entire story without doing that, or I might be required to write multiple paragraphs. Sometimes I would directly intercede when I had a particular notion - a giant pyramid in the underground city, for example. I would say about 75% of the content is model-originating. Much of that required multiple attempts. Regarding detail I'll just post what I have as a reply to this comment, so click through into the thread to see it, if you're interested.
->>>> 
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (5 days later)
 >>>>> 
 >>>>> Luigi Diomedes is a famous figure from Italian folklore. He is the hero of the "Pisa Cycle", a series of sixteen stories originating from the city of Pisa. 
->>>>> The first of these stories is called "The Golden Apple" and serves to introduce the character.  This story begins with Luigi as an orphan struggling to survive on the streets of Pisa, where he is ill-treated and ill-used by a number of disreputable individuals. Chief among these is Enrico, a well-known and infamous criminal who sells illegal goods. Enrico uses Luigi to move stolen merchandises from one corner of the city to another, and in the process Luigi is caught by the local constabulary, and thrown into gaol.
->>>>> After nearly two weeks without food, Luigi is taken to a nearby camp, where he is forced to perform grueling labor. One night, after the other prisoners are asleep, Luigi is awakened by a knock at the door, and is told that Enrico is in the camp by an injured prisoner. Seeing the man responsible for his suffering, Luigi is determined to beat Enrico down, which he does by attacking the man in his sleep. After beating him to a pulp, Luigi is taken to a waiting guard by another prisoner, and savagely whipped. He is left hanging from the whipping pole, unable to support his own weight.
->>>>> Broken and delerious, Luigi renounces his faith, and curses God. He is left hanging for three days, and nearly dies of thirst. He is finally rescued from the prison by a guard, who is incapable of watching the boy suffer any longer. The guard smuggles him out of the camp, and takes him to his father, a dubious surgeon, who then attempts to treat enrico with soma, a medicine from the mysterious lands to the east.
->>>>> The physician administers the soma by applying it to the wounds on Luigi's back. Luigi falls unconcious almost immediately, and then has a vision of a heathen goddess. The image, which resembles an older woman, claims to be an Idun, a goddess from the countries to the north. She informs Luigi that she was only able to contact him because he renounced his faith in Jesus. She says that without her help, he will surely die. Luigi begs for her assistance. 
->>>>> In response to this, the goddess asks Luigi to perform a service. Idun was the goddess in charge of protecting the golden apples of immortality. She will let luigi take a bite of the apple to become immortal. In return, he must become her champion in the mortal world, and track down the thieves who stole appleseeds from her garden. Luigi begins to accept, but before he can take a bite, she gives him a warning: If he does not destroy them, he will die.
->>>>> One of the thieves, a scoundrel named Maxime, stole Idun's magical dagger. It has two powers: to find immortals, and kill them. Maxime hates the heathen gods and their followers, and will stop at nothing to find and destroy their followers in the mortal world.
->>>>> "Even so," Idun asks, "Will you become my champion? Death here would see you sent to the halls of Helheim, a gentle place. If Maxime kills you outside of my world, your soul will go to hell."
->>>>> Luigi decides to become Idun's champion, and takes a bite of the apple. Instantly, all of his wounds are healed. His body, malnourished from hardship, is miraculously restored, as if he had lived life as a lord instead of a street urchin. He feels better, and soon his hunger is met, but not his thirst. For even immortals must drink.
->>>>> As the vision ends, Idun wishes Luigi luck, promising that if he succeeds, they will meet again, and she will take him as her pupil.
->>>>> Luigi wakes up in the house of the guard's father, who is holding a sword in his hand. He thinks Luigi might be possessed by a demon, and commands him to pick up a cross. Luigi does so, and after a moment, the surgeon relaxes. He had no idea that soma could be so good for him. Luigi laughs, and thanks the man for saving his life, swearing to repay his debt of gratitude in the future. He then asks for water. 
->>>>> When the surgeon brings a bucket, Luigi drinks the entire thing in one go. Then, feeling restored, he leaves, thanking the surgeon again.
->>>>> Setting out from the town, Luigi encounters an ogre that has taken the form of a donkey, and is waiting for him. The ogre smashes Luigi into paste, but Luigi is now immortal - he heals back to full health right before the ogre's eyes. This terrifies the ogre, who thinks that Luigi must surely be a heathen god.
->>>>> Luigi wonders why the ogre attacked, and why it has taken on the form of a donkey. Eager to answer his questions, the ogre informs him that Maxime told him to wait here, and to snatch the first man meeting Luigi's description walking from Pisa. Luigi is frightened by the information, but manages to control his fear and asks why the ogre is doing Maxime's bidding.
->>>>> The orge replies that Maxime has threatened to kill his daughter if he does not obey his commands. Suddenly feeling sympathy for him, Luigi asks the ogre for his name. He responds that his name is Lucino. Luigi proposes to Lucino that they work together to kill Maxime and save Lucino's daughter. Lucino accepts and tells Luigi that he knows where Maxime is. He then transforms into a thoroughbred steed, and they ride off to find Maxime's secret base in the foothills of the Alps. This ends the first story.
->>>>> The second story of the Pisa Cycle is called "The Skeleton Horse". It begins with Luigi and Lucino having a friendly conversation as they near the foothills of the alps. Suddenly, the sky grows dark, and they hear the sounds of thundering hooves. Lucino reacts with terror, running off the road over Luigi's protests. He transforms into the form of a man, and pulls Luigi into a culvert, out of sight from the road. Luigi reacts with anger, but Lucino covers his mouth, rasing a fingger to his lips. A minute later, hundreds of riders in black armour led by a man on a giant skeleton horse emerge from the darkness. It takes them nearly an hour to pass through the area as Luigi and Lucino hide from them.
->>>>> Finally, the column of dark soldiers passes, and light returns. Luigi and Lucino emerge from the culvert. Luigi asks Lucino who the soldiers are, and Lucino answers with a warning not to speak of them. They are evil, nameless things that are only shaped like men, and they have the power to know when any human speaks of them, and where they are. They exist only to find those people, and to do terrible things to them. Luigi begins to say something - but Lucino cover his mouth, and tells him to think carefully, and that he must not talk about the soldiers no matter what. After a long moment, Luigi nods, and they return to the road, Lucino turning back into a horse so that Luigi doesn't have to walk.
->>>>> After a moment, Luigi realises that Lucino knows that he is an immortal human, and not a god. He asks Lucino why he is still helping him. Lucino explains that, in the past, he did evil things, but then a druid of Toutatis who had been blessed with intangibility met him, and after many years, convinced him that what he did was wrong. The priest died a long time ago, and Lucino spent many years trying to live a good life before Maxime threatened his daughter. While he could save his daughter by doing what the scoundrel Maxime wanted, he'd prefer to save her without having to do wicked things. So it doesn't matter to him that Luigi isn't a divine being, so long as he's willing to help him save Lucino's child.
->>>>> Luigi is very moved by this story, and after a long while, is in tears because he wishes he could have had a father like Lucino. He swears to save Lucino's child, even if it means taking down the Prince of Hell. Lucino laughs, and calls Luigi a good man. Luigi admits he is just fourteen.
->>>>> They arrive at the entrance to the scoundrel Maxime's lair. This ends the second story.
 >>>>> 
+>>>>> The first of these stories is called "The Golden Apple" and serves to introduce the character.  This story begins with Luigi as an orphan struggling to survive on the streets of Pisa, where he is ill-treated and ill-used by a number of disreputable individuals. Chief among these is Enrico, a well-known and infamous criminal who sells illegal goods. Enrico uses Luigi to move stolen merchandises from one corner of the city to another, and in the process Luigi is caught by the local constabulary, and thrown into gaol.
+>>>>> 
+>>>>> After nearly two weeks without food, Luigi is taken to a nearby camp, where he is forced to perform grueling labor. One night, after the other prisoners are asleep, Luigi is awakened by a knock at the door, and is told that Enrico is in the camp by an injured prisoner. Seeing the man responsible for his suffering, Luigi is determined to beat Enrico down, which he does by attacking the man in his sleep. After beating him to a pulp, Luigi is taken to a waiting guard by another prisoner, and savagely whipped. He is left hanging from the whipping pole, unable to support his own weight.
+>>>>> 
+>>>>> Broken and delerious, Luigi renounces his faith, and curses God. He is left hanging for three days, and nearly dies of thirst. He is finally rescued from the prison by a guard, who is incapable of watching the boy suffer any longer. The guard smuggles him out of the camp, and takes him to his father, a dubious surgeon, who then attempts to treat enrico with soma, a medicine from the mysterious lands to the east.
+>>>>> 
+>>>>> The physician administers the soma by applying it to the wounds on Luigi's back. Luigi falls unconcious almost immediately, and then has a vision of a heathen goddess. The image, which resembles an older woman, claims to be an Idun, a goddess from the countries to the north. She informs Luigi that she was only able to contact him because he renounced his faith in Jesus. She says that without her help, he will surely die. Luigi begs for her assistance. 
+>>>>> 
+>>>>> In response to this, the goddess asks Luigi to perform a service. Idun was the goddess in charge of protecting the golden apples of immortality. She will let luigi take a bite of the apple to become immortal. In return, he must become her champion in the mortal world, and track down the thieves who stole appleseeds from her garden. Luigi begins to accept, but before he can take a bite, she gives him a warning: If he does not destroy them, he will die.
+>>>>> 
+>>>>> One of the thieves, a scoundrel named Maxime, stole Idun's magical dagger. It has two powers: to find immortals, and kill them. Maxime hates the heathen gods and their followers, and will stop at nothing to find and destroy their followers in the mortal world.
+>>>>> 
+>>>>> "Even so," Idun asks, "Will you become my champion? Death here would see you sent to the halls of Helheim, a gentle place. If Maxime kills you outside of my world, your soul will go to hell."
+>>>>> 
+>>>>> Luigi decides to become Idun's champion, and takes a bite of the apple. Instantly, all of his wounds are healed. His body, malnourished from hardship, is miraculously restored, as if he had lived life as a lord instead of a street urchin. He feels better, and soon his hunger is met, but not his thirst. For even immortals must drink.
+>>>>> 
+>>>>> As the vision ends, Idun wishes Luigi luck, promising that if he succeeds, they will meet again, and she will take him as her pupil.
+>>>>> 
+>>>>> Luigi wakes up in the house of the guard's father, who is holding a sword in his hand. He thinks Luigi might be possessed by a demon, and commands him to pick up a cross. Luigi does so, and after a moment, the surgeon relaxes. He had no idea that soma could be so good for him. Luigi laughs, and thanks the man for saving his life, swearing to repay his debt of gratitude in the future. He then asks for water. 
+>>>>> 
+>>>>> When the surgeon brings a bucket, Luigi drinks the entire thing in one go. Then, feeling restored, he leaves, thanking the surgeon again.
+>>>>> 
+>>>>> Setting out from the town, Luigi encounters an ogre that has taken the form of a donkey, and is waiting for him. The ogre smashes Luigi into paste, but Luigi is now immortal - he heals back to full health right before the ogre's eyes. This terrifies the ogre, who thinks that Luigi must surely be a heathen god.
+>>>>> 
+>>>>> Luigi wonders why the ogre attacked, and why it has taken on the form of a donkey. Eager to answer his questions, the ogre informs him that Maxime told him to wait here, and to snatch the first man meeting Luigi's description walking from Pisa. Luigi is frightened by the information, but manages to control his fear and asks why the ogre is doing Maxime's bidding.
+>>>>> 
+>>>>> The orge replies that Maxime has threatened to kill his daughter if he does not obey his commands. Suddenly feeling sympathy for him, Luigi asks the ogre for his name. He responds that his name is Lucino. Luigi proposes to Lucino that they work together to kill Maxime and save Lucino's daughter. Lucino accepts and tells Luigi that he knows where Maxime is. He then transforms into a thoroughbred steed, and they ride off to find Maxime's secret base in the foothills of the Alps. This ends the first story.
+>>>>> 
+>>>>> The second story of the Pisa Cycle is called "The Skeleton Horse". It begins with Luigi and Lucino having a friendly conversation as they near the foothills of the alps. Suddenly, the sky grows dark, and they hear the sounds of thundering hooves. Lucino reacts with terror, running off the road over Luigi's protests. He transforms into the form of a man, and pulls Luigi into a culvert, out of sight from the road. Luigi reacts with anger, but Lucino covers his mouth, rasing a fingger to his lips. A minute later, hundreds of riders in black armour led by a man on a giant skeleton horse emerge from the darkness. It takes them nearly an hour to pass through the area as Luigi and Lucino hide from them.
+>>>>> 
+>>>>> Finally, the column of dark soldiers passes, and light returns. Luigi and Lucino emerge from the culvert. Luigi asks Lucino who the soldiers are, and Lucino answers with a warning not to speak of them. They are evil, nameless things that are only shaped like men, and they have the power to know when any human speaks of them, and where they are. They exist only to find those people, and to do terrible things to them. Luigi begins to say something - but Lucino cover his mouth, and tells him to think carefully, and that he must not talk about the soldiers no matter what. After a long moment, Luigi nods, and they return to the road, Lucino turning back into a horse so that Luigi doesn't have to walk.
+>>>>> 
+>>>>> After a moment, Luigi realises that Lucino knows that he is an immortal human, and not a god. He asks Lucino why he is still helping him. Lucino explains that, in the past, he did evil things, but then a druid of Toutatis who had been blessed with intangibility met him, and after many years, convinced him that what he did was wrong. The priest died a long time ago, and Lucino spent many years trying to live a good life before Maxime threatened his daughter. While he could save his daughter by doing what the scoundrel Maxime wanted, he'd prefer to save her without having to do wicked things. So it doesn't matter to him that Luigi isn't a divine being, so long as he's willing to help him save Lucino's child.
+>>>>> 
+>>>>> Luigi is very moved by this story, and after a long while, is in tears because he wishes he could have had a father like Lucino. He swears to save Lucino's child, even if it means taking down the Prince of Hell. Lucino laughs, and calls Luigi a good man. Luigi admits he is just fourteen.
+>>>>> 
+>>>>> They arrive at the entrance to the scoundrel Maxime's lair. This ends the second story.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (5 days later)
 >>>>>> 
 >>>>>> The third story of the Pisa Cycle has to do with the arrival of the Prince of Hell in Pisa. It's title is "The Prince of Hell" and the opening scene is of the Prince sailing on a ship with four slaves, which eventually takes them to a large temple, where the God of Knowledge, Ketheria, dwells. He enters the temple, and desecrates a large statue of Ketheria, enraging the priests. Ketheria then uses his power to turn the entire temple into water, and attempts to drown  them all out of sheer rage, but the Prince of Hell merely snaps his fingers, and all the water is gone. Ketheria then appears at the Prince's feet, bound by his evil power.
->>>>>> The Prince demands that Ketheria reveal to him the human who threatened his life. Ketheria despises the Prince, but is terrified, and tells him that it was an orphan named Luigi who lives in Pisa. The prince of hell is perplexed, because orphans are usually too weak to draw his notice, but he dismisses the incongruity. After sending Ketheria to hell to be tortured for a one hundred thousand years for defying him, the Prince of Hell returns to his ships, and sets off for Pisa.
->>>>>> After making landfall at the port of Livorno, the Prince of Hell arrives in Pisa with his four slaves, wearing the disguise of a catholic priest. The disguise was sewn from the skin of such a priest, who had offered the Prince a place to rest the night previous, unaware of who the Prince was. Searching for Luigi, they find no trace of him; so the Prince and his four slaves begin looking for known associates who might be able to help the Prince and his slaves with their mission. They find three: Tinti Majorana, the surgeon who had saved Luigi; Italo Majorana, the guard who had freed Luigi; and finally, the criminal Enrico, who had been severely crippled by the beating the Luigi gave him. Tinti and Italo refuse to give the Prince of Hell any information about Luigi, but Enrico is eager for revenge and offers to tell the Prince everything that he knows. The Prince graciously accepts Enrico's offer, and then tortures the Majoranas until they talk. In the end, he uses too much of his infernal power, and they realise that he is a devil. They lie to him about Luigi's whereabouts, misleading him.
->>>>>> Unaware that he has been decieved, the Prince kills the Majoranas and sets off in the direction of the Vatican - but not before healing Enrico, so that Enrico can follow him and get his own revenge. This ends the third story.
->>>>>> The fourth story of the Pisa Cycle is titled 'The Last Night', and is based on a story told by Luigi. It takes place during Luigi and Lucino's final preparations to enter Maxime's lair. The story opens with Luigi and Lucino sitting in front of a campfire. They have a warm conversation, and after the two are finished  speaking about what's to be done, Lucino asks Luigi how he plans to overcome Maxime's sorcery. Luigi replies that, though he has never fought a sorceror, they are common figures in the legends told in Pisa. Those legends tell of the many powers that sorcerors have, but also, of their fatal weaknesses. Lucino replies that the greatest sorceror ever, named Lancer, lived long before the year 3000 BC, and that he also possessed an incredible power that was impossible to be overcome.
->>>>>> Luigi concedes that the greatest sorcerors are impossible to overcome, but then adds that he's fairly sure that Maxime is far from great. The myths of Pisa tell of what a great sorceror can do. Luigi then tells Lucino the tale of the greatest sorceror known in the myths of Pisa. This sorceror was a woman named Ismael. Ismael was a daughter of Ra, one of the most ancient of the heathen gods and was one of the three demigods who ruled over the realm of Italia many thousands of years ago.
->>>>>> Ismael, not content to be a demigod, sought to learn the power of sorcery.  She would travel in the guise of a man and engage the services of various so-called "masters of the art", but none of them had enough wisdom to teach her the secrets she craved. Finally, after many years she grew disgusted with mortals, and began to craft a scheme to gain the wisdom of the one teacher who had the knowledge she sought: Hecate, the Goddess of Magic.
->>>>>> The plan took many years to come to fruition. Ismael, who was a ruler of many nations, used the multitudes under her command to build great sorcerous engines. For she did not know the secrets of true power, but she even paltry knowledge can yield great results with enough sacrifice to make up the difference.
->>>>>> Finally, after 108 years of preparation, the trap was ready, and Ismael summoned Hecate for what was to be her last rite before death. The goddess appeared with a crack of thunder in a pillar of wyrdflame, enraged at the presumption of the half-mortal Ismael. Thoughtlessly, Hecate struck the demigoddess down - and then, Ismael's trap was sprung. For in that place, all who harmed Ismael were harmed equally in turn. Because Ismael had been killed, Hecate also had to die! Such was the nature of the rites that Ismael had performed there. But a goddess cannot physically die - and so Hecate lost her identity, and Ismael's soul poured into her. Thus, Ismael gained Hecate's body and knowledge, and became a true immortal.
->>>>>> Lucino admits that Ismael is a terrifying figure, but asks what the point is. Luigi replies that it should be obvious - Ismael, a demigoddess from the time when the heathen gods still alighted on soil mortal, needed a century to overcome the weaknesses of a sorceror. How could the lowly Maxime have done anything of the sort? This question lifts Lucino's spirits considerably. After a moment of content silence, he asks Luigi what became of Ismael. Luigi reveals that she still exists to this day, living in a dark fortress in the land of Ur. Her evil sorceries are still operating, and Ismael remains just as she was back then, perfect and eternal, surrounded by the tortured ghosts of all the mortals she worked to death to steal Hecate's body and wisdom.
->>>>>> Luigi relates a rumour that she is responsible for the recent increase in solar eclipses. He says that not even the Pope in Rome is able to oppose her.  He says he heard the news himself, and it is true, the pope's office has been reduced to a heap of rubble. This disturbs Lucino, but only a little. This ends the fourth story.
->>>>>> The fifth story of the Pisa Cycle is titled 'The Forsaken Temple,' and concerns Luigi and Lucino's assault on Maxime's stronghold. It begins as the sun rises, the two companions slowly stirring from slumber, and making final preparations. For Luigi, this means preparing a shiv. For Lucino, it means transforming into his true form: an enourmous, hideous ogre with three arms and two faces, taller than three men. Luigi is initially shocked and afraid, but Lucino reminds him that he is still the righteous man from the previous night. After several moments, Luigi masters himself and apologises. Lucino laughs, and says that it is good to know that he looks fearsome.
->>>>>> After some tense conversation, the two enter the cave. Luigi is almost immediately shot in the throat by an archer, but he quickly recovers and tears the arrow away, terrifying the sniper who had just shot him. Lucino bounds forward, and kills the man by crushing his face to the stone and shattering his skull with a massive blow. Luigi then steals the man's equipment, including good leather armour, a bow, thirteen arrows, and a large iron dagger. They proceed further into the cave, encountering two more men. Luigi offers them the chance to surrender, and escape with their lives. The men respond to their offer by shooting at them. Lucino transforms into a stone statue of himself, so that the arrows have no effect. He does this not out of cowardice, but because Luigi is immortal. Sure enough, after a few minutes, Luigi successfully stabs the first man in the heart, and then decapitates the second man, with the help of the dagger. Foul magic sent by Maxime also comes into play, causing the first man's corpse to violently explode, injuring Luigi terribly. But Luigi ate one of the golden apples, so he instantly starts healing. After a few minutes, he is back to full health, albeit naked, and he and Lucino proceed deeper into the caves.
 >>>>>> 
+>>>>>> The Prince demands that Ketheria reveal to him the human who threatened his life. Ketheria despises the Prince, but is terrified, and tells him that it was an orphan named Luigi who lives in Pisa. The prince of hell is perplexed, because orphans are usually too weak to draw his notice, but he dismisses the incongruity. After sending Ketheria to hell to be tortured for a one hundred thousand years for defying him, the Prince of Hell returns to his ships, and sets off for Pisa.
+>>>>>> 
+>>>>>> After making landfall at the port of Livorno, the Prince of Hell arrives in Pisa with his four slaves, wearing the disguise of a catholic priest. The disguise was sewn from the skin of such a priest, who had offered the Prince a place to rest the night previous, unaware of who the Prince was. Searching for Luigi, they find no trace of him; so the Prince and his four slaves begin looking for known associates who might be able to help the Prince and his slaves with their mission. They find three: Tinti Majorana, the surgeon who had saved Luigi; Italo Majorana, the guard who had freed Luigi; and finally, the criminal Enrico, who had been severely crippled by the beating the Luigi gave him. Tinti and Italo refuse to give the Prince of Hell any information about Luigi, but Enrico is eager for revenge and offers to tell the Prince everything that he knows. The Prince graciously accepts Enrico's offer, and then tortures the Majoranas until they talk. In the end, he uses too much of his infernal power, and they realise that he is a devil. They lie to him about Luigi's whereabouts, misleading him.
+>>>>>> 
+>>>>>> Unaware that he has been decieved, the Prince kills the Majoranas and sets off in the direction of the Vatican - but not before healing Enrico, so that Enrico can follow him and get his own revenge. This ends the third story.
+>>>>>> 
+>>>>>> The fourth story of the Pisa Cycle is titled 'The Last Night', and is based on a story told by Luigi. It takes place during Luigi and Lucino's final preparations to enter Maxime's lair. The story opens with Luigi and Lucino sitting in front of a campfire. They have a warm conversation, and after the two are finished  speaking about what's to be done, Lucino asks Luigi how he plans to overcome Maxime's sorcery. Luigi replies that, though he has never fought a sorceror, they are common figures in the legends told in Pisa. Those legends tell of the many powers that sorcerors have, but also, of their fatal weaknesses. Lucino replies that the greatest sorceror ever, named Lancer, lived long before the year 3000 BC, and that he also possessed an incredible power that was impossible to be overcome.
+>>>>>> 
+>>>>>> Luigi concedes that the greatest sorcerors are impossible to overcome, but then adds that he's fairly sure that Maxime is far from great. The myths of Pisa tell of what a great sorceror can do. Luigi then tells Lucino the tale of the greatest sorceror known in the myths of Pisa. This sorceror was a woman named Ismael. Ismael was a daughter of Ra, one of the most ancient of the heathen gods and was one of the three demigods who ruled over the realm of Italia many thousands of years ago.
+>>>>>> 
+>>>>>> Ismael, not content to be a demigod, sought to learn the power of sorcery.  She would travel in the guise of a man and engage the services of various so-called "masters of the art", but none of them had enough wisdom to teach her the secrets she craved. Finally, after many years she grew disgusted with mortals, and began to craft a scheme to gain the wisdom of the one teacher who had the knowledge she sought: Hecate, the Goddess of Magic.
+>>>>>> 
+>>>>>> The plan took many years to come to fruition. Ismael, who was a ruler of many nations, used the multitudes under her command to build great sorcerous engines. For she did not know the secrets of true power, but she even paltry knowledge can yield great results with enough sacrifice to make up the difference.
+>>>>>> 
+>>>>>> Finally, after 108 years of preparation, the trap was ready, and Ismael summoned Hecate for what was to be her last rite before death. The goddess appeared with a crack of thunder in a pillar of wyrdflame, enraged at the presumption of the half-mortal Ismael. Thoughtlessly, Hecate struck the demigoddess down - and then, Ismael's trap was sprung. For in that place, all who harmed Ismael were harmed equally in turn. Because Ismael had been killed, Hecate also had to die! Such was the nature of the rites that Ismael had performed there. But a goddess cannot physically die - and so Hecate lost her identity, and Ismael's soul poured into her. Thus, Ismael gained Hecate's body and knowledge, and became a true immortal.
+>>>>>> 
+>>>>>> Lucino admits that Ismael is a terrifying figure, but asks what the point is. Luigi replies that it should be obvious - Ismael, a demigoddess from the time when the heathen gods still alighted on soil mortal, needed a century to overcome the weaknesses of a sorceror. How could the lowly Maxime have done anything of the sort? This question lifts Lucino's spirits considerably. After a moment of content silence, he asks Luigi what became of Ismael. Luigi reveals that she still exists to this day, living in a dark fortress in the land of Ur. Her evil sorceries are still operating, and Ismael remains just as she was back then, perfect and eternal, surrounded by the tortured ghosts of all the mortals she worked to death to steal Hecate's body and wisdom.
+>>>>>> 
+>>>>>> Luigi relates a rumour that she is responsible for the recent increase in solar eclipses. He says that not even the Pope in Rome is able to oppose her.  He says he heard the news himself, and it is true, the pope's office has been reduced to a heap of rubble. This disturbs Lucino, but only a little. This ends the fourth story.
+>>>>>> 
+>>>>>> The fifth story of the Pisa Cycle is titled 'The Forsaken Temple,' and concerns Luigi and Lucino's assault on Maxime's stronghold. It begins as the sun rises, the two companions slowly stirring from slumber, and making final preparations. For Luigi, this means preparing a shiv. For Lucino, it means transforming into his true form: an enourmous, hideous ogre with three arms and two faces, taller than three men. Luigi is initially shocked and afraid, but Lucino reminds him that he is still the righteous man from the previous night. After several moments, Luigi masters himself and apologises. Lucino laughs, and says that it is good to know that he looks fearsome.
+>>>>>> 
+>>>>>> After some tense conversation, the two enter the cave. Luigi is almost immediately shot in the throat by an archer, but he quickly recovers and tears the arrow away, terrifying the sniper who had just shot him. Lucino bounds forward, and kills the man by crushing his face to the stone and shattering his skull with a massive blow. Luigi then steals the man's equipment, including good leather armour, a bow, thirteen arrows, and a large iron dagger. They proceed further into the cave, encountering two more men. Luigi offers them the chance to surrender, and escape with their lives. The men respond to their offer by shooting at them. Lucino transforms into a stone statue of himself, so that the arrows have no effect. He does this not out of cowardice, but because Luigi is immortal. Sure enough, after a few minutes, Luigi successfully stabs the first man in the heart, and then decapitates the second man, with the help of the dagger. Foul magic sent by Maxime also comes into play, causing the first man's corpse to violently explode, injuring Luigi terribly. But Luigi ate one of the golden apples, so he instantly starts healing. After a few minutes, he is back to full health, albeit naked, and he and Lucino proceed deeper into the caves.
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> After encountering a few more men, all of whom explode when killed, Luigi and Lucino stumble upon an ancient staircase carved into the rock. With no other way forward, they head down. After nearly twenty minutes of descending, they come upon a large amphitheater , and find themselves confronted with a pair of warriors named Maxima and Maximus. Maxima, dressed in leather, appears like a cross between a giant lion and a bear, her arms covered in chains. Maximus, dressed in metal armor, appears as a giant demon-headed eagle. They are spirits that had been banished from Earth by the king of Gerel, until Maxime called them back into the world in exchange for their fealty. As a sign of this relationship, they use similar names to their summoner. They tell Luigi and Lucino to turn back, or face death at their hands. Luigi pretends to do as Maxima orders and tells Lucino to follow him to the stairs. Lucino protests, but after a moment, realises that Luigi is no coward, so follows him. They head a little way up the stairs until they are out of sight and earshot of the demons, and then Luigi whispers a plan.
->>>>>>> The demons are far too strong for a man, even an immortal man, to fight, and they are also too strong for Lucino to take on alone. Luigi advises Lucino to transform into a flea. Then, as Luigi distracts the demons, Lucino will crawl into their ears and transform into a giant statue, killing them. Lucino thinks that the plan is excellent, and agrees, transforming into a flea that hops into Luigi's hair. Luigi shouts "Lucino, you three-armed traitorous bastard of a whore's son!" Then he runs back down to the apihitheater, where the two demons await, pretending to be furious.
->>>>>>> The demons ask where Luigi's companion has gone, and Luigi exclaims that he had a plan to defeat them, but that Lucino is a faithless cur who ran away in fright of their power. The demons call Lucino very wise for fleeing, and ask if Luigi is an idiot. Meanwhile, Lucino has made his way to Maxima and entered her ear. He transforms into a giant statue, and her head explodes. Maximus howls in rage, and lashes out with demonflame at Lucino - but too late, as Lucino has already finished transforming into a copy of Michaelangelo's "David", which is made of marble and impervious to flame. Then the naked Luigi distracts the demon by punching him in the testicles, giving Lucino time to transform into a tiny mite. The demon burns Luigi to a crisp, and then Lucino crawls into his ear and transforms once more, killing Maximus as well. The two demon's souls howl in rage as they are torn out of the world once more, and slowly, Luigi's body reforms from the ash.
->>>>>>> At the other end of the aphitheatre is a crude stone doorway. Luigi and Lucino walk through it to find a cavern so large that nations could live in it. It is filled with ruined buildings, and an ominous, obsidian temple, which glows with unclean light. Distant in the background is the horrific, numinous silhouette of an ancient pyramid made of gabbro - a rock found only at the bottom of the deepest oceans in the world. Unable to withstand the sight of it, the two flee into the temple, where Maxime stands to greet them. This ends the fifth story.
->>>>>>> The sixth story of the Pisa Cycle is ' The Legend of the Great Fire'. It opens with Luigi and Lucino standing in front of the wicked sorceror, Maxime. [I haven't generated the sixth story yet]
 >>>>>>> 
+>>>>>>> The demons are far too strong for a man, even an immortal man, to fight, and they are also too strong for Lucino to take on alone. Luigi advises Lucino to transform into a flea. Then, as Luigi distracts the demons, Lucino will crawl into their ears and transform into a giant statue, killing them. Lucino thinks that the plan is excellent, and agrees, transforming into a flea that hops into Luigi's hair. Luigi shouts "Lucino, you three-armed traitorous bastard of a whore's son!" Then he runs back down to the apihitheater, where the two demons await, pretending to be furious.
+>>>>>>> 
+>>>>>>> The demons ask where Luigi's companion has gone, and Luigi exclaims that he had a plan to defeat them, but that Lucino is a faithless cur who ran away in fright of their power. The demons call Lucino very wise for fleeing, and ask if Luigi is an idiot. Meanwhile, Lucino has made his way to Maxima and entered her ear. He transforms into a giant statue, and her head explodes. Maximus howls in rage, and lashes out with demonflame at Lucino - but too late, as Lucino has already finished transforming into a copy of Michaelangelo's "David", which is made of marble and impervious to flame. Then the naked Luigi distracts the demon by punching him in the testicles, giving Lucino time to transform into a tiny mite. The demon burns Luigi to a crisp, and then Lucino crawls into his ear and transforms once more, killing Maximus as well. The two demon's souls howl in rage as they are torn out of the world once more, and slowly, Luigi's body reforms from the ash.
+>>>>>>> 
+>>>>>>> At the other end of the aphitheatre is a crude stone doorway. Luigi and Lucino walk through it to find a cavern so large that nations could live in it. It is filled with ruined buildings, and an ominous, obsidian temple, which glows with unclean light. Distant in the background is the horrific, numinous silhouette of an ancient pyramid made of gabbro - a rock found only at the bottom of the deepest oceans in the world. Unable to withstand the sight of it, the two flee into the temple, where Maxime stands to greet them. This ends the fifth story.
+>>>>>>> 
+>>>>>>> The sixth story of the Pisa Cycle is ' The Legend of the Great Fire'. It opens with Luigi and Lucino standing in front of the wicked sorceror, Maxime. [I haven't generated the sixth story yet]
 
->>>>> **u/abcd_z** [+1] *
+>>>>> **u/abcd_z** [+1]  (5 days later)
 >>>>> 
 >>>>> Ho, lee, shit.  That's amazing.
->>>>> Are you planning to turn this into a full-fledged story, or are you just enjoying writing the AI-assisted outline?
 >>>>> 
+>>>>> Are you planning to turn this into a full-fledged story, or are you just enjoying writing the AI-assisted outline?
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (5 days later)
 >>>>>> 
 >>>>>> Once the outline is done, I'm planning to release it under CC0. I'm not sure if I'll develop it further. If I do, I'll probably spend a while studying prose translations of epic poetry first, so I can use that sort of style in the final product. Regardless, if there is an extended edition, then that will also be released under CC0.
->>>>>> 
 
-> **u/MilesSand** [-1] *
+> **u/MilesSand** [-1]  (15 hours later)
 > 
 > This is an interesting tool but it does seem like the sort of thing that'll make you a worse writer^1.  For one the parts one is most likely to autocomplete are the spice of the story^2. Those parts are important because they set the tone, fill in setting details and are a great place for some sneaky foreshadowing.  Using an automated tool to write them results in a subtly different style, unpredictable tone and no setting or foreshadowing details.  Instead you get essentially random word patterns pulled from the other works this tool was trained with.  And who knows maybe the story you're trying to write isn't Star Wars meets Gilmore Girls.  It's got a niche in helping people cheat in creative writing class though.
-> -------------
-> ^1 when used as autocomplete
-> ^2 the meat and potatoes are written manually
 > 
+> -------------
+> 
+> ^1 when used as autocomplete
+> 
+> ^2 the meat and potatoes are written manually
 
-> **u/None** [-1] *
+> **u/None** [-1]  (15 hours later)
 > 
 > [deleted]
-> 
 
->> **u/EastOfHope** [+4] *
+>> **u/EastOfHope** [+4]  (17 hours later)
 >> 
 >> The post is being shared on other subreddits, its a good post
->> 
 
->> **u/Makin-** [+3]  *homestuck ratfic, you can do it**
+>> **u/Makin-** [+3]  *homestuck ratfic, you can do it* (15 hours later)
 >> 
 >> Reddit has many flaws, but a manipulable votes system isn't one, I think it's legit.
->> 
 
->> **u/MilesSand** [+0] *
+>> **u/MilesSand** [+0]  (19 hours later)
 >> 
 >> I think op is voting on the replies, so the ones that agree with them are very slightly higher but that's not manipulation unless they are using multiple accounts to do it.
->> 
 
->>> **u/None** [+6] *
+>>> **u/None** [+4]  (22 hours later)
 >>> 
 >>> No, I typically don't vote on comments that aren't part of a conversation I'm having. The only post I've voted on in this thread is /u/Iwasahipsterbefore 's, because it was funny for me, too.
->>> Of course, I can't offer any evidence of this that isn't something that a vote-manipulator could have trivially falsified. That's sort of the problem, here. Accusations are cheap, but the only defense I could offer that would have the aegis of credibility would be to offer up the account credentials to this account and all my banking and payment accounts, to show I hadn't purchased upvotes.
->>> The best option is therefore silence. I'm taking a slightly worse one to satisfy a desire to explain.
 >>> 
+>>> Of course, I can't offer any evidence of this that isn't something that a vote-manipulator could have trivially falsified. That's sort of the problem, here. Accusations are cheap, but the only defense I could offer that would have the aegis of credibility would be to offer up the account credentials to this account and all my banking and payment accounts, to show I hadn't purchased upvotes.
+>>> 
+>>> The best option is therefore silence. I'm taking a slightly worse one to satisfy a desire to explain.
 
->>> **u/sparr** [+1] *
+>>> **u/sparr** [+1]  (a day later)
 >>> 
 >>> There are only six top level comments here. I don't think reordering them would really have any effect.
->>> 
 
 ---
 

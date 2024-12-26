@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/7a6ufq/biweekly_challenge_worm/
-* Score: 38
+* Score: 40
 
 * Created: 2017-11-01T21:45:22
 
@@ -50,54 +50,55 @@ Next time, the challenge will be **Inexploitability**. [Inexploitability](http:/
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (17 hours later)
 > 
 > [Genesis](https://docs.google.com/document/d/1wizSoMAsPDRkA3TrvjEj901jPrpsAaOQClBkiobDKp4/edit?usp=sharing) (3008 words)
-> I watched Pacific Rim right before writing this. Never seen a less rational movie, but boy, was it *fun*.
-> Content warning: Parian's true power, mechas.
 > 
+> I watched Pacific Rim right before writing this. Never seen a less rational movie, but boy, was it *fun*.
+> 
+> Content warning: Parian's true power, mechas.
 
->> **u/entropizer** [+1] *
+>> **u/entropizer** [+1]  (5 days later)
 >> 
 >> Really enjoyable premise. Narrative brings robustness.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 days later)
 >>> 
 >>> Thank you, "enjoyable" is what I was shooting for.
->>> That second sentence is interesting, and I'm not sure that I parsed it correctly. What do you mean with "Narrative"? The prose/exposition-parts, as opposed to the dialogues? Also, what do you mean with "robustness"? I'm not trying to nitpick or anything, I'd just love to see you elaborate on this :)
 >>> 
+>>> That second sentence is interesting, and I'm not sure that I parsed it correctly. What do you mean with "Narrative"? The prose/exposition-parts, as opposed to the dialogues? Also, what do you mean with "robustness"? I'm not trying to nitpick or anything, I'd just love to see you elaborate on this :)
 
->>>> **u/entropizer** [+1] *
+>>>> **u/entropizer** [+1]  (6 days later)
 >>>> 
 >>>> [tag](#s " The problem Contessa faced was that her plan involved a lot of uncertainty due to unmodelable factors and general uncertainty. I interpreted you as saying that adding the "flair" requirement served her purposes by minimizing the impact of unknowns or making her better able to adapt to them. A narrative needs to have coherence, it should be partly predictable, it unifies different actions thematically even when no direct connection exists, it happens relatively faster than ordinary change. More generally, asking the power to optimize for weird hybrid values like style seems like a better approach than asking it for more specific things like victory.")
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (6 days later)
 >>>>> 
 >>>>> Ah, now I understand. Good that I asked, then, your clarification went in a way different direction than what I was thinking. Thank you :)
->>>>> 
 
-> **u/None** [+1] *
-> 
-> [Bird (working title) - 5834 words](https://docs.google.com/document/d/1j4h64MP5BBM5u1xnz_oOqJ6PrOzSbRNuMxa2PxdViVI/edit?usp=sharing)
-> Luckily I've already been working on a Worm fanfic, based off a Weaver Dice campaign I did with my friends. So, here's my unedited, not-actually-that-rational, first chapter.
-> 
-
-> **u/Kishoto** [+1] *
-> 
-> [The Warrior - 5931 words](https://kishoto.wordpress.com/2016/06/06/the-warrior-rrational-challenge-power-failure/)
-> (I submitted this a few months back for another challenge but it's relevant under this one)
-> 
-
-> **u/lonsheep** [+1] *
+> **u/lonsheep** [+1]  (14 hours later)
 > 
 > [Training Wheels](https://docs.google.com/document/d/1viyQgTpbghk112IKdoZ-WYHyQ8r4GoGBaPutTsKZAKk/edit?usp=sharing) — 6505 words.  A graphic novel inspired short that I polished up for the challenge.
-> Inset illustrations in higher resolution:
-> *  [Page One.](https://i.imgur.com/cyoaZdg.jpg)
-> *  [Page Two.](https://i.imgur.com/lWJ8zo8.jpg)
-> I had to resize them to fit into the page formatting without leaving big paragraph breaks.  The larger sized images are better to look at.
 > 
+> Inset illustrations in higher resolution:
+> 
+> *  [Page One.](https://i.imgur.com/cyoaZdg.jpg)
+> 
+> *  [Page Two.](https://i.imgur.com/lWJ8zo8.jpg)
+> 
+> I had to resize them to fit into the page formatting without leaving big paragraph breaks.  The larger sized images are better to look at.
+
+> **u/Kishoto** [+1]  (6 hours later)
+> 
+> [The Warrior - 5931 words](https://kishoto.wordpress.com/2016/06/06/the-warrior-rrational-challenge-power-failure/)
+> 
+> (I submitted this a few months back for another challenge but it's relevant under this one)
+
+> **u/None** [+1]  (43 minutes later)
+> 
+> [Bird (working title) - 5834 words](https://docs.google.com/document/d/1j4h64MP5BBM5u1xnz_oOqJ6PrOzSbRNuMxa2PxdViVI/edit?usp=sharing)
+> 
+> Luckily I've already been working on a Worm fanfic, based off a Weaver Dice campaign I did with my friends. So, here's my unedited, not-actually-that-rational, first chapter.
 
 ---
 

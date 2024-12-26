@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/1w4llw/by_request_two_kinds_of_involved_responses_to/
-* Score: 15
+* Score: 16
 
 * Created: 2014-01-25T17:48:33
 
@@ -80,50 +80,52 @@ Naturally, I’m always open to criticism. Thoughts/comments? What do you disagr
 
 ### Comments:
 
-> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+7]  *Ankh-Morpork City Watch* (an hour later)
 > 
 > Having read your post, I find I agree with most of it. The only reservation I have is that the mechanics of writing being neglected is basically often enough to cause me to just quit reading a story before it has a chance to develop at all - if a story has malapropisms every third sentence, or uses case badly, or doesn't put new speakers into a new paragraph, or uses SMS shorthand like 'u' in place of 'you' or similar major mechanical errors, I will stop reading and not come back no matter what the plot or characters promise to become. 
+> 
 > Perhaps it is because your writing is sufficiently well-developed that you already have mastered the difference between 'defiantly' and 'definitely', unlike seemingly half of fanfic writers. So for you advice about how to format your writing is basically worthless. However, a lot of people, especially fanfiction writers, have yet to master such difficult elements as "Dialogue from a new speaker should occur in a new paragraph" (this specific example is violated by 3 of the 17 newest English HP fanfic stories on fanfiction.net at the time of this writing within their first three paragraphs). 
+> 
 > Basically, your own writing is not so bad that its terrible format errors eclipse the actual story you are trying to tell. But for some writers this is really, really not true and for them the advice 'come back when you've learned the basic mechanics of how to write in English' is warranted, if impolite, and before they fix that basic mechanical level of writing I won't ever read their fiction no matter how good the plot or characters are.
+> 
 > Basic mechanics of how to write, and discussions of similar matters, are not particularly helpful to you. But a lot of writers are not as competent in these matters as you, and therefore their stuff is doomed before it ever gets to the point of "Does this 'story' have a plot?" or "Do I care about any of the characters?".
-
-
+> 
 > Semi-off-topic:
 > Finally, I am not entirely sure I would take serious writing advice from OSC about plot, characters, and so forth. The Wise Reader stuff I think is interesting, but I would take what he's written with a grain of salt. I personally found Ender's Game engaging and interesting, and one of my favorite novels in my youth (even though it aged poorly). However, I have never really been similarly engaged by anything else OSC has ever written - and I have tried a lot. I wasn't enthused by:
+> 
 > - Any of the Ender's Game sequels, including Children of the Mind/Xenocide or the Bean stuff
 > - Any of the Alvin maker books (tried reading three of them, couldn't even remember titles now).
 > - The Homecoming Saga (book 1, anyway) 
 > -  Pastwatch Christopher Columbus. 
 > - A few non-series books (Wyrms, Magic Street, Enchantment).
-> The only thing he wrote besides Ender's Game that I liked at all was the Worthing Saga short fiction collection, and even then a lot of the short stories in it were forgettable (like 3 of them were actually memorable and good). It feels to me that whatever OSC's writing and editing process is, it only spits out a good worthwhile read once in every twenty times or less. Does any of his non-Ender's Game series get drastically better after the first book?
 > 
+> The only thing he wrote besides Ender's Game that I liked at all was the Worthing Saga short fiction collection, and even then a lot of the short stories in it were forgettable (like 3 of them were actually memorable and good). It feels to me that whatever OSC's writing and editing process is, it only spits out a good worthwhile read once in every twenty times or less. Does any of his non-Ender's Game series get drastically better after the first book?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (5 hours later)
 >> 
 >> Certainly. My original post assumes a certain level of authorial competence.
->> Card is wildly inconsistent both from book to book and from page to page within a single book, and all of his series face massive drop-offs in quality. Someone once wrote an article about how they think his work is written by committee.  I thought *Ender's Shadow* was good and to a lesser extent *Shadow of the Hegemon,* and the final two books were pretty meh. Same with the Ender Quartet: *Ender's Game* and *Speaker for the Dead* are great, *Xenocide* and *Children of the Mind* both quite weak. Same with Alvin Maker: first half good, second half bad. I liked Pastwatch, although it was also very inconsistent.
->> But when Card is good, he's good, and a lot of his writing advice seems smart and useful.
 >> 
+>> Card is wildly inconsistent both from book to book and from page to page within a single book, and all of his series face massive drop-offs in quality. Someone once wrote an article about how they think his work is written by committee.  I thought *Ender's Shadow* was good and to a lesser extent *Shadow of the Hegemon,* and the final two books were pretty meh. Same with the Ender Quartet: *Ender's Game* and *Speaker for the Dead* are great, *Xenocide* and *Children of the Mind* both quite weak. Same with Alvin Maker: first half good, second half bad. I liked Pastwatch, although it was also very inconsistent.
+>> 
+>> But when Card is good, he's good, and a lot of his writing advice seems smart and useful.
 
-> **u/noggin-scratcher** [+2]  *I am a happy tree**
+> **u/noggin-scratcher** [+2]  *I am a happy tree* (4 hours later)
 > 
 > I'm pretty sure I don't have the literary knowledge to offer criticism of the first kind - takes a special kind of reader to produce that detailed critique and analysis, and I'm just not it. Nor are most people commenting on fanfic, hence the sentence-level focus on "this is worded clunkily" when you're not equipped to tear apart the work as a whole.
-> Introspecting and reporting the experience of reading though... that sounds more doable. Takes a watchful eye on your own reactions, but it is at least something I already notice, at least a little.
 > 
+> Introspecting and reporting the experience of reading though... that sounds more doable. Takes a watchful eye on your own reactions, but it is at least something I already notice, at least a little.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 hours later)
 >> 
 >> Undoubtedly the response should be tailored to the needs and abilities of both the author and the responder. I myself wouldn't write a 50-page analysis for every work I wanted to critique either.
->> 
 
-> **u/totes_meta_bot** [+2] *
+> **u/totes_meta_bot** [+2]  (24 days later)
 > 
 > This thread has been linked to from elsewhere on reddit.
-
->  - [/r/YAwriters] [Excellent reddit post in /r/rational about good and back critiquing](http://np.reddit.com/r/YAwriters/comments/1ycwkj/excellent_reddit_post_in_rrational_about_good_and/)
-
-> *^I ^am ^a ^bot. ^Comments? ^Complaints? [^Send ^them ^to ^my ^inbox!](http://www.reddit.com/message/compose/?to=totes_meta_bot)*
 > 
+>  - [/r/YAwriters] [Excellent reddit post in /r/rational about good and back critiquing](http://np.reddit.com/r/YAwriters/comments/1ycwkj/excellent_reddit_post_in_rrational_about_good_and/)
+> 
+> *^I ^am ^a ^bot. ^Comments? ^Complaints? [^Send ^them ^to ^my ^inbox!](http://www.reddit.com/message/compose/?to=totes_meta_bot)*
 
 ---
 

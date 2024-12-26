@@ -2,7 +2,7 @@
 
 * Author: u/amnotthattasty *
 * URL: https://www.reddit.com/r/rational/comments/eyymep/worth_the_candle_keyring/
-* Score: 16
+* Score: 15
 
 * Created: 2020-02-04T22:42:27
 
@@ -18,38 +18,34 @@ Thanks
 
 ### Comments:
 
-> **u/meterion** [+18] *
+> **u/meterion** [+19]  (37 minutes later)
 > 
 > It's only brought up in that chapter, so no spoilers. It's not explicitly said in the text, but it's an identity verification system they made based on categories of word. The person who initiates the keyring starts by naming a rock. The response is a tree. The final response is an emotion. Since both chains (Dolomite, Oak, Excitement and Rhodonite, Apricot, Mourning) spell out animals that may have been a less obvious requirement as well. The chain is broken after the first time it is confirmed because Masters could then use it himself by copying the set, or by figuring out the pattern.
-> 
 
->> **u/bloodfist** [+8] *
+>> **u/bloodfist** [+11]  (2 hours later)
 >> 
 >> Did not notice that about spelling the animals. Neat!
->> Just to add to this excellent answer, the identification system is probably not named "keyring". A keyring in cryptography is just the term for where encryption keys are stored, they most likely (and I believe do later), use that term as shorthand for "Verify using the most current encryption method."
 >> 
+>> Just to add to this excellent answer, the identification system is probably not named "keyring". A keyring in cryptography is just the term for where encryption keys are stored, they most likely (and I believe do later), use that term as shorthand for "Verify using the most current encryption method."
 
->> **u/amnotthattasty** [+2] *
+>> **u/amnotthattasty** [+2]  (23 days later)
 >> 
 >> so evident now, thanks !
->> 
 
->> **u/amnotthattasty** [+1] *
+>> **u/amnotthattasty** [+1]  (23 days later)
 >> 
 >> yeay, many thanks !
->> 
 
-> **u/synonimic** [+5] *
+> **u/synonimic** [+7]  (20 minutes later)
 > 
 > If I'm remembering right it's just a cryptographic system based off knowledge they have of each other and earth, although I think they've had a few challenge/passwords throughout the book so I might be mixing it up with another.
-> Its not a major point, and unless you particularly enjoy ciphers you can glance over it assured it made sense when I read it, and it wasnt important enough in the grand scheme of things for me to remember it besides vaguely.
 > 
+> Its not a major point, and unless you particularly enjoy ciphers you can glance over it assured it made sense when I read it, and it wasnt important enough in the grand scheme of things for me to remember it besides vaguely.
 
->> **u/amnotthattasty** [+1] *
+>> **u/amnotthattasty** [+1]  (23 days later)
 >> 
 >> yeah, i think i overestimated the importance after all, but curiosity you know... :)
 >> thanks for the answer
->> 
 
 ---
 

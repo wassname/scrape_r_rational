@@ -2,7 +2,7 @@
 
 * Author: u/MugaSofer *
 * URL: http://www.spacewesterns.com/articles/105/
-* Score: 1
+* Score: 3
 
 * Created: 2015-03-13T23:12:33
 
@@ -12,117 +12,111 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+15] *
+> **u/eaglejarl** [+17]  (8 hours later)
 > 
 > When it comes to tugging on the heartstrings, this story is the best there is.
+> 
 > When it comes to meeting the requirements of common sense...not so much.
+> 
 > 1. Why do EDS ships carry absolutely no safety margin of fuel?
 > 1. Why don't EDS ships have a parachute for emergency landing?  If you're on your way with critical medicines and you have a fuel leak, a parachute would be the difference between everyone surviving and everyone dying.  Shoot, 20th century NASA was fuel-constrained and they managed to put people on the ground safely.
 > 1. She's a girl "in her teens".  She weighs...what?  [115, maybe?](http://www.disabled-world.com/artman/publish/height-weight-teens.shtml) There isn't 115 pounds of stuff on that ship that can be jettisoned?  The chair, their clothes, shave their heads, the door off the supply cabinet, the *contents* of the supply cabinet (whatever they are), food, water, deck plating, the radio...come on, people, get creative!
 > 1. Why is there a supply cabinet on a ship that's so mass-limited?  If it's where the cargo is stored, why isn't it called "the cargo cabinet"?  Why is it large enough and empty enough that a teenage girl can hide in it?
 > 1. The sheer fact that she's been onboard all this time should have already used up enough fuel to screw them all.  It's not like her mass didn't count until deceleration.
-> 
 
->> **u/atomfullerene** [+3] *
+>> **u/atomfullerene** [+3]  (7 days later)
 >> 
 >> I read a fun counter to this story in _Analog_ back in the 90's.  It was called "The cold solutions" and has the stow-away be a kid instead of a teen, but has the same mass-constraint issues.  The pilot is fuming about the situation and knows she'd (female pilot) give an arm and a leg to save the kid...then realizes the obvious solution.
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (7 days later)
 >>> 
 >>> Yeah, I read a parody version at one point.  There's a city parking service where they have a spacewarp that leads to Arizona (or some place), which is actually where they park the cars (more space).  A guy stays in the car when the woman goes to park it, she discovers him, she says "Oh no, I'm going to have to push you out or we're all dead...but here, at least I can boink you first as a parting gift."  They boink, and then he asks "hang on, do *I* need to go, or just my mass?"  They then proceed to rip out the seats and everything else and save themselves. The final thing that they need to throw out in order to make weight is a playing card.
->>> 
 
-> **u/fljared** [+8]  *United Federation of Planets**
+> **u/fljared** [+11]  *United Federation of Planets* (6 hours later)
 > 
 > Ehh... Not really. 
-> The problem with this story is that while it's rational in the confines of it's own axioms, the story breaks down outside them.
-> Why was there no security on the ship? A locked door and pre-flight check could have stopped her.
-> Why is there no spare fuel? If the weather patterns aren't predicted correctly, the winds could blow him off course in the landing and then he'd crash for want of fuel.
-> How come no-one has warned her of this, since there's such an obvious danger? It seems like the sort of thing that would come up during the lifeboat introduction on the first day of the voyage. ("Don't enter the lifeboat once maximum capacity has been reached. Additional weight will risk the life of all passengers.")
 > 
+> The problem with this story is that while it's rational in the confines of it's own axioms, the story breaks down outside them.
+> 
+> Why was there no security on the ship? A locked door and pre-flight check could have stopped her.
+> 
+> Why is there no spare fuel? If the weather patterns aren't predicted correctly, the winds could blow him off course in the landing and then he'd crash for want of fuel.
+> 
+> How come no-one has warned her of this, since there's such an obvious danger? It seems like the sort of thing that would come up during the lifeboat introduction on the first day of the voyage. ("Don't enter the lifeboat once maximum capacity has been reached. Additional weight will risk the life of all passengers.")
 
-> **u/Rhamni** [+2]  *Aspiring author**
+> **u/Rhamni** [+2]  *Aspiring author* (3 hours later)
 > 
 > I liked it. I haven't read very much sci-fi beyond Asimov's Foundation series, but this one was interesting. I feel like they could probably find some way to have more of a safety margin with the fuel and all that, but it was a good read.
-> 
 
-> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (an hour later)
 > 
 > Aside from the almost unbelievable sexism in the setup, I'll [let Cory Doctrow explain](http://www.locusmag.com/Perspectives/2014/03/cory-doctorow-cold-equations-and-moral-hazard/) why I hate this and similar stories.
-> 
 
->> **u/Rhamni** [+6]  *Aspiring author**
+>> **u/Rhamni** [+7]  *Aspiring author* (4 hours later)
 >> 
 >> The author has no idea what a moral hazard is. To quote the simplest of google searches, a "moral hazard is a situation in which one party gets involved in a risky event knowing that it is protected against the risk and the other party will incur the cost." It is *not* a moral hazard whenever you are put in a bad situation and have to choose between to negative outcomes. The pilot did not choose to risk unnecessary danger knowing she would pay the price, he found himself in a situation where she was already doomed and he needed to save everyone else.
->> Aside from that, the author also exaggerated the contrivance of the situation by saying that the characters on the planet had failed to bring medication. A minor point, but it is explained twice or so in the text, and you'd think you'd remember something correctly from a text when you use it to further your argument.
->> It's politically awkward that the main character was prepared to kill a male stowaway but unable to kill a female one, but I'd hardly call that "almost unbelievable sexism".
 >> 
+>> Aside from that, the author also exaggerated the contrivance of the situation by saying that the characters on the planet had failed to bring medication. A minor point, but it is explained twice or so in the text, and you'd think you'd remember something correctly from a text when you use it to further your argument.
+>> 
+>> It's politically awkward that the main character was prepared to kill a male stowaway but unable to kill a female one, but I'd hardly call that "almost unbelievable sexism".
 
->>> **u/linkhyrule5** [+8] *
+>>> **u/linkhyrule5** [+11]  (10 hours later)
 >>> 
 >>> Moral hazard for the readers, who are meant to tear up and then approve of the wise, hard men making hard decisions.
->>> 
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+6]  (15 hours later)
 >>>> 
 >>>> Yeah, rather than of the clever bastard who thought to prepare for emergencies.
->>>> 
 
->>>> **u/rumblestiltsken** [+2] *
+>>>> **u/rumblestiltsken** [+2]  (a day later)
 >>>> 
 >>>> I just started watching house of cards yesterday and it really drove home how celebrated the "hard men making hard decisions" meme is in american culture. It is foreign to me, but a staple of my media consumption because most originates there.
->>>> I guess it has something to do with the mythology of competition in America. Bleh.
 >>>> 
+>>>> I guess it has something to do with the mythology of competition in America. Bleh.
 
->>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>>> 
 >>>>> Ah, I'm not sure shows like Breaking Bad or House of Cards are under any delusion that their protagonists are not villains.
->>>>> 
 
->>>>>> **u/rumblestiltsken** [+5] *
+>>>>>> **u/rumblestiltsken** [+5]  (a day later)
 >>>>>> 
 >>>>>> Have you seen the general admiration for Walter White? Media always does this thing where it makes these completely irredeemable characters *knowing* that as long as they hit the right tropes the audience will love them anyway.
->>>>>> I almost think they make a sport out of it.
 >>>>>> 
+>>>>>> I almost think they make a sport out of it.
 
->>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>>> 
 >>>>>>> Well, the audience might be under the delusion, but I love them for what they are: people who are willing to go to any lengths to get what they want.
->>>>>>> 
 
->>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (11 hours later)
 >>> 
 >>> Indeed.  The moral hazard is not on the part of the pilot - rather on the absurd society that pushes such risky frontiers with *no safety margin at all*.
->>> If it's that dangerous, why not move more slowly?  I just get a sense that someone likes knowing people die to the cold equations - possibly the author.  There's no background of conflict.  No explanation or hinting that colonisation is urgent instead of a luxury.  Just an excuse for murder, which - in just this one case! - turned out to be regrettable.
->>> I get where the story is coming from; I even get annoyed at the good-guy-isn't-subject-to-physics plotlines myself.  But fifty-nine years on, I can't enjoy this one as anything but a historical piece.
 >>> 
+>>> If it's that dangerous, why not move more slowly?  I just get a sense that someone likes knowing people die to the cold equations - possibly the author.  There's no background of conflict.  No explanation or hinting that colonisation is urgent instead of a luxury.  Just an excuse for murder, which - in just this one case! - turned out to be regrettable.
+>>> 
+>>> I get where the story is coming from; I even get annoyed at the good-guy-isn't-subject-to-physics plotlines myself.  But fifty-nine years on, I can't enjoy this one as anything but a historical piece.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 hours later)
 >> 
 >> Ha! I remember that essay. This is literally the story he's talking about!
->> 
 
->> **u/Newfur** [+1]  *Crazy like a fox. Literally.**
+>> **u/Newfur** [+1]  *Crazy like a fox. Literally.* (3 days later)
 >> 
 >> YES THANK YOU
->> 
 
->> **u/MugaSofer** [+1] *
+>> **u/MugaSofer** [+1]  (11 hours later)
 >> 
 >> EVERY SINGLE THING IN THAT ESSAY IS WRONG WHY
->> I always parsed that as "the stowaway is a kid", not "the stowaway is female", but yeah, it is kinda sexist. Tis a story from the fifties, and at least the only sexism was in-character.
 >> 
+>> I always parsed that as "the stowaway is a kid", not "the stowaway is female", but yeah, it is kinda sexist. Tis a story from the fifties, and at least the only sexism was in-character.
 
-> **u/Newfur** [+1]  *Crazy like a fox. Literally.**
+> **u/Newfur** [+1]  *Crazy like a fox. Literally.* (3 days later)
 > 
 > I really don't like this story for a variety of reasons. Primarily, it's extremely contrived, clearly set up by the author to show how grimdark the future is and how we obviously need to be heartless and how science has no room for feelings. Bullshit.
-> 
 
-> **u/MugaSofer** [+0] *
+> **u/MugaSofer** [+0]  (49 seconds later)
 > 
 > An old one, but a good one, IMHO. I like it, anyway, even if the cliches it's reacting to are a bit less ubiquitous now.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/MegajouleWrites  *superheroes, depersonalization, and hallway fights**
 * URL: https://www.reddit.com/r/rational/comments/jm56wf/inheritors_season_one_episode_seven/
-* Score: 7
+* Score: 6
 
 * Created: 2020-11-01T16:35:15
 
@@ -14,15 +14,13 @@ We begin part two: Dead Cape Domino
 
 ### Comments:
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (3 days later)
 > 
 > What is this about?
-> 
 
->> **u/MegajouleWrites** [+3]  *superheroes, depersonalization, and hallway fights**
+>> **u/MegajouleWrites** [+3]  *superheroes, depersonalization, and hallway fights* (3 days later)
 >> 
 >> Hi! Please refer to this intro post I made a couple of weeks ago: https://www.reddit.com/r/rational/comments/jdp89k/inheritors_superhero_horror_in_a_world_where/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
->> 
 
 ---
 

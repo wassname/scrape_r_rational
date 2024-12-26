@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Slinkinator** [+1] *
+> **u/Slinkinator** [+1]  (20 seconds later)
 > 
 > Sorry that I'm terrible at reddit and tags
-> 
 
 ---
 

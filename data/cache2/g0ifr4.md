@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/notsureiflying** [+18] *
+> **u/notsureiflying** [+19]  (3 minutes later)
 > 
 > It's now every Tuesday and Friday, but the chapters are longer
-> 
 
-> **u/Pel-Mel** [+9]  *Adept**
+> **u/Pel-Mel** [+7]  *Adept* (3 hours later)
 > 
 > Since Book 6 started, the author moved to two chapters a week, each at midnight Tuesday and Friday, EST.
-> The chapters are notably longer since the change. Come hang out at r/PracticalGuidetoEvil.
 > 
+> The chapters are notably longer since the change. Come hang out at r/PracticalGuidetoEvil.
 
-> **u/Nimelennar** [+3] *
+> **u/Nimelennar** [+3]  (4 hours later)
 > 
 > [Yes.](https://practicalguidetoevil.wordpress.com/2020/01/05/update-schedule-book-vi/)
-> 
 
 ---
 

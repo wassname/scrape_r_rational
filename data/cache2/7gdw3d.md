@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/7gdw3d/d_wednesday_worldbuilding_thread/
-* Score: 5
+* Score: 6
 
 * Created: 2017-11-29T15:06:34
 
@@ -24,22 +24,20 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/vakusdrake** [+3] *
+> **u/vakusdrake** [+3]  (6 hours later)
 > 
 > So I made an [alignment system](https://docs.google.com/document/d/193mUyuiNWJxGYWQw9GS4yX-gGMJle5WFe_1iXxWx6AY/edit?usp=sharing) to be used to replace alignment systems in game systems that use them (mostly D&D and Pathfinder come to mind).                      
 > How functional do you think this is? and what other ideas have you seen (or come up with) for how an alignment system can work in games that are pretty dependant on them, to replace the existing alignment systems which are generally godawful.
-> 
 
->> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (6 hours later)
 >> 
 >> > what other ideas have you seen
->> See [this page](http://easydamus.com/alignmentreal.html).
 >> 
+>> See [this page](http://easydamus.com/alignmentreal.html).
 
->>> **u/Tinfoil_Haberdashery** [+1] *
+>>> **u/Tinfoil_Haberdashery** [+1]  (2 days later)
 >>> 
 >>> That is some good stuff right there.
->>> 
 
 ---
 

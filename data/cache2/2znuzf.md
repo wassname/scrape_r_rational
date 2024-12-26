@@ -48,293 +48,295 @@ Ideas so far:
 
 ### Comments:
 
-> **u/faul_sname** [+19] *
+> **u/faul_sname** [+23]  (3 hours later)
 > 
 > Make them require several atoms of Technetium per nanobot. It's cheap, and not found in nature, so growing more is easy and limiting growth is as simple as cutting of the Technetium supply.
-> You'd want to make sure that the function of these nanobots relied on some property unique to Technetium, of course -- the [binary metal oxide it forms](http://en.wikipedia.org/wiki/Technetium\(VII\)_oxide) would probably give the central Oxygen some fairly unique properties (180 degree bond angle), so that might work. 
-> Edit: formatting
 > 
+> You'd want to make sure that the function of these nanobots relied on some property unique to Technetium, of course -- the [binary metal oxide it forms](http://en.wikipedia.org/wiki/Technetium\(VII\)_oxide) would probably give the central Oxygen some fairly unique properties (180 degree bond angle), so that might work. 
+> 
+> Edit: formatting
 
->> **u/sephlington** [+6] *
+>> **u/sephlington** [+5]  (15 hours later)
 >> 
 >> You need to put a "\" in between the VII and the close parenthesis, so the markdown doesn't think you're closing the link there. Like:(http://en.wikipedia.org/wiki/Technetium(VII\)_oxide)
->> 
 
->> **u/scruiser** [+2]  *CYOA**
+>> **u/scruiser** [+2]  *CYOA* (14 hours later)
 >> 
 >> You are missing a parenthesis on your link, of rather, I think the markdown code is having problems with the parenthesis inside of the link.
->> 
 
-> **u/Sceptically** [+22] *
+> **u/Sceptically** [+24]  (2 hours later)
 > 
 > Colour them pink instead of gray?
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (12 hours later)
 >> 
 >> Problem solved!
->> 
 
-> **u/xamueljones** [+8]  *My arch-enemy is entropy**
+> **u/xamueljones** [+6]  *My arch-enemy is entropy* (13 minutes later)
 > 
 > 1) Have it automatically shut-down in response to a pre-determined signal as a last resort. It'd be hard to keep some criminal from potentially hacking it, but that's what the field of cryptography is for.
-> 2) Standardize the set of programs/commands to run the nano-machines such as 'Break down 5 units' or 'Move 25 nanometers'. This way with a series of simple commands where no combinations of can lead to a run-away reaction, they can be limited. Don't allow a system where anyone can tell the nano-machines to do anything. If there needs to be a different command, then it goes through rigorous trials and testing. This is very limiting, but if nano-machines are powerful enough to cause a Grey Goo scenario, this is necessary.
-> 3) Don't allow them to be self-modifying.
 > 
+> 2) Standardize the set of programs/commands to run the nano-machines such as 'Break down 5 units' or 'Move 25 nanometers'. This way with a series of simple commands where no combinations of can lead to a run-away reaction, they can be limited. Don't allow a system where anyone can tell the nano-machines to do anything. If there needs to be a different command, then it goes through rigorous trials and testing. This is very limiting, but if nano-machines are powerful enough to cause a Grey Goo scenario, this is necessary.
+> 
+> 3) Don't allow them to be self-modifying.
 
->> **u/nevinera** [+15] *
+>> **u/nevinera** [+15]  (8 hours later)
 >> 
 >> >Have it automatically shut-down in response to a pre-determined signal as a last resort.
->> Have it automatically shut down if a pre-determined signal *stops* being supplied.
 >> 
+>> Have it automatically shut down if a pre-determined signal *stops* being supplied.
 
->>> **u/None** [+10] *
+>>> **u/None** [+10]  (12 hours later)
 >>> 
 >>> This actually makes the whole, "Mooks drop dead from lack of ontological inertia when the boss monster dies" thing in video games and movies make a whole lot more sense.
->>> 
 
->>>> **u/Rhamni** [+1]  *Aspiring author**
+>>>> **u/Rhamni** [+1]  *Aspiring author* (15 hours later)
 >>>> 
 >>>> Those bosses need more "Sacrifice minions for the Greater ~~Good~~ Evil" moves.
->>>> 
 
->>>> **u/TyrialFrost** [+1] *
+>>>> **u/TyrialFrost** [+1]  (6 days later)
 >>>> 
 >>>> Needs more self replicating mooks.
->>>> 
 
->> **u/Turniper** [+8] *
+>> **u/Turniper** [+8]  (19 minutes later)
 >> 
 >> This is a good start, but just looking at the problem from a standard software security perspective, there are several more obvious holes.  You would need to include a mechanism to prevent the modification of the command set, such as building the commands into the hardware itself.  Additionally, whatever mechanism is used to prevent self modification needs to be robust or intrinsic enough that one nano-bot cannot be easily modified by hand to modify others to circumvent this restriction.  On top of that, there would need to be some sort of major precautions against reverse engineering.
->> Basically, all safeguards need to be implemented at such an absurdly low level that it would literally be easier to create gray goo from scratch than it would be to use your nanobots as a starting point.  Honestly though, the best solution is avoid self-replicating machines.  Factory setups avoid this whole risk, and it's not like we've ever felt the need to build self-replicating devices on a macro-scale.  Factory modules are easier from both an engineering and a security standpoint.
 >> 
+>> Basically, all safeguards need to be implemented at such an absurdly low level that it would literally be easier to create gray goo from scratch than it would be to use your nanobots as a starting point.  Honestly though, the best solution is avoid self-replicating machines.  Factory setups avoid this whole risk, and it's not like we've ever felt the need to build self-replicating devices on a macro-scale.  Factory modules are easier from both an engineering and a security standpoint.
 
->> **u/DCarrier** [+3] *
+>> **u/DCarrier** [+4]  (2 hours later)
 >> 
 >> My version of 2: don't give them enough computational power to make self-replication possible. They are given a series of commands when they need to replicate. If whatever is sending the commands gets eaten, they'll stop.
->> 
 
-> **u/Farmerbob1** [+5]  *Level 1 author**
+> **u/Farmerbob1** [+5]  *Level 1 author* (2 hours later)
 > 
 > Make them irresistibly drawn to consuming each other once population density reaches a certain point.
-> Create a requirement for esoteric materials that cannot be easily acquired.
-> Give them an immune system response to any mutations so that anything created that is different from the others is destroyed/consumed by the normal ones.  For instance, units created without the esoteric materials mentioned above.
-> Organic creatures are self-replicating machines.  Mimic nature.
 > 
+> Create a requirement for esoteric materials that cannot be easily acquired.
+> 
+> Give them an immune system response to any mutations so that anything created that is different from the others is destroyed/consumed by the normal ones.  For instance, units created without the esoteric materials mentioned above.
+> 
+> Organic creatures are self-replicating machines.  Mimic nature.
 
-> **u/ArmokGoB** [+5] *
+> **u/ArmokGoB** [+5]  (4 hours later)
 > 
 > Don't design any digestion/respiration system, so they requires a continuous supply of chemical energy in a format they can't make themselves. Basically an ATP equivalent, and they don have mitochondria-equivalents.
-> 
 
-> **u/nevinera** [+5] *
+> **u/nevinera** [+7]  (8 hours later)
 > 
 > Don't make self-replicating nano machines. I would go so far as to say that you should instead make trillions of policebots whose only function is to *destroy self-replicating nano machines*.
-> 
 
->> **u/nevinera** [+5] *
+>> **u/nevinera** [+4]  (8 hours later)
 >> 
 >> Remember, the machines you make will exist in *massive* numbers. Machines in nature get damaged, altered, infected - like viruses or bacteria, you should *plan* for them to evolve their behavior toward maximum self-replication.
->> The existential threat outweighs the efficiency gains you can achieve by making them make themselves.
 >> 
+>> The existential threat outweighs the efficiency gains you can achieve by making them make themselves.
 
->>> **u/BadGoyWithAGun** [+1] *
+>>> **u/BadGoyWithAGun** [+1]  (a day later)
 >>> 
 >>> Or, you could plan against evolution. Every newly produced machine calculates a hash function of its equivelent of source code to check whether it's mutated. If it has, it triggers multiple redundant mechanisms for self-destruction and signalling its neighbours to destroy it.
->>> 
 
-> **u/None** [+4] *
+> **u/None** [+5]  (12 hours later)
 > 
 > [Require each one to have a unique IPv4 address.](http://xkcd.com/865/)
-> 
 
->> **u/xkcd_transcriber** [+1] *
+>> **u/xkcd_transcriber** [+1]  (12 hours later)
 >> 
 >> [Image](http://imgs.xkcd.com/comics/nanobots.png)
+>> 
 >> **Title:** Nanobots
+>> 
 >> **Title-text:** I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.
+>> 
 >> [Comic Explanation](http://www.explainxkcd.com/wiki/index.php/865#Explanation)
+>> 
 >> **Stats:** This comic has been referenced 36 times, representing 0.0636% of referenced xkcds.
+>> 
 >> ---
 >> ^[xkcd.com](http://www.xkcd.com) ^| ^[xkcd sub](http://www.reddit.com/r/xkcd/) ^| ^[Problems/Bugs?](http://www.reddit.com/r/xkcd_transcriber/) ^| ^[Statistics](http://xkcdref.info/statistics/) ^| ^[Stop Replying](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=ignore%20me&message=ignore%20me) ^| ^[Delete](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=delete&message=delete%20t1_cpl2hf4)
->> 
 
-> **u/ArmokGoB** [+3] *
+> **u/ArmokGoB** [+3]  (4 hours later)
 > 
 > Make them edible by existing living organisms, and intrinsically incapable of surviving acidic conditions.
-> 
 
-> **u/Zeikos** [+3]  *Communist Transhumanism**
+> **u/Zeikos** [+3]  *Communist Transhumanism* (13 hours later)
 > 
 > Be carefull about possible incidents , make an abundant number of detector.
-> Don't bother further , it's way more likely that the grey goo scenario comes from a person than from an accident. The person would make nanobots **with the purpose** to create grey goo , so the only truly "safe" way is using "police nanobots" , or using nanobots to alter the consciosness of every living human being to follow base ethics.
 > 
+> Don't bother further , it's way more likely that the grey goo scenario comes from a person than from an accident. The person would make nanobots **with the purpose** to create grey goo , so the only truly "safe" way is using "police nanobots" , or using nanobots to alter the consciosness of every living human being to follow base ethics.
 
->> **u/scruiser** [+1]  *CYOA**
+>> **u/scruiser** [+1]  *CYOA* (14 hours later)
 >> 
 >> > Don't bother further , it's way more likely that the grey goo scenario comes from a person than from an accident.
->> I agree that this is the most likely scenario for reasons brought up by /u/eaturbrainz.  Grey-goo has to compete with existing microbial life for much of the available energy/resources.  Thus it wouldn't be any worse than a particularly infectious disease (bad but not guaranteed world ending) or a particularly bad algae bloom (ecologically disruptive, but again not instantly world-ending).   However, if the grey-goo was engineered intentionally, it could be made to take advantage of resources or materials that existing life can't.  The big ones I can think of are electricity, oil/products derived from oil (gasoline, plastic, etc.), and metal (unoxidized reactive metals are rare in nature).
 >> 
+>> I agree that this is the most likely scenario for reasons brought up by /u/eaturbrainz.  Grey-goo has to compete with existing microbial life for much of the available energy/resources.  Thus it wouldn't be any worse than a particularly infectious disease (bad but not guaranteed world ending) or a particularly bad algae bloom (ecologically disruptive, but again not instantly world-ending).   However, if the grey-goo was engineered intentionally, it could be made to take advantage of resources or materials that existing life can't.  The big ones I can think of are electricity, oil/products derived from oil (gasoline, plastic, etc.), and metal (unoxidized reactive metals are rare in nature).
 
-> **u/DCarrier** [+4] *
+> **u/DCarrier** [+6]  (2 hours later)
 > 
 > Encrypt their code so that any mutations would result in gibberish.
-> 
 
-> **u/None** [+8] *
+> **u/None** [+6]  (4 hours later)
 > 
 > Mostly, [we don't have to](http://rationalwiki.org/wiki/Gray_goo).
-> >Shockingly, the grey goo scenario has in fact happened in the past. A self-starting and self-replicating nanobot plague covered the Earth! This event is commonly refered to as "life." A later disaster befell most of the life when blue-green algae filled the air with oxygen; this is known as the Great Oxygenation Event[wp].
 > 
+> >Shockingly, the grey goo scenario has in fact happened in the past. A self-starting and self-replicating nanobot plague covered the Earth! This event is commonly refered to as "life." A later disaster befell most of the life when blue-green algae filled the air with oxygen; this is known as the Great Oxygenation Event[wp].
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (5 hours later)
 >> 
 >> I don't understand. Self-replicating atoms happened once in the past and it worked out fine, so we don't need to worry about any other kinds of self-replicating atoms in the future? I don't think that quite follows.
->> 
 
->>> **u/None** [+10] *
+>>> **u/None** [+11]  (6 hours later)
 >>> 
 >>> It means most of the ecological niches with "desirable" thermodynamic and material properties are already taken, and it's hard for *very simple* self-replicators to take over the world *again* because the world got very, very complicated.
->>> 
 
->>>> **u/None** [+6] *
+>>>> **u/None** [+7]  (7 hours later)
 >>>> 
 >>>> I suppose that argument is sufficient when talking about naturally occurring self-replicators, but I thought it was somewhat obvious that intentional human design represents an entirely different sphere of concern. Explosions can occur naturally on Earth, but nuclear weapons still represent a significant issue. That sort of thing.
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+3]  (8 hours later)
 >>>>> 
 >>>>> > I thought it was somewhat obvious that intentional human design represents an entirely different sphere of concern.
->>>>> Intentional human designs still have to actually out-compete naturally evolved organisms for energy and materials.  You would need a whole *ecosystem* of designed "goo", that wouldn't always work together properly, which would be subject to evolutionary pressures and would exert evolutionary pressures on regular life to adapt and compete... and at that point you've basically just recreated regular, old life.
->>>>> I mean, hey, go read the link about how Eric Drexler, Mr. Nanotechnology Will Totally Work Real Soon Now, now thinks gray goo wouldn't work.
 >>>>> 
+>>>>> Intentional human designs still have to actually out-compete naturally evolved organisms for energy and materials.  You would need a whole *ecosystem* of designed "goo", that wouldn't always work together properly, which would be subject to evolutionary pressures and would exert evolutionary pressures on regular life to adapt and compete... and at that point you've basically just recreated regular, old life.
+>>>>> 
+>>>>> I mean, hey, go read the link about how Eric Drexler, Mr. Nanotechnology Will Totally Work Real Soon Now, now thinks gray goo wouldn't work.
 
->>>>>> **u/scruiser** [+2]  *CYOA**
+>>>>>> **u/scruiser** [+2]  *CYOA* (14 hours later)
 >>>>>> 
 >>>>>> > out-compete naturally evolved organisms for energy and materials. 
->>>>>> If the design is able to take advantage of properties or mechanisms that evolution didn't have a gradual path to evolve towards, then it could out-compete existing life.  Hmmm... I can't think of any obvious and plausible examples.  For an implausible example... biological cold fusion for energy would allow artificial organism to out-compete existing life.  
->>>>>> If the design is able to take advantage of resources or materials that weren't common in the evolutionary environment but are common in the modern world, it could out compete existing life.  For example, if you had nanomachines colonies designed to draw from energy from electrical sources, you could get grey goo that siphons energy from power lines, as that is a niche that didn't originally exist for life to evolve to take advantage of.  I think consuming oil for energy is another big one.  Metals in refined forms (i.e. non-oxidized) are also pretty uncommon in nature... Artificial bacteria that consume iron and leaves rust could be pretty destructive.  Same thing for plastics.  None of these are quite in the destroy the world overnight category, but they could cause economic losses that would be significantly disruptive.
 >>>>>> 
+>>>>>> If the design is able to take advantage of properties or mechanisms that evolution didn't have a gradual path to evolve towards, then it could out-compete existing life.  Hmmm... I can't think of any obvious and plausible examples.  For an implausible example... biological cold fusion for energy would allow artificial organism to out-compete existing life.  
+>>>>>> 
+>>>>>> If the design is able to take advantage of resources or materials that weren't common in the evolutionary environment but are common in the modern world, it could out compete existing life.  For example, if you had nanomachines colonies designed to draw from energy from electrical sources, you could get grey goo that siphons energy from power lines, as that is a niche that didn't originally exist for life to evolve to take advantage of.  I think consuming oil for energy is another big one.  Metals in refined forms (i.e. non-oxidized) are also pretty uncommon in nature... Artificial bacteria that consume iron and leaves rust could be pretty destructive.  Same thing for plastics.  None of these are quite in the destroy the world overnight category, but they could cause economic losses that would be significantly disruptive.
 
->>>>>> **u/Nepene** [+1] *
+>>>>>> **u/Nepene** [+1]  (a day later)
 >>>>>> 
 >>>>>> You could have some nanobot with something like a lignin like cell wall. That took a long time for any microorganism to evolve an effective counter to. Just as it takes a while for bacteria to evolve to break down plastic, it takes a while for life to adapt to novel nanobots.
->>>>>> 
 
-> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (18 hours later)
 > 
 > I initially interpreted this title as asking what we'd do to deal with a Gray Goo crisis if the flawed nanobots had already been built. Does anyone have ideas about what someone might do in that situation? The best idea I can think of is to evacuate the planet.
-> 
 
->> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (19 hours later)
 >> 
 >> Build a second grey goo entity with better safeguards and have it eat the first one.
->> More generally, it depends on whether the goo has any exploitable weaknesses. If it was released by accident, it won't be perfect, so there's bound to be something we can use against it. Nuke it for the EMP and the radiation. Contaminate its food supply with chemicals similar to what it normally eats, but different enough to fatally damage any replicators built out of them. Move to a different continent and hope it can't cross the Atlantic.
 >> 
+>> More generally, it depends on whether the goo has any exploitable weaknesses. If it was released by accident, it won't be perfect, so there's bound to be something we can use against it. Nuke it for the EMP and the radiation. Contaminate its food supply with chemicals similar to what it normally eats, but different enough to fatally damage any replicators built out of them. Move to a different continent and hope it can't cross the Atlantic.
 
->>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (a day later)
 >>> 
 >>> > Build a second grey goo entity with better safeguards and have it eat the first one.
->>> I feel like this strategy would take too long, though. At the time you've noticed the goo you have only a few hours or days to act, and that's perhaps being generous.
 >>> 
+>>> I feel like this strategy would take too long, though. At the time you've noticed the goo you have only a few hours or days to act, and that's perhaps being generous.
 
->>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (a day later)
 >>>> 
 >>>> That's hardly fair. If it spreads that fast, "evacuating the planet" isn't workable either.
->>>> A self-replicating disaster still counts as "grey goo" even if it takes a few decades to end human civilisation.
 >>>> 
+>>>> A self-replicating disaster still counts as "grey goo" even if it takes a few decades to end human civilisation.
 
->>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (a day later)
 >>>>> 
 >>>>> Sorry, by "evacuate the planet" I meant get a few dozen people off the rock. I realize that was misleading, apologies.
->>>>> 
 
->> **u/BadGoyWithAGun** [+2] *
+>> **u/BadGoyWithAGun** [+2]  (a day later)
 >> 
 >> Depends on the scale of the outbreak, and the construction of the machines themselves. It stands to reason they wouldn't be able to survive all of burning, acid, oxygen deprivation, exposure to high doses of ionising radiation, etc. Find out which it is and drown the outbreak area with appropriate substances.
->> 
 
->> **u/Galap** [+2] *
+>> **u/Galap** [+2]  (5 days later)
 >> 
 >> Heat. Matter can only have a chemical existence up to a certain temperature, and that temperature isn't very hot. A moat of lava would be sufficient to keep nanomachines from creeping in over the ground.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (18 hours later)
 >> 
 >> Program some sort of virus which gets the nanobots to primarily try to feed on other nanobots. Either that or an EMP burst if you can catch it before it heads underground/into the water.
->> 
 
-> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (8 hours later)
 > 
 > Self-termination when a pre-set saturation is reached. Like self-terminating artificial organisms that are genetically programmed to kill themselves when their waste products are too concentrated.
-> Either that, or program them to not interact with a certain material, and then encase the nano-device in that.
-> Or make them flammable and burn them if they get out of control.
-> Or make them only function at cryogenic temperatures.
 > 
+> Either that, or program them to not interact with a certain material, and then encase the nano-device in that.
+> 
+> Or make them flammable and burn them if they get out of control.
+> 
+> Or make them only function at cryogenic temperatures.
 
-> **u/Geminii27** [+1] *
+> **u/Geminii27** [+1]  (10 hours later)
 > 
 > Heat death. Get too many replicators in one place, and the waste heat they give off destroys their ability to draw energy from the environment.
-> As a bonus, you can kill it with fire.
 > 
+> As a bonus, you can kill it with fire.
 
-> **u/recursiveAI** [+1] *
+> **u/recursiveAI** [+1]  (22 hours later)
 > 
 > Make their *transcription* mechanism capable of only N copies. 
 > Details:
+> 
 > From standard theory of Von Neumann self-replicators, your nano bots can be algebraically represented as: 
+> 
 > a + b + c + f(a + b + c)
 > where
+> 
 > * a = the part that constructs (a+b+c) from string f(a + b +c) and incidentally consumes string f(a + b +c) i.e. translator
+> 
 > * b = the part that makes two copies of string f(a + b + c) i.e. transcriptor
+> 
 > * c = control mechanism that first activates (b), and then activates (a), and then joins together the newly minted (a + b +c) to f(a + b +c)
+> 
 > This is your basic gray goo scenario, assuming we conveniently solve constraints like energy sources, etc.
+> 
 > Now, to make it safe, here's the twist :
+> 
 > * Instead of designing (b) as a copier, we simply design it as cutter.
+> 
 > * Then we replace the string f(a + b + c), with a much longer repeating super-string  f(a+b+c) + f(a+b+c) + f(a+b+c) +... N times.
+> 
 > * (a) is suitably tweaked to consume *only* one f(a+b+c) and ignore the repeating bits, when it constructs the child bot.
+> 
 > * (c) now joins together the child bot and what's left of the super-string
+> 
 > That's it. Only the *most recent* child bot with the super-string is capable of replicating and it inherits the super-string shortened by f(a+b+c), until it runs out of string. Since the much simpler (b) is now incapable of makes copies, there is no more information available to replicate.
 > Note that at the nano-level what we call a string is really a string of molecules. The line between software and hardware is blurred. There is no danger of the software accidentally mutating into a viable horror, in this scenario.
-> Edit: Cleaned up for clarity. Also, one downside(?) is that population growth is no longer exponential and is *much* slower.
 > 
+> Edit: Cleaned up for clarity. Also, one downside(?) is that population growth is no longer exponential and is *much* slower.
 
->> **u/CitrusJ** [+1] *
+>> **u/CitrusJ** [+1]  (2 days later)
 >> 
 >> So telomeres, basically
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (23 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Farmerbob1** [+1]  *Level 1 author**
+>> **u/Farmerbob1** [+1]  *Level 1 author* (a day later)
 >> 
 >> Not so sure about that.  Humans have a lot of long distance transmission lines.  If nanobots were to be able to draw supplemental power from transmission lines, they might be able to move at rather impressive speeds across the entire transmission network very rapidly.  This does require that nanobots have the means to draw power from electrical transmission lines for travel, which should be something to specifically guard against, but I would hesitate to say it is an impossible scenario if nanobots are capable of mutation.
->> If such a mutation were to occur, nanobots could literally be everywhere power lines connect to, very quickly, and be a complete nightmare to control, even if the power grid were subsequently shut down.
 >> 
+>> If such a mutation were to occur, nanobots could literally be everywhere power lines connect to, very quickly, and be a complete nightmare to control, even if the power grid were subsequently shut down.
 
-> **u/TheAtomicOption** [+1] *
+> **u/TheAtomicOption** [+1]  (5 days later)
 > 
 > I think this solves the wrong problem because the real danger of nanobots isn't self replication *alone*. 
-> The real danger of nanobots is self-replication plus resistance to shutdown. Where would resistance to shutdown come from? Presumably if all nanobots replicate themselves perfectly we need only find one mechanism to shut them down and we can effectively shut all of them down relatively easily.
-> The true danger of nanobots is when they have self replication *and* variation (errors) in replication. In other words, evolution. Add that in, and now any of the features you list would be selected against pretty strongly by any attempt to shut down the swarm. 
-> The survivors replicate back up to numbers and now our problem is worse--you basically get synthetic bacteria except they can eat different (a presumably important) stuff.
 > 
+> The real danger of nanobots is self-replication plus resistance to shutdown. Where would resistance to shutdown come from? Presumably if all nanobots replicate themselves perfectly we need only find one mechanism to shut them down and we can effectively shut all of them down relatively easily.
+> 
+> The true danger of nanobots is when they have self replication *and* variation (errors) in replication. In other words, evolution. Add that in, and now any of the features you list would be selected against pretty strongly by any attempt to shut down the swarm. 
+> 
+> The survivors replicate back up to numbers and now our problem is worse--you basically get synthetic bacteria except they can eat different (a presumably important) stuff.
 
-> **u/darvistad** [+1] *
+> **u/darvistad** [+1]  (3 hours later)
 > 
 > Design the nanites to emit and respond to signals as follows:
-> 1. Nanites continuously emit a short-ranged signal permitting other nanites to replicate. Unless they receive this signal from a sufficiently large number of neighbors, nanites self-destruct. This means that single nanites can't be blown to new locations by the wind and start new colonies outside of your control. It also makes it harder to get a new colony up and running outside of controlled conditions.
-> 2. At random, a small fraction of nanites will emit signals that are picked up and transmitted as a wave across the colony. Transmitting these signals requires energy that could be used for replication, slowing growth. The signals are designed so that they can pass through layers of nanites, but rapidly drop off in power as they do so. Receiving a weakened signal primes the nanites to cannibalize their neighbors in the direction of the signal's source, and receiving a full strength version of the signal cancels this command. If a nanite only detects the weakened form of the signal, this indicates that one of its neighbors one layer up has failed to transmit, causing it to be cannibalized. The more nanites are in a colony, the more of these signals are being transmitted, causing the replication rate to drop and policing of non-transmitting mutants to increase.
-> 3. This is the most important one. When nanites shut down as programmed, they emit a signal that overwrites nearby nanites' code with these three laws. This serves as a counter to any sort of mutations that could eventually produce a less restrained replicator. From a selfish gene perspective, the nanites' code has as much to gain by having its host die and transmit its programming to its neighbors as it does by causing the nanite to reproduce cancerously. Additionally, while it would take multiple rounds of mutation and selection to create grey goo, it would take only one round of this suicide signaling to return the nanites to factory settings. Nanites that emit the initial signals in rule 2 shut down, so there are always some obediently suicidal nanites in every colony making sure these directives are continuously reinforced for the colony as a whole.
 > 
+> 1. Nanites continuously emit a short-ranged signal permitting other nanites to replicate. Unless they receive this signal from a sufficiently large number of neighbors, nanites self-destruct. This means that single nanites can't be blown to new locations by the wind and start new colonies outside of your control. It also makes it harder to get a new colony up and running outside of controlled conditions.
+> 
+> 2. At random, a small fraction of nanites will emit signals that are picked up and transmitted as a wave across the colony. Transmitting these signals requires energy that could be used for replication, slowing growth. The signals are designed so that they can pass through layers of nanites, but rapidly drop off in power as they do so. Receiving a weakened signal primes the nanites to cannibalize their neighbors in the direction of the signal's source, and receiving a full strength version of the signal cancels this command. If a nanite only detects the weakened form of the signal, this indicates that one of its neighbors one layer up has failed to transmit, causing it to be cannibalized. The more nanites are in a colony, the more of these signals are being transmitted, causing the replication rate to drop and policing of non-transmitting mutants to increase.
+> 
+> 3. This is the most important one. When nanites shut down as programmed, they emit a signal that overwrites nearby nanites' code with these three laws. This serves as a counter to any sort of mutations that could eventually produce a less restrained replicator. From a selfish gene perspective, the nanites' code has as much to gain by having its host die and transmit its programming to its neighbors as it does by causing the nanite to reproduce cancerously. Additionally, while it would take multiple rounds of mutation and selection to create grey goo, it would take only one round of this suicide signaling to return the nanites to factory settings. Nanites that emit the initial signals in rule 2 shut down, so there are always some obediently suicidal nanites in every colony making sure these directives are continuously reinforced for the colony as a whole.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (7 hours later)
 >> 
 >> This is a pretty complicated setup to jam into something a few nanometers long.  Then you run into questions about how it works -- what exactly is it that makes them fail if the signal stops?  What if that something gets jammed, or a fault in manufacturing produces a single self-replicating nanobot that *doesn't* have that feature?  All of its brethen would die, but it would survive and breed.
->> 
 
 ---
 

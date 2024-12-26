@@ -2,7 +2,7 @@
 
 * Author: u/PrimordialZorian *
 * URL: https://www.reddit.com/r/rational/comments/eui1r7/mol_fanmade_ending_the_contingency/
-* Score: 26
+* Score: 24
 
 * Created: 2020-01-27T03:24:51
 
@@ -34,39 +34,40 @@ But it was too little, too late.
 
 ### Comments:
 
-> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar* (6 hours later)
 > 
 > Super fun, but I don't understand what happened at the end, there.
-> 
 
->> **u/darth_magnificent** [+13] *
+>> **u/darth_magnificent** [+12]  (9 hours later)
 >> 
 >> there was a mention in the some early chapter that the gods placed triggers in the world to prevent and stop various things from happening, considering the one we know of are the access of primordial into the main reality we can assume most of them are to prevent an extinction threat or otherwise world changing/destroying event, the angel mention that the triggers the gods place most likely had scorched earth policy in that regard, which is dangerous to all of the world.
->> what the fic imply that Hive!zorian manage to become so powerful and out of the norm that he most likely activated one of the triggers with his mind!link or various experiments.
->> when the only other known trigger is a primordial summoning, something that hadn't happen yet to the best of our knowledge, we can assume that what zorian did was either very dangerous to require a trigger or the gods deemed it so unwanted it was worth a good portion of reality to get rid of it.
->> the angel are partly in charge to make sure the triggers won't activate,and might consider it even worse then pantexh escaping.
->> from chapter 96, the end of the discussion with the angel.
 >> 
+>> what the fic imply that Hive!zorian manage to become so powerful and out of the norm that he most likely activated one of the triggers with his mind!link or various experiments.
+>> 
+>> when the only other known trigger is a primordial summoning, something that hadn't happen yet to the best of our knowledge, we can assume that what zorian did was either very dangerous to require a trigger or the gods deemed it so unwanted it was worth a good portion of reality to get rid of it.
+>> 
+>> the angel are partly in charge to make sure the triggers won't activate,and might consider it even worse then pantexh escaping.
+>> 
+>> from chapter 96, the end of the discussion with the angel.
 
->>> **u/PrimordialZorian** [+13] *
+>>> **u/PrimordialZorian** [+12]  (11 hours later)
 >>> 
 >>> Yeah, this is what I was referring to. Some plausible triggers are:
+>>> 
 >>> * A recursively self-improving agent going FOOM
 >>> * Using ambient mana in weird ways all over the planet
 >>> * Using magic without using a soul at massive scales
 >>> * Exponentially growing networks of tiny dimensional passages
->>> These are the things that an unleashed primordial would likely do as well.
 >>> 
+>>> These are the things that an unleashed primordial would likely do as well.
 
->>>> **u/Frommerman** [+2] *
+>>>> **u/Frommerman** [+2]  (a day later)
 >>>> 
 >>>> My guess would be a mind containing an accurate model of the nature of magic/reality. Such a mind would basically be a god anyway, and could probably break out of the box it found itself in.
->>>> 
 
->> **u/CannotThinkOfAThing** [+1] *
+>> **u/CannotThinkOfAThing** [+1]  (9 hours later)
 >> 
 >> Yeah, me too. Seems like Zorian killed QI and then ... started to scrap this world? Maybe to make a new one?
->> 
 
 ---
 

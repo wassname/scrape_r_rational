@@ -22,20 +22,17 @@ While rationality isn't a hard focus, neither was it for my last story, 'Brains 
 
 ### Comments:
 
-> **u/Yodra_B** [+2] *
+> **u/Yodra_B** [+2]  (a day later)
 > 
 > A very promising beginning!
-> 
 
->> **u/Sonderjye** [+2] *
+>> **u/Sonderjye** [+2]  (a day later)
 >> 
 >> Indeed, looking forward to seeing where they take it.
->> 
 
->>> **u/Nagadac** [+1]  *Challenge Winner**
+>>> **u/Nagadac** [+1]  *Challenge Winner* (28 days later)
 >>> 
 >>> Glad you seem to like it! I'm updating every week with 1-2 chapters, since it's already finished. Feel free to let me know how you think it's going
->>> 
 
 ---
 

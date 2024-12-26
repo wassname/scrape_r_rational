@@ -2,7 +2,7 @@
 
 * Author: u/thatquibblergirl *
 * URL: https://www.reddit.com/r/rational/comments/2mky8t/pacific_rim_rational_fanfic/
-* Score: 11
+* Score: 9
 
 * Created: 2014-11-17T18:28:45
 
@@ -22,21 +22,19 @@ It's definitely rational fiction, and probably not rationalist, though I'm not 1
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (12 hours later)
 > 
 > The first chapter is extremely full of itself. I can't stand to read it. I can just see the author congratulating himself after each sentence: "I am so awesome. And intelligent. James Joyce has met his match."
-> 
 
->> **u/RMcD94** [+0] *
+>> **u/RMcD94** [+0]  (a day later)
 >> 
 >> I feel I am in the same boat, I've pushed through it and while the writing is so needlessly complicated and incredibly difficult to read it is written very well in that style. 
->> It's something that I think is very rare to find so consistent, even with the obvious issue that it is so pretentious that it fills a niche for that kind of writing.
 >> 
+>> It's something that I think is very rare to find so consistent, even with the obvious issue that it is so pretentious that it fills a niche for that kind of writing.
 
->>> **u/RMcD94** [+0] *
+>>> **u/RMcD94** [+0]  (3 days later)
 >>> 
 >>> It's also very repetitive but I suppose that tends to happen in mental breakdowns and I don't think I've read a better way of putting the reader in the mind of those enjoying cognitive he'll
->>> 
 
 ---
 

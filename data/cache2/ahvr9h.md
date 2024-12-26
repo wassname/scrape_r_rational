@@ -16,15 +16,13 @@ Edit:] We have a winner, Good Old Neon, by Dawid Foster Wallace. It seems I was 
 
 ### Comments:
 
-> **u/Trekshcool** [+2] *
+> **u/Trekshcool** [+2]  (9 hours later)
 > 
 > Just out of curiosity, why do you want to read this? Feel free to ignore this if it's too personal.
-> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (9 hours later)
 >> 
 >> I remember it being pretty well written and kinda relevant to me. Yes, a bit of call of the void too.
->> 
 
 ---
 

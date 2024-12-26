@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/TyeJoKing** [+3] *
+> **u/TyeJoKing** [+3]  (10 minutes later)
 > 
 > There's a weekly thread for munchkining stuff. It would be better to put this sort of stuff there.
-> 
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (16 minutes later)
 >> 
 >> Roger, wilco.
->> 
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 minutes later)
 > 
 > The original post munchkins the hell out of the pills combined, and a couple of them by themselves, but it would be interesting to see what could be done with each in a world where that was the only pill available.
-> 
 
 ---
 

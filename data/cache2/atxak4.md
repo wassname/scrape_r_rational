@@ -2,7 +2,7 @@
 
 * Author: u/crumjd *
 * URL: https://www.reddit.com/r/rational/comments/atxak4/chfan_update_on_a_story_and_a_favor_request/
-* Score: 37
+* Score: 35
 
 * Created: 2019-02-23T16:43:47
 
@@ -24,62 +24,58 @@ So new readers are totally welcome. :)
 
 ### Comments:
 
-> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+> **u/xamueljones** [+7]  *My arch-enemy is entropy* (10 hours later)
 > 
 > Ha! I *just* recommended it to this subreddit in the Monday thread.
-> 
 
->> **u/crumjd** [+2] *
+>> **u/crumjd** [+2]  (11 hours later)
 >> 
 >> Thank you so much for pointing people in my direction.
->> 
 
-> **u/gossypiboma** [+5] *
+> **u/gossypiboma** [+6]  (4 hours later)
 > 
 > Oh, I remember this! I was trying to remember what it was called a while ago but managed to convince myself I was thinking of Unsong due to the similar beginning (man discovers new spell).
 > I'll definitely try rereading it. (Can't remember why I stopped)
-> 
 
->> **u/crumjd** [+4] *
+>> **u/crumjd** [+4]  (4 hours later)
 >> 
 >> Awesome, I hope you enjoy it!  
->> FWIW: The book that is currently published is only the first of the two that went up when it was a serial, so there's still some chance you've already read what I've got on Amazon.  I want to get the second book up, but I feel like it needs a more extensive rewrite.
 >> 
+>> FWIW: The book that is currently published is only the first of the two that went up when it was a serial, so there's still some chance you've already read what I've got on Amazon.  I want to get the second book up, but I feel like it needs a more extensive rewrite.
 
-> **u/traverseda** [+3]  *With dread but cautious optimism**
+> **u/traverseda** [+3]  *With dread but cautious optimism* (6 hours later)
 > 
 > Afraid I can't do that from canada.
-> 
 
->> **u/crumjd** [+3] *
+>> **u/crumjd** [+3]  (9 hours later)
 >> 
 >> Thanks so much for trying.  Here's a [Canadian link](https://www.amazon.ca/review/create-review/ref=dpx_acr_wr_link?asin=B07NK7GTBS). I don't if that'll work, but I appreciate that you took the time to try.
->> 
 
-> **u/-main** [+2] *
+> **u/-main** [+2]  (14 hours later)
 > 
 > I'll check it out. I remember having a good experience with your story when I last saw it pop up here.
-> Weren't you working on a sequel at one point? What happened with that?
 > 
+> Weren't you working on a sequel at one point? What happened with that?
 
->> **u/crumjd** [+2] *
+>> **u/crumjd** [+2]  (a day later)
 >> 
 >> >Weren't you working on a sequel at one point? What happened with that?
->> There were two "books" in what went up on starter serials and I've only published the first one. The second needs more editing before it can go up. 
->> I'd like to write a third, but I don't know if I'll be able to get any traction on Amazon and I'd also like to do a serial over at r/HFY (I've got lots of short stories there, BTW, some might appeal to this group) so I'm not sure what I'll write next.
 >> 
+>> There were two "books" in what went up on starter serials and I've only published the first one. The second needs more editing before it can go up. 
+>> 
+>> I'd like to write a third, but I don't know if I'll be able to get any traction on Amazon and I'd also like to do a serial over at r/HFY (I've got lots of short stories there, BTW, some might appeal to this group) so I'm not sure what I'll write next.
 
-> **u/Making_Bacon** [+2] *
+> **u/Making_Bacon** [+2]  (2 days later)
 > 
 > This comment has been overwritten by an automated tool.
-> 
 
->> **u/crumjd** [+2] *
+>> **u/crumjd** [+2]  (2 days later)
 >> 
 >> That's great, thanks for reading!
->> Soooooo the sequel exists, it's still on the internet, and it can be found even by searching this very sub. Or this thread. However, I'm providing that information without warranty as I feel like the sequel needs more editing than the first book, and it might be a different book by the time I'm done with it.
->> Instead, I'll link this short story: https://www.reddit.com/r/HFY/comments/5m4jdf/alien_minds/ It's about thinking in a way that readers of r/rational might enjoy.
 >> 
+>> Soooooo the sequel exists, it's still on the internet, and it can be found even by searching this very sub. Or this thread. However, I'm providing that information without warranty as I feel like the sequel needs more editing than the first book, and it might be a different book by the time I'm done with it.
+>> 
+>> Instead, I'll link this short story: https://www.reddit.com/r/HFY/comments/5m4jdf/alien_minds/ It's about thinking in a way that readers of r/rational might enjoy.
 
 ---
 

@@ -16,15 +16,13 @@ Alright, a bit short, but--oh.
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/Wizard-of-Woah** [+3] *
+>> **u/Wizard-of-Woah** [+3]  (2 hours later)
 >> 
 >> Thank you. >!And yes, Allison reunites with her mother in this very chapter. The kids also end up building their own semi-utopian city state in the bush. There's a... lot of shit inbetween, though.!<
->> 
 
 ---
 

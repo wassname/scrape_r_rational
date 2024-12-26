@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/6lpeqt/challenge_companion_quantum_suicide_and/
-* Score: 12
+* Score: 10
 
 * Created: 2017-07-06T22:34:03
 
@@ -14,23 +14,23 @@
 
 ### Comments:
 
-> **u/MagicWeasel** [+7]  *Cheela Astronaut**
+> **u/MagicWeasel** [+8]  *Cheela Astronaut* (2 hours later)
 > 
 > I swear I read a short story on this subject that I was going to post here for people to read, but I can't find it. It was about someone who found a book called "you will never die", and he met an old man (?) in a book store who was telling him all about quantum immortality (actually, I feel like the viewpoint character was a woman, but that could just be because I'm a woman and the viewpoint character was bland). 
-> It felt like it was written in the 70s but I'm not sure if that's true or not. I read it probably about 10 years ago, and almost certainly on the internet (though I have read paperback anthologies on very rare occasions). 
-> FWIW, I recall not finding it terribly good (watch it turn out to be a Heinlein masterpiece...) and I'm not even sure if I finished it as I don't remember what the punchline was.
 > 
+> It felt like it was written in the 70s but I'm not sure if that's true or not. I read it probably about 10 years ago, and almost certainly on the internet (though I have read paperback anthologies on very rare occasions). 
+> 
+> FWIW, I recall not finding it terribly good (watch it turn out to be a Heinlein masterpiece...) and I'm not even sure if I finished it as I don't remember what the punchline was.
 
->> **u/daydev** [+9] *
+>> **u/daydev** [+8]  (7 hours later)
 >> 
 >> Have you tried googling it? Because I didn't even know the story, and I found it on the first page for "book called you will never die". [Here it is](http://www.tor.com/2010/08/05/divided-by-infinity/). Unless it's a different story about a character being given a book titled *You Will Never Die*.
->> 
 
->>> **u/MagicWeasel** [+7]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+6]  *Cheela Astronaut* (8 hours later)
 >>> 
 >>> I did google it, but I think I have the worst google luck in history because I never seem to be able to find stuff like that by googling it. (Seriously, [in this thread](https://www.reddit.com/r/tipofmytongue/comments/ixd2m/book_crashed_spaceship_becomes_friends_with_an/) years ago, I even knew the book's title and the names of a few characters, and still didn't manage to find it!)
->>> Looking at your link, I'm 99% sure that's the right one. My heartiest congratulations for finding it!
 >>> 
+>>> Looking at your link, I'm 99% sure that's the right one. My heartiest congratulations for finding it!
 
 ---
 

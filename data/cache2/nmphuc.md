@@ -27,97 +27,87 @@ I give this a solid recommend, both as a story in general, and as a rational tal
 
 ### Comments:
 
-> **u/tomtan** [+19] *
+> **u/tomtan** [+20]  (2 hours later)
 > 
 > I'll second the recommendation. It's one of the best story I discovered through this sub. The character development is really well done, I've rarely seen a story that is able to take such a hateful character and turn him into someone completely different while still making the progression feel natural. Joffrey and the other characters rarely hold the idiot ball and make rational decisions based on what they know (well except at the beginning when Joffrey is literally an idiot)
-> Side note: A lot of people hate the Yi Ti arc but I actually really liked it because of the added world building.
 > 
+> Side note: A lot of people hate the Yi Ti arc but I actually really liked it because of the added world building.
 
->> **u/Nimelennar** [+7] *
+>> **u/Nimelennar** [+6]  (15 hours later)
 >> 
 >> I don't hate the Yi Ti arc.  It's necessary for character development, it gives Joffrey a lot of ideas about how to run a Kingdom and an army that he'll need later, and it's the first real exploration of what will become the main plot of the story.  My problem with it is that I think it isn't set up properly in terms of pacing or tone.  If I went into it expecting that >!Joffrey would be spending the next ten chapters brutally learning what's at stake in the upcoming war against the dead!<, rather than thinking that it'd be more like previous loops, I would probably have enjoyed it more.
->> 
 
->>> **u/gramineous** [+7] *
+>>> **u/gramineous** [+7]  (2 days later)
 >>> 
 >>> Yeah, I felt like I started the last half of the arc expecting each chapter to be the final chapter, given the scale of the threat. Its a good arc for driving home Joffrey's drive to keep on going, how he doesn't want to lose people (as he knows them), and how everyone else doesn't have that "retry" of the loop as an option in their lives and plans. The events and themes of the arc work well, it was just hard to see the scope in the moment of first reading it and is better on a reread.
->>> 
 
-> **u/JustLookingToHelp** [+7] *
+> **u/JustLookingToHelp** [+6]  (12 hours later)
 > 
 > I gotta say, the decision >!to basically load Joffrey with so much torture he thinks he is in hell!< was a good one; it's hard to stay mad at him, despite how bad he was in the original canon, after all that.  Watching him >!make the kind of mistakes I'd expect before while slowly, slowly learning his lessons!< was a good way to endear him to the reader.  Matching his learning with his >!growing recognition of just how horrible a person he'd been before!< helps the plot stay grounded in the source material.
-> I'm only just starting the Yi Ti arc, but I really enjoyed the lifetime with the lemons and the Broken Knights.  >!Clegane, Jon, and Tyrion!< all deserved a bit of camaraderie and laughter.
 > 
+> I'm only just starting the Yi Ti arc, but I really enjoyed the lifetime with the lemons and the Broken Knights.  >!Clegane, Jon, and Tyrion!< all deserved a bit of camaraderie and laughter.
 
->> **u/Bowbreaker** [+2]  *Solitary Locust**
+>> **u/Bowbreaker** [+2]  *Solitary Locust* (a day later)
 >> 
 >> Your spoiler tags are broken.
->> 
 
->>> **u/JustLookingToHelp** [+1] *
+>>> **u/JustLookingToHelp** [+1]  (2 days later)
 >>> 
 >>> They work on my browser.  Are you using old.reddit?
->>> 
 
->>>> **u/FenrirW0lf** [+2] *
+>>>> **u/FenrirW0lf** [+2]  (2 days later)
 >>>> 
 >>>> The first two don't work but the second two do. Think it's because there are mistakes in the way some of the tags are spaced around sentences. They need to be `>!like this!<` and not `>! like this !<`
->>>> 
 
->>>> **u/FenrirW0lf** [+1] *
+>>>> **u/FenrirW0lf** [+1]  (2 days later)
 >>>> 
 >>>> also i totally told you to do the wrong thing so they're all broken now, lol. edited my comment with the right way
->>>> 
 
->>>>> **u/JustLookingToHelp** [+1] *
+>>>>> **u/JustLookingToHelp** [+1]  (2 days later)
 >>>>> 
 >>>>> Tried one more time to fix it, but I was using the Fancy Pants Editor instead of Markdown Mode in the first place.  Hate trying to manage this spacing garbage when I can't see any change in the results myself.
->>>>> 
 
->>>>>> **u/FenrirW0lf** [+2] *
+>>>>>> **u/FenrirW0lf** [+2]  (2 days later)
 >>>>>> 
 >>>>>> That did the trick. And I personally blame reddit for not fixing their stuff instead of making an ugly redesign
->>>>>> 
 
-> **u/FenrirW0lf** [+6] *
+> **u/FenrirW0lf** [+6]  (17 hours later)
 > 
 > My favorite thing about this story is I can pretend that GoT 1-4 is the prequel series for it while ignoring the nonsense in the final seasons
-> Well that and the part where it's really really good and honestly one of my favorite pieces of fiction. Looking forward to seeing how it ends.
 > 
+> Well that and the part where it's really really good and honestly one of my favorite pieces of fiction. Looking forward to seeing how it ends.
 
-> **u/FenrirW0lf** [+6] *
+> **u/FenrirW0lf** [+7]  (3 days later)
 > 
 > The last chapter was posted today. So if anyone was waiting for the fic to be completed before jumping in, now's the time.
-> 
 
-> **u/TridentTine** [+6] *
+> **u/TridentTine** [+6]  (3 hours later)
 > 
 > Thanks for the reminder. On the list it goes.
-> 
 
-> **u/Valdrax** [+6] *
+> **u/Valdrax** [+5]  (4 days later)
 > 
 > I think my favorite line in the fic, as someone who never watched or read Game of Thrones was:
-> "Who the f--k is John Connington?"
-> I was totally with Joffrey in that moment as an outsider to the series who only went in with knowledge absorbed from being on Reddit and having friends who were fans while the show ran.  It was a subplot that just came out of the blue for me that no one ever talked about.
 > 
+> "Who the f--k is John Connington?"
+> 
+> I was totally with Joffrey in that moment as an outsider to the series who only went in with knowledge absorbed from being on Reddit and having friends who were fans while the show ran.  It was a subplot that just came out of the blue for me that no one ever talked about.
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (7 days later)
 > 
 > Is there any other form available for this story other than SpaceBattles? Compiled downloadable ebook or a cross post on a different website?
-> 
 
->> **u/Nimelennar** [+2] *
+>> **u/Nimelennar** [+2]  (7 days later)
 >> 
 >> It's apparently also on [AlternateHistory.com](http://www.alternatehistory.com/forum/threads/purple-days-asoiaf-au.391394/), but I haven't registered to read it there.
->> The first chapter is on FanFiction.net, but only the first.
->> And it looks like you can download it in e-book format at [FicHub.net](https://fichub.net/fic/ym75wXsP), but, again, I haven't tried that.
 >> 
+>> The first chapter is on FanFiction.net, but only the first.
+>> 
+>> And it looks like you can download it in e-book format at [FicHub.net](https://fichub.net/fic/ym75wXsP), but, again, I haven't tried that.
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (7 days later)
 >>> 
 >>> Thanks! I’ll try the ebook version then.
->>> 
 
 ---
 

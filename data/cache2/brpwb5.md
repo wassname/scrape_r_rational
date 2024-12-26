@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/brpwb5/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 8
+* Score: 6
 
 * Created: 2019-05-22T15:06:06
 
@@ -24,70 +24,73 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (5 hours later)
 > 
 > I'm writing a Worm fanfic where the main character has the power to build space ships. Basically, imagine any space ship from any setting, and she can build it. There *are* limits, though.
+> 
 > —Due to a conceit of the setting, superpowers (including the main character's ability to build and understand her space ships) fade as they travel farther from Earth.  
 > —Advanced tech takes time and resources, depending on my arbitrary judgment. Essentials such as anti-grav, inertial compensators, strengthened frame, rudimentary autopilot, and point defense are simple, but a shield generator takes a huge ship with a lot of space and power, and is a vastly complicated piece of technology.  
 > —Every piece of tech is completely integrated with the space ship it's built into. You can't rip out a shield generator or cloaking device without breaking both the ship and the generator, and neither can she just build one separate from the other. If a super advanced ship contains a cloning bay, the only way to get the cloning bay is to make the *entire ship*.  
 > —For balance reasons, harvester and fabricator ships are huge and expensive pieces of technology, as is the kind of ship that would include automatic repair systems. Without attention, ships will break down, though not without warning.  
 > —A created being called the Simurgh, an Endbringer, is on the lookout for any large-scale technological uplift or space development, and will brutally put down anything that can destroy her or other Endbringers, or is a symbol of hope to humanity.
-> 
 
->> **u/turtleswamp** [+4] *
+>> **u/turtleswamp** [+4]  (7 hours later)
 >> 
 >> One of the runabouts from Deep Space 9 would be a good early project as it's relatively small, but the onboard transporter and replicator will have countless applications including solving a lot of your resource problems for future construction projects. I'd have recommended one of the TNG or Voyager shuttles instead as they're even smaller but i'm not entirely sure they canonically have replicators.
->> 
 
-> **u/etiepe** [+2] *
+> **u/etiepe** [+2]  (an hour later)
 > 
 > Hi everyone! I’m a fan of Miraculous: Adventures of Ladybug and Chat Noir, and working on a (long, complicated) fanfic for it. The primary antagonist is a terrorist weaponizing negative emotions to obtain a pair of McGuffins that, when used together, can rewrite reality, at the cost of a balancing sacrifice. For example, an AI can become human, but it would cost the humanity of the AI’s creator. The (emotional terrorist , Faustian) villain wants to save the life of his comatose, possibly dying wife.
-> This sounds like it has MASSIVE potential for a Rationalist AU, but I’m struggling with the morality of the (creative) protagonist to just use the McGuffins to eliminate Death altogether for humans (it would probably mean a genocide for some other sentient species, which is deeply out of character for her). 
-> I would also love advice for writing villains that can read the protagonists’ minds/emotions without much effort.[Echidna](https://archiveofourown.org/works/18637792/chapters/44197456)
 > 
+> This sounds like it has MASSIVE potential for a Rationalist AU, but I’m struggling with the morality of the (creative) protagonist to just use the McGuffins to eliminate Death altogether for humans (it would probably mean a genocide for some other sentient species, which is deeply out of character for her). 
+> 
+> I would also love advice for writing villains that can read the protagonists’ minds/emotions without much effort.[Echidna](https://archiveofourown.org/works/18637792/chapters/44197456)
 
->> **u/GlueBoy** [+1]  *anti-skub**
+>> **u/GlueBoy** [+1]  *anti-skub* (12 hours later)
 >> 
 >> Very interesting premise. I don't know anything about the setting, so I have some questions. 
->> Do the McGuffins work based off of system of absolute or subjective value? Would the cost be the same if the AI creator wanted to become a machine, i.e. would it be possible to engineer the request so that the sacrifice is desirable? If the villain and the hero ask for the same thing would the sacrifice be the same? 
->> Have you seen or read Fullmetal Alchemist? It's a great (and mostly rational) anime/manga in which Alchemy works similar to these McGuffins, as you describe them. The rule that governs how the exchange works is  "[Equivelant Exchange](https://fma.fandom.com/wiki/Alchemy#Equivalent_Exchange)"(don't read further on this page if you don't want to get spoiled) and it's definitely rational. It might serve as a guideline for your own story. 
-
->> As to the villain part, these two  posts from the last few weeks about rational villains are pretty good, and had some interesting perspectives and discussions about the subject:
->> [Psychologically realistic villains can be evil, so write them that way](https://www.reddit.com/r/rational/comments/bfg863/psychologically_realistic_villains_can_be_evil_so/)
->> [A Theory Of Evil \(Re: "Psychologically Realistic Villains"\)](https://www.reddit.com/r/rational/comments/bnh5nf/a_theory_of_evil_re_psychologically_realistic/)
 >> 
+>> Do the McGuffins work based off of system of absolute or subjective value? Would the cost be the same if the AI creator wanted to become a machine, i.e. would it be possible to engineer the request so that the sacrifice is desirable? If the villain and the hero ask for the same thing would the sacrifice be the same? 
+>> 
+>> Have you seen or read Fullmetal Alchemist? It's a great (and mostly rational) anime/manga in which Alchemy works similar to these McGuffins, as you describe them. The rule that governs how the exchange works is  "[Equivelant Exchange](https://fma.fandom.com/wiki/Alchemy#Equivalent_Exchange)"(don't read further on this page if you don't want to get spoiled) and it's definitely rational. It might serve as a guideline for your own story. 
+>> 
+>> As to the villain part, these two  posts from the last few weeks about rational villains are pretty good, and had some interesting perspectives and discussions about the subject:
+>> 
+>> [Psychologically realistic villains can be evil, so write them that way](https://www.reddit.com/r/rational/comments/bfg863/psychologically_realistic_villains_can_be_evil_so/)
+>> 
+>> [A Theory Of Evil \(Re: "Psychologically Realistic Villains"\)](https://www.reddit.com/r/rational/comments/bnh5nf/a_theory_of_evil_re_psychologically_realistic/)
 
->>> **u/etiepe** [+2] *
+>>> **u/etiepe** [+2]  (12 hours later)
 >>> 
 >>> I don't know whether it's absolute or subjective value, since the canon is abundantly clear that using the McGuffins to make this trade is Immoral and Must Not Be Done Under Any Circumstances. But the Fullmetal Alchemist instinct is absolutely a good point and I'll think on that as I try to recalibrate where I want the story to go (canon moves the plot so seldom that every time it does, everyone is surprised)
->>> 
 
->>>> **u/GlueBoy** [+1]  *anti-skub**
+>>>> **u/GlueBoy** [+1]  *anti-skub* (12 hours later)
 >>>> 
 >>>> Sounds like a monkey's paw kind of deal, in that case. If the sacrifice is random and invariably inimical that would make it impossible to munchkin. 
->>>> That might be a good thing, actually. Constraints on your protagonist's actions is one of the best ways to show off their cleverness, as well as being excellent in establishing narrative tension.
 >>>> 
+>>>> That might be a good thing, actually. Constraints on your protagonist's actions is one of the best ways to show off their cleverness, as well as being excellent in establishing narrative tension.
 
-> **u/FortySixtyFour** [+2] *
+> **u/FortySixtyFour** [+2]  (2 hours later)
 > 
 > I write RE: Trailer Trash, a do-over story about someone in 2045 having their mind sent back into their thirteen-year-old body in 1998. At the moment, I'm juggling all of my subplots, and struggling to give readers a satisfying enough look at one before I have to throw it back up into the air and catch the next one.
-> I'm tempted to say I can gloss over the police shooting fallout at this point, because without social media everyone she knows isn't going to find out about it right away. That way, I can focus on the school drama subplot and the subplot involving her relationship with her mother. I feel like it might annoy readers who want resolution to one thing at a time, but on the other hand Tabitha's supposed to be feeling overwhelmed in the story right now.
-> &#x200B;
-> Tough call on what would be the most satisfying to read, since I can't assume the subplots will be seamlessly woven together.
 > 
+> I'm tempted to say I can gloss over the police shooting fallout at this point, because without social media everyone she knows isn't going to find out about it right away. That way, I can focus on the school drama subplot and the subplot involving her relationship with her mother. I feel like it might annoy readers who want resolution to one thing at a time, but on the other hand Tabitha's supposed to be feeling overwhelmed in the story right now.
+> 
+> &#x200B;
+> 
+> Tough call on what would be the most satisfying to read, since I can't assume the subplots will be seamlessly woven together.
 
->> **u/GlueBoy** [+2]  *anti-skub**
+>> **u/GlueBoy** [+2]  *anti-skub* (11 hours later)
 >> 
 >> I've been listening to the Writing Excuses podcast since a [post](https://www.reddit.com/r/rational/comments/anr7hw/12part_lecture_on_novel_writing_by_brandon/) about it here a few months ago. One thing Brandon Sanderson says often is that one of the most important facets of good fiction writing is *keeping your promises*. That means that you have to be aware of what expectations you create in your story and at least address those expectations, if not satisfy them. 
->> So if you think your readers are expecting a resolution to this subplot then you probably do need to give it to them, either that or subvert that expectation in an interesting way. (I personally hate anti-climaxes outside of comedy, but that's just me)
 >> 
+>> So if you think your readers are expecting a resolution to this subplot then you probably do need to give it to them, either that or subvert that expectation in an interesting way. (I personally hate anti-climaxes outside of comedy, but that's just me)
 
->> **u/AdOpen2644** [+1] *
+>> **u/AdOpen2644** [+1]  (5 years later)
 >> 
 >> I can say that this was the best time travel do over story I have heard. The insight to teen thinking and emotions was very informative. 
-
->> Please consider a sequel
 >> 
+>> Please consider a sequel
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/iwillmakeyouthink2 *
 * URL: https://www.reddit.com/r/rational/comments/3nrrtk/writing_a_grimoire_chapter_3/
-* Score: 24
+* Score: 23
 
 * Created: 2015-10-06T23:17:40
 
@@ -53,160 +53,171 @@ Emma inspected the paper Tom had drawn the pentagram on. It was still cold, but 
 
 ### Comments:
 
-> **u/xamueljones** [+8]  *My arch-enemy is entropy**
+> **u/xamueljones** [+8]  *My arch-enemy is entropy* (2 hours later)
 > 
 > This time, I recommend the next actions to take is to:
-> * Experiment with the frozen papers. Will they ever warm up? Try burning them or putting them on top of a radiator. Check how quickly they warm up if it occurs. Check if other objects are actually getting colder while in contact with the paper. It seems like it should be, but you can't be too sure when dealing with magic.
-> * EDIT: I'd also touch a thermometer to the paper for it's temperature and putting the sheet in a bowl/tray of water (check it later if the water freezes).
-> * Experiment with the hard papers. Is it sharp? How sharp is it? Test it on metal, wood, diamonds even if you can get it (I'd be willing to spend money for this test). You want to know how hard it is on the Mohs scale based on what gems it can scratch or be scratched by.
-> * Experiment with the hard papers. Will they break under any amount of pressure? Try placing them as a bridge between two chairs or anything that's available to rest two edges of the paper on (don't let anyone hold it during the experiment). Does it snap or bend under any amount of pressure?
-> * Experiment with the hard papers. How elastic is it? This can be tested based on how high things can bounce when you drop it from a high height onto the paper.  So I'd use a lot of materials such a a rubber ball, a metal object, wood, or some plastic pen to see how high it bounces off the paper compared to how high the same objects bounce off the floor to measure how well the paper is absorbing energy from outside forces.
->   * Note that testing for the Mohs scale, pressure resistance, and elasticity are all very different [notions of hardness](https://en.wikipedia.org/wiki/Hardness) which is why a diamond can be a 10 on the Mohs scale and still be easily crushed by a hammer.
-> I'd recommend the next pentagram experiment to be:
-> * Try drawing the pentagram the same way except with the lines drawn first, the top two triangles drawn and then the middle triangle.
-> EDIT: I should probably explain how to do a [Mohs test](http://www.oakton.edu/user/4/billtong/eas100lab/hardness.htm).
-> If the paper scratches the following:
-> * a fingernail, it's hardness is 2 to 2.5.
-> * a copper penny, it's hardness is 3.
-> * a nail, it's hardness is 4.
-> * a knife blade, it's hardness is 5 to 6.
-> * window glass, it's hardness is 5.5.
-> * a steel file, it's hardness is 6.5.
-> * a streak plate, it's hardness is 6.5 to 7.
-> * a quartz, it's hardness is 7.
-> * a diamond, it's hardness is 10 or higher.
-> Note that materials of equal hardness will have difficulty scratching each other or only make small scratches (which is why our fingernails can't scratch themselves).
-> This [site](http://geology.com/minerals/mohs-hardness-scale.shtml) gives good instructions about how to safely conduct the Mohs test.
 > 
+> * Experiment with the frozen papers. Will they ever warm up? Try burning them or putting them on top of a radiator. Check how quickly they warm up if it occurs. Check if other objects are actually getting colder while in contact with the paper. It seems like it should be, but you can't be too sure when dealing with magic.
+> 
+> * EDIT: I'd also touch a thermometer to the paper for it's temperature and putting the sheet in a bowl/tray of water (check it later if the water freezes).
+> 
+> * Experiment with the hard papers. Is it sharp? How sharp is it? Test it on metal, wood, diamonds even if you can get it (I'd be willing to spend money for this test). You want to know how hard it is on the Mohs scale based on what gems it can scratch or be scratched by.
+> 
+> * Experiment with the hard papers. Will they break under any amount of pressure? Try placing them as a bridge between two chairs or anything that's available to rest two edges of the paper on (don't let anyone hold it during the experiment). Does it snap or bend under any amount of pressure?
+> 
+> * Experiment with the hard papers. How elastic is it? This can be tested based on how high things can bounce when you drop it from a high height onto the paper.  So I'd use a lot of materials such a a rubber ball, a metal object, wood, or some plastic pen to see how high it bounces off the paper compared to how high the same objects bounce off the floor to measure how well the paper is absorbing energy from outside forces.
+> 
+>   * Note that testing for the Mohs scale, pressure resistance, and elasticity are all very different [notions of hardness](https://en.wikipedia.org/wiki/Hardness) which is why a diamond can be a 10 on the Mohs scale and still be easily crushed by a hammer.
+> 
+> I'd recommend the next pentagram experiment to be:
+> 
+> * Try drawing the pentagram the same way except with the lines drawn first, the top two triangles drawn and then the middle triangle.
+> 
+> EDIT: I should probably explain how to do a [Mohs test](http://www.oakton.edu/user/4/billtong/eas100lab/hardness.htm).
+> 
+> If the paper scratches the following:
+> 
+> * a fingernail, it's hardness is 2 to 2.5.
+> 
+> * a copper penny, it's hardness is 3.
+> 
+> * a nail, it's hardness is 4.
+> 
+> * a knife blade, it's hardness is 5 to 6.
+> 
+> * window glass, it's hardness is 5.5.
+> 
+> * a steel file, it's hardness is 6.5.
+> 
+> * a streak plate, it's hardness is 6.5 to 7.
+> 
+> * a quartz, it's hardness is 7.
+> 
+> * a diamond, it's hardness is 10 or higher.
+> 
+> Note that materials of equal hardness will have difficulty scratching each other or only make small scratches (which is why our fingernails can't scratch themselves).
+> 
+> This [site](http://geology.com/minerals/mohs-hardness-scale.shtml) gives good instructions about how to safely conduct the Mohs test.
 
->> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> **u/traverseda** [+3]  *With dread but cautious optimism* (6 hours later)
 >> 
 >> This is a bit concerning. If it stays cold that long what's it doing to entropy?
->> 
 
->>> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (6 hours later)
 >>> 
 >>> Assuming that it's not just extremely cold and taking a while to warm up? Then increasing it. Which is a bad thing for the goal of preventing the universe's heat death.
->>> But it's great news for anyone who ever wanted a super-efficient cooling system! Your laptops, refrigerators, TVs, air-conditioners, and any other technological systems are all now half as thick!
 >>> 
+>>> But it's great news for anyone who ever wanted a super-efficient cooling system! Your laptops, refrigerators, TVs, air-conditioners, and any other technological systems are all now half as thick!
 
-> **u/eaglejarl** [+4] *
+> **u/eaglejarl** [+5]  (21 hours later)
 > 
 > 1. Fold a sheet of paper into a rectangular prism.  Draw the pentagram on one side so that the paper stiffens.  Does it remain in its rectangular form?
-> If the answer is yes, then do the following:
-> 1. Stiffen three sheets of paper, A, B, C.  A and C are flat, B is a rectangular prism.  Place A and C at the ends of B so that you have a pillar with a top and bottom.  Pile stuff on the top.  Can you make the pillar come apart, either by collapsing B or having C be cut?
-> If the answer to the last question is "no", then you have an (infinitely?) strong building material.
 > 
+> If the answer is yes, then do the following:
+> 
+> 1. Stiffen three sheets of paper, A, B, C.  A and C are flat, B is a rectangular prism.  Place A and C at the ends of B so that you have a pillar with a top and bottom.  Pile stuff on the top.  Can you make the pillar come apart, either by collapsing B or having C be cut?
+> 
+> If the answer to the last question is "no", then you have an (infinitely?) strong building material.
 
-> **u/thecommexokid** [+3] *
+> **u/thecommexokid** [+3]  (5 hours later)
 > 
 > Draw the pentagram on another object besides paper.
-> 
 
-> **u/thecommexokid** [+3] *
+> **u/thecommexokid** [+3]  (5 hours later)
 > 
 > Draw pentagrams much larger and much smaller than the ones so far.
-> 
 
-> **u/thecommexokid** [+3] *
+> **u/thecommexokid** [+3]  (5 hours later)
 > 
 > Draw pentagrams with different materials than pencil: highlighter, charcoal, if everyone's feeling angsty and dramatic then maybe blood...
-> 
 
->> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (12 hours later)
 >> 
 >> > if everyone's feeling angsty and dramatic then maybe blood...
->> NO.  NONONONO!
->> *DO NOT* experiment with blood and magic pentagrams until you understand the underlying principles.  And honestly, I wouldn't do it even then.
 >> 
+>> NO.  NONONONO!
+>> 
+>> *DO NOT* experiment with blood and magic pentagrams until you understand the underlying principles.  And honestly, I wouldn't do it even then.
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (14 hours later)
 >>> 
 >>> That's only true if we assume that the myths about magic have any truth to them about blood. For all we know, a red marker will have the same effect as we imagined blood would have. Of course while blood being dangerous has a higher prior probability than for anything else, I'd still treat *any* unknown, potentially dangerous, experimental procedure with caution and not just ones where we're using blood.
->>> Of course, you're probably right that we should hold off on using blood until after a number of experiments have been done.
 >>> 
+>>> Of course, you're probably right that we should hold off on using blood until after a number of experiments have been done.
 
->>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (15 hours later)
 >>>> 
 >>>> Oh, we should absolutely be cautious about any procedure.
->>>> However I think the discovery of 'magical' effects from drawing pentagrams, especially in such circumstances, bumps up the probability that our cultural background on magic is actually grounded in fact from negligible to considerable.
->>>> Given the state of the world and the kinds of powers (or Powers) required to keep this a secret, and it's not looking like the conspiracy is friendly.  So I'd avoid blood magic; it could be catastrophic and there are safer tests to try first.  Like FOOF etching.
 >>>> 
+>>>> However I think the discovery of 'magical' effects from drawing pentagrams, especially in such circumstances, bumps up the probability that our cultural background on magic is actually grounded in fact from negligible to considerable.
+>>>> 
+>>>> Given the state of the world and the kinds of powers (or Powers) required to keep this a secret, and it's not looking like the conspiracy is friendly.  So I'd avoid blood magic; it could be catastrophic and there are safer tests to try first.  Like FOOF etching.
 
->>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (15 hours later)
 >>>>> 
 >>>>> > Like FOOF etching.
->>>>> What's that?
 >>>>> 
+>>>>> What's that?
 
->>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (16 hours later)
 >>>>>> 
 >>>>>> *Very careful* use of [dioxygen diflouride](https://en.wikipedia.org/wiki/Dioxygen_difluoride) to etch your pattern (a pentagram, or possibly a rapidly expanding blob) into the magic paper, the walls, the floor, the geography, anyone unfortunate enough to be nearby...
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+2] *
+>>>>>>> **u/eaglejarl** [+2]  (21 hours later)
 >>>>>>> 
 >>>>>>> Wow.  You know you're breaking physics when "FOOF" and "safer" appear in the same sentence and that sentence isn't "X is safer than FOOF etching."
->>>>>>> 
 
->>>>> **u/gbear605** [+1]  *history’s greatest story**
+>>>>> **u/gbear605** [+1]  *history’s greatest story* (a day later)
 >>>>> 
 >>>>> How are you planning on getting FOOF? All the procedures for making it (according to wikipedia) are a *bit* beyond the character's means.
->>>>> 
 
->>>>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life* (a day later)
 >>>>>> 
 >>>>>> Oh dear, I guess that means the blood tests will have to wait until they have some serious scientific support. How terrible.
->>>>>> 
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 hours later)
 > 
 > Are you /u/Werifloke?
-> He was a one-off account which was only on this subreddit long enough to post all chapters of [The Waves Risen](https://wertifloke.wordpress.com/2015/01/25/chapter-1/) and you're not responding to any of the comments either.
-> You don't have to feel shy. If you want to be part of this community, we'll be perfectly happy to include you. ;)
 > 
+> He was a one-off account which was only on this subreddit long enough to post all chapters of [The Waves Risen](https://wertifloke.wordpress.com/2015/01/25/chapter-1/) and you're not responding to any of the comments either.
+> 
+> You don't have to feel shy. If you want to be part of this community, we'll be perfectly happy to include you. ;)
 
->> **u/gabbalis** [+2] *
+>> **u/gabbalis** [+2]  (2 hours later)
 >> 
 >> I've still got my eye on [Eliezer](https://www.reddit.com/r/rational/comments/3joa6l/rt_q_does_the_author_of_the_waves_arisen_linked/cur5l37).
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (3 hours later)
 >>> 
 >>> Eh...while it could be Eliezer trying to change his writing style enough to throw off any association with HPMOR, I don't think he's Werifloke. Also I'm very sure that iwillmakeyouthink2 is NOT Eliezer.
->>> 
 
->>>> **u/Sagebrysh** [+4]  *Rank 7 Pragmatist**
+>>>> **u/Sagebrysh** [+4]  *Rank 7 Pragmatist* (3 hours later)
 >>>> 
 >>>> Admitting to being Eliezer yourself then?
->>>> 
 
->>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (4 hours later)
 >>>>> 
 >>>>> -_-
->>>>> 
 
-> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (an hour later)
 > 
 > Next step is to study the transition point, see if there's any way to detect what exactly is happening with the stiff paper, cold paper, etc, at the moment of the 'magic shift' or even afterwards. Not sure how you'd go about that, but maybe start with simple things like an EMF detector, thermometer, etc. See how cold the cold paper is getting, see how stiff the stiff paper is getting. Are we talking about something with an infinite tensile strength (instant space elevator!) or does it have an upper limit? What sort of weird shit is happening with the atomic bonds?
-> Other basic tests should be done (carefully) as well. See if what making small changes to the patterns do. Change one symbol and see what happens when you finish the design. The center symbol seems to be the key, but can anything happen before you input the center symbol?
-> Also, the symbols (triangle with line through it, etc) are clearly basic alchemical symbols. They should probably research the symbology, test other symbols with a similar history of use in 'magic' what happens when you use the same inner symbols, but use a hexagram or septagram instead of a pentagram?
 > 
+> Other basic tests should be done (carefully) as well. See if what making small changes to the patterns do. Change one symbol and see what happens when you finish the design. The center symbol seems to be the key, but can anything happen before you input the center symbol?
+> 
+> Also, the symbols (triangle with line through it, etc) are clearly basic alchemical symbols. They should probably research the symbology, test other symbols with a similar history of use in 'magic' what happens when you use the same inner symbols, but use a hexagram or septagram instead of a pentagram?
 
-> **u/fortycakes** [+1] *
+> **u/fortycakes** [+1]  (11 hours later)
 > 
 > Is there a reason they can't leave? Trying to find Ralph's possessions and searching for any reference material he might have left behind seems like a good idea.
-> 
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (a month later)
 > 
 > The logical next step is to draw the pentagram in other orders, or at least drawing different lines last. Do what Tom suggests.
-> 
 
->> **u/Psy-Kosh** [+1] *
+>> **u/Psy-Kosh** [+1]  (a month later)
 >> 
 >> Or draw all the symbols _except_ the pentagram itself
->> 
 
 ---
 

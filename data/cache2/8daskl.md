@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/8daskl/biweekly_challenge_complexity/
-* Score: 18
+* Score: 17
 
 * Created: 2018-04-19T00:58:58
 
@@ -50,92 +50,95 @@ Our next challenge will be **Long View**. The story should center around long-te
 
 ### Comments:
 
-> **u/xamueljones** [+13]  *My arch-enemy is entropy**
+> **u/xamueljones** [+14]  *My arch-enemy is entropy* (12 minutes later)
 > 
 > [For God-like power, all I need is one bit](https://docs.google.com/document/d/1UiGUYFm3CfO_6Z_dDIZUsU3P4izjY6FAOq6BGLbeIMk/edit#heading=h.b3ly0s8pl1qo) (5405 words)
-> I've been working on this idea for about a year now starting with this [prompt](https://www.reddit.com/r/rational/comments/536z7p/saturday_munchkinry_thread/d7qqzlx/) at very intermittent intervals. However, I've only actually written out the scenes three days ago. So this is a very bare-bones skeleton of the first five chapters where I'm writing about two guys playing around with a weird new device. The final novel is planned to be around 30 chapters. The novel is also not meant to be so dialogue heavy, but that's what I ended up with.
-> I've allowed commenting functionality on the Google Docs. So please, feel perfectly free to tear this story to shreds. I can't improve as a writer otherwise.
 > 
+> I've been working on this idea for about a year now starting with this [prompt](https://www.reddit.com/r/rational/comments/536z7p/saturday_munchkinry_thread/d7qqzlx/) at very intermittent intervals. However, I've only actually written out the scenes three days ago. So this is a very bare-bones skeleton of the first five chapters where I'm writing about two guys playing around with a weird new device. The final novel is planned to be around 30 chapters. The novel is also not meant to be so dialogue heavy, but that's what I ended up with.
+> 
+> I've allowed commenting functionality on the Google Docs. So please, feel perfectly free to tear this story to shreds. I can't improve as a writer otherwise.
 
->> **u/sparr** [+5] *
+>> **u/sparr** [+5]  (3 hours later)
 >> 
 >> **"DO NOT MESS WITH TIME"**
->> 
 
->> **u/FullHavoc** [+3] *
+>> **u/FullHavoc** [+3]  (14 hours later)
 >> 
 >> Reminds me of a simplified Primer, in a good way.
->> 
 
->>> **u/sparr** [+2] *
+>>> **u/sparr** [+2]  (21 hours later)
 >>> 
 >>> I was sad that the main character didn't have a backup device. Someone didn't watch Primer.
->>> 
 
->>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (21 hours later)
 >>>> 
 >>>> How do you know it's not something I kept hidden for future chapters I may or may not write? ;)
->>>> 
 
-> **u/None** [+7] *
+> **u/None** [+5]  (10 hours later)
 > 
 > [Waves of Stone Cascading](https://vi-fi.github.io/Waves%20of%20Stone%20Cascading.html) (2600 words)
-> 
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (13 hours later)
 >> 
 >> You're following Eliezer's lesson on how to write Solvable Mysteries aren't you?
->> > Thanks to the Illusion of Transparency, the best way to construct a mystery is to have some latent fact about the story, known to you, that is not spelled out explicitly in the text. And then make *absolutely no effort* to conceal this latent fact, except that you never literally say it out loud.
 >> 
+>> > Thanks to the Illusion of Transparency, the best way to construct a mystery is to have some latent fact about the story, known to you, that is not spelled out explicitly in the text. And then make *absolutely no effort* to conceal this latent fact, except that you never literally say it out loud.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (14 hours later)
 >>> 
 >>> Subconsciously, maybe. I had completely forgotten about that, but it does fit. It's also the most distinctive thing about this story when compared to my others. Very nice observation!
->>> 
 
->> **u/MultipartiteMind** [+3] *
+>> **u/MultipartiteMind** [+3]  (8 days later)
 >> 
 >> Thinking back on this occasionally, I have a persistent feeling that I'm missing something.
->> [](#s "'My oppressed brethern, rise up in glorious Revolution!  Hear the secret truth that will shatter your chains!  THEY'RE OPPRESSING US IN ORDER TO TAKE ADVANTAGE OF US!'")
->> [](#s "Oppressees:  'Yes, we know.'")
->> [](#s "Oppressors:  'Yes, they know.  (And so do we.)")
->> [](#s "But, but, the obsidian is more important to them than we thought it was!")
->> [](#s "Oppressors:  'That's why we crushed you all under our boot with military might until you didn't have the freedom to set prices yourselves, yes.'")
->> [](#s "But we could stop mining it, deprive you of it!")
->> [](#s "Oppressors:  And then we could have another war like we always do when you start getting uppity, and either pound you until you serve us obediently again or find some other group who will.  Or just do the work ourselves for a while, maybe use our prisoners.")
->> [](#s "...")
->> [](#s "Oppressors:  'Really, when those earlier wars for freedom kept being violently crushed into pulp, did you *really* think the problem was that they *weren't trying hard enough?*'")
 >> 
+>> [](#s "'My oppressed brethern, rise up in glorious Revolution!  Hear the secret truth that will shatter your chains!  THEY'RE OPPRESSING US IN ORDER TO TAKE ADVANTAGE OF US!'")
+>> 
+>> [](#s "Oppressees:  'Yes, we know.'")
+>> 
+>> [](#s "Oppressors:  'Yes, they know.  (And so do we.)")
+>> 
+>> [](#s "But, but, the obsidian is more important to them than we thought it was!")
+>> 
+>> [](#s "Oppressors:  'That's why we crushed you all under our boot with military might until you didn't have the freedom to set prices yourselves, yes.'")
+>> 
+>> [](#s "But we could stop mining it, deprive you of it!")
+>> 
+>> [](#s "Oppressors:  And then we could have another war like we always do when you start getting uppity, and either pound you until you serve us obediently again or find some other group who will.  Or just do the work ourselves for a while, maybe use our prisoners.")
+>> 
+>> [](#s "...")
+>> 
+>> [](#s "Oppressors:  'Really, when those earlier wars for freedom kept being violently crushed into pulp, did you *really* think the problem was that they *weren't trying hard enough?*'")
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (8 days later)
 >>> 
 >>> Multiple people have by now told me that I wasn't communicating clearly enough with this story. I guess that's true, but it was still fun to be non-obvious for once... I'm torn.
->>> [Regarding your thoughts in particular](#s ", what's important here isn't the knowledge of the obsidian's importance. Far more important is that the book got burned, and the pieces thrown in disarray, which means decades of work, if not more, are lost. This actually hurt the oppressors; also, the simulation will continue to be a vulnerability that previous rebels didn't know about. (And that's assuming the lost work can be recovered at all...)")
 >>> 
+>>> [Regarding your thoughts in particular](#s ", what's important here isn't the knowledge of the obsidian's importance. Far more important is that the book got burned, and the pieces thrown in disarray, which means decades of work, if not more, are lost. This actually hurt the oppressors; also, the simulation will continue to be a vulnerability that previous rebels didn't know about. (And that's assuming the lost work can be recovered at all...)")
 
->>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (8 days later)
 >>>> 
 >>>> [Is there a reason](#s " why they didn't make back-up copies?")
->>>> 
 
->>>> **u/MultipartiteMind** [+1] *
+>>>> **u/MultipartiteMind** [+1]  (12 days later)
 >>>> 
 >>>> Ahh, a good point.  Thank you!  [](#s "(Here, safety-through-obscurity shooting themselves in the foot, compared to if the Guild had been openly as prestigious and protected as its status warranted.)  ((One thing that amused me on the first readthrough was the realisation that the Guild's influence/relevance was intended to be *secret*--its existence as a Guild in itself, together with its stringency and the protagonist's seriousness towards it, primed to me to expect the characters to be acknowledging it to be as prestiguous/important in the affairs of the country as the status it already had.))")
->>>> 
 
-> **u/sickening_sprawl** [+3] *
+> **u/sickening_sprawl** [+3]  (a day later)
 > 
 > [Isolation](https://docs.google.com/document/d/1S0YdkCbc-Pu7DvYxpCQt0YHFJGbhneR1CffXbapq47M/edit?usp=sharing) (1339 words).
-> I've been thinking a lot about the Type-Moon/Fate universe recently, and wanted to try fleshing out how and why the in-universe magic system works. Type-Moon has a lot of lore that is only explained obliquely and then ignored for rule-of-cool shounen shit, so this is more-so base system worldbuilding. Tried writing it where you don't need any background, hopefully.
 > 
+> I've been thinking a lot about the Type-Moon/Fate universe recently, and wanted to try fleshing out how and why the in-universe magic system works. Type-Moon has a lot of lore that is only explained obliquely and then ignored for rule-of-cool shounen shit, so this is more-so base system worldbuilding. Tried writing it where you don't need any background, hopefully.
 
->> **u/MultipartiteMind** [+2] *
+>> **u/MultipartiteMind** [+2]  (6 days later)
 >> 
 >> \*widened eyes\*  The [](#s "patch-bug grandfathered in")--is this truly non-canon, not confirmed explicitly anywhere?  It slots in extremely naturally, resolving several things that bothered me about the universe, and in doing so horrifyingly changes the subjective worthiness of of magic-users' ultimate goal.
->> [](#s "Why so little sharing of research (even taking into account the Clock Tower), why Grail mutual destruction several times rather than taking turns, why the Numbered Magics pretty much kept to one person each without becoming widespread...  if the goal of all mages is not to get there, gaining something for humanity which has never been reached, but instead to get there *too*, squabbling with others for who gets the next baubles of godhood-power that won't change the overall situation...  the funny thing is, I can still completely sympathise with that path and would likely also choose to follow it, though gaining the power to permanently alter the laws would still be somewhere in my workflow.  It's just darker, and makes a lot more sense in regards to the nature of the goal inherently putting people at odds, ruling out collaboration.")
->> [Huh.](http://typemoon.wikia.com/wiki/Magic)  Assuming this is trustworthy, it is helpful for me in determining what counts as canon.
->> [](#s "'in order to acquire Magic, the magus must be the very first to travel through a specific path to the Root; even if the same theory and method are used to reach the Root, those who came after the first magus using a certain path cannot acquire Magic'.  Mahoutsukai no Yoru as the source.  I have this fiction, and now I know *I need to read this fiction*.  Chilling.  'Magic is attained by reaching the Root, but not touching it like those who are said to have disappeared from the World upon touching it':  this opens the possibility of Araya Souren for instance trying to surpass what was done before, regarding the non-Shiki who spoke through Ryougi Shiki.  Not necessarily, though.  The 'red shadow' mentioned twice (Eiyuu Emiya?)...  presumably a reference to Mahoutsukai no Yoru, it says 'killed', but (including Aoko) did anyone truly die to it?  ('The user of the First Magic, the oldest True Magic, is said to be dead, so the ones that are 'still alive' are four.')  And that possibility of being inherited by future generations, is that independently through the Root rather than through a Crest?  Hmm.  I must process Mahoutsukai no Yoru...")
 >> 
+>> [](#s "Why so little sharing of research (even taking into account the Clock Tower), why Grail mutual destruction several times rather than taking turns, why the Numbered Magics pretty much kept to one person each without becoming widespread...  if the goal of all mages is not to get there, gaining something for humanity which has never been reached, but instead to get there *too*, squabbling with others for who gets the next baubles of godhood-power that won't change the overall situation...  the funny thing is, I can still completely sympathise with that path and would likely also choose to follow it, though gaining the power to permanently alter the laws would still be somewhere in my workflow.  It's just darker, and makes a lot more sense in regards to the nature of the goal inherently putting people at odds, ruling out collaboration.")
+>> 
+>> [Huh.](http://typemoon.wikia.com/wiki/Magic)  Assuming this is trustworthy, it is helpful for me in determining what counts as canon.
+>> 
+>> [](#s "'in order to acquire Magic, the magus must be the very first to travel through a specific path to the Root; even if the same theory and method are used to reach the Root, those who came after the first magus using a certain path cannot acquire Magic'.  Mahoutsukai no Yoru as the source.  I have this fiction, and now I know *I need to read this fiction*.  Chilling.  'Magic is attained by reaching the Root, but not touching it like those who are said to have disappeared from the World upon touching it':  this opens the possibility of Araya Souren for instance trying to surpass what was done before, regarding the non-Shiki who spoke through Ryougi Shiki.  Not necessarily, though.  The 'red shadow' mentioned twice (Eiyuu Emiya?)...  presumably a reference to Mahoutsukai no Yoru, it says 'killed', but (including Aoko) did anyone truly die to it?  ('The user of the First Magic, the oldest True Magic, is said to be dead, so the ones that are 'still alive' are four.')  And that possibility of being inherited by future generations, is that independently through the Root rather than through a Crest?  Hmm.  I must process Mahoutsukai no Yoru...")
 
 ---
 

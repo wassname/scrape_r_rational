@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/Farmerbob1** [+1]  *Level 1 author**
+> **u/Farmerbob1** [+1]  *Level 1 author* (a minute later)
 > 
 > (Vlad Taltos X Worm post golden morning)
->  Vlad learns more about the Undersiders, adjusts his goals, and severely embarrasses Parian by accident.
 > 
+>  Vlad learns more about the Undersiders, adjusts his goals, and severely embarrasses Parian by accident.
 
 ---
 

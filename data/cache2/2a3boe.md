@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.fanfiction.net/s/10503877/1/The-Amazing-Peter-Parker
-* Score: 8
+* Score: 9
 
 * Created: 2014-07-07T22:53:28
 
@@ -12,54 +12,49 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+4]  (a minute later)
 > 
 > This was posted on Less Wrong today and I figured it should be posted here as well.
-> It's short, a bit bland and I'm sure you could do a lot more with this premise. On the other hand, I'm not sure how interesting this gets if there's multiple chapters of this.
 > 
+> It's short, a bit bland and I'm sure you could do a lot more with this premise. On the other hand, I'm not sure how interesting this gets if there's multiple chapters of this.
 
->> **u/erwgv3g34** [+1] *
+>> **u/erwgv3g34** [+1]  (2 hours later)
 >> 
 >> > It's short, a bit bland and I'm sure you could do a lot more with this premise. On the other hand, I'm not sure how interesting this gets if there's multiple chapters of this.
->> What would be the conflict?
 >> 
+>> What would be the conflict?
 
-> **u/erwgv3g34** [+3] *
+> **u/erwgv3g34** [+4]  (an hour later)
 > 
 > Reminds me of Asimov. Fairly bland, dialogue-heavy story focused on ideas. Kinda charming, though.
-> EDIT: Also, I found the reference to [portias](http://www.dichotomistic.com/mind_readings_spider%20minds.html) in the blurb amusing. Those things are scarily intelligent for being arachnids.
 > 
+> EDIT: Also, I found the reference to [portias](http://www.dichotomistic.com/mind_readings_spider%20minds.html) in the blurb amusing. Those things are scarily intelligent for being arachnids.
 
-> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture* (11 hours later)
 > 
 > > "Revenge?" asked Peter, a slight note of shock in his voice. "On a _whale?_ No, I decided I'd just get on with my life."
-> 
 
->> **u/gwern** [+3] *
+>> **u/gwern** [+4]  (16 hours later)
 >> 
 >> (A reference to http://hpmor.com/chapter/64 's omake on _Moby Dick_.)
->> 
 
->>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+4]  *Godric Gryffindor* (3 days later)
 >>> 
 >>> (Devised by Eneasz.)
->>> 
 
-> **u/gabbalis** [+2] *
+> **u/gabbalis** [+2]  (17 hours later)
 > 
 > Wasn't there an early Spider man comic where peter tried to sell his adhesive, but he forgot that it was set to slowly dissolve, so he realized he had to slightly alter the formula before he could sell it...
-> Then just never really got around to it like an idiot?
 > 
+> Then just never really got around to it like an idiot?
 
->> **u/failed_novelty** [+2] *
+>> **u/failed_novelty** [+2]  (18 hours later)
 >> 
 >> Yes, because no one has any use for a crazy-strong, biodegradable, short-term adhesive which doesn't discolor materials and is both variably adhesive and very shapeable.
->> 
 
->>> **u/rp20** [+1] *
+>>> **u/rp20** [+1]  (a day later)
 >>> 
 >>> And be made on the cheap by a poor student.
->>> 
 
 ---
 

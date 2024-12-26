@@ -2,7 +2,7 @@
 
 * Author: u/ThisStoryNow *
 * URL: https://www.reddit.com/r/rational/comments/9aver8/dynastys_ghost_chapters_13_16_rebels_cant_go_home/
-* Score: 6
+* Score: 7
 
 * Created: 2018-08-28T03:09:39
 

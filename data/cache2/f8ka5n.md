@@ -22,118 +22,123 @@ Things Gu Master does really well:
 
 ### Comments:
 
-> **u/misanthropokemon** [+16] *
+> **u/misanthropokemon** [+16]  (10 hours later)
 > 
 > Here is a counter-recommendation for rationalist readers. 
-> The worldbuilding in Gu Daoist Master makes no sense and doesn't even try to. Just try to picture what the world looks like. The Gu world is divided into 5 regions that correspond to an ancient chinese cosmological concept, the central plains and the four cardinal directions. Even if the Gu world is supposed to be a flat plane and not a spheroid, what is east of Eastern Sea and west of Western Desert? Is it just an invisible wall, like in a Bethesda game? The world can't be spherical either since there is nothing to suggest contiguity between Eastern Sea and Western Desert. The author never goes into this and I suspect he doesn't really care either, even if it really matters to the coherence. 
-> Ever read Methods of Rationality? Gu Daoist Master would give the Potterverse a run for its money. All of a sudden the author will introduce something totally wacky and gamebreakingly OP, like an online auction house for immortals that clears transactions instantly, or dimensional pockets that accelerate time like a hyperbolic time chamber. Just thinking through the implications of any one of these fully (interest rates? arbitrage? bueller?) would shatter the worldbuilding to pieces. Combine them and its munchkin city. 
-> I really like Gu Daoist Master. It aspires to a literary, mythic quality that few others dare. I enjoy Fang Yuan's insane gambits and the rollercoaster battles of wits he is constantly in. Characters are all Level 1 or 2 Intelligent. And the author has no rose-tinted view of his own society. But I find it very hard to recommend to /r/rational
 > 
+> The worldbuilding in Gu Daoist Master makes no sense and doesn't even try to. Just try to picture what the world looks like. The Gu world is divided into 5 regions that correspond to an ancient chinese cosmological concept, the central plains and the four cardinal directions. Even if the Gu world is supposed to be a flat plane and not a spheroid, what is east of Eastern Sea and west of Western Desert? Is it just an invisible wall, like in a Bethesda game? The world can't be spherical either since there is nothing to suggest contiguity between Eastern Sea and Western Desert. The author never goes into this and I suspect he doesn't really care either, even if it really matters to the coherence. 
+> 
+> Ever read Methods of Rationality? Gu Daoist Master would give the Potterverse a run for its money. All of a sudden the author will introduce something totally wacky and gamebreakingly OP, like an online auction house for immortals that clears transactions instantly, or dimensional pockets that accelerate time like a hyperbolic time chamber. Just thinking through the implications of any one of these fully (interest rates? arbitrage? bueller?) would shatter the worldbuilding to pieces. Combine them and its munchkin city. 
+> 
+> I really like Gu Daoist Master. It aspires to a literary, mythic quality that few others dare. I enjoy Fang Yuan's insane gambits and the rollercoaster battles of wits he is constantly in. Characters are all Level 1 or 2 Intelligent. And the author has no rose-tinted view of his own society. But I find it very hard to recommend to /r/rational
 
->> **u/luminarium** [+8] *
+>> **u/luminarium** [+7]  (21 hours later)
 >> 
 >> > Even if the Gu world is supposed to be a flat plane and not a spheroid, what is east of Eastern Sea and west of Western Desert?
->> Writers are allowed to posit a setting as crazy as they want, it just makes it Not The Real World, it wouldn't make it irrational. The way it's shown, it's entirely self-consistent.
->> > online auction house for immortals that clears transactions instantly
->> We have that in the real world and it isn't worldbreakingly OP. RuneScape has the Grand Exchange and that isn't gamebreakingly OP either. There's not necessarily any arbitrage opportunities to exploit, nor is there any fixed income securities market in this story (which you'd need in order to work interest rates). I agree that Treasure Yellow Heaven just came out of nowhere and was then taken for granted, but to be fair, IIRC, it was introduced pretty much as soon as the MC was actually able to be a participant in it, and is then shown consistently thereafter.
 >> 
+>> Writers are allowed to posit a setting as crazy as they want, it just makes it Not The Real World, it wouldn't make it irrational. The way it's shown, it's entirely self-consistent.
+>> 
+>> > online auction house for immortals that clears transactions instantly
+>> 
+>> We have that in the real world and it isn't worldbreakingly OP. RuneScape has the Grand Exchange and that isn't gamebreakingly OP either. There's not necessarily any arbitrage opportunities to exploit, nor is there any fixed income securities market in this story (which you'd need in order to work interest rates). I agree that Treasure Yellow Heaven just came out of nowhere and was then taken for granted, but to be fair, IIRC, it was introduced pretty much as soon as the MC was actually able to be a participant in it, and is then shown consistently thereafter.
 
->>> **u/misanthropokemon** [+5] *
+>>> **u/misanthropokemon** [+5]  (22 hours later)
 >>> 
 >>> > The way it's shown, it's entirely self-consistent.
->>> I would accept this if he had actually *shown* something. But it's completely unclear if its a discworld on top of a giant turtle or not. Even pratchett had that answer right in the title and on the cover. 
->>> >We have that in the real world and it isn't worldbreakingly OP.
->>> I feel like this is an amazing statement that depends on what your baseline comparison is and whether its "MMORPG" or "pre-industrial agrarian economy"
 >>> 
+>>> I would accept this if he had actually *shown* something. But it's completely unclear if its a discworld on top of a giant turtle or not. Even pratchett had that answer right in the title and on the cover. 
+>>> 
+>>> >We have that in the real world and it isn't worldbreakingly OP.
+>>> 
+>>> I feel like this is an amazing statement that depends on what your baseline comparison is and whether its "MMORPG" or "pre-industrial agrarian economy"
 
->> **u/Flashbunny** [+3] *
+>> **u/Flashbunny** [+3]  (12 hours later)
 >> 
 >> I think I disagree, at least with your specific examples.
->> The shape of the world is admittedly not something that's explained, but I don't think it's inherently nonsensical. It doesn't contradict anything else in the setting, and I actually suspect it'll be a plot point eventually.
->> The "online auction house" takes a cut of all the sales, which shuts down most shenanigans. The "owner" is >!basically an AI that's immune to bribery, with one specific weakness that gets taken advantage of later in the story, which is that !<>!its utility function is basically to acquire pieces of Yellow Heaven, and if it's given a large piece (incredibly expensive) it will shut down the site while it absorbs it.!<
->> The time chamber shenanigans *are* munchkinned heavily where possible, but the >!regular heavenly tribulations!< and >!exact natural lifespans and extreme scarcity of Lifespan Gu!< logically almost entirely shuts down most possible munchkinry in a believable fashion.
 >> 
+>> The shape of the world is admittedly not something that's explained, but I don't think it's inherently nonsensical. It doesn't contradict anything else in the setting, and I actually suspect it'll be a plot point eventually.
+>> 
+>> The "online auction house" takes a cut of all the sales, which shuts down most shenanigans. The "owner" is >!basically an AI that's immune to bribery, with one specific weakness that gets taken advantage of later in the story, which is that !<>!its utility function is basically to acquire pieces of Yellow Heaven, and if it's given a large piece (incredibly expensive) it will shut down the site while it absorbs it.!<
+>> 
+>> The time chamber shenanigans *are* munchkinned heavily where possible, but the >!regular heavenly tribulations!< and >!exact natural lifespans and extreme scarcity of Lifespan Gu!< logically almost entirely shuts down most possible munchkinry in a believable fashion.
 
->>> **u/misanthropokemon** [+4] *
+>>> **u/misanthropokemon** [+5]  (13 hours later)
 >>> 
 >>> > The shape of the world is admittedly not something that's explained, but I don't think it's inherently nonsensical. It doesn't contradict anything else in the setting, and I actually suspect it'll be a plot point eventually.
->>> It completely is! So much attention is given to the difficulty of travel between regions, the nature of the magical boundaries and their layers, and hence the monopoly power of polities/entities that can facilitate cross-regional trade, the incredible scale of organizations that can accumulate treasures from the entire world, and the sheer OPness of Fang Yuan's teleport. 
->>> So I think it's worth asking a basic question about what the "edge of the world" looks like. 
->>> Even if this is a world without a pythagoras, surely this should have occurred to Fang Yuan, a reincarnator from Earth. 
->>> >The "online auction house" takes a cut of all the sales, which shuts down most shenanigans
->>> tbh even if it was a X00% markup on the market value the sheer nature of instantaneous transportation of goods from anywhere to anywhere with just a fee is frankly, insanely economy breaking. And let's not even go into how it is supposed to work because afaicr that was handwaved.
 >>> 
+>>> It completely is! So much attention is given to the difficulty of travel between regions, the nature of the magical boundaries and their layers, and hence the monopoly power of polities/entities that can facilitate cross-regional trade, the incredible scale of organizations that can accumulate treasures from the entire world, and the sheer OPness of Fang Yuan's teleport. 
+>>> 
+>>> So I think it's worth asking a basic question about what the "edge of the world" looks like. 
+>>> 
+>>> Even if this is a world without a pythagoras, surely this should have occurred to Fang Yuan, a reincarnator from Earth. 
+>>> 
+>>> >The "online auction house" takes a cut of all the sales, which shuts down most shenanigans
+>>> 
+>>> tbh even if it was a X00% markup on the market value the sheer nature of instantaneous transportation of goods from anywhere to anywhere with just a fee is frankly, insanely economy breaking. And let's not even go into how it is supposed to work because afaicr that was handwaved.
 
->>>> **u/Flashbunny** [+3] *
+>>>> **u/Flashbunny** [+3]  (23 hours later)
 >>>> 
 >>>> I suspect it's going to be handwaved as something he already knew the first time around, and it's not come up in the story because, well, he already knew about it and there's nothing relevant to do there. I'd like to know the answer myself, but not having it be revealed yet isn't really setting-breaking. Nor is it unbelievable for him not to have considered it in detail during his second life.
->>>> The online marketplace has a minimum fee of immortal essence IIRC, which means only Gu Immortals can afford to use it. A single bead is more money than almost any non-Immortal will ever see in their lifetimes.
 >>>> 
+>>>> The online marketplace has a minimum fee of immortal essence IIRC, which means only Gu Immortals can afford to use it. A single bead is more money than almost any non-Immortal will ever see in their lifetimes.
 
->> **u/minekasetsu** [+3] *
+>> **u/minekasetsu** [+3]  (16 days later)
 >> 
 >> Ironically your comment about it's world building being based on chinese cosmology willy-nilly is what makes me interested, since combined with the Gu magic system, it makes for unique and very aesthetical worldbuilding, which is part of why I love Lord of the Mysteries.
->> 
 
->> **u/touched-by-divinity** [+0] *
+>> **u/touched-by-divinity** [+0]  (4 years later)
 >> 
 >> Bro u cant read. U r shoving ur inability of suspension of disbelief as criticism what a joke. Ri is way better than whatever u find good literature.
->> 
 
-> **u/vallar57** [+11]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+10]  *Unseen University: Faculty of High-Energy Magic* (3 hours later)
 > 
 > Got turned off by that "evil protagonist" tag on novelupdates. Not my cup of tea, thank you very much.
-> For a xianxia novel with advantages you listed, I can suggest Forge of Destiny. Top 20 on Royal Road, and even that is inderrated imo.
 > 
+> For a xianxia novel with advantages you listed, I can suggest Forge of Destiny. Top 20 on Royal Road, and even that is inderrated imo.
 
->> **u/luminarium** [+5] *
+>> **u/luminarium** [+5]  (2 days later)
 >> 
 >> Read the first 5 chapters of Forge of Destiny and... very underwhelmed. Protagonist hasn't got a clue what's going on and the story shows them learning the basics but it feels slow. No conflict yet, nor anything that so much as hints at conflict, so it feels slow. Just characters being rude and tactless does not conflict make nor is it particularly interesting. Like, in the first 5 chapters of the most recent story I wrote, I already showcased the setting, explained the characteristics of the magic system including some rationalist exploits, introduced twice as many characters as this one, involved the protagonist in multiple stratagems, had the character go through multiple skirmishes and a major battle, and make some very difficult choices that clearly showcased the protagonist's ability, worldview and moral system.
->> Curious what you like about it from the later chapters, so can I better decide whether to keep reading it?
 >> 
+>> Curious what you like about it from the later chapters, so can I better decide whether to keep reading it?
 
->>> **u/123whyme** [+1] *
+>>> **u/123whyme** [+1]  (2 days later)
 >>> 
 >>> I would say it takes a while to get into. I dislike slow burning stories as well, it took me about 3 go's to get the ball rolling with forge of destiny. But it is a very well written and the slow pace is made up with incredibly interesting and well thought out world building.
->>> 
 
->>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (2 days later)
 >>> 
 >>> It's slow burning, yes. I don't mind slow burning stories at all.
->>> The story is originally a quest on sufficient velocity, still ongoing. The readers are learning together with the protagonist, they both have almost no contextual knowledge for cultivator society. Cue bumbling around in the early chapters. They learn.
->>> And did you catch the part where any open conflict is *banned* in the first month? Of course there isn't much of it. Things pick up after the ban expires.
->>> Things I like in the later chapters: *excellent* worldbuilding, the author put a lot of effort in creating a world fitting the genre yet unique, very good friendly relationships between characters (and interesting characters in general), good power level pacing (protag grows very fast, but not absurdly so, like many Chinese novels tend to do, firmly securing a fourth position in her age class... while developing support + crowd control build).
 >>> 
+>>> The story is originally a quest on sufficient velocity, still ongoing. The readers are learning together with the protagonist, they both have almost no contextual knowledge for cultivator society. Cue bumbling around in the early chapters. They learn.
+>>> 
+>>> And did you catch the part where any open conflict is *banned* in the first month? Of course there isn't much of it. Things pick up after the ban expires.
+>>> 
+>>> Things I like in the later chapters: *excellent* worldbuilding, the author put a lot of effort in creating a world fitting the genre yet unique, very good friendly relationships between characters (and interesting characters in general), good power level pacing (protag grows very fast, but not absurdly so, like many Chinese novels tend to do, firmly securing a fourth position in her age class... while developing support + crowd control build).
 
-> **u/rngoddesst** [+3] *
+> **u/rngoddesst** [+3]  (19 minutes later)
 > 
 > Can you post a link?
-> 
 
->> **u/Veedrac** [+5] *
+>> **u/Veedrac** [+5]  (42 minutes later)
 >> 
 >> https://www.webnovel.com/book/7996858406002505/Reverend-Insanity
->> 
 
->>> **u/rngoddesst** [+1] *
+>>> **u/rngoddesst** [+1]  (42 minutes later)
 >>> 
 >>> Thanks!
->>> 
 
-> **u/Bluetoothphobia** [+2] *
+> **u/Bluetoothphobia** [+2]  (2 hours later)
 > 
 > I am reading it raw and I have to say it is truly incredible. At the End of each big chapter it always feels like everything are losing control and our MC barely survives because he is ruthless and smart. It's a well written fantasy.
-> 
 
-> **u/edwardkmett** [+2] *
+> **u/edwardkmett** [+2]  (a day later)
 > 
 > Links: [WebNovel/Qidian](https://www.webnovel.com/book/7996858406002505/Reverend-Insanity) | [wuxiaworld.co (scraper)](https://www.wuxiaworld.co/Reverend-Insanity/)
-> 
 
-> **u/OnlyEvonix** [+1] *
+> **u/OnlyEvonix** [+1]  (13 days later)
 > 
 > There's 40 millennium of cultivation which is pretty good with good worldbuilding, intelligent characters, plotting etc.
-> 
 
 ---
 

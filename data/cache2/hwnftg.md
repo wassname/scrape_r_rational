@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/hwnftg/hf_pyrebound_fifteen_a_prophet_in_power/
-* Score: 25
+* Score: 26
 
 * Created: 2020-07-23T20:28:50
 

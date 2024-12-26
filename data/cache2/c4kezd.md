@@ -2,7 +2,7 @@
 
 * Author: u/SyntaqMadeva *
 * URL: http://moodylit.com/the-good-student-table-of-contents/book-2-chapter-twenty-nine
-* Score: 36
+* Score: 34
 
 * Created: 2019-06-24T08:54:37
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Kind_Implement** [+1] *
+> **u/Kind_Implement** [+1]  (2 days later)
 > 
 > Maybe it's just me but that chapter seemed to end really abruptly.
-> 
 
 ---
 

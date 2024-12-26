@@ -12,16 +12,18 @@ Recently found this subreddit, and already found 3 good things to read from it. 
 
 ### Comments:
 
-> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png* (24 minutes later)
 > 
 > There's a list on the subreddit's wiki: [Link](https://www.reddit.com/r/rational/wiki/index#wiki_defining_works)
-> 
 
-> **u/ZeroNihilist** [+6] *
+> **u/ZeroNihilist** [+6]  (10 hours later)
 > 
 > Responses in the order in which I thought of them within each category (don't take it as an order of preference or anything). Lots of fanfic in this list because it's what people tend to write. Assume they're rational unless stated otherwise.
+> 
 > Note that "rationalist" means "rational + demonstrates analytical techniques", so I note where that's applicable (if I remember; a lot of this is fuzzy due to sheer quantity).
+> 
 > Finished:
+> 
 > * [The Waves Arisen](https://wertifloke.wordpress.com/table-of-contents/), rationalist Naruto fanfiction
 > * [Harry Potter and the Methods of Rationality](http://hpmor.com/) (HPMoR), rationalist Harry Potter fanfiction, possibly the ur-example of the concept of rationalist fanfiction (probably wrong about that however)
 > * [Shadows of the Limelight](http://alexanderwales.com/shadows/), original story (it's true, I do read original stories) about a world where fame literally grants superpowers (by one of this subreddit's moderators, /u/alexanderwales)
@@ -38,7 +40,9 @@ Recently found this subreddit, and already found 3 good things to read from it. 
 > * [Friendship is Optimal](http://www.fimfiction.net/story/62074/friendship-is-optimal), My Little Pony fanfiction about an AI that is definitely not horrifying, no siree, just your average friendly AI over here 
 > * [Cenotaph](http://archiveofourown.org/works/1152749/chapters/2337442), Worm fanfiction with a small deviation from canon
 > * [Wake](http://archiveofourown.org/works/2417525/chapters/5347754), sequel to Cenotaph
+> 
 > Updating often:
+> 
 > * [Significant Digits](http://www.anarchyishyperbole.com/p/significant-digits.html), HPMoR metafic which is very different in character (it has a [summary of HPMoR](http://www.anarchyishyperbole.com/p/previously-on-harry-potter-and-methods.html) if you don't want to read it, but obviously heavily spoils the plot of that fic)
 > * [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species), rationalist Pokemon fanfiction
 > * [r Animorphs: The Reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning), Animorphs fanfiction by /u/TK17Studios
@@ -47,82 +51,79 @@ Recently found this subreddit, and already found 3 good things to read from it. 
 > * [Twig](https://twigserial.wordpress.com/2014/12/24/taking-root-1-1/), original story about emotionally savvy, enhanced children fighting biopunk monsters in a world where the British defeated the American colonies using biological superweapons (by Wildbow)
 > * [Lighting Up the Dark](https://www.fanfiction.net/s/9311012/1/Lighting-Up-the-Dark), Naruto fanfiction by /u/Velorien
 > * [Juncture](http://junctureserial.blogspot.com.au/2015/08/juncture-11.html), original story about all sorts of time travel tropes by /u/AHatfulOfBomb
+> 
 > Updating rarely, possibly abandoned:
+> 
 > * [Harry Potter and the Natural 20](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20), Harry Potter/Dungeons and Dragons crossover fanfiction (protagonist is an original character and a munchkin to his core)
 > * [Weaver 9](https://www.fanfiction.net/s/10898446/1/Weaver-Nine), a Worm metafiction which swaps the role of two important characters (casting a significant villain in the role as, er, "hero")
-> I can go into more detail about what separates the Naruto/Harry Potter fanfictions on request. They all have their charms but differ quite a lot in theme and characterisation.
-> I've also probably forgotten a whole bunch of things. Apologies also if I got authors wrong or missed somebody who's active on this subreddit (I don't remember usernames for everyone who is, sadly).
-> There's also a lot of great one-shots on the subreddit, some in the challenge threads that get posted every two weeks.
 > 
+> I can go into more detail about what separates the Naruto/Harry Potter fanfictions on request. They all have their charms but differ quite a lot in theme and characterisation.
+> 
+> I've also probably forgotten a whole bunch of things. Apologies also if I got authors wrong or missed somebody who's active on this subreddit (I don't remember usernames for everyone who is, sadly).
+> 
+> There's also a lot of great one-shots on the subreddit, some in the challenge threads that get posted every two weeks.
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+4]  (20 hours later)
 >> 
 >> > The Two Year Emperor, original story (kinda) about an ordinary, albeit clever man transported to a world that runs on Dungeons and Dragons rules as written by /u/eaglejarl[8] ; (this one is no longer available for free, there's a purchase link on Amazon here[9] if that sounds like your thing)
->> Funny you should mention that, because [it's back](https://www.reddit.com/r/rational/comments/3xe9fn/ffrt_the_two_year_emperor_is_back_and_free/)...
->> And thank you for posting the Amazon link.
 >> 
+>> Funny you should mention that, because [it's back](https://www.reddit.com/r/rational/comments/3xe9fn/ffrt_the_two_year_emperor_is_back_and_free/)...
+>> 
+>> And thank you for posting the Amazon link.
 
->> **u/Gaboncio** [+4] *
+>> **u/Gaboncio** [+3]  (2 days later)
 >> 
 >> Wait, why haven't I heard of The Waves Arisen before now?? This is so good, everything seems close to perfect. The characters feel slightly more unfamiliar than what I usually read, but nothing about it has disappointed me yet. I guess that's what I get for spending so much of my time on FFN
->> 
 
->> **u/CrystalShadow** [+2] *
+>> **u/CrystalShadow** [+2]  (15 days later)
 >> 
 >> [deleted]  
 >>  ^^^^^^^^^^^^^^^^0.8633 
 >>  > [What is this?](https://pastebin.com/64GuVi2F/61538)
->> 
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (2 days later)
 >> 
 >> (Selfplug):  If you already know dangan ronpa canon, [Light in Despair's Darkness](https://www.fanfiction.net/s/10630743/1/Light-in-Despair-s-Darkness) has been pretty well received by that fandom.
->> 
 
-> **u/logrusmage** [+5] *
+> **u/logrusmage** [+4]  (14 minutes later)
 > 
 > Someone made a site. No idea what it was called, but I remember it being pretty convenient. Hopefully someone knows what I'm talking about a posts a link.
-> 
 
->> **u/noggin-scratcher** [+9]  *I am a happy tree**
+>> **u/noggin-scratcher** [+9]  *I am a happy tree* (50 minutes later)
 >> 
 >> [Rational Reads](http://rationalreads.com/) ?
->> 
 
->>> **u/logrusmage** [+1] *
+>>> **u/logrusmage** [+1]  (an hour later)
 >>> 
 >>> That'd be it.
->>> 
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (15 hours later)
 > 
 > I've written a few stories for the challenge threads. All short stories, can be found [here:] (https://kishoto.wordpress.com/)
-> I only use that blog for posting for the contest, so it's pure content (not the best formatting though, the search bar is your friend!) I'm not a very experienced author, but you're free to take a look and decide if you like my style, although it's not very rationalist in some cases.
-> Particularly, I think my favorite ones up there are Clark, Requests and Cryonics with Claptrap.
 > 
+> I only use that blog for posting for the contest, so it's pure content (not the best formatting though, the search bar is your friend!) I'm not a very experienced author, but you're free to take a look and decide if you like my style, although it's not very rationalist in some cases.
+> 
+> Particularly, I think my favorite ones up there are Clark, Requests and Cryonics with Claptrap.
 
-> **u/Krozart** [+1] *
+> **u/Krozart** [+1]  (24 minutes later)
 > 
 > https://www.reddit.com/r/rational/wiki/index Check out near the bottom there is a bunch of links to recommended stories and sites as well.
-> 
 
->> **u/CrystalShadow** [+1] *
+>> **u/CrystalShadow** [+1]  (34 minutes later)
 >> 
 >> [deleted]  
 >>  ^^^^^^^^^^^^^^^^0.7698 
 >>  > [What is this?](https://pastebin.com/64GuVi2F/88422)
->> 
 
->>> **u/DocFuture** [+2] *
+>>> **u/DocFuture** [+2]  (4 hours later)
 >>> 
 >>> I can't speak for others, but The Maker's Ark is the third novel in the series that starts with The Fall of Doc Future. I include a short bit with links to the start and my other work at the beginning of each chapter.  The prologue of Fall has a brief preface on what it's all about.
->>> 
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (2 hours later)
 > 
 > https://www.reddit.com/r/HPMOR/comments/2tnirm/what_are_your_favorite_booksother_than_hpmor/
-> Similar thread
 > 
+> Similar thread
 
 ---
 

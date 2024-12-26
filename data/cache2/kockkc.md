@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/kockkc/d_friday_open_thread/
-* Score: 18
+* Score: 19
 
 * Created: 2021-01-01T15:00:11
 
@@ -16,557 +16,587 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/GlueBoy** [+16]  *anti-skub**
+> **u/GlueBoy** [+15]  *anti-skub* (2 hours later)
 > 
 > How fucking weird is the movie Hancock? The guy carves a logo on the face of the moon visible from the earth, basically defaces it for all eternity ... And it's some kind of happy ending? Wtf?
-> 
 
->> **u/DrMaridelMolotov** [+9] *
+>> **u/DrMaridelMolotov** [+10]  (5 hours later)
 >> 
 >> It's because it's literally two movies in one. Originally it was supposed to end really dark but studios didn't like that. Hence why the first half is really interesting. But yeah carving a stupid logo on the moon is such a trash ending.
->> 
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> What was the original ending?
->>> 
 
->>>> **u/DrMaridelMolotov** [+8] *
+>>>> **u/DrMaridelMolotov** [+8]  (a day later)
 >>>> 
 >>>> It’s crazy actually. It’s like if someone took Metropolitan Man to the extreme. https://screenrant.com/hancock-will-smith-reshoots-darker-ending/amp/
+>>>> 
 >>>> SPOILERS:
 >>>> Originally it was called “Tonight, He Comes” and it was a much darker ending.
 >>>> “Well, Tonight, He Comes did not follow the story of a depressed superhero finding his long-lost mate through the intervention of a friendly publicist. In the original draft, like the finished film, Hancock does end up living with a suburban family, but in this version, the father of the family is a security guard instead of working in PR, his wife doesn’t know Hancock, and their son plays a far larger role in proceedings. In the first draft script, Hancock also suffers severe PTSD and this is implied to be the cause of his violent outbursts.
 >>>> In this original draft, the movie opens on the film’s narrator discussing the experience of witnessing something traumatic. Throughout the film, the audience assumes this narrator is Will Smith's Hancock and the trauma he’s talking about is the decades of tragedies he has seen. The film makes it clear that these tragedies have taken a severe psychological toll on the superpowered being, resulting in attempts to better himself before he loses his mind. These attempts are unsuccessful, as the film’s climax sees him turn to violence after failing to stop another tragedy. Near the end of the movie, a collapsing building kills the family’s loving mother Mary after she is kidnapped. Enraged and driven insane, Hancock himself proceeds to slaughter an entire police department in frustration.
 >>>> But after this incredibly violent sequence, the film’s bombshell twist - which ranks up there with Fight Club's twist for impact - reveals that the narrator isn’t Hancock himself at all. Instead, the viewer discovers that Hancock transferred his powers to the family’s young son Aaron and sent him back in time to save his mother. The traumatic incident that the narrator, Aaron, was talking about witnessing was walking in on his parents having sex, and his heart-breaking madness comes from trying and failing to save his mother’s life. He has been through this before and will go through it all over again, as the now-superpowered Aaron is trapped in a never-ending loop and is unable to save his mother from her inevitable fate. It’s this frustration and hopelessness that drives his tragic downfall and makes the outburst of homicidal madness inevitable.”
 >>>> Basically Hancock and the son were the same person trapped in a time loop that causes to go him mad. Or better yet Hancock sent the son back in time and he caused the building to collapse and his mother to die leaving him in an endless time loop. At least that’s what I think is going on. I’m not sure.
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+6]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+6]  *Dai-Gurren Brigade* (a day later)
 >>>>> 
 >>>>> Holy fucking shit. Yeah, that would have... never cut it as a Hollywood movie. More as a Black Mirror episode I guess.
->>>>> 
 
->>>>>> **u/DrMaridelMolotov** [+3] *
+>>>>>> **u/DrMaridelMolotov** [+3]  (a day later)
 >>>>>> 
 >>>>>> Yeah the initial scripts writers submit to get into writing movies are supposed to be their seminal work and are expected to never actually become full movies. Studios usually buy scripts and sit on them. This one was one of the few that escaped development hell only for the studio to change the ending at the last minute. Oh well.
->>>>>> 
 
->> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> Not even the weirdest thing Will Smith has ever done. I still think of Seven Pounds as one of the most morally depraved movies I've ever seen, it's insane that script got greenlit.
->> 
 
->>> **u/gramineous** [+1] *
+>>> **u/gramineous** [+1]  (2 days later)
 >>> 
 >>> It's a movie preaching extreme self-sacrifice made in a country where extreme selfishness is disproportionately present (something something please wear a mask). Whether out of genuine belief, desire to create controversy for free advertising, or just to be contrarian, it doesn't seen deserving of that level of disdain. 
->>> idk I wouldn't use the term 'depravity' here with all its supreme negative connotations. Maybe 'morally pig-headed' or even some variant of stupid, there's better ways to do good than suicidal organ donation after all, but eh.
 >>> 
+>>> idk I wouldn't use the term 'depravity' here with all its supreme negative connotations. Maybe 'morally pig-headed' or even some variant of stupid, there's better ways to do good than suicidal organ donation after all, but eh.
 
->>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>>> 
 >>>> But that’s the thing, it’s actually supreme selfishness in the guise of selflessness. Not once the protagonist worries about other people’s feelings or opinions. He arbitrarily decides to play God and judge “the worthy”; he breaks bioethical and privacy laws that exist for a reason; and by getting close to the woman he’s decided will have his heart, he inflicts her needless trauma and suffering when he then “dies for her”... when at that point she wanted to live in order to be *with him*. He’s like a vigilante. He’s actually a selfish, disturbed, suicidal narcissist; but somehow we’re supposed to consider this a good thing.
->>>> 
 
->>>>> **u/gramineous** [+1] *
+>>>>> **u/gramineous** [+1]  (2 days later)
 >>>>> 
 >>>>> If its playing God to die for a (dumb) cause or belief than what do you count actual life or death decisions made over someone else as (be they violent, in defense, or as part of justice being carried out)? Like you're equating the deep end of bodily autonomy, having control over your own death, with playing God here.
->>>>> And I really disagree with demonising it as a type of vigilantism. If you're using that word for making a decision about someone else's wellbeing then does voting or not voting count? Does a medical practitioner's work count? Does doing charity work count? If you're only counting things with negative impact, then what about the decisions people make to not do those things at all? If a decision you made had a life or death impact that you didn't forsee as possible, did you play God? 
->>>>> Like at the end of the day, beyond this movie, if you can make a value judgement about how good or bad the world is, you can decide if the removal of any one person (or yourself) would be an improvement. Whether your threshold is trying to work out whether someone is just a net positive or negative overall, or your threshold being the Hitlers of the world and their kin, or what have you. If you consider good or bad, if you consider the implications of your actions, the reason for shying away from taking a single course as 'it would be playing God' is a cover for (reasonable) concerns about your own ability, biases and knowledge rather than some inherent virtue or value of making decisions.
->>>>> (It's hard for me to express that all, given I'm on mobile and fairly sleep deprived right now. But tl:dr; the thing I hate the most is fear of the choice itself rather than fear of the consequences. One of the times I've felt the most disgust in someone is a discussion in an ethics course about the trolley problem where a small group refused to give an answer and said they'd miraculously save everyone somehow. If you can't even consider theoretical and abstract life or death choices, how small is your mind?)
 >>>>> 
+>>>>> And I really disagree with demonising it as a type of vigilantism. If you're using that word for making a decision about someone else's wellbeing then does voting or not voting count? Does a medical practitioner's work count? Does doing charity work count? If you're only counting things with negative impact, then what about the decisions people make to not do those things at all? If a decision you made had a life or death impact that you didn't forsee as possible, did you play God? 
+>>>>> 
+>>>>> Like at the end of the day, beyond this movie, if you can make a value judgement about how good or bad the world is, you can decide if the removal of any one person (or yourself) would be an improvement. Whether your threshold is trying to work out whether someone is just a net positive or negative overall, or your threshold being the Hitlers of the world and their kin, or what have you. If you consider good or bad, if you consider the implications of your actions, the reason for shying away from taking a single course as 'it would be playing God' is a cover for (reasonable) concerns about your own ability, biases and knowledge rather than some inherent virtue or value of making decisions.
+>>>>> 
+>>>>> (It's hard for me to express that all, given I'm on mobile and fairly sleep deprived right now. But tl:dr; the thing I hate the most is fear of the choice itself rather than fear of the consequences. One of the times I've felt the most disgust in someone is a discussion in an ethics course about the trolley problem where a small group refused to give an answer and said they'd miraculously save everyone somehow. If you can't even consider theoretical and abstract life or death choices, how small is your mind?)
 
->>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (2 days later)
 >>>>>> 
 >>>>>> You're jumping a few steps here. Let's review his actions. Tim (that's his name, apparently) kills seven people in an accident caused by his own carelessness. He now feels the weight of those lives, and his guilt for them. That's all fine and good, it makes sense, any human with a conscience ought to. He decides he needs to atone for them by doing good. No, wait, he doesn't *exactly* decide that. He could do that in a very simple way: keep living and dedicate his efforts from then on to the selfless betterment of humanity. Depending on what he does, he could save tens, hundreds of lives. 
->>>>>> But he doesn't do that.
->>>>>> He wants to die, he's suicidal. Fine. I can understand that. He doesn't seek therapy and maybe it wouldn't help. His atonement will be that he will turn his body into a way to make others survive. He finds out a way to die that will make his organs easily harvestable (let's not even get into the utter stupidity of the jellyfish thing, and just assume he finds an *actual realistic* way to do that). He could then just sign himself as an organ donor, off himself and have his body be found. They will be used to help as many people as they can. Maybe eight, or ten. According to the usual criteria that are used to distribute organs. For, you know, everyone else, whom Tim has no reason to consider himself morally superior to. In fact, he's a murderer, even if only by negligence. He's supposed to be all self-loathing and shit. He's by most metrics likely to be a *worse* judge of morality than the average bioethicist.
->>>>>> But he doesn't do that either. No, that is not enough to satisfy Tim's oh-so-deep need for redemption.
->>>>>> No, Tim needs more. Tim needs an elaborate, twisted scheme that allows his organs to go to the ritualistic number of seven people, because of course that's how doing good works, you offset exactly how much evil you did and not one bit more. Balanced, as all things should be. And these seven people shouldn't be just random people, no, they should be worthy, they should be the Chosen Ones. And who's the arbiter of that choice? Why, Tim, of course. Tim the murderer, Tim the self-loathing narcissistic psycho who somehow has now turned into the one human who understands morality better than anyone else. He hurls abuse at a blind man over the phone to "test him", as if that man getting angry wouldn't have been entirely appropriate and would have made him bad. How are these fair evaluations of a person's moral character? How can you even decide who deserves to live or die based on this? Why *should* you decide? 
->>>>>> > if you can make a value judgement about how good or bad the world is, you can decide if the removal of any one person (or yourself) would be an improvement. Whether your threshold is trying to work out whether someone is just a net positive or negative overall, or your threshold being the Hitlers of the world and their kin, or what have you
->>>>>> If everyone simply drew a line and said "everyone below this line needs to die because the world would be better off without them", the world would be a constant shootout with people trying to kill each other for the Greater Good. Because everyone's line would be different. That's how fanatics think. In reality, most people who want to be moral without being absolutist about a no killing rule - but are also sensible enough to see their own limits - have two far spaced lines. I can be reasonably sure that if someone killed, say, everyone keeping together Boko Haram, the world would be overall better for it. And I can be reasonably sure that if someone killed Gino Strada (war doctor who helps refugees etc., first name that came to my mind), the world would be overall worse. But in between there's a big, big bunch of people who qualify for "does not compute". The world is a complex system and you can't split everything so clearly in good and bad, or foresee all consequences of an action. You do good to someone, you do bad to someone else. And it takes a whole lot of good to offset and justify the act of killing itself (which isn't just the taking of a life; killing can lower the bar for *more* killing, and depending on the context, it can set off a chain reaction which then leads to much greater loss of life). 
->>>>>> So, conversely, who's Tim to decide who deserves to live more? No one. His choices will still be little more than random. Maybe the guy he thought was an asshole was just having a bad day, and the guy he thought was a saint is actually a clever psychopath who projects a very well studied image. Tim can't know, because Tim isn't a psychologist, isn't an ethicist, isn't even an especially moral person, Tim is a disturbed megalomaniac who committed manslaughter and is now having a very elaborated narcissistic episode, and lacks the self reflection and awareness to realise that. Seven Pounds is a horror movie.
 >>>>>> 
+>>>>>> But he doesn't do that.
+>>>>>> 
+>>>>>> He wants to die, he's suicidal. Fine. I can understand that. He doesn't seek therapy and maybe it wouldn't help. His atonement will be that he will turn his body into a way to make others survive. He finds out a way to die that will make his organs easily harvestable (let's not even get into the utter stupidity of the jellyfish thing, and just assume he finds an *actual realistic* way to do that). He could then just sign himself as an organ donor, off himself and have his body be found. They will be used to help as many people as they can. Maybe eight, or ten. According to the usual criteria that are used to distribute organs. For, you know, everyone else, whom Tim has no reason to consider himself morally superior to. In fact, he's a murderer, even if only by negligence. He's supposed to be all self-loathing and shit. He's by most metrics likely to be a *worse* judge of morality than the average bioethicist.
+>>>>>> 
+>>>>>> But he doesn't do that either. No, that is not enough to satisfy Tim's oh-so-deep need for redemption.
+>>>>>> 
+>>>>>> No, Tim needs more. Tim needs an elaborate, twisted scheme that allows his organs to go to the ritualistic number of seven people, because of course that's how doing good works, you offset exactly how much evil you did and not one bit more. Balanced, as all things should be. And these seven people shouldn't be just random people, no, they should be worthy, they should be the Chosen Ones. And who's the arbiter of that choice? Why, Tim, of course. Tim the murderer, Tim the self-loathing narcissistic psycho who somehow has now turned into the one human who understands morality better than anyone else. He hurls abuse at a blind man over the phone to "test him", as if that man getting angry wouldn't have been entirely appropriate and would have made him bad. How are these fair evaluations of a person's moral character? How can you even decide who deserves to live or die based on this? Why *should* you decide? 
+>>>>>> 
+>>>>>> > if you can make a value judgement about how good or bad the world is, you can decide if the removal of any one person (or yourself) would be an improvement. Whether your threshold is trying to work out whether someone is just a net positive or negative overall, or your threshold being the Hitlers of the world and their kin, or what have you
+>>>>>> 
+>>>>>> If everyone simply drew a line and said "everyone below this line needs to die because the world would be better off without them", the world would be a constant shootout with people trying to kill each other for the Greater Good. Because everyone's line would be different. That's how fanatics think. In reality, most people who want to be moral without being absolutist about a no killing rule - but are also sensible enough to see their own limits - have two far spaced lines. I can be reasonably sure that if someone killed, say, everyone keeping together Boko Haram, the world would be overall better for it. And I can be reasonably sure that if someone killed Gino Strada (war doctor who helps refugees etc., first name that came to my mind), the world would be overall worse. But in between there's a big, big bunch of people who qualify for "does not compute". The world is a complex system and you can't split everything so clearly in good and bad, or foresee all consequences of an action. You do good to someone, you do bad to someone else. And it takes a whole lot of good to offset and justify the act of killing itself (which isn't just the taking of a life; killing can lower the bar for *more* killing, and depending on the context, it can set off a chain reaction which then leads to much greater loss of life). 
+>>>>>> 
+>>>>>> So, conversely, who's Tim to decide who deserves to live more? No one. His choices will still be little more than random. Maybe the guy he thought was an asshole was just having a bad day, and the guy he thought was a saint is actually a clever psychopath who projects a very well studied image. Tim can't know, because Tim isn't a psychologist, isn't an ethicist, isn't even an especially moral person, Tim is a disturbed megalomaniac who committed manslaughter and is now having a very elaborated narcissistic episode, and lacks the self reflection and awareness to realise that. Seven Pounds is a horror movie.
 
->>>>>>> **u/gramineous** [+2] *
+>>>>>>> **u/gramineous** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> (should probably clarify I agree with your points about killing and chain reactions and lowering the bar and all)
->>>>>>> I think the difference of opinion here on my side kinda comes down to that the decisions don't seem anything particularly special? Like jury formation, selection, power, etc. is an example of people having much more power than their knowledge justifies. As is the case for large swathes of politicians and law enforcement. 
->>>>>>> I don't see Seven Pounds as a horror movie because I'm inured to a story that's a microcosm of larger issues. A big chunk of my stance comes from a life filled with bullshit though, so I guess this is playing a big part in the difference of opinions.
->>>>>>> (also I kinda disagree with calling it a horror movie when the main character's actions seem arguably net positive to me, especially compared to if he decided to handle his depression and suicidal tendencies with any number of 'immediate solutions' instead)
->>>>>>> (also also self-sacrifice being presented as a virtue ain't out of left field given the broad strokes of a bunch of religions in America. Dude deciding on that path seems less like extreme narcissism if that's taken into consideration)
 >>>>>>> 
+>>>>>>> I think the difference of opinion here on my side kinda comes down to that the decisions don't seem anything particularly special? Like jury formation, selection, power, etc. is an example of people having much more power than their knowledge justifies. As is the case for large swathes of politicians and law enforcement. 
+>>>>>>> 
+>>>>>>> I don't see Seven Pounds as a horror movie because I'm inured to a story that's a microcosm of larger issues. A big chunk of my stance comes from a life filled with bullshit though, so I guess this is playing a big part in the difference of opinions.
+>>>>>>> 
+>>>>>>> (also I kinda disagree with calling it a horror movie when the main character's actions seem arguably net positive to me, especially compared to if he decided to handle his depression and suicidal tendencies with any number of 'immediate solutions' instead)
+>>>>>>> 
+>>>>>>> (also also self-sacrifice being presented as a virtue ain't out of left field given the broad strokes of a bunch of religions in America. Dude deciding on that path seems less like extreme narcissism if that's taken into consideration)
 
->>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>>>>>>> 
 >>>>>>>> > Like jury formation, selection, power, etc. is an example of people having much more power than their knowledge justifies. 
->>>>>>>> We can argue about the ethics of those things (juries seem dumb to me), but one wrong thing doesn't make another one right. When it comes to organ donations, we have in place systems to keep donors and receivers anonymous and unknown to each other, and to decide priorities based on simple need and life expectancy, not perceived moral worth. I think that is a lot fairer than what Tim does. Breaking laws to go beyond it is Tim saying "no, I know better than literally the rest of society, I will donate my organs but only on *my* terms". Why did he have to pick seven especially good people anyway? He doesn't know what the people he killed were like. Maybe some were assholes too.
->>>>>>>> > I don't see Seven Pounds as a horror movie because I'm inured to a story that's a microcosm of larger issues. A big chunk of my stance comes from a life filled with bullshit though, so I guess this is playing a big part in the difference of opinions.
->>>>>>>> Something that I haven't even gotten into however is Tim's biggest, worst action. His behaviour towards Emily. In order to evaluate her, he gets close to her. He *knows* what he wants to do. But he doesn't restrain himself. He gets close, and they fall in love, and she now loves him and dreams of a life with him. And at the height of it... he goes and kills himself, and has her receive his heart, and now she has to live both with the pain of having lost the one she loved and the knowledge he lied to her, and manipulated her, and did it all purportedly *for her own good*, all without giving her any agency or say in the matter. She could have said "no, I want to live with you, so don't leave me, I'll hope that another heart arrives and if it doesn't then I want you to be there for me when I die". He doesn't ask. He's too self-absorbed in deciding what is good for others, he doesn't take into account their opinion. What he does is like... textbook narcissistic abuse on a grandiose scale. The fact that he dies for it doesn't really excuse him. He *wanted* to die. It always was about him getting what he wanted. He just coated his suicide in the guise of a selfless act for the sake of making himself feel good. Yes, some good comes out of it, but a lot more good and a lot less suffering could have come out of it if he wasn't so hell bent on making it all some sort of twisted human sacrifice ritual.
 >>>>>>>> 
+>>>>>>>> We can argue about the ethics of those things (juries seem dumb to me), but one wrong thing doesn't make another one right. When it comes to organ donations, we have in place systems to keep donors and receivers anonymous and unknown to each other, and to decide priorities based on simple need and life expectancy, not perceived moral worth. I think that is a lot fairer than what Tim does. Breaking laws to go beyond it is Tim saying "no, I know better than literally the rest of society, I will donate my organs but only on *my* terms". Why did he have to pick seven especially good people anyway? He doesn't know what the people he killed were like. Maybe some were assholes too.
+>>>>>>>> 
+>>>>>>>> > I don't see Seven Pounds as a horror movie because I'm inured to a story that's a microcosm of larger issues. A big chunk of my stance comes from a life filled with bullshit though, so I guess this is playing a big part in the difference of opinions.
+>>>>>>>> 
+>>>>>>>> Something that I haven't even gotten into however is Tim's biggest, worst action. His behaviour towards Emily. In order to evaluate her, he gets close to her. He *knows* what he wants to do. But he doesn't restrain himself. He gets close, and they fall in love, and she now loves him and dreams of a life with him. And at the height of it... he goes and kills himself, and has her receive his heart, and now she has to live both with the pain of having lost the one she loved and the knowledge he lied to her, and manipulated her, and did it all purportedly *for her own good*, all without giving her any agency or say in the matter. She could have said "no, I want to live with you, so don't leave me, I'll hope that another heart arrives and if it doesn't then I want you to be there for me when I die". He doesn't ask. He's too self-absorbed in deciding what is good for others, he doesn't take into account their opinion. What he does is like... textbook narcissistic abuse on a grandiose scale. The fact that he dies for it doesn't really excuse him. He *wanted* to die. It always was about him getting what he wanted. He just coated his suicide in the guise of a selfless act for the sake of making himself feel good. Yes, some good comes out of it, but a lot more good and a lot less suffering could have come out of it if he wasn't so hell bent on making it all some sort of twisted human sacrifice ritual.
 
-> **u/None** [+13] *
+> **u/None** [+15]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/over_who** [+10]  *Aleph you are going to die**
+>> **u/over_who** [+10]  *Aleph you are going to die* (an hour later)
 >> 
 >> What looks uncanny about it, at least to me, is how balanced they are. Being that balanced while dancing solo jazz is a skill that take a lot of practice to learn, and is often eschewed in favor of styling. Seeing a dance with near perfect balance, where the limited flair is also balanced in is mildly unsettling. The choreography is fun though.
->> 
 
->>> **u/--MCMC--** [+9] *
+>>> **u/--MCMC--** [+10]  (4 hours later)
 >>> 
 >>> To me I think it's the lack of "momentum" -- the robots' movements have very high jerk, and coupled with their high precision, deviate quite a bit from human dancers' more swoopy, swaying, smoothly accelerating movements.
->>> 
 
->>>> **u/RetardedWabbit** [+5] *
+>>>> **u/RetardedWabbit** [+6]  (10 hours later)
 >>>> 
 >>>> Both of these explainations are good: unnatural balance and jerky/precise movements. Humans naturally move their center of balance around much more and usually value smooth movement, but they're never perfect. I think the balance is the most unerving, they don't move through unbalanced phases like we do all the time.
->>>> I couldn't stop thinking about the poor souls who had to put in a huge amount of work to make a robot dance video. I doubt that was in their job description.
 >>>> 
+>>>> I couldn't stop thinking about the poor souls who had to put in a huge amount of work to make a robot dance video. I doubt that was in their job description.
 
->>> **u/Pirellan** [+4] *
+>>> **u/Pirellan** [+5]  (7 hours later)
 >>> 
 >>> The "dog" bot messes with ne the most.  It looks so thin and compact to be that large and move like it does.
->>> 
 
-> **u/--MCMC--** [+11] *
+> **u/--MCMC--** [+11]  (3 hours later)
 > 
 > Just watched the show "Queen's Gambit" these last couple weeks, which I quite enjoyed! All about a young woman struggling to rise to the top of the competitive chess world while struggling with interpersonal relationships and substance abuse problems. Especially liked the (rare, for Western media) positive portrayal of Russian people and culture -- the Americans were all alcoholics in this one, for a change! lol
-
-> ~***Minor Spoilers Below***~
-> One thing that struck me, though, that doesn't seem to be a very popular topic of discussion on the /r/queensgambit subreddit, is how devoting one's life and talents to playing children's ~~card~~ board games is always seen as a worthwhile way to spend one's time, relative to, say, working in pure maths or physics research, or some other "productive intellectual pursuit". Beth Harmon in the first episode is shown to effortlessly excel in school, especially in more theoretical subjects (i.e. math), and takes to chess initially after trivially acing some academic test in demonstrable mismatch between her abilities and those of her peers. Her failure to become the next Turing or Euler or whoever is not shown as a tragedy -- indeed, it's never remarked upon at all. Except maybe in how her mother's mental illness led her to attempt murder-suicide, instead of capitalizing upon whatever talents enabled her to achieve a Math PhD from Cornell, and also when Beth is shown to ask another chess player what his intentions are after becoming King of Games.
-> Anyone feel the same? (I remember participating in a similar discussion on this subject 5-10 years ago here -- iirc, it was in reference to the Paul Murphy quote "The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life." Curious if sentiment's changed since). Is playing chess not actually a squandering of one's talents, in the same way that, say, playing Starcraft is? (obviously a life you enjoy is a life well-lived blah blah blah you know what I mean). At least when Lex Luthor [plays exhibition matches](https://i.imgur.com/Mg4w7uA.jpeg) he only does so in between other useful things, like plotting world domination or something. And would chess prodigies even make math or science prodigies, otherwise? It sounds like ["cognitive ability" underpins](https://www.sciencedirect.com/science/article/abs/pii/S0160289616301593) both, but is the relationship tightly coupled enough that any given individual would find themselves in both tails with sufficiently high probability? Am I too far up my own asshole? What do y'all think?
 > 
+> ~***Minor Spoilers Below***~
+> 
+> One thing that struck me, though, that doesn't seem to be a very popular topic of discussion on the /r/queensgambit subreddit, is how devoting one's life and talents to playing children's ~~card~~ board games is always seen as a worthwhile way to spend one's time, relative to, say, working in pure maths or physics research, or some other "productive intellectual pursuit". Beth Harmon in the first episode is shown to effortlessly excel in school, especially in more theoretical subjects (i.e. math), and takes to chess initially after trivially acing some academic test in demonstrable mismatch between her abilities and those of her peers. Her failure to become the next Turing or Euler or whoever is not shown as a tragedy -- indeed, it's never remarked upon at all. Except maybe in how her mother's mental illness led her to attempt murder-suicide, instead of capitalizing upon whatever talents enabled her to achieve a Math PhD from Cornell, and also when Beth is shown to ask another chess player what his intentions are after becoming King of Games.
+> 
+> Anyone feel the same? (I remember participating in a similar discussion on this subject 5-10 years ago here -- iirc, it was in reference to the Paul Murphy quote "The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life." Curious if sentiment's changed since). Is playing chess not actually a squandering of one's talents, in the same way that, say, playing Starcraft is? (obviously a life you enjoy is a life well-lived blah blah blah you know what I mean). At least when Lex Luthor [plays exhibition matches](https://i.imgur.com/Mg4w7uA.jpeg) he only does so in between other useful things, like plotting world domination or something. And would chess prodigies even make math or science prodigies, otherwise? It sounds like ["cognitive ability" underpins](https://www.sciencedirect.com/science/article/abs/pii/S0160289616301593) both, but is the relationship tightly coupled enough that any given individual would find themselves in both tails with sufficiently high probability? Am I too far up my own asshole? What do y'all think?
 
->> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>> **u/alexanderwales** [+9]  *Time flies like an arrow* (4 hours later)
 >> 
 >> I think in *Queen's Gambit*, and in other works, a lot of what underpins the narrative is the joy of playing the game, and the emergent beauty that it sometimes has. *Queen's Gambit* doesn't go very far into actual chess, seeing as actually explaining tactics to a layman is quite hard, especially without having enough room to breathe, but I think you do get the sense of it as that to the people involved. There's joy in clean, precise lines of play, or brilliant insights, and the fact that it's ultimately meaningless expect as a matter of competition is kind of immaterial.
->> Pure mathematics has some of that too, but it's harder to show on the screen, and perhaps less easy to identify with. Playing games is easy to identify with, because it's something that almost everyone has done, and some of the "deeper" feelings are accessible even to novices. I'm not good at chess (rated like 900), but I still get that nice feeling of accomplishment when something falls into place.
->> And yes, I would agree that this is in some sense "wasteful". Especially with chess, all you leave behind are games that you played, recorded for posterity, and it's not quite like a different pursuit where people can build off of it, or take their own joy in consuming and integrating what you've made. (This isn't *quite* true, because high-level chess players learn a lot from old games, and chess theory develops, and there *is* joy to be had from replaying and analyzing exceptional games, but IMO this pales in comparison to the utility of something like an old painting or an old book.)
->> I guess I would caution against going too far into utilitarian calculation that doesn't take into account the utilitarian benefits of play, and of the happiness that can be had from watching and enjoying high-level experts at fields that are specifically selected for being stimulating in particular ways that *aren't* necessarily "helpful" to anyone in a more concrete way. It's just harder to evaluate the utility.
 >> 
+>> Pure mathematics has some of that too, but it's harder to show on the screen, and perhaps less easy to identify with. Playing games is easy to identify with, because it's something that almost everyone has done, and some of the "deeper" feelings are accessible even to novices. I'm not good at chess (rated like 900), but I still get that nice feeling of accomplishment when something falls into place.
+>> 
+>> And yes, I would agree that this is in some sense "wasteful". Especially with chess, all you leave behind are games that you played, recorded for posterity, and it's not quite like a different pursuit where people can build off of it, or take their own joy in consuming and integrating what you've made. (This isn't *quite* true, because high-level chess players learn a lot from old games, and chess theory develops, and there *is* joy to be had from replaying and analyzing exceptional games, but IMO this pales in comparison to the utility of something like an old painting or an old book.)
+>> 
+>> I guess I would caution against going too far into utilitarian calculation that doesn't take into account the utilitarian benefits of play, and of the happiness that can be had from watching and enjoying high-level experts at fields that are specifically selected for being stimulating in particular ways that *aren't* necessarily "helpful" to anyone in a more concrete way. It's just harder to evaluate the utility.
 
->>> **u/ansible** [+3]  *The Culture**
+>>> **u/ansible** [+4]  *The Culture* (5 hours later)
 >>> 
 >>> > ... but I still get that nice feeling of accomplishment when something falls into place.
->>> I do this with video games. I've put in a whole bunch of hours into Divinity: Original Sin 1 and 2, and have yet to complete either even once.  I enjoy tinkering around with party composition, figuring out which spells and skills work in what combinations.
->>> I spend a lot of time optimizing things, probably too much.
 >>> 
+>>> I do this with video games. I've put in a whole bunch of hours into Divinity: Original Sin 1 and 2, and have yet to complete either even once.  I enjoy tinkering around with party composition, figuring out which spells and skills work in what combinations.
+>>> 
+>>> I spend a lot of time optimizing things, probably too much.
 
->>>> **u/gramineous** [+1] *
+>>>> **u/gramineous** [+1]  (a day later)
 >>>> 
 >>>> You might hate me for telling you of this, but I play Path of Exile to scratch that same itch. Started playing about 9 years ago now, I go back every few months.
->>>> 
 
->>>>> **u/ansible** [+2]  *The Culture**
+>>>>> **u/ansible** [+2]  *The Culture* (a day later)
 >>>>> 
 >>>>> I used to play it a little bit, but my faves in that action RPG category are Diablo 2, and Torchlight 1 & 2.  Didn't hear good things ab out D3 when it came out, and similarly haven't heard good things about T3 released recently.
->>>>> 
 
->> **u/SvalbardCaretaker** [+9]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+9]  *Mouse Army* (4 hours later)
 >> 
 >> Humans are hardwired to compete for status. Once the basic necessities are cared for, chess and other games are a good way to satisfy that demand. Of course we aren't yet at that point as a society, so until then it is not a productive avenue.
->> Have I mentioned I hold a speedrun record in dungeon crawl stone soup?
 >> 
+>> Have I mentioned I hold a speedrun record in dungeon crawl stone soup?
 
->>> **u/fassina2** [+3]  *Progressive Overload**
+>>> **u/fassina2** [+3]  *Progressive Overload* (6 hours later)
 >>> 
 >>> >Have I mentioned I hold a speedrun record in dungeon crawl stone soup?
->>> Respect.
 >>> 
+>>> Respect.
 
->>>> **u/SvalbardCaretaker** [+5]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+5]  *Mouse Army* (6 hours later)
 >>>> 
 >>>> Thanks! Current Octopode record stands at 00:48:49 with this run: 
->>>> http://crawl.develz.org/morgues/git/svalbard/morgue-svalbard-20200509-150100.txt
 >>>> 
+>>>> http://crawl.develz.org/morgues/git/svalbard/morgue-svalbard-20200509-150100.txt
 
->>>>> **u/eleves11** [+2] *
+>>>>> **u/eleves11** [+2]  (8 hours later)
 >>>>> 
 >>>>> Huge respect for Octopode record. Also, that demon whip is insane.
->>>>> 
 
->>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> > Have I mentioned I hold a speedrun record in dungeon crawl stone soup?
->>> Queen’s Gambit but it’s for obscure ascii art rogue likes.
 >>> 
+>>> Queen’s Gambit but it’s for obscure ascii art rogue likes.
 
->>>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (a day later)
 >>>> 
 >>>> If you write it, I'll read it!
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>>>> 
 >>>>> I don't think I have a deep enough knowledge of obscure ascii art rogue likes to do that! I've played Stone Soup but never managed to finish a single run. Also TOME, and more recently Caves of Qud, if we're talking really hard, traditional style stuff, and never finished any of those either. I like roguelikes, I just suck at them.
->>>>> 
 
->> **u/Sagnaskemtan** [+7]  *Imperium of Man**
+>> **u/Sagnaskemtan** [+8]  *Imperium of Man* (4 hours later)
 >> 
 >> I've heard of Queen's Gambit, wasn't convinced and still not quite convinced it's worth watching, despite I'm a longtime chess player, good enough that I could make a living off of it and become an FM. 
->> It struck me as woke-bait and I anticipated that it'd probably be mediocre while still hitting a handful of milestones meant for broad appeal. There's not much profit in portraying chess or competitive chess authentically or at least without a lot of extraneous content. 
->> Bits and pieces of what I've heard about it suggest I may have underestimated it a bit, but despite having a passion for chess, I have little desire to watch it and a broad disgust with being associated with Netflix, even in spirit. 
->> Answering what you brought up, your average chess prodigy is a combination of someone who was immersed in the chess world from an early age and someone who is a savant in a handful of cognitive skills that lend very well to chess.
->> Professional chess is psychologically draining both on and off the board. The people who can withstand the stress enough to make it a career are often either twisted enough on some level that the world of chess is one of the only places they can thrive, so they go all in, or are all-around ordered enough individuals that they can see a bigger picture while still having the self-mastery to be successful. I consider myself in the latter category.
->> I'm not a savant or the result of someone pushed into the sport. Chess was a side hobby before I decided it was what I wanted to do as a job to provide the revenue to do other things I enjoy doing. That doesn't mean I don't like chess a lot, but I'm not a prodigy and it's not my life.
->> I suspect that I'd have done a lot more if I made chess into an end unto itself. I suspect I could've contributed to the world even more if I pursued something in STEM. I'm self-taught in mathematics and various other fields enough that I can read works about them at roughly postgraduate levels. That being said my goal was never to fit into the world in that way. That's a whole different rant on its own, but the contributions I chose to make are more abstract.
 >> 
+>> It struck me as woke-bait and I anticipated that it'd probably be mediocre while still hitting a handful of milestones meant for broad appeal. There's not much profit in portraying chess or competitive chess authentically or at least without a lot of extraneous content. 
+>> 
+>> Bits and pieces of what I've heard about it suggest I may have underestimated it a bit, but despite having a passion for chess, I have little desire to watch it and a broad disgust with being associated with Netflix, even in spirit. 
+>> 
+>> Answering what you brought up, your average chess prodigy is a combination of someone who was immersed in the chess world from an early age and someone who is a savant in a handful of cognitive skills that lend very well to chess.
+>> 
+>> Professional chess is psychologically draining both on and off the board. The people who can withstand the stress enough to make it a career are often either twisted enough on some level that the world of chess is one of the only places they can thrive, so they go all in, or are all-around ordered enough individuals that they can see a bigger picture while still having the self-mastery to be successful. I consider myself in the latter category.
+>> 
+>> I'm not a savant or the result of someone pushed into the sport. Chess was a side hobby before I decided it was what I wanted to do as a job to provide the revenue to do other things I enjoy doing. That doesn't mean I don't like chess a lot, but I'm not a prodigy and it's not my life.
+>> 
+>> I suspect that I'd have done a lot more if I made chess into an end unto itself. I suspect I could've contributed to the world even more if I pursued something in STEM. I'm self-taught in mathematics and various other fields enough that I can read works about them at roughly postgraduate levels. That being said my goal was never to fit into the world in that way. That's a whole different rant on its own, but the contributions I chose to make are more abstract.
 
->>> **u/TridentTine** [+6] *
+>>> **u/TridentTine** [+7]  (8 hours later)
 >>> 
 >>> >It struck me as woke-bait and I anticipated that it'd probably be mediocre while still hitting a handful of milestones meant for broad appeal.
->>> I would describe it as a chess-themed generic drama. Reasonably entertaining & watchable, but otherwise forgettable. I didn't notice any "woke-bait."
 >>> 
+>>> I would describe it as a chess-themed generic drama. Reasonably entertaining & watchable, but otherwise forgettable. I didn't notice any "woke-bait."
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> > It struck me as woke-bait
->>> Not at all, if anything I’ve seen people complain that the show didn’t feature almost any sexism and never focused much on social aspects. Just chess.
 >>> 
+>>> Not at all, if anything I’ve seen people complain that the show didn’t feature almost any sexism and never focused much on social aspects. Just chess.
 
->> **u/fassina2** [+1]  *Progressive Overload**
+>> **u/fassina2** [+1]  *Progressive Overload* (a day later)
 >> 
 >> I've watched it and I must say the story is so cliché, and cookie cutter. You can see the beats coming from a mile away.
->> &#x200B;
->> >!We start with an orphan, she lives in an orphanage, gets a mentor. Her talent is discovered. Gets adopted and has her first real fight. Finds a way to get money. Continues to win so that the crash that's coming in the middle for tension is bigger. Crash comes. Training arc. MC wins.. !<
->> &#x200B;
->> >!I thought he'd do something interesting in the end, or have some theme. But all we get is what we knew would happen, and a generic 'Drugs are bad, hmm ok'. !<
->> &#x200B;
->> The music and cinematography carry the show there, but the plot and storyline are imho a tad simple. It feels like an average power fantasy webnovel, but set irl.
 >> 
+>> &#x200B;
+>> 
+>> >!We start with an orphan, she lives in an orphanage, gets a mentor. Her talent is discovered. Gets adopted and has her first real fight. Finds a way to get money. Continues to win so that the crash that's coming in the middle for tension is bigger. Crash comes. Training arc. MC wins.. !<
+>> 
+>> &#x200B;
+>> 
+>> >!I thought he'd do something interesting in the end, or have some theme. But all we get is what we knew would happen, and a generic 'Drugs are bad, hmm ok'. !<
+>> 
+>> &#x200B;
+>> 
+>> The music and cinematography carry the show there, but the plot and storyline are imho a tad simple. It feels like an average power fantasy webnovel, but set irl.
 
->>> **u/--MCMC--** [+3] *
+>>> **u/--MCMC--** [+3]  (a day later)
 >>> 
 >>> The various, uh, ‘personalities’ (with unique mannerisms, styles of dress, etc.) featured in all the tournaments did remind me of an anime’s colorful cast of competitors! I do agree that it was pretty tropey, but I think cookie cutter narratives & character arcs work well for a reason, and otherwise enjoyed the acting and cinematography etc. as you say :]
->>> 
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> It’s totally a shonen sports anime, just IRL. I liked it for what it is, but it’s no more complex than that (heck, Hikaru no Go had a lot more sophisticated emotional beats).
->>> 
 
->>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>> **u/fassina2** [+1]  *Progressive Overload* (a day later)
 >>>> 
 >>>> Yep but aimed at a western female target audience, that likely never experienced anything similar. Which I suppose it's one of the reasons it's so highly rated on imdb.
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>>>> 
 >>>>> Not entirely correct, IMHO. First, there's plenty of western female audience that has experienced something similar - the weeb part of it, that is. Second, it's hardly targeted only at women, or did you miss the part where the main actress is kinda really hot and is always framed in a way to make sure we never forget it? If anything it's sort of the reverse of the usual shonen sports manga - whereas those tend to give an outlet for self insert to men and lots of steamy shirtlessness and bromance with gay subtext to women, this one was exactly the other way around, with a protagonist women could identify with and plenty of fanservice for men. 
->>>>> It's more that it reached out to the sort of mainstream audience that would dismiss anime as "cartoons" and not give them a chance, by offering a very similar kind of story and payoff in a format that appeared more "serious" and thus credible, easy to recommend to friends, and so on.
 >>>>> 
+>>>>> It's more that it reached out to the sort of mainstream audience that would dismiss anime as "cartoons" and not give them a chance, by offering a very similar kind of story and payoff in a format that appeared more "serious" and thus credible, easy to recommend to friends, and so on.
 
->>>>>> **u/fassina2** [+2]  *Progressive Overload**
+>>>>>> **u/fassina2** [+2]  *Progressive Overload* (2 days later)
 >>>>>> 
 >>>>>> While the MC is 'attractive' she is definitely in the category of 'attractive but not enough that it inherently annoys average people of that gender', which is what actors and actresses in general tend to be if they are main characters.
->>>>>> They need to be likeable to average people, so not attractive enough that it annoys them. 
->>>>>> From personal taste and general understanding of how men tastes work I can tell you that MC isn't hot. She's beautiful sure, I doubt many men would say otherwise but you'd be hard pressed to find one that calls her hot, or sexually appealing in general.
->>>>>> I mentioned the series to a couple friends and their reaction was, 'oh my gf is watching that', and 'who recommended that to you? that's more of a women show.' None were that enthused or particularly interested in watching it, so at least from my experience the target audience is clearly mostly women.
 >>>>>> 
+>>>>>> They need to be likeable to average people, so not attractive enough that it annoys them. 
+>>>>>> 
+>>>>>> From personal taste and general understanding of how men tastes work I can tell you that MC isn't hot. She's beautiful sure, I doubt many men would say otherwise but you'd be hard pressed to find one that calls her hot, or sexually appealing in general.
+>>>>>> 
+>>>>>> I mentioned the series to a couple friends and their reaction was, 'oh my gf is watching that', and 'who recommended that to you? that's more of a women show.' None were that enthused or particularly interested in watching it, so at least from my experience the target audience is clearly mostly women.
 
->>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (2 days later)
 >>>>>>> 
 >>>>>>> Bubble stuff, I saw plenty of men appreciating her. I don't think people who are "too attractive" annoy anyone, it's more that if they're blatantly used *only* for the purpose of racking up sexy points anyone who's not interested in them sexually (aka: heterosexual people of the opposite sex, homosexual of the same, and bisexual of either) is not interested at all. But this is not the case here, she's attractive but she's also a good actress and there was more to her character than simply being a pretty face. But if anything I've even seen a lot of criticism aimed at the show for glamourizing Beth too much even when she was at rock bottom, or for being too male gaze-y. So.
->>>>>>> 
 
->>>>>>>> **u/fassina2** [+2]  *Progressive Overload**
+>>>>>>>> **u/fassina2** [+2]  *Progressive Overload* (2 days later)
 >>>>>>>> 
 >>>>>>>> A large percentage of people are annoyed by overly attractive people that dress well irl. It's blatant and happens very often. They rationalize it and use different words for it to not seem shallow but it is a thing that happens..
->>>>>>>> It's one of the reasons why main actors in superhero and other action movies and shows aren't the most handsome men available. Same thing for main actresses in romcoms. They are attractive sure, but they are not attractive enough to annoy their target audiences. 
->>>>>>>> > But if anything I've even seen a lot of criticism aimed at the show for glamourizing Beth too much even when she was at rock bottom, or for being too male gaze-y.
->>>>>>>> > I saw plenty of men appreciating her.
->>>>>>>> I'd be interested if the people that brought that up were men. And in what context those men were appreciating her.. For instance having your gf ask if they think beth is beautiful / pretty, most men would reply yes very. But that doesn't necessarily mean they'd follow her instagram.. Know what I mean ? 
->>>>>>>> She has traits women think are very attractive like a very even, pale white skin. But men don't rate that very highly, we are attracted to health because evolutionarily that's more conductive to having big healthy babies and an easier pregnancy. Pale skin doesn't exactly signals good health. But then again maybe she's really hot to very pasty men with Scottish ancestry ?
 >>>>>>>> 
+>>>>>>>> It's one of the reasons why main actors in superhero and other action movies and shows aren't the most handsome men available. Same thing for main actresses in romcoms. They are attractive sure, but they are not attractive enough to annoy their target audiences. 
+>>>>>>>> 
+>>>>>>>> > But if anything I've even seen a lot of criticism aimed at the show for glamourizing Beth too much even when she was at rock bottom, or for being too male gaze-y.
+>>>>>>>> 
+>>>>>>>> > I saw plenty of men appreciating her.
+>>>>>>>> 
+>>>>>>>> I'd be interested if the people that brought that up were men. And in what context those men were appreciating her.. For instance having your gf ask if they think beth is beautiful / pretty, most men would reply yes very. But that doesn't necessarily mean they'd follow her instagram.. Know what I mean ? 
+>>>>>>>> 
+>>>>>>>> She has traits women think are very attractive like a very even, pale white skin. But men don't rate that very highly, we are attracted to health because evolutionarily that's more conductive to having big healthy babies and an easier pregnancy. Pale skin doesn't exactly signals good health. But then again maybe she's really hot to very pasty men with Scottish ancestry ?
 
->>>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (2 days later)
 >>>>>>>>> 
 >>>>>>>>> > I'd be interested if the people that brought that up were men.
->>>>>>>>> They absolutely were. And some of the comments weren't the sort you'd make in front of your girlfriend, unless she's pretty open minded. If you know what I mean.
->>>>>>>>> > But men don't rate that very highly, we are attracted to health because evolutionarily that's more conductive to having big healthy babies and an easier pregnancy. Pale skin doesn't exactly signals good health. But then again maybe she's really hot to very pasty men with Scottish ancestry ?
->>>>>>>>> Oh, come on, culture easily trumps all that. In practice, at any time in history, we're attracted by whatever is a sign of being wealthy. It used to be being pale and plump, now it's more often being tan and thin. Same difference. And yes, she's quite fair skinned, but it's not like that's such a turnoff on its own. Another huge factor is difference and variety - men who see dark haired women all day might like blondes, and vice versa. Anyway, the series had its appeal for male audiences too, though I'd be interested in seeing audience stats. I think your personal bubble might just have that specific slant. Frankly it sounds a lot like it'd have to be men who are really super invested on appearing hypermasculine all the time who would call it "a women's show". I've never heard it called that once.
 >>>>>>>>> 
+>>>>>>>>> They absolutely were. And some of the comments weren't the sort you'd make in front of your girlfriend, unless she's pretty open minded. If you know what I mean.
+>>>>>>>>> 
+>>>>>>>>> > But men don't rate that very highly, we are attracted to health because evolutionarily that's more conductive to having big healthy babies and an easier pregnancy. Pale skin doesn't exactly signals good health. But then again maybe she's really hot to very pasty men with Scottish ancestry ?
+>>>>>>>>> 
+>>>>>>>>> Oh, come on, culture easily trumps all that. In practice, at any time in history, we're attracted by whatever is a sign of being wealthy. It used to be being pale and plump, now it's more often being tan and thin. Same difference. And yes, she's quite fair skinned, but it's not like that's such a turnoff on its own. Another huge factor is difference and variety - men who see dark haired women all day might like blondes, and vice versa. Anyway, the series had its appeal for male audiences too, though I'd be interested in seeing audience stats. I think your personal bubble might just have that specific slant. Frankly it sounds a lot like it'd have to be men who are really super invested on appearing hypermasculine all the time who would call it "a women's show". I've never heard it called that once.
 
->>>>>>>>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>>>>>>>> **u/fassina2** [+1]  *Progressive Overload* (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> > It used to be being pale and plump
->>>>>>>>>> That was one specific period, the exception rather than the rule. If you assume evolution influences physical attraction most men are attracted to what we can assume fertile women looked like for most of our evolutionary history. i.e Tan, lean and in shape.. Similarly for women but with some differences like a lower importance of fertility and a higher focus on status and providing capacity. 
->>>>>>>>>> Hair color preferences, are a bit weird for instance natural blond hair was rare for adults even in northern europe, but it was relatively more common for teens. Meaning men who in general prefer to date younger saw it as a desirable trait, but women who in general prefer to date older tended to like dark hair better..
->>>>>>>>>> It's also where the general view that blond women tend to not be very bright comes from. Before hair dyes, blond women were for the most part teenagers.
->>>>>>>>>> > Frankly it sounds a lot like it'd have to be men who are really super invested on appearing hypermasculine all the time who would call it "a women's show". I've never heard it called that once.
->>>>>>>>>> It might be surprising but a very large percentage of men will not consume a story where the main character isn't a man given the choice. And no it's not just the far right, or hyper masculine dudes. This is a known thing, like female authors, although that's slowly changing. Studios know that if they make a female main character they'll sell less.
 >>>>>>>>>> 
+>>>>>>>>>> That was one specific period, the exception rather than the rule. If you assume evolution influences physical attraction most men are attracted to what we can assume fertile women looked like for most of our evolutionary history. i.e Tan, lean and in shape.. Similarly for women but with some differences like a lower importance of fertility and a higher focus on status and providing capacity. 
+>>>>>>>>>> 
+>>>>>>>>>> Hair color preferences, are a bit weird for instance natural blond hair was rare for adults even in northern europe, but it was relatively more common for teens. Meaning men who in general prefer to date younger saw it as a desirable trait, but women who in general prefer to date older tended to like dark hair better..
+>>>>>>>>>> 
+>>>>>>>>>> It's also where the general view that blond women tend to not be very bright comes from. Before hair dyes, blond women were for the most part teenagers.
+>>>>>>>>>> 
+>>>>>>>>>> > Frankly it sounds a lot like it'd have to be men who are really super invested on appearing hypermasculine all the time who would call it "a women's show". I've never heard it called that once.
+>>>>>>>>>> 
+>>>>>>>>>> It might be surprising but a very large percentage of men will not consume a story where the main character isn't a man given the choice. And no it's not just the far right, or hyper masculine dudes. This is a known thing, like female authors, although that's slowly changing. Studios know that if they make a female main character they'll sell less.
 
->>>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I don't think it's such a large percentage at all. Besides, it's a TV show about a chess champion. Most of those types would consider it a boring story for geeks even if the protagonist was a man.
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>>>>>>>>>> **u/fassina2** [+1]  *Progressive Overload* (2 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> Depends what you define as large. I'd say anywhere between 15 to 30% of men won't do it, it may be even higher in some cultures..
->>>>>>>>>>>> 
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> I mean, she likes chess though. In another story she might have met a janitor who was into theoretical physics and taken that path, but this isn’t it. I would be wary of portray it as “a tragedy” - people have also their own preferences, they’re not just tools to advance society. It would be a tragedy if she both failed to live up to her potential and suffered from it. Besides, for all we know she might have been just a decently good physicist instead of a world class chess player.
->> 
 
->> **u/iemfi** [+1] *
+>> **u/iemfi** [+1]  (3 days later)
 >> 
 >> I feel the opposite way. For any game/hobby for the top few most talented people in the world to not pursue it seems like such a waste to me. Even if it's a silly game it's just a few people out of the billions in the world.
->> I guess the difference is that I don't think talent in specific games transfer much at all. Top chess players don't seem to have exceptionally high IQs.
 >> 
+>> I guess the difference is that I don't think talent in specific games transfer much at all. Top chess players don't seem to have exceptionally high IQs.
 
-> **u/None** [+8] *
+> **u/None** [+9]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/fassina2** [+3]  *Progressive Overload**
+>> **u/fassina2** [+3]  *Progressive Overload* (9 hours later)
 >> 
 >> That's an awesome shade of purple. I'd love it if us men looked good in colorful stuff like that. If we did I'd rock it all the time. Emerald, this purple, and some other shades look so cool.  Sadly it's really hard to pull off. 
->> &#x200B;
->> Although after looking around for a bit I found [this one](https://traditionalindianclothes.weebly.com/uploads/4/9/3/0/49306539/8672439_orig.jpg). It has the proper combination of looking sharp, manly and cool. 
->> &#x200B;
->> Maybe these if they put a sash at their true waist not hips, so it looks sharper: [1](https://ik.imagekit.io/ldqsn9vvwgg/images/1596948.jpg), [2](https://ik.imagekit.io/ldqsn9vvwgg/images-large/502855.jpg) or [3](https://i.pinimg.com/736x/34/10/10/341010155084697b6de3bc652f12685a--wedding-sherwani-maroon-color.jpg)..  Damn these Indians dudes can [look cool](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.VFKAo0-7EGvtj8H02GK9cAHaLH%26pid%3DApi&f=1) in silk.. If I had infinite money I'd have some of these made just to walk around the house, or for Halloween or something.
->> &#x200B;
->> ([here's](https://i.imgur.com/jZmgXrZ.jpg) a scuffed photoshop edit I made of img 2 with a sash added. Looks cooler imho).
 >> 
+>> &#x200B;
+>> 
+>> Although after looking around for a bit I found [this one](https://traditionalindianclothes.weebly.com/uploads/4/9/3/0/49306539/8672439_orig.jpg). It has the proper combination of looking sharp, manly and cool. 
+>> 
+>> &#x200B;
+>> 
+>> Maybe these if they put a sash at their true waist not hips, so it looks sharper: [1](https://ik.imagekit.io/ldqsn9vvwgg/images/1596948.jpg), [2](https://ik.imagekit.io/ldqsn9vvwgg/images-large/502855.jpg) or [3](https://i.pinimg.com/736x/34/10/10/341010155084697b6de3bc652f12685a--wedding-sherwani-maroon-color.jpg)..  Damn these Indians dudes can [look cool](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.VFKAo0-7EGvtj8H02GK9cAHaLH%26pid%3DApi&f=1) in silk.. If I had infinite money I'd have some of these made just to walk around the house, or for Halloween or something.
+>> 
+>> &#x200B;
+>> 
+>> ([here's](https://i.imgur.com/jZmgXrZ.jpg) a scuffed photoshop edit I made of img 2 with a sash added. Looks cooler imho).
 
->>> **u/None** [+5] *
+>>> **u/None** [+6]  (10 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/fassina2** [+2]  *Progressive Overload**
+>>>> **u/fassina2** [+2]  *Progressive Overload* (10 hours later)
 >>>> 
 >>>> I was looking at pictures from models, posing with the colorful clothing meant to sell stuff, and 95% of them couldn't pull it off imho. 
->>>> &#x200B;
->>>> There's also the fact that clothes are in general designed and made for fit people with good posture, not necessarily to average people. Which means most clothes don't look as good as they do in pictures from models as they do when we buy them.
->>>> &#x200B;
->>>> PS. I'm not sure if you're a man or if you're trolling because of the way I phrased it, from your name I always assumed you were a woman but now I'm confused XD
 >>>> 
+>>>> &#x200B;
+>>>> 
+>>>> There's also the fact that clothes are in general designed and made for fit people with good posture, not necessarily to average people. Which means most clothes don't look as good as they do in pictures from models as they do when we buy them.
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> PS. I'm not sure if you're a man or if you're trolling because of the way I phrased it, from your name I always assumed you were a woman but now I'm confused XD
 
->>>>> **u/None** [+7] *
+>>>>> **u/None** [+7]  (11 hours later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>>>>> 
 >>>>>> Lol, reminds me of when I started writing fanfiction (in Italian) and knew absolutely nothing about the field, I never bothered specifying my gender and after a while I noticed curiously how everyone assumed I must be a girl because, well, *everyone else* on that website was.
->>>>>> 
 
->>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>>> 
 >>>> > Who says we don't? Wear what you want, bruh.
->>>> I agree in principle, but in practice what I'd want probably doesn't exist, and reasonably many people can't exactly afford to be their own stylists and then get tailor-made clothes. I like men's cuts for clothes, I'd just enjoy if they weren't almost all so drab in color choices.
->>>> I'm less worried about the social judgement aspect. I've got the marked impression that in many circumstances you could push the envelope quite a bit as long as you're distinctly confident while doing it. People will either be too embarrassed, too polite or too stunned to say anything to your face, and the Emperor's New Clothing effect will benefit you. After a while, if you're not a pain in the butt for them for more practical reason, it'll likely just become filed as a quirk of yours, and it might if anything benefit you as you are now visually very distinctive and jump to people's mind more easily and draw their attention more.
 >>>> 
+>>>> I agree in principle, but in practice what I'd want probably doesn't exist, and reasonably many people can't exactly afford to be their own stylists and then get tailor-made clothes. I like men's cuts for clothes, I'd just enjoy if they weren't almost all so drab in color choices.
+>>>> 
+>>>> I'm less worried about the social judgement aspect. I've got the marked impression that in many circumstances you could push the envelope quite a bit as long as you're distinctly confident while doing it. People will either be too embarrassed, too polite or too stunned to say anything to your face, and the Emperor's New Clothing effect will benefit you. After a while, if you're not a pain in the butt for them for more practical reason, it'll likely just become filed as a quirk of yours, and it might if anything benefit you as you are now visually very distinctive and jump to people's mind more easily and draw their attention more.
 
-> **u/Camaraagati** [+8]  *The Emperor's Text-to-Speech Device**
+> **u/Camaraagati** [+7]  *The Emperor's Text-to-Speech Device* (3 hours later)
 > 
 > It seems that the, "official" longest pieces of English literature by word count are fanfiction. [*The Loud House Revamped*](https://www.fanfiction.net/s/12715870/1/The-Loud-House-Revamped) is ongoing, has been around for more than two years, and currently stands at over 7.8 million words surpassing both [*Ambience: A Fleet Symphony*](https://www.fanfiction.net/s/10333897) (4.5 million) and [*The Subspace Emissary's Worlds Conquest*](https://www.fanfiction.net/s/4112682/1/The_Subspace_Emissarys_Worlds_Conquest) (4.1 million) by a wide margin. 
-> For comparison, Worm is 1.6 mill. words, the Harry Potter series is 1.08 mill., HPMOR is 0.66 mill. 
-> This would of course be excluding works which are nonsense, extremely obscure, blatantly just meant to be record-setters, and/or don't really count as a single work. 
-> Some would demand that the standards be stricter, excluding serials, demanding that included stories be published by standards closer to the mainstream, etc.
-> I prefer quality over quantity when it comes to reading. At the same time, I burn through books very quickly, even when not on lockdown. One of my favorite series is *A Chronicle of Ancient Sunlight* by Henry Williamson whose most known trait is its length (2.6 mill). Girth aside, it's not something that has broad appeal to a contemporary audience, even to rationalists, but I'd recommend it if you're interested in the early 20th century.
-> I haven't read any of the above mentioned fanfic aside from HPMOR, but I do end up reading a lot of it and other webfiction that floats above Sturgeon's Law to fulfill the potential that more mainstream media doesn't have the time, ability, or willingness to fulfill.
-> I often wonder about the truly niche series that exist, even more niche than genre-bending fanfic.
 > 
+> For comparison, Worm is 1.6 mill. words, the Harry Potter series is 1.08 mill., HPMOR is 0.66 mill. 
+> 
+> This would of course be excluding works which are nonsense, extremely obscure, blatantly just meant to be record-setters, and/or don't really count as a single work. 
+> 
+> Some would demand that the standards be stricter, excluding serials, demanding that included stories be published by standards closer to the mainstream, etc.
+> 
+> I prefer quality over quantity when it comes to reading. At the same time, I burn through books very quickly, even when not on lockdown. One of my favorite series is *A Chronicle of Ancient Sunlight* by Henry Williamson whose most known trait is its length (2.6 mill). Girth aside, it's not something that has broad appeal to a contemporary audience, even to rationalists, but I'd recommend it if you're interested in the early 20th century.
+> 
+> I haven't read any of the above mentioned fanfic aside from HPMOR, but I do end up reading a lot of it and other webfiction that floats above Sturgeon's Law to fulfill the potential that more mainstream media doesn't have the time, ability, or willingness to fulfill.
+> 
+> I often wonder about the truly niche series that exist, even more niche than genre-bending fanfic.
 
->> **u/PastafarianGames** [+5] *
+>> **u/PastafarianGames** [+6]  (13 hours later)
 >> 
 >> I think that The Wandering Inn has probably surpassed that list at this point.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (19 hours later)
 >>> 
 >>> IIRC, it has close to or over 7 million words, and it is still ongoing.
->>> 
 
->> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> It’s kind of amazing how long fan fictions can grow if you just keep chaining one chapter after the other. I think that I tend to write pretty densely, and I still was surprised to find out that mine has long surpassed Moby Dick (a mere 200k words).
->> 
 
-> **u/--MCMC--** [+6] *
+> **u/--MCMC--** [+7]  (4 hours later)
 > 
 > Happy (belated, for those in Oceania / East Asia) New Year, everyone! Hindsight is 2020, as they say, so I’m curious how y’all’s years went in retrospect. What were your biggest success and failures? In what contexts would you have acted differently, given predictable foreknowledge of the outcome? Were you able to satisfy any New Year’s Resolutions made one orbital period ago, and if so (or if not), what do you think was most instrumental there? (probs best to [not share](https://journals.sagepub.com/doi/full/10.1111/j.1467-9280.2009.02336.x) any current resolutions, ofc). How did this year’s unique circumstances (e.g. the global pandemic) affect your lifts?
-> 
 
->> **u/PastafarianGames** [+5] *
+>> **u/PastafarianGames** [+5]  (13 hours later)
 >> 
 >> My biggest success was maintaining my diet and exercise regimen. My biggest failure was that I wasn't able to do anything productive in terms of activism or political involvement in the entire year.
->> 
 
-> **u/ansible** [+4]  *The Culture**
+> **u/ansible** [+5]  *The Culture* (6 hours later)
 > 
 > Sorry, this rambles a bit...
-> After zipping through [The Shadow of Angmar](https://www.fanfiction.net/s/11115934/1/The-Shadow-of-Angmar) (Harry Potter is transported to Tolkein's Middle Earth), I think I'd like to live like the Elves.
-> Well, not exactly as an Elf or in Middle Earth, but more in tune with the environment and nature as they are.  I've read LotR and such before, but it for whatever reason, really sunk in to me reading that fanfic just how appealing their lifestyle would be for me.
-> If we do see some sort of Rapture of the Nerds or otherwise solve some pressing problems with the environment and mortality, I'd probably choose to stay human for a while if that is feasible.
-> I'm envisioning an alternate version of the 20th century America. There's no plastic packaging and the disposable consumer lifestyle, everything is (or at least can be) recycled.  Lots of towns and small cities that are more attuned to their environment.  Walkable downtown areas that don't allow cars.  Not on the level of Lothlorien, but more trees and a garden-like environ outside of the core. There's enough non-animal sources of complete protein that there is no need for factory farms, everyone is gladly vegan.
-> People living a long, long time, and developing their own skills and crafts and art.
-> I suppose I could deal with the occasional orc and goblin incursions, but I'd rather not see the long-term withering of lightness and culture by a formless and implacable evil like Morgoth or Sauron.  Even with their defeat, the Forth Age of Middle Earth sounds fairly... meh.
-> Elves, The Culture, or something else... what would be your idyllic living look like?
 > 
+> After zipping through [The Shadow of Angmar](https://www.fanfiction.net/s/11115934/1/The-Shadow-of-Angmar) (Harry Potter is transported to Tolkein's Middle Earth), I think I'd like to live like the Elves.
+> 
+> Well, not exactly as an Elf or in Middle Earth, but more in tune with the environment and nature as they are.  I've read LotR and such before, but it for whatever reason, really sunk in to me reading that fanfic just how appealing their lifestyle would be for me.
+> 
+> If we do see some sort of Rapture of the Nerds or otherwise solve some pressing problems with the environment and mortality, I'd probably choose to stay human for a while if that is feasible.
+> 
+> I'm envisioning an alternate version of the 20th century America. There's no plastic packaging and the disposable consumer lifestyle, everything is (or at least can be) recycled.  Lots of towns and small cities that are more attuned to their environment.  Walkable downtown areas that don't allow cars.  Not on the level of Lothlorien, but more trees and a garden-like environ outside of the core. There's enough non-animal sources of complete protein that there is no need for factory farms, everyone is gladly vegan.
+> 
+> People living a long, long time, and developing their own skills and crafts and art.
+> 
+> I suppose I could deal with the occasional orc and goblin incursions, but I'd rather not see the long-term withering of lightness and culture by a formless and implacable evil like Morgoth or Sauron.  Even with their defeat, the Forth Age of Middle Earth sounds fairly... meh.
+> 
+> Elves, The Culture, or something else... what would be your idyllic living look like?
 
->> **u/--MCMC--** [+6] *
+>> **u/--MCMC--** [+6]  (7 hours later)
 >> 
 >> I liked how The Shadow of Angmar started, but it sort of lost me after a half dozen chapters. Would you recommend trying it again? 
->> In terms of fictional universes, I think I'd much rather be a citizen of the Culture than of some elven realm of Middle-earth  -- if anything, the latter can be produced by the former if you ask a Mind nicely.
->> In the real world...I do like outdoorsy stuff (mostly walking), as well as more city-based flânerie, but I also like goofing around with computer-y stuff and hermithood. I think my ideal house would be if you modernized fallingwater's interior, transplanted it to the base of some waterfall in the Lauterbrunnen Valley, and put in high-speed rail to Zurich, while incidentally also transplanting Tokyo's downtown into one of its corner's. Alternatively, take [this house](https://www.telluriderealestatecorp.com/listing/38274/341-royer-lane-telluride-co-81435/?fbclid=IwAR2C62-7NmFEgTGLfR1O7Uuwc2mx56qHvkD0Ys1T_r4ruF7surDVEedoNWU) and chuck it into the mountains north of Vancouver, BC. 
->> In this scenario I'd ofc be independently wealthy, and a small fleet of robots would take care of all household chores. Each morning I would wake up and (after consulting my partner over morning lattes, we'd) choose to either tend to personal (science / programming / altruistic) projects, or go on a long walk in the surrounding forests and hills. Once a week we'd invite a few friends over to play games and have fun conversations.
 >> 
+>> In terms of fictional universes, I think I'd much rather be a citizen of the Culture than of some elven realm of Middle-earth  -- if anything, the latter can be produced by the former if you ask a Mind nicely.
+>> 
+>> In the real world...I do like outdoorsy stuff (mostly walking), as well as more city-based flânerie, but I also like goofing around with computer-y stuff and hermithood. I think my ideal house would be if you modernized fallingwater's interior, transplanted it to the base of some waterfall in the Lauterbrunnen Valley, and put in high-speed rail to Zurich, while incidentally also transplanting Tokyo's downtown into one of its corner's. Alternatively, take [this house](https://www.telluriderealestatecorp.com/listing/38274/341-royer-lane-telluride-co-81435/?fbclid=IwAR2C62-7NmFEgTGLfR1O7Uuwc2mx56qHvkD0Ys1T_r4ruF7surDVEedoNWU) and chuck it into the mountains north of Vancouver, BC. 
+>> 
+>> In this scenario I'd ofc be independently wealthy, and a small fleet of robots would take care of all household chores. Each morning I would wake up and (after consulting my partner over morning lattes, we'd) choose to either tend to personal (science / programming / altruistic) projects, or go on a long walk in the surrounding forests and hills. Once a week we'd invite a few friends over to play games and have fun conversations.
 
->>> **u/ketura** [+3]  *Organizer**
+>>> **u/ketura** [+3]  *Organizer* (16 hours later)
 >>> 
 >>> I quite enjoyed it, tho it isn't finished and updates very slowly. But then Tolkien was my first love, and this guy does a good job of integrating with it.
->>> What turned you off?
 >>> 
+>>> What turned you off?
 
->>>> **u/ansible** [+1]  *The Culture**
+>>>> **u/ansible** [+1]  *The Culture* (20 hours later)
 >>>> 
 >>>> >!Possibly the issue with no wand for Harry.  This gets resolved... eventually. Without it, Harry has a hard time in general.  With a wand, his combat ability seems to match or exceed that of the other Istari. This is having a significant effect on the goblins and orcs, as the war is being brought to them early and more effectively.!<
->>>> Aside: What's amusing is that Harry seems to lack the meta-knowledge that cannon-Harry has regarding the LotR.
 >>>> 
+>>>> Aside: What's amusing is that Harry seems to lack the meta-knowledge that cannon-Harry has regarding the LotR.
 
->>> **u/ansible** [+2]  *The Culture**
+>>> **u/ansible** [+2]  *The Culture* (20 hours later)
 >>> 
 >>> > I liked how The Shadow of Angmar started, but it sort of lost me after a half dozen chapters. Would you recommend trying it again?
->>> I think it has been interesting so far.  One of the major sticking points finally gets resolved a bit further in.  Though at great cost.
->>> Yeah, I'd still want some high tech, but not the disposable culture that currently surrounds it.  Living near the mountains, with access to some city life would be grand.
->>> Even in a high-tech, post-scarcity society, there's still plenty that is interesting out there.  Like dark matter / energy, the possibilities with alien life, etc.  I'd enjoy having enough time to study those sorts of things.
 >>> 
+>>> I think it has been interesting so far.  One of the major sticking points finally gets resolved a bit further in.  Though at great cost.
+>>> 
+>>> Yeah, I'd still want some high tech, but not the disposable culture that currently surrounds it.  Living near the mountains, with access to some city life would be grand.
+>>> 
+>>> Even in a high-tech, post-scarcity society, there's still plenty that is interesting out there.  Like dark matter / energy, the possibilities with alien life, etc.  I'd enjoy having enough time to study those sorts of things.
 
->> **u/fassina2** [+4]  *Progressive Overload**
+>> **u/fassina2** [+5]  *Progressive Overload* (8 hours later)
 >> 
 >> It has a lot appeal because it's what we evolved to like. We didn't evolve to live in cities where most people are lonely while surrounded by people.
->> &#x200B;
->> We evolved to live in tightly knit groups of family and friends, who work with us but just enough work to maintain ourselves and our families rather than to stockpile. To travel and explore new places, share excess food with others because there's no refrigeration and that's technically food preservation because it means when we're hungry other will be more likely to share their food with us etc.
->> &#x200B;
->> There's a lot of appeal to that way of life, it's technically heaven, specially if you remove the bad parts like disease, suffering and all. 
->> &#x200B;
->> (Just started on Heaven's River the new bobiverse book and so far a specie of alien seems to have chosen that scenario for themselves even though they possessed advanced tech).
 >> 
+>> &#x200B;
+>> 
+>> We evolved to live in tightly knit groups of family and friends, who work with us but just enough work to maintain ourselves and our families rather than to stockpile. To travel and explore new places, share excess food with others because there's no refrigeration and that's technically food preservation because it means when we're hungry other will be more likely to share their food with us etc.
+>> 
+>> &#x200B;
+>> 
+>> There's a lot of appeal to that way of life, it's technically heaven, specially if you remove the bad parts like disease, suffering and all. 
+>> 
+>> &#x200B;
+>> 
+>> (Just started on Heaven's River the new bobiverse book and so far a specie of alien seems to have chosen that scenario for themselves even though they possessed advanced tech).
 
-> **u/None** [+3] *
+> **u/None** [+3]  (6 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+11] *
+>> **u/None** [+11]  (10 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> I mean, it's the kind of test where you need to answer sincerely... supposedly. I think that's more of a problem that would arise with any sort of test (potentially even a psychological examination by an expert): repeat it long enough, you learn how to game it. The Forer effect thing is a separate issue IMO, even if the test was legit it probably is more of a function of not wanting to give anyone a personality description that reads like "yeah, you're probably a self-absorbed, heartless psychopath, do humanity a favor and kill yourself".
->>> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (7 hours later)
 >> 
 >> I haven’t done a Myers-Briggs test in a long time but would be interested in pointers on personality tests. I have heard the Big Five personality trait test is the most scientifically accurate but haven’t done enough research to compare it to anything else.
->> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+4]  *Time flies like an arrow* (8 hours later)
 >> 
 >> I pretty consistently get INTJ.
->> 
 
->> **u/--MCMC--** [+3] *
+>> **u/--MCMC--** [+3]  (8 hours later)
 >> 
 >> I haven't taken the test in a long time and was never a big fan (no knocks against factor analysis, just don't like ad hoc discretization of continuous distributions, and iirc there were questions regarding the MBTI's validity?), but back in the day I'd always get INTJ.
->> 
 
->>> **u/fassina2** [+3]  *Progressive Overload**
+>>> **u/fassina2** [+4]  *Progressive Overload* (11 hours later)
 >>> 
 >>> Yep it has little to no scientific backing. The only scientific approved personality test afaik is called the Big Five.
->>> 
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> Do you know more about the specific criticism of it, besides the obvious inaccuracies coming from discretisation? For example, are some of the four categories less defined than others? I’ve seen Myers-Briggs called “horoscope for people who want to sound smart” and frankly that seems a bit extreme, it’s certainly not *random* like star signs, but I‘d be curious about its specific known failings.
->>> 
 
->> **u/RetardedWabbit** [+2] *
+>> **u/RetardedWabbit** [+2]  (10 hours later)
 >> 
 >> ENTJ :( It's my natural personality but it sucks in a lot of circumstances.
->> Community wise we might see more E than you'd think, debating and consensus building would fall under extroversion. Not to mention that commenting probably correlates with extroversion.
 >> 
+>> Community wise we might see more E than you'd think, debating and consensus building would fall under extroversion. Not to mention that commenting probably correlates with extroversion.
 
->> **u/Redditor76394** [+2] *
+>> **u/Redditor76394** [+2]  (16 hours later)
 >> 
 >> I just took it for the first time in a 2 years and got INFJ, which surprised me. I'd usually get INTJ or ENTJ depending on how extroverted I had been at the time. 
->> Somewhere in along the way I'd jumped over from the "Analyst" grouping to the "Diplomat" grouping. The description for INFJ wasn't a very accurate description of me though. (Not that the meyers briggs is especially accurate anyways.)
 >> 
+>> Somewhere in along the way I'd jumped over from the "Analyst" grouping to the "Diplomat" grouping. The description for INFJ wasn't a very accurate description of me though. (Not that the meyers briggs is especially accurate anyways.)
 
->> **u/quinceedman** [+1] *
+>> **u/quinceedman** [+1]  (8 days later)
 >> 
 >> I got INTJ 2 times out of 3.
->> 
 
-> **u/None** [+3] *
+> **u/None** [+4]  (5 hours later)
 > 
 > Is rational fiction entirely unrealistic? As this pandemic has proven people behave entirely irrationally, thus every story with characters making illogical decisions is more realistic than most rational stories.
-> 
 
->> **u/pldl** [+9] *
+>> **u/pldl** [+9]  (12 hours later)
 >> 
 >> Any work that is written with every character using a roughly identical frame of reference are unrealistic.
->> However, people rarely make entirely irrational decisions, although they may be illogical from a strict sense.
->> Peer pressure, for example.
->> It can make people behave illogically in some sense. (Asch conformity experiments).
->> But is it entirely irrational to not want to defy the majority?
->> I think rational fictions where everyone is very logical is unrealistic. Rational fictions where people follow their own interests typically are quite realistic.
 >> 
+>> However, people rarely make entirely irrational decisions, although they may be illogical from a strict sense.
+>> 
+>> Peer pressure, for example.
+>> 
+>> It can make people behave illogically in some sense. (Asch conformity experiments).
+>> 
+>> But is it entirely irrational to not want to defy the majority?
+>> 
+>> I think rational fictions where everyone is very logical is unrealistic. Rational fictions where people follow their own interests typically are quite realistic.
 
->> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> Rational fiction means treating people as having inner motives and thoughts. Even the stupider reactions to this pandemic aren’t something out of nowhere: they’re either the result of thinking from wrong information, of having goals different from the stated ones, or just giving in to fear and thus indulging in wishful thinking - very irrational, but something we know humans do all the time. It would be stupidly unrealistic to model the world as a system of fully rational, perfectly informed agents, sure.
->> 
 
->> **u/zorianteron** [+5] *
+>> **u/zorianteron** [+3]  (2 days later)
 >> 
 >> It isn't as simple as "they're just behaving irrationally".  That's too simplistic a map of people.  They're *playing different games*.
+>> 
 >> Why should a 20-year old follow any of the restrictions?
 >> Is it a good idea to be the first in line for a vaccine that was rushed?  "I don't know, but I don't trust the people on TV who hate people like me, so I'll sit it out."
 >> "Everything I do is posturing in order to jockey for social position, and my vocal responses to the events of the last year reflects that".
->> People can be a lot more interesting if you let them be.  They're all running different heuristics under bounded rationality, and a large part of what I enjoy in those pieces of rational fiction I've liked is the juxtaposition of the ways different people reason, even if they don't do it explicitly.
 >> 
+>> People can be a lot more interesting if you let them be.  They're all running different heuristics under bounded rationality, and a large part of what I enjoy in those pieces of rational fiction I've liked is the juxtaposition of the ways different people reason, even if they don't do it explicitly.
 
->> **u/Audere_of_the_Grey** [+2]  *Grey Collegium**
+>> **u/Audere_of_the_Grey** [+2]  *Grey Collegium* (7 hours later)
 >> 
 >> Hey, did you know? People are different from each other. Some behave more rationally than others.
->> 
 
->>> **u/chiruochiba** [+1] *
+>>> **u/chiruochiba** [+1]  (8 hours later)
 >>> 
 >>> That's true in real life, yes.
->>> I'd agree that some rational stories are unrealistic. Some present a cast of characters that are all unfailingly articulate, literate, and above average intelligence.
->>> Just for example, I love all of Wildbow's works, but I do notice that most of his characters (even the ones who are supposed to be dumb) are more articulate and reasonable than the people I know from similar walks of life in reality.
 >>> 
+>>> I'd agree that some rational stories are unrealistic. Some present a cast of characters that are all unfailingly articulate, literate, and above average intelligence.
+>>> 
+>>> Just for example, I love all of Wildbow's works, but I do notice that most of his characters (even the ones who are supposed to be dumb) are more articulate and reasonable than the people I know from similar walks of life in reality.
 
->>>> **u/plutonicHumanoid** [+5] *
+>>>> **u/plutonicHumanoid** [+6]  (9 hours later)
 >>>> 
 >>>> There certainly are rational stories that prefer to have people acting as rational as possible and end up appearing more like robots than people, but I don’t find that to be common in popular works. I don’t think I agree with you on Wildbow’s works, though I’ve only read Worm and Ward. Main characters sometimes act unreasonably and also interact with people who act unreasonably. The only explicitly “dumb” character I can think of is Rachel and I don’t think she was particularly articulate.
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (a day later)
 >>>>> 
 >>>>> The characters in Worm seem to be generally on the smart/capable side, but then again, they’re superheroes and villains. I expect the really stupid ones wouldn’t last much on the job.
->>>>> 
 
-> **u/madeofperls** [-1] *
+> **u/madeofperls** [-1]  (4 hours later)
 > 
 > Ivermectin is highly effective for prevention and treatment of COVID-19
+> 
 > Meta-analysis [here](https://ivmmeta.com/).
+> 
 > Early treatment	87% improvement
 > RR 0.13 [0.04‑0.40] p = 0.00052
 > Late treatment	 48% improvement
@@ -575,47 +605,58 @@ Please note that this thread has been merged with the Monday General Rationality
 > RR 0.09 [0.03‑0.26] p < 0.0001
 > Post‑Exposure Prophylaxis	90% improvement
 > RR 0.10 [0.06‑0.17] p < 0.0001
-> Note: maybe you should choose a drug without vitamin E (vitamins are actively harmful: [here](https://www.overcomingbias.com/2010/10/supplements-kill.html), [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1105975).)
-> u/EliezerYudkowsky might be interested.
 > 
+> Note: maybe you should choose a drug without vitamin E (vitamins are actively harmful: [here](https://www.overcomingbias.com/2010/10/supplements-kill.html), [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1105975).)
+> 
+> u/EliezerYudkowsky might be interested.
 
->> **u/fassina2** [+13]  *Progressive Overload**
+>> **u/fassina2** [+14]  *Progressive Overload* (6 hours later)
 >> 
->> From their FAQ:
+>>  From their FAQ:
+>> 
 >> >**Why should we trust** u/CovidAnalysis**?**  
 >> >  
 >> >There is no need to. We provide organization and analysis, but all sources are public and you can easily verify everything. For the country-based analysis, all data is public and the analysis is simple to replicate. **We also note that many equally qualified experts report contradictory conclusions.** If you don't like our analysis, you can use our database to locate information you may have missed for your own research. 
+>> 
 >> I'd like to see these what those contradictory conclusions are before blindly trusting this website..
+>> 
 >> &#x200B;
+>> 
 >> The same site states this if you click on HCQ at the top:
+>> 
 >> > Censored by Twitter - [Twitter version (data only, no conclusion)](https://hcqtw.com/)   
 >> >  
 >> > [**HCQ is effective for COVID-19 when used early: meta analysis of 185 studies**](https://hcqmeta.com/) 
->> HCQ = Hydroxychloroquine. Which AFAIK has been proven ineffective and removed from the emergency approval by the US gov it initially passed, after study results showed it's ineffective.
->> &#x200B;
->> So overhaul not a trustworthy website.
 >> 
+>> HCQ = Hydroxychloroquine. Which AFAIK has been proven ineffective and removed from the emergency approval by the US gov it initially passed, after study results showed it's ineffective.
+>> 
+>> &#x200B;
+>> 
+>> So overhaul not a trustworthy website.
 
->> **u/RetardedWabbit** [+3] *
+>> **u/RetardedWabbit** [+3]  (11 hours later)
 >> 
 >> "100% of the 28 studies to date report positive effects" raises some red flags. For p=0.05 there's only a 23.8% chance of all of them being positive, even if all factors were the same throughout. They mention this, along with widely varying protocols, but then go on to make very definitive conclusions from these studies.
->> Is there a proposed mechanism of action somewhere?
->> Edit: this site is impressive though. It's super cool to see this kind of transparent analysis and visuals out in the wild like this!
 >> 
+>> Is there a proposed mechanism of action somewhere?
+>> 
+>> Edit: this site is impressive though. It's super cool to see this kind of transparent analysis and visuals out in the wild like this!
 
->>> **u/RetardedWabbit** [+3] *
+>>> **u/RetardedWabbit** [+4]  (11 hours later)
 >>> 
 >>> https://hcqmeta.com/
->>> This also raises a huge number of red flags. This is not my field but HCQ has been throughly researched and discarded as a treatment. It's not some conspiracy of overly negative reporting of studies in North America, the global community has come to the same conclusions. It would be interesting to see an expert review of this, off the top of my head there's blatant: bad usage of p values, begging the question, and over conclusions.
->>> Is this some weird conspiracy thing? There's clearly a lot of work put into it but it's obviously not targeting other experts. Is it just supposed to be a weird massive source for "actually *science* says there's tons of treatments for Covid" for layman debates?
 >>> 
+>>> This also raises a huge number of red flags. This is not my field but HCQ has been throughly researched and discarded as a treatment. It's not some conspiracy of overly negative reporting of studies in North America, the global community has come to the same conclusions. It would be interesting to see an expert review of this, off the top of my head there's blatant: bad usage of p values, begging the question, and over conclusions.
+>>> 
+>>> Is this some weird conspiracy thing? There's clearly a lot of work put into it but it's obviously not targeting other experts. Is it just supposed to be a weird massive source for "actually *science* says there's tons of treatments for Covid" for layman debates?
 
->>> **u/LongjumpingHurry** [+3] *
+>>> **u/LongjumpingHurry** [+3]  (13 hours later)
 >>> 
 >>> > "100% of the 28 studies to date report positive effects" raises some red flags. For p=0.05 there's only a 23.8% chance of all of them being positive, even if all factors were the same throughout.
->>> 23.8% seems like the probability of getting 28 true negatives out of 28 true null hypotheses (with a 76.2% chance of at least one false positive).
->>> For what you're trying to calculate you need the true positive rate of the tests (the "statistical power"). (Power is often lower than the significance level, so it could reflect even more poorly on the matter.)
 >>> 
+>>> 23.8% seems like the probability of getting 28 true negatives out of 28 true null hypotheses (with a 76.2% chance of at least one false positive).
+>>> 
+>>> For what you're trying to calculate you need the true positive rate of the tests (the "statistical power"). (Power is often lower than the significance level, so it could reflect even more poorly on the matter.)
 
 ---
 

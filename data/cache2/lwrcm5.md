@@ -2,7 +2,7 @@
 
 * Author: u/Silver_Swift *
 * URL: https://www.royalroad.com/fiction/25442/doing-gods-work/chapter/638687/85-the-company-that-controls-the-world
-* Score: 14
+* Score: 11
 
 * Created: 2021-03-03T11:08:13
 

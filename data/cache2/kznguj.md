@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/kznguj/wip_the_new_humans_chapter_ninetynine_make_way/
-* Score: 9
+* Score: 7
 
 * Created: 2021-01-18T04:50:29
 
@@ -16,10 +16,9 @@ Next time, *New Humans* hits its hundreth chapter, with the Singular Elsa's Chri
 
 ### Comments:
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (8 days later)
 > 
 > Good news! Draft for the one hundredth chapter is *done*.
-> 
 
 ---
 

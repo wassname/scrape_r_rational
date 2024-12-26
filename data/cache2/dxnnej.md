@@ -16,29 +16,27 @@ PB is a fairly dark fantasy novel about power politics in a world dominated by w
 
 ### Comments:
 
-> **u/Brell4Evar** [+4] *
+> **u/Brell4Evar** [+4]  (a day later)
 > 
 > The spirits want something.  What is the shape of the world they would make?
-> I *like* this.  Very interesting, useful speculation.
 > 
+> I *like* this.  Very interesting, useful speculation.
 
-> **u/TrebarTilonai** [+3] *
+> **u/TrebarTilonai** [+3]  (a day later)
 > 
 > Excellent chapter! Finally getting some real info on magic and spirits, with some hints as to where this might be going.  
-
-> Wild mass guessing: Bal definitely doesn't have something as simple as a dead resh, and it's going to come out at the worst possible time.
 > 
+> Wild mass guessing: Bal definitely doesn't have something as simple as a dead resh, and it's going to come out at the worst possible time.
 
-> **u/Trustworth** [+3] *
+> **u/Trustworth** [+3]  (2 days later)
 > 
 > Clearly the answer to Ram's problem is to keep sticking more spirits in his head. If they're all arguing with each other about what to do, none of them can take control.
-> Classic [Three Stooges Syndrome](https://www.youtube.com/watch?v=gmBj8r1-fDo).
 > 
+> Classic [Three Stooges Syndrome](https://www.youtube.com/watch?v=gmBj8r1-fDo).
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (2 days later)
 >> 
 >> I suspect you have not thought through the [longer-term implications](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon) of this.
->> 
 
 ---
 

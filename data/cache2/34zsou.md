@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: https://www.reddit.com/r/rational/comments/34zsou/searching_for_a_beta_reader/
-* Score: 6
+* Score: 7
 
 * Created: 2015-05-05T22:36:50
 
@@ -26,33 +26,31 @@ Sagebrysh
 
 ### Comments:
 
-> **u/Lugnut1206** [+1] *
+> **u/Lugnut1206** [+1]  (2 hours later)
 > 
 > What if you're *not* really into steampunk? I don't have a lot of experience with it as a genre. Would that give you a better perspective on the story, as I wouldn't be taking anything for granted?
-> Edit: missed that last paragraph there. Do you mean into reviewing or into that genre?
 > 
+> Edit: missed that last paragraph there. Do you mean into reviewing or into that genre?
 
->> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (2 hours later)
 >> 
 >> Into reviewing, you had it right. 
->> And it may actually help not having much experience with the genre. I want it to be able to be something that you could use as an entry into the genre, so yeah, it'll need to be approachable anyway, enjoying steampunk to begin with is just a nice plus :)
 >> 
+>> And it may actually help not having much experience with the genre. I want it to be able to be something that you could use as an entry into the genre, so yeah, it'll need to be approachable anyway, enjoying steampunk to begin with is just a nice plus :)
 
-> **u/Rhamni** [+1]  *Aspiring author**
+> **u/Rhamni** [+1]  *Aspiring author* (15 hours later)
 > 
 > The world sounds interesting. What's the plot/main characters like?
-> 
 
->> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (15 hours later)
 >> 
 >> The main character is named Riese, and she comes from a very simple agrarian culture that is in the process of attempting to violently overthrow their overlords.
->> 
 
-> **u/ianstlawrence** [+1] *
+> **u/ianstlawrence** [+1]  (7 days later)
 > 
 > I am interested. I should say that my type of editing is fairly intense, and I won't really hold back on my own opinions. However, I generate my opinions with the knowledge that you can take them or leave them. I, unfortunately, do not have a lot of time to write myself, but if you want to see some of the stuff I've written, and see if the tone, theme, and maybe literary power match what you think might be good for yourself, well, you can check some of my stuff here: https://www.fanfiction.net/u/2485237/iSaint
-> I definitely recommend being very careful with whom you give the title of "editor" or "beta-reader" to.
 > 
+> I definitely recommend being very careful with whom you give the title of "editor" or "beta-reader" to.
 
 ---
 

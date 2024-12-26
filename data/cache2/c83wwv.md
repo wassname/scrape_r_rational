@@ -2,7 +2,7 @@
 
 * Author: u/FormerlySarsaparilla *
 * URL: https://archiveofourown.org/works/18738010/chapters/46274350
-* Score: 23
+* Score: 22
 
 * Created: 2019-07-02T02:58:01
 
@@ -12,67 +12,57 @@
 
 ### Comments:
 
-> **u/danielparks** [+5] *
+> **u/danielparks** [+4]  (an hour later)
 > 
 > > It looked like a large metal cone with a black tip, 6 feet long and 2 feet wide at the base. There was something written on it but she couldn’t make it out in the scurry.
-> I think I should recognize the device on the pallet, but I don’t.
 > 
+> I think I should recognize the device on the pallet, but I don’t.
 
->> **u/FormerlySarsaparilla** [+2] *
+>> **u/FormerlySarsaparilla** [+2]  (an hour later)
 >> 
 >> Don't worry, probably not relevant!
->> 
 
-> **u/kreschnav** [+3] *
+> **u/kreschnav** [+3]  (2 hours later)
 > 
 > Are all the physical descriptions of the infomorphs based on Hollow Knight characters? I originally thought their depiction in the cover art was just a fun easter egg particular to the art itself, but now that Miss D is a dead ringer for Hornet, I'm not so sure.
-> 
 
->> **u/FormerlySarsaparilla** [+3] *
+>> **u/FormerlySarsaparilla** [+3]  (10 hours later)
 >> 
 >> Originally, no. Then I used some HK character art as reference images for the cover artist, and they became kind of fixed in my head when thinking about future vessels. Delmutt's current vessel is a direct nod to that influence, but we won't see much more of HK- too obscure to just obliquely reference. Which is a shame, because it's an amazing game.
->> 
 
-> **u/GrecklePrime** [+3] *
+> **u/GrecklePrime** [+3]  (3 hours later)
 > 
 > My money is on the piece of furniture being a wardrobe. Can't think of anything else relevant.
-> 
 
-> **u/farsan13** [+3] *
+> **u/farsan13** [+3]  (4 hours later)
 > 
 > >!The man in black fled across Wonderland, and the gunslinger followed.!<
-> 'Nuff said.
 > 
+> 'Nuff said.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (7 hours later)
 >> 
 >> whats it referencing?
->> 
 
->>> **u/farsan13** [+1] *
+>>> **u/farsan13** [+1]  (8 hours later)
 >>> 
 >>> The very first line of the first book of the Black Tower series, where Flagg is from.
->>> 
 
->>>> **u/RynnisOne** [+3] *
+>>>> **u/RynnisOne** [+3]  (a day later)
 >>>> 
 >>>> Also the very *last* line of the last book of the Dark Tower series.
->>>> 
 
-> **u/Gavinfoxx** [+3] *
+> **u/Gavinfoxx** [+3]  (7 hours later)
 > 
 > >!A trashy dragon/human romance novel? Now I kind of want to read that!!<
-> 
 
->> **u/iftttAcct2** [+1] *
+>> **u/iftttAcct2** [+1]  (2 days later)
 >> 
 >> There are quite [a few](https://www.goodreads.com/shelf/show/dragon-romance) out there, if you really want.
->> 
 
-> **u/CopperZirconium** [+2] *
+> **u/CopperZirconium** [+2]  (19 hours later)
 > 
 > I love how the metaphysics in this story are developing!
-> 
 
 ---
 

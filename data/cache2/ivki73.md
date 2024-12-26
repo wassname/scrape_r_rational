@@ -2,7 +2,7 @@
 
 * Author: u/CeruleanTresses *
 * URL: https://www.reddit.com/r/rational/comments/ivki73/secret_krampus_writing_contest_signups_have_ended/
-* Score: 22
+* Score: 23
 
 * Created: 2020-09-19T03:00:51
 
@@ -31,45 +31,40 @@ I think that's everything. I hope everyone has a good time writing their submiss
 
 ### Comments:
 
-> **u/timee_bot** [+1] *
+> **u/timee_bot** [+1]  (56 seconds later)
 > 
 > View in your timezone:  
 > [Sunday, October 18, 11:59PM EDT][0]  
-> [0]: https://timee.io/20201019T0359?tl=Secret%20Krampus%20writing%20contest%3A%20Signups%20have%20ended%2C%20story%20submission%20guidelines%20within!
-
-> ^(_*Assumed EDT instead of EST because DST is observed_)
 > 
+> [0]: https://timee.io/20201019T0359?tl=Secret%20Krampus%20writing%20contest%3A%20Signups%20have%20ended%2C%20story%20submission%20guidelines%20within!
+> 
+> ^(_*Assumed EDT instead of EST because DST is observed_)
 
-> **u/Ozryela** [+1] *
+> **u/Ozryela** [+1]  (11 hours later)
 > 
 > Whoops, I wanted to sign up for this. Oh well.
-> 
 
->> **u/CeruleanTresses** [+1] *
+>> **u/CeruleanTresses** [+1]  (11 hours later)
 >> 
 >> Ah, sorry :( Well, if another person turns out to be in the same boat as you, I could slide you both in and just give you each other's prompts. I don't think that would be unfair, if anything you'd be at a slight disadvantage because you'd have less of the month to work on it.
->> 
 
->>> **u/Ozryela** [+1] *
+>>> **u/Ozryela** [+1]  (12 hours later)
 >>> 
 >>> It's my own fault for not coming up with a good prompt in time and forgetting about it.
->>> But yeah, I guess I wouldn't mind late joining.
 >>> 
+>>> But yeah, I guess I wouldn't mind late joining.
 
->>>> **u/CeruleanTresses** [+2] *
+>>>> **u/CeruleanTresses** [+2]  (12 hours later)
 >>>> 
 >>>> Then let's hope one more person wants to as well! Go ahead and PM me your prompt in the meantime, and hopefully I'll get another one from someone that I can give to you.
->>>> 
 
->>>>> **u/TennisMaster2** [+1] *
+>>>>> **u/TennisMaster2** [+1]  (11 days later)
 >>>>> 
 >>>>> I'll join!
->>>>> 
 
->>>>>> **u/CeruleanTresses** [+2] *
+>>>>>> **u/CeruleanTresses** [+2]  (11 days later)
 >>>>>> 
 >>>>>> I haven't actually received a prompt from them yet, but go ahead and send me one and I'll see if I can slot you in.
->>>>>> 
 
 ---
 

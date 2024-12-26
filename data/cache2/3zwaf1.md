@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ZeroNihilist** [+1] *
+> **u/ZeroNihilist** [+1]  (2 hours later)
 > 
 > [Spoiler ](#s "Oh, so it might be an unfortunate interaction with the fake teacher antagonist that prevent's Marc's TA from giving him free reign. His prophetic powers lock Marc into one course of action.")
-> 
 
 ---
 

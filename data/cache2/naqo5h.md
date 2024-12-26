@@ -2,7 +2,7 @@
 
 * Author: u/lurinaa *
 * URL: https://www.reddit.com/r/rational/comments/naqo5h/rtwip_the_flower_that_bloomed_nowhere_part_45/
-* Score: 21
+* Score: 22
 
 * Created: 2021-05-12T14:56:50
 
@@ -20,31 +20,33 @@ If you're just picking up the story, it's a murder mystery about a group of trai
 
 ### Comments:
 
-> **u/JulianDelphiki2** [+2] *
+> **u/JulianDelphiki2** [+2]  (an hour later)
 > 
 > Ok, you made me laugh at a suicide attempt; you win.
-> Edit after finishing the chapter:
-> It seems things are really ramping up. I did not see that reveal coming.
 > 
+> Edit after finishing the chapter:
+> 
+> It seems things are really ramping up. I did not see that reveal coming.
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (8 hours later)
 > 
 > The opening scene was really well done. 
-> And then we get to follow that up with some nice deducting, which of course leads to even more questions. The mysteries are stacking and stacking, just the way I like it.
 > 
+> And then we get to follow that up with some nice deducting, which of course leads to even more questions. The mysteries are stacking and stacking, just the way I like it.
 
-> **u/nolrai** [+1] *
+> **u/nolrai** [+1]  (4 days later)
 > 
 > I love the world building here. The tongue isopod is obviously meant to be a mirror to the MC's situation. I wonder if the Manta Ray means anything.
-> Now I am really curious what the two possibilities beginning with D that Ran sees.
-> The start was hard to read, I just don't like living in that despairing space that the MC is in.
 > 
+> Now I am really curious what the two possibilities beginning with D that Ran sees.
+> 
+> The start was hard to read, I just don't like living in that despairing space that the MC is in.
 
->> **u/tjhance** [+2] *
+>> **u/tjhance** [+2]  (6 days later)
 >> 
 >> > Now I am really curious what the two possibilities beginning with D that Ran sees.
->> hm, I think it's a single 2-word phrase starting with a D. But I can't think of it either
 >> 
+>> hm, I think it's a single 2-word phrase starting with a D. But I can't think of it either
 
 ---
 

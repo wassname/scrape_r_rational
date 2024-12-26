@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://io9.com/10-great-novels-that-will-make-you-more-passionate-abou-1617655776
-* Score: 12
+* Score: 11
 
 * Created: 2014-08-07T18:01:33
 

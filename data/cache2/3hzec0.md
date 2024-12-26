@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.reddit.com/r/rational/comments/3hzec0/bstqhsf_how_to_parley_a_simple_superpower_into/
-* Score: 4
+* Score: 6
 
 * Created: 2015-08-22T16:36:46
 
@@ -43,587 +43,647 @@ When I gave 2YE away before publishing it, this was an issue for some people, so
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+4]  (59 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+4]  (an hour later)
 >> 
 >> Straight in the everyday sense that a ruler is straight.
->> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+6]  (an hour later)
 >>> 
 >>> Straightness isn't really a thing, though. Even a photon travelling through vacuum will curve in deformed space time. That implies that straightened objects are somehow straight as applied to an absolute reference frame, or that they've been imbued with absolute conceptual straightness that bypasses physics.
->>> 
 
->>>> **u/Charlie___** [+3] *
+>>>> **u/Charlie___** [+3]  (6 hours later)
 >>>> 
 >>>> There is absolutely a notion of straightness in GR - look up "parallel transport." The catch is that it's entirely local - a photon travels in straight line locally, but from a faraway perspective this can have curvelike properties (e.g. two straight paths can intersect more than once. Non-euclidean!).
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (22 hours later)
 >>>>> 
 >>>>> Than you!
->>>>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (an hour later)
 >>>> 
 >>>> Strictly speaking, you are correct, but I don't feel it's relevant to the situation at hand.  If it is, please show me what I'm missing.
->>>> 
 
-> **u/Anakiri** [+4] *
+> **u/Anakiri** [+4]  (6 hours later)
 > 
 > Threads have an infinite speed of sound? Alright. I'll go with the standard ladder "paradox", which I prefer to conceptualize as a train going through a train-length tunnel with doors on both ends. When the train is in the tunnel, Elly, standing in the middle with threads going both ways, closes and reopens both doors at the same time. The train is going so fast that it is length contracted, so it fits in the tunnel and everything is fine.
-> From the train's perspective, the tunnel is contracted, and the train *doesn't* fit. If the doors closed at the same time in this reference frame, the train will get damaged, and two reference frames can't disagree on whether that's happened! So, the train sees the front door close and reopen when it gets to it, then it passes through the tunnel, then the back door closes and reopens later. The conductor and Elly disagree on whether the doors were simultaneous, but they agree on all other observations.
-> Clever Elly ties a thread to the train. Using a hook or something, the train uses this thread to close the back door as soon as it sees the front door close in front of it. Since the train sees the tunnel as shorter than itself, this damages the caboose.
-> From Elly's perspective, the train (which does fit in the tunnel) is coming, then before it is completely inside, the back door damages it, pulling on her thread to the back door. She was going to wait for the train to be completely inside, so she receives this pull before she sends the pull to close the front door that the train is responding to.
-> How far back she can send a signal is limited only to how far she can munchkin her threads to go (maximum of 20 lightminutes if she doesn't affect a single thread beyond her range, arbitrarily far if she does) and how fast she can get them moving.
 > 
+> From the train's perspective, the tunnel is contracted, and the train *doesn't* fit. If the doors closed at the same time in this reference frame, the train will get damaged, and two reference frames can't disagree on whether that's happened! So, the train sees the front door close and reopen when it gets to it, then it passes through the tunnel, then the back door closes and reopens later. The conductor and Elly disagree on whether the doors were simultaneous, but they agree on all other observations.
+> 
+> Clever Elly ties a thread to the train. Using a hook or something, the train uses this thread to close the back door as soon as it sees the front door close in front of it. Since the train sees the tunnel as shorter than itself, this damages the caboose.
+> 
+> From Elly's perspective, the train (which does fit in the tunnel) is coming, then before it is completely inside, the back door damages it, pulling on her thread to the back door. She was going to wait for the train to be completely inside, so she receives this pull before she sends the pull to close the front door that the train is responding to.
+> 
+> How far back she can send a signal is limited only to how far she can munchkin her threads to go (maximum of 20 lightminutes if she doesn't affect a single thread beyond her range, arbitrarily far if she does) and how fast she can get them moving.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (8 hours later)
 >> 
 >> So, if she can arrange for a relativistic vehicle then maybe she could make this work, but under normal circumstances not.  Okay, good.
->>  > How far back she can send a signal is limited only to how far she can munchkin her threads to go (maximum of 20 lightminutes if she doesn't affect a single thread beyond her range, arbitrarily far if she does) 
->> I think you skipped a step, because I'm not following -- how are you getting 20 lightminutes?
 >> 
+>>  > How far back she can send a signal is limited only to how far she can munchkin her threads to go (maximum of 20 lightminutes if she doesn't affect a single thread beyond her range, arbitrarily far if she does) 
+>> 
+>> I think you skipped a step, because I'm not following -- how are you getting 20 lightminutes?
 
->>> **u/Anakiri** [+2] *
+>>> **u/Anakiri** [+2]  (14 hours later)
 >>> 
 >>> Even very slight causality violations can be daisy chained. Though quick back-of-the-envelope calculations say you're safe... A bullet going at 1200 m/s over 30 meters can send a signal back 4*10^(-13) seconds. Even if you made a big square of 8100 guns, that's still just a few nanoseconds. Elly would have to munchkin up another ten orders of magnitude to make it really useful. So she's at least not going to break Time in a weekend.
->>> The 20 lightminute figure probably comes from misreading the rules. If she squeezes an object so she doesn't have to concentrate on it, and it leaves her range, does the effect still hold? If so, she can throw out the ends of a thread to get up to that far. But on rereading, I think that's not what you intended.
 >>> 
+>>> The 20 lightminute figure probably comes from misreading the rules. If she squeezes an object so she doesn't have to concentrate on it, and it leaves her range, does the effect still hold? If so, she can throw out the ends of a thread to get up to that far. But on rereading, I think that's not what you intended.
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >> 
 >> That doesn't address this. The rigid object is not traveling at relativistic speeds. It can in fact be moving quite slowly.
->> 
 
-> **u/capsless** [+3]  *despiser of hpmor**
+> **u/capsless** [+3]  *despiser of hpmor* (an hour later)
 > 
 > if you're looking for a method for causality-breaking that relies on superluminal communication, you're looking for the [tachyonic antitelephone](https://en.m.wikipedia.org/wiki/Tachyonic_antitelephone). the difficulty is in the processing of messages within the small timeframe granted by the 100 foot (why are you measuring things in feet) diameter of the power, but modern processors have clock rates fast enough to perform many operations in that gap (and of course, so long as you're gaining some amount of time, you can iterate to go back to the initialization of the device). you would probably need to make many such devices run in parallel to avoid the extra time taken by serial processing.
-> that said... the premise doesn't imply the conclusion at all? """perfectly rigid""" doesn't make things somehow move faster than light.
 > 
+> that said... the premise doesn't imply the conclusion at all? """perfectly rigid""" doesn't make things somehow move faster than light.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (an hour later)
 >> 
 >> > why are you measuring things in feet
->> The story is set in the USA, and most people who purchase books from Amazon, B&N, etc are from the USA.  (This is per my actual purchase records.)
->> I actually thought about moving to metric because it would be much less of a pain, but it wouldn't be accurate to the setting.
 >> 
+>> The story is set in the USA, and most people who purchase books from Amazon, B&N, etc are from the USA.  (This is per my actual purchase records.)
+>> 
+>> I actually thought about moving to metric because it would be much less of a pain, but it wouldn't be accurate to the setting.
 
->> **u/None** [+2] *
+>> **u/None** [+3]  (an hour later)
 >> 
 >> [deleted]
->> 
 
->>> **u/capsless** [+7]  *despiser of hpmor**
+>>> **u/capsless** [+4]  *despiser of hpmor* (an hour later)
 >>> 
 >>> only if you happen to assume some sort of objective reference frame? like, every particle in the object is always in line, *from their own individual points of view*. there is no sense by which you can say, "oh, well, these things are simultaneous *even though they appear to happen at different times to literally every possible observer*". you're imposing concepts from classical mechanics on a relativistic universe and expecting the resulting model to be consistent.
->>> see https://en.wikipedia.org/wiki/Relativity_of_simultaneity
 >>> 
+>>> see https://en.wikipedia.org/wiki/Relativity_of_simultaneity
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (2 hours later)
 >>>> 
 >>>> This is what I was trying to communicate earlier. You can't say that something is perfectly straight and rigid when any possible observer would see it bending.
->>>> 
 
->>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (an hour later)
 >>> 
 >>> My brother and I once discussed the repercussions of perfectly rigid materials. I claimed it would never have a temperature, since there is no incoherent motion in such a system.
->>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (an hour later)
 >>>> 
 >>>> That's actually a point that I address.  Mostly by having one of the characters go "argh, this makes no sense!  If it's perfectly rigid it should be at absolute zero!"
->>>> Basically, once you're talking about physics-breaking superpowers, you just have to resort to "it's magic!" after a certain point.  My intent is that things break physics within their defined effect but need to obey physics outside of that.
 >>>> 
+>>>> Basically, once you're talking about physics-breaking superpowers, you just have to resort to "it's magic!" after a certain point.  My intent is that things break physics within their defined effect but need to obey physics outside of that.
 
->>>>> **u/None** [+4] *
+>>>>> **u/None** [+2]  (2 hours later)
 >>>>> 
 >>>>> If it's perfectly rigid, though, it's a perfect insulator, so while it would technically be absolute zero-ish, it would practically feel as if it had no temperature at all, or was the same temperature as the environment - no heat transfer whatsoever.
->>>>> This is a bit of a side note, but giving your main character a power that allows her to instantly disable anybody wearing pants seems like it would encourage anyone hoping to hurt her to fight naked, or at least with no cloth around the major joints.
 >>>>> 
+>>>>> This is a bit of a side note, but giving your main character a power that allows her to instantly disable anybody wearing pants seems like it would encourage anyone hoping to hurt her to fight naked, or at least with no cloth around the major joints.
 
->>>>>> **u/protagnostic** [+3] *
+>>>>>> **u/protagnostic** [+3]  (6 hours later)
 >>>>>> 
 >>>>>> Or wearing non-woven fabrics like, say, spandex. AND NOW WE HAVE A REASON FOR SUPERHERO COSTUMES HUZZAH
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+2] *
+>>>>>>> **u/eaglejarl** [+2]  (7 hours later)
 >>>>>>> 
 >>>>>>> Heh.  Just as long as there's [no capes!](https://www.youtube.com/watch?v=M68ndaZSKa8&t=2m10s)
->>>>>>> Although, actually, spandex can be justified for heroes that have a power with a short-range field -- in some versions, Superman wears spandex because things that are tight against his skin enjoy his invulnerability.
->>>>>>> In Elly's case though, it's much simpler:  wear anything that isn't plant-based.  Silk, polyester, wool, etc.
 >>>>>>> 
+>>>>>>> Although, actually, spandex can be justified for heroes that have a power with a short-range field -- in some versions, Superman wears spandex because things that are tight against his skin enjoy his invulnerability.
+>>>>>>> 
+>>>>>>> In Elly's case though, it's much simpler:  wear anything that isn't plant-based.  Silk, polyester, wool, etc.
 
->>>>>>>> **u/Kuratius** [+1] *
+>>>>>>>> **u/Kuratius** [+1]  (10 hours later)
 >>>>>>>> 
 >>>>>>>> I think you could probably stretch the amount of materials that count as plant-based, simply because it's not a very strict separator if you deliberately blur the lines.
->>>>>>>> On and don't let the MC anywhere near a friendly biokinetic (or anyone with some power over genetics, really), because that could easily end up in confusing the MCs power to accept most if not all carbon based materials as plant-based, including collagen and human hair and molecules that grant the human body and cells structure in general.
->>>>>>>> This could easily escalate further unless you use a deus ex machina tool like the Manton limit and/or shard intelligence like in worm.
 >>>>>>>> 
+>>>>>>>> On and don't let the MC anywhere near a friendly biokinetic (or anyone with some power over genetics, really), because that could easily end up in confusing the MCs power to accept most if not all carbon based materials as plant-based, including collagen and human hair and molecules that grant the human body and cells structure in general.
+>>>>>>>> 
+>>>>>>>> This could easily escalate further unless you use a deus ex machina tool like the Manton limit and/or shard intelligence like in worm.
 
->>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> **u/eaglejarl** [+1]  (10 hours later)
 >>>>>>>>> 
 >>>>>>>>> > This could easily escalate further unless you use a deus ex machina tool like the Manton limit and/or shard intelligence like in worm.
->>>>>>>>> I actually do have something similar to the Manton effect, but it only applies to supers.  A telekinetic can't do anything inside a super's body, but could rip a Normal's heart out.  This isn't author fiat...there's an actual in-universe reason for it that could theoretically be munchkined.
 >>>>>>>>> 
+>>>>>>>>> I actually do have something similar to the Manton effect, but it only applies to supers.  A telekinetic can't do anything inside a super's body, but could rip a Normal's heart out.  This isn't author fiat...there's an actual in-universe reason for it that could theoretically be munchkined.
 
->>>>>>>> **u/boomfarmer** [+1]  *Trying to be helpful**
+>>>>>>>> **u/boomfarmer** [+1]  *Trying to be helpful* (a day later)
 >>>>>>>> 
 >>>>>>>> What if the animal producing the fibers has chloroplasts? Is it a plant then?
->>>>>>>> 
 
->>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> You people and your difficult questions!  
->>>>>>>>> (EDIT:  In case it was unclear, that's code for "I have no idea." ;> )
 >>>>>>>>> 
+>>>>>>>>> (EDIT:  In case it was unclear, that's code for "I have no idea." ;> )
 
->>>>> **u/Charlie___** [+2] *
+>>>>> **u/Charlie___** [+2]  (7 hours later)
 >>>>> 
 >>>>> Here's how a physicist who hasn't forgotten their basic thermodynamics might react to something perfectly rigid.
->>>>> Something perfectly rigid is something that has degrees of freedom (ways it can have energy) limited to the modes of macroscopic motion. That is, its energy can only be from moving (three [quadratic] degrees of freedom) or from rotating (three more degrees of freedom). It's just like a water molecule at room temperature. It's not going to be at absolute zero: temperature is defined in equilibrium (that means, when everything has been left alone and let to settle down) by the amount of energy per degree of freedom. Since this thing has six perfectly good degrees of freedom, it's going to have a well-defined temperature. As soon as you pick it up and wave it around, it's not in equilibrium anymore and so different notions of temperature will give different answers (some of which will be "undefined") but the same thing would happen for a water molecule. What's special is that this object will have an incredibly low thermal mass (how much heat it takes to warm up when cold, or how much heat it radiates before cooling down when hot) - the same thermal mass as one water molecule!
->>>>> What's interesting about this object is that it's still the same color. Color, as you know, comes from absorbing part of white light. And absorbing light is a way that something can have energy - it means there's still some degrees of freedom here! They're just locked out at high energy (or magic has happened). Assuming that this rigid object is kept rigid by some finite potential (in accordance with it not changing color), it should be possible to determine the strength of this potential b thermodynamic measurements, spectroscopy, or mechanical measurement. If that's not possible, then *that*'s magic.
 >>>>> 
+>>>>> Something perfectly rigid is something that has degrees of freedom (ways it can have energy) limited to the modes of macroscopic motion. That is, its energy can only be from moving (three [quadratic] degrees of freedom) or from rotating (three more degrees of freedom). It's just like a water molecule at room temperature. It's not going to be at absolute zero: temperature is defined in equilibrium (that means, when everything has been left alone and let to settle down) by the amount of energy per degree of freedom. Since this thing has six perfectly good degrees of freedom, it's going to have a well-defined temperature. As soon as you pick it up and wave it around, it's not in equilibrium anymore and so different notions of temperature will give different answers (some of which will be "undefined") but the same thing would happen for a water molecule. What's special is that this object will have an incredibly low thermal mass (how much heat it takes to warm up when cold, or how much heat it radiates before cooling down when hot) - the same thermal mass as one water molecule!
+>>>>> 
+>>>>> What's interesting about this object is that it's still the same color. Color, as you know, comes from absorbing part of white light. And absorbing light is a way that something can have energy - it means there's still some degrees of freedom here! They're just locked out at high energy (or magic has happened). Assuming that this rigid object is kept rigid by some finite potential (in accordance with it not changing color), it should be possible to determine the strength of this potential b thermodynamic measurements, spectroscopy, or mechanical measurement. If that's not possible, then *that*'s magic.
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> >  What's special is that this object will have an incredibly low thermal mass [...] different notions of temperature will give different answers (some of which will be "undefined") but the same thing would happen for a water molecule.
->>>>>> What would this mean in practical terms?  If a straightened thread is stuck in a fire, or if only part of it is stuck in a fire, what's going to happen?
->>>>>> > And absorbing light is a way that something can have energy - it means there's still some degrees of freedom here! They're just locked out at high energy
->>>>>> Can you unpack that for me?  It sounds interesting, but I don't understand it.
 >>>>>> 
+>>>>>> What would this mean in practical terms?  If a straightened thread is stuck in a fire, or if only part of it is stuck in a fire, what's going to happen?
+>>>>>> 
+>>>>>> > And absorbing light is a way that something can have energy - it means there's still some degrees of freedom here! They're just locked out at high energy
+>>>>>> 
+>>>>>> Can you unpack that for me?  It sounds interesting, but I don't understand it.
 
->>>>>>> **u/Charlie___** [+3] *
+>>>>>>> **u/Charlie___** [+3]  (9 hours later)
 >>>>>>> 
 >>>>>>> > What would this mean in practical terms? If a straightened thread is stuck in a fire, or if only part of it is stuck in a fire, what's going to happen?
->>>>>>> Well, it's going to be a very good insulator (though not quite perfect). You should be able to put one end anywhere you like, and have the other end still be safe to hold. As for whether it would burn - well, it absorbs light, so it should still undergo chemical reactions - they're basically the same thing :P
->>>>>>> > Can you unpack that for me? It sounds interesting, but I don't understand it.
->>>>>>> In classical thermodynamics, every degree of freedom is equally important (insert disclaimer about quadratic potentials you don't need to understand). Imagine a tiny ball sitting at the bottom of a teaspoon. Along the long direction of the spoon, the ball can roll farther because the slope is gentler. Along the short direction of the spoon it can't roll as far. But the ball will roll equally *high* along both directions - all degrees of freedom will store the same amount of energy. In quantum mechanics, this is not necessarily true.
->>>>>>> Imagine a water molecule as three balls, connected by two springs (the springs being electromagnetism). You can store energy in the motion of the water molecule, or its rotation, but you can also store energy in the vibration of the springs. If the water molecule was classical, rather than quantum mechanical, we'd therefore expect 9 degrees of freedom.
->>>>>>> But in the real world, at room temperature, water molecules actually do not vibrate! (Well, much.) This is because in quantum mechanics, states can be discrete. They can have energy gaps in between them. And if the energy gap is big relative to the average thermal energy per degree of freedom, that state can be "frozen out."
->>>>>>> All of which is to say, if you take a piece of string and you confine it in a strong enough potential, you can make it behave like it's a perfectly rigid single body. This is this minimally magic approach, and so it's the first thing one might try to test. And you can test it because if you heat it up enough, or shine on light with a short enough wavelength, you can access those states that were previously frozen out. The fact that the string doesn't change in color when straightened implies that visible light is sufficient to do this - the energy gap for small electronic excitations is less than 1 eV.
 >>>>>>> 
+>>>>>>> Well, it's going to be a very good insulator (though not quite perfect). You should be able to put one end anywhere you like, and have the other end still be safe to hold. As for whether it would burn - well, it absorbs light, so it should still undergo chemical reactions - they're basically the same thing :P
+>>>>>>> 
+>>>>>>> > Can you unpack that for me? It sounds interesting, but I don't understand it.
+>>>>>>> 
+>>>>>>> In classical thermodynamics, every degree of freedom is equally important (insert disclaimer about quadratic potentials you don't need to understand). Imagine a tiny ball sitting at the bottom of a teaspoon. Along the long direction of the spoon, the ball can roll farther because the slope is gentler. Along the short direction of the spoon it can't roll as far. But the ball will roll equally *high* along both directions - all degrees of freedom will store the same amount of energy. In quantum mechanics, this is not necessarily true.
+>>>>>>> 
+>>>>>>> Imagine a water molecule as three balls, connected by two springs (the springs being electromagnetism). You can store energy in the motion of the water molecule, or its rotation, but you can also store energy in the vibration of the springs. If the water molecule was classical, rather than quantum mechanical, we'd therefore expect 9 degrees of freedom.
+>>>>>>> 
+>>>>>>> But in the real world, at room temperature, water molecules actually do not vibrate! (Well, much.) This is because in quantum mechanics, states can be discrete. They can have energy gaps in between them. And if the energy gap is big relative to the average thermal energy per degree of freedom, that state can be "frozen out."
+>>>>>>> 
+>>>>>>> All of which is to say, if you take a piece of string and you confine it in a strong enough potential, you can make it behave like it's a perfectly rigid single body. This is this minimally magic approach, and so it's the first thing one might try to test. And you can test it because if you heat it up enough, or shine on light with a short enough wavelength, you can access those states that were previously frozen out. The fact that the string doesn't change in color when straightened implies that visible light is sufficient to do this - the energy gap for small electronic excitations is less than 1 eV.
 
->>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>> **u/eaglejarl** [+1]  (9 hours later)
 >>>>>>>> 
 >>>>>>>> So what are the implications of that?  Let's say that Elly hands you a 10' length of rigid clothesline and you want to learn as much as you can.  What tests would you throw at it, and what sort of results would you be looking for?
->>>>>>>> EDIT: 
->>>>>>>> > As for whether it would burn - well, it absorbs light, so it should still undergo chemical reactions - they're basically the same thing :P
->>>>>>>> Except it won't burn because *magic*.  (That's part of the power's effect.)   :P
 >>>>>>>> 
+>>>>>>>> EDIT: 
+>>>>>>>> 
+>>>>>>>> > As for whether it would burn - well, it absorbs light, so it should still undergo chemical reactions - they're basically the same thing :P
+>>>>>>>> 
+>>>>>>>> Except it won't burn because *magic*.  (That's part of the power's effect.)   :P
 
->>>>>>>>> **u/Charlie___** [+3] *
+>>>>>>>>> **u/Charlie___** [+3]  (10 hours later)
 >>>>>>>>> 
 >>>>>>>>> (Many of these measurements require smaller sample sizes - a half-centimeter square of cloth would be good for most.)
->>>>>>>>> The most important would be spectroscopy - the practice of shining electromagnetic waves at something, and seeing what gets absorbed (or scattered, or whatever). If there's a big gap between the "rigid" state and the first excitation, there should be "missing" absorption compared to normal clothesline at low energies (NMR, microwave, infrared). There might also be "extra" absorption at energies big enough to unfreeze those modes. If there's nothing fishy in the spectrum, this is either magic, or it means the stiffening-magic is letting the molecules move almost normally, and only operating at a macroscopic scale.
->>>>>>>>> This could be tested with thermodynamic measurements - the practice of heating something up and seeing how much energy that took. A perfectly rigid body is extremely easy to heat up, as we've sort of gone over - but if the molecules are still moving around on a microscopic scale, it would behave more like ordinary string.
->>>>>>>>> Either way, it's probably worth sending samples off to some microscopy labs to try and move microscopic pieces of it around, either by jamming a microscopic tip into it (AFM, nanoindenting, STM [may require special sample]) or by bombarding it with ions or high energy electrons (FIB, SEM, TEM [may require special sample]). If it has a normal heat capacity, I'd expect it to be be possible to move molecules around, if it has an anomalously low heat capacity, it will be impossible.
->>>>>>>>> If spectroscopy shows a gap, this would imply that there's some corresponding stiffness - if it's measurable, you can try and bend this thread and measure its deflection. Okay, now we definitely need a 10' clothesline, at least.
->>>>>>>>> Oh, and if she can do this with conducting thread (cloth of gold?), and it still stays shiny, shininess means mobile electrons! Definitely want to test the electronic properties. Or magnetic thread (cloth of... magnetite?) and magnetic properties.
 >>>>>>>>> 
+>>>>>>>>> The most important would be spectroscopy - the practice of shining electromagnetic waves at something, and seeing what gets absorbed (or scattered, or whatever). If there's a big gap between the "rigid" state and the first excitation, there should be "missing" absorption compared to normal clothesline at low energies (NMR, microwave, infrared). There might also be "extra" absorption at energies big enough to unfreeze those modes. If there's nothing fishy in the spectrum, this is either magic, or it means the stiffening-magic is letting the molecules move almost normally, and only operating at a macroscopic scale.
+>>>>>>>>> 
+>>>>>>>>> This could be tested with thermodynamic measurements - the practice of heating something up and seeing how much energy that took. A perfectly rigid body is extremely easy to heat up, as we've sort of gone over - but if the molecules are still moving around on a microscopic scale, it would behave more like ordinary string.
+>>>>>>>>> 
+>>>>>>>>> Either way, it's probably worth sending samples off to some microscopy labs to try and move microscopic pieces of it around, either by jamming a microscopic tip into it (AFM, nanoindenting, STM [may require special sample]) or by bombarding it with ions or high energy electrons (FIB, SEM, TEM [may require special sample]). If it has a normal heat capacity, I'd expect it to be be possible to move molecules around, if it has an anomalously low heat capacity, it will be impossible.
+>>>>>>>>> 
+>>>>>>>>> If spectroscopy shows a gap, this would imply that there's some corresponding stiffness - if it's measurable, you can try and bend this thread and measure its deflection. Okay, now we definitely need a 10' clothesline, at least.
+>>>>>>>>> 
+>>>>>>>>> Oh, and if she can do this with conducting thread (cloth of gold?), and it still stays shiny, shininess means mobile electrons! Definitely want to test the electronic properties. Or magnetic thread (cloth of... magnetite?) and magnetic properties.
 
->>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>> **u/None** [+2]  (18 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I just want to say, I've learned more from reading this thread about thermodynamics than I have from...anywhere else, really. I'm going to need to think about this a bit and do some research, but thank you for presenting it so effectively.
->>>>>>>>>> 
 
->>>>>>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>>>>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (18 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> It's interesting to imagine how a body can be 'absolutely invulnerable' on microscopic scale. 
->>>>>>>>>> Can charged particles still exchange photons? Do chemical bonds that make up the lattice still make sense? If the material does not become intangible, then it must still interact electrodynamically, right? If so, then there must be a boatload of internal degrees of freedom and all the thermodynamics that comes with them. What happens if you add an 'extra' electron to an absolutely invulnerable semiconductor? Can you tear an electron away from an invulnerable material? Can you tear away all the electrons? If the object retains the colour upon transformation, then it must still absorb photons, so where does the energy go when it does? If it goes to the particles making up the material, then what happens when you heat it up enough for the fusion/fission to start? 
->>>>>>>>>> The power described, as per usual with these things, is an omnipotent black box that does arbitrary things based on how a human brain interprets reality on macro scale, regardless of how reality actually works. It's a safe bet that you can achieve FTL (and probably time travel) with it.
 >>>>>>>>>> 
+>>>>>>>>>> Can charged particles still exchange photons? Do chemical bonds that make up the lattice still make sense? If the material does not become intangible, then it must still interact electrodynamically, right? If so, then there must be a boatload of internal degrees of freedom and all the thermodynamics that comes with them. What happens if you add an 'extra' electron to an absolutely invulnerable semiconductor? Can you tear an electron away from an invulnerable material? Can you tear away all the electrons? If the object retains the colour upon transformation, then it must still absorb photons, so where does the energy go when it does? If it goes to the particles making up the material, then what happens when you heat it up enough for the fusion/fission to start? 
+>>>>>>>>>> 
+>>>>>>>>>> The power described, as per usual with these things, is an omnipotent black box that does arbitrary things based on how a human brain interprets reality on macro scale, regardless of how reality actually works. It's a safe bet that you can achieve FTL (and probably time travel) with it.
 
->>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>> **u/eaglejarl** [+2]  (21 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > The power described, as per usual with these things, is an omnipotent black box that does arbitrary things based on how a human brain interprets reality on macro scale,
->>>>>>>>>>> Yep.  Unless you're a top-drawer physicist, it's very difficult to write superpowers that work in any other way, and very few top-drawer physicists are good fiction authors.  For that matter, I'm not certain that it's *possible* to write mathematically-defined superpowers, since once you start breaking a single piece of physics everything else falls apart.  I sure wish I could write -- or at least read -- that story though.  It would be fascinating.
 >>>>>>>>>>> 
+>>>>>>>>>>> Yep.  Unless you're a top-drawer physicist, it's very difficult to write superpowers that work in any other way, and very few top-drawer physicists are good fiction authors.  For that matter, I'm not certain that it's *possible* to write mathematically-defined superpowers, since once you start breaking a single piece of physics everything else falls apart.  I sure wish I could write -- or at least read -- that story though.  It would be fascinating.
 
->>>>>>>>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>>>>>>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (22 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> For an example of a mathematically defined superpower consider this:
->>>>>>>>>>>> A power that changes a fine-structure constant in a volume between two cross-sections (the coordinates of the cut determined by the user) of light-cone from the reference point somewhere around the user's head. It's still a tad underspecified, but can be improved until there is almost no ambiguity (except the actual interaction that changes the constant, naturally).
->>>>>>>>>>>> The important thing here is that the power does not mess with the laws, but tweaks the parameters, so one can examine the consequences within the existing framework, instead of inventing physics anew.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> A power that changes a fine-structure constant in a volume between two cross-sections (the coordinates of the cut determined by the user) of light-cone from the reference point somewhere around the user's head. It's still a tad underspecified, but can be improved until there is almost no ambiguity (except the actual interaction that changes the constant, naturally).
+>>>>>>>>>>>> 
+>>>>>>>>>>>> The important thing here is that the power does not mess with the laws, but tweaks the parameters, so one can examine the consequences within the existing framework, instead of inventing physics anew.
 
->>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>> **u/eaglejarl** [+2]  (23 hours later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> That's a good example of something that's simply defined, but it leaves a lot of problems for use in fiction.  Leaving aside all the definitional questions (what happens at the boundaries, is the change instantaneous, etc), you have these two fundamental issues:
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> * What, *exactly*, does it do when he uses it?
 >>>>>>>>>>>>> * More importantly:  how do you explain it to the reader?
->>>>>>>>>>>>> [Sanderson's First Law](http://brandonsanderson.com/sandersons-first-law/) is "your ability to solve problems with magic is directly proportional to how well the reader understands the magic."  This cuts both ways -- if I say that my character can "make strings be straight", the reader knows what that means and I can get on with the story.  If I say my character "can alter the fine structure constant" then I have to have a discussion like this:
->>>>>>>>>>>>> Bob:  So, what can you do? 
->>>>>>>>>>>>> Al:  I can alter the fine structure constant!
->>>>>>>>>>>>> Bob:  Uh...cool?  I guess?
->>>>>>>>>>>>> Al:  It's a constant in physics that defines the strength of electromagnetic interactions between elementary particles.
->>>>>>>>>>>>> Bob:  Oh.  Uh...okay.  So, what can it actually *do*?  Can you energy blast the bad guys, cut through the wall, become intangible, turn invisible, what?
-
->>>>>>>>>>>>> I actually have a character in my character bank whose power is "within a defined volume, one physics equation is inverted."  So, for example, `F = 1/ma`.  He then blows on someone very gently and it creates a large force.  Actually using him is problematic, as mentioned above -- unless the reader has a good background in physics, they won't understand how he's doing what he's doing and his powers will look like a series of massive hat-pulls.  It's a power that's incredible useful for munchkining but that, paradoxically, I *can't* munchkin because the audience wouldn't get it.  It's frustrating, but I keep him around anyway; he was a Champions character of mine in college, and I love the idea.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> [Sanderson's First Law](http://brandonsanderson.com/sandersons-first-law/) is "your ability to solve problems with magic is directly proportional to how well the reader understands the magic."  This cuts both ways -- if I say that my character can "make strings be straight", the reader knows what that means and I can get on with the story.  If I say my character "can alter the fine structure constant" then I have to have a discussion like this:
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Bob:  So, what can you do? 
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Al:  I can alter the fine structure constant!
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Bob:  Uh...cool?  I guess?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Al:  It's a constant in physics that defines the strength of electromagnetic interactions between elementary particles.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Bob:  Oh.  Uh...okay.  So, what can it actually *do*?  Can you energy blast the bad guys, cut through the wall, become intangible, turn invisible, what?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> I actually have a character in my character bank whose power is "within a defined volume, one physics equation is inverted."  So, for example, `F = 1/ma`.  He then blows on someone very gently and it creates a large force.  Actually using him is problematic, as mentioned above -- unless the reader has a good background in physics, they won't understand how he's doing what he's doing and his powers will look like a series of massive hat-pulls.  It's a power that's incredible useful for munchkining but that, paradoxically, I *can't* munchkin because the audience wouldn't get it.  It's frustrating, but I keep him around anyway; he was a Champions character of mine in college, and I love the idea.
 
->>>>>>>>>>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>>>>>>>>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> I see your point. Still, the fact that most readers would not understand the implications of such a power can be used to make the story more engaging. The reader can find out about the power at the same pace as protagonist does. Imagine the protagonist running experiments trying to determine what the hell the power actually does, well that's some educational rationalist fiction just waiting to happen. 
->>>>>>>>>>>>>> As for what the power will do, one can always crowdsource it on the internet, if one's physics-fu is weak. My example is actually pretty interesting as far as I can see:
->>>>>>>>>>>>>> * Significantly reducing fine-structure constant would pretty much make the matter disintegrate into plasma of electrons and bare atomic nuclei. The nuclei should then begin fusing.
->>>>>>>>>>>>>> * Significantly increasing it would make it impossible for nuclei to remain stable and they would split into lighter ones. This would probably result in everything exploding and eventually cooling down into a cloud of hydrogen.
->>>>>>>>>>>>>> * The most interesting one: slightly tweaking it. This would shift the energy levels in atoms and subtly affect chemistry without everything exploding immediately.
->>>>>>>>>>>>>> You should probably ask an actually qualified person like su3su2u1 if you ever decide to try doing this, since I'm just an engineer and not that good of a physicist. Anyway, I think there is a good rational story to be had with such superpowers. Sure, it's a bit more involved than controlling bugs, but that can be a good thing.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> As for what the power will do, one can always crowdsource it on the internet, if one's physics-fu is weak. My example is actually pretty interesting as far as I can see:
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> * Significantly reducing fine-structure constant would pretty much make the matter disintegrate into plasma of electrons and bare atomic nuclei. The nuclei should then begin fusing.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> * Significantly increasing it would make it impossible for nuclei to remain stable and they would split into lighter ones. This would probably result in everything exploding and eventually cooling down into a cloud of hydrogen.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> * The most interesting one: slightly tweaking it. This would shift the energy levels in atoms and subtly affect chemistry without everything exploding immediately.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> You should probably ask an actually qualified person like su3su2u1 if you ever decide to try doing this, since I'm just an engineer and not that good of a physicist. Anyway, I think there is a good rational story to be had with such superpowers. Sure, it's a bit more involved than controlling bugs, but that can be a good thing.
 
->>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>> **u/eaglejarl** [+2]  (a day later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> > well that's some educational rationalist fiction just waiting to happen.
->>>>>>>>>>>>>>> That's a very good point.  Let me chew on it a bit and I'll see what I can make of it.  I'd love to be able to use Polarity in a story.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> That's a very good point.  Let me chew on it a bit and I'll see what I can make of it.  I'd love to be able to use Polarity in a story.
 
->>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> > [lots of science]
->>>>>>>>>> Okay, that's very cool and I'm going to need to spend time researching and thinking before I can meaningfully respond.  Thank you very much for this; I appreciate you taking the time.
-
->>>>>>>>>> > Oh, and if she can do this with conducting thread (cloth of gold?), and it still stays shiny, shininess means mobile electrons! Definitely want to test the electronic properties. Or magnetic thread (cloth of... magnetite?) and magnetic properties.
->>>>>>>>>> She definitely can't do that -- I deliberately limited it to not include things with 'interesting properties' like that.  Originally I said "anything organic", then I later narrowed it to "anything plant-based" in an effort to nerf it.  I think I haven't nerfed it enough, though.
 >>>>>>>>>> 
+>>>>>>>>>> Okay, that's very cool and I'm going to need to spend time researching and thinking before I can meaningfully respond.  Thank you very much for this; I appreciate you taking the time.
+>>>>>>>>>> 
+>>>>>>>>>> > Oh, and if she can do this with conducting thread (cloth of gold?), and it still stays shiny, shininess means mobile electrons! Definitely want to test the electronic properties. Or magnetic thread (cloth of... magnetite?) and magnetic properties.
+>>>>>>>>>> 
+>>>>>>>>>> She definitely can't do that -- I deliberately limited it to not include things with 'interesting properties' like that.  Originally I said "anything organic", then I later narrowed it to "anything plant-based" in an effort to nerf it.  I think I haven't nerfed it enough, though.
 
->> **u/HelperBot_** [+1] *
+>> **u/HelperBot_** [+1]  (an hour later)
 >> 
 >> Non-Mobile link: https://en.wikipedia.org/wiki/Tachyonic_antitelephone
 >> ***
 >> ^HelperBot_™ ^v1.0 ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^9802
->> 
 
-> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (3 hours later)
 > 
 > I thought about this issue when reading Vinge's _Bobble_ series. If time stops in the bobble, the bobble is perfectly rigid. A bobble, or a chain of bobbles, could be used to send a message faster than light.
-> Or, if they're not perfectly rigid, then you can create an upper bound to how slow time passes inside the bobble.
-> In the process of trying to figure that out, I thought about time travel. The problem, I thought, is that to get time travel out of FTL signalling you need to be able to send the signals from an object traveling at a significant velocity with respect to the receiver. This practically rules out signalling through rigid bodies.
 > 
+> Or, if they're not perfectly rigid, then you can create an upper bound to how slow time passes inside the bobble.
+> 
+> In the process of trying to figure that out, I thought about time travel. The problem, I thought, is that to get time travel out of FTL signalling you need to be able to send the signals from an object traveling at a significant velocity with respect to the receiver. This practically rules out signalling through rigid bodies.
 
-> **u/philip1201** [+3] *
+> **u/philip1201** [+3]  (5 hours later)
 > 
 > >I'm trying to picture a machine that could be built under these constraints that would send a signal back a useful amount of time. Any thoughts?
-> It depends on what reference frame "can't be deformed" is declared in. If it's in some privileged reference frame, e.g. Elly's, no information can travel backwards in Elly's time.
-> If it's the wire's own reference frame, I think I have one:
-> Take two sets of electrically charged, fortified pieces of fiber string. Send them in opposite directions through a synchrotron at relativistic velocities, keeping the distance between fibers less than the length of the fibers.
-> If you push one fiber at the front, it'll move instantaneously according to its own reference frame at the back, which is slightly in the laboratory frame's past. Use a ridiculously fast mechanism to push the front side of a fiber moving in the opposite direction iff the backside of an earlier fiber is pushed. This pushes the back of the fiber, further in the laboratory frame's past. Use the same mechanism on that end to push the previous fiber, and you can send back messages arbitrarily far with as much data as the resolution of the mechanism.
-> So setting it to Elly's frame is probably best. And not that atrocious, since the effect does have a distance limit.
-> Further thoughts:
-> A line can be declared straight if it follows the trajectory of a photon.
-> How are knots or braids resolved?
-> When is a bundle of fibers declared a single, larger rope?
-> how strong are the forces applied in straightening? Can it cut through water? Syrup? Custard? Fat? Muscle? Bone? Wood? Steel? ...
 > 
+> It depends on what reference frame "can't be deformed" is declared in. If it's in some privileged reference frame, e.g. Elly's, no information can travel backwards in Elly's time.
+> 
+> If it's the wire's own reference frame, I think I have one:
+> 
+> Take two sets of electrically charged, fortified pieces of fiber string. Send them in opposite directions through a synchrotron at relativistic velocities, keeping the distance between fibers less than the length of the fibers.
+> 
+> If you push one fiber at the front, it'll move instantaneously according to its own reference frame at the back, which is slightly in the laboratory frame's past. Use a ridiculously fast mechanism to push the front side of a fiber moving in the opposite direction iff the backside of an earlier fiber is pushed. This pushes the back of the fiber, further in the laboratory frame's past. Use the same mechanism on that end to push the previous fiber, and you can send back messages arbitrarily far with as much data as the resolution of the mechanism.
+> 
+> So setting it to Elly's frame is probably best. And not that atrocious, since the effect does have a distance limit.
+> 
+> Further thoughts:
+> 
+> A line can be declared straight if it follows the trajectory of a photon.
+> 
+> How are knots or braids resolved?
+> 
+> When is a bundle of fibers declared a single, larger rope?
+> 
+> how strong are the forces applied in straightening? Can it cut through water? Syrup? Custard? Fat? Muscle? Bone? Wood? Steel? ...
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (6 hours later)
 >> 
 >> > So setting it to Elly's frame is probably best. And not that atrocious, since the effect does have a distance limit.
->> I'm having trouble envisioning exactly how the mechanism you're describing would work, but I totally agree -- setting it to Elly's frame (a) makes sense and (b) gets me out of having to deal with time travel messages, which I really did *not* want to deal with.  
->> > A line can be declared straight if it follows the trajectory of a photon.
->> Makes sense.  I'm not sure if it will become relevant, but that's the definition I'll use.  Thank you.
->> > How are knots or braids resolved?
->> Gnimhey asked about this below and I saw his/her post first, so I [answered there.](https://www.reddit.com/r/rational/comments/3hzec0/bstqhsf_how_to_parley_a_simple_superpower_into/cuc9gbh)  Short answer is that the knot is pulled ultratight.
->> > When is a bundle of fibers declared a single, larger rope?
->> Look!  Shiny object!
->> > how strong are the forces applied in straightening? 
->> Very.
->> > Can it cut through water? Syrup? Custard? Fat? Muscle? Bone? Wood? Steel? ...
->> Yes.
 >> 
+>> I'm having trouble envisioning exactly how the mechanism you're describing would work, but I totally agree -- setting it to Elly's frame (a) makes sense and (b) gets me out of having to deal with time travel messages, which I really did *not* want to deal with.  
+>> 
+>> > A line can be declared straight if it follows the trajectory of a photon.
+>> 
+>> Makes sense.  I'm not sure if it will become relevant, but that's the definition I'll use.  Thank you.
+>> 
+>> > How are knots or braids resolved?
+>> 
+>> Gnimhey asked about this below and I saw his/her post first, so I [answered there.](https://www.reddit.com/r/rational/comments/3hzec0/bstqhsf_how_to_parley_a_simple_superpower_into/cuc9gbh)  Short answer is that the knot is pulled ultratight.
+>> 
+>> > When is a bundle of fibers declared a single, larger rope?
+>> 
+>> Look!  Shiny object!
+>> 
+>> > how strong are the forces applied in straightening? 
+>> 
+>> Very.
+>> 
+>> > Can it cut through water? Syrup? Custard? Fat? Muscle? Bone? Wood? Steel? ...
+>> 
+>> Yes.
 
->>> **u/dmzmd** [+2] *
+>>> **u/dmzmd** [+2]  (11 hours later)
 >>> 
 >>> If it follows the path of a photon does it bend when it enters the water?
->>> 
 
->>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (18 hours later)
 >>>> 
 >>>> I was just going to make that joke. The intent is to treat a photon like a particle that does not interact with anything ever and just goes along a geodesic in spacetime, obviously.
->>>> 
 
->>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!**
+>>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!* (2 days later)
 >>>>> 
 >>>>> Would a neutrino make for a better choice then?
->>>>> 
 
->>>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+>>>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption* (2 days later)
 >>>>>> 
 >>>>>> Neutrinos are not massless, so their travel describes time-like worldlines, instead of light-like of the photons. This introduces a variable into our definition of straight line (the energy of the neutrino), which is not that elegant.
->>>>>> Properly done, we'd want to abstract away from particles and define a 'straight line' in terms of geometry. To describe the chosen definition we invent a massless non-interacting particle, whose hypothetical worldline represents our 'straight line'. It just so happens that there is a particle almost like that in standard model, so we use it as a shorthand. For our purposes, actual particles don't matter, having an easy way to visualise a 'straight line' does.
 >>>>>> 
+>>>>>> Properly done, we'd want to abstract away from particles and define a 'straight line' in terms of geometry. To describe the chosen definition we invent a massless non-interacting particle, whose hypothetical worldline represents our 'straight line'. It just so happens that there is a particle almost like that in standard model, so we use it as a shorthand. For our purposes, actual particles don't matter, having an easy way to visualise a 'straight line' does.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (19 hours later)
 >>> 
 >>> What happens to a knotted thread when the power is released? Are the fibres crushed? What happens when a thread is tied in a loop, such as a bowline or an alpine butterfly? Is the loop pulled tight or is the loop expanded until the rope unknots?
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> > What happens to a knotted thread when the power is released?
->>>> It goes limp, and the knot is still as tight as it was.
->>>> > Are the fibres crushed? 
->>>> No, the super-reinforcement happens fast enough that the thread isn't damaged before pulling tight.
->>>> > What happens when a thread is tied in a loop, such as a bowline or an alpine butterfly? Is the loop pulled tight or is the loop expanded until the rope unknots?
->>>> Take a knot like that and yank the two ends in opposite directions -- that's what happens.  I'd need to check it with real knots, but I think what you would get is that the knot moves such that the loop shrinks some, but then the knot clamps down before the loop is entirely gone.
 >>>> 
+>>>> It goes limp, and the knot is still as tight as it was.
+>>>> 
+>>>> > Are the fibres crushed? 
+>>>> 
+>>>> No, the super-reinforcement happens fast enough that the thread isn't damaged before pulling tight.
+>>>> 
+>>>> > What happens when a thread is tied in a loop, such as a bowline or an alpine butterfly? Is the loop pulled tight or is the loop expanded until the rope unknots?
+>>>> 
+>>>> Take a knot like that and yank the two ends in opposite directions -- that's what happens.  I'd need to check it with real knots, but I think what you would get is that the knot moves such that the loop shrinks some, but then the knot clamps down before the loop is entirely gone.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (11 hours later)
 >>> 
 >>> One the superhuman scale of inviolable resistance, where does it fall globally? What happens when the equivalent of the Siberian, Alexandria, or Clockblocker collides with Elly's thread?
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (18 hours later)
 >>>> 
 >>>> Clockblocker could definitely freeze it, since (in my headcanon) he's affecting the time around an object instead of the object itself.
->>>> My current plan is that Alexandria couldn't bend it -- she's "just" superstrong, there's nothing special about her muscles being stronger.
->>>> The Siberian...I'm not sure I understand the Siberian's powers enough to be sure.  S/he is invulnerable and can spread that invulnerability to others, but I'm not clear on the strength aspect.  Anyone understand it better than I do?
 >>>> 
+>>>> My current plan is that Alexandria couldn't bend it -- she's "just" superstrong, there's nothing special about her muscles being stronger.
+>>>> 
+>>>> The Siberian...I'm not sure I understand the Siberian's powers enough to be sure.  S/he is invulnerable and can spread that invulnerability to others, but I'm not clear on the strength aspect.  Anyone understand it better than I do?
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (18 hours later)
 >>>>> 
 >>>>> I meant those as examples, but my point is, on the Quite Nearly Conceptual Effect Scale, where does "this thread is now rigid" fall? Would the "I can destroy anything" guy trump it? The "I can mutate the genetics of any plant fibre I touch" lady? The "I can create localized singularities" person?
->>>>> In Worm, we saw a variety of "absolute" effects - Contessa's "I win", Clockblocker, Foil, that relative position-fixer, etc. But when their semi-conceptual domains overlap, you have to have a hierarchy in place to figure out what happens.
->>>>> Is Elly the top dog in that respect, or are there characters that have overlapping domains which could trump her?
 >>>>> 
+>>>>> In Worm, we saw a variety of "absolute" effects - Contessa's "I win", Clockblocker, Foil, that relative position-fixer, etc. But when their semi-conceptual domains overlap, you have to have a hierarchy in place to figure out what happens.
+>>>>> 
+>>>>> Is Elly the top dog in that respect, or are there characters that have overlapping domains which could trump her?
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (21 hours later)
 >>>>>> 
 >>>>>> No, I understood what you meant, I was responding to the examples *as* examples.
->>>>>> I would say that within her own domain she is supreme -- no physical force is going to bend those strings.  On the other hand, other domains can work around her.  A space warper can change what "straight" means in order to put a bend in the string, a time manipulator could freeze the string in place, etc.
 >>>>>> 
+>>>>>> I would say that within her own domain she is supreme -- no physical force is going to bend those strings.  On the other hand, other domains can work around her.  A space warper can change what "straight" means in order to put a bend in the string, a time manipulator could freeze the string in place, etc.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (an hour later)
 > 
 > So, if she has a giant coil of thread a few miles long and uses her power on it, does it all go straight or does only the section in her radius after it's done spronging outwards go straight? If it's a thin enough thread, and she can control the orientation, boom, instant space elevator. This is FTL communication, even significant if the thread is on a planetary scale. Conventional stuff might have a problem, but if there are the equivalent of Tinkers in the setting that can create coherent nanothreads, then she could send a message to Mars in a second subjectively.
-> On the other hand, why aren't the threads subject to time dilation and length contraction?
 > 
+> On the other hand, why aren't the threads subject to time dilation and length contraction?
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (an hour later)
 >> 
 >> > So, if she has a giant coil of thread a few miles long and uses her power on it, does it all go straight or does only the section in her radius after it's done spronging outwards go straight?
->> Erm.  Have to admit, I hadn't thought of that possibility -- I've been working with ordinary-sized objects that she was holding or standing next to.  Let me get back to you on that.  (If you have thoughts about the implications either way, I'd be grateful to hear them.)
->> > On the other hand, why aren't the threads subject to time dilation and length contraction?
->> That...is a good question.  They would be.  Which I think puts paid to the whole "signal back in time" thing.
->> Good.  Honestly, I didn't want to have to deal with temporal messaging, I just felt that it needed to be addressed if it were possible; it's a rationalist story, and I would expect the people in it to munchkin the hell out of their powers.  If they have a chance to mess with time, they will.
 >> 
+>> Erm.  Have to admit, I hadn't thought of that possibility -- I've been working with ordinary-sized objects that she was holding or standing next to.  Let me get back to you on that.  (If you have thoughts about the implications either way, I'd be grateful to hear them.)
+>> 
+>> > On the other hand, why aren't the threads subject to time dilation and length contraction?
+>> 
+>> That...is a good question.  They would be.  Which I think puts paid to the whole "signal back in time" thing.
+>> 
+>> Good.  Honestly, I didn't want to have to deal with temporal messaging, I just felt that it needed to be addressed if it were possible; it's a rationalist story, and I would expect the people in it to munchkin the hell out of their powers.  If they have a chance to mess with time, they will.
 
->>> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (3 hours later)
 >>> 
 >>> Time dilation and length contraction are not issues because no part of the object has to move at relativistic speeds to send a message through it.
->>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 hours later)
 > 
 > If I were Elly, the first thing I'd do would be to either learn how to sew or hire a tailor and create versions of just about any object I might need that unfold into the object when straightened. She could even have something like an inflatable gun - the plush barrel, and a separate cord wound tightly around a core, with a bullet as well. Inflate the gun, aim, inflate the cord, and the only place the sudden line can go is out, propelling the bullet ahead of it. It's basically an obscenely overpowered spring gun, and anything that can fit in the barrel can be used.
-> Actually, she could probably impale just about anything by shooting a thread at it. Because rigid objects can't cut her, or indeed hurt her at all, she could perfectly easily climb up a micron-thick thread hand over hand.
-> Also, does the force reversal thing work reciprocally? Because if so, she can treat a rigid cloth table as a trampoline with perfect efficiency, bouncing upwards.
 > 
+> Actually, she could probably impale just about anything by shooting a thread at it. Because rigid objects can't cut her, or indeed hurt her at all, she could perfectly easily climb up a micron-thick thread hand over hand.
+> 
+> Also, does the force reversal thing work reciprocally? Because if so, she can treat a rigid cloth table as a trampoline with perfect efficiency, bouncing upwards.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (6 hours later)
 >> 
 >> > create versions of just about any object I might need that unfold into the object when straightened.
->> That is a ridiculously cool idea; thank you.  What name would you like listed on the acknowledgements page?
->> > Also, does the force reversal thing work reciprocally? Because if so, she can treat a rigid cloth table as a trampoline with perfect efficiency, bouncing upwards.
->> Yes, but she's only protected against the direct force of the object.  She'd still suffer g-force effects from that bounce.
 >> 
+>> That is a ridiculously cool idea; thank you.  What name would you like listed on the acknowledgements page?
+>> 
+>> > Also, does the force reversal thing work reciprocally? Because if so, she can treat a rigid cloth table as a trampoline with perfect efficiency, bouncing upwards.
+>> 
+>> Yes, but she's only protected against the direct force of the object.  She'd still suffer g-force effects from that bounce.
 
->>> **u/Geminii27** [+3] *
+>>> **u/Geminii27** [+3]  (13 hours later)
 >>> 
 >>> Even so, having bouncepads on the soles of her boots could be useful.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (21 hours later)
 >>>> 
 >>>> Very true.
->>>> Although, I'm realizing something...she's only immune to forces imparted by a straightened object, not to secondary interactions.  If one of her strings hits her in the face it's no big deal -- it just bounces off.  On the other hand, if it hits her *sleeve*...well, it's the cloth of her sleeve that is imparting the force to her, not the string itself.  She'd still end up injured in that case.
->>>> She could make shoes out of cloth, straighten them, and get bouncepads that way.  The protection only activates when she takes enough force to cause injury, so she'd be able to walk normally, but if she jumped off a three story building she'd hit the ground and bounce safely as long as the soles of her shoes were what made contact.
->>>> That's assuming that I leave her the ability to affect cloth, though.  The more I read this thread, the more I think that might be a bad idea.  Still, this is a very cool idea -- if I do end up using it, what name would you like to appear on the acknowledgements page?
 >>>> 
+>>>> Although, I'm realizing something...she's only immune to forces imparted by a straightened object, not to secondary interactions.  If one of her strings hits her in the face it's no big deal -- it just bounces off.  On the other hand, if it hits her *sleeve*...well, it's the cloth of her sleeve that is imparting the force to her, not the string itself.  She'd still end up injured in that case.
+>>>> 
+>>>> She could make shoes out of cloth, straighten them, and get bouncepads that way.  The protection only activates when she takes enough force to cause injury, so she'd be able to walk normally, but if she jumped off a three story building she'd hit the ground and bounce safely as long as the soles of her shoes were what made contact.
+>>>> 
+>>>> That's assuming that I leave her the ability to affect cloth, though.  The more I read this thread, the more I think that might be a bad idea.  Still, this is a very cool idea -- if I do end up using it, what name would you like to appear on the acknowledgements page?
 
->>>>> **u/Geminii27** [+1] *
+>>>>> **u/Geminii27** [+1]  (a day later)
 >>>>> 
 >>>>> Reddit username is fine. :)
->>>>> 
 
-> **u/ProperAttorney** [+2] *
+> **u/ProperAttorney** [+2]  (11 hours later)
 > 
 > With regard to
 > > any straightened object that hits her with a force above a certain threshold will bounce off. Specifically, the direction component of its velocity will be instantly flipped 180 degrees
-> Would this not provide her with a sort invincibility? All she has to do is wear a full coverage, skintight outfit and extend her power over it. If she gets shot, or hit in any significant way her suit would immediately 'hit her" and bounce back. I don't know if it would sort of vibrate as it moves back and forth from the point of impact, "hitting" the user and bouncing back repeatedly.
 > 
+> Would this not provide her with a sort invincibility? All she has to do is wear a full coverage, skintight outfit and extend her power over it. If she gets shot, or hit in any significant way her suit would immediately 'hit her" and bounce back. I don't know if it would sort of vibrate as it moves back and forth from the point of impact, "hitting" the user and bouncing back repeatedly.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (21 hours later)
 >> 
 >> >  I don't know if it would sort of vibrate as it moves back and forth from the point of impact, "hitting" the user and bouncing back repeatedly.
->> That is a very cool image.  After reading all the discussion in this thread I'm considering dropping her ability to affect cloth but, if I keep it in, I'll have this happen.  Assuming it does, what name would you like to appear on the acknowledgements page?
 >> 
+>> That is a very cool image.  After reading all the discussion in this thread I'm considering dropping her ability to affect cloth but, if I keep it in, I'll have this happen.  Assuming it does, what name would you like to appear on the acknowledgements page?
 
-> **u/None** [+2] *
+> **u/None** [+2]  (12 hours later)
 > 
 > I would suggest you change the power's definition of perfectly rigid to eliminate FTL effects. When you push one end of a straightened rope rod, the other end moves a speed-of-light delay later. With relativistic effects, it's not your rope that bends, it's space. Your rope is still straight within that space. So there are ways around your character's power. Vista can play with your toys.
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (17 hours later)
 >> 
 >> It's a plan.  Thanks for the point about Vista -- spacewarpers will eventually be a thing, and it will make for a good interaction.
->> 
 
-> **u/Geminii27** [+2] *
+> **u/Geminii27** [+2]  (13 hours later)
 > 
 > I can see how you'd get FTL out of it, but I'm not sure about time travel. While the two tend to be casually linked in popular culture, being able to travel FTL doesn't necessarily mean you'd be able to send a message from A to B back to A and have it arrive before it was sent.
-> I'd also want to see how the 'perfectly straight' designation applied to deformed space, because straightness depends on what framework you're measuring it by.
-> For example, one current thought about the universe is that it's spherical (with a twist) in four spacial dimensions, meaning that there is a finite volume but no edge (similar to how the Earth has a finite surface area but you can't fall off the edge of the world). Would a straightened object of sufficient length start to disappear from the universe the way it would appear to lift away from the Earth's surface (which is curved)? Or would it conform to the spacetime curve of the universe, appearing absolutely straight at any non-interplanetary lengths but being able to be bent by supermassive objects in the same way as light (ie the thread would always remain parallel to a laser beam, even if the beam got bent around a star or black hole - both would remain *optically* straight and straight according to local spacetime)?
-> I'd recommend using "straight according to spacetime", as it allows objects to appear perfectly straight at all normal day-to-day lengths while breaking far fewer physical laws.
-> (Note that this would probably mean it was only perfectly rigid within a lightspeed cone, too - so no FTL messaging, although lightspeed messaging is pretty good for daily superpower use.)
 > 
+> I'd also want to see how the 'perfectly straight' designation applied to deformed space, because straightness depends on what framework you're measuring it by.
+> 
+> For example, one current thought about the universe is that it's spherical (with a twist) in four spacial dimensions, meaning that there is a finite volume but no edge (similar to how the Earth has a finite surface area but you can't fall off the edge of the world). Would a straightened object of sufficient length start to disappear from the universe the way it would appear to lift away from the Earth's surface (which is curved)? Or would it conform to the spacetime curve of the universe, appearing absolutely straight at any non-interplanetary lengths but being able to be bent by supermassive objects in the same way as light (ie the thread would always remain parallel to a laser beam, even if the beam got bent around a star or black hole - both would remain *optically* straight and straight according to local spacetime)?
+> 
+> I'd recommend using "straight according to spacetime", as it allows objects to appear perfectly straight at all normal day-to-day lengths while breaking far fewer physical laws.
+> 
+> (Note that this would probably mean it was only perfectly rigid within a lightspeed cone, too - so no FTL messaging, although lightspeed messaging is pretty good for daily superpower use.)
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (17 hours later)
 >> 
 >> > I'd recommend using "straight according to spacetime", as it allows objects to appear perfectly straight at all normal day-to-day lengths while breaking far fewer physical laws.
->> Sold!  And preventing FTL messaging is a bonus.
 >> 
+>> Sold!  And preventing FTL messaging is a bonus.
 
-> **u/Tenoke** [+1]  *Even the fuckin' trees walked in those movies**
+> **u/Tenoke** [+1]  *Even the fuckin' trees walked in those movies* (an hour later)
 > 
 > >Given a perfectly rigid object, you can send an FTL signal by moving the object -- when the person at point A moves the rod, the person at point B would see it move before the light arrived from point A. 
-> I must be missing something - how do you go from immutability to  person B seeing movement before the light arrives? Or are you saying that she can also move those objects (not really mentioned in the list of powers) instantaneously? Or by 'move' do you mean 'straighten', and she can do that ftl ('finite but small' is not too clear here)?
-> > I'm working forward, not backward
-> Err, are you?
 > 
+> I must be missing something - how do you go from immutability to  person B seeing movement before the light arrives? Or are you saying that she can also move those objects (not really mentioned in the list of powers) instantaneously? Or by 'move' do you mean 'straighten', and she can do that ftl ('finite but small' is not too clear here)?
+> 
+> > I'm working forward, not backward
+> 
+> Err, are you?
 
->> **u/awesomeideas** [+2]  *Dai stiho, cousin.**
+>> **u/awesomeideas** [+2]  *Dai stiho, cousin.* (an hour later)
 >> 
 >> When you push something, a wave of force moves along it at the speed of sound in that object, with respect to the reference frame of a point farthest from the push on the object, a speed necessarily less than the speed of light. If you could make an object perfectly rigid, the push would be felt immediately on the other side, effectively making the speed of sound infinite, and getting a message across the distance faster than the speed of light. Things can be said to be happening at the same time in a reference frame if they are seen to be happening at the same time--the light from one event hits you at the same time you are doing something. So, if someone can get a message across to you faster than light from the event could hit you, you're effectively getting the message before the message was sent!
->> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (an hour later)
 >> 
 >> Take a rod 50' long and mount it on a pivot.  Alice stands at one end, Bob at the other.  Alice pushes down on her end; Bob sees his end go up.  Think of this as a 1-bit signal -- "rod end up" is 1, "rod end down" is 0. 
+>> 
 >> In the real world, the rod is not perfectly rigid -- the force Alice applies causes the rod to flex slightly and then the elasticity of the rod brings it back into form.  Because of this flexion, the far end of the rod moves up slightly after the near end moves down; the "signal" travels down the rod at sub-light speed.
+>> 
 >> Do the same with a 50' rod that is perfectly rigid:  the far end moves up at exactly the same time that the near end moves down.  That means that Bob sees his end move up at exactly the instant that Alice pushes down.  
 >> It takes light 50 ns to travel from one end of the rod to the other, which means that the signal has propagated down the rod at FTL speed.
-
->> >> I'm working forward, not backward
->> > Err, are you?
->> Yes.  I'm starting with "these things exist" and moving on to "how would society look as a result?"  Wildbow started with "I want society to look like X" and then figured out how to justify it.
 >> 
+>> >> I'm working forward, not backward
+>> 
+>> > Err, are you?
+>> 
+>> Yes.  I'm starting with "these things exist" and moving on to "how would society look as a result?"  Wildbow started with "I want society to look like X" and then figured out how to justify it.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (4 hours later)
 > 
 > Also, does this mean she can cut through anything by bunching up a thread in her palm and pressing it against something such that the only ways for it to escape are to cut her palm or cut the material? If her power works like I think it does, this should apply for even heavy coil, though it might look more like "suddenly send flying" than "slice".
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (5 hours later)
 >> 
 >> Yes.
->> Simpler though, is to tie a thread around something and then straighten the thread.
 >> 
+>> Simpler though, is to tie a thread around something and then straighten the thread.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (5 hours later)
 >>> 
 >>> Wouldn't that just make the thread unknot itself on the way to becoming perfectly rigid? Pulling a knot tight doesn't generally resolve it into a string again
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (6 hours later)
 >>>> 
 >>>> The thing with knots is that there's only a few options -- she can't straighten something that has a knot, the thing melts through itself in order to remove the knot, the thing unties itself before straightening, or it pulls supertight.
->>>> After wrangling with it for a while I finally went with the last option.  I'm not 100% thrilled with it -- it's an exception to the "it becomes straight" rule, but it's more straightforward than the other options and caused fewer narrative issues.
->>>> The original idea with this power was that it was supposed to be something minor that would need cleverness in order to be effective.  The more I dig into it, however, the more ridiculously powerful it becomes.
 >>>> 
+>>>> After wrangling with it for a while I finally went with the last option.  I'm not 100% thrilled with it -- it's an exception to the "it becomes straight" rule, but it's more straightforward than the other options and caused fewer narrative issues.
+>>>> 
+>>>> The original idea with this power was that it was supposed to be something minor that would need cleverness in order to be effective.  The more I dig into it, however, the more ridiculously powerful it becomes.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (10 hours later)
 >>>>> 
 >>>>> Yeah... Just straight off the bat, it allows for creation of invulnerable shields, immediate immobilization of unprepared enemies, inviolable weapons....
->>>>> With preparation, it becomes even more overpowered. Inflatable anythings, cut-anything microblades, indestructible fabric chains, inflatable super bouncy tables...
->>>>> A one-piece glider she wears all the time that expands with a pulse of power...
->>>>> Space elevators, part-fabric weaponry that only works when inflated, preventing recovery by enemies, literally indestructible bullet jacketing...
 >>>>> 
+>>>>> With preparation, it becomes even more overpowered. Inflatable anythings, cut-anything microblades, indestructible fabric chains, inflatable super bouncy tables...
+>>>>> 
+>>>>> A one-piece glider she wears all the time that expands with a pulse of power...
+>>>>> 
+>>>>> Space elevators, part-fabric weaponry that only works when inflated, preventing recovery by enemies, literally indestructible bullet jacketing...
 
->>>>>> **u/eaglejarl** [+2] *
+>>>>>> **u/eaglejarl** [+2]  (18 hours later)
 >>>>>> 
 >>>>>> Most of the really overpowered bits seem to be coming from the ability to affect closed fabric shapes.  I'm considering taking it down to "strings and flat fabric", or maybe even just to "strings."
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (18 hours later)
 >>>>>>> 
 >>>>>>> Honestly, just "strings" would be much cooler. What happens when she affects a single thread in a garment? Instant clothes-shredder!
->>>>>>> Hell, you might be best restricting it to "threads below a certain width". No twined cords, no string - she has to do everything thread-by thread. As a consolation, you could expand her control to let her govern a handful of threads at once. Even at just one, she could pretty much destroy any plant-fibre cord at will.
 >>>>>>> 
+>>>>>>> Hell, you might be best restricting it to "threads below a certain width". No twined cords, no string - she has to do everything thread-by thread. As a consolation, you could expand her control to let her govern a handful of threads at once. Even at just one, she could pretty much destroy any plant-fibre cord at will.
 
-> **u/Psychobeans** [+1] *
+> **u/Psychobeans** [+1]  (a day later)
 > 
 > What happens with these powers if you have a small sock and a big sock, and stuffed the big sock into the small sock, then inflated the outer small sock followed by the larger inner sock? Better yet, make them spheres without holes. What happens when the larger, unstoppable inner fabric inflates into the smaller, indestructible container?
-> What happens to any non-fabric material caught in between?
-> Let's reverse it. Inflate a small sphere of cloth, then stretch a very slightly smaller sphere of cloth over it, then "inflate" the outer cloth. The outer cloth has to crush the inner cloth to reach "inflated" state, but the inner cloth can't be crushed.
-> How does stretched fabric act in general when "inflated"?
-> Suppose someone constructs a shirt that happens to have a very large pocket, larger than the shirt itself, such that the material of the pocket completely stuffs the shirt. Now suppose that the inflate power is used. How does it react?
-> Essentially, when it comes down to inflat*ing* fabric vs inflat*ed* fabric, what happens?
-> Sorry this has nothing to do with what you asked.
 > 
+> What happens to any non-fabric material caught in between?
+> 
+> Let's reverse it. Inflate a small sphere of cloth, then stretch a very slightly smaller sphere of cloth over it, then "inflate" the outer cloth. The outer cloth has to crush the inner cloth to reach "inflated" state, but the inner cloth can't be crushed.
+> 
+> How does stretched fabric act in general when "inflated"?
+> 
+> Suppose someone constructs a shirt that happens to have a very large pocket, larger than the shirt itself, such that the material of the pocket completely stuffs the shirt. Now suppose that the inflate power is used. How does it react?
+> 
+> Essentially, when it comes down to inflat*ing* fabric vs inflat*ed* fabric, what happens?
+> 
+> Sorry this has nothing to do with what you asked.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (a day later)
 >> 
 >> No, thank *you*. This is exactly the sort of edge case I need to be thinking about. I've been focusing on creating story such that my powers are underspecified. 
->> I've finally decided that she can't affect anything but threads. It resolves a lot of these issues. Specifically, it pretty much resolves the inflated vs inflated question: the second thread would glance off of the first. If someone tried to set up some very special apparatus such that the two threads would still meet head-on, then the second thread would expand backwards, breaking through the apparatus. And, if some situation comes up where it really is impossible to avoid, then the second thread simply won't straighten at all and Elly will have a massive pain from her power backfiring.
 >> 
+>> I've finally decided that she can't affect anything but threads. It resolves a lot of these issues. Specifically, it pretty much resolves the inflated vs inflated question: the second thread would glance off of the first. If someone tried to set up some very special apparatus such that the two threads would still meet head-on, then the second thread would expand backwards, breaking through the apparatus. And, if some situation comes up where it really is impossible to avoid, then the second thread simply won't straighten at all and Elly will have a massive pain from her power backfiring.
 
->>> **u/Psychobeans** [+1] *
+>>> **u/Psychobeans** [+1]  (a day later)
 >>> 
 >>> I think the inflate power would be fine if you just dropped the "indestructible" part. How about making it relate to mental effort? The more pressure applied to an inflated object, the more the character has to concentrate before it collapses. This still allows for creative uses of cloth shaping without the broken aspects.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> Yeah, that could work.  It complicates things, though.  This power started off as "she straightens thread, string, etc".  Then I asked myself "what happens when you've got a piece of cloth made up of woven threads?"  I decided "well, it straightens too"...which is an exception to the rule, since weaving implies that the threads are bent.   Then I had to deal with the case of closed-form cloth, and I decided that it would inflate, which is yet *another* exception.  Worse, all those exceptions started yielding more and more abuses of the power, making her more and more god-tier straight out the gate, with no need for munchkining.
->>>> I think it's better if I just drop it back down to "straightens threads."  And *just* threads, not even rope -- basically, there's a maximum width she can affect.  There's still a lot of abuses of this power, but they require some intelligence to apply.
 >>>> 
+>>>> I think it's better if I just drop it back down to "straightens threads."  And *just* threads, not even rope -- basically, there's a maximum width she can affect.  There's still a lot of abuses of this power, but they require some intelligence to apply.
 
-> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (4 days later)
 > 
 > I'm going to flex my bio background and inquire about the definitiona and composition of "threads" as polymerized chains of biomolecules.
+> 
 > Is she restricted to lignin and cellulose products?
 > http://www.fpl.fs.fed.us/documnts/pdf1997/han97a.pdf
-> Can she straighten DNA in plant chromosomes?
-> If not DNA, what about connective tissue, or proteins?
-> The reason I ask is because testing the boundaries and definitions of "threads" would be among the first experiments I would do, if I had her power (rather than test the physics to see if a "light-year long thread could defy relativity")
-> Implications for plant derived bio molecules means that more complex polymers like industrial plastics are out. However, if it's a chain of carbohydrates, then she should be able to "straighten" a potato, even though starches have a branching structure, she could "squeeze it" to break the chains and voila! The invulnerable small linear segments might shatter like a bomb from the release of energy.
-> The fact that the cellulose threads are longer than a few nanometers means that they are still woven together to some degree by the squeezing effect. I don't know how that's helpful, unless she actually bonds them all together into one long contiguous string. In that case, she's actually catalyzing the polymerizing reaction and she can use it to "unspool" a very long string (but not a light-year long) given enough raw material... basically converting a shirt into the equivalent length of thread as thin as her powers allow her to make it -- and when she concentrates, she makes it straight and invulnerable, perhaps getting dangerously close to nano-fiber cutting power. It's a good thing she's immune to her own power.
 > 
+> Can she straighten DNA in plant chromosomes?
+> 
+> If not DNA, what about connective tissue, or proteins?
+> 
+> The reason I ask is because testing the boundaries and definitions of "threads" would be among the first experiments I would do, if I had her power (rather than test the physics to see if a "light-year long thread could defy relativity")
+> 
+> Implications for plant derived bio molecules means that more complex polymers like industrial plastics are out. However, if it's a chain of carbohydrates, then she should be able to "straighten" a potato, even though starches have a branching structure, she could "squeeze it" to break the chains and voila! The invulnerable small linear segments might shatter like a bomb from the release of energy.
+> 
+> The fact that the cellulose threads are longer than a few nanometers means that they are still woven together to some degree by the squeezing effect. I don't know how that's helpful, unless she actually bonds them all together into one long contiguous string. In that case, she's actually catalyzing the polymerizing reaction and she can use it to "unspool" a very long string (but not a light-year long) given enough raw material... basically converting a shirt into the equivalent length of thread as thin as her powers allow her to make it -- and when she concentrates, she makes it straight and invulnerable, perhaps getting dangerously close to nano-fiber cutting power. It's a good thing she's immune to her own power.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (5 days later)
 >> 
 >> My kneejerk reaction all of this was "gack! no!" but...maybe.  It's an interesting ida, although it would end up with her being crazy more powerful than I had originally intended.  She's already pretty powerful from the "absolutely invulnerable" and "nigh-unstoppable straightening" aspects, so I'm leery of going farther.  Let me think on it.
->> 
 
->>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (7 days later)
 >>> 
 >>> I agree on the power level, just consider the materials science implications when you talk about the boundaries of "plant-based threads"
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (7 days later)
 >>>> 
 >>>> >  the materials science implications
->>>> You mean "what qualifies as"?  Usually when I hear 'materials science implications' I think of things that can be done with the material, but I don't think that's what you meant...?
 >>>> 
+>>>> You mean "what qualifies as"?  Usually when I hear 'materials science implications' I think of things that can be done with the material, but I don't think that's what you meant...?
 
->>>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (10 days later)
 >>>>> 
 >>>>> Thread is a simple fibrous material, but she has the ability to give it the properties of stiffness, straightness, thinness, cohesiveness... etc, through her will.
->>>>> She's turned the simple material into something with unique properties, that's what I am trying to say.
->>>>> Does a strand of thread turn from a collection of woven fibers into one contiguous long thread if she squeezes it for long enough? Do these effects persist after she's done concentrating?
->>>>> Could she take a coiled rope with ash/coal in its core and make carbon buckytubes by squeezing it? This is similar to the knot idea you referred to before, but she's applying a great deal more pressure across the thread's entire length.
 >>>>> 
+>>>>> She's turned the simple material into something with unique properties, that's what I am trying to say.
+>>>>> 
+>>>>> Does a strand of thread turn from a collection of woven fibers into one contiguous long thread if she squeezes it for long enough? Do these effects persist after she's done concentrating?
+>>>>> 
+>>>>> Could she take a coiled rope with ash/coal in its core and make carbon buckytubes by squeezing it? This is similar to the knot idea you referred to before, but she's applying a great deal more pressure across the thread's entire length.
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (11 days later)
 >>>>>> 
 >>>>>> Sorry, I've been ambiguous -- the "squeezing" is metaphoric, it's a term for telling her power to become temporarily self-sustaining. 
->>>>>> The idea of making diamonds or buckytubes by using the threads to squeeze carbon...that is brilliant. I am definitely using that. PM me what name you'd like on the acknowledgment page.
 >>>>>> 
+>>>>>> The idea of making diamonds or buckytubes by using the threads to squeeze carbon...that is brilliant. I am definitely using that. PM me what name you'd like on the acknowledgment page.
 
 ---
 

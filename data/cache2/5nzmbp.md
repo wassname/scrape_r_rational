@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/MaddoScientisto** [+2] *
+> **u/MaddoScientisto** [+2]  (3 hours later)
 > 
 > I love this, glad you are finding the inspiration to continue it!
-> 
 
-> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (4 hours later)
 > 
 > Ooh, I love it! :D
-> 
 
 ---
 

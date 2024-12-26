@@ -20,126 +20,120 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/None** [+12] *
+> **u/None** [+12]  (8 hours later)
 > 
 > I'm presenting tomorrow.  After that, I will be Published, and can concentrate on getting these damned entropy estimators right.
-> 
 
->> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (20 hours later)
 >> 
 >> Congratulations!
->> I had my first conference presentation/abstract published a few weeks ago, and it's a nice feeling.  
->> ^(now I just need to finish my thesis)
 >> 
+>> I had my first conference presentation/abstract published a few weeks ago, and it's a nice feeling.  
+>> 
+>> ^(now I just need to finish my thesis)
 
->>> **u/None** [+3] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> >now I just need to finish my thesis
->>> ##YOU SHOULD BE WRITING.
 >>> 
+>>> ##YOU SHOULD BE WRITING.
 
->>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life* (a day later)
 >>>> 
 >>>> *twitches*
->>>> 
 
->>>>> **u/None** [+5] *
+>>>>> **u/None** [+3]  (a day later)
 >>>>> 
 >>>>> [YOUR DRAFT IS ALWAYS WATCHING YOU.](http://phdcomics.com/comics/archive.php?comicid=1868)
->>>>> 
 
->>>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (a day later)
 >>>>>> 
 >>>>>> We've banned PHD comics in my office - they seemed funny early on; now they just make people want to cry...
->>>>>> 
 
-> **u/Nighzmarquls** [+16] *
+> **u/Nighzmarquls** [+17]  (2 hours later)
 > 
 > I've been finding/experiencing a need for a LOT of ways to apply mindfulness/awareness of behaviors and thought patterns over the last few months. It's been not entirely pleasant but very enlightening.
+> 
 > Things I've been finding personal resolutions/gotten on the course of improvement regarding my life in no particular order.
+> 
 > * Getting a job in my industry, key lesson: if you attempt something enough times success is much more likely.
 > * Improving my social skills key method: practice talking with people , I started off with coffee shops and then later got a job at a summer camp teaching coding and practiced with kids, I now try to practice with my uber drivers during my commutes, this includes recognizing a desire for amicable silence.
 > * Better appreciation for recognizing where the real sources of stressors can come from: I had been recognizing a deep frustration/emotional pain with what I see around me in the world. I just got my glasses prescription updated and realized that no it was not entirely emotional pain, I was actually experiencing a subtle form of physical pain from eye strain and this was altering my judgements of just about EVERYTHING on a bad day.
 > * Been helping my metamour with a LOT of stress and trauma lately and a surprising amount of this is something I recently was going through as well: physiology can be a VERY useful hack to reinforce/help us when we can't manage to think our way through something, hugs, improved nutrition and proper medication can help where philosophizing cannot.
 > * Jumping from subsistence living on other's charity to being in the lower half of the upper two percent of income brackets for my country is very enlightening: Poverty is an abomination of this universe, I don't know how to describe it any better then that, for anyone who has not been unable to feel certain of anything more then a week in the future because everything seems to come out of nowhere I don't know how to get across how horrific it is in contrast to where I am now.
-> 
 
->> **u/Transfuturist** [+10]  *Carthago delenda est.**
+>> **u/Transfuturist** [+10]  *Carthago delenda est.* (9 hours later)
 >> 
 >> Poverty is an abomination; downward mobility is like falling into the abyss.
->> 
 
->>> **u/None** [+9] *
+>>> **u/None** [+10]  (15 hours later)
 >>> 
 >>> Was unemployed once.  Thirded.  Poverty is completely fucked, because more than merely lacking money, it fucks with your ability to be assured you can carry out even mid-term plans.
->>> 
 
->>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >>>> 
 >>>> Yep. Being in poverty, or even just poor, drains the soul. It's like a constant psychic leech on one's mental energy and emotional health, not to mention the physical health risks. I've noticed that social workers and therapists who work with people in such hopeless situations to try and help them often suffer from a kind of second-hand effect.
->>>> 
 
-> **u/raymestalez** [+6] *
+> **u/raymestalez** [+6]  (32 minutes later)
 > 
 > Found a really awesome [short lecture on rationality](https://www.youtube.com/watch?v=IDePmv6h3II). Very fun and useful.
-> Raccoon picture totally got me. Such a great example, you can just immediately feel how the switch of models in your mind happens.
 > 
+> Raccoon picture totally got me. Such a great example, you can just immediately feel how the switch of models in your mind happens.
 
-> **u/ulyssessword** [+5] *
+> **u/ulyssessword** [+5]  (3 hours later)
 > 
 > It's election day today for me (Saskatchewan general election), and it's surprised me how little I've actually seen about it without needing to actively seek it out.
-> I've heard that this one has been really lackluster in terms of the campaign, but I didn't expect it to be *this* bad.  As far as I can tell, it's even being overshadowed by the Presidential Primaries in the US.
-> UPDATE: I just voted.  The polling station was almost completely empty, with about three other voters that I saw.  For a bit of scale, there were ~12 lines for people to vote at, and all of them were empty.  It may be because I went there at 6:30 PM, but I'm curious what the overall voter turnout will be.
-> UPDATE 2: Most of the results are in, and it looks like there has been practically no change since the 2011 election.  The (right-wing) Saskatchewan Party is expected to be re-elected with 49 seats and 63% of the popular vote (vs. 49 seats and 64% last time), and the (left-wing) NDP will remain the official opposition, with 12 seats and 29% of the popular vote (vs. 9 seats and 32% last time).  Three seats were created for this election, and there are still no third parties or independents.
 > 
+> I've heard that this one has been really lackluster in terms of the campaign, but I didn't expect it to be *this* bad.  As far as I can tell, it's even being overshadowed by the Presidential Primaries in the US.
+> 
+> UPDATE: I just voted.  The polling station was almost completely empty, with about three other voters that I saw.  For a bit of scale, there were ~12 lines for people to vote at, and all of them were empty.  It may be because I went there at 6:30 PM, but I'm curious what the overall voter turnout will be.
+> 
+> UPDATE 2: Most of the results are in, and it looks like there has been practically no change since the 2011 election.  The (right-wing) Saskatchewan Party is expected to be re-elected with 49 seats and 63% of the popular vote (vs. 49 seats and 64% last time), and the (left-wing) NDP will remain the official opposition, with 12 seats and 29% of the popular vote (vs. 9 seats and 32% last time).  Three seats were created for this election, and there are still no third parties or independents.
 
-> **u/TimTravel** [+3] *
+> **u/TimTravel** [+3]  (8 hours later)
 > 
 > Podcasts! What do people recommend? I already listened to all of Rationally Speaking. I'd like either a pure science one or a gaming one, but general recommendations are cool.
-> 
 
->> **u/Wiron** [+5] *
+>> **u/Wiron** [+5]  (10 hours later)
 >> 
 >> [99% Invisible](http://99percentinvisible.org) - podcast  about overlooked aspects of design, architecture and other things that shape our world.
->> Everything's Coming Up Podcast! - podcast where various writers and comedians discuss their favorite Simpsons episodes. Great hosts, entertaining, and you can learn something about comedy.
->> [Plumbing the Death Star ]( http://www.sanspantsradio.com/plumbing-the-death-star/) - overthinking fictional universes
->> [Planet Money](http://www.npr.org/sections/money) - various topics related to economy
 >> 
+>> Everything's Coming Up Podcast! - podcast where various writers and comedians discuss their favorite Simpsons episodes. Great hosts, entertaining, and you can learn something about comedy.
+>> 
+>> [Plumbing the Death Star ]( http://www.sanspantsradio.com/plumbing-the-death-star/) - overthinking fictional universes
+>> 
+>> [Planet Money](http://www.npr.org/sections/money) - various topics related to economy
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (11 hours later)
 >>> 
 >>> I definitely second 99% Invisible.
->>> 
 
->> **u/BlueSigil** [+5] *
+>> **u/BlueSigil** [+5]  (10 hours later)
 >> 
 >> * Dear Hank and John - A comedy podcast about death. By the people who made vlog Brothers and all the Crash Course videos.
 >> * Total Party Kill - DnD podcast, I also recommend Critical Role, but it's more of a YouTube Channel than a podcast.
 >> * Reconcilable Differences - Another RelayFM podcast, in the two dudes talking format.
 >> * 99% Invisible - About the hidden side of everything
 >> * Hello Internet has already been mentioned, but it bears repeating, I really enjoy it.
->> 
 
->> **u/TennisMaster2** [+3] *
+>> **u/TennisMaster2** [+3]  (8 hours later)
 >> 
 >> Have you heard of http://earbud.fm/?
->> 
 
->> **u/Luminnaran** [+3]  *Prophet of Asmodeus**
+>> **u/Luminnaran** [+3]  *Prophet of Asmodeus* (9 hours later)
 >> 
 >> For science podcasts I would suggest startalk or the planetary radio podcast. If you want technology podcasts [Relay FM] makes several. Personally I listen to Material which is about google/android but they also make several apple or general tech podcasts, as well as one gaming podcast. My other suggestions are less sciencey/game related, but [Hello Internet](http://www.hellointernet.fm/) is a podcast by CGP Grey the youtuber that I absolutely love ( He also co-hosts cortex a podcast about getting things done and apple which is also on on RelayFM and I quite enjoy).
-
->> (https://www.relay.fm/)
 >> 
+>> (https://www.relay.fm/)
 
->> **u/raymestalez** [+2] *
+>> **u/raymestalez** [+2]  (9 hours later)
 >> 
 >> Harmontown - really amazing comedy.
->> 
 
->> **u/ednever** [+2] *
+>> **u/ednever** [+2]  (12 hours later)
 >> 
 >> I run about 7 hours a week and listen to podcasts while I do it. I also listen anytime I'm driving. Here is my list:
+>> 
 >> Planet Money: TAL for economics and business
 >> TAL
 >> Startup: Watch a startup happen week by week
@@ -153,19 +147,18 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 >> Hardcore History
 >> TED hour
 >> Freakonomics
->> Ed
 >> 
+>> Ed
 
->>> **u/pleasedothenerdful** [+1] *
+>>> **u/pleasedothenerdful** [+1]  (5 days later)
 >>> 
 >>> Somebody buy this man some periods or asterisks.
->>> 
 
->> **u/currough** [+2] *
+>> **u/currough** [+2]  (a day later)
 >> 
 >> The Adventure Zone is a really good D&D podcast. Sort of a comedy/gaming podcast where three brothers play D&D with their dad. The plot is pretty compelling and their on-air chemistry is great.
->> I haven't listened to a lot of it, but Oh No! Ross and Carrie is a podcast where two skeptics try various kinds of woo.
 >> 
+>> I haven't listened to a lot of it, but Oh No! Ross and Carrie is a podcast where two skeptics try various kinds of woo.
 
 ---
 

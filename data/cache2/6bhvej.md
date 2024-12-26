@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-2276#post-8509205
-* Score: 14
+* Score: 13
 
 * Created: 2017-05-16T14:43:02
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (3 days later)
 > 
 > Uh oh, if this goes badly, it means another falling out with Leaf...
-> How do you tell someone, "Really, we don't want to kill you. Oh - except the crazy sealmaster obsessed with explosives who just tried to murder you in your sleep. But we can keep him under control, honest!"
 > 
+> How do you tell someone, "Really, we don't want to kill you. Oh - except the crazy sealmaster obsessed with explosives who just tried to murder you in your sleep. But we can keep him under control, honest!"
 
 ---
 

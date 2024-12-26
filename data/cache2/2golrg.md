@@ -14,25 +14,21 @@ I've just finished putting together an initial draft of Bunny pontificating abou
 
 ### Comments:
 
-> **u/biomatter** [+1] *
+> **u/biomatter** [+1]  (5 hours later)
 > 
 > Off topic, but are you just trying to use as many tags as possible in the title? Heh.
-> 
 
->> **u/DataPacRat** [+2]  *Amateur Immortalist**
+>> **u/DataPacRat** [+2]  *Amateur Immortalist* (5 hours later)
 >> 
 >> I'm not /trying/ to maximize my tag usage; I just figure I might as well make it as easy as possible for someone searching this subreddit a couple of years from now.
->> 
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (21 hours later)
 > 
 > That is shiny.
-> 
 
-> **u/ArmokGoB** [+1] *
+> **u/ArmokGoB** [+1]  (a day later)
 > 
 > My main problem with this is not anything with the way it's explained but that the entire argument is fragile, and dependent on dubious notions of quantum immortality and antropics. I'm added some suggestions how to help it a bit, but it needs more unless you already have some cause in mind.
-> 
 
 ---
 

@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/pldl** [+2] *
+> **u/pldl** [+2]  (39 minutes later)
 > 
 > Interesting that this subreddit would get new account self-promotion.
-> 
 
-> **u/ironistkraken** [+2] *
+> **u/ironistkraken** [+2]  (an hour later)
 > 
 > I think this breaks the spirit of the rules about posting rational works.
-> 
 
 ---
 

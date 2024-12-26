@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (5 minutes later)
 > 
 > Discussion is one thing.  "DAE get the reference??" memes are another.  Please don't post things of this nature as a top-level submission.
-> 
 
 ---
 

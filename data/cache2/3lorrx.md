@@ -2,7 +2,7 @@
 
 * Author: u/gvsmirnov *
 * URL: https://www.fanfiction.net/s/10740793/5/A-Voice-Across-the-Void
-* Score: 37
+* Score: 36
 
 * Created: 2015-09-20T16:15:34
 
@@ -12,27 +12,25 @@
 
 ### Comments:
 
-> **u/earfluff** [+6]  *Ankh-Morpork City Watch**
+> **u/earfluff** [+7]  *Ankh-Morpork City Watch* (5 hours later)
 > 
 > I'm skeptical that Nerra is actually aware of very much of the world outside of her holocron. I think it's more likely that she was just reading Noval's mind to find information she seemingly could not have known unless she was aware of the outside world. She obviously knows mind-reading well enough to try to teach it to Noval, so she could probably pick up on his reasons for contacting her and the length of time since the last conversation, both salient thoughts in his mind at that time.
-> EDIT: Actually, I can't think of any reason why she wouldn't be able to listen in any time she wanted to. It's not as if Noval makes her appear and disappear. She's still in the Holocron even when he isn't talking to her.
 > 
+> EDIT: Actually, I can't think of any reason why she wouldn't be able to listen in any time she wanted to. It's not as if Noval makes her appear and disappear. She's still in the Holocron even when he isn't talking to her.
 
->> **u/gvsmirnov** [+1] *
+>> **u/gvsmirnov** [+1]  (a day later)
 >> 
 >> In my understanding, she is able to affect and interact with some local area of the holocron using the Force. But she might also be able to use some kind of relay mechanism or tap into larger Force entities. I'm very suspicious of the temple, for instance. It does seem to be messing with people's minds.
->> 
 
-> **u/gvsmirnov** [+4] *
+> **u/gvsmirnov** [+4]  (17 minutes later)
 > 
 > Well, a Sith-style solution would be to give the warring parties a common external enemy, maybe assassinate both the royal families. But Noval apparently values sentient life, so it is probably not the solution he saw. And anyway, less brutal ways of taking the royal out (e.g. kidnapping) are still way beyond a puny padawan's capabilities.
-> Judging by the hints, the solution would establish a truce by convincing both sides that victory is not possible. Hmm.
 > 
+> Judging by the hints, the solution would establish a truce by convincing both sides that victory is not possible. Hmm.
 
-> **u/ianstlawrence** [+3] *
+> **u/ianstlawrence** [+3]  (a day later)
 > 
 > Murder?
-> 
 
 ---
 

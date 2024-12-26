@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Flashbunny** [+13] *
+> **u/Flashbunny** [+15]  (25 minutes later)
 > 
 > What is this from? Is this the correct sub for this?
-> 
 
-> **u/GeneralSpoon** [+2] *
+> **u/GeneralSpoon** [+2]  (2 hours later)
 > 
 > Unexpected r/worldbuilding
-> 
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/AHatfulOfBomb** [+2] *
+> **u/AHatfulOfBomb** [+2]  (19 hours later)
 > 
 > u/ashinator92, way to pick up the slack. I didn’t have time to post yesterday’s chapter, and I’m very appreciative of the fact that you did.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/DragonGod2718 *
 * URL: https://www.reddit.com/r/rational/comments/cdiql5/quests_and_the_intelligence_of_hiveminds/
-* Score: 44
+* Score: 47
 
 * Created: 2019-07-15T15:18:26
 
@@ -67,296 +67,308 @@ My tentative plans for improving strategic competence in quests is to adopt a th
 
 ### Comments:
 
-> **u/IICVX** [+25] *
+> **u/IICVX** [+23]  (17 minutes later)
 > 
 > There's a YouTube video out there about ["why corporations aren't AIs"](https://www.youtube.com/watch?v=L5pUA3LsEaw) that's relevant to the topic, but I can't find it right now. 
-> The basic thesis is that a committee is sort of like an intellectual harness. If you have a bunch of people pulling on a cart, the cart can never go faster than the fastest person. Similarly, a committee can never be smarter than the smartest person in it.
-> And that's completely ignoring the fact that there's an efficiency loss in having to coordinate all those people.
 > 
+> The basic thesis is that a committee is sort of like an intellectual harness. If you have a bunch of people pulling on a cart, the cart can never go faster than the fastest person. Similarly, a committee can never be smarter than the smartest person in it.
+> 
+> And that's completely ignoring the fact that there's an efficiency loss in having to coordinate all those people.
 
->> **u/Palmolive3x90g** [+7] *
+>> **u/Palmolive3x90g** [+7]  (an hour later)
 >> 
 >> [This video](https://www.youtube.com/watch?v=L5pUA3LsEaw) by Robert Miles covers the topic and seams to offer similar points. Is it the same one?
->> 
 
->>> **u/IICVX** [+5] *
+>>> **u/IICVX** [+4]  (3 hours later)
 >>> 
 >>> Yup that's the video I was thinking of
->>> 
 
->> **u/MugaSofer** [+4] *
+>> **u/MugaSofer** [+4]  (a day later)
 >> 
 >> A cart can never go faster than the *slowest* person pulling it.
->> 
 
->> **u/DragonGod2718** [+7] *
+>> **u/DragonGod2718** [+8]  (53 minutes later)
 >> 
 >> > Similarly, a committee can never be smarter than the smartest person in it.
->> What about all the extra manpower? More knowledge, greater knowledge acquisition ability, more skills, more perspectives, etc? I think committees aren't strategically more competent than the most competent members (perhaps even the median members), but committes would have access to significantly more resources than the lone decision maker.
 >> 
+>> What about all the extra manpower? More knowledge, greater knowledge acquisition ability, more skills, more perspectives, etc? I think committees aren't strategically more competent than the most competent members (perhaps even the median members), but committes would have access to significantly more resources than the lone decision maker.
 
->>> **u/IICVX** [+8] *
+>>> **u/IICVX** [+9]  (an hour later)
 >>> 
 >>> I mean sure, and that's why science is increasingly done by large research groups. Thing is none of that really helps with pushing the cart. At best it reduces the weight of the cart. You might go like 5% faster, but not 50%.
->>> 
 
->>>> **u/Law_Student** [+6] *
+>>>> **u/Law_Student** [+6]  (12 hours later)
 >>>> 
 >>>> I think the cart metaphor might not work very well. Unless you're trying to demonstrate that many people can do work that no one person could alone, I suppose.
->>>> I think the biggest advantage of group decision making is that the ability of the group to spot potential blunders or optimizations is additive and far better than any individual, assuming all the individuals (or most of them) in the group are willing to listen to productive suggestions of that nature and alter course accordingly. That is a very big presumption, but if it's not the case then you do not have a good selection of people for making group decisions.
 >>>> 
+>>>> I think the biggest advantage of group decision making is that the ability of the group to spot potential blunders or optimizations is additive and far better than any individual, assuming all the individuals (or most of them) in the group are willing to listen to productive suggestions of that nature and alter course accordingly. That is a very big presumption, but if it's not the case then you do not have a good selection of people for making group decisions.
 
->>>>> **u/DragonGod2718** [+2] *
+>>>>> **u/DragonGod2718** [+2]  (12 hours later)
 >>>>> 
 >>>>> >Unless you're trying to demonstrate that many people can do work that no one person could alone, I suppose.
->>>>> Perhaps that. But mainly it's that the cart can never move faster than the fastest person pulling it.
 >>>>> 
+>>>>> Perhaps that. But mainly it's that the cart can never move faster than the fastest person pulling it.
 
->>>>>> **u/LeifCarrotson** [+3] *
+>>>>>> **u/LeifCarrotson** [+3]  (20 hours later)
 >>>>>> 
 >>>>>> The cart metaphor doesnt work. 
->>>>>> It's almost the 50th anniversary of the Apollo moon landings. The decision making and engineering thought behind those massive machines was done by a large group of people in under a decade. There were smart people, sure, but not one of them could have even come close to the cumulative centuries of thought, testing, and analysis that were performed by the thousands of people involved in the project. A solitary individual couldn't even get past the "gather background information" stage. They'd be hard-pressed to read just the executive summaries of the reams of reports that were produced, much less make good decisions on them.
 >>>>>> 
+>>>>>> It's almost the 50th anniversary of the Apollo moon landings. The decision making and engineering thought behind those massive machines was done by a large group of people in under a decade. There were smart people, sure, but not one of them could have even come close to the cumulative centuries of thought, testing, and analysis that were performed by the thousands of people involved in the project. A solitary individual couldn't even get past the "gather background information" stage. They'd be hard-pressed to read just the executive summaries of the reams of reports that were produced, much less make good decisions on them.
 
->>>>>>> **u/DragonGod2718** [+1] *
+>>>>>>> **u/DragonGod2718** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> Well, I was talking specifically about the limited domain of strategic competence. I'm aware that collective intelligences can perform better in other domains.
->>>>>>> 
 
->>>>>>>> **u/LeifCarrotson** [+3] *
+>>>>>>>> **u/LeifCarrotson** [+3]  (a day later)
 >>>>>>>> 
 >>>>>>>> The million-dollar-question for humanity to answer is whether strategic competence (and creative output, though that's been somewhat affirmed) is one of the mental domains which can be abstracted, reduced to a modular process, and done better by a massive assembly of people. I think that the overwhelming success of modern society and government show that it can, you just need the right processes.
->>>>>>>> 
 
->>>>>>>>> **u/DragonGod2718** [+1] *
+>>>>>>>>> **u/DragonGod2718** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> For strategic competence? Garry Kasparov beat a team of 50,000 people at Chess (4 Chess stars were selected to provide the group with guidance) and they had computer assistance. I don't think collective intelligences (at least those who use plurality vote as the decision mechanism) are significantly superior in strategic competence to their most competent members.
->>>>>>>>> 
 
->>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> **u/None** [+1]  (6 days later)
 >>>>>>>>>> 
 >>>>>>>>>> The Wikipedia says (in the Aftermath section) that he was cheating during the game by reading the MSN forum which was open for everyone. I think this makes Kasparov's victory in this match a weak argument point.
->>>>>>>>>> 
 
-> **u/nohat** [+20] *
+> **u/nohat** [+20]  (2 hours later)
 > 
 > I've definitely noticed the 'Greedy Algorithm' tendency, particularly in acquisition of power. It does make sense to grab short term benefit, especially when you can't rely upon your future decisions to follow through on long term plans. It's a downside of democracy that's been apparent in real life. One administration can start a long term project, but quite often it gets cancelled by the next administration before it is finished. 
-> I've also noticed it in a game I played a long time ago called CyberNations. The democratic alliances were considered unreliable by other alliances because the people in charge would change regularly. Of course that also helped sometimes -- the new leaders could easily brush off past animosities or conflicts with a "that was the old administration." Nearly all the rest were run by relatively few high effort members who also tended to bring a lot of history with each other (good and bad) to the table.
-> I'm not really sure how to counter it. Possibly some sort of a trust vote (ie I temporarily imbue X with my vote). Possibly a pre-planning exercise where people vote on long term plans to pursue.
 > 
+> I've also noticed it in a game I played a long time ago called CyberNations. The democratic alliances were considered unreliable by other alliances because the people in charge would change regularly. Of course that also helped sometimes -- the new leaders could easily brush off past animosities or conflicts with a "that was the old administration." Nearly all the rest were run by relatively few high effort members who also tended to bring a lot of history with each other (good and bad) to the table.
+> 
+> I'm not really sure how to counter it. Possibly some sort of a trust vote (ie I temporarily imbue X with my vote). Possibly a pre-planning exercise where people vote on long term plans to pursue.
 
->> **u/DragonGod2718** [+10] *
+>> **u/DragonGod2718** [+11]  (3 hours later)
 >> 
 >> That the hive mind can't trust itself to follow a given strategy is an important insight I hadn't considered. It sets up incentives away from longterm strategy as the individual players expect such strategies to be less than successful.
->> 
 
->> **u/JusticeBeak** [+4] *
+>> **u/JusticeBeak** [+5]  (3 hours later)
 >> 
 >> A running list of goals and how they are valued seems like it would encourage people to also consider the long term. 
->> > I'm not really sure how to counter it. Possibly some sort of a trust vote (ie I temporarily imbue X with my vote). Possibly a pre-planning exercise where people vote on long term plans to pursue.
->> I can imagine each update of a quest having a short period where people simply vote on which longer term goals and strategies are more important to them, after which there is a short moratorium on voting to come up with a plan with the goals in mind, and then a vote on which plan to follow.
 >> 
+>> > I'm not really sure how to counter it. Possibly some sort of a trust vote (ie I temporarily imbue X with my vote). Possibly a pre-planning exercise where people vote on long term plans to pursue.
+>> 
+>> I can imagine each update of a quest having a short period where people simply vote on which longer term goals and strategies are more important to them, after which there is a short moratorium on voting to come up with a plan with the goals in mind, and then a vote on which plan to follow.
 
-> **u/Roxolan** [+21]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+21]  *Head of antimemetiWalmart senior assistant manager* (6 hours later)
 > 
 > > I'm not sure bandwagons are an inherent weakness of hiveminds.
-> Agreed. In fact,
-> > The choice of action at each point is decided by plurality vote. 
-> is only sometimes true. Various other voting systems are used. You can't completely get around [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem), but you can still do a much better job than plurality vote.
-> E.g. /r/rational darling *The Erogamer* uses a combination of [ranked voting](https://en.wikipedia.org/wiki/Ranked_voting) and [approval voting](https://en.wikipedia.org/wiki/Approval_voting) - and sometimes combines multiple high-ranked options. Strategic voting is far less rewarded (and, at any rate, requires too much calculation for readers to bother with).
-> &nbsp;
-> It's worth noting that in many quests, long-term strategising doesn't bring much benefit *to the readers*. 
-> Sure, the character has a strong preference for a certain long-term goal (say, taking over the world). But a *reader* might only have very mild long-term preferences, with much stronger preferences for some kinds of scenes (say, banter) over others.
-> Why pick the smart long-term world-conquering option when you could have a banter scene right now? The "I have successfully taken over the world" scene would be sweet, but not so sweet as to be worth the sacrifice. Plus the questmaster is clearly aiming for that scene, so it'll probably happen eventually anyway.
-> And since opportunities to banter come pretty much at random, there's no point in doing long-term planning to maximise *that* either. You just vote "banter" whenever the option shows up.
-> (I once again present *The Erogamer* as an example.)
-> &nbsp;
-> Sorry for only addressing the specific case of quests rather than your higher-level question. Well, this *is* /r/rational.
 > 
+> Agreed. In fact,
+> 
+> > The choice of action at each point is decided by plurality vote. 
+> 
+> is only sometimes true. Various other voting systems are used. You can't completely get around [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem), but you can still do a much better job than plurality vote.
+> 
+> E.g. /r/rational darling *The Erogamer* uses a combination of [ranked voting](https://en.wikipedia.org/wiki/Ranked_voting) and [approval voting](https://en.wikipedia.org/wiki/Approval_voting) - and sometimes combines multiple high-ranked options. Strategic voting is far less rewarded (and, at any rate, requires too much calculation for readers to bother with).
+> 
+> &nbsp;
+> 
+> It's worth noting that in many quests, long-term strategising doesn't bring much benefit *to the readers*. 
+> 
+> Sure, the character has a strong preference for a certain long-term goal (say, taking over the world). But a *reader* might only have very mild long-term preferences, with much stronger preferences for some kinds of scenes (say, banter) over others.
+> 
+> Why pick the smart long-term world-conquering option when you could have a banter scene right now? The "I have successfully taken over the world" scene would be sweet, but not so sweet as to be worth the sacrifice. Plus the questmaster is clearly aiming for that scene, so it'll probably happen eventually anyway.
+> 
+> And since opportunities to banter come pretty much at random, there's no point in doing long-term planning to maximise *that* either. You just vote "banter" whenever the option shows up.
+> 
+> (I once again present *The Erogamer* as an example.)
+> 
+> &nbsp;
+> 
+> Sorry for only addressing the specific case of quests rather than your higher-level question. Well, this *is* /r/rational.
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (12 hours later)
 >> 
 >> I'm aware that misaligned incentives is a problem with quests. I didn't address it because:
+>> 
 >> >(hiveminds largely populated by less competent individuals would have many other problems to deal with, but they're not as interesting as the problems that persist even in the best case scenario)
+>> 
 >> It may be cheeky to file away a player base whose incentives aren't perfectly aligned with the goals of the quest as less than competent, but after covering bandwagoning, I realised that there were other problems with quests as practiced that didn't seem to be inherent problems and thus I didn't find them as interesting as the kind of problems that persisted when we had an ideal player base.
+>> 
 >> &#x200B;
+>> 
 >> That said I would look at other forms of voting. I was wondering that stuff like ranked choice would make the voting process more complex (especially if write in plans are accepted, it may become cumbersome), but perhaps the higher threshold for voting would incentivise more intelligent behaviour. I'm now thinking of a three part voting period.
+>> 
 >> * A discussion period in which no votes are cast nor plans proposed that lasts several hours.
 >> * A plan proposal period in which plans are proposed but not voted on (plans can also be discussed and refined further) that also lasts several hours. No plans can be voted on during this period.
 >> * A voting period in which players rank the plans. Only voting takes place in this period (one could raise the threshold of investment by requiring players to rank all plans, but if a sufficiently large number of plans are proposed this would become cumbersome).
->> 
 
->> **u/GeneralExtension** [+1] *
+>> **u/GeneralExtension** [+1]  (7 hours later)
 >> 
 >> >option
->> There are ways around Arrow's Impossibility Theorem; for instance, randomization.
 >> 
+>> There are ways around Arrow's Impossibility Theorem; for instance, randomization.
 
->>> **u/Roxolan** [+8]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+8]  *Head of antimemetiWalmart senior assistant manager* (7 hours later)
 >>> 
 >>> Sure, if you decide that you don't actually care about all five conditions of Arrow's theorem, you may yet find your perfect voting system.
->>> Come to think of it, in the olden days of 4chan quests, [random ballot](https://en.wikipedia.org/wiki/Random_ballot) was a fairly common system...
 >>> 
+>>> Come to think of it, in the olden days of 4chan quests, [random ballot](https://en.wikipedia.org/wiki/Random_ballot) was a fairly common system...
 
-> **u/Hust91** [+8] *
+> **u/Hust91** [+7]  (6 hours later)
 > 
 > Some time ago [a company](https://unanimous.ai/) did an AMA on reddit where they showcased an automatic "voting system" that they called the [Unanimous AI](https://www.google.com/search?q=unu+ai&client=firefox-b-m&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjOlbzn-LfjAhXvpYsKHY9ZCRMQ_AUIBigB&biw=360&bih=512#mhpiv=12&spf=1563228741539), a swarm intelligence that basically made Quest-style voting more intuitive and more likely to defer to the people with the most information.
-> Hypothetically it could be used for Quests.
 > 
+> Hypothetically it could be used for Quests.
 
->> **u/DragonGod2718** [+3] *
+>> **u/DragonGod2718** [+3]  (12 hours later)
 >> 
 >> Thanks, I'll check it out.
->> 
 
-> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram* (27 minutes later)
 > 
 > I think you're overoptimistic when you suggest a committee is no smarter than the median member.
+> 
 > Piet Hein wrote a grook about committees, I don't recall the whole thing but the last two lines are telling:
+> 
 > > _Intelligence makes a difference_
 > > 
 > > _But stupidity makes a sum._
-> One thing that might help would be to weight people's votes by whether choices taken where they voted with the majority had positive or negative outcomes, kind of like the classic matchbox tic-tac-toe engine.
 > 
+> One thing that might help would be to weight people's votes by whether choices taken where they voted with the majority had positive or negative outcomes, kind of like the classic matchbox tic-tac-toe engine.
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (50 minutes later)
 >> 
 >> Well apart from the difference in strategic acumen, a committee would have access to more manpower (higher research ability, more knowledge, more skills, and a differing perspectives). It may be not be that great a strategist, but it should have access to more information than a lone decision maker.
->> 
 
->>> **u/anenymouse** [+3] *
+>>> **u/anenymouse** [+4]  (6 hours later)
 >>> 
 >>> But it's also limited by the fact that votes are voluntarily brought up by people, an expert uncertain of the right thing to do in the situation, is trumped by anyone who puts together any vote at all. It also implies that more manpower is a virtue rather than an impediment, what you're describing sounds more appropriate when speaking of a committee whose members are chosen for their expertise rather than anyone who chooses to do so. There's kind of the larger problem not necessarily of bandwagon-ing but that some people can explain their vote in a more convincing way even if the vote isn't the best one available.
->>> 
 
->>>> **u/DragonGod2718** [+1] *
+>>>> **u/DragonGod2718** [+1]  (12 hours later)
 >>>> 
 >>>> Yeah, that pre supposed that the members of the committee are competent. This is not necessarily true for many scenarios in real life, and often not true for quests.
->>>> 
 
-> **u/RMcD94** [+5] *
+> **u/RMcD94** [+5]  (13 hours later)
 > 
 > I don't really even understand how this is applicable to quests.
-> Hive mind video games yes. 
-> But the vast majority of quests don't have failure states. The authors are having fun and so are the audience. There are rarely "best" choices. Whatever choice you choose something will occur and when does that something mean game over no more content ever? 
-> The long term is vastly discounted because the voters don't even know if they'll bother reading future updates. Even if there was only a single individual voting almost everything you say would still apply.
-> I can't trust that my future self is going to want to keep reading, I can't trust that the author will keep producing content, etc.
-> Why not look into the video game community? Which can and do commit to longterm plans, especially with small numbers of people. As the game progresses interest dies down and similarly minded people continue the process. 
-> Look into twitch plays pokemon and all the thousands of clones of that.
 > 
+> Hive mind video games yes. 
+> 
+> But the vast majority of quests don't have failure states. The authors are having fun and so are the audience. There are rarely "best" choices. Whatever choice you choose something will occur and when does that something mean game over no more content ever? 
+> 
+> The long term is vastly discounted because the voters don't even know if they'll bother reading future updates. Even if there was only a single individual voting almost everything you say would still apply.
+> 
+> I can't trust that my future self is going to want to keep reading, I can't trust that the author will keep producing content, etc.
+> 
+> Why not look into the video game community? Which can and do commit to longterm plans, especially with small numbers of people. As the game progresses interest dies down and similarly minded people continue the process. 
+> 
+> Look into twitch plays pokemon and all the thousands of clones of that.
 
->> **u/DragonGod2718** [+3] *
+>> **u/DragonGod2718** [+3]  (15 hours later)
 >> 
 >> Well my opinions were formed from reading quests. :V
->> 
 
-> **u/DragonGod2718** [+3] *
+> **u/DragonGod2718** [+5]  (56 minutes later)
 > 
 > One thing that's come out of this is that I'm now more sceptical of collective intelligences becoming superintelligent. At the least it seems doubtful that they would gain strategic superpowers.
-> 
 
->> **u/GeneralExtension** [+3] *
+>> **u/GeneralExtension** [+3]  (7 hours later)
 >> 
 >> The OP's comments refer to a collective of humans, organized in a particular way. I'm curious how things would turn out for 1) a group of competent players, 2) who hold an election\*, 3) some other system where votes are weighted, probably by past performance (which requires the group to keep track/spell out their goals, etc.).
->> \*This is one way of fixing the commitment problem. The obvious objection in practice would probably be the impacts on fun-ness. Coming up with ways to make a "hivemind"/group more effective while still fun would probably be necessary for the method to actually be adopted. The actual issue might be entirely due to things being not taken seriously though.
 >> 
+>> \*This is one way of fixing the commitment problem. The obvious objection in practice would probably be the impacts on fun-ness. Coming up with ways to make a "hivemind"/group more effective while still fun would probably be necessary for the method to actually be adopted. The actual issue might be entirely due to things being not taken seriously though.
 
->>> **u/DragonGod2718** [+2] *
+>>> **u/DragonGod2718** [+2]  (12 hours later)
 >>> 
 >>> What about measures to track reputation. It doesn't need to be a mechanism that is explicitly used in decision making, merely providing the ability for players to see how the history of the results of the other player's votes may lead to those who'd been right more often gaining more social cred and louder voices.
->>> 
 
-> **u/None** [+4] *
+> **u/None** [+3]  (7 hours later)
 > 
 > Quests are often intelligent in highly specific ways but are just as often extremely blind to potential problems and focused on short term gains, especially those which are 'rational' quests.  Quest participants specifically do not form a true hivemind.  They are a group of different people with different motivations and different desires.  They may collectively choose a course of action, but that is not the same thing as being a hivemind.
-> 
 
->> **u/CitrusJ** [+2] *
+>> **u/CitrusJ** [+2]  (9 hours later)
 >> 
 >> I feel like your definition assumes an executive that organizes and directs the overall actions. Having a hivemind that doesn't have such an executive (ex: straight democratic) would be the same as what's described for quests no?
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (11 hours later)
 >>> 
 >>> I would say the opposite - a democratic assembly is specifically not a hivemind because it has dissonance and dissent.  To me, it isn't really a hivemind if it is not the case that every component is more or less identical to every other component in terms of goals and motivations and so on.
->>> 
 
-> **u/azatol** [+3] *
+> **u/azatol** [+4]  (a day later)
 > 
 > The Forge of Destiny / Threads of Destiny quests have a Math Cabal that meets on Discord, and a lot of times they have determined the best choice ahead of time, and usually their choice wins the vote.
-> That quest also has an automatic 2 hour wait before anyone can vote, which also helps foster discussion.
 > 
+> That quest also has an automatic 2 hour wait before anyone can vote, which also helps foster discussion.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (2 days later)
 >> 
 >> Hmm, that's interesting.
->> 
 
-> **u/Boron_the_Moron** [+4] *
+> **u/Boron_the_Moron** [+4]  (3 days later)
 > 
 > It amuses/frustrates me that you think Quests would be "better" if the posters always made the absolute bestest, most smartest, most well-informed decisions. I completely disagree.
-> Stories are built on characters being idiots. On making mistakes. On failing to think ahead. On being flawed, and limited, and buffeted by desires they may only be dimly aware of. Frankly, I find characters' weaknesses vastly more interesting than their strengths, because that's where drama lies.
-> You are not treating Quests like an exercise in collaborative storytelling. You are treating them like an engineering problem. You are trying to optimise away the drama. As far as I'm concerned, having a Quest protagonist make stupid decisions, despite having the intelligence of a whole crowd of spectators driving them, is the system working as intended.
-> Because stories where the protagonist always makes the right choices, and comes out of every conflict on top, *are fucking boring.*
 > 
+> Stories are built on characters being idiots. On making mistakes. On failing to think ahead. On being flawed, and limited, and buffeted by desires they may only be dimly aware of. Frankly, I find characters' weaknesses vastly more interesting than their strengths, because that's where drama lies.
+> 
+> You are not treating Quests like an exercise in collaborative storytelling. You are treating them like an engineering problem. You are trying to optimise away the drama. As far as I'm concerned, having a Quest protagonist make stupid decisions, despite having the intelligence of a whole crowd of spectators driving them, is the system working as intended.
+> 
+> Because stories where the protagonist always makes the right choices, and comes out of every conflict on top, *are fucking boring.*
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (8 days later)
 >> 
 >> > You are treating them like an engineering problem.
->> This rings true. In fairness, that's due to the nature of certain quests I've read.
 >> 
+>> This rings true. In fairness, that's due to the nature of certain quests I've read.
 
-> **u/llllll--llllll** [+2] *
+> **u/llllll--llllll** [+2]  (a day later)
 > 
 > the 80% rule probably applies.
-> 
 
-> **u/Law_Student** [+2] *
+> **u/Law_Student** [+2]  (12 hours later)
 > 
 > It can help to create a mandatory discussion period before voting begins. It's not a perfect solution, but it's a step in the right direction.
-> 
 
->> **u/DragonGod2718** [+3] *
+>> **u/DragonGod2718** [+3]  (12 hours later)
 >> 
 >> I mentioned this.
->> 
 
-> **u/BumblingJumbles** [+1] *
+> **u/BumblingJumbles** [+1]  (9 hours later)
 > 
 > This isnt news to me. I've known for some time that the will of the plurality is more often than not stupid, as well as anti-thetical to it's own proposed goals and welfare.
-> 
 
-> **u/googolplexbyte** [+1] *
+> **u/googolplexbyte** [+1]  (5 days later)
 > 
 > Iterative Score Voting would fix most all issues and is fairly streamlined (certainly more so than any ranked system).
+> 
 > 1) Each person proposes a plan (no discussion needed)  
 > 2) Show of fingers to score each plan 0-10  
 > 3) Each person proposes amended version of the highest scored plan  
 > 4) Show of fingers to score each plan plus the highest scored plan  
 > 5) Repeat 3)/4) until highest scored plan outscores all amended ones  
+> 
 > No discussion needed so it harder for bandwagons to occur.
+> 
 > I believe the iterative nature helps with long-term planning, the voting process itself is longer-term, and iteration helps amend any strategic flaws and short-termism in the plan.
+> 
 > The only amendment to the procedure I might make is to try the procedure out a few times, then propose multiple amendments to the procedure and run them through the iterated score voting procedure until the iterated score voting procedure produces the optimal version of the iterated score voting procedure.
+> 
 > Hopefully, this doesn't result in a recursive self-improvement process that leads iterated score voting procedure to acquire runaway super-intelligence, but if one does emerge I think it's best it be made of people.
 > ________________________
-> Iterative Score Voting also opens an avenue for something better than reputational weighting. Forecasting skill weighting!
-> Each plan's total score is an independent event, so forecasting each plan's total score is a prediction that can be made and immediately checked for accuracy.
-> Forecasting a plan's total score and forecasting a plan's value should correlate highly relative to anything else you could test.
-> If you then bias the vote toward good total-score-forecasters you should get higher forecasted-value plans winning.
-> Its also possible a training effect will occur. Getting rapid feedback on your forecasting skill should allow you to improve it, and thus improve your skill at forecasting other things like how valuable each plan would prove to be.
-> It's similar to how accurately assessing your confidence in your answer is closely tied to your ability to predict what percentage other answerers would give the same answer.
 > 
+> Iterative Score Voting also opens an avenue for something better than reputational weighting. Forecasting skill weighting!
+> 
+> Each plan's total score is an independent event, so forecasting each plan's total score is a prediction that can be made and immediately checked for accuracy.
+> 
+> Forecasting a plan's total score and forecasting a plan's value should correlate highly relative to anything else you could test.
+> 
+> If you then bias the vote toward good total-score-forecasters you should get higher forecasted-value plans winning.
+> 
+> Its also possible a training effect will occur. Getting rapid feedback on your forecasting skill should allow you to improve it, and thus improve your skill at forecasting other things like how valuable each plan would prove to be.
+> 
+> It's similar to how accurately assessing your confidence in your answer is closely tied to your ability to predict what percentage other answerers would give the same answer.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (8 days later)
 >> 
 >> The lack of discussion seems like it would inhibit cross pollination of ideas.
->> 
 
->>> **u/googolplexbyte** [+1] *
+>>> **u/googolplexbyte** [+1]  (9 days later)
 >>> 
 >>> Every person still experiences every idea, because they have to assess each presented idea to vote on them.
->>> And the fact that the next step is amending the previous winner, rather than starting from scratch ensures there is cross-pollination.
 >>> 
+>>> And the fact that the next step is amending the previous winner, rather than starting from scratch ensures there is cross-pollination.
 
 ---
 

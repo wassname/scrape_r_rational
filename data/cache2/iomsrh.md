@@ -2,7 +2,7 @@
 
 * Author: u/HeroDarkyDark *
 * URL: https://www.reddit.com/r/rational/comments/iomsrh/games_of_knowledgeizuku_in_a_club_with_momo_saiko/
-* Score: 6
+* Score: 7
 
 * Created: 2020-09-08T04:04:19
 
@@ -20,30 +20,25 @@ Summary: In order to win a game Izuku strips and Momo gets so flustered that she
 
 ### Comments:
 
-> **u/Redditor76394** [+1] *
+> **u/Redditor76394** [+1]  (an hour later)
 > 
 > Weird premise but I love it!
-> 
 
-> **u/CronoDAS** [+1] *
+> **u/CronoDAS** [+1]  (5 hours later)
 > 
 > I know nothing about My Hero Academia - will I understand this?
-> 
 
->> **u/HeroDarkyDark** [+1] *
+>> **u/HeroDarkyDark** [+1]  (9 hours later)
 >> 
 >> yeah, only really the character show up and even then they're altered
->> 
 
-> **u/CronoDAS** [+1] *
+> **u/CronoDAS** [+1]  (23 hours later)
 > 
 > Definitely fun to read, but it could use a bit more proofreading/polish in execution. Keep up the good work!
-> 
 
->> **u/HeroDarkyDark** [+1] *
+>> **u/HeroDarkyDark** [+1]  (a day later)
 >> 
 >> thanks m8
->> 
 
 ---
 

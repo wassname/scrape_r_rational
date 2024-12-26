@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (21 minutes later)
 > 
 > This is not fiction or related to fiction.
-> 
 
 ---
 

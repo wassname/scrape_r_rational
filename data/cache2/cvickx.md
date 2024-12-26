@@ -2,7 +2,7 @@
 
 * Author: u/Hoophy97 *
 * URL: https://www.reddit.com/r/rational/comments/cvickx/rthfmk_dungeon_engineer_ch_1_2_arcanasynthesis/
-* Score: 16
+* Score: 13
 
 * Created: 2019-08-26T02:58:47
 
@@ -752,140 +752,143 @@ And the list goes on and on and on.
 
 ### Comments:
 
-> **u/meterion** [+17] *
+> **u/meterion** [+17]  (4 hours later)
 > 
 > I would seriously recommend you post this story on an actual text host and not just using reddit text posts for a number of reasons.
-> * You'll reach a wider audience by posting updates here and a potential local audience on, say, AO3 or Royalroad
-> * Reddit search is not well optimized and there's no good way to make a table of contents feature for easy navigation
-> * People mildly interested in the story here will look to the comments; seeing a wall of text may discourage them from checking it out on that basis
-> * Breaking up the flow of your story due to reddit's arbitrary character limit doesn't do you any favors
-> * Reddit posts are archived after six months and thus are terrible for any enduring reader engagement down the line
 > 
+> * You'll reach a wider audience by posting updates here and a potential local audience on, say, AO3 or Royalroad
+> 
+> * Reddit search is not well optimized and there's no good way to make a table of contents feature for easy navigation
+> 
+> * People mildly interested in the story here will look to the comments; seeing a wall of text may discourage them from checking it out on that basis
+> 
+> * Breaking up the flow of your story due to reddit's arbitrary character limit doesn't do you any favors
+> 
+> * Reddit posts are archived after six months and thus are terrible for any enduring reader engagement down the line
 
->> **u/Hoophy97** [+5] *
+>> **u/Hoophy97** [+5]  (7 hours later)
 >> 
 >> I see, I wasn’t sure how y’all’d feel about offsite linking. I remember some people getting upset about stories that did so on r/hfy, for whatever reason, so the idea stuck.
->> I apprecite the advice!
 >> 
+>> I apprecite the advice!
 
->>> **u/meterion** [+7] *
+>>> **u/meterion** [+7]  (13 hours later)
 >>> 
 >>> Yup, very link-friendly here. And I appreciate the story, it’s off to an interesting start.
->>> 
 
-> **u/randomkloud** [+7] *
+> **u/randomkloud** [+8]  (4 hours later)
 > 
 > pretty good. i would follow this story. is it posted anywhere else?
-> 
 
->> **u/Hoophy97** [+3] *
+>> **u/Hoophy97** [+3]  (7 hours later)
 >> 
 >> Indeed it is, here you go: https://www.royalroad.com/fiction/25361/dungeon-engineer
->> 
 
->>> **u/randomkloud** [+4] *
+>>> **u/randomkloud** [+4]  (10 hours later)
 >>> 
 >>> great. reddit is kinda bad for me to follow updates. I'll follow it on my rr account
->>> 
 
->>> **u/randomkloud** [+3] *
+>>> **u/randomkloud** [+3]  (10 hours later)
 >>> 
 >>> oh wow a backlog. followed and fav'd.
->>> 
 
-> **u/JanDis42** [+5] *
+> **u/JanDis42** [+5]  (5 hours later)
 > 
 > For some reason u/Hoophy97 forgot to mention that he is hosting his Story on RoyalRoad.
-> [Link](https://www.royalroad.com/fiction/25361/dungeon-engineer)
-> 36 chapters online at the moment, regular updates. I like it so far, keep up the good work u/Hoophy97 :D
 > 
+> [Link](https://www.royalroad.com/fiction/25361/dungeon-engineer)
+> 
+> 36 chapters online at the moment, regular updates. I like it so far, keep up the good work u/Hoophy97 :D
 
-> **u/water125** [+4] *
+> **u/water125** [+4]  (3 hours later)
 > 
 > I really enjoyed this. Obviously there are areas to improve. I can tell that you're a new author, and there's some strangeness that goes with that. But this is _entertaining_ and interesting. I'm looking forward to whatever you put out next.
-> 
 
->> **u/Hoophy97** [+2] *
+>> **u/Hoophy97** [+2]  (7 hours later)
 >> 
 >> I’m glad you liked it!
->> If you’re willing to share my mistakes here, that would help me a lot.
 >> 
+>> If you’re willing to share my mistakes here, that would help me a lot.
 
-> **u/Hoophy97** [+3] *
+> **u/Hoophy97** [+3]  (2 minutes later)
 > 
 > **Continued final paragraph:**
-> >!What I’m sure must be every plant that I collected along with some bonus additions that must have hitched a ride, gets mentioned by Mr. Normal. No, scratch that, I did not see any fire flowers in that list, and I highly doubt they’re an unidentified species. Glancing around, everything minus those burning blossoms has grown substantially, in some cases, entire new plants are sprouting! Vines cling to the moss on the walls, which, at this point, also includes the ceiling. Multicolored mushrooms and other fruiting bodies populate every surface that isn’t occupied by a plant, and moths and flies visit various blooming flowers. Tiny animals sift through the undergrowth, munch on plants, or burrow through the soil. My humble cave is bursting with life that is reproducing and growing at a rapid pace. As it does, my mana regeneration skyrockets.!<
-> >!End of chapter 2.!<
-> &#x200B;
-> >!Afterword:!<
-> >!Thank you so much for reading my story, I hope you enjoyed reading as much as I enjoyed writing it!!<
-> &#x200B;
-> **What is a ‘dungeon core’ story?**
-> According to [goodreads.com](https://www.goodreads.com/list/show/110518.Protagonist_is_a_Dungeon): >!"It is a genre where the main character is a 'Dungeon' or, in a more general sense, a powerful being that is bound to one place and has a great influence over that place by supernatural means. The main character has the ability to change reality around himself to improve his 'body' in various ways, which can include changing layout of the area; creating or improving its dwellers (plants, animals or magical/technological beings); any items etc. As the plot develops, protagonist improves himself and his domain, expands his territory and establishes contact with outside world."!<
-> &#x200B;
-> **Disclamer:**
-> I'm a first-time writer, so this is all new to me. As such, my story is probably garbage.
-> In my opinion, the early chapters are more poor than the rest I've written so far. I'm working on them now.
-> At times my story will get technical for no real reason at all. Those portions are included because I enjoyed writing them and ultimately that's the reason I'm even doing this in the first place.
-> I've read a few popular rational stories (PGE, MoL, HPMoR, etc.) but I've only just now come to realize there is an entire community dedicated to this sort of fiction! I happen to've written part of a story which easily conforms to the Hard Fiction and Munchkinism flairs, but I'm less certain that it's truly rational. If it's not, either let me know in the comments or downvote. Thanks for bearing with me!
-> (I'd also peg it as a deconstruction of the 'dungeon core' genre, but its tropes aren't very widely known so I left that flair off.)
 > 
+> >!What I’m sure must be every plant that I collected along with some bonus additions that must have hitched a ride, gets mentioned by Mr. Normal. No, scratch that, I did not see any fire flowers in that list, and I highly doubt they’re an unidentified species. Glancing around, everything minus those burning blossoms has grown substantially, in some cases, entire new plants are sprouting! Vines cling to the moss on the walls, which, at this point, also includes the ceiling. Multicolored mushrooms and other fruiting bodies populate every surface that isn’t occupied by a plant, and moths and flies visit various blooming flowers. Tiny animals sift through the undergrowth, munch on plants, or burrow through the soil. My humble cave is bursting with life that is reproducing and growing at a rapid pace. As it does, my mana regeneration skyrockets.!<
+> 
+> >!End of chapter 2.!<
+> 
+> &#x200B;
+> 
+> >!Afterword:!<
+> 
+> >!Thank you so much for reading my story, I hope you enjoyed reading as much as I enjoyed writing it!!<
+> 
+> &#x200B;
+> 
+> **What is a ‘dungeon core’ story?**
+> 
+> According to [goodreads.com](https://www.goodreads.com/list/show/110518.Protagonist_is_a_Dungeon): >!"It is a genre where the main character is a 'Dungeon' or, in a more general sense, a powerful being that is bound to one place and has a great influence over that place by supernatural means. The main character has the ability to change reality around himself to improve his 'body' in various ways, which can include changing layout of the area; creating or improving its dwellers (plants, animals or magical/technological beings); any items etc. As the plot develops, protagonist improves himself and his domain, expands his territory and establishes contact with outside world."!<
+> 
+> &#x200B;
+> 
+> **Disclamer:**
+> 
+> I'm a first-time writer, so this is all new to me. As such, my story is probably garbage.
+> 
+> In my opinion, the early chapters are more poor than the rest I've written so far. I'm working on them now.
+> 
+> At times my story will get technical for no real reason at all. Those portions are included because I enjoyed writing them and ultimately that's the reason I'm even doing this in the first place.
+> 
+> I've read a few popular rational stories (PGE, MoL, HPMoR, etc.) but I've only just now come to realize there is an entire community dedicated to this sort of fiction! I happen to've written part of a story which easily conforms to the Hard Fiction and Munchkinism flairs, but I'm less certain that it's truly rational. If it's not, either let me know in the comments or downvote. Thanks for bearing with me!
+> 
+> (I'd also peg it as a deconstruction of the 'dungeon core' genre, but its tropes aren't very widely known so I left that flair off.)
 
->> **u/MayMaybeMaybeline** [+1] *
+>> **u/MayMaybeMaybeline** [+1]  (4 hours later)
 >> 
 >> You're not going to put a link to the rest of it?
->> 
 
->>> **u/Hoophy97** [+3] *
+>>> **u/Hoophy97** [+3]  (7 hours later)
 >>> 
 >>> I didn’t know if anyone would even be interested, I guess I was wrong :)
->>> 
 
->>> **u/Toastybob42** [+1] *
+>>> **u/Toastybob42** [+1]  (4 hours later)
 >>> 
 >>> They mentioned they were still working on them.
->>> 
 
-> **u/JeanDRacc** [+3] *
+> **u/JeanDRacc** [+3]  (15 minutes later)
 > 
 > Seriously it's good.
-> 
 
-> **u/natron88** [+3]  *Ankh-Morpork City Watch**
+> **u/natron88** [+3]  *Ankh-Morpork City Watch* (2 hours later)
 > 
 > I will continue reading this if you post more chapters.
-> 
 
->> **u/Hoophy97** [+3] *
+>> **u/Hoophy97** [+3]  (11 hours later)
 >> 
 >> I’ll post another batch in 1 week as the subreddit has a 1 post/week rule. :)
->> (A good rule, in my opinion.)
 >> 
+>> (A good rule, in my opinion.)
 
->>> **u/iftttAcct2** [+3] *
+>>> **u/iftttAcct2** [+3]  (22 hours later)
 >>> 
 >>> I think you'd be best served by posting a link to the latest (or that week's) royalroad chapter once a week.
->>> 
 
->>>> **u/Hoophy97** [+2] *
+>>>> **u/Hoophy97** [+2]  (a day later)
 >>>> 
 >>>> Ok, I’ll do that instead
->>>> 
 
-> **u/TrebarTilonai** [+2] *
+> **u/TrebarTilonai** [+2]  (a day later)
 > 
 > Interesting story. I was a little skeptical just based on the chapters posted here, but I followed the link that was posted and have binged through chapter 18 so far. It's interesting! I quite like the engineering approach Ike takes to exploring the world around him, and there is a lot of promise in the setup. I can't help but think of it as a video game, but I guess that is a conceit of the genre. You are definitely a beginning writer, but the writing quality has improved just over the course of the month you were posting these, so I look forward to more chapters from you. Thanks for the share!
-> 
 
-> **u/Teulisch** [+1]  *Space Tech Support**
+> **u/Teulisch** [+1]  *Space Tech Support* (2 days later)
 > 
 > to be honest, this story reads like a first draft. once you finish, you should definitely edit it. its an issue of pacing, and the consistency(format?) of narration. its a good idea, but lacks the polish of a finished work.
-> 
 
->> **u/Hoophy97** [+1] *
+>> **u/Hoophy97** [+1]  (2 days later)
 >> 
 >> That’s the plan, it is very unpolished
->> 
 
 ---
 

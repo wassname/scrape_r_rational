@@ -24,112 +24,140 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/ILL_BE_WATCHING_YOU** [+6] *
+> **u/ILL_BE_WATCHING_YOU** [+6]  (3 hours later)
 > 
 > Scenario:
-> Your body is de-aged to 8 years old, and you are dropped into the middle of a dank, dark alley in Gotham city with nothing but a swiss army knife and a raggy t-shirt and shorts. It is midnight. 
-> Powers:
-> 1: You are immune to any and all powers that would influence or alter any and all aspect of your personality, including your moral compass and priorities. Your memory and skills can still be tampered with, you can be forced into unconsciousness, and your actual body can be puppeteered against your will, but other than that your are immune to all forms of mind control. As a side effect of this power, your core personality traits will never change naturally like those of other people, although your opinions, knowledge, and skills can still change and grow.
-> 2: In addition, you have powerful regeneration, but it only applies to your blood and skin. This means that you could deliberately bleed yourself out as much and as fast as possible, and you'd never even lose blood pressure, let alone bleed out, and that any and all wounds would be gone in 30 seconds maximum. As a side effect of this power, you never have to worry about high blood pressure. You are also immune to any and all bloodborne diseases, toxins, and drugs; anything that "shouldn't" exist in your blood is immediately destroyed.
-> 3: Due to mystical reasons, if 1 ml or more of your blood plasma is inside of another human body at any given time, they will be permanently put under the effects of this power. The following are the effects:
-> * Their primary personality traits will be overwritten, and replaced with your primary personality traits and moral compass. Secondary personality traits, memories, skills, knowledge, etc. are left untouched. They also gain immunity to any and all effects that would influence or alter any and all aspect of their new personality.
-> * If you have a line of sight to them, you will be able to instantly identify them as being under the effects of this power.
-> * If they learn of you and/or your powers, they will not attempt to harm you or hinder you in your endeavors, even if they learn that they are under its effects. (Note that this does not allow you to mind control them or force them to aid you, it simply means they will not hinder you.)
-> 4: Lastly, You have an instinctive understanding of all your powers, and how to use and exploit them for maximum effect. 
-> How do you go about minimizing Gotham's crime rate as fast as possible?
 > 
+> Your body is de-aged to 8 years old, and you are dropped into the middle of a dank, dark alley in Gotham city with nothing but a swiss army knife and a raggy t-shirt and shorts. It is midnight. 
+> 
+> Powers:
+> 
+> 1: You are immune to any and all powers that would influence or alter any and all aspect of your personality, including your moral compass and priorities. Your memory and skills can still be tampered with, you can be forced into unconsciousness, and your actual body can be puppeteered against your will, but other than that your are immune to all forms of mind control. As a side effect of this power, your core personality traits will never change naturally like those of other people, although your opinions, knowledge, and skills can still change and grow.
+> 
+> 2: In addition, you have powerful regeneration, but it only applies to your blood and skin. This means that you could deliberately bleed yourself out as much and as fast as possible, and you'd never even lose blood pressure, let alone bleed out, and that any and all wounds would be gone in 30 seconds maximum. As a side effect of this power, you never have to worry about high blood pressure. You are also immune to any and all bloodborne diseases, toxins, and drugs; anything that "shouldn't" exist in your blood is immediately destroyed.
+> 
+> 3: Due to mystical reasons, if 1 ml or more of your blood plasma is inside of another human body at any given time, they will be permanently put under the effects of this power. The following are the effects:
+> 
+> * Their primary personality traits will be overwritten, and replaced with your primary personality traits and moral compass. Secondary personality traits, memories, skills, knowledge, etc. are left untouched. They also gain immunity to any and all effects that would influence or alter any and all aspect of their new personality.
+> 
+> * If you have a line of sight to them, you will be able to instantly identify them as being under the effects of this power.
+> 
+> * If they learn of you and/or your powers, they will not attempt to harm you or hinder you in your endeavors, even if they learn that they are under its effects. (Note that this does not allow you to mind control them or force them to aid you, it simply means they will not hinder you.)
+> 
+> 4: Lastly, You have an instinctive understanding of all your powers, and how to use and exploit them for maximum effect. 
+> 
+> How do you go about minimizing Gotham's crime rate as fast as possible?
 
->> **u/xavion** [+11] *
+>> **u/xavion** [+12]  (4 hours later)
 >> 
 >> > How do you go about minimizing Gotham's crime rate as fast as possible?
->> I'd use this.
->> > an instinctive understanding of all your powers, and how to use and exploit them for maximum effect.
->> I mean, it may not be the answer you want, but if the process of getting the powers I also get an understanding of how to exploit them for maximum effect any plan I make now should be strictly inferior. Given I presumably got no warning to research Gotham before hand in comics, the clear answer is that I can't know in my current state.
->> I'll simply utilize my new knowledge of how to use my powers to maximum effect to utilize my powers for maximum effect in decreasing the crime rate in Gotham.
 >> 
+>> I'd use this.
+>> 
+>> > an instinctive understanding of all your powers, and how to use and exploit them for maximum effect.
+>> 
+>> I mean, it may not be the answer you want, but if the process of getting the powers I also get an understanding of how to exploit them for maximum effect any plan I make now should be strictly inferior. Given I presumably got no warning to research Gotham before hand in comics, the clear answer is that I can't know in my current state.
+>> 
+>> I'll simply utilize my new knowledge of how to use my powers to maximum effect to utilize my powers for maximum effect in decreasing the crime rate in Gotham.
 
->>> **u/ILL_BE_WATCHING_YOU** [+5] *
+>>> **u/ILL_BE_WATCHING_YOU** [+5]  (4 hours later)
 >>> 
 >>> > I'll simply utilize my new knowledge of how to use my powers to maximum effect to utilize my powers for maximum effect in decreasing the crime rate in Gotham.
->>> Well played, I didn't see that coming. 
->>> Assuming you don't get that power, what would your plan be? How would you go about staying under the radar, infecting the greatest amount of people the fastest, etc?
 >>> 
+>>> Well played, I didn't see that coming. 
+>>> 
+>>> Assuming you don't get that power, what would your plan be? How would you go about staying under the radar, infecting the greatest amount of people the fastest, etc?
 
->>>> **u/xavion** [+3] *
+>>>> **u/xavion** [+3]  (4 hours later)
 >>>> 
 >>>> I mean, you have superhuman mental capabilities, it was the natural solution.
->>>> That said, the simple solution, as right now time is a bit limited, figure out where Gotham's water supply is, bleed as much into it as possible. The lack of identity is one of the big issues, but assuming anyone who drinks it is motivated to help, or at least won't do anything to impede it then all you need is to try and get blood in. One milliliter isn't much, and spread out it won't even be noticeable.
->>>> The crazy villain strategy is dig your way under the road next to a water bottling facility and carefully set yourself up to feed your blood into their water supply at a ratio of about 1ppt. Preferrably use your swanky villain tech to first make the blood as transparent as possible. Then just wait a while, of course the problem with said crazy plan is needing fancy tech, but hey, I'm an intelligent person who is a superhuman in DC, I'd be surprised if my mind hasn't suddenly turned into a supervillain right?
 >>>> 
+>>>> That said, the simple solution, as right now time is a bit limited, figure out where Gotham's water supply is, bleed as much into it as possible. The lack of identity is one of the big issues, but assuming anyone who drinks it is motivated to help, or at least won't do anything to impede it then all you need is to try and get blood in. One milliliter isn't much, and spread out it won't even be noticeable.
+>>>> 
+>>>> The crazy villain strategy is dig your way under the road next to a water bottling facility and carefully set yourself up to feed your blood into their water supply at a ratio of about 1ppt. Preferrably use your swanky villain tech to first make the blood as transparent as possible. Then just wait a while, of course the problem with said crazy plan is needing fancy tech, but hey, I'm an intelligent person who is a superhuman in DC, I'd be surprised if my mind hasn't suddenly turned into a supervillain right?
 
->> **u/vakusdrake** [+5] *
+>> **u/vakusdrake** [+4]  (3 hours later)
 >> 
 >> I think the question to ask here is which Gotham are we talking about here? If we're in the DC universe then you will want to exploit your comics knowledge similar to parts of _This One Ring_.                    
 >> If you are in the DC-CU then there's a lot less to exploit, but you can still do quite a lot like convincing superman to do things like help with massive infrastructure projects, etc. However in those universes a mind control scheme probably wouldn't work as easily due to having to worry about superheros stopping you. Though with a fewer number of heros in the DC_CU you might be able to convince most people in the justice league to let you do tests on them (whose actual purpose is to inject them with your blood). Once you got superman and most the other very powerful members of the justice league you can forcefully take over any remaining heros as well as many supervillains.                                      
 >> If however you are in the dark knight universe then there's no magic so you can try your scheme more easily.
+>> 
 >> Also what counts as a primary vs a secondary personality trait?                           
 >> Either way i'm still pretty sure people given my blood would help me, as they would also be primarily concerned with fulfilling my moral compass in the most efficient possible way, _and since you can affect more change if we're secretly in control of world governments_..
+>> 
 >> As for Gotham's crime rate that's kind of an afterthought once you're in control of the world, but i'm sure if you wanted to waste money on fixing Gotham instead of much more efficient charitable causes you could probably do so. After all when you control nearly the entire world you can produce many billions of dollars probably quite easily.
+>> 
 >> PS. So I did some research and over a year you should be able to safely extract over 36,000 ml of blood a year (well about half that early on as an 8 year old). So I could affect a massive amount of people, but with some planning I can vastly exceed this number.                    
 >> I should have around 6 liters of blood (well half as an 8 year old) so if I was routinely extracting all that blood every day and replacing it with donor blood then I could get an absurd amount, though realistically let's say about 3 liters so as not to waste too much donor blood since I will get diminishing returns as they mix in my body (how long does it need to be in my body to be considered "my" blood?). Anyway for 3 liters a day I could affect over 100,000 people a year, so I might be able to seriously affect Gotham's crime simply by affecting a massive number of it's criminals, and giving the rest cushy jobs with my nearly unlimited monetary resources.
->> 
 
->> **u/lsparrish** [+1] *
+>> **u/lsparrish** [+1]  (11 hours later)
 >> 
 >> It sounds like if a person so much as grabs me by the arm, they would trigger the power -- my blood plasma is "inside" their hand, which is a part of their body. Of course, avoiding close contact would be preferable for safety's sake, but as a small orphan in a dark alley in the middle of the night I might not have a choice. If it works, putting a sample inside of a small object that criminals are likely to handle might be a good option.
->> It may also be possible to make a mist of the stuff. Put it in a fog maker and spread it in the dark alleys where criminals frequent. This would actually get it in their bloodstream. You'd need a plasmapheresis machine to get the red blood cells out, otherwise people would likely steer clear of the red mist. (The red blood cells could be safe to sell as a medical supply once you have removed the plasma.) This might be infeasible due to smell though.
->> A good question is whether the plasma can be concentrated by evaporating its water content, and whether the addition of water actually increases its volume. If the latter applies without limits, adding even a small amount to the water supply could result in instant conversion of everyone who drinks it.
->> The issue with water supply is that it is untargeted. That means millions of innocent people suddenly losing part of their identity once they have enough of a dose to trigger the power. So most heroes in this situation would be very hesitant to take that route. I'm not sure it's reasonable to expect to put 1ml in someone's body at a given time without affecting the taste of the water anyway though (unless the water takes on the property of being your plasma through dilution).
->> Never having to worry about high blood pressure is a nice bonus; perhaps you could use in conjunction with a natural stimulant like adrenaline (since you're immune to hard drugs) to accelerate your reflexes. The power doesn't protect against muscle sprains, broken bones, and so on, so this is limited in usefulness, but as an 8 year old you would tend to recover from sprains and so on more easily anyway, so it could be useful to help you adhere to a physical training regimen.
->> Being immune to shock, blood loss, infection, toxicity, and so on would make it more attractive to attempt cybernetic experiments on yourself using local anesthetics or by hiring a trustworthy doctor to do the surgery on you. Since they can't harm or hinder you, any competent medical professional under the power's influence should be okay for this purpose.
->> Having the ability to violate conservation of mass where your blood is concerned is *possibly* worth trying to munchkin, but I'm not sure how to do so in service of the goal of reducing crime in Gotham. It could be useful as a propellant source for space travel (especially if the blood that is replaced comes pre-oxygenated, as you wouldn't need to breathe as long as you are bleeding enough).
->> Being able to get rid of toxic wastes by injecting them into your body is also an interesting aspect of the power (might be useful at a nuclear power plant), but hard to do at enough scale to be worth it -- imagine trying to inject a whole barrel of sludge into a person's veins. If you could somehow expand the size of what is considered to be your circulatory system, it might be useful though. If you could use your skin regeneration to form a layer of skin around a large container and hook it up to your circulatory system, that could increase your ability to create new blood and dispose of waste to a large enough scale to matter from an industrial standpoint.
->> Since the effect works on any human body, it might be useful on corpses. Presumably it would result in undead people with one's goals and priorities, since the power does not confer regeneration and since classically dead bodies don't have the capacity for goals and priorities. If it doesn't work on dead people, try it on brain-dead people. Even if they lack knowledge and skills from their previous life, being granted the necessary brainpower for primary personality could at least provide some measure of comfort for their loved ones.
 >> 
+>> It may also be possible to make a mist of the stuff. Put it in a fog maker and spread it in the dark alleys where criminals frequent. This would actually get it in their bloodstream. You'd need a plasmapheresis machine to get the red blood cells out, otherwise people would likely steer clear of the red mist. (The red blood cells could be safe to sell as a medical supply once you have removed the plasma.) This might be infeasible due to smell though.
+>> 
+>> A good question is whether the plasma can be concentrated by evaporating its water content, and whether the addition of water actually increases its volume. If the latter applies without limits, adding even a small amount to the water supply could result in instant conversion of everyone who drinks it.
+>> 
+>> The issue with water supply is that it is untargeted. That means millions of innocent people suddenly losing part of their identity once they have enough of a dose to trigger the power. So most heroes in this situation would be very hesitant to take that route. I'm not sure it's reasonable to expect to put 1ml in someone's body at a given time without affecting the taste of the water anyway though (unless the water takes on the property of being your plasma through dilution).
+>> 
+>> Never having to worry about high blood pressure is a nice bonus; perhaps you could use in conjunction with a natural stimulant like adrenaline (since you're immune to hard drugs) to accelerate your reflexes. The power doesn't protect against muscle sprains, broken bones, and so on, so this is limited in usefulness, but as an 8 year old you would tend to recover from sprains and so on more easily anyway, so it could be useful to help you adhere to a physical training regimen.
+>> 
+>> Being immune to shock, blood loss, infection, toxicity, and so on would make it more attractive to attempt cybernetic experiments on yourself using local anesthetics or by hiring a trustworthy doctor to do the surgery on you. Since they can't harm or hinder you, any competent medical professional under the power's influence should be okay for this purpose.
+>> 
+>> Having the ability to violate conservation of mass where your blood is concerned is *possibly* worth trying to munchkin, but I'm not sure how to do so in service of the goal of reducing crime in Gotham. It could be useful as a propellant source for space travel (especially if the blood that is replaced comes pre-oxygenated, as you wouldn't need to breathe as long as you are bleeding enough).
+>> 
+>> Being able to get rid of toxic wastes by injecting them into your body is also an interesting aspect of the power (might be useful at a nuclear power plant), but hard to do at enough scale to be worth it -- imagine trying to inject a whole barrel of sludge into a person's veins. If you could somehow expand the size of what is considered to be your circulatory system, it might be useful though. If you could use your skin regeneration to form a layer of skin around a large container and hook it up to your circulatory system, that could increase your ability to create new blood and dispose of waste to a large enough scale to matter from an industrial standpoint.
+>> 
+>> Since the effect works on any human body, it might be useful on corpses. Presumably it would result in undead people with one's goals and priorities, since the power does not confer regeneration and since classically dead bodies don't have the capacity for goals and priorities. If it doesn't work on dead people, try it on brain-dead people. Even if they lack knowledge and skills from their previous life, being granted the necessary brainpower for primary personality could at least provide some measure of comfort for their loved ones.
 
-> **u/LiteralHeadCannon** [+2] *
+> **u/LiteralHeadCannon** [+2]  (8 hours later)
 > 
 > Reposting from last week, since I got in too late to get any responses.
-> You have firm evidence (in the form of extensive documentation containing many easily-confirmed details, which may be used to solve a considerable number of old unsolved crimes) that a machine has been created which, given access to a sleeping person, will permanently make them obedient to the user of the machine (ie, they will follow any order to the best of their ability, regardless of their personal code), at the cost of a typically small but variable portion of their general intelligence. (In the vast majority of cases, the intelligence loss is hard but possible to detect; in rare positive cases it is entirely negligible and in rare negative cases it's an extreme effect that renders them completely incompetent.) You do not possess enough information to recreate the machine. You also do not possess enough information to determine what's happened to it - whoever currently has the machine has covered up their tracks well enough that your evidence does not lead you directly to them; the original inventors of the machine are dead or disappeared. What actions do you take and what protocols do you implement?
 > 
+> You have firm evidence (in the form of extensive documentation containing many easily-confirmed details, which may be used to solve a considerable number of old unsolved crimes) that a machine has been created which, given access to a sleeping person, will permanently make them obedient to the user of the machine (ie, they will follow any order to the best of their ability, regardless of their personal code), at the cost of a typically small but variable portion of their general intelligence. (In the vast majority of cases, the intelligence loss is hard but possible to detect; in rare positive cases it is entirely negligible and in rare negative cases it's an extreme effect that renders them completely incompetent.) You do not possess enough information to recreate the machine. You also do not possess enough information to determine what's happened to it - whoever currently has the machine has covered up their tracks well enough that your evidence does not lead you directly to them; the original inventors of the machine are dead or disappeared. What actions do you take and what protocols do you implement?
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (10 hours later)
 >> 
 >> Who am I? Sounds like someone in the executive branch.
->> That machine sure sounds like it places an involuntary Occlumency barrier on your mind, forcing you to continually imagine perfectly how you would act if you were the person the machine describes to you.
->> For all I know, 50% of the population are compromised. For all I know, I'm an Occlumency barrier and the actual me is waiting for me to think of pink elephants before Obliviating me.
->> If orders conflict, do older or younger orders override?
->> If this goes public, everyone and their dog needs to install 1984-level webcams in their bedrooms so law enforcement can supress any attempts at going Drug Lord. Prepare for abroad dictators and warlords to find their communism suddenly start working.
 >> 
+>> That machine sure sounds like it places an involuntary Occlumency barrier on your mind, forcing you to continually imagine perfectly how you would act if you were the person the machine describes to you.
+>> 
+>> For all I know, 50% of the population are compromised. For all I know, I'm an Occlumency barrier and the actual me is waiting for me to think of pink elephants before Obliviating me.
+>> 
+>> If orders conflict, do older or younger orders override?
+>> 
+>> If this goes public, everyone and their dog needs to install 1984-level webcams in their bedrooms so law enforcement can supress any attempts at going Drug Lord. Prepare for abroad dictators and warlords to find their communism suddenly start working.
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (10 hours later)
 >>> 
 >>> Younger orders override, but the slave must honestly believe that their orders come from the master the machine binded them to.
->>> 
 
->>>> **u/Gurkenglas** [+1] *
+>>>> **u/Gurkenglas** [+1]  (11 hours later)
 >>>> 
 >>>> Can a person enslave themselves for unbreakable vows? (They would presumably order themselves not to override orders.) Could they still be tricked into giving themselves new orders, or do you ignore orders that you know the master didn't mean to give?
->>>> Does this override previous enslavements, or do you have to follow orders from both? If the first, this allows freeing slaves, if the second, this allows making people enslavementproof by having them vow to ignore enslavement. (Guessing the former in the same vein as younger orders overriding.)
 >>>> 
+>>>> Does this override previous enslavements, or do you have to follow orders from both? If the first, this allows freeing slaves, if the second, this allows making people enslavementproof by having them vow to ignore enslavement. (Guessing the former in the same vein as younger orders overriding.)
 
->>>>> **u/LiteralHeadCannon** [+1] *
+>>>>> **u/LiteralHeadCannon** [+1]  (11 hours later)
 >>>>> 
 >>>>> No, people cannot enslave themselves.  The master has to be awake for the initial binding, and the slave has to be asleep for it.
->>>>> Using the machine on someone multiple times is catastrophic for their health and pretty much kills them.
 >>>>> 
+>>>>> Using the machine on someone multiple times is catastrophic for their health and pretty much kills them.
 
->>>>>> **u/Gurkenglas** [+2] *
+>>>>>> **u/Gurkenglas** [+2]  (21 hours later)
 >>>>>> 
 >>>>>> Could two people enslave each other and tell each other not to give more orders to the other than these, and to behave as if they'd enslaved themselves? Would they be immune to being tricked into accepting new orders from presumably the other because they know only trickery could cause such?
->>>>>> 
 
-> **u/Sgtbird08** [+1] *
+> **u/Sgtbird08** [+1]  (a day later)
 > 
 > This is actually for a D&D campaign (home-brew obviously) that I am currently playing with some friends of mine.
+> 
 > The general premise: It's 2060, superpowers have been a thing for the last 20 years or so, the global economy is in shambles, and three main alliances (The Americas, Oceania, and Eurasia) are all on the edge of war with no one really wanting to throw the first rock.
+> 
 > My character is one of several thousand superpowered fellows, who was "hired" by the Oceanian government, and I am expected to grow my power while working alongside a few other heroes to protect a large city floating in the middle of the Pacific.
+> 
 > So, my character has the ability to animate golems. Unfortunately, the DM has nerfed me to hell and back, and that's where I need help with the cheese.
+> 
 > Known rules of my power(Liable to change as my character grows in power):  
 > 1. All golems animated must be at least vaguely humanoid. No animating random machines to do my bidding.  
 > 2. I can only animate a golem that I have touched with my bare hands. I can activate any golem that I have activated before as long as it is within three miles of my, and I know where it is.  
@@ -143,16 +171,18 @@ Good Luck and Have Fun!
 > 10. A golem left on autopilot can be given a set of instructions that allow it to learn. After spending several in-game months on it, I have devised a way to give my golems the ability to learn on their own, the ability to reason, and the ability to "improve their own code" so to speak. Long story short, I've created a self-improving AI and am slowly endowing my golem army with sentience. Tying into point nine, a golem's core will grow larger/stronger as it learns more.  
 > 11. If a golem's core is removed, it can be placed into a new golem. The new golem will activate, however, the golem's AI will have a hard time adapting to the new body. I have decided that I will not be doing much with this, as my golems have expressed unease at the prospect of their cores being damaged. I feel like now that I've selfishly given my creations free will, it's only right to adhere to their requests.  
 > 12. Though my golems cease to function if I fall unconscious through mental/physical trauma, they can remain active while I sleep if I specifically tell them to. In the event that I am about to get knocked unconscious, I can overload my golems with power, giving them a few turns to do things even if I am taken out of the fight.
-> I think that's about everything, so hit me with the munchkinry!
-> If anyone has any questions, I'd be happy to answer.
 > 
+> I think that's about everything, so hit me with the munchkinry!
+> 
+> If anyone has any questions, I'd be happy to answer.
 
->> **u/Prezombie** [+1] *
+>> **u/Prezombie** [+1]  (9 days later)
 >> 
 >> For evil, murder sometime short enough to golemify, have them convert all thier assets into something untraceable before destroying themselves.
->> Accelerate their learning by making them compete with each other in autopilot, eg. Have them fight hand to hand to optimize an ideal hand to hand fighter.
->> No limit on width? Make a golem with really long arms, have it learn to walk on hands.
 >> 
+>> Accelerate their learning by making them compete with each other in autopilot, eg. Have them fight hand to hand to optimize an ideal hand to hand fighter.
+>> 
+>> No limit on width? Make a golem with really long arms, have it learn to walk on hands.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/dgwagq/d_saturday_munchkinry_thread/
-* Score: 15
+* Score: 16
 
 * Created: 2019-10-12T15:04:32
 
@@ -23,146 +23,157 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/Nivirce** [+6] *
+> **u/Nivirce** [+6]  (2 hours later)
 > 
 > One of my characters can increase the gravity of a single point. This point is the focal point of his eye-lenses — meaning that if parallel beans originating from one of his eyes passed through his eye-lense they would meet at a focal point, and when both focal points of his eyes meet *that's'* where gravity will increase. Because of the way our eye-lenses work that means that he can't just look forward and decide where the gravity-point be at an arbitrary distance from him. There must always be something for his eyes to focus on.
-> He can increase the gravity of the point whenever he wants but he can only have one unusually attractive point in space at any point in time. The unusual attraction of a point has a life-span that gets shorter the stronger the attractive force of the point, but he can also end it at will. After an unusual gravitational point becomes normal he has to wait 10 seconds before he can create another.
-> If he creates a gravity-point that's strong enough to lift a single coin but too weak to do anything else it will last so long that he has not bothered to check. (I'm thinking of something like a year, but it could be more if necessary)
-> I'm trying to find a limit to how much gravitational force he can put on a point. I already know that, if several conditions are met, with many power-ups plus a MacGuffin and with him dying in the process he would be able to create a black hole the size of the head of a pin for a tenth of a second, but that's a final-showdown kind of thing and not a very practical limit for daily use.
-> With the exception of the will-die-black-hole-final-gambit, this is not supposed to be any world-ending, triumvirate-tier power, but it should still be powerful. I'm hoping this story will be something of street-level power fights.
-> Having all that in mind a) how do I muchkin the hell out of this power — utility and offensive purposes are all welcome — and b) what would you suggest to be a limit.
 > 
+> He can increase the gravity of the point whenever he wants but he can only have one unusually attractive point in space at any point in time. The unusual attraction of a point has a life-span that gets shorter the stronger the attractive force of the point, but he can also end it at will. After an unusual gravitational point becomes normal he has to wait 10 seconds before he can create another.
+> 
+> If he creates a gravity-point that's strong enough to lift a single coin but too weak to do anything else it will last so long that he has not bothered to check. (I'm thinking of something like a year, but it could be more if necessary)
+> 
+> I'm trying to find a limit to how much gravitational force he can put on a point. I already know that, if several conditions are met, with many power-ups plus a MacGuffin and with him dying in the process he would be able to create a black hole the size of the head of a pin for a tenth of a second, but that's a final-showdown kind of thing and not a very practical limit for daily use.
+> 
+> With the exception of the will-die-black-hole-final-gambit, this is not supposed to be any world-ending, triumvirate-tier power, but it should still be powerful. I'm hoping this story will be something of street-level power fights.
+> 
+> Having all that in mind a) how do I muchkin the hell out of this power — utility and offensive purposes are all welcome — and b) what would you suggest to be a limit.
 
->> **u/nevinera** [+14] *
+>> **u/nevinera** [+13]  (6 hours later)
 >> 
 >> Unfortunately, the gravitation effect on an object's motion does not depend on that object's mass - it'll accelerate a bowling ball exactly as quickly as a coin. The limiter on gravitational acceleration is actually "distance from the center of the mass" - since your mass is described as 'point-shaped', this produces.. some inconsistency.
->> If the thing can pick up a single piece of invulnerable adamantium buckshot at a distance of 1m, then if you put that same piece of shot 1cm away from the point and let go, it'll accelerate toward the point at about 100,000 m/s\^2 (and more as it gets closer), pass the point, start decelerating the same way, and come to a stop roughly 1cm on the other side. It should basically oscillate, and fast enough to cut through most things it can come into contact with. 
->> Why 'invulnerable adamantium buckshot'? Well.. when it gets close enough, tidal forces will rip any real material apart - when the acceleration on the front half of the sphere is 1k, 10k, 1M times higher than the acceleration on the back half of the sphere, it will stretch out and deform - that will actually happen far faster than any real material can deform, so it'll really shatter into tiny pieces, which will also all oscillate around that center point as a cloud of metal dust. And we can go further, since the individual atoms will end up ripped apart by the same effect when they are \*close enough\*.. and ripping apart atoms is pretty exothermic.
->> This is the problem with trying to create physics based powers that violate physics - the effects always turn out to be explosive because of the boundary condition issues :-\\
 >> 
+>> If the thing can pick up a single piece of invulnerable adamantium buckshot at a distance of 1m, then if you put that same piece of shot 1cm away from the point and let go, it'll accelerate toward the point at about 100,000 m/s\^2 (and more as it gets closer), pass the point, start decelerating the same way, and come to a stop roughly 1cm on the other side. It should basically oscillate, and fast enough to cut through most things it can come into contact with. 
+>> 
+>> Why 'invulnerable adamantium buckshot'? Well.. when it gets close enough, tidal forces will rip any real material apart - when the acceleration on the front half of the sphere is 1k, 10k, 1M times higher than the acceleration on the back half of the sphere, it will stretch out and deform - that will actually happen far faster than any real material can deform, so it'll really shatter into tiny pieces, which will also all oscillate around that center point as a cloud of metal dust. And we can go further, since the individual atoms will end up ripped apart by the same effect when they are \*close enough\*.. and ripping apart atoms is pretty exothermic.
+>> 
+>> This is the problem with trying to create physics based powers that violate physics - the effects always turn out to be explosive because of the boundary condition issues :-\\
 
->>> **u/nevinera** [+3] *
+>>> **u/nevinera** [+3]  (4 days later)
 >>> 
 >>> After a little more thought, I realized that "a point shaped mass" is actually the *definition* of a black hole, and you can just refer to the physics of those in all cases :-)
->>> 
 
->> **u/None** [+6] *
+>> **u/None** [+6]  (4 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/nevinera** [+2] *
+>>> **u/nevinera** [+2]  (10 hours later)
 >>> 
 >>> >The limit on speed is the limit on how fast my eyes can focus.
->>> Which is substantially slower than a bullet..
 >>> 
+>>> Which is substantially slower than a bullet..
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+3]  (5 hours later)
 >> 
 >> Any mass has a Schwarzschild radius (the radius of a black hole with that mass), and a point is going to lie within it and be a black hole (which should immediately evaporate due to Hawking radiation if it's sufficiently small), so your mass could be distributed in a constant-sized ball the size of the head of a pin (foreshadowing!) that can be with enough effort swallowed by the Schwarzschild radius.
->> Gravity decreases with the square of the distance. Think magnets - as you remove magnets a few of their sizes from each other, their force goes from strong to maybe barely noticeable. How far up does it lift the coin? Enough acceleration to hold the coin is one Earth gravity. Enough acceleration at the surface to lift it up from 10 cm away is about 1778 times that. You really really don't want 1778G in the space your brain is moving through.
 >> 
+>> Gravity decreases with the square of the distance. Think magnets - as you remove magnets a few of their sizes from each other, their force goes from strong to maybe barely noticeable. How far up does it lift the coin? Enough acceleration to hold the coin is one Earth gravity. Enough acceleration at the surface to lift it up from 10 cm away is about 1778 times that. You really really don't want 1778G in the space your brain is moving through.
 
->>> **u/zaxqs** [+1] *
+>>> **u/zaxqs** [+1]  (8 hours later)
 >>> 
 >>> > 1778 times that
->>> So a pin head has radius 2.381mm?
 >>> 
+>>> So a pin head has radius 2.381mm?
 
->>>> **u/Gurkenglas** [+2] *
+>>>> **u/Gurkenglas** [+2]  (20 hours later)
 >>>> 
 >>>> Whoops, missed a point. (10cm/0.75cm)^(2)=17777.7&#773;. (From googling: "1.5 mm = Diameter of pin head used in Wayne's Word articles.")
->>>> 
 
->>>>> **u/zaxqs** [+1] *
+>>>>> **u/zaxqs** [+1]  (a day later)
 >>>>> 
 >>>>> That's 18000 to you, don't screw your sig figs.
->>>>> Also, .75cm≠1.5mm.
 >>>>> 
+>>>>> Also, .75cm≠1.5mm.
 
->>>>>> **u/Gurkenglas** [+1] *
+>>>>>> **u/Gurkenglas** [+1]  (a day later)
 >>>>>> 
 >>>>>> .75 would be the diameter, and Shell's theorem says a spherical mass attracts things outside it as though it were a point mass, so the distance to the center is relevant. Agreed on the sig figs, though 1778 is less egregious and rounding when I say = is also iffy. 1778G also sounds like less of just a statistic than 1800G.
->>>>>> 
 
->>>>>>> **u/zaxqs** [+1] *
+>>>>>>> **u/zaxqs** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> .75mm would be the radius, not .75cm.
->>>>>>> 
 
->>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>>> **u/Gurkenglas** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> I didn't say it's .75cm :P. If it were .75cm it would end up at only 178G.
->>>>>>>> 
 
->> **u/zaxqs** [+3] *
+>> **u/zaxqs** [+3]  (8 hours later)
 >> 
 >> You can use this to get free energy, by turning a gravitational point on and off above a mass to move a lever back and forth.
->> 
 
->> **u/nonoforreal** [+2] *
+>> **u/nonoforreal** [+2]  (12 hours later)
 >> 
 >> Others have pointed out how "only strong enough to pick up a small object" isn't a thing with gravity, and how a focal point becomes a terrifying shredding tool because falling off at a ratio of 1/r^2 means that when r is very close to zero the force gets an absolutely enormous multiplier.
->> If I remember my basic physics correctly, once you are inside of an (even, ideal) hollow shell, the gravity of the shell as a whole is basically zero as it is balanced out on all sides.
->> So obviously the other thing you need to have to limit the power of this ability is that the effect needs to be produced as spheres of varying sizes, with anything resembling a point being a top-level effort.
->> If the sphere adds a meter per second per minute, it's fairly useless for launching coins but capable of demolishing buildings trivially with a little time. Stuff that enters the sphere basically just ignores it until it exits the sphere, limiting the force that it gets up to, and mostly resulting in stuff settling into a bowl-like shape at the bottom where the gravity of the sphere is balanced by the gravity of the earth, assuming that the gravitation is strong enough to lift things straight up at all. (Which would make it enormously powerful for crushing people with buildings, mind you.)
 >> 
+>> If I remember my basic physics correctly, once you are inside of an (even, ideal) hollow shell, the gravity of the shell as a whole is basically zero as it is balanced out on all sides.
+>> 
+>> So obviously the other thing you need to have to limit the power of this ability is that the effect needs to be produced as spheres of varying sizes, with anything resembling a point being a top-level effort.
+>> 
+>> If the sphere adds a meter per second per minute, it's fairly useless for launching coins but capable of demolishing buildings trivially with a little time. Stuff that enters the sphere basically just ignores it until it exits the sphere, limiting the force that it gets up to, and mostly resulting in stuff settling into a bowl-like shape at the bottom where the gravity of the sphere is balanced by the gravity of the earth, assuming that the gravitation is strong enough to lift things straight up at all. (Which would make it enormously powerful for crushing people with buildings, mind you.)
 
->> **u/elriggs** [+1] *
+>> **u/elriggs** [+1]  (3 hours later)
 >> 
 >> Offense: 
->> Increasing the gravity on a point of an enemy. A stronger field on the eyes or nose of an enemy to mess up their vision. 
->> Utilities: 
->> A weaker field near their mouth if you just want to mess up their talking (like a disliked politician on national news, or someone else trying to hit on your girl). Smaller fields on the head to mess up someone's hair.  Lots of pranks like that. 
->> Counteract gravity for jumping higher or cushioning falls.
->> Weakness:
->> Distracting the character so they look away and break the effect. Blocking the character's vision with smoke, a piece of paper, etc.
 >> 
+>> Increasing the gravity on a point of an enemy. A stronger field on the eyes or nose of an enemy to mess up their vision. 
+>> 
+>> Utilities: 
+>> 
+>> A weaker field near their mouth if you just want to mess up their talking (like a disliked politician on national news, or someone else trying to hit on your girl). Smaller fields on the head to mess up someone's hair.  Lots of pranks like that. 
+>> 
+>> Counteract gravity for jumping higher or cushioning falls.
+>> 
+>> Weakness:
+>> 
+>> Distracting the character so they look away and break the effect. Blocking the character's vision with smoke, a piece of paper, etc.
 
->> **u/AlmostNeither** [+1] *
+>> **u/AlmostNeither** [+1]  (3 hours later)
 >> 
 >> Available exploits depend a lot on what exactly the properties of the (infinitesimally small) point gravitational anomaly are.  What do you mean when you say that you can increase the gravity on a point?  Does that mean you just calculate the total gravitational attraction exerted at that point by all the matter in the universe and then multiply it by some factor? Or do you mean that the gravitational attraction exerted by objects at that point on other things is increased (or decreased?) by some factor.  Or both at once?  Something else?
->> If it's actually an infinitesimally small point-shaped anomaly, all sorts of strange things are possible, down to splitting atoms.
->> If it's not actually a point, then the nature of the boundary of the affected space allows for all sorts of odd things, potentially messing with microcircuitry in fun and novel ways.
 >> 
+>> If it's actually an infinitesimally small point-shaped anomaly, all sorts of strange things are possible, down to splitting atoms.
+>> 
+>> If it's not actually a point, then the nature of the boundary of the affected space allows for all sorts of odd things, potentially messing with microcircuitry in fun and novel ways.
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (5 hours later)
 >> 
 >> > Because of the way our eye-lenses work that means that he can't just look forward and decide where the gravity-point be at an arbitrary distance from him. There must always be something for his eyes to focus on.
->> With a little bit of practice, he should be able to look *beyond* nearby objects and, for example, make a gravity point on the opposite side of a wall (albeit with appalling accuracy)
 >> 
+>> With a little bit of practice, he should be able to look *beyond* nearby objects and, for example, make a gravity point on the opposite side of a wall (albeit with appalling accuracy)
 
->> **u/Nivirce** [+1] *
+>> **u/Nivirce** [+1]  (8 hours later)
 >> 
 >> Some of you pointed out that this is not how gravity works. It's perfectly possible I had no idea what I was talking about and ended up saying nonsense. As such I'll describe the effect I had in mind when I described the power as 'increasing the gravity on a single point' and try to mitigate inconsistencies from there.
 >> The idea is that the point (though if being a point is itself a problem it could be a small spherical region) will attract everything around it with a force that is stronger the closer something is to it.
 >> My idea was that if I placed an object in the center of that attractive point/small spherical region it could break in of itself, but it would depend on how strong the attractive force of the point/small spherical region was imediately outside of it, and that is a variable the character should be able to control (though perhaps if it is too weak to break objects in of themselves it is too weak to be of any use at all? I would expect this would depend on the resistance of an object).
 >> If it does not break in of itself, the object will be suspended with 0 acceleration, with it's center of gravity and the point/center of the small spheric region coinciding, until either the effect stops or the object is hit by another.
 >> And, of course, all of this is relative to earth's center. No things being kept behind while the rest of the plat keeps moving on its orbit.
->> 
 
-> **u/LazarusRises** [+1] *
+> **u/LazarusRises** [+1]  (2 days later)
 > 
 > I haven't thought about this too much, but I'm curious what /r/rational can do with this scenario.
-> Round 1: What would the world look like if the aphorisms "Everything happens for a reason" and "It's always darkest before the dawn" were literally true and applied directly to human endeavors? 
-> Round 2: What would happen if [cliche X] were literally true and applied to human endeavors?
 > 
+> Round 1: What would the world look like if the aphorisms "Everything happens for a reason" and "It's always darkest before the dawn" were literally true and applied directly to human endeavors? 
+> 
+> Round 2: What would happen if [cliche X] were literally true and applied to human endeavors?
 
->> **u/Silver_Swift** [+1] *
+>> **u/Silver_Swift** [+1]  (3 days later)
 >> 
 >> >"Everything happens for a reason"
->> This one _is_ true (for a sufficiently liberal interpretation of reason). The problem is that people want the reasons to be anthropomorphizable.
->> >"It's always darkest before the dawn"
->> That one requires something really wonky is going on. Closest I can think of (short of a completely artificial day-night cycle) is a giant ring shaped solar panel at the L1 lagrange point that perpetually casts a shadow on the parts of the planet that are on the border between day and night.
->> Don't know of any real good way to munchkin that though, other than asking why on earth you would build your giant solar panel at L1, rather than at L2.
 >> 
+>> This one _is_ true (for a sufficiently liberal interpretation of reason). The problem is that people want the reasons to be anthropomorphizable.
+>> 
+>> >"It's always darkest before the dawn"
+>> 
+>> That one requires something really wonky is going on. Closest I can think of (short of a completely artificial day-night cycle) is a giant ring shaped solar panel at the L1 lagrange point that perpetually casts a shadow on the parts of the planet that are on the border between day and night.
+>> 
+>> Don't know of any real good way to munchkin that though, other than asking why on earth you would build your giant solar panel at L1, rather than at L2.
 
-> **u/Tuftears** [+1] *
+> **u/Tuftears** [+1]  (3 days later)
 > 
 > Any suggestions for munchkining the power of Universal Translation?  That is: the wielder of this power is able to learn and subsequently speak, read, or write any language that is known to the target, with very little time required.  If the target's understanding of a language is incomplete, the gained knowledge is also incomplete, and with only one sample, or several, the wielder might speak with an accent.  The target must be living and conscious.  Machines are ineligible.
-> &#x200B;
-> The setting is science fiction, with aliens.  While the wielder is technically reading the target's mind, the wielder is not permitted to read or project thoughts or emotions.  Body language is, to some extent, included in the definition of 'language.'
 > 
+> &#x200B;
+> 
+> The setting is science fiction, with aliens.  While the wielder is technically reading the target's mind, the wielder is not permitted to read or project thoughts or emotions.  Body language is, to some extent, included in the definition of 'language.'
 
 ---
 

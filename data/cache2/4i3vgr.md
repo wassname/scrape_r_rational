@@ -2,7 +2,7 @@
 
 * Author: u/MugaSofer *
 * URL: https://www.reddit.com/r/rational/comments/4i3vgr/ranimorphs_ways_to_resurrect_dead_characters/
-* Score: 16
+* Score: 15
 
 * Created: 2016-05-06T05:55:51
 
@@ -40,79 +40,83 @@ I am 100% out of ideas, but I bet you guys have some other ones.
 
 ### Comments:
 
-> **u/granker** [+4] *
+> **u/granker** [+5]  (4 hours later)
 > 
 > (You might want to rename this thread it's a little spoilery)
 > I'm not sure Cassie would want to return in the first place, having died honorably and doing what she felt was right.
+> 
 > Regardless.
+> 
 > If Cassie's mind is still running in the Z-Space yeerk tissue, that body can be displaced through a wormhole and she could potentially survive in a Chee host. 
+> 
 > When you start to introduce time travel, especially in stories originally written for an ten year old demographic, the rules get strange. Travelling through Sario Rips and using the Time Matrix are the methods through which canon time travel can occur.
+> 
 > If you go back in time with a Sario Rip you have a limited period to save Cassie. If your split timeline catches up to the period in which the rip occurs and there are multiple copies of an individual existing at the same time, they're both erased from reality. 
+> 
 > Although this doesn't happen in the novels when all the Others were simply killed. Corpses still exist. This may suggest that Ax's explanation was Andalite folklore that has no basis in truth. If that's so, you can simply go through a rip, acquire and spawn off a copy of Cassie and then return. 
+> 
 > Meanwhile, there's this absolutely broken technology which should not exist in a Rational!Animorphs story
 > >The Time Matrix is a spherical device created by the Ellimist, which allows the user to travel through time and space. In addition, the user can alter reality itself even without time travel, making people remember things that did not happen. Should the user request something entirely detached from reality, it has the power to send the user to a new universe specifically created for them.
-> 
 
->> **u/MugaSofer** [+3] *
+>> **u/MugaSofer** [+3]  (9 hours later)
 >> 
 >> The Time Matrix is amusing, but I was actually thinking of the book where they're picked up by a ship in z-space; they have an entire adventure on an alien planet, but no time passes on Earth.
->> If you could pull that off in both directions, you have easy, effective time travel. All you'd need is some kind of z-space beacon.
 >> 
+>> If you could pull that off in both directions, you have easy, effective time travel. All you'd need is some kind of z-space beacon.
 
->> **u/confettibin** [+3] *
+>> **u/confettibin** [+3]  (10 hours later)
 >> 
 >> > not sure Cassie would want to return in the first place
->> An earlier, less jaded version of Cassie might feel differently. I'm pretty sure they still have access to every iteration they've acquired so far.
 >> 
+>> An earlier, less jaded version of Cassie might feel differently. I'm pretty sure they still have access to every iteration they've acquired so far.
 
-> **u/scruiser** [+5]  *CYOA**
+> **u/scruiser** [+3]  *CYOA* (9 hours later)
 > 
 > A couple of ideas.  Also keep in mind we aren't 100% sure Cassie is dead yet.
-> * Cassies body is still in Z-space right?  In canon, the Animorphs' bodies once got picked up by a passing Andalite ship in Z-space... this was noted as rare in canon and its probably even more improbable in this rational AU, but with the Ellimist and Crayak manipulating things, it is still possible.  Also, afterwards there were somehow transported back with another undocumented side effect of the interaction of z-space and morphing. (Book 18, thanks to the wikia because I couldn't remember the details and I might have missed this one anyway since there were so many and the library never had them all at once)
-> * In canon an "allergy" to a morph (literally how Ax described it in canon, although in this rational AU "allergy" might be more a metaphor) caused Rachael to have problem morphing and eventually caused her to eject an entire copy of the morph in question - an alligator- from her body.  If they could trigger that artificially and they have a morph copy of Cassie, problem solved.
-> * Finally, there is the narratively unsatisfying, but possible given canon, option that the Ellimist has created this as a dream/illusion in order to teach the Animorphs some kind of useful lesson.
 > 
+> * Cassies body is still in Z-space right?  In canon, the Animorphs' bodies once got picked up by a passing Andalite ship in Z-space... this was noted as rare in canon and its probably even more improbable in this rational AU, but with the Ellimist and Crayak manipulating things, it is still possible.  Also, afterwards there were somehow transported back with another undocumented side effect of the interaction of z-space and morphing. (Book 18, thanks to the wikia because I couldn't remember the details and I might have missed this one anyway since there were so many and the library never had them all at once)
+> 
+> * In canon an "allergy" to a morph (literally how Ax described it in canon, although in this rational AU "allergy" might be more a metaphor) caused Rachael to have problem morphing and eventually caused her to eject an entire copy of the morph in question - an alligator- from her body.  If they could trigger that artificially and they have a morph copy of Cassie, problem solved.
+> 
+> * Finally, there is the narratively unsatisfying, but possible given canon, option that the Ellimist has created this as a dream/illusion in order to teach the Animorphs some kind of useful lesson.
 
->> **u/CitrusJ** [+3] *
+>> **u/CitrusJ** [+3]  (10 hours later)
 >> 
 >> It's quite possible that this was engineered by the Ellimist, but on purpose too.
->> He called her one of the "Key Pieces" before.  It might be her death in this situation that helps spur the rest of the "Key Pieces" towards the eventual victory he forsees, where her not being there or not dying there does not cause that
 >> 
+>> He called her one of the "Key Pieces" before.  It might be her death in this situation that helps spur the rest of the "Key Pieces" towards the eventual victory he forsees, where her not being there or not dying there does not cause that
 
->>> **u/ZeroNihilist** [+2] *
+>>> **u/ZeroNihilist** [+2]  (12 hours later)
 >>> 
 >>> There's three basic possibilities:
+>>> 
 >>> 1. Cassie's death is part of the entity's plan.
 >>> 2. The entity is not the same one that inscribed the message with the names of the key players (compatible with possibility #1).
 >>> 3. The entity was mistaken or mislead about Cassie's chance of survival.
->>> 
 
->>>> **u/gbear605** [+2]  *history’s greatest story**
+>>>> **u/gbear605** [+2]  *history’s greatest story* (13 hours later)
 >>>> 
 >>>> Just curious, how did you get your flair?
->>>> 
 
->>>>> **u/ZeroNihilist** [+2] *
+>>>>> **u/ZeroNihilist** [+2]  (13 hours later)
 >>>>> 
 >>>>> Winning 5 of the biweekly writing challenges on this subreddit. The current challenge is Romance, which you can find stickied on the /r/rational front page.
->>>>> 
 
-> **u/CoolGuy54** [+2] *
+> **u/CoolGuy54** [+2]  (30 days later)
 > 
 > >This would allow you to duplicate people, and one of the duplicates could easily sacrifice themself to become Cassie (among other applications.)
-> That last one is the understatement of the century. I think this would be OP, there'd be no way to avoid the conclusion that they have to make clone armies of themselves, and then that power takes over the story.
 > 
+> That last one is the understatement of the century. I think this would be OP, there'd be no way to avoid the conclusion that they have to make clone armies of themselves, and then that power takes over the story.
 
->> **u/MugaSofer** [+2] *
+>> **u/MugaSofer** [+2]  (30 days later)
 >> 
 >> Heh, yeah. It *should* work, though, unless the morphing device was specifically engineered to prevent it. 
->> It's not as if the story hasn't already made innovations like that into a big deal, with the ability for morphs to read people's minds and the thought-speak weapon taking out the entire Yeerk pool.
 >> 
+>> It's not as if the story hasn't already made innovations like that into a big deal, with the ability for morphs to read people's minds and the thought-speak weapon taking out the entire Yeerk pool.
 
-> **u/lsparrish** [+1] *
+> **u/lsparrish** [+1]  (12 hours later)
 > 
 > My idea is that the Yeerk pool attack thus far has been a simulation. The entity will deliver memories of the simulation to the "real" individuals before it happens and thus give them the chance to make a more optimal decision.
-> 
 
 ---
 

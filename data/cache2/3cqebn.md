@@ -2,7 +2,7 @@
 
 * Author: u/rdestenay *
 * URL: https://www.reddit.com/r/rational/comments/3cqebn/q_whose_patreon_do_you_support_and_why/
-* Score: 26
+* Score: 24
 
 * Created: 2015-07-09T23:00:46
 
@@ -26,209 +26,215 @@ Wait but Why patreon: https://www.patreon.com/waitbutwhy
 
 ### Comments:
 
-> **u/8gigcheckbook** [+10] *
+> **u/8gigcheckbook** [+11]  (an hour later)
 > 
 > At the moment just Wildbow, so that he may continue to write great works. (Author of Worm, Pact, and Twig).
-> 
 
->> **u/Coadie** [+2] *
+>> **u/Coadie** [+2]  (7 hours later)
 >> 
 >> Ditto, although I have yet to read pact, so it's more of a payment in arrears for Worm ;)
->> 
 
-> **u/EliezerYudkowsky** [+19]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+19]  *Godric Gryffindor* (39 minutes later)
 > 
 > "Shadows of the Limelight" and "Mother of Learning".
-> 
 
-> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+> **u/xamueljones** [+5]  *My arch-enemy is entropy* (2 hours later)
 > 
 > [Shadows of the Limelight](http://alexanderwales.com/shadows/), [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning), [Leftover Soup](http://leftoversoup.com/index.php), and [Twig](https://twigserial.wordpress.com/about/).
-> I'm seriously contempting helping Tarol for [Goblins](http://alexanderwales.com/shadows/) as well, but decided on a wait-and-see to see if he is really back on his feet after last year before helping out. If he keeps his current pace up, then I'll probably support him in a month or two.
-> I give a dollar or two to all of these awesome creators. Everyone else, I only buy their merch. ;)
 > 
+> I'm seriously contempting helping Tarol for [Goblins](http://alexanderwales.com/shadows/) as well, but decided on a wait-and-see to see if he is really back on his feet after last year before helping out. If he keeps his current pace up, then I'll probably support him in a month or two.
+> 
+> I give a dollar or two to all of these awesome creators. Everyone else, I only buy their merch. ;)
 
->> **u/MacDancer** [+4] *
+>> **u/MacDancer** [+4]  (3 hours later)
 >> 
 >> Do you think supporting Tarol now would have a meaningful effect on the probability that he'll keep doing what he's doing? After all, you can always cancel support in a month or two, but if you wanna reinforce him, it seems like it's more likely to make a difference now.
->> 
 
->> **u/adad64** [+2]  *Chaos Legion**
+>> **u/adad64** [+2]  *Chaos Legion* (3 hours later)
 >> 
 >> I should throw a few bucks into Leftover Soup, thanks for reminding me.
->> 
 
->> **u/2-4601** [+1] *
+>> **u/2-4601** [+1]  (9 hours later)
 >> 
 >> Tarol's paid per creation, so his pace is already self-reinforcing.
->> 
 
-> **u/Integrated_Delusions** [+3]  *The Flying Kiwi**
+> **u/Integrated_Delusions** [+4]  *The Flying Kiwi* (an hour later)
 > 
 > Where applicable, links are to the first post/chapter/etc to encourage clickthroughs.
-> [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning) - good story, supporting in the hopes it encourages quicker/consistent updates.
-> [Leftover Soup](http://leftoversoup.com/first.php) - It's a slice of life webcomic that brings up some interesting points of view. Doesn't meet the criteria for rational fiction, but quite enjoyable.
-> [Twig](https://twigserial.wordpress.com/2014/12/24/taking-root-1-1/) - Wildbow's latest serial. Currently, I'm not enjoying it nearly as much as Worm or Pact. I enjoyed the tension overload from Pact and certain arcs of Worm, and I'm hoping later arcs of Twig can ratchet it up a bit. Plus, for me the monster of the week thing isn't as entertaining as the more focused arcs from the other two. 
-> [LoadingReadyRun](http://loadingreadyrun.com/) - Canadian sketch comedy at its finest. There may be better sources of news, but they don't have those hats.
 > 
+> [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning) - good story, supporting in the hopes it encourages quicker/consistent updates.
+> 
+> [Leftover Soup](http://leftoversoup.com/first.php) - It's a slice of life webcomic that brings up some interesting points of view. Doesn't meet the criteria for rational fiction, but quite enjoyable.
+> 
+> [Twig](https://twigserial.wordpress.com/2014/12/24/taking-root-1-1/) - Wildbow's latest serial. Currently, I'm not enjoying it nearly as much as Worm or Pact. I enjoyed the tension overload from Pact and certain arcs of Worm, and I'm hoping later arcs of Twig can ratchet it up a bit. Plus, for me the monster of the week thing isn't as entertaining as the more focused arcs from the other two. 
+> 
+> [LoadingReadyRun](http://loadingreadyrun.com/) - Canadian sketch comedy at its finest. There may be better sources of news, but they don't have those hats.
 
-> **u/None** [+4] *
+> **u/None** [+4]  (3 hours later)
 > 
 > Tom Siddell because [Gunnerkrigg Court](http://gunnerkrigg.com/?p=1) is absolute tits right now.
-> 
 
->> **u/AE-lith** [+2] *
+>> **u/AE-lith** [+2]  (9 hours later)
 >> 
 >> is that considered rational?
->> (genuinely asking to see if I'll finally pick this up)
 >> 
+>> (genuinely asking to see if I'll finally pick this up)
 
->>> **u/Anderkent** [+2] *
+>>> **u/Anderkent** [+2]  (14 hours later)
 >>> 
 >>> I don't know about rational, but the setting's great, writing is pretty good and the art varies between good and breathtaking.
->>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (20 hours later)
 >>> 
 >>> Not rational in the sense of fitting well into this sub's subculture but really well written.
->>> 
 
-> **u/noggin-scratcher** [+3]  *I am a happy tree**
+> **u/noggin-scratcher** [+3]  *I am a happy tree* (an hour later)
 > 
 > Wildbow, because I love his stuff and he writes so very much of it so consistently... almost single-handedly keeps me supplied with reading material, and if he were publishing in the traditional way I'd be buying a book every few months. So it only seems fair to slip him a few dollars on a regular basis.
-> Haven't yet found anyone else with quite that same combination of prolific, consistent, high quality, and "has a patreon".
 > 
+> Haven't yet found anyone else with quite that same combination of prolific, consistent, high quality, and "has a patreon".
 
->> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (2 hours later)
 >> 
 >> I noticed that you included "has a patreon" as one of  your requirements. Does that mean you know of someone else like Wildbow but without a patreon? ;)
->> 
 
->>> **u/noggin-scratcher** [+2]  *I am a happy tree**
+>>> **u/noggin-scratcher** [+2]  *I am a happy tree* (3 hours later)
 >>> 
 >>> Nothing quite the same, but there are comics and bloggers that I would consider supporting if they were asking. 
->>> I've come close to adding Shamus Young to my list, and might well do if he shifts back towards long-form text posts rather than the videos that I don't actually watch (as he has suggested he might)
->>> It's also possible that there are people I read who *do* have a Patreon and have just hidden it well. Or there's odd cases like ViHart who has a Patreon *solely* supporting videos where she counts down from the donation amount alongside a microwave timer, but says that her other projects are already sufficiently supported.
->>> Oh, and thinking further... I may also have a previously unmentioned "under-funded" criterion; I look at the CGP Grey Patreon and he already has nearly $15k per video pledged and that seems like quite a lot so I don't feel too bad for not adding another $1
 >>> 
+>>> I've come close to adding Shamus Young to my list, and might well do if he shifts back towards long-form text posts rather than the videos that I don't actually watch (as he has suggested he might)
+>>> 
+>>> It's also possible that there are people I read who *do* have a Patreon and have just hidden it well. Or there's odd cases like ViHart who has a Patreon *solely* supporting videos where she counts down from the donation amount alongside a microwave timer, but says that her other projects are already sufficiently supported.
+>>> 
+>>> Oh, and thinking further... I may also have a previously unmentioned "under-funded" criterion; I look at the CGP Grey Patreon and he already has nearly $15k per video pledged and that seems like quite a lot so I don't feel too bad for not adding another $1
 
-> **u/passcod** [+3] *
+> **u/passcod** [+3]  (6 hours later)
 > 
 > In the relevant-to-this-subreddit ones: [Drew Hayes](https://www.patreon.com/superpowereds) of Super Powereds, Wildbow, Leftover Soup.
-> I pre-commit to always maintain my contribution for at least 3 months *before* reviewing the output, and I have a minimum contribution of $5 per month (for pay-per-thing, I estimate how many things are produced per month and divide my contribution).
 > 
+> I pre-commit to always maintain my contribution for at least 3 months *before* reviewing the output, and I have a minimum contribution of $5 per month (for pay-per-thing, I estimate how many things are produced per month and divide my contribution).
 
->> **u/whywhisperwhy** [+1] *
+>> **u/whywhisperwhy** [+1]  (24 days later)
 >> 
 >> I went to Hayes's Patreon and there's something called Project Prometheus... Hint?
->> 
 
-> **u/Predictablicious** [+3]  *Only Mark Annuncio Saves**
+> **u/Predictablicious** [+3]  *Only Mark Annuncio Saves* (3 days later)
 > 
 > Relevant for this sub:
-> [Wildbow - Worm, Pact and Twig](https://www.patreon.com/Wildbow)
-> [Nathaniel Burney -The Illustrated Guide to Law](https://www.patreon.com/nathanburney)
-> [Jason Shiga - Fleep, Demon](https://www.patreon.com/shiga)
-> [David K. Storrs - The Two Year Emperor](https://www.patreon.com/davidstorrs)
-> [Domagoj Kurmaic - The Mother of Learning](https://www.patreon.com/nobody103)
-> [Alexander Wales - The Metropolitan Man, Shadows of the Limelight](https://www.patreon.com/alexanderwales)
 > 
+> [Wildbow - Worm, Pact and Twig](https://www.patreon.com/Wildbow)
+> 
+> [Nathaniel Burney -The Illustrated Guide to Law](https://www.patreon.com/nathanburney)
+> 
+> [Jason Shiga - Fleep, Demon](https://www.patreon.com/shiga)
+> 
+> [David K. Storrs - The Two Year Emperor](https://www.patreon.com/davidstorrs)
+> 
+> [Domagoj Kurmaic - The Mother of Learning](https://www.patreon.com/nobody103)
+> 
+> [Alexander Wales - The Metropolitan Man, Shadows of the Limelight](https://www.patreon.com/alexanderwales)
 
-> **u/RMcD94** [+2] *
+> **u/RMcD94** [+2]  (11 hours later)
 > 
 > People should probably link the patreons as well as the stories in this thread.
-> 
 
-> **u/Anderkent** [+2] *
+> **u/Anderkent** [+2]  (14 hours later)
 > 
 > [Margaret Trauth](https://www.patreon.com/egypturnash?ty=c) for [Decrypting Rita](http://egypt.urnash.com/rita/chapter/01/)
-> [Zach Weinerstein](https://www.patreon.com/ZachWeinersmith?ty=c) for [SMBC](http://www.smbc-comics.com/)
-> [Tom Sidell](https://www.patreon.com/gunnerkrigg?ty=c) for [Gunnerkrigg Court](http://gunnerkrigg.com)
-> [Aaron Diaz](https://www.patreon.com/dresdencodak?ty=c) for [Dresen Codak](http://dresdencodak.com)
-> And some minor pledges ($1 or less) that I can't be arsed checking now ;p
 > 
+> [Zach Weinerstein](https://www.patreon.com/ZachWeinersmith?ty=c) for [SMBC](http://www.smbc-comics.com/)
+> 
+> [Tom Sidell](https://www.patreon.com/gunnerkrigg?ty=c) for [Gunnerkrigg Court](http://gunnerkrigg.com)
+> 
+> [Aaron Diaz](https://www.patreon.com/dresdencodak?ty=c) for [Dresen Codak](http://dresdencodak.com)
+> 
+> And some minor pledges ($1 or less) that I can't be arsed checking now ;p
 
-> **u/VorpalAuroch** [+2]  *Life before Death**
+> **u/VorpalAuroch** [+2]  *Life before Death* (20 hours later)
 > 
 > I have a few small-amount patronages (total ~$10/month), and will probably add several more when I have more cash to spare. (Shadows of the Limelight/Alexander Wales and Alicorn come to mind.)
-> [Leftover Soup](http://leftoversoup.com/archive.php?num=539)/[Tailsteak](https://www.patreon.com/tailsteak), because it's a silly but very thoughtful comic on subjects near to my heart (random page chosen to be fairly representative).
-> [Floating Point](http://stefangagne.com/floatingpoint)/[Stefan "Twoflower" Gagne](https://www.patreon.com/stefangagne): I loved City of Angles, and have been loving Floating Point so far. Not rationalist, but rational and well-written; uses the 'information and planning beat strength' aspect consistently.
-> [The Alexandrian](http://thealexandrian.net/)/[Justin Alexander](https://www.patreon.com/justinalexander): Interesting thoughts on roleplaying games, Shakespeare, and occasionally politics, Russian theater, and random SF fandoms. This one I supported chiefly because the minimum donation was low, and there seemed like a very good chance that small amounts of funding would have noticeable effects. I'd recommend the blog to anyone where the topics sounds interesting, but wouldn't recommend sending another marginal dollar per post his way to someone with the same level as enjoyment as me.
 > 
+> [Leftover Soup](http://leftoversoup.com/archive.php?num=539)/[Tailsteak](https://www.patreon.com/tailsteak), because it's a silly but very thoughtful comic on subjects near to my heart (random page chosen to be fairly representative).
+> 
+> [Floating Point](http://stefangagne.com/floatingpoint)/[Stefan "Twoflower" Gagne](https://www.patreon.com/stefangagne): I loved City of Angles, and have been loving Floating Point so far. Not rationalist, but rational and well-written; uses the 'information and planning beat strength' aspect consistently.
+> 
+> [The Alexandrian](http://thealexandrian.net/)/[Justin Alexander](https://www.patreon.com/justinalexander): Interesting thoughts on roleplaying games, Shakespeare, and occasionally politics, Russian theater, and random SF fandoms. This one I supported chiefly because the minimum donation was low, and there seemed like a very good chance that small amounts of funding would have noticeable effects. I'd recommend the blog to anyone where the topics sounds interesting, but wouldn't recommend sending another marginal dollar per post his way to someone with the same level as enjoyment as me.
 
-> **u/ancientcampus** [+2]  *juggling kittens**
+> **u/ancientcampus** [+2]  *juggling kittens* (a day later)
 > 
 > Here's one big question I've had about Patreon:
-> How much of a cut is taken by Patreon & Paypal? I've heard that Paypal & credit card fees are pretty steep when you only send 1$. I fear that donating $1 per month would compound that, so I've always used lump-sum paypal donations where applicable. Are there any "sellers" who can shed light?
 > 
+> How much of a cut is taken by Patreon & Paypal? I've heard that Paypal & credit card fees are pretty steep when you only send 1$. I fear that donating $1 per month would compound that, so I've always used lump-sum paypal donations where applicable. Are there any "sellers" who can shed light?
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >> 
 >> Patreon's cut is 5%, with Paypal taking another 5% + $0.05 per transaction. So that dollar a month, if transferred through Paypal  would amount to $0.85 for the author. Patreon does bulk processing in order to lower costs, so if you're giving $1 to two artists, the $0.05 fee only occurs once (and each would effectively be getting $0.875 instead).
->> Stripe has higher transaction fees than Paypal, but takes a lower percent of the total. I think the breakeven point between the two is around $8.
 >> 
+>> Stripe has higher transaction fees than Paypal, but takes a lower percent of the total. I think the breakeven point between the two is around $8.
 
->>> **u/ancientcampus** [+2]  *juggling kittens**
+>>> **u/ancientcampus** [+2]  *juggling kittens* (a day later)
 >>> 
 >>> Thanks, that's quite helpful. The fixed $0.05 is not as bad as I thought.
->>> So, to donate $12 to a single artist through Patreon via paypal puts $10.20 into their account, spread over a year. To donate via a lump paypal donation puts 11.35 into their account. That's fairly reasonable, considering that Patreon is essentially offering an online store service. For comparison, Bandcamp charges 10-15% including transaction fees.
 >>> 
+>>> So, to donate $12 to a single artist through Patreon via paypal puts $10.20 into their account, spread over a year. To donate via a lump paypal donation puts 11.35 into their account. That's fairly reasonable, considering that Patreon is essentially offering an online store service. For comparison, Bandcamp charges 10-15% including transaction fees.
 
-> **u/triangleman83** [+1] *
+> **u/triangleman83** [+1]  (21 hours later)
 > 
 > Wildbow for Worm which I read after it was finished, Pact which I read in serial, and Twig which I'm a couple arcs behind on but I'm reading.  
-> [Jason Shiga](http://www.shigabooks.com/) (of Fleep and Demon) got me the link for the full PDFs that update every month, ahead of the single pages on his site.
 > 
+> [Jason Shiga](http://www.shigabooks.com/) (of Fleep and Demon) got me the link for the full PDFs that update every month, ahead of the single pages on his site.
 
-> **u/blazinghand** [+1]  *Chaos Undivided**
+> **u/blazinghand** [+1]  *Chaos Undivided* (a day later)
 > 
 > [Mother of Learning](https://www.patreon.com/nobody103) and [Demon](https://www.patreon.com/shiga). I do it mostly to feel a sense of "duty accomplished" for supporting the arts.
-> 
 
-> **u/None** [+0] *
+> **u/None** [+0]  (2 days later)
 > 
 > Brianna Wu: her patreon proceeds help fund a person to deal with harassment.
-> Zoe Quinn: because she amuses me on twitter.
-> Rebecca Watson: I enjoy the videos she produces.
-> Kory Bing: a webcomic artist for a comic I read.
-> Vals NoisyToys: a streamer on Twitch that I watch a lot. She isn't a Twitch partner, so I can't subscribe to her there. (I also subscribe to Hafu and Sheever on Twitch.)
 > 
+> Zoe Quinn: because she amuses me on twitter.
+> 
+> Rebecca Watson: I enjoy the videos she produces.
+> 
+> Kory Bing: a webcomic artist for a comic I read.
+> 
+> Vals NoisyToys: a streamer on Twitch that I watch a lot. She isn't a Twitch partner, so I can't subscribe to her there. (I also subscribe to Hafu and Sheever on Twitch.)
 
->> **u/None** [+4] *
+>> **u/None** [+1]  (3 days later)
 >> 
 >> You support these social justice warrior abominations like zoe quinn, you should be ashamed. I almost puked when i saw how much zoe was making every month.
->> 
 
->>> **u/None** [-4] *
+>>> **u/None** [-4]  (3 days later)
 >>> 
 >>> Why should I be ashamed? What's abominable about Zoe Quinn? Are you sure you're not just jealous because she's a cyborg and you aren't?
->>> 
 
->>>> **u/Anderkent** [+2] *
+>>>> **u/Anderkent** [+2]  (10 days later)
 >>>> 
 >>>> Without getting into gamergate-specific stuff (which is still mindkilling for many/all) or politics, it's pretty clear she was abusive in the relationship. 
->>>> Whether that should impact your patreon decisions I don't know, but she's definitely a controversial figure.
 >>>> 
+>>>> Whether that should impact your patreon decisions I don't know, but she's definitely a controversial figure.
 
->>>>> **u/None** [+0] *
+>>>>> **u/None** [+0]  (10 days later)
 >>>>> 
 >>>>> You are not citing sources, so it looks exactly as if you were making a baseless accusation. You're not even specifying which relationship you're talking about.
->>>>> Being a woman in public is controversial. Hillary Clinton got badgered about how she could balance being a grandmother with being President during the last election, for instance, an issue that no male candidate has ever had to deal with. So just saying she's a controversial figure tells me nothing.
 >>>>> 
+>>>>> Being a woman in public is controversial. Hillary Clinton got badgered about how she could balance being a grandmother with being President during the last election, for instance, an issue that no male candidate has ever had to deal with. So just saying she's a controversial figure tells me nothing.
 
->>>>>> **u/Anderkent** [+2] *
+>>>>>> **u/Anderkent** [+2]  (10 days later)
 >>>>>> 
 >>>>>> I mean it's pretty obvious which relationship it is? There's one thing that made Zoe Quinn really famous.
->>>>>> I'm not going to rehash the entire thing here. [Ozy has a summary](https://thingofthings.wordpress.com/2014/11/17/zoe-quinn-is-an-abuser/).
->>>>>> This doesn't mean you necessarily should be ashamed of supporting them; I was just trying to give you context for why people might say that and might consider Zoe abominable, because you asked those questions.
->>>>>> > So just saying she's a controversial figure tells me nothing
->>>>>> Well, it should tell you people who express disapproval of your patreon support are not "just jealous because [Zoe]'s a cyborg and [they] aren't".
 >>>>>> 
+>>>>>> I'm not going to rehash the entire thing here. [Ozy has a summary](https://thingofthings.wordpress.com/2014/11/17/zoe-quinn-is-an-abuser/).
+>>>>>> 
+>>>>>> This doesn't mean you necessarily should be ashamed of supporting them; I was just trying to give you context for why people might say that and might consider Zoe abominable, because you asked those questions.
+>>>>>> 
+>>>>>> > So just saying she's a controversial figure tells me nothing
+>>>>>> 
+>>>>>> Well, it should tell you people who express disapproval of your patreon support are not "just jealous because [Zoe]'s a cyborg and [they] aren't".
 
->>>>>>> **u/None** [+0] *
+>>>>>>> **u/None** [+0]  (11 days later)
 >>>>>>> 
 >>>>>>> Ozy's analysis assumes that Eron Gjoni was being honest -- something I severely doubt. Should I sooner trust a woman who hasn't done anything wrong where I can see it, or a man who has organized a harassment campaign (and, according to the courts, engaged in individual harassment), when the latter is accusing the former of being abusive?
->>>>>>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/vaniver *
 * URL: https://www.reddit.com/r/rational/comments/5lnj5r/announcement_intelligence_in_literature_monthly/
-* Score: 67
+* Score: 65
 
 * Created: 2017-01-02T20:53:09
 
@@ -20,93 +20,85 @@ The prize money comes with no strings attached. We don't want any rights to your
 
 ### Comments:
 
-> **u/VanPeer** [+12]  *The shard made me do it**
+> **u/VanPeer** [+13]  *The shard made me do it* (an hour later)
 > 
 > Thanks for posting. Care to link the original announcement? Can't seem to find it on MIRI's webpage or via Google.
-> 
 
->> **u/vaniver** [+13] *
+>> **u/vaniver** [+12]  (an hour later)
 >> 
 >> This is the original announcement! Feel free to spread it around to other places where you think people would be interested.
->> 
 
->>> **u/grep_cat** [+4] *
+>>> **u/grep_cat** [+4]  (5 days later)
 >>> 
 >>> For the same reason that people put up verification for AMAs, it might be helpful to put something on MIRI's website (or twitter) and link to that.
->>> I for one think you should link to a tweet which links to this post.
->>> Edit: Oh wait, it's in the [January newsletter](https://intelligence.org/2017/01/04/january-2017-newsletter/)
 >>> 
+>>> I for one think you should link to a tweet which links to this post.
+>>> 
+>>> Edit: Oh wait, it's in the [January newsletter](https://intelligence.org/2017/01/04/january-2017-newsletter/)
 
-> **u/Roxolan** [+8]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+10]  *Head of antimemetiWalmart senior assistant manager* (8 hours later)
 > 
 > > [Written October 1st, 2016](http://crystal.raelifin.com/about/): Crystal Mentality is in the late stages of being edited and should be out in January of 2016.
-> nobody tell him
 > 
+> nobody tell him
 
->> **u/vaniver** [+2] *
+>> **u/vaniver** [+2]  (a month later)
 >> 
 >> It [didn't work](https://www.reddit.com/r/rational/comments/5ui0em/intelligence_in_literature_prize_first_winner/) :P
->> 
 
->>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (a month later)
 >>> 
 >>> Changed your mind? Link is deleted.
->>> 
 
->>>> **u/vaniver** [+1] *
+>>>> **u/vaniver** [+1]  (a month later)
 >>>> 
 >>>> Hmm, looks like the prize announcement got shadowbanned.
->>>> 
 
-> **u/Gurkenglas** [+6] *
+> **u/Gurkenglas** [+6]  (2 hours later)
 > 
 > I remember reading you may want to reward such fiction retroactively. Did EY write that?
-> *googles 'writing subreddits'*: /r/WritingHub/ may be interested in this, or helpful in finding those who are.
 > 
+> *googles 'writing subreddits'*: /r/WritingHub/ may be interested in this, or helpful in finding those who are.
 
->> **u/vaniver** [+9] *
+>> **u/vaniver** [+10]  (4 hours later)
 >> 
 >> Anything written in December is eligible for this first prize, but we don't have any longer-term retroactive rewards yet.
->> >*googles 'writing subreddits'*
->> One of the reasons to announce this prize here and not, say, /r/ScienceFiction is that the average quality for this specific prompt is probably better here than there. If we don't get enough submissions, we can broaden the net later (which seems better because we'll have some examples of past winners to set the tone).
 >> 
+>> >*googles 'writing subreddits'*
+>> 
+>> One of the reasons to announce this prize here and not, say, /r/ScienceFiction is that the average quality for this specific prompt is probably better here than there. If we don't get enough submissions, we can broaden the net later (which seems better because we'll have some examples of past winners to set the tone).
 
-> **u/embrodski** [+3] *
+> **u/embrodski** [+3]  (a day later)
 > 
 > Well I'll be a mother lover! This is fantastic! Can we sticky this?
-> Also, is it OK to share this more widely? Or is that not a thing that we want to encourage yet? I was thinking places like [Open Call SF](https://www.facebook.com/groups/440107622678110/)
 > 
+> Also, is it OK to share this more widely? Or is that not a thing that we want to encourage yet? I was thinking places like [Open Call SF](https://www.facebook.com/groups/440107622678110/)
 
->> **u/vaniver** [+3] *
+>> **u/vaniver** [+3]  (a day later)
 >> 
 >> Feel free to spread it around where you think people will be interested!
->> 
 
-> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (a day later)
 > 
 > Clarification request: fragments of a larger work?  e.g. if one of the regular rational fics on this subreddit were to submit a new chapter that is clearly intelligence-heavy, would that be disqualified due to being open-ended on both sides?
-> 
 
->> **u/vaniver** [+3] *
+>> **u/vaniver** [+3]  (a day later)
 >> 
 >> If you think those fragments will stand alone as their own thing, then submit them, but try to make sure that either you're submitting a complete fic finished in the last two months *or* you're submitting a fragment that was all published within the last two months. (If you've got a chapter or arc that's relevant, submit them, but don't just submit your whole fic up to the current chapter every month.)
->> 
 
-> **u/alexshvartsman** [+2] *
+> **u/alexshvartsman** [+2]  (10 days later)
 > 
 > This is a little unclear: do you want stories -written- in the two months preceding the deadline or -published- within that time frame? If you want to consider work from pro venues, those are never the same thing. :)
-> 
 
->> **u/vaniver** [+2] *
+>> **u/vaniver** [+2]  (11 days later)
 >> 
 >> If it's a pro venue, published; we're aware about the lag there.
->> 
 
-> **u/susruta** [+1] *
+> **u/susruta** [+1]  (5 months later)
 > 
 > https://intelligence.org/intelligence-in-fiction/
-> Here is the link
 > 
+> Here is the link
 
 ---
 

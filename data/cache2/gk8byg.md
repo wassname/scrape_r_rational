@@ -12,15 +12,13 @@ A while ago I read a short story about a piece of computronium that fell to the 
 
 ### Comments:
 
-> **u/Badewell** [+8] *
+> **u/Badewell** [+8]  (3 hours later)
 > 
 > [The Gig Economy](https://zerohplovecraft.wordpress.com/2018/05/11/the-gig-economy-2/)
-> 
 
->> **u/RainbowtasticPirate** [+2] *
+>> **u/RainbowtasticPirate** [+2]  (10 hours later)
 >> 
 >> Thank you very much!
->> 
 
 ---
 

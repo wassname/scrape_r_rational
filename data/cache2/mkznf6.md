@@ -2,7 +2,7 @@
 
 * Author: u/Chaotic_Evil_10 *
 * URL: https://www.reddit.com/r/rational/comments/mkznf6/rational_percy_jackson_oneshot/
-* Score: 55
+* Score: 54
 
 * Created: 2021-04-06T00:58:19
 
@@ -116,172 +116,162 @@ And the trap closed shut.
 
 ### Comments:
 
-> **u/NotACauldronAgent** [+29]  *Probably**
+> **u/NotACauldronAgent** [+29]  *Probably* (47 minutes later)
 > 
 > Does this work, I wonder? Like, in theory, all this means is telling Thanatos that he's unemployed now, right, and making an enemy(?) of Hades. But given Percy Jackson now exists in a world with multiple pantheons, can Olympus end all death? I suppose "all deaths under their purview," which if I understand it correctly is most of western civilization, is still a great start in any case. 
-> I'd have to reread the bit about when Thanatos was captured in one of the Heroes of Olympus books, and the descriptors of who, exactly, goes to the Greek and Roman underworlds.
 > 
+> I'd have to reread the bit about when Thanatos was captured in one of the Heroes of Olympus books, and the descriptors of who, exactly, goes to the Greek and Roman underworlds.
 
->> **u/DrMaridelMolotov** [+18] *
+>> **u/DrMaridelMolotov** [+17]  (6 hours later)
 >> 
 >> It wouldn’t work and it doesn’t make sense. Technically everyone is immortal they just go live somewhere else. So really Death is just a one way teleportation machine. Also the Egyptian gods exist as well and I’m not sure what they’ll say about that. Finally, if this was rational they would have to contend with the Abrhamic God, who 3 billion people actively believe in. Not sure what the Greek gods are going to do about that.
->> 
 
->>> **u/SimoneNonvelodico** [+6]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> > Finally, if this was rational they would have to contend with the Abrhamic God, who 3 billion people actively believe in. Not sure what the Greek gods are going to do about that.
->>> I mean, that just goes to cut into the setting itself. If gods gain power from belief, why are *these* guys still around and in charge of the west? YHVH pretty much slaughtered them and took their place from Constantine onwards.
 >>> 
+>>> I mean, that just goes to cut into the setting itself. If gods gain power from belief, why are *these* guys still around and in charge of the west? YHVH pretty much slaughtered them and took their place from Constantine onwards.
 
->>>> **u/crivtox** [+4]  *Closed Time Loop Enthusiast**
+>>>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast* (2 days later)
 >>>> 
 >>>> Does it say anywhere that gods get power from belief?
 >>>> I might be misremebering since it's been years since I read those books but like I have the strong impression that's not how it seems to work. 
 >>>> Belief affects the gods in some way but doesn't seem like it actually gives them power. 
+>>>> 
 >>>> Plus doesn't seem like the abrahamic God actually exists in the setting. 
 >>>> And if he exists he might just have some set of choosen teenagers somewhere fighting demons or whatever and have a base somewhere that isn't new york. 
 >>>> Also what we see seems consistent whith weird incomprensible  alien entities that for whatever reason  interact whith certain chosen ones through the lens of ancient religions and mythologies for whatever reason whith somewhat complicated rules.
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+9]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade* (2 days later)
 >>>>> 
 >>>>> Yes, it's not really clear how it works. I agree that it doesn't sound as straightforward as "the gods keep existing as long as people believe in them". I think it might be more like that the Greek-Roman gods keep existing because western society embodies in some way the continuation of the values that their civilisation represented - not in religious terms, but in cultural ones. However even if you see the gods as "memetic personifications", so to speak (after all, they have remained important figures in artistic allegory even throughout the middle ages and Renaissance, for example), then you would still have to acknowledge also the huge importance of Christianity in defining western culture. Unless you see Christianity as really repackaged Platonism which almost immediately lost most of its connections to the philosophical contents of Hebraism right away. But obviously it's all waaaay too simplistic, cultures aren't linear processes, they intertwine and mix all the time.
->>>>> I know there are other series in the same universe featuring other sets of gods, but I haven't read them. I read the Percy Jackson series recently, more out of curiosity than anything (though I have to be fair, I found the books pretty "childish", as in, not only mainly YA in target demographic, but kinda hard to enjoy as a grown up), and all I thought was that I was actually surprised this is not brought up often as politically problematic. Because "western civilisation is a cultural monolith with a direct, clear and outright divine connection tracing its way from the greatness of Athens and Rome to the modern USA" sure sounds like... something. Something that would be very easy to interpret in rather nasty ways.
 >>>>> 
+>>>>> I know there are other series in the same universe featuring other sets of gods, but I haven't read them. I read the Percy Jackson series recently, more out of curiosity than anything (though I have to be fair, I found the books pretty "childish", as in, not only mainly YA in target demographic, but kinda hard to enjoy as a grown up), and all I thought was that I was actually surprised this is not brought up often as politically problematic. Because "western civilisation is a cultural monolith with a direct, clear and outright divine connection tracing its way from the greatness of Athens and Rome to the modern USA" sure sounds like... something. Something that would be very easy to interpret in rather nasty ways.
 
->>>>>> **u/crivtox** [+4]  *Closed Time Loop Enthusiast**
+>>>>>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast* (2 days later)
 >>>>>> 
 >>>>>> Yeah I was more going  on vague memories about the other series .Seems to me that the justifications the gods give to the children are basically bullshit and what's going on is way weirder and complicated.
+>>>>>> 
 >>>>>> Like even only taking into account Percy's adventures gods have roman versions that are kind of similar and manage completely separate masquerades(which involved tons of lying) .  
 >>>>>> And lots of pretty much dead old religions are real too and also kind of centered on usa.
->>>>>> It is an interesting setting to take seriously and make into a ratfic though.If you try to make sense of all the weirdness.
 >>>>>> 
+>>>>>> It is an interesting setting to take seriously and make into a ratfic though.If you try to make sense of all the weirdness.
 
->>>>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (2 days later)
 >>>>>>> 
 >>>>>>> I mean, not sure if it qualifies as ratfic, but Neil Gaiman's "American Gods" takes a much more consistent approach at this sort of idea (though sadly with a noticeable dearth of Greek-Roman gods. Dude for some reason seems to not like them. They don't appear in Sandman either).
->>>>>>> 
 
->>>>>>> **u/RynnisOne** [+3] *
+>>>>>>> **u/RynnisOne** [+3]  (2 days later)
 >>>>>>> 
 >>>>>>> To be fair, I don't see these gods being willing to tell their kids the secret to their power and motivations, given that they already have had eons-long grudges with their own siblings.
->>>>>>> 
 
->>>>> **u/OnlyEvonix** [+2] *
+>>>>> **u/OnlyEvonix** [+2]  (5 days later)
 >>>>> 
 >>>>> That's how I remember it too, they change along with their archetypes, like I think Zeus wears a three piece suit now because western civilization's cultural idea of highest authority has shifted to be more CEO or politician than king or emperor. Not being worshipped is inconvenient to Poseidon but I suspect if people stopped respecting the sea that could have deeper effects.
 >>>>> I find how the Greek and Roman gods aren't exactly seperate or the same people very interesting.
 >>>>> I think gods are no more individuals than civilizations are distinct or natural forces are seperate. I think there might not be a single simple mechanism underpinning the gods in this setting
->>>>> 
 
->>> **u/nerdguy1138** [+6]  *GNU Terry Pratchett**
+>>> **u/nerdguy1138** [+7]  *GNU Terry Pratchett* (17 hours later)
 >>> 
 >>> Supernatural tries to answer this in season 2, they go with the boring answer of Lucifer punches the other pantheons to death.
->>> 
 
->>>> **u/DrMaridelMolotov** [+4] *
+>>>> **u/DrMaridelMolotov** [+4]  (18 hours later)
 >>>> 
 >>>> Yeah that was one of my shows I used to watch as a kid. Though in that universe God and the angels created the universe and all the other gods were created by beliefs that God allowed because he was amused. I agree that is kind of a boring answer though.
->>>> 
 
->>>> **u/RynnisOne** [+3] *
+>>>> **u/RynnisOne** [+3]  (2 days later)
 >>>> 
 >>>> Boring, but accurate.  He's a higher power level, and the Abrahamic faiths are among the very few that follow a 'lawful' alignment system when it comes to organization.  IE:  The pagan deities are too busy arguing and fighting with each other to really stand together (they have to call a meeting to try and decide and vote on doing just that), and Luci is methodical enough to wipe out as many as he can in one go, especially before they have a chance to unite.
->>>> 
 
->>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast* (2 days later)
 >>> 
 >>> There's no indication that the abrahamic God is real in that universe.
 >>> Or that belief creates gods. 
 >>> A lot of old religions  and mythologies seem to be true, and something causes teenagers to interact whith diferent ones.
 >>> And like it seems there's some mechanism that causes diferent people, (mainly teenagers) to  have special powers and percieve the stuff of diferent religions. 
+>>> 
 >>> Everyone else only gets to see an afterlife  which is kind of determined by belief but seems like the belief thing is a perception filter over whatever is actually there.
 >>> And there's similarly something weird whith multiple groups claiming the have caused some of the same historical events if I'm not mistaken but I might be misremebering.
->>> 
 
->>>> **u/OnlyEvonix** [+2] *
+>>>> **u/OnlyEvonix** [+2]  (5 days later)
 >>>> 
 >>>> Theory: There is a Yahweh but it's ideas are so general, contradictory and generic that it all averages out to a sort of plain white, lacking the individuality that allows "smaller" gods to act. In theory YAWH can do more than any other god but only ever does so once in a blue moon when something polarizes the whole YA-range into a particular course of action.
->>>> 
 
-> **u/OnlyEvonix** [+28] *
+> **u/OnlyEvonix** [+28]  (an hour later)
 > 
 > Wishing to end death wouldn't make sense here, he knows there's life after death and he was told what ending death would mean, it was used as a threat, not something to wish for, stuff like universal immortality and invulnerability would probably be out of their power and have difficult to predict consequences even if they did manage it. Having them improve Asphodel Meadows would probably be it, he was even lamenting it's state earlier in the book if I remember right, Hades wanted that too but couldn't due to barely managing the logistical difficulties of the modern death rate as it was.
-> 
 
->> **u/DaGeek247** [+15]  *Nudist Beach**
+>> **u/DaGeek247** [+15]  *Nudist Beach* (3 hours later)
 >> 
 >> Nobody dying is different from what the threat in PJO was. The threat in PJO was basically ghosts because no afterlife repairs. Frankly, this makes little sense anyways though. Death being bad is a thing because it's a complete fucking end. People on PJO don't ever die, they just switch from body to ghost. Maybe that's not the greatest, but it's certainly not death.
->> The Greek builder, daedalus from one of the books, cheated death by making automaton bodies. When he finally 'died' he ended up as a major construction builder for the underworld's roads and stuff. That's not death, that's literally the next great adventure.
->> In the PJO universe, death stopping is a bad thing because it means everybody is stuck a ghost in the real world, where they can't do shit. Of course that's horrible. Death continuing means everybody gets a semi-fair afterlife. Guaranteed. That's fucking amazing considering just how _human_ the Greek/Roman gods can be.
->> As for the author's answer, i'm pretty sure making everyone a god falls under the list of 'not within their power'. It may also actually break the setting. Gods rely on human worship to exist. Humans don't require shit to continue. It's a very one-sided relationship and the gods know it. It's a cause of some of the drama in that series.
 >> 
+>> The Greek builder, daedalus from one of the books, cheated death by making automaton bodies. When he finally 'died' he ended up as a major construction builder for the underworld's roads and stuff. That's not death, that's literally the next great adventure.
+>> 
+>> In the PJO universe, death stopping is a bad thing because it means everybody is stuck a ghost in the real world, where they can't do shit. Of course that's horrible. Death continuing means everybody gets a semi-fair afterlife. Guaranteed. That's fucking amazing considering just how _human_ the Greek/Roman gods can be.
+>> 
+>> As for the author's answer, i'm pretty sure making everyone a god falls under the list of 'not within their power'. It may also actually break the setting. Gods rely on human worship to exist. Humans don't require shit to continue. It's a very one-sided relationship and the gods know it. It's a cause of some of the drama in that series.
 
->> **u/Chaotic_Evil_10** [+11] *
+>> **u/Chaotic_Evil_10** [+9]  (an hour later)
 >> 
 >> Eh.  Guess it wasn't as clear as I thought.  When writing I thought the obvious wish would be to make everybody a god.  Not just Percy.  [Author be dead](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathOfTheAuthor) though.
->> 
 
->>> **u/plutonicHumanoid** [+13] *
+>>> **u/plutonicHumanoid** [+13]  (5 hours later)
 >>> 
 >>> I’d feel like that’s probably not within their power. Obviously that’s not a well defined limit but it feels like too much, based on both scale of the number of gods (3-4 digits?), tropes, and the vague notion that belief is relevant to the power of the gods.
->>> Improving the underworld is less punchy and less explicitly transhumanist but more realistic for this setting, imo. Not that I think we’ve ever got a good look at the Fields of Asphodel.
 >>> 
+>>> Improving the underworld is less punchy and less explicitly transhumanist but more realistic for this setting, imo. Not that I think we’ve ever got a good look at the Fields of Asphodel.
 
->>>> **u/OnlyEvonix** [+4] *
+>>>> **u/OnlyEvonix** [+5]  (a day later)
 >>>> 
 >>>> I think we did, it was pretty sad, everybody just wanders around these endless fields muttering to themselves vaguely, Percy described it as "just milling around for a concert that will never start".
->>>> 
 
->>> **u/OnlyEvonix** [+3] *
+>>> **u/OnlyEvonix** [+3]  (a day later)
 >>> 
 >>> As far as I remember there were some significant downsides to being a god, in particular I believe they lack a lot of agency, their personality tends towards whatever is appropriate for their station, like Zeus becoming a sort of upperclass businessman because that's the modern idea of power and authority but don't really change from their own experiences, I think part of the reason Percy turned them down in canon was because he wanted to continue being able to change things which he wouldn't really be able to do as a god. If I remember correctly. I wonder how far they could empower the general populus
->>> 
 
->>> **u/gramineous** [+2] *
+>>> **u/gramineous** [+2]  (3 hours later)
 >>> 
 >>> I've only got that article and half-remembered English/Literature classes with me here, but I don't think Death of the Author is as relevant on any work with an edit button. If an author has a will and a way to improve or clarify a story, why not use it? Arguments against post-release changes of media (which I'd like to point out aren't made nearly as often in the newer medium of video games, despite the overlap of form), like director's cuts, seems like people rationslising a defeatist attitude towards the commercialisation of media, pessimism towards the broad reach of modern communication, and inertia from previous limits on changing a single work passed down from the experiences of teachers to a different world that the students inhabit.
->>> Edit: I can't imagine having to reread my comments, like this one, without being able to remove typos after I post it since mobile browsers are ass. I'm up to 4 edits right now. 
->>> Also, I'm certain the jump from typewriters to computers had people lamenting the ability to delete typos rather than push through, that seems a thematically relevant argument for drawing comparisons.
 >>> 
+>>> Edit: I can't imagine having to reread my comments, like this one, without being able to remove typos after I post it since mobile browsers are ass. I'm up to 4 edits right now. 
+>>> 
+>>> Also, I'm certain the jump from typewriters to computers had people lamenting the ability to delete typos rather than push through, that seems a thematically relevant argument for drawing comparisons.
 
-> **u/Missing_Minus** [+9]  *Please copy my brain**
+> **u/Missing_Minus** [+9]  *Please copy my brain* (2 hours later)
 > 
 > Nice. Though I had to read through Annabeth's dialogue twice to realize what she was referring to.  
 > Though, I feel like this will very much do the whole Greek tragedy thing, whether due to the borderline narrative energy the universe runs on in PJ or due to completely normal problems with the wish.  
 > If he's wishing for everyone who dies to go to Elysium: That avoids a lot of problems in the living-world that a sudden change like this would have. Might run into issues with heroes/gods who don't particularly like having people go to their hero paradise.  
 > If he's wishing for no one to die anymore: (Assuming the gods avoid completely being dicks by doing the 'classic' they continue aging forever). He would probably want to also help start some change once people realize they stop aging. Hades would not like this. He might think its a plot by other gods to weaken him, it would be like saying that the seas must be dried up (or perhaps, all life in them destroyed) for Poseidon.  
+> 
 > If he's wishing for all the dead to come back and no more death: Same issues as above. You also get the complete breakdown as so many people come into being along with all the other societal issues seeing the dead come back would cause.  
+> 
 > So, I think the best option would be to go for the "Elysium for everyone" route. Life still have issues though, and based on Annabeth's conversation I think he'd choose one of the other methods. 
 > Though, for any of these you may run into the issues of it literally not being within the god's powers, or being within them but having other catastrophic metaphysical consequences.
-> 
 
->> **u/Ze_Bri-0n** [+10] *
+>> **u/Ze_Bri-0n** [+11]  (3 hours later)
 >> 
 >> Personally I don’t think that even an oath on the Styx would convince the gods to get rid of death altogether or let everyone into Elysium. Percy’s very existence quite handily proves that while there are consequences, gods can and will break those oaths, eventually. But they might accept something like “let everyone in Asphodel into Elysium / scrap Asphodel and just have Elysium and the Fields of Punishment / make Asphodel as great as Elysium, or at least better by removing the dementia.” Etc.
->> 
 
->>> **u/plutonicHumanoid** [+6] *
+>>> **u/plutonicHumanoid** [+6]  (5 hours later)
 >>> 
 >>> More realistically they’d say no to swearing on the Styx for an alternate gift, immortality for you, take it or leave it.
->>> 
 
-> **u/Wun_Weg_Wun_Dar__Wun** [+6] *
+> **u/Wun_Weg_Wun_Dar__Wun** [+6]  (3 days later)
 > 
 > This is one of those places where the common rational fiction trope of "defeating death" runs into a brick wall headfirst.
-> Percy Jackson exists in a world where the Afterlife has been confirmed to exist (he even visits in the First Book, and there are characters - the children of Hades - who can enter and leave the Underworld at will), and reincarnation is an actual thing souls can choose to do.
-> It would be far more beneficial (and be far less complex for the living world) for Percy to ask the gods to make the afterlife more human friendly. Maybe replace the Punishment place with a rehabilitation center? Make reincarnation a choice any soul can make at any time, instead of one time offer? Something like that.
 > 
+> Percy Jackson exists in a world where the Afterlife has been confirmed to exist (he even visits in the First Book, and there are characters - the children of Hades - who can enter and leave the Underworld at will), and reincarnation is an actual thing souls can choose to do.
+> 
+> It would be far more beneficial (and be far less complex for the living world) for Percy to ask the gods to make the afterlife more human friendly. Maybe replace the Punishment place with a rehabilitation center? Make reincarnation a choice any soul can make at any time, instead of one time offer? Something like that.
 
-> **u/RynnisOne** [+2] *
+> **u/RynnisOne** [+2]  (2 days later)
 > 
 > I'm missing something here.  Is he now attempting to get the wish *at this moment* or is he trying to delay making the wish he wants until later?
-> 
 
->> **u/Raszhivyk** [+4]  *The Culture**
+>> **u/Raszhivyk** [+6]  *The Culture* (3 days later)
 >> 
 >> He considered not getting a gift, remembered his conversation with Annabeth, then decided to make the Gods swear on the Styx to guarantee they would at least follow through on the wish. And the wish is suggested to be making the afterlife not have a dementia plane (pretty obvious improvement imo) and removing the whole "complete oblivion" thing. Making the Underworld just a continuation of life, essentially. But with no need to work for a living or struggle, etc. Post scarcity problems being the only ones left. But apparently the author meant to just make everyone a god.
->> 
 
 ---
 

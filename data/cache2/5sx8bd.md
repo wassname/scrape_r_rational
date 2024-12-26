@@ -2,7 +2,7 @@
 
 * Author: u/BoppreH *
 * URL: http://unsongbook.com/interlude-%D7%AA-trump/
-* Score: 55
+* Score: 53
 
 * Created: 2017-02-09T02:07:45
 
@@ -12,111 +12,102 @@
 
 ### Comments:
 
-> **u/Covane** [+19]  *Dragon Army**
+> **u/Covane** [+17]  *Dragon Army* (4 hours later)
 > 
 > every single time i read the newest unsong i can't help but go tell anyone who will listen that scott alexander is clever in a way i have never ever ever ever seen 
-> /u/flagamuffin
 > 
+> /u/flagamuffin
 
->> **u/pku31** [+6] *
+>> **u/pku31** [+8]  (20 hours later)
 >> 
 >> Yeah. I used to think I was great at this sort of random connection thinking. Then I started reading Scott's stuff. *Then* I started reading unsong, which is a whole level above the rest of his stuff.
->> 
 
-> **u/monkyyy0** [+11] *
+> **u/monkyyy0** [+11]  (5 hours later)
 > 
 > Was that an exact date for the apocalypse?
-> An *entire* 4 months after janurary 20th you say, last main story chapter was may 13.
 > 
+> An *entire* 4 months after janurary 20th you say, last main story chapter was may 13.
 
->> **u/LeifCarrotson** [+7] *
+>> **u/LeifCarrotson** [+7]  (18 hours later)
 >> 
 >> No, it's 4 months after the election, which occurs in early November. 4 months later would put the apocalypse in March. 
->> March 14, or 3/14, corresponds to the mathematical constant π (pi). Which looks a lot like Tav, the character for the index of this interlude. 
->> Crap, I thought that was the character pi for a minute. Back to the drawing board...
 >> 
+>> March 14, or 3/14, corresponds to the mathematical constant π (pi). Which looks a lot like Tav, the character for the index of this interlude. 
+>> 
+>> Crap, I thought that was the character pi for a minute. Back to the drawing board...
 
->>> **u/monkyyy0** [+7] *
+>>> **u/monkyyy0** [+7]  (18 hours later)
 >>> 
 >>> The wording was "new administration" and "perform" nothing about the election in that paragraph
->>> 
 
->> **u/pku31** [+3] *
+>> **u/pku31** [+3]  (20 hours later)
 >> 
 >> We already know the apocalypse will happen Sunday May 14th, the day the story ends (both in-universe and IRL).
->> 
 
->>> **u/monkyyy0** [+3] *
+>>> **u/monkyyy0** [+3]  (20 hours later)
 >>> 
 >>> So is uriel messing with time again or was that a typo?
->>> 
 
->>>> **u/pku31** [+4] *
+>>>> **u/pku31** [+4]  (20 hours later)
 >>>> 
 >>>> I think using "four whole months" instead of "four and a half whole months" is within a reasonable margin of error.
+>>>> 
 >>>> Edit: wait, that's stupid, May is four months after January, not five. I am bad at math and you are right.
 >>>> (On the other hand, I guess being leas than a week short is close enough).
->>>> 
 
-> **u/waylandertheslayer** [+10] *
+> **u/waylandertheslayer** [+9]  (a day later)
 > 
 > >There is crack in everything.
-> This is the first pun to make me legitimately *angry* in several months. I thought I was immune after reading so much of UNSONG, but apparently not.
 > 
+> This is the first pun to make me legitimately *angry* in several months. I thought I was immune after reading so much of UNSONG, but apparently not.
 
->> **u/696e6372656469626c65** [+8]  *I think, therefore I am pretentious.**
+>> **u/696e6372656469626c65** [+7]  *I think, therefore I am pretentious.* (a day later)
 >> 
 >> I dunno, man--that pun really cracked me up.
->> 
 
-> **u/Arancaytar** [+5] *
+> **u/Arancaytar** [+4]  (5 hours later)
 > 
 > The initial corresponds to the interlude letter, but the story started long before the election.
-> Nothing is ever a coincidence.
 > 
+> Nothing is ever a coincidence.
 
-> **u/chthonicSceptre** [+4]  *Highly Unlikely**
+> **u/chthonicSceptre** [+4]  *Highly Unlikely* (2 days later)
 > 
 > The actual verse from 1 Corinthians appears to be "at the last trump[et]", without the comma. A *Salpinx* is a type of instrument.
-> 
 
-> **u/trekie140** [+3] *
+> **u/trekie140** [+4]  (19 hours later)
 > 
 > I stopped reading this story after Uriel revealed that North Africans didn't have souls and only checked this out to see what weird humorous things could be done with Trump. The name puns were funny, but I really didn't like the way they spun Narnia into the election by cherry-picking certain parts while ignoring the rest. I get what the author meant to do with Kabbalah being the recursive pattern of reality, but it in no way proves the character's point if he really can spin anything and this time it wasn't even a religious text.
-> 
 
->> **u/ArisKatsaris** [+21]  *Sidebar Contender**
+>> **u/ArisKatsaris** [+21]  *Sidebar Contender* (19 hours later)
 >> 
 >> Um, hopefully you know that the author doesn't really believe the various kabbalah-related things he puts in the story.
->> 
 
->>> **u/GeeJo** [+16]  *Custom Flair**
+>>> **u/GeeJo** [+15]  *Custom Flair* (19 hours later)
 >>> 
 >>> Heck, the *character spouting this stuff* doesn't believe a lot of the connections he comes up with, I think. Aaron's approach to Kabbalah has a heavy dose of irony attached, and he seems to regard it as an intellectual toy more often than he acts like it's *really* meaningful.
->>> 
 
->>>> **u/DaystarEld** [+6]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+6]  *Pokémon Professor* (2 days later)
 >>>> 
 >>>> I... actually don't agree with that? I mean Aaron clearly has a sense of humor, but *definitely* is self-aware of how he might not be "sane," strictly speaking:
->>>> >It would be a lie to say I stayed sane by keeping my mind sharp. The sort of mental sharpness you need for the kabbalah is almost perpendicular to sanity, more like a very specific and redirectable schizophrenia. I stayed functional by keeping my mind in a very specific state that probably wasn’t very long-term healthy.
->>>> But he never really says or thinks anything that makes me feel like he doesn't *believe* in the "this isn't a coincidence because nothing is a coincidence" refrain.
 >>>> 
+>>>> >It would be a lie to say I stayed sane by keeping my mind sharp. The sort of mental sharpness you need for the kabbalah is almost perpendicular to sanity, more like a very specific and redirectable schizophrenia. I stayed functional by keeping my mind in a very specific state that probably wasn’t very long-term healthy.
+>>>> 
+>>>> But he never really says or thinks anything that makes me feel like he doesn't *believe* in the "this isn't a coincidence because nothing is a coincidence" refrain.
 
->>>>> **u/wren42** [+1] *
+>>>>> **u/wren42** [+1]  (3 days later)
 >>>>> 
 >>>>> I think the most consistent interpretation is that he believes it, mostly, but he's also kind of kludgy and bumbling in his interpretation of kabala. He's not actually a master seeing the secrets of the universe, he's mostly an amateur making ad hoc connections wherever he can find them.  The narrator is not entirely reliable, in other words, and his interpretations might not jive with the "true" meaning.
->>>>> 
 
->>> **u/trekie140** [+2] *
+>>> **u/trekie140** [+2]  (21 hours later)
 >>> 
 >>> Yeah, I'm just referring to how it works in the context of the story and why it was unsatisfying to read.
->>> 
 
->> **u/IWantUsToMerge** [+9] *
+>> **u/IWantUsToMerge** [+8]  (a day later)
 >> 
 >> > but it in no way proves the character's point if he really can spin anything and this time it wasn't even a religious text.
->> *Dude,, That's the joke*
 >> 
+>> *Dude,, That's the joke*
 
 ---
 

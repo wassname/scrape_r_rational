@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/nis4z8/pyrebound_164/
-* Score: 28
+* Score: 27
 
 * Created: 2021-05-22T21:07:22
 
@@ -18,16 +18,15 @@ As ever, I welcome any comments, questions, concerns, critiques, or original yo'
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (a day later)
 >> 
 >> Yeah, I couldn't think of any way to foreshadow this beyond the revelation in the rain itself to tell readers "something about a rainstorm around a pyre gives Ram the idea that Mannagiri's not invincible after all."  Wellsprings were introduced waaaaaaaaay back when (Ram visits a wellspring in 1.4 IIRC, and they're mentioned maybe three or four more times in-text), but there's no particular reason the reader would hang onto them as relevant.  So it was a storytelling problem with no clear solution.  TYVM for giving feedback, I depend on it to know when the story's going off the rails.
->> (I thought of the armor as just a fun bonus to show that Ram wasn't sitting around with his thumb up his butt the whole time; the real killer app is the heatsink shield IMO)
 >> 
+>> (I thought of the armor as just a fun bonus to show that Ram wasn't sitting around with his thumb up his butt the whole time; the real killer app is the heatsink shield IMO)
 
 ---
 

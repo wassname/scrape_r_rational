@@ -84,31 +84,27 @@ The Dark Overlord dropped his cloak and, turning away his collar so it wouldn't 
 
 ### Comments:
 
-> **u/IAMA_Draconequus-AMA** [+6] *
+> **u/IAMA_Draconequus-AMA** [+6]  (an hour later)
 > 
 > Spez is an asshole, I hope reddit burns. -- mass edited with redact.dev
-> 
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (12 hours later)
 > 
 > Didn't he just defeat the prophecy? The heroes took no losses, not minimal losses...
-> Also, that was a lot of fun. Thank you for sharing.
 > 
+> Also, that was a lot of fun. Thank you for sharing.
 
->> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you* (12 hours later)
 >> 
 >> Halfling died
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (a day later)
 >>> 
 >>> Ah, so he did. I missed that.
->>> 
 
-> **u/Teulisch** [+1]  *Space Tech Support**
+> **u/Teulisch** [+1]  *Space Tech Support* (4 days later)
 > 
 > yeah... sounds like a decoy overlord. or else he has a cleric in the next room ready to revive him after the heroes depart.
-> 
 
 ---
 

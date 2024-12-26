@@ -12,21 +12,18 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 minutes later)
 > 
 > Next time on *The Sort of Rational Legend of Korra*: Korra acts immature and dumb, Tenzin gets mad about stuff, and the Equalists make their move. (maybe probably)
-> 
 
-> **u/Chosen_Pun** [+2]  *The Chosen Ones**
+> **u/Chosen_Pun** [+2]  *The Chosen Ones* (6 hours later)
 > 
 > I was not expecting Melon Lord.
 > I really should have expected Melon Lord.
-> 
 
->> **u/Jello_Raptor** [+2]  *The Last Tool User**
+>> **u/Jello_Raptor** [+2]  *The Last Tool User* (10 hours later)
 >> 
 >> Ayup.
->> 
 
 ---
 

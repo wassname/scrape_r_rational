@@ -15,350 +15,473 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/alexanderwales** [+9]  *Time flies like an arrow**
+> **u/alexanderwales** [+9]  *Time flies like an arrow* (55 minutes later)
 > 
 > The *Limitless* TV show is really disappointing me, even though I thought I was prepared to be disappointed. I'm half-tempted to write some fanfic that fixes all of the issues that could have been addressed in the second episode, but I'm not sure how easy of a salvage operation that would be. They're trying to create an overarching plot, but it doesn't really make sense because of how slow it's all moving.
-> I don't *really* think that this is a case of writers trying to write someone that they're stupider than, it's more the limitations of the format that was chosen and the demands of writing to a general audience (and writing for "total satisfaction" rather than "logic", one of the key reasons that works of fiction end up irrational).
 > 
+> I don't *really* think that this is a case of writers trying to write someone that they're stupider than, it's more the limitations of the format that was chosen and the demands of writing to a general audience (and writing for "total satisfaction" rather than "logic", one of the key reasons that works of fiction end up irrational).
 
->> **u/AmeteurOpinions** [+12]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+12]  *Finally, everyone was working together.* (an hour later)
 >> 
 >> On the other hand/continent, the *One Punch Man* anime is stellar. In case you haven't heard of it, it's about a superhero who has become so powerful he always defeats his opponents in a single blow, and his struggles and boredom with being the strongest man on earth. In episode three some bad guys learn the protagonists are coming to their base, and activate all their trap rooms in their eight-floor tower. The heroes arrive, and the self-appointed sidekick promptly *annihilates* the entire structure from the outside without even trying to enter.
->> Anime of the season for sure, not that there's much competition.
 >> 
+>> Anime of the season for sure, not that there's much competition.
 
->>> **u/Faust91x** [+7]  *Iteration X**
+>>> **u/Faust91x** [+6]  *Iteration X* (4 hours later)
 >>> 
 >>> Agreed this season's rather lame but One Punch Man is definitely the best one on it. If you liked that dungeon bypass you may also enjoy Fate/Zero, it has a very similar scene thanks to a 'mage killer' that uses modern tech and dirty tactics to take advantage of mage's lack of common sense and genre savvyness.
->>> 
 
->>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (11 hours later)
 >>>> 
 >>>> Already seen it, and yes that part was great.
->>>> 
 
->> **u/okaycat** [+4] *
+>> **u/okaycat** [+4]  (2 hours later)
 >> 
 >> I've been following that show for a while now.
->> It's just following the same old crime procedural formula.  I would love if the show tried to break away from that and become more of a political spy thriller.  
->> I'm hoping it goes the way of Person of Interest and breaks free of its formula.
 >> 
+>> It's just following the same old crime procedural formula.  I would love if the show tried to break away from that and become more of a political spy thriller.  
+>> 
+>> I'm hoping it goes the way of Person of Interest and breaks free of its formula.
 
->>> **u/Transfuturist** [+4]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+5]  *Carthago delenda est.* (3 hours later)
 >>> 
 >>> > the same old crime procedural formula
->>> I hate this. Yet, at the same time, I'm loving GitS: Stand Alone Complex.
->>> It seems to be more focused on the overarching plot, which I've always wanted to see in shows... The last episode was entirely a VR chatroom discussion about the arc villain, and it managed to be engaging. But at the same time there are still the episodic procedural episodes. I suppose it's due to plot fatigue. Entire shows full of episodic procedural are bad, but episodic episodes interspersing arc episodes are less samey.
->>> Is it safe to skip the entire first season of Person of Interest? Where does the show start to break free?
 >>> 
+>>> I hate this. Yet, at the same time, I'm loving GitS: Stand Alone Complex.
+>>> 
+>>> It seems to be more focused on the overarching plot, which I've always wanted to see in shows... The last episode was entirely a VR chatroom discussion about the arc villain, and it managed to be engaging. But at the same time there are still the episodic procedural episodes. I suppose it's due to plot fatigue. Entire shows full of episodic procedural are bad, but episodic episodes interspersing arc episodes are less samey.
+>>> 
+>>> Is it safe to skip the entire first season of Person of Interest? Where does the show start to break free?
 
->>>> **u/okaycat** [+1] *
+>>>> **u/okaycat** [+1]  (4 hours later)
 >>>> 
 >>>> Things start picking up towards the end of season 1.  The episodic plots all sort of began connecting together into something more coherent and intetrsting.  If I were you I would begin watching halfway through season 1 and see how you like it. 
->>>> In season 2 and 3 the show starts following a much more overarching plot.  It ends up being more of a sci-fi show disguised as a criminal procedural.
 >>>> 
+>>>> In season 2 and 3 the show starts following a much more overarching plot.  It ends up being more of a sci-fi show disguised as a criminal procedural.
 
->>>>> **u/illz569** [+1] *
+>>>>> **u/illz569** [+1]  (5 hours later)
 >>>>> 
 >>>>> Holy crap, TIL there's a season 3 of GitS.
->>>>> 
 
->>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (10 hours later)
 >>>>>> 
 >>>>>> That comment is talking about Person of Interest.
->>>>>> 
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (2 hours later)
 >>> 
 >>> So far they've been devoting about five minutes out of every episode to the overarching plot, which I'm hoping increases as the season goes on. They've got all the ingredients for something interesting; there's a smart guy roped into a shadowy conspiracy by an even smarter and more powerful guy who has significant leverage and a whole host of secrets. But they're taking too long to get there and I'm losing patience. More worryingly, they're losing viewers, which is a good way to get cancelled before getting to the interesting stuff.
->>> 
 
->> **u/LiteralHeadCannon** [+3] *
+>> **u/LiteralHeadCannon** [+3]  (4 hours later)
 >> 
 >> I had a bizarre experience in Psychology 101 where, in the unit on psychoactive drugs, my professor brought up NZT as if it were real, and showed a clip from Limitless, describing it as a fictional depiction of the drug.  I looked it up on the internet later, hoping to obtain and exploit it, only to discover that my professor had lied to us all, and NZT was in fact a fictional plot device invented for Limitless.
->> 
 
->>> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (4 hours later)
 >>> 
 >>> It's a fictional drug, but pretty clearly inspired by nootropics like modafinil. I am hoping that this is what your professor meant and something was lost in translation, but who knows.
->>> 
 
->> **u/Polycephal_Lee** [+1] *
+>> **u/Polycephal_Lee** [+1]  (3 hours later)
 >> 
 >> Yeah I'm tempted to do a rational rewrite of the movie itself. Some very simple precautionary measures taken by the protagonist would make it a lot more interesting.
->> 
 
->> **u/PL_TOC** [+1] *
+>> **u/PL_TOC** [+1]  (8 days later)
 >> 
 >> I'm also disappointed in it. There should be no reason people like sherlock or the mentalist are more impressive than someone on NZT.
->> 
 
-> **u/traverseda** [+6]  *With dread but cautious optimism**
+> **u/traverseda** [+6]  *With dread but cautious optimism* (23 minutes later)
 > 
 > The monday and friday thread kind of blur together for me.
-> If you were a software dev of middling competence, what would you do to make a relatively passive income? What would you do if you were a highly competent dev?
-> I've seen a few interesting "super resolution" algorithms, and I can't help but think that there's a market for them. Sure, they tend to make things look a bit airbrushed, and they won't let you "enhance" a picture of a drivers license, the text would be statistical inference and not accurate.
-> But I think there's at least one industry that would pay for that as a service. There are some open source libraries and well known research papers that should be able to get better then bicubic filters.
 > 
+> If you were a software dev of middling competence, what would you do to make a relatively passive income? What would you do if you were a highly competent dev?
+> 
+> I've seen a few interesting "super resolution" algorithms, and I can't help but think that there's a market for them. Sure, they tend to make things look a bit airbrushed, and they won't let you "enhance" a picture of a drivers license, the text would be statistical inference and not accurate.
+> 
+> But I think there's at least one industry that would pay for that as a service. There are some open source libraries and well known research papers that should be able to get better then bicubic filters.
 
->> **u/AmeteurOpinions** [+9]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+9]  *Finally, everyone was working together.* (34 minutes later)
 >> 
 >> I was out with a bunch of friends the other day and I thought to myself, *There's eight people here and every one of us has a smartphone. There's got to be something really cool that I can do with that, but I have no idea what.*
->> My first idea was to work out a way to get really, really nice audio by placing people's phones in strategic locations and synchronize them somehow, but I have no real knowledge of audio engineering. I also thought that you should be able to take 3D group photos by having two people -- two phones -- take the shot at once, but there's lots of messy edge cases there too. 
->> One thing I would like is to just have an easy, reliable way to link multiple devices together. I shouldn't have to setup a server on my laptop to have my phone talk to it, they both have built-in antennas, the option should just be *there*.
 >> 
+>> My first idea was to work out a way to get really, really nice audio by placing people's phones in strategic locations and synchronize them somehow, but I have no real knowledge of audio engineering. I also thought that you should be able to take 3D group photos by having two people -- two phones -- take the shot at once, but there's lots of messy edge cases there too. 
+>> 
+>> One thing I would like is to just have an easy, reliable way to link multiple devices together. I shouldn't have to setup a server on my laptop to have my phone talk to it, they both have built-in antennas, the option should just be *there*.
 
->>> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+8]  *Emergency Mustelid Hologram* (an hour later)
 >>> 
 >>> One trick that I've seen on the web is using two phones as a periscope, by streaming the camera of one to the screen of the other, to look over heads in a crowd.
->>> To just link them together look at [_Serval Mesh_](http://www.servalproject.org/)
 >>> 
+>>> To just link them together look at [_Serval Mesh_](http://www.servalproject.org/)
 
->>> **u/traverseda** [+4]  *With dread but cautious optimism**
+>>> **u/traverseda** [+4]  *With dread but cautious optimism* (36 minutes later)
 >>> 
 >>> >One thing I would like is to just have an easy, reliable way to link multiple devices together.
->>> I have some [long rants](https://www.reddit.com/r/rational/comments/3nkz2y/d_monday_general_rationality_thread/cvp34mz) around here somewhere about this. I think filesystems are the problems, because they're inherently single process. We need a filesystem alternative that syncs across the network and that multiple programs/people can use at once. I think it would solve a lot of problems.
->>> Talking to /r/rational about it was very helpful in figuring out where I was communicating badly and narrowing down on some implementation details. /u/eaglejarl's stuff about function blocks and /u/trishume's stuff about capnproto.
 >>> 
+>>> I have some [long rants](https://www.reddit.com/r/rational/comments/3nkz2y/d_monday_general_rationality_thread/cvp34mz) around here somewhere about this. I think filesystems are the problems, because they're inherently single process. We need a filesystem alternative that syncs across the network and that multiple programs/people can use at once. I think it would solve a lot of problems.
+>>> 
+>>> Talking to /r/rational about it was very helpful in figuring out where I was communicating badly and narrowing down on some implementation details. /u/eaglejarl's stuff about function blocks and /u/trishume's stuff about capnproto.
 
->>>> **u/eaglejarl** [+3] *
+>>>> **u/eaglejarl** [+4]  (2 hours later)
 >>>> 
 >>>> >  I think filesystems are the problems, because they're inherently single process. 
->>>> What?  There's a miscommunication here somewhere, because file systems are demonstrably not single-process.  Every OS in the world these days is multi-process, and they are all perfectly capable of accessing the filesystem at the same time.
->>>> If you mean that *hard disks* are inherently single process, since the read/write head can only be in one position at a time, sure.  That's nothing to do with the file system, though.
-
->>>> > We need a filesystem alternative that syncs across the network and that multiple programs/people can use at once. 
->>>> Again, multiple programs/people can already use a filesystem simultaneously.  As to one that syncs across the network, those exist.  cf Dropbox and http://fuse.sourceforge.net/sshfs.html
->>>> Maybe the problem here is one of terms.  When I say "file system", I'm using it in the classic Unix sense.  Everything is a file, files are identified by inodes, there are directories which are really just special files, there's a path structure through the file tree, etc.  What are you using it to mean?
 >>>> 
+>>>> What?  There's a miscommunication here somewhere, because file systems are demonstrably not single-process.  Every OS in the world these days is multi-process, and they are all perfectly capable of accessing the filesystem at the same time.
+>>>> 
+>>>> If you mean that *hard disks* are inherently single process, since the read/write head can only be in one position at a time, sure.  That's nothing to do with the file system, though.
+>>>> 
+>>>> > We need a filesystem alternative that syncs across the network and that multiple programs/people can use at once. 
+>>>> 
+>>>> Again, multiple programs/people can already use a filesystem simultaneously.  As to one that syncs across the network, those exist.  cf Dropbox and http://fuse.sourceforge.net/sshfs.html
+>>>> 
+>>>> Maybe the problem here is one of terms.  When I say "file system", I'm using it in the classic Unix sense.  Everything is a file, files are identified by inodes, there are directories which are really just special files, there's a path structure through the file tree, etc.  What are you using it to mean?
 
->>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (3 hours later)
 >>>>> 
 >>>>> Thanks for continuing to pick this apart
->>>>> >because file systems are demonstrably not single-process.
->>>>> Sorry, rather *files* are practically limited to a single process. Although inotify comes a fair way towards making that fixable.
->>>>> Does that make the rest make sense?
->>>>> >When I say "file system", I'm using it in the classic Unix sense. [...] What are you using it to mean?
->>>>> I mean that I think unix-style filesystems are problematic. Basically, it's a tree data structure where every leaf node is a binary blob. This makes having more then one program interact with a file/blob at a time very annoying.
->>>>> But yes, we could probably hack a better solution onto the existing structure. Maybe some kind of shared-memory mmap based thing. But I'd prefer it if we didn't insist that all leaf nodes were binary blobs to begin with.
 >>>>> 
+>>>>> >because file systems are demonstrably not single-process.
+>>>>> 
+>>>>> Sorry, rather *files* are practically limited to a single process. Although inotify comes a fair way towards making that fixable.
+>>>>> 
+>>>>> Does that make the rest make sense?
+>>>>> 
+>>>>> >When I say "file system", I'm using it in the classic Unix sense. [...] What are you using it to mean?
+>>>>> 
+>>>>> I mean that I think unix-style filesystems are problematic. Basically, it's a tree data structure where every leaf node is a binary blob. This makes having more then one program interact with a file/blob at a time very annoying.
+>>>>> 
+>>>>> But yes, we could probably hack a better solution onto the existing structure. Maybe some kind of shared-memory mmap based thing. But I'd prefer it if we didn't insist that all leaf nodes were binary blobs to begin with.
 
->>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (3 hours later)
 >>>>>> 
 >>>>>> They used to have filesystems where the leaf nodes were structured objects enforced by the OS. Streams of bytes that could be interpreted as various structures won out, with support added even on platforms that started out using structured objects.
->>>>>> 
 
->>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (3 hours later)
 >>>>>>> 
 >>>>>>> > interpreted as various structures won out, with support added even on platforms that started out using structured objects.
->>>>>>> Interesting. I haven't heard of that. Any google-able word?
->>>>>>> I think that flexible typing is pretty important here. Programs should be very open about what they accept. If all I wanted was a simple binary protocol, I could do that damn easily today. Take capnproto, serialize to a file.
->>>>>>> You know about duck-typing in python? An object is an iterator (thing that can be treated as a list) if it has the right methods for a list. I'm imagining a similar level of flexibility in your data structures.
->>>>>>> A 3D scene is composed of some textures, some vector arrays, some metadata.
 >>>>>>> 
+>>>>>>> Interesting. I haven't heard of that. Any google-able word?
+>>>>>>> 
+>>>>>>> I think that flexible typing is pretty important here. Programs should be very open about what they accept. If all I wanted was a simple binary protocol, I could do that damn easily today. Take capnproto, serialize to a file.
+>>>>>>> 
+>>>>>>> You know about duck-typing in python? An object is an iterator (thing that can be treated as a list) if it has the right methods for a list. I'm imagining a similar level of flexibility in your data structures.
+>>>>>>> 
+>>>>>>> A 3D scene is composed of some textures, some vector arrays, some metadata.
 
->>>>>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>>>>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (5 hours later)
 >>>>>>>> 
 >>>>>>>> > Interesting. I haven't heard of that. Any google-able word?
+>>>>>>>> 
 >>>>>>>> * https://en.wikipedia.org/wiki/Virtual_Storage_Access_Method
 >>>>>>>> * https://en.wikipedia.org/wiki/Record_Management_Services
->>>>>>>> UNIX "stream of bytes" won out because you can implement these on top of a stream of bytes. Once file and file range locking was available for stream files, there was no point to having the operating system enforce VSAM or RMS. And a huge advantage to not having the OS implement it, in that you can implement stream files anywhere and so if your program used them it wasn't locked in to any single OS.
->>>>>>>> I remember giving up and making an interpreter I was working on run as a subroutine from a FORTRAN main so I could get access to the infernally complex RMS API using callbacks to the Fortran OTS, because it was literally too much work to map the platform-independent file API into RMS calls in assembly.
->>>>>>>> For a similar reason everyone but Apple has largely abandoned structured files on OS X except for metadata (like Quarantine info) that can be destroyed without losing file content, and nobody seems to have ever done anything much interesting with the structured file capbilities in NTFS.
 >>>>>>>> 
+>>>>>>>> UNIX "stream of bytes" won out because you can implement these on top of a stream of bytes. Once file and file range locking was available for stream files, there was no point to having the operating system enforce VSAM or RMS. And a huge advantage to not having the OS implement it, in that you can implement stream files anywhere and so if your program used them it wasn't locked in to any single OS.
+>>>>>>>> 
+>>>>>>>> I remember giving up and making an interpreter I was working on run as a subroutine from a FORTRAN main so I could get access to the infernally complex RMS API using callbacks to the Fortran OTS, because it was literally too much work to map the platform-independent file API into RMS calls in assembly.
+>>>>>>>> 
+>>>>>>>> For a similar reason everyone but Apple has largely abandoned structured files on OS X except for metadata (like Quarantine info) that can be destroyed without losing file content, and nobody seems to have ever done anything much interesting with the structured file capbilities in NTFS.
 
->>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (5 hours later)
 >>>>>>>>> 
 >>>>>>>>> Thanks!
->>>>>>>>> I suspect a lot of those problems have gone away, like being locked into a single OS. This system would definitely be running in userspace. Plus this thing would have a mutable data structure. No reason you couldn't put a binary stream into it.
->>>>>>>>> This is *exactly* what I'm looking for though.
 >>>>>>>>> 
+>>>>>>>>> I suspect a lot of those problems have gone away, like being locked into a single OS. This system would definitely be running in userspace. Plus this thing would have a mutable data structure. No reason you couldn't put a binary stream into it.
+>>>>>>>>> 
+>>>>>>>>> This is *exactly* what I'm looking for though.
 
->>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>> **u/eaglejarl** [+3]  (6 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> > I suspect a lot of those problems have gone away, like being locked into a single OS. 
+>>>>>>>>>> 
 >>>>>>>>>> Are you saying that modern programs are not locked into a single OS?  They are; if it looks like they aren't, that's because either (a) the authors release work-alike versions for different OSes or (b) they run on an emulation layer (e.g. JVM) which comes in work-alike versions for different OSes.  Try copying the 'find' binary (or the 'MS Word' binary, or etc)  over to a Windows/Mac/different flavor of Unix machine and see how well it runs.
-
+>>>>>>>>>> 
 >>>>>>>>>> As to getting away from file trees....
+>>>>>>>>>> 
 >>>>>>>>>> Back in 2004, Apple released Spotlight, a search engine built into their Finder (file manager).  The point was to get rid of the file system.  "File systems should be a database!" they trumpeted.  "From now on, you don't need to find where a file is, you just search for it!" they cried.
+>>>>>>>>>> 
 >>>>>>>>>> 11 years later, OSX still runs on a filesystem and no one gives a damn about using Spotlight as their primary file management system.
+>>>>>>>>>> 
 >>>>>>>>>> The tree-based file systems are universal because they *work*.  Every program in existence uses them, and no existing program would understand your new system.  Before trying to invent something new, ask yourself:
+>>>>>>>>>> 
 >>>>>>>>>> 1. Exactly what is the problem I'm trying to solve?  What is the precise pain-point in file systems?
 >>>>>>>>>> 1. Why has no one else identified this pain-point and fixed it already?
 >>>>>>>>>> 1. Once I fix this pain-point, will my new system capture all the advantages of file systems *and* fail to introduce new pain-points?
 >>>>>>>>>> 1. How will I convince the rest of the word that my system is so superior that every program needs to switch to using it?  
->>>>>>>>>> Note that you can't just write an interface layer that lets your new system map to an underlying filesystem.  If you did, you'd still be working with all the limitations of the underlying filesystem
 >>>>>>>>>> 
+>>>>>>>>>> Note that you can't just write an interface layer that lets your new system map to an underlying filesystem.  If you did, you'd still be working with all the limitations of the underlying filesystem
 
->>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I was getting a bit pissed of at my inability to communicate, so I took a break, then life got in the way. But I want to at least address these before I talk about it again.
->>>>>>>>>>>  * Exactly what is the problem I'm trying to solve? What is the precise pain-point in file systems?
->>>>>>>>>>> The precise pain point is that they're optimized for one user/process accessing a file at once. I'd argue that that's the pain point the modern web is trying to address.
->>>>>>>>>>> It started as a way to let multiple users access text documents (gopher) and now it's clumsily trying to let multiple users get write access to the same resource. They do this by implementing a domain-specific thin-client language (javascript) and scene graph (html/css).
->>>>>>>>>>>  * Why has no one else identified this pain-point and fixed it already?
->>>>>>>>>>> Well they have, it's just that thanks to it being a very slowly evolving project no-one can see the real problem underneath. Single user/process files. I think that the web stack is brittle, and we're going to need to do better if we want an AR/VR os that functions reasonably at all. Of course that's getting a fair bit ahead of ourselves. It'll happen when it happens.
->>>>>>>>>>>  * Once I fix this pain-point, will my new system capture all the advantages of file systems and fail to introduce new pain-points?
->>>>>>>>>>> Potentially. There's no reason you couldn't throw binary/text files into this data structure. And of course we're not talking about building kernel modules yet, this data structure would be living on a filesystem.
->>>>>>>>>>> Speed is the big problem. As you say, filesystems are optimized for hard drives. But take a look at bcache as an example. Faster read speeds then storing your files on the ssd directly.
->>>>>>>>>>> I suspect that filesystems are optimized for tape storage at least a bit. Things where sequential reads are super cheap comparatively.
->>>>>>>>>>> The other big problem is the api. There are definitely going to be a higher frequency of race-condition bugs with it as I envision it now. We want to at least make those as visible to the api user as possible, and ideally figure out a way to reduce them.
->>>>>>>>>>>  * How will I convince the rest of the word that my system is so superior that every program needs to switch to using it?
->>>>>>>>>>> Not every programs needs to use it. I think it can show it's worth as an IPC mechanism. If it turns out to be better then more and more programs will use it.
->>>>>>>>>>> ---
->>>>>>>>>>> Thanks for that idea about the pipe-stream function call filesystem by the way. I think that combined with duck-typing it's going to be really powerful and an important part of this system.
 >>>>>>>>>>> 
+>>>>>>>>>>>  * Exactly what is the problem I'm trying to solve? What is the precise pain-point in file systems?
+>>>>>>>>>>> 
+>>>>>>>>>>> The precise pain point is that they're optimized for one user/process accessing a file at once. I'd argue that that's the pain point the modern web is trying to address.
+>>>>>>>>>>> 
+>>>>>>>>>>> It started as a way to let multiple users access text documents (gopher) and now it's clumsily trying to let multiple users get write access to the same resource. They do this by implementing a domain-specific thin-client language (javascript) and scene graph (html/css).
+>>>>>>>>>>> 
+>>>>>>>>>>>  * Why has no one else identified this pain-point and fixed it already?
+>>>>>>>>>>> 
+>>>>>>>>>>> Well they have, it's just that thanks to it being a very slowly evolving project no-one can see the real problem underneath. Single user/process files. I think that the web stack is brittle, and we're going to need to do better if we want an AR/VR os that functions reasonably at all. Of course that's getting a fair bit ahead of ourselves. It'll happen when it happens.
+>>>>>>>>>>> 
+>>>>>>>>>>>  * Once I fix this pain-point, will my new system capture all the advantages of file systems and fail to introduce new pain-points?
+>>>>>>>>>>> 
+>>>>>>>>>>> Potentially. There's no reason you couldn't throw binary/text files into this data structure. And of course we're not talking about building kernel modules yet, this data structure would be living on a filesystem.
+>>>>>>>>>>> 
+>>>>>>>>>>> Speed is the big problem. As you say, filesystems are optimized for hard drives. But take a look at bcache as an example. Faster read speeds then storing your files on the ssd directly.
+>>>>>>>>>>> 
+>>>>>>>>>>> I suspect that filesystems are optimized for tape storage at least a bit. Things where sequential reads are super cheap comparatively.
+>>>>>>>>>>> 
+>>>>>>>>>>> The other big problem is the api. There are definitely going to be a higher frequency of race-condition bugs with it as I envision it now. We want to at least make those as visible to the api user as possible, and ideally figure out a way to reduce them.
+>>>>>>>>>>> 
+>>>>>>>>>>>  * How will I convince the rest of the word that my system is so superior that every program needs to switch to using it?
+>>>>>>>>>>> 
+>>>>>>>>>>> Not every programs needs to use it. I think it can show it's worth as an IPC mechanism. If it turns out to be better then more and more programs will use it.
+>>>>>>>>>>> 
+>>>>>>>>>>> ---
+>>>>>>>>>>> 
+>>>>>>>>>>> Thanks for that idea about the pipe-stream function call filesystem by the way. I think that combined with duck-typing it's going to be really powerful and an important part of this system.
 
->>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> > The precise pain point is that they're optimized for one user/process accessing a file at once. 
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Please explain why you think this.  It seems to be the crux of your issue, and I've already explained why it's not the case.  
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Also, please define what definition of "simultaneous" you mean.  In order for multiple users / multiple processes to be accessing a particular chunk of data at a time, do they have to pull it in the same Planck time?  The same nanosecond?  The same millisecond?  
+>>>>>>>>>>>> 
 >>>>>>>>>>>> > I'd argue that that's the pain point the modern web is trying to address.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> File systems and the web operate at completely different levels of abstraction.  The web is completely irrelevant when you're talking about files.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> > They do this by implementing a domain-specific thin-client language (javascript) and scene graph (html/css).
+>>>>>>>>>>>> 
 >>>>>>>>>>>> First of all, Javascript is the exact opposite of a thin-client language.  A thin client is something that just retrieves data from the server without doing any processing on it.  Javascript depends on a very fat client indeed.  
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Second, Javascript and HTML/CSS have nothing to do with files or filesystems.  They are a particular way of representing / presenting data, but they don't have anything to do with how that data is stored or how it's retrieved from storage.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> The fundamental misunderstanding here is that file systems are *not* "optimized for single-process access", and I don't understand why you think they are.  A file system is about *organizing* data and providing guarantees about what will happen when you interact with it. Computers are perfectly happy to allow simultaneous reads -- or even writes, although that's stupid -- against the same file, so long as "simultaneous" is allowed to wave away the limitations of the underlying hardware.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Here's the issues that might be making you think file systems are intended for "single process" access:
+>>>>>>>>>>>> 
 >>>>>>>>>>>> * Hard disks:  there is only one read/write head pointed at a given spot at a time, so no matter *what* magic you come up with, you will never be able to get literally simultaneous access to the data.
 >>>>>>>>>>>> * Writing data is **always** a blocking operation if you want consistency.  It doesn't matter if the data is on an HDD, an SSD, in memory, or stored in the beating wings of magical fairies.  If you are reading data at the same time I am writing it **there is no way of knowing what you will get**.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> "File systems" are a collection of APIs intended to talk to the disk and provide certain guarantees about what the disk will do.  For example, the file system offers a write lock which says "hey, I'm changing this data, don't look at it for a second."  In general, write locks are optional and a program can feel free to ignore them if it wants to screw up its information.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Again, you're looking at things at the wrong levels:
+>>>>>>>>>>>> 
 >>>>>>>>>>>> * Hard disks (and SSDs, etc) are about *recording* information.  They have physical limits which cannot be worked around no matter what sort of magic you come up with.  They have nothing to do with file systems.
 >>>>>>>>>>>> * File systems are about *organizing* data.  They provide an API for the underlying storage system, and that API has some (generally optional) methods that can be used to maintain consistency, but there is nothing about that system that inherently relates to single/multiple access to the disk.
 >>>>>>>>>>>> * Applications (e.g. a browser) are about transforming data.  They have nothing to do with how the data is stored or how it is accessed.
 >>>>>>>>>>>> * "The web" isn't a thing at all, it's a fuzzy and generic term for a collection of things.  TCP/IP is a set of protocols designed to let multiple applications talk to each other by guaranteeing how data will be exchanged over a wire.  HTTP is a higher-level protocol that guarantees how data will be exchanged at the semantic level.   HTML is about how to structure data to imply meaning.  CSS is about how to present data based on its meaning.  Javascript is about how to manipulate that structure and presentation.  *None of these things relate in any way to file systems.*
-
->>>>>>>>>>>> > There's no reason you couldn't throw binary/text files into this data structure. And of course we're not talking about building kernel modules yet, this data structure would be living on a filesystem.
->>>>>>>>>>>> If it's living on a filesystem it has the same limitations as a filesystem.  All you've done is reinvent caching, and that doesn't solve the problem.  Also, there's an excellent reason that you can't "throw binary/text files into this data structure":  memory is limited, and storing anything more than a trivial number of trivially-sized files in it will blow your RAM, at which point you're swapping to cache all the time, which means you're thrashing the disk in order to do anything at all, which means your special data structure is *slower* than a properly organized system that stores data on the disk when not immediately needed.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> > There's no reason you couldn't throw binary/text files into this data structure. And of course we're not talking about building kernel modules yet, this data structure would be living on a filesystem.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> If it's living on a filesystem it has the same limitations as a filesystem.  All you've done is reinvent caching, and that doesn't solve the problem.  Also, there's an excellent reason that you can't "throw binary/text files into this data structure":  memory is limited, and storing anything more than a trivial number of trivially-sized files in it will blow your RAM, at which point you're swapping to cache all the time, which means you're thrashing the disk in order to do anything at all, which means your special data structure is *slower* than a properly organized system that stores data on the disk when not immediately needed.
 
->>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> You seem to be really stuck on filesystems be definition. I'd hope it's clear that this *isn't* a filesystem, it just fills a similar role.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> This system is
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >about organizing data and providing guarantees about what will happen when you interact with it. 
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> But the guarantees are very different.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Because you're trying to make this literally a filesystem you're drawing hard edges around it. Based around the definition of a filesystem.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> I'm merely using the word filesystem because I don't have a good word for what this is. It fills a similar role as a filesystem.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >A thin client is something that just retrieves data from the server without doing any processing on it. Javascript depends on a very fat client indeed. 
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> But you do understand the parallel I'm trying to make to mainframe computing, right?
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Also, wiki says
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >The most common type of modern thin client is a low-end computer terminal which only provides a graphical user interface – or more recently, in some cases, a web browser – to the end user.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> So I don't think your definition is all that canonical.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> We seem to be debating definitions a lot.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >Computers are perfectly happy to allow simultaneous reads -- or even writes, although that's stupid
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> It's stupid because files are giant monolithic structures. Updating all the pixels in the bottom left corner of an image by definition updates the entire file.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> When two different users are editing the same file, that's unacceptable.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> When you have a program editing the meshes in your file, another program editing the animations, and a third editing the textures it's an even worse problem. By all rights they should be three separate programs, but right now coding up that kind of interoperability is *expensive*.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >Again, you're looking at things at the wrong levels:
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> I'm talking about shifting where we draw the boundaries between the levels. That's the whole point.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >They have nothing to do with file systems.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> They have a lot to do with the performance of different data structures. Large sequential files are very good for things like hard drives where random reads are very slow, but they might not be very good when random reads are cheap, as evidenced by bcache.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >Applications (e.g. a browser) are about transforming data. They have nothing to do with how the data is stored or how it is accessed.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Take a look at fuse as an example of how that's not strictly speaking true.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >you will never be able to get literally simultaneous access to the data.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> When the data is defined as a large blob, simply breaking it into smaller pieces would let you simultaneously write to the data. Not literally simultaneously of course, plank time and all that. But it would appear that way to the api user.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >**there is no way of knowing what you will get.**
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Alerts on data changes. Basically, an event driven framework where you get an event when data you've subscribed to changes.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >memory is limited, and storing anything more than a trivial number of trivially-sized files in it will blow your RAM
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Oh come on. Obviously large chunks that get accesses infrequently would get serialized to disk. I feel like this is a strawman.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> >All you've done is reinvent caching, and that doesn't solve the problem
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Caching+duck-typing. A jpeg object can be registered with a process-filling-a-similar-role-as-fuse-would-in-a-filesystem that exports it as an array of pixels.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>>     {
 >>>>>>>>>>>>>         dataType:"jpeg",
 >>>>>>>>>>>>>         rawData: $RawJpegData,
 >>>>>>>>>>>>>         pixels: $HookToStreamProccessorThatExportsJpegsAsPixelArrays
 >>>>>>>>>>>>>     }
->>>>>>>>>>>>> >Again, you're looking at things at the wrong levels:
->>>>>>>>>>>>> Bears repeating. Those levels are entirely made up. They've served us very well, but they're not fundamental or anything. All of this debating definitions is *because* we're debating definitions, not architecture.
->>>>>>>>>>>>> I'm sure there's something in [37 Ways That Words Can be Wrong](http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/) about this. I think the vast majority of our disagreement is about definitions right now. I'd like to get to the point where we disagree about whether or not it's useful, implementable, or even someday specific architecture issues.
->>>>>>>>>>>>> ---
->>>>>>>>>>>>> If you take one thing away from this, take away that you're using a very rigid definition of filesystem. I'm only using filesystem as a metaphor for how users interact with it and what kind of place in the stack it would fill.
->>>>>>>>>>>>> It's not a filesystem. It's really not a filesystem. It's just fills a similar role as a filesystem. It's just a system for
->>>>>>>>>>>>> >organizing data and providing guarantees about what will happen when you interact with it.
->>>>>>>>>>>>> that should hopefully look at least a bit familiar to people who use filesystems.
->>>>>>>>>>>>> I'm trying to redefine exactly where those responsibilities begin and end though.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> >Again, you're looking at things at the wrong levels:
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Bears repeating. Those levels are entirely made up. They've served us very well, but they're not fundamental or anything. All of this debating definitions is *because* we're debating definitions, not architecture.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> I'm sure there's something in [37 Ways That Words Can be Wrong](http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/) about this. I think the vast majority of our disagreement is about definitions right now. I'd like to get to the point where we disagree about whether or not it's useful, implementable, or even someday specific architecture issues.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> ---
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> If you take one thing away from this, take away that you're using a very rigid definition of filesystem. I'm only using filesystem as a metaphor for how users interact with it and what kind of place in the stack it would fill.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> It's not a filesystem. It's really not a filesystem. It's just fills a similar role as a filesystem. It's just a system for
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> >organizing data and providing guarantees about what will happen when you interact with it.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> that should hopefully look at least a bit familiar to people who use filesystems.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> I'm trying to redefine exactly where those responsibilities begin and end though.
 
->>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> > I'm only using filesystem as a metaphor for how users interact with it and what kind of place in the stack it would fill.
->>>>>>>>>>>>>> You haven't previously *said* that you weren't actually talking about file systems, or that you were only referencing them metaphorically.  Since you were talking about filesystems, I assumed you were actually talking about...you know, *filesystems*.
->>>>>>>>>>>>>> Since you're shifting the ground to something else, then I'm happy to discuss it with you.
->>>>>>>>>>>>>> Let's set some ground rules:  are we talking about how data is organized on a physical storage mechanism (i.e., a filesystem), or are we talking about how data is organized in RAM (a cache)?
->>>>>>>>>>>>>> If all we're talking about is caching then sure, there's lots of ways to improve on "giant monolithic stream of bytes in RAM", and many of those ways already exist.  If we're talking about organizing data on a physical media, then what sort of physical media?  The vast majority of active data in the world is still stored on HDDs, so you really need your system to be performant on an HDD.  If your new system is intended only to be run on SSDs or some other media, you need to specify that.
->>>>>>>>>>>>>> > When the data is defined as a large blob, simply breaking it into smaller pieces would let you simultaneously write to the data. Not literally simultaneously of course, plank time and all that. But it would appear that way to the api user.
->>>>>>>>>>>>>> No, distributing the data in small chunks will not help.  Sure, if you're storing your data in what is effectively a linked list then multiple people can access different chunks of it simultaneously as long as they don't need to care about the whole file.  Reads vastly outnumber writes in most operations, though, and the structure you're talking about means that retrieving the entire file will be enormously slower, because you'll need to spin the platters multiple times.  This is why disks actually have built-in systems for defragging themelves as they work.
->>>>>>>>>>>>>> > I'm talking about shifting where we draw the boundaries between the levels. That's the whole point.
->>>>>>>>>>>>>> Okay, that sounds great.  In practical terms, what does it mean?  What does your new storage => manipulation stack look like?
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> You haven't previously *said* that you weren't actually talking about file systems, or that you were only referencing them metaphorically.  Since you were talking about filesystems, I assumed you were actually talking about...you know, *filesystems*.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Since you're shifting the ground to something else, then I'm happy to discuss it with you.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Let's set some ground rules:  are we talking about how data is organized on a physical storage mechanism (i.e., a filesystem), or are we talking about how data is organized in RAM (a cache)?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> If all we're talking about is caching then sure, there's lots of ways to improve on "giant monolithic stream of bytes in RAM", and many of those ways already exist.  If we're talking about organizing data on a physical media, then what sort of physical media?  The vast majority of active data in the world is still stored on HDDs, so you really need your system to be performant on an HDD.  If your new system is intended only to be run on SSDs or some other media, you need to specify that.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> > When the data is defined as a large blob, simply breaking it into smaller pieces would let you simultaneously write to the data. Not literally simultaneously of course, plank time and all that. But it would appear that way to the api user.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> No, distributing the data in small chunks will not help.  Sure, if you're storing your data in what is effectively a linked list then multiple people can access different chunks of it simultaneously as long as they don't need to care about the whole file.  Reads vastly outnumber writes in most operations, though, and the structure you're talking about means that retrieving the entire file will be enormously slower, because you'll need to spin the platters multiple times.  This is why disks actually have built-in systems for defragging themelves as they work.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> > I'm talking about shifting where we draw the boundaries between the levels. That's the whole point.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Okay, that sounds great.  In practical terms, what does it mean?  What does your new storage => manipulation stack look like?
 
->>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >You haven't previously said that you weren't actually talking about file systems, or that you were only referencing them metaphorically. 
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> I think I've said "filesystem like data structure" and "pseudo file system" a few times, but I definitely take responsibility for that failure to communicate.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >Since you're shifting the ground to something else, then I'm happy to discuss it with you.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Glad to hear it. As I mentioned, your feedback has already been pretty invaluable.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> > Let's set some ground rules: are we talking about how data is organized on a physical storage mechanism (i.e., a filesystem), or are we talking about how data is organized in RAM (a cache)
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> There isn't that much of a functional difference, except deciding when you switch between one and another. All filesystems (on linux) cache to ram. We want to follow a similar model. Grow as large as possible, but give up memory instantly. Objects that are saved to disk and be dumped instantly.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >The vast majority of active data in the world is still stored on HDDs, so you really need your system to be performant on an HDD.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> HDD's with an SSD cache seams like a pretty reasonable target. It also seems like by far the best option for computers these days.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >and the structure you're talking about means that retrieving the entire file will be enormously slower, because you'll need to spin the platters multiple times.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> This is the meat of the issue. Well a big part of it at least. Obviously we need to store data that's accessed together, well, together. The big problem is that we'd be splitting up the hash map that constitutes our "index" across a bunch of inodes. Multiple hops to get to the actual data we're aiming for.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> It's a lot less of an issue on SSD's, which have a more or less flat random read rate.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> But even presuming that we are targeting hdd's and their propensity towards sequential read, I still think it's probably something that *could* be optimized. Just that we'd probably get worse results then if we targeted SSD's only. And by the time I actually write any significant chunks of this we should all be on SSD's and rabidly anticipating whatever is next.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >No, distributing the data in small chunks will not help.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Not necessarily distributing. Just presenting. We can still store the data more or less sequentially.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Anyway, optimizing of HDD's. Obviously in JSON a dictionary/hashmap/key-value is, well, a hashmap. But I see no reason why you couldn't represent them in a b+ tree like btrfs.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> It's definitely a hard technical problem, but I don't think I'm using any datastructures that are inherently slow, in the big-O notation sense of the word. The hashmap-tree could be a b+ tree if it needed to be, and be stored however btrfs stores its b+ trees.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> ---
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> >I'm talking about shifting where we draw the boundaries between the levels. That's the whole point.
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Well, as an example, in the simplest case
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>    from thisThing import dataTree as dt
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>    def redrawTexture(texture):
 >>>>>>>>>>>>>>>        pass #Logic for redrawing textures when they change
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>     textures = dt['home']['trishume']['3Dfile']['textures']
 >>>>>>>>>>>>>>>     textures.onChange(redrawTexture)
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>     currentImage = textures[0].pixels
+>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>     print(type(currentImage))
 >>>>>>>>>>>>>>>     >>> <class 'PixelAccess'>
->>>>>>>>>>>>>>> When you edit the currentImage object, it lazily sync with the master server.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> When you edit the currentImage object, it lazily sync with the master server.
 
->>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (5 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> > I suspect a lot of those problems have gone away, like being locked into a single OS. This system would definitely be running in userspace.
->>>>>>>>>> 1. There's lots of systems like that running in userspace. They're more or less impenetrable to third party platforms, you end up with lock-in to a specific language or even application framework within a language instead of to an OS, which is hardly an improvement.
->>>>>>>>>> 2. Why would you put your stream file content inside this virtual file system instead of the underlying stream file that's already there?
 >>>>>>>>>> 
+>>>>>>>>>> 1. There's lots of systems like that running in userspace. They're more or less impenetrable to third party platforms, you end up with lock-in to a specific language or even application framework within a language instead of to an OS, which is hardly an improvement.
+>>>>>>>>>> 
+>>>>>>>>>> 2. Why would you put your stream file content inside this virtual file system instead of the underlying stream file that's already there?
 
->>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > There's lots of systems like that running in userspace. They're more or less impenetrable to third party platforms, you end up with lock-in to a specific language or even application framework within a language instead of to an OS, which is hardly an improvement.
->>>>>>>>>>> I really like capnproto. We'll see if that can address some of those problems.
->>>>>>>>>>> > Why would you put your stream file content inside this virtual file system instead of the underlying stream file that's already there?
->>>>>>>>>>> There are costs to splitting things between two different api's. Mostly just to unify the address space honestly. But it would also let you register a callback to a file changing, like a nicer interface to inotify.
->>>>>>>>>>> It would also let you use an equivalent to fuse filesystems. Something that would take a jpeg and translate it to a byte array, as an example.
 >>>>>>>>>>> 
+>>>>>>>>>>> I really like capnproto. We'll see if that can address some of those problems.
+>>>>>>>>>>> 
+>>>>>>>>>>> > Why would you put your stream file content inside this virtual file system instead of the underlying stream file that's already there?
+>>>>>>>>>>> 
+>>>>>>>>>>> There are costs to splitting things between two different api's. Mostly just to unify the address space honestly. But it would also let you register a callback to a file changing, like a nicer interface to inotify.
+>>>>>>>>>>> 
+>>>>>>>>>>> It would also let you use an equivalent to fuse filesystems. Something that would take a jpeg and translate it to a byte array, as an example.
 
->>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> OK, now it sounds more like you're talking about the Apple resource fork (which is a single byte stream with a standardized internal structure) more than the Apple file system (which was a structured file system with complex file metadata) or BeFS (which had complex metadata similar to the Apple resource fork at the file system level).
->>>>>>>>>>>> The Apple resource fork did provide a certain amount of application framework independence, but only because every application framework on the Mac had to provide an API for handling resource forks.
->>>>>>>>>>>> Outside the Apple or Be environment, it really didn't matter that Be files had their complex metadata implemented in the kernel and Apple files were implemented in user space on top of streams. Which became enough of an issue for Apple once they forklifted it on top of UNIX that they basically gave up on metadata as an essential part of the file altogether... whether implemented as resource forks or HFS+ metadata.
->>>>>>>>>>>> > Something that would take a jpeg and translate it to a byte array, as an example.
->>>>>>>>>>>> A JPEG *is* a byte array. Do you mean "something that would take an image object and turn it into a byte array"?
 >>>>>>>>>>>> 
+>>>>>>>>>>>> The Apple resource fork did provide a certain amount of application framework independence, but only because every application framework on the Mac had to provide an API for handling resource forks.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Outside the Apple or Be environment, it really didn't matter that Be files had their complex metadata implemented in the kernel and Apple files were implemented in user space on top of streams. Which became enough of an issue for Apple once they forklifted it on top of UNIX that they basically gave up on metadata as an essential part of the file altogether... whether implemented as resource forks or HFS+ metadata.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> > Something that would take a jpeg and translate it to a byte array, as an example.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> A JPEG *is* a byte array. Do you mean "something that would take an image object and turn it into a byte array"?
 
->>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> >now it sounds more like you're talking about [...]
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> Well hopefully I'm not just going to be implementing a shittier version of something that already exists.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> You've worked with JSON, right? Imagine that instead of files you just had a single giant JSON tree. It's not actually a JSON tree, you don't need to worry about loading the whole thing into memory or anything.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> "files" are not different from the metadata. In fact, if you're implementing files as big chunks of binary or acii you're probably using it wrong.
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>> For example, a blend file might look something like this
+>>>>>>>>>>>>> 
 >>>>>>>>>>>>>     {
 >>>>>>>>>>>>>         "datatype":"blendfile",
 >>>>>>>>>>>>>         "textures":[
@@ -370,844 +493,1061 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 >>>>>>>>>>>>>             ...
 >>>>>>>>>>>>>         ]
 >>>>>>>>>>>>>     }
-
->>>>>>>>>>>>> Files are objects like jpegs, which are objects like pixels, and so on. There's no underlying byte chunk. Except there is, thanks to the fuse-like system, which works a lot like python's duck typing.
->>>>>>>>>>>>> The jpeg is stored on disk as a jpeg, because file compression is important. Another script provides the attribute "pixels" which lets you access the compressed data as if it were an array of pixels.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> Files are objects like jpegs, which are objects like pixels, and so on. There's no underlying byte chunk. Except there is, thanks to the fuse-like system, which works a lot like python's duck typing.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> The jpeg is stored on disk as a jpeg, because file compression is important. Another script provides the attribute "pixels" which lets you access the compressed data as if it were an array of pixels.
 
->>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> > Well hopefully I'm not just going to be implementing a shittier version of something that already exists.
+>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> I would hope that you're interested in inventing a better version of something whether it already exists or not, but I think you ought to look at resource forks. They are the grandaddy of a whole bunch of structured file formats:
+>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> * Electronic Arts IFF
 >>>>>>>>>>>>>> * Midi File Format, which is based on IFF
 >>>>>>>>>>>>>> * PNG, which is based on IFF
 >>>>>>>>>>>>>> * Palm database format
 >>>>>>>>>>>>>> * And a bunch more less well known formats, including descendants of MFF and PNG.
->>>>>>>>>>>>>> They also had an effect on NeXT property lists, unsurprisingly, considering where NeXT came from.
->>>>>>>>>>>>>> Seriously, this is something you should be familiar with if you're swimming in this lake.
->>>>>>>>>>>>>> > You've worked with JSON, right?
->>>>>>>>>>>>>> Occasionally, and also on most everything that JSON borrowed from, like NeXT property lists (see above). I really do grok this stuff.
->>>>>>>>>>>>>> > The jpeg is stored on disk as a jpeg
->>>>>>>>>>>>>> You might import it like that and treat the jpeg as an opaque lump of data, but once you start working on it you'd be better off breaking it up into a more general "image" object, with the individual bitmap chunks left in JPEG format until you start writing to them... once you do that the original JPEG is now treated as cached data to be thrown away as soon as you modify anything in the image object, or when you do a garbage collection run.
->>>>>>>>>>>>>> Compression is a red herring. You can leave the actual bitmap data in [JFIF objects](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format) on disk, but the object and metadata is in your high level format. If you start manipulating the image, you switch to less dense objects. The garbage collector recompresses them in a lossless format, if needed. If you need to send the image object as a JPEG, you generate a JPEG, and keep it cached like you had the original.
->>>>>>>>>>>>>> Otherwise your "pixels" accessor is going to be re-doing a shitload of work over and over again.
->>>>>>>>>>>>>> This is a really useful layer, but thinking of it as a replace
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> They also had an effect on NeXT property lists, unsurprisingly, considering where NeXT came from.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Seriously, this is something you should be familiar with if you're swimming in this lake.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> > You've worked with JSON, right?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Occasionally, and also on most everything that JSON borrowed from, like NeXT property lists (see above). I really do grok this stuff.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> > The jpeg is stored on disk as a jpeg
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> You might import it like that and treat the jpeg as an opaque lump of data, but once you start working on it you'd be better off breaking it up into a more general "image" object, with the individual bitmap chunks left in JPEG format until you start writing to them... once you do that the original JPEG is now treated as cached data to be thrown away as soon as you modify anything in the image object, or when you do a garbage collection run.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Compression is a red herring. You can leave the actual bitmap data in [JFIF objects](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format) on disk, but the object and metadata is in your high level format. If you start manipulating the image, you switch to less dense objects. The garbage collector recompresses them in a lossless format, if needed. If you need to send the image object as a JPEG, you generate a JPEG, and keep it cached like you had the original.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Otherwise your "pixels" accessor is going to be re-doing a shitload of work over and over again.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> This is a really useful layer, but thinking of it as a replace
 
->>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> > but I think you ought to look at resource forks.
->>>>>>>>>>>>>>> Definitely. It's very much on my list. I find all the old operating system stuff fascinating. Haven't found any really good books on the subject though...
->>>>>>>>>>>>>>> >I really do grok this stuff.
->>>>>>>>>>>>>>> That's very obvious. If there's an issues here I blame it on my failure to communicate. I have noticed that more experienced people tend to take longer to grasp what I'm trying to do.
->>>>>>>>>>>>>>> >You might import it like that and treat the jpeg as an opaque lump of data, but once you start working on it you'd be better off breaking it up into a more general "image" object, with the individual bitmap chunks left in JPEG format until you start writing to them
->>>>>>>>>>>>>>> >Otherwise your "pixels" accessor is going to be re-doing a shitload of work over and over again.
->>>>>>>>>>>>>>> I presume it would handle caching itself. It would probably overwrite the jpeg entirely.
->>>>>>>>>>>>>>> Abstractions are always leaky, and pushing a pixel stream over a network could get pretty bad. Pushing jpeg diffs though? Potentially a lot easier.
->>>>>>>>>>>>>>> In this case, you'd add a "diffedJpeg" accessor, which would store the last N changes, apply your changes to that, and bring it up to speed.
->>>>>>>>>>>>>>> The pixels array would be based on the diffedJpeg, not the rawData. Ideally that means you'd be able to move the pixels accessor to the client machine and not send giant pixel arrays.
->>>>>>>>>>>>>>> By basing everything off of capnproto based accessors we can hopefully get a lot more flexibility for weird edge cases like this. It should be pretty fast two, with capnproto's shared memory RPC. However fast a cpu takes to context switch, plus however long it takes the accessor to actually run. Accessors can be written in pretty much any language, and optimized for speed as needed.
->>>>>>>>>>>>>>> /u/eaglejarl's idea of a function block based filesystem taking advantage of capnproto's high speed RPC combined with duck typing should be a pretty powerful and simple model that can be expanded as needed.
->>>>>>>>>>>>>>> Of course it means that every accessor is responsible for their own garbage collecting... Which is a bit concerning.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Definitely. It's very much on my list. I find all the old operating system stuff fascinating. Haven't found any really good books on the subject though...
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> >I really do grok this stuff.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> That's very obvious. If there's an issues here I blame it on my failure to communicate. I have noticed that more experienced people tend to take longer to grasp what I'm trying to do.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> >You might import it like that and treat the jpeg as an opaque lump of data, but once you start working on it you'd be better off breaking it up into a more general "image" object, with the individual bitmap chunks left in JPEG format until you start writing to them
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> >Otherwise your "pixels" accessor is going to be re-doing a shitload of work over and over again.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> I presume it would handle caching itself. It would probably overwrite the jpeg entirely.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Abstractions are always leaky, and pushing a pixel stream over a network could get pretty bad. Pushing jpeg diffs though? Potentially a lot easier.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> In this case, you'd add a "diffedJpeg" accessor, which would store the last N changes, apply your changes to that, and bring it up to speed.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> The pixels array would be based on the diffedJpeg, not the rawData. Ideally that means you'd be able to move the pixels accessor to the client machine and not send giant pixel arrays.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> By basing everything off of capnproto based accessors we can hopefully get a lot more flexibility for weird edge cases like this. It should be pretty fast two, with capnproto's shared memory RPC. However fast a cpu takes to context switch, plus however long it takes the accessor to actually run. Accessors can be written in pretty much any language, and optimized for speed as needed.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> /u/eaglejarl's idea of a function block based filesystem taking advantage of capnproto's high speed RPC combined with duck typing should be a pretty powerful and simple model that can be expanded as needed.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Of course it means that every accessor is responsible for their own garbage collecting... Which is a bit concerning.
 
->>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> > Ideally that means you'd be able to move the pixels accessor to the client machine and not send giant pixel arrays.
->>>>>>>>>>>>>>>> There would only be giant pixel arrays if you were editing them, and you'd compress them before sending them. You wouldn't EVER store edited bitmaps in JPEG format, though, because it's lossy.
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> There would only be giant pixel arrays if you were editing them, and you'd compress them before sending them. You wouldn't EVER store edited bitmaps in JPEG format, though, because it's lossy.
 
->>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> >You wouldn't EVER store edited bitmaps in JPEG format, though, because it's lossy.
->>>>>>>>>>>>>>>>> That's more of a reason to ban jpeg. We want to give users choice in as much as possible, which means not mandating that kind of thing.
->>>>>>>>>>>>>>>>> I'd also like to avoid writing "canonical" implementations of accessors. We want a bizarre of accessors, and that means that accessors have to more or less manage their own memory and support multiple languages. Making them simply a capnproto RPC call has a very simple elegance that's appealing.
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> That's more of a reason to ban jpeg. We want to give users choice in as much as possible, which means not mandating that kind of thing.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I'd also like to avoid writing "canonical" implementations of accessors. We want a bizarre of accessors, and that means that accessors have to more or less manage their own memory and support multiple languages. Making them simply a capnproto RPC call has a very simple elegance that's appealing.
 
->>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> Who said anything about mandating anything? Users shouldn't care what the source or intermediate formats are. They just see the images through accessors that deal with things like JPEG behind the covers.
->>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> >Who said anything about mandating anything?
->>>>>>>>>>>>>>>>>>> Misunderstood.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Misunderstood.
 
->>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > Making them simply a capnproto RPC call has a very simple elegance that's appealing.
->>>>>>>>>>>>>>>>>> Looking at that format/interface, I don't see how you would incorporate JPEG into it unless you simply import and expose the JPEG as a single stream chunk with no deeper structure.
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> Looking at that format/interface, I don't see how you would incorporate JPEG into it unless you simply import and expose the JPEG as a single stream chunk with no deeper structure.
 
->>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> It does have some support for dynamic data types, from there you should be able to build recursive data types. I haven't looked into it in as much depth as I'd like though.
->>>>>>>>>>>>>>>>>>> I can't point to an actual implementation, and I honestly have no idea how the memory provisioning works with recursive data types, but It mentions recursion data structures.
->>>>>>>>>>>>>>>>>>> https://capnproto.org/cxx.html
->>>>>>>>>>>>>>>>>>> ctr+f recursive
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I can't point to an actual implementation, and I honestly have no idea how the memory provisioning works with recursive data types, but It mentions recursion data structures.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> https://capnproto.org/cxx.html
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> ctr+f recursive
 
->>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> Sure, but that would be mind-bogglingly inefficient.
->>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> I'm not seeing it. Inefficient in memory usage? Inefficient in context switches?
->>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> Computationally inefficient. The whole point to the format is you can memory map it in, read it in, share it, whatever... and it's already a structure you can directly address in place. Putting a big binary blob like a JPEG in the middle nullifies the whole point of using it.
->>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> Only inefficient when you're saving or reading from the jpeg though, as presumably the pixels accessor would cache the pixels array and write into it asynchronously, as a background task.
->>>>>>>>>>>>>>>>>>>>>>> It would be up to the pixels accessor to decide when to write back into the rawData accessor/attribute.
->>>>>>>>>>>>>>>>>>>>>>> RawData as symlinks into a real filesystem are the other obvious answer, although it requires you to run a filesystem in parallel. Not something I want to make an absolute *requirement*, but they'll be doing that anyway.
->>>>>>>>>>>>>>>>>>>>>>> I don't really see how it's less efficient then a syscall to read from disk though. Aside from that it takes place in userspace and adds an extra jump. With capnproto's rpc, that would basically be almost identical to memory mapping a file, wouldn't it?
 >>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> It would be up to the pixels accessor to decide when to write back into the rawData accessor/attribute.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> RawData as symlinks into a real filesystem are the other obvious answer, although it requires you to run a filesystem in parallel. Not something I want to make an absolute *requirement*, but they'll be doing that anyway.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> I don't really see how it's less efficient then a syscall to read from disk though. Aside from that it takes place in userspace and adds an extra jump. With capnproto's rpc, that would basically be almost identical to memory mapping a file, wouldn't it?
 
->>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> > I don't really see how it's less efficient then a syscall to read from disk though.
->>>>>>>>>>>>>>>>>>>>>>>> I didn't say that. I am not making any comparison with using a syscall to read from disk. I'm saying that using a stream-based format (JPEG) for anything other than import and export is horribly inefficient compared to using *only* a format optimized for direct access. And that using such a format is where most of the advantages of capnproto come from.
 >>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> I didn't say that. I am not making any comparison with using a syscall to read from disk. I'm saying that using a stream-based format (JPEG) for anything other than import and export is horribly inefficient compared to using *only* a format optimized for direct access. And that using such a format is where most of the advantages of capnproto come from.
 
->>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>> Ah, yeah. Very much agreed. You should use the pixels accessor where possible. Which should be everything except making the pixels accessor.
->>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> Which should be a very thin wrapper that, except for the very first time, just does some quick checks to make sure any cached stream or compressed formats are still valid and drops straight through to regular canproto objects.
->>>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>> It should save the jpeg after a while of inactivity, I think. We want to be able to free up the memory it's using if it hasn't been accessed in a while.
->>>>>>>>>>>>>>>>>>>>>>>>>>> And of course there would be a lot of different accessors for different data types, and probably a simple python-function accessor system for things like data validation, where speed isn't super important.
 >>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>> And of course there would be a lot of different accessors for different data types, and probably a simple python-function accessor system for things like data validation, where speed isn't super important.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> > It should save the jpeg after a while of inactivity, I think.
->>>>>>>>>>>>>>>>>>>>>>>>>>>> Why? Unless you know that you're going to need the data in JPEG format, you should never create it. If you *do* ever create it (instead of, say, PNG) for any reason then odds are you are going to need it again, and only then should it be saved in that format.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Why? Unless you know that you're going to need the data in JPEG format, you should never create it. If you *do* ever create it (instead of, say, PNG) for any reason then odds are you are going to need it again, and only then should it be saved in that format.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> We do still need to save to disk at some point, and we might as well save in a known compressed format. Probably not jpeg though.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> The alternative is using generic compression and just compressing the pixel array?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> In that case you can just store the pixel array without any fancy accessor.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> That would be a lot better for a lot of use cases I'm sure, but imagine trying to do that to a video? Sometimes specialized compression is needed.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'd like this to at least start off being somewhat compatible with actual filesystems. The rawData attribute might by a symlink-equivalent to a real file sometimes.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> I want to support the most flexibility, and part of that is accessors for things like jpegs, although hopefully mostly pngs.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> If the issue is the specific case of jpegs, that jpegs are lossy, then I don't disagree. Jpeg is a terrible format, and people should use png.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> It was probably a poor example. Just pretend I've been saying png if that's the problem.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The alternative is using generic compression and just compressing the pixel array?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> In that case you can just store the pixel array without any fancy accessor.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That would be a lot better for a lot of use cases I'm sure, but imagine trying to do that to a video? Sometimes specialized compression is needed.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'd like this to at least start off being somewhat compatible with actual filesystems. The rawData attribute might by a symlink-equivalent to a real file sometimes.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I want to support the most flexibility, and part of that is accessors for things like jpegs, although hopefully mostly pngs.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If the issue is the specific case of jpegs, that jpegs are lossy, then I don't disagree. Jpeg is a terrible format, and people should use png.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It was probably a poor example. Just pretend I've been saying png if that's the problem.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > We do still need to save to disk at some point
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which, if you're using capnproto, is a simple write operation. Or if you're using a mapped file you let the pager do it. Or close the file. The in-memory format *is* the on-disk format.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > The alternative is using generic compression and just compressing the pixel array?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You define the accessors to compress and uncompress the bitmap, or even parts of the bitmap, as needed. The compressed and uncompressed versions of the bitmap are all part of the capnproto data structure, allocated dynamically when needed and released by the garbage collector.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > I'd like this to at least start off being somewhat compatible with actual filesystems.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It already is.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > It was probably a poor example. Just pretend I've been saying png if that's the problem.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PNG is a batter match for capnproto, but you would still only use it as an import or export mechanism. The in-action image would be in capnproto objects. Individual bitplanes would be compressed using a PNG-compatible compressor like DEFLATE by the garbage collector.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which, if you're using capnproto, is a simple write operation. Or if you're using a mapped file you let the pager do it. Or close the file. The in-memory format *is* the on-disk format.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > The alternative is using generic compression and just compressing the pixel array?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You define the accessors to compress and uncompress the bitmap, or even parts of the bitmap, as needed. The compressed and uncompressed versions of the bitmap are all part of the capnproto data structure, allocated dynamically when needed and released by the garbage collector.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > I'd like this to at least start off being somewhat compatible with actual filesystems.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It already is.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > It was probably a poor example. Just pretend I've been saying png if that's the problem.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PNG is a batter match for capnproto, but you would still only use it as an import or export mechanism. The in-action image would be in capnproto objects. Individual bitplanes would be compressed using a PNG-compatible compressor like DEFLATE by the garbage collector.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >The in-memory format is the on-disk format.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That could start being a scary amount of data, fast. For most data, it's ideal. But for giant pixel arrays compression is probably necessary.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >You define the accessors to compress and uncompress the bitmap, or even parts of the bitmap, as needed. The compressed and uncompressed versions of the bitmap are all part of the capnproto data structure,
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> How is that different from the other way around? Accessors that compress and uncompress to provide a pixel array, or to save to disk?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'm imagining the pixel accessor locking the rawData attribute, if that helps. You've convinced me that trying to send patches of serialize frequently is bad.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> This keeps the implementation pretty simple, because the compressed data is the only bit that gets saved to disk. I don't think we could even store an entire video as pixel arrays in the amount of drive we've got, so that at least would need more complicated serialization.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> We'd only convert from the png to the pixel array on first access, after that it would be cached. We'd only serialize the pixel array back into a png when there isn't much load on the CPU, or when the accessor is closing down to free memory.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That could start being a scary amount of data, fast. For most data, it's ideal. But for giant pixel arrays compression is probably necessary.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >You define the accessors to compress and uncompress the bitmap, or even parts of the bitmap, as needed. The compressed and uncompressed versions of the bitmap are all part of the capnproto data structure,
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> How is that different from the other way around? Accessors that compress and uncompress to provide a pixel array, or to save to disk?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'm imagining the pixel accessor locking the rawData attribute, if that helps. You've convinced me that trying to send patches of serialize frequently is bad.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> This keeps the implementation pretty simple, because the compressed data is the only bit that gets saved to disk. I don't think we could even store an entire video as pixel arrays in the amount of drive we've got, so that at least would need more complicated serialization.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> We'd only convert from the png to the pixel array on first access, after that it would be cached. We'd only serialize the pixel array back into a png when there isn't much load on the CPU, or when the accessor is closing down to free memory.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > That could start being a scary amount of data, fast. For most data, it's ideal. But for giant pixel arrays compression is probably necessary.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Garbage collection.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Accessors that compress and uncompress to provide a pixel array, or to save to disk?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If you access a pixel array once, you're probably going to access it again pretty soon, so you leave it uncompressed until you need the memory.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > or to save to disk?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> capnproto is kind of defined as "in memory structures and disk structures are the same, saving to disk is a write operation".
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > I don't think we could even store an entire video as pixel arrays
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Why would you do that? You only need to convert the compressed arrays to pixel arrays if you're using an accessor that requires you to do operations on the array that require uncompressing it.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > We'd only convert from the png to the pixel array on first access,
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> On first access that needs to perform bitmap operations, as opposed to exporting it to (say) a video player app.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > after that it would be cached.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's what I said.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > We'd only serialize the pixel array back into a png
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Unless you modified the array, you just throw it away. And it's not a PNG, it's a capnproto structure that contains compressed bitplanes that can be copied directly into a PNG.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > when there isn't much load on the CPU
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's a good time to run the garbage collector.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > or when the accessor is closing down to free memory
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's also a good time to run the garbage collector.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Garbage collection.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Accessors that compress and uncompress to provide a pixel array, or to save to disk?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If you access a pixel array once, you're probably going to access it again pretty soon, so you leave it uncompressed until you need the memory.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > or to save to disk?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> capnproto is kind of defined as "in memory structures and disk structures are the same, saving to disk is a write operation".
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > I don't think we could even store an entire video as pixel arrays
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Why would you do that? You only need to convert the compressed arrays to pixel arrays if you're using an accessor that requires you to do operations on the array that require uncompressing it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > We'd only convert from the png to the pixel array on first access,
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> On first access that needs to perform bitmap operations, as opposed to exporting it to (say) a video player app.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > after that it would be cached.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's what I said.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > We'd only serialize the pixel array back into a png
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Unless you modified the array, you just throw it away. And it's not a PNG, it's a capnproto structure that contains compressed bitplanes that can be copied directly into a PNG.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > when there isn't much load on the CPU
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's a good time to run the garbage collector.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > or when the accessor is closing down to free memory
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's also a good time to run the garbage collector.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >On first access that needs to perform bitmap operations, as opposed to exporting it to (say) a video player app.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> On first access of the pixels attribute, which is more or less the same thing.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > And it's not a PNG, it's a capnproto structure that contains compressed bitplanes that can be copied directly into a PNG.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The distinction is unclear to me.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >That's also a good time to run the garbage collector.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That is the garbage collector? Or the end results thereof.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >You only need to convert the compressed arrays to pixel arrays if you're using an accessor that requires you to do operations on the array that require uncompressing it.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I think we're both talking about pretty much the same thing here. Compressed data, accessors transform them into things like pixel arrays, decompressing as parts of the data are accessed.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Of course specific memory management stuff is left to the particular accessors implementation.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> On first access of the pixels attribute, which is more or less the same thing.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > And it's not a PNG, it's a capnproto structure that contains compressed bitplanes that can be copied directly into a PNG.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The distinction is unclear to me.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >That's also a good time to run the garbage collector.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That is the garbage collector? Or the end results thereof.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >You only need to convert the compressed arrays to pixel arrays if you're using an accessor that requires you to do operations on the array that require uncompressing it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I think we're both talking about pretty much the same thing here. Compressed data, accessors transform them into things like pixel arrays, decompressing as parts of the data are accessed.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Of course specific memory management stuff is left to the particular accessors implementation.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > On first access of the pixels attribute, which is more or less the same thing.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Depends. If the access is simply a copy, and the target is a compatibly compressed structure (eg, for export), there's no reason to do anything but a byte copy.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > The distinction is unclear to me.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A PNG is not a capnproto structure. Capnproto is not just "we have a hierarchical structure and accessors". It's also a data format that can be imported/exported purely by reading/writing, and mapped directly to memory and used in-situ.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Depends. If the access is simply a copy, and the target is a compatibly compressed structure (eg, for export), there's no reason to do anything but a byte copy.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > The distinction is unclear to me.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A PNG is not a capnproto structure. Capnproto is not just "we have a hierarchical structure and accessors". It's also a data format that can be imported/exported purely by reading/writing, and mapped directly to memory and used in-situ.
 
->>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> > It would probably overwrite the jpeg entirely.
->>>>>>>>>>>>>>>> You wouldn't do that. If the object was originally a jpeg, you're probably going to want to use it as a jpeg some time, and as long as you have the storage there's no reason to throw it away.
->>>>>>>>>>>>>>>> > Pushing jpeg diffs though?
->>>>>>>>>>>>>>>> diffs for any highly compressed/globally compressed format are unlikely to be smaller than the original.
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> You wouldn't do that. If the object was originally a jpeg, you're probably going to want to use it as a jpeg some time, and as long as you have the storage there's no reason to throw it away.
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> > Pushing jpeg diffs though?
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> diffs for any highly compressed/globally compressed format are unlikely to be smaller than the original.
 
->>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> > diffs for any highly compressed/globally compressed format are unlikely to be smaller than the original.
->>>>>>>>>>>>>>>>> In theory they could be.  "Start at byte 0xDEADBEEF, change the next 27 bytes to <foo>"
->>>>>>>>>>>>>>>>> In practice, it's doubtful it would work.  Even if it did, you'd have many of the same issues that you run into with backups and VCSes -- lose your base, you're hosed.  Lose one change, you're hosed.  Applying all the changes takes time. Base + changes takes substantially more storage than base.  Probably more issues that I'm not thinking of offhand.
->>>>>>>>>>>>>>>>> /u/traverseda, comments?
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> In theory they could be.  "Start at byte 0xDEADBEEF, change the next 27 bytes to <foo>"
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> In practice, it's doubtful it would work.  Even if it did, you'd have many of the same issues that you run into with backups and VCSes -- lose your base, you're hosed.  Lose one change, you're hosed.  Applying all the changes takes time. Base + changes takes substantially more storage than base.  Probably more issues that I'm not thinking of offhand.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> /u/traverseda, comments?
 
->>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > In theory they could be. "Start at byte 0xDEADBEEF, change the next 27 bytes to <foo>"
->>>>>>>>>>>>>>>>>> That's unlikely to be meaningful for a JPEG. It just doesn't operate at that level.
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> That's unlikely to be meaningful for a JPEG. It just doesn't operate at that level.
 
->>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> No argument from me, that's why I said "In theory.... In practice it's doubtful it would work."  (EDIT:  I realized I was being an idiot, because you'd break the checksum doing what I suggested.)
->>>>>>>>>>>>>>>>>>> Do you have a clue what the problem is that /u/traverseda is trying to solve?  I can't tell because he keeps shifting ground.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Do you have a clue what the problem is that /u/traverseda is trying to solve?  I can't tell because he keeps shifting ground.
 
->>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (13 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> From this reference: https://www.reddit.com/r/rational/comments/3nkz2y/d_monday_general_rationality_thread/cvp34mz maybe?
->>>>>>>>>>>>>>>>>>>> > You can't simultaneously edit files.
->>>>>>>>>>>>>>>>>>>> That would explain the fascination with diffs. Also, you were in that previous discussion.
->>>>>>>>>>>>>>>>>>>> I kind of don't think that file formats and file systems are the blocker in this problem.
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> > You can't simultaneously edit files.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> That would explain the fascination with diffs. Also, you were in that previous discussion.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> I kind of don't think that file formats and file systems are the blocker in this problem.
 
->>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> > I kind of don't think that file formats and file systems are the blocker in this problem.
->>>>>>>>>>>>>>>>>>>>> Indeed.
->>>>>>>>>>>>>>>>>>>>> > That would explain the fascination with diffs. Also, you were in that previous discussion.
->>>>>>>>>>>>>>>>>>>>> Yeah, but then I understood what he was on about -- he wanted simultaneous editing.  In this thread he started with filesystems, shifted to in-memory caching, then shifted again to microservices and "shared memory RPC" (whatever that is).  I can't figure out what he's actually looking to accomplish.  Apparently I'm not the only one, which is reassuring.
->>>>>>>>>>>>>>>>>>>>> I'm actually somewhat seriously wondering if we're looking at a chatbot...there's a lot of computer-related terms and phrases ("But premature optimization is harmful") being thrown around, but they don't fit together coherently.  I give it a low probability, but not zero.
 >>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Indeed.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> > That would explain the fascination with diffs. Also, you were in that previous discussion.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Yeah, but then I understood what he was on about -- he wanted simultaneous editing.  In this thread he started with filesystems, shifted to in-memory caching, then shifted again to microservices and "shared memory RPC" (whatever that is).  I can't figure out what he's actually looking to accomplish.  Apparently I'm not the only one, which is reassuring.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> I'm actually somewhat seriously wondering if we're looking at a chatbot...there's a lot of computer-related terms and phrases ("But premature optimization is harmful") being thrown around, but they don't fit together coherently.  I give it a low probability, but not zero.
 
->>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> I don't think data is nearly that highly compressed in most cases. The changes might be trivial for something the size of a jpeg, but imagine a movie. Surely sending the diffs for a single frame, or a few frames, would be a lot cheaper then resending the entire movie?
->>>>>>>>>>>>>>>>>> Let's say you add subtitles, as pixels, not text, because you're a jerk. How many data block do you really think that's going to touch, even with compression?
->>>>>>>>>>>>>>>>>> I don't imagine that the compression algorithms are so efficient that you'd be touching *every* block.
->>>>>>>>>>>>>>>>>> Should be pretty easy to test though.
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> Let's say you add subtitles, as pixels, not text, because you're a jerk. How many data block do you really think that's going to touch, even with compression?
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> I don't imagine that the compression algorithms are so efficient that you'd be touching *every* block.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> Should be pretty easy to test though.
 
->>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2]  (13 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> If your compression includes a checksum (e.g. zip, gzip), diffing one bit breaks it and forces you to read the entire file, recalculate the new checksum, and update a particular data block...which stops you from having multiple editing.  And then do that again next time anyone else applies a diff.
->>>>>>>>>>>>>>>>>>> You can transmit your diffs separate from the base state, of course, but that doesn't get around the fact that your diff needs to include a new checksum each time in order to have a valid file.  Woefully inefficient computationally for savings on bandwidth.
->>>>>>>>>>>>>>>>>>> In retrospect I should have thought of the above before saying [that diffs could even theoretically](https://www.reddit.com/r/rational/comments/3pwxo5/d_friday_offtopic_thread/cwpt83u) be useful on compressed data.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> You can transmit your diffs separate from the base state, of course, but that doesn't get around the fact that your diff needs to include a new checksum each time in order to have a valid file.  Woefully inefficient computationally for savings on bandwidth.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> In retrospect I should have thought of the above before saying [that diffs could even theoretically](https://www.reddit.com/r/rational/comments/3pwxo5/d_friday_offtopic_thread/cwpt83u) be useful on compressed data.
 
->>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> Yeah, probably useless for most compression types.
->>>>>>>>>>>>>>>>>>>> I found ZDelta, which is specifically used for this kind of thing.
->>>>>>>>>>>>>>>>>>>> But yeah, stream compression is looking more and more attractive.
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> I found ZDelta, which is specifically used for this kind of thing.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> But yeah, stream compression is looking more and more attractive.
 
->>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> >diffs for any highly compressed/globally compressed format are unlikely to be smaller than the original.
->>>>>>>>>>>>>>>>> Yeah, thank makes sense. Diminishing return on something the size of a jpeg. Video frames might be a better example. Even with global compression, sending a frame diff is going to be a lot cheaper.
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Yeah, thank makes sense. Diminishing return on something the size of a jpeg. Video frames might be a better example. Even with global compression, sending a frame diff is going to be a lot cheaper.
 
->>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> > I have noticed that more experienced people tend to take longer to grasp what I'm trying to do.
+>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> That should probably tell you something.
+>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> What *exactly* are you trying to do?  It's still not clear to me. The only concrete item I'm getting is that different clients should be able to update the same data object (e.g. JPEG) at the same time.
+>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> Some suggestions for you:
+>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> * You're pretty clearly coming from a gaming / graphics programming background.  Make sure you think about how your new system will manage other kinds of data -- for example, text files, database files, and encrypted files.
 >>>>>>>>>>>>>>>> * Come up with a word other than 'filesystem' for what you're talking about.  You've stated that 'filesystem' is only a metaphor, and it's confusing the issue.
 >>>>>>>>>>>>>>>> * Clarify whether you're talking about caching or physical storage.  You're floating between the two levels and handwaving a lot of the challenges, and you can't do that if you want to produce something meaningful.
->>>>>>>>>>>>>>>> Also, for the record -- I was completely spitballing when I talked about the function block based filesystem.  Before you run with that idea, put some serious thought into it, because I came up with it and I suspect it's full of crap once it has to interact with the real world.
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> Also, for the record -- I was completely spitballing when I talked about the function block based filesystem.  Before you run with that idea, put some serious thought into it, because I came up with it and I suspect it's full of crap once it has to interact with the real world.
 
->>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> > That should probably tell you something.
->>>>>>>>>>>>>>>>> Sure, it tells me you're set in your ways, and your brain is all calcified and gross ;p
->>>>>>>>>>>>>>>>> >You're pretty clearly coming from a gaming / graphics programming background
->>>>>>>>>>>>>>>>> I'm a web dev. With a bit of scientific computing on the side. Haven't ever touched a game engine, outside of maybe some pixel blitting with pygame.
->>>>>>>>>>>>>>>>> I'm focusing on those examples because I think they're a lot easier to grasp upfront, but here's another example.
->>>>>>>>>>>>>>>>> I want to make a feed reader that uses naive bayes and possibly some other techniques to sort through all kinds of data, and tag it, and rank it based on those tags.
->>>>>>>>>>>>>>>>> I don't just want rss feeds though. I also want emails, and I want to be able to write ranking rules based on more complicated data like reddit votes. A certain amount of webs craping would be involved, obviously.
->>>>>>>>>>>>>>>>> My ideal architecture for that is microservices. I write a script that fetches all my emails, put it in a crontab, and it saves them with their associated metadata (I want things that have the email tag to be a much higher priority, as an example).
->>>>>>>>>>>>>>>>> As soon as an email comes down, it needs to go through a stream. Ideally a stream of microservices process. They run the machine learning and the like on it.
->>>>>>>>>>>>>>>>> Now there are obvious changes I could make that would make this work conventionally. I could drop the microservices part entirely, kill the need for rpc.
->>>>>>>>>>>>>>>>> I could make some complicated system using inotify, although it would be limited to linux. It could run into locking issues, where one microservice wants to save data to one attribute, and another to a completely different, but they can't because it's a monolithic sequence.
->>>>>>>>>>>>>>>>> But what I really want is a nice simple system to register a callback on data change, and not have to worry about write locks. I want to be able to access a shared memory data structure, get updates when data has changes, 
->>>>>>>>>>>>>>>>> Admittedly that's predicated on a microservice architecture being a good idea. Personally, I think it's really powerful. You know about the cathedral and the bizarre? It brings bizarre style development to projects that used to *have* to be cathedral for practical reasons.
->>>>>>>>>>>>>>>>> >Clarify whether you're talking about caching or physical storage. You're floating between the two levels and handwaving a lot of the challenges
->>>>>>>>>>>>>>>>> You don't need to have the *entire* thing planned out in advanced. It's important to have a system that is flexible enough to handle an evolving workload. But premature optimization is harmful.
->>>>>>>>>>>>>>>>> Make no mistake, the ultimate goal is to have something that scales to the size of a filesystem, but there's no way I'm going to be able to do that without profiling.
->>>>>>>>>>>>>>>>> Those *are* hard problems, but they don't need to be solved for this to still be useful as an IPC mechanism for microservices.
->>>>>>>>>>>>>>>>> As for floating between two different levels, it's worth noting that there aren't hard liens between them. Linux caches the hell out of it's files system. Writes happen asynchronously in every modern filesystem, the data gets cached in ram for a while before it gets saved, and things like bcache make filesystem faster then a pure ssd alone, but putting things that are likely to be randomly read on the SSD, but storing sequentially accessed data else ware.
->>>>>>>>>>>>>>>>> The two are so related I feel it would be absurd to consider them on their own.
->>>>>>>>>>>>>>>>> >I was completely spitballing when I talked about the function block based filesystem. Before you run with that idea, put some serious thought into it, because I came up with it and I suspect it's full of crap once it has to interact with the real world.
->>>>>>>>>>>>>>>>> Don't worry, it's not quite what I'm doing, just inspiration. What I'm doing is ducktyping based on a similar system.
->>>>>>>>>>>>>>>>> I don't think that context switching is going to eat too much, especially since capnproto is going to have shared memory rpc stuff.
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Sure, it tells me you're set in your ways, and your brain is all calcified and gross ;p
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> >You're pretty clearly coming from a gaming / graphics programming background
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I'm a web dev. With a bit of scientific computing on the side. Haven't ever touched a game engine, outside of maybe some pixel blitting with pygame.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I'm focusing on those examples because I think they're a lot easier to grasp upfront, but here's another example.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I want to make a feed reader that uses naive bayes and possibly some other techniques to sort through all kinds of data, and tag it, and rank it based on those tags.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I don't just want rss feeds though. I also want emails, and I want to be able to write ranking rules based on more complicated data like reddit votes. A certain amount of webs craping would be involved, obviously.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> My ideal architecture for that is microservices. I write a script that fetches all my emails, put it in a crontab, and it saves them with their associated metadata (I want things that have the email tag to be a much higher priority, as an example).
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> As soon as an email comes down, it needs to go through a stream. Ideally a stream of microservices process. They run the machine learning and the like on it.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Now there are obvious changes I could make that would make this work conventionally. I could drop the microservices part entirely, kill the need for rpc.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I could make some complicated system using inotify, although it would be limited to linux. It could run into locking issues, where one microservice wants to save data to one attribute, and another to a completely different, but they can't because it's a monolithic sequence.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> But what I really want is a nice simple system to register a callback on data change, and not have to worry about write locks. I want to be able to access a shared memory data structure, get updates when data has changes, 
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Admittedly that's predicated on a microservice architecture being a good idea. Personally, I think it's really powerful. You know about the cathedral and the bizarre? It brings bizarre style development to projects that used to *have* to be cathedral for practical reasons.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> >Clarify whether you're talking about caching or physical storage. You're floating between the two levels and handwaving a lot of the challenges
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> You don't need to have the *entire* thing planned out in advanced. It's important to have a system that is flexible enough to handle an evolving workload. But premature optimization is harmful.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Make no mistake, the ultimate goal is to have something that scales to the size of a filesystem, but there's no way I'm going to be able to do that without profiling.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Those *are* hard problems, but they don't need to be solved for this to still be useful as an IPC mechanism for microservices.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> As for floating between two different levels, it's worth noting that there aren't hard liens between them. Linux caches the hell out of it's files system. Writes happen asynchronously in every modern filesystem, the data gets cached in ram for a while before it gets saved, and things like bcache make filesystem faster then a pure ssd alone, but putting things that are likely to be randomly read on the SSD, but storing sequentially accessed data else ware.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> The two are so related I feel it would be absurd to consider them on their own.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> >I was completely spitballing when I talked about the function block based filesystem. Before you run with that idea, put some serious thought into it, because I came up with it and I suspect it's full of crap once it has to interact with the real world.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Don't worry, it's not quite what I'm doing, just inspiration. What I'm doing is ducktyping based on a similar system.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> I don't think that context switching is going to eat too much, especially since capnproto is going to have shared memory rpc stuff.
 
->>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > Sure, it tells me you're set in your ways, and your brain is all calcified and gross ;p
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> I was really going more for "people who know what they're talking about think that what *you're* talking about is incoherent and/or wrong", but sure, we can go with 'calcified and gross'.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> > Admittedly that's predicated on a microservice architecture being a good idea. Personally, I think it's really powerful. You know about the cathedral and the bizarre? It brings bizarre style development to projects that used to have to be cathedral for practical reasons.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> First, it's *bazaar*.  Second, [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) is not related to what you're talking about.  It talks about how projects are organized.  But, okay, presumably you're using it as a metaphor for 'large application that does something significant' versus 'lots of trivial little Legos that can be bolted together to do significant things.' Congrats, you have reinvented the *nix approach.
+>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> >     Clarify whether you're talking about caching or physical storage. 
 >>>>>>>>>>>>>>>>>> >     You're floating between the two levels and handwaving a lot of the challenges
->>>>>>>>>>>>>>>>>> > You don't need to have the entire thing planned out in advanced. It's important to have a system that is flexible enough to handle an evolving workload. But premature optimization is harmful.
->>>>>>>>>>>>>>>>>> The hell you don't.  Sure, your specification can evolve as you go, but you haven't even settled on a specific topic.  You started off talking about filesystems, then you shifted to caching, now you're talking about microservices.  Pick one.
->>>>>>>>>>>>>>>>>> Stop giving random incoherent examples and tell us what the exact problem is that you're trying to solve.  If that problem is just "I want to let multiple people write to the same data object at the same time", then great.  That's a trivial problem and easy to solve.
-
->>>>>>>>>>>>>>>>>> > I don't think that context switching is going to eat too much, 
->>>>>>>>>>>>>>>>>> Many very smart OS developers would disagree with you.
->>>>>>>>>>>>>>>>>> > especially since capnproto is going to have shared memory rpc stuff.
->>>>>>>>>>>>>>>>>> 'Shared memory RPC' is a contradiction.  The definition of RPC is 'causing code to execute in a separate memory space.'
->>>>>>>>>>>>>>>>>> I really can't tell if you're just trolling at this point.  Unless you can actually clarify what your problem is that you want fixed, I'm going to assume you are.
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> > You don't need to have the entire thing planned out in advanced. It's important to have a system that is flexible enough to handle an evolving workload. But premature optimization is harmful.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> The hell you don't.  Sure, your specification can evolve as you go, but you haven't even settled on a specific topic.  You started off talking about filesystems, then you shifted to caching, now you're talking about microservices.  Pick one.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> Stop giving random incoherent examples and tell us what the exact problem is that you're trying to solve.  If that problem is just "I want to let multiple people write to the same data object at the same time", then great.  That's a trivial problem and easy to solve.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> > I don't think that context switching is going to eat too much, 
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> Many very smart OS developers would disagree with you.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> > especially since capnproto is going to have shared memory rpc stuff.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> 'Shared memory RPC' is a contradiction.  The definition of RPC is 'causing code to execute in a separate memory space.'
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> I really can't tell if you're just trolling at this point.  Unless you can actually clarify what your problem is that you want fixed, I'm going to assume you are.
 
->>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> > You started off talking about filesystems, then you shifted to caching, now you're talking about microservices. Pick one.
->>>>>>>>>>>>>>>>>>> Microservices are an example of a non-graphics use for this. You mentioned that you thought I had a background in graphics, and that I should think about it from other perspectives, so I brought up an example related to scientific computing.
->>>>>>>>>>>>>>>>>>> I think the context was *pretty* clear there. English is a high context language, and it's like you're parsing smaller context blocks then I'm used to.
->>>>>>>>>>>>>>>>>>> >Stop giving random incoherent examples and tell us what the exact problem is that you're trying to solve.
->>>>>>>>>>>>>>>>>>> That's a *bad* way of dealing with system architecture. A better question would be "What does the api look like, and would it let people develop things significantly faster?".
->>>>>>>>>>>>>>>>>>> Have you heard the term "Path of least resistance lead me on" or "local maxima"?
->>>>>>>>>>>>>>>>>>> The answer to "how do I deal with data" isn't "build a filesystem", it's "move the tape to this point and read the contents into memory".
->>>>>>>>>>>>>>>>>>> It's easy to solve specific problems, it's a lot harder to build api's and architectures that people can use.
->>>>>>>>>>>>>>>>>>> A big part of it is politics, like what kind of workflow does it work well with, and what architectures work well with.
->>>>>>>>>>>>>>>>>>> There isn't one particular problem that I'm trying to solve, there's a set of use-cases that I think would be much better served by this. Use cases that I think are going to be more important going forward.
->>>>>>>>>>>>>>>>>>> On top of that, this question is obviously a trap.
->>>>>>>>>>>>>>>>>>> I give one of the uses cases, and you give a quick hack like using inotify or a one-off RPC daemon to solve it. But the point isn't any one use case, it's about creating an environment that's good for distributed tasks and small programs that do one with well.
->>>>>>>>>>>>>>>>>>> >But, okay, presumably you're using it as a metaphor for 'large application that does something significant' versus 'lots of trivial little Legos that can be bolted together to do significant things.' Congrats, you have reinvented the *nix approach.
->>>>>>>>>>>>>>>>>>> I believe that I started talking about this by [saying](https://www.reddit.com/r/rational/comments/3nkz2y/d_monday_general_rationality_thread/cvp34mz) *to you* that
->>>>>>>>>>>>>>>>>>> >I'm a big proponent of the unix way, but I think it falls apart these days, for a number of reasons.
->>>>>>>>>>>>>>>>>>> So yeah, this is highly related to the unix way. But applying it to be able to work with more complicated data structures and arrangements.
->>>>>>>>>>>>>>>>>>> >I was really going more for "people who know what they're talking about think that what you're talking about is incoherent and/or wrong", 
->>>>>>>>>>>>>>>>>>> http://lesswrong.com/lw/lx/argument_screens_off_authority/
->>>>>>>>>>>>>>>>>>> I do very much appreciate feedback. But we've mostly debated definitions here. That's useful for helping me to communicate better, definitely.
->>>>>>>>>>>>>>>>>>> I meant it as "Obviously I'm not using good terminology" with a hint of "you have rigid definitions gained by working years in the industry, I'm probably not using them right".
->>>>>>>>>>>>>>>>>>> Maybe this is an issue of the size of your context blocks? And I mean that in the least insulting way possible. Being pissed of could easily cause you to choose the least charitable context for my statements.
->>>>>>>>>>>>>>>>>>> It wasn't meant as an insult originally.
->>>>>>>>>>>>>>>>>>> >First, it's bazaar.
->>>>>>>>>>>>>>>>>>> In most contexts, I'd be thankful for the correction. But intent matters and I think that's probably just petty. Obvious there's some hostility here, and there was before as well. That's part of why I waited a few weeks before bringing this up again.
->>>>>>>>>>>>>>>>>>> I'm not sure what to do about that. I tried to put you at ease with all the compliments, and repeatedly stating that I drew inspiration from your block system. I've admitted culpability and a failure to communicate.
->>>>>>>>>>>>>>>>>>> I've subtly tried to show you that part of the misunderstanding may be on your end, and correct it, without being too upfront and insulting about it.
->>>>>>>>>>>>>>>>>>> I don't think I can really communicate this with all the meta-communication going on. I don't know if you're willfully misunderstanding me, but I know you're not giving my arguments the benefit of the doubt.
->>>>>>>>>>>>>>>>>>> Anyway, I'm pretty pissed off right now. I'll pick this up again in a week or two if you have no objections. I'll hopefully have written a bit more solid of a description.
->>>>>>>>>>>>>>>>>>> I'd appreciate your feedback on that whenever it gets released. Give it some proof-reading, keep it good and connected to reality, try to keep it low-context and coherent.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Microservices are an example of a non-graphics use for this. You mentioned that you thought I had a background in graphics, and that I should think about it from other perspectives, so I brought up an example related to scientific computing.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I think the context was *pretty* clear there. English is a high context language, and it's like you're parsing smaller context blocks then I'm used to.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >Stop giving random incoherent examples and tell us what the exact problem is that you're trying to solve.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> That's a *bad* way of dealing with system architecture. A better question would be "What does the api look like, and would it let people develop things significantly faster?".
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Have you heard the term "Path of least resistance lead me on" or "local maxima"?
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> The answer to "how do I deal with data" isn't "build a filesystem", it's "move the tape to this point and read the contents into memory".
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> It's easy to solve specific problems, it's a lot harder to build api's and architectures that people can use.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> A big part of it is politics, like what kind of workflow does it work well with, and what architectures work well with.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> There isn't one particular problem that I'm trying to solve, there's a set of use-cases that I think would be much better served by this. Use cases that I think are going to be more important going forward.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> On top of that, this question is obviously a trap.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I give one of the uses cases, and you give a quick hack like using inotify or a one-off RPC daemon to solve it. But the point isn't any one use case, it's about creating an environment that's good for distributed tasks and small programs that do one with well.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >But, okay, presumably you're using it as a metaphor for 'large application that does something significant' versus 'lots of trivial little Legos that can be bolted together to do significant things.' Congrats, you have reinvented the *nix approach.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I believe that I started talking about this by [saying](https://www.reddit.com/r/rational/comments/3nkz2y/d_monday_general_rationality_thread/cvp34mz) *to you* that
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >I'm a big proponent of the unix way, but I think it falls apart these days, for a number of reasons.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> So yeah, this is highly related to the unix way. But applying it to be able to work with more complicated data structures and arrangements.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >I was really going more for "people who know what they're talking about think that what you're talking about is incoherent and/or wrong", 
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> http://lesswrong.com/lw/lx/argument_screens_off_authority/
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I do very much appreciate feedback. But we've mostly debated definitions here. That's useful for helping me to communicate better, definitely.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I meant it as "Obviously I'm not using good terminology" with a hint of "you have rigid definitions gained by working years in the industry, I'm probably not using them right".
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Maybe this is an issue of the size of your context blocks? And I mean that in the least insulting way possible. Being pissed of could easily cause you to choose the least charitable context for my statements.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> It wasn't meant as an insult originally.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> >First, it's bazaar.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> In most contexts, I'd be thankful for the correction. But intent matters and I think that's probably just petty. Obvious there's some hostility here, and there was before as well. That's part of why I waited a few weeks before bringing this up again.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I'm not sure what to do about that. I tried to put you at ease with all the compliments, and repeatedly stating that I drew inspiration from your block system. I've admitted culpability and a failure to communicate.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I've subtly tried to show you that part of the misunderstanding may be on your end, and correct it, without being too upfront and insulting about it.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I don't think I can really communicate this with all the meta-communication going on. I don't know if you're willfully misunderstanding me, but I know you're not giving my arguments the benefit of the doubt.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Anyway, I'm pretty pissed off right now. I'll pick this up again in a week or two if you have no objections. I'll hopefully have written a bit more solid of a description.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> I'd appreciate your feedback on that whenever it gets released. Give it some proof-reading, keep it good and connected to reality, try to keep it low-context and coherent.
 
->>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> > I'd appreciate your feedback on that whenever it gets released. Give it some proof-reading, keep it good and connected to reality, try to keep it low-context and coherent.
->>>>>>>>>>>>>>>>>>>> This is exactly what I'm trying to do, but I'm having trouble doing it because I can't tell what you're trying to accomplish.  
->>>>>>>>>>>>>>>>>>>> Maybe an example will help.  Let's imagine that we're back in the day and I'm trying to sell you on the idea of the Unix filesystem.
->>>>>>>>>>>>>>>>>>>> ----
->>>>>>>>>>>>>>>>>>>> Right now, every media has its own proprietary way of writing data -- every tape drive has one set of calls, every HDD has another, and so on.  Because they have to be so aware of the low-level details, it's hard to let programs talk to one another.  Let's create a new system that standardizes the way we read and write data to any media -- HDD, tape, whatever.
->>>>>>>>>>>>>>>>>>>> I say that all data should be stored as *files*, where a file is just a stream of bytes.   Applications can assign meaning to the bytes -- that's not our problem.  We just want to store them and let people retrieve them in standard, interoperable ways.
->>>>>>>>>>>>>>>>>>>> Everything on the OS is a file -- directories are files with a particular structure, devices are represented by files, and so on.  I haven't completely thought this through, so we'll probably need to do something funky with device files, but that's the basic idea.
->>>>>>>>>>>>>>>>>>>> ----
->>>>>>>>>>>>>>>>>>>> Boom, I've stated a problem and proposed a solution.  You can tell me why what I'm proposing is impossible / incomplete / brilliant / stupid / already exists.
->>>>>>>>>>>>>>>>>>>> I've asked several times what the problem is that you're trying to solve, and I don't think you've clearly stated it anywhere -- you've provided a lot of examples of things you want to do, but you haven't stated the actual *problem*.  You started off saying that "filesystems are optimized for single process use", and then you started talking about storing all data as in-memory highly fragmented JSON-like structures with diffs, and then you moved on to microservices.  Those are details, you need to talk about what your actual goal is.
->>>>>>>>>>>>>>>>>>>> Give me a clear problem statement and I'd enjoy talking about it with you, but I haven't seen that yet.
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> This is exactly what I'm trying to do, but I'm having trouble doing it because I can't tell what you're trying to accomplish.  
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Maybe an example will help.  Let's imagine that we're back in the day and I'm trying to sell you on the idea of the Unix filesystem.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> ----
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Right now, every media has its own proprietary way of writing data -- every tape drive has one set of calls, every HDD has another, and so on.  Because they have to be so aware of the low-level details, it's hard to let programs talk to one another.  Let's create a new system that standardizes the way we read and write data to any media -- HDD, tape, whatever.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> I say that all data should be stored as *files*, where a file is just a stream of bytes.   Applications can assign meaning to the bytes -- that's not our problem.  We just want to store them and let people retrieve them in standard, interoperable ways.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Everything on the OS is a file -- directories are files with a particular structure, devices are represented by files, and so on.  I haven't completely thought this through, so we'll probably need to do something funky with device files, but that's the basic idea.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> ----
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Boom, I've stated a problem and proposed a solution.  You can tell me why what I'm proposing is impossible / incomplete / brilliant / stupid / already exists.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> I've asked several times what the problem is that you're trying to solve, and I don't think you've clearly stated it anywhere -- you've provided a lot of examples of things you want to do, but you haven't stated the actual *problem*.  You started off saying that "filesystems are optimized for single process use", and then you started talking about storing all data as in-memory highly fragmented JSON-like structures with diffs, and then you moved on to microservices.  Those are details, you need to talk about what your actual goal is.
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Give me a clear problem statement and I'd enjoy talking about it with you, but I haven't seen that yet.
 
->>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+2]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+2]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> >This is exactly what I'm trying to do, but I'm having trouble doing it because I can't tell what you're trying to accomplish. 
->>>>>>>>>>>>>>>>>>>>> I do appreciate it.
->>>>>>>>>>>>>>>>>>>>> ---
->>>>>>>>>>>>>>>>>>>>> Alright, I'll give it a shot.
->>>>>>>>>>>>>>>>>>>>> Right now, file types are incompatible. You can't have a dedicated texture editor editing the textures in your 3D scene without complicated operations involving imports and exports.
->>>>>>>>>>>>>>>>>>>>> It's also very difficult to extend already existing file types because many programs will crash if there's unexpected data. Say images in a text file, or a specularity channel in an image.
->>>>>>>>>>>>>>>>>>>>> I think we should solve this by moving file type parsing down a level. Instead of each program coming up with it's own parser, we give it an API to access standard data structures.
->>>>>>>>>>>>>>>>>>>>> Because the parser is standardized, we know it's not going to crash if someone adds an extra field. Unless the client program is programmed very poorly it can just ignore extra fields. An editor can ignore the "textures" attribute on an object, and just focus on the "meshes" attribute, or vice versa. If for some reason you need to extend a file format, you can just add a new attribute without rewriting all of the clients that use that object.
->>>>>>>>>>>>>>>>>>>>> From that point, implementing a system similar to linux's inotify is pretty trivial and allows it to fit into a great number of use cases. Mostly involving shared editing of data, like google docs, but also filling a role in distributed computing and microservice frameworks.
->>>>>>>>>>>>>>>>>>>>> ---
->>>>>>>>>>>>>>>>>>>>> I could also have led with this being a better IPC system for creating things like google docs and the like, but I think this is the stronger case.
 >>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> I do appreciate it.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> ---
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Alright, I'll give it a shot.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Right now, file types are incompatible. You can't have a dedicated texture editor editing the textures in your 3D scene without complicated operations involving imports and exports.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> It's also very difficult to extend already existing file types because many programs will crash if there's unexpected data. Say images in a text file, or a specularity channel in an image.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> I think we should solve this by moving file type parsing down a level. Instead of each program coming up with it's own parser, we give it an API to access standard data structures.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Because the parser is standardized, we know it's not going to crash if someone adds an extra field. Unless the client program is programmed very poorly it can just ignore extra fields. An editor can ignore the "textures" attribute on an object, and just focus on the "meshes" attribute, or vice versa. If for some reason you need to extend a file format, you can just add a new attribute without rewriting all of the clients that use that object.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> From that point, implementing a system similar to linux's inotify is pretty trivial and allows it to fit into a great number of use cases. Mostly involving shared editing of data, like google docs, but also filling a role in distributed computing and microservice frameworks.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> ---
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> I could also have led with this being a better IPC system for creating things like google docs and the like, but I think this is the stronger case.
 
->>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> > [excellent problem statement and proposed solution]
->>>>>>>>>>>>>>>>>>>>>> There we go, that's what I was looking for.
->>>>>>>>>>>>>>>>>>>>>> > I could also have led with this being a better IPC system for creating things like google docs and the like, but I think this is the stronger case.
->>>>>>>>>>>>>>>>>>>>>> You could also have led with *this*.  :P
->>>>>>>>>>>>>>>>>>>>>> Okay, this is an interesting idea.  I'm not sure it's *practical*, but it's interesting.  It would make a lot of things easier, as you point out.  On the other hand, there's some pretty major problems with implementing it, the most obvious of which is that all programs need to understand your field labels in the same way.  You'll need something like a W3C standards doc to define what is stored under each name, and you'll end up with some browser-wars problems -- Photoshop will write data in the 'alpha_channel' attribute, Othershop in 'AlphaChannel', and Yetothershop  in 'transparency', at which point they can't talk to one another.
->>>>>>>>>>>>>>>>>>>>>> Once you get your attribute names standardized, you need to standardize your field data.  If the 'body_text' attribute of the file is full of ASCII but my editor is looking for EBCDIC then they can't share data even though they are both looking in the same part of the same file. (For a more realistic example, try 'big endian' and 'little endian'.)
->>>>>>>>>>>>>>>>>>>>>> I'm dubious about the practicality of getting around these issues -- a while ago, people invented this shiny new thing called XML and everyone was trumpeting it as the future:  "yes!  Self-describing data!  Now everything can talk to everything else!"  That didn't really work out.
->>>>>>>>>>>>>>>>>>>>>> Let's assume we can get around that, somehow, at least for certain kinds of files.  If it proved useful then maybe it would spread and other apps would come onboard the new system, delegating their file access to your new system.  For data types where it made sense (e.g. text) you could maintain the data as diffs so that you only need to transmit diffs, as you've been asking for.  That can't (usefully) be a standard feature for all attributes, though.
->>>>>>>>>>>>>>>>>>>>>> No existing program will be able to take advantage of your new file parser, so you'll need a way to deal with that...I'm a bit stuck.  I guess you can write a proxy that accesses your advanced file in the background while presenting as the ancestral file type, but then you give up the multiple simultaneous edits and meta-data based computation that you're trying to capture.  Still, it would let you get the system in place and a few applications could be created to take advantage of the new version.  Maybe eventually it would become mainstream, but the interface layer would likely impose a speed penalty that would make it unpopular.
->>>>>>>>>>>>>>>>>>>>>> Like I said, I don't know that it's practical, but it would be shiny if it were.
->>>>>>>>>>>>>>>>>>>>>> ----
->>>>>>>>>>>>>>>>>>>>>> EDIT:  Realized that I'd been writing about it as though it were a new file *type*, when actually it's a separate parser library / OS API.  Fixed.
 >>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> There we go, that's what I was looking for.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> > I could also have led with this being a better IPC system for creating things like google docs and the like, but I think this is the stronger case.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> You could also have led with *this*.  :P
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Okay, this is an interesting idea.  I'm not sure it's *practical*, but it's interesting.  It would make a lot of things easier, as you point out.  On the other hand, there's some pretty major problems with implementing it, the most obvious of which is that all programs need to understand your field labels in the same way.  You'll need something like a W3C standards doc to define what is stored under each name, and you'll end up with some browser-wars problems -- Photoshop will write data in the 'alpha_channel' attribute, Othershop in 'AlphaChannel', and Yetothershop  in 'transparency', at which point they can't talk to one another.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Once you get your attribute names standardized, you need to standardize your field data.  If the 'body_text' attribute of the file is full of ASCII but my editor is looking for EBCDIC then they can't share data even though they are both looking in the same part of the same file. (For a more realistic example, try 'big endian' and 'little endian'.)
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> I'm dubious about the practicality of getting around these issues -- a while ago, people invented this shiny new thing called XML and everyone was trumpeting it as the future:  "yes!  Self-describing data!  Now everything can talk to everything else!"  That didn't really work out.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Let's assume we can get around that, somehow, at least for certain kinds of files.  If it proved useful then maybe it would spread and other apps would come onboard the new system, delegating their file access to your new system.  For data types where it made sense (e.g. text) you could maintain the data as diffs so that you only need to transmit diffs, as you've been asking for.  That can't (usefully) be a standard feature for all attributes, though.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> No existing program will be able to take advantage of your new file parser, so you'll need a way to deal with that...I'm a bit stuck.  I guess you can write a proxy that accesses your advanced file in the background while presenting as the ancestral file type, but then you give up the multiple simultaneous edits and meta-data based computation that you're trying to capture.  Still, it would let you get the system in place and a few applications could be created to take advantage of the new version.  Maybe eventually it would become mainstream, but the interface layer would likely impose a speed penalty that would make it unpopular.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Like I said, I don't know that it's practical, but it would be shiny if it were.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> ----
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> EDIT:  Realized that I'd been writing about it as though it were a new file *type*, when actually it's a separate parser library / OS API.  Fixed.
 
->>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> >There we go, that's what I was looking for.
->>>>>>>>>>>>>>>>>>>>>>> Glad to hear it. The idea needed to get kicked around a bunch. [This](https://traverseda.wordpress.com/2014/01/13/creating-a-new-web-stack-for-collaboratation-and-dynamic-content/) was the first draft. As you can see, it's shit.
->>>>>>>>>>>>>>>>>>>>>>> > Like I said, I don't know that it's practical, but it would be shiny if it were.
->>>>>>>>>>>>>>>>>>>>>>> That's where I'm at.
->>>>>>>>>>>>>>>>>>>>>>> >people invented this shiny new thing called XML and everyone was trumpeting it as the future
->>>>>>>>>>>>>>>>>>>>>>> I think part of that is a cultural issue. There's a lot less code sharing in the xml world. I imagine that most attribute types will have a standard library as a reference, maintained by whatever open source project adopts it.
->>>>>>>>>>>>>>>>>>>>>>> Having a repository of attribute types and validators for them could go a long way. Policy/standards as code.
->>>>>>>>>>>>>>>>>>>>>>> I don't have a better system for using it with old programs than what you've mentioned.
->>>>>>>>>>>>>>>>>>>>>>> >but the interface layer would likely impose a speed penalty that would make it unpopular.
->>>>>>>>>>>>>>>>>>>>>>> That's the other big question. I don't think it *has* to be slow, but I don't like relying on technology getting better. SSD's are a huge improvement in random read speeds, if they weren't getting more and more common I'd be a lot more hesitant to spend any real time on this.
->>>>>>>>>>>>>>>>>>>>>>> The performance profile should be different, because it's equivalent to a memory mapped file more then a read. You don't have so many random reads.
->>>>>>>>>>>>>>>>>>>>>>> The basic tree of hashmapped objects could be stored as a btree like in btrfs.
->>>>>>>>>>>>>>>>>>>>>>> I *think* it's doable at speed. There aren't an algorithms that shouldn't be scalable. It's just a very hard problem that would require a bunch of people. Profiling would be important.
 >>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> Glad to hear it. The idea needed to get kicked around a bunch. [This](https://traverseda.wordpress.com/2014/01/13/creating-a-new-web-stack-for-collaboratation-and-dynamic-content/) was the first draft. As you can see, it's shit.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> > Like I said, I don't know that it's practical, but it would be shiny if it were.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> That's where I'm at.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> >people invented this shiny new thing called XML and everyone was trumpeting it as the future
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> I think part of that is a cultural issue. There's a lot less code sharing in the xml world. I imagine that most attribute types will have a standard library as a reference, maintained by whatever open source project adopts it.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> Having a repository of attribute types and validators for them could go a long way. Policy/standards as code.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> I don't have a better system for using it with old programs than what you've mentioned.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> >but the interface layer would likely impose a speed penalty that would make it unpopular.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> That's the other big question. I don't think it *has* to be slow, but I don't like relying on technology getting better. SSD's are a huge improvement in random read speeds, if they weren't getting more and more common I'd be a lot more hesitant to spend any real time on this.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> The performance profile should be different, because it's equivalent to a memory mapped file more then a read. You don't have so many random reads.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> The basic tree of hashmapped objects could be stored as a btree like in btrfs.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> I *think* it's doable at speed. There aren't an algorithms that shouldn't be scalable. It's just a very hard problem that would require a bunch of people. Profiling would be important.
 
->>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> One point:  what I've been reacting to is the 'push file parsing down a layer'.  All of the problems that were previously discussed about caching, diffs, etc, still apply.
->>>>>>>>>>>>>>>>>>>>>>>> The main problem you're going to run into is that most category killers are proprietary.  MS word, MS Excel, Photoshop, etc.  Those companies have an active disincentive to let you take the job of file parsing from them.  It prevents them from extending their formats, and lets other people compete with them more easily.
->>>>>>>>>>>>>>>>>>>>>>>> What you probably need is a pluggable parser engine where vendors contribute their file spec and the engine can read the spec and generate the appropriate parser.  Then other people would contribute meta-parsers that, under the hood, select which parser to use in order to translate between the formats.
->>>>>>>>>>>>>>>>>>>>>>>> In theory, if the interoperability were good enough and your engine really could support translating between versions, then companies might be glad to use your engine instead of having to do the legacy support themselves.  They'd then have to write their programs to be fault-tolerant of missing data, and your engine would need to know how to remap data to be as minimally fault-causing as possible.
 >>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> The main problem you're going to run into is that most category killers are proprietary.  MS word, MS Excel, Photoshop, etc.  Those companies have an active disincentive to let you take the job of file parsing from them.  It prevents them from extending their formats, and lets other people compete with them more easily.
+>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> What you probably need is a pluggable parser engine where vendors contribute their file spec and the engine can read the spec and generate the appropriate parser.  Then other people would contribute meta-parsers that, under the hood, select which parser to use in order to translate between the formats.
+>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> In theory, if the interoperability were good enough and your engine really could support translating between versions, then companies might be glad to use your engine instead of having to do the legacy support themselves.  They'd then have to write their programs to be fault-tolerant of missing data, and your engine would need to know how to remap data to be as minimally fault-causing as possible.
 
->>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>> >What you probably need is a pluggable parser engine where vendors contribute their file spec and the engine can read the spec and generate the appropriate parser.
->>>>>>>>>>>>>>>>>>>>>>>>> I'm imagining those as accessors, filling a similar role as FUSE filesystems. Pandas has objects that represent spreadsheets, with standard spreadsheets tools and all that.
->>>>>>>>>>>>>>>>>>>>>>>>> They also have a "csv" attribute, a "xlsx" attribute, a "json" attribute, etc. Reading a csv file into into the csv attribute populates the spreadsheet object with all of its columns, in a common representation.
->>>>>>>>>>>>>>>>>>>>>>>>> I'm imagining a similar system, but the csv, xlsx, and json accessors could all be different programs.
 >>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> I'm imagining those as accessors, filling a similar role as FUSE filesystems. Pandas has objects that represent spreadsheets, with standard spreadsheets tools and all that.
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> They also have a "csv" attribute, a "xlsx" attribute, a "json" attribute, etc. Reading a csv file into into the csv attribute populates the spreadsheet object with all of its columns, in a common representation.
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> I'm imagining a similar system, but the csv, xlsx, and json accessors could all be different programs.
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (5 hours later)
 >>>>>> 
 >>>>>> > Sorry, rather files are practically limited to a single process. 
->>>>>> Only for write.  For read, as many processes as you like can use them.  
->>>>>> No matter what system you come up with, updating data will *always* be a one-at-a-time action if you want consistency.  If you don't care about consistency then sure, go nuts.  You'll end up with last-write-stomps race conditions, though.
 >>>>>> 
+>>>>>> Only for write.  For read, as many processes as you like can use them.  
+>>>>>> 
+>>>>>> No matter what system you come up with, updating data will *always* be a one-at-a-time action if you want consistency.  If you don't care about consistency then sure, go nuts.  You'll end up with last-write-stomps race conditions, though.
 
->>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (8 hours later)
 >>>> 
 >>>> If we're talking about distributed stuff, what about using IPFS as an intermediate layer?
->>>> 
 
->>>> **u/trishume** [+1] *
+>>>> **u/trishume** [+1]  (3 hours later)
 >>>> 
 >>>> It sounds to me like you are talking about a database, either a document database or a relational one. The thing is those solve lots of problems but you can't just give people access to your database because of security. You need some kind of server to stop everyone from getting all the data.
->>>> You might respond that a generic security backend database server should exist, but it does, it is called "Parse" now owned by Facebook.
->>>> I think you might be looking at the right problems but the wrong solutions here.
 >>>> 
+>>>> You might respond that a generic security backend database server should exist, but it does, it is called "Parse" now owned by Facebook.
+>>>> 
+>>>> I think you might be looking at the right problems but the wrong solutions here.
 
->>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (3 hours later)
 >>>>> 
 >>>>> Databases are pretty slow, because they're indexed. This has a lot in common with a document database (particularity rethinkDB) but it's not. You couldn't put any type of socket in a document database, as an example (Although I've seen at least one guy try to stream video over rethink).
->>>>> Why aren't we using databases instead of filesystems? Part of it is that they tend to have fixed schema, or just be too slow because they focus on fast indexing.
->>>>> A lot of apps store sqlite in a file system, wouldn't the reverse be better? Storing binary blobs in a database?
->>>>> Well no, because databases aren't optimized for that. 
->>>>> Imagine search at the speed of grep, but data structures similar to a document store.
->>>>> Or, to put it another way, right now a filesystem is a tree data structure where all of the leaf nodes are binary blobs. Why binary blobs instead of a more nuanced data structure?
->>>>> >You need some kind of server to stop everyone from getting all the data.
->>>>> A permission system. Like unix, or any file system. Postgres is working on per-row security. It's not really relevant.
 >>>>> 
+>>>>> Why aren't we using databases instead of filesystems? Part of it is that they tend to have fixed schema, or just be too slow because they focus on fast indexing.
+>>>>> 
+>>>>> A lot of apps store sqlite in a file system, wouldn't the reverse be better? Storing binary blobs in a database?
+>>>>> 
+>>>>> Well no, because databases aren't optimized for that. 
+>>>>> 
+>>>>> Imagine search at the speed of grep, but data structures similar to a document store.
+>>>>> 
+>>>>> Or, to put it another way, right now a filesystem is a tree data structure where all of the leaf nodes are binary blobs. Why binary blobs instead of a more nuanced data structure?
+>>>>> 
+>>>>> >You need some kind of server to stop everyone from getting all the data.
+>>>>> 
+>>>>> A permission system. Like unix, or any file system. Postgres is working on per-row security. It's not really relevant.
 
->>>>>> **u/trishume** [+1] *
+>>>>>> **u/trishume** [+1]  (4 hours later)
 >>>>>> 
 >>>>>> > Or, to put it another way, right now a filesystem is a tree data structure where all of the leaf nodes are binary blobs. Why binary blobs instead of a more nuanced data structure?
->>>>>> What do those binary blobs contain? Nuanced data structures. All data structures on computers are binary blobs plus some schema/type. All your files are already data structures.
->>>>>> I also challenge your accusations against indices. Indices provide a valuable service necessary for most sizeable data sets. You mention "search at the speed of grep" but indices are much faster than grep, especially on larger data sets. If you have a whole bunch of users/posts/whatever's you need a way to avoid a linear search.
->>>>>> You might have a great idea here but I don't think your explanations capture it.
 >>>>>> 
+>>>>>> What do those binary blobs contain? Nuanced data structures. All data structures on computers are binary blobs plus some schema/type. All your files are already data structures.
+>>>>>> 
+>>>>>> I also challenge your accusations against indices. Indices provide a valuable service necessary for most sizeable data sets. You mention "search at the speed of grep" but indices are much faster than grep, especially on larger data sets. If you have a whole bunch of users/posts/whatever's you need a way to avoid a linear search.
+>>>>>> 
+>>>>>> You might have a great idea here but I don't think your explanations capture it.
 
->>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (4 hours later)
 >>>>>>> 
 >>>>>>> >I also challenge your accusations against indices.
->>>>>>> I'm not saying indexes are stupid, I'm saying that they serve a very different purpose and a very different use case.
->>>>>>> >search at the speed of grep
->>>>>>> I meant it exactly as you took it. It would be slower then indexes. You seem to have presumed that I meant the exact opposite of what I said, and that what I was saying was *stupid*.
->>>>>>> Are you familiar with the concept of [steel manning](http://wiki.lesswrong.com/wiki/Steel_man) your opponents arguments?
->>>>>>> >I don't think your explanations capture it.
->>>>>>> True. That's part of why I'm trying to explain it. But a bit of the benefit of the doubt could go a long way.
->>>>>>> Picture a system. An api if you'd like. You access it like a standard data structure in your language.
->>>>>>> In python, you could go
->>>>>>>     textures = ds['home']['trishume']['3Dfile']['textures']
->>>>>>> and get an iterator containing all of the textures for a 3D model, as byte arrays.
->>>>>>> User can still treat it almost exactly the same, but developers aren't forced to reinvent file structures all the time. They just treat it as data. You know there's a FUSE filesystem for treating a remote wiki like a bunch of text files?
->>>>>>> This doesn't have to replace a conventional filesystem. Users should be able to interact with it more or less as if it was a conventional filesystem though.
->>>>>>> Developers on the other hand, see a collection of data structures, just like if they'd made them themselves.
->>>>>>> Maybe you want to add some experimental texture layers to your 3D file. Something that most 3D editors have no idea what to do with. You don't have to put them into the "textures" key/attribute. You could put them under a different key in the 3Dfile hashmap/associative-array/dict.
->>>>>>> This means that multiple different programs can all use the same "file" to store their data.
->>>>>>> Obviously there are a lot of technical challenges, but as an api, as a way of accessing data and interacting with other programs, doesn't it sound pleasant? More or less like sharing a json file between you.
->>>>>>> Now there's more implementation details that would make it genuinely better then just a json file, but I want to make sure there's nothing to contentious in that bit first.
 >>>>>>> 
+>>>>>>> I'm not saying indexes are stupid, I'm saying that they serve a very different purpose and a very different use case.
+>>>>>>> 
+>>>>>>> >search at the speed of grep
+>>>>>>> 
+>>>>>>> I meant it exactly as you took it. It would be slower then indexes. You seem to have presumed that I meant the exact opposite of what I said, and that what I was saying was *stupid*.
+>>>>>>> 
+>>>>>>> Are you familiar with the concept of [steel manning](http://wiki.lesswrong.com/wiki/Steel_man) your opponents arguments?
+>>>>>>> 
+>>>>>>> >I don't think your explanations capture it.
+>>>>>>> 
+>>>>>>> True. That's part of why I'm trying to explain it. But a bit of the benefit of the doubt could go a long way.
+>>>>>>> 
+>>>>>>> Picture a system. An api if you'd like. You access it like a standard data structure in your language.
+>>>>>>> 
+>>>>>>> In python, you could go
+>>>>>>> 
+>>>>>>>     textures = ds['home']['trishume']['3Dfile']['textures']
+>>>>>>> 
+>>>>>>> and get an iterator containing all of the textures for a 3D model, as byte arrays.
+>>>>>>> 
+>>>>>>> User can still treat it almost exactly the same, but developers aren't forced to reinvent file structures all the time. They just treat it as data. You know there's a FUSE filesystem for treating a remote wiki like a bunch of text files?
+>>>>>>> 
+>>>>>>> This doesn't have to replace a conventional filesystem. Users should be able to interact with it more or less as if it was a conventional filesystem though.
+>>>>>>> 
+>>>>>>> Developers on the other hand, see a collection of data structures, just like if they'd made them themselves.
+>>>>>>> 
+>>>>>>> Maybe you want to add some experimental texture layers to your 3D file. Something that most 3D editors have no idea what to do with. You don't have to put them into the "textures" key/attribute. You could put them under a different key in the 3Dfile hashmap/associative-array/dict.
+>>>>>>> 
+>>>>>>> This means that multiple different programs can all use the same "file" to store their data.
+>>>>>>> 
+>>>>>>> Obviously there are a lot of technical challenges, but as an api, as a way of accessing data and interacting with other programs, doesn't it sound pleasant? More or less like sharing a json file between you.
+>>>>>>> 
+>>>>>>> Now there's more implementation details that would make it genuinely better then just a json file, but I want to make sure there's nothing to contentious in that bit first.
 
->>>>>>>> **u/trishume** [+1] *
+>>>>>>>> **u/trishume** [+1]  (13 days later)
 >>>>>>>> 
 >>>>>>>> Cool thanks that clears things up, I like the idea of offering easy to use views of underlying data structures. Like a more general FUSE.
->>>>>>>> Also sorry for misinterpreting your reference to "the speed of grep". I pattern-matched on "at the speed of ___" being often used for fast things like "at the speed of light" and that sounded reasonable enough since in some contexts grep is really fast, as far as anything linear goes it is really optimized and can do gigabytes in seconds. It was just a different usage pattern that made the speed difference, so it didn't seem wrong enough for me to question it. I'm aware of Steel Manning, although I learned it as "the principle of charity" and I'll try and pay more attention to it whenever I make inferences about ambiguous references in the future.
 >>>>>>>> 
+>>>>>>>> Also sorry for misinterpreting your reference to "the speed of grep". I pattern-matched on "at the speed of ___" being often used for fast things like "at the speed of light" and that sounded reasonable enough since in some contexts grep is really fast, as far as anything linear goes it is really optimized and can do gigabytes in seconds. It was just a different usage pattern that made the speed difference, so it didn't seem wrong enough for me to question it. I'm aware of Steel Manning, although I learned it as "the principle of charity" and I'll try and pay more attention to it whenever I make inferences about ambiguous references in the future.
 
->>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (13 days later)
 >>>>>>>>> 
 >>>>>>>>> Reading back, ironically I wasn't giving you enough charity. I was annoyed at my inability to communicate. I still haven't processed some of the feedback here.
->>>>>>>>> Anyway, thanks for the feedback. It was pretty great at pointing out some of the places I'm weak.
 >>>>>>>>> 
+>>>>>>>>> Anyway, thanks for the feedback. It was pretty great at pointing out some of the places I'm weak.
 
->> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> **u/alexanderwales** [+8]  *Time flies like an arrow* (49 minutes later)
 >> 
 >> Honestly, I would probably get an office job where I could work with lots and lots of Excel files. Then I would automate away my job with scripts and not tell anyone that's what I was doing. Then I would just come to work, run my scripts, and surf the internet or write, both of which I would be doing at home anyway. This would necessitate a fairly inefficient company with a lax IT policy. It would also probably require some lies, and I'm not great at lying.
->> 
 
->>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>>> **u/traverseda** [+3]  *With dread but cautious optimism* (52 minutes later)
 >>> 
 >>> That income isn't super passive. You still have to be at a place, not working on interesting projects, for most of a day.
->>> If I'm doing that, I might as well just get a software engineering job that pays more, save up, and occasionally take long breaks. Maybe do the tech nomad thing.
 >>> 
+>>> If I'm doing that, I might as well just get a software engineering job that pays more, save up, and occasionally take long breaks. Maybe do the tech nomad thing.
 
->>>> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (an hour later)
 >>>> 
 >>>> Well, *relatively* passive. I'm sort of assuming that if you can get away with writing scripts to automate away work then you have lax enough management that you can do whatever else you want, which *does* include a large variety of interesting projects. If people expect you to be at your desk in the back office all day anyway, there's no reason that you can't be sitting there coding up whatever your interesting project is (aside from possible legal issues).
->>>> If what you want is to be working in a wood shop, or hiking the Adirondacks, this solution to gaining money without doing much work is less ideal.
 >>>> 
+>>>> If what you want is to be working in a wood shop, or hiking the Adirondacks, this solution to gaining money without doing much work is less ideal.
 
-> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+7]  *Finally, everyone was working together.* (47 minutes later)
 > 
 > [This song](https://www.youtube.com/watch?v=cW9q6J4uPYs) is liquid happiness.
-> I'm still trying to figure out what "specialty" of Computer Science I should study while an undergrad. ML/AI is the hot thing in this subreddit for obvious reasons, but I'd rather focus on the human side -- it won't matter how smart the adviser is if the king doesn't listen to him. 
-> We're finally coming up on truly efficient human structures -- Uber's ride-sharing technology and methodology is the kind of thing that I am very glad to see and what I want to see more of. It's one high-quality app which enables, essentially, a paradigm shift. However, I can also look over at cybersecurity and say **HOLY SHIT THIS IS MISSON CRITICAL AND THERE'S SO MUCH WORK THAT NEEDS TO BE DONE RIGHT NOW.** Which is better? And that's just two rough career paths out of like twenty I have access to. How the hell do I narrow it *at all*? Enrollment for next year is just two weeks away.
-> UFAI is way less scary than an entity which is only half as dangerously intelligent but led by humans, and around an infinity times more likely. We're practically there already. I fully expect to live to be a hundred at least, and I want as little unhappiness in all those years as possible.
-> The only thing I really, really, truly want out of life is to spend the rest of my life with my SO while not living under some sort of inevitable automated tyranny. What to do in the meantime?
 > 
+> I'm still trying to figure out what "specialty" of Computer Science I should study while an undergrad. ML/AI is the hot thing in this subreddit for obvious reasons, but I'd rather focus on the human side -- it won't matter how smart the adviser is if the king doesn't listen to him. 
+> 
+> We're finally coming up on truly efficient human structures -- Uber's ride-sharing technology and methodology is the kind of thing that I am very glad to see and what I want to see more of. It's one high-quality app which enables, essentially, a paradigm shift. However, I can also look over at cybersecurity and say **HOLY SHIT THIS IS MISSON CRITICAL AND THERE'S SO MUCH WORK THAT NEEDS TO BE DONE RIGHT NOW.** Which is better? And that's just two rough career paths out of like twenty I have access to. How the hell do I narrow it *at all*? Enrollment for next year is just two weeks away.
+> 
+> UFAI is way less scary than an entity which is only half as dangerously intelligent but led by humans, and around an infinity times more likely. We're practically there already. I fully expect to live to be a hundred at least, and I want as little unhappiness in all those years as possible.
+> 
+> The only thing I really, really, truly want out of life is to spend the rest of my life with my SO while not living under some sort of inevitable automated tyranny. What to do in the meantime?
 
->> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram* (an hour later)
 >> 
 >> You might look into real time control, industrial control systems, SCADA. Most of the people in the business seem to be in their 40s and 50s, so there's going to be a talent gap pretty soon.
->> 
 
->>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (3 hours later)
 >>> 
 >>> Those people are going to be working for thirty and twenty years or more, respectively. That's not pretty soon.
->>> 
 
->> **u/traverseda** [+7]  *With dread but cautious optimism**
+>> **u/traverseda** [+7]  *With dread but cautious optimism* (an hour later)
 >> 
 >> I love operating system design and software architecture, but it's not really something you can get a job in easily as a highschool dropout with less then a decade of experience.
->> I make a lot of money doing web-dev, and it's even relatively painless if I stick to django. It's a very very big market, and you'll never want for employment.
->> User Experience is very interesting. It's got to be my second favorite in general. Right now user experience means "how to make things pretty" to a lot of people. But I think good UX shouldn't hide the nuts and bolts. It should present a gradual learning curve that ends with you being a competent programmer yourself.
->> Raising the sanity waterline and all that. I think that a big part of avoiding automated tyranny is making computers stop being magic boxes for most people. They need to be able to make informed decisions.
->> With VR/AR gaining a lot of support, UX is probably going to be a big thing, since none of our existing (kinda shitty) UI paradigms really work in 3D. Take a look at things like eaglemode as an example of a completely different set of UI paradigms.
->> Plus, that general skillset has a nice fallback in webdev and gamedev.
 >> 
+>> I make a lot of money doing web-dev, and it's even relatively painless if I stick to django. It's a very very big market, and you'll never want for employment.
+>> 
+>> User Experience is very interesting. It's got to be my second favorite in general. Right now user experience means "how to make things pretty" to a lot of people. But I think good UX shouldn't hide the nuts and bolts. It should present a gradual learning curve that ends with you being a competent programmer yourself.
+>> 
+>> Raising the sanity waterline and all that. I think that a big part of avoiding automated tyranny is making computers stop being magic boxes for most people. They need to be able to make informed decisions.
+>> 
+>> With VR/AR gaining a lot of support, UX is probably going to be a big thing, since none of our existing (kinda shitty) UI paradigms really work in 3D. Take a look at things like eaglemode as an example of a completely different set of UI paradigms.
+>> 
+>> Plus, that general skillset has a nice fallback in webdev and gamedev.
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+3]  *Carthago delenda est.* (3 hours later)
 >> 
 >> No, *[this song](http://www.dailymotion.com/video/x1h2nv_opv-ghost-in-the-shell-get9_music)* is liquid happiness.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> Have you considered trying to do something about global warming?  [I think that might be a big deal.](http://www.citymetric.com/horizons/stop-telling-public-we-re-not-doomed-says-climate-change-scientist-1514)
->> Also, [this stuff](https://medium.com/@trebors/platform-cooperativism-vs-the-sharing-economy-2ea737f1b5ad#.ad6s3h478).
 >> 
+>> Also, [this stuff](https://medium.com/@trebors/platform-cooperativism-vs-the-sharing-economy-2ea737f1b5ad#.ad6s3h478).
 
-> **u/Transfuturist** [+7]  *Carthago delenda est.**
+> **u/Transfuturist** [+7]  *Carthago delenda est.* (3 hours later)
 > 
 > [Now I see why Danny Sexbang likes Rush.](https://www.youtube.com/watch?v=6mEzgc_ne60) On helplessness, choice paralysis, etc.
-> >I saw my life branching out before me like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, and another fig was Ee Gee, the amazing editor, and another fig was Europe and Africa and South America, and another fig was Constantin and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and another fig was an Olympic lady crew champion, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.
-> —Sylvia Plath
 > 
+> >I saw my life branching out before me like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, and another fig was Ee Gee, the amazing editor, and another fig was Europe and Africa and South America, and another fig was Constantin and Socrates and Attila and a pack of other lovers with queer names and offbeat professions, and another fig was an Olympic lady crew champion, and beyond and above these figs were many more figs I couldn't quite make out. I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.
+> 
+> —Sylvia Plath
 
-> **u/Faust91x** [+3]  *Iteration X**
+> **u/Faust91x** [+3]  *Iteration X* (5 hours later)
 > 
 > This week got an amazing idea for a rationalist book that plan to make on Transhumanism but still need to get the time to tackle the challenge. I consider myself below average with words but tend to find trouble getting a plot going without going to extremes (if I'm enjoying the comedy it ends up as a parody, if I'm making it about despair it ends up being a hopeless story) so want to get the planning right before starting it.
-> Got all the plots done and know how it will end, currently need to set aside some time to read about how to make a successful book and perhaps practice with some fanfiction.
-> Also my plan for a rational Madoka: Rebellion Story doujin is going well, minus the fact I suck at drawing and trying to get it solved. Made my first drawing of the cover but it took lots of time to complete, hope to get better at it and work faster.
 > 
+> Got all the plots done and know how it will end, currently need to set aside some time to read about how to make a successful book and perhaps practice with some fanfiction.
+> 
+> Also my plan for a rational Madoka: Rebellion Story doujin is going well, minus the fact I suck at drawing and trying to get it solved. Made my first drawing of the cover but it took lots of time to complete, hope to get better at it and work faster.
 
-> **u/Nighzmarquls** [+3] *
+> **u/Nighzmarquls** [+3]  (10 hours later)
 > 
 > Anyone have suggestions for a moderate sized sub/reddit for discussing both writing AND illustrating fiction together? multimedia stuff in general?
-> I feel like I could use a place to go over my projects and things without being stuck talking just art, or just writing and I don't really make comics...
-> So it's confusing.
 > 
+> I feel like I could use a place to go over my projects and things without being stuck talking just art, or just writing and I don't really make comics...
+> 
+> So it's confusing.
 
-> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png* (32 minutes later)
 > 
 > Do you, or have you ever, read (non-pornographic) romance stories (as opposed to adventure stories that happen to contain romance)? Which would you estimate to be your favorites? ([Have you found any to be particularly rational(ist)?](http://np.reddit.com/r/rational/comments/1xu1zn/d_romance_in_rationalist_fiction/))
-> ---
-> *Short answer:*
-> When I first discovered fanfiction (a few months before the completion of *[Time Braid](https://www.fanfiction.net/s/5193644)*, in early 2011), most of my reading was NaruHina "fluff"--romance with hardly any plot to it. After reading *Time Braid* and realizing the true awesomeness of fanfiction, I mostly switched to adventure, and looked for romance stories only when I couldn't find any good adventure stories, particularly in less-popular fandoms. *[Little Moments](https://www.fanfiction.net/s/8440324)* (*Ben 10*: Ben/Gwen--better than it sounds) is definitely my favorite romance-focused story, and [Chapter Eight of *Background Pony*](http://www.fimfiction.net/story/19198/8) (*Friendship Is Magic*: Lyra/OMC--*absolutely heart-wrenching*) is probably my second-favorite. Some others that I've liked:
-> * *[Study of the Heart](https://www.fanfiction.net/s/3910130)* (*Naruto*: Sai/Sakura)
-> * The *Stalking Zuko* trilogy ([1](https://www.fanfiction.net/s/7250783) [2](https://www.fanfiction.net/s/7325839) [3](https://www.fanfiction.net/s/8121138)) (*Avatar*: Katara/Zuko--bad English is excusable because it's the diary of Katara the filthy peasant)
-> * *[Then Tomorrow Came](http://www.fimfiction.net/story/19567)* (*Friendship Is Magic*: Twilight/Rainbow)
-> * *[And They Call It Puppy Love](http://www.fimfiction.net/story/180647)* (*Friendship Is Magic*: OFC/OMC)
-> * *[The Great Gatsby](http://ebooks.adelaide.edu.au/f/fitzgerald/f_scott/gatsby/index.html)* (original)
-> None are particularly rational, though, in my very limited estimation.
-> ---
-> *Long answer:*
-> [Pastebin](http://pastebin.com/UukW7a0r), to avoid clutter
 > 
+> ---
+> 
+> *Short answer:*
+> 
+> When I first discovered fanfiction (a few months before the completion of *[Time Braid](https://www.fanfiction.net/s/5193644)*, in early 2011), most of my reading was NaruHina "fluff"--romance with hardly any plot to it. After reading *Time Braid* and realizing the true awesomeness of fanfiction, I mostly switched to adventure, and looked for romance stories only when I couldn't find any good adventure stories, particularly in less-popular fandoms. *[Little Moments](https://www.fanfiction.net/s/8440324)* (*Ben 10*: Ben/Gwen--better than it sounds) is definitely my favorite romance-focused story, and [Chapter Eight of *Background Pony*](http://www.fimfiction.net/story/19198/8) (*Friendship Is Magic*: Lyra/OMC--*absolutely heart-wrenching*) is probably my second-favorite. Some others that I've liked:
+> 
+> * *[Study of the Heart](https://www.fanfiction.net/s/3910130)* (*Naruto*: Sai/Sakura)
+> 
+> * The *Stalking Zuko* trilogy ([1](https://www.fanfiction.net/s/7250783) [2](https://www.fanfiction.net/s/7325839) [3](https://www.fanfiction.net/s/8121138)) (*Avatar*: Katara/Zuko--bad English is excusable because it's the diary of Katara the filthy peasant)
+> 
+> * *[Then Tomorrow Came](http://www.fimfiction.net/story/19567)* (*Friendship Is Magic*: Twilight/Rainbow)
+> 
+> * *[And They Call It Puppy Love](http://www.fimfiction.net/story/180647)* (*Friendship Is Magic*: OFC/OMC)
+> 
+> * *[The Great Gatsby](http://ebooks.adelaide.edu.au/f/fitzgerald/f_scott/gatsby/index.html)* (original)
+> 
+> None are particularly rational, though, in my very limited estimation.
+> 
+> ---
+> 
+> *Long answer:*
+> 
+> [Pastebin](http://pastebin.com/UukW7a0r), to avoid clutter
 
->> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (an hour later)
 >> 
 >> *The Time Traveler's Wife* is probably one of my favorite books, and it's usually classified as a romance novel.
->> 
 
->>> **u/Dykster** [+1] *
+>>> **u/Dykster** [+1]  (2 days later)
 >>> 
 >>> I really love that book. At the time I first read it, I also discovered [this song](https://www.youtube.com/watch?v=Fmtmgxk2J1g) ("Home" by Edward Sharpe & The Magnetic Zeros) and now I always mentally connect that book and that song.
->>> 
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+3]  *Carthago delenda est.* (3 hours later)
 >> 
 >> The Great Gatsby is not a romance. It's easy to mistake it for one, but it's actually about horrible people doing horrible things for horrible reasons.
->> 
 
->> **u/Timewinders** [+3] *
+>> **u/Timewinders** [+3]  (8 hours later)
 >> 
 >> I've found that I actually enjoy romance, I just hate the stupid, petty drama that comes with it in most original fiction. Most of the romance I read is the fluffy fanfic kind since I know going in that I'll like the characters/pairing and that there's a good chance that there isn't going to be too much drama.
->> If you like Zuko/Katara then [Enslaved](https://www.fanfiction.net/s/5306755/1/Enslaved) is a decent one. It avoids the usual cliches because Zuko's the one taken prisoner by Katara. It's incomplete but it ends at a point that feels like a pretty satisfying ending.
->> [Humanoids](http://archiveofourown.org/works/2431040) is a Mass Effect femShep/Liara pairing that also has some very interesting worldbuilding to it. It follows the premise of "what if humanity had developed sentient AI, and then something happened so all the organics died out before humanity discovered the mass relays". All of the human characters, including Shepard, are replaced by androids. It does have smut though in case that bothers you. 
->> I also like some romance anime. As far as that goes, Nana is easily the most realistic romance story I've seen in fiction, though it does have quite a bit of drama. Though unfortunately the source material is on hiatus so the anime will probably never see a proper ending. The main character is far from rational though and makes many mistakes, though to be fair they're the kinds of mistakes many people in real life make. 
->> For fluffy romcom, I'd recommend Gekkan Shoujo Nozaki-kun. The focus is more on the comedy than the romance and the romance doesn't go anywhere quickly at all, but it's pretty funny, especially if you're familiar with the tropes of shoujo manga and anime. 
->> Ouran High School Host Club is a pretty hilarious romcom. It's one of the most consistently recommended romcoms on /r/anime so I think it has pretty broad appeal even to men. 
->> Eureka Seven is a mecha anime that also has a pretty nice romance as a major subplot/main plot. The main character's kind of annoying at first, but he gets better about a fifth of the way into the show. I liked both the primary couple and the side couple of Dominic/Anemone. Whatever you do, though, don't watch the sequel anime (Eureka Seven Ao).
 >> 
+>> If you like Zuko/Katara then [Enslaved](https://www.fanfiction.net/s/5306755/1/Enslaved) is a decent one. It avoids the usual cliches because Zuko's the one taken prisoner by Katara. It's incomplete but it ends at a point that feels like a pretty satisfying ending.
+>> 
+>> [Humanoids](http://archiveofourown.org/works/2431040) is a Mass Effect femShep/Liara pairing that also has some very interesting worldbuilding to it. It follows the premise of "what if humanity had developed sentient AI, and then something happened so all the organics died out before humanity discovered the mass relays". All of the human characters, including Shepard, are replaced by androids. It does have smut though in case that bothers you. 
+>> 
+>> I also like some romance anime. As far as that goes, Nana is easily the most realistic romance story I've seen in fiction, though it does have quite a bit of drama. Though unfortunately the source material is on hiatus so the anime will probably never see a proper ending. The main character is far from rational though and makes many mistakes, though to be fair they're the kinds of mistakes many people in real life make. 
+>> 
+>> For fluffy romcom, I'd recommend Gekkan Shoujo Nozaki-kun. The focus is more on the comedy than the romance and the romance doesn't go anywhere quickly at all, but it's pretty funny, especially if you're familiar with the tropes of shoujo manga and anime. 
+>> 
+>> Ouran High School Host Club is a pretty hilarious romcom. It's one of the most consistently recommended romcoms on /r/anime so I think it has pretty broad appeal even to men. 
+>> 
+>> Eureka Seven is a mecha anime that also has a pretty nice romance as a major subplot/main plot. The main character's kind of annoying at first, but he gets better about a fifth of the way into the show. I liked both the primary couple and the side couple of Dominic/Anemone. Whatever you do, though, don't watch the sequel anime (Eureka Seven Ao).
 
->> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (5 hours later)
 >> 
 >> Nope. Or at least, not usually. I like reading about Interesting People, and one of my primary criteria for determining what qualifies as interesting is that they have interesting conflicts, and Romance rarely qualifies if it's the only thing the charachters are really conflicted about. That's not to say I haven't ever read romance stories, or adventure stories that get so fluffy they're borderline, but i never go explicate looking for the stuff.
->> 
 
->> **u/traverseda** [+2]  *With dread but cautious optimism**
+>> **u/traverseda** [+2]  *With dread but cautious optimism* (34 minutes later)
 >> 
 >> Nope
->> 
 
->>> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (41 minutes later)
 >>> 
 >>> Ditto. I think my favorite romance sub-plot in a novel is probably Serene/Raoden in Elantris, and they don't even see each other for most of the book. And when they do, it's still not in any romantic capacity until later because off…well, the plot being more important.
->>> 
 
-> **u/Solonarv** [+2]  *Chaos Legion**
+> **u/Solonarv** [+2]  *Chaos Legion* (23 hours later)
 > 
 > I very suddenly went from no romantic involvement with anyone to a slightly awkward situation.
-> A few months ago, I met an Italian guy online. Since then, we've played games and chatted/skyped several times a week. We're both bi, which will become relevant in a bit.
-> This week was my first week of university classes (compsci, though that's not really relevant). During lunch on Wednesday, a Chinese girl sat with me and we spent the rest of the lunch break and the next class together with a friend of hers. We didn't see each other on Thursday because our schedules didn't overlap, but we spent most of Friday together as well. The whole time, I had a vague impression that she had a crush on me. 
-> We started texting that evening, and she told me she liked me. I responded, saying it's mutual (which is true). Meanwhile, I was chatting with my Italian friend and relating my conversation with her to him.
-> After that ended (she went to bed), he told me he had something to tell me and confessed to liking me, which he felt weird about because we have never met and he didn't even know what I looked like. We started a video call shortly thereafter, and the first thing he said was "Oh my god you're cute" (wording may have been different). That's when I realized the feeling was mutual.
-> In light of [this](https://www.reddit.com/r/rational/comments/2vkeqf/q_rational_polyamory_fanfics/) not-so-recent discussion, I brought up the idea of *not* choosing one or the other of them. He was rather receptive to the idea, but I haven't gotten a chance to talk to the girl in person and won't until Monday.
-> Do you have any advice that you feel I should know?
 > 
+> A few months ago, I met an Italian guy online. Since then, we've played games and chatted/skyped several times a week. We're both bi, which will become relevant in a bit.
+> 
+> This week was my first week of university classes (compsci, though that's not really relevant). During lunch on Wednesday, a Chinese girl sat with me and we spent the rest of the lunch break and the next class together with a friend of hers. We didn't see each other on Thursday because our schedules didn't overlap, but we spent most of Friday together as well. The whole time, I had a vague impression that she had a crush on me. 
+> 
+> We started texting that evening, and she told me she liked me. I responded, saying it's mutual (which is true). Meanwhile, I was chatting with my Italian friend and relating my conversation with her to him.
+> 
+> After that ended (she went to bed), he told me he had something to tell me and confessed to liking me, which he felt weird about because we have never met and he didn't even know what I looked like. We started a video call shortly thereafter, and the first thing he said was "Oh my god you're cute" (wording may have been different). That's when I realized the feeling was mutual.
+> 
+> In light of [this](https://www.reddit.com/r/rational/comments/2vkeqf/q_rational_polyamory_fanfics/) not-so-recent discussion, I brought up the idea of *not* choosing one or the other of them. He was rather receptive to the idea, but I haven't gotten a chance to talk to the girl in person and won't until Monday.
+> 
+> Do you have any advice that you feel I should know?
 
->> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>> **u/Transfuturist** [+5]  *Carthago delenda est.* (a day later)
 >> 
 >> 1. Be very careful about broaching the topic with her.
->> 2. Long-distance relationships are a risky prospect in general, with its own stressors, and adding polyamory may compound those stressors with its own.
->> This situation does not seem very viable to me. It could work for you, but if I were in this situation... I would probably panic.
 >> 
+>> 2. Long-distance relationships are a risky prospect in general, with its own stressors, and adding polyamory may compound those stressors with its own.
+>> 
+>> This situation does not seem very viable to me. It could work for you, but if I were in this situation... I would probably panic.
 
-> **u/None** [+4] *
+> **u/None** [+5]  (4 hours later)
 > 
 > If someone was writing an HPMOR/Worm crossover, how would you want to be most pandered to?
-> 
 
->> **u/Faust91x** [+9]  *Iteration X**
+>> **u/Faust91x** [+5]  *Iteration X* (5 hours later)
 >> 
 >> Complex explanations of how magic and psionics between those two worlds interact and if there's a link between the big players in Worm and the magicians in HPMOR. As in, do they have a common ancestor? Were mages planned to be devoured or are antagonists of Worm's big players? What if mages were a backup plan in case the Worm entities didn't manage to defeat the superheros? Or what if there was a third one that created the mages and had nefarious purposes?
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Uh...I will think about that...and...yeah....
->>> 
 
->> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (5 hours later)
 >> 
 >> If you're going to include Harry, Hermione, Draco, etc., I would prefer that they were aged up. Eleven and twelve are not the sorts of ages that most people can write well, and it detracts from more serious and complex plots, as well as cutting off most of the romance angles (because you can write a romance between twelve year olds, but it's going to lack gravity *in addition to* squicking a fair number of people out).
->> I'm having trouble figuring out where there are compelling points of interface between the settings. I suppose the Harry Potter series shares the theme of bullying with Worm (with some parallels between Snape and Taylor), but not much of that carries over to HPMOR. The magic systems aren't really compatible; wizards are mostly fungible while parahumans are singleton. They both have elements of raging against the system and munchkinism under constraints, but I don't know what you really add by adding them together.
 >> 
+>> I'm having trouble figuring out where there are compelling points of interface between the settings. I suppose the Harry Potter series shares the theme of bullying with Worm (with some parallels between Snape and Taylor), but not much of that carries over to HPMOR. The magic systems aren't really compatible; wizards are mostly fungible while parahumans are singleton. They both have elements of raging against the system and munchkinism under constraints, but I don't know what you really add by adding them together.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (10 hours later)
 >>> 
 >>> That's not pandering, that's concerns about story elements. I'm talking cheez-wiz on the hot dog stuff.
->>> 
 
->>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (10 hours later)
 >>>> 
 >>>> I demand that you reference hot dogs with cheez-wiz in the story.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (10 hours later)
 >>>>> 
 >>>>> The Undersiders are American, should be easy.
->>>>> 
 
->>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (11 hours later)
 >>>>>> 
 >>>>>> So, is the premise of this basically that Earth Aleph is actually Harry Potter World?
->>>>>> (Also, I finished Worm!) :D
 >>>>>> 
+>>>>>> (Also, I finished Worm!) :D
 
->>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (11 hours later)
 >>>> 
 >>>> Oh, so you want a junk food approach to fiction, a pandering *to baser instincts* rather than something like in-group pandering (which for this sub would be something like dropping game theory into the middle of a story).
->>>> I was saying that for me, it's those points of interface, where I can see that there's some sort of ... resonance, where you find the points where the stories complement each other and the whole thing just sings in harmony. So Snape was bullied as a kid by people who everyone thought were "the good ones", as was Taylor, so either putting one in the place of the other or arranging a meeting between the two? That's the kind of thing that makes me squee with unreasonable delight.
->>>> But my problem is that there's not too much of that delicious resonance between the two series.
 >>>> 
+>>>> I was saying that for me, it's those points of interface, where I can see that there's some sort of ... resonance, where you find the points where the stories complement each other and the whole thing just sings in harmony. So Snape was bullied as a kid by people who everyone thought were "the good ones", as was Taylor, so either putting one in the place of the other or arranging a meeting between the two? That's the kind of thing that makes me squee with unreasonable delight.
+>>>> 
+>>>> But my problem is that there's not too much of that delicious resonance between the two series.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (a day later)
 >>>>> 
 >>>>> What do you think works better, Hermione forming SPEWW (the Society for the Pulverization of Evil Wizards and Witches) with Gilderoy Lockhart and fighting a series of villains with worm-themed powers, or Hermione joining the wizarding equivalent of the Undersiders with a cockroach Animagus, a guy who invented Peruvian instant darkness powder, a Seer, and whatever other BS mappings I can think of? To also fight a series of villains yadda yadda.
->>>>> 
 
->>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (a day later)
 >>>>>> 
 >>>>>> Second one. Hermione joining the expy-Undersiders sounds great.
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> And now I ask myself if I scrap all the stuff with Gilderoy or have the Undersiders be a youth wing of SPEWW a la Taylor's warlord stuff with, what's her name, Forest? And Sierra Mist? Or have Gilderoy be some HP variant of Armsmaster, or maybe just scrap it all.
->>>>>>> Actually, Gilderoy is basically the Wizarding equivalent of a Stranger, isn't he?
 >>>>>>> 
+>>>>>>> Actually, Gilderoy is basically the Wizarding equivalent of a Stranger, isn't he?
 
->>>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (a day later)
 >>>>>>>> 
 >>>>>>>> Gilderoy is *sort of* a Stranger and I can see him working in that context. But he's also comic relief, which means that it's harder to get him to map to anyone in Worm (because Worm has practically no comic relief). I guess I can see him grafted into Armsmaster, if you want to collide some personalities together.
->>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> Ah, I've got it. Vernon Dursley is Armsmaster, *of course.*
->>>>>>>>> Gilderoy is basically a reverse Imp. People remember him when he wasn't actually there.
 >>>>>>>>> 
+>>>>>>>>> Gilderoy is basically a reverse Imp. People remember him when he wasn't actually there.
 
->> **u/MugaSofer** [+3] *
+>> **u/MugaSofer** [+3]  (a day later)
 >> 
 >> Lots of experimentation.
->> Every Worm character spends ages working out tricks they can do with their power, and every power has hidden depths that can crack it wide open.
->> On the other hand, every HPMOR character has an almost limitless supply of specific, physics-breaking Things they can do with a little training, and (in canon HPMOR) the characters have to make do with "low-level" spells and think of clever alternative applications based on the details of their effects.
 >> 
+>> Every Worm character spends ages working out tricks they can do with their power, and every power has hidden depths that can crack it wide open.
+>> 
+>> On the other hand, every HPMOR character has an almost limitless supply of specific, physics-breaking Things they can do with a little training, and (in canon HPMOR) the characters have to make do with "low-level" spells and think of clever alternative applications based on the details of their effects.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> One change I'm going to make from the previous iteration is to severely downgrade Dragon's initial powers and make it more based on Worm!Dragon's actual trigger power, so experimentin should definitely be a thing that happens.
->>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (an hour later)
 > 
 > Anyone want to be a beta reader/someone to bounce ideas off of for my HPMOR/Worm crossover? Doesn't have to be the same person for both.
-> 
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (3 hours later)
 >> 
 >> I'm interested in doing either.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 hours later)
 >>> 
 >>> Ok.
->>> I'm trying to figure out exactly how I want shards to work in this story and also whether the Undersiders should show up at all or to keep things entirely in the HP universe but with worm powers for some reason. Or just have the Undersiders be teenage wizards who decided to fight wizard crime for some reason. And then Hermione is like their Taylor I guess. So...I'll message you.
->>> Also whether there should be an overarching plot or basically just a series of adventures.
 >>> 
+>>> I'm trying to figure out exactly how I want shards to work in this story and also whether the Undersiders should show up at all or to keep things entirely in the HP universe but with worm powers for some reason. Or just have the Undersiders be teenage wizards who decided to fight wizard crime for some reason. And then Hermione is like their Taylor I guess. So...I'll message you.
+>>> 
+>>> Also whether there should be an overarching plot or basically just a series of adventures.
 
->>>> **u/avret** [+1]  *SDHS rationalist**
+>>>> **u/avret** [+1]  *SDHS rationalist* (6 hours later)
 >>>> 
 >>>> Ok.  (Prob best to email me at leor . fishman @ gmail . com actually)
->>>> 
 
->> **u/HeirToGallifrey** [+1]  *Thinking inside the box (it's bigger there)**
+>> **u/HeirToGallifrey** [+1]  *Thinking inside the box (it's bigger there)* (5 hours later)
 >> 
 >> I would love to beta read! I'd be willing to listen to ideas as well but, due to my current schedule, I prefer having one bunch of information to crush and  respond to than a dozen small ones throughout the day, if that makes sense.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (5 hours later)
 >>> 
 >>> All right, I'll send you some chapters when they exist.
->>> 
 
->> **u/MugaSofer** [+1] *
+>> **u/MugaSofer** [+1]  (a day later)
 >> 
 >> I'd love to help with either/both. Big fan of both stories, and I'm the sort of fan who spends a lot of time on research to build up my understanding of the fictional world and it's mechanics.
->> It's explicitly HPMOR, and not just HP? Because Eliezer wrote a great story seed for a HP/Worm crossover over on /r/HPMOR.
 >> 
+>> It's explicitly HPMOR, and not just HP? Because Eliezer wrote a great story seed for a HP/Worm crossover over on /r/HPMOR.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> It's HPMOR!Hermione set in a mostly canon HP world where people have Worm artifacts, unless it ends up being something else.
->>> I might just end up using the Friday thread for ideas, but if you want to be a beta reader I can send you chapters when I have them.
 >>> 
+>>> I might just end up using the Friday thread for ideas, but if you want to be a beta reader I can send you chapters when I have them.
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (an hour later)
 >> 
 >> Edit: apparently reddit isn't quite as intelligent as I thought it was.
+>> 
 >>  > > Harry realizes he has...
+>> 
 >> > Too easy.
+>> 
 >> > It has been more than two years since the death of Voldemort, and only months since the purging of Azkaban. Harry and Hermione are on summer vacation in Portugal, looking forward to having the same DADA professor as last year while Mad Eye finishes hunting down the rest of Voldemort's horcuxes on Earth. There is a mysterious explosion resulting in someone who appears to have superpowers, and Hermione acquiesces to Harry's pleas to change their plans and check it out.
+>> 
 >> > While there they meet a young woman studying abroad on a scholarship for a degree in fashion design, who also is also interested in this new superhero and who Harry finds eerily wise, though she obviously knows nothing about the Wizarding World.
+>> 
 >> > While the trio are looking into the superhero situation (its still unclear what happened, and this Taylor person is much better at interfacing with the locals) H&H interfere with spies or something trying to abduct the superhero by identifying another wizard and convincing them to help since they can't use magic as underage wizards. Despite their best efforts, however, Taylor begins to catches on and, after a phone call back to America for reassurance, decides to follow-up on this, hoping it's just herself going crazy again.
 >> (Harry almost wishes he could Oblivate the muggle, but Hufflepuff reminds him that it ought to be an Unforgivable.)
 >> Taylor decides to spend the night with a friend who lives nearby, and offers them a place to stay since they ended up so far from their hotel. Herimone agrees since she doesn't want to spend the night in Harry's trunk, and Harry quietly tries to plan how to continue the investigation without giving away the Wizarding World and bringing down an obliviation on Taylor's head.
->> > Then something interesting happens the next day.
->> > I am taking this way too seriously.
 >> 
+>> > Then something interesting happens the next day.
+>> 
+>> > I am taking this way too seriously.
 
->>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (2 hours later)
 >>> 
 >>> Messages are private; you can't link to them. I mean, you can, but it won't work unless the person opening the link is one of the recipients.
->>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (an hour later)
 >>> 
 >>> Uh...you're forbidden to be a beta reader?
->>> 
 
->>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (3 hours later)
 >>>> 
 >>>> Edited.
->>>> 
 
 ---
 

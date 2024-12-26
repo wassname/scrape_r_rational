@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 8
+* Score: 6
 
 * Created: 2017-08-19T21:49:44
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/jldew** [+1] *
+> **u/jldew** [+1]  (10 seconds later)
 > 
 > Typo Thread :)
-> 
 
 ---
 

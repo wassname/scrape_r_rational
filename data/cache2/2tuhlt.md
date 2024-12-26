@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.reddit.com/r/rational/comments/2tuhlt/offtopic_ysk_about_a_place_for_rational/
-* Score: 1
+* Score: 3
 
 * Created: 2015-01-27T15:21:02
 
@@ -20,245 +20,315 @@ Just something I thought the rationalist community should be aware of, and /u/ea
 
 ### Comments:
 
-> **u/E-o_o-3** [+7] *
+> **u/E-o_o-3** [+6]  (2 hours later)
 > 
 > Honest opinion?
-> This seems more like re-reactionary politics (reacting against reactionaries) than "rational". What is the relevance of this to people who don't care about theredpill in the first place? Isn't this basically a petri dish for [toxoplasma](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/), which only tends to increase the net visibility of extreme views? (You know something is toxoplasma driven when you primarily hear about it from people who dislike it...)
-> This is not a "boo" for what the subreddit stands for. I "yay" the egalitarian side of gender politics (even if i sometimes cringe at those who yay alongside me), generally think better of you after learning you are a mod for such a subreddit, and so on. I just don't see the relevance here nor the general net benefit of cross pollination. 
-> Remember what happened to Lesswrong after they started entertaining reactionary ideas? To entertain *either* side of an ideological war is to invite the other side, and then everything of substance drowns in the resulting argument. 
-> 10th Law of Power: "avoid infection". I don't usually like the laws of power, but I do think they apply here.
 > 
+> This seems more like re-reactionary politics (reacting against reactionaries) than "rational". What is the relevance of this to people who don't care about theredpill in the first place? Isn't this basically a petri dish for [toxoplasma](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/), which only tends to increase the net visibility of extreme views? (You know something is toxoplasma driven when you primarily hear about it from people who dislike it...)
+> 
+> This is not a "boo" for what the subreddit stands for. I "yay" the egalitarian side of gender politics (even if i sometimes cringe at those who yay alongside me), generally think better of you after learning you are a mod for such a subreddit, and so on. I just don't see the relevance here nor the general net benefit of cross pollination. 
+> 
+> Remember what happened to Lesswrong after they started entertaining reactionary ideas? To entertain *either* side of an ideological war is to invite the other side, and then everything of substance drowns in the resulting argument. 
+> 
+> 10th Law of Power: "avoid infection". I don't usually like the laws of power, but I do think they apply here.
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (2 hours later)
 >> 
 >> Honest opinions always welcome!
->> If you read the sidebar of the subreddit, you'll see that it tries very hard **not** to be reactionary: the name was derived from The Red Pill's metaphor, but it was done tongue-in-cheek, and TalShar has since expressed that he wishes he'd chosen a different one.
->> I understand your aversion to toxoplasmic petri dishes: ironically enough, my one issue with Slate Star Codex is that, if not for its occasional posts about "Social Justice Warriors" and their ilk, I wouldn't waste nearly as much time thinking about them, nor might they be nearly as representative of "actual feminism" or "actual social justice" as Alexander seems to treat them.
->> But as stated, the point of /r/PunchingMorpheus is about relationship advice and discussions of dating/gender first and foremost. There are posts and discussions there where Red Pill is never brought up, and instead we try to listen and help people who have all sorts of difficulties with social dynamics or heartbreak.
->> My reason for posting it here is that I've often been frustrated by the lack of sane places to discuss such things, and have seen that frustration mirrored in sites like SSC and LW. For those that are looking for such a place, I thought it would be worth the slight detour to see if others can benefit from it :)  I understand completely if it holds no interest to anyone here, since it's not related to the subreddit's characteristics. 
->> (Edit: Just want to clarify that I love Slate Star Codex and respect Scott immensely: it's his blog and obviously he can write whatever he likes on it. Was just pointing out that it's hard to avoid giving something negative more presence when trying to fight its influence)
 >> 
+>> If you read the sidebar of the subreddit, you'll see that it tries very hard **not** to be reactionary: the name was derived from The Red Pill's metaphor, but it was done tongue-in-cheek, and TalShar has since expressed that he wishes he'd chosen a different one.
+>> 
+>> I understand your aversion to toxoplasmic petri dishes: ironically enough, my one issue with Slate Star Codex is that, if not for its occasional posts about "Social Justice Warriors" and their ilk, I wouldn't waste nearly as much time thinking about them, nor might they be nearly as representative of "actual feminism" or "actual social justice" as Alexander seems to treat them.
+>> 
+>> But as stated, the point of /r/PunchingMorpheus is about relationship advice and discussions of dating/gender first and foremost. There are posts and discussions there where Red Pill is never brought up, and instead we try to listen and help people who have all sorts of difficulties with social dynamics or heartbreak.
+>> 
+>> My reason for posting it here is that I've often been frustrated by the lack of sane places to discuss such things, and have seen that frustration mirrored in sites like SSC and LW. For those that are looking for such a place, I thought it would be worth the slight detour to see if others can benefit from it :)  I understand completely if it holds no interest to anyone here, since it's not related to the subreddit's characteristics. 
+>> 
+>> (Edit: Just want to clarify that I love Slate Star Codex and respect Scott immensely: it's his blog and obviously he can write whatever he likes on it. Was just pointing out that it's hard to avoid giving something negative more presence when trying to fight its influence)
 
->>> **u/E-o_o-3** [+3] *
+>>> **u/E-o_o-3** [+3]  (12 hours later)
 >>> 
 >>> >my one issue with Slate Star Codex is that, if not for its occasional posts about "Social Justice Warriors" and their ilk, I wouldn't waste nearly as much time thinking about them, nor might they be nearly as representative of "actual feminism" or "actual social justice" as Alexander seems to treat them.
->>> Yeah... I don't speak out against that because I feel a sort-of obligation to not complain when someone critiques views I primarily agree with and people I'm kinda-sorta part of. But, I do think Scott's idea of feminism seems entirely based off of the internet and not people who live in real life. (Or, maybe he's in a bay-area bubble such that all the bigotry he encounters is of the left wing variety, and guns-n-god conservatives are like exotic birds or foreign countries you hear about on the news or something)
->>> Still, I consider Scott's criticisms "internal" criticisms, even though he doesn't identify as a feminist or leftist, because he's preeetty obviously on board with all core principles despite protestations to the contrary. And I am a big fan of internal criticisms. If you just look at his views and ignore which group he spends the most time criticizing, Scott is more on board with feminism's current party line than many actual self-identified feminists. He accepts gays, trans (many feminists don't even know what trans is let alone accept it), believes in equal opportunity and egalitarianism and people not being forced into anything or bullied...and that's what it's all about in my book.
->>> If a guy like that wants to criticize feminism, I mark it as "internal self criticism" and give it three thumbs up. 
->>> Anyway, get back to pokemon dude we're all eagerly waiting :P
 >>> 
+>>> Yeah... I don't speak out against that because I feel a sort-of obligation to not complain when someone critiques views I primarily agree with and people I'm kinda-sorta part of. But, I do think Scott's idea of feminism seems entirely based off of the internet and not people who live in real life. (Or, maybe he's in a bay-area bubble such that all the bigotry he encounters is of the left wing variety, and guns-n-god conservatives are like exotic birds or foreign countries you hear about on the news or something)
+>>> 
+>>> Still, I consider Scott's criticisms "internal" criticisms, even though he doesn't identify as a feminist or leftist, because he's preeetty obviously on board with all core principles despite protestations to the contrary. And I am a big fan of internal criticisms. If you just look at his views and ignore which group he spends the most time criticizing, Scott is more on board with feminism's current party line than many actual self-identified feminists. He accepts gays, trans (many feminists don't even know what trans is let alone accept it), believes in equal opportunity and egalitarianism and people not being forced into anything or bullied...and that's what it's all about in my book.
+>>> 
+>>> If a guy like that wants to criticize feminism, I mark it as "internal self criticism" and give it three thumbs up. 
+>>> 
+>>> Anyway, get back to pokemon dude we're all eagerly waiting :P
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (21 hours later)
 >>>> 
 >>>> > But, I do think Scott's idea of feminism seems entirely based off of the internet and not people who live in real life.
->>>> Scott got bullied by Tumblr-grade "feminists" in college, supposedly.
->>>> >(Or, maybe he's in a bay-area bubble such that all the bigotry he encounters is of the left wing variety, and guns-n-god conservatives are like exotic birds or foreign countries you hear about on the news or something)
->>>> Did I mention the word "college"?
 >>>> 
+>>>> Scott got bullied by Tumblr-grade "feminists" in college, supposedly.
+>>>> 
+>>>> >(Or, maybe he's in a bay-area bubble such that all the bigotry he encounters is of the left wing variety, and guns-n-god conservatives are like exotic birds or foreign countries you hear about on the news or something)
+>>>> 
+>>>> Did I mention the word "college"?
 
->>>>> **u/E-o_o-3** [+1] *
+>>>>> **u/E-o_o-3** [+1]  (a day later)
 >>>>> 
 >>>>> Where did *he* go to college...while everyone calls themselves feminists these days, I'm pretty sure among my friends (who are mostly girls, mind you) I am the only feminist by internet standards. 
->>>>> (Keeping in mind that Scott's viewpoints are approximately equally feminist as mine)
 >>>>> 
+>>>>> (Keeping in mind that Scott's viewpoints are approximately equally feminist as mine)
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (5 days later)
 >>>>>> 
 >>>>>> For reference, colleges do have a tendency to obey tumblresque SJW rules: eg, [free speech zones](http://rt.com/usa/first-amendment-us-law-colleges-029/) and [insert link to excellent article detailing forced gender identity surveys and dorm helper dudes being commanded to report dissension at some NE university, can't find it gah; two other relevant articles [here](http://nymag.com/daily/intelligencer/2015/01/not-a-very-pc-thing-to-say.html) and [here](https://archive.today/XmyC5)]. And /r/tumblrinaction, since that's always relevant.
->>>>>> 
 
->>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (13 hours later)
 >>>> 
 >>>> >But, I do think Scott's idea of feminism seems entirely based off of the internet and not people who live in real life. 
->>>> This is my impression too, [and always makes me think of this comic.](http://www.smbc-comics.com/?id=2939) It's mildly frustrating: he does a very good job of making me think "What?! Who the hell says shit like that?" and then immediately following it up with links to people who say shit like that.
->>>> Maybe it's because I'm not on Tumblr, but when I see arguments against people who unironically cap their sentences off with "shitlord," I just think "Yeah, those people are pretty crazy alright. Wait... are you taking them seriously? What power do they have, exactly, that makes knocking the stuffing out of their juvenile absurdity worthwhile?"  
->>>> It's like arguing against creationists, except *they* happen to have a frightening number of seats in government. When there are congressmen or governors, or hell, even people in academia, using the word "privilege" as sloppily as the people Scott so expertly dissects, then I'll start caring.
->>>> All that said, this:
->>>> > If you just look at his views and ignore which group he spends the most time criticizing, Scott is more on board with feminism's current party line than many actual self-identified feminists... If a guy like that wants to criticize feminism, I mark it as "internal self criticism" and give it three thumbs up.
->>>> Is very true. Hearing his (mostly) excellently formulated and articulated views on the issues is always worth the read.  It's not really his fault that people like those from The Red Pill have linked to his posts in arguments to support their views: with that crowd, "missing the point" is kind of a given.
->>>> >Anyway, get back to pokemon dude we're all eagerly waiting :P
->>>> On it :) If all goes as planned, should be done by tomorrow, edits and publication the day after.
 >>>> 
+>>>> This is my impression too, [and always makes me think of this comic.](http://www.smbc-comics.com/?id=2939) It's mildly frustrating: he does a very good job of making me think "What?! Who the hell says shit like that?" and then immediately following it up with links to people who say shit like that.
+>>>> 
+>>>> Maybe it's because I'm not on Tumblr, but when I see arguments against people who unironically cap their sentences off with "shitlord," I just think "Yeah, those people are pretty crazy alright. Wait... are you taking them seriously? What power do they have, exactly, that makes knocking the stuffing out of their juvenile absurdity worthwhile?"  
+>>>> 
+>>>> It's like arguing against creationists, except *they* happen to have a frightening number of seats in government. When there are congressmen or governors, or hell, even people in academia, using the word "privilege" as sloppily as the people Scott so expertly dissects, then I'll start caring.
+>>>> 
+>>>> All that said, this:
+>>>> 
+>>>> > If you just look at his views and ignore which group he spends the most time criticizing, Scott is more on board with feminism's current party line than many actual self-identified feminists... If a guy like that wants to criticize feminism, I mark it as "internal self criticism" and give it three thumbs up.
+>>>> 
+>>>> Is very true. Hearing his (mostly) excellently formulated and articulated views on the issues is always worth the read.  It's not really his fault that people like those from The Red Pill have linked to his posts in arguments to support their views: with that crowd, "missing the point" is kind of a given.
+>>>> 
+>>>> >Anyway, get back to pokemon dude we're all eagerly waiting :P
+>>>> 
+>>>> On it :) If all goes as planned, should be done by tomorrow, edits and publication the day after.
 
->>>>> **u/E-o_o-3** [+2] *
+>>>>> **u/E-o_o-3** [+2]  (a day later)
 >>>>> 
 >>>>> >It's like arguing against creationists, except they happen to have a frightening number of seats in government
->>>>> True, but tumblr style SJW apparently are common enough in academia. I haven't experienced this directly, but there was the whole Summer's controversy, then the naked man statue censorship fiasco, and, and...there was the power of institutional academia behind that stuff.
->>>>> Anyway, the way I see it, "my" group, the egalitarian feminist liberals, make up the vast majority of the 1% intellectual elite that rules the world of ideas which actually make a difference to the trajectory of the future (even if they don't rule the world of raw political power or particularly influence ideas at the 50th percentile).
->>>>> So I'd better be damn welcoming of intelligent criticism and hyper-vigilant for internal evil arising within my hallowed halls. That's what being a liberal is about, really. That's*why* the world always drifts leftward.
->>>>> >It's not really his fault that people like those from The Red Pill have linked to his posts in arguments to support their views: with that crowd, "missing the point" is kind of a given.
->>>>> And so what if they have? Why is that a problem? Sure, they believe a lot of silly things, but are we going to begrudge them the small pieces of their worldview that *do* have merit?
->>>>> If the Red Pill folks support a correct argument, that doesn't by proxy strengthen the Red Pill's bad arguments. The Left Hand Path to winning politics is done by re-direction - don't say "the red pill is wrong", just .... feed the Red Pill's good arguments and criticize the Red Pill's bad arguments until the whole thing has transformed into something which is not really that bad. Remember, there *was* a separatist feminist movement, and there are still trans-exclusionary feminists..."feminst" and "red pill" are just tribal banner headings.  Mindkilling is when a person thinks in terms of red and blue to such an extent that a red victory, legitimately won (as is the case with Scott's correct criticisms being vaguely Red-feeling), feels like a loss.
 >>>>> 
+>>>>> True, but tumblr style SJW apparently are common enough in academia. I haven't experienced this directly, but there was the whole Summer's controversy, then the naked man statue censorship fiasco, and, and...there was the power of institutional academia behind that stuff.
+>>>>> 
+>>>>> Anyway, the way I see it, "my" group, the egalitarian feminist liberals, make up the vast majority of the 1% intellectual elite that rules the world of ideas which actually make a difference to the trajectory of the future (even if they don't rule the world of raw political power or particularly influence ideas at the 50th percentile).
+>>>>> 
+>>>>> So I'd better be damn welcoming of intelligent criticism and hyper-vigilant for internal evil arising within my hallowed halls. That's what being a liberal is about, really. That's*why* the world always drifts leftward.
+>>>>> 
+>>>>> >It's not really his fault that people like those from The Red Pill have linked to his posts in arguments to support their views: with that crowd, "missing the point" is kind of a given.
+>>>>> 
+>>>>> And so what if they have? Why is that a problem? Sure, they believe a lot of silly things, but are we going to begrudge them the small pieces of their worldview that *do* have merit?
+>>>>> 
+>>>>> If the Red Pill folks support a correct argument, that doesn't by proxy strengthen the Red Pill's bad arguments. The Left Hand Path to winning politics is done by re-direction - don't say "the red pill is wrong", just .... feed the Red Pill's good arguments and criticize the Red Pill's bad arguments until the whole thing has transformed into something which is not really that bad. Remember, there *was* a separatist feminist movement, and there are still trans-exclusionary feminists..."feminst" and "red pill" are just tribal banner headings.  Mindkilling is when a person thinks in terms of red and blue to such an extent that a red victory, legitimately won (as is the case with Scott's correct criticisms being vaguely Red-feeling), feels like a loss.
 
->>>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (a day later)
 >>>>>> 
 >>>>>> >And so what if they have? Why is that a problem? Sure, they believe a lot of silly things, but are we going to begrudge them the small pieces of their worldview that do have merit?
->>>>>> Sorry, I should have clarified: they were not arguing an aspect of Scott's perspective, they were holding Scott's arguments up as support for the "Why Feminism is Always Wrong and Harmful" perspective.  The ones I encountered doing so, anyway.
->>>>>> I agree with everything you said in general though :)
 >>>>>> 
+>>>>>> Sorry, I should have clarified: they were not arguing an aspect of Scott's perspective, they were holding Scott's arguments up as support for the "Why Feminism is Always Wrong and Harmful" perspective.  The ones I encountered doing so, anyway.
+>>>>>> 
+>>>>>> I agree with everything you said in general though :)
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (21 hours later)
 >>>>> 
 >>>>> > "Yeah, those people are pretty crazy alright. Wait... are you taking them seriously? What power do they have, exactly, that makes knocking the stuffing out of their juvenile absurdity worthwhile?" 
->>>>> *rubs hands evilly*  At some point I decided to eventually plot out a piece of futuristic fiction in which slightly-transhuman mahou shoujo from Tumblr use "Check your privilege!" and such as their In the Name of the Moon speech, as they zoom around policing an Earth that has otherwise been abandoned to all the various reactionary ideologies who couldn't grow-up enough to be allowed off-planet.
 >>>>> 
+>>>>> *rubs hands evilly*  At some point I decided to eventually plot out a piece of futuristic fiction in which slightly-transhuman mahou shoujo from Tumblr use "Check your privilege!" and such as their In the Name of the Moon speech, as they zoom around policing an Earth that has otherwise been abandoned to all the various reactionary ideologies who couldn't grow-up enough to be allowed off-planet.
 
->>>>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >>>>>> 
 >>>>>> That would be pretty hilarious. Have you seen Hellsing Abridged, from the ever amazing Team Four Star? They captured the Tumblr "Feminazi" (literally) very well in [this episode](https://www.youtube.com/watch?v=R4wY-FhBArw) where she fights Alucard:
->>>>>> "I am Rip van Winkle, and I demand your respect!"
->>>>>> "No, you demand my attention."
->>>>>> "I don't have to take this from you, you racist, cisgendered, patriarch propagating, misogynistic PIG!"
->>>>>> "The funny thing is, in any other circumstance, you might have a point there. Except... my boss is a woman, I was a chick in the 40's, I HATE EVERYONE EQUALLY, and there is NO ONE ALIVE who can comprehend my sexual preference. So in other words, Miss van Winkle... CH-CH-CH-CHECK YOUR PRIVILEGE! *punch*"﻿
 >>>>>> 
+>>>>>> "I am Rip van Winkle, and I demand your respect!"
+>>>>>> 
+>>>>>> "No, you demand my attention."
+>>>>>> 
+>>>>>> "I don't have to take this from you, you racist, cisgendered, patriarch propagating, misogynistic PIG!"
+>>>>>> 
+>>>>>> "The funny thing is, in any other circumstance, you might have a point there. Except... my boss is a woman, I was a chick in the 40's, I HATE EVERYONE EQUALLY, and there is NO ONE ALIVE who can comprehend my sexual preference. So in other words, Miss van Winkle... CH-CH-CH-CHECK YOUR PRIVILEGE! *punch*"﻿
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> I'm... in awe.
->>>>>>> 
 
->>>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (a day later)
 >>>>>>>> 
 >>>>>>>> It's pretty great. Dragonball Z Abridged and Yu Gi Oh Abridged are by the same people, and immensely enjoyable.
->>>>>>>> 
 
-> **u/Anakiri** [+5] *
+> **u/Anakiri** [+4]  (15 hours later)
 > 
 > This is *fascinating*. And a bit surreal. I'm asexual, you see. I certainly know *of* romantic and sexual relationships and gender dynamics. My friends talk about them sometimes, so I've developed enough of an abstract understanding to fake having meaningful input. But it's easy for me to forget just how big a deal this all allegedly is.
-> Here we have *thousands* of people discussing thoughts and opinions and desires and worldviews and entire emotional spectra that are utterly incomprehensible to me, and its all fundamentally important to them. I've never been immersed in an environment dedicated to that.
-> You're all crazy. Good crazy, mostly, I guess, but crazy. I'm going to remember this the next time I read about aliens who are less alien than everyone around me.
 > 
+> Here we have *thousands* of people discussing thoughts and opinions and desires and worldviews and entire emotional spectra that are utterly incomprehensible to me, and its all fundamentally important to them. I've never been immersed in an environment dedicated to that.
+> 
+> You're all crazy. Good crazy, mostly, I guess, but crazy. I'm going to remember this the next time I read about aliens who are less alien than everyone around me.
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (16 hours later)
 >> 
 >> Interestingly enough, we get posts by asexual people too, such as [this one](http://www.reddit.com/r/PunchingMorpheus/comments/2jzg3e/when_the_sexual_desires_in_a_relationship_are/)! 
-
->> But yeah. Hormones n' such. They be crazy ;)
 >> 
+>> But yeah. Hormones n' such. They be crazy ;)
 
->>> **u/Anakiri** [+2] *
+>>> **u/Anakiri** [+2]  (17 hours later)
 >>> 
 >>> Honestly, romance is way more bewildering to me than sexuality. Drugs make sense. But even on calm reflection, lots of people still feel quite strongly about some kind of bizarre exclusive reciprocal siblinghood/friendship-with-benefits 2.0 thing, also gender is important somehow. So even that post is alien to me.
->>> You guys seem to pursue your weird goals reasonably and fairly, and you try to avoid hurting anyone. I know lots of young people who have been burned, but I don't know any old people who regret it. So, hey, have fun!
 >>> 
+>>> You guys seem to pursue your weird goals reasonably and fairly, and you try to avoid hurting anyone. I know lots of young people who have been burned, but I don't know any old people who regret it. So, hey, have fun!
 
->>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (a day later)
 >>>> 
 >>>> It really does sound strange and unappealing when viewed objectively :) I described it like this to someone there once when they were expressing their frustration over having trouble finding a romantic relationship:
->>>> >>> But I never really had to "work" to have friends, yet I don't take them for granted either. Creating and maintaining friendships throughout my life "just happened." With women, I don't know why, but it feels so much different.
->>>> >>There are in fact a number of differences between romantic relationships and regular friendships that make one much harder than the other.
->>>> >>For one thing, a romantic relationship is mostly exclusive. Imagine if, of all your friends, you had to choose just one of them to be your only friend, and *they* had to choose *you*. And as long as you two are friends, you can't do certain fun things with anyone else, and if you're friends long enough, you have to move in together and merge your finances.
->>>> >>Sounds kind of silly right? I mean even without the sex and physical attraction aspect, friendship would be MUCH harder if it was anywhere near as restrictive as monogomous romantic relationships. That's a large part of why the two feel so different: friends are fairly easy to acquire and maintain, because the stakes are relatively low. The stakes are very high for dating, especially dating for a serious, lasting relationship, which immediately makes it much more competitive and difficult.
->>>> It does feel great when it clicks into place. Whether it's worth the heartache and headache involved, of course, is a question that has echoed throughout human history :)
 >>>> 
+>>>> >>> But I never really had to "work" to have friends, yet I don't take them for granted either. Creating and maintaining friendships throughout my life "just happened." With women, I don't know why, but it feels so much different.
+>>>> 
+>>>> >>There are in fact a number of differences between romantic relationships and regular friendships that make one much harder than the other.
+>>>> 
+>>>> >>For one thing, a romantic relationship is mostly exclusive. Imagine if, of all your friends, you had to choose just one of them to be your only friend, and *they* had to choose *you*. And as long as you two are friends, you can't do certain fun things with anyone else, and if you're friends long enough, you have to move in together and merge your finances.
+>>>> 
+>>>> >>Sounds kind of silly right? I mean even without the sex and physical attraction aspect, friendship would be MUCH harder if it was anywhere near as restrictive as monogomous romantic relationships. That's a large part of why the two feel so different: friends are fairly easy to acquire and maintain, because the stakes are relatively low. The stakes are very high for dating, especially dating for a serious, lasting relationship, which immediately makes it much more competitive and difficult.
+>>>> 
+>>>> It does feel great when it clicks into place. Whether it's worth the heartache and headache involved, of course, is a question that has echoed throughout human history :)
 
->>>>> **u/Anakiri** [+2] *
+>>>>> **u/Anakiri** [+2]  (a day later)
 >>>>> 
 >>>>> You're describing color to the blind here. My friends get frustrated when they say things like that, and I can only think, "Then... don't do it that way?" Clearly that's not how it works. I mean, I grew up in a culture where marriage is a thing, so I've learned all the rules that evidently are supposed to be natural, but yeah, it's all kind of silly. But even if much of it doesn't come naturally to me, I do understand trust, and empathy, and communication, and often that's enough to build some kind of framework for thinking about any kind of healthy relationship, from lovers to coworkers.
->>>>> 
 
->>>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (a day later)
 >>>>>> 
 >>>>>> >You're describing color to the blind here.
->>>>>> In that I'm successfully communicating, or not? (That expression is commonly used to mean "wasting time" or "attempting the impossible.")
->>>>>> >Clearly that's not how it works.
->>>>>> Yeah, most people can't stop themselves from wanting what they want, especially for something so deeply ingrained at a cultural level, at least. Polyamorists are rare and frowned upon, despite many of them having healthy and happy romantic lives, and culturally polygamy has a terrible image thanks to traditionally male-centric cults that practiced it.
->>>>>> Personally, while some part of me still feels drawn to the "special someone" perspective, I've been able to recognize the value of non-monogamy to the point of feeling open to the possibility. I've yet to meet a girl in meatspace that is too, but think I'd be as happy in either relationship type as long as the people involved are the right ones.
->>>>>> >But even if much of it doesn't come naturally to me, I do understand trust, and empathy, and communication, and often that's enough to build some kind of framework for thinking about any kind of healthy relationship, from lovers to coworkers.
->>>>>> Yeah, trust, empathy and communication go a long way in every relationship :) The peculiarities of romance only matter to others who are specifically looking for them, in which case it's no different than being friends with someone who doesn't reciprocate their romantic/sexual attraction. Since I've managed to have not one but two lifelong friendships with girls I've fallen in love with that didn't reciprocate, I can attest that it doesn't impede the friendship at all as long as the person who does feel the romantic longing is mature and secure enough not to let it.
 >>>>>> 
+>>>>>> In that I'm successfully communicating, or not? (That expression is commonly used to mean "wasting time" or "attempting the impossible.")
+>>>>>> 
+>>>>>> >Clearly that's not how it works.
+>>>>>> 
+>>>>>> Yeah, most people can't stop themselves from wanting what they want, especially for something so deeply ingrained at a cultural level, at least. Polyamorists are rare and frowned upon, despite many of them having healthy and happy romantic lives, and culturally polygamy has a terrible image thanks to traditionally male-centric cults that practiced it.
+>>>>>> 
+>>>>>> Personally, while some part of me still feels drawn to the "special someone" perspective, I've been able to recognize the value of non-monogamy to the point of feeling open to the possibility. I've yet to meet a girl in meatspace that is too, but think I'd be as happy in either relationship type as long as the people involved are the right ones.
+>>>>>> 
+>>>>>> >But even if much of it doesn't come naturally to me, I do understand trust, and empathy, and communication, and often that's enough to build some kind of framework for thinking about any kind of healthy relationship, from lovers to coworkers.
+>>>>>> 
+>>>>>> Yeah, trust, empathy and communication go a long way in every relationship :) The peculiarities of romance only matter to others who are specifically looking for them, in which case it's no different than being friends with someone who doesn't reciprocate their romantic/sexual attraction. Since I've managed to have not one but two lifelong friendships with girls I've fallen in love with that didn't reciprocate, I can attest that it doesn't impede the friendship at all as long as the person who does feel the romantic longing is mature and secure enough not to let it.
 
->>>>>>> **u/Anakiri** [+3] *
+>>>>>>> **u/Anakiri** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> You're communicating better than many. I meant it as an actual metaphor. You're describing experiences that, to the best of my knowledge, I don't have, and most of my thoughts are just "Why?" with varying levels of emphasis and incredulity. That's fine, I think, just talking about our respective perspectives.
->>>>>>> I understand some natural reluctance towards polyamory. There are historical and cultural reasons, and jealousy is a real emotion that can cause real distress^(1), no matter how much you would prefer to feel compersion. Even if it is the obvious solution to, like, half of everyone's relationship woes. The weird thing is that saying things like that has gotten me in trouble among more emotional company.
->>>>>>> Love is said to *feel* like the strongest relationship in the world, but it *looks* like one of the weakest, and people *act* like it's fragile and could easily fall apart. Some of the less introspective people I've encountered don't just defend their relationship, they defend the *validity* of their relationship, as if that were in doubt, as if it were all lies and the whole house of cards might fall. I'm pretty sure it's more material than that. Humans are weird. But this behavior is hardly exclusive to love.
->>>>>>> > I've managed to have not one but two lifelong friendships with girls I've fallen in love with that didn't reciprocate, I can attest that it doesn't impede the friendship at all as long as the person who does feel the romantic longing is mature and secure enough not to let it. 
->>>>>>> Oh, tell me about it. Like half of my closest friends have asked me out^(2), including one who, after a few drinks, freely admits they'd still like to meet someone "like you, but available". I'm not quite sure how I'm supposed to take that, but I've friend-loved the lot of them for like fifteen years.
->>>>>>> ^(1) My only experience with jealousy is, like, my dog responding more to someone else, and me being very slightly upset for maybe one second. Imagining love-jealous rage is like imagining bad-kerning rage. I can't get into that headspace. I just acknowledge that the sliding scale evidently does go high enough to cause real distress.
->>>>>>> ^(2) Dating! A pox on whoever invented the thing. I have trouble even pretending to understand it. I've never been able to pin down the actual difference between dating and hanging out, aside from all parties agreeing on what word to use. But I've seen loving couples agree with me on that. The *culture* of romance is the *most* incomprehensible.
 >>>>>>> 
+>>>>>>> I understand some natural reluctance towards polyamory. There are historical and cultural reasons, and jealousy is a real emotion that can cause real distress^(1), no matter how much you would prefer to feel compersion. Even if it is the obvious solution to, like, half of everyone's relationship woes. The weird thing is that saying things like that has gotten me in trouble among more emotional company.
+>>>>>>> 
+>>>>>>> Love is said to *feel* like the strongest relationship in the world, but it *looks* like one of the weakest, and people *act* like it's fragile and could easily fall apart. Some of the less introspective people I've encountered don't just defend their relationship, they defend the *validity* of their relationship, as if that were in doubt, as if it were all lies and the whole house of cards might fall. I'm pretty sure it's more material than that. Humans are weird. But this behavior is hardly exclusive to love.
+>>>>>>> 
+>>>>>>> > I've managed to have not one but two lifelong friendships with girls I've fallen in love with that didn't reciprocate, I can attest that it doesn't impede the friendship at all as long as the person who does feel the romantic longing is mature and secure enough not to let it. 
+>>>>>>> 
+>>>>>>> Oh, tell me about it. Like half of my closest friends have asked me out^(2), including one who, after a few drinks, freely admits they'd still like to meet someone "like you, but available". I'm not quite sure how I'm supposed to take that, but I've friend-loved the lot of them for like fifteen years.
+>>>>>>> 
+>>>>>>> ^(1) My only experience with jealousy is, like, my dog responding more to someone else, and me being very slightly upset for maybe one second. Imagining love-jealous rage is like imagining bad-kerning rage. I can't get into that headspace. I just acknowledge that the sliding scale evidently does go high enough to cause real distress.
+>>>>>>> 
+>>>>>>> ^(2) Dating! A pox on whoever invented the thing. I have trouble even pretending to understand it. I've never been able to pin down the actual difference between dating and hanging out, aside from all parties agreeing on what word to use. But I've seen loving couples agree with me on that. The *culture* of romance is the *most* incomprehensible.
 
->>>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (2 days later)
 >>>>>>>> 
 >>>>>>>> >You're communicating better than many. I meant it as an actual metaphor. You're describing experiences that, to the best of my knowledge, I don't have
->>>>>>>> Excellent, just making sure we're on the same general page :)
->>>>>>>> > The weird thing is that saying things like that has gotten me in trouble among more emotional company.
->>>>>>>> The "One True Love" and "Soul Mate" narratives are incredibly strong in our culture. I'd blame a mix of religion and Disney, but those things have just reinforced the ancient mores: keeping the family unit restricted and functional was reinforced by religion as a "sacred" thing, and when that started falling out of favor, Disney and romantic comedies stepped in to give the irreverent a carrot instead of a stick.
->>>>>>>> (Oh man, I just realized that romantic comedies must be even more bizarre and irritating to those like yourself than the rest of us.  And rest assured, they're incredibly bizarre and irritating to the rest of us.)
->>>>>>>> >Love is said to feel like the strongest relationship in the world, but it looks like one of the weakest, and people act like it's fragile and could easily fall apart. 
->>>>>>>> Honestly, that's because the vast majority of loving relationships are not "Love."  They're a mix of lust/liking/possessiveness. Very few are built on a foundation of friendship first, and there are many people who stay in relationships simply because they don't want to be alone.
->>>>>>>> But because everyone has their own definition of what "I love you" means, and because "love" is the best interpretation of lust/liking/possessiveness, that's what people pattern-match their experiences to, because that's the one that puts themselves in the best light.
->>>>>>>> > Like half of my closest friends have asked me out, including one who, after a few drinks, freely admits they'd still like to meet someone "like you, but available". I'm not quite sure how I'm supposed to take that, but I've friend-loved the lot of them for like fifteen years.
->>>>>>>> If you're not looking for an exclusive friendship with the "trappings" of romance, you should take it as a compliment ;)
->>>>>>>> >My only experience with jealousy is, like, my dog responding more to someone else, and me being very slightly upset for maybe one second. Imagining love-jealous rage is like imagining bad-kerning rage.
->>>>>>>> Which definitely would be a nice thing for more people.  It sucks. Romantic jealousy truly is like an acid dragon writhing in your gut. That said, I've spent so much time and effort slaying mine that I actually might have gone too far for most monogamous relationships: my last one ended in large part because I didn't get jealous no matter what my girlfriend did, and she took that to mean I didn't care about her.  She didn't actually sleep with anyone, but she would confess to things like having sexual dreams about others, including my friends, to which I would say "That's fine. You can't control who you're attracted to, let alone who you dream about."  So it definitely causes signalling issues to those that are interested in exlusive romance, and OKC is full of profiles who mark that "Jealousy is healthy for a relationship."
->>>>>>>> >Dating! A pox on whoever invented the thing. I have trouble even pretending to understand it. I've never been able to pin down the actual difference between dating and hanging out, aside from all parties agreeing on what word to use. But I've seen loving couples agree with me on that. The culture of romance is the most incomprehensible.
->>>>>>>> It really is to everyone. There are so many social taboos and traditions around dating, and almost everyone's self worth is on the line to some degree, that navigating without getting tender bits of one's ego blown off takes extraordinary luck or grace.
 >>>>>>>> 
+>>>>>>>> Excellent, just making sure we're on the same general page :)
+>>>>>>>> 
+>>>>>>>> > The weird thing is that saying things like that has gotten me in trouble among more emotional company.
+>>>>>>>> 
+>>>>>>>> The "One True Love" and "Soul Mate" narratives are incredibly strong in our culture. I'd blame a mix of religion and Disney, but those things have just reinforced the ancient mores: keeping the family unit restricted and functional was reinforced by religion as a "sacred" thing, and when that started falling out of favor, Disney and romantic comedies stepped in to give the irreverent a carrot instead of a stick.
+>>>>>>>> 
+>>>>>>>> (Oh man, I just realized that romantic comedies must be even more bizarre and irritating to those like yourself than the rest of us.  And rest assured, they're incredibly bizarre and irritating to the rest of us.)
+>>>>>>>> 
+>>>>>>>> >Love is said to feel like the strongest relationship in the world, but it looks like one of the weakest, and people act like it's fragile and could easily fall apart. 
+>>>>>>>> 
+>>>>>>>> Honestly, that's because the vast majority of loving relationships are not "Love."  They're a mix of lust/liking/possessiveness. Very few are built on a foundation of friendship first, and there are many people who stay in relationships simply because they don't want to be alone.
+>>>>>>>> 
+>>>>>>>> But because everyone has their own definition of what "I love you" means, and because "love" is the best interpretation of lust/liking/possessiveness, that's what people pattern-match their experiences to, because that's the one that puts themselves in the best light.
+>>>>>>>> 
+>>>>>>>> > Like half of my closest friends have asked me out, including one who, after a few drinks, freely admits they'd still like to meet someone "like you, but available". I'm not quite sure how I'm supposed to take that, but I've friend-loved the lot of them for like fifteen years.
+>>>>>>>> 
+>>>>>>>> If you're not looking for an exclusive friendship with the "trappings" of romance, you should take it as a compliment ;)
+>>>>>>>> 
+>>>>>>>> >My only experience with jealousy is, like, my dog responding more to someone else, and me being very slightly upset for maybe one second. Imagining love-jealous rage is like imagining bad-kerning rage.
+>>>>>>>> 
+>>>>>>>> Which definitely would be a nice thing for more people.  It sucks. Romantic jealousy truly is like an acid dragon writhing in your gut. That said, I've spent so much time and effort slaying mine that I actually might have gone too far for most monogamous relationships: my last one ended in large part because I didn't get jealous no matter what my girlfriend did, and she took that to mean I didn't care about her.  She didn't actually sleep with anyone, but she would confess to things like having sexual dreams about others, including my friends, to which I would say "That's fine. You can't control who you're attracted to, let alone who you dream about."  So it definitely causes signalling issues to those that are interested in exlusive romance, and OKC is full of profiles who mark that "Jealousy is healthy for a relationship."
+>>>>>>>> 
+>>>>>>>> >Dating! A pox on whoever invented the thing. I have trouble even pretending to understand it. I've never been able to pin down the actual difference between dating and hanging out, aside from all parties agreeing on what word to use. But I've seen loving couples agree with me on that. The culture of romance is the most incomprehensible.
+>>>>>>>> 
+>>>>>>>> It really is to everyone. There are so many social taboos and traditions around dating, and almost everyone's self worth is on the line to some degree, that navigating without getting tender bits of one's ego blown off takes extraordinary luck or grace.
 
->>>>>>>>> **u/Anakiri** [+2] *
+>>>>>>>>> **u/Anakiri** [+2]  (4 days later)
 >>>>>>>>> 
 >>>>>>>>> > I just realized that romantic comedies must be even more bizarre and irritating to those like yourself than the rest of us. And rest assured, they're incredibly bizarre and irritating to the rest of us.
->>>>>>>>> I haven't actually been driven to violence, but I've definitely fantasized about destroying my TV, yes.
->>>>>>>>> > Honestly, that's because the vast majority of loving relationships are not "Love." They're a mix of lust/liking/possessiveness.
->>>>>>>>> Is there any way to distinguish lust/liking/possessiveness from capital 'L' Love? It looks to me like love can be supported with a web of friendship and trust and so on to form a strong relationship. But that doesn't sound like the love is the secret ingredient. If anything, that makes it sound like the *friendship* is the secret ingredient. Is the difference obvious in hindsight? Like, now that you love your current partner, you see that your last partner didn't mean anything to you, not really, not in the same way. But then, even that would sound quite suspicious to me.
->>>>>>>>> I have noticed that a lot of romantic language is possessive. Your partner is yours, for you to have and to hold etc. I was kind of hoping that was just an artifact of the language, because taken literally, it's kind of slavery-ish. I mostly just try not to think about it, and give people the benefit of the doubt, but romantic jealousy just looks even more possessive. Honestly, it kind of creeps me out.
->>>>>>>>> > I didn't get jealous no matter what my girlfriend did, and she took that to mean I didn't care about her. She didn't actually sleep with anyone, but she would confess to things like having sexual dreams about others, including my friends, to which I would say "That's fine. You can't control who you're attracted to, let alone who you dream about."
->>>>>>>>> \*boggle\*
->>>>>>>>> For what it's worth, in this aromantic's opinion, your position is the *obviously correct* position to take.
 >>>>>>>>> 
+>>>>>>>>> I haven't actually been driven to violence, but I've definitely fantasized about destroying my TV, yes.
+>>>>>>>>> 
+>>>>>>>>> > Honestly, that's because the vast majority of loving relationships are not "Love." They're a mix of lust/liking/possessiveness.
+>>>>>>>>> 
+>>>>>>>>> Is there any way to distinguish lust/liking/possessiveness from capital 'L' Love? It looks to me like love can be supported with a web of friendship and trust and so on to form a strong relationship. But that doesn't sound like the love is the secret ingredient. If anything, that makes it sound like the *friendship* is the secret ingredient. Is the difference obvious in hindsight? Like, now that you love your current partner, you see that your last partner didn't mean anything to you, not really, not in the same way. But then, even that would sound quite suspicious to me.
+>>>>>>>>> 
+>>>>>>>>> I have noticed that a lot of romantic language is possessive. Your partner is yours, for you to have and to hold etc. I was kind of hoping that was just an artifact of the language, because taken literally, it's kind of slavery-ish. I mostly just try not to think about it, and give people the benefit of the doubt, but romantic jealousy just looks even more possessive. Honestly, it kind of creeps me out.
+>>>>>>>>> 
+>>>>>>>>> > I didn't get jealous no matter what my girlfriend did, and she took that to mean I didn't care about her. She didn't actually sleep with anyone, but she would confess to things like having sexual dreams about others, including my friends, to which I would say "That's fine. You can't control who you're attracted to, let alone who you dream about."
+>>>>>>>>> 
+>>>>>>>>> \*boggle\*
+>>>>>>>>> 
+>>>>>>>>> For what it's worth, in this aromantic's opinion, your position is the *obviously correct* position to take.
 
->>>>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (4 days later)
 >>>>>>>>>> 
 >>>>>>>>>> >Is there any way to distinguish lust/liking/possessiveness from capital 'L' Love? It looks to me like love can be supported with a web of friendship and trust and so on to form a strong relationship. But that doesn't sound like the love is the secret ingredient. If anything, that makes it sound like the friendship is the secret ingredient. Is the difference obvious in hindsight? Like, now that you love your current partner, you see that your last partner didn't mean anything to you, not really, not in the same way. But then, even that would sound quite suspicious to me.
->>>>>>>>>> Like I said, everyone means something different when they say "I love you."
->>>>>>>>>> Some mean "I want to be yours and you be mine forever."
->>>>>>>>>> Some mean "I feel happy when I'm with you and think of you and sad when you're not around."
->>>>>>>>>> Some mean "Don't leave me, I can't stand the thought of life without you."
->>>>>>>>>> Some mean "You make life worth living."
->>>>>>>>>> Some mean "You're the best person I've ever met."
->>>>>>>>>> Some mean "I accept you for who you are."
->>>>>>>>>> Some mean "You accept me for who I am."
->>>>>>>>>> Some mean "I like being around you and I find you attractive and we don't fight too much."
->>>>>>>>>> And that's just a sample of the people who actually mean the words, of course.  Each one also means much more subtle things, like "I will support you no matter what you decide to do, so you're as happy as possible." while others mean "I will be honest with you no matter what the outcome, so you become the best version of yourself."
->>>>>>>>>> The best relationships I've seen are those where the two people's definitions match up as closely as possible.  If one person means "I find you attractive and like spending time with you," and the other means "Please don't leave me, I need you," there may be problems down the road in terms of space and clingyness.
->>>>>>>>>> But if Capital L "Love" is to mean anything as a word separate from  any other, in my view, it has to include this:
->>>>>>>>>> "I value your life and happiness *at least* as much as my own."
->>>>>>>>>> This removes the romance from it, as it also extends Love to include parents and siblings and children, or even very close friends sometimes.
->>>>>>>>>> And ultimately, it's that Love that drives the monogamous narrative, I think. It's the Holy Grail.
->>>>>>>>>> Because having just one person you Love and who Loves you means your priorities are straight.  For many people, how can you "Love" more than one person that much?  Wouldn't you have to choose between them at some points?
->>>>>>>>>> That's where a lot of people get stuck, of course, because a lot of people don't value anyone's life and happiness as much as their own, let alone above their own.  That doesn't make them bad people, but it does often preclude the traditional, singular, romantic Love of myth and legend.
 >>>>>>>>>> 
+>>>>>>>>>> Like I said, everyone means something different when they say "I love you."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "I want to be yours and you be mine forever."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "I feel happy when I'm with you and think of you and sad when you're not around."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "Don't leave me, I can't stand the thought of life without you."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "You make life worth living."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "You're the best person I've ever met."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "I accept you for who you are."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "You accept me for who I am."
+>>>>>>>>>> 
+>>>>>>>>>> Some mean "I like being around you and I find you attractive and we don't fight too much."
+>>>>>>>>>> 
+>>>>>>>>>> And that's just a sample of the people who actually mean the words, of course.  Each one also means much more subtle things, like "I will support you no matter what you decide to do, so you're as happy as possible." while others mean "I will be honest with you no matter what the outcome, so you become the best version of yourself."
+>>>>>>>>>> 
+>>>>>>>>>> The best relationships I've seen are those where the two people's definitions match up as closely as possible.  If one person means "I find you attractive and like spending time with you," and the other means "Please don't leave me, I need you," there may be problems down the road in terms of space and clingyness.
+>>>>>>>>>> 
+>>>>>>>>>> But if Capital L "Love" is to mean anything as a word separate from  any other, in my view, it has to include this:
+>>>>>>>>>> 
+>>>>>>>>>> "I value your life and happiness *at least* as much as my own."
+>>>>>>>>>> 
+>>>>>>>>>> This removes the romance from it, as it also extends Love to include parents and siblings and children, or even very close friends sometimes.
+>>>>>>>>>> 
+>>>>>>>>>> And ultimately, it's that Love that drives the monogamous narrative, I think. It's the Holy Grail.
+>>>>>>>>>> 
+>>>>>>>>>> Because having just one person you Love and who Loves you means your priorities are straight.  For many people, how can you "Love" more than one person that much?  Wouldn't you have to choose between them at some points?
+>>>>>>>>>> 
+>>>>>>>>>> That's where a lot of people get stuck, of course, because a lot of people don't value anyone's life and happiness as much as their own, let alone above their own.  That doesn't make them bad people, but it does often preclude the traditional, singular, romantic Love of myth and legend.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (21 hours later)
 >>>> 
 >>>> You might be asexual, but I'm fairly sure you still have a brain that would respond to oxytocin and your body should produce it under *some* circumstances.  There really shouldn't be *that* large a gap in emotional experiences.
->>>> 
 
->>>>> **u/Anakiri** [+1] *
+>>>>> **u/Anakiri** [+1]  (22 hours later)
 >>>>> 
 >>>>> Eh maybe. I'm schizoid. That comes with being asexual, aromantic, and having a poor grasp of my own emotions. It's possible I've felt something like romantic attraction before and just failed to recognize it, but I don't remember anything that would fit that. If I've had any experience with the feeling at all, it wasn't anything like what most people describe.
->>>>> 
 
-> **u/SmallSubBot** [+2] *
+> **u/SmallSubBot** [+2]  (15 seconds later)
 > 
 > Link for the interested:
-> /r/punchingmorpheus: This subreddit is dedicated to those who want to throw off society's expect[...]
-> ---
-> ^This ^is ^a ^bot ^and ^won't ^answer ^to ^mails. ^Mail ^the ^[[Botowner](http://www.reddit.com/message/compose/?to=DarkMio&amp;subject=BotReport)] ^instead. ^v0.4 ^| ^[Changelog](http://redd.it/29f2ah)
 > 
+> /r/punchingmorpheus: This subreddit is dedicated to those who want to throw off society's expect[...]
+> 
+> ---
+> 
+> ^This ^is ^a ^bot ^and ^won't ^answer ^to ^mails. ^Mail ^the ^[[Botowner](http://www.reddit.com/message/compose/?to=DarkMio&amp;subject=BotReport)] ^instead. ^v0.4 ^| ^[Changelog](http://redd.it/29f2ah)
 
-> **u/blazinghand** [+2]  *Chaos Undivided**
+> **u/blazinghand** [+2]  *Chaos Undivided* (3 hours later)
 > 
 > Looks interesting. I may check it out and see if there are interesting reads. I don't think I understand "Redpill" enough to argue against it. It relies on assumptions or common experiences I don't have.
-> 
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (3 hours later)
 >> 
 >> Great :) No Red Pill knowledge is necessary: just being able to identify harmful beliefs and behaviors puts you ahead of their games, and the real value is in reading and sharing healthy and rational perspectives/solutions to romantic troubles.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/05/07/chapter-10-allegro/
-* Score: 66
+* Score: 67
 
 * Created: 2018-05-07T04:00:38
 
@@ -12,319 +12,310 @@
 
 ### Comments:
 
-> **u/sharikak54** [+19] *
+> **u/sharikak54** [+20]  (6 hours later)
 > 
 > From the comments:
-> >> “Wasn’t able to get all the Names,” Thief said. “But I do have a number for you: there’s fourteen of them.” – Chapter 5.
-> >> 
-> >> Ouch, so the fight with Absence did not happen without casualties.
-
-> (Credit to agumentic)
 > 
+> >> “Wasn’t able to get all the Names,” Thief said. “But I do have a number for you: there’s fourteen of them.” – Chapter 5.
+> 
+> >> 
+> 
+> >> Ouch, so the fight with Absence did not happen without casualties.
+> 
+> (Credit to agumentic)
 
->> **u/hoja_nasredin** [+7]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+9]  *Dai-Gurren Brigade* (7 hours later)
 >> 
 >> or the 2 missing heroes could be somewhere else-scouting or spying deep in enemy territory.
->> Or just the two main named could have been excluded.
 >> 
+>> Or just the two main named could have been excluded.
 
->>> **u/panchoadrenalina** [+19] *
+>>> **u/panchoadrenalina** [+20]  (9 hours later)
 >>> 
 >>> No it did happen. There is another clue. Cat says that she hadnt noticed before that they were a line and two officers or ten plus two.
->>> This is so clever EE
 >>> 
+>>> This is so clever EE
 
->>>> **u/Empiricist_or_not** [+9]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+9]  *Aspiring polite Hegemonizing swarm* (20 hours later)
 >>>> 
 >>>> The PTGE subreddit had also pointed out that the URL for chapter 9 calls it chapter 10 (a bit down in the comments) a la pact 6.11, Cat's headache, and there is EE basically giving WOG confirmation of the fight.
+>>>> 
 >>>> [Can we all agree that the Interlude where the Heroes fought that Absence demon was the best so far?](https://www.reddit.com/r/PracticalGuideToEvil/comments/8hmn47/can_we_all_agree_that_the_interlude_where_the/)
+>>>> 
 >>>> >ErraticErrata 
 >>>> >I'm glad it's appreciated, took days to write.
->>>> 
 
->>> **u/Razorhead** [+3] *
+>>> **u/Razorhead** [+3]  (8 hours later)
 >>> 
 >>> Yeah, Grey Pilgrim and Saint of Swords might not be with the rest of the heroes.
->>> 
 
-> **u/Yes_This_Is_God** [+12] *
+> **u/Yes_This_Is_God** [+11]  (15 minutes later)
 > 
 > Oh, so that's Headsman.
-> 
 
->> **u/Empiricist_or_not** [+11]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+12]  *Aspiring polite Hegemonizing swarm* (21 minutes later)
 >> 
 >> I thought it would be.  The real ~~BRRR~~ chilling idea in this chapter is the thought of a winter Robber.
->> Edit: Proper Engrish
 >> 
+>> Edit: Proper Engrish
 
->>> **u/ashinator92** [+7] *
+>>> **u/ashinator92** [+7]  (an hour later)
 >>> 
 >>> BRRR?
->>> 
 
->>>> **u/Zayits** [+4] *
+>>>> **u/Zayits** [+4]  (an hour later)
 >>>> 
 >>>> > Th- this is my Role! It was made for me!
->>>> 
 
->>>>> **u/Sarkavonsy** [+1] *
+>>>>> **u/Sarkavonsy** [+1]  (15 hours later)
 >>>>> 
 >>>>> You're thinking of "drrr," sorry. Here's a consolation upvote though.
->>>>> 
 
->>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (19 hours later)
 >>>> 
 >>>> Sorry I was just headed to bed;  the chilling part.
->>>> 
 
->> **u/chloeia** [+2] *
+>> **u/chloeia** [+2]  (a day later)
 >> 
 >> What exactly is Headsman?... I still don't get it.
->> 
 
->>> **u/HPMOR_fan** [+4] *
+>>> **u/HPMOR_fan** [+4]  (a day later)
 >>> 
 >>> The code name for the operation to assassinate officers in their army. What we just learned in this chapter is how. The Fae enter through a scrying bowl that was with the Watch.
->>> 
 
->>>> **u/chloeia** [+3] *
+>>>> **u/chloeia** [+3]  (a day later)
 >>>> 
 >>>> Ah, I did understand that it was the assasination op., but missed that fact that they used the scrying bowl to get into the enemy camp. I'd been wondering why they went to Daoine. Thanks!
->>>> 
 
->>>>> **u/CommonMisspellingBot** [+1] *
+>>>>> **u/CommonMisspellingBot** [+1]  (a day later)
 >>>>> 
 >>>>> Hey, chloeia, just a quick heads-up:  
 >>>>> **assasination** is actually spelled **assassination**. You can remember it by **two double s’s**.  
 >>>>> Have a nice day!
->>>>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 >>>>> 
+>>>>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 
->>>>>> **u/chloeia** [+1] *
+>>>>>> **u/chloeia** [+1]  (a day later)
 >>>>>> 
 >>>>>> Oh! you mean like this? : asassination
->>>>>> 
 
-> **u/AurelianoTampa** [+11] *
+> **u/AurelianoTampa** [+10]  (9 hours later)
 > 
 > >Strange, it hadn’t occurred to me before now that the muster of heroes on the other side was essentially a tenth and two officers. I had been tired, and there’d been a few days a while back where I’d had vicious headaches. Must have been the lack of sleep having unforeseen consequences. We were all feeling the pressure: even Vivienne and Masego had been out of sorts.
-> This stood out to me. The commentators seem to think that this and the differing number of heroes (14 a few chapters ago, only 12 now) means that Absence was discovered, fought, and erased two of the heroes, as well as the memory of the battle from everyone's mind. Not sure if that's the case, but I don't know what else this headache could mean. Also not sure why them making up a tenth and two officers is important.
 > 
+> This stood out to me. The commentators seem to think that this and the differing number of heroes (14 a few chapters ago, only 12 now) means that Absence was discovered, fought, and erased two of the heroes, as well as the memory of the battle from everyone's mind. Not sure if that's the case, but I don't know what else this headache could mean. Also not sure why them making up a tenth and two officers is important.
 
->> **u/ForgottenToupee** [+10] *
+>> **u/ForgottenToupee** [+10]  (9 hours later)
 >> 
 >> That would be top notch (consistency? Word building? Story interaction?)  if Absence did make everyone forget about two heroes and it was never mentioned again. It might be that Saint and Pilgrim aren’t with them, but I think it’s better if it’s Absence. After Books 2 and 3, Demons just aren’t interesting anymore and I would prefer it if that particular fight happened off screen. 
->> I think it’s a symbolic parallel, but I have no idea where EE is going with it
 >> 
+>> I think it’s a symbolic parallel, but I have no idea where EE is going with it
 
->>> **u/HPMOR_fan** [+10] *
+>>> **u/HPMOR_fan** [+9]  (12 hours later)
 >>> 
 >>> Saint and Pilgrim are there.
->>> > There’s a hero on them at all times, and the two old timers visited a while back.
->>> And just after that
->>> >My lips quirked. We’d known going in that the odds of a truth-teller being along with the crusade were high, and we’d planned accordingly.
->>> So she remembers Pilgrim.
 >>> 
+>>> > There’s a hero on them at all times, and the two old timers visited a while back.
+>>> 
+>>> And just after that
+>>> 
+>>> >My lips quirked. We’d known going in that the odds of a truth-teller being along with the crusade were high, and we’d planned accordingly.
+>>> 
+>>> So she remembers Pilgrim.
 
->> **u/panchoadrenalina** [+8] *
+>> **u/panchoadrenalina** [+7]  (10 hours later)
 >> 
 >> I think is important because Cat is doubling down in the fact that "yes they were twelve and always were twelve" when we know for a fact they were not.
->> 
 
->> **u/Frommerman** [+2] *
+>> **u/Frommerman** [+2]  (a day later)
 >> 
 >> Was anyone in the Woe not mentioned in this chapter?
->> 
 
->>> **u/chloeia** [+2] *
+>>> **u/chloeia** [+2]  (a day later)
 >>> 
 >>> You just gave me a chill down my spine.
->>> Nope. I think everyone's accounted for.
 >>> 
+>>> Nope. I think everyone's accounted for.
 
-> **u/panchoadrenalina** [+10] *
+> **u/panchoadrenalina** [+11]  (24 minutes later)
 > 
 > great chapter so many good things going on, Cat can give winter mantles, she basically corrupted Thief into villiany, I imagine Daoine is giving cat full support, what did she offer her? and the Wild Hunt is ~~comming~~ coming to munch on the Leaders of the Crusade.
-> What did Diabolist's Call aspect did?
-> Edit, another thing confirmation that Cat still owes the crowns to Larat
 > 
+> What did Diabolist's Call aspect did?
+> 
+> Edit, another thing confirmation that Cat still owes the crowns to Larat
 
->> **u/HallowedThoughts** [+11] *
+>> **u/HallowedThoughts** [+12]  (27 minutes later)
 >> 
 >> Diabolist's Call let her directly control a thousand devils. I imagine Cat's version would be similar but with Fae, although I wouldn't be surprised if Larat had a way to avoid it. Also, Thief being corrupted into a villain makes me pretty sad ngl :( I liked it when they had a hero in the Woe, but I guess that doesn't fit the narrative anymore
->> 
 
->>> **u/Razorhead** [+7] *
+>>> **u/Razorhead** [+9]  (4 hours later)
 >>> 
 >>> I don't think she's a villain though, Thief is a neutral Name. I think before she was just on the Good side of neutral, while now she's on the Evil side.
->>> Remember that while she was with William she was one of the people on the party who didn't agree with the summoning of the Angel, and while she's a bit more cynical and ruthless now, speaking in favour of Headsman, she still tries to limit human casualties wherever she can.
 >>> 
+>>> Remember that while she was with William she was one of the people on the party who didn't agree with the summoning of the Angel, and while she's a bit more cynical and ruthless now, speaking in favour of Headsman, she still tries to limit human casualties wherever she can.
 
->>>> **u/HallowedThoughts** [+5] *
+>>>> **u/HallowedThoughts** [+3]  (5 hours later)
 >>>> 
 >>>> Fair enough. I wouldn't be surprised if she did go full villain at some point unless Cat takes measures to limit her negative influence
->>>> 
 
->>>> **u/HPMOR_fan** [+4] *
+>>>> **u/HPMOR_fan** [+5]  (7 hours later)
 >>>> 
 >>>> How do neutral villains work? Are they really neutral in the eyes of the gods or does it just mean an individual Named can be either hero or villain?
->>>> 
 
->>>>> **u/PotentiallySarcastic** [+3] *
+>>>>> **u/PotentiallySarcastic** [+3]  (a day later)
 >>>>> 
 >>>>> Neutrals just kind of hop back and forth across the line and who they ally themselves with. Like Ranger is a neutral, which allows her to move a bout much more freely than the true evil version of that name.
->>>>> If Cat is actually corrupting Thief, she may get a name change into something more evilly inclined.
 >>>>> 
+>>>>> If Cat is actually corrupting Thief, she may get a name change into something more evilly inclined.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (10 hours later)
 >>> 
 >>> Same, I was hoping for even more heros joining and balancing the villany allowing for callow to have a true happy ending being a neutral country leaded by a overall neutral force.
->>> 
 
->>>> **u/HPMOR_fan** [+3] *
+>>>> **u/HPMOR_fan** [+3]  (a day later)
 >>>> 
 >>>> The end game is to go beyond good and evil. That's only become clear to me in the last few chapters. Cat wants the world to be run by human decisions and laws made for the good of the many. But the structure of the world requires "good" vs "evil" which do not map onto utilitarian good. Heroes and Villains will always exist, so Cat wants to confine them to do battle in a fighting pit. They can have their stories and kill each other where they don't ruin the lives of ordinary people.
->>>> 
 
->>> **u/renegadeduck** [+2]  *picky but enthusiastic**
+>>> **u/renegadeduck** [+2]  *picky but enthusiastic* (19 hours later)
 >>> 
 >>> One of the themes has been Good and Evil versus good and evil.
->>> Cat has been playing that out on a practical level, and it's only natural that starts affecting the broader narrative and the Names. Cat has huge narrative importance and that's reality-bending in this world.
->>> I think on a narrative level Cat has to more explicitly move beyond Good and Evil. I'm excited to find out whether she does that by becoming fully Fae, or by some other means. I'm hoping it's the latter!
 >>> 
+>>> Cat has been playing that out on a practical level, and it's only natural that starts affecting the broader narrative and the Names. Cat has huge narrative importance and that's reality-bending in this world.
+>>> 
+>>> I think on a narrative level Cat has to more explicitly move beyond Good and Evil. I'm excited to find out whether she does that by becoming fully Fae, or by some other means. I'm hoping it's the latter!
 
->>>> **u/HallowedThoughts** [+2] *
+>>>> **u/HallowedThoughts** [+2]  (20 hours later)
 >>>> 
 >>>> She did mention laying down rules of engagrment between Named so that regular people don't get dragged into their fights. I'm hoping that she can pull that off, then abdicate and relinquish her fae abilities, altnough it surely won't be that easy
->>>> 
 
->> **u/Oaden** [+5] *
+>> **u/Oaden** [+5]  (6 hours later)
 >> 
 >> Daoine can be offered two things, aid with their gestalt, or vengeance against the golden bloom
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (10 hours later)
 >> 
 >> > and the Wild Hunt is comming coming to munch on the Leaders of the Crusade.
->> Not the leaders of the Crusade, the lowborn officer's in the Crusader army. It serves multiple goals. 
->> First it is a show of force, a way to communicate to the enemy that she could kill any of them at any time. 
->> Second it reduces the enemies capabilities by reducing the amount of officers they have to lead their troops. 
->> Third, and most importantly, it accomplishes the first two without pissing off anyone politically connected. If she kills highborn officers, their families will oppose any peace - so she must target the lowborn officers.
 >> 
+>> Not the leaders of the Crusade, the lowborn officer's in the Crusader army. It serves multiple goals. 
+>> 
+>> First it is a show of force, a way to communicate to the enemy that she could kill any of them at any time. 
+>> 
+>> Second it reduces the enemies capabilities by reducing the amount of officers they have to lead their troops. 
+>> 
+>> Third, and most importantly, it accomplishes the first two without pissing off anyone politically connected. If she kills highborn officers, their families will oppose any peace - so she must target the lowborn officers.
 
->>> **u/CommonMisspellingBot** [-1] *
+>>> **u/CommonMisspellingBot** [-4]  (10 hours later)
 >>> 
 >>> Hey, AntiChri5, just a quick heads-up:  
 >>> **comming** is actually spelled **coming**. You can remember it by **one m**.  
 >>> Have a nice day!
->>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 >>> 
+>>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 
->>>> **u/renegadeduck** [+3]  *picky but enthusiastic**
+>>>> **u/renegadeduck** [+3]  *picky but enthusiastic* (19 hours later)
 >>>> 
 >>>> It would be nice if the bot ignored misspellings within Markdown quotes.
->>>> 
 
->> **u/CommonMisspellingBot** [+4] *
+>> **u/CommonMisspellingBot** [+4]  (25 minutes later)
 >> 
 >> Hey, panchoadrenalina, just a quick heads-up:  
 >> **comming** is actually spelled **coming**. You can remember it by **one m**.  
 >> Have a nice day!
->> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 >> 
+>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 
-> **u/Razorhead** [+6] *
+> **u/Razorhead** [+6]  (5 hours later)
 > 
 > I think we should all be a bit more concerned with the fact that apparently Cat can create magical artefacts now, and as we all know those things tend to backfire more often than not for Villains. Black had even stated this multiple times.
-> And now Catherine can turn Aspects (and presumably Winter boons) into items? And she intends to use them?
-> There is no way this ends well.
 > 
+> And now Catherine can turn Aspects (and presumably Winter boons) into items? And she intends to use them?
+> 
+> There is no way this ends well.
 
->> **u/Zayits** [+10] *
+>> **u/Zayits** [+8]  (8 hours later)
 >> 
 >> They backfire if you *rely* on them, which makes stuff like flying fortresses and magical swords a more unreliable variety of the artifacts, since they are used continuously until they break. The artifacts that have discrete uses (like the Greater Breach generator in Liesse) are essentially guaranteed to work at least once when properly foreshadowed. This is why stuff like the signal whistle and the Stairway is remarkably story-proof: they both were designed to work only once.
->> 
 
-> **u/Ardvarkeating101** [+12]  *Father of Learning**
+> **u/Ardvarkeating101** [+13]  *Father of Learning* (an hour later)
 > 
 > I'm calling it right now that there are two outcomes for this book:
-> Callow falls
-> or
-> Cat rips herself free of winter and ends up with some other Name like Foundling or Black Queen or something.
-
-> or both I suppose.
-> It is becoming abundantly clear that Cat cannot continue the string of successes she's had if she's constantly having her mental processes fucked with by Winter.  It doesn't matter that she knows it or can plan against it, it's too powerful a checkov's gun to not fire into her foot at this point.
 > 
+> Callow falls
+> 
+> or
+> 
+> Cat rips herself free of winter and ends up with some other Name like Foundling or Black Queen or something.
+> 
+> or both I suppose.
+> 
+> It is becoming abundantly clear that Cat cannot continue the string of successes she's had if she's constantly having her mental processes fucked with by Winter.  It doesn't matter that she knows it or can plan against it, it's too powerful a checkov's gun to not fire into her foot at this point.
 
-> **u/WalterTFD** [+5] *
+> **u/WalterTFD** [+6]  (9 hours later)
 > 
 > Some thoughts:
+> 
 > 1: A 'squad' of heroes is probably less dangerous than one.
 > 2: Archer shutting down Jasper is all I want in life.
 > 3: Cat and the Wild Hunt sure do seem like they are about to run straight into Saint/Pilgrim.
-> 
 
->> **u/AurelianoTampa** [+4] *
+>> **u/AurelianoTampa** [+3]  (11 hours later)
 >> 
 >> >1: A 'squad' of heroes is probably less dangerous than one.
->> Yep. In a world running on narrative tropes, I imagine [conservation of ninjutsu](http://tvtropes.org/pmwiki/pmwiki.php/Main/ConservationOfNinjutsu) is in effect.
 >> 
+>> Yep. In a world running on narrative tropes, I imagine [conservation of ninjutsu](http://tvtropes.org/pmwiki/pmwiki.php/Main/ConservationOfNinjutsu) is in effect.
 
->> **u/renegadeduck** [+3]  *picky but enthusiastic**
+>> **u/renegadeduck** [+3]  *picky but enthusiastic* (20 hours later)
 >> 
 >> > _“Irritant’s Law: inevitable doom is a finite resource, and becomes mere doom when split between multiple heroic bands. Nemeses should never simultaneously engage a single villain.”_
->> > – Extract from ‘The Axiom Appendix’, multiple contributors
->> From [book IV, chapter 6](https://practicalguidetoevil.wordpress.com/2018/04/25/chapter-6-hedges/). Presumably the opposite is true as well.
 >> 
+>> > – Extract from ‘The Axiom Appendix’, multiple contributors
+>> 
+>> From [book IV, chapter 6](https://practicalguidetoevil.wordpress.com/2018/04/25/chapter-6-hedges/). Presumably the opposite is true as well.
 
->>> **u/Roxaryz** [+2] *
+>>> **u/Roxaryz** [+2]  (a day later)
 >>> 
 >>> Dread Emperor Irritant I, the Oddly Successful did not get his Title by failing.
->>> 
 
-> **u/TheEngineer923** [+6] *
+> **u/TheEngineer923** [+7]  (2 hours later)
 > 
 > Huh, I don't think Thief is "corrupted" at all. Corruption has negative connotations and the realization she came to is anything but. 
-> The only  Gods worth believing in are the Gods Below because they champion agency. You can do whatever you want. It's just that most people who swear themselves to them tend to have homicidal and/or sociopathic tendencies. 
-> In other news, this Crusade doesn't seem like a Crusade to me. The folks in it don't seem "brainwashed to fight any evil anywhere at all costs" (Book 2). If this was the case then Cordelia wouldn't need to have struggled to get the Dominion or her allies committed to the cause. The Angels can just descend from the Heavens in each Principate, brainwash everyone and declare somebody in Procer as the champion of the Crusade. Said Champion can then lead all the armies East. Why haven't we seen this brainwashing yet?
 > 
+> The only  Gods worth believing in are the Gods Below because they champion agency. You can do whatever you want. It's just that most people who swear themselves to them tend to have homicidal and/or sociopathic tendencies. 
+> 
+> In other news, this Crusade doesn't seem like a Crusade to me. The folks in it don't seem "brainwashed to fight any evil anywhere at all costs" (Book 2). If this was the case then Cordelia wouldn't need to have struggled to get the Dominion or her allies committed to the cause. The Angels can just descend from the Heavens in each Principate, brainwash everyone and declare somebody in Procer as the champion of the Crusade. Said Champion can then lead all the armies East. Why haven't we seen this brainwashing yet?
 
->> **u/NotACauldronAgent** [+11]  *Probably**
+>> **u/NotACauldronAgent** [+13]  *Probably* (2 hours later)
 >> 
 >> I don’t think all crusades were brainwashed? Some were merely anti-evil, like this one.
->> 
 
->> **u/None** [+9] *
+>> **u/None** [+9]  (10 hours later)
 >> 
 >> > The only Gods worth believing in are the Gods Below because they champion agency. You can do whatever you want.
->> Unless it goes against their plans, like making Praes sustainable without sacrifices and invasions. In which case you will die rather quickly.
 >> 
+>> Unless it goes against their plans, like making Praes sustainable without sacrifices and invasions. In which case you will die rather quickly.
 
->>> **u/Sarkavonsy** [+6] *
+>>> **u/Sarkavonsy** [+7]  (15 hours later)
 >>> 
 >>> Really, the lesson here is "gods that preside over worlds which contain suffering are almost always evil." Below or Above, they're all just passively watching the grinder and occasinally tossing in some peanuts.
->>> 
 
->>>> **u/MutantMannequin** [+2] *
+>>>> **u/MutantMannequin** [+2]  (a day later)
 >>>> 
 >>>> There are no "good gods", boy.
->>>> 
 
->> **u/CouteauBleu** [+4]  *We are the Empire.**
+>> **u/CouteauBleu** [+4]  *We are the Empire.* (3 hours later)
 >> 
 >> It could be that, Good and Evil aside, the Gods Below are subtly influencing Thief (and everyone else)'s thoughts to be more cynical and individualistic, without actually making her selfish or callous.
->> But yeah, that doesn't have to be the case at all. We didn't need manipulative gods to get the Versailles Treaty.
 >> 
+>> But yeah, that doesn't have to be the case at all. We didn't need manipulative gods to get the Versailles Treaty.
 
-> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (6 hours later)
 > 
 > I just remembered that a side beside Good an Evil exit:
-
-> NICE
-
-> https://www.youtube.com/watch?v=aasECsxrSzQ
 > 
+> NICE
+> 
+> https://www.youtube.com/watch?v=aasECsxrSzQ
 
 ---
 

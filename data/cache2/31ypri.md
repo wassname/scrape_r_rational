@@ -2,7 +2,7 @@
 
 * Author: u/omgimpwned  *Sunshine Regiment**
 * URL: https://infireforged.wordpress.com/2015/04/08/so-whats-taking-so-long-anyway/
-* Score: 20
+* Score: 21
 
 * Created: 2015-04-09T04:48:56
 
@@ -12,174 +12,169 @@
 
 ### Comments:
 
-> **u/omgimpwned** [+7]  *Sunshine Regiment**
+> **u/omgimpwned** [+7]  *Sunshine Regiment* (37 seconds later)
 > 
 > I tried posting this before, but I think it got swallowed by the filter. I'll try again, a little differently this time.
-> **TL;DR:** *In Fire Forged now has a regularly updating blog and prose is being actively written again at faster-than-snail pace without being deleted immediately thereafter as unworkable.*
-> Hello there, everyone. It's been a long time. Some of you may have read or heard of the story I once started posting about on this subreddit, others may not have.
-> It's called In Fire Forged, and it's a massively AU rational Naruto-fic which will later have some rationalist features as the characters mature and grow. Since I posted here last, a truly massive amount of world-building and plotting has gone into the story. I now feel much more confident about continuing to write, since the impending (and preceding) plot is no longer hanging by the thinnest of threads backed only by my intuition that "things were going to work out fine if I just plowed ahead."
-> There are more details on why I stopped writing for a while at the blog, which will be the go to place for any further updates on the story's progress. The blog's setup is not yet complete, but I can't offhand think of anything that it absolutely needs that wouldn't take a huge amount of time to create (such as a glossary of terms and/or characters, which I am considering). Suggestions are welcome.
-> I beg the mods' forgiveness for this first announcement not being strictly a piece of rational fiction. I will forgo mentioning my twice-monthly progress updates here in the future, but will post links to the lore and world-building posts as that seems safely on topic.
-> I've already got one such post cooking, on the topic of how chakra works in general, and I think it will go up sometime this week or the next.
-> Lastly, I hope you folks can forgive me for the delay as I slammed on the brakes and paused to pick up the pieces, but I think we're going to see a somewhat smoother ride from here on out.
 > 
+> **TL;DR:** *In Fire Forged now has a regularly updating blog and prose is being actively written again at faster-than-snail pace without being deleted immediately thereafter as unworkable.*
+> 
+> Hello there, everyone. It's been a long time. Some of you may have read or heard of the story I once started posting about on this subreddit, others may not have.
+> 
+> It's called In Fire Forged, and it's a massively AU rational Naruto-fic which will later have some rationalist features as the characters mature and grow. Since I posted here last, a truly massive amount of world-building and plotting has gone into the story. I now feel much more confident about continuing to write, since the impending (and preceding) plot is no longer hanging by the thinnest of threads backed only by my intuition that "things were going to work out fine if I just plowed ahead."
+> 
+> There are more details on why I stopped writing for a while at the blog, which will be the go to place for any further updates on the story's progress. The blog's setup is not yet complete, but I can't offhand think of anything that it absolutely needs that wouldn't take a huge amount of time to create (such as a glossary of terms and/or characters, which I am considering). Suggestions are welcome.
+> 
+> I beg the mods' forgiveness for this first announcement not being strictly a piece of rational fiction. I will forgo mentioning my twice-monthly progress updates here in the future, but will post links to the lore and world-building posts as that seems safely on topic.
+> 
+> I've already got one such post cooking, on the topic of how chakra works in general, and I think it will go up sometime this week or the next.
+> 
+> Lastly, I hope you folks can forgive me for the delay as I slammed on the brakes and paused to pick up the pieces, but I think we're going to see a somewhat smoother ride from here on out.
 
->> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (49 minutes later)
 >> 
 >> I'm not sure what happened, but [post approved].
->> 
 
->>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>> **u/omgimpwned** [+1]  *Sunshine Regiment* (51 minutes later)
 >>> 
 >>> Cheers!
->>> 
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+3]  *Carthago delenda est.* (an hour later)
 >> 
 >> Rational Naruto is a very popular choice, it seems. Waves Arisen, Lighting up the Dark, Team Anko, this, and my own hobby reworking of canon.
->> Delicious...
 >> 
+>> Delicious...
 
->>> **u/omgimpwned** [+2]  *Sunshine Regiment**
+>>> **u/omgimpwned** [+2]  *Sunshine Regiment* (an hour later)
 >>> 
 >>> I haven't read Waves Arisen. Is it good?
->>> 
 
->>>> **u/INeedAUsernameToo** [+10] *
+>>>> **u/INeedAUsernameToo** [+8]  (5 hours later)
 >>>> 
 >>>> Yes.
->>>> [Here you go.](https://wertifloke.wordpress.com/2015/01/25/chapter-1/)
 >>>> 
+>>>> [Here you go.](https://wertifloke.wordpress.com/2015/01/25/chapter-1/)
 
->>>>> **u/t3tsubo** [+5] *
+>>>>> **u/t3tsubo** [+5]  (8 hours later)
 >>>>> 
 >>>>> You just single handedly raised the number of future character deaths in In Fire Forged
->>>>> 
 
->>>>>> **u/omgimpwned** [+3]  *Sunshine Regiment**
+>>>>>> **u/omgimpwned** [+3]  *Sunshine Regiment* (12 hours later)
 >>>>>> 
 >>>>>> Careful, now.
->>>>>> 
 
->>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life* (5 hours later)
 >>>> 
 >>>> It's excellent.
->>>> 
 
->>>> **u/gamarad** [+3]  *LessWrong (than usual)**
+>>>> **u/gamarad** [+3]  *LessWrong (than usual)* (10 hours later)
 >>>> 
 >>>> I'm going to go against popular opinion and say that it wasn't that great. It had a lot of good ideas but there were a lot of flaws in the execution of those ideas. That being said it was engaging enough that I read the whole story.
->>>> 
 
->>>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+>>>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity* (6 hours later)
 >>>> 
 >>>> I loved it. I'd say it's worth reading
->>>> 
 
->>>> **u/Anderkent** [+2] *
+>>>> **u/Anderkent** [+2]  (9 hours later)
 >>>> 
 >>>> It was all right, but more in the sense of cute worldbuilding on top of canon than a captivating story or convincing characters.
->>>> Still, it's not very long so I'd say it's worth a read. Curious what you'll think about it.
 >>>> 
+>>>> Still, it's not very long so I'd say it's worth a read. Curious what you'll think about it.
 
->> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (11 hours later)
 >> 
 >> Don't feel bad at all for not updating, I know life happens. However, I am quite glad of this blog! I love reading details regarding the creation of works of fiction, whether it's of game development or a blog on what an author's been doing. Looking forward to it!
->> 
 
-> **u/Bobertus** [+6] *
+> **u/Bobertus** [+5]  (3 hours later)
 > 
 > I'll be honest. While *I* hadn't forgotten about In Fire Forged, I did think *you* might have. I'm glad you haven't, though I don't think you owe anyone an explanation. I really liked what you had written, I especially liked the characterization of Sakura.
-> 
 
-> **u/triangleman83** [+3] *
+> **u/triangleman83** [+3]  (9 hours later)
 > 
 > I just wanted to say that while I had heard of it for many years, I had no experience in the world of Naruto until I read IFF's 8 chapters back last year during Labor day weekend.  I was in the Keys with a bunch of women and spent the time outside by the pool with my Kindle reading.  I don't think I'll ever watch Naruto because it's a billion episodes but your story is definitely something I want to continue because just those 8 chapters built up a lot of possibility and were executed very well.  Your writing channels  Wildbow's Skitter with the 1st person female lead and also EY's Professor Quirrel with Kakashi, which are obviously two very interesting characters.  Keep it up and looking forward to the new stories!
-> 
 
->> **u/Gworn** [+2] *
+>> **u/Gworn** [+2]  (10 hours later)
 >> 
 >> > I don't think I'll ever watch Naruto because it's a billion episodes
->> I'd recommend trying the manga. You can read/skim it at your own pace. The anime has a lot of filler episodes that make even less sense than the canon events. At least the first few hundred chapters are quite fun. The last third (or half) is pretty disappointing, so stop when you notice that you're rolling your eyes too much.
->> You can find it in some libraries and many book shops. Also on the Internet if you know where to look.
 >> 
+>> I'd recommend trying the manga. You can read/skim it at your own pace. The anime has a lot of filler episodes that make even less sense than the canon events. At least the first few hundred chapters are quite fun. The last third (or half) is pretty disappointing, so stop when you notice that you're rolling your eyes too much.
+>> 
+>> You can find it in some libraries and many book shops. Also on the Internet if you know where to look.
 
->>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>> **u/omgimpwned** [+1]  *Sunshine Regiment* (12 hours later)
 >>> 
 >>> > The last third (or half) is pretty disappointing, so stop when you notice that you're rolling your eyes too much.
->>> Yeah, no kidding. I didn't even manage to read the very end of it, though I did read a summary (there was still a lot of eye rolling involved).
 >>> 
+>>> Yeah, no kidding. I didn't even manage to read the very end of it, though I did read a summary (there was still a lot of eye rolling involved).
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (11 hours later)
 >> 
 >> The main reason for so many filler episodes was because the animation keep running ahead of the manga and not having material to make more episodes. Since they obviously didn't want to just stop production to wait for the manga, they made filler episodes which lead to a bit of dissonance as there should have been *some* character growth even as everyone kept acting in the same way episode after episode.
->> 
 
->> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>> **u/omgimpwned** [+1]  *Sunshine Regiment* (12 hours later)
 >> 
 >> That's good to hear. I intended it to be readable by somebody who hasn't read Naruto before, and I'm glad that it worked for you. I've received generally mixed reactions on this topic.
->> And thank you, by the way, for reminding me to add Worm to the list of inspiration links, as Worm is indeed the reason I am writing IFF in 1st person. Several people have compared Sakura to Taylor, or said that they felt similar, so I suppose there's something to it.
 >> 
+>> And thank you, by the way, for reminding me to add Worm to the list of inspiration links, as Worm is indeed the reason I am writing IFF in 1st person. Several people have compared Sakura to Taylor, or said that they felt similar, so I suppose there's something to it.
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (11 hours later)
 > 
 > Is there a reason for you to not post *In Fire Forged* chapters directly on the blog instead of just including links?
-> Also I updated the summary of *In Fire Forged* on [RationalReads](http://rationalreads.com/#/works/24) to include a link to the blog.
 > 
+> Also I updated the summary of *In Fire Forged* on [RationalReads](http://rationalreads.com/#/works/24) to include a link to the blog.
 
->> **u/omgimpwned** [+3]  *Sunshine Regiment**
+>> **u/omgimpwned** [+3]  *Sunshine Regiment* (12 hours later)
 >> 
 >> Thank you for updating the entry! I did consider posting the story on the blog, briefly, but on further thought I think that dedicated reading sites such as fanfiction.net and AO3 provide an overall better reading experience than I could on my blog.
->> One of my biggest gripes with blog-based stories like Worm, Pact and now, Twig, is that the reader can't control the story's formatting properly and there are no legitimate non-guilt-inducing e-book files around. On ff.net, for example, I can change to a lovely dark background and half width, which is how I personally prefer to read.
->> That being said, given the software and workflow I write with, it shouldn't be difficult to provide formats like .pdf, .epub and .mobi on the blog. I don't want to do this before I'm done with the impending revision of the story, though, as I wouldn't want to circulate a bad out-of-date version.
->> There is one major change that I need to implement in what's been written so far, and that's simply an absolute necessity to remove a total idiot ball that's already made its way into the story. [spoilers IFF chapter 7](#s " The entire Jiraiya interlude is slated for a rewrite, as what's there now just doesn't work out.")
 >> 
+>> One of my biggest gripes with blog-based stories like Worm, Pact and now, Twig, is that the reader can't control the story's formatting properly and there are no legitimate non-guilt-inducing e-book files around. On ff.net, for example, I can change to a lovely dark background and half width, which is how I personally prefer to read.
+>> 
+>> That being said, given the software and workflow I write with, it shouldn't be difficult to provide formats like .pdf, .epub and .mobi on the blog. I don't want to do this before I'm done with the impending revision of the story, though, as I wouldn't want to circulate a bad out-of-date version.
+>> 
+>> There is one major change that I need to implement in what's been written so far, and that's simply an absolute necessity to remove a total idiot ball that's already made its way into the story. [spoilers IFF chapter 7](#s " The entire Jiraiya interlude is slated for a rewrite, as what's there now just doesn't work out.")
 
-> **u/SkyTroupe** [+2] *
+> **u/SkyTroupe** [+2]  (3 days later)
 > 
 > This post made my night. I've been checking for updates tri-weekly for months!
-> 
 
-> **u/JosephLeee** [+1] *
+> **u/JosephLeee** [+1]  (5 hours later)
 > 
 > I really like the worldbuilding you have done so far, so I would be very happy to see your upcoming lore posts about the world in In Fire Forged.
-> 
 
-> **u/x3as** [+1] *
+> **u/x3as** [+1]  (7 hours later)
 > 
 > Glad to see that you are still around. Every few months I was checking to see if there had been any updates.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (17 hours later)
 > 
 > [deleted]
-> 
 
->> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>> **u/omgimpwned** [+1]  *Sunshine Regiment* (18 hours later)
 >> 
 >> While I can appreciate that idea on general principle, I find myself mostly disagreeing with it. Part of the issue I ran into was that I hadn't done *enough* world-building.
->> Now, in most fiction, I might agree with you more. But this is fanfiction, and so I have an entire world to explain away and *correct*, since people will generally assume canon takes precedence unless otherwise stated, when that's not really the case. The truth really is that, behind the scenes, some things have changed so much that, while on the surface it looks like Naruto, in fact it is actually fundamentally different. IFF wears the guise of Naruto canon while really being very different at its core, both in the themes and ideas it will explore and the lore mechanisms it will use to explore them.
->> In several places I'd just been assuming certain canon events were going on in the background and had happened in the past. Then, when I started encountering these events, I found that I needed to explain them because they were prerequisites for events that needed to take place in the story, or they required that stupid events took place in the story and I needed to prevent that. Many things from canon were excised completely and didn't make it into IFF at all, particularly many of the double facepalm reveals during the final parts of the manga.
->> Doing too much world-building is not what's been holding me back. If anything, it's the reverse. And besides, I absolutely love doing it.
->> Edit: on further thought, I might rephrase my answer to say that, while you're mostly right, the areas of lore that IFF will eventually have to touch or rely upon are pretty big, and so any optimization I can do is limited.
 >> 
+>> Now, in most fiction, I might agree with you more. But this is fanfiction, and so I have an entire world to explain away and *correct*, since people will generally assume canon takes precedence unless otherwise stated, when that's not really the case. The truth really is that, behind the scenes, some things have changed so much that, while on the surface it looks like Naruto, in fact it is actually fundamentally different. IFF wears the guise of Naruto canon while really being very different at its core, both in the themes and ideas it will explore and the lore mechanisms it will use to explore them.
+>> 
+>> In several places I'd just been assuming certain canon events were going on in the background and had happened in the past. Then, when I started encountering these events, I found that I needed to explain them because they were prerequisites for events that needed to take place in the story, or they required that stupid events took place in the story and I needed to prevent that. Many things from canon were excised completely and didn't make it into IFF at all, particularly many of the double facepalm reveals during the final parts of the manga.
+>> 
+>> Doing too much world-building is not what's been holding me back. If anything, it's the reverse. And besides, I absolutely love doing it.
+>> 
+>> Edit: on further thought, I might rephrase my answer to say that, while you're mostly right, the areas of lore that IFF will eventually have to touch or rely upon are pretty big, and so any optimization I can do is limited.
 
->>> **u/Sophronius** [+1]  *The Need to Become Stronger**
+>>> **u/Sophronius** [+1]  *The Need to Become Stronger* (4 days later)
 >>> 
 >>> I strongly recommend that you space the exposition out as much as you can, and bring it up only when relevant. If I recall correctly (it's been a while) you do this pretty well in your fanfic, but there's been so many rational fics where I had to stop reading because some character would start blabbing about irrelevant aspects of their society and they *just wouldn't stop*. 
->>> I'm also going to repeat the age old advice of "don't be afraid to write badly". If you first write a crummy first draft full of plot holes, you then often get good ideas in the process for how to fix them. Or it turns out to be much less of a problem than you think. Works for me at least.
 >>> 
+>>> I'm also going to repeat the age old advice of "don't be afraid to write badly". If you first write a crummy first draft full of plot holes, you then often get good ideas in the process for how to fix them. Or it turns out to be much less of a problem than you think. Works for me at least.
 
->>>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>>> **u/omgimpwned** [+1]  *Sunshine Regiment* (4 days later)
 >>>> 
 >>>> It is my plan to never, ever be in need of *such* a degree of heavy-duty exposition in the story itself. All of my heavy exposition is relegated to either the beginning and end info blurbs (which people seem to like), or the lore posts (the chakra one is coming along nicely - I have now figured out exactly what will go into it and how, all that remains is writing the prose, which is the easy bit).
->>>> So, in essence, the exposition remains accessible but doesn't get in the way of the story.
 >>>> 
+>>>> So, in essence, the exposition remains accessible but doesn't get in the way of the story.
 
->>>>> **u/Sophronius** [+1]  *The Need to Become Stronger**
+>>>>> **u/Sophronius** [+1]  *The Need to Become Stronger* (5 days later)
 >>>>> 
 >>>>> Yup, I think this is a good solution.
->>>>> 
 
 ---
 

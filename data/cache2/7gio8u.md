@@ -52,41 +52,41 @@ Next time, we will be doing ultra winner /u/vi_fi's choice, **Self-Destruction**
 
 ### Comments:
 
-> **u/russxbox** [+9] *
+> **u/russxbox** [+9]  (16 hours later)
 > 
 > [Breeder](https://docs.google.com/document/d/e/2PACX-1vR8w1rRAu9kaGOYMYZlsBOO4AMwrrnJCUJ6YfqaOW0N3MAox8504ksCn58N1pG3IHRW1Xs64E059X9h/pub), 1451 words.
-> This is the first thing I've actually written out in years, and it popped into my head pretty much fully formed when I saw this prompt. I hope it's at least moderately enjoyable but I'm happy to accept even mean-spirited criticism.
 > 
+> This is the first thing I've actually written out in years, and it popped into my head pretty much fully formed when I saw this prompt. I hope it's at least moderately enjoyable but I'm happy to accept even mean-spirited criticism.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (10 days later)
 >> 
 >> > happy to accept even mean-spirited criticism
->> I can offer half-baked criticism! Is that acceptable?
->> 1451 words are not a lot, even when you try to illustrate only one concept (a [spoiler](#s "Dungeon Mimic") using a rather well-known setting (classic DND fantasy). You use the minimum amount of words to introduce the entire party, which is rather economical compared to something like this paragraph, which re-states the same thing quite a few different times, and is really unnecessarily rambling at this point, by which I mean to say, I liked how *compact* your story was.
->> The one thing I would like to nitpick is that it lacks a bit of polish, which is not uncommon for these challenges. For example, the beginning sentence of the fourth paragraph ("And yet..."), is not unambiguous in its meaning, as well as somewhat complex, which made me stumble over it. Since multiple editing passes are the only cure for something like that, it's an understandable imperfection :)
->> All in all, excellent work, keep writing if you have any more clever ideas, and have my upvote.
 >> 
+>> I can offer half-baked criticism! Is that acceptable?
+>> 
+>> 1451 words are not a lot, even when you try to illustrate only one concept (a [spoiler](#s "Dungeon Mimic") using a rather well-known setting (classic DND fantasy). You use the minimum amount of words to introduce the entire party, which is rather economical compared to something like this paragraph, which re-states the same thing quite a few different times, and is really unnecessarily rambling at this point, by which I mean to say, I liked how *compact* your story was.
+>> 
+>> The one thing I would like to nitpick is that it lacks a bit of polish, which is not uncommon for these challenges. For example, the beginning sentence of the fourth paragraph ("And yet..."), is not unambiguous in its meaning, as well as somewhat complex, which made me stumble over it. Since multiple editing passes are the only cure for something like that, it's an understandable imperfection :)
+>> 
+>> All in all, excellent work, keep writing if you have any more clever ideas, and have my upvote.
 
->> **u/DCarrier** [+1] *
+>> **u/DCarrier** [+1]  (14 days later)
 >> 
 >> Why not just feed it cattle or something? That seems a lot less risky than adventurers, and the cost is trivial for anyone that's not a commoner. Is the idea that he's training the mimics as well as breeding them?
->> 
 
->>> **u/russxbox** [+1] *
+>>> **u/russxbox** [+1]  (14 days later)
 >>> 
 >>> That is something that did not occur to me until you just asked, but after giving it some thought I believe I'll find some way to include that feeding them livestock makes them too docile or something.
->>> 
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (15 days later)
 >> 
 >> (I wonder if the 'orders' are Mimics themselves (and for what use if so?), or objects with their own functions imitated by unchanging Mimics.  --Ah, and one could compromise by having Mimics which constantly imitate, say, helmets, but (wouldn't be much use in a fight and) don't reveal themselves until their pre-set assassination target puts them on (since the floor shows that 'stickiness' is voluntary).
->> Given the 'poking', I found myself wondering why the last part was done piecemeal, rather than suddenly slamming shut the walls once they were in deep enough.  (Mobility, in that the walls themselves were so coherent they could barely move?  Still, the door seemed able to change rather fluidly, even if not move around by itself; lots and lots of spikes (or blunt-ended ramming pillars) all at once, say..?  Or perhaps it could be a maturity matter, that the breeder-level cannot itself move, only remain stationary after formation like an ant or termite Queen served by many mobile workers/guards/drones/servants/children.)
 >> 
+>> Given the 'poking', I found myself wondering why the last part was done piecemeal, rather than suddenly slamming shut the walls once they were in deep enough.  (Mobility, in that the walls themselves were so coherent they could barely move?  Still, the door seemed able to change rather fluidly, even if not move around by itself; lots and lots of spikes (or blunt-ended ramming pillars) all at once, say..?  Or perhaps it could be a maturity matter, that the breeder-level cannot itself move, only remain stationary after formation like an ant or termite Queen served by many mobile workers/guards/drones/servants/children.)
 
-> **u/anatoly** [+5] *
+> **u/anatoly** [+3]  (12 days later)
 > 
 > [The Weights Of The World](https://docs.google.com/document/d/1IuN_wtQj6vFZ_e7VBzJvq0cbi7dDs_RStVaTeLUetOM/edit?usp=sharing), 1904 words.
-> 
 
 ---
 

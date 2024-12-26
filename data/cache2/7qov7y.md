@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Flashbunny** [+3] *
+> **u/Flashbunny** [+3]  (9 minutes later)
 > 
 > This is some pretty advanced shitposting.
-> 
 
 ---
 

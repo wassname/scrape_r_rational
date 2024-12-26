@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/libertarian_reddit** [+4] *
+> **u/libertarian_reddit** [+4]  (6 hours later)
 > 
 > Why'd this get downvoted? The speech impediment? That would be a shame.
-> 
 
->> **u/TBestIG** [+3]  *Every second of quibbling is another dead baby**
+>> **u/TBestIG** [+3]  *Every second of quibbling is another dead baby* (a day later)
 >> 
 >> It bothered me at first but watching his videos for a while makes it pretty easy to ignore. Honestly I barely notice it now
->> 
 
->> **u/nolrai** [+2] *
+>> **u/nolrai** [+2]  (a day later)
 >> 
 >> I can't watch it, the speech impediment it just triggers all these fears about my own , and reminds me of when I was a child and actually routinely could not get strangers to understand me.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/bpsf47/d_friday_open_thread/
-* Score: 16
+* Score: 17
 
 * Created: 2019-05-17T15:06:21
 
@@ -16,196 +16,188 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/ratthrow** [+10] *
+> **u/ratthrow** [+10]  (4 hours later)
 > 
 > I'm on vacation in Europe and I'm not sure if I'm experiencing more racism than in the US or if I have an inferiority complex. Either way, I don't like it.
-> 
 
->> **u/Timewinders** [+8] *
+>> **u/Timewinders** [+9]  (5 hours later)
 >> 
 >> As a brown-skinned person I definitely experienced more racism while visiting Europe. It's to be expected because they are much more racially homogeneous than the US. Look at how Sweden for all its supposed progressiveness is having such a strong right wing turn following immigration despite still being more than 80 percent white.
->> 
 
->>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade* (19 hours later)
 >>> 
 >>> Well, there's also less charged history with race though. From the outside, it seems to me the US has more seething issues under the skin, but also has developed more ways to deal with them or at least bury them under a pretence of nicety at the surface level.
->>> In Europe you're certainly more likely to get people assuming you're a foreigner for looking different, but I wouldn't consider that "racism" per se, though it can be annoying. Will you meet xenophobia? Yes, and that's on the rise, but heavily dependent on your country of origin. Will you meet actual, bona fide white supremacists who believe in genetic inferiority of black people? Possibly, but I suspect those are actually less than in the US.
 >>> 
+>>> In Europe you're certainly more likely to get people assuming you're a foreigner for looking different, but I wouldn't consider that "racism" per se, though it can be annoying. Will you meet xenophobia? Yes, and that's on the rise, but heavily dependent on your country of origin. Will you meet actual, bona fide white supremacists who believe in genetic inferiority of black people? Possibly, but I suspect those are actually less than in the US.
 
->> **u/kraryal** [+2] *
+>> **u/kraryal** [+2]  (2 days later)
 >> 
 >> I don't know what part of Europe you are in, but when I was in France, there was far more racism there than in the US. 
->> Our group was mostly Indian subcontinent, and quite a few people complained in French about the "dirty foreigners" on the assumption that none of us could possibly understand them. We frequently got poor service in restaurants and in general met a lot of surly people. 
->> This wasn't just our group being jerks; in the same month I went with a group that could pass as European (mostly Americans actually) and things were far more pleasant.
->> So it's not just you.
 >> 
+>> Our group was mostly Indian subcontinent, and quite a few people complained in French about the "dirty foreigners" on the assumption that none of us could possibly understand them. We frequently got poor service in restaurants and in general met a lot of surly people. 
+>> 
+>> This wasn't just our group being jerks; in the same month I went with a group that could pass as European (mostly Americans actually) and things were far more pleasant.
+>> 
+>> So it's not just you.
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (19 hours later)
 >> 
 >> Hm, hard to say. Probably depends on a) your race, and b) the country you're in. If you look Arab or so you'll probably have it worse in some places, while in others you'll literally just blend in with the locals if you're on the lighter skin end of the spectrum. I don't think there's much against Asian people, especially Chinese/Japanese/Korean, but that depends on the country possibly. Black people... depends, again, but my guess is in that case origin would matter more than looks. In Italy at least you may be looked down upon if you're African, but whip out an American accent and I expect that to change. Though dunno how things changed in these last years, it's not gotten pretty.
->> 
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (22 hours later)
 >>> 
 >>> > I don't think there's much against Asian people, especially Chinese/Japanese/Korean, but that depends on the country possibly. 
->>> Australia isn't Europe but racists here definitely target the Chinese because they're perceived to be "buying up" a lot of our land/businesses/etc and the Japanese are perceived to be "generic annoying tourists", so I would be very surprised if places with more tourism and/or worse economies weren't similarly annoyed by them. Whereas here I think racists don't so much mind dark-skinned people of African descent but do mind Aboriginal and Torres Straight Islander peoples and people from the Indian subcontinent. But who knows, I'm in a white progressive bubble.
 >>> 
+>>> Australia isn't Europe but racists here definitely target the Chinese because they're perceived to be "buying up" a lot of our land/businesses/etc and the Japanese are perceived to be "generic annoying tourists", so I would be very surprised if places with more tourism and/or worse economies weren't similarly annoyed by them. Whereas here I think racists don't so much mind dark-skinned people of African descent but do mind Aboriginal and Torres Straight Islander peoples and people from the Indian subcontinent. But who knows, I'm in a white progressive bubble.
 
->>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (22 hours later)
 >>>> 
 >>>> Well, Australia is closer to China. I guess the immigration fluxes may be different. Me, being from Italy, I can tell you most definitely right now it'd be Africans and people from the Middle East who would have it worse. The Chinese might be looked at with some suspicion, partly because they tend to form really secluded communities, send children to study back in China and such, but I think most people just consider them as minding their own business and not as potentially 'dangerous' the way they tend to fear Africans, or anyone who they perceive as being probably a Muslim. Next on the list are probably some of the Eastern European peoples, and Roms especially. The Japanese and Koreans aren't much common but they certainly aren't seen as anything particular. They do not emigrate usually, after all; they only visit as tourists, and even that hit peak in the 90s (the economic crisis made Japan a bit poorer after that). And it's Italy, we've got a lot of tourists, in fact some regions outright live off them, so you get used to it.
->>>> 
 
->> **u/hh26** [+1] *
+>> **u/hh26** [+1]  (10 hours later)
 >> 
 >> My understanding is that in Europe they care more about nation rather than "race" per se.  You're British, or French, or German, or whatever, based on what country you are from.  Nobody cares about the color of your skin, or where your ancestors originate from but they do care about where you yourself are from, and are willing to openly discriminate based on that.
->> The U.S. is one of the most tolerant countries on the planet, the fact that we have so many people complaining about racists proves how much we care in the first place.
 >> 
+>> The U.S. is one of the most tolerant countries on the planet, the fact that we have so many people complaining about racists proves how much we care in the first place.
 
-> **u/a_random_user27** [+11] *
+> **u/a_random_user27** [+9]  (8 hours later)
 > 
 > A showerthought: let's say I wanted to create the ground rules of a science-fictional universe which has lots of culturally distinct civilizations. 
-> Right away there is a problem to overcome: the very first intelligent life form that arises is probably going to come millions or billions of years before all the others (because the creation of life is such a rare event). That head start gives it an enormous technological advantage. The civilization built by that life form might want to make sure no other civilization ever rises to threaten its existence (which might happen between two civilizations through mutual distrust and prisoner's dilemma type arguments). 
-> That civilization might feel threatened because the technological advantage from being first won't last forever: at some point everyone will likely reach the point where you figure out all the laws of the universe, and also figure out more or less everything that can be usefully done with them. The first civilization could ensure its survival either by direct conquest, occupation, or more indirect methods of influence (for example, covertly shaping the cultural evolution of other life forms as they arise). 
-> Well, how about this: I'll make sure that, starting from any planet, you can only ever reach a small part of the universe. How can that be done? I suppose I could put in uncrossable barriers (maybe it looks like empty space, but if you try to move past you just stay in the same place) but that is difficult to incorporate into physics, and besides it might lead to the civilizations in question to devoting much of their efforts to theological speculations about the origin of these barriers. 
-> How about this: create a limit on how fast anything can travel, and then also make sure all the planets are moving away from each other at high speed, with more distant planets moving away progressively faster. That way if two planets are far enough apart, they'll be moving away too fast for one to ever be reachable from the other. 
-> Oh wait a second...
 > 
+> Right away there is a problem to overcome: the very first intelligent life form that arises is probably going to come millions or billions of years before all the others (because the creation of life is such a rare event). That head start gives it an enormous technological advantage. The civilization built by that life form might want to make sure no other civilization ever rises to threaten its existence (which might happen between two civilizations through mutual distrust and prisoner's dilemma type arguments). 
+> 
+> That civilization might feel threatened because the technological advantage from being first won't last forever: at some point everyone will likely reach the point where you figure out all the laws of the universe, and also figure out more or less everything that can be usefully done with them. The first civilization could ensure its survival either by direct conquest, occupation, or more indirect methods of influence (for example, covertly shaping the cultural evolution of other life forms as they arise). 
+> 
+> Well, how about this: I'll make sure that, starting from any planet, you can only ever reach a small part of the universe. How can that be done? I suppose I could put in uncrossable barriers (maybe it looks like empty space, but if you try to move past you just stay in the same place) but that is difficult to incorporate into physics, and besides it might lead to the civilizations in question to devoting much of their efforts to theological speculations about the origin of these barriers. 
+> 
+> How about this: create a limit on how fast anything can travel, and then also make sure all the planets are moving away from each other at high speed, with more distant planets moving away progressively faster. That way if two planets are far enough apart, they'll be moving away too fast for one to ever be reachable from the other. 
+> 
+> Oh wait a second...
 
->> **u/GlueBoy** [+4]  *anti-skub**
+>> **u/GlueBoy** [+4]  *anti-skub* (10 hours later)
 >> 
 >> That's a nice showerthought! It sounds like an elaboration of the [anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle), or a combination of it with the fermi paradox. 
->> If the universe were such that 1) an alien civilization develops billions of years ago, and persists, 2) for whaetver reason, they are pre-disposed to eliminate all future civs, and most importantly 3) it is physically possible to go on a universe-wide preventative genocide. If all these were true, then you wouldn't be around to remark how curious it is that the universe isn't that way, like you're doing now.
 >> 
+>> If the universe were such that 1) an alien civilization develops billions of years ago, and persists, 2) for whaetver reason, they are pre-disposed to eliminate all future civs, and most importantly 3) it is physically possible to go on a universe-wide preventative genocide. If all these were true, then you wouldn't be around to remark how curious it is that the universe isn't that way, like you're doing now.
 
->>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (19 hours later)
 >>> 
 >>> Unless you were part of the civilisation that will *commit* the genocide, that is.
->>> 
 
->>> **u/GeneralExtension** [+2] *
+>>> **u/GeneralExtension** [+2]  (a day later)
 >>> 
 >>> >preventative genocide
->>> Or "aggressive colonization."
 >>> 
+>>> Or "aggressive colonization."
 
->> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (19 hours later)
 >> 
 >> I'm actually struggling to think whether I can conceive a completely consistent set of rules for a universe *without* a finite speed limit (for world building purposes) and I can't find one. Granted, fundamental physics are already mind-bogglingly complicated as they are, so having to rewrite them from the grounds up ain't exactly easy, especially since simply having c go to infinity is likely to break most of it...
->> 
 
->>> **u/Solonarv** [+3]  *Chaos Legion**
+>>> **u/Solonarv** [+3]  *Chaos Legion* (22 hours later)
 >>> 
 >>> You might be interested in Greg Egan's *Orthogonal*; it's set in a universe where the Minkowski metric has signature (+,+,+,+) instead of (-,+,+,+) like in ours.
->>> The author has written some essays on the physical consequences of this, which he's [published for free online](https://www.gregegan.net/ORTHOGONAL/ORTHOGONAL.html). One of the immediate consequences is that there is no universal speed limit.
 >>> 
+>>> The author has written some essays on the physical consequences of this, which he's [published for free online](https://www.gregegan.net/ORTHOGONAL/ORTHOGONAL.html). One of the immediate consequences is that there is no universal speed limit.
 
->>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (22 hours later)
 >>>> 
 >>>> I've read it! Egan's work on that is amazing, but still, it's relatively simple compared to what I had in mind, which was removing entirely relativity from mechanics. All he does is change a single *sign*, and even that fucks up almost all of physics into something unrecognisable (and it must be said that Egan found a very clever way around the problem of solving differential equations in a ++++ spacetime. There is a paper by Max Tegmark that explored this among other possible dimensionalities and metrics, and it seems to suggest that really, our -+++ is the only one in which life can evolve).
->>>> 
 
->>> **u/Gurkenglas** [+1] *
+>>> **u/Gurkenglas** [+1]  (21 hours later)
 >>> 
 >>> Does it need to be infinite? Seems pretty easy if you remove everything but the solar system and let lightspeed go to infinity.
->>> 
 
->>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (21 hours later)
 >>>> 
 >>>> Not easy at all. You're just thinking cosmology. Try rewriting quantum field theory, relativistic quantum mechanics, and electromagnetism with an infinite speed of light... my best guess is you could have a finite speed for EM waves, but it *not* be the fundamental speed limit of everything. However, in QFT as we know it, that'd be a weird thing, because it would mean either photons have mass (and then behave in some weird way that resembles more what other particles do than actual photons) or everything goes tits up and we're in no man's land. Of course QFT itself was born out of the necessity of making QM fully Lorentz-invariant, and with no light speed, that's not a requirement any more, so what would we have in its place? I can think of a *classical* quantum field theory, I don't think it's impossible, but working out what that would be like, well. It isn't easy.
->>>> 
 
->>>>> **u/Gurkenglas** [+1] *
+>>>>> **u/Gurkenglas** [+1]  (23 hours later)
 >>>>> 
 >>>>> What breaks first when you increase lightspeed, take note of what physical behavior changes, keep increasing it, and look at everything's behavior in the limit?
->>>>> 
 
->>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>>>>> 
 >>>>>> The thing is, having c > 300,000 km/s but *finite* only brings about quantitative change. Taking it to infinity is a whole another matter entirely.
+>>>>>> 
 >>>>>> Out of the top of my head, merely increasing it would certainly change a lot - for example the energy released in nuclear reactions, probably the rates at which certain processes happen, not to mention the relative strength of electric and magnetic fields. But make it infinite and off the top of my head I think you'll get:
+>>>>>> 
 >>>>>> - decoupled electric and magnetic fields in Maxwell's equations (rot B ~ 1/c^2 dE/dt)
 >>>>>> - infinite rest energy for matter (E = mc^2)
 >>>>>> - no gravity (there's a 1/c^4 term in front of the stress-energy tensor in Einstein's field equations)
->>>>>> That doesn't look like our universe - indeed, it doesn't look like *any* universe, the whole of physics basically breaks down. So you need to go deeper than just our equations, assume some more fundamental principles, assume that Newtonian + quantum mechanics is all there is, and then rederive everything from there.
 >>>>>> 
+>>>>>> That doesn't look like our universe - indeed, it doesn't look like *any* universe, the whole of physics basically breaks down. So you need to go deeper than just our equations, assume some more fundamental principles, assume that Newtonian + quantum mechanics is all there is, and then rederive everything from there.
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (21 hours later)
 >> 
 >> If you can't reach them because they're moving away faster than light, they're arguably not even in the same universe. So why not simply make life unlikely enough that all your pet cultures are found in different Everett branches?
->> 
 
->> **u/iftttAcct2** [+1] *
+>> **u/iftttAcct2** [+1]  (4 days later)
 >> 
 >> I would probably overcome this by having the first civilization to reach this point of near omnipotence (or perhaps the first to do so in the latest cycle of civilization birth and decline) happen to be one that, for whateever reason, wishes to allow other species to develop without interference.
->> 
 
-> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (5 hours later)
 > 
 > [Claim the Spoils](https://forums.spacebattles.com/threads/claim-the-spoils-victor-taylor.708364/) is an incomplete Worm fanfic where Taylor, the main character, has the ability to steal skills from people. It's very compelling and well-written but nothing overtly rational has happened so far.
-> 
 
->> **u/SkyTroupe** [+2] *
+>> **u/SkyTroupe** [+2]  (a day later)
 >> 
 >> That was great. Got any more stories like it?
->> 
 
->>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (6 days later)
 >>> 
 >>> I like this one, and it feels pretty similar to me.
->>> https://forums.spacebattles.com/threads/skein-worm-altpower-au.437953/
 >>> 
+>>> https://forums.spacebattles.com/threads/skein-worm-altpower-au.437953/
 
->>>> **u/SkyTroupe** [+2] *
+>>>> **u/SkyTroupe** [+2]  (6 days later)
 >>>> 
 >>>> I thought Skein was dead?
->>>> 
 
->>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (6 days later)
 >>>>> 
 >>>>> It is, but it's still a good read.
->>>>> 
 
-> **u/CouteauBleu** [+2]  *We are the Empire.**
+> **u/CouteauBleu** [+2]  *We are the Empire.* (a day later)
 > 
 > Quick question: I just took an in-depth look at my first serious pay sheet, and apparently as a junior developer it costs my company roughly 4'000€ to pay me 2'000€, once we're done with the various kinds of taxes.
-> So, I already knew France had pretty high corporate taxes, but I miss a frame of reference for how big a cut that is. What tax rate do you pay in your country?
 > 
+> So, I already knew France had pretty high corporate taxes, but I miss a frame of reference for how big a cut that is. What tax rate do you pay in your country?
 
->> **u/kraryal** [+2] *
+>> **u/kraryal** [+2]  (2 days later)
 >> 
 >> This is roughly the same in my country, albeit a lot of that cut is 
 >> actually things like the government pension plan and health care. 
->> The corporate tax rate itself is fairly low here. Most companies pay 15%, but it is possible to go up to 28%.
 >> 
+>> The corporate tax rate itself is fairly low here. Most companies pay 15%, but it is possible to go up to 28%.
 
->> **u/sephirothrr** [+1] *
+>> **u/sephirothrr** [+1]  (2 days later)
 >> 
 >> well it's okay because you earn them at least 8'000€
->> 
 
->> **u/Timewinders** [+1] *
+>> **u/Timewinders** [+1]  (4 days later)
 >> 
 >> Those are payroll taxes, deducted directly from your paycheck. We have them in the U.S. too, they pay for Social Security and Medicare. Also for unemployment benefits.
->> 
 
-> **u/AssadTheImpaler** [+1] *
+> **u/AssadTheImpaler** [+1]  (13 hours later)
 > 
 > Hey guys, I would appreciate any help in finding a particular short story whose title I can't remember.
+> 
 > The premise as I remember was that a lady wass invited to a conference for versions of herself from across the multiverse
+> 
 > The details I recall are:
 > - I read it on lightspeedmagazine.com
 > - The lady had a job involving investigation in some form
 > - She skips out on the pre-party
 > - Sometime during the conference >!A version of herself is murdered. When she comes across the scene of the crime, she finds another version of herself there, though she appears innocent!<
-> Thanks in advance!
 > 
+> Thanks in advance!
 
-> **u/lillarty** [+1] *
+> **u/lillarty** [+1]  (16 hours later)
 > 
 > I've seen people mention some Chinese novels before of a particular name, but I've never put in the time to actually learn what they are. From what I have picked up from context, it's a series of light novels by different authors that mostly share the same universe and rules, but typically do not interact with other works in the world. 
-> Is that accurate at all? Can someone explain them to me?
 > 
+> Is that accurate at all? Can someone explain them to me?
 
 ---
 

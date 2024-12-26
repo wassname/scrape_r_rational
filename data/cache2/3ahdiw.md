@@ -2,7 +2,7 @@
 
 * Author: u/EliezerYudkowsky  *Godric Gryffindor**
 * URL: https://www.reddit.com/r/rational/comments/3ahdiw/effective_cinderella_or_the_last_disney_princess/
-* Score: 88
+* Score: 83
 
 * Created: 2015-06-20T04:54:13
 
@@ -38,319 +38,308 @@ Cinderella opened her eyes, and within them was the fire of a thousand scrubbed-
 
 ### Comments:
 
-> **u/None** [+26] *
+> **u/None** [+24]  (2 hours later)
 > 
 > "Bitch please," said Tiffany Aching.
-> 
 
->> **u/PeridexisErrant** [+22]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+20]  *put aside fear for courage, and death for life* (4 hours later)
 >> 
 >> Tiffany Aching met her fairy godmother at age twelve.  Then hit the Fairy Queen with a frying pan and rescued the prince, before becoming a witch.
->> Seriously, you can't try to subvert a Prattchet story.  It's been done for you...
 >> 
+>> Seriously, you can't try to subvert a Prattchet story.  It's been done for you...
 
->>> **u/Chronophilia** [+20]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+17]  *sci-fi ≠ futurology* (16 hours later)
 >>> 
 >>> The only place left to go is the double-subversion. The main character does *exactly* what you'd expect a storybook heroine to do in every situation, because she's caught between incredibly powerful magical forces and she's doomed if she forfeits her plot armour even for a moment...
->>> ... actually, I think Pratchett's done that one as well. Never mind.
 >>> 
+>>> ... actually, I think Pratchett's done that one as well. Never mind.
 
->>>> **u/PeridexisErrant** [+11]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+10]  *put aside fear for courage, and death for life* (21 hours later)
 >>>> 
 >>>> *Pyramids*, yes.
->>>> 
 
->>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (2 months later)
 >>>>> 
 >>>>> witches abroad.
->>>>> 
 
->>>> **u/Psy-Kosh** [+2] *
+>>>> **u/Psy-Kosh** [+2]  (a day later)
 >>>> 
 >>>> Wouldn't that sort of thing fit more in the Tales of the Five Hundred Kingdoms series?
->>>> 
 
->>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (2 months later)
 >>>>> 
 >>>>> the Tradition, yes. are those worth reading? i've heard they're good.
->>>>> 
 
->>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (2 months later)
 >>>> 
 >>>> witches abroad, that's the best one IMHO.
->>>> you can't force the Story? Granny Weatherwax can, because her will is a will you can move the world on, *and she is the Good Twin!*
 >>>> 
+>>>> you can't force the Story? Granny Weatherwax can, because her will is a will you can move the world on, *and she is the Good Twin!*
 
->> **u/None** [+5] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> "Don't mess with me!" said Lina Inverse.
->> 
 
-> **u/Arandur** [+42] *
+> **u/Arandur** [+44]  (31 minutes later)
 > 
 > In an unfortunate coincidence, The Keystone of All Things turned out to be the name of the local masonry shop.
-> 
 
->> **u/mack2028** [+32] *
+>> **u/mack2028** [+30]  (2 hours later)
 >> 
 >> It is a faerie wish not a genie wish.
->> 
 
->>> **u/TimeLoopedPowerGamer** [+28]  *Utopian Smut Peddler**
+>>> **u/TimeLoopedPowerGamer** [+31]  *Utopian Smut Peddler* (3 hours later)
 >>> 
 >>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>> 
+>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>> 
+>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>> 
+>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>> 
+>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>> 
+>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>> 
+>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>> 
+>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>> **u/mack2028** [+1] *
+>>>> **u/mack2028** [+1]  (4 hours later)
 >>>> 
 >>>> I feel like you may have replied to the wrong post.
->>>> 
 
->>>>> **u/TimeLoopedPowerGamer** [+6]  *Utopian Smut Peddler**
+>>>>> **u/TimeLoopedPowerGamer** [+7]  *Utopian Smut Peddler* (11 hours later)
 >>>>> 
 >>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>> 
+>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>> 
+>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>> 
+>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>> 
+>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>> 
+>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>> 
+>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>> 
+>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>> **u/mack2028** [+1] *
+>>>>>> **u/mack2028** [+1]  (12 hours later)
 >>>>>> 
 >>>>>> My point was that a Faerie will try to help you as best as she can if she gives you a wish but she has limitations that may be pretty arbitrary while a genie wish will be intentionally malicious. You replied to my post which is fine I guess but that response was to the top responder as It doesn't really follow the premise I set up or add anything to my train of thought while it absolutely does to the top responders post.
->>>>>> 
 
-> **u/NotUnusualYet** [+26] *
+> **u/NotUnusualYet** [+25]  (20 minutes later)
 > 
 > *In which our hero Cinderella writes a set of self-improving instructions that lead to Friendly AI in just a few dozen iterations!*
-> 
 
-> **u/notmy2ndopinion** [+7]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+7]  *Concent of Saunt Edhar* (23 hours later)
 > 
 > I don't quite understand what "the keystone" is supposed to be from the content of the story, so I'm worried that the Fairy Godmother would be similarly puzzled and may take it literally, i.e. "follow this yellow brick road to the Library and you can learn to be a scribe!"
-> I get that it is similar to the Aladdin and Princess Jasmine omake -- and perhaps it builds on top of Jasmine's last wish!
-> (Side note: the Jasmine and the Lamp Omake ends with "I wish for everyone's intelligence to gradually increase at a rate of 1 IQ point per year." The intent of this wish is evident to me, in terms of creating a gradual and inevitable intelligence increase for the immortal and vigorous "everyone," but IQ is based on a norm with median of 100 and a SD of +/-15... so the educator in me wants it clarified that the term IQ is meant to refer to criterion-based tests at the time of the wish rather than using the norm-referenced definition, since Jasmine is wishing for the goal posts to shift each year.)
-> http://hpmor.com/chapter/64
 > 
+> I get that it is similar to the Aladdin and Princess Jasmine omake -- and perhaps it builds on top of Jasmine's last wish!
+> 
+> (Side note: the Jasmine and the Lamp Omake ends with "I wish for everyone's intelligence to gradually increase at a rate of 1 IQ point per year." The intent of this wish is evident to me, in terms of creating a gradual and inevitable intelligence increase for the immortal and vigorous "everyone," but IQ is based on a norm with median of 100 and a SD of +/-15... so the educator in me wants it clarified that the term IQ is meant to refer to criterion-based tests at the time of the wish rather than using the norm-referenced definition, since Jasmine is wishing for the goal posts to shift each year.)
+> 
+> http://hpmor.com/chapter/64
 
->> **u/aintso** [+5] *
+>> **u/aintso** [+5]  (2 days later)
 >> 
 >> Isn't the joke here precisely that we live in a world with [the Flynn effect](https://duckduckgo.com/?q=the+Flynn+effect) already?
->> 
 
->> **u/Zeikos** [+4]  *Communist Transhumanism**
+>> **u/Zeikos** [+4]  *Communist Transhumanism* (a day later)
 >> 
 >> But if the universe doesn't run on math how do you invent machines that do?
 >> Mostlikely it *does* run on math , just the laws are different.
->> 
 
->>> **u/boomfarmer** [+3]  *Trying to be helpful**
+>>> **u/boomfarmer** [+3]  *Trying to be helpful* (a day later)
 >>> 
 >>> What could a universe run on, other than math? /curious
->>> 
 
->>>> **u/Zeikos** [+4]  *Communist Transhumanism**
+>>>> **u/Zeikos** [+5]  *Communist Transhumanism* (a day later)
 >>>> 
 >>>> That's exactly my point.
->>>> 
 
->>>>> **u/boomfarmer** [+2]  *Trying to be helpful**
+>>>>> **u/boomfarmer** [+2]  *Trying to be helpful* (a day later)
 >>>>> 
 >>>>> I'm actually curious, though. Are there stories where the universe runs on something else as a base layer?
->>>>> 
 
->>>>>> **u/lehyde** [+7]  *Nudist Beach**
+>>>>>> **u/lehyde** [+7]  *Nudist Beach* (a day later)
 >>>>>> 
 >>>>>> I don't think that's possible because math is really good at describing any kinds of rules. There is [this story](http://slatestarcodex.com/2014/04/03/the-study-of-anglophysics/) where the physics is based on linguistics but I think even that could be described with math (math is not just about numbers).
->>>>>> 
 
->>>>>> **u/None** [+3] *
+>>>>>> **u/None** [+3]  (11 days later)
 >>>>>> 
 >>>>>> City of Angles.
->>>>>> Try using math to describe that, and it will fuck you.
 >>>>>> 
+>>>>>> Try using math to describe that, and it will fuck you.
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (20 days later)
 >>>> 
 >>>> The whims of the Matrix programmers, or an omnipotent God.
->>>> 
 
-> **u/None** [+6] *
+> **u/None** [+4]  (11 hours later)
 > 
 > The next year, the National Organization of Women blackmailed the king into establishing a parliamentary constitutional monarchy.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (18 days later)
 >> 
 >> Parliamentary? hardly optimal.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (18 days later)
 >>> 
 >>> Personally, I think parliamentary demcoracy is a bunch better than most other structures of government.  It's democracy in a nutshell: messy, but ultimately nonviolent and *actually effective*.  This is a contrast to presidential and semi-oligarchical "democratic" systems, in which the misguided impulses of the population are blocked from implementation because *the vast majority* of the population's desires are blocked from implementation, quickly degrading into *outright* oligarchy.
->>> In multi-party, proportional-representation parliamentary systems, elections can be high-entropy random variables, and their outcomes *actually explain substantial portions of the variance in which laws get passed*.  Mixed-member systems then give many of the stability benefits of more regional systems without the drawbacks of oligarchical ones.
 >>> 
+>>> In multi-party, proportional-representation parliamentary systems, elections can be high-entropy random variables, and their outcomes *actually explain substantial portions of the variance in which laws get passed*.  Mixed-member systems then give many of the stability benefits of more regional systems without the drawbacks of oligarchical ones.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (19 days later)
 >>>> 
 >>>> In principle, yes. In practice the one elected are the ones with enough money for advertisement, making it effectively a covert oligarchy. Though thinking about it, it would probably be more applicable in a state with way less population, like in the age the story is set in. But at the same time population would be largely more ignorant and susceptible to demagogy.
->>>> Let's face it, the best form of government possible, in principle, is enlightened absolutism, provided you can find an enlightened dictator and admittedly only working for his/her generation.
->>>> In practice, well I really don't know, but my favourite fantasy concerns a form of randomly chosen (among the whole population, with the criterion for eligibility being a decent score in a test to determine wisdom) constitutional monarch with a mandate of only a few years. And then another one. I call it Random Monarchy, and it's pretty much unfeasible.
 >>>> 
+>>>> Let's face it, the best form of government possible, in principle, is enlightened absolutism, provided you can find an enlightened dictator and admittedly only working for his/her generation.
+>>>> 
+>>>> In practice, well I really don't know, but my favourite fantasy concerns a form of randomly chosen (among the whole population, with the criterion for eligibility being a decent score in a test to determine wisdom) constitutional monarch with a mandate of only a few years. And then another one. I call it Random Monarchy, and it's pretty much unfeasible.
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (19 days later)
 >>>>> 
 >>>>> > Let's face it, the best form of government possible, in principle, is enlightened absolutism, provided you can find an enlightened dictator and admittedly only working for his/her generation.
->>>>> "In principle" is nothing before "in practice", and *in practice*, mixed-member proportional parliaments and various other degrees of representative democracy are the system used in the most peaceful, prosperous, enlightened countries the world has ever known -- *despite* the attempt by capitalism to wipe out democracy as an interference with monetizing literally everything.
->>>>> But you are certainly welcome to keep on paying your Voluntary Defense Fund contributions, lest the enlightened monarch show up to your house and smash it with a big rock as an example of the kinds of things that happen when you leave your great nation undefended.
 >>>>> 
+>>>>> "In principle" is nothing before "in practice", and *in practice*, mixed-member proportional parliaments and various other degrees of representative democracy are the system used in the most peaceful, prosperous, enlightened countries the world has ever known -- *despite* the attempt by capitalism to wipe out democracy as an interference with monetizing literally everything.
+>>>>> 
+>>>>> But you are certainly welcome to keep on paying your Voluntary Defense Fund contributions, lest the enlightened monarch show up to your house and smash it with a big rock as an example of the kinds of things that happen when you leave your great nation undefended.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (20 days later)
 >>>>>> 
 >>>>>> >"In principle" is nothing before "in practice"
->>>>>> Hence my subdivided response.
->>>>>> >and in practice, mixed-member proportional parliaments and various other degrees of representative democracy are the system used in the most peaceful, prosperous, enlightened countries the world has ever known
->>>>>> Surely. But standing by my previous assertions, that's much like saying oligarchy is a very successful form of government. Which I agree upon, the ancient Greeks pulled it off incredibly well after all. 
->>>>>> Probably better that anything else we have now, but hardly optimal. Even less optimal when you have a fairy with reality bending powers at your disposal.
->>>>>> By the way, an enlightened monarch is **ENLIGHTENED**, that's kind of a crucial point (and also the reason why he/she wouldn't destroy your house as an example of what happens when you don't pay your share for the Voluntary Defence Found).
 >>>>>> 
+>>>>>> Hence my subdivided response.
+>>>>>> 
+>>>>>> >and in practice, mixed-member proportional parliaments and various other degrees of representative democracy are the system used in the most peaceful, prosperous, enlightened countries the world has ever known
+>>>>>> 
+>>>>>> Surely. But standing by my previous assertions, that's much like saying oligarchy is a very successful form of government. Which I agree upon, the ancient Greeks pulled it off incredibly well after all. 
+>>>>>> 
+>>>>>> Probably better that anything else we have now, but hardly optimal. Even less optimal when you have a fairy with reality bending powers at your disposal.
+>>>>>> 
+>>>>>> By the way, an enlightened monarch is **ENLIGHTENED**, that's kind of a crucial point (and also the reason why he/she wouldn't destroy your house as an example of what happens when you don't pay your share for the Voluntary Defence Found).
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (20 days later)
 >>>>>>> 
 >>>>>>> I think you and I differ on the criteria for being enlightened.  I, for one, consider a good sense of humor and an extreme distaste for tax evasion, especially among the wealthy, as essential components of enlightened despotism.
->>>>>>> 
 
->>>>>>>> **u/None** [+2] *
+>>>>>>>> **u/None** [+2]  (20 days later)
 >>>>>>>> 
 >>>>>>>> And I agree, and also do not get while you would think otherwise.
->>>>>>>> EDIT: oh, now I do. Yes, we differ on the criteria. I deem an enlightened despot to call a compulsory tax on defence "Compulsory Tax on Defence", and if you don't abide the despot would confiscate from you values comparable to the tax amount and sell them in a bidding.
->>>>>>>> An enlightened depot is not a dictator, as intended in the common usage of the word. Rather a dictator in the Roman sense. The name is just inaccurate because we lack a better term.
 >>>>>>>> 
+>>>>>>>> EDIT: oh, now I do. Yes, we differ on the criteria. I deem an enlightened despot to call a compulsory tax on defence "Compulsory Tax on Defence", and if you don't abide the despot would confiscate from you values comparable to the tax amount and sell them in a bidding.
+>>>>>>>> 
+>>>>>>>> An enlightened depot is not a dictator, as intended in the common usage of the word. Rather a dictator in the Roman sense. The name is just inaccurate because we lack a better term.
 
-> **u/None** [+17] *
+> **u/None** [+15]  (an hour later)
 > 
 > Uhhh the fairy godmother is Voldemort you guys.
-> 
 
->> **u/Psy-Kosh** [+7] *
+>> **u/Psy-Kosh** [+7]  (an hour later)
 >> 
 >> Or Rumpelstiltskin. :)
->> 
 
-> **u/thesteamboat** [+2] *
+> **u/thesteamboat** [+2]  (10 hours later)
 > 
 > Species changing birds! Doves descend from on high but then ravens disappear.
-> 
 
-> **u/ancientcampus** [+2]  *juggling kittens**
+> **u/ancientcampus** [+2]  *juggling kittens* (a month later)
 > 
 > I liked the recognition that a simple fairy wish for a night at the ball is really quite a bit more than that - what comes after is an implicit part of the offer.
-> Come to think of it, this is much like what real godparents are supposed to provide - advice and resources to help you to a better & independent life.
 > 
+> Come to think of it, this is much like what real godparents are supposed to provide - advice and resources to help you to a better & independent life.
 
->> **u/what_deleted_said** [+1] *
+>> **u/what_deleted_said** [+1]  (a month later)
 >> 
 >> You posted this [twice](https://www.reddit.com/r/rational/comments/3ahdiw/effective_cinderella_or_the_last_disney_princess/ctb56t8)
->> 
 
->>> **u/ancientcampus** [+3]  *juggling kittens**
+>>> **u/ancientcampus** [+3]  *juggling kittens* (a month later)
 >>> 
 >>> Huh, so I did. Fixed.
->>> Er, I swear this is not in vengeance or anything, but I noticed your last post went through twice over at the "self size-manipulation thread". Just thought you'd want to know.
 >>> 
+>>> Er, I swear this is not in vengeance or anything, but I noticed your last post went through twice over at the "self size-manipulation thread". Just thought you'd want to know.
 
->>>> **u/what_deleted_said** [+1] *
+>>>> **u/what_deleted_said** [+1]  (a month later)
 >>>> 
 >>>> Lol thanks.
->>>> 
 
-> **u/windg0d** [+1] *
+> **u/windg0d** [+1]  (12 hours later)
 > 
 > Ah, I love your fiction.
-> 
 
-> **u/Jiro_T** [+1] *
+> **u/Jiro_T** [+1]  (11 hours later)
 > 
 > Her "solution" depends entirely on a loose interpretation of exactly what "goes away at midnight" means.  Come midnight, and she could equally well find that any objects she has obtained during the wish period that she couldn't have obtained without it have vanished, she no longer even remembers how to find them, her attempts to write the knowledge down have turned into pumpkins, and she has nothing.
-> Also, she seems curiously reluctant to use the word "and" in her wish, which is odd since the fairy godmother already said she could grant a wish for a carriage and a dress.
-> (And fairy tales like this have this habit of granting good wishes for people who make humble requests and bad ones for the "greedy", which may mean that any attempt to logically decide which wish is best for her will get her in trouble just because she is using logic at all.)
 > 
+> Also, she seems curiously reluctant to use the word "and" in her wish, which is odd since the fairy godmother already said she could grant a wish for a carriage and a dress.
+> 
+> (And fairy tales like this have this habit of granting good wishes for people who make humble requests and bad ones for the "greedy", which may mean that any attempt to logically decide which wish is best for her will get her in trouble just because she is using logic at all.)
 
->> **u/EliezerYudkowsky** [+13]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+14]  *Godric Gryffindor* (23 hours later)
 >> 
 >> The original Cinderella made a wish with causal effects that persisted after midnight (e.g. on the prince) so it is reasonable for this Cinderella to have read similar histories and expect this to be true of fairy wishes in general.
->> 
 
->> **u/codahighland** [+8] *
+>> **u/codahighland** [+8]  (17 hours later)
 >> 
 >> This Cinderella's wish is morally quite sound, however, and not particularly greedy, and reasonably humble. She seeks the path to enlightenment. She seeks to make the world a better place. And furthermore she chose this wish INSTEAD of less moral choices. She's not just trying to raise her own standing in life -- if THAT'S all she wanted, she could have gone to the ball. Furthermore, the wish implies an acknowledgement that she ISN'T so clever as to be able to figure these things out on her own, but rather she wants to know what the best path for her life would be.
->> And this is a fairy, not a genie, so the wish will be fulfilled benevolently as it was a benevolent wish.
 >> 
+>> And this is a fairy, not a genie, so the wish will be fulfilled benevolently as it was a benevolent wish.
 
->>> **u/Jiro_T** [+2] *
+>>> **u/Jiro_T** [+2]  (21 hours later)
 >>> 
 >>> "Greedy" is in scare quotes, and "humble" probably should have been as well.  The problem is that reacting to a wish by saying "I want to rationally determine how to gain more benefit from this wish than I would if I just asked for the first thing that came to my mind" is, *all by itself*, grounds for having the wish granter decide that you're being "greedy" and giving her cause to twist the wish.  The fact that the fairy godmother is benevolent won't change this; benevolent fairies still punish the greedy.
->>> What you're supposed to do when faced with a fairy godmother wish is to wish for what comes naturally, and not think it through rationally.  If you are a good person, doing this will naturally lead to you blurting out a good wish, and if you're a bad person, doing this will lead to you blurting out a wish that lets the fairy see how greedy you are.
 >>> 
+>>> What you're supposed to do when faced with a fairy godmother wish is to wish for what comes naturally, and not think it through rationally.  If you are a good person, doing this will naturally lead to you blurting out a good wish, and if you're a bad person, doing this will lead to you blurting out a wish that lets the fairy see how greedy you are.
 
->>>> **u/codahighland** [+5] *
+>>>> **u/codahighland** [+4]  (21 hours later)
 >>>> 
 >>>> Counterpoint: If someone is naturally thoughtful, then blurting out a wish is not what comes naturally. It would, itself, be a forced action, something you would only do if you believed that it would result in a better outcome. And if choosing your wish based on reasoning about improving the outcome is a reason for the fairy godmother to brand you as greedy, then someone who is contemplative by nature is caught in a no-win situation.
->>>> This, then, means that the fairy godmother considers impulsiveness to be a moral value and rationality to be a moral wrong.
->>>> I do not want to make any transactions with this fairy godmother.
 >>>> 
+>>>> This, then, means that the fairy godmother considers impulsiveness to be a moral value and rationality to be a moral wrong.
+>>>> 
+>>>> I do not want to make any transactions with this fairy godmother.
 
->>>>> **u/Jiro_T** [-2] *
+>>>>> **u/Jiro_T** [-2]  (22 hours later)
 >>>>> 
 >>>>> You're correct, and yet it's irrelevant.  I'm postulating a fairy godmother who doesn't like rationality and considers it greedy to rationally pick a better wish because that's how the genre goes.  The genre screws over rational people by ensuring they are punished for being rational.
->>>>> 
 
->>>>>> **u/codahighland** [+3] *
+>>>>>> **u/codahighland** [+3]  (23 hours later)
 >>>>>> 
 >>>>>> It's not irrelevant. If I were to encounter a fairy godmother with such a moral system, I would not make a wish.
->>>>>> 
 
->>>>>>> **u/None** [+2] *
+>>>>>>> **u/None** [+2]  (8 days later)
 >>>>>>> 
 >>>>>>> Personally, I'd talk to the fairy godmother directly and see if she couldn't be convinced to help rather than punish.
->>>>>>> 
 
->>>>>>>> **u/codahighland** [+2] *
+>>>>>>>> **u/codahighland** [+2]  (8 days later)
 >>>>>>>> 
 >>>>>>>> I agree, that's worth a shot, but I'd need clear evidence that she's not trying to trick me before actually making a wish. If impulsivity really is a terminal value for her there might be no hope of negotiation.
->>>>>>>> 
 
->>>>>>>>> **u/Jiro_T** [+1] *
+>>>>>>>>> **u/Jiro_T** [+1]  (12 days later)
 >>>>>>>>> 
 >>>>>>>>> The point isn't that impulsivity is a terminal value for the fairy, but rather, it's something demanded by the genre.  If you're even in most fairy tales, trying to think out what kind of wish will give you the most benefit is bad because it demonstrates your greed.  You're not supposed to ask for too much and optimizing the wish counts as asking for too much.
->>>>>>>>> Remember [this one](https://books.google.com/books?id=mWIVAAAAIAAJ&pg=PA176&lpg=PA176) for instance?  Impulsive wishes are good.  Try to use a well-thought out wish, and you will slip up out of greed.
 >>>>>>>>> 
+>>>>>>>>> Remember [this one](https://books.google.com/books?id=mWIVAAAAIAAJ&pg=PA176&lpg=PA176) for instance?  Impulsive wishes are good.  Try to use a well-thought out wish, and you will slip up out of greed.
 
->>>>>>>>>> **u/codahighland** [+2] *
+>>>>>>>>>> **u/codahighland** [+2]  (13 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I didn't say that it was the point. It's not. It is, however, still a fact, that SOMETHING with power values impulsivity, whether it is the fairy herself, or the AI powering the magic. (Or possibly that it values humility, which is a much more tolerable thing, and something I'd be willing to work with.)
->>>>>>>>>> That said, the rich woman was being irrational. The effect was clearly spelled out in the boon: The work will last all day. If we're genre-savvy enough to acknowledge that an impulsive wish is best, then we're genre-savvy enough to realize that the catch is often spelled out right there.
 >>>>>>>>>> 
+>>>>>>>>>> That said, the rich woman was being irrational. The effect was clearly spelled out in the boon: The work will last all day. If we're genre-savvy enough to acknowledge that an impulsive wish is best, then we're genre-savvy enough to realize that the catch is often spelled out right there.
 
-> **u/None** [+0] *
+> **u/None** [+0]  (21 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/nicholaslaux** [+7] *
+>> **u/nicholaslaux** [+8]  (6 hours later)
 >> 
 >> I'm pretty sure nowhere near everything has to do with the ai box thing. From what I remember, EY wasn't even a large fan of doing those in retrospect due to the type of attention they garnered, rather than just convincing people that is a bad idea in principle.
->> 
 
 ---
 

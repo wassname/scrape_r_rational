@@ -16,40 +16,43 @@ As ever, thanks for reading!  At this point, I estimate that PB will be roughly 
 
 ### Comments:
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+7]  *We are the Empire.* (6 hours later)
 > 
 > Well, now that I'm caught up, I have to say I really like the story.
-> I wish the introduction phase would end sooner (we *still* don't know why the hell Ram is so special for the gods and/or the priests to make so much effort to keep him alive), but the overall pacing is pretty good.
-> The only thing I'd change is the short status updates before every few chapters, eg:
-> > As the note says, I’m trying for every Sunday here.  I don’t think I could write quickly enough to do biweekly updates for long.  I have up through the end of Chapter 2 written, and part of 3.1.
-> I'm going to be blunt: nobody cares. By now this is already obsolete.
-> These notes break the flow of the story, they make you sound way more insecure than the quality of the text warrants, and they don't bring the reader any information about the text.
-> I'd recommend you remove them, or at least put them at the end of the chapters.
-> (on the other hand, the sociological excerpts at the beginning of each arc are great!)
 > 
+> I wish the introduction phase would end sooner (we *still* don't know why the hell Ram is so special for the gods and/or the priests to make so much effort to keep him alive), but the overall pacing is pretty good.
+> 
+> The only thing I'd change is the short status updates before every few chapters, eg:
+> 
+> > As the note says, I’m trying for every Sunday here.  I don’t think I could write quickly enough to do biweekly updates for long.  I have up through the end of Chapter 2 written, and part of 3.1.
+> 
+> I'm going to be blunt: nobody cares. By now this is already obsolete.
+> 
+> These notes break the flow of the story, they make you sound way more insecure than the quality of the text warrants, and they don't bring the reader any information about the text.
+> 
+> I'd recommend you remove them, or at least put them at the end of the chapters.
+> 
+> (on the other hand, the sociological excerpts at the beginning of each arc are great!)
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (15 hours later)
 >> 
 >> 1. The chapter "glosses" are a relic from the earliest days of the story, when I hadn't figured out how to hide the archive and needed something to go before the jump so I wouldn't hit new readers with spoilers due to reverse chronological ordering.  The archive shouldn't be accessible now, but I kept them up through sheer inertia and to have a place to nag people about TWF voting.  I'll give it 24 hours or so for people to reply to this with "stop!  I love the inane commentary!" and then go through and gut them.
 >> 2. The slow buildup was inevitable for various reasons.  I could have cut or compressed parts of Chapter 3, I guess, but that would have removed almost all action from the first third of the book and I liked how they turned out.  The rest struck me as dramatically important for either exposition of relevant information or else as part of the long-term plot.  However, you have inspired me to move a good part of the big reveal forward to try and break my bad authorial habit of playing cards too close to the chest for too long.  That already just about wrecked one book.  Thank you.
 >> 3. I think the only artist who's allowed to not be insecure about his work is Kanye West.
->> 
 
->>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>> **u/CouteauBleu** [+2]  *We are the Empire.* (21 hours later)
 >>> 
 >>> I'd keep maybe one or two notes nagging people about TWF voting, 'cause calls to action are important, but yeah, I think it's better without the blurbs.
->>> You're welcome! I would definitely appreciate the reveal coming sooner. Right now it feels like, whatever the gods want from Ram, would be easier to achieve if he knew what the hell they were doing.
 >>> 
+>>> You're welcome! I would definitely appreciate the reveal coming sooner. Right now it feels like, whatever the gods want from Ram, would be easier to achieve if he knew what the hell they were doing.
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (a day later)
 >>>> 
 >>>> Okay, done.  I'll just post TWF reminders as comments from now on.  AFAICT you folks are doing most of the work keeping me afloat in the rankings anyway.
->>>> 
 
-> **u/BumblingJumbles** [+2] *
+> **u/BumblingJumbles** [+2]  (11 hours later)
 > 
 > The bit about the baby was funny as....*shit*.
-> 
 
 ---
 

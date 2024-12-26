@@ -2,7 +2,7 @@
 
 * Author: u/FormerlySarsaparilla *
 * URL: https://archiveofourown.org/works/18738010/chapters/47279494
-* Score: 29
+* Score: 30
 
 * Created: 2019-07-25T03:48:18
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/Kuratius** [+5] *
+> **u/Kuratius** [+5]  (4 hours later)
 > 
 > Would Sean have read HPMOR?
-> 
 
->> **u/ViceroyChobani** [+1]  *Reserve Pigeon Army**
+>> **u/ViceroyChobani** [+1]  *Reserve Pigeon Army* (15 hours later)
 >> 
 >> I hope not. There’s a certain level of genre awareness where a story becomes uncomfortable to read.  The appeal of fantasy stories is, in part, that it allows the reader to join a world divorced from their own while still in some way being relatable. Methods being a thing would be...to close to reality for me, personally.
->> 
 
->>> **u/Kuratius** [+3] *
+>>> **u/Kuratius** [+3]  (16 hours later)
 >>> 
 >>> Was just wondering, cause the whole true patronus thing almost seemed like a reference.
->>> 
 
 ---
 

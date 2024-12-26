@@ -2,7 +2,7 @@
 
 * Author: u/Kinrany *
 * URL: https://np.reddit.com/r/WritingPrompts/comments/5nibkj/wp_the_grim_reaper_appears_to_claim_your_life_hes/dcbqvkk/
-* Score: 113
+* Score: 107
 
 * Created: 2017-01-13T13:40:13
 
@@ -12,120 +12,109 @@
 
 ### Comments:
 
-> **u/TastyBrainMeats** [+33] *
+> **u/TastyBrainMeats** [+33]  (2 hours later)
 > 
 > That was the most Pratchettian  thing I've read in a while, and that's a high compliment.
-> 
 
->> **u/JaimeL_** [+6] *
+>> **u/JaimeL_** [+7]  (3 hours later)
 >> 
 >> XD
->> 
 
-> **u/CouteauBleu** [+28]  *We are the Empire.**
+> **u/CouteauBleu** [+28]  *We are the Empire.* (6 hours later)
 > 
 > Before I read the post "Yeah, right, like there's a magic thing that Death will listen to but has never heard before."
-> After I read the post... "Well."
 > 
+> After I read the post... "Well."
 
-> **u/Jiro_T** [+15] *
+> **u/Jiro_T** [+15]  (7 hours later)
 > 
 > 1) I can think of situations where multiple people have made a complaint and all were wrong; for instance, several people have claimed that Jews bake Christian babies' blood into matzohs.
-> 2) If the guy is a better reasoner than Death, Death's response should be to invoke [epistemic learned helplessness](http://squid314.livejournal.com/350090.html) and ignore his reasoning no matter how good it sounds, just like most real-life human beings will.
-> 3) If Death has previously been exposed to arguments about not taking people, he should have been previously exposed to *this* argument, and already had an answer for it.
 > 
+> 2) If the guy is a better reasoner than Death, Death's response should be to invoke [epistemic learned helplessness](http://squid314.livejournal.com/350090.html) and ignore his reasoning no matter how good it sounds, just like most real-life human beings will.
+> 
+> 3) If Death has previously been exposed to arguments about not taking people, he should have been previously exposed to *this* argument, and already had an answer for it.
 
->> **u/None** [+12] *
+>> **u/None** [+13]  (8 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Bowbreaker** [+5]  *Solitary Locust**
+>>> **u/Bowbreaker** [+5]  *Solitary Locust* (a day later)
 >>> 
 >>> Death is anthropomorphically human because humans are who created his avatar due to fear of the unfathomable. According to the story at least.
->>> 
 
->> **u/DaystarEld** [+6]  *Pokémon Professor**
+>> **u/DaystarEld** [+7]  *Pokémon Professor* (9 hours later)
 >> 
 >> Yeah, I was waiting for him to bring up people who drown and are resuscitated, or are dead for a couple minutes before having their hearts restarted.
->> 
 
->>> **u/JackStargazer** [+5]  *Primordial Apologist**
+>>> **u/JackStargazer** [+4]  *Primordial Apologist* (a day later)
 >>> 
 >>> That was what I expected as well. Asking if, over time, he has come later and later in the process of 'dying' as the medical science advanced and what some generations would consider 'dead' became merely 'seriously injured, but savable'.
->>> Then extrapolate that argument forward.
 >>> 
+>>> Then extrapolate that argument forward.
 
->> **u/Kinrany** [+5] *
+>> **u/Kinrany** [+5]  (20 hours later)
 >> 
 >> > If Death has previously been exposed to arguments about not taking people, he should have been previously exposed to this argument, and already had an answer for it.
->> Unless Dave is the first one.
 >> 
+>> Unless Dave is the first one.
 
-> **u/Kishoto** [+13] *
+> **u/Kishoto** [+12]  (17 hours later)
 > 
 > Eh. I honestly wasn't very impressed. The avatar of death seemed pretty unaware of a few key elements of his *primary function* which, to me, doesn't seem very likely. Especially considering he's ferried about 100 billion people (definitely googled that figure) to the afterlife. Dave's reasoning here doesn't seem so far out there that he would be the first of 100 billion people (ok, let's assume not EVERYONE pleads to live but even if 5% do, that's 5 billion...) to take that sort of angle. Or another angle that would work, considering how simply fallible Death is portrayed here.
-> In addition, in like 100 billion ferryings (not a word, sue me), you still think that Death would be incapable of detecting death? That seems very unlikely, to say the least. 
-> Overall an amusing read. But I'm not wow'd.
 > 
+> In addition, in like 100 billion ferryings (not a word, sue me), you still think that Death would be incapable of detecting death? That seems very unlikely, to say the least. 
+> 
+> Overall an amusing read. But I'm not wow'd.
 
->> **u/gods_fear_me** [+3]  *The Culture**
+>> **u/gods_fear_me** [+4]  *The Culture* (a day later)
 >> 
 >> Indeed, the concept itself is flawed and a good execution doesn't excuse that. Still, I enjoyed it.
->> 
 
->>> **u/Kishoto** [+2] *
+>>> **u/Kishoto** [+2]  (a day later)
 >>> 
 >>> Very fair. It's unique, if nothing else, and funny.
->>> 
 
-> **u/vshvsh** [+5] *
+> **u/vshvsh** [+5]  (19 hours later)
 > 
 > It is funny how many exemplars of rational fiction are samples of a common ["Man outwits the Devil"](http://www.mftd.org/index.php?action=atu&act=range&id=1155-1169) myth.
-> 
 
-> **u/JackStargazer** [+4]  *Primordial Apologist**
+> **u/JackStargazer** [+4]  *Primordial Apologist* (a day later)
 > 
 > I'm more interested in the fact that Death seems to be willing to ferry you to whatever afterlife you want. Not only that, but it seems to be a specific feature of his office, as he seems to be completely dependent on the newly dead person for direction as to where to go.
-> There has got to be a way to exploit that to gain effective godhood.
 > 
+> There has got to be a way to exploit that to gain effective godhood.
 
->> **u/Kinrany** [+2] *
+>> **u/Kinrany** [+2]  (a day later)
 >> 
 >> It's easy to make it impossible to interact with the 'real' world, but other than that exploiting is probably unnecessary, you simply get what you want as long as you don't try to escape your new universe.
->> 
 
->>> **u/JackStargazer** [+2]  *Primordial Apologist**
+>>> **u/JackStargazer** [+2]  *Primordial Apologist* (a day later)
 >>> 
 >>> I mean some religions , such as Catholic intercession of Saints, do leave back doors to access the real world from the afterlife.
->>> If it is that afterlife, it must have those back doors.
 >>> 
+>>> If it is that afterlife, it must have those back doors.
 
->>> **u/Gurkenglas** [+1] *
+>>> **u/Gurkenglas** [+1]  (a day later)
 >>> 
 >>> How about a copy of the real world to be omnipotent in, along with a read-only interface to original spacetime as a backup? Given that, I could pretend I never died and continue where I left off, or do some tricks related to https://www.reddit.com/r/rational/comments/5nty35/short_story_a_man_dies_and_is_sent_to_hell/ .
->>> 
 
->>>> **u/Kinrany** [+2] *
+>>>> **u/Kinrany** [+2]  (a day later)
 >>>> 
 >>>> Why would you need that interface if you already have a full copy?
->>>> 
 
->>>>> **u/Gurkenglas** [+2] *
+>>>>> **u/Gurkenglas** [+2]  (a day later)
 >>>>> 
 >>>>> Because I might be interested in what happens in the future. Although I guess a copy of all spacetime circumvents that problem.
->>>>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 days later)
 > 
 > Death is a DWIM genie. What kind of idiot doesn't want to die in this universe?
-> 
 
-> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (5 days later)
 > 
 > I imagine that Dave dies anyway, an the conversation continues a few minutes/hours later, when Dave realises it himself and Death comes back to pick the conversation where they left it, now with a proof that he is *right*.
-> Death can wait, after all. Nobody said that the Ferrying happens immediately after death.
 > 
+> Death can wait, after all. Nobody said that the Ferrying happens immediately after death.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/TheTheos *
 * URL: https://www.reddit.com/r/rational/comments/d9iaaa/mol_remaining_shots_from_chekovs_gun_and/
-* Score: 15
+* Score: 16
 
 * Created: 2019-09-26T11:25:19
 
@@ -19,68 +19,58 @@ Just out of my head:
 
 ### Comments:
 
-> **u/dbenc** [+15] *
+> **u/dbenc** [+16]  (7 hours later)
 > 
 > The giant dragon fireball he captured.
-> 
 
-> **u/Vlad1en** [+13] *
+> **u/Vlad1en** [+12]  (24 minutes later)
 > 
 > Zorian being able to simulate reality with mind powers is how I think he will fool divine contract.
-> 
 
-> **u/Argenteus_CG** [+9] *
+> **u/Argenteus_CG** [+9]  (9 hours later)
 > 
 > There's stuff going on with Zorian's family. His witch grandmother seems surely to have more relevance to the plot than she's had so far. It seems a likely bet that the psychic bloodline that Zorian and Daimen share comes from her. I seem to recall some suspicious connections between his family and the weeping too, but I don't remember the exact nature of the connection. Some of this may never be relevant to the main plot though, just remaining a piece of the background mysteries. Against Silverlake, though, would be a good time for her to step in or become relevant.
-> 
 
->> **u/Schuano** [+13] *
+>> **u/Schuano** [+12]  (14 hours later)
 >> 
 >> I really hope not. 
->> One of the joys of MoL is that it subverts the "Chosen One" narrative by being explicit that Zach is the "Chosen One."   If Zorian is a also super special because of his special heritage than that cheapens the series.
 >> 
+>> One of the joys of MoL is that it subverts the "Chosen One" narrative by being explicit that Zach is the "Chosen One."   If Zorian is a also super special because of his special heritage than that cheapens the series.
 
->>> **u/Argenteus_CG** [+15] *
+>>> **u/Argenteus_CG** [+13]  (15 hours later)
 >>> 
 >>> I mean, it's already pretty clear that Zorian's psychic powers are bloodline related. There's basically no other reason Daimen would be a psychic too, even if he IS a weaker one. But that doesn't make him the chosen one; LOTS of families have bloodline magic going on, including many minor characters. If anything, that's a little LESS unique and chosen-one-y than Zorian's natural psychic abilities being something unique to him entirely.
->>> 
 
->>> **u/notagiantdolphin** [+2] *
+>>> **u/notagiantdolphin** [+2]  (17 hours later)
 >>> 
 >>> I think that if it does happen, his grandmother won't be part of it.
->>>  Instead, his dreams (seas of glowing suns connected by threads, volcanoes, etc) will turn out to be vaguely prophetic. Maybe that he was primed for some of his actions by the angels (who lied a little). Or, if she is part of it, that he has a second bloodline effect he is unaware of, involving the last two images of his dreams - the most recent chapters made it clear that the first part of his recurring dreams was of the 'great web' or his sigil network, and could be his psychic abilities or something else interfering.
 >>> 
+>>>  Instead, his dreams (seas of glowing suns connected by threads, volcanoes, etc) will turn out to be vaguely prophetic. Maybe that he was primed for some of his actions by the angels (who lied a little). Or, if she is part of it, that he has a second bloodline effect he is unaware of, involving the last two images of his dreams - the most recent chapters made it clear that the first part of his recurring dreams was of the 'great web' or his sigil network, and could be his psychic abilities or something else interfering.
 
->> **u/minekasetsu** [+5] *
+>> **u/minekasetsu** [+4]  (14 hours later)
 >> 
 >> About his family connection to the weeping, you mean how the plague had left them untouched? I thought that was taken as normal, since the plague spread seemingly at random.
->> 
 
->>> **u/Argenteus_CG** [+2] *
+>>> **u/Argenteus_CG** [+2]  (14 hours later)
 >>> 
 >>> That was one of the things, but as I recall there may have been other hints that in the Kazinskis case, that was more than random luck. Again, though, I don't remember the specifics and I could easily be misremembering. Some of the hints may have been in the worldbuilding posts too, I really don't remember for sure.
->>> 
 
-> **u/side2k** [+8] *
+> **u/side2k** [+8]  (16 hours later)
 > 
 > Real Chekhov gun in the MoL is Fortov. For some chapters I was even thinking that he is the RR(and then, when it came to simulacrums, I thought that RR could be one of those, I just couldn't find a sufficient explanation for the timeline.
 > But man, sentient copies of yourself, knowing that they were created only to be spared - this is a Chekhov's time bomb.
-> 
 
-> **u/CrimzonNoble** [+3] *
+> **u/CrimzonNoble** [+4]  (10 hours later)
 > 
 > What about the vandalism his simulacrum made?
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > What about the non-mage dragons? As I recall red robe threatened Z&Z with about 30 non-mage dragons.
-> 
 
->> **u/TheTheos** [+1] *
+>> **u/TheTheos** [+1]  (2 days later)
 >> 
 >> Most likely just a bluff by Jornak. Or they are the force attacking Taramatula estate.
->> 
 
 ---
 

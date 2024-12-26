@@ -2,7 +2,7 @@
 
 * Author: u/Sailor_Vulcan  *Champion of Justice and Reason**
 * URL: https://www.reddit.com/r/rational/comments/5exrjl/wizard_kirby_and_the_methods_of_rationality/
-* Score: 23
+* Score: 21
 
 * Created: 2016-11-26T04:31:08
 
@@ -34,37 +34,38 @@ Like really, I don't have any more plot than that. Somebody else write it please
 
 ### Comments:
 
-> **u/Adekis** [+15] *
+> **u/Adekis** [+16]  (2 hours later)
 > 
 > I'm enjoying this uncommonly self-aware version of Kirby, but I don't know if I'd qualify him as rational just yet, and also I'm not seeing any Wizard People and frankly, don't really want to.
-> Consider the possibility of coming up with a Kirby fan fic rather than an un-fitting crossover. I particularly like the idea of reading in rather more detail about the misguided attempt to imperialistically exploit planet Popstar by a well-meaning but fundamentally wrong businessman.
-> Kirby's world is bizarre and strange and it'd interest me far more to see it given the "rational treatment" than to shunt Kirby off into Hogwarts.
 > 
+> Consider the possibility of coming up with a Kirby fan fic rather than an un-fitting crossover. I particularly like the idea of reading in rather more detail about the misguided attempt to imperialistically exploit planet Popstar by a well-meaning but fundamentally wrong businessman.
+> 
+> Kirby's world is bizarre and strange and it'd interest me far more to see it given the "rational treatment" than to shunt Kirby off into Hogwarts.
 
->> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (16 hours later)
 >> 
 >> That feels like a very big project. I don't think I have it in me to work on that right now. It occurs to me that the story above might work if Kirby got spliced or cloned partway through the story and the other Kirby alllied himself with Voldemort...
+>> 
 >> If you would like to try writing either of those story ideas go ahead. I have to admit nightmare and dreamland definitely has potential for rational
 >> retelling.
->> 
 
->>> **u/Adekis** [+1] *
+>>> **u/Adekis** [+1]  (19 hours later)
 >>> 
 >>> Thanks- I might give it a shot, but you're right to say it's a big project and I'm already trying to write some fairly expansive things, so who knows how far I'll get. On the other hand, "Rational" fan fiction is almost universally expansive, which is one reason I haven't tried my hand at it much. As a result, it kind of baffles my mind to think you'd want to write a Rational work about Voldemort and Hogwarts and Kirby and consider that *not* to be a big project. It might even have to be bigger than the one about Kirby's world in order to justify itself.
->>> Good Kirby vs. Evil Kirby has limited potential. One facet of Rational fan fiction is that the hero is Right by virtue of their reasoning abilities. If Evil Kirby is initially the same person as Good Kirby (and just off the top of my head he should be to maximize dramatic tension) then the only reason he'd make different choices than Good Kirby would in a given situation would either be that Good Kirby only obtained his rationalist worldview (and thus, his Rightness, by the rules of this type of story) after they became two people, or if Evil Rational Kirby was actually Good Rational Kirby and knew something that Good Kirby (actually Misinformed Rational Kirby in this hypothetical) didn't. If it's just Good Kirby vs. Evil Kirby in a straightforward way, then I fail to see what makes them fight or indeed what makes them Rational beyond an uncommon self-awareness, which of course isn't the same thing...
->>> Good luck on the project either way! :D
 >>> 
+>>> Good Kirby vs. Evil Kirby has limited potential. One facet of Rational fan fiction is that the hero is Right by virtue of their reasoning abilities. If Evil Kirby is initially the same person as Good Kirby (and just off the top of my head he should be to maximize dramatic tension) then the only reason he'd make different choices than Good Kirby would in a given situation would either be that Good Kirby only obtained his rationalist worldview (and thus, his Rightness, by the rules of this type of story) after they became two people, or if Evil Rational Kirby was actually Good Rational Kirby and knew something that Good Kirby (actually Misinformed Rational Kirby in this hypothetical) didn't. If it's just Good Kirby vs. Evil Kirby in a straightforward way, then I fail to see what makes them fight or indeed what makes them Rational beyond an uncommon self-awareness, which of course isn't the same thing...
+>>> 
+>>> Good luck on the project either way! :D
 
->>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (19 hours later)
 >>>> 
 >>>> i think you're misunderstanding me. those were just suggestions for if somebody else wanted to work on it. i honestly lost my inspiration for the story after writing the beginning above, since like i said most of my ideas for it were exhausted there.
->>>> 
 
->>>>> **u/Adekis** [+2] *
+>>>>> **u/Adekis** [+2]  (19 hours later)
 >>>>> 
 >>>>> Oh, okay. Well then... uh...
->>>>> I hope you find a more enduring plot bunny? \^o\^;
 >>>>> 
+>>>>> I hope you find a more enduring plot bunny? \^o\^;
 
 ---
 

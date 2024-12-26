@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://otherhistory.proboards.com/thread/431/shall-reap-whirlwind
-* Score: 2
+* Score: 3
 
 * Created: 2016-01-04T07:59:51
 

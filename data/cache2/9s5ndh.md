@@ -2,7 +2,7 @@
 
 * Author: u/AE-lith *
 * URL: https://www.reddit.com/r/rational/comments/9s5ndh/looking_for_a_story_i_got_recommended_on_here_a/
-* Score: 21
+* Score: 20
 
 * Created: 2018-10-28T18:54:13
 
@@ -14,50 +14,44 @@ Thanks for your help !
 
 ### Comments:
 
-> **u/ToaKraka** [+28]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+26]  *https://i.imgur.com/OQGHleQ.png* (8 minutes later)
 > 
 > [*The Cambist and Lord Iron*](http://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/)
-> 
 
->> **u/AE-lith** [+7] *
+>> **u/AE-lith** [+7]  (14 minutes later)
 >> 
 >> Yes! I was looking for "The Lambist" which didn't bring up anything. Thanks
->> 
 
-> **u/FxH_Absolute** [+7] *
+> **u/FxH_Absolute** [+6]  (4 hours later)
 > 
 > Thanks gents. Thus was quite entertaining.
-> 
 
-> **u/MacDancer** [+6] *
+> **u/MacDancer** [+5]  (8 hours later)
 > 
 > Oh shit, Daniel Abraham does good work. Not super rationalist, but I can recommend his Long Price Quartet as doing a great job of making wide-reaching ethical issues intensely personal. He's also a co-author of The Expanse, which is basically Game of Thrones in space.
-> 
 
->> **u/AE-lith** [+3] *
+>> **u/AE-lith** [+3]  (14 hours later)
 >> 
 >> Oh wow he's a half of James S.A. Corey ? I did not know that.
->> 
 
-> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade* (15 hours later)
 > 
 > > "how many days of a prisoner's life can we sacrifice to preserve a day of the king's life?"
-> That sounds like it could also be an excellent (and chillingly practical) question to ask in the Fullmetal Alchemist universe.
 > 
+> That sounds like it could also be an excellent (and chillingly practical) question to ask in the Fullmetal Alchemist universe.
 
->> **u/FordEngineerman** [+2] *
+>> **u/FordEngineerman** [+2]  (a day later)
 >> 
 >> Seems like Edward just screams "You can't do that!" a bunch then kicks everyone's ass.
->> 
 
->>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> Edward's a master of rational debate.
+>>> 
 >>> Ed: "I will punch you."  
 >>> Other person: "Oh, come on..."  
 >>> Ed: "With the automail arm."  
 >>> Other person: "Ok, I'll do as you say."
->>> 
 
 ---
 

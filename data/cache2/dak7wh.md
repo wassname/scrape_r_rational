@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 9
+* Score: 10
 
 * Created: 2019-09-28T19:00:33
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/lBlackFishl** [+1] *
+> **u/lBlackFishl** [+1]  (2 days later)
 > 
 > I'm liking your story quite a bit my man, thanks for continuing it. Looking forward to more.
-> 
 
-> **u/Paxona** [+1] *
+> **u/Paxona** [+1]  (4 days later)
 > 
 > Can't say it's the most original thing I've seen, but my interest is piqued.
-> 
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Nic_Cage_DM** [+3] *
+> **u/Nic_Cage_DM** [+3]  (5 hours later)
 > 
 > Woops
-> 
 
 ---
 

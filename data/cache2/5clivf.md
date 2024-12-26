@@ -2,7 +2,7 @@
 
 * Author: u/OrzBrain  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
 * URL: https://www.reddit.com/r/rational/comments/5clivf/human_goals_in_fiction_and_reality_and_the_goals/
-* Score: 8
+* Score: 9
 
 * Created: 2016-11-12T17:55:41
 
@@ -40,147 +40,167 @@ We must understand human goals and how they work before we can safely build a su
 
 ### Comments:
 
-> **u/None** [+19] *
+> **u/None** [+19]  (7 hours later)
 > 
 > You should read a whole lot more psychology and cognitive science before spouting off about what goals are and how our goals work.
-> 
 
->> **u/DerSaidin** [+15] *
+>> **u/DerSaidin** [+16]  (15 hours later)
 >> 
 >> > What are human goals? I don't know, and I don't think anyone else knows either, but I will now proceed to guess wildly and most likely wrongly based my incomplete knowledge of psychology.
->> Seems like responsible spouting off to me.
-
->> Would you like to contribute a TL;DR-sized summary of key stuff he got wrong?
 >> 
+>> Seems like responsible spouting off to me.
+>> 
+>> Would you like to contribute a TL;DR-sized summary of key stuff he got wrong?
 
->>> **u/None** [+5] *
+>>> **u/None** [+7]  (a day later)
 >>> 
 >>> I mean, on the one hand, fair enough.  On the other hand, an embodied Bayesian reinforcement learner with multiple reinforcement modalities isn't really gonna have "goals".  "Goal-directedness" is going to be the mode of behavior such an agent engages when it optimizes expected reward with no reward prediction error.  Saying that it *has* a utility function is incorrect, even though given sufficient knowledge of its cognitive structure we should be able to construct or induce one for it.
->>> 
 
->>> **u/None** [+5] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> > The main issue is that pleasure/pain is as useful a distinction as good/bad or "things people are motivated to do"/"things people are motivated to avoid". It adds no information and merely gives labels to the binary you already decided you wanted to investigate.
->>>> Yep.  To begin formalizing our folk-psychological theory of mind, we need to admit multiple reward channels (that is, the possibility of pleasure/pain in all sensory modalities, including intellectual ones) and with multiple levels of subtlety or precision.
->>>> And then we need to figure out how the brain combines those signals into a representation of a causal trajectory it "ought" to occupy, which is a totally open problem in cognitive science right now AFAIK.
 >>>> 
+>>>> Yep.  To begin formalizing our folk-psychological theory of mind, we need to admit multiple reward channels (that is, the possibility of pleasure/pain in all sensory modalities, including intellectual ones) and with multiple levels of subtlety or precision.
+>>>> 
+>>>> And then we need to figure out how the brain combines those signals into a representation of a causal trajectory it "ought" to occupy, which is a totally open problem in cognitive science right now AFAIK.
 
->>>>> **u/freshhawk** [+2] *
+>>>>> **u/freshhawk** [+2]  (a day later)
 >>>>> 
 >>>>> What about all the motivators that have nothing to do with pleasure or pain?
->>>>> Habit, social pressure, ideological constraints on which options you even consider, etc.
->>>>> I think that pleasure/pain is the wrong framework to try and understand these things, you end up having to have such a loose definition of "pleasure" and "pain" to account for the choices humans make that you end up with no predictive power and only a behaviorist model rather than a psychological one. Now you might as well just use the term "utility" because that's what you're talking about, and that's the word people who think similarly to you use.
->>>>> To be fair, you are coming at this from a direction of looking at a "rational actor" type model of humans, which I find extremely suspect. Human behaviour isn't the result of the brain choosing actions based on expected outcome/utility/reward, it's just a bunch of habits and a mishmash of heuristics pattern matching against what's expected of you, what you normally do with a veto vote given to your fears. It's not fundamentally a rational decision making machine we're examining here. People do disagree with me, many of them, but it's pretty definitively proven that the irrational collection of biases model has more predictive power than the utility function model. Of course, we have no idea how to apply the irrational models to large groups so economics still has to presume rational actors ... hence the predictive power of economics being so infamously bad that it's called "the dismal science".
 >>>>> 
+>>>>> Habit, social pressure, ideological constraints on which options you even consider, etc.
+>>>>> 
+>>>>> I think that pleasure/pain is the wrong framework to try and understand these things, you end up having to have such a loose definition of "pleasure" and "pain" to account for the choices humans make that you end up with no predictive power and only a behaviorist model rather than a psychological one. Now you might as well just use the term "utility" because that's what you're talking about, and that's the word people who think similarly to you use.
+>>>>> 
+>>>>> To be fair, you are coming at this from a direction of looking at a "rational actor" type model of humans, which I find extremely suspect. Human behaviour isn't the result of the brain choosing actions based on expected outcome/utility/reward, it's just a bunch of habits and a mishmash of heuristics pattern matching against what's expected of you, what you normally do with a veto vote given to your fears. It's not fundamentally a rational decision making machine we're examining here. People do disagree with me, many of them, but it's pretty definitively proven that the irrational collection of biases model has more predictive power than the utility function model. Of course, we have no idea how to apply the irrational models to large groups so economics still has to presume rational actors ... hence the predictive power of economics being so infamously bad that it's called "the dismal science".
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (a day later)
 >>>>>> 
 >>>>>> >Now you might as well just use the term "utility" because that's what you're talking about, and that's the word people who think similarly to you use.
+>>>>>> 
 >>>>>> Not quite.  "Reward" would be a better term.  "Utility" implies a VNM-rational utility function which is neither learned from evidence nor conditioned on sensory evidence.
+>>>>>> 
 >>>>>> >To be fair, you are coming at this from a direction of looking at a "rational actor" type model of humans, which I find extremely suspect.
+>>>>>> 
 >>>>>> That depends on what you mean by "rational actor".  I certainly agree that *economic* rationality has basically no predictive power when dealing with real humans outside isolated "purely economic", perfectly-understood experimental conditions.  I'm coming at this more from the perspective of embodied cognition theory, and using "rational" more in its colloquial meaning of "responding to reasons".
+>>>>>> 
 >>>>>> >Human behaviour isn't the result of the brain choosing actions based on expected outcome/utility/reward, it's just a bunch of habits and a mishmash of heuristics pattern matching against what's expected of you, what you normally do with a veto vote given to your fears. It's not fundamentally a rational decision making machine we're examining here. People do disagree with me, many of them, but it's pretty definitively proven that the irrational collection of biases model has more predictive power than the utility function model.
+>>>>>> 
 >>>>>> Try building a brain and see how far you get with that ;-).  Heuristics-and-biases models are currently disfavored because there's *just too damn many of them*.  How do you even program (from the AI/ML perspective) or predict (from the cognitive-scientific perspective) which heuristic or bias to apply in which situation?  It's gotten to be an unfalsifiable paradigm whose only descriptive/predictive content is that humans *won't* act like perfect *economic* agents, which was only ever considered a real paradigm because economics professors mounted a decades-long campaign to claim the word "rationality" as a term of art for how their models act.
+>>>>>> 
 >>>>>> [To quote a guy on the subject](http://philosophyofbrains.com/2015/12/14/surfing-uncertainty-prediction-action-and-the-embodied-mind.aspx):
+>>>>>> 
 >>>>>> >Is the human brain just a rag-bag of different tricks and stratagems, slowly accumulated over evolutionary time? For many years, I thought the answer to this question was most probably ‘yes’. Sure, brains were fantastic organs for adaptive success. But the idea that there might be just a few core principles whose operation lay at the heart of much neural processing was not one that had made it on to my personal hit-list. Seminal work on Artificial Neural Networks had, of course, opened many theoretical and practical doors. But the cumulative upshot was not (and is not) a unifying vision of the brain so much as a plethora of cool engineering solutions to specific problems and puzzles.
 >>>>>> >
 >>>>>> >Meantime, the sciences of the mind (and especially robotics) have been looking increasingly outwards, making huge strides in understanding how bodily form, action, and the canny use of environmental structures were co-operating with neural processes. That was a step in a very promising direction. But without a satisfying picture of the role of the biological brain, ‘embodied cognition’ was (I fear) never going to look very much like a systematic, principled science.
 >>>>>> >
 >>>>>> >Ever the optimist, I think we may now be glimpsing the shape of just such a science. It will be a science that will take many cues from an emerging vision of the brain as a multi-layer probabilistic prediction machine.
->>>>>> 
 
->>>>>>> **u/freshhawk** [+1] *
+>>>>>>> **u/freshhawk** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> > Try building a brain and see how far you get with that ;-). Heuristics-and-biases models are currently disfavored because there's just too damn many of them. How do you even program (from the AI/ML perspective) or predict (from the cognitive-scientific perspective) which heuristic or bias to apply in which situation?
->>>>>>> Well, it's obviously not a suitable approach to use if you are trying to build one, like you say, *way* to complex for our naive understanding of what's going on in our brains. But in terms of understanding how our brains work ... how hard it would be for our primitive selves to replicate doesn't tell me anything about the likelihood of it being true.
->>>>>>> I mean, obviously it's the best evolved decision making machine on earth, so that's pretty good. And obviously it carries some serious evolutionary baggage making it remarkably crappy at a lot of things. So this seems like a disagreement over where in the middle we fall. And I fall further and further on the side of us being much less rational than we think we are as time goes on. Every time we learn a new way to manipulate people, new ridiculous biases and perceptual illusions, it's striking just how much more shallow our abilities are compared to how it feels they are. Same with vision, hearing, memory. All turn out to be much less effective than we feel they are, and our brain just papers over the massive holes and confabulates as much as necessary, while hiding this from the conscious mind and giving us a completely misplaced certainty. I see no reason to expect that reason or consciousness should be any different, and plenty of reasons to expect this pattern to be found yet again. 
->>>>>>> I just think the optimism a lot of pundits and researchers have is profoundly misplaced. It's not a neural network. It's a whole bunch of them, overlapping, there are very specialized areas of the brain that do very specialized things. That likely function completely differently at a "software" level (for lack of a better metaphor) because they evolved at a completely different time in our evolution.
->>>>>>> I like the quote quite a bit, especially the recognition of the importance of embodied cognition, but anyone who feels that the approach is to build a brain instead of building one of the huge number of specialized subsystems seems very optimistic to me. Not that it isn't important work in improving machine learning or creating vastly useful tools of course, it's just not anywhere close to even the simplest conceivable AI. *And* this is with me thinking that humans brains are far less capable than we generally consider them, *even that* is going to be much more difficult than generally expected. Certainly more than what this round of optimistic AI researchers are promising (just like last time).
->>>>>>> tldr; In terms of the estimate of the complexity of the project I tend to side with the neuroscientists rather than the AI researchers. Even though I write software for a living and feel like I'm disparaging "my side" :)
 >>>>>>> 
+>>>>>>> Well, it's obviously not a suitable approach to use if you are trying to build one, like you say, *way* to complex for our naive understanding of what's going on in our brains. But in terms of understanding how our brains work ... how hard it would be for our primitive selves to replicate doesn't tell me anything about the likelihood of it being true.
+>>>>>>> 
+>>>>>>> I mean, obviously it's the best evolved decision making machine on earth, so that's pretty good. And obviously it carries some serious evolutionary baggage making it remarkably crappy at a lot of things. So this seems like a disagreement over where in the middle we fall. And I fall further and further on the side of us being much less rational than we think we are as time goes on. Every time we learn a new way to manipulate people, new ridiculous biases and perceptual illusions, it's striking just how much more shallow our abilities are compared to how it feels they are. Same with vision, hearing, memory. All turn out to be much less effective than we feel they are, and our brain just papers over the massive holes and confabulates as much as necessary, while hiding this from the conscious mind and giving us a completely misplaced certainty. I see no reason to expect that reason or consciousness should be any different, and plenty of reasons to expect this pattern to be found yet again. 
+>>>>>>> 
+>>>>>>> I just think the optimism a lot of pundits and researchers have is profoundly misplaced. It's not a neural network. It's a whole bunch of them, overlapping, there are very specialized areas of the brain that do very specialized things. That likely function completely differently at a "software" level (for lack of a better metaphor) because they evolved at a completely different time in our evolution.
+>>>>>>> 
+>>>>>>> I like the quote quite a bit, especially the recognition of the importance of embodied cognition, but anyone who feels that the approach is to build a brain instead of building one of the huge number of specialized subsystems seems very optimistic to me. Not that it isn't important work in improving machine learning or creating vastly useful tools of course, it's just not anywhere close to even the simplest conceivable AI. *And* this is with me thinking that humans brains are far less capable than we generally consider them, *even that* is going to be much more difficult than generally expected. Certainly more than what this round of optimistic AI researchers are promising (just like last time).
+>>>>>>> 
+>>>>>>> tldr; In terms of the estimate of the complexity of the project I tend to side with the neuroscientists rather than the AI researchers. Even though I write software for a living and feel like I'm disparaging "my side" :)
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> > But in terms of understanding how our brains work ... how hard it would be for our primitive selves to replicate doesn't tell me anything about the likelihood of it being true.
->>>>>>>> You just implicitly banned yourself from having plausibility opinions on *anything* by stating that your mind is just too primitive and broken to do it!  What the heck, dude?
->>>>>>>> >Every time we learn a new way to manipulate people, new ridiculous biases and perceptual illusions, it's striking just how much more shallow our abilities are compared to how it feels they are.
->>>>>>>> Why can't perceptual illusions, just to pick that example, be *precisely* Bayes-optimal responses to highly unusual stimuli whose actual causes are given very little weight in our empirically-induced hyperpriors?  The No Free Lunch Theorem says that no method of reasoning can recover the ground truth *all the time*.
->>>>>>>> >Same with vision, hearing, memory. All turn out to be much less effective than we feel they are, and our brain just papers over the massive holes and confabulates as much as necessary, while hiding this from the conscious mind and giving us a completely misplaced certainty.
->>>>>>>> Again, you're really not accounting for how most of this brain machinery didn't evolve to *do* verbatim recording or symbolic computation.  It evolved to do probability density estimation where precise information was available about extremely large hypothesis spaces.
->>>>>>>> >It's not a neural network. It's a whole bunch of them, overlapping, there are very specialized areas of the brain that do very specialized things. That likely function completely differently at a "software" level (for lack of a better metaphor) because they evolved at a completely different time in our evolution.
->>>>>>>> The idea I linked you to is that it isn't actually a "neural network" in the ANN sense at all.  It's a relatively small, simple piece of natively probabilistic predictive hardware called a "cortical microcircuit", tiled over and over again in vast circuits and hierarchies to form the various cortices which then serve to each probabilistically model some aspect of the incoming and outgoing signals.
->>>>>>>> >I like the quote quite a bit, especially the recognition of the importance of embodied cognition, but anyone who feels that the approach is to build a brain instead of building one of the huge number of specialized subsystems seems very optimistic to me.
->>>>>>>> The quote was from a cognitive scientist and philosopher of mind, whose work is based on recent neuroscience.  No AI hype there.  In fact, the general reason that explicitly probabilistic approach *isn't applied* to AI/ML is because probabilistic inference has a vastly higher computational difficulty than just doing stochastic gradient descent with huge data-centers.  And yet it's the most probable thing for our real brains to be made of.
->>>>>>>> >And this is with me thinking that humans brains are far less capable than we generally consider them, even that is going to be much more difficult than generally expected. Certainly more than what this round of optimistic AI researchers are promising (just like last time).
->>>>>>>> I do think human brains have lots of failure modes.  I just take a somewhat grimmer point of view: Bayes-optimal reasoning, with many modeling assumptions that are genuinely helpful for the real world, has a lot of failure modes when strong prior knowledge isn't built in to restrict the ability of insane hypotheses to rise to high probability.
->>>>>>>> >tldr; In terms of the estimate of the complexity of the project I tend to side with the neuroscientists rather than the AI researchers. Even though I write software for a living and feel like I'm disparaging "my side" :)
->>>>>>>> Yep.  I'm just saying that the neuroscientists and cognitive scientists are actually more sanguine, but less obsessed with GPUs and hype, than the AI people right now.
 >>>>>>>> 
+>>>>>>>> You just implicitly banned yourself from having plausibility opinions on *anything* by stating that your mind is just too primitive and broken to do it!  What the heck, dude?
+>>>>>>>> 
+>>>>>>>> >Every time we learn a new way to manipulate people, new ridiculous biases and perceptual illusions, it's striking just how much more shallow our abilities are compared to how it feels they are.
+>>>>>>>> 
+>>>>>>>> Why can't perceptual illusions, just to pick that example, be *precisely* Bayes-optimal responses to highly unusual stimuli whose actual causes are given very little weight in our empirically-induced hyperpriors?  The No Free Lunch Theorem says that no method of reasoning can recover the ground truth *all the time*.
+>>>>>>>> 
+>>>>>>>> >Same with vision, hearing, memory. All turn out to be much less effective than we feel they are, and our brain just papers over the massive holes and confabulates as much as necessary, while hiding this from the conscious mind and giving us a completely misplaced certainty.
+>>>>>>>> 
+>>>>>>>> Again, you're really not accounting for how most of this brain machinery didn't evolve to *do* verbatim recording or symbolic computation.  It evolved to do probability density estimation where precise information was available about extremely large hypothesis spaces.
+>>>>>>>> 
+>>>>>>>> >It's not a neural network. It's a whole bunch of them, overlapping, there are very specialized areas of the brain that do very specialized things. That likely function completely differently at a "software" level (for lack of a better metaphor) because they evolved at a completely different time in our evolution.
+>>>>>>>> 
+>>>>>>>> The idea I linked you to is that it isn't actually a "neural network" in the ANN sense at all.  It's a relatively small, simple piece of natively probabilistic predictive hardware called a "cortical microcircuit", tiled over and over again in vast circuits and hierarchies to form the various cortices which then serve to each probabilistically model some aspect of the incoming and outgoing signals.
+>>>>>>>> 
+>>>>>>>> >I like the quote quite a bit, especially the recognition of the importance of embodied cognition, but anyone who feels that the approach is to build a brain instead of building one of the huge number of specialized subsystems seems very optimistic to me.
+>>>>>>>> 
+>>>>>>>> The quote was from a cognitive scientist and philosopher of mind, whose work is based on recent neuroscience.  No AI hype there.  In fact, the general reason that explicitly probabilistic approach *isn't applied* to AI/ML is because probabilistic inference has a vastly higher computational difficulty than just doing stochastic gradient descent with huge data-centers.  And yet it's the most probable thing for our real brains to be made of.
+>>>>>>>> 
+>>>>>>>> >And this is with me thinking that humans brains are far less capable than we generally consider them, even that is going to be much more difficult than generally expected. Certainly more than what this round of optimistic AI researchers are promising (just like last time).
+>>>>>>>> 
+>>>>>>>> I do think human brains have lots of failure modes.  I just take a somewhat grimmer point of view: Bayes-optimal reasoning, with many modeling assumptions that are genuinely helpful for the real world, has a lot of failure modes when strong prior knowledge isn't built in to restrict the ability of insane hypotheses to rise to high probability.
+>>>>>>>> 
+>>>>>>>> >tldr; In terms of the estimate of the complexity of the project I tend to side with the neuroscientists rather than the AI researchers. Even though I write software for a living and feel like I'm disparaging "my side" :)
+>>>>>>>> 
+>>>>>>>> Yep.  I'm just saying that the neuroscientists and cognitive scientists are actually more sanguine, but less obsessed with GPUs and hype, than the AI people right now.
 
->> **u/MrCogmor** [+1] *
+>> **u/MrCogmor** [+1]  (2 days later)
 >> 
 >> In particular OP should read [lukeprog's guide to human motivation](http://lesswrong.com/lw/71x/a_crash_course_in_the_neuroscience_of_human/)
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> Oh hey, yes, definitely!
->>> 
 
-> **u/Fredlage** [+8] *
+> **u/Fredlage** [+9]  (2 hours later)
 > 
 > >(Only for some reason he called goals "utility functions." Beats me why.)
-> Not his invention: https://en.m.wikipedia.org/wiki/Utility
 > 
+> Not his invention: https://en.m.wikipedia.org/wiki/Utility
 
->> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (3 hours later)
 >> 
 >> > Not his invention: https://en.m.wikipedia.org/wiki/Utility
->> But why use it in place of the word "goal"? As far as I can tell they mean the same thing. Does use of the more obscure term signal to the reader that he knows what he's talking about? Is it a nudge that the reader should go and read up on economic utility to more fully understand what "goal" means?
->> I was also considering the difference in meaning between "power" and "intelligence". I guess what it comes down to is that power is intelligence plus resources. So a not particularly intelligent person could, say, find an advanced beam weapon lying around and use it to vaporize something she didn't like without having the intelligence to build the beam weapon, or even to guess at how it works. But *something* had to have the intelligence to create the beam weapon, and when they did that they used intelligence to create resources, resources which do not require the same amount of intelligence to utilize.
 >> 
+>> But why use it in place of the word "goal"? As far as I can tell they mean the same thing. Does use of the more obscure term signal to the reader that he knows what he's talking about? Is it a nudge that the reader should go and read up on economic utility to more fully understand what "goal" means?
+>> 
+>> I was also considering the difference in meaning between "power" and "intelligence". I guess what it comes down to is that power is intelligence plus resources. So a not particularly intelligent person could, say, find an advanced beam weapon lying around and use it to vaporize something she didn't like without having the intelligence to build the beam weapon, or even to guess at how it works. But *something* had to have the intelligence to create the beam weapon, and when they did that they used intelligence to create resources, resources which do not require the same amount of intelligence to utilize.
 
->>> **u/Roxolan** [+11]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+10]  *Head of antimemetiWalmart senior assistant manager* (4 hours later)
 >>> 
 >>> > But why use it in place of the word "goal"? As far as I can tell they mean the same thing.
->>> "Utility function" also encapsulate the idea that goals have different priorities, and offers a clear, unambiguous solution to situations where two goals conflict.
->>> If you have a formally-defined utility function, a prediction algorithm, and some input, you always know exactly what to do at all times: whatever your prediction algorithm says will maximize your utility function.
 >>> 
+>>> "Utility function" also encapsulate the idea that goals have different priorities, and offers a clear, unambiguous solution to situations where two goals conflict.
+>>> 
+>>> If you have a formally-defined utility function, a prediction algorithm, and some input, you always know exactly what to do at all times: whatever your prediction algorithm says will maximize your utility function.
 
->>>> **u/OrzBrain** [+9]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>> **u/OrzBrain** [+6]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (5 hours later)
 >>>> 
 >>>> Oh. Okay, thanks. I guess I was at least unconsciously mistaking it for sesquipedalianism in the service of signaling. I'll just go ahead and delete that.
->>>> 
 
->>>>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning**
+>>>>> **u/TK17Studios** [+11]  *Author of r!Animorphs: The Reckoning* (5 hours later)
 >>>>> 
 >>>>> > sesquipedalianism in the service of signaling
->>>>> HAH
 >>>>> 
+>>>>> HAH
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (7 hours later)
 >>>> 
 >>>> > 
 >>>> > 
 >>>> > If you have a formally-defined utility function, a prediction algorithm, and some input, you always know exactly what to do at all times: whatever your prediction algorithm says will maximize your utility function.
->>>> Yes, but that's just how *any* normative reasoning model works: the algorithm calculates how to optimize some quantity.
 >>>> 
+>>>> Yes, but that's just how *any* normative reasoning model works: the algorithm calculates how to optimize some quantity.
 
->>>>> **u/electrace** [+3] *
+>>>>> **u/electrace** [+3]  (11 hours later)
 >>>>> 
 >>>>> Yes, but "utility function" gets the idea across quickly, and allows for an easy transition into Game Theory.
->>>>> 
 
->>> **u/freshhawk** [+3] *
+>>> **u/freshhawk** [+3]  (a day later)
 >>> 
 >>> > But why use it in place of the word "goal"? As far as I can tell they mean the same thing
->>> Goal implies conscious deliberation and choice, whereas utility is also useful from a behaviorist perspective. So it's still useful when looking at behaviour without having to guess what the internal motivations for that behaviour where. If you aren't guessing then you are asking for a self-report and might as well be guessing given how often people are unaware, inconsistent or just lying.
 >>> 
+>>> Goal implies conscious deliberation and choice, whereas utility is also useful from a behaviorist perspective. So it's still useful when looking at behaviour without having to guess what the internal motivations for that behaviour where. If you aren't guessing then you are asking for a self-report and might as well be guessing given how often people are unaware, inconsistent or just lying.
 
 ---
 

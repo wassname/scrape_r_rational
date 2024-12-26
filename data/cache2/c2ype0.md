@@ -2,7 +2,7 @@
 
 * Author: u/IamJackFox *
 * URL: https://www.reddit.com/r/rational/comments/c2ype0/worth_the_candle_a_major_unanswered_question/
-* Score: 44
+* Score: 39
 
 * Created: 2019-06-20T17:12:20
 
@@ -22,126 +22,115 @@ If these questions have been answered already, kindly ignore this post. Or just 
 
 ### Comments:
 
-> **u/kurtofconspiracy** [+38] *
+> **u/kurtofconspiracy** [+42]  (an hour later)
 > 
 > It has been represented as a complex political attack on her, (spearheaded by Larkspur?), where the legal aspect was only a small part.
-> As far as I remember, Joon has never looked deeper into it, because this description has been enough for him to file it as blah, blah, politics.
-> See for example the bio in ch. 15:
-> She was once a keystone member of a bloc of power within the Lost  King’s Court, but now she has been cast out through means both  semi-legal and downright nefarious.
-> This is enough to explain why it hasn't been discussed, but yes, it does leave the door open for the specific crime to be interesting.
 > 
+> As far as I remember, Joon has never looked deeper into it, because this description has been enough for him to file it as blah, blah, politics.
+> 
+> See for example the bio in ch. 15:
+> 
+> She was once a keystone member of a bloc of power within the Lost  King’s Court, but now she has been cast out through means both  semi-legal and downright nefarious.
+> 
+> This is enough to explain why it hasn't been discussed, but yes, it does leave the door open for the specific crime to be interesting.
 
-> **u/MythSteak** [+32] *
+> **u/MythSteak** [+29]  (45 minutes later)
 > 
 > Due to the way people inherit magical items, Mary is the closest living relative to Uther, which puts a huge target on her back.
-> I don’t know what the actual “crimes” she was accused of, but I suspect that it doesn’t matter.... her rivals need her out of the way so that they can “inherit” her land and entads
 > 
+> I don’t know what the actual “crimes” she was accused of, but I suspect that it doesn’t matter.... her rivals need her out of the way so that they can “inherit” her land and entads
 
-> **u/LLJKCicero** [+17] *
+> **u/LLJKCicero** [+18]  (5 hours later)
 > 
 > Kind of a tangent: how the fuck was Mary able to randomly make a void pistol immediately after landing in apocalyptic zombie land? Did they have lots of void pistol parts just kind of lying around? That part always felt to me like Minecraft, where after punching trees for a few minutes you can make a crafting table and stairs and shit.
-> 
 
->> **u/IICVX** [+20] *
+>> **u/IICVX** [+19]  (10 hours later)
 >> 
 >> My impression is that when you bang against one side of a void crystal, it sends a packet of "void" flying out the other side. 
->> Therefore, a void pistol is literally just a trigger mechanism attached to a crystal. Press the trigger, the hammer bangs on the crystal, you get a hole in the distance. 
->> Keep in mind that Mary was in a machine shop when he found her - a competent scavenger should be able to make a simple "pull lever, bang crystal" apparatus out of the scraps in your average garage.
 >> 
+>> Therefore, a void pistol is literally just a trigger mechanism attached to a crystal. Press the trigger, the hammer bangs on the crystal, you get a hole in the distance. 
+>> 
+>> Keep in mind that Mary was in a machine shop when he found her - a competent scavenger should be able to make a simple "pull lever, bang crystal" apparatus out of the scraps in your average garage.
 
->>> **u/kurtofconspiracy** [+14] *
+>>> **u/kurtofconspiracy** [+16]  (14 hours later)
 >>> 
 >>> It is probably electricity that does it, at least that's how you get them to explode. ch 60:
->>> "All you really needed to make a void crystal explode was a  sufficiently powerful electric charge, which would cause it to radiate  void out in all directions, eliminating matter from existence."
->>> It would stand to reason that shooting works with a smaller charge. But yes, very simple to do once you have a crystal and a machine shop.
 >>> 
+>>> "All you really needed to make a void crystal explode was a  sufficiently powerful electric charge, which would cause it to radiate  void out in all directions, eliminating matter from existence."
+>>> 
+>>> It would stand to reason that shooting works with a smaller charge. But yes, very simple to do once you have a crystal and a machine shop.
 
->> **u/Lightwavers** [+11]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+12]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (7 hours later)
 >> 
 >> Not many people go to the apocalyptic zombie lands to scavenge, and void crystals are cheap. After you get a void crystal it's child's play to turn it into a bomb or gun.
->> 
 
-> **u/Gr_Cheese** [+17] *
+> **u/Gr_Cheese** [+17]  (an hour later)
 > 
 > ... Do we know why Aerb!Joon ended up in a trial by adversity? I honestly can't remember. I do remember Earth!Joon consciously choosing not to pull those threads when they popped up, which meant he didn't pull on Mary's trial by adversity threads either.
-> 
 
->> **u/None** [+26] *
+>> **u/None** [+28]  (an hour later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Gr_Cheese** [+20] *
+>>> **u/Gr_Cheese** [+22]  (an hour later)
 >>> 
 >>> That's a pretty low bar to warrant such a roundabout death sentence, but if Mary's crimes were of a similar nature, then I'm not surprised it was glossed over.
->>> 
 
->>> **u/nineran** [+12] *
+>>> **u/nineran** [+14]  (3 hours later)
 >>> 
 >>> Interestingly, this is what he claims when he meets Mary, too.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/blast_ended_sqrt** [+11] *
+>>>>> **u/blast_ended_sqrt** [+10]  (7 hours later)
 >>>>> 
 >>>>> I just looked through a bunch of Reimer conversations and I don't think it ever came up (in any more detail than "you were arrested"). I wouldn't be surprised if his "lie" was right though, given all the other parallels.
->>>>> 
 
->>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (10 hours later)
 >>> 
 >>> Was it? I dont remember that. What chapter was that in?
->>> 
 
->> **u/dinoseen** [+2] *
+>> **u/dinoseen** [+2]  (10 hours later)
 >> 
 >> I thought it was because of what happened with Maddie.
->> 
 
-> **u/i6i** [+11] *
+> **u/i6i** [+12]  (15 hours later)
 > 
 > Literally the first thing we learn about her is that she was party to the coverup of the failed anti-existential threat research that created the risen lands and that this resulted in her fall from grace.
-> 
 
->> **u/LupoCani** [+11] *
+>> **u/LupoCani** [+10]  (22 hours later)
 >> 
 >> To be perfectly clear, it has not at all been stated that the crime for which she was officially convicted had any relation to the illegal research station. I'd say it's unlikely, given that the existence of the research facility was supposedly still deeply classified.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (4 days later)
 >> 
 >> >To be perfectly clear, it has not at all been stated that the crime for which she was officially convicted had any relation to the illegal research station. I'd say it's unlikely, given that the existence of the research facility was supposedly still deeply classified.
->> I thought they were researching the risen lands, not that they had created it.
 >> 
+>> I thought they were researching the risen lands, not that they had created it.
 
->> **u/IamJackFox** [+2] *
+>> **u/IamJackFox** [+2]  (21 hours later)
 >> 
 >> What chapter is this?
->> 
 
->>> **u/i6i** [+2] *
+>>> **u/i6i** [+2]  (a day later)
 >>> 
 >>> Like chapter 4? It's why she knows about the port key in the first place.
->>> 
 
-> **u/Rice_22** [+8] *
+> **u/Rice_22** [+8]  (7 hours later)
 > 
 > Considering what the DM said about manipulating events so anagrams could work, "for the sake of plot" is a valid reason.
-> Edit: I dislike "flashback revelations" in stories, if Amaryllis' past crime becomes a major plot point now 160+ chapters in when it wasn't even mentioned in detail earlier. It feels like a cop-out instead of properly foreshadowing things.
 > 
+> Edit: I dislike "flashback revelations" in stories, if Amaryllis' past crime becomes a major plot point now 160+ chapters in when it wasn't even mentioned in detail earlier. It feels like a cop-out instead of properly foreshadowing things.
 
-> **u/None** [+21] *
+> **u/None** [+21]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/FlippantGod** [+1] *
+>> **u/FlippantGod** [+1]  (2 days later)
 >> 
 >> Unlawfully thot: b gone
->> 
 
 ---
 

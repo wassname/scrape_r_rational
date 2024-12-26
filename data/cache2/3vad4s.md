@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: http://junctureserial.blogspot.com/2015/12/interlude-04.html
-* Score: 7
+* Score: 8
 
 * Created: 2015-12-03T15:13:49
 

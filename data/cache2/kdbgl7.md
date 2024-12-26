@@ -2,7 +2,7 @@
 
 * Author: u/UchuuStranger *
 * URL: https://www.reddit.com/r/rational/comments/kdbgl7/eliezer_yudkovskys_eutopiaweirdtopia_story/
-* Score: 13
+* Score: 14
 
 * Created: 2020-12-15T01:18:01
 
@@ -12,21 +12,18 @@ So I enjoyed Eliezer Yudkovsky's "Three Worlds Collide" story, and in the [comme
 
 ### Comments:
 
-> **u/fljared** [+9]  *United Federation of Planets**
+> **u/fljared** [+10]  *United Federation of Planets* (2 hours later)
 > 
 > I suspect not, given this quote:
 > > It was also seductive to the point that I had to exert a serious effort to prevent my soul from getting sucked out.  (I suspect that's a general problem; that it's a good idea emotionally (not just epistemically) to not visualize your better Future in too much detail.  You're better off comparing yourself to the Past.  I may write a separate post on this.)
-> 
 
-> **u/Rebuta** [+2] *
+> **u/Rebuta** [+2]  (6 hours later)
 > 
 > damn, I do remember reading a story where rape was legal but I have no idea what it was now.
-> 
 
->> **u/Grasmel** [+11] *
+>> **u/Grasmel** [+10]  (8 hours later)
 >> 
 >> That was also Three World Collide.
->> 
 
 ---
 

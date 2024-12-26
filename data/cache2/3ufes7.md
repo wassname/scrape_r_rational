@@ -2,7 +2,7 @@
 
 * Author: u/Calamitizer  *Shears**
 * URL: http://www.fimfiction.net/story/300693/6/shears/bridges-6
-* Score: 14
+* Score: 13
 
 * Created: 2015-11-27T04:25:44
 
@@ -12,22 +12,21 @@
 
 ### Comments:
 
-> **u/Calamitizer** [+4]  *Shears**
+> **u/Calamitizer** [+4]  *Shears* (47 seconds later)
 > 
 > The story begins [here](http://www.fimfiction.net/story/300693/1/shears/bridges-1).
-> Basic info is [here](https://www.reddit.com/r/rational/comments/3te0fy/rtff_shears_chapter_1_rmlp/cx5d65r).
-> Thanks for reading!
 > 
+> Basic info is [here](https://www.reddit.com/r/rational/comments/3te0fy/rtff_shears_chapter_1_rmlp/cx5d65r).
+> 
+> Thanks for reading!
 
->> **u/Pakars** [+5] *
+>> **u/Pakars** [+5]  (4 hours later)
 >> 
 >> This is actually remarkably enjoyable. The interactions of a Twilight Sparkle with legitimate social difficulties is very interesting to read.
->> 
 
-> **u/Gurkenglas** [+2] *
+> **u/Gurkenglas** [+2]  (8 hours later)
 > 
 > Ah, I guess you don't need superposition shenanigans to get projectile firing. She can emulate any machine she can imagine? (Where I guess the time/mana needed goes up with the complexity more than the size.)
-> 
 
 ---
 

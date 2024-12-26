@@ -2,7 +2,7 @@
 
 * Author: u/pepeipe *
 * URL: https://www.royalroad.com/fiction/chapter/321322
-* Score: 26
+* Score: 23
 
 * Created: 2019-01-05T00:59:10
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/jaghataikhan** [+2]  *Primarch of the White Scars**
+> **u/jaghataikhan** [+2]  *Primarch of the White Scars* (15 hours later)
 > 
 > Rather enjoyed the fight against the mainframw, especially how well Theo is learning to deal with things with her trusty monomolecular glaive.
-> What was the divide by half thing that dave used to beat the herd of copiers? I've completely forgotten if it were an item, a skill with limited uses, etc
 > 
+> What was the divide by half thing that dave used to beat the herd of copiers? I've completely forgotten if it were an item, a skill with limited uses, etc
 
->> **u/ArgusTheCat** [+1] *
+>> **u/ArgusTheCat** [+1]  (19 hours later)
 >> 
 >> One of the two blues he absorbed a while back, so, limited use power.
->> 
 
 ---
 

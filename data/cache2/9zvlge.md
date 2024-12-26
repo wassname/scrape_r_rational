@@ -2,7 +2,7 @@
 
 * Author: u/BreakAManByHumming *
 * URL: https://www.reddit.com/r/rational/comments/9zvlge/exploiting_attack_on_titans_mechanics_for/
-* Score: 26
+* Score: 25
 
 * Created: 2018-11-24T04:48:33
 
@@ -32,94 +32,80 @@ Let me know what cheeky LW-cheese you find in this setting.
 
 ### Comments:
 
-> **u/u_PM_me_nihilism** [+32] *
+> **u/u_PM_me_nihilism** [+30]  (53 minutes later)
 > 
 > Not needing to eat + predictable behavior + wanting to eat humans = free energy. Any design which harnesses zombies for power should work with titans scaled up with sufficiently durable materials assuming no hostile special titans (which gives the series an excuse, sort of). But you only really need a few titans in a secure facility to produce a lot of power, which isn't a huge security risk. You can have it underground for more special titan security or outside the walls for better scalability
-> 
 
->> **u/BreakAManByHumming** [+21] *
+>> **u/BreakAManByHumming** [+19]  (an hour later)
 >> 
 >> Not to spoil, I'll just say this works and has been done in that universe, even easier than that because one of the unique titans can control regular titans.
->> 
 
-> **u/MasterCrab** [+12] *
+> **u/MasterCrab** [+12]  (an hour later)
 > 
 > I thought titans became more active during the day compared to night time or something. This probably suggests that they get their energy from the sun or something.
-> 
 
->> **u/BreakAManByHumming** [+10] *
+>> **u/BreakAManByHumming** [+9]  (an hour later)
 >> 
 >> It's such an improbable handwave I didn't feel it worth mentioning. Especially since there's explicitly magic later on. But yeah possibly a consideration.
->> 
 
->>> **u/JesradSeraph** [+3] *
+>>> **u/JesradSeraph** [+3]  (9 hours later)
 >>> 
 >>> Have you looked at the yeast theory ? I think it was on the Film Theory Youtube show (MatPat). It attempts to shoehorn the titans into recognizable biology.
->>> 
 
->> **u/narfanator** [+3] *
+>> **u/narfanator** [+3]  (4 hours later)
 >> 
 >> In the manga, this is explicity one the theories that they *test*.
->> 
 
-> **u/Trekshcool** [+6] *
+> **u/Trekshcool** [+9]  (24 minutes later)
 > 
 > With their technology and population, it seems pretty hard to exploit this mechanic.  But its true, you can get infinite flesh aka mass from these titans, free energy? You could also build a hamster wheel type structure which you can get energy from. Using wild titans seems hard but human hybrids can be exploited in many ways because of their size-changing nature, they could be transformed in an enclosure(underground?) which only has a human-sized exit, once you have them there im sure they can be used in one way or another. 
-> I don't think titans can walk under the sea but its possible, they already ignore so many laws.
 > 
+> I don't think titans can walk under the sea but its possible, they already ignore so many laws.
 
->> **u/None** [+6] *
+>> **u/None** [+7]  (47 minutes later)
 >> 
 >> Titan mass is destroyed when severed from the titan. The only exception to this is the titan crystal, which only shifters can use at will. (Or titans with the capability given the directive by the Coordinate power, as seen with the walls.) You could use this for building really fast, but not much else. The only other thing I think is viable is using the heat given off by their regeneration as a source of energy, or just harnessing the colossal titan's steam release ability. Those both have resource costs (wasting the materials that can damage titan skin, building a colossal titan sized steam plant, etc.)
->> 
 
->>> **u/Trekshcool** [+6] *
+>>> **u/Trekshcool** [+4]  (an hour later)
 >>> 
 >>> Don't they have unlimted stamina? I haven't watched the show in a long time so im not 100% but im pretty sure you can just harness energy by luring them into moving.
->>> 
 
->>> **u/BreakAManByHumming** [+3] *
+>>> **u/BreakAManByHumming** [+3]  (an hour later)
 >>> 
 >>> You could probably burn their bodymass if you're fast, only reason that wouldn't work is the setting's magic. There are a bajillion ways to get free energy out of them, though.
->>> 
 
->>>> **u/Chosen_Pun** [+3]  *The Chosen Ones**
+>>>> **u/Chosen_Pun** [+3]  *The Chosen Ones* (a day later)
 >>>> 
 >>>> Depending on how fast the mass disappears, you can still build a crude (and morbid) purely mechanical perpetual motion machine. Drop into a wheel repeatedly severed titan limbs, and as long you can get more energy out than it takes to cut the flesh, you can drive the blade off the same device, and collect the difference as output.
->>>> 
 
-> **u/Yuugurenorito** [+7] *
+> **u/Yuugurenorito** [+7]  (10 hours later)
 > 
 > Just a few things: there are 9 unique titan shifters, not 7. Mindless titans need at least some amount of solar energy to operate, even though the amount required isn't the same from one individual to another, so it's not like they produce energy out of nowhere. Also, while the mechanism of "eating a shifter to become one" has been covered in the anime, the 13y curse and 9 unique shifters are not yet revealed so be careful with spoilers.  
 > Other than that, very interesting ideas.
-> 
 
-> **u/Terkala** [+15] *
+> **u/Terkala** [+17]  (3 hours later)
 > 
 > Attack on Titan has the most inconsistent universe. Most of the rules about how Titans work are designed for maximum drama, and clear that they never thought of them when the earlier episodes were being written.
-> I'm sure if the humans ever figured out a way to harness energy from a Titan, a magical teleporting titan would show up just to smash it all and disappear again.
 > 
+> I'm sure if the humans ever figured out a way to harness energy from a Titan, a magical teleporting titan would show up just to smash it all and disappear again.
 
->> **u/melmonella** [+18]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+18]  *Tremble, o ye mighty, for a new age is upon you* (7 hours later)
 >> 
 >> Smash you say? So, you could use it for mining by putting generator facilities under the ore mine?
->> 
 
->>> **u/daytodave** [+9]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+8]  *an altruistic conversion of calories to hedons* (10 hours later)
 >>> 
 >>> God I love humans.
->>> 
 
->> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (3 days later)
 >> 
 >> I agree about the inconsistency of it all. One of the biggest plot holes is that it's once stated that the Titans are really low density and light (which I suppose is sort of meant to obviate the fact that this mass is created from nowhere? Perhaps we should really believe it's just condensed sunlight?), but then when they attack they totally seem massive and cause comparable damage. If they really were light they could be knocked over with no effort by all the cannonballs they instead tank without a problem.
->> 
 
-> **u/GeneralExtension** [+3] *
+> **u/GeneralExtension** [+3]  (a day later)
 > 
 > >the obvious exploits would surely have been tried
-> Or there could be surprise effects - half the power may be transferred, but then both live for 6.5 years (or less) instead of 13, etc.
 > 
+> Or there could be surprise effects - half the power may be transferred, but then both live for 6.5 years (or less) instead of 13, etc.
 
 ---
 

@@ -12,96 +12,89 @@
 
 ### Comments:
 
-> **u/JanusTheDoorman** [+19] *
+> **u/JanusTheDoorman** [+19]  (9 hours later)
 > 
 > So now Neshemah has both a magical plague which can't be detected except by means of a Named who Cat just murdered, and shapeshifters who can impersonate anyone they've got the physical mass to duplicate.
-> I sure am glad there's no one important in the Grand Alliance of notably short stature.
 > 
+> I sure am glad there's no one important in the Grand Alliance of notably short stature.
 
-> **u/NZPIEFACE** [+14] *
+> **u/NZPIEFACE** [+18]  (an hour later)
 > 
 > Even though there's a fight scene where Cat trounced the Revenant, all I can think about is how Cat needs a hug.
-> :(
 > 
+> :(
 
-> **u/MilesSand** [+5] *
+> **u/MilesSand** [+6]  (16 hours later)
 > 
 > Take your bets, who's in for "Hanno encountered similar spy-ghouls and is cleaning house?"
-> Anyone want to take the long shot of "the Dead king personally trounced the white knight and that's a revenant version of the spy-ghouls causing chaos in the main camp?"
 > 
+> Anyone want to take the long shot of "the Dead king personally trounced the white knight and that's a revenant version of the spy-ghouls causing chaos in the main camp?"
 
->> **u/leakycauldron** [+5]  *Imperium of Man**
+>> **u/leakycauldron** [+4]  *Imperium of Man* (a day later)
 >> 
 >> No, we've established two major facts so far.
->> 1) The shapeshifters are volume-limited
->> 2) Cat is smol
->> She's shapeshifter bait.
 >> 
+>> 1) The shapeshifters are volume-limited
+>> 
+>> 2) Cat is smol
+>> 
+>> She's shapeshifter bait.
 
->>> **u/MilesSand** [+2] *
+>>> **u/MilesSand** [+2]  (a day later)
 >>> 
 >>> Adding more mass isn't hard on a battlefield when the mass is made of corpses.
->>> Edit: wait are you thinking that there's a fake cat inside there and the gate guards still didn't question her presence coming in? I think that's an even longer shot than it being fake hanno in there
 >>> 
+>>> Edit: wait are you thinking that there's a fake cat inside there and the gate guards still didn't question her presence coming in? I think that's an even longer shot than it being fake hanno in there
 
->>>> **u/leakycauldron** [+1]  *Imperium of Man**
+>>>> **u/leakycauldron** [+1]  *Imperium of Man* (2 days later)
 >>>> 
 >>>> I mean that the Story won't utilise faux-Hanno when Cat is the more likely candidate. DK does something to tie her up, knowing that she will march off to whatever problem arises, then replaces her asap
->>>> 
 
->>>>> **u/MilesSand** [+1] *
+>>>>> **u/MilesSand** [+1]  (2 days later)
 >>>>> 
 >>>>> Dk isn't the type to leave an opening like that though.  He'll kill her first because otherwise the Bard will make sure she escapes. So cat isn't a likely candidate at all because she's confirmed to be not dead yet.
->>>>> Also nothing is on fire
 >>>>> 
+>>>>> Also nothing is on fire
 
-> **u/Rorschach_And_Prozac** [+6] *
+> **u/Rorschach_And_Prozac** [+5]  (3 hours later)
 > 
 > Are these chapters longer than they were before?  I think they are supposed to be, but I haven't really noticed a difference since the update schedule changed
-> 
 
->> **u/zzlzhou** [+18] *
+>> **u/zzlzhou** [+16]  (3 hours later)
 >> 
 >> On average, these last five chapters have had 5429.6 words each. Book 5, the first five chapters had an average 3860.8 words per chapter.
->> 
 
->>> **u/Rorschach_And_Prozac** [+4] *
+>>> **u/Rorschach_And_Prozac** [+3]  (3 hours later)
 >>> 
 >>> Thanks for that. How did you get those numbers? I'd like to see what it would be if you exclude the first chapter of reach book
->>> 
 
->>>> **u/zzlzhou** [+6] *
+>>>> **u/zzlzhou** [+5]  (13 hours later)
 >>>> 
 >>>> I just copy-pasted the text of each post into a word doc and looked at the word count, haha
+>>>> 
 >>>> Edit:  
 >>>> Chapters 2–5 of Book 5, 3927.75 words/chapter  
 >>>> Chapters 2–5 of Book 6, 5380.75 words/chapter
->>>> 
 
->>>>> **u/Rorschach_And_Prozac** [+1] *
+>>>>> **u/Rorschach_And_Prozac** [+1]  (14 hours later)
 >>>>> 
 >>>>> That's more work than you had to do. Thank you.
->>>>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (7 hours later)
 >> 
 >> Its switched to two a week rather than 3,
->> 
 
-> **u/VorpalAuroch** [+3]  *Life before Death**
+> **u/VorpalAuroch** [+0]  *Life before Death* (16 hours later)
 > 
 > Whoever is posting these, please change the title to "Book N Chapter X". I keep seeing a post with a small chapter number and thinking it's something new I might want to look at, instead of a long-running thing I already know I'm not interested in.
-> 
 
->> **u/MilesSand** [+0] *
+>> **u/MilesSand** [+0]  (2 days later)
 >> 
 >> Interested or not I don't understand how you aren't aware of pgte if you look for reading material on this sub.
->> 
 
->>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>> **u/VorpalAuroch** [+3]  *Life before Death* (3 days later)
 >>> 
 >>> I am aware of it. But I have to spend conscious attention to notice that "[????] Chapter N - Name" is that, and not some other work. This could be easily fixed by labeling it clearly as part Many of Many.
->>> 
 
 ---
 

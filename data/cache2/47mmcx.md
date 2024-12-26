@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Anderkent** [+1] *
+> **u/Anderkent** [+1]  (26 minutes later)
 > 
 > It seems the title is 'Fling a Light', which makes a bit more sense than Flight. Wanna remake the post?
-> 
 
->> **u/UltraRedSpectrum** [+1] *
+>> **u/UltraRedSpectrum** [+1]  (35 minutes later)
 >> 
 >> Oops. Ugh. Why do I suddenly have so many typos?
->> I suppose I delete it and try again?
 >> 
+>> I suppose I delete it and try again?
 
 ---
 

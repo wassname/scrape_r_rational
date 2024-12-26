@@ -2,7 +2,7 @@
 
 * Author: u/cthulhuraejepsen  *Fruit flies like a banana**
 * URL: https://archiveofourown.org/works/11478249/chapters/35108681
-* Score: 215
+* Score: 213
 
 * Created: 2018-07-02T17:50:37
 
@@ -12,1156 +12,1118 @@
 
 ### Comments:
 
-> **u/WalterTFD** [+70] *
+> **u/WalterTFD** [+71]  (2 hours later)
 > 
 > I cannot believe I didn't see the Dream Skewering being fake coming.  The Actual Cannibal would have killed any collection of earth folk from his time long ago, and the implication was there were dozens or hundreds of them.
-> Also, Arthur is going to be hacked off when he finds out Juniper has no interest in going back to Earth.
 > 
+> Also, Arthur is going to be hacked off when he finds out Juniper has no interest in going back to Earth.
 
->> **u/sicutumbo** [+33] *
+>> **u/sicutumbo** [+33]  (2 hours later)
 >> 
 >> We didn't know that the dream skewered were from 2017, only that they were from Earth. And then most people aren't from North America/Europe, where Shia Labeouf is popular. So only a tiny fraction would even know the name, much less mention a somewhat popular actor when there is little reason for his name to come up.
->> Although this raises the question I asked last update of how the knowledge of Shia Labeouf got passed on at all, if the people who say it are murdered. How could it happen that the syllables are not only put together correctly randomly, but the name is passed on through some obscure method that is the only one that works?
 >> 
+>> Although this raises the question I asked last update of how the knowledge of Shia Labeouf got passed on at all, if the people who say it are murdered. How could it happen that the syllables are not only put together correctly randomly, but the name is passed on through some obscure method that is the only one that works?
 
->>> **u/sparr** [+6] *
+>>> **u/sparr** [+6]  (2 hours later)
 >>> 
 >>> And how many know how to pronounce it? I've seen him in a dozen roles, and I have no idea how to pronounce his last name.
->>> 
 
->>>> **u/sicutumbo** [+9] *
+>>>> **u/sicutumbo** [+10]  (2 hours later)
 >>>> 
 >>>> La is about how you would normally think to say it, and Beouf is pronounced like "Buff".
->>>> The weirdness of how it's pronounced vs. written doesn't really matter. They can't even attempt to write it down, in whole or in part, so they would only ever know the name as a collection of syllables.
 >>>> 
+>>>> The weirdness of how it's pronounced vs. written doesn't really matter. They can't even attempt to write it down, in whole or in part, so they would only ever know the name as a collection of syllables.
 
->>>>> **u/sparr** [+3] *
+>>>>> **u/sparr** [+3]  (2 hours later)
 >>>>> 
 >>>>> Your "they" are Aerbians.
->>>>> My "they" is the dream skewered, Earthicans. Does someone from Earth who mispronounces the name still trigger the effect?
 >>>>> 
+>>>>> My "they" is the dream skewered, Earthicans. Does someone from Earth who mispronounces the name still trigger the effect?
 
->>>>>> **u/sicutumbo** [+3] *
+>>>>>> **u/sicutumbo** [+4]  (4 hours later)
 >>>>>> 
 >>>>>> Presumably Arthur never mentioned the name, and the only other actual Dream Skewered came from before the 1990s. So Joon is the only person who might be able to test that, and I doubt he would be willing to given the relative risks and rewards.
->>>>>> 
 
->>>>>>> **u/sparr** [+2] *
+>>>>>>> **u/sparr** [+2]  (4 hours later)
 >>>>>>> 
 >>>>>>> I strongly suspect Amaryllis knows. That's stuff they would have experimented with when trying to weaponize it. Even if they just made up mispronunciations with no knowledge of English or French, it's easy to swap a vowel or add/remove stress from a syllable, etc.
->>>>>>> 
 
->>>>>> **u/Croktopus** [+1] *
+>>>>>> **u/Croktopus** [+1]  (9 hours later)
 >>>>>> 
 >>>>>> it got triggered when encoded i think, so yeah mispronounciation probably will still do it
->>>>>> 
 
->>>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>>> **u/CouteauBleu** [+3]  *We are the Empire.* (2 hours later)
 >>>> 
 >>>> Like you'd pronounce "Le bœuf" in French.
->>>> 
 
->>>> **u/vaegrim** [+2] *
+>>>> **u/vaegrim** [+2]  (2 hours later)
 >>>> 
 >>>> I just call him "[The Beef](https://translate.google.com/#auto/fr/the%20beef)"
->>>> 
 
->>>>> **u/JiggyRobot** [+3] *
+>>>>> **u/JiggyRobot** [+4]  (5 hours later)
 >>>>> 
 >>>>> That still summons him. But he now has a bad french accent.
->>>>> 
 
->>> **u/JiggyRobot** [+6] *
+>>> **u/JiggyRobot** [+6]  (5 hours later)
 >>> 
 >>> Does Shia Labeouf kill everyone that is around, or 'just' most of them? If there have been any surviving witnesses then it could have been passed by written word. Also, remember that saying the name once is not guaranteed to summon him.
->>> How they first managed to figure out that particular combination of syllables I have no idea. Maybe the DM just planted the name somewhere?
 >>> 
+>>> How they first managed to figure out that particular combination of syllables I have no idea. Maybe the DM just planted the name somewhere?
 
->>>> **u/sicutumbo** [+3] *
+>>>> **u/sicutumbo** [+3]  (6 hours later)
 >>>> 
 >>>> It's heavily impkled he kills everyone, but a quick skim didn't show Amaryllis saying directly that he kills absolutely everyone.
->>>> Saying his name once doesn't guarantee summoning him, but if he isn't summoned then why would you link the word to anything? Nothing happened.
->>>> The only thing I thought of was using elf luck in some fashion, because it can give the elf information that they otherwise shouldn't be able to know. Someone is about to say the name, and a nearby elf shoots their hand out to stop them? Kinda implausible.
 >>>> 
+>>>> Saying his name once doesn't guarantee summoning him, but if he isn't summoned then why would you link the word to anything? Nothing happened.
+>>>> 
+>>>> The only thing I thought of was using elf luck in some fashion, because it can give the elf information that they otherwise shouldn't be able to know. Someone is about to say the name, and a nearby elf shoots their hand out to stop them? Kinda implausible.
 
->>>>> **u/PM_ME_OS_DESIGN** [+3] *
+>>>>> **u/PM_ME_OS_DESIGN** [+3]  (14 hours later)
 >>>>> 
 >>>>> > The only thing I thought of was using elf luck in some fashion, because it can give the elf information that they otherwise shouldn't be able to know. S
->>>>> What about writing it down? Person writes down a thing, gets killed. Sooner or later, people will link the written word to the corpses surrounding it. Then, testing to figure it out.
 >>>>> 
+>>>>> What about writing it down? Person writes down a thing, gets killed. Sooner or later, people will link the written word to the corpses surrounding it. Then, testing to figure it out.
 
->>>>>> **u/WalterTFD** [+3] *
+>>>>>> **u/WalterTFD** [+3]  (20 hours later)
 >>>>>> 
 >>>>>> Learning it from a dead person via a recording is apparently safe.  That's how Amaryllis learned it anyway.
->>>>>> 
 
->>>> **u/ClarissaSaiyangel** [+2] *
+>>>> **u/ClarissaSaiyangel** [+2]  (10 days later)
 >>>> 
 >>>> He likely follows the rules for the game.
 >>>> Meaning when fighting Shia, you have to cause him injury in a number of isolated events a number of times equal to 5 + 5n, where N is the number of people in the initial group, then an additional 5 for every single person he kills. Given that if the rules are followed, each injury you take lowers your success chance for harming him by 16%, and you have a flat 16% failure rate to start.
 >>>> The only way to escape would be to leave the location, which is difficult given that if you go five minutes in safety, he can bend reality to attack you.
->>>> 
 
->>> **u/nytelios** [+2] *
+>>> **u/nytelios** [+2]  (9 hours later)
 >>> 
 >>> The syllables Shia Labeouf could be a homonym or chain of phonemes in some Aerbian language.
->>> 
 
->>> **u/InfernoVulpix** [+1] *
+>>> **u/InfernoVulpix** [+1]  (20 hours later)
 >>> 
 >>> We know Amaryllis learned it from a machine that was endlessly repeating it, safe because 'everyone involved' was long since dead.  The people who set that up probably heard the name when someone else said it and they were lucky enough (40% chance for a single utterance) that the cannibal didn't show up.
->>> Repeat going back until you find yourself asking how people found out the infohazard in the first place.  They didn't know it was a name, which rules out a few possible origins, but it could be that someone wrote it down, then died, and then someone read it, took it home, said it, and died.  From there it isn't hard to see how people could figure out what was going on, after enough trial and error.
 >>> 
+>>> Repeat going back until you find yourself asking how people found out the infohazard in the first place.  They didn't know it was a name, which rules out a few possible origins, but it could be that someone wrote it down, then died, and then someone read it, took it home, said it, and died.  From there it isn't hard to see how people could figure out what was going on, after enough trial and error.
 
->>>> **u/sparr** [+1] *
+>>>> **u/sparr** [+1]  (a day later)
 >>>> 
 >>>> > Repeat going back until you find yourself asking how people found out the infohazard in the first place. They didn't know it was a name, which rules out a few possible origins,
->>>> We have no information that indicates that the initial discoverers did not know it was a name. Amaryllis not knowing that does not extend to them.
 >>>> 
+>>>> We have no information that indicates that the initial discoverers did not know it was a name. Amaryllis not knowing that does not extend to them.
 
->>>>> **u/InfernoVulpix** [+1] *
+>>>>> **u/InfernoVulpix** [+1]  (2 days later)
 >>>>> 
 >>>>> Fair point.  That, if anything, expands the possibility space for how the name could have been originally discovered.
->>>>> 
 
->> **u/JiggyRobot** [+21] *
+>> **u/JiggyRobot** [+23]  (5 hours later)
 >> 
 >> The really strange thing is that there were dream skewered at some point. 6 of them at once (at least). Why would they appear then and not now?
->> Does the arrival of Joon mean that more dream-skewered may have arrived at the same time (similar to Arthur)?
 >> 
+>> Does the arrival of Joon mean that more dream-skewered may have arrived at the same time (similar to Arthur)?
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (9 hours later)
 >>> 
 >>> I'd say that's guaranteed now
->>> 
 
->> **u/CouteauBleu** [+17]  *We are the Empire.**
+>> **u/CouteauBleu** [+18]  *We are the Empire.* (2 hours later)
 >> 
 >> Not necessarily. There was strong evidence that there was no dream-skewered who'd lived past the eighties (else everyone would know that Star Wars came from Earth). There was moderate evidence that there was no dream-skewered from after World War II, hence the lack of electronics, or that nobody before Joon noticed that the world they were in seemed pretty similar to Tolkien-inspired fantasy.
->> But there could have been a collection of dream-skewered from all over Earth, from different time periods. In fact, it would have been more surprising if all dream-skewered had come from the same country and time.
 >> 
+>> But there could have been a collection of dream-skewered from all over Earth, from different time periods. In fact, it would have been more surprising if all dream-skewered had come from the same country and time.
 
->>> **u/JiggyRobot** [+7] *
+>>> **u/JiggyRobot** [+7]  (5 hours later)
 >>> 
 >>> Interestingly, we only heard descriptions of two? They both were both from the last 1000 or so years as well (and English speaking?). Given the span of human history, that seems like there might be some sort of selection still criteria still.
->>> 
 
->>> **u/PathologicalFire** [+5] *
+>>> **u/PathologicalFire** [+4]  (a day later)
 >>> 
 >>> I doubt they would 'know' Star Wars and the rest originated from Earth. The simplest explanation is that things that are 'real' on Aerb manifested inside the dream for those people. This is even explicitly theorized about early in the story- joon says that he recognizes parts of Aerb as things he made, and Amaryllis suggests he instead imagined 'real' Aerbian things inside his dream.
->>> 
 
->>> **u/PM_ME_OS_DESIGN** [+1] *
+>>> **u/PM_ME_OS_DESIGN** [+1]  (4 days later)
 >>> 
 >>> > There was strong evidence that there was no dream-skewered who'd lived past the eighties (else everyone would know that Star Wars came from Earth). 
->>> Didn't Amaryllis already explain that away as being a twisted version of Aerb's version? Like how *earth* is the delusion, not Serb.
 >>> 
+>>> Didn't Amaryllis already explain that away as being a twisted version of Aerb's version? Like how *earth* is the delusion, not Serb.
 
->>>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>>> **u/CouteauBleu** [+1]  *We are the Empire.* (4 days later)
 >>>> 
 >>>> Yeah, but she also said that if you start looking at Uther's work as a whole, you start noticing how weird it is that he made so many different works in genres so far apart, with almost nothing in common, and usually the stories would fit Earth's culture better than Aerb. Especially since Uther's works would be the only ones that would pop up as almost direct equivalents.
->>>> (eg Star Wars being written in an era full of pulp science-fiction movies and stories)
->>>> If nothing else, the "Star Wars"-"dream skewered" connection would be better known.
 >>>> 
+>>>> (eg Star Wars being written in an era full of pulp science-fiction movies and stories)
+>>>> 
+>>>> If nothing else, the "Star Wars"-"dream skewered" connection would be better known.
 
->> **u/matematikaadit** [+1] *
+>> **u/matematikaadit** [+1]  (a day later)
 >> 
 >> > I cannot believe I didn't see the Dream Skewering being fake coming.
->> Me too. This made me wondering, what other sign that Dream Skewering being fake if we exclude The Actual Cannibal stuff?
 >> 
+>> Me too. This made me wondering, what other sign that Dream Skewering being fake if we exclude The Actual Cannibal stuff?
 
-> **u/TheColourOfHeartache** [+61] *
+> **u/TheColourOfHeartache** [+60]  (an hour later)
 > 
 > The Infinite Library strikes me as a very obvious place to go looking for Library magic.
-> 
 
->> **u/WalterTFD** [+34] *
+>> **u/WalterTFD** [+37]  (2 hours later)
 >> 
 >> It strikes me as a very obvious place for a boss fight.
->> 
 
->>> **u/Law_Student** [+10] *
+>>> **u/Law_Student** [+10]  (7 hours later)
 >>> 
 >>> Well, narratively there does have to be some reason why Raven can't join up.
->>> 
 
->>>> **u/GaffitV** [+7] *
+>>>> **u/GaffitV** [+6]  (16 hours later)
 >>>> 
 >>>> Not necessarily. Often times in stories there's the case of a popular character from a previous story joining the group of a new story.
->>>> 
 
->>>>> **u/RiOrius** [+10] *
+>>>>> **u/RiOrius** [+10]  (a day later)
 >>>>> 
 >>>>> Even when the previous story doesn't actually exist.  Off the top of my head, FF5 and 10 both featured party members who'd been part of the group that sealed away the Big Bad the last time.  (to be clear: they were from events that we only hear about/see in cutscenes, not from a previous game)
->>>>> I mean, if you're going to have a Grizzled Old Man-type character, it's a great way for them to tie into the setting's backstory.
 >>>>> 
+>>>>> I mean, if you're going to have a Grizzled Old Man-type character, it's a great way for them to tie into the setting's backstory.
 
->>>>>> **u/Noumero** [+9]  *Self-Appointed Court Statistician**
+>>>>>> **u/Noumero** [+11]  *Self-Appointed Court Statistician* (a day later)
 >>>>>> 
 >>>>>> > Grizzled Old Little Girl-type character
->>>>>> Fixed.
 >>>>>> 
+>>>>>> Fixed.
 
->>>>>> **u/kaukamieli** [+2] *
+>>>>>> **u/kaukamieli** [+2]  (a day later)
 >>>>>> 
 >>>>>> Maybe the previous story will come next? ;)
->>>>>> 
 
->>>>> **u/Law_Student** [+2] *
+>>>>> **u/Law_Student** [+2]  (22 hours later)
 >>>>> 
 >>>>> Maaaaybe, but I think the group is getting pretty big.
->>>>> 
 
->>>>>> **u/LordSwedish** [+4]  *Q Continuum**
+>>>>>> **u/LordSwedish** [+4]  *Q Continuum* (a day later)
 >>>>>> 
 >>>>>> But there's a fixed limit on the party and that means the limit will be met.
->>>>>> 
 
->>>>>>> **u/Law_Student** [+1] *
+>>>>>>> **u/Law_Student** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Oh, I'd forgotten that. How many slots are left?
->>>>>>> 
 
->>>>>>>> **u/LordSwedish** [+1]  *Q Continuum**
+>>>>>>>> **u/LordSwedish** [+1]  *Q Continuum* (2 days later)
 >>>>>>>> 
 >>>>>>>> Just one left now.
->>>>>>>> 
 
->>>>>>>>> **u/Law_Student** [+2] *
+>>>>>>>>> **u/Law_Student** [+2]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> Raven would be a pretty obvious pick, I suppose.
->>>>>>>>> 
 
->>>>>> **u/Bowbreaker** [+4]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+3]  *Solitary Locust* (a day later)
 >>>>>> 
 >>>>>> There is still at least one companion slot free.
->>>>>> 
 
->>>> **u/zonules_of_zinn** [+1] *
+>>>> **u/zonules_of_zinn** [+1]  (a day later)
 >>>> 
 >>>> is she not a damaged princess?
->>>> 
 
->>> **u/teakwood54** [+3] *
+>>> **u/teakwood54** [+3]  (19 hours later)
 >>> 
 >>> Gwyndolin right?
->>> 
 
->>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (22 hours later)
 >>>> 
 >>>> No. Seath the Scaleless.
->>>> 
 
->> **u/None** [+15] *
+>> **u/None** [+14]  (10 hours later)
 >> 
 >> Meta narratively the built in count down (there are 5 years of books left, so the world will end in 5 years) works well to motivate Juniper, it gives a reason for him to actively seek out exclusion zones and other dangers which otherwise it would be sensible for him to ignore
->> 
 
->>> **u/painfulbliss** [+1] *
+>>> **u/painfulbliss** [+1]  (18 hours later)
 >>> 
 >>> Even if he was lying, can't ignore it without trying to validate the information
->>> 
 
->> **u/matematikaadit** [+9] *
+>> **u/matematikaadit** [+9]  (4 hours later)
 >> 
 >> It strikes me as a very obvious place for finding another companion
->> 
 
->> **u/Law_Student** [+2] *
+>> **u/Law_Student** [+2]  (7 hours later)
 >> 
 >> Yeeeeep. Wouldn't surprise me if the library was an exclusion zone, either.
->> 
 
-> **u/Badewell** [+58] *
+> **u/Badewell** [+58]  (2 hours later)
 > 
 > On the Transformers thing: Fenn probably watched the animated movie which had voice over from Orson Welles (he was Unicron, TIL).  ~~Since there's a possibility of them all dying if they watch the live action movies there are now *two* good reasons to pretend that they don't exist.~~
-> 
 
->> **u/vaegrim** [+17] *
+>> **u/vaegrim** [+18]  (2 hours later)
 >> 
 >> [Good catch!](https://i.imgur.com/ZqKmBam.gif)
->> 
 
->> **u/xartab** [+11] *
+>> **u/xartab** [+11]  (5 hours later)
 >> 
 >> That's remarkably obscure. You don't win an Internet, unfortunately, but I think you've earned your cookie.
->> 
 
->>> **u/roystgnr** [+16] *
+>>> **u/roystgnr** [+16]  (10 hours later)
 >>> 
 >>> > That's remarkably obscure.
->>> Really?  I thought it was a cute joke 80s kids were all expected to get.
->>> Aw.
->>> I'm old now.
 >>> 
+>>> Really?  I thought it was a cute joke 80s kids were all expected to get.
+>>> 
+>>> Aw.
+>>> 
+>>> I'm old now.
 
->>>> **u/abcd_z** [+5] *
+>>>> **u/abcd_z** [+5]  (12 hours later)
 >>>> 
 >>>> I'm a 90s kid and I only knew it because it was referenced in the webcomic Instant Classic.  One of the characters went catatonic when she learned that Orson Welles (whom she idolizes) voice acted in an anime (a genre that she regards as the lowest, least dignified form of filmmaking).
->>>> 
 
->>>> **u/SeekingImmortality** [+2]  *The Eldest, Apparently**
+>>>> **u/SeekingImmortality** [+2]  *The Eldest, Apparently* (21 hours later)
 >>>> 
 >>>> *raises hand*  I got it and had much the same thought.
->>>> 
 
->>>> **u/dcb720** [+2] *
+>>>> **u/dcb720** [+2]  (a day later)
 >>>> 
 >>>> I got it, but then I'm a huge Transformers nerd. Alt.toys.transformers in the days of usenet...
->>>> I'm old too.
 >>>> 
+>>>> I'm old too.
 
->>> **u/zonules_of_zinn** [+3] *
+>>> **u/zonules_of_zinn** [+3]  (a day later)
 >>> 
 >>> not really obscure!
->>> citizen kane tops most classic film lists and orson welles is incredibly famous just for his voice.
->>> or do people not know that there was an animated transformers tv series and associated movie?
->>> anyway, i knew that orson was in transformers and not that the cannibal was.
 >>> 
+>>> citizen kane tops most classic film lists and orson welles is incredibly famous just for his voice.
+>>> 
+>>> or do people not know that there was an animated transformers tv series and associated movie?
+>>> 
+>>> anyway, i knew that orson was in transformers and not that the cannibal was.
 
-> **u/CouteauBleu** [+53]  *We are the Empire.**
+> **u/CouteauBleu** [+51]  *We are the Empire.* (an hour later)
 > 
 > Awww, but I like the idea of an institutions dedicated to studying SI characters!
-> >  “I was going to say that you’d need the complicity of far too many people,” replied Amaryllis. “People -- scholars -- would come to this place and they’d want to speak with the dream-skewered, they’d want to take notes, they’d want to know things about Earth. You can’t possibly have -- how could you possibly have kept up the pretense for five hundred years?” 
-> You might say the dream-skewered were... an illusion.
-> And... we're going to back to doubting everything the narration tells us. Did Juniper's friends really abandon him on purpose, or were they manipulated into thinking he was going with them?
-> Yay for solo mode!
 > 
+> >  “I was going to say that you’d need the complicity of far too many people,” replied Amaryllis. “People -- scholars -- would come to this place and they’d want to speak with the dream-skewered, they’d want to take notes, they’d want to know things about Earth. You can’t possibly have -- how could you possibly have kept up the pretense for five hundred years?” 
+> 
+> You might say the dream-skewered were... an illusion.
+> 
+> And... we're going to back to doubting everything the narration tells us. Did Juniper's friends really abandon him on purpose, or were they manipulated into thinking he was going with them?
+> 
+> Yay for solo mode!
 
->> **u/cthulhuraejepsen** [+40]  *Fruit flies like a banana**
+>> **u/cthulhuraejepsen** [+37]  *Fruit flies like a banana* (3 hours later)
 >> 
 >> > Awww, but I like the idea of an institutions dedicated to studying SI characters!
->> Yeah, I did too. I spent some (probably too much) time on a version of the chapter that preserved that, but it hadn't been part of the master plan, and in the end it seemed too much like me trying to have fun with a side concept that didn't add too much to the story. Not that I'm averse to that, but it wasn't pulling its weight.
->> I think the idea I liked the most was that of second generation dream-skewered who had been born into Earth culture but only known a life on Aerb ... but that would be hard to slot into the narrative in a compelling way, and there's no reason that I can't just do that as its own separate story.
 >> 
+>> Yeah, I did too. I spent some (probably too much) time on a version of the chapter that preserved that, but it hadn't been part of the master plan, and in the end it seemed too much like me trying to have fun with a side concept that didn't add too much to the story. Not that I'm averse to that, but it wasn't pulling its weight.
+>> 
+>> I think the idea I liked the most was that of second generation dream-skewered who had been born into Earth culture but only known a life on Aerb ... but that would be hard to slot into the narrative in a compelling way, and there's no reason that I can't just do that as its own separate story.
 
->>> **u/None** [+5] *
+>>> **u/None** [+7]  (6 hours later)
 >>> 
 >>> Descendents of the 5 real dream skewered hidden somewhere?
->>> 
 
->>> **u/abcd_z** [+2] *
+>>> **u/abcd_z** [+2]  (12 hours later)
 >>> 
 >>> >  just do that as its own separate story.
->>> Yes, please.
 >>> 
+>>> Yes, please.
 
->> **u/Law_Student** [+20] *
+>> **u/Law_Student** [+17]  (7 hours later)
 >> 
 >> You know, I'll bet that's how they convinced visiting scholars and so on. Just made illusions of dream skewered for them to interact with. Piece of cake.
->> 
 
->>> **u/CouteauBleu** [+16]  *We are the Empire.**
+>>> **u/CouteauBleu** [+15]  *We are the Empire.* (14 hours later)
 >>> 
 >>> Well, yeah.
+>>> 
 >>> > “They’re a recognized phenomenon,” said Amaryllis. “To maintain the deception for so long, under so much scrutiny, you’d need --”
 >>> >
 >>> > “Powerful magic,” replied Masters.
->>> 
 
->> **u/matematikaadit** [+6] *
+>> **u/matematikaadit** [+7]  (5 hours later)
 >> 
 >> SI characters?
->> 
 
->>> **u/CoronaPollentia** [+15] *
+>>> **u/CoronaPollentia** [+15]  (8 hours later)
 >>> 
 >>> Self Insert. While can mean the literal (I, the author, am dropped into the story), has various degrees. For example, Joon has some clear similarities with Ben Friesen / Alexander Wales / cthulhuraejepsen - he's very very arguably a self-insert of some flavour. I've seen the definitition stretched as far as "a person from our mundane earth is dropped into another world" - for example, a Russian special forces soldier dropped into Westeros or something.
->>> 
 
->>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (a day later)
 >>>> 
 >>>> > for example, a Russian special forces soldier dropped into Westeros or something.
->>>> Link?
 >>>> 
+>>>> Link?
 
->>>>> **u/CoronaPollentia** [+1] *
+>>>>> **u/CoronaPollentia** [+1]  (a day later)
 >>>>> 
 >>>>> Unfortunately, I have not read it, only heard about it secondhand, and I'm pretty sure the example it was given as was "they have a slightly broader association with 'self-insert' in Russian fanfic communities than in Anglosphere ones. Which implies that this fic, where ever it is, is also in Russian.
->>>>> 
 
->>>>>> **u/alexeyr** [+2]  *Steersman**
+>>>>>> **u/alexeyr** [+2]  *Steersman* (16 days later)
 >>>>>> 
 >>>>>> I am Russian and I strongly suspect that the term discussed is попаданец, which doesn't have any "self" implications in the first place. It's just that there's no separate term (that I can think of) for self-inserts specifically.
->>>>>> Попаданцы actually tend to be dropped into past even more often than into fantastical worlds.
 >>>>>> 
+>>>>>> Попаданцы actually tend to be dropped into past even more often than into fantastical worlds.
 
->> **u/None** [+5] *
+>> **u/None** [+3]  (11 hours later)
 >> 
 >> if people are acting out of character moments after pointing out that their identity verification protocol is compromised 
->> well... solo mode
 >> 
+>> well... solo mode
 
-> **u/None** [+47] *
+> **u/None** [+47]  (an hour later)
 > 
 > Holy shit. 
-> So, this myth is fabricated by Arthur to send a message to the future to his friends?
-> That's a bold play, here.
-> Edit: Read 109. Poor Val, not again. Hope she doesn't activate Cannibal to escape.
 > 
+> So, this myth is fabricated by Arthur to send a message to the future to his friends?
+> 
+> That's a bold play, here.
+> 
+> Edit: Read 109. Poor Val, not again. Hope she doesn't activate Cannibal to escape.
 
->> **u/CouteauBleu** [+30]  *We are the Empire.**
+>> **u/CouteauBleu** [+29]  *We are the Empire.* (2 hours later)
 >> 
 >> Kinda makes you wonder how many crazy things Arthur did to try to reach out for the real world, that we never get to see because they didn't amount to anything.
->> 
 
->>> **u/JiggyRobot** [+25] *
+>>> **u/JiggyRobot** [+24]  (6 hours later)
 >>> 
 >>> Kinda depressing to think that after all that time Arthur still wanted desperately to get home. Even with his wife and kids around him, he still didn't feel as though Aerb was his home (also hints that he didn't even consider Aerb real either).
->>> 
 
->>>> **u/nytelios** [+31] *
+>>>> **u/nytelios** [+27]  (8 hours later)
 >>>> 
 >>>> Arthur's fixation on the narrative probably brought about the escalating consequences that Masters recounts. I feel like contrasting Uther's narrative focus to Joon's decision to let go of the narrative's weight might be a clue into the nature of the "game." Uther may have been playing with the wrong strategy, so to say, because fixing Aerb's issues was never the intended end-game for Arthur (whereas it might be for Joon, who has a reason to undo all the suffering he helped create).
->>>> I've had a theory that this game is a type of therapy. So if we work with the conceit that Arthur was sent here for some therapeutic reason, what issues did Arthur have? The only things I remember are: (1) he was the god of stories without endings and in the same vein (2) he always waffled and deferred confessing to Tiff. So maybe his issue was that he couldn't commit to an ending and the narrative kept being deferred because he went every which way.
 >>>> 
+>>>> I've had a theory that this game is a type of therapy. So if we work with the conceit that Arthur was sent here for some therapeutic reason, what issues did Arthur have? The only things I remember are: (1) he was the god of stories without endings and in the same vein (2) he always waffled and deferred confessing to Tiff. So maybe his issue was that he couldn't commit to an ending and the narrative kept being deferred because he went every which way.
 
->>>>> **u/JiggyRobot** [+12] *
+>>>>> **u/JiggyRobot** [+12]  (14 hours later)
 >>>>> 
 >>>>> I feel like Arthur's story is increasingly leaning towards showing the way that Joon /could/ go. A theme of the story seems to be holding on to the past and letting your current relationships and life deteriorates because of it.
->>>>> Joon very obviously was badly affected after Arthur's passing, and now it seems Arthur never moved on from his desire to get back to Earth. Hinting that he never really made the most of his life on Aerb, still seeing others as NPCs.
 >>>>> 
+>>>>> Joon very obviously was badly affected after Arthur's passing, and now it seems Arthur never moved on from his desire to get back to Earth. Hinting that he never really made the most of his life on Aerb, still seeing others as NPCs.
 
->>>>> **u/MilesSand** [+6] *
+>>>>> **u/MilesSand** [+6]  (11 hours later)
 >>>>> 
 >>>>> Seems like the therapy went very wrong and just made things worse. Sort of a personal hell because the therapist isn't guiding him to the right path effectively
->>>>> 
 
->>>>> **u/TheColourOfHeartache** [+5] *
+>>>>> **u/TheColourOfHeartache** [+3]  (a day later)
 >>>>> 
 >>>>> I feel confident that the endgame for Joon is Arthur himself. I'm not sure what Arthur's endgame was though. But it's safe to say he went in the wrong direction considering he never won.
->>>>> 
 
->>>>>> **u/kaukamieli** [+1] *
+>>>>>> **u/kaukamieli** [+1]  (a day later)
 >>>>>> 
 >>>>>> Well, it served as base for Joon to have his adventures, so maybe there just wasn't a "win condition"? Maybe he didn't even think there could be, too busy putting fires out.
->>>>>> In our role playing games we haven't really had a "campaign" in the way that would end, just adventure after adventure.
 >>>>>> 
+>>>>>> In our role playing games we haven't really had a "campaign" in the way that would end, just adventure after adventure.
 
->>>>>>> **u/TheColourOfHeartache** [+1] *
+>>>>>>> **u/TheColourOfHeartache** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> Maybe there wasn't a win condition; but since the DM strongly implied that Joon can win I'm guessing there was a way for Arthur to win too.
->>>>>>> 
 
->>>> **u/kaukamieli** [+4] *
+>>>> **u/kaukamieli** [+5]  (15 hours later)
 >>>> 
 >>>> He desperately wanted to find a _way_ to go home. He believed there were, or would be others like him who may have wanted to go home. If he could have had a way ready for Joon in advance...
->>>> 
 
->>>> **u/zonules_of_zinn** [+1] *
+>>>> **u/zonules_of_zinn** [+1]  (a day later)
 >>>> 
 >>>> what sort of asshole believes that simulated minds aren't real? oh right, the kind that rapes a sapient house.
->>>> 
 
->> **u/PastafarianGames** [+23] *
+>> **u/PastafarianGames** [+23]  (4 hours later)
 >> 
 >> Oh damn, Val activating the Cannibal and then managing to get out because she's a non-anima is a great idea.
->> 
 
->>> **u/derefr** [+35] *
+>>> **u/derefr** [+35]  (4 hours later)
 >>> 
 >>> I was pondering that Val might be able to avoid the consequences of calling down Shia—but then, Mary did explain that she had to hear the name from a record-player *recorded by a now-dead person.* As in, even if the record-player is itself a sack of potatoes, the name could have somehow still been traced from its playback to the person who recorded it, had that person still been alive. Val might not die if she calls the Cannibal, but the Cannibal might trace the name from her to Joon.
->>> 
 
->>>> **u/GeeJo** [+6]  *Custom Flair**
+>>>> **u/GeeJo** [+5]  *Custom Flair* (13 hours later)
 >>>> 
 >>>> There wouldn't need to be a trace from the playback. 
->>>> They spoke the name in order to record it, and died shortly afterwards as a direct result.
 >>>> 
+>>>> They spoke the name in order to record it, and died shortly afterwards as a direct result.
 
->>>>> **u/notgreat** [+6] *
+>>>>> **u/notgreat** [+7]  (14 hours later)
 >>>>> 
 >>>>> Saying the name is not a guaranteed death sentence- remember the whole probability thing (and why they didn't have to fight him when they said the name)? The fact that the record was explicitly called out as being recorded by a dead man makes me think that it can be traced through just as how giving orders to say the name are traced.
->>>>> 
 
->>>>>> **u/icesharkk** [+1] *
+>>>>>> **u/icesharkk** [+1]  (a day later)
 >>>>>> 
 >>>>>> i took from that scene that the recording may be somewhat old. the guy is dead either as a result of the recording, subsequent experimentation, or old age. doesnt matter he's dead so the chain is broken. As to whether the chain can be traced back from val... that depends on a discussion we had last thread as to wether val's null pointer error name is how she bypasses things in the game layer...
->>>>>> 
 
->>> **u/xartab** [+11] *
+>>> **u/xartab** [+11]  (5 hours later)
 >>> 
 >>> Nope, would kill Joon.
->>> 
 
->>>> **u/None** [+26] *
+>>>> **u/None** [+27]  (5 hours later)
 >>>> 
 >>>> Only halfway, he has that skill after all.
->>>> 
 
->>>>> **u/xartab** [+3] *
+>>>>> **u/xartab** [+3]  (5 hours later)
 >>>>> 
 >>>>> Point.
->>>>> 
 
->>>>> **u/icesharkk** [+1] *
+>>>>> **u/icesharkk** [+1]  (a day later)
 >>>>> 
 >>>>> well not necessarrily. shia surprise tends to create new powers in order to overcome obstacles. So is it half of exactly enough damage to kill joon? half of some overwhelming force that kills joon anyhow? or Half of twice the damage needed to kill joon?  2 of those 3 equal dead joon
->>>>> 
 
->>> **u/TempAccountIgnorePls** [+10] *
+>>> **u/TempAccountIgnorePls** [+9]  (a day later)
 >>> 
 >>> It's possible she might not even be capable of summoning him. The dead man's recording doesn't do it, why would a sack of potatoes?
->>> 
 
->>>> **u/PastafarianGames** [+3] *
+>>>> **u/PastafarianGames** [+3]  (a day later)
 >>>> 
 >>>> Oh man oh man that means that Val could *bluff* summoning him!
->>>> 
 
->>>> **u/agree-with-you** [+1] *
+>>>> **u/agree-with-you** [+1]  (a day later)
 >>>> 
 >>>> I agree, this does seem possible.
->>>> 
 
->>>> **u/PM_ME_OS_DESIGN** [+1] *
+>>>> **u/PM_ME_OS_DESIGN** [+1]  (4 days later)
 >>>> 
 >>>> It's certainly untested. Nobody sane would teach the word to a demon possessing a non-anima (probably - might be a way of killing demons?).
->>>> 
 
->>> **u/Law_Student** [+5] *
+>>> **u/Law_Student** [+4]  (7 hours later)
 >>> 
 >>> That sounds like a horrible, horrible risk to take.
->>> 
 
->>>> **u/PastafarianGames** [+5] *
+>>>> **u/PastafarianGames** [+4]  (a day later)
 >>>> 
 >>>> Sure, but it's the kind of risk that I think Val might take. She probably has complete faith in Joon's ability to defeat him, and she knows she's safe; there's no reason for Shia to kill a sack of potatoes.
->>>> More rampant speculation: Arthur was the first and until Joon pulls it off as well the only person to defeat Shia. The "illusion of Shia -> oh shit it's not an illusion?! -> team up" arc would be a cool fakeout.
->>>> No doubt I am completely off base. That's fine, because I enjoy being surprised.
 >>>> 
+>>>> More rampant speculation: Arthur was the first and until Joon pulls it off as well the only person to defeat Shia. The "illusion of Shia -> oh shit it's not an illusion?! -> team up" arc would be a cool fakeout.
+>>>> 
+>>>> No doubt I am completely off base. That's fine, because I enjoy being surprised.
 
->>>>> **u/Bowbreaker** [+4]  *Solitary Locust**
+>>>>> **u/Bowbreaker** [+4]  *Solitary Locust* (a day later)
 >>>>> 
 >>>>> Depends on how Shia works. If he has human-like eyes and any agency he could just see this girl in his way and attempt to kill and eat her.
->>>>> But would Val be able to summon the cannibal in the first place?
 >>>>> 
+>>>>> But would Val be able to summon the cannibal in the first place?
 
->>>>>> **u/PastafarianGames** [+1] *
+>>>>>> **u/PastafarianGames** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Probably not (a sack of potatoes doesn't summon the cannibal) but she could bluff it. Masters might not know.
->>>>>> 
 
-> **u/Rorschach_Roadkill** [+43] *
+> **u/Rorschach_Roadkill** [+43]  (4 hours later)
 > 
 > The naming sequence was so tense. Stroke of genius to keep talking about The Cannibal earlier in the chapter (btw love Fenn channeling Reimer there. I just imagine her in Order of the Stick shouting "HA HA! HALF DAMAGE!" at the universe and it working) - I was 95% sure you weren't going to unleash him on them, but then *you kept naming actors* and I just *knew* he was about to be dropped. I mean, if he's gonna say Adam Driver there's no way in hell he's not gonna say Shia LaBoeuf. 
-> But then: Arthur Surprise! Or Tiff surprise actually, I didn't recognize Arthur's last name. Let out an audible "oh daaamn" at that. And then, wow that mirror scene. In order to give it the heft I felt it deserved, I read his monologue out loud to myself. Highly recommended. Channel your inner Mike Ehrmantrout for that heavy "outwardly world-weary authority figure finally saying the thing that's been weighing him down all these years" tone. I hope my apartment isn't bugged, or some nebulous deep state org now thinks I've completely lost my marbles. 
-> Aaaand... yeah killing Joon is probably the right call for the rest of Aerb? Knowing this DM?
 > 
+> But then: Arthur Surprise! Or Tiff surprise actually, I didn't recognize Arthur's last name. Let out an audible "oh daaamn" at that. And then, wow that mirror scene. In order to give it the heft I felt it deserved, I read his monologue out loud to myself. Highly recommended. Channel your inner Mike Ehrmantrout for that heavy "outwardly world-weary authority figure finally saying the thing that's been weighing him down all these years" tone. I hope my apartment isn't bugged, or some nebulous deep state org now thinks I've completely lost my marbles. 
+> 
+> Aaaand... yeah killing Joon is probably the right call for the rest of Aerb? Knowing this DM?
 
->> **u/WarningInsanityBelow** [+29] *
+>> **u/WarningInsanityBelow** [+27]  (6 hours later)
 >> 
 >> > Aaaand... yeah killing Joon is probably the right call for the rest of Aerb? Knowing this DM? 
->> The way I read the DM he has already set up the challenge and made sure that Joon has the opportunity to acquire the tools he needs to face it. I think the DM might be tweaking things a bit to keep things interesting but only to the point of maintaining plausible deniability to any hypothetical observers, but I think any big events which will occur to challenge Joon have already been set underway, and will happen regardless of whether Joon survives up until that point or not.
->> One observation in favour of this is that after Uther disappeared, the threats continued coming for another 30 years, rather than stopping abruptly. Another is that the way the DM has set up Joon's harem is consistent with this approach to DMing, he set up the possibility in advance, but since Joon persistently acted in defiance of the path layed out for him, it didn't happen.
->> I don't think that Joon is here because of the rising threat or that the threats are appearing because of Joon, rather they have a common cause (The DM wanted to run another campaign).
 >> 
+>> The way I read the DM he has already set up the challenge and made sure that Joon has the opportunity to acquire the tools he needs to face it. I think the DM might be tweaking things a bit to keep things interesting but only to the point of maintaining plausible deniability to any hypothetical observers, but I think any big events which will occur to challenge Joon have already been set underway, and will happen regardless of whether Joon survives up until that point or not.
+>> 
+>> One observation in favour of this is that after Uther disappeared, the threats continued coming for another 30 years, rather than stopping abruptly. Another is that the way the DM has set up Joon's harem is consistent with this approach to DMing, he set up the possibility in advance, but since Joon persistently acted in defiance of the path layed out for him, it didn't happen.
+>> 
+>> I don't think that Joon is here because of the rising threat or that the threats are appearing because of Joon, rather they have a common cause (The DM wanted to run another campaign).
 
->>> **u/CouteauBleu** [+7]  *We are the Empire.**
+>>> **u/CouteauBleu** [+8]  *We are the Empire.* (a day later)
 >>> 
 >>> Yeah, we go back to "How would *you* do it if you were the GM?"
->>> I certainly wouldn't let the players solve everything by killing themselves.
 >>> 
+>>> I certainly wouldn't let the players solve everything by killing themselves.
 
->>> **u/fish312** [+3]  *humanifest destiny**
+>>> **u/fish312** [+3]  *humanifest destiny* (a day later)
 >>> 
 >>> So far Joon has always been given level appropriate encounters. The story even lampshades it too... but if the DM wasn't railroading, how could a level 2 quest like this possibly be completed at the appropriate level? Unless the quest itself changes according to PC levels?
->>> Then again, now that I think of it, its probably more like viridian city gym. Undertaking the quest was never really possible until appropriate progression was unlocked.
 >>> 
+>>> Then again, now that I think of it, its probably more like viridian city gym. Undertaking the quest was never really possible until appropriate progression was unlocked.
 
->> **u/WalterTFD** [+5] *
+>> **u/WalterTFD** [+5]  (20 hours later)
 >> 
 >> DM might easily stop maintaining Aerb after the game is over. (How many old campaigns of yours do you keep running after the players move on?)
->> 
 
->>> **u/nicholaslaux** [+5] *
+>>> **u/nicholaslaux** [+6]  (a day later)
 >>> 
 >>> I mean, technically CRJ is now, since he said that this is a mishmash of old campaigns he ran, and thus is now continuing to run them, sorta.
->>> 
 
->> **u/icesharkk** [+4] *
+>> **u/icesharkk** [+4]  (a day later)
 >> 
 >> well lets be fair.. if the cannibals name were on the list masters would be dead by now from reading it off to other suspected dream skewers.
->> 
 
->>> **u/alexeyr** [+1]  *Steersman**
+>>> **u/alexeyr** [+1]  *Steersman* (16 days later)
 >>> 
 >>> Does it count if it's an illusion of hearing the name?
->>> 
 
->> **u/Bowbreaker** [+2]  *Solitary Locust**
+>> **u/Bowbreaker** [+2]  *Solitary Locust* (a day later)
 >> 
 >> > Knowing this DM?
->> This DM created the anti-Uther factions in the first place.
 >> 
+>> This DM created the anti-Uther factions in the first place.
 
-> **u/Noumero** [+40]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+37]  *Self-Appointed Court Statistician* (5 hours later)
 > 
 > There's no bigger threat.
-> We have little reason to believe anything past the second keyring actually happened. That outcome was pretty convenient for Masters: Juniper's allies have left, and Masters is now alone with him, up against an enormous threat. Any bets on them striking an alliance of convenience next chapter, during which they would come to trust each other?
-> Elf luck was compromised. Masters likely could take control of any sense if he knows it is relevant, and he figured out elf luck even before becoming hostile. Scaring them into leaving, then fooling everyone sans Juniper into thinking that Juniper is visibly leaving with them, was entirely doable.
-> They screwed up their identity confirmations, should've been continuously exchanging private information, inserting it in phrases and such. Faking that would've been next to impossible.
-> (I'm not sure what's up with Valencia, though. If Masters couldn't affect her and she was fine, she wouldn't have left with the rest of the party, since she would've seen Juniper not leaving. I'd bet on her being incapacitated in the room, then taken through the portal by the rest of the party. Would explain why no-one else hesitated to leave her behind, and why Masters expected only Juniper to stay.)
-> >I couldn’t feel whatever she felt, maybe because my luck was so much weaker than her own, or maybe because I had so many other things on my mind.
-> Or because Masters didn't know to fake it for him, hmm? I'd assume he would have noticed an eleven on a zero-to-ten scale.
 > 
+> We have little reason to believe anything past the second keyring actually happened. That outcome was pretty convenient for Masters: Juniper's allies have left, and Masters is now alone with him, up against an enormous threat. Any bets on them striking an alliance of convenience next chapter, during which they would come to trust each other?
+> 
+> Elf luck was compromised. Masters likely could take control of any sense if he knows it is relevant, and he figured out elf luck even before becoming hostile. Scaring them into leaving, then fooling everyone sans Juniper into thinking that Juniper is visibly leaving with them, was entirely doable.
+> 
+> They screwed up their identity confirmations, should've been continuously exchanging private information, inserting it in phrases and such. Faking that would've been next to impossible.
+> 
+> (I'm not sure what's up with Valencia, though. If Masters couldn't affect her and she was fine, she wouldn't have left with the rest of the party, since she would've seen Juniper not leaving. I'd bet on her being incapacitated in the room, then taken through the portal by the rest of the party. Would explain why no-one else hesitated to leave her behind, and why Masters expected only Juniper to stay.)
+> 
+> >I couldn’t feel whatever she felt, maybe because my luck was so much weaker than her own, or maybe because I had so many other things on my mind.
+> 
+> Or because Masters didn't know to fake it for him, hmm? I'd assume he would have noticed an eleven on a zero-to-ten scale.
 
->> **u/None** [+19] *
+>> **u/None** [+17]  (6 hours later)
 >> 
 >> >I'm not sure what's up with Valencia, though. If Masters couldn't affect her and she was fine, she wouldn't have left with the rest of the party, since she would've seen Juniper not leaving. I'd bet on her being incapacitated in the room, then taken through the portal by the rest of the party
->> Masters has had 500 years of experience to become a master of other magic as well as illusion, he also has access to various powerful entads. He could easily have moved her away from the rest of the party with that
 >> 
+>> Masters has had 500 years of experience to become a master of other magic as well as illusion, he also has access to various powerful entads. He could easily have moved her away from the rest of the party with that
 
->> **u/nytelios** [+16] *
+>> **u/nytelios** [+16]  (8 hours later)
 >> 
 >> Yeah, I was wincing at how easily Joon fell into the pattern of believing all his communication was real after Masters let the illusion "break." Since Joon never detected it at first, everything suggests that the illusion is seamless.
->> I think it's pretty likely that Val is still in the room, but is struggling to find any good recourse while her friends are all (presumably) babbling with barely any common thread.
 >> 
+>> I think it's pretty likely that Val is still in the room, but is struggling to find any good recourse while her friends are all (presumably) babbling with barely any common thread.
 
->>> **u/QuizzicalCoatl** [+1] *
+>>> **u/QuizzicalCoatl** [+1]  (23 hours later)
 >>> 
 >>> Joon can see the soul overlay and check for any differences with the world he is seeing. I imagine that speech would be difficult to change if the lip movements had to match.
->>> 
 
->>>> **u/nytelios** [+1] *
+>>>> **u/nytelios** [+1]  (23 hours later)
 >>>> 
 >>>> Does the soul as viewed through soul sight sync perfectly with all movements of the body? We know the glow is suffused through any extension of an anima's being, but it might be hard to distinguish lip movements unless there's some sort of depth gradient. ~~However, [my theory](https://www.reddit.com/r/rational/comments/8vkomq/rt_worth_the_candle_ch_108109_dreamveil/e1oync2/) is that Masters has already hijacked Joon's soul sight.~~ depends on whether illusion magic's sensorium can copy soul color
->>>> 
 
->> **u/CouteauBleu** [+13]  *We are the Empire.**
+>> **u/CouteauBleu** [+14]  *We are the Empire.* (17 hours later)
 >> 
 >> Mhh... I don't know. There was definitely some shenanigans happening after the second keyring (I'm pretty sure Amaryllis didn't *really* suggest they give him info), but I think there was a real external threat that somehow incapacitated Masters at the end of the chapter.
->> Let's see... Juniper has access to soul vision, which I'm pretty sure Masters can't fake, which means all their movements definitely matched what we saw. So the illusion was auditory and *maybe* elf luck at most. There was definitely a portal, the others went through it, Joon didn't. Given that info, it's likely Valencia didn't go either (else she'd have dragged Joon with her), which means she's trapped somewhere.
->> I think the part at the end really is the illusion cutting off. Maybe it wasn't, and Masters cut himself off mid-sentence on purpose... but I don't think he's *that* good. He's confused, he's dealing with what he thinks is Uther 2.0 and his new Knights, Joon has shown an ability to see through some of his illusions, and Masters doesn't know how the ability works and what its limits are. The scene really makes sense if you assume Masters is grasping at straws there (unlike Fallatehr, who was smooth and deliberate even after he was exposed).
->> I'm calling it now, this is what happened:
->> * Masters cut off most of his illusions when Joon touched his friends.
->> * He tried to convince them to stay, by man-in-the-middle-ing their dialogue.
->> * He was taken out, either by Valencia, or by an external force.
->> * Everyone except Joon decided to leave, for the reasons we saw.
 >> 
+>> Let's see... Juniper has access to soul vision, which I'm pretty sure Masters can't fake, which means all their movements definitely matched what we saw. So the illusion was auditory and *maybe* elf luck at most. There was definitely a portal, the others went through it, Joon didn't. Given that info, it's likely Valencia didn't go either (else she'd have dragged Joon with her), which means she's trapped somewhere.
+>> 
+>> I think the part at the end really is the illusion cutting off. Maybe it wasn't, and Masters cut himself off mid-sentence on purpose... but I don't think he's *that* good. He's confused, he's dealing with what he thinks is Uther 2.0 and his new Knights, Joon has shown an ability to see through some of his illusions, and Masters doesn't know how the ability works and what its limits are. The scene really makes sense if you assume Masters is grasping at straws there (unlike Fallatehr, who was smooth and deliberate even after he was exposed).
+>> 
+>> I'm calling it now, this is what happened:
+>> 
+>> * Masters cut off most of his illusions when Joon touched his friends.
+>> 
+>> * He tried to convince them to stay, by man-in-the-middle-ing their dialogue.
+>> 
+>> * He was taken out, either by Valencia, or by an external force.
+>> 
+>> * Everyone except Joon decided to leave, for the reasons we saw.
 
->>> **u/Noumero** [+21]  *Self-Appointed Court Statistician**
+>>> **u/Noumero** [+22]  *Self-Appointed Court Statistician* (19 hours later)
 >>> 
 >>> I am pretty sure that elf luck was compromised.
->>> First of all, from Masters' perspective, it was the best sense to attack. Juniper has shown some unexpected ability to see through the illusions, with no exact limit. That meant Masters' ability to fool him *or* the rest of the part became limited: Juniper would have seen through the illusions, and if Masters targeted his teammates, Juniper would have seen them reacting to illusions. That was true for every sense, *except* elf luck.
->>> Fenn had elf luck, but Juniper didn't (as far as Masters knew). That meant Juniper wouldn't have been able to see through illusions targeting elf luck. That was the state of the situation — and then Fenn's sense of danger overloaded.
->>> Is that not suspicious?
->>> Second: circumstantial evidence/the timeline.
->>> > “Something’s not right,” said Fenn. “Not just the obvious. A little tingle came on in the last minute or so, and it’s getting stronger. You feel it too?”
->>> > I nodded. My own sense of it was far weaker than hers.
->>> *Both* Juniper and Fenn feel "a little tingle" from luck sense, immediately prior to Masters becoming hostile.
->>> > “Ah,” said Masters. His tone was flat, only with a slight note of curiosity. “Elf luck?” 
->>> Masters figures it out.
->>> >“You have another sense,” said Masters. “Which one?”
->>> #
->>> >“You couldn’t see them,” said Masters. “Now you can. How?” 
->>> #
->>> >“How can you still see your companions?” asked Masters.
->>> Masters *really* wants to know what sense he needs to compromise. Implies the knowledge would be useful to him, implies the knowledge is necessary for compromisation, implies luck is compromised.
->>> > “Something’s off,” said Fenn. “Really, really off.” <...>
->>> >“Zero to ten?” asked Amaryllis.
->>> >“Eleven,” said Fenn. “Not sure that portal is going to do it.”
->>> Fenn feels something *horrific* through her luck sense...
->>> >I couldn’t feel whatever she felt, maybe because my luck was so much weaker than her own, or maybe because I had so many other things on my mind.
->>> ... Juniper *doesn't*.
->>> ___
->>> To recap, Masters likely could compromise any sense if he knows to target it. He knew that Fenn had luck sense, but had no reason to think that about Juniper. Juniper's luck sense was enough to pick up on what Fenn's luck sense registered as "a little tingle", but then he didn't feel anything at all while Fenn was experiencing sense overload.
->>> As I said, I'm pretty sure elf luck was compromised. Given that, what is the likelihood that some kind of external threat *really* arrive when Masters was faking the arrival of an external threat?
 >>> 
+>>> First of all, from Masters' perspective, it was the best sense to attack. Juniper has shown some unexpected ability to see through the illusions, with no exact limit. That meant Masters' ability to fool him *or* the rest of the part became limited: Juniper would have seen through the illusions, and if Masters targeted his teammates, Juniper would have seen them reacting to illusions. That was true for every sense, *except* elf luck.
+>>> 
+>>> Fenn had elf luck, but Juniper didn't (as far as Masters knew). That meant Juniper wouldn't have been able to see through illusions targeting elf luck. That was the state of the situation — and then Fenn's sense of danger overloaded.
+>>> 
+>>> Is that not suspicious?
+>>> 
+>>> Second: circumstantial evidence/the timeline.
+>>> 
+>>> > “Something’s not right,” said Fenn. “Not just the obvious. A little tingle came on in the last minute or so, and it’s getting stronger. You feel it too?”
+>>> 
+>>> > I nodded. My own sense of it was far weaker than hers.
+>>> 
+>>> *Both* Juniper and Fenn feel "a little tingle" from luck sense, immediately prior to Masters becoming hostile.
+>>> 
+>>> > “Ah,” said Masters. His tone was flat, only with a slight note of curiosity. “Elf luck?” 
+>>> 
+>>> Masters figures it out.
+>>> 
+>>> >“You have another sense,” said Masters. “Which one?”
+>>> 
+>>> #
+>>> 
+>>> >“You couldn’t see them,” said Masters. “Now you can. How?” 
+>>> 
+>>> #
+>>> 
+>>> >“How can you still see your companions?” asked Masters.
+>>> 
+>>> Masters *really* wants to know what sense he needs to compromise. Implies the knowledge would be useful to him, implies the knowledge is necessary for compromisation, implies luck is compromised.
+>>> 
+>>> > “Something’s off,” said Fenn. “Really, really off.” <...>
+>>> 
+>>> >“Zero to ten?” asked Amaryllis.
+>>> 
+>>> >“Eleven,” said Fenn. “Not sure that portal is going to do it.”
+>>> 
+>>> Fenn feels something *horrific* through her luck sense...
+>>> 
+>>> >I couldn’t feel whatever she felt, maybe because my luck was so much weaker than her own, or maybe because I had so many other things on my mind.
+>>> 
+>>> ... Juniper *doesn't*.
+>>> 
+>>> ___
+>>> 
+>>> To recap, Masters likely could compromise any sense if he knows to target it. He knew that Fenn had luck sense, but had no reason to think that about Juniper. Juniper's luck sense was enough to pick up on what Fenn's luck sense registered as "a little tingle", but then he didn't feel anything at all while Fenn was experiencing sense overload.
+>>> 
+>>> As I said, I'm pretty sure elf luck was compromised. Given that, what is the likelihood that some kind of external threat *really* arrive when Masters was faking the arrival of an external threat?
 
->>>> **u/sparkc** [+4] *
+>>>> **u/sparkc** [+4]  (a day later)
 >>>> 
 >>>> So I agree with this and came to the same conclusion, before asking what the goal here would be though? Twig Fenn’s elf luck so she and the rest of the group bail and leave behind a member *except* Joon who conveniently is last in line to get through the portal and decides to stay? If your goal is to get some ‘alone time’ with Joon then I don’t think this plan works nine times out of ten. I would guess this plan would often result in Joon bailing with everyone else or everyone going all out to recapture Valencia then bail.
->>>> 
 
->>>>> **u/Noumero** [+7]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+5]  *Self-Appointed Court Statistician* (a day later)
 >>>>> 
 >>>>> My initial guess was that he used Valencia to separate them.
->>>>> Say she is lying unconscious in the middle of the room. He could show her to the rest of the party, but continue blocking Juniper's perception of her. They grab her and put her through the portal — and now they don't have any reason to hesitate escaping, unlike Juniper. Masters creates an illusion of Juniper walking through the portal, replaces actual Juniper with Masters' image, for Amaryllis to talk to at the end, and sees everyone except Juniper leave.
->>>>> (We don't even know if the portal is actually closed, by the way. Perhaps Masters used an illusion to "close" it faster?)
->>>>> However, on second thoughts, it's conditional on Masters knowing/gambling on Juniper's inability to see her, which means he would be able to figure out soul sight, which means he would be able to fake it, which means he has absolute control again and no reason to scare them off.
->>>>> So I'm not sure.
 >>>>> 
+>>>>> Say she is lying unconscious in the middle of the room. He could show her to the rest of the party, but continue blocking Juniper's perception of her. They grab her and put her through the portal — and now they don't have any reason to hesitate escaping, unlike Juniper. Masters creates an illusion of Juniper walking through the portal, replaces actual Juniper with Masters' image, for Amaryllis to talk to at the end, and sees everyone except Juniper leave.
+>>>>> 
+>>>>> (We don't even know if the portal is actually closed, by the way. Perhaps Masters used an illusion to "close" it faster?)
+>>>>> 
+>>>>> However, on second thoughts, it's conditional on Masters knowing/gambling on Juniper's inability to see her, which means he would be able to figure out soul sight, which means he would be able to fake it, which means he has absolute control again and no reason to scare them off.
+>>>>> 
+>>>>> So I'm not sure.
 
->>>>>> **u/HPMOR_fan** [+3] *
+>>>>>> **u/HPMOR_fan** [+3]  (a day later)
 >>>>>> 
 >>>>>> This is the other strong possibility, except I think the luck is real but did not trip for Joon because it is not a threat to him personally. I caught this line
->>>>>> \> She (Fenn) looked at the portal for a fraction of a second, then darted over and placed her gloved hand on the mirror. 
->>>>>> Sounds like someone on the other side of the portal told Fenn to try to put the mirror inside the glove.
 >>>>>> 
+>>>>>> \> She (Fenn) looked at the portal for a fraction of a second, then darted over and placed her gloved hand on the mirror. 
+>>>>>> 
+>>>>>> Sounds like someone on the other side of the portal told Fenn to try to put the mirror inside the glove.
 
->>>> **u/russxbox** [+2] *
+>>>> **u/russxbox** [+2]  (2 days later)
 >>>> 
 >>>> Obvious question: Why would Masters have "no reason to think that about Juniper"? Joon gave away his ability to feel elf luck when he confirmed the first tingle that allowed Masters to figure out that elf luck was being consulted. So why doesn't Masters use that information later unless he's intending to keep Joon there?
->>>> 
 
->>> **u/HPMOR_fan** [+1] *
+>>> **u/HPMOR_fan** [+1]  (a day later)
 >>> 
 >>> \>  I think the part at the end really is the illusion cutting off. 
->>> I'm going back and forth but I think this is correct. I couldn't find a single statement from Master that appears to be false. He says "It's not me." Another reason Joon's luck may not be tripping is that whatever is coming is not a threat to him but is a threat to Fenn. Does luck only care about personal threats?
 >>> 
+>>> I'm going back and forth but I think this is correct. I couldn't find a single statement from Master that appears to be false. He says "It's not me." Another reason Joon's luck may not be tripping is that whatever is coming is not a threat to him but is a threat to Fenn. Does luck only care about personal threats?
 
->> **u/JiggyRobot** [+9] *
+>> **u/JiggyRobot** [+9]  (14 hours later)
 >> 
 >> The game-layer seems to be the only thing Juniper can fully trust right now. That being said, I think that the fact he got an achievement after the rest of his party left strongly suggests that they were not in fact illusions.
->> I agree that it seemed a bit uncharacteristic for them to all leave so suddenly.
 >> 
+>> I agree that it seemed a bit uncharacteristic for them to all leave so suddenly.
 
->>> **u/icesharkk** [+7] *
+>>> **u/icesharkk** [+7]  (19 hours later)
 >>> 
 >>> He wasn't say they were illusions. He's saying the only advantage shouldn't have him is the ability to locate them. Masters could still be faking communication, faking the "break" in the illusion caused by touch. And he can still obscure Val. Hell the fact that Joon can't see Val should give masters the info he needs to ID joons new sense as soul sight.
->>> 
 
->>>> **u/PM_ME_OS_DESIGN** [+3] *
+>>>> **u/PM_ME_OS_DESIGN** [+3]  (4 days later)
 >>>> 
 >>>> No, it IDs it as a magical sense. Nothing more specific, really. It could be an entad shoe that locates people.
->>>> 
 
->>> **u/jaghataikhan** [+1]  *Primarch of the White Scars**
+>>> **u/jaghataikhan** [+1]  *Primarch of the White Scars* (23 hours later)
 >>> 
 >>> For all we know Masters has the gang thinking everybody else is bailing (ie they're not leaving a man behind)
->>> 
 
->> **u/ceegheim** [+5] *
+>> **u/ceegheim** [+5]  (18 hours later)
 >> 
 >> My preferred state (most interesting narrative) would be if our party happens to be equipped with radios / walky-talkies (afaik, these exist on aerb). 
->> Now, they would be in a very interesting position: Communications Joon-> party cannot be interfered with, but comms party->joon can be modified. Masters can listen to everything.
->> Now we need a protocol for peaceful (almost neutral ground) negotiations. First, joon will repeat back everything he hears, both from party and from M; the latter is necessary because M is presumably not physically speaking at all. In other words, the party can catch all deceptions. In regular intervalse, and especially before every irreversible decision (e.g. revealing new info to M), Joon queries the party whether any deceptions occurred: If they spotted deceptions, tell e.g. the last name of Harry Potter's male companion; if they spotted no deceptions, tell the last name of his female companion. 
->> M is informed of this protocol. He is informed that negotiations will end if he fakes any communications. If he must interfere, he is to replace by [redacted], which would be considered shitty but less hostile than replacement by lies. 
->> Ultimately, Joon has no way of fighting. If M has any sense, the room is rigged to collapse into a lava pit, and J cannot quickly find the exit anyway. If joon finds val, and she is presumed immune to illusion, then the same protocol applies.
 >> 
+>> Now, they would be in a very interesting position: Communications Joon-> party cannot be interfered with, but comms party->joon can be modified. Masters can listen to everything.
+>> 
+>> Now we need a protocol for peaceful (almost neutral ground) negotiations. First, joon will repeat back everything he hears, both from party and from M; the latter is necessary because M is presumably not physically speaking at all. In other words, the party can catch all deceptions. In regular intervalse, and especially before every irreversible decision (e.g. revealing new info to M), Joon queries the party whether any deceptions occurred: If they spotted deceptions, tell e.g. the last name of Harry Potter's male companion; if they spotted no deceptions, tell the last name of his female companion. 
+>> 
+>> M is informed of this protocol. He is informed that negotiations will end if he fakes any communications. If he must interfere, he is to replace by [redacted], which would be considered shitty but less hostile than replacement by lies. 
+>> 
+>> Ultimately, Joon has no way of fighting. If M has any sense, the room is rigged to collapse into a lava pit, and J cannot quickly find the exit anyway. If joon finds val, and she is presumed immune to illusion, then the same protocol applies.
 
->> **u/countless_argonauts** [+4] *
+>> **u/countless_argonauts** [+3]  (a day later)
 >> 
 >> Except Masters doesn't know the team well enough to create an illusion of them acting in character.  That's why he had them just standing around being puzzled like Joon was.
->> Most telling is Mary's comment about voting at the end.  I doubt Uther was running his group as a democracy, based both on him being king and from what we've heard about his actions in Aerb.  And Aerb doesn't have a democratic tradition that it would make sense for him to make that guess.
->> So, it seems like the team Joon thought he was interacting with was really them.  And we know they really left because he couldn't have known to fake the solo mode achievement.  (We also know Valencia is incapacitated or elsewhere, for the same reason.)
->> It's possible he faked the luck sense that Fenn felt, but I can't see how he could have been sure enough that Joon was going to stay behind, which was his most pressing concern at the time, if we assume no outside threat.
->> It is possible he noticed Fenn's reference to Joon having luck (bad opsec there), and he may have suppressed Joon's sense at the end in the hopes he would stay.  But none of the rest of the possibilities seem reasonable given what we know of Masters's capabilities.
 >> 
+>> Most telling is Mary's comment about voting at the end.  I doubt Uther was running his group as a democracy, based both on him being king and from what we've heard about his actions in Aerb.  And Aerb doesn't have a democratic tradition that it would make sense for him to make that guess.
+>> 
+>> So, it seems like the team Joon thought he was interacting with was really them.  And we know they really left because he couldn't have known to fake the solo mode achievement.  (We also know Valencia is incapacitated or elsewhere, for the same reason.)
+>> 
+>> It's possible he faked the luck sense that Fenn felt, but I can't see how he could have been sure enough that Joon was going to stay behind, which was his most pressing concern at the time, if we assume no outside threat.
+>> 
+>> It is possible he noticed Fenn's reference to Joon having luck (bad opsec there), and he may have suppressed Joon's sense at the end in the hopes he would stay.  But none of the rest of the possibilities seem reasonable given what we know of Masters's capabilities.
 
-> **u/TempAccountIgnorePls** [+30] *
+> **u/TempAccountIgnorePls** [+31]  (an hour later)
 > 
 > For someone as apparently well versed in the Narrative as Masters is, he's *really* managed to dig himself into a hole here.
-> 
 
->> **u/SpeculativeFiction** [+33] *
+>> **u/SpeculativeFiction** [+35]  (3 hours later)
 >> 
 >> He has a pretty understandable viewpoint though. Arthur, both from his perspective and Joon's, attracted countless horrors that threatened the world.
->> It's very believable that someone would notice that, and the fact that the threats petered off after Arthur left, and be very leery of a successor popping up and starting the cycle again.
->> Honestly, he might be doing the world a favor by killing Joon. The DM has promised that he won't railroad Joon, but Masters doesn't know that, and the DM has already shown just staying idle isn't really an option for him.
->> On another note, he mentioned he wasn't sure if Arthur could lose, and noted that despite winning every time, and talking about fate and narratives, he nonetheless *always* seemed to give situations his all. Maybe his low-key demand for information was an attempt to bypass whatever factor let the chosen one always win, by making Joon not try very hard to escape?
 >> 
+>> It's very believable that someone would notice that, and the fact that the threats petered off after Arthur left, and be very leery of a successor popping up and starting the cycle again.
+>> 
+>> Honestly, he might be doing the world a favor by killing Joon. The DM has promised that he won't railroad Joon, but Masters doesn't know that, and the DM has already shown just staying idle isn't really an option for him.
+>> 
+>> On another note, he mentioned he wasn't sure if Arthur could lose, and noted that despite winning every time, and talking about fate and narratives, he nonetheless *always* seemed to give situations his all. Maybe his low-key demand for information was an attempt to bypass whatever factor let the chosen one always win, by making Joon not try very hard to escape?
 
->>> **u/TempAccountIgnorePls** [+21] *
+>>> **u/TempAccountIgnorePls** [+20]  (4 hours later)
 >>> 
 >>> Now that I've thought about it some more, I think he's on the fence. He doesn't know if he should kill Joon or not, and he's trying to get more information out of him to help reach a conclusion. But now he's left it too long and he's lost both Joon's trust and the element of surprise, putting him in a bad position regardless of his final decision.
->>> 
 
->>> **u/None** [+17] *
+>>> **u/None** [+16]  (6 hours later)
 >>> 
 >>> Or he was deliberately testing Joon's powers. Think about it, he deployed an ancient and unknown magic on him and he had a counter for it in minutes
->>> 
 
->>>> **u/rabotat** [+5] *
+>>>> **u/rabotat** [+5]  (6 hours later)
 >>>> 
 >>>> Yeah, he wants to know if Joon is like Arthur, so he puts him in an impossible situation to get out of.
->>>> 
 
->> **u/sicutumbo** [+14] *
+>> **u/sicutumbo** [+12]  (2 hours later)
 >> 
 >> I don't think he actually intended to harm Joon or any of his companions, and is merely obsessed with these questions that he has spent his entire career on. If he actually intended to harm him, why would he even hint at the fact that Arthur has living enemies who would want to harm Joon as well? Or that he is part of a group that logically might want to murder anyone similar to Arthur before they cause all those world ending catastrophes?
->> 
 
->>> **u/TempAccountIgnorePls** [+27] *
+>>> **u/TempAccountIgnorePls** [+27]  (2 hours later)
 >>> 
 >>> Oh he definitely doesn't intend to harm Joon, but he's still positioned himself against him. In meta terms, he's clearly this arc's antagonist, and it's largely his own fault. 
->>> it's reminiscent of what happened with Fallatehr: A potentially mutually beneficial relationship soured from the beginning by mutual distrust.
 >>> 
+>>> it's reminiscent of what happened with Fallatehr: A potentially mutually beneficial relationship soured from the beginning by mutual distrust.
 
->>>> **u/TheColourOfHeartache** [+14] *
+>>>> **u/TheColourOfHeartache** [+14]  (3 hours later)
 >>>> 
 >>>> At least this time Joon and co were a lot more willing to extend an olive branch, Joon offered to meet on neutral ground but Masters just couldn't bring himself to let Joon out of his grasp.
->>>> 
 
->>>>> **u/xartab** [+28] *
+>>>>> **u/xartab** [+28]  (5 hours later)
 >>>>> 
 >>>>> Let's be real, you can't really establish a trusting work relationship with someone if the first thing they do after you bailed them out of prison is mindfuck your pals.
->>>>> 
 
->>>>>> **u/TheColourOfHeartache** [+12] *
+>>>>>> **u/TheColourOfHeartache** [+11]  (13 hours later)
 >>>>>> 
 >>>>>> Let's be real, you can't really establish a trusting work relationship with someone if the first thing they do after you ask to talk to them is send you a live grenade.
->>>>>> 
 
->>>>>> **u/t3tsubo** [+7] *
+>>>>>> **u/t3tsubo** [+6]  (10 hours later)
 >>>>>> 
 >>>>>> Correction: you can't establish a trusting relationship with someone if -they find out that- the first thing you did after they bailed you out of prison was mindfuck their pals.
->>>>>> 
 
->>>>>>> **u/kaukamieli** [+3] *
+>>>>>>> **u/kaukamieli** [+3]  (15 hours later)
 >>>>>>> 
 >>>>>>> Can you establish a trusting relationship with illusionist master when you are inside the illusion exclusion zone?
->>>>>>> 
 
->>>>>>>> **u/icesharkk** [+2] *
+>>>>>>>> **u/icesharkk** [+2]  (19 hours later)
 >>>>>>>> 
 >>>>>>>> No.
->>>>>>>> 
 
->>>>>>>>> **u/zonules_of_zinn** [+1] *
+>>>>>>>>> **u/zonules_of_zinn** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> yes!
->>>>>>>>> 
 
->> **u/sibswagl** [+9] *
+>> **u/sibswagl** [+8]  (2 hours later)
 >> 
 >> Yeah, the only people more likely to die than the protagonist's companions are his enemies.
->> 
 
-> **u/None** [+27] *
+> **u/None** [+27]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/xartab** [+35] *
+>> **u/xartab** [+40]  (5 hours later)
 >> 
 >> Same. Kinda mindblowing, too, as I tend to spend some half hour after every new update basking in the joy of knowing there's more WtC for me to read later, when I feel like it. I usually wish to extend this interval more, but then curiosity catches up and I'm fucked for another ten days.
->> Speaking of which, /u/cthulhuraejepsen, If you're reading this, it probably means I'm dead, the map to the lost city is inside the globe in my library. But that's beside the point. I just wanted to let you know that I've seen how people are sometimes incredibly, unreasonably and unduly assholes to you and WtC on A3O, and you should just ignore them. But you said that you aren't able, so maybe it will lift you up to hear that I know you do amazing work, you got great talent, and I keep the last chapter of WtC always open in another tab in order to refresh it with what is frankly an insane rate. Don't stop being awesome. 
->> P.s., I think there's a fair chance some small percentage of my money will inexplicably find itself on your patreon account, as soon as I earn enough to buy my own food.
 >> 
+>> Speaking of which, /u/cthulhuraejepsen, If you're reading this, it probably means I'm dead, the map to the lost city is inside the globe in my library. But that's beside the point. I just wanted to let you know that I've seen how people are sometimes incredibly, unreasonably and unduly assholes to you and WtC on A3O, and you should just ignore them. But you said that you aren't able, so maybe it will lift you up to hear that I know you do amazing work, you got great talent, and I keep the last chapter of WtC always open in another tab in order to refresh it with what is frankly an insane rate. Don't stop being awesome. 
+>> 
+>> P.s., I think there's a fair chance some small percentage of my money will inexplicably find itself on your patreon account, as soon as I earn enough to buy my own food.
 
->>> **u/cthulhuraejepsen** [+30]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+33]  *Fruit flies like a banana* (11 hours later)
 >>> 
 >>> Thanks. I'd agree that AO3 is a much harsher audience. It also tends to be harsh in a way that this subreddit rarely is; it's pretty typical for people on AO3 (at least for this work) to comment about "the author" as though they have a clue who I am or why I made the writing choices I did. That's not really a way that I tend to engage with works, nor is it a way that I like seeing others engage with works (even those I didn't write), nor do I think it's terribly productive unless there's a strong case to be made one way or another, like from biographical details (and even then). Judging the internal mental state of other people is very hard, all the more so when you're looking at something they created rather than speaking with them directly.
->>> I tend to approach AO3 comments in batches, and then skip past the stuff that doesn't look like it's going to be something that I would want to respond to. Sometimes there are corrections or clarifications I want to give, sometimes there's actual discussion, and sometimes (rarely) there are typos. I went through a period of just ignoring comments entirely, but I've been trying to get better about A) dealing with negative feedback in a way that's mentally and creatively healthy and B) giving people responses that I think can enhance the work. I've had some success with it so far.
 >>> 
+>>> I tend to approach AO3 comments in batches, and then skip past the stuff that doesn't look like it's going to be something that I would want to respond to. Sometimes there are corrections or clarifications I want to give, sometimes there's actual discussion, and sometimes (rarely) there are typos. I went through a period of just ignoring comments entirely, but I've been trying to get better about A) dealing with negative feedback in a way that's mentally and creatively healthy and B) giving people responses that I think can enhance the work. I've had some success with it so far.
 
->>>> **u/None** [+12] *
+>>>> **u/None** [+13]  (11 hours later)
 >>>> 
 >>>> thank you so, so much for creating this story
->>>> 
 
->>>> **u/WalterTFD** [+8] *
+>>>> **u/WalterTFD** [+8]  (20 hours later)
 >>>> 
 >>>> Readers are crazy people.  Thanks for putting up with us.
->>>> 
 
->>> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+>>> **u/Sailor_Vulcan** [+4]  *Champion of Justice and Reason* (8 hours later)
 >>> 
 >>> I take it that your anticipation of the next chapter was so strong that it brought you back to life? Or are you a zombie intending to buy brains to eat? Do you get them off the black market or from organ donations?
->>> 
 
->>>> **u/xartab** [+2] *
+>>>> **u/xartab** [+2]  (14 hours later)
 >>>> 
 >>>> Yes.
 >>>> The lost city hides many wonders.
->>>> 
 
->> **u/ashinator92** [+2] *
+>> **u/ashinator92** [+2]  (an hour later)
 >> 
 >> care to share ? :)
->> 
 
-> **u/JiggyRobot** [+23] *
+> **u/JiggyRobot** [+24]  (5 hours later)
 > 
 > Worrying thought. If the library suggests that the world ends in 5 years, could it be that instead of some apocalyptic event that Joon just finishes the campaign at that time? No more adventures, means the DM stops writing the story.
-> That or in 5 years everyone just switches to Kindles (yep, probably just eBooks. Nothing to worry about guys).
-> Side note: I loved Fenn and Joon confusing each other by talking about the animated/live-action transformers movies respectively.
 > 
+> That or in 5 years everyone just switches to Kindles (yep, probably just eBooks. Nothing to worry about guys).
+> 
+> Side note: I loved Fenn and Joon confusing each other by talking about the animated/live-action transformers movies respectively.
 
->> **u/sicutumbo** [+9] *
+>> **u/sicutumbo** [+9]  (6 hours later)
 >> 
 >> A plausible hypothesis is that the library magic simply doesn't account for Joon, so the world will end in 5 years unless he does something about that.
->> 
 
->>> **u/kaukamieli** [+2] *
+>>> **u/kaukamieli** [+2]  (15 hours later)
 >>> 
 >>> Uuh... they are probably going to try to find the potter books from the Infinite Library and find out they have and will never be written. :D
->>> 
 
->> **u/MilesSand** [+2] *
+>> **u/MilesSand** [+2]  (12 hours later)
 >> 
 >> Or that's how far the world's history is planned out, a lesson the dm learned after Arthur's work changed the course of history. A lot of the books probably disappeared from the library back then as well, because Arthur prevented or changed the historical events that inspired the creation of said books.
->> 
 
->>> **u/Bellaby** [+2] *
+>>> **u/Bellaby** [+2]  (18 hours later)
 >>> 
 >>> where is this said?
->>> 
 
->>>> **u/zonules_of_zinn** [+2] *
+>>>> **u/zonules_of_zinn** [+2]  (a day later)
 >>>> 
 >>>> something like "four hundred years ago the library had the world ending in a hundred years".
->>>> 
 
-> **u/None** [+39] *
+> **u/None** [+40]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/nytelios** [+16] *
+>> **u/nytelios** [+15]  (7 hours later)
 >> 
 >> The cowardice affliction is negligible at the 1st level, so it wasn't the clearly superior option, especially since he doesn't know what he else he's up against and he could've gone back to save Val. But I have a theory below that it was a false choice anyway: the portal was never real.
->> 
 
-> **u/chris-goodwin** [+16] *
+> **u/chris-goodwin** [+17]  (2 hours later)
 > 
 > "I don't think there's an infohazard risk for [clothing](https://www.redbubble.com/shop/actual+cannibal+shia+labeouf)," she says...
-> 
 
->> **u/sicutumbo** [+12] *
+>> **u/sicutumbo** [+12]  (2 hours later)
 >> 
 >> Could Fenn stumble upon Victoria's Secret?
->> 
 
->>> **u/chris-goodwin** [+4] *
+>>> **u/chris-goodwin** [+3]  (3 hours later)
 >>> 
 >>> She probably has.  She wears Earth bras...
->>> 
 
->>>> **u/sicutumbo** [+19] *
+>>>> **u/sicutumbo** [+19]  (3 hours later)
 >>>> 
 >>>> It's a joke playing on infohazards transmitted through clothing. On Aerb, Actual Cannibal Shia Labeouf is an actual cannibal, so Victoria's Secret is an actual secret. Maybe it's an exclusion zone that can only be known to women, and if men enter it they feel an incredible urge to leave...
->>>> 
 
->>>>> **u/xartab** [+1] *
+>>>>> **u/xartab** [+1]  (21 hours later)
 >>>>> 
 >>>>> >and if men enter it they feel an incredible urge to leave...
->>>>> an incredible urge to **stay forever**... ftfy
 >>>>> 
+>>>>> an incredible urge to **stay forever**... ftfy
 
->>>>> **u/chris-goodwin** [-2] *
+>>>>> **u/chris-goodwin** [-3]  (4 hours later)
 >>>>> 
 >>>>> Oh yeah, I got that as well.  But yeah.
->>>>> 
 
-> **u/Kanddak** [+16] *
+> **u/Kanddak** [+16]  (20 hours later)
 > 
 > How narratively convenient that Bethel sat this one out; her sensorium full of weird and redundant entad senses is the perfect countermeasure to Masters.
-> 
 
->> **u/matematikaadit** [+2] *
+>> **u/matematikaadit** [+2]  (a day later)
 >> 
 >> If anything, my guess is Amarylis and co. are retreating now so that they can fetch Bethel in order to rescue Joon and Val. It means they need at least a few hours for the teleportation key to be ready.
->> 
 
->>> **u/Kanddak** [+3] *
+>>> **u/Kanddak** [+3]  (a day later)
 >>> 
 >>> Yeah, I thought the same thing. Rereading,
->>> > “How do you defeat it?” asked Amaryllis.
->>> > “Classified,” I said.
->>> possibly reads as "Masters' weakness is on The List of Things That People Can’t Know". Amaryllis will absolutely narrow it down to #12. Obviously they'll have waited til the teleportation key was ready again before arriving at Speculation & Scrutiny, but they're still looking at a 2-hour turnaround.
 >>> 
+>>> > “How do you defeat it?” asked Amaryllis.
+>>> 
+>>> > “Classified,” I said.
+>>> 
+>>> possibly reads as "Masters' weakness is on The List of Things That People Can’t Know". Amaryllis will absolutely narrow it down to #12. Obviously they'll have waited til the teleportation key was ready again before arriving at Speculation & Scrutiny, but they're still looking at a 2-hour turnaround.
 
-> **u/cthulhuraejepsen** [+15]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+16]  *Fruit flies like a banana* (2 minutes later)
 > 
 > June progress report on Patreon [is available here](https://www.patreon.com/posts/19818761).
-> 
 
->> **u/CouteauBleu** [+24]  *We are the Empire.**
+>> **u/CouteauBleu** [+24]  *We are the Empire.* (an hour later)
 >> 
 >> Joon makes progress reports on Patreon now?
->> 
 
->> **u/TheColourOfHeartache** [+4] *
+>> **u/TheColourOfHeartache** [+3]  (an hour later)
 >> 
 >> Will we ever get to read that worldbuilding document?
->> 
 
->>> **u/cthulhuraejepsen** [+4]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+3]  *Fruit flies like a banana* (10 hours later)
 >>> 
 >>> It's the Patreon goal at $500 per month, so given current trends, it seems likely.
->>> 
 
-> **u/FormerlySarsaparilla** [+15] *
+> **u/FormerlySarsaparilla** [+14]  (2 hours later)
 > 
 > And Juniper swings back into plot relevance! I'm glad to see it- I really have enjoyed the last couple of arcs and the character development of the team, but I'm eager to see the main narrative get advanced finally.
-> 
 
-> **u/WarningInsanityBelow** [+14] *
+> **u/WarningInsanityBelow** [+15]  (4 hours later)
 > 
 > Now I'm paranoid that Val left with the group, and Master simply didn't drop the the illusion concealing her. I don't think that she was forced to leave the room the party was in since:
-> * Val is an out of context problem between her immunity to most magic/poison/conventional weapons and her martial prowess. To take her down you'd need to prepare a specific counter before hand, (or be lucky enough to have something on hand, which is possible with access to Uther's vault)
-> * Master seemed to be trying to avoid harming Joon's companions since he potentially valued Joon's cooperation, further complicating any attempt to take down Val.
-> * What ever Master potentially had set up which could have dealt with Val, would also have to also be ineffective at preventing the deaf and blind party from escaping.
-> This leaves two possibilities, Val left voluntarily (possibly to chase Master), or she didn't leave the room until Solace opened the portal (I don't think she's invisible next to Joon since that seems like it would prevent Joon from getting the achievement).
 > 
+> * Val is an out of context problem between her immunity to most magic/poison/conventional weapons and her martial prowess. To take her down you'd need to prepare a specific counter before hand, (or be lucky enough to have something on hand, which is possible with access to Uther's vault)
+> 
+> * Master seemed to be trying to avoid harming Joon's companions since he potentially valued Joon's cooperation, further complicating any attempt to take down Val.
+> 
+> * What ever Master potentially had set up which could have dealt with Val, would also have to also be ineffective at preventing the deaf and blind party from escaping.
+> 
+> This leaves two possibilities, Val left voluntarily (possibly to chase Master), or she didn't leave the room until Solace opened the portal (I don't think she's invisible next to Joon since that seems like it would prevent Joon from getting the achievement).
 
->> **u/icesharkk** [+6] *
+>> **u/icesharkk** [+4]  (20 hours later)
 >> 
 >> Good final point. The HUD doesn't lie which means Val is either gone or needs to be rescued
->> 
 
-> **u/nytelios** [+14] *
+> **u/nytelios** [+14]  (7 hours later)
 > 
 > Did someone say they miss the paranoia from the Fallatehr arc?
-> I'd bet a gram of gold that that achievement was a bit of sly DM trickery and Joon isn't really *alone* except in the narrative sense since only he can break the illusion. I'm working off the suspicion that Masters figured out Joon's soul sight (or simply applied the illusion on every level he knows) because it seemed unlikely that Solace suddenly pulled portal-making out of her rump when she previously mentioned a tree and Masters questioned it.
-> If true, this suggests illusionism and social fu (ability to imitate voices convincingly) is a frightening combo. Depending on how fast Masters can process different people talking in real-time and falsify a version more fitting for his purposes, you'd be completely unable to follow the true conversation, especially if he's letting in-character "real" responses slip through to muddy the waters. Going over the conversation (if my theory's true), there's quite a few lines near the end that could've been fudged before everyone got the illusion of Solace making a portal and Joon "saw" his party jumping through. Masters might be powerful enough to create an entire scene in his exclusion zone (which now that I think about it, might be why he had no choice but to do Uther's bidding after 20 years).
-> > Speculation and Scrutiny was, in many respects, the junk drawer of the athenaeum system. They were the ‘hey, that’s weird …’ athenaeum, the place that studied all those little bits and bobs that people wanted to fully understand. 
-> Why does it feel there's a lot of Uniquities solicitation for Spec grads?
 > 
+> I'd bet a gram of gold that that achievement was a bit of sly DM trickery and Joon isn't really *alone* except in the narrative sense since only he can break the illusion. I'm working off the suspicion that Masters figured out Joon's soul sight (or simply applied the illusion on every level he knows) because it seemed unlikely that Solace suddenly pulled portal-making out of her rump when she previously mentioned a tree and Masters questioned it.
+> 
+> If true, this suggests illusionism and social fu (ability to imitate voices convincingly) is a frightening combo. Depending on how fast Masters can process different people talking in real-time and falsify a version more fitting for his purposes, you'd be completely unable to follow the true conversation, especially if he's letting in-character "real" responses slip through to muddy the waters. Going over the conversation (if my theory's true), there's quite a few lines near the end that could've been fudged before everyone got the illusion of Solace making a portal and Joon "saw" his party jumping through. Masters might be powerful enough to create an entire scene in his exclusion zone (which now that I think about it, might be why he had no choice but to do Uther's bidding after 20 years).
+> 
+> > Speculation and Scrutiny was, in many respects, the junk drawer of the athenaeum system. They were the ‘hey, that’s weird …’ athenaeum, the place that studied all those little bits and bobs that people wanted to fully understand. 
+> 
+> Why does it feel there's a lot of Uniquities solicitation for Spec grads?
 
->> **u/zonules_of_zinn** [+3] *
+>> **u/zonules_of_zinn** [+3]  (a day later)
 >> 
 >> how would masters know what colors to make people's souls?
->> why would masters give solace a portal power, something outside of tree magic (which he suspected) but firmly within the realm of druid magic (which he probably would not expect)?
->> i'm pretty sure druid magic rises to the occasion.
 >> 
+>> why would masters give solace a portal power, something outside of tree magic (which he suspected) but firmly within the realm of druid magic (which he probably would not expect)?
+>> 
+>> i'm pretty sure druid magic rises to the occasion.
 
->>> **u/nytelios** [+3] *
+>>> **u/nytelios** [+3]  (a day later)
 >>> 
 >>> Great point about soul color. It's remotely possible illusion magic's sensorium lets him reproduce the color once he focuses on the soul aspect, since Joon seems to think only his HUD is truly safe from the illusion.
->>> I could be wrong about the discrepancy. She mentions a tree 200 yards away, but the portal opens somewhere with drawers and books.
 >>> 
+>>> I could be wrong about the discrepancy. She mentions a tree 200 yards away, but the portal opens somewhere with drawers and books.
 
->>>> **u/zonules_of_zinn** [+3] *
+>>>> **u/zonules_of_zinn** [+3]  (a day later)
 >>>> 
 >>>> i believe the portal may go to the infinite library!
->>>> i thought the tree was another escape plan, they would physically get to the tree (by running) and use the tree as a portal as solace often does. but when that became unfeasible, druid magic forced a workaround.
 >>>> 
+>>>> i thought the tree was another escape plan, they would physically get to the tree (by running) and use the tree as a portal as solace often does. but when that became unfeasible, druid magic forced a workaround.
 
->>> **u/Izeinwinter** [+1] *
+>>> **u/Izeinwinter** [+1]  (2 days later)
 >>> 
 >>> By being a soul mage. He is very old, never sleeps, and has had a memory palace for most of his life and lives at a major institution of learning while having no actual job other than fooling the occasional visiting scholar with illusions. 
->>> It is entirely possible he knows more schools of magic to a greater depth than Joon does. By learning them all the hard way.
 >>> 
+>>> It is entirely possible he knows more schools of magic to a greater depth than Joon does. By learning them all the hard way.
 
-> **u/AmeteurOpinions** [+12]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+13]  *Finally, everyone was working together.* (2 hours later)
 > 
 > All I could think at the end of the first chapter was **You magnificent bastard!**
-> 
 
-> **u/Escapement** [+12]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+12]  *Ankh-Morpork City Watch* (11 hours later)
 > 
 > Some random thoughts:
-> - Joon didn't mention seeing anyone else's soul in the room with him. First thoughts - a non-anima illusionist? or he's really far away? Or he's fooling soulsight? Or he's actually a sentient entad a la Bethel? Or something else entirely is going on? 
-> - The illusionist claims to be named Masters. Clearly this is a Worm reference, because the illusionist is a Master 12.
-> - We don't know the illusionist's real name, gender, appearance, or anything else, at any level we might consider absolutely certain. They probably doesn't have any assistants or anyone else in the building.  They might be pretending to be trained that monastic discipline in order to make faking facial expressions easier - if they have trouble responding accurately by simulating facial expressions in real-time.
-> - Speaking of that monastic order, they are Worth The Candle's Dûnyain, and nothing they could tell me, with their iron-clad control of their faces, would convince me otherwise.
-> - Val saving the day would be awesome, she needs to save the day more, she hasn't really yet saved the day nearly as much as I'd like.
-> - Joon has a limited amount of soulsight time left. Looking for unidentified souls and seeking methods whereby he can end them might work. Some of his gem-based blasting magic, perhaps? I don't even know.
-> Overall, the plot twist with regard to dream skewered here was great, 10/10. And the illusionist battle looks like it'll be a great mindscrew, so I look forward to that. His opponent controls the vertical and the horizontal, but he still has a few tricks to play.
 > 
+> - Joon didn't mention seeing anyone else's soul in the room with him. First thoughts - a non-anima illusionist? or he's really far away? Or he's fooling soulsight? Or he's actually a sentient entad a la Bethel? Or something else entirely is going on? 
+> 
+> - The illusionist claims to be named Masters. Clearly this is a Worm reference, because the illusionist is a Master 12.
+> 
+> - We don't know the illusionist's real name, gender, appearance, or anything else, at any level we might consider absolutely certain. They probably doesn't have any assistants or anyone else in the building.  They might be pretending to be trained that monastic discipline in order to make faking facial expressions easier - if they have trouble responding accurately by simulating facial expressions in real-time.
+> 
+> - Speaking of that monastic order, they are Worth The Candle's Dûnyain, and nothing they could tell me, with their iron-clad control of their faces, would convince me otherwise.
+> 
+> - Val saving the day would be awesome, she needs to save the day more, she hasn't really yet saved the day nearly as much as I'd like.
+> 
+> - Joon has a limited amount of soulsight time left. Looking for unidentified souls and seeking methods whereby he can end them might work. Some of his gem-based blasting magic, perhaps? I don't even know.
+> 
+> Overall, the plot twist with regard to dream skewered here was great, 10/10. And the illusionist battle looks like it'll be a great mindscrew, so I look forward to that. His opponent controls the vertical and the horizontal, but he still has a few tricks to play.
 
->> **u/PathologicalFire** [+8] *
+>> **u/PathologicalFire** [+9]  (11 hours later)
 >> 
 >> Illusion magic seems more like Master *and* Stranger. He is controlling the illusions, but they don't seem able to do much by themselves, per se. The Stranger aspect is more useful from a tactical standpoint, as it informs people facing him that you should be prepared for deception and 'mind games' and the like, not mind-control or minions. And of course, the PRT rating system was created from an in-universe tactical perspective, not for rating 'accurately.'
->> 
 
->>> **u/serge_cell** [+12] *
+>>> **u/serge_cell** [+12]  (12 hours later)
 >>> 
 >>> Illusionist is primarily a Shaker. Powers classification is based on effects and tactics, not on the internal mechanics of power.
->>> 
 
->> **u/HPMOR_fan** [+6] *
+>> **u/HPMOR_fan** [+7]  (14 hours later)
 >> 
 >> I think Master figured out Joon was using soul sight, because he couldn't see Val and the Master correctly identified what Val was. One way out is if Joon can gain access to illusion magic he might be able to level up fast enough to start seeing through the illusions.
->> But this might be a challenge Joon is not meant to defeat. It happens in DMing. Joon got this quest at L2 when he would have had zero chance.
 >> 
+>> But this might be a challenge Joon is not meant to defeat. It happens in DMing. Joon got this quest at L2 when he would have had zero chance.
 
->>> **u/kaukamieli** [+5] *
+>>> **u/kaukamieli** [+4]  (15 hours later)
 >>> 
 >>> Masters might love to see Joon learn the magic, though. He was asking if Joon had the Knack.
->>> 
 
->>> **u/zonules_of_zinn** [+1] *
+>>> **u/zonules_of_zinn** [+1]  (a day later)
 >>> 
 >>> would knowing joon was using soul sight actually help to fool it? how would he know what colors to use to represent the souls?
->>> 
 
->> **u/CouteauBleu** [+2]  *We are the Empire.**
+>> **u/CouteauBleu** [+2]  *We are the Empire.* (18 hours later)
 >> 
 >> I thought "Masters" was a Glimwarden reference.
->> 
 
->> **u/WalterTFD** [+1] *
+>> **u/WalterTFD** [+1]  (4 days later)
 >> 
 >> If Masters were Dunyain, Joon would already be done for, but that conversation also would've looked very different.
->> 
 
-> **u/ColourfulFluidDynamo** [+12] *
+> **u/ColourfulFluidDynamo** [+13]  (12 hours later)
 > 
 > Hey long time listener first time caller, quick question, has there been any discussion in the past about how weird it is that the world contains elements that Joon invented after Arthur's death, like Fel Seed? My assumption was always that the world was built at some point from Joon's work, and then Arthur was brought in at some point and then later Joon was brought in, and the DM guides them around. But Fel Seed indicates that there are major elements that were still being added to the world in between Arthur's and Joon's transits, assuming Arthur entered before his death.
-> Anyway, w/r/t this chapter, I'm super happy to see someone dealing with illusion magic in DnD as the game-breaking power that it is, and tying it strictly to the I/O channels for the brain. It reminds of imachination, and I was always really happy with how that turned out. Great chapter, great story.
 > 
+> Anyway, w/r/t this chapter, I'm super happy to see someone dealing with illusion magic in DnD as the game-breaking power that it is, and tying it strictly to the I/O channels for the brain. It reminds of imachination, and I was always really happy with how that turned out. Great chapter, great story.
 
->> **u/kaukamieli** [+12] *
+>> **u/kaukamieli** [+13]  (15 hours later)
 >> 
 >> There is no reason why DM couldn't have had both Arthur and Joon captive and just released Arthur first. No reason why they had to go to Aerb in real-time.
->> 
 
->>> **u/PresentCompanyExcl** [+2]  *The Culture**
+>>> **u/PresentCompanyExcl** [+2]  *The Culture* (a day later)
 >>> 
 >>> I guess it argues that the DM may be someone from the post-Arthur group (Including another version of Joon). I don't think Joon wrote down enough that a random person could replicate some of their plays.
->>> Of course with a mind reader who controls space and time it might just be "the last and first mind" simulating Joon at the end of the universe. Who knows.
 >>> 
+>>> Of course with a mind reader who controls space and time it might just be "the last and first mind" simulating Joon at the end of the universe. Who knows.
 
->>>> **u/kaukamieli** [+1] *
+>>>> **u/kaukamieli** [+1]  (a day later)
 >>>> 
 >>>> If he can capture Joon from Earth, he should be pretty powerful in that universe too and knows by omniscience or something. Unless getting him was just luck as there were possible failures with the other skewered people, but I don't buy that.
->>>> 
 
->> **u/DRMacIver** [+6] *
+>> **u/DRMacIver** [+6]  (23 hours later)
 >> 
 >> I'm not sure if the timeline actually works for this (I don't think the story so far contradicts it, but I haven't carefully fact-checked) but I'm currently wondering if a lot of the events that happened after Arthur's death in the real world happened on Aerb during the period where Arthur was active. It requires shenanigans with the passage of time, but we already know that those happened given the much longer time gap on Aerb than on Earth.
->> If so, a lot of the nonstop shit that Arthur had to deal with was drawn from Joon's campaigns during his self-destructive period, and Joon is (unintentionally) responsible for a lot of Arthur's decline.
 >> 
+>> If so, a lot of the nonstop shit that Arthur had to deal with was drawn from Joon's campaigns during his self-destructive period, and Joon is (unintentionally) responsible for a lot of Arthur's decline.
 
->> **u/PathologicalFire** [+5] *
+>> **u/PathologicalFire** [+4]  (a day later)
 >> 
 >> Fel Seed could well have happened after the Lost King got, y'know, Lost.
->> 
 
->> **u/zonules_of_zinn** [+4] *
+>> **u/zonules_of_zinn** [+5]  (a day later)
 >> 
 >> joon might be the DM since those notes are on his legal pad in his handwriting. meaning this all takes place in the future and he's playing with his younger self.
->> this world is probably a simulation, meaning joon and arthur could just be simulated recreations of their earth minds and bodies. any reason to think this isn't happening thousands or billions of years post arthur's death?
->> i guess...it just seems so unlikely for them to have been transported rather than copied. it already seems like the DM has the power to create people and modify their memories, goals, etc.
 >> 
+>> this world is probably a simulation, meaning joon and arthur could just be simulated recreations of their earth minds and bodies. any reason to think this isn't happening thousands or billions of years post arthur's death?
+>> 
+>> i guess...it just seems so unlikely for them to have been transported rather than copied. it already seems like the DM has the power to create people and modify their memories, goals, etc.
 
->>> **u/Wolpertinger** [+5] *
+>>> **u/Wolpertinger** [+4]  (a day later)
 >>> 
 >>> Remember, he wasn't even bodily transported or created - his old body had an identity that was just murdered by the DM and overwritten with Joon. Him being just a brainscan of Joon is pretty easily plausible - even if he was 'transported' it's probably still a copy kinda in the same sense as a Star Trek transporter actually making copies and just killing the original. To put someone's mind into another person you'd have to copy the first person's brain and place it on the second's. Then whether or not it's being 'teleported' or just 'copied' is if you decide to kill/delete the original copy afterwards.
->>> 
 
->> **u/WalterTFD** [+2] *
+>> **u/WalterTFD** [+2]  (3 days later)
 >> 
 >> I think the DM is also God.  That is, Earth is no 'more' real than Aerb.  He runs both of them, and can time travel and reality alter at will.
->> 
 
-> **u/PathologicalFire** [+7] *
+> **u/PathologicalFire** [+8]  (11 hours later)
 > 
 > If 'Masters' is an illusion, making it an illusion of a creature that doesn't have much facial movement/strong reactions is quite clever, as it means you can neglect the finer points of that part of the illusion without raising suspicion. 
-> Going another level of recursion down, you also have to not neglect it completely, so they'll not be suspicious at the fact you're improbably-perfect at controlling your reactions. I imagine the inexpertly-trained outnumber the experts, as with...well, most things.
 > 
+> Going another level of recursion down, you also have to not neglect it completely, so they'll not be suspicious at the fact you're improbably-perfect at controlling your reactions. I imagine the inexpertly-trained outnumber the experts, as with...well, most things.
 
-> **u/SpeculativeFiction** [+7] *
+> **u/SpeculativeFiction** [+7]  (3 hours later)
 > 
 > >The Athenaeum of Speculation and Scrutiny was one of the smaller athenaeums, which meant that it ‘only’ had a hundred thousand students, divided up into a handful of colleges. It was a hell of a lot of people even before you added in all the faculty and staff, all of them packed onto the tip of the mountain. 
-> Do you think the colleges are all on the mountain, or spread out in different countries? If it's the first, that's a lot of power to give the kingdom that hosts each Athenaum, and would make it harder for farther flung nations to send people for training.
-> The latter would make more sense, but would make each individual Athenaeum less impressive from a narrative standpoint.
-> On another note, Joon staying behind alone to save Valencia is likely to skyrocket her loyalty even further, especially with how easily it rises for her. I'm guessing we'll see an example of loyalty level 30 soon.
 > 
+> Do you think the colleges are all on the mountain, or spread out in different countries? If it's the first, that's a lot of power to give the kingdom that hosts each Athenaum, and would make it harder for farther flung nations to send people for training.
+> 
+> The latter would make more sense, but would make each individual Athenaeum less impressive from a narrative standpoint.
+> 
+> On another note, Joon staying behind alone to save Valencia is likely to skyrocket her loyalty even further, especially with how easily it rises for her. I'm guessing we'll see an example of loyalty level 30 soon.
 
->> **u/cthulhuraejepsen** [+12]  *Fruit flies like a banana**
+>> **u/cthulhuraejepsen** [+13]  *Fruit flies like a banana* (4 hours later)
 >> 
 >> > If it's the first, that's a lot of power to give the kingdom that hosts each Athenaum, and would make it harder for farther flung nations to send people for training.
->> This is alluded to in ch 37:
->> > This was then backed up by the athenaeums wielding their power against the various polities of the empire when they tried to defect from ‘sensible’ intellectual property laws and/or certification schemes. Most of the athenaeums had scholarships and departments devoted to placement of their students, which meant that there was a carrot labeled ‘we’ll pay your young people to come here’ and a stick labeled ‘we won’t send you graduated mages’, but with a lather of diplomacy on top of that basic reality. On top of that, most of the athenaeums were filthy rich and nearly nations in their own right, which meant that they could (and did) use all of the standard tactics that corporations used on Earth, like pumping money into politics, having people write editorials complaining about a politician or policy, filing lawsuits, or doing other things like that.
->> Essentially, travel (and in some cases, tuition) is often paid for by the athenaeums as a way of leveling the playing field and giving greater justification for why they should remain the primary places of learning for their particular field.
->> The relationship between an athenaeum and a kingdom is often more like that of a giant factory and a small town; the factory is good for the town, but it's also got much more muscle than the town does, and their relationship can sometimes be a little on the abusive side ... if it's not just a case of the athenaeum being the one in direct control of the kingdom.
 >> 
+>> This is alluded to in ch 37:
+>> 
+>> > This was then backed up by the athenaeums wielding their power against the various polities of the empire when they tried to defect from ‘sensible’ intellectual property laws and/or certification schemes. Most of the athenaeums had scholarships and departments devoted to placement of their students, which meant that there was a carrot labeled ‘we’ll pay your young people to come here’ and a stick labeled ‘we won’t send you graduated mages’, but with a lather of diplomacy on top of that basic reality. On top of that, most of the athenaeums were filthy rich and nearly nations in their own right, which meant that they could (and did) use all of the standard tactics that corporations used on Earth, like pumping money into politics, having people write editorials complaining about a politician or policy, filing lawsuits, or doing other things like that.
+>> 
+>> Essentially, travel (and in some cases, tuition) is often paid for by the athenaeums as a way of leveling the playing field and giving greater justification for why they should remain the primary places of learning for their particular field.
+>> 
+>> The relationship between an athenaeum and a kingdom is often more like that of a giant factory and a small town; the factory is good for the town, but it's also got much more muscle than the town does, and their relationship can sometimes be a little on the abusive side ... if it's not just a case of the athenaeum being the one in direct control of the kingdom.
 
-> **u/HPMOR_fan** [+7] *
+> **u/HPMOR_fan** [+7]  (a day later)
 > 
 > I really, really liked these chapters. A couple of thoughts.
-> We now have an in-story candle. Is it "worth the candle" for Uther to return?
-> "a candle he said would light his way back to me"    "The candle has continued to burn, to no effect."   "There’s a decent chance that I’m still alive. If I am, I imagine that I’ll find you soon enough."
-> Is Uther coming back now? Is he the 11/10 that Fenn felt but Joon didn't?
 > 
+> We now have an in-story candle. Is it "worth the candle" for Uther to return?
+> 
+> "a candle he said would light his way back to me"    "The candle has continued to burn, to no effect."   "There’s a decent chance that I’m still alive. If I am, I imagine that I’ll find you soon enough."
+> 
+> Is Uther coming back now? Is he the 11/10 that Fenn felt but Joon didn't?
 
-> **u/erwgv3g34** [+6] *
+> **u/erwgv3g34** [+8]  (a day later)
 > 
 > >“Well, movie night is going to be on hold, apparently,” said Fenn. “I should still be able to watch anime though, right?”
 > >
@@ -1170,436 +1132,408 @@
 > >Fenn frowned at me. “Mary doesn’t have subtitles working.”
 > >
 > >“Do you have any idea -- no, I know that you don’t,” said Amaryllis. “But if we’re talking about EIA-608 encoding, which is the simplest form of closed captioning I could probably do, it’s not something that I’m ever going to have the time or manpower to work on, especially since I’m going to gather a standards council together in order to make our own, Aerb-specific standards.”
-> _Hello?_ Hardsubs! Specially since they are talking about anime on VHS here; there was an entire VHS fansubbing scene back in the 90s, and it was all done in hardsubs because that was the only way to do it.
 > 
+> _Hello?_ Hardsubs! Specially since they are talking about anime on VHS here; there was an entire VHS fansubbing scene back in the 90s, and it was all done in hardsubs because that was the only way to do it.
 
-> **u/MilesSand** [+7] *
+> **u/MilesSand** [+6]  (12 hours later)
 > 
 > Ao3 doesn't seem to have rss, so I made a link based on these reddit threads. Thought I'd share in case someone else has a use for it too.
-> https://www.reddit.com/r/rational/search.rss?q=author%3Acthulhuraejepsen+%5BRT%5D+Worth+the+Candle&sort=new&restrict_sr=on
 > 
+> https://www.reddit.com/r/rational/search.rss?q=author%3Acthulhuraejepsen+%5BRT%5D+Worth+the+Candle&sort=new&restrict_sr=on
 
->> **u/havoc_mayhem** [+1] *
+>> **u/havoc_mayhem** [+1]  (14 hours later)
 >> 
 >> This is brilliant. Any chance you could also do one for Mother of Learning?
->> 
 
->>> **u/MilesSand** [+1] *
+>>> **u/MilesSand** [+1]  (23 hours later)
 >>> 
 >>> https://www.reddit.com/r/rational/search.rss?q=author%3AXtraordinaire+%5BRT%5D+%5BHF%5D+Mother+of+Learning&sort=new&restrict_sr=on&t=all
->>> Haven't tested this but it should work
 >>> 
+>>> Haven't tested this but it should work
 
->>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (a day later)
 >>>> 
 >>>> Not all *Mother of Learning* updates are posted by u/Xtraordinaire, only about 80%. Is it necessary to specify the author? If you want to cut off (very rare) discussion threads, adding "Chapter" would be a better to do it. But there are occasional worldbuilding updates by the author, so I'm not sure it's even necessary.
->>>> u/havoc_mayhem, perhaps you would like this version more:
->>>> https://www.reddit.com/r/rational/search.rss?q=%5BRT%5D+%5BHF%5D+Mother+of+Learning&sort=new&restrict_sr=on
->>>> ___
->>>> Alternatively, u/Xtraordinaire should step up and finally decisively outcompete all other MoL-posters. The last I remember, there was some kind of bot warfare? Perhaps it would be sensible to escalate further.
 >>>> 
+>>>> u/havoc_mayhem, perhaps you would like this version more:
+>>>> 
+>>>> https://www.reddit.com/r/rational/search.rss?q=%5BRT%5D+%5BHF%5D+Mother+of+Learning&sort=new&restrict_sr=on
+>>>> 
+>>>> ___
+>>>> 
+>>>> Alternatively, u/Xtraordinaire should step up and finally decisively outcompete all other MoL-posters. The last I remember, there was some kind of bot warfare? Perhaps it would be sensible to escalate further.
 
->>>>> **u/MilesSand** [+2] *
+>>>>> **u/MilesSand** [+2]  (a day later)
 >>>>> 
 >>>>> Ah, I did not know that. MoL is not one I've been following. 
->>>>>  My main reason for including the author is the potential edge case where someone in the future decides to post a story with a similar name. It may be unnecessary for MoL, since the name is fairly unique. Using the site or url options may be a way to exclude unrelated content as well.
 >>>>> 
+>>>>>  My main reason for including the author is the potential edge case where someone in the future decides to post a story with a similar name. It may be unnecessary for MoL, since the name is fairly unique. Using the site or url options may be a way to exclude unrelated content as well.
 
->>>>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam* (a day later)
 >>>>> 
 >>>>> Mildly amusing, but there was one time someone posted on reddit *before* the chapter actually went up, because of a Patreon notification. Can't compete with that. ¯\\\_(ツ)_/¯
->>>>> 
 
->>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (2 days later)
 >>>>>> 
 >>>>>> Oh, but you *can*. Just focus on the social, not the technical.
->>>>>> Where do chapters originate from? From the author. It stands to reason that the author would have the most accurate information on exact update time. And he could be bargained with! Just offer u/nobody103 something he wants, in exchange for advance warning regarding new chapters.
->>>>>> To outplay people trying to post pre-emptively, you could try to agree to randomize posting time somewhat, and notify r/rational's moderators about links pointing nowhere should they appear in the meantime. But this doesn't happen too often, so perhaps it's unnecessary.
 >>>>>> 
+>>>>>> Where do chapters originate from? From the author. It stands to reason that the author would have the most accurate information on exact update time. And he could be bargained with! Just offer u/nobody103 something he wants, in exchange for advance warning regarding new chapters.
+>>>>>> 
+>>>>>> To outplay people trying to post pre-emptively, you could try to agree to randomize posting time somewhat, and notify r/rational's moderators about links pointing nowhere should they appear in the meantime. But this doesn't happen too often, so perhaps it's unnecessary.
 
->>> **u/palmtree3000** [+1] *
+>>> **u/palmtree3000** [+1]  (a day later)
 >>> 
 >>> From my rss feed:
 >>> https://www.reddit.com/r/rational/search.xml?q=url%3Awww.fictionpress.com%2Fs%2F2961893&sort=new&restrict_sr=on&t=all
->>> 
 
-> **u/cthulhuraejepsen** [+4]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+5]  *Fruit flies like a banana* (8 seconds later)
 > 
 > Typos here, please.
-> 
 
->> **u/munkeegutz** [+3] *
+>> **u/munkeegutz** [+3]  (2 hours later)
 >> 
 >> Please see edits at 
->> https://docs.google.com/document/d/1W2Y1dLMemnnxHmZsJ06jqzL6l944cShNaAivnpeUUZY/edit?usp=drivesdk
->> https://docs.google.com/document/d/1FJvRo-ZXVLxbcT9mcvA0ewiI9kyrDSG5VDoZ2FB2kHI/edit?usp=drivesdk
 >> 
+>> https://docs.google.com/document/d/1W2Y1dLMemnnxHmZsJ06jqzL6l944cShNaAivnpeUUZY/edit?usp=drivesdk
+>> 
+>> https://docs.google.com/document/d/1FJvRo-ZXVLxbcT9mcvA0ewiI9kyrDSG5VDoZ2FB2kHI/edit?usp=drivesdk
 
->>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (4 hours later)
 >>> 
 >>> Fixed all those, thanks!
->>> 
 
->>>> **u/munkeegutz** [+2] *
+>>>> **u/munkeegutz** [+2]  (5 hours later)
 >>>> 
 >>>> Anytime!  I'll be commenting on the patreon thread each release (if I can) so you can get a batch of fixes out before it hits the general public. No pressure - some are obviously just style edits.  
->>>> If you do patreon releases the old way but with "people with the link can suggest", I'll do it on the original document (if that helps)
 >>>> 
+>>>> If you do patreon releases the old way but with "people with the link can suggest", I'll do it on the original document (if that helps)
 
->> **u/IamJackFox** [+2] *
+>> **u/IamJackFox** [+2]  (4 hours later)
 >> 
 >> Chapter 109.
->> "Solace slammed her staff down onto the ground and it flattened itself out into a smear of wooden, which shimmered for a moment.."
->> A smear of wood, maybe? Smear of wooden doesn't make sense as-is.
 >> 
+>> "Solace slammed her staff down onto the ground and it flattened itself out into a smear of wooden, which shimmered for a moment.."
+>> 
+>> A smear of wood, maybe? Smear of wooden doesn't make sense as-is.
 
->>> **u/Inked_Cellist** [+2] *
+>>> **u/Inked_Cellist** [+2]  (a month later)
 >>> 
 >>> Fixed!
->>> 
 
->> **u/cactus_head** [+2] *
+>> **u/cactus_head** [+2]  (9 hours later)
 >> 
 >> Not for these chapters, but in early chapters, sometimes you say 'Fuchsia' and other times you say 'Fuschia'. The former is the correct spelling.
->> As a bit of trivia, the colour is named after the fuchsia plant, which according to Wikipedia took its name from the 16th century German botanist Leonhart Fuchs. So it might have to be a coincidence that the same colour has the same name on Aerb.
 >> 
+>> As a bit of trivia, the colour is named after the fuchsia plant, which according to Wikipedia took its name from the 16th century German botanist Leonhart Fuchs. So it might have to be a coincidence that the same colour has the same name on Aerb.
 
->> **u/mojojo46** [+2] *
+>> **u/mojojo46** [+2]  (14 hours later)
 >> 
 >> > Something felt off. Maybe it was the understanding that this man was, by his own admission, a master illusionist at the top of his game, or maybe it was that the message from Uther had contained too much, too fast. 
->> This appears to be before it is revealed that Masters is an illusionist.
 >> 
+>> This appears to be before it is revealed that Masters is an illusionist.
 
->> **u/KarlitoHomes** [+1] *
+>> **u/KarlitoHomes** [+1]  (an hour later)
 >> 
 >> ch 109
 >> >“I … I don’t know,” she said. “He’s soaked in weariness
+>> 
 >> perhaps you meant "wariness"
+>> 
 >> edit with a definite one:
 >> >as I kept reached forward to Amaryllis.
 >> reaching
->> 
 
->>> **u/major_fox_pass** [+7] *
+>>> **u/major_fox_pass** [+8]  (an hour later)
 >>> 
 >>> Weariness makes sense to me. He's been doing this gig for what, 500 years? I'd be tired too.
->>> 
 
->>>> **u/KarlitoHomes** [+2] *
+>>>> **u/KarlitoHomes** [+2]  (an hour later)
 >>>> 
 >>>> yeah, I just noticed it's used later on the chapter, so probably not actually mistake.
->>>> 
 
->>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+2]  *Fruit flies like a banana* (4 hours later)
 >>> 
 >>> Fixed the second, thanks. And yeah, the first, 'weariness' is intended.
->>> 
 
->> **u/adeeda** [+1] *
+>> **u/adeeda** [+1]  (2 hours later)
 >> 
 >> ch 109
->> "Solace closed her eyes. The glowed golden beneath her green eyelids, just for a moment."
->> The -> They?
 >> 
+>> "Solace closed her eyes. The glowed golden beneath her green eyelids, just for a moment."
+>> 
+>> The -> They?
 
->>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (4 hours later)
 >>> 
 >>> Fixed, thanks.
->>> 
 
->> **u/Rorschach_Roadkill** [+1] *
+>> **u/Rorschach_Roadkill** [+1]  (3 hours later)
 >> 
 >> > Boomboxes as the basis for a magic system had a sort of Juniper-like ring to it, but still didn’t seem to it.
->> Seem to fit?
 >> 
+>> Seem to fit?
 
->>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (4 hours later)
 >>> 
 >>> Fixed, thank you.
->>> 
 
->> **u/Law_Student** [+1] *
+>> **u/Law_Student** [+1]  (7 hours later)
 >> 
 >> Thank you for another two amazing chapters!
->> 
 
->> **u/JulianWyvern** [+1]  *Wayward Wanderer**
+>> **u/JulianWyvern** [+1]  *Wayward Wanderer* (7 hours later)
 >> 
 >> Not a typo. Ch.109. Saw some references to a Square Table which I'm guessing is actually Round...
->> 
 
->>> **u/sicutumbo** [+2] *
+>>> **u/sicutumbo** [+2]  (8 hours later)
 >>> 
 >>> No, it's been previously mentioned that Uther had his Knights of the Square Table.
->>> 
 
->>>> **u/JulianWyvern** [+1]  *Wayward Wanderer**
+>>>> **u/JulianWyvern** [+1]  *Wayward Wanderer* (a day later)
 >>>> 
 >>>> I guess a perfectly square and a round table are thematically the same thing, and the real problem would lie in rectangular ones...
->>>> 
 
->> **u/nytelios** [+1] *
+>> **u/nytelios** [+1]  (8 hours later)
 >> 
 >> 108
->> > “It’s not tempting fate, it’s learning,” said Fenn. “It can’t possibly hurt anything to know ~~that~~ what the Cannibal was in,” she pointed to me. “Joon?”
->> what seemed to make more sense
 >> 
+>> > “It’s not tempting fate, it’s learning,” said Fenn. “It can’t possibly hurt anything to know ~~that~~ what the Cannibal was in,” she pointed to me. “Joon?”
+>> 
+>> what seemed to make more sense
 
->>> **u/Inked_Cellist** [+1] *
+>>> **u/Inked_Cellist** [+1]  (a month later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/Kerbal_NASA** [+1] *
+>> **u/Kerbal_NASA** [+1]  (11 hours later)
 >> 
 >> ch. 108
->> >He was an older man, gray the temples, with crow’s feet and wrinkles
->> gray the -> gray at the
-
->> ch. 109
->> >I was left wondering what whether Masters could affect her at all
->> wondering what whether -> wondering whether
 >> 
+>> >He was an older man, gray the temples, with crow’s feet and wrinkles
+>> 
+>> gray the -> gray at the
+>> 
+>> ch. 109
+>> 
+>> >I was left wondering what whether Masters could affect her at all
+>> 
+>> wondering what whether -> wondering whether
 
->>> **u/Inked_Cellist** [+1] *
+>>> **u/Inked_Cellist** [+1]  (a month later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/nytelios** [+1] *
+>> **u/nytelios** [+1]  (a day later)
 >> 
 >> Solace slammed her staff down onto the ground and it flattened itself out into a smear of ~~wooden~~ wood?
->> 
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (10 days later)
 >> 
 >> Chapter 109
->> where Uther once tread/where Uther once trod
->> I reach forward/I reached forward
 >> 
+>> where Uther once tread/where Uther once trod
+>> 
+>> I reach forward/I reached forward
 
->>> **u/Inked_Cellist** [+1] *
+>>> **u/Inked_Cellist** [+1]  (a month later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
-> **u/icesharkk** [+5] *
+> **u/icesharkk** [+4]  (a day later)
 > 
 > >“Eleven,” said Fenn. “Not sure that portal is going to do it.” She looked at the portal for a fraction of a second, then darted over and placed her gloved hand on the mirror.
-> >...
-> >“I have her,” said Masters. “If you leave --”
-> I think the mirror might have been how he was projecting his illusion into the room. Which means the theories that he man in the middled them and set a situation where joon would choose to heroically stay behind are wrong. There is a huge threat coming, its an 11, everyone is gone, joon is alone in the room, this is your final exam.
 > 
+> >...
+> 
+> >“I have her,” said Masters. “If you leave --”
+> 
+> I think the mirror might have been how he was projecting his illusion into the room. Which means the theories that he man in the middled them and set a situation where joon would choose to heroically stay behind are wrong. There is a huge threat coming, its an 11, everyone is gone, joon is alone in the room, this is your final exam.
 
->> **u/CouteauBleu** [+1]  *We are the Empire.**
+>> **u/CouteauBleu** [+1]  *We are the Empire.* (2 days later)
 >> 
 >> ... uh, I didn't notice that particular bit of timing. Neat.
->> 
 
-> **u/derefr** [+10] *
+> **u/derefr** [+9]  (3 hours later)
 > 
 > Ah, the Mirror of ~~Erised~~ Tsukuyomi!
-> 
 
->> **u/CopperZirconium** [+10] *
+>> **u/CopperZirconium** [+9]  (9 hours later)
 >> 
 >> IT'S ALWAYS THE MIRROR! EVERYTHING IS IN THE MIRROR! IT'S MIRRORS ALL THE WAY DOWN!
->> (I swear, the Final Exam (and the ensuing three-day subreddit insanity) broke something in me. I get suspicious whenever a mirror appears in any fiction now. )
 >> 
+>> (I swear, the Final Exam (and the ensuing three-day subreddit insanity) broke something in me. I get suspicious whenever a mirror appears in any fiction now. )
 
->>> **u/abcd_z** [+6] *
+>>> **u/abcd_z** [+6]  (12 hours later)
 >>> 
 >>> So, speaking of the Final Exam:  
->>> * [If HPMoR Ch. 104 had been written by someone much stupider](https://www.reddit.com/r/HPMOR/comments/30rpqn/if_chapter_104_had_been_written_by_someone_much)
->>> * [Harry Potter and the Methods of Super-Rationality](https://www.reddit.com/r/HPMOR/comments/2xqtzu/harry_potter_and_the_methods_of_superrationality/?st=jj5b4h9l&sh=4c786d80)
 >>> 
+>>> * [If HPMoR Ch. 104 had been written by someone much stupider](https://www.reddit.com/r/HPMOR/comments/30rpqn/if_chapter_104_had_been_written_by_someone_much)
+>>> 
+>>> * [Harry Potter and the Methods of Super-Rationality](https://www.reddit.com/r/HPMOR/comments/2xqtzu/harry_potter_and_the_methods_of_superrationality/?st=jj5b4h9l&sh=4c786d80)
 
->>>> **u/rrssh** [+2] *
+>>>> **u/rrssh** [+2]  (13 hours later)
 >>>> 
 >>>> I’ve been looking for the second link for quite some time, thanks.
->>>> 
 
->>> **u/daydev** [+4] *
+>>> **u/daydev** [+5]  (14 hours later)
 >>> 
 >>> At first when they mentioned an excluded mirror dimension in passing I thought "hey, is that a shout out to the HPMOR mirror hysteria?", and then suddenly a wild Mirror of Plot appears!
->>> 
 
->>>> **u/CopperZirconium** [+1] *
+>>>> **u/CopperZirconium** [+1]  (23 hours later)
 >>>> 
 >>>> Fenn might have taken the mirror (everything that happened in that room might or might not have been real). So depending on what it does we might or might not have more mirror-caused hysteria.
->>>> 
 
->> **u/matematikaadit** [+1] *
+>> **u/matematikaadit** [+1]  (a day later)
 >> 
 >> I'll be surprised (or delighted?) if the entad that gives illusion magic actually in the form of a mirror.
->> 
 
-> **u/shdnx** [+3] *
+> **u/shdnx** [+3]  (3 hours later)
 > 
 > Chapter 109 was fantastic, and brought back my fascination with this story. Thank you!
-> 
 
-> **u/Gr_Cheese** [+3] *
+> **u/Gr_Cheese** [+3]  (a day later)
 > 
 > I'm a little sad we didn't get to see and probably will never see ACTUAL CANNIBAL SHIA LEBEOUF in Aerb. I mean, when Masters started listing off actors, I did not know why but I thought it might be back on! Then, nope, 180^^o to a similarly satisfying plot-related turn of events.
-> I'd love to see some in-universe horror-comedy mix, and I have a feeling our beloved author would pull it off well. 
-> Maybe the cannibal could make an appearance in an April Fools chapter or something of the sort?
 > 
+> I'd love to see some in-universe horror-comedy mix, and I have a feeling our beloved author would pull it off well. 
+> 
+> Maybe the cannibal could make an appearance in an April Fools chapter or something of the sort?
 
->> **u/Wolpertinger** [+4] *
+>> **u/Wolpertinger** [+5]  (2 days later)
 >> 
 >> With that much foreshadowing I almost feel like it's guaranteed to come up again, possibly as some sort of last second trump card - on the side of Joon, if he has figured out a way to negate him afterwards, or on the side of someone else, who has lost and wants a final 'fuck you'.
->> 
 
-> **u/Omnibuser** [+4] *
+> **u/Omnibuser** [+4]  (11 minutes later)
 > 
 > It's only been 11 days since the last update. You're spoiling us!
-> 
 
->> **u/MadMax0526** [+13] *
+>> **u/MadMax0526** [+13]  (49 minutes later)
 >> 
 >> Quit complaining!
->> 
 
-> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (2 hours later)
 > 
 > Would the chapter title Veil happen to refer to the Veil of Maya?
-> 
 
-> **u/Croktopus** [+2] *
+> **u/Croktopus** [+2]  (a day later)
 > 
 > its breaking my heart, arthur is the villain...
-> i mean of course hes the villain, but...still. i wanted them to be best bros, or for uther to be party member #7, but...no...he thinks aerb is fake and thus worthless (ignoring the compatibility of the virtual and the real) and either is going to be an antagonist on aerb, or made a deal with the dm (who im like 90% sure is straight up alexander wales) to switch places with juniper.
-> and i mean arthur's had centuries to think about all this stuff so itll be all too easy to convince joon, and itll be all to easy for him to be so set in his thinking that joon could never ever convince him
 > 
+> i mean of course hes the villain, but...still. i wanted them to be best bros, or for uther to be party member #7, but...no...he thinks aerb is fake and thus worthless (ignoring the compatibility of the virtual and the real) and either is going to be an antagonist on aerb, or made a deal with the dm (who im like 90% sure is straight up alexander wales) to switch places with juniper.
+> 
+> and i mean arthur's had centuries to think about all this stuff so itll be all too easy to convince joon, and itll be all to easy for him to be so set in his thinking that joon could never ever convince him
 
->> **u/PresentCompanyExcl** [+1]  *The Culture**
+>> **u/PresentCompanyExcl** [+1]  *The Culture* (a day later)
 >> 
 >> > made a deal with the dm (who im like 90% sure is straight up alexander wales) to switch places with juniper.
->> Oh I hadn't thought of that.
->> > dm (who im like 90% sure is straight up alexander wales)
->> I thought there might potentially be a bit of in-story mystery about who it is, but if it's just a meta-narrative thing then you can't have that.
 >> 
+>> Oh I hadn't thought of that.
+>> 
+>> > dm (who im like 90% sure is straight up alexander wales)
+>> 
+>> I thought there might potentially be a bit of in-story mystery about who it is, but if it's just a meta-narrative thing then you can't have that.
 
->>> **u/Croktopus** [+2] *
+>>> **u/Croktopus** [+2]  (2 days later)
 >>> 
 >>> yeah i hope im wrong about it being the author but...it feels kinda like a quirrel moment to me where its meant to be obvious but doesnt come across that way. though idk
->>> 
 
->>> **u/Lookmanijustwanttopo** [+1] *
+>>> **u/Lookmanijustwanttopo** [+1]  (3 days later)
 >>> 
 >>> Plot twist; it's Arthur's brother (somehow).
->>> 
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (2 days later)
 > 
 > I'm a bit surprised at how eager everyone was to leave Val behind. I get that there were a heck of a lot of unknowns but that was still a surprising thing to me. 
-> Also I wonder if that achievement Joon got is a somewhat hopeful sign that he won't be punished for splitting the party
 > 
+> Also I wonder if that achievement Joon got is a somewhat hopeful sign that he won't be punished for splitting the party
 
-> **u/Mr-Mister** [+2] *
+> **u/Mr-Mister** [+2]  (2 days later)
 > 
 > You know, if it works by direct neurological interference, the biggest question about the illusion magic is how it knows what to do when you blink.
-> 
 
->> **u/Izeinwinter** [+2] *
+>> **u/Izeinwinter** [+2]  (2 days later)
 >> 
 >> .. it highjacks the connection between body and soul. Joon is not in a materialist universe.
->> 
 
-> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (4 days later)
 > 
 > I think Joon's behavior was extremely idiotic in 109. He was just too hostile and wary. He didn't consider first wat Masters even wanted - he only spoke to escape, not actually exchange information. On the other hand, despite all that wariness, he only thought about defeating/escaping the centuries-old extremely powerful wizard within his own exclusion zone, instead of, you know, negotiating his way out. And he didn't consider what this meeting - his first meeting with a person who personally knew Uther - means from the narrative point of view.
-> 
 
->> **u/signspace13** [+1] *
+>> **u/signspace13** [+1]  (11 days later)
 >> 
 >> Because separating him from his companions and trapping him inside a room using Illusions, not to mention mimicking those companions to parrot favorable opinions, isn't hostile action? The man obviously sees Joon's very existence as a possible threat to the world, and he isn't entirely wrong, but he should have stated his point *before* using hostile forbidden magic against a wary individual who just came to help.
->> 
 
->>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (11 days later)
 >>> 
 >>> Absolutism is a very dangerous thought pattern. Yes, those were hostile, but to what degree? Master's aim was, quite obviously, information. None of his hostilities were lethal or even damaging (unlike those of Joon). Put yourself in the shoes of someone who carried a task he didn't even fully understand for half a millenia, and all his actions become quite reasonable, if a bit excessive.
->>> 
 
->>>> **u/signspace13** [+1] *
+>>>> **u/signspace13** [+1]  (11 days later)
 >>>> 
 >>>> I agree, I am mostly speaking as Devil's advocate, I also dislike the way that Masters went about it, he didn't act like a man seeking information on a long and arduous job, he separated them and ambushed them with incomprehensible and unknown magic, using it to deceive and disorient them to make them more malleable to his demands. Almost no one in this series ever tries the carrot before the stick, and Masters is definitely usinging the stick here lethal or not.
->>>> 
 
-> **u/kaukamieli** [+1] *
+> **u/kaukamieli** [+1]  (15 hours later)
 > 
 > So good! So good... I need more.
-> 
 
-> **u/generalamitt** [+1] *
+> **u/generalamitt** [+1]  (2 days later)
 > 
 > I am so excited for solo mode! I think this is just the thing this story has needed for some time now . I don't think Arthur had gamer powers similar to Juniper's,  he could just learn stuff 140 times faster?( That would be a rough estimate given the information that he could learn a new language in a day), also, when Juniper managed to break the illusion with soul sight Masters didn't understand how he managed it given that he couldn't at the beginning,  which may implies that Arthur couldn't make modifications to his skills on the fly as well?
-> So Arthur basically told Juniper that he doesn't believe Aerb is real? he saw the people closet to him as NPCs?
 > 
+> So Arthur basically told Juniper that he doesn't believe Aerb is real? he saw the people closet to him as NPCs?
 
->> **u/PanickedApricott** [+3] *
+>> **u/PanickedApricott** [+3]  (3 days later)
 >> 
 >> Junipers powers are different than Arthur's. Juniper can't learn languages but Arthur could.
->> 
 
-> **u/bucketsofmercy** [+1] *
+> **u/bucketsofmercy** [+1]  (3 days later)
 > 
 > Oh god it's like the soul mage all over again where you can't trust anything you read ughh
-> 
 
-> **u/MuonManLaserJab** [+1] *
+> **u/MuonManLaserJab** [+1]  (8 days later)
 > 
 > Well, I just got here. Great story so far. What's the update schedule like?
-> 
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (11 days later)
 >> 
 >> It updates in batches of 2-5 chapters. The author writes something like (an average of) 1000 words per day, but only posts it when he feels like there's a relatively self-contained segment, so, every week or two.
->> 
 
->>> **u/MuonManLaserJab** [+2] *
+>>> **u/MuonManLaserJab** [+2]  (11 days later)
 >>> 
 >>> Cool. So, sometime soon. Nice!
->>> 
 
-> **u/thrawnca** [+1]  *Carbon-based biped**
+> **u/thrawnca** [+1]  *Carbon-based biped* (11 days later)
 > 
 > So, last time he was adjusting his expectations about the quest based on the fact that he received it at level 2.
-> If he had actually gone there at level 2, he would have lacked all the things that let him pierce the illusion, and he would have been thoroughly taken in. Presumably that would not have been a Game Over, because the DM does actually want him to succeed, just without hand holding. He would have told the illusionist what he knew about Arthur, possibly even about his meta power. And that would *not* have meant an unseen and unfelt dagger in the back for the safety of the world.
-> So, perhaps that means that the illusionist should be considered a potential ally?
 > 
+> If he had actually gone there at level 2, he would have lacked all the things that let him pierce the illusion, and he would have been thoroughly taken in. Presumably that would not have been a Game Over, because the DM does actually want him to succeed, just without hand holding. He would have told the illusionist what he knew about Arthur, possibly even about his meta power. And that would *not* have meant an unseen and unfelt dagger in the back for the safety of the world.
+> 
+> So, perhaps that means that the illusionist should be considered a potential ally?
 
->> **u/signspace13** [+1] *
+>> **u/signspace13** [+1]  (11 days later)
 >> 
 >> I think the fact that he showed up with a a full coterie is what got him in trouble here, if it was just him and Fenn or just him and Mary, then I feel like the guy wouldn't have been as suspicious as he wouldn't have been able to make the direct Correlation to Uther and his Knights.
->> 
 
-> **u/FxH_Absolute** [+1] *
+> **u/FxH_Absolute** [+1]  (10 hours later)
 > 
 > Does Joon grow past his Joon-centrism? I slowed down after he and the elf got together because his attitude was grating on me. I felt like he was treating everyone like Mass Effect companions. I realize this is a symptom of him struggling with 'the narrative', but I was hoping to see him grow past it.
-> 
 
->> **u/PathologicalFire** [+9] *
+>> **u/PathologicalFire** [+8]  (11 hours later)
 >> 
 >> The most recent 'arc' was Amaryllis-focused though not completely. Also, more agency is shifting to the companions as of late.
->> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (18 hours later)
 >> 
 >> He still shows moments of egocentrism and entitlement, but he makes some effort to accommodate his friends over time (especially Grak).
->> (holy crap, Joon is acting *exactly* like a Mass Effect protagonist)
 >> 
+>> (holy crap, Joon is acting *exactly* like a Mass Effect protagonist)
 
->> **u/PanickedApricott** [+1] *
+>> **u/PanickedApricott** [+1]  (a day later)
 >> 
 >> wait, whats so bad about treating people like mass effect companions?
->> 
 
->>> **u/FxH_Absolute** [+1] *
+>>> **u/FxH_Absolute** [+1]  (a day later)
 >>> 
 >>> Because the simulation he's in is far more complex in that and there's no info to suggest his companions don't have true consciousness. As entertaining as ME is, it's characters are scripted.
->>> 
 
 ---
 

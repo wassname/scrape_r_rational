@@ -2,7 +2,7 @@
 
 * Author: u/JanusTheDoorman *
 * URL: https://www.reddit.com/r/rational/comments/7ad6tm/whats_going_on_with_marked_for_death/
-* Score: 16
+* Score: 15
 
 * Created: 2017-11-02T17:44:33
 
@@ -16,70 +16,77 @@ Does that about sum it up, or is there some other reason it's been just omakes a
 
 ### Comments:
 
-> **u/Solonarv** [+19]  *Chaos Legion**
+> **u/Solonarv** [+21]  *Chaos Legion* (14 minutes later)
 > 
 > No, that's not quite right.
-> MfD was originally running on a custom-made RPG system (how dice are rolled, how skills work, etc). This system had a number of flaws and went through a rework a while back.
-> The upcoming battle revealed that the system's cognitive load on the QMs was too high, so the quest is on hiatus while they figure out which system to switch to and what house rules are needed to make it fit MfD.
 > 
+> MfD was originally running on a custom-made RPG system (how dice are rolled, how skills work, etc). This system had a number of flaws and went through a rework a while back.
+> 
+> The upcoming battle revealed that the system's cognitive load on the QMs was too high, so the quest is on hiatus while they figure out which system to switch to and what house rules are needed to make it fit MfD.
 
->> **u/fiirofa** [+15] *
+>> **u/fiirofa** [+18]  (56 minutes later)
 >> 
 >> To add to this:
+>> 
 >> * The old system was math-heavy in a bad way (i.e. raising things to the 0.65th power)
 >> * Location in battle was pretty ad-hoc.
 >> * There was no easy way to test if ninjutsu/etc. were balanced.
+>> 
 >> All combined, even setting up, let alone running the battle would have been a full-time job.
+>> 
 >> Also,
 >> > As far as I can tell, seems like during the Chuunin Exams the authors decided the plan wasn't good enough/would get everyone killed, so they're rolling back to before that incident?
->> MfD's SOP is that if the MC dies, the thread will re-roll (or riot =).  Hazou was not expected to survive this long.
 >> 
+>> MfD's SOP is that if the MC dies, the thread will re-roll (or riot =).  Hazou was not expected to survive this long.
 
->>> **u/derefr** [+6] *
+>>> **u/derefr** [+6]  (3 hours later)
 >>> 
 >>> Those factors combined sound like the solution lies not in picking a simpler system (though that could *sidestep* the problems), but rather in moving (at least for battles) from a pen-and-paper system to a computerized simulation. I.e., build a (simple, probably non-graphical) game engine to do the game's math for you.
->>> This would then let you test rules-balance by 1. coming up with various scenarios that "should" be balanced, 2. programming them into the engine, 3. playing them out numerous times, and 4. calculating win ratios; and then adjusting the rules until the win-ratios for things that "should" be balanced are actually balanced.
->>> (Of course, this is a lot easier if you also throw in an AI player that can automate step 3, but that's a much larger can of worms than just a turn-based knockback-and-wounds tracker.)
 >>> 
+>>> This would then let you test rules-balance by 1. coming up with various scenarios that "should" be balanced, 2. programming them into the engine, 3. playing them out numerous times, and 4. calculating win ratios; and then adjusting the rules until the win-ratios for things that "should" be balanced are actually balanced.
+>>> 
+>>> (Of course, this is a lot easier if you also throw in an AI player that can automate step 3, but that's a much larger can of worms than just a turn-based knockback-and-wounds tracker.)
 
->>>> **u/TwoxMachina** [+4] *
+>>>> **u/TwoxMachina** [+4]  (a day later)
 >>>> 
 >>>> Are you saying, we should have a MfD videogame? :D
->>>> 
 
->>>> **u/OutOfNiceUsernames** [+4]  *fear of last pages**
+>>>> **u/OutOfNiceUsernames** [+4]  *fear of last pages* (a day later)
 >>>> 
 >>>> Somewhat relevant (-ish; also sorry for the self-link):
+>>>> 
 >>>> >[Are there any works of fiction during the worldbuilding phase of which the author has hired programmers to create simulation models for their story’s setting?](https://www.reddit.com/r/booksuggestions/comments/6hpo3u/are_there_any_works_of_fiction_during_the/)
+>>>> 
 >>>> > > For instance, in case of Interstellar the crew had collaborated with an additional team of ~30 visual graphics specialists to create a simulation of the black hole featured in the film and make it more realistic.
 >>>> > > 
 >>>> > > What I’m looking for is somewhat similar to this, only for works of literature, and of course where the primary focus would be on the mathematical \ statistical accuracy of the created model with less regards for the “IMAX-quality” graphics.
 >>>> > > 
 >>>> > > Imagine, for instance, for J. K. Rowling to have requested the development of NPC AIs to see how would various scenarios involving magical duels play out and diverge from her own predictions. And how tinkering with various variables (e.g. spell travel speed, required time for complete Apparition, possible frequency of multiple Apparitions for an ”average” wizard, etc) would be changing the general outcomes in various scenarios (e.g. a group of NPCs fighting against another, a group fighting against a unit, a group chasing after another, etc).
->>>> 
 
->>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (10 hours later)
 >>>> 
 >>>> I'm pretty sure that attempts to do so have been made, but I think they've failed.
->>>> 
 
->>>>> **u/Cariyaga** [+5]  *Kyubey did nothing wrong**
+>>>>> **u/Cariyaga** [+5]  *Kyubey did nothing wrong* (a day later)
 >>>>> 
 >>>>> They have not failed. They were in the process of being made at the time that the QMs decided to move away from the system.
->>>>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>> 
 >>>> I already did write software to do the game's math, actually. That didn't help nearly enough. The problem isn't that raising things to an exponent is hard, it's that there are no rules for designing powers. Everything requires significant numbers of spoons from the QMs because everything is a judgement call. We're already spending 10-15 hours per week on QM discussion and 6-8 hours on writing, and all of us recently acquired extra spoon-consuming life elements. There isn't a lot of extra time for writing yet more software, or even running endless simulations if we had the software.
->>>> Aside from that, software wouldn't work. As I said, everything is ad hoc, so every new power would need to be added to the software, along with all its interactions with every other power, and then there would be endless edge cases to deal with. "Just write software" isn't a magic wand that makes complexity go away, it just makes time-consuming bits faster.  
->>>> Besides that, moving to a commercial system means we can access tools intended for that system.
 >>>> 
+>>>> Aside from that, software wouldn't work. As I said, everything is ad hoc, so every new power would need to be added to the software, along with all its interactions with every other power, and then there would be endless edge cases to deal with. "Just write software" isn't a magic wand that makes complexity go away, it just makes time-consuming bits faster.  
+>>>> 
+>>>> Besides that, moving to a commercial system means we can access tools intended for that system.
 
->>>>> **u/derefr** [+1] *
+>>>>> **u/derefr** [+1]  (4 days later)
 >>>>> 
 >>>>> In my experience as a programmer, "just write software" *is* a magic wand to solve combinatoric explosion of requirements—because, with half-finished software in hand, the requirements-specifiers are forced to realize that to get the project done, the requirements have to be reformulated to stop being combinatoric. ;)
+>>>>> 
 >>>>> In other words: formalizing a system forces you to discover (or invent!) unifying principles to its elements, in order to be able to ever finish in time.
+>>>>> 
 >>>>> Look at any fighting game with a ton of characters that come from different universes, and you'll find that their powers have been unified into a rather few underlying physics-effects. The Smash Bros. series, for example: every power (and every stage-effect or item-effect) can be specified as:
+>>>>> 
 >>>>> * a set of animations that have partial invulnerability hitboxes (usually where the weapon is)
 >>>>> * one or more collision-objects that impart force when collision is detected with them, connected to the generator
 >>>>> * zero or more forces applied on *each* collision: momentum-imparting force (a.k.a. "knockback"), shield-breaking force, direct acceleration force (wind, grapples, "gravitational pulses"), etc.
@@ -87,52 +94,52 @@ Does that about sum it up, or is there some other reason it's been just omakes a
 >>>>> * zero or more continuous-force effects, imparted on first collision, not stackable: actual gravitational force (bunny ears), time-dilational force (Timer items, Bayonetta's counter, etc.), reversed-controls effect, etc.
 >>>>> * zero or more whole-stage continuous effects: darkness, shifted camera window, inverted display, etc.
 >>>>> * zero or more temporary "zones" on the stage that will continuously spawn effect-colliders (of one of the above types) "at" a character's position, at a given rate, as long as a character remains within the zone.
->>>>> ---
->>>>> But in the process, you're right:
->>>>> > then there would be endless edge cases to deal with
->>>>> When building such a physics engine, the default answers to edge-case interactions are usually pretty dumb. You can add simple arithmetic interactions to "smooth out" the interactions, so that they at least e.g. let both rules *apply* instead of just having one override another. But this is frequently unsatisfying. A lot of the later-stage development of such an engine comes from replacing these simple interaction-formulae with more complex effects that only happen for a given edge-case, one at a time. The less time the developers have, the fewer of these complex interactions make it into the final engine. And that might be a deal-breaker, if interesting interactions are the whole point. :)
 >>>>> 
+>>>>> ---
+>>>>> 
+>>>>> But in the process, you're right:
+>>>>> 
+>>>>> > then there would be endless edge cases to deal with
+>>>>> 
+>>>>> When building such a physics engine, the default answers to edge-case interactions are usually pretty dumb. You can add simple arithmetic interactions to "smooth out" the interactions, so that they at least e.g. let both rules *apply* instead of just having one override another. But this is frequently unsatisfying. A lot of the later-stage development of such an engine comes from replacing these simple interaction-formulae with more complex effects that only happen for a given edge-case, one at a time. The less time the developers have, the fewer of these complex interactions make it into the final engine. And that might be a deal-breaker, if interesting interactions are the whole point. :)
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (4 days later)
 >>>>>> 
 >>>>>> > In my experience as a programmer, "just write software" is a magic wand to solve combinatoric explosion of requirements—because, with half-finished software in hand, the requirements-specifiers are forced to realize that to get the project done, the requirements have to be reformulated to stop being combinatoric. ;)
->>>>>> That's not the software eliminating complexity, though.  That's the goal donor changing the requirements so that you're not dealing with the same problem.   I see the smiley and get the joke, though.
->>>>>> Every system has a constant level of complexity.  You can't get rid of it or actually reduce it, but you can move it around and [usually you can] divide it into manageable chunks that can be hidden behind a simple interface.
 >>>>>> 
+>>>>>> That's not the software eliminating complexity, though.  That's the goal donor changing the requirements so that you're not dealing with the same problem.   I see the smiley and get the joke, though.
+>>>>>> 
+>>>>>> Every system has a constant level of complexity.  You can't get rid of it or actually reduce it, but you can move it around and [usually you can] divide it into manageable chunks that can be hidden behind a simple interface.
 
->> **u/OutOfNiceUsernames** [+5]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+4]  *fear of last pages* (a day later)
 >> 
 >> > MfD was originally running on a custom-made RPG system (how dice are rolled, how skills work, etc). This system had a number of flaws and went through a rework a while back.
 >> > 
 >> > The upcoming battle revealed that the system's cognitive load on the QMs was too high, so the quest is on hiatus while they figure out which system to switch to and what house rules are needed to make it fit MfD.
->> This on its own is a fascinating short story about the RPG community.
 >> 
+>> This on its own is a fascinating short story about the RPG community.
 
->> **u/JanusTheDoorman** [+2] *
+>> **u/JanusTheDoorman** [+2]  (an hour later)
 >> 
 >> Ah, okay. Thanks for the clarification!
->> 
 
->>> **u/InfernoVulpix** [+3] *
+>>> **u/InfernoVulpix** [+3]  (7 hours later)
 >>> 
 >>> We're having fun at least with the interludes, and we're getting a more fleshed out setting from them, but even some of the most patient among us are getting a bit stir-crazy.
->>> If you're curious about what forms the new system might take, the three main contenders were HERO, Mutants & Masterminds, and Dresden Files RPG.  M&M was the one they were going for until a little while ago where they shifted more towards DFRPG, and it's likely that in the next week or two they'll get a preliminary draft of the rules for the new system up so that the playerbase can figure out how to break it and in so doing inform the QMs what still needs to be fixed.
 >>> 
+>>> If you're curious about what forms the new system might take, the three main contenders were HERO, Mutants & Masterminds, and Dresden Files RPG.  M&M was the one they were going for until a little while ago where they shifted more towards DFRPG, and it's likely that in the next week or two they'll get a preliminary draft of the rules for the new system up so that the playerbase can figure out how to break it and in so doing inform the QMs what still needs to be fixed.
 
->>>> **u/Areign** [+24] *
+>>>> **u/Areign** [+26]  (11 hours later)
 >>>> 
 >>>> jesus even rational naruto has filler
->>>> 
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (3 days later)
 >>>>> 
 >>>>> How can it be filler if we're the ones writing it? ;>
->>>>> 
 
->>>> **u/ArcTruth** [+5] *
+>>>> **u/ArcTruth** [+6]  (10 hours later)
 >>>> 
 >>>> As a lurker, I'm having a great time. I knew Kei/Nara was a great idea but I had no idea it could be this good.
->>>> 
 
 ---
 

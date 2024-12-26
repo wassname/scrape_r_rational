@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: https://sidewaysfiction.wordpress.com/2017/04/30/on-the-shores-of-the-cosmic-ocean/
-* Score: 15
+* Score: 11
 
 * Created: 2017-04-30T09:44:06
 

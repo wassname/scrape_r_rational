@@ -12,11 +12,11 @@ I found a story here several months ago. the only thing I remember about it was 
 
 ### Comments:
 
-> **u/Badewell** [+4] *
+> **u/Badewell** [+8]  (34 minutes later)
 > 
 > Here it is: http://squid314.livejournal.com/336195.html
-> The r/rational post: http://www.reddit.com/r/rational/comments/1up6yj/the_girl_who_poked_god_with_a_stick/
 > 
+> The r/rational post: http://www.reddit.com/r/rational/comments/1up6yj/the_girl_who_poked_god_with_a_stick/
 
 ---
 

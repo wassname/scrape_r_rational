@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: https://www.reddit.com/r/AIH/comments/4fx94q/significant_digits_chapter_fortynine_penultimate/
-* Score: 28
+* Score: 26
 
 * Created: 2016-04-22T12:54:08
 

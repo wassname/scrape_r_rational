@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (50 seconds later)
 > 
 > [deleted]
-> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 minutes later)
 > 
 > It's magic! It doesn't need to be consistent!
-> 
 
 ---
 

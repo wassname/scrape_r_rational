@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/08/01/fatalism-i/
-* Score: 64
+* Score: 66
 
 * Created: 2018-08-01T04:01:54
 
@@ -12,66 +12,61 @@
 
 ### Comments:
 
-> **u/cyberdsaiyan** [+20] *
+> **u/cyberdsaiyan** [+19]  (50 minutes later)
 > 
 > Ah, the buildup to the Arch-fiend blunder... I really wanted to see what exactly happened with that affair so it's nice that these chapters are addressing it.
-> 
 
->> **u/AurelianoTampa** [+8] *
+>> **u/AurelianoTampa** [+9]  (7 hours later)
 >> 
 >> Arch-fiend? Are you referring to Cat bring labeled Arch-heretic of the East?
->> 
 
->>> **u/cyberdsaiyan** [+5] *
+>>> **u/cyberdsaiyan** [+6]  (9 hours later)
 >>> 
 >>> ah my bad, yeah it was Arch-Heretic haha.
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> >Arch-fiend
->> I assume you read Everybody loves large chests?
 >> 
+>> I assume you read Everybody loves large chests?
 
->>> **u/cyberdsaiyan** [+2] *
+>>> **u/cyberdsaiyan** [+2]  (3 days later)
 >>> 
 >>> Ah not yet, but it's been on my list.
->>> 
 
-> **u/Mountebank** [+19] *
+> **u/Mountebank** [+17]  (an hour later)
 > 
 > So Cordelia off handedly approving this religious conference somehow had metaphysical consequences I'm guessing, since I'm assuming that this is the same conference where the whole excommunication stuff from last chapter came from. By giving her approval, she obligated her nation toward enforcing Above's decree, possibly in the same way that the Lone Swordsman's plan would have done for Callow. And once that happens, Cordelia would lose all control since people would stop acting like rational people with free will and more like brainwashed zealots.
-> 
 
-> **u/haiku_fornification** [+15] *
+> **u/haiku_fornification** [+15]  (4 hours later)
 > 
 > > Especially the Black Queen and her cadre of wicked fae and perfidious villains, served willingly by her armies of Callowan heretics.
-> God, Robber would shed a tear if he heard this.
-> I love this chapter. It highlights just how unaccustomed the Proceran nobility is to the kind of warfare that's typically waged in Callow and Praes. We get to see that Cordelia really would follow up on her promises and probably leave Callow alone (alas fractured) and that her grasp on the crusade is tremulous at best.
 > 
+> God, Robber would shed a tear if he heard this.
+> 
+> I love this chapter. It highlights just how unaccustomed the Proceran nobility is to the kind of warfare that's typically waged in Callow and Praes. We get to see that Cordelia really would follow up on her promises and probably leave Callow alone (alas fractured) and that her grasp on the crusade is tremulous at best.
 
-> **u/Sparkwitch** [+27] *
+> **u/Sparkwitch** [+27]  (an hour later)
 > 
 > I love how sympathetic the First Prince is. She could never be a protagonist - too trapped in her own plots and her confederacy's politics to have an entertaining amount of control over her destiny - but she is clever and steadfast and neither selfish nor cruel. The sort of benevolent dictator any country might wish for in times of such turmoil.
-> And what a brilliant foil for Catherine: Born into (not quite) absolute power, but hobbled everywhere by unfortunate knowledge and fair play.
 > 
+> And what a brilliant foil for Catherine: Born into (not quite) absolute power, but hobbled everywhere by unfortunate knowledge and fair play.
 
->> **u/JanusTheDoorman** [+4] *
+>> **u/JanusTheDoorman** [+5]  (19 hours later)
 >> 
 >> I dunno, Cordelia seems like she's only nominally on the side of Good because she was born into a powerful position in a nation that is itself Good-aligned. She's motivated to carry out the Crusade not because she wants Evil vanquished in Calernia or Callow liberated, but just because she wants to use it to consolidate her own power. She's not upset that Amadis and Klaus were defeated because it means the cause of Good has been stalled, but because it weakens her position in the Grand Alliance.
->> It strikes me that if you switched Cordelia and Malicia, not much would actually change. Both just want their nations stable, powerful, and under their complete control. They even have the same flaw of thinking they know all the rules of the game, and getting surprised when Catherine breaks them to get what she wants.
 >> 
+>> It strikes me that if you switched Cordelia and Malicia, not much would actually change. Both just want their nations stable, powerful, and under their complete control. They even have the same flaw of thinking they know all the rules of the game, and getting surprised when Catherine breaks them to get what she wants.
 
-> **u/CouteauBleu** [+14]  *We are the Empire.**
+> **u/CouteauBleu** [+13]  *We are the Empire.* (7 hours later)
 > 
 > Man, Calernia *sucks*. Every single non-Callowan country sounds worse every time we learn something about them.
-> Someone said earlier that, if the only way to maintain the Crusaders' alliance was to blunder forward, ignore any offered treaty, and send more and more troops in what's looking increasingly like the meat grinder of the century, then maybe that Alliance shouldn't have been formed in the first place. We're seeing more evidence of that.
 > 
+> Someone said earlier that, if the only way to maintain the Crusaders' alliance was to blunder forward, ignore any offered treaty, and send more and more troops in what's looking increasingly like the meat grinder of the century, then maybe that Alliance shouldn't have been formed in the first place. We're seeing more evidence of that.
 
->> **u/ATRDCI** [+12] *
+>> **u/ATRDCI** [+12]  (12 hours later)
 >> 
 >> Welcome to the Holy Roman Empire
->> 
 
 ---
 

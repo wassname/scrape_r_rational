@@ -2,7 +2,7 @@
 
 * Author: u/Prezombie *
 * URL: https://www.reddit.com/r/rational/comments/2csr5e/dc_the_magicians_triology_lev_grossman_third_and/
-* Score: 10
+* Score: 9
 
 * Created: 2014-08-06T16:18:02
 
@@ -18,52 +18,45 @@ It kind of reminds me of the emotional response to the Dark Souls world.
 
 ### Comments:
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (49 minutes later)
 > 
 > My copy of the third book just came in the mail yesterday, and I heartily second the recommendation with a single caveat - the main character does not start out terribly likable. I personally had no problem with it, since it reminded me a lot of how I was as a nerdy intellectual teenager, but it's the single thing that's most likely to reduce your enjoyment of the book if that kind of thing bothers you. On more positive notes, these books are one of the few in my long career as a fantasy reader to actually make magic feel *magical*. I love "magic as engineering", but *The Magicians* at several points made me go "Holy crap, they're doing magic!"
-> 
 
->> **u/awesomeideas** [+3]  *Dai stiho, cousin.**
+>> **u/awesomeideas** [+3]  *Dai stiho, cousin.* (12 hours later)
 >> 
 >> *The Magicians* came out just as I was entering high school, prime time for the unlikeable nerdy intellectual teenager, and I just ate it up. It captured something remarkably human; that even with wonder and adventure and opportunity, people are still themselves, and a situation cannot make you happy forever if you're not that kind of person. Plus, the multiversebuilding was great, and I would like to learn more about the makers and magic.
->> I'm saving up for the third book, and hope to be able to read it soon (not like the library's going to get it!).
 >> 
+>> I'm saving up for the third book, and hope to be able to read it soon (not like the library's going to get it!).
 
->> **u/Escapement** [+1]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+1]  *Ankh-Morpork City Watch* (58 minutes later)
 >> 
 >> I agree with everything you wrote here. Haven't got the third book yet, will go get it soon.
->> Coldwater is largely the author of his own misfortunes throughout, especially in the first book.
 >> 
+>> Coldwater is largely the author of his own misfortunes throughout, especially in the first book.
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (7 days later)
 >> 
 >> The third book was fantastic, by the way. It did everything that I could possibly want a concluding book of the trilogy to do.
->> 
 
-> **u/Transfuturist** [+2]  *Carthago delenda est.**
+> **u/Transfuturist** [+2]  *Carthago delenda est.* (an hour later)
 > 
 > Haven't gone past the first book; does the girl come back?
-> 
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (2 hours later)
 >> 
 >> [The Magician Kings Spoiler](#s " Which girl? If you mean Julia, the answer is yes - and the chapters that explore her backstory are widely regarded as one of the high points of the second book.")
->> 
 
->>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (2 hours later)
 >>> 
 >>> I was talking about Alice, but okay... :c
->>> 
 
->>>> **u/4t0m** [+2]  *Chaos Legion**
+>>>> **u/4t0m** [+2]  *Chaos Legion* (10 hours later)
 >>>> 
 >>>> [The Magician's Land Spoiler](#s "She comes back too.")
->>>> 
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (10 hours later)
 >>>>> 
 >>>>> Thanks! I bought it just after reading the second book today.
->>>>> 
 
 ---
 

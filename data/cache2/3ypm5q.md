@@ -12,88 +12,81 @@
 
 ### Comments:
 
-> **u/aeschenkarnos** [+7] *
+> **u/aeschenkarnos** [+7]  (2 minutes later)
 > 
 > No-one is standing on top of a tall structure with a piezoelectric plate and lying to create power from the water fall (that we know of), however the characters have intelligently adapted to the strange phenomenon.
-> 
 
-> **u/GrecklePrime** [+3] *
+> **u/GrecklePrime** [+3]  (3 hours later)
 > 
 > Good stuff!  I'd be interested in seeing other thing that would change in regards to water. Most notibally, how does politics change? Especially on a global level. Does writing cause water when read? Will that make all writing no longer as trust worthy? Do courts use humidity sensors? Is the water usable as evidence in court?
-> 
 
->> **u/Jiro_T** [+4] *
+>> **u/Jiro_T** [+4]  (20 hours later)
 >> 
 >> It isn't just writing; consider media.  Does an actor in a show get drenched because in order to play a character he must make statements that are not true about himself?  If the answer is no, can you hire someone to give a speech for you?  For that matter, could you believe "the statements in the speech are literally false, but they are not designed to mislead" and make a speech without getting detected as a liar?  If you cannot, what happens if your statements are literally true, but you know that 1 out of 1000 people in the audience will misinterpret them as something false?  1 out of 50?  1 out of 1.5?
->> Does the whole thing detect intentional recklessness and bias, but where the speaker doesn't know (because of his bias) that he's lying?  If so, that could take politics in an even worse direction than it already is, since politics would then select for people who genuinely but irrationally believe crazy things.
->> What happens if you construct an untruth out of one or more truths, by using prerecorded media (so you don't need to say anything additional), such as taking a statement out of context?
 >> 
+>> Does the whole thing detect intentional recklessness and bias, but where the speaker doesn't know (because of his bias) that he's lying?  If so, that could take politics in an even worse direction than it already is, since politics would then select for people who genuinely but irrationally believe crazy things.
+>> 
+>> What happens if you construct an untruth out of one or more truths, by using prerecorded media (so you don't need to say anything additional), such as taking a statement out of context?
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (4 days later)
 >>> 
 >>> I feel, within the world as stated, you could write a story about a famous actor who is ruined by the advent of the water and learns how to redefine what acting means to him, to say truths that are not factually correct and remain dry.
->>> 
 
-> **u/Drazelic** [+2]  *Dai-Gurren Brigade**
+> **u/Drazelic** [+2]  *Dai-Gurren Brigade* (5 hours later)
 > 
-> What a blessed phenomenon- it combines 'gives you useful information without a causal interaction, essentially functioning as an oracle' AND 'creates negentropy out of nothingness'! It's like a neat package of everything rational exploitationfics want to have in their settings to exploit.
+>  What a blessed phenomenon- it combines 'gives you useful information without a causal interaction, essentially functioning as an oracle' AND 'creates negentropy out of nothingness'! It's like a neat package of everything rational exploitationfics want to have in their settings to exploit.
+> 
 > It's so exploitable I don't know where to begin, and I probably don't even NEED to figure out where to begin.
-> 
 
->> **u/aeschenkarnos** [+3] *
+>> **u/aeschenkarnos** [+3]  (5 hours later)
 >> 
 >> If I understood it properly, the mysterious water-splasher defined "lies" subjectively rather than objectively, and only assessed statements, not questions. So it's not an oracle, it's a truth serum.
->> 
 
-> **u/aeschenkarnos** [+1] *
+> **u/aeschenkarnos** [+1]  (5 minutes later)
 > 
 > Found [here](https://www.reddit.com/r/printSF/comments/3ypa86/the_best_sf_short_stories_i_read_in_2015_share/) - not all /r/rational material however all are worth reading.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (20 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/mycroftxxx42** [+3] *
+>>> **u/mycroftxxx42** [+2]  (a day later)
 >>> 
 >>> It's a magical effect with no mechanism even implied and no part of the story concerns itself with either understanding it or exploring the consequences.  This is a coming-out story, and a pretty neat example of that genre, but it's just not science fiction in any meaningful sense.  
->>> Science fiction is supposed to ask a specific kind of question - you can ask it as "What if", or "Why not", or even "If this goes on..." You ask the question and then you explore possible answers.  "Water" frames itself as if it asks the question, but doesn't spend any time paying attention to how answering that question would change the world.  Even without the weird physics-breaking precipitation, this weird subjective-truth oracle and the paradox allergy would tell us a lot about the world and universe that would change cultures, let alone research.
->>> In the end, this is the story of the protagonist coming out to his family.  It wouldn't be that different if it were a purely mundane coming-out story, and wouldn't be any different at all if it used some other kind of truth-telling faculty.  It's not science fiction.  
->>> Edit:  It's very late and I misread your question as being about it's SF-ness, not it's worldbuilding.  Much shorter correct answer is - the mental activity of lying produces cold water.  People's moods alter humidity and ozone levels.  If nothing else, the bio-engineering protagonist would need to be trained in some kind of autohypnosis like all the rest of the lab-based biologists.  If you write off every other possible spin-off of psychohydrology, working out teachings that allow you to think about what you want while not fucking up lab conditions are a high-enough priority that they would be common knowledge.
 >>> 
+>>> Science fiction is supposed to ask a specific kind of question - you can ask it as "What if", or "Why not", or even "If this goes on..." You ask the question and then you explore possible answers.  "Water" frames itself as if it asks the question, but doesn't spend any time paying attention to how answering that question would change the world.  Even without the weird physics-breaking precipitation, this weird subjective-truth oracle and the paradox allergy would tell us a lot about the world and universe that would change cultures, let alone research.
+>>> 
+>>> In the end, this is the story of the protagonist coming out to his family.  It wouldn't be that different if it were a purely mundane coming-out story, and wouldn't be any different at all if it used some other kind of truth-telling faculty.  It's not science fiction.  
+>>> 
+>>> Edit:  It's very late and I misread your question as being about it's SF-ness, not it's worldbuilding.  Much shorter correct answer is - the mental activity of lying produces cold water.  People's moods alter humidity and ozone levels.  If nothing else, the bio-engineering protagonist would need to be trained in some kind of autohypnosis like all the rest of the lab-based biologists.  If you write off every other possible spin-off of psychohydrology, working out teachings that allow you to think about what you want while not fucking up lab conditions are a high-enough priority that they would be common knowledge.
 
->>>> **u/aeschenkarnos** [+4] *
+>>>> **u/aeschenkarnos** [+4]  (a day later)
 >>>> 
 >>>> I'd classify it as [magical realism](https://en.wikipedia.org/wiki/Magic_realism), not SF.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (4 days later)
 >>>>> 
 >>>>> I was going to say this, but yeah. It's a beautiful story, but not at all science fiction and not really fantasy.
->>>>> 
 
->> **u/Iconochasm** [+3] *
+>> **u/Iconochasm** [+3]  (a day later)
 >> 
 >> Seriously.  Look at every other post in this topic.  All about the amazing possibilities of conservation of mass turning out to be a myth, perfect zero-cost lie detection, etc.  The story deals with precisely **one** societal impact of The Water, and it's just a stupid cheap shot at "frat bros", aka progressive virtue-signaling.  
->> The worst part is that the story even hints at a story that would have worked so much better - namely a gay bioengineer trying to build him and his partner a son.  And it's just a single laugh line.
->> It's not a bad story, but those flaws combined with the Hugo win total up to being very disappointing.
 >> 
+>> The worst part is that the story even hints at a story that would have worked so much better - namely a gay bioengineer trying to build him and his partner a son.  And it's just a single laugh line.
+>> 
+>> It's not a bad story, but those flaws combined with the Hugo win total up to being very disappointing.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (4 days later)
 >>> 
 >>> It's a story about coming out in the style of magic realism. The *point* of it is to write a perfectly mundane story that just so happens to have magical elements. As a piece of speculative fiction it doesn't work, but that's like saying it's a pity Monet didn't just take photos; they would be *so much crisper*.
->>> 
 
->> **u/IllusoryIntelligence** [+1] *
+>> **u/IllusoryIntelligence** [+1]  (10 days later)
 >> 
 >> I agree, it's a perfectly fine coming out story it just does the least exciting thing with an interesting idea.
->> 
 
 ---
 

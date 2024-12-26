@@ -12,23 +12,23 @@
 
 ### Comments:
 
-> **u/Kishoto** [+5] *
+> **u/Kishoto** [+5]  (19 hours later)
 > 
 > Wow. Even though I called it that [](#s "Norman would be alive because anime logic.") I still managed to be surprised by this.
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (a day later)
 >> 
 >> I think it was the way it was presented.
->> It was obvious he was alive, but, usually, we get a sudden appearance by the "dead" character, followed by a chapter or two of flashbacks.
->> This sort of interlude chapter is not usual in manga, and managed to evoke a bigger reaction.
->> Tl;dr I think it was medium awareness, and not the plot twist itself, that was surprising
 >> 
+>> It was obvious he was alive, but, usually, we get a sudden appearance by the "dead" character, followed by a chapter or two of flashbacks.
+>> 
+>> This sort of interlude chapter is not usual in manga, and managed to evoke a bigger reaction.
+>> 
+>> Tl;dr I think it was medium awareness, and not the plot twist itself, that was surprising
 
-> **u/CeruleanTresses** [+3] *
+> **u/CeruleanTresses** [+3]  (3 hours later)
 > 
 > Well. That's horrible.
-> 
 
 ---
 

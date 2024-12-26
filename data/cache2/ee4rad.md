@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/ee4rad/pyrebound_chapter_eleven_a_disciple_in_distress/
-* Score: 23
+* Score: 22
 
 * Created: 2019-12-22T13:14:02
 
@@ -16,15 +16,13 @@ Pyrebound is a fantasy serial that's been running about a year now; I'm less pro
 
 ### Comments:
 
-> **u/Brell4Evar** [+5] *
+> **u/Brell4Evar** [+5]  (3 hours later)
 > 
 > Another great update >!with one hell of a twist!!<
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (7 hours later)
 >> 
 >> Thanks!  I aim to please.
->> 
 
 ---
 

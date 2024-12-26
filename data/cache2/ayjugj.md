@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/Slinkinator** [+1] *
+> **u/Slinkinator** [+1]  (6 minutes later)
 > 
 > If the sky is green I want to believe the sky is green, if magic is fading away I want to believe magic is fading away.
-> If the world is ending I want to believe the world is ending.
-> I just feel like if anything, this is what rationality is for.
 > 
+> If the world is ending I want to believe the world is ending.
+> 
+> I just feel like if anything, this is what rationality is for.
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Jiggidy40** [+1] *
+> **u/Jiggidy40** [+1]  (a day later)
 > 
 > I liked this!
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3l8fkc/weekly_challenge_blue_and_orange_morality/
-* Score: 28
+* Score: 29
 
 * Created: 2015-09-16T23:09:48
 
@@ -50,258 +50,227 @@ Next week's challenge is "Dangerously Genre Savvy", which it's hard to believe t
 
 ### Comments:
 
-> **u/None** [+50] *
+> **u/None** [+45]  (3 days later)
 > 
 > [deleted]
-> 
 
->> **u/Kishoto** [+8] *
+>> **u/Kishoto** [+9]  (4 days later)
 >> 
 >> Lmao, so I took it to mean that some alien race had figured out the heat death problem and were using AFs to remedy it. Score 1 for overly complex predictions
->> 
 
->> **u/Zephyr1011** [+6]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+4]  *Potentially Unfriendly Aspiring Divinity* (3 days later)
 >> 
 >> I cannot believe I did not get that twist until the end, despite the obvious hints peppered throughout. Great story
->> 
 
->>> **u/DCarrier** [+3] *
+>>> **u/DCarrier** [+3]  (7 days later)
 >>> 
 >>> I didn't get it until reading the comments.
->>> 
 
->> **u/Bowbreaker** [+3]  *Solitary Locust**
+>> **u/Bowbreaker** [+3]  *Solitary Locust* (5 days later)
 >> 
 >> From the very beginning they are described as having ships whose navigation is disabled through light but in the end Atlas is described as a bug himself. Also they have varied roles yet all seem to be night active. Are the characters the bugs or are they piloting the bugs and, if the second, is each one just piloting a single bug? With their ignorance of any type of vertebrae I was actually thinking that they may be some kind of micro-organism within said bugs.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (6 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (6 days later)
 >>>> 
 >>>> Who are the guys actually talking? Subsystems of one single bug? Wouldn't make sense with how Pepper is observing as Atlas flies away. The confusion mostly comes from the fact that in the last paragraph everything points to Atlas *his* wings and antennae and stuff as if they were parts of Atlas himself rather than of his vessel. On the other hand the amount of "people" in the conference and them having roles like Experimenter, Scout, Biologist, Gypsy, Trader and Carrier (and not just one guy per role) points away from the idea that each of them is one bug of the same species.
->>>> Regarding "Navigation", it seems to be something that the "people" *use* not are. So Navigation is one of the interface systems of the ships? What do the users represent?
 >>>> 
+>>>> Regarding "Navigation", it seems to be something that the "people" *use* not are. So Navigation is one of the interface systems of the ships? What do the users represent?
 
->>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (8 days later)
 >>>>> 
 >>>>> That confused me too.
->>>>> 
 
->> **u/None** [+13] *
+>> **u/None** [+10]  (4 days later)
 >> 
 >> I... what...  They're bugs.  They're bugs flying into the candles or lamps we put out at night.
->> Oh my fucking God you just made me feel bad for *bugs*.
 >> 
+>> Oh my fucking God you just made me feel bad for *bugs*.
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (4 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Bowbreaker** [+6]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+6]  *Solitary Locust* (5 days later)
 >>>> 
 >>>> I actually didn't see much regarding value differences. All we saw about their values is that they want to survive and prosper and that they also value learning and problem-solving. Pretty much like us humans, no? All they differed in was sensory abilities and scale.
->>>> Still a pretty cool story though.
 >>>> 
+>>>> Still a pretty cool story though.
 
->>>>> **u/None** [+6] *
+>>>>> **u/None** [+7]  (6 days later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/Bowbreaker** [+6]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+5]  *Solitary Locust* (6 days later)
 >>>>>> 
 >>>>>> Well, we don't "value" ultraviolet light and other frequencies either. I don't know if value is the right word. Other than that, we don't value their lives because we didn't notice they are sentient. Just like they probably don't value the "lives" of proteins or whatever. All a matter of scale as opposed to *actual* unbridgeable value differences like Baby-Eating.
->>>>>> 
 
->>> **u/RMcD94** [+3] *
+>>> **u/RMcD94** [+3]  (7 days later)
 >>> 
 >>> Really wish you'd spoilered your comment as I saw it before opening the doc.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 days later)
 >> 
 >> Mind = Blown
->> 
 
->> **u/DCarrier** [+1] *
+>> **u/DCarrier** [+1]  (7 days later)
 >> 
 >> But the light doesn't overpower the bugs navigation system. They just get it mixed up with the moon.
->> 
 
-> **u/Kishoto** [+16] *
+> **u/Kishoto** [+19]  (a day later)
 > 
 > [Your Word is Law](https://kishoto.wordpress.com/2015/09/18/your-word-is-law-rrational-challenge-blue-and-orange-morality/)
-
-> 2847 Words.
 > 
+> 2847 Words.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> Well *that* was quite brutal, though I can't help but think: *why the hell did you attempt to invade and annex a country full of people with whom One Does Not Cavort!?*
->> 
 
->>> **u/Kishoto** [+7] *
+>>> **u/Kishoto** [+6]  (2 days later)
 >>> 
 >>> Well...that's embarrassing. [](#s "I assume you thought they tried to invade because of the word conquests, used earlier in the story. That was a typo, a holdover of an older idea. What really happened was that the knights were passing through, on their way to somewhere else, and left the road, which is agreed upon neutral territory by Fae and man alike, to go into the woods, for shelter against the rain. They didn't follow any of the proper customs for requesting sanctuary, as Rikkart's Fae clan made the deal with the king that was our King's great-great-grandfather. And, as we know, customs, especially *superstitious* ones, fade in time. So when they stormed in, the Fae perceived it as an attack. Especially when they lit fires. Simple camp fires, but part of the agreement is that human fire shall not be struck within the walls of the wood. So tresspass + illegal fires = a pissed off Fae clan. And then the King continued to dishonor them, because his guardsmen constantly turned all of their emissaries away, once they made it known that they were Fae seeking peaceful reconciliation. Which they were, at the time. But the constant denials added greater and greater shame to Rikkart's clan. They gave the King, in Fae terms, a *ridiculously* long leash before they finally snapped. And found him guilty, worthy of divine retribution. And, as the Fae believe you're simply reincarnated when you die, this is NOT death. Death is almost a kindness. Divine retribution is suffering, plain and simple, to be delivered by the wronged. And Fae aren't known for being especially forgiving to someone who broke oaths. To the Fae, an oath breaker is almost worst than a cannibalistic pedophile.")
->>> EDIT: I've updated the story to ensure this sort of misconstruing won't occur again.
 >>> 
+>>> EDIT: I've updated the story to ensure this sort of misconstruing won't occur again.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> Oooooh.
->>>> 
 
->>>> **u/Lethalmud** [+2] *
+>>>> **u/Lethalmud** [+2]  (5 days later)
 >>>> 
 >>>> What i don't get is that rikkart also broke the oaths he made to the king. why don't those count?
->>>> 
 
->>>>> **u/Kishoto** [+1] *
+>>>>> **u/Kishoto** [+1]  (5 days later)
 >>>>> 
 >>>>> Well...[](#s "He took those oaths in bad faith. That is, the oaths he took as a guard of the king were in pursuit of divine retribution, which trumps all. On top of that, as the King had broken his word so many times by turning away the clans emissaries, he was considered honorless and unworthy of respect. So oaths taken with those who aren't worthy of them aren't sacred at all. As he couldn't be trusted to keep HIS promises, it is folly to hold any Fae to oaths made with him, as history says he'll just break them anyway.")
->>>>> 
 
->>>>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+2]  *Solitary Locust* (5 days later)
 >>>>>> 
 >>>>>> But isn't not keeping your oaths just because your enemy doesn't either essentially lowering yourself to his level?
->>>>>> 
 
->>>>>>> **u/Kishoto** [+2] *
+>>>>>>> **u/Kishoto** [+2]  (5 days later)
 >>>>>>> 
 >>>>>>> Not exactly. The person being an oathbreaker invalidates their ability to request oaths period. When Rikkart swore his vows to the King, he wasn't swearing oaths. He was speaking empty words, as the Fae don't believe in making oaths with oathbreakers. In addition, the oaths for human king guards are *human* oaths. The Fae don't have much respect for oaths of that nature, it's barely considered an oath to them (part of what makes it so blue and orange. The Fae aren't being hypocrites in their eyes. They just don't understand how you can swear important oaths without things like spiritual observance, herb burning and family input. A human oath, to them, is like if you told the average Westerner that culture A gets married by standing in a drum circle and swearing to the moon, and the newlyweds then go off and sleep with their spouse's parent as a sign of respect. The average person would be hard pressed to understand such a marriage, let alone take it seriously, as it's so alien to what you consider a "proper" marriage to be.)
->>>>>>> 
 
->>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (6 days later)
 >>>>>>>> 
 >>>>>>>> > The average person would be hard pressed to understand such a marriage, let alone take it seriously, as it's so alien to what you consider a "proper" marriage to be.
->>>>>>>> I guess in the age of us vs them and xenophobia that would have been true. Or maybe it's just that all the other marriage rituals I've heard of don't make much sense either :p
 >>>>>>>> 
+>>>>>>>> I guess in the age of us vs them and xenophobia that would have been true. Or maybe it's just that all the other marriage rituals I've heard of don't make much sense either :p
 
->>>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>>> **u/Kishoto** [+1]  (6 days later)
 >>>>>>>>> 
 >>>>>>>>> Also, note I said "the average person". As a purveyor of this sub, I'd assume you're at least somewhat rational. But ask the average person what they'd think of that sort of marriage. And I can practically guarantee you, even if they don't say it, that they probably don't consider the marriage all that equivalent.
->>>>>>>>> 
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (5 days later)
 >> 
 >> >May the spirits grant you a quick death under our tender mercies.
->> Irony? Meaningless saying? Seems strange for one of the Fae.
 >> 
+>> Irony? Meaningless saying? Seems strange for one of the Fae.
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (5 days later)
 >>> 
 >>> Irony in what way? The Fae aren't exactly spirits in this. There are greater spirits that they worship. Also it's meant as mocking. Rikkart has no intention of it being quick.
->>> 
 
->>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (5 days later)
 >>>> 
 >>>> The Fae is lying when he he besieges his spirit gods for something opposite of what he actually wishes to happen. Seems weird.
->>>> 
 
->>>>> **u/Kishoto** [+2] *
+>>>>> **u/Kishoto** [+2]  (5 days later)
 >>>>> 
 >>>>> Ah, I see what you mean. Well, it's not an honest request, as you noted. It's intended to be sarcastic and mocking. Despite saying the words, he didn't put any real intent behind them. The Fae aren't above lying, at least not to those who've committed such sacrilege. 
->>>>> Edit: by intent, I meant that he had no intent to actually request such a thing, so the spirits would ignore what he said.
 >>>>> 
+>>>>> Edit: by intent, I meant that he had no intent to actually request such a thing, so the spirits would ignore what he said.
 
->>>>> **u/Kishoto** [+2] *
+>>>>> **u/Kishoto** [+2]  (6 days later)
 >>>>> 
 >>>>> I probably could've added in a line that said something like "His smirk made it clear how false his statement was" or something.
->>>>> 
 
->>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (6 days later)
 >>>>>> 
 >>>>>> Nah. Don't do that. That'd make it worse for sure. It's mostly just something I wouldn't expect from a Fae of the type you seem to use in your story, not an actual flaw in the story itself.
->>>>>> 
 
->>>>>>> **u/Kishoto** [+1] *
+>>>>>>> **u/Kishoto** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> I can live with that. Flawed characters > flawed story :)
->>>>>>> 
 
->>>>> **u/TimTravel** [+2] *
+>>>>> **u/TimTravel** [+2]  (6 days later)
 >>>>> 
 >>>>> > he besieges his spirit gods
->>>>> Beseeches?
 >>>>> 
+>>>>> Beseeches?
 
->>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (6 days later)
 >>>>>> 
 >>>>>> That one. Thanks for the correction.
->>>>>> 
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (7 days later)
 >> 
 >> It annoys me when people say people are less than animals. You don't torture animal families to punish an animal, why would you do it to those less than animals? The things that suffer the most are always "above" animals. 
->> Especially fae would they even think of animals as below them? Depends on what Fae you have I suppose. 
->> Also I liked the references to old stuff that the King didn't know as it cements the fae longitude but I would have liked the champions spurned to have been the King's fathers decision.
 >> 
+>> Especially fae would they even think of animals as below them? Depends on what Fae you have I suppose. 
+>> 
+>> Also I liked the references to old stuff that the King didn't know as it cements the fae longitude but I would have liked the champions spurned to have been the King's fathers decision.
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (7 days later)
 >>> 
 >>> Well, do you think the emissaries to our current King were the only ones sent? It depends on how old you think our King is and how many decades ago the trespass occurred. I can guarantee that if it happened when the former King was in power, he did his share of turn aways. The Fae sent out one every few years, with decreasing frequency as the years past and their ire grew. 
->>> And you torture people's families because they have the capacity to be hurt by the suffering. While most animals will instinctively fight to protect their young, there's little observed empathy. A dog won't suffer because you beat it's kids. It might bite you,  but it won't suffer for it. At least not that we can tell. 
->>> And the Fae consider oathbreakers less than animals in the same way a person may consider a pedophile less than an animal. It's a crime that surmount the fundamental value that being has as a sentient intelligence.
 >>> 
+>>> And you torture people's families because they have the capacity to be hurt by the suffering. While most animals will instinctively fight to protect their young, there's little observed empathy. A dog won't suffer because you beat it's kids. It might bite you,  but it won't suffer for it. At least not that we can tell. 
+>>> 
+>>> And the Fae consider oathbreakers less than animals in the same way a person may consider a pedophile less than an animal. It's a crime that surmount the fundamental value that being has as a sentient intelligence.
 
-> **u/None** [+8] *
+> **u/None** [+11]  (a day later)
 > 
 > [Singer](https://docs.google.com/document/d/1ahBfQQekRA35vrqi-NBY5cFjpvRTB-EnnW2_raNxfBs/edit?usp=sharing)
-> 1033 words.
-> Cliched, but some anvils must be repeatedly dropped until the victim suffers from severe swelling.
 > 
+> 1033 words.
+> 
+> Cliched, but some anvils must be repeatedly dropped until the victim suffers from severe swelling.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (3 days later)
 >> 
 >> Oh good. You turned everyone into happy puddings.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (3 days later)
 >>> 
 >>> No, of course not.  Singer did that.
->>> The character or the professional philosopher?  Yes.
 >>> 
+>>> The character or the professional philosopher?  Yes.
 
->> **u/BadGoyWithAGun** [+2] *
+>> **u/BadGoyWithAGun** [+2]  (a day later)
 >> 
 >> I enjoyed the not-so-subtle jab at "effective altruism".
->> 
 
->>> **u/None** [+6] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> *comically straight face*
->>> Jab?  What jab?  How does taking the work of one of the world's greatest moral philosophers completely literally and at its own word constitute a *jab*?
 >>> 
+>>> Jab?  What jab?  How does taking the work of one of the world's greatest moral philosophers completely literally and at its own word constitute a *jab*?
 
->> **u/Kishoto** [+1] *
+>> **u/Kishoto** [+1]  (a day later)
 >> 
 >> It was a good read. I liked the funnily chirpy tone the creation seemed to convey. Made the contrast with his actions even more striking.
->> 
 
->> **u/want_to_want** [+1] *
+>> **u/want_to_want** [+1]  (a day later)
 >> 
 >> The premise was a little iffy, but the first paragraph and the last paragraph were genuinely great. Thank you for writing that!
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> By the last, do you mean the last narrative one, or the "copyright notice"?
->>> 
 
->>>> **u/want_to_want** [+1] *
+>>>> **u/want_to_want** [+1]  (a day later)
 >>>> 
 >>>> Narrative.
->>>> 
 
->> **u/whywhisperwhy** [+1] *
+>> **u/whywhisperwhy** [+1]  (6 days later)
 >> 
 >> I felt like this could've fit into the rational horror week as well, good story
->> 
 
 ---
 

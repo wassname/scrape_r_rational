@@ -2,7 +2,7 @@
 
 * Author: u/-Vecht-  *Legacy of the Goddess**
 * URL: https://www.reddit.com/r/rational/comments/c39xoq/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/
-* Score: 43
+* Score: 41
 
 * Created: 2019-06-21T12:26:14
 
@@ -18,58 +18,66 @@ As always, hope you enjoy. Feedback makes authors happy! :)
 
 ### Comments:
 
-> **u/MMK_II** [+9] *
+> **u/MMK_II** [+9]  (37 minutes later)
 > 
 > I become increasingly more excited to participate in this!
-> 
 
-> **u/Dictator_for_Hire** [+9] *
+> **u/Dictator_for_Hire** [+9]  (5 hours later)
 > 
 > Rational!Zelda? With a crossover twist? 
+> 
 > Interesting. I'm looking forward to seeing this quest in action after reading the prologue: I'm ready to smash some game mechanics like pots in the OoT guard house.
+> 
 > Feedback: 
+> 
 > * The maps could really use some scales 
 > * Will resources (such as the players' current inventory, health, stamina (if applicable), magic meter (if that's also a thing), etc. be mirrored on [chaossnek.com](https://chaossnek.com) ? 
 > * If users have technical issues with said site should they report feedback to you here on reddit via PM, start a conversation on SV, or will there be more functionalities on the website itself later on to address such issues?
-> Also I'm guessing that the crossover is with Dune. Not because it make sense but because it would be amazing if you could pull it off.
 > 
+> Also I'm guessing that the crossover is with Dune. Not because it make sense but because it would be amazing if you could pull it off.
 
->> **u/-Vecht-** [+3]  *Legacy of the Goddess**
+>> **u/-Vecht-** [+3]  *Legacy of the Goddess* (12 hours later)
 >> 
 >> > The maps could really use some scales
->> 1 hex is 20km at the widest point. This is true on both the local and world maps.
->> > Will resources (such as the players' current inventory, health, stamina (if applicable), magic meter (if that's also a thing), etc. be mirrored on chaossnek.com ?
->> I have a number of offline tools to manage this stuff but hadn't planned on putting it on the site. I might cobble together a status page. Lower priority at the moment, though.
->> > If users have technical issues with said site should they report feedback to you here on reddit via PM, start a conversation on SV, or will there be more functionalities on the website itself later on to address such issues?
->> You can report it directly to me anywhere you can reach me. Emailing admin at chaossnek also works.
->> > Also I'm guessing that the crossover is with Dune. Not because it make sense but because it would be amazing if you could pull it off.
->> That is an interesting guess. :)
 >> 
+>> 1 hex is 20km at the widest point. This is true on both the local and world maps.
+>> 
+>> > Will resources (such as the players' current inventory, health, stamina (if applicable), magic meter (if that's also a thing), etc. be mirrored on chaossnek.com ?
+>> 
+>> I have a number of offline tools to manage this stuff but hadn't planned on putting it on the site. I might cobble together a status page. Lower priority at the moment, though.
+>> 
+>> > If users have technical issues with said site should they report feedback to you here on reddit via PM, start a conversation on SV, or will there be more functionalities on the website itself later on to address such issues?
+>> 
+>> You can report it directly to me anywhere you can reach me. Emailing admin at chaossnek also works.
+>> 
+>> > Also I'm guessing that the crossover is with Dune. Not because it make sense but because it would be amazing if you could pull it off.
+>> 
+>> That is an interesting guess. :)
 
-> **u/jakeb89** [+5] *
+> **u/jakeb89** [+6]  (12 hours later)
 > 
 > If you would, please do make another post here (or just message me) when a thread of SV is up. I'd dearly like to watch it and was disappointed to find no SV thread and no way of subscribing to updates on the site the prologue is on.
-> 
 
-> **u/Salaris** [+2]  *Dominion Sorcerer**
+> **u/Salaris** [+2]  *Dominion Sorcerer* (3 days later)
 > 
 > Definitely interested in seeing more of this. Keep up the good work.
-> 
 
-> **u/jakeb89** [+1] *
+> **u/jakeb89** [+1]  (12 hours later)
 > 
 > !remindme 1 week
-> 
 
->> **u/RemindMeBot** [+1] *
+>> **u/RemindMeBot** [+1]  (13 hours later)
 >> 
 >> I will be messaging you on [**2019-06-29 01:29:03 UTC**](http://www.wolframalpha.com/input/?i=2019-06-29 01:29:03 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/rational/comments/c39xoq/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/errctv4/)
+>> 
 >> [**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/rational/comments/c39xoq/rtdc_legacy_of_the_goddess_a_rational_zelda_quest/errctv4/]%0A%0ARemindMe!  1 week) to send a PM to also be reminded and to reduce spam.
+>> 
 >> ^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! errd220)
+>> 
 >> _____
+>> 
 >> |[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
 >> |-|-|-|-|-|-|
->> 
 
 ---
 

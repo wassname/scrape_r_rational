@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/Suitov** [+1]  *The Culture**
+> **u/Suitov** [+1]  *The Culture* (14 days later)
 > 
 > I've been reading the [MLP Time Loops](http://www.fimfiction.net/story/98568/mlp-time-loops) and they've been very crackish and enjoyable.  They definitely come to fit most of the main rational-fic tropes, as first Twilight then more and more characters start looping.
-> There are copious crossovers. The extent to which you'll enjoy the crossover chapters depends entirely on your having watched or read various other media, including anime, films, Warhammerverse etc. I'd recommend having seen How To Train Your Dragon at least, because that plays an important expository role.
-> Occasional songfic warning, especially [two particular chapters](#s "the wedding chapters") which I found a bit over-schmaltzy.
 > 
+> There are copious crossovers. The extent to which you'll enjoy the crossover chapters depends entirely on your having watched or read various other media, including anime, films, Warhammerverse etc. I'd recommend having seen How To Train Your Dragon at least, because that plays an important expository role.
+> 
+> Occasional songfic warning, especially [two particular chapters](#s "the wedding chapters") which I found a bit over-schmaltzy.
 
 ---
 

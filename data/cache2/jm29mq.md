@@ -2,7 +2,7 @@
 
 * Author: u/DragonGod2718 *
 * URL: https://www.reddit.com/r/rational/comments/jm29mq/immortal_politician_munchkining_civilisation/
-* Score: 25
+* Score: 23
 
 * Created: 2020-11-01T13:32:24
 
@@ -24,410 +24,390 @@ Thanks in advance.
 
 ### Comments:
 
-> **u/everything-narrative** [+28]  *Coral, Abide with Rubicon!**
+> **u/everything-narrative** [+27]  *Coral, Abide with Rubicon!* (an hour later)
 > 
 > I think the main thing will be the ability to keep the peace.
-> Watch Matthew Colville's videos about politics, specifically the ones about how war is the natural state of human civilization, and how prolonged peace is only possibly due to concerted ongoing effort by dedicated diplomats.
-> Not being at war is of course a boon to civilian economic development, progressive social dynamics, and scientific advancement. Political stability above all else is the key to the creation of lasting superpowers.
-> Your immortal character would basically spend 90% of their work life convincing belligerent short-sighted political figures to not declare war. Perhaps even attempt to convince the public that war is in fact horrible. This will be difficult.
 > 
+> Watch Matthew Colville's videos about politics, specifically the ones about how war is the natural state of human civilization, and how prolonged peace is only possibly due to concerted ongoing effort by dedicated diplomats.
+> 
+> Not being at war is of course a boon to civilian economic development, progressive social dynamics, and scientific advancement. Political stability above all else is the key to the creation of lasting superpowers.
+> 
+> Your immortal character would basically spend 90% of their work life convincing belligerent short-sighted political figures to not declare war. Perhaps even attempt to convince the public that war is in fact horrible. This will be difficult.
 
->> **u/interested_commenter** [+7] *
+>> **u/interested_commenter** [+8]  (a day later)
 >> 
 >> >Not being at war is of course a boon to civilian economic development, progressive social dynamics, and scientific advancement.
->> That's not necessarily true. It is certainly true that peace can allow more resources to go towards advancing civilization, and long-term instability is a problem for a region, but there's also an argument that occasional wars are really important for preventing stagnation. The World Wars, for example, played a huge role in women's rights and mostly ended colonialism, while the Cold War was a huge contributor to technological advancements. Having an outside threat does a lot to unite people and get them to work together for the better of the country as a whole, in the absence of one people will make a much bigger issue out of small disagreements.
 >> 
+>> That's not necessarily true. It is certainly true that peace can allow more resources to go towards advancing civilization, and long-term instability is a problem for a region, but there's also an argument that occasional wars are really important for preventing stagnation. The World Wars, for example, played a huge role in women's rights and mostly ended colonialism, while the Cold War was a huge contributor to technological advancements. Having an outside threat does a lot to unite people and get them to work together for the better of the country as a whole, in the absence of one people will make a much bigger issue out of small disagreements.
 
->>> **u/everything-narrative** [+7]  *Coral, Abide with Rubicon!**
+>>> **u/everything-narrative** [+7]  *Coral, Abide with Rubicon!* (a day later)
 >>> 
 >>> True, but the World Wars also collectively killed slightly more people than the Spanish Flu, and the Cold War almost killed everyone several times. Whatever benefit they had, knowledge wise, was almost certainly not worth it in terms of the human costs; not only of the wars themselves, but the impact to political ideology.
->>> And the World Wars happened due to rapid changes in the political power structures in the form of German unification, followed by a period of peace caused by the efforts of several diplomats. Extending such a period of peace is feasible; the World Wars started more or less because these people died. It is also possible to go about unification-like power structure changes slowly enough that nobody will notice.
 >>> 
+>>> And the World Wars happened due to rapid changes in the political power structures in the form of German unification, followed by a period of peace caused by the efforts of several diplomats. Extending such a period of peace is feasible; the World Wars started more or less because these people died. It is also possible to go about unification-like power structure changes slowly enough that nobody will notice.
 
->>>> **u/interested_commenter** [+9] *
+>>>> **u/interested_commenter** [+9]  (a day later)
 >>>> 
 >>>> I'm not trying to claim that war is always a net benefit, the human costs are terrible and should be avoided. I'm just arguing that:
->>>> >Not being at war is of course a boon to progressive social dynamics and scientific advancement.
->>>> Is not necessarily the case. Even if you can insure peace (which is far from guaranteed), long periods of peace can present their own difficulties, which will have to be mitigated.
 >>>> 
+>>>> >Not being at war is of course a boon to progressive social dynamics and scientific advancement.
+>>>> 
+>>>> Is not necessarily the case. Even if you can insure peace (which is far from guaranteed), long periods of peace can present their own difficulties, which will have to be mitigated.
 
->>>> **u/wren42** [+4] *
+>>>> **u/wren42** [+4]  (2 days later)
 >>>> 
 >>>> People dying is not the same as civilization dying. Setting the threat of nuclear weapons aside for the moment, I'm not at sure we can know the technological advancements brought on by the competitive conditions of WWII and the cold war weren't "worth it" on a macro scale.  Its unethical on a personal level but if we are talking purely at the civilization level they may indeed have driven worthwhile changes and advancements.  The space program probably wouldn't exist without the cold war, and while you can argue that private companies are now pushing that front, the execs driving those projects probably wouldn't have been as inspired to do so without NASAs accomplishments.
->>>> 
 
-> **u/xachariah** [+20] *
+> **u/xachariah** [+22]  (12 hours later)
 > 
 > If you're an immortal leader, I don't think you need to do *literally anything* to muchkin civilization aside from being an immortal king and not being awful at the job.  One of the primary issues with governance is the peaceful transfer of power from one generation to the next and the resolution of disputes when there is no higher authority to arbitrate.  
-> The immortal king is basically cheat codes for infinite authority and his authority flows downward.  If you're a subordinate duke/noble/mayor having a succession crisis, normally IRL you'd fight it out.  Normally you could fight him or hope his succesor thinks different/is too weak to enforce it/doesn't care, but that's not the case here.  The immortal king has been around since before your family existed and will survive until after you're dust, and he is always in a position to arbitrate *and enforce* succession issues.  This essentially ends all significant internal conflict on an empire level.
-> On a practical level, the immortal king would be a combined secular and religious ruler.  The country could likely expand to the limits of what can be controlled by a single person without much trouble (roughly the height of Rome until new tech is invented).  Beyond those borders, it would be wise to engage in holy wars to create buffer states of believers of the Immortal King, but aren't directly under his administration.  
-> Anything beyond that comes down to your beliefs on what drives human advancement.  Some people believe that if you've got enough people with enough food/free time, then advancement will follow afterward as people are free to get educated and invent.  In that case, this empire auto-wins handily.  If you believe that instead conflict and changing civilization level pressures are required to push forward humanity and avoid internal signaling spirals, then the Immortal King would need to engage in some A-B testing for his provinces.
-> Regardless of what you do, he's got insanely strong cheat codes on.  Depending on the time period, I'd say it's arguably better than 'infinite money' or 'infinite food'.
 > 
+> The immortal king is basically cheat codes for infinite authority and his authority flows downward.  If you're a subordinate duke/noble/mayor having a succession crisis, normally IRL you'd fight it out.  Normally you could fight him or hope his succesor thinks different/is too weak to enforce it/doesn't care, but that's not the case here.  The immortal king has been around since before your family existed and will survive until after you're dust, and he is always in a position to arbitrate *and enforce* succession issues.  This essentially ends all significant internal conflict on an empire level.
+> 
+> On a practical level, the immortal king would be a combined secular and religious ruler.  The country could likely expand to the limits of what can be controlled by a single person without much trouble (roughly the height of Rome until new tech is invented).  Beyond those borders, it would be wise to engage in holy wars to create buffer states of believers of the Immortal King, but aren't directly under his administration.  
+> 
+> Anything beyond that comes down to your beliefs on what drives human advancement.  Some people believe that if you've got enough people with enough food/free time, then advancement will follow afterward as people are free to get educated and invent.  In that case, this empire auto-wins handily.  If you believe that instead conflict and changing civilization level pressures are required to push forward humanity and avoid internal signaling spirals, then the Immortal King would need to engage in some A-B testing for his provinces.
+> 
+> Regardless of what you do, he's got insanely strong cheat codes on.  Depending on the time period, I'd say it's arguably better than 'infinite money' or 'infinite food'.
 
->> **u/Geminii27** [+10] *
+>> **u/Geminii27** [+10]  (21 hours later)
 >> 
 >> The problem I could see with taking up the role of immortal god-king is that there's a real potential issue with calcification of society, power structures, and so on. Your subordinates would find the way you like to rule and build around that, their successors would find it easiest to just continue in the same vein, and so on. And it's unlikely you'll be able to be a perfect ruler in every single aspect, so things which became problems under your rule would never be able to be brought to light or rooted out by a change of leadership. They'd become intrinsic parts of society, ingrained, even if they were definitely bad for society as a whole.
->> It'd probably be better to share power in some manner, to allow yourself to be slowly moved on your stances, and to have some flexible back-channels to all levels of society so you can get real information on what the people of a given generation really want. It might also be an idea to not rule the entire species, but to allow other powerful countries and societies to exist - they might be able to come up with things that you didn't, or things which would have been very difficult for your own ruled area to achieve.
->> Maybe some kind of behind-the-scenes arrangement where you rule an area (covertly or overtly) for a century or so, then fade away, allow more democratic forms of rule to take place for two or three centuries, then come back under another name to clean house while keeping any improvements and new ideas which had bloomed in the intervening ten generations or so. You could even rotate between three or four large countries / empires / superpowers this way. Or spend some years here and there ruling much smaller areas - cities, towns etc - to keep up with the views of the populace and how they perceive national and international politics from the grass roots level.
 >> 
+>> It'd probably be better to share power in some manner, to allow yourself to be slowly moved on your stances, and to have some flexible back-channels to all levels of society so you can get real information on what the people of a given generation really want. It might also be an idea to not rule the entire species, but to allow other powerful countries and societies to exist - they might be able to come up with things that you didn't, or things which would have been very difficult for your own ruled area to achieve.
+>> 
+>> Maybe some kind of behind-the-scenes arrangement where you rule an area (covertly or overtly) for a century or so, then fade away, allow more democratic forms of rule to take place for two or three centuries, then come back under another name to clean house while keeping any improvements and new ideas which had bloomed in the intervening ten generations or so. You could even rotate between three or four large countries / empires / superpowers this way. Or spend some years here and there ruling much smaller areas - cities, towns etc - to keep up with the views of the populace and how they perceive national and international politics from the grass roots level.
 
->>> **u/wren42** [+3] *
+>>> **u/wren42** [+3]  (2 days later)
 >>> 
 >>> Yeah, I think the ruler would need to put a large portion of their effort into self improvement and keeping up with philosophical advancements.  Kind of like Ann Rice's vampires needing to adapt to changing times.
->>> 
 
->>> **u/Slyvena** [+0] *
+>>> **u/Slyvena** [+0]  (a day later)
 >>> 
 >>> Given real world examples of people being willing to alter their entire conceptions of reality even when it requires literally impossible logical leaps because a charismatic figure asked them too... I don't think calcification of society would be an issue for the God-King.  
 >>> You can literally announce the end of an Eon, reset the date to 0 with a new letter code and announce the Divine Alterations that all shall now live by. Almost no one would bat an eye, because He Who Knows All has spoken.
->>> 
 
->>>> **u/Geminii27** [+7] *
+>>>> **u/Geminii27** [+6]  (a day later)
 >>>> 
 >>>> True. I was thinking more along the lines of society calcifying around your own personal biases, mindsets, and ways of thinking, instead of having the opportunity to flex and adjust to new leaders and new modes of thought.
->>>> It's not that you'd necessarily be *bad* as a ruler; but it's all too easy to rule the same way today as you did yesterday, and never really change in any truly revolutionary manner.
 >>>> 
+>>>> It's not that you'd necessarily be *bad* as a ruler; but it's all too easy to rule the same way today as you did yesterday, and never really change in any truly revolutionary manner.
 
->>>>> **u/Slyvena** [+2] *
+>>>>> **u/Slyvena** [+2]  (a day later)
 >>>>> 
 >>>>> True. It might become quite hard to take the mayflowers opinions seriously knowing they'll be dead in a fraction of an eon.
->>>>> 
 
->>>>>> **u/Geminii27** [+3] *
+>>>>>> **u/Geminii27** [+3]  (2 days later)
 >>>>>> 
 >>>>>> A definite issue. Unless there was something keeping you thinking and moving on a human timescale, you'd need a human-scale effective government to do your day-to-day operations for you.
->>>>>> I've seen short fiction pieces where immortals effectively sit in a room thinking, and by the time they've made a decision about something like lunch, generations or centuries have passed, and entire cultures have risen and fallen. If they're thinking about what to do about a particular political problem, everyone involved in the original problem is dead and if the problem itself is anything more than a footnote in history, it may have warped all out of recognition.
 >>>>>> 
+>>>>>> I've seen short fiction pieces where immortals effectively sit in a room thinking, and by the time they've made a decision about something like lunch, generations or centuries have passed, and entire cultures have risen and fallen. If they're thinking about what to do about a particular political problem, everyone involved in the original problem is dead and if the problem itself is anything more than a footnote in history, it may have warped all out of recognition.
 
->>>>>>> **u/Slyvena** [+3] *
+>>>>>>> **u/Slyvena** [+3]  (2 days later)
 >>>>>>> 
 >>>>>>> I'd like the ones that take it from the opposite angle, the immortal becomes more and more impatient with any dawdling or delays over time, having witnessed it too many times. They like to ram through changes at breakneck speed without concern to any upheaval because "It will be better in a 100 years"
->>>>>>> 
 
->>>>>>>> **u/Geminii27** [+2] *
+>>>>>>>> **u/Geminii27** [+2]  (3 days later)
 >>>>>>>> 
 >>>>>>>> It might even be an issue of "Trust me, I've done this a thousand times, I know it will work, just get it done," where everyone else still wants to see the results of investigations on potential side-effects.
->>>>>>>> Aaaand then you start having parallels to parents saying "Because." when asked by a child why they have to do things.
->>>>>>>> And then the immortal decides that the fastest way to get these things done is to just take over as a god-king...
 >>>>>>>> 
+>>>>>>>> Aaaand then you start having parallels to parents saying "Because." when asked by a child why they have to do things.
+>>>>>>>> 
+>>>>>>>> And then the immortal decides that the fastest way to get these things done is to just take over as a god-king...
 
->>>> **u/VorpalAuroch** [+6]  *Life before Death**
+>>>> **u/VorpalAuroch** [+5]  *Life before Death* (a day later)
 >>>> 
 >>>> > Given real world examples of people being willing to alter their entire conceptions of reality even when it requires literally impossible logical leaps because a charismatic figure asked them too... I don't think calcification of society would be an issue for the God-King.
->>>> What? No. That is a large part of why it would be an issue for The Emperor. Charismatic people aren't immune to their own charisma, and reflected charisma (everyone around you thinking you're wonderful and ineffable) doubly so. They will believe whatever you tell them, but *so will you*. If you were in this position, you would calcify just as much as your bureaucracy.
 >>>> 
+>>>> What? No. That is a large part of why it would be an issue for The Emperor. Charismatic people aren't immune to their own charisma, and reflected charisma (everyone around you thinking you're wonderful and ineffable) doubly so. They will believe whatever you tell them, but *so will you*. If you were in this position, you would calcify just as much as your bureaucracy.
 
->>>>> **u/Slyvena** [+1] *
+>>>>> **u/Slyvena** [+1]  (a day later)
 >>>>> 
 >>>>> Maybe. It would depend a lot on your personality.  
 >>>>> More importantly it would depend on if your memory is limitless. People change and are influenced to adopt new ideas their whole lives by those around them, provided you *wanted* input, you could continue to progress through osmosis.  
 >>>>> If your memory is limitless though, eventually no one could be novel in any way and you'd have the answer for why your way was best before they half-finished their first sentence. (Although, but that stage there is a fair-to-even chance that your way *is* best)
->>>>> 
 
->>>>>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>>>>> **u/VorpalAuroch** [+3]  *Life before Death* (2 days later)
 >>>>>> 
 >>>>>> No, personality is almost entirely irrelevant. This is a fact about human psychology as shaped by evolutionary pressure in hunter-gatherer environments. Charismatic people create echo chambers automatically unless they work very hard to prevent it, and often even if they *do* work hard to prevent it. The higher the status differential (and it's a safe bet that an immortal emperor would max that out) the stronger this effect gets.
->>>>>> 
 
->>>>>>> **u/Slyvena** [+1] *
+>>>>>>> **u/Slyvena** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> There is a difference between an echo chamber and the literal inability to find alternative views. Once you know you are surrounded by yes-men, it is remarkably easy to dismiss their opinions as meaningless repetition, hell just pronounce something obviously stupid every now and then to see if you've got any genuine company that will point it out.But your own ability to progress is unhindered, particularly when you can phrase investigative requests well. Hell, if we are going full brutal god-king then I imagine your servants would get the picture by about the 3rd time batch of executions for providing a report that simply said "all your ideas were great and nothing is wrong with them" that you preferred a more critical outlook.The key issue as to why it would be so easy is because we have passed the key threshold from 'significant' power to 'absolute'. Normal Charismatic people have restrictions on the measures they can take; once a Cult of Personality has settled in, you do not.
->>>>>>> (The inverse is also true, it is entirely possible, and I would argue more likely, to spiral into increasing levels of moral perversion and debauchery. If we are going to through in evolutionary pressure, then I'd wager the human psyche is not stable, there is no perpetual static state that can be achieved. Our minds are shaped by our environment, but the effect can be reinforcement or inversion or any mix between depending on the individual and their reactions to such stimulus.)  
-
->>>>>>> edit: Thrilling points by way.
 >>>>>>> 
+>>>>>>> (The inverse is also true, it is entirely possible, and I would argue more likely, to spiral into increasing levels of moral perversion and debauchery. If we are going to through in evolutionary pressure, then I'd wager the human psyche is not stable, there is no perpetual static state that can be achieved. Our minds are shaped by our environment, but the effect can be reinforcement or inversion or any mix between depending on the individual and their reactions to such stimulus.)  
+>>>>>>> 
+>>>>>>> edit: Thrilling points by way.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> Thanks, I see how an immortal king makes things much simpler.
->> 
 
->> **u/VorpalAuroch** [+1]  *Life before Death**
+>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >> 
 >> That does assume that you're the "can't be killed" category of immortal, rather than the weaker "will not die naturally" version. And some varieties of "can't be killed", e.g. Leareth from A Song For Two Voices, aren't good enough; >!he reincarnates quickly when killed, but not necessarily near his previous location, and he takes some time to reestablish continuity of memory and self.!< That would be insufficient to be an implacable eternal king with a monopoly on legitimacy.
->> 
 
-> **u/GullibleCynic** [+11] *
+> **u/GullibleCynic** [+11]  (an hour later)
 > 
 > Though not quite the same, the entire sub-genre of 'self insert' alternate history is vaguely similar. A character from the future (sometimes the author, sometimes not) wakes up in the body of some past ruler or other important person. The most common route after that is to attempt some form of civilizational uplift - medicine, technology, social structures. Occasionally, that character is reborn again and again as their heir, allowing them to rule all the way to the modern day. More often they only get the one extra life though.
-> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> I would appreciate some recommendations.
->> 
 
->>> **u/GullibleCynic** [+6] *
+>>> **u/GullibleCynic** [+6]  (a day later)
 >>> 
 >>> These are all on [alternatehistory.com](https://alternatehistory.com). You will likely need to make an account to read them, but its free
->>>  [The Forme of Cury: A Richard II SI.](https://www.alternatehistory.com/forum/threads/the-forme-of-cury-a-richard-ii-si.491544/) 
->>>  [Enter the Dragon! (Tongzhi Emperor SI)](https://www.alternatehistory.com/forum/threads/enter-the-dragon-tongzhi-emperor-si.478593/) 
->>>  [The Great Mughal (Akbar the Great SI)](https://www.alternatehistory.com/forum/threads/the-great-mughal-akbar-the-great-si.497245/) 
->>>  [A Caged Bird in the Land of Eagles (King Zog SI)](https://www.alternatehistory.com/forum/threads/a-caged-bird-in-the-land-of-eagles-king-zog-si.480861/) 
->>>  [When in Rome: A Savoy Monarchy SI](https://www.alternatehistory.com/forum/threads/when-in-rome-a-savoy-monarchy-si.453787/) 
->>>  [The Industrial Revolutionary: The Reign of Queen Victoria I the Second](https://www.alternatehistory.com/forum/threads/the-industrial-revolutionary-the-reign-of-queen-victoria-i-the-second.405082/) 
->>>  ['Tis But a Scratch: A Nicholas II SI](https://www.alternatehistory.com/forum/threads/tis-but-a-scratch-a-nicholas-ii-si.393118/) 
->>>  [It's Chins All The Way Down (Franz Joseph SI)](https://www.alternatehistory.com/forum/threads/its-chins-all-the-way-down-franz-joseph-si.432525/)  (I think this is the only one that is complete)
->>> Like a lot of amateur fiction, most of these are unfinished. But they usually get far enough along to show the shape of things. 
->>> &#x200B;
->>> There is also [With this Ring](https://forum.questionablequesting.com/threads/with-this-ring-young-justice-si-story-only.8961/) which is a self insert into the Young Justice cartoon with heavy emphasis on civilizational uplift, and [reality ensues](https://tvtropes.org/pmwiki/pmwiki.php/Main/RealityEnsues). Updates daily
 >>> 
+>>>  [The Forme of Cury: A Richard II SI.](https://www.alternatehistory.com/forum/threads/the-forme-of-cury-a-richard-ii-si.491544/) 
+>>> 
+>>>  [Enter the Dragon! (Tongzhi Emperor SI)](https://www.alternatehistory.com/forum/threads/enter-the-dragon-tongzhi-emperor-si.478593/) 
+>>> 
+>>>  [The Great Mughal (Akbar the Great SI)](https://www.alternatehistory.com/forum/threads/the-great-mughal-akbar-the-great-si.497245/) 
+>>> 
+>>>  [A Caged Bird in the Land of Eagles (King Zog SI)](https://www.alternatehistory.com/forum/threads/a-caged-bird-in-the-land-of-eagles-king-zog-si.480861/) 
+>>> 
+>>>  [When in Rome: A Savoy Monarchy SI](https://www.alternatehistory.com/forum/threads/when-in-rome-a-savoy-monarchy-si.453787/) 
+>>> 
+>>>  [The Industrial Revolutionary: The Reign of Queen Victoria I the Second](https://www.alternatehistory.com/forum/threads/the-industrial-revolutionary-the-reign-of-queen-victoria-i-the-second.405082/) 
+>>> 
+>>>  ['Tis But a Scratch: A Nicholas II SI](https://www.alternatehistory.com/forum/threads/tis-but-a-scratch-a-nicholas-ii-si.393118/) 
+>>> 
+>>>  [It's Chins All The Way Down (Franz Joseph SI)](https://www.alternatehistory.com/forum/threads/its-chins-all-the-way-down-franz-joseph-si.432525/)  (I think this is the only one that is complete)
+>>> 
+>>> Like a lot of amateur fiction, most of these are unfinished. But they usually get far enough along to show the shape of things. 
+>>> 
+>>> &#x200B;
+>>> 
+>>> There is also [With this Ring](https://forum.questionablequesting.com/threads/with-this-ring-young-justice-si-story-only.8961/) which is a self insert into the Young Justice cartoon with heavy emphasis on civilizational uplift, and [reality ensues](https://tvtropes.org/pmwiki/pmwiki.php/Main/RealityEnsues). Updates daily
 
->>>> **u/DragonGod2718** [+1] *
+>>>> **u/DragonGod2718** [+1]  (a day later)
 >>>> 
 >>>> Thanks, I'll be saving this comment.
->>>> 
 
-> **u/VorpalAuroch** [+8]  *Life before Death**
+> **u/VorpalAuroch** [+8]  *Life before Death* (2 hours later)
 > 
 > The first thing that comes to mind is [A Song For Two Voices](https://archiveofourown.org/series/936480), but it's not a great match and the explanation is a moderate spoiler. It's not the main protagonist who fits your description. >!The main antagonist, Leareth, is someone who has done exactly that for two millennia. He!< frequently has private conversations with the main protagonist, Vanyel, >!via a shared lucid dream, in which they talk about the subject and what he's tried, and why he is currently trying a different, horrifying plan which requires invading Valdemar.!<
-> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> Thanks for the rec. Primary antagonist seems fine as well.
->> 
 
->>> **u/VorpalAuroch** [+2]  *Life before Death**
+>>> **u/VorpalAuroch** [+2]  *Life before Death* (a day later)
 >>> 
 >>> It's also mostly not during the *present*. >!It's in his history, rather than actively in progress. Though they have many conversations about the topic and he frequently recommends books to Vanyel, many of which he wrote!< in a past life.
->>> 
 
->> **u/Ibbot** [+1] *
+>> **u/Ibbot** [+1]  (a day later)
 >> 
 >> I know it's not the fanfiction author's fault, but I just couldn't stay with it once >!the love interest got fridged so early on.  I mean, Bury Your Gays much?!<
->> 
 
->>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >>> 
 >>> Is there some other way of giving the protagonist crippling suicidal depression you'd prefer? It's only a slight exaggeration to say that you did not actually read any of A Song for Two Voices; book 1 is essentially a prequel.
->>> IIRC, ASfTV actually adds far more agency to Tylendel than canon; it's implied >!during his death scene!< that he has Foresight of Vanyel becoming the ridiculously powerful mage who can save Valdemar and that it requires the trauma he's about to be put through, and that Tylendel has a genuine choice between he and Van's well-beings and Valdemar's future, and chooses Valdemar. That definitely isn't in canon.
 >>> 
+>>> IIRC, ASfTV actually adds far more agency to Tylendel than canon; it's implied >!during his death scene!< that he has Foresight of Vanyel becoming the ridiculously powerful mage who can save Valdemar and that it requires the trauma he's about to be put through, and that Tylendel has a genuine choice between he and Van's well-beings and Valdemar's future, and chooses Valdemar. That definitely isn't in canon.
 
->>>> **u/Ibbot** [+1] *
+>>>> **u/Ibbot** [+1]  (a day later)
 >>>> 
 >>>> I started reading the collection you linked two which is entitled "A Song for Two Voices", although I admit I didn't read much beyond the first part.  I don't know if there's some other way that I would have preferred, and I don't blame the author for following their source material, but it does bother me enough that I haven't been able to get myself to return to the rest of the material.  So it's just not for me, and anyone who is ok with spoilers can see why and decide for themselves if they still want to read it.
->>>> 
 
-> **u/PastafarianGames** [+7] *
+> **u/PastafarianGames** [+7]  (9 hours later)
 > 
 > The Dune series goes this way! Uh, spoilers, I guess.
-> 
 
->> **u/Roneitis** [+2] *
+>> **u/Roneitis** [+2]  (10 hours later)
 >> 
 >> Book 4!!!
->> 
 
->>> **u/Nimelennar** [+5] *
+>>> **u/Nimelennar** [+4]  (14 hours later)
 >>> 
 >>> Although Leto II's goal wasn't so much "advancing/progressing their society" as "how many existential threats can I eliminate?"
->>> 
 
->>>> **u/Roneitis** [+3] *
+>>>> **u/Roneitis** [+4]  (20 hours later)
 >>>> 
 >>>> I mean, does freeing society from the shackles of destiny not count?
->>>> 
 
-> **u/Predictablicious** [+6]  *Only Mark Annuncio Saves**
+> **u/Predictablicious** [+5]  *Only Mark Annuncio Saves* (7 hours later)
 > 
 > Puella Magi Madoka Magica's fanfic [To the Stars](https://www.fanfiction.net/s/7406866/1/To-the-Stars) tackles with this question, as it takes place several centuries in the future and the Puella Magi are essentially immortal and heavily involved in politics.
-> 
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (a day later)
 >> 
 >> Thanks for the rec. I've never seen PMMM, is it required?
->> 
 
->>> **u/VorpalAuroch** [+5]  *Life before Death**
+>>> **u/VorpalAuroch** [+5]  *Life before Death* (a day later)
 >>> 
 >>> It is not, but makes some of the weirder setting elements (there's a religion which is not widely believed, but is literally true) look less random.
->>> However, those same elements make it fairly major spoilers for the ending of PMMM, and PMMM is *short*, so I would strongly recommend watching it. Not necessarily before starting To the Stars, but probably before Vol. 2 of TtS.
 >>> 
+>>> However, those same elements make it fairly major spoilers for the ending of PMMM, and PMMM is *short*, so I would strongly recommend watching it. Not necessarily before starting To the Stars, but probably before Vol. 2 of TtS.
 
->>>> **u/DragonGod2718** [+1] *
+>>>> **u/DragonGod2718** [+1]  (a day later)
 >>>> 
 >>>> I'll give it a shot.
->>>> 
 
-> **u/CaseyAshford** [+5] *
+> **u/CaseyAshford** [+5]  (13 hours later)
 > 
 > I would recommend the quest  "What Can SV Teach an Evil Sorceress? writing, roads, bloomeries, gunpowder, & sailing, maybe" over on Sufficient Velocity. It involves the quest participants communicating with Immortal Ruler with timeskips showing how she takes advantage of their advice and information. I think it does a great job showing some of the difficulties in actually pursuing the whole "uplift" plan in the real world and the limitations that even an Immortal Ruler will operate under.
-> &#x200B;
-> Here is a brief biography of the Immortal Ruler:
-> Bianca the Undying is a small, evil woman who knows magic and has not died, despite looking like she probably should have at some point. Her early life took place in the Paleolithic, in which she has said that she traveled around quite a bit and came to understand the malleable nature of populations of people and animals and even the land itself. At some point she was trapped underground, to her displeasure. She remained trapped for a *very* long time.
-> When Bianca got out, she found her way to a community of eight tribes living pastoral and agrarian lifestyles in the local Copper Age. She made these people hers and they relied on her for magically enriching their fields so that they did not need to slash, burn, and move around a bit, unlike their neighbors. Bianca and her followers formalized their relationships into the Eight Ways Pact. Later, another tribe joined Bianca’s followers bringing small horses and the Bronze Age and their pact was updated with a ninth directive.
-> Bianca has an agenda that requires her to have more power than she does right now. She believes that achieving divinity will get her that power.
 > 
+> &#x200B;
+> 
+> Here is a brief biography of the Immortal Ruler:
+> 
+> Bianca the Undying is a small, evil woman who knows magic and has not died, despite looking like she probably should have at some point. Her early life took place in the Paleolithic, in which she has said that she traveled around quite a bit and came to understand the malleable nature of populations of people and animals and even the land itself. At some point she was trapped underground, to her displeasure. She remained trapped for a *very* long time.
+> 
+> When Bianca got out, she found her way to a community of eight tribes living pastoral and agrarian lifestyles in the local Copper Age. She made these people hers and they relied on her for magically enriching their fields so that they did not need to slash, burn, and move around a bit, unlike their neighbors. Bianca and her followers formalized their relationships into the Eight Ways Pact. Later, another tribe joined Bianca’s followers bringing small horses and the Bronze Age and their pact was updated with a ninth directive.
+> 
+> Bianca has an agenda that requires her to have more power than she does right now. She believes that achieving divinity will get her that power.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> Thanks, I'll check it out.
->> 
 
-> **u/xThoth19x** [+7] *
+> **u/xThoth19x** [+5]  (20 hours later)
 > 
 > You might be interested in something like CK3 if you wanted to try your hand at doing this in medieval sims slash grand strategy game yourself. Others have noted that the transition of power is a difficult time for society prone to rebellions and upheaval that hurts commerce and science. 
-> One thing that wasn't mentioned so far is that an immortal ruler had time to become increasingly competent at ruling. Naturally the assumption on most of these stories is that the SI is already competent. But that's mostly just munchikining.
->  In fact being immortal one might have personal experience in governing certain areas of the realm and know lots of local traditions and be known in folk tales. They will have large amounts of fame and prestige that command respect. They will know all of the feudal vassals from birth. It's kinda hard to rebel against a king who taught you when you were five and not feel like a rambunctious child. 
-> You might know more of the terrain in your realm during climate cycles. You also have a different mentality when looking at infrastructure. Kings can look at new roads and say "I want to invade my neighbor so let's build a road" but an immortal can say "we will get slightly more trade and scientific advantage by interacting with more people" by building that road. This makes reinvesting a great idea. 
-> An immortal king might be able to father immortal children. Which has problems and benefits. But even if not they can tie themselves to nearby dynasties bc they will outlive their partners. Still being married to one neighbors daughter after being married to another neighbors sister and another neighbors aunt would likely cause more peace in the area. 
-> You also have a great way of controlling the public opinion via propoganda and blackmail. If you're the only person still alive from 200 years ago, no one can really argue with your version of events.
 > 
+> One thing that wasn't mentioned so far is that an immortal ruler had time to become increasingly competent at ruling. Naturally the assumption on most of these stories is that the SI is already competent. But that's mostly just munchikining.
+> 
+>  In fact being immortal one might have personal experience in governing certain areas of the realm and know lots of local traditions and be known in folk tales. They will have large amounts of fame and prestige that command respect. They will know all of the feudal vassals from birth. It's kinda hard to rebel against a king who taught you when you were five and not feel like a rambunctious child. 
+> 
+> You might know more of the terrain in your realm during climate cycles. You also have a different mentality when looking at infrastructure. Kings can look at new roads and say "I want to invade my neighbor so let's build a road" but an immortal can say "we will get slightly more trade and scientific advantage by interacting with more people" by building that road. This makes reinvesting a great idea. 
+> 
+> An immortal king might be able to father immortal children. Which has problems and benefits. But even if not they can tie themselves to nearby dynasties bc they will outlive their partners. Still being married to one neighbors daughter after being married to another neighbors sister and another neighbors aunt would likely cause more peace in the area. 
+> 
+> You also have a great way of controlling the public opinion via propoganda and blackmail. If you're the only person still alive from 200 years ago, no one can really argue with your version of events.
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (21 hours later)
 >> 
 >> Thanks for the extra advantages you pointed out.
->> 
 
->>> **u/xThoth19x** [+2] *
+>>> **u/xThoth19x** [+2]  (21 hours later)
 >>> 
 >>> Np. I enjoyed thinking about it.
->>> 
 
-> **u/CronoDAS** [+4] *
+> **u/CronoDAS** [+5]  (3 hours later)
 > 
 > You might want to look at "Noninterference" by Harry Turtledove.
-> https://turtledove.fandom.com/wiki/Noninterference
 > 
+> https://turtledove.fandom.com/wiki/Noninterference
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> > "Noninterference" by Harry Turtledove.
->> Thanks for the rec!
 >> 
+>> Thanks for the rec!
 
->>> **u/CronoDAS** [+2] *
+>>> **u/CronoDAS** [+2]  (a day later)
 >>> 
 >>> Unfortunately most of the munchkining takes place off-screen. Still a decent story though.
->>> 
 
-> **u/ArmokGoB** [+4] *
+> **u/ArmokGoB** [+4]  (4 hours later)
 > 
 > There's a bit in https://qntm.org/structure that does this really well, but it doesn't start until several books-lengths into it.
-> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> Thanks for the rec.
->> 
 
-> **u/Nimelennar** [+3] *
+> **u/Nimelennar** [+3]  (4 hours later)
 > 
 > I'm almost reminded of the conclusion of the Foundation series, where >!R. Daneel Olivaw!< shows up and reveals that he has been guiding human history.
-> 
 
->> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (5 hours later)
 >> 
 >> The worst retcon. He should never have merged the Robots and Foundation.
->> 
 
->>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>> **u/VorpalAuroch** [+3]  *Life before Death* (a day later)
 >>> 
 >>> Disagree. That retcon made a fair amount of sense. The *other* retcon, where >!Gaia exists and has been keeping things on track!<, is far worse.
->>> 
 
->>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (a day later)
 >>>> 
 >>>> I'm talking about the whole "combine robots and foundation" retcon. I just quit reading Asimov (his SF, anyway) at that point.
->>>> 
 
->>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >>>>> 
 >>>>> IIRC, that combination was the first time the "0th Law" was brought up as an idea, and I really like the discussion that added. Robots realize that the structure which includes their three laws implies an underlying principle, but they don't actually have the capacity to judge whether they are following the principle and have to engage in long-term plans to make that easier, in order to avoid the same trap that [DMPoR](https://www.fanfiction.net/s/11223914/1/Draco-Malfoy-and-the-Practice-of-Rationality) puts Harry in.
->>>>> 
 
->>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>>>> 
 >>>>>> Asimov originally created the three laws as a deliberately broken logical framework for writing detective stories and similar puzzles in a science fiction universe. They were never supposed to actually be real or realistic, they were designed to be broken in an interesting way.
->>>>>> The problem is Asimov started taking them seriously, to the point that when he was watching 2001 for the first time he loudly complained that HAL was breaking first law.
->>>>>> So I can't take the development of the zeroth law seriously. It's all part of this huge retcon from an Asimov who'd caught fandom disease.
 >>>>>> 
+>>>>>> The problem is Asimov started taking them seriously, to the point that when he was watching 2001 for the first time he loudly complained that HAL was breaking first law.
+>>>>>> 
+>>>>>> So I can't take the development of the zeroth law seriously. It's all part of this huge retcon from an Asimov who'd caught fandom disease.
 
->> **u/earnestadmission** [+2]  *Singular "they" user**
+>> **u/earnestadmission** [+2]  *Singular "they" user* (8 hours later)
 >> 
 >> >!The R stands for Robot!<
->> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (a day later)
 >> 
 >> Was this an active component of the books? (I didn't click on the spoiler).
->> 
 
->>> **u/Nimelennar** [+3] *
+>>> **u/Nimelennar** [+3]  (a day later)
 >>> 
 >>> Not really.  It seemed to me that it was tacked on at the end.
->>> Although Asimov went back and wrote a prequel to the original Foundation novel that had the same character in it, to show that he had been involved in events all along.  One of the secondary characters of Foundation may have even been retconned into being that same immortal character; I don't remember.
 >>> 
+>>> Although Asimov went back and wrote a prequel to the original Foundation novel that had the same character in it, to show that he had been involved in events all along.  One of the secondary characters of Foundation may have even been retconned into being that same immortal character; I don't remember.
 
-> **u/Veerdavid** [+3] *
+> **u/Veerdavid** [+3]  (17 hours later)
 > 
 > The first Mistborn trilogy by Brandon Sanderson comes to mind.
-> 
 
->> **u/ulyssessword** [+2] *
+>> **u/ulyssessword** [+2]  (18 hours later)
 >> 
 >> It does come to mind, but as a negative example.  The Lord Ruler is certainly an immortal politician (for a loose definition of "politician"), but he is not advancing society in any way.
->> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (21 hours later)
 >> 
 >> I've heard this rec, it's first on my mind.
->> 
 
->> **u/dinoseen** [+1] *
+>> **u/dinoseen** [+1]  (14 days later)
 >> 
 >> Immortal ruler yes, but he's basically focussed on just keeping things the same. He's the type of guy who doesn't like guns because anyone can use them, and suppresses technological advancement for 1024 years.
->> 
 
-> **u/clawclawbite** [+3] *
+> **u/clawclawbite** [+3]  (18 hours later)
 > 
 > Related, but not exactly what you want is The Incrementalists, by Steven Brust.
-> A group of immortals trying improve the world to improve their own quality of life. Not politicians, but expert social engineers.
 > 
+> A group of immortals trying improve the world to improve their own quality of life. Not politicians, but expert social engineers.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (21 hours later)
 >> 
 >> I'll note the recommendation.
->> 
 
-> **u/CCC_037** [+3] *
+> **u/CCC_037** [+3]  (4 days later)
 > 
 > It's not all *that* rational, but the combination of an immortal ruler and a non-immortal population is also found in *My Little Pony* - Princess Celestia has been in charge for well over a thousand years by the time of the show. She may be munchkinning civilisation in the direction of having her people be happy and safe)
-> 
 
-> **u/Dezoufinous** [+2] *
+> **u/Dezoufinous** [+2]  (10 hours later)
 > 
 > Remember that people would easily notice that after few generations their leader is not aging. This could be used at you advantage (could give you a godlike status), but could also put you in danger (assasination attempts, etc).
-> By the way, making the leader really 'hard to kill' would open much more possibilities, because he could also act as warrior or help with scientific experiments.
 > 
+> By the way, making the leader really 'hard to kill' would open much more possibilities, because he could also act as warrior or help with scientific experiments.
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (a day later)
 >> 
 >> > By the way, making the leader really 'hard to kill' would open much more possibilities, because he could also act as warrior or help with scientific experiments.
->> Aah, not really what I'm looking for. I care mostly about sociopolitical munchkinry afforded to long time horizons.
 >> 
+>> Aah, not really what I'm looking for. I care mostly about sociopolitical munchkinry afforded to long time horizons.
 
-> **u/Chaigidel** [+2] *
+> **u/Chaigidel** [+2]  (18 hours later)
 > 
 > The Emperor in Steph Swainston's *Fourlands* series is like this, but the books don't really focus on him.
-> 
 
-> **u/Silphendio** [+2] *
+> **u/Silphendio** [+2]  (8 days later)
 > 
 > [A Journey of Black and Red](https://www.royalroad.com/fiction/26675/a-journey-of-black-and-red) might be worth a look. It's about a vampire living in the 19th century united states. More of an adventure story really, but the protagonist is immortal and has political aspirations. (though it takes a while to get there)
-> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (8 days later)
 >> 
 >> Thanks for the recommendation.
->> 
 
-> **u/covert_operator100** [+1] *
+> **u/covert_operator100** [+1]  (22 days later)
 > 
 > There is a side character in a RT-Fantasy story called Mother of Learning: Quatach-Ichl, a millenia-old Lich, king of a state formed by undead nobility who were all-at-once exiled from the biggest empire of the land. There isn't much treatment of how he ran his society, but there was clearly a significant transhumanist element to their particular focus on Soul Magic and >!long-distance teleportation.!<
-> 
 
 ---
 

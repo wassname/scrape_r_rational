@@ -20,11 +20,11 @@ The upload frequency (and quality) of future chapters will depend heavily on rea
 
 ### Comments:
 
-> **u/Marthinwurer** [+1] *
+> **u/Marthinwurer** [+1]  (5 days later)
 > 
 > https://coopershopefuls.blogspot.com/2017/01/1a-mary-intro.html?m=1
-> First article on the blog, have to read it to tell if it's the first chapter.
 > 
+> First article on the blog, have to read it to tell if it's the first chapter.
 
 ---
 

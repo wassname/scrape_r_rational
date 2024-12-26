@@ -20,131 +20,120 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/None** [+8] *
+> **u/None** [+8]  (2 hours later)
 > 
 > /r/CircleofTrust 
-> Reddit's April Fool's prank this year involves creating 'circles' which are threads in that subreddit, in which you can give people a password and invite them in. It appears that getting more people is 'good' in a similar way to how 'karma' is good.
-> You can get betrayed however. Every person who enters the code has a choice to join or betray, so be careful who you trust. You do not know who betrays your circle.
-> It appears to have something to do with game theory and the prisoner's dilemma. People in the subreddit have flairs in the format like 0,0 or 7,5.
 > 
+> Reddit's April Fool's prank this year involves creating 'circles' which are threads in that subreddit, in which you can give people a password and invite them in. It appears that getting more people is 'good' in a similar way to how 'karma' is good.
+> 
+> You can get betrayed however. Every person who enters the code has a choice to join or betray, so be careful who you trust. You do not know who betrays your circle.
+> 
+> It appears to have something to do with game theory and the prisoner's dilemma. People in the subreddit have flairs in the format like 0,0 or 7,5.
 
->> **u/crivtox** [+8]  *Closed Time Loop Enthusiast**
+>> **u/crivtox** [+7]  *Closed Time Loop Enthusiast* (4 hours later)
 >> 
 >> But it isnt a prisioner dilema.
 >> Not all game theoretic things whith the words trust and betray have anything to do whith prisioners dilema.
 >> You can set up a prisioners dilema whith it , by interchanging  keys or  something like that .
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (4 hours later)
 >>> 
 >>> I was wrong, I thought it'd be a prisoner's dillema type situation, turns out it isn't really.
->>> 
 
->> **u/TempAccountIgnorePls** [+1] *
+>> **u/TempAccountIgnorePls** [+1]  (4 hours later)
 >> 
 >> Just for fun (and because I really don't know what else to do with this), I'm going to see how trustworthy this community is and publicly post my key here
->> "NoStraightPraline"
 >> 
+>> "NoStraightPraline"
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 hours later)
 >>> 
 >>> The only question is how long it'll take to get betrayed, not if you'll get betrayed.
->>> You can PM exchange keys, it's much safer.
 >>> 
+>>> You can PM exchange keys, it's much safer.
 
->>>> **u/TempAccountIgnorePls** [+1] *
+>>>> **u/TempAccountIgnorePls** [+1]  (5 hours later)
 >>>> 
 >>>> Yeah, but I'm not really bothered enough to go hunting for people to swap keys with. I fully expect to get betrayed pretty quickly.
->>>> 
 
->>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (11 hours later)
 >>>> 
 >>>> It also drastically reduces the possible size of your circle. The best strategy to me seems to find a trustworthy and relatively obscure community to post the password in.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (11 hours later)
 >>>>> 
 >>>>> You still have to do it by PMs or else malicious people find their way in. The two most successful groups I've seen so far are /r/neoliberal with 52 members before betrayal that was advertised through comments and password sent through PM. The owner got careless however and accidently gave the password to an hostile commie. 
->>>>> The other group is /r/hellointernet (a subreddit for a podcast)which got betrayed at 59 members but started up again and is now at 53, unbetrayed. They are doing really extensive checking now, I had to go through a voice interview to get in and they're not allowing the password to be even communicated through text or image, only voice.
 >>>>> 
+>>>>> The other group is /r/hellointernet (a subreddit for a podcast)which got betrayed at 59 members but started up again and is now at 53, unbetrayed. They are doing really extensive checking now, I had to go through a voice interview to get in and they're not allowing the password to be even communicated through text or image, only voice.
 
->>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (a day later)
 >>>>>> 
 >>>>>> How can you determine someone is trustworthy before PMing the password?
->>>>>> 
 
->>>>>>> **u/None** [+2] *
+>>>>>>> **u/None** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> You see if they are real members of the community. It's not fool proof, but /r/neoliberal can see your comment history if you posted in the discussion thread and lot, and /r/hellointernet did a verbal quiz on podcast history like names of the host's dogs, and different topics the podcast covers.
->>>>>>> 
 
->>>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (a day later)
 >>>>>>>> 
 >>>>>>>> I wonder how subreddits like /r/CenturyClub would work out.
->>>>>>>> 
 
->>>>>>>>> **u/None** [+2] *
+>>>>>>>>> **u/None** [+2]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I don't know how it's doing now, but at one point /r/CenturyClub I saw had a Circle with 169 members(the most I've seen by probably 50 points), so it's doing extremely well. Good prediction.
->>>>>>>>> 
 
->>>>>>>>>> **u/A_Mouse_In_Da_House** [+2] *
+>>>>>>>>>> **u/A_Mouse_In_Da_House** [+2]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> 181 at betrayal.
->>>>>>>>>> 
 
->>>>>>>>> **u/Yellowben** [+1] *
+>>>>>>>>> **u/Yellowben** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> 181 until some jerkhole betrayed
->>>>>>>>> 
 
->>>>>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>>>>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Hmm, I wonder if it might be possible to set up incentives and disincentives.
->>>>>>>>>> Also, is it still running? I checked in yesterday and it said submissions were restricted.
 >>>>>>>>>> 
+>>>>>>>>>> Also, is it still running? I checked in yesterday and it said submissions were restricted.
 
->>>>>> **u/sneakpeekbot** [+0] *
+>>>>>> **u/sneakpeekbot** [+0]  (11 hours later)
 >>>>>> 
 >>>>>> Here's a sneak peek of /r/neoliberal using the [top posts](https://np.reddit.com/r/neoliberal/top/?sort=top&t=year) of the year!
+>>>>>> 
 >>>>>> \#1: [URGENT: Net Neutrality is not a partisan issue. If you want to preserve the free flow of ideas on the Internet call your Reps or make an FCC complaint. Reddit and r/DirtbagCenter needs to bind together!](https://i.redd.it/gz9ek7oj7fzz.gif) | [604 comments](https://np.reddit.com/r/neoliberal/comments/7emnsi/urgent_net_neutrality_is_not_a_partisan_issue_if/)  
 >>>>>> \#2: [This is the man that President Donald Trump just decided to pardon.](http://i.imgur.com/x3nLPGy.png) | [6113 comments](https://np.reddit.com/r/neoliberal/comments/6w2jp8/this_is_the_man_that_president_donald_trump_just/)  
 >>>>>> \#3: [Ladies and gentlemen, your new senator for Alabama: Doug Jones!](https://upload.wikimedia.org/wikipedia/commons/5/5f/Doug_Jones_Flag.jpg) | [2161 comments](https://np.reddit.com/r/neoliberal/comments/7jgdnt/ladies_and_gentlemen_your_new_senator_for_alabama/)
+>>>>>> 
 >>>>>> ----
 >>>>>> ^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)
->>>>>> 
 
->> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (6 hours later)
 >> 
 >> I'm seeing that it's set to private, even though I have tempaccountignorepls's key. Looks like they ran into some bugs.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 hours later)
 >>> 
 >>> Yeah. This year's April Fools is quite disappointing, not nearly as good as the legend that was /r/place.
->>> 
 
->> **u/Veedrac** [+1] *
+>> **u/Veedrac** [+1]  (a day later)
 >> 
 >> I started one. PM me with evidence you participate in any rationalist-aligned community (eg. this subreddit) to join. Or just PM me and I'll spend minimal effort to check it myself.
->> ["The people I know who seem to make unusual efforts at rationality, are unusually honest, or, failing that, at least have unusually bad social skills."](https://www.reddit.com/r/CircleofTrust/comments/89fafa/the_people_i_know_who_seem_to_make_unusual/)
 >> 
+>> ["The people I know who seem to make unusual efforts at rationality, are unusually honest, or, failing that, at least have unusually bad social skills."](https://www.reddit.com/r/CircleofTrust/comments/89fafa/the_people_i_know_who_seem_to_make_unusual/)
 
-> **u/None** [+3] *
+> **u/None** [+3]  (an hour later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 hours later)
 >> 
 >> Not a book, but brilliant.org is an educational site that has a course on probability and game theory through gambling.
->> 
 
-> **u/Veedrac** [+1] *
+> **u/Veedrac** [+1]  (3 days later)
 > 
 > Jesus Christ Reddit.
-> https://www.reddit.com/r/AskReddit/comments/89yvpk/you_can_become_100000_richer_catch_is_you_get/
 > 
+> https://www.reddit.com/r/AskReddit/comments/89yvpk/you_can_become_100000_richer_catch_is_you_get/
 
 ---
 

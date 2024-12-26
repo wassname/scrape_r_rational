@@ -19,233 +19,211 @@ Which books (rational or otherwise) have influenced the way you think the most?
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+36]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+39]  *Godric Gryffindor* (3 hours later)
 > 
 > If by that you mean fiction, the story that I *noticed* teaching me things was van Vogt's Null-A.  I expect that stories like Asimov's Foundation taught me quiet ideas like "You can analyze things by thinking", and that Piper's Fuzzy stories taught me to take for granted that sapience mattered, etcetera.
-> 
 
->> **u/wren42** [+10] *
+>> **u/wren42** [+11]  (18 hours later)
 >> 
 >> I agree on Foundation, I suspect it's also the source of a lot of my emotional optimism and hope that rationality can lead to a better future.  The idea that a group of social scientists can work to tweak society's long term direction and create a more sustainable civilization is perhaps far fetched but it still resonates with me.
->> 
 
-> **u/BooksAndComicBooks** [+52] *
+> **u/BooksAndComicBooks** [+53]  (48 minutes later)
 > 
 > Ender's Game book 2, The Speaker for the Dead. It made me really think about how something perfectly normal for one group can be completely horrifying for another. The whole book is about putting aside your own worldview and trying to see events from another person's perspective, because in a way, each person lives inside their own version of reality. And we can't really know another person until we accept that their truth is **a real** truth.
-> 
 
->> **u/absolute-black** [+12] *
+>> **u/absolute-black** [+13]  (2 hours later)
 >> 
 >> Yes, this was a super formative work for my tween self. HPMOR reinforced it, in a way; I think all the time about the scene where Harry defends Draco to Hermione with the kids-burning-cats example.
->> 
 
->>> **u/Cuz_Im_TFK** [+17] *
+>>> **u/Cuz_Im_TFK** [+17]  (2 hours later)
 >>> 
 >>> I only vaguely remember the burning cats example, but do remember the part where it says something like: Draco Malfoy is *exactly* what you'd expect an eleven year old kid to be like if his doting father was Darth Vader.
->>> 
 
->>>> **u/None** [+14] *
+>>>> **u/None** [+14]  (9 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Cuz_Im_TFK** [+7] *
+>>>>> **u/Cuz_Im_TFK** [+8]  (a day later)
 >>>>> 
 >>>>> Ah, that's the one. I agree, it's really fun seeing an "innocently evil" character.
->>>>> 
 
->> **u/thrawnca** [+3]  *Carbon-based biped**
+>> **u/thrawnca** [+3]  *Carbon-based biped* (a day later)
 >> 
 >> I'm assuming that you *have* read Three Worlds Collide, yes?
->> If not, you should do that now. It's only short.
 >> 
+>> If not, you should do that now. It's only short.
 
->> **u/None** [-3] *
+>> **u/None** [-1]  (2 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/absolute-black** [+21] *
+>>> **u/absolute-black** [+22]  (3 hours later)
 >>> 
 >>> I.. Suspect you’re doing this exact thing we’re talking about. I could be wrong but, AFAIK, OSC has always said that homosexuality is a sin - which, within his cultural framework, is just a fact - but that individual people are not to be mistreated for it. One of my favorite works by him has a gay male lead, and it’s never portrayed as something villainous.
->>> Here’s a quote from him:
->>> >Oddly enough, even as I am attacked by some as a homophobe, I am attacked by others as being too supportive of homosexuality, simply because I cannot see individual homosexuals, in or out of my books, as anything other than human beings with as complex a combination of good and evil in them as I find within myself. In my own view, I am walking a middle way, which condemns the sin but loves the sinner.
 >>> 
+>>> Here’s a quote from him:
+>>> 
+>>> >Oddly enough, even as I am attacked by some as a homophobe, I am attacked by others as being too supportive of homosexuality, simply because I cannot see individual homosexuals, in or out of my books, as anything other than human beings with as complex a combination of good and evil in them as I find within myself. In my own view, I am walking a middle way, which condemns the sin but loves the sinner.
 
->>>> **u/JudyKateR** [+17] *
+>>>> **u/JudyKateR** [+19]  (13 hours later)
 >>>> 
 >>>> I think it's worth mentioning that Card's views on gay marriage seem pretty similar to, say, Brandon Sanderson, which is basically, "I'm a liberal, but I'm a member of the LDS church and accept their stance on marriage, which is that God intended for marriage to be between a man and a woman." I imagine that if the church's position changed tomorrow, they'd probably smile and breathe a weary sigh of relief. (Given the large number of fantasy/SF authors that come out of SLC/Utah, I would expect this to be a pretty common viewpoint among a large number of people in that community, only difference being that most of them seem to remain strategically silent on the topic.)
->>>> Back in the mid 00's, I never would have expected to see Card attacked so consistently from the left, I recall him being pretty far left on a number of topics, like his position on immigration being that anyone who crosses the US/Mexico border should automatically be given US citizenship so that they can fully participate in society since they're going to be here and have jobs anyway.  He was also against intervention in the middle east (back when most democrats were in favor of the US having a presence in Afghanistan) and critical of a lot of US military action in general, saying on numerous occasions, "We are not the good guys," extending this back as far as World War II where he argues that Pearl Harbor was actually an attacked provoked by the US, and while I'm not sure this is exactly a "liberal" position it probably places him pretty far away from the standard slate of Red Tribe beliefs.
->>>> I think if you took Card's views and compared them to any mainstream democrat in 2005, you'd find him to be uniformly further left on pretty much any topic; the only difference seems to be that Card has been pretty consistent in his beliefs over the years, so the movement of the Overton window makes him look like a bigot when it comes specifically to the topic of gay marriage.  (Lest we forget, it was less than ten years ago that California passed Prop 8 to block the advance of same-sex marriage, and California is firmly blue.)  Also, While I certainly don't agree with Card's beliefs, the fact that a 65-year-old Mormon man doesn't support gay marriage strikes me as completely unsurprising and unremarkable, so I've always found it odd that it seems to be THE most common thing people remark on (as opposed to, say, his views on immigration, which are also pretty far outside the norm but in the opposite direction, or literally anything else about him).  Even today, I think his positions on topics like immigration and US foreign policy are still way further left than most mainstream democrats.
 >>>> 
+>>>> Back in the mid 00's, I never would have expected to see Card attacked so consistently from the left, I recall him being pretty far left on a number of topics, like his position on immigration being that anyone who crosses the US/Mexico border should automatically be given US citizenship so that they can fully participate in society since they're going to be here and have jobs anyway.  He was also against intervention in the middle east (back when most democrats were in favor of the US having a presence in Afghanistan) and critical of a lot of US military action in general, saying on numerous occasions, "We are not the good guys," extending this back as far as World War II where he argues that Pearl Harbor was actually an attacked provoked by the US, and while I'm not sure this is exactly a "liberal" position it probably places him pretty far away from the standard slate of Red Tribe beliefs.
+>>>> 
+>>>> I think if you took Card's views and compared them to any mainstream democrat in 2005, you'd find him to be uniformly further left on pretty much any topic; the only difference seems to be that Card has been pretty consistent in his beliefs over the years, so the movement of the Overton window makes him look like a bigot when it comes specifically to the topic of gay marriage.  (Lest we forget, it was less than ten years ago that California passed Prop 8 to block the advance of same-sex marriage, and California is firmly blue.)  Also, While I certainly don't agree with Card's beliefs, the fact that a 65-year-old Mormon man doesn't support gay marriage strikes me as completely unsurprising and unremarkable, so I've always found it odd that it seems to be THE most common thing people remark on (as opposed to, say, his views on immigration, which are also pretty far outside the norm but in the opposite direction, or literally anything else about him).  Even today, I think his positions on topics like immigration and US foreign policy are still way further left than most mainstream democrats.
 
->>>>> **u/Frommerman** [+8] *
+>>>>> **u/Frommerman** [+8]  (17 hours later)
 >>>>> 
 >>>>> His more recent work has been tainted by the Morg, if you know what you're looking at. The really bizarre "everyone everywhere always wants biological children, even gay men" theme in the later Shadow books is obvious Mormon theology.
->>>>> 
 
->>>>>> **u/JudyKateR** [+7] *
+>>>>>> **u/JudyKateR** [+7]  (a day later)
 >>>>>> 
 >>>>>> I won't argue that the fact that the gay genetic scientist deciding to succumb to some kind of primal urge to start having biological children is a bit weird.  Like, there's specifically a line where he talks about how the gay sex that he pursued in his youth was all meaningless because it didn't lead to making babies, and at last he discovers that the *real* purpose of sex is to ensure that your genetics continue to be part of the future of human race.  (Maybe a bit less "out of nowhere" considering that it's coming from a genetic scientist.)  You could definitely make the case that it's homophobic to say that gay sex is "meaningless" or somehow less valid, but to me this kind of feels like it's in the same category with Catholics who oppose the use of birth control (because sex is for making babies, not for hedonistic pleasure).
->>>>>> Is the way Anton is written weird tone-deaf and insensitive? Yeah, it's pretty hard to read it today and not feel weird or uncomfortable.  Is it ignorant?  Yeah, probably about as much as you would expect from a Mormon guy born in 1951 writing a book released in 2002, back when maybe a third of Americans supported gay marriage.  Is it hateful?  I don't personally think so, but you're welcome to draw your own conclusions.
 >>>>>> 
+>>>>>> Is the way Anton is written weird tone-deaf and insensitive? Yeah, it's pretty hard to read it today and not feel weird or uncomfortable.  Is it ignorant?  Yeah, probably about as much as you would expect from a Mormon guy born in 1951 writing a book released in 2002, back when maybe a third of Americans supported gay marriage.  Is it hateful?  I don't personally think so, but you're welcome to draw your own conclusions.
 
->>>>>>> **u/Frommerman** [+6] *
+>>>>>>> **u/Frommerman** [+6]  (a day later)
 >>>>>>> 
 >>>>>>> I never said it was hateful, and I broadly agree with you here. I just said his work is tainted by some of the more objectional beliefs of the cult.
->>>>>>> 
 
->>>>>> **u/None** [+5] *
+>>>>>> **u/None** [+7]  (a day later)
 >>>>>> 
 >>>>>> There's also the Empire duet, which combines a shitload of Alex Jones style paranoia.  Or Alvin Maker, which is fun, if not grounded in decent History, but over the course of the series it seemed to drift closer and closer to Mormon apologetics.
->>>>>> I went to school where OC lives and he had a weekly column in the local conservative paper (Rhinocerous times, which went out of business years ago).  By the mid aughts it was a combination of irrelevant and silly.  I vaguely recollect that in one column he decided that common plays weren't appropriate for high school girls, so he decided to write a play about a teen girl's sleepover as a middle aged man.  He repeatedly kept "reporting" on the liberal conspiracy to keep his friends from tenure.  Keep in mind this was well over a decade ago and memories are constructed, but still....
->>>>>> He was a hugely influential in the development of my friends and I, but a continual disappointment when we read his columns and many of his later books.
 >>>>>> 
+>>>>>> I went to school where OC lives and he had a weekly column in the local conservative paper (Rhinocerous times, which went out of business years ago).  By the mid aughts it was a combination of irrelevant and silly.  I vaguely recollect that in one column he decided that common plays weren't appropriate for high school girls, so he decided to write a play about a teen girl's sleepover as a middle aged man.  He repeatedly kept "reporting" on the liberal conspiracy to keep his friends from tenure.  Keep in mind this was well over a decade ago and memories are constructed, but still....
+>>>>>> 
+>>>>>> He was a hugely influential in the development of my friends and I, but a continual disappointment when we read his columns and many of his later books.
 
->>>>> **u/wren42** [+4] *
+>>>>> **u/wren42** [+3]  (18 hours later)
 >>>>> 
 >>>>> yeah this is good nuance.  Context matters.  20 years ago I was outright homophobic. 15 years ago I accepted it was natural.  10 years ago I thought LGBT was totally fine but gay marriage was kinda weird.  5 years ago I was all for gay marriage.  Today I actively argue with members of my family that I don't see as supportive enough of LGBT rights and dignity. 
->>>>> I don't think Card's views should make his books invalid unless those views creep into the books themselves.
 >>>>> 
+>>>>> I don't think Card's views should make his books invalid unless those views creep into the books themselves.
 
->>>> **u/Mekanimal** [+6] *
+>>>> **u/Mekanimal** [+7]  (3 hours later)
 >>>> 
 >>>> I was mainly attempting to be tongue in cheek tbh, it's the general response to any Ender's Game reference on reddit. 
->>>> I still can't quite agree with his sentiment, though I do acknowledge that his cultural framework dictates his views on what constitutes a sin.
 >>>> 
+>>>> I still can't quite agree with his sentiment, though I do acknowledge that his cultural framework dictates his views on what constitutes a sin.
 
->>> **u/Frommerman** [+2] *
+>>> **u/Frommerman** [+2]  (17 hours later)
 >>> 
 >>> He's also been suckered into a cult, especially since he became famous. LDS.INC sunk their hooks into him hard only after he became important enough to notice.
->>> 
 
-> **u/Sarkavonsy** [+16] *
+> **u/Sarkavonsy** [+16]  (2 hours later)
 > 
 > I think definitely Luminosity. I apply the whole "don't lie to yourself about your true reasons for doing things just to maintain the belief that you're a good person" thing practically daily. Also, saying things out loud to remember them rather than just saying them in my head. That comes up less but is also pretty handy (ie. counting out scoops of coffee)
-> 
 
-> **u/ronindreamer** [+16] *
+> **u/ronindreamer** [+15]  (2 hours later)
 > 
 > For me the top 3 that shaped the way I think are ring world series by Larry Niven, ender saga by Card Orson Scott and basically everything from Asimov. But I would argue that everything you read changes a bit the way you think or atleast the way you look at the world. The more points of view you are exposed to the more you learn not to take things at face value and you grow as a person. I can say that sometimes I learned more from 1 paragraph I read on a random comment on Reddit then some entire books I read.
-> 
 
->> **u/Nerenere** [+1] *
+>> **u/Nerenere** [+1]  (2 days later)
 >> 
 >> Amen to that
->> 
 
->> **u/GeneralExtension** [+1] *
+>> **u/GeneralExtension** [+1]  (17 days later)
 >> 
 >> It's possible to consume without effect, and sometimes a message poorly presented has the reverse of the intended effect.
->> 
 
-> **u/thrawnca** [+30]  *Carbon-based biped**
+> **u/thrawnca** [+30]  *Carbon-based biped* (an hour later)
 > 
 > I'm gonna say HPMoR, with nuggets like "why do I believe what I believe?" and "if you're surprised, either your information is wrong or your model of reality is wrong."
-> 
 
->> **u/None** [+9] *
+>> **u/None** [+8]  (a day later)
 >> 
 >> Fun fact, I used an idea from that in a very religious school in the South.  The asked if I believed in evolution.  I took a brief digression how the phrase do you believe gets virtue signaling as a response and how "is \_\_\_\_ real" is a better way of testing your beliefs.  A kid goes "is God real?" and then clapped his hands over his mouth; it was one of the more heartbreaking and hilarious moments in teaching.
->> 
 
->>> **u/thrawnca** [+6]  *Carbon-based biped**
+>>> **u/thrawnca** [+6]  *Carbon-based biped* (a day later)
 >>> 
 >>> Hmm... Not sure where the heartbreaking part comes from? It's a perfectly reasonable question to ask IMO, whether your answer is "yes" (Christian school) or "no" (much of the Western population) or "watch this space" (HJPEV).
->>> Thanks for the anecdote.
 >>> 
+>>> Thanks for the anecdote.
 
->>>> **u/flipflopchip** [+9] *
+>>>> **u/flipflopchip** [+10]  (a day later)
 >>>> 
 >>>> Well for me it's the fact that the kid did ask a reasonable question and then was embarrassed enough to put his hands to his mouth.
->>>> Even if the emotion wasn't exactly embarrassment, it's sad that a good question like that warrants any emotional response other than increased curiosity.
 >>>> 
+>>>> Even if the emotion wasn't exactly embarrassment, it's sad that a good question like that warrants any emotional response other than increased curiosity.
 
-> **u/masasin** [+14] *
+> **u/masasin** [+15]  (3 hours later)
 > 
 > Pokemon: The Origin of Species basically has tutorials on hacking your brain (e.g., goal factoring, murphyjitsu, etc). The author also explains emotions as the physical sensations and attaches them to words, which helps me a lot (alexithymia).
-> 
 
-> **u/Iwasahipsterbefore** [+39] *
+> **u/Iwasahipsterbefore** [+39]  (23 minutes later)
 > 
 > Surprisingly the inheritance cycle. While it's a fairly irrational farm boy to hero story, the magic system is incredibly ripe for munchkining, in fact that's basically what determines how powerful a magic user is, how good they are at abusing the vocabulary and grammar they know.
 > It completely shifted the way I viewed magic in books.
-> 
 
->> **u/zeldn** [+22] *
+>> **u/zeldn** [+21]  (2 hours later)
 >> 
 >> Agreed, it’s one of those few instances where the magic genuinely feels like an actual skill that you can appreciate and understand the difficulty of. Simply defined magic system with lots of complexity.
->> 
 
->>> **u/Iwasahipsterbefore** [+13] *
+>>> **u/Iwasahipsterbefore** [+14]  (4 hours later)
 >>> 
 >>> Yup, someone who knows three words could easily trounce someone with an entire dictionary at their disposal, either through creativity or scientific knowledge. One particularly rational example from the story is just applying a small amount of force directly in the brain. The story explored consequences of the magic in cool ways, such as having mages sprinkled throughout the army and having a secondary fight going on underneath the obvious one.
->>> Other parts were annoyingly irrational, such as the dragon dance, and the ending (not going to say why because spoilers); but on the whole it was extremely well done.
 >>> 
+>>> Other parts were annoyingly irrational, such as the dragon dance, and the ending (not going to say why because spoilers); but on the whole it was extremely well done.
 
->>>> **u/GeneralExtension** [+1] *
+>>>> **u/GeneralExtension** [+1]  (17 days later)
 >>>> 
 >>>> That series 'borrowed' ideas from another one, called the Belgariad, in a couple of blatant ways.
->>>> 
 
->>>>> **u/Iwasahipsterbefore** [+1] *
+>>>>> **u/Iwasahipsterbefore** [+1]  (17 days later)
 >>>>> 
 >>>>> I mean, I guess it's similar in that they both come from a small village and have a blacksmith as a friend, but the plot points are completely different. Disagree if you want, but Inheritance gets a lot of unjustified hate.
->>>>> 
 
->>>>>> **u/GeneralExtension** [+3] *
+>>>>>> **u/GeneralExtension** [+3]  (17 days later)
 >>>>>> 
 >>>>>> I agree, it is pretty good. Anyone who reads it knows how old the author was, and the writing just keeps getting better as you further along in the series, which is pretty amazing and the characters grow in a lot of ways as a result.
->>>>>> The mechanic used in the end just seemed like an arbitrary rule in the source material, and was rather climatic (though Fridge-horror) in Inheritance. The blue fire (thing) was cool, and was a nice continuation of some of the things Eragon was thinking about beforehand - 'I could take this blade of grass, and use magic to make it into a powerful weapon, but when the energy ran out it would be useless', which was developed into 'you can use magic to make useful thing more useful this way' and 'things that have never been done before can be surprising'.
->>>>>> In fact, the magic system as a whole seemed like a refinement - 'you can do anything you can imagine if you have the power/motivation' -> you can only do what your body has energy for' let the story include so many beautiful spells. The extreme effects of the spell Eragon cast wrong that messed up someone's life felt like it fit in with the story, really well, made for a fascinating character, great character development, and were a great intro to 'spells cast on people'.
 >>>>>> 
+>>>>>> The mechanic used in the end just seemed like an arbitrary rule in the source material, and was rather climatic (though Fridge-horror) in Inheritance. The blue fire (thing) was cool, and was a nice continuation of some of the things Eragon was thinking about beforehand - 'I could take this blade of grass, and use magic to make it into a powerful weapon, but when the energy ran out it would be useless', which was developed into 'you can use magic to make useful thing more useful this way' and 'things that have never been done before can be surprising'.
+>>>>>> 
+>>>>>> In fact, the magic system as a whole seemed like a refinement - 'you can do anything you can imagine if you have the power/motivation' -> you can only do what your body has energy for' let the story include so many beautiful spells. The extreme effects of the spell Eragon cast wrong that messed up someone's life felt like it fit in with the story, really well, made for a fascinating character, great character development, and were a great intro to 'spells cast on people'.
 
->> **u/darkardengeno** [+19] *
+>> **u/darkardengeno** [+19]  (5 hours later)
 >> 
 >> Also, it's been a really long time since I've read it but if I remember correctly _Eldest_ was damn near rationalist. I didn't realize it when I read it, but the elves are basically a transhumanist utopia, beings who used magic to become immortal and end scarcity and they spend all their time working on self-improvement or understanding the world better. Most of Eragon's lessons seem not far removed from modern rationality.
->> 
 
->>> **u/Iwasahipsterbefore** [+9] *
+>>> **u/Iwasahipsterbefore** [+9]  (6 hours later)
 >>> 
 >>> Thinking back on it, yeah. There was an entire subplot about Eragon struggling to move past his superstitutions and embrace logic and rhetoric.
->>> 
 
->>>> **u/CopperZirconium** [+9] *
+>>>> **u/CopperZirconium** [+10]  (9 hours later)
 >>>> 
 >>>> That subplot really spoke to me. Eragon learning not-quite-science from the elves and then inspecting his own cultural beliefs and observing the dwarves’ religion.
->>>> 
 
->> **u/The_Flying_Stoat** [+2] *
+>> **u/The_Flying_Stoat** [+2]  (13 days later)
 >> 
 >> So when are we getting an Inheritance ratfic? It sounds like a world where a rational character would really shine.
->> 
 
-> **u/Sailor_Vulcan** [+9]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+9]  *Champion of Justice and Reason* (5 hours later)
 > 
 > If we're just talking about fiction, probably HPMOR. If we're talking about rational literature in general, probably Rationality: From AI to Zombies/the Sequences on Lesswrong.
-> Or wait are we talking about learning how to think or learning how thinking works?
-> (I bet there are a ton of people on here with that exact same answer to your question who aren't posting on this thread because they don't have anything new, unique or surprising to add to this discussion that isn't already said. Most people here got started from HPMOR after all.
 > 
+> Or wait are we talking about learning how to think or learning how thinking works?
+> 
+> (I bet there are a ton of people on here with that exact same answer to your question who aren't posting on this thread because they don't have anything new, unique or surprising to add to this discussion that isn't already said. Most people here got started from HPMOR after all.
 
-> **u/throwaway11252016** [+5] *
+> **u/throwaway11252016** [+4]  (3 hours later)
 > 
 > It's hard for me to think of a book that taught me about thinking before I found rational fiction. I read a lot of Heinlein growing up, which exposed me to new ideas that were healthy for me to think about it. A lot of it is pulpy though, arguably smut (maybe that's why I read him so much). Here is a recommendation you might not have seen before: Moonwalking with Einstein. I think it was a great primer on using mnemonics. It isn't fictional, but it's at least shaped into a narrative.
-> 
 
-> **u/None** [+5] *
+> **u/None** [+4]  (a day later)
 > 
 > As others have listed, HPMOR, Ender's Game, were influential for me too.  Ender's game helped me develop empathy as a young adult.  HPMOR had a lot of metacognition theory which was useful.  Reddit's badHistory is a great place to see biases on display, and the value of academic debate; I was lucky enough to start reading it in college which helped me focus on learning as a process and outcome of debate.  Dune was also influential, because along with Foundation, it helped me worked out the ideas of History and Politics as a system with something close to universal laws.  It was an Enlightenment for me.
-> Perhaps unsurprisingly, I'm a teacher and none of the classwork I did really focused on metacognition.  Most of the stuff I could find online was written way above the reading level of my students or was just a way to try to sell the same old tired strategies.  The Less Wrong post on education was profoundly unhelpful too, because it presented problems without solutions and the comments were the usual mixture of hatred for public schools as social engineering (that's supposed to be a bad thing to transhumanists?) and resurfacing of old trauma visited on students by their teachers.
 > 
+> Perhaps unsurprisingly, I'm a teacher and none of the classwork I did really focused on metacognition.  Most of the stuff I could find online was written way above the reading level of my students or was just a way to try to sell the same old tired strategies.  The Less Wrong post on education was profoundly unhelpful too, because it presented problems without solutions and the comments were the usual mixture of hatred for public schools as social engineering (that's supposed to be a bad thing to transhumanists?) and resurfacing of old trauma visited on students by their teachers.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (2 days later)
 >> 
 >> [deleted]
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (4 days later)
 >>> 
 >>> I try different things, but I'm probably teaching a very different group of kids.  I didn't join the discussion because I believe the article is years old.  I'll look for the article.  Long story short, teaching rationality is hard and mostly unsuccessful, so I try different things each year.  Frequently I fall afoul of [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law).  Different things I try include:
+>>> 
 >>> 1. Graph this population data and give me reasonable guesses of what you think is happening.  This is moderately successful, but takes an inordinate amount of time with my population.  30 minutes to manually make a line graph with 10 data points.  The reason I have them do it manually is I that I want them to screw up and see how data distorts if you mess up your scale.  Teaching map/graph scale / ratios is challenging problem / one of our mandated responsibilities.
 >>> 2. Let's look at two pictures.  First tell me what you notice.  Then tell me what you notice here.  How are these two things different?  What are some guesses you have as to why?  How can you prove your guess?  This works ok.  It's better for creating visual associations to content than it is for teaching visual reasoning.  Example:  Picture of the Korean peninsula at night from space, what is the difference between the two areas?  Why are they different?  Let's read an article to find out.  The opening steps work wonderfully, but kids have trouble justifying their guesses even when right.
 >>> 3. I do one debate, and only after we've read 5 pages of primary sources and they've written a paper where I hammer their logic in the comments.  We're talking a page and a half of comments for half a page of writing; for a hundred students.  This is by far the most effective exercise I do, but it takes 2 weeks of class time, 3 weeks of grading, and another 2 weeks of recovery.  Upper level students like the feed back and argumentation; lower level students dislike the independence.  This shows positive results for the top 30% of students.  An unknown but sizeable portion get their parents to do it for them, and then their parents get mad when I call out their faulty logic.
@@ -253,63 +231,72 @@ Which books (rational or otherwise) have influenced the way you think the most?
 >>> 5. Find all the examples of this historical author mentioning this phrase in the text.  Why does he use this phrase?  No, it's not because he's stupid.  He has a purpose.  What do you think it is based on the way he's using it?  This is effective only for about the top 5% of students.  
 >>> 6. Cause and effect mapping an event.  This is extremely ineffective at teaching content or comprehension.  I'm not sure why, but I think the medium is creating anxiety.
 >>> 7. Teaching that the world is a network of systems.  I do this through showing maps, surprising facts.  I'm not sure if it's effective.
+>>> 
 >>> If you're still reading at this point. You'll notice the major flaw in all these techniques.  They're techniques that are not goal-oriented.    Rationality is a hard concept to define (even though there's the whole point about most definitions being probabilistic clusters.)  I would say that beyond the whole History thing, I want to help my students develop the following mental processes:
+>>> 
 >>> 1.  The ability to examine their beliefs, and change their beliefs as new evidence comes in.
 >>> 2. The desire to always prove arguments and base their arguments on evidence.
 >>> 3. The ability to notice when they're confused and figure out why they're confused.
->>> I don't know how the fuck you teach this or how the fuck you measure whether your different strategies are successful, especially #3.  I would appreciate help, but I think making a post would be a little gauche since I've not been an member of this community very long.
 >>> 
+>>> I don't know how the fuck you teach this or how the fuck you measure whether your different strategies are successful, especially #3.  I would appreciate help, but I think making a post would be a little gauche since I've not been an member of this community very long.
 
->>>> **u/GeneralExtension** [+1] *
+>>>> **u/GeneralExtension** [+1]  (17 days later)
 >>>> 
 >>>> >I think making a post would be a little gauche since I've not been an member of this community very long.
->>>> It's an important topic, that you're working on - a post would probably be appreciated.
 >>>> 
+>>>> It's an important topic, that you're working on - a post would probably be appreciated.
 
->>>> **u/sswanlake** [+1] *
+>>>> **u/sswanlake** [+1]  (27 days later)
 >>>> 
 >>>> Honestly? One of the best sets of classes I ever had was the poetry unit in my 11th grade AP English class (this is about halfway between your #5 and #3, I guess) 
->>>> It was a combination of 11th and 12th graders (though mostly 12th), and we had to read a poem for each day of class, and write a paragraph analysing the poem. The start of each class was a Socratic Seminar based on the analysis of the poem. The teacher would walk between the two tables (it was a large enough class that having only one would inhibit discussion), and listen to the arguments presented, and occasionally discretely direct the conversation by dropping a question before walking away. 
->>>> In this way, everyone got to see not only how the others interpreted the poem, but _why_ - which phrases stuck out to them the most, etc. We began to realize how the year the poem was written in might affect the worldview of the author, and thus the word choices. One poem in particular I remember the discussion from was "My Papa's Waltz". We were pretty evenly split between believing it was a relatively happy poem involving a dance, and believing it was a dark metaphor for a child being beaten. 
->>>> Understanding the reasoning behind the other interpretations, and sometimes switching your own viewpoint, helped form logical analysis skills and showed that, as they say, "your truth is not my truth, but that doesn't make it not _a_ truth". 
->>>> To be honest, the fact that it was a daily occurrence, without a great deal of overt supervision, was what allowed the discussion to really flourish. The readings (daily poem) were short enough that _everyone_ read them and were able to participate, unlike when it's a 30+ page reading with a however long writing assignment at the end. The constant exposure (this went on for at least a quarter of the year, even though it was only the first 15 minutes or so of each class) meant that by the end, everyone was comfortable voicing their opinion, it wasn't awkward, and those who didn't really get it at the beginning were coached by example by the ones that did, taught to see the other perspectives through the words of their peers. 
->>>> Just like how some people aren't good test-takers, some people aren't good at formatting and laying out their logical arguments into a paper, and therefore dread the research papers. If the goal is the show how different opinions and worldviews are spawned, and help young minds identify them, then create a situation where the class is split in opinion and let them explore it. 
->>>> &nbsp;
->>>> I know that an example from an upper level class might not be as effective with lower levels, but I can honestly say that that class shaped the way that I read and interpret text.
 >>>> 
+>>>> It was a combination of 11th and 12th graders (though mostly 12th), and we had to read a poem for each day of class, and write a paragraph analysing the poem. The start of each class was a Socratic Seminar based on the analysis of the poem. The teacher would walk between the two tables (it was a large enough class that having only one would inhibit discussion), and listen to the arguments presented, and occasionally discretely direct the conversation by dropping a question before walking away. 
+>>>> 
+>>>> In this way, everyone got to see not only how the others interpreted the poem, but _why_ - which phrases stuck out to them the most, etc. We began to realize how the year the poem was written in might affect the worldview of the author, and thus the word choices. One poem in particular I remember the discussion from was "My Papa's Waltz". We were pretty evenly split between believing it was a relatively happy poem involving a dance, and believing it was a dark metaphor for a child being beaten. 
+>>>> 
+>>>> Understanding the reasoning behind the other interpretations, and sometimes switching your own viewpoint, helped form logical analysis skills and showed that, as they say, "your truth is not my truth, but that doesn't make it not _a_ truth". 
+>>>> 
+>>>> To be honest, the fact that it was a daily occurrence, without a great deal of overt supervision, was what allowed the discussion to really flourish. The readings (daily poem) were short enough that _everyone_ read them and were able to participate, unlike when it's a 30+ page reading with a however long writing assignment at the end. The constant exposure (this went on for at least a quarter of the year, even though it was only the first 15 minutes or so of each class) meant that by the end, everyone was comfortable voicing their opinion, it wasn't awkward, and those who didn't really get it at the beginning were coached by example by the ones that did, taught to see the other perspectives through the words of their peers. 
+>>>> 
+>>>> Just like how some people aren't good test-takers, some people aren't good at formatting and laying out their logical arguments into a paper, and therefore dread the research papers. If the goal is the show how different opinions and worldviews are spawned, and help young minds identify them, then create a situation where the class is split in opinion and let them explore it. 
+>>>> 
+>>>> &nbsp;
+>>>> 
+>>>> I know that an example from an upper level class might not be as effective with lower levels, but I can honestly say that that class shaped the way that I read and interpret text.
 
-> **u/Amonwilde** [+4] *
+> **u/Amonwilde** [+4]  (15 minutes later)
 > 
 > I feel like I learned a lot about human nature from *Gulliver's Travels*, though I read it pretty young. I also feel like fiction in general has made me value honesty highly.
-> 
 
-> **u/Lethalmud** [+5] *
+> **u/Lethalmud** [+4]  (14 hours later)
 > 
 > HPMOR taught me rationality wasn't all it appeared to be. I read everything on lesswrong, and was really starting to fall for it.
-> Then just after i read something about rationality being the thing that wins, I finished the book. The ending disappointed me, all the plot hooks that were promised failed to come to a conclusion, and the thought that was supposed to be put in the story appeared to be empty promises. 
-> That showed me, thinking rational isn't going to make you a good writer. Or a good talker. Or good at understanding other poeple. Most of the important stuff in society is cultural, and lives in the minds of poeple. And poeple are not rational.
 > 
+> Then just after i read something about rationality being the thing that wins, I finished the book. The ending disappointed me, all the plot hooks that were promised failed to come to a conclusion, and the thought that was supposed to be put in the story appeared to be empty promises. 
+> 
+> That showed me, thinking rational isn't going to make you a good writer. Or a good talker. Or good at understanding other poeple. Most of the important stuff in society is cultural, and lives in the minds of poeple. And poeple are not rational.
 
-> **u/Morghus** [+2] *
+> **u/Morghus** [+2]  (5 hours later)
 > 
 > Malazan. Despite a lot of people who might say that I'm all "BULLSHIT!", it was one of the most rational series I knew, when I read it.  
-
-> Malazan. There were reasons for everything that happened, and it was explained in world, no outside the world. Just like Glen Cook's stories later on. There's a need to be rational in their stories, and I really love it. If a character does so and so, it's because of a roll of the dice, and that's all you get
 > 
+> Malazan. There were reasons for everything that happened, and it was explained in world, no outside the world. Just like Glen Cook's stories later on. There's a need to be rational in their stories, and I really love it. If a character does so and so, it's because of a roll of the dice, and that's all you get
 
-> **u/serge_cell** [+2] *
+> **u/serge_cell** [+2]  (10 hours later)
 > 
 > Polya and Szegö: Problems and Theorems in Analysis
-> 
 
-> **u/Ms_CIA** [+2]  *Derp**
+> **u/Ms_CIA** [+2]  *Derp* (7 days later)
 > 
 > Hmm. Interesting question. It wasn't a rational story, but I did read one manwha that helped me learn a coping strategy for a really hard period I was going through. The story was called Nineteen, Twenty-one. It was about a girl who went into a coma, came out after a year, and had to retake her last year of high school. She was essentially nineteen (twenty-one in Korean age) and taking cram school with juvenile delinquents.
-> She was depressed and felt like she was always behind, like she'd never catch up with the rest of the world. I also started college two years late, and felt awful about it for similar reasons.
-> At the end of the story, the girl says, "I don't want to go through life thinking I'm always two steps behind. If things hadn't worked out that way, I wouldn't be the person I am now. There are things more important in life than the difference in age between nineteen and twenty-one."
-> Sometimes we can focus on the wrong things in life like they're a big deal. I often thought about that story after reading it, and I think it really encouraged me to see setbacks in a more realistic and positive perspective. Not just in that situation, but in others as well.
-> I'm not sure if this counts as learning to think more rationally, but it helped me to act more rational and level headed in stressful situations. I read it years ago, but it still resonates with me. :)
 > 
+> She was depressed and felt like she was always behind, like she'd never catch up with the rest of the world. I also started college two years late, and felt awful about it for similar reasons.
+> 
+> At the end of the story, the girl says, "I don't want to go through life thinking I'm always two steps behind. If things hadn't worked out that way, I wouldn't be the person I am now. There are things more important in life than the difference in age between nineteen and twenty-one."
+> 
+> Sometimes we can focus on the wrong things in life like they're a big deal. I often thought about that story after reading it, and I think it really encouraged me to see setbacks in a more realistic and positive perspective. Not just in that situation, but in others as well.
+> 
+> I'm not sure if this counts as learning to think more rationally, but it helped me to act more rational and level headed in stressful situations. I read it years ago, but it still resonates with me. :)
 
 ---
 

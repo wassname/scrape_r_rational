@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.royalroad.com/fiction/25225/delve/chapter/585212/121-restraint
-* Score: 59
+* Score: 55
 
 * Created: 2020-11-15T06:01:09
 
@@ -12,161 +12,149 @@
 
 ### Comments:
 
-> **u/FullHavoc** [+28] *
+> **u/FullHavoc** [+28]  (an hour later)
 > 
 > So I've thought about it for a while, and my conclusion is this:
-> I don't think Delve benefits much from writing from different viewpoints like other web serials do. I'm not sure why this is exactly. The writing from other perspectives isn't worse or even uninteresting, but for some reason, I don't feel like it adds much to the presentation of the story.
-> Anyone else have any thoughts on this?
 > 
+> I don't think Delve benefits much from writing from different viewpoints like other web serials do. I'm not sure why this is exactly. The writing from other perspectives isn't worse or even uninteresting, but for some reason, I don't feel like it adds much to the presentation of the story.
+> 
+> Anyone else have any thoughts on this?
 
->> **u/Pirellan** [+24] *
+>> **u/Pirellan** [+24]  (8 hours later)
 >> 
 >> I am getting to dislike how every time Rain opens his mouth we have the told how weird he is in the alt-POV.  Its shows deep misunderstanding on how people react in society especially when entirely cut off from their own. Even a few months should be enough to cut SOME of it down.  But I guess his mental stats are making him hold onto the memory of it more?  Shouldn't that just have him remember the references more and his increased learning ability make him acclimate to the new social norms faster?  He'll still laugh when they say something odd but be less likely to initiate with odd sayings unless its deliberate or in an aspect he hasn't come across.  Like using "40 below" is unique but seeing, with his increased perception if nothing else, that no one understands him, he'd be less likely to do so in the future.
->> 
 
->> **u/TickleMeStalin** [+14] *
+>> **u/TickleMeStalin** [+15]  (3 hours later)
 >> 
 >> You read this story for the in-depth number crunching and theory crafting that Rain has to resist doing every second of the day. No one else thinks, or sees the world like Rain. Every other perspective is the standard litrpg perspective. It's fine, but it's not Delve.
->> 
 
->>> **u/TheColourOfHeartache** [+23] *
+>>> **u/TheColourOfHeartache** [+22]  (3 hours later)
 >>> 
 >>> Actually I'd happily dial down the number crunching a lot. What I like about delve is that its a litRPG that actually functions like an MMO should, with parties of different synergistic roles as the path to success , a non-OP protagonist who can't fight people of a higher level.
->>> 
 
->>>> **u/kaukamieli** [+2] *
+>>>> **u/kaukamieli** [+2]  (2 days later)
 >>>> 
 >>>> Yet. Nah, probably never. Support MCs are rare.
->>>> 
 
->>>>> **u/eaglejarl** [+3] *
+>>>>> **u/eaglejarl** [+3]  (3 days later)
 >>>>> 
 >>>>> There are some character sheets that show how much damage Rain can do under different conditions. When he hits level 25 (26?) that damage jumps into the millions. We don't know how that stacks up against DPS-built silver plates but it's impressive.
->>>>> 
 
->>>>>> **u/kaukamieli** [+2] *
+>>>>>> **u/kaukamieli** [+2]  (3 days later)
 >>>>>> 
 >>>>>> Millons, when condenced at a couple of centimeters from his body? :P
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+4] *
+>>>>>>> **u/eaglejarl** [+4]  (3 days later)
 >>>>>>> 
 >>>>>>> No, at 5m.  https://docs.google.com/spreadsheets/d/1_C99jHLyw_ARFfKNPvmGAxUCrKbNWOXE0kTVIUDYH9g/edit#gid=244103026  Also, I misread the numbers -- it's about 350,000, not 3.5M as I had thought.  I'm sure I once saw a build with a higher total, but 350k is the best I can get right now.
->>>>>>> 
 
->>>>>>>> **u/cgmcnama** [+2] *
+>>>>>>>> **u/cgmcnama** [+2]  (16 days later)
 >>>>>>>> 
 >>>>>>>> The "burn" is over ~2 seconds so you can get up to ~500k total.  It's going to go up too as you include the Malleable Ring stats, the max total equipment stats he can use should be 250 (10 X Level) so you put that all in Focus.  (Focus increases damage and the mana pool....both increase the total damage burn)  At Level 25, this is about 800k.
->>>>>>>> This is just the "burst" damage though over ~2 seconds.  Rain's build strength is damage over time.
 >>>>>>>> 
+>>>>>>>> This is just the "burst" damage though over ~2 seconds.  Rain's build strength is damage over time.
 
->>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> **u/eaglejarl** [+1]  (17 days later)
 >>>>>>>>> 
 >>>>>>>>> Aha.  Thanks!
->>>>>>>>> 
 
->> **u/EsquilaxM** [+14] *
+>> **u/EsquilaxM** [+14]  (an hour later)
 >> 
 >> I guess half the time the other perspectives are kind of like the extra chapters in practical guide. Good for worldbuilding and characterisation, but doesn't push anything forward. 
->> Though that is also the case with published fantasy novels, you get those perspectives in there. And yeah it's often a bit annoying to be interrupted with them in things like the Wheel of Time or...idk Discworld? But often in the long-run you'll look back and not be too bothered and realise hey I know that context better now.
->> Edit: that said, I expect this chapter is crucial in setting up Samson as a future lieutenant of Ascension.
 >> 
+>> Though that is also the case with published fantasy novels, you get those perspectives in there. And yeah it's often a bit annoying to be interrupted with them in things like the Wheel of Time or...idk Discworld? But often in the long-run you'll look back and not be too bothered and realise hey I know that context better now.
+>> 
+>> Edit: that said, I expect this chapter is crucial in setting up Samson as a future lieutenant of Ascension.
 
->>> **u/FullHavoc** [+15] *
+>>> **u/FullHavoc** [+13]  (an hour later)
 >>> 
 >>> Yeah, that makes a kind of sense. In the practical guide, much of the time there is a double-release of the chapter and the interludes, so it doesn't detract from the pacing much. In wildbow stories, the interludes are typically at the end of the large sections, so it feels like a reprieve between the action.
->>> 
 
-> **u/TheTruthVeritas** [+19] *
+> **u/TheTruthVeritas** [+18]  (3 hours later)
 > 
 > I bet this has been mentioned before, but has anyone else realized just how ridiculously overpowered Velocity is for a support? It has so many implications.
-> Here it just completely neutered the hounds, it’s like Rain applied Stun, Root, Flinch, completely immobilizing the hounds and making them unable to pose any serious threat.
-> And then it’s also revealed that monsters are pretty stupid and follow set routines, and don’t seem to learn from experiences. That means that monsters, regardless of if they’re level 1 or 200, should supposedly be susceptible to Velocity completely gutting them. Even if they do acclimate, Rain can just tweak the modifiers and they’re instantly vulnerable again, which makes it seem incredibly powerful.
-> We’ve seen just how hard it is to adapt to a specific and not significant speed boost for intelligent humans after a lot of attempts, with much higher numbers, sporadically changing them, and against stupid monsters, this seems game-changing.
-> Hell, even against intelligent Awakened, this is still super dangerous. In a lot of novels, you always see how even a fraction of a second of distraction, mistake, or vulnerability can spell doom, and messing up an opponents movement at a certain moment or even constantly and randomly changing their speed is huge.
-> And apart from pure combat, increasing mobility of allies is a big part of war. He could increase Velocity to the max and any army marching with him could march at least 3 times faster than the enemy, and implemented on a large scale like in the Empire(forgot the name), it’d be so game-changing. Enemies can’t react or maneuver in time to match army movements, and there’d be huge changes in the effectiveness of retreats and hit-and-run ambushes.
-> That’s just my ruminations on Velocity(albeit late) after seeing how effective it was on the Hounds, what do others think?
-> Anyways, can’t wait to see how Rain’s group handles the Blue, and what awaits at the end of the lair.
 > 
+> Here it just completely neutered the hounds, it’s like Rain applied Stun, Root, Flinch, completely immobilizing the hounds and making them unable to pose any serious threat.
+> 
+> And then it’s also revealed that monsters are pretty stupid and follow set routines, and don’t seem to learn from experiences. That means that monsters, regardless of if they’re level 1 or 200, should supposedly be susceptible to Velocity completely gutting them. Even if they do acclimate, Rain can just tweak the modifiers and they’re instantly vulnerable again, which makes it seem incredibly powerful.
+> 
+> We’ve seen just how hard it is to adapt to a specific and not significant speed boost for intelligent humans after a lot of attempts, with much higher numbers, sporadically changing them, and against stupid monsters, this seems game-changing.
+> 
+> Hell, even against intelligent Awakened, this is still super dangerous. In a lot of novels, you always see how even a fraction of a second of distraction, mistake, or vulnerability can spell doom, and messing up an opponents movement at a certain moment or even constantly and randomly changing their speed is huge.
+> 
+> And apart from pure combat, increasing mobility of allies is a big part of war. He could increase Velocity to the max and any army marching with him could march at least 3 times faster than the enemy, and implemented on a large scale like in the Empire(forgot the name), it’d be so game-changing. Enemies can’t react or maneuver in time to match army movements, and there’d be huge changes in the effectiveness of retreats and hit-and-run ambushes.
+> 
+> That’s just my ruminations on Velocity(albeit late) after seeing how effective it was on the Hounds, what do others think?
+> 
+> Anyways, can’t wait to see how Rain’s group handles the Blue, and what awaits at the end of the lair.
 
->> **u/Dragfie** [+25] *
+>> **u/Dragfie** [+25]  (3 hours later)
 >> 
 >> They mentioned that arcane resistance would reduce the effect of velocity if it negatively effects the entity. So its like a normal AOE CC when used in that way; otherwise an AOE buff. Strong but not game-changing.
->> 
 
->>> **u/interested_commenter** [+17] *
+>>> **u/interested_commenter** [+17]  (15 hours later)
 >>> 
 >>> Yeah, have to remember this is level 18 AOE specialist Rain casting a CC on level 5 mobs. If he had an aura with no mageburn he could have just killed them all in seconds. Velocity is an awesome skill and Rain should probably use it offensively more often than he does (even against enemies who can mostly resist it, he can make a script that changes its output every second, so anyone not fully immune is gonna struggle), but its not super OP.
->>> 
 
->> **u/kaukamieli** [+2] *
+>> **u/kaukamieli** [+2]  (2 days later)
 >> 
 >> Ehh those resistance auras are the bees knees. Full resistance to physical and something else the enemy does and they are pretty neutered.
->> 
 
-> **u/bigbysemotivefinger** [+11] *
+> **u/bigbysemotivefinger** [+11]  (9 hours later)
 > 
 > Anyone else think it sucks that they got the Blue in the first circle? There's going to be eight more circles, and they're going to have to drag this angry snarling bundle of ice and spite for what sounds like miles.
-> 
 
->> **u/Fredlage** [+4] *
+>> **u/Fredlage** [+5]  (a day later)
 >> 
 >> What I think is more likely is for them to just leave the dungeon with the blue in tow. I don’t think there’s a rule that says they have to complete it in one run. They’re allowed to back out, no? Come back later to finish.
->> 
 
->>> **u/bigbysemotivefinger** [+2] *
+>>> **u/bigbysemotivefinger** [+2]  (a day later)
 >>> 
 >>> I think that's accurate?
->>> I certainly *hope* it is.
 >>> 
+>>> I certainly *hope* it is.
 
->>>> **u/FireCire7** [+3] *
+>>>> **u/FireCire7** [+3]  (a day later)
 >>>> 
 >>>> I think the only way out is through. This seems more like a death trap than a dungeon.
->>>> 
 
->> **u/Pirellan** [+4] *
+>> **u/Pirellan** [+3]  (9 hours later)
 >> 
 >> Why are they doing that though? Hold it down, have the unawaken stab the hell out of it and then kill it.
->> 
 
->>> **u/TheColourOfHeartache** [+17] *
+>>> **u/TheColourOfHeartache** [+19]  (10 hours later)
 >>> 
 >>> Because they don't have a full party of unawakened, so they'll be using a rare resource inefficiently.
->>> 
 
->>>> **u/Pirellan** [+7] *
+>>>> **u/Pirellan** [+6]  (12 hours later)
 >>>> 
 >>>> Ah, I missed that I guess.  Thank you for the correction.
->>>> 
 
-> **u/DavidGretzschel** [+2] *
+> **u/DavidGretzschel** [+2]  (a day later)
 > 
 > Is there a way to get "Delve" as an epub or mobi? Looking for something to read, but I'd like to read it on my Kindle.
-> I'd patron the creator, but I don't know if "early access to chapters==epub".
 > 
+> I'd patron the creator, but I don't know if "early access to chapters==epub".
 
->> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (a day later)
 >> 
 >> On Patreon, you get the chapters in pdf and epub, but there is no compiled pdf/epub of all chapters into one.
->> Here's a copy of the epub up to chapter #120 I made with Calibre on Google Drive: [https://drive.google.com/file/d/1Z4\_PCCSeyyPILlVOHh5igxaUJ5YkAMBu/view?usp=sharing](https://drive.google.com/file/d/1Z4_PCCSeyyPILlVOHh5igxaUJ5YkAMBu/view?usp=sharing)
 >> 
+>> Here's a copy of the epub up to chapter #120 I made with Calibre on Google Drive: [https://drive.google.com/file/d/1Z4\_PCCSeyyPILlVOHh5igxaUJ5YkAMBu/view?usp=sharing](https://drive.google.com/file/d/1Z4_PCCSeyyPILlVOHh5igxaUJ5YkAMBu/view?usp=sharing)
 
->>> **u/DavidGretzschel** [+1] *
+>>> **u/DavidGretzschel** [+1]  (4 days later)
 >>> 
 >>> >umbers -- it's about 350,000, not 3.5M as I had thought.  I'm sure I once saw a build with a 
->>> Thank you, that's awesome!
 >>> 
+>>> Thank you, that's awesome!
 
-> **u/Nick_named_Nick** [+1] *
+> **u/Nick_named_Nick** [+1]  (a day later)
 > 
 > What do we think is the most effective way to make this happen? I would be trying to immobilize it near the entrance, although it’s gonna suck to walk all the way back there for Carten, carrying that thing lol.
-> 
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (2 days later)
 >> 
 >> I'm not sure that they'll be exiting this place at the entrance. They may exit it at the core (after smashing said core).
->> 
 
 ---
 

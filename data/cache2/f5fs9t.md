@@ -2,7 +2,7 @@
 
 * Author: u/Breaking_the_Candle  *Break and rebuild.**
 * URL: https://www.fimfiction.net/story/4604/daylight-burning
-* Score: 1
+* Score: 0
 
 * Created: 2020-02-17T21:12:56
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/panchoadrenalina** [+3] *
+> **u/panchoadrenalina** [+3]  (4 days later)
 > 
 > the title reminded me of [this](https://media.tenor.com/images/d1f3c69a1e291985e986d5911127aad6/tenor.gif)
-> 
 
-> **u/Gregaros** [+1] *
+> **u/Gregaros** [+1]  (4 hours later)
 > 
 > Lightwavers, is that you?
-> 
 
 ---
 

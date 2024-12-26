@@ -2,7 +2,7 @@
 
 * Author: u/Tinfoil_Haberdashery *
 * URL: https://www.reddit.com/r/rational/comments/5igax7/auto_bio_graphic_cyberpunk_nonfiction_chapter_2/
-* Score: 14
+* Score: 13
 
 * Created: 2016-12-15T07:44:14
 
@@ -160,17 +160,17 @@ For those who are interested, [here's a picture of my trike.](http://i.imgur.com
 
 ### Comments:
 
-> **u/rhaps0dy4** [+2] *
+> **u/rhaps0dy4** [+2]  (2 hours later)
 > 
 > In the beginning I thought it was the same character, but as it passed it became clearer. This is not as cyberpunk as the original, but it was still fun to read! Thanks for writing it :)
-> Your trike is pretty cool.
 > 
+> Your trike is pretty cool.
 
->> **u/Tinfoil_Haberdashery** [+1] *
+>> **u/Tinfoil_Haberdashery** [+1]  (7 hours later)
 >> 
 >> It actually is the same character--me. Just after a few months' changing circumstances. 
->> I know it's a little less heavy on the cyberpunk, but I felt like digressions on the tech bogged the last one down a bit. I'm happy to field criticism, if you think it needs more.
 >> 
+>> I know it's a little less heavy on the cyberpunk, but I felt like digressions on the tech bogged the last one down a bit. I'm happy to field criticism, if you think it needs more.
 
 ---
 

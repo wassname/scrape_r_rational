@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/venky05** [+1] *
+> **u/venky05** [+1]  (56 seconds later)
 > 
 > Maybe not the most rational, but it has one of the best philosophies and messages along with god-tier world-building
-> 
 
 ---
 

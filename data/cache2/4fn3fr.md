@@ -2,7 +2,7 @@
 
 * Author: u/gamarad  *LessWrong (than usual)**
 * URL: http://unsongbook.com/interlude-%D7%96-man-on-the-sphere/
-* Score: 40
+* Score: 43
 
 * Created: 2016-04-20T12:35:43
 
@@ -12,97 +12,102 @@
 
 ### Comments:
 
-> **u/Escapement** [+16]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+14]  *Ankh-Morpork City Watch* (37 minutes later)
 > 
 > Uriel is the best character, this section and the last has proven it. His public service announcements in this chapter remind me of some of the best PSAs of [Welcome to Night Vale](http://www.welcometonightvale.com/). They are amazing.
-> Also, these lines made me laugh a lot:
-
-> >There had been a brief debate in the Nixon White House over whether or not it was tasteful to plant the American flag on the giant crystal sphere surrounding the world. The argument against was that the sphere appeared to be some sort of celestial mechanism created directly by God that either separated Earth from Heaven or in some complicated sense was itself Heaven, and that for a human nation to claim Heaven might be literally the most hubris it was even conceptually possible to display. The argument in favor of planting the flag was, *America*.
-> >Neil Armstrong stepped onto the crystal sphere and planted the flag. 
-> PS: Who is the "I" who is the narrator of the final segment? Is that intended to be Aaron? Someone else?
 > 
+> Also, these lines made me laugh a lot:
+> 
+> >There had been a brief debate in the Nixon White House over whether or not it was tasteful to plant the American flag on the giant crystal sphere surrounding the world. The argument against was that the sphere appeared to be some sort of celestial mechanism created directly by God that either separated Earth from Heaven or in some complicated sense was itself Heaven, and that for a human nation to claim Heaven might be literally the most hubris it was even conceptually possible to display. The argument in favor of planting the flag was, *America*.
+> 
+> >Neil Armstrong stepped onto the crystal sphere and planted the flag. 
+> 
+> PS: Who is the "I" who is the narrator of the final segment? Is that intended to be Aaron? Someone else?
 
->> **u/themousehunter** [+6]  *Sunshine Regiment**
+>> **u/themousehunter** [+5]  *Sunshine Regiment* (an hour later)
 >> 
 >> Yeah, I laughed when I got to that part as well. The paragraph made me think for a second that maybe they *weren't* going to stick a flag there.
->> 
 
->>> **u/Cariyaga** [+4]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (3 hours later)
 >>> 
 >>> Oh, *America*.
->>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (8 hours later)
 >> 
 >> > PS: Who is the "I" who is the narrator of the final segment? Is
 >> > that intended to be Aaron? Someone else?
->> I think all the first-person references have been Aaron so far, haven't they? I don't remember any exceptions right away
 >> 
+>> I think all the first-person references have been Aaron so far, haven't they? I don't remember any exceptions right away
 
-> **u/ulyssessword** [+9] *
+> **u/ulyssessword** [+9]  (5 hours later)
 > 
 > Prediction: Commander Armstrong is Neil, who showed up a few chapters ago in San Fransisco after a drug trip.
-> 
 
->> **u/ZeroNihilist** [+9] *
+>> **u/ZeroNihilist** [+10]  (a day later)
 >> 
 >> That makes a whole lot of sense. falenas108 [called the Neil connection](http://unsongbook.com/interlude-%d7%94-the-right-hand-of-god/#comment-2219) at the time the chapter was posted, but obviously didn't have the Armstrong link.
->> The section you were referring to is from [Interlude ה: The Right Hand of God](http://unsongbook.com/interlude-%D7%94-the-right-hand-of-god/):
->> > Paul screamed.
->> > “DO NOT BE AFRAID,” said Kesey, but it was not his voice.
->> > “What…what’s going…who…what are…help!”
->> > “DO NOT BE AFRAID,” said Kesey, and it was definitely not his voice. “I AM THE RIGHT HAND OF GOD. I BRING YOU ETERNITY. ALL THE WALLS WILL FALL AROUND YOU.”
->> > Paul tried to stand. He took a second to catch his breath. Kesey – the thing in Kesey’s body – seemed content to let him. He just stood there, hovering.
->> > “W…who are you?” asked Paul.
->> > “KNEEL,” said the thing in Kesey’s body.
->> > “But…who…what are you?”
->> > “KNEEL,” said the thing in Kesey’s body, somewhat more forcefully.
->> > Quivering from head to toe, Paul knelt.
->> The interesting thing, to me, is that we *could* have worked out that Neil Armstrong was the right hand of God had we but investigated the issue more closely. We had the textual evidence we needed, we just didn't make the connection between the different data points.
 >> 
+>> The section you were referring to is from [Interlude ה: The Right Hand of God](http://unsongbook.com/interlude-%D7%94-the-right-hand-of-god/):
+>> 
+>> > Paul screamed.
+>> 
+>> > “DO NOT BE AFRAID,” said Kesey, but it was not his voice.
+>> 
+>> > “What…what’s going…who…what are…help!”
+>> 
+>> > “DO NOT BE AFRAID,” said Kesey, and it was definitely not his voice. “I AM THE RIGHT HAND OF GOD. I BRING YOU ETERNITY. ALL THE WALLS WILL FALL AROUND YOU.”
+>> 
+>> > Paul tried to stand. He took a second to catch his breath. Kesey – the thing in Kesey’s body – seemed content to let him. He just stood there, hovering.
+>> 
+>> > “W…who are you?” asked Paul.
+>> 
+>> > “KNEEL,” said the thing in Kesey’s body.
+>> 
+>> > “But…who…what are you?”
+>> 
+>> > “KNEEL,” said the thing in Kesey’s body, somewhat more forcefully.
+>> 
+>> > Quivering from head to toe, Paul knelt.
+>> 
+>> The interesting thing, to me, is that we *could* have worked out that Neil Armstrong was the right hand of God had we but investigated the issue more closely. We had the textual evidence we needed, we just didn't make the connection between the different data points.
 
->>> **u/LiteralHeadCannon** [+8] *
+>>> **u/LiteralHeadCannon** [+8]  (a day later)
 >>> 
 >>> Wow, "Neil Armstrong" isn't even a *subtle* name.
->>> 
 
->>> **u/callmebrotherg** [+7]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae* (a day later)
 >>> 
 >>> I weep for the poor fools that try to translate this story.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> Nah, you just need the right qlipot.
->>>> 
 
->>>> **u/ZeroNihilist** [+1] *
+>>>> **u/ZeroNihilist** [+1]  (2 days later)
 >>>> 
 >>>> They might have to go the route that translators sometimes do and invent their own wordplay and kabbalah connections. That wouldn't by any stretch by easy, however.
->>>> 
 
-> **u/fubo** [+5] *
+> **u/fubo** [+6]  (an hour later)
 > 
 > Uriel is *so* the Bastard Operator from Heaven.
-> 
 
-> **u/NeverSitFellowWombat** [+2] *
+> **u/NeverSitFellowWombat** [+2]  (2 days later)
 > 
 > So, it took me a couple days of scattered reading to catch up, and I'm sorry my input probably won't be that good.
-> 1. This book is fucking hilarious. I don't know what I laughed at more while reading: this, Catch-22, or Seventh Horcrux. It might be about the same amount for all three.
-> 2. I haven't checked any of the previous discussions, or looked at the comments, but does Uriel remind anyone else of Death from Discworld? Speaks in all caps, has a weird sense of morality and human behavior, has a strange fondness for cute things (Sohu and cats, respectively), oversees reality at the behest of grander things. In fact, Unsong in general reminds me of Discworld.
 > 
+> 1. This book is fucking hilarious. I don't know what I laughed at more while reading: this, Catch-22, or Seventh Horcrux. It might be about the same amount for all three.
+> 
+> 2. I haven't checked any of the previous discussions, or looked at the comments, but does Uriel remind anyone else of Death from Discworld? Speaks in all caps, has a weird sense of morality and human behavior, has a strange fondness for cute things (Sohu and cats, respectively), oversees reality at the behest of grander things. In fact, Unsong in general reminds me of Discworld.
 
-> **u/MugaSofer** [+2] *
+> **u/MugaSofer** [+2]  (3 days later)
 > 
 > >“ATTENTION. DUE TO A SCALE BACK IN COVERAGE, THE MORAL ARC OF THE UNIVERSE NO LONGER BENDS TOWARD JUSTICE. WE APOLOGIZE FOR THE INCONVENIENCE.”
-> Wait, *what?*
 > 
+> Wait, *what?*
 
-> **u/Frommerman** [+1] *
+> **u/Frommerman** [+1]  (16 hours later)
 > 
 > And the moral of the story is don't bathe in the divine light, kids!
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/ElementaryMonocle *
 * URL: https://www.reddit.com/r/rational/comments/nhie8v/rationalist_giver_story/
-* Score: 27
+* Score: 23
 
 * Created: 2021-05-21T02:54:47
 
@@ -14,15 +14,13 @@ For some reason, I thought it was an omake of HPMOR, but I looked through the om
 
 ### Comments:
 
-> **u/None** [+17] *
+> **u/None** [+18]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/ElementaryMonocle** [+5] *
+>> **u/ElementaryMonocle** [+5]  (4 hours later)
 >> 
 >> I knew it had to do with HMPOR! Thanks so much!
->> 
 
 ---
 

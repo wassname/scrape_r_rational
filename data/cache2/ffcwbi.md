@@ -16,10 +16,9 @@ Probably most everybody here knows what PB is by now; it's the story of how terr
 
 ### Comments:
 
-> **u/Dent7777** [+2]  *House Atreides**
+> **u/Dent7777** [+2]  *House Atreides* (7 days later)
 > 
 > Finally seeing a flicker of light at the end of the tunnel for Rammash and his companions. Great story so far.
-> 
 
 ---
 

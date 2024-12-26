@@ -2,7 +2,7 @@
 
 * Author: u/Zephyr1011  *Potentially Unfriendly Aspiring Divinity**
 * URL: https://fictionpress.com/s/2961893/27/Mother-of-Learning
-* Score: 35
+* Score: 36
 
 * Created: 2014-08-30T22:41:53
 
@@ -12,55 +12,48 @@
 
 ### Comments:
 
-> **u/Kodix** [+11] *
+> **u/Kodix** [+11]  (9 hours later)
 > 
 > Good lord, I want *more* immediately. This thing is so good. It hits all the right notes.
-> 
 
->> **u/ProfessorPhi** [+3] *
+>> **u/ProfessorPhi** [+5]  (11 hours later)
 >> 
 >> I imagine the time between updates does contribute to it's quality!
->> 
 
->> **u/literal-hitler** [+1] *
+>> **u/literal-hitler** [+1]  (21 hours later)
 >> 
 >> I wish I could forget it exists until it's over, or at least until the arc is over, so I can read it all at once.
->> 
 
-> **u/traverseda** [+9]  *With dread but cautious optimism**
+> **u/traverseda** [+7]  *With dread but cautious optimism* (3 hours later)
 > 
 > Broken link?
-> https://www.fictionpress.com/s/2961893/27/Mother-of-Learning Seems to work. I think the www is required. Or my DNS could just be behaving oddly.
 > 
+> https://www.fictionpress.com/s/2961893/27/Mother-of-Learning Seems to work. I think the www is required. Or my DNS could just be behaving oddly.
 
->> **u/Kodix** [+2] *
+>> **u/Kodix** [+2]  (8 hours later)
 >> 
 >> Same here. Shame I checked the comments *after* finding the solution.
->> 
 
->>> **u/gabbalis** [+2] *
+>>> **u/gabbalis** [+2]  (a day later)
 >>> 
 >>> Troubleshooting practice is always good.
->>> 
 
->> **u/VorpalAuroch** [+2]  *Life before Death**
+>> **u/VorpalAuroch** [+2]  *Life before Death* (11 hours later)
 >> 
 >> Stripping the s from "https://..." also worked.
->> 
 
->>> **u/Sgeo** [+1] *
+>>> **u/Sgeo** [+1]  (2 days later)
 >>> 
 >>> By redirecting to https://www apparently.
->>> 
 
-> **u/gamarad** [+5]  *LessWrong (than usual)**
+> **u/gamarad** [+6]  *LessWrong (than usual)* (57 minutes later)
 > 
 > The author posted [a map of Altazia](http://dodo-ptica.deviantart.com/art/Altazia-479207173), the continent MoL is set on.
-> 
 
-> **u/blazinghand** [+6]  *Chaos Undivided**
+> **u/blazinghand** [+6]  *Chaos Undivided* (5 hours later)
 > 
 > FAQ from [Nobody103's FictionPress Profile](https://www.fictionpress.com/u/804592/nobody103):
+> 
 > >*Q: Curious, how far would you say the story is?*
 > >
 > >The story basically has 3 arcs, and I only finished one so far as of chapter 26. So nowhere near the end, basically.
@@ -70,124 +63,123 @@
 > >They're from my head, mostly, but they were inspired by the GIFTS (Giant Intelligent Friendly Talking Spiders) and Aranea from Exile/Avernum series of computer games. I sort of combined them into one species, changed the type of spider into jumping spiders (because they're cute), gave them psychic powers instead of simple magical prowess and then built a society around the concept. They have a lot of worldbuilding behind them, and I'm not sure how much I'll end up showing in the story proper, but I'll try to do them justice. I tried not to make them into a 'race of hats' like non-human species usually end up being in fantasy stories, but still make them relatable and understandable to humans.
 > >
 > >Generally speaking, Exile/Avernum games are a big influence on this story. Other influential inspirations are D&D (of course) and Fullmetal ALchemist (the Alteration discipline is basically FMA Alchemy and watching it made me aware I dislike medieval tech levels and prefer higher technology settings). Harry Potter and Naruto fandoms are a minor inspiration as well, as are a whole bunch of other works that I won't bother listing.
-> 
 
->> **u/TabethaRasa** [+5] *
+>> **u/TabethaRasa** [+8]  (a day later)
 >> 
 >> I'm surprised to see Naruto listed as a "minor" influence, since I'd taken this story as a reboot of Chuunin Exam Day/Time Braid. That is, a reboot that's been reskinned with D&D, better execution, and a decided lack of squicky underaged sex.
->> 
 
->>> **u/nobody103** [+17] *
+>>> **u/nobody103** [+16]  (a day later)
 >>> 
 >>> The only influence from Chuunin Exam Day/Time Braid is the 'month-long time loop' idea. Which is admittedly pretty crucial to the story, but is easily divorced from its Narutoverse trappings. Shaping exercises and Zach also inspired by the Naruto fandom, which is what I count as minor influences.
->>> 
 
->>>> **u/EliezerYudkowsky** [+13]  *Godric Gryffindor**
+>>>> **u/EliezerYudkowsky** [+13]  *Godric Gryffindor* (2 days later)
 >>>> 
 >>>> Oh hi thanks for dropping by I am a fan
->>>> 
 
->>>>> **u/nobody103** [+11] *
+>>>>> **u/nobody103** [+9]  (2 days later)
 >>>>> 
 >>>>> You're welcome. I'm largely a lurker and it's unlikely I'll post anything of my own initiative, but I follow all MoL discussions I find and I'll respond to any questions I feel I can answer.
->>>>> 
 
->>>>> **u/gvsmirnov** [+3] *
+>>>>> **u/gvsmirnov** [+3]  (3 days later)
 >>>>> 
 >>>>> GASP! /u/nobody103 and /u/EliezerYudkowsky are secretly the same person!
->>>>> 
 
->>>> **u/TabethaRasa** [+3] *
+>>>> **u/TabethaRasa** [+3]  (a day later)
 >>>> 
 >>>> Thanks for the response!
->>>> I'd noticed those, as well as your tendency to refer to non-mages as "civilians", the Xvim/Ebisu parallels, and [the ](#s "loop sidekick with a memory packet") elements. Those combined gave me the impression it was a major influence, but I suppose different categorizations for what we consider minor or major aren't a huge deal.
->>>> Love the story, by the way. Discussed the latest chapter with my SO last night.
 >>>> 
+>>>> I'd noticed those, as well as your tendency to refer to non-mages as "civilians", the Xvim/Ebisu parallels, and [the ](#s "loop sidekick with a memory packet") elements. Those combined gave me the impression it was a major influence, but I suppose different categorizations for what we consider minor or major aren't a huge deal.
+>>>> 
+>>>> Love the story, by the way. Discussed the latest chapter with my SO last night.
 
->>>>> **u/nobody103** [+5] *
+>>>>> **u/nobody103** [+4]  (2 days later)
 >>>>> 
 >>>>> Xvim/Ebisu parallels aren't deliberate - I wasn't consciously inspired by Ebisu, though now that I think about it there may have been an unconscious influence.
->>>>> There's probably a large number of such things throughout the story. I read a huge amount of Naruto fanfiction while I was still a fan.
 >>>>> 
+>>>>> There's probably a large number of such things throughout the story. I read a huge amount of Naruto fanfiction while I was still a fan.
 
->>>> **u/Salaris** [+3]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+3]  *Dominion Sorcerer* (2 days later)
 >>>> 
 >>>> Since you've jumped on here, I'd just like to say how much I appreciate how you've managed to combine influences from these disparate sources into a very coherent story with an excellent magic system.
->>>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (4 days later)
 >>>> 
 >>>> I can see how shaping exercises can be inspired by Naruto, but to be completely honest, it took until this post for me to even make that connection. It just seems like such a logical extension for how the MoL magic system works.
->>>> Please keep up the great work, mate. I'm loving this story.
 >>>> 
+>>>> Please keep up the great work, mate. I'm loving this story.
 
->> **u/adad64** [+1]  *Chaos Legion**
+>> **u/adad64** [+1]  *Chaos Legion* (3 days later)
 >> 
 >> I thought Novelty felt a lot like Spider! I grew up on Exile and later Avernum and Geneforge. I love the worldbuilding and old-school RPG feel Jeff puts in his games.
->> There was an old Exile fanfic of the early days with the King and Erika and such trying to survive in lightless caves on their own, but I can't seem to find it and fanfiction.net doesn't have the exile or avernum area any longer for some reason.
 >> 
+>> There was an old Exile fanfic of the early days with the King and Erika and such trying to survive in lightless caves on their own, but I can't seem to find it and fanfiction.net doesn't have the exile or avernum area any longer for some reason.
 
-> **u/Nepene** [+5] *
+> **u/Nepene** [+4]  (2 hours later)
 > 
 > Yay for the new chapter.
-> I suppose with any sort of universe like this, where you are free to grind without the consequence of death, it makes sense.
 > 
+> I suppose with any sort of universe like this, where you are free to grind without the consequence of death, it makes sense.
 
-> **u/traverseda** [+4]  *With dread but cautious optimism**
+> **u/traverseda** [+3]  *With dread but cautious optimism* (3 hours later)
 > 
 > [The nature of soul magics](#s " So it looks like the spiders aren't actually dead, just ejected from the loop.")
-> [The simplicity of insect minds](#s " I guess he has bug control powers now. That should be interesting.")
 > 
+> [The simplicity of insect minds](#s " I guess he has bug control powers now. That should be interesting.")
 
->> **u/blazinghand** [+12]  *Chaos Undivided**
+>> **u/blazinghand** [+15]  *Chaos Undivided* (5 hours later)
 >> 
 >> The problem with bug control powers is they seem so inflexible. How could you possibly do anything with that? Compared to his other skills, this seems narrow, lame, and definitely not munchkinable.
->> 
 
->>> **u/DangerouslyUnstable** [+12] *
+>>> **u/DangerouslyUnstable** [+13]  (7 hours later)
 >>> 
 >>> Is this sarcasm? Most people in this sub have read worm so I'm assuming it's sarcasm but if so.... Super dry.
->>> 
 
->>>> **u/blazinghand** [+13]  *Chaos Undivided**
+>>>> **u/blazinghand** [+11]  *Chaos Undivided* (7 hours later)
 >>>> 
 >>>> Ah, yes, it was supposed to be sarcasm and a reference to Worm. I should know better than to try to do sarcasm in text format, because it rarely translates well. I am actually pretty pumped about the latest developments. Mother of Learning is one of my favorite web serials.
->>>> 
 
-> **u/daydev** [+3] *
+> **u/daydev** [+3]  (20 hours later)
 > 
 > Knyazov Dveri is almost correct Ukrainian for "Prince's Doors".
 > The author is listed as from Croatia and some names definetely have a slavic feel to them, but I don't think I've seen a name with such a clear bilingual bonus before. 
 > I wonder, If that's significant.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (21 hours later)
 >> 
 >> Being Ukrainian, completely missed it, thanks!
->> Can it be the reference to the [Golden Gate](http://en.wikipedia.org/wiki/Golden_Gate,_Kiev) of Kiev?
 >> 
+>> Can it be the reference to the [Golden Gate](http://en.wikipedia.org/wiki/Golden_Gate,_Kiev) of Kiev?
 
->>> **u/autowikibot** [+1] *
+>>> **u/autowikibot** [+1]  (21 hours later)
 >>> 
 >>> #####&#009;
+>>> 
 >>> ######&#009;
+>>> 
 >>> ####&#009;
 >>>  [**Golden Gate, Kiev**](https://en.wikipedia.org/wiki/Golden%20Gate,%20Kiev): [](#sfw) 
->>> ---
->>> >
->>> >
->>> >The __Golden Gates of Kiev__ ([Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language): Золоті ворота, *Zoloti vorota*, literally 'golden gates') is a major landmark of the Ancient Kiev and historic gateway in the ancient city fortress, located in the capital of [Ukraine](https://en.wikipedia.org/wiki/Ukraine). Currently it serves as a museum and can be found on the corner of Volodymyr street and Yaroslaviv Val Street (Yaroslav's Moat). The name *Zoloti Vorota* is also used for a nearby [theatre](https://en.wikipedia.org/wiki/Theatre) and a station of the [Kiev Metro](https://en.wikipedia.org/wiki/Kiev_Metro).
->>> >====
->>> >[**Image**](https://i.imgur.com/rVgpLqE.jpg) [^(i)](https://commons.wikimedia.org/wiki/File:Golden-gate-2008.jpg) - *View of the Golden Gates after recent major renovations.*
->>> ---
->>> ^Interesting: [^Walls ^of ^Constantinople](https://en.wikipedia.org/wiki/Walls_of_Constantinople) ^| [^Golden ^Gate ^\(Vladimir)](https://en.wikipedia.org/wiki/Golden_Gate_\(Vladimir\)) ^| [^Ukraine](https://en.wikipedia.org/wiki/Ukraine) 
->>> ^Parent ^commenter ^can [^toggle ^NSFW](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+ck5nyry) ^or[](#or) [^delete](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+ck5nyry)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 >>> 
+>>> ---
+>>> 
+>>> >
+>>> 
+>>> >
+>>> 
+>>> >The __Golden Gates of Kiev__ ([Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language): Золоті ворота, *Zoloti vorota*, literally 'golden gates') is a major landmark of the Ancient Kiev and historic gateway in the ancient city fortress, located in the capital of [Ukraine](https://en.wikipedia.org/wiki/Ukraine). Currently it serves as a museum and can be found on the corner of Volodymyr street and Yaroslaviv Val Street (Yaroslav's Moat). The name *Zoloti Vorota* is also used for a nearby [theatre](https://en.wikipedia.org/wiki/Theatre) and a station of the [Kiev Metro](https://en.wikipedia.org/wiki/Kiev_Metro).
+>>> 
+>>> >====
+>>> 
+>>> >[**Image**](https://i.imgur.com/rVgpLqE.jpg) [^(i)](https://commons.wikimedia.org/wiki/File:Golden-gate-2008.jpg) - *View of the Golden Gates after recent major renovations.*
+>>> 
+>>> ---
+>>> 
+>>> ^Interesting: [^Walls ^of ^Constantinople](https://en.wikipedia.org/wiki/Walls_of_Constantinople) ^| [^Golden ^Gate ^\(Vladimir)](https://en.wikipedia.org/wiki/Golden_Gate_\(Vladimir\)) ^| [^Ukraine](https://en.wikipedia.org/wiki/Ukraine) 
+>>> 
+>>> ^Parent ^commenter ^can [^toggle ^NSFW](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+ck5nyry) ^or[](#or) [^delete](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+ck5nyry)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 
-> **u/MoralRelativity** [+1] *
+> **u/MoralRelativity** [+1]  (3 days later)
 > 
 > Thanks, I'm enjoying it.
-> 
 
 ---
 

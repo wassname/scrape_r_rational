@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/itisike** [+2]  *Dragon Army**
+> **u/itisike** [+2]  *Dragon Army* (2 minutes later)
 > 
 > What are you going to do if the title is different?
-> 
 
->> **u/rthomas2** [+1] *
+>> **u/rthomas2** [+1]  (19 minutes later)
 >> 
 >> Repost ^_^
->> 
 
 ---
 

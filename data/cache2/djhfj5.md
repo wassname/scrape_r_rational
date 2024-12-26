@@ -2,7 +2,7 @@
 
 * Author: u/Swimmer963 *
 * URL: https://archiveofourown.org/works/21076025/chapters/50140571
-* Score: 9
+* Score: 10
 
 * Created: 2019-10-18T03:11:42
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Swimmer963** [+2] *
+> **u/Swimmer963** [+2]  (a minute later)
 > 
 > Note that this is part 8 of a really, really long series, which is best read in order.
-> 
 
 ---
 

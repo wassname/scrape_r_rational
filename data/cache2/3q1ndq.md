@@ -2,7 +2,7 @@
 
 * Author: u/stringless  *Rebel Alliance**
 * URL: https://www.reddit.com/r/rational/comments/3q1ndq/qhfdc_dd_why_isnt_every_wizard_aiming_to_become_a/
-* Score: 21
+* Score: 22
 
 * Created: 2015-10-24T16:33:13
 
@@ -22,605 +22,591 @@ There's nothing inherently evil about it, after all.
 
 ### Comments:
 
-> **u/eaglejarl** [+16] *
+> **u/eaglejarl** [+14]  (an hour later)
 > 
 > There are [some better ways](http://brilliantgameologists.com/boards/index.php?topic=5996.0).
-> 
 
->> **u/Escapement** [+7]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+6]  *Ankh-Morpork City Watch* (9 hours later)
 >> 
 >> Not bad. I'd add to their solution list the [Worm That Walks](http://www.d20srd.org/srd/epic/monsters/wormThatWalks.htm) template, a pretty good immortality solution in 3.5 - you basically become immortal by becoming a sentient hivemind comprised solely of bugs. 
->> It initially looks like you'd have a chance of failure of becoming a worm that walks, but you just trade all your higher-level spells for a much huger number of spells of much lower level using Rary's Mnemonic Enhancer and drive the success percentage over 100% trivially pretty much any time you'd ever consider doing this (usually after you have level 17+ and therefore have already gotten level 9 spells). You have to be evil, and it's sort of gross, but you get pretty nice benefits.
 >> 
+>> It initially looks like you'd have a chance of failure of becoming a worm that walks, but you just trade all your higher-level spells for a much huger number of spells of much lower level using Rary's Mnemonic Enhancer and drive the success percentage over 100% trivially pretty much any time you'd ever consider doing this (usually after you have level 17+ and therefore have already gotten level 9 spells). You have to be evil, and it's sort of gross, but you get pretty nice benefits.
 
->>> **u/eaglejarl** [+3] *
+>>> **u/eaglejarl** [+3]  (11 hours later)
 >>> 
 >>> Yeah, that's both cool and gross.  Where does it say that you don't die of old age, though?
->>> 
 
->>>> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+>>>> **u/Escapement** [+5]  *Ankh-Morpork City Watch* (11 hours later)
 >>>> 
 >>>> There are no actual rules for swarms to age, nor for worms that walk to age. Thus your DM will probably have to houserule in any aging effects they want to impose on you. 
->>>> From a watsonian point of view:
->>>> Every time you discorporate into component parts you can reconstitute from even a single bug breeding back into a swarm eventaully. It seems difficult to show how you could meaningfully age and, say, lose STR or DEX or CON when every part of your consciousness is duplicated and distributed through a mass of insects, every single part of which is discardable and disposable - if you discard everything but bug N, breed back to a mass of bugs of size Z, then discard everything but bug M, and breed back to a mass of bugs of size Z again, everything you are presently constituted of is as young or younger than bug M, and therefore at most as old as the first time you discarded your mass of bugs. I think it'd be very difficult to reasonably in-universe portray them aging in any meaningful way. 
->>>> From a doylist point of view:
->>>> Age and aging tables come up so rarely in P&P sessions that most people forget they are thing that exists, and most DMs are very reluctant to make up a lot of houserules to institute aging rules that won't matter basically ever. DMs will never bother to houserule some in for your swarm form to nerf becoming a Worm That Walks, because it is a meaningless nerf that takes time and effort to implement for no reward. Unless you are having as part of your campaign plot something like thousands of years passing without anything noticeable happening and they really want your character to die over that time period, it just won't come up as a thing anyone will care about or worry about - and if a DM is determined to kill a character, that character will die, aging or no aging. If the thousand-year pause is a thing that is actually happening and will be coming up... then see if you and another player can arrange to Reincarnate (Druid 4) each other every 60 years or so - you can gain +3 to all mental stats for becoming venerable repeatedly, and so over thousands of years spiral off to having wisdom, intelligence, and charisma scores in the low hundreds fairly easily. No sense in not getting anything for your immortal time...
->>>> --- 
->>>> This junk is all theoretical optimization, of course, rather than something I'd advise for a real game. In reality, D&D stops meaningfully working and making sense as a game around level 9 to level 13, and when you are well into the 10+ levels you are probably playing more with houserules and mind-caulk than anything in the published books. Worms that Walks, lich transformation from Dread Necromancer, and a lot of other immortality options are **extremely** theoretical because the game stopped making sense without extensive and far-reaching houserules on a huge number of major issues long before they can possibly come up, so how they actually function in a real game will highly depend on what the real game actually is.
 >>>> 
+>>>> From a watsonian point of view:
+>>>> 
+>>>> Every time you discorporate into component parts you can reconstitute from even a single bug breeding back into a swarm eventaully. It seems difficult to show how you could meaningfully age and, say, lose STR or DEX or CON when every part of your consciousness is duplicated and distributed through a mass of insects, every single part of which is discardable and disposable - if you discard everything but bug N, breed back to a mass of bugs of size Z, then discard everything but bug M, and breed back to a mass of bugs of size Z again, everything you are presently constituted of is as young or younger than bug M, and therefore at most as old as the first time you discarded your mass of bugs. I think it'd be very difficult to reasonably in-universe portray them aging in any meaningful way. 
+>>>> 
+>>>> From a doylist point of view:
+>>>> 
+>>>> Age and aging tables come up so rarely in P&P sessions that most people forget they are thing that exists, and most DMs are very reluctant to make up a lot of houserules to institute aging rules that won't matter basically ever. DMs will never bother to houserule some in for your swarm form to nerf becoming a Worm That Walks, because it is a meaningless nerf that takes time and effort to implement for no reward. Unless you are having as part of your campaign plot something like thousands of years passing without anything noticeable happening and they really want your character to die over that time period, it just won't come up as a thing anyone will care about or worry about - and if a DM is determined to kill a character, that character will die, aging or no aging. If the thousand-year pause is a thing that is actually happening and will be coming up... then see if you and another player can arrange to Reincarnate (Druid 4) each other every 60 years or so - you can gain +3 to all mental stats for becoming venerable repeatedly, and so over thousands of years spiral off to having wisdom, intelligence, and charisma scores in the low hundreds fairly easily. No sense in not getting anything for your immortal time...
+>>>> 
+>>>> --- 
+>>>> 
+>>>> This junk is all theoretical optimization, of course, rather than something I'd advise for a real game. In reality, D&D stops meaningfully working and making sense as a game around level 9 to level 13, and when you are well into the 10+ levels you are probably playing more with houserules and mind-caulk than anything in the published books. Worms that Walks, lich transformation from Dread Necromancer, and a lot of other immortality options are **extremely** theoretical because the game stopped making sense without extensive and far-reaching houserules on a huge number of major issues long before they can possibly come up, so how they actually function in a real game will highly depend on what the real game actually is.
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (12 hours later)
 >>>>> 
 >>>>> Fair points all.  Thanks.
->>>>> 
 
-> **u/Uncaffeinated** [+14] *
+> **u/Uncaffeinated** [+13]  (an hour later)
 > 
 > Because Liches have a level adjustment. Becoming a Necropolitan is way better.
-> 
 
->> **u/Quillwraith** [+10]  *Red King Consolidated**
+>> **u/Quillwraith** [+9]  *Red King Consolidated* (5 hours later)
 >> 
 >> The advantage of lichdom is that a phylactery makes you rather more immortal than mere undeath does. As a high level wizard, you won't be in danger often, but if you plan to live forever, the chance of misfortune adds up over time.
->> 
 
->>> **u/Uncaffeinated** [+4] *
+>>> **u/Uncaffeinated** [+4]  (7 hours later)
 >>> 
 >>> It's really a question of PC or NPC. If you are a PC, then you really really really don't want to have level adjustment. From this perspective, Necropolitan is the only playable Undead race/template. If you're an NPC, then who cares? Your nature is dictated by the whims of the setting designer or DM anyway.
->>> Once you get into TO, it's irrelevant anyway, as there are better ways to protect against death. Like the Hide Life spell. Or if you want to really pull out all the stops, True Mind Switch into an Ice Assassin Aleax of yourself.
 >>> 
+>>> Once you get into TO, it's irrelevant anyway, as there are better ways to protect against death. Like the Hide Life spell. Or if you want to really pull out all the stops, True Mind Switch into an Ice Assassin Aleax of yourself.
 
->>>> **u/Quillwraith** [+1]  *Red King Consolidated**
+>>>> **u/Quillwraith** [+1]  *Red King Consolidated* (20 hours later)
 >>>> 
 >>>> I am familiar with min/maxing, but the OP seemed to be asking about in-character motivations:
->>>> A PC doesn't have to worry about immortality, because the campaign will end soon enough. A rational wizard comparing lichdom to becoming a Necropolitan, however, will probably see LA as a major sacrifice, but well worth the increased expected lifespan. IP proofing on a larger scale, essentially.
->>>> Ice assassin is banned by most DMs that know of it, but I agree, there are much better ways, though most are obscure enough that lichdom might be reasonable in a core-only setting, say.
 >>>> 
+>>>> A PC doesn't have to worry about immortality, because the campaign will end soon enough. A rational wizard comparing lichdom to becoming a Necropolitan, however, will probably see LA as a major sacrifice, but well worth the increased expected lifespan. IP proofing on a larger scale, essentially.
+>>>> 
+>>>> Ice assassin is banned by most DMs that know of it, but I agree, there are much better ways, though most are obscure enough that lichdom might be reasonable in a core-only setting, say.
 
->>> **u/Tommy2255** [+1] *
+>>> **u/Tommy2255** [+1]  (11 days later)
 >>> 
 >>> Just act exclusively via Astral Projections sent from your private demiplane. That's more secure than most Phylacterys anyway.
->>> 
 
->> **u/rineSample** [+6] *
+>> **u/rineSample** [+6]  (2 hours later)
 >> 
 >> Unrelated question: Would you read *"Necropolitan"* Magazine?
->> 
 
->>> **u/iamzeph** [+3] *
+>>> **u/iamzeph** [+3]  (8 hours later)
 >>> 
 >>> No but my dentist has some in the waiting room
->>> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (12 hours later)
 >> 
 >> Interestingly, the Necropolitan Ritual of Crucimigration is just about the only way to absolutely, positively, no doubt about it, kill someone permanently.  I [asked about this](http://www.giantitp.com/forums/showthread.php?306515-How-to-kill-someone-permanently) over on the GITP forums a while ago when I was writing 2YE; there were a bunch of suggestions, but RoC was one of the few that I believed would actually work and fit within my ruleset.
->> 
 
->>> **u/Uncaffeinated** [+1] *
+>>> **u/Uncaffeinated** [+1]  (a day later)
 >>> 
 >>> The only way I know of is Necrotic Termination, which explicitly destroys the soul, preventing even Wish or Miracle.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> > Necrotic Termination
->>>> Yeah, that works.  The Ritual of Crucimigration, though, says "[the victim] is destroyed, turned to dust, and can never he raised or revived again using **any means.**"  That would even include [divine intervention](https://tomsmith.bandcamp.com/track/divine-irregularity).
 >>>> 
+>>>> Yeah, that works.  The Ritual of Crucimigration, though, says "[the victim] is destroyed, turned to dust, and can never he raised or revived again using **any means.**"  That would even include [divine intervention](https://tomsmith.bandcamp.com/track/divine-irregularity).
 
->>>>> **u/Uncaffeinated** [+1] *
+>>>>> **u/Uncaffeinated** [+1]  (a day later)
 >>>>> 
 >>>>> In that case though, you have specific vs specific, so it's a tossup which way it'd be ruled. Strict RAW would suggest that RoC wins out, but I imagine most DMs would rule in favor of the gods. Necrotic Termination has the advantage of explicitly destroying the soul, so the DM is more likely to consider it as permadeath (though there's a good chance they'd rule that gods can bring it back anyway).
->>>>> 
 
-> **u/alexanderwales** [+18]  *Time flies like an arrow**
+> **u/alexanderwales** [+18]  *Time flies like an arrow* (16 minutes later)
 > 
 > > There's nothing inherently evil about it, after all.
-> Uh. I feel like you don't know what a lich is? In both Pathfinder and D&D, the lich template says "any evil". In other words, becoming a lich literally changes your alignment (we can quibble about editions, since I know this is true in 3.5 but not 4.0 and have no idea whether they kept it for 5.0).
-> So unless the pursuit of knowledge is not just a defining character trait but *the only thing a wizard cares about*, they can't become a lich without sacrificing their other values.
 > 
+> Uh. I feel like you don't know what a lich is? In both Pathfinder and D&D, the lich template says "any evil". In other words, becoming a lich literally changes your alignment (we can quibble about editions, since I know this is true in 3.5 but not 4.0 and have no idea whether they kept it for 5.0).
+> 
+> So unless the pursuit of knowledge is not just a defining character trait but *the only thing a wizard cares about*, they can't become a lich without sacrificing their other values.
 
->> **u/stringless** [+11]  *Rebel Alliance**
+>> **u/stringless** [+12]  *Rebel Alliance* (26 minutes later)
 >> 
 >> *Libris Mortis* p. 156
->> >*Good Lich*
->> >Though conceptually an oxymoron, the idea of a good-aligned creature who chooses undead immortality over a normal lifespan is a compelling one. Such creatures typically dedicate themselves to some noble cause--protection of a sacred location, the tending of knowledge or learning, and so forth.
 >> 
+>> >*Good Lich*
+>> 
+>> >Though conceptually an oxymoron, the idea of a good-aligned creature who chooses undead immortality over a normal lifespan is a compelling one. Such creatures typically dedicate themselves to some noble cause--protection of a sacred location, the tending of knowledge or learning, and so forth.
 
->>> **u/Toptomcat** [+9] *
+>>> **u/Toptomcat** [+10]  (an hour later)
 >>> 
 >>> That's presented as a *possible* variant kind of lich for use in specific campaigns.
->>> 
 
->>>> **u/stringless** [+6]  *Rebel Alliance**
+>>>> **u/stringless** [+4]  *Rebel Alliance* (2 hours later)
 >>>> 
 >>>> *Is* there any official stance on what it takes? If it's possible to transition without harming any other being, what then?
->>>> 
 
->>>>> **u/Subrosian_Smithy** [+7]  *Nudist Beach**
+>>>>> **u/Subrosian_Smithy** [+8]  *Nudist Beach* (8 hours later)
 >>>>> 
 >>>>> If you haven't already, I'd check out [The Tome of Necromancy](http://www.dnd-wiki.org/wiki/Tome_of_Necromancy_%283.5e_Sourcebook%29), a splatbook which deconstructs the ambiguities and moralities of necromancy.
->>>>> >**The Morality of Necromancy: Black and Gray**
->>>>> >The rules of D&D attempt to be all things to all people, and unfortunately that just isn't possible if you're trying to make a system of objective morality. By trying to cater to two very different play styles as regards to the moral quandaries of the use of negative energy, the game ends up catering to neither – and this has been the cause of a great many arguments for which there actually are no possible resolutions. Ultimately therefore, it falls to every DM to determine whether in their game the powers of Necromancy are inherently evil, or merely extremely dangerous. That's a choice which must be made, and has far reaching implications throughout the game. That's an awful lot of work, and most DMs honestly just don't care enough to be bothered with it, and I understand. Fortunately, we have collated those changes for you right here:
->>>>> >**-Moral Option 1: The Crawling Darkness**
->>>>> >Many DMs will choose to have Negative Energy in general, and undead in particular, be inherently Evil. So much so that we can capitalize it: Evil. And say it again for emphasis: Evil. That means that when you cast a negative energy wave you are physically unleashing Evil onto the world. When you animate a corpse, you are creating a being whose singular purpose is to make moral choices which are objectionable on every level. 
->>>>> >That's a big commitment. It means that anyone using Inflict Wounds is an awful person, at least while they are doing it. The Plane of Negative Energy is in this model the source of all Evil, more so than the Abyss or Hell. It's Evil without an opinion, immorality in its purest most undiluted form.
->>>>> >**-Moral Option 2: Playing with Fire**
->>>>> >Many DMs will choose to have Negative Energy be a base physical property of the magical universe that the D&D characters live in – like extremes of Cold or Fire it is inimical to life, and it is ultimately no more mysterious than that. An animate skeleton is more disgusting and frightening to the average man than is a stone golem, but it's actually a less despicable act in the grand scheme of things because a golem requires the enslavement of an elemental spirit and a skeleton has no spirit at all. 
->>>>> >The Plane of Negative Energy in this model is precisely the same as all the other elemental planes: a dangerous environment that an unprotected human has no business going to.
->>>>> >**Implications**
->>>>> >It's not actually enough to simply make a sweeping generalization about the morality of Negative Energy and leave it at that. Like a butterfly flapping its wings, such changes will eventually cause Godzilla to destroy Tokyo. Or something like that, I stopped math at Calculus.
->>>>> >Some monsters have been written up with the (incorrect) assumption that either "The Crawling Darkness" or "Playing With Fire" was the general rule. Others have been written in such a fashion that is actually incompatible with any possible interpretation of morality in D&D.
->>>>> If the prospective Lich lives in the world of The Crawling Darkness, then Lichdom is an implicitly evil state of being, and becoming a Lich transforms you into an immoral actor. If they live in the world of Playing With Fire, then presumably Lichdom is *not* implicitly evil.
->>>>> The Evil alignment requirement for the Lich template would suggest that Crawling Darkness is the flavor of canonical DnD, but other templates and bits of lore cast aspersion on the idea.
 >>>>> 
+>>>>> >**The Morality of Necromancy: Black and Gray**
+>>>>> 
+>>>>> >The rules of D&D attempt to be all things to all people, and unfortunately that just isn't possible if you're trying to make a system of objective morality. By trying to cater to two very different play styles as regards to the moral quandaries of the use of negative energy, the game ends up catering to neither – and this has been the cause of a great many arguments for which there actually are no possible resolutions. Ultimately therefore, it falls to every DM to determine whether in their game the powers of Necromancy are inherently evil, or merely extremely dangerous. That's a choice which must be made, and has far reaching implications throughout the game. That's an awful lot of work, and most DMs honestly just don't care enough to be bothered with it, and I understand. Fortunately, we have collated those changes for you right here:
+>>>>> 
+>>>>> >**-Moral Option 1: The Crawling Darkness**
+>>>>> 
+>>>>> >Many DMs will choose to have Negative Energy in general, and undead in particular, be inherently Evil. So much so that we can capitalize it: Evil. And say it again for emphasis: Evil. That means that when you cast a negative energy wave you are physically unleashing Evil onto the world. When you animate a corpse, you are creating a being whose singular purpose is to make moral choices which are objectionable on every level. 
+>>>>> 
+>>>>> >That's a big commitment. It means that anyone using Inflict Wounds is an awful person, at least while they are doing it. The Plane of Negative Energy is in this model the source of all Evil, more so than the Abyss or Hell. It's Evil without an opinion, immorality in its purest most undiluted form.
+>>>>> 
+>>>>> >**-Moral Option 2: Playing with Fire**
+>>>>> 
+>>>>> >Many DMs will choose to have Negative Energy be a base physical property of the magical universe that the D&D characters live in – like extremes of Cold or Fire it is inimical to life, and it is ultimately no more mysterious than that. An animate skeleton is more disgusting and frightening to the average man than is a stone golem, but it's actually a less despicable act in the grand scheme of things because a golem requires the enslavement of an elemental spirit and a skeleton has no spirit at all. 
+>>>>> 
+>>>>> >The Plane of Negative Energy in this model is precisely the same as all the other elemental planes: a dangerous environment that an unprotected human has no business going to.
+>>>>> 
+>>>>> >**Implications**
+>>>>> 
+>>>>> >It's not actually enough to simply make a sweeping generalization about the morality of Negative Energy and leave it at that. Like a butterfly flapping its wings, such changes will eventually cause Godzilla to destroy Tokyo. Or something like that, I stopped math at Calculus.
+>>>>> 
+>>>>> >Some monsters have been written up with the (incorrect) assumption that either "The Crawling Darkness" or "Playing With Fire" was the general rule. Others have been written in such a fashion that is actually incompatible with any possible interpretation of morality in D&D.
+>>>>> 
+>>>>> If the prospective Lich lives in the world of The Crawling Darkness, then Lichdom is an implicitly evil state of being, and becoming a Lich transforms you into an immoral actor. If they live in the world of Playing With Fire, then presumably Lichdom is *not* implicitly evil.
+>>>>> 
+>>>>> The Evil alignment requirement for the Lich template would suggest that Crawling Darkness is the flavor of canonical DnD, but other templates and bits of lore cast aspersion on the idea.
 
->>>>> **u/NotAHeroYet** [+1]  *City of Angles Municipal Government**
+>>>>> **u/NotAHeroYet** [+1]  *City of Angles Municipal Government* (6 hours later)
 >>>>> 
 >>>>> I assumed you had to be morally aligned with evil- but not neccessarily malice. A dragon who believes all sentients are his, doesn't care about anything besides his possessions but wants to protect them, and will do anything to do so could be evil alignment with good results.
->>>>> On the flip-side, some people interpret neutral as "Me and mine first, but i won't hurt you if i don't have to", good as "everyone should be treated well unless they're hurting others. you may not be my important person, but you're someone's." and evil as "I'll do anything possible to make me and mine as happy as possible, no matter how much it hurts others."
 >>>>> 
+>>>>> On the flip-side, some people interpret neutral as "Me and mine first, but i won't hurt you if i don't have to", good as "everyone should be treated well unless they're hurting others. you may not be my important person, but you're someone's." and evil as "I'll do anything possible to make me and mine as happy as possible, no matter how much it hurts others."
 
->>> **u/Rhamni** [+4]  *Aspiring author**
+>>> **u/Rhamni** [+4]  *Aspiring author* (an hour later)
 >>> 
 >>> My favourite D&D book!
->>> The best thing to come out of it was the Mothercyst feat. It's literally the best not-banned-on-sight mechanism in D&D to munchkin into world domination.
 >>> 
+>>> The best thing to come out of it was the Mothercyst feat. It's literally the best not-banned-on-sight mechanism in D&D to munchkin into world domination.
 
->> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+>> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (5 hours later)
 >> 
 >> [If you're in forgotten realms...](http://forgottenrealms.wikia.com/wiki/Archlich)
->> 
 
-> **u/therearetoomanydaves** [+7] *
+> **u/therearetoomanydaves** [+9]  (5 hours later)
 > 
 > 2 possibilities:
-> &nbsp;
-> 1\. The lich-ification process involves an evil act that good characters are unwilling to perform (ala horcruxes in the HPverse)
-> &nbsp;
-> 2\.  Good characters when they die go to a good-aligned plane where where they can continue their learning.  Evil characters go to an evil-aligned plane where they are tormented / interfered with / treated evilly.  Becoming a lich puts that off for a looooooong time.
 > 
+> &nbsp;
+> 
+> 1\. The lich-ification process involves an evil act that good characters are unwilling to perform (ala horcruxes in the HPverse)
+> 
+> &nbsp;
+> 
+> 2\.  Good characters when they die go to a good-aligned plane where where they can continue their learning.  Evil characters go to an evil-aligned plane where they are tormented / interfered with / treated evilly.  Becoming a lich puts that off for a looooooong time.
 
-> **u/MaxMahem** [+10] *
+> **u/MaxMahem** [+8]  (5 hours later)
 > 
 > So underlying this question is a kind of a variation of the [The Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox), in essence, if there are a lot of people raising their level over time, and at least some of these people transition into a immortal state, then where are all these people?
+> 
 > Like the Fermi Paradox, there a lot of potential answers to this question, I'll propose a few.
+> 
 > * There is no paradox, one of the suppositions is un-true. Perhaps not everyone aims to increase their level, transitions to an immortal state, or there has not been enough time elapsed. In other words, the number of immortal beings present does match the circumstances that cause their creation.
 > * A preferred path to an immortal state removes the person from the equation. Immortal wizards seclude themselves in forgotten towers, remove themselves from the plane entirely, or transcend to some other state of existence.
 > * Some variety of [The Great Filter](https://en.wikipedia.org/wiki/Great_Filter) exists which prevents persons from transitioning to an immortal state. Gods/Dragons preventing potential competitors? The transition to immortality having a low success rate? Simply very difficult to get high enough level to transition?
+> 
 > As to the specific question at hand, "Why don't all wizards aim to be litches." I can think of three rather simple solutions.
+> 
 > * Becoming a litch is a major project which requires a major investment of resources over the period of several years, and the success rate of transition is not necessarily that great. In addition existence as a litch might come with several important drawbacks, such as being hunted by heros, potential loss of your soul, ect. In short, wizard may do a cost-benefit analysis and decided that the effort necessary to attempt becoming a litch is not worth the cost.
 > * There may be other routes to immortality with a more favorable cost-benefit analysis. For example a carefully crafted [Wish](http://www.d20srd.org/srd/spells/wish.htm) for immortality might be possible.
 > * Despite their generally high intelligence scores, all wizard might not in-fact act perfectly rationally at all times. Indeed in D&D 'intelligence,' the prime stat for a wizard, is generally associated with the mere accumulation of a large amount of knowledge. While wisdom is associated with the correct and efficient application of knowledge, which seems a better fit for rationality. So in short, while wizards as a class might be very smart, they are not necessarily very rational. This explains the existence of owlbears for example.
-> 
 
-> **u/Ardvarkeating101** [+22]  *Father of Learning**
+> **u/Ardvarkeating101** [+22]  *Father of Learning* (9 minutes later)
 > 
 > If you definitely have a soul, and it isn't destroyed when you die, then why take the chance to mess with a *possible* life extension option when you already know you're going to exist, in some form or another, forever?  Why possibly damage your eternal soul when you just have to *not* mess with your soul to keep learning forever
-> 
 
->> **u/stringless** [+4]  *Rebel Alliance**
+>> **u/stringless** [+2]  *Rebel Alliance* (23 minutes later)
 >> 
 >> okay i didn't include planescape and the loss of memory in the transition to the afterlife into the equation but it was mostly because it had a complexity penalty
->> 
 
->>> **u/LiteralHeadCannon** [+28] *
+>>> **u/LiteralHeadCannon** [+28]  (30 minutes later)
 >>> 
 >>> ...
->>> ?
->>> Complexity penalties are for *hypotheses*, not for *data*.
 >>> 
+>>> ?
+>>> 
+>>> Complexity penalties are for *hypotheses*, not for *data*.
 
->>>> **u/stringless** [+8]  *Rebel Alliance**
+>>>> **u/stringless** [+5]  *Rebel Alliance* (32 minutes later)
 >>>> 
 >>>> *Planescape* is a *possible* reality depending on the DM/author.
->>>> 
 
->>>>> **u/Rhamni** [+11]  *Aspiring author**
+>>>>> **u/Rhamni** [+10]  *Aspiring author* (an hour later)
 >>>>> 
 >>>>> I mean, if you're in the setting then you have strong evidence of the memory thing because of resurrection spells, and if you're not in that particular setting then the rules are different. Not knowing what the certainly existing afterlife is *like* is still a reason to put off dying, but you'll have plenty of intelligent people who decide to bet on the good gods not being douchebags to their followers after death. Granted I only really played 3.5, so I'm not a Planescape expert.
->>>>> 
 
->>>>>> **u/stringless** [+1]  *Rebel Alliance**
+>>>>>> **u/stringless** [+2]  *Rebel Alliance* (2 hours later)
 >>>>>> 
 >>>>>> I brought up *Planescape* to counter the proposition "you already know you're going to exist, in some form or another, forever" since the "acquire (and keep) knowledge" goal doesn't work in that magical afterlife context.
->>>>>> Granted, at some point in the magical power scale towards becoming a lich one would probably manage to figure out precisely how the afterlife works.
 >>>>>> 
+>>>>>> Granted, at some point in the magical power scale towards becoming a lich one would probably manage to figure out precisely how the afterlife works.
 
->>>>>>> **u/Rhamni** [+6]  *Aspiring author**
+>>>>>>> **u/Rhamni** [+5]  *Aspiring author* (2 hours later)
 >>>>>>> 
 >>>>>>> Plane Shift OP pls nerf.
->>>>>>> 
 
->>>> **u/stringless** [+4]  *Rebel Alliance**
+>>>> **u/stringless** [+4]  *Rebel Alliance* (an hour later)
 >>>> 
 >>>> Specifically, "I don't know what I get to keep going into the afterlife" should be considered to be a known unknown in this context. I'll add it in.
->>>> 
 
->>>>> **u/eaglejarl** [+10] *
+>>>>> **u/eaglejarl** [+8]  (an hour later)
 >>>>> 
 >>>>> Alternatively, you could just [Plane Shift](http://www.d20srd.org/srd/spells/planeShift.htm) over to the afterli(fe|ves) and mosey around a bit.
->>>>> 
 
->>>>>> **u/Law_Student** [+6] *
+>>>>>> **u/Law_Student** [+7]  (2 hours later)
 >>>>>> 
 >>>>>> This makes me wonder what happens if you 'die' while on the appropriate plane for your race and alignment's afterlife.  Do you still shift over to get judged or do you just stick around?
->>>>>> 
 
-> **u/Farmerbob1** [+5]  *Level 1 author**
+> **u/Farmerbob1** [+7]  *Level 1 author* (2 hours later)
 > 
 > My first thought is that the cost of becoming a lich is too great.  Without knowing every way possible to become a lich, I can't justify that specifically.
-> Perhaps a great many wizards do, indeed, attempt to find a way to become a lich without having to pay whatever cost is involved.  After several decades/centuries of research, some of them relent, and choose to pay the cost.  Others do not.
-> As an example of the most likely cost?  In a world of the supernatural, it is common that when you take the shape of something, it changes you.  When you become a lich, you cease being a human, elf, hobbit, or whatever.  Your behavior changes.  Perhaps if you are extremely strong-willed, you can resist the changes for years, decades, or centuries, but eventually you fully become what you made yourself into.  At which point benevolent gods start nudging player character paladins and clerics to gather their buddies, and come hunting you.  When you are finally killed, your soul is either gone forever, or in the hands of some loathsome thing that proceeds to torment you for the rest of time.
 > 
+> Perhaps a great many wizards do, indeed, attempt to find a way to become a lich without having to pay whatever cost is involved.  After several decades/centuries of research, some of them relent, and choose to pay the cost.  Others do not.
+> 
+> As an example of the most likely cost?  In a world of the supernatural, it is common that when you take the shape of something, it changes you.  When you become a lich, you cease being a human, elf, hobbit, or whatever.  Your behavior changes.  Perhaps if you are extremely strong-willed, you can resist the changes for years, decades, or centuries, but eventually you fully become what you made yourself into.  At which point benevolent gods start nudging player character paladins and clerics to gather their buddies, and come hunting you.  When you are finally killed, your soul is either gone forever, or in the hands of some loathsome thing that proceeds to torment you for the rest of time.
 
->> **u/stringless** [+7]  *Rebel Alliance**
+>> **u/stringless** [+5]  *Rebel Alliance* (2 hours later)
 >> 
 >> >At which point benevolent gods start nudging player character paladins and clerics to gather their buddies, and come hunting you. When you are finally killed, your soul is either gone forever, or in the hands of some loathsome thing that proceeds to torment you for the rest of time.
->> A rational lich does a better job of hiding its phylactery~
->> Frankly, lichdom(?) is a rational way to "opt out" of the arbitrary magical afterlives.
->> "I've never wanted to follow the rules of other people/beings. You're telling me the after-life I have to look forward to is a plane of *pure chaos* ruled (if that's the word) by caste-based lizard people and Gith-something? Pass, I'd rather stay here. For as long as I can manage."
 >> 
+>> A rational lich does a better job of hiding its phylactery~
+>> 
+>> Frankly, lichdom(?) is a rational way to "opt out" of the arbitrary magical afterlives.
+>> 
+>> "I've never wanted to follow the rules of other people/beings. You're telling me the after-life I have to look forward to is a plane of *pure chaos* ruled (if that's the word) by caste-based lizard people and Gith-something? Pass, I'd rather stay here. For as long as I can manage."
 
->>> **u/Nighzmarquls** [+5] *
+>>> **u/Nighzmarquls** [+3]  (4 hours later)
 >>> 
 >>> people always seem to forget this bit, but seriously, druids can just reincarnate you. Forever.
->>> And if your a high level magic user, instead of becoming a lich just make an artifact that casts Reincarnate and then a list of restoration spells every time you die.
 >>> 
+>>> And if your a high level magic user, instead of becoming a lich just make an artifact that casts Reincarnate and then a list of restoration spells every time you die.
 
->>>> **u/NotAHeroYet** [+3]  *City of Angles Municipal Government**
+>>>> **u/NotAHeroYet** [+3]  *City of Angles Municipal Government* (6 hours later)
 >>>> 
 >>>> Not forever- well, they can, but there are [correction: maruts] who, supposedly, start seriously tracking you down after "an excessive number of reincarnations". (not to mention you have to keep the druids doing it.) of course, this is a downside for any immortality, if it's canon in the setting at all. if it's not, then it's not relevant.
->>>> 
 
->>>>> **u/Uncaffeinated** [+2] *
+>>>>> **u/Uncaffeinated** [+2]  (7 hours later)
 >>>>> 
 >>>>> If silly druid rules are giving you grief, just get a Spirit Shaman or Archivist to do it.
->>>>> 
 
->>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government**
+>>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government* (9 hours later)
 >>>>>> 
 >>>>>> I was more reffering to the problem that is a unknown number of maruts (presumably approaching the entire marut population as time progresses) are after you- i misremembered this as druids (or read another about an order of druids. multiple antagonists with this idea are possible.)
->>>>>> http://www.d20srd.org/srd/monsters/inevitable.htm#marut
 >>>>>> 
+>>>>>> http://www.d20srd.org/srd/monsters/inevitable.htm#marut
 
->>>>>>> **u/Nighzmarquls** [+1] *
+>>>>>>> **u/Nighzmarquls** [+1]  (11 hours later)
 >>>>>>> 
 >>>>>>> Maruts don't just go after you using reincarnation. It's all forms of cheating death including lichdom.
->>>>>>> Although if the druids are okay with it then you might be able to swing by it actually being part of a natural order.
 >>>>>>> 
+>>>>>>> Although if the druids are okay with it then you might be able to swing by it actually being part of a natural order.
 
->>>>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government**
+>>>>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government* (13 hours later)
 >>>>>>>> 
 >>>>>>>> I was just under the impression that lichdom is harder to break than reincarnation, though i could be mistaken. I also thought that lichdom has no acomplices, but the reincanators will eventually be qualified as acomplices, as per the Inevitables' properties, and killed. Eventually, you'd be out of druids, and, knowing doing this is a death sentence, getting people to do it is far more expensive.
->>>>>>>> 
 
->>>>> **u/Nighzmarquls** [+1] *
+>>>>> **u/Nighzmarquls** [+1]  (6 hours later)
 >>>>> 
 >>>>> I actually have had a fun time starting up settings for DnD where civilizations actually utilize the reincarnation and magic other things. The quite simple and elegant situation of just how absurdly expensive magic casting services are make for some pretty nasty class distinctions.
->>>>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (4 hours later)
 >>>> 
 >>>> [Reincarnate](http://www.d20srd.org/srd/spells/reincarnate.htm) costs a level, though.  (Or stat points if you are first level.)  What you want instead is [Last Breath](http://webcache.googleusercontent.com/search?q=cache:4V1t8ztX5pQJ:www.ogreforge.com/phpBB3/srd/srd/spells/lastBreath.php+&cd=1&hl=en&ct=clnk&gl=us)
->>>> The other problem is that Reincarnate puts you in a Young Adult body, which is good because it gets around the aging issue, but it's of a random race.  You can get around this using Polymorph Any Object or Wish, though.
 >>>> 
+>>>> The other problem is that Reincarnate puts you in a Young Adult body, which is good because it gets around the aging issue, but it's of a random race.  You can get around this using Polymorph Any Object or Wish, though.
 
->>>>> **u/Sceptically** [+2] *
+>>>>> **u/Sceptically** [+2]  (6 hours later)
 >>>>> 
 >>>>> The problem with Reincarnate and Last Breath is that they explicitly don't work on you if you died of old age, according to your links.
 >>>>> > The spell cannot bring back a creature who has died of old age.
->>>>> 
 
->>>>>> **u/Uncaffeinated** [+2] *
+>>>>>> **u/Uncaffeinated** [+2]  (7 hours later)
 >>>>>> 
 >>>>>> In a realistic setting, you're not going to just drop dead of "old age" suddenly, so you can always see it coming and off yourself first. In a sillier RAW setting where you literally die on your birthday randomly once you're too old, you can again just keep track of birthdays and kill yourself once you're about to get too old.
->>>>>> 
 
->>>>>> **u/eaglejarl** [+2] *
+>>>>>> **u/eaglejarl** [+2]  (11 hours later)
 >>>>>> 
 >>>>>> Well, yes.  So kill yourself before you die of old age.  Just have the druid standing by with the Last Breath spell.
->>>>>> 
 
->>>>>> **u/Nighzmarquls** [+1] *
+>>>>>> **u/Nighzmarquls** [+1]  (6 hours later)
 >>>>>> 
 >>>>>> Huh? that's not what it says in every source book I've read. The entire point of reincarnate is it works on old age and Resurrection and true Resurrection don't. I didn't provide those links. I wonder a bit about them.
->>>>>> 
 
->>>>>>> **u/VorpalAuroch** [+2]  *Life before Death**
+>>>>>>> **u/VorpalAuroch** [+2]  *Life before Death* (7 hours later)
 >>>>>>> 
 >>>>>>> No, reincarnate is supposed to be worse than normal resurrection. But assisted suicide would count, so you're fine.
->>>>>>> 
 
->>>>>>>> **u/Nighzmarquls** [+1] *
+>>>>>>>> **u/Nighzmarquls** [+1]  (8 hours later)
 >>>>>>>> 
 >>>>>>>> It's worse by some regards but it's always been the one that does NOT have the old age limit in the versions I've seen. When did they change that?
->>>>>>>> I've had this discrepancy come up before so now I'm curious if anyone knows when this disrepency came into play?
->>>>>>>> Checking around it looks like I'm [not](http://rpg.stackexchange.com/questions/37092/living-forever-in-dd-via-spells) the [only](https://www.reddit.com/r/DnD/comments/2ymmgk/why_would_anyone_use_reincarnate_instead_of_raise/) one who remembers reincarnate being the 'other way'.
->>>>>>>> In pathfinder it still says it the [way I remember](http://www.d20pfsrd.com/magic/all-spells/r/reincarnate) anyone know when this particular nerfing snuck in?
 >>>>>>>> 
+>>>>>>>> I've had this discrepancy come up before so now I'm curious if anyone knows when this disrepency came into play?
+>>>>>>>> 
+>>>>>>>> Checking around it looks like I'm [not](http://rpg.stackexchange.com/questions/37092/living-forever-in-dd-via-spells) the [only](https://www.reddit.com/r/DnD/comments/2ymmgk/why_would_anyone_use_reincarnate_instead_of_raise/) one who remembers reincarnate being the 'other way'.
+>>>>>>>> 
+>>>>>>>> In pathfinder it still says it the [way I remember](http://www.d20pfsrd.com/magic/all-spells/r/reincarnate) anyone know when this particular nerfing snuck in?
 
->>>>> **u/Nighzmarquls** [+1] *
+>>>>> **u/Nighzmarquls** [+1]  (5 hours later)
 >>>>> 
 >>>>> Oh that is much better for a contingency style spell!
->>>>> But ya, reincarnate is superior to all other life restoring from death spells in DnD that are not nullified by 'natural old age'.
 >>>>> 
+>>>>> But ya, reincarnate is superior to all other life restoring from death spells in DnD that are not nullified by 'natural old age'.
 
->>>>>> **u/eaglejarl** [+2] *
+>>>>>> **u/eaglejarl** [+2]  (11 hours later)
 >>>>>> 
 >>>>>> Go with [Last Breath](http://webcache.googleusercontent.com/search?q=cache:4V1t8ztX5pQJ:www.ogreforge.com/phpBB3/srd/srd/spells/lastBreath.php+&cd=2&hl=en&ct=clnk&gl=us) instead; it doesn't cost a level.
->>>>>> 
 
->>>>> **u/Jiro_T** [+1] *
+>>>>> **u/Jiro_T** [+1]  (a day later)
 >>>>> 
 >>>>> If you use Polymorph Any Object (or probably even Wish), wouldn't the first Dispel Magic you run into turn you back into the random race?
->>>>> 
 
->>>>> **u/stringless** [+1]  *Rebel Alliance**
+>>>>> **u/stringless** [+1]  *Rebel Alliance* (5 hours later)
 >>>>> 
 >>>>> What kind of rational wizard would rely upon gods?
->>>>> 
 
->>>>>> **u/eaglejarl** [+4] *
+>>>>>> **u/eaglejarl** [+4]  (11 hours later)
 >>>>>> 
 >>>>>> The whole point of rationality is that it's about winning.  A *rational* wizard--or rational *anyone*--is exactly the person who would rely on gods if it helped them achieve their goals.
->>>>>> EDIT:  Just remembered:  even if you do (for some reason) have a problem using magic that comes from gods, you can always find / be an [Archivist](http://dndtools.pw/classes/archivist/), a ridiculously overpowered class that is basically a Wizard who uses divine spells but doesn't get them from a god.
 >>>>>> 
+>>>>>> EDIT:  Just remembered:  even if you do (for some reason) have a problem using magic that comes from gods, you can always find / be an [Archivist](http://dndtools.pw/classes/archivist/), a ridiculously overpowered class that is basically a Wizard who uses divine spells but doesn't get them from a god.
 
->>>>>> **u/Nighzmarquls** [+3] *
+>>>>>> **u/Nighzmarquls** [+3]  (5 hours later)
 >>>>>> 
 >>>>>> Druid magic is not necessarily from any god. It is from 'nature'. Or if you prefer there is the whole 'clerics for an ideal' ruling.
->>>>>> But even then you can go into the whole casting a transitionally divine spell as an arcane which is usually a thing you can do with enough rules searching.
 >>>>>> 
+>>>>>> But even then you can go into the whole casting a transitionally divine spell as an arcane which is usually a thing you can do with enough rules searching.
 
->>>>>>> **u/Reasonableviking** [+2] *
+>>>>>>> **u/Reasonableviking** [+2]  (19 hours later)
 >>>>>>> 
 >>>>>>> Limited Wish can replicate the effects of Last Breath or Reincarnate, so job's a good un!
->>>>>>> 
 
->>> **u/Farmerbob1** [+3]  *Level 1 author**
+>>> **u/Farmerbob1** [+3]  *Level 1 author* (3 hours later)
 >>> 
 >>> But, if you knew that you would eventually become not-you, would you sacrifice the current rational you in order to eventually become an irrational lich-you?
->>> Personally, I'd rather take my chances with living in an irrational afterlife, than becoming an evil, irrational undead thing with a target on my back.
 >>> 
+>>> Personally, I'd rather take my chances with living in an irrational afterlife, than becoming an evil, irrational undead thing with a target on my back.
 
->>>> **u/stringless** [+2]  *Rebel Alliance**
+>>>> **u/stringless** [+2]  *Rebel Alliance* (3 hours later)
 >>>> 
 >>>> >But, if you knew that you would eventually become not-you, would you sacrifice the current rational you in order to eventually become an irrational lich-you?
->>>> Is that implicit, though? There isn't a stated mechanism as far as I know that *changes* the alignment of the prospective lich. It was just assumed as a given from the beginning that only evil beings would attempt to do so.
->>>> But *rationally* there's nothing *evil* about necromancy, right?
 >>>> 
+>>>> Is that implicit, though? There isn't a stated mechanism as far as I know that *changes* the alignment of the prospective lich. It was just assumed as a given from the beginning that only evil beings would attempt to do so.
+>>>> 
+>>>> But *rationally* there's nothing *evil* about necromancy, right?
 
->>>>> **u/Transfuturist** [+4]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+5]  *Carthago delenda est.* (3 hours later)
 >>>>> 
 >>>>> In settings where necromancy is explicitly evil, yes, it is.
->>>>> 
 
->>>>>> **u/stringless** [+1]  *Rebel Alliance**
+>>>>>> **u/stringless** [+1]  *Rebel Alliance* (4 hours later)
 >>>>>> 
 >>>>>> But what's evil about necromancy, really?
->>>>>> 
 
->>>>>>> **u/Murska1FIN** [+6] *
+>>>>>>> **u/Murska1FIN** [+6]  (4 hours later)
 >>>>>>> 
 >>>>>>> Well, given that the method to become a lich is supposedly 'unspeakably evil', then even if we don't agree that 'unspeakably evil' is a thing, it's still probably something pretty evil. Like brutally torturing and killing a lot of people and trapping their souls to torture them some more, or something in that vein. Maybe some wizards are not willing to do this even if the alternative is dying themselves.
->>>>>>> 
 
->>>>>>>> **u/Reasonableviking** [+1] *
+>>>>>>>> **u/Reasonableviking** [+1]  (19 hours later)
 >>>>>>>> 
 >>>>>>>> Speaking of Unspeakably Evil acts that can let you become a Lich: http://www.giantitp.com/forums/showthread.php?121334-The-Dream-of-Metal
->>>>>>>> I must say that it's a remarkably cool rules interaction and it doesn't even let heroes come after barring divine intervention.
 >>>>>>>> 
+>>>>>>>> I must say that it's a remarkably cool rules interaction and it doesn't even let heroes come after barring divine intervention.
 
->>>>>>>> **u/stringless** [+1]  *Rebel Alliance**
+>>>>>>>> **u/stringless** [+1]  *Rebel Alliance* (4 hours later)
 >>>>>>>> 
 >>>>>>>> "Unspeakably evil" could also mean outright denying the validity of the universe's after-life as part of the ritual.
->>>>>>>> 
 
->>>>>>>> **u/stringless** [-1]  *Rebel Alliance**
+>>>>>>>> **u/stringless** [-1]  *Rebel Alliance* (5 hours later)
 >>>>>>>> 
 >>>>>>>> Maybe the most obvious or "easiest" method is obviously (and "unspeakably") evil. That doesn't mean it's the only method and given the way the overarching system we're discussing works it *can't* be the only method.
->>>>>>>> 
 
->>>>>>>>> **u/Murska1FIN** [+1] *
+>>>>>>>>> **u/Murska1FIN** [+1]  (7 hours later)
 >>>>>>>>> 
 >>>>>>>>> Well, if it's not the ease of access why you're going the Lich route, why not just use some other method of becoming immortal in the first place?
->>>>>>>>> 
 
->>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (4 hours later)
 >>>>>>> 
 >>>>>>> What is evil?
->>>>>>> 
 
->>>>>>>> **u/stringless** [+2]  *Rebel Alliance**
+>>>>>>>> **u/stringless** [+2]  *Rebel Alliance* (4 hours later)
 >>>>>>>> 
 >>>>>>>> And that's the ultimate question in this context, isn't it?
->>>>>>>> There's no inherent harm to necromancy. Obviously, there are spells in the school of necromancy that cause harm, but all schools of spellcraft have spells that cause harm.
->>>>>>>> I remember a time when the cure *x* wounds spells were explicitly classed as necromancy.
 >>>>>>>> 
+>>>>>>>> There's no inherent harm to necromancy. Obviously, there are spells in the school of necromancy that cause harm, but all schools of spellcraft have spells that cause harm.
+>>>>>>>> 
+>>>>>>>> I remember a time when the cure *x* wounds spells were explicitly classed as necromancy.
 
->>>>> **u/Farmerbob1** [+2]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+2]  *Level 1 author* (6 hours later)
 >>>>> 
 >>>>> Necromancy is not necessarily inherently evil in every scenario.  However, in most fiction, necromancy is evil.  Write a story about a benevolent lich and you would be challenging a lot of tropes, but it certainly wouldn't be impossible.
->>>>> 
 
-> **u/FaceDeer** [+7] *
+> **u/FaceDeer** [+8]  (3 hours later)
 > 
 > I had a 3.5ed D&D wizard character a little while back, and by the time I got up near epic levels I had reached a point where I had so many different magical options available that worrying about setting up any one specific means of immortality ahead of time was kind of pointless.
-> In fact, for most of the campaign that character was actually *planning* to die as a means of accomplishing his goals. Near the end he suddenly discovered that his big plan had a flaw in it and hurriedly cobbled together a means of personal immortality as part of an impromptu plan B (it involved a mash-up of the druidic *reincarnate* and the wizard *clone* spells, and the primary purpose wasn't so much immortality as it was to play cosmic keep-away with his soul to ensure his enemies couldn't get ahold of it after he died or even figure out what had happened to it).
-> I imagine that in a world where he hadn't been beset by powerful enemies and had just quietly worked away at his research he would have eventually looked up from his books, realized "oh, I'm 80 years old. I should do something about that" and taken a few months to develop some kind of solution to that problem. Lichdom has some downsides so he might have wound up picking something else.
 > 
+> In fact, for most of the campaign that character was actually *planning* to die as a means of accomplishing his goals. Near the end he suddenly discovered that his big plan had a flaw in it and hurriedly cobbled together a means of personal immortality as part of an impromptu plan B (it involved a mash-up of the druidic *reincarnate* and the wizard *clone* spells, and the primary purpose wasn't so much immortality as it was to play cosmic keep-away with his soul to ensure his enemies couldn't get ahold of it after he died or even figure out what had happened to it).
+> 
+> I imagine that in a world where he hadn't been beset by powerful enemies and had just quietly worked away at his research he would have eventually looked up from his books, realized "oh, I'm 80 years old. I should do something about that" and taken a few months to develop some kind of solution to that problem. Lichdom has some downsides so he might have wound up picking something else.
 
-> **u/MrCogmor** [+5] *
+> **u/MrCogmor** [+5]  (8 hours later)
 > 
 > D&D Settings have verifiable good afterlives and to get into them you need to have a good relationship with the more benevolent gods who tend to take a dim view on lichdom and undead. 
-> In D&D you normally only become a lich if you already know you are going to a horrible afterlife.
 > 
+> In D&D you normally only become a lich if you already know you are going to a horrible afterlife.
 
-> **u/Grasmel** [+7] *
+> **u/Grasmel** [+7]  (5 hours later)
 > 
 > In 4e there's an epic destiny called Archlich, who doesn't have to be evil. The idea is that achieving lichdom is very hard, and most any lich you meet is going to have taken shortcuts by making deals with demonic powers or somesuch, corrupting them in the process (beyond how evil you have to be to make such a deal in the first place). It is possible to reach it on your own though, just much harder. Since everyone has an immortal soul, if they have reason to consider themselves good people they have reason to thing they will get into a good afterlife after they die, so unless you have a very important reasons to stay and the talent to make it so, you generally let yourself pass on. 
-> As per the nature of DnD games, with differing edition rules and DM interpretation, it's very hard to determine what is canon and what is not. This is simple my view of the DnD world, with different things cherry picked so that the world makes the most sense given certain observations. I know that most liches are evil and good wizards don't generally try for it, and this is how I make sense of that.
 > 
+> As per the nature of DnD games, with differing edition rules and DM interpretation, it's very hard to determine what is canon and what is not. This is simple my view of the DnD world, with different things cherry picked so that the world makes the most sense given certain observations. I know that most liches are evil and good wizards don't generally try for it, and this is how I make sense of that.
 
-> **u/Geminii27** [+3] *
+> **u/Geminii27** [+3]  (an hour later)
 > 
 > Life extension is not necessarily a strong enough desire in all possible wizards. Many people who are nearing the end of their natural life express desires for a *lack* of extension, for various reasons. While wizards might have a slightly higher percentage of life-extension seekers than the average population, there's no indication that it's actually common, particularly amongst the aged. And a much younger wizard might not want to give up their young, healthy, and capable human body for that of a lich.
-> 
 
->> **u/stringless** [+2]  *Rebel Alliance**
+>> **u/stringless** [+2]  *Rebel Alliance* (an hour later)
 >> 
 >> >for various reasons.
->> Ah. That's *actually* the question, though.
 >> 
+>> Ah. That's *actually* the question, though.
 
->>> **u/Geminii27** [+2] *
+>>> **u/Geminii27** [+3]  (an hour later)
 >>> 
 >>> In which case the answer becomes "Because the society they were raised in did not emphasize life extension, and they did not develop a personal philosophy which prioritized it sufficiently to undergo the process."
->>> Now if there was something about working with magic which made wizards increasingly rational, or the society where they grew up was one in which rationalist thinking was encouraged and lauded, then perhaps many more would take the lich option - particularly if others had gone before them and were still around to provide advice about the post-mortem experience.
 >>> 
+>>> Now if there was something about working with magic which made wizards increasingly rational, or the society where they grew up was one in which rationalist thinking was encouraged and lauded, then perhaps many more would take the lich option - particularly if others had gone before them and were still around to provide advice about the post-mortem experience.
 
->>>> **u/stringless** [+1]  *Rebel Alliance**
+>>>> **u/stringless** [+1]  *Rebel Alliance* (2 hours later)
 >>>> 
 >>>> >In which case the answer becomes "Because the society they were raised in did not emphasize life extension, and they did not develop a personal philosophy which prioritized it sufficiently to undergo the process."
->>>> You're skipping the "*Any wizard* for whom acquisition of knowledge is a primary character trait" part.
->>>> You know, *rational wizards*.
 >>>> 
+>>>> You're skipping the "*Any wizard* for whom acquisition of knowledge is a primary character trait" part.
+>>>> 
+>>>> You know, *rational wizards*.
 
->>>>> **u/Transfuturist** [+7]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+6]  *Carthago delenda est.* (3 hours later)
 >>>>> 
 >>>>> Being motivated by learning does not equate to rationality.
->>>>> Perhaps every lich *was* a rational wizard.
 >>>>> 
+>>>>> Perhaps every lich *was* a rational wizard.
 
->>>>>> **u/stringless** [+0]  *Rebel Alliance**
+>>>>>> **u/stringless** [+0]  *Rebel Alliance* (4 hours later)
 >>>>>> 
 >>>>>> They'd probably have to be, on some level, wouldn't they?
->>>>>> That still doesn't imply that intelligent undead *must* be or *must* eventually be evil, though. Who defines evil, anyway?
->>>>>> This isn't really intended as an examination of religion/morality in D&D, though.
 >>>>>> 
+>>>>>> That still doesn't imply that intelligent undead *must* be or *must* eventually be evil, though. Who defines evil, anyway?
+>>>>>> 
+>>>>>> This isn't really intended as an examination of religion/morality in D&D, though.
 
->>>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government**
+>>>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government* (6 hours later)
 >>>>>>> 
 >>>>>>> I assumed you needed the blessing of gods- or a god- of evil alignment- that a lich is an evil counterpart to a paladin. which is ironic, if it works like that, because a paladin can be betrayed by their deity if they aren't deemed "good", but a lich doesn't seem to have that risk.
->>>>>>> 
 
->>>>>>>> **u/stringless** [+2]  *Rebel Alliance**
+>>>>>>>> **u/stringless** [+2]  *Rebel Alliance* (6 hours later)
 >>>>>>>> 
 >>>>>>>> Yeah, that's why that doesn't make any sense. Paladins can fall out of the favor of their deity. Liches (except for that one 3/3.5 cleric-lich prestige class I don't recall the name of) approach immortality through arcane rather than divine magic as a general rule.
->>>>>>>> *That's probably why it's "evil", innit*
 >>>>>>>> 
+>>>>>>>> *That's probably why it's "evil", innit*
 
->>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government**
+>>>>> **u/NotAHeroYet** [+2]  *City of Angles Municipal Government* (6 hours later)
 >>>>> 
 >>>>> No, he isn't. The assumption is- reincarnation is a thing (at least with certain spells), afterlives are a thing (gods are verifiably real, if not omipotent, and if you believe that, believing in an afterlife is easier. besides, mortals can bring back the dead, why wouldn't gods be able to do it a minimum of equally well?)
->>>>> Yes, each of those things put knowledge in danger. so does lichdom, and the most dangerous afterlives for *anything* are the ones with gods of evil. 
->>>>> There's also the possibility that wizards aren't paperclipper AI- they never cared about knowledge for it's own sake, just for the power it offers. maybe you have a religious one, who wants to maximize the people going to the good afterlife, while maximizing his personal odds of going there. knowledge is still valuable, power is still useful, but it isn't going to get the wizard going out of his way to get more.
 >>>>> 
+>>>>> Yes, each of those things put knowledge in danger. so does lichdom, and the most dangerous afterlives for *anything* are the ones with gods of evil. 
+>>>>> 
+>>>>> There's also the possibility that wizards aren't paperclipper AI- they never cared about knowledge for it's own sake, just for the power it offers. maybe you have a religious one, who wants to maximize the people going to the good afterlife, while maximizing his personal odds of going there. knowledge is still valuable, power is still useful, but it isn't going to get the wizard going out of his way to get more.
 
-> **u/None** [+3] *
+> **u/None** [+5]  (3 hours later)
 > 
 > [removed]
-> 
 
->> **u/Transfuturist** [+8]  *Carthago delenda est.**
+>> **u/Transfuturist** [+8]  *Carthago delenda est.* (4 hours later)
 >> 
 >> I disbelieve the category of unspeakable evils.
->> Perhaps a better definition would be those evils where transmission of their description is an evil act. Although it would be interesting (to say the least) to try to define *those.*
 >> 
+>> Perhaps a better definition would be those evils where transmission of their description is an evil act. Although it would be interesting (to say the least) to try to define *those.*
 
->>> **u/Gurkenglas** [+3] *
+>>> **u/Gurkenglas** [+3]  (4 hours later)
 >>> 
 >>> You just did.
->>> 
 
->>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+4]  *Carthago delenda est.* (4 hours later)
 >>>> 
 >>>> Fine, *enumerate them.*
->>>> 
 
->>>>> **u/MugaSofer** [+4] *
+>>>>> **u/MugaSofer** [+5]  (7 hours later)
 >>>>> 
 >>>>> Well, summoning Murgoth, The Demon Who Eats Any Planet On Whom His Name Is Spoken, would be one such evil ... if he existed.
 >>>>> Thankfully, the real demon has a different name.
->>>>> It's also possible that the ritual involves something so horrible that, in the process of describing it, you would accidentally imagine it and start screaming uncontrollably until you died of screaming uncontrollably. Unless you were Evil, in which case you'd just be mildly impressed.
 >>>>> 
+>>>>> It's also possible that the ritual involves something so horrible that, in the process of describing it, you would accidentally imagine it and start screaming uncontrollably until you died of screaming uncontrollably. Unless you were Evil, in which case you'd just be mildly impressed.
 
->>>>>> **u/Transfuturist** [+4]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+7]  *Carthago delenda est.* (9 hours later)
 >>>>>> 
 >>>>>> Woah there, son, triple-posting Murgoth's name summons him in the form of an autonomous paperclip factory.
->>>>>> 
 
->>>>> **u/MugaSofer** [+2] *
+>>>>> **u/MugaSofer** [+2]  (7 hours later)
+>>>>> 
+>>>>> Well, summoning Murgoth, The Demon Who Eats Any Planet On Whom His Name Is Spoken, would be one such evil ... if he existed.
+>>>>> Thankfully, the real demon has a different name.
+
+>>>>> **u/MugaSofer** [+2]  (7 hours later)
 >>>>> 
 >>>>> Well, summoning Murgoth, The Demon Who Eats Any Planet On Whom His Name Is Spoken, would be one such evil ... if he existed.
 >>>>> Thankfully, the real demon has a different name.
 >>>>> 
-
->>>>> **u/MugaSofer** [+2] *
->>>>> 
->>>>> Well, summoning Murgoth, The Demon Who Eats Any Planet On Whom His Name Is Spoken, would be one such evil ... if he existed.
->>>>> Thankfully, the real demon has a different name.
 >>>>> It's also possible that the ritual involves something so horrible that, in the process of describing it, you would accidentally imagine it and start screaming uncontrollably until you died of screaming uncontrollably. Unless you were Evil, in which case you'd just be mildly impressed.
->>>>> 
 
->> **u/stringless** [+3]  *Rebel Alliance**
+>> **u/stringless** [+3]  *Rebel Alliance* (3 hours later)
 >> 
 >> "Unspeakably evil" doesn't actually mean anything, ultimately. As you've partially demonstrated. There is no such thing as an "unspeakable evil" because someone will be fine with speaking about it.
->> Baelnorns don't have to do any unspeakable acts, for instance. So the universe matters, perhaps. But it seems more like the inherent "evil" of necromancy adversely affected the concept of liches (not to mention that magical creatures generally [and in particular undead] exist to be adversaries).
->> edit: [this would be unspeakably evil depending on setting, but obviously we can speak about it anyway](http://goo.gl/SCyxXl)
 >> 
+>> Baelnorns don't have to do any unspeakable acts, for instance. So the universe matters, perhaps. But it seems more like the inherent "evil" of necromancy adversely affected the concept of liches (not to mention that magical creatures generally [and in particular undead] exist to be adversaries).
+>> 
+>> edit: [this would be unspeakably evil depending on setting, but obviously we can speak about it anyway](http://goo.gl/SCyxXl)
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (4 hours later)
 >>> 
 >>> Reddit hates link shorteners; I rescued this comment from the spam filter.
->>> 
 
->>>> **u/stringless** [+2]  *Rebel Alliance**
+>>>> **u/stringless** [+2]  *Rebel Alliance* (4 hours later)
 >>>> 
 >>>> Thank you. The actual link has parentheses and I decided to make the syntax easier on myself.
->>>> 
 
-> **u/Law_Student** [+3] *
+> **u/Law_Student** [+3]  (2 hours later)
 > 
 > Isn't there a chance that the potion to become a lich fails and just flat out kills you?  Seems really risky compared to elixirs of youth.
-> Edit - Ah, looks like they took those out of 3rd and later editions.
 > 
+> Edit - Ah, looks like they took those out of 3rd and later editions.
 
-> **u/wendigo_days** [+3] *
+> **u/wendigo_days** [+3]  (7 hours later)
 > 
 > Better ways that don't hamper your growth in power with huge LA: go through a brief crucifixion to become necropolitan (make sure to take all your full-body painkillers beforehand and bring some nice music), become a ghost, become a saint, get perpetually reincarnated and gain eternal youth in the bargain, get a psion to true mind switch you with immortal being of choice. And then there is steal life on yourself: easily reversible stat drain, for permanent increase of lifespan.
-> For protection from assaultive death: simulacra, device of contingent resurrection hidden like a phylactery with contingent teleport to that place placed on your body, soulbind your own soul into a gem and create copies of that gem before freeing yours through a dominated servant, use the mind-split trick to get multiple copies of yourself, get a psion to mind-swap you with a mindraped eternal blade's blade guide and become unkillable, mind-swap with a vestige that a dominated binder has summoned but not yet bound while it's standing in the runic circle, thus becoming an unkillable entity beyond space with time to think forever like Quirrell in that one story--and you can return by having the binder summon you again and cast mind-swap from a scroll. Once you tick 17, create a timeless demiplane and wirehead yourself with self-mindrape, thus gaining an infinity of time to own the universe your mind can conjure. The absolute best part is that mindrape does not restrict you to thoughts you already possess, so by strict reading there's no need to even arrange periodic info input, (if you care, which you do, you'll have to get a good élan or devil or something to write a very complex mindrape instruction with enough random seeds to last you a long while, though since high-level, non-technical language instructions contain a lot of complexity you can do pretty well just with those) which even though easy to do by specifying in the mindrape that you periodically cast Scholar's Touch on a book or dvd that a mind-raped servant brings to you, would inevitably create a weak link in your eternity (i.e. traceable transfer that could lead someone to your demiplane). However it's not a problem--it doesn't take much time, if you've set it up right, for your demiplane to spawn life that could create info (your demiplane can't contain rare elements, but you can sure as hell bring them in and magically multiply them, or fabricate them outright, with your own spells or those of mindraped servants) and it's growing all the time. So though there's a period of initial risk it will soon be self-sufficient and can recede into the astral mists.
-> There are lots of other ways and these are by no guarantee the best and there might be mistakes. I'll try and look it up in more detail. Just IIRC.
 > 
+> For protection from assaultive death: simulacra, device of contingent resurrection hidden like a phylactery with contingent teleport to that place placed on your body, soulbind your own soul into a gem and create copies of that gem before freeing yours through a dominated servant, use the mind-split trick to get multiple copies of yourself, get a psion to mind-swap you with a mindraped eternal blade's blade guide and become unkillable, mind-swap with a vestige that a dominated binder has summoned but not yet bound while it's standing in the runic circle, thus becoming an unkillable entity beyond space with time to think forever like Quirrell in that one story--and you can return by having the binder summon you again and cast mind-swap from a scroll. Once you tick 17, create a timeless demiplane and wirehead yourself with self-mindrape, thus gaining an infinity of time to own the universe your mind can conjure. The absolute best part is that mindrape does not restrict you to thoughts you already possess, so by strict reading there's no need to even arrange periodic info input, (if you care, which you do, you'll have to get a good élan or devil or something to write a very complex mindrape instruction with enough random seeds to last you a long while, though since high-level, non-technical language instructions contain a lot of complexity you can do pretty well just with those) which even though easy to do by specifying in the mindrape that you periodically cast Scholar's Touch on a book or dvd that a mind-raped servant brings to you, would inevitably create a weak link in your eternity (i.e. traceable transfer that could lead someone to your demiplane). However it's not a problem--it doesn't take much time, if you've set it up right, for your demiplane to spawn life that could create info (your demiplane can't contain rare elements, but you can sure as hell bring them in and magically multiply them, or fabricate them outright, with your own spells or those of mindraped servants) and it's growing all the time. So though there's a period of initial risk it will soon be self-sufficient and can recede into the astral mists.
+> 
+> There are lots of other ways and these are by no guarantee the best and there might be mistakes. I'll try and look it up in more detail. Just IIRC.
 
->> **u/Quillwraith** [+1]  *Red King Consolidated**
+>> **u/Quillwraith** [+1]  *Red King Consolidated* (2 days later)
 >> 
 >> Mind-swaping with a vestige... I would never have thought of that one. Nice. 
->> Strictly speaking, I'm not sure it's a valid target, though - unstatted, not exactly a creature. Hm. The fact that they're immune to spells implies that they *are* targetable, as long as spell-power transparency is not in effect.
 >> 
+>> Strictly speaking, I'm not sure it's a valid target, though - unstatted, not exactly a creature. Hm. The fact that they're immune to spells implies that they *are* targetable, as long as spell-power transparency is not in effect.
 
-> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (23 minutes later)
 > 
 > Inhabiting a rotting body probably hurts like a son of a bitch. If you don't start out evil, you're gonna be ornerier than a zombie wolverine by the time a few centuries have passed.
-> 
 
->> **u/stringless** [+3]  *Rebel Alliance**
+>> **u/stringless** [+3]  *Rebel Alliance* (37 minutes later)
 >> 
 >> Every implementation of "lich" I'm aware of is ultimately magically animated bones. Why include nerve attachments in the spell?
->> For that matter, why maintain a primarily physical form at all? But that's a different question.
 >> 
+>> For that matter, why maintain a primarily physical form at all? But that's a different question.
 
->>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (an hour later)
 >>> 
 >>> So what's the process of getting from living wizard to magically animated bones?
->>> 
 
->>>> **u/stringless** [+3]  *Rebel Alliance**
+>>>> **u/stringless** [+3]  *Rebel Alliance* (2 hours later)
 >>>> 
 >>>> Beats me. The process has always been deliberately obfuscated. But maintaining a connection to dead nerve endings doesn't seem like a useful thing that would be part of the process. Probably.
->>>> Avoiding eternal phantom pain would be a valid and rational reason to not turn into a lich, though, I'll give you that.
 >>>> 
+>>>> Avoiding eternal phantom pain would be a valid and rational reason to not turn into a lich, though, I'll give you that.
 
 ---
 

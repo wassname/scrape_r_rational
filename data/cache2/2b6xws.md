@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/ZankerH** [+2]  *Remove Kebab**
+> **u/ZankerH** [+2]  *Remove Kebab* (an hour later)
 > 
 > Wrong subreddit?
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > I'm with ZankerH. Did you mean to post this somewhere else? So Russia has a history of transhumanism. Nothing new there, or particularly applicable to this subreddit. Article was interesting nonetheless. Good luck reversing entropy. :p Though reconstruction is likely to be the next best path for ressurection.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 hours later)
 >> 
 >> I dunno, I had found it interesting that the Soviets had a transhumanist side to them.  If it's just that wrongly classified for this subreddit, deleted.
->> 
 
 ---
 

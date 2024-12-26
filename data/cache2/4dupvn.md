@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: http://indie-fund.com/2016/04/indie-fund-backs-miegakure/
-* Score: 10
+* Score: 12
 
 * Created: 2016-04-08T03:35:48
 
@@ -12,61 +12,57 @@
 
 ### Comments:
 
-> **u/medley_of_minds** [+7] *
+> **u/medley_of_minds** [+6]  (2 hours later)
 > 
 > Sweet.  I've been waiting *years* for this game.  Still no estimated release date though.
-> 
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (10 hours later)
 >> 
 >> Yeah, I kind of expect the game to just appear completed on Steam with no warning whatsoever.
->> But I'm glad that Marc has never made any promises on the release date, so I can actually be sure that if he ever does post one, he will be very certain to release it on the given date.
 >> 
+>> But I'm glad that Marc has never made any promises on the release date, so I can actually be sure that if he ever does post one, he will be very certain to release it on the given date.
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+4]  *My arch-enemy is entropy* (2 minutes later)
 > 
 > For those who may not know, [Miegakure](http://miegakure.com/) is an ongoing Work In Progress to build a puzzle game where you move through 4 dimensions. It's been in development since 2009, but it looks like its release may be arriving soon!
-> 
 
-> **u/General_Urist** [+3] *
+> **u/General_Urist** [+3]  (12 hours later)
 > 
 > Ah yes, *Miegakure*.... Looking real cool, but...
-> At this point I might as well be taking bets as to weather or not it will come out before Half Life 3.
 > 
+> At this point I might as well be taking bets as to weather or not it will come out before Half Life 3.
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (14 hours later)
 >> 
 >> I'll take that bet. Miegakure getting outside funding means that Marc has some outside forces to account to, to actually release it sooner or later and he has completed multiple levels/worlds of the game. While Vale on the other hand is notorious for constantly delaying releases.
->> So I'd be willing to take a low-value bet that Miegakure will release before Half Life 3.
->> Them releasing by 2018 (Half Life's current expected release)? That's a different bet!
 >> 
+>> So I'd be willing to take a low-value bet that Miegakure will release before Half Life 3.
+>> 
+>> Them releasing by 2018 (Half Life's current expected release)? That's a different bet!
 
->>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (18 hours later)
 >>> 
 >>> Wait, Half-Life 3 has an expected release date now? I figured that I'd have to revived from cryogenic suspension before I could see Half-Life 3.
->>> 
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>>> 
 >>>> Well....I don't know about an [*official* release date](http://www.ibtimes.co.in/half-life-3-release-date-planned-q4-2017-q1-2018-game-not-active-development-says-former-643323)....
->>>> 
 
->>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+>>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (5 days later)
 >>>>> 
 >>>>> That link is broken.
->>>>> Also your university's internet is horrifying.
 >>>>> 
+>>>>> Also your university's internet is horrifying.
 
->>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (5 days later)
 >>>>>> 
 >>>>>> Huh? Oh I was doing some stuff on that site at the same time, so I just posted the wrong link by mistake.
->>>>>> But what do you mean it's horrifying?
 >>>>>> 
+>>>>>> But what do you mean it's horrifying?
 
->>>>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+>>>>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (5 days later)
 >>>>>>> 
 >>>>>>> Oh, I thought you were always browsing sites embedded in an iframe, via some weird sort of webproxy. (Which would lead to pasting the webproxy's link by accident.) Good to hear that was unfounded.
->>>>>>> 
 
 ---
 

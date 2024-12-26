@@ -2,7 +2,7 @@
 
 * Author: u/SyntaqMadeva *
 * URL: http://moodylit.com/the-good-student-table-of-contents/book-2-chapter-twenty-six
-* Score: 34
+* Score: 36
 
 * Created: 2019-06-02T22:05:18
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Kind_Implement** [+2] *
+> **u/Kind_Implement** [+2]  (2 days later)
 > 
 > Finally, plot movement.  I love this story but this arc has been slow developing.  I can't wait to see what happens next.
-> 
 
 ---
 

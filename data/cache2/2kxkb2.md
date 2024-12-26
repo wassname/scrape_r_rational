@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Pinyaka** [+10] *
+> **u/Pinyaka** [+10]  (an hour later)
 > 
 > ITT: people post their favorite sci-fi without explaining how it can make you smarter.
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 hours later)
 > 
 > I suppose I should clarify my intent: What would *your* answer be to the question at the link?
-> 
 
 ---
 

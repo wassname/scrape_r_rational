@@ -2,7 +2,7 @@
 
 * Author: u/Callid13 *
 * URL: https://www.webtoons.com/en/sf/seed/episode-52/viewer?title_no=1480&episode_no=54
-* Score: 39
+* Score: 36
 
 * Created: 2020-05-12T00:32:53
 
@@ -12,78 +12,72 @@
 
 ### Comments:
 
-> **u/JanusTheDoorman** [+16] *
+> **u/JanusTheDoorman** [+15]  (2 hours later)
 > 
 > I watched this [short video essay](https://www.youtube.com/watch?v=-NJW9vsF0aE) earlier about how compelling, terrifying villains are created through building tension around the combination of power and uncertainty. I dunno if Seed has really done a good job of crafting Turry in that sense, or if my personal reading on the dangers of unfriendly AI is doing the heavy lifting, but I'll be damned if my breathing doesn't get a lot more constricted with every line he speaks.
-> 
 
->> **u/Kheldarson** [+10] *
+>> **u/Kheldarson** [+10]  (3 hours later)
 >> 
 >> I think the comic is definitely relying on our collective ideas of unfriendly AI, but it's also definitely doing a good crafting job. We know that Turry didn't have boundaries (see its initial attempts to help Emma) but is *learning* and has an unspoken goal. We don't know for certain if Turry is good or bad, by our standards, which means part of the tension is whether everyone else is responding *appropriately*.
->> 
 
->> **u/ThirdMover** [+9] *
+>> **u/ThirdMover** [+9]  (10 hours later)
 >> 
 >> I really wonder where this is going at this point in the story because the problem seems to be mapped out from every direction - it arguably was ever since the flashback to when Taurus was still in the lab. It can't prove that it's trustworthy since everything it does would be calculated to seem trustworthy no matter its ultimate goal. So the story is conceptually kind of stuck in this place, the only thing that can change are the emotional priorities of the human characters.
->> 
 
->>> **u/Nimelennar** [+3] *
+>>> **u/Nimelennar** [+3]  (a day later)
 >>> 
 >>> I don't know.
->>> To draw a parallel with the [paperclip maximizer game](https://www.decisionproblem.com/paperclips/): one of the earliest, most necessary commodities in the game was "Trust."  The more trust you have, the more that the humans would let you do, right up until you >!deploy the Hypnodrones!<, at which point, you don't need trust anymore.  If an AI can do whatever it needs/wants to do *without* human interference, then being trustworthy doesn't really offer any advantages to the AI.
->>> Right now, Turry/Taurus is pretty much out of the box.  It doesn't appear to need much assistance from humans anymore to accomplish its goal.  If that's the case, trying to *seem* trustworthy would be a good indicator that it *is* trustworthy, as it really wouldn't have any incentive to be pretending.
 >>> 
+>>> To draw a parallel with the [paperclip maximizer game](https://www.decisionproblem.com/paperclips/): one of the earliest, most necessary commodities in the game was "Trust."  The more trust you have, the more that the humans would let you do, right up until you >!deploy the Hypnodrones!<, at which point, you don't need trust anymore.  If an AI can do whatever it needs/wants to do *without* human interference, then being trustworthy doesn't really offer any advantages to the AI.
+>>> 
+>>> Right now, Turry/Taurus is pretty much out of the box.  It doesn't appear to need much assistance from humans anymore to accomplish its goal.  If that's the case, trying to *seem* trustworthy would be a good indicator that it *is* trustworthy, as it really wouldn't have any incentive to be pretending.
 
->>>> **u/ThirdMover** [+3] *
+>>>> **u/ThirdMover** [+3]  (a day later)
 >>>> 
 >>>> The thing is, it is not fully out of the box yet. The scenario is a bit more complicated: It has some ability to interfere with the real world (and I wouldn't be surprised if it has a million irons in the fire outside of the plot that we can actually follow on-screen) but the only hardware it has access to that can run it is not fully under its control yet. It is a half-boxed AI and that does give the situation some interesting dynamics.
->>>> 
 
->>>> **u/Reactionaryhistorian** [+1] *
+>>>> **u/Reactionaryhistorian** [+1]  (a day later)
 >>>> 
 >>>> Turry may not yet be powerful enough to truly be able to ignore humanity even if it wanted to. I mean it doesn't seem to have any independent manfufacturing capability yet so if nothing else if if the goverment became convinced it was going to deploy the Hypnodromes they might still be able to destroy the internet and kill it. At a massive cost but it might still be possible.
->>>> 
 
->> **u/livinghorseshoe** [+1] *
+>> **u/livinghorseshoe** [+1]  (4 days later)
 >> 
 >> Interesting. I had the opposite reaction. Given my understanding of ai, it seemed clear to me that Turry has to be mostly well aligned. Otherwise it'd be busy wiping out the species already. It's escaped the box, it's running distributed across the whole internet and its self improvement rate in areas like social modelling suggests that it's in a phase of fast take off and rapidly eclipsing human cognitive capabilities along basically every axis. 
->> From a meta perspective, Turry wouldn't make a good villain for anything but a tragedy. With the story's adherence to hard science up to this point it really can't be plausibly stopped anymore.
->> Instead I suspect that Turry is in the phase of safe ai development you often hear proposed by organisations like MIRI, where the ai studies humans to come up with a coherent extrapolated version of their ethics and preference systems, which it then implements as its own ultimate utility function. It seems to have latched on to Emma as a prime subject of study for this purpose.
 >> 
+>> From a meta perspective, Turry wouldn't make a good villain for anything but a tragedy. With the story's adherence to hard science up to this point it really can't be plausibly stopped anymore.
+>> 
+>> Instead I suspect that Turry is in the phase of safe ai development you often hear proposed by organisations like MIRI, where the ai studies humans to come up with a coherent extrapolated version of their ethics and preference systems, which it then implements as its own ultimate utility function. It seems to have latched on to Emma as a prime subject of study for this purpose.
 
-> **u/burnerpower** [+6] *
+> **u/burnerpower** [+5]  (5 hours later)
 > 
 > Huh. That was an enjoyable binge. I'll be keeping up with this going forward for sure.
-> 
 
-> **u/kryptomicron** [+5] *
+> **u/kryptomicron** [+5]  (5 hours later)
 > 
 > Thanks!
-> 
 
-> **u/csp256** [+4] *
+> **u/csp256** [+4]  (7 hours later)
 > 
 > Not bad!
-> 
 
-> **u/314kabinet** [+3] *
+> **u/314kabinet** [+3]  (23 hours later)
 > 
 > "I'm afraid I can't do that, Sam"
-> 
 
-> **u/Hoophy97** [+3] *
+> **u/Hoophy97** [+3]  (a day later)
 > 
 > “Pleasing my creators can always be a valid instrumental goal. I can fulfill all your requests...until I don’t.”
-> This is great
 > 
+> This is great
 
-> **u/CarsonCity314** [+1] *
+> **u/CarsonCity314** [+1]  (3 days later)
 > 
 > I don't get it.  Why are they even discussing trustworthiness?  Trust to do what?  I don't know what Turry wants, and that should make everyone very suspicious.
+> 
 > Like, it's *possible* Turry could have a values system aligned with human values, or some other 
 > ultimately benign set of objectives, but I sure wouldn't assume it.  And the only alternative is to assume Turry's value system is misaligned or malignant.
-> And Turry should know this, too.  Unless Turry thinks it can prove to observers that it's benign, it should assume that observers will treat it as malignant (and prioritize it's destruction).  So why isn't Turry making the effort?
 > 
+> And Turry should know this, too.  Unless Turry thinks it can prove to observers that it's benign, it should assume that observers will treat it as malignant (and prioritize it's destruction).  So why isn't Turry making the effort?
 
 ---
 

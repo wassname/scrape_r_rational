@@ -2,7 +2,7 @@
 
 * Author: u/EliezerYudkowsky  *Godric Gryffindor**
 * URL: https://www.reddit.com/r/rational/comments/4ccyk1/bst_wip_lets_script_an_anime_together_opportunity/
-* Score: 50
+* Score: 52
 
 * Created: 2016-03-29T00:08:05
 
@@ -487,458 +487,569 @@ Obviously, all work and brainstorming of the Collective Intelligence is availabl
 
 ### Comments:
 
-> **u/TennisMaster2** [+26] *
+> **u/TennisMaster2** [+26]  (2 hours later)
 > 
 > > Sirua
-> Shirua
-> > onii-chan
-> otouto
-> Any reason to make this an anime script, as opposed to animation that stylistically and thematically resembles anime?  Writing a script with words that most Western voice actors can't pronounce seems like a failure mode, to me.  Unless you're going for writing it in a manner that will be more easily translated into Japanese?  If the latter, I'd go for using a Japanese physicist as the alias or first name, and having Taka call Shirua Shirua-sama in order to make their banter humorous.
-> On a substantive level, the Earthian should be genre-savvy if the audience for this is Japanese people, and ignorant of the genre if the audience is Western.  Their first actions, then, would be: asking questions to discern whether this new world holds up to genre conventions, or asking what happened and why Toyori selected for someone like them, respectively.  Both would ask for her goals.
-> As for general plot: with the help of the physicist or familiar, Toyori unravels the workings of her plane, succeeding in dimension hopping in the finale of season one.
-> > *Now* bring forth my friend.
-> She's had previous contact before, somehow; perhaps her friend gave the instructions?  There might be collusion, for reasons to be explored in season two.
 > 
+> Shirua
+> 
+> > onii-chan
+> 
+> otouto
+> 
+> Any reason to make this an anime script, as opposed to animation that stylistically and thematically resembles anime?  Writing a script with words that most Western voice actors can't pronounce seems like a failure mode, to me.  Unless you're going for writing it in a manner that will be more easily translated into Japanese?  If the latter, I'd go for using a Japanese physicist as the alias or first name, and having Taka call Shirua Shirua-sama in order to make their banter humorous.
+> 
+> On a substantive level, the Earthian should be genre-savvy if the audience for this is Japanese people, and ignorant of the genre if the audience is Western.  Their first actions, then, would be: asking questions to discern whether this new world holds up to genre conventions, or asking what happened and why Toyori selected for someone like them, respectively.  Both would ask for her goals.
+> 
+> As for general plot: with the help of the physicist or familiar, Toyori unravels the workings of her plane, succeeding in dimension hopping in the finale of season one.
+> 
+> > *Now* bring forth my friend.
+> 
+> She's had previous contact before, somehow; perhaps her friend gave the instructions?  There might be collusion, for reasons to be explored in season two.
 
->> **u/AmeteurOpinions** [+18]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+17]  *Finally, everyone was working together.* (4 hours later)
 >> 
 >> I also agree that anime-speak and honorifics are an all-or-nothing, and in this case should be ditched.
->> 
 
->> **u/MondSemmel** [+3] *
+>> **u/MondSemmel** [+3]  (5 days later)
 >> 
 >> "> Now bring forth my friend.
->> She's had previous contact before, somehow; perhaps her friend gave the instructions?"
->> It's "now" because the main difference between the ritual she was supposed to perform, and the one she actually used, was an extended section of removing all limits. The regular ritual also summons a friend.
 >> 
+>> She's had previous contact before, somehow; perhaps her friend gave the instructions?"
+>> 
+>> It's "now" because the main difference between the ritual she was supposed to perform, and the one she actually used, was an extended section of removing all limits. The regular ritual also summons a friend.
 
-> **u/FeepingCreature** [+20]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+19]  *GCV Literally The Entire Culture* (51 minutes later)
 > 
 > Okay, so first of all Reddit is a horrible format for feedback and annotations. May I suggest Google Docs?
-> Furthermore, so far the basic setup seems fairly similar to Familiar of Zero (your standard "random person from our world summoned to a fantasy universe"), so I'd look to that for subversion potential. (Challenge Mode: de-emphasize physics and chemistry knowledge, it's too easy - but how? Maybe truly alien rules of physics?)
-> > Sirua: <She was fourteen!>
-> Subtle bit: for how long exactly has she been planning this?
-> Interesting question: does the person she summon still match the template of "Lesser Fae of Empathy"? What constraints, exactly, does that template define, and how do they apply to a human? _Why the fuck is there a meta-engine of magic that takes commands in spoken language_? Is this a _Ra_ scenario? The debris of a singularity? The _success_ of a singularity? An insular archipelago of opt-outers? And what's the 1-2, 2-4, 3-6 sequence mean? Wait -
-> >  The vantage point of infinity sees all things below itself, because infinity can be contained within infinity."
-> DID SHE JUST INVOKE SIMULATIONISM? Shit, is this confirmed as post-transcendence verse? The vantage point of infinity exists.. so that means entropy is defeated? Is that even possible?
-> > Toyori: "Great eye that sees all things as beneath it, I address my words to **that which is above you**. Even knowing that I do not know the meaning of my speech, I request you accept my instruction."
-> Okay, "that which is above you" implies there's an oversight controller/AI/God for this world and then there's a _meta_-God that handles arbitration. I think this points fairly strongly at an Archipelago-style universe. I like the "Even knowing" bit. Whoever told them this sequence _meant_ for it to be used by those who don't understand it.
-> Hm. David is from our plane - is he a transhumanist? Because if not, there's an easy source of drama from the fact that he's obviously a copy. On the other hand, might be too easy. Maybe be dramatic for Toyori, like she's trying to keep it from him, but a relief for him because it means he didn't just disappear.
-> So the place I would go with the setting is that this is post-singularity, post-transcendence, Archipelago-type setting, but a universe that has been post-transcendence for so long that it's grown _ossified_; there's a central AI and you could in theory just ask it things, but that sort of capability is so corrosive to any kind of constraint-based human society that there's sprung up this sort of system of ritualistic engagement, worlds nested within worlds, to limit exposure to the ultimate power of DWIM - allow a society to function where there's scarcity leading to interesting stories, despite the fact that it's fundamentally artificial. And I think the key is to _never ever spell this out_ - don't even hint. Stay for the entire story within the narrative framework of the characters. It's a literary [zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) - knowing a deep background fact makes things derived from it seem more structured, even if you never reveal the reason for the structure.
-> Bits that jumped out at me that I'd do differently:
-> > In one hand, she holds a small cute creature whose head she occasionally pets with the other hand.
-> Set this up harder. Make the cute creature out to be the team-pet-to-be. Give it big ears. Give it a _name_. 
-> > Sirua turns around, and whips her finger to point at the guards. "She's gone! Sound the Toyori alarm!"
-> "She's gone! Sound the alarm!" And then reveal that there's a special Toyori alarm through delayed visual gags, guards opening sealed orders with a painting and description of Toyori, etc. It's a bit on-the-nose.
-> > Taka's voice: <Would you bet your soul on that?>
-> The character of Sirua is a bit single-note in this conversation. This exchange offers an opportunity to build some more depth into her. 
-> Taka's voice: <Would you bet your soul on that?>
-> Sirua leans against the wall. Her face, twisted with worry, relaxes into a weary half-smile. She's showing her age.
-> Sirua, quietly but fondly: <Stop trying to get my soul, Taka-kun.>
-> :pause:
-> :music picks up a low beat:
-> Kunabu: "There's one more obvious place."
-> > Toyori: "What's your name?"
-> Setup: the wall of the room contains a large mirror. (It's an old trope, but it works. And it's plausible for a brothel.)
-> Toyori: "What's your name?"
-> Camera pans right, to Toyori in mirror. (No dramatic zoom, a simple sideways pan.) Toyori's eyes open.
-> Toyori's voice in a lower register: "David Finkelstein."
-> [edit] Alternative endings:
-> Toyori's voice in a lower register: "[Napoleon Bonaparte.](https://www.fanfiction.net/s/7736264/1/Emperor-of-Zero)"
-> Toyori's voice in a lower register: "[Ezio Auditore de Firenze.](https://www.fanfiction.net/s/8118551/1/On-the-Wings-of-an-Eagle)"
-> Toyori's voice in a lower register: "[Wiz Zumwalt.](http://www.baen.com/wizard-s-bane.html)"
-> Toyori's voice in a lower register: "[Central.](https://www.fanfiction.net/s/7568728/1/Saruman-of-many-Devices)"
-> Toyori's voice in a lower register: "[Parson Gotti.](http://archives.erfworld.com/)"
 > 
+> Furthermore, so far the basic setup seems fairly similar to Familiar of Zero (your standard "random person from our world summoned to a fantasy universe"), so I'd look to that for subversion potential. (Challenge Mode: de-emphasize physics and chemistry knowledge, it's too easy - but how? Maybe truly alien rules of physics?)
+> 
+> > Sirua: <She was fourteen!>
+> 
+> Subtle bit: for how long exactly has she been planning this?
+> 
+> Interesting question: does the person she summon still match the template of "Lesser Fae of Empathy"? What constraints, exactly, does that template define, and how do they apply to a human? _Why the fuck is there a meta-engine of magic that takes commands in spoken language_? Is this a _Ra_ scenario? The debris of a singularity? The _success_ of a singularity? An insular archipelago of opt-outers? And what's the 1-2, 2-4, 3-6 sequence mean? Wait -
+> 
+> >  The vantage point of infinity sees all things below itself, because infinity can be contained within infinity."
+> 
+> DID SHE JUST INVOKE SIMULATIONISM? Shit, is this confirmed as post-transcendence verse? The vantage point of infinity exists.. so that means entropy is defeated? Is that even possible?
+> 
+> > Toyori: "Great eye that sees all things as beneath it, I address my words to **that which is above you**. Even knowing that I do not know the meaning of my speech, I request you accept my instruction."
+> 
+> Okay, "that which is above you" implies there's an oversight controller/AI/God for this world and then there's a _meta_-God that handles arbitration. I think this points fairly strongly at an Archipelago-style universe. I like the "Even knowing" bit. Whoever told them this sequence _meant_ for it to be used by those who don't understand it.
+> 
+> Hm. David is from our plane - is he a transhumanist? Because if not, there's an easy source of drama from the fact that he's obviously a copy. On the other hand, might be too easy. Maybe be dramatic for Toyori, like she's trying to keep it from him, but a relief for him because it means he didn't just disappear.
+> 
+> So the place I would go with the setting is that this is post-singularity, post-transcendence, Archipelago-type setting, but a universe that has been post-transcendence for so long that it's grown _ossified_; there's a central AI and you could in theory just ask it things, but that sort of capability is so corrosive to any kind of constraint-based human society that there's sprung up this sort of system of ritualistic engagement, worlds nested within worlds, to limit exposure to the ultimate power of DWIM - allow a society to function where there's scarcity leading to interesting stories, despite the fact that it's fundamentally artificial. And I think the key is to _never ever spell this out_ - don't even hint. Stay for the entire story within the narrative framework of the characters. It's a literary [zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) - knowing a deep background fact makes things derived from it seem more structured, even if you never reveal the reason for the structure.
+> 
+> Bits that jumped out at me that I'd do differently:
+> 
+> > In one hand, she holds a small cute creature whose head she occasionally pets with the other hand.
+> 
+> Set this up harder. Make the cute creature out to be the team-pet-to-be. Give it big ears. Give it a _name_. 
+> 
+> > Sirua turns around, and whips her finger to point at the guards. "She's gone! Sound the Toyori alarm!"
+> 
+> "She's gone! Sound the alarm!" And then reveal that there's a special Toyori alarm through delayed visual gags, guards opening sealed orders with a painting and description of Toyori, etc. It's a bit on-the-nose.
+> 
+> > Taka's voice: <Would you bet your soul on that?>
+> 
+> The character of Sirua is a bit single-note in this conversation. This exchange offers an opportunity to build some more depth into her. 
+> 
+> Taka's voice: <Would you bet your soul on that?>
+> 
+> Sirua leans against the wall. Her face, twisted with worry, relaxes into a weary half-smile. She's showing her age.
+> 
+> Sirua, quietly but fondly: <Stop trying to get my soul, Taka-kun.>
+> 
+> :pause:
+> 
+> :music picks up a low beat:
+> 
+> Kunabu: "There's one more obvious place."
+> 
+> > Toyori: "What's your name?"
+> 
+> Setup: the wall of the room contains a large mirror. (It's an old trope, but it works. And it's plausible for a brothel.)
+> 
+> Toyori: "What's your name?"
+> 
+> Camera pans right, to Toyori in mirror. (No dramatic zoom, a simple sideways pan.) Toyori's eyes open.
+> 
+> Toyori's voice in a lower register: "David Finkelstein."
+> 
+> [edit] Alternative endings:
+> 
+> Toyori's voice in a lower register: "[Napoleon Bonaparte.](https://www.fanfiction.net/s/7736264/1/Emperor-of-Zero)"
+> 
+> Toyori's voice in a lower register: "[Ezio Auditore de Firenze.](https://www.fanfiction.net/s/8118551/1/On-the-Wings-of-an-Eagle)"
+> 
+> Toyori's voice in a lower register: "[Wiz Zumwalt.](http://www.baen.com/wizard-s-bane.html)"
+> 
+> Toyori's voice in a lower register: "[Central.](https://www.fanfiction.net/s/7568728/1/Saruman-of-many-Devices)"
+> 
+> Toyori's voice in a lower register: "[Parson Gotti.](http://archives.erfworld.com/)"
 
->> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor* (an hour later)
 >> 
 >> We want to avoid making this fanfiction to prevent copyright issues.
->> "Napoleon Bonaparte" is good for an alias-recognized-as-alias, as is "David Smith".  But if in Ep02 we want to have Toyori try to bind David to serve her, and then fail after "David" reveals that "David Finkelstein" was an alias, then for maximum effect it should be an instantly recognizable Earth name but not an instantly recognizable Earth alias.
 >> 
+>> "Napoleon Bonaparte" is good for an alias-recognized-as-alias, as is "David Smith".  But if in Ep02 we want to have Toyori try to bind David to serve her, and then fail after "David" reveals that "David Finkelstein" was an alias, then for maximum effect it should be an instantly recognizable Earth name but not an instantly recognizable Earth alias.
 
->>> **u/PeridexisErrant** [+31]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+30]  *put aside fear for courage, and death for life* (an hour later)
 >>> 
 >>> It's got to be **David Monroe**, of course.
+>>> 
 >>> - Passes as normal earth name, good for non-ingroup-watchers
 >>> - Maybe 'David Monroe' was *one of us!* (Or maybe just picked a name - ambiguity is key here)
 >>> - Does HPMoR exist in the universe-like-ours?  Fans will speculate like mad!
 >>> - Bonus points if he later goes by "Tom", or signs something "QQ" as an obviously-an-alias
->>> 
 
->>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+>>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (an hour later)
 >>> 
 >>> Not sure if your client/browser doesn't show links, but all those names are links to fics that explore this trope. And yes, the person that was summoned in that fic is the actual Napoleon.
->>> [edit] I'm an idiot. It was in the Author's Notes!
->>> But um, then your comment doesn't make sense...
 >>> 
+>>> [edit] I'm an idiot. It was in the Author's Notes!
+>>> 
+>>> But um, then your comment doesn't make sense...
 
->> **u/None** [+6] *
+>> **u/None** [+8]  (5 hours later)
 >> 
 >> > And what's the 1-2, 2-4, 3-6 sequence mean? Wait -
 >> > > The vantage point of infinity sees all things below itself, because infinity can be contained within infinity."
->> My first thought was that it was an example of "infinity containing infinity". There are infinitely many integers, and infinitely many *even* integers. And, fun fact, you can make a one-to-one mapping between them: map n to 2n, e.g. 1 maps to 2, 2 maps to 4, 3-6, 4-8, 5-10, .... This is a common example of a [countably infinite set](https://en.wikipedia.org/wiki/Countable_set).
->> There are also sets you can't do this to, which you can think of as bigger infinities. If Toyori had summoned Georg Cantor somehow, I'd worry that shit was about to get real.
 >> 
+>> My first thought was that it was an example of "infinity containing infinity". There are infinitely many integers, and infinitely many *even* integers. And, fun fact, you can make a one-to-one mapping between them: map n to 2n, e.g. 1 maps to 2, 2 maps to 4, 3-6, 4-8, 5-10, .... This is a common example of a [countably infinite set](https://en.wikipedia.org/wiki/Countable_set).
+>> 
+>> There are also sets you can't do this to, which you can think of as bigger infinities. If Toyori had summoned Georg Cantor somehow, I'd worry that shit was about to get real.
 
->>> **u/linkhyrule5** [+6] *
+>>> **u/linkhyrule5** [+6]  (7 hours later)
 >>> 
 >>> >get real
->>> No, that would be if she had summoned Dedekind. :p
 >>> 
+>>> No, that would be if she had summoned Dedekind. :p
 
-> **u/AmeteurOpinions** [+13]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+14]  *Finally, everyone was working together.* (3 hours later)
 > 
 > Ha! I've been working on a thermonuclear magical girl story, so I think I can contribute to this one.
+> 
 > The first thing I did was get a sheet of paper and number it 1 to 13. Then split each of those into Part A and Part B. You have opening and ending credits here, but no break in the middle. I would give some consideration to the actual Opening and Ending, like how *City of Angles* had its own super stylish intro to get you in the mood for each chapter. I think that sort of thing is criminally underused in text, anyway.
+> 
 > This post is just over 4k words. I suspect this is too short. Cut it in half and it would be 2k words; a quick google search reveals the average reading speed is 200 words per minute. I know this is an extremely flimsy estimate, and fight scenes and such will require more prose-per-moment than most scenes, but I would guess that a full episode would clock around five thousand words to not feel too slow. Less than that and we're heading for padding land. I myself only took like six or seven minutes to read that entire episode, which isn't enough.
+> 
 > Personally, this only feels like a the first half of an episode. I would still want a thorough introduction of our familiar and the first round of interactions and running gags between the two of them, and then they escape the city somehow at the end of the episode. If we only have thirteen episodes, we can't afford to squander any time in the Tutorial Area. 
+> 
 > I think it's strange that you want us to make use of the visual elements but made the familiar's actual presence extremely unflashy.
+> 
 > > Toyori: "What's your name?"
 > > Toyori's eyes open.
 > > Toyori's voice in a lower register: "David Finkelstein."
-> That is so not going to cut it. We need a hologram or mental projection pronto, and a separate physical body secured by the fourth or fifth episode. This method has other problems too. Making the characters share vocal chords means they can't talk over each other or rush, which limits our options and should be avoided. Telepathy is a hacky way to go but it will serve for now.
-> Okay, now for plot and worldbuilding. A quick rule of thumb when writing a novel is to take the climax you were going to write and move it to the middle, then write an even cooler climax for the actual ending. So let's assume the big climax of linking the magical and normal realms is now our midpoint and the real ending is the saving of both with the other. Cool. We'll need an antagonist of some kind and a formal magic system, but we're getting somewhere.
-> So the story looks like:
-> 1. Toyori and David are introduced, then escape the city.
-> 2. Toyori and David bond while overcoming some kind of obstacle.
-> 3. Evil wizard is gonna conquer realms by mashing them together, like lego and duplo.
-> 4. ?
-> 5. Wizard starts exploiting the link between worlds to endanger them.
-> 6. David cleverly sacrifices himself to move the portal to his homeworld.
-> 7. Toyori the loss of her friend, but reunites with the real David. 
-> 8. Both worlds were saved for a time, but their connection could become a blessing or a curse.
-> 9. ?
-> 10. ?
-> 11. Love confession.
-> 12. ?
-> 13. Normal and magic realms get saved. The end.
 > 
+> That is so not going to cut it. We need a hologram or mental projection pronto, and a separate physical body secured by the fourth or fifth episode. This method has other problems too. Making the characters share vocal chords means they can't talk over each other or rush, which limits our options and should be avoided. Telepathy is a hacky way to go but it will serve for now.
+> 
+> Okay, now for plot and worldbuilding. A quick rule of thumb when writing a novel is to take the climax you were going to write and move it to the middle, then write an even cooler climax for the actual ending. So let's assume the big climax of linking the magical and normal realms is now our midpoint and the real ending is the saving of both with the other. Cool. We'll need an antagonist of some kind and a formal magic system, but we're getting somewhere.
+> 
+> So the story looks like:
+> 
+> 1. Toyori and David are introduced, then escape the city.
+> 
+> 2. Toyori and David bond while overcoming some kind of obstacle.
+> 
+> 3. Evil wizard is gonna conquer realms by mashing them together, like lego and duplo.
+> 
+> 4. ?
+> 
+> 5. Wizard starts exploiting the link between worlds to endanger them.
+> 
+> 6. David cleverly sacrifices himself to move the portal to his homeworld.
+> 
+> 7. Toyori the loss of her friend, but reunites with the real David. 
+> 
+> 8. Both worlds were saved for a time, but their connection could become a blessing or a curse.
+> 
+> 9. ?
+> 
+> 10. ?
+> 
+> 11. Love confession.
+> 
+> 12. ?
+> 
+> 13. Normal and magic realms get saved. The end.
 
->> **u/callmebrotherg** [+9]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+9]  *now posting as /u/callmesalticidae* (6 hours later)
 >> 
 >> > thermonuclear magical girl story. 
->> Please, tell us more.
 >> 
+>> Please, tell us more.
 
->>> **u/AmeteurOpinions** [+9]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+9]  *Finally, everyone was working together.* (13 hours later)
 >>> 
 >>> I will only say the title, which is *Collateral Damage*.
->>> 
 
->>>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae* (19 hours later)
 >>>> 
 >>>> [Desire to know more intensifies](https://zippy.gfycat.com/FlamboyantUnderstatedGelada.gif)
->>>> 
 
->>>>> **u/AmeteurOpinions** [+6]  *Finally, everyone was working together.**
+>>>>> **u/AmeteurOpinions** [+6]  *Finally, everyone was working together.* (20 hours later)
 >>>>> 
 >>>>> You'll have to wait. I should have the first chapter online in a few weeks.
->>>>> 
 
->>>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>>>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (20 hours later)
 >>>>>> 
 >>>>>> [Excellent](http://media2.giphy.com/media/IeLOBZb7ZdQ1G/giphy.gif)
->>>>>> 
 
->> **u/Faust91x** [+2]  *Iteration X**
+>> **u/Faust91x** [+2]  *Iteration X* (a month later)
 >> 
 >> > thermonuclear magical girl story.
->> You got all my attention with that line. Makes me think of Nanoha except more rational and with more fluorescence.
->> Can't wait to read it!
 >> 
+>> You got all my attention with that line. Makes me think of Nanoha except more rational and with more fluorescence.
+>> 
+>> Can't wait to read it!
 
-> **u/natron88** [+9]  *Ankh-Morpork City Watch**
+> **u/natron88** [+9]  *Ankh-Morpork City Watch* (3 hours later)
 > 
 > [Here](https://en.wikipedia.org/wiki/David_Finkelstein) is the wikipedia page for author and professor of physics David Finkelstein.
-> It was kind of interesting to imagine the soul of a deceased elderly physics professor advising a young magical princess, for the few seconds before I read the final notes.
 > 
+> It was kind of interesting to imagine the soul of a deceased elderly physics professor advising a young magical princess, for the few seconds before I read the final notes.
 
-> **u/Wintryfog** [+9] *
+> **u/Wintryfog** [+8]  (4 hours later)
 > 
 > I don't watch much anime. Thoughts:
-
+> 
 > What else do summoning circles do? If you can summon a sentient creature, it should be possible to summon other things like fire or large rocks. Does the summoning always link to a particular other plane, or can it link to its own plane (opening up portals).
-
+> 
 > If Toyori is summoning a particular friend, it opens up the question of how they ended up communicating in the first place. Unless there’s some accidental cross-world shenanigans going on that will be elaborated, then that means that the other friend has the ability to communicate across worlds. And it probably isn’t limited to just the other friend.
-
+> 
 > Sorcery, Mana, ki, youki. So at the very least there’s magical energy, spells, and nonhuman characters. What do the nonhumans want?
-
+> 
 > Why did Sirua forget the secret passage? Obviously if it’s important enough to wipe her own memory, there’s some extremely important reason to build a tunnel out of the summoning room, but what could it be? Or actually, Kyori probably impersonated Sirua. But then it means she’s been planning it for a damn long time. If she’s that patient and planning, there are probably other contingencies she has set up.
-
+> 
 > Someone coming to meet her. Again, how did they meet? How did she plan all this under her mom’s nose?
-
+> 
 > Toyori cares enough about her mysterious contact that she wants ??? to know what happened to her, even if she fails.
-
+> 
 > In David Finkelstein’s position, I would… Well, if she specifically summoned David, then it means that they’ve had contact before. It’s reasonable to assume that he knows some of whatever is going on. But why would Toyori summon him? Probably because Toyori thinks that summoning David is the best way to achieve her goals. Which don’t end in her ruling. She doesn’t want power. What does Toyori want? Sex. And what else? Well, she’s smart. She grew up watching her mom be miserable about ruling the kingdom. She’s probably had “civic responsibility” drilled in her head pretty far. She specifically tried to foist it off on her brother, so she at least cares about making sure that the job is done right. But where else would she pick up a strong goal? And it can’t be something stupid like Gryphon riding, because this is supposed to be an awesome anime, and she would have to easily hide it because her mom’s model of her motivations consists of “Sex and not having a bunch of responsibilities”. And whatever she’s planning outside the city has to be on the downlow for a while to prevent recapture. So we need a strong goal that isn’t going to cause blatant massive action (at least until she’s strong enough to prevent recapture). The main characters introduced have to show up again.
-
+> 
 > Let’s recap. Strong goal, moderately hideable, entangles main characters that didn’t escape, produces awesome anime, ideally shouldn’t be something too predictable and standard, summoning David is the best way to meet this goal, doesn’t involve ruling. Look to the title. Opportunity Princess. Granting opportunities to others? Finding opportunities for herself?
-
+> 
 > Anyways, whatever her motivation is, my actions as David would probably be roughly aligned with it since she specifically bothered to summon me. If someone goes to great lengths to find someone, there’s probably a common purpose behind it.
 > Maybe there could be a big dramatic moment where either David or Toyori change their goal/motivation. So her motivation now doesn’t need to be something befitting of a main character.
-
-> I don’t watch enough anime to have things that I’ve wanted to see happen but that don’t happen. Not aware enough of the relevant tropes.
 > 
+> I don’t watch enough anime to have things that I’ve wanted to see happen but that don’t happen. Not aware enough of the relevant tropes.
 
-> **u/PeridexisErrant** [+22]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+21]  *put aside fear for courage, and death for life* (2 hours later)
 > 
 > Brainstorming is usually against the /r/rational rules, but we'll allow this series with a couple of conditions:
-> -   "Profits will be split in a split that I'd arbitrarily decide on later" is a recipe for disaster - you NEED clarity up front.  I suggest using the CC-BY-SA-NC license, and any profits go to a charity of your choice.  I think this is compatible with your goals /u/EliezerYudkowsky, but please confirm or take this elsewhere :/
->   I really don't want /r/rational to get dragged into the problems this could cause otherwise.
-> - Please, please, please use a better platform for collaborative editing and comments than Reddit.  Happy to have regular discussion and brainstorming, but the drafts don't belong here.  (same rule as our regular contests)
 > 
+> -   "Profits will be split in a split that I'd arbitrarily decide on later" is a recipe for disaster - you NEED clarity up front.  I suggest using the CC-BY-SA-NC license, and any profits go to a charity of your choice.  I think this is compatible with your goals /u/EliezerYudkowsky, but please confirm or take this elsewhere :/
+> 
+>   I really don't want /r/rational to get dragged into the problems this could cause otherwise.
+> 
+> - Please, please, please use a better platform for collaborative editing and comments than Reddit.  Happy to have regular discussion and brainstorming, but the drafts don't belong here.  (same rule as our regular contests)
 
->> **u/4t0m** [+9]  *Chaos Legion**
+>> **u/4t0m** [+8]  *Chaos Legion* (2 hours later)
 >> 
 >> Why do we have a [BST] tag in the sidebar if brainstorming is against the rules?  (And are there any examples of that being enforced?) Also, I'd hate for this to be way less likely to be continued as result of trying to formalize it too much while it still exists in such a nebulous state.  
->> I don't know how one would formalize the profit split at this stage, while we have no idea how many people will participate and at what level of engagement.
 >> 
+>> I don't know how one would formalize the profit split at this stage, while we have no idea how many people will participate and at what level of engagement.
 
->>> **u/PeridexisErrant** [+8]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+8]  *put aside fear for courage, and death for life* (2 hours later)
 >>> 
 >>> Just above the tags, we have 
->>> > Do not post scenarios for discussion, requests for someone to write a story, or brainstorming threads. Authors get one exemption after each published chapter or equivalent.
->>> I'll add a reference to this by the tag itself though.
->>> There are examples of this being enforced, but only mods can see removed posts... so I guess the 'usually' phrase will mean something very different to most readers.  I intended it only as a flag that this post is *not* going to get removed!
 >>> 
+>>> > Do not post scenarios for discussion, requests for someone to write a story, or brainstorming threads. Authors get one exemption after each published chapter or equivalent.
+>>> 
+>>> I'll add a reference to this by the tag itself though.
+>>> 
+>>> There are examples of this being enforced, but only mods can see removed posts... so I guess the 'usually' phrase will mean something very different to most readers.  I intended it only as a flag that this post is *not* going to get removed!
 
->>>> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor**
+>>>> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor* (3 hours later)
 >>>> 
 >>>> Hm.  Shouldn't this post be covered under the published-chapter exemption?
->>>> 
 
->>>>> **u/PeridexisErrant** [+12]  *put aside fear for courage, and death for life**
+>>>>> **u/PeridexisErrant** [+12]  *put aside fear for courage, and death for life* (3 hours later)
 >>>>> 
 >>>>> It is, hence the post still being here!
->>>>> You have quite an exemption backlog, in fact :)
 >>>>> 
+>>>>> You have quite an exemption backlog, in fact :)
 
->>>>>> **u/SoundLogic2236** [+2] *
+>>>>>> **u/SoundLogic2236** [+2]  (19 hours later)
 >>>>>> 
 >>>>>> Does it form a backlog? "Authors get one exemption after each published chapter or equivalent." doesn't say if the exceptions stack. It also doesn't say how many exceptions codifying the genre counts for.
->>>>>> 
 
->>>>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>>>>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (21 hours later)
 >>>>>>> 
 >>>>>>> Moderator's discretion, based on how they're being used.
->>>>>>> 
 
->>>> **u/4t0m** [+2]  *Chaos Legion**
+>>>> **u/4t0m** [+2]  *Chaos Legion* (3 hours later)
 >>>> 
 >>>> Ah okay, that makes sense.
->>>> >There are examples of this being enforced, but only mods can see removed posts... 
->>>> Ugh, I'm dumb :).
 >>>> 
+>>>> >There are examples of this being enforced, but only mods can see removed posts... 
+>>>> 
+>>>> Ugh, I'm dumb :).
 
->>>> **u/SoundLogic2236** [+0] *
+>>>> **u/SoundLogic2236** [+0]  (3 hours later)
 >>>> 
 >>>> ...'one exception after each published chapter or equivalent'. Pretty sure E.Y. has published at least one chapter of rational fiction.
->>>> 
 
->>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (3 hours later)
 >>>>> 
 >>>>> > this post is not going to get removed!
->>>>> 
 
->>> **u/MadiEllon** [+1] *
+>>> **u/MadiEllon** [+1]  (12 hours later)
 >>> 
 >>> I can vouch that it is indeed enforced.  I tried to post here a few days ago with the [BST] tag and PeridexisErrant kindly explained to me why it wouldn't fly.
->>> 
 
->> **u/EliezerYudkowsky** [+17]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+19]  *Godric Gryffindor* (2 hours later)
 >> 
 >> *raises eyebrows*
->> Okay then.  In that case, the actual anime script belongs to me and all profits pertaining thereto, to be disposed of as I wish.  Everyone else on the planet has an unlimited non-exclusive license to use the characters and world for derivative works, including for commercial purposes, as is standard with all my works.
->> I'm actually a little tired of not being able to profit from my writing work; it's constraining.  I've given away a lot already and would like to keep some.
->> Also, you know there's a [BST] tag listed in the sidebar, right?
 >> 
+>> Okay then.  In that case, the actual anime script belongs to me and all profits pertaining thereto, to be disposed of as I wish.  Everyone else on the planet has an unlimited non-exclusive license to use the characters and world for derivative works, including for commercial purposes, as is standard with all my works.
+>> 
+>> I'm actually a little tired of not being able to profit from my writing work; it's constraining.  I've given away a lot already and would like to keep some.
+>> 
+>> Also, you know there's a [BST] tag listed in the sidebar, right?
 
->>> **u/PeridexisErrant** [+15]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+14]  *put aside fear for courage, and death for life* (3 hours later)
 >>> 
 >>> No objection to profits here, just to community infighting that can arise from confusion (and the impure intentions that profit sometimes engenders).  Personally I hope this goes well for you!
->>> Re: BST tag, see other comment below.  I'd just tag this [WIP] myself, but that's always subjective.
 >>> 
+>>> Re: BST tag, see other comment below.  I'd just tag this [WIP] myself, but that's always subjective.
 
->>> **u/None** [+4] *
+>>> **u/None** [+3]  (a day later)
 >>> 
 >>> >I'm actually a little tired of not being able to profit from my writing work; it's constraining. I've given away a lot already and would like to keep some.
->>> Aren't you selling that "Summoned Hero" light novel on Amazon already?
->>> I'm not against the idea of a rational anime, but why, exactly, are you scripting an anime? Those are expensive as all get out to produce.
->>> Why not just do another original novel?
 >>> 
+>>> Aren't you selling that "Summoned Hero" light novel on Amazon already?
+>>> 
+>>> I'm not against the idea of a rational anime, but why, exactly, are you scripting an anime? Those are expensive as all get out to produce.
+>>> 
+>>> Why not just do another original novel?
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (11 hours later)
 >>> 
 >>> Sounds like CC-BY-SA or CC-BY.
->>> 
 
->>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (a day later)
 >>>> 
 >>>> CC-BY-[-SA] would let anyone produce an anime from the script for commercial gain [if they shared that].
->>>> This license keeps the script itself, but is essentially a CC0 for the setting and characters.
 >>>> 
+>>>> This license keeps the script itself, but is essentially a CC0 for the setting and characters.
 
->> **u/space_fountain** [+1] *
+>> **u/space_fountain** [+1]  (14 hours later)
 >> 
 >> Should I delete the post I made a bit ago then? I didn't really see the sub rules and I thought I'd seen similar things before, but I don't know
->> 
 
->>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (14 hours later)
 >>> 
 >>> Nah, if it was too far I'd have warned you then. 
->>> The rule was written while we had a flood of super low effort "what if x" posts, which have thankfully now dried up, so it doesn't come up much.
 >>> 
+>>> The rule was written while we had a flood of super low effort "what if x" posts, which have thankfully now dried up, so it doesn't come up much.
 
-> **u/linkhyrule5** [+7] *
+> **u/linkhyrule5** [+8]  (50 minutes later)
 > 
 > Step 1: Can magic be reduced to programming?
-> So many modern magic systems could greatly, greatly benefit from someone writing a compiler. I'd either attempt to do so, or (metacausally) ensure that the local system does not, in fact, reduce to simple programming due to not being a recursive language.
 > 
+> So many modern magic systems could greatly, greatly benefit from someone writing a compiler. I'd either attempt to do so, or (metacausally) ensure that the local system does not, in fact, reduce to simple programming due to not being a recursive language.
 
->> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (53 minutes later)
 >> 
 >> Not a bad idea, but 1) already done better in [Wizard's Bane](http://www.baen.com/wizard-s-bane.html); 2) doesn't really fit the anime format very well.
->> 
 
->>> **u/linkhyrule5** [+5] *
+>>> **u/linkhyrule5** [+4]  (58 minutes later)
 >>> 
 >>> Just 'cause it was done once doesn't mean it can't be done again. :p
->>> Anyway, the relevant part of this would then be "magic should therefore not reduce to simple function calls on statements", because the rational thing to do doesn't change just because it's been done.
 >>> 
+>>> Anyway, the relevant part of this would then be "magic should therefore not reduce to simple function calls on statements", because the rational thing to do doesn't change just because it's been done.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life* (a day later)
 >>> 
 >>> > programming don't usually needs sacrificing cute little creatures
->>> How did you think "rubber duck debugging" works?  Sacrifice a duck, remove a bug.  This also explains the stereotype of programmers eating Chinese takeaway; you might as well eat the duck afterwards.
 >>> 
+>>> How did you think "rubber duck debugging" works?  Sacrifice a duck, remove a bug.  This also explains the stereotype of programmers eating Chinese takeaway; you might as well eat the duck afterwards.
 
-> **u/plinq** [+6] *
+> **u/plinq** [+5]  (17 hours later)
 > 
 > After a day's reflection, I find a disconnect with the Sirua clearing the room after the incubus announcement. Sirua seems smart, but she gets taken rather easily here. 
-> If you are so alert to your daughter's potential for mischief that you have a secret alarm state, it seems like you would be a bit suspicious about this announcement, unless Sirua being a prude was sort of like a zero-day deception Toyori had saved up until this pt.
 > 
+> If you are so alert to your daughter's potential for mischief that you have a secret alarm state, it seems like you would be a bit suspicious about this announcement, unless Sirua being a prude was sort of like a zero-day deception Toyori had saved up until this pt.
 
-> **u/ianstlawrence** [+4] *
+> **u/ianstlawrence** [+5]  (6 hours later)
 > 
 > I like the idea that David is not a copy, but is a functioning person in another dimension. I like the idea of him having a life outside of this, and having to balance it. 
-> I like the psychological fuckery of him thinking he might be going insane.
 > 
+> I like the psychological fuckery of him thinking he might be going insane.
 
->> **u/linkhyrule5** [+4] *
+>> **u/linkhyrule5** [+4]  (7 hours later)
 >> 
 >> It sounds to me like he was summoned *into her head*, actually.
->> 
 
-> **u/MondSemmel** [+4] *
+> **u/MondSemmel** [+6]  (14 hours later)
 > 
 > Comments on formating, spelling, typos etc:
+> 
 > * The script indicates changes of scene with a new line, but that's rather hard to make out on reddit. So in the future, maybe mark the changes of scene differently, somehow?
+> 
 > Typos, in an arbitrary order:
+> 
 > * "A guard one the wall" -> on the wall
 > * "It flares up and vanishes as she does." -> (Not technically a typo, but this sentence has multiple meanings.)
 > * "Sirau is twisting her fingers" -> Sirua
 > * "May I speak to you in private a moment?" -> for a moment
 > * "Onii" refers to elder brothers, but that has already been pointed out.
+> 
 > Other stuff:
+> 
 > * "A long blast, three short blasts, nine quick blasts" -> What's the supposed difference between a short blast and a quick blast?
 > * There's both a "Sirua Queen-sama" and a "Queen Sirua-sama".
 > * "Whatever the Princess summoned, it should have had summoning sickness!" -> A *very* gamey term, so it might not fit the anime medium. (Besides, nowadays there are tons of fantasy stories that are *actually* RPGs with stats and everything, so this term could imply that this is an RPG setting.)
 > * "One gold." and all the currency discussions: Also gamey, though not problematically so.
-> 
 
-> **u/Lorddragonfang** [+4] *
+> **u/Lorddragonfang** [+4]  (3 hours later)
 > 
 > What immediately comes to mind is the [Blessed are the Simple](https://www.reddit.com/r/HFY/wiki/series/blessed_are_the_simple) Series, where the protagonist is also a noble's daughter who summons a human -- in this case, a W40k Space Marine analogue.
-> 
 
->> **u/Jiro_T** [+3] *
+>> **u/Jiro_T** [+3]  (5 hours later)
 >> 
 >> [Those Who Hunt Elves](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=233) is an anime example of modern humans summoned to a fantasy world.
->> Also, [Spellsinger](https://en.wikipedia.org/wiki/Spellsinger).
 >> 
+>> Also, [Spellsinger](https://en.wikipedia.org/wiki/Spellsinger).
 
-> **u/mordymoop** [+3] *
+> **u/mordymoop** [+3]  (16 hours later)
 > 
 > Going through your discussion cues:
-> 1. If you're asking what *I* would do, I would probably immediately try to get back to Earth. You don't see that often - usually a summoned creature just goes, "Oh, okay, now I'm here, guess I'll fight that guy over there for you." If I were summoned, I would only cooperate on the condition that my summoner work to send me back home. Even unto the point of my death, I think. I would probably call the arrangement "slavery" too, and harp on about Enlightenment values, which are probably foreign to Toyori and likely to yield some comedic interactions.
-> 2. I don't watch that much anime. But as a general comment on anime/manga/comic books/modern action movies, I like to see things set up and actually properly pay off. This seems obvious but is rare in practice. Your Azkaban arc would be an instance where this was actually accomplished. The writer/director Chris Nolan also seems to manage to do this in most of his films.
-> 3. I'm not sure if I have a sufficiently precise read on Toyori's character or world to extrapolate the course of the story. But If I'm extrapolating wildly, I'd say that Toyori escapes the city with the help of her new Familiar, while having to make some kind of Faustian deal with him in order to secure his assistance. While evading her mother's troops, she comes up against some kind of Big Bad, who may or may not be intimately tied to The Magic System. During this time she assembles a cast of eccentric allies/harem. Through low-level conflicts with various orcs and revenants as well as mock-battles with Yodas, we learn enough about The Magic System to understand the eventual mechanics of advanced combat, which will obviously include extremely subtle loopholes uniquely exploitable by a clever Earthling mentality. Throughout all of this she develops a complex "adversarially cooperative" relationship with her Familiar, whose motives are gradually shifting as he better understands the world he's been summoned into and its potentialities. Some kind of highly detailed climax occurs involving dozens of elements I can't possibly concoct on-the-fly and resolves such that everyone gets their just desserts. The details of the ending depend on the details of Toyori's character development.
 > 
+> 1. If you're asking what *I* would do, I would probably immediately try to get back to Earth. You don't see that often - usually a summoned creature just goes, "Oh, okay, now I'm here, guess I'll fight that guy over there for you." If I were summoned, I would only cooperate on the condition that my summoner work to send me back home. Even unto the point of my death, I think. I would probably call the arrangement "slavery" too, and harp on about Enlightenment values, which are probably foreign to Toyori and likely to yield some comedic interactions.
+> 
+> 2. I don't watch that much anime. But as a general comment on anime/manga/comic books/modern action movies, I like to see things set up and actually properly pay off. This seems obvious but is rare in practice. Your Azkaban arc would be an instance where this was actually accomplished. The writer/director Chris Nolan also seems to manage to do this in most of his films.
+> 
+> 3. I'm not sure if I have a sufficiently precise read on Toyori's character or world to extrapolate the course of the story. But If I'm extrapolating wildly, I'd say that Toyori escapes the city with the help of her new Familiar, while having to make some kind of Faustian deal with him in order to secure his assistance. While evading her mother's troops, she comes up against some kind of Big Bad, who may or may not be intimately tied to The Magic System. During this time she assembles a cast of eccentric allies/harem. Through low-level conflicts with various orcs and revenants as well as mock-battles with Yodas, we learn enough about The Magic System to understand the eventual mechanics of advanced combat, which will obviously include extremely subtle loopholes uniquely exploitable by a clever Earthling mentality. Throughout all of this she develops a complex "adversarially cooperative" relationship with her Familiar, whose motives are gradually shifting as he better understands the world he's been summoned into and its potentialities. Some kind of highly detailed climax occurs involving dozens of elements I can't possibly concoct on-the-fly and resolves such that everyone gets their just desserts. The details of the ending depend on the details of Toyori's character development.
 
-> **u/MadiEllon** [+3] *
+> **u/MadiEllon** [+3]  (16 hours later)
 > 
 > I quite liked it.
+> 
 > &nbsp;
+> 
 > **First, some general notes:**
+> 
 > &nbsp;
+> 
 > + I agree with the other commenters who say that Japanese honorifics seem unnecessary here. (also, I thought onee-sama was only used by girls to address other girls. Did you maybe mean onee-san? *edit:nevermind, I was wrong on this*)
+> 
 > + The beginning is quite static (standing, talking characters) and the dialogue comes off as very [As-You-Know-Bob.](http://tvtropes.org/pmwiki/pmwiki.php/Main/AsYouKnow) It might help to share the infodump between Sirua and Toyori.
+> 
 > For example, instead of:
+> 
 > >Sirua: "You're really, actually, not going to summon anything else."
+> 
 > >Toyori: "Mother..."
+> 
 > >Sirua: "I know that I'm not in a position to speak after what I summoned when I came of age. Now, I'm not going to say it turned out badly, especially while Taka-kun is listening to us."
+> 
 > You could have:
+> 
 > >Sirua: "You're really, actually, not going to summon anything else."
+> 
 > >Toyori : Yeah, like you can talk, after what happened when YOU came of age.
+> 
 > >Sirua : Don’t disrespect me, child. And don’t imply it turned out badly, especially while Taka-kun is listening to us.
+> 
 > + It’s a pretty short script for an entire episode.
+> 
 > &nbsp;
+> 
 > **Line-by-line notes:**
+> 
 > &nbsp;
+> 
 > >Sirua: "But I only did that because I needed to overthrow your grandpa. I was lucky to live, and there were still consequences. It was incredibly unwise of me."
 > &nbsp;
+> 
 > You can ditch « and there were still consequences », especially if you’re not going to spell out the consequences for now. It clutters the sentence. 
+> 
 > You could write: 
+> 
 > > “I only did that because I needed to overthrow your grandpa. It was incredibly unwise of me. I was lucky to live. “
+> 
 > (I put “lucky to live” last because that way there’s a crescendo effect.)
+> 
 > &nbsp;
+> 
 > >Toyori: "I've had a sudden inspiration, so I'm changing my plans! Everyone, I'd like you to clear the room."
+> 
 > Ditch « I’ve had a sudden inspiration. » 
+> 
 > On my first read-through I wasn’t sure if Toyori had planned this or if it was really a spur-of –the-moment thing. Make it clear with indications of tone and facial expression.
+> 
 > &nbsp;
+> 
 > >Toyori starts to take off her shirt.
+> 
 > “Otherwordly-royalty clothes” and “robes” are composed of shirts?
+> 
 > >Toyori reveals her first under-layer of clothing as people gasp and turn away, or stare. Toyori: "I'm going to summon an incubus and subdue him. I guess people can watch if they want."
+> 
 > >Sirua: "CLEAR THE ROOM! GUARDS! EVERYONE OUT!"
+> 
 > &nbsp;
+> 
 > I don’t know who the intended final audience is, but many people don’t know what an incubus is and are going to be confused by the unfamiliar word. You should make it clear right away that something dirty is supposed to happen so that the audience understands Sirua’s extreme reaction (she could be removing her movement-restricting first layer of clothing in order to fight the creature). Something as simple as replacing “subdue” with “mount” or “give my virginity to” or “f uck” or “rape” or… well, you get the idea.
+> 
 > &nbsp;
+> 
 > >she now stands in her underclothes within the emptied great room
+> 
 > Why would her mother agree to leave her daughter, heir to the throne, alone with a sex demon? Couldn’t that be potentially dangerous? Why didn’t she tell to one or two bodyguards to stay with Toyori – maybe covering their eyes or looking really intently at the ceiling while she did her thing?
+> 
 > &nbsp;
+> 
 > >Guard, nervously: "No."
+> 
 > No, who? No, my queen! Show some respect! ;)
+> 
 > &nbsp;
+> 
 > >Toyori, blinking hard: "I… all I have on me is five silver and four copper…"
+> 
 > I thought she had a purse full of gold? Is she conning the old lady?
+> 
 > &nbsp;
+> 
 > **Loose ends that need answers in further episodes**
+> 
 > &nbsp;
+> 
 > + How did Toyori trick the Chief Architect?
 > + Why did Sirua overthrow the last king? How did Taka help her?
 > + What is the purpose of a familiar in this world?
 > + Who is coming to see “Nimi-chan”? How does Toyori know where Rana works?
 > + What is Toyori’s plan? What is she going to do with her life if she doesn’t want to rule?
 > + Is the summoned earthling trapped in Toyori’s mind or is he/she still living his life on Earth and magically communicating with the princess?
-> And of course:
-> + How is Toyori going to escape the brothel search?
-> I guess that the earthling is going to help Toyori using his/her knowledge of our world. To speculate further I would need the OP to answer some of the above questions, as of now I have no idea what he envisioned world-wise and plot-wise (well, I have *some* ideas, but they’re all half-baked.)
-> If it was MY brain-baby, I would probably make the earthling a clever female Asian 20-something (to make her relate to Toyori) and give her opposite values (in Toyori’s place she would have put her own desires aside and become queen, because she thinks intelligence and dedication trump reliability anytime). Being trapped in Toyori’s head, she has no choice but to help her escape her royal fate if she wants to be set free one day.
 > 
+> And of course:
+> 
+> + How is Toyori going to escape the brothel search?
+> 
+> I guess that the earthling is going to help Toyori using his/her knowledge of our world. To speculate further I would need the OP to answer some of the above questions, as of now I have no idea what he envisioned world-wise and plot-wise (well, I have *some* ideas, but they’re all half-baked.)
+> 
+> If it was MY brain-baby, I would probably make the earthling a clever female Asian 20-something (to make her relate to Toyori) and give her opposite values (in Toyori’s place she would have put her own desires aside and become queen, because she thinks intelligence and dedication trump reliability anytime). Being trapped in Toyori’s head, she has no choice but to help her escape her royal fate if she wants to be set free one day.
 
-> **u/FriendlyHI** [+3] *
+> **u/FriendlyHI** [+3]  (a day later)
 > 
 > I strongly enjoyed seeing guards and other npcs exhibit intelligence.
-> I would have liked if the summoning scene better if it had some sort of hint at what kind of entity the princess was attempting to summon. They way I interpreted it was that she just turned off all safety precautions and said summon my friend. I would have liked a little more directed summoning, ex: "Summon the friend I would want if I knew what I wanted and was much more clever." or "Summon the teacher who can teach me to be the person I will need to be to summon the friend that I will need in 7 years time to save the world." 
-> I felt like the episode was missing any reference or hint toward a Big Bad. There was no evil kingdom or evil demon that was threatening the land. It makes the clever gambit of summoning a possibly dangerous and powerful entity and evading the queen feel less epic.
 > 
+> I would have liked if the summoning scene better if it had some sort of hint at what kind of entity the princess was attempting to summon. They way I interpreted it was that she just turned off all safety precautions and said summon my friend. I would have liked a little more directed summoning, ex: "Summon the friend I would want if I knew what I wanted and was much more clever." or "Summon the teacher who can teach me to be the person I will need to be to summon the friend that I will need in 7 years time to save the world." 
+> 
+> I felt like the episode was missing any reference or hint toward a Big Bad. There was no evil kingdom or evil demon that was threatening the land. It makes the clever gambit of summoning a possibly dangerous and powerful entity and evading the queen feel less epic.
 
-> **u/plinq** [+2] *
+> **u/plinq** [+2]  (2 hours later)
 > 
 > 1) Finkelstein can be a hedge fund manager or similar.
 > 2) The magic of the world can currently hinge on a crude barter system.
@@ -946,96 +1057,112 @@ Obviously, all work and brainstorming of the Collective Intelligence is availabl
 > 4) The removing limits part of the summons refers to free markets/unrestricted capitalism.
 > 5) Personally I love this if it starts well then goes horribly south due to its unbridled nature -- he should be more dangerous than the insect demon. 
 >    a) if you introduce a separate villain, however (e.g. a really weird version of the brother, who has been planning even deeper than her, but set-up here I think), than Finkelstein can function as heroically.
-> 
 
-> **u/ArisKatsaris** [+2]  *Sidebar Contender**
+> **u/ArisKatsaris** [+2]  *Sidebar Contender* (2 hours later)
 > 
 > > Your older sister is the one who was born to that fate, so it's unfair of her to shove it off onto her onii-chan.
-> onii-chan means *older* brother, no?
 > 
+> onii-chan means *older* brother, no?
 
-> **u/DaystarEld** [+2]  *Pokémon Professor**
+> **u/DaystarEld** [+2]  *Pokémon Professor* (20 hours later)
 > 
 > First thing that popped out at me:
-> After all these years, why hasn't Sirua hired a mage to use their summoning and acquire a creature that can magically track people down?  Surely among all the realms of elementals, spirits, demons, fae, and whatever else, there must be something that can allow the Queen to magically locate her daughter. And the obvious thing to do is to not let her daughter know such a thing has been done until she needs to utilize it in a true emergency.  Or, don't do the summoning just yet, and now that Toyori seems truly missing, immediately order a magic user who has a summoning available and on stand-by for just such a circumstance. 
-> Other than that, well written and enjoyable. I feel like I don't have enough info on the world/characters to begin editing/optimizing yet, but I'll keep an eye on it.  My main questions so far revolve around the summoning ritual, who can use it, how the society functions with such a powerful and varied bit of magic. How rare are magic users? Can even non-magic users make use of the summoning spell to have fairly weak or specialized familiars? That would make for an interesting world.
-> Looking forward to another chapter.
 > 
+> After all these years, why hasn't Sirua hired a mage to use their summoning and acquire a creature that can magically track people down?  Surely among all the realms of elementals, spirits, demons, fae, and whatever else, there must be something that can allow the Queen to magically locate her daughter. And the obvious thing to do is to not let her daughter know such a thing has been done until she needs to utilize it in a true emergency.  Or, don't do the summoning just yet, and now that Toyori seems truly missing, immediately order a magic user who has a summoning available and on stand-by for just such a circumstance. 
+> 
+> Other than that, well written and enjoyable. I feel like I don't have enough info on the world/characters to begin editing/optimizing yet, but I'll keep an eye on it.  My main questions so far revolve around the summoning ritual, who can use it, how the society functions with such a powerful and varied bit of magic. How rare are magic users? Can even non-magic users make use of the summoning spell to have fairly weak or specialized familiars? That would make for an interesting world.
+> 
+> Looking forward to another chapter.
 
->> **u/lehyde** [+1]  *Nudist Beach**
+>> **u/lehyde** [+1]  *Nudist Beach* (20 hours later)
 >> 
 >> I don't know if you accounted for that but if the summoning magic works as in *Familiar of Zero* then a mage can only summon one creature once in their life.
->> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (21 hours later)
 >>> 
 >>> Sure, but why wouldn't someone have a familiar with such a useful power in all of the palace staff, or even on retainer from the broader kingdom? Unless the ability to summon is exceedingly rare, which goes back into the questions of who can do it.
->>> It's not like it would just be used for capturing wayward princess, you could use it to track down criminals, find kidnap victims, and depending on how the tracking works (need a lock of hair vs their name vs have to have met them before) find people in an age without cell phones or internet.
 >>> 
+>>> It's not like it would just be used for capturing wayward princess, you could use it to track down criminals, find kidnap victims, and depending on how the tracking works (need a lock of hair vs their name vs have to have met them before) find people in an age without cell phones or internet.
 
-> **u/MondSemmel** [+2] *
+> **u/MondSemmel** [+2]  (15 hours later)
 > 
 > Sounds like a fun project! I'm curious how it will develop.
+> 
 > Various comments:
+> 
 > * Script length: How long do you estimate this episode would be, in anime form? I know episodes are typically 20-30 min long, but I have no idea how long this one would become.
+> 
 > Plot discussion:
+> 
 > * I love the whole "Toyori alarm" thing. That's a great way of characterising her by proxy.
 > * What does the regular summoning spell do? The ritual says to "bring forth my friend", and Toyori's ritual eventually calls for the same. At the very least, the Spirit from Earth shouldn't be immediately antagonistic to Toyori. Whether the spell summoned a *potential* friend, the *best* potential friend, or whatever, remains an open question.
+> 
 > Plot suggestions:
+> 
 > * Our anime protagonist has summoned a Spirit from Earth. What makes them special or interesting? A conceivable spectrum: from specific skills or worldviews (he could be a martial artist, a detective, or others) to general human knowledge (though fantasy-lands-get-industrialised has been overdone, so at the very least, the laws of physics in that world should be sufficiently different that human knowledge can't be applied 1:1) to genre-savvy (great, but can be overdone), all the way to e.g. "Everything is 2D?!".
 > * Similarly, if the Spirit is based on the wisdom of the crowd à la the HPMoR finale, maybe its "superpower" is a peculiar kind of intelligence, agency, or willpower.
 > * I approve of the I-don't-want-to-rule plot, and of the acknowledgement that with power comes responsibility. That said, how will that conflict eventually be concluded? Is Toyori's kingdom endangered, and she must take the crown or lose everyone she cares for? Does she then find a way to make ruling fun without abusing her power in the wrong ways? Or is she successful in shirking her responsibilities and taking her destiny in her own hands? Can she gain freedom without regretting it?
-> 
 
-> **u/clawclawbite** [+2] *
+> **u/clawclawbite** [+2]  (20 hours later)
 > 
 > It needs some positive goal hints so you have something to speculate about during the gap between the summon and reveal. Not wanting to be Queen is not enough.
-> 
 
-> **u/yargotkd** [+1] *
+> **u/yargotkd** [+1]  (17 hours later)
 > 
 > Interesting idea, I'd love if the entire multiverse was inside David's mind (good alias btw), David could be a physicist/creative writer, he wrote Sirua's story, how she took over the kingdom and overthrew her father. He wrote various short stories, about the fairy world, the demon world, etc. He stopped writing but the world somehow moved on, more than 20 years later, by invoking "that which is above you" she summoned a copy of David's mind to that fantasy world, he still has all his memories of what he's created, only now the world has changed from the last time he touched it.
-
-> Like the others have said, despite my love for anime, it would be better to stay away from all the anime style and just stick with a normal animation.
 > 
+> Like the others have said, despite my love for anime, it would be better to stay away from all the anime style and just stick with a normal animation.
 
-> **u/Charlie___** [+1] *
+> **u/Charlie___** [+1]  (2 days later)
 > 
 > > Toyori watches the circle complete itself, as she wraps a bandage around her hand. Then she looks up at the crowd. Toyori: "I've had a sudden inspiration, so I'm changing my plans! Everyone, I'd like you to clear the room."
-> >The Chief Magician Enio puts his hands over his golden goggles, double-facepalming.
-> >Sirua, her fists clenched: "To...yo...ri..."
-> >Toyori: "Well, even if you don't leave..." Toyori starts to take off her shirt.
-> >Prince Kunuba: "What are you doing, onee-sama!?"
-> >Toyori reveals her first under-layer of clothing as people gasp and turn away, or stare. Toyori: "I'm going to summon an incubus and subdue him. I guess people can watch if they want."
-> Sirua: "I don't think so, young lady. You're going to summon something useful, respectable, and friendly - and if you do, I will consider giving you your birthday present early."
-> Toyori: "I'm serious mother. And don't worry anyhow, I'm planning on summoning something very... friendly."
-> Toyori attempts to waggle her eyebrows salaciously while continuing to remove layers. The guards are trying to look anywhere else. Well. Most of the guards.
-> Sirua: "I'm serious too. And if you think I'm going to let you make your mistake in privacy, you have another thing coming, daughter. Yes Kunabu, you may leave."
-> Kunabu bolts. Enio attempts to follow.
-> Sirua: "Come back here, Chief Magician."
-> Enio sighs and turns back, covering his eyes.
-> Tayuri: "Motherrrrrrrr!"
-> Sirua: "Tayuri Lonfan, I brought you into this world and you don't have anything I haven't seen a hundred times. Now summon a familiar that doesn't want your soul, so that we can go home and eat cake."
 > 
+> >The Chief Magician Enio puts his hands over his golden goggles, double-facepalming.
+> 
+> >Sirua, her fists clenched: "To...yo...ri..."
+> 
+> >Toyori: "Well, even if you don't leave..." Toyori starts to take off her shirt.
+> 
+> >Prince Kunuba: "What are you doing, onee-sama!?"
+> 
+> >Toyori reveals her first under-layer of clothing as people gasp and turn away, or stare. Toyori: "I'm going to summon an incubus and subdue him. I guess people can watch if they want."
+> 
+> Sirua: "I don't think so, young lady. You're going to summon something useful, respectable, and friendly - and if you do, I will consider giving you your birthday present early."
+> 
+> Toyori: "I'm serious mother. And don't worry anyhow, I'm planning on summoning something very... friendly."
+> 
+> Toyori attempts to waggle her eyebrows salaciously while continuing to remove layers. The guards are trying to look anywhere else. Well. Most of the guards.
+> 
+> Sirua: "I'm serious too. And if you think I'm going to let you make your mistake in privacy, you have another thing coming, daughter. Yes Kunabu, you may leave."
+> 
+> Kunabu bolts. Enio attempts to follow.
+> 
+> Sirua: "Come back here, Chief Magician."
+> 
+> Enio sighs and turns back, covering his eyes.
+> 
+> Tayuri: "Motherrrrrrrr!"
+> 
+> Sirua: "Tayuri Lonfan, I brought you into this world and you don't have anything I haven't seen a hundred times. Now summon a familiar that doesn't want your soul, so that we can go home and eat cake."
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (3 days later)
 > 
 > Taka-kun might be my favorite character. His mere presence adds so much depth to the world, the history, and to the mother's character. The sneaky way to get her soul, and the casual way she dodges it. Love it.
-> 
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (3 days later)
 > 
 > Potential way I could see this playing out:
 > Show starts off as a medieval-ish fantasy (like Familiar of Zero). Discussions about other dimensions and the nature of the hyper-dimensional topography pop up in world building here and there. Eventually the plot is interrupted as it becomes clear that the "Safe Mode Disabled" summoning spell caused something to go very, very wrong. Perhaps the addressed godlike entity in her summoning spell was given more power/access to our universe, or She Broke Something in the local reality. Story gets derailed into a wilder romp between dimensions and the like, vaguely along the same lines as Time Braid.
-> 
 
-> **u/TotesMessenger** [+1] *
+> **u/TotesMessenger** [+1]  (3 days later)
 > 
 > I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
-> - [/r/badphilosophy] [In which a famed rational thinker writes an animu](https://np.reddit.com/r/badphilosophy/comments/4cvcb5/in_which_a_famed_rational_thinker_writes_an_animu/)
-> [](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
-> [](#bot)
 > 
+> - [/r/badphilosophy] [In which a famed rational thinker writes an animu](https://np.reddit.com/r/badphilosophy/comments/4cvcb5/in_which_a_famed_rational_thinker_writes_an_animu/)
+> 
+> [](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+> 
+> [](#bot)
 
 ---
 

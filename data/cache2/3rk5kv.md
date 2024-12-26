@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3rk5kv/biweekly_challenge_amnesia/
-* Score: 17
+* Score: 18
 
 * Created: 2015-11-04T23:35:53
 
@@ -50,53 +50,51 @@ Next time, the challenge will be "Cryonics", whether that's pre-suspension, post
 
 ### Comments:
 
-> **u/ZeroNihilist** [+27] *
+> **u/ZeroNihilist** [+26]  (22 hours later)
 > 
 > [Erasure](https://votcd.wordpress.com/2015/11/06/erasure/) (1959 words)
-> This is an idea I've had kicking around for a long time. May last year based on when I created the original text file, probably longer in the form of idle thoughts.
-> Also an opportunity to put something on the embarassingly empty wordpress I created for a project that isn't likely to see the light of day.
-> I wrote it from 11 PM to 9 AM, so I expect it's rife with errors. I'll do an editing pass after getting some sleep.
 > 
+> This is an idea I've had kicking around for a long time. May last year based on when I created the original text file, probably longer in the form of idle thoughts.
+> 
+> Also an opportunity to put something on the embarassingly empty wordpress I created for a project that isn't likely to see the light of day.
+> 
+> I wrote it from 11 PM to 9 AM, so I expect it's rife with errors. I'll do an editing pass after getting some sleep.
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (2 days later)
 >> 
 >> Interesting.  The 'wish' made a question mark pop up above my head (effectively, 'Why?' (did it work)); there's also the question of why/when it was written down.
 >> The strongest impression I got was that a lot near the beginning closely mirrored the start of The Hitchhiker's Guide to the Galaxy, particularly around the 'heartfelt speeches' memory.  If you have a copy, it might be worth rereading that part and then separating the two.
->> 
 
->>> **u/ZeroNihilist** [+9] *
+>>> **u/ZeroNihilist** [+8]  (2 days later)
 >>> 
 >>> Rough order of events:
->>> [](#s "George's wife experiences a complication with her pregnancy and they both rush to the hospital. The doctors can't save her or their child. George goes home, calls Phil and tells him he's going to kill himself. Phil of course comes over, they get drunk and talk, Phil notices the gun on the way to the bathroom and pockets the bullets.")
->>> [](#s "George sends Phil away, both of them pretty wasted, and goes to the room with the cot. He writes the note and tries to kill himself, looking at a picture of his wife and an ultrasound. The event happens when he pulls the trigger (doing nothing due to the lack of bullets), erasing the pictures from existence and removing his grief at the same time. He drops the gun and staggers off to bed. His wife's wedding ring (it didn't disappear due to not explicitly identifying her), which he was carrying by some subconscious instinct, falls between his bed and bedside table during the night.")
->>> [As to why:](#s " It's a 'bald fact' in the style of magical realism. Neither the character nor reader is meant to understand the exact method behind the event. That means it's not a very rational idea for a story, really, since it isn't reproducible or obviously intelligible. The idea I had was that some eldritch being noticed what was going on and fixated on George's extreme grief. It decided to grant his wish, but it didn't understand humans well enough to do so in a way he would have wanted. Theoretically, this being could also intervene in the future with other trends that cause extreme negative utility, in an equally ham-fisted way. Death and the suffering it causes merely stands out as the biggest. Had George phrased his wish 'I wish everyone lived forever.' it would have been a very different story.")
 >>> 
+>>> [](#s "George's wife experiences a complication with her pregnancy and they both rush to the hospital. The doctors can't save her or their child. George goes home, calls Phil and tells him he's going to kill himself. Phil of course comes over, they get drunk and talk, Phil notices the gun on the way to the bathroom and pockets the bullets.")
+>>> 
+>>> [](#s "George sends Phil away, both of them pretty wasted, and goes to the room with the cot. He writes the note and tries to kill himself, looking at a picture of his wife and an ultrasound. The event happens when he pulls the trigger (doing nothing due to the lack of bullets), erasing the pictures from existence and removing his grief at the same time. He drops the gun and staggers off to bed. His wife's wedding ring (it didn't disappear due to not explicitly identifying her), which he was carrying by some subconscious instinct, falls between his bed and bedside table during the night.")
+>>> 
+>>> [As to why:](#s " It's a 'bald fact' in the style of magical realism. Neither the character nor reader is meant to understand the exact method behind the event. That means it's not a very rational idea for a story, really, since it isn't reproducible or obviously intelligible. The idea I had was that some eldritch being noticed what was going on and fixated on George's extreme grief. It decided to grant his wish, but it didn't understand humans well enough to do so in a way he would have wanted. Theoretically, this being could also intervene in the future with other trends that cause extreme negative utility, in an equally ham-fisted way. Death and the suffering it causes merely stands out as the biggest. Had George phrased his wish 'I wish everyone lived forever.' it would have been a very different story.")
 
->>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (3 days later)
 >>>> 
 >>>> In other words, no one ever felt that way again. Instead, they felt worse.
->>>> 
 
->>>> **u/DCarrier** [+1] *
+>>>> **u/DCarrier** [+1]  (14 days later)
 >>>> 
 >>>> It would have been different. Whether or not it would have been good would still depend on the details.
->>>> 
 
-> **u/MultipartiteMind** [+5] *
+> **u/MultipartiteMind** [+7]  (5 days later)
 > 
 > [Know Thyself](http://pastebin.com/gByhq23b) (1202 words)
-> 
 
->> **u/traverseda** [+1]  *With dread but cautious optimism**
+>> **u/traverseda** [+1]  *With dread but cautious optimism* (12 days later)
 >> 
 >> Don't think I get it.
->> 
 
->>> **u/MultipartiteMind** [+1] *
+>>> **u/MultipartiteMind** [+1]  (13 days later)
 >>> 
 >>> [Simplified version:  ](#s "A young child makes up exciting imaginary companions with made-up pasts and explanations for how they got into his head, gives them free rein, until gradually their identities are all that's left within the brain--at which they start noticing inconsistencies in what they believe to be true, take a methodical (rational?) approach to make sense of what they're observing, and ultimately conclude with horror that most of their lives have been false memories.  The story is written from the perspective of one person as he's realising this.  I thought it fit 'Amnesia' in a relevant way--not forgetting so much as having the information (of one's origin, how one's entire life was crudely built based on a computer game) available, but enforcedly not being aware of it.  Figurative bonus points to anyone who can recognise the game which the person's imaginary life was based on.")
 >>> [Summary of the 'sequel', not depicted, in case there's curiosity:  ](#s "That person does not have a happy ending,  The three decide to make a fourth mindform with a human self-image to handle outside things and keep the body alive, and to retreat into mentally-created imaginary worlds of their own to live happily there.  The four of them discover that the brain doesn't have the capability to work like that (parallel functioning to that degree), so the first three are prepared to give up and unmake the now-unneeded fourth mindform.  The fourth mindform fears death and rebel; conflict ensues, the second-oldest of the three chooses self-annihilation to bring the total number back to an odd number, so that there will always be a tie-breaker.  There is peace, but the youngest of the original three (the person in Know Thyself) lacks the will to live and gradually ceases to exist, despite the efforts of the fourth mindform.  The fourth mindform is left alone in the brain with the oldest and most terrifying of the three, and out of fear brings forth three more mindforms, in the hope that five will be a more stable number than three was--however, completely failing to think about certain firm rules that the three had decided on for mindform creation.  Various unpleasantness results for several months, but eventually a semi-stable situation is arrived at while all seek to acquire their own separate bodies years in the future.")
->>> 
 
 ---
 

@@ -26,142 +26,168 @@ Thoughts? Answers? Not trying to troll by coming to THE subreddit that's all abo
 
 ### Comments:
 
-> **u/cthulhuraejepsen** [+42]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+41]  *Fruit flies like a banana* (41 minutes later)
 > 
 > But ... why would unicorn blood help? It's established to cure physical diseases and reverse most bodily damage. The thing that's wrong with Fenn at that moment isn't one of those two things, it's blood loss. Unicorn blood hasn't been previously established to create more blood in the body.
-> I think perhaps there'd be some merit to Juniper saying something like this when facing the problem ... but mostly for this exact reason, which isn't terribly compelling to me.
-> And yes, there was a scene that featured a rant about how games abstract out materials and components as being atomic and without decay, but when I was writing it, it didn't really feel like it had a place to fit, so it became Word of God instead, eventually being canonized in (IIRC) ch 101.
 > 
+> I think perhaps there'd be some merit to Juniper saying something like this when facing the problem ... but mostly for this exact reason, which isn't terribly compelling to me.
+> 
+> And yes, there was a scene that featured a rant about how games abstract out materials and components as being atomic and without decay, but when I was writing it, it didn't really feel like it had a place to fit, so it became Word of God instead, eventually being canonized in (IIRC) ch 101.
 
->> **u/None** [-6] *
+>> **u/None** [-3]  (an hour later)
 >> 
 >> Thanks for the word of god reply (and of course to the others). I actually found the relevant passage.
->> Not quite sure what you're referring to with the last paragraph but I assume it's an answer to my 'ramblings' accusation. To give a specific example: When Amaryllis autismed-out into specific calculations of void bombs during the void-arrow-in-prison-scene.
->> Since you're the author and you replied to me directly,  I'll just ask away: Are word of god comments (on reddit) supposed to be canonical? How do you feel about close engagement with your readers AND revealing story/world-details outside of your text?
 >> 
+>> Not quite sure what you're referring to with the last paragraph but I assume it's an answer to my 'ramblings' accusation. To give a specific example: When Amaryllis autismed-out into specific calculations of void bombs during the void-arrow-in-prison-scene.
+>> 
+>> Since you're the author and you replied to me directly,  I'll just ask away: Are word of god comments (on reddit) supposed to be canonical? How do you feel about close engagement with your readers AND revealing story/world-details outside of your text?
 
->>> **u/cthulhuraejepsen** [+22]  *Fruit flies like a banana**
+>>> **u/cthulhuraejepsen** [+23]  *Fruit flies like a banana* (5 hours later)
 >>> 
 >>> > Not quite sure what you're referring to with the last paragraph but I assume it's an answer to my 'ramblings' accusation.
->>> No, I'm just explaining that 1) I originally wrote a section that went over shelf-stability of unicorn blood, in contrast to typical RPG systems and tabletop assumptions that sacrifice realism for fun/ease, and 2) I cut that section because it felt too pointless and uninteresting, but this eventually leads to problems. In a non-serial work, or maybe if I just had more time to spend on editing, these issues would be more likely to disappear or be caught by beta readers.
->>> > Are word of god comments (on reddit) supposed to be canonical? How do you feel about close engagement with your readers AND revealing story/world-details outside of your text?
->>> Word of god is only as canonical as you want it to be. I think there's a strong argument to be made that the text is the text, and everything else is up for debate. On the other hand, authors have to calibrate for different reader interests, and one of the most difficult to calibrate for is how much information readers want/need. There are sometimes details that 90% of the audience doesn't care about, but 10% of the audience gets bugged by because something gets glossed over, and that's one of the places where WoG comes in handy, because it's extra-textual material that doesn't clog up the main text (or more importantly, severely mess with flow).
->>> I generally try not to give WoG, and where I can, I answer with direct in-text citations. If you WoG everything, then that leaves less room for discussion, and WoG can be hard to collate and track down, creating a barrier for readers.
->>> (I also tend to not engage all that closely with the community for a lot of the same reasons. An author giving their interpretation of the characters is, IMO, somewhat poor form. Same for response to criticisms, though this somewhat varies depending on what the criticism in question is and whether it's fact based or opinion based.)
 >>> 
+>>> No, I'm just explaining that 1) I originally wrote a section that went over shelf-stability of unicorn blood, in contrast to typical RPG systems and tabletop assumptions that sacrifice realism for fun/ease, and 2) I cut that section because it felt too pointless and uninteresting, but this eventually leads to problems. In a non-serial work, or maybe if I just had more time to spend on editing, these issues would be more likely to disappear or be caught by beta readers.
+>>> 
+>>> > Are word of god comments (on reddit) supposed to be canonical? How do you feel about close engagement with your readers AND revealing story/world-details outside of your text?
+>>> 
+>>> Word of god is only as canonical as you want it to be. I think there's a strong argument to be made that the text is the text, and everything else is up for debate. On the other hand, authors have to calibrate for different reader interests, and one of the most difficult to calibrate for is how much information readers want/need. There are sometimes details that 90% of the audience doesn't care about, but 10% of the audience gets bugged by because something gets glossed over, and that's one of the places where WoG comes in handy, because it's extra-textual material that doesn't clog up the main text (or more importantly, severely mess with flow).
+>>> 
+>>> I generally try not to give WoG, and where I can, I answer with direct in-text citations. If you WoG everything, then that leaves less room for discussion, and WoG can be hard to collate and track down, creating a barrier for readers.
+>>> 
+>>> (I also tend to not engage all that closely with the community for a lot of the same reasons. An author giving their interpretation of the characters is, IMO, somewhat poor form. Same for response to criticisms, though this somewhat varies depending on what the criticism in question is and whether it's fact based or opinion based.)
 
->>> **u/PeaceBear0** [+13] *
+>>> **u/PeaceBear0** [+14]  (4 hours later)
 >>> 
 >>> >To give a specific example: When Amaryllis autismed-out into specific calculations of void bombs during the void-arrow-in-prison-scene.
->>> Is this what you're talking about?
->>> > “If they’re further than a foot away from each other, there’s a cascade,” said Amaryllis. “Less than a foot, and the void effect just consumes the crystal with no effect. I’ve already done the math, we’ll need significant distance and heavy mass for cover.”
->>> ...
->>> >“Voiding whichever ones are within a foot of the spherical void wave, cascading to those outside it, putting a limit on total void effect, yes,” said Amaryllis. 
->>>  ...
->>> > “No,” said Amaryllis, “Void propagation is constrained by the inverse square law, it’ll eat through the same amount of mass at any distance, but for the projective form, that means if you conceptualize an inch-thick sphere around a projection at distance x which completely captures the void projection, then an inch-thick sphere at distance two x will only go through one fourth of an inch.”
->>> > “So at two hundred feet, which is where the bow caps, that’s … a half-inch of steel per detonation, when up close?”
->>> > “For projection, it’s usually given as a half-inch steel or other sufficiently dense metal at five feet from the center of the void projection, regardless of crystal size, so long as it’s under one foot,” Amaryllis nodded. “I told you that I already did the math.”
->>> https://archiveofourown.org/works/11478249/chapters/28956657#workskin (removed the parts that weren't Amaryllis)
->>> I'm not sure what "autisming out" means, but the section isn't terribly long, and IMO it shows a lot about Joon. My read on the scene was that he was upset they didn't tell him earlier, and wanted to give a reason for it, so he decided to construct the reason that he could help with the math, even though he didn't actually help.
->>> Amaryllis indulges him, but I really don't think she's rambling as Joon is pretty much driving the conversation.
 >>> 
+>>> Is this what you're talking about?
+>>> 
+>>> > “If they’re further than a foot away from each other, there’s a cascade,” said Amaryllis. “Less than a foot, and the void effect just consumes the crystal with no effect. I’ve already done the math, we’ll need significant distance and heavy mass for cover.”
+>>> 
+>>> ...
+>>> 
+>>> >“Voiding whichever ones are within a foot of the spherical void wave, cascading to those outside it, putting a limit on total void effect, yes,” said Amaryllis. 
+>>> 
+>>>  ...
+>>> 
+>>> > “No,” said Amaryllis, “Void propagation is constrained by the inverse square law, it’ll eat through the same amount of mass at any distance, but for the projective form, that means if you conceptualize an inch-thick sphere around a projection at distance x which completely captures the void projection, then an inch-thick sphere at distance two x will only go through one fourth of an inch.”
+>>> 
+>>> > “So at two hundred feet, which is where the bow caps, that’s … a half-inch of steel per detonation, when up close?”
+>>> 
+>>> > “For projection, it’s usually given as a half-inch steel or other sufficiently dense metal at five feet from the center of the void projection, regardless of crystal size, so long as it’s under one foot,” Amaryllis nodded. “I told you that I already did the math.”
+>>> 
+>>> https://archiveofourown.org/works/11478249/chapters/28956657#workskin (removed the parts that weren't Amaryllis)
+>>> 
+>>> I'm not sure what "autisming out" means, but the section isn't terribly long, and IMO it shows a lot about Joon. My read on the scene was that he was upset they didn't tell him earlier, and wanted to give a reason for it, so he decided to construct the reason that he could help with the math, even though he didn't actually help.
+>>> 
+>>> Amaryllis indulges him, but I really don't think she's rambling as Joon is pretty much driving the conversation.
 
->>>> **u/None** [-10] *
+>>>> **u/None** [-10]  (5 hours later)
 >>>> 
 >>>> My point basically boils down to it being bad prose which is a shame because he can clearly write well. I used 'rambling' very loosely. This scene happens not soon after some pretty fucked up shit happens and while it does build some character, it completely took me out of the moment and destroyed any atmospheric build-up. Your mileage may vary.
 >>>> I'm not sure what Amaryllis' condition is but maybe she's on the autism spectrum, hence my use of a stereotype.
->>>> 
 
->>>>> **u/gryfft** [+28] *
+>>>>> **u/gryfft** [+28]  (6 hours later)
 >>>>> 
 >>>>> Maybe my perspective is skewed by working around engineers, but bickering about math is *exactly* the sort of thing that people I know do when they're dealing with immense amounts of stress.
->>>>> As far as whether writing about calculations-- life-and-death calculations-- is good prose, I think this subreddit would err on the side of "shut up and multiply." (I think few readers of this subreddit would say *The Martian* was characterized by bad prose, and life-and-death calculations figured prominently.)
->>>>> For what it's worth, I don't think it's productive or civil to use stereotypes. It doesn't help you communicate clearly and it can reinforce harmful ideas.
 >>>>> 
+>>>>> As far as whether writing about calculations-- life-and-death calculations-- is good prose, I think this subreddit would err on the side of "shut up and multiply." (I think few readers of this subreddit would say *The Martian* was characterized by bad prose, and life-and-death calculations figured prominently.)
+>>>>> 
+>>>>> For what it's worth, I don't think it's productive or civil to use stereotypes. It doesn't help you communicate clearly and it can reinforce harmful ideas.
 
->>>>>> **u/tjhance** [+17] *
+>>>>>> **u/tjhance** [+16]  (8 hours later)
 >>>>>> 
 >>>>>> > Maybe my perspective is skewed by working around engineers, but bickering about math is exactly the sort of thing that people I know do when they're dealing with immense amounts of stress.
->>>>>> yes this was my first thought as well, when I saw the complaint about amaryllis "autisming out"
 >>>>>> 
+>>>>>> yes this was my first thought as well, when I saw the complaint about amaryllis "autisming out"
 
->>>>>>> **u/alexshpilkin** [+10] *
+>>>>>>> **u/alexshpilkin** [+9]  (15 hours later)
 >>>>>>> 
 >>>>>>> Also, all but the last part is not even _hard_ math, it’s math you remember in your sleep. The last part is something you’d be able to recite from memory after building the device for quite some time, provided you’re not forgetful and did actually do the calculation.
->>>>>>> 
 
->>>>> **u/i6i** [+12] *
+>>>>> **u/i6i** [+11]  (23 hours later)
 >>>>> 
 >>>>> \>My point basically boils down to it being bad prose
->>>>> It's not.
 >>>>> 
+>>>>> It's not.
 
->>>>> **u/RetardedWabbit** [+6] *
+>>>>> **u/RetardedWabbit** [+6]  (2 days later)
 >>>>> 
 >>>>> I can kind of see where you are coming from here but I think it supports what we know of Amaryllis' character if you think about it a bit differently. 
->>>>> I think Amaryllis' response is supposed to be seen as overly in depth and more akin to a college professor speaking a formula than a lay explanation. Amaryllis has been thoroughly taught this information and is personally interested, given her usage of void weapons early in the story and the Void Beast being a known threat. It's realistic that she would say this, and that others wouldn't fully understand it. Even reading and rereading it I didn't expect the results we see later. This could also be an early part of Amaryllis "trying to be more useful" by using her knowledge and planning abilities as we see her do later.
->>>>> I think this conversation was a fantastic moment of rational fiction. They didn't just blindly accept a new weapon and use it without understanding the capabilities as best they could. Just like soldiers given a new weapons system they checked how it should be used from someone experienced, with void weapons, before putting it to use. Especially in this case since there are concerns about friendly fire and minimum range.
 >>>>> 
+>>>>> I think Amaryllis' response is supposed to be seen as overly in depth and more akin to a college professor speaking a formula than a lay explanation. Amaryllis has been thoroughly taught this information and is personally interested, given her usage of void weapons early in the story and the Void Beast being a known threat. It's realistic that she would say this, and that others wouldn't fully understand it. Even reading and rereading it I didn't expect the results we see later. This could also be an early part of Amaryllis "trying to be more useful" by using her knowledge and planning abilities as we see her do later.
+>>>>> 
+>>>>> I think this conversation was a fantastic moment of rational fiction. They didn't just blindly accept a new weapon and use it without understanding the capabilities as best they could. Just like soldiers given a new weapons system they checked how it should be used from someone experienced, with void weapons, before putting it to use. Especially in this case since there are concerns about friendly fire and minimum range.
 
-> **u/Hydroxxx** [+34]  *Chaos Legion**
+> **u/Hydroxxx** [+38]  *Chaos Legion* (29 minutes later)
 > 
 > 1) How would Unicorn blood even help? It cures any disease if you drink it, it does not refill your blood, I don't think that was ever implied. Fenn needed a transfusion.
-> 2) Same thing, Unicorn blood doesn't cure being dead. And your other point - I don't remember the mood exactly, but there was stuff going on everyone had to concentrate on, there wasn't really time for mourning at all. It goes from her dieing to them fighting the prison to them "fighting" (Fallather? I don't remember the name, damn it) a soul-mage. There is never any time off to grieve.
-> Oh and for the record, I don't agree with "juvenile power fantasies, pseudo-rational ramblings lacking all literary merit and god-awful descriptions" at all. Not even sometimes.
 > 
+> 2) Same thing, Unicorn blood doesn't cure being dead. And your other point - I don't remember the mood exactly, but there was stuff going on everyone had to concentrate on, there wasn't really time for mourning at all. It goes from her dieing to them fighting the prison to them "fighting" (Fallather? I don't remember the name, damn it) a soul-mage. There is never any time off to grieve.
+> 
+> Oh and for the record, I don't agree with "juvenile power fantasies, pseudo-rational ramblings lacking all literary merit and god-awful descriptions" at all. Not even sometimes.
 
-> **u/WarningInsanityBelow** [+18] *
+> **u/WarningInsanityBelow** [+17]  (5 hours later)
 > 
 > Is this the thread were we can point out inconsistencies in WtC? I found one but never pointed it out since I wasn't reading when it came out. In chapter 21:
-> >“Ya know,” said Fenn. “Elves can hold their breath for an hour. Guess I didn’t get my dad’s lungs. Also, let’s never travel by glove again.”
-> But in chapter 62 Fenn gives Fallatehr, an elf, a breathing mask:
-> > “Fenn, you remember riding the rocket?” I asked as I stepped up beside her.
-> >“I remember it not going so great,” she said. “Actually, I remember it getting so fucked that you were racing across the desert and burning through your bones, which is what got us in this particular mess in the first place. Besides that, we don’t have a rocket.”
-> >“You’ve got the sand bow,” I said. I glanced at the wall, which stood thirty feet high and at least a football field’s length away from us. The shot would be simplicity itself for someone as skilled as Fenn.
-> >“You’re nuts,” she said, but she gave me a grin. Her eyes quickly scanned the top of the wall, and I looked with her, to the places where she’d removed the gargoyles. We already knew, from the birds that Solace had sent over, that the laser gargoyles had been the primary means of keeping things from going over the wall. “Not enough masks though, and however great Mary is, I doubt that she can keep it up for long enough that we can make more.” We had made more of them during our week off in the bottle, so that we had five on hand, enough to cover the whole party, but assuming that we still needed to keep up our end of the bargain, that wasn’t enough.
-> >I moved back over to Fallatehr. “We have to leave them behind,” I said, gesturing at the pelehr. “Non-negotiable.”
-> >“Convenient for you,” said Fallatehr, watching me closely. I agreed with him, it was very convenient for me, but that didn’t make it any less true. Bad enough that we’d be taking him and three others, nearly even numbers except that the nonanima didn’t count, but not releasing more of Fallatehr onto the world was a plus in my book, given what he could do. “Very well.”
-> >“Wait ten minutes before you try to get out, we’ll pull you if it’s clear,” I said. I wondered whether he would think it was a trap, because that’s what I would have thought, but I was apparently bad enough at lying that it was an asset to me, because he nodded along.
-> >Fenn surprised me by stepping forward and handing him a breathing kit from her glove. I hadn’t even heard her sneak up next to me. He took it for a moment with a mild questioning look, but he put it on all the same.
-> It is possible Fallatehr saw this as an opportunity to dispose surplus minions without it being obvious that this is what he was doing. But there is no way Fenn would forget that elves can hold their breath for an hour, they spent her childhood rubbing in how superior they are.
-> Though it's not a big deal regardless, the number of masks can be reduced by 1 and any elf minion that needs to die can be replaced with a non-elf minion.
 > 
+> >“Ya know,” said Fenn. “Elves can hold their breath for an hour. Guess I didn’t get my dad’s lungs. Also, let’s never travel by glove again.”
+> 
+> But in chapter 62 Fenn gives Fallatehr, an elf, a breathing mask:
+> 
+> > “Fenn, you remember riding the rocket?” I asked as I stepped up beside her.
+> 
+> >“I remember it not going so great,” she said. “Actually, I remember it getting so fucked that you were racing across the desert and burning through your bones, which is what got us in this particular mess in the first place. Besides that, we don’t have a rocket.”
+> 
+> >“You’ve got the sand bow,” I said. I glanced at the wall, which stood thirty feet high and at least a football field’s length away from us. The shot would be simplicity itself for someone as skilled as Fenn.
+> 
+> >“You’re nuts,” she said, but she gave me a grin. Her eyes quickly scanned the top of the wall, and I looked with her, to the places where she’d removed the gargoyles. We already knew, from the birds that Solace had sent over, that the laser gargoyles had been the primary means of keeping things from going over the wall. “Not enough masks though, and however great Mary is, I doubt that she can keep it up for long enough that we can make more.” We had made more of them during our week off in the bottle, so that we had five on hand, enough to cover the whole party, but assuming that we still needed to keep up our end of the bargain, that wasn’t enough.
+> 
+> >I moved back over to Fallatehr. “We have to leave them behind,” I said, gesturing at the pelehr. “Non-negotiable.”
+> 
+> >“Convenient for you,” said Fallatehr, watching me closely. I agreed with him, it was very convenient for me, but that didn’t make it any less true. Bad enough that we’d be taking him and three others, nearly even numbers except that the nonanima didn’t count, but not releasing more of Fallatehr onto the world was a plus in my book, given what he could do. “Very well.”
+> 
+> >“Wait ten minutes before you try to get out, we’ll pull you if it’s clear,” I said. I wondered whether he would think it was a trap, because that’s what I would have thought, but I was apparently bad enough at lying that it was an asset to me, because he nodded along.
+> 
+> >Fenn surprised me by stepping forward and handing him a breathing kit from her glove. I hadn’t even heard her sneak up next to me. He took it for a moment with a mild questioning look, but he put it on all the same.
+> 
+> It is possible Fallatehr saw this as an opportunity to dispose surplus minions without it being obvious that this is what he was doing. But there is no way Fenn would forget that elves can hold their breath for an hour, they spent her childhood rubbing in how superior they are.
+> 
+> Though it's not a big deal regardless, the number of masks can be reduced by 1 and any elf minion that needs to die can be replaced with a non-elf minion.
 
->> **u/cthulhuraejepsen** [+34]  *Fruit flies like a banana**
+>> **u/cthulhuraejepsen** [+31]  *Fruit flies like a banana* (5 hours later)
 >> 
 >> ... okay, will fix. (I would rather that these just get PMed to /u/inked_cellist, who will either fix them or pass them on to me if they're not easily fixed.)
->> WtC is 800K words long, with a whole bunch of stuff in it, and while I *usually* catch minor continuity errors, it's being written pretty fast, and there's a ton of detail that doesn't always make it into my notes for later reference. So, I apologize for the occasional inconsistency, and will try to fix them if pointed out, but I have no editor.
 >> 
+>> WtC is 800K words long, with a whole bunch of stuff in it, and while I *usually* catch minor continuity errors, it's being written pretty fast, and there's a ton of detail that doesn't always make it into my notes for later reference. So, I apologize for the occasional inconsistency, and will try to fix them if pointed out, but I have no editor.
 
->>> **u/WarningInsanityBelow** [+13] *
+>>> **u/WarningInsanityBelow** [+14]  (16 hours later)
 >>> 
 >>> > (I would rather that these just get PMed to /u/inked_cellist, who will either fix them or pass them on to me if they're not easily fixed.)
->>> Thank you, I know it's a quibble but I didn't know where to go with it. I posted it here since it seemed like the most relevant place. WtC is on the Pareto frontier with regard to consistency, complexity and the speed at which it is being written.
 >>> 
+>>> Thank you, I know it's a quibble but I didn't know where to go with it. I posted it here since it seemed like the most relevant place. WtC is on the Pareto frontier with regard to consistency, complexity and the speed at which it is being written.
 
-> **u/MaddoScientisto** [+8] *
+> **u/MaddoScientisto** [+8]  (an hour later)
 > 
 > Unicorn blood only cures illness, blood deficiency and death are not counted as illness
-> 
 
-> **u/cthulhusleftnipple** [+17] *
+> **u/cthulhusleftnipple** [+15]  (11 hours later)
 > 
 > > Yes there's some depth to it, but for every genuine character moment, clever subversion, interesting piece of world-building there's juvenile power fantasies, pseudo-rational ramblings lacking all literary merit and god-awful descriptions(sometimes!).
-> Why not just... not read it if you don't like it? The author is providing this story --which many of us like a great deal -- for free. Literally no one is forcing you to read something that you don't enjoy, and criticism of this type, no matter how earnest and well intended you might mean it as (and it's by no means clear that it actually is well intended), is far more effective at discouraging writers from sharing their work here than it is at helping improve anything.
 > 
+> Why not just... not read it if you don't like it? The author is providing this story --which many of us like a great deal -- for free. Literally no one is forcing you to read something that you don't enjoy, and criticism of this type, no matter how earnest and well intended you might mean it as (and it's by no means clear that it actually is well intended), is far more effective at discouraging writers from sharing their work here than it is at helping improve anything.
 
->> **u/None** [-9] *
+>> **u/None** [-9]  (18 hours later)
 >> 
 >> I guess I got suckered into it and can't stop now. If it was all bad I wouldn't read it. Especially the existential angst embedded in the power fantasy is very intriguing. As is the the quest for Arthur and Joons friendship with all its baggage and half-truths. I could go on but most of you will know about and agree on the high points.
 >> I'm just a bit worried to be strung along indefinitely, with no clear end in mind, retreading the same old until it's just about beating a dead horse to keep collecting patreon bucks. (No offense, Mr. Jepsen. ;) )
 >> Like I said before this reminds me a lot of HPMOR and what that story desperately needed was an editor, or just a second pass and (a lot of) time. This isn't supposed to be me being snide, instead I spotted some hints of greatness and I think it could be a lot more.
->> I think the point you're making about whether criticism is earnest or well-intended and its effects on creators sharing their work is incredibly weird.
 >> 
+>> I think the point you're making about whether criticism is earnest or well-intended and its effects on creators sharing their work is incredibly weird.
 
->>> **u/nolrai** [+5] *
+>>> **u/nolrai** [+5]  (4 days later)
 >>> 
 >>> Yeah, but making it great to you would push it down just past not worth reading for me.
->>> 
 
 ---
 

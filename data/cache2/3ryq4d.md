@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: http://www.anarchyishyperbole.com/2015/11/significant-digits-chapter-twenty-eight.html
-* Score: 16
+* Score: 14
 
 * Created: 2015-11-08T02:51:55
 
@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+3]  *Significant Digits**
+> **u/mrphaethon** [+3]  *Significant Digits* (16 seconds later)
 > 
 > /r/HPMOR comment thread:
-> https://www.reddit.com/r/HPMOR/comments/3ryq4n/significant_digits_chapter_twentyeight_sudden_but/
 > 
+> https://www.reddit.com/r/HPMOR/comments/3ryq4n/significant_digits_chapter_twentyeight_sudden_but/
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/mrphaethon** [+2]  *Significant Digits**
+>>> **u/mrphaethon** [+2]  *Significant Digits* (a day later)
 >>> 
 >>> Click on the title image on any chapter to go to the TOC.
->>> 
 
 ---
 

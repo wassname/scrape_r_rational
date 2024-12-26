@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ajuc** [+1] *
+> **u/ajuc** [+1]  (9 days later)
 > 
 > Lem is great, understanding aliens is just one theme in his work, there's lots more. He wrote about simulation hypothesis, various dystopias, singularity, nanotechnology. All of that in 50s and 60s. And he wrote a lot of wacky stuff with deep philosophical themes that would be best described like if Rick and Morty was a book written in 50s .
-> I find it very strange that people in the west very rarely speak about his books.
 > 
+> I find it very strange that people in the west very rarely speak about his books.
 
 ---
 

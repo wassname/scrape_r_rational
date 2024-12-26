@@ -12,70 +12,75 @@ So over at HPMOR, and occasionally here as well, theories about plots and charac
 
 ### Comments:
 
-> **u/None** [+12] *
+> **u/None** [+10]  (4 hours later)
 > 
 > [removed]
-> 
 
->> **u/Prankster42** [+1] *
+>> **u/Prankster42** [+1]  (3 days later)
 >> 
 >> I somewhat disagree with the wording here. If you say something like "Quirrel wanted to confuse his enemies, so he did this very complicated thing", and then go on tho specify exactly what the complicated thing is, you get a complexity penalty.
->> The complexity penalty is a tool for thinking in a more Bayesian way, without actually applying the formal math. Like you said, we need evidence for the involvement of specific people, e.i we can't just postulate some big machine with no evidence, but we also need evidence for each part of the complicated plan to be like we said it was. We should say "Quirrel wanted to confuse his enemies, so he did *a* very complicated thing", making sure that our hypothesis space covers all the moves he could take to confuse his enemies, not just the one hypothesis for one particular complicated thing.
->> The reason we employ this tool is not only to to avoid crackpot theories involving entirely new players on the field, but also to avoid believing a particular narrative. Humans tend to believe things on plausibility rather than probability, which has been demonstrated over and over in the heuristics and biases research, where it is called the conjunction fallacy (I think I might be taking a leap here, if you want I can dig up references for this claim).
->> We need to work hard to avoid the conjunction fallacy in every step of reasoning we take, because leaping to conclusions based on plausible sounding stories is what our hardware is best at. Every time you bring in a specification of a very complex thing rather than just some complex thing, you lose some probability but gain some plausibility as seen by humans. To prevent facilitating this bias, we continue to cry complexity penalty if we notice it.
 >> 
+>> The complexity penalty is a tool for thinking in a more Bayesian way, without actually applying the formal math. Like you said, we need evidence for the involvement of specific people, e.i we can't just postulate some big machine with no evidence, but we also need evidence for each part of the complicated plan to be like we said it was. We should say "Quirrel wanted to confuse his enemies, so he did *a* very complicated thing", making sure that our hypothesis space covers all the moves he could take to confuse his enemies, not just the one hypothesis for one particular complicated thing.
+>> 
+>> The reason we employ this tool is not only to to avoid crackpot theories involving entirely new players on the field, but also to avoid believing a particular narrative. Humans tend to believe things on plausibility rather than probability, which has been demonstrated over and over in the heuristics and biases research, where it is called the conjunction fallacy (I think I might be taking a leap here, if you want I can dig up references for this claim).
+>> 
+>> We need to work hard to avoid the conjunction fallacy in every step of reasoning we take, because leaping to conclusions based on plausible sounding stories is what our hardware is best at. Every time you bring in a specification of a very complex thing rather than just some complex thing, you lose some probability but gain some plausibility as seen by humans. To prevent facilitating this bias, we continue to cry complexity penalty if we notice it.
 
-> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+5]  *Ankh-Morpork City Watch* (59 minutes later)
 > 
 > I think this argument would make more sense to me if you expressed it with concrete examples. As-is, I am not sure I entirely grasp what you are getting at, or in what situations your idea would apply. That said, I am going to try to address some of your ideas anyways. I may be horribly off-base here.
-> Fundamentally, whatever plan has the best possibility of working, tautologically has the best possibility of working. So if choosing between plans A and B for accomplishing a goal, you would choose whichever had the greatest chance of success after assessing all the factors affecting the chance of success that you can. If you have a plan that has 5 steps each with a 99% chance of going right, against a plan with two parts each with a 95% chance of going right, the latter is obviously worse than the former. 
-> However, in most circumstances the number of parts of plan has no correlation with each part's likelihood of success, so the less complex is better - 4 stages of 98% vs 3 stages of 98%, for example. 
-> Also, a complexity penalty is a method of determining probable ideas, not necessarily proving anything. This has a lot to do with ideas of parsimony of explanation for events - see Somonoff induction and related ideas (I think Less Wrong had a nicely written explaination somewhere?). If you have two ideas of how something could have occurred, then the simple explanation is more likely to be the actual reason than the more complex reason.
-> That said, if making plans against intelligent opposition then deliberately choosing what may otherwise be a normally suboptimal but unexpected option to defeat them is fairly common. A related concept from the world of fighting videogames is "Yomi", knowing the mind of the opponent - for example, say there are two plans, A and B, that side 1 could enact, and two counterplans, C and D that side 2 could enact. If side 1 chooses A then he wins if side 2 chooses D and loses if side 2 chooses C, and vice-versa if side 1 chooses B. Logically therefore each side has a 50% chance of victory and essentially no way to differentiate - however, if tested serially and the rewards of victory/failure are uneven somewhat, it is quite possible for a person in these circumstances to read another deeply enough to predict what their opponent is doing and respond with much greater success than random chance - much like Quirrell plays at a level deeper than Harry (in his own assessment, anyways, taking his words at face value - which may be unwise).
-> Of course, in the real world there are degrees of winning and possible failure associated with each plan and it's responses, and of course multiple variations possible on each plan, and no certainties of victory or defeat due to the vagaries of chance, and etc. ideally you could attempt to quantify it all a little and come up with some sort of decision theory of what plan to pick, but in reality things rarely work out so neatly as to be readily quantifiable. 
-> That said, I would appreciate it if you would clarify your argument with more concrete, less abstract examples - I don't feel the above really struck to the heart of the matter, because I am not sure what exactly you are arguing in favor of goal-directed people doing in the face of intelligent opposition, and perhaps a more concrete example could get me on the same page as you so I could better discuss this topic.
 > 
+> Fundamentally, whatever plan has the best possibility of working, tautologically has the best possibility of working. So if choosing between plans A and B for accomplishing a goal, you would choose whichever had the greatest chance of success after assessing all the factors affecting the chance of success that you can. If you have a plan that has 5 steps each with a 99% chance of going right, against a plan with two parts each with a 95% chance of going right, the latter is obviously worse than the former. 
+> 
+> However, in most circumstances the number of parts of plan has no correlation with each part's likelihood of success, so the less complex is better - 4 stages of 98% vs 3 stages of 98%, for example. 
+> 
+> Also, a complexity penalty is a method of determining probable ideas, not necessarily proving anything. This has a lot to do with ideas of parsimony of explanation for events - see Somonoff induction and related ideas (I think Less Wrong had a nicely written explaination somewhere?). If you have two ideas of how something could have occurred, then the simple explanation is more likely to be the actual reason than the more complex reason.
+> 
+> That said, if making plans against intelligent opposition then deliberately choosing what may otherwise be a normally suboptimal but unexpected option to defeat them is fairly common. A related concept from the world of fighting videogames is "Yomi", knowing the mind of the opponent - for example, say there are two plans, A and B, that side 1 could enact, and two counterplans, C and D that side 2 could enact. If side 1 chooses A then he wins if side 2 chooses D and loses if side 2 chooses C, and vice-versa if side 1 chooses B. Logically therefore each side has a 50% chance of victory and essentially no way to differentiate - however, if tested serially and the rewards of victory/failure are uneven somewhat, it is quite possible for a person in these circumstances to read another deeply enough to predict what their opponent is doing and respond with much greater success than random chance - much like Quirrell plays at a level deeper than Harry (in his own assessment, anyways, taking his words at face value - which may be unwise).
+> 
+> Of course, in the real world there are degrees of winning and possible failure associated with each plan and it's responses, and of course multiple variations possible on each plan, and no certainties of victory or defeat due to the vagaries of chance, and etc. ideally you could attempt to quantify it all a little and come up with some sort of decision theory of what plan to pick, but in reality things rarely work out so neatly as to be readily quantifiable. 
+> 
+> That said, I would appreciate it if you would clarify your argument with more concrete, less abstract examples - I don't feel the above really struck to the heart of the matter, because I am not sure what exactly you are arguing in favor of goal-directed people doing in the face of intelligent opposition, and perhaps a more concrete example could get me on the same page as you so I could better discuss this topic.
 
->> **u/GSV_Empiricist** [+1] *
+>> **u/GSV_Empiricist** [+1]  (16 hours later)
 >> 
 >> Well said
->> 
 
-> **u/Prankster42** [+4] *
+> **u/Prankster42** [+4]  (16 hours later)
 > 
 > The point of complexity penalties as I see it is not so much that we should disbelieve complex hypotheses, but more that we should require evidence for each moving part we postulate.
-> This means that the hypothesis "Quirrel is doing something very complicated" does not get a penalty, but if you say "Quirrel is going to exploit the loophole in quidditch rules using timeturners, memorycharms and a rigged snitch for the last game of the year to make both Slytherin and Ravenclaw win the house cup" you have to prove not that he is using a complex plan, but rather that he is going to do precisely this, at precisely this time for this exact purpose.
-> You can expect convoluted plans, but you can't expect that these plans are easily guessable, and so you need evidence for each part. If the above statement had read "Quirrel is going to make both Ravencalw and Slytherin win the house cup, and it is likely to involve timeturners" the burden of evidence is a lot lower, since your hypothesis has less moving parts. It means that he could do all the other stuff and more, but you aren't trying to infer the entire plan, just the bits and pieces that you have enough evidence for to make a strong prediction.
 > 
+> This means that the hypothesis "Quirrel is doing something very complicated" does not get a penalty, but if you say "Quirrel is going to exploit the loophole in quidditch rules using timeturners, memorycharms and a rigged snitch for the last game of the year to make both Slytherin and Ravenclaw win the house cup" you have to prove not that he is using a complex plan, but rather that he is going to do precisely this, at precisely this time for this exact purpose.
+> 
+> You can expect convoluted plans, but you can't expect that these plans are easily guessable, and so you need evidence for each part. If the above statement had read "Quirrel is going to make both Ravencalw and Slytherin win the house cup, and it is likely to involve timeturners" the burden of evidence is a lot lower, since your hypothesis has less moving parts. It means that he could do all the other stuff and more, but you aren't trying to infer the entire plan, just the bits and pieces that you have enough evidence for to make a strong prediction.
 
-> **u/None** [+4] *
+> **u/None** [+4]  (2 hours later)
 > 
 > Yes.  This is called Obfuscating Insanity.  EDIT: Also the Refuge In Audacity.
-> 
 
-> **u/agamemnon42** [+3] *
+> **u/agamemnon42** [+3]  (3 hours later)
 > 
 > Yes, this is possible, but it is much less common than simply trying to achieve whatever objective they're seeking.  Hence the complexity penalty, it doesn't say that's impossible, just that it has a lower prior, so you need more evidence to believe that.  If I flip my light switch and the light goes on, it's possible that a clever bad guy has rewired my apartment to have exactly the same behavior so I won't suspect anything, but it's far more likely nothing in the wiring has changed.
-> 
 
-> **u/Suitov** [+3]  *The Culture**
+> **u/Suitov** [+3]  *The Culture* (a day later)
 > 
 > To my very basic understanding, complexity penalties are a way to break yourself out of jumping to very complicated conclusions - a mental time-out to remind yourself to look for a simpler explanation for something you've observed.
-> That is to say, it doesn't *rule out* the complicated hypothesis as being the correct one, if after you've reviewed all your options it still seems to fit your observations best.
 > 
+> That is to say, it doesn't *rule out* the complicated hypothesis as being the correct one, if after you've reviewed all your options it still seems to fit your observations best.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 days later)
 > 
 > If the fact "Quirrel wants to screw with my head." is in evidence, then a lot of added complexity can be explained with that fact.
-> 
 
-> **u/derefr** [+0] *
+> **u/derefr** [+0]  (7 days later)
 > 
 > An analogue to this question:
-> Say that you have an unidentified blob of encrypted data, or *ciphertext*. You want to decrypt it by brute-force. This means that you likely need to figure out a key of some sort (i.e., an input to an algorithm)... but you also need to figure out the algorithm itself. (And any decent algorithm will give the ciphertext almost uniform entropy, so you won't be able to identify the algorithm from any statistical properties of the ciphertext.)
-> Now, what percentage of your brute-force computational resources should you dedicate to the hypothesis that the defender used a *common* algorithm... versus an *obscure* (or even *unknown*) one?
-> Your answer will be positively correlated to your belief that your attacker is *practical*, and thus uses "the best tool for the job" (e.g. a currently-considered-secure algorithm with many hardened implementations)--and negatively correlated to your believe that they're the kind of people who would rely on *security by obscurity.*
 > 
+> Say that you have an unidentified blob of encrypted data, or *ciphertext*. You want to decrypt it by brute-force. This means that you likely need to figure out a key of some sort (i.e., an input to an algorithm)... but you also need to figure out the algorithm itself. (And any decent algorithm will give the ciphertext almost uniform entropy, so you won't be able to identify the algorithm from any statistical properties of the ciphertext.)
+> 
+> Now, what percentage of your brute-force computational resources should you dedicate to the hypothesis that the defender used a *common* algorithm... versus an *obscure* (or even *unknown*) one?
+> 
+> Your answer will be positively correlated to your belief that your attacker is *practical*, and thus uses "the best tool for the job" (e.g. a currently-considered-secure algorithm with many hardened implementations)--and negatively correlated to your believe that they're the kind of people who would rely on *security by obscurity.*
 
 ---
 

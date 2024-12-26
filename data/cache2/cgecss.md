@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/cgecss/d_monday_request_and_recommendation_thread/
-* Score: 29
+* Score: 28
 
 * Created: 2019-07-22T15:06:05
 
@@ -17,226 +17,222 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/the_terran** [+12] *
+> **u/the_terran** [+12]  (49 minutes later)
 > 
 > Any recommendations for settings/fics in which obsolete scientific theories are true? Where four humors are a thing, ether exists, everything is literally composed of four elements etc. Something at least r/rational-adjacent.
-> 
 
->> **u/IICVX** [+15] *
+>> **u/IICVX** [+14]  (3 hours later)
 >> 
 >> John C. Wright's _Orphans of Chaos_ has this; in fact, many of the characters operate on different sorts of obselete theories. There's even a side note in like the second book that the way they solved the problem of air quality in their space ship was by switching to an Aristotlean regime, where "breathability" is an intrinsic quality of air.
->> 
 
->>> **u/narfanator** [+3] *
+>>> **u/narfanator** [+3]  (8 hours later)
 >>> 
 >>> OoC is *amazing*. Alas, the author is some kind of bigot, last I checked; my local book store in Berkeley, CA stopped carrying him for that reason.
->>> It's still an absolutely amazing work, and I do recommend it.
 >>> 
+>>> It's still an absolutely amazing work, and I do recommend it.
 
->>>> **u/EliezerYudkowsky** [+16]  *Godric Gryffindor**
+>>>> **u/EliezerYudkowsky** [+15]  *Godric Gryffindor* (10 hours later)
 >>>> 
 >>>> IIRC, John C. Wright had a major mental something, talked to God, and went from LW-level reductionist atheist to Christian.  I'd consider his earlier books to be written by a different and blameless person who mostly died.
->>>> 
 
->>>>> **u/ahasuerus_isfdb** [+4] *
+>>>>> **u/ahasuerus_isfdb** [+5]  (21 hours later)
 >>>>> 
 >>>>> [According to Wright](https://strangenotions.com/wright-conversion/), it took him 2 years to become disillusioned with atheism and grow closer to Christianity. That period culminated in a heart attack, healing through prayer, visions and miracles, which led to his conversion to Catholicism.
->>>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (16 days later)
 >>>>> 
 >>>>> But AFAIK only the Golden Age trilogy predates his conversion (and you said at some point that you consider the last novel's climax invalid).
->>>>> 
 
->>>> **u/IICVX** [+6] *
+>>>> **u/IICVX** [+6]  (9 hours later)
 >>>> 
 >>>> Yeah I vaguely remember that, but I couldn't remember if it was actually him or some other author with a similar name like Walter John Williams so I didn't mention it.
->>>> It's kind of sad because his other series (The Golden Oecumene) is *also* really good in a supertech sci-fi sort of way. 
->>>> It's got neat ideas like the way the government only has a single soldier. He's the optimal combatant; when they need an army, they just create an army of him, and he coordinates perfectly with himself.
 >>>> 
+>>>> It's kind of sad because his other series (The Golden Oecumene) is *also* really good in a supertech sci-fi sort of way. 
+>>>> 
+>>>> It's got neat ideas like the way the government only has a single soldier. He's the optimal combatant; when they need an army, they just create an army of him, and he coordinates perfectly with himself.
 
->>>>> **u/narfanator** [+3] *
+>>>>> **u/narfanator** [+3]  (17 hours later)
 >>>>> 
 >>>>> Well, I'll see if I can find them used.
->>>>> And yeah, dug it up; looks like in 2008 he had a religious experience and went into it. Wouldn't be a problem, except for the ridiculous homophobia and corresponding intolerance.
->>>>> (PS, if you haven't encountered the idea of "tolerance is a peace treaty", it neatly resolves the whole tolerance-of-intolerance issue: you are tolerated as long as you tolerate.)
 >>>>> 
+>>>>> And yeah, dug it up; looks like in 2008 he had a religious experience and went into it. Wouldn't be a problem, except for the ridiculous homophobia and corresponding intolerance.
+>>>>> 
+>>>>> (PS, if you haven't encountered the idea of "tolerance is a peace treaty", it neatly resolves the whole tolerance-of-intolerance issue: you are tolerated as long as you tolerate.)
 
->>>>>> **u/aldonius** [+1] *
+>>>>>> **u/aldonius** [+1]  (12 days later)
 >>>>>> 
 >>>>>> > tolerance is a peace treaty
->>>>>> *Thank You.*
->>>>>> I've been futzing around with set definitions for a year, this articulates it much better.
 >>>>>> 
+>>>>>> *Thank You.*
+>>>>>> 
+>>>>>> I've been futzing around with set definitions for a year, this articulates it much better.
 
->> **u/AmeteurOpinions** [+17]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+20]  *Finally, everyone was working together.* (5 hours later)
 >> 
 >> Twig by Wildbow treats Frankenstein like nonfiction in that world.
->> 
 
->>> **u/dinoseen** [+12] *
+>>> **u/dinoseen** [+12]  (8 hours later)
 >>> 
 >>> And it includes the four humours.
->>> 
 
->> **u/red_adair** [+8]  *{{explosive-stub}}**
+>> **u/red_adair** [+9]  *{{explosive-stub}}* (10 hours later)
 >> 
 >> I forget the title, but there was a story where the "homunculus" theory of sperm was correct, where sperm contained a "little man" that grew to size in the nurturing fluids of the womb. Part of the mad science of this story was growing the "little man" outside of the womb, to giant size. Another detail had to deal with impressing things with stamps spelling Hebrew words that described the purpose of the item, creating golems. This was against a background of an apparent maximum number of generations for the human race which was due in a few generations, and a project to use Kabbalist science to prolong the human species by replacing biological humans with a race of kabbalistically-reproducing golems that were still human.
->> 
 
->>> **u/MereInterest** [+8] *
+>>> **u/MereInterest** [+8]  (11 hours later)
 >>> 
 >>> This story is "Seventy-Two Letters" by Ted Chiang.
->>> 
 
->> **u/MayMaybeMaybeline** [+3] *
+>> **u/MayMaybeMaybeline** [+4]  (11 hours later)
 >> 
 >> Ted Chiang's short story 'Seventy-Two Letters' centers on spermism, the idea that a russian nesting doll of tiny souls live inside of sperm, and in the story they're approaching the final generation.
->> In the same anthology there's also 'Tower of Babylon' which is not quite what you asked for, but is essentially bronze-age science fiction.
 >> 
+>> In the same anthology there's also 'Tower of Babylon' which is not quite what you asked for, but is essentially bronze-age science fiction.
 
->> **u/onestojan** [+3] *
+>> **u/onestojan** [+3]  (6 hours later)
 >> 
 >> All flat Earthers enjoy Terry Pratchett's [Discworld](https://en.wikipedia.org/wiki/Discworld) ;)
->> [The Study of Anglophysics](http://slatestarcodex.com/2014/04/03/the-study-of-anglophysics/) ([audio](http://www.hpmorpodcast.com/?p=1323)) by Scott Alexander might be relevant.
 >> 
+>> [The Study of Anglophysics](http://slatestarcodex.com/2014/04/03/the-study-of-anglophysics/) ([audio](http://www.hpmorpodcast.com/?p=1323)) by Scott Alexander might be relevant.
 
->> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor* (10 hours later)
 >> 
 >> The *Silence in Solitude* trilogy.
->> 
 
->> **u/LazarusRises** [+4] *
+>> **u/LazarusRises** [+2]  (an hour later)
 >> 
 >> The Tales of Alvin Maker takes place in a colonial America where folk magic and superstition are real. It's Card's tribute/analogy to the founding of the Mormon Church, but extremely good and well-thought-out nonetheless.
->> 
 
->> **u/artifex0** [+1] *
+>> **u/artifex0** [+1]  (7 hours later)
 >> 
 >> The novel Celestial Matters is a sort of space exploration story set in a universe where the ancient Greek understanding of physics is completely accurate.
->> So, heliocentric, crystal spheres, no vacuum, etc.  It's pretty good.
 >> 
+>> So, heliocentric, crystal spheres, no vacuum, etc.  It's pretty good.
 
-> **u/IICVX** [+7] *
+> **u/IICVX** [+7]  (4 hours later)
 > 
 > I just finished Max Gladstone's [Empress of Forever](https://www.amazon.com/dp/B07GVCXWR5), and I definitely recommend it. It's very much in the "technology so advanced it wraps around and becomes magic again" side of things, but what I particularly liked was that it all still fits in to the framework of high tech sci-fi.
-> It's also, imo, a fairly interesting examination of what might actually happen if a hyper rational character who's too willing to sacrifice others bootstraps themselves into omniscience.
 > 
+> It's also, imo, a fairly interesting examination of what might actually happen if a hyper rational character who's too willing to sacrifice others bootstraps themselves into omniscience.
 
-> **u/CaramilkThief** [+8] *
+> **u/CaramilkThief** [+8]  (5 hours later)
 > 
 > I am a sucker for stories where the main character is a tank, or at least fills the roles of a tank. This usually means that the main character can take lots of damage without going down. Sometimes this is expanded to extreme regeneration, lack of need of sleep or food, immovable object body, etc. Some examples of this would be The New World on Royalroad, A Bad Name (Worm fanfic), Greg Veder vs the World (Kind of I guess? he can shrug off bullets). I just want the main character surpassing the natural limits of their body. Any recommendations on this topic?
+> 
 > Edit:
 > As for recommendations, I recently read Empire of Silence by Christopher Ruocchio. It's a science fiction written from first person about humanity in the 1602th century. It gives off a very Name of the Wind vibe, in that the main character is recapping his life as an old person who is a veritable legend, and there's a very 'coming of age' feeling throughout the story. You get to see Hadrian's (mc) development as he goes through hardships of both the financial and personal kind. I see people comparing it to Dune as well, since you have a space empire which works like a mix between medieval feudalism and Chinese monarchy. There's a church that bans technology. There's the future analogues of democratic nations, pirates, arabs, the people who turned into cyborgs, etc. It can be very theme-park-y as a science fiction, but I still enjoyed it a lot. I thought the main character's voice and characterization was done well, plus there's the whole mystery into his development from this naive optimistic boy into someone who has billions of deaths in his conscience. 8.5/10
-> 
 
->> **u/tryname** [+1] *
+>> **u/tryname** [+1]  (8 hours later)
 >> 
 >> Check ou Azarinth Healer on Royal Road.
->> The writing is quite amateurish and pretty bad at times, but it does the whole game progression schtick really really well. Now the catch is that the MC begins as a healer, and then later also becomes a tank (regen route, but adds stuff like resistances to the mix after). Very fun read, and with frequent updates.
 >> 
+>> The writing is quite amateurish and pretty bad at times, but it does the whole game progression schtick really really well. Now the catch is that the MC begins as a healer, and then later also becomes a tank (regen route, but adds stuff like resistances to the mix after). Very fun read, and with frequent updates.
 
->>> **u/MayMaybeMaybeline** [+2] *
+>>> **u/MayMaybeMaybeline** [+2]  (11 hours later)
 >>> 
 >>> I was just reading that yesterday. The first half was great, very fun to read, but it eventually got so bogged down in interludes and grind that I had to drop it. I'd still recommend giving it a try tho.
->>> 
 
->>>> **u/tryname** [+1] *
+>>>> **u/tryname** [+1]  (23 hours later)
 >>>> 
 >>>> Well, if it’s any motivation, the novel has returned to what it used to be (past 10-20 chapters) and has begun a seemingly long arc in the same style. So, if you can slog through the annoying part is you should be back to what was enjoyable!.
->>>> 
 
->>>>> **u/MayMaybeMaybeline** [+1] *
+>>>>> **u/MayMaybeMaybeline** [+1]  (a day later)
 >>>>> 
 >>>>> That's good to know, thanks. I might try giving it another go with different expectations, I am rather fond of the protag
->>>>> 
 
->>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (4 days later)
 >>> 
 >>> [[Arazinth Healer]](https://www.royalroad.com/fiction/16946/azarinth-healer)
->>> 
 
->> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (4 days later)
 >> 
 >> [[The New World]](https://www.royalroad.com/fiction/12024/the-new-world)
->> [[A Bad Name]](https://forums.spacebattles.com/threads/a-bad-name-worm-oc-the-gamer.500626/)
->> [[Greg Veder vs The World]](https://forums.spacebattles.com/threads/greg-veder-vs-the-world-worm-the-gamer.601118/)
->> [[Empire of Silence]](https://www.goodreads.com/book/show/36454667-empire-of-silence)
->> [[The Name of the Wind]](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
->> [[Dune]](https://www.goodreads.com/book/show/39776179-dune)
 >> 
+>> [[A Bad Name]](https://forums.spacebattles.com/threads/a-bad-name-worm-oc-the-gamer.500626/)
+>> 
+>> [[Greg Veder vs The World]](https://forums.spacebattles.com/threads/greg-veder-vs-the-world-worm-the-gamer.601118/)
+>> 
+>> [[Empire of Silence]](https://www.goodreads.com/book/show/36454667-empire-of-silence)
+>> 
+>> [[The Name of the Wind]](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
+>> 
+>> [[Dune]](https://www.goodreads.com/book/show/39776179-dune)
 
->> **u/Ev0nix** [+1] *
+>> **u/Ev0nix** [+1]  (5 days later)
 >> 
 >> 40 millennium of cultivation is nice and rational adjacent, lots of normalish xania stuff which fits "tanky character" to a tee mixed with thoughts on morality. Dark forest theory is a recurring theme.
->> 
 
-> **u/SkyTroupe** [+7] *
+> **u/SkyTroupe** [+6]  (54 minutes later)
 > 
 > So, I've started reading the Brent Weeks Lightbringer series off a recommendation given out a while ago. After finishing book 1 I was reminded of one of my favorite childhood series, The Seventh Tower by Garth Nix. I could only find a partially done fan-made audiobook on youtube.
-> This made me think, are there any good fanfictions of either series out there? Either with their powers or set in their world?
-> I havent gotten far in book 2 of Lightbringer but Ive reread Seventh Tower dozens of times. I feel like it has a big enough world to explore making some high quality fiction in, especially with how inventive you can get with lightweaving and spirit binding.
-> So if anyone has fanfiction of either I'd be very greatful.
-> I'll also be doing a narrative of the Seventh Tower as a warm up for doing Pokemon: The Origin of Species.
 > 
+> This made me think, are there any good fanfictions of either series out there? Either with their powers or set in their world?
+> 
+> I havent gotten far in book 2 of Lightbringer but Ive reread Seventh Tower dozens of times. I feel like it has a big enough world to explore making some high quality fiction in, especially with how inventive you can get with lightweaving and spirit binding.
+> 
+> So if anyone has fanfiction of either I'd be very greatful.
+> 
+> I'll also be doing a narrative of the Seventh Tower as a warm up for doing Pokemon: The Origin of Species.
 
->> **u/Palmolive3x90g** [+6] *
+>> **u/Palmolive3x90g** [+5]  (2 hours later)
 >> 
 >> I found of grand total of five fanfics on both [FanFiction.net](https://www.fanfiction.net/book/Lightbringer-series-Brent-Weeks/) and [Archive of Our Own](https://archiveofourown.org/tags/Lightbringer%20Series%20-%20Brent%20Weeks/works) for the Lightbringer series, non of which were over the 3k word mark, so I am going to guess that a decent fic for it doesn't exist.
->> Lightbringer is very good with the first few books though it kind of feels like he was just making stuff up in the later books and hadn't really planed the whole thing out.
 >> 
+>> Lightbringer is very good with the first few books though it kind of feels like he was just making stuff up in the later books and hadn't really planed the whole thing out.
 
->>> **u/SkyTroupe** [+3] *
+>>> **u/SkyTroupe** [+4]  (9 hours later)
 >>> 
 >>> And a cursory glance on the same sites for The Seventh Tower gave me one writer with 10 one shots.
->>> RIP my dreams :(
 >>> 
+>>> RIP my dreams :(
 
->>>> **u/Noumero** [+10]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+8]  *Self-Appointed Court Statistician* (22 hours later)
 >>>> 
 >>>> >RIP my dreams :(
->>>> If you want fanfiction and there is no fandom to generate it, the obvious solution is to orchestrate this fandom's creation.
->>>> Find other talented people who enjoyed *Lightbringer* and would like to see fanfictions of it (and/or find talented people who would enjoy *Lightbringer*, make them read it, then stoke the flames of their desire). Get them on-board. Write a few high-quality fanfictions, publish them strategically to increase public interest. Simultaneously, raise the book series' popularity on social media via novel memes centred around it. Infer the properties which make ideas viral, and exploit them. Become good at social engineering, or recruit those who are already good at it. Create a bunch of sockpuppets, use them to softly or bluntly pressure people into writing more. Is there a good wikia about the series? Write it to make it easier for your newly-created fan~~atic~~s to check the facts — having a good reference base would lower the barrier to entry immensely.
->>>> Study other fandoms' creation. I heard an obscure Edgar Poe's work went viral a few months back — what caused it? It seems *Worm*'s fandom grew so big partly because the story had a good mechanic for introducing new characters/powers — does *Lightbringer* have something like this, and if no, can you *invent* it via creative interpretation?
->>>> It's fine if most of the first works in your baby fandom will be unreadable tone-deaf garbage — as long as they *exist*, the hard part is over. Steering your creation's development will be easier.
->>>> If at all possible, get the author on-board too — there's no-one who would be more invested in what you're doing. Except for you, of course.
->>>> It won't be easy. The task may even seem impossible, insurmountable, insane, ridiculous. But *is* it? You've never tried, and as far as I know, no-one else has ever attempted something like this before.
->>>> Never shy from playing god. Even if you fail, at least it'll be fun.
 >>>> 
+>>>> If you want fanfiction and there is no fandom to generate it, the obvious solution is to orchestrate this fandom's creation.
+>>>> 
+>>>> Find other talented people who enjoyed *Lightbringer* and would like to see fanfictions of it (and/or find talented people who would enjoy *Lightbringer*, make them read it, then stoke the flames of their desire). Get them on-board. Write a few high-quality fanfictions, publish them strategically to increase public interest. Simultaneously, raise the book series' popularity on social media via novel memes centred around it. Infer the properties which make ideas viral, and exploit them. Become good at social engineering, or recruit those who are already good at it. Create a bunch of sockpuppets, use them to softly or bluntly pressure people into writing more. Is there a good wikia about the series? Write it to make it easier for your newly-created fan~~atic~~s to check the facts — having a good reference base would lower the barrier to entry immensely.
+>>>> 
+>>>> Study other fandoms' creation. I heard an obscure Edgar Poe's work went viral a few months back — what caused it? It seems *Worm*'s fandom grew so big partly because the story had a good mechanic for introducing new characters/powers — does *Lightbringer* have something like this, and if no, can you *invent* it via creative interpretation?
+>>>> 
+>>>> It's fine if most of the first works in your baby fandom will be unreadable tone-deaf garbage — as long as they *exist*, the hard part is over. Steering your creation's development will be easier.
+>>>> 
+>>>> If at all possible, get the author on-board too — there's no-one who would be more invested in what you're doing. Except for you, of course.
+>>>> 
+>>>> It won't be easy. The task may even seem impossible, insurmountable, insane, ridiculous. But *is* it? You've never tried, and as far as I know, no-one else has ever attempted something like this before.
+>>>> 
+>>>> Never shy from playing god. Even if you fail, at least it'll be fun.
 
->>>>> **u/SkyTroupe** [+2] *
+>>>>> **u/SkyTroupe** [+2]  (a day later)
 >>>>> 
 >>>>> Im printing this out and looking at it every day to make myself get in the habit of producing art. That was one of the most inspirational speeches Ive ever been given.
->>>>> 
 
->>>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>>>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (2 days later)
 >>>>>> 
 >>>>>> Why, thank you.
->>>>>> It was loosely inspired by [*To destroy the Earth*](https://qntm.org/destro).
 >>>>>> 
+>>>>>> It was loosely inspired by [*To destroy the Earth*](https://qntm.org/destro).
 
->>>> **u/Mbnewman19** [+3] *
+>>>> **u/Mbnewman19** [+3]  (12 hours later)
 >>>> 
 >>>> I'm with you. The Seventh Tower is one of the outstanding books from my youth, along with the Wizard of Oz books, Star Wars, and Animorphs.
->>>> 
 
->>>>> **u/SkyTroupe** [+2] *
+>>>>> **u/SkyTroupe** [+2]  (a day later)
 >>>>> 
 >>>>> Noumero has inspired me to go all in with making the audio book of it and writing fanfiction for it.
->>>>> 
 
->>>>>> **u/Mbnewman19** [+2] *
+>>>>>> **u/Mbnewman19** [+2]  (3 days later)
 >>>>>> 
 >>>>>> Sweet - more power to you.
->>>>>> 
 
-> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857* (7 hours later)
 > 
 > Since it was just recently completed, I'm going to recommend the webcomic [No Need for Bushido](http://nn4b.com/) fun, tropey, and occasionally likes to pull at your heartstrings. The art is above average for webcomics in general, and far above average for a completed long-running webcomic. Also, it's not rational whatsoever, but I don't feel that detracts from the experience.
-> And while I have you here, I might as well recommend my all-time-favorite completed webcomic, [8-bit theater](https://www.nuklearpower.com/8-bit-theater/). It's absolutely gut-bustingly hilarious, despite the sprite art.
 > 
+> And while I have you here, I might as well recommend my all-time-favorite completed webcomic, [8-bit theater](https://www.nuklearpower.com/8-bit-theater/). It's absolutely gut-bustingly hilarious, despite the sprite art.
 
->> **u/GlimmervoidG** [+9] *
+>> **u/GlimmervoidG** [+10]  (16 hours later)
 >> 
 >> >Red Mage: Hey, BM, what makes your hadoken work anyway?
 >> >
@@ -253,180 +249,184 @@ If you see someone making a top level post asking for recommendation, kindly dir
 >> >Black Mage: Love is a very powerful force. Even more so when it's focused into a coherent beam of destruction. Every time I cast Hadoken it siphons away some of the love in the universe. I'm not sure how much, but I'm given to understand the divorce rate goes up with each blast.
 >> >
 >> >Red Mage:
->> >Black Mage: What!
->> https://www.nuklearpower.com/2004/11/27/8-bit-chronicles-3-of-3/
 >> 
+>> >Black Mage: What!
+>> 
+>> https://www.nuklearpower.com/2004/11/27/8-bit-chronicles-3-of-3/
 
->> **u/jaghataikhan** [+1]  *Primarch of the White Scars**
+>> **u/jaghataikhan** [+1]  *Primarch of the White Scars* (4 days later)
 >> 
 >> Oh wow, I remember reading these like 15 years ago haha.
->> Incidentally, I think Dominic Deegan is starting a sequel?
 >> 
+>> Incidentally, I think Dominic Deegan is starting a sequel?
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+5]  *My arch-enemy is entropy* (17 hours later)
 > 
 > I'd like to recommend [Rowena's Rescue](https://www.amazon.com/Rowenas-Rescue-Rise-Book-ebook/dp/B00KGLR81M) which is a story with an old fashioned beginning about a princess who has been kidnapped by a wizard and her father, the king, has promised her hand in marriage to anyone who can rescue her. However, the princess in this story is very independent and has decided to rescue herself and therefore gain the right to her own hand and be able to decide her own destiny in life.
-> Her attempts at escape reads very much like a character who is  attempting a dungeon crawl and while I wouldn't call it a rational story, there's a fair bit of munchkinry and puzzle solving.
 > 
+> Her attempts at escape reads very much like a character who is  attempting a dungeon crawl and while I wouldn't call it a rational story, there's a fair bit of munchkinry and puzzle solving.
 
->> **u/None** [+6] *
+>> **u/None** [+5]  (21 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (4 days later)
 >>> 
 >>> [[The Gods are Bastards]](https://tiraas.net/2014/08/20/book-1-prologue/)
->>> 
 
-> **u/None** [+15] *
+> **u/None** [+14]  (7 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/Addictedtobadfanfict** [+17] *
+>> **u/Addictedtobadfanfict** [+18]  (an hour later)
 >> 
 >> My only gripe about this fic is that there is way too much exposition. Reminds me of hunter x hunter in the chimera ant arc. However, I read a lot if CYOA and there is a really big plus of the story since no one picks the CYOA power of reincarnating as taylor herbert. It is probably the most well written one given the circumstances but not a revolutionary must-read.
->> 
 
->> **u/nohat** [+8] *
+>> **u/nohat** [+8]  (13 hours later)
 >> 
 >> Yet another Worm CYOA fic where the author has the character firmly grasp the idiot ball because otherwise there wouldn't be any conflict. It's not worse at it than the others like it, but I really don't understand why they don't just give the protagonist a weaker power or less information to start. He had to give her incredibly OP power, and excellent metaknowledge, and literally supernatural strategic ability. It's not impossible to write around that, but it mainly require giving the enemies an edge (eg simurgh is really good at recognizing blindspots and obliterating them), which tends to put the story into a super escalation loop. I'm not even sure whether I like that he has a chapter attempting to justify the idiot ball (which I obviously felt failed). On the one hand he recognizes the issue and is making an effort to ameliorate it, on the other hand it seems a bit meta, and the story might be better not dwelling on it for that long.
->> 
 
->> **u/Palmolive3x90g** [+14] *
+>> **u/Palmolive3x90g** [+15]  (5 hours later)
 >> 
 >> > Mistakes are made, but to me it didn't seem like anyone was holding the idiot ball. 
->> The plot only happens because of the idiot ball. In five days she could have been a *tinker 15* in programing, social engineering, memes, combat tactics and strategy, all of which are speliziations that require nothing more suspicious than an internet conection to use. That is a combo that could take over the world if you were lucky, let alone deal with coil, and the fact she didn't think of it, or something similar, right after she became a Tinker 5 strategist is just ridiculous.
->> That's what annoyed me the most actually. Don't give your characters superintelligent decision making ability if you are going to have them make unintelligent decisions.
 >> 
+>> The plot only happens because of the idiot ball. In five days she could have been a *tinker 15* in programing, social engineering, memes, combat tactics and strategy, all of which are speliziations that require nothing more suspicious than an internet conection to use. That is a combo that could take over the world if you were lucky, let alone deal with coil, and the fact she didn't think of it, or something similar, right after she became a Tinker 5 strategist is just ridiculous.
+>> 
+>> That's what annoyed me the most actually. Don't give your characters superintelligent decision making ability if you are going to have them make unintelligent decisions.
 
->>> **u/IICVX** [+6] *
+>>> **u/IICVX** [+7]  (7 hours later)
 >>> 
 >>> > In five days she could have been a tinker 15 in programing, social engineering, memes, combat tactics and strategy, all of which are speliziations that require nothing more suspicious than an internet conection to use.
->>> It's not stated in fiction but I kinda think that goes in to [the author's idea of how Inspired Inventor works](https://forums.spacebattles.com/threads/a-ghost-of-a-chance-worm-v1-cyoa-alt-taylor.766498/page-18#post-59224858) - since she doesn't have the shard-based processing power to offload on to, the only time she can achieve actually superhuman results is when she's actively Tinkering. 
->>> I kinda think it should have been explored more (it kinda is when she gets Math 3), but I get the feeling that if she put more than 3 charges into anything she'd have a depth of information that she just *can't use*, due to it being more than her purely human mind can work with. 
->>> Sure, with a bunch of points in programming / social engineering / etc she'd be a world-class expert in those fields, but still just at the top end of human ability - which means that any actual Thinkers could wipe the floor with her.
 >>> 
+>>> It's not stated in fiction but I kinda think that goes in to [the author's idea of how Inspired Inventor works](https://forums.spacebattles.com/threads/a-ghost-of-a-chance-worm-v1-cyoa-alt-taylor.766498/page-18#post-59224858) - since she doesn't have the shard-based processing power to offload on to, the only time she can achieve actually superhuman results is when she's actively Tinkering. 
+>>> 
+>>> I kinda think it should have been explored more (it kinda is when she gets Math 3), but I get the feeling that if she put more than 3 charges into anything she'd have a depth of information that she just *can't use*, due to it being more than her purely human mind can work with. 
+>>> 
+>>> Sure, with a bunch of points in programming / social engineering / etc she'd be a world-class expert in those fields, but still just at the top end of human ability - which means that any actual Thinkers could wipe the floor with her.
 
->>>> **u/Palmolive3x90g** [+1] *
+>>>> **u/Palmolive3x90g** [+1]  (21 hours later)
 >>>> 
 >>>> We know software counts as tinkering from canon becuse of the AI's and the endbringer prediction program. Considering how movie hacker the bace escape was the author knows this as well. In fact they [explicitly mention it](https://forums.spacebattles.com/threads/a-ghost-of-a-chance-worm-v1-cyoa-alt-taylor.766498/page-45#post-59309873):
->>>> ***
->>>> > Jailbreaking the phone was the work of a moment, triaging and then disposing of all the data on the drive useless to my purposes less than a minute more. As always whenever I really got to Tinkering on actual parts my fingers began to move with impossible speed [...] Which is how I typed out over seven thousand lines of script and saved it to a text file in less than five minutes.
->>>> ***
->>>> The competence boosts the other specializations give you, while very useful, are nothing next to the abilty to write progams with them. Imagine how powerful combat prediction software writen by someone with a tinker 15 rateing in three relevant speliziations would be. Or an rudimentary AI designed to influence public opinion by releasing memetic ideas. Or a virus that spreads around the globe to anonymously sifon off computing power for your own use.
 >>>> 
+>>>> ***
+>>>> 
+>>>> > Jailbreaking the phone was the work of a moment, triaging and then disposing of all the data on the drive useless to my purposes less than a minute more. As always whenever I really got to Tinkering on actual parts my fingers began to move with impossible speed [...] Which is how I typed out over seven thousand lines of script and saved it to a text file in less than five minutes.
+>>>> 
+>>>> ***
+>>>> 
+>>>> The competence boosts the other specializations give you, while very useful, are nothing next to the abilty to write progams with them. Imagine how powerful combat prediction software writen by someone with a tinker 15 rateing in three relevant speliziations would be. Or an rudimentary AI designed to influence public opinion by releasing memetic ideas. Or a virus that spreads around the globe to anonymously sifon off computing power for your own use.
 
->>>>> **u/IICVX** [+3] *
+>>>>> **u/IICVX** [+3]  (23 hours later)
 >>>>> 
 >>>>> Taylor's main problem in the fic is that she basically _doesn't Tinker_ in the first arc. The thing you quoted comes right after some introspection in which she realizes that, due to a mental block, she's been restricting herself to her power's secondary abilities.
->>>>> Like seriously forget computers, Taylor should be able to sit down and Tinker with her own metabolic pathways until she can burp out a nanofabricator swarm. She doesn't because she's afraid of all the power she's been given.
 >>>>> 
+>>>>> Like seriously forget computers, Taylor should be able to sit down and Tinker with her own metabolic pathways until she can burp out a nanofabricator swarm. She doesn't because she's afraid of all the power she's been given.
 
->> **u/ivory12** [+15] *
+>> **u/ivory12** [+16]  (2 hours later)
 >> 
 >> It starts promisingly, but quality drops off a cliff after the 2nd arc.
->> Throughout, the author has real problems with "show, don't tell" when it comes to what characters are thinking; entire chapters are spent inside Taylor's head and entire interludes are meant to explain character actions (and sometimes seem to be a direct response to the fic's readership). It gets particularly bad after the 2nd arc, where chapters alternate between characters jerking off about Taylor in reaction-interludes for a thousand words and dense, pointless techno-babble of Taylor musing on her future plans, sometimes without any actual dialogue.
->> Lastly, the fic grossly - in every sense - misses the mark on several characters, such as Coil, Armsmaster, and Cauldron. It turns them into pretty brutal caricatures. At one point several paragraphs are spent in a Coil interlude in his own head with him ranting about his own greatness.
 >> 
+>> Throughout, the author has real problems with "show, don't tell" when it comes to what characters are thinking; entire chapters are spent inside Taylor's head and entire interludes are meant to explain character actions (and sometimes seem to be a direct response to the fic's readership). It gets particularly bad after the 2nd arc, where chapters alternate between characters jerking off about Taylor in reaction-interludes for a thousand words and dense, pointless techno-babble of Taylor musing on her future plans, sometimes without any actual dialogue.
+>> 
+>> Lastly, the fic grossly - in every sense - misses the mark on several characters, such as Coil, Armsmaster, and Cauldron. It turns them into pretty brutal caricatures. At one point several paragraphs are spent in a Coil interlude in his own head with him ranting about his own greatness.
 
->> **u/Makin-** [+1]  *homestuck ratfic, you can do it**
+>> **u/Makin-** [+1]  *homestuck ratfic, you can do it* (an hour later)
 >> 
 >> I was about to recommend this one myself, solid rec.
->> 
 
->> **u/SkyTroupe** [+1] *
+>> **u/SkyTroupe** [+1]  (43 minutes later)
 >> 
 >> Just blew through the first arc. Seconding this and the qualifier of high quality writing.
->> 
 
-> **u/GlimmervoidG** [+6] *
+> **u/GlimmervoidG** [+4]  (15 minutes later)
 > 
 > I recommended it in the Open Thread but I'll also recommend it here.
-> I watched the dub of episode 1 of the [Dr. Stone anime](https://en.wikipedia.org/wiki/Dr._Stone). It was really good. I don't know if it will keep up, but the first episode had lots of rationalist adjacent competence!porn, with slowly working through real world science to build tech from the ground up. For example, they made Nital and walked through the process of making and distilling alcohol.
 > 
+> I watched the dub of episode 1 of the [Dr. Stone anime](https://en.wikipedia.org/wiki/Dr._Stone). It was really good. I don't know if it will keep up, but the first episode had lots of rationalist adjacent competence!porn, with slowly working through real world science to build tech from the ground up. For example, they made Nital and walked through the process of making and distilling alcohol.
 
->> **u/SkyTroupe** [+18] *
+>> **u/SkyTroupe** [+21]  (41 minutes later)
 >> 
 >> I'm going to have to counter that recommendation.
->> I dont know if you were here but when the manga first came out we were updating the sub with every chapter release. While it starts out quite rational, for such an irrational premise, it soon turns (around chapter 40 or so) into a fantasy version of science. Then they have this big reveal which completely ruins any SoD you could have about the setting and destroys whatever vestiges of rationality it had remaining. 
->> It is an entertaining story, but it becomes absurdly anti-rational. I would recommend it if people like the genre of isekai but not if youre looking for a rationalist anime.
 >> 
+>> I dont know if you were here but when the manga first came out we were updating the sub with every chapter release. While it starts out quite rational, for such an irrational premise, it soon turns (around chapter 40 or so) into a fantasy version of science. Then they have this big reveal which completely ruins any SoD you could have about the setting and destroys whatever vestiges of rationality it had remaining. 
+>> 
+>> It is an entertaining story, but it becomes absurdly anti-rational. I would recommend it if people like the genre of isekai but not if youre looking for a rationalist anime.
 
->>> **u/Veedrac** [+8] *
+>>> **u/Veedrac** [+8]  (2 hours later)
 >>> 
 >>> I didn't get very far in the manga for much these reasons. From the start it was Hollywood rationality and that grates at me. I have more tolerance for BS in anime, though, so I'll stick with it for a while... just not with any expectation of it being actually smart.
->>> 
 
->>>> **u/SkyTroupe** [+3] *
+>>>> **u/SkyTroupe** [+3]  (2 hours later)
 >>>> 
 >>>> Yeah. I have it on my to watch list. The characters are somewhat entertaining but the contrivances are ridiculous.
->>>> I stopped around chapter 90 or so, when they started making some more modern technology, just because their methods were not physically possible. The characters had some decent growth and there are some scenes I want to see animated.
 >>>> 
+>>>> I stopped around chapter 90 or so, when they started making some more modern technology, just because their methods were not physically possible. The characters had some decent growth and there are some scenes I want to see animated.
 
->>> **u/meterion** [+5] *
+>>> **u/meterion** [+5]  (4 hours later)
 >>> 
 >>> What was the reveal? I enjoy reading it (but would in no way consider it rational) and for me its slip into absurdity was a slow drip of increasingly unrealistic manufacturing methods. Was there one big thing that did it for you?
->>> 
 
->>>> **u/SkyTroupe** [+6] *
+>>>> **u/SkyTroupe** [+6]  (8 hours later)
 >>>> 
 >>>> >!They come across a village which was made by the astronauts that saw the petrification of earth in space. His dad was one of them and purposefully built the village for his son to use in the future to rebuild civilization.!<
->>>> >!Idk how they managaed to geographically get that right since they had no gps or anything. Also, the science they were doing was not possible with the tools they had. !<
 >>>> 
+>>>> >!Idk how they managaed to geographically get that right since they had no gps or anything. Also, the science they were doing was not possible with the tools they had. !<
 
->>> **u/None** [+3] *
+>>> **u/None** [+4]  (6 hours later)
 >>> 
 >>> I'm going to have to counter your counter.
->>> Dr. Stone itself may not be too rational - as others have pointed out it's patently absurd - however it along with several other recent Shounen (e.g. The Promised Neverland) are reactions to previous popular manga (e.g. Dragon Ball), where the main characters attempt to solve their problems via intelligence/rational decision making, as opposed to the greater application of a fist to a face.
->>> Under this view I don't see Dr. Stone as being rational, but it is a very large step in the right direction when compared to many of it's peers.
->>> Also aside from the question of rationality Dr. Stone is very enjoyable, definitely recommend people give it a go if they're into Shounen.
 >>> 
+>>> Dr. Stone itself may not be too rational - as others have pointed out it's patently absurd - however it along with several other recent Shounen (e.g. The Promised Neverland) are reactions to previous popular manga (e.g. Dragon Ball), where the main characters attempt to solve their problems via intelligence/rational decision making, as opposed to the greater application of a fist to a face.
+>>> 
+>>> Under this view I don't see Dr. Stone as being rational, but it is a very large step in the right direction when compared to many of it's peers.
+>>> 
+>>> Also aside from the question of rationality Dr. Stone is very enjoyable, definitely recommend people give it a go if they're into Shounen.
 
->>>> **u/Veedrac** [+9] *
+>>>> **u/Veedrac** [+7]  (13 hours later)
 >>>> 
 >>>> But rationality isn't about wits over brawn, it's about doing things that work. Fullmetal Alchemist and Fate/Zero are miles more rational than Dr. Stone, and much preceded it, so it's hard to see Dr. Stone as an advancement of anything.
->>>> 
 
-> **u/lsparrish** [+2] *
+> **u/lsparrish** [+2]  (2 days later)
 > 
 > Just finished [Technology will win the day](https://forums.sufficientvelocity.com/threads/technology-will-win-the-day-worm-cyoa-si-complete.56354/), a Worm tinker fic where the protagonist exploits physics-breaking powers to curb stomp the baddies and save the universe.
-> 
 
-> **u/Farmerbob1** [+2]  *Level 1 author**
+> **u/Farmerbob1** [+2]  *Level 1 author* (3 days later)
 > 
 > I've been listening to quite a bit of litRPG recently as I drive.
-> Three reasonably-well written series follow.
-> 1.  Ascend Online series by Luke Chmilenko. Decent.  Author has issues with repeating adjectives and adverbs too often in short scenes.  The author also heavily over-uses the word 'countless.'  By the end of the third book, I was groaning out loud every time the word 'countless' was used.  Nothing Grammarly couldn't fix.
-> 2. Way of the Shaman series by Vasily Mahanenko.  Also decent.  I have read three of the books so far.  This fellow doesn't have a problem with repetitiveness of adjectives and adverbs.  However he does have one rather irritating quirk.  He strongly overused the phrases "The girl" and "The girl's." Again, Grammarly, please.
-> 3. The Good Guys series by Eric Ugland. Better than decent writing.  No word-overuse issues.  The Protagonist has moments of brilliance and times when he clearly was holding onto an idiot ball with both hands and his teeth.  However, the author does a good job of making the protagonist suffer for most obvious bad mistakes, and I have to say that if you gave me a bag of holding, there's a strong chance that I would do a lot of what the protagonist did.
 > 
+> Three reasonably-well written series follow.
+> 
+> 1.  Ascend Online series by Luke Chmilenko. Decent.  Author has issues with repeating adjectives and adverbs too often in short scenes.  The author also heavily over-uses the word 'countless.'  By the end of the third book, I was groaning out loud every time the word 'countless' was used.  Nothing Grammarly couldn't fix.
+> 
+> 2. Way of the Shaman series by Vasily Mahanenko.  Also decent.  I have read three of the books so far.  This fellow doesn't have a problem with repetitiveness of adjectives and adverbs.  However he does have one rather irritating quirk.  He strongly overused the phrases "The girl" and "The girl's." Again, Grammarly, please.
+> 
+> 3. The Good Guys series by Eric Ugland. Better than decent writing.  No word-overuse issues.  The Protagonist has moments of brilliance and times when he clearly was holding onto an idiot ball with both hands and his teeth.  However, the author does a good job of making the protagonist suffer for most obvious bad mistakes, and I have to say that if you gave me a bag of holding, there's a strong chance that I would do a lot of what the protagonist did.
 
->> **u/GlueBoy** [+2]  *anti-skub**
+>> **u/GlueBoy** [+2]  *anti-skub* (4 days later)
 >> 
 >> > The Good Guys series by Eric Ugland
->> As a rebuttal I'll refer to [this comment chain](https://www.reddit.com/r/litrpg/comments/c9v9po/review_home_seige_home_good_guys_book_6/et55vwl/?context=3), where I note the author's gross overuse of dialogue interruptions. He starts at 78 in book one and gets up to 202 in book 4! Disgusting.
 >> 
+>> As a rebuttal I'll refer to [this comment chain](https://www.reddit.com/r/litrpg/comments/c9v9po/review_home_seige_home_good_guys_book_6/et55vwl/?context=3), where I note the author's gross overuse of dialogue interruptions. He starts at 78 in book one and gets up to 202 in book 4! Disgusting.
 
->>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>> **u/Farmerbob1** [+1]  *Level 1 author* (4 days later)
 >>> 
 >>> I have noticed the dialogue interruptions while reading.  I simply considered it to be the author's style.  The author's response to that thread seems to support my take.
->>> Honestly, having the protagonist manage a dissertation-level conversation in the middle of combat is less rational.  When something distracting happens, most people don't just keep talking like nothing happened.
 >>> 
+>>> Honestly, having the protagonist manage a dissertation-level conversation in the middle of combat is less rational.  When something distracting happens, most people don't just keep talking like nothing happened.
 
->>>> **u/GlueBoy** [+1]  *anti-skub**
+>>>> **u/GlueBoy** [+1]  *anti-skub* (4 days later)
 >>>> 
 >>>> I understand that most people don't really notice these things, and that's fine. But after it's brought to your attention you still honestly think it's realistic for peasants to incessantly interrupt a member of the *high-nobility* whom they just met, as in my reply? And that was not an isolated example. Everyone interrupts the protagonist at all times, whether in battle or in a normal, relaxed conversation. Despite the guy looking like a bad-ass, dangerous warrior with a high, high ranking. 
->>>> I probably haven't been interrupted 100 times in the past 5 years and this book that takes place during less than a week has 200 interruptions! I just can't reconcile that with realism, sorry, or anything but trash-tier dialogue writing.
 >>>> 
+>>>> I probably haven't been interrupted 100 times in the past 5 years and this book that takes place during less than a week has 200 interruptions! I just can't reconcile that with realism, sorry, or anything but trash-tier dialogue writing.
 
->>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (5 days later)
 >>>>> 
 >>>>> The protagonist rarely uses his rank to control a conversation.  He is also a poor leader, and he knows it.  He is also very rarely in a formal setting which might help him remember his role.
->>>>> The author was very clear and strict about the protagonist's adoptive father's very strong dislike for being interrupted, and I do not believe that person was interrupted without clear indication of irritation or anger.  I am confident that if the author wrote that character's unwillingness to be interrupted so clearly, they are more than capable of writing the same trait into others, if he chose to do so.
->>>>> That said, the protagonist, once he becomes a noble, definitely allows people to walk all over him in conversation.  I will even say that it likely happens too much, but I still do not have a problem with it.  It seems clear to me that the author intended exactly that.
 >>>>> 
+>>>>> The author was very clear and strict about the protagonist's adoptive father's very strong dislike for being interrupted, and I do not believe that person was interrupted without clear indication of irritation or anger.  I am confident that if the author wrote that character's unwillingness to be interrupted so clearly, they are more than capable of writing the same trait into others, if he chose to do so.
+>>>>> 
+>>>>> That said, the protagonist, once he becomes a noble, definitely allows people to walk all over him in conversation.  I will even say that it likely happens too much, but I still do not have a problem with it.  It seems clear to me that the author intended exactly that.
 
 ---
 

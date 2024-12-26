@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/9grel6/challenge_companion_conversion/
-* Score: 20
+* Score: 18
 
 * Created: 2018-09-18T03:49:51
 

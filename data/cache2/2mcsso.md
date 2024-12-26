@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Charlie___** [+1] *
+> **u/Charlie___** [+1]  (11 hours later)
 > 
 > Ooh, is the subreddit popular enough now that new links don't automatically go to the front page?
-> 
 
 ---
 

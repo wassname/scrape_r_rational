@@ -12,7 +12,7 @@
 
 ### Comments:
 
-> **u/SilverstringstheBard** [+1] *
+> **u/SilverstringstheBard** [+1]  (19 seconds later)
 > 
 > *Donjon* (Worm OC, Seattle) has updated with Collapse 1-x(Liang Myers)!  
 > Donjon's first arc has finally arrived, featuring a look into the  history and motivations of our prestidigitigious pal Presto. We've  officially reached the end of Collapse, tune in next week for the first  chapter of Arc 2: Aftershocks.  
@@ -20,7 +20,6 @@
 > **SV:**[Donjon (Worm OC, Seattle) - Superhero | Page 2](https://forums.sufficientvelocity.com/threads/donjon-worm-oc-seattle.53923/page-2#post-12495763)   
 > **Ao3:**[Show           Chapter         |         Archive of Our Own](https://archiveofourown.org/works/18146996/chapters/44784376)   
 > **CONTENT WARNING: Violence, Swearing, and Depictions of Emotional Abuse**
-> 
 
 ---
 

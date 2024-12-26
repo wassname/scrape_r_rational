@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (8 minutes later)
 > 
 > Do not spam this subreddit with discord drama.
-> 
 
->> **u/OliviaMagus** [-1] *
+>> **u/OliviaMagus** [-1]  (9 minutes later)
 >> 
 >> you are free to fuck off.
->> 
 
 ---
 

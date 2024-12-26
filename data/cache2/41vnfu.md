@@ -2,7 +2,7 @@
 
 * Author: u/Nighzmarquls *
 * URL: https://www.reddit.com/r/rational/comments/41vnfu/d_some_ways_i_try_to_keep_exposition_dumps_off/
-* Score: 23
+* Score: 24
 
 * Created: 2016-01-20T18:35:08
 
@@ -29,80 +29,82 @@ This one is sort of my, well we can't avoid explaining SOMETHING so might as wel
 
 ### Comments:
 
-> **u/alexanderwales** [+20]  *Time flies like an arrow**
+> **u/alexanderwales** [+22]  *Time flies like an arrow* (32 minutes later)
 > 
 > It's not a matter of *avoiding* exposition, it's making exposition *interesting*. You can give dozens of pages of exposition, so long as it's engaging. There are a number of people that do this in the real world, but I think it's a very difficult skill to learn and master. If four million people are willing to sit down and watch this video on [how to become pope](https://www.youtube.com/watch?v=kF8I_r9XT7A) or something -- if people will seek these things out and watch them for entertainment -- then the real issue with putting exposition in isn't that people dislike exposition, it's that most exposition is boring. But I don't think it has to be.
-> One of the ways to do this is your fourth point; you can add exposition in the form of character conflict, which is inherently more interesting than just a boring monologue. I think a study of real-world exposition-as-entertainment is probably the way to go, if you want to make exposition into something that people *want* to read.
 > 
+> One of the ways to do this is your fourth point; you can add exposition in the form of character conflict, which is inherently more interesting than just a boring monologue. I think a study of real-world exposition-as-entertainment is probably the way to go, if you want to make exposition into something that people *want* to read.
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (43 minutes later)
 >> 
 >> Indeed, the term for real life exposition is teaching and as I said before I'm quite thrilled by it across LOTS of forms. But I've seen that there is important degrees of 'buy in' you need in order for teaching a subject to an audience.
->> I like exposition perhaps a bit much and I've noticed that it seems to be rather common in rationalist fiction authors to like it quite a lot too, so in this case I am avoiding exposition as a counter to my own perceived bias. And as I said above, I think I'm still calibrating the adjustment to actually hit the sweet spot.
->> Thank you for the point of fun exposition! It's easy to get caught up in a hole of trying to not do things and forget about the fun!
 >> 
+>> I like exposition perhaps a bit much and I've noticed that it seems to be rather common in rationalist fiction authors to like it quite a lot too, so in this case I am avoiding exposition as a counter to my own perceived bias. And as I said above, I think I'm still calibrating the adjustment to actually hit the sweet spot.
+>> 
+>> Thank you for the point of fun exposition! It's easy to get caught up in a hole of trying to not do things and forget about the fun!
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (an hour later)
 >>> 
 >>> Yeah, I do that same calibration. Something that works well is having my wife beta read and point out parts where she's bored or confused, which is generally a sign that changes need to be made. This often happens during long periods of me getting excited about something I'd spent my time reading about.
->>> 
 
-> **u/Sparkwitch** [+13] *
+> **u/Sparkwitch** [+12]  (an hour later)
 > 
 > The big literary innovation of cyberpunk as a sub-genre was the way that the characters, and the narrator, take all the new technology for granted. It happens *after* the big changes, so it doesn't waste time having anybody explain them to a newbie. Instead we figure out what has changed by watching how the plot has that tech being used, or worn, or manipulated, or broken, or repaired.
-> The same way we might write about the use of a cell phone, a video streaming service, or a hybrid car.
-> Magic can also be treated this way, or the details of a character's backstory, or the politics of an imaginary country. Basically it's exposition as dramatic irony in reverse: Everybody understands except the reader.
 > 
+> The same way we might write about the use of a cell phone, a video streaming service, or a hybrid car.
+> 
+> Magic can also be treated this way, or the details of a character's backstory, or the politics of an imaginary country. Basically it's exposition as dramatic irony in reverse: Everybody understands except the reader.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 hours later)
 >> 
 >> Interesting point. I'd never really noticed that before.
->> 
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (5 hours later)
 >> 
 >> I had not noticed that before but I can on reflection definitely see use of that innovation in science fiction stories that are not cyber punk being more prevalent after its "hey day" in the 80s to 90s.
->> 
 
-> **u/AmeteurOpinions** [+6]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+5]  *Finally, everyone was working together.* (11 minutes later)
 > 
 > This is one of those posts which approaches an optimal solution for the current topic, to the point of discussion floundering because there is so little to add.
-> 
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (15 minutes later)
 >> 
 >> Well I guess upvote it? Alternatively some pointers on ways to do the two things I don't consider myself very good at might be nice?
->> Or perhaps share your own self critiques on where you feel you succeed or falter on the points?
 >> 
+>> Or perhaps share your own self critiques on where you feel you succeed or falter on the points?
 
->>> **u/None** [+6] *
+>>> **u/None** [+7]  (5 hours later)
 >>> 
 >>> One idea would be to disguise exposition as progress. Say for example I haven't really gone into the geographic or political makeup of the world. To remedy that I could have a character describe a list of items they need for a trip, and have those indirectly describe how the world works (... We need bug repellent for Barten, bear repellent for Zajer, lichen repellent for Neb).
->>> You get the idea, have exposition in such a way it doesn't slow the story.
 >>> 
+>>> You get the idea, have exposition in such a way it doesn't slow the story.
 
->>>> **u/Nighzmarquls** [+2] *
+>>>> **u/Nighzmarquls** [+2]  (5 hours later)
 >>>> 
 >>>> Ooh that is a good one I did not point out but I have used without noticing. 
->>>> Thanks!
 >>>> 
+>>>> Thanks!
 
-> **u/msmcg** [+3] *
+> **u/msmcg** [+3]  (a day later)
 > 
 > No specific points to add, but overall I really enjoyed the expository style used here: http://archiveofourown.org/works/777002/chapters/1461984
+> 
 > Essentially each chapter begins with excerpts from news articles, encyclopedia, books, etc. There are quite a lot of flashbacks to important events, and quite early in the story there are even two fairly lengthy chapters dedicated to one character watching a movie about notable events earlier in her life which has just been released to cinemas. The plot events and experience of watching (in pseudo-virtual reality) are described in detail. The movie is my least favourite of these expositions as I felt it dragged a bit, but it's fairly ingenious in the abstract. I loved the encyclopedia entries, especially those where sections are marked e.g. *only available to those with level three clearance*. This creates an interesting dynamic where the reader discovers what information (at a minimum) various characters are privy to by knowing their security clearance level. 
 > Hope some of this is useful.
-> 
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (a day later)
 >> 
 >> I'm currently trying some meta-exposition via the use of a wiki appendix.
->> And I do love the use of news stories in world as a way to get the background feel.
->> Although I feel like I might have accidentally overdone some of the realism of "you are not important, the world is as huge and vast as our own and every little part is full of people dealing with what you are dealing with"
->> However I have some plans to actually 'datestamp' parts of that wiki so that there are actually entries/versions of it that sync up to particular stages in the plot.
->> In that particular case though all of those exposition bits are from my perspective considered 'optional for the reader' and I don't want to depend on it to allow the story to be enjoyable.
->> Essentially it's slightly polished versions of already existing world building notes.
 >> 
+>> And I do love the use of news stories in world as a way to get the background feel.
+>> 
+>> Although I feel like I might have accidentally overdone some of the realism of "you are not important, the world is as huge and vast as our own and every little part is full of people dealing with what you are dealing with"
+>> 
+>> However I have some plans to actually 'datestamp' parts of that wiki so that there are actually entries/versions of it that sync up to particular stages in the plot.
+>> 
+>> In that particular case though all of those exposition bits are from my perspective considered 'optional for the reader' and I don't want to depend on it to allow the story to be enjoyable.
+>> 
+>> Essentially it's slightly polished versions of already existing world building notes.
 
 ---
 

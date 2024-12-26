@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning
-* Score: 33
+* Score: 32
 
 * Created: 2015-03-15T00:19:13
 
@@ -12,286 +12,301 @@
 
 ### Comments:
 
-> **u/callmebrotherg** [+14]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+14]  *now posting as /u/callmesalticidae* (5 minutes later)
 > 
 > Not sure yet if it's going to be firmly RST, so I'm hedging my bets. 
-> Two chapters right now, and it's doing pretty well. Two notable changes from canon: 
-> [minor spoilers, first chapter]
-> 1) "[If your two hours run out then] the construct body will persist, as it is real and does not require power to maintain. But the pocket dimension will collapse, taking with it your true body and all of the computational hardware upon which your mind and memories are stored. You will simply cease to exist, leaving only the construct in your wake." 
-> It appears that Tobias will not be getting trapped in bird morph. 
-> 2) "There are forces larger than any of us at work, and evidence that we have been maneuvered into place by those you might call God. I do not know the future, but I have seen its broader strokes, and can rank possibility far more finely than you would credit. This meeting was not by chance, and if there are few paths to victory, at least be assured that you walk upon the widest." 
-> It appears that the Ellimist exists, or at least that the war has so many improbable elements that Elfangor suspects something of that nature to exist, and I would rank it as probable that high-ranking authorities, at least, also share in this belief of Elfangor's. 
-> Which I think is *really interesting*, even more so than the bit about morphing. I have to wonder what it'd be like to look at the situation and realize that there's strong evidence that you and the other guys are being manipulated by a superintelligence whose motives you can only guess at.
 > 
+> Two chapters right now, and it's doing pretty well. Two notable changes from canon: 
+> 
+> [minor spoilers, first chapter]
+> 
+> 1) "[If your two hours run out then] the construct body will persist, as it is real and does not require power to maintain. But the pocket dimension will collapse, taking with it your true body and all of the computational hardware upon which your mind and memories are stored. You will simply cease to exist, leaving only the construct in your wake." 
+> 
+> It appears that Tobias will not be getting trapped in bird morph. 
+> 
+> 2) "There are forces larger than any of us at work, and evidence that we have been maneuvered into place by those you might call God. I do not know the future, but I have seen its broader strokes, and can rank possibility far more finely than you would credit. This meeting was not by chance, and if there are few paths to victory, at least be assured that you walk upon the widest." 
+> 
+> It appears that the Ellimist exists, or at least that the war has so many improbable elements that Elfangor suspects something of that nature to exist, and I would rank it as probable that high-ranking authorities, at least, also share in this belief of Elfangor's. 
+> 
+> Which I think is *really interesting*, even more so than the bit about morphing. I have to wonder what it'd be like to look at the situation and realize that there's strong evidence that you and the other guys are being manipulated by a superintelligence whose motives you can only guess at.
 
->> **u/xamueljones** [+8]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+9]  *My arch-enemy is entropy* (an hour later)
 >> 
 >> I'm not sure if you are the same person as the one who is posting *r Animorphs: The Reckoning* to fanfiction.net (WhatWouldEnderDo), but if you are, then I recommend taking a look at [this post](http://www.reddit.com/r/rational/comments/2bb0mo/ideas_for_rationalanimorphs/) where people on this subreddit previously discussed ideas for a rational!Animorph.
->> 
 
->>> **u/TK17Studios** [+14]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+16]  *Author of r!Animorphs: The Reckoning* (4 hours later)
 >>> 
 >>> Author here; just saying hi (someone else on Reddit has handle WhatWouldEnderDo).  Thanks for the link!
->>> 
 
->>>> **u/None** [+9] *
+>>>> **u/None** [+8]  (4 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/TK17Studios** [+8]  *Author of r!Animorphs: The Reckoning**
+>>>>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning* (5 hours later)
 >>>>> 
 >>>>> Updates won't be super fast.  But I assign 80% confidence to the prediction that they will keep on coming, slowly and steadily.
->>>>> Thanks for the love!
 >>>>> 
+>>>>> Thanks for the love!
 
->>>>>> **u/chaosmosis** [+3]  *and with strange aeons, even death may die**
+>>>>>> **u/chaosmosis** [+3]  *and with strange aeons, even death may die* (a day later)
 >>>>>> 
 >>>>>> Do you have any good animorphs fanfics to recommend us?
->>>>>> 
 
->>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (a day later)
 >>>>>>> 
 >>>>>>> I'm actually pretty new to the fanfic scene, so I don't have any recs just yet.
->>>>>>> 
 
->>>>>>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>>>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >>>>>>>> 
 >>>>>>>> I was the same when I started writing Pokemon, and you could do what I did: mention that in an author's note. I got some pretty good recommendations from reviewers :)
->>>>>>>> 
 
->>>> **u/demontreal** [+5] *
+>>>> **u/demontreal** [+4]  (15 hours later)
 >>>> 
 >>>> Just read ch3 and I have to say that I am very impressed.
->>>> 
 
->>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (2 hours later)
 >>> 
 >>> Nope. But I let zem know that I've posted it here. The author mentions HPMOR and Worm in zir summary so I'm making an assumption that ze knows about r/Rational (I mentioned in a review that I had posted the fic here), but if the response I get back is "r/Rational, wuzzat?" then I'll make sure to drop that link in my next message.
->>> 
 
->> **u/ketura** [+3]  *Organizer**
+>> **u/ketura** [+3]  *Organizer* (22 hours later)
 >> 
 >> I'm wondering what's going to happen with Tobias.  I mean, that's kind of his *thing* from a narrative standpoint, being a nothlit. Do human minds screw with the tech enough to leave a sliver of a conduit open?  Does the Ellimist wave his hand and say "no, this is how it's going to be"? Does he get trapped and the Animorphs keep the hawk out of respect, only to find a way later to re-link the mind without restoring the form?
->> On the other hand, assuming nothlits really don't exist, what does this mean for the Animorphs?  He's *going* to get shunted over to the other coast sooner or later, does that mean a second chapter of the Animorphs is going to get set up?  I'm really looking forward to how David is introduced (if he's introduced), that was one of the most terrifying trio of books in canon, and figuring out how to screen people is a definite must, and they *have* to do it sooner than 7/8ths of the way through the story.
 >> 
+>> On the other hand, assuming nothlits really don't exist, what does this mean for the Animorphs?  He's *going* to get shunted over to the other coast sooner or later, does that mean a second chapter of the Animorphs is going to get set up?  I'm really looking forward to how David is introduced (if he's introduced), that was one of the most terrifying trio of books in canon, and figuring out how to screen people is a definite must, and they *have* to do it sooner than 7/8ths of the way through the story.
 
->>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (22 hours later)
 >>> 
 >>> Something I just asked someone else: Who's going to volunteer to possibly sacrifice zemself for a chance at bringing back Elfangor? 
->>> Because if the original mind is still there, just suppressed by the morphing technology...
 >>> 
+>>> Because if the original mind is still there, just suppressed by the morphing technology...
 
->>>> **u/ketura** [+8]  *Organizer**
+>>>> **u/ketura** [+5]  *Organizer* (23 hours later)
 >>>> 
 >>>> Somehow I doubt this would make it past the planning stages.  I mean, it seems like if that were possible the Andalite fleet would be made up of thousands of copies of their greatest warriors morphed from space-lizards or something barely sapient enough to do an accidental aquiring/morph.  Or even if not, you'd have self-deprecating arisths copying their War-Princes after a particularly depressing day, or all warriors could keep copies of *themselves* acquired from someone else's morph and thus restore 1:1 perfect backups after major injuries, which Elfangor obviously didn't do.
->>>> I dunno, that seems like it would be a rabbit-hole of munchkinism if it turns out to be possible.  Nonetheless maybe *that's* Tobias' arc, I could totally see him doing it out of depression/desperation, though my personal guess is that since the acquiring happens at apparently a DNA level and not a full-body particle scan, you would not get memories or anything like that.  You'd have an infant Andalite (or worse, a brain-dead Andalite) stuck in an adult Elfangor's body.
 >>>> 
+>>>> I dunno, that seems like it would be a rabbit-hole of munchkinism if it turns out to be possible.  Nonetheless maybe *that's* Tobias' arc, I could totally see him doing it out of depression/desperation, though my personal guess is that since the acquiring happens at apparently a DNA level and not a full-body particle scan, you would not get memories or anything like that.  You'd have an infant Andalite (or worse, a brain-dead Andalite) stuck in an adult Elfangor's body.
 
-> **u/Prezombie** [+7] *
+> **u/Prezombie** [+7]  (21 hours later)
 > 
 > I loved the animorph series. I read all the books multiple times, especially the Chronicles books, since those were so good at depicting alien life.
-> But I always hated that 2 hour morph limit. It sucked in so many ways, both Doyleistically and Wastonistically.
-> From a Doyleist view, it's a crutch, there exclusively to offer the writer easy tension. So many times someone was stuck in a position where the timer was running down and they couldn't reset it because of reasons, that it just got silly.
-> From a Watsonian point of view, it's even sillier. Why would a piece of alien technology for infiltration have a time limit measured in such neat round numbers, and wouldn't such a time limit be the first thing the engineers who made the device be working round the however-many-hour clock to optimize the device and increase that time limit?
-> And finally, considering how many of the Yeerk mooks seem to be in their army for the chance to use a proper body, why the hell haven't the Andalites generated asylum boxes based on the morph boxes, which detect a yeerk's touch, give them a limited form of the morphing ability, and forcefully morph them into a body that isn't trapped in an AndIMustScream horror?
 > 
+> But I always hated that 2 hour morph limit. It sucked in so many ways, both Doyleistically and Wastonistically.
+> 
+> From a Doyleist view, it's a crutch, there exclusively to offer the writer easy tension. So many times someone was stuck in a position where the timer was running down and they couldn't reset it because of reasons, that it just got silly.
+> 
+> From a Watsonian point of view, it's even sillier. Why would a piece of alien technology for infiltration have a time limit measured in such neat round numbers, and wouldn't such a time limit be the first thing the engineers who made the device be working round the however-many-hour clock to optimize the device and increase that time limit?
+> 
+> And finally, considering how many of the Yeerk mooks seem to be in their army for the chance to use a proper body, why the hell haven't the Andalites generated asylum boxes based on the morph boxes, which detect a yeerk's touch, give them a limited form of the morphing ability, and forcefully morph them into a body that isn't trapped in an AndIMustScream horror?
 
->> **u/ketura** [+6]  *Organizer**
+>> **u/ketura** [+8]  *Organizer* (22 hours later)
 >> 
 >> I understand *why* the two-hour limit had to be imposed; I mean, without it from a Doylist point of view that limits a ton of the tension that comes from A: espionage and B: outright fights, since both sides know there's a time limit and can plan around it.  Without it, a lot of the time-based tension then goes back on "I can't blow my Peter Parker persona", which is a particular brand of drama that I've never, ever liked.
->> (Also, my headcanon was that the actual time limit was like 2 hours, 3 minutes, ten seconds, and that was only the beginning of the closing of the window, which allowed difficult if possible transition for another 3-5 minutes after that.  You're an alien giving advanced tech to middle-school-aged dorks, you tell them "two hours" and leave it at that.  It's not like it's a good idea for them to experiment with this limit when your only means of falsifying are to see *if you can come back from the morph or not*.)
 >> 
+>> (Also, my headcanon was that the actual time limit was like 2 hours, 3 minutes, ten seconds, and that was only the beginning of the closing of the window, which allowed difficult if possible transition for another 3-5 minutes after that.  You're an alien giving advanced tech to middle-school-aged dorks, you tell them "two hours" and leave it at that.  It's not like it's a good idea for them to experiment with this limit when your only means of falsifying are to see *if you can come back from the morph or not*.)
 
->>> **u/Uncaffeinated** [+8] *
+>>> **u/Uncaffeinated** [+5]  (a day later)
 >>> 
 >>> In fact, there's canon evidence that the time limit isn't exactly two hours - in the third book they're able to morph even though Tobias thinks the limit is past, but it's really difficult.
->>> 
 
->>>> **u/ketura** [+6]  *Organizer**
+>>>> **u/ketura** [+8]  *Organizer* (a day later)
 >>>> 
 >>>> Yeah, that was my primary source as well.
->>>> 
 
->>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (a day later)
 >>> 
 >>> Re: headcanon - I had something similar, but also thought that it might vary based on factors unknown to human teenagers.  Again, the basic idea is that it's a bad idea to experiment when crossing the boundary has such high costs.
->>> 
 
->>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (a day later)
 >>>> 
 >>>> Experiment with terminally ill volunteers.
->>>> 
 
->> **u/Uncaffeinated** [+5] *
+>> **u/Uncaffeinated** [+6]  (a day later)
 >> 
 >> The best explanation I could come up with is that the Andalites didn't really invent morphing technology. The Escafil device is actually a child's toy developed by a now extinct race of aliens that ended up in the Andalite's hooves. They figured out how to replicate it but still don't actually understand it.
->> Also, the two hour thing is almost certainly just an approximation. Even in the books, the time limit seems to be fuzzy at the edges.
 >> 
+>> Also, the two hour thing is almost certainly just an approximation. Even in the books, the time limit seems to be fuzzy at the edges.
 
->>> **u/MugaSofer** [+2] *
+>>> **u/MugaSofer** [+2]  (a day later)
 >>> 
 >>> My explanation was that the Ellimist gave it to them. He spent some time with them in canon, and for "their" technology Andalites sure don't seem to have a clue how it works.
->>> 
 
->> **u/Syene** [+1] *
+>> **u/Syene** [+1]  (2 months later)
 >> 
 >> > Why would a piece of alien technology for infiltration
->> It's not for infiltration. At least, the Andalites never originally conceived of using it as such. Most of the population never goes beyond acquiring and morphing a bird on their homeworld. It's potential was largely overlooked until it was weaponized by Visser Three, the humans, and a few Andalites in tight spots.
->> > have a time limit measured in such neat round numbers
->> No argument here.
->> > and wouldn't such a time limit be the first thing the engineers who made the device be working round the however-many-hour clock to optimize the device and increase that time limit?
->> Well, since it was mostly just a toy to them it may not have been a priority. Physical combat? They already outclass most beings in melee. Espionage? They didn't have a grand espionage tradition, and by the time they found out about it the war was already going badly.
 >> 
+>> It's not for infiltration. At least, the Andalites never originally conceived of using it as such. Most of the population never goes beyond acquiring and morphing a bird on their homeworld. It's potential was largely overlooked until it was weaponized by Visser Three, the humans, and a few Andalites in tight spots.
+>> 
+>> > have a time limit measured in such neat round numbers
+>> 
+>> No argument here.
+>> 
+>> > and wouldn't such a time limit be the first thing the engineers who made the device be working round the however-many-hour clock to optimize the device and increase that time limit?
+>> 
+>> Well, since it was mostly just a toy to them it may not have been a priority. Physical combat? They already outclass most beings in melee. Espionage? They didn't have a grand espionage tradition, and by the time they found out about it the war was already going badly.
 
-> **u/True-Ninja** [+8] *
+> **u/True-Ninja** [+7]  (a day later)
 > 
 > I welcome a rational Animorphs story, it's a world I loved as a kid and has a very rich mythology to play with.
-> However, having only skimmed the first chapter, I feel like this has already failed in one aspect that has bothered me ever since I read the original series.
-> Why does Elfangor stay behind? Even after you take into account everything that the Ellimist did to manipulate his life, there's no reason he couldn't have crash landed at the construction site and then morphed some alien bird to escape. And from what I gathered here, even with the changes to his personality and actions he takes, there's still no good reason why he wouldn't just see Jake and friends tell them to run and that they'd meet up later. Especially if the Time Matrix is buried in the construction site, which IIRC was the whole reason he goes there in the first place.
-> In fact, I think having Elfangor live could have a very useful role from a story perspective, especially a rational story perspective. A mentor figure for them to play off with. I think you should rethink this, or at least present a plausible reason he couldn't run.
 > 
+> However, having only skimmed the first chapter, I feel like this has already failed in one aspect that has bothered me ever since I read the original series.
+> 
+> Why does Elfangor stay behind? Even after you take into account everything that the Ellimist did to manipulate his life, there's no reason he couldn't have crash landed at the construction site and then morphed some alien bird to escape. And from what I gathered here, even with the changes to his personality and actions he takes, there's still no good reason why he wouldn't just see Jake and friends tell them to run and that they'd meet up later. Especially if the Time Matrix is buried in the construction site, which IIRC was the whole reason he goes there in the first place.
+> 
+> In fact, I think having Elfangor live could have a very useful role from a story perspective, especially a rational story perspective. A mentor figure for them to play off with. I think you should rethink this, or at least present a plausible reason he couldn't run.
 
->> **u/callmebrotherg** [+6]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae* (a day later)
 >> 
 >> Having had some discussions with the author, without being able to have particular suspicions confirmed (merely that I was thinking in the right way), there is likely more to Elfangor's actions than we think at the moment.
->> 
 
->>> **u/True-Ninja** [+4] *
+>>> **u/True-Ninja** [+4]  (a day later)
 >>> 
 >>> Good to hear. I look forward to it, if true.
->>> 
 
->> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning* (a day later)
 >> 
 >> "Having only skimmed" caused you to miss the fact that Elfangor's wounds were fatal.  Also, I'm doing my best not to level the Animorphs up/give them advantages that do not logically follow from necessary changes.  Keeping Elfangor around as a mentor definitely qualifies as a significant power boost from the original story.
->> Also: Time Matrix is likely not a thing.
 >> 
+>> Also: Time Matrix is likely not a thing.
 
->>> **u/True-Ninja** [-2] *
+>>> **u/True-Ninja** [-3]  (2 days later)
 >>> 
 >>> It doesn't really matter how fatal Elfangor's wounds were. Morphing heals any injury that isn't genetic. Unless you changed that? In the original series the characters routinely suffer wounds that are incredibly fatal, and they still manage to will themselves to demorph through the pain, and turn out perfectly fine, though incredibly rattled. The original series relied on this heavily. This is even how they were able to recruit the Auxiliary Animorphs at the end of the series. How is it that Elfangor morphed to a human form, but demorphed to a damaged Andalite, if he received a fatal wound in the crash? This is a major departure from canon, if I'm interpreting this correctly. This would imply they need to, what, heal wounds for each of their individual morphs naturally? Like Jake as a Tiger is going to need a few weeks rest, 2 hours at a time, to recover from some Hork-Bajir cuts?
->>> Also, you can't really just remove the Time Matrix. It's an incredibly OP and poorly explained artifact, I admit. But too much of series' backstory relies on it, you can't just say it isn't a thing unless you've got a way around everything it affected. You mention Alloran directly in the 1st chapter, so maybe you've got a different story lined up for Visser 3, but without the Time Matrix Elfangor is completely different. Tobias only exists because of the Time Matrix, how was he born without it? How can Elfangor say he lived as a human once without it? 
->>> I get it's an ongoing story so, you might very well have these changes mapped out in your head. I don't want you to spoil anything I guess, but have you considered these things?
 >>> 
+>>> Also, you can't really just remove the Time Matrix. It's an incredibly OP and poorly explained artifact, I admit. But too much of series' backstory relies on it, you can't just say it isn't a thing unless you've got a way around everything it affected. You mention Alloran directly in the 1st chapter, so maybe you've got a different story lined up for Visser 3, but without the Time Matrix Elfangor is completely different. Tobias only exists because of the Time Matrix, how was he born without it? How can Elfangor say he lived as a human once without it? 
+>>> 
+>>> I get it's an ongoing story so, you might very well have these changes mapped out in your head. I don't want you to spoil anything I guess, but have you considered these things?
 
->>>> **u/TK17Studios** [+6]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+6]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >>>> 
 >>>> Respectful request: please actually read the posted story before making comments like "I feel like this has already failed" and "you can't really just" and "this is a major departure from canon."  I have indeed considered all of the points you're raising, and more, and most of your questions/concerns have already been explicitly addressed even in just these first three chapters.
->>>> Yes, morphing has changed in this way.  The whole "morphing and then demorphing heals your ORIGINAL body's injuries" wasn't important (or even present) in canon at all until fairly late, and always felt like a weird retcon.  For instance, if you're always being restored to your original genetic template, then how come your haircut stays consistent?  And what about things like the boys being circumcised, Rachel having piercings, anyone who had to have braces to straighten their teeth, etc. (none of which were addressed in canon, but all of which would matter)?  Not to mention the fact that brain structure at the microscopic level is crucial to personality, and is hugely shaped by environment and personal history, and could not possibly be restored from genetic information alone.  In this sane-itized version, morphing works by tucking your original body away in Z-space, in stasis, and allowing emulator tech to take control of the morph.  That changes the plotline with the auxiliary Animorphs, but otherwise has basically no effect on canon events (it even allows for the weird pullout to the Leeran planet).
->>>> Morphed bodies, on the other hand, are constructed from scratch, from a template, each time, so injuries there aren't a problem.
 >>>> 
+>>>> Yes, morphing has changed in this way.  The whole "morphing and then demorphing heals your ORIGINAL body's injuries" wasn't important (or even present) in canon at all until fairly late, and always felt like a weird retcon.  For instance, if you're always being restored to your original genetic template, then how come your haircut stays consistent?  And what about things like the boys being circumcised, Rachel having piercings, anyone who had to have braces to straighten their teeth, etc. (none of which were addressed in canon, but all of which would matter)?  Not to mention the fact that brain structure at the microscopic level is crucial to personality, and is hugely shaped by environment and personal history, and could not possibly be restored from genetic information alone.  In this sane-itized version, morphing works by tucking your original body away in Z-space, in stasis, and allowing emulator tech to take control of the morph.  That changes the plotline with the auxiliary Animorphs, but otherwise has basically no effect on canon events (it even allows for the weird pullout to the Leeran planet).
+>>>> 
+>>>> Morphed bodies, on the other hand, are constructed from scratch, from a template, each time, so injuries there aren't a problem.
 
->>>>> **u/True-Ninja** [+3] *
+>>>>> **u/True-Ninja** [+3]  (2 days later)
 >>>>> 
 >>>>> Actually, I've read the story since my first post, it just didn't occur to me that I had to tell you. I don't see why you're taking objection with me pointing out that something you have changed from canon, is indeed, a "major departure from canon". While you might have it so that does not Tobias become a nothlit in your story, Ax almost always fought as himself too, so in your story I guess he'll be doing much less of that, since there's no way for him to heal, huh? That's a pretty major change, sure the original story didn't give an explanation for things like fingernails and hair, but it's still the way it worked every single time Ax was in a battle, IE since the beginning. And Tobias did routinely fight as a hawk too (as dumb as that was), and morphing healed him. It's not a retcon, though KA certainly did a fair amount of stupid retcons in her time.
->>>>> But the biggest problem with this change that I see is this; if you made it purely to justify that this is why Elfangor doesn't escape, it still doesn't address it. I looked it up, the Kafit bird is a species on the Andalite homeworld that is used when teaching morphing. Ax knew of it, and Elfangor uses it in the Andalite Chronicles. So, he does have it, and in fact most Andalites do. It doesn't matter if as an Andalite Elfangor is hurt, he can still give morph a Kafit and escape. He can even give the Cube to the kids. I'll admit that I missed this pertinent change to morphing you made when I skimmed (I was quite sleep deprived, it's nothing to take personally), but this is still a problem from what I can tell. Unless I'm missing something?
->>>>> The posted chapters do nothing to explain that you've somehow removed the Time Matrix from the story, yet kept Tobias still Elfangor's son (or at least existing at all), claim he's spent time as a human before, and just happened to land in the same abandoned construction site where the Time Matrix was buried.
 >>>>> 
+>>>>> But the biggest problem with this change that I see is this; if you made it purely to justify that this is why Elfangor doesn't escape, it still doesn't address it. I looked it up, the Kafit bird is a species on the Andalite homeworld that is used when teaching morphing. Ax knew of it, and Elfangor uses it in the Andalite Chronicles. So, he does have it, and in fact most Andalites do. It doesn't matter if as an Andalite Elfangor is hurt, he can still give morph a Kafit and escape. He can even give the Cube to the kids. I'll admit that I missed this pertinent change to morphing you made when I skimmed (I was quite sleep deprived, it's nothing to take personally), but this is still a problem from what I can tell. Unless I'm missing something?
+>>>>> 
+>>>>> The posted chapters do nothing to explain that you've somehow removed the Time Matrix from the story, yet kept Tobias still Elfangor's son (or at least existing at all), claim he's spent time as a human before, and just happened to land in the same abandoned construction site where the Time Matrix was buried.
 
->>>>>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning**
+>>>>>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >>>>>> 
 >>>>>> Last points first ... 
->>>>>> Haven't actually made a decision re: Tobias is Elfangor's son.  I've left that open for now while I figure things out.  Went ahead and included hints of his affinity for Elfangor because that makes perfect sense either way.
->>>>>> Elfangor having spent time as a human is going to tie in with the ways in which Ellimist and Crayak are fiddling, and those two entities are more than enough to cover most of what the Time Matrix did anyway.  There's nothing special about the construction site if the Time Matrix isn't there; the idea is simply that Elfangor had hopes of taking out the pool once his larger weapon failed, but when his ship and injuries prevented that, he landed in the construction site either a) on promptings/prophecies from Ellimist, or b) simply because it was a low-density space and the ship couldn't stay airborne.  Outside of providing backstory, it was fairly unimportant in the overall war, and losing it makes the universe about twice as believable imo.  True that this question has not yet been addressed in any form in the draft of the story so far.
->>>>>> The change to morphing wasn't done purely to keep Elfangor from escaping.  The change to morphing was the first, seminal step in making the story rational and internally consistent without requiring a total break from known physics; it's the key that made me think a rational version could actually be written.  There's a lot of other detail behind the changes to morphing tech that I'd be happy to PM, if you want to critique, but that also is inevitably a ticket to spoilersville.  Elfangor's lack of options naturally following from that is the sort of happy coincidence that I look for once I've put that sort of constraint on myself.
->>>>>> As he demonstrated by going human for a bit, he's well aware that he can stave off death by stasis-ing himself, **edit ONE** hour at a time.  But the need to have the Yeerks think the search is over IS important, in my mind...if they'd landed to find an empty ship, there's every chance they would have brought in ten Bug fighters and started a tight scan for every living thing within the radius of a mile, which (given the level of tech) could have provided them with enough raw data to track him down anyway.  Rational agents could definitely disagree over whether it was worth sacrificing the eight or twelve hours he might have snagged by repeatedly morphing and demorphing before his original body died, but it seemed within his character to a) buy the Animorphs some time and some secrecy, and b) take at least one last shot at Visser Three.
->>>>>> As for Tobias and Ax fighting in their "natural" states—yes, this ups the ante for them, and requires a different approach, just as the absence of mass-nothlit-as-final-solution requires the war to end differently.  It's important to note that the absence of sapient nothlits changes Tobias's role in combat anyway, and the fact that the Animorphs have access to an Elfangor morph removes the need for Ax to "stay in character" to provide them with cover.  Given the choice between an Ax body and an Elfangor body, I think the Animorphs will prefer to have Ax morph something more powerful anyway (especially since odds are that he will be younger than he was in canon).  If you look closely (especially at Marco), you'll see some threads worth tugging on that can allow for breaking/abusing the morphing power to solve the healing injuries problem, but I wanted the characters to have to find those answers rather than just having them dumped in their laps.
->>>>>> Basically, the rules behind making changes to canon have been like this:
->>>>>>  —Change morphing such that it is believable, internally consistent, and at least plausible given known science (assuming a thousand years of progress in microbiology, nanotech, and physics).
->>>>>>  —Change all characters such that they are personality-consistent but otherwise as reasonable and intelligent as possible (e.g. reduce dumb mistakes that no real person would make that were written just for the sake of driving the plot).
->>>>>>  —Make cascading changes to other events and technology that are logically required by the two changes above.
->>>>>>  —Where possible within the bounds of reason, avoid any change that would tend to power up the Animorphs.  In certain places, this can't be avoided (Elfangor would not have denied them an Andalite morph, there's no way the Andalites would lack infestation prevention this late in the game), but given a neat idea that would help them and a neat idea that would handicap them, I'm preferring the latter.  I don't actually know if they can win this war; I'm fighting on their side and trying as hard as I can to solve the problems, but simply MAKING THE PROBLEMS EASIER isn't particularly interesting.
->>>>>>  —In all four of the rules above, stick to the spirit of canon rather than the letter.  Dropping the Time Matrix makes readers cry "foul" if what they care about is the HISTORY of the Animorphs universe, but if what they care about is the characters, the feel, and the spirit, I think most honestly won't mind.  It all boils down to what things you consider "sacred," and for me, that's pretty much ONLY the following:
->>>>>> -->Yeerks' thirst for hosts
->>>>>> -->Andalites' arrogance and questionable morality
->>>>>> -->The core personalities of Jake, Cassie, Marco, Tobias, and Rachel
->>>>>> -->Morphing tech as an unexpectedly powerful advantage
-
->>>>>> ...anything else is fair game.
 >>>>>> 
+>>>>>> Haven't actually made a decision re: Tobias is Elfangor's son.  I've left that open for now while I figure things out.  Went ahead and included hints of his affinity for Elfangor because that makes perfect sense either way.
+>>>>>> 
+>>>>>> Elfangor having spent time as a human is going to tie in with the ways in which Ellimist and Crayak are fiddling, and those two entities are more than enough to cover most of what the Time Matrix did anyway.  There's nothing special about the construction site if the Time Matrix isn't there; the idea is simply that Elfangor had hopes of taking out the pool once his larger weapon failed, but when his ship and injuries prevented that, he landed in the construction site either a) on promptings/prophecies from Ellimist, or b) simply because it was a low-density space and the ship couldn't stay airborne.  Outside of providing backstory, it was fairly unimportant in the overall war, and losing it makes the universe about twice as believable imo.  True that this question has not yet been addressed in any form in the draft of the story so far.
+>>>>>> 
+>>>>>> The change to morphing wasn't done purely to keep Elfangor from escaping.  The change to morphing was the first, seminal step in making the story rational and internally consistent without requiring a total break from known physics; it's the key that made me think a rational version could actually be written.  There's a lot of other detail behind the changes to morphing tech that I'd be happy to PM, if you want to critique, but that also is inevitably a ticket to spoilersville.  Elfangor's lack of options naturally following from that is the sort of happy coincidence that I look for once I've put that sort of constraint on myself.
+>>>>>> 
+>>>>>> As he demonstrated by going human for a bit, he's well aware that he can stave off death by stasis-ing himself, **edit ONE** hour at a time.  But the need to have the Yeerks think the search is over IS important, in my mind...if they'd landed to find an empty ship, there's every chance they would have brought in ten Bug fighters and started a tight scan for every living thing within the radius of a mile, which (given the level of tech) could have provided them with enough raw data to track him down anyway.  Rational agents could definitely disagree over whether it was worth sacrificing the eight or twelve hours he might have snagged by repeatedly morphing and demorphing before his original body died, but it seemed within his character to a) buy the Animorphs some time and some secrecy, and b) take at least one last shot at Visser Three.
+>>>>>> 
+>>>>>> As for Tobias and Ax fighting in their "natural" states—yes, this ups the ante for them, and requires a different approach, just as the absence of mass-nothlit-as-final-solution requires the war to end differently.  It's important to note that the absence of sapient nothlits changes Tobias's role in combat anyway, and the fact that the Animorphs have access to an Elfangor morph removes the need for Ax to "stay in character" to provide them with cover.  Given the choice between an Ax body and an Elfangor body, I think the Animorphs will prefer to have Ax morph something more powerful anyway (especially since odds are that he will be younger than he was in canon).  If you look closely (especially at Marco), you'll see some threads worth tugging on that can allow for breaking/abusing the morphing power to solve the healing injuries problem, but I wanted the characters to have to find those answers rather than just having them dumped in their laps.
+>>>>>> 
+>>>>>> Basically, the rules behind making changes to canon have been like this:
+>>>>>> 
+>>>>>>  —Change morphing such that it is believable, internally consistent, and at least plausible given known science (assuming a thousand years of progress in microbiology, nanotech, and physics).
+>>>>>> 
+>>>>>>  —Change all characters such that they are personality-consistent but otherwise as reasonable and intelligent as possible (e.g. reduce dumb mistakes that no real person would make that were written just for the sake of driving the plot).
+>>>>>> 
+>>>>>>  —Make cascading changes to other events and technology that are logically required by the two changes above.
+>>>>>> 
+>>>>>>  —Where possible within the bounds of reason, avoid any change that would tend to power up the Animorphs.  In certain places, this can't be avoided (Elfangor would not have denied them an Andalite morph, there's no way the Andalites would lack infestation prevention this late in the game), but given a neat idea that would help them and a neat idea that would handicap them, I'm preferring the latter.  I don't actually know if they can win this war; I'm fighting on their side and trying as hard as I can to solve the problems, but simply MAKING THE PROBLEMS EASIER isn't particularly interesting.
+>>>>>> 
+>>>>>>  —In all four of the rules above, stick to the spirit of canon rather than the letter.  Dropping the Time Matrix makes readers cry "foul" if what they care about is the HISTORY of the Animorphs universe, but if what they care about is the characters, the feel, and the spirit, I think most honestly won't mind.  It all boils down to what things you consider "sacred," and for me, that's pretty much ONLY the following:
+>>>>>> 
+>>>>>> -->Yeerks' thirst for hosts
+>>>>>> 
+>>>>>> -->Andalites' arrogance and questionable morality
+>>>>>> 
+>>>>>> -->The core personalities of Jake, Cassie, Marco, Tobias, and Rachel
+>>>>>> 
+>>>>>> -->Morphing tech as an unexpectedly powerful advantage
+>>>>>> 
+>>>>>> ...anything else is fair game.
 
->>>>>>> **u/blashimov** [+1] *
+>>>>>>> **u/blashimov** [+1]  (3 months later)
 >>>>>>> 
 >>>>>>> That answers my question actually: I was super curious if you had a plot planned out where they "win" or something like that as in canon and in HPMOR even though the enemy is more competent. In particularly, Rachel's foolhardiness, and generally the group's teenage idiocy, while believable, seems to make that unlikely.
->>>>>>> 
 
-> **u/chaosmosis** [+7]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+5]  *and with strange aeons, even death may die* (a day later)
 > 
 > Making Cassie rational will be very difficult, perhaps impossible.
-> 
 
->> **u/MugaSofer** [+3] *
+>> **u/MugaSofer** [+2]  (a day later)
 >> 
 >> Really? The last meetup I was at, a quarter of the people there were vegetarian or vegan.
->> Scott Alexander, one of the most prominent online rationalists, spends a bunch of time writing about "charity" and "niceness", and has said that he thinks animals pretty clearly have moral standing.
->> Also, Effective Altruism is pretty darn popular in rationalist circles.
 >> 
+>> Scott Alexander, one of the most prominent online rationalists, spends a bunch of time writing about "charity" and "niceness", and has said that he thinks animals pretty clearly have moral standing.
+>> 
+>> Also, Effective Altruism is pretty darn popular in rationalist circles.
 
->>> **u/chaosmosis** [+10]  *and with strange aeons, even death may die**
+>>> **u/chaosmosis** [+9]  *and with strange aeons, even death may die* (a day later)
 >>> 
 >>> My comment had nothing to do with animal rights.
->>> In canon, Cassie acted based on her feelings and assumptions about what was true. She got very angry at anyone who wanted to run the war like a war. She didn't discuss things, she just did whatever she wanted to / felt was right. She got them in trouble all the time because she wanted to act "morally". She got infected by a Yeerk and then let it go, hoping it would keep its word. She eventually gave Yeerks the morphing power, which could have gone ridiculously wrong, mainly because she felt bad about having to kill some of them. These decisions worked out in the end but not due to a secret master plan, just due to luck and author fiat.
->>> In chapter 3 of this FF, Cassie says she's not going to do anything just because the others tell her to. This independence and sense of morality can be a strength. But in a war for the survival of the species, it can also be a liability. There are ways that the author might steelman Cassie, and make her moral demands advantageous for the group. But IMO most of them would involve contrived situations and would sacrifice realism. That said, I'd love to see rational!Cassie pulled off successfully without any author cheating.
->>> Maybe Cassie could manage the psychological health of the group, and think about ideas long-term (perhaps "after the war" goals could be established, in the very long term). Cassie could be more aligned with the Ellimist's way of thinking than a traditional rationalist's, perhaps. In this story, it looks like Jake handles short term tactics and group coordination, as the brain of the team. Maybe Cassie keeps them from going insane, as the team's heart and soul.
->>> But for this to happen, she'll need to develop more realistic ethics. I'd suggest the author gradually play up the "animal assistant" angle - farmers can be ruthless when it's for the greater good of their family farm, veterinarians put down pets in pain when there's nothing else they can do to help. I'd also suggest Cassie get some vaguely Red Tribe steelmanned values, to complement this characterization. This conflicts with her characterization thus far though, because she was the first person to think about the rest of the galaxy when Elfangor mentioned it to them. Perhaps a segment showing how different alien values REALLY are from human ones would allow her to change direction on this, though.
->>> Otherwise, perhaps Cassie could be the group's liason to other alien groups, such as the Chee. The Chee seem rather likely to appreciate her pacifistic ethics, even if no one else does. Although the Chee's programming has its own severe problems, in a more rational setting. For one, it's slightly surprising they didn't AI Foom, or that their restrictions didn't somehow backfire.
 >>> 
+>>> In canon, Cassie acted based on her feelings and assumptions about what was true. She got very angry at anyone who wanted to run the war like a war. She didn't discuss things, she just did whatever she wanted to / felt was right. She got them in trouble all the time because she wanted to act "morally". She got infected by a Yeerk and then let it go, hoping it would keep its word. She eventually gave Yeerks the morphing power, which could have gone ridiculously wrong, mainly because she felt bad about having to kill some of them. These decisions worked out in the end but not due to a secret master plan, just due to luck and author fiat.
+>>> 
+>>> In chapter 3 of this FF, Cassie says she's not going to do anything just because the others tell her to. This independence and sense of morality can be a strength. But in a war for the survival of the species, it can also be a liability. There are ways that the author might steelman Cassie, and make her moral demands advantageous for the group. But IMO most of them would involve contrived situations and would sacrifice realism. That said, I'd love to see rational!Cassie pulled off successfully without any author cheating.
+>>> 
+>>> Maybe Cassie could manage the psychological health of the group, and think about ideas long-term (perhaps "after the war" goals could be established, in the very long term). Cassie could be more aligned with the Ellimist's way of thinking than a traditional rationalist's, perhaps. In this story, it looks like Jake handles short term tactics and group coordination, as the brain of the team. Maybe Cassie keeps them from going insane, as the team's heart and soul.
+>>> 
+>>> But for this to happen, she'll need to develop more realistic ethics. I'd suggest the author gradually play up the "animal assistant" angle - farmers can be ruthless when it's for the greater good of their family farm, veterinarians put down pets in pain when there's nothing else they can do to help. I'd also suggest Cassie get some vaguely Red Tribe steelmanned values, to complement this characterization. This conflicts with her characterization thus far though, because she was the first person to think about the rest of the galaxy when Elfangor mentioned it to them. Perhaps a segment showing how different alien values REALLY are from human ones would allow her to change direction on this, though.
+>>> 
+>>> Otherwise, perhaps Cassie could be the group's liason to other alien groups, such as the Chee. The Chee seem rather likely to appreciate her pacifistic ethics, even if no one else does. Although the Chee's programming has its own severe problems, in a more rational setting. For one, it's slightly surprising they didn't AI Foom, or that their restrictions didn't somehow backfire.
 
->>>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (a day later)
 >>>> 
 >>>> I really appreciated reading this comment.  Lots of food for thought.
->>>> 
 
->>>> **u/MugaSofer** [+3] *
+>>>> **u/MugaSofer** [+3]  (2 days later)
 >>>> 
 >>>> You can just add rationality on top of her ... niceness, I suppose. That was my point.
->>>> The "headstrong/independent" flaw is a good one, though; it would go well with someone who grew up "defying" society's position on animal rights, war and the like.
->>>> I'd really, really love to see Cassie as rational!hippie.
 >>>> 
+>>>> The "headstrong/independent" flaw is a good one, though; it would go well with someone who grew up "defying" society's position on animal rights, war and the like.
+>>>> 
+>>>> I'd really, really love to see Cassie as rational!hippie.
 
-> **u/Timewinders** [+4] *
+> **u/Timewinders** [+4]  (a day later)
 > 
 > I've only read the first chapter so far and it's been a long time since I read the books, but I don't really know why Elfangor's being portrayed as a cold utilitarian. In canon he would never have destroyed Earth just to slow down the Yeerks, especially considering that he used to live there, and I'm not sure why you made that change. Even his speech style is different, more stiff, formal, and harsh than in canon. He dies at the very beginning of his story, so it's important that within that time the reader comes to like him so that his death has maximum emotional impact and so that the mission he gives to the kids has a personal loyalty component. It's also rather important to Ax's character. Aside from that, I really liked this chapter and am looking forward to the rest. Everyone else's voices seem spot on so far and I've always wanted to read a rational Animorphs story.
-> 
 
->> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (a day later)
 >> 
 >> Not the author, but speaking as somebody who really likes this planet, I'd still be tempted to blow it to smithereens if I were dealing with the sort of situation that Elfanger has been presented with. 
->> And I'm saying that as somebody who's pretty into pacifism, too.
 >> 
+>> And I'm saying that as somebody who's pretty into pacifism, too.
 
->>> **u/Timewinders** [+3] *
+>>> **u/Timewinders** [+3]  (a day later)
 >>> 
 >>> Even if he was going to do something like that, he could have just used a quantum virus like they did with the Hork-Bajir. It would have at least left some humans alive while killing enough so that the Yeerks wouldn't have enough humans to work with, so causing an extinction wouldn't have been necessary. In any case, I'm not so much bothered by the morality of the situation as by the radical, perhaps unnecessary, changes to Elfangor's personality. He wasn't a utilitarian in the books IIRC. He was appalled by how one of the other Andalites nearly wiped out the Hork-Bajir.
->>> 
 
->>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (a day later)
 >>>> 
 >>>> I'm not sure, but I assume that it'll make sense once we have more information about him. He hasn't been living in a bubble, after all, so we can't be certain what he's experienced in his time as a result of everyone holding the Rational Ball.
->>>> 
 
-> **u/royishere** [+4] *
+> **u/royishere** [+4]  (a day later)
 > 
 > Loving this so far. I thought about writing rational Animorphs for a bit, realized the task of optimizing everything was a herculean task and utterly beyond me, and gave up. I'm looking forward to hopefully seeing the idea done justice, and, from someone who spent hours trying to work out exactly how everything would play out... good luck.
-> 
 
-> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!* (4 days later)
 > 
 > Ok this is pretty great so far. When it was Jake's viewpoint I wanted more Jake and hated the switch to Marco. 
-> But then Marco goes and ups the rationality power so I wanted more Marco and then Rachel's turn comes up and I hate it for lack of Marco's brain, but then Rachel goes "Nuh uh I am muchinkin this to the max", and then I go "Yay Rachel" , but then Rachel tells the enemy of their existence, so I'm sad now. 
-> I don't know what to think anymore except, gib more.
 > 
+> But then Marco goes and ups the rationality power so I wanted more Marco and then Rachel's turn comes up and I hate it for lack of Marco's brain, but then Rachel goes "Nuh uh I am muchinkin this to the max", and then I go "Yay Rachel" , but then Rachel tells the enemy of their existence, so I'm sad now. 
+> 
+> I don't know what to think anymore except, gib more.
 
-> **u/DaystarEld** [+2]  *Pokémon Professor**
+> **u/DaystarEld** [+2]  *Pokémon Professor* (a day later)
 > 
 > Oooo. Now this looks promising.
-> 
 
-> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+2]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (2 days later)
 > 
 > Looks decent so far.
-> 
 
 ---
 

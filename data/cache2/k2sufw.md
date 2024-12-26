@@ -2,7 +2,7 @@
 
 * Author: u/everything-narrative  *Coral, Abide with Rubicon!**
 * URL: https://www.reddit.com/r/rational/comments/k2sufw/hfffwip_world_war_etheria_a_shera_netflix_2018/
-* Score: 5
+* Score: 7
 
 * Created: 2020-11-28T18:30:48
 

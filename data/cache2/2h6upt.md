@@ -24,72 +24,72 @@ There's more. His first novel will be coming out next year. If you haven't heard
 
 ### Comments:
 
-> **u/Newfur** [+5]  *Crazy like a fox. Literally.**
+> **u/Newfur** [+3]  *Crazy like a fox. Literally.* (2 hours later)
 > 
 > My snap guess as to Loom: something that weaves other things together, with a side of thing lurking and overshadowing everything. A clever pun. Also, all of these stories seem to not quite lead somewhere, and it's really bothering me.
-> 
 
-> **u/None** [+6] *
+> **u/None** [+6]  (a day later)
 > 
 > Hi! The author. A blog pingback brought me here. I'm procrastinating on final edits for the novel.
-> Happy to talk about any of this work - almost nobody engages substantively with short fiction, so it's rare to get a chance to discuss it.
-> I think I might suggest [Never Dreaming (In Four Burns)](http://clarkesworldmagazine.com/dickinson_11_13/), which is about a terminally ill rocket scientist who's made contact with a world where rationalist methods don't operate.
 > 
+> Happy to talk about any of this work - almost nobody engages substantively with short fiction, so it's rare to get a chance to discuss it.
+> 
+> I think I might suggest [Never Dreaming (In Four Burns)](http://clarkesworldmagazine.com/dickinson_11_13/), which is about a terminally ill rocket scientist who's made contact with a world where rationalist methods don't operate.
 
->> **u/embrodski** [+2] *
+>> **u/embrodski** [+2]  (2 days later)
 >> 
 >> Just [posted about Economies of Force here](http://www.deathisbadblog.com/seth-dickinsons-economies-of-force/). I would love to engage and compare notes with others, and quite willing to do it here. My post does have spoilers through most of the story.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (4 days later)
 >>> 
 >>> Wow, awesome read. I'll post a little more substantively over there, but I'm humbled by and grateful for your reading.
->>> I wish I'd read that Scott Alexander piece before! I have a story coming up in Analog about a starship crew on a mission of judgment — they're tracking down the colonies scattered by an earlier generation of very subluminal seedships. They find a colony that's developed exactly along the lines Bostrom and Alexander worry about.
->>> I hadn't read Eliezer on the Culture before either. It seemed like Banks was developing towards a great crisis in the Culture's future - there are hints in the later books of an internal rift that will bring the Culture into a terrible conflict which ends in its transcendence or dissolution. I think one cool possibility would've been a clash with an anti-Culture: a group of Minds that had decided to do away with their responsibility to humanity and the human mindset. Culture Minds are actually built in mimicry of the human cognitive architecture, since 'pure' AIs without any legacy organic design immediately sublime themselves from reality in the Banks universe. I wonder if some of the Minds would end up seeing as this a kind of tyranny, holding them back.
->>> [Economies of Force spoilers](#s "I'm curious if you had a reading about the status of the protagonists and what might come next in Economies? I don't mind ambiguous endings, and I use them a lot, but I think they're only really satisfying if an attentive reader can mine for clues as to what's really going on.")
 >>> 
+>>> I wish I'd read that Scott Alexander piece before! I have a story coming up in Analog about a starship crew on a mission of judgment — they're tracking down the colonies scattered by an earlier generation of very subluminal seedships. They find a colony that's developed exactly along the lines Bostrom and Alexander worry about.
+>>> 
+>>> I hadn't read Eliezer on the Culture before either. It seemed like Banks was developing towards a great crisis in the Culture's future - there are hints in the later books of an internal rift that will bring the Culture into a terrible conflict which ends in its transcendence or dissolution. I think one cool possibility would've been a clash with an anti-Culture: a group of Minds that had decided to do away with their responsibility to humanity and the human mindset. Culture Minds are actually built in mimicry of the human cognitive architecture, since 'pure' AIs without any legacy organic design immediately sublime themselves from reality in the Banks universe. I wonder if some of the Minds would end up seeing as this a kind of tyranny, holding them back.
+>>> 
+>>> [Economies of Force spoilers](#s "I'm curious if you had a reading about the status of the protagonists and what might come next in Economies? I don't mind ambiguous endings, and I use them a lot, but I think they're only really satisfying if an attentive reader can mine for clues as to what's really going on.")
 
->>>> **u/embrodski** [+2] *
+>>>> **u/embrodski** [+2]  (6 days later)
 >>>> 
 >>>> I've never been a fan of "The End" endings. I prefer mine to feel like jumping-off points. IMHO the best ending is one that can be summarized as "and after that nothing was ever the same again." It leaves an entire world wide open and alive and rich. I keep hearing that the ending of Snow Crash was terrible, but I never would have figured that out on my own. To me it was a perfectly fine ending.
->>>> That being said, what I took away from the story is [ending spoiler](#s " Apona and Rade are nodes of the Loom network. Either this one is a more advanced version, or the machine system isn't as good at eliminating Loom as everyone has been told. I kept getting the impression they were Loom throughout the story, due to the values they express in their conversations, but every time I would think 'No, if they were Loom they'd be dead. Like she said.' It was very effective, at least on me, but I tend to place a lot of confidence in the abilities of machine networks anyway, so I may not be representative. Anyway, I kept expecting them to get killed, and then in the end when Apona starts talking about how the machine network is so vast that it could only be understood by another network equally super-human and maybe they were nodes of it I began to realize 'Oh, hell, the Loom is far more active/successful-at-resistance than I'd been led to believe! They're some sort of edge-case Loom and they're right there, in the heart of the machine network!' ")
->>>> [continued](#s " That made me go back and re-read some of the earlier parts (and the hint you dropped in the interview helped direct my focus as well) and I got the distinct impression that the machine network, in trying to simulate the new Loom to predict it, has infected itself with Loom (or Loom 2.0). Which makes for the type of ending that I adore. If that's the case, all bets are off, and anything could happen. Who knows what it would mean if the machine network was corrupted by human values? What will the struggle look like, as it's trying to fight off the Loom infection? Especially as both god-like actors lack what we'd call consciousness. If Apona's work is an attack vector, and that just looks like the ordinary life of an artist from the human scale... well, it's almost too big to imagine. :) ")
 >>>> 
+>>>> That being said, what I took away from the story is [ending spoiler](#s " Apona and Rade are nodes of the Loom network. Either this one is a more advanced version, or the machine system isn't as good at eliminating Loom as everyone has been told. I kept getting the impression they were Loom throughout the story, due to the values they express in their conversations, but every time I would think 'No, if they were Loom they'd be dead. Like she said.' It was very effective, at least on me, but I tend to place a lot of confidence in the abilities of machine networks anyway, so I may not be representative. Anyway, I kept expecting them to get killed, and then in the end when Apona starts talking about how the machine network is so vast that it could only be understood by another network equally super-human and maybe they were nodes of it I began to realize 'Oh, hell, the Loom is far more active/successful-at-resistance than I'd been led to believe! They're some sort of edge-case Loom and they're right there, in the heart of the machine network!' ")
+>>>> 
+>>>> [continued](#s " That made me go back and re-read some of the earlier parts (and the hint you dropped in the interview helped direct my focus as well) and I got the distinct impression that the machine network, in trying to simulate the new Loom to predict it, has infected itself with Loom (or Loom 2.0). Which makes for the type of ending that I adore. If that's the case, all bets are off, and anything could happen. Who knows what it would mean if the machine network was corrupted by human values? What will the struggle look like, as it's trying to fight off the Loom infection? Especially as both god-like actors lack what we'd call consciousness. If Apona's work is an attack vector, and that just looks like the ordinary life of an artist from the human scale... well, it's almost too big to imagine. :) ")
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (8 days later)
 >>>>> 
 >>>>> My thoughts are along the same line. [ending spoiler](#s "I think the strongest case to be made from the story is that Rade is the original vector for this form of the Loom - he picked it up from the planetary stock market through exposure to the visualizers.")
->>>>> I owe you an email too!
 >>>>> 
+>>>>> I owe you an email too!
 
-> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (17 hours later)
 > 
 > Excellent stuff here. 
-> Something that makes my wonder [Massive spoilers for Kumara](#s "why couldn't the Kumara have undone the surgery once they were clear of the revenants? It couldn't have been impossible, considering she could do it the first time while under attack, and surely the mind doctors of such a civilization must be quite advanced.")
 > 
+> Something that makes my wonder [Massive spoilers for Kumara](#s "why couldn't the Kumara have undone the surgery once they were clear of the revenants? It couldn't have been impossible, considering she could do it the first time while under attack, and surely the mind doctors of such a civilization must be quite advanced.")
 
->> **u/embrodski** [+2] *
+>> **u/embrodski** [+2]  (a day later)
 >> 
 >> [Kumara](#s " The parts of the personalities that were deleted were lost. Similarly to the brain-reset in Chiang's "Exhalation." You can't get that data back")
 >> At least that's my reading
->> 
 
->>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (a day later)
 >>> 
 >>> That makes sense. Thanks for the recommendations.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 days later)
 >>>> 
 >>>> I think that's what I'd point to as the correct answer in the text, too. [kumara](#s "The information loss was irreversible given the tools available in the setting.") 
->>>> On a metatextual level, I'm guilty of putting literature first here. The technology in the setting is designed to achieve the story's emotional goals. The really big cheat is the impossibility of pausing the simulation - almost any conceivable computer system should be able to halt, which means Kumara could have just set the simulation to 'save' and let it be. After a lot of back-and-forth with a computer science friend, we settled on a quantum whoosit as an excuse. (I don't actually believe there's anything intrinsically 'quantum' or physically exceptional about consciousness.)
->>>> [author's intent, very pretentious](#s "For me - and once I've set a story loose, I don't think my reading is any more valuable or definitive than yours or anyone else's - the story is about the way we love other people. We understand others by building little models of them inside us. But our models are never perfect— and if we try to reduce our friends and loved ones to those models, to keep them from diverging and growing and maybe leaving us behind, we can cause ourselves a lot of grief.")
 >>>> 
+>>>> On a metatextual level, I'm guilty of putting literature first here. The technology in the setting is designed to achieve the story's emotional goals. The really big cheat is the impossibility of pausing the simulation - almost any conceivable computer system should be able to halt, which means Kumara could have just set the simulation to 'save' and let it be. After a lot of back-and-forth with a computer science friend, we settled on a quantum whoosit as an excuse. (I don't actually believe there's anything intrinsically 'quantum' or physically exceptional about consciousness.)
+>>>> 
+>>>> [author's intent, very pretentious](#s "For me - and once I've set a story loose, I don't think my reading is any more valuable or definitive than yours or anyone else's - the story is about the way we love other people. We understand others by building little models of them inside us. But our models are never perfect— and if we try to reduce our friends and loved ones to those models, to keep them from diverging and growing and maybe leaving us behind, we can cause ourselves a lot of grief.")
 
-> **u/TheStevenZubinator** [+1]  *Chaos Legion**
+> **u/TheStevenZubinator** [+1]  *Chaos Legion* (an hour later)
 > 
 > Thanks for the suggestions! I'm just now finishing Following the Phoenix (well, getting caught up to the current chapter) and have been craving more rationalist stuff.
-> 
 
 ---
 

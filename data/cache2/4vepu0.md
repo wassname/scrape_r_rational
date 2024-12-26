@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (4 hours later)
 > 
 > The ironworkers and other guilds saw the writing on the wall...and attempted to turn back the clock.
-> 
 
 ---
 

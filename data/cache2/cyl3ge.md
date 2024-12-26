@@ -2,7 +2,7 @@
 
 * Author: u/TrajectoryAgreement *
 * URL: https://practicalguidetoevil.wordpress.com/2019/09/02/winter-i/
-* Score: 64
+* Score: 60
 
 * Created: 2019-09-02T05:57:59
 
@@ -12,58 +12,57 @@
 
 ### Comments:
 
-> **u/NZPIEFACE** [+20] *
+> **u/NZPIEFACE** [+21]  (3 hours later)
 > 
 > I think I understand why I like Hanno, and why he's the leader.
-> He is *the* Chosen of Judgement, yet he holds no judgement in others.
 > 
+> He is *the* Chosen of Judgement, yet he holds no judgement in others.
 
->> **u/Ardvarkeating101** [+4]  *Father of Learning**
+>> **u/Ardvarkeating101** [+5]  *Father of Learning* (11 hours later)
 >> 
 >> Well duh, he always says he doesn't judge!
->> 
 
->>> **u/DaystarEld** [+8]  *Pokémon Professor**
+>>> **u/DaystarEld** [+9]  *Pokémon Professor* (14 hours later)
 >>> 
 >>> I mean, he doesn't really NEED to judge, does he? He's got "people" to do that for him...
->>> 
 
->> **u/lordcirth** [+3] *
+>> **u/lordcirth** [+3]  (22 hours later)
 >> 
 >> I think this is the first time (other than the flashback to before he was Chosen) that we've seen Hanno actually making decisions for himself. And he seems quite good at it.
->> 
 
->>> **u/MisterCommonMarket** [+7] *
+>>> **u/MisterCommonMarket** [+6]  (a day later)
 >>> 
 >>> Hanno always makes decisions. He does not pull the coin out that often and HE seems to decide when to pull it out. So no, he does not judge, but he chooses who is judged in the eyes of the heavens. Choosing what cases you bring in front of the judge is a very real form of power.
->>> 
 
->>>> **u/lordcirth** [+2] *
+>>>> **u/lordcirth** [+2]  (3 days later)
 >>>> 
 >>>> You may be right. I originally had a dislike of Hanno, as he seemed to have given up his free will, mindlessly flipping his coin and murdering whoever the Heavens said. But he seems to be more nuanced than that, now.
->>>> 
 
-> **u/Solaire145** [+6] *
+> **u/Solaire145** [+5]  (2 days later)
 > 
 > Anyone else waiting for the moment:
-> White Knight meets Cat: \*Flips coin.
-> White Knight: \*Stares at coin
-> White Knight: \*Stares at Cat
-> White Knight: \*Stares at coin
-> White Knight: \*Flips again
-> White Knight: \*Stares
-> Cat: "Yeah, I have that effect on people."
 > 
+> White Knight meets Cat: \*Flips coin.
+> 
+> White Knight: \*Stares at coin
+> 
+> White Knight: \*Stares at Cat
+> 
+> White Knight: \*Stares at coin
+> 
+> White Knight: \*Flips again
+> 
+> White Knight: \*Stares
+> 
+> Cat: "Yeah, I have that effect on people."
 
-> **u/ashinator92** [+3] *
+> **u/ashinator92** [+3]  (a day later)
 > 
 > /u/TrajectoryAgreement didnt we agree to do one post for the double chapters?
-> 
 
->> **u/TrajectoryAgreement** [+1] *
+>> **u/TrajectoryAgreement** [+1]  (a day later)
 >> 
 >> Really? I wasn’t aware of that. It won’t happen next time.
->> 
 
 ---
 

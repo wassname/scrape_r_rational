@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/UltraRedSpectrum** [+1] *
+> **u/UltraRedSpectrum** [+1]  (54 seconds later)
 > 
 > I'm back! Rationalfic elements begin in the third chapter, which I just posted today.
-> 
 
 ---
 

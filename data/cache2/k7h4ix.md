@@ -2,7 +2,7 @@
 
 * Author: u/Slinkinator *
 * URL: https://www.reddit.com/r/rational/comments/k7h4ix/only_you_can_save_mankind_rt_stargate/
-* Score: 15
+* Score: 14
 
 * Created: 2020-12-05T22:23:48
 
@@ -14,81 +14,72 @@ https://m.fanfiction.net/s/5227308/1/
 
 ### Comments:
 
-> **u/thomas_m_k** [+23] *
+> **u/thomas_m_k** [+20]  (an hour later)
 > 
 > > The leaders of Earth looked at each other and knew that now, if any, was the time to co-operate while there was still time,
-> It's sad that this breaks my suspension of disbelief nowadays.
 > 
+> It's sad that this breaks my suspension of disbelief nowadays.
 
->> **u/Rhamni** [+17]  *Aspiring author**
+>> **u/Rhamni** [+20]  *Aspiring author* (2 hours later)
 >> 
 >> > The leaders of Earth looked at each other and knew, deep in their soul, that a number of conspirators among the other leaders were somehow faking this to screw over them and their donors,
->> I fixed it.
 >> 
+>> I fixed it.
 
->>> **u/Sonderjye** [+7] *
+>>> **u/Sonderjye** [+9]  (a day later)
 >>> 
 >>> The leaders of Earth looked at each other and knew that they would be perfectly fine coorpoerating as long as the brunt of the world were placed on their enemies. They formed the anti-wraith agreement. 5 years after the US withdrew from the agreement.
->>> 
 
-> **u/Rhamni** [+4]  *Aspiring author**
+> **u/Rhamni** [+5]  *Aspiring author* (2 hours later)
 > 
 > Only You Can Save Mankind was the first Terry Pratchett book I ever read. My god, I haven't seen it mentioned in 20 years. The nostalgia, man. I haven't read Ender's Game, but I might have to give it a go just so I can check this out.
-> 
 
->> **u/Slinkinator** [+4] *
+>> **u/Slinkinator** [+4]  (3 hours later)
 >> 
 >> Enders game is totally cool but also something to bring your critical gaze to, but I would strongly recommend this authors other Terry Pratchett fanfics. She's got a couple of straight good omen and discworld fics that really capture Terry Pratchetts voice, and a really good harry potter DEATH crossover.
->> The other stuff doesn't really have a rational bent, but I am a big fan.
 >> 
+>> The other stuff doesn't really have a rational bent, but I am a big fan.
 
->> **u/Slinkinator** [+3] *
+>> **u/Slinkinator** [+3]  (3 hours later)
 >> 
 >> And yeah I grew up in London but have never met anyone else who read his early stuff. johnny maxwell/gnomes/strata/dark side of the sun, I really loved those books.
->> 
 
-> **u/TrebarTilonai** [+2] *
+> **u/TrebarTilonai** [+2]  (a day later)
 > 
 > That was a delightful little read. It didn't actually seem much like a crossover; it would be really, really easy to divest from the "source material" entirely and just publish as a YA novel.
-> 
 
->> **u/Dragonheart91** [+1] *
+>> **u/Dragonheart91** [+1]  (2 days later)
 >> 
 >> I didn't feel much crossover either. Mostly felt like "Young SGA" to me. I don't think it could divest from the source material though. Most of the plot was just episodes of Atlantis strung together.
->> 
 
->>> **u/TrebarTilonai** [+1] *
+>>> **u/TrebarTilonai** [+1]  (3 days later)
 >>> 
 >>> I guess I shouldn't say it would be easy to divest when I haven't watched the supposed source material. It would have been more accurate to say that it didn't seem like a fanfiction in the sense that absolutely nothing required prior knowledge of source material to make sense. Except maybe the replicator/robots thing, which kind of came out of left field.
->>> 
 
-> **u/immortal_lurker** [+2] *
+> **u/immortal_lurker** [+2]  (2 days later)
 > 
 > I was initially worried. The viewpoint character seemed awful. Then, it revealed that it was *Rodney* and everything fell into place. I was slightly disappointed that he didn't get too much screentime with Sam, as one of Rodney's funniest traits is that Sam is better than him at everything. But still, this was good stuff.
-> In defense of Woosley, he is a bureaucrat, and a damn good one. The i's will be dotted, the t's will be crossed, rules will be followed. Whatever you put him in charge of will be made predictable. Some idiot decided to have him investigate the Stargate program, which is just the entirely wrong organization for it.  Everyone from the general to the janitor is flying by the seat of their pants. The countdown on the onsite nuke starts every other month, because an invisible and intangible critter made it through the gate and is mind-controlling all the doors to eat people. Then gets called of because someone from engineering stapled a battery from a lost civilization that no one understands to a can open from a *different* lost civilization that no one understands, and that can match dimensional frequencies so that the P-90s can actually shoot it.
 > 
+> In defense of Woosley, he is a bureaucrat, and a damn good one. The i's will be dotted, the t's will be crossed, rules will be followed. Whatever you put him in charge of will be made predictable. Some idiot decided to have him investigate the Stargate program, which is just the entirely wrong organization for it.  Everyone from the general to the janitor is flying by the seat of their pants. The countdown on the onsite nuke starts every other month, because an invisible and intangible critter made it through the gate and is mind-controlling all the doors to eat people. Then gets called of because someone from engineering stapled a battery from a lost civilization that no one understands to a can open from a *different* lost civilization that no one understands, and that can match dimensional frequencies so that the P-90s can actually shoot it.
 
-> **u/VanPeer** [+2]  *The shard made me do it**
+> **u/VanPeer** [+2]  *The shard made me do it* (2 days later)
 > 
 > It's very well written for the most part. Read only the first 2 chapters so far.
 > Some of the things Sheppard says & thinks is not something a 7 year old would do, which breaks immersion.
-> 
 
-> **u/kaukamieli** [+1] *
+> **u/kaukamieli** [+1]  (2 days later)
 > 
 > What part of this is Pratchett? I was kind of expecting something discworld, but... I'm mostly done.
-> 
 
->> **u/Slinkinator** [+2] *
+>> **u/Slinkinator** [+2]  (2 days later)
 >> 
 >> Mostly just the title and maybe a bit of how the climax plays out, it's a shout-out to this story, it could be coincidental except the same author writes Terry Pratchett fan fics
->> https://en.m.wikipedia.org/wiki/Only_You_Can_Save_Mankind
 >> 
+>> https://en.m.wikipedia.org/wiki/Only_You_Can_Save_Mankind
 
->>> **u/kaukamieli** [+1] *
+>>> **u/kaukamieli** [+1]  (2 days later)
 >>> 
 >>> Ok. For most of the time it felt too much like a rewrite of Ender's game with new characters and stargate as a prop. It did get better near the end, and I finished it.
->>> 
 
 ---
 

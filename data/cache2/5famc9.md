@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/7354575/
-* Score: 11
+* Score: 13
 
 * Created: 2016-11-28T08:28:13
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/oliwhail** [+1]  *Omake-Maximizing AGI**
+> **u/oliwhail** [+1]  *Omake-Maximizing AGI* (8 hours later)
 > 
 > Team Uplift faces our most daunting for yet: [](#s "a teenage girl with a credit card.")
-> Why you gotta post this in the middle of the night for the American timezones? Poor strats mate :P
 > 
+> Why you gotta post this in the middle of the night for the American timezones? Poor strats mate :P
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/nmygoc/d_friday_open_thread/
-* Score: 18
+* Score: 19
 
 * Created: 2021-05-28T14:00:18
 
@@ -16,134 +16,151 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/--MCMC--** [+4] *
+> **u/--MCMC--** [+4]  (23 hours later)
 > 
 > I know a lot of people here are into AI, and the vast majority of AI learning (of e.g. weights in neural nets) is done in an optimization framework, so I was wondering if anyone could advise on an (ostensibly simple) optimization question I had earlier this week? https://www.reddit.com/r/AskStatistics/comments/nlvbgz/what_optimization_algorithms_eg_as_implemeted_in/
-> 
 
->> **u/ArmokGoB** [+1] *
+>> **u/ArmokGoB** [+1]  (2 days later)
 >> 
 >> I don't have any relevant expertise but it sounds like you might be way overthinking this unless the stakes are extremely high, and I can't think of any situation where the stakes would be that high for selecting a colour palette.
->> 
 
->>> **u/--MCMC--** [+1] *
+>>> **u/--MCMC--** [+1]  (2 days later)
 >>> 
 >>> Ah I mean the stakes are pretty low (at the far tail if it's a useful tool it might be used by a few thousand people for data viz) but I don't think they have to be for a quick little toy like this? And any understanding gleaned would generalize -- outside certain neural contexts I rarely work in an optimization framework and so would like to deepen my understanding and intuitions re: what works best there and what doesn't.
->>> 
 
->>>> **u/ArmokGoB** [+1] *
+>>>> **u/ArmokGoB** [+1]  (2 days later)
 >>>> 
 >>>> So do the obvious brute force approach and keep it modular so if it does become popular you can replace it with something better later?
->>>> If I faced this problem I'd probably just be really lazy and just randomly select points, find the closests other point to each, push away from it, and iterate until it stabilizes. Then run this whole algorithm 1000 times and pick the set that ended up with the best score.
 >>>> 
+>>>> If I faced this problem I'd probably just be really lazy and just randomly select points, find the closests other point to each, push away from it, and iterate until it stabilizes. Then run this whole algorithm 1000 times and pick the set that ended up with the best score.
 
->>>>> **u/--MCMC--** [+1] *
+>>>>> **u/--MCMC--** [+1]  (3 days later)
 >>>>> 
 >>>>> I'm not sure how an exhaustive approach to optimization would be modular vs. using a more clever algorithm, but the problem with any sort of grid approximation here is the curse of dimensionality. If I want to add, say, n = 5 colors to an existing palette of s colors, and use a relatively coarse grid of 1/10ths, that gives me a (5*3)^10 search space, where each point would require computing pairwise distances between sets of size (n+s-1) and (s). I constrain hues to be strictly increasing in (0,2pi) to make the problem identifiable, which reduces the space somewhat, but it's still way too big for any sort of brute force approach!
->>>>> Otherwise, taking the minimum of a buncha local minima is a strategy to find a global minimum, but it's also inefficient (the goal here is to have the function execute in a few seconds for typical problems) and also suffers from curse of dimensionality concerns (there may be a *lot* of local minima, and so a thousand random initializations may still not hit the global minimum with even a handful of colors.
 >>>>> 
+>>>>> Otherwise, taking the minimum of a buncha local minima is a strategy to find a global minimum, but it's also inefficient (the goal here is to have the function execute in a few seconds for typical problems) and also suffers from curse of dimensionality concerns (there may be a *lot* of local minima, and so a thousand random initializations may still not hit the global minimum with even a handful of colors.
 
->>>>>> **u/ArmokGoB** [+1] *
+>>>>>> **u/ArmokGoB** [+1]  (3 days later)
 >>>>>> 
 >>>>>> Why do you need the solution to be perfect? If it's for data visualization, it just has to be a fairly modest satisficer. Basically, you're overthinking it, and your time is probably better spent doing the bare minimum that is functional and focusing on other features. It'd not going to be perfect no matter what you do in all cases anyway, due to stuff like some users being colour blind, so you cant rely on that.
->>>>>> 
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (5 days later)
 >> 
 >> Oh, there's probably *dozens* of ways for you to optimise that problem. You could locate the biggest uncoloured circle and just take the centre point of said circle - you could take a recursive approach - hey, you could even go all-out with some sort of genetic algorithm or neural network, probably.
->> But. Here's the thing. Is there a single, obvious, *correct* answer?
->> There must be some number, some *score*, that your optimisation is either maximising or minimising. Instead of just looking at various outputs and seeing how different the selected colours are, look at the *scores* for various outputs and see if *those* are wildly divergent.
->> (I mean, is I was looking for a location on the Earth's surface that's as far as possible from the Poles, *anywhere* on the Equator is an equally good result).
->> If your scores *are* wildly divergent, then you're getting stuck in local maxima. If your scores are close to each other, then you're simply finding different solutions that are close-to-equally *almost* best.
 >> 
+>> But. Here's the thing. Is there a single, obvious, *correct* answer?
+>> 
+>> There must be some number, some *score*, that your optimisation is either maximising or minimising. Instead of just looking at various outputs and seeing how different the selected colours are, look at the *scores* for various outputs and see if *those* are wildly divergent.
+>> 
+>> (I mean, is I was looking for a location on the Earth's surface that's as far as possible from the Poles, *anywhere* on the Equator is an equally good result).
+>> 
+>> If your scores *are* wildly divergent, then you're getting stuck in local maxima. If your scores are close to each other, then you're simply finding different solutions that are close-to-equally *almost* best.
 
->>> **u/--MCMC--** [+2] *
+>>> **u/--MCMC--** [+2]  (5 days later)
 >>> 
 >>> Just to clarify, I did toss a bunch of generic optimization algorithms at the problem and they had some trouble exploring the space, as seen in different optima found from random initializations.
->>> > There must be some number, some score, that your optimisation is either maximising or minimising. Instead of just looking at various outputs and seeing how different the selected colours are, look at the scores for various outputs and see if those are wildly divergent.
->>> Yep, the objective function I'm using is the harmonic mean pairwise euclidean distance between points (not calculating the values  between existing points ofc). I tried a few out and this seemed the most intuitively appealing, though ofc not the end-all-be-all.
->>> > If your scores are wildly divergent, then you're getting stuck in local maxima.
->>> Yes, this is what is happening.
 >>> 
+>>> > There must be some number, some score, that your optimisation is either maximising or minimising. Instead of just looking at various outputs and seeing how different the selected colours are, look at the scores for various outputs and see if those are wildly divergent.
+>>> 
+>>> Yep, the objective function I'm using is the harmonic mean pairwise euclidean distance between points (not calculating the values  between existing points ofc). I tried a few out and this seemed the most intuitively appealing, though ofc not the end-all-be-all.
+>>> 
+>>> > If your scores are wildly divergent, then you're getting stuck in local maxima.
+>>> 
+>>> Yes, this is what is happening.
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (5 days later)
 >>>> 
 >>>> Hmm.
->>>> *Most* optimisation algorithms work on the general basis that - if you see your Suitability Metric as a height above the graph - then they will start at a point and flow downhill. (Or uphill, sometimes, depending on the problem). Now, there's some differences in how exactly the algorithm figures out the direction of the slope... but that's the basic idea. To prevent getting caught in a... sort of a notch on a deeper slope, a lot of them will perturb the position *slightly* on finding what looks like an answer (and then flow downhill from there) - which is kind of like rolling a ball that occasionally vibrates.
->>>> But if you have one minimum over *here* and a much deeper one way over *there*, then, well, that is going to be a *very* tricky function to find a truly global minimum for (short of doing an exhaustive search over the entire space). One option, of course, is to run the same algorithm from *several* widely separated random starting points and just keep the best result, but... there's still no guarantee that that is a *global* minimum. Another option is to try to find some way to directly calculate the minimum given the list of pre-existing points - that will almost always be faster to run than optimisation, but isn't possible for some problems.
 >>>> 
+>>>> *Most* optimisation algorithms work on the general basis that - if you see your Suitability Metric as a height above the graph - then they will start at a point and flow downhill. (Or uphill, sometimes, depending on the problem). Now, there's some differences in how exactly the algorithm figures out the direction of the slope... but that's the basic idea. To prevent getting caught in a... sort of a notch on a deeper slope, a lot of them will perturb the position *slightly* on finding what looks like an answer (and then flow downhill from there) - which is kind of like rolling a ball that occasionally vibrates.
+>>>> 
+>>>> But if you have one minimum over *here* and a much deeper one way over *there*, then, well, that is going to be a *very* tricky function to find a truly global minimum for (short of doing an exhaustive search over the entire space). One option, of course, is to run the same algorithm from *several* widely separated random starting points and just keep the best result, but... there's still no guarantee that that is a *global* minimum. Another option is to try to find some way to directly calculate the minimum given the list of pre-existing points - that will almost always be faster to run than optimisation, but isn't possible for some problems.
 
-> **u/elysian_field_day** [+5] *
+> **u/elysian_field_day** [+4]  (a day later)
 > 
 > I am currently looking for useful productivity tools as I am gearing up for some major resource/time investment into politics/policymaking/campaigning.  
 > I have a new android phone and a laptop with dual boot win10/ubuntu for this purpose, and am looking for good tools that will let me save time working with a small team. Security and data protection is important, open-source software preferred.  
 > I am not looking for anything specific, rather recommendations or hacks for all sorts of purposes from multi-platform calendar synchronization to good news roundups and any useful thing I haven't thought of yet. I am tech-savvy and don't mind investing a few hours to make something work if the end result pays off over a timespan of a few months.  
-
-> thanks for any tips!
 > 
+> thanks for any tips!
 
->> **u/Amonwilde** [+1] *
+>> **u/Amonwilde** [+1]  (3 days later)
 >> 
 >> Way past the thread post date, but have you looked at Emacs and, specifically, Org Mode? Great slow burn if you want to invest a couple weeks and reap for alifetime.
->> To learn Emacs, I recommend starting with the built-in tutorial (really). That's C-h t when you open it up for the first time. (C is control in this context.)
->> A little on Org Mode: https://orgmode.org/worg/org-tutorials/org4beginners.html
 >> 
+>> To learn Emacs, I recommend starting with the built-in tutorial (really). That's C-h t when you open it up for the first time. (C is control in this context.)
+>> 
+>> A little on Org Mode: https://orgmode.org/worg/org-tutorials/org4beginners.html
 
-> **u/TheAnt88** [+5] *
+> **u/TheAnt88** [+4]  (4 hours later)
 > 
 > I was curious about alternative punishments beyond fines and prison time for crimes. As I recently read in the news about the rise of incidents with people fighting, making a big scene, and calling the cops over masks, politics, and people unsatisfied with their service. You know people hitting flight attendants, throwing food at a waiter, things like that. Fines don't really seem to deter anyone especially the wealthy unless its a percentage of income which I believe is rare in the world and jails have their own issues. Though admittedly this is more of an issue for only certain countries. A buddy of mine suggested bringing back old time corporal punishment or public humiliation. I'm against corporal punishment as it seems way to open to abuse. But I think I could support bringing people known for dangerous behavior like drunk driving, constant assaults, or harassment to be punished by being put in the stocks in a public place or a walk of shame if constant jail time and fines don't seem to work. I also know several people who would accept a public whipping for reduced jail or prison time.
-> 
 
->> **u/None** [+10] *
+>> **u/None** [+10]  (6 hours later)
 >> 
 >> How about more guidance and help for criminals instead of more punishment?
->> Especially for those cases about people who call cops over masks or politics: More punishment is likely to only further divide the society, in my opinion.
->> Maybe for people who break the law out of sheer boredom or something like that public humiliation would help. But there's already something like that, without being explicit about wanting to humiliate: community service.
->> The problem with making the punishments worse to get back at rich people is that it's also affecting the other people. How would the law differentiate between the two?
 >> 
+>> Especially for those cases about people who call cops over masks or politics: More punishment is likely to only further divide the society, in my opinion.
+>> 
+>> Maybe for people who break the law out of sheer boredom or something like that public humiliation would help. But there's already something like that, without being explicit about wanting to humiliate: community service.
+>> 
+>> The problem with making the punishments worse to get back at rich people is that it's also affecting the other people. How would the law differentiate between the two?
 
->> **u/Camaraagati** [+7]  *The Emperor's Text-to-Speech Device**
+>> **u/Camaraagati** [+8]  *The Emperor's Text-to-Speech Device* (7 hours later)
 >> 
 >> Judicial corporal punishment evolved independently among many different cultures and is/was a feature of every pre-modern and early modern culture that is considered highly successful. This is despite the fact that corporal punishment isn't very rehabilitating. There is other merit to the practice besides reforming criminals.
->> It's deeply cathartic, both for the victims of crime and for society as a whole to see evil punished. When done publicly, it's somewhat of a deterrent against potential criminals, although arguably not very much since criminals assume they won't get caught. It also provides a constructive lifestyle/pastime for people with sadistic tendencies. 
->> It's extremely cheap to implement to. The first city-states several millennia ago could do it easily, and today we could do it even better, safer as well.
->> We're talking strictly about punishment, but corporal methods could easily be combined with attacking crime at its roots (poverty/alienation/illness/etc.) as well as a penal system which also rehabilitates.
 >> 
+>> It's deeply cathartic, both for the victims of crime and for society as a whole to see evil punished. When done publicly, it's somewhat of a deterrent against potential criminals, although arguably not very much since criminals assume they won't get caught. It also provides a constructive lifestyle/pastime for people with sadistic tendencies. 
+>> 
+>> It's extremely cheap to implement to. The first city-states several millennia ago could do it easily, and today we could do it even better, safer as well.
+>> 
+>> We're talking strictly about punishment, but corporal methods could easily be combined with attacking crime at its roots (poverty/alienation/illness/etc.) as well as a penal system which also rehabilitates.
 
-> **u/Camaraagati** [+5]  *The Emperor's Text-to-Speech Device**
+> **u/Camaraagati** [+5]  *The Emperor's Text-to-Speech Device* (2 hours later)
 > 
 > It occurred to me this week that the music video for, "[Once in a lifetime](https://www.youtube.com/watch?v=5IsSpAOD6K8)" would make for a very elegant, "bottle in the cosmic ocean" like the Voyager Golden Record, a representation of humanity as a whole:
-> - It's a New Wave song, which is itself a broadly influenced genre, but also has a lot of emphasis on artfulness, humor, eccentricity, and innovation. It'd minimize a single style being overrepresented and what style it does have is descriptive of human culture.
-> - The lyrical themes are universal to humans, even if they were intended for a particular generation's concerns. The meaning of life, authenticity, the inevitability of time passing, pursuing a stereotypically prosperous life, and the unconscious mind. 
-> - Lyrics are in English, the most common second-language, third most common native tongue, the most widely spoken human language and the most common *lingua franca*. The vocabulary isn't overly complex, doesn't have many niche references, and has minimal slang.
-> - It features several dances and rituals from a wide variety of cultures ranging from Africa to East Asia as well as clips of the people in question. Byrne is wearing relatively widespread and timeless formal attire. 
-> - As far as music videos go, the visuals and special effects are minimal. Most of the focus is placed on the people. It still showcases a few of the particularly interesting ones. The sounds aren't cluttered either, and it has both samples of singing and talking. 
-> - On top of displaying the range of human motion, there are several closeups of the human face, the part of the body that plays the largest role in communication. 
-> Admittedly I don't watch a ton of music videos. Feel free to suggest equal or better examples.
 > 
+> - It's a New Wave song, which is itself a broadly influenced genre, but also has a lot of emphasis on artfulness, humor, eccentricity, and innovation. It'd minimize a single style being overrepresented and what style it does have is descriptive of human culture.
+> 
+> - The lyrical themes are universal to humans, even if they were intended for a particular generation's concerns. The meaning of life, authenticity, the inevitability of time passing, pursuing a stereotypically prosperous life, and the unconscious mind. 
+> 
+> - Lyrics are in English, the most common second-language, third most common native tongue, the most widely spoken human language and the most common *lingua franca*. The vocabulary isn't overly complex, doesn't have many niche references, and has minimal slang.
+> 
+> - It features several dances and rituals from a wide variety of cultures ranging from Africa to East Asia as well as clips of the people in question. Byrne is wearing relatively widespread and timeless formal attire. 
+> 
+> - As far as music videos go, the visuals and special effects are minimal. Most of the focus is placed on the people. It still showcases a few of the particularly interesting ones. The sounds aren't cluttered either, and it has both samples of singing and talking. 
+> 
+> - On top of displaying the range of human motion, there are several closeups of the human face, the part of the body that plays the largest role in communication. 
+> 
+> Admittedly I don't watch a ton of music videos. Feel free to suggest equal or better examples.
 
->> **u/ansible** [+5]  *The Culture**
+>> **u/ansible** [+7]  *The Culture* (3 hours later)
 >> 
 >> I personally can't think of a music video that I'd be comfortable showing to aliens without having to explain a lot of context.
->> On a almost completely tangential note, if you have Amazon Prime, the 1984 concert film of the Talking Heads is available:
->> https://smile.amazon.com/Stop-Making-Sense-David-Byrne/dp/B079Z7WPYP
->> Utterly fantastic, fantastic concert film, making me wish I could travel back it time to see it live.
 >> 
+>> On a almost completely tangential note, if you have Amazon Prime, the 1984 concert film of the Talking Heads is available:
+>> 
+>> https://smile.amazon.com/Stop-Making-Sense-David-Byrne/dp/B079Z7WPYP
+>> 
+>> Utterly fantastic, fantastic concert film, making me wish I could travel back it time to see it live.
 
->>> **u/jtolmar** [+2] *
+>>> **u/jtolmar** [+2]  (13 hours later)
 >>> 
 >>> > I personally can't think of a music video that I'd be comfortable showing to aliens without having to explain a lot of context.
->>> Is "the entire history of the world I guess" a music video?
 >>> 
+>>> Is "the entire history of the world I guess" a music video?
 
->>>> **u/ansible** [+2]  *The Culture**
+>>>> **u/ansible** [+2]  *The Culture* (19 hours later)
 >>>> 
 >>>> > Is "the entire history of the world I guess" a music video?
->>>> That's probably going too far in the other direction. :-)
->>>> But getting back to /u/Camaraagati's idea about "Once in a Lifetime"... I mean, I don't think I can explain David Byrne to other *people*, let alone aliens. If that Talking Heads video is their only exposure to humanity I don't know what they're going to take away from that. They might not understand that legs are used for walking, for example.
->>>> And then I started thinking about other *good* music videos (rather than the ones where the band is basically just standing around and pretending to play their instruments), and I couldn't think of any that would make much sense without explaining the context and metaphor used.
->>>> The closest would likely be one of those country music videos where the couple breaks up in the beginning, but gets back together at the end (I don't have a specific example). But that might give the wrong impression about relationships.
 >>>> 
+>>>> That's probably going too far in the other direction. :-)
+>>>> 
+>>>> But getting back to /u/Camaraagati's idea about "Once in a Lifetime"... I mean, I don't think I can explain David Byrne to other *people*, let alone aliens. If that Talking Heads video is their only exposure to humanity I don't know what they're going to take away from that. They might not understand that legs are used for walking, for example.
+>>>> 
+>>>> And then I started thinking about other *good* music videos (rather than the ones where the band is basically just standing around and pretending to play their instruments), and I couldn't think of any that would make much sense without explaining the context and metaphor used.
+>>>> 
+>>>> The closest would likely be one of those country music videos where the couple breaks up in the beginning, but gets back together at the end (I don't have a specific example). But that might give the wrong impression about relationships.
 
 ---
 

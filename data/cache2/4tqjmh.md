@@ -22,266 +22,295 @@ Anyone's thoughts?
 
 ### Comments:
 
-> **u/Noumero** [+8]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+7]  *Self-Appointed Court Statistician* (7 hours later)
 > 
 > > We don't know how far the effect extends, but we can presume it's the entire planet at a minimum, and probably more
-> It is possible to calculate an upper bound, actually.
-> A loop lasts no longer than one month. It has a fixed light cone.
-> To clarify, if an object is farther away from the looper at the start of the loop than the distance photon covers in the duration of one loop, then the looper and the object cannot interact with each other: they can't travel faster than light, so the loop inevitably resets before they meet. (As example, no entity looping in a nanosecond-long loop will be able to affect anything beyond a sphere of radius 0.3 meter.)
-> Unfortunately, I cannot find any particulars about the MoL loop's length. I only know that it lasts 'a month', starts 'after two in the morning'^[ch.41](https://www.fictionpress.com/s/2961893/41/Mother-of-Learning) and ends '2 hours and 40 minutes after midnight'^[ch.40](https://www.fictionpress.com/s/2961893/40/Mother-of-Learning). For lack of better numbers, I'll go with '30 days long'.
-> 30 days × 24 hours × 60 minutes × 60 seconds = 2.592×10^6 seconds. 2.592×10^6 × 3×10^8 (speed of light) = 7.776×10^14 meters = ~5.198×10^3 astronomical units. In our Solar system, that's past the Kuiper Belt halfway to the Oort Cloud. (Volume of the corresponding sphere is 1.97×10^45 m^3 or 1.4×10^18 Sol, if you care about that.)
-> Since the time loop works under extreme time acceleration, nobody in the non-looping universe will be able to notice any discrepancies afterwards, so I cannot think of any reason why the Time Loop Creator would create a template bigger than that.
-> Admittedly, that's not a very small template.
-> Of course, it all only works under the assumption that FTL signaling is impossible.
 > 
+> It is possible to calculate an upper bound, actually.
+> 
+> A loop lasts no longer than one month. It has a fixed light cone.
+> 
+> To clarify, if an object is farther away from the looper at the start of the loop than the distance photon covers in the duration of one loop, then the looper and the object cannot interact with each other: they can't travel faster than light, so the loop inevitably resets before they meet. (As example, no entity looping in a nanosecond-long loop will be able to affect anything beyond a sphere of radius 0.3 meter.)
+> 
+> Unfortunately, I cannot find any particulars about the MoL loop's length. I only know that it lasts 'a month', starts 'after two in the morning'^[ch.41](https://www.fictionpress.com/s/2961893/41/Mother-of-Learning) and ends '2 hours and 40 minutes after midnight'^[ch.40](https://www.fictionpress.com/s/2961893/40/Mother-of-Learning). For lack of better numbers, I'll go with '30 days long'.
+> 
+> 30 days × 24 hours × 60 minutes × 60 seconds = 2.592×10^6 seconds. 2.592×10^6 × 3×10^8 (speed of light) = 7.776×10^14 meters = ~5.198×10^3 astronomical units. In our Solar system, that's past the Kuiper Belt halfway to the Oort Cloud. (Volume of the corresponding sphere is 1.97×10^45 m^3 or 1.4×10^18 Sol, if you care about that.)
+> 
+> Since the time loop works under extreme time acceleration, nobody in the non-looping universe will be able to notice any discrepancies afterwards, so I cannot think of any reason why the Time Loop Creator would create a template bigger than that.
+> 
+> Admittedly, that's not a very small template.
+> 
+> Of course, it all only works under the assumption that FTL signaling is impossible.
 
->> **u/superk2001** [+1] *
+>> **u/superk2001** [+1]  (7 hours later)
 >> 
 >> They do have teleportation, even if it could be a wormhole rather than true FTL.
->> 
 
->>> **u/daydev** [+4] *
+>>> **u/daydev** [+3]  (23 hours later)
 >>> 
 >>> Light can travel around the Earth (if light bent like that) about eight times in a second. So if teleportation worked at the speed of light, the maximum delay would be about 1/15 of a second if you traced the surface, or about 1/25 if you punched straight through. Was there a confirmation that teleportation is exactly instantaneous and there's not even a minute practically unnoticeable delay?
->>> 
 
->> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (8 hours later)
 >> 
 >> You are assuming that physics of MoL are the same as those of the real world.
->> 
 
-> **u/__2BR02B__** [+6]  *Marxist-Lurianism**
+> **u/__2BR02B__** [+6]  *Marxist-Lurianism* (an hour later)
 > 
 > Even if it charges from an external source, it couldn't, as you said, "recharge from the looping world itself," since any energy the loop gained would be energy that it had already expended. It couldn't really recharge, but perhaps it could be made more efficient if it had a mechanism to reclaim energy used to simulate. But I really don't know if it would even be worth it, as most of that energy is used to keep the simulation accurate. 
 > Also, come to think of it, we don't know for sure that the loop *doesn't* recycle all the available energy at the end of every iteration.
-> 
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (9 hours later)
 >> 
 >> > it couldn't, as you said, "recharge from the looping world itself," since any energy the loop gained would be energy that it had already expended.
->> Well, there is such a thing as regenerative braking...
->> > most of that energy is used to keep the simulation accurate
->> Source?
->> I wasn't under the impression that any (or at least any significant amount of) energy is expended during the iteration. Zorian seems to have discovered the opposite: "Wait," frowned Zorian. "So the time loop spends power per iteration, not according to how much time passes?"
->> > we don't know for sure that the loop doesn't recycle
->> Good point; it might. Except my thinking was, this is an exact copy of the world and its surroundings - not an illusion, but a real and working copy. So, if the power source was anywhere in the vicinity, then it would be recreated inside the loop, and would thus be supplying power - potentially for longer than the 400 years that would otherwise be available for recharging. If the Gate is indeed making use of that already, then that would mean that charging time inside the loop is actually more important than the charging time in between, and that the length of each loop will greatly affect the capabilities of the next loop (eg this reduced loop would mean much less power available next time).
 >> 
+>> Well, there is such a thing as regenerative braking...
+>> 
+>> > most of that energy is used to keep the simulation accurate
+>> 
+>> Source?
+>> 
+>> I wasn't under the impression that any (or at least any significant amount of) energy is expended during the iteration. Zorian seems to have discovered the opposite: "Wait," frowned Zorian. "So the time loop spends power per iteration, not according to how much time passes?"
+>> 
+>> > we don't know for sure that the loop doesn't recycle
+>> 
+>> Good point; it might. Except my thinking was, this is an exact copy of the world and its surroundings - not an illusion, but a real and working copy. So, if the power source was anywhere in the vicinity, then it would be recreated inside the loop, and would thus be supplying power - potentially for longer than the 400 years that would otherwise be available for recharging. If the Gate is indeed making use of that already, then that would mean that charging time inside the loop is actually more important than the charging time in between, and that the length of each loop will greatly affect the capabilities of the next loop (eg this reduced loop would mean much less power available next time).
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (3 days later)
 >>> 
 >>> >then that would mean that charging time inside the loop is actually more important than the charging time in between
->>> Souls are a major but *usually* untapped mana source and we know of a reason why they may be losing mana if the soul well is breaking something
->>> Its quite possible this is the limiting factor and the mana well is causing problems and it would fit in with the current understanding of how the thing works
 >>> 
+>>> Souls are a major but *usually* untapped mana source and we know of a reason why they may be losing mana if the soul well is breaking something
+>>> 
+>>> Its quite possible this is the limiting factor and the mana well is causing problems and it would fit in with the current understanding of how the thing works
 
->>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> **u/thrawnca** [+1]  *Carbon-based biped* (4 days later)
 >>>> 
 >>>> Interesting idea, but the Guardian seemed confident that the problem was from starting a month early.
->>>> Plus, if the reset procedure simply zaps the material world (leaving behind all the souls, which can't be destroyed) and gathers the marked souls, then the soul well would be irrelevant.
 >>>> 
+>>>> Plus, if the reset procedure simply zaps the material world (leaving behind all the souls, which can't be destroyed) and gathers the marked souls, then the soul well would be irrelevant.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (4 days later)
 >>>>> 
 >>>>> I was thinking souls take up 70-90% of the mana needed to create the world and the soul well is energy destroying(no reason to assume newtons laws right?)
->>>>> And I don't think you can reuse souls
 >>>>> 
+>>>>> And I don't think you can reuse souls
 
->>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (4 days later)
 >>>>>> 
 >>>>>> > I don't think you can reuse souls
->>>>>> By 'gather', I was referring to the Gate drawing marked souls inside for safekeeping, so it can recreate the world and then anchor them into their bodies. We know it does that (from chapter 55).
 >>>>>> 
+>>>>>> By 'gather', I was referring to the Gate drawing marked souls inside for safekeeping, so it can recreate the world and then anchor them into their bodies. We know it does that (from chapter 55).
 
-> **u/valeskas** [+3] *
+> **u/valeskas** [+3]  (8 hours later)
 > 
 > We have no info on pocket dimensions mechanics.
 > Given that, few thoughts:
->  * When creating pocket dimension, it may be possible to specify its content cheaply, but energy/matter transfer between dimensions is costly. In other words, pocket dimension spell is divination heavy. Or defining content may require privileged divine casting. There are rumors of ancient mages, possibly empowered by gods, doing true matter conjuration, after all. No gods - no true matter conjuration.
->  * Gate may be located in its own personal pocket dimension with power source unrelated to the host and copy world. In fact it may occupy arbitrary large amount of pocket dimensions.
 > 
+>  * When creating pocket dimension, it may be possible to specify its content cheaply, but energy/matter transfer between dimensions is costly. In other words, pocket dimension spell is divination heavy. Or defining content may require privileged divine casting. There are rumors of ancient mages, possibly empowered by gods, doing true matter conjuration, after all. No gods - no true matter conjuration.
+> 
+>  * Gate may be located in its own personal pocket dimension with power source unrelated to the host and copy world. In fact it may occupy arbitrary large amount of pocket dimensions.
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (9 hours later)
 >> 
 >> > When creating pocket dimension, it may be possible to specify its content cheaply
->> That doesn't make sense to me. Creating an arbitrary amount of matter and energy, cheap? Doesn't seem likely.
->> > defining content may require privileged divine casting...may occupy arbitrary large amount of pocket dimensions.
->> Either of those possibilities would certainly strengthen the idea that the Maker must be a god. If not before creating the Gate, then certainly afterward.
 >> 
+>> That doesn't make sense to me. Creating an arbitrary amount of matter and energy, cheap? Doesn't seem likely.
+>> 
+>> > defining content may require privileged divine casting...may occupy arbitrary large amount of pocket dimensions.
+>> 
+>> Either of those possibilities would certainly strengthen the idea that the Maker must be a god. If not before creating the Gate, then certainly afterward.
 
->>> **u/valeskas** [+1] *
+>>> **u/valeskas** [+1]  (9 hours later)
 >>> 
 >>> > That doesn't make sense to me. Creating an arbitrary amount of matter and energy, cheap? Doesn't seem likely.
->>> Think typical mindscapes, only renamed pocket dimensions, no arbitrary modification after creation, and precision indistinguishable from reality. 
->>> Or, in MoL terms, using true matter conjuration is cheaper then moving matter between dimensions. You created it there? It does not help you here much.
->>> There is some evidence that moving matter between dimensions is cheap, though. So I find this theory unlikely as well.
 >>> 
+>>> Think typical mindscapes, only renamed pocket dimensions, no arbitrary modification after creation, and precision indistinguishable from reality. 
+>>> 
+>>> Or, in MoL terms, using true matter conjuration is cheaper then moving matter between dimensions. You created it there? It does not help you here much.
+>>> 
+>>> There is some evidence that moving matter between dimensions is cheap, though. So I find this theory unlikely as well.
 
->>> **u/abcd_z** [+1] *
+>>> **u/abcd_z** [+1]  (10 hours later)
 >>> 
 >>> Look at it this way: the Loop is a simulation.  If I'm running a simulation on my computer in which I expend an ungodly amount of electricity, that doesn't actually affect the electricity requirements of my computer by much.
->>> The hard part is creating the computer in the first place.  ;)
 >>> 
+>>> The hard part is creating the computer in the first place.  ;)
 
->>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> **u/thrawnca** [+1]  *Carbon-based biped* (12 hours later)
 >>>> 
 >>>> But it isn't a simulation or illusion; it is a copy. A fully-working copy. And even within your analogy, if you want to run a virtual machine that goes through the Folding@Home database, you'll need to run it on physical hardware capable of doing that.
->>>> 
 
-> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (8 hours later)
 > 
 > From the description of the loop it seems clear that it is a closed system, and as such it doesn't gather any energy. Makes sense too-whatever energy gathering thingy you make on the outside, it won't work, since no time passes on the outside.
-> As for how much power it would need per iteration, it might not actually be as much as people make it out to be. There certainly would be a huge power requirement to initiate the loop for the first time, but after that you could probably reuse a lot of the assets. E.g. tectonic plates don't move much in a month, and change even slower than that, so you would only really need to shift them backwards a couple micrometers, but won't actually need to recreate them from scratch. Mostly you would need to change the surface layer of the planet, and that's not much.
 > 
+> As for how much power it would need per iteration, it might not actually be as much as people make it out to be. There certainly would be a huge power requirement to initiate the loop for the first time, but after that you could probably reuse a lot of the assets. E.g. tectonic plates don't move much in a month, and change even slower than that, so you would only really need to shift them backwards a couple micrometers, but won't actually need to recreate them from scratch. Mostly you would need to change the surface layer of the planet, and that's not much.
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (9 hours later)
 >> 
 >> > it seems clear that it is a closed system, and as such it doesn't gather any energy
->> OK, but it has to have gathered it from somewhere, at some point, because the Guardian referred to running out of power. So we're still looking at a situation where 400 years of energy collection allows you to operate 550+ years of loop. That's pretty massive energy collection throughout those 400 years. Offhand I can't think of any external power source that would supply so much energy.
->> > you could probably reuse a lot of the assets
->> Maybe you could - but looks like it doesn't. From chapter 55, "When an iteration is over, everything in it is destroyed." And the length of the iterations doesn't affect their power requirements, apparently, which it would if resetting were a matter of undoing changes. The loop isn't winding things back, but rather wiping and starting over.
 >> 
+>> OK, but it has to have gathered it from somewhere, at some point, because the Guardian referred to running out of power. So we're still looking at a situation where 400 years of energy collection allows you to operate 550+ years of loop. That's pretty massive energy collection throughout those 400 years. Offhand I can't think of any external power source that would supply so much energy.
+>> 
+>> > you could probably reuse a lot of the assets
+>> 
+>> Maybe you could - but looks like it doesn't. From chapter 55, "When an iteration is over, everything in it is destroyed." And the length of the iterations doesn't affect their power requirements, apparently, which it would if resetting were a matter of undoing changes. The loop isn't winding things back, but rather wiping and starting over.
 
->>> **u/throwawayIWGWPC** [+2] *
+>>> **u/throwawayIWGWPC** [+2]  (a day later)
 >>> 
 >>> 0. I agree that assets like mountains and such are probably not reused wholesale—seems to me like a lot of energy would have to go into rechecking fidelity to the original template. However, much of the energy can still be recycled if "destruction" means converting all matter to energy, then recondensing everything according to the original template pattern. This annihilation and repatterning is possibly what the monthly cost of the loop is referring to.
 >>> 0. Simulations require operating power during the simulation. However, an actual copy only needs the initial energy investment. This is just another point of consistency with what the Guardian said.
->>> 
 
-> **u/throwawayIWGWPC** [+1] *
+> **u/throwawayIWGWPC** [+1]  (a day later)
 > 
 > Any universe supporting magic has weird energy things going on. The body holds only a little bit of energy that can be used intentionally. This problem is often solved by the existence of souls. Souls are kind of like a mana battery in that case, allowing significantly more energy to be stored and refocused into spells.
-> For the universe, assuming similar physics and a roughly similar energy density, it would be a cool explanation if the universe itself had something analagous to a soul, and this soul stores energy from the multiverse. This would allow the universe, or sections of the universe essentially, to "cast spells" that might have the effect of creating loop-creating effects.
-> The real question becomes, how does an individual access the control functions of spacetime to make things like time loops occur?
 > 
+> For the universe, assuming similar physics and a roughly similar energy density, it would be a cool explanation if the universe itself had something analagous to a soul, and this soul stores energy from the multiverse. This would allow the universe, or sections of the universe essentially, to "cast spells" that might have the effect of creating loop-creating effects.
+> 
+> The real question becomes, how does an individual access the control functions of spacetime to make things like time loops occur?
 
-> **u/Frommerman** [+1] *
+> **u/Frommerman** [+1]  (a day later)
 > 
 > I actually think that the Maker *couldn't* be a god. Or, if it is, it is a massively incompetent one.
-> This is due to the mechanism Zorian used to enter the loop. The fact that the entity in the Gate was massively confused that there could be multiple valid Controller markers means that the Maker must not have known anything about soul magic or Ikosians. The Maker was clearly massively incompetent or ignorant of what was possible with magic if it didn't take into account this possibility when it apparently ironed out most of the other bugs one might expect when programing something like this.
-> We don't know much about gods, but they are generally not the kinds of entities which would completely forget about an aspect of the universe they lived in when making a powerful artefact of ancient myth.
-> So here's another possibility: What if the Sovereign Gate is the *reason* the Gods have vanished? What if they have been locked away by the mortal who created the Gate, their power siphoned off and used most efficiently when the realm they are imprisoned in is close, during the Planar Alignment?
 > 
+> This is due to the mechanism Zorian used to enter the loop. The fact that the entity in the Gate was massively confused that there could be multiple valid Controller markers means that the Maker must not have known anything about soul magic or Ikosians. The Maker was clearly massively incompetent or ignorant of what was possible with magic if it didn't take into account this possibility when it apparently ironed out most of the other bugs one might expect when programing something like this.
+> 
+> We don't know much about gods, but they are generally not the kinds of entities which would completely forget about an aspect of the universe they lived in when making a powerful artefact of ancient myth.
+> 
+> So here's another possibility: What if the Sovereign Gate is the *reason* the Gods have vanished? What if they have been locked away by the mortal who created the Gate, their power siphoned off and used most efficiently when the realm they are imprisoned in is close, during the Planar Alignment?
 
->> **u/thrawnca** [+4]  *Carbon-based biped**
+>> **u/thrawnca** [+3]  *Carbon-based biped* (a day later)
 >> 
 >> > their power siphoned off
->> That's...a very interesting theory. I won't rule it out.
->> I do stand by what I said earlier, though, that someone who obtained that kind of power would effectively become a god if s/he wasn't before.
 >> 
+>> That's...a very interesting theory. I won't rule it out.
+>> 
+>> I do stand by what I said earlier, though, that someone who obtained that kind of power would effectively become a god if s/he wasn't before.
 
->>> **u/Frommerman** [+1] *
+>>> **u/Frommerman** [+1]  (a day later)
 >>> 
 >>> Sure, but he wouldn't be one of the Gods. He'd be a regular mortal with absolutely dumb amount of power, with all the frailty that implies.
->>> 
 
->> **u/valeskas** [+5] *
+>> **u/valeskas** [+4]  (a day later)
 >> 
 >> Lich is around a thousand years old, and is rumored to receive some blessings from the gods. Gate is older.
->> 
 
-> **u/InsaneBranch** [+1] *
+> **u/InsaneBranch** [+1]  (6 days later)
 > 
 > Okay, so it is, and nearly from the beginning it was, obvious that the author is heavily drawing on Time Braid. The question is of course how much.
-> I'd say that indeed yes, gods are the most likely suspects for creating this loop/simulation. I mean it's similar to the point where even Zach/Naruto both have fuzzy memories of how the loop started, and in both cases, it's more likely that Zorian/Sakura will figure it out how it's started. So the answer is most likely along the TB premise, where it's shenanigans of gods that enable such powerful magic to work. Or perhaps they're just really technologically advanced (even more so than in TB) and are capable of doing this through technology with some massive power source like a power plant near exploding supernova or some bullshit. (Nevermind the impossibilities i'm a tree (well only a branch really), I don't know half of the stuff usual humans do.)
-> Also in both cases, RR/Sasuke was removed from the loop. I think the real question we should be asking ourselves is who's Hinata. It's supposed to be someone shy but with some awesome powers.
 > 
+> I'd say that indeed yes, gods are the most likely suspects for creating this loop/simulation. I mean it's similar to the point where even Zach/Naruto both have fuzzy memories of how the loop started, and in both cases, it's more likely that Zorian/Sakura will figure it out how it's started. So the answer is most likely along the TB premise, where it's shenanigans of gods that enable such powerful magic to work. Or perhaps they're just really technologically advanced (even more so than in TB) and are capable of doing this through technology with some massive power source like a power plant near exploding supernova or some bullshit. (Nevermind the impossibilities i'm a tree (well only a branch really), I don't know half of the stuff usual humans do.)
+> 
+> Also in both cases, RR/Sasuke was removed from the loop. I think the real question we should be asking ourselves is who's Hinata. It's supposed to be someone shy but with some awesome powers.
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (6 days later)
 >> 
 >> > power plant near exploding supernova
->> Well, not this, since it's an every-400-years thing. Any ideas as to what it might actually be? It has to be pretty big.
 >> 
+>> Well, not this, since it's an every-400-years thing. Any ideas as to what it might actually be? It has to be pretty big.
 
->>> **u/InsaneBranch** [+1] *
+>>> **u/InsaneBranch** [+1]  (8 days later)
 >>> 
 >>> Not sure.
+>>> 
 >>> Does the planar alignment usually coincides with that? Does it also appear every 400 years? Because if that's so, then they could, thanks to weakened borders between the planes simply siphon the energy from the positive energy plane.
 >>> Otherwise nuclear fission is reasonable choice for gathering energy, ... With access to other planes you could easily dispose of all the nuclear waste too.
 >>> Or you know some matter/antimatter thing from Star Trek.
->>> Also, I wonder where do they store all that energy. Because if it's on the planet, then there's the issue of energy having to be reproduced in simulation. Ugh ...
->>> (I'm sorry, I know I said nothing useful.)
 >>> 
+>>> Also, I wonder where do they store all that energy. Because if it's on the planet, then there's the issue of energy having to be reproduced in simulation. Ugh ...
+>>> 
+>>> (I'm sorry, I know I said nothing useful.)
 
->>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> **u/thrawnca** [+1]  *Carbon-based biped* (8 days later)
 >>>> 
 >>>> > Does it also appear every 400 years?
->>>> If by "it" you mean the planar alignment, then chapter 22: "planar alignment, signified by several planets aligning with their own, an event that took place once every 400 years or so."
->>>> > siphon the energy from the positive energy plane
->>>> Er...there's no evidence that that exists in this storyverse. Although the idea of siphoning energy from *somewhere* is...interesting. Still, if that were the case, then I would expect the Guardian to say, when the loop is started early, "there's not enough power" rather than "everything is more expensive."
 >>>> 
+>>>> If by "it" you mean the planar alignment, then chapter 22: "planar alignment, signified by several planets aligning with their own, an event that took place once every 400 years or so."
+>>>> 
+>>>> > siphon the energy from the positive energy plane
+>>>> 
+>>>> Er...there's no evidence that that exists in this storyverse. Although the idea of siphoning energy from *somewhere* is...interesting. Still, if that were the case, then I would expect the Guardian to say, when the loop is started early, "there's not enough power" rather than "everything is more expensive."
 
->>>>> **u/InsaneBranch** [+1] *
+>>>>> **u/InsaneBranch** [+1]  (12 days later)
 >>>>> 
 >>>>> Yes, I meant the alignment.
->>>>> Oh, that's a good point. I have no idea in that case.
 >>>>> 
+>>>>> Oh, that's a good point. I have no idea in that case.
 
-> **u/TheAtomicOption** [+1] *
+> **u/TheAtomicOption** [+1]  (6 days later)
 > 
 > Energy within the loop doesn't get expended. It is *changed*. The expensive stuff is:
+> 
 > 1. the pocket dimension
 > 2. the dilation itself around the dimension
 > 3. acquiring and arraigning all the matter in the dimension to match the template
 > 4. Moving souls around.
 > 5. Administrative overhead of the guardian.
-> You need 1 source of magic equal to that of the area enclosed, but you shouldn't need that amount again since it's not expended at the end of the cycle--only misplaced.
-> All this assuming that energy in this world is neither created nor destroyed--same as energy in the real world.
 > 
+> You need 1 source of magic equal to that of the area enclosed, but you shouldn't need that amount again since it's not expended at the end of the cycle--only misplaced.
+> 
+> All this assuming that energy in this world is neither created nor destroyed--same as energy in the real world.
 
->> **u/thrawnca** [+0]  *Carbon-based biped**
+>> **u/thrawnca** [+0]  *Carbon-based biped* (6 days later)
 >> 
 >> > Energy within the loop doesn't get expended. It is *changed*
->> OK, but if energy has moved from a lower-entropy state to a higher-entropy state, then it is effectively expended.
->> > you shouldn't need that amount again since it's not expended at the end of the cycle--only misplaced.
->> Then the reason that the loop is decaying is...
 >> 
+>> OK, but if energy has moved from a lower-entropy state to a higher-entropy state, then it is effectively expended.
+>> 
+>> > you shouldn't need that amount again since it's not expended at the end of the cycle--only misplaced.
+>> 
+>> Then the reason that the loop is decaying is...
 
->>> **u/TheAtomicOption** [+1] *
+>>> **u/TheAtomicOption** [+1]  (6 days later)
 >>> 
 >>> >Then the reason that the loop is decaying is...
->>> Well I did list 5 other things...
 >>> 
+>>> Well I did list 5 other things...
 
-> **u/SpeculativeFiction** [+1] *
+> **u/SpeculativeFiction** [+1]  (12 days later)
 > 
 > The time loop draws power from the planar alignment. That's why it has to be activated on or near the summer solstice.
-> It's weaker this time because the ritual happened a month before the solstice. The planetary alignment only happens every 400 years or so.
-> >They were regular like the progression between night and day," Ghost Serpent replied. "Every four hundred years, whenever the planets aligned.
->  It's also been used by regular mages to teleport entire cities.
-> >Zorian took a deep breath, a shiver running down his spine. Of course! How could he have missed it till now? This year's planar alignment, signified by several planets aligning with their own, an event that took place once every 400 years or so. The last time such an event happened, a city of mages took advantage of it to teleport their entire city all the way from Miasina to the southern coast of Altazia, performing the largest feat of trans-continental teleportation to ever be recorded. If someone wanted to mess around with space and time on a grand scale, this was the time to do it.
-> The creation myth of this universe states that there were several dragons the gods defeated, and the last they made into the planet humans inhabit. My theory is that they made the other dragons into planets in the solar system, and the planar alignment allows the excess mana of each planet to be used in rituals.
-> >According to Ikosians, the world was originally a swirling, shapeless chaos, inhabited only by the 7 primordial dragons. One day, the gods descended from the higher planes of existence and killed all of them save one. This last one they refashioned into the material world that humans now inhabit, turning her body into dirt and stone, her blood into water, her breath into air and her fire into magic. The vast networks of tunnels stretching beneath the surface of the world are dragon veins, now empty of blood that had been turned into the seas but still flooded with magic emanating from the Heart of the World – the fiery, still-beating heart of the primordial dragon that rests somewhere deep underground. Far from being content with her fate, the Dragon Below still rages against her bounds, giving birth to natural disasters like volcanoes and earthquakes.
 > 
+> It's weaker this time because the ritual happened a month before the solstice. The planetary alignment only happens every 400 years or so.
+> 
+> >They were regular like the progression between night and day," Ghost Serpent replied. "Every four hundred years, whenever the planets aligned.
+> 
+>  It's also been used by regular mages to teleport entire cities.
+> 
+> >Zorian took a deep breath, a shiver running down his spine. Of course! How could he have missed it till now? This year's planar alignment, signified by several planets aligning with their own, an event that took place once every 400 years or so. The last time such an event happened, a city of mages took advantage of it to teleport their entire city all the way from Miasina to the southern coast of Altazia, performing the largest feat of trans-continental teleportation to ever be recorded. If someone wanted to mess around with space and time on a grand scale, this was the time to do it.
+> 
+> The creation myth of this universe states that there were several dragons the gods defeated, and the last they made into the planet humans inhabit. My theory is that they made the other dragons into planets in the solar system, and the planar alignment allows the excess mana of each planet to be used in rituals.
+> 
+> >According to Ikosians, the world was originally a swirling, shapeless chaos, inhabited only by the 7 primordial dragons. One day, the gods descended from the higher planes of existence and killed all of them save one. This last one they refashioned into the material world that humans now inhabit, turning her body into dirt and stone, her blood into water, her breath into air and her fire into magic. The vast networks of tunnels stretching beneath the surface of the world are dragon veins, now empty of blood that had been turned into the seas but still flooded with magic emanating from the Heart of the World – the fiery, still-beating heart of the primordial dragon that rests somewhere deep underground. Far from being content with her fate, the Dragon Below still rages against her bounds, giving birth to natural disasters like volcanoes and earthquakes.
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (13 days later)
 >> 
 >> > draws power from the planar alignment
->> As discussed elsewhere in the comments, I don't think that this is quite right. It *relies* on the alignment, but not, I think, to supply power - rather, the alignment vastly reduces the *cost* of dimensional magic.
->> > the planar alignment allows the excess mana of each planet to be used in rituals.
->> But the loop is recreating each of the planets, each time. Six planets can't supply enough mana to create six *thousand* planets, each of which would then be a mana source as powerful as the original six!
 >> 
+>> As discussed elsewhere in the comments, I don't think that this is quite right. It *relies* on the alignment, but not, I think, to supply power - rather, the alignment vastly reduces the *cost* of dimensional magic.
+>> 
+>> > the planar alignment allows the excess mana of each planet to be used in rituals.
+>> 
+>> But the loop is recreating each of the planets, each time. Six planets can't supply enough mana to create six *thousand* planets, each of which would then be a mana source as powerful as the original six!
 
-> **u/__2BR02B__** [+0]  *Marxist-Lurianism**
+> **u/__2BR02B__** [+0]  *Marxist-Lurianism* (an hour later)
 > 
 > Even if it charges from an external source, it couldn't, as you said, "recharge from the looping world itself," since any energy the loop gained would be energy that it had already expended. It couldn't really recharge, but perhaps it could be made more efficient if it had a mechanism to reclaim energy used to simulate. But I really don't know if it would even be worth it, as most of that energy is used to keep the simulation accurate. 
 > Also, come to think of it, we don't know for sure that the loop *doesn't* recycle all the available energy at the end of every iteration.
-> 
 
->> **u/throwawayIWGWPC** [+1] *
+>> **u/throwawayIWGWPC** [+1]  (a day later)
 >> 
 >> I think energy reclamation is a part of the deal. Every month, everything within the loop is converted to energy, then remade according to the original template pattern. All the energy during the loop, even any heat that doesn't escape the loop boundry can be repurposed, which greatly reduces the cost of recreating the loop every month.
->> 
 
->>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>> **u/thrawnca** [+1]  *Carbon-based biped* (a day later)
 >>> 
 >>> > heat that doesn't escape the loop boundry
->>> It's in a pocket dimension. Nothing can escape. Which is the reason it can achieve this level of temporal acceleration.
 >>> 
+>>> It's in a pocket dimension. Nothing can escape. Which is the reason it can achieve this level of temporal acceleration.
 
->>>> **u/throwawayIWGWPC** [+1] *
+>>>> **u/throwawayIWGWPC** [+1]  (a day later)
 >>>> 
 >>>> Maybe. Formally speaking, heat is utterly unordered energy, so no information is escaping. It wouldn't be unreasonable that universes have bleed over into the multiverse.
->>>> 
 
 ---
 

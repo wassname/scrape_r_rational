@@ -2,7 +2,7 @@
 
 * Author: u/lumenwrites *
 * URL: https://www.reddit.com/r/DnDBehindTheScreen/comments/mdd82b/infohazards_what_they_do_know_can_hurt_them/
-* Score: 31
+* Score: 32
 
 * Created: 2021-03-30T11:47:12
 
@@ -12,123 +12,112 @@
 
 ### Comments:
 
-> **u/BuccaneerRex** [+20] *
+> **u/BuccaneerRex** [+20]  (14 hours later)
 > 
 > Left out memetic hazards, which is information that IN ITSELF is dangerous to have in your mind. Temptation being the earliest form of this: if you know where the cookies are, you are in danger of eating one. 
-> But more insidious would be something like a false belief which can lead to a bad action: You think she's cheating, you burst into her therapy session and ruin everything. 
-> There are stories in which simply knowing the name of something calls its attention to you, and saying the name can summon it. There's an apocryphal story about the northern European name for bears being lost because in the very early mythology if you said the name you'd call them. So they were called 'brown ones' which became 'bruin' and then 'bear'. But the name still persists in 'Arctic' (the word was arktos) 
-> Then there are the physical meme hazards like SCP where you see the picture and you die. Snow Crash did it first with the Asherah Virus. See a QR code and if you're nerdy enough to be able to process it even subconsciously, you're infected. 
-> One of the key factors in an infohazard is who is in danger from who knowing it. Are you in danger because you know it? Are you in danger because they know it? Are you in danger because they know you know it? 
-> And you know they know you know they know you know it.
 > 
+> But more insidious would be something like a false belief which can lead to a bad action: You think she's cheating, you burst into her therapy session and ruin everything. 
+> 
+> There are stories in which simply knowing the name of something calls its attention to you, and saying the name can summon it. There's an apocryphal story about the northern European name for bears being lost because in the very early mythology if you said the name you'd call them. So they were called 'brown ones' which became 'bruin' and then 'bear'. But the name still persists in 'Arctic' (the word was arktos) 
+> 
+> Then there are the physical meme hazards like SCP where you see the picture and you die. Snow Crash did it first with the Asherah Virus. See a QR code and if you're nerdy enough to be able to process it even subconsciously, you're infected. 
+> 
+> One of the key factors in an infohazard is who is in danger from who knowing it. Are you in danger because you know it? Are you in danger because they know it? Are you in danger because they know you know it? 
+> 
+> And you know they know you know they know you know it.
 
->> **u/Mr-Mister** [+11] *
+>> **u/Mr-Mister** [+11]  (a day later)
 >> 
 >> > Left out memetic hazards, which is information that IN ITSELF is dangerous to have in your mind.
->> These would be cognitohazards and/or mnemohazards, depending on wether the danger lies only in actively thinking them or knowing them is enough.
->> Memetic has more to do with a tendency to spread.
 >> 
+>> These would be cognitohazards and/or mnemohazards, depending on wether the danger lies only in actively thinking them or knowing them is enough.
+>> 
+>> Memetic has more to do with a tendency to spread.
 
->>> **u/BuccaneerRex** [+4] *
+>>> **u/BuccaneerRex** [+4]  (a day later)
 >>> 
 >>> I suppose that's true. I'd consider 'meme' to be more about the quantization of the information into discrete units. Information spreads generally, but memes specifically spread as coherent units. The division of 'unit' is a bit arbitrary but the metaphor can extend that far.
->>> 
 
->> **u/None** [+6] *
+>> **u/None** [+7]  (a day later)
 >> 
 >> > the word was arktos
->> Wait, *don't* -
 >> 
+>> Wait, *don't* -
 
->> **u/alexeyr** [+1]  *Steersman**
+>> **u/alexeyr** [+1]  *Steersman* (19 days later)
 >> 
 >> Two details about that story:
+>> 
 >> 1. 'arktos' is not the old name itself, but the Greek descendant of it.
 >> 2. The name doesn't persist in 'Arctic', it's derived from the Greek version.
->> 
 
->>> **u/BuccaneerRex** [+1] *
+>>> **u/BuccaneerRex** [+1]  (19 days later)
 >>> 
 >>> That's one detail stated twice.
->>> 
 
->>>> **u/alexeyr** [+1]  *Steersman**
+>>>> **u/alexeyr** [+1]  *Steersman* (19 days later)
 >>>> 
 >>>> At least to me they seem separate: 'Arctic' could be borrowed from another descendant even if the original form was 'arktos', and it could have persisted even though 'arktos' is Greek (though in this case it would probably not be exactly 'Arctic'). But I certainly won't argue.
->>>> 
 
-> **u/bigbysemotivefinger** [+5] *
+> **u/bigbysemotivefinger** [+5]  (14 hours later)
 > 
 > The Head of Vecna. :3
-> 
 
-> **u/None** [+4] *
+> **u/None** [+4]  (15 hours later)
 > 
 > lol you guys basically reinvented religion lmfao
-> 
 
->> **u/aponty** [+8] *
+>> **u/aponty** [+8]  (a day later)
 >> 
 >> every time someone mentions Roko's basilisk, in any context, no matter what they have to say about it, I cringe so hard that I metaphorically tear out all my feathers and fall out of the sky into the ocean, sinking to the bottom of the mariana trench
->> 
 
->>> **u/Slinkinator** [+5] *
+>>> **u/Slinkinator** [+4]  (3 days later)
 >>> 
 >>> Yeah, rokos basilisk is like, the least likely hell to end up in.
->>> Personally I worry about the nature of consciousness, whether it really is entirely dependent on the brain, and whether the universe that created bot flies might treat a link between a consciousness and a dead body like a tv with a bad input, just feeding it dirty noise for eternity.
 >>> 
+>>> Personally I worry about the nature of consciousness, whether it really is entirely dependent on the brain, and whether the universe that created bot flies might treat a link between a consciousness and a dead body like a tv with a bad input, just feeding it dirty noise for eternity.
 
->>>> **u/Rhamni** [+4]  *Aspiring author**
+>>>> **u/Rhamni** [+4]  *Aspiring author* (4 days later)
 >>>> 
 >>>> There's an SCP about that. Can't remember the number, but it's about a foundation leader who dies and then years later is revived by a freak accident. He comes back obsessed with not dying again, because eternity after death is just pain and boredom as you keep experiencing the decay of your body and the fate of the atoms that made it up.
->>>> 
 
->>>>> **u/ray_juped** [+3] *
+>>>>> **u/ray_juped** [+3]  (11 days later)
 >>>>> 
 >>>>> It's actually worse than that - the phenomenon is an infohazard. The real phenomenon is that if you've ever had the idea that death is like that, then that's what happens to you when you die. Always follow the infohazard warnings!
->>>>> 
 
->>>>> **u/Slinkinator** [+2] *
+>>>>> **u/Slinkinator** [+2]  (4 days later)
 >>>>> 
 >>>>> In my nightmare you kind of lose structured thought, it's like some kernel of awareness or perspective just being unpleasantly stimulated, but that's really on point.
->>>>> 
 
->>>>>> **u/VanPeer** [+3]  *The shard made me do it**
+>>>>>> **u/VanPeer** [+4]  *The shard made me do it* (5 days later)
 >>>>>> 
 >>>>>> This is part of the reason I decided not to pursue cryo-preservation which is portrayed by its proponents as a binary thing: you either hit the immortality jackpot or you don't. But there is a wide continuum of mental states between conscious vs. dead that seems plausible given how much of the fine structure gets preserved during freezing. Given that current cryo-tech is barely above quackery, ending up in a nightmarish vegetative state has a non-zero probability.
->>>>>> 
 
->>>> **u/VanPeer** [+1]  *The shard made me do it**
+>>>> **u/VanPeer** [+1]  *The shard made me do it* (5 days later)
 >>>> 
 >>>> I was reading Scott Bakker's views on consciousness as a magic trick/sleight of hand that only exists because we don't understand it. And I was speculating about what if that was literally true: understanding the nature of consciousness causes the magic trick to disappear and person becomes a p-zombie as soon as he groks consciousness. lol.
->>>> 
 
->>>>> **u/OnlyEvonix** [+1] *
+>>>>> **u/OnlyEvonix** [+1]  (13 days later)
 >>>>> 
 >>>>> I think you'll like this MLP fanfic
 >>>>> https://www.fimfiction.net/story/429942/1/pony-with-no-head-is-allowed-to-have-an-opinion-for-some-reason/literally-brainless
->>>>> 
 
->>>>>> **u/VanPeer** [+2]  *The shard made me do it**
+>>>>>> **u/VanPeer** [+2]  *The shard made me do it* (14 days later)
 >>>>>> 
 >>>>>> Thanks. I can kind of see where the author was going with the p-zombie concept in the first section, but had trouble following the rest of the story.
->>>>>> 
 
->>>> **u/OnlyEvonix** [+1] *
+>>>> **u/OnlyEvonix** [+1]  (13 days later)
 >>>> 
 >>>> I did have an interesting idea that consciousness is ubiquitous and all possible subdivisions of reality are conscious but only a lucky infinith contain a pattern that mirrors the state of the whole, granting a degree of "self" awareness. We can't find the "ghost" because we don't have any absence to compare our observations to.
 >>>> So we will continue to aware of mostly random noise forever after we die, like we did before we were born and a virtually infinite number of people have always done and will always do.
->>>> 
 
->>> **u/Ok-Pen528** [+1] *
+>>> **u/Ok-Pen528** [+1]  (3 years later)
 >>> 
 >>> I do not recognize the bodies in the water
->>> 
 
-> **u/muns4colleg** [+1] *
+> **u/muns4colleg** [+1]  (3 days later)
 > 
 > I just realized that this is literally Lovecraftian madness from eldritch knowledge except expressed in technical exospeak instead of purple prose.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Scilark *
 * URL: https://www.reddit.com/r/rational/comments/gjktax/rt_wip_introducing_doing_gods_work_a_corporate/
-* Score: 58
+* Score: 62
 
 * Created: 2020-05-14T11:47:47
 
@@ -18,94 +18,85 @@ That's it - I just thought I'd introduce it here. If you're interested, take a l
 
 ### Comments:
 
-> **u/JohnKeel** [+13] *
+> **u/JohnKeel** [+13]  (2 hours later)
 > 
 > I’ve been following it for a few weeks- really great stuff! (And don’t worry about etiquette- it’s annoying when authors post the very first chapter of a just-begun story, but there’s a lot of material here.)
-> 
 
-> **u/None** [+7] *
+> **u/None** [+8]  (2 hours later)
 > 
 > I'd say this fits here very well. Intelligent, driven protagonist who has their (>!what personal pronouns do we use to refer to Loki when they're not currently definitely male or female?!<) own goals; a magic system that seems to have rules even if they're vague, and characters that have distinct personalities.
-> It's also got pretty great banter, what with the main character being a Trickster god, and I like the satire of Corporate Culture.
 > 
+> It's also got pretty great banter, what with the main character being a Trickster god, and I like the satire of Corporate Culture.
 
->> **u/Tydane395** [+8] *
+>> **u/Tydane395** [+8]  (4 hours later)
 >> 
 >> [They/them](https://en.wikipedia.org/wiki/Singular_they) are the usual pronouns to use if you are unsure of their gender or they are non binary
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 hours later)
 >>> 
 >>> >!I know, but Loki has been female-presenting basically most of the story, and others have referred to Loki as 'she', so I thought I should make sure and ask the author.!<
->>> 
 
->>>> **u/Scilark** [+10] *
+>>>> **u/Scilark** [+8]  (6 hours later)
 >>>> 
 >>>> >!I've never explicitly stated it in the story (yet), but Loki will happily go by any pronouns at any time, regardless of what form they're currently taking. Most people around her will use traditional pronouns for whatever gender she presents as at the time, but the way I picture him viewing himself is that he's a little bit of all genders at all times.!<
->>>> 
 
-> **u/Fhoenix42** [+3] *
+> **u/Fhoenix42** [+3]  (4 days later)
 > 
 > I love your story. I just binged the whole thing and I think it’s my new favorite on RL. Quality of writing is amazing for a serial. Thank you for posting it here.
-> 
 
->> **u/Scilark** [+2] *
+>> **u/Scilark** [+2]  (5 days later)
 >> 
 >> I'm very honoured.
->> 
 
-> **u/Asviloka** [+7] *
+> **u/Asviloka** [+7]  (an hour later)
 > 
 > Welcome!
-> I read the first three or so chapters back when they were large chapters, and it really is quite good.  Even if not necessarily rational, it should qualify as adjacent (from what I read).  I keep meaning to go back and catch up, but the tbr list is long.
-> That said, and please don't take this harshly, as much as I support your story, you really aren't supposed to make an account and use it solely for self-promo. Reddit is meant to be a collection of communities, not a platform for advertising. I highly recommend finding some communities to join, it's a great place, get involved. :)
 > 
+> I read the first three or so chapters back when they were large chapters, and it really is quite good.  Even if not necessarily rational, it should qualify as adjacent (from what I read).  I keep meaning to go back and catch up, but the tbr list is long.
+> 
+> That said, and please don't take this harshly, as much as I support your story, you really aren't supposed to make an account and use it solely for self-promo. Reddit is meant to be a collection of communities, not a platform for advertising. I highly recommend finding some communities to join, it's a great place, get involved. :)
 
->> **u/Scilark** [+2] *
+>> **u/Scilark** [+2]  (2 hours later)
 >> 
 >> Noted. Nothing makes me inwardly cringe more than having to promote my own work (and oh, there was much internal cringing before making this), so I need very little encouragement to stop doing it. Consider this the first, last and only. :)
->> 
 
->>> **u/ketura** [+20]  *Organizer**
+>>> **u/ketura** [+18]  *Organizer* (5 hours later)
 >>> 
 >>> There's a reddit-wide convention called the 10:1 rule.  So long as you comment around on other people's posts or contribute to discussions elsewhere at a ratio of \~10 comments per 1 post of your own content, no one's gonna bat an eye.
->>> Here on the subreddit, so long as you're not self-promoting updates more frequently than about once a week (rule #3), we on the moderation team aren't going to do anything about it.
->>> *Please* continue to post updates to this story, it's a good fit for the sub (imo) and is well-written and intriguing.  Please don't take a friendly pointer as a reason to stop posting links to updates for a great story.
 >>> 
+>>> Here on the subreddit, so long as you're not self-promoting updates more frequently than about once a week (rule #3), we on the moderation team aren't going to do anything about it.
+>>> 
+>>> *Please* continue to post updates to this story, it's a good fit for the sub (imo) and is well-written and intriguing.  Please don't take a friendly pointer as a reason to stop posting links to updates for a great story.
 
->>>> **u/Scilark** [+8] *
+>>>> **u/Scilark** [+8]  (6 hours later)
 >>>> 
 >>>> That's useful to know - thank you! I am sure I will be able to contribute. :)
->>>> 
 
->>>> **u/Lugnut1206** [+1] *
+>>>> **u/Lugnut1206** [+1]  (17 hours later)
 >>>> 
 >>>> rule #2 or #3? or are the rules zero-indexed
->>>> 
 
->>>>> **u/ketura** [+1]  *Organizer**
+>>>>> **u/ketura** [+1]  *Organizer* (17 hours later)
 >>>>> 
 >>>>> Wellp, looks like our rules were not consistent between new reddit and old reddit, lol (I use new reddit).  I've added old reddit's rule 2 to new reddit now.    
-
->>>>> So yes, I meant what is now listed consistently as rule 3.  Thanks for the heads-up.
 >>>>> 
+>>>>> So yes, I meant what is now listed consistently as rule 3.  Thanks for the heads-up.
 
->>> **u/Asviloka** [+14] *
+>>> **u/Asviloka** [+13]  (2 hours later)
 >>> 
 >>> No, no, it needn't be the last or only, so long as it isn't the sole thing you do with your account it'll be fine. A moderate amount of self-promotion is perfectly acceptable, and there are other communities in which your story may be very welcome as well. So long as you make meaningful contributions to other threads, you're good. :)
->>> 
 
->>> **u/nytelios** [+11] *
+>>> **u/nytelios** [+11]  (5 hours later)
 >>> 
 >>> Very few people notice and most don't care unless you're shilling in some dishonest or exploitative way. Also it's not against the rules, just against "reddiquette." It's not required to participate in the community just to write a self-promotion post. But if it's all you're doing, complaints will come sooner or later.
->>> Self-promotion is natural and honestly yours is pretty good. Most people just post a summary or link and don't bother explaining why the story fits the sub.
 >>> 
+>>> Self-promotion is natural and honestly yours is pretty good. Most people just post a summary or link and don't bother explaining why the story fits the sub.
 
-> **u/Ceres_Golden_Cross** [+1] *
+> **u/Ceres_Golden_Cross** [+1]  (13 days later)
 > 
 > Half a month later, here I am. Finally caught up. The story is amazing. I love the characters (the protagonist specially, but the rest of his "friends" are also very fun to read and see their interactions), the setting is super interesting, faced with that sweet rational angle... And there is something in the flow of the story that makes it super hard to put down. I had never found me in the situation of having to forbid myself from reading before bed, because it always ends up with me sleeping 1-2 hours later than planned. I can't wait to read more.
-> Also I have to mention that seen the christian god taking the role of the tyrant is mildly umpleasant for me given my background. But I must admit that I know which parts of the bible would inspire such portrayal.
 > 
+> Also I have to mention that seen the christian god taking the role of the tyrant is mildly umpleasant for me given my background. But I must admit that I know which parts of the bible would inspire such portrayal.
 
 ---
 

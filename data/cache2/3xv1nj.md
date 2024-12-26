@@ -12,9 +12,10 @@
 
 ### Comments:
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (52 minutes later)
 > 
 > Jesus this is a shit article.
+> 
 > 1. The enemy having a superweapon with poor design and with no redundancy of critical systems is not a plot hole. This is the result of terrible project management under serious budgetary and personnel constraints.
 > 2. This is also not a plot hole. Han Solo finds the *Millennium Falcon* because he was looking for it. He lost the *Falcon* under unknown circumstances. That he finds it when Rey pilots it is *coincidental* but that's explained by either the Force or lazy writing. It's not a plot hole though (let alone unforgiveable).
 > 3. Finn is not just an ex-janitor, he's a fully-trained Stormtrooper. Kylo Ren is *also* toying with him during their fight.
@@ -55,47 +56,43 @@
 > 38. Open question, not a plot hole.
 > 39. I mean ... they did destroy something like five planets with it. This is a matter of questionable strategic thinking, not a plot hole. And I'm not sure that it was a bad trade, given how little we know about galactic politics and the cost-benefit of superweapons.
 > 40. Recycled plot points are not a plot hole.
-> What we've got are a lot of complaints about the movie, but not a lot of plot holes. I could give my own list of things that I would have liked a patch for, but this article is *such clickbait shit.*
 > 
+> What we've got are a lot of complaints about the movie, but not a lot of plot holes. I could give my own list of things that I would have liked a patch for, but this article is *such clickbait shit.*
 
->> **u/dickbuttsr** [+2] *
+>> **u/dickbuttsr** [+2]  (an hour later)
 >> 
 >> agreed.
->> 
 
->> **u/ketura** [+2]  *Organizer**
+>> **u/ketura** [+2]  *Organizer* (an hour later)
 >> 
 >> 38.The Emperor's *first appearance* had him as a gigantic hologram over Vader in ESB.  
->> This guy's got an axe to grind, and it's made his list about four times as large as strictly necessary.  I'm not a fan of all the crud in this movie either, but something being lame is not a plot hole (however bad it is).
 >> 
+>> This guy's got an axe to grind, and it's made his list about four times as large as strictly necessary.  I'm not a fan of all the crud in this movie either, but something being lame is not a plot hole (however bad it is).
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (an hour later)
 >>> 
 >>> Yeah, I could make my own list of things that bugged me, or that I thought were lazy writing (the Force is used as a cop out for heavy amounts of coincidence), but there were a few on this list where it just seemed like the author hadn't been attention to the movie.
->>> 
 
->> **u/hwc** [+1] *
+>> **u/hwc** [+1]  (5 hours later)
 >> 
 >> > Why is the possibility that Luke left it with
 >> > Maz completely discarded?
->> That was anakin's saber that OB1 took from him in ep3, have to Luke in ep4, and was in Luke's hand when Vader cut it off. I assumed it fell into Bespin's surface, if it had a surface (is it like Venus or Uranus?)
 >> 
+>> That was anakin's saber that OB1 took from him in ep3, have to Luke in ep4, and was in Luke's hand when Vader cut it off. I assumed it fell into Bespin's surface, if it had a surface (is it like Venus or Uranus?)
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (8 hours later)
 >>> 
 >>> According to *Legends* canon, it was caught in part of the antenna as it fell and was eventually returned to Vader. But that's non-canonical now and I have no idea what the deal with it is in the new movie continuity. It's probably something that's explained in some of the supplemental materials or will be explained in the next movie.
->>> 
 
-> **u/narfanator** [+1] *
+> **u/narfanator** [+1]  (6 minutes later)
 > 
 > *Actually* I take issue with one subtle point: The cross-bar did end up making sense, just not as a cross-bar - but a as a spike!
-> Otherwise, yeah, huuuuge things that just don't make sense. But, Star Wars is fantasy, not scifi, so it's not really supposed to.
 > 
+> Otherwise, yeah, huuuuge things that just don't make sense. But, Star Wars is fantasy, not scifi, so it's not really supposed to.
 
-> **u/dickbuttsr** [+1] *
+> **u/dickbuttsr** [+1]  (43 minutes later)
 > 
 > Came to find plot holes, stayed for the nerd fight in the comments
-> 
 
 ---
 

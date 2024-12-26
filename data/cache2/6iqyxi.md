@@ -50,32 +50,29 @@ Next time, the challenge is **Quantum Suicide and Immortality**. [See the wikipe
 
 ### Comments:
 
-> **u/ShiranaiWakaranai** [+32] *
+> **u/ShiranaiWakaranai** [+32]  (3 hours later)
 > 
 > [Stars in the Night Sky](https://pastebin.com/dZFTATbZ)
-> ~1500 words
 > 
+> ~1500 words
 
->> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor* (4 days later)
 >> 
 >> This made me choke up.
->> 
 
->> **u/syncope_apocope** [+6] *
+>> **u/syncope_apocope** [+7]  (10 hours later)
 >> 
 >> Clever interpretation of the prompt. I like it!
->> 
 
->> **u/Kishoto** [+6] *
+>> **u/Kishoto** [+6]  (20 hours later)
 >> 
 >> [Well, that ended](#s "with a bang. :3")
->> 
 
-> **u/Laborbuch** [+6] *
+> **u/Laborbuch** [+6]  (a day later)
 > 
 > [Sticks and Stones](https://pastebin.com/cHMZhYj9)
-> ~1500 words
 > 
+> ~1500 words
 
 ---
 

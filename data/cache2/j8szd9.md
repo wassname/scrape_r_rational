@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/j8szd9/wip_wise_blood_part_3_surf_nazis_must_die/
-* Score: 12
+* Score: 11
 
 * Created: 2020-10-10T21:44:43
 
@@ -16,11 +16,11 @@ Next time, *Wise Blood* concludes its first arc with a quick check in on the Col
 
 ### Comments:
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (7 days later)
 > 
 > [https://www.reddit.com/r/rational/comments/jd96pb/wip\_wise\_blood\_part\_four\_hoddm%C3%ADmis/](https://www.reddit.com/r/rational/comments/jd96pb/wip_wise_blood_part_four_hoddm%C3%ADmis/)
-> And that's the first arc done.
 > 
+> And that's the first arc done.
 
 ---
 

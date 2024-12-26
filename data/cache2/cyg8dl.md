@@ -2,7 +2,7 @@
 
 * Author: u/Hoophy97 *
 * URL: https://www.reddit.com/r/rational/comments/cyg8dl/rthfmk_dungeon_engineer_ch_39/
-* Score: 18
+* Score: 17
 
 * Created: 2019-09-01T22:01:48
 
@@ -216,96 +216,102 @@ Then it’ll be time to implement my trump cards.
 
 ### Comments:
 
-> **u/best_cat** [+8] *
+> **u/best_cat** [+8]  (an hour later)
 > 
 > Some thoughts on trap design:
+> 
 > The main character has learned that mana-cost scales with force.  And they've just gotten an ability to massively multi task. 
+> 
 > I'd advise them to check out the [three ring release](https://en.m.wikipedia.org/wiki/3-ring_release_system) used in parachutes.  The rings produce a huge amount of mechanical advantage that lets you hold up a ton of weight with just a tiny bit of pressure on the top ring.
+> 
 > MC can abuse this to create some nice anti-anti-magic traps.  
+> 
 > He would stick the release just behind a wall, about 40' down a 60' corridor. Then, devote a tiny trickle of attention/magic to hold the small ring closed.
+> 
 > This way, if anyone comes down the corridor with an anti-magic field active, the MCs telekinesis stops holding the small ring.  And then the entire ceiling falls. 
+> 
 > ---
 > At this point, I'd also start thinking in terms of "fence post security" and "unknown unknowns". 
-> Pits will help you with anyone who needs to walk.  More pits will come down harder on walkers. But they won't do too much to anyone who can fly, teleport or turn ethereal. 
-> My solution to flight might be looking for a way to simultaneously drop a spread of small rocks.  Wings tend to be fragile.  And we haven't seen any wizards wearing safety helmets. 
-> My solution to teleportation would be to create some areas that look like invitingly stable ground, but are actually dangerous.
-> Depending on the materials, this might be a layer of the most crumbly fungal wood I can find, topped with a paper-thin layer of fused stone.
-> If someone teleports onto the stone, they drop a foot or two into the crumbly wood, and get into attack range of whatever venomous critters are handy.
 > 
+> Pits will help you with anyone who needs to walk.  More pits will come down harder on walkers. But they won't do too much to anyone who can fly, teleport or turn ethereal. 
+> 
+> My solution to flight might be looking for a way to simultaneously drop a spread of small rocks.  Wings tend to be fragile.  And we haven't seen any wizards wearing safety helmets. 
+> 
+> My solution to teleportation would be to create some areas that look like invitingly stable ground, but are actually dangerous.
+> 
+> Depending on the materials, this might be a layer of the most crumbly fungal wood I can find, topped with a paper-thin layer of fused stone.
+> 
+> If someone teleports onto the stone, they drop a foot or two into the crumbly wood, and get into attack range of whatever venomous critters are handy.
 
->> **u/Hoophy97** [+3] *
+>> **u/Hoophy97** [+3]  (4 hours later)
 >> 
 >> These are brilliant ideas which I would love to implement, it looks like I have some research to do!
->> 
 
-> **u/TrebarTilonai** [+6] *
+> **u/TrebarTilonai** [+8]  (2 hours later)
 > 
 > Okay, that was a little odd. Ike seems to have gone from spending weeks in depression after being forced to kill an intruder to gleefully designing the most lethal traps he can make quickly in the blink of an eye. I'm assuming there's a genre reason for it, but it could be a little more skillfully done to make it non-obvious that he's being influenced.
-> 
 
->> **u/Hoophy97** [+2] *
+>> **u/Hoophy97** [+2]  (4 hours later)
 >> 
 >> I intend on having Ike profusely beg/warn would-be invaders before they have the chance to risk their lives.
->> Furthermore, non-lethal take-downs will be prioritized.
 >> 
+>> Furthermore, non-lethal take-downs will be prioritized.
 
->>> **u/TrebarTilonai** [+5] *
+>>> **u/TrebarTilonai** [+3]  (18 hours later)
 >>> 
 >>> >Furthermore, non-lethal take-downs will be prioritized.
->>> Oh. Well, that's good to know because that does NOT come across in the latest chapter.
 >>> 
+>>> Oh. Well, that's good to know because that does NOT come across in the latest chapter.
 
-> **u/iftttAcct2** [+6] *
+> **u/iftttAcct2** [+6]  (4 hours later)
 > 
 > I'd really like to see his spacer background inform and influence his thought processes and creations more. Such a technologically advanced perspective from the locals. Vacuums and airlocks, materials science, algae vats and antigravity machines. All that good stuff.
-> 
 
->> **u/Hoophy97** [+3] *
+>> **u/Hoophy97** [+3]  (4 hours later)
 >> 
 >> All good stuff, all in good time. There's only so much he can do with the available tech, but soon he will start the long climb of cumulative precision which makes modern industry possible. Luckily his unique nature will ease this burden substantially.
->> 
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (4 days later)
 > 
 > Just binged my way through this series.  Very fun concept.  Entertaining execution, too!
-> Seems to have a Libertarian philosophical leaning, but doesn't beat you over the head with it.
-> Also, love the shout out to Dwarf Fortress - and the implication of its relevance in a future setting.
 > 
+> Seems to have a Libertarian philosophical leaning, but doesn't beat you over the head with it.
+> 
+> Also, love the shout out to Dwarf Fortress - and the implication of its relevance in a future setting.
 
->> **u/Hoophy97** [+3] *
+>> **u/Hoophy97** [+3]  (5 days later)
 >> 
 >> I’m not even a libertarian but I noticed something similar, therefore I implemented a couple Ron Swanson references ;)
->> I’m really glad you enjoyed it!
 >> 
+>> I’m really glad you enjoyed it!
 
->>> **u/Brell4Evar** [+2] *
+>>> **u/Brell4Evar** [+2]  (6 days later)
 >>> 
 >>> It reminded me a bit of early Heinlein - take that as a compliment. ;)
->>> 
 
-> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (5 hours later)
 > 
 > At first glance, this looks not good. It begins with the cliche "waking up" opening and contains bolded *and* italicized *and* capitalized words with an excessive amount of punctuation after. And despite having shown the ability to use all this emphasis, the story still insists on \*starring\* some words.
-> Anyone want to offer up an assurance that it gets better?
 > 
+> Anyone want to offer up an assurance that it gets better?
 
->> **u/Hoophy97** [+6] *
+>> **u/Hoophy97** [+7]  (5 hours later)
 >> 
 >> From my completely biased perspective, the formatting gets a lot better in just a couple of chapters but the story stays fairly consistent.
->> Therefore if the story turned you off, I wouldn’t reccomend continuing.
->> If I remember correctly, I only used * in the first two chapters and used bold or caps in the first three or fourish.
->> I’ll push those corrections ASAP.
 >> 
+>> Therefore if the story turned you off, I wouldn’t reccomend continuing.
+>> 
+>> If I remember correctly, I only used * in the first two chapters and used bold or caps in the first three or fourish.
+>> 
+>> I’ll push those corrections ASAP.
 
->>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (6 hours later)
 >>> 
 >>> Good to know those are going to be changed. The formatting took me out of the story, so I can't say whether I enjoyed it or not because the writing biased me against it. I'll give it another chance soon and see how I like it.
->>> 
 
->> **u/Adeen_Dragon** [+5] *
+>> **u/Adeen_Dragon** [+6]  (5 hours later)
 >> 
 >> Looking at the early chapters and comparing them with the latest, I would say that there is improvement. However, I enjoy Dungeon Engineer for its particular take on the Dungeon Core idea (is it popular enough to call a genre at this point?) and not for its writing quality.
->> 
 
 ---
 

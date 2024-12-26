@@ -12,61 +12,57 @@
 
 ### Comments:
 
-> **u/narfanator** [+3] *
+> **u/narfanator** [+3]  (5 hours later)
 > 
 > Bluntly, both characters appear to already be dicks, which may make it hard to read. Unsympathetic viewpoint characters are hard to make enjoyable stories with.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (5 hours later)
 >> 
 >> I... uh.... can't argue with that. Yeah, they're pretty much dicks. I would say "Well, there are more viewpoint characters, and they aren't as much of dicks," but I should probably have started it with one of them, shouldn't I?
->> I apologize for starting my book with dicks. Do you feel it's a major enough flaw that I should change around chapter orders?
 >> 
+>> I apologize for starting my book with dicks. Do you feel it's a major enough flaw that I should change around chapter orders?
 
->>> **u/narfanator** [+1] *
+>>> **u/narfanator** [+1]  (14 hours later)
 >>> 
 >>> Gah, I don't know yet. 
->>> Actually, I do know: No, it's not. More because it has to be ok for it not to perfect.
 >>> 
+>>> Actually, I do know: No, it's not. More because it has to be ok for it not to perfect.
 
->> **u/narfanator** [+1] *
+>> **u/narfanator** [+1]  (5 hours later)
 >> 
 >> Read the other one, too. I like where you /can/ go with these, but right now I feel like I'm just spending a lot of time reading about things that won't be that important. You should try removing more, or answering: How does the reader know to feel like this is important?
->> I did like internal monologue explaining the guy's misanthropy, but not the encounter with the jocks, who don't feel like characters, or characters that could possible matter. Worm's bullies - a short lived role in the plot - have a great deal more going on than as a mere foil for characterization. HPMOR's bully scenes - wherein the bullies are, effectively, nameless characters - don't actually have anything to do with the bullies. The first is actually a scene between Harry and Neville, the second between them and Lestrange, and the SPEW encounters are about the interactions between the team members.
->> I like the confused timeskipping, but, if these are meant to be rational characters.... there's a deep lack of curiosity in something very strange, there.
 >> 
+>> I did like internal monologue explaining the guy's misanthropy, but not the encounter with the jocks, who don't feel like characters, or characters that could possible matter. Worm's bullies - a short lived role in the plot - have a great deal more going on than as a mere foil for characterization. HPMOR's bully scenes - wherein the bullies are, effectively, nameless characters - don't actually have anything to do with the bullies. The first is actually a scene between Harry and Neville, the second between them and Lestrange, and the SPEW encounters are about the interactions between the team members.
+>> 
+>> I like the confused timeskipping, but, if these are meant to be rational characters.... there's a deep lack of curiosity in something very strange, there.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (6 hours later)
 >>> 
 >>> Thank you for the advice. However, at the beginning of Worm, it doesn't *seem* like the bullies have a lot going on other than to be bullies, or at least that's how I felt reading it. They just become more important later on. However, I can definitely see the jocks being something like plot pieces rather than characters in this, and definitely see that I should expand on the scene. I suppose I will go back and do so. Thank you, again.
->>> 
 
->>>> **u/narfanator** [+1] *
+>>>> **u/narfanator** [+1]  (14 hours later)
 >>>> 
 >>>> No problem! I'm just glad I can give useful critique.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (14 hours later)
 >>>>> 
 >>>>> It was definitely useful. It actually made me change my plans for what to do with some characters, and edit the scene a bit. So, again, thanks!
->>>>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (36 seconds later)
 > 
 > It's not very rational so far, but I fully intend to make its roots in rationality stand out more.
-> 
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (5 hours later)
 >> 
 >> Err... what is it?
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 hours later)
 >>> 
 >>> Yes, I didn't make that very clear, did I? I apologize.
->>> Shortly: People start developing super-powers in a fictional city named Roosetown, including a group of ten teenagers, and then super-powerey stuff starts happening. It's similar in a way to Worm in premise, but with a few changes: This details the first appearance of superpowers and what happens afterwards, rather than being set in a world where the powers already exist.
->>> I have pretty much the entirety of the story arc planned out, more or less, and it's going to be rather long, and it's going to discuss super-power tropes quite a bit.
 >>> 
+>>> Shortly: People start developing super-powers in a fictional city named Roosetown, including a group of ten teenagers, and then super-powerey stuff starts happening. It's similar in a way to Worm in premise, but with a few changes: This details the first appearance of superpowers and what happens afterwards, rather than being set in a world where the powers already exist.
+>>> 
+>>> I have pretty much the entirety of the story arc planned out, more or less, and it's going to be rather long, and it's going to discuss super-power tropes quite a bit.
 
 ---
 

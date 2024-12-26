@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ironistkraken** [+1] *
+> **u/ironistkraken** [+1]  (3 minutes later)
 > 
 > I dont think you linked it.
-> 
 
 ---
 

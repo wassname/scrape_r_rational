@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/onlynega** [+1] *
+> **u/onlynega** [+1]  (a day later)
 > 
 > Huh I had missed the interlude.
-> 
 
->> **u/onlynega** [+1] *
+>> **u/onlynega** [+1]  (2 days later)
 >> 
 >> Really liked the interlude, the goblin has an interesting perspective. In a way, Lrfshmn is more perceptive than Learn. Much more able to see the subtle interplay of relationships and power structures than Learn. I hope that as Learn acclimates we'll see more of that from him. Certainly his analysis in this chapter hints towards that.
->> 
 
 ---
 

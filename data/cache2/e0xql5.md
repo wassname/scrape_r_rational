@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/e0xql5/pyrebound_102/
-* Score: 23
+* Score: 24
 
 * Created: 2019-11-24T12:07:32
 
@@ -16,35 +16,29 @@ For those of you just discovering this story, it starts [here](https://pyrebound
 
 ### Comments:
 
-> **u/jimbarino** [+5] *
+> **u/jimbarino** [+5]  (7 hours later)
 > 
 > Just read what you've written so far yesterday, and I quite liked it! Looking forward to reading the rest; thanks for writing.
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (8 hours later)
 >> 
 >> And thank you for reading!
->> 
 
-> **u/WalterTFD** [+5] *
+> **u/WalterTFD** [+4]  (9 hours later)
 > 
 > Careful of burnout, content creator!  Please work at a sustainable pace, we will still be ready to read when you are done with finals.  If you have to miss an update or two, it isn't the end of the world.
-> 
 
->> **u/RedSheepCole** [+4] *
+>> **u/RedSheepCole** [+3]  (10 hours later)
 >> 
 >> I wrote most of an update last week, then deleted it because I decided it didn't really make sense where it was.  May incorporate a modified version of the scene later in the story instead.  I'm not going to give you folks crap just to make the schedule.
->> 
 
-> **u/KDBA** [+3] *
+> **u/KDBA** [+3]  (15 hours later)
 > 
 > Your "start here" link points to the new chapter instead of chapter 1.
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (22 hours later)
 >> 
 >> D'oh!  Fixed, thank you.
->> 
 
 ---
 

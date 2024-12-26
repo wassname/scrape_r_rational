@@ -20,34 +20,33 @@ Any and all critque welcome.
 
 ### Comments:
 
-> **u/elrathj** [+4] *
+> **u/elrathj** [+4]  (9 hours later)
 > 
 > Was I expecting Neo Nazis versus vampires? No, but I enjoyed it anyway.
-> I'm looking forward to nick having a chance to reflect on the monster he's become (and the fact prayers affect him). He's taking all this pretty well.
-> Do you imagine he still has the mind of a child? Not intellectually, but emotionally. It's interesting how little he's wanted to visit his family...
-> Thanks for part 2, looking forward to the next chapter!
 > 
+> I'm looking forward to nick having a chance to reflect on the monster he's become (and the fact prayers affect him). He's taking all this pretty well.
+> 
+> Do you imagine he still has the mind of a child? Not intellectually, but emotionally. It's interesting how little he's wanted to visit his family...
+> 
+> Thanks for part 2, looking forward to the next chapter!
 
->> **u/Wizard-of-Woah** [+3] *
+>> **u/Wizard-of-Woah** [+4]  (12 hours later)
 >> 
 >> I'd say Nick still has a child's emotions, more or less. He's just... preoccupied, right now.
->> 
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (8 days later)
 > 
 > [https://www.reddit.com/r/rational/comments/j8szd9/wip\_wise\_blood\_part\_3\_surf\_nazis\_must\_die/](https://www.reddit.com/r/rational/comments/j8szd9/wip_wise_blood_part_3_surf_nazis_must_die/)
-> *Wise Blood* has updated!
 > 
+> *Wise Blood* has updated!
 
->> **u/Dezoufinous** [+1] *
+>> **u/Dezoufinous** [+1]  (9 days later)
 >> 
 >> it's almost like you're a Wolfenstein game fan and you're referencing it in the name "Wise Blood" (vs "Old Blood"), with all those nazis and monsters
->> 
 
->>> **u/Wizard-of-Woah** [+1] *
+>>> **u/Wizard-of-Woah** [+1]  (9 days later)
 >>> 
 >>> Not that the comparison is *unwelcome* at all, but the title actually comes from an old Western flick. Seemed... thematically appropriate.
->>> 
 
 ---
 

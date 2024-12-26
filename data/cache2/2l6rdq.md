@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (an hour later)
 > 
 > This isn't really the right subreddit for this... r/rational is "A subreddit dedicated to the discussion of works of rational and rationalist fiction."
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (an hour later)
 > 
 > If you want to cross post that to /r/rationalism that would be great. Considering I've had a hell of a time getting anyone to submit any content there!
-> 
 
 ---
 

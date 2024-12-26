@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://otherhistory.proboards.com/post/5745/thread
-* Score: 3
+* Score: 1
 
 * Created: 2016-04-08T13:00:36
 

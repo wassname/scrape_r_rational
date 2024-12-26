@@ -2,7 +2,7 @@
 
 * Author: u/MoralRelativity *
 * URL: https://practicalguidetoevil.wordpress.com/2017/05/10/chapter-9-more-lies/
-* Score: 34
+* Score: 33
 
 * Created: 2017-05-10T04:13:58
 
@@ -12,79 +12,78 @@
 
 ### Comments:
 
-> **u/AurelianoTampa** [+8] *
+> **u/AurelianoTampa** [+8]  (a day later)
 > 
 > ... the casual implication that Ranger just traipses into Skade every new season to pluck the eye out of the Fae equivalent of a Calamity in order to wear it as jewelry is just... whoa. Like her game of inviting the Kingdom of the Dead wasn't badass enough!
-> I too think that "All if forgiven" will come back to bite Cat, especially if we discover that the Fae have been doing some sketchy stuff Cat and Co. don't know of yet. I also wonder if Masego's implied asexuality is going to completely trip up the jealous Fae lover, or if Masego will somehow get drawn into their story against his will.
-> >And just like that today’s game of *this does not feel like a coincidence in the slightest* had found a winner.
-> I'm not sure I understood the meaning behind this... anyone able to explain?
 > 
+> I too think that "All if forgiven" will come back to bite Cat, especially if we discover that the Fae have been doing some sketchy stuff Cat and Co. don't know of yet. I also wonder if Masego's implied asexuality is going to completely trip up the jealous Fae lover, or if Masego will somehow get drawn into their story against his will.
+> 
+> >And just like that today’s game of *this does not feel like a coincidence in the slightest* had found a winner.
+> 
+> I'm not sure I understood the meaning behind this... anyone able to explain?
 
->> **u/MoralRelativity** [+3] *
+>> **u/MoralRelativity** [+3]  (a day later)
 >> 
 >> > I'm not sure I understood the meaning behind this... anyone able to explain?
->> Even re-reading this just now I can't see any meaning with a high level of confidence. Perhaps this
->> > “An invitation is always sent to the Courtyard, Hallowed One,” the steward said hesitantly. “It’s simply that usually we… do not receive guests, in this part of the season.”
->> Implies that Cat's and her team have been manoeuvred into an existing story? Manoeuvred by the King of Winter (or whatever he's called) who assigned them this courtyard.
 >> 
+>> Even re-reading this just now I can't see any meaning with a high level of confidence. Perhaps this
+>> 
+>> > “An invitation is always sent to the Courtyard, Hallowed One,” the steward said hesitantly. “It’s simply that usually we… do not receive guests, in this part of the season.”
+>> 
+>> Implies that Cat's and her team have been manoeuvred into an existing story? Manoeuvred by the King of Winter (or whatever he's called) who assigned them this courtyard.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (5 days later)
 >>> 
 >>> > Implies that Cat's and her team have been manoeuvred into an existing story? Manoeuvred by the King of Winter (or whatever he's called) who assigned them this courtyard.
+>>> 
 >>> I have to think 'Chiaroscuro' is relevant here. It was immediately assumed Heiress was behind this because it seemed Cat got the short end of the stick with major incursions. But we learnt from heiress viewpoint and 'Lies' that Summer has the heavy hitters military wise and Heiress did not set this in motion.
+>>> 
 >>> While the Winter/Summer kings likely have their own motivations and could be the source of the plotting there are other potential sources:  
 >>> Black or the Empress could have some long game (supported by the fact that Cat *should* have an easier time than Heiress)  
 >>> This could be a gambit by First Prince to weaken the empire as she's shown willingness to destroy Callow in pursuit of the goal earlier.  
 >>> Ranger's intentions are a mystery and her agents keep popping up at convenient times. Additionally she has access to the areas/people needed while it has been unclear how other actors would do this.  
->>> My current guess is the Fae got wind of what Heiress is planning, through one of the above or on their own and started attacking. Winter is using the cover of 'Summer is at war so we must be' to gain a foothold in the mortal world as always wanted.
 >>> 
+>>> My current guess is the Fae got wind of what Heiress is planning, through one of the above or on their own and started attacking. Winter is using the cover of 'Summer is at war so we must be' to gain a foothold in the mortal world as always wanted.
 
-> **u/MoralRelativity** [+3] *
+> **u/MoralRelativity** [+3]  (2 hours later)
 > 
 > Not your usual cliff hanger, but quite intriguing nevertheless. Would anyone care to make a prediction?
-> 
 
->> **u/JdubCT** [+7] *
+>> **u/JdubCT** [+6]  (17 hours later)
 >> 
 >> I'm thinking that “All is forgiven,” is going to bite Cat in the ass.
->> 
 
->>> **u/DCarrier** [+5] *
+>>> **u/DCarrier** [+7]  (18 hours later)
 >>> 
 >>> What exactly would that do? It's not like she was expecting reparations, and forgiving them for invading is not permission to continue.
->>> 
 
->>>> **u/JdubCT** [+7] *
+>>>> **u/JdubCT** [+7]  (18 hours later)
 >>>> 
 >>>> I, honestly, have no clue. Promises to fae never end up particularly great for those involved. I'm sure it'll turn out fine in the end seeing as she's going to manipulate the hell out of them though.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (5 days later)
 >>>>> 
 >>>>> She forgave, but she did not forget. Lord Adjutant did not even forgive. I think she can get around it, but gotdamn that was a poor choice of wording to use.
->>>>> 
 
->>>>>> **u/JdubCT** [+1] *
+>>>>>> **u/JdubCT** [+1]  (5 days later)
 >>>>>> 
 >>>>>> Not having forgotten will be important. But note that Adjutant doesn't count for anything when she's his Lord/Master and speaks for all of them. Although maybe that's a loophole she'll use I'm not sure that it'll hold water.
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> Yeah, this may all be a red herring. We haven't seen much of how oaths/promises/curses/lies are handled in the fae world. Given that Adjutant has a Role, I think he can still be a player independent of Cat, assuming fae existence is a stricter version of Roles in general. I think the fae officer running after Cat's assuming the hero mantle, however lightly, speaks to that.
->>>>>>> 
 
->>>>>>>> **u/JdubCT** [+1] *
+>>>>>>>> **u/JdubCT** [+1]  (12 days later)
 >>>>>>>> 
 >>>>>>>> Remember that Cat has claimed all of her posse as part of her delegation which means they're both under her protection and she's responsible for them.
->>>>>>>> This indicated she speaks for them/Marchford. Thus any promises she makes in their stead apply. Since we've seen in the next chapter that the fae have a different endgame we'll have to see how this plays out.
 >>>>>>>> 
+>>>>>>>> This indicated she speaks for them/Marchford. Thus any promises she makes in their stead apply. Since we've seen in the next chapter that the fae have a different endgame we'll have to see how this plays out.
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (12 days later)
 >>>>>>>>> 
 >>>>>>>>> Sure, that logic could apply, but we know nothing about Fae court rules. If this Fae works like the Dresden-verse Fae, Cat is screwed. If backing interpretation with force of will is more important then she can bull her way through things entertainingly.
->>>>>>>>> I'm leaning towards the latter because that's how Roles seem to work, and the Fae seems to be Roles taken to the nth degree. That would make Cat incredibly powerful as she is able to "walk through walls" so to speak. It would explain why the Fae haven't conquered everything despite their seeming overwhelming power. However it would also call into question how much agency Fae higher up the food chain have.
 >>>>>>>>> 
+>>>>>>>>> I'm leaning towards the latter because that's how Roles seem to work, and the Fae seems to be Roles taken to the nth degree. That would make Cat incredibly powerful as she is able to "walk through walls" so to speak. It would explain why the Fae haven't conquered everything despite their seeming overwhelming power. However it would also call into question how much agency Fae higher up the food chain have.
 
 ---
 

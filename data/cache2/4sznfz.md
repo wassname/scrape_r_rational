@@ -2,7 +2,7 @@
 
 * Author: u/RobinDrew  *Ravenclaw - (Author: HGPRE)**
 * URL: https://www.fanfiction.net/s/9950232/16/Hermione-Granger-and-the-Perfectly-Reasonable-Explanation
-* Score: 26
+* Score: 25
 
 * Created: 2016-07-15T15:30:49
 
@@ -12,84 +12,79 @@
 
 ### Comments:
 
-> **u/AugSphere** [+8]  *Dark Lord of Corruption**
+> **u/AugSphere** [+7]  *Dark Lord of Corruption* (an hour later)
 > 
 > > …she didn't realize she'd actually murmured her thought aloud.
-> This was a bit much for my SoD, unless it's a result of some mental manipulation (in which case, why?). Maybe I'm just miscalibrated and people actually do tend to accidentally make allegations of murder out loud IRL.
 > 
+> This was a bit much for my SoD, unless it's a result of some mental manipulation (in which case, why?). Maybe I'm just miscalibrated and people actually do tend to accidentally make allegations of murder out loud IRL.
 
->> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)**
+>> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)* (4 hours later)
 >> 
 >> I think accidentally speaking out loud IRL is probably less correlated with the seriousness of the content than with the level of *surprise* at the thought - or it least it has been for me personally.  Validation would be tricky though - it might be impractical to get a valid statistical sample of people IRL having come to sudden realizations about murders.  :)
->> That said, I admit that bit was likely inspired more by drama than "naturally follows from everything preceding", but it still seemed plausible enough to me.
 >> 
+>> That said, I admit that bit was likely inspired more by drama than "naturally follows from everything preceding", but it still seemed plausible enough to me.
 
-> **u/Wireless-Wizard** [+3]  *The Foundation**
+> **u/Wireless-Wizard** [+5]  *The Foundation* (2 days later)
 > 
 > >Hogwarts' reputation for student safety has remained the envy of Europe
-> Jesus Christ, what's the body count at Beuxbatons?
 > 
+> Jesus Christ, what's the body count at Beuxbatons?
 
->> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+>> **u/AugSphere** [+3]  *Dark Lord of Corruption* (2 days later)
 >> 
 >> To be fair, he's in the middle of a speech the main purpose of which is to create an impression that Pomfrey was very virtuous and important. He wouldn't be the most unbiased source for a student safety appraisal at the best of times, but during this particular speech he's even less likely to prioritise factual accuracy than usual.
->> 
 
->> **u/RobinDrew** [+1]  *Ravenclaw - (Author: HGPRE)**
+>> **u/RobinDrew** [+1]  *Ravenclaw - (Author: HGPRE)* (3 days later)
 >> 
 >> Circa 1991, Hogwarts' two in 50 years is pretty solid.  If you count physical safety, anyway, and not becoming-a-Dark-Lord, in which case there's another casualty. ;)
->> A lot of Beauxbatons' black marks might be experimental cosmetic Potion or Transfiguration mishaps.  Not everyone can be part-Veela, the pressure could be pretty intense.
->> Edit: Increased the total above, forgot I'd added poor Moira to that list.
 >> 
+>> A lot of Beauxbatons' black marks might be experimental cosmetic Potion or Transfiguration mishaps.  Not everyone can be part-Veela, the pressure could be pretty intense.
+>> 
+>> Edit: Increased the total above, forgot I'd added poor Moira to that list.
 
-> **u/RobinDrew** [+3]  *Ravenclaw - (Author: HGPRE)**
+> **u/RobinDrew** [+3]  *Ravenclaw - (Author: HGPRE)* (2 minutes later)
 > 
 > ArchiveofOurOwn mirror, for those who prefer it: http://archiveofourown.org/works/7441657/chapters/17033832
-> 
 
-> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)**
+> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)* (a minute later)
 > 
 > * Official Typo/Britpick Thread, if you are so inclined, helps if they're all in one place
-> 
 
->> **u/torac** [+2] *
+>> **u/torac** [+2]  (2 days later)
 >> 
 >> > which she suspect didn't even exist
->> suspected
->> >Try to go to bed early the first time you test it, so in case I've missed the dosage you don't end up missing classes?
->> It is phrased a bit awkwardly, as you are ending an imperative sentence with a question mark, which is something one does in actual speech, but I at least would refrain from in written speech. Also, you used both "missed" and "missing".
 >> 
+>> suspected
+>> 
+>> >Try to go to bed early the first time you test it, so in case I've missed the dosage you don't end up missing classes?
+>> 
+>> It is phrased a bit awkwardly, as you are ending an imperative sentence with a question mark, which is something one does in actual speech, but I at least would refrain from in written speech. Also, you used both "missed" and "missing".
 
->>> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)**
+>>> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)* (2 days later)
 >>> 
 >>> Gotcha on the first one, thanks!
->>> On the second - when I write dialogue (or internal monologue), I always write it as it sounds, which I think helps with voice and characterization.  I agree the sentence is a little clumsy - I did ponder for a while on how best to phrase "missed the dosage" - but in the end I left it...Nurse Wainscott has multiple excuses to be less polished in her delivery.  :)
 >>> 
+>>> On the second - when I write dialogue (or internal monologue), I always write it as it sounds, which I think helps with voice and characterization.  I agree the sentence is a little clumsy - I did ponder for a while on how best to phrase "missed the dosage" - but in the end I left it...Nurse Wainscott has multiple excuses to be less polished in her delivery.  :)
 
-> **u/HermioneGPEV** [+2] *
+> **u/HermioneGPEV** [+2]  (5 hours later)
 > 
 > > The line of reasoning so disturbed Hermione ~~sufficiently~~ that she abandoned the analysis and looked instead for alternative explanations.
-> 
 
->> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)**
+>> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)* (10 hours later)
 >> 
 >> Agh, good catch, thanks!
->> 
 
->>> **u/HermioneGPEV** [+2] *
+>>> **u/HermioneGPEV** [+2]  (15 hours later)
 >>> 
 >>> You're welcome! And thanks for correcting!
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (a day later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/HermioneGPEV** [+1] *
+>>>>> **u/HermioneGPEV** [+1]  (a day later)
 >>>>> 
 >>>>> Thanks!
->>>>> 
 
 ---
 

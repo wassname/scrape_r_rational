@@ -2,7 +2,7 @@
 
 * Author: u/lurinaa *
 * URL: https://www.reddit.com/r/rational/comments/nm3lpe/rtwip_the_flower_that_bloomed_nowhere_part_47_if/
-* Score: 49
+* Score: 50
 
 * Created: 2021-05-27T09:27:38
 
@@ -20,30 +20,37 @@ Thanks as always for reading!
 
 ### Comments:
 
-> **u/None** [+13] *
+> **u/None** [+13]  (8 hours later)
 > 
 > Definitely keep posting, this is why the sub exists. And it's pretty poor in content anyway :(
-> 
 
-> **u/Badewell** [+5] *
+> **u/Badewell** [+5]  (8 hours later)
 > 
 > Okay, so entropy. If we mosey on back to the summary we see:
-> > The curtain rises on this, mankind's final battle with entropy
-> So is that going to turn out to be much more literal than I originally thought? Maybe not Young Wizards style, where you blast a personification of entropy in the face with a spell. Or hell, maybe that literally, and the forces behind entropy are coming specifically to kill them?
-> Nef said that entropy isn't able to communicate or even recognize humans, but she could be wrong. Su mentions that when her grandfather died, she felt like something inhuman was trying to kill him. Could that be entropy taking out Su's grandfather to protect itself?
-> Or, even if the Order kept the secret perfectly, there's nothing that says someone else couldn't have figured it out. If a death cult had the same knowledge about entropy, then they also might know about the place the Order is in, and what they're trying to do there... which is probably trying to figure out a way to kill entropy.
-> I'm in the middle of a re-read keeping the latest information in mind... I may be reading too much into it but I'm becoming convinced that one of Kam's roles is being confidently incorrect about things in a way that will be funny later.
-> >"The whole thing was about a group called the ‘Order of the Universal Panacea’. Why would you come to an event like this if the concept of pursuing immortality makes you squeamish? What do they think ‘Universal Panacea’ even means?”
-> So "a cure for the universe" instead of "a universal cure for human mortality"? I guess this could be what the schism was about, those that wanted to go the whole hog and kill entropy, and those who were willing to settle for human immortality. 
-> ---
-> Bummer that Nef is dead, but it was telegraphed hard enough that it was expected. It seems counter-productive to put the body in such an obvious place though. If this is about protecting entropy, then why announce the murder like this? Is the culprit from the death cult and just wants them to suffer before they all die?
-> Then again, the reason they even know about entropy being conscious in the first place is because it would get bored and start doing other things. It could just be approaching murder the same way. Even if entropy is the direct culprit though, it's probably still working through agent we've already been introduced to, if only so that Utsu has a physical person to point to and accuse of being the culprit.
 > 
+> > The curtain rises on this, mankind's final battle with entropy
+> 
+> So is that going to turn out to be much more literal than I originally thought? Maybe not Young Wizards style, where you blast a personification of entropy in the face with a spell. Or hell, maybe that literally, and the forces behind entropy are coming specifically to kill them?
+> 
+> Nef said that entropy isn't able to communicate or even recognize humans, but she could be wrong. Su mentions that when her grandfather died, she felt like something inhuman was trying to kill him. Could that be entropy taking out Su's grandfather to protect itself?
+> 
+> Or, even if the Order kept the secret perfectly, there's nothing that says someone else couldn't have figured it out. If a death cult had the same knowledge about entropy, then they also might know about the place the Order is in, and what they're trying to do there... which is probably trying to figure out a way to kill entropy.
+> 
+> I'm in the middle of a re-read keeping the latest information in mind... I may be reading too much into it but I'm becoming convinced that one of Kam's roles is being confidently incorrect about things in a way that will be funny later.
+> 
+> >"The whole thing was about a group called the ‘Order of the Universal Panacea’. Why would you come to an event like this if the concept of pursuing immortality makes you squeamish? What do they think ‘Universal Panacea’ even means?”
+> 
+> So "a cure for the universe" instead of "a universal cure for human mortality"? I guess this could be what the schism was about, those that wanted to go the whole hog and kill entropy, and those who were willing to settle for human immortality. 
+> 
+> ---
+> 
+> Bummer that Nef is dead, but it was telegraphed hard enough that it was expected. It seems counter-productive to put the body in such an obvious place though. If this is about protecting entropy, then why announce the murder like this? Is the culprit from the death cult and just wants them to suffer before they all die?
+> 
+> Then again, the reason they even know about entropy being conscious in the first place is because it would get bored and start doing other things. It could just be approaching murder the same way. Even if entropy is the direct culprit though, it's probably still working through agent we've already been introduced to, if only so that Utsu has a physical person to point to and accuse of being the culprit.
 
-> **u/WalterTFD** [+3] *
+> **u/WalterTFD** [+3]  (12 hours later)
 > 
 > Big do-ings! Can't wait to dive back in.
-> 
 
 ---
 

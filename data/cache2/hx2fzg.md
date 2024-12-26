@@ -2,7 +2,7 @@
 
 * Author: u/IamJackFox *
 * URL: https://www.reddit.com/r/rational/comments/hx2fzg/carefully_chosen/
-* Score: 227
+* Score: 226
 
 * Created: 2020-07-24T14:10:37
 
@@ -100,158 +100,137 @@ Gods above, I loved my job.
 
 ### Comments:
 
-> **u/IamJackFox** [+57] *
+> **u/IamJackFox** [+52]  (a minute later)
 > 
 > This story was inspired by... nothing in particular, this time. I just wanted a break from working on my book.
-> 
 
->> **u/Sonderjye** [+10] *
+>> **u/Sonderjye** [+9]  (4 hours later)
 >> 
 >> Is any of your work per chance online? I really enjoyed this and would be interested in readin more.
->> 
 
->>> **u/IamJackFox** [+21] *
+>>> **u/IamJackFox** [+20]  (6 hours later)
 >>> 
 >>> I have [one](https://www.reddit.com/r/rational/comments/gr438d/wish_smarter_not_harder/) or [two](https://www.reddit.com/r/HFY/comments/dhqba8/pi_when_the_captain_saw_that_you_were_human_he/) other stories on reddit I've written in the last few months, but most of my other work is either not on the internet yet or old enough that it's comparatively pretty bad. Also a bit of [fanfiction](https://www.reddit.com/r/rational/comments/hvufmk/rt_ff_worth_the_candle_a_uniquities_meeting/), but that's already active in this subreddit.
->>> 
 
->>>> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor**
+>>>> **u/EliezerYudkowsky** [+8]  *Godric Gryffindor* (a day later)
 >>>> 
 >>>> Two was great
->>>> 
 
->>>>> **u/IamJackFox** [+9] *
+>>>>> **u/IamJackFox** [+9]  (2 days later)
 >>>>> 
 >>>>> HPMOR is part of what got me into writing when I was younger, so really you have yourself to thank.
->>>>> 
 
->>>>>> **u/wren42** [+7] *
+>>>>>> **u/wren42** [+7]  (2 days later)
 >>>>>> 
 >>>>>> "when I was younger"  jeez has it really been 10 years since hpmor started?
->>>>>> 
 
->>>> **u/Sonderjye** [+4] *
+>>>> **u/Sonderjye** [+4]  (10 hours later)
 >>>> 
 >>>> omfg. More please!
->>>> 
 
->>>> **u/thrawnca** [+3]  *Carbon-based biped**
+>>>> **u/thrawnca** [+3]  *Carbon-based biped* (2 days later)
 >>>> 
 >>>> Ah, I see that you are using Old Reddit.
->>>> Your second link doesn't work right on New Reddit because there's a space between the square and round brackets.
->>>> (Conversely, New Reddit is more forgiving about spaces in spoiler tags.)
 >>>> 
+>>>> Your second link doesn't work right on New Reddit because there's a space between the square and round brackets.
+>>>> 
+>>>> (Conversely, New Reddit is more forgiving about spaces in spoiler tags.)
 
->>>>> **u/IamJackFox** [+2] *
+>>>>> **u/IamJackFox** [+2]  (3 days later)
 >>>>> 
 >>>>> Fixed; thank you.
->>>>> 
 
->> **u/nosoupforyou** [+11] *
+>> **u/nosoupforyou** [+9]  (an hour later)
 >> 
 >> This is a story I want to read as a book.
->> 
 
->>> **u/Jello_Raptor** [+7]  *The Last Tool User**
+>>> **u/Jello_Raptor** [+7]  *The Last Tool User* (5 hours later)
 >>> 
 >>> I want to see this run as a rational quest, with the players controlling the new chosen one.
->>> 
 
->> **u/hoja_nasredin** [+3]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+3]  *Dai-Gurren Brigade* (20 hours later)
 >> 
 >> what book are you working on?
->> 
 
->>> **u/IamJackFox** [+7] *
+>>> **u/IamJackFox** [+7]  (a day later)
 >>> 
 >>> It's about a woman who finds out that magic is real, in our world, and decides that someone needs to start fixing things. Basically a rational approach to Tom Riddle's rise to power.
->>> 
 
->>>> **u/dinoseen** [+5] *
+>>>> **u/dinoseen** [+4]  (a day later)
 >>>> 
 >>>> Sounds great, good luck!
->>>> 
 
-> **u/Determinor** [+50] *
+> **u/Determinor** [+49]  (an hour later)
 > 
 > He smart smart enough to not fall for the clichés, but not enough to verify that the trusted lieutenant is actually a trusted lieutenant. The game was incredibly rigged anyway, poor guy never stood a chance.
-> 
 
->> **u/CouteauBleu** [+9]  *We are the Empire.**
+>> **u/CouteauBleu** [+10]  *We are the Empire.* (2 days later)
 >> 
 >> I was kind of wondering if there was going to be a twist like "Haha, when you sent me do that quest with the Wooden Elves, they actually gave me an amulet of crossbow immunity which I hid from everyone, just in case, and now I know everything!"
->> But that ending works too.
 >> 
+>> But that ending works too.
 
-> **u/BuccaneerRex** [+45] *
+> **u/BuccaneerRex** [+48]  (59 minutes later)
 > 
 > Fun. He was right, crossbow assassins are everywhere.
-> 
 
-> **u/adad64** [+32]  *Chaos Legion**
+> **u/adad64** [+32]  *Chaos Legion* (2 hours later)
 > 
 > The Sword of Not-So-Good
-> 
 
->> **u/IamJackFox** [+18] *
+>> **u/IamJackFox** [+19]  (2 hours later)
 >> 
 >> [I understood that reference.](https://yudkowsky.net/other/fiction/the-sword-of-good) Truly a great Yudkowsky story.
->> 
 
-> **u/ArgentStonecutter** [+14]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+15]  *Emergency Mustelid Hologram* (15 minutes later)
 > 
 > This is pretty amazing.
-> 
 
-> **u/Fredlage** [+7] *
+> **u/Fredlage** [+7]  (5 hours later)
 > 
 > > I pried the Blade of the Celestial Dawn from Patrick’s cooling fingers
-> I get the impression you mixed up the guy’s name here. Otherwise, pretty good story, congrats.
 > 
+> I get the impression you mixed up the guy’s name here. Otherwise, pretty good story, congrats.
 
->> **u/nohat** [+12] *
+>> **u/nohat** [+12]  (7 hours later)
 >> 
 >> He's done this so many times he forgets who the most recent chump is.
->> 
 
->>> **u/dinoseen** [+3] *
+>>> **u/dinoseen** [+6]  (a day later)
 >>> 
 >>> She*
->>> 
 
->>>> **u/googolplexbyte** [+2] *
+>>>> **u/googolplexbyte** [+2]  (6 days later)
 >>>> 
 >>>> *I
->>>> 
 
->> **u/IamJackFox** [+4] *
+>> **u/IamJackFox** [+5]  (6 hours later)
 >> 
 >> Good catch-- fixed.
->> 
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+6]  *We are the Empire.* (2 days later)
 > 
 > I immediately understood where this was going when the narration mentioned soldiers being crossbowed to death outside.
-> (the bit about Celia having a crossbow and also being the sword's keeper was kind of a dead giveaway too)
-> Great story!
 > 
+> (the bit about Celia having a crossbow and also being the sword's keeper was kind of a dead giveaway too)
+> 
+> Great story!
 
-> **u/hoja_nasredin** [+5]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+4]  *Dai-Gurren Brigade* (20 hours later)
 > 
 > This was actually good.
-> 
 
-> **u/MultipartiteMind** [+4] *
+> **u/MultipartiteMind** [+5]  (20 hours later)
 > 
 > I enjoyed this a lot!
-> 
 
-> **u/thrawnca** [+3]  *Carbon-based biped**
+> **u/thrawnca** [+3]  *Carbon-based biped* (a day later)
 > 
 > Typos:
-> at severed halves -> at the severed halves
-> frown at the maps -> Previously it referred to only one map.
 > 
+> at severed halves -> at the severed halves
+> 
+> frown at the maps -> Previously it referred to only one map.
 
 ---
 

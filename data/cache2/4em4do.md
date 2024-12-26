@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.fictionpress.com/s/3238329/70/A-Hero-s-War
-* Score: 14
+* Score: 16
 
 * Created: 2016-04-13T15:37:54
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.youtube.com/watch?v=aq6pGJbd6Iw
-* Score: 9
+* Score: 8
 
 * Created: 2014-08-16T21:03:30
 
@@ -12,80 +12,77 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+3]  (35 minutes later)
 > 
 > I'm not familiar with this game, aside from knowing that it's a Zelda game...how is it related to rationality or rational fiction?
-> 
 
->> **u/Nepene** [+5] *
+>> **u/Nepene** [+5]  (an hour later)
 >> 
 >> In your fiction the character uses the poorly written rules of wish to make a holy water cannon that kills hundreds of liches.
->> In this game the character uses the poorly written laws of physics to teleport through walls and go to places at incredibly quick speeds.
 >> 
+>> In this game the character uses the poorly written laws of physics to teleport through walls and go to places at incredibly quick speeds.
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (3 hours later)
 >>> 
 >>> Technically not Wish, just Create Water and Reduce Item. But, yes. 
->>> Poor physics exploits: nice. Fun when you can do that. I haven't played Morrowind, but I gather you can pull off a Singularity with infinite stat boosts. Sounds like the same kind of thing works here too.
 >>> 
+>>> Poor physics exploits: nice. Fun when you can do that. I haven't played Morrowind, but I gather you can pull off a Singularity with infinite stat boosts. Sounds like the same kind of thing works here too.
 
->>>> **u/Nepene** [+1] *
+>>>> **u/Nepene** [+1]  (5 hours later)
 >>>> 
 >>>> He used wish to create the magical item that did reducio so the water cannon was the direct result of the wish spell and the new spell created for it.
->>>> Yeah, make a potion of intellect, make a better potion of intellect, repeat.
->>>> I believe the fastest speedrun for Morrowind does something similar. There's a wizard who has a scroll to boost your jump to catastrophic levels (though no feather fall spell nearby). You grab that. You then use a weapon glitch where you switch weapons rapidly and the game gets confused and repeatedly applies the weapon's bonuses to you. You then jump to the final boss and kill them. A very quick infinite loop which wins the game in three minutes.
 >>>> 
+>>>> Yeah, make a potion of intellect, make a better potion of intellect, repeat.
+>>>> 
+>>>> I believe the fastest speedrun for Morrowind does something similar. There's a wizard who has a scroll to boost your jump to catastrophic levels (though no feather fall spell nearby). You grab that. You then use a weapon glitch where you switch weapons rapidly and the game gets confused and repeatedly applies the weapon's bonuses to you. You then jump to the final boss and kill them. A very quick infinite loop which wins the game in three minutes.
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (6 hours later)
 >>>>> 
 >>>>> > He used wish to create the magical item that did reducio so the water cannon was the direct result of the wish spell and the new spell created for it.
->>>>> Ah, good point.  Yep, you're right.
 >>>>> 
+>>>>> Ah, good point.  Yep, you're right.
 
->> **u/Anderkent** [+2] *
+>> **u/Anderkent** [+2]  (36 minutes later)
 >> 
 >> >[MK] Munchkinry
->> It's definitely munchkiny enough for me :P
 >> 
+>> It's definitely munchkiny enough for me :P
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (41 minutes later)
 >>> 
 >>> Heh, fair enough; I should have paid attention to the tag.  Better phrasing:  how is it munchkinly?  I know what a speed run is, but I don't want to watch someone else playing a video game for 18 minutes, especially since I don't know the game and therefore likely wouldn't notice the cool stuff anyway.  Can someone summarize what the munchkinry was?
->>> 
 
->>>> **u/Anderkent** [+2] *
+>>>> **u/Anderkent** [+2]  (57 minutes later)
 >>>> 
 >>>> In the video he actually describes what he does in pretty good detail! In general it's breaking the game by exploiting oversights to finish a 15 hour game in 18 minutes 10 seconds.
->>>> But I understand it might not be for everyone.
 >>>> 
+>>>> But I understand it might not be for everyone.
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (6 hours later)
 >>>>> 
 >>>>> I just went and watched it and yeah, that was cool.  I didn't know all the references, of course, but I got the sense of it and it was definitely impressive.  Very nice; thanks for posting this, einstein_throwaway
->>>>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (8 hours later)
 > 
 > I dug an old n64 out of the closet a while ago and am finally trying to beat this game (read: get past the first dungeon). Seeing something like this is kind of ridiculous when I'm struggling to to beat that stupid slingshot minigame.
-> I think it's neat to have an example of rationality that is about study and dedicated practice rather than smarts and talking.
 > 
+> I think it's neat to have an example of rationality that is about study and dedicated practice rather than smarts and talking.
 
-> **u/Saffrin-chan** [+2] *
+> **u/Saffrin-chan** [+2]  (a day later)
 > 
 > It's pretty amazing how much this run has changed over time. If anyone else is interested [here's](https://www.youtube.com/watch?v=0M7IINwTFVw&list=UUAhuwIvlcSpjlrJALruursQ) a version of the same  run just a year and a half earlier that Cosmo ran at a charity event.
-> 
 
-> **u/E-o_o-3** [+2] *
+> **u/E-o_o-3** [+2]  (5 days later)
 > 
 > This is amazing. 
-> Also a ripe thing to base a PeggySue!Link off of. Link the first couple of time loops,trying to be a hero the traditional way with his adventures and all manner of super swords. 
-> Link after hundreds and hundreds of time loops, pushing the physical boundaries of his universe in an attempt to find a way out of the endless, mind numbing loop. Link, who in his endless endeavor to escape his loop now understands his universe so well that he can defeat the villain in twenty minutes with a bottle, some worms, and a Deku stick.
 > 
+> Also a ripe thing to base a PeggySue!Link off of. Link the first couple of time loops,trying to be a hero the traditional way with his adventures and all manner of super swords. 
+> 
+> Link after hundreds and hundreds of time loops, pushing the physical boundaries of his universe in an attempt to find a way out of the endless, mind numbing loop. Link, who in his endless endeavor to escape his loop now understands his universe so well that he can defeat the villain in twenty minutes with a bottle, some worms, and a Deku stick.
 
-> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (19 hours later)
 > 
 > Definitely MK.
-> 
 
 ---
 

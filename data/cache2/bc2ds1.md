@@ -2,7 +2,7 @@
 
 * Author: u/swaskowi *
 * URL: https://www.reddit.com/r/slatestarcodex/comments/bbxs0h/a_supposal_the_healer/
-* Score: 23
+* Score: 26
 
 * Created: 2019-04-11T17:07:11
 
@@ -12,9 +12,10 @@
 
 ### Comments:
 
-> **u/Cuz_Im_TFK** [+39] *
+> **u/Cuz_Im_TFK** [+35]  (2 hours later)
 > 
 > This power (along with sufficiently advanced analysis devices) essentially gives you the ability to "diff" humans by checking what's different before and after a "healing". Imagine what we could learn by effectively using such a power:
+> 
 > * Brain scan before and after healing mental ailments: allows researchers to find the genetic, structural, or mechanistic underpinnings of those mental ailments which can lead to development of new treatments.
 >    * A brain before and after being cured of depression (or other mental ailments believed to be related to structural or chemical imbalance-related neurological problems within the brain) would provide far more precise information than comparing two *different* brains, one with depression and one without.
 >    * A detailed psychological profile of a person before and after being "perfectly healed" of PTSD (or other mental ailments believed to be purely or largely *psychological* rather than *neurological* in nature) would provide "perfect" examples of a re-adjusted person after overcoming psychological issues. It doesn't tell us how to achieve it, but knowing the start-point and end-point would be extremely valuable to developing therapy and treatment plans.
@@ -30,350 +31,375 @@
 >    * Try healing horrible criminals (especially sociopaths and other "criminally insane") and see what happens and what has changed in detail. - Were their dispositions curable? If so, then what's different before and after? Can this information be used in prevention or rehabilitation? Do we need to change our ethical positions based on the answers?
 > * I would predict quite a lot of "accidental discoveries" to come about just from healing a few people with each known disease, doing a detailed before-and-after comparison, and looking for commonalities. 
 >    * For example, maybe after healing 5 people with disease X, we find that every one of them had a detectable change in serum concentration of a certain protein, hormone, or prostaglandin that was never thought to be related previously. That would open up a new avenue of research.
+> 
 > It would also allow us to learn other things like:
+> 
 > * What happens to a human mind when it ages well past the original limits of the human body? What is a mind with 200 years worth of memories like? (Obviously a long-term project, but it would prepare us for dealing with the psychological effects of broadly-available life extension)
 > * Do people in various types of vegetative states have any conscious awareness? Just wake them up and ask them! If so, we may need to change our policies on long-term life-support for people in these conditions.
 > * What happens when we "heal" people with savant's syndrome? Do they lose their abilities? If so, what changed in their brain? If not, did any of the downsides of savant's syndrome disappear? What changed in the brain to make the mental superpowers available without the side-effects? Can it be reproduced or does it teach us anything new about the brain?
-> &#x200B;
-> This was a fun thought experiment.
 > 
+> &#x200B;
+> 
+> This was a fun thought experiment.
 
->> **u/vallar57** [+15]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+13]  *Unseen University: Faculty of High-Energy Magic* (5 hours later)
 >> 
 >> Add to the list healing trans people. Would their mind or body adjust?
->> 
 
->>> **u/Cuz_Im_TFK** [+9] *
+>>> **u/Cuz_Im_TFK** [+10]  (9 hours later)
 >>> 
 >>> Oh, that's a good one! 
->>> Especially because it would help you learn more about how the power works and where it's drawing its definitions of "healed" and "defective" from. 
->>> I'm sure there are probably more creative tests that could be run to better figure out the rules (for munchkin purposes of course).
 >>> 
+>>> Especially because it would help you learn more about how the power works and where it's drawing its definitions of "healed" and "defective" from. 
+>>> 
+>>> I'm sure there are probably more creative tests that could be run to better figure out the rules (for munchkin purposes of course).
 
->>> **u/Kuratius** [+8] *
+>>> **u/Kuratius** [+7]  (9 hours later)
 >>> 
 >>> I'd say their mind. Dysphoria requires conscious thought.
 >>> If their body shifted, it would indicate that the power somehow queries you yourself for what you consider your ideal state. Next thing you know you "heal" someone whose ideal state (in their mind) is a monster. Or you can use it to shapeshift, if you figure out a way to trigger dysphoria artificially.
->>> Funny thing, in general it's not actually clear if healing someone without their consent is actually moral due to how the power works.
->>> In general you need a better definition of sickness to make sense of it, and you need to know which definition the "power" is using.
 >>> 
+>>> Funny thing, in general it's not actually clear if healing someone without their consent is actually moral due to how the power works.
+>>> 
+>>> In general you need a better definition of sickness to make sense of it, and you need to know which definition the "power" is using.
 
->>> **u/Sonderjye** [+5] *
+>>> **u/Sonderjye** [+6]  (a day later)
 >>> 
 >>> This relies on the notion that transness is a disease which, aside from being medically inaccurate, is part of an attitude that literally kill people. I'm down for having no sacred cows but we should keep that in mind when having these kinds of discussions.
->>> As to the actual question it depends on what the power recognizes as what 'healing' consitutes. Does it have a uniform idealized version that it returns everyone to? Does it depend on the mental idea of 'healing' of the healed, of the healer, of the average of a demographic of the population, or some idea independent of humanity?
->>> In the first case I would expect the body, though as /u/Kuratius points out this would also mean that a small fraction of people would gain inhuman bodies. In the second case it would depend on the healers attitude. 
->>> I find the third case to be particularly interesting since for many people the gender that they ascribe to other people are based on appearance and if you have been on any dating app you'll know that appearances doesn't necessarily match gender. So in this case I would predict that if someone dressed up(including appropriate clothing, makeup, whatnot) then they would get the body of the gender they were presenting as. However in the case of someone not presenting as within the gender binary I would predict their mind to change, which I know for some people counts as being killed and replaced with someone else.
 >>> 
+>>> As to the actual question it depends on what the power recognizes as what 'healing' consitutes. Does it have a uniform idealized version that it returns everyone to? Does it depend on the mental idea of 'healing' of the healed, of the healer, of the average of a demographic of the population, or some idea independent of humanity?
+>>> 
+>>> In the first case I would expect the body, though as /u/Kuratius points out this would also mean that a small fraction of people would gain inhuman bodies. In the second case it would depend on the healers attitude. 
+>>> 
+>>> I find the third case to be particularly interesting since for many people the gender that they ascribe to other people are based on appearance and if you have been on any dating app you'll know that appearances doesn't necessarily match gender. So in this case I would predict that if someone dressed up(including appropriate clothing, makeup, whatnot) then they would get the body of the gender they were presenting as. However in the case of someone not presenting as within the gender binary I would predict their mind to change, which I know for some people counts as being killed and replaced with someone else.
 
->>>> **u/FriendlyAnnatar** [+3]  *The Greater Good**
+>>>> **u/FriendlyAnnatar** [+3]  *The Greater Good* (a day later)
 >>>> 
 >>>> Since you seem to have a strong opinion on the topic, how does being transgender differ from normal body dysmorphic disorders? For example, compared to people who are convinced their limb doesn't belong to their body, which seems superficially similar.
->>>> 
 
->>>>> **u/Calsem** [+1] *
+>>>>> **u/Calsem** [+1]  (3 days later)
 >>>>> 
 >>>>> limbs don't belong to their body = obviously wrong. Their limbs *do* belong to their body. And it's just kind of silly. 
->>>>> Although.... I guess you could technically say that about trans people too, although personally I would disagree and say they are two very different cases.  
->>>>> But I'm presuming the power would work in the way that most benefitted the person, so with a trans person it would change their body (as they would feel mentally violated if their mind changed) and for a person who feels the limb doesn't belong to them it would change their mind (as their limb is useful and they need it)
 >>>>> 
+>>>>> Although.... I guess you could technically say that about trans people too, although personally I would disagree and say they are two very different cases.  
+>>>>> 
+>>>>> But I'm presuming the power would work in the way that most benefitted the person, so with a trans person it would change their body (as they would feel mentally violated if their mind changed) and for a person who feels the limb doesn't belong to them it would change their mind (as their limb is useful and they need it)
 
->>>>>> **u/cae_jones** [+2] *
+>>>>>> **u/cae_jones** [+2]  (5 days later)
 >>>>>> 
 >>>>>> I feel like saying one kind of dysfphoria is silly and the other ought to be validated, without very clear criteria, is dangerous. Where does someone who seeks castration because they don't like intrusive sexual urges fall between transgender and limb dysmorphia?
->>>>>> And I suppose, to bring it back to the topic, how does the healing ability get its answer to this question? What's the difference between healing and improving-based-on-personal-preferences?
 >>>>>> 
+>>>>>> And I suppose, to bring it back to the topic, how does the healing ability get its answer to this question? What's the difference between healing and improving-based-on-personal-preferences?
 
->>>>>>> **u/Calsem** [+1] *
+>>>>>>> **u/Calsem** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> > I feel like saying one kind of dysfphoria is silly and the other ought to be validated, without very clear criteria, is dangerous.
->>>>>>> I agree with that. That's why I said the following:
->>>>>>> > Although.... I guess you could technically say that about trans people too, although personally I would disagree and say they are two very different cases.
->>>>>>> ---
->>>>>>> > And I suppose, to bring it back to the topic, how does the healing ability get its answer to this question? What's the difference between healing and improving-based-on-personal-preferences?
-
->>>>>>> _magic_ ~~~⭐.  But seriously, magic.
 >>>>>>> 
+>>>>>>> I agree with that. That's why I said the following:
+>>>>>>> 
+>>>>>>> > Although.... I guess you could technically say that about trans people too, although personally I would disagree and say they are two very different cases.
+>>>>>>> 
+>>>>>>> ---
+>>>>>>> 
+>>>>>>> > And I suppose, to bring it back to the topic, how does the healing ability get its answer to this question? What's the difference between healing and improving-based-on-personal-preferences?
+>>>>>>> 
+>>>>>>> _magic_ ~~~⭐.  But seriously, magic.
 
->>>> **u/Kuratius** [+3] *
+>>>> **u/Kuratius** [+0]  (a day later)
 >>>> 
 >>>> > This relies on the notion that transness is a disease which, aside from being medically inaccurate, is part of an attitude that literally kill people. I'm down for having no sacred cows but we should keep that in mind when having these kinds of discussions.
-
->>>> I don't think you're appealing to logic when you say that it "literally kills people". It's more accurate to say that it leads people to kill themselves.  This is an example of https://en.wikipedia.org/wiki/Appeal_to_emotion , I think.
 >>>> 
+>>>> I don't think you're appealing to logic when you say that it "literally kills people". It's more accurate to say that it leads people to kill themselves.  This is an example of https://en.wikipedia.org/wiki/Appeal_to_emotion , I think.
 
->>>>> **u/Sonderjye** [+2] *
+>>>>> **u/Sonderjye** [+2]  (a day later)
 >>>>> 
 >>>>> I'm a little confused to this comment. It seems that you are formally disputing my choice of words as a way of diminishing the severity of the people dying. That seems interesting as you are doing the same in your choice of words 'leads people to kill themselves' rather than 'leads people to mistreat trans people to the degree that they'd rather die than continue the torment', thus implicitly putting the responsibility of the people who commit suicide and absolving guilt for people with said attitude.
->>>>> That said I'm down for debating linguistics. Are you claiming that the phrasing 'attitude literally kills people' is incorrect because there are intermediary steps?
 >>>>> 
+>>>>> That said I'm down for debating linguistics. Are you claiming that the phrasing 'attitude literally kills people' is incorrect because there are intermediary steps?
 
->>>>>> **u/Kuratius** [+0] *
+>>>>>> **u/Kuratius** [+0]  (a day later)
 >>>>>> 
 >>>>>> A causal relationship isn't the same as fault.
 >>>>>> E.g. butterfly effect.
 >>>>>> It's not reasonable to expect people to kill themselves over what someone else thinks.
 >>>>>> For all you know, they might not be wrong. And if they're not wrong, then what? You want to use mind control as a moral alternative over people dying?
+>>>>>> 
 >>>>>> Edit: Also, thinking isn't the same thing as mistreatment.
 >>>>>> Yes there are people that will do that, but there's no law that says you have to physically torture a trans person just cause currently existing medical treatments don't allow them to fit your definition of male or female. Saying that it literally kills them to think a certain way is manipulative.
->>>>>> 
 
->>>>>>> **u/Sonderjye** [+2] *
+>>>>>>> **u/Sonderjye** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Thank you for engaging in debate with me. I would appreciate it if my questions were address in a direct matter.
->>>>>>> >It's not reasonable to expect people to kill themselves over what someone else thinks.
->>>>>>> Are you arguing that people's thought patterns and attitudes towards groups doesn't cause action? If not I'm misunderstanding this statement. If so then I don't know what you think causes actions. Nobody is saying people kill themselves because someone is sitting isolated with hypothetical thoughts. Treating transness as a disease is part of an attitude that makes people mistreat trans people to the degree that they can't stand living, and that isn't the fault of the mistreaters.
->>>>>>> >For all you know, they might not be wrong. And if they're not wrong, then what? You want to use mind control as a moral alternative over people dying?
->>>>>>> Mind rephrasing this? I don't really get the point that you are making. Who's wrong? Wrong about what? Mind control?
 >>>>>>> 
+>>>>>>> >It's not reasonable to expect people to kill themselves over what someone else thinks.
+>>>>>>> 
+>>>>>>> Are you arguing that people's thought patterns and attitudes towards groups doesn't cause action? If not I'm misunderstanding this statement. If so then I don't know what you think causes actions. Nobody is saying people kill themselves because someone is sitting isolated with hypothetical thoughts. Treating transness as a disease is part of an attitude that makes people mistreat trans people to the degree that they can't stand living, and that isn't the fault of the mistreaters.
+>>>>>>> 
+>>>>>>> >For all you know, they might not be wrong. And if they're not wrong, then what? You want to use mind control as a moral alternative over people dying?
+>>>>>>> 
+>>>>>>> Mind rephrasing this? I don't really get the point that you are making. Who's wrong? Wrong about what? Mind control?
 
->>>>>>>> **u/Kuratius** [+0] *
+>>>>>>>> **u/Kuratius** [+0]  (a day later)
 >>>>>>>> 
 >>>>>>>> Should be a little more coherent.
->>>>>>>> https://atlas.mindmup.com/2019/04/db31a4805e0211e98c19d597cc6bca37/is_being_trans_a_disease_or_illness_/index.html
 >>>>>>>> 
+>>>>>>>> https://atlas.mindmup.com/2019/04/db31a4805e0211e98c19d597cc6bca37/is_being_trans_a_disease_or_illness_/index.html
 
->>>>>>>>> **u/Sonderjye** [+1] *
+>>>>>>>>> **u/Sonderjye** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> While I do appreciate the coherency, the only box that is related to our conversation here is your dislike for what you call emotional manipulation. In all debates people chose words that makes their case seem favourable(i.e. there's nobody who claim that they are anti-life or anti-choice because 'pro' have positive connotations), and I haven't disputed the claim that my wording was deliberately chosen to underline the severity. If we call that emotional manipulation then I've pointed out how your phrasing also is emotionally manipulative and you have yet to really address that claim, including ignoring the bulk of my last post.
->>>>>>>>> 
 
->>> **u/eroticas** [+1] *
+>>> **u/eroticas** [+1]  (3 days later)
 >>> 
 >>> They would stay as they are, but the negative bodily impacts of the stress they have been through due to dysphoria or other reasons up until the healing would go away.
->>> 
 
->> **u/RetardedWabbit** [+3] *
+>> **u/RetardedWabbit** [+3]  (4 hours later)
 >> 
 >> Worst case scenario: It's magical enough it allows little to no research. It could just magically produce and enforce a healthy phenotype, making healthy enzymes, cells and etc. spontaneously form while harmful ones disappear for example. It doesn't change your DNA, or any indirect biomarkers we can measure it just magically makes it happen. Imagine it healing heart attack damage just by making new heart cells replace the scar tissue with no observable cause for example, it's a cure but doesn't tell us how to replicate it.
->> This could still be used for a bit of research though, purposely causing damage and studying the effects without killing anyone like you said. Non-manmade would be less useful for research than most people would expect since it heals everything all at once, confounding causes, effects, and correlations to diseases. It would be the equivalent of trying to study a car by having every part replaced at once whenever one thing stops working. Engine running rough? New engine. Alzheimer's? New 21 year old brain.
 >> 
+>> This could still be used for a bit of research though, purposely causing damage and studying the effects without killing anyone like you said. Non-manmade would be less useful for research than most people would expect since it heals everything all at once, confounding causes, effects, and correlations to diseases. It would be the equivalent of trying to study a car by having every part replaced at once whenever one thing stops working. Engine running rough? New engine. Alzheimer's? New 21 year old brain.
 
->>> **u/Cuz_Im_TFK** [+5] *
+>>> **u/Cuz_Im_TFK** [+7]  (5 hours later)
 >>> 
 >>> So you're treating it as a magical healing/regeneration of obviously damaged parts + the implanting of a magical regulator/omni-organ to fix/maintain health going forward? That would indeed make many of my ideas not work, but it feels like a much stronger superpower than the one my post was based on.
->>> My post allows the "healing" to be as magical as it wants to be, as long as the end result of the healing is no longer inherently magical and is the result of fixing the "problems" with the current body so that it can continue functioning normally as a body. Those are the only constraints that I was working with.
 >>> 
+>>> My post allows the "healing" to be as magical as it wants to be, as long as the end result of the healing is no longer inherently magical and is the result of fixing the "problems" with the current body so that it can continue functioning normally as a body. Those are the only constraints that I was working with.
 
->>>> **u/RetardedWabbit** [+2] *
+>>>> **u/RetardedWabbit** [+2]  (a day later)
 >>>> 
 >>>> I'm proposing that a ongoing magical healing/regeneration effect is a possible mechanism that prevents most research. Given that it keeps them 21 and perfectly healthy apparently permanently some ongoing effect is confirmed.
->>>> I think your constraint is larger than you think: any steps that are magically enforced prevents study of any steps before it. We don't really need to study the end results so that's the worse case scenario, we pretty well know what we want just not how to take it happen and this magic wouldn't help us study that. Any steps the magic doesn't physically change we won't be able to study, and I'm just saying that allows for healing magic that doesn't help research.
->>>>  The best case scenario is that the magic is acts in one shot: it acts to create a human body that doesn't require further magic to remain 21, healthy, and obeys physics. This could be with massive DNA rewriting to code for a robust, redundant, and healthy body along with some magic to make that express itself immediately after taking effect. This would be hugely useful for research since all we would need to do is to apply that DNA rewriting non magically to help more people.
 >>>> 
+>>>> I think your constraint is larger than you think: any steps that are magically enforced prevents study of any steps before it. We don't really need to study the end results so that's the worse case scenario, we pretty well know what we want just not how to take it happen and this magic wouldn't help us study that. Any steps the magic doesn't physically change we won't be able to study, and I'm just saying that allows for healing magic that doesn't help research.
+>>>> 
+>>>>  The best case scenario is that the magic is acts in one shot: it acts to create a human body that doesn't require further magic to remain 21, healthy, and obeys physics. This could be with massive DNA rewriting to code for a robust, redundant, and healthy body along with some magic to make that express itself immediately after taking effect. This would be hugely useful for research since all we would need to do is to apply that DNA rewriting non magically to help more people.
 
->>>>> **u/Cuz_Im_TFK** [+1] *
+>>>>> **u/Cuz_Im_TFK** [+1]  (2 days later)
 >>>>> 
 >>>>> That's true. So assuming no ongoing magical effects after healing, I guess there are two major uncertain factors left that would determine what kind of research benefit we could gain:
+>>>>> 
 >>>>> 1. how "smart" (or personalized) the healing is
 >>>>> 2. "how far" the healing takes things with regards to ensuring future health
+>>>>> 
 >>>>> My original post is reasonable under the assumptions of: 
+>>>>> 
 >>>>> * "smart" – working incrementally based on the original body and DNA in a personalized manner rather than enforcing a universal prototype
 >>>>> * and "not too far" – only changing things that will *definitely* or *with high likelihood* cause problems we would recognize as "diseases" or "abnormal conditions" within the remaining 60-80 years of life for that person.
+>>>>> 
 >>>>> If "not smart": then depending on "how far", the end result would land somewhere on the spectrum between:
+>>>>> 
 >>>>> * "Way too far" – Something so heavily altered/hacked that they're no longer recognizably human, genetically, even if the super-DNA is still somehow reproductively compatible with normal humans
 >>>>>    * I'm imagining something like "using a modern laptop and some clever code to simulate an old card-punch computer". It would never get stuck and would work more perfectly than any real physical card-punch computer ever, but card-punch computer operators would have no chance of understanding what's actually going on just by opening it up and looking inside. Using "higher-dimensional super-DNA" like this would allow any amount of phenotypic diversity without any related health risks, since it's all "simulated" and any number of safeguards could be built in, but this tends toward "magic" as complexity approaches infinity. This would probably be the worst case scenario for extending the effects of the magic healing beyond 100/day within any reasonable length of time, but it would (or at least *could*) remove worries about healed people being essentially identical.
 >>>>> * "Not too far" – Beings that are obviously human genetically, but that are genetically identical on every factor except those magically determined to be "purely cosmetic or arbitrary genetic variables", where the healed patients basically just have a large portion of their DNA overwritten by the "standard healthy person DNA prototype"
 >>>>>    * Exactly how far this would push people toward being essentially carbon copies of one another is dependent on where the magic draws the line between "harmless diversity" and "potentially harmful traits". For example, blue eyed people have a higher susceptibility to certain ocular ailments that brown-eyed people don't. Would a healed patient with blue eyes have their eye color changed or not? If most things are treated as harmless diversity, then there's less "noise" so it would be easier to study the end result. If most things are treated as "potentially harmful", then almost all diversity would be lost and the only thing we'd gain would be essentially one example of a "perfectly healthy human" and their DNA, which would still be useful, but wouldn't allow us to abuse the healing to study individual ailments like in my original post.
->>>>> The last box of the table is \["smart" and "too far"\], but I don't think that box differs much from \["not smart" and "too far"\]. Once the modifications are taken too far, I don't think it really matters whether the process was personalized and incremental or not. I guess you might get a bit more variability in the final results which might make it slightly easier to study way in the future, but it wouldn't be a meaningful difference in the short-term.
 >>>>> 
+>>>>> The last box of the table is \["smart" and "too far"\], but I don't think that box differs much from \["not smart" and "too far"\]. Once the modifications are taken too far, I don't think it really matters whether the process was personalized and incremental or not. I guess you might get a bit more variability in the final results which might make it slightly easier to study way in the future, but it wouldn't be a meaningful difference in the short-term.
 
-> **u/Chronophilia** [+18]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+17]  *sci-fi ≠ futurology* (2 hours later)
 > 
 > Imagine yourself in the shoes of a billionaire for a moment - one of the world's thousand richest men, who can buy anything that is for sale. You have a mansion on every continent and more private jets than you know what to do with. You can make or ruin a life on a whim. Laws are things that your lobbyists rewrite for you.
-> But you'll still die. Soon. No power known to medicine can keep anyone alive long into their second century. Your life's probably been stressful too, so you'll be lucky to make it past 80. You have everything else you could want, but there is absolutely nothing you can do to stop a brain tumour.
-> Until now.
-> On the one hand, each person only needs five minutes. Some of them will be reasonable. They can pay for preferential treatment, if that's an option. If there's a lottery, surely some winners will agree to sell their tickets.
-> But the richest, most powerful, oldest and most desperate men in the world... didn't all get that way by asking politely. Somebody will try to kidnap her, to keep her for himself and his family. Somebody else will stop the kidnapping, or try to take her back.
-> The military will intervene to ensure her safety. Another country's military will intervene because they can do a better job. War will break out.
-> A plane that was carrying her to a secure location will be shot down and crash into the ocean. Perhaps she survived - her power works on herself, doesn't it? Surely it does. Everyone wants to believe that she's OK, that she somehow survived the impact for long enough to heal herself, that she swam to safety, that the corpse eventually recovered was somehow faked. They'll hope she's gone into hiding. Perhaps they'll even be right.
-> In grand total, less than 50,000 people will be healed - by the draw of the lottery, by coercion and force, by lucky circumstances that put her near them for long enough. Some of them will become minor celebrities. Scientists will try to recreate the Healer; snake oil salesmen will spring up like mushrooms. It will be remembered as the greatest humanitarian failure of all time.
 > 
+> But you'll still die. Soon. No power known to medicine can keep anyone alive long into their second century. Your life's probably been stressful too, so you'll be lucky to make it past 80. You have everything else you could want, but there is absolutely nothing you can do to stop a brain tumour.
+> 
+> Until now.
+> 
+> On the one hand, each person only needs five minutes. Some of them will be reasonable. They can pay for preferential treatment, if that's an option. If there's a lottery, surely some winners will agree to sell their tickets.
+> 
+> But the richest, most powerful, oldest and most desperate men in the world... didn't all get that way by asking politely. Somebody will try to kidnap her, to keep her for himself and his family. Somebody else will stop the kidnapping, or try to take her back.
+> 
+> The military will intervene to ensure her safety. Another country's military will intervene because they can do a better job. War will break out.
+> 
+> A plane that was carrying her to a secure location will be shot down and crash into the ocean. Perhaps she survived - her power works on herself, doesn't it? Surely it does. Everyone wants to believe that she's OK, that she somehow survived the impact for long enough to heal herself, that she swam to safety, that the corpse eventually recovered was somehow faked. They'll hope she's gone into hiding. Perhaps they'll even be right.
+> 
+> In grand total, less than 50,000 people will be healed - by the draw of the lottery, by coercion and force, by lucky circumstances that put her near them for long enough. Some of them will become minor celebrities. Scientists will try to recreate the Healer; snake oil salesmen will spring up like mushrooms. It will be remembered as the greatest humanitarian failure of all time.
 
->> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler* (7 hours later)
 >> 
 >> I apparently replied to the wrong comment. I meant [this comment](https://www.reddit.com/r/rational/comments/bc2ds1/a_supposal_the_healer/eko97bb?utm_source=share&utm_medium=web2x) to reply this.
->> 
 
-> **u/vallar57** [+10]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+10]  *Unseen University: Faculty of High-Energy Magic* (24 minutes later)
 > 
 > The cheesy advice would be to focus on researching how exactly the power works and trying to replicate it with classic science. No healing she could do herself would be ever comparable to the good coming from even partially successful research.
-> Even if the process itself is impossible to replicate the science can still, potentially, benefit greatly from studying the effects.
-> If, however, she has a good reason to believe that the healing is truly miraclous in nature and no research would ever produce any results - then it's a question of ethitcs, not rationality. Utilitarianist, pragmatist, deontologist - they would all have different answers.
-> I'm purposefully leaving out other factors, like governmental and criminal response to the discovery of a real-life superpower. The answer "keep your power hidden if you don't want to be abducted and enslaved" is too boring, even if likely correct.
 > 
+> Even if the process itself is impossible to replicate the science can still, potentially, benefit greatly from studying the effects.
+> 
+> If, however, she has a good reason to believe that the healing is truly miraclous in nature and no research would ever produce any results - then it's a question of ethitcs, not rationality. Utilitarianist, pragmatist, deontologist - they would all have different answers.
+> 
+> I'm purposefully leaving out other factors, like governmental and criminal response to the discovery of a real-life superpower. The answer "keep your power hidden if you don't want to be abducted and enslaved" is too boring, even if likely correct.
 
-> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor* (2 days later)
 > 
 > The correct yet boring galaxy-brain answer: an apparent exception to the laws of the universe is much more important then anything that can be done with the particular ability. Research, research, research.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> [removed]
->> 
 
->>> **u/Reactionaryhistorian** [+6] *
+>>> **u/Reactionaryhistorian** [+5]  (3 days later)
 >>> 
 >>> Apparent exception. Smaller than planck scale nanobots manipulable by human beings would be an incredible discovery.
->>> 
 
-> **u/narfanator** [+7] *
+> **u/narfanator** [+7]  (an hour later)
 > 
 > Hm. Given the top-level prompt - "predicts traffic jams not just cars" - I'd say this is how a world-wide religion gets started.
-> 
 
->> **u/randomkloud** [+2] *
+>> **u/randomkloud** [+2]  (a day later)
 >> 
 >> or prematurely ended by ones already established
->> 
 
-> **u/Arganthonius** [+12] *
+> **u/Arganthonius** [+12]  (53 minutes later)
 > 
 > Heal the rich, in exchange for massive payments of money used to help the poor, if I'm trying to maximize philanthropy. Any free seats are used to heal those closest to death, once we hit the point where money is not the limiting factor.
-> Alternatively, heal those closest to death first. 
-> It takes too much time to actually obtain the information to judge who is most "worthy" of life. Also, mild biases can result in massive damage.
 > 
+> Alternatively, heal those closest to death first. 
+> 
+> It takes too much time to actually obtain the information to judge who is most "worthy" of life. Also, mild biases can result in massive damage.
 
->> **u/hallo_friendos** [+1] *
+>> **u/hallo_friendos** [+1]  (8 hours later)
 >> 
 >> Also use the money to hire personal security. Having an ever growing number of people outside her house wailing all night and pounding on her door can't be a good long-term strategy.
->> 
 
->>> **u/Calsem** [+1] *
+>>> **u/Calsem** [+1]  (3 days later)
 >>> 
 >>> She's a national resource. The government would presumably give her security.
->>> 
 
-> **u/None** [+5] *
+> **u/None** [+4]  (2 hours later)
 > 
 > Priority advice would be to move somewhere safe, from which she could still work effectively. In situations like this, there is probably, almost definitely going to be someone crazy/extreme enough to try and kill her. That, in my opinion, is the true traffic jam; not that deciding who to heal is hard, but that not everyone is going to react to a messiah healing figure (or, more likely, being rejected for healing by a messiah healing figure) positively. 
-> If she can only heal 100 people in day anyways, and each healing only takes 5 minutes, than there is plenty of time to properly vet and check every patient for ill intent. The most pressing priority isn't figuring out how to use new Jesus most effectively; it's making sure this savior doesn't end up nailed to a cross like the last one.
 > 
+> If she can only heal 100 people in day anyways, and each healing only takes 5 minutes, than there is plenty of time to properly vet and check every patient for ill intent. The most pressing priority isn't figuring out how to use new Jesus most effectively; it's making sure this savior doesn't end up nailed to a cross like the last one.
 
->> **u/Calsem** [+1] *
+>> **u/Calsem** [+1]  (3 days later)
 >> 
 >> bulletproof glass + TSA metal/bomb detectors would do a pretty good job at stopping anyone who wants to kill her.  And if her patients are randomly chosen out of the worldwide population (as would be ncessary to avoid hellishly long lines and rich paying their way to front) the chance of picking a crazy person would be quite small.
->> 
 
-> **u/DoraTrix** [+4] *
+> **u/DoraTrix** [+4]  (4 hours later)
 > 
 > Suggest she prioritize people holding public offices, in descending order of number of constitutents.  *Guaranteeing* that all world governments are run by people who are mentally well I suspect would produce a far more massive positive effect on humanity than the rest of the 100 people per day.
-> Side-effect: A lot of the people she treats get out of government, because they were only there due to personality disorders, and it takes longer than you'd expect to actually stabilize with people who are mentally healthy and still want to do the job.
 > 
+> Side-effect: A lot of the people she treats get out of government, because they were only there due to personality disorders, and it takes longer than you'd expect to actually stabilize with people who are mentally healthy and still want to do the job.
 
->> **u/Argenteus_CG** [+2] *
+>> **u/Argenteus_CG** [+2]  (21 hours later)
 >> 
 >> Alternatively, selectively heal only politicians who make certain policy decisions you support, in order to incentivize all but the most principled-yet-wrong politicians to do what you want in the name of self-preservation. You might not be able to get everyone converted over to full socialism right away, but smaller-yet-vital changes like campaign finance reform, universal healthcare and drug legalization should be possible.
->> 
 
-> **u/gryfft** [+5] *
+> **u/gryfft** [+4]  (9 hours later)
 > 
 > I haven't seen anybody mention the fact that this superpower makes cryogenics *massively* easier. All those desperate people just need to be frozen solid, and she can work through that backlog whenever she gets time. (In order to prevent this from leading to a population explosion, a prerequisite for this procedure might be an agreement to undergo sterilization immediately afterwards.)
-> This service could be divided up so that perhaps she heals 25 charity cases a day-- thaw, heal, repeat, first-come-first-served-- 25 research cases like /u/Cuz_Im_TFK mentioned (whose ticket is paid by agreement to undergo some dangerous or lethal medical research), 25 participants to be selected by lottery daily, and 25 patients who are either personally selected by the healer or who agree to pay, say, ten million dollars (enough for her to live extremely comfortably and more than enough funding for the massive cryogenics facility and attendant medical personnel.)
-> The cryogenics option works even better if neuropreservation is sufficient for her healing process to do its thing. Just a huge warehouse of frozen heads, we'll get to them when we get to them-- the majority might even be revived by the medical technology gleaned from the research study participants.
 > 
+> This service could be divided up so that perhaps she heals 25 charity cases a day-- thaw, heal, repeat, first-come-first-served-- 25 research cases like /u/Cuz_Im_TFK mentioned (whose ticket is paid by agreement to undergo some dangerous or lethal medical research), 25 participants to be selected by lottery daily, and 25 patients who are either personally selected by the healer or who agree to pay, say, ten million dollars (enough for her to live extremely comfortably and more than enough funding for the massive cryogenics facility and attendant medical personnel.)
+> 
+> The cryogenics option works even better if neuropreservation is sufficient for her healing process to do its thing. Just a huge warehouse of frozen heads, we'll get to them when we get to them-- the majority might even be revived by the medical technology gleaned from the research study participants.
 
->> **u/Argenteus_CG** [+4] *
+>> **u/Argenteus_CG** [+5]  (21 hours later)
 >> 
 >> It's unclear if that'd even work though. Who can she bring back? I'm assuming she could save someone who's heart had recently stopped, but would cryonics work? If cryonics would work, why wouldn't some random skeleton you found buried in a graveyard? The loss of information that cryonics normally prevents clearly isn't an issue here if she can completely cure alzheimer's.
->> If she CAN bring back the dead, it seems like an immediate priority should be bringing back some of the great scientists and engineers.
->> If her power works on herself, it seems like her best option is to stay in hiding, bringing back scientists and engineers along with their loved ones in an effort to accelerate research into FAI or other means of immortality and health, along with working behind the scenes to ensure as many bodies as possible have well-recorded locations (this shouldn't be that hard; even in hiding, when Alan Turing and Einstein come back the benefits to doing so should be clear), so that she can work through the backlog and eventually bring as many people as possible back.
 >> 
+>> If she CAN bring back the dead, it seems like an immediate priority should be bringing back some of the great scientists and engineers.
+>> 
+>> If her power works on herself, it seems like her best option is to stay in hiding, bringing back scientists and engineers along with their loved ones in an effort to accelerate research into FAI or other means of immortality and health, along with working behind the scenes to ensure as many bodies as possible have well-recorded locations (this shouldn't be that hard; even in hiding, when Alan Turing and Einstein come back the benefits to doing so should be clear), so that she can work through the backlog and eventually bring as many people as possible back.
 
->> **u/Hidden-50** [+1] *
+>> **u/Hidden-50** [+1]  (2 days later)
 >> 
 >> > sterilization
->> I imagine people would just have their children before the procedure, but still have the same number.
->> If life expectancy goes up by a factor and the average number of children per person does not change, long term world population should also multiply by that factor.
 >> 
+>> I imagine people would just have their children before the procedure, but still have the same number.
+>> 
+>> If life expectancy goes up by a factor and the average number of children per person does not change, long term world population should also multiply by that factor.
 
->>> **u/gryfft** [+1] *
+>>> **u/gryfft** [+1]  (2 days later)
 >>> 
 >>> I think perfectly healthy immortal people, on a long enough timeline, will have more children than people who live a normal modern lifespan. It's still a Malthusian problem, but nowhere near the explosion of immortals breeding every 20 years indefinitely. Also, some won't have any choice but to take the option, possibly before having children. Voluntary sterilization isn't a thing I take lightly-- but all in all, a small price to pay for immortality.
->>> 
 
->> **u/eroticas** [+1] *
+>> **u/eroticas** [+1]  (3 days later)
 >> 
 >> This assumes that the magic doesn't consider frozen people dead.
->> 
 
-> **u/IICVX** [+4] *
+> **u/IICVX** [+4]  (10 hours later)
 > 
 > This is pretty much the setup in one of qntm's stories: https://qntm.org/jesus
-> Except instead of a person it's a massive metal disk.
 > 
+> Except instead of a person it's a massive metal disk.
 
-> **u/Allian42** [+3] *
+> **u/Allian42** [+3]  (4 hours later)
 > 
 > Could 10 people go around her and touch her hands for 5 minutes and be healer simultaneously? If so, she could heal the 100 people in 50 minutes or less and be done for the day. This would give us 3.000 cures a month without putting too much burden on her.
-> Going with this scenario, what I would do is to set up an clinic in a nice, central country with hired security and easy access to an airport. People wanting access to the healing would be required to already have a complete diagnostic of the problem's severity. The queue for the 3.000 "slots" would be ordered by each case's severity.
-> One single slot a month would be reserved to the highest bidder in an auction, with the condition that it's still a critical health problem. One single slot a month would also be reserved for a separated queue to be filled at the request of governments all around the world, payed on a fixed rate (something a country can field easily but still considerable), also based each case's severity. Finally, one last slot a month to be used by the government of the country the clinic is set up in as they please (same rate as the others).
-> This would give us a good relation with our current place of residence without being at their mercy and a mutual interest on both keeping us there and defending us from external meddling. The other countries would still have a privileged queue for cases like prominent figures and leaders, so we would cultivate a positive relationship with every country. Lastly, the auctioned slot should bring us money to run the place independently and invest back.
-> The investment money would be used for: more professional security and facilities. doctors to run our own triage, mobility such as planes and helicopters we can use to move critical patients and research budget to study her special gift and see if we can learn something from it.
 > 
+> Going with this scenario, what I would do is to set up an clinic in a nice, central country with hired security and easy access to an airport. People wanting access to the healing would be required to already have a complete diagnostic of the problem's severity. The queue for the 3.000 "slots" would be ordered by each case's severity.
+> 
+> One single slot a month would be reserved to the highest bidder in an auction, with the condition that it's still a critical health problem. One single slot a month would also be reserved for a separated queue to be filled at the request of governments all around the world, payed on a fixed rate (something a country can field easily but still considerable), also based each case's severity. Finally, one last slot a month to be used by the government of the country the clinic is set up in as they please (same rate as the others).
+> 
+> This would give us a good relation with our current place of residence without being at their mercy and a mutual interest on both keeping us there and defending us from external meddling. The other countries would still have a privileged queue for cases like prominent figures and leaders, so we would cultivate a positive relationship with every country. Lastly, the auctioned slot should bring us money to run the place independently and invest back.
+> 
+> The investment money would be used for: more professional security and facilities. doctors to run our own triage, mobility such as planes and helicopters we can use to move critical patients and research budget to study her special gift and see if we can learn something from it.
 
->> **u/sambelulek** [+6]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+5]  *Ulquaan Ibasa Liquor Smuggler* (6 hours later)
 >> 
 >> You're the only one who states thing other missed: immediate consequences. Greed is great mover of the world, that's a belief I subscribe to. And the advice to this magical girl should be go on an exile, in the darkest of the night, to where nobody could recognize her. Once she successfully hid herself in a cave (or concrete jungle) somewhere, find out the extent of her ability. Self-heal should be the first to ascertain.
->> edit: whoops, sorry. I replied to the wrong comment.
 >> 
+>> edit: whoops, sorry. I replied to the wrong comment.
 
->>> **u/Allian42** [+2] *
+>>> **u/Allian42** [+2]  (7 hours later)
 >>> 
 >>> You can manage a deadlock, but you need to be careful. I believe the trick is to creates a situation where the benefits of leaving her alone outweighs the risk of going for monopoly. She needs to be alive, awake and willing to heal so even the threat of a contingency should be enough to make everyone hesitate. As for the carrot, you just need everyone appeased and looking forward to their next go at the miracle.
->>> 
 
-> **u/rtsynk** [+2] *
+> **u/rtsynk** [+2]  (15 hours later)
 > 
 > some people have the wealth/power to make your life very unpleasant if you don't go along with them
-> plus you need the wealthy/powerful to protect you
-> but you also want to do the 'greatest good' with your ability
-> the solution is obvious
-> auction a certain number of slots (say 10 every day) where the elite can guarantee their access
-> then for the rest set up a 'heal or not' site where people can post their sob story and everyone votes on who's most worthy
 > 
+> plus you need the wealthy/powerful to protect you
+> 
+> but you also want to do the 'greatest good' with your ability
+> 
+> the solution is obvious
+> 
+> auction a certain number of slots (say 10 every day) where the elite can guarantee their access
+> 
+> then for the rest set up a 'heal or not' site where people can post their sob story and everyone votes on who's most worthy
 
-> **u/earnestadmission** [+2]  *Singular "they" user**
+> **u/earnestadmission** [+2]  *Singular "they" user* (47 minutes later)
 > 
 > What happens if shes touching two people for five minutes?
-> 
 
-> **u/Hakurei06** [+1] *
+> **u/Hakurei06** [+1]  (5 hours later)
 > 
 > you could prioritize people who have donatable organs, two for one.
 > if we're getting really rules lawyery, check to see if you can heal more than one hundred times, so long as it's not more than 100 people. also, look into gene therapy. you might not be able to fully replicate the healing, but you might be able to extend it to more people per heal.
-> 
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (3 days later)
 > 
 > Oh boy, well *she* needs to do everything she can to make sure that the military power which comes to control her is as benevolent as possible. She should probably hurry up and pick one voluntarily before she's forcibly taken. After that it's just healing whichever 100 people they bring to her..
-> As for what the military power should do with her....they should probably sell healing to the highest bidders, on the condition that R&D will be done on them (which potentially involves unpleasant things like dissection pre-healing) and use the funds for making sure no other military can overpower them or kill her, R&D on the fact that physics has been broken, followed by the more conventional good things you can do with money.
 > 
+> As for what the military power should do with her....they should probably sell healing to the highest bidders, on the condition that R&D will be done on them (which potentially involves unpleasant things like dissection pre-healing) and use the funds for making sure no other military can overpower them or kill her, R&D on the fact that physics has been broken, followed by the more conventional good things you can do with money.
 
-> **u/Calsem** [+1] *
+> **u/Calsem** [+1]  (4 days later)
 > 
 > I would suggest dedicating a majority (I like 2/3) of her heals to some sort of lottery or other blind system as to satisfy the masses and the lower class.  Then you could also reserve spots for the rich via auction, starting at 10$ million (value of a human life). Ideally most or all of the money would go to charity - you could make a crapload of money doing advertisements, book deals, talks, or a billion other things anyways.  Last of all I would reserve some spots for heroes - nobel prize winners, people who selflessly save others, etc...
-> 66 - randomly chosen via lottery of people who are about to die or severly disabled.
-> 20 - auction - for the rich
-> 10 - chosen - for the accomplished, as selected by a independent panel of the UN.
-> 1 - chosen - for whoever you feel like.  This may be a bad idea - it could open yourself up to bad publicity if you make a choice people don't like. Or good publicity if you save someone people do like, it really swings either way.
-> 1 - reserved for yourself (assuming you have ability to heal yourself).  You could use this up at the end of a day of you wanted to risk it.
 > 
+> 66 - randomly chosen via lottery of people who are about to die or severly disabled.
+> 
+> 20 - auction - for the rich
+> 
+> 10 - chosen - for the accomplished, as selected by a independent panel of the UN.
+> 
+> 1 - chosen - for whoever you feel like.  This may be a bad idea - it could open yourself up to bad publicity if you make a choice people don't like. Or good publicity if you save someone people do like, it really swings either way.
+> 
+> 1 - reserved for yourself (assuming you have ability to heal yourself).  You could use this up at the end of a day of you wanted to risk it.
 
-> **u/BooksAndComicBooks** [-1] *
+> **u/BooksAndComicBooks** [-1]  (an hour later)
 > 
 > If we're looking at the long-term effects:
-> Healing anyone based on any particular bias would lead to that set of people having an edge in society (if we only heal those who have a skill that contributes to society, then we have to choose which skills are more valuable, and we can only make that choice through personal bias because there's no way to really measure that. This will lead to eventual inequality, where people with a certain skill-set or natural ability overpower those without. 
-> If we heal people with money, and then contribute that money towards developping better medecine, or possibly even use it to do research on what causes this healing in the first place and replicating it, we still give priority to the rich, creating a wider wealth gap overall. This would be extra toxic for our society, since the newly-healed would live longer, allowing them to accumulate extra funds and status over the centuries, which will widen the wealth gap unimaginably, sending the un-healed poor into slums in which they either rot as a sub-species of human over the milenia, or develop their own seperate society that diverges from the uber-wealthy. The only way that turns out well is if the research actually gives us answers, in which case we would be better off in the long term. But we would still be betting on there being a replicable version of this healing power, and rationally, we need to choose something that has a more certain outcome.)
-> My proposal: We have a lottery. If our healer can heal herself, thus causing her to live and heal for centuries, she can continue healing generation after generation of people. Eventually we'll start seeing something like in Ringworld, where our species develops a genetic tendency for "luck", which can potentially give us an edge in figuring out how to replicate this healing power. We would also need to start studying the healed people. We need to see how their cells are lasting as long as they are. My guess is that the healing re-writes something, either at the DNA level or the cellular level, so that the cells get a power boost of sorts. If it is at the DNA level, then the children of these people are going to be born perfectly healthy and (semi) immortal as well.
 > 
+> Healing anyone based on any particular bias would lead to that set of people having an edge in society (if we only heal those who have a skill that contributes to society, then we have to choose which skills are more valuable, and we can only make that choice through personal bias because there's no way to really measure that. This will lead to eventual inequality, where people with a certain skill-set or natural ability overpower those without. 
+> 
+> If we heal people with money, and then contribute that money towards developping better medecine, or possibly even use it to do research on what causes this healing in the first place and replicating it, we still give priority to the rich, creating a wider wealth gap overall. This would be extra toxic for our society, since the newly-healed would live longer, allowing them to accumulate extra funds and status over the centuries, which will widen the wealth gap unimaginably, sending the un-healed poor into slums in which they either rot as a sub-species of human over the milenia, or develop their own seperate society that diverges from the uber-wealthy. The only way that turns out well is if the research actually gives us answers, in which case we would be better off in the long term. But we would still be betting on there being a replicable version of this healing power, and rationally, we need to choose something that has a more certain outcome.)
+> 
+> My proposal: We have a lottery. If our healer can heal herself, thus causing her to live and heal for centuries, she can continue healing generation after generation of people. Eventually we'll start seeing something like in Ringworld, where our species develops a genetic tendency for "luck", which can potentially give us an edge in figuring out how to replicate this healing power. We would also need to start studying the healed people. We need to see how their cells are lasting as long as they are. My guess is that the healing re-writes something, either at the DNA level or the cellular level, so that the cells get a power boost of sorts. If it is at the DNA level, then the children of these people are going to be born perfectly healthy and (semi) immortal as well.
 
->> **u/RetardedWabbit** [+5] *
+>> **u/RetardedWabbit** [+5]  (4 hours later)
 >> 
 >> You're thinking of wealth as a zero sum game: the rich getting richer doesn't necessarily mean the poor get poorer. This kind of trade policy is called merchantilism, that the only gains to be made when trading is to take more money from the other person. There's a lot of examples that disprove this but just ask yourself if you'd be better off in poverty today or 50 years ago? Or a 100? Income is less equally distributed today (in the USA at least) but on average people are still better off.
->> Rich people having more money isn't a real problem, although there's some emergent problems from it, the problem is that some people would benefit much more from money and the rich can provide that at the lowest personal suffering. Taking a hundred dollars from a millionaire hurts them less than taking it from someone in poverty.
 >> 
+>> Rich people having more money isn't a real problem, although there's some emergent problems from it, the problem is that some people would benefit much more from money and the rich can provide that at the lowest personal suffering. Taking a hundred dollars from a millionaire hurts them less than taking it from someone in poverty.
 
 ---
 

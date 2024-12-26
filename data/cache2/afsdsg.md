@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2019/01/14/peregrine-ii/
-* Score: 64
+* Score: 68
 
 * Created: 2019-01-14T05:05:12
 
@@ -12,128 +12,135 @@
 
 ### Comments:
 
-> **u/swaskowi** [+27] *
+> **u/swaskowi** [+26]  (an hour later)
 > 
 > Oooohh, don't forget this is the nephew [he's forced to murder](https://practicalguidetoevil.wordpress.com/2018/10/10/interlude-queens-gambit-declined/comment-page-1/). 
-> >There were no shades to their perspectives, and while they might fondly tolerate them in one sworn to the Choir of Mercy that indulgence should never be confused for approval. The Grey Pilgrim had first understood this when he’d smothered his young nephew in his sleep, knowing the boy was charismatic enough to unite the Dominion and lead to war against Procer. He’d tried, first, to reason with him. To show him the pursuit of old grudges through blood could not redeem a single thing.
-> >The young never listened, he’d learned. And so old fools like him had to smooth out the sharp edges of Creation.
-> I'm also a little confused about the timeline, I think the prince he's rescuing is the Exiled Prince and he's rescuing them from our Tyrant (kairos) but I was under the impression that this vignette is from a a longish time ago and kairos has only been Tyrant for a few years?  Pilgrim is in his 60 or 70s present day, right?  Or is it the prior Tyrant and if so do we know anything about them?
 > 
+> >There were no shades to their perspectives, and while they might fondly tolerate them in one sworn to the Choir of Mercy that indulgence should never be confused for approval. The Grey Pilgrim had first understood this when he’d smothered his young nephew in his sleep, knowing the boy was charismatic enough to unite the Dominion and lead to war against Procer. He’d tried, first, to reason with him. To show him the pursuit of old grudges through blood could not redeem a single thing.
+> 
+> >The young never listened, he’d learned. And so old fools like him had to smooth out the sharp edges of Creation.
+> 
+> I'm also a little confused about the timeline, I think the prince he's rescuing is the Exiled Prince and he's rescuing them from our Tyrant (kairos) but I was under the impression that this vignette is from a a longish time ago and kairos has only been Tyrant for a few years?  Pilgrim is in his 60 or 70s present day, right?  Or is it the prior Tyrant and if so do we know anything about them?
 
->> **u/werafdsaew** [+20] *
+>> **u/werafdsaew** [+19]  (an hour later)
 >> 
 >> > Oooohh, don't forget this is the nephew he's forced to murder.
->> Nice catch...now that's just sad.
->> >  Or is it the prior Tyrant and if so do we know anything about them?
->> There's no indication that a Tyrant (or any Name, really, other than GP) is involved at all, so I'd say it's a previous generation.
 >> 
+>> Nice catch...now that's just sad.
+>> 
+>> >  Or is it the prior Tyrant and if so do we know anything about them?
+>> 
+>> There's no indication that a Tyrant (or any Name, really, other than GP) is involved at all, so I'd say it's a previous generation.
 
->>> **u/swaskowi** [+4] *
+>>> **u/swaskowi** [+5]  (an hour later)
 >>> 
 >>> >The Grey Pilgrim was in Helike, helping a young prince flee his murderous father.
->>> I don't know if the king of Helike is ALWAYS a Tyrant but Helike is where our tyrant is from and we know he's not the first of his name so it seems likely that the "king" is Tyrant of somesort. 
-
->>> >The Bellerophan’s eyes sharpened with interest as he swallowed another mouthful of wine. The Tyrant’s seizing of the throne of Helike had been one of the most unexpected diplomatic development of the last decade, in the Free Cities, but precious little was known about. A boy that had been by all reports a nonentity before the coup had in a single day taken control of the city and the army, killed the king in his own bed and purged his nephew’s supporters brutally. The nephew in question had fled the city with most of the young nobility and his surviving loyalists, becoming the Exiled Prince in the process.
->>> ~~[This passage](https://practicalguidetoevil.wordpress.com/category/uncategorized/page/33/) seems to line up with the story, but like I said, the timeline confuses me. You're right parsimony does suggest its just referring to the previous tyrant but it would mean the same story beat happened twice in Helike a not too many years apart.~~ 
->>> Edit: Nevermind I misread, clearly referring to the previous rulers of Helike and not at all mixed up with our current story. People try and kill princelings alot I guess.
 >>> 
+>>> I don't know if the king of Helike is ALWAYS a Tyrant but Helike is where our tyrant is from and we know he's not the first of his name so it seems likely that the "king" is Tyrant of somesort. 
+>>> 
+>>> >The Bellerophan’s eyes sharpened with interest as he swallowed another mouthful of wine. The Tyrant’s seizing of the throne of Helike had been one of the most unexpected diplomatic development of the last decade, in the Free Cities, but precious little was known about. A boy that had been by all reports a nonentity before the coup had in a single day taken control of the city and the army, killed the king in his own bed and purged his nephew’s supporters brutally. The nephew in question had fled the city with most of the young nobility and his surviving loyalists, becoming the Exiled Prince in the process.
+>>> 
+>>> ~~[This passage](https://practicalguidetoevil.wordpress.com/category/uncategorized/page/33/) seems to line up with the story, but like I said, the timeline confuses me. You're right parsimony does suggest its just referring to the previous tyrant but it would mean the same story beat happened twice in Helike a not too many years apart.~~ 
+>>> 
+>>> Edit: Nevermind I misread, clearly referring to the previous rulers of Helike and not at all mixed up with our current story. People try and kill princelings alot I guess.
 
->>>> **u/BlackKnightG93M** [+6] *
+>>>> **u/BlackKnightG93M** [+6]  (5 hours later)
 >>>> 
 >>>> The fact that the Name Exiled Prince exists is proof of that. Names are given to Roles and Roles are grooves in Creation that originate from events happening repeatedly in history.
->>>> 
 
->>>> **u/werafdsaew** [+4] *
+>>>> **u/werafdsaew** [+4]  (13 hours later)
 >>>> 
 >>>> > I don't know if the king of Helike is ALWAYS a Tyrant
->>>> Of course not.  The Exiled Prince's father wasn't for example
 >>>> 
+>>>> Of course not.  The Exiled Prince's father wasn't for example
 
->> **u/turtle_br0** [+2] *
+>> **u/turtle_br0** [+2]  (19 hours later)
 >> 
 >> I find it weird that he kills the nephew because the nephew wants revenge but he swears revenge after seeing his nephew all sad and despondent.
->> 
 
->>> **u/notsureiflying** [+9] *
+>>> **u/notsureiflying** [+10]  (20 hours later)
 >>> 
 >>> He gets older, cynical and a better at justifying his bad actions
->>> 
 
->>>> **u/Jangri-** [+3] *
+>>>> **u/Jangri-** [+3]  (a day later)
 >>>> 
 >>>> Is his actions truly bad? I've always viewed Pilgrim as some sort of practigal good character, that tries to maximize the overall goodness in the world
->>>> 
 
->>>>> **u/notsureiflying** [+5] *
+>>>>> **u/notsureiflying** [+4]  (a day later)
 >>>>> 
 >>>>> His actions aren't that bad if you consider he is right about what would happen if he didn't kill his nephew...
->>>>> 
 
->>>>> **u/TwoxMachina** [+2] *
+>>>>> **u/TwoxMachina** [+2]  (a day later)
 >>>>> 
 >>>>> The road to hell is paved with Good intentions.
->>>>> I'd say he's well down the road now.
->>>>> &#x200B;
->>>>> He's maximizing Goodness, and if means murdering children... that's a Good thing to do (note the capital G).
->>>>> Above does not right. It does, however, mean Good (but not good)
 >>>>> 
+>>>>> I'd say he's well down the road now.
+>>>>> 
+>>>>> &#x200B;
+>>>>> 
+>>>>> He's maximizing Goodness, and if means murdering children... that's a Good thing to do (note the capital G).
+>>>>> 
+>>>>> Above does not right. It does, however, mean Good (but not good)
 
->>>>>> **u/Jangri-** [+2] *
+>>>>>> **u/Jangri-** [+2]  (a day later)
 >>>>>> 
 >>>>>> If u know for sure that a child will murder 2 other children, and ur only option to stop him is to kill him, is that not the right thing to do?
->>>>>> 
 
->>>>>>> **u/onlynega** [+1] *
+>>>>>>> **u/onlynega** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> Depends if you believe in free will or not.
->>>>>>> 
 
->>>>>>>> **u/Jangri-** [+1] *
+>>>>>>>> **u/Jangri-** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> If you do not believe in free will, does anything you do is good/bad or even matters?
->>>>>>>> 
 
->>>>>>>>> **u/TwoxMachina** [+3] *
+>>>>>>>>> **u/TwoxMachina** [+3]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> Above/Good/Order does not like Free Will.
->>>>>>>>> Below/Evil/Freedom is all about free will.
->>>>>>>>> &#x200B;
->>>>>>>>> So... the Pilgrim, following Above, thinks it is certain, and takes action to further Above's plans.
->>>>>>>>> Someone following Below will not.
->>>>>>>>> &#x200B;
->>>>>>>>> Above vs Below is a question of Order vs Free will
 >>>>>>>>> 
+>>>>>>>>> Below/Evil/Freedom is all about free will.
+>>>>>>>>> 
+>>>>>>>>> &#x200B;
+>>>>>>>>> 
+>>>>>>>>> So... the Pilgrim, following Above, thinks it is certain, and takes action to further Above's plans.
+>>>>>>>>> 
+>>>>>>>>> Someone following Below will not.
+>>>>>>>>> 
+>>>>>>>>> &#x200B;
+>>>>>>>>> 
+>>>>>>>>> Above vs Below is a question of Order vs Free will
 
->>>>>>>>> **u/onlynega** [+1] *
+>>>>>>>>> **u/onlynega** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> The point is the Pilgrim doesn't believe his nephew can become anything more than what the Ophanim tell him. He believes his nephew is fated to be a charismatic leader against Procer and nothing more.
->>>>>>>>> 
 
->>>>>>> **u/TwoxMachina** [+1] *
+>>>>>>> **u/TwoxMachina** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Eh, I don't think it is right.
->>>>>>> You can stop a crime in progress, but you may not punish someone for a crime they will do.
 >>>>>>> 
+>>>>>>> You can stop a crime in progress, but you may not punish someone for a crime they will do.
 
->>>> **u/turtle_br0** [+1] *
+>>>> **u/turtle_br0** [+1]  (20 hours later)
 >>>> 
 >>>> Right but does this mean he has a change of heart regarding the revenge or does he learn that who does it can't be killed because it means doing more harm than good? Or do the Ophirim talk him down since he's bound to the choir of mercy?
->>>> It's just a little odd.
 >>>> 
+>>>> It's just a little odd.
 
-> **u/Zayits** [+1] *
+> **u/Zayits** [+1]  (2 minutes later)
 > 
 > [Vote for A Practical Guide to Evil on TopWebFiction!](http://topwebfiction.com/vote.php?for=a-practical-guide-to-evil)
-> 
 
-> **u/vimefer** [+1] *
+> **u/vimefer** [+1]  (8 hours later)
 > 
 > Typos so far:
-> > no whispers had come when they Lord of Alava
-> the Lord
-> > having allowed it to bit him
-> to bite
 > 
+> > no whispers had come when they Lord of Alava
+> 
+> the Lord
+> 
+> > having allowed it to bit him
+> 
+> to bite
 
 ---
 

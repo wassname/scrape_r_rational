@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/mvgabj/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 12
+* Score: 13
 
 * Created: 2021-04-21T14:00:14
 
@@ -24,83 +24,108 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/Camaraagati** [+4]  *The Emperor's Text-to-Speech Device**
+> **u/Camaraagati** [+3]  *The Emperor's Text-to-Speech Device* (an hour later)
 > 
 > How would you reconstruct [Evil is One Big, Happy Family](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilIsOneBigHappyFamily)? I'll focus on the superhero genre, but feel free to reconstruct it in other fictions. 
-> The trope where evil characters recognize themselves as being villains, and despite having a variety of ideological, personal, and cultural differences, the villains see themselves as being on the same team, as having natural kinship with other villains. This happens even when their goals don't align and they lack similarities aside from being designated evil.
-> If you have your villains working together for practical reasons, then this trope isn't in effect. They also can't share a worldview, unless that worldview is capital-E Evil, opposing righteousness through a variety of means. 
-> It's easy to *de*construct since even cruel and/or self-interested people don't usually identify as evil (at least they don't wear it as a badge), and villains who are willing to see themselves as genuinely evil don't necessarily imagine themselves on the same side as other people considered evil, unless there are more concrete things tying them together.
 > 
+> The trope where evil characters recognize themselves as being villains, and despite having a variety of ideological, personal, and cultural differences, the villains see themselves as being on the same team, as having natural kinship with other villains. This happens even when their goals don't align and they lack similarities aside from being designated evil.
+> 
+> If you have your villains working together for practical reasons, then this trope isn't in effect. They also can't share a worldview, unless that worldview is capital-E Evil, opposing righteousness through a variety of means. 
+> 
+> It's easy to *de*construct since even cruel and/or self-interested people don't usually identify as evil (at least they don't wear it as a badge), and villains who are willing to see themselves as genuinely evil don't necessarily imagine themselves on the same side as other people considered evil, unless there are more concrete things tying them together.
 
->> **u/kevshea** [+6] *
+>> **u/kevshea** [+8]  (2 hours later)
 >> 
 >> Sure... it's *easier* to accomplish narratively if there's a charismatic leader, or critical mass group trying to convince everyone that those who oppose the status quo are natural allies. Your mileage may vary on how much you consider this a "cohesive non-evil worldview"/goal alignment. 
->> But it could pretty realistically just be an equilibrium. In the above case or as an equilibrium, they could each have distinct, primary driving goals that nevertheless benefit from the weakening or overburdening of the society's protective institutions. If I'm just robbing a bank and you're over there eating people's faces, I'm not gonna come mess with things while the police try and stop you. Likewise, if I just want to practice mad science in peace (legitimately, mind you! For the good of human kind! THEY CAN'T COMPREHEND MY BRILLIANCE AND THAT'S THE ONLY REASON THEY WANT TO INTERFERE!) it's to my benefit that there are more attention-grabbing psychos around to keep the police from looking for something to investigate and realizing bodies are missing. 
->> In practice, having protective institutions aligned against Evil makes it more likely that Evil will consider itself a "side", because the enemy of my enemy is my friend. In universes with superhero protectors, a Justice League or whatever, it's therefore almost a foregone conclusion that they'd consider alignment.
->> The institutions and rules almost force Evil to align if they can't accomplish a goal on their own. I need some muscle or protection for a job--what am I gonna do, go ask some civilian to work with me? No, I need people who I know are willing to do things that society considers "wrong". Maybe I don't like those people--maybe I think that unlike me, they ARE wrong! I mean, face eating!--but the more repressive the society, the fewer options I have.
 >> 
+>> But it could pretty realistically just be an equilibrium. In the above case or as an equilibrium, they could each have distinct, primary driving goals that nevertheless benefit from the weakening or overburdening of the society's protective institutions. If I'm just robbing a bank and you're over there eating people's faces, I'm not gonna come mess with things while the police try and stop you. Likewise, if I just want to practice mad science in peace (legitimately, mind you! For the good of human kind! THEY CAN'T COMPREHEND MY BRILLIANCE AND THAT'S THE ONLY REASON THEY WANT TO INTERFERE!) it's to my benefit that there are more attention-grabbing psychos around to keep the police from looking for something to investigate and realizing bodies are missing. 
+>> 
+>> In practice, having protective institutions aligned against Evil makes it more likely that Evil will consider itself a "side", because the enemy of my enemy is my friend. In universes with superhero protectors, a Justice League or whatever, it's therefore almost a foregone conclusion that they'd consider alignment.
+>> 
+>> The institutions and rules almost force Evil to align if they can't accomplish a goal on their own. I need some muscle or protection for a job--what am I gonna do, go ask some civilian to work with me? No, I need people who I know are willing to do things that society considers "wrong". Maybe I don't like those people--maybe I think that unlike me, they ARE wrong! I mean, face eating!--but the more repressive the society, the fewer options I have.
 
->> **u/CCC_037** [+6] *
+>> **u/CCC_037** [+8]  (6 hours later)
 >> 
 >> The Good Heroes are powerful.
->> No, wait, that doesn't get the full effect across.
->> The Good Heroes are ***powerful***.
->> That's better.
->> One-on-one, Team Good can take out pretty much *any* other team, flat-out. Team Good could take out *all* the Evil guys at once, as long as they work together.
->> However, at the same time, Team Good can only be in one place at a time.
->> So. In this world, there are two sorts of Evil. The first sort is the sort known as the Loners. The Loners are Evil Villains who like to go it *alone*.
->> They get very promptly wiped out by Team Good.
->> The *other* sort of Evil are the Team Players. They work well with other Evil groups, as long as their goals do not *directly* conflict.
->> The only reason that the Team Players are still around is that they all communicate with each other. And Team Good knows that if they stomp on one of the Team Players, then yes, they will win - but only after a drawn-out battle. And the *rest* of the Team Players will descend on the Innocent Village while Team Good is out defeating that *one* group of villains.
->> So the Team Players survive.
->> And in this way, before too long, the Team Players are the *only* villains left. They're one big, happy family...
 >> 
+>> No, wait, that doesn't get the full effect across.
+>> 
+>> The Good Heroes are ***powerful***.
+>> 
+>> That's better.
+>> 
+>> One-on-one, Team Good can take out pretty much *any* other team, flat-out. Team Good could take out *all* the Evil guys at once, as long as they work together.
+>> 
+>> However, at the same time, Team Good can only be in one place at a time.
+>> 
+>> So. In this world, there are two sorts of Evil. The first sort is the sort known as the Loners. The Loners are Evil Villains who like to go it *alone*.
+>> 
+>> They get very promptly wiped out by Team Good.
+>> 
+>> The *other* sort of Evil are the Team Players. They work well with other Evil groups, as long as their goals do not *directly* conflict.
+>> 
+>> The only reason that the Team Players are still around is that they all communicate with each other. And Team Good knows that if they stomp on one of the Team Players, then yes, they will win - but only after a drawn-out battle. And the *rest* of the Team Players will descend on the Innocent Village while Team Good is out defeating that *one* group of villains.
+>> 
+>> So the Team Players survive.
+>> 
+>> And in this way, before too long, the Team Players are the *only* villains left. They're one big, happy family...
 
->> **u/Norseman2** [+5] *
+>> **u/Norseman2** [+6]  (an hour later)
 >> 
 >> I would say this is likely a combination of a sharply polarized population with two common but completely different views on morality which is then combined with a protagonist or unreliable narrator who can't recognize the distinction between 'different' and 'evil'.
->> 
 
->> **u/SnowGN** [+1] *
+>> **u/SnowGN** [+1]  (2 hours later)
 >> 
 >> I'd consider the example of Big Mom's pirate crew in One Piece, in which an Emperor of the Seas holds dominion over a vast swathe of territory and control of several nations through an organization whose upper ranks are composed purely of her (100+ children).
->> The trope can easily be reconstructed if you consider that example, consider how her 'crew' (which was all her children) were generally Lawful Evil, desiring nothing more than the ability to rule their empire in peace (while ruthlessly crushing any resistance, such as the good guy MCs and the world government and other pirate groups) while at the same time being desperate to control and subvert the whims of their nigh-omnipotent, insane mother (Chaotic Evil). 
->> The idea can be easily tinkered with at the margins, but the general framework of the idea fits your request. The Big Mom clan was basically one huge mafia clan that had grown to the point of controlling an actual empire, but even they had their problems with confronting forces of true evil (in the course of maintaining their own Putin-esque regime of stable, benign pleasure and profit).
->> The Akura clan from the Cradle series of progression fantasy books probably also fits this request, just not as obviously, due to the offscreening of how evil/abusive of the plebs most of their members are.
 >> 
+>> The trope can easily be reconstructed if you consider that example, consider how her 'crew' (which was all her children) were generally Lawful Evil, desiring nothing more than the ability to rule their empire in peace (while ruthlessly crushing any resistance, such as the good guy MCs and the world government and other pirate groups) while at the same time being desperate to control and subvert the whims of their nigh-omnipotent, insane mother (Chaotic Evil). 
+>> 
+>> The idea can be easily tinkered with at the margins, but the general framework of the idea fits your request. The Big Mom clan was basically one huge mafia clan that had grown to the point of controlling an actual empire, but even they had their problems with confronting forces of true evil (in the course of maintaining their own Putin-esque regime of stable, benign pleasure and profit).
+>> 
+>> The Akura clan from the Cradle series of progression fantasy books probably also fits this request, just not as obviously, due to the offscreening of how evil/abusive of the plebs most of their members are.
 
->> **u/Anew_Returner** [+1] *
+>> **u/Anew_Returner** [+1]  (4 hours later)
 >> 
 >> I feel like social media would be an easy way to deconstruct it, since it's already quite common to see it used as a means to enable evil as a way to get acceptance and validation. A facebook shitposting group, an anonymous imageboard, a chatroom with more than 50 people on it, etc. It's hard to call any of these practical when they're so chaotic and coordination or even coherent conversations are almost non-existent most of the time. The individuals also have very loose bonds between each other while identifying themselves as part of a greater whole. This way one could easily get a large family of strangers who have little in common other than the fact that they do evil to relate to each other through their involvement in a virtual social contract that is at odds with the commonly accepted one.
->> 
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (6 hours later)
 >> 
 >> If "Good" is powerful enough, then there's always a sort of "kinship of the outcasts," where different groups may find common ground in the fact that they're they are all out-groups to the mainstream. 
->> People may also declare themselves to be evil in an ironic fashion, not because they consider themselves to be fundamentally/objectively evil but because they are (1) commenting on how the mainstream considers them to be evil and (2) taking ownership of that label in order to reduce or co-opt its power. Many Satanists are an example of this: Not only do they not actually worship Satan, they tend to reject the existence of both Satan and God, but calling themselves "Satanists" puts them in a specific relationship with Christians, and they proactively use that relationship for their own ends (most often, pushing back against any Christian infringement on the establishment clause by e.g. saying, if the school has a [Good News Club](https://en.wikipedia.org/wiki/Good_News_Club), then it has to allow [After School Satan](https://en.wikipedia.org/wiki/After_School_Satan), too—which wouldn't be nearly as effective if the Satanists weren't so deliberately provocative).
 >> 
+>> People may also declare themselves to be evil in an ironic fashion, not because they consider themselves to be fundamentally/objectively evil but because they are (1) commenting on how the mainstream considers them to be evil and (2) taking ownership of that label in order to reduce or co-opt its power. Many Satanists are an example of this: Not only do they not actually worship Satan, they tend to reject the existence of both Satan and God, but calling themselves "Satanists" puts them in a specific relationship with Christians, and they proactively use that relationship for their own ends (most often, pushing back against any Christian infringement on the establishment clause by e.g. saying, if the school has a [Good News Club](https://en.wikipedia.org/wiki/Good_News_Club), then it has to allow [After School Satan](https://en.wikipedia.org/wiki/After_School_Satan), too—which wouldn't be nearly as effective if the Satanists weren't so deliberately provocative).
 
-> **u/Redditor76394** [+3] *
+> **u/Redditor76394** [+3]  (11 hours later)
 > 
 > I'm thinking of starting a Rational!RWBY fix, since no one seems to have done it yet (to my satisfaction at least).
-> Does anyone have any glaring plot holes that they want to see addressed? 
-> I'll go first: (spoiler tagged just in case)
-> * >!In the latest season, it's revealed that Ozpin's cane holds a store of kinetic energy he's accumulated over multiple lifetimes. I don't see why he held back on using that when he fought and died to Cinder during the fall of Beacon Academy. !<
-> * Jaune should never have been permitted into Beacon. 
-> * >!Adam should never have tried to blow up Mistral Academy. It's an empty building that's already owned by an ally. It doesn't help the White Fang. Even then, he never should have been foiled by sudden Faunus from Haven. It's the teleporting dragons from Game of Thrones all over again, there no way the distance should be crossed so quickly and conveniently. !<
-> * Awakening someone's aura should have some sort of drawback, or else there's literally no reason not to do it for other people. Remnant is a deathworld filled with monsters, an unlocked aura could easily save lives. Even if training is required to use it well, it still heals people automatically.
-> My idea is that an unlocked aura attracts Grimm to the individual. Aura is the light of the soul, and Grimm already hate humanity. An unlocked aura should thus make humans shine "brighter" to Grimm. This also means that unlocking aura for the general populace would be disastrous, as it'd massively increase Grimm attacks for relatively little gain. Thus, someone having an unlocked aura but not training to be a huntsman would be seen as a massive burden on society and widely looked down on by others. 
-> * >!Characters conveniently forget when they have abilities applicable to situations. Team RWBY manages to fall into an endless void when two of them can outright fly. !< 
-> * >!Mobilizing a giant mecha to fight individual huntsman you dislike is a terrible waste of resources and simply isn't justified imo. !<
-> * >!No way Penny should be so easily hacked, she is military hardware. And even once she was hacked, why not return her to Pietro to unhack her? Why gamble on using an unknown artifact to cure her? !< 
-> * >!Adam and Ironwood in general. !<
-> And that's just what I can think of for now...
 > 
+> Does anyone have any glaring plot holes that they want to see addressed? 
+> 
+> I'll go first: (spoiler tagged just in case)
+> 
+> * >!In the latest season, it's revealed that Ozpin's cane holds a store of kinetic energy he's accumulated over multiple lifetimes. I don't see why he held back on using that when he fought and died to Cinder during the fall of Beacon Academy. !<
+> 
+> * Jaune should never have been permitted into Beacon. 
+> 
+> * >!Adam should never have tried to blow up Mistral Academy. It's an empty building that's already owned by an ally. It doesn't help the White Fang. Even then, he never should have been foiled by sudden Faunus from Haven. It's the teleporting dragons from Game of Thrones all over again, there no way the distance should be crossed so quickly and conveniently. !<
+> 
+> * Awakening someone's aura should have some sort of drawback, or else there's literally no reason not to do it for other people. Remnant is a deathworld filled with monsters, an unlocked aura could easily save lives. Even if training is required to use it well, it still heals people automatically.
+> 
+> My idea is that an unlocked aura attracts Grimm to the individual. Aura is the light of the soul, and Grimm already hate humanity. An unlocked aura should thus make humans shine "brighter" to Grimm. This also means that unlocking aura for the general populace would be disastrous, as it'd massively increase Grimm attacks for relatively little gain. Thus, someone having an unlocked aura but not training to be a huntsman would be seen as a massive burden on society and widely looked down on by others. 
+> 
+> * >!Characters conveniently forget when they have abilities applicable to situations. Team RWBY manages to fall into an endless void when two of them can outright fly. !< 
+> 
+> * >!Mobilizing a giant mecha to fight individual huntsman you dislike is a terrible waste of resources and simply isn't justified imo. !<
+> 
+> * >!No way Penny should be so easily hacked, she is military hardware. And even once she was hacked, why not return her to Pietro to unhack her? Why gamble on using an unknown artifact to cure her? !< 
+> 
+> * >!Adam and Ironwood in general. !<
+> 
+> And that's just what I can think of for now...
 
->> **u/burnerpower** [+2] *
+>> **u/burnerpower** [+2]  (2 days later)
 >> 
 >> As someone who reads a lot of RWBY fanfiction, but thinks the show itself is quite bad this is very intriguing to me. I'll try to give a semi comprehensive list of parts of the show I have issues with.  
-
+>> 
 >> * First Volume:
 >>    * Jaune not knowing about Aura and the lack of reasons not to unlock it are giant plotholes that have just never been addressed as you pointed out.
 >>    * I agree Jaune should have never made it to Beacon. To follow up on that, he should have been so miserably behind that he could never have possibly caught up at the most elite combat school in the world. You can't just do a few weeks/months of hard training and catch up with people who have been training for half their lives like that. If you want to keep him around for some reason, come up with a good reason Ozpin would let him in despite him being worthless or buff him.
@@ -130,26 +155,28 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 >> * Fourth Volume:
 >>    * Just what is this. Volume 4 and 5 are a giant waste of space. What a disaster. Definitely the worst volumes of RWBY.
 >>    * So yeah Salem. I guess this is as good a time as any to get into a critique of the Grimm in general. In most of the show Grimm basically exist to be meaningless chaff the heroes style on with cool animation. They just don't feel threatening at all. Any real fight is going to be against a human enemy, which is just massively wasteful of their potential. That said, how the hell has Salem not won already? Not only has she not won, Humans have goddamned flourished. They have setup a technological civilization with rough parity with modern Earth in a world full of Eldritch monsters. It baffles me that in the show they can act like Grimm are a threat at all with the context of how well humans have done. Either Grimm should be less threatening than they have ever been at any point in history, or humans should have lost already. If Salem is capable of challenging the civilization we see in the show in the slightest, then she would have easily annihilated a less modern civilization. This whole disaster mess of worldbuilding should be completely redesigned in my opinion. Don't even get me started on how trivial it should be to get around Salem's vaunted immortality.
->> Honestly I'm going to stop there. I don't see much point in going on harping on individual plot points any further. Any rational rewrite that gets this far is necessarily going to look completely different I think. Also I'm kind of tired of going on writing more atm haha. If you want more of my ranting/feedback on my problems with later volumes feel free to tell me and I'll write it out later.
 >> 
+>> Honestly I'm going to stop there. I don't see much point in going on harping on individual plot points any further. Any rational rewrite that gets this far is necessarily going to look completely different I think. Also I'm kind of tired of going on writing more atm haha. If you want more of my ranting/feedback on my problems with later volumes feel free to tell me and I'll write it out later.
 
->>> **u/Reddit-Book-Bot** [+0] *
+>>> **u/Reddit-Book-Bot** [+0]  (2 days later)
 >>> 
 >>> Beep. Boop. I'm a robot.
 >>> Here's a copy of 
->>> ###[White Fang]( https://snewd.com/ebooks/white-fang/)
->>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 >>> 
+>>> ###[White Fang]( https://snewd.com/ebooks/white-fang/)
+>>> 
+>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 
->>> **u/Redditor76394** [+1] *
+>>> **u/Redditor76394** [+1]  (2 days later)
 >>> 
 >>> Yes please! I'd love to hear more ranting + feedback, these are the exact sort of things I plan on addressing! 
->>> I also agree wholeheartedly with pretty much every one of your points. For the team selection, I was considering having Glynda subtly direct each person as they fly so that planned pairs of people land next to each other. Her telekinesis Semblance has no visible effect on the target, and the hand motions accompanying could be a concentration aid instead of mandatory action to activate the Semblance.
 >>> 
+>>> I also agree wholeheartedly with pretty much every one of your points. For the team selection, I was considering having Glynda subtly direct each person as they fly so that planned pairs of people land next to each other. Her telekinesis Semblance has no visible effect on the target, and the hand motions accompanying could be a concentration aid instead of mandatory action to activate the Semblance.
 
->>>> **u/burnerpower** [+2] *
+>>>> **u/burnerpower** [+2]  (4 days later)
 >>>> 
 >>>> Ask and you shall receive!
+>>>> 
 >>>> * Volume 4 Continued:
 >>>>    * Why are they doing this in the first place? I could just be forgetting but I don't remember ever getting good reasons for journeying to Mistral.
 >>>>    * The idea of them going on a dangerous hunt while one of them is unarmed is laughable. How are we the viewers supposed to take things seriously when the writers are putting in ridiculous slapstick like this in what should be dangerous situations.
@@ -199,10 +226,10 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 >>>>    * Tyrian breaking free and killing Clover could have been prevented with even a single second of any amount of thinking. This whole sequence is as irrational as it gets.
 >>>>    * The defenses on the Winter Maiden are pathetic.
 >>>>    * Neo stealing the relic is also a clown show.
->>>> Continued in reply below.
 >>>> 
+>>>> Continued in reply below.
 
->>>>> **u/burnerpower** [+2] *
+>>>>> **u/burnerpower** [+2]  (4 days later)
 >>>>> 
 >>>>> * Volume 8:
 >>>>>    * There is definitely a more rational way the heroes could have decided to try and do things here. I'm not sure wasting time calling for help is a good idea when the attack is currently happening and no one is that close.
@@ -217,23 +244,23 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 >>>>>    * Everything they do with the staff is pants on head. I still don't really understand how they made the portal room when they do not actually understand how to make portals.
 >>>>>    * I don't really understand why the evacuation was necessary when they had already won.
 >>>>>    * Even further, after creating the greatest refugee crisis in the history of Remnant I'm unsure how they expected to feed or protect everyone.
->>>>> There's probably more I could harp on, but I think I hit almost every major plot point I had issues with.
 >>>>> 
+>>>>> There's probably more I could harp on, but I think I hit almost every major plot point I had issues with.
 
->>>>> **u/Reddit-Book-Bot** [+1] *
+>>>>> **u/Reddit-Book-Bot** [+1]  (4 days later)
 >>>>> 
 >>>>> Beep. Boop. I'm a robot.
 >>>>> Here's a copy of 
->>>>> ###[White Fang]( https://snewd.com/ebooks/white-fang/)
->>>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 >>>>> 
+>>>>> ###[White Fang]( https://snewd.com/ebooks/white-fang/)
+>>>>> 
+>>>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 
-> **u/grekhaus** [+3] *
+> **u/grekhaus** [+3]  (15 hours later)
 > 
 > Please suggest ridiculous political parties which could exist within a high magic fantasy universe. No wrong answers, and petty disagreements are preferred over practical policy concerns.
-> 
 
->> **u/CCC_037** [+6] *
+>> **u/CCC_037** [+5]  (19 hours later)
 >> 
 >> - **Heaven**: Actually a group of lawful-good-aligned Clerics who have decided to try to push the will of their gods through the political process. Their major aim is to set up the rules in such a way as to encourage people to be good. Slogan: "Do The Right Thing"
 >> - **Hell**: A group of lawful-evil-aligned Clerics who saw the Heaven party and decided to have a go at trying things their way, instead. Slogan: "When We Come Out On Top, You'll Appreciate Having Helped Us"
@@ -241,25 +268,24 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 >> - **The Eldritch Brotherhood Of The Western Star**: To most people, this party and the above party are virtually indistinguishable. They are both similarly long-winded, similarly unable to shut up, and similarly interested in the advancement of theoretical magic. However, both parties absolutely *hate* each other, and completely refuse to work together (apparently it has to do with some obscure differences in magical theory that one has to be a highly-trained mage to even *notice*). Slogan: "The Advancement Of Magic As Exemplified By The Eldritch Brotherhood Of The Western Star Will Always Be The Optimal Choice"
 >> - **The Society For The Betterment Of The Realm**: An Elf-supremacist party. Is in favour of denying the vote to gnolls (along with goblins, dwarves, humans, and everyone else who is not an elf, but they're trying to get the ball rolling by just cutting out gnolls for the moment). Slogan: "A Long Life For Long-Term Aims"
 >> - **Party Name Here**: A party that consists entirely of a single golem, designed by a wizard who was told to "get me control over the country". Runs every year on the understanding that, if elected, he will immediately abdicate in favour of the Black Wizard Alf the Mad. Does not care that Alf the Mad has been dead for several decades now. Never gains more than a scattering of votes, but stubbornly runs again every single year. Slogan: "Vote For Party Name Here"
->> 
 
->> **u/Norseman2** [+3] *
+>> **u/Norseman2** [+4]  (17 hours later)
 >> 
 >> * **The Antidivinationist Party:** Well known for their flyers and cartoons which mock diviners as being perverts who walk around cities with one hand down their pants to stroke themselves off. Generally casts diviners as peeping toms, busybodies, eavesdroppers, thought police, liars, and perverts. Passes and proposes legislation restricting legal uses of divination as well as limiting access to supplies and training required for divination. Their opposition portrays them as a party which 'mysteriously' has a lot of support from some very wealthy and powerful people. Campaign slogan: "They're looking at your children right now!"
->> * **The "Party Party":** Best known for their drug-fueled raves, orgies, and wild parties which generally involve large amounts of alcohol, psychedelic mushrooms, and a 'fuckload of hella trippy illusions'. Popular among illusionists and enchanters, though all walks of life may be found in the Party Party. Passes and proposes legislation which advances sexual freedom, access to birth control, freedom to use drugs, illusions, and mind-altering enchantments, as well freedom to summon creatures for prurient or mind-altering purposes. Opposition parties often portray them as stoners who can be found drunkenly bleating at sheep in the wee hours of the morning. They do not argue with this portrayal. Campaign slogan: "Fuck us or fuck off!"
 >> 
+>> * **The "Party Party":** Best known for their drug-fueled raves, orgies, and wild parties which generally involve large amounts of alcohol, psychedelic mushrooms, and a 'fuckload of hella trippy illusions'. Popular among illusionists and enchanters, though all walks of life may be found in the Party Party. Passes and proposes legislation which advances sexual freedom, access to birth control, freedom to use drugs, illusions, and mind-altering enchantments, as well freedom to summon creatures for prurient or mind-altering purposes. Opposition parties often portray them as stoners who can be found drunkenly bleating at sheep in the wee hours of the morning. They do not argue with this portrayal. Campaign slogan: "Fuck us or fuck off!"
 
->> **u/Dragongeek** [+3]  *Path to Victory**
+>> **u/Dragongeek** [+3]  *Path to Victory* (22 hours later)
 >> 
 >> **The Chaos Order:** 
->> A while ago, wizards got together and decided that they really, *really* don't like when religious folks use the power of their Gods to perform future-telling magic such as prophecy, precognition, or future divination which is unavailable to mere mortal spellcasters. They saw this as unfair, deterministic, and generally believe that knowing the future is a violation of free will. To fix this issue, the wizards discovered that sources of extremely raw chaos could butterfly future events today, but only if that chaos is introduced at a high enough level. 
->> Because of this, the Chaos Order maintains a small but consistent voter base among wizards who ensure that one of their own sits in the council/senate/congress. This single representative abstains from all policy decisions and votes; they simply occasionally yell random words or perform random actions while politics is in session. Others find this annoying, yes, but this small introduction of a chaotic element at the highest level of power is enough to butterfly away even divine precognition for longer timespans.
 >> 
+>> A while ago, wizards got together and decided that they really, *really* don't like when religious folks use the power of their Gods to perform future-telling magic such as prophecy, precognition, or future divination which is unavailable to mere mortal spellcasters. They saw this as unfair, deterministic, and generally believe that knowing the future is a violation of free will. To fix this issue, the wizards discovered that sources of extremely raw chaos could butterfly future events today, but only if that chaos is introduced at a high enough level. 
+>> 
+>> Because of this, the Chaos Order maintains a small but consistent voter base among wizards who ensure that one of their own sits in the council/senate/congress. This single representative abstains from all policy decisions and votes; they simply occasionally yell random words or perform random actions while politics is in session. Others find this annoying, yes, but this small introduction of a chaotic element at the highest level of power is enough to butterfly away even divine precognition for longer timespans.
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (a day later)
 >> 
 >> **Neighbour Party**: Very concerned with making sure that everybody has good neighbors, which entails (1) entrenching the rights and powers of (or, if need be, inventing) homeowner's associations and (2) making sure that everyone has a horse, because that necessarily means that everyone has horses for neighbors (and as everybody knows, horses are perfect neighbors). Very NIMBY, except where horses are concerned, and would like to ban glue factories, violins, and certain paintbrushes. Often just called "Neighbour."
->> 
 
 ---
 

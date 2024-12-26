@@ -2,7 +2,7 @@
 
 * Author: u/iemtb_iojb *
 * URL: https://forums.spacebattles.com/threads/blood-and-chaos-the-story-of-a-btvs-si-turned-vampire.354777/page-24#post-19031943
-* Score: 14
+* Score: 15
 
 * Created: 2015-09-25T17:01:09
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/iemtb_iojb** [+2] *
+> **u/iemtb_iojb** [+2]  (2 minutes later)
 > 
 > I noticed this was back.  Eight new chapters already!
-> 
 
 ---
 

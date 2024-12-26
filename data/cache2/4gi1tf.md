@@ -2,7 +2,7 @@
 
 * Author: u/Sailor_Vulcan  *Champion of Justice and Reason**
 * URL: https://www.dropbox.com/s/o88hzvw1w75i3ww/Yugiohnai%21%20EpII%20the%20gauntlet%20is%20rejected.doc?dl=0
-* Score: 16
+* Score: 15
 
 * Created: 2016-04-26T09:30:36
 
@@ -12,118 +12,125 @@
 
 ### Comments:
 
-> **u/Anakiri** [+6] *
+> **u/Anakiri** [+6]  (2 days later)
 > 
 > Yugi's making some weird assumptions here.
-> When things go dark and cold and still, what makes him think he's been "taken" anywhere?
-> So Pegasus is all, "I want to duel you right now and I'm willing to pause reality with crazy voodoo magic to make it happen! I'll undo it *when we're done!*" Okay, sure, that's an alarming and frightening show of power... but it's not exactly a direct threat. Why is Yugi taking it as one? Did I miss some reason I shouldn't take Pegasus at his word?
-> Why does Yugi think Pegasus can read his mind? What, just because he guessed one card and bluffed? Maybe he just *looked*. Which, I'm relatively sure, is cheating and grounds for disqualification - Yugi wins again without even playing.
-> Okay, whatever, Yugi has to play with his cards showing because reasons, and he has to seriously try to win because more reasons. Isn't a stall-for-Exodia deck almost ideal for that? He just has to not lose *too* badly with the handicap until the heart of the cards comes through, and that's exactly what the deck was built for. Is the game *that* reliant on hidden information, that no possible strategy can even draw out a loss otherwise? Honest qustion. I don't know. But that's not what I would naively suspect.
-> On a more literary level, what kind of person cries out in a panic, "Everything's grown dark and cold and the others aren't moving!" Pegasus knows, dude, he's there with you. Who are you narrating for? The actual narrator should be handling that.
 > 
+> When things go dark and cold and still, what makes him think he's been "taken" anywhere?
+> 
+> So Pegasus is all, "I want to duel you right now and I'm willing to pause reality with crazy voodoo magic to make it happen! I'll undo it *when we're done!*" Okay, sure, that's an alarming and frightening show of power... but it's not exactly a direct threat. Why is Yugi taking it as one? Did I miss some reason I shouldn't take Pegasus at his word?
+> 
+> Why does Yugi think Pegasus can read his mind? What, just because he guessed one card and bluffed? Maybe he just *looked*. Which, I'm relatively sure, is cheating and grounds for disqualification - Yugi wins again without even playing.
+> 
+> Okay, whatever, Yugi has to play with his cards showing because reasons, and he has to seriously try to win because more reasons. Isn't a stall-for-Exodia deck almost ideal for that? He just has to not lose *too* badly with the handicap until the heart of the cards comes through, and that's exactly what the deck was built for. Is the game *that* reliant on hidden information, that no possible strategy can even draw out a loss otherwise? Honest qustion. I don't know. But that's not what I would naively suspect.
+> 
+> On a more literary level, what kind of person cries out in a panic, "Everything's grown dark and cold and the others aren't moving!" Pegasus knows, dude, he's there with you. Who are you narrating for? The actual narrator should be handling that.
 
->> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (2 days later)
 >> 
 >> Um...wouldn't you take it as a threat if someone did that to you?
->> If it weren't for the Millenium Eye, Pegasus wouldn't even know what deck Yugi was using. He didn't see Sugoroku toss it to him at the last moment before they entered the Shadow Realm.
->> There are a LOT of different cards in the game. The chances of Pegasus guessing that one correctly if he hadn't known what deck Yugi was playing or seen any of the cards yet, are very very low.
->> And how would Pegasus look at the cards? Beyond Pegasus, Yugi, the dueling table, and Yugi's friends and grandpa frozen in place, There's nothing around them but shadow magic and darkness as far as the eye can see. No video cameras or anything like that.
->> What is Yugi supposed to think? Plus, a lot of people would panic in that situation.
->> As for the last point, you're absolutely right. That was exactly what he said in the american dub of the anime, no joke. I probably should change that line. Thanks for pointing it out.
 >> 
+>> If it weren't for the Millenium Eye, Pegasus wouldn't even know what deck Yugi was using. He didn't see Sugoroku toss it to him at the last moment before they entered the Shadow Realm.
+>> 
+>> There are a LOT of different cards in the game. The chances of Pegasus guessing that one correctly if he hadn't known what deck Yugi was playing or seen any of the cards yet, are very very low.
+>> 
+>> And how would Pegasus look at the cards? Beyond Pegasus, Yugi, the dueling table, and Yugi's friends and grandpa frozen in place, There's nothing around them but shadow magic and darkness as far as the eye can see. No video cameras or anything like that.
+>> 
+>> What is Yugi supposed to think? Plus, a lot of people would panic in that situation.
+>> 
+>> As for the last point, you're absolutely right. That was exactly what he said in the american dub of the anime, no joke. I probably should change that line. Thanks for pointing it out.
 
->>> **u/Anakiri** [+6] *
+>>> **u/Anakiri** [+7]  (2 days later)
 >>> 
 >>> It's certainly threatening, but I would not interpret it as "Beat me or else!" In fact, I would be modelling Pegasus as a fairy at this point, powerful and capricious - He might be more likely to hurt my friends and family if I embarrass him! He claims that he just wants to play a game, so I would try to be on my best behavior and give him exactly what he wants and definitely not antagonize him.
->>> Pegasus has demonstrated the ability to freeze people. He could have frozen Yugi in the middle of the turn, walked over, looked at his hand, walked back, and unfrozen him. He could have frozen Yugi at the same time he froze everyone else, rifled through the deck and put subtle marks on the backs of all of the cards, then unfroze Yugi. Hell, he probably froze Yugi anyway to give himself time to come over from wherever he was when Yugi watched the video, without Yugi noticing him come in the door. (Or thus it may be reasonable to conclude.)
->>> And clearly there's some sort of magic going on, and he has a magic artifact for an eye. Who knows what that thing does? Can he see through the backs of the cards? Can he look *around* the backs of the cards, without moving? Is there a big jumbotron hidden in all that darkness that the eye lets him see, showing everyone's cards? What would a magic *eye* have to do with *mindreading*?
 >>> 
+>>> Pegasus has demonstrated the ability to freeze people. He could have frozen Yugi in the middle of the turn, walked over, looked at his hand, walked back, and unfrozen him. He could have frozen Yugi at the same time he froze everyone else, rifled through the deck and put subtle marks on the backs of all of the cards, then unfroze Yugi. Hell, he probably froze Yugi anyway to give himself time to come over from wherever he was when Yugi watched the video, without Yugi noticing him come in the door. (Or thus it may be reasonable to conclude.)
+>>> 
+>>> And clearly there's some sort of magic going on, and he has a magic artifact for an eye. Who knows what that thing does? Can he see through the backs of the cards? Can he look *around* the backs of the cards, without moving? Is there a big jumbotron hidden in all that darkness that the eye lets him see, showing everyone's cards? What would a magic *eye* have to do with *mindreading*?
 
->>>> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+>>>> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason* (2 days later)
 >>>> 
 >>>> okay good point, i guess i'll have to rework the chapter and include the duel after all. thanks!
->>>> 
 
->>>>> **u/Anakiri** [+3] *
+>>>>> **u/Anakiri** [+3]  (2 days later)
 >>>>> 
 >>>>> Glad my feedback is helpful to you!
->>>>> You wouldn't necessarily have to rework it entirely. You're establishing that "big Yugi" is aggressive and stupid. You could just slightly rework the conversation where he takes over, then leave the rest basically unchanged. And maybe be explicit that he is more confident about his conclusions than the evidence suggests he should be, because of cryptic mostly-sealed background knowledge.
->>>>> I mean, there's a fine line between "He just knew it" and "He reached the conclusion the plot required". But you do have options, if you're careful.
 >>>>> 
+>>>>> You wouldn't necessarily have to rework it entirely. You're establishing that "big Yugi" is aggressive and stupid. You could just slightly rework the conversation where he takes over, then leave the rest basically unchanged. And maybe be explicit that he is more confident about his conclusions than the evidence suggests he should be, because of cryptic mostly-sealed background knowledge.
+>>>>> 
+>>>>> I mean, there's a fine line between "He just knew it" and "He reached the conclusion the plot required". But you do have options, if you're careful.
 
-> **u/MirWasTaken** [+3] *
+> **u/MirWasTaken** [+3]  (4 hours later)
 > 
 > Where can I find Episode 1?
-> 
 
->> **u/Igigigif** [+3]  *IT Foxgirl**
+>> **u/Igigigif** [+3]  *IT Foxgirl* (7 hours later)
 >> 
 >> In the [previous writing contest](https://www.reddit.com/r/rational/comments/4docs7/biweekly_challenge_animemanga/d1uarl9)
->> 
 
->> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (8 hours later)
 >> 
 >> [Here](https://www.reddit.com/r/rational/comments/4docs7/biweekly_challenge_animemanga/d1uarl9), I suppose.
->> 
 
-> **u/rationalidurr** [+2]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+2]  *If fighting is sure to result in victory, then you must fight!* (4 hours later)
 > 
 > HAH! Fantastic. The show callout battle start was awesome. The online help part was a neat idea and other victims stepping up was in character for story antagonist. But if Sogekoge(whatever his complex name is) was an ex duelist, shouldn't he have some money and or social pull to make the whole situation go away? Either way please write more. I am not sure how to incetivise you to keep writing this, so name some things/wants you think I could help with.
-> To specify, I am offering you a certain amount of favor/help, if said help will make you write more of this specific storyline. I may not have much, but I can try.
 > 
+> To specify, I am offering you a certain amount of favor/help, if said help will make you write more of this specific storyline. I may not have much, but I can try.
 
->> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason* (7 hours later)
 >> 
 >> I was thinking of making the explanation for that involve Yugi's conspicuously absent parents...
->> I have an unfortunate history of failing to finish novels that I've started. I get too serious about them and try too hard to make them perfect and then they become work and no longer fun any more.
->> For this story, I've decided that the most important thing is the rule of fun, and everything else is second to that.
->> I'm thinking if I get stuck, or start going in circles with something, or things start to become less fun or no fun, I'll ask you for help and you can help me work through it. Sound good?
 >> 
+>> I have an unfortunate history of failing to finish novels that I've started. I get too serious about them and try too hard to make them perfect and then they become work and no longer fun any more.
+>> 
+>> For this story, I've decided that the most important thing is the rule of fun, and everything else is second to that.
+>> 
+>> I'm thinking if I get stuck, or start going in circles with something, or things start to become less fun or no fun, I'll ask you for help and you can help me work through it. Sound good?
 
->>> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!**
+>>> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!* (7 hours later)
 >>> 
 >>> Yes.
->>> 
 
-> **u/RolandsVaria** [+2] *
+> **u/RolandsVaria** [+2]  (a day later)
 > 
 > Curious as to where this goes. One thing though, Yami would never just give up like that. IF you think about it logically, mind-reading isn't totally unbeatable in Duel Monsters. It's still possible to outplay your opponent even if they know everything you'll do. A trash deck won't win against a top tier one, even if you play with your entire hand revealed.
-> It is kind of neat that Yugi already realizes that he's as strong as Yami.
 > 
+> It is kind of neat that Yugi already realizes that he's as strong as Yami.
 
->> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+5]  *Champion of Justice and Reason* (a day later)
 >> 
 >> And what are the chances that Pegasus is playing a trash deck? He's the CEO of Industrial Illusions, the company that *makes* the game.
+>> 
 >> I've been thinking that in this story, while money would have an unfortunate impact on the balance of the game, I've decided that the amount of skill level required would be more similar to that of Magic: the Gathering than of the real life Yugioh trading card game. In other words, while skill is not as important as card access to game outcomes in the competitive scene, skill is still fairly important. Someone using a cheap deck in this story is almost always going to lose when they're facing against an expensive deck, unless the expensive deck was poorly built, or unless the cheap deck is some weird rogue deck that will only work in the competitive metagame once.
-
+>> 
 >> This is how I see MtG and Yugioh.
+>> 
 >> In real life MtG:
 >> Quality of deck design>card access($)>skill and luck
+>> 
 >> In real life Yugioh:
 >> Card access($)>quality of deck design>luck>skill.
->> I would argue that if your opponent knows everything that you will do in advance, and you still win, it probably wasn't because you played better than them, but because you had a better deck or better card access.
->> The therapy helps with that.
 >> 
+>> I would argue that if your opponent knows everything that you will do in advance, and you still win, it probably wasn't because you played better than them, but because you had a better deck or better card access.
+>> 
+>> The therapy helps with that.
 
->>> **u/RolandsVaria** [+1] *
+>>> **u/RolandsVaria** [+1]  (a day later)
 >>> 
 >>> You make a good point, but even with the odds against him big time, I don't think Yami would give up. He never does. To me, just giving up without even trying seems far more foolish than thinking that beating Pegasus will get them out of that mess.
->>> 
 
->>>> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+>>>> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason* (2 days later)
 >>>> 
 >>>> And meanwhile Pegasus would keep reading his mind. If Yami lost, then Pegasus would still be a lot more familiar with his dueling style and how Yami thinks while he's dueling, and then his chances of winning the next time they dueled would be lower, even if he found a way to stop the mind reading. Unlike in the anime, the heart of the cards is no substitute for actually building your deck well, so relying on the heart of the cards to play his deck for him is even less likely to work. Also, [spoiler](#s "his memories are locked away, but they're still there and still influence Yami's personality. The Millenium Eye is powerful indeed and should not be taken lightly. Yami is smarter in this story than in the original story. He doesn't want to give up, it pains him to give up, but he has a strong feeling that if he didn't surrender that duel the consequences could have been *far* worse.")
->>>> 
 
->>>>> **u/RolandsVaria** [+1] *
+>>>>> **u/RolandsVaria** [+1]  (2 days later)
 >>>>> 
 >>>>> Ah, I see what you mean. That does make sense. I just wish there'd been a line stating that logic in the fic proper.
->>>>> 
 
-> **u/masterax2000** [+1]  *Chaos Legion**
+> **u/masterax2000** [+1]  *Chaos Legion* (16 hours later)
 > 
 > This is pretty good! Can we get an estimated time of release for the next chapter?
-> 
 
 ---
 

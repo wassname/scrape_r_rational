@@ -2,7 +2,7 @@
 
 * Author: u/NanashiSaito *
 * URL: https://www.reddit.com/r/rational/comments/5ga3cv/rstff_orders_of_magnitude_hpmor_sd_prequel/
-* Score: 7
+* Score: 9
 
 * Created: 2016-12-03T15:45:02
 

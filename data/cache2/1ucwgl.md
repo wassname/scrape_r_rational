@@ -2,7 +2,7 @@
 
 * Author: u/traverseda  *With dread but cautious optimism**
 * URL: http://www.fimfiction.net/index.php?view=group&group=1418
-* Score: 8
+* Score: 7
 
 * Created: 2014-01-04T01:38:39
 

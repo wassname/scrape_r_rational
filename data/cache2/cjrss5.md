@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/AngelaCastir** [+1] *
+> **u/AngelaCastir** [+1]  (3 minutes later)
 > 
 > An interlude that's a bit longer than normal because I wanted to communicate more of a wider sense of how Red's mother and sister are doing without him. I don't really have much else to add for this one; everyone's pretty sad that Red is MIA, but life goes on.
-> 
 
 ---
 

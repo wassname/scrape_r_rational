@@ -2,7 +2,7 @@
 
 * Author: u/MegFairchild *
 * URL: https://www.reddit.com/r/rational/comments/nid0de/selfpromotion_the_boros_bachelor/
-* Score: 3
+* Score: 1
 
 * Created: 2021-05-22T07:12:07
 

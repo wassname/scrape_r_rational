@@ -12,101 +12,91 @@
 
 ### Comments:
 
-> **u/Watchful1** [+17] *
+> **u/Watchful1** [+16]  (26 minutes later)
 > 
 > I actually liked this one. Not much plot development, but a little bit. Setting up conflicts with the mayor and the crimson swords, longer term plans of farming the crack, Ameliah actually acknowledging that they need a room together. And biggest of all, our first actual lead in like a hundred chapters on potential higher than level 20 monsters.
-> 
 
->> **u/PriestofNight** [+6] *
+>> **u/PriestofNight** [+7]  (11 hours later)
 >> 
 >> Call it filler, it is what it is. There are 2 more of this coming up before something plot relevant happens. 
->> >!In two weeks u would revel in the hilarious adventures of team lv5. Staring Mariha, as the expirienced and Ruce the pointless diviner.!<
 >> 
+>> >!In two weeks u would revel in the hilarious adventures of team lv5. Staring Mariha, as the expirienced and Ruce the pointless diviner.!<
 
->>> **u/Luminous_Lead** [+1] *
+>>> **u/Luminous_Lead** [+1]  (a day later)
 >>> 
 >>> Cool, that lets me know not to get my hopes up for plot and just enjoy the fluff pieces as they drop.
->>> 
 
-> **u/grekhaus** [+5] *
+> **u/grekhaus** [+6]  (7 hours later)
 > 
 > It occurs to me that Rain's purity aura casts light. Do you suppose that there might be some way to enchant a crystal or something with a low level purity spell as a way to make light? Might run into the same issue as everburning torches in the long term, but at least it would draw on different resources - purity cysts instead of fire, maybe.
-> 
 
->> **u/Menolith** [+9]  *Unworthy Opponent**
+>> **u/Menolith** [+9]  *Unworthy Opponent* (7 hours later)
 >> 
 >> Magical light exists in the world already, so hacking Purify to make one would be kind of like clobbering an air dehumidifier to shed light instead of just buying a desk lamp.
->> 
 
->>> **u/GeeJo** [+3]  *Custom Flair**
+>>> **u/GeeJo** [+3]  *Custom Flair* (10 hours later)
 >>> 
 >>> A single tool that lights up a room and cleans the contents at the same time probably has some space in the market that's not covered by separate tools doing one of the jobs and not the other.
->>> At the very least it has pranking potential in replacing a bathroom light. "For some reason whenever I get up to pee in the night, I suddenly stop needing to as soon as I lift the toiet seat?"
 >>> 
+>>> At the very least it has pranking potential in replacing a bathroom light. "For some reason whenever I get up to pee in the night, I suddenly stop needing to as soon as I lift the toiet seat?"
 
->>>> **u/Gr_Cheese** [+5] *
+>>>> **u/Gr_Cheese** [+4]  (21 hours later)
 >>>> 
 >>>> It seems logical that purify has a higher runtime cost than a light spell, since purify only generates light while running and performs additional functions. Purify also seems to need a user to imbue it with subjective meaning in order to operate, so that can be chalked up to additional operating costs.
->>>> So you'd get 'light + purify', at a higher cost than just 'light'. Except once a space is clean, purify still consumes mana / resources but does not provide any additional benefit over a generic light source; other than the fact that it would also remove any new waste introduced to the space.
->>>> Toilet-light is a poor use-case, if you have access to purify, you would no longer build or need bathrooms.
->>>> Purify as a lightbulb would probably be useful while performing dirty jobs like mining. Running purify in checkpoints or high traffic areas might be worthwhile too.
 >>>> 
+>>>> So you'd get 'light + purify', at a higher cost than just 'light'. Except once a space is clean, purify still consumes mana / resources but does not provide any additional benefit over a generic light source; other than the fact that it would also remove any new waste introduced to the space.
+>>>> 
+>>>> Toilet-light is a poor use-case, if you have access to purify, you would no longer build or need bathrooms.
+>>>> 
+>>>> Purify as a lightbulb would probably be useful while performing dirty jobs like mining. Running purify in checkpoints or high traffic areas might be worthwhile too.
 
->>> **u/grekhaus** [+1] *
+>>> **u/grekhaus** [+1]  (8 hours later)
 >>> 
 >>> Or it might be more like using a glowstick instead of a wire bulb. Different materials and methods, some more efficient than others, but still useful in niche applications.
->>> 
 
-> **u/Midknightz** [+8] *
+> **u/Midknightz** [+9]  (8 minutes later)
 > 
 > Scrolled through chapter. No blue screens. Guess I'll check in next week.
-> 
 
->> **u/zorianteron** [+26] *
+>> **u/zorianteron** [+26]  (14 hours later)
 >> 
 >> The most chad 'numbers go up' take I've ever seen.  King.
->> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (15 hours later)
 >> 
 >> The absolute madman
->> 
 
-> **u/BuccaneerRex** [+2] *
+> **u/BuccaneerRex** [+2]  (10 hours later)
 > 
 > Thanks for the chapter. I like these little slice-of-life + worldbuilding chapters.
-> 
 
-> **u/DavidGretzschel** [+1] *
+> **u/DavidGretzschel** [+1]  (2 days later)
 > 
 > I enjoyed it. But I also wonder whether icebolt might be the missing spell for unlocking Maria's Cold Mage class.
 > Also when will Velika show up to ask for Tallheart to make cool stuff for her? Not like she's got anything else to do, other than getting up to her level cap presumably.
-> 
 
->> **u/TheColourOfHeartache** [+2] *
+>> **u/TheColourOfHeartache** [+2]  (3 days later)
 >> 
 >> I'm 90% sure Maria already has ice bolt.
->> 
 
->> **u/Dakadaka** [+1] *
+>> **u/Dakadaka** [+1]  (3 days later)
 >> 
 >> From what I gathered she knows what she needs as the warden told her. The problem is she needs to respec to have the right skills in the right spots to qualify.
->> 
 
->>> **u/DavidGretzschel** [+2] *
+>>> **u/DavidGretzschel** [+2]  (3 days later)
 >>> 
 >>> Eh? I remember that Vaatrice considered doing that.   \[and Lavarro going ballistic at the thought of her talking to Maria\]
+>>> 
 >>> And then "Lavarro" fake-angrily punching the barrier and being locked out by Rain (who was not thrilled about letting Lavarro in).  
 >>> And then Vaatrice discussing with the Fel Sadaanis commander to extend a friendly invitation to Rain for doing soul-stuff.  
 >>> \[which I'm not sure was seen actually being extended?\]
+>>> 
 >>> Did I miss a scene where the mother/daughter reunion actually happened?  
 >>> Might not have been convenient to stick around Fel Sadaanis as the most wanted criminal and all that.
->>> 
 
->>>> **u/EsquilaxM** [+2] *
+>>>> **u/EsquilaxM** [+2]  (5 days later)
 >>>> 
 >>>> Yeah it happened, though we didn't hear the exact words. Judging from maria later thinking (?) that she now considers her mother dead, it sounds like Vatreece went ahead with the Ï have many regrets, be better than me, btw here's what you need" line she was thinking about earlier.
->>>> 
 
 ---
 

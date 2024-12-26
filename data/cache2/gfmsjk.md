@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/05/08/chapter-26-palaver/
-* Score: 51
+* Score: 48
 
 * Created: 2020-05-08T05:04:10
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+2]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> [deleted]
->> 
 
 ---
 

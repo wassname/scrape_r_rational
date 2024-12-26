@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/3mjeic/bst_how_can_you_munchkin_the_item_box_pocket/
-* Score: 3
+* Score: 0
 
 * Created: 2015-09-27T02:58:47
 
@@ -34,211 +34,222 @@
 
 ### Comments:
 
-> **u/drageuth2** [+7] *
+> **u/drageuth2** [+8]  (2 hours later)
 > 
 > Well, it makes you pretty impossible to trap.  If you're tied up or put in handcuffs, you can just stow them.  If you can concentrate and change your perception, you should be able to 'store' person-shaped holes through any wall or locked door.  If you're in a pit, you can use the same thing to dig out handholds and just climb out.
-> You could get a job as a near-perfect surgeon: If someone needs a kidney removed, you can just put a hand on them and take it right out.
-> An extra 500lbs of stuff for free with next to no volume restrictions is a pretty enticing offer to any space agency.
-> You could store up multiple small sub-critical pieces of radioactive material, and then deploy them all at once, for a nuclear suicide bomb as a last resort.  Or just use it to work in nuclear power production.
-> You could make little fast-collapsing bubbles of vacuum in a water tank as a party trick?  Or you might be able to strategically stow water around you to force yourself through water at tremendous speeds.
-> In a fight, keep your 'stowing' power going; bullets, knives, and fists (A fist itself is not a living thing, it's merely attached to one.  It promptly becomes a dead thing when separated), will all just end up in your inventory, making you invincible until your space or weight limit runs out.  Unless they have laser/plasma guns, anyway
 > 
+> You could get a job as a near-perfect surgeon: If someone needs a kidney removed, you can just put a hand on them and take it right out.
+> 
+> An extra 500lbs of stuff for free with next to no volume restrictions is a pretty enticing offer to any space agency.
+> 
+> You could store up multiple small sub-critical pieces of radioactive material, and then deploy them all at once, for a nuclear suicide bomb as a last resort.  Or just use it to work in nuclear power production.
+> 
+> You could make little fast-collapsing bubbles of vacuum in a water tank as a party trick?  Or you might be able to strategically stow water around you to force yourself through water at tremendous speeds.
+> 
+> In a fight, keep your 'stowing' power going; bullets, knives, and fists (A fist itself is not a living thing, it's merely attached to one.  It promptly becomes a dead thing when separated), will all just end up in your inventory, making you invincible until your space or weight limit runs out.  Unless they have laser/plasma guns, anyway
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 hours later)
 >> 
 >> Well unless someone shoots you out of line of sight, you could probably rig up some sort of mirror contraption to have a 360 view of yourself to prevent that.
->> 
 
->>> **u/drageuth2** [+4] *
+>>> **u/drageuth2** [+4]  (14 hours later)
 >>> 
 >>> maybe that's why sneak attacks do so much more damage in RPGs
->>> 
 
-> **u/Jiro_T** [+3] *
+> **u/Jiro_T** [+5]  (3 hours later)
 > 
 > If items are stored based on what the user considers one item, can you store a piece of something that is physically connected?  For instance, if I have a sword that is cast as a single piece of metal, but I think of it as having a "hilt" and a "blade", could I store only the blade?  If so, it seems that I could cut any item in an arbitrary way just by changing what I think of as an object.
-> How do you determine what is living?  If I am a reductionist, and I believe that living organisms operate by the same principles as other organisms, I presume I am still prohibited from storing a living thing, so exactly how is what is "living" determined?  Can I store a virus?  Self-replicating nanobots?  Self-replicating biological nanobots?  (And if yes, why can't I store cells?)  A normal robot?  A normal robot with an artificial intelligence?
-> If I send through a part of a cell, does it count as alive?  If so, what parts of the cell count as the living part?  (Clearly it can't be "all parts" or I couldn't even send through water molecules.)
-> The limitation on not transporting things I can't perceive seems like it can be munchkined around by the object rule.  If I store a block of metal, I can't perceive its interior, yet the entire block is stored, including the interior.  So I could store an "object" made of a tiny speck on the visible surface that is connected by a tiny thread of metal to a piece of the interior.
-> What happens if I try to store a long object, long enough that the far end of the object has changed in the time since the light was emitted from it?  Even ignoring the possibility of the object changing, does the entire object get stored instantly from front to end or is there a speed of light limitation?  (If it's instant, I can send a signal back through time.)
 > 
+> How do you determine what is living?  If I am a reductionist, and I believe that living organisms operate by the same principles as other organisms, I presume I am still prohibited from storing a living thing, so exactly how is what is "living" determined?  Can I store a virus?  Self-replicating nanobots?  Self-replicating biological nanobots?  (And if yes, why can't I store cells?)  A normal robot?  A normal robot with an artificial intelligence?
+> 
+> If I send through a part of a cell, does it count as alive?  If so, what parts of the cell count as the living part?  (Clearly it can't be "all parts" or I couldn't even send through water molecules.)
+> 
+> The limitation on not transporting things I can't perceive seems like it can be munchkined around by the object rule.  If I store a block of metal, I can't perceive its interior, yet the entire block is stored, including the interior.  So I could store an "object" made of a tiny speck on the visible surface that is connected by a tiny thread of metal to a piece of the interior.
+> 
+> What happens if I try to store a long object, long enough that the far end of the object has changed in the time since the light was emitted from it?  Even ignoring the possibility of the object changing, does the entire object get stored instantly from front to end or is there a speed of light limitation?  (If it's instant, I can send a signal back through time.)
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (5 hours later)
 >> 
 >> A bit above my pay grade but I would say yes if you can reasonably think of something having a hilt you can store just the hilt. I think the clincher is you have to actually believe it's one item not just say so. This gets into shade of grey, is a fist alive? What part of a human is considered alive or not? I'd say there's a hard rule that anything that is made of living (as in replicating) cells that you can perceive with your own unaided eyes cannot be transported. 
->> I'm not totally sure about the other things but I'll give a hesitant yes to anything that isn't directly against the rules, which I think are strict enough as is. Feel free to list any ways you think you can use the power effectively as is.
 >> 
+>> I'm not totally sure about the other things but I'll give a hesitant yes to anything that isn't directly against the rules, which I think are strict enough as is. Feel free to list any ways you think you can use the power effectively as is.
 
->>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (7 hours later)
 >>> 
 >>> >  I think the clincher is you have to actually believe it's one item not just say so. 
->>> Everything is made of atoms that don't actually touch. Convince yourself of that, and you're golden.
 >>> 
+>>> Everything is made of atoms that don't actually touch. Convince yourself of that, and you're golden.
 
->>>> **u/Jiro_T** [+2] *
+>>>> **u/Jiro_T** [+2]  (22 hours later)
 >>>> 
 >>>> I don't actually think "item" is a well-defined concept.  At most, it means "it's useful for humans to think of the referent as a single unit".  But the fact that "item" is often a useful concept for humans doesn't mean that it's not arbitrary.  I *know* that there isn't any real difference between saying "this sword has a hilt and a blade" and "this apple has a top half and a bottom half", except that we don't have a single word that means "top half".
->>>> If I was the protagonist, it seems like I could chop up an arbitrary object in arbitrary way.
->>>> [13% of men and 10% of women don't know that clams are alive](http://www.styleweekly.com/richmond/are-you-a-girl-take-the-test-you-might-be-surprised/Content?oid=1389586).  If your hero is one of those, can he store clams?  There's a good chance that he doesn't realize that yogurt contains living bacteria.  Can he store yogurt?  Could he store an apple if he 1) forgets that the apple contains viable seeds or 2) forgets that the apple contains some living cells?
 >>>> 
+>>>> If I was the protagonist, it seems like I could chop up an arbitrary object in arbitrary way.
+>>>> 
+>>>> [13% of men and 10% of women don't know that clams are alive](http://www.styleweekly.com/richmond/are-you-a-girl-take-the-test-you-might-be-surprised/Content?oid=1389586).  If your hero is one of those, can he store clams?  There's a good chance that he doesn't realize that yogurt contains living bacteria.  Can he store yogurt?  Could he store an apple if he 1) forgets that the apple contains viable seeds or 2) forgets that the apple contains some living cells?
 
->>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (a day later)
 >>>>> 
 >>>>> > I know that there isn't any real difference between saying "this sword has a hilt and a blade" and "this apple has a top half and a bottom half", except that we don't have a single word that means "top half".
->>>>> Except that the blade is a piece of steel and the hilt is wood, horn, or something similar nailed or bolted to the tang of the blade.
 >>>>> 
+>>>>> Except that the blade is a piece of steel and the hilt is wood, horn, or something similar nailed or bolted to the tang of the blade.
 
->>>>>> **u/Jiro_T** [+1] *
+>>>>>> **u/Jiro_T** [+1]  (a day later)
 >>>>>> 
 >>>>>> >Except that the blade is a piece of steel and the hilt is wood, horn, or something similar nailed or bolted to the tang of the blade.
->>>>>> That doesn't match my example in the post above this
->>>>>> >if I have a sword that is cast as a single piece of metal, but I think of it as having a "hilt" and a "blade", could I store only the blade?
->>>>>> which Lunitan says would work.
 >>>>>> 
+>>>>>> That doesn't match my example in the post above this
+>>>>>> 
+>>>>>> >if I have a sword that is cast as a single piece of metal, but I think of it as having a "hilt" and a "blade", could I store only the blade?
+>>>>>> 
+>>>>>> which Lunitan says would work.
 
->>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (a day later)
 >>>>>>> 
 >>>>>>> Ah, I missed that because, well, that pretty much never happens. I won't say *absolutely* never, because someone would be sure to dig one up, but for actual swords... I can't imagine that happening. Seriously. Even if the hilt is mostly metal, it's made as a separate piece and riveted, pinned, or glued to the tang.
->>>>>>> 
 
-> **u/HereticalRants** [+3] *
+> **u/HereticalRants** [+3]  (16 minutes later)
 > 
 > >You cannot store anything living inside, Dead things that can rot will not rot while inside
+> 
 > Sounds like it kills (sterilizes) everything you put in it? or at least removes any living matter. Depending on how this works this could be useful. Perfect pasteurization without any denaturing of any proteins, plus obvious medical applications, and possibly an assassination technique that does not leave a body (at least until you get around to dealing with it).
 > Otherwise there's no practical way to put anything in it at all in most situations because most stuff in the biosphere has life in or on it.
-> What happens when you put cheese in your item box?
-
-> Also, you are now very good at smuggling and stealing stuff.
 > 
+> What happens when you put cheese in your item box?
+> 
+> Also, you are now very good at smuggling and stealing stuff.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (34 minutes later)
 >> 
 >> I'm unsure (I'm basing this off things like the gamer and re:monster and these things are never really explored.) There's two ways to go about it I would guess. Some sort of magical sterilization field that effects items as long as they are in the storage space, or the killing of every living thing that finds it's way inside. 
->> Let's assume it's more of a magical sterilization field, let's also say that you can transport living things that you cannot see that are attached to items you can see, like bacteria etc. Which makes sense since the entire power is based off line of sight, which also mean's that anything you cannot perceive cannot be transported.
 >> 
+>> Let's assume it's more of a magical sterilization field, let's also say that you can transport living things that you cannot see that are attached to items you can see, like bacteria etc. Which makes sense since the entire power is based off line of sight, which also mean's that anything you cannot perceive cannot be transported.
 
->>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (an hour later)
 >>> 
 >>> Or physics simply doesn't progress in the inventory.
->>> 
 
->>>> **u/Geminii27** [+3] *
+>>>> **u/Geminii27** [+3]  (2 hours later)
 >>>> 
 >>>> In which case, living things should be able to be stored timelessly and be retrieved the same way, unless there's something about the storage/retrieval process itself which severely disrupts life processes at the cellular or biochemical level.
->>>> I'd want to test what happens to a vial of a simple virus, as viruses don't exhibit many of the standard aspects of what we tend to think of as life. Are they simple enough to survive the process? If not, can we examine them under a powerful microscope and see if there was physical disruption of their molecular structure? Because if not, they should still function. But if so, it might give some insight into the storage/retrieval process, and possibly how the disruption might be minimized or countered.
 >>>> 
+>>>> I'd want to test what happens to a vial of a simple virus, as viruses don't exhibit many of the standard aspects of what we tend to think of as life. Are they simple enough to survive the process? If not, can we examine them under a powerful microscope and see if there was physical disruption of their molecular structure? Because if not, they should still function. But if so, it might give some insight into the storage/retrieval process, and possibly how the disruption might be minimized or countered.
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (16 hours later)
 >>>>> 
 >>>>> The inventory itself doesn't have to function according to physics (that's kind of the point), the OP gave a set of game rules.
->>>>> 
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (7 hours later)
 >> 
 >> Since it's subjectively based on "what's an object" it's probably subjectively based on "what's alive". If you're one of those guys who looks at a forest scene with no animals or birds visible and thinks "there's no life there" you can probably put living plants in and take them out. So long as you can keep from realizing that bacteria are alive, you're probably OK.
->> 
 
-> **u/Geminii27** [+3] *
+> **u/Geminii27** [+3]  (2 hours later)
 > 
 > >Reflections can increase line of sight with no adverse effects. For instance you can store something behind you by looking at it through a mirror and touching it.
-> Does it have to be a pure optical reflection, or can you (for example) point a smartphone's front-facing camera over your shoulder for what is pretty much the same effect?
-> When you take an item out, does it have to be touching your skin to be 'placed'? (Or can you 'dump' an item out without it having to touch you?)
-> Can you store an item and bring it back out in a different configuration? Examples: If you store clothes you are wearing while you are sitting down, can you bring them back out to a 'wearing' position while you are standing up, or do you have to extract them in their original position and then manually put them on? (Similarly, could you store a pair of glasses which had the earpieces folded down, but retrieve them directly onto your head with the earpieces folded out?)
-> I assume that if you have to be touching an item to retrieve/manifest it, you can make it appear at any point and orientation as long as it's touching you? For example, you could poke a pebble with your toe to store it, and retrieve that pebble into your hand?
 > 
+> Does it have to be a pure optical reflection, or can you (for example) point a smartphone's front-facing camera over your shoulder for what is pretty much the same effect?
+> 
+> When you take an item out, does it have to be touching your skin to be 'placed'? (Or can you 'dump' an item out without it having to touch you?)
+> 
+> Can you store an item and bring it back out in a different configuration? Examples: If you store clothes you are wearing while you are sitting down, can you bring them back out to a 'wearing' position while you are standing up, or do you have to extract them in their original position and then manually put them on? (Similarly, could you store a pair of glasses which had the earpieces folded down, but retrieve them directly onto your head with the earpieces folded out?)
+> 
+> I assume that if you have to be touching an item to retrieve/manifest it, you can make it appear at any point and orientation as long as it's touching you? For example, you could poke a pebble with your toe to store it, and retrieve that pebble into your hand?
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 hours later)
 >> 
 >> Yes if you manifest it you will be touching it and once again have line of sight, you can manifest it at any part of your body assuming it is touching you. Cameras will work, and you can bring things out in different configurations as long as you have line of sight. I'm imagining it as a sort of mental picture of the item to recall it. So yes everything you've said will work.
->> 
 
->>> **u/Jiro_T** [+2] *
+>>> **u/Jiro_T** [+2]  (3 hours later)
 >>> 
 >>> If cameras work, what about a camera with a delay that is twice the length of the delay on a normal camera?  100 times the normal delay?  1 million times the normal delay?
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (5 hours later)
 >>>> 
 >>>> I don't understand what a delay would even get you. I'd say yes though I don't understand the purpose.
->>>> 
 
->>>>> **u/Geminii27** [+4] *
+>>>>> **u/Geminii27** [+3]  (6 hours later)
 >>>>> 
 >>>>> It'd mess with your perception, and you mentioned in the original post that at least part of the power is based on the perception of the wielder. Normal human perception is anything up to a tenth of a second behind reality, with our brains filling in the gaps; a user of the storage power could try and store something that wasn't there any more or had been replaced by something else. A camera delay would make this time-gap larger; a storage attempt could be made on an object which had not been there for some time, or had been replaced over the course of minutes or hours.
->>>>> So what happens when someone tries to store the backpack-shape they see in the camera, but it's been replaced by a 1000-pound cube of iron? Does the attempt fail completely? Is a backpack-shaped chunk gouged out of the iron? Is 500 pounds of iron stored and the rest left alone?
->>>>> What if the backpack has been moved about half its width away? Is the entire backpack still stored? Is only half of it stored?
->>>>> If the backpack has not moved at all or been tampered with, can you store it if you're looking at a camera screen which shows you the backpack from half a second ago? Half a minute ago? A month ago? What if it's a polaroid camera and you're looking at a physical photo of the backpack from a minute ago instead of an still image on a screen? What about a photorealistic *painting* of the backpack? What if you happen to have a photographic memory and can recall to the tiniest detail what the backpack looked like five seconds ago when you checked it out in a mirror?
 >>>>> 
+>>>>> So what happens when someone tries to store the backpack-shape they see in the camera, but it's been replaced by a 1000-pound cube of iron? Does the attempt fail completely? Is a backpack-shaped chunk gouged out of the iron? Is 500 pounds of iron stored and the rest left alone?
+>>>>> 
+>>>>> What if the backpack has been moved about half its width away? Is the entire backpack still stored? Is only half of it stored?
+>>>>> 
+>>>>> If the backpack has not moved at all or been tampered with, can you store it if you're looking at a camera screen which shows you the backpack from half a second ago? Half a minute ago? A month ago? What if it's a polaroid camera and you're looking at a physical photo of the backpack from a minute ago instead of an still image on a screen? What about a photorealistic *painting* of the backpack? What if you happen to have a photographic memory and can recall to the tiniest detail what the backpack looked like five seconds ago when you checked it out in a mirror?
 
->>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (7 hours later)
 >>>>> 
 >>>>> If you can store an object via a camera with a delay, you can store an object via a recording, because that's a camera with a delay. Historians and archeologists will love you. Someone steals the Mona Lisa, you can *steal it back* from a video.
->>>>> 
 
->>>>>> **u/elevul** [+1]  *Cyoria Observer**
+>>>>>> **u/elevul** [+1]  *Cyoria Observer* (6 days later)
 >>>>>> 
 >>>>>> Only if you're touching it.
->>>>>> 
 
->>> **u/Geminii27** [+2] *
+>>> **u/Geminii27** [+2]  (5 hours later)
 >>> 
 >>> Bwahaha.
->>> Ahem.
->>> I propose a coil of extremely lightweight fishing line (or even lighter if you can get it), with a 500-pound weight on the end. The line is really long, but that's OK, you have a camera with a telescopic lens on it so you can see the whole thing. In fact, let's have two such cameras, one pointing up and the other pointing down. Assume for the sake of argument that the line is about, oh, half a mile long - you can make the weight the size of an apartment if you like; it's not too hard to see something that large.
->>> You stand on a balcony of some kind, pointing out over the edge of a long, long drop. There is no roof over the balcony either; you can look up to the sky.
->>> You tie the end of the fishing line which is not attached to the weight to the the end of your finger. Maybe you have a spring or some elastic in the line; either way it doesn't weigh that much.
->>> Stick your finger out over the balcony and push the weight off. Watch it fall through the camera pointing downwards. When it gets to the limit of the line, store it. Now look into the camera pointing upwards. Retrieve the line-and-weight apparatus in a flipped configuration, with the unweighted end of the line still tied around your finger and the 500-pound weight half a mile in the air at the other end of the line.
->>> Let the weight drop. I'll leave the details of energy generation to the imagination (maybe it slams into a kinetic generator at the end of its fall?), but 500 pounds repeatedly dropping for a mile under normal gravity is about two hundred kilowatts of potential energy.
 >>> 
+>>> Ahem.
+>>> 
+>>> I propose a coil of extremely lightweight fishing line (or even lighter if you can get it), with a 500-pound weight on the end. The line is really long, but that's OK, you have a camera with a telescopic lens on it so you can see the whole thing. In fact, let's have two such cameras, one pointing up and the other pointing down. Assume for the sake of argument that the line is about, oh, half a mile long - you can make the weight the size of an apartment if you like; it's not too hard to see something that large.
+>>> 
+>>> You stand on a balcony of some kind, pointing out over the edge of a long, long drop. There is no roof over the balcony either; you can look up to the sky.
+>>> 
+>>> You tie the end of the fishing line which is not attached to the weight to the the end of your finger. Maybe you have a spring or some elastic in the line; either way it doesn't weigh that much.
+>>> 
+>>> Stick your finger out over the balcony and push the weight off. Watch it fall through the camera pointing downwards. When it gets to the limit of the line, store it. Now look into the camera pointing upwards. Retrieve the line-and-weight apparatus in a flipped configuration, with the unweighted end of the line still tied around your finger and the 500-pound weight half a mile in the air at the other end of the line.
+>>> 
+>>> Let the weight drop. I'll leave the details of energy generation to the imagination (maybe it slams into a kinetic generator at the end of its fall?), but 500 pounds repeatedly dropping for a mile under normal gravity is about two hundred kilowatts of potential energy.
 
->>>> **u/Gurkenglas** [+2] *
+>>>> **u/Gurkenglas** [+2]  (16 hours later)
 >>>> 
 >>>> Surely we can do better than that. Let's aim for a global paradigm shift... *googles* the world uses 17.7 TW. Let's see what we can do. Gravitational potential energy is mass times height times gravitational acceleration. You've thought of the first two factors, but we could get more energy by operating in higher gravity. Of course it's not practical moving to Jupiter (although we can probably manage space travel pretty easy.), but science fiction reminds of a classic way to simulate higher gravity: Centrifuges.
->>>> Einstein says the big universe simulator stores objects under gravity and objects in an accelerating reference frame in the same format, so we can expect to be able to add/remove weight from a running centrifuge if we can respawn things from our inventory at a different elevation than we got them from.
->>>> I vaguely remember that the industrial process where "How hard can we get a centrifuge to spin?" is the bottleneck factor is refining uranium (the limiting factor is, iirc, when the centrifuge flies apart from the centrisomething force). Combining [Wikipedia](https://en.wikipedia.org/wiki/Zippe-type_centrifuge) with [Wolfram Alpha](http://www.wolframalpha.com/input/?i=centrifuge&a=*C.centrifuge-_*Formula.dflt-&a=FSelect_**CentripetalAcceleration-.dflt-&a=*FS-_**CentripetalAcceleration.a-.*CentripetalAcceleration.r-.*CentripetalAcceleration.omega--&f4=20+cm&f=CentripetalAcceleration.r_20+cm&f5=4700+rad%2Fs&f=CentripetalAcceleration.omega_4700+rad%2Fs&a=*FVarOpt.1-_***CentripetalAcceleration.omega--.***CentripetalAcceleration.v---.*--) nets us roughly 450000 g.
->>>> Of course, the 20 cm give us a disappointing... [Wolfram Alpha](http://www.wolframalpha.com/input/?i=450000+g+*+500+pounds+*+20+cm+in+kWh&a=UnitClash_*g.*StandardAccelerationOfGravity--&a=UnitClash_*pounds.*Pounds.dflt--)... 55 kWh per operation, so we'd need to do on the order of 4 of those per hour to get what the parent post gets. (My calculations are riddled with ballparkings, for example the mgh formula doesn't work so well with centrifuges and their acceleration depending on distance from the center.)
->>>> Maybe use magnets?
 >>>> 
+>>>> Einstein says the big universe simulator stores objects under gravity and objects in an accelerating reference frame in the same format, so we can expect to be able to add/remove weight from a running centrifuge if we can respawn things from our inventory at a different elevation than we got them from.
+>>>> 
+>>>> I vaguely remember that the industrial process where "How hard can we get a centrifuge to spin?" is the bottleneck factor is refining uranium (the limiting factor is, iirc, when the centrifuge flies apart from the centrisomething force). Combining [Wikipedia](https://en.wikipedia.org/wiki/Zippe-type_centrifuge) with [Wolfram Alpha](http://www.wolframalpha.com/input/?i=centrifuge&a=*C.centrifuge-_*Formula.dflt-&a=FSelect_**CentripetalAcceleration-.dflt-&a=*FS-_**CentripetalAcceleration.a-.*CentripetalAcceleration.r-.*CentripetalAcceleration.omega--&f4=20+cm&f=CentripetalAcceleration.r_20+cm&f5=4700+rad%2Fs&f=CentripetalAcceleration.omega_4700+rad%2Fs&a=*FVarOpt.1-_***CentripetalAcceleration.omega--.***CentripetalAcceleration.v---.*--) nets us roughly 450000 g.
+>>>> 
+>>>> Of course, the 20 cm give us a disappointing... [Wolfram Alpha](http://www.wolframalpha.com/input/?i=450000+g+*+500+pounds+*+20+cm+in+kWh&a=UnitClash_*g.*StandardAccelerationOfGravity--&a=UnitClash_*pounds.*Pounds.dflt--)... 55 kWh per operation, so we'd need to do on the order of 4 of those per hour to get what the parent post gets. (My calculations are riddled with ballparkings, for example the mgh formula doesn't work so well with centrifuges and their acceleration depending on distance from the center.)
+>>>> 
+>>>> Maybe use magnets?
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (7 hours later)
 >>> 
 >>> If cameras work, just send out a drone to steal stuff.
->>> 
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+4]  (10 hours later)
 >>>> 
 >>>> You all are forgetting you have to touch the object to store it. Severely limiting the effectiveness of drones and recordings.
->>>> 
 
->>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (12 hours later)
 >>>>> 
 >>>>> Put the frame of the Mona Lisa in storage while looking t the video of the original and thinking of the painting as a single thing. Extract the whole thing.
->>>>> 
 
-> **u/IllusoryIntelligence** [+2] *
+> **u/IllusoryIntelligence** [+2]  (a day later)
 > 
 > This appears to be missing a certain [visual demonstration](https://youtu.be/S09mEDCqSx4?t=51) of munchkin-ing item storage for all it is worth.
-> 
 
-> **u/Nighzmarquls** [+1] *
+> **u/Nighzmarquls** [+1]  (6 hours later)
 > 
 > Hmmmm. I'd offer my services as part of courier service working towards acting as a way to save on payload costs to the iss.
-> This is a fairly good power. It's very difficult to make a star ship out of.
 > 
+> This is a fairly good power. It's very difficult to make a star ship out of.
 
-> **u/Geminii27** [+1] *
+> **u/Geminii27** [+1]  (6 hours later)
 > 
 > I throw out fifty feet of rope with molecular glue on the end. It hits something and creates an intermolecular bond with whatever it lands on. The rope, glue, and bound item are now a single item far more than, for example, some parts just welded together. I store the whole item, including the *component* which was fifty feet away, despite never having laid skin on it.
-> I build a device, perhaps about the size of a backpack, which, internally, accelerates a heavy weight downwards extremely rapidly (maybe magnetically?), shooting it out of the bottom of the device and correspondingly making the device itself spring upwards (equal and opposite reaction). The weight also has a long elastic string tied to it, with the string ending in a small loop. I strap myself to the outside of the device. I retrieve the weight-string object in the position of the weight being un-'fired' and the string looped around my finger. The device fires the weight downwards hard enough to jerk me off the ground - but before the weight can hit the ground, or I can start falling, I store the weight-string object, and immediately retrieve it in its original configuration. The device fires again, and again, and again, kicking me higher into the air with each shot. As long as I can keep concentrating on the storage and retrieval process, I can fly.
-> I source the world's most powerful mechanical spring weighing less than 500 pounds. I store it uncompressed, then retrieve it in its compressed configuration where its sudden decompression is used to generate power. I do this perhaps once per second. I either use the power directly to run a variety of devices, or store it for later use.
-> Perhaps I do the same for piezoelectric crystals.
 > 
+> I build a device, perhaps about the size of a backpack, which, internally, accelerates a heavy weight downwards extremely rapidly (maybe magnetically?), shooting it out of the bottom of the device and correspondingly making the device itself spring upwards (equal and opposite reaction). The weight also has a long elastic string tied to it, with the string ending in a small loop. I strap myself to the outside of the device. I retrieve the weight-string object in the position of the weight being un-'fired' and the string looped around my finger. The device fires the weight downwards hard enough to jerk me off the ground - but before the weight can hit the ground, or I can start falling, I store the weight-string object, and immediately retrieve it in its original configuration. The device fires again, and again, and again, kicking me higher into the air with each shot. As long as I can keep concentrating on the storage and retrieval process, I can fly.
+> 
+> I source the world's most powerful mechanical spring weighing less than 500 pounds. I store it uncompressed, then retrieve it in its compressed configuration where its sudden decompression is used to generate power. I do this perhaps once per second. I either use the power directly to run a variety of devices, or store it for later use.
+> 
+> Perhaps I do the same for piezoelectric crystals.
 
->> **u/ulyssessword** [+1] *
+>> **u/ulyssessword** [+1]  (21 hours later)
 >> 
 >> You should combine your two ideas:  a device that combines a huge spring attached to a large weight, that you retrieve with the spring compressed (which pushes it upwards), store, then retrieve again.
->> You now have a reactionless drive, and can do all the fun stuff that that entails.
 >> 
+>> You now have a reactionless drive, and can do all the fun stuff that that entails.
 
 ---
 

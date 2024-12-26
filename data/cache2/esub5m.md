@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2020/01/23/chapter-3-drink/
-* Score: 11
+* Score: 9
 
 * Created: 2020-01-23T15:05:30
 

@@ -55,41 +55,41 @@ The BlackStaff and NightMarE
 
 ### Comments:
 
-> **u/anenymouse** [+2] *
+> **u/anenymouse** [+2]  (a day later)
 > 
 > Delia being a bad parent and knowing that she's a bad parent still makes a little uncomfortable, like I'm still not super sure that most bad parent's even have the self awareness to admit that they're not you know good at being a parent. But from what we see it makes a lot of sense of that she a young-ish woman, who is then a single mother who wants to do work that she's passionate and qualified for. It is a little selfish, but it's understandable that someone would do that. It probably doesn't excuse her failures but at least it acknowledges both that she had them and also that she's aware of them.
-> 
 
->> **u/NightMarE--666--** [+2] *
+>> **u/NightMarE--666--** [+2]  (a day later)
 >> 
 >> " Delia being a bad parent and knowing that she's a bad parent still makes a little uncomfortable, like I'm still not super sure that most bad parent's even have the self awareness to admit that they're not you know good at being a parent. "
->> >!You must realize, most 'bad parents' don't have a Kirlia shoving the memory and emotions of said neglected child into there head forcing them to view the incidents from the child's POV. Also, she was not trying to be a bad parent. Unlike some kids who would go ask for attention, we must remember that with Mia keeping him almost constantly happy, Delia (who was quite unexperienced) always thought her son was okay. This isn't justifying her actions, but at least it gives us an idea of why she behaved the way she did.!<
 >> 
+>> >!You must realize, most 'bad parents' don't have a Kirlia shoving the memory and emotions of said neglected child into there head forcing them to view the incidents from the child's POV. Also, she was not trying to be a bad parent. Unlike some kids who would go ask for attention, we must remember that with Mia keeping him almost constantly happy, Delia (who was quite unexperienced) always thought her son was okay. This isn't justifying her actions, but at least it gives us an idea of why she behaved the way she did.!<
 
->>> **u/anenymouse** [+2] *
+>>> **u/anenymouse** [+2]  (2 days later)
 >>> 
 >>> Oh no I think how you portray it is completely reasonable, it's just the way that the portrayal shows her neglecting to care for her own son is what makes me uncomfortable. Like it's one thing to have a high fantasy problem, but the way that you're portraying it could easily be the way someone is currently experiencing it today. And that makes me uncomfortable, not at the way you're writing just in general.
->>> 
 
->>>> **u/NightMarE--666--** [+1] *
+>>>> **u/NightMarE--666--** [+1]  (2 days later)
 >>>> 
 >>>> That makes sense. We have tagged warnings on our fic though, including Dark Themes and Horror. Most people who end up reading it, should be able to deal with this. Hopefully.
->>>> 
 
-> **u/DvDCover** [+2] *
+> **u/DvDCover** [+2]  (2 days later)
 > 
 > Why is "sweatdrop" being used as a verb so many places?
-> 
 
->> **u/NightMarE--666--** [+1] *
+>> **u/NightMarE--666--** [+1]  (2 days later)
 >> 
 >> We thought it could be used as a verb. Basically something that indicated embarrassment or exasperation. Though we only use it a few times early on and don't really use it at all anymore. That being said when we go over it we can probably find better verbs to use. From what we read on it (sadly after we published, such is only used in anime/manga contexts). It has only been used in chapters 3,5 and 7 and we don't use it anymore.
->> *That being said, it is not wrong grammar even if such usage is frowned upon.*
->> Other than its ridiculous connotation with anime/manga it can be taken as a metaphoric verb for embarrassment or exasperation.
->> ## Verb[[edit](https://en.wiktionary.org/w/index.php?title=sweatdrop&action=edit&section=5)]
->> **sweatdrop** (*third-person singular simple present* [**sweatdrops**](https://en.wiktionary.org/wiki/sweatdrops#English), *present participle* [**sweatdropping**](https://en.wiktionary.org/wiki/sweatdropping#English), *simple past and past participle* [**sweatdropped**](https://en.wiktionary.org/wiki/sweatdropped#English))
->> 1. ([*intransitive*](https://en.wiktionary.org/wiki/Appendix:Glossary#intransitive), *of a character in* [*anime*](https://en.wiktionary.org/wiki/anime) *or* [*manga*](https://en.wiktionary.org/wiki/manga)) To show a [stylized](https://en.wiktionary.org/wiki/stylized) [bead](https://en.wiktionary.org/wiki/bead) of sweat at the forehead, indicating [embarrassment](https://en.wiktionary.org/wiki/embarrassment), [exasperation](https://en.wiktionary.org/wiki/exasperation), etc.
 >> 
+>> *That being said, it is not wrong grammar even if such usage is frowned upon.*
+>> 
+>> Other than its ridiculous connotation with anime/manga it can be taken as a metaphoric verb for embarrassment or exasperation.
+>> 
+>> ## Verb[[edit](https://en.wiktionary.org/w/index.php?title=sweatdrop&action=edit&section=5)]
+>> 
+>> **sweatdrop** (*third-person singular simple present* [**sweatdrops**](https://en.wiktionary.org/wiki/sweatdrops#English), *present participle* [**sweatdropping**](https://en.wiktionary.org/wiki/sweatdropping#English), *simple past and past participle* [**sweatdropped**](https://en.wiktionary.org/wiki/sweatdropped#English))
+>> 
+>> 1. ([*intransitive*](https://en.wiktionary.org/wiki/Appendix:Glossary#intransitive), *of a character in* [*anime*](https://en.wiktionary.org/wiki/anime) *or* [*manga*](https://en.wiktionary.org/wiki/manga)) To show a [stylized](https://en.wiktionary.org/wiki/stylized) [bead](https://en.wiktionary.org/wiki/bead) of sweat at the forehead, indicating [embarrassment](https://en.wiktionary.org/wiki/embarrassment), [exasperation](https://en.wiktionary.org/wiki/exasperation), etc.
 
 ---
 

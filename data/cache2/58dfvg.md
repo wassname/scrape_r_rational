@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/58dfvg/biweekly_challenge_androids/
-* Score: 11
+* Score: 12
 
 * Created: 2016-10-19T23:04:48
 
@@ -50,117 +50,120 @@ Next time, we're going to tackle ~~spiders~~ **Politics**, just in time for the 
 
 ### Comments:
 
-> **u/TennisMaster2** [+6] *
+> **u/TennisMaster2** [+7]  (11 hours later)
 > 
 > [Ana's Niceness](http://textuploader.com/d54vr)
-> Eight hundred and seventy three words.
 > 
+> Eight hundred and seventy three words.
 
->> **u/TennisMaster2** [+1] *
+>> **u/TennisMaster2** [+1]  (21 hours later)
 >> 
 >> Officially soliciting comments and impressions in order to improve writing ability.
->> 
 
->> **u/rhaps0dy4** [+1] *
+>> **u/rhaps0dy4** [+1]  (8 days later)
 >> 
 >> Why the extreme manipulation by the Anadroids? Why do all humans owe them their lives?
->> Is this meant to be a not-quite-friendly AI taking over?
 >> 
+>> Is this meant to be a not-quite-friendly AI taking over?
 
->>> **u/TennisMaster2** [+2] *
+>>> **u/TennisMaster2** [+2]  (9 days later)
 >>> 
 >>> There are a few different ways to take the story, all of which depend on the origin of the Androids.
+>>> 
 >>> The story leads you to believe the world is better off for the Android's involvement - even if you suspect otherwise, Herman himself has no cause for suspicion.  If the Androids were created for a purpose, and the society glimpsed in the second scene is a realization of that purpose, then, assuming the Androids are rational agents, their goals become clear.  The methods through which they achieved those goals provide further insight into the Androids' purpose and origin.
 >>> ________________________________
->>> I think story snippets like this are best when they inspire readers' imagination.  I tried to keep my answer similarly vague and inspiring, so that you can explore the answer yourself.
 >>> 
+>>> I think story snippets like this are best when they inspire readers' imagination.  I tried to keep my answer similarly vague and inspiring, so that you can explore the answer yourself.
 
->>>> **u/chaosmosis** [+3]  *and with strange aeons, even death may die**
+>>>> **u/chaosmosis** [+3]  *and with strange aeons, even death may die* (12 days later)
 >>>> 
 >>>> Vagueness can be a useful seasoning. But no one should try to eat an entire pound of pabrika.
->>>> 
 
->>>>> **u/TennisMaster2** [+2] *
+>>>>> **u/TennisMaster2** [+2]  (12 days later)
 >>>>> 
 >>>>> Too much vitamin A, yes, though I forget what is the literature's current stance on vitamin overdose through whole food sources.
->>>>> Are you speaking generally, referring to my comment, or to my story?  If either of the last two, please speak more specifically about your experience so I have some concrete feedback with which I may improve.
->>>>> I understand vague writing can get in the way of comprehension, which defeats the point of storytelling.  It doesn't appear that's the case here, though, as the question regarded implied worldbuilding which was intentionally left vague so as to inspire readers' imaginations.
 >>>>> 
+>>>>> Are you speaking generally, referring to my comment, or to my story?  If either of the last two, please speak more specifically about your experience so I have some concrete feedback with which I may improve.
+>>>>> 
+>>>>> I understand vague writing can get in the way of comprehension, which defeats the point of storytelling.  It doesn't appear that's the case here, though, as the question regarded implied worldbuilding which was intentionally left vague so as to inspire readers' imaginations.
 
->>>>>> **u/chaosmosis** [+5]  *and with strange aeons, even death may die**
+>>>>>> **u/chaosmosis** [+5]  *and with strange aeons, even death may die* (13 days later)
 >>>>>> 
 >>>>>> I felt like the story was too vague. I wasn't able to have my imagination challenged by your story because it felt very obvious to me that you were intentionally being vague.
->>>>>> Imagine if someone told you "pick a number between one and ten", and no matter which number you replied with, they said "WRONG!". Trying to guess the truth of an overtly vague story like the one you wrote feels similarly pointless and frustrating, at least to me. I can't be meaningfully curious about something that is rigged to be unclear.
 >>>>>> 
+>>>>>> Imagine if someone told you "pick a number between one and ten", and no matter which number you replied with, they said "WRONG!". Trying to guess the truth of an overtly vague story like the one you wrote feels similarly pointless and frustrating, at least to me. I can't be meaningfully curious about something that is rigged to be unclear.
 
->>>>>>> **u/TennisMaster2** [+2] *
+>>>>>>> **u/TennisMaster2** [+2]  (13 days later)
 >>>>>>> 
 >>>>>>> Thank you for the feedback.  I'll have to think about this for a while.
->>>>>>> Thought about it.
->>>>>>> Would capitalizing "it", and starting the story with the line, "His order had arrived," have made it clearer?
->>>>>>> I meant for it to be clear he has deep-seated issues of inadequacy, which his Ana resolves, and for which he ordered her.  This means she knows how to make him feel wanted, and he knew she would be able to make him feel wanted when he ordered her.
->>>>>>> If that much wasn't clear, then I failed.  If rather the only vagueness is the origin of the Androids, then I succeeded -- and I need to think more about your experience.
 >>>>>>> 
+>>>>>>> Thought about it.
+>>>>>>> 
+>>>>>>> Would capitalizing "it", and starting the story with the line, "His order had arrived," have made it clearer?
+>>>>>>> 
+>>>>>>> I meant for it to be clear he has deep-seated issues of inadequacy, which his Ana resolves, and for which he ordered her.  This means she knows how to make him feel wanted, and he knew she would be able to make him feel wanted when he ordered her.
+>>>>>>> 
+>>>>>>> If that much wasn't clear, then I failed.  If rather the only vagueness is the origin of the Androids, then I succeeded -- and I need to think more about your experience.
 
->>>>>>>> **u/Anakiri** [+3] *
+>>>>>>>> **u/Anakiri** [+3]  (13 days later)
 >>>>>>>> 
 >>>>>>>> That's the only part of your story that *was* clear to me, and it was clear that their specific origin doesn't matter. What isn't clear is what the androids are *actually doing*.
->>>>>>>> My best guess is that it's some kind of brainwashing? I can't think of any other way to explain how Herman both does and doesn't know about natural language processing. The android first gentleman speaking for the president makes more sense that way too. In this interpretation, the whole "we owe them our lives" thing is more manipulation, and this is a horror story.
->>>>>>>> It could have been a good horror story, leaving it unclear whether paradise is worth the manipulation... except it's not clear enough for me to be confident that that's what the story is about. Maybe you just meant for Herman to be unconfident without his moral support? Then the first gentleman thing was just to show how prevalent they are. In this interpretation, the androids really have helped people with their issues and made the world a better place, warranting the gratitude. Now it's a simple uplifting story.
->>>>>>>> You've written a story about the interactions of humans and androids, then made those interactions ambiguous, and left the outcomes ambiguous too. I have no idea what is actually happening, to the extent that I can't even tell the tone of the story. You've given me nothing solid at all to start imagining with. I'm just confused and unfulfilled.
 >>>>>>>> 
+>>>>>>>> My best guess is that it's some kind of brainwashing? I can't think of any other way to explain how Herman both does and doesn't know about natural language processing. The android first gentleman speaking for the president makes more sense that way too. In this interpretation, the whole "we owe them our lives" thing is more manipulation, and this is a horror story.
+>>>>>>>> 
+>>>>>>>> It could have been a good horror story, leaving it unclear whether paradise is worth the manipulation... except it's not clear enough for me to be confident that that's what the story is about. Maybe you just meant for Herman to be unconfident without his moral support? Then the first gentleman thing was just to show how prevalent they are. In this interpretation, the androids really have helped people with their issues and made the world a better place, warranting the gratitude. Now it's a simple uplifting story.
+>>>>>>>> 
+>>>>>>>> You've written a story about the interactions of humans and androids, then made those interactions ambiguous, and left the outcomes ambiguous too. I have no idea what is actually happening, to the extent that I can't even tell the tone of the story. You've given me nothing solid at all to start imagining with. I'm just confused and unfulfilled.
 
->>>>>>>>> **u/TennisMaster2** [+2] *
+>>>>>>>>> **u/TennisMaster2** [+2]  (13 days later)
 >>>>>>>>> 
 >>>>>>>>> Yes!  That uncertainty is exactly what I was going for.  
->>>>>>>>> As a layperson in that world, you'd see the same things and be just as uncertain whether the androids were a good or a bad influence.  You'd see friends and acquaintances become even more competent or turn their lives around for the better, all because of the now ubiquitous influence of the androids.  I wanted to convey that uncertainty with my story without giving any indication of what you, the reader, *should* believe.  Thus leaving it up to your own imagination.  Your confusion is what you're supposed to start imagining with.
->>>>>>>>> That you're unfulfilled is a serious problem, though, and I don't know what to do about that.  Maybe change the radio broadcast to a morning talk show, with the hosts conveying the same news but also sharing that they're not sure what to make of the effect the android population has had on society in recent years?  I think that would hint to the reader what they're supposed to think about after the story ends, though it sounds heavy-handed.  While I suppose it's better to err on the side of making the directions clear, I wonder if there isn't a better way to create a sense of fulfillment.
->>>>>>>>> P.S: Regarding natural language processing, Herman realizes he doesn't understand how it works on a technical level, which triggers his issue with inadequacy - that's all.  Perhaps I could have made that clearer.
 >>>>>>>>> 
+>>>>>>>>> As a layperson in that world, you'd see the same things and be just as uncertain whether the androids were a good or a bad influence.  You'd see friends and acquaintances become even more competent or turn their lives around for the better, all because of the now ubiquitous influence of the androids.  I wanted to convey that uncertainty with my story without giving any indication of what you, the reader, *should* believe.  Thus leaving it up to your own imagination.  Your confusion is what you're supposed to start imagining with.
+>>>>>>>>> 
+>>>>>>>>> That you're unfulfilled is a serious problem, though, and I don't know what to do about that.  Maybe change the radio broadcast to a morning talk show, with the hosts conveying the same news but also sharing that they're not sure what to make of the effect the android population has had on society in recent years?  I think that would hint to the reader what they're supposed to think about after the story ends, though it sounds heavy-handed.  While I suppose it's better to err on the side of making the directions clear, I wonder if there isn't a better way to create a sense of fulfillment.
+>>>>>>>>> 
+>>>>>>>>> P.S: Regarding natural language processing, Herman realizes he doesn't understand how it works on a technical level, which triggers his issue with inadequacy - that's all.  Perhaps I could have made that clearer.
 
->>>>>>>>>> **u/Anakiri** [+2] *
+>>>>>>>>>> **u/Anakiri** [+2]  (13 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I once read that the writers of some TV series I've never seen (*Lost*, maybe?) thought hard about how to strike the right balance of questions and answers, since going too far in either direction makes the audience less engaged. The optimal point they found, as I recall, is one-to-one. For every mystery they solved, they would raise one new one, and for every mystery raised, they would solve one old one. I don't know how accurate that may be, even if my memory is correct, but I think it's a useful way to think about things regardless.
->>>>>>>>>> As it is, I have about as many questions as you have *paragraphs*, let alone plotpoints. The only good solution, I think, is for you to write a longer story that has, y'know... at least one non-mystery in it. I need a rock to start from.
 >>>>>>>>>> 
+>>>>>>>>>> As it is, I have about as many questions as you have *paragraphs*, let alone plotpoints. The only good solution, I think, is for you to write a longer story that has, y'know... at least one non-mystery in it. I need a rock to start from.
 
->>>>>>>>>>> **u/TennisMaster2** [+1] *
+>>>>>>>>>>> **u/TennisMaster2** [+1]  (13 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I saw the same piece; you remember correctly.
->>>>>>>>>>> I see.  I should pelt rocks at readers.
->>>>>>>>>>> Less flippantly, thank you for the feedback!  I'll keep it in mind and a pile rocks handy for future works.  Excuse me, I need to go gather rocks.  For pelting.
 >>>>>>>>>>> 
+>>>>>>>>>>> I see.  I should pelt rocks at readers.
+>>>>>>>>>>> 
+>>>>>>>>>>> Less flippantly, thank you for the feedback!  I'll keep it in mind and a pile rocks handy for future works.  Excuse me, I need to go gather rocks.  For pelting.
 
-> **u/Dathouen** [+5] *
+> **u/Dathouen** [+6]  (3 hours later)
 > 
 > [Pi (1209 Words)](https://docs.google.com/document/d/1Izxkno5Cq1ZRADu8U9mdMErppcVCv8XWeGWJKOkPryA/pub)
-> 
 
->> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (6 hours later)
 >> 
 >> I'm very confused by the last few lines. You suddenly switched from third person to first person and I don't understand why.
->> 
 
->>> **u/Dathouen** [+1] *
+>>> **u/Dathouen** [+1]  (13 hours later)
 >>> 
 >>> Prior to that he was lost in thought, in the last three paragraphs he's pulled from his contemplations by the trial.
->>> 
 
->>>> **u/rhaps0dy4** [+1] *
+>>>> **u/rhaps0dy4** [+1]  (8 days later)
 >>>> 
 >>>> Yes but it still does not make sense. You keep talking as the narrator, but the narrator passes from being external to being Chris, without a reason, just before Chris is pulled from contemplations.
->>>> Nice story though.
 >>>> 
+>>>> Nice story though.
 
->> **u/GrecklePrime** [+1] *
+>> **u/GrecklePrime** [+1]  (a day later)
 >> 
 >> I'm not able to access this, it requires me to request access?
->> 
 
->>> **u/Dathouen** [+1] *
+>>> **u/Dathouen** [+1]  (2 days later)
 >>> 
 >>> Weird. Try now?
->>> 
 
 ---
 

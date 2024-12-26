@@ -2,7 +2,7 @@
 
 * Author: u/SkyTroupe *
 * URL: https://www.reddit.com/r/rational/comments/84iybe/confusion_on_gardens_of_the_moon/
-* Score: 7
+* Score: 10
 
 * Created: 2018-03-15T01:54:06
 
@@ -22,79 +22,74 @@ Is it easier to actually read it than listen to it?
 
 ### Comments:
 
-> **u/Amonwilde** [+25] *
+> **u/Amonwilde** [+25]  (3 hours later)
 > 
 > OK. Here's the scoop. There is a magic system in the Malazan books, and it's internally consistent. It's also based on the history and cosmogony of the world. But it is not explained.
-> Think of it this way. Imagine an alien from an alternate universe. They gain access to a device that allows them to read our fiction. They read *Measuring the World* and say, "These Humboldt and Gauss characters seem cool, but when will this crazy Science system be explained?"
-> The information about the magic system is in the books. That is, once you know about the history of the world in the books, you know what's important to know about the magic system. Characters even explain parts of the magic system to one another. But no one ever stands up and starts talking about magic, or anything else, as if they had no grounding in the history of the world. No 7-year-old comes through a wardrobe and needs to have everything explained.
-> Personally, I find this approach refreshing, realistic, and, frankly, more interesting than the approach in most books. There's no "'Yer a wizard, 'arry!" or "The thing about level 0 cantrips is that they need to be memorized..." or, conversely, characters pulling plot-solving magic out of unlikely anatomical spaces.
-> So, anyway, you're not missing anything. The books don't present history, cosmology, or magic in digestable parts, but rather as a whole. Treat them as a puzzle to be solved—you're learning lore and making connections. Also just enjoy the insane time scale. Races who have made themselves into undead so they can stop ice ages. Artifacts built by insect mechanists that died out 100,000 years ago. Gods that were worshipped by the gods as gods, and are still kicking around.
-> Also, the first book only heats up toward the end, and don't give up on the series until you've read Deadhouse Gates. In fact, I tell people to start with Deadhouse Gates.
 > 
+> Think of it this way. Imagine an alien from an alternate universe. They gain access to a device that allows them to read our fiction. They read *Measuring the World* and say, "These Humboldt and Gauss characters seem cool, but when will this crazy Science system be explained?"
+> 
+> The information about the magic system is in the books. That is, once you know about the history of the world in the books, you know what's important to know about the magic system. Characters even explain parts of the magic system to one another. But no one ever stands up and starts talking about magic, or anything else, as if they had no grounding in the history of the world. No 7-year-old comes through a wardrobe and needs to have everything explained.
+> 
+> Personally, I find this approach refreshing, realistic, and, frankly, more interesting than the approach in most books. There's no "'Yer a wizard, 'arry!" or "The thing about level 0 cantrips is that they need to be memorized..." or, conversely, characters pulling plot-solving magic out of unlikely anatomical spaces.
+> 
+> So, anyway, you're not missing anything. The books don't present history, cosmology, or magic in digestable parts, but rather as a whole. Treat them as a puzzle to be solved—you're learning lore and making connections. Also just enjoy the insane time scale. Races who have made themselves into undead so they can stop ice ages. Artifacts built by insect mechanists that died out 100,000 years ago. Gods that were worshipped by the gods as gods, and are still kicking around.
+> 
+> Also, the first book only heats up toward the end, and don't give up on the series until you've read Deadhouse Gates. In fact, I tell people to start with Deadhouse Gates.
 
->> **u/FordEngineerman** [+2] *
+>> **u/FordEngineerman** [+2]  (2 days later)
 >> 
 >> That sounds incredibly frustrating and infuriating. I imagine that I would be reading the wiki by half way through the first book.
->> 
 
->>> **u/Amonwilde** [+1] *
+>>> **u/Amonwilde** [+1]  (2 days later)
 >>> 
 >>> I like to feel like I'm putting together puzzle pieces when I'm reading a book. That's definitely not for everyone. If you've played Dark Souls, it takes a similar approach.
->>> 
 
->> **u/LimeDog** [+1] *
+>> **u/LimeDog** [+1]  (23 hours later)
 >> 
 >> Why start there? 
 >> Now you have me curious.
->> 
 
->>> **u/Amonwilde** [+4] *
+>>> **u/Amonwilde** [+5]  (a day later)
 >>> 
 >>> Frankly, it's a better, and more confidently written, book. *Gardens of the Moon* still feels a little like a "normal" fantasy novel, with a thief and a love interest and a big baddy who pops up for everyone to fight at the end. *Deadhouse Gates* has a more memorable plot, and the whole Chain of Dogs thing is pretty exciting, or was to my teenage self. (Yes, it's been like 15 years since I read this book.) Most other reasons for reading a fantasy series in order don't really apply. For example, the books only have one or two characters in common. (Kalam?) and it's not like you learn a ton about the magic system in the first book, though I suppose at that point you will have a few basics.
->>> Also, I think, if I'm remembering correctly, that a dragon gets blown up with a grenade launcher. Or a shapeshifting worm thing or something. It's been a while. Plus, Icarium.
 >>> 
+>>> Also, I think, if I'm remembering correctly, that a dragon gets blown up with a grenade launcher. Or a shapeshifting worm thing or something. It's been a while. Plus, Icarium.
 
->>>> **u/LimeDog** [+4] *
+>>>> **u/LimeDog** [+5]  (a day later)
 >>>> 
 >>>> Then I shall take the dive!
->>>> 
 
->>>>> **u/Amonwilde** [+1] *
+>>>>> **u/Amonwilde** [+1]  (a day later)
 >>>>> 
 >>>>> Enjoy! If you get into it, also check out the first book of The Black Company series, which was inspiration for Erikson. It's weird and incredibly atmospheric. The rest of the series isn't quite as good, kind of a Dune scenario.
->>>>> 
 
-> **u/Iconochasm** [+5] *
+> **u/Iconochasm** [+4]  (2 hours later)
 > 
 > I just started reading it, a little bit further than you.  Yes, Paran is the same young guy who was around for the hound attack on the small army.  The magic system is almost completely opaque, except that mages have extended lifespans, and use something called Warrens.
-> 
 
-> **u/Morghus** [+3] *
+> **u/Morghus** [+3]  (12 hours later)
 > 
 > The magic and the action is based on roleplaying sessions between Erikson and Esslemont, so it stays internally consistent, even though nothing is blatantly explained. You'll pick up things as you go, and understand more and more.
-> 
 
-> **u/momanie** [+2] *
+> **u/momanie** [+2]  (2 hours later)
 > 
 > Check out the malazan reddit they will answer your questions.
-> 
 
-> **u/clawclawbite** [+2] *
+> **u/clawclawbite** [+2]  (8 days later)
 > 
 > It is easier to read that to listen.
-> The Malazan Books of the Fallen series is written in a way that makes it harder to orient into a scene than any other series I've read. The information about who is talking, where the scene is set, and even the topic of conversation is often pages in, or scattered around. As such, being able to stop and think about what is going on, or check back a paragraph or page as a new information element is introduced is very helpful. This is much easier when reading, and controlling your interaction with the words, as opposed to getting it at the speed of speech.
-> A lot of the details are complex and partial, and only come together chapters, or even books later. That said, the history and world-building is complex and rewarding to puzzle out when you do start seeing the different elements showing up and interacting. A lot of the little hints do come together, and tell a lot of the backstory that starts out very mysterious, but that is over the series, not the individual books.
 > 
+> The Malazan Books of the Fallen series is written in a way that makes it harder to orient into a scene than any other series I've read. The information about who is talking, where the scene is set, and even the topic of conversation is often pages in, or scattered around. As such, being able to stop and think about what is going on, or check back a paragraph or page as a new information element is introduced is very helpful. This is much easier when reading, and controlling your interaction with the words, as opposed to getting it at the speed of speech.
+> 
+> A lot of the details are complex and partial, and only come together chapters, or even books later. That said, the history and world-building is complex and rewarding to puzzle out when you do start seeing the different elements showing up and interacting. A lot of the little hints do come together, and tell a lot of the backstory that starts out very mysterious, but that is over the series, not the individual books.
 
-> **u/yagsuomynona** [+1] *
+> **u/yagsuomynona** [+1]  (5 days later)
 > 
 > I didn't understand what was going on in that book until like 300 pages in (I have no idea how I stuck to it). It made a whole lot more sense after reading the first 3 books.
-> 
 
-> **u/SkyTroupe** [+0] *
+> **u/SkyTroupe** [+0]  (an hour later)
 > 
 > Whoever commented here is shadowbanned
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Naragueur *
 * URL: https://www.reddit.com/r/rational/comments/m64qok/rst_pokemon_the_origin_of_species_progression/
-* Score: 20
+* Score: 21
 
 * Created: 2021-03-16T09:01:38
 
@@ -16,88 +16,81 @@ Thanks
 
 ### Comments:
 
-> **u/None** [+29] *
+> **u/None** [+29]  (19 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/cimbalino** [+26] *
+>> **u/cimbalino** [+25]  (2 hours later)
 >> 
 >> To add on to this, the author releases 1 chapter every month, so its still at least some years until the story is finished
->> 
 
->>> **u/assbutter9** [+15] *
+>>> **u/assbutter9** [+15]  (8 hours later)
 >>> 
 >>> Yeah, Origin of Species is honestly excellent and very well polished but if you're looking for something finished or that you could read every few days once you catch up you will be extremely disappointed. Especially considering most of the chapters are pretty short compared to a lot of other popular web series released once/twice a week. 
->>> I  read the entire thing up until around chapter 85 in a handful of days and then realized what I had just done. Now I plan on checking back in around a year, maybe longer.
 >>> 
+>>> I  read the entire thing up until around chapter 85 in a handful of days and then realized what I had just done. Now I plan on checking back in around a year, maybe longer.
 
->>>> **u/cimbalino** [+2] *
+>>>> **u/cimbalino** [+2]  (10 hours later)
 >>>> 
 >>>> Ye I did the same, luckily for me it happened at the end of part 1, so it was the perfect time to take a break :)
->>>> 
 
->> **u/DavidGretzschel** [+3] *
+>> **u/DavidGretzschel** [+3]  (2 hours later)
 >> 
 >> But do we know how many parts are planned?
->> 
 
->> **u/Radix2309** [+2] *
+>> **u/Radix2309** [+2]  (4 days later)
 >> 
 >> Yeah I would bet on around 200 total chapters. Which fits if this is a 3 part story.
->> I feel like part 2 will end after gym 6 maybe. Unclear which gym that will be.
 >> 
+>> I feel like part 2 will end after gym 6 maybe. Unclear which gym that will be.
 
-> **u/JaceyLessThan3** [+8] *
+> **u/JaceyLessThan3** [+8]  (7 hours later)
 > 
 > I would say no, it is not close to being finished. There is still a lot of territory to cover, and the author releases chapters once a month. I suspect it will be several years before it is finished.
-> 
 
-> **u/Naragueur** [+4] *
+> **u/Naragueur** [+6]  (2 days later)
 > 
 > Thanks for the answers folks ! I honestly fear the frustration of really enjoying the book only to catch up the latest chapter and eventually get bored/forget everything/lose interest, so I guess I'll wait a while  🙂
-> 
 
->> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning* (5 days later)
 >> 
 >> You could pick up r!Animorphs, which is 600,000 words at the moment and only about eight updates (every 1-2wk) away from being completely finished.  =)
->> https://archiveofourown.org/works/5627803/chapters/12963046
 >> 
+>> https://archiveofourown.org/works/5627803/chapters/12963046
 
->>> **u/cheerthefuckupm8** [+2] *
+>>> **u/cheerthefuckupm8** [+2]  (6 days later)
 >>> 
 >>> Meant to ask this a couple times already: 
->>> Is it a good idea to start reading without any prior knowledge of Animorphs? Or am I expected to know the basic summary of the original?
 >>> 
+>>> Is it a good idea to start reading without any prior knowledge of Animorphs? Or am I expected to know the basic summary of the original?
 
->>>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning* (6 days later)
 >>>> 
 >>>> A lot of readers have said that they were unfamiliar with canon, and enjoy it just fine.  Expect to be a little lost for the first 1-3 chapters, but by that point you'll find your feet and you don't need any knowledge of the original.
->>>> 
 
->>>>> **u/cheerthefuckupm8** [+2] *
+>>>>> **u/cheerthefuckupm8** [+2]  (4 months later)
 >>>>> 
 >>>>> just finished, that was a great recommendation. Noticed lots of Focusing and introspection in the story that I liked, amazing characterization(especially all the kinds of hiveminds and mind-connecting!) and overall, the whole confusing clusterfuck of events is very well written. Love it.
->>>>> I feel like I missed a lot of the homages to the original that I was meant to catch references of, but I really enjoyed the rest of it. 
->>>>> I'll let these surgical influences linger, pique my Animorphs curiosity into buying originals for my daughter to find what I missed, let her get obsessed in turn and see what ripples Toomin guides us to next. 
->>>>> So thank you for writing this. To the upcoming journey, surely planned ahead to lead somewhere great. Looking forward to binge whatever you write next.
 >>>>> 
+>>>>> I feel like I missed a lot of the homages to the original that I was meant to catch references of, but I really enjoyed the rest of it. 
+>>>>> 
+>>>>> I'll let these surgical influences linger, pique my Animorphs curiosity into buying originals for my daughter to find what I missed, let her get obsessed in turn and see what ripples Toomin guides us to next. 
+>>>>> 
+>>>>> So thank you for writing this. To the upcoming journey, surely planned ahead to lead somewhere great. Looking forward to binge whatever you write next.
 
->>>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+>>>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning* (4 months later)
 >>>>>> 
 >>>>>> <3 <3 <3
->>>>>> 
 
->> **u/trip_this_way** [+2] *
+>> **u/trip_this_way** [+2]  (15 days later)
 >> 
 >> I assume you've already read HPMOR? 
->> If you're looking for complete stories, that aren't necessary Rational, anything by Wildbow is pretty great. But I imagine most here have also already read through all of his stuff. Each story is pretty damn beefy though, 1.5million words and up usually.
 >> 
+>> If you're looking for complete stories, that aren't necessary Rational, anything by Wildbow is pretty great. But I imagine most here have also already read through all of his stuff. Each story is pretty damn beefy though, 1.5million words and up usually.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (4 hours later)
 > 
 > It's sufficiently far along that you'll enjoy it even though it's not necessarily beyond the first half (which I don't know), even taking into account that you prefer reading only stories that are close to being finished.
-> 
 
 ---
 

@@ -12,71 +12,67 @@
 
 ### Comments:
 
-> **u/sambelulek** [+4]  *Ulquaan Ibasa Liquor Smuggler**
+> **u/sambelulek** [+4]  *Ulquaan Ibasa Liquor Smuggler* (5 hours later)
 > 
 > 1. Only controller enter the space where The Guardian stationed. Given that leaving the Time Loop require the controller to enter that space, RedRobe must have the mark of the controller. He most possibly has the same imperfect marker as Zorian has, which is enough to fool the Guardian so he can access the place as often as he likes.
 >    1. You might wonder, why Zorian never able to locate him with his Marker Detection ritual. Well, that can easily explained by RedRobe had already left the Time Loop by the time Zorian know of the ritual. 
 >    2. You might also wonder, why the ritual also failed to detect RedRobe the first time it enacted outside the time loop. It can also easily explained by Panaxeth ability to strip and add marker/contract to a person's soul.
 > 2. RedRobe does not have to completely gather the keys. The Gate was not barred before he leaves. The way outside is open. That's why Panaxeth offered him a deal. Panaxeth won't offer anyone any deal if the way is not open, because that would be pointless.
 >    1. You might wonder why RedRobe need to take the deal Panaxeth offered when the way outside is already open. Well, The Guardian of the Threshold chief function is to prevent anyone, excepting the controller, to leave. Even assuming The Guardian is fooled, RedRobe must not leave the Time Loop ordinary way. Because, by the time The Guardian tried to put RedRobe soul back in the real world, he would find there was already a soul, instantly realizing RedRobe is not the true controller. On top of not allowing he leave, The Guardian would most definitely destroy his mark.
-> 
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (7 days later)
 >> 
 >> Is pan able to do that? I don't think it's ever been established that he had any kind of power or ability to do anything outside the box.
->> 
 
->>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (7 days later)
 >>> 
 >>> Panaxeth's able to incarnate Silverlake. She also has contract bound into her soul. Stripping marker, I admit, is dubious. The logic is, if it can add, why can it not remove?
->>> 
 
->>>> **u/MilesSand** [+1] *
+>>>> **u/MilesSand** [+1]  (7 days later)
 >>>> 
 >>>> Iirc she reset like the simulation originally intended and the marker was added by Zach.
->>>> I think it's more likely that RR manipulated Zach into letting him out.
 >>>> 
+>>>> I think it's more likely that RR manipulated Zach into letting him out.
 
->>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (7 days later)
 >>>>> 
 >>>>> >Iirc she reset like the simulation originally intended
->>>>> You don't remember this wrong, but it's not related to the topic we're discussing. We're talking about Panaxeth capability affecting the outside.
->>>>> >I think it's more likely that RR manipulated Zach into letting him out. 
->>>>> I can argue against this, but again, it's not the thing we're discussing. Thus irrelevant. Let's create some new thread if you're interested.
 >>>>> 
+>>>>> You don't remember this wrong, but it's not related to the topic we're discussing. We're talking about Panaxeth capability affecting the outside.
+>>>>> 
+>>>>> >I think it's more likely that RR manipulated Zach into letting him out. 
+>>>>> 
+>>>>> I can argue against this, but again, it's not the thing we're discussing. Thus irrelevant. Let's create some new thread if you're interested.
 
-> **u/iftttAcct2** [+1] *
+> **u/iftttAcct2** [+1]  (28 minutes later)
 > 
 > Anyone know where the goat went off to?
-> 
 
-> **u/bumbiedumb** [+1]  *The Polity**
+> **u/bumbiedumb** [+1]  *The Polity* (2 hours later)
 > 
 > It was implied that he left at the start. Only near the end that we found out that he could leave thanks to the contract with primordials.
-> Edit: anyone who leave will meet the guardian.  The primordial hijack the guardian to meet with the looper
 > 
+> Edit: anyone who leave will meet the guardian.  The primordial hijack the guardian to meet with the looper
 
->> **u/bitzer** [+1] *
+>> **u/bitzer** [+1]  (2 hours later)
 >> 
 >> Right, but they can't get in to see the guardian without the controller. 
->> I went back and found it in Chapter 89:
->> "Previously, they had already tried to bring a temporary looper into the space of the Sovereign gate and failed. The Guardian of the Threshold later confirmed that temporary loopers are unable to access the space. However, this security measure was childishly easy to bypass through a short duration soul bond that allowed the Controller to simply ‘pull’ outsiders with them as they entered the Sovereign Gate."
 >> 
+>> I went back and found it in Chapter 89:
+>> 
+>> "Previously, they had already tried to bring a temporary looper into the space of the Sovereign gate and failed. The Guardian of the Threshold later confirmed that temporary loopers are unable to access the space. However, this security measure was childishly easy to bypass through a short duration soul bond that allowed the Controller to simply ‘pull’ outsiders with them as they entered the Sovereign Gate."
 
->>> **u/MutantMannequin** [+1] *
+>>> **u/MutantMannequin** [+1]  (11 hours later)
 >>> 
 >>> Presumably Zack pulled Red Robe into the Controller's space before his betrayal, during which time Panaxeth contacted RR without Zack's knowledge, right?
->>> 
 
->>>> **u/bitzer** [+1] *
+>>>> **u/bitzer** [+1]  (a day later)
 >>>> 
 >>>> Yeah, that's how I imagine it went.  Which totally explains the initial contact (and how he ended up in a contract with the primordial), but not how he was able to get back into the Gate, later, after he had wiped Zach's mind and spent restarts practicing the invasion. Getting back into the Gate would have still required Zach.  Well, should have.  I'm fine with it being a plot hole, or even something that hasn't been explained, yet.  I just wanted to make sure I hadn't missed an explanation somewhere.
->>>> 
 
->>>>> **u/MilesSand** [+1] *
+>>>>> **u/MilesSand** [+1]  (7 days later)
 >>>>> 
 >>>>> Didn't Zach go missing for a few restarts right after they last saw RR? Mind control no jutsu, to escape in the first and then to make him have adventures until the meddling wears off to cover RR's tracks.
->>>>> 
 
 ---
 

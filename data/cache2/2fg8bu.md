@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://www.nickbostrom.com/2050/world.html
-* Score: 7
+* Score: 4
 
 * Created: 2014-09-04T13:04:47
 

@@ -2,7 +2,7 @@
 
 * Author: u/Bjorn-rasmunsen *
 * URL: https://www.reddit.com/r/rational/comments/ga7ui9/ff_a_cat_on_the_dragons_throne/
-* Score: 12
+* Score: 11
 
 * Created: 2020-04-29T11:37:58
 
@@ -21,33 +21,31 @@ MC is basically a good student of history of Westeros. So no supernatural knowle
 
 ### Comments:
 
-> **u/SvalbardCaretaker** [+12]  *Mouse Army**
+> **u/SvalbardCaretaker** [+11]  *Mouse Army* (an hour later)
 > 
 > Just to be clear, is this a real cat on the throne? Or is MC just human? Please let it be a cat...
-> EDIT: My disappointment is immeasurable.
 > 
+> EDIT: My disappointment is immeasurable.
 
->> **u/Bjorn-rasmunsen** [+3] *
+>> **u/Bjorn-rasmunsen** [+3]  (an hour later)
 >> 
 >> Lol 😝 
->> MC is human, Joffrey from game of thrones, but he kinda thinks that his chances of survival on iron throne are similar to cat 🐈
 >> 
+>> MC is human, Joffrey from game of thrones, but he kinda thinks that his chances of survival on iron throne are similar to cat 🐈
 
->> **u/OnlyEvonix** [+2] *
+>> **u/OnlyEvonix** [+2]  (5 days later)
 >> 
 >> I assumed it'd be like that Simpsons episode where it's revealed that Burns declares a budgie the CEO whenever OSHA inspectors arrive
->> 
 
-> **u/CronoDAS** [+4] *
+> **u/CronoDAS** [+4]  (5 hours later)
 > 
 > I'm enjoying this one. I have to imagine this  Joffrey as the older version from the show rather than the book version that acted like a spoiled little kid. Joffery being a spoiled idiot ended up kicking off a lot of the plot and him having a good sense of self-preservation and being willing to sacrifice a lot for it definitely changes things.
-> I wonder what Tyrion's been up to during all this?
 > 
+> I wonder what Tyrion's been up to during all this?
 
-> **u/OnlyEvonix** [+1] *
+> **u/OnlyEvonix** [+1]  (4 days later)
 > 
 > Does one need to know anything about GoT?
-> 
 
 ---
 

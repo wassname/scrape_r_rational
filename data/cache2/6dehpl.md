@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/6dehpl/challenge_companion_low_budget/
-* Score: 9
+* Score: 10
 
 * Created: 2017-05-26T03:23:32
 
@@ -22,28 +22,27 @@ One of the go-to low budget science fiction movies is *Primer* by Shane Carruth,
 
 ### Comments:
 
-> **u/arenavanera** [+3] *
+> **u/arenavanera** [+3]  (3 hours later)
 > 
 > I like this one a lot!  Although to be fair, I might be slightly biased because my fiction tends to naturally devolve into "several people sitting in a featureless room talking" anyway.
-> I decided to go for a story that could plausibly have been shot as a low budget student film (takes place entirely in a classroom, only one adult role).
 > 
+> I decided to go for a story that could plausibly have been shot as a low budget student film (takes place entirely in a classroom, only one adult role).
 
-> **u/trekie140** [+2] *
+> **u/trekie140** [+2]  (16 hours later)
 > 
 > I can't write for shit, but I'd like to suggest tackling this from a slightly different angle. There's a anime called Chromartie High School made on such a low budget that the animators intentionally left in bugs like parts of character's faces moving independently or would draw characters standing on the ceiling in the background because they couldn't afford to insert them into the conversation by cutting to another shot. It makes an already funny and weird show hilarious and surreal.
-> Is it possible to do something similar with text? You obviously can't pull off purely visual humor in prose, but I wonder if it's possible to take elements of writing that are technically bad and turn them into a style of comedy or surrealism. It wouldn't be easy to pull off, but it'd definitely be something unique and memorable. Make the writer lazy, arbitrarily stick to a word count, leave in bad grammar and punctuation, or make it a school writing assignment with other dumb requirements.
 > 
+> Is it possible to do something similar with text? You obviously can't pull off purely visual humor in prose, but I wonder if it's possible to take elements of writing that are technically bad and turn them into a style of comedy or surrealism. It wouldn't be easy to pull off, but it'd definitely be something unique and memorable. Make the writer lazy, arbitrarily stick to a word count, leave in bad grammar and punctuation, or make it a school writing assignment with other dumb requirements.
 
-> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (6 hours later)
 > 
 > >Next time the challenge is **Gods**. <...> In issuing this challenge I'm largely thinking about Scott Alexander's work (examples [A](http://unsongbook.com/), [B](http://slatestarcodex.com/2015/03/15/answer-to-job/), [C](http://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/)).
-> Also [D](https://slatestarcodex.com/2017/02/27/a-modern-myth/).
 > 
+> Also [D](https://slatestarcodex.com/2017/02/27/a-modern-myth/).
 
->> **u/Evan_Th** [+1]  *Sunshine Regiment**
+>> **u/Evan_Th** [+1]  *Sunshine Regiment* (22 hours later)
 >> 
 >> Also [E](http://squid314.livejournal.com/336195.html).
->> 
 
 ---
 

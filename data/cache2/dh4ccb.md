@@ -12,32 +12,29 @@ Anyone have an archived copy? I can't seem to find the fanfic through Google. It
 
 ### Comments:
 
-> **u/serge_cell** [+8] *
+> **u/serge_cell** [+8]  (5 hours later)
 > 
 > Here:
-> https://github.com/Karl-D-Asmussen?tab=repositories
 > 
+> https://github.com/Karl-D-Asmussen?tab=repositories
 
-> **u/Liberticus** [+4] *
+> **u/Liberticus** [+5]  (5 hours later)
 > 
 > It used to be hosted on AO3 but the archived links don't work anymore. Still, you can find it on the WaybackMachine [first chapter here](https://web.archive.org/web/20160412235720/http://archiveofourown.org/works/3808279/chapters/8485900)
-> 
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (13 hours later)
 > 
 > Here's some copies of the [story](http://www.mediafire.com/folder/cjw4h6hez7gpv/The_World_is_Your_Oyster%2C_The_Universe_is_Your_Namesake) in awz, mobi, epub, and pdf formats for offline reading.
-> It's worth reading through the github link as well, because there is an epilogue scene written (even though the story was nowhere near completion) and a folder labelled 'scenes' of discarded writing that never made it into the actual story.
 > 
+> It's worth reading through the github link as well, because there is an epilogue scene written (even though the story was nowhere near completion) and a folder labelled 'scenes' of discarded writing that never made it into the actual story.
 
->> **u/uwahhhhhhhhhh** [+1] *
+>> **u/uwahhhhhhhhhh** [+1]  (2 years later)
 >> 
 >> The GitHub link is gone, where can I read the extra stuff?
->> 
 
-> **u/snowshadow2867** [+1] *
+> **u/snowshadow2867** [+1]  (3 years later)
 > 
 > Can someone explain to me why the story was removed?
-> 
 
 ---
 

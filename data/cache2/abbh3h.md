@@ -2,7 +2,7 @@
 
 * Author: u/OrzBrain  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
 * URL: https://www.reddit.com/r/rational/comments/abbh3h/whats_with_the_flagrant_abuse_of_the_qm/
-* Score: 46
+* Score: 47
 
 * Created: 2018-12-31T21:30:30
 
@@ -44,180 +44,191 @@ So, do I have something wrong, or is my understanding basically correct, that an
 
 ### Comments:
 
-> **u/j9461701** [+39] *
+> **u/j9461701** [+43]  (an hour later)
 > 
 > >The reason it's impossible to know the position AND momentum of a quantum scale object is that in order to measure this information it is necessary to bounce a photon or similar particle off the quantum scale object, which will change its position and momentum in unknowable ways. (Rough paraphrase from memory.)
-> This is the Heisenberg uncertainty principle not the observer effect. Also it's the layman explanation for the uncertainty principle that isn't technically correct. Even if we had a magical non-interacting measurement stick, and measured the particle with our measurement stick, we still would only be able to find position and momentum to within the exactness specified by the uncertainty principle. The Heisenberg uncertainty principle is an inherent property of the wave-like nature of matter in our reality - it's not something you can "clever" your way around. 
-> >It is my understanding that the observer in the Copenhagen Interpretation of quantum mechanics is not a human or a camera, it is when a photon or other similar particle (a fast electron, etc.) interacts with whatever we are measuring that its waveform collapses and it is "observed". No conscious minds required.
-
-> Yes. This is correct. 
-> >And if my understanding IS right, why do people, apparently even scientists, keep on mentioning completely unrelated things like human consciousness when what's really going on is so simple to explain?
-> "Seeing things changes the result" is a simple meme people can digest. 
-> "Particles colliding during observation causes wave functions to collapse and thereby changes the result" 
-> "What's a wave function?"
-> "An equation describing the quantum state of an isolated quantum system"
-> "What's a quantum state?"
-> "A vector that encodes all information about the current state of the system such that probability distributions for observables can be extracted"
-> "What's a vector? What's a probability distribution? What's an observable?"
-> ".....seeing things changes the result!"
-> "oh ok"
 > 
+> This is the Heisenberg uncertainty principle not the observer effect. Also it's the layman explanation for the uncertainty principle that isn't technically correct. Even if we had a magical non-interacting measurement stick, and measured the particle with our measurement stick, we still would only be able to find position and momentum to within the exactness specified by the uncertainty principle. The Heisenberg uncertainty principle is an inherent property of the wave-like nature of matter in our reality - it's not something you can "clever" your way around. 
+> 
+> >It is my understanding that the observer in the Copenhagen Interpretation of quantum mechanics is not a human or a camera, it is when a photon or other similar particle (a fast electron, etc.) interacts with whatever we are measuring that its waveform collapses and it is "observed". No conscious minds required.
+> 
+> Yes. This is correct. 
+> 
+> >And if my understanding IS right, why do people, apparently even scientists, keep on mentioning completely unrelated things like human consciousness when what's really going on is so simple to explain?
+> 
+> "Seeing things changes the result" is a simple meme people can digest. 
+> 
+> "Particles colliding during observation causes wave functions to collapse and thereby changes the result" 
+> 
+> "What's a wave function?"
+> 
+> "An equation describing the quantum state of an isolated quantum system"
+> 
+> "What's a quantum state?"
+> 
+> "A vector that encodes all information about the current state of the system such that probability distributions for observables can be extracted"
+> 
+> "What's a vector? What's a probability distribution? What's an observable?"
+> 
+> ".....seeing things changes the result!"
+> 
+> "oh ok"
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (4 hours later)
 >> 
 >> Particles colliding during observation? But particles could collide during anything right?
->> The particles don't have to be from observation, do they?
 >> 
+>> The particles don't have to be from observation, do they?
 
->>> **u/j9461701** [+17] *
+>>> **u/j9461701** [+15]  (4 hours later)
 >>> 
 >>> >But particles could collide during anything right?
->>> [It doesn't have to be a particle](https://www.youtube.com/watch?v=V-zXT5bIBM0#t=33s). It can also be a force. And it doesn't have to be a collision, it could also be an absorption. The core idea is that to observe the quantum system you need to interact with it physically in some fashion, and that interaction causes the collapse. 
->>> >The particles don't have to be from observation, do they?
->>> No. But usually when we do things like the single electron double slit experiment, we are placing the system in isolation so the quantum effects don't get drowned out by noise. So there is only *an* electron going through the slits and nothing else. The observer effect is the observation that, even in such ideal circumstances, you would still change the outcome by observation due to the requirement of physically interacting with the particle to observe it.
 >>> 
+>>> [It doesn't have to be a particle](https://www.youtube.com/watch?v=V-zXT5bIBM0#t=33s). It can also be a force. And it doesn't have to be a collision, it could also be an absorption. The core idea is that to observe the quantum system you need to interact with it physically in some fashion, and that interaction causes the collapse. 
+>>> 
+>>> >The particles don't have to be from observation, do they?
+>>> 
+>>> No. But usually when we do things like the single electron double slit experiment, we are placing the system in isolation so the quantum effects don't get drowned out by noise. So there is only *an* electron going through the slits and nothing else. The observer effect is the observation that, even in such ideal circumstances, you would still change the outcome by observation due to the requirement of physically interacting with the particle to observe it.
 
->>>> **u/RMcD94** [+3] *
+>>>> **u/RMcD94** [+3]  (6 hours later)
 >>>> 
 >>>> So quantum systems collapse all the time from random forces? And in isolation we can only test one thing before it collapses
->>>> 
 
->>>>> **u/j9461701** [+8] *
+>>>>> **u/j9461701** [+8]  (6 hours later)
 >>>>> 
 >>>>> With enough random forces it stops being a quantum system and just becomes regular old human scale reality. This is the heart of the correspondence principle:
->>>>> https://en.m.wikipedia.org/wiki/Correspondence_principle
->>>>> With high enough quantum numbers you start to get ever more classical results.
 >>>>> 
+>>>>> https://en.m.wikipedia.org/wiki/Correspondence_principle
+>>>>> 
+>>>>> With high enough quantum numbers you start to get ever more classical results.
 
->>>>>> **u/HelperBot_** [+3] *
+>>>>>> **u/HelperBot_** [+3]  (6 hours later)
 >>>>>> 
 >>>>>> Desktop link: https://en.wikipedia.org/wiki/Correspondence_principle
 >>>>>> ***
 >>>>>>  ^^/r/HelperBot_ ^^Downvote ^^to ^^remove. ^^Counter: ^^228734
->>>>>> 
 
->>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (9 hours later)
 >>>>>> 
 >>>>>> What's the deformation parameter about? It can't just be that the limit is approached asymptotically.
->>>>>> 
 
->>>>>>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade**
+>>>>>>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade* (a day later)
 >>>>>>> 
 >>>>>>> In general, we say quantum mechanics tends to approximate to classical mechanics if Planck's constant goes to zero. This is best seen if you cast quantum mechanics in the form of path integrals, in which case a particle will travel across *all* possible paths it can take, weighed by the exponential of the imaginary unit times the classical action (aka the integral of the Lagrangian along the path) divided by the Planck constant, h. In the limit of h going to zero, all paths except the one of *minimal* action contribute in ways that wildly oscillate and cancel each other. The minimal action path is the classical path.
->>>>>>> 
 
->>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >>>>> 
 >>>>> We don't know for sure. We know that a big and chaotic enough quantum system tends to lose a lot of its coherence by virtue of all its internal interactions. *However*, it can still remain in what is known as a 'mixed state', aka a superposition, and that does not go away by any known mechanism.
->>>>> 
 
-> **u/crivtox** [+10]  *Closed Time Loop Enthusiast**
+> **u/crivtox** [+11]  *Closed Time Loop Enthusiast* (an hour later)
 > 
 > Ci refers to a  vague category of interpretations that include the perception stuff.
 >  Copenhagen subscribers are not a coherent group whith the same beliefs.
 > And we keep finding quantum effects on bigger stuff, making some people have to change their interpretations.
-> 
 
-> **u/lehyde** [+7]  *Nudist Beach**
+> **u/lehyde** [+8]  *Nudist Beach* (an hour later)
 > 
 > It's not that simple, I believe. When a particle is in a superposition (e.g. an atom is decayed and not decayed as in the Schrödinger's cat set up) and we send another particle there to probe it, then QM first of all says that our test particle is now in a superposition as well: one part of the superposition interacted with the decayed atom and the other with the not-decayed atom.
-> However, we only ever observe one result. So the question is: at which point does the "wave function" (or the superposition) collapse? The Copenhagen interpretation doesn't give an answer to this. It just says that the collapse happens at some point before the experimenter observes it. People used to think that only atoms and at most molecules can be in superposition, but scientists are managing to get bigger and bigger things into superposition.
-> So it's not that strange that some people say that it is [consciousness that is causing the collapse](https://en.m.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation). I guess they're arguing that consciousness always seems to us to be not in superposition but everything else can be, or something like that. The overwhelming majority of physicists doesn't think that though.
-> (Of course, if you grant that objects of every size can be in a superposition (even humans) then this problem goes away and you have arrived at the many worlds interpretation. In the many worlds interpretation, every possible outcome of the quantum measurement is observed by a "copy" of the experimenter in another "world". Which is to say the experimenter is in a superposition of having observed the decayed atom and not having observed it. The two superpositions then continue to lead their own merry lives.)
 > 
+> However, we only ever observe one result. So the question is: at which point does the "wave function" (or the superposition) collapse? The Copenhagen interpretation doesn't give an answer to this. It just says that the collapse happens at some point before the experimenter observes it. People used to think that only atoms and at most molecules can be in superposition, but scientists are managing to get bigger and bigger things into superposition.
+> 
+> So it's not that strange that some people say that it is [consciousness that is causing the collapse](https://en.m.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation). I guess they're arguing that consciousness always seems to us to be not in superposition but everything else can be, or something like that. The overwhelming majority of physicists doesn't think that though.
+> 
+> (Of course, if you grant that objects of every size can be in a superposition (even humans) then this problem goes away and you have arrived at the many worlds interpretation. In the many worlds interpretation, every possible outcome of the quantum measurement is observed by a "copy" of the experimenter in another "world". Which is to say the experimenter is in a superposition of having observed the decayed atom and not having observed it. The two superpositions then continue to lead their own merry lives.)
 
-> **u/Putnam3145** [+9] *
+> **u/Putnam3145** [+10]  (an hour later)
 > 
 > The heisenberg uncertainty principle is totally unrelated to the observer effect. Your explanation here
-> >The reason it's impossible to know the position AND momentum of a quantum scale object is that in order to measure this information it is necessary to bounce a photon or similar particle off the quantum scale object, which will change its position and momentum in unknowable ways. (Rough paraphrase from memory.)
-> is *wildly* off base, not just "you misremembered a bit" but on the level of "why do you think gravity is caused by air pressure"; it's a misconception which is corrected by the third paragraph of the wikipedia article on it. The reason the uncertainty principle exists is because momentum and position are [complementary](https://en.wikipedia.org/wiki/Complementarity_(physics\)), and such uncertainty is simply a property of all wave-like systems, rather than caused by some other quantum mechanical effect.
-> Sorry if this seems rude, I'm just kinda confused as to why you mentioned the uncertainty principle at all. The rest of the post is mostly correct, yeah, the role of observation in quantum mechanics is misinterpreted *wildly* and sometimes maliciously. There was even an april fools' joke related to HPMOR to this effect, where someone set up a website with a similar-at-a-glance URL to HPMOR's and added a paragraph to a chapter about how observation is done by conscious beings.
 > 
+> >The reason it's impossible to know the position AND momentum of a quantum scale object is that in order to measure this information it is necessary to bounce a photon or similar particle off the quantum scale object, which will change its position and momentum in unknowable ways. (Rough paraphrase from memory.)
+> 
+> is *wildly* off base, not just "you misremembered a bit" but on the level of "why do you think gravity is caused by air pressure"; it's a misconception which is corrected by the third paragraph of the wikipedia article on it. The reason the uncertainty principle exists is because momentum and position are [complementary](https://en.wikipedia.org/wiki/Complementarity_(physics\)), and such uncertainty is simply a property of all wave-like systems, rather than caused by some other quantum mechanical effect.
+> 
+> Sorry if this seems rude, I'm just kinda confused as to why you mentioned the uncertainty principle at all. The rest of the post is mostly correct, yeah, the role of observation in quantum mechanics is misinterpreted *wildly* and sometimes maliciously. There was even an april fools' joke related to HPMOR to this effect, where someone set up a website with a similar-at-a-glance URL to HPMOR's and added a paragraph to a chapter about how observation is done by conscious beings.
 
-> **u/ArgentStonecutter** [+16]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+16]  *Emergency Mustelid Hologram* (an hour later)
 > 
 > The concept of the observer is kind of a fuzzy concept in the CI. The closest thing to a rigorous definition of the "observer" is something like "when the ~~system involves so many particles that the state vector~~ state vector is so complex it can't remain coherent", but what's "too ~~many particles~~ complex" is never defined, and some variants really do privilege consciouness. It's really very handwavey.
-> There's only one work of science fiction I've seen that actually does a decent job of depending on the CI in a way that doesn't break the suspension of disbelief for me, and that's _Quarantine_ by Greg Egan.
-> Spoiler! >!In _Quarantine_ the collapse is something that happens in a specific structure in the brains of higher primates, and it gave them a competitive advantage over brains that depended on an extended un-collapsed (multiple-world-interpretation) state. Before this structure evolved, the state vector never actually collapsed.!<
-> There's a lot of handwavium involved here, but you can't spell "Copenhagen Interpretation" without waving your hands around a lot, and if you don't try and overanalyse it it's really a great schtick.
 > 
+> There's only one work of science fiction I've seen that actually does a decent job of depending on the CI in a way that doesn't break the suspension of disbelief for me, and that's _Quarantine_ by Greg Egan.
+> 
+> Spoiler! >!In _Quarantine_ the collapse is something that happens in a specific structure in the brains of higher primates, and it gave them a competitive advantage over brains that depended on an extended un-collapsed (multiple-world-interpretation) state. Before this structure evolved, the state vector never actually collapsed.!<
+> 
+> There's a lot of handwavium involved here, but you can't spell "Copenhagen Interpretation" without waving your hands around a lot, and if you don't try and overanalyse it it's really a great schtick.
 
->> **u/Darth_Punk** [+4] *
+>> **u/Darth_Punk** [+3]  (4 hours later)
 >> 
 >> Where's that definition coming from? I have some issues with it, beginning with the use of the word particle.
->> 
 
->>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (14 hours later)
 >>> 
 >>> Better?
->>> 
 
->>>> **u/Darth_Punk** [+1] *
+>>>> **u/Darth_Punk** [+1]  (2 days later)
 >>>> 
 >>>> In a sense you've really just redefined the problem to be about coherency but I actually really do yeah.
->>>> 
 
->> **u/major_fox_pass** [+1] *
+>> **u/major_fox_pass** [+1]  (19 hours later)
 >> 
 >> > some variants really do privilege consciouness.
->> Can you expand on this, or link me to something that does? I've never heard of this.
 >> 
+>> Can you expand on this, or link me to something that does? I've never heard of this.
 
->>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (21 hours later)
 >>> 
 >>> That's technically the Von-Neumann-Wigner interpretation, but it's really just a variant of the Copenhagen Interpretation... and kind of required for the Schrodinger's Cat thought experiment to be meaningful in any interpretation where the collapse of the state vector is treated as a thing that actually happens.
->>> Edit: https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation
 >>> 
+>>> Edit: https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation
 
-> **u/MilesSand** [+3] *
+> **u/MilesSand** [+3]  (5 hours later)
 > 
 > This may be a more helpful explanation, or it may muddy the whole thing. Oh well:
-> Imagine you have an automated turret defense system. Every morning you check the grounds in the distance and one day you  find bullets everywhere. Based on how your system is set up and where the bullet holes are you can get some information about the intruder.
-> Your observers are the bullets. Your observed particle is the intruder. Yes, it will change it's behavior in response to being "observed" via machine gun fire. But it's not thinking about how you'll know its movements from the bullet patterns it's thinking about not getting shot (or in quantum mechanics, bouncing around because of the impacts, being pushed around by the various forces/fields being generated around it, and so on).
-> Incidentally, if your story doesn't have intelligent Gods observing everything all the time but relies on the intelligent observer excuse it's not a rational story. It's not internally consistent  because   life as  we know it would never have a chance to form if stuff teleported around all the time.
-> If it does have an intelligent God watching everything, and someone has discovered a way to make God look away for a moment to create magic I want to read it.
 > 
+> Imagine you have an automated turret defense system. Every morning you check the grounds in the distance and one day you  find bullets everywhere. Based on how your system is set up and where the bullet holes are you can get some information about the intruder.
+> 
+> Your observers are the bullets. Your observed particle is the intruder. Yes, it will change it's behavior in response to being "observed" via machine gun fire. But it's not thinking about how you'll know its movements from the bullet patterns it's thinking about not getting shot (or in quantum mechanics, bouncing around because of the impacts, being pushed around by the various forces/fields being generated around it, and so on).
+> 
+> Incidentally, if your story doesn't have intelligent Gods observing everything all the time but relies on the intelligent observer excuse it's not a rational story. It's not internally consistent  because   life as  we know it would never have a chance to form if stuff teleported around all the time.
+> 
+> If it does have an intelligent God watching everything, and someone has discovered a way to make God look away for a moment to create magic I want to read it.
 
-> **u/CreationBlues** [+4] *
+> **u/CreationBlues** [+4]  (an hour later)
 > 
 > People are just... stupid and uncritical. Lot's of people are still running around with the idea that the human mind is somehow privileged and special (if you want a taste of that, discuss some of it with friends of friends, like your parents friends). So they see the science guy use the word "observe" and OH! that's what people do! Or they see other people say that the observer is an actual person, and just go "yeah, that seems right."
-> I mean, if people aren't fundamentally stupid, how come every thread about technology has people complaining about boomers just absolutely not getting it. Hell, people in our own generations can't follow along with the simple rules for computers. Look at how many don't believe in climate change, or believe in trickle down, or any of a hundred thousand stupid, harmful ideas.
 > 
+> I mean, if people aren't fundamentally stupid, how come every thread about technology has people complaining about boomers just absolutely not getting it. Hell, people in our own generations can't follow along with the simple rules for computers. Look at how many don't believe in climate change, or believe in trickle down, or any of a hundred thousand stupid, harmful ideas.
 
->> **u/GeneralExtension** [+4] *
+>> **u/GeneralExtension** [+4]  (22 hours later)
 >> 
 >> So is the problem that people *don't* observe?
->> 
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (11 hours later)
 > 
 > Don't "you" have to observe it for the wavefunction to collapse ""relative"" to *you* though? So from the perspective of yourself, doesn't it effectively require your "observation"? (Or rather, the particle interacting with you in some way, which could be very similar to "observation" although actual conscious perception is certainly not required for some not entirely unreasonable definition of which set of interacting particles count as "you")
-> Which is to say, yes, any two things interacting collapse wavefunctions, but from the perspective of "you", things do have to interact with you to collapse.
-> (your complaint is quite right, I guess I'm just trying to explain and justify the whole "observer" thing as making a certain sense from an egocentric / observer centric perspective. It's kind of like saying that the sun and the earth and the rest of the galaxy rotate around me in particular...it's technically true from my frame of reference)
 > 
+> Which is to say, yes, any two things interacting collapse wavefunctions, but from the perspective of "you", things do have to interact with you to collapse.
+> 
+> (your complaint is quite right, I guess I'm just trying to explain and justify the whole "observer" thing as making a certain sense from an egocentric / observer centric perspective. It's kind of like saying that the sun and the earth and the rest of the galaxy rotate around me in particular...it's technically true from my frame of reference)
 
->> **u/Zephyr1011** [+5]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+4]  *Potentially Unfriendly Aspiring Divinity* (13 hours later)
 >> 
 >> I don't think this is correct. Wave function collapse isn't a property of your frame of reference. In the double slit experiment, the way to tell the difference between collapse and no collapse, is that if there's collapse you get a normal pattern, with no collapse you get interference between the two slits. This doesn't depend on your frame of reference, or on whether *you* personally observe the particle
->> 
 
-> **u/marwin42** [+1] *
+> **u/marwin42** [+1]  (15 hours later)
 > 
 > I'm no expert in this, but from what i understand from the [double split experiment](https://en.m.wikipedia.org/wiki/Double-slit_experiment#Which_way) , observing something while it happens can change the result, even with machines.
-> 
 
->> **u/HelperBot_** [+1] *
+>> **u/HelperBot_** [+1]  (15 hours later)
 >> 
 >> Desktop link: https://en.wikipedia.org/wiki/Double-slit_experiment#Which_way]
 >> ***
 >>  ^^/r/HelperBot_ ^^Downvote ^^to ^^remove. ^^Counter: ^^228806
->> 
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> > An experiment performed in 1987 [39][40] produced results that demonstrated that information could be obtained regarding which path a particle had taken without destroying the interference altogether. This showed the effect of measurements that disturbed the particles in transit to a lesser degree and thereby influenced the interference pattern only to a comparable extent.
->> There's nothing magic going on here. What happens is simply that measuring disturbs the system. If you disturb it less, it acts closer to the unperturbed version. If you disturb it more, you lose the interference, because it's a delicate effect.
 >> 
+>> There's nothing magic going on here. What happens is simply that measuring disturbs the system. If you disturb it less, it acts closer to the unperturbed version. If you disturb it more, you lose the interference, because it's a delicate effect.
 
 ---
 

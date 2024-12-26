@@ -2,7 +2,7 @@
 
 * Author: u/Charlie___ *
 * URL: https://www.reddit.com/r/rational/comments/2clcfn/rthsf_the_steerswomans_road_by_rosemary_kirstein/
-* Score: 8
+* Score: 9
 
 * Created: 2014-08-04T14:59:28
 
@@ -18,21 +18,19 @@ Also, it's a fun read, with fun characters, and interesting themes like sharing 
 
 ### Comments:
 
-> **u/Bobertus** [+2] *
+> **u/Bobertus** [+2]  (34 minutes later)
 > 
 > Cool. I haven't read it, but I'm upvoting based on your description.
-> Also, apparently, I can buy either the kindle version for 3€ or the physical book for 100€.
 > 
+> Also, apparently, I can buy either the kindle version for 3€ or the physical book for 100€.
 
->> **u/Izeinwinter** [+1] *
+>> **u/Izeinwinter** [+1]  (2 hours later)
 >> 
 >> it is science fiction in the very best way - the practice of science and epistemology is integral to the plot. They are also just very good books. The Ebook version is the one the author sees actual profit from - the physical copies are used. :)
->> 
 
-> **u/Anderkent** [+1] *
+> **u/Anderkent** [+1]  (7 hours later)
 > 
 > Waiting for the 5th book is such suffering
-> 
 
 ---
 

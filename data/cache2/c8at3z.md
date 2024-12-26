@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/07/02/interlude-vii-hide-ii/
-* Score: 12
+* Score: 11
 
 * Created: 2019-07-02T15:46:37
 

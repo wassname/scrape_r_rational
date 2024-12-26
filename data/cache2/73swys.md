@@ -2,7 +2,7 @@
 
 * Author: u/Killako1 *
 * URL: https://www.reddit.com/r/rational/comments/73swys/looking_for_story_that_i_read_awhile_back/
-* Score: 6
+* Score: 8
 
 * Created: 2017-10-02T13:58:43
 
@@ -12,15 +12,13 @@ The premise of the story is that it is a futuristic rational civilizations, wher
 
 ### Comments:
 
-> **u/ccw_con** [+3] *
+> **u/ccw_con** [+3]  (3 hours later)
 > 
 > judge on a boat
-> 
 
-> **u/pleasedothenerdful** [+3] *
+> **u/pleasedothenerdful** [+3]  (5 days later)
 > 
 > https://github.com/AmkG/judge-on-a-boat
-> 
 
 ---
 

@@ -24,320 +24,339 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/hoja_nasredin** [+10]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+12]  *Dai-Gurren Brigade* (48 minutes later)
 > 
 > I'm working on a setting that mixes vampires and werwolves with lovecraftian abominations. And I need ideas and in particular a magic system for it.
-> If you know of any horror magic system could you link it?
-> Or if you have ideas? My own ideas so far include: All monsters originated from human experimenting rituals on lovecraftian abominations. One of the Lovecraftian gods is made of Sound. He covers the whole planet and chanting can interact with him and do magic.
-> Of course it is heavily inspired by Bloodborne but I wanted something with no parallel worlds and for it to make sense. 
-> For example how I plan to introduce the CHurch. Most of monsters need to kill/eat/torture humans to survive. They can't hnt indiscriminately or humans will go extint. They are also unwilling to reduce human to cattle as different monsters group have different opinions on how to do it, and a lot of them have friends among humans. So the solution is the Church. It is an organization that regulates human hunting. If a person wears a cross (can be only given by Church roughly 10% of population has one) he is off limits as food. Rogue monsters are dealt by church hunters (usually monsters). Disputes between monsters are also often settled with Church help.
-> Any idea/cotribuition/critique/extrapolation is incredibly welcome.
 > 
+> If you know of any horror magic system could you link it?
+> 
+> Or if you have ideas? My own ideas so far include: All monsters originated from human experimenting rituals on lovecraftian abominations. One of the Lovecraftian gods is made of Sound. He covers the whole planet and chanting can interact with him and do magic.
+> 
+> Of course it is heavily inspired by Bloodborne but I wanted something with no parallel worlds and for it to make sense. 
+> 
+> For example how I plan to introduce the CHurch. Most of monsters need to kill/eat/torture humans to survive. They can't hnt indiscriminately or humans will go extint. They are also unwilling to reduce human to cattle as different monsters group have different opinions on how to do it, and a lot of them have friends among humans. So the solution is the Church. It is an organization that regulates human hunting. If a person wears a cross (can be only given by Church roughly 10% of population has one) he is off limits as food. Rogue monsters are dealt by church hunters (usually monsters). Disputes between monsters are also often settled with Church help.
+> 
+> Any idea/cotribuition/critique/extrapolation is incredibly welcome.
 
->> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>> **u/alexanderwales** [+8]  *Time flies like an arrow* (3 hours later)
 >> 
 >> What's the setting for, because that changes which answers are appropriate.
->> For example, it would be pretty flavor appropriate to have werewolves become possessed by an eldritch creature from beyond when the stars are right, thus changing their forms to become more bestial and instilling them with a perverse bloodlust ... but that's not really appropriate to a roleplaying game, because you're taking away player agency.
->> Also, what kind of horror magic system do you want? One which is explicitly about horror, or one which evokes horror, or one which has horrific consequences?
 >> 
+>> For example, it would be pretty flavor appropriate to have werewolves become possessed by an eldritch creature from beyond when the stars are right, thus changing their forms to become more bestial and instilling them with a perverse bloodlust ... but that's not really appropriate to a roleplaying game, because you're taking away player agency.
+>> 
+>> Also, what kind of horror magic system do you want? One which is explicitly about horror, or one which evokes horror, or one which has horrific consequences?
 
->>> **u/hoja_nasredin** [+5]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+4]  *Dai-Gurren Brigade* (7 hours later)
 >>> 
 >>> > One which is explicitly about horror, or one which evokes horror, or one which has horrific consequences?
 >>> Never thought about it this way. I think evokes horror is what I will be going for. Not sure how to pull it off. Horrific consequences are easy, but horror during casting that is not just a "nice animation"?
->>> 
 
->>>> **u/alexanderwales** [+11]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+11]  *Time flies like an arrow* (7 hours later)
 >>>> 
 >>>> Casting involves self-mutilation, flaying away pieces of yourself until the dark gods say you can stop. Their price is not always the same; they can smell desperation and will urge you to a fever pitch of tension, like a haggling salesman who pushes every customer just to the edge of walking away in unhappiness.
->>>> Casting is degrading. The dark gods want blasphemies from you, not just against what your society says is right, but against your own beliefs and values. They will ask you to call yourself names; they'll find your weak spots, those aspects of yourself you most hate, and force you to attack those aspects relentlessly for their pleasure. They will make obscene demands of you, because they feed off your displeasure. When you are finished with a spell, you will have to wash off the words you wrote on your skin, you will vomit up those things you were made to eat, you will likely be sore and bruised ... but the memories will remain, and though you might shrug them off as nothing, the dark gods are good at leaving a scar on the psyche. (Imagine the dark gods as being something like 4chan /b/.)
 >>>> 
+>>>> Casting is degrading. The dark gods want blasphemies from you, not just against what your society says is right, but against your own beliefs and values. They will ask you to call yourself names; they'll find your weak spots, those aspects of yourself you most hate, and force you to attack those aspects relentlessly for their pleasure. They will make obscene demands of you, because they feed off your displeasure. When you are finished with a spell, you will have to wash off the words you wrote on your skin, you will vomit up those things you were made to eat, you will likely be sore and bruised ... but the memories will remain, and though you might shrug them off as nothing, the dark gods are good at leaving a scar on the psyche. (Imagine the dark gods as being something like 4chan /b/.)
 
->>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (8 hours later)
 >>>>> 
 >>>>> Nice. I was going more on the route of Gods are so alien they don't care about human followers. Humans can interact with them and get some perks, but the gods don't even notice this.
->>>>> 
 
->>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (8 hours later)
 >>>>>> 
 >>>>>> All problems derive from humans approach always fascinated me.
 >>>>>> So I need to find a way for amagic to be completely harmless but somehow humans degrade and damage themselves by using it.
->>>>>> 
 
->>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (7 hours later)
 >>>> 
 >>>> ah the setting originaly was for a one shot RPG session. But it never happneed so I'm working on it just for fun.
->>>> 
 
->> **u/trekie140** [+6] *
+>> **u/trekie140** [+6]  (3 hours later)
 >> 
 >> One of the ideas lovecraftian horror has explored is that modern religions are descended from the original cults that worshipped eldrich abominations, so this could tie in pretty well to that theme. It sounds like you're going for a bit of a gothic horror vibe, so I'd recommend having a magic system with some element of sacrificing humanity. 
->> Gothic horror is at its best with villains who choose to to do bad things when they don't need to and the heroes want to do bad things when they know they shouldn't. The fundamental fear it explores is temptation, so it's always easier to make the evil choice. I personally prefer when the temptation is personal rather than practical.
 >> 
+>> Gothic horror is at its best with villains who choose to to do bad things when they don't need to and the heroes want to do bad things when they know they shouldn't. The fundamental fear it explores is temptation, so it's always easier to make the evil choice. I personally prefer when the temptation is personal rather than practical.
 
->>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (7 hours later)
 >>> 
 >>> >  sacrificing humanity. 
->>> This is a really intresting point. If turning in a monster would have been a straight upgrade why not all humans turned into monsters? Humanity is a little bit vague. What should people lose when they turn? What will they lose as they continue turning more and more mosntrous? Ability to reproduce? Sanity (but then you can't have powerful intelligent monsters)? Empaty towards others (this way big monsters society destroy themselves as everyone is selfish)?
 >>> 
+>>> This is a really intresting point. If turning in a monster would have been a straight upgrade why not all humans turned into monsters? Humanity is a little bit vague. What should people lose when they turn? What will they lose as they continue turning more and more mosntrous? Ability to reproduce? Sanity (but then you can't have powerful intelligent monsters)? Empaty towards others (this way big monsters society destroy themselves as everyone is selfish)?
 
->>>> **u/trekie140** [+2] *
+>>>> **u/trekie140** [+2]  (12 hours later)
 >>>> 
 >>>> I left humanity vague specifically because it tends to vary in stories and I think it should depend on the characters. It shouldn't be so straightforward that rationalists can view it as a simple sacrifice for the greater good, it needs to have a punch to it. The tv show Penny Dreadful is not rational by any means, but at least the first season is a good example of gothic horror since nearly every character has a disturbing capacity for evil. They *want* to make the wrong choice even though they know it's immoral or even against their interests. The true antagonists of the series are the inner demons that they constantly struggle with.
->>>> To more directly answer your question, I think sanity would be the best choice. Insane characters need not be stupid, they just have irrational goals. They can have their own patterns and train of thought, and may even be aware of their faulty reasoning, but what makes them monsters is how they embrace that aspect of themselves instead of fighting it. If the monsters are generally more powerful than humans, then their insanity may be one of their few weaknesses since it keeps them from taking the most effective course of action and leaves them vulnerable to fulfilling their arbitrary goals.
->>>> The problem with tying sacrifice into anything else is that it becomes a cost-benefit analysis. The question of whether or not to use magic ends up being based on whether the sacrifice is worth it, but when it's a person's sanity you can't be sure what will happen or to what degree. I've always felt that horror stories have to defy rationality simply because fear defies rationality. The supernatural should defy reality as we understand it so it can scare us. Lovecraftian horror is especially good at this since the basic idea is that our understanding of reality is just a lie we tell ourselves to stay sane.
 >>>> 
+>>>> To more directly answer your question, I think sanity would be the best choice. Insane characters need not be stupid, they just have irrational goals. They can have their own patterns and train of thought, and may even be aware of their faulty reasoning, but what makes them monsters is how they embrace that aspect of themselves instead of fighting it. If the monsters are generally more powerful than humans, then their insanity may be one of their few weaknesses since it keeps them from taking the most effective course of action and leaves them vulnerable to fulfilling their arbitrary goals.
+>>>> 
+>>>> The problem with tying sacrifice into anything else is that it becomes a cost-benefit analysis. The question of whether or not to use magic ends up being based on whether the sacrifice is worth it, but when it's a person's sanity you can't be sure what will happen or to what degree. I've always felt that horror stories have to defy rationality simply because fear defies rationality. The supernatural should defy reality as we understand it so it can scare us. Lovecraftian horror is especially good at this since the basic idea is that our understanding of reality is just a lie we tell ourselves to stay sane.
 
->>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (2 days later)
 >>>> 
 >>>> >What should people lose when they turn?
->>>> Values and emotions.
->>>> Sacrifice empathy, become immortal. Sacrifice ability to appreciate art, turn into a shapeshifter. Lose an ability to feel your emotion of choice, get a (somehow) corresponding non-qualitative intelligence upgrade.
->>>> More general and permanent sacrifices allow more general and permanent 'augmentations'. Experienced practitioners could sacrifice a narrowly-defined value/emotion to get desired narrowly-defined power (lose [sonder](http://www.dictionaryofobscuresorrows.com/post/23536922667/sonder) to get clairvoyance for social situations, sacrifice your fondness for your favorite type of stories to get perfect memory for textual information), while unexperienced ones sacrifice broadly-defined pieces of themselves to get 'full packages' of inhumanity, such as 'kindness' for vampirism  or 'civilizedness' for lycanthropy.
->>>> Less general values and attachments, such as one's love for a certain human or affection to a place, could be sacrificed to power one-time sorceries and rituals.
->>>> Lastly, you could sacrifice all your values and all your emotions to become omnipotent. Very ironic.
 >>>> 
+>>>> Values and emotions.
+>>>> 
+>>>> Sacrifice empathy, become immortal. Sacrifice ability to appreciate art, turn into a shapeshifter. Lose an ability to feel your emotion of choice, get a (somehow) corresponding non-qualitative intelligence upgrade.
+>>>> 
+>>>> More general and permanent sacrifices allow more general and permanent 'augmentations'. Experienced practitioners could sacrifice a narrowly-defined value/emotion to get desired narrowly-defined power (lose [sonder](http://www.dictionaryofobscuresorrows.com/post/23536922667/sonder) to get clairvoyance for social situations, sacrifice your fondness for your favorite type of stories to get perfect memory for textual information), while unexperienced ones sacrifice broadly-defined pieces of themselves to get 'full packages' of inhumanity, such as 'kindness' for vampirism  or 'civilizedness' for lycanthropy.
+>>>> 
+>>>> Less general values and attachments, such as one's love for a certain human or affection to a place, could be sacrificed to power one-time sorceries and rituals.
+>>>> 
+>>>> Lastly, you could sacrifice all your values and all your emotions to become omnipotent. Very ironic.
 
->> **u/FishNetwork** [+3] *
+>> **u/FishNetwork** [+3]  (10 hours later)
 >> 
 >> I'd suggest imposing a rule that all magic will corrupt people, even if it doesn't physically hurt them.
->> The reason for this is that we're used to stories about people facing physical danger.  Dragons are big and scary.  But ultimately, they have stat-blocks.  So do massive evil armies or dark wizards.
->> To get the Lovecraftian sense of personal-insignificance and inevitable doom, I think you'd want to go beyond that and introduce dangers that can't really be fought.
->> For instance, the Church's magic might be "good".  But, to use it, people have to really become aware of [human suffering and the costs of inaction](http://unsongbook.com/chapter-35-the-voices-of-children-in-his-tents/).
->> So, monster hunters would be useful.  But they'd measure normal human experiences (like travel, or family dinners) in [dead child currency](https://web.archive.org/web/20161019091419/http://raikoth.net/deadchild.html).  
->> The strain from this means that 'good' magic users are eternally pushing themselves to the point of sickness and injury.  And being around them forces mundane mortals to face the fact that they don't care /that/ much about doing the right thing.
->> I'd do something similar with the monsters.  Vampirism / lycanthropy should have major costs beyond injury, pain or an obnoxious diet.   Otherwise, we can imagine ourselves in the monster's position and white-knuckling our way through the downsides.
 >> 
+>> The reason for this is that we're used to stories about people facing physical danger.  Dragons are big and scary.  But ultimately, they have stat-blocks.  So do massive evil armies or dark wizards.
+>> 
+>> To get the Lovecraftian sense of personal-insignificance and inevitable doom, I think you'd want to go beyond that and introduce dangers that can't really be fought.
+>> 
+>> For instance, the Church's magic might be "good".  But, to use it, people have to really become aware of [human suffering and the costs of inaction](http://unsongbook.com/chapter-35-the-voices-of-children-in-his-tents/).
+>> 
+>> So, monster hunters would be useful.  But they'd measure normal human experiences (like travel, or family dinners) in [dead child currency](https://web.archive.org/web/20161019091419/http://raikoth.net/deadchild.html).  
+>> 
+>> The strain from this means that 'good' magic users are eternally pushing themselves to the point of sickness and injury.  And being around them forces mundane mortals to face the fact that they don't care /that/ much about doing the right thing.
+>> 
+>> I'd do something similar with the monsters.  Vampirism / lycanthropy should have major costs beyond injury, pain or an obnoxious diet.   Otherwise, we can imagine ourselves in the monster's position and white-knuckling our way through the downsides.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (7 hours later)
 >>> 
 >>> Yeah, I have played V:tM and V:tR. Read the new werewolf but not the old one. Currently thinking of having 3 main breeds of monters: vampires with mostly social ablities, werewolves  with mostly physical ones and Kin with mostly mental ones. Kin will be some more lovecraftian/cosmic monsters. They will prey on minds of people, eating memories, sanity and sometimes everything. Not sure which powers to give them.
->>> What else should I check on W:tA besides Black Spiral Dancers?
 >>> 
+>>> What else should I check on W:tA besides Black Spiral Dancers?
 
->>>> **u/MrCogmor** [+4] *
+>>>> **u/MrCogmor** [+4]  (7 hours later)
 >>>> 
 >>>> Also have a look at fan game lines such as 
+>>>> 
 >>>> [Outsider: The Calling]
 >>>> (http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/OutsiderTheCalling)
->>>>  [Genius: The trangression](http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/GeniusTheTransgression)
->>>> [Pathogen: The Infected](http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/PathogenTheInfected)
->>>> Outsider could help you with lore. Genius would help with developing the magic system and has story advice in the appendixes. The different powers from pathogen can create disturbing monsters.
 >>>> 
+>>>>  [Genius: The trangression](http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/GeniusTheTransgression)
+>>>> 
+>>>> [Pathogen: The Infected](http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/PathogenTheInfected)
+>>>> 
+>>>> Outsider could help you with lore. Genius would help with developing the magic system and has story advice in the appendixes. The different powers from pathogen can create disturbing monsters.
 
->>>>> **u/Escapement** [+4]  *Ankh-Morpork City Watch**
+>>>>> **u/Escapement** [+4]  *Ankh-Morpork City Watch* (9 hours later)
 >>>>> 
 >>>>> Good suggestions. Another fan product to mine for ideas might be World of Darkness complete conversion [After Sundown](http://www.tgdmb.com/viewtopic.php?t=52316&postdays=0&postorder=asc&start=0) - there is some interesting fluff and flavortext ideas, and in particular some antagonist and protagonist factions that seem fairly decent.
->>>>> 
 
->>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (21 hours later)
 >>>>>> 
 >>>>>> the internet sure is a small place. I'm relatively sure some years back I stumbed on that sundown forum and tried to play a game. Lost interest during character creation but heck, the internet is so small!
->>>>>> 
 
-> **u/Rhamni** [+10]  *Aspiring author**
+> **u/Rhamni** [+10]  *Aspiring author* (12 hours later)
 > 
 > In a story I'm writing, there's a group of non-magicians trying to survive in adverse condition. They mysteriously find themselves in a ruin city in the middle of Bumfuck, Sahara. It gradually starts to look like they weren't just picked at random or ended up there accidentally, so people start getting paranoid and trying to figure out if there are any 'traitors' or conspirators among them who might know more than they say.
-> One of the things I am planting the seeds for as I write is that one of them (the 'baddie') is a magic user. The way the main character figures out who it is that they find exactly one person who is able to make things work that should not work. For example, they find brackish water in a cave system. You can't just filter salt out of water, the particles are too small. Yet one character just happens to find filters that can filter out salt. One of the characters is bit by a snake and injected with venom that later kills another character. Except, the first victim doesn't die because the mage manages to 'suck the venom' out of the wound fast enough. In reality, this is not something that can be done. The venom spreads through the blood far too quickly for that.
-> So my question for you people: You like it when things are factually accurate/science is used right. But... if you're reading a story and the characters start racking up half a dozen *undeniably* false claims and the other characters/the plot doesn't seem to care for a hundred pages, does that annoy you, or are you comfortable with factoids being allowed to sit until they collide with science much later in the story? I wonder if, from the reader's perspective, it looks like I'm just writing bullshit while trying to sound smart. There are clues smattered throughout, like the chemistry student (from an earlier century) being frustrated that *he* can't replicate the filtering mechanism, but they are probably easy to miss. So my question is, how subtle is too subtle, and are you comfortable reading a story where for a while it looks like the writer is propagating Bad Science?
 > 
+> One of the things I am planting the seeds for as I write is that one of them (the 'baddie') is a magic user. The way the main character figures out who it is that they find exactly one person who is able to make things work that should not work. For example, they find brackish water in a cave system. You can't just filter salt out of water, the particles are too small. Yet one character just happens to find filters that can filter out salt. One of the characters is bit by a snake and injected with venom that later kills another character. Except, the first victim doesn't die because the mage manages to 'suck the venom' out of the wound fast enough. In reality, this is not something that can be done. The venom spreads through the blood far too quickly for that.
+> 
+> So my question for you people: You like it when things are factually accurate/science is used right. But... if you're reading a story and the characters start racking up half a dozen *undeniably* false claims and the other characters/the plot doesn't seem to care for a hundred pages, does that annoy you, or are you comfortable with factoids being allowed to sit until they collide with science much later in the story? I wonder if, from the reader's perspective, it looks like I'm just writing bullshit while trying to sound smart. There are clues smattered throughout, like the chemistry student (from an earlier century) being frustrated that *he* can't replicate the filtering mechanism, but they are probably easy to miss. So my question is, how subtle is too subtle, and are you comfortable reading a story where for a while it looks like the writer is propagating Bad Science?
 
->> **u/None** [+5] *
+>> **u/None** [+6]  (14 hours later)
 >> 
 >> I haven't heard of this idea being used before.  If, for at least part of it, the characters are reacting to this with some level of incredulity (like the chem student), I'd roll with it.
->> Also, the payoff sounds pretty awesome.  (Though I'm a little confused as to why an antagonist would keep up a charade for so long, but I'm sure that's plot-relevant).
 >> 
+>> Also, the payoff sounds pretty awesome.  (Though I'm a little confused as to why an antagonist would keep up a charade for so long, but I'm sure that's plot-relevant).
 
->>> **u/Rhamni** [+1]  *Aspiring author**
+>>> **u/Rhamni** [+1]  *Aspiring author* (23 hours later)
 >>> 
 >>> There is some level of incredulity, but not at first from the main character. He is scientifically illiterate. All he has is a gift for convincing people. So the one or two characters who know you can't do X express surprise or disbelief, but everyone else basically goes "Oh well, I guess the expert doesn't know everything", and the main character doesn't think it's odd at all. It's only when he learns his lesson about [inferential distances](http://lesswrong.com/lw/kg/expecting_short_inferential_distances/) that he can take a step back and consider the possibility that there is something else going on.
->>> The antagonist has a fairly straight forward motive and isn't a very bad person. The ruins are filled with Ancient Lost Knowledge, but no food or water, and it's in the middle of a desert. So his plan is for the rest of the group to work hard for their survival while he browses the local libraries for the rest of his life. He sabotages all the ways they can think of to escape the place, but he doesn't kill anyone. There are other complications, like one of the characters deciding to become a robber baron, but the bookworm is the one who stranded them all there.
 >>> 
+>>> The antagonist has a fairly straight forward motive and isn't a very bad person. The ruins are filled with Ancient Lost Knowledge, but no food or water, and it's in the middle of a desert. So his plan is for the rest of the group to work hard for their survival while he browses the local libraries for the rest of his life. He sabotages all the ways they can think of to escape the place, but he doesn't kill anyone. There are other complications, like one of the characters deciding to become a robber baron, but the bookworm is the one who stranded them all there.
 
->> **u/Norseman2** [+2] *
+>> **u/Norseman2** [+2]  (a day later)
 >> 
 >> Here's one potential problem: your main character has to eventually realize these are scientific inaccuracies, which will require significant knowledge up-front, which means they will probably realize these should be impossible immediately. Will it ruin the story if they keep pointing out that Steve is breaking the universe?
->> Some things could potentially slip by the radar. For example sucking poison out of a wound is not recommended since poisons typically absorb very quickly and putting your mouth on the wound can be counterproductive since it can introduce bacteria into the wound. Even so, that's not to say it could absolutely never work for any type of venomous bite. And even if that's the case, not all snake/spider bites are venomous, and not all bites from venomous animals result in delivery of significant amounts of venom (if they recently bit something else, for example). So, call it a 99.9% chance that Steve is an idiot and that bite wasn't venomous to begin with, and an 0.1% chance that Steve actually saved that guy.
->> Another potential problem is motive. Why would Steve teleport all of these random people to Bumfuck, Sahara? It seems like he has very little to gain from the exercise.
 >> 
+>> Some things could potentially slip by the radar. For example sucking poison out of a wound is not recommended since poisons typically absorb very quickly and putting your mouth on the wound can be counterproductive since it can introduce bacteria into the wound. Even so, that's not to say it could absolutely never work for any type of venomous bite. And even if that's the case, not all snake/spider bites are venomous, and not all bites from venomous animals result in delivery of significant amounts of venom (if they recently bit something else, for example). So, call it a 99.9% chance that Steve is an idiot and that bite wasn't venomous to begin with, and an 0.1% chance that Steve actually saved that guy.
+>> 
+>> Another potential problem is motive. Why would Steve teleport all of these random people to Bumfuck, Sahara? It seems like he has very little to gain from the exercise.
 
->>> **u/Rhamni** [+2]  *Aspiring author**
+>>> **u/Rhamni** [+2]  *Aspiring author* (2 days later)
 >>> 
 >>> I'm very glad that potential problems were raised, and even happier that I can answer them, at least to my own satisfaction. Hopefully they satisfy you as well.
->>> MC has virtually zero scientific knowledge. His one skill is the ability to talk people into things. The objections are raised by people who *do* have understanding of their own specialities, most of whom only witness a single impossibility. When they object, they are just ignored; people think they must not know everything, or perhaps there is some random factor in play they don't know about. In the case of the snake bite, they find out later that the venom is lethal indeed, since the same kind of snake kills someone else when Steve isn't around. Now, the first snake could have simply exhausted its supply, or perhaps sucking on the wound did work, etc etc, and these possibilities are raised. On its own, it is not strong evidence of mage-in-disguise. But as the MC starts absorbing Ancient Lost Knowledge (mostly early 20th century-equivalent science), he learns a lesson in inferential distances (while the book is not meant to be rationalist, I am taking this one thing almost straight from Yudkowsky's sequences), and as there are multiple cases of experts saying this one thing shouldn't happen, he starts to consider the possibility that instead of all of them being wrong, maybe all of them are right.
->>> Steve's motive for bringing people to Bumfuck Sahara is something that makes sense in the book, I hope. In short, there is an incredibly strong taboo surrounding the long dead civilisation that used to live here and their superior magic and technology. In the end they kind of all got killed off by magical WMDs that left the city standing. Steve thinks this taboo is bullshit. He can't recruit other mages to go with him there or they will burn him at the stake, nor can he go alone or he won't survive for very long (and frequent supply runs to civilization risks discovery). So he spends a few years hand picking slaves that have specialised knowledge and skills useful for survival in the city but no knowledge of history. He arranges for all of them to be transported across the desert, then hides among them when they stop for the night. When the slaves wake up the next morning, they are just sitting in the middle of a salt desert, with only the ruin city in view. They find this suspicious, but they also really like the idea of not being slaves anymore, so they set their confusion aside for a while.
->>> Steve sabotages all attempts at actually leaving the city (as some people want to do), but otherwise just helps out a bit with the whole staying alive thing and spends most of his days just chilling in the libraries of ol' Nazi Hogwarts Moria.
 >>> 
+>>> MC has virtually zero scientific knowledge. His one skill is the ability to talk people into things. The objections are raised by people who *do* have understanding of their own specialities, most of whom only witness a single impossibility. When they object, they are just ignored; people think they must not know everything, or perhaps there is some random factor in play they don't know about. In the case of the snake bite, they find out later that the venom is lethal indeed, since the same kind of snake kills someone else when Steve isn't around. Now, the first snake could have simply exhausted its supply, or perhaps sucking on the wound did work, etc etc, and these possibilities are raised. On its own, it is not strong evidence of mage-in-disguise. But as the MC starts absorbing Ancient Lost Knowledge (mostly early 20th century-equivalent science), he learns a lesson in inferential distances (while the book is not meant to be rationalist, I am taking this one thing almost straight from Yudkowsky's sequences), and as there are multiple cases of experts saying this one thing shouldn't happen, he starts to consider the possibility that instead of all of them being wrong, maybe all of them are right.
+>>> 
+>>> Steve's motive for bringing people to Bumfuck Sahara is something that makes sense in the book, I hope. In short, there is an incredibly strong taboo surrounding the long dead civilisation that used to live here and their superior magic and technology. In the end they kind of all got killed off by magical WMDs that left the city standing. Steve thinks this taboo is bullshit. He can't recruit other mages to go with him there or they will burn him at the stake, nor can he go alone or he won't survive for very long (and frequent supply runs to civilization risks discovery). So he spends a few years hand picking slaves that have specialised knowledge and skills useful for survival in the city but no knowledge of history. He arranges for all of them to be transported across the desert, then hides among them when they stop for the night. When the slaves wake up the next morning, they are just sitting in the middle of a salt desert, with only the ruin city in view. They find this suspicious, but they also really like the idea of not being slaves anymore, so they set their confusion aside for a while.
+>>> 
+>>> Steve sabotages all attempts at actually leaving the city (as some people want to do), but otherwise just helps out a bit with the whole staying alive thing and spends most of his days just chilling in the libraries of ol' Nazi Hogwarts Moria.
 
->>>> **u/Norseman2** [+2] *
+>>>> **u/Norseman2** [+2]  (2 days later)
 >>>> 
 >>>> That seems reasonable. I think that would work just fine as long as the ways in which Steve breaks the universe are not blatantly obvious to a modestly informed reader, but do become blatantly obvious when you think about them. Sucking poison from a wound is a decent possibility. Filtering salt out of water with some random thing/substance found in a desert seems unlikely unless it happens to be a reverse osmosis filter. I think most readers would understand that dissolved sodium chloride molecules are *very* tiny.
->>>> It think you could also make the story fairly educational if you pick things that modestly-informed readers may believe and then debunk them in the course of the story. I feel like these would be more enjoyable because you'd end up learning about a lot of things which you may not have known were bogus. Wikipedia is helpful as always with its [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions), though I feel like many of them are uncommon, at least among modestly informed readers.
->>>> The trick would be to pick some of those that you think a modestly informed reader would believe, which you also believe you'd be able to explain why it obviously and logically cannot be correct.
 >>>> 
+>>>> It think you could also make the story fairly educational if you pick things that modestly-informed readers may believe and then debunk them in the course of the story. I feel like these would be more enjoyable because you'd end up learning about a lot of things which you may not have known were bogus. Wikipedia is helpful as always with its [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions), though I feel like many of them are uncommon, at least among modestly informed readers.
+>>>> 
+>>>> The trick would be to pick some of those that you think a modestly informed reader would believe, which you also believe you'd be able to explain why it obviously and logically cannot be correct.
 
->>>>> **u/Rhamni** [+2]  *Aspiring author**
+>>>>> **u/Rhamni** [+2]  *Aspiring author* (2 days later)
 >>>>> 
 >>>>> That's a useful list! Thanks. I've just skimmed it, but I'll give it a closer look. I have a few more impossibilities, but there may be room for more if I find some I like.
->>>>> Filters not working on tiny salt particles makes sense to me, but I've asked a few friends with zero interest or aptitude for chemistry, and they didn't know that. They just accepted it in a Star Treky way where you just accept that Data says sciencey things and the plot moves on. So I think that works. And hey, if readers catch on to one or two of the impossibilities, that's fine. As long as they don't think the book is Bad Science and put it down, which is what I'm concerned about.
 >>>>> 
+>>>>> Filters not working on tiny salt particles makes sense to me, but I've asked a few friends with zero interest or aptitude for chemistry, and they didn't know that. They just accepted it in a Star Treky way where you just accept that Data says sciencey things and the plot moves on. So I think that works. And hey, if readers catch on to one or two of the impossibilities, that's fine. As long as they don't think the book is Bad Science and put it down, which is what I'm concerned about.
 
->>>>>> **u/Norseman2** [+2] *
+>>>>>> **u/Norseman2** [+2]  (2 days later)
 >>>>>> 
 >>>>>> >And hey, if readers catch on to one or two of the impossibilities, that's fine. As long as they don't think the book is Bad Science and put it down, which is what I'm concerned about.
->>>>>> To avoid this, you could try describing things in a way which allows for some uncertainty that the impossible effect is even occurring at all. Poison from a wound is easy enough, and all you'd need to do is have someone ask about whether we know whether the wound was poisoned to begin with.
->>>>>> For salt filtration with some random substance/item from the Sahara desert, you could probably get away with it if the salt filter is rather large and sits out in the sun, leaving the possibility that it's actually just a solar-powered water distillery. If you're using a desert plant for the filter, there could be doubt about possibly just leaching relatively pure water out of the plant without any filtration actually occurring.
->>>>>> As long as you have to juggle probabilities of "Magic", "Coincidence", and "No statistically significant effect", you should be able to avoid turning readers off before they reach the big reveal.
 >>>>>> 
+>>>>>> To avoid this, you could try describing things in a way which allows for some uncertainty that the impossible effect is even occurring at all. Poison from a wound is easy enough, and all you'd need to do is have someone ask about whether we know whether the wound was poisoned to begin with.
+>>>>>> 
+>>>>>> For salt filtration with some random substance/item from the Sahara desert, you could probably get away with it if the salt filter is rather large and sits out in the sun, leaving the possibility that it's actually just a solar-powered water distillery. If you're using a desert plant for the filter, there could be doubt about possibly just leaching relatively pure water out of the plant without any filtration actually occurring.
+>>>>>> 
+>>>>>> As long as you have to juggle probabilities of "Magic", "Coincidence", and "No statistically significant effect", you should be able to avoid turning readers off before they reach the big reveal.
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (4 days later)
 >>>> 
 >>>> > MC has virtually zero scientific knowledge. His one skill is the ability to talk people into things.
->>>> ...
->>>> > So he spends a few years hand picking slaves that have specialised knowledge and skills useful for survival in the city but no knowledge of history.
->>>> If the MC's only skill is in debate and rhetoric, then why would Steve want him? The MC apparently isn't helpful at all for surviving in a desert.
 >>>> 
+>>>> ...
+>>>> 
+>>>> > So he spends a few years hand picking slaves that have specialised knowledge and skills useful for survival in the city but no knowledge of history.
+>>>> 
+>>>> If the MC's only skill is in debate and rhetoric, then why would Steve want him? The MC apparently isn't helpful at all for surviving in a desert.
 
->>>>> **u/Rhamni** [+1]  *Aspiring author**
+>>>>> **u/Rhamni** [+1]  *Aspiring author* (4 days later)
 >>>>> 
 >>>>> Not helpful for surviving, but very helpful for *staying* in the city. He manipulates MC into wanting to stick around and look for treasure, which makes MC work hard to manipulate everyone else to stick around for a variety of other reasons. Then, whenever he wants to steer people in some particular direction, he feeds MC a motive to want people to behave that way. MC starts out with simple, self serving motives, which makes him pretty easy to manipulate for Steve. Steve never really pushes what he wants openly, he just happens to mention little things that points MC's greed in a new direction.
->>>>> In short, Steve doesn't want to have to spend all his time dealing with people, so he picks MC to do it for him.
 >>>>> 
+>>>>> In short, Steve doesn't want to have to spend all his time dealing with people, so he picks MC to do it for him.
 
-> **u/alexanderwales** [+9]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (3 hours later)
 > 
 > I'm going to be DMing a D&D campaign soon where the world starts from the prompt "gods outnumber human(oids)". [Here's the worldbuilding doc.](https://docs.google.com/document/d/1fO38qPStcyExou5EBbF5ESdx6of7UHG0Gr2mWqH78_k/edit?usp=sharing) Comments or ideas are much appreciated (with the caveat that the world is built to support maximal adventure and have all the stuff that's in a normal D&D world).
-> 
 
->> **u/CCC_037** [+3] *
+>> **u/CCC_037** [+3]  (6 days later)
 >> 
 >> If they outnumber human(oids), then whenever you run into a random person on the street, he's more likely to be a god than not. Random strangers might ask each other what they're the god of, and since they're the largest species out there, you'd get a *lot* of demigods after a generation or two. It might be possible for a god of something to disguise himself as a mortal - and it that's common, then when your adventurers claim to be mortal, other people might not believe them.
->> Actual mortals might be considered somewhat crippled or disadvantaged by *not* having divine powers/abilities, and might end up being second- or third-class citizens. A mortal with a loose approach to truthfulness might easily claim to be the god of *something* (generally something minor) which would be embarrassing if he runs into the real one.
->> Unless mortals are allowed to worship multiple deities simultaneously, or unless they're allowed to worship each other, there must be some deities with no worshippers at all. (Most fantasy stories seem to imply this is [a bad thing](http://tvtropes.org/pmwiki/pmwiki.php/Main/GodsNeedPrayerBadly) for them).
 >> 
+>> Actual mortals might be considered somewhat crippled or disadvantaged by *not* having divine powers/abilities, and might end up being second- or third-class citizens. A mortal with a loose approach to truthfulness might easily claim to be the god of *something* (generally something minor) which would be embarrassing if he runs into the real one.
+>> 
+>> Unless mortals are allowed to worship multiple deities simultaneously, or unless they're allowed to worship each other, there must be some deities with no worshippers at all. (Most fantasy stories seem to imply this is [a bad thing](http://tvtropes.org/pmwiki/pmwiki.php/Main/GodsNeedPrayerBadly) for them).
 
->> **u/ketura** [+2]  *Organizer**
+>> **u/ketura** [+2]  *Organizer* (2 days later)
 >> 
 >> I have to say, I love this. Or should I say, I am in thrall to the God of Enjoying Obscure Worldbuilding.
->> 
 
-> **u/vakusdrake** [+5] *
+> **u/vakusdrake** [+5]  (an hour later)
 > 
 > So I was wondering how one might maximize the advantages of superhuman reflexes and a body that has no nerve signal latency, but no super strength or the such the main advantages are to the brain and nervous system.             
 > The brain is so upgraded that one could at the extreme spend months of subjective time in a virtual environment deliberating with copies of oneself in one's mind mid combat.                 
 > It already occurred to me this could justify using two automatic weapons at the same time with this; since you could calculate perfectly for recoil and even use it to guide each shot into the next. However even this doesn't quite seem like the fullest optimization of these abilities.         
 > It occurs to me you might want to use some sort of spring boots to be constantly doing parkour style stuff to make you hard to hit, since it wouldn't impair your shooting ability with these abilities. Plus it occurs to me that with perfect memory which is also part of the package you could be very well adapted to fight if you suddenly set off a smoke bomb, plus you could likely use something like echolocation some blind people use.                 
-> Basically i'm wondering what kinds of combat advantages might come with non-qualitative superintelligence. The kind of fighting you might see from a humanoid robot with a extremely fast human level AI in it. Some extra technological advantages might be appropriate if it wouldn't be impossible for a civilian to get ahold of them.
 > 
+> Basically i'm wondering what kinds of combat advantages might come with non-qualitative superintelligence. The kind of fighting you might see from a humanoid robot with a extremely fast human level AI in it. Some extra technological advantages might be appropriate if it wouldn't be impossible for a civilian to get ahold of them.
 
->> **u/Noumero** [+9]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+8]  *Self-Appointed Court Statistician* (5 hours later)
 >> 
 >> It would allow near-infinitely precise control of the body, correct? Then the character should leverage that to maximize the amount of information gathered and actions done in each moment.
->> The clothing should include tiny reflective surfaces scattered across the limbs and on shoulders, which should allow near-constant 360-degree vision. Tiny cameras would be more preferable, but that depends on the setting.
->> Small mirrors could be thrown to give a view of an obstructed location; while baseline humans would be unable to throw them with the level of precision necessary to ensure that the mirrors would be oriented to them at the right angle at the right time, and would be unable to perceive the reflection in a split-second it would be seen even if they do, our superhuman is not restricted so.
->> Perhaps other highly sensetive devices could be included in clothing or implanted in skin, to be activated by precise combinations of muscle contractions. Poisoned needles, communication devices (both transmitters and receivers), remote controls, flashlights, lasers, it depends on the level of technology available.
 >> 
+>> The clothing should include tiny reflective surfaces scattered across the limbs and on shoulders, which should allow near-constant 360-degree vision. Tiny cameras would be more preferable, but that depends on the setting.
+>> 
+>> Small mirrors could be thrown to give a view of an obstructed location; while baseline humans would be unable to throw them with the level of precision necessary to ensure that the mirrors would be oriented to them at the right angle at the right time, and would be unable to perceive the reflection in a split-second it would be seen even if they do, our superhuman is not restricted so.
+>> 
+>> Perhaps other highly sensetive devices could be included in clothing or implanted in skin, to be activated by precise combinations of muscle contractions. Poisoned needles, communication devices (both transmitters and receivers), remote controls, flashlights, lasers, it depends on the level of technology available.
 
->>> **u/vakusdrake** [+3] *
+>>> **u/vakusdrake** [+3]  (6 hours later)
 >>> 
 >>> That's pretty clever. I'm definitely having these people wear glasses with monitors that display some compressed version of the feed from a 360 camera on their head. They could just run a program in their head that would interpret the warped image into something they can make sense of. Also giving them tiny mirrors to throw, or maybe just mirrored ball bearing, since they can dewarp the visuals from those similar to the 360 camera thing (though I don't know how much). They would throw these in order to see around corners and see things from different vantages.               
 >>> Tech level is modern, but with some extra breakthroughs due to much more space travel. They use a lot of https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion rockets.
->>> 
 
->> **u/MonstrousBird** [+2] *
+>> **u/MonstrousBird** [+2]  (2 hours later)
 >> 
 >> Being able to calculate where your opponents are shooting from could be worth a lot in the right circumstances. Basically you're looking at a lot of ninja style skills, so worth looking at some of the tropes for those. Also quickly learning opponents styles and weaknesses and any pattern in their moves.
->> 
 
->> **u/oliwhail** [+2]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+2]  *Omake-Maximizing AGI* (2 hours later)
 >> 
 >> **No** nerve signal latency? If that applies to signals within the brain as well, that's going to be a fundamentally different kind of processing going on. You might be justified in giving such a character effectively infinite thinking time, for example, as a way of narratively demonstrating what hapens as the whole of their cortex reaches a steady state simultaneously.
->> If you just mean very very fast nerve signal transmission, then the kinds of combat applications you mention are one way to go, but I'm not sure direct combat is the biggest contribution you could make compared to the logistical and tactical impact that kind of brain would be able to have.
 >> 
+>> If you just mean very very fast nerve signal transmission, then the kinds of combat applications you mention are one way to go, but I'm not sure direct combat is the biggest contribution you could make compared to the logistical and tactical impact that kind of brain would be able to have.
 
->>> **u/vakusdrake** [+1] *
+>>> **u/vakusdrake** [+1]  (5 hours later)
 >>> 
 >>> It's kind of complicated, all the nerves and neurons are directly controlled via the individual's superpowers. The person's mind actually resides in another directly adjacent universe and all the nerves can be controlled from there, the brain isn't even really doing anything anymore.                               
+>>> 
 >>> >I'm not sure direct combat is the biggest contribution you could make compared to the logistical and tactical impact that kind of brain would be able to have.
+>>> 
 >>> Ooh I actually want to know more details because it'll help with worldbuilding for a superhero type story i'm working on. Like what specifically can you think of?            
 >>> The world in question in in a sort of complicated semi-cold war that uses superhumans to maintain plausible deniability for their attacks on each other, so military applications are likely to trump most others.        
 >>> Also most of the rare people with these powers are not quite so amazing and can only speed up their perception of time like 10x not basically indefinitely.                 
 >>> I mean all I can come up with is some of them as supercomputers since they can run programs in their mind, and using them for surveillance. I guess they might control a bunch of drones at the same time also, but that would mostly fall under surveillance since drone strikes directly on your enemies would stretch deniability too thin, compared to the normal situation where you can claim the superhumans were rogue agents, of which plenty of real ones exist.
->>> 
 
->>>> **u/oliwhail** [+2]  *Omake-Maximizing AGI**
+>>>> **u/oliwhail** [+2]  *Omake-Maximizing AGI* (5 hours later)
 >>>> 
 >>>> > Like what specifically can you think of?
->>>> Using them to keep track of the logistical needs of a military-industrial complex is my first thought - make sure your factories are always getting raw materials shipped in and finished products shipped out on time, the staff of your NSA-equivalent and your soldiers on alert in case the enemy launches a surprise assault are kept on a psychologically healthy rotation schedule, double-check budget numbers to make sure nobody is skimming off the top, watch and analyse incoming intel and global trends to identify enemy strategies and weaknesses, come up with new and more efficient transportation technologies / routes, better weapons, better surveillance tech. Crack enemy encryption. Invent better encryption for your own communication. Put a bunch of super-geniuses together on making better superhumans. Coordinating  tactical situations by keeping more factors in mind simultaneously.
->>>> I dunno, man, it just seems like if you have a person who can do many times as much thinking as anyone else, 'give them two guns and send them to the front line' maybe has some propaganda value, but only do it long enough to get some cool videos to show the citizens and then bring your golden goose home and keep them safe.
 >>>> 
+>>>> Using them to keep track of the logistical needs of a military-industrial complex is my first thought - make sure your factories are always getting raw materials shipped in and finished products shipped out on time, the staff of your NSA-equivalent and your soldiers on alert in case the enemy launches a surprise assault are kept on a psychologically healthy rotation schedule, double-check budget numbers to make sure nobody is skimming off the top, watch and analyse incoming intel and global trends to identify enemy strategies and weaknesses, come up with new and more efficient transportation technologies / routes, better weapons, better surveillance tech. Crack enemy encryption. Invent better encryption for your own communication. Put a bunch of super-geniuses together on making better superhumans. Coordinating  tactical situations by keeping more factors in mind simultaneously.
+>>>> 
+>>>> I dunno, man, it just seems like if you have a person who can do many times as much thinking as anyone else, 'give them two guns and send them to the front line' maybe has some propaganda value, but only do it long enough to get some cool videos to show the citizens and then bring your golden goose home and keep them safe.
 
->>>>> **u/vakusdrake** [+2] *
+>>>>> **u/vakusdrake** [+2]  (6 hours later)
 >>>>> 
 >>>>> I actually was imagining that the military would probably use these people for surveillance and supervision (though I underestimated how useful supervision was).             
 >>>>> However i'm working on a story where somebody with these powers is fighting against the government and they aren't really part of a rebellion large enough to warrant just using them exclusively as a supervisor.    
 >>>>> Also while people with powers do tend to skew towards being genius's, and thus having lots of subjective time would let them invent things faster, these people are really not any smarter or more creative than they were pre-power.
->>>>> 
 
->> **u/ulyssessword** [+2] *
+>> **u/ulyssessword** [+2]  (10 hours later)
 >> 
 >> >The brain is so upgraded that one could at the extreme spend months of subjective time in a virtual environment deliberating with copies of oneself in one's mind mid combat.
->> Have you read [That Alien Message](http://lesswrong.com/lw/qk/that_alien_message/)?  Being a (much) faster thinker and (much) smarter than other people is an *unimaginably huge* advantage.
 >> 
+>> Have you read [That Alien Message](http://lesswrong.com/lw/qk/that_alien_message/)?  Being a (much) faster thinker and (much) smarter than other people is an *unimaginably huge* advantage.
 
->>> **u/vakusdrake** [+2] *
+>>> **u/vakusdrake** [+2]  (13 hours later)
 >>> 
 >>> Ah yes I've read that one, though I doubt you could really perform that well as a single individual without the ability to interact with new ideas. In the story they have _lots_ of geniuses able to spur each other's thinking and whatnot.                
 >>> I doubt a single individual in isolation could gain the same level of comparative advantage that they could in that story. Not to mention that if you are willing to spend all your time in a environment you create isolated from the world, then there is an obvious danger of gradual wireheading. A great portion of people with these powers end up interacting with the world only to get what they need to survive, spending all their time blissed out or otherwise not producing productive work.
->>> P.S: If you have any articles written by people other than SSC and EY I'd greatly appreciate. SSC and EY links are good to but I think I've read nearly all of the popular ones.
 >>> 
+>>> P.S: If you have any articles written by people other than SSC and EY I'd greatly appreciate. SSC and EY links are good to but I think I've read nearly all of the popular ones.
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (21 hours later)
 >> 
 >> Would it be possible for him to instantly replicate any technique that he'd seen performed once? (I'm assuming he'd be able to take objective months studying the technique, considering it, and then respond by doing the same movements himself - which might get him into trouble if he didn't have the strength to get it right).
->> 
 
->>> **u/vakusdrake** [+3] *
+>>> **u/vakusdrake** [+3]  (a day later)
 >>> 
 >>> Oh yeah that's well within his abilities. He might just spend a few (subjective) days looking at what muscles specifically are contracting and how, then he would run simulations of using the technique within his mind to fine tune it for his abilities.               
 >>> Though honestly martial arts training wouldn't do him much good, he can already just run simulations to just figure out the best possible way to move his body mid-combat so knowing some basic stuff about the body and physics ought to suffice when he's taking his time. Though there might be benefit to trying to hide the fact he's superhuman, by not using his usual crazy hyperefficient acrobatic combat style that no normal human could possibly make work.
->>> 
 
->> **u/TJ333** [+1] *
+>> **u/TJ333** [+1]  (a day later)
 >> 
 >> There was a fan fiction for Super Powered called Legacy that had a similar power.
->> The character controlled his subjective mental time. While playing in a super powered football league he would observe exactly what everyone else was doing and be able to think out the best possible response to it.
->> Secondly he could do physical actions perfectly as he could observe himself moving and correct or adapt as required. Applied to exercise and training this also made him nearly top human fitness.
->> It was described very well, such as how during a game he see a speeder coming for him and be adjusting his movements as he moved to block the speeder exactly as much as was needed while also preparing for the next parts of the play. Unfortunately it does not seem to be online anymore.
 >> 
+>> The character controlled his subjective mental time. While playing in a super powered football league he would observe exactly what everyone else was doing and be able to think out the best possible response to it.
+>> 
+>> Secondly he could do physical actions perfectly as he could observe himself moving and correct or adapt as required. Applied to exercise and training this also made him nearly top human fitness.
+>> 
+>> It was described very well, such as how during a game he see a speeder coming for him and be adjusting his movements as he moved to block the speeder exactly as much as was needed while also preparing for the next parts of the play. Unfortunately it does not seem to be online anymore.
 
->>> **u/vakusdrake** [+2] *
+>>> **u/vakusdrake** [+2]  (a day later)
 >>> 
 >>> Damn that sounds awesome and I really wish I could read it. I think these sorts of computer-like intelligence powers are incredibly interesting and are greatly underrepresented among superpowers.            
->>> The best example I can think of is the rational naruto fanfic "lighting up the dark", specifically the one scene (don't worry this isn't really a spoiler) where the fox briefly gets control of his body, but can only expend a limited amount of chakra and use techniques naruto knows. Even with those limits, through absurd efficiency and mental speed it manages to kick the asses of a bunch of full grown ninja until naruto regain control of himself.
 >>> 
+>>> The best example I can think of is the rational naruto fanfic "lighting up the dark", specifically the one scene (don't worry this isn't really a spoiler) where the fox briefly gets control of his body, but can only expend a limited amount of chakra and use techniques naruto knows. Even with those limits, through absurd efficiency and mental speed it manages to kick the asses of a bunch of full grown ninja until naruto regain control of himself.
 
->>>> **u/TJ333** [+1] *
+>>>> **u/TJ333** [+1]  (2 days later)
 >>>> 
 >>>> Lighting Up the Dark is an awesome story. I'm really hoping that we will get more of it at some point. There was some really interesting power building in the story.
->>>> 
 
-> **u/MonstrousBird** [+2] *
+> **u/MonstrousBird** [+2]  (an hour later)
 > 
 > I'd be interested in any feedback on my djinni entry to the magic system challenge. I'm trying to build a plausible world where there are only up to twelve djinn at a time, but even that seems too world changing, so I'm limiting their powers quite a lot...
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (12 hours later)
 > 
 > I will be spending some brain cycles letting [Equations in Meditation](https://mindlevelup.wordpress.com/2016/11/23/equations-in-meditation/) (my entry for the short story prompt on magic) percolate into something larger.  It feels like I went through lots of plot points very quickly, many of which could be covered in more detail.
-> Also, I'm by no means well-versed in the twisty depths of mathematics, so if you all have any suggestions for interesting "mathemagic" hacks, or weird ways of realizing math in the corporeal world, I'm all ears!
-> Once I sketch out some scenes and have an actual plot direction, I'll probably put the chapters up here.  I'm unsure of my writing speed, and I'm pretty new to all this, so general suggestions are great too.
 > 
+> Also, I'm by no means well-versed in the twisty depths of mathematics, so if you all have any suggestions for interesting "mathemagic" hacks, or weird ways of realizing math in the corporeal world, I'm all ears!
+> 
+> Once I sketch out some scenes and have an actual plot direction, I'll probably put the chapters up here.  I'm unsure of my writing speed, and I'm pretty new to all this, so general suggestions are great too.
 
 ---
 

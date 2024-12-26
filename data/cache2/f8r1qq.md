@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/f8r1qq/pyrebound_124/
-* Score: 20
+* Score: 19
 
 * Created: 2020-02-24T13:15:01
 
@@ -16,31 +16,27 @@ Pyrebound follows the adventures of Rammash im-Belemel as he struggles to make h
 
 ### Comments:
 
-> **u/catapultam_habeo** [+4] *
+> **u/catapultam_habeo** [+4]  (4 hours later)
 > 
 > I discovered this the last time a chapter update was posted, and I'm glad I started reading.
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+5]  (4 hours later)
 >> 
 >> So am I!  I hope to wrap this up in fifteen arcs total.
->> 
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (2 hours later)
 > 
 > Some great dramatic moments in this one!
-> 
 
-> **u/CouteauBleu** [+2]  *We are the Empire.**
+> **u/CouteauBleu** [+2]  *We are the Empire.* (3 days later)
 > 
 > Well... somehow this keeps getting downhill.
-> I'm really not seeing any outcome for this where our protagonist and his companions don't end in a shallow, shallow grave before the year is over. They really don't seem to have any kind of plan in mind.
 > 
+> I'm really not seeing any outcome for this where our protagonist and his companions don't end in a shallow, shallow grave before the year is over. They really don't seem to have any kind of plan in mind.
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (3 days later)
 >> 
 >> I'm not aiming to make it easy for them.  But I do have an end in mind.
->> 
 
 ---
 

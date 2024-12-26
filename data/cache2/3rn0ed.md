@@ -2,7 +2,7 @@
 
 * Author: u/traverseda  *With dread but cautious optimism**
 * URL: http://qntm.org/question
-* Score: 29
+* Score: 36
 
 * Created: 2015-11-05T15:37:31
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+12] *
+> **u/None** [+10]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/KerbalFactorioLeague** [+6] *
+>> **u/KerbalFactorioLeague** [+6]  (9 hours later)
 >> 
 >> More specifically, [](#s "it's a planet-sized magic 8 ball")
->> 
 
 ---
 

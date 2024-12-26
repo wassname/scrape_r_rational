@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.fanfiction.net/s/12466638/17/Broken-Blades
-* Score: 6
+* Score: 5
 
 * Created: 2018-01-05T15:31:10
 

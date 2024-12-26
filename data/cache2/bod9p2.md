@@ -2,7 +2,7 @@
 
 * Author: u/FormerlySarsaparilla *
 * URL: https://archiveofourown.org/works/18738010/chapters/44660317
-* Score: 35
+* Score: 38
 
 * Created: 2019-05-14T03:00:53
 
@@ -12,142 +12,164 @@
 
 ### Comments:
 
-> **u/FormerlySarsaparilla** [+11] *
+> **u/FormerlySarsaparilla** [+11]  (a minute later)
 > 
 > Thank you everyone for reading along so far! I'm blown away by all the attention and feedback this story is getting. As a little extra thank you (and because I'm getting too far ahead in the reserve chapters), here is an extra chapter for your Tuesday update!
+> 
 > Also, here are Haley's monster stats for Chapters 1-6. Obviously it would have helped if I'd had these out for CH 1, buuuut better late than never: https://urlzs.com/cKgh5
+> 
 > Final Also, this story now has a royalroad page, if you prefer to read it on there.
 > https://www.royalroad.com/fiction/24751/marriage-and-monsters-an-eschatological-romance
-> 
 
->> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>> **u/alexanderwales** [+9]  *Time flies like an arrow* (2 hours later)
 >> 
 >> Rescued this comment from Automoderator, who ate it because there's a URL shortener.
->> 
 
->>> **u/FormerlySarsaparilla** [+2] *
+>>> **u/FormerlySarsaparilla** [+2]  (12 hours later)
 >>> 
 >>> Oh, thank you! I wondered what had happened.
->>> 
 
->> **u/JackStargazer** [+1]  *Primordial Apologist**
+>> **u/JackStargazer** [+1]  *Primordial Apologist* (20 hours later)
 >> 
 >> You've overestimated Toughness, It's 1HP/HD, 3 at 1st and 1 more at each HD from 4+.
->> If you're going with PC equivalent HD, she should have 12 HP for her first HD, 7 for each of the other 7 (49) or 61+24 (2/HD for Con, 1/HD for Toughness) for 85 total.
 >> 
+>> If you're going with PC equivalent HD, she should have 12 HP for her first HD, 7 for each of the other 7 (49) or 61+24 (2/HD for Con, 1/HD for Toughness) for 85 total.
 
->>> **u/FormerlySarsaparilla** [+5] *
+>>> **u/FormerlySarsaparilla** [+5]  (20 hours later)
 >>> 
 >>> Oof, I should have read that much more closely. Luckily it was balanced out by the terrible dice rolls I made! I'll correct with your suggestion- I'm *sure* there won't be any situation later where she's hanging by a thread later and 1hp less is the difference between life or death, right?
->>> Right?
 >>> 
+>>> Right?
 
-> **u/LazarusRises** [+9] *
+> **u/LazarusRises** [+9]  (an hour later)
 > 
 > This just gets better and better. The Jabberwocky's cognitohazardous sister is very scary, that was a legitimately unsettling read.
-> 
 
->> **u/nerdguy1138** [+3]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+3]  *GNU Terry Pratchett* (6 hours later)
 >> 
 >> Question. The girl in the asylum, she's a Keter-grade Alice? Or evil FiM EqG Screwball, she creates monsters, or just lets them out of her own imagination?
->> Why is there a Stranger effect on the rabbit?
 >> 
+>> Why is there a Stranger effect on the rabbit?
 
->>> **u/LazarusRises** [+3] *
+>>> **u/LazarusRises** [+3]  (8 hours later)
 >>> 
 >>> One of many questions I do not have answers to. I can't even decide whose side the animals are on, or whether I think Not-Alice is a schizophrenic whose delusions are loose upon the world or a receptor/vector for some truly bizarre shit that has always been around just at the edges of our vision.
->>> 
 
->>>> **u/OnlyEvonix** [+2] *
+>>>> **u/OnlyEvonix** [+2]  (15 hours later)
 >>>> 
 >>>> To me it seemed like they were separate as there were a few times she didn't seem to understand their references
->>>> 
 
-> **u/Escapement** [+6]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+7]  *Ankh-Morpork City Watch* (7 hours later)
 > 
 > Neat story so far. I like the latest twist a fair bit. 
-> The next named category of d20PF Gold Dragon ("Very Young") comes with Change Shape, so presumably Haley will be able to turn into 'any animal or humanoid' 3x per day (indefinite duration each time). Being able to spend time as, well, her former self, should do wonders for the whole metamorphosis body horror thing and associated problems. Even if she spends a lot of time as a dragon, just *having the ability* to do otherwise would reassure the heck out of me in the same situation.
 > 
+> The next named category of d20PF Gold Dragon ("Very Young") comes with Change Shape, so presumably Haley will be able to turn into 'any animal or humanoid' 3x per day (indefinite duration each time). Being able to spend time as, well, her former self, should do wonders for the whole metamorphosis body horror thing and associated problems. Even if she spends a lot of time as a dragon, just *having the ability* to do otherwise would reassure the heck out of me in the same situation.
 
->> **u/PDNeznor** [+1] *
+>> **u/PDNeznor** [+1]  (a day later)
 >> 
 >> From the looks of the rules:
->>  "A creature cannot change shape to a form more than one size category smaller or larger than its original form. This ability functions as a *polymorph* spell, the type of which is listed in the creature’s description, but the creature does not adjust its ability scores (although it gains any other abilities of the creature it mimics)."
->> she'll only be able to change to her original shape until she's a young adult, at which point she'll be size category Huge. By Sean's estimate, that should only take just over a week or so.  Good luck finding clothes in size giant! I can already see the looks in the tailors' eyes.
 >> 
+>>  "A creature cannot change shape to a form more than one size category smaller or larger than its original form. This ability functions as a *polymorph* spell, the type of which is listed in the creature’s description, but the creature does not adjust its ability scores (although it gains any other abilities of the creature it mimics)."
+>> 
+>> she'll only be able to change to her original shape until she's a young adult, at which point she'll be size category Huge. By Sean's estimate, that should only take just over a week or so.  Good luck finding clothes in size giant! I can already see the looks in the tailors' eyes.
 
->>> **u/DihydrogenM** [+2] *
+>>> **u/DihydrogenM** [+2]  (2 days later)
 >>> 
 >>> https://paizo.com/threads/rzs2k4n2?Dragons-Change-Shape-Ability
->>> Dragons can explicitly change shape into human ignoring the size limitations of change shape. Generic change shape has your limitation; it's modified on the dragon's stat page.
 >>> 
+>>> Dragons can explicitly change shape into human ignoring the size limitations of change shape. Generic change shape has your limitation; it's modified on the dragon's stat page.
 
->>>> **u/PDNeznor** [+2] *
+>>>> **u/PDNeznor** [+2]  (2 days later)
 >>>> 
 >>>> Oh, neat. Dragons are busted af. What the heck.
->>>> 
 
->>>>> **u/DihydrogenM** [+2] *
+>>>>> **u/DihydrogenM** [+2]  (2 days later)
 >>>>> 
 >>>>> Well, they are dragons. I'm not sure what you expected.
->>>>> 
 
-> **u/tjhance** [+4] *
+> **u/tjhance** [+6]  (23 minutes later)
 > 
 > aww sean and haley are just adorable
-> 
 
-> **u/thrawnca** [+4]  *Carbon-based biped**
+> **u/thrawnca** [+5]  *Carbon-based biped* (2 hours later)
 > 
 > Typos:
-> Chapter 5
-> per day . - Extra space
-> handle it . - Extra space
-> to eat ? - Extra space
-> vocal chords/vocal cords
-> " <When/"< When
-> beetle lead us over/beetle led us over
-> don't have guts , - Extra space
-> shook my head "Uh/shook my head, "Uh
-> " Yes - Extra space
-> Chapter 6
-> to be confined" was/to be confined," was
-> go anywhere ." - Extra space
-> alongside" I said/alongside," I said
-> it was." She said/it was," she said
-> magic engineer , - Extra space
-> jeweler's we'd picked/jewelers we'd picked
-> about." Said/about," said
-> that!" Said/that!" said
-> out there?"\\ - Extra backslash
-> sanctified , - Extra space
-> both , - Extra space
-> muffled " OH - Extra space
-> ren fair/ren faire
-> animals . - Extra space
-> was gone , - Extra space
-> interesting"/interesting,"
-> quietly, "You'll do/quietly. "You'll do
-> Flight check , - Extra space
-> &#x200B;
-> Also, are you going for US or British spelling? I noticed "laborer beasts" followed shortly afterward by "labourer" several times and then "center".
 > 
+> Chapter 5
+> 
+> per day . - Extra space
+> 
+> handle it . - Extra space
+> 
+> to eat ? - Extra space
+> 
+> vocal chords/vocal cords
+> 
+> " <When/"< When
+> 
+> beetle lead us over/beetle led us over
+> 
+> don't have guts , - Extra space
+> 
+> shook my head "Uh/shook my head, "Uh
+> 
+> " Yes - Extra space
+> 
+> Chapter 6
+> 
+> to be confined" was/to be confined," was
+> 
+> go anywhere ." - Extra space
+> 
+> alongside" I said/alongside," I said
+> 
+> it was." She said/it was," she said
+> 
+> magic engineer , - Extra space
+> 
+> jeweler's we'd picked/jewelers we'd picked
+> 
+> about." Said/about," said
+> 
+> that!" Said/that!" said
+> 
+> out there?"\\ - Extra backslash
+> 
+> sanctified , - Extra space
+> 
+> both , - Extra space
+> 
+> muffled " OH - Extra space
+> 
+> ren fair/ren faire
+> 
+> animals . - Extra space
+> 
+> was gone , - Extra space
+> 
+> interesting"/interesting,"
+> 
+> quietly, "You'll do/quietly. "You'll do
+> 
+> Flight check , - Extra space
+> 
+> &#x200B;
+> 
+> Also, are you going for US or British spelling? I noticed "laborer beasts" followed shortly afterward by "labourer" several times and then "center".
 
->> **u/FormerlySarsaparilla** [+3] *
+>> **u/FormerlySarsaparilla** [+3]  (13 hours later)
 >> 
 >> Spelling should almost always be US unless I'm specifically trying to evoke an accent. Thank you again for checking, will get these edited in a bit :)
->> 
 
->> **u/FormerlySarsaparilla** [+1] *
+>> **u/FormerlySarsaparilla** [+1]  (20 hours later)
 >> 
 >> Updates done. These really are quite handy, thank you.
->> 
 
-> **u/PDNeznor** [+1] *
+> **u/PDNeznor** [+1]  (a day later)
 > 
 > I'm curious on the inspiration for the infomorphs. I'd love it if we can get some more details on how their civilizations worked back in their world. Just the thought of it is quite delicious.
-> Haha "wait, was she mentally calculating in Pathfinder units?" Haley has a narrator now? At first I thought she was thinking to herself, but then realized the thoughts are in third person; maybe she has a habit of thinking of herself in third-person?... nope, now I'm reading this story in a Michael Kramer voice and it's all narrator-Haley's fault.
 > 
+> Haha "wait, was she mentally calculating in Pathfinder units?" Haley has a narrator now? At first I thought she was thinking to herself, but then realized the thoughts are in third person; maybe she has a habit of thinking of herself in third-person?... nope, now I'm reading this story in a Michael Kramer voice and it's all narrator-Haley's fault.
 
 ---
 

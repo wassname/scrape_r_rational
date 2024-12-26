@@ -2,7 +2,7 @@
 
 * Author: u/DangerouslyUnstable *
 * URL: https://www.reddit.com/r/rational/comments/2mr7dh/herro_finding_a_post_on_this_sub/
-* Score: 4
+* Score: 7
 
 * Created: 2014-11-19T08:35:19
 
@@ -14,16 +14,15 @@ Edit: aaaaand I need to proof read my titles better in the future. That should b
 
 ### Comments:
 
-> **u/Kodix** [+4] *
+> **u/Kodix** [+5]  (31 minutes later)
 > 
 > http://leftoversoup.com
-> Enjoy.
 > 
+> Enjoy.
 
->> **u/DangerouslyUnstable** [+1] *
+>> **u/DangerouslyUnstable** [+1]  (59 minutes later)
 >> 
 >> Thank you!
->> 
 
 ---
 

@@ -12,43 +12,51 @@
 
 ### Comments:
 
-> **u/AngelaCastir** [+3] *
+> **u/AngelaCastir** [+3]  (8 minutes later)
 > 
 > Chapter title is Wild Tansy, and the Wild Tansy is apparently Victorian flower language for *"I declare war against you"*. Apparently the Victorians had a flair for the dramatic, much like vampires do. 
-> No real discussion questions beyond "bloody hell Elodia, can you calm down or what?" and "what should Red's priorities be now? What should William's be?" 
-> Next chapter is called Nasturtium. 
-> On a meta level, the next chapter also marks the place where I go from "very well prepped chapters" to "kinda prepped chapters". I don't think this will be noticeable in the text, but it's just a minor source of anxiety for me, I guess? :)
 > 
+> No real discussion questions beyond "bloody hell Elodia, can you calm down or what?" and "what should Red's priorities be now? What should William's be?" 
+> 
+> Next chapter is called Nasturtium. 
+> 
+> On a meta level, the next chapter also marks the place where I go from "very well prepped chapters" to "kinda prepped chapters". I don't think this will be noticeable in the text, but it's just a minor source of anxiety for me, I guess? :)
 
-> **u/leakycauldron** [+2]  *Imperium of Man**
+> **u/leakycauldron** [+2]  *Imperium of Man* (14 hours later)
 > 
 > A couple months ago, you told me that I gave you lightning bolts of inspiration, I hope you tell me what they were after it's been published. I've been thinking about what in my comment might have caused that inspiration since it happened.
-> 
 
->> **u/AngelaCastir** [+1] *
+>> **u/AngelaCastir** [+1]  (a month later)
 >> 
 >> Oh good, I'm glad I have that effect on you :)
->> Unfortunately the lightning bolt of inspiration was for the third "volume" of this story. We're about two thirds of the way through the first "volume" at the moment, to give you an idea. 
->> That said, the lightning bolt you gave me was by making me think more about what Lucia's motivations are and what the logical conclusion of that is vis-a-vis her position in society. 
->> Hope that helps, and sorry I took so long to respond to this message (I'd planned a mini-hiatus becuase my boyfriend was visiting from France and then covid made him getting back home to France a bit of a problem. Eeek). 
->> BTW - just uploaded the new chapter: https://archiveofourown.org/works/13710744/chapters/57046285 - I will make a post in the subreddit for my sweet, sweet karma, but hopefully you enjoy this one.
 >> 
+>> Unfortunately the lightning bolt of inspiration was for the third "volume" of this story. We're about two thirds of the way through the first "volume" at the moment, to give you an idea. 
+>> 
+>> That said, the lightning bolt you gave me was by making me think more about what Lucia's motivations are and what the logical conclusion of that is vis-a-vis her position in society. 
+>> 
+>> Hope that helps, and sorry I took so long to respond to this message (I'd planned a mini-hiatus becuase my boyfriend was visiting from France and then covid made him getting back home to France a bit of a problem. Eeek). 
+>> 
+>> BTW - just uploaded the new chapter: https://archiveofourown.org/works/13710744/chapters/57046285 - I will make a post in the subreddit for my sweet, sweet karma, but hopefully you enjoy this one.
 
->>> **u/leakycauldron** [+2]  *Imperium of Man**
+>>> **u/leakycauldron** [+2]  *Imperium of Man* (a month later)
 >>> 
 >>> Reading it now - I actually checked to see if you'd updated last week because I knew your partner was internationally travelling. 2 months ago when he arrived, the world was a different place.
->>> Do you have a fan discord or something?
 >>> 
+>>> Do you have a fan discord or something?
 
->>>> **u/AngelaCastir** [+1] *
+>>>> **u/AngelaCastir** [+1]  (a month later)
 >>>> 
 >>>> Nope, the thought of having enough fans that they'd want to talk to *each other* is foreign and scary and humbling.
->>>> Me and my coauthor both have Signal messenger on our phones, and I have pretty much every other chat app (discord included), so if you'd for some reason like my contact info to message me more directly, I'd be happy to provide it (via PM). 
->>>> > 2 months ago when he arrived, the world was a different place.
->>>> God yeah. I have a wonderful photo of the airport when he left - two travellers wearing disposable overalls with hoods, booties, and facemasks. The departures board listing every flight as "cancelled". 
->>>> We live in interesting times. 
->>>> Fortunately, my state reported 0 cases today for the first time in a month or so. Hopefully the trend continues!
 >>>> 
+>>>> Me and my coauthor both have Signal messenger on our phones, and I have pretty much every other chat app (discord included), so if you'd for some reason like my contact info to message me more directly, I'd be happy to provide it (via PM). 
+>>>> 
+>>>> > 2 months ago when he arrived, the world was a different place.
+>>>> 
+>>>> God yeah. I have a wonderful photo of the airport when he left - two travellers wearing disposable overalls with hoods, booties, and facemasks. The departures board listing every flight as "cancelled". 
+>>>> 
+>>>> We live in interesting times. 
+>>>> 
+>>>> Fortunately, my state reported 0 cases today for the first time in a month or so. Hopefully the trend continues!
 
 ---
 

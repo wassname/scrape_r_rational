@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/dxwjim/secret_of_the_patronus_chapter_39_asking_the/
-* Score: 7
+* Score: 6
 
 * Created: 2019-11-18T02:06:12
 

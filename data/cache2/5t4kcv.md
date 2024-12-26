@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+3]  (11 hours later)
 > 
 > Another lovely birthday chapter from /u/Velorien.
-> 
 
 ---
 

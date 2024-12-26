@@ -14,99 +14,109 @@ For anyone who wants to know why I'm asking this, I'm trying to write a rational
 
 ### Comments:
 
-> **u/Transfuturist** [+8]  *Carthago delenda est.**
+> **u/Transfuturist** [+5]  *Carthago delenda est.* (12 minutes later)
 > 
 > Class war does not destroy society. If you want to destroy society, target transportation and communication technologies. Internet backbones and distributors, airlines and aircraft factories, ships and shipworks, fuel supplies, power plants, and roads.
-> The governments, police, and militaries are your biggest obstacle, because if your terrorist group is any good, your operating areas will be placed under martial law. Guerrilla tactics are necessary.
-> Even after destroying a lot of infrastructure, it will be very hard to cut off long-range communication and transportation over large territories. At some point satellites would need to be destroyed, through hacking, annexing their ground controls, and launching sabotage payloads.
-> This would be difficult to accomplish with only tens of millions USD, so you'll need a good source of income. It is hard to maintain a good source of income when you are trying to destroy the things that make that money valuable.
-> You have access to a boxed AI, so ask it. How is it boxed?
 > 
+> The governments, police, and militaries are your biggest obstacle, because if your terrorist group is any good, your operating areas will be placed under martial law. Guerrilla tactics are necessary.
+> 
+> Even after destroying a lot of infrastructure, it will be very hard to cut off long-range communication and transportation over large territories. At some point satellites would need to be destroyed, through hacking, annexing their ground controls, and launching sabotage payloads.
+> 
+> This would be difficult to accomplish with only tens of millions USD, so you'll need a good source of income. It is hard to maintain a good source of income when you are trying to destroy the things that make that money valuable.
+> 
+> You have access to a boxed AI, so ask it. How is it boxed?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> > Class war does not destroy society.
->> What's going to run without labor?  And who's going to work when they know they'll be executed as a class traitor?
 >> 
+>> What's going to run without labor?  And who's going to work when they know they'll be executed as a class traitor?
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (20 minutes later)
 >> 
 >> The fighters you have access to will fight if and only if you are fighting to overthrow the upper class due to the precise circumstances involved in recruiting them.
->> The AI is contained within an upgraded laptop.  It communicates with the world via voice to text and a webcam installed within the laptop, through which it can also acquire sensory data.  There is no way to directly access the source code of the AI except a few specific sections which the AI can modify. The laptop cannot be connected to any communications networks without destroying the AI.  
->> Thanks for the above info though--how would you go about training 1000 first worlders into guerilla forces?
 >> 
+>> The AI is contained within an upgraded laptop.  It communicates with the world via voice to text and a webcam installed within the laptop, through which it can also acquire sensory data.  There is no way to directly access the source code of the AI except a few specific sections which the AI can modify. The laptop cannot be connected to any communications networks without destroying the AI.  
+>> 
+>> Thanks for the above info though--how would you go about training 1000 first worlders into guerilla forces?
 
->>> **u/Transfuturist** [+6]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+5]  *Carthago delenda est.* (28 minutes later)
 >>> 
 >>> ...How do first-worlders care about overthrowing the upper class? They *are* the upper class. Destroying global society does not strike me as something that first-worlders would really go for, since that is precisely what they benefit from. You would have to mask your intentions. This would be a problem for members savvy in tactics, strategy, and socioeconomics (the kind of people you would promote to higher-level leadership) who may actually understand the effects of your group's actions.
->>> 1000 people is not a lot for a guerrilla force. What are the precise circumstances of their recruitment? Your immediate goal is to recruit more. For organization, a [covert cell structure](https://en.wikipedia.org/wiki/Clandestine_cell_system) is your best bet. I am unsure how to approach recruiting and training; that seems the most vulnerable element of the operation. I haven't researched or thought for five minutes about it yet, though.
->>> I think I may be on a few more lists now.
 >>> 
+>>> 1000 people is not a lot for a guerrilla force. What are the precise circumstances of their recruitment? Your immediate goal is to recruit more. For organization, a [covert cell structure](https://en.wikipedia.org/wiki/Clandestine_cell_system) is your best bet. I am unsure how to approach recruiting and training; that seems the most vulnerable element of the operation. I haven't researched or thought for five minutes about it yet, though.
+>>> 
+>>> I think I may be on a few more lists now.
 
->>>> **u/avret** [+1]  *SDHS rationalist**
+>>>> **u/avret** [+1]  *SDHS rationalist* (34 minutes later)
 >>>> 
 >>>> It's...complicated and has to do with the precise universe I'm writing fanfiction for.  Basically, they are people who pay to get into a school that otherwise only lets in the talented and are incited to fight against those talented.
->>>> They are recruited from the above.
 >>>> 
+>>>> They are recruited from the above.
 
->>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (43 minutes later)
 >>>>> 
 >>>>> Please see the above edit for organization.
->>>>> One school is not enough to provide soldiers for a global destabilization operation. This is your biggest problem.
->>>>> Ground zero is Japan, but later on when considering growth, you would want to approach governments and other organizations like the US, Russia, and China to act as though you are a group fighting against each of their sociopolitical opponents. This means you would need to give the appearance of several different organizations when you expand onto the world stage, not entirely a problem when you have a cell structure. The effect your organization in America has on their infrastructure will likely influence America's willingness to fund your operations in China and Russia, and vice versa. In the beginning, you would have to kickstart this strategy with many false-flag operations. This only addresses money, though it may also aid in your recruitment strategy since each separate operation has its own well of proponents to draw from and their presence will encourage recruitment for 'opposing' operations. This one high school would be only one spoke of a vast wheel.
 >>>>> 
+>>>>> One school is not enough to provide soldiers for a global destabilization operation. This is your biggest problem.
+>>>>> 
+>>>>> Ground zero is Japan, but later on when considering growth, you would want to approach governments and other organizations like the US, Russia, and China to act as though you are a group fighting against each of their sociopolitical opponents. This means you would need to give the appearance of several different organizations when you expand onto the world stage, not entirely a problem when you have a cell structure. The effect your organization in America has on their infrastructure will likely influence America's willingness to fund your operations in China and Russia, and vice versa. In the beginning, you would have to kickstart this strategy with many false-flag operations. This only addresses money, though it may also aid in your recruitment strategy since each separate operation has its own well of proponents to draw from and their presence will encourage recruitment for 'opposing' operations. This one high school would be only one spoke of a vast wheel.
 
->>>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>>> **u/avret** [+1]  *SDHS rationalist* (46 minutes later)
 >>>>>> 
 >>>>>> Ok, I've got the cell structure.
->>>>>> Extra help, in that case:  You now have access to the economy and militia of a country approximately the size of Monaco.
 >>>>>> 
+>>>>>> Extra help, in that case:  You now have access to the economy and militia of a country approximately the size of Monaco.
 
->>>>>>> **u/Drazelic** [+4]  *Dai-Gurren Brigade**
+>>>>>>> **u/Drazelic** [+4]  *Dai-Gurren Brigade* (an hour later)
 >>>>>>> 
 >>>>>>> I think that before you start trying to figure out the future, you should re-establish the present.
->>>>>>> For starters, I'm pretty sure that Hope's Peak Academy isn't just... a really rich school. Given the sort of toys they were working with, I figure they're part school and part superadvanced-thinktank and part research-lab and part government-agency-for-engineering-the-new-generation-of-ubermensch.
->>>>>>> Basically, they're like the trope of a super-powerful student council, taken on a higher level where the world is the school and Hope's Peak is the student council.
->>>>>>> So- write the governments as completely ineffectual, or reduced to little more than a massive system of bureaucracy that doesn't really do anything but plug potholes and push papers. All the REAL power is at Hope's Peak; it's every branch of legislation and every single scientific research facility combined into one, a massive single point of weakness. (I mean, come on, they've even got ULTIMATE SOLDIERS as students there? They're KNOWN as ultimate soldiers and their best place to go is Hope's Peak? Come on, that's not just a school anymore, that's a Xanadu of its own, a Zeroth World in isolation from the lesser numerically-organized worlds of the outside. They probably have their own entire culture and society inside there.)
->>>>>>> Convince the reader that once you push Hope's Peak over, nothing and nobody else can POSSIBLY recover from the staggering damage. There aren't any players on the gameboard EXCEPT for Hope's Peak and Ultra Despair. That solves a lot of your problems.
->>>>>>> Edit:
->>>>>>> "If you want to destroy society, target transportation and communication technologies. Internet backbones and distributors, airlines and aircraft factories, ships and shipworks, fuel supplies, power plants, and roads."
->>>>>>> Make it so that Hope's Peak is DIRECTLY RESPONSIBLE for all of this. Somehow.
->>>>>>> They have ALL the factories with ALL the new tech such that all of the old tech is completely uncompetitive. They have a monopoly on transportation and communication. They have a monopoly on advanced computer technology including internet, full-brain-uploading into simulation worlds, and AI. They have a monopoly on airlines and aircraft, because their airlines and aircraft are way more advanced. They are the institution that outputs soldiers far more effective than any other ever seen in the world, ever.
->>>>>>> They do EVERYTHING better. They've got a complete monopoly on Every Single Important Thing, and the only reason why they haven't taken over the world is because they've also got a monopoly on, presumably, Ultimate Ethicists and Ultimate Philosophers.
 >>>>>>> 
+>>>>>>> For starters, I'm pretty sure that Hope's Peak Academy isn't just... a really rich school. Given the sort of toys they were working with, I figure they're part school and part superadvanced-thinktank and part research-lab and part government-agency-for-engineering-the-new-generation-of-ubermensch.
+>>>>>>> 
+>>>>>>> Basically, they're like the trope of a super-powerful student council, taken on a higher level where the world is the school and Hope's Peak is the student council.
+>>>>>>> 
+>>>>>>> So- write the governments as completely ineffectual, or reduced to little more than a massive system of bureaucracy that doesn't really do anything but plug potholes and push papers. All the REAL power is at Hope's Peak; it's every branch of legislation and every single scientific research facility combined into one, a massive single point of weakness. (I mean, come on, they've even got ULTIMATE SOLDIERS as students there? They're KNOWN as ultimate soldiers and their best place to go is Hope's Peak? Come on, that's not just a school anymore, that's a Xanadu of its own, a Zeroth World in isolation from the lesser numerically-organized worlds of the outside. They probably have their own entire culture and society inside there.)
+>>>>>>> 
+>>>>>>> Convince the reader that once you push Hope's Peak over, nothing and nobody else can POSSIBLY recover from the staggering damage. There aren't any players on the gameboard EXCEPT for Hope's Peak and Ultra Despair. That solves a lot of your problems.
+>>>>>>> 
+>>>>>>> Edit:
+>>>>>>> 
+>>>>>>> "If you want to destroy society, target transportation and communication technologies. Internet backbones and distributors, airlines and aircraft factories, ships and shipworks, fuel supplies, power plants, and roads."
+>>>>>>> 
+>>>>>>> Make it so that Hope's Peak is DIRECTLY RESPONSIBLE for all of this. Somehow.
+>>>>>>> 
+>>>>>>> They have ALL the factories with ALL the new tech such that all of the old tech is completely uncompetitive. They have a monopoly on transportation and communication. They have a monopoly on advanced computer technology including internet, full-brain-uploading into simulation worlds, and AI. They have a monopoly on airlines and aircraft, because their airlines and aircraft are way more advanced. They are the institution that outputs soldiers far more effective than any other ever seen in the world, ever.
+>>>>>>> 
+>>>>>>> They do EVERYTHING better. They've got a complete monopoly on Every Single Important Thing, and the only reason why they haven't taken over the world is because they've also got a monopoly on, presumably, Ultimate Ethicists and Ultimate Philosophers.
 
->>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (2 hours later)
 >>>>>>>> 
 >>>>>>>> I definitely don't know enough about Dangan Ronpa to discuss this. I was approaching this in the muggle world.
->>>>>>>> 
 
->>>>>>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (3 hours later)
 >>>>>>>>> 
 >>>>>>>>> Right. I think that's something people need to consider more; Rational does not mean Muggle. Hogwarts was not made completely irrelevant to the setting just because science and medicine and nuclear bombs exist. A rationalfic has to retain the essence of what it's talking about, not just completely deny it and focus entirely on 'real life'; if people wanted that, they'd just read some war correspondence or whatever.
->>>>>>>>> And Hope's Peak is really like Hogwarts, in a lot of ways. They're not secret from the world, but because everyone knows it exists and want to attend, their effect on the world is sort of like brain drain turned up to eleven. It's easy to see why some people might think of that as a poor state of affairs.
 >>>>>>>>> 
+>>>>>>>>> And Hope's Peak is really like Hogwarts, in a lot of ways. They're not secret from the world, but because everyone knows it exists and want to attend, their effect on the world is sort of like brain drain turned up to eleven. It's easy to see why some people might think of that as a poor state of affairs.
 
->>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (4 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> >I think that's something people need to consider more; Rational does not mean Muggle
->>>>>>>>>> How do you get that from my comment?
 >>>>>>>>>> 
+>>>>>>>>>> How do you get that from my comment?
 
->>>>>>>>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (11 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I didnt get it from your comment. I didn't even really get it from this thread, in general. It was a general idea about writing fun and interesting things, which sounds a bit obvious when put that way- if you want to write an interesting thing don't write about the boring thing instead!
->>>>>>>>>>> 
 
->>>>>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>>>>>> **u/avret** [+1]  *SDHS rationalist* (8 hours later)
 >>>>>>>> 
 >>>>>>>> True, though that brings up the question of why the hell everybody but nevermind is Japanese.
->>>>>>>> 
 
-> **u/E-o_o-3** [+1] *
+> **u/E-o_o-3** [+1]  (2 days later)
 > 
 > A sacred symbol of the majority culture, to inflame nationalist sentiment.
-> 
 
 ---
 

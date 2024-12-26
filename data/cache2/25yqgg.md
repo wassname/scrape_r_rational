@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (52 minutes later)
 > 
 > Not rational, hard sci-fi, or hard fantasy. Maybe deconstructionist? but I don't think it really belongs here.
-> 
 
->> **u/1794** [+1] *
+>> **u/1794** [+1]  (an hour later)
 >> 
 >> I agree. If you let this one pass, you might as well let any story here.
->> 
 
-> **u/embrodski** [+1] *
+> **u/embrodski** [+1]  (a minute later)
 > 
 > A classic, and so short that one could almost quote it in it's entirety rather than posting a link. Not sure if it counts as rational, but figured people here would like it.
-> There's also a [short film(?)/video](http://www.youtube.com/watch?v=gaFZTAOb7IE) based on the work (6 minutes), quite well done.
 > 
+> There's also a [short film(?)/video](http://www.youtube.com/watch?v=gaFZTAOb7IE) based on the work (6 minutes), quite well done.
 
 ---
 

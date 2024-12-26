@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/4eb2md/d_monday_general_rationality_thread/
-* Score: 24
+* Score: 25
 
 * Created: 2016-04-11T15:04:11
 
@@ -20,550 +20,573 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/elevul** [+13]  *Cyoria Observer**
+> **u/elevul** [+13]  *Cyoria Observer* (a day later)
 > 
 > Rational fiction has ruined my enjoyment of standard media. I got two free tickets for the cinema this week, so I used them to watch Deadpool and Batman vs Superman. Deadpool was still fun because the jokes were fantastic, but I kept noticing plotholes. BvsS was a disaster for me. I spent the whole damn movie thinking about plotholes and characters holding the idiot ball, to the point that I didn't enjoy it at all.
-> 
 
->> **u/Frommerman** [+8] *
+>> **u/Frommerman** [+8]  (a day later)
 >> 
 >> I've noticed this too. I watched an episode of Flash last week with friends, and it was *terrible!* Every character kept making obviously stupid decisions, apparently in order to set up a contrived plot rather than accomplish any goal in a coherent way.
->> 
 
->>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (a day later)
 >>> 
 >>> Pretty much the same here. Once you've had steak, you don't really want to go back to fried stewing beef.
->>> 
 
->>> **u/MugaSofer** [+3] *
+>>> **u/MugaSofer** [+3]  (a day later)
 >>> 
 >>> Did the plot of Flash get visibly dumber as the protagonist got more powerful, or was that just me?
->>> 
 
->>>> **u/Frommerman** [+4] *
+>>>> **u/Frommerman** [+5]  (2 days later)
 >>>> 
 >>>> I only watched one episode, but yes. In this episode, he *begins the episode* by leaping off cliffs, and only survives because one of his buddies thought to bring a net. Later, he leaps off a similar cliff *while chasing an enemy* and after complaining that he hadn't improved at all.
->>>> Flash is a moron and it's a wonder he hasn't exploded into a pile of blood and bone yet.
 >>>> 
+>>>> Flash is a moron and it's a wonder he hasn't exploded into a pile of blood and bone yet.
 
->> **u/None** [+4] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> BvS was a disaster for everyone, don't worry.
->> 
 
->> **u/LesserWrong** [+2] *
+>> **u/LesserWrong** [+2]  (4 days later)
 >> 
 >> BvS was strange. Lex were bordering on rational in his actions up until near the end.
->> 
 
-> **u/Faust91x** [+8]  *Iteration X**
+> **u/Faust91x** [+8]  *Iteration X* (an hour later)
 > 
 > I'm thinking of starting a **Hell Week**. Read abut it on /r/getdisciplined and its a technique for avoiding procastination and dealing with bad habits through intensive avoidance of distracting stimulus.
-> It seems to work best when its a deeply ingrained bad habit. I think I may resort to this due to having spent all weekend watching Flash rather than working on productive stuff. Anyone knows of any other techniques to be more productive?
-> I tried Pomodoro but I always find a way to avoid using them and thus render them useless. Same with my alarms in the morning, tend to learn ways to crack them and fall asleep again...
-> Here's the [Hell-Week](https://www.reddit.com/r/getdisciplined/comments/3ngae9/method_hellweek/) technique for those interested.
 > 
+> It seems to work best when its a deeply ingrained bad habit. I think I may resort to this due to having spent all weekend watching Flash rather than working on productive stuff. Anyone knows of any other techniques to be more productive?
+> 
+> I tried Pomodoro but I always find a way to avoid using them and thus render them useless. Same with my alarms in the morning, tend to learn ways to crack them and fall asleep again...
+> 
+> Here's the [Hell-Week](https://www.reddit.com/r/getdisciplined/comments/3ngae9/method_hellweek/) technique for those interested.
 
->> **u/FuguofAnotherWorld** [+7]  *Roll the Dice on Fate**
+>> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate* (11 hours later)
 >> 
 >> Well, there are some browser addons you can use that straight up block you from using a given website or websites either during certain hours of the day or after a certain amount of internet usage a day.
->> While you can circumvent them trivially, then extra inconvenience can be surprisingly helpful in the short term.
 >> 
+>> While you can circumvent them trivially, then extra inconvenience can be surprisingly helpful in the short term.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> Fuck. That sounds like a really good idea. 
->> My go-to alarm technique: switch up the alarm sounds every few weeks. I find it's easier for me to ignore a noise in my sleep if I know it's an alarm. My brain is an arsehole.
->> Another thing I've been contemplating is sticking a picture of someone you want to impress (Thomas Edison, your six-year-old self, whatever) where you'll see it if you go to procrastinate. Then you have to imagine yourself explaining to that person why you're dicking around on reddit again instead of being productive. Obviously I haven't tried this yet because, well, here we are, on reddit.
 >> 
+>> My go-to alarm technique: switch up the alarm sounds every few weeks. I find it's easier for me to ignore a noise in my sleep if I know it's an alarm. My brain is an arsehole.
+>> 
+>> Another thing I've been contemplating is sticking a picture of someone you want to impress (Thomas Edison, your six-year-old self, whatever) where you'll see it if you go to procrastinate. Then you have to imagine yourself explaining to that person why you're dicking around on reddit again instead of being productive. Obviously I haven't tried this yet because, well, here we are, on reddit.
 
->>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>> **u/CouteauBleu** [+2]  *We are the Empire.* (4 days later)
 >>> 
 >>> Pretty sure that wouldn't work. In my experience, trying to motivate yourself by concentrating on a known motivating stimulus (inspiring figure, people you want to impress, etc) will only make the stimulus less motivating.
->>> My vague understanding of it is that there is some sort of conservation of motivation going on, whether you call it willpower or energy or whatever, and that your best bet is better investing your motivation and making fallback plans for when you run out, rather than trying to make motivation appear when you don't have any.
->>> This is all based on my own experience and that SSC article I read once, so I'm not actually sure any of it is true.
 >>> 
+>>> My vague understanding of it is that there is some sort of conservation of motivation going on, whether you call it willpower or energy or whatever, and that your best bet is better investing your motivation and making fallback plans for when you run out, rather than trying to make motivation appear when you don't have any.
+>>> 
+>>> This is all based on my own experience and that SSC article I read once, so I'm not actually sure any of it is true.
 
-> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+> **u/xamueljones** [+7]  *My arch-enemy is entropy* (10 hours later)
 > 
 > I'm just wondering, how comfortable are people here talking about politics such as the current presidential election? I know that people don't want top-level posts, but would there be interest to talk about it in the Friday Threads?
-> I'm asking here and now, because it's related to the question, how should one start a potentially uncomfortable discussion that many people may not want to talk about such as personal issues or difficulties one is having in school/work/money?
 > 
+> I'm asking here and now, because it's related to the question, how should one start a potentially uncomfortable discussion that many people may not want to talk about such as personal issues or difficulties one is having in school/work/money?
 
->> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>> **u/alexanderwales** [+5]  *Time flies like an arrow* (a day later)
 >> 
 >> Friday post is the place for it, but I would put a warning at the top so people can skip it. I'd also urge the usual respect and charity that you should be using on the internet anyway.
->> 
 
->> **u/ayrvin** [+4] *
+>> **u/ayrvin** [+4]  (12 hours later)
 >> 
 >> I'd love to see what this crowd has to say.  I'm not sure I'm informed enough to contribute though.
->> 
 
-> **u/None** [+6] *
+> **u/None** [+6]  (3 hours later)
 > 
 > My entropy estimators really suck, and I have to switch to new ones, but having a first simulation result made me rethink what I was doing.  Namely, I was doing it all wrong, measuring the uncertainty in the model rather than the information in the data.  Now I've found better estimators and have a much better idea of what I really need to measure.
-> Yay.
 > 
+> Yay.
 
->> **u/Adrastos42** [+2]  *I got a B in critical thinking!**
+>> **u/Adrastos42** [+2]  *I got a B in critical thinking!* (a day later)
 >> 
 >> If it works first time, you've probably screwed up somewhere. High five!
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> Thanks!  It was an informative, useful failure.
->>> 
 
->> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (2 days later)
 >> 
 >> What is an entropy estimator? Is it metaphorical? Google is being no help.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 days later)
 >>> 
 >>> It's an estimator (formula or program that helps you get a good numerical estimate of a statistical quantity from data, especially when you can't find it analytically) for (Shannon) entropy.
->>> 
 
-> **u/SvalbardCaretaker** [+11]  *Mouse Army**
+> **u/SvalbardCaretaker** [+12]  *Mouse Army* (5 hours later)
 > 
 > So I am currently in week 9 of a day clinic program for depression/social anxiety. 
-> So far some good results, and great insights, like how much of maladapted behaviour is misinterpreted attention seeking.
->  Just wanted to share and get positive feedback.
 > 
+> So far some good results, and great insights, like how much of maladapted behaviour is misinterpreted attention seeking.
+> 
+>  Just wanted to share and get positive feedback.
 
->> **u/Bowbreaker** [+4]  *Solitary Locust**
+>> **u/Bowbreaker** [+4]  *Solitary Locust* (6 hours later)
 >> 
 >> > like how much of maladapted behaviour is misinterpreted attention seeking.
->> Could you give some examples. I sometimes have mild struggles with depression/social anxiety but I currently can't imagine anything that I do related to that that could be construed as attention seeking behavior.
->> Or do you mean being in actual need of positive attention and having those symptoms due to a lack of it?
 >> 
+>> Could you give some examples. I sometimes have mild struggles with depression/social anxiety but I currently can't imagine anything that I do related to that that could be construed as attention seeking behavior.
+>> 
+>> Or do you mean being in actual need of positive attention and having those symptoms due to a lack of it?
 
->>> **u/SvalbardCaretaker** [+6]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+6]  *Mouse Army* (6 hours later)
 >>> 
 >>> My most obvious example is being whiney, eg. friends would often remark about me talking more than other people about small pains, headaches etc. 
->>> While writing my therapheutical/emotional CV or autobiography I stumbled upon the fact that both my parents were excellent physical caregivers. Always a bandaid at hand or ready to feel for fevery temperature with a hand. 
->>> However they were pretty bad at other positive types of care, esp. emotional, so of course I'd get positive feedback for being whiney, which pattern consisted well into adulthood. 
->>> Or the anorexic girl who is food-phobic.Being helpless about eating does give her a huge ton of positive attention; during dinner everybody crowds around her with her very visible symptoms and  wants to help her.
 >>> 
+>>> While writing my therapheutical/emotional CV or autobiography I stumbled upon the fact that both my parents were excellent physical caregivers. Always a bandaid at hand or ready to feel for fevery temperature with a hand. 
+>>> 
+>>> However they were pretty bad at other positive types of care, esp. emotional, so of course I'd get positive feedback for being whiney, which pattern consisted well into adulthood. 
+>>> 
+>>> Or the anorexic girl who is food-phobic.Being helpless about eating does give her a huge ton of positive attention; during dinner everybody crowds around her with her very visible symptoms and  wants to help her.
 
->>>> **u/Bowbreaker** [+6]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+7]  *Solitary Locust* (6 hours later)
 >>>> 
 >>>> Ah. I think I understand now. My problems usually manifest by me not leaving my house and telling everyone who asks that everything is fine, thus the disconnect.
->>>> 
 
->>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (7 hours later)
 >>>>> 
 >>>>> Yes, I do/tend to do the same. For me its a symptom of an underlying attachment problem, which makes any relationship to people problematic, thus leading to avoidance.
->>>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (a day later)
 >>>>> 
 >>>>> Hello avoidance, my old friend
->>>>> 
 
->> **u/whywhisperwhy** [+2] *
+>> **u/whywhisperwhy** [+2]  (9 hours later)
 >> 
 >> So do you feel like after 9 weeks you've been able to make or start any lasting changes? Anything particularly useful or surprising you've learned recently?
->> 
 
->>> **u/SvalbardCaretaker** [+5]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+4]  *Mouse Army* (a day later)
 >>> 
 >>> And just today I realised why I perceive going into an unknown group so threatening, and why I am often confounded by seemingly simple opinion question (whats your favourite food? ----FREEZE----).
->>> Had an emotionally unstable parent and I needed to model her perfectly to avoid setting her off. So anytime I go into a group I need to model all of them perfectly without any knowledge of them, which is of course not possible. 
->>> And the brainfreeze on opinions then is because I am frantically searching for the answer that will be able to appease the asker; since that task has no solution, I get the null response.
 >>> 
+>>> Had an emotionally unstable parent and I needed to model her perfectly to avoid setting her off. So anytime I go into a group I need to model all of them perfectly without any knowledge of them, which is of course not possible. 
+>>> 
+>>> And the brainfreeze on opinions then is because I am frantically searching for the answer that will be able to appease the asker; since that task has no solution, I get the null response.
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (a day later)
 >>>> 
 >>>> You demonstrate a great level of introspection and self-understanding, that sounds extremely useful and hopefully it will help you! What can be the next step after understanding yourself? I have trouble imagining for example what I'd do to avoid the freezing you mentioned. Also do I understand correctly that you've been having daily sessions?
->>>> 
 
->>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (2 days later)
 >>>>> 
 >>>>> Well, its a day clinic so everyday there is something. Some days more intensive than others, but the most important stuff is the thrice-weekly group therapy.
->>>>> Next step is applying all that understanding, abstract knowledge to actually work on some of that stuff. Some of the knowledge goes straight to being A-lieved, but for others it needs hard work.
 >>>>> 
+>>>>> Next step is applying all that understanding, abstract knowledge to actually work on some of that stuff. Some of the knowledge goes straight to being A-lieved, but for others it needs hard work.
 
->>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (a day later)
 >>> 
 >>> Just yesterday/today I tapped a previously unknown reservoir of anger, which is a peculiar experience- hopefully it will provide some energy. 
->>> I feel like I have an approximately complete theory about my symptoms. Unfortunately knowing the sources of my maladaptive behaviour in abstract and recognizing/acting upon that knowledge in a situation is a very different beast.
 >>> 
+>>> I feel like I have an approximately complete theory about my symptoms. Unfortunately knowing the sources of my maladaptive behaviour in abstract and recognizing/acting upon that knowledge in a situation is a very different beast.
 
->>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (a day later)
 >>>> 
 >>>> > Unfortunately knowing the sources of my maladaptive behaviour in abstract and recognizing/acting upon that knowledge in a situation is a very different beast.
->>>> That's generally what CBT is for. Concrete action to change habits. I had a few months of it. Found it helpful, but not sufficient in and of itself so I'm pushing to be put on antidepressants. Current doctor seems willing to make that happen, which is really positive.
 >>>> 
+>>>> That's generally what CBT is for. Concrete action to change habits. I had a few months of it. Found it helpful, but not sufficient in and of itself so I'm pushing to be put on antidepressants. Current doctor seems willing to make that happen, which is really positive.
 
->>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (2 days later)
 >>>>> 
 >>>>> Well good luck with that. For some people pills are amazing! Just dont be afraid to ask to be switched to some different meds if you have bad side effects.
->>>>> 
 
->>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (8 days later)
 >>>>>> 
 >>>>>> This is very much the case. Some people have bad reactions to certain antidepressants; I used to be on Zoloft and felt... pretty much  nothing, neither sad nor happy, any time. Got off 'em a few years ago and seem to be doing just fine, which is good. On the plus side, it's made me more sensitive to the subtleties of my emotions, which has been quite useful.
->>>>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (7 days later)
 >>>>> 
 >>>>> Hey best of luck. Antidepressants saved my life - just had to find the right kind and dosage.
->>>>> 
 
-> **u/Enasni_** [+5] *
+> **u/Enasni_** [+5]  (41 minutes later)
 > 
 > What are good ways to motivate yourself to exercise regularly and consistently?
-> I have had trouble keeping a regular schedule. I may get 3-4 sessions in over a week as I planned, but invariably something happens to throw off my schedule, or I'm too tired or overworked one day. And then I find more excuses why it's ok to skip this one. And then I stop altogether, until I can work up the motivation to start again, sometimes a month or two later.
 > 
+> I have had trouble keeping a regular schedule. I may get 3-4 sessions in over a week as I planned, but invariably something happens to throw off my schedule, or I'm too tired or overworked one day. And then I find more excuses why it's ok to skip this one. And then I stop altogether, until I can work up the motivation to start again, sometimes a month or two later.
 
->> **u/captainNematode** [+12] *
+>> **u/captainNematode** [+13]  (3 hours later)
 >> 
 >> Start small and progressive overload it, dude. What you're trying to do is build a habit of exercising, and once that habit is built it becomes mostly effortless. But trying to jump in the deep end all at once is tricky, since getting proper exercise can be hard, especially when you're tired and overworked. So don't try to get "proper" exercise to start!
->> Instead, for the next couple weeks, put on your gym clothes and go to the gym, but don't actually do any exercise -- go get a drink of water and leave. This is a fairly trivial task and doesn't require much effort, so you should be able to properly motivate yourself to do it, even when you're not feeling like much. I mean, you're just driving to the gym (or w/e), it doesn't take long and you can do it even when exhausted. Then, once that habit is built and the action feels automatic and effortless, incrementally add another step -- now, instead of just going to the gym to drink some water, take a few minutes to do a few light stretches -- nothing strenuous, just roll around on the yoga mats or something. I personally like Joe DeFranco's Limber Eleven, but you can do the Agile Eight or the Fast Five to start, and slowly work your way up to the full Eleven. Once you finish stretching, go home. Do this for a few weeks until it too becomes an ingrained habit. Then slowly add a few exercises in. Consistently do those for a few weeks. Then add more exercises in, and more and more, until you're regularly and consistently doing whatever full workout routine you wanted to build a habit of in the first place. 
->> Program your progressive overload in a way that best suits you. If consistently going to the gym in your workout clothes is too difficult and you can't keep it up for a few weeks in the first step, deload a bit and just put your workout clothes on at home, then take them off immediately after. Then upgrade it to going out to sit in the car for a minute or two, and then just drive to the gym and back, and then do the water at the gym thing, then walk around the gym aimlessly, then do stretches, then walk on a treadmill while listening to audiobooks, and so on. Baby steps, bro. Ease into it!
 >> 
+>> Instead, for the next couple weeks, put on your gym clothes and go to the gym, but don't actually do any exercise -- go get a drink of water and leave. This is a fairly trivial task and doesn't require much effort, so you should be able to properly motivate yourself to do it, even when you're not feeling like much. I mean, you're just driving to the gym (or w/e), it doesn't take long and you can do it even when exhausted. Then, once that habit is built and the action feels automatic and effortless, incrementally add another step -- now, instead of just going to the gym to drink some water, take a few minutes to do a few light stretches -- nothing strenuous, just roll around on the yoga mats or something. I personally like Joe DeFranco's Limber Eleven, but you can do the Agile Eight or the Fast Five to start, and slowly work your way up to the full Eleven. Once you finish stretching, go home. Do this for a few weeks until it too becomes an ingrained habit. Then slowly add a few exercises in. Consistently do those for a few weeks. Then add more exercises in, and more and more, until you're regularly and consistently doing whatever full workout routine you wanted to build a habit of in the first place. 
+>> 
+>> Program your progressive overload in a way that best suits you. If consistently going to the gym in your workout clothes is too difficult and you can't keep it up for a few weeks in the first step, deload a bit and just put your workout clothes on at home, then take them off immediately after. Then upgrade it to going out to sit in the car for a minute or two, and then just drive to the gym and back, and then do the water at the gym thing, then walk around the gym aimlessly, then do stretches, then walk on a treadmill while listening to audiobooks, and so on. Baby steps, bro. Ease into it!
 
->> **u/xamueljones** [+10]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+8]  *My arch-enemy is entropy* (an hour later)
 >> 
 >> Two ways.
->> Find someone to be accountable to. You can either get an exercising buddy you don't want to disappoint by not showing up to the gym (you can even hire a trainer if you want this badly enough), or have a friend who you pay $20 every time you don't go as a punishment.
->> Another option is to make the exercising fun and engaging enough that you find yourself looking forward to going back again. This would be sports, martial arts, yoga, or some sort of activity you do as part of a group. This shifts your motivation from extrinsic (I'm only doing this because I want something else which is to be healthy) to intrinsic motivation (I'd want to keep doing this even if I don't get any benefit).
 >> 
+>> Find someone to be accountable to. You can either get an exercising buddy you don't want to disappoint by not showing up to the gym (you can even hire a trainer if you want this badly enough), or have a friend who you pay $20 every time you don't go as a punishment.
+>> 
+>> Another option is to make the exercising fun and engaging enough that you find yourself looking forward to going back again. This would be sports, martial arts, yoga, or some sort of activity you do as part of a group. This shifts your motivation from extrinsic (I'm only doing this because I want something else which is to be healthy) to intrinsic motivation (I'd want to keep doing this even if I don't get any benefit).
 
->> **u/trifith** [+3]  *Man plans, god laughs. Like the ant and the grasshopper.**
+>> **u/trifith** [+3]  *Man plans, god laughs. Like the ant and the grasshopper.* (2 hours later)
 >> 
 >> First, it has to be something you enjoy doing. I enjoy heavy weight lifting, so that's what I do. I don't like running, so I don't do that. I despise organized sports of any sort, so I avoid them like the plague. 
->> Second, the schedule and facilities should allow for no excuses, excluding injury. I have a gym I go to, which is close to my house, so there's no reason I can't go. It's indoors, so weather isn't an excuse. It's the first thing I do in the morning, so I can't claim I'm tired. 
->> The only other advice I have is make it at least 3, if not 4 weeks, and it really does become a habit. You'll miss it when don't go.
 >> 
+>> Second, the schedule and facilities should allow for no excuses, excluding injury. I have a gym I go to, which is close to my house, so there's no reason I can't go. It's indoors, so weather isn't an excuse. It's the first thing I do in the morning, so I can't claim I'm tired. 
+>> 
+>> The only other advice I have is make it at least 3, if not 4 weeks, and it really does become a habit. You'll miss it when don't go.
 
->> **u/TennisMaster2** [+3] *
+>> **u/TennisMaster2** [+3]  (5 hours later)
 >> 
 >> I follow a more ad-hoc approach than "go to gym and spend time at gym."
->> I leave a pull up bar propped against my bathroom door - if I could, I'd put it in a doorway permanently.  I sprint instead of walk, and stand instead of sit.  I also used to do random exercises should the mood have caught me - if I died too much in a multiplayer videogame, or the theme song to a show I was watching came on.  I don't do this as much currently; once I became strong enough, I started working progressions to harder exercises that are fun to do, maybe once every few days.
 >> 
+>> I leave a pull up bar propped against my bathroom door - if I could, I'd put it in a doorway permanently.  I sprint instead of walk, and stand instead of sit.  I also used to do random exercises should the mood have caught me - if I died too much in a multiplayer videogame, or the theme song to a show I was watching came on.  I don't do this as much currently; once I became strong enough, I started working progressions to harder exercises that are fun to do, maybe once every few days.
 
->> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (4 hours later)
 >> 
 >> Add some variety? Do a few weeks of jogging, a few weeks of push-ups, a few weeks of swimming, a few weeks of tai-chi, etc.
->> You don't have to stick to a precise schedule if it doesn't work for you. Aim for half an hour of aerobic exercise 3 times a week, but it really doesn't matter much what form that workout takes.
 >> 
+>> You don't have to stick to a precise schedule if it doesn't work for you. Aim for half an hour of aerobic exercise 3 times a week, but it really doesn't matter much what form that workout takes.
 
->> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (an hour later)
 >> 
 >> I've been trying to form a habit of doing stretches and some simple excercizes for about ten minutes after waking up an before bed. Once I'm used to that, I can try gradually increasing those times.
->> Aside from that, I'm hyped for pokemon go because, among other reasons, that'll give me another reason to walk around.
 >> 
+>> Aside from that, I'm hyped for pokemon go because, among other reasons, that'll give me another reason to walk around.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 hours later)
 >> 
 >> Feeling like I can move and stay awake easily, and don't have a sack of bricks tied to me.
->> 
 
->> **u/Gaboncio** [+0] *
+>> **u/Gaboncio** [+0]  (an hour later)
 >> 
 >> Casual workout partners are just as prone as you to skipping workouts for frivolous reasons. 
->> What has worked best for me is to find an activity that I look forward to doing. Personally, I think /r/bodyweightfitness is great because it really scratches my "look at the cool shit I can do!" itch, and that keeps me coming back for more after every workout.
 >> 
+>> What has worked best for me is to find an activity that I look forward to doing. Personally, I think /r/bodyweightfitness is great because it really scratches my "look at the cool shit I can do!" itch, and that keeps me coming back for more after every workout.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (a day later)
 > 
 > - I was wrong about the *Butlerian Jihad*, I thought it was going in a different direction from where it went. Sorry folks
-> - Check out this website that helps you calculate the dimensions of an impact crater! http://impact.ese.ic.ac.uk/ImpactEffects/
 > 
+> - Check out this website that helps you calculate the dimensions of an impact crater! http://impact.ese.ic.ac.uk/ImpactEffects/
 
->> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (a day later)
 >> 
 >> > Butlerian Jihad
->> Ugh, it was so bad. Especially when compared to the first book Dune, which I was unaware was written by a different author when I started reading it. The villains in particular, were so comically evil that it broke my suspension of disbelief. It was like reading big, 30 foot high letters spelling out "THESE ROBOTS ARE EVIL, YOU SHOULD HATE THEM, THEY HAVE NO REDEEMING FEATURES!". I couldn't take them seriously.
 >> 
+>> Ugh, it was so bad. Especially when compared to the first book Dune, which I was unaware was written by a different author when I started reading it. The villains in particular, were so comically evil that it broke my suspension of disbelief. It was like reading big, 30 foot high letters spelling out "THESE ROBOTS ARE EVIL, YOU SHOULD HATE THEM, THEY HAVE NO REDEEMING FEATURES!". I couldn't take them seriously.
 
-> **u/CouteauBleu** [+1]  *We are the Empire.**
+> **u/CouteauBleu** [+1]  *We are the Empire.* (4 days later)
 > 
 > I get the feeling that this is a question that has already been asked a lot, buut I also get the feeling this thread is all about people asking the sames questions over and over again, so here we go:
-> Do you know a good place to start for meditation? I'd feel dirty if I talked about "rational meditation", so I'll say I'm looking for methods to concentrate on myself for a given period of time that actually improves my thinking patterns in a quantifiable or verifiable way. Anyway, I'm looking for beginner techniques that can be understood without learning any jargon or fringe theories of the "your body is made of interconnected energies" type.
 > 
+> Do you know a good place to start for meditation? I'd feel dirty if I talked about "rational meditation", so I'll say I'm looking for methods to concentrate on myself for a given period of time that actually improves my thinking patterns in a quantifiable or verifiable way. Anyway, I'm looking for beginner techniques that can be understood without learning any jargon or fringe theories of the "your body is made of interconnected energies" type.
 
-> **u/None** [-8] *
+> **u/None** [-9]  (17 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/Rhamni** [+12]  *Aspiring author**
+>> **u/Rhamni** [+12]  *Aspiring author* (32 minutes later)
 >> 
 >> I took several psychology courses back at uni. One of them as evolutionary psychology. While nothing in psychology is as hard and immutable as parts of biology is (Haven't taken any physics/maths, which I hear are the hardest of the hard sciences), the evo psych isn't far down from the rest of the field, and considerably more based in reality than Micro Economics.
->> Also, genetics has plenty to say about psychology outside evolutionary psychology. Nature & Nurture interactions is a very real thing.
 >> 
+>> Also, genetics has plenty to say about psychology outside evolutionary psychology. Nature & Nurture interactions is a very real thing.
 
->>> **u/None** [-11] *
+>>> **u/None** [-10]  (36 minutes later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Rhamni** [+15]  *Aspiring author**
+>>>> **u/Rhamni** [+15]  *Aspiring author* (48 minutes later)
 >>>> 
 >>>> For some things, sure. If your biological relatives have schizophrenia, then your own prospects are considerably worse than mr random in the general population, whether raised by your biological parents or adopted at birth.
->>>> The brain is a machine. Your genes are the blueprints. You can have shitty hardware, you can have shitty software, and you can have a combination of the two. It's an extremely *complicated* machine, to the point where psychology is going to remain its own field for centuries if not millennia, but ultimately it's just a slab of matter. Just like height and eye colour runs in the family, so does a wide variety of behavioural quirks and personality traits. That doesn't mean nature plays no role - for many things your genes provide the slate and life and the people around you paint it.
 >>>> 
+>>>> The brain is a machine. Your genes are the blueprints. You can have shitty hardware, you can have shitty software, and you can have a combination of the two. It's an extremely *complicated* machine, to the point where psychology is going to remain its own field for centuries if not millennia, but ultimately it's just a slab of matter. Just like height and eye colour runs in the family, so does a wide variety of behavioural quirks and personality traits. That doesn't mean nature plays no role - for many things your genes provide the slate and life and the people around you paint it.
 
->>>>> **u/None** [-6] *
+>>>>> **u/None** [-6]  (an hour later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/Rhamni** [+11]  *Aspiring author**
+>>>>>> **u/Rhamni** [+11]  *Aspiring author* (an hour later)
 >>>>>> 
 >>>>>> >You can't raise someone to be taller than their parents. When all three of your children grow up to be taller than you, that's a paternity suit. That's a genetic trait.
->>>>>> Or you grew up in pre-ww2 Japan and your kids had access to more and more nutritious food than you did growing up.
->>>>>> As for schizophrenia, [twin studies](http://www.schizophrenia.com/hypo.php#genes) show that if your identical twin has it, your chances are around 50%. Which is magnitudes above the general population.
->>>>>> It's seldom *100%* biology. Typically it's a mix, where certain genes are associated with elevated risk. There are also non-genetic biological factors, such as [Fetal Alcohol Spectrum Disorder](https://en.wikipedia.org/wiki/Fetal_alcohol_spectrum_disorder), which *will* make you more aggressive, impulsive and short tempered, and usually lowers your intelligence to boot. That's a transformation of your psychology that just plain sucks, and it can't be cured. You just have to work extra hard to help the child work around their behavioural problems if they are to have a decent life and not end up in jail for hurting someone they were angry with.
 >>>>>> 
+>>>>>> Or you grew up in pre-ww2 Japan and your kids had access to more and more nutritious food than you did growing up.
+>>>>>> 
+>>>>>> As for schizophrenia, [twin studies](http://www.schizophrenia.com/hypo.php#genes) show that if your identical twin has it, your chances are around 50%. Which is magnitudes above the general population.
+>>>>>> 
+>>>>>> It's seldom *100%* biology. Typically it's a mix, where certain genes are associated with elevated risk. There are also non-genetic biological factors, such as [Fetal Alcohol Spectrum Disorder](https://en.wikipedia.org/wiki/Fetal_alcohol_spectrum_disorder), which *will* make you more aggressive, impulsive and short tempered, and usually lowers your intelligence to boot. That's a transformation of your psychology that just plain sucks, and it can't be cured. You just have to work extra hard to help the child work around their behavioural problems if they are to have a decent life and not end up in jail for hurting someone they were angry with.
 
->>>>>>> **u/captainNematode** [+5] *
+>>>>>>> **u/captainNematode** [+5]  (2 hours later)
 >>>>>>> 
 >>>>>>> >> You can't raise someone to be taller than their parents. When all three of your children grow up to be taller than you, that's a paternity suit. That's a genetic trait.
->>>>>>> > Or you grew up in pre-ww2 Japan and your kids had access to more and more nutritious food than you did growing up.
->>>>>>> I mean, if the parents are short(er than average, especially if by a substantial amount), the kids will almost always be taller even if parents and child have the same nutrition, simply due to regression to the mean
 >>>>>>> 
+>>>>>>> > Or you grew up in pre-ww2 Japan and your kids had access to more and more nutritious food than you did growing up.
+>>>>>>> 
+>>>>>>> I mean, if the parents are short(er than average, especially if by a substantial amount), the kids will almost always be taller even if parents and child have the same nutrition, simply due to regression to the mean
 
->>>>>>> **u/None** [-1] *
+>>>>>>> **u/None** [-1]  (an hour later)
 >>>>>>> 
 >>>>>>> [deleted]
->>>>>>> 
 
->>>>>>>> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate**
+>>>>>>>> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate* (11 hours later)
 >>>>>>>> 
 >>>>>>>> Yes it does say something about genetics? Granted it doesn't say quite as much as the platonic ideal of a perfect experiment where we can afford to throw ethics to the winds and abduct a pair of twins then keep them separated on the off-chance that they might develop schizophrenia, but that's not something scientists are allowed to do and would introduce other problematic variables besides. 
->>>>>>>> Presumably your alternative explanation would be that schizophrenia is socially transmitted? Or perhaps something to do with how one is raised. Or that schizophrenia is completely randomly distributed amongst the population. In all three cases you would expect to *also* see ~50% incidence of schizophrenia in one non-identical twins so long as the other twin has schizophrenia. This is not the case, in fact:
->>>>>>>> > [They yielded probandwise concordance rates of 41-65% in monozygotic (MZ) pairs and 0-28% in dizygotic (DZ) pairs, and heritability estimates of approximately 80-85%.](http://www.ncbi.nlm.nih.gov/pubmed/10813800/)
->>>>>>>> Therefore, schizophrenia had a great deal to do with genetics.
 >>>>>>>> 
+>>>>>>>> Presumably your alternative explanation would be that schizophrenia is socially transmitted? Or perhaps something to do with how one is raised. Or that schizophrenia is completely randomly distributed amongst the population. In all three cases you would expect to *also* see ~50% incidence of schizophrenia in one non-identical twins so long as the other twin has schizophrenia. This is not the case, in fact:
+>>>>>>>> 
+>>>>>>>> > [They yielded probandwise concordance rates of 41-65% in monozygotic (MZ) pairs and 0-28% in dizygotic (DZ) pairs, and heritability estimates of approximately 80-85%.](http://www.ncbi.nlm.nih.gov/pubmed/10813800/)
+>>>>>>>> 
+>>>>>>>> Therefore, schizophrenia had a great deal to do with genetics.
 
->>>>>>>>> **u/None** [+0] *
+>>>>>>>>> **u/None** [+0]  (18 hours later)
 >>>>>>>>> 
 >>>>>>>>> [deleted]
->>>>>>>>> 
 
->>>>>>>>>> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+>>>>>>>>>> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate* (20 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> >And since nobody else in this rationalist thread is willing to give a testable prediction
->>>>>>>>>> I made a testable prediction, and then I tested it. I did not know whether fraternal twins would have the same incidence as identical twins when I wrote that line, and then I looked it up (tested it), and it turned out my theory was correct.
->>>>>>>>>> I don't know why you seem to have decided that for your hypnosis thing to be right *the entirety of science* must be wrong. It's quite confusing. Especially since we were just talking about schizophrenia and then you decided to go on an extremely long and completely irrelevant rant about hypnosis for no adequately explained reason.
->>>>>>>>>> We've had a similar conversation before, even. You appear to be repeating this pattern fairly frequently and it never convinces people, which would probably be quite frustrating. So I'm going to identify the things you need to understand to be able to convince people. From what I can tell:
->>>>>>>>>> You need to understand science, because you don't.
->>>>>>>>>> You need to understand how statistics works.
->>>>>>>>>> You need to understand how proving things works.
->>>>>>>>>> Because this? Even *if* you were right, your current mode of argument is indistinguishable from the rantings of any number of internet denizens, and that makes it completely unconvincing to rationalists. Not because of who you sound like, but because it signals that you do not understand and thus we need spend extra time checking over all your conclusions before accepting any of them. You don't need a PhD, but you do need some understanding of how the truth-seeking part of science works. 
->>>>>>>>>> Until you get that, you will bash your head into this wall again, and again, and again.
 >>>>>>>>>> 
+>>>>>>>>>> I made a testable prediction, and then I tested it. I did not know whether fraternal twins would have the same incidence as identical twins when I wrote that line, and then I looked it up (tested it), and it turned out my theory was correct.
+>>>>>>>>>> 
+>>>>>>>>>> I don't know why you seem to have decided that for your hypnosis thing to be right *the entirety of science* must be wrong. It's quite confusing. Especially since we were just talking about schizophrenia and then you decided to go on an extremely long and completely irrelevant rant about hypnosis for no adequately explained reason.
+>>>>>>>>>> 
+>>>>>>>>>> We've had a similar conversation before, even. You appear to be repeating this pattern fairly frequently and it never convinces people, which would probably be quite frustrating. So I'm going to identify the things you need to understand to be able to convince people. From what I can tell:
+>>>>>>>>>> 
+>>>>>>>>>> You need to understand science, because you don't.
+>>>>>>>>>> 
+>>>>>>>>>> You need to understand how statistics works.
+>>>>>>>>>> 
+>>>>>>>>>> You need to understand how proving things works.
+>>>>>>>>>> 
+>>>>>>>>>> Because this? Even *if* you were right, your current mode of argument is indistinguishable from the rantings of any number of internet denizens, and that makes it completely unconvincing to rationalists. Not because of who you sound like, but because it signals that you do not understand and thus we need spend extra time checking over all your conclusions before accepting any of them. You don't need a PhD, but you do need some understanding of how the truth-seeking part of science works. 
+>>>>>>>>>> 
+>>>>>>>>>> Until you get that, you will bash your head into this wall again, and again, and again.
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (23 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> [deleted]
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+>>>>>>>>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> You misunderstand. In order: 
->>>>>>>>>>>> No, because that is not a fundamental invalidating flaw. What you described are called confounding variables and can be controlled for using a reasonable sample size. 
->>>>>>>>>>>> I believe I understand why you refuse to acknowledge it, I just don't think you have a good enough reason to throw out an entire field regardless of whether or not one part of that field has issues in your estimation. Nor is it pertinent to the singular point I was trying to make: that schizophrenia specifically and mental illness in general is at least partially genetic.
->>>>>>>>>>>> Relevant, yes. More important than other considerations? No.
->>>>>>>>>>>> Relevant to the treatment of schizophrenia, yes. Relevant to the question of whether or not it is at least partially genetic, no.
->>>>>>>>>>>> Obviously a rationalist should be convinced by a correct argument. I am not convinced you have one: you have not shown me one.
->>>>>>>>>>>> It is not a valid excuse, but it is how these things work, and I was trying to help you to understand this.
->>>>>>>>>>>> Yes: frankly I don't care about your claims of hypnotism. It is not relevant to my field, it is not relevant to my point. I care only about whether or not schizophrenia is at least partially genetic.
->>>>>>>>>>>> You also remember our previous argument, and yet you followed exactly the same path as last time. The path which has led, once again, to you convincing no-one and wasting your time. I am trying, this one last time, to help you realise that this method is doomed to failure. Understand: until you actually take the time to understand science you will not understand how to convince people such as these. You will also not understand how to tell if you are actually correct or just someone who has been suckered in by a charismatic speaker. 
->>>>>>>>>>>> I know you think you know whether you are right or wrong already, but you do not. Just as teenagers we thought we knew everything, and we did not.
->>>>>>>>>>>> Learn to be more than you are, or do not. I care not. You now understand the outcomes each choice will lead to, and I will not make your choice for you. 
->>>>>>>>>>>> If you want to talk more, I will talk only about whether or not schizophrenia is at least partially genetic. All other avenues of conversation will be unproductive.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> No, because that is not a fundamental invalidating flaw. What you described are called confounding variables and can be controlled for using a reasonable sample size. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> I believe I understand why you refuse to acknowledge it, I just don't think you have a good enough reason to throw out an entire field regardless of whether or not one part of that field has issues in your estimation. Nor is it pertinent to the singular point I was trying to make: that schizophrenia specifically and mental illness in general is at least partially genetic.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Relevant, yes. More important than other considerations? No.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Relevant to the treatment of schizophrenia, yes. Relevant to the question of whether or not it is at least partially genetic, no.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Obviously a rationalist should be convinced by a correct argument. I am not convinced you have one: you have not shown me one.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> It is not a valid excuse, but it is how these things work, and I was trying to help you to understand this.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Yes: frankly I don't care about your claims of hypnotism. It is not relevant to my field, it is not relevant to my point. I care only about whether or not schizophrenia is at least partially genetic.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> You also remember our previous argument, and yet you followed exactly the same path as last time. The path which has led, once again, to you convincing no-one and wasting your time. I am trying, this one last time, to help you realise that this method is doomed to failure. Understand: until you actually take the time to understand science you will not understand how to convince people such as these. You will also not understand how to tell if you are actually correct or just someone who has been suckered in by a charismatic speaker. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> I know you think you know whether you are right or wrong already, but you do not. Just as teenagers we thought we knew everything, and we did not.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Learn to be more than you are, or do not. I care not. You now understand the outcomes each choice will lead to, and I will not make your choice for you. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> If you want to talk more, I will talk only about whether or not schizophrenia is at least partially genetic. All other avenues of conversation will be unproductive.
 
->>>>>>>>>>>>> **u/BoilingLeadBath** [+2] *
+>>>>>>>>>>>>> **u/BoilingLeadBath** [+2]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> "whether or not schizophrenia is at least partly genetic"
->>>>>>>>>>>>> * I place a VERY low p on the induction of schizophrenia in a person with no brain... with any environment what-so-ever.
->>>>>>>>>>>>> * I place a non-negligible p on the (at least occasional) induction of schizophrenia in *people* by means of arbitrary environments.
->>>>>>>>>>>>> Therefor, I say with very high confidence that it is something about humans with brains which makes them, but not the brainless, get schizophrenia.
->>>>>>>>>>>>> Less robustly, I suggest that it would be possible to genetically engineer an human which developed normally, but without a brain, and thus that the difference between brainless and typical humans amounts to (in this case) a genetic difference.
->>>>>>>>>>>>> Thus, I say with high confidence that the propensity to develop schizophrenia is genetically determined.
->>>>>>>>>>>>> :-p
->>>>>>>>>>>>> But, more seriously, while it is true that confounding arises from sparsely populated experimental designs, which could have very few total tests, it is not generally true that increasing the number of replications of a design "unconfounds" the results.
->>>>>>>>>>>>> For a trivial example, if the people running a study don't record the height of the participants playing basketball (at all!), they are going to have an awful time if they try to go back and determine if height makes you better at scoring.
->>>>>>>>>>>>> For a less trivial and more relevant example, if you only record the scores of two groups:
->>>>>>>>>>>>> * Those who are tall AND born on a Monday
->>>>>>>>>>>>> * Those who are short AND born on a day other than Monday
->>>>>>>>>>>>> ...your study has no power to distinguish between the two effects. I mean, you'll reject the "Monday" hypothesis, because your prior for that effect is very small, and your statistically significant effect is ALSO explained by a variable that you have a large prior for... but that's different.
->>>>>>>>>>>>> In a sense, then, all a twin study can do is make the alternative explanation for an effect sufficiently absurd that "genetics/womb environment" gets the nod...
->>>>>>>>>>>>> ...so, what particular flavor of twin study are we talking about in this schizophrenia study? There's different types, ya know...
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> * I place a VERY low p on the induction of schizophrenia in a person with no brain... with any environment what-so-ever.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> * I place a non-negligible p on the (at least occasional) induction of schizophrenia in *people* by means of arbitrary environments.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Therefor, I say with very high confidence that it is something about humans with brains which makes them, but not the brainless, get schizophrenia.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Less robustly, I suggest that it would be possible to genetically engineer an human which developed normally, but without a brain, and thus that the difference between brainless and typical humans amounts to (in this case) a genetic difference.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Thus, I say with high confidence that the propensity to develop schizophrenia is genetically determined.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> :-p
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> But, more seriously, while it is true that confounding arises from sparsely populated experimental designs, which could have very few total tests, it is not generally true that increasing the number of replications of a design "unconfounds" the results.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> For a trivial example, if the people running a study don't record the height of the participants playing basketball (at all!), they are going to have an awful time if they try to go back and determine if height makes you better at scoring.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> For a less trivial and more relevant example, if you only record the scores of two groups:
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> * Those who are tall AND born on a Monday
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> * Those who are short AND born on a day other than Monday
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> ...your study has no power to distinguish between the two effects. I mean, you'll reject the "Monday" hypothesis, because your prior for that effect is very small, and your statistically significant effect is ALSO explained by a variable that you have a large prior for... but that's different.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> In a sense, then, all a twin study can do is make the alternative explanation for an effect sufficiently absurd that "genetics/womb environment" gets the nod...
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> ...so, what particular flavor of twin study are we talking about in this schizophrenia study? There's different types, ya know...
 
->>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> You're not wrong about any of that, I just left it out because of reasons ;P
->>>>>>>>>>>>>> [Basic study:](http://www.ncbi.nlm.nih.gov/pubmed/10813800/) find some identical twins and some fraternal twins where at least one suffers from schizophrenia, figure out the likelyhood of both twins having schizophrenia *given that* at least one has schizophreia. Notice that identical twins both have schizophrenia ~25% more often that fraternal twins. It's a fairly straightforwards study, rather hard to misinterpret though I can only see the abstract.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> [Basic study:](http://www.ncbi.nlm.nih.gov/pubmed/10813800/) find some identical twins and some fraternal twins where at least one suffers from schizophrenia, figure out the likelyhood of both twins having schizophrenia *given that* at least one has schizophreia. Notice that identical twins both have schizophrenia ~25% more often that fraternal twins. It's a fairly straightforwards study, rather hard to misinterpret though I can only see the abstract.
 
->>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (2 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> > If you then carry on pretending you're looking at pure genetics, increasing the sample size will only make you more confidently wrong. An invalid study does not produce valid results.
->>>>>>>>>>>>>> To clarify: I have not at any time said that it is purely genetic. 
->>>>>>>>>>>>>> I am curious, what kind of study would satisfy you? What experimental setup that is possible to implement would give a result that you would accept? How exactly would you control for environmental factors in order to meet your required standard of proof? Obviously such a standard exists, because you've been convinced by it, so what exactly would be required?
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> To clarify: I have not at any time said that it is purely genetic. 
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I am curious, what kind of study would satisfy you? What experimental setup that is possible to implement would give a result that you would accept? How exactly would you control for environmental factors in order to meet your required standard of proof? Obviously such a standard exists, because you've been convinced by it, so what exactly would be required?
 
->>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (2 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> That's great and helps me understand your job, but we weren't talking about your job and it doesn't really answer my question. Unfortunately, personal experience is notoriously bad at allowing professionals to make predictions outside of their very specific area of practical experience, while inflating their sense of confidence in their ability to make predictions. Inside of their area of expertise, they're golden, but as soon as they step outside that area even by an inch, it's no longer the case. You clearly believe in evidence at least in some forms, because you accept the evidence of your senses while improving yourself in your profession, and have been convinced by that evidence that your approach is correct. Tests are simply a standardised form of that. 
->>>>>>>>>>>>>>>> All these politicans answers and skillful misdirections are making me think you don't actually believe the point you're arguing. You seem to be afraid of taking a testable position because you know that you'll then be proven wrong. So, we're talking money down, cards on the table, no weaselling out of this one. Name a fair test that would give an answer to this question, and predict what result we would find if your theory is correct. 
->>>>>>>>>>>>>>>> To my current understanding your theory is that shizophrenia is 100% environmental effects - that is basically everything except genetics. This means that in your theory none of it is because of genetics. If this is not your theory, then don't hesitate to tell me.
->>>>>>>>>>>>>>>> For the record my theory is that shizophrenia is around 50% genetics and 50% environmental effects, +/- 30%. There: I've put down my testable prediction. If you are in fact right, then it should be simplicity itself to name a fair test that will prove it to be so, and I will then accept that you are correct.
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> All these politicans answers and skillful misdirections are making me think you don't actually believe the point you're arguing. You seem to be afraid of taking a testable position because you know that you'll then be proven wrong. So, we're talking money down, cards on the table, no weaselling out of this one. Name a fair test that would give an answer to this question, and predict what result we would find if your theory is correct. 
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> To my current understanding your theory is that shizophrenia is 100% environmental effects - that is basically everything except genetics. This means that in your theory none of it is because of genetics. If this is not your theory, then don't hesitate to tell me.
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> For the record my theory is that shizophrenia is around 50% genetics and 50% environmental effects, +/- 30%. There: I've put down my testable prediction. If you are in fact right, then it should be simplicity itself to name a fair test that will prove it to be so, and I will then accept that you are correct.
 
->>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (2 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> That is not actually a fair test for a number of reasons. First, you know that no such test exists at the current time. Second, to prove your theory wrong you would need far less than 80% accuracy. Third, since 80% accuracy is on the highest end of my own prediction you're actually asking for me to show a greater effect than I in fact predicted. Fourth, because the various risk factor genes are are well... various, it is perfectly possible to show that individual genes are responsible for higher rates of schizophrenia while still not having an effective diagnostic tool, simply because people have not yet had the time to identify all of the risk factor genes.
->>>>>>>>>>>>>>>>>> So quit fucking around. I just asked you to give me a test that shows petrol can be used to move a cylinder, and then you asked me to show you a working internal combustion engine before you'll believe me.
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> So quit fucking around. I just asked you to give me a test that shows petrol can be used to move a cylinder, and then you asked me to show you a working internal combustion engine before you'll believe me.
 
->>>>>>>>>>>>>>>>>>> **u/None** [+0] *
+>>>>>>>>>>>>>>>>>>> **u/None** [+0]  (3 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (3 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> Downs is caused by a second copy of chromosome 23 and almost no environmental factors at all, it should be no surprise that you can detect that pretty easy. Since as you've noticed Schizophrenia seems likely to be an umbrella term referring to a number of different disorders with different genetic factors all of which leading to somewhat similar-ish symptoms, it should also be no surprise that this is a more difficult proposition.
->>>>>>>>>>>>>>>>>>>> Still, distinguishing that it is genetics at all, *that* I can do:
->>>>>>>>>>>>>>>>>>>> > [People lacking a section of chromosome known as 22q11.2 have a 20-25% chance of Schizophrenia.](http://www.nature.com/gim/journal/v18/n4/full/gim201584a.html)
->>>>>>>>>>>>>>>>>>>> I think you'll find graph 2 on this next one quite informative:
->>>>>>>>>>>>>>>>>>>> > [Those who have a third degree relative with schizophrenia are twice as likely to develop schizophrenia as those in the general population. Those with a second degree relative have a several-fold higher incidence of schizophrenia than the general population, and first degree relatives have an incidence of schizophrenia an order of magnitude higher than the general populace.](http://www.schizophrenia.com/research/hereditygen.htm)
->>>>>>>>>>>>>>>>>>>> Hopefully I've proven my point, these next ones are less proof and more just there to give an idea of the number of different genes that seem likely to have a causative effect. 
->>>>>>>>>>>>>>>>>>>> > [Many genes are believed to be involved in Schizophrenia, each of small effect and unknown transmission and expression. Many possible candidates have been proposed, including specific copy number variations, NOTCH4, and histone protein loci. A number of genome-wide associations such as zinc finger protein 804A have also been linked.](https://en.wikipedia.org/wiki/Schizophrenia#Genetic)
->>>>>>>>>>>>>>>>>>>> > [Other genes that are associated with Schizophrnia include including neuregulin, dysbindin, COMT, DISC1, RGS4, GRM3, and G72](http://www.ncbi.nlm.nih.gov/pubmed/15263907)
->>>>>>>>>>>>>>>>>>>> Finally a note from Schizophrenia.com on the best current methods for calculating risk:
->>>>>>>>>>>>>>>>>>>> > [Calculating the recurrence risks (or the risk that schizohprenia will re-occur in a family - either in future children a couple may have, or in other existing family members) is complex. It is not yet possible to test whether an individual has specific genes (though this is changing quickly), which would increase their chances of developing schizophrenia. Therefore genetic counselors must use empiric data (figures obtained by counting how many people with schizophrenia also have specific relatives with schizophrenia), coupled with their knowledge of the client's family history. Specifically a genetic counselor may calculate risks of developing schizophrenia by using a Bayesian calculation (a type of statistical estimate) on the basis of empiric data and the client's family mental health history, alternatively it may be possible for a genetic counselor to see a clear inheritance pattern from the family history. Generally, the family history review will try to look back for three or four generations.](http://www.schizophrenia.com/szgencounsel.htm)
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Still, distinguishing that it is genetics at all, *that* I can do:
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> > [People lacking a section of chromosome known as 22q11.2 have a 20-25% chance of Schizophrenia.](http://www.nature.com/gim/journal/v18/n4/full/gim201584a.html)
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> I think you'll find graph 2 on this next one quite informative:
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> > [Those who have a third degree relative with schizophrenia are twice as likely to develop schizophrenia as those in the general population. Those with a second degree relative have a several-fold higher incidence of schizophrenia than the general population, and first degree relatives have an incidence of schizophrenia an order of magnitude higher than the general populace.](http://www.schizophrenia.com/research/hereditygen.htm)
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Hopefully I've proven my point, these next ones are less proof and more just there to give an idea of the number of different genes that seem likely to have a causative effect. 
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> > [Many genes are believed to be involved in Schizophrenia, each of small effect and unknown transmission and expression. Many possible candidates have been proposed, including specific copy number variations, NOTCH4, and histone protein loci. A number of genome-wide associations such as zinc finger protein 804A have also been linked.](https://en.wikipedia.org/wiki/Schizophrenia#Genetic)
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> > [Other genes that are associated with Schizophrnia include including neuregulin, dysbindin, COMT, DISC1, RGS4, GRM3, and G72](http://www.ncbi.nlm.nih.gov/pubmed/15263907)
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Finally a note from Schizophrenia.com on the best current methods for calculating risk:
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> > [Calculating the recurrence risks (or the risk that schizohprenia will re-occur in a family - either in future children a couple may have, or in other existing family members) is complex. It is not yet possible to test whether an individual has specific genes (though this is changing quickly), which would increase their chances of developing schizophrenia. Therefore genetic counselors must use empiric data (figures obtained by counting how many people with schizophrenia also have specific relatives with schizophrenia), coupled with their knowledge of the client's family history. Specifically a genetic counselor may calculate risks of developing schizophrenia by using a Bayesian calculation (a type of statistical estimate) on the basis of empiric data and the client's family mental health history, alternatively it may be possible for a genetic counselor to see a clear inheritance pattern from the family history. Generally, the family history review will try to look back for three or four generations.](http://www.schizophrenia.com/szgencounsel.htm)
 
->>>>>>>>>>>>>>>>>>>>> **u/None** [+0] *
+>>>>>>>>>>>>>>>>>>>>> **u/None** [+0]  (3 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (3 days later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> > I'm not entirely sure what you think you just did, but once again, you have completely and utterly failed to convince me that your silly little delusions have an impact on my life in any way, shape or form whatsoever.
->>>>>>>>>>>>>>>>>>>>>> It's not *supposed* to impact your job. It's supposed to sit there and be true. You said:
->>>>>>>>>>>>>>>>>>>>>> > "How was it proven that schizophrenia is a hardware problem"
->>>>>>>>>>>>>>>>>>>>>> And then later,
->>>>>>>>>>>>>>>>>>>>>> > "It's a catch-all label for vaguely superficially similar problems that implies exactly nothing about the underlying causes"
->>>>>>>>>>>>>>>>>>>>>> So I decided to sit down and prove that to a certain extent that it is a hardware problem which can be predicted by genetics. I think that's what I did. Nothing more, nothing less. You did not make it easy for me. Maybe after however many years this type of research will get you the test you're after.
->>>>>>>>>>>>>>>>>>>>>> Edit: I suppose the most relevant way it impacts your job would be if you're talking to a patient and they ask about their odds of having kids who also have schizophrenia, you can now confidently turn around and say "13%". Presumably you don't want to go around mis-informing your patients about things which have a major impact on their lives.
 >>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> It's not *supposed* to impact your job. It's supposed to sit there and be true. You said:
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> > "How was it proven that schizophrenia is a hardware problem"
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> And then later,
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> > "It's a catch-all label for vaguely superficially similar problems that implies exactly nothing about the underlying causes"
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> So I decided to sit down and prove that to a certain extent that it is a hardware problem which can be predicted by genetics. I think that's what I did. Nothing more, nothing less. You did not make it easy for me. Maybe after however many years this type of research will get you the test you're after.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Edit: I suppose the most relevant way it impacts your job would be if you're talking to a patient and they ask about their odds of having kids who also have schizophrenia, you can now confidently turn around and say "13%". Presumably you don't want to go around mis-informing your patients about things which have a major impact on their lives.
 
->>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (3 days later)
 >>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> Don't make claims in public you can't back up, if you're not prepared for people to call you on it.
->>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (3 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> You've proven that you hate being wrong, love to sling shit, and are allergic to debating honestly. I can tell I'm not, because when talking to other people with actual evidence I get proven wrong all the time, and I accept it when that happens.
->>>>>>>>>>>>>>>>>>>>>>>>>> You said up-thread you're an engineer? I'm an actual engineer. Engineers take the answers science gives us and apply them, you're a mechanic. You take a broken system and try to find a way to make it run again, and that's great. It's useful.
->>>>>>>>>>>>>>>>>>>>>>>>>> But you don't understand science, and you don't understand engineering, and so far as I can tell you don't really use rationality as anything other than a bludgeon. You pretend to, but it shows when you take the words for things you don't understand and use them anyway without knowing when it is and isn't appropriate, then get offended when people take you to task for the equivalent of holding a hammer by its head and using the shaft to hammer screws.
->>>>>>>>>>>>>>>>>>>>>>>>>> That's why you're on -8 up-thread. That's why you can't convince actual scientists.
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> You said up-thread you're an engineer? I'm an actual engineer. Engineers take the answers science gives us and apply them, you're a mechanic. You take a broken system and try to find a way to make it run again, and that's great. It's useful.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> But you don't understand science, and you don't understand engineering, and so far as I can tell you don't really use rationality as anything other than a bludgeon. You pretend to, but it shows when you take the words for things you don't understand and use them anyway without knowing when it is and isn't appropriate, then get offended when people take you to task for the equivalent of holding a hammer by its head and using the shaft to hammer screws.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> That's why you're on -8 up-thread. That's why you can't convince actual scientists.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1]  (3 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
->>>>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (3 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> > You conceded my point that the grand total predictive value of everything the scientific field of psychology has ever done, is zero. You conceded my point that all the studies are fatally flawed.
->>>>>>>>>>>>>>>>>>>>>>>>>>>> I did not, and I did not. I just couldn't be bothered to argue the point because I figured you'd be annoying about it.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> I did not, and I did not. I just couldn't be bothered to argue the point because I figured you'd be annoying about it.
 
->>>>>> **u/Gaboncio** [+5] *
+>>>>>> **u/Gaboncio** [+6]  (an hour later)
 >>>>>> 
 >>>>>> You can definitely have children grow up to be taller than both of their parents, I don't know what gave you the ridiculous idea that you couldn't. Height is not just genetics (which will be more complicated than simple, Mendelian models anyway), it's affected by nutrition, injuries, and other stresses on a child's body as it develops.
->>>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> > You can't raise someone to be taller than their parents.
->>>>>> Yes you can. Feed them better than their parents and let them get more sleep. Raise them in lower gravity than their parents. Prevent them from doing weightlifting. Give them HGH injections. 
->>>>>> No offense but please do more research.
 >>>>>> 
+>>>>>> Yes you can. Feed them better than their parents and let them get more sleep. Raise them in lower gravity than their parents. Prevent them from doing weightlifting. Give them HGH injections. 
+>>>>>> 
+>>>>>> No offense but please do more research.
 
->>>>>>> **u/Gaboncio** [+1] *
+>>>>>>> **u/Gaboncio** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Actually, resistance training (i.e. weightlifting) has been found to not affect growth in children, even when started from a young age. Gymnastics training is functionally equivalent to weightlifting, and I don't think anyone would say that being in gymnastics can stunt a child's growth.
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Interesting. Thanks!
->>>>>>>> 
 
->>>>>>> **u/Gaboncio** [+1] *
+>>>>>>> **u/Gaboncio** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Actually, resistance training (i.e. weightlifting) has been found to not affect growth in children, even when started from a young age. Gymnastics training is functionally equivalent to weightlifting, and I don't think anyone would say that being in gymnastics can stunt a child's growth.
->>>>>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> Yes, that's how genetic counselling works... Also: genes are a huge risk factor for mental illness (especially anxiety and especially depending on the epigenetics of your caregivers), and particularly substance abuse and addiction. 
->>>> A lot of what people think is "evopsych" (for example when you see people trying to justify their racism, sexism, homophobia through evopsych) tends to be a big honking post-hoc fallacy. Just check your sources and remember to be a bit skeptical and you'll be fine.
 >>>> 
+>>>> A lot of what people think is "evopsych" (for example when you see people trying to justify their racism, sexism, homophobia through evopsych) tends to be a big honking post-hoc fallacy. Just check your sources and remember to be a bit skeptical and you'll be fine.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (2 days later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Why wouldn't you be able to fix genetically-predisposed or determined cognitive issues with talk therapy? Phenotypic plasticity doesn't disappear just because your brain is involved.
->>>>>> Genetic counselling works by going over your DNA and your genetic predisposition for certain traits in combination with your partner's, to determine what your offspring's chance of having certain traits is (usually severe illnesses, because it's generally too expensive to use for small stuff). A genetic counselor helps people (usually as couples) weigh up their risk of having a kid with a particular trait and plan on how they'll go with caring for the kid.
 >>>>>> 
+>>>>>> Genetic counselling works by going over your DNA and your genetic predisposition for certain traits in combination with your partner's, to determine what your offspring's chance of having certain traits is (usually severe illnesses, because it's generally too expensive to use for small stuff). A genetic counselor helps people (usually as couples) weigh up their risk of having a kid with a particular trait and plan on how they'll go with caring for the kid.
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> [deleted]
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Well, ok then.
->>>>>>>> 
 
 ---
 

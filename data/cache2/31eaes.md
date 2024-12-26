@@ -2,7 +2,7 @@
 
 * Author: u/JanusTheDoorman *
 * URL: https://www.reddit.com/r/rational/comments/31eaes/bst_the_revan_challenge/
-* Score: 7
+* Score: 8
 
 * Created: 2015-04-04T06:14:05
 
@@ -40,59 +40,71 @@ If there are any other assets/obstacles that you're familiar with in canon, or w
 
 ### Comments:
 
-> **u/TimeLoopedPowerGamer** [+19]  *Utopian Smut Peddler**
+> **u/TimeLoopedPowerGamer** [+19]  *Utopian Smut Peddler* (2 hours later)
 > 
 > Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
-> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
-> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
-> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
-> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
-> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
-> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
-> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 > 
+> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+> 
+> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+> 
+> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+> 
+> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+> 
+> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+> 
+> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+> 
+> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->> **u/SergeantMatt** [+6] *
+>> **u/SergeantMatt** [+6]  (7 hours later)
 >> 
 >> Don't forget to track down and recruit Kreia, I'm fairly certain she would approve of most of this and she'd be extremely useful.
->> 
 
->>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler**
+>>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler* (a day later)
 >>> 
 >>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>> 
+>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>> 
+>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>> 
+>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>> 
+>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>> 
+>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>> 
+>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>> 
+>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
-> **u/MugaSofer** [+5] *
+> **u/MugaSofer** [+4]  (5 hours later)
 > 
 > Open up communications with the highest levels of the Jedi Order, explain where I'm coming from and that we're secretly on the same side.
-> Incapacitate Malak. Probably the best thing to use would be that mind-wiping thing. He's Dark, so presumably not too good a precog; short-term spidey-sense is one thing, but the risk of a full-blown vision is pretty much impossible to work around when designing a trap. Still, the Force is on my side, right?
-> Use the Star Forge to build robot miners and engineers, with attached security force and a few ships. Send them to an uninhabitable planet (Droids don't need to breathe and can endure extreme temperatures); have them make more until they have enough to colonize another planet. Exponential growth will make me the most powerful faction pretty quickly.
-> The Star Forge should be operated by my minions, who will preferably agree to be mind-wiped afterward if it's cheap enough. No point letting my brain get fried by the Dark Side.
-> How much do I know about the Emperor? Not much, right? Because the easiest way to deal with him would be to send some Terminators to kill his grandparents in the future.
-> Hmm, 300 years is well over the lifespan of a SW human ... Holocrons! Phew, I'm immortal even though death will cost me my force powers. Actually, can I just make a bunch of holocrons and make copies of myself in charge of everything important? That would be a huge timesaver.
 > 
+> Incapacitate Malak. Probably the best thing to use would be that mind-wiping thing. He's Dark, so presumably not too good a precog; short-term spidey-sense is one thing, but the risk of a full-blown vision is pretty much impossible to work around when designing a trap. Still, the Force is on my side, right?
+> 
+> Use the Star Forge to build robot miners and engineers, with attached security force and a few ships. Send them to an uninhabitable planet (Droids don't need to breathe and can endure extreme temperatures); have them make more until they have enough to colonize another planet. Exponential growth will make me the most powerful faction pretty quickly.
+> 
+> The Star Forge should be operated by my minions, who will preferably agree to be mind-wiped afterward if it's cheap enough. No point letting my brain get fried by the Dark Side.
+> 
+> How much do I know about the Emperor? Not much, right? Because the easiest way to deal with him would be to send some Terminators to kill his grandparents in the future.
+> 
+> Hmm, 300 years is well over the lifespan of a SW human ... Holocrons! Phew, I'm immortal even though death will cost me my force powers. Actually, can I just make a bunch of holocrons and make copies of myself in charge of everything important? That would be a huge timesaver.
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (10 hours later)
 >> 
 >> Wait a second, the Emperor hasn't been born yet? Then he won't be because of the butterfly effect.
->> 
 
->>> **u/MugaSofer** [+1] *
+>>> **u/MugaSofer** [+1]  (12 hours later)
 >>> 
 >>> Nah, the Force.
->>> 
 
-> **u/lsparrish** [+2] *
+> **u/lsparrish** [+2]  (14 hours later)
 > 
 > The only way to deal with inevitable prophecies is to make sure they happen in a way that is congruent with your goals. Maybe make an invisible task force that monitors potential Emperors and tries to keep them from being genocidal maniacs. Also, we do have cryonics in this universe (carbonite freezing), so Revan should be able to stick around for the event if he wants.
-> 
 
 ---
 

@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/alliteratorsalmanac** [+3] *
+> **u/alliteratorsalmanac** [+4]  (23 hours later)
 > 
 > This is probably my least favorite chapter. It's such an asspull; it's a plan that relies on so many different things to work. And the mentalist guy just appears out of nowhere when it's convenient for the plot.
-> 
 
->> **u/SkyTroupe** [+3] *
+>> **u/SkyTroupe** [+3]  (4 days later)
 >> 
 >> I've really tired on this manga because it just seems like ass pull after ass pull to me.
->> 
 
 ---
 

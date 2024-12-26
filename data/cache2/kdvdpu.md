@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/PastafarianGames** [+11] *
+> **u/PastafarianGames** [+10]  (23 hours later)
 > 
 > This is... really enjoyable! I love me a good do-over story that isn't so focused on "get super rich and powerful and sleep with a lot of people". Or, you know, focused on that at all.
-> 
 
-> **u/adad64** [+7]  *Chaos Legion**
+> **u/adad64** [+7]  *Chaos Legion* (2 hours later)
 > 
 > I'm really liking this story, Tabitha is a fun character.
-> 
 
-> **u/WISHFULFILLMENTSUCKS** [+7] *
+> **u/WISHFULFILLMENTSUCKS** [+7]  (2 days later)
 > 
 > How is this novel rational? I don’t even think it’s rat-adjacent.
-> 
 
-> **u/Revlar** [+3] *
+> **u/Revlar** [+3]  (3 days later)
 > 
 > I consider the story to have lost itself in the weeds. It was fun to read to this point, but I'm not sure it knows where to go or how to keep itself consistent while it gets there.
-> 
 
 ---
 

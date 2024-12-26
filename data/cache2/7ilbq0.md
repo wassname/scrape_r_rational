@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Dwood15** [+3] *
+> **u/Dwood15** [+3]  (20 hours later)
 > 
 > I _love_ this story. So good.
-> 
 
 ---
 

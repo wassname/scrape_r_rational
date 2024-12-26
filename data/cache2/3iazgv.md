@@ -2,7 +2,7 @@
 
 * Author: u/RolandsVaria *
 * URL: https://www.reddit.com/r/rational/comments/3iazgv/dealing_with_an_afterlife/
-* Score: 12
+* Score: 10
 
 * Created: 2015-08-25T06:58:04
 
@@ -16,196 +16,182 @@ Given a billion dollars along with this knowledge, what would be your optimal re
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+22]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+21]  *Emergency Mustelid Hologram* (5 hours later)
 > 
 > _"The gods of the Disc have never bothered much about judging the souls of the dead, and so people only go to hell if that's where they believe, in their deepest heart, that they deserve to go. Which they won't do if they don't know about it. This explains why it is so important to shoot missionaries on sight."_ -- (Terry Pratchett, Eric)
-> Yes I know I just used the same quote in an HPMoR thread. Still need to keep it in mind here.
 > 
+> Yes I know I just used the same quote in an HPMoR thread. Still need to keep it in mind here.
 
-> **u/rdalex** [+4] *
+> **u/rdalex** [+4]  (an hour later)
 > 
 > Same thing I'm doing right now, when I have only this life and no reason to believe otherwise: crusin' along, enjoying life, try not being a dick.
-> 
 
-> **u/Murska1FIN** [+4] *
+> **u/Murska1FIN** [+3]  (2 hours later)
 > 
 > Sounds interesting. If I have suitable proof, present it to the rest of the world. If not, see what I can do about studying the phenomenon. Also examine my own state of mind to try and figure out if I'm not just crazy.
-> Other than that, well, a billion dollars is going to change my life quite a bit, but that seems incidental to the question. I wouldn't change my values in any significant way.
 > 
+> Other than that, well, a billion dollars is going to change my life quite a bit, but that seems incidental to the question. I wouldn't change my values in any significant way.
 
-> **u/MugaSofer** [+3] *
+> **u/MugaSofer** [+3]  (3 hours later)
 > 
 > How the heck do I know there's an afterlife but nothing about it's contents? Did Omega tell me about it? Don't answer that.
-> Anyway, death is still a bad thing, obviously. This probably has some interesting effects on anthropic edge cases in probability; but since I have no idea how to deal with those, I don't know what those effects are.
-> ... I suppose it might be worth killing some highly-trained people to act ass agents in the afterlife, bargain on behalf of humanity, etc etc; but the afterlife is almost certainly inhabited by superhuman forces, all else being equal. Probably not worth it. (You could train people with long-term terminal diagnoses, if you don't think the extra skill bonus from choosing your agents from a larger pool is worth killing people for.)
-> In the *second* case, abolishing anything resembling a death penalty and trying *extremely hard* to get anyone with a risk of dying to repent becomes *very important*. Personally, I'd suggest founding a new strain of Christianity, backed by all the rationality your billion dollars can buy.
 > 
+> Anyway, death is still a bad thing, obviously. This probably has some interesting effects on anthropic edge cases in probability; but since I have no idea how to deal with those, I don't know what those effects are.
+> 
+> ... I suppose it might be worth killing some highly-trained people to act ass agents in the afterlife, bargain on behalf of humanity, etc etc; but the afterlife is almost certainly inhabited by superhuman forces, all else being equal. Probably not worth it. (You could train people with long-term terminal diagnoses, if you don't think the extra skill bonus from choosing your agents from a larger pool is worth killing people for.)
+> 
+> In the *second* case, abolishing anything resembling a death penalty and trying *extremely hard* to get anyone with a risk of dying to repent becomes *very important*. Personally, I'd suggest founding a new strain of Christianity, backed by all the rationality your billion dollars can buy.
 
-> **u/None** [+5] *
+> **u/None** [+4]  (8 hours later)
 > 
 > I recall a book in which we found this sort of thing out and mounted a military invasion.  Sounds about right.  Waaagh.
-> 
 
->> **u/Nepene** [+3] *
+>> **u/Nepene** [+3]  (10 hours later)
 >> 
 >> Salvation war was fun
->> 
 
->>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (22 hours later)
 >>> 
 >>> anyone want to actually finish that trilogy, or is he still whining, instead of just releasing it on kindle for $5 a copy?
->>> 
 
->>>> **u/Nepene** [+1] *
+>>>> **u/Nepene** [+1]  (a day later)
 >>>> 
 >>>> He still feels it's toxic, I believe.
->>>> 
 
->>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (a day later)
 >>>>> 
 >>>>> I don't understand that position. You have gun nuts, military otaku's in general and also right wing religious weirdos who will protest it therefore making it more popular. He could be making a killing, and instead he's whining somebody ate his lunch.
->>>>> 
 
->>>>>> **u/Nepene** [+1] *
+>>>>>> **u/Nepene** [+1]  (a day later)
 >>>>>> 
 >>>>>> Maybe he wants the fame of publishing it with a named publisher more than he wants the money?
->>>>>> 
 
->>>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (a day later)
 >>>>>>> 
 >>>>>>> I honestly never considered that, that makes no sense to me but whatever.
->>>>>>> 
 
->>>>>>>> **u/Nepene** [+1] *
+>>>>>>>> **u/Nepene** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> He could just be lazy too. He might not want to go through the effort of proofreading it.
->>>>>>>> Regardless, he's not doing it.
 >>>>>>>> 
+>>>>>>>> Regardless, he's not doing it.
 
-> **u/DataPacRat** [+9]  *Amateur Immortalist**
+> **u/DataPacRat** [+7]  *Amateur Immortalist* (2 hours later)
 > 
 > Insufficient data is presented to answer the question. Via what channel has this information about the afterlife's existence (and nature) come to my attention; and how has it demonstrated sufficient evidence to persuade me of its veracity?
-> 
 
->> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram* (5 hours later)
 >> 
 >> Yep, the same problem that I had with the "you are sudden;y aware you can teleport" thread. The most likely cause of random supernatural beliefs is not that the random supernatural beliefs are real.
->> 
 
->> **u/Nevereatcars** [+1]  *The Greatest Is Behind**
+>> **u/Nevereatcars** [+1]  *The Greatest Is Behind* (3 days later)
 >> 
 >> In a hypothetical scenario, the standard is to assume that the odds of the terms of the hypothetical being true are, within the scenario, 100%, and then to go from there.
->> 
 
->>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (3 days later)
 >>> 
 >>> http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/
->>> I don't peg the probability that what I think of as reality has anything to do with objective reality as being higher than 99.99999999%. If I assume something with a 100% certainty, then I've done something *wrong*, whatever the "standard" may be.
 >>> 
+>>> I don't peg the probability that what I think of as reality has anything to do with objective reality as being higher than 99.99999999%. If I assume something with a 100% certainty, then I've done something *wrong*, whatever the "standard" may be.
 
->>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind**
+>>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind* (3 days later)
 >>>> 
 >>>> Yes, that is definitely true in reality. However, in a hypothetical situation, it doesn't apply. A hypothetical scenario is a "what-if". The point is to take that initial, pre-supposed condition, and determine what courses of action would make the most sense, *with the supposition that the terms of the scenario are true*. So, within a hypothetical, you don't need to be persuaded of the veracity of the starting conditions.
->>>> 
 
->>>>> **u/DataPacRat** [+2]  *Amateur Immortalist**
+>>>>> **u/DataPacRat** [+2]  *Amateur Immortalist* (3 days later)
 >>>>> 
 >>>>> For most cases, that would be fine. However, there would be a significant difference in the sorts of plans I would make depending on whether I was 90% confident in the afterlife, 99.9% confident, 99.9999% confident, or 99.9999999% confident... and that difference arises because I'm at least an aspiring Bayesian, and I try to calibrate my level of belief to the level of evidence available, and each of those scenarios implies a vast difference in the amount and quality of evidence available about the afterlife in question. (For comparison, I am, roughly, only 99.998 confident that I am going to survive the next 24 hours. If I am more confident in the existence of an afterlife than I am in that, then all sorts of wacky-but-logical consequences ensue.)
->>>>> This sort of issue is one of the main reasons I prefer to measure probability - and subjective confidence levels - logarithmically rather than linearly, using what are called "decibans". 90% confidence corresponds to 10 decibans, 99% to 20, 99.9% to 30, and so on. 100% certainty would require an infinite amount of decibans. If every Planck volume of the universe since the Big Bang had contained a deciban's worth of evidence in the existence of the afterlife, I /still/ wouldn't have 100% certainty, or anywhere close to it.
->>>>> Or, put another way, ever since considering some of the variations on hypothetical trolley problems, I am quite willing to say that it is possible to set up a hypothetical scenario /wrong/. "Trolley's coming. Will you do X or Y?" "I'd /try/ to-" "X or Y. *X or Y*? **X or Y**?" To which the only adequate response is: "[Mu](https://en.wikipedia.org/wiki/Mu_%28negative%29#In_popular_culture)."
 >>>>> 
+>>>>> This sort of issue is one of the main reasons I prefer to measure probability - and subjective confidence levels - logarithmically rather than linearly, using what are called "decibans". 90% confidence corresponds to 10 decibans, 99% to 20, 99.9% to 30, and so on. 100% certainty would require an infinite amount of decibans. If every Planck volume of the universe since the Big Bang had contained a deciban's worth of evidence in the existence of the afterlife, I /still/ wouldn't have 100% certainty, or anywhere close to it.
+>>>>> 
+>>>>> Or, put another way, ever since considering some of the variations on hypothetical trolley problems, I am quite willing to say that it is possible to set up a hypothetical scenario /wrong/. "Trolley's coming. Will you do X or Y?" "I'd /try/ to-" "X or Y. *X or Y*? **X or Y**?" To which the only adequate response is: "[Mu](https://en.wikipedia.org/wiki/Mu_%28negative%29#In_popular_culture)."
 
->>>>>> **u/Nevereatcars** [+3]  *The Greatest Is Behind**
+>>>>>> **u/Nevereatcars** [+3]  *The Greatest Is Behind* (3 days later)
 >>>>>> 
 >>>>>> I have nothing to say but "I concede."
->>>>>> 
 
-> **u/RMcD94** [+3] *
+> **u/RMcD94** [+3]  (4 hours later)
 > 
 > >Scenario 2: The afterlife is predicated on a version of heaven and hell, with particularly "evil" people (murderers, corrupt politicians) going to hell and the rest going to heaven.
-> Hire one person to start murdering babies so they can go to heaven and be blissful for eternity.
-> Assuming we ignore the go to mental hospital etc.
 > 
+> Hire one person to start murdering babies so they can go to heaven and be blissful for eternity.
+> 
+> Assuming we ignore the go to mental hospital etc.
 
->> **u/sir_pirriplin** [+1] *
+>> **u/sir_pirriplin** [+1]  (a day later)
 >> 
 >> With a billion dollars, there might even be a way to save the murderer from hell.
->> The murderer could be frozen and put in a spaceship headed towards a black hole's event horizon so his soul can't reach the afterlife. Or their brain could be modified to find hell pleasurable. Such drastic personality change is no different from dying, but that's no worse than what happens in this universe anyway.
 >> 
+>> The murderer could be frozen and put in a spaceship headed towards a black hole's event horizon so his soul can't reach the afterlife. Or their brain could be modified to find hell pleasurable. Such drastic personality change is no different from dying, but that's no worse than what happens in this universe anyway.
 
->>> **u/RMcD94** [+2] *
+>>> **u/RMcD94** [+2]  (a day later)
 >>> 
 >>> >With a billion dollars, there might even be a way to save the murderer from hell.     
 >>> The murderer could be frozen and put in a spaceship headed towards a black hole's event horizon so his soul can't reach the afterlife.
->>> That is genius, depending how quickly you can get them to a black hole you might not need to freeze them. Though with modern technology I don't think you can hit that relativistic speeds fast enough.
->>> "In 2013, the list price of a Falcon 9 v1.1 was $56.5 million,[94] and was $61.2 million as of November 2014". Yeah, should be easy enough to get him into Space then. 
->>> >Or their brain could be modified to find hell pleasurable. 
->>> Depends on how hell works that may be definitionally impossible
 >>> 
+>>> That is genius, depending how quickly you can get them to a black hole you might not need to freeze them. Though with modern technology I don't think you can hit that relativistic speeds fast enough.
+>>> 
+>>> "In 2013, the list price of a Falcon 9 v1.1 was $56.5 million,[94] and was $61.2 million as of November 2014". Yeah, should be easy enough to get him into Space then. 
+>>> 
+>>> >Or their brain could be modified to find hell pleasurable. 
+>>> 
+>>> Depends on how hell works that may be definitionally impossible
 
->>> **u/MugaSofer** [+1] *
+>>> **u/MugaSofer** [+1]  (4 days later)
 >>> 
 >>> Cryonics might well count as dying.
->>> 
 
->>>> **u/sir_pirriplin** [+1] *
+>>>> **u/sir_pirriplin** [+1]  (4 days later)
 >>>> 
 >>>> Maybe an induced coma would work? That might not last long enough to escape God, though.
->>>> 
 
-> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (6 hours later)
 > 
 > When does life begin? At conception? Is heaven overrun by the souls of embryos who failed to implant in the uterine wall, and who outnumber normal humans five or ten to one?
-> Case 1: That doesn't tell me much. I don't think I have enough information to decide on a course of action. Well, except that I'd worry a lot less about other people dying. "Natural disaster kills 20,000 people? So what?"
-> Case 2: I'd do what many religions have already concluded is the sensible thing to do. Try to get as many people as possible into heaven by "converting" them.
 > 
+> Case 1: That doesn't tell me much. I don't think I have enough information to decide on a course of action. Well, except that I'd worry a lot less about other people dying. "Natural disaster kills 20,000 people? So what?"
+> 
+> Case 2: I'd do what many religions have already concluded is the sensible thing to do. Try to get as many people as possible into heaven by "converting" them.
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (9 hours later)
 > 
 > Whenever there's a thread on the afterlife, all I can contribute is a nifty link to [Bang](http://www.amazon.com/bang-apocalypse-Mason-Tailsteak-Williams/dp/1453806466). Involves at least one afterlife creature who takes ethical principles to the logical extreme.
-> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (22 hours later)
 >> 
 >> 154 pages for $10, and not even an ebook?! no thanks.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (20 hours later)
 > 
 > What is existence like in hell and in heaven? That's kind of relevant.
-> 
 
-> **u/Jiro_T** [+1] *
+> **u/Jiro_T** [+1]  (11 hours later)
 > 
 > Do the criteria for Heaven and Hell match any real-life beliefs in how to get to Heaven/Hell?
-> If yes, every actual religion which believes in a literal Heaven and Hell also describes ways of getting there that would offend any modern person's sense of morality.  (The gays on Reaper, for instance, would be in big trouble.)  Are we to assume that this idea of Heaven and Hell works like any real-life religion?  If yes, then since (just by being in this subreddit) you are statistically likely to be an atheist, you're probably already screwed.  Use your billion dollars to work on life extension, or perhaps, rescuing gays and atheists (and possibly Jews) from Hell.
-> If no, then the answer depends on exactly what the criteria are.   It could be anything; maybe if you don't start making paperclips now, you go to Hell.
 > 
+> If yes, every actual religion which believes in a literal Heaven and Hell also describes ways of getting there that would offend any modern person's sense of morality.  (The gays on Reaper, for instance, would be in big trouble.)  Are we to assume that this idea of Heaven and Hell works like any real-life religion?  If yes, then since (just by being in this subreddit) you are statistically likely to be an atheist, you're probably already screwed.  Use your billion dollars to work on life extension, or perhaps, rescuing gays and atheists (and possibly Jews) from Hell.
+> 
+> If no, then the answer depends on exactly what the criteria are.   It could be anything; maybe if you don't start making paperclips now, you go to Hell.
 
-> **u/TwoMcMillion** [+1] *
+> **u/TwoMcMillion** [+1]  (15 hours later)
 > 
 > The real problem with an afterlife of the second sort is that there's not really a line where people suddenly switch from "good person" to "bad person". In reality, everyone is at one place or another along a spectrum of morality. A line on one side of which you go to heaven and on the other side go to hell couldn't be anything but arbitrary.
-> 
 
-> **u/BadGoyWithAGun** [+1] *
+> **u/BadGoyWithAGun** [+1]  (10 hours later)
 > 
 > Invest in a diverse low-risk, low-return portfolio and live a life of lower upper class luxury off the interest. This information does not change my attitude, values or goals in any meaningful way.
-> 
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (11 hours later)
 >> 
 >> Lower upper class? [A billion is a whole lot above that.](https://www.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/cnnmca8)
->> 
 
->>> **u/BadGoyWithAGun** [+2] *
+>>> **u/BadGoyWithAGun** [+2]  (11 hours later)
 >>> 
 >>> Yeah, but I'm talking about living off interest without touching the billion.
->>> 
 
->>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (19 hours later)
 >>>> 
 >>>> At a conservative 5% pa above inflation, that's 50 million a year.  You might not be dining with royalty, but nor do you ever have to worry about living very comfortably.
->>>> 
 
 ---
 

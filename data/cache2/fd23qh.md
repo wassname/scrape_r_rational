@@ -2,7 +2,7 @@
 
 * Author: u/wren42 *
 * URL: https://www.reddit.com/r/rational/comments/fd23qh/spoilers_hpmor_did_quirrell_not_guess_harrys_plan/
-* Score: 57
+* Score: 59
 
 * Created: 2020-03-03T21:44:52
 
@@ -22,58 +22,50 @@ There's a ton of great and subtle political action going on in this scene, but o
 
 ### Comments:
 
-> **u/liquidmetalcobra** [+46] *
+> **u/liquidmetalcobra** [+44]  (an hour later)
 > 
 > Quirrel did know that Harry was redeeming Draco. 
+> 
 > From Chapter 108:
 > ""Don't be ridiculous," Professor Quirrell said. "If I had only wished to remove Miss Granger, I would not have brought the Malfoys into it. I observed your game with Draco Malfoy and found it amusing, but I knew it could not continue for very long before Lucius learned and intervened; and then your folly would have brought you great trouble, for Lucius would not take it lightly. Had you just been able to lose during the Wizengamot trial, lose as I had taught you, then in only two more weeks, ironclad evidence would have shown that Lucius Malfoy, after discovering his son's seeming perfidy, had Imperiused Professor Sprout into using the Blood-Cooling Charm on Mr. Malfoy and casting the False Memory Charm on Miss Granger. Lucius would have been swept off the political gameboard, sent to exile if not Azkaban; Draco Malfoy would have inherited the wealth of House Malfoy, and your influence over him would have been unchallenged. Instead I had to abort that plot in mid-course. You managed to completely disrupt the real plan in the course of sacrificing double your entire fortune, by giving Lucius Malfoy the perfect opportunity to prove his true concern for his son. You have an incredible anti-talent for meddling, I must say.""
-> 
 
->> **u/kaukamieli** [+8] *
+>> **u/kaukamieli** [+6]  (19 hours later)
 >> 
 >> Couldn't that have been just a lie, though? :p Do we trust the baddie?
->> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (19 days later)
 >>> 
 >>> At this particular point in the story, his reasons to lie are pretty far outweighed by what's already occurred, in my view.
->>> 
 
->>>> **u/kaukamieli** [+1] *
+>>>> **u/kaukamieli** [+1]  (19 days later)
 >>>> 
 >>>> Not having to admit he was wrong is reason enough.
->>>> 
 
->>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (19 days later)
 >>>>> 
 >>>>> Why would he have to admit he was wrong?
->>>>> 
 
->> **u/JbeJ1275** [+5] *
+>> **u/JbeJ1275** [+4]  (a day later)
 >> 
 >> I mean he seems to have suggested that the appropriate response here was for Harry to wait and hope for divine intervention. Was that really a response that Harry, or indeed any invested rational individual would have taken? Harry’s actual action would have been much more difficult to predict (especially with Quirrel’s minor blind spot concerning empathy), but unless he’s totally wrong in regards to his predictions of Harry’s values then he should have foreseen that Harry would not deem this loss an acceptable one.
->> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (19 days later)
 >>> 
 >>> The *actual* lesson would not have been "wait for divine intervention," but rather "notice when you cannot win the immediate conflict and at least pretend to lose." This is not something Harry ever *really* learns, because Quirrelmort doesn't understand how someone like Harry operates. If a life is in danger, particularly a friend, he can't just rationally look at the numbers and decide "yep, this is way too expensive a tradeoff, I have to let them die."  If he CAN save them, he WILL.
->>> 
 
-> **u/Makin-** [+33]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+34]  *homestuck ratfic, you can do it* (an hour later)
 > 
 > I think that, as stated near the end of the story, Quirrell has a blind spot in his rationality regarding altruistic motivations. So he probably couldn't conceive Harry intentionally handicapping himself in order to help Draco in a way that doesn't strictly help Harry.
-> EDIT: Or not. The other comment seems to disprove this.
 > 
+> EDIT: Or not. The other comment seems to disprove this.
 
->> **u/Asviloka** [+30] *
+>> **u/Asviloka** [+28]  (3 hours later)
 >> 
 >> Probably because in his mind, Harry is not doing it to help Draco - as far as he can see, Harry must be doing it to control Draco.
->> 
 
->>> **u/Ezreon** [+8] *
+>>> **u/Ezreon** [+8]  (13 hours later)
 >>> 
 >>> He definitely does think that, if you remember how their plans was different about what to do about Padma Patil.
->>> 
 
 ---
 

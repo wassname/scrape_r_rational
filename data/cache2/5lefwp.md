@@ -2,7 +2,7 @@
 
 * Author: u/mack2028 *
 * URL: https://www.reddit.com/r/rational/comments/5lefwp/does_anyone_know_where_i_can_find_an_audioized/
-* Score: 9
+* Score: 10
 
 * Created: 2017-01-01T09:10:32
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/MoralRelativity** [+9] *
+> **u/MoralRelativity** [+9]  (7 minutes later)
 > 
 > Your best source is hpmorpodcast.com where you will find HPMOR, The Sword of Good, Three Worlds Collide and more by the talented /u/embrodski
-> 
 
-> **u/blazinghand** [+3]  *Chaos Undivided**
+> **u/blazinghand** [+3]  *Chaos Undivided* (5 minutes later)
 > 
 > There is a website where a podcast of HPMOR has been made: http://www.hpmorpodcast.com/
-> If you're looking for things other than fiction, you'd probably want to look in r/lesswrong or r/slatestarcodex instead of here. r/rational is for works of fiction.
 > 
+> If you're looking for things other than fiction, you'd probably want to look in r/lesswrong or r/slatestarcodex instead of here. r/rational is for works of fiction.
 
 ---
 

@@ -16,321 +16,324 @@ So, /r/rational, what do you want in a mecha story?
 
 ### Comments:
 
-> **u/None** [+13] *
+> **u/None** [+11]  (an hour later)
 > 
 > HELL FUCKING YES.  MECHA FOR THE MECHA GODS!  DRILLS FOR THE DRILL THRONE!
-> 
 
-> **u/eaglejarl** [+8] *
+> **u/eaglejarl** [+12]  (5 hours later)
 > 
 > I'd love to see it, because mecha are pretty much the trope codifier for Rule of Cool.
+> 
 > That said, you're going to have a really tough time of it.  There are pretty much no conditions under which upright human tanks are the optimal combat design.  Here are some of the problems you'll need to find answers to:
+> 
 > * Mecha are basically a giant pile of shot traps strapped together.  
 > * Tanks are relatively low-lying and can hide behind terrain features pretty well.  Mecha can't, unless they lie down, at which point they are just inefficiently designed tanks.
 > * Realistic mecha will be slow moving and their weight will put incredible strain on their joints.  Fast-moving agile mecha are science fantasy.
 > * One of the benefits of mecha that often gets quoted is hands, but the only advantage hands have is that they allow holding / manipulating a variety of tools.  A fighting machine doesn't really need a variety of tools:  it needs "blow thing up" and "blow thing up more".  
 > * Tanks can center-axis mount their weapons in order to absorb recoil, mecha can't unless you put it in the chest, in which case you've given up the advantage of hands.  Even then, you're an unstable two-legged upright pole instead of a low-lying box with long fat treads.
 > * A gun built into the arm is just a tank barrel.  A hand-carried gun will by necessity have a smaller ammo capacity than what a tank with equivalent technology could mount.  It probably also can't hit as hard, due to needing to be more miniaturized.
+> 
 > Here are a couple of ideas for how you could justify having them:
+> 
 > * If mecha combat is a sporting event -- basically mecha gladiators for the entertainment of the masses.
 > * If they are built as highly mobile rough-country artillery platforms instead of as close-quarters fighters.
 > * If the mecha are old gladiator rigs left over from a more civilized era and now being repurposed as weapons of war because they hit hard even though they are impractical.  Bonus points if they're being used by the ragtag misfit rebels against the vastly more powerful imperial troops of DarkEvil McBadGuy.
 > * If the mecha are actually captured exoskeletons of a much larger race, being appropriated by humans because they are the only things that hit hard enough to penetrate the other race's armor.  (You then need to deal with square-cube law issues as you explain your larger aliens, and why aliens and humans are fighting in a universe that makes interstellar contact, let alone combat, extremely nonsensical.)
-> 
 
->> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>> **u/alexanderwales** [+5]  *Time flies like an arrow* (7 hours later)
 >> 
 >> Or maybe not part of a sporting event, but some kind of propaganda effort - you have tanks to get the work of warfare done, and humongous mecha in order to splash up on the television, walk in parades, and in general be more impressive than strictly practical.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (14 hours later)
 >>> 
 >>> So basically, the plot of the *Captain America* movie (yes I am watching that right now), but with giant robots.
->>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (a day later)
 >>>> 
 >>>> Except that Cap really *was* effective.  Not in an armored role (tank, APC), but in an infantry, especially special forces role.
->>>> 
 
->>>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >>>>> 
 >>>>> Well, effective is more a question of *cost* than just results. There's no doubt that Cap performed admirably in his role, but we don't know how much the super serum program cost the military, and it might be that return on investment was quite a bit lower than simply finding and training some more conventional special forces. Though it's complicated by the fact that the program was sabotaged at very nearly the exact worst moment.
->>>>> As far as mechs go, I can see them possibly being effective on the field, just not the most sensible investment given the costs involved with making and/or maintaining them *unless* there's some kind of secondary motivation like propaganda, entertainment, or an idiot ruler that wants something that looks cool.
 >>>>> 
+>>>>> As far as mechs go, I can see them possibly being effective on the field, just not the most sensible investment given the costs involved with making and/or maintaining them *unless* there's some kind of secondary motivation like propaganda, entertainment, or an idiot ruler that wants something that looks cool.
 
->>>>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>>>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (a day later)
 >>>>>> 
 >>>>>> > an idiot ruler who wants something that looks cool. 
->>>>>> I almost wish this trope could make a comeback.
 >>>>>> 
+>>>>>> I almost wish this trope could make a comeback.
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (15 days later)
 >>>>>>> 
 >>>>>>> Something something signaling.
->>>>>>> 
 
->> **u/Tlide** [+2] *
+>> **u/Tlide** [+2]  (7 hours later)
 >> 
 >> Another possible justification would be a radically different operating environment than the sort where tanks are used. Check out Blame! for an example of an environment where the ability to climb would be extremely useful.
->> 
 
->> **u/logrusmage** [+2] *
+>> **u/logrusmage** [+2]  (8 hours later)
 >> 
 >> >If mecha combat is a sporting event -- basically mecha gladiators for the entertainment of the masses.
->> Rational Mobile Fighter G Gundam please. That could totally work.
->> The way they control their Mobile Suits justifies the human shape. The concept of having the human government decided by a large scale gladiator tournament would be a bit difficult to make not-silly though.
 >> 
+>> Rational Mobile Fighter G Gundam please. That could totally work.
+>> 
+>> The way they control their Mobile Suits justifies the human shape. The concept of having the human government decided by a large scale gladiator tournament would be a bit difficult to make not-silly though.
 
->>> **u/blazinghand** [+3]  *Chaos Undivided**
+>>> **u/blazinghand** [+3]  *Chaos Undivided* (a day later)
 >>> 
 >>> This hand of mine glows with an awesome cascade of just-in-time diagnostic, sensory, and data analytic feeds. Its updated tactical report tells me that a frontal attack has a 90% chance of success!
->>> 
 
->>>> **u/logrusmage** [+3] *
+>>>> **u/logrusmage** [+3]  (a day later)
 >>>> 
 >>>> Yessssssss
->>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> Shiiiiniiiiiiiiing.... MUUUUUUNCHKIIIIIIIIIIIIIIIIIIIIIIIIN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
->>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (14 hours later)
 >>> 
 >>> >Rational Mobile Fighter G Gundam please. That could totally work.
->>> You can *rationalize* the Shining Gundam and Devil Gundam?
->>> > The concept of having the human government decided by a large scale gladiator tournament would be a bit difficult to make not-silly though.
->>> It works better than the United Nations.
 >>> 
+>>> You can *rationalize* the Shining Gundam and Devil Gundam?
+>>> 
+>>> > The concept of having the human government decided by a large scale gladiator tournament would be a bit difficult to make not-silly though.
+>>> 
+>>> It works better than the United Nations.
 
->>> **u/eaglejarl** [+2] *
+>>> **u/eaglejarl** [+2]  (9 hours later)
 >>> 
 >>> > Rational Mobile Fighter G Gundam please. That could totally work.
+>>> 
 >>> I'm not familiar with the Gundam series...is MFGG a gladiator thing?
+>>> 
 >>> TVTropes has this to say about why Gundam managed to make mecha a sensible combat choice:
 >>> >Yoshiyuki Tomino wanted to write a Real Robot anime. However, anyone remotely familiar with either engineering or military tactics will tell you that such devices are almost impossible to effectively use; a bipedal platform is needlessly complicated, hard to properly armor, and the easiest thing to shoot at in a battlefield. Enter the Minovsky Particle: an EMP-like, sensor-jamming, delicate-electronics wrecking Plot Device that not only renders all ranged targeting and guided missiles useless, but requires Helium-3 to produce. Consequently, humans had to go to space to get Helium-3, fight old-school close combat battles using systems capable of tricky microgravity maneuvering, and eventually expand on the technology to make maintenance easier. 
->>> I'm still not sure that I buy that mecha are the optimal design, even under these conditions -- seems to me you could do all the same things with something shaped more like a fly-by-wire jet, but meh.
->>> >The way they control their Mobile Suits justifies the human shape.
->>> How do they control their suits?
 >>> 
+>>> I'm still not sure that I buy that mecha are the optimal design, even under these conditions -- seems to me you could do all the same things with something shaped more like a fly-by-wire jet, but meh.
+>>> 
+>>> >The way they control their Mobile Suits justifies the human shape.
+>>> 
+>>> How do they control their suits?
 
->>>> **u/logrusmage** [+2] *
+>>>> **u/logrusmage** [+2]  (10 hours later)
 >>>> 
 >>>> >I'm not familiar with the Gundam series...is MFGG a gladiator thing?
->>>> Basically yes. Each nation is represented by a mech at a big tournament thing to decide who gets to be the head of their UN-like organization.
->>>> It is totally unrelated to basically all of the other Gundamn series, though I think technically they shove it in the time line somewhere.
->>>> http://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam
->>>> >How do they control their suits?
->>>> In the G series only they use a full body mimicry deal.
->>>> Observe:
->>>> http://www.youtube.com/watch?v=x-nnK0HElto
->>>> >Unlike previous series in the Gundam franchise which are set in the "Universal Century" timeline, Mobile Fighter G Gundam takes place in an alternate "Future Century" universe.[1][2] Within this timeline, much of mankind has abandoned a ruined Earth to live in space colonies. The countries on Earth have corresponding colonies just outside the planet's atmosphere. Rather than fight wars for political and social dominance, the colonies agree to hold a "Gundam Fight" tournament every four years. Each country sends to Earth a representative piloting a highly-advanced, humanoid mobile fighter called a Gundam. The Gundams compete with one another in one-on-one battles, under a strict set of rules, until only one fighter remains; the nation represented by the winner earns the right to rule all of space for that period.[2] Each Gundam is controlled directly by the user within the cockpit using the "Mobile Trace System", a gesture recognition and feedback mechanism whereby the Gundam mimics the pilot's own body motion, combat skills, and weapon-wielding capabilities.[1] G Gundam opens at the start of the 13th Gundam Fight in Future Century year 60 and follows Neo Japan's Domon Kasshu, fighter of his nation's Shining Gundam and bearer of the coveted "King of Hearts" martial arts crest.[1] Aside from winning the tournament, Domon's mission is to track down his fugitive, older brother Kyoji, who allegedly stole the experimental Dark Gundam from Neo Japan's government, leaving their mother dead and their father (Dr. Raizo Kasshu) to be arrested and placed in a cryogenic state.[3]
 >>>> 
+>>>> Basically yes. Each nation is represented by a mech at a big tournament thing to decide who gets to be the head of their UN-like organization.
+>>>> 
+>>>> It is totally unrelated to basically all of the other Gundamn series, though I think technically they shove it in the time line somewhere.
+>>>> 
+>>>> http://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam
+>>>> 
+>>>> >How do they control their suits?
+>>>> 
+>>>> In the G series only they use a full body mimicry deal.
+>>>> 
+>>>> Observe:
+>>>> 
+>>>> http://www.youtube.com/watch?v=x-nnK0HElto
+>>>> 
+>>>> >Unlike previous series in the Gundam franchise which are set in the "Universal Century" timeline, Mobile Fighter G Gundam takes place in an alternate "Future Century" universe.[1][2] Within this timeline, much of mankind has abandoned a ruined Earth to live in space colonies. The countries on Earth have corresponding colonies just outside the planet's atmosphere. Rather than fight wars for political and social dominance, the colonies agree to hold a "Gundam Fight" tournament every four years. Each country sends to Earth a representative piloting a highly-advanced, humanoid mobile fighter called a Gundam. The Gundams compete with one another in one-on-one battles, under a strict set of rules, until only one fighter remains; the nation represented by the winner earns the right to rule all of space for that period.[2] Each Gundam is controlled directly by the user within the cockpit using the "Mobile Trace System", a gesture recognition and feedback mechanism whereby the Gundam mimics the pilot's own body motion, combat skills, and weapon-wielding capabilities.[1] G Gundam opens at the start of the 13th Gundam Fight in Future Century year 60 and follows Neo Japan's Domon Kasshu, fighter of his nation's Shining Gundam and bearer of the coveted "King of Hearts" martial arts crest.[1] Aside from winning the tournament, Domon's mission is to track down his fugitive, older brother Kyoji, who allegedly stole the experimental Dark Gundam from Neo Japan's government, leaving their mother dead and their father (Dr. Raizo Kasshu) to be arrested and placed in a cryogenic state.[3]
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (a day later)
 >> 
 >> Those aren't that hard to resolve. For instance, lasers don't have recoil. In open terrain more traditional tanks and aircraft are used, but when fifhting in a megacity you need something that is both a tank and an aircraft.
->> 
 
->> **u/Vebeltast** [+1]  *You should have expected the bayesian inquisition!**
+>> **u/Vebeltast** [+1]  *You should have expected the bayesian inquisition!* (2 days later)
 >> 
 >> > One of the benefits of mecha that often gets quoted is hands, but the only advantage hands have is that they allow holding / manipulating a variety of tools. A fighting machine doesn't really need a variety of tools: it needs "blow thing up" and "blow thing up more".
->> A note: "blow things up" and "blow things up *at different ranges*, *with different effects* is more than enough to require weapon-swapping. For example, if most of the people you're fighting are RPG-toting infantry, a pack of artillery rockets is going to be next to useless compared to a bunch of machine guns, and if the main opposition is main battle tanks you want a big gun firing high-velocity long-rod penetrators. The ability to put down your giant cannon and pick up a couple rocket tubes or machine guns makes your platform significantly more flexible and effective.
 >> 
+>> A note: "blow things up" and "blow things up *at different ranges*, *with different effects* is more than enough to require weapon-swapping. For example, if most of the people you're fighting are RPG-toting infantry, a pack of artillery rockets is going to be next to useless compared to a bunch of machine guns, and if the main opposition is main battle tanks you want a big gun firing high-velocity long-rod penetrators. The ability to put down your giant cannon and pick up a couple rocket tubes or machine guns makes your platform significantly more flexible and effective.
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (2 days later)
 >>> 
 >>> Yes, but you have to tote all that along, including the ammo, meaning that you have much less of the ammo that you actually need at the moment.  A better solution is to either make sure you know what mission you're going on and use an appropriate loadout or, more likely, use a combined-arms strategy where each member of a mech lance carries a different set of weaponry for covering different situations.  You can also have some general purpose weapons, like missiles.  They're overkill for taking out a squad of soldiers, but they'll get the job done.
->>> 
 
->>>> **u/Vebeltast** [+1]  *You should have expected the bayesian inquisition!**
+>>>> **u/Vebeltast** [+1]  *You should have expected the bayesian inquisition!* (2 days later)
 >>>> 
 >>>> Yes. However, if you don't have hands or a similarly modular design, it becomes much more difficult to do that swapping even during downtime. Main battle tanks tend to have their one gun and that's it; changing it out would require disassembling the entire tank and rebuilding it. That's the situation you want to avoid. Hands aren't *necessary* for that, but they do make it somewhat easier, particularly if you've designed them so the mecha itself can do the heavy lifting during outfitting. If you can get it to the point where the mecha alone can do the work, you now have the ability to do something like send all your guns in on trucks behind your front line so that if your mecha needs to rearm it can run back a kilometer, pick up a new gun, and run back to the fight.
->>>> 
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (2 days later)
 >>>>> 
 >>>>> Real militaries suggest that this isn't that big a priority. 
->>>>> Besides, if you want to be able to swap out the main gun, there's no reason it couldn't be built modular. That would be simpler and less involved than building a humanoid mecha that has to actually balance and walk.
 >>>>> 
+>>>>> Besides, if you want to be able to swap out the main gun, there's no reason it couldn't be built modular. That would be simpler and less involved than building a humanoid mecha that has to actually balance and walk.
 
->>>>>> **u/Vebeltast** [+1]  *You should have expected the bayesian inquisition!**
+>>>>>> **u/Vebeltast** [+1]  *You should have expected the bayesian inquisition!* (2 days later)
 >>>>>> 
 >>>>>> > Real militaries suggest that this isn't that big a priority. 
->>>>>> As far as I can tell, the more expensive a platform is the more likely it'll be modular. A six-million-dollar tank has minimal flexibility, a twenty-million-dollar attack helicopter has a fixed gun and can mount a couple different rockets or missiles, and a thirty-million-dollar multirole fighter mounts just about everything. Basically, the more expensive something is, the less you want to have to rebuild it if you *do* have to do something different, and the cheaper something is the easier it is to branch out by just building a bunch of different variations. 
->>>>>> Also, modularity is more valuable the more flexible a platform has to be. The only things a tank is really designed or expected to deal with are personnel and other tanks, so they have machine guns and an anti-armor gun and that's it. A jet fighter has to do all of ELINT, air superiority, ground attack, bombing, and missile defense, so it's hugely modular. Mecha are going to be a little bit combined-arms, but they'll still be replacing a large variety of dedicated infantry support and artillery vehicles.
->>>>>> > Besides, if you want to be able to swap out the main gun, there's no reason it couldn't be built modular. That would be simpler and less involved than building a humanoid mecha that has to actually balance and walk.
->>>>>> Agreed; humanoid is bad. Two legs are insufficiently redundant and the materials science isn't there. Hands are mostly so you can service your gun without a maintenance bay or ground crew. I'm thinking something much more like a spider tank, with a very flat body and six or eight legs around the periphery. Weapons would be mounted to a big modular turret on top of the body. The two frontmost legs would be special, with extra flexibility and manipulators so you can use them for lifting turret assemblies into place. Extra legs are there for stability (both while moving and standing still), redundancy (so you can lose a couple legs without suffering a mobility kill), maneuverability (inverted pendulum dynamics are useful, but sometimes you just want to go *that way*), and height (you want to be able to scuttle around while hull-down, and being designed to crab-walk is better than crawling).
 >>>>>> 
+>>>>>> As far as I can tell, the more expensive a platform is the more likely it'll be modular. A six-million-dollar tank has minimal flexibility, a twenty-million-dollar attack helicopter has a fixed gun and can mount a couple different rockets or missiles, and a thirty-million-dollar multirole fighter mounts just about everything. Basically, the more expensive something is, the less you want to have to rebuild it if you *do* have to do something different, and the cheaper something is the easier it is to branch out by just building a bunch of different variations. 
+>>>>>> 
+>>>>>> Also, modularity is more valuable the more flexible a platform has to be. The only things a tank is really designed or expected to deal with are personnel and other tanks, so they have machine guns and an anti-armor gun and that's it. A jet fighter has to do all of ELINT, air superiority, ground attack, bombing, and missile defense, so it's hugely modular. Mecha are going to be a little bit combined-arms, but they'll still be replacing a large variety of dedicated infantry support and artillery vehicles.
+>>>>>> 
+>>>>>> > Besides, if you want to be able to swap out the main gun, there's no reason it couldn't be built modular. That would be simpler and less involved than building a humanoid mecha that has to actually balance and walk.
+>>>>>> 
+>>>>>> Agreed; humanoid is bad. Two legs are insufficiently redundant and the materials science isn't there. Hands are mostly so you can service your gun without a maintenance bay or ground crew. I'm thinking something much more like a spider tank, with a very flat body and six or eight legs around the periphery. Weapons would be mounted to a big modular turret on top of the body. The two frontmost legs would be special, with extra flexibility and manipulators so you can use them for lifting turret assemblies into place. Extra legs are there for stability (both while moving and standing still), redundancy (so you can lose a couple legs without suffering a mobility kill), maneuverability (inverted pendulum dynamics are useful, but sometimes you just want to go *that way*), and height (you want to be able to scuttle around while hull-down, and being designed to crab-walk is better than crawling).
 
->>>>>>> **u/eaglejarl** [+2] *
+>>>>>>> **u/eaglejarl** [+2]  (3 days later)
 >>>>>>> 
 >>>>>>> > As far as I can tell, the more expensive a platform is the more likely it'll be modular. 
+>>>>>>> 
 >>>>>>> I think there's a question of causality here.  Is it more modular because it's more expensive, or it is more expensive because it's more modular?  My vote goes for "more expensive because more modular".
+>>>>>>> 
 >>>>>>> > A jet fighter has to do all of ELINT, air superiority, ground attack, bombing, and missile defense
+>>>>>>> 
 >>>>>>> [Wikipedia suggests](http://en.wikipedia.org/wiki/List_of_active_United_States_military_aircraft) that most aircraft are designed for a single purpose, although there are a few [multirole aircraft](http://en.wikipedia.org/wiki/Multirole_combat_aircraft).
+>>>>>>> 
 >>>>>>> Although, yes, fighters can typically swap out what kind of missiles their hardpoints are carrying.  I'm not sure if a given hardpoint can be either a missile or a bomb, but maybe.  So, yes, there's some flexibility there.  Still, that's a long way from "I'm going to swap out my long range missile pack for another rack of medium lasers".
+>>>>>>> 
 >>>>>>> Regardless, handheld weapons are never going to be as effective for a mech as builtins.  They will have a much smaller ammo capacity, and won't hit as hard due to being smaller--both because if you focus on pure power you don't focus on making the weapon small enough to be hand-held, and because the gun has less mass and a weaker mounting (hand/wrist instead of whole body) to absorb recoil.
+>>>>>>> 
 >>>>>>> [from earlier post]
 >>>>>>> > If you can get it to the point where the mecha alone can do the work, you now have the ability to do something like send all your guns in on trucks behind your front line so that if your mecha needs to rearm it can run back a kilometer, pick up a new gun, and run back to the fight.
->>>>>>> Sure, but then you have mecha that are dependent on wheeled logistics to be able to fight.  At this point you've lost much of the benefit of the mech's go-anywhere legged design, and you have a critical point of vulnerability in your weapons platform.  The enemy can now soft-kill the mech, just by finding and destroying its logistics train.  Which means you now need to send forces to protect the logistics train, which jacks up the effective cost of the mech in terms of both money and materiel, and reduces the tactical flexibility you gain from it, since it ties up other forces.
-
->>>>>>> But, sure, maybe handheld weapons are totally the way to go because mecha need huge flexibility.  I doubt it though; for the money you would spend having highly flexible hand-carried weapon mecha, you could buy a bunch more simpler mecha of various specialized kinds...or just a whole lot of tanks and planes.
 >>>>>>> 
+>>>>>>> Sure, but then you have mecha that are dependent on wheeled logistics to be able to fight.  At this point you've lost much of the benefit of the mech's go-anywhere legged design, and you have a critical point of vulnerability in your weapons platform.  The enemy can now soft-kill the mech, just by finding and destroying its logistics train.  Which means you now need to send forces to protect the logistics train, which jacks up the effective cost of the mech in terms of both money and materiel, and reduces the tactical flexibility you gain from it, since it ties up other forces.
+>>>>>>> 
+>>>>>>> But, sure, maybe handheld weapons are totally the way to go because mecha need huge flexibility.  I doubt it though; for the money you would spend having highly flexible hand-carried weapon mecha, you could buy a bunch more simpler mecha of various specialized kinds...or just a whole lot of tanks and planes.
 
-> **u/None** [+7] *
+> **u/None** [+8]  (an hour later)
 > 
 > You really have to ask?
-> ETA: Our amazing worldbuilder /u/krakonfour did some work with mechas in his Iron Giant setting. The series of links is [here](http://www.reddit.com/r/rational/comments/2cmtk3/krakonfours_rational_workshop/). Maybe give it a read, AO.
 > 
+> ETA: Our amazing worldbuilder /u/krakonfour did some work with mechas in his Iron Giant setting. The series of links is [here](http://www.reddit.com/r/rational/comments/2cmtk3/krakonfours_rational_workshop/). Maybe give it a read, AO.
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (a day later)
 >> 
 >> I gave it a read, while it's cool It's not what I was looking for.
->> 
 
-> **u/Vebeltast** [+6]  *You should have expected the bayesian inquisition!**
+> **u/Vebeltast** [+6]  *You should have expected the bayesian inquisition!* (2 days later)
 > 
 > The biggest thing to take into account: realistic mecha aren't heavy armor. Instead, they're light, stealthy, mobile urban assault forces. Basically, think ground helicopter.
-> A mecha can't move as fast as a tank across flat ground, in the same way that a helicopter can't go in a straight line as fast as a fixed-wing aircraft. They can't carry as much payload, they are less efficient, and they aren't anywhere near as durable.
-> However, mecha are far more maneuverable, particularly in the ways that let you dodge behind buildings or pop up and down behind a small hill. A pile of rubble, like you'd get from a destroyed building, is an insurmountable obstacle to anything on wheels or tracks but a wide-open highway to a mecha. Balancing and crouching (shorter levers) means they can hugely vary their carrying capacity, which when combined with hands (built-in cargo cranes) lets them engage a wide variety of threats.
-> A typical engagement against a mecha will have it running down cross streets so that it can appear in random places to toss a single missile from its external rack and then disappear back into the mess to find another place to hit you. If anything big enough to whack it gets line of effect, it'll dodge down another street or into a building and run away. If you change what you're using to hunt it, it'll grab a weapons cache that it carried in before it engaged and come back with weapons that counter your hunters.
 > 
+> A mecha can't move as fast as a tank across flat ground, in the same way that a helicopter can't go in a straight line as fast as a fixed-wing aircraft. They can't carry as much payload, they are less efficient, and they aren't anywhere near as durable.
+> 
+> However, mecha are far more maneuverable, particularly in the ways that let you dodge behind buildings or pop up and down behind a small hill. A pile of rubble, like you'd get from a destroyed building, is an insurmountable obstacle to anything on wheels or tracks but a wide-open highway to a mecha. Balancing and crouching (shorter levers) means they can hugely vary their carrying capacity, which when combined with hands (built-in cargo cranes) lets them engage a wide variety of threats.
+> 
+> A typical engagement against a mecha will have it running down cross streets so that it can appear in random places to toss a single missile from its external rack and then disappear back into the mess to find another place to hit you. If anything big enough to whack it gets line of effect, it'll dodge down another street or into a building and run away. If you change what you're using to hunt it, it'll grab a weapons cache that it carried in before it engaged and come back with weapons that counter your hunters.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> Ok, you are *clever*, and *right*.  The ideal "rational" mecha is basically something almost *Iron Man*-like, or about the size of the plain (uncombined) Lagann: fundamentally a design for nimble but mighty urban warfare in situations where "firebomb the site from the air" just doesn't work (usually for political reasons).
->> I can now see a mecha series about the future occupation of Iraq.
 >> 
+>> I can now see a mecha series about the future occupation of Iraq.
 
->>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>> **u/VorpalAuroch** [+3]  *Life before Death* (2 days later)
 >>> 
 >>> For more dangerous(/SPIDERS) territory, the Israel/Palestinian war fought via mecha.
->>> For a technical note, as you might already be aware the Iron Man model is implausible because it needs to violate conservation of momentum in order to not hurt the human wearing it. The smallest you can plausibly go is about twice the size of the reassembled armor Stane uses in the first movie. This can be overridden if you have it as a remote-piloted humanoid drone, which has its advantages especially in comparatively early stages of robot war adoption since you probably have a bunch of Special Forces around who can use their already-developed instincts to pilot them.
->>> This also puts it at about twice the size of Lagann, I think. The pinballing effect it has would be a problem even if it was less cartoonishly exaggerated.
 >>> 
+>>> For a technical note, as you might already be aware the Iron Man model is implausible because it needs to violate conservation of momentum in order to not hurt the human wearing it. The smallest you can plausibly go is about twice the size of the reassembled armor Stane uses in the first movie. This can be overridden if you have it as a remote-piloted humanoid drone, which has its advantages especially in comparatively early stages of robot war adoption since you probably have a bunch of Special Forces around who can use their already-developed instincts to pilot them.
+>>> 
+>>> This also puts it at about twice the size of Lagann, I think. The pinballing effect it has would be a problem even if it was less cartoonishly exaggerated.
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (2 days later)
 >>>> 
 >>>> Oh man, I would love to see the Israel/Palestine conflict done with mechas. But I have to imagine that the number of people who could tell a complex story involving giant mechas is pretty low, let alone one that involves a real-world conflict.
->>>> 
 
->>>> **u/OffColorCommentary** [+1] *
+>>>> **u/OffColorCommentary** [+1]  (22 days later)
 >>>> 
 >>>> (Yeah I'm a month late to this party)
->>>> Isn't the Iron Man model plausible if you lower your expectations?  I imagine armor that's just designed to keep up with the human inside it, not improving their speed at all, but doing all the carrying for them.  They could be well-armored against regular bullets, and not bother trying to stop anti-tank stuff because conservation of momentum would kill the pilot anyway.  Even if the end result is less powerful than a tank, you could fit more of them in a space than tanks, so the available concentration of firepower is higher.  And they can go into buildings.
 >>>> 
+>>>> Isn't the Iron Man model plausible if you lower your expectations?  I imagine armor that's just designed to keep up with the human inside it, not improving their speed at all, but doing all the carrying for them.  They could be well-armored against regular bullets, and not bother trying to stop anti-tank stuff because conservation of momentum would kill the pilot anyway.  Even if the end result is less powerful than a tank, you could fit more of them in a space than tanks, so the available concentration of firepower is higher.  And they can go into buildings.
 
->>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>> **u/VorpalAuroch** [+1]  *Life before Death* (22 days later)
 >>>>> 
 >>>>> A big part of the usefulness of tanks is that they are mobile in a way pure-strength-armor wouldn't be. It's not useless, but it would have a pretty different role from tanks; more like turning ordinary infantry to elite infantry.
->>>>> 
 
-> **u/ArmokGoB** [+6] *
+> **u/ArmokGoB** [+4]  (an hour later)
 > 
 > Sensibly designed mechs. Not giant mechanical humans or even animals, but tanks made for some different kind of warfare they are then shown of in; for the most mechlike results, probably climbing and jumping around in/on skyscrapers, forest canopies, and mountains far to steep for rolling-type locomotion.
-> 
 
->> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+5]  *Ankh-Morpork City Watch* (6 hours later)
 >> 
 >> Muv-Luv had a fairly reasonable Mech-usage-case explanation - basically, they were fighting enemies that had extremely powerful weaponry that took a little while to target things, so higher mobility and the ability to move in and out of cover rapidly was required (which treaded vehicles couldn't provide in sufficient usefulness). 
->> As a bonus for rationalist fiction: [Spoiler for explanation of major plot points](#s " the alien invading enemies are essentially tools of a badly written semi-paperclipper non-recursively-improving but badly programmed AI created by silicon life-forms to harvest the universe for materials for their own use, and the AI doesn't recognize carbon-based life as a possibility - it's basically viewing casualties etc as hostile environmental conditions.")
 >> 
+>> As a bonus for rationalist fiction: [Spoiler for explanation of major plot points](#s " the alien invading enemies are essentially tools of a badly written semi-paperclipper non-recursively-improving but badly programmed AI created by silicon life-forms to harvest the universe for materials for their own use, and the AI doesn't recognize carbon-based life as a possibility - it's basically viewing casualties etc as hostile environmental conditions.")
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (3 hours later)
 >> 
 >> That's exactly what I was thinking.
->> 
 
->> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler**
+>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler* (4 hours later)
 >> 
 >> Low gravity, high maneuver areas. Or to interact with the tools of gigantic alien bipeds. Like, for example, their oversized hand weapons and ship controls. The only other clear use for bipedal giant robot tanks is their ability to employ arms as gigantic levers and cranes in hard to reach combat areas. Still, need some super materials to make it all work.
->> 
 
-> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+5]  *sci-fi ≠ futurology* (2 hours later)
 > 
 > Some reasoning behind the shapes of the mecha. Human-shaped robots if you can get away with them, legged tanks if you can't.
-> 
 
-> **u/Traiden04** [+3] *
+> **u/Traiden04** [+3]  (8 hours later)
 > 
 > I would recommend Patlabor, this would be right up the ally of many people here I should think. Its focus is on a police department set up specifically to handle mecha crimes using mecha of their own. 1988 anime series and quite surprising for its time.
-> 
 
->> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!**
+>> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!* (18 hours later)
 >> 
 >> Seconding this. So far on my second episode, and the story and technology is fairly reasonable. 
 >> [Spoilers] (#s "first visible conflict is about a drunken construction worker, and the second is about a rival mech company stealing a prototype for research purposes") 
->> EDIT: Traiden feel free to post this as a new thread, i think this can be given an AOK for this subreddit.
 >> 
+>> EDIT: Traiden feel free to post this as a new thread, i think this can be given an AOK for this subreddit.
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (an hour later)
 > 
 > Check [this](http://youtu.be/dVMEjDL2fbI?list=PLNC_sRuPtMonAOP46gqW9Q6E4ESFmum6d) out. I think it's a pretty good deconstruction of a lot of things, giant robots not really being one of them.
-> Mostly freedom fighters, terrorism, and colonialism.
 > 
+> Mostly freedom fighters, terrorism, and colonialism.
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (2 hours later)
 >> 
 >> I saw that the first time it was posted here. Shame there aren't more episodes.
->> 
 
->>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>> **u/traverseda** [+1]  *With dread but cautious optimism* (7 hours later)
 >>> 
 >>> It does consistently update. but yeah.
->>> 
 
-> **u/mack2028** [+2] *
+> **u/mack2028** [+2]  (3 hours later)
 > 
 > yes. if i may pose a thought, perhaps the reason for the robots being shaped like people is that hands are a good multi purpose platform and when you are building a large war machine you want to make it easy to use, a neural interface would be easy but perhaps unsettling and clumsy if you make the robot not human shaped.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> > hands are a good multi purpose platform
->> Yeah they are.  That's why you should attach them to giant spiders.
 >> 
+>> Yeah they are.  That's why you should attach them to giant spiders.
 
->>> **u/mack2028** [+1] *
+>>> **u/mack2028** [+1]  (2 days later)
 >>> 
 >>> if you recall i had a number of reasons listed there for why human mechs may be more useful but if we are talking about ideals of military efficiency why stick to one thing, wolf with human hands and scorpion pincers and tail.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (2 days later)
 >>>> 
 >>>> Better would probably be something spider-like with turreted  weapons on its top, underside, and edges.  If it wanted to bring mass firepower to bear, it would bend so that its hull was perpendicular to the ground, bringing edge and top weapons to bear.  If it wanted to go hull-down it would spread its legs wider to bring its center of mass down.  And so on.  Put hands on the ends of the legs and you're good to go.
->>>> 
 
->>>>> **u/mack2028** [+1] *
+>>>>> **u/mack2028** [+1]  (2 days later)
 >>>>> 
 >>>>> options, it does trade utility for speed which may be optimal in some situations but not in others. perhaps there would be lots of different models that would work together supporting eachother.
->>>>> 
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (3 hours later)
 >> 
 >> That's been the most common reason, that humanoid mechs are easier for the pilot to "synchronize" with, but I'm personally not such a big fan of them so they won't be as significant.
->> 
 
-> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (a day later)
 > 
 > My personal preference is towards super robots, so my opinion probably won't be too helpful here. For what it's worth, I don't really want to try to justify mechas at all; I'd probably try to sidestep the whole issue by setting the story in, say, a virtual-reality videogame simulation or something artificially constructed like that.
-> On the other hand, 'rational' doesn't always mean 'coheres to what we know about physics'- focusing on the problem-solving and analytical aspects could be just as interesting. For example, a story in which the mechas being piloted are actually stages of an alien organism's life-cycle might provide an interesting puzzle for our protagonists to slowly unravel. (This is actually an idea I've had for a long time, and I could go into more detail on this particular puzzle-setting idea if people want.)
-> Anyways: at the furthest end of realism is basically the story of a tank crew trying to survive in a battlefield. Choose how unrealistic you want to be by your own discretion, I suppose.
 > 
+> On the other hand, 'rational' doesn't always mean 'coheres to what we know about physics'- focusing on the problem-solving and analytical aspects could be just as interesting. For example, a story in which the mechas being piloted are actually stages of an alien organism's life-cycle might provide an interesting puzzle for our protagonists to slowly unravel. (This is actually an idea I've had for a long time, and I could go into more detail on this particular puzzle-setting idea if people want.)
+> 
+> Anyways: at the furthest end of realism is basically the story of a tank crew trying to survive in a battlefield. Choose how unrealistic you want to be by your own discretion, I suppose.
 
->> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (a day later)
 >> 
 >> Heh, everybody's all like "Make the mechs actually aliens, it'll be a great twist!"
->> It won't if everyone's asking for it, you dolts!
->> OT, there's no aliens in this universe. Humans are bad enough for me.
 >> 
+>> It won't if everyone's asking for it, you dolts!
+>> 
+>> OT, there's no aliens in this universe. Humans are bad enough for me.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (2 days later)
 >> 
 >> Making them aliens seems tricky to me, as you run into square-cube problems.  If it's organic it can't be that big and if it's silicon- or something else-based then it's not going to be particularly nimble.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/CannedRealm *
 * URL: https://www.reddit.com/r/rational/comments/2uuhh7/ff_super_short_worm_omake_spoilers_worm_all/
-* Score: 31
+* Score: 34
 
 * Created: 2015-02-05T06:17:28
 
@@ -35,82 +35,75 @@ For the first time since Zion had lost his mate he felt hope.
 
 ### Comments:
 
-> **u/TimTravel** [+13] *
+> **u/TimTravel** [+13]  (10 hours later)
 > 
 > Hahaha Skitter / Scion OTP
-> For real though I was surprised how the breeding relay bugs didn't come into play in canon.
 > 
+> For real though I was surprised how the breeding relay bugs didn't come into play in canon.
 
->> **u/gabbalis** [+1] *
+>> **u/gabbalis** [+1]  (18 hours later)
 >> 
 >> Ah yes the S.S. Armadillidium.
->> Haha I'm clever.
 >> 
+>> Haha I'm clever.
 
->>> **u/TimTravel** [+2] *
+>>> **u/TimTravel** [+2]  (19 hours later)
 >>> 
 >>> ?
->>> 
 
->>>> **u/gabbalis** [+4] *
+>>>> **u/gabbalis** [+4]  (19 hours later)
 >>>> 
 >>>> Armadillidium vulgare is the name of the common pillbug, or potato bug. Scion is a potato and skitter does bugs. QED the Ship for Scion x Skitter should be called the S.S. Armadillidium.
->>>> 
 
->>>>> **u/TimTravel** [+4] *
+>>>>> **u/TimTravel** [+4]  (19 hours later)
 >>>>> 
 >>>>> Why is Scion a potato?
->>>>> 
 
-> **u/Protikon** [+12]  *very model of a singularitarian**
+> **u/Protikon** [+11]  *very model of a singularitarian* (2 hours later)
 > 
 > /r/parahumans
-> 
 
-> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+8]  *put aside fear for courage, and death for life* (17 hours later)
 > 
 > Ah, the [S-class Undersiders](http://forums.spacebattles.com/posts/11517520/) rise again!  
-> > Skitter – “I am the Swarm”. It is a widely known fact that for humans, telepathy is impossible – human brain is just incapable of processing information quickly enough, and in large enough quantities for such a feat to become possible. An average human brain holds close to eighty five trillion neurons, that form close to 1014 synapses. An average bee has almost a million neurons, and a billion synapses. And where in a human all those connections process one set of information, each bee sees, hears, smells and feels something different, acts according to different situations. To control a swarm of a million bees, to wield the power over the invertebrate world hidden in the unseen cracks of our environment, to see from a million faceted eyes and hear a billion different sounds – for a human mind, that should be ten times, a thousand times as impossible as telepathy is. And yet, it isn’t. Maybe because she isn’t human? In that primordial sense that separated kings from gods, she is the latter – for to her, the bugs are “I”, not “mine”. Every single beetle and bug that can hear her call – they are her, and, having heard her call resonating within the depths of their beings, they spread it forward, covering the whole world. She is the one that listens to the birds singing in the Jungles of Amazonia, and the bug crawling through the ventilation shafts in secret Russian research center – everywhere on the planet, all at once, hearing, watching, acting.
-> > *I just ran some calculations on how plausible her ability was in the world where telepathy is too computationally demanding, and said that the cloud-processing was the way to go. And because it was cloud-processing, instead of sending command and getting signals, each bug would work as the relay, which leads to an exponential spread of coverage, till it covers the whole planet some few hours later. And with each new bug in the net, she'd become a little bit smarter, a little bit more capable of multitasking and will get a little more different. In the end, the body would be an afterthought, a node in the network, a power-source maybe, or an access terminal. But the real Taylor would be the swarm, spread all over the world, looking thorugh a quintillion eyes, listening to millions of conversations and thinking unfathomable, incomprehensible thoughts.*
 > 
+> > Skitter – “I am the Swarm”. It is a widely known fact that for humans, telepathy is impossible – human brain is just incapable of processing information quickly enough, and in large enough quantities for such a feat to become possible. An average human brain holds close to eighty five trillion neurons, that form close to 1014 synapses. An average bee has almost a million neurons, and a billion synapses. And where in a human all those connections process one set of information, each bee sees, hears, smells and feels something different, acts according to different situations. To control a swarm of a million bees, to wield the power over the invertebrate world hidden in the unseen cracks of our environment, to see from a million faceted eyes and hear a billion different sounds – for a human mind, that should be ten times, a thousand times as impossible as telepathy is. And yet, it isn’t. Maybe because she isn’t human? In that primordial sense that separated kings from gods, she is the latter – for to her, the bugs are “I”, not “mine”. Every single beetle and bug that can hear her call – they are her, and, having heard her call resonating within the depths of their beings, they spread it forward, covering the whole world. She is the one that listens to the birds singing in the Jungles of Amazonia, and the bug crawling through the ventilation shafts in secret Russian research center – everywhere on the planet, all at once, hearing, watching, acting.
+> 
+> > *I just ran some calculations on how plausible her ability was in the world where telepathy is too computationally demanding, and said that the cloud-processing was the way to go. And because it was cloud-processing, instead of sending command and getting signals, each bug would work as the relay, which leads to an exponential spread of coverage, till it covers the whole planet some few hours later. And with each new bug in the net, she'd become a little bit smarter, a little bit more capable of multitasking and will get a little more different. In the end, the body would be an afterthought, a node in the network, a power-source maybe, or an access terminal. But the real Taylor would be the swarm, spread all over the world, looking thorugh a quintillion eyes, listening to millions of conversations and thinking unfathomable, incomprehensible thoughts.*
 
->> **u/Cruithne** [+1]  *Light Sith epistemologist**
+>> **u/Cruithne** [+1]  *Light Sith epistemologist* (20 hours later)
 >> 
 >> Well she isn't human. She's parahuman.
->> Also, that's some nice eloquence you got there.
 >> 
+>> Also, that's some nice eloquence you got there.
 
-> **u/MadScientist14159** [+5]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+7]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (12 hours later)
 > 
 > /r/wormfanfic
-> 
 
-> **u/noggin-scratcher** [+3]  *I am a happy tree**
+> **u/noggin-scratcher** [+4]  *I am a happy tree* (9 hours later)
 > 
 > >the genesis of a new entity
-> To transcribe a thought, more or less as it was in my head on reading that: "Ohhhhhhhhh, shit, *yes*"
 > 
+> To transcribe a thought, more or less as it was in my head on reading that: "Ohhhhhhhhh, shit, *yes*"
 
-> **u/lucyfur919** [+2]  *Chaos Legion**
+> **u/lucyfur919** [+2]  *Chaos Legion* (13 hours later)
 > 
 > This made me waaaaay happier than it should.
-> 
 
-> **u/Rhamni** [+2]  *Aspiring author**
+> **u/Rhamni** [+2]  *Aspiring author* (13 hours later)
 > 
 > And a happy ending for Scion, too. How sweet.
-> But yeah, the relay bug thing had some problems in canon.
 > 
+> But yeah, the relay bug thing had some problems in canon.
 
-> **u/Nighzmarquls** [+1] *
+> **u/Nighzmarquls** [+1]  (a day later)
 > 
 > That is SO CUTE
-> 
 
-> **u/rilianus** [+1] *
+> **u/rilianus** [+1]  (2 days later)
 > 
 > Well, now I want a fic to be made out of this - seriously this is gold. Keep up your awesome writing! :)
-> 
 
 ---
 

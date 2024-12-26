@@ -2,7 +2,7 @@
 
 * Author: u/PresentCompanyExcl  *The Culture**
 * URL: https://transformer.huggingface.co/
-* Score: 23
+* Score: 25
 
 * Created: 2019-06-24T00:51:24
 
@@ -12,32 +12,32 @@
 
 ### Comments:
 
-> **u/alexanderwales** [+16]  *Time flies like an arrow**
+> **u/alexanderwales** [+15]  *Time flies like an arrow* (2 hours later)
 > 
 > Tried this on a few upcoming scenes from *Worth the Candle*. Most of it isn't all that useful, as a writer. I think in the current configuration, it would probably mostly help as an unblocker, or maybe a push in some different direction. I didn't find anything that I would keep as an actual next sentence (or sentence fragment), even when testing on descriptive paragraphs, where I would naively think it would be the most useful (e.g. describing the salient features of a room, or helping to set a scene).
-> 
 
->> **u/iftttAcct2** [+11] *
+>> **u/iftttAcct2** [+11]  (7 hours later)
 >> 
 >> After some thought, I imagine by "unblocker" you meant to help with writer's block. 
->> But my first (horrified) thought on reading was that this could be the next phase of Captcha... Completing sentence fragments with internal consistency in order to train this thing's AI.
 >> 
+>> But my first (horrified) thought on reading was that this could be the next phase of Captcha... Completing sentence fragments with internal consistency in order to train this thing's AI.
 
->>> **u/aponty** [+1] *
+>>> **u/aponty** [+1]  (6 days later)
 >>> 
 >>> So much freely available sentence-completion data already exists that I don't foresee anyone ever using captia as a data generation method in this domain.
->>> 
 
->> **u/PresentCompanyExcl** [+3]  *The Culture**
+>> **u/PresentCompanyExcl** [+3]  *The Culture* (3 hours later)
 >> 
 >> Interesting! I wonder if it would be better if it was trained on your style, or modifying a seed text (which may make it stay closer to your style). Perhaps not though.
->> Maybe you could up the noise and use it to represent an antimeme (or whatever the correct term is) or a locus in the book . [Some poets used a similar method to make some poetry](https://docs.google.com/document/d/1aX8yafxFtUt3QvLfyaL0VL3YGejGhpNDIeZu_S-oNKk/edit?usp=sharing), and result is interesting. However, I think this applications easier since they were exploring a much less constrained space. In the end, though, it's easy to generate nonsense, and there are many ways to do it.
->> Overall it's likely just a fun toy.
 >> 
+>> Maybe you could up the noise and use it to represent an antimeme (or whatever the correct term is) or a locus in the book . [Some poets used a similar method to make some poetry](https://docs.google.com/document/d/1aX8yafxFtUt3QvLfyaL0VL3YGejGhpNDIeZu_S-oNKk/edit?usp=sharing), and result is interesting. However, I think this applications easier since they were exploring a much less constrained space. In the end, though, it's easy to generate nonsense, and there are many ways to do it.
+>> 
+>> Overall it's likely just a fun toy.
 
->> **u/PresentCompanyExcl** [+2]  *The Culture**
+>> **u/PresentCompanyExcl** [+2]  *The Culture* (9 days later)
 >> 
 >> I tried training GPT2 directly on WtC to see how the generated text would look, here's a sample. I used [gpt-2-simple in colab](https://github.com/minimaxir/gpt-2-simple), and the 345Mb model. Let me know if you would like to see more samples or have a play (I can set up a notebook). I'm just a fan of your writing, and curious how writers might use this (if it's useful at all).
+>> 
 >> > [200 | 17992.61] loss=2.92 avg=2.63
 >> >
 >> > ======== SAMPLE 1 ========
@@ -77,64 +77,71 @@
 >> > Fenn gave me an exasperated look. “It makes sense!”
 >> > 
 >> > “Oh,” said Amaryllis. “You’re really not helping yourself to
->> Yup that looks like WtC nonsense to me :p
-
->> > **Alexander Wales**] had been the consummate gentleman. I forgot that he was a wizard, and I had to do some extra work on him to get him to say yes to something, but the thing that I liked most about him was that he had a good heart. I had no idea what his status was in the Order of the Phoenix. Maybe it was because I had to keep a close eye on him, but I knew enough of his story to know that it was preposterous.
->> > “He’s in great shape,” said Fenn. “I’ve never seen him in pain, not even when I was in the process of casting.”
->> > “It’s not that,” said Amaryllis. “It’s the fact that he’s a wizard.”
->> > “It’s a problem,” said Fenn. “It’s complicated, and the solution is to get rid of the problem.”
->> > “I’ll be very happy to help,” said Amaryllis.
->> > and that was that. I didn’t want
 >> 
+>> Yup that looks like WtC nonsense to me :p
+>> 
+>> > **Alexander Wales**] had been the consummate gentleman. I forgot that he was a wizard, and I had to do some extra work on him to get him to say yes to something, but the thing that I liked most about him was that he had a good heart. I had no idea what his status was in the Order of the Phoenix. Maybe it was because I had to keep a close eye on him, but I knew enough of his story to know that it was preposterous.
+>> 
+>> > “He’s in great shape,” said Fenn. “I’ve never seen him in pain, not even when I was in the process of casting.”
+>> 
+>> > “It’s not that,” said Amaryllis. “It’s the fact that he’s a wizard.”
+>> 
+>> > “It’s a problem,” said Fenn. “It’s complicated, and the solution is to get rid of the problem.”
+>> 
+>> > “I’ll be very happy to help,” said Amaryllis.
+>> 
+>> > and that was that. I didn’t want
 
->>> **u/PresentCompanyExcl** [+1]  *The Culture**
+>>> **u/PresentCompanyExcl** [+1]  *The Culture* (9 days later)
 >>> 
 >>> More https://pastebin.com/diHKFks2
->>> 
 
->> **u/ashinator92** [+1] *
+>> **u/ashinator92** [+1]  (a day later)
 >> 
 >> Full Gpt-2 might do better. I think someone is releasing it independently of the Open AI folks on July 1, after which it will soon spread. maybe retry it then.
->> 
 
->>> **u/aponty** [+2] *
+>>> **u/aponty** [+2]  (6 days later)
 >>> 
 >>> I thought they also became convinced that releasing it would be a bad idea, as it would set a bad precedent for future dual-use models?
->>> 
 
->>>> **u/ashinator92** [+1] *
+>>>> **u/ashinator92** [+1]  (7 days later)
 >>>> 
 >>>> Link?
->>>> 
 
->>>>> **u/aponty** [+2] *
+>>>>> **u/aponty** [+2]  (7 days later)
 >>>>> 
 >>>>> [https://medium.com/@NPCollapse/the-hacker-learns-to-trust-62f3c1490f51](https://medium.com/@NPCollapse/the-hacker-learns-to-trust-62f3c1490f51)
->>>>> 
 
->>>>>> **u/ashinator92** [+1] *
+>>>>>> **u/ashinator92** [+1]  (8 days later)
 >>>>>> 
 >>>>>> Hey you're right! Thanks for sharing :)
->>>>>> 
 
-> **u/PresentCompanyExcl** [+7]  *The Culture**
+> **u/PresentCompanyExcl** [+8]  *The Culture* (3 minutes later)
 > 
 > This is a writing tool made by hugging face, it autocompletes your writing. Behind the scenes is the OpenAI GPT-2 model that's been in the news recently (the public medium size version). 
+> 
 > It's a glimpse of some of the writing tools that will be produced by the latest wave of machine learning + text advances, which are quickly exceeding human performance (see the [GLUE/SUPERGLUE leaderboard](https://gluebenchmark.com/leaderboard)).
+> 
 > Some more features we are likely to see in future are 
+> 
 > - completions trained on a certain style, e.g. "complete this as JK Rowling". Similar to Gwerns poetry generation.
 > - rewriting/editing (see [Levenstein transformers paper](https://arxiv.org/abs/1905.11006)),
 > - better grammar checkers (Grammarly have published quite a bit), 
 > - and eventually style tansfer is likely (this is a more challanging application thant text generaiton, and it's early days yet but see [grammerly's paper with informal=>formal translation](https://arxiv.org/abs/1803.06535)).
+> 
 > If you're interested in this kind of thing keep an eye on huggingface, they are making some really great NLP tools using the latest techniques (I'm not affiliated in any way).
+> 
 > Be aware that the site may not be up forever since it takes them [$24/hour to run on a AWS p3.16xlarge instance](https://twitter.com/julien_c/status/1139208397579051009). It may also suffer from the hug of death since it's not auto-scaling.
+> 
 > More:
+> 
 > - [Producthunt page](https://www.producthunt.com/posts/write-with-artificial-intelligence)
 > - [Creators twitter thread with slider explanation](https://twitter.com/julien_c/status/1139166340684681216)
 > - [subreddit with similar tools /r/MachinesWrite](https://old.reddit.com/r/MachinesWrite)
-> Personally, I do machine learning freelancing for companies, and also look at my own startup ideas (currently comment moderation applications). So I'm interested in people's thoughts on this as a writing tool, especially from those amazing people who actually write (unlike me who just consumes other peoples' writing).
-> Hopefully writing tools are on-topic for this subreddit, otherwise, I'll move this to a weekly thread.
 > 
+> Personally, I do machine learning freelancing for companies, and also look at my own startup ideas (currently comment moderation applications). So I'm interested in people's thoughts on this as a writing tool, especially from those amazing people who actually write (unlike me who just consumes other peoples' writing).
+> 
+> Hopefully writing tools are on-topic for this subreddit, otherwise, I'll move this to a weekly thread.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/fj7qyk/pyrebound_132/
-* Score: 22
+* Score: 19
 
 * Created: 2020-03-15T20:16:59
 
@@ -16,20 +16,17 @@ Probably everyone knows PB by now.  The world is a neverending series of disaste
 
 ### Comments:
 
-> **u/Brell4Evar** [+2] *
+> **u/Brell4Evar** [+2]  (38 minutes later)
 > 
 > If it >!gets you stabbed in the gut with a sword!<, how good of a plan can it be?
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (an hour later)
 >> 
 >> >!If you recover in a few minutes, is getting stabbed in the guts really that bad?!<  Ram's plan went very well, by plans-in-Pyrebound standards.
->> 
 
->>> **u/Brell4Evar** [+1] *
+>>> **u/Brell4Evar** [+1]  (2 hours later)
 >>> 
 >>> I'll admit it did, but of course he will still get grief for it.
->>> 
 
 ---
 

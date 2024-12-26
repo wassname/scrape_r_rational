@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/pownyan** [+2] *
+> **u/pownyan** [+2]  (an hour later)
 > 
 > Any recommendations?
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/intips/wip_the_new_humans_chapter_ninety_four_cloudsong/
-* Score: 7
+* Score: 6
 
 * Created: 2020-09-06T20:40:05
 
@@ -16,10 +16,9 @@ Thank you.
 
 ### Comments:
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (20 days later)
 > 
 > Next chapter draft done.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.royalroad.com/fiction/22559/on-snowy-shores/chapter/375707/interlude-1b-summoning
-* Score: 5
+* Score: 6
 
 * Created: 2019-06-25T12:31:40
 

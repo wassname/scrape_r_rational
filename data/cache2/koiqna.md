@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.fanfiction.net/s/9794740/88/Pokemon-The-Origin-of-Species
-* Score: 122
+* Score: 126
 
 * Created: 2021-01-01T20:47:05
 
@@ -12,369 +12,391 @@
 
 ### Comments:
 
-> **u/DaystarEld** [+43]  *Pokémon Professor**
+> **u/DaystarEld** [+45]  *Pokémon Professor* (25 seconds later)
 > 
 > Happy New Year everyone! Sorry to anyone east of Moscow for the late post, it's been a busy week. Vaccines are finally being distributed, so I hope everyone can stay safe long enough to get theirs. We're almost through!
-> 
 
->> **u/Sir_William_V** [+15] *
+>> **u/Sir_William_V** [+15]  (33 minutes later)
 >> 
 >> Happy New Year to you too! And thank you for sticking with this story over the years!
->> 
 
->> **u/xkcloud** [+9] *
+>> **u/xkcloud** [+7]  (8 hours later)
 >> 
 >> Hey, happy new year! Thanks for always writing this story which always gives me something to look forward to at the beginning of each month.
->> 
 
->> **u/PDNeznor** [+4] *
+>> **u/PDNeznor** [+5]  (5 hours later)
 >> 
 >> Happy12021 everyone! You all gave my well wishes, lets survive another year together, just like we've always done.
->> 
 
-> **u/partner555** [+31] *
+> **u/partner555** [+35]  (2 hours later)
 > 
 > Whelp, they're in trouble. That was tense the whole chapter since you made clear Ghosts are just so different from every other Pokemon. I'm going to make the prediction that the Pokemon here is a Spiritomb since it's one of four Ghosts that have Pressure, and I'm excluding Giratina since it's a Legendary and Dusclops and Dusknoir since they aren't Dark types and therefore not something the other Ghost types should be extra afraid of.
-> 
 
->> **u/DiscreteDisco** [+24] *
+>> **u/DiscreteDisco** [+23]  (15 hours later)
 >> 
 >> Yeah I was also thinking that Spiritomb sounds very likely. It explains
+>> 
 >> 1. why other ghosts fear it
 >> 2. the pressure-like effect
 >> 3. (possibly) why so many ghosts disappeared. In canon Spiritomb are formed from 108 spirits trapped in a stone. So depending on how that is interpreted in this story, it's possible that it's a collection of 108 previous ghost pokémon. Which would explain how so many ghosts disappeared without anyone noticing them leaving. And if it also becomes \~108x as powerful as an individual ordinary ghost pokémon it's formed from, the gang is in deep shit.
->> One further thing I'm unsure about is the fact that it seemingly trapped Jason. I first interpreted it as the Shadow Tag ability (which prevents pokémon from fleeing or switching out). But it seems like mega Gengar is the only ghost or dark that can learn that, so unless someone had mineralized gengar and the Groudon orb laying around in the tower, that seems unlikely. So I'm guessing that it's just that the pokémon's attack was really strong. Or maybe it's that Jason's mirroring approach to connecting to the Spiritomb backfired and caused him to believe that he was trapped similar to how the Spiritomb is trapped in the key-stone. That sounds like a bit of a stretch though.
 >> 
+>> One further thing I'm unsure about is the fact that it seemingly trapped Jason. I first interpreted it as the Shadow Tag ability (which prevents pokémon from fleeing or switching out). But it seems like mega Gengar is the only ghost or dark that can learn that, so unless someone had mineralized gengar and the Groudon orb laying around in the tower, that seems unlikely. So I'm guessing that it's just that the pokémon's attack was really strong. Or maybe it's that Jason's mirroring approach to connecting to the Spiritomb backfired and caused him to believe that he was trapped similar to how the Spiritomb is trapped in the key-stone. That sounds like a bit of a stretch though.
 
->>> **u/Wun_Weg_Wun_Dar__Wun** [+12] *
+>>> **u/Wun_Weg_Wun_Dar__Wun** [+12]  (4 days later)
 >>> 
 >>> A bit late to the party, but I'll weigh in.
->>> The chapter really tries to emphasize how Ghost Types are different from other Pokemon - how strange and altered their minds and perceptions are. 
->>> The chapter also makes the point of emphasizing how whatever new Pokemon is coming to get them is actively suicidal.
->>> My theory is that, if it really is a Spiritomb, the 108 Ghost Pokemon it is formed from are still somewhat conscious (in their own strange way) within the 'collective'. They are 'trapped' together in the key-stone, forced into a single form. Jason's mirroring technique backfired because it ended up convincing him that he was also just one more spirit trapped in the collective.
->>> This is why the Spiritomb is actively suicidal. Its constitutive 'parts' want to be free and separate again, and so might be instinctively seeking the destruction of the collective as a way to achieve this. 
->>> I also think that, in this setting, Spiritomb is not going to be a natural occurrence - its the result of some humans (maybe mediums? I kind of want the story to explore their 'culture' a bit more) who figured out how to jam multiple ghost types together into a 'key stone', only for their prototype to grow a bit too strong for whatever control mechanisms they thought would be sufficient. 
->>> They could even throw in an element of AI Safety - maybe the Spiritomb keeps on attacking and adding more and more spirits to its collective (explaining the flight of every Ghost Type not yet assimilated), and even its creators don't know how large or powerful the collective might get; this could be a problem that has to be stopped right here and right now. This would be an easy way to introduce the idea of 'super-dangerous, potentially even super-intelligent man-made Pokemon' to the protagonists without making the whole Mewtwo Operation uncharacteristically bad at keeping secrets. And it would add a bit more depth to the world as well - show how more people than just Giovannia are thinking of making their own 'tame' legendaries. While the Psychics were working on Mewtwo in one corner of the map, the Mediums were off by themselves working on Spiritomb.
->>> Of course, all of that is just a theory I cooked up just now. I'm sure what actually ends up happening in the story will be even better.
 >>> 
+>>> The chapter really tries to emphasize how Ghost Types are different from other Pokemon - how strange and altered their minds and perceptions are. 
+>>> 
+>>> The chapter also makes the point of emphasizing how whatever new Pokemon is coming to get them is actively suicidal.
+>>> 
+>>> My theory is that, if it really is a Spiritomb, the 108 Ghost Pokemon it is formed from are still somewhat conscious (in their own strange way) within the 'collective'. They are 'trapped' together in the key-stone, forced into a single form. Jason's mirroring technique backfired because it ended up convincing him that he was also just one more spirit trapped in the collective.
+>>> 
+>>> This is why the Spiritomb is actively suicidal. Its constitutive 'parts' want to be free and separate again, and so might be instinctively seeking the destruction of the collective as a way to achieve this. 
+>>> 
+>>> I also think that, in this setting, Spiritomb is not going to be a natural occurrence - its the result of some humans (maybe mediums? I kind of want the story to explore their 'culture' a bit more) who figured out how to jam multiple ghost types together into a 'key stone', only for their prototype to grow a bit too strong for whatever control mechanisms they thought would be sufficient. 
+>>> 
+>>> They could even throw in an element of AI Safety - maybe the Spiritomb keeps on attacking and adding more and more spirits to its collective (explaining the flight of every Ghost Type not yet assimilated), and even its creators don't know how large or powerful the collective might get; this could be a problem that has to be stopped right here and right now. This would be an easy way to introduce the idea of 'super-dangerous, potentially even super-intelligent man-made Pokemon' to the protagonists without making the whole Mewtwo Operation uncharacteristically bad at keeping secrets. And it would add a bit more depth to the world as well - show how more people than just Giovannia are thinking of making their own 'tame' legendaries. While the Psychics were working on Mewtwo in one corner of the map, the Mediums were off by themselves working on Spiritomb.
+>>> 
+>>> Of course, all of that is just a theory I cooked up just now. I'm sure what actually ends up happening in the story will be even better.
 
->> **u/Sirra-** [+14] *
+>> **u/Sirra-** [+14]  (10 hours later)
 >> 
 >> There were some unknown flying about in this chapter, and they have some connection to Giratina. The new Pokemon is almost certainly not him, but he might be related somehow.
->> 
 
->> **u/xkcloud** [+19] *
+>> **u/xkcloud** [+19]  (6 hours later)
 >> 
 >> Isn't this the ghost marowak from the game? At least, that's what I think it is.
->> 
 
->>> **u/partner555** [+15] *
+>>> **u/partner555** [+14]  (6 hours later)
 >>> 
 >>> They brought up Pressure. I'm not inclined to think it's the Ghost Marowak from the games when no version of Marowak has Pressure.
->>> 
 
->>>> **u/xkcloud** [+10] *
+>>>> **u/xkcloud** [+10]  (8 hours later)
 >>>> 
 >>>> They hypothesized pressure as one of the possibilities. I really doubt Eld would use it as a plot point here once again.
->>>> 
 
->>>>> **u/partner555** [+19] *
+>>>>> **u/partner555** [+19]  (9 hours later)
 >>>>> 
 >>>>> Red and Blue want to deal with the Storm Gods. Finding a way to handle Pressure is one aspect of that. Since it contributes to their overarching goals, I wouldn’t say reusing Pressure is off the table.
->>>>> 
 
->> **u/ManyCookies** [+9] *
+>> **u/ManyCookies** [+9]  (a day later)
 >> 
 >> Spiritomb was mentioned way back in chapter 54 as a poke with suspected pressure, so it’s not new as Jason said:
->> >Reports are incredibly rare, and only a handful of non-legendary pokemon have been suspected, such as spiritomb and weavile.
->> And would Jason even be able to interact with dark types at all? All his spirit medium stuff is still psychic based, right?
 >> 
+>> >Reports are incredibly rare, and only a handful of non-legendary pokemon have been suspected, such as spiritomb and weavile.
+>> 
+>> And would Jason even be able to interact with dark types at all? All his spirit medium stuff is still psychic based, right?
 
->>> **u/partner555** [+5] *
+>>> **u/partner555** [+5]  (2 days later)
 >>> 
 >>> There’s in-universe speculation that the spirit medium stuff could be something different from psychics, but yeah, I could be wrong with the Spiritomb thing.
->>> 
 
->> **u/DavidGretzschel** [+3] *
+>> **u/DavidGretzschel** [+3]  (3 days later)
 >> 
 >> It's a Marowak in the games, though? Maybe an Alolan Marowak?
->> 
 
->>> **u/partner555** [+2] *
+>>> **u/partner555** [+2]  (3 days later)
 >>> 
 >>> As I said above, since Pressure was brought up and no version of Marowak has Pressure, I’m not inclined to think it’s the Ghost Marowak.
->>> 
 
->> **u/Radix2309** [+2] *
+>> **u/Radix2309** [+2]  (a day later)
 >> 
 >> Are Dark people immune to empaths like they are to teeps? I cant recall.
->> 
 
->>> **u/partner555** [+6] *
+>>> **u/partner555** [+5]  (a day later)
 >>> 
 >>> I'm not sure? But if we're going by game mechanics, Dark resists Ghost, so if they're not immune, they can at least resist it to an extent.
->>> 
 
->> **u/rhaps0dy4** [+2] *
+>> **u/rhaps0dy4** [+2]  (2 days later)
 >> 
 >> What if it is just Mewtwo? He has Pressure, he is upset because he lost his tail, and perhaps was hurt by the Unown. He is very strong and a new Pokémon.
->> This seems like the most likely candidate to me, I'm surprised nobody else brought it up.
 >> 
+>> This seems like the most likely candidate to me, I'm surprised nobody else brought it up.
 
->>> **u/DavidGretzschel** [+6] *
+>>> **u/DavidGretzschel** [+5]  (3 days later)
 >>> 
 >>> Cause Mewto does not have pressure, would not know how to eat, scare or deal with ghosts, would not be defined by fear or grief.
 >>> Losing a tail made him more cautious, not suicidal.
+>>> 
 >>> And he has noone to lose that could make him grief, except maybe Sabrina who is fine.
 >>> His last stated motivation was of warning the humans about the Unown threat. So he maybe would want to talk to Artem.
->>> But he could just send him an email, instead of taking over Lavender tower. And it wouldn't explain all the suspicious people around either.
 >>> 
+>>> But he could just send him an email, instead of taking over Lavender tower. And it wouldn't explain all the suspicious people around either.
 
->>>> **u/ManyCookies** [+3] *
+>>>> **u/ManyCookies** [+3]  (3 days later)
 >>>> 
 >>>> >Cause Mewto does not have pressure
->>>> Well not yet, he actually does in-game (That should be a _very_ interesting development)
->>>> >And he has noone to lose that could make him grief,
->>>> Fiji does live in Lavender town.
->>>> (Agreed on the rest. Mewtwo has no particular reason to be on top of the tower pretending to be a ghost, even if he somehow figured out how to do that)
 >>>> 
+>>>> Well not yet, he actually does in-game (That should be a _very_ interesting development)
+>>>> 
+>>>> >And he has noone to lose that could make him grief,
+>>>> 
+>>>> Fiji does live in Lavender town.
+>>>> 
+>>>> (Agreed on the rest. Mewtwo has no particular reason to be on top of the tower pretending to be a ghost, even if he somehow figured out how to do that)
 
->> **u/mewtwoprevails** [+2] *
+>> **u/mewtwoprevails** [+2]  (25 days later)
 >> 
 >> Super-late to this, I just caught up. As another commenter points out, spiritomb has been mentioned before in the series (chapter 54), so it's hard to imagine Jason doesn't recognize one. Plus, if it is at all possible for a medium to communicate with a ghost/dark, I assume he should at least notice that about the pokemon. That's what I think, at least.
->> I'm actually leaning towards this being a Dusknoir. Jason mentions that a sufficiently strong ghost type could threaten other ghosts. Pressure lines up, and dusknoir is supposed to be able to consume spirits through the "mouth" on its belly (explaining the gastly's fear). The series has not mentioned the dusclops line at all so far, as far as I can tell. Even if duskull/dusclops are known, it's pretty plausible that dusknoir is undiscovered so far. Game logic does require an item+trade, so it could be slightly convoluted here too; I don't think u/DaystarEld has explained the evolution of other similar mons like scizor and steelix yet.
->> Wrt its origin, it's certainly likely there was human meddling. But one interesting point is that the "antenna" on its head is said to receive information from the spirit world. It's unlikely that this is the same as Giratina's distortion world. But given that we know Giratina stirred after the Hoenn incident and that there were unown flying around, it's certainly an interesting possibility.
->> Glad I won't have to wait too long with this cliffhanger, incredible chapter! I continue to love the way ghosts are characterized in this series.
 >> 
+>> I'm actually leaning towards this being a Dusknoir. Jason mentions that a sufficiently strong ghost type could threaten other ghosts. Pressure lines up, and dusknoir is supposed to be able to consume spirits through the "mouth" on its belly (explaining the gastly's fear). The series has not mentioned the dusclops line at all so far, as far as I can tell. Even if duskull/dusclops are known, it's pretty plausible that dusknoir is undiscovered so far. Game logic does require an item+trade, so it could be slightly convoluted here too; I don't think u/DaystarEld has explained the evolution of other similar mons like scizor and steelix yet.
+>> 
+>> Wrt its origin, it's certainly likely there was human meddling. But one interesting point is that the "antenna" on its head is said to receive information from the spirit world. It's unlikely that this is the same as Giratina's distortion world. But given that we know Giratina stirred after the Hoenn incident and that there were unown flying around, it's certainly an interesting possibility.
+>> 
+>> Glad I won't have to wait too long with this cliffhanger, incredible chapter! I continue to love the way ghosts are characterized in this series.
 
-> **u/Flavius_Belisarius_** [+31] *
+> **u/Flavius_Belisarius_** [+31]  (3 hours later)
 > 
 > "Ghost pokemon experience time, space, and the order of events in very different ways"
-> Oh. Oooh. You could say everything is *distorted* then. This is the tie to Giratina, isn't it? Should've figured the strongest ghost type is at least in some way tied to what makes ghosts so different, especially now as it seems to have some relevance to the story. And with some unknown sighted this chapter, it may even be involved here, not that I expect it to.
 > 
+> Oh. Oooh. You could say everything is *distorted* then. This is the tie to Giratina, isn't it? Should've figured the strongest ghost type is at least in some way tied to what makes ghosts so different, especially now as it seems to have some relevance to the story. And with some unknown sighted this chapter, it may even be involved here, not that I expect it to.
 
-> **u/Gummysaur** [+25] *
+> **u/Gummysaur** [+21]  (an hour later)
 > 
 > Oh boy, fear and grief! The exact two things Red struggles with the most!
-> I get the feeling this is gonna be fun for him.
 > 
+> I get the feeling this is gonna be fun for him.
 
->> **u/PDNeznor** [+5] *
+>> **u/PDNeznor** [+5]  (8 hours later)
 >> 
 >> I mean, dont we all have a particular time dealing with fear and grief? Those are like, two bad emotions, subjectively speaking.
->> 
 
->>> **u/Gummysaur** [+16] *
+>>> **u/Gummysaur** [+15]  (17 hours later)
 >>> 
 >>> Yeah, but those are like, Red’s biggest problems. Fear is how the Pressure manifested in him, and he’s got a whole psychic tulpa extra-personality partition deal just to not crumble under the grief he goes through.
 >>> Compare to someone like Blue, I feel like “anger” or “shame” might be more worrying to him. Fear and grief seems specifically geared to give Red a Bad Time.
->>> 
 
->>> **u/Roneitis** [+2] *
+>>> **u/Roneitis** [+2]  (17 hours later)
 >>> 
 >>> Yeah, but there are other ones: guilt, pain, longing, loneliness, feeling betrayed, feeling violated to name a few.
->>> 
 
-> **u/Leemorry** [+20] *
+> **u/Leemorry** [+21]  (an hour later)
 > 
 > God I love Jason! Such a cool character.
-> Thanks for an amazing chapter as always, and Happy New Year everybody!
 > 
+> Thanks for an amazing chapter as always, and Happy New Year everybody!
 
-> **u/burnerpower** [+14] *
+> **u/burnerpower** [+14]  (an hour later)
 > 
 > Huh. I wonder what exactly is going on here. In the games its a ghost Marowak that was killed by Team Rocket. It seems like something similar is happening based on the setup. (Could also be part of a Mewtwo countermeasure plan considering what has happened.)
-> With that in mind I'm curious how much will change. I imagine it will take the form of an Alolan Marowak. It has interesting implications for world building so I doubt it will be that straight forward. Can every pokemon come back as a ghost? Probably not or it would have been observed by now. Is it something unique to Marowak? I think the only other pokemon that might fit the bill in the games is Galar Corsola. If its not unique, what is the shared property that causes this to happen? Interesting stuff and I look forward to see what comes next!
 > 
+> With that in mind I'm curious how much will change. I imagine it will take the form of an Alolan Marowak. It has interesting implications for world building so I doubt it will be that straight forward. Can every pokemon come back as a ghost? Probably not or it would have been observed by now. Is it something unique to Marowak? I think the only other pokemon that might fit the bill in the games is Galar Corsola. If its not unique, what is the shared property that causes this to happen? Interesting stuff and I look forward to see what comes next!
 
->> **u/hbthebattle** [+17] *
+>> **u/hbthebattle** [+15]  (2 hours later)
 >> 
 >> >I imagine it will take the form of an Alolan Marowak.
->> Jason said it was a new Pokemon, but Phoebe already had an Alolan Marowak.
 >> 
+>> Jason said it was a new Pokemon, but Phoebe already had an Alolan Marowak.
 
->>> **u/burnerpower** [+7] *
+>>> **u/burnerpower** [+8]  (3 hours later)
 >>> 
 >>> Ah really? I didn't remember that. I wonder what it is then?
->>> 
 
->>>> **u/Tdaken** [+8] *
+>>>> **u/Tdaken** [+10]  (8 hours later)
 >>>> 
 >>>> Probably spiritomb. There is only 4 ghost pokemon w pressure and one is a legendary. Spiritomb is ghost/dark so it makes sense that it scare other ghosts. 
->>>> It also has something in dex entries or gamelines about it being born of several souls or something likes this if I'm not mistaken.
 >>>> 
+>>>> It also has something in dex entries or gamelines about it being born of several souls or something likes this if I'm not mistaken.
 
->>>>> **u/Trips-Over-Tail** [+7]  *Death of Crabs**
+>>>>> **u/Trips-Over-Tail** [+7]  *Death of Crabs* (9 hours later)
 >>>>> 
 >>>>> It could be a ghost Mega, if the renegades were messing with stones up there.
->>>>> 
 
->>>>> **u/shankarsivarajan** [+5] *
+>>>>> **u/shankarsivarajan** [+6]  (a day later)
 >>>>> 
 >>>>> > 4 ghost pokemon w pressure
->>>>> The two others are Dusclops and Dusknoir.
 >>>>> 
+>>>>> The two others are Dusclops and Dusknoir.
 
-> **u/writersfuelcantmelt** [+12] *
+> **u/writersfuelcantmelt** [+12]  (7 hours later)
 > 
 > LOVED IT
 > except when it was over because CLIFFHANGER
 > But I LOVED IT
-> 
 
-> **u/Roneitis** [+12] *
+> **u/Roneitis** [+12]  (17 hours later)
 > 
 > Dang I'm really liking the Lavender Town arc. it's a really unique location in the games, and a really nice change of pace from other arcs (plus it's really nice having the group back together). It also ties in really nicely with Red's personal journey.   
-
-> Anyways, very good chapter, I am, once again, left wanting!
 > 
+> Anyways, very good chapter, I am, once again, left wanting!
 
-> **u/WISHFULFILLMENTSUCKS** [+7] *
+> **u/WISHFULFILLMENTSUCKS** [+8]  (20 hours later)
 > 
 > Can anyone tell me what chapter I left off on? It was after the death of the girl that couldn’t afford gear and the chapter was about Red dealing with it. I specifically remember there was no Pokémon mentioned in this chapter.
-> 
 
->> **u/DaystarEld** [+9]  *Pokémon Professor**
+>> **u/DaystarEld** [+10]  *Pokémon Professor* (20 hours later)
 >> 
 >> That was [67: Postmortem](https://www.fanfiction.net/s/9794740/67/Pokemon-The-Origin-of-Species) :)
->> 
 
->>> **u/WISHFULFILLMENTSUCKS** [+2] *
+>>> **u/WISHFULFILLMENTSUCKS** [+2]  (23 hours later)
 >>> 
 >>> Thanks
->>> 
 
-> **u/DaystarEld** [+5]  *Pokémon Professor**
+> **u/DaystarEld** [+7]  *Pokémon Professor* (30 seconds later)
 > 
 > Typo thread!
-> 
 
->> **u/CarVac** [+4] *
+>> **u/CarVac** [+6]  (9 minutes later)
 >> 
 >> > wearing the white and red miko of a shrine priestess
->> A miko is a person, not the outfit.
->> From Wikipedia:
->> The traditional attire of a miko would be a pair of red hakama (緋袴 or "scarlet or vermilion, long, divided trousers or a long, slightly pleated skirt tied with a bow"), a white kosode (kimono robe), and some white or red hair ribbons.
->> > thea grocery store
->> the grocery store
->> > periphery vision
->> peripheral vision
->> > same specie, right?
->> same species, right?
 >> 
+>> A miko is a person, not the outfit.
+>> 
+>> From Wikipedia:
+>> 
+>> The traditional attire of a miko would be a pair of red hakama (緋袴 or "scarlet or vermilion, long, divided trousers or a long, slightly pleated skirt tied with a bow"), a white kosode (kimono robe), and some white or red hair ribbons.
+>> 
+>> > thea grocery store
+>> 
+>> the grocery store
+>> 
+>> > periphery vision
+>> 
+>> peripheral vision
+>> 
+>> > same specie, right?
+>> 
+>> same species, right?
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (45 minutes later)
 >>> 
 >>> All fixed, thanks!
->>> 
 
->> **u/over_who** [+3]  *Aleph you are going to die**
+>> **u/over_who** [+3]  *Aleph you are going to die* (17 minutes later)
 >> 
 >> "But you act like being the unpartitioned one makes you the boss. Start acting like it."
->> The meaning of this isn't clear to me. Maybe I'm reading it wrong though.
 >> 
+>> The meaning of this isn't clear to me. Maybe I'm reading it wrong though.
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (44 minutes later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/Leemorry** [+2] *
+>> **u/Leemorry** [+2]  (an hour later)
 >> 
 >> >Blue unclips THE white and blue diveball. "Go, Maturin!"
->> Is caps intentional?
->> >others' dindistinct forms through the cloud of its body.
->> Indistinct? 
->> >and no know they aren't naturally scared of humans
->> Don’t know or something like that?
->> >Jean projects not just worry butu alarm
->> But alarm
 >> 
+>> Is caps intentional?
+>> 
+>> >others' dindistinct forms through the cloud of its body.
+>> 
+>> Indistinct? 
+>> 
+>> >and no know they aren't naturally scared of humans
+>> 
+>> Don’t know or something like that?
+>> 
+>> >Jean projects not just worry butu alarm
+>> 
+>> But alarm
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (2 hours later)
 >>> 
 >>> Fixed! Definitely not intentional, not sure how that happened :P
->>> 
 
->> **u/xkcloud** [+2] *
+>> **u/xkcloud** [+2]  (14 hours later)
 >> 
 >> So Arceus' name is made up of 5 katakana, アルセウス, which isn't really Kanji as Red states in the chapter.
->> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (18 hours later)
 >>> 
 >>> Woops, thanks!
->>> 
 
->> **u/AdministrativeAd7277** [+1] *
+>> **u/AdministrativeAd7277** [+1]  (52 minutes later)
 >> 
 >> > for the firs time.
+>> 
 >> Missing a 't'
+>> 
 >> Also
 >> > I've only tested it on tame ones, and no know they aren't naturally scared of humans
->> I don't get the 'no know' part of this
->> >Red doubts anyone else with would unless
->> I'm not sure how it should be - its very possible I'm incorrect - but the 'with would' reads wrong
 >> 
+>> I don't get the 'no know' part of this
+>> 
+>> >Red doubts anyone else with would unless
+>> 
+>> I'm not sure how it should be - its very possible I'm incorrect - but the 'with would' reads wrong
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (an hour later)
 >>> 
 >>> Should have been "with one would" and just "know" :) Thanks!
->>> 
 
->> **u/DrunkenQuetzalcoatl** [+1] *
+>> **u/DrunkenQuetzalcoatl** [+1]  (an hour later)
 >> 
 >> thea grocery store
->> the the weight
->> dindistinct
->> shis eyes
->> no know
->> with would
->> firs time
->> firs thing
->> of entirely
->> butu alarm
 >> 
+>> the the weight
+>> 
+>> dindistinct
+>> 
+>> shis eyes
+>> 
+>> no know
+>> 
+>> with would
+>> 
+>> firs time
+>> 
+>> firs thing
+>> 
+>> of entirely
+>> 
+>> butu alarm
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (2 hours later)
 >>> 
 >>> Fixed, thanks!
->>> 
 
->> **u/partner555** [+1] *
+>> **u/partner555** [+1]  (2 hours later)
 >> 
 >> |others' dindistinct forms 
->> Indistinct.
->> | about our intent to investigation the tower a few days ago?
->> Investigate.
->> | "—that mean you found—"
->> Means.
->> | and no know they aren't naturally scared of humans
->> “No know” part is wrong, but I’m not sure what you were going for.
->> |  It's hard to think of how it wasn't the firs thing he noticed
->> First.
->> | Built of entirely of stone
->> Don’t need the first “of”.
->> | Sergeant Ito. Sergeant Iko.
->> Is it Iko or Ito?
->> | other)."No reason
->> Missing a space.
->> | not just worry butu alarm
->> But.
 >> 
+>> Indistinct.
+>> 
+>> | about our intent to investigation the tower a few days ago?
+>> 
+>> Investigate.
+>> 
+>> | "—that mean you found—"
+>> 
+>> Means.
+>> 
+>> | and no know they aren't naturally scared of humans
+>> 
+>> “No know” part is wrong, but I’m not sure what you were going for.
+>> 
+>> |  It's hard to think of how it wasn't the firs thing he noticed
+>> 
+>> First.
+>> 
+>> | Built of entirely of stone
+>> 
+>> Don’t need the first “of”.
+>> 
+>> | Sergeant Ito. Sergeant Iko.
+>> 
+>> Is it Iko or Ito?
+>> 
+>> | other)."No reason
+>> 
+>> Missing a space.
+>> 
+>> | not just worry butu alarm
+>> 
+>> But.
 
->> **u/Hidden-50** [+1] *
+>> **u/Hidden-50** [+1]  (6 hours later)
 >> 
 >> > "All depends what's causing it," Leaf says.
->> All depends -> all depends on (?)
 >> 
+>> All depends -> all depends on (?)
 
->> **u/kevshea** [+1] *
+>> **u/kevshea** [+1]  (9 hours later)
 >> 
 >> Gale asks as she *approoaches*, still holding Jason's goggles.
->> 
 
->> **u/Toastybob42** [+1] *
+>> **u/Toastybob42** [+1]  (12 hours later)
 >> 
 >> ```
 >> ## 2.08% - correction
@@ -383,106 +405,121 @@
 >> "Agreed
 >> >> the receptionist. "Either way, that seems just as worth investigating!"
 >> "Agreed
+>> 
 >> ## 8.33% - correction
 >> ## 
 >> << window of thea grocery store
 >> >> window of the grocery store
+>> 
 >> ## 14.58% - comment
 >> ## 
 >> << the others' dindistinct forms
 >> >> 
+>> 
 >> ## 22.91% - comment
 >> ## 
 >> << Blue unclips THE white and blue diveball
 >> >> 
+>> 
 >> ## 29.16% - correction
 >> ## 
 >> << The faint smells of grass and stone and soil comes to him with every cold breath
 >> >> The faint smells of grass and stone and soil come to him with every cold breath
+>> 
 >> ## 45.83% - comment
 >> ## 
 >> << Artem looks excite. "You
 >> >> 
+>> 
 >> ## 52.08% - correction
 >> ## 
 >> << Red doubts anyone else with would unless Red sets up
 >> >> Red doubts anyone else with them would unless Red sets up
+>> 
 >> ## 56.25% - comment
 >> ## 
 >> << for the firs time
 >> >> 
+>> 
 >> ## 56.25% - comment
 >> ## 
 >> << wasn't the firs thing
 >> >> 
+>> 
 >> ## 65.45% - comment
 >> ## 
 >> << Built of entirely of stone
 >> >> 
+>> 
 >> ## 65.45% - correction
 >> ## 
 >> << able to house its entire population when built.
 >> The
 >> >> able to house its entire population at the time it was built.
 >> The
+>> 
 >> ## 74.54% - correction
 >> ## 
 >> << noticed if dark pokemon was running around in here
 >> >> noticed if a dark pokemon was running around in here
+>> 
 >> ## 90.90% - correction
 >> ## 
 >> << from Jean but cautious anticipation, which mirror what the two rangers besides Gale feel
 >> >> from Jean but cautious anticipation, which mirrors what the two rangers besides Gale feel
+>> 
 >> ## 92.72% - comment
 >> ## 
 >> << not just worry butu alarm
 >> >>  
->> ```
 >> 
+>> ```
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (2 days later)
 >> 
 >> the rangers." Blue says -> the rangers," Blue says
->> smells of grass and stone and soil comes -> come
->> weight of the goggles were -> was
->> crunch of their footsteps grow -> grows
->> some of the minutia -> minutiae
->> with the others, however; -> :
->> Ranger Corp's -> Ranger Corps'
->> the two rangers besides Gale -> This isn't necessarily wrong, but "beside" might have been the intent.
 >> 
+>> smells of grass and stone and soil comes -> come
+>> 
+>> weight of the goggles were -> was
+>> 
+>> crunch of their footsteps grow -> grows
+>> 
+>> some of the minutia -> minutiae
+>> 
+>> with the others, however; -> :
+>> 
+>> Ranger Corp's -> Ranger Corps'
+>> 
+>> the two rangers besides Gale -> This isn't necessarily wrong, but "beside" might have been the intent.
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (2 days later)
 >>> 
 >>> All fixed, thanks :)
->>> 
 
-> **u/WankSocrates** [+6] *
+> **u/WankSocrates** [+7]  (3 hours later)
 > 
 > Haven't got to actually read it yet but just wanted to say thank you so much for posting it, happy new year!
-> 
 
-> **u/ManyCookies** [+6] *
+> **u/ManyCookies** [+6]  (a day later)
 > 
 > Question on chapter 87. Unpartitioned Red is talking to Leaf:
-> >“Yeah.” He takes a deep breath of the fresh country air. “It’s getting easier, as long as I don’t get hit with something bad.” Like whatever is behind his amnesia’d partition.
-> Is that just an Amnesia full unpartitioned Red applied to make life easier? Or is this unpartitioned red not _actually_ the full unpartitioned Red, and that "amnesia'd partition" is actually the full unpartitioned Red (with "Prime Red" amnesia'ing himself about what's behind it in the same way M2 did)
 > 
+> >“Yeah.” He takes a deep breath of the fresh country air. “It’s getting easier, as long as I don’t get hit with something bad.” Like whatever is behind his amnesia’d partition.
+> 
+> Is that just an Amnesia full unpartitioned Red applied to make life easier? Or is this unpartitioned red not _actually_ the full unpartitioned Red, and that "amnesia'd partition" is actually the full unpartitioned Red (with "Prime Red" amnesia'ing himself about what's behind it in the same way M2 did)
 
->> **u/DaystarEld** [+7]  *Pokémon Professor**
+>> **u/DaystarEld** [+6]  *Pokémon Professor* (a day later)
 >> 
 >> The former, unless our theory of mind posits that all memories contribute to who we are, and so any that are missing make us less who we "actually" are :)
->> 
 
->>> **u/ManyCookies** [+3] *
+>>> **u/ManyCookies** [+3]  (3 days later)
 >>> 
 >>> For the sake of your word count ("Unpartitioned, sans Casino's Emotional Impact and Use of Sakki Red takes a deep breath...") let's go with the former.
->>> 
 
-> **u/Proasek** [+3] *
+> **u/Proasek** [+3]  (a day later)
 > 
 > I'm very curious to see what Artem does at the end of all this, I would love for Red to have more science friends.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/TheUtilitaria *
 * URL: https://www.reddit.com/r/rational/comments/7al8rt/rt_ascent_short_stories/
-* Score: 11
+* Score: 10
 
 * Created: 2017-11-03T18:17:20
 
@@ -31,21 +31,19 @@ Opinions and feedback would be welcome!
 
 ### Comments:
 
-> **u/NotACauldronAgent** [+3]  *Probably**
+> **u/NotACauldronAgent** [+3]  *Probably* (3 hours later)
 > 
 > Very neat. I’m confused on who the Apathy is-have they been mentioned anywhere else? But other than that, I found them quite enjoyable. 
-> Edit: Oh, there’s a whole series! Now I feel silly.
 > 
+> Edit: Oh, there’s a whole series! Now I feel silly.
 
->> **u/TheUtilitaria** [+2] *
+>> **u/TheUtilitaria** [+2]  (3 hours later)
 >> 
 >> There is an awful lot of history between Ascent and 2904, when that story is set. The Apathy's origin is something I'll explore eventually.
->> 
 
->>> **u/NotACauldronAgent** [+1]  *Probably**
+>>> **u/NotACauldronAgent** [+1]  *Probably* (3 hours later)
 >>> 
 >>> I’ll have to read the rest of it! It’s interesting.
->>> 
 
 ---
 

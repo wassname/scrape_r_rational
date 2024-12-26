@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/6t8wve/d_saturday_munchkinry_thread/
-* Score: 8
+* Score: 6
 
 * Created: 2017-08-12T15:06:49
 
@@ -24,12 +24,16 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/aerocarbon** [+9]  *NERV**
+> **u/aerocarbon** [+9]  *NERV* (5 hours later)
 > 
 > Inspired by [this](http://nedroid.com/comics/2008-12-28-beartato-thinkingofme.gif) Beartato and Reginald comic.
+> 
 > **You inexplicably gain the power to make anybody sneeze by thinking of them**.
+> 
 > Your goal is to kill a high-ranking government official (pick and choose) without getting caught. The less attention you draw to yourself, the better. Mucho brownie points go to the person who can do this without relying on other people.
+> 
 > I've been racking my pea-sized brain for a while now and I can't think of any way that I'd be able to kill anyone, much less a government official, with such a shit power. I'm hoping /r/rational will have better luck.
+> 
 > * "Them" in this case means knowledge of their given name (first + last) and their current face, to eliminate ambiguity. Think Death Note rules.
 > * If you are unable to fulfil the criteria (e.g. the name you have isn't actually their given name, the picture you have is out of date) then the sneeze is not affected.
 > * You do not need line of sight to make somebody sneeze. So as long as you have their name + face, you can make them sneeze.
@@ -42,511 +46,581 @@ Good Luck and Have Fun!
 > * The sneezes you affect are magical.
 > 	* Magical in the sense that these sneezes just 'happen.' Your brain magically sends a magical signal to your target's brain, and tells the brain to sneeze.
 > 	* These sneezes cannot be prevented or mitigated by any kind of medication or procedure. e.g. the full-on physical removal of someone's nose and affecting a sneeze on them will result in them suffering from a "[phantom sneeze](https://en.wikipedia.org/wiki/Phantom_pain)."
-> Alternatively, I'd happily take run-of-the-mill munchkinry (improve quality of life, get the girl, rob a bank, become an iron-fisted tyrant, enact planetary genocide, etc.) if you can't kill anybody with this power.  
-> Also: semantic satiation is a great thing. Sneeze doesn't even sound like a word anymore.
-> ---
-> #CLARIFICATIONS:
-> * As long as your target is not dead (i.e. complete cessation of all bodily function) they will sneeze.
-> * If your target is "effectively dead" (e.g. in a coma, brain dead, cryogenically frozen, etc.) then they will still sneeze. What a sneeze would be like to someone suffering from brain death is beyond me, but they'll still sneeze.
-> * The "sneeze signal" travels at the speed of light. (i.e. you would not be able to affect FTL communication with this power, although I will admit that sneeze-based superluminal communication sounds absolutely *hilarious*)
-> * Past ten sneezes, the itchiness of the nose of the person affected remains noticeable (i.e. you can tell the difference between the itchiness and a natural slight nose itch) up to twenty sneezes in total.
-> * Any further sneezes affected on the same person will result in a "sneeze" that is virtually imperceptible or indistinguishable from a natural slight itch.
 > 
+> Alternatively, I'd happily take run-of-the-mill munchkinry (improve quality of life, get the girl, rob a bank, become an iron-fisted tyrant, enact planetary genocide, etc.) if you can't kill anybody with this power.  
+> 
+> Also: semantic satiation is a great thing. Sneeze doesn't even sound like a word anymore.
+> 
+> ---
+> 
+> #CLARIFICATIONS:
+> 
+> * As long as your target is not dead (i.e. complete cessation of all bodily function) they will sneeze.
+> 
+> * If your target is "effectively dead" (e.g. in a coma, brain dead, cryogenically frozen, etc.) then they will still sneeze. What a sneeze would be like to someone suffering from brain death is beyond me, but they'll still sneeze.
+> 
+> * The "sneeze signal" travels at the speed of light. (i.e. you would not be able to affect FTL communication with this power, although I will admit that sneeze-based superluminal communication sounds absolutely *hilarious*)
+> 
+> * Past ten sneezes, the itchiness of the nose of the person affected remains noticeable (i.e. you can tell the difference between the itchiness and a natural slight nose itch) up to twenty sneezes in total.
+> 
+> * Any further sneezes affected on the same person will result in a "sneeze" that is virtually imperceptible or indistinguishable from a natural slight itch.
 
->> **u/GemOfEvan** [+8] *
+>> **u/GemOfEvan** [+8]  (6 hours later)
 >> 
 >> Well you basically have the power to partially incapacitate someone for 10 sneezes of time. Let's say 8 seconds.
->> Perhaps you could try affecting a surgeon while operating on some official. However, people already sneeze regularly so I doubt it'd do much other than make them lay down their tools for 8 seconds. Same goes for pilots, construction workers, etc.
->> However, this power might be useful in helping out a mundane assassination. Make every bodyguard for the person sneeze for 8 seconds, murder them with regular methods, hope you don't get caught afterwards.
 >> 
+>> Perhaps you could try affecting a surgeon while operating on some official. However, people already sneeze regularly so I doubt it'd do much other than make them lay down their tools for 8 seconds. Same goes for pilots, construction workers, etc.
+>> 
+>> However, this power might be useful in helping out a mundane assassination. Make every bodyguard for the person sneeze for 8 seconds, murder them with regular methods, hope you don't get caught afterwards.
 
->>> **u/tonytwostep** [+1] *
+>>> **u/tonytwostep** [+1]  (16 hours later)
 >>> 
 >>> Yea, like you said, I would mentally abstract this power out as "completely distract known individuals for up to 10 seconds."
->>> For assassinations, you could wait for them to be in situations requiring intense concentration (e.g. driving at night on a windy road in a rainstorm) and activate the power then. But it requires (a) for them to be in a risky situation in the first place, (b) for you to *know* that they're currently in said situation, and (c) for you to know exactly *when* to active the sneeze attack.
->>> The most effective use of this power I could think of would be to use it to your advantage in 1-on-1 sports that can be won in an instant (boxing, MMA, fencing, etc). You only need to incapacitate your opponents for a couple of seconds each match, and you're pretty much guaranteed to know their names & faces. Once you've won enough money as a pro athlete, you could just hire an assassin, if that's still your goal.
->>> However, this approach *does* require discretion; people may start to catch on if your 10th opponent in a row suddenly suffers an explosive case of the sniffles...
 >>> 
+>>> For assassinations, you could wait for them to be in situations requiring intense concentration (e.g. driving at night on a windy road in a rainstorm) and activate the power then. But it requires (a) for them to be in a risky situation in the first place, (b) for you to *know* that they're currently in said situation, and (c) for you to know exactly *when* to active the sneeze attack.
+>>> 
+>>> The most effective use of this power I could think of would be to use it to your advantage in 1-on-1 sports that can be won in an instant (boxing, MMA, fencing, etc). You only need to incapacitate your opponents for a couple of seconds each match, and you're pretty much guaranteed to know their names & faces. Once you've won enough money as a pro athlete, you could just hire an assassin, if that's still your goal.
+>>> 
+>>> However, this approach *does* require discretion; people may start to catch on if your 10th opponent in a row suddenly suffers an explosive case of the sniffles...
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (23 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/tonytwostep** [+1] *
+>>>>> **u/tonytwostep** [+1]  (a day later)
 >>>>> 
 >>>>> Well, one issue with just betting is getting the timing right. In a sport like boxing, who's to say the other boxer will recognize when to fully capitalize on the sneeze attack? With football or golf, by the time you know the game depends on one pass or one final hole, it's far too late to place a big bet. An Olympic race might work, but people would be very suspicious if all but one racer suffered from sneezing (probably not suspicious of magic powers, but suspicious that the winning racer somehow cheated, or that the track conditions were bad enough to consider nullifying the results).
->>>>> Claiming the Randi prize would work, although that's also true of almost literally any supernatural power, and not really unique to this one. I also like the FTL point - even if the sneezes lose effectiveness and are just instances of mild nasal irritation, you could still use that as a type of morse code to communicate over vast interplanetary distances.
->>>>> EDIT: Erp, just saw that OP specified the power works at the speed of light. Guess that last one's out.
 >>>>> 
+>>>>> Claiming the Randi prize would work, although that's also true of almost literally any supernatural power, and not really unique to this one. I also like the FTL point - even if the sneezes lose effectiveness and are just instances of mild nasal irritation, you could still use that as a type of morse code to communicate over vast interplanetary distances.
+>>>>> 
+>>>>> EDIT: Erp, just saw that OP specified the power works at the speed of light. Guess that last one's out.
 
->> **u/Noumero** [+5]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+4]  *Self-Appointed Court Statistician* (13 hours later)
 >> 
 >> Munchkinery 101: identify what individual pieces the power consists of; figure out what each particular piece, if freed of restrictions, could be used for; figure out how to use the power to realize the full potential of the most powerful pieces.
->> This power: (1) identifies when you want to use it, (2) identifies who you want to use it on, (3) checks if your information on the target is correct, (4) checks how many times the target was already influenced by this power, (5) lowers the power's intensity based on how many times the target was influenced, (6) identifies the position of your target, (7) communicates with the target at *c*, (8) influences the target's brain in a delicate manner to induce a "sneeze".
->> What could be useful? 3, 6, 7, 8 look the most promising, but I indeed can't get much use out of them.
->> Nothing here offers direct feedback, so (3) can't be generally used to check your information for trustworthiness or for brute-force searches; I guess you could get an accomplice to change the name/face based on some criteria, but since it still depends on the accomplice's beliefs, I don't see a way to verify arbitrary information using it either.
->> (6) is mostly useless too, since it doesn't tell the target where they are, in relation to you or otherwise, and doesn't tell you the location unless you can hear the sneeze, in which case you may as well go look.
->> I guess (7) could be used for covert communication — transmitting your minions commands using Morse or something — which could give you some edge in negotiations or a battle, but it's pretty slow. It would make robbing a bank or plotting a prison break easier, but not that significantly.
->> (8) wouldn't be able to offer much to science, if I'm not mistaken.
->> Oh my, does this power suck.
 >> 
+>> This power: (1) identifies when you want to use it, (2) identifies who you want to use it on, (3) checks if your information on the target is correct, (4) checks how many times the target was already influenced by this power, (5) lowers the power's intensity based on how many times the target was influenced, (6) identifies the position of your target, (7) communicates with the target at *c*, (8) influences the target's brain in a delicate manner to induce a "sneeze".
+>> 
+>> What could be useful? 3, 6, 7, 8 look the most promising, but I indeed can't get much use out of them.
+>> 
+>> Nothing here offers direct feedback, so (3) can't be generally used to check your information for trustworthiness or for brute-force searches; I guess you could get an accomplice to change the name/face based on some criteria, but since it still depends on the accomplice's beliefs, I don't see a way to verify arbitrary information using it either.
+>> 
+>> (6) is mostly useless too, since it doesn't tell the target where they are, in relation to you or otherwise, and doesn't tell you the location unless you can hear the sneeze, in which case you may as well go look.
+>> 
+>> I guess (7) could be used for covert communication — transmitting your minions commands using Morse or something — which could give you some edge in negotiations or a battle, but it's pretty slow. It would make robbing a bank or plotting a prison break easier, but not that significantly.
+>> 
+>> (8) wouldn't be able to offer much to science, if I'm not mistaken.
+>> 
+>> Oh my, does this power suck.
 
->>> **u/RatemirTheRed** [+5] *
+>>> **u/RatemirTheRed** [+4]  (20 hours later)
 >>> 
 >>> > I guess (7) could be used for covert communication — transmitting your minions commands using Morse or something
+>>> 
 >>> That's actually can accomplish a lot.
+>>> 
 >>> 1. Send the same Morse message once a day, every day to as many people as you can. Either choose your recipients completely at random or choose some organized group that can read Morse code.
 >>> 2. Train yourself in patience. Eventually story of the higher being that communicates via sneezes will spread out. Once it's done, abandon daily messages.
 >>> 3. After that you can finally move on to more specific messages. Find people who are willing to follow Sneezemaker. Choose some random site(s) to get answers from them.
 >>> 4. Well, now you have group of people who are crazy enough to follow you. It is very useful... I guess?
+>>> 
 >>> Additional thoughts:
+>>> 
 >>> * Find names of high ranking government official's bodyguards. Use your Morse sneezing powers to recruit them for you cause.
 >>> * Change aforementioned plan so everything (language, sleep patterns, message contents, choice of people) points to that official. Then, kill someone using your power.
->>> 
 
->>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (21 hours later)
 >>>> 
 >>>> Oops, I didn't consider the wider implications. That's a great idea.
->>>> It would be rather useful for bonus challenges as well: once established as a supernatural entity, you would acquire a great deal of influence, not only on your followers but on the other random people as well. You could openly speak your mind through "chosen" people, pushing for spending resources towards the fields you consider beneficial, and threaten politicians in secret — the possibilities for psychological warfare here are *endless*, if you're willing to abuse people's religious beliefs and order assassinations. Once you have followers or blackmailees in high-ranking government or military positions, you could start playing up the "omniscient" card, and people's irrationality would do the rest of the work on its own.
->>>> Robbing banks, starting riots and then wars is trivially easy; ordering a nuclear war/enacting an omnicide would be trickier, but if you manage to convince your government that your existence is an enemy action, or a foreign government that you're going to expand to them if they don't take drastic actions, that's doable as well. It's probably entirely possible to take over the world in a century with this. (Getting the girl is left as an exercise to the reader.)
->>>> Damn, there's a potential for a great story here.
 >>>> 
+>>>> It would be rather useful for bonus challenges as well: once established as a supernatural entity, you would acquire a great deal of influence, not only on your followers but on the other random people as well. You could openly speak your mind through "chosen" people, pushing for spending resources towards the fields you consider beneficial, and threaten politicians in secret — the possibilities for psychological warfare here are *endless*, if you're willing to abuse people's religious beliefs and order assassinations. Once you have followers or blackmailees in high-ranking government or military positions, you could start playing up the "omniscient" card, and people's irrationality would do the rest of the work on its own.
+>>>> 
+>>>> Robbing banks, starting riots and then wars is trivially easy; ordering a nuclear war/enacting an omnicide would be trickier, but if you manage to convince your government that your existence is an enemy action, or a foreign government that you're going to expand to them if they don't take drastic actions, that's doable as well. It's probably entirely possible to take over the world in a century with this. (Getting the girl is left as an exercise to the reader.)
+>>>> 
+>>>> Damn, there's a potential for a great story here.
 
->>>> **u/ShiranaiWakaranai** [+1] *
+>>>> **u/ShiranaiWakaranai** [+1]  (21 hours later)
 >>>> 
 >>>> You two are forgetting the 10 sneeze maximum, morse code isn't going to work unless your messages are really short.
->>>> It's better to use the time between sneezes as your message or the time of day you send a sneeze, though you would need some practice to get timings right. Even then, you're really limited to 10 messages per person.
 >>>> 
+>>>> It's better to use the time between sneezes as your message or the time of day you send a sneeze, though you would need some practice to get timings right. Even then, you're really limited to 10 messages per person.
 
->>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (21 hours later)
 >>>>> 
 >>>>> There's no hard limit on *communication*, only on *sneezes proper*. After the tenth one, it diminishes to "a few seconds of an itchy nose", not to "no effect". That still could be used to convey messages, even if less reliably.
->>>>> 
 
->>>>>> **u/ShiranaiWakaranai** [+2] *
+>>>>>> **u/ShiranaiWakaranai** [+2]  (21 hours later)
 >>>>>> 
 >>>>>> >The more sneezes you affect on the same person, the lesser the effect becomes - eventually diminishing to the point where a "sneeze" you affect would be little more than a few seconds worth of an itchy nose. Let's call it a threshold of ten sneezes until an affected sneeze cannot be considered a sneeze any more.
->>>>>> I guess we need to clarify this point. How itchy is the nose? Is it noticeable enough to be usable for communication? This would need  it to be really itchy, otherwise your messages would be frequently jumbled up by natural slight nose itches.
->>>>>> But if it is that itchy, then the sneeze note can be used to kill: just make someone's nose itchy over and over again, which would prevent them from ever getting sleep until they die.
->>>>>> (Granted, you may have to also stay awake to keep making your target "sneeze", but it's certainly doable if you are healthier than your target.)
 >>>>>> 
+>>>>>> I guess we need to clarify this point. How itchy is the nose? Is it noticeable enough to be usable for communication? This would need  it to be really itchy, otherwise your messages would be frequently jumbled up by natural slight nose itches.
+>>>>>> 
+>>>>>> But if it is that itchy, then the sneeze note can be used to kill: just make someone's nose itchy over and over again, which would prevent them from ever getting sleep until they die.
+>>>>>> 
+>>>>>> (Granted, you may have to also stay awake to keep making your target "sneeze", but it's certainly doable if you are healthier than your target.)
 
->>>>>>> **u/aerocarbon** [+3]  *NERV**
+>>>>>>> **u/aerocarbon** [+3]  *NERV* (a day later)
 >>>>>>> 
 >>>>>>> > How itchy is the nose?
->>>>>>> I'll admit that I spent the longest time thinking about this question because I have no clue how to answer this.
->>>>>>> I don't really know if it's possible to quantify "itchiness" outside of completely arbitrary labels like 'really' or 'not at all.'
->>>>>>> I'd say that the itchiness would be comparable to that feeling your nose gets when you *think* you've got a colossal, world-shattering sneeze lined up and it just dissipates for no apparent reason. Hopefully you've experienced this feeling before, otherwise it'd be hard to imagine.
->>>>>>> Let's slap an arbitrary label on this and say that the eleventh 'sneeze' affected would turn into a "very itchy nose." (In comparison, the tenth sneeze would be a tiny and involuntary snuffle, hardly enough to be considered a sneeze on its own.)
->>>>>>> Further sneezes affected, however, would have this feeling diminish further and further. For example, the twelfth sneeze would be just a "regular" itchy, and the thirteenth sneeze would be a "kind of" itchy. 
->>>>>>> > Is it noticeable enough to be usable for communication?
->>>>>>> Up to a certain point, yes. If you want a hard number, let's say that the itchiness is noticeable up to twenty total sneezes. Any sneezes affected after that still have an effect, per se, but at this point the itchiness will have diminished so much that they would either be completely indistinguishable from natural slight nose itches or virtually imperceptible. 
->>>>>>> ---
->>>>>>> You can simplify this to:
->>>>>>> * Past ten sneezes, the itchiness of the nose of the person affected remains noticeable (i.e. you can tell the difference between the itchiness and a natural slight nose itch) up to twenty sneezes in total.
->>>>>>> * Any further sneezes affected on the same person will result in a "sneeze" that is virtually imperceptible or indistinguishable from a natural slight itch. 
->>>>>>> I've edited the OP to clarify. Thanks for the question!
 >>>>>>> 
+>>>>>>> I'll admit that I spent the longest time thinking about this question because I have no clue how to answer this.
+>>>>>>> 
+>>>>>>> I don't really know if it's possible to quantify "itchiness" outside of completely arbitrary labels like 'really' or 'not at all.'
+>>>>>>> 
+>>>>>>> I'd say that the itchiness would be comparable to that feeling your nose gets when you *think* you've got a colossal, world-shattering sneeze lined up and it just dissipates for no apparent reason. Hopefully you've experienced this feeling before, otherwise it'd be hard to imagine.
+>>>>>>> 
+>>>>>>> Let's slap an arbitrary label on this and say that the eleventh 'sneeze' affected would turn into a "very itchy nose." (In comparison, the tenth sneeze would be a tiny and involuntary snuffle, hardly enough to be considered a sneeze on its own.)
+>>>>>>> 
+>>>>>>> Further sneezes affected, however, would have this feeling diminish further and further. For example, the twelfth sneeze would be just a "regular" itchy, and the thirteenth sneeze would be a "kind of" itchy. 
+>>>>>>> 
+>>>>>>> > Is it noticeable enough to be usable for communication?
+>>>>>>> 
+>>>>>>> Up to a certain point, yes. If you want a hard number, let's say that the itchiness is noticeable up to twenty total sneezes. Any sneezes affected after that still have an effect, per se, but at this point the itchiness will have diminished so much that they would either be completely indistinguishable from natural slight nose itches or virtually imperceptible. 
+>>>>>>> 
+>>>>>>> ---
+>>>>>>> 
+>>>>>>> You can simplify this to:
+>>>>>>> 
+>>>>>>> * Past ten sneezes, the itchiness of the nose of the person affected remains noticeable (i.e. you can tell the difference between the itchiness and a natural slight nose itch) up to twenty sneezes in total.
+>>>>>>> 
+>>>>>>> * Any further sneezes affected on the same person will result in a "sneeze" that is virtually imperceptible or indistinguishable from a natural slight itch. 
+>>>>>>> 
+>>>>>>> I've edited the OP to clarify. Thanks for the question!
 
->>>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (21 hours later)
 >>>>>>> 
 >>>>>>> I think there are ways to make your nose less itchy on average; they could be used by long-term accomplices/minions, possibly going as far as cutting the nose off. I'm not sure if there is actually such a thing as a natural "phantom sneeze", but if no, then noseless people would be able to clearly receive any number of messages.
->>>>>>> It makes establishing contact much trickier, granted, but not impossible, especially if you start off by creating a meme about the Sneeze God using non-magical means or something.
 >>>>>>> 
+>>>>>>> It makes establishing contact much trickier, granted, but not impossible, especially if you start off by creating a meme about the Sneeze God using non-magical means or something.
 
->>>>> **u/Kinoite** [+2] *
+>>>>> **u/Kinoite** [+2]  (a day later)
 >>>>> 
 >>>>> Go to the Department of Labor media lockup.  You can get the monthly job report before the markets do.
+>>>>> 
 >>>>> Then you only need to transmit a short message and have an easy way to make money off it.
 >>>>>  https://en.wikipedia.org/wiki/Media_lock-up
->>>>> 
 
->>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (2 months later)
 >>>> 
 >>>> > the higher being that communicates via sneezes
->>>> Sneezus of Nose-aruth.
 >>>> 
+>>>> Sneezus of Nose-aruth.
 
->>> **u/ShiranaiWakaranai** [+4] *
+>>> **u/ShiranaiWakaranai** [+4]  (21 hours later)
 >>> 
 >>> (3) Could be used on people with amnesia, help them remember their names by thinking of their face and brute forcing names until they sneeze. Could also be used to confirm the identity of someone in disguise.
->>> 
 
->>>> **u/aerocarbon** [+1]  *NERV**
+>>>> **u/aerocarbon** [+1]  *NERV* (a day later)
 >>>> 
 >>>> Those are great points. I like them both, and they should definitely be possible.
->>>> My only problem with the amnesia one is that it requires a first *and* last name for a sneeze to go through. While it would be *possible,* yes, I honestly don't think I'd have the patience to go through every permutation of every first and last name just to jog an amnesiac's memory.
 >>>> 
+>>>> My only problem with the amnesia one is that it requires a first *and* last name for a sneeze to go through. While it would be *possible,* yes, I honestly don't think I'd have the patience to go through every permutation of every first and last name just to jog an amnesiac's memory.
 
->>>>> **u/ShiranaiWakaranai** [+3] *
+>>>>> **u/ShiranaiWakaranai** [+3]  (a day later)
 >>>>> 
 >>>>> You would need additional clues to narrow it down to a smaller search space, but there are often many. If the person is male, you wouldn't guess female names. If the person is Caucasian, you wouldn't guess Chinese names. If the amnesiac is currently at some location X, it would be reasonable to guess that they came from somewhere near X, and you could then get a list of missing people from these nearby places and go through the list. 
->>>>> There are all kinds of other clues as well. The accent that the amnesiac speaks with can be used to guess where they were raised, which would usually correlate to a certain set of names. The clothes they were found with can be used to guess wealth level, which has its own correlation with names. The age of the amnesiac can also be used to narrow the search space, since different sets of names trend in different years. The various physical features that the amnesiac has can also be used to guess their occupation, which again narrows the list since you can now ask nearby locations for lists of missing people with certain occupations.
 >>>>> 
+>>>>> There are all kinds of other clues as well. The accent that the amnesiac speaks with can be used to guess where they were raised, which would usually correlate to a certain set of names. The clothes they were found with can be used to guess wealth level, which has its own correlation with names. The age of the amnesiac can also be used to narrow the search space, since different sets of names trend in different years. The various physical features that the amnesiac has can also be used to guess their occupation, which again narrows the list since you can now ask nearby locations for lists of missing people with certain occupations.
 
->> **u/Kinoite** [+2] *
+>> **u/Kinoite** [+3]  (a day later)
 >> 
 >> Turn sneezes into dog whistles.
->> Attend press conferences and speeches for a few months and make politicians sneeze at random intervals.
->> Then, go and write a code book explaining that, when a politician sneezes after word 'X' they're saying 'Y'
->> Since you're writing the book retroactively, you can make it sound like politicians were talking about future events.
->> Next, go to a journalist, give them the code book (+throw an encrypted copy on a torrent somewhere).  As proof, make a prediction that politician will sneeze 3 times after the first question in their next press conference.
->> You'll look like a loon, right up until your prediction comes true.  
->> And politicians sneezes really do spell out a coherent discussion about a plan to complete (whatever conspiracy you invented) in the next several months.
->> News story breaks.  Your torrent confirms that you predicted everything in advance.  Politicians of choice are discredited, and you've "proven" that a conspiracy exists.
 >> 
+>> Attend press conferences and speeches for a few months and make politicians sneeze at random intervals.
+>> 
+>> Then, go and write a code book explaining that, when a politician sneezes after word 'X' they're saying 'Y'
+>> 
+>> Since you're writing the book retroactively, you can make it sound like politicians were talking about future events.
+>> 
+>> Next, go to a journalist, give them the code book (+throw an encrypted copy on a torrent somewhere).  As proof, make a prediction that politician will sneeze 3 times after the first question in their next press conference.
+>> 
+>> You'll look like a loon, right up until your prediction comes true.  
+>> 
+>> And politicians sneezes really do spell out a coherent discussion about a plan to complete (whatever conspiracy you invented) in the next several months.
+>> 
+>> News story breaks.  Your torrent confirms that you predicted everything in advance.  Politicians of choice are discredited, and you've "proven" that a conspiracy exists.
 
->> **u/CCC_037** [+4] *
+>> **u/CCC_037** [+4]  (2 days later)
 >> 
 >> > Your goal is to kill a high-ranking government official (pick and choose) without getting caught. The less attention you draw to yourself, the better. Mucho brownie points go to the person who can do this without relying on other people.
->> ...pick one of Robert Mugabe's subordinates as the target. (Or anyone who's not *quite* the big shot under a ruthless leader who wants to stay in power). Send Mugabe (or the ruthless leader, if a different ruthless leader is chosen) a series of anonymous emails describing a conspiracy to unseat him. Phrase it in such a way that sneezes in public speeches at certain points are being used by the conspirators to hide their communication. Also phrase it in such a way that the desired target for death is an important figure in said conspiracy.
->> Use the sneeze power to provide apparent corroboration of the insane conspiracy theory.
->> Wait for Mugabe's paranoia to make him snap (snap further?).
 >> 
+>> ...pick one of Robert Mugabe's subordinates as the target. (Or anyone who's not *quite* the big shot under a ruthless leader who wants to stay in power). Send Mugabe (or the ruthless leader, if a different ruthless leader is chosen) a series of anonymous emails describing a conspiracy to unseat him. Phrase it in such a way that sneezes in public speeches at certain points are being used by the conspirators to hide their communication. Also phrase it in such a way that the desired target for death is an important figure in said conspiracy.
+>> 
+>> Use the sneeze power to provide apparent corroboration of the insane conspiracy theory.
+>> 
+>> Wait for Mugabe's paranoia to make him snap (snap further?).
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (9 hours later)
 >> 
 >> I imagine it would be pretty hard to sleep if you were constantly sneezing. With the fact that being a politicians is already pretty stressful, having nearly zero sleep might cause them to get some nasty health complications. It might be difficult to properly offset your sleep schedule and theirs though.
->> 
 
->>> **u/696e6372656469626c65** [+4]  *I think, therefore I am pretentious.**
+>>> **u/696e6372656469626c65** [+4]  *I think, therefore I am pretentious.* (9 hours later)
 >>> 
 >>> The power only works 10 times before becoming ineffective.
->>> 
 
->>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (10 hours later)
 >>>> 
 >>>> whoops, missed that.
->>>> 
 
->> **u/ShiranaiWakaranai** [+2] *
+>> **u/ShiranaiWakaranai** [+2]  (13 hours later)
 >> 
 >> Huh. A sneeze note.
->> You might be able to kill with a single well-timed sneeze just by making someone sneeze while they are eating. Or swimming. 
->> >These sneezes cannot be prevented or mitigated by any kind of medication or procedure. e.g. the full-on physical removal of someone's nose and affecting a sneeze on them will result in them suffering from a "phantom sneeze."
->> What if you make someone sneeze while they are in a coma, does that wake them up? What about full-body paralysis? Brain death? Diseases that weaken the muscles needed for sneezing? Would your sneeze note cure them in order to make them sneeze?
 >> 
+>> You might be able to kill with a single well-timed sneeze just by making someone sneeze while they are eating. Or swimming. 
+>> 
+>> >These sneezes cannot be prevented or mitigated by any kind of medication or procedure. e.g. the full-on physical removal of someone's nose and affecting a sneeze on them will result in them suffering from a "phantom sneeze."
+>> 
+>> What if you make someone sneeze while they are in a coma, does that wake them up? What about full-body paralysis? Brain death? Diseases that weaken the muscles needed for sneezing? Would your sneeze note cure them in order to make them sneeze?
 
->>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (13 hours later)
 >>> 
 >>> I don't think it could be used to cure or force a physiologically-impossible reaction out of someone; they would just experience a phantom sneeze, all the same.
->>> 
 
->>>> **u/ShiranaiWakaranai** [+1] *
+>>>> **u/ShiranaiWakaranai** [+1]  (14 hours later)
 >>>> 
 >>>> But if you are in a coma or brain dead, or cryogenically frozen, how would you "experience" anything?
->>>> 
 
->>>>> **u/Noumero** [+4]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (15 hours later)
 >>>>> 
 >>>>> I assume the power won't work in this case; it's actually an apparent oversight on u/aerocarbon's side, not clarifying how it would work in relation to dead and effectively dead people. Unless... Uh-oh. "Cannot be prevented or mitigated by any kind of procedure"? So it can't even be prevented by *killing* the target?
->>>>> ... Holy hell, that's brilliant. You could teach an accomplice Morse code, then kill yourself. If the accomplice doesn't start sneezing, the world knows there's no afterlife; if there is, you transmit info on it to the still-living using sneezes.
->>>>> That's the most useful way of utilizing this power that I could think of.
 >>>>> 
+>>>>> ... Holy hell, that's brilliant. You could teach an accomplice Morse code, then kill yourself. If the accomplice doesn't start sneezing, the world knows there's no afterlife; if there is, you transmit info on it to the still-living using sneezes.
+>>>>> 
+>>>>> That's the most useful way of utilizing this power that I could think of.
 
->>>>>> **u/aerocarbon** [+3]  *NERV**
+>>>>>> **u/aerocarbon** [+3]  *NERV* (a day later)
 >>>>>> 
 >>>>>> Ha, this put a smile on my face. Post-mortem communication via sneeze-o-kinesis. According to what the rules say, that *should* work. Brownie points for taking the sneeze note in such a creative direction!
->>>>>> > how it would work in relation to dead and effectively dead people
->>>>>> I googled it and apparently [dead people *can't* sneeze](http://www.answers.com/Q/Do_people_sneeze_if_they_are_dead). What a world. (forgive the poor source, but it's difficult to find academic discussion on "can dead people sneeze?") So with regards to affecting the power on someone dead, it simply wouldn't happen.
->>>>>> For someone effectively dead (brain dead, in a coma, cryostasis, what have you) I'd direct you to [this](https://www.quora.com/Why-doesnt-a-person-sneeze-when-in-a-coma) Quora question (again, forgive the poor source but there isn't exactly a lot of literature on this topic.)
->>>>>> Quora tells me that you wouldn't be able to sneeze while in a coma (I think? The other answer seems to conflict, but I'll go with the one that makes more sense to me) ... but the rules *do* say that the sneeze can't be prevented or mitigated by any sort of medication or procedure, so I suppose that the sneeze would still happen, regardless of the target's current physiological state.
->>>>>> It's sneezeforce. I ain't gotta explain shit.
->>>>>> ---
->>>>>> You then can simplify this to:
->>>>>> * As long as your target is not dead (i.e. complete cessation of all bodily function) they will sneeze.
->>>>>> * If your target is "effectively dead" (e.g. in a coma, brain dead, cryogenically frozen, etc.) then they will still sneeze. What a sneeze would be like to someone suffering from brain death is beyond me, but they'll still sneeze.
->>>>>> I've edited OP with the clarification. Thanks for the answer!
 >>>>>> 
+>>>>>> > how it would work in relation to dead and effectively dead people
+>>>>>> 
+>>>>>> I googled it and apparently [dead people *can't* sneeze](http://www.answers.com/Q/Do_people_sneeze_if_they_are_dead). What a world. (forgive the poor source, but it's difficult to find academic discussion on "can dead people sneeze?") So with regards to affecting the power on someone dead, it simply wouldn't happen.
+>>>>>> 
+>>>>>> For someone effectively dead (brain dead, in a coma, cryostasis, what have you) I'd direct you to [this](https://www.quora.com/Why-doesnt-a-person-sneeze-when-in-a-coma) Quora question (again, forgive the poor source but there isn't exactly a lot of literature on this topic.)
+>>>>>> 
+>>>>>> Quora tells me that you wouldn't be able to sneeze while in a coma (I think? The other answer seems to conflict, but I'll go with the one that makes more sense to me) ... but the rules *do* say that the sneeze can't be prevented or mitigated by any sort of medication or procedure, so I suppose that the sneeze would still happen, regardless of the target's current physiological state.
+>>>>>> 
+>>>>>> It's sneezeforce. I ain't gotta explain shit.
+>>>>>> 
+>>>>>> ---
+>>>>>> 
+>>>>>> You then can simplify this to:
+>>>>>> 
+>>>>>> * As long as your target is not dead (i.e. complete cessation of all bodily function) they will sneeze.
+>>>>>> 
+>>>>>> * If your target is "effectively dead" (e.g. in a coma, brain dead, cryogenically frozen, etc.) then they will still sneeze. What a sneeze would be like to someone suffering from brain death is beyond me, but they'll still sneeze.
+>>>>>> 
+>>>>>> I've edited OP with the clarification. Thanks for the answer!
 
->> **u/ShiranaiWakaranai** [+2] *
+>> **u/ShiranaiWakaranai** [+2]  (21 hours later)
 >> 
 >> If I activate the power on someone, do they sneeze immediately, regardless of distance from me? 
->> In other words, can I use this for [faster-than-light communication](https://en.wikipedia.org/wiki/Superluminal_communication)? This may or may not allow you to cause a time paradox, which may or may not destroy the entire universe and thus kill everyone, including whoever you wanted to kill.
 >> 
+>> In other words, can I use this for [faster-than-light communication](https://en.wikipedia.org/wiki/Superluminal_communication)? This may or may not allow you to cause a time paradox, which may or may not destroy the entire universe and thus kill everyone, including whoever you wanted to kill.
 
->>> **u/aerocarbon** [+1]  *NERV**
+>>> **u/aerocarbon** [+1]  *NERV* (a day later)
 >>> 
 >>> Hm. I am honestly not sure, and I have no idea how to answer this question. I don't believe I specified a speed for the "sneeze signal" to travel at.
->>> 'Speed of thought' referred to your ability to use the power being limited to how fast you could possibly think of name + face pairs.
->>> I suppose the answer would be completely arbitrary, then. Let's err on the side of reality (insofar as sneeze-o-kinesis could be considered 'real' anyways) and say that the "sneeze signal" travels at *c*.
->>> I've edited the OP to clarify, thanks for the answer!
 >>> 
+>>> 'Speed of thought' referred to your ability to use the power being limited to how fast you could possibly think of name + face pairs.
+>>> 
+>>> I suppose the answer would be completely arbitrary, then. Let's err on the side of reality (insofar as sneeze-o-kinesis could be considered 'real' anyways) and say that the "sneeze signal" travels at *c*.
+>>> 
+>>> I've edited the OP to clarify, thanks for the answer!
 
->> **u/SignoreGalilei** [+2] *
+>> **u/SignoreGalilei** [+2]  (4 days later)
 >> 
 >> I know this is kind of late but I can't believe no one has already brought up the way sneezing already kills people: spreading diseases. Go about strategically spreading a sneeze-transmissible deadly disease into the population by having people infected with e.g. SARS sneeze on someone who sneezes on someone etc. eventually leading to a government official who is particularly old and has a weak immune system. Maybe Queen Elizabeth would be a good target? You'd have to do a lot of facebook stalking to find the right path of connected people to reach someone though, which risks discovery.  Alternatively just make a few infected people sneeze enough that the disease spreads and causes a pandemic and kills someone important in the government along with a few thousand other people.
->> 
 
-> **u/mothdatelightwave** [+3] *
+> **u/mothdatelightwave** [+3]  (22 hours later)
 > 
 > Suppose a homeless poor person got the power of cleaning and repairing things. It works within 2 metres of the person, it cannot repair things that have more than 1/4 of the parts missing (unless they have extras or materials out of which extras could be made). Cleaning and repairing is intuitive - you do not need to know how to repair a thing to repair it, and also you need to consider yourself to be repairing or cleaning something while you do it, because if you think you're breaking the object or dirtying it or making it worse in general, the power won't do anything. Cleaning can vanish bits of anything that is "dirt" or "dust" or "trash" in the same intuitive way and as mentioned repairing can fill in up to a quarter of missing parts of an object, by volume or mass whichever is biggest. 
-> How might they exploit that to 1) get themselves a better life 2) improve the world?
-> Edit: if a part of an object is a different material than the rest of an object (ex: screws in a device, gemstone eyes, etc) the power can only try to 'summon back' the eyes or screw, not generate a new one. Also, yes, this is defining "objects" to be things that are commonly considered single objects instead of random stuff taped together.
 > 
+> How might they exploit that to 1) get themselves a better life 2) improve the world?
+> 
+> Edit: if a part of an object is a different material than the rest of an object (ex: screws in a device, gemstone eyes, etc) the power can only try to 'summon back' the eyes or screw, not generate a new one. Also, yes, this is defining "objects" to be things that are commonly considered single objects instead of random stuff taped together.
 
->> **u/Gurkenglas** [+8] *
+>> **u/Gurkenglas** [+7]  (23 hours later)
 >> 
 >> How quickly does he do it, and what counts as an object that can be repaired? Build an idol with gemstone eyes. Flick out the gemstone, repair, repeat.
->> By teaming up with scientists, you can conjure fabled experimental materials! For example, have them build a container for antimatter (a constant negative static charge around a sphere of vacuum should keep antiprotons in its middle, as a first idea), construct an object around it that's four times as heavy in total, and insert a single elementary particle of antimatter into the container, for that's the scale we can currently synthesize. Remove the container, repair, remove the container, combine the two container's contents, insert the container, repeat. Free energy, light rocket fuel, easy doomsday device.
->> Other things to conjure: Supercomputers, people (designate five parts of the body, chop each off with repairing after each chop, repair the 5 parts into a whole), and everything consumable from food to ammunition for self-sufficiency.
 >> 
+>> By teaming up with scientists, you can conjure fabled experimental materials! For example, have them build a container for antimatter (a constant negative static charge around a sphere of vacuum should keep antiprotons in its middle, as a first idea), construct an object around it that's four times as heavy in total, and insert a single elementary particle of antimatter into the container, for that's the scale we can currently synthesize. Remove the container, repair, remove the container, combine the two container's contents, insert the container, repeat. Free energy, light rocket fuel, easy doomsday device.
+>> 
+>> Other things to conjure: Supercomputers, people (designate five parts of the body, chop each off with repairing after each chop, repair the 5 parts into a whole), and everything consumable from food to ammunition for self-sufficiency.
 
->>> **u/mothdatelightwave** [+1] *
+>>> **u/mothdatelightwave** [+1]  (23 hours later)
 >>> 
 >>> Okay, but that's goal number 2, how about accomplishing goal 1, which is quite required for those other g2 steps?
->>> 
 
->>>> **u/GemOfEvan** [+8] *
+>>>> **u/GemOfEvan** [+7]  (a day later)
 >>>> 
 >>>> 1. Clean up and repair your clothes.
->>>> 2. Approach a professor.
->>>> 3. Display your power.
->>>> 4. Science!
 >>>> 
+>>>> 2. Approach a professor.
+>>>> 
+>>>> 3. Display your power.
+>>>> 
+>>>> 4. Science!
 
->>>> **u/ShiranaiWakaranai** [+3] *
+>>>> **u/ShiranaiWakaranai** [+3]  (a day later)
 >>>> 
 >>>> Goal 1 is actually really easy. People throw away broken things all the time, including expensive things like TVs and computers. If you can fix them back into perfect condition, you can sell them for money. 
->>>> In some cities, its even easier since all the trash is collected and dumped in one area. For normal people, it's nothing but a dump, but with this repair ability, every trash dump is now an ore mine.
 >>>> 
+>>>> In some cities, its even easier since all the trash is collected and dumped in one area. For normal people, it's nothing but a dump, but with this repair ability, every trash dump is now an ore mine.
 
->>> **u/MereInterest** [+1] *
+>>> **u/MereInterest** [+1]  (2 days later)
 >>> 
 >>> Just static electric fields are insufficient to contain charged particles, as [Poisson's equation](https://en.wikipedia.org/wiki/Poisson%27s_equation) doesn't allow for any local minima, which you need in order to make a static trap.  You can however, use a combination of magnetic fields to confine the particle in two dimensions, with an electric field to confine the particle in the third.  These exist, and are known as [Penning traps](https://en.wikipedia.org/wiki/Penning_trap).
->>> The rocket fuel idea is rather nice, since it lets you get away from the [Rocket Equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation), allowing for much, much easier space exploration.
 >>> 
+>>> The rocket fuel idea is rather nice, since it lets you get away from the [Rocket Equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation), allowing for much, much easier space exploration.
 
->> **u/zarraha** [+3] *
+>> **u/zarraha** [+4]  (a day later)
 >> 
 >> This is terribly broken, you can summon an infinite amount of anything by:
->> 1) Build a compound object by taping/gluing together four/five objects.
->> 2) Break it by removing one object.
->> 3) Repair it using the power.
->> 4) Repeat
->> Even if we disallow this by defining "objects" to be things that are commonly considered single objects instead of four supercomputers taped together, you can still summon an infinite amount of raw materials by making something like a chair made of X material and then repeatedly breaking off chunks of it.
->> Rather than point out the ways this could be used to benefit yourself and humanity by reducing shortages of literally everything, I would suggest you alter the power such that "repairing" an object only rearranges existing material into a "fixed" shape, not creating new stuff.  Either by having a supply of extra material at hand, or by reorganizing the existing material effectively making it thinner to compensate.
 >> 
+>> 1) Build a compound object by taping/gluing together four/five objects.
+>> 
+>> 2) Break it by removing one object.
+>> 
+>> 3) Repair it using the power.
+>> 
+>> 4) Repeat
+>> 
+>> Even if we disallow this by defining "objects" to be things that are commonly considered single objects instead of four supercomputers taped together, you can still summon an infinite amount of raw materials by making something like a chair made of X material and then repeatedly breaking off chunks of it.
+>> 
+>> Rather than point out the ways this could be used to benefit yourself and humanity by reducing shortages of literally everything, I would suggest you alter the power such that "repairing" an object only rearranges existing material into a "fixed" shape, not creating new stuff.  Either by having a supply of extra material at hand, or by reorganizing the existing material effectively making it thinner to compensate.
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (2 days later)
 >> 
 >> (1): Put up a sign that says "sTuf FixeD cHeep". Wait for someone to produce some stuff to get fixed. Repair it, get paid. Rinse and repeat (and *especially* repeat once word-of-mouth really gets going)
->> (2): Once you have enough, get a better sign and a more visible location.
->> (3): Before long, it should be possible to rent a small shop and get an actually professional sign. (At this point, drop the word "cheap" and just say "Repairs"). Maintain relations with previous clients, of course.
->> (Note that this all assumes that 'things' only refers to non-living things. If 'things' includes people, then get a job in a hospital and work up from there.)
 >> 
+>> (2): Once you have enough, get a better sign and a more visible location.
+>> 
+>> (3): Before long, it should be possible to rent a small shop and get an actually professional sign. (At this point, drop the word "cheap" and just say "Repairs"). Maintain relations with previous clients, of course.
+>> 
+>> (Note that this all assumes that 'things' only refers to non-living things. If 'things' includes people, then get a job in a hospital and work up from there.)
 
-> **u/FordEngineerman** [+2] *
+> **u/FordEngineerman** [+2]  (9 hours later)
 > 
 > My uncle is starting a new D&D campaign and in his world there are no explosions. Like literally if anything would explode instead it either fails to ignite or burns slowly instead. The only exception is certain magical spells which can channel explosions.
-> Anyone know how badly that would break physics or if anything is exploitable as a result of that?
-> Edit: I talked to him some more and he explained the mechanic by which this takes place. Any time something would explode, the energy generated by that explosion is siphoned off by an unknown powerful god-like being. That same being supplies all of the energy to power all magic and mana in the world.
 > 
+> Anyone know how badly that would break physics or if anything is exploitable as a result of that?
+> 
+> Edit: I talked to him some more and he explained the mechanic by which this takes place. Any time something would explode, the energy generated by that explosion is siphoned off by an unknown powerful god-like being. That same being supplies all of the energy to power all magic and mana in the world.
 
->> **u/GemOfEvan** [+8] *
+>> **u/GemOfEvan** [+8]  (11 hours later)
 >> 
 >> Depending on your definition of explosion, you could get around a few engineering hurdles. Most bombs would turn into directed energy weapons instead.
->> Imagine a nuke in this world. Obviously, if we detonated it, there would be no explosion. But what if we opened a small hole on it? All that energy is being forced out that hole at a rate proportional to its size. Now you've got a safe-ish radiation/heat gun powered by a nuke. 
->> I'm not all that well versed in D&D spells, but my first idea is to polymorph a fire elemental into an ant and put said ant into a metal box with a hole on one end. When the polymorph ends, the elemental is now inside the tiny box (which cannot be exploded out of) with the fire being forced out the hole.
 >> 
+>> Imagine a nuke in this world. Obviously, if we detonated it, there would be no explosion. But what if we opened a small hole on it? All that energy is being forced out that hole at a rate proportional to its size. Now you've got a safe-ish radiation/heat gun powered by a nuke. 
+>> 
+>> I'm not all that well versed in D&D spells, but my first idea is to polymorph a fire elemental into an ant and put said ant into a metal box with a hole on one end. When the polymorph ends, the elemental is now inside the tiny box (which cannot be exploded out of) with the fire being forced out the hole.
 
->>> **u/FordEngineerman** [+1] *
+>>> **u/FordEngineerman** [+1]  (2 days later)
 >>> 
 >>> So he explained further that the energy that would create explosions gets siphoned off. So it wouldn't be able to be redirected as a beam or such. I like the out of the box thinking though and I might try it if I can side-step some of the rules.
->>> 
 
->> **u/ShiranaiWakaranai** [+7] *
+>> **u/ShiranaiWakaranai** [+6]  (10 hours later)
 >> 
 >> >  in his world there are no explosions.
->> *Looks at the giant exploding ball in the sky.*
->> In the wise words of [xkcd](https://what-if.xkcd.com/49/): "It's the Sun. We need the Sun."
 >> 
+>> *Looks at the giant exploding ball in the sky.*
+>> 
+>> In the wise words of [xkcd](https://what-if.xkcd.com/49/): "It's the Sun. We need the Sun."
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+5]  (9 hours later)
 >> 
 >> You're looking for [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/), but keep in mind that complaining that it makes no real-world sense should not accomplish any of your goals.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (10 hours later)
 >> 
 >> Basically, combusion has a rate cap? How fast can you burn things before it counts as an explosion?
->> On the other hand, do non-combusion events, like geysers, volcanos, etc. count as explosions?
 >> 
+>> On the other hand, do non-combusion events, like geysers, volcanos, etc. count as explosions?
 
->>> **u/FordEngineerman** [+2] *
+>>> **u/FordEngineerman** [+2]  (2 days later)
 >>> 
 >>> Yeah that's kind of how he explained it when I asked. Non-combustion events would still count. I think geysers and volcanoes would just seep out instead of exploding out.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> Well, congratulations. If you can find a way to stuff energy into a space faster than the maximum rate cap, you can store infinite energy in very little space and create a battery that lasts an arbitrary amount of time. If the thing about "no explosions" is true, you can do that with something as simple as a pump and a glass bottle, or a windup spring and ratchet. Or a steam boiler... This a world where steampunk is viable, is what I'm saying. You can store as much high pressure steam as you want, and ruptures, boiling dry, whatever, will never cause them to explode. Gently crack, maybe. But that's much easier to fix.
->>>> On the other hand, maybe doing that just results in the relevant mass/energy just... Vanishing.
->>>> In which case, less useful, but you can still use it. You can easily dispose of anything you can put under pressure, just by jamming enough of it into a small enough space that it starts to disappear.
->>>> That breaks geology, though, because you lose a lot of planet very quickly if mass above a certain pressure limit starts disappearing until it's no longer pressurized.
->>>> Wait, do bows and crossbows not work here? Because they involve very quickly releasing a lot of pent-up energy.
 >>>> 
+>>>> On the other hand, maybe doing that just results in the relevant mass/energy just... Vanishing.
+>>>> 
+>>>> In which case, less useful, but you can still use it. You can easily dispose of anything you can put under pressure, just by jamming enough of it into a small enough space that it starts to disappear.
+>>>> 
+>>>> That breaks geology, though, because you lose a lot of planet very quickly if mass above a certain pressure limit starts disappearing until it's no longer pressurized.
+>>>> 
+>>>> Wait, do bows and crossbows not work here? Because they involve very quickly releasing a lot of pent-up energy.
 
->>>>> **u/FordEngineerman** [+2] *
+>>>>> **u/FordEngineerman** [+2]  (2 days later)
 >>>>> 
 >>>>> Good questions. I'll have to ask in session 0.
->>>>> 
 
-> **u/Kuratius** [+2] *
+> **u/Kuratius** [+2]  (a day later)
 > 
 > Problem: Escape from a black hole prison where the total mass of the black hole with a spherical volume is concentrated in the shell such that the interior is flat spacetime according to the shell theorem.
-> 
 
->> **u/ShiranaiWakaranai** [+4] *
+>> **u/ShiranaiWakaranai** [+3]  (2 days later)
 >> 
 >> Erm... you... can't?
->> They are called Black holes for a reason, nothing escapes, not even light. Unless you have some kind of teleporting ability or black hole destroying ability, you are stuck.
 >> 
+>> They are called Black holes for a reason, nothing escapes, not even light. Unless you have some kind of teleporting ability or black hole destroying ability, you are stuck.
 
->> **u/CCC_037** [+3] *
+>> **u/CCC_037** [+3]  (2 days later)
 >> 
 >> Step one: Break known physics...
->> 
 
->>> **u/Kuratius** [+2] *
+>>> **u/Kuratius** [+2]  (2 days later)
 >>> 
 >>> This is mostly a thought experiment, so I'd accept answers involving purely theoretical concepts like exotic matter.
 >>> It's entirely possible that the structure I proposed cannot exist in a stable form at all for longer than it takes the shell to collapse inwards, but if it could (maybe through having it consist of charged particles) you'd have a chunk of space time that is effectively separated from everything around it by an infinite distance (from the pov of light trying to pass between) and yet I think there's a chance to access it if we permit wormhole formation to change the geometry of the underlying space time. So you'd have a structure with exactly one exit controlled by ONLY you.
->>> The one thing I am completely uncertain about is how time would pass there. The space time is completely flat, but any space time is flat locally except for a singularity, so it's possible that you'd still have extreme time dilation, making it a  time prison as well.
 >>> 
+>>> The one thing I am completely uncertain about is how time would pass there. The space time is completely flat, but any space time is flat locally except for a singularity, so it's possible that you'd still have extreme time dilation, making it a  time prison as well.
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (3 days later)
 >>>> 
 >>>> That's reasonable; however, as I do not know enough of cutting-edge theoretical physics to produce an even plausibly wrong answer to that question, I don't really think I can produce any sort of escape plan.
->>>> Unless you're immortal and can wait for the shell to burn itself out with Hawking radiation, I guess.
->>>> > you'd have a chunk of space time that is effectively separated from everything around it by an infinite distance (from the pov of light trying to pass between)
->>>> Point of order; light can go *into* a black hole just fine. It just can't get *out* again.
->>>> > but any space time is flat locally except for a singularity
->>>> Point of order, again - in a gravitational reference frame, spacetime *curves*. Such spacetime can only be considered 'completely flat' in the limiting case of a single point (though it can of course be considered approximately flat for most purposes over a very small area).
 >>>> 
+>>>> Unless you're immortal and can wait for the shell to burn itself out with Hawking radiation, I guess.
+>>>> 
+>>>> > you'd have a chunk of space time that is effectively separated from everything around it by an infinite distance (from the pov of light trying to pass between)
+>>>> 
+>>>> Point of order; light can go *into* a black hole just fine. It just can't get *out* again.
+>>>> 
+>>>> > but any space time is flat locally except for a singularity
+>>>> 
+>>>> Point of order, again - in a gravitational reference frame, spacetime *curves*. Such spacetime can only be considered 'completely flat' in the limiting case of a single point (though it can of course be considered approximately flat for most purposes over a very small area).
 
->>>>> **u/Kuratius** [+2] *
+>>>>> **u/Kuratius** [+2]  (3 days later)
 >>>>> 
 >>>>> Imagine a photon bouncing clock just outside the event horizon. A distant observer still has to measure the same speed of light, but he also has to observe time dilation. Therefore for everything to be consistent, the distant observer must perceive the photon as covering a greater distance.
->>>>> 
 
->>>>>> **u/CCC_037** [+1] *
+>>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>>> 
 >>>>>> ...no, the distant observer observes time slowing down just outside the event horizon.
->>>>>> 
 
->>>>>>> **u/Kuratius** [+2] *
+>>>>>>> **u/Kuratius** [+2]  (3 days later)
 >>>>>>> 
 >>>>>>> Um... what? Are you saying that time slowing down and time dilation are different?
->>>>>>> 
 
->>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> No, time slowing down is exactly what time dilation is. I'm saying it is *different* to a massive increase in distance, though.
->>>>>>>> 
 
->>>>>>>>> **u/Kuratius** [+2] *
+>>>>>>>>> **u/Kuratius** [+2]  (3 days later)
 >>>>>>>>> 
 >>>>>>>>> For a distant observer, that is the only interpretation that preserves the speed of light, isn't it?
->>>>>>>>> 
 
->>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> ...could you perhaps walk me through the reasoning on that statement?
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Kuratius** [+2] *
+>>>>>>>>>>> **u/Kuratius** [+2]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Velocity is distance over time.
 >>>>>>>>>>> A photon clock makes a photon cover a certain distance (for example bouncing between two plates 1 m apart). To count the passage of time, the photon clock counts the amount of bounces.
->>>>>>>>>>> If the clock closes in on a black hole, time slows down according to a distant observer; he sees the clock as ticking slower. Therefore it takes the photon a longer time between bounces (again, for the distant observer. An observer at the same position as the clock doesn't notice anything different).
->>>>>>>>>>> Since the speed of light must be constant in all frames, the distant observer must conclude that since the time between bounces has increased, the photon must have been covering a greater distance to require that much time. Therefore coming to the conclusion that the clock was "stretched" and the photon has covered a greater distance.
->>>>>>>>>>> If this wasn't the case, and we still measured a slowed down bounce rate, we would measure a different speed of light.
 >>>>>>>>>>> 
+>>>>>>>>>>> If the clock closes in on a black hole, time slows down according to a distant observer; he sees the clock as ticking slower. Therefore it takes the photon a longer time between bounces (again, for the distant observer. An observer at the same position as the clock doesn't notice anything different).
+>>>>>>>>>>> 
+>>>>>>>>>>> Since the speed of light must be constant in all frames, the distant observer must conclude that since the time between bounces has increased, the photon must have been covering a greater distance to require that much time. Therefore coming to the conclusion that the clock was "stretched" and the photon has covered a greater distance.
+>>>>>>>>>>> 
+>>>>>>>>>>> If this wasn't the case, and we still measured a slowed down bounce rate, we would measure a different speed of light.
 
->>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> Hmmmm... I'm more comfortable in special than general relativity. I do know that, given the case of a photon clock in special relativity, there's a longer time in the bounces but the clock is not stretched.
->>>>>>>>>>>> Consider a vertical clock, with the photon bouncing straight up and down. Now, consider the same clock, but moving to the right (i.e. at right angles to the direction of photon movement, so that the length of the clock is not compressed)
->>>>>>>>>>>> Then the observer moving with the clock sees the light moving straight up and down. But you see the light moving in a zigzag, like so:
->>>>>>>>>>>>        /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
->>>>>>>>>>>> So that, while the height of the clock is unchanged, the light nonetheless takes a longer path between ticks.
->>>>>>>>>>>> Now, if I *accelerate* the clock, that should be similar, except the zigzag gets wider as I go.
->>>>>>>>>>>> ...apparently gravity is equivalent to acceleration. I'm not quite sure how that translates in this case, though.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> Consider a vertical clock, with the photon bouncing straight up and down. Now, consider the same clock, but moving to the right (i.e. at right angles to the direction of photon movement, so that the length of the clock is not compressed)
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Then the observer moving with the clock sees the light moving straight up and down. But you see the light moving in a zigzag, like so:
+>>>>>>>>>>>> 
+>>>>>>>>>>>>        /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+>>>>>>>>>>>> 
+>>>>>>>>>>>> So that, while the height of the clock is unchanged, the light nonetheless takes a longer path between ticks.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Now, if I *accelerate* the clock, that should be similar, except the zigzag gets wider as I go.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> ...apparently gravity is equivalent to acceleration. I'm not quite sure how that translates in this case, though.
 
->>>>>>>>>>>>> **u/Kuratius** [+2] *
+>>>>>>>>>>>>> **u/Kuratius** [+2]  (3 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> It still remains true that the photon covers a greater distance in your example, which is what I originally stated.
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> The *photon* covers a greater distance, but the length of the *photon clock* is unchanged. Now, gravity is supposed to be equivalent to acceleration, which implies that the length of the photon clock should remain unchanged to the distant observer (as long as it's at right angles to the direction of gravity).
->>>>>>>>>>>>>> I *think* this might mean that, to a distant observer, gravity messes with the observed speed of light.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I *think* this might mean that, to a distant observer, gravity messes with the observed speed of light.
 
->>>> **u/ShiranaiWakaranai** [+1] *
+>>>> **u/ShiranaiWakaranai** [+1]  (3 days later)
 >>>> 
 >>>> Well, in theory, your black hole could be a [naked singularity](https://en.wikipedia.org/wiki/Naked_singularity) or a [wormhole](https://en.wikipedia.org/wiki/Wormhole), which you can escape from.
->>>> 
 
-> **u/entropizer** [+1] *
+> **u/entropizer** [+1]  (a day later)
 > 
 > If someone is trapped in a time loop, are there any scientific experiments they can do that would benefit from an *exactly* replicated setup each day, down to the millisecond? I feel like there ought to be useful experiments that might not normally be possible due to chaotic initial conditions, but I can't think of any plausible candidates. (Other than social interaction and other standard trial and error munchkinries, but that's not what I'm talking about.)
-> 
 
->> **u/ShiranaiWakaranai** [+5] *
+>> **u/ShiranaiWakaranai** [+5]  (a day later)
 >> 
 >> Well, if you are in a time loop, one of the things you could possibly check is whether determinism is true. I.e., whether fate is real, or whether free will is an illusion.
->> To do so, you need to check the outcome of a "random" event, exactly replicated each day, down to the exact moment in time. This will not be as easy as it sounds. You cannot, for instance, simply flip a coin or roll a dice, since it's pretty much impossible for you to give the coin or dice exactly the same amount and direction of force as you do each day. 
->> You cannot, for instance, ask a non-looping accomplice to flip the coin or roll the dice, since the way you ask them could have microscopic differences that ultimately affect the amount and direction of force applied to the coin/dice.
->> The biggest problem here with exactly replicating the experimental setup is the fact that you are not replicated exactly at the start of each loop. You keep your memories, so your behavior will have microscopic differences. Differences that may perpetuate and snowball away from you at the speed of light, in a butterfly effect that influences all random events in a light cone around you starting from the beginning of each loop.
->> So what you need to do is to actually go around, searching for random events that occur outside your light cone, but within the loop itself. If determinism is true, such random events would always have the same outcome, since their setups would be replicated exactly to perfection. For example, if at the start of each loop, someone extremely far away from you rolls a dice, that dice should always land on the same face, if determinism is true. So if you see any random event outside your light cone that has a different outcome, you would know that determinism is false. (Or that there's another looper.)
->> Ultimately, whether determinism is true is not very important, but it still seems worth checking, especially since a time loop is quite literally the only chance you will get to check.
 >> 
+>> To do so, you need to check the outcome of a "random" event, exactly replicated each day, down to the exact moment in time. This will not be as easy as it sounds. You cannot, for instance, simply flip a coin or roll a dice, since it's pretty much impossible for you to give the coin or dice exactly the same amount and direction of force as you do each day. 
+>> 
+>> You cannot, for instance, ask a non-looping accomplice to flip the coin or roll the dice, since the way you ask them could have microscopic differences that ultimately affect the amount and direction of force applied to the coin/dice.
+>> 
+>> The biggest problem here with exactly replicating the experimental setup is the fact that you are not replicated exactly at the start of each loop. You keep your memories, so your behavior will have microscopic differences. Differences that may perpetuate and snowball away from you at the speed of light, in a butterfly effect that influences all random events in a light cone around you starting from the beginning of each loop.
+>> 
+>> So what you need to do is to actually go around, searching for random events that occur outside your light cone, but within the loop itself. If determinism is true, such random events would always have the same outcome, since their setups would be replicated exactly to perfection. For example, if at the start of each loop, someone extremely far away from you rolls a dice, that dice should always land on the same face, if determinism is true. So if you see any random event outside your light cone that has a different outcome, you would know that determinism is false. (Or that there's another looper.)
+>> 
+>> Ultimately, whether determinism is true is not very important, but it still seems worth checking, especially since a time loop is quite literally the only chance you will get to check.
 
->>> **u/GemOfEvan** [+1] *
+>>> **u/GemOfEvan** [+1]  (a day later)
 >>> 
 >>> Moreover, if determinism is true, this is the only such useful experiment.
->>> If not, then the advantages of the time loop for such an experiment are lessened.
 >>> 
+>>> If not, then the advantages of the time loop for such an experiment are lessened.
 
->>> **u/CCC_037** [+1] *
+>>> **u/CCC_037** [+1]  (2 days later)
 >>> 
 >>> So... if there happens to be a lottery draw that day, all I have to do is see whether or not the same numbers come up?
->>> Or should I check whether the same horses win in a few dozen horse races in other countries?
 >>> 
+>>> Or should I check whether the same horses win in a few dozen horse races in other countries?
 
->>>> **u/ShiranaiWakaranai** [+2] *
+>>>> **u/ShiranaiWakaranai** [+2]  (3 days later)
 >>>> 
 >>>> It's not that simple, unfortunately. Checking horse races and lotteries alone would only be weak evidence for or against Determinism, since those events would almost certainly be within your [light cone](https://en.wikipedia.org/wiki/Light_cone).
->>>> To ensure that your actions truly have no effect on the random event, the random event must occur outside your light cone. What this means is that the event must occur either really early in the time loop (within less than a second of the loop start), or really far away (not on Earth).
->>>> The easiest way I can think of to perform this experiment is to look at the sun (with tools of course). Light takes 8 minutes to reach the Earth from the Sun, and vice versa. That means that for the first 8 minutes of the time loop, any light from the Sun was already emitted before the time loop began, and should be exactly the same. But for the next 8 minutes, any light from the Sun has absolutely not been affected by your actions here on Earth, and is emitted after the start of the time loop. So look for any kind of random event on the Sun, like a solar flare or a sunspot. If determinism is true, then those random events must always occur in the exact same pattern in those 8 minutes. So if you see any difference, you disprove determinism. 
->>>> (Proving determinism is harder, since you must also prove that the random events you observe are truly random, and not determined by events before the time loop.)
 >>>> 
+>>>> To ensure that your actions truly have no effect on the random event, the random event must occur outside your light cone. What this means is that the event must occur either really early in the time loop (within less than a second of the loop start), or really far away (not on Earth).
+>>>> 
+>>>> The easiest way I can think of to perform this experiment is to look at the sun (with tools of course). Light takes 8 minutes to reach the Earth from the Sun, and vice versa. That means that for the first 8 minutes of the time loop, any light from the Sun was already emitted before the time loop began, and should be exactly the same. But for the next 8 minutes, any light from the Sun has absolutely not been affected by your actions here on Earth, and is emitted after the start of the time loop. So look for any kind of random event on the Sun, like a solar flare or a sunspot. If determinism is true, then those random events must always occur in the exact same pattern in those 8 minutes. So if you see any difference, you disprove determinism. 
+>>>> 
+>>>> (Proving determinism is harder, since you must also prove that the random events you observe are truly random, and not determined by events before the time loop.)
 
->>>>> **u/CCC_037** [+1] *
+>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>> 
 >>>>> Hmmm. That means you have to be awake at the start of the time loop. A time loop in which it is (say) Friday every time you wake up is not useful, as the loop start may be an hour or more before you awaken, and you may not know how long.
->>>>> 
 
->>>>>> **u/ShiranaiWakaranai** [+2] *
+>>>>>> **u/ShiranaiWakaranai** [+2]  (3 days later)
 >>>>>> 
 >>>>>> >Hmmm. That means you have to be awake at the start of the time loop. 
->>>>>> You could ask someone instead of doing it yourself. Even if there are no other loopers, there are already plenty of non-looping people who watch the sun for sunspots, for some reason. Track them down, and ask for their data.
->>>>>> You will need to figure out when the time loop actually begins though.
 >>>>>> 
+>>>>>> You could ask someone instead of doing it yourself. Even if there are no other loopers, there are already plenty of non-looping people who watch the sun for sunspots, for some reason. Track them down, and ask for their data.
+>>>>>> 
+>>>>>> You will need to figure out when the time loop actually begins though.
 
->>>>>>> **u/CCC_037** [+2] *
+>>>>>>> **u/CCC_037** [+2]  (3 days later)
 >>>>>>> 
 >>>>>>> Hmmmm.
->>>>>>> I'll only need to know when the time loop actually begins if I find that the data differs between loops in some way.
->>>>>>> There's another factor to consider. There are two sorts of randomness; there is true randomness, which may or may not exist, and there is what I will refer to as computational randomness.
->>>>>>> To illustrate the difference, let us assume that Bob is busy tossing a coin as the time loop begins. In fact, the time loop starts with Bob's coin in mid-air, spinning. The coin bounces off Bob's beermug, spins across the bar counter on its side, ricochets off a bowl of peanuts, rolls off the bar, bounces on the floor a few times, and eventually lands up Heads. Now, an observer at the instant of the start of the time loop (without any information from previous loops) cannot predict which side up the coin will land. But this is not because it's in principle unknowable. In principle, with perfect knowledge of the momentum and kinetic energy of the coin (including the rotation thereof), the exact shape and size of every obstacle, Newtonian mechanics, and a lot of paper to do the calculations on, the result of Bob's coinflip *should* be predictable, in theory. Practically, it's not, because a lot of those factors are - practically - impossible to measure. So, Bob's coinflip is computationally random - that is to say, I can't predict it because I cannot find the data required to state with any certainty which way up it will land without abusing the time loop - but it's not *truly* random.
->>>>>>> Radioactive decay, on the other hand, and to the best of my knowledge, really *is* random. Sunspots... I don't know, but I suspect that the internal mechanisms that cause sunspots are set in motion well before the actual sunspot itself appears (much as Bob's coin, flying through the air at the start of the loop already has, encoded in its position-momentum-energy data and the positions of all the obstacles it hits, the result of 'heads').
 >>>>>>> 
+>>>>>>> I'll only need to know when the time loop actually begins if I find that the data differs between loops in some way.
+>>>>>>> 
+>>>>>>> There's another factor to consider. There are two sorts of randomness; there is true randomness, which may or may not exist, and there is what I will refer to as computational randomness.
+>>>>>>> 
+>>>>>>> To illustrate the difference, let us assume that Bob is busy tossing a coin as the time loop begins. In fact, the time loop starts with Bob's coin in mid-air, spinning. The coin bounces off Bob's beermug, spins across the bar counter on its side, ricochets off a bowl of peanuts, rolls off the bar, bounces on the floor a few times, and eventually lands up Heads. Now, an observer at the instant of the start of the time loop (without any information from previous loops) cannot predict which side up the coin will land. But this is not because it's in principle unknowable. In principle, with perfect knowledge of the momentum and kinetic energy of the coin (including the rotation thereof), the exact shape and size of every obstacle, Newtonian mechanics, and a lot of paper to do the calculations on, the result of Bob's coinflip *should* be predictable, in theory. Practically, it's not, because a lot of those factors are - practically - impossible to measure. So, Bob's coinflip is computationally random - that is to say, I can't predict it because I cannot find the data required to state with any certainty which way up it will land without abusing the time loop - but it's not *truly* random.
+>>>>>>> 
+>>>>>>> Radioactive decay, on the other hand, and to the best of my knowledge, really *is* random. Sunspots... I don't know, but I suspect that the internal mechanisms that cause sunspots are set in motion well before the actual sunspot itself appears (much as Bob's coin, flying through the air at the start of the loop already has, encoded in its position-momentum-energy data and the positions of all the obstacles it hits, the result of 'heads').
 
 ---
 

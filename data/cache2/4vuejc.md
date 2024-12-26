@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/6563723/
-* Score: 5
+* Score: 6
 
 * Created: 2016-08-02T19:44:50
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/blazinghand** [+1]  *Chaos Undivided**
+> **u/blazinghand** [+1]  *Chaos Undivided* (2 hours later)
 > 
 > I received some feedback that many of the generals (Esfand Teinos, Kurush the Fat, Hoshfarn Ironhand, Ioseph etc) lacked characterization. I tried to develop and reveal more about Hoshfarn, Kurush, and Ormgeir this chapter, to help give an idea about how these characters are different.
-> 
 
 ---
 

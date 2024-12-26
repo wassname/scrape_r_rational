@@ -2,7 +2,7 @@
 
 * Author: u/narfanator *
 * URL: https://www.reddit.com/r/rational/comments/4qbq2y/kill_six_billion_demons/
-* Score: 45
+* Score: 39
 
 * Created: 2016-06-28T20:51:59
 
@@ -20,133 +20,124 @@ Short summary: Girl gets magical admin key stuck into her forehead and chucked i
 
 ### Comments:
 
-> **u/ToaKraka** [+17]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+17]  *https://i.imgur.com/OQGHleQ.png* (18 minutes later)
 > 
 > You forgot to include links.
+> 
 > [About/Contact](http://killsixbilliondemons.com/about)  
 > [First page](http://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-1)
-> 
 
->> **u/narfanator** [+4] *
+>> **u/narfanator** [+5]  (an hour later)
 >> 
 >> Dammit. I submitted it as a link, but then supplied text instead of an initial comment.
->> 
 
->> **u/edwardkmett** [+2] *
+>> **u/edwardkmett** [+2]  (3 days later)
 >> 
 >> There is also an old MSPA forum series that sort of formed the protagonist in a different story arc. It was funny watching her and her situation take shape as people shouted suggestions from the crowd.
->> Sadly the MSPA forums seem to be down for maintenance or something, so I can't find and link to it.
->> Also, the author seems to have reset the character for Kill Six Billion Demons, though, so I guess it isn't that important.
 >> 
+>> Sadly the MSPA forums seem to be down for maintenance or something, so I can't find and link to it.
+>> 
+>> Also, the author seems to have reset the character for Kill Six Billion Demons, though, so I guess it isn't that important.
 
->>> **u/Nighzmarquls** [+2] *
+>>> **u/Nighzmarquls** [+2]  (4 days later)
 >>> 
 >>> the initial forum series was hilarious because it actually STARTED out with a bait and switch seeming like it was an adventure about something ELSE entirely (girl at a pool being vapid) and then jumped into throne and the hells and so on with bizarre spirit Nietzsche running commentary.
->>> Also I'm not sure but we might actually be able to blame [THIS](https://vimeo.com/30798517) (potentially NSFW music video) for at least the initial sequence?
 >>> 
+>>> Also I'm not sure but we might actually be able to blame [THIS](https://vimeo.com/30798517) (potentially NSFW music video) for at least the initial sequence?
 
-> **u/ianstlawrence** [+12] *
+> **u/ianstlawrence** [+8]  (46 minutes later)
 > 
 > This webcomic is one of  my favorite webcomics in existence. I dont know if its rational, but it is certainly beautiful and amazing.
-> 
 
->> **u/condortheboss** [+3] *
+>> **u/condortheboss** [+3]  (2 hours later)
 >> 
 >> It definitely explains itself thoroughly
->> 
 
-> **u/jakeb89** [+5] *
+> **u/jakeb89** [+5]  (4 hours later)
 > 
 > What the ever living fuck am I reading?
-> ... I love it.
 > 
+> ... I love it.
 
->> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (3 days later)
 >> 
 >> Remember to read the alt-text, and the comments section.
->> 
 
-> **u/Nepene** [+4] *
+> **u/Nepene** [+5]  (5 hours later)
 > 
 > This is a very interesting and odd story. I'm not sure if it's rational, but whatever drugs the author is on, I totally want some of them.
-> 
 
->> **u/narfanator** [+7] *
+>> **u/narfanator** [+8]  (12 hours later)
 >> 
 >> The drug is WANT and is it used to CUT for the first act of divinity is DIVISION.
->> Or something.
 >> 
+>> Or something.
 
-> **u/TennisMaster2** [+9] *
+> **u/TennisMaster2** [+9]  (52 minutes later)
 > 
 > > :mind-blown:  
 > > Short summary: Girl gets magical admin key stuck into her forehead and chucked into a fallen Heaven. Does not know what the fuck.
-> This is too colloquial for me.  I don't understand what you're saying.
 > 
+> This is too colloquial for me.  I don't understand what you're saying.
 
->> **u/narfanator** [+15] *
+>> **u/narfanator** [+15]  (an hour later)
 >> 
 >> Girl meets some enigmatic figure; the enigmatic figure pushes a magical thing made of light into her forehead. A little while later, you find out that the magical thing is not just *a* key to the universe, but basically *the* Key to the Universe, which everyone else wants and *will* kill for.
->> As a side effect, she's transported to a bizaare world that she *really, really* doesn't understand, that turns out to be the wreckage of Heaven, taken over by demon crime lords and drug barons.
 >> 
+>> As a side effect, she's transported to a bizaare world that she *really, really* doesn't understand, that turns out to be the wreckage of Heaven, taken over by demon crime lords and drug barons.
 
->>> **u/TennisMaster2** [+2] *
+>>> **u/TennisMaster2** [+2]  (an hour later)
 >>> 
 >>> Thank you.
->>> 
 
-> **u/Nighzmarquls** [+2] *
+> **u/Nighzmarquls** [+2]  (5 hours later)
 > 
 > This webcomic is a good.
-> I think the world is even 'rational' on several things.
-> The multiverse presented has some very clear rules, and also not very clear information on how it's supposed to work.
 > 
+> I think the world is even 'rational' on several things.
+> 
+> The multiverse presented has some very clear rules, and also not very clear information on how it's supposed to work.
 
->> **u/whywhisperwhy** [+2] *
+>> **u/whywhisperwhy** [+2]  (4 days later)
 >> 
 >> >     The servant Nighzmarquls, who was recitant said:
->> Your name is literally in one of the blurbs and there are comments with your handle dating back to 2013. 
->> Impressive (assuming that was you, but it seems like a pretty unique name).
 >> 
+>> Your name is literally in one of the blurbs and there are comments with your handle dating back to 2013. 
+>> 
+>> Impressive (assuming that was you, but it seems like a pretty unique name).
 
->>> **u/Nighzmarquls** [+2] *
+>>> **u/Nighzmarquls** [+2]  (4 days later)
 >>> 
 >>> Oh yeah that's me... I was following the story before it was a webcomic and just a forum-adventure.
-
->>> Honestly if you do a net dive for that screen name you will find me scattered across the ancient strata of the internet going well into the early 2001s... I honestly Can't recall if that screen name predates the millenium or not and there are not going to be any solid archives of the things I used it on back then because the name got purged, the platform no longer exists or both.
->>> At the very least I had a geocities account attached to it.
 >>> 
+>>> Honestly if you do a net dive for that screen name you will find me scattered across the ancient strata of the internet going well into the early 2001s... I honestly Can't recall if that screen name predates the millenium or not and there are not going to be any solid archives of the things I used it on back then because the name got purged, the platform no longer exists or both.
+>>> 
+>>> At the very least I had a geocities account attached to it.
 
-> **u/Solonarv** [+2]  *Chaos Legion**
+> **u/Solonarv** [+2]  *Chaos Legion* (17 hours later)
 > 
 > I've actually run into this webcomic before, but couldn't remember any sufficiently distinguishing characteristics to find it again. In that sense, thank you for posting it here!
-> 
 
-> **u/Dwood15** [+2] *
+> **u/Dwood15** [+2]  (18 hours later)
 > 
 > It's actually a really interesting story up to this point, with a strange art style. I like it a lot!
-> 
 
-> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (3 days later)
 > 
 > This is really good!
-> 
 
-> **u/whywhisperwhy** [+2] *
+> **u/whywhisperwhy** [+2]  (4 days later)
 > 
 > The art style at the very beginning was bothering me a bit (but the plot was enjoyable), so I went to the latest offering and it appears the art gets much better. How long would you say it takes before there's any noticeable improvement?
-> 
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (4 days later)
 >> 
 >> That's kinda dicey with webcomics, I think things kind of... shift gradually and improve continuously to be honest.
->> 
 
-> **u/Towerowl** [+2] *
+> **u/Towerowl** [+2]  (6 days later)
 > 
 > Well i just have to give my opinion now to nuance all those positive reviews.
 > Basicaly it isn't for everyone. I personnaly hated the beginning enough that i didn't continue it ( and thats rare ). The heroine has no agency, the art and plot are too messy, and honnestly this isn't rational in any way ( but that gets a pass since we're having trouble deffining "rational" has anything more than "people on this subreedit might like this".)
-> 
 
 ---
 

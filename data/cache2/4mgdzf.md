@@ -2,7 +2,7 @@
 
 * Author: u/boomfarmer  *Trying to be helpful**
 * URL: https://www.reddit.com/r/rational/comments/4mgdzf/q_looking_for_a_story_different_characters/
-* Score: 10
+* Score: 11
 
 * Created: 2016-06-04T02:31:08
 
@@ -33,26 +33,23 @@ Do you know what this story is?
 
 ### Comments:
 
-> **u/alexanderwales** [+5]  *Time flies like an arrow**
+> **u/alexanderwales** [+5]  *Time flies like an arrow* (12 minutes later)
 > 
 > [Cookie Monster by Vernor Vinge?](https://www.analogsf.com/0310/cookie.shtml)
-> 
 
->> **u/boomfarmer** [+3]  *Trying to be helpful**
+>> **u/boomfarmer** [+3]  *Trying to be helpful* (17 minutes later)
 >> 
 >> By the fifth paragraph: Yes.
->> Somewhere, I read the whole thing online. I shall look for it. And here it is: https://www.ida.liu.se/~tompe44/lsff-book/Vernor%20Vinge%20-%20The%20Cookie%20Monster.htm
 >> 
+>> Somewhere, I read the whole thing online. I shall look for it. And here it is: https://www.ida.liu.se/~tompe44/lsff-book/Vernor%20Vinge%20-%20The%20Cookie%20Monster.htm
 
->>> **u/Chronophilia** [+5]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+5]  *sci-fi ≠ futurology* (7 hours later)
 >>> 
 >>> It's been submitted to /r/rational twice before, if you want to check out previous discussions. [Here](https://www.reddit.com/r/rational/comments/4kqjct/the_cookie_monster_vernor_vinge/) last week and [here](https://www.reddit.com/r/rational/comments/2e1ej5/the_cookie_monster_by_vernor_vinge/) a year ago.
->>> 
 
->>>> **u/boomfarmer** [+4]  *Trying to be helpful**
+>>>> **u/boomfarmer** [+3]  *Trying to be helpful* (18 hours later)
 >>>> 
 >>>> Last week is probably why it was so fresh in my brain. Thank you!
->>>> 
 
 ---
 

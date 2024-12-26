@@ -36,58 +36,72 @@ In the end, I honestly created this post in the hope to facilitate a discussion.
 
 ### Comments:
 
-> **u/tjhance** [+46] *
+> **u/tjhance** [+43]  (24 minutes later)
 > 
 > I feel like there are some logical flaws with it being Fortov, but (and I've said so on this sub before) I agree that Fortov is satisfying from a literary perspective, if the story turns out to have a great explanation for those apparent issues.
-> I'm particularly amused by the idea of them being so obsessed with ignoring each other that they each fail to notice that the other is the enemy they've been hunting... except the purple-creeper patch incident sort of throws a wrench in it.
-> There's kind of something weird about the purple-creeper patch being so regular. (This is what originally caused me to start thinking something suspicious might be up with Fortov, and I had an idea that maybe he was intentionally being so regular, although maybe this idea is kind of convoluted, when really this is just supposed to mean that Ibery is really obsessed with Fortov.) The story also draws attention to the fact that Zorian doesn't know what happens to Fortov during the invasion. 
-> I also had a pet theory that Fortov was able to hack the temp marker by being a natural soul-mage analogously to Zorian being a natural mind-mage. Unfortunately, there's not really any evidence for this, other than the fact that it would feel satisfying.
-> I've seen this pointed out before, but there's also the one weird incident where the train car has different inhabitants for no apparent reason, which could plausibly be the result of Fortov acting differently.
-> Finally, Fortov is not just selfish, but Zorian specifically describes him as someone who tries to *leech off others' success* (which is backed up by his interactions with Daimen). This would be consistent with him trying to take advantage of the loop for himself.
 > 
+> I'm particularly amused by the idea of them being so obsessed with ignoring each other that they each fail to notice that the other is the enemy they've been hunting... except the purple-creeper patch incident sort of throws a wrench in it.
+> 
+> There's kind of something weird about the purple-creeper patch being so regular. (This is what originally caused me to start thinking something suspicious might be up with Fortov, and I had an idea that maybe he was intentionally being so regular, although maybe this idea is kind of convoluted, when really this is just supposed to mean that Ibery is really obsessed with Fortov.) The story also draws attention to the fact that Zorian doesn't know what happens to Fortov during the invasion. 
+> 
+> I also had a pet theory that Fortov was able to hack the temp marker by being a natural soul-mage analogously to Zorian being a natural mind-mage. Unfortunately, there's not really any evidence for this, other than the fact that it would feel satisfying.
+> 
+> I've seen this pointed out before, but there's also the one weird incident where the train car has different inhabitants for no apparent reason, which could plausibly be the result of Fortov acting differently.
+> 
+> Finally, Fortov is not just selfish, but Zorian specifically describes him as someone who tries to *leech off others' success* (which is backed up by his interactions with Daimen). This would be consistent with him trying to take advantage of the loop for himself.
 
->> **u/arunciblespoon** [+35] *
+>> **u/arunciblespoon** [+33]  (2 hours later)
 >> 
 >> [Here are some relevant passages in support of the hypothesis.](https://write.as/r2kubeoqeqfmx.md)
->> It should be remembered that RR was in the time loop long before Zorian and could have used that time to work out a sequence of events involving Zorian and the purple creeper incident that suited him during the early period when Zorian was essentially a predictable automaton.
->> Perhaps Fortov/RR simply needed Zorian to be out of his room on the day before the invasion for some reason, and having Zorian make a purple creeper salve was the easiest way to achieve that outcome. In the restarts where Zorian didn't return to his room on the second last day, Fortov/RR had no need to approach him.
->> Of particular note in the extracts to which I have linked are the inconsistencies between Fortov's own accounts of the purple creeper incident:
->> * In Ch 3, Fortov says to Zorian that he pushed Ibery into the purple creeper patch. He says he needs the salve made on the second last day of the restart, and no later, because (he says) Ibery has a crush on "this boy" (implicitly, not Fortov); she won't be able to go to the celebration the next day unless her rash is fixed; and she will never forgive Fortov.
->> * In Ch 75, Fortov says to Zorian that he pushed Ibery into the purple creeper patch because "she was being really aggressive and wouldn't take no for an answer and she kept trying to kiss me".
->> If the truth is that Ibery "had a massive crush on Fortov" (Ch 9), but Fortov was so uninterested in her that he pushed her into a purple creeper patch to avoid her advances (Ch 75), why would he so urgently need Zorian to make the salve before the end of the restart? Ibery herself says to Zorian that the salve is "not that important" (Ch 9).
->> Although Ibery said in one restart that Fortov "didn't mean for this to happen" (Ch 9), Zorian concludes, having observed Fortov across many restarts, that Fortov pushing Ibery into the purple creeper patch "has got to be a deliberate move on his part" (Ch 75).
->> It's all very curious. In many ways, Fortov acts like a looper.
 >> 
+>> It should be remembered that RR was in the time loop long before Zorian and could have used that time to work out a sequence of events involving Zorian and the purple creeper incident that suited him during the early period when Zorian was essentially a predictable automaton.
+>> 
+>> Perhaps Fortov/RR simply needed Zorian to be out of his room on the day before the invasion for some reason, and having Zorian make a purple creeper salve was the easiest way to achieve that outcome. In the restarts where Zorian didn't return to his room on the second last day, Fortov/RR had no need to approach him.
+>> 
+>> Of particular note in the extracts to which I have linked are the inconsistencies between Fortov's own accounts of the purple creeper incident:
+>> 
+>> * In Ch 3, Fortov says to Zorian that he pushed Ibery into the purple creeper patch. He says he needs the salve made on the second last day of the restart, and no later, because (he says) Ibery has a crush on "this boy" (implicitly, not Fortov); she won't be able to go to the celebration the next day unless her rash is fixed; and she will never forgive Fortov.
+>> 
+>> * In Ch 75, Fortov says to Zorian that he pushed Ibery into the purple creeper patch because "she was being really aggressive and wouldn't take no for an answer and she kept trying to kiss me".
+>> 
+>> If the truth is that Ibery "had a massive crush on Fortov" (Ch 9), but Fortov was so uninterested in her that he pushed her into a purple creeper patch to avoid her advances (Ch 75), why would he so urgently need Zorian to make the salve before the end of the restart? Ibery herself says to Zorian that the salve is "not that important" (Ch 9).
+>> 
+>> Although Ibery said in one restart that Fortov "didn't mean for this to happen" (Ch 9), Zorian concludes, having observed Fortov across many restarts, that Fortov pushing Ibery into the purple creeper patch "has got to be a deliberate move on his part" (Ch 75).
+>> 
+>> It's all very curious. In many ways, Fortov acts like a looper.
 
->>> **u/None** [+15] *
+>>> **u/None** [+16]  (14 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/arunciblespoon** [+4] *
+>>>> **u/arunciblespoon** [+5]  (23 hours later)
 >>>> 
 >>>> The difficulty is that the part of the social situation that Fortov is lying about is not the embarrassing part.
->>>> He always candidly admits to pushing Ibery into the purple creeper patch. That's the embarrassing part. What he lies about is Ibery's crush. In Ch 3, he says that she has a crush on someone else ("this boy") and that he urgently needs Zorian to make a salve immediately else she'll never forgive him. In Ch 75, he says that he pushed her into the patch because she has a crush on him (Fortov) and he couldn't otherwise deter her.
->>>> Zorian concludes from his own observations that Ibery really does have a massive crush on Fortov, so the falsehood is probably what Fortov said in Ch 3 rather than what he said in Ch 75, and the former took place when RR was still in the loop.
->>>> The proposition that Fortov and Ibery were just normal students whose daily lives were mostly unaffected by the other changes in the loop does not explain the discrepancy between Fortov's behaviour in Ch 3 and his behaviour in Ch 75.
 >>>> 
+>>>> He always candidly admits to pushing Ibery into the purple creeper patch. That's the embarrassing part. What he lies about is Ibery's crush. In Ch 3, he says that she has a crush on someone else ("this boy") and that he urgently needs Zorian to make a salve immediately else she'll never forgive him. In Ch 75, he says that he pushed her into the patch because she has a crush on him (Fortov) and he couldn't otherwise deter her.
+>>>> 
+>>>> Zorian concludes from his own observations that Ibery really does have a massive crush on Fortov, so the falsehood is probably what Fortov said in Ch 3 rather than what he said in Ch 75, and the former took place when RR was still in the loop.
+>>>> 
+>>>> The proposition that Fortov and Ibery were just normal students whose daily lives were mostly unaffected by the other changes in the loop does not explain the discrepancy between Fortov's behaviour in Ch 3 and his behaviour in Ch 75.
 
->>>>> **u/archaeonaga** [+8] *
+>>>>> **u/archaeonaga** [+7]  (2 days later)
 >>>>> 
 >>>>> Wait, how is that evidence of a discrepancy? 
->>>>> For starters, he's lying about more than Ibery's crush, he doesn't explain anything about the situation. Which is a lot more complicated than the story he tells Zorian: he literally took the worst assignment to run away from a girl, and then adds injury to insult when he pushes her in the creeper patch. He clearly doesn't outright dislike her—otherwise why not just crush her heart? 
->>>>> Since we know he doesn't hate her, it shouldn't be surprising he tells a white lie to Zorian, which renders her completely blameless. And since Zorian's always ready to believe the worst about his brother, he doesn't question it. 
->>>>> Plus, there are bigger problems. How does Fortov get introduced to Panaxeth? Why would Zach take him down to the gate in the first place? Why would Fortov purposefully aim artillery magic at Zorian's dorm? What reason does Fortov even have to join up with Panaxeth, especially since his entire problem is his lack of work ethic?
 >>>>> 
+>>>>> For starters, he's lying about more than Ibery's crush, he doesn't explain anything about the situation. Which is a lot more complicated than the story he tells Zorian: he literally took the worst assignment to run away from a girl, and then adds injury to insult when he pushes her in the creeper patch. He clearly doesn't outright dislike her—otherwise why not just crush her heart? 
+>>>>> 
+>>>>> Since we know he doesn't hate her, it shouldn't be surprising he tells a white lie to Zorian, which renders her completely blameless. And since Zorian's always ready to believe the worst about his brother, he doesn't question it. 
+>>>>> 
+>>>>> Plus, there are bigger problems. How does Fortov get introduced to Panaxeth? Why would Zach take him down to the gate in the first place? Why would Fortov purposefully aim artillery magic at Zorian's dorm? What reason does Fortov even have to join up with Panaxeth, especially since his entire problem is his lack of work ethic?
 
->>> **u/FeO_Chevalier** [+8] *
+>>> **u/FeO_Chevalier** [+8]  (5 hours later)
 >>> 
 >>> If Fortov pushes Ibery into the magic poison ivy in order to get Zorian out of his room, why would he keep doing it after Red Robe left the loop?
->>> 
 
->>>> **u/syboor** [+21] *
+>>>> **u/syboor** [+20]  (7 hours later)
 >>>> 
 >>>> The quoted texts are really convincing. 
+>>>> 
 >>>> So if RR = Fortov, then
 >>>> * before the story begins, Fortov was looping but unaware of it, and was pushing Ibery into a purple patch, was probably failing to convince Zorian to make a salve, and Zorian died. At least, that must have been happening whenever there was no interference from Zach.
 >>>> * before the story begins, Fortov goes through a loop that he will end up remembering, but, because he is not yet aware he is in a loop, he pushes Ibery into a purple patch and fails to convince Zorian to make the salve, like usual. However, this time, Fortov remembers.
@@ -96,28 +110,31 @@ In the end, I honestly created this post in the hope to facilitate a discussion.
 >>>> * RR leaves the loop somewhere before chapter 54, presumably quite a long time before chapter 51.
 >>>> * Looping Fortov 'reverts' to his old self somewhere before chapter 54, but there are no purple patch interactions with Zorian because Zorian is either at Imaya's or not in Cyoria most of the time
 >>>> * In chapter 75, Zorian allows another purple patch interaction to happen by accidentally being in the wrong place at the wrong time. This is the only interaction with the "original" non-loop-aware Fortov in the book. Zorian is predisposed to interpret this behaviour as consistent with the other repetitions he observed, when in fact, it is not.
->>>> The big question is this theory is: why doesn't Fortov become aware that Zorian is looping, or if he does, why doesn't he confront Zorian about it? But I'd have to reread it to figure out how 'early' RR actually left the loop and whether this question is a plot hole or not.
 >>>> 
+>>>> The big question is this theory is: why doesn't Fortov become aware that Zorian is looping, or if he does, why doesn't he confront Zorian about it? But I'd have to reread it to figure out how 'early' RR actually left the loop and whether this question is a plot hole or not.
 
->>>>> **u/FeO_Chevalier** [+13] *
+>>>>> **u/FeO_Chevalier** [+13]  (16 hours later)
 >>>>> 
 >>>>> The purple creeper incident is a really round-about way to remove Zorian from his room, and it does little to guarantee that he’ll still be out of his room when the artillery spell hits during the invasion.  RR by the time of encountering Zorian is already proficient enough with mind magic to screw with Zach’s mind, so I find it difficult to believe he couldn’t just mind magic Zorian into leaving his room.  
->>>>> RR presumably leaves the invasion pretty close to Chapter 26.  He kills the aranea, encounters Zorian, realized that there is at least one more unknown mind magic proficient looper, and immediately leaves the loop.
->>>>> Fortov also seems a poor choice for someone to learn enough magic within 6 loops to make an alliance with the lich and learn how to jail-break his marker.  And he doesn’t really offer anything to Zach to warrant a temporary marker.
 >>>>> 
+>>>>> RR presumably leaves the invasion pretty close to Chapter 26.  He kills the aranea, encounters Zorian, realized that there is at least one more unknown mind magic proficient looper, and immediately leaves the loop.
+>>>>> 
+>>>>> Fortov also seems a poor choice for someone to learn enough magic within 6 loops to make an alliance with the lich and learn how to jail-break his marker.  And he doesn’t really offer anything to Zach to warrant a temporary marker.
 
->>>>>> **u/AnimaLepton** [+4] *
+>>>>>> **u/AnimaLepton** [+4]  (22 hours later)
 >>>>>> 
 >>>>>> 75 also occurs after RR leaves the loop- why would Fortrov continue to do it and ask for help when he's back to "normal?" Why not just believe that this is just another long-term perspective change- there are *several* times where we're told something about a character/magic, but later find out that it's not really the full story. I think the Fortrov thing could be one of them.
->>>>>> IMO these are epileptic trees-type justifications, but we'll see.
 >>>>>> 
+>>>>>> IMO these are epileptic trees-type justifications, but we'll see.
 
->>>>> **u/PM_ME_OS_DESIGN** [+7] *
+>>>>> **u/PM_ME_OS_DESIGN** [+6]  (a day later)
 >>>>> 
 >>>>> Formatting.
+>>>>> 
 >>>>> > The quoted texts are really convincing.
 >>>>> > 
 >>>>> > So if RR = Fortov, then:
+>>>>> 
 >>>>> * before the story begins, Fortov was looping but unaware of it, and was pushing Ibery into a purple patch, was probably failing to convince Zorian to make a salve, and Zorian died. At least, that must have been happening whenever there was no interference from Zach. 
 >>>>> * before the story begins, Fortov goes through a loop that he will end up remembering, but, because he is not yet aware he is in a loop, he pushes Ibery into a purple patch and fails to convince Zorian to make the salve, like usual. However, this time, Fortov remembers. 
 >>>>> * still before the story begins, Fortov is now looping and aware that Zorian will die in his room if he and/or Zach don't do something about it, and starts refining his excuses to convince Zorian to leave his room. This is also the situation when the story begins.
@@ -125,650 +142,656 @@ In the end, I honestly created this post in the hope to facilitate a discussion.
 >>>>> * RR leaves the loop somewhere before chapter 54, presumably quite a long time before chapter 51.
 >>>>> * Looping Fortov 'reverts' to his old self somewhere before chapter 54, but there are no purple patch interactions with Zorian because Zorian is either at Imaya's or not in Cyoria most of the time
 >>>>> * In chapter 75, Zorian allows another purple patch interaction to happen by accidentally being in the wrong place at the wrong time. This is the only interaction with the "original" non-loop-aware Fortov in the book. Zorian is predisposed to interpret this behaviour as consistent with the other repetitions he observed, when in fact, it is not.
-
+>>>>> 
 >>>>> > 
 >>>>> > The big question is this theory is: why doesn't Fortov become aware that Zorian is looping, or if he does, why doesn't he confront Zorian about it? But I'd have to reread it to figure out how 'early' RR actually left the loop and whether this question is a plot hole or not.
->>>>> 
 
->>>>>> **u/AnimaLepton** [+1] *
+>>>>>> **u/AnimaLepton** [+1]  (a day later)
 >>>>>> 
 >>>>>> The formatting helped a lot, thanks
->>>>>> 
 
->>>>>> **u/-Fender-** [+1] *
+>>>>>> **u/-Fender-** [+1]  (4 days later)
 >>>>>> 
 >>>>>> This is not quite right. The dormitories being bombed doesn't really happen without RR's intervention. RR is the one telling the invaders all the key phrases and codewords to bypass the wards across the city and the Academy. Without RR, the invaders tend to target churches and government buildings, while with RR's assistance, they instead target places where law enforcement personnel, military groups, weapon supply depots, etc, are located. With RR's assistance, the invaders launch a successful attack against the Academy quickly and efficiently, while without his assistance, they can't destroy any of the buildings less warded since they focus against the main building which is strongly defended, and the teachers have more than enough time to guide all the students to a safe place and to organize a defense.
->>>>>> So if Fortov was actually RR, then he would be directly responsible for Zorian's death. Also, Fortov tries to get Zorian to make him a salve *before* the day of the festival. It's not even the day of the invasion, so Zorian's building won't blow up, even if he chooses to stay inside his room instead of making the salve. 
->>>>>> The timeline just wouldn't make sense.
 >>>>>> 
+>>>>>> So if Fortov was actually RR, then he would be directly responsible for Zorian's death. Also, Fortov tries to get Zorian to make him a salve *before* the day of the festival. It's not even the day of the invasion, so Zorian's building won't blow up, even if he chooses to stay inside his room instead of making the salve. 
+>>>>>> 
+>>>>>> The timeline just wouldn't make sense.
 
->>>>>>> **u/PM_ME_OS_DESIGN** [+1] *
+>>>>>>> **u/PM_ME_OS_DESIGN** [+1]  (5 days later)
 >>>>>>> 
 >>>>>>> That comment was just reformatting the comment above it so it was more readable. I'm not actually saying that stuff, I just messed up the `>` on the bullet points.
->>>>>>> 
 
->>>>> **u/Frommerman** [+3] *
+>>>>> **u/Frommerman** [+3]  (16 hours later)
 >>>>> 
 >>>>> The question then becomes why Fortov would bother to save Zorian if he was also RR and repeatedly trying to kill him. I don't think Z&Z are described as hiding their faces during their attacks upon the invasion, so it wouldn't be mistaken identity. Unless there was something specific Fortov needed to do in Zorian's room which couldn't be done elsewhere or elsewhen, I don't know how he could be RR.
->>>>> He could, however, be another temporary looper who escaped the erasure mechanism and somehow escaped before RR did. This would also explain why RR allied with QI and had several other pieces of the Key: when he tried to escape the normal way, he found the Gate already barred. He wasn't strong enough to fight QI, and didn't seem the type to bargain the Crown off him, so an alliance was his best bet.
 >>>>> 
+>>>>> He could, however, be another temporary looper who escaped the erasure mechanism and somehow escaped before RR did. This would also explain why RR allied with QI and had several other pieces of the Key: when he tried to escape the normal way, he found the Gate already barred. He wasn't strong enough to fight QI, and didn't seem the type to bargain the Crown off him, so an alliance was his best bet.
 
->>>>>> **u/Ardvarkeating101** [+10]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+9]  *Father of Learning* (16 hours later)
 >>>>>> 
 >>>>>> They hide their identities the whole time.  Only Silverlake knows about Zorian
->>>>>> 
 
->>>>>> **u/hallo_friendos** [+1] *
+>>>>>> **u/hallo_friendos** [+1]  (3 days later)
 >>>>>> 
 >>>>>> Why would the gate be barred when RR tried to leave? The simplest explanation for the gate being barred when ZZ tried to leave is that RR already left through it.
->>>>>> 
 
->>>>>>> **u/Frommerman** [+1] *
+>>>>>>> **u/Frommerman** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> This would require there to be an additional, unknown looper, and would explain why Fortov would simultaneously save his brother while allying with the force destroying Cyoria.
->>>>>>> 
 
->>>>>>>> **u/-Fender-** [+1] *
+>>>>>>>> **u/-Fender-** [+1]  (4 days later)
 >>>>>>>> 
 >>>>>>>> No, because he's not trying to get Zorian outside of his room on the actual day of the invasion. During the festival itself is too late; he tries to get Zorian to make him a salve a day or two before that, so that Ibery has enough time to recover from the effects of the purple creeper patch and to find a date. On the day of the invasion itself, he never tried to interact with Zorian. Plus, without Red Robe's involvement, the student dormitories are never even targeted in the first place and the invasion is nowhere near as successful at bypassing the Academy's wards.
->>>>>>>> It just doesn't make sense for Fortov to do this this way, if he's supposedly Red Robe trying to save his brother.
 >>>>>>>> 
+>>>>>>>> It just doesn't make sense for Fortov to do this this way, if he's supposedly Red Robe trying to save his brother.
 
->>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (3 hours later)
 >>> 
 >>> That’s fucking brilliant
->>> 
 
->>> **u/jaghataikhan** [+3]  *Primarch of the White Scars**
+>>> **u/jaghataikhan** [+3]  *Primarch of the White Scars* (13 hours later)
 >>> 
 >>> Goddamn, this is awesome.
->>> You know, I'm realizing Zorian really started showing his newly developed empathy (non-magical) for others in that interlude with Ivery in Ch 9 (where he analyzes her word choice to realize how important it is to her).
->>> It'd be quite fitting in a literary sense for Fortov/Zorian to diverge in their character development from a semi-common origin...
 >>> 
+>>> You know, I'm realizing Zorian really started showing his newly developed empathy (non-magical) for others in that interlude with Ivery in Ch 9 (where he analyzes her word choice to realize how important it is to her).
+>>> 
+>>> It'd be quite fitting in a literary sense for Fortov/Zorian to diverge in their character development from a semi-common origin...
 
->> **u/BirdMustFeed0** [+18] *
+>> **u/BirdMustFeed0** [+17]  (50 minutes later)
 >> 
 >> That's pretty interesting actually. There would be poetic irony in their relationship, as you pointed out. 
->> The creeper patch is also interesting, because it is the only thing in the time loop that happens regularly. Nothing else does. Zorian specifically says this in one of the chapters, that all of the time loops follow the same general format, but there is a large amount of variability by the end of the month. Except for the creeper patch incident, which always happened at the end of the month. This of course doesn't explain why Fortov would seek Zorian out for a potion to cure the girl of the rash, however. It still is interesting though.
 >> 
+>> The creeper patch is also interesting, because it is the only thing in the time loop that happens regularly. Nothing else does. Zorian specifically says this in one of the chapters, that all of the time loops follow the same general format, but there is a large amount of variability by the end of the month. Except for the creeper patch incident, which always happened at the end of the month. This of course doesn't explain why Fortov would seek Zorian out for a potion to cure the girl of the rash, however. It still is interesting though.
 
->>> **u/Ardvarkeating101** [+22]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+21]  *Father of Learning* (an hour later)
 >>> 
 >>> Maybe he just told a simulacrum to do it every time to keep up appearances and then, because he's a shit mage, doesn't get a report from it before the end of the loop, so every single time it goes into the last class not knowing what to expect and every single time it tries to avoid her with the purple creepers and yeah you get the point.
->>> Hell, if Fortov never bothered to learn alchemy better, it's entirely possible he never learned to make the healing salve himself!  We also know that simulacrums can develop their own priorities, and feeling bad about hurting her would be exactly in character and irresponsible enough for a simulacrum to actually try and help with.
 >>> 
+>>> Hell, if Fortov never bothered to learn alchemy better, it's entirely possible he never learned to make the healing salve himself!  We also know that simulacrums can develop their own priorities, and feeling bad about hurting her would be exactly in character and irresponsible enough for a simulacrum to actually try and help with.
 
->>> **u/AuthorBrianBlose** [+6] *
+>>> **u/AuthorBrianBlose** [+9]  (10 hours later)
 >>> 
 >>> The creeper patch incident could actually be supporting evidence of the Fortov as RR theory.  Zach masterminded sending Zorian to the dance so he wouldn't be at his apartment where he is killed at the end of the month.  Maybe making a potion puts a non-looping Zorian on a path where he survives the attack on Cyoria.  It would be an action done repeatedly out of love by Fortov, even if he doesn't get along with his brother.
->>> Of course, this all falls apart if Fortov continued to push the girl after RR departed the time loop.
 >>> 
+>>> Of course, this all falls apart if Fortov continued to push the girl after RR departed the time loop.
 
->>>> **u/jaghataikhan** [+2]  *Primarch of the White Scars**
+>>>> **u/jaghataikhan** [+2]  *Primarch of the White Scars* (13 hours later)
 >>>> 
 >>>> Somebody mentioned that what if it's non-looper Fortov that takes over after exiting the time loop - then if said non-looper Fortov would have been on track to push her in, then wouldn't that remain consistent?
->>>> 
 
->>>> **u/hallo_friendos** [+2] *
+>>>> **u/hallo_friendos** [+2]  (3 days later)
 >>>> 
 >>>> >Fortov continued to push the girl after RR departed the time loop
->>>> Yes, that is the case.
 >>>> 
+>>>> Yes, that is the case.
 
->> **u/NasalJack** [+11] *
+>> **u/NasalJack** [+9]  (an hour later)
 >> 
 >> > There's kind of something weird about the purple-creeper patch being so regular. (This is what originally caused me to start thinking something suspicious might be up with Fortov, and I had an idea that maybe he was intentionally being so regular, although maybe this idea is kind of convoluted, when really this is just supposed to mean that Ibery is really obsessed with Fortov.)
->> That is my line of reasoning as well. Maybe if Fortov and his relationships were explored more it would have made sense to bring attention to the odd regularity of this particular incident, but it really serves no narrative purpose to have this pointed out if it isn't indicative of anything more.
->> I'd have to reread the story to check for any other clues that it's the case, but it makes sense that Fortov would attempt to appear to be living a consistent life to avoid detection from Zach or any other loopers. But since normal humans are more prone to variation if small changes are made, his attempts to remain consistent would be the giveaway that he's the only one that truly isn't.
 >> 
+>> That is my line of reasoning as well. Maybe if Fortov and his relationships were explored more it would have made sense to bring attention to the odd regularity of this particular incident, but it really serves no narrative purpose to have this pointed out if it isn't indicative of anything more.
+>> 
+>> I'd have to reread the story to check for any other clues that it's the case, but it makes sense that Fortov would attempt to appear to be living a consistent life to avoid detection from Zach or any other loopers. But since normal humans are more prone to variation if small changes are made, his attempts to remain consistent would be the giveaway that he's the only one that truly isn't.
 
-> **u/Ardvarkeating101** [+35]  *Father of Learning**
+> **u/Ardvarkeating101** [+36]  *Father of Learning* (24 minutes later)
 > 
 > > We also know he is a natural mind mage, like Zorian and Damien
-> We actually know he's not, as Zorian can tell if he's around one and Fortov i think is mentioned that he's not.
-> Still, great theory.
 > 
+> We actually know he's not, as Zorian can tell if he's around one and Fortov i think is mentioned that he's not.
+> 
+> Still, great theory.
 
->> **u/Green0Photon** [+15]  *Student in Cyoria, Minmay, and Ranvar**
+>> **u/Green0Photon** [+16]  *Student in Cyoria, Minmay, and Ranvar* (5 hours later)
 >> 
 >> I can't really remember it very well, but RR was never one, and neither was Fortov.
->> I vaguely remember their battle after RR killed the Aranea, and when RR mentally attacked Zorian, it came across as a structured spell, like Xvim's defenses, which was why Zorian was able to counter it so easily.
->> I really need to do a reread of the book.
 >> 
+>> I vaguely remember their battle after RR killed the Aranea, and when RR mentally attacked Zorian, it came across as a structured spell, like Xvim's defenses, which was why Zorian was able to counter it so easily.
+>> 
+>> I really need to do a reread of the book.
 
->>> **u/VivaLaPandaReddit** [+1] *
+>>> **u/VivaLaPandaReddit** [+1]  (8 days later)
 >>> 
 >>> I just reread recently,.and you're correct, RR isn't Open or an Empath.
->>> 
 
->> **u/BirdMustFeed0** [+14] *
+>> **u/BirdMustFeed0** [+13]  (53 minutes later)
 >> 
 >> Hmmm. It's still possible to explain away. Fortov could have learned Damien was an empath, and fueled by jealousy he sought to outdo the brother who "betrayed" him in mind magic. Except he sucked at it. Which is why a half trained Zorian overpowered him when they fought.
->> 
 
->>> **u/Ardvarkeating101** [+15]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+17]  *Father of Learning* (58 minutes later)
 >>> 
 >>> That works really well, actually.  It would explain his remark like "the Aranea aren't the only experts in mind magic" because he would have known that his siblings were Open and he was just a Flickermind, and was bitter about it!
->>> 
 
->>>> **u/-Fender-** [+2] *
+>>>> **u/-Fender-** [+2]  (4 days later)
 >>>> 
 >>>> But then he would have been Open when he tried to use mind magic on Zorian, and we know for a fact that he wasn't. Not only would Zorian have been able to sense his ability, but Red Robe would then have also been much better at telepathic combat. He was neither.
->>>> Red Robe is not a telepath/empath.
 >>>> 
+>>>> Red Robe is not a telepath/empath.
 
->>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (4 days later)
 >>>>> 
 >>>>> Yes, that's exactly what I said.  Fortov's a flickermind, he learned mind magic through classical means and that's why he's so bad at it compared to even a half-trained Zorian.
->>>>> 
 
->>> **u/AnimaLepton** [+3] *
+>>> **u/AnimaLepton** [+3]  (22 hours later)
 >>> 
 >>> He would've still sensed Fortrov's natural abilities, empaths are supposed to be like beacons in his mind.
->>> 
 
->>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+4]  *Father of Learning* (a day later)
 >>>> 
 >>>> He meant that Fortov isn't Open
->>>> 
 
->>>>> **u/AnimaLepton** [+1] *
+>>>>> **u/AnimaLepton** [+1]  (a day later)
 >>>>> 
 >>>>> Ah, thanks for the clarification. So he trained to be a mind mage + necromancer, it wasn't natural ability, and that still judges it compared to Zorian's unusual mind magic standards even in Arc 1
->>>>> 
 
->>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (a day later)
 >>>>>> 
 >>>>>> Yeah, Xvim said that someone could train for years and never replicate a causal attack from late arc 2 Zorian.  Fortov probably was at it for like a decade for that kind of attack
->>>>>> 
 
->>>>>>> **u/DragoniteCaptor** [+2] *
+>>>>>>> **u/DragoniteCaptor** [+2]  (3 days later)
 >>>>>>> 
 >>>>>>> I'm pretty sure Xvim said that about doing an attack like that using unstructured magic. I could be wrong but I'd imagine that Red Robe used some form of structured spell to perform the Casual attack.
->>>>>>> 
 
->>>>>>>> **u/-Fender-** [+1] *
+>>>>>>>> **u/-Fender-** [+1]  (4 days later)
 >>>>>>>> 
 >>>>>>>> You are not wrong. Red Robe was not an empath, nor a natural mind mage.
->>>>>>>> 
 
->> **u/None** [+7] *
+>> **u/None** [+7]  (11 hours later)
 >> 
 >> I think that's the connection between Veyers Boranova and Fortov. We know that the inherited magic can be activated with some rituals and that's why Fortov befriended him so that he can get his hands on the ritual and alter it over restarts to activate his own.
->> 
 
->>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (a day later)
 >>> 
 >>> If that were the case then there'd be no reason to off him since the friendship couldn't have started before the time loop, so there was no reason to kill veyers since after a single loop his memories would be gone.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> Maybe it's Zach who offed him
->>>> 
 
->>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (a day later)
 >>>>> 
 >>>>> Their forbidden love was doomed to tragedy.
->>>>> That's the only reason I can think of that would make Zach erase his own memories after killing him.
 >>>>> 
+>>>>> That's the only reason I can think of that would make Zach erase his own memories after killing him.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> Fortov erased Zach memories after Zach erased Veyers from the loop
->>>>>> 
 
-> **u/blast_ended_sqrt** [+35] *
+> **u/blast_ended_sqrt** [+38]  (an hour later)
 > 
 > definitely Kirielle tbh
-> 
 
->> **u/Ardvarkeating101** [+17]  *Father of Learning**
+>> **u/Ardvarkeating101** [+18]  *Father of Learning* (an hour later)
 >> 
 >> Or his mom.  
->> She's kind of a bitch, so perfect for RR.
 >> 
+>> She's kind of a bitch, so perfect for RR.
 
->> **u/Riyonak** [+6] *
+>> **u/Riyonak** [+7]  (5 days later)
 >> 
 >> I thought we already concluded it is Kirielle, Kana, and Nochka standing on their shoulders in a red robe.
->> 
 
-> **u/AdolfWilks** [+21] *
+> **u/AdolfWilks** [+20]  (4 hours later)
 > 
 > I like this theory. Except we know that zorian and zach were completely sick after qautach ichl hit them with the soul merge. They were sick for an unknown amount of restarts. If fortov was rr. He would have noticed. He had to start in his own house the day of the restart.
-> 
 
->> **u/BirdMustFeed0** [+2] *
+>> **u/BirdMustFeed0** [+2]  (12 hours later)
 >> 
 >> At the beginning of the book, Zorian Wasn't in a coma, only Zach.
->> 
 
->>> **u/tjhance** [+21] *
+>>> **u/tjhance** [+22]  (13 hours later)
 >>> 
 >>> zorian does think to himself that he might have been in a coma for an unknown number of iterations (but we don't really know either way)
->>> 
 
->>> **u/myyx** [+13] *
+>>> **u/myyx** [+13]  (13 hours later)
 >>> 
 >>> this is actually unclear.  because we follow zorian's pov, we assume that the first restart is the restart immediately after the soul melding but there could have been several restarts prior to zorian's first that he was a vegetable.
->>> 
 
->>> **u/Tserri** [+2] *
+>>> **u/Tserri** [+2]  (13 hours later)
 >>> 
 >>> It could actually just be that Zorian woke up earlier. I kind of doubt that Zorian's.sojls wouldn't be affected at all by QI's soul magic. He had a part of a soul merged with him, and from what we know, that leaves damage.
->>> 
 
->>>> **u/instanceofhuman** [+2] *
+>>>> **u/instanceofhuman** [+2]  (20 hours later)
 >>>> 
 >>>> The first restart Zach was back to school after the coma, he was feeling sick, and was sent home by Ilsa. If the damage to Zorian's soul was enough to leave him in a coma for some restarts, he should have noticed the moment he woke up. He probably would have awoken feeling ill and at a diferent time of the day (or a diferent day), like he did after being caught in QI's suicide attack. No idea why merging his soul with Zach's does not cause enough damage to be felt by Zorian though.
->>>> 
 
->>>>> **u/Luck732** [+5] *
+>>>>> **u/Luck732** [+3]  (9 days later)
 >>>>> 
 >>>>> Zorian did actually have some issues with sleeping during his 2nd loop. He is awoken late in the day when Tavien comes to recruit him for the sewer run. He later specifically recalls it when he considers whether he spent any loops in a coma.
->>>>> We will never get a complete answer to this, but it is fully possible he did spend a few restarts in a coma.
 >>>>> 
+>>>>> We will never get a complete answer to this, but it is fully possible he did spend a few restarts in a coma.
 
->>>>> **u/hallo_friendos** [+1] *
+>>>>> **u/hallo_friendos** [+1]  (3 days later)
 >>>>> 
 >>>>> If I understand correctly, what was happening was something along the lines of the soul not being able to control his life force properly, which messed up his body pretty badly. Since his soul damage is leading to body damage, it makes sense that he would wake up at the beginning of the month when he just got a new body.
->>>>> 
 
-> **u/FeO_Chevalier** [+20] *
+> **u/FeO_Chevalier** [+20]  (3 hours later)
 > 
 > I doubt Fortov would be unaware of Kirelle going to Cyoria with Zorian, and such a massive departure from the norm on the very first day of the restart should have made Fortov extremely suspicious.  I wouldn’t be surprised if Fortov was Red Robe, but I doubt it.
-> Given all the other things that have been done with magic, I don’t think concealing Red Robe’s actual gender with magic is such a stretch.  I’d agree that Taiven is likely out (isn’t she missing presumed dead for most of the early restarts?), as is Xvim.  Raynie seems like a bit of a stretch (shifter), but she is pretty scarce in the story until after Red Robe left the loop.  Tinami Aope has info about spiders and familial access to mind magic, but her interactions with Zorian in the chapters immediately preceding Red Robe’s departure make her an unlikely suspect.
-> Edit- Also, why would Zach ever place a temporary marker on Fortov?
 > 
+> Given all the other things that have been done with magic, I don’t think concealing Red Robe’s actual gender with magic is such a stretch.  I’d agree that Taiven is likely out (isn’t she missing presumed dead for most of the early restarts?), as is Xvim.  Raynie seems like a bit of a stretch (shifter), but she is pretty scarce in the story until after Red Robe left the loop.  Tinami Aope has info about spiders and familial access to mind magic, but her interactions with Zorian in the chapters immediately preceding Red Robe’s departure make her an unlikely suspect.
+> 
+> Edit- Also, why would Zach ever place a temporary marker on Fortov?
 
->> **u/None** [+8] *
+>> **u/None** [+6]  (11 hours later)
 >> 
 >> > Also, why would Zach ever place a temporary marker on Fortov?
->> Because he need keys (The Artifacts of the first emperor) and Damein being a famous Archeologist can help him but his classmate Zorian is jerk and wouldn't talk to him whenever he brings Damien so he befriended Damien's other brother.
 >> 
+>> Because he need keys (The Artifacts of the first emperor) and Damein being a famous Archeologist can help him but his classmate Zorian is jerk and wouldn't talk to him whenever he brings Damien so he befriended Damien's other brother.
 
->>> **u/lehyde** [+9]  *Nudist Beach**
+>>> **u/lehyde** [+9]  *Nudist Beach* (17 hours later)
 >>> 
 >>> It's my understanding that Zach didn't need the keys to exit the time loop before RR left. RR leaving blocked the exit but before that, the exit would have been open. When Z&Z use the keys, the guardian says something like, the use of the keys indicates that something went wrong in the time loop.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> Keys have individual functions too like how can Zach learn Soul magic without the ring?
->>>> 
 
->>> **u/FeO_Chevalier** [+4] *
+>>> **u/FeO_Chevalier** [+6]  (16 hours later)
 >>> 
 >>> Why does that warrant a temporary marker?  Even the slightest bit of investigation would tell Zach that Damien is in Koth, which is essentially unreachable prior to Zorian using simulacrum to Gate them.  It’s also not like Fortov likes Damien any more than Zorian; I doubt it would be easier to learn about Damien from a cold approach to Fortov than just chatting up Zorian in class.
->>> 
 
->>>> **u/Ardvarkeating101** [+4]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+4]  *Father of Learning* (16 hours later)
 >>>> 
 >>>> Fortov doesn’t like Damien, but Zorian hates just *talking* about Damien.  It would take months for Zorian to open up, while Fortov would be willing to go with Zach to Koth and provide an invite to house Taramatula like Zorian did within 30 days, though it might take slightly longer and thus temporary marker
->>>> 
 
-> **u/MagicwaffIez** [+17] *
+> **u/MagicwaffIez** [+18]  (18 hours later)
 > 
 > Personally, I think fortov is gay or transgender, and thus uncomfortable with her advances ergo pushed her in the patch.
+> 
 > It has been long hinted that he has his own troubles, and in ch 76 daimen said  "All this dancing around and refusing to say what's bothering you, I almost thought you had turned into a woman while I wasn't looking."
+> 
 > Which angered him a lot.
-
+> 
 > Red Robe is sudomir. 
 > Nothing that has come out has changed my opinion about this.
 > Here is my previous  argument of red robe is sudomir. I'm not gonna beat a dead horse, but if anyone has arguments against it, come at me bro~
-> >He likes monologuing just like red robe. Also, when zorian fought red robe he was shocked by none of the attacks phasing him at all; if he was a simulacrum, he would have been dispelled if he was damaged; but sudomir has his freaky shift thing! That's why being shot didn't affect him.
-> >He is the only cultist with detailed list of cult supporters that distanced themselves from the cult (lawyers and judges ect.). He also has a lot of experience with shifter/blood magics so it would make sense that vayers would seek him out. He has a relatively spotless reputation if you don't find his murder mansion, so Zach could have gotten taken in when trying to help vayers! Because he's a member of the cult, he likely has a red robe on hand as well~
-> >Zorian had noted that red robe seems to give the info to the invaders and then not pay any attention to the invasion,,, BECAUSE HE HAS OTHER STUFF TO DO! At his mansion!
-> >It's well known that sudomir and the invaders have a touchy working relationship which fits with the dialogue between red robe and the lich. 
-> >And last, but most importantly, HIS WIFE NEED A BODY!!! And who is making bodies left and right right now?
 > 
+> >He likes monologuing just like red robe. Also, when zorian fought red robe he was shocked by none of the attacks phasing him at all; if he was a simulacrum, he would have been dispelled if he was damaged; but sudomir has his freaky shift thing! That's why being shot didn't affect him.
+> 
+> >He is the only cultist with detailed list of cult supporters that distanced themselves from the cult (lawyers and judges ect.). He also has a lot of experience with shifter/blood magics so it would make sense that vayers would seek him out. He has a relatively spotless reputation if you don't find his murder mansion, so Zach could have gotten taken in when trying to help vayers! Because he's a member of the cult, he likely has a red robe on hand as well~
+> 
+> >Zorian had noted that red robe seems to give the info to the invaders and then not pay any attention to the invasion,,, BECAUSE HE HAS OTHER STUFF TO DO! At his mansion!
+> 
+> >It's well known that sudomir and the invaders have a touchy working relationship which fits with the dialogue between red robe and the lich. 
+> 
+> >And last, but most importantly, HIS WIFE NEED A BODY!!! And who is making bodies left and right right now?
 
->> **u/BirdMustFeed0** [+7] *
+>> **u/BirdMustFeed0** [+7]  (a day later)
 >> 
 >> Hmmm. Damn that's actually pretty solid. Plus Sudomir has gotten enough screen time to be a viable candidate. I'll admit chapter 94 definitely helps this theory. I'm not ready to write off Furtov, (As I said, I started from a shock/emotional impact of the different reveals and worked backwards) but thank you for suggesting this one too me, I'll admit its got a decent change of being true. You're the only person I've seen with a viable alternative. Everyone else keeps suggesting Zach or Zorian simulcrums, and one guy an Areana. Kudos to you sir.
->> 
 
->> **u/Tenoke** [+6]  *Even the fuckin' trees walked in those movies**
+>> **u/Tenoke** [+5]  *Even the fuckin' trees walked in those movies* (a day later)
 >> 
 >> Alternatively, temporary looper/Zorian/Zach(probably not) dies and the soul gets caught in Sudomir's trap. Sudomir investigates the weird soul and finds out about the loop and uses it to enter/make someone who can enter the loop.
->> 
 
->>> **u/MagicwaffIez** [+3] *
+>>> **u/MagicwaffIez** [+3]  (a day later)
 >>> 
 >>> That is also a good idea~ and very possible. sudomir is the only antagonist besides the primordial and the lich who could probably figure out how to jimmy-rig a soul marker... And I'm not sure the primordial can affect the loop itself enough to mess with one.
->>> 
 
->> **u/topin89** [+6] *
+>> **u/topin89** [+4]  (21 hours later)
 >> 
 >> And, as of chapter 94, >!souls for wraith bombs!< are harvested in great numbers. AFAIK, no one except Sudomir knows about the weapon.
->> 
 
->>> **u/Ardvarkeating101** [+7]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+7]  *Father of Learning* (a day later)
 >>> 
 >>> QI does, it was QI's idea
->>> 
 
->>> **u/MagicwaffIez** [+1] *
+>>> **u/MagicwaffIez** [+1]  (21 hours later)
 >>> 
 >>> I had forgotten,,, he never did tell the other cultists about his overall plan, since the upper echelon thinks they're trying to enslave the primordial.
 >>> Good point~
->>> 
 
->> **u/mishanek** [+5] *
+>> **u/mishanek** [+6]  (3 days later)
 >> 
 >> I dont think there is a satisfying way to explain how sudomir finds out about the time loop.
->> And doesn't Zack need to take them to the gate for the primordial to make it's offer?
->> I only see Zack trusting and getting betrayed by a classmate.
->> The soul marker is divine energy so probably even sudomir cannot alter it himself.
 >> 
+>> And doesn't Zack need to take them to the gate for the primordial to make it's offer?
+>> 
+>> I only see Zack trusting and getting betrayed by a classmate.
+>> 
+>> The soul marker is divine energy so probably even sudomir cannot alter it himself.
 
-> **u/TychoBrohe** [+15] *
+> **u/TychoBrohe** [+14]  (14 hours later)
 > 
 > Does nobody else think the lawyer Jornak is a likely contender? 
-> * Zach, after finding out about Tesen's betrayal, seeks out help. Out of desperation, he connects with Veyers who leads him to Jornak, who has a history of helping downtrodden scions.
-> * Jornak is already connected with the Cult of the Dragon Below, and thus has knowledge of the red robes, some skills as a mage, access to QI, and motive for the invasion to succeed. 
-> * Jornak messes with Zach's mind & memory, soulkills Veyers to hide the link, and after he exists the loop, ZZ find his reset soul confused as to why there's a dead Veyers in his basement.
 > 
+> * Zach, after finding out about Tesen's betrayal, seeks out help. Out of desperation, he connects with Veyers who leads him to Jornak, who has a history of helping downtrodden scions.
+> 
+> * Jornak is already connected with the Cult of the Dragon Below, and thus has knowledge of the red robes, some skills as a mage, access to QI, and motive for the invasion to succeed. 
+> 
+> * Jornak messes with Zach's mind & memory, soulkills Veyers to hide the link, and after he exists the loop, ZZ find his reset soul confused as to why there's a dead Veyers in his basement.
 
->> **u/BirdMustFeed0** [+4] *
+>> **u/BirdMustFeed0** [+4]  (15 hours later)
 >> 
 >> Very possible. However, as I said in my post, I'm looking for the characters who when revealed will have the most emotional impact and positive shock value. Usually in a mystery story, the villain is revealed to be someone close to the protagonist, so going solely off literary tropes Fortov is a very likely candidate. However, there is no reason Nobody103 can't make Red Robe a minor character. I am just assuming that Red Robe will be somebody Zorian knows and has close connection to, since that will make for the best reveal from a reader's perspective.
->> 
 
->>> **u/TychoBrohe** [+3] *
+>>> **u/TychoBrohe** [+3]  (15 hours later)
 >>> 
 >>> I understand your point. Jornak wouldn't have the same emotional impact as someone closer to Zorian. I'm not sure if the author though would weigh that as a consideration. Out of all the "close" people to Zorian, I agree that Fortov would be most likely.
->>> I think Fortov has weak motive, but I was struggling to come up with any at all before and your guess at it stemming from his frustration is plausible.
 >>> 
+>>> I think Fortov has weak motive, but I was struggling to come up with any at all before and your guess at it stemming from his frustration is plausible.
 
-> **u/signspace13** [+14] *
+> **u/signspace13** [+12]  (14 minutes later)
 > 
 > The only problem with it being forgive is that he would have noticed Zorian acting strangely within the first few time loops and found a way to get rid of him, I don't see how forgive would miss his brother acting strangely.
-> 
 
->> **u/BirdMustFeed0** [+26] *
+>> **u/BirdMustFeed0** [+26]  (28 minutes later)
 >> 
 >> But that's the thing, Zorian has consistently hated him, so everytime they interact, Zorian shows scorn to him and tries to get Fortov to leave him alone. Plus, up until the very last 2-3 time loops, Red Robe thinks the only other Time looper is Zach. Fortov wouldn't be on the lookout for strange behavior from his brother, and plus everytime Zorian and Fortov interact, Zorian has the same reaction, "Fuck off". They barely interact, and the interactions the brothers did have stayed consistent even after the time loop started. Fortov would not find anything Zorian did suspicious.
->> 
 
->>> **u/Ozimandius** [+16] *
+>>> **u/Ozimandius** [+16]  (34 minutes later)
 >>> 
 >>> Nothing? I mean, Zorian completely changed his behavior, started skipping classes, and fortov (or one of his simulcrums if he was Red Robe) was still there pushing that girl in the Ivy then looking for Zorian.  He would see the difference in Zorian's behavior from the first time Zorian wasn't at school.  After years of seeing the exact same action over and over, it would be beyond obvious the first time Zorian wasn't there or had some new way of curing the ivy etc.
->>> 
 
->>>> **u/BirdMustFeed0** [+27] *
+>>>> **u/BirdMustFeed0** [+27]  (45 minutes later)
 >>>> 
 >>>> Zorian did not start skipping school until after Red Robe left the time loop. If Red Robe is Fortov, then Fortov would have just reverted to his previous self. Plus, Fortov or his simulacrum never looked very hard for Zorian if he couldn't find him. Zorian states that the time loop never repeated itself perfectly, except for Fortov pushing the girl into the Ivy, which could be seen as suspicious. But anyways, it wouldn't be impossible for Zorian to be hanging out with friends and doing something out somewhere, making fortov unable to find him.
->>>> 
 
->>>>> **u/AnimaLepton** [+2] *
+>>>>> **u/AnimaLepton** [+2]  (22 hours later)
 >>>>> 
 >>>>> Then how does 75 factor in? Even if he was RR, Fortrov in 75 is long after RR left the timeloop but still has the incident with Ibery, except that we finally actually get his perspective rather than an offhand comment or only Ibery's half-told side of the story.
->>>>> 
 
->>> **u/Ardvarkeating101** [+18]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+17]  *Father of Learning* (42 minutes later)
 >>> 
 >>> Zorian literally moved apartments across the city so he could bring Kirielle with him, and since then Fortov could never find him even though he always asks for help with the creeper patch.  
->>> That's a fairly big difference/clue for Fortov.
 >>> 
+>>> That's a fairly big difference/clue for Fortov.
 
->>>> **u/Fredlage** [+17] *
+>>>> **u/Fredlage** [+15]  (9 hours later)
 >>>> 
 >>>> Just Kirielle herself is too big of a change. For god knows how many loops it never happened, than suddenly Zorian takes her. They take the same train, how would Fortov miss that? Not to mention it is so close to the beginning of the restart there's hardly any excuse for some other factor causing Zorian to change his mind.
->>>> 
 
->>>>> **u/Ardvarkeating101** [+7]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+8]  *Father of Learning* (11 hours later)
 >>>>> 
 >>>>> To be fair we have no proof that Zorian *never* took Kirielle before he became aware, it’s entirely possible if fortov was like “hey don’t take Kirielle” Zorian would be like “don’t tell me what to do, Bitch” and took her
->>>>> 
 
->>>> **u/BirdMustFeed0** [+9] *
+>>>> **u/BirdMustFeed0** [+10]  (an hour later)
 >>>> 
 >>>> Zorian himself admits that the time loops are variable. It's conceivable that in some time loops Zorian was with his friends, or studying somewhere, or eating at a restaurant, or what have you when Fortov came to his room. Since Fortov doesn't really care about finding his brother that much, he gives up if Zorian isn't in his room. Fortov wouldn't investigate to see why Zorian wasn't in his room, just that the door was locked and Zorian wasn't there.
->>>> 
 
->>>>> **u/Ardvarkeating101** [+12]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+12]  *Father of Learning* (an hour later)
 >>>>> 
 >>>>> ...... It *is* at the end of the month when things are most likely to have diverged
->>>>> 
 
->>>> **u/Tserri** [+3] *
+>>>> **u/Tserri** [+3]  (13 hours later)
 >>>> 
 >>>> This. There's no way Fortov would have missed Zorian bringing Kirielle with him.
->>>> 
 
->>> **u/syboor** [+8] *
+>>> **u/syboor** [+8]  (7 hours later)
 >>> 
 >>> Also, Zorian dies in his room in one of the early loops he remembers, and Zach remarks how difficult it is to save him. So presumable, Fortov has not yet discovered a good way to 'rescue' Zorian when the story begins. Fortov is trying different tactics on Zorian every loop and is even aware of Zach doing the same, so he is not going to be terribly surprised at Zorian showing different *reactions* every loop. Even if Zorian starts acting differently earlier in the loop, Fortov may just blame it on Zach.
->>> 
 
->>>> **u/arunciblespoon** [+10] *
+>>>> **u/arunciblespoon** [+9]  (10 hours later)
 >>>> 
 >>>> Chapter 4:
->>>> > "You always stay in your room and get killed in the initial barrage if I don't do something to stop it. And let me tell you, convincing you not to stay in your room without resorting to violence or getting Ilsa involved is a damn chore. You can really be a stubborn ass when you want to be," Zach said with a sigh.
->>>> But there may be a problem with the timeline on this hypothesis, because the relationship between Zach's attempts to save Zorian and Fortov's (presumed) attempts to save Zorian is unclear. The dance and the summer festival is on the Saturday. Fortov asks Zorian to make the salve on the Friday, after school, and Zorian says it will take about three hours (Ch 3). He finishes the salve on the Friday and heads to his room. On the Saturday, Zorian stays in his room and gets killed in the initial barrage, unless Zach or someone else arranges for him to leave.
->>>> I'm not sure how Fortov "saves" Zorian by occupying his time in the alchemy lab for three hours on the Friday.
 >>>> 
+>>>> > "You always stay in your room and get killed in the initial barrage if I don't do something to stop it. And let me tell you, convincing you not to stay in your room without resorting to violence or getting Ilsa involved is a damn chore. You can really be a stubborn ass when you want to be," Zach said with a sigh.
+>>>> 
+>>>> But there may be a problem with the timeline on this hypothesis, because the relationship between Zach's attempts to save Zorian and Fortov's (presumed) attempts to save Zorian is unclear. The dance and the summer festival is on the Saturday. Fortov asks Zorian to make the salve on the Friday, after school, and Zorian says it will take about three hours (Ch 3). He finishes the salve on the Friday and heads to his room. On the Saturday, Zorian stays in his room and gets killed in the initial barrage, unless Zach or someone else arranges for him to leave.
+>>>> 
+>>>> I'm not sure how Fortov "saves" Zorian by occupying his time in the alchemy lab for three hours on the Friday.
 
->>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (13 hours later)
 >>>>> 
 >>>>> Maybe he subtly installs some wards in his room while he’s distracted?
->>>>> 
 
-> **u/Tserri** [+11] *
+> **u/Tserri** [+9]  (13 hours later)
 > 
 > I think it's unlikely that Fortov is RR. There are just too many inconsistencies with him being RR, and he has no reason to want to destroy Cyora and summon a Primordial.
-> As for the identity of RR, I think it is closely linked to one of the other big mystery of the series: why are the Cranium Rats working for the Ibasan invasion forces ? Zorian tried to deal the answer out of QI, but QI deemed it a secret important enough not to tell it. 
-> Think about it: Cranium Rats are magical creatures who use mind magic. Plus they remind me of the bees of the Taramatula family. I think it's likely that whoever RR is, he has a innate ability to control the Cranium Rats. It actually checkd up as all evidence points towards RR being part of the invasion since before the month began, plus he has enough influence to be able to negotiate with QI very soon in the month.
-> If RR does control the Cranium Rats, then it reduces the list of candidates a lot.
-> A person who is likely to have this ability is Tinami Aope. The matriarch already checked her but after she did so she also mentioned the possibility that her mind was just a fake construct. RR's mind magic wasn't very good, but constructing false minds for yourself could be a secret technique of the Aope family, or maybe she used the Cranium Rats to achieve that feat.
 > 
+> As for the identity of RR, I think it is closely linked to one of the other big mystery of the series: why are the Cranium Rats working for the Ibasan invasion forces ? Zorian tried to deal the answer out of QI, but QI deemed it a secret important enough not to tell it. 
+> 
+> Think about it: Cranium Rats are magical creatures who use mind magic. Plus they remind me of the bees of the Taramatula family. I think it's likely that whoever RR is, he has a innate ability to control the Cranium Rats. It actually checkd up as all evidence points towards RR being part of the invasion since before the month began, plus he has enough influence to be able to negotiate with QI very soon in the month.
+> 
+> If RR does control the Cranium Rats, then it reduces the list of candidates a lot.
+> 
+> A person who is likely to have this ability is Tinami Aope. The matriarch already checked her but after she did so she also mentioned the possibility that her mind was just a fake construct. RR's mind magic wasn't very good, but constructing false minds for yourself could be a secret technique of the Aope family, or maybe she used the Cranium Rats to achieve that feat.
 
->> **u/TREB0R** [+4] *
+>> **u/TREB0R** [+5]  (16 hours later)
 >> 
 >> If RR was controlling the rats, I feel like their movements would change throughout the loops as they gather different information. They stay static when the loops proceed as expected and don't change before and after RR leaves the loop. This suggests that the rats probably have nothing to do with a looper.
->> 
 
->>> **u/Tserri** [+3] *
+>>> **u/Tserri** [+3]  (17 hours later)
 >>> 
 >>> I mean, it's not necessarily _him_ who controls them but it could be his family. The fact that there are multiple swarms of rats suggests that there could be one person in charge of each of them.
->>> Plus it's possible he can control them whenever he wants, but most of the time they act independantly, just following global orders.
->>> But even if it's not direct control, I really think the rats have a connection with RR. There's no reason to have dragged the revelation about them for so long otherwise, and it would give RR the right connections to be at the same time someone we know and someone who has enough credibility to be able to negotiate with QI so rapidly.
 >>> 
+>>> Plus it's possible he can control them whenever he wants, but most of the time they act independantly, just following global orders.
+>>> 
+>>> But even if it's not direct control, I really think the rats have a connection with RR. There's no reason to have dragged the revelation about them for so long otherwise, and it would give RR the right connections to be at the same time someone we know and someone who has enough credibility to be able to negotiate with QI so rapidly.
 
->> **u/mishanek** [+2] *
+>> **u/mishanek** [+2]  (3 days later)
 >> 
 >> This actually works with my theory that Benisek is RR. Benisek is a huge gossip and I wouldn't be surprised if it was a family thing and he could control a hive of rats to ferret out secrets and gossip.
->> 
 
->> **u/Green0Photon** [+1]  *Student in Cyoria, Minmay, and Ranvar**
+>> **u/Green0Photon** [+1]  *Student in Cyoria, Minmay, and Ranvar* (2 days later)
 >> 
 >> Although a little implausible, it's still certainly possible for Fortov to leech off the Aope family, especially if it's one of the high ups in that family who controls the rats. Then, eventually, usurp them.
->> 
 
-> **u/GlimmervoidG** [+8] *
+> **u/GlimmervoidG** [+7]  (6 hours later)
 > 
 > I maintain my theory that Red Robe is a version of Zorian from earlier in the time loop, who got a temporary mark and somehow broke the limits - meaning there were two versions of him in the time loop.
-> If he left the time loop via the alternate body route, there can be two of him in the real world too.
 > 
+> If he left the time loop via the alternate body route, there can be two of him in the real world too.
 
-> **u/BigBeautifulEyes** [+7] *
+> **u/BigBeautifulEyes** [+7]  (7 hours later)
 > 
 > It's obviously Gurey Cwili, of Cwili and Rofoltin Equipment.
-> 
 
->> **u/letouriste1** [+9] *
+>> **u/letouriste1** [+8]  (11 hours later)
 >> 
 >> Forgot about him! 
 >> We all forgot about the named characters from knyazov dveri like the scolar Vani and the drunk player I forgot the name but was probably named.
->> 
 
->>> **u/BigBeautifulEyes** [+3] *
+>>> **u/BigBeautifulEyes** [+3]  (11 hours later)
 >>> 
 >>> You've convinced me, that drunk is red robe.
->>> 
 
-> **u/Watchful1** [+5] *
+> **u/Watchful1** [+4]  (23 minutes later)
 > 
 > Call me crazy, but I think it's Zach. There are a number of things that would have to be explained somehow, but I think it would be simpler than bringing in someone as "the bad guy" who we don't have any attachment to.
-> Likely most of the time that Red Robe was actually present it was probably a high ranking cultist or something, but there was no one else in the loop and Zach was the one who helped the invaders so much. He faked the memory loss and didn't want Zorian in his mind cause he would figure it out pretty quickly.
-> What I don't know is why he's keeping up the illusion now, after getting out of the loop. He created the simulcron that he fought, he grabbed Veyers out of the house and strengthened the wards, his simulacrum went and fought the aranea. But I don't know what he wants at this point.
-> Like I said, call me crazy. I'm pretty sure we'll get conclusive proof that Veyers isn't Red Robe next chapter and Zach is my next choice.
 > 
+> Likely most of the time that Red Robe was actually present it was probably a high ranking cultist or something, but there was no one else in the loop and Zach was the one who helped the invaders so much. He faked the memory loss and didn't want Zorian in his mind cause he would figure it out pretty quickly.
+> 
+> What I don't know is why he's keeping up the illusion now, after getting out of the loop. He created the simulcron that he fought, he grabbed Veyers out of the house and strengthened the wards, his simulacrum went and fought the aranea. But I don't know what he wants at this point.
+> 
+> Like I said, call me crazy. I'm pretty sure we'll get conclusive proof that Veyers isn't Red Robe next chapter and Zach is my next choice.
 
->> **u/BirdMustFeed0** [+19] *
+>> **u/BirdMustFeed0** [+16]  (40 minutes later)
 >> 
 >> Not really possible, it is too convoluted. Plus we know someone left the timeloop before Zach. At best it may be a simulacrum of Zach, which many readers have tried to push as a theory, but I'm skeptical of it. It simply wouldn't be that good of a reveal. Part of the reason this story is so good is how well it handles the mystery in it. Revealing the main villain to be basically "Evil Zach" would be, I think, lame. And I suspect that many other readers would feel the same way.
->> 
 
->>> **u/Watchful1** [+1] *
+>>> **u/Watchful1** [+1]  (52 minutes later)
 >>> 
 >>> I think it's more complicated than that. I do think there was someone else who was Red Robe, but they weren't included in the loop, or were a regular temporary looper. I think Zach was the one who orchestrated it and if there was someone else who left before, it was because he intentionally helped them.
->>> I do think he has a good reason and he won't just be "the bad guy who wants everyone to die". The finale will be Zorian figuring everything out, besting Zach, but then sparing him because he actually had a good reason.
 >>> 
+>>> I do think he has a good reason and he won't just be "the bad guy who wants everyone to die". The finale will be Zorian figuring everything out, besting Zach, but then sparing him because he actually had a good reason.
 
->>>> **u/BirdMustFeed0** [+9] *
+>>>> **u/BirdMustFeed0** [+9]  (58 minutes later)
 >>>> 
 >>>> Hmmmm. What Reason would motivate Zach to do this then, in your theory? 
->>>> I still think it's unlikely. I can't see any motivation for Zach to string Zorian along for 40 chapters as a friend, and then kill him. Or to summon a Primordial. Plus it's heavily implied that Zorian read Zach's mind in chapter 90, since he figured out how to get past a mind blank. He surely would have noticed if Zach was Red Robe when reading his mind. 
->>>> The best friend betraying you can be a good plot twist, but only if it makes sense and the betrayal has a strong motive. If it just comes out of nowhere it usually makes a shit plot twist.
 >>>> 
+>>>> I still think it's unlikely. I can't see any motivation for Zach to string Zorian along for 40 chapters as a friend, and then kill him. Or to summon a Primordial. Plus it's heavily implied that Zorian read Zach's mind in chapter 90, since he figured out how to get past a mind blank. He surely would have noticed if Zach was Red Robe when reading his mind. 
+>>>> 
+>>>> The best friend betraying you can be a good plot twist, but only if it makes sense and the betrayal has a strong motive. If it just comes out of nowhere it usually makes a shit plot twist.
 
->>>>> **u/Watchful1** [+3] *
+>>>>> **u/Watchful1** [+3]  (an hour later)
 >>>>> 
 >>>>> I don't think he has a grand plan, he just wants some specific thing. He does like Zorian and actually wants to be his friend, he isn't stringing him along. But he thinks that whatever he wants isn't something Zorian would want, so he started hiding it from him at the very beginning and it's just snowballed from there.
->>>>> I don't know what it is he wants, but I don't think it's summoning the primordial.
->>>>> Fairly sure he hasn't read Zach's mind. He figured out how to get past the mind blank since he's suspicious Zach is up to something and wants an ace up his sleeve. But he's not going to just use it unprovoked.
->>>>> It's not completely out of nowhere, we've already had some fairly strong hints that Zach is hiding a big secret. The circumstances of Zach entering the time loop in the first place, Zach not wanting Zorian to read his mind, Zach going into an angry rage after the final talk with Panaxeth that prompted Zorian to figure out the mind blank thing. And IMO, the flimsy memory loss story.
 >>>>> 
+>>>>> I don't know what it is he wants, but I don't think it's summoning the primordial.
+>>>>> 
+>>>>> Fairly sure he hasn't read Zach's mind. He figured out how to get past the mind blank since he's suspicious Zach is up to something and wants an ace up his sleeve. But he's not going to just use it unprovoked.
+>>>>> 
+>>>>> It's not completely out of nowhere, we've already had some fairly strong hints that Zach is hiding a big secret. The circumstances of Zach entering the time loop in the first place, Zach not wanting Zorian to read his mind, Zach going into an angry rage after the final talk with Panaxeth that prompted Zorian to figure out the mind blank thing. And IMO, the flimsy memory loss story.
 
->> **u/None** [+5] *
+>> **u/None** [+6]  (33 minutes later)
 >> 
 >> Then that leaves the question, who left from the loop first?
->> 
 
->>> **u/Watchful1** [+3] *
+>>> **u/Watchful1** [+4]  (48 minutes later)
 >>> 
 >>> Two options, no one did, Panaxeth lied because he knew Zorian thought someone had left and the Guardian was fooled somehow. Or it was someone else that Zach sent, a cultist or someone.
->>> Edit: Maybe it was Veyers. Maybe Zach became friends with him or even managed to make him a temporary looper and then didn't want him to die so he figured out a way to send him out of the loop.
 >>> 
+>>> Edit: Maybe it was Veyers. Maybe Zach became friends with him or even managed to make him a temporary looper and then didn't want him to die so he figured out a way to send him out of the loop.
 
->> **u/TOMDM** [+3] *
+>> **u/TOMDM** [+3]  (6 hours later)
 >> 
 >> This theory got me thinking.
->> What if when you enter the loop, you are copied as well?
->> So there is a Zach that enters the loop, and a Zach that was created as part of the loop.
->> (RealZach and LoopZach)
->> So, hypothetically, LoopZach starts the loop conscious, but has a compulsion to go to his estate, fall asleep and forget about what happened.
->> RealZach figured out a way to duplicate his marker for LoopZach (hypothetically much easier for a copy of yourself right?), so that he could have a useful helper that he uses mind magic on to keep under control as a happy and willing partner.
->> However, as RealZach continues to modify LoopZachs mind over time, LoopZachs interests diverge from his own, and RealZach outgrows his need for LoopZach, so he just leaves him to his own devices after wiping his memory of RealZach (might have felt squeemish about killing himself? Zach does have problems with Simulacrum afterall)
->> The main looper had to care about soulkilling Veyers, so if there really was a RealZach and LoopZach, then there's motive and ability.
 >> 
+>> What if when you enter the loop, you are copied as well?
+>> 
+>> So there is a Zach that enters the loop, and a Zach that was created as part of the loop.
+>> 
+>> (RealZach and LoopZach)
+>> 
+>> So, hypothetically, LoopZach starts the loop conscious, but has a compulsion to go to his estate, fall asleep and forget about what happened.
+>> 
+>> RealZach figured out a way to duplicate his marker for LoopZach (hypothetically much easier for a copy of yourself right?), so that he could have a useful helper that he uses mind magic on to keep under control as a happy and willing partner.
+>> 
+>> However, as RealZach continues to modify LoopZachs mind over time, LoopZachs interests diverge from his own, and RealZach outgrows his need for LoopZach, so he just leaves him to his own devices after wiping his memory of RealZach (might have felt squeemish about killing himself? Zach does have problems with Simulacrum afterall)
+>> 
+>> The main looper had to care about soulkilling Veyers, so if there really was a RealZach and LoopZach, then there's motive and ability.
 
->>> **u/Ardvarkeating101** [+5]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+6]  *Father of Learning* (a day later)
 >>> 
 >>> Except that's discredited, because the whole point of the time loop is that Zach is real and there isn't a copy of him, he's inserted into the place fake Zach should be and thus is free to do whatever without body-double shenanigans.
->>> 
 
->>>> **u/TOMDM** [+1] *
+>>>> **u/TOMDM** [+1]  (a day later)
 >>>> 
 >>>> Has that ever been proven?
->>>> 
 
->>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+4]  *Father of Learning* (a day later)
 >>>>> 
 >>>>> The guardian explicitly says the time loop is for the branded one and is the only one real so it's implied that there's no copy of the branded one because that would just be retarded.
->>>>> 
 
->>>>>> **u/TOMDM** [+1] *
+>>>>>> **u/TOMDM** [+1]  (a day later)
 >>>>>> 
 >>>>>> It's implied, but the guardians version of truth seems to simply be based on who has a marker, if a marker were copied, the guardian would simply assume that whoever posseses the orginal marker would be the original looper, copy or not
->>>>>> 
 
-> **u/Green0Photon** [+6]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+6]  *Student in Cyoria, Minmay, and Ranvar* (5 hours later)
 > 
 > Zach is like a token evil friend red herring, that causes discussion but falls apart under inspection (when the author is good, which we accept as a given).
-> There's definitely something screwy with his mind though, which is why he won't let Zorian examine it, and is so paranoid about it.
-> My theory is that Fortov learned some structured mind magic, including a memory erasure spell, a compulsion spell, and probably a bunch others. He definitely did something with those cranium rats, but I think it's unlikely they taught him, like the Aranea did Zorian. It's probably more like a dark mirror, but since Fortov's incompetent and skeeves off of others, there was probably some mind mage in control of the cranium rats which RR usurped, in a way similar to that evil soul mage who I can't remember. Also, wasn't there that one girl who's family did mind magic and was interested in the Aranea? Definitely a hint there.
-> In any case, Fortov probably got close to Zach and betrayed him. I feel like they're both extroverts who might be friends given the right circumstances, and since Zach went around trying to be friends with everyone at least once among all the loops, it's likely they'd be friends. I could see Zach giving him the temporary marker several times, until they figured out how to make it permanent. (Though is there a point in the fic supporting this part? Did Zach have instinctual reactions to the temporary marker when brought up?)
-> Once it was permenent, they probably ~~partied a lot~~ got practical experience and investigated the other side until Fortov betrayed Zach.
-> ---
-> Though, I've suddenly had an idea of a modification of this theory, so that Fortov's journey better mirrors Zorian's, with the theme of Fortov being parasite on others in comparison to Zorian.
-> Fortov became friends with Zach, but keeps forgetting each month, causing Zach to find the thing to get him a temporary marker. Not sure if Fortov would join him on this journey, though, but Zach did have that thing toward the beginning about figuring out how to make everyone a badass when he became friends with them.
-> Once he got the temporary marker they probably wanted to figure out how to make it permanent. Since he knew he was going to die unless it was made permenent, he was probably willing to do a lot. The best know soul mage he knew of was probably QI, and tbh, I bet he had more connections to the cult than Zorian, so he probably decided he could "sacrifice himself," and infiltrate them. He's kinda cowardly, so I bet he was fine joining them as the winning team, and learned enough from QI or other associated soul mages to make his marker permanent.
-> Then, after leaching off others enough, he betrayed Zach so he didn't have to constantly  deal with him. The mage controlling the cranial rats probably worked for the cult, so he probably learned his mind magic skills from them.
-> Then, he was free to do exactly what Zorian speculated he could've done, apprentice to everyone under the sun and steal everyone's secrets. (Or was it the community who speculated that?)
-> Fortov's erasure of Zach's memories didn't even need to have a compulsion part. It could just be his subconscious feelings about things.
-> We're left around the start of the story: RR learning and preparing for leaving and Zach mentally regressed to a pre-Fortov state but powerful enough to be doing challenges like killing dragons instead of making friends with classmates. Who knows, maybe his simulcrum requesting-Zorian-for-help path was one meant to make sure he always avoided Zach, in addition to being incredibly consistent, in order to make sure Zach would never notice him. It's just the sort of thing he'd find boring and overlook: a too stable set of actions that doesn't seem to be affected by the butterfly effect.
-> Also, blah blah, setting up what's his name to be a decoy in case Zach ever tried to investigate him. Similar to Fortov, but not him, so any personality similarities would support the other guy. Also, didn't he have other connections to the cult? It makes him an even better decoy.
-> ---
-> I may have gone a bit too far in coming up with justifications, but I haven't reread MoL recently, so I have no idea how justified it is. But, Fortov makes a ton of sense, and I'm wholeheartedly behind Fortov being RR.
-> Also, originally this was meant to be a response to another comment, but I decided to post as a top-level comment since it got off my original point. ¯\\\_(ツ)\_/¯
 > 
+> There's definitely something screwy with his mind though, which is why he won't let Zorian examine it, and is so paranoid about it.
+> 
+> My theory is that Fortov learned some structured mind magic, including a memory erasure spell, a compulsion spell, and probably a bunch others. He definitely did something with those cranium rats, but I think it's unlikely they taught him, like the Aranea did Zorian. It's probably more like a dark mirror, but since Fortov's incompetent and skeeves off of others, there was probably some mind mage in control of the cranium rats which RR usurped, in a way similar to that evil soul mage who I can't remember. Also, wasn't there that one girl who's family did mind magic and was interested in the Aranea? Definitely a hint there.
+> 
+> In any case, Fortov probably got close to Zach and betrayed him. I feel like they're both extroverts who might be friends given the right circumstances, and since Zach went around trying to be friends with everyone at least once among all the loops, it's likely they'd be friends. I could see Zach giving him the temporary marker several times, until they figured out how to make it permanent. (Though is there a point in the fic supporting this part? Did Zach have instinctual reactions to the temporary marker when brought up?)
+> 
+> Once it was permenent, they probably ~~partied a lot~~ got practical experience and investigated the other side until Fortov betrayed Zach.
+> 
+> ---
+> 
+> Though, I've suddenly had an idea of a modification of this theory, so that Fortov's journey better mirrors Zorian's, with the theme of Fortov being parasite on others in comparison to Zorian.
+> 
+> Fortov became friends with Zach, but keeps forgetting each month, causing Zach to find the thing to get him a temporary marker. Not sure if Fortov would join him on this journey, though, but Zach did have that thing toward the beginning about figuring out how to make everyone a badass when he became friends with them.
+> 
+> Once he got the temporary marker they probably wanted to figure out how to make it permanent. Since he knew he was going to die unless it was made permenent, he was probably willing to do a lot. The best know soul mage he knew of was probably QI, and tbh, I bet he had more connections to the cult than Zorian, so he probably decided he could "sacrifice himself," and infiltrate them. He's kinda cowardly, so I bet he was fine joining them as the winning team, and learned enough from QI or other associated soul mages to make his marker permanent.
+> 
+> Then, after leaching off others enough, he betrayed Zach so he didn't have to constantly  deal with him. The mage controlling the cranial rats probably worked for the cult, so he probably learned his mind magic skills from them.
+> 
+> Then, he was free to do exactly what Zorian speculated he could've done, apprentice to everyone under the sun and steal everyone's secrets. (Or was it the community who speculated that?)
+> 
+> Fortov's erasure of Zach's memories didn't even need to have a compulsion part. It could just be his subconscious feelings about things.
+> 
+> We're left around the start of the story: RR learning and preparing for leaving and Zach mentally regressed to a pre-Fortov state but powerful enough to be doing challenges like killing dragons instead of making friends with classmates. Who knows, maybe his simulcrum requesting-Zorian-for-help path was one meant to make sure he always avoided Zach, in addition to being incredibly consistent, in order to make sure Zach would never notice him. It's just the sort of thing he'd find boring and overlook: a too stable set of actions that doesn't seem to be affected by the butterfly effect.
+> 
+> Also, blah blah, setting up what's his name to be a decoy in case Zach ever tried to investigate him. Similar to Fortov, but not him, so any personality similarities would support the other guy. Also, didn't he have other connections to the cult? It makes him an even better decoy.
+> 
+> ---
+> 
+> I may have gone a bit too far in coming up with justifications, but I haven't reread MoL recently, so I have no idea how justified it is. But, Fortov makes a ton of sense, and I'm wholeheartedly behind Fortov being RR.
+> 
+> Also, originally this was meant to be a response to another comment, but I decided to post as a top-level comment since it got off my original point. ¯\\\_(ツ)\_/¯
 
->> **u/TheAzureMage** [+6] *
+>> **u/TheAzureMage** [+6]  (17 hours later)
 >> 
 >> The big problem with this plan is that it involves QI. If QI learns of the time loop, either he goes splody, or he figures out how to get in on it. He's unlikely to teach another how to get in on it without getting in on it himself. This doesn't resolve neatly with canon.
->> 
 
->>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar* (17 hours later)
 >>> 
 >>> Fair. The problem is how do you get him to learn soul magic, and you can give whatever solution you want, but it adds complexity...
->>> Wasn't Kael's whole thing that he had a bloodline that gives him this ability automatically? And the cult is already sacrificing people for their bloodlines (shifters). And he lives with Zorian in iterations where Zorian brings Kirielle to Cyoria.
->>> I can see this as a very plausible way to get him Fortov soul sight. I've just started rereading the fic, and while Fortov is technically there at the beginning, he doesn't interact with Zorian. The mom is also pushing to get Zorian to take Kirielle. It's very plausible for a slight perturbance with Fortov to cause Zorian to take Kirielle as we normally see. Then, Fortov sacrifices Kael or something along those lines. It even fixes the question of why wouldn't a simulcrum Fortov standing in for his normal life wonder why Zorian brought Kirielle.
->>> I'm even more convinced.
 >>> 
+>>> Wasn't Kael's whole thing that he had a bloodline that gives him this ability automatically? And the cult is already sacrificing people for their bloodlines (shifters). And he lives with Zorian in iterations where Zorian brings Kirielle to Cyoria.
+>>> 
+>>> I can see this as a very plausible way to get him Fortov soul sight. I've just started rereading the fic, and while Fortov is technically there at the beginning, he doesn't interact with Zorian. The mom is also pushing to get Zorian to take Kirielle. It's very plausible for a slight perturbance with Fortov to cause Zorian to take Kirielle as we normally see. Then, Fortov sacrifices Kael or something along those lines. It even fixes the question of why wouldn't a simulcrum Fortov standing in for his normal life wonder why Zorian brought Kirielle.
+>>> 
+>>> I'm even more convinced.
 
->>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar* (17 hours later)
 >>>> 
 >>>> I'm continuously convinced. Zach and Fortov would totally hit it off.
->>>> > during their first two years, Zach was a below-average student more distinguished because of his charm than magical talent. Kind of like a nicer version of Fortov, actually.
->>>> Chapter 3
->>>> Update 1:
->>>> > "I know everyone thinks I'm jealous but that's not normal!" said Akoja in a hushed but agitated voice. "I'm pretty smart and I study all the time and I'm still having problems with the curriculum. And we've both been in the same class as Neolu for the past two years and she was never this good. And… and now she's beating me in every single class!"
->>>> > "Kind of like Zach," said Zorian.
->>>> > "Exactly like Zach!" she agreed. "They even hang out together, two of them and one other girl I don't know, behaving like… like they're in their own private little world."
->>>> > ...
->>>> > Akoja scoffed. "Whatever. The point is the three of them do nothing but waste time together and antagonize the teachers and get perfect scores anyway. They even refused the chance to get transferred to 1st tier groups, can you believe that!?"
->>>> Chapter 3
->>>> They totally have temporary markers. There's no way they'd be acing every class otherwise. Maybe one class, with Zach giving answers, but not every single one.
->>>> Also, if it was their first loop, they'd care a little more about their classes, like I think Zorian did, but I can't remember.
->>>> And, didn't Zach forget a bunch of recent history after he got hit at the end of chapter 4? So it would totally make sense for him to forget about the temporary markers.
->>>> Jeez. :)
->>>> Update 2:
->>>> Because Fortov got Zorian to make the salve, he stayed up late and woke to knocking at the beginning of chapter 4. This is Ako, and if Zorian woke up earlier, he might have been getting breakfast or something and missed Ako. He wouldn't have been in his room, or he might not have answered the door. Essentially, he wouldn't have gone to the dance with her.
->>>> Without going with her, he would have been in his dorm when it was hit. He would have either skipped it entirely, or went back early.
->>>> > Wait a minute… that's his residence building!
->>>> > He collapsed to his knees again as the implications of this hit him. If he had opted to stay in his room like he had originally planned, he'd have been dead right now. It was a sobering thought. But what the hell was happening here!? That was no firework, that's for sure! It looked and sounded more like a high level artillery spell.
->>>> This is a nice comparison between Fortov and Zorian. Zorian didn't care at all where Fortov was during the invasion (as he argued to Zach in the recent chapter), but Fortov made sure that his brother wouldn't be killed in the invasion.
->>>> It adds more to the theory that Fortov goes along with the invasion only so he (and his family) survives, not because he really loves the other side.
->>>> Update 3:
->>>> Nvm, Zach just admitted he was the one that made sure Zorian didn't die.
 >>>> 
+>>>> > during their first two years, Zach was a below-average student more distinguished because of his charm than magical talent. Kind of like a nicer version of Fortov, actually.
+>>>> 
+>>>> Chapter 3
+>>>> 
+>>>> Update 1:
+>>>> 
+>>>> > "I know everyone thinks I'm jealous but that's not normal!" said Akoja in a hushed but agitated voice. "I'm pretty smart and I study all the time and I'm still having problems with the curriculum. And we've both been in the same class as Neolu for the past two years and she was never this good. And… and now she's beating me in every single class!"
+>>>> 
+>>>> > "Kind of like Zach," said Zorian.
+>>>> 
+>>>> > "Exactly like Zach!" she agreed. "They even hang out together, two of them and one other girl I don't know, behaving like… like they're in their own private little world."
+>>>> 
+>>>> > ...
+>>>> 
+>>>> > Akoja scoffed. "Whatever. The point is the three of them do nothing but waste time together and antagonize the teachers and get perfect scores anyway. They even refused the chance to get transferred to 1st tier groups, can you believe that!?"
+>>>> 
+>>>> Chapter 3
+>>>> 
+>>>> They totally have temporary markers. There's no way they'd be acing every class otherwise. Maybe one class, with Zach giving answers, but not every single one.
+>>>> 
+>>>> Also, if it was their first loop, they'd care a little more about their classes, like I think Zorian did, but I can't remember.
+>>>> 
+>>>> And, didn't Zach forget a bunch of recent history after he got hit at the end of chapter 4? So it would totally make sense for him to forget about the temporary markers.
+>>>> 
+>>>> Jeez. :)
+>>>> 
+>>>> Update 2:
+>>>> 
+>>>> Because Fortov got Zorian to make the salve, he stayed up late and woke to knocking at the beginning of chapter 4. This is Ako, and if Zorian woke up earlier, he might have been getting breakfast or something and missed Ako. He wouldn't have been in his room, or he might not have answered the door. Essentially, he wouldn't have gone to the dance with her.
+>>>> 
+>>>> Without going with her, he would have been in his dorm when it was hit. He would have either skipped it entirely, or went back early.
+>>>> 
+>>>> > Wait a minute… that's his residence building!
+>>>> 
+>>>> > He collapsed to his knees again as the implications of this hit him. If he had opted to stay in his room like he had originally planned, he'd have been dead right now. It was a sobering thought. But what the hell was happening here!? That was no firework, that's for sure! It looked and sounded more like a high level artillery spell.
+>>>> 
+>>>> This is a nice comparison between Fortov and Zorian. Zorian didn't care at all where Fortov was during the invasion (as he argued to Zach in the recent chapter), but Fortov made sure that his brother wouldn't be killed in the invasion.
+>>>> 
+>>>> It adds more to the theory that Fortov goes along with the invasion only so he (and his family) survives, not because he really loves the other side.
+>>>> 
+>>>> Update 3:
+>>>> 
+>>>> Nvm, Zach just admitted he was the one that made sure Zorian didn't die.
 
->>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (a day later)
 >>>>> 
 >>>>> > They totally have temporary markers. There's no way they'd be acing every class otherwise. Maybe one class, with Zach giving answers, but not every single one.
->>>>> He just tells them the answers to every quiz and teacher-asked question beforehand.  It's not like they check if they have notes before asking questions.  No need for temp markers.
->>>>> And as for edit 3, yeah but that doesn't mean Fortov isn't looking out for him whenever Zach isn't paying attention.
 >>>>> 
+>>>>> He just tells them the answers to every quiz and teacher-asked question beforehand.  It's not like they check if they have notes before asking questions.  No need for temp markers.
+>>>>> 
+>>>>> And as for edit 3, yeah but that doesn't mean Fortov isn't looking out for him whenever Zach isn't paying attention.
 
->>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (4 days later)
 >>>> 
 >>>> > Wasn't Kael's whole thing that he had a bloodline that gives him this ability automatically? And the cult is already sacrificing people for their bloodlines (shifters). And he lives with Zorian in iterations where Zorian brings Kirielle to Cyoria.
->>>> We never actually learn how Kael gets soul sight, it's implied that he got the moth potion or an old-fashioned one from his witch mother-in-law
 >>>> 
+>>>> We never actually learn how Kael gets soul sight, it's implied that he got the moth potion or an old-fashioned one from his witch mother-in-law
 
->>>> **u/TheAzureMage** [+1] *
+>>>> **u/TheAzureMage** [+1]  (18 hours later)
 >>>> 
 >>>> Mmm, Alanic does end up routinely attacked. That may not be coincidence? 
->>>> We do need whoever the adversary is to learn soul magic somehow, and there are fairly limited ways to do so.
 >>>> 
+>>>> We do need whoever the adversary is to learn soul magic somehow, and there are fairly limited ways to do so.
 
-> **u/topin89** [+6] *
+> **u/topin89** [+5]  (23 hours later)
 > 
 > From literary standpoint Fortov is one of many candidates for equal shock value. You know, if it turns out to be Ibery I would be no less shocked. Or Zack, or Kael, or even Akoja. I think hybrid approach is needed.
+> 
 > 1. RR repeatedly helped Ibasans with invasion. Every time until they exit, as far as Zorian remembers.
 > 2. They are not natural mind mage.
 > 3. They are able to see invisible Zorian.
@@ -777,91 +800,98 @@ In the end, I honestly created this post in the hope to facilitate a discussion.
 > 6. Zach was in coma for several restarts after the soulmerge.
 > 7. RR either doesn't know Zorian identity or doesn't want to hurt him.
 > 8. Veyers is erased from the loop. Either Zach's memory is redacted or he is lying about it is unclear.
+> 
 > Now on Fortov. There are nearly 100% chance that Zorian was in coma as well after the soulmerge. This should really bring his attention to him. Actually, this should bring attention of anyone who interact with him to some degree. Same for bringing Kiri to Cyoria, this is a noticeable divergence. So however satisfying Fortov hypothesis is, he should held a moon-sized idiot ball for it to be true.
+> 
 > By the way, there is something strange in chapter 93 happens. Giggling girls from chapter 1, asking Zorian if he can show some magic. Nowhere to be seen after inside the loop only to appear right after Z&Z leave it.
+> 
 > Now Ibery, she did not interact with Zorian much, but in ch. 1 we saw her suffering giggling girls company along with Zorian. Then Zorian disappears and she suffers alone. So after some time she erased them from restarts.
+> 
 > Ibery has a crush on Fortov and won't take no for an answer. Maybe being thrown out to a creeper patch is her scheme to guild trip Fortov so he, IDK, kiss her or something. No Zorian, no salve, no Fortov, frustration, no giggling girls.
+> 
 > If you think this theory is far-fetched, you are correct. I think RR Fortov is as much far-fetched as RR Ibery.
+> 
 > Also, there is Byrn Ivaring, this guy always checking Zorian after some key differences. First loop after coma, first loop with Kirielle, out of loop train ride. This may be him checking on Zorian. Granted, him being Red Robe would be not as satisfying as Ibery, but he can.
+> 
 > It still can be Veyers. That would be unreveal of "Quirrell is Voldemort" magnitude.
+> 
 > I agree with MagicwaffIez, Sudomir is much more likely:
+> 
 > 1. He was deep in the invasion business even before the loop.
 > 2. He is a member of the Cult.
 > 3. He is a competent necromancer.
 > 4. He has access to the Crown.
 > 5. He care not for some random students like Zach or Zorian.
 > 6. He is the only one who knows about >!wraith bombs!<(spoiler for ch. 94)
-> Of course, there is one little detail. Why didn't he even once tried to make >!the bombs!< earlier. If course, he may indeed tried and heroes just didn't know it at the time.
 > 
+> Of course, there is one little detail. Why didn't he even once tried to make >!the bombs!< earlier. If course, he may indeed tried and heroes just didn't know it at the time.
 
->> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>> **u/Ardvarkeating101** [+2]  *Father of Learning* (a day later)
 >> 
 >> > Now on Fortov. There are nearly 100% chance that Zorian was in coma as well after the soulmerge. This should really bring his attention to him. Actually, this should bring attention of anyone who interact with him to some degree. Same for bringing Kiri to Cyoria, this is a noticeable divergence. So however satisfying Fortov hypothesis is, he should held a moon-sized idiot ball for it to be true.
->> This is not nearly true.  QI fucking exploded on Zorian and he woke up the very next loop.  Yeah he nearly died again but he remembered it.  Without it, your Fortov isn't RR theory kind of falls apart.  We also don't know if Zorian brought kirielle to Cyoria in some previous loops but didn't remember.  It could happen every dozen or so restarts thanks to a comment Fortov makes and he just didn't notice a difference, plus they literally never interact after leaving the train station save for the creeper patch incident.
 >> 
+>> This is not nearly true.  QI fucking exploded on Zorian and he woke up the very next loop.  Yeah he nearly died again but he remembered it.  Without it, your Fortov isn't RR theory kind of falls apart.  We also don't know if Zorian brought kirielle to Cyoria in some previous loops but didn't remember.  It could happen every dozen or so restarts thanks to a comment Fortov makes and he just didn't notice a difference, plus they literally never interact after leaving the train station save for the creeper patch incident.
 
->>> **u/I-want-pulao** [+2] *
+>>> **u/I-want-pulao** [+2]  (a day later)
 >>> 
 >>> Well, Zach was in a coma after the bomb, and it was only a) because Zorian terminated the restart before the full force of the attack could hit them 2) his soul defenses were solid... But still if he had not managed to stay awake then he'd be in the coma too.
->>> What are the odds that loop1!Zorian has the a) soul defense sills b) ability to remain sealer skills that ch83 Zorian had? Using this as a way to remove Fortrov from RR list makes sense to me.
 >>> 
+>>> What are the odds that loop1!Zorian has the a) soul defense sills b) ability to remain sealer skills that ch83 Zorian had? Using this as a way to remove Fortrov from RR list makes sense to me.
 
->>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (a day later)
 >>>> 
 >>>> There’s a big difference between soul blend and soul explosion in terms of damage
->>>> 
 
->>>>> **u/I-want-pulao** [+2] *
+>>>>> **u/I-want-pulao** [+2]  (a day later)
 >>>>> 
 >>>>> We can ask nobody to be sure, but it was my headcanon that Zorian had definitely spent some time comatose since it makes sense. Zach spent 7 restarts comatose - just for matching reasons Zorian should have had a few of those too. Even the time when he gets his ass handed to him by the Sword Divers Web, he wakes up later in the day. So if a mental attack can lead to a few hours unable to wake up, soul blend should have at least a few days too.
->>>>> 
 
->>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (a day later)
 >>>>>> 
 >>>>>> /u/nobody103 care to confirm if Zorian spent any time in a coma after his first QI encounter in chapter 4
->>>>>> 
 
->>>>>>> **u/nobody103** [+8] *
+>>>>>>> **u/nobody103** [+8]  (a day later)
 >>>>>>> 
 >>>>>>> Nope, not confirming or denying anything. I leave it to readers to make their own conclusions.
->>>>>>> 
 
->>>>> **u/Luck732** [+1] *
+>>>>> **u/Luck732** [+1]  (9 days later)
 >>>>> 
 >>>>> Maybe, but for all we know soul blend is the more damaging.
->>>>> After all, soul blend is effectively single target, while soul explosion is AOE.
->>>>> We also know that Z+Z were not in center of the explosion, and that Zorian restarting when he did saved them from some of the damage. He flat out tells us so.
 >>>>> 
+>>>>> After all, soul blend is effectively single target, while soul explosion is AOE.
+>>>>> 
+>>>>> We also know that Z+Z were not in center of the explosion, and that Zorian restarting when he did saved them from some of the damage. He flat out tells us so.
 
->>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (9 days later)
 >>>>>> 
 >>>>>> So did Zach exploding *partway* through the soul blend spell.
->>>>>> 
 
-> **u/MaxDougwell** [+11] *
+> **u/MaxDougwell** [+10]  (6 hours later)
 > 
 > Obligatory "Simulacrum of Zach is Red Robe" theory.
-
+> 
 > A core part of the story (and any timeloop story) is personal growth. Simulacrum!Zach who instead was warped by the loop and/or failed to grow as a person would be a good foil to Zorian. Further contrasted with the Zach Zorian now knows. 
+> 
 > I could see this being done with Fortnov, him somehow getting into the loop and slowly breaking under the strain. But he's the weaker less developed option imo.
-
+> 
 > We have had SO MUCH foreshadowing about Simulcrums rebelling. Just. Multiple chapters pointing out they can do what they want and how prone they are to trolling or even outright ignoring their creator's orders.
-
+> 
 > We've started this final month with a few questions about duplicates. Zorian had to replace his original, and think through the morality of effectively killing himself. He and Zach had to deal with Silverlake, warning her of the possibility that Loop!Silverlake would try and kill her.
-
+> 
 > The reveal has to hold personal meaning to Zorian and the story at large. Preferably the maximum amount possible, because pathos.
 > While the strongest outcomes for that would be Zach (Zorian being impossible sadly), Fortov is a good backup option for this.
 > He slots in with Zorian's original "unfair disdain for others" thing he's been growing out of, and ties into Zorian's family issues. "Oh no the brother Zorian hated is a bad guy, probably with a tragic back-story that uncannily reflects Zorian's own flaws back at him" doesn't really feel like a satisfying reveal though? Like, they don't really like each-other to start with. If we got a look into Fortnov's world then it could work, but it would require more work to make relevant. It doesn't add much to the story, or change much.
-
-> Simu!Zach = Red Robe completely nukes everything for Zorian and shatters his world-view. It has maximum pathos, and it pulls together ideas from the time loop, of mind manipulation, duplicates, how we develop as people, and how our choices define us. 
-> It also turns a final showdown into anyone's game as it becomes possible for Zach to be pulled between who he was and who he's become, making the final confrontation character-driven.
-
-> If this is right, then I think the next chapter should start with our new guest being interested in Zach.
 > 
+> Simu!Zach = Red Robe completely nukes everything for Zorian and shatters his world-view. It has maximum pathos, and it pulls together ideas from the time loop, of mind manipulation, duplicates, how we develop as people, and how our choices define us. 
+> 
+> It also turns a final showdown into anyone's game as it becomes possible for Zach to be pulled between who he was and who he's become, making the final confrontation character-driven.
+> 
+> If this is right, then I think the next chapter should start with our new guest being interested in Zach.
 
->> **u/megazver** [+5] *
+>> **u/megazver** [+4]  (8 hours later)
 >> 
 >> That's the one I like. I'll just copy-paste a way earlier comment: 
+>> 
 >> > Well, I guess it's time for my dumb pet theory. I don't think it's Veyers the fire-guy. He was, by all accounts, an underachieving twat and he had no obvious connection to the whole loop business. We also haven't met him at all, so if in the end it's him going "HA HA! IT'S ME, GUY YOU'VE NEVER MET" it's going to be fairly mediocre storytelling - and the author, so far, has been really good at this shit. Also, he's the guy who's propped up as the most obvious suspect, so by rules of mystery writing, he's the false lead. 
 >> > 
 >> > No, I think it's Zach. Wait, no, sorry. Let me try again.
@@ -883,316 +913,362 @@ In the end, I honestly created this post in the hope to facilitate a discussion.
 >> > Simulacra don't persist after the reset... except if they're made by the guy with the original super-marker. Except if they manage to survive the reset by taking over/riding in/doing other soul magic fuckery on someone else's body. (Poor Veyers, perhaps?) Except if, in last ditch effort, they try waiting the reset out in the Guardian's room. Except if they bind themselves to a phylactery by doing what liches use the simulacrum spell for. 
 >> > 
 >> > The rules are open enough that, if I had to take over the story as a writer, I could come up with half a dozen ideas more. Have I figured it out? I dunno, man. Probably not. But until I'm proven wrong, I'm sticking to this theory, because it's fun.
->> 
 
->>> **u/MaxDougwell** [+2] *
+>>> **u/MaxDougwell** [+2]  (a day later)
 >>> 
 >>> There's actually an established way to give a Simulacrum continuity between loops, and that's if a Simulacrum existed before the loop began.
->>> We know the loop recreates everything including magic and souls, so the Simulcrum will have a persistent body to start the loop with. Simulacrums are confirmed to run off the original, which has the marker. The marker ensures the mind state of the attached individual is carried across, so the Simulacrum gets to keep their knowledge. Problem solved! Primordial gives the Simulacrum a copy of Zach's soul (probably minus the divine additions) and a body outside the loop. 
->>> We're good to go.
 >>> 
+>>> We know the loop recreates everything including magic and souls, so the Simulcrum will have a persistent body to start the loop with. Simulacrums are confirmed to run off the original, which has the marker. The marker ensures the mind state of the attached individual is carried across, so the Simulacrum gets to keep their knowledge. Problem solved! Primordial gives the Simulacrum a copy of Zach's soul (probably minus the divine additions) and a body outside the loop. 
+>>> 
+>>> We're good to go.
 
->>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar* (a day later)
 >>>> 
 >>>> We know stuff can be deleted, so why couldn't we add stuff to the loop. When they were interrogating the guardian, he implied that there's probably a lot of stuff the controller can do, but only if they know about it.
->>>> Adding stuff to the loop is a simple extension. And rereading the soulkill chapter, Red Robe was making these huge beams to delete souls, so he probably was really good at that spell.
->>>> Even if it was too much to add a whole simulcrum body, he could quite possibly semi-overwrite someone else, possibly a high ranking cultist. A big part of the simulcrum spell seems to be a magical brain (to be surrounded and controlling ectoplasm), so why not make a permanent one, and attach it to someone else?
->>>> It still seems to be a bit far fetched, though, considering how lacking Zach was in soul magic.
 >>>> 
+>>>> Adding stuff to the loop is a simple extension. And rereading the soulkill chapter, Red Robe was making these huge beams to delete souls, so he probably was really good at that spell.
+>>>> 
+>>>> Even if it was too much to add a whole simulcrum body, he could quite possibly semi-overwrite someone else, possibly a high ranking cultist. A big part of the simulcrum spell seems to be a magical brain (to be surrounded and controlling ectoplasm), so why not make a permanent one, and attach it to someone else?
+>>>> 
+>>>> It still seems to be a bit far fetched, though, considering how lacking Zach was in soul magic.
 
->> **u/archaeonaga** [+3] *
+>> **u/archaeonaga** [+3]  (2 days later)
 >> 
 >> Simulacra don't have souls, which is the only thing the gate sends back to the beginning of the loop. There is no foreshadowing whatsoever to support this getting overturned; if anything, the story has been pretty consistent that souls are divine, incredibly resistant to being paired up with anything other than their original body, and integral to one's personality and mind. Not sure how this SimulZach stays and plays, especially since Panaxeth is skilled with flesh, not ectoplasmic constructs. 
->> I agree that Fortov would be a big letdown that requires a bunch of characters to pass around the idiot ball, but I think you can get that personal connection still. I think the answer is the one you think is impossible: [an earlier version of Zorian is RR](https://www.reddit.com/r/motheroflearning/comments/aazrb6/a_final_rr_theory_spoilers_through_93/).
 >> 
+>> I agree that Fortov would be a big letdown that requires a bunch of characters to pass around the idiot ball, but I think you can get that personal connection still. I think the answer is the one you think is impossible: [an earlier version of Zorian is RR](https://www.reddit.com/r/motheroflearning/comments/aazrb6/a_final_rr_theory_spoilers_through_93/).
 
-> **u/letouriste1** [+6] *
+> **u/letouriste1** [+6]  (11 hours later)
 > 
 > First Fortov is NOT a natural mind mage (he has a non-awakened bloodline and need a special ritual to unlock it), Also red robe is NOT a natural mind mage too. The attack he performed on zorian with unstructured mind magic was really crude and that the mark of people working hard on the skill without having the related talent. Zorian felt the same with soul sight for example.
 > Fortov is likely to be red robe tho, even if there is some big flaws with that theory.
+> 
 > Apart from him the other satisfying red robe candidates are: 
 > -ibery, the girl with a crush on Fortov who is not a classmate of Zach and zorian but could be contacted on another way by Zach. She has been portrayed as self-centered and a little crazy about her love on fortov. Red robe could be a girl after all, I see nowhere a proof he is a man
-> -naim, the martial art guy. Zorian don’t know him enough and he is probably one of those Zach tried to convince first of the time loop
-> - the classmate whose family originate from ulquan ibasa. He was tested AFTER RR left and is likely to be trusted by quatach ichl relatively quickly.
-> -the lawyer
-> -the old linguist teacher. Zorian think the rats are the reason he got knifed in one of the first restarts but the guy could be red robe simulacrum. After all zorian questioned him AFTER red robe left the time loop. Also, the man appeared in the first few chapters a lot and he spend a lot of time doing work alone in his office. Readers don’t seem to suspect him too and would completely surprise anyone not reading my comment xD
-> -the director never named or a royal. The reveal would not be as satisfying than a classmate but that would severely complicate the fight and would compromise their identity, leading to much drama. That would also force zorian to get closer of the political factions and maybe create a House,something he hates. Not likely after the reveal of zorian research goal this chapter but was my number 1 supposition of what the endgame would look like until now.
 > 
+> -naim, the martial art guy. Zorian don’t know him enough and he is probably one of those Zach tried to convince first of the time loop
+> 
+> - the classmate whose family originate from ulquan ibasa. He was tested AFTER RR left and is likely to be trusted by quatach ichl relatively quickly.
+> 
+> -the lawyer
+> 
+> -the old linguist teacher. Zorian think the rats are the reason he got knifed in one of the first restarts but the guy could be red robe simulacrum. After all zorian questioned him AFTER red robe left the time loop. Also, the man appeared in the first few chapters a lot and he spend a lot of time doing work alone in his office. Readers don’t seem to suspect him too and would completely surprise anyone not reading my comment xD
+> 
+> -the director never named or a royal. The reveal would not be as satisfying than a classmate but that would severely complicate the fight and would compromise their identity, leading to much drama. That would also force zorian to get closer of the political factions and maybe create a House,something he hates. Not likely after the reveal of zorian research goal this chapter but was my number 1 supposition of what the endgame would look like until now.
 
->> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>> **u/Ardvarkeating101** [+5]  *Father of Learning* (13 hours later)
 >> 
 >> Actually all of his classmates, Ulquan Ibasan guy included, were mind checked by the Aranea before RR left, so it’s not him or naim 
->> After all, the Aranea were all dead after RR left, and they checked all his classmates
 >> 
+>> After all, the Aranea were all dead after RR left, and they checked all his classmates
 
->>> **u/letouriste1** [+1] *
+>>> **u/letouriste1** [+1]  (14 hours later)
 >>> 
 >>> Ok! Forgot about it.
->>> 
 
->> **u/BirdMustFeed0** [+1] *
+>> **u/BirdMustFeed0** [+1]  (12 hours later)
 >> 
 >> During the fight between Zorian and Red Robe, Red Robe had the body of a man. It could still have been a girl that changed their sex with magic to hide their true identity, but that seems convoluted. Also someone else already mentioned how Fortov was not a natural mind mage to me, and I agree. This does not take away from the theory, since Fortov after Fortov learned his brother Damien was a mind mage, his Jealousy he tried to learn mind magic to outdo Damien. Except he sucked at it, and a half trained Zorian could overpower him.
->> Mind magic might also explain how Veyers fits into this. Fortov learned that Veyers activated a latent bloodline talent he had, so Fortov sought Veyers out to learn how to activate his own bloodline talent for mind magic.
 >> 
+>> Mind magic might also explain how Veyers fits into this. Fortov learned that Veyers activated a latent bloodline talent he had, so Fortov sought Veyers out to learn how to activate his own bloodline talent for mind magic.
 
->>> **u/letouriste1** [+5] *
+>>> **u/letouriste1** [+4]  (14 hours later)
 >>> 
 >>> Zorian assumed he was a man but RR had a robe covering him entirely and a voice modification, I don’t see any tell he is a man. His anormal strength is the product of magic and not from his body. I don’t remember his zorian described the arm of RR tho, could be an hint because that the only physical contact they ever got.
->>> Ps: quatach-ichl Named him as « the fool » or something, we suspected he was a man there but I doubly even know if quatach-ichl knowed his identity back then
 >>> 
+>>> Ps: quatach-ichl Named him as « the fool » or something, we suspected he was a man there but I doubly even know if quatach-ichl knowed his identity back then
 
-> **u/CaudexCapite** [+6] *
+> **u/CaudexCapite** [+5]  (a day later)
 > 
 > There are two things about RR that I think are clues that constrain the space of who he could possibly be really strongly.
-> 1. RR was able to get the Imperial Dagger from the Eldemarian royal vault without causing a nationwide manhunt (because Zorian would have heard about it, and didn't), like Zach, Zorian, and QI did. Now, it could be the case that he initially made it in with the help of QI, then figured out a silent way in that he could perform solo, but that seems like a tall order. If he couldn't steal it by breaking into the vault, that means he had help on the inside (or is an insider himself). I think that leaves us with two distinct possibilities: First, that he's a high ranking member of the central government (possibly even a royal), who has legitimate access to the vault, if not the authority to take the dagger out, and second, that the angels arranged a way for the Controller to get the Dagger in the time loop, like with the sulrothum and the ring, one which RR is somehow aware of. That leaves three further sub-possibilities: that RR is the real loop controller and Zach was in fact an anomaly, that RR stumbled onto this method of getting the Dagger like ZZ stumbled onto asking for the Ring, and that Zach originally knew about it (and probably the Sulrothum) but had the information ripped from his mind when a mind mage got him before the story began.
-> Of those four, I think that "high-ranking member of the government" and :stole the knowledge from Zach" are most plausible. 
-> 2. The second element that I think is an important clue is that RR somehow got major access to Zach's mind at some point in time. This implies that either RR managed to subdue Zach (which would be ridiculously hard even in the best circumstances), or Zach willingly let RR into his mind. This seems crazy, given his paranoia about giving the same to Zorian, but that paranoia is both partially compulsion based, likely implanted by RR to avoid his work being discovered, and partially based on his having lost memories in the past, which is also probably this incident. If this is the case, RR was someone who Zach came to trust implicitly. Then Zach felt the need to let a mind mage into his head, and RR betrayed him utterly. I have a theory on why Zach might have let RR in, but I want to back up and theorize a little more on that.
-> The fact that the angels left a way for the Controller to obtain the Ring without fighting suggests that they might have done the same for the other key pieces. It's entirely plausible that they could give a reasonable amount of information to the Controller before entering the loop about how to use their contingencies to access all 5 artifacts even early on in the loop, by suggesting to them a method of travel and how to use it (Bakora gates are a candidate), the locations of each key piece, and a set of passwords for the dragon, QI (a stretch that he'd willingly give the crown away, but he has to have done so for RR to ever have had a temporary marker), and the Eldemarian royal family. If that's the case, early!Zach would have had access to all 5 key pieces, and probably also basic knowledge of how to work his marker, including the reset switch. This also means that early!Zach could have known about Panaxeth. 
-> I think that this lets us sketch a vague possibility for how RR came to be a permanent looper working to free Panaxeth. 
-> Step the first: Zach starts looping with a fair chunk of knowledge given by the angels so that he understands what he's doing, why, and how the loop works. This is when he receives his divine blessing. He has access to all 5 key pieces thanks to what the angels have told him, and knows their loop functions. 
-> Step the second: Panaxeth contacts Zach and tries to convince him to let him go free, Zach refuses. Because Zach is the real Controller, Panaxeth can't or won't do anything more blatant to hinder him, so it starts to plan another way out.
-> Step 3: Zach continually clashes with Veyers, who habitually picks fights with him and gets violent when Zach refuses. Zach is irritated by this but doesn't do anything rash. 
-> Step 4: Zach finds a talented mage who could be a major asset in his quest, and decides to give him a temporary marker. They work together for a few months. During this time, either Panaxeth contacts this mage and offers him the same deal he offered Silverlake, or Zach tells the mage about Panaxeth and the mage comes up with the thought on his own. Either way, the mage makes the decision to betray Zach.
-> Step 4: The mage formulates a plan to steal Zach's loop knowledge and neuter him as a long-term threat while he gains the knowledge and power he'll need to fulfill Panaxeth's task in the outside world. He manipulates Veyers into doing something that genuinely enrages Zach, something genuinely heinous, as part of their ongoing one-sided rivalry. Then he subtly pushes Zach into responding by soulkilling Veyers.
-> Step 5: Zach is overwhelmed by guilt after soulkilling someone in anger. The mage manipulates Zach into asking the him to remove all memory of Veyers. The mage does so, but also steals all Zach's knowledge of loop mechanics and key access method, then wipes out all that, his own existence, and puts a set of compulsions on Zach to make it unlikely he'll ever figure out what happened. Satisfied with how Zach is dealt with, he returns to the Sovereign Gate with all 5 key pieces. There, Panaxeth hacks the loop (or possibly his temporary marker), so that he can continue to loop until he's satisfied he can pull off the invasion for real. 
-> I'm aware that the theory is a little out there and possibly overspecific, but I think it probably hits some relevant points. Unfortunately, looking it back over, it's less restrictive on RR candidates than I originally thought. All it really requires is a social-spec that Zach would come to trust who could learn some serious mind magic with his help within 6 months, who then might decide to betray him. I think that leaves Fortov as a viable candidate (which I didn't, when I started this post).
-> The specific element "Veyers did something so bad that Zach soulkilled him and that left him open for RR somehow" is something I think seems genuinely likely, in light of Veyers appearing in the most recent chapter.
 > 
+> 1. RR was able to get the Imperial Dagger from the Eldemarian royal vault without causing a nationwide manhunt (because Zorian would have heard about it, and didn't), like Zach, Zorian, and QI did. Now, it could be the case that he initially made it in with the help of QI, then figured out a silent way in that he could perform solo, but that seems like a tall order. If he couldn't steal it by breaking into the vault, that means he had help on the inside (or is an insider himself). I think that leaves us with two distinct possibilities: First, that he's a high ranking member of the central government (possibly even a royal), who has legitimate access to the vault, if not the authority to take the dagger out, and second, that the angels arranged a way for the Controller to get the Dagger in the time loop, like with the sulrothum and the ring, one which RR is somehow aware of. That leaves three further sub-possibilities: that RR is the real loop controller and Zach was in fact an anomaly, that RR stumbled onto this method of getting the Dagger like ZZ stumbled onto asking for the Ring, and that Zach originally knew about it (and probably the Sulrothum) but had the information ripped from his mind when a mind mage got him before the story began.
+> 
+> Of those four, I think that "high-ranking member of the government" and :stole the knowledge from Zach" are most plausible. 
+> 
+> 2. The second element that I think is an important clue is that RR somehow got major access to Zach's mind at some point in time. This implies that either RR managed to subdue Zach (which would be ridiculously hard even in the best circumstances), or Zach willingly let RR into his mind. This seems crazy, given his paranoia about giving the same to Zorian, but that paranoia is both partially compulsion based, likely implanted by RR to avoid his work being discovered, and partially based on his having lost memories in the past, which is also probably this incident. If this is the case, RR was someone who Zach came to trust implicitly. Then Zach felt the need to let a mind mage into his head, and RR betrayed him utterly. I have a theory on why Zach might have let RR in, but I want to back up and theorize a little more on that.
+> 
+> The fact that the angels left a way for the Controller to obtain the Ring without fighting suggests that they might have done the same for the other key pieces. It's entirely plausible that they could give a reasonable amount of information to the Controller before entering the loop about how to use their contingencies to access all 5 artifacts even early on in the loop, by suggesting to them a method of travel and how to use it (Bakora gates are a candidate), the locations of each key piece, and a set of passwords for the dragon, QI (a stretch that he'd willingly give the crown away, but he has to have done so for RR to ever have had a temporary marker), and the Eldemarian royal family. If that's the case, early!Zach would have had access to all 5 key pieces, and probably also basic knowledge of how to work his marker, including the reset switch. This also means that early!Zach could have known about Panaxeth. 
+> 
+> I think that this lets us sketch a vague possibility for how RR came to be a permanent looper working to free Panaxeth. 
+> 
+> Step the first: Zach starts looping with a fair chunk of knowledge given by the angels so that he understands what he's doing, why, and how the loop works. This is when he receives his divine blessing. He has access to all 5 key pieces thanks to what the angels have told him, and knows their loop functions. 
+> 
+> Step the second: Panaxeth contacts Zach and tries to convince him to let him go free, Zach refuses. Because Zach is the real Controller, Panaxeth can't or won't do anything more blatant to hinder him, so it starts to plan another way out.
+> 
+> Step 3: Zach continually clashes with Veyers, who habitually picks fights with him and gets violent when Zach refuses. Zach is irritated by this but doesn't do anything rash. 
+> 
+> Step 4: Zach finds a talented mage who could be a major asset in his quest, and decides to give him a temporary marker. They work together for a few months. During this time, either Panaxeth contacts this mage and offers him the same deal he offered Silverlake, or Zach tells the mage about Panaxeth and the mage comes up with the thought on his own. Either way, the mage makes the decision to betray Zach.
+> 
+> Step 4: The mage formulates a plan to steal Zach's loop knowledge and neuter him as a long-term threat while he gains the knowledge and power he'll need to fulfill Panaxeth's task in the outside world. He manipulates Veyers into doing something that genuinely enrages Zach, something genuinely heinous, as part of their ongoing one-sided rivalry. Then he subtly pushes Zach into responding by soulkilling Veyers.
+> 
+> Step 5: Zach is overwhelmed by guilt after soulkilling someone in anger. The mage manipulates Zach into asking the him to remove all memory of Veyers. The mage does so, but also steals all Zach's knowledge of loop mechanics and key access method, then wipes out all that, his own existence, and puts a set of compulsions on Zach to make it unlikely he'll ever figure out what happened. Satisfied with how Zach is dealt with, he returns to the Sovereign Gate with all 5 key pieces. There, Panaxeth hacks the loop (or possibly his temporary marker), so that he can continue to loop until he's satisfied he can pull off the invasion for real. 
+> 
+> I'm aware that the theory is a little out there and possibly overspecific, but I think it probably hits some relevant points. Unfortunately, looking it back over, it's less restrictive on RR candidates than I originally thought. All it really requires is a social-spec that Zach would come to trust who could learn some serious mind magic with his help within 6 months, who then might decide to betray him. I think that leaves Fortov as a viable candidate (which I didn't, when I started this post).
+> 
+> The specific element "Veyers did something so bad that Zach soulkilled him and that left him open for RR somehow" is something I think seems genuinely likely, in light of Veyers appearing in the most recent chapter.
 
-> **u/GlueBoy** [+2]  *anti-skub**
+> **u/GlueBoy** [+3]  *anti-skub* (a day later)
 > 
 > Besides the simulacrum theory(which I think I originated 2-3 years ago) and maybe Damien being involved somehow and thus validating Zorian's dislike, I think the option I like best is that Veyers' family attempt to activate his bloodline resulted in him being possessed by a demon, who somehow managed to get into the loop. The demon then gets a marker somehow, and gets its own body through the aid of Panaxeth, and the rest is backstory.
-> 
 
-> **u/twentysevenhamsters** [+4] *
+> **u/twentysevenhamsters** [+5]  (2 days later)
 > 
 > ...The thing that gets me is, this invasion-and-summoning thing was planned way in advance, like before the time loops started.  In fact the time loops were initiated early, on purpose, so that the end of the time loop would coincide with Panaxeth Day.  That makes me think that Red Robe was in this from the start, and that something about Zach's bloodline meant that he had to be the "official" looper, but Red Robe had a plan to become a looper before the loop even began.
-> &#x200B;
-> We also think Red Robe has a way to get access to the Imperial Dagger.
-> &#x200B;
-> So: who has high-up Empire connections but also wants to completely wreck the Empire by summoning Panaxeth?  I dunno.  Probably not someone we've met.  It seems like mind-interrogating all the people who were studying the Gate might have been pretty fruitful -- see what they know about what happened on the night the loops started.  It's too late now though.
 > 
+> &#x200B;
+> 
+> We also think Red Robe has a way to get access to the Imperial Dagger.
+> 
+> &#x200B;
+> 
+> So: who has high-up Empire connections but also wants to completely wreck the Empire by summoning Panaxeth?  I dunno.  Probably not someone we've met.  It seems like mind-interrogating all the people who were studying the Gate might have been pretty fruitful -- see what they know about what happened on the night the loops started.  It's too late now though.
 
-> **u/kaukamieli** [+9] *
+> **u/kaukamieli** [+6]  (11 minutes later)
 > 
 > The thing is, I think of this as an adventure/gamer/timeloop story, not at all as a mystery story.
-> 
 
-> **u/distrofijus** [+3] *
+> **u/distrofijus** [+3]  (7 hours later)
 > 
 > I would have named this thread differently:
-> Who is the progenitor of Red Robe? 
-> Cause there are two instances (original/weak pre-loop personality and experienced/learned version which left loop to assist in primordial release). 
-> Like Zorian changed during the time inside, RR is very different from his base personality. (the body might be different as well). Revealing the progenitor makes very little difference, cause the real Red Robe is still out there, causing mess. 
-> Why do you think Fortov is natural mind mage as Zorian? IIRC, he has the least talent in this field (Zorian did checked out his family and none of them were bright stars in mindscape). 
-> There were very little females so far, so maybe in strict literary sense is female is also very plausible. The RR obfuscates the features, so maybe the Tinami is the culprit. She has some mediocre training in mind magic for starters. It makes very little sense though, but I think it is more plausible than Fortov.
-> Anyway, it's just the progenitor. It will make very little impact even if it is revealed who was the progenitor of the Red Robe. 
-> I'll repeat my own theory on RR progenitor. It is a mage, part of dragon cult, also something like nth (at least 3rd or 4th) in the line of succession in Royal family of Eldemar (explains how he got the dagger to perform soul kill without breaking into the vault). Has his own personal red robe of inner circle and as most (all) cult members are proficient if forbidden magic (blood/soul/mind magic), he was the person who assisted with bloodline ignition for Veyers Boranova. Also this is the reason why Veyers was removed from loop - he knew RR progenitor prior loop - it was done to sever this lead (this was done much earlier in the loop when RR has not yet left the loop, much earlier when ejecting aranea).
 > 
+> Who is the progenitor of Red Robe? 
+> 
+> Cause there are two instances (original/weak pre-loop personality and experienced/learned version which left loop to assist in primordial release). 
+> 
+> Like Zorian changed during the time inside, RR is very different from his base personality. (the body might be different as well). Revealing the progenitor makes very little difference, cause the real Red Robe is still out there, causing mess. 
+> 
+> Why do you think Fortov is natural mind mage as Zorian? IIRC, he has the least talent in this field (Zorian did checked out his family and none of them were bright stars in mindscape). 
+> 
+> There were very little females so far, so maybe in strict literary sense is female is also very plausible. The RR obfuscates the features, so maybe the Tinami is the culprit. She has some mediocre training in mind magic for starters. It makes very little sense though, but I think it is more plausible than Fortov.
+> 
+> Anyway, it's just the progenitor. It will make very little impact even if it is revealed who was the progenitor of the Red Robe. 
+> 
+> I'll repeat my own theory on RR progenitor. It is a mage, part of dragon cult, also something like nth (at least 3rd or 4th) in the line of succession in Royal family of Eldemar (explains how he got the dagger to perform soul kill without breaking into the vault). Has his own personal red robe of inner circle and as most (all) cult members are proficient if forbidden magic (blood/soul/mind magic), he was the person who assisted with bloodline ignition for Veyers Boranova. Also this is the reason why Veyers was removed from loop - he knew RR progenitor prior loop - it was done to sever this lead (this was done much earlier in the loop when RR has not yet left the loop, much earlier when ejecting aranea).
 
-> **u/Nepene** [+3] *
+> **u/Nepene** [+3]  (3 days later)
 > 
 > https://www.fanfiction.net/s/13172895/1/Mother-of-Endings-Red-Robe-s-Unmasking
-> I made a summary of some possibilities here.
 > 
+> I made a summary of some possibilities here.
 
->> **u/BirdMustFeed0** [+1] *
+>> **u/BirdMustFeed0** [+1]  (9 days later)
 >> 
 >> 10/10 Mate would definitely read again.
->> 
 
-> **u/Green0Photon** [+3]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+3]  *Student in Cyoria, Minmay, and Ranvar* (3 days later)
 > 
 > > Zach gave him a warning look in response. He was a pretty good actor, all things considered. Did he used to do this sort of thing a lot during past restart or was he just a natural?
-> Chapter 87
-> Even if RR isn't Fortov, there are a lot of hints that RR was once Zach's friend and erased part of his mind.
-> nobody103 definitely didn't put this line in as a throw away, and it's recent. It's the most directly compelling line that someone got close to him and betrayed him.
-> That line comes from one spot when ZZ broke into the Black Room area and we're talking to the overseer, pretending to be government agents. If Zach was practiced at this sort of thing, then it would make a lot of sense if he did it with someone else, but forgot about it.
-> Combined with Zach's rapid improvement in skill (compared to when Zorian first joined the loop, Zach could barely last against QI) and his compulsion to not let Zorian look at his mind, or anyone else, for that matter, it seems really clear that Zach was betrayed by RR.
-> I'm also moderately annoyed because I had found a single line paragraph that also helped prove RR is Fortov, and I can't find it again. Or maybe it was that RR was a friend that betrayed Zach. I dunno. I think it was around chapter 53, which is when Zach found Zorian.
-> After reading through a bit, this line is interesting.
-> >"What, no Fortov?" Zach asked with a whisper.
-> If Fortov is RR, he clearly didn't fully erase his memory from Zach's mind, only Veyers. Yeah, he could have erased Veyers, but not himself, to be a red herring, but it just adds more complexity.
-> Maybe Veyers could be RR, though. We thought it was disproven when we found he was soul killed, but it could have been that him getting pulled out by Panaxeth permanently removed his soul from the loop, as if he was soul killed. In comparison, Zorian left under his own power, so the loop probably just reset him. It still adds complexity though.
-> ¯\\\_(ツ)\_/¯ Just sharing thoughts as I go through my reread.
-> Edit:
-> >"Tell them this is not something they are qualified to negotiate about," Zach suddenly said. "We want to talk to their high priest."
-> Chapter 88
-> Not much on its own, but he does say it suddenly, with no particular reason. To be fair, though, Zach is really surprised afterwards when  they do get the ring immediately.
-> Edit 2:
-> When Silverlake leaves, nobody103 describes her looking as if she was soul killed. That adds plausibility to the idea that someone who accepts Panaxeth's contract leaves permanently, in comparison to how Zorian left.
-> Still haven't gotten to the part where Zorian leaves, though.
-> Edit 3:
-> Nevermind, I forgot that Zach said that Silverlake also went back to normal.
-> At this point, I have no idea. Part of me wants to say it's Veyers, but that's different from Silverlake.
-> Who knows anymore.
 > 
+> Chapter 87
+> 
+> Even if RR isn't Fortov, there are a lot of hints that RR was once Zach's friend and erased part of his mind.
+> 
+> nobody103 definitely didn't put this line in as a throw away, and it's recent. It's the most directly compelling line that someone got close to him and betrayed him.
+> 
+> That line comes from one spot when ZZ broke into the Black Room area and we're talking to the overseer, pretending to be government agents. If Zach was practiced at this sort of thing, then it would make a lot of sense if he did it with someone else, but forgot about it.
+> 
+> Combined with Zach's rapid improvement in skill (compared to when Zorian first joined the loop, Zach could barely last against QI) and his compulsion to not let Zorian look at his mind, or anyone else, for that matter, it seems really clear that Zach was betrayed by RR.
+> 
+> I'm also moderately annoyed because I had found a single line paragraph that also helped prove RR is Fortov, and I can't find it again. Or maybe it was that RR was a friend that betrayed Zach. I dunno. I think it was around chapter 53, which is when Zach found Zorian.
+> 
+> After reading through a bit, this line is interesting.
+> 
+> >"What, no Fortov?" Zach asked with a whisper.
+> 
+> If Fortov is RR, he clearly didn't fully erase his memory from Zach's mind, only Veyers. Yeah, he could have erased Veyers, but not himself, to be a red herring, but it just adds more complexity.
+> 
+> Maybe Veyers could be RR, though. We thought it was disproven when we found he was soul killed, but it could have been that him getting pulled out by Panaxeth permanently removed his soul from the loop, as if he was soul killed. In comparison, Zorian left under his own power, so the loop probably just reset him. It still adds complexity though.
+> 
+> ¯\\\_(ツ)\_/¯ Just sharing thoughts as I go through my reread.
+> 
+> Edit:
+> 
+> >"Tell them this is not something they are qualified to negotiate about," Zach suddenly said. "We want to talk to their high priest."
+> 
+> Chapter 88
+> 
+> Not much on its own, but he does say it suddenly, with no particular reason. To be fair, though, Zach is really surprised afterwards when  they do get the ring immediately.
+> 
+> Edit 2:
+> 
+> When Silverlake leaves, nobody103 describes her looking as if she was soul killed. That adds plausibility to the idea that someone who accepts Panaxeth's contract leaves permanently, in comparison to how Zorian left.
+> 
+> Still haven't gotten to the part where Zorian leaves, though.
+> 
+> Edit 3:
+> 
+> Nevermind, I forgot that Zach said that Silverlake also went back to normal.
+> 
+> At this point, I have no idea. Part of me wants to say it's Veyers, but that's different from Silverlake.
+> 
+> Who knows anymore.
 
->> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (17 days later)
 >> 
 >> It can be inferred that Zach was well aware of Zorian's brother who's also attending academy. He was betrayed by Zorian on chapter 26! How could he not look into him?
->> 
 
-> **u/SnowGN** [+2] *
+> **u/SnowGN** [+2]  (50 minutes later)
 > 
 > Can't say I've ever thought about that angle before, but yeah, Fortov makes some sense.
-> 
 
->> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (17 days later)
 >> 
 >> No it doesn't
->> 
 
-> **u/archaeonaga** [+2] *
+> **u/archaeonaga** [+2]  (2 days later)
 > 
 > The biggest flaw I see with Fortov as RR is it's hard for me to imagine how he gets into the gate and meets Panaxeth, which is literally the only way to talk to him. (Otherwise, why wouldn't it just tell QI, "hey, go fuck up this Zach kid and your invasion is gonna work.") Why would Zach ever bring him down there? And while you say RR is merely above average, he's skilled enough to cast multiple simulacra and managed to bypass some very serious soul defenses on Zach to even do the bit of mind magic he did. 
-> As for me, I wrote up a [very long post](https://www.reddit.com/r/motheroflearning/comments/aazrb6/a_final_rr_theory_spoilers_through_93/) along with a few medium-long comments about why I'm convinced Zorian is RR. I haven't seen much good evidence to the contrary, either.
 > 
+> As for me, I wrote up a [very long post](https://www.reddit.com/r/motheroflearning/comments/aazrb6/a_final_rr_theory_spoilers_through_93/) along with a few medium-long comments about why I'm convinced Zorian is RR. I haven't seen much good evidence to the contrary, either.
 
-> **u/twentysevenhamsters** [+2] *
+> **u/twentysevenhamsters** [+2]  (2 days later)
 > 
 > Nobody has suggested Zorian's father yet.  My primary evidence for this is that Zorian's father has suddenly made plans to get his wife and his favorite son out of the country just before Panaxeth is released.  That doesn't necessarily mean he's Red Robe but it does suggest he might be In On It.
-> 
 
-> **u/Res_Null1us** [+2] *
+> **u/Res_Null1us** [+2]  (2 days later)
 > 
 > I made a thread in mother of learning subreddit here: https://www.reddit.com/r/motheroflearning/comments/aeo7f8/just_bingeread_94_chapters_and_came_here_with_my/, but here's my own theory.
-> >!TLDR: I think Red Robe is Estin Grier.  He's a classmate of Zach's and an immigrant from Ulquaan Ibasa (and therefore okay with watching Cyoria invaded and friends with Quatach-Ichl).  He can block projectiles with earth magic, which is useful in doing things like stopping point-blank bullets.  And his size/strength match too.  Zorian suspected that RR was Estin early on, and I never saw a reason he decided Estin wasn't Red Robe that made sense (but I might have missed something!).!<
-> Additional explanations/reasons/thoughts:
-> 1. **RR is a classmate of Zach's.** Whomever RR turns out to be, I'm pretty confident that Red Robe is a classmate of Zach.  First, he literally calls him "Zach" (something a classmate is far more likely to do than a random noble/lawyer) and recognizes him on sight. Second, Zach repeatedly told Zorian that he tried to clue in his classmates about the time loop.  >!It just seems far more likely that one of Zach's classmates would have believed him and could have taken advantage of Zach if said classmate had access to soul magic as a necromancer (with family members from Ulquaan Ibasa)-- Estin checks off a lot of boxes.!<    
-> 2. **Okay with invasion and ties to allegiance with Quatach-Ichl and Lady Zoltan.**  Seems like RR never explained the time loop to QI (or else he would have risked the Lich taking the marker for himself).  How, then, did RR earn QI's and Lady Zoltan's trust?  Even for them to believe in his advice, he needed something.  Granted, maybe he was strong and could tell them about the invasion ahead of time, but I think he would need some introduction or connection to Ulquaan Ibasa.  >!Estin's family members are from there.  Plus, as an immigrant from Ulquaan Ibasa, he was probably okay with the whole invasion/destruction plot.  He checks both boxes here.!< 
-> 3. **Soul magic/mind magic.**  All of RR's current powers/magic can be explained away with the time loop.  But the thing about RR is that in the very first loop where he learns about the time loop from Zach,  and before RR accumulated power/knowledge via the loop, RR would still need to be able to do something to the temporary marker/Zach's mind right away.  Both soul and mind magic are rare and it doesn't seem like your average classmate would know any.  >!Unless, of course, they were from a land of necromancers.  Like Estin.!<
-> 4. **Stopping bullets**  This a bit more tenuous, since RR could have gained almost any power that explains how he stopped Zorian's bullets.  But Zorian emptied an entire chamber into RR from near point-blank range.  He was certain that he landed the shots.  >!Estin's primary defense is earth magic and the one thing we know from his skirmishes is that he's naturally adept at stopping projectiles near instantaneously.  This makes sense too.!<
-> 5. **Soul killing Veyers.** Again, it would be someone with a grudge or a lot of interaction with Veyers.  Makes me think it's a student/classmate (this one is tenuous, though, and a lot of people fit here)
-> >!Anyway, those are my immediate thoughts and I haven't seen this put forward before.  I'd be interested to hear any comments supporting/disproving the "RR is Estin" theory. !<
 > 
+> >!TLDR: I think Red Robe is Estin Grier.  He's a classmate of Zach's and an immigrant from Ulquaan Ibasa (and therefore okay with watching Cyoria invaded and friends with Quatach-Ichl).  He can block projectiles with earth magic, which is useful in doing things like stopping point-blank bullets.  And his size/strength match too.  Zorian suspected that RR was Estin early on, and I never saw a reason he decided Estin wasn't Red Robe that made sense (but I might have missed something!).!<
+> 
+> Additional explanations/reasons/thoughts:
+> 
+> 1. **RR is a classmate of Zach's.** Whomever RR turns out to be, I'm pretty confident that Red Robe is a classmate of Zach.  First, he literally calls him "Zach" (something a classmate is far more likely to do than a random noble/lawyer) and recognizes him on sight. Second, Zach repeatedly told Zorian that he tried to clue in his classmates about the time loop.  >!It just seems far more likely that one of Zach's classmates would have believed him and could have taken advantage of Zach if said classmate had access to soul magic as a necromancer (with family members from Ulquaan Ibasa)-- Estin checks off a lot of boxes.!<    
+> 
+> 2. **Okay with invasion and ties to allegiance with Quatach-Ichl and Lady Zoltan.**  Seems like RR never explained the time loop to QI (or else he would have risked the Lich taking the marker for himself).  How, then, did RR earn QI's and Lady Zoltan's trust?  Even for them to believe in his advice, he needed something.  Granted, maybe he was strong and could tell them about the invasion ahead of time, but I think he would need some introduction or connection to Ulquaan Ibasa.  >!Estin's family members are from there.  Plus, as an immigrant from Ulquaan Ibasa, he was probably okay with the whole invasion/destruction plot.  He checks both boxes here.!< 
+> 
+> 3. **Soul magic/mind magic.**  All of RR's current powers/magic can be explained away with the time loop.  But the thing about RR is that in the very first loop where he learns about the time loop from Zach,  and before RR accumulated power/knowledge via the loop, RR would still need to be able to do something to the temporary marker/Zach's mind right away.  Both soul and mind magic are rare and it doesn't seem like your average classmate would know any.  >!Unless, of course, they were from a land of necromancers.  Like Estin.!<
+> 
+> 4. **Stopping bullets**  This a bit more tenuous, since RR could have gained almost any power that explains how he stopped Zorian's bullets.  But Zorian emptied an entire chamber into RR from near point-blank range.  He was certain that he landed the shots.  >!Estin's primary defense is earth magic and the one thing we know from his skirmishes is that he's naturally adept at stopping projectiles near instantaneously.  This makes sense too.!<
+> 
+> 5. **Soul killing Veyers.** Again, it would be someone with a grudge or a lot of interaction with Veyers.  Makes me think it's a student/classmate (this one is tenuous, though, and a lot of people fit here)
+> 
+> >!Anyway, those are my immediate thoughts and I haven't seen this put forward before.  I'd be interested to hear any comments supporting/disproving the "RR is Estin" theory. !<
 
->> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (17 days later)
 >> 
 >> Hereby the refutations;
+>> 
 >> 1. Author has little discipline on how to call somebody. Maybe as a tactic to familiarize reader what's being talked about, but later on it became anny. Take Xvim Chao; it was never Mr Chao. Always Xvim. 
 >> 2. No refutation. I write this because reddit can't skip number.
 >> 3. Same as above.
 >> 4. Estin required loose sand when he was training with Zorian. He might be able to move larger chunk of earth after much training. But, it should be visible for Zorian to take note.
->> 
 
-> **u/-Fender-** [+2] *
+> **u/-Fender-** [+2]  (4 days later)
 > 
 > Fortov is *not* a natural mind mage. Zorian verified, and Daimen is the only other person in their family who inherited their bloodline ability. There may be some way to trigger their bloodline and activate it, but as far as Zorian has ever known, Fortov has never been Open.
-> 
 
-> **u/FxH_Absolute** [+1] *
+> **u/FxH_Absolute** [+1]  (7 hours later)
 > 
 > I'm not enitirely sure this is even relavant as I'm not current in MoL, but after the simulacrum warnings, I always figured RR was Zach's Simulacrum. Somehow jurry rigged an independent soul, fucked with the marker and Zach's Mind erasing a swath of knowledge about soul and mind, tried to learn more, got scared at the presence of a new soul mage and fled.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (10 hours later)
 > 
 > Do we have to get the payoff or can RR just stay RR?  I'd prefer that over some rando.
-> 
 
->> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (17 days later)
 >> 
 >> In my humble opinion, I agree that RR does not need to be unmasked. But what motivated him must be revealed. Preferably something more intimate, or more empathic, than Sudomir's undying love toward his wife.
->> 
 
-> **u/Pandoraboxhelp** [+1] *
+> **u/Pandoraboxhelp** [+1]  (13 hours later)
 > 
 > Fortov also didn't immediately kill/soul kill Zorian when he had him on the ropes in the araenea cave. Redrobe/Fortov instead was monologing to Zorian saying how Zach was useless after so many years in the time loop. Why would he waste time monologing? Only reason is that he recognized Zorian as his brother and did not want to kill him. I believe Zorian did not wear a mask that day. Red robe also had a past history/ties with the araenea. Maybe he was introduced to them after trying to figure out what happened to Zorian in the dungeon when he went with tavien for the first time. We all know fortov cares about zorian since he was about to confront zach punching zorian in the train station.
-> 
 
-> **u/I_Hump_Rainbowz** [+1] *
+> **u/I_Hump_Rainbowz** [+1]  (14 hours later)
 > 
 > I am wondering what you think about Zorian being Red Robe.
-> The Soul Merge thing is very suspicious from the beginning, this is why I think it awoke Zorian not transplanted the soul tag. 
-> Zorian somehow did a super simulacrum and boom RR.
-> I was wondering if you think that a Zorian Sim (or something) that went down a darker more teenager angsty path instead of fixing his mind magic like he had to in the beginning, makes ANY literary sense?
 > 
+> The Soul Merge thing is very suspicious from the beginning, this is why I think it awoke Zorian not transplanted the soul tag. 
+> 
+> Zorian somehow did a super simulacrum and boom RR.
+> 
+> I was wondering if you think that a Zorian Sim (or something) that went down a darker more teenager angsty path instead of fixing his mind magic like he had to in the beginning, makes ANY literary sense?
 
-> **u/FormerlySarsaparilla** [+1] *
+> **u/FormerlySarsaparilla** [+1]  (14 hours later)
 > 
 > Has anyone guessed that it's a previous incarnation of Zorian yet?
-> 
 
-> **u/dobri2** [+1] *
+> **u/dobri2** [+1]  (a day later)
 > 
 > Only way for someone to loop with Zack was if he had a soul marker of his own. So RR is Zacks family member.  Zack knows this, and it is the reason he is keeping mind blank at all times on himself, he is feeling guilty. We know Zack is a good guy since he shielded non looping Zorian without gain.
 > Also, only someone close to Zack could have wiped his memory and leave him functioning in a time loop.
-> 
 
-> **u/mishanek** [+1] *
+> **u/mishanek** [+1]  (3 days later)
 > 
 > You have basically thrown all rationality out of the window and decided to go with what is emotionally most satisfying...
-> But there is no logical way for Fortov to get caught up in the time loop. I really cannot see how it could be him.
-> Meanwhile you have said that Benisek is weak and stupid. Where did you get that impression? We know he is a huge gossip, but not much else.
-> I actually think Benisek is RR. It was too suspicious in ch94 that he knew of the killings and that he was asking when Z and Z got so friendly.
 > 
+> But there is no logical way for Fortov to get caught up in the time loop. I really cannot see how it could be him.
+> 
+> Meanwhile you have said that Benisek is weak and stupid. Where did you get that impression? We know he is a huge gossip, but not much else.
+> 
+> I actually think Benisek is RR. It was too suspicious in ch94 that he knew of the killings and that he was asking when Z and Z got so friendly.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (8 days later)
 > 
 > [deleted]
-> 
 
->> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (17 days later)
 >> 
 >> Sudomir is mayor of Knyazov-Dveri. Zach concern does not go beyond Cyoria. If mayor of Cyoria was mentioned as often as Sudomir, that would make better theory.
->> 
 
-> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (17 days later)
 > 
 > So, because I dislike discussing MoL outside its chapter release date, I opened this thread late. Regardless, I'd like to point out, Fortov as RedRobe is awful awful theory. Just take note on what he did before Arc 1's end. 
+> 
 > 1. Fortov were doing music on early festival night. Was it violin? I don't remember.
 > 2. Fortov always asked Zorian for creeper salves. Always.
 > 3. Fortov attended class to explain Ibery developing crush. Won't he be bored if he was RR?
 > 4. Fortov always hung out by his friend before going with train to Cyoria. Again, won't he be bored?
-> Fortov as RedRobe was r/rational's  running joke failed to get caught. Please abandon ship. Boranova spirit ancestor theory is much better theory.
 > 
+> Fortov as RedRobe was r/rational's  running joke failed to get caught. Please abandon ship. Boranova spirit ancestor theory is much better theory.
 
-> **u/Ozimandius** [+1] *
+> **u/Ozimandius** [+1]  (45 minutes later)
 > 
 > Here's one you don't mention as a possibility: An Araneae. If the Matriarch was really Red Robe that could be satisfying.   She has the prerequisite mind magic abilities to f with Zach, picks up on the loop thing pretty quick with Zorian, uses Zorian and his information incredibly effectively.. It is touched on that there are potions that can transfigure you between species, so she could easily have investigated such things to transform and learn human magic over her many years in the loop, and learned simulcrum and all that..... 
-> Also, her clues that she left seemed unnecessarily not very helpful and very difficult to follow.
 > 
+> Also, her clues that she left seemed unnecessarily not very helpful and very difficult to follow.
 
->> **u/BirdMustFeed0** [+11] *
+>> **u/BirdMustFeed0** [+11]  (an hour later)
 >> 
 >> I think readers would find it convoluted. The Araneae taking a potion to turn into a human would be like Taiven taking a potion to turn herself into a man. Both just wouldn't work well as an answer to the mystery that's been sewn throughout the story. Readers would honestly just find it weird. I'm trying to find the characters, who when revealed to be Red Robe, will make us go "Holy Shit!!!", not "Huh?".
->> 
 
->>> **u/Ozimandius** [+0] *
+>>> **u/Ozimandius** [+0]  (an hour later)
 >>> 
 >>> Well, if you don't find that satisfying, she could have simply mind controlled someone to be red robe.  
 >>> The simple fact that added years to an araneae who could take extra risks of venturing out and interacting with the outside world would mean so much for their ability to gain knowledge and manipulate things.  Their fearlessness in raiding thoughts and stealing secrets from those not part of the Great Web would make her practically all powerful from the beginning.  Consider what Zorian can do in a much shorter time, and he isn't even on the same innate level as the matriarch.
->>> The problem is honestly that she would be TOO POWERFUL and Zorian's main ability would be nearly useless against her.
 >>> 
+>>> The problem is honestly that she would be TOO POWERFUL and Zorian's main ability would be nearly useless against her.
 
->>>> **u/Ardvarkeating101** [+12]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+12]  *Father of Learning* (an hour later)
 >>>> 
 >>>> It makes no sense for many different reasons.  She would have immediately mind-raped Zorian when he came to them revealing his time looping nature, she literally has him at her mercy the first time the Matriarch meets him, Zorian explicitly points out she could have screwed him over with nothing to stop her.
->>>> Also, why the hell would she sabotage her own invasion just to sell the deception to Zorian?  It goes back to the above why help Zorian at all.
->>>> Finally, why on Domagoj would they help the invaders who *are currently engaged in a genocidal campaign to exterminate them!?!*
->>>> Finally, her clues are very helpful from her perspective.  They're very hard for him to accidentally pick up if she doesn't want him to, and simultaneously easy to access if she leaves the time loop.
 >>>> 
+>>>> Also, why the hell would she sabotage her own invasion just to sell the deception to Zorian?  It goes back to the above why help Zorian at all.
+>>>> 
+>>>> Finally, why on Domagoj would they help the invaders who *are currently engaged in a genocidal campaign to exterminate them!?!*
+>>>> 
+>>>> Finally, her clues are very helpful from her perspective.  They're very hard for him to accidentally pick up if she doesn't want him to, and simultaneously easy to access if she leaves the time loop.
 
->>>>> **u/Ozimandius** [+1] *
+>>>>> **u/Ozimandius** [+1]  (an hour later)
 >>>>> 
 >>>>> A genocidal campaign seems a bit strong, I don't recall any hard clad evidence of a genocidal campaign against the Araneae.  Just random encounters as the invaders try to accomplish their goals of summoning the primordial.  Not that it would matter too much anyway since if you know you are in a loop it might not matter much to you.  She would have to help the invasion just so she would know how to free the primordial as part of the deal for escaping the loop.
->>>>> As for why help Zorian.. that would be the main question.  Perhaps she has some use for him that will become more obvious as time goes on.  But probably not, just an idea that wasn't explored.
 >>>>> 
+>>>>> As for why help Zorian.. that would be the main question.  Perhaps she has some use for him that will become more obvious as time goes on.  But probably not, just an idea that wasn't explored.
 
->>>>>> **u/Ardvarkeating101** [+7]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+6]  *Father of Learning* (an hour later)
 >>>>>> 
 >>>>>> They were exterminating the Aranea because they were A. Allied with the city B. In control of the local dungeon, where they wanted to set up as a base and C. Could use "we warned you about/saved you from an army of crazy necromancers" as a segue into getting citizenship.
->>>>>> Plus, aside from Spear of Resolve telling Zorian it, they were also trying to kill aranea every time the two groups interacted
 >>>>>> 
+>>>>>> Plus, aside from Spear of Resolve telling Zorian it, they were also trying to kill aranea every time the two groups interacted
 
->>>>>>> **u/Ozimandius** [+1] *
+>>>>>>> **u/Ozimandius** [+1]  (2 hours later)
 >>>>>>> 
 >>>>>>> Huh? I didn't ask why the invaders might *want* to exterminate the Araneae, I asked for the evidence that they were actually doing it.  Obviously the Matriarch would need to be on the side of the invaders to learn how to best free the primordial to fulfill the Bargain.
->>>>>>> As a sidenote... here's a fun line from Chapter 19 that would be interpreted in a new light: "It was nice to have someone on his side in this whole tangled mess.  *He just hoped he wasn't making the same mistake with the araneae that Zach made with the person behind the invasion.*"
->>>>>>> Edit:  Doing a little more reading though, it is quite clear it is not them.  It has just been too long since I read the beginning.
 >>>>>>> 
+>>>>>>> As a sidenote... here's a fun line from Chapter 19 that would be interpreted in a new light: "It was nice to have someone on his side in this whole tangled mess.  *He just hoped he wasn't making the same mistake with the araneae that Zach made with the person behind the invasion.*"
+>>>>>>> 
+>>>>>>> Edit:  Doing a little more reading though, it is quite clear it is not them.  It has just been too long since I read the beginning.
 
 ---
 

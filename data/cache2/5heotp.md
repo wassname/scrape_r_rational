@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/5heotp/rtffff_marked_for_death_ch_891_planting_seeds/
-* Score: 10
+* Score: 11
 
 * Created: 2016-12-09T16:29:56
 
@@ -26,79 +26,82 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/Anderkent** [+4] *
+> **u/Anderkent** [+5]  (6 hours later)
 > 
 > So, googling around for flower meanings:
+> 
 >     holly: Defense; Domestic Happiness  
 >     hyndragea: heartfelt emotions / white lily: humility and devotion 
 >     cherry blossoms: fragility and the beauty of life  
 >     daffodil: rebirth and new beginnings  
 >     cactus bud: warmth, protection and endurance  
-> Hazo is pregnant?
 > 
+> Hazo is pregnant?
 
->> **u/oliwhail** [+3]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+3]  *Omake-Maximizing AGI* (20 hours later)
 >> 
 >> There was a lot of discussion of this in-thread, and u/EagleJarl reminded us that we should base our analysis on Japanese culture rather than western ones.
 >> The western reading is something like "Your beauty calls my spirit to persevere in its pure and chivalrous love for you until you welcome me past your cold exterior to begin our lives together in domestic bliss", with extra hints of 'being her defender'.
->> Japanese symbolism:
->> Holly: "Looking (Single and "--")"
->> Hydrangea: Pride
->> White Lily: Purity/Chastity
->> Cherry blossoms: Kind/Gentle
->> Daffodil: Respect
->> (Just flowering) Cactus: (beginnings of) Lust/Sex
->> This is basically the flower language equivalent, when combined with Hazou's totally straight-faced delivery, of "I think I like you and you're really pretty and I promise I don't mean anything nasty or dirty but if you tried to kiss me I wouldn't say no and do you maybe like me back?" 
->> Like, third-grader "do you like me circle y / n" - tier shit. Mari is a goddamn genius.
 >> 
+>> Japanese symbolism:
+>> 
+>> Holly: "Looking (Single and "--")"
+>> 
+>> Hydrangea: Pride
+>> 
+>> White Lily: Purity/Chastity
+>> 
+>> Cherry blossoms: Kind/Gentle
+>> 
+>> Daffodil: Respect
+>> 
+>> (Just flowering) Cactus: (beginnings of) Lust/Sex
+>> 
+>> This is basically the flower language equivalent, when combined with Hazou's totally straight-faced delivery, of "I think I like you and you're really pretty and I promise I don't mean anything nasty or dirty but if you tried to kiss me I wouldn't say no and do you maybe like me back?" 
+>> 
+>> Like, third-grader "do you like me circle y / n" - tier shit. Mari is a goddamn genius.
 
->> **u/MatterBeam** [+2] *
+>> **u/MatterBeam** [+2]  (7 hours later)
 >> 
 >> :D
->> 
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (6 minutes later)
 > 
 > Important thing to know: /u/Velorien and I typically don't have time to review with each other before writing and publishing. We know the worldbuilding, we have planning sessions, but each release is a surprise to the other author. 
-> As I read through this chapter I was commenting in real time with /u/Velorien via the GM chat. About halfway through I say "this is either the most epic plot twist ever, or you are messing with my head in a truly epic way."
-> Then I found the answer.
 > 
+> As I read through this chapter I was commenting in real time with /u/Velorien via the GM chat. About halfway through I say "this is either the most epic plot twist ever, or you are messing with my head in a truly epic way."
+> 
+> Then I found the answer.
 
->> **u/zzzyxas** [+5] *
+>> **u/zzzyxas** [+5]  (11 minutes later)
 >> 
 >> You were reading Hitchhiker's Guide to the Galaxy at the same time as you read through this chapter? Impressive.
->> 
 
->>> **u/oliwhail** [+2]  *Omake-Maximizing AGI**
+>>> **u/oliwhail** [+2]  *Omake-Maximizing AGI* (13 minutes later)
 >>> 
 >>> Take your upvote and go to the time-out corner :P
->>> 
 
->> **u/Jello_Raptor** [+3]  *The Last Tool User**
+>> **u/Jello_Raptor** [+3]  *The Last Tool User* (11 minutes later)
 >> 
 >> EJ: WWDTTY? 
->> Literally Everyone Else: **YES**
 >> 
+>> Literally Everyone Else: **YES**
 
->>> **u/Anderkent** [+5] *
+>>> **u/Anderkent** [+5]  (5 hours later)
 >>> 
 >>> Seems like WWDTTY is impossible to google. What Would Donald Trump Try Yyyyh?
->>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (5 hours later)
 >>>> 
 >>>> Would We Do That To You?  It's on [our wiki](http://markedfordeath.wikia.com/wiki/Frequently_Used_Acronyms), along with others.
->>>> 
 
->>>>> **u/Anderkent** [+1] *
+>>>>> **u/Anderkent** [+1]  (5 hours later)
 >>>>> 
 >>>>> Ah, I was searching `"WWDTTY" site:forums.sufficientvelocity.com`. Thanks!
->>>>> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (an hour later)
 >>> 
 >>> :>
->>> 
 
 ---
 

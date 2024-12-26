@@ -2,7 +2,7 @@
 
 * Author: u/Nighzmarquls *
 * URL: https://www.reddit.com/r/rational/comments/3vodyr/dwiphsfbstrtrstconstructing_a_fictional_wiki_to/
-* Score: 12
+* Score: 13
 
 * Created: 2015-12-06T17:14:43
 
@@ -38,53 +38,47 @@ How would you use wiki's for your own writing?
 
 ### Comments:
 
-> **u/DCarrier** [+8] *
+> **u/DCarrier** [+6]  (3 hours later)
 > 
 > This reminds me of the [SCP Foundation](http://www.scp-wiki.net/) and [Orion's Arm](http://www.orionsarm.com/), but with those, the wiki *is* the story. I think Orion's Arm has some books, but it's more like a wiki with tie-in novels than a novel with a tie-in wiki.
-> 
 
-> **u/alexanderwales** [+5]  *Time flies like an arrow**
+> **u/alexanderwales** [+5]  *Time flies like an arrow* (4 hours later)
 > 
 > I've used wikis in the past for D&D. You can [see one here](http://maguseuropa.wikidot.com/). This wasn't at all in-universe, just a collection of knowledge that the players could peruse at their leisure or ignore entirely. It also served double-duty as a campaign log.
-> The big problem is that wikis are a lot of work. Every hour that's spent working on the wiki means an hour that you're not working on the actual story. You can't depend on other people to maintain the wiki without having people (lots of them) engaged with the story, but they won't do that if the story isn't being written well and at a steady pace, and even then I think it's something of a crapshoot.
-> I don't know, I think it's a neat idea but the effort involved makes it seem like it wouldn't be worth it?
 > 
+> The big problem is that wikis are a lot of work. Every hour that's spent working on the wiki means an hour that you're not working on the actual story. You can't depend on other people to maintain the wiki without having people (lots of them) engaged with the story, but they won't do that if the story isn't being written well and at a steady pace, and even then I think it's something of a crapshoot.
+> 
+> I don't know, I think it's a neat idea but the effort involved makes it seem like it wouldn't be worth it?
 
->> **u/Transfuturist** [+4]  *Carthago delenda est.**
+>> **u/Transfuturist** [+3]  *Carthago delenda est.* (8 hours later)
 >> 
 >> Your favorite pet peeve also holds true. When I was working on a setting wiki, I was getting all the hedons from worldbuilding without actually putting anything into the story.
->> 
 
-> **u/Transfuturist** [+3]  *Carthago delenda est.**
+> **u/Transfuturist** [+3]  *Carthago delenda est.* (3 hours later)
 > 
 > Maintaining a secondary source of canon adds a multiplicative factor to the effort involved in making the story in the first place. And simulating participation of a fragment of a fictional internet involves the observed behavior of every person who adds to that fragment, which itself adds up. Simulating in detail a system that involves more people than yourself can only be done productively with AI.
-> 
 
-> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (a day later)
 > 
 > Well, there's Oh My Generic Monster Girls with its heavy use of internet, and Three Worlds Collide has a ship's 4chan. Still, that's only two out of the whole genre.
-> 
 
->> **u/Nighzmarquls** [+3] *
+>> **u/Nighzmarquls** [+3]  (a day later)
 >> 
 >> Well yes that is one of the reasons I'm writing Oh My Generic Monster girls. But thanks for plugging it :)
->> 
 
->>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (a day later)
 >>> 
 >>> Oh right, that's you. And I forgot Friendship is Optimal.
->>> 
 
->>>> **u/Nighzmarquls** [+2] *
+>>>> **u/Nighzmarquls** [+2]  (a day later)
 >>>> 
 >>>> Friendship is optimal is a good point. On the internet thing it's just a very strange thing to me, there is an amazing amount of authorial and story telling potential in an interconnected world.
->>>> 
 
-> **u/Nepene** [+2] *
+> **u/Nepene** [+2]  (an hour later)
 > 
 > It might work well to make a number of primary sources, stories and pieces of evidence about the world. Any sources made would have to adhere to their existence. 
-> Plus your story actually has to be decent. I maintain a mother of learning wiki, but there aren't that many people on there, and that's good enough that people pay money to support the author.
 > 
+> Plus your story actually has to be decent. I maintain a mother of learning wiki, but there aren't that many people on there, and that's good enough that people pay money to support the author.
 
 ---
 

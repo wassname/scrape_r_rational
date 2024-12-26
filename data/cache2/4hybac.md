@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/4hybac/challenge_companion_romance/
-* Score: 24
+* Score: 20
 
 * Created: 2016-05-05T03:59:59
 
@@ -24,143 +24,148 @@ My favorite sorts of romance movies are ones in which both people have to go thr
 
 ### Comments:
 
-> **u/LiteralHeadCannon** [+5] *
+> **u/LiteralHeadCannon** [+6]  (48 minutes later)
 > 
 > Well, I missed this train, as I seem to be missing many trains lately. Shame.
-> I've long wanted to write a take on the Pygmalion formula (both the original Greek "lonely man creates woman of his dreams from literally nothing" and the Shaw "pretentious man attempts to transform naive woman into something more like himself") set in a near-future AI research team. The lead developer's foolishness, of course, jeopardizes humanity, as the iterations who learn to love him take his already-unsavory attributes to extremes, and the iterations who don't learn to love him learn to hate him and all humans with him.
-> There would of course be a FOOM scenario that goes something like this: http://m.youtube.com/watch?v=t3mC4485Ue0
 > 
+> I've long wanted to write a take on the Pygmalion formula (both the original Greek "lonely man creates woman of his dreams from literally nothing" and the Shaw "pretentious man attempts to transform naive woman into something more like himself") set in a near-future AI research team. The lead developer's foolishness, of course, jeopardizes humanity, as the iterations who learn to love him take his already-unsavory attributes to extremes, and the iterations who don't learn to love him learn to hate him and all humans with him.
+> 
+> There would of course be a FOOM scenario that goes something like this: http://m.youtube.com/watch?v=t3mC4485Ue0
 
-> **u/Norseman2** [+6] *
+> **u/Norseman2** [+5]  (9 hours later)
 > 
 > I expect the most interesting topics on this theme will probably relate to the challenges, ethics and consequences of fantasy powers and characters in a romantic context. Apart from fantasy settings, cultural variations on romance in sci-fi settings may also be worth exploring. Example topics:
-> * **Love potions:** Probably unethical, but are you sure? There are many ways to make someone fall in love with you, so what exactly makes love potions different?
-> * **Telepathy:** Rationalists are often attracted to other rationalists. How would a rationalist telepath woo another rationalist without them figuring out about the telepathy?
-> * **Cupid:** If Cupid died, how would the process of falling in love change? What would be the sociological impact? How could we prove that Cupid had died (or ever existed), and how could we correct the situation? Would love potions become acceptable?
-> * **Shapeshifters:** They gain a unique ability to test their lovers' faithfulness, but what problems or ethical dilemmas might arise from doing so?
-> * **Polyamorous families:** In *The Moon Is a Harsh Mistress*, Heinlein describes how lunar prison colonies adapted to an environment with far more men than women by forming marriages between multiple men and women. Is this the most likely outcome of societal gender imbalance?
 > 
+> * **Love potions:** Probably unethical, but are you sure? There are many ways to make someone fall in love with you, so what exactly makes love potions different?
+> 
+> * **Telepathy:** Rationalists are often attracted to other rationalists. How would a rationalist telepath woo another rationalist without them figuring out about the telepathy?
+> 
+> * **Cupid:** If Cupid died, how would the process of falling in love change? What would be the sociological impact? How could we prove that Cupid had died (or ever existed), and how could we correct the situation? Would love potions become acceptable?
+> 
+> * **Shapeshifters:** They gain a unique ability to test their lovers' faithfulness, but what problems or ethical dilemmas might arise from doing so?
+> 
+> * **Polyamorous families:** In *The Moon Is a Harsh Mistress*, Heinlein describes how lunar prison colonies adapted to an environment with far more men than women by forming marriages between multiple men and women. Is this the most likely outcome of societal gender imbalance?
 
->> **u/Anakiri** [+4] *
+>> **u/Anakiri** [+5]  (10 hours later)
 >> 
 >> I agree with your point, but I find it mildly disturbing that three of your five example topics are premised on trust issues.
->> 
 
->>> **u/Norseman2** [+1] *
+>>> **u/Norseman2** [+1]  (22 hours later)
 >>> 
 >>> Oooh, one more possible topic. Munchkining the power of love!
->>> 
 
->>>> **u/LiteralHeadCannon** [+1] *
+>>>> **u/LiteralHeadCannon** [+1]  (22 hours later)
 >>>> 
 >>>> How does the love an individual has for another individual (ie, romantic, platonic, or familial love) compare to the love an individual has for all life (ie, morality)?  What is proper when they conflict?
->>>> In my opinion, the former, more personal type of love is a prerequisite for the latter, more universal type, and the latter cannot exist without the former.  The latter is superior, and must take precedence when it conflicts with the former, but this can be resolved when the individual lovers are rationalists who share their universal love and therefore understand each others' sacrifices and why they're necessary.  The needs of the many outweigh the needs of the few, but the many cannot exist without the few, but if the few know that the needs of the many outweigh the needs of the few this will not cause a problem.
 >>>> 
+>>>> In my opinion, the former, more personal type of love is a prerequisite for the latter, more universal type, and the latter cannot exist without the former.  The latter is superior, and must take precedence when it conflicts with the former, but this can be resolved when the individual lovers are rationalists who share their universal love and therefore understand each others' sacrifices and why they're necessary.  The needs of the many outweigh the needs of the few, but the many cannot exist without the few, but if the few know that the needs of the many outweigh the needs of the few this will not cause a problem.
 
->> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (21 hours later)
 >> 
 >> > There are many ways to make someone fall in love with you, so what exactly makes love potions different?
->> Unless you are doing something along the lines of "showing the other person that you do in fact fulfill zir values," then I'm pretty sure I'd call it unethical, love potion or no.
 >> 
+>> Unless you are doing something along the lines of "showing the other person that you do in fact fulfill zir values," then I'm pretty sure I'd call it unethical, love potion or no.
 
->>> **u/LiteralHeadCannon** [+2] *
+>>> **u/LiteralHeadCannon** [+2]  (22 hours later)
 >>> 
 >>> I think love potions are interesting in that they're often portrayed as little-different from date rape drugs, but there's no particular reason that, in a fantasy universe, it couldn't work in some other way that's better - or worse - than such a mundane, real thing.
->>> On the worse end, we've got GWSI Amortentia, which induces *permanent, total ego death*, but...
->>> On the better end, what about a substance that forces a previously low-probability event wherein the target falls in love of their own accord?  It's something that could've happened anyway; the magic just makes sure that that's what happens.
->>> Or, as you suggest, what about a purely additive love potion?  Something that doesn't flood the brain with emotional chemicals, but simply imbues the target with more knowledge of someone, until they see things from their perspective?  A true love potion, as opposed to an infatuation potion.
 >>> 
+>>> On the worse end, we've got GWSI Amortentia, which induces *permanent, total ego death*, but...
+>>> 
+>>> On the better end, what about a substance that forces a previously low-probability event wherein the target falls in love of their own accord?  It's something that could've happened anyway; the magic just makes sure that that's what happens.
+>>> 
+>>> Or, as you suggest, what about a purely additive love potion?  Something that doesn't flood the brain with emotional chemicals, but simply imbues the target with more knowledge of someone, until they see things from their perspective?  A true love potion, as opposed to an infatuation potion.
 
->>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (22 hours later)
 >>>> 
 >>>> You might be misunderstanding me. To clarify, unless you *do in fact fulfill the values of your romantic interest*, I'm not sure of any way to ethically get someone to fall in love with you (except perhaps changing yourself to fulfill those values). 
->>>> Anything that changes your romantic interest's values in a way that your romantic interest, pre-change, would not approve, is skeevy to me. 
->>>> The low-probability potion is good, but I'm not quite sure how you're intending the additive potion, because of the "until they see things from their perspective" bit.
 >>>> 
+>>>> Anything that changes your romantic interest's values in a way that your romantic interest, pre-change, would not approve, is skeevy to me. 
+>>>> 
+>>>> The low-probability potion is good, but I'm not quite sure how you're intending the additive potion, because of the "until they see things from their perspective" bit.
 
->>>>> **u/LiteralHeadCannon** [+1] *
+>>>>> **u/LiteralHeadCannon** [+1]  (22 hours later)
 >>>>> 
 >>>>> Essentially, the idea with the additive potion is that you can get any person to love any person not by directly changing their utility function or wireheading them, but purely by giving them more knowledge about that person.
->>>>> 
 
->>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (22 hours later)
 >>>>>> 
 >>>>>> Right, but if you just don't fulfill that person's values, how will more information ever change that?
->>>>>> 
 
->>>>>>> **u/LiteralHeadCannon** [+2] *
+>>>>>>> **u/LiteralHeadCannon** [+2]  (22 hours later)
 >>>>>>> 
 >>>>>>> It wouldn't necessarily induce a romantic relationship, but it would necessarily induce love.
->>>>>>> 
 
->>>> **u/Dustmaiden** [+2]  *Here, too, virtue has its due reward**
+>>>> **u/Dustmaiden** [+2]  *Here, too, virtue has its due reward* (a day later)
 >>>> 
 >>>> If you are not familiar with [Alicorn's love potions AUSJ](http://luminousalicorn.tumblr.com/tagged/potions/chrono), it is relevant.
->>>> Additionally, the excellent [*Goldmage*](http://goldmage.elcenia.com/) by the same author contains love magic. In fact, it features true love magic, as you put it.
 >>>> 
+>>>> Additionally, the excellent [*Goldmage*](http://goldmage.elcenia.com/) by the same author contains love magic. In fact, it features true love magic, as you put it.
 
-> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (4 hours later)
 > 
 > [The Fall of Doc Future](http://docfuture.tumblr.com/post/82363551272/fall-of-doc-future-contents) (and sequels) do Romance in a "rational" manner: Avoiding miscommunication, clearly communicating expectations, intentions and boundaries, disclosing emotions, not keeping secrets, never outright lying, and deconstructing harmful relationship norms where appropriate.
-> Serial monogamy goes out the window by the second book; but so far it is a little light on same-gender attraction.
 > 
+> Serial monogamy goes out the window by the second book; but so far it is a little light on same-gender attraction.
 
-> **u/Sparkwitch** [+2] *
+> **u/Sparkwitch** [+2]  (11 hours later)
 > 
 > I remember, several years back, a great discussion about the impossibility romance in video games. The thrust of the argument was that the tension and conflict in the romance genre depends upon the potential lovers being kept apart, while the impulse of the player is simply to bring them together.
-> All the obstacles, twists, and misunderstandings that drive our heroes apart are ultimately what brings them together, and their constant failures to see how perfect they are for one another is what makes us (the audience) want them to wind up together in the end.
-> Romance games would likely be stuck with a lot of scenes like that exasperating moment when the player walks around a corner and is suddenly disarmed so that the bad guy can talk in a place that you can't simply shoot him.
-> It would be quite a balancing act, and a writing feat, to keep that entertaining rather than frustrating.
 > 
+> All the obstacles, twists, and misunderstandings that drive our heroes apart are ultimately what brings them together, and their constant failures to see how perfect they are for one another is what makes us (the audience) want them to wind up together in the end.
+> 
+> Romance games would likely be stuck with a lot of scenes like that exasperating moment when the player walks around a corner and is suddenly disarmed so that the bad guy can talk in a place that you can't simply shoot him.
+> 
+> It would be quite a balancing act, and a writing feat, to keep that entertaining rather than frustrating.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (9 minutes later)
 > 
 > Romance doesn't really work as the main conflict of a rational story, in my opinion, because love is indeed not rational - and if it is, if it's an element that can be understood and manipulated and intelligently exploited, then it's not a romance anymore, is it? It's just manipulation. Romance as a subplot works great, but romance as the main story element is either creepy or has to be shunted off to indirect goals.
-> I suppose you could do things like a rational story about a consultant who solves a clients problems while falling in love? But again, that pushes the romance to a subplot.
 > 
+> I suppose you could do things like a rational story about a consultant who solves a clients problems while falling in love? But again, that pushes the romance to a subplot.
 
->> **u/mhd-hbd** [+12]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+13]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (4 hours later)
 >> 
 >> Romance is very much rational — your emotions are an aspect of your mind that interacts on equal footing with reason, willpower, memory, morals, etc. Your emotions can inform your reasoning, but your reasoning can inform your emotions.
+>> 
 >> Rational romance consists of realizing that "romance" as branded by the heteronormative society is full of sexist, harmful bullcrap like "love is indeed not rational," as well as the idea of "the one and only."
+>> 
 >> The goal of a romantic relationship is connecting intimately with another person, emotionally, and usually also sexually. To this end, it makes perfect sense to dispose of any inherent "mysteriousness" of romance — mysteriousness of a thing is a property of one's lack of knowledge, not of the thing itself. And it defies belief to think that there is only one person out of 7.4 billion that you could connect with, or that every romantic relationship is supposed to last forever.
+>> 
 >> Romances can be long or short, stable or turbulent, but above all they require work and effort and willingness to change.
 >> So the "rational" way to go about relationships is to have good introspection, clear goals and boundaries, communicate a lot, and being prepared for eventual change in the relationship, as well as being prepared to put in a lot of emotional work.
->> 
 
->>> **u/None** [+6] *
+>>> **u/None** [+6]  (7 hours later)
 >>> 
 >>> I agreee with all this, and in retrospect should probably not make comments while falling asleep.
->>> 
 
->>>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>>>> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (a day later)
 >>>> 
 >>>> It's an easy mistake to make. I do so myself — effortpost-arguing with transphobes at 3 AM. Fun times :D
->>>> 
 
->> **u/LiteralHeadCannon** [+3] *
+>> **u/LiteralHeadCannon** [+3]  (53 minutes later)
 >> 
 >> For all that the device is criticized, perhaps the best use of romance in a narrative is a reward? Or rather, a motivation. A Something To Protect. Conflict relating to a romance shouldn't be an interpersonal conflict within the couple (because then we'll take a side, or not, and come to despise one or both people), but rather an external conflict that threatens the couple('s formation).
->> 
 
->>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+9]  *Time flies like an arrow* (10 hours later)
 >>> 
 >>> > Conflict relating to a romance shouldn't be an interpersonal conflict within the couple (because then we'll take a side, or not, and come to despise one or both people), but rather an external conflict that threatens the couple('s formation).
->>> Well ... this depends on what the internal conflict is. I think internal conflict is fine, so long as it's an internal conflict that can be resolved such that both people end up conforming to the norms that the reader is comfortable with.
->>> For example, she's an overly optimistic cop on her first day in the big city, he's a streetwise hustler trying to coast by and not form attachments. By the end of the movie, she's discovered that the world is a more complex place than she thought, and he's joined the police force as her partner to use his hustling powers for good.
->>> Redemption is a pretty common theme in love stories, in part because it allows for an interpersonal conflict that can have a resolution via one or both people changing, and the audience will almost always agree with that change if it's from something socially unacceptable to something socially acceptable. (It can't be *too* socially unacceptable to start off with, naturally, because there are some things we're naturally inclined to think are irredeemable.)
->>> One of my favorite movies with a strong romantic subplot is *Groundhog Day*, which pulls a similar trick; it's all about Phil becoming a better person, and his romantic conflict gets solved by him becoming not just *good*, but at peace with himself and his place in the world around him.
 >>> 
+>>> Well ... this depends on what the internal conflict is. I think internal conflict is fine, so long as it's an internal conflict that can be resolved such that both people end up conforming to the norms that the reader is comfortable with.
+>>> 
+>>> For example, she's an overly optimistic cop on her first day in the big city, he's a streetwise hustler trying to coast by and not form attachments. By the end of the movie, she's discovered that the world is a more complex place than she thought, and he's joined the police force as her partner to use his hustling powers for good.
+>>> 
+>>> Redemption is a pretty common theme in love stories, in part because it allows for an interpersonal conflict that can have a resolution via one or both people changing, and the audience will almost always agree with that change if it's from something socially unacceptable to something socially acceptable. (It can't be *too* socially unacceptable to start off with, naturally, because there are some things we're naturally inclined to think are irredeemable.)
+>>> 
+>>> One of my favorite movies with a strong romantic subplot is *Groundhog Day*, which pulls a similar trick; it's all about Phil becoming a better person, and his romantic conflict gets solved by him becoming not just *good*, but at peace with himself and his place in the world around him.
 
->>>> **u/LiteralHeadCannon** [+5] *
+>>>> **u/LiteralHeadCannon** [+5]  (10 hours later)
 >>>> 
 >>>> /u/alexanderwales confirmed for Wildehopps.
->>>> 
 
->>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (21 hours later)
 >>>>> 
 >>>>> You can't be a mod if you aren't.
->>>>> 
 
 ---
 

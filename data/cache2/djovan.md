@@ -2,7 +2,7 @@
 
 * Author: u/westward101 *
 * URL: https://www.reddit.com/r/rational/comments/djovan/rattle_fiction_pod_the_last_christmas_part_1/
-* Score: 16
+* Score: 12
 
 * Created: 2019-10-18T15:11:29
 
@@ -16,10 +16,9 @@ Enjoy!
 
 ### Comments:
 
-> **u/TrebarTilonai** [+3] *
+> **u/TrebarTilonai** [+3]  (4 hours later)
 > 
 > Well... that was an interesting read. I feel like the story fell short; the impact of such a change on humanity is far more interesting to me than the idea of elves as AI. But that's just me; I know AW has a different focus.
-> 
 
 ---
 

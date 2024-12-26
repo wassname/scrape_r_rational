@@ -24,99 +24,108 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/GlueBoy** [+6]  *anti-skub**
+> **u/GlueBoy** [+6]  *anti-skub* (4 hours later)
 > 
 > Humans, the dogs of the galaxy
-> >No expert could have predicted that the most notable aspect of human psychology to aliens would have been the convergence of the ability to form parasocial relationships and the propensity for pareidolia and anthropomorphization. Combined, this imparted humans the ability to form genuine bonds of loyalty, affection, and even love with beings outside their species (and even objects!), and was unheard of before the introduction of humanity to the larger galactic community. 
-> >Despite other sapient species being better able to restrict their base impulses and cooperate fruitfully for mutual self-interest, humanity's innate capacity for indiscriminate empathy has given them a reputation for gregariousness that far outmatches reality. Initially, at least. 
-> >Combined with their astounding hardiness and adaptability, relatively fast reproduction and low metabolic footprint it was almost inevitable that after a thriving black market trade in human genetic material that humanity would go on to become the underclass of the galaxy, general purpose servants and foot-soldiers for a myriad of alien races throughout the galaxy.
-> Thoughts?
 > 
+> >No expert could have predicted that the most notable aspect of human psychology to aliens would have been the convergence of the ability to form parasocial relationships and the propensity for pareidolia and anthropomorphization. Combined, this imparted humans the ability to form genuine bonds of loyalty, affection, and even love with beings outside their species (and even objects!), and was unheard of before the introduction of humanity to the larger galactic community. 
+> 
+> >Despite other sapient species being better able to restrict their base impulses and cooperate fruitfully for mutual self-interest, humanity's innate capacity for indiscriminate empathy has given them a reputation for gregariousness that far outmatches reality. Initially, at least. 
+> 
+> >Combined with their astounding hardiness and adaptability, relatively fast reproduction and low metabolic footprint it was almost inevitable that after a thriving black market trade in human genetic material that humanity would go on to become the underclass of the galaxy, general purpose servants and foot-soldiers for a myriad of alien races throughout the galaxy.
+> 
+> Thoughts?
 
->> **u/MagicWeasel** [+9]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+9]  *Cheela Astronaut* (9 hours later)
 >> 
 >> As a sci-fi premise I love it. 
->> As hard sci-fi, it's a bit difficult. Like, we associate the shape :) with a smiley face, hence pareidolia, but alien faces wouldn't look like that. Very few people find spiders cute, for example, and if you google "[cute spiders](https://miro.medium.com/max/2048/1*ojnyA7GmLlgN_LsW1F4owg.jpeg)" they have the :) sort of face shape that makes our mirror neurons (or whatever) sing. I mean, look at what I assume is a more typical [spider face](https://imageresizer.static9.net.au/otv-XWGkzFKdXHpVQK1CaVxjW2k=/396x0/http%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FImages%2F2018%2F08%2F22%2F15%2F47%2Ftrapdoor-1.jpg) - I don't have an easy time having empathy for it. And aliens would be *more* different. 
->> But if you live in a world of rubber forehead aliens, or anything that is vaguely humanoid (the :) shaped face meeting that definition for me), and that's your "gimme" (reasonable enough in hard sci-fi IMO), then I think it's really cool and neat. I'd love to see humanity in more varied roles than just "soldiers", since that's pretty predictable: diplomats and the like.
 >> 
+>> As hard sci-fi, it's a bit difficult. Like, we associate the shape :) with a smiley face, hence pareidolia, but alien faces wouldn't look like that. Very few people find spiders cute, for example, and if you google "[cute spiders](https://miro.medium.com/max/2048/1*ojnyA7GmLlgN_LsW1F4owg.jpeg)" they have the :) sort of face shape that makes our mirror neurons (or whatever) sing. I mean, look at what I assume is a more typical [spider face](https://imageresizer.static9.net.au/otv-XWGkzFKdXHpVQK1CaVxjW2k=/396x0/http%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FImages%2F2018%2F08%2F22%2F15%2F47%2Ftrapdoor-1.jpg) - I don't have an easy time having empathy for it. And aliens would be *more* different. 
+>> 
+>> But if you live in a world of rubber forehead aliens, or anything that is vaguely humanoid (the :) shaped face meeting that definition for me), and that's your "gimme" (reasonable enough in hard sci-fi IMO), then I think it's really cool and neat. I'd love to see humanity in more varied roles than just "soldiers", since that's pretty predictable: diplomats and the like.
 
->> **u/ironistkraken** [+3] *
+>> **u/ironistkraken** [+3]  (6 hours later)
 >> 
 >> I dont know, its hard to know where humans will stand in term of qualities when compared to other space-faring species (assuming we get there).  I think most species that get off there home planet will have a great ability to form group identity and cooperate.   I also don't know why people think humans will have a shorter life span when compared to alien life.
->> 
 
->>> **u/GlueBoy** [+5]  *anti-skub**
+>>> **u/GlueBoy** [+5]  *anti-skub* (7 hours later)
 >>> 
 >>> This isn't an analysis into human psychology or an attempt at comparing it to xenopsycology. It's just the premise for a story, a bit deconstructionist of the "human fuck yeah" genre where we're exceptional individualists who kick ass, and instead humans are relegated to the role of sex freaks and convenient [minions](https://www.hitc.com/static/uploads/hitcn/211/despicable_me_2_minions_wallpaper1_96776.jpg).
->>> 
 
->>>> **u/ironistkraken** [+1] *
+>>>> **u/ironistkraken** [+1]  (8 hours later)
 >>>> 
 >>>> Oh I was not paying attention. Sorry about that.
->>>> 
 
->>>>> **u/GlueBoy** [+1]  *anti-skub**
+>>>>> **u/GlueBoy** [+1]  *anti-skub* (8 hours later)
 >>>>> 
 >>>>> No worries.
->>>>> 
 
->> **u/Trew_McGuffin** [+4]  *Dao = Improve Yourself**
+>> **u/Trew_McGuffin** [+4]  *Dao = Improve Yourself* (6 hours later)
 >> 
 >> I can see humans bonding with aliens (we are freaks) but find it a bit hard to believe that we'd allow ourselves to serve others so much. Could be justified by a long period of servitude. Real cool that we'd spread out that much.
->> A year to make a kid being fast says something about the species of the Galaxy. Maybe only being able to reproduce N amount of times or it taking N amount of years or N factors having to be fulfilled. Or maybe we've changed to have a shorter gestation period.
->> Not too sure about hardyness, I'd expect reptile or insect like aliens to be tougher. Because scales and chitin. I can see adaptability yeah.
->> Kinda weirded out about aliens wanting human dna unless it's for cloning. Though why black market??? Are all the humans clones now? What I mean is why does black market trade of human dna lead to servants and foot soldiers.
 >> 
+>> A year to make a kid being fast says something about the species of the Galaxy. Maybe only being able to reproduce N amount of times or it taking N amount of years or N factors having to be fulfilled. Or maybe we've changed to have a shorter gestation period.
+>> 
+>> Not too sure about hardyness, I'd expect reptile or insect like aliens to be tougher. Because scales and chitin. I can see adaptability yeah.
+>> 
+>> Kinda weirded out about aliens wanting human dna unless it's for cloning. Though why black market??? Are all the humans clones now? What I mean is why does black market trade of human dna lead to servants and foot soldiers.
 
->>> **u/GlueBoy** [+4]  *anti-skub**
+>>> **u/GlueBoy** [+5]  *anti-skub* (7 hours later)
 >>> 
 >>> >we'd allow ourselves to serve others so much
->>> The idea is that these aliens bred and trained humans specifically for whatever purpose they had in mind. That's why "black market genetic material". So they basically get treated like the yellow minions in that cartoon. 
->>> >Not too sure about hardyness
->>> Humans are ridiculously hardy(resilient, robust). Humans eat a huge variety of different foods, can survive (if not thrive)on a monodiet of many of those foods, and can subsist on 0 calories for weeks. Most of the Incas, for example, lived on a diet of around than 1200 calories a day.  Also we are present in every single land biome in the world.
 >>> 
+>>> The idea is that these aliens bred and trained humans specifically for whatever purpose they had in mind. That's why "black market genetic material". So they basically get treated like the yellow minions in that cartoon. 
+>>> 
+>>> >Not too sure about hardyness
+>>> 
+>>> Humans are ridiculously hardy(resilient, robust). Humans eat a huge variety of different foods, can survive (if not thrive)on a monodiet of many of those foods, and can subsist on 0 calories for weeks. Most of the Incas, for example, lived on a diet of around than 1200 calories a day.  Also we are present in every single land biome in the world.
 
->>>> **u/vakusdrake** [+2] *
+>>>> **u/vakusdrake** [+2]  (a day later)
 >>>> 
 >>>> >Humans are ridiculously hardy(resilient, robust). Humans eat a huge variety of different foods, can survive (if not thrive)on a monodiet of many of those foods, and can subsist on 0 calories for weeks. Most of the Incas, for example, lived on a diet of around than 1200 calories a day. Also we are present in every single land biome in the world.
->>>> I should point out that human don't stack up remotely well on the metrics you describe compared to most animals. For instance primates lost the ability to produce vitamin C, and humans evolved smaller digestive tracks and weak jaws due to cooking. Compared even just to our own distant ratlike ancestors humans have a much more restricted diet. Also human caloric requirements are pretty demanding by animal standards: Compared to many non endotherms which regularly go months without food, humans don't stack up well. After all humans are placental mammals, which have the highest body temperatures and metabolic rates aside from flying animals. Hell even among placental mammals humans have a high metabolic rate by virtue of evolving as pursuit hunters who cook our food.
->>>> PS: I don't know why more HFY stuff doesn't try to focus on the traits humans have which actually stand out among other animals. Mainly that humans sweating allow us to beat almost any animal in endurance in a hot environment.
 >>>> 
+>>>> I should point out that human don't stack up remotely well on the metrics you describe compared to most animals. For instance primates lost the ability to produce vitamin C, and humans evolved smaller digestive tracks and weak jaws due to cooking. Compared even just to our own distant ratlike ancestors humans have a much more restricted diet. Also human caloric requirements are pretty demanding by animal standards: Compared to many non endotherms which regularly go months without food, humans don't stack up well. After all humans are placental mammals, which have the highest body temperatures and metabolic rates aside from flying animals. Hell even among placental mammals humans have a high metabolic rate by virtue of evolving as pursuit hunters who cook our food.
+>>>> 
+>>>> PS: I don't know why more HFY stuff doesn't try to focus on the traits humans have which actually stand out among other animals. Mainly that humans sweating allow us to beat almost any animal in endurance in a hot environment.
 
->> **u/vakusdrake** [+5] *
+>> **u/vakusdrake** [+4]  (8 hours later)
 >> 
 >> The xenopsychology here seems pretty iff, since humans propensity for attachment outside their species is a trait neither unique to primates nor even to a specific phylogenetic lineage. From looking at earth life it seems much more plausible that humans (and other animals) have imprecise social instincts, because evolution in general only cares about what's good enough. This is evident in examples like jewel beetles trying to mate with beer bottles that satisfy the lazy checklist of features they were given by evolution to identify females. Ultimately it would be weird for an intelligent social species to evolve social instincts complex enough to avoid the human flaws described, without that providing a tangible advantage in the ancestral environment. For instance a social instinct which deliberately excludes other species from empathy doesn't make any sense unless you coevolved with other intelligent species.
->> This scenario also necessarily inherits the logical problems common in space opera fiction. 
->> In order for humans to fill this sort of role in a galactic community, you need a number of civilizations to arise at around the same time (to have remotely equivalent tech levels) and somehow lack any sufficiently advanced AI or genetic engineering/cybernetics.
 >> 
+>> This scenario also necessarily inherits the logical problems common in space opera fiction. 
+>> 
+>> In order for humans to fill this sort of role in a galactic community, you need a number of civilizations to arise at around the same time (to have remotely equivalent tech levels) and somehow lack any sufficiently advanced AI or genetic engineering/cybernetics.
 
->>> **u/GlueBoy** [+1]  *anti-skub**
+>>> **u/GlueBoy** [+1]  *anti-skub* (9 hours later)
 >>> 
 >>> Valid critiques, but ones which can be easily explained in a hypothetical narrative. Maybe in this story that's a feature unique to "lesser" lifeforms. Maybe the central archetype of intelligence(in story) is that it's selected for to model social behaviour of fellows and always results in increasingly complex social behaviour and culture, which makes it nigh impossible for social instincts to be grafted onto other species. 
->>> Humans are the exception. Thus enter: minionhood.
->>> As to your other point, yes it requires either suspension of disbelief or a soft sci-fi story. The initial idea was for it to be fantasy races anyway, so maybe that's better.
 >>> 
+>>> Humans are the exception. Thus enter: minionhood.
+>>> 
+>>> As to your other point, yes it requires either suspension of disbelief or a soft sci-fi story. The initial idea was for it to be fantasy races anyway, so maybe that's better.
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (a day later)
 >>>> 
 >>>> >Valid critiques, but ones which can be easily explained in a hypothetical narrative. Maybe in this story that's a feature unique to "lesser" lifeforms. 
+>>>> 
 >>>> Explanations that aren't incredibly contrived which can apply to a whole galactic community are a lot harder to come up with here. Particularly considering that having say advanced genetic engineering sufficient to add major new social instincts would almost inevitably render "baseline" life redundant.
+>>>> 
 >>>> The only real plausible explanation I can see (without invoking tech which couldn't allow this scenario) for _most_ intelligent species lacking these "human" traits described is it to be the norm for intelligent species to evolve alongside other intelligent species (thus providing an advantage for such selectivity).       
 >>>> Even this explanation is still pretty iffy though, since even in the aforementioned scenario it's not clear there would actually be an advantage to more selective social instincts than what humans have. After all humans crude in-group tribalism should work fine with other intelligent life around, since tribes generally consist of related individuals anyway (from genetic evidence we know most humans reproduced with their cousins within the tribe).
->>>> >As to your other point, yes it requires either suspension of disbelief or a soft sci-fi story. The initial idea was for it to be fantasy races anyway, so maybe that's better.
->>>> Fantasy races works a lot better, especially since intelligent design allows for more creative flexibility. People rarely fully appreciate the staggering scale in terms of time, space, and population that one needs to grapple with in describing any plausible interstellar community.
 >>>> 
+>>>> >As to your other point, yes it requires either suspension of disbelief or a soft sci-fi story. The initial idea was for it to be fantasy races anyway, so maybe that's better.
+>>>> 
+>>>> Fantasy races works a lot better, especially since intelligent design allows for more creative flexibility. People rarely fully appreciate the staggering scale in terms of time, space, and population that one needs to grapple with in describing any plausible interstellar community.
 
-> **u/ironistkraken** [+1] *
+> **u/ironistkraken** [+1]  (2 hours later)
 > 
 > What site should one shots be posted to? I am finishing up a short story and I don't know were to put it.
-> 
 
->> **u/Trew_McGuffin** [+3]  *Dao = Improve Yourself**
+>> **u/Trew_McGuffin** [+3]  *Dao = Improve Yourself* (3 hours later)
 >> 
 >> Anywhere. Royalroad, Sufficient Velocity forum, Spacebattles forum, Archive of Our Own, Tumblr, Fanfiction. net, a (your) WordPress, and Wattpad.
->> Pick one, two or even all of them. Maybe even none of them. There's probably other sites too. I've seen people post stories on Reddit too. Like here on rational there's a zombie apocalypse short where one chick has to deal with incompetence.  ¯\_(ツ)_/¯
 >> 
+>> Pick one, two or even all of them. Maybe even none of them. There's probably other sites too. I've seen people post stories on Reddit too. Like here on rational there's a zombie apocalypse short where one chick has to deal with incompetence.  ¯\_(ツ)_/¯
 
 ---
 

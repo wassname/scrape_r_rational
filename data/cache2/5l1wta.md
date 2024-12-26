@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://heroessavetheworld.wordpress.com/2016/12/30/awful-shadow-ch-6-simon-martin/
-* Score: 11
+* Score: 10
 
 * Created: 2016-12-30T06:04:33
 

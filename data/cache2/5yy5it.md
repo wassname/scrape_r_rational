@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/5yy5it/d_sunday_writing_skills_thread/
-* Score: 7
+* Score: 5
 
 * Created: 2017-03-12T10:47:38
 
@@ -28,85 +28,93 @@ Setting design should probably go in the Wednesday Worldbuilding thread.
 
 ### Comments:
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (9 minutes later)
 > 
 > Just to keep the posters here aware, I made a [post](https://www.reddit.com/r/rational/comments/5yy64k/meta_what_to_do_about_the_weekly_threads/) asking people what should be done about the Sunday thread.
-> 
 
-> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+> **u/MagicWeasel** [+3]  *Cheela Astronaut* (17 hours later)
 > 
 > I want to "yadda yadda" over a few conversations in my story because I don't want to have to bore *myself* by writing smalltalk and bore *the reader* by making them read it. 
-> My husband was doing a beta read and he reckons that I should "maybe just write what they actually said"
-> Here's an example of the passage he flagged:
-> > "What is Columbus like?" William broke the silence, placing his drink back on the table. Red shrugged, taking another sip of his.
-> > "It's nice. Not as large or grand as Rome, of course."
-> > "What has brought you here?"
-> > Red hesitated; he didn't have a good explanation at hand for his presence. William seemed to notice, and gave him a kind smile.
-> > "No need to answer. We all have secrets."
-> > Red nodded. "Thank you, sir."
-> > And so, the conversation continued for a short while longer; when it came to talk business, William asked for a price and accepted Red's figure immediately. That was a surprise, as Red’s coworkers had told him to expect to haggle a little. When Red finished his drink, he got straight to work; William excused himself, to visit with friends. 
-> Like, I want to give the impression that these people are getting to know each other - but does anyone actually want to read the boring minutiae that comes when you first get to know a partner? I wouldn't want to read it!
 > 
+> My husband was doing a beta read and he reckons that I should "maybe just write what they actually said"
+> 
+> Here's an example of the passage he flagged:
+> 
+> > "What is Columbus like?" William broke the silence, placing his drink back on the table. Red shrugged, taking another sip of his.
+> 
+> > "It's nice. Not as large or grand as Rome, of course."
+> 
+> > "What has brought you here?"
+> 
+> > Red hesitated; he didn't have a good explanation at hand for his presence. William seemed to notice, and gave him a kind smile.
+> 
+> > "No need to answer. We all have secrets."
+> 
+> > Red nodded. "Thank you, sir."
+> 
+> > And so, the conversation continued for a short while longer; when it came to talk business, William asked for a price and accepted Red's figure immediately. That was a surprise, as Red’s coworkers had told him to expect to haggle a little. When Red finished his drink, he got straight to work; William excused himself, to visit with friends. 
+> 
+> Like, I want to give the impression that these people are getting to know each other - but does anyone actually want to read the boring minutiae that comes when you first get to know a partner? I wouldn't want to read it!
 
->> **u/ElizabethRobinThales** [+3]  *Practically Perfect in Every Way**
+>> **u/ElizabethRobinThales** [+4]  *Practically Perfect in Every Way* (a day later)
 >> 
 >> I'd personally cut out "And so, the conversation continued for a short while longer." Everything that follows it is a description of the conversation continuing, it's self-evident. That's not even the main thing, the main thing is that you're calling attention to what you're doing; if you just do it, peoples' eyes will just gloss right over it and they won't notice what you've done.
->> 
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>> 
 >>> Oh that is a very clever way around it! [I love it!](https://media3.giphy.com/media/6tdZrBcwGIMPC/200.gif) Thank you for your posts, they are always so informative on this thread!
->>> 
 
->>>> **u/ElizabethRobinThales** [+2]  *Practically Perfect in Every Way**
+>>>> **u/ElizabethRobinThales** [+2]  *Practically Perfect in Every Way* (a day later)
 >>>> 
 >>>> Happy to help :)
->>>> 
 
->> **u/Rhamni** [+3]  *Aspiring author**
+>> **u/Rhamni** [+3]  *Aspiring author* (a day later)
 >> 
 >> There is nothing wrong with skipping over bits here and there, but you shouldn't do it every time. I might be too far in the other direction, since my characters talk quite a lot, but there definitely needs to be *some* complete conversations, especially when characters first get to know each other (If they are both important characters, at least).
->> 
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>> 
 >>> Thanks for that! 
->>> I used to have quite a lot more conversations skipped, but I fleshed a lot of them out. I am glad I'm not going insane thinking that such things are acceptable.
 >>> 
+>>> I used to have quite a lot more conversations skipped, but I fleshed a lot of them out. I am glad I'm not going insane thinking that such things are acceptable.
 
-> **u/zhanyin** [+2] *
+> **u/zhanyin** [+2]  (a day later)
 > 
 > I'm outlining my first serious piece of fiction, and I'm not at all sure how to go about sharing it with people. Can I just post a chapter here? I don't really see a lot of posts from lesser-known stories. Is it okay to solicit feedback?
-> 
 
->> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (a day later)
 >> 
 >> I'm also writing something in a similar "first serious piece of fiction" category, and I'm planning on posting it when it's finished one chapter at a time until I either become the next HPMOR or crickets and downvotes scare me away forever.
->> I've had great feedback from people here both in this thread and in the Friday Offtopic Thread. I even posted a previous draft of my first chapter on this Sunday thread about a month ago and after the critique I rewrote it to be much improved. 
->> Personally I'd recommend just post a chapter in this thread if you don't think it's "finished" yet, or if you think it's "finished" then post a high level OP.
->> Another thing - in the course of posting around here, a few people have kindly offered to be "beta readers" for my story. As unpaid people reading fiction by a first time author of questionable quality, getting actual feedback can be hard or take a long time (and in my case it's gay supernatural romance, so.... not the greatest fit for the rational demographic). 
->> But in the spirit of comradery and all that, if you want to post a chapter here or PM it to me, I'd be happy to give you some feedback.
 >> 
+>> I've had great feedback from people here both in this thread and in the Friday Offtopic Thread. I even posted a previous draft of my first chapter on this Sunday thread about a month ago and after the critique I rewrote it to be much improved. 
+>> 
+>> Personally I'd recommend just post a chapter in this thread if you don't think it's "finished" yet, or if you think it's "finished" then post a high level OP.
+>> 
+>> Another thing - in the course of posting around here, a few people have kindly offered to be "beta readers" for my story. As unpaid people reading fiction by a first time author of questionable quality, getting actual feedback can be hard or take a long time (and in my case it's gay supernatural romance, so.... not the greatest fit for the rational demographic). 
+>> 
+>> But in the spirit of comradery and all that, if you want to post a chapter here or PM it to me, I'd be happy to give you some feedback.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (12 hours later)
 > 
 > [deleted]
-> 
 
->> **u/thrawnca** [+5]  *Carbon-based biped**
+>> **u/thrawnca** [+4]  *Carbon-based biped* (13 hours later)
 >> 
 >> Rational*ist*? Not that I know of. However, on the merely rational front, Mother of Learning has a healthy [Patreon](https://patreon.com/nobody103).
->> 
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (16 hours later)
 >> 
 >> Max Harms is writing the Crystal Society Trilogy.
->> Eliezer has sold some stories on Amazon.
->> Wildbow and Scott are writing rationality-adjacent works of fiction such as Twig and Unsong and getting paid through Patreon.
->> There was Sufficiently Advanced Magic a few days ago.
->> Most people who are writing rational(ist) fiction are unpaid; this is true. But I feel this is just a symptom of how most writers are unpaid and only post their books on sites such as fictionpress or Inkett. In general, unpaid writers outnumber paid writers. The issue is further exacerbated by how most works posted here are *fanfiction* which are illegal to make money off of.
->> However there are the rare few who are making money off writing rational fiction.
 >> 
+>> Eliezer has sold some stories on Amazon.
+>> 
+>> Wildbow and Scott are writing rationality-adjacent works of fiction such as Twig and Unsong and getting paid through Patreon.
+>> 
+>> There was Sufficiently Advanced Magic a few days ago.
+>> 
+>> Most people who are writing rational(ist) fiction are unpaid; this is true. But I feel this is just a symptom of how most writers are unpaid and only post their books on sites such as fictionpress or Inkett. In general, unpaid writers outnumber paid writers. The issue is further exacerbated by how most works posted here are *fanfiction* which are illegal to make money off of.
+>> 
+>> However there are the rare few who are making money off writing rational fiction.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.reddit.com/r/rational/comments/2jc3zy/rt_pay_attention_kickstarter_announces_second/
-* Score: 12
+* Score: 11
 
 * Created: 2014-10-15T17:38:11
 
@@ -20,45 +20,43 @@ As a final note:  according to the Kickstarter stats, the vast majority of my pl
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 hours later)
 > 
 > I feel like this Kickstarter could maybe benefit from being posted to /r/hpmor, OP, considering that it draws a much larger population with similar likes. In the meanwhile, I'll try to haggle some people into donating. Seriously looking forward to these stories.
-> ETA: How has nobody funded any of the "extra 2000 words" options yet? Grr
 > 
+> ETA: How has nobody funded any of the "extra 2000 words" options yet? Grr
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (3 hours later)
 >> 
 >> > I feel like this Kickstarter could maybe benefit from being posted to /r/hpmor, 
->> Huh, good thought.  I'll do that, thank you.
->> > ETA: How has nobody funded any of the "extra 2000 words" options yet? Grr
->> Be the change you want to see, man!  ;>
 >> 
+>> Huh, good thought.  I'll do that, thank you.
+>> 
+>> > ETA: How has nobody funded any of the "extra 2000 words" options yet? Grr
+>> 
+>> Be the change you want to see, man!  ;>
 
->>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>>> **u/traverseda** [+3]  *With dread but cautious optimism* (5 hours later)
 >>> 
 >>> It's a big investment for one person. I should start a kickstarter.
->>> 
 
->>> **u/Prezombie** [+1] *
+>>> **u/Prezombie** [+1]  (a day later)
 >>> 
 >>> /r/horror, /r/horrorlit, /r/books, /r/kickstarter are also good subs to share your success with.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> Good thought.  Thank you!
->>>> 
 
->>>>> **u/Nepene** [+1] *
+>>>>> **u/Nepene** [+1]  (a day later)
 >>>>> 
 >>>>> From a test, /r/horror isn't fond of monetized books.
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>> 
 >>>>>> How odd.  Where do they think most books come from?
->>>>>> Thanks for the warning; I won't post there.
 >>>>>> 
+>>>>>> Thanks for the warning; I won't post there.
 
 ---
 

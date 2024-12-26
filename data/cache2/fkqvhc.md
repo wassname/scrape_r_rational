@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/aljosa21** [+1] *
+> **u/aljosa21** [+1]  (5 minutes later)
 > 
 > Using everyday examples, this video explains why to adopt Occam's razor both in day-to-day reasoning and in science. After presenting the historical justification, found in thinkers prior to the 20th century, it present an empirical and mathematical justification of this philosophical heuristic. I think the idea of Occam's razor is extremely important right now, as uncritcally accepted false information about the ongoing pandemic makes people do stupid things out there.
-> 
 
 ---
 

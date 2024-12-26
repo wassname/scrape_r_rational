@@ -2,7 +2,7 @@
 
 * Author: u/PeridexisErrant  *put aside fear for courage, and death for life**
 * URL: https://www.fanfiction.net/s/8303265/1/Wait-What
-* Score: 16
+* Score: 15
 
 * Created: 2015-02-28T09:03:08
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/pizzahotdoglover** [+1] *
+> **u/pizzahotdoglover** [+1]  (16 days later)
 > 
 > Wow, these are brilliant.  Thanks for posting this!
-> 
 
 ---
 

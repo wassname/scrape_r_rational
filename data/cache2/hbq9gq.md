@@ -12,51 +12,43 @@
 
 ### Comments:
 
-> **u/royishere** [+5] *
+> **u/royishere** [+6]  (3 minutes later)
 > 
 > ...I'll just be over here with my tissues.
-> 
 
-> **u/GrecklePrime** [+3] *
+> **u/GrecklePrime** [+3]  (11 hours later)
 > 
 > Happy Birthday!
-> 
 
-> **u/SirBlueom** [+2] *
+> **u/SirBlueom** [+2]  (6 hours later)
 > 
 > I never read any animorphs but the one about the prince alien, and it has stuck with me for years, it was a powerful book considering I found it in a kids section.
-> 
 
-> **u/ALowVerus** [+3]  *Chaos Legion**
+> **u/ALowVerus** [+3]  *Chaos Legion* (58 minutes later)
 > 
 > F
-> 
 
->> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (an hour later)
 >> 
 >> F
->> 
 
->>> **u/AlmightyStrongPerson** [+2] *
+>>> **u/AlmightyStrongPerson** [+2]  (an hour later)
 >>> 
 >>> F
->>> 
 
->>>> **u/engineer_trowaway123** [+3] *
+>>>> **u/engineer_trowaway123** [+3]  (3 hours later)
 >>>> 
 >>>> F
->>>> 
 
->>>>> **u/CopperZirconium** [+3] *
+>>>>> **u/CopperZirconium** [+3]  (20 hours later)
 >>>>> 
 >>>>> F
->>>>> 
 
-> **u/CouteauBleu** [+3]  *We are the Empire.**
+> **u/CouteauBleu** [+1]  *We are the Empire.* (12 hours later)
 > 
 > Can... someone explain to me what happened?
-> EDIT: Oh, it's his birthday! Mood.
 > 
+> EDIT: Oh, it's his birthday! Mood.
 
 ---
 

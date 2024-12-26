@@ -2,7 +2,7 @@
 
 * Author: u/EliezerYudkowsky  *Godric Gryffindor**
 * URL: https://www.reddit.com/r/rational/comments/7m3bkg/request_stories_made_entirely_of_foreshadowing/
-* Score: 76
+* Score: 78
 
 * Created: 2017-12-25T20:15:27
 
@@ -20,518 +20,540 @@ This is one of my favorite literary things ever, but you probably guessed that a
 
 ### Comments:
 
-> **u/LazarusRises** [+39] *
+> **u/LazarusRises** [+36]  (2 hours later)
 > 
 > Cordyceps for sure. http://archiveofourown.org/works/6178036/chapters/14154868
-> EDIT: Also, not a written word story, but Vertigo is my favorite movie of all time and I think the single best example of this.
 > 
+> EDIT: Also, not a written word story, but Vertigo is my favorite movie of all time and I think the single best example of this.
 
->> **u/KingMako** [+10]  *Unlicensed Archrationalist**
+>> **u/KingMako** [+10]  *Unlicensed Archrationalist* (8 hours later)
 >> 
 >> > Chapter 1: Chapter 3
->> I'm almost ashamed to admit how quickly I got hooked onto this story. I didn't make it past the title before realizing that I'm going to read the whole thing.
 >> 
+>> I'm almost ashamed to admit how quickly I got hooked onto this story. I didn't make it past the title before realizing that I'm going to read the whole thing.
 
->>> **u/LazarusRises** [+14] *
+>>> **u/LazarusRises** [+16]  (8 hours later)
 >>> 
 >>> It is really, *really* good. Also I believe unique in the genre of epistemological thriller. (Maybe Memento is another.)
->>> 
 
->>>> **u/KingMako** [+3]  *Unlicensed Archrationalist**
+>>>> **u/KingMako** [+3]  *Unlicensed Archrationalist* (16 hours later)
 >>>> 
 >>>> Just finished binging. Beautifully upsetting (the best kind of upsetting). Here's hoping I don't have nightmares.
->>>> 
 
->>> **u/Spreek** [+5] *
+>>> **u/Spreek** [+6]  (10 hours later)
 >>> 
 >>> Can confirm, started and read the whole thing. Now I have to wake up in 3 hours.
->>> 
 
->>> **u/GCU_JustTesting** [+3] *
+>>> **u/GCU_JustTesting** [+3]  (22 hours later)
 >>> 
 >>> I just downloaded the ePub and pdf versions, and the chapter 1: chapter 3 thing just reads as chapter 3. The hotlink is lost. I feel like if I read that version context will be lost.
->>> 
 
->>>> **u/KingMako** [+4]  *Unlicensed Archrationalist**
+>>>> **u/KingMako** [+4]  *Unlicensed Archrationalist* (23 hours later)
 >>>> 
 >>>> I don't believe so. The "Chapter 1" thing is just a function of the website. If you open any story on this website, it will say
->>>> > "Chapter 1: " + (Title of the chapter as given by the author)
->>>> And all subsequent chapters will be "Chapter x: " + (Title of the chapter as given by the author).
->>>> I simply found amusement in that the first chapter of the book was named Chapter 3. This amusement could have also been experienced had I opened a brand new book and found "Chapter 3" as the title of the first chapter, even without explicit text stating which chapter it is supposed to be. Because of course it's supposed to be the first one.
->>>> This story does not rely on knowing the exact number of which chapter you are reading. It also does not take advantage of any of the website's functions, such as author's notes. I believe any alternate versions will be completely fine.
 >>>> 
+>>>> > "Chapter 1: " + (Title of the chapter as given by the author)
+>>>> 
+>>>> And all subsequent chapters will be "Chapter x: " + (Title of the chapter as given by the author).
+>>>> 
+>>>> I simply found amusement in that the first chapter of the book was named Chapter 3. This amusement could have also been experienced had I opened a brand new book and found "Chapter 3" as the title of the first chapter, even without explicit text stating which chapter it is supposed to be. Because of course it's supposed to be the first one.
+>>>> 
+>>>> This story does not rely on knowing the exact number of which chapter you are reading. It also does not take advantage of any of the website's functions, such as author's notes. I believe any alternate versions will be completely fine.
 
->>>>> **u/GCU_JustTesting** [+3] *
+>>>>> **u/GCU_JustTesting** [+3]  (a day later)
 >>>>> 
 >>>>> Good to know. I thought it would be a memento style thing, or a player of games type thing where the chapters are messed up intentionally.
->>>>> 
 
->>> **u/KilotonDefenestrator** [+2] *
+>>> **u/KilotonDefenestrator** [+2]  (3 days later)
 >>> 
 >>> Binged it. Awesome read. [minor spoiler](#s " It must be *incredibly* frustrating to be in that situation, on either end.")
->>> 
 
->> **u/Croktopus** [+6] *
+>> **u/Croktopus** [+7]  (14 hours later)
 >> 
 >> Gotta disagree with CORDYCEPS. It's good (though I think it gets overhyped), but...the foreshadowing I think is just too heavy handed. Like you don't figure everything out in the first chapter, but it's pretty clear what's going on [in the first few chapters](#s " that is to say, the amnesia stuff") and the only good foreshadowing that I think qualifies as the type asked after in this thread comes at the end of Chapter 4.
->> But like, I feel like [*everything*](#s " is revealed after chapter 10, and the story goes on for another 16 without having much in the way of new developments. it remains good because of the tension from alphabet and 5, but...there were no big "aha!" moments")
 >> 
+>> But like, I feel like [*everything*](#s " is revealed after chapter 10, and the story goes on for another 16 without having much in the way of new developments. it remains good because of the tension from alphabet and 5, but...there were no big "aha!" moments")
 
-> **u/rotflol** [+29] *
+> **u/rotflol** [+29]  (an hour later)
 > 
 > [Higurashi no Naku koro ni](http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/HigurashiWhenTheyCry) , and especially [Umineko](http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/UminekoWhenTheyCry) is absolutely full of this. Reading Umineko a second time is like a completely different story.
-> I really like HPMOR, but regarding this quality, I think these stories outdo HPMOR.
-> The Higurashi anime adaptation is fine, but the anime adaptation of Umineko is terrible (critical pieces of information are left out, it feels extremely rushed compared to the original novel, and it stops before the 5th story arc which is one of the best parts).
-> So watch Higurashi and then read the Umineko visual novel (there's an English translation available online). I think you'd enjoy them Eliezer.
 > 
+> I really like HPMOR, but regarding this quality, I think these stories outdo HPMOR.
+> 
+> The Higurashi anime adaptation is fine, but the anime adaptation of Umineko is terrible (critical pieces of information are left out, it feels extremely rushed compared to the original novel, and it stops before the 5th story arc which is one of the best parts).
+> 
+> So watch Higurashi and then read the Umineko visual novel (there's an English translation available online). I think you'd enjoy them Eliezer.
 
->> **u/Golden_Magician** [+9] *
+>> **u/Golden_Magician** [+10]  (5 hours later)
 >> 
 >> Seconded. Back when I was a huge HPMoR fanatic (truly to the point of obsession) Umineko was the only fictional work that I considered to be on par if not above it. Eliezer trying to solve the mysteries of that story would be something amazing for me!
->> I also want to put forward my own recommendation: [Shin Sekai Yori](http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FromTheNewWorld?from=Literature.ShinSekaiYori), either the anime or the original novel. This story displays many examples of elegant and subtle foreshadowing and re-watching it is an entirely different experience.
 >> 
+>> I also want to put forward my own recommendation: [Shin Sekai Yori](http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FromTheNewWorld?from=Literature.ShinSekaiYori), either the anime or the original novel. This story displays many examples of elegant and subtle foreshadowing and re-watching it is an entirely different experience.
 
->>> **u/MultipartiteMind** [+5] *
+>>> **u/MultipartiteMind** [+6]  (a day later)
 >>> 
 >>> Umineko, thirded.  I suspect that a large part of that is inherited from the mystery novel genre itself (or in Japanese, 'suiri shousetsu'/'deduction novel'), it was actually my introduction to the line between stories like Sherlock Holmes novels, which show a detective pulling answers out of a hat, and stories like Agatha Christie novels, where the reader is challenged to pay attention to details, *especially* the 'I am confused' moments, and trying to arrive at the truth before the grand reveal is made--I particularly enjoyed Umineko's meta-commentary about the trust between the author and reader (the trust that the reader will try to solve the mystery, the trust that the mystery can be solved), the mentioning of Knox's Commandments and Dine's Rules, et cetera.  After Umineko, I began reading library-held mystery novels, gradually getting used to certain tricks, delighted when I missed something and later kicked myself over not realising its significance.
->>> In any case, yes!  Umineko was particularly delicious, in many ways, and the Higurashi/Umineko Question/Answer arcs' division is delightful.
->>> (That would indeed be fun, if Yudkowsky were somehow in a spoiler-free box, keeping a diary of notes/impressions and thoughts about Umineko as he read through (challenged) all of it...)
 >>> 
+>>> In any case, yes!  Umineko was particularly delicious, in many ways, and the Higurashi/Umineko Question/Answer arcs' division is delightful.
+>>> 
+>>> (That would indeed be fun, if Yudkowsky were somehow in a spoiler-free box, keeping a diary of notes/impressions and thoughts about Umineko as he read through (challenged) all of it...)
 
->>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>>> 
 >>>> A question about Umineko. How to read it? It is a VN, so should I play it? A manga anime exist. So what is better?
->>>> 
 
->>>>> **u/MultipartiteMind** [+2] *
+>>>>> **u/MultipartiteMind** [+2]  (2 days later)
 >>>>> 
 >>>>> See rotflol's comment about which is better.  For the biggest 'answer' scene, I seem to remember that the manga gives a little more explicit information (about what was done how), as extra explanation for still-confused people (since published chronologically after the VN, I think), but overall I strongly recommend the VN.
->>>>> I liked the animation, but for pleasure (at seeing and hearing it) rather than for challenging, so would recommend only watching it after finishing the first 4 episodes of the VN.  I might be tempted to suggest watching it after all 8, as a reminder of all that happened, but going through the VN original episodes after finishing has much more in terms of thoughts and conversations to be reminded about...
->>>>> To read, both the game (episodes 1-4 and 5-8 grouped) and the English patch (likewise) are needed (unless you can read a lot of Japanese very quickly and smoothly, otherwise the longer sections drag on), from separate sources.  The patch should be here:  http://witch-hunt.com/stage.html .
->>>>> Other than a small number of low-importance selections in Episode 8, there are no choices--you read it through as though it were a book, screen by screen, though you can also (once available) review character information et cetera in a separate screen.
->>>>> Important:  The background music tracks are wonderful/evocative, and Umineko has at times been referred to as a 'sound novel' rather than a 'visual novel'.  The combinations of different tracks with different scenes, and the changes from one to another as the emotions in play shift, add an extra dimension which would be muted (in all senses) if one were to read through without sound.  In conclusion, if you read through the VN then definitely use sound!
->>>>> Summary from what I can remember of the starting process:  Get the games, get the patches, install the games (where desired), install the patches (according to instructions, should end up in the same folders?), run the desired patch executable.  Running the gmae executable would run the Japanese-version game, with its own savefiles (stored/accessed separately from the patch's savefiles).  From the title screen, choose to play and select the episodes (and in-between sections, I think) in order as you view them.
->>>>> Each section/episode should be 'unlocked' once the previous is completed, and when a future section is unlocked a prior section allows skipping to set points within it upon a fresh start, like chapter beginnings.  (Not as convenient to use as it might be.)  Unlocking also changes the background image for the title screen.  If reinstalling or installing on a fresh computer, it should be possible to manually unlock sections to match what had been unlocked by readthrough.
 >>>>> 
+>>>>> I liked the animation, but for pleasure (at seeing and hearing it) rather than for challenging, so would recommend only watching it after finishing the first 4 episodes of the VN.  I might be tempted to suggest watching it after all 8, as a reminder of all that happened, but going through the VN original episodes after finishing has much more in terms of thoughts and conversations to be reminded about...
+>>>>> 
+>>>>> To read, both the game (episodes 1-4 and 5-8 grouped) and the English patch (likewise) are needed (unless you can read a lot of Japanese very quickly and smoothly, otherwise the longer sections drag on), from separate sources.  The patch should be here:  http://witch-hunt.com/stage.html .
+>>>>> 
+>>>>> Other than a small number of low-importance selections in Episode 8, there are no choices--you read it through as though it were a book, screen by screen, though you can also (once available) review character information et cetera in a separate screen.
+>>>>> 
+>>>>> Important:  The background music tracks are wonderful/evocative, and Umineko has at times been referred to as a 'sound novel' rather than a 'visual novel'.  The combinations of different tracks with different scenes, and the changes from one to another as the emotions in play shift, add an extra dimension which would be muted (in all senses) if one were to read through without sound.  In conclusion, if you read through the VN then definitely use sound!
+>>>>> 
+>>>>> Summary from what I can remember of the starting process:  Get the games, get the patches, install the games (where desired), install the patches (according to instructions, should end up in the same folders?), run the desired patch executable.  Running the gmae executable would run the Japanese-version game, with its own savefiles (stored/accessed separately from the patch's savefiles).  From the title screen, choose to play and select the episodes (and in-between sections, I think) in order as you view them.
+>>>>> 
+>>>>> Each section/episode should be 'unlocked' once the previous is completed, and when a future section is unlocked a prior section allows skipping to set points within it upon a fresh start, like chapter beginnings.  (Not as convenient to use as it might be.)  Unlocking also changes the background image for the title screen.  If reinstalling or installing on a fresh computer, it should be possible to manually unlock sections to match what had been unlocked by readthrough.
 
->>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>>>>> 
 >>>>>> Started Umenko (They cry 3). I'm already 4 hours in and NOBODY died. I am disappointed.
->>>>>> 
 
->>>>>>> **u/MultipartiteMind** [+2] *
+>>>>>>> **u/MultipartiteMind** [+2]  (3 days later)
 >>>>>>> 
 >>>>>>> Thus the importance of reading in one's native language so as to be able to quickly process the less-dramatic bits...  \*guilty sympathy\*
->>>>>>> Thinking more on this, I should warn that the first as-a-character appearance of a witch is at the very end of the first episode (at the border between the first episode and the short section right after it?), with the second episode being the first one with the establishing of the dramatic truth-interrogating questioning.
->>>>>>> The first episode has the introduction of all characters, and if I understand correctly (at least in the Japanese original?) deduction of certain mysteries is possible even with only that first episode, though the further episodes of course help (and are enjoyably dramatic).
->>>>>>> If you feel as though you're in danger of shelving it if you don't have someone encouragingly pushing your back, you can tell me where you are in the game and I can try to encourage you about how much is left before someone dies.  (That said, my own memories of game 1 have already gotten very fuzzy.)
 >>>>>>> 
+>>>>>>> Thinking more on this, I should warn that the first as-a-character appearance of a witch is at the very end of the first episode (at the border between the first episode and the short section right after it?), with the second episode being the first one with the establishing of the dramatic truth-interrogating questioning.
+>>>>>>> 
+>>>>>>> The first episode has the introduction of all characters, and if I understand correctly (at least in the Japanese original?) deduction of certain mysteries is possible even with only that first episode, though the further episodes of course help (and are enjoyably dramatic).
+>>>>>>> 
+>>>>>>> If you feel as though you're in danger of shelving it if you don't have someone encouragingly pushing your back, you can tell me where you are in the game and I can try to encourage you about how much is left before someone dies.  (That said, my own memories of game 1 have already gotten very fuzzy.)
 
->>>>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>>>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (3 days later)
 >>>>>>>> 
 >>>>>>>> My frustation is that on howlongtobeat.com the game showed 10 hours, so after 4 hours I thought I will be half way. But after a better search it turns out the game has a 64 hours completion time. And it is a lot of time. Anyway so far no one died, it is night and I suspect George is the main suspect of whateer will end up happening (Current guess is that there are currently 3 plots going on).
->>>>>>>> What is your native language?
 >>>>>>>> 
+>>>>>>>> What is your native language?
 
->>>>>>>>> **u/MultipartiteMind** [+2] *
+>>>>>>>>> **u/MultipartiteMind** [+2]  (4 days later)
 >>>>>>>>> 
 >>>>>>>>> (Second edit:  Copied from this message's final paragraph:  --I've talked too much.  Summarised reply (Fourth edit:  'Regarding the timescale'):  [](#s "Each episode(/game) covers only two in-game days and nights!  You're already halfway through the first story!")  \*cheering-on encouragement\*)
->>>>>>>>> Is the 64 hours for Episode(/Game) 1, or for the entire 'Question Arcs' game(/program) which incudes episodes/games 1-4?  Plus the time for the in-between sections, 10 hours for a single game sort of fits (keeping in mind that later games might have more fun parts..?), and intuitively feels as though it fits more with my own impression, though dependent on reading speed.
->>>>>>>>> My native language is English.
->>>>>>>>> Trying not to give any spoilers, why do you suspect George?  \*curiosity, while thinking back on own impressions at the time\*  ([](#s "'too nice'?  Position of trust/power amongst the cousins?  Something else that's absent from my impressions/memory..")?)
->>>>>>>>> (Edit:  Oh, and whose/what plots are you guessing are going on?  \*curiosity\*)
->>>>>>>>> If I remember correctly (Third edit:  'regarding the timescale', the next two spoiler tags), [](#s "each game (in Rokkenjima) takes place over two in-game chronological days, so if it's night-time you should be either half-way through, or at the very end at the night of the last day--but I'm pretty sure there had been death before the last night started, and I should check that the time-course isn't night-day-night-day-night.")
->>>>>>>>> Yes, got it.  [](#s "Starting on 1986 October 4th, morning, the game spans the 4th and the 5th.  It will be done by the night of the 5th, so you don't have to worry about 4 more in-game days of 10 hours each.  Telling you the time-scale beforehand arguably counts as a spoiler of sorts (and/or affecting your expectations as you read), but as you're feeling time-related trepidation from not knowing how much is left, I feel/hope it should be helpful, and in any case you'd likely pick up on the general timescale of each game as you go on (and I think at some point it's mentioned explicitly by a character).")
->>>>>>>>> Let's see...  my initial impression is to recommend that you at least complete the first two games (and their after-sections) before deciding whether you're finding it interesting enough to continue.  [](#s "The third and fourth game introduce a lot of nice ways of thinking about things, and the fourth game in particular introduces the 'blue truth' that Battler can use, but whether one enjoys puzzling over the 'red truth'(s) in the second game (as well as all the rest of the story)") can be taken as a barometer of whether the fiction is worth continuing to you.
->>>>>>>>> --I've talked too much.  Summarised reply (Fourth edit:  'Regarding the timescale'):  [](#s "Each episode(/game) covers only two in-game days and nights!  You're already halfway through the first story!")  \*cheering-on encouragement\*
 >>>>>>>>> 
+>>>>>>>>> Is the 64 hours for Episode(/Game) 1, or for the entire 'Question Arcs' game(/program) which incudes episodes/games 1-4?  Plus the time for the in-between sections, 10 hours for a single game sort of fits (keeping in mind that later games might have more fun parts..?), and intuitively feels as though it fits more with my own impression, though dependent on reading speed.
+>>>>>>>>> 
+>>>>>>>>> My native language is English.
+>>>>>>>>> 
+>>>>>>>>> Trying not to give any spoilers, why do you suspect George?  \*curiosity, while thinking back on own impressions at the time\*  ([](#s "'too nice'?  Position of trust/power amongst the cousins?  Something else that's absent from my impressions/memory..")?)
+>>>>>>>>> 
+>>>>>>>>> (Edit:  Oh, and whose/what plots are you guessing are going on?  \*curiosity\*)
+>>>>>>>>> 
+>>>>>>>>> If I remember correctly (Third edit:  'regarding the timescale', the next two spoiler tags), [](#s "each game (in Rokkenjima) takes place over two in-game chronological days, so if it's night-time you should be either half-way through, or at the very end at the night of the last day--but I'm pretty sure there had been death before the last night started, and I should check that the time-course isn't night-day-night-day-night.")
+>>>>>>>>> 
+>>>>>>>>> Yes, got it.  [](#s "Starting on 1986 October 4th, morning, the game spans the 4th and the 5th.  It will be done by the night of the 5th, so you don't have to worry about 4 more in-game days of 10 hours each.  Telling you the time-scale beforehand arguably counts as a spoiler of sorts (and/or affecting your expectations as you read), but as you're feeling time-related trepidation from not knowing how much is left, I feel/hope it should be helpful, and in any case you'd likely pick up on the general timescale of each game as you go on (and I think at some point it's mentioned explicitly by a character).")
+>>>>>>>>> 
+>>>>>>>>> Let's see...  my initial impression is to recommend that you at least complete the first two games (and their after-sections) before deciding whether you're finding it interesting enough to continue.  [](#s "The third and fourth game introduce a lot of nice ways of thinking about things, and the fourth game in particular introduces the 'blue truth' that Battler can use, but whether one enjoys puzzling over the 'red truth'(s) in the second game (as well as all the rest of the story)") can be taken as a barometer of whether the fiction is worth continuing to you.
+>>>>>>>>> 
+>>>>>>>>> --I've talked too much.  Summarised reply (Fourth edit:  'Regarding the timescale'):  [](#s "Each episode(/game) covers only two in-game days and nights!  You're already halfway through the first story!")  \*cheering-on encouragement\*
 
->>>>> **u/Golden_Magician** [+1] *
+>>>>> **u/Golden_Magician** [+1]  (2 days later)
 >>>>> 
 >>>>> A fully translated version of Umineko's VN is also available on Steam now. Might be the easiest way of getting it!
->>>>> 
 
->>>>>> **u/MultipartiteMind** [+1] *
+>>>>>> **u/MultipartiteMind** [+1]  (3 days later)
 >>>>>> 
 >>>>>> \*blinks\*  Wow.  I had no idea about this...  \*searchity\*
->>>>>> If [this](https://forum.rokkenjima.org/t/an-announcement-by-the-witch-hunts-usagitenpura-regarding-uminekos-upcoming-steam-release/380) is trustworthy, then I am *envious*.  Witch-Hunt.com makes no mention of it, and the downloadable patch versions are still 4.4 and 4.1.  (Would I have to obtain it again to get the latest translation quality..?  That said, I have complicated feelings about the '[Renewed Character Sprites](http://store.steampowered.com/app/639490/Umineko_When_They_Cry__Answer_Arcs/)'...  hmm, it seems like they're swappable, good...  though no, while I'm honestly curious, my original point was that I would be satisfied with the anime visuals and not paying extra for new sprites if I could keep my on-hand translations patch up-to-date...  though who made the new sprites..?)
->>>>>> --Wait, there's [a voiced PS3 version now](https://steamcommunity.com/app/406550/discussions/0/358417008718806495/)?
->>>>>> \*[foaming](https://www.reddit.com/r/visualnovels/comments/53k7i5/umineko_steam_version_ps3_voice_and_graphics_patch/?st=jbr7ybdq&sh=8a936938) at the [mouth](https://github.com/07th-mod/guide/wiki/Umineko-Part-1---Voice-and-Graphics-Patch#manual-installation-windowsmac)\*  (Shock, not anger.)
 >>>>>> 
+>>>>>> If [this](https://forum.rokkenjima.org/t/an-announcement-by-the-witch-hunts-usagitenpura-regarding-uminekos-upcoming-steam-release/380) is trustworthy, then I am *envious*.  Witch-Hunt.com makes no mention of it, and the downloadable patch versions are still 4.4 and 4.1.  (Would I have to obtain it again to get the latest translation quality..?  That said, I have complicated feelings about the '[Renewed Character Sprites](http://store.steampowered.com/app/639490/Umineko_When_They_Cry__Answer_Arcs/)'...  hmm, it seems like they're swappable, good...  though no, while I'm honestly curious, my original point was that I would be satisfied with the anime visuals and not paying extra for new sprites if I could keep my on-hand translations patch up-to-date...  though who made the new sprites..?)
+>>>>>> 
+>>>>>> --Wait, there's [a voiced PS3 version now](https://steamcommunity.com/app/406550/discussions/0/358417008718806495/)?
+>>>>>> 
+>>>>>> \*[foaming](https://www.reddit.com/r/visualnovels/comments/53k7i5/umineko_steam_version_ps3_voice_and_graphics_patch/?st=jbr7ybdq&sh=8a936938) at the [mouth](https://github.com/07th-mod/guide/wiki/Umineko-Part-1---Voice-and-Graphics-Patch#manual-installation-windowsmac)\*  (Shock, not anger.)
 
-> **u/Cariyaga** [+26]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+23]  *Kyubey did nothing wrong* (7 hours later)
 > 
 > Homestuck.
-> 
 
->> **u/EliezerYudkowsky** [+31]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+28]  *Godric Gryffindor* (7 hours later)
 >> 
 >> "You can't even begin to understand the sentences the first time through" qualifies, I suppose, but it's not quite what I had in mind...
->> 
 
-> **u/Anderkent** [+17] *
+> **u/Anderkent** [+17]  (an hour later)
 > 
 > ["Story of Your Life"](https://en.wikipedia.org/wiki/Story_of_Your_Life) counts, I think. Though it has the advantage of being pretty short, which makes that easier.
+> 
 > Alas, spoiled if you've seen Arrival.
+> 
 > [The Traitor Baru Cormorant](https://www.goodreads.com/book/show/23444482-the-traitor-baru-cormorant) also comes to mind, but I'm not as confident about that.
+> 
 > ETA:
 > - [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season)
 > - [Gone Girl](https://www.goodreads.com/book/show/19288043-gone-girl)
-> 
 
-> **u/duffmancd** [+19] *
+> **u/duffmancd** [+18]  (8 hours later)
 > 
 > Hot Fuzz is a movie example of this. Everything seems like a normal police drama on first watch-through, until you reach the final act. Suddenly everything even tangentially referenced before is called back.
-> 
 
->> **u/Makin-** [+4]  *homestuck ratfic, you can do it**
+>> **u/Makin-** [+4]  *homestuck ratfic, you can do it* (a day later)
 >> 
 >> Shaun of the Dead too. I don't remember enough about World's End, but it's probably the same.
->> 
 
->>> **u/MultipartiteMind** [+2] *
+>>> **u/MultipartiteMind** [+2]  (a day later)
 >>> 
 >>> (Maybe I'm forgetting something--I recall one joke about earlier at the end of Shaun of the Dead, but no grand reveals like that of Hot Fuzz (the horrified hilarity at learning what was really going on).)
->>> 
 
->>>> **u/Makin-** [+5]  *homestuck ratfic, you can do it**
+>>>> **u/Makin-** [+5]  *homestuck ratfic, you can do it* (a day later)
 >>>> 
 >>>> https://www.youtube.com/watch?v=kwlOo2Tg96o an example, but really the pre-zombie part of the movie is filled with foreshadowing about stuff that happens later
->>>> 
 
->>>>> **u/MultipartiteMind** [+2] *
+>>>>> **u/MultipartiteMind** [+2]  (2 days later)
 >>>>> 
 >>>>> Ahh, that.  (The pre-zombie parts.)  Thank you!
->>>>> 
 
-> **u/AHaskins** [+9] *
+> **u/AHaskins** [+8]  (3 days later)
 > 
 > I'm somewhat taken aback by the way you chose to phrase that. 
-> >What work that you've read, if any, stands out in your mind as having the second-highest level of this quantity?
-> Surely you don't genuinely believe that you have created the work that has more foreshadowing than any other in the history of fiction? So much so that there may not even be a second place.
-> I enjoyed HPMOR, but it had its faults. While it was memorable, it's hard to claim that HPMOR is the ultimate example of any particular literary virtue.
-> (Oh, and to answer your actual question: Mistborn. HPMOR is nowhere close.)
 > 
+> >What work that you've read, if any, stands out in your mind as having the second-highest level of this quantity?
+> 
+> Surely you don't genuinely believe that you have created the work that has more foreshadowing than any other in the history of fiction? So much so that there may not even be a second place.
+> 
+> I enjoyed HPMOR, but it had its faults. While it was memorable, it's hard to claim that HPMOR is the ultimate example of any particular literary virtue.
+> 
+> (Oh, and to answer your actual question: Mistborn. HPMOR is nowhere close.)
 
-> **u/wren42** [+6] *
+> **u/wren42** [+8]  (7 hours later)
 > 
 > >after hpmor
-> Ha!
-> Vladimir Nabokov's Pale Fire, if you want to get seriously meta.  If you don't have the stomach for lit I can come up with some sci-fi fantasy as well.
 > 
+> Ha!
+> 
+> Vladimir Nabokov's Pale Fire, if you want to get seriously meta.  If you don't have the stomach for lit I can come up with some sci-fi fantasy as well.
 
-> **u/Frommerman** [+7] *
+> **u/Frommerman** [+7]  (a day later)
 > 
 > The Mistborn trilogy does this. There are so, so many tiny details in all three books that you can only ever see on the second readthrough.
-> 
 
->> **u/Razorhead** [+2] *
+>> **u/Razorhead** [+2]  (2 days later)
 >> 
 >> The best part is when you read Secret History (preferably after Bands of Mourning, book three of the second series) and you realise that there is still stuff you didn't catch the first time around in the first series.
->> 
 
-> **u/Kodix** [+25] *
+> **u/Kodix** [+25]  (31 minutes later)
 > 
 > Mother of Learning comes to mind immediately as having a flavor of this.
-> Damn near everything that Zorian encounters early on happens to have some relevance or importance later on. A sad girl standing on a bridge? Subplot. A kitten looking at him sadly? Subplot. Language expert consulted early on? Subplot. Some rats running by? Subplot! 
-> It has the side effect of making the world of Cyoria really feel alive, and it's absolutely lovely.
 > 
+> Damn near everything that Zorian encounters early on happens to have some relevance or importance later on. A sad girl standing on a bridge? Subplot. A kitten looking at him sadly? Subplot. Language expert consulted early on? Subplot. Some rats running by? Subplot! 
+> 
+> It has the side effect of making the world of Cyoria really feel alive, and it's absolutely lovely.
 
->> **u/alexanderwales** [+40]  *Time flies like an arrow**
+>> **u/alexanderwales** [+42]  *Time flies like an arrow* (an hour later)
 >> 
 >> My problem with how this was done is that the foreshadowing was *just* foreshadowing, in a lot of those cases. Proper foreshadowing, in my opinion, doesn't *look* like foreshadowing, because it's disguised within the fabric of the text.
->> In *Mother of Learning*, a lot of the foreshadowing just bogs down the movement of the early chapters, because it's totally irrelevant to that movement. Telling the reader "hey, this is going to be important later" seems really inelegant to me. This is in contrast to something like HPMOR, where a solution to a conflict early in the story serves as foreshadowing of a solution to a different conflict later in the story, or where lessons taught to a character include clues that get used later in the plot.
 >> 
+>> In *Mother of Learning*, a lot of the foreshadowing just bogs down the movement of the early chapters, because it's totally irrelevant to that movement. Telling the reader "hey, this is going to be important later" seems really inelegant to me. This is in contrast to something like HPMOR, where a solution to a conflict early in the story serves as foreshadowing of a solution to a different conflict later in the story, or where lessons taught to a character include clues that get used later in the plot.
 
->>> **u/Anderkent** [+31] *
+>>> **u/Anderkent** [+31]  (an hour later)
 >>> 
 >>> Yeah, I don't think that counts. I know *more* about the girl with the bicycle 60 chapters later, but my rereading of her first occurrence is not subverted in any way.
->>> 
 
->> **u/literal-hitler** [+9] *
+>> **u/literal-hitler** [+9]  (10 hours later)
 >> 
 >> Reading Mother of Learning gives me Chekhov's PTSD. I see red robes around every corner.
->> I still can't believe someone called [spoiler](#s "sad cat standing under the bridge being the shifter form of the girl with the bike.")
 >> 
+>> I still can't believe someone called [spoiler](#s "sad cat standing under the bridge being the shifter form of the girl with the bike.")
 
->>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+>>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity* (20 hours later)
 >>> 
 >>> Heads up that your spoiler tag didn't work.
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+4]  (9 hours later)
 >> 
 >> I think Mother of Learning does count. There's something amazing to me at least I haven't seen in other stories where something mentioned in chapter 5 comes back in chapter 50, and you clearly remember that chapter 5.
->> 
 
-> **u/None** [+18] *
+> **u/None** [+18]  (59 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/Razorhead** [+10] *
+>> **u/Razorhead** [+10]  (17 hours later)
 >> 
 >> I'm still surprised that some people on /r/westworld managed to predict those twists by episode 2. Granted, it shows you that the foreshadowing is there and that it's effective, I just can't believe that someone actually managed to catch it.
->> 
 
->>> **u/iambeeblack** [+4] *
+>>> **u/iambeeblack** [+4]  (18 hours later)
 >>> 
 >>> I'm still shocked, too. Can't wait for season 2 to see what they'll come up with.
->>> 
 
-> **u/Action_Bronzong** [+21] *
+> **u/Action_Bronzong** [+23]  (an hour later)
 > 
 > >This story is made entirely of foreshadowing
-> >sentences that appear different on a second read
-> >sentences that read in a different light once you finish the book 
-> You've basically just described Worm in three sentences.
-> The world is fundamentally built on deception and secrecy. The protagonist is as much a newcomer to this world as any first-time reader. At first glance, the setting seems to be filled with tropes and ideas that are culturally familiar to the reader, and this familiarity lets the author subvert expectation in creative and interesting ways.
-> Characters introduced early on are more fully explored later, often in ways that radically recontextualize past actions and behaviors.
 > 
+> >sentences that appear different on a second read
+> 
+> >sentences that read in a different light once you finish the book 
+> 
+> You've basically just described Worm in three sentences.
+> 
+> The world is fundamentally built on deception and secrecy. The protagonist is as much a newcomer to this world as any first-time reader. At first glance, the setting seems to be filled with tropes and ideas that are culturally familiar to the reader, and this familiarity lets the author subvert expectation in creative and interesting ways.
+> 
+> Characters introduced early on are more fully explored later, often in ways that radically recontextualize past actions and behaviors.
 
->> **u/Anderkent** [+36] *
+>> **u/Anderkent** [+33]  (an hour later)
 >> 
 >> Eeeh, well worm does have a lot of those sentences but mostly because it just has a lot of sentences? I recently reread worm and except for picking up more on the unreliable narration and being more favourable to characters that are initialy hostile, I don't think the reread was much different.
->> 
 
->>> **u/Action_Bronzong** [+23] *
+>>> **u/Action_Bronzong** [+25]  (3 hours later)
 >>> 
 >>> >I recently reread worm and except for picking up more on the unreliable narration and being more favourable to characters that are initially hostile, I don't think the reread was much different.
->>> Okay. Working from memory to find examples of these, but here are things I think are recontextualized on a reread.
->>> **Any scene with Sophia in it**
->>> In example, the confrontation with Emma and Shadow Stalker at the mall in 5.3. On a blind read through, Stalker comes across as a tough but fair hero motivated by a concern for public welfare.
->>> With context, the dramatic irony in this scene transforms it into something farcical. Stalker knows about Taylor and her history with Emma. She is motivated by helping Emma, and is intentionally trying to put Taylor in the most negative light possible.
->>> The meaning behind all of Shadow Stalker's actions is recontextualized, making the scene feel fresh on a reread.
->>> >Emma looked up at me, eyes wide, mouth open, one hand to the side of her face.  I was as shocked at what I’d done as she was.  Not that I felt *bad*.  A large part of me wanted to laugh in her face.  *Weren’t expecting that?  Miscalculated how I’d react?*
->>> > Hands seized me with an iron grip and spun me around.  Shadow Stalker.  She interposed herself between me and Emma.  Dark brown eyes glowered at me from behind her mask.
->>> >[...]
->>> >Shadow Stalker scolded him, “This is *not* the time or place for arguments.  If your daughter is this… unwell, then that’s *your* responsibility.”
->>> Shadow Stalker knows why Taylor hit Emma.
->>> It has nothing to do with Taylor's concussion, but Stalker is playing along.
->>> >I felt like laughing.  Part of it was just being giddy at doing something to get back at Emma.  The other part was that this whole scenario was so ridiculously upside-down.  Shadow Stalker wasn’t really anything special.  She was just a *teenage girl*, lecturing my dad, an adult.  The crowd that was watching was seeing Emma as the victim, me as the bad guy. **But if you stripped away the costume, if everyone knew the real story, this would all be playing out so differently.**
->>> (Bolded emphasis mine) Taylor is more right than she knows.
->>> This is a blatantly intentional author nod, when you have context.
->>> >I pointed at Emma, turned to my dad, “You want to know why I hit her?”
->>> >Shadow Stalker put one hand on the side of my face, forced me to look at her, stopping me from talking in the process. “No.  I’m stopping this right here.  No arguments, no excuses as to why you just assaulted someone.  We’re breaking this up now.  Turn around.”
->>> >“What?” I half-laughed, incredulous, “Why?”
->>> This can be read as the actions of an overworked Hero trying to immediately deescalate the situation, or as an attempt by Sophia to publicly humiliate Taylor.
->>> >Shadow Stalker bound my wrists with what I guessed was a plastic wrist-tie.  Too tight.  Then she turned to my dad, and her voice was hushed.  “Look at this crowd.  These people.  They’re *scared*.  A place like this, with this much suppressed panic, fear and worry, this many people close together?  **I don’t care if your daughter is an idiot or just ill.**  She’s proven to be volatile in a powder-keg situation.  **It’s both dangerous and *stupid* to have her here.**  You can cut off the plasti-cuffs when she’s separated from anyone she might harm.”
->>> The verbal insults and put-downs are so *clearly* in line with Sophia's character, but I don't think most people would ever connect these dots without the later reveal.
->>> >My dad nodded, embarrassed.  I felt bad at that.  I felt worse at being led off like a criminal, while Shadow Stalker gave Emma a hand to help her up.  Emma was beaming, smiling one of the widest smiles I’d seen her give, despite the red mark on the side of her face. **Smiling as much at the way things had turned out, I imagined, as she was at getting the chance to talk with the concerned superheroine.**
->>> Really damn funny on a reread, in my opinion.
 >>> 
+>>> Okay. Working from memory to find examples of these, but here are things I think are recontextualized on a reread.
+>>> 
+>>> **Any scene with Sophia in it**
+>>> 
+>>> In example, the confrontation with Emma and Shadow Stalker at the mall in 5.3. On a blind read through, Stalker comes across as a tough but fair hero motivated by a concern for public welfare.
+>>> 
+>>> With context, the dramatic irony in this scene transforms it into something farcical. Stalker knows about Taylor and her history with Emma. She is motivated by helping Emma, and is intentionally trying to put Taylor in the most negative light possible.
+>>> 
+>>> The meaning behind all of Shadow Stalker's actions is recontextualized, making the scene feel fresh on a reread.
+>>> 
+>>> >Emma looked up at me, eyes wide, mouth open, one hand to the side of her face.  I was as shocked at what I’d done as she was.  Not that I felt *bad*.  A large part of me wanted to laugh in her face.  *Weren’t expecting that?  Miscalculated how I’d react?*
+>>> 
+>>> > Hands seized me with an iron grip and spun me around.  Shadow Stalker.  She interposed herself between me and Emma.  Dark brown eyes glowered at me from behind her mask.
+>>> 
+>>> >[...]
+>>> 
+>>> >Shadow Stalker scolded him, “This is *not* the time or place for arguments.  If your daughter is this… unwell, then that’s *your* responsibility.”
+>>> 
+>>> Shadow Stalker knows why Taylor hit Emma.
+>>> 
+>>> It has nothing to do with Taylor's concussion, but Stalker is playing along.
+>>> 
+>>> >I felt like laughing.  Part of it was just being giddy at doing something to get back at Emma.  The other part was that this whole scenario was so ridiculously upside-down.  Shadow Stalker wasn’t really anything special.  She was just a *teenage girl*, lecturing my dad, an adult.  The crowd that was watching was seeing Emma as the victim, me as the bad guy. **But if you stripped away the costume, if everyone knew the real story, this would all be playing out so differently.**
+>>> 
+>>> (Bolded emphasis mine) Taylor is more right than she knows.
+>>> 
+>>> This is a blatantly intentional author nod, when you have context.
+>>> 
+>>> >I pointed at Emma, turned to my dad, “You want to know why I hit her?”
+>>> 
+>>> >Shadow Stalker put one hand on the side of my face, forced me to look at her, stopping me from talking in the process. “No.  I’m stopping this right here.  No arguments, no excuses as to why you just assaulted someone.  We’re breaking this up now.  Turn around.”
+>>> 
+>>> >“What?” I half-laughed, incredulous, “Why?”
+>>> 
+>>> This can be read as the actions of an overworked Hero trying to immediately deescalate the situation, or as an attempt by Sophia to publicly humiliate Taylor.
+>>> 
+>>> >Shadow Stalker bound my wrists with what I guessed was a plastic wrist-tie.  Too tight.  Then she turned to my dad, and her voice was hushed.  “Look at this crowd.  These people.  They’re *scared*.  A place like this, with this much suppressed panic, fear and worry, this many people close together?  **I don’t care if your daughter is an idiot or just ill.**  She’s proven to be volatile in a powder-keg situation.  **It’s both dangerous and *stupid* to have her here.**  You can cut off the plasti-cuffs when she’s separated from anyone she might harm.”
+>>> 
+>>> The verbal insults and put-downs are so *clearly* in line with Sophia's character, but I don't think most people would ever connect these dots without the later reveal.
+>>> 
+>>> >My dad nodded, embarrassed.  I felt bad at that.  I felt worse at being led off like a criminal, while Shadow Stalker gave Emma a hand to help her up.  Emma was beaming, smiling one of the widest smiles I’d seen her give, despite the red mark on the side of her face. **Smiling as much at the way things had turned out, I imagined, as she was at getting the chance to talk with the concerned superheroine.**
+>>> 
+>>> Really damn funny on a reread, in my opinion.
 
->>>> **u/Anderkent** [+4] *
+>>>> **u/Anderkent** [+3]  (a day later)
 >>>> 
 >>>> Yes, Sophia is a good example. And you can find foreshadowing for a lot of things abut Taylor's character that aren't originally clear. I'm not saying there's no foreshadowed twists in Worm.
->>>> But large segments of the plot and characters are just played straight; you find out something new that fits previously shown snippets, but doesn't really *change* what they mean. The reveal is foreshadowed, and a re-read makes you notice the foreshadowing, but - for me at least - it doesn't make me "read [the foreshadowing] in a different light"
 >>>> 
+>>>> But large segments of the plot and characters are just played straight; you find out something new that fits previously shown snippets, but doesn't really *change* what they mean. The reveal is foreshadowed, and a re-read makes you notice the foreshadowing, but - for me at least - it doesn't make me "read [the foreshadowing] in a different light"
 
->> **u/literal-hitler** [+17] *
+>> **u/literal-hitler** [+16]  (9 hours later)
 >> 
 >> Not foreshadowing. Worm is like half climax. Every time I thought I was at the climax of that part of the story, it would just escalate into another climax. I think I screwed up my adrenal receptors reading that story.
->> 
 
-> **u/gurper** [+11] *
+> **u/gurper** [+11]  (13 minutes later)
 > 
 > school snails mysterious rinse ancient marvelous bear noxious amusing whole
->  *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
 > 
+>  *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
 
-> **u/Amonwilde** [+12] *
+> **u/Amonwilde** [+12]  (4 hours later)
 > 
 > Here's something a bit different.
-> [Spider and Web](http://ifdb.tads.org/viewgame?id=2xyccw3pe0uovfad)
-> Interactive fiction that redefines the unreliable narrator in a very rational way. Try not to use a walkthrough until you get past the puzzle. You'll probably know what I'm talking about when you get to it. There comes a point in the story where you'll have to reevaluate everything that's happened up to that point *before* you can move forward.
 > 
+> [Spider and Web](http://ifdb.tads.org/viewgame?id=2xyccw3pe0uovfad)
+> 
+> Interactive fiction that redefines the unreliable narrator in a very rational way. Try not to use a walkthrough until you get past the puzzle. You'll probably know what I'm talking about when you get to it. There comes a point in the story where you'll have to reevaluate everything that's happened up to that point *before* you can move forward.
 
->> **u/thecommexokid** [+1] *
+>> **u/thecommexokid** [+1]  (16 days later)
 >> 
 >> I hope this isn't a particularly big spoiler — I don't know because I'm playing through now and have no idea where this is headed — but I just had the following exchange:
+>> 
 >> >\> get package  
 >> *Taken.*
+>> 
 >> >\> open package  
 >> *It's not yet time.*
->> 
 
->>> **u/Amonwilde** [+1] *
+>>> **u/Amonwilde** [+1]  (16 days later)
 >>> 
 >>> I'll say it's related to the puzzle. :) I envy you getting to do it for the first time.
->>> 
 
-> **u/mack2028** [+5] *
+> **u/mack2028** [+6]  (8 hours later)
 > 
 > At the mountains of madness. The whole thing is a buildup to the explanation that there were monsters but not the aliens that killed most of his friends, those were other intelligent beings with understandable motivations but that those things had made something they couldn't control that was still out there.
-> 
 
-> **u/hankyusa** [+8]  *Sunshine Regiment**
+> **u/hankyusa** [+7]  *Sunshine Regiment* (23 hours later)
 > 
 > *[The Prestige](http://www.imdb.com/title/tt0482571/)* is one of my favorite films for this reason. As is probably true with most of these recommendations, the greatness of *The Prestige* is hard to describe without spoiling it. It is very rewatchable. 
-> Has anyone here read [the book](https://www.goodreads.com/book/show/239239.The_Prestige)? 
-> I think I'll save this thread for future reading.
 > 
+> Has anyone here read [the book](https://www.goodreads.com/book/show/239239.The_Prestige)? 
+> 
+> I think I'll save this thread for future reading.
 
->> **u/None** [+0] *
+>> **u/None** [+0]  (23 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Anderkent** [+9] *
+>>> **u/Anderkent** [+9]  (a day later)
 >>> 
 >>> > The leading information resource for the entertainment industry
->>> Bad bot. Fix your parsing, bot.
 >>> 
+>>> Bad bot. Fix your parsing, bot.
 
->>>> **u/None** [+4] *
+>>>> **u/None** [+4]  (a day later)
 >>>> 
 >>>> Bad Meatbag
->>>> 
 
->>> **u/ArisKatsaris** [+1]  *Sidebar Contender**
+>>> **u/ArisKatsaris** [+1]  *Sidebar Contender* (6 days later)
 >>> 
 >>> bad bot
->>> 
 
->>>> **u/GoodBot_BadBot** [+2] *
+>>>> **u/GoodBot_BadBot** [+2]  (6 days later)
 >>>> 
 >>>> Thank you ArisKatsaris for voting on \_trailerbot\_tester\_.  
->>>> This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).  
->>>>  ***  
->>>> ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!
 >>>> 
+>>>> This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).  
+>>>> 
+>>>>  ***  
+>>>> 
+>>>> ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (6 days later)
 >>>> 
 >>>> Bad Meatbag
->>>> 
 
-> **u/Agnoman** [+3] *
+> **u/Agnoman** [+4]  (a day later)
 > 
 > *The Thief* by Megan Whalen Turner does this to an absurd degree, as do all the rest of the books in the series. It's mostly based on one big reveal, but one that changes the premise of the entire story and the reading of just about every line in it.
-> 
 
->> **u/MondSemmel** [+1] *
+>> **u/MondSemmel** [+1]  (11 days later)
 >> 
 >> Not sure about The Thief itself, but definitely books 2 and 3 in the series. In particular, a significant fraction of the dialogue in the story has more than one layer of meaning. (It's not always foreshadowing in the sense that it allows you to predict what will happen, though; often it just recontextualizes it.)
->> 
 
-> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life* (10 hours later)
 > 
 > *A Fire Upon the Deep* is absolutely fantastic, with the best aliens in science fiction.
-> And a forum poster who *always* delivers spoilers, but operates through so many translation layers that it's usually only clear in hindsight what happened. Hexapodia is the key insight!
 > 
+> And a forum poster who *always* delivers spoilers, but operates through so many translation layers that it's usually only clear in hindsight what happened. Hexapodia is the key insight!
 
-> **u/ArisKatsaris** [+10]  *Sidebar Contender**
+> **u/ArisKatsaris** [+8]  *Sidebar Contender* (44 minutes later)
 > 
 > > More precisely, after HPMOR, what work has the greatest quantity of sentences that appear different on a second read? 
-> "The Sixth Sense".
 > 
+> "The Sixth Sense".
 
-> **u/invisime** [+6] *
+> **u/invisime** [+5]  (35 minutes later)
 > 
 > Arguably the Cloud Atlas movie or [Tigana](https://en.wikipedia.org/wiki/Tigana).
-> 
 
->> **u/Anderkent** [+3] *
+>> **u/Anderkent** [+3]  (an hour later)
 >> 
 >> +1 for Tigana.
->> 
 
-> **u/hoja_nasredin** [+7]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+7]  *Dai-Gurren Brigade* (2 hours later)
 > 
 > Since we have EY here can I ask you what stories would YOU recommend? What are your favorite books?
-> 
 
-> **u/Kanddak** [+2] *
+> **u/Kanddak** [+2]  (an hour later)
 > 
 > Upon completing *Chasm City* by Alastair Reynolds I had the perception that the story had been very dense in foreshadowing, but I haven't actually given it a second read.
-> 
 
-> **u/serge_cell** [+2] *
+> **u/serge_cell** [+2]  (12 hours later)
 > 
 > [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
 > Which BTW quite antirational.
-> Bulgacov was the last of giants of Russian literature and grandmaster of plot structure. There is always foreshadowing in his works, especially considering there is no really happy end in any of them.
 > 
+> Bulgacov was the last of giants of Russian literature and grandmaster of plot structure. There is always foreshadowing in his works, especially considering there is no really happy end in any of them.
 
-> **u/silver7017** [+2] *
+> **u/silver7017** [+2]  (16 hours later)
 > 
 > If you like anime, FLCL is something along these lines. it isn't foreshadowing so much as everything in it makes sense in a certain context, and you don't have enough of that context until the very end. the first time through it looks like chaos and noise, but a subsequent viewing ends up looking much different.
-> that said, it is still an anime, and if you aren't into anime in general then I do not think you will enjoy FLCL based on this particular quality alone.
 > 
+> that said, it is still an anime, and if you aren't into anime in general then I do not think you will enjoy FLCL based on this particular quality alone.
 
-> **u/PreFollower** [+2] *
+> **u/PreFollower** [+2]  (22 hours later)
 > 
 > Pandora Hearts manga has a lot of foreshadowing. I can't say about quality, but there is sure a lot of quantity. Better not watch anime, they skipped like half of the story there.
-> 
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (3 days later)
 > 
 > The movie *The Prestige* has great foreshadowing. I was blown away by one of the twists but it is perfectly set up throughout the entire movie.
-> 
 
-> **u/None** [+4] *
+> **u/None** [+3]  (an hour later)
 > 
 > I often wondered how this came to be one of the fundamental design decisions of HPMOR.
-> 
 
-> **u/SkyTroupe** [+1] *
+> **u/SkyTroupe** [+1]  (a day later)
 > 
 > The Shadow of What Was Lost does this well as it re contextualizes everything after you read the ending.
-> Wheel of Time does this well but the story drags on a bit.
-> Discworld series is great at this because it foreshadows further into the future than it seems because character traits are brought up in further stories that impact how you can predict a character to behave in other novels.
-> The Necroscope series turns decidedly darker when you reread each triplet of books. It doesnt necessarily foreshadow specific plot points but character motivations.
-> The Ringworld series is great for this too.
 > 
+> Wheel of Time does this well but the story drags on a bit.
+> 
+> Discworld series is great at this because it foreshadows further into the future than it seems because character traits are brought up in further stories that impact how you can predict a character to behave in other novels.
+> 
+> The Necroscope series turns decidedly darker when you reread each triplet of books. It doesnt necessarily foreshadow specific plot points but character motivations.
+> 
+> The Ringworld series is great for this too.
 
-> **u/RedTrimmedBlue** [+1] *
+> **u/RedTrimmedBlue** [+1]  (a day later)
 > 
 > The original draft of A Bridge of Birds:
-> http://www.barryhughart.org/bobdraft/chapter1.html
 > 
+> http://www.barryhughart.org/bobdraft/chapter1.html
 
-> **u/18scsc** [+1] *
+> **u/18scsc** [+1]  (a day later)
 > 
 > Hmm. I don't know. I feel like a good many stories have high levels of foreshadowing that go unnoticed. Tons of foreshadowing doesn't make itself clear without good analysis and many re-reads.
-> The less foreshadowing a story has the more random it will be. Readers pick up on narrative cues, and without them stories tend towards being incoherent. As rationalist stories put a huge premium on internal coherency, they might have more foreshadowing than the norm. However, I think the largest driver behind so many people posting rationalist stories here (and indeed, your post) is because there's a community of dedicated and attentive fans who discuss and analyze the heck out of every chapter of a given story. 
-> If you search for "foreshadowing" in any academic database for literary criticism, you will see thousands of essays detailing the dense foreshadowing present in hundreds of different works. I suspect the reason many posters here see such dense foreshadowing in the stories they're posting (and HPMOR) is because they really enjoy and *care* about those stories, and perhaps more importantly they're part of a community that helps them ferret out all those hidden instances of foreshadowing. 
-> Hence my recommendation: most of the literary canon. 
-> ----
-> **Edit:**
-> In the interests of being a good sport, I'll go ahead and shill for Malazan Book of the Fallen once more. The little passages at the beginning of each chapter have *insane* foreshadowing. Moreover the world is just so complex and multifaceted that off-hand comments about events in one part of the world will have huge plot ramifications thousands of pages later when the story shifts focus to that part of the world. It's really quite mind boggling how rich and detailed the world is, the only stuff I've ever encountered that come remotely close are Worm and maybe Tolkien. 
-> Since one is tossed into a complex world mid-flow and with exposition severely lacking, it's often hard to tell what is foreshadowing and what is world building. To a much greater extent than really any story I can think of, it's really quite a puzzle to figure out the exact shape of the world and the forces at play in the narrative. There's really no one character that can deliver a succient explanation even if they wanted to, so much is lost to time and chaos. So much knowledge lost to entropy, that even the most knowledgable characters are not much aware of the forces shaping their world.
-> To me this is great, I find too much obvious foreshadowing somewhat annoying.
 > 
+> The less foreshadowing a story has the more random it will be. Readers pick up on narrative cues, and without them stories tend towards being incoherent. As rationalist stories put a huge premium on internal coherency, they might have more foreshadowing than the norm. However, I think the largest driver behind so many people posting rationalist stories here (and indeed, your post) is because there's a community of dedicated and attentive fans who discuss and analyze the heck out of every chapter of a given story. 
+> 
+> If you search for "foreshadowing" in any academic database for literary criticism, you will see thousands of essays detailing the dense foreshadowing present in hundreds of different works. I suspect the reason many posters here see such dense foreshadowing in the stories they're posting (and HPMOR) is because they really enjoy and *care* about those stories, and perhaps more importantly they're part of a community that helps them ferret out all those hidden instances of foreshadowing. 
+> 
+> Hence my recommendation: most of the literary canon. 
+> 
+> ----
+> 
+> **Edit:**
+> 
+> In the interests of being a good sport, I'll go ahead and shill for Malazan Book of the Fallen once more. The little passages at the beginning of each chapter have *insane* foreshadowing. Moreover the world is just so complex and multifaceted that off-hand comments about events in one part of the world will have huge plot ramifications thousands of pages later when the story shifts focus to that part of the world. It's really quite mind boggling how rich and detailed the world is, the only stuff I've ever encountered that come remotely close are Worm and maybe Tolkien. 
+> 
+> Since one is tossed into a complex world mid-flow and with exposition severely lacking, it's often hard to tell what is foreshadowing and what is world building. To a much greater extent than really any story I can think of, it's really quite a puzzle to figure out the exact shape of the world and the forces at play in the narrative. There's really no one character that can deliver a succient explanation even if they wanted to, so much is lost to time and chaos. So much knowledge lost to entropy, that even the most knowledgable characters are not much aware of the forces shaping their world.
+> 
+> To me this is great, I find too much obvious foreshadowing somewhat annoying.
 
->> **u/SkyTroupe** [+1] *
+>> **u/SkyTroupe** [+1]  (2 days later)
 >> 
 >> I keep on hearing about malazan but can only find the compilation for $80 online. What's the first book?
->> 
 
->>> **u/18scsc** [+1] *
+>>> **u/18scsc** [+1]  (2 days later)
 >>> 
 >>> Gardens of the Moon. It's pretty rough for the first half until you start to figure stuff out. Even then there's a huge quality jump between Gardens if the Moon and Deadhouse Gates which is book two.
->>> 
 
-> **u/ajuc** [+1] *
+> **u/ajuc** [+1]  (3 days later)
 > 
 > Fight Club (it's a book too). I would argue HPMOR isn't unqeustioned #1 in that category.
-> 
 
-> **u/thecommexokid** [+1] *
+> **u/thecommexokid** [+1]  (a month later)
 > 
 > *Hexwood* by Diana Wynne Jones
-> 
 
-> **u/fljared** [+1]  *United Federation of Planets**
+> **u/fljared** [+1]  *United Federation of Planets* (2 hours later)
 > 
 > [Sidekicks](https://www.goodreads.com/book/show/8928024-sidekicks) does a really great job of this, with a lot of plot points coming to light after the fact.
-> 
 
-> **u/muns4colleg** [-15] *
+> **u/muns4colleg** [-15]  (5 hours later)
 > 
 > Honestly that sounds like some kind of JJ Abrams, Stephen Moffat crap.
-> 
 
 ---
 

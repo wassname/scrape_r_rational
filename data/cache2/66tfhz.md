@@ -14,36 +14,31 @@ I don't know if they would be considered rational, but I feel like they belong i
 
 ### Comments:
 
-> **u/AstralCodex** [+7] *
+> **u/AstralCodex** [+9]  (22 hours later)
 > 
 > This reminds me of Greg Egan's Incandescence, where the alien main characters discover general relativity before their equivalent of the industrial revolution, and his Arrows of Time series, about another alien race trying to survive in a world in which time behaves differently than it does in our universe.
-> 
 
-> **u/Sgeo** [+6] *
+> **u/Sgeo** [+7]  (an hour later)
 > 
 > http://tvtropes.org/pmwiki/pmwiki.php/Literature/AlgebraTheEasyWay
-> 
 
-> **u/Calsem** [+5] *
+> **u/Calsem** [+4]  (15 hours later)
 > 
 > That's pretty cool.  Is there something like those but for higher forms of math? ex: third-dimensional calc
-> 
 
->> **u/Sgeo** [+5] *
+>> **u/Sgeo** [+5]  (a day later)
 >> 
 >> I don't know, except avoid other "the Easy Way" books by this publisher, which do NOT take this approach, as I found with Chemistry the Easy Way,
->> 
 
->> **u/HereticalRants** [+2] *
+>> **u/HereticalRants** [+2]  (3 days later)
 >> 
 >> There is "The Manga Guide to Linear Algebra"
->> it's not so much about motivating things as trying to frame everything with simple mangu and animo  though
 >> 
+>> it's not so much about motivating things as trying to frame everything with simple mangu and animo  though
 
->>> **u/Sgeo** [+1] *
+>>> **u/Sgeo** [+1]  (4 days later)
 >>> 
 >>> That reminds me of *The Cartoon Guide to Statistics*, although that doesn't have all that much plot if I remember correctly, which is now my bad excuse as to why I didn't think of it when /u/Calsem asked.
->>> 
 
 ---
 

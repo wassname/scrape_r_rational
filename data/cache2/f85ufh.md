@@ -2,7 +2,7 @@
 
 * Author: u/EOTenkey *
 * URL: https://www.reddit.com/r/rational/comments/f85ufh/rt_volume_2_arc_1_complete_for_my_life_is_not_a/
-* Score: 8
+* Score: 9
 
 * Created: 2020-02-23T06:33:10
 
@@ -23,15 +23,13 @@ In any case, the second arc for volume 2 will involve a new POV main character a
 
 ### Comments:
 
-> **u/Lugnut1206** [+2] *
+> **u/Lugnut1206** [+2]  (2 days later)
 > 
 > Do you have a release schedule you're targeting for volume two?
-> 
 
->> **u/EOTenkey** [+2] *
+>> **u/EOTenkey** [+2]  (2 days later)
 >> 
 >> I release one chapter a week (with the unusual exception of this week), and there will probably be around 40-50 chapters in total (we're about halfway there). So likely complete in around six months.
->> 
 
 ---
 

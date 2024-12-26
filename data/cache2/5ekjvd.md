@@ -2,7 +2,7 @@
 
 * Author: u/rthomas2 *
 * URL: https://www.reddit.com/r/rational/comments/5ekjvd/rationality_from_ai_to_zombies_part_c/
-* Score: 14
+* Score: 16
 
 * Created: 2016-11-23T23:35:50
 

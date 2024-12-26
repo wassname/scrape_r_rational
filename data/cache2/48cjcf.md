@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Pakars** [+3] *
+> **u/Pakars** [+3]  (12 hours later)
 > 
 > This is actually quite fun and interesting to read, even considering the low length of each short story. It seriously feels like he's creating a wide world where people act reasonably.
-> Edit: I'm seeing a little inspiration from Dungeon Crawl Stone Soup, cool.
 > 
+> Edit: I'm seeing a little inspiration from Dungeon Crawl Stone Soup, cool.
 
->> **u/TennisMaster2** [+2] *
+>> **u/TennisMaster2** [+2]  (20 hours later)
 >> 
 >> Put a review up to give the author some feedback.  Seems starved for it.
->> 
 
 ---
 

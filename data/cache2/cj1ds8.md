@@ -2,7 +2,7 @@
 
 * Author: u/SyntaqMadeva *
 * URL: http://moodylit.com/the-good-student-table-of-contents/book-2-chapter-thirty-two
-* Score: 46
+* Score: 42
 
 * Created: 2019-07-28T21:02:59
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/locksher** [+1] *
+> **u/locksher** [+1]  (a day later)
 > 
 > Great chapter! The last few were dragging up a bit.
-> 
 
 ---
 

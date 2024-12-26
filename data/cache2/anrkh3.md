@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/anrkh3/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 8
+* Score: 7
 
 * Created: 2019-02-06T15:05:55
 
@@ -25,123 +25,117 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/red_adair** [+9]  *{{explosive-stub}}**
+> **u/red_adair** [+10]  *{{explosive-stub}}* (10 hours later)
 > 
 > Let's discuss superhero costumes.
+> 
 > People with penises generally have uniforms with a fly that allows them to unzip or unbutton the fly, whip out the penis, and urinate without disrobing further. But that doesn't work for people whose urinary equipment doesn't protrude from the body, and it doesn't work for pooping.
+> 
 > Most superheroes are depicted wearing singlets, unitards, catsuits, and similar form-fitting one-piece outfits. They wear these in space, in spaceships, in public, while flying, while sitting, while standing, when performing days-long stakeouts, in trips to the past and the future, and on islands full of dinosaurs. Thus, my question: what explanation makes sense as a Watsonian explanation for existing superhero costume design?
+> 
 > - Superheroes have hidden crotch zippers to allow for urination and defecation without disrobing
 > - Superhero costumes that are apparently singlets have hidden waist zippers to allow dropping trou
 > - Superheroes fully disrobe in order to use the facilities, which probably means they hold it for longer, experiencing an increased risk of UTIs and constipation.
 > - Superheroes wear diapers under their form-fitting suits.
 > - Superheroes do something else not on this list, like magic poop evacuation devices
-> 
 
->> **u/GlueBoy** [+8]  *anti-skub**
+>> **u/GlueBoy** [+9]  *anti-skub* (12 hours later)
 >> 
 >> That reminds me of [this comic.](https://i.redd.it/mlcv2vffbas01.jpg)
->> 
 
->> **u/None** [+7] *
+>> **u/None** [+7]  (a day later)
 >> 
 >> In comics, the answer is that the author didn't think about it. But in a story like *Worm*, for instance, the answer is that heroes go out for patrols for maybe one or two hours at a time, and design their costumes to be easy to remove. Or their costumes are part of their power, like Lung. Taylor, for instance, has a two-piece form-fitting suit underneath her costume, and her costume slides off fairly easily over that. Rachel and Brian incorporate conventional clothing into their "costumes" - Rachel because it's just her normal clothes with a dog mask, an Brian in leather biker gear. And Lisa is usually better served by sitting behind the front lines, so her costume is less practical.
->> 
 
->> **u/SilverstringstheBard** [+3] *
+>> **u/SilverstringstheBard** [+3]  (23 hours later)
 >> 
 >> I think the most realistic answer is that it depends on the superhero in question. This is an excellent means of showing character and setting. Are they focused on utility and practicality? I.E. wearing normal clothing or a costume more akin to normal clothing, or one of the aforementioned clever zippers
->> Alternatively, if they don't expect to be far from a bathroom at any given time like if they're in a city they might decide that the moderate impracticality of having to take off the tights to pee is worth it for a more seamless look. This could also suggest a focus on appearances at the expense of sense.
->> A third possibility is a character with an outright nonfunctional outfit. Why they're wearing it is an excellent question that can potentially lead to interesting answers. Perhaps they're not great at thinking ahead, or some kind of perverse incentive structure results in the costumes being made by subpar contractors, or maybe the one wearing the outfit is simply inexperienced.
->> TL;DR it's another opportunity to show character
 >> 
+>> Alternatively, if they don't expect to be far from a bathroom at any given time like if they're in a city they might decide that the moderate impracticality of having to take off the tights to pee is worth it for a more seamless look. This could also suggest a focus on appearances at the expense of sense.
+>> 
+>> A third possibility is a character with an outright nonfunctional outfit. Why they're wearing it is an excellent question that can potentially lead to interesting answers. Perhaps they're not great at thinking ahead, or some kind of perverse incentive structure results in the costumes being made by subpar contractors, or maybe the one wearing the outfit is simply inexperienced.
+>> 
+>> TL;DR it's another opportunity to show character
 
->> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 >> 
 >> For some reason I have the "Hero spins around very fast, and when the spinning stops, the Hero is all of a sudden in their costume" - so I imagine they'd be very quick to remove with super speed/etc. 
->> Also, ironman probably has a cath in his suit, and holds his poops? But the ironman suit is very quick to remove too and can be removed in bits so it's like it has a butt flap.
 >> 
+>> Also, ironman probably has a cath in his suit, and holds his poops? But the ironman suit is very quick to remove too and can be removed in bits so it's like it has a butt flap.
 
->>> **u/callmesalticidae** [+8]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+6]  *writes worldbuilding books* (a day later)
 >>> 
 >>> I need a comic where Iron Man asks his opponent if they can reschedule this fight because he ate Mexican food last night and is suffering from explosive diarrhea, and the villain agrees because it's understood that this sort of thing just happens from time to time, and someday it'll be them who needs the other person to be understanding and accommodating.
->>> 
 
-> **u/red_adair** [+5]  *{{explosive-stub}}**
+> **u/red_adair** [+5]  *{{explosive-stub}}* (11 hours later)
 > 
 > I have an idea for a race/species of hive-like organisms, which is more-fully described at this link: https://irradiate.space/worldbuilding/dancing-robot-warriors/
-> tl;dr: Each individual is composed of subsentient mechanocytes, coordinate to form the individual's body and mind. The individual's level of internal cohesion is affected by the body's ability to act in concert with itself and its surroundings. A body that falls out of coordination with its setting will experience pain-analogue and eventually fall apart as its mechanocytes lose coordination.
-> Poke some holes in this idea, please.
 > 
+> tl;dr: Each individual is composed of subsentient mechanocytes, coordinate to form the individual's body and mind. The individual's level of internal cohesion is affected by the body's ability to act in concert with itself and its surroundings. A body that falls out of coordination with its setting will experience pain-analogue and eventually fall apart as its mechanocytes lose coordination.
+> 
+> Poke some holes in this idea, please.
 
-> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+> **u/MagicWeasel** [+3]  *Cheela Astronaut* (12 hours later)
 > 
 > Writing skills general discussion topic: what do people do about plot bunnies? 
-> Request for specific advice: I have a plot bunny that I'm not sure is in-character for the character it's about, and if it was in the story, it'd probably undermine the narrative. Should I write it to get it out of my system, in a drafts document where it'll never see the light of day, or is there a risk of that causing me to fall in love with it and adding it to the story and undermining it whilst trying to convince myself that it is totally *thematic*?
 > 
+> Request for specific advice: I have a plot bunny that I'm not sure is in-character for the character it's about, and if it was in the story, it'd probably undermine the narrative. Should I write it to get it out of my system, in a drafts document where it'll never see the light of day, or is there a risk of that causing me to fall in love with it and adding it to the story and undermining it whilst trying to convince myself that it is totally *thematic*?
 
->> **u/callmesalticidae** [+4]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+4]  *writes worldbuilding books* (a day later)
 >> 
 >> Wait until you've published your story, and then publish the plot bunny under an assumed name on Ao3. Then you'll have a written plot bunny, a thematically-coherent main story, *and* fanfiction!
->> 
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 >>> 
 >>> I like the way you think!
->>> A friend of mine wrote an erotic fan fiction of it already though. Maybe I should convince her to post it to AO3.
 >>> 
+>>> A friend of mine wrote an erotic fan fiction of it already though. Maybe I should convince her to post it to AO3.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (a day later)
 >>> 
 >>> I like the idea of posting it as an "author's fanfiction" because that's pretty much what it is. It's, like, the *height* of self-indulgence though (... not that that's beneath me, let's be fair)
->>> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >> 
 >> I generally write it as a short story or scene, which helps develop it if nothing else. My drafts folder is littered with things like that.
->> 
 
->> **u/red_adair** [+2]  *{{explosive-stub}}**
+>> **u/red_adair** [+2]  *{{explosive-stub}}* (22 hours later)
 >> 
 >> Write it in a standalone short story. If it works on its own, you can investigate to see if it would work in the main story.
->> 
 
->> **u/causalchain** [+2] *
+>> **u/causalchain** [+2]  (a day later)
 >> 
 >> It makes me think of the omakes that Yudkowsky interspersed through HPMOR.
->> 
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (a day later)
 >>> 
 >>> I like the idea of posting it as an "author's fanfiction" because that's pretty much what it is. It's, like, the *height* of self-indulgence though (... not that that's beneath me, let's be fair)
->>> 
 
->> **u/Boron_the_Moron** [+2] *
+>> **u/Boron_the_Moron** [+2]  (2 days later)
 >> 
 >> You murder them.
->> Ideas are cheap, and you will always have more ideas than time to spend working on them.
 >> 
+>> Ideas are cheap, and you will always have more ideas than time to spend working on them.
 
-> **u/Bowbreaker** [+5]  *Solitary Locust**
+> **u/Bowbreaker** [+5]  *Solitary Locust* (18 hours later)
 > 
 > Could humanity survive a worldwide amnesia? I mean the type where you retain your skills and such. I know that the majority would die because food stops moving from its point of origin, but would anyone survive? Even modern hunter-gatherers rely on specific knowledge to some extent, like best hunting grounds or local dangers.
-> 
 
->> **u/red_adair** [+2]  *{{explosive-stub}}**
+>> **u/red_adair** [+2]  *{{explosive-stub}}* (22 hours later)
 >> 
 >> Without getting too heavily into spoilers, qntm's novel [Fine Structure](https://qntm.org/structure) deals with this.
->> But yes, I think people would survive. If people keep skills, hunter-gatherers would retain the ability to determine where food can be found, without necessarily recalling what food is or where it has been found historically. There's a lot of instinct to fall back on: this smells good, therefore eat.
 >> 
+>> But yes, I think people would survive. If people keep skills, hunter-gatherers would retain the ability to determine where food can be found, without necessarily recalling what food is or where it has been found historically. There's a lot of instinct to fall back on: this smells good, therefore eat.
 
->>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>> **u/Bowbreaker** [+2]  *Solitary Locust* (a day later)
 >>> 
 >>> Does Fine Structures deal with it as a major theme of the whole story or as a thing limited to a couple of chapters/arcs or something in between? Don't tell me spoilers beyond that though
->>> 
 
->>>> **u/red_adair** [+2]  *{{explosive-stub}}**
+>>>> **u/red_adair** [+2]  *{{explosive-stub}}* (a day later)
 >>>> 
 >>>> It is a phenomenon which one character is not affected by, and which that character observes and exploits. Not a theme in early chapters, but it becomes a major plot mechanic by the end of the story.
->>>> I'm not sure if you're better off reading Fine Structure in the order as posted or the chronological order.
 >>>> 
+>>>> I'm not sure if you're better off reading Fine Structure in the order as posted or the chronological order.
 
 ---
 

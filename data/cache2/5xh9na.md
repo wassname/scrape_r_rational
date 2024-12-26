@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/5xh9na/d_saturday_munchkinry_thread/
-* Score: 10
+* Score: 9
 
 * Created: 2017-03-04T15:04:05
 
@@ -24,145 +24,137 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/Nickoalas** [+6] *
+> **u/Nickoalas** [+6]  (54 minutes later)
 > 
 > You have the ability to smell things before they happen. You cannot see the future, you can only experience future smells.
-> 
 
->> **u/Norseman2** [+12] *
+>> **u/Norseman2** [+14]  (an hour later)
 >> 
 >> Place bets on a football game, bet for team 1 if I smell orange, bet for team 2 if I smell watermelon. When the game ends, eat an orange if team 1 wins, or some watermelon if team 2 wins.
->> 
 
->>> **u/Sparkwitch** [+9] *
+>>> **u/Sparkwitch** [+13]  (2 hours later)
 >>> 
 >>> Scent is an elaborate and distinct sense, so you could establish an entire language of such smells coded out with considerably variety and complexity. With a little work, and with smells that overlap well (sweet vs. acrid), you could establish a code for (in the football betting example) exactly how many points the team would win by, or what the score would be quarter-by-quarter... harder bets with higher payoffs.
->>> Get a capable enough code and you could find winners on the stock market. It wouldn't be a lot of work to say whether markets are trending up or down on the day, and which of (say) ten or twelve large caps will have the largest gains. A reliable +1% every business day is better in the long run than a big win. Over a year, that's a more than 1200% return, and with large caps you can become a billionaire in three years even paying day trader taxes.
 >>> 
+>>> Get a capable enough code and you could find winners on the stock market. It wouldn't be a lot of work to say whether markets are trending up or down on the day, and which of (say) ten or twelve large caps will have the largest gains. A reliable +1% every business day is better in the long run than a big win. Over a year, that's a more than 1200% return, and with large caps you can become a billionaire in three years even paying day trader taxes.
 
->>>> **u/Norseman2** [+6] *
+>>>> **u/Norseman2** [+7]  (3 hours later)
 >>>> 
 >>>> In the interest of avoiding confusion when your future self is having meals or walking near restaurants, etc., it might be a good idea to carry two perfumes with you. One to smell just prior to sending back important information, and another to smell when you're done or you want to be sure to avoid applying any interpretation to any upcoming smells.
->>>> 
 
->>>>> **u/Sparkwitch** [+3] *
+>>>>> **u/Sparkwitch** [+4]  (3 hours later)
 >>>>> 
 >>>>> Indeed, a lot of this depends on whether future smells come all at once or in discrete packets with mental timestamps.
->>>>> 
 
->> **u/vakusdrake** [+3] *
+>> **u/vakusdrake** [+3]  (14 hours later)
 >> 
 >> I always find it weird how people often seem to think that limited forms of precognition won't incur all the usual problems. Just make a code with ~26 different distinct smells and you have basically an antitelephone, then just clearly delineate the start and ends of messages and add timestamps within the message if it doesn't already come with them by default.                                    
 >> Then the obvious thing to do is to become filthy rich in stocks and start introducing future tech and science earlier in order to speed up tech development. Use your future knowledge to gain behind the scenes control of most major world leaders and accrued enough wealth to make Rockefeller blush. Once you've got enough influence do everything you can to deliberately stunt AI development and goal alignment so you can work on it exclusively for the as many decades as is manageable.                                 
 >> Of course none of this will ever actually be seen by you, since all you need is to follow the directions given to you from the future to quickly develop AI tech within a few years.
->> 
 
->>> **u/Nickoalas** [+3] *
+>>> **u/Nickoalas** [+2]  (14 hours later)
 >>> 
 >>> And here I am using it to stop burning my toast like a schmuck.
->>> 
 
->> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (4 hours later)
 >> 
 >> Hahaha. I almost gave this power to one of the characters in my story.
->> 
 
-> **u/Pandomy** [+5] *
+> **u/Pandomy** [+6]  (5 hours later)
 > 
 > Suppose you're given access to a computer with infinite* processing power and memory, loaded with every programming language you can think of and any other (currently existing) programs that you want. What do you do with it?
-> *As in, it can perform any finite computation instantly. Want to brute force a million RSA keys? Want to find every digit of Graham's number? Want to find every prime number less than or equal to Graham's number? All done the instant after it's started. (If you give it a literally infinite computation, like counting the sum of every natural number or something, it just hangs.)
 > 
+> *As in, it can perform any finite computation instantly. Want to brute force a million RSA keys? Want to find every digit of Graham's number? Want to find every prime number less than or equal to Graham's number? All done the instant after it's started. (If you give it a literally infinite computation, like counting the sum of every natural number or something, it just hangs.)
 
->> **u/NotACauldronAgent** [+9]  *Probably**
+>> **u/NotACauldronAgent** [+10]  *Probably* (6 hours later)
 >> 
 >> Some basics:
->> Folding@home, Seti@home, etc, would all benefit. 
->> Mine tons of bitcoin.
->> Use newfound wealth to hire software developers.
->> Attempt to solve the Stock Market, more protein folding, and stuff like that. 
->> There is a backlog of supercomputer tasks for low-priority targets, like the [moving sofa problem](https://en.wikipedia.org/wiki/Moving_sofa_problem) that would be cool to solve.
 >> 
+>> Folding@home, Seti@home, etc, would all benefit. 
+>> 
+>> Mine tons of bitcoin.
+>> 
+>> Use newfound wealth to hire software developers.
+>> 
+>> Attempt to solve the Stock Market, more protein folding, and stuff like that. 
+>> 
+>> There is a backlog of supercomputer tasks for low-priority targets, like the [moving sofa problem](https://en.wikipedia.org/wiki/Moving_sofa_problem) that would be cool to solve.
 
->> **u/captainNematode** [+5] *
+>> **u/captainNematode** [+5]  (7 hours later)
 >> 
 >> Bake an apple pie? In the long term I'd want to instantiate an arbitrarily large number of universes of limitless joy and flourishing, but would have to be careful e.g. in kicking off physics simulations because those could easily (and perhaps inevitably) lead to prodigious suffering, too.
->> In the medium term I'd solve all the science.
->> In the short term I'd do all the [Project Euler problems](https://projecteuler.net/archives) using my shitty, inefficient code! Muahaha!
 >> 
+>> In the medium term I'd solve all the science.
+>> 
+>> In the short term I'd do all the [Project Euler problems](https://projecteuler.net/archives) using my shitty, inefficient code! Muahaha!
 
->>> **u/ulyssessword** [+5] *
+>>> **u/ulyssessword** [+5]  (12 hours later)
 >>> 
 >>> >In the short term I'd do all the Project Euler problems using my shitty, inefficient code! Muahaha!
->>> Thanks for linking that.  I'm browsing through the problems there, and it really seems that they have hidden depths that allow for both good (efficient, adaptable, simple) and bad (slow, specific, complex) solutions.
 >>> 
+>>> Thanks for linking that.  I'm browsing through the problems there, and it really seems that they have hidden depths that allow for both good (efficient, adaptable, simple) and bad (slow, specific, complex) solutions.
 
->>>> **u/captainNematode** [+3] *
+>>>> **u/captainNematode** [+3]  (12 hours later)
 >>>> 
 >>>> They're a fun puzzle-y diversion that'll help to hone your math/programming skills. They do ramp up in difficulty as you go on (partly reflected by the # of people who have completed each), so while you might be able to solve the first few dozen in a handful of minutes your progress will definitely slow (unless you're a supergenius or something). The forums have lots of people posting and benchmarking their own solutions to each problem, too, so you can see how much more elegantly and efficiently others have made their way through them.
->>>> 
 
->> **u/mg115ca** [+6] *
+>> **u/mg115ca** [+4]  (2 days later)
 >> 
 >> If you haven't heard of this story, here is a possible use: [I don't know Timmy, being God is a big responsibility...](https://qntm.org/responsibility).
->> 
 
->> **u/696e6372656469626c65** [+3]  *I think, therefore I am pretentious.**
+>> **u/696e6372656469626c65** [+3]  *I think, therefore I am pretentious.* (12 hours later)
 >> 
 >> This computer, as described, is capable of solving the halting problem.
->> I use it to crack the secret of Friendly AI and ascend to godhood.
 >> 
+>> I use it to crack the secret of Friendly AI and ascend to godhood.
 
->>> **u/vakusdrake** [+4] *
+>>> **u/vakusdrake** [+4]  (14 hours later)
 >>> 
 >>> Sure you could probably brute force some method that gave you AI, but I don't see how it would make solving the goal alignment problem any easier.
->>> 
 
->>>> **u/696e6372656469626c65** [+1]  *I think, therefore I am pretentious.**
+>>>> **u/696e6372656469626c65** [+1]  *I think, therefore I am pretentious.* (a day later)
 >>>> 
 >>>> Never mind, you're correct. Obviously, I was not thinking too clearly when I made that comment.
->>>> 
 
->>>>> **u/vakusdrake** [+3] *
+>>>>> **u/vakusdrake** [+3]  (a day later)
 >>>>> 
 >>>>> I was still vastly underestimating this ability when I made my comment as well though. You will basically be able to directly control the world around you by creating enough simulations that you're probably in one.                 
 >>>>> Ultimately by simulating versions of yourself with access to the computer that are staggeringly sped up from your perspective you can probably get any amount of mental work (such as that needed to solve GAI and goal alignment) done in a time short enough to feel instantaneous.
->>>>> 
 
->>>>>> **u/Tetrikitty** [+3] *
+>>>>>> **u/Tetrikitty** [+3]  (2 days later)
 >>>>>> 
 >>>>>> If you are not already in a simulation, increasing the chance of you being in a simulation will not make you be in a simulation.
->>>>>> 
 
->>>>>>> **u/vakusdrake** [+4] *
+>>>>>>> **u/vakusdrake** [+5]  (2 days later)
 >>>>>>> 
 >>>>>>> Yes but this is something of a newcomb style problem, in that can't affect how the world is already set up. However that still doesn't change the fact that if you create enough simulations, the chance of you being the one in a billion-billion, etc identical version of yourself that happens to be "real" is absurdly small.                 
 >>>>>>> Funnily enough before you make the simulations you have every reason to think you're real, but the instant you make them your memories stop counting as evidence so you're probably simulated.
->>>>>>> 
 
->>>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (3 days later)
 >>>>>>>> 
 >>>>>>>> > Funnily enough before you make the simulations you have every reason to think you're real,
->>>>>>>> You ought to have the simulations replay your life from its beginning first. That way you *do* have a reason to believe you're simulated even before you press the start button, and you have an incentive to press it.
 >>>>>>>> 
+>>>>>>>> You ought to have the simulations replay your life from its beginning first. That way you *do* have a reason to believe you're simulated even before you press the start button, and you have an incentive to press it.
 
->>>>>>>>> **u/vakusdrake** [+3] *
+>>>>>>>>> **u/vakusdrake** [+3]  (3 days later)
 >>>>>>>>> 
 >>>>>>>>> Playing your whole life isn't really totally necessary, because you'll know that as soon as you press the button the logic still holds that your memories stop being evidence for or against you being simulated.                               
 >>>>>>>>> But yeah if I was just going to rely on anthropic reasoning to exert control over reality I would probably want to retroactively simulate my life like you say.                  
->>>>>>>>> Anyway even without retroactive simulation it's super useful to simulate yourself for the other reasons I brought up. Namely that you can get an arbitrary amount of mental work done for zero effort, in a period of time you would perceive as instant, which means instantly getting FAI, or at least the best chance you could ever hope for.
 >>>>>>>>> 
+>>>>>>>>> Anyway even without retroactive simulation it's super useful to simulate yourself for the other reasons I brought up. Namely that you can get an arbitrary amount of mental work done for zero effort, in a period of time you would perceive as instant, which means instantly getting FAI, or at least the best chance you could ever hope for.
 
->>>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>>>>>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (25 days later)
 >>>>>>>> 
 >>>>>>>> This strikes me as the same as the story of the mathematician who brought a bomb on a plane because the odds of *two* bombs being on a plane is even lower.
->>>>>>>> 
 
->> **u/vakusdrake** [+1] *
+>> **u/vakusdrake** [+1]  (15 hours later)
 >> 
 >> I would win fairly quickly once I used it to get rich and was able to throw money and the best minds at it:                          
 >> Just brute force a model that will let it find the most likely conditions for universes with all same observable variables as our own (or just only select for information available to you personally), then start simulating as many of them as you can possibly manage (making some program that starts with the largest number you can figure out how to express then brute forces new programs that find new ways to express larger numbers, you get the idea).                           
 >> This will mean that you are vastly likelier to be a simulation within some iteration of the computer as not, so it suddenly becomes trivial to manipulate the simulation and thus be fairly certain the "real" world will respond in the same way.
+>> 
 >> So just set up a program that will institute all the changes you want to make at once (so people can't react) then do some of the following right away:               
+>> 
 >> * Delete all the world's weapons and continue doing so constantly                             
 >> * Delete all factories and replaces with giant boxes that will copy paste any non-living material placed within             
 >> * Reverse climate change and environmental degradation           
@@ -174,37 +166,50 @@ Good Luck and Have Fun!
 >> * Set up a magic system wherein people can create "magic" circles that let them create many of the previously mentioned items, teleport to teleportation stations (can also be done via "magic" trigger phrases and whatever other things I think of. They will have limits on their size, won't work if there's stuff in the circle and will have other such safeguards, the instructions on their creation will be in the smartphones as well as written in the sky in the local language.                     
 >> * Information of use will be written in the sky at regular intervals as well as at random intervals (to avoid people being forced indoors so they can't see the messages), will also have a voice that appears from nowhere near people.        
 >> * You know what screw it, people can now fly at subsonic speeds by tensing the muscles in their body in particular patterns.                
+>> 
 >> A hell of a lot of these are somewhat redundant, and certainly not my best possible solution. However I can't risk too many people knowing about the computer so I implement this (admittedly sloppy) solution immediately. If you can think of any terrible consequences let me know, but everybody's invulnerable can fly and has all their basic needs met so it seems pretty great.
+>> 
 >> **EDIT** Actually I came up with a much better plan, and best of all it requires next to zero effort on my part:     Just create copies of yourself in simulated rooms (they can easily use commands to create air, food, etc ex nihilo since they have access to versions of the computer), that are sped up an arbitrary amount from your perspective, you might want multiple copies per room (assuming you can't trust anyone else with absolute power). Boom they work on things for a while (while constantly speeding up the rate they are simulated as much as possible) then they just create even more sped up copies of themselves from before they got tired and feed them all the progress they've made, rinse and repeat.                       
 >> Of course from your perspective it's as though the instant you create a faster simulation of yourself all your work is done instantly and you find the world instantly turned into a utopia.
->> 
 
->>> **u/Gurkenglas** [+2] *
+>>> **u/Gurkenglas** [+2]  (19 hours later)
 >>> 
 >>> > Delete all factories and replaces with giant boxes that will copy paste any non-living material placed within
->>> > Set up a magic system wherein people can create "magic" circles that let them create many of the previously mentioned items
->>> Sounds like someone might figure out how to make replicators replicate replicators, overwhelming the world.
->>> > This will mean that you are vastly likelier to be a simulation within some iteration of the computer as not
->>> > Create shit-tons of smartphones all across the world with considerable amounts of computing
->>> You will be maximally likely to be within that physical-law-abiding simulation which is run at maximum weight. What weight means isn't clear, but is likely to depend on the amount of computation dedicated to it. The number of simulations spawned is ludicrous, as each simulation's smartphones can spawn more simulations. Since [the tails diverge](http://lesswrong.com/lw/km6/why_the_tails_come_apart/), the universe whose inhabitants find the description of the longest-running program that halts^1 (and are thus able to allocate the vast majority of simulation weight) is unlikely to satisfy your values - consider that an AGI that spawns anywhere and figures out your scheme would be pretty effective at coming up with ways to come up with long-running programs.
->>> Edit: Actually, your computer will probably just hang if there is any way at all left for inhabitants of a simulation to produce nonhalting computations. Beware of debugging, for if crashing the simulation is hard to pull off, you're likely to be looking at that simulation which was prepared for that purpose by that agent which was able to figure out how to crash.
->>> Edit2: Actually, your universe can't be simulated by a turing machine if it contains a halting oracle. Duh. Though you might be able to patch this by having the oracle instead test whether given machines instead run less than some very long time.
->>> Edit3: By [Rice's theorem](https://en.wikipedia.org/wiki/Rice's_theorem), you might run into another problem identifying the simulations that fit your parameters.
->>> 1) Each breakthrough dwarfs the effects of all previous breakthroughs from all other simulations combined, see the [Busy Beaver sequence](https://en.wikipedia.org/wiki/Busy_beaver).
->>> **tl;dr don't roll your own crypto**
 >>> 
+>>> > Set up a magic system wherein people can create "magic" circles that let them create many of the previously mentioned items
+>>> 
+>>> Sounds like someone might figure out how to make replicators replicate replicators, overwhelming the world.
+>>> 
+>>> > This will mean that you are vastly likelier to be a simulation within some iteration of the computer as not
+>>> 
+>>> > Create shit-tons of smartphones all across the world with considerable amounts of computing
+>>> 
+>>> You will be maximally likely to be within that physical-law-abiding simulation which is run at maximum weight. What weight means isn't clear, but is likely to depend on the amount of computation dedicated to it. The number of simulations spawned is ludicrous, as each simulation's smartphones can spawn more simulations. Since [the tails diverge](http://lesswrong.com/lw/km6/why_the_tails_come_apart/), the universe whose inhabitants find the description of the longest-running program that halts^1 (and are thus able to allocate the vast majority of simulation weight) is unlikely to satisfy your values - consider that an AGI that spawns anywhere and figures out your scheme would be pretty effective at coming up with ways to come up with long-running programs.
+>>> 
+>>> Edit: Actually, your computer will probably just hang if there is any way at all left for inhabitants of a simulation to produce nonhalting computations. Beware of debugging, for if crashing the simulation is hard to pull off, you're likely to be looking at that simulation which was prepared for that purpose by that agent which was able to figure out how to crash.
+>>> 
+>>> Edit2: Actually, your universe can't be simulated by a turing machine if it contains a halting oracle. Duh. Though you might be able to patch this by having the oracle instead test whether given machines instead run less than some very long time.
+>>> 
+>>> Edit3: By [Rice's theorem](https://en.wikipedia.org/wiki/Rice's_theorem), you might run into another problem identifying the simulations that fit your parameters.
+>>> 
+>>> 1) Each breakthrough dwarfs the effects of all previous breakthroughs from all other simulations combined, see the [Busy Beaver sequence](https://en.wikipedia.org/wiki/Busy_beaver).
+>>> 
+>>> **tl;dr don't roll your own crypto**
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (20 hours later)
 >>>> 
 >>>> The boxes are all pretty massive (as they replace all factories) but you could still use larger boxes to replicate smaller ones, but i'm not so sure that's as catastrophic you make it sound. I mean the speeds limited by how fast you can move around these massive boxes and why even bother making more once you have enough in order to make anything you need?              
 >>>> Also the boxes don't _actually_ do anything, they are just made of normal material and the computer makes them indestructible and uses them as a reference point for its copy paste commands, making copies won't cause the computer to recognize them as valid targets.
+>>>> 
 >>>> >You will be maximally likely to be within that physical-law-abiding simulation which is run at maximum weight. What weight means isn't clear, but is likely to depend on the amount of computation dedicated to it. The number of simulations spawned is ludicrous, _as each simulation's smartphones can spawn more simulations_. Since the tails diverge, the universe whose inhabitants find the description of the longest-running program that halts is unlikely to satisfy your values - consider that an AGI that spawns anywhere and figures out your scheme would be pretty effective at coming up with ways to come up with long-running programs. (_Emphasis mine_).
+>>>> 
 >>>> I didn't say each smartphone would get direct access to the computer, that would be idiotic since everybody would get the same anthropic power that I had. I said "considerable" processing, not effectively infinite. The obvious method of implementation is just to simulate a much better computer then read all signals in the smartphones and feed them into the simulated computer and vice versa. I fully intend to ensure I have direct control over the simulation (in the sense that the levels above me are also controlled by me)
+>>>> 
 >>>> As for halting problem I have as much processing as I need so I can just have higher levels automatically allocate resources to lower levels since the highest level has an infinite amount to spare. Barring that it's not like said anything about infinite _levels_ of simulation. I only need to do enough simulation to ensure that i'm almost certainly simulated so I can pull the tricks with the anthropic principle. If I really want it so that nobody can tell if they're at the lowest level I can just set things up so if it has insufficient processing (somehow) it instead simulates just my own mind or something similar, and things are set up so you can't know if this is the case.                                            
 >>>> Also it seems inconceivable how any of these simulation could crash, since they're simulated at the base level, with chromodynamics.                       
 >>>> Barring that I could be content to literally just simulate my own mind a bunch of times since I can pull all the same anthropic tricks that way as well, while not necessarily needing too many lower levels.
->>>> As for AGI spontaneously spawning that's if anything the point, since as I pointed out I would have simulated version of me working on the problem for as long as necessary to be as confident as possible in it working. So if a GAI invades from a lower or higher level it was probably of my own creation and I can be as assured of its friendliness as is reasonably possible.
 >>>> 
+>>>> As for AGI spontaneously spawning that's if anything the point, since as I pointed out I would have simulated version of me working on the problem for as long as necessary to be as confident as possible in it working. So if a GAI invades from a lower or higher level it was probably of my own creation and I can be as assured of its friendliness as is reasonably possible.
 
 ---
 

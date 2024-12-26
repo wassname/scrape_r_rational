@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/luminarium** [+1] *
+> **u/luminarium** [+1]  (10 hours later)
 > 
 > Hey the index page is missing links to chapters 5 and 6.
-> 
 
->> **u/logic11** [+1] *
+>> **u/logic11** [+1]  (11 hours later)
 >> 
 >> Oh, yeah... sorry. Forgot to update it. Will fix right now.
->> 
 
 ---
 

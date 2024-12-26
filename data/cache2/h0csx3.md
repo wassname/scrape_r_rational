@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/h0csx3/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 4
+* Score: 6
 
 * Created: 2020-06-10T15:05:18
 
@@ -24,135 +24,131 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/BoxSparrow** [+3] *
+> **u/BoxSparrow** [+3]  (7 hours later)
 > 
 > There's a thing that's been bugging me every time I try to write something:
-> How do people write so fast!?
-> Like, I look at PGtE with its bi-weekly updates, and I look at WtC with its tens of thousands of words per month, and I look at the numerous other serials that update thousands of words regularly, and I'm just utterly baffled by how people can just spew out high-quality content so quickly. 
-> Personally, I can only write at a few hundred words per hour, so it'd take me a dozen or more hours just to match that rate, let alone coming up with the ideas and editing it to snuff. Is it a lack of experience? Motivation? Spare time? How do you do it?
 > 
+> How do people write so fast!?
+> 
+> Like, I look at PGtE with its bi-weekly updates, and I look at WtC with its tens of thousands of words per month, and I look at the numerous other serials that update thousands of words regularly, and I'm just utterly baffled by how people can just spew out high-quality content so quickly. 
+> 
+> Personally, I can only write at a few hundred words per hour, so it'd take me a dozen or more hours just to match that rate, let alone coming up with the ideas and editing it to snuff. Is it a lack of experience? Motivation? Spare time? How do you do it?
 
->> **u/Anew_Returner** [+3] *
+>> **u/Anew_Returner** [+3]  (9 hours later)
 >> 
 >> A lot of that comes down to practice and experience. Drive and motivation can take you far but the best way to optimize a route is by walking the walk repeatedly.
->> When I started to draw half a decade ago not only was I bad at it but also slow, it took me two hours to make a drawing that right now I would get done in under 15 minutes and probably scoff at. Same thing with writing, I'm well past the 250k words mark, yes most of it is pretty bad, and just thinking about my first few stories makes me cringe, but I'm getting better and I'm getting faster. I used to struggle to reach 1k words in one sitting, now I can do that easily but struggle to reach 3k.
->> In writing, and with time, you learn what to do and what to avoid, what suits you and what doesn't, you discover your niche, you find a voice, you either learn to organize yourself better with stuff like outlines or you embrace the unknown and dive into discovery writing. You learn the plots, the characters, how to weave personalities and strengths and weaknesses, you ease yourself into it, you spend less time hesitating, etc. It all adds up.
->> Also remember that a lot of what you're seeing is what the writers are willing to publish, what they think is good enough for their readers. They write a lot and they accumulate a lot of experience, for the most part we only get to see the end result.
->> The result of crafting or creating something is art, but the act in itself is not, both speed and quality come from excellence, and excellence comes from habit. So keep at it, if you find yourself lacking or not up to stuff [watch a lecture](https://www.youtube.com/playlist?list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ), read what other writers have to say [about writing](https://fictionphile.com/best-essays-on-writing/), join a writing group or community, the most important thing however is that you write.
 >> 
+>> When I started to draw half a decade ago not only was I bad at it but also slow, it took me two hours to make a drawing that right now I would get done in under 15 minutes and probably scoff at. Same thing with writing, I'm well past the 250k words mark, yes most of it is pretty bad, and just thinking about my first few stories makes me cringe, but I'm getting better and I'm getting faster. I used to struggle to reach 1k words in one sitting, now I can do that easily but struggle to reach 3k.
+>> 
+>> In writing, and with time, you learn what to do and what to avoid, what suits you and what doesn't, you discover your niche, you find a voice, you either learn to organize yourself better with stuff like outlines or you embrace the unknown and dive into discovery writing. You learn the plots, the characters, how to weave personalities and strengths and weaknesses, you ease yourself into it, you spend less time hesitating, etc. It all adds up.
+>> 
+>> Also remember that a lot of what you're seeing is what the writers are willing to publish, what they think is good enough for their readers. They write a lot and they accumulate a lot of experience, for the most part we only get to see the end result.
+>> 
+>> The result of crafting or creating something is art, but the act in itself is not, both speed and quality come from excellence, and excellence comes from habit. So keep at it, if you find yourself lacking or not up to stuff [watch a lecture](https://www.youtube.com/playlist?list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ), read what other writers have to say [about writing](https://fictionphile.com/best-essays-on-writing/), join a writing group or community, the most important thing however is that you write.
 
->> **u/Norseman2** [+1] *
+>> **u/Norseman2** [+1]  (8 hours later)
 >> 
 >> I suspect that WtC is possible to write so quickly because the author probably does have many years of real-life experience with playing D&D and running roleplaying games. If so, he would have a lot of experiences that he could draw upon to write a story which loosely threads in themes and encounters that have popped up over the course of his gaming. It's relatively easy to write about things that you're very familiar with. Even so, I wouldn't be surprised if Alexander Wales spent a dozen or more hours per month writing WtC. You need to have spare time, and writing has to be something you enjoy doing in your spare time.
->> 
 
->> **u/RavensDagger** [+1] *
+>> **u/RavensDagger** [+1]  (17 hours later)
 >> 
 >> I'm currently sitting at... 469K words for 2020. I write, on average, at a speed of 400 words per hour. That is, I can write a thousand words in the span of a few minutes, but it'll take hours of planning and plotting to prepare for those few minutes. 
->> I'd suggest just setting out a sheet or some sort of day planner and writing down however many words you wrote on any given day. Aim for about 500 a day at first, then after maybe a year, increase that by a bit. It's like lifting weights, you don't start with the heaviest weight you can find, you start small and work your way up.
 >> 
+>> I'd suggest just setting out a sheet or some sort of day planner and writing down however many words you wrote on any given day. Aim for about 500 a day at first, then after maybe a year, increase that by a bit. It's like lifting weights, you don't start with the heaviest weight you can find, you start small and work your way up.
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (a day later)
 >> 
 >> Practice makes perfect.
->> That's *one* important rule. Other thing that might speed up your writing speed include not needing to fact-check, having a large vocabulary, and really knowing your grammar rules.
 >> 
+>> That's *one* important rule. Other thing that might speed up your writing speed include not needing to fact-check, having a large vocabulary, and really knowing your grammar rules.
 
->> **u/LazarusRises** [+1] *
+>> **u/LazarusRises** [+1]  (2 days later)
 >> 
 >> I can tell you one thing, the guy who writes PGtE doesn't do much editing.
->> 
 
->> **u/Asviloka** [+1] *
+>> **u/Asviloka** [+1]  (8 hours later)
 >> 
 >> Deadlines and commitments. The most powerful motivational force I've yet encountered.
->> 
 
->>> **u/ironistkraken** [+2] *
+>>> **u/ironistkraken** [+2]  (11 hours later)
 >>> 
 >>> For certain people it works really well, but there are others that once they miss a deadline there motivation drops like a tank.
->>> 
 
->>>> **u/Asviloka** [+2] *
+>>>> **u/Asviloka** [+2]  (12 hours later)
 >>>> 
 >>>> Obviously there is no universal system, no one 'right' way. Try it, if it doesn't work don't get hung up on it, move on and try something else until you figure out what does work for you. 
->>>> That said, I strongly suspect that those mentioned in the query, who are putting out regular chapters and high wordcounts, either instinctively can or have trained themselves to make a deadline and do so again and again. Not to say there isn't one, but I personally don't see another answer to 'how do these people do this thing'.
 >>>> 
+>>>> That said, I strongly suspect that those mentioned in the query, who are putting out regular chapters and high wordcounts, either instinctively can or have trained themselves to make a deadline and do so again and again. Not to say there isn't one, but I personally don't see another answer to 'how do these people do this thing'.
 
->>>>> **u/ironistkraken** [+1] *
+>>>>> **u/ironistkraken** [+1]  (12 hours later)
 >>>>> 
 >>>>> Your right.
->>>>> 
 
-> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+> **u/MagicWeasel** [+3]  *Cheela Astronaut* (11 hours later)
 > 
 > Random "rationality" question:
-> One of the biggest complaints about the medical accuracy of *House* was that all the doctors there seemed to be specialists in everything, running all the tests themselves, when they aren't actually established to be experts on that. 
-> A rational story would have to honour that sort of thing, right? Like having doctors go to specialists for tests, having a real estate lawyer not doing murder defenses and a patent lawyer not doing copyright law, and whatever other professions that we chunk all the tiny little specialisations into one big general "X"
-> I ask because having one lawyer who does all the law in the story is a really, really handy cop-out, but I know it's actually terrible, and, IDK, I guess I am kind of fishing for "of course you can create an unrealistic world where one lawyer without even a paralegal can handle every kind of law problem there is", which I've already talked myself out of.
-> So, more general question: to avoid falling foul of this trope: what professions, like "doctor" or "lawyer", do people assume are polyvalent when really they have narrow specialties and would be relatively lost if they went outside it?
 > 
+> One of the biggest complaints about the medical accuracy of *House* was that all the doctors there seemed to be specialists in everything, running all the tests themselves, when they aren't actually established to be experts on that. 
+> 
+> A rational story would have to honour that sort of thing, right? Like having doctors go to specialists for tests, having a real estate lawyer not doing murder defenses and a patent lawyer not doing copyright law, and whatever other professions that we chunk all the tiny little specialisations into one big general "X"
+> 
+> I ask because having one lawyer who does all the law in the story is a really, really handy cop-out, but I know it's actually terrible, and, IDK, I guess I am kind of fishing for "of course you can create an unrealistic world where one lawyer without even a paralegal can handle every kind of law problem there is", which I've already talked myself out of.
+> 
+> So, more general question: to avoid falling foul of this trope: what professions, like "doctor" or "lawyer", do people assume are polyvalent when really they have narrow specialties and would be relatively lost if they went outside it?
 
->> **u/CCC_037** [+6] *
+>> **u/CCC_037** [+6]  (a day later)
 >> 
 >> Scientists. Scientists are well-known for being omnidisciplary in fiction.
->> 
 
->> **u/ironistkraken** [+4] *
+>> **u/ironistkraken** [+4]  (23 hours later)
 >> 
 >> Deffinently engineers.  Like a civil engineer probably knows a bit of chemistry because they need to be able to study materials, but it is not the same as being a chemical engineer.  So often you can see these engineers who are not only interested in all areas of engineering but also able to do more complicated work in different fields.
->> 
 
->> **u/sicutumbo** [+5] *
+>> **u/sicutumbo** [+5]  (a day later)
 >> 
 >> You could subdivide it a lot. If someone is truly a specialist in their field, and notable for being a specialist, they may be really good at their one thing and the things surrounding that, but not have actually used any related fields since they learned them in college. Someone with a specialty in mechanical engineering may have only half remembered knowledge of how to build an engine because they actually specialize in the mechanical engineering part of materials science, or something like that. A chemist might remember almost nothing about inorganic chemistry because they exclusively work with polymers, and have for the past 20 years.
->> Though aside from that, the association between computer scientists and hackers is somewhat extreme. "Oh yeah I'm a world renowned expert in artificial intelligence, but I am also an expert in computer security, despite those two things having little to do with each other, and my job doesn't relate to security in any way".
->> If you wanted to have the narrative convenience of a lawyer who knows everything about law without making them unrealistic, you could say that their job in the hospital is to specialize in one thing, but they should have a cursory knowledge of other fields of law, and one of their primary roles is to act as an intermediary between the doctors and whatever legal specialist they actually need. It would require some change, but I think it would be minor overall. A lot of "I had the same question last night when I was talking to X specialist, here's what they said:"
 >> 
+>> Though aside from that, the association between computer scientists and hackers is somewhat extreme. "Oh yeah I'm a world renowned expert in artificial intelligence, but I am also an expert in computer security, despite those two things having little to do with each other, and my job doesn't relate to security in any way".
+>> 
+>> If you wanted to have the narrative convenience of a lawyer who knows everything about law without making them unrealistic, you could say that their job in the hospital is to specialize in one thing, but they should have a cursory knowledge of other fields of law, and one of their primary roles is to act as an intermediary between the doctors and whatever legal specialist they actually need. It would require some change, but I think it would be minor overall. A lot of "I had the same question last night when I was talking to X specialist, here's what they said:"
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (a day later)
 >>> 
 >>> I love the idea of having people lean on other specialists like you're saying: it makes sense especially since you have a professional network, especially if you're already a really top level person (and there's no trouble with writing about the top level people. I remember my husband was watching Stargate with me and he's like "why is Carter both a world-level astrophysicist and an amazing marksman/soldier, that's so unrealistic" and I'm like "dude I'm sure there's probably one person like that in the world today and you can bet an astrophysicist/soldier would be headhunted by the Stargate program in a hot minute").
->>> 
 
-> **u/ironistkraken** [+1] *
+> **u/ironistkraken** [+1]  (2 hours later)
 > 
 > If someone was trying to make a hard magic system based on components with all the useable components already found (48 slots), how specific should each component be?
-> 
 
->> **u/Norseman2** [+2] *
+>> **u/Norseman2** [+2]  (2 hours later)
 >> 
 >> What do you mean by 'components'? In D&D and Pathfinder there's 'material components' like bat guano, owl feathers, etc. You could also be referring to an extended array of classical 'elements', like fire, water, earth, air, void, life, death, light, dark, etc. It's also possible you're referring to various domains of magic, like enchantment, abjuration, necromancy, divination, evocation, transmutation, conjuration, etc.
->> 
 
->>> **u/ironistkraken** [+1] *
+>>> **u/ironistkraken** [+1]  (3 hours later)
 >>> 
 >>> Was thinking bat guano type of component.  The magic-user has 48 components they can use. The use of those in order (with repetition of components allowed) creates magical effects.   What I am asking is what should the slots be.  I have some ideas on how some of the slots should be used, but I am just trying to get inspired.  The only things I for sure about is that I want to limit elemental components to air, water, fire, earth (and arcane if the element in the spell is not specified), and origin of effect (form caster, form components, into the caster, and coating caster).  
-
->>> Note that the magic system was designed by a god, so its following more of an intelligent design type of thing.
 >>> 
+>>> Note that the magic system was designed by a god, so its following more of an intelligent design type of thing.
 
->>>> **u/Norseman2** [+2] *
+>>>> **u/Norseman2** [+2]  (4 hours later)
 >>>> 
 >>>> Presumably, you'd want to have variations in difficulty of acquiring the components in order to have some low-power spells which can be cast carelessly, alongside other high-power spells that can only be cast very rarely (using dragon's teeth, unicorn horns, etc.) Variations in the quantity of the components required could also be used to help balance usage of similar spells within approximately the same power class.
->>>> Any particular reason for using exactly 48 components? Presumably, that specific number will have something to do with what the components are.
 >>>> 
+>>>> Any particular reason for using exactly 48 components? Presumably, that specific number will have something to do with what the components are.
 
->>>>> **u/ironistkraken** [+1] *
+>>>>> **u/ironistkraken** [+1]  (6 hours later)
 >>>>> 
 >>>>> No particular reason I just wanted to be able to have a smaller number so that I could easily reference and explain what all the components do.
->>>>> 
 
->>>>>> **u/None** [+5] *
+>>>>>> **u/None** [+4]  (13 hours later)
 >>>>>> 
 >>>>>> 48 isn’t really on the smaller side unless you’re going to break it up into a few simple groups. Like, 4 tiers of 10 items, with each tier being identical in effect but generally more powerful and/or rare, with exceptions. And then 8 special items that maybe don’t behave much like anything else. Otherwise, 48 is an overwhelming amount of unique items/effects to remember.
->>>>>> 
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (a day later)
 >> 
 >> For a designed system, you can easily arrange magic that relies on only *two* components and get an infinite number of spells. Just arrange them in a pattern taken from the binary representation of the ASCII text naming the spell...
->> So, the number of components does not limit the number of potential spells that the system can handle. (More components just makes individual spells shorter).
 >> 
+>> So, the number of components does not limit the number of potential spells that the system can handle. (More components just makes individual spells shorter).
 
 ---
 

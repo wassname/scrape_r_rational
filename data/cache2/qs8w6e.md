@@ -40,61 +40,51 @@ EDIT: Looks like [Eliezer Yudkowsky enjoyed it as well](https://old.reddit.com/r
 
 ### Comments:
 
-> **u/N0m_N0m** [+12] *
+> **u/N0m_N0m** [+11]  (39 minutes later)
 > 
 > I'm happy to see that you enjoy it! a word of warning however that the level of quality writing is not maintained throughout the rest of the source material (the manga the anime is adapting). while the downward spiral is quite a ways off from being animated, it is best to ready yourself for it so you don't expect everything to coalesce together into an amazing ending because it just... doesn't
-> 
 
->> **u/Tenoke** [+10]  *Even the fuckin' trees walked in those movies**
+>> **u/Tenoke** [+11]  *Even the fuckin' trees walked in those movies* (5 hours later)
 >> 
 >> Season 1 is likely the best anime I've seen in years (I don't watch that many) while Season 2 is the worst anime I've actually finished in years.
->> 
 
->> **u/Revlar** [+4] *
+>> **u/Revlar** [+5]  (2 hours later)
 >> 
 >> Season 2 of the anime is an anime original plot that compresses much of the rest of the manga. It disappointed pretty much everyone, even though the source material is very flawed.
->> 
 
->> **u/EsquilaxM** [+1] *
+>> **u/EsquilaxM** [+1]  (an hour later)
 >> 
 >> Season 2 isn't the end?.I've not seen it yet, was waiting for it to finish and get some free time.
->> 
 
->>> **u/JusticeBeak** [+6] *
+>>> **u/JusticeBeak** [+5]  (7 hours later)
 >>> 
 >>> It is the end, which is bad, because it covers something like six season's worth of material and does tons of trimming, skipping, and weird changes to keep that breakneck pace. I have no idea what the person you replied to was talking about.
->>> 
 
->>>> **u/N0m_N0m** [+2] *
+>>>> **u/N0m_N0m** [+2]  (8 hours later)
 >>>> 
 >>>> I'm sorry, I watched season 1 when it came out and was so hyped about it I immediately went to read the manga. I didn't realize that the second season had actually come out
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (9 days later)
 >>>>> 
 >>>>> That's honestly best for you. The only good thing that can be said about the anime ending is that it makes the manga ending look like high literature by comparison.
->>>>> 
 
-> **u/Revlar** [+3] *
+> **u/Revlar** [+3]  (2 hours later)
 > 
 > The manga for the first arc has some better deliveries for the more dramatic moments. The anime really doesn't put the right emphasis when the characters make serious declarations.
-> 
 
-> **u/magictheblathering** [+3]  * The Gothamite 🦇 dot net **
+> **u/magictheblathering** [+3]  * The Gothamite 🦇 dot net * (a day later)
 > 
 > Watched the first season with my wife based on this recco, and it was excellent. Like really wonderful. 
-> I’m not an anime/manga guy, but damn this was 👨🏽‍🍳💋
 > 
+> I’m not an anime/manga guy, but damn this was 👨🏽‍🍳💋
 
-> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (8 days later)
 > 
 > It is indeed pretty enjoyable. Sadly,  as others have pointed out,  the manga doesn't keep up that quality (while still having an at least ok ending for me), and season 2 of the anime is so unbelievably awful some people would rather pretend it doesn't exist.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (10 hours later)
 > 
 > You should pick up the manga.
-> 
 
 ---
 

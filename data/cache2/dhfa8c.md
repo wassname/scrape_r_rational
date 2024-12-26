@@ -16,32 +16,29 @@ For those of you just tuning in, PB is an unconventional deep-world fantasy seri
 
 ### Comments:
 
-> **u/WalterTFD** [+8] *
+> **u/WalterTFD** [+7]  (18 minutes later)
 > 
 > Thank you for posting this here.  I've started reading Pyrebound, I like it a lot.  Good worldbuilding, and a good yarn on top of that.
-> 
 
->> **u/Dent7777** [+4]  *House Atreides**
+>> **u/Dent7777** [+5]  *House Atreides* (18 hours later)
 >> 
 >> It's been ramping up now too!
->> 
 
-> **u/TrebarTilonai** [+2] *
+> **u/TrebarTilonai** [+2]  (a day later)
 > 
 > You mentioned in the comments that you had to split the chapter in half for size reasons. What size requirements are you running into? Wildbow's works consistently hit much longer word counts and I'm pretty sure he runs on wordpress as well.
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+4]  (a day later)
 >> 
 >> This is mostly an authorial-neurosis limitation; I like to keep the updates roughly equivalent in size, and having 9.1 include the material of 9.2 as well would make the update more than ten manuscript pages.  I say mostly because there's also an element of courtesy here--I don't want to go too long without a hard stopping point, as a boon to readers with limited reading time.  It's aggravating having to find your place again.  So each update is about five to seven pages as the LibreOffice flies.
->> A lot of PB's structure is dictated by my idiosyncratic sense of what feels right, which is why every chapter/arc is exactly five updates.  With the lone exception of 8.1 (which is an oddball and wouldn't have fit anywhere) it's worked out pretty neatly thus far, each set of five comprising a pretty clear stage in Ram's life, or at least of a series of related events.
->> If I'd tried to write longer updates, I'd have run out of backlog long ago anyway.  I'm in school now, plus work, family, and religious obligations, so I'm burning through fat pretty quickly.  Crossing my fingers that I'll be able to keep up until December break.
 >> 
+>> A lot of PB's structure is dictated by my idiosyncratic sense of what feels right, which is why every chapter/arc is exactly five updates.  With the lone exception of 8.1 (which is an oddball and wouldn't have fit anywhere) it's worked out pretty neatly thus far, each set of five comprising a pretty clear stage in Ram's life, or at least of a series of related events.
+>> 
+>> If I'd tried to write longer updates, I'd have run out of backlog long ago anyway.  I'm in school now, plus work, family, and religious obligations, so I'm burning through fat pretty quickly.  Crossing my fingers that I'll be able to keep up until December break.
 
->>> **u/TrebarTilonai** [+3] *
+>>> **u/TrebarTilonai** [+3]  (a day later)
 >>> 
 >>> Fair enough. I have no problem with authorial choice for sizing; lord knows we've had odder constraints (UNSONG, anyone?). If it was just a technical limitation I was suggesting there was a way around it, but authorial aesthetic is fine :)
->>> 
 
 ---
 

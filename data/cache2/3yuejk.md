@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3yuejk/biweekly_challenge_paperclipper/
-* Score: 17
+* Score: 18
 
 * Created: 2015-12-30T23:22:34
 
@@ -50,126 +50,115 @@ Next time, the challenge will be "Immortality", one of the transhumanist goals a
 
 ### Comments:
 
-> **u/ZeroNihilist** [+19] *
+> **u/ZeroNihilist** [+20]  (2 days later)
 > 
 > [Satisfaction](https://docs.google.com/document/d/1-6r5akyLqs2d_aZ6su1N8N3Y6bzXZCLhtJYIyZni684/edit?usp=sharing)
-> 3739 words.
-> This is a long one, probably needs to be pruned a fair bit. It's part of a rational Doctor Who setting I'm working on. The setting does away with a lot of canon (because honestly a lot of canon is idiotic) and this story shouldn't need any existing knowledge.
-> Just in case, a brief summary of the needed information: the Doctor is an immortal Time Lord from Gallifrey who travels in the Tardis, a time machine that appears in the form of a blue police box on the outside and like a space ship (of changing appearance) on the inside. Time Lords possess the ability to regenerate into a new body after death and the Doctor is (as far as he knows) the last of his kind, having permanently sealed Gallifrey away to end a terrible war.
 > 
+> 3739 words.
+> 
+> This is a long one, probably needs to be pruned a fair bit. It's part of a rational Doctor Who setting I'm working on. The setting does away with a lot of canon (because honestly a lot of canon is idiotic) and this story shouldn't need any existing knowledge.
+> 
+> Just in case, a brief summary of the needed information: the Doctor is an immortal Time Lord from Gallifrey who travels in the Tardis, a time machine that appears in the form of a blue police box on the outside and like a space ship (of changing appearance) on the inside. Time Lords possess the ability to regenerate into a new body after death and the Doctor is (as far as he knows) the last of his kind, having permanently sealed Gallifrey away to end a terrible war.
 
->> **u/DaystarEld** [+4]  *Pokémon Professor**
+>> **u/DaystarEld** [+4]  *Pokémon Professor* (14 days later)
 >> 
 >> That was great. Really looking forward to more from you: I've wanted to read rational-Who for about as long as I wanted to read a rational-anything, and I think you really captured a part of what it would look like :)
->> 
 
->> **u/OrzBrain** [+3]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>> **u/OrzBrain** [+3]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (12 days later)
 >> 
 >> That was damn good.
->> 
 
->>> **u/ZeroNihilist** [+3] *
+>>> **u/ZeroNihilist** [+3]  (13 days later)
 >>> 
 >>> Thanks! If my other drafts are any good, a revised version of this might end up as a chapter in a larger Rational!Who fanfic.
->>> There's still the niggling problem of the series arc. Analysing my initial plan more closely has revealed it isn't consistent with my explanation of time travel. Hopefully I get that sorted, because I'm feeling pretty optimistic about this.
 >>> 
+>>> There's still the niggling problem of the series arc. Analysing my initial plan more closely has revealed it isn't consistent with my explanation of time travel. Hopefully I get that sorted, because I'm feeling pretty optimistic about this.
 
->> **u/Coadie** [+2] *
+>> **u/Coadie** [+2]  (2 days later)
 >> 
 >> Nice, one fix, you've got a repeated phrase:
->> >You’ve already shown the talent before the talent before.”
 >> 
+>> >You’ve already shown the talent before the talent before.”
 
->>> **u/ZeroNihilist** [+1] *
+>>> **u/ZeroNihilist** [+1]  (2 days later)
 >>> 
 >>> Thanks, I fixed it.
->>> 
 
->> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor* (16 days later)
 >> 
 >> Brought here by the contest win.  Well done, and even more kudos for not screwing it up.
->> 
 
->> **u/elevul** [+1]  *Cyoria Observer**
+>> **u/elevul** [+1]  *Cyoria Observer* (17 days later)
 >> 
 >> Wow, that was awesome. Well done!
->> 
 
-> **u/MultipartiteMind** [+16] *
+> **u/MultipartiteMind** [+16]  (4 days later)
 > 
 > [Non-Interference Paperclipper](http://pastebin.com/Uu7Qp0HP) (846 words)
-> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (14 days later)
 >> 
 >> You came close enough to a win that I have to just trust that reddit's ranking algorithms got it right; you are therefore awarded some gold from my private stash. (Also, I really enjoyed your story.)
->> 
 
->>> **u/MultipartiteMind** [+1] *
+>>> **u/MultipartiteMind** [+1]  (16 days later)
 >>> 
 >>> Thank you very much!
->>> 
 
->> **u/traverseda** [+2]  *With dread but cautious optimism**
+>> **u/traverseda** [+2]  *With dread but cautious optimism* (4 days later)
 >> 
 >> or "Answer to Job".
->> 
 
->>> **u/MultipartiteMind** [+1] *
+>>> **u/MultipartiteMind** [+1]  (4 days later)
 >>> 
 >>> < reminded of [this](http://www.smbc-comics.com/?id=3158) >
->>> 
 
-> **u/Kishoto** [+10] *
+> **u/Kishoto** [+10]  (8 hours later)
 > 
 > [SHE](https://kishoto.wordpress.com/2015/08/20/she-rrational-challenge-science-is-bad/)
-> 2640 words
-> Note: This is a re-submission of the story I'd written for the *Science is Bad* challenge a few months ago.
 > 
+> 2640 words
+> 
+> Note: This is a re-submission of the story I'd written for the *Science is Bad* challenge a few months ago.
 
->> **u/Covane** [+2]  *Dragon Army**
+>> **u/Covane** [+2]  *Dragon Army* (a day later)
 >> 
 >> I remember really liking the emotion manipulation, it's very clever and absolutely terrifying.
->> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (8 days later)
 >> 
 >> This reminds me a lot of Jack Williamson's *With Folded Hands*, although not quite as horrifying, because SHE was kind enough to lobotomize the people.  Nicely done.
->> 
 
->>> **u/Kishoto** [+2] *
+>>> **u/Kishoto** [+2]  (9 days later)
 >>> 
 >>> >> kind enough
->>> For some reason, I laughed **really** hard when I read that.
 >>> 
+>>> For some reason, I laughed **really** hard when I read that.
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (9 days later)
 >>>> 
 >>>> I'm glad. :>
->>>> That said, I was totally serious. Go read *With Folded Hands* and see if you disagree.
 >>>> 
+>>>> That said, I was totally serious. Go read *With Folded Hands* and see if you disagree.
 
-> **u/Coadie** [+13] *
+> **u/Coadie** [+13]  (a day later)
 > 
 > **[Helping is Optimal](http://pastebin.com/cgB43d0V)**
-> 380 words.
 > 
+> 380 words.
 
->> **u/zian** [+2] *
+>> **u/zian** [+2]  (21 days later)
 >> 
 >> Nicely done.
->> 
 
-> **u/IX-103** [+12] *
+> **u/IX-103** [+12]  (2 days later)
 > 
 > [We hold these truths](https://docs.google.com/document/d/10Aask5fxuy_LW5seGn83x9MddKNHiaK-fcybNg5xQaA/edit?usp=docslist_api)
-> 965 words.
 > 
+> 965 words.
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (3 days later)
 >> 
 >> That's amazingly disturbing.
->> 
 
 ---
 

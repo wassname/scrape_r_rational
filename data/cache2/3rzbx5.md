@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://www.reddit.com/r/rational/comments/3rzbx5/peter_watts_rifters_trilogy_exemplifies_rat_fic/
-* Score: 30
+* Score: 29
 
 * Created: 2015-11-08T06:29:55
 
@@ -32,33 +32,37 @@ In summary, I recommend Peter Watts' Rifters Trilogy not just as a good piece of
 
 ### Comments:
 
-> **u/psychothumbs** [+12] *
+> **u/psychothumbs** [+12]  (7 hours later)
 > 
 > Rifters is a great series! I remember I read the first one after randomly checking out of my local library as a kid, and I think got my hands on the second as well, before getting confused and distracted and never finishing the series. More recently, and as a more conscious Peter Watts fan I read all three and am glad I did.
-> I highly recommend anybody thinking about trying Watts out give a listen to [this faux-evil-corporate presentation he did about domesticating vampires to use their abilities to our advantage.](http://www.rifters.com/blindsight/vampires.htm)
-> It's about 20 minutes long, and I think it's great. If you agree, Peter Watts is the author for you should check out the novel that the above ties in with, available free online: [Blindsight](http://www.rifters.com/real/Blindsight.htm)
 > 
+> I highly recommend anybody thinking about trying Watts out give a listen to [this faux-evil-corporate presentation he did about domesticating vampires to use their abilities to our advantage.](http://www.rifters.com/blindsight/vampires.htm)
+> 
+> It's about 20 minutes long, and I think it's great. If you agree, Peter Watts is the author for you should check out the novel that the above ties in with, available free online: [Blindsight](http://www.rifters.com/real/Blindsight.htm)
 
-> **u/OutOfNiceUsernames** [+5]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+3]  *fear of last pages* (8 hours later)
 > 
 > Sounds like something that would make me very frustrated because of its closeness to [Poor Communication Kills](http://tvtropes.org/pmwiki/pmwiki.php/Main/PoorCommunicationKills) and  [Cassandra Truth.]( http://tvtropes.org/pmwiki/pmwiki.php/Main/CassandraTruth) I am not saying that the characters’ actions wouldn’t be justified, just... I’d quickly become a nervous wreck reading about them.
-> 
 
-> **u/Transfuturist** [+3]  *Carthago delenda est.**
+> **u/Transfuturist** [+3]  *Carthago delenda est.* (12 hours later)
 > 
 > You spoiled Starfish...
-> *notices spoiler tag*
-> Oh, never mind.
-> Anyway, I would say their values are at odds. You think that upon the situation being explained to them, the Rifters would just agree that they had to die?
 > 
+> *notices spoiler tag*
+> 
+> Oh, never mind.
+> 
+> Anyway, I would say their values are at odds. You think that upon the situation being explained to them, the Rifters would just agree that they had to die?
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (a day later)
 >> 
 >> Most of the characters, not all of them. For example, the whole situation with Achilles in *Behemoth* would never have happened if Alice had just trusted the corpses, or at least Rowan. 
->> And if the team responsible for training the smart-gel in *Starfish* had been let in on its purpose, then they might have foreseen the problems before Yves Scanlon did. 
->> The rifters themselves may have gotten pissed at being sacrificed for the greater good, but then again, the reason that they had to be sacrificed was because they couldn't be trusted to react well. Ken Lubin and others were cleansed of Behemoth, so that could have been done if the Grid Authority had felt that was a safe course of action. 
->> At the very least being upfront about it might have had an effect on the whole Meltdown Madonna thing. Clarke was pissed at the beginning because she misunderstood the GA's motives. She got pissed about other things, granted, but she only found out about them because she was already on the warpath.
 >> 
+>> And if the team responsible for training the smart-gel in *Starfish* had been let in on its purpose, then they might have foreseen the problems before Yves Scanlon did. 
+>> 
+>> The rifters themselves may have gotten pissed at being sacrificed for the greater good, but then again, the reason that they had to be sacrificed was because they couldn't be trusted to react well. Ken Lubin and others were cleansed of Behemoth, so that could have been done if the Grid Authority had felt that was a safe course of action. 
+>> 
+>> At the very least being upfront about it might have had an effect on the whole Meltdown Madonna thing. Clarke was pissed at the beginning because she misunderstood the GA's motives. She got pissed about other things, granted, but she only found out about them because she was already on the warpath.
 
 ---
 

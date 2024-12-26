@@ -12,230 +12,251 @@
 
 ### Comments:
 
-> **u/None** [+53] *
+> **u/None** [+55]  (14 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/Iconochasm** [+23] *
+>> **u/Iconochasm** [+22]  (an hour later)
 >> 
 >> Seventh Horcrux might be one of the funniest things I've ever read.  It has virtually no "laugh lines", but I keep finding myself wanting to quote entire, multi-page chapters.
->> 
 
->> **u/DaystarEld** [+7]  *Pokémon Professor**
+>> **u/DaystarEld** [+9]  *Pokémon Professor* (41 minutes later)
 >> 
 >> I should probably pick that story back up. I enjoyed it, got about to the end of the 4th book, but felt like it was losing its charm as it was basically the same gag gone overly long. When I finish some of my current reading list though it's probably worth finishing :)
->> 
 
-> **u/None** [+10] *
+> **u/None** [+10]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/trekie140** [+7] *
+>> **u/trekie140** [+6]  (15 hours later)
 >> 
 >> I'm not really a fan of these books, the pacing is just too slow for me even if there are bunch of great scenes, but the scene where Jasnah explains her reasons for believing what she does is fantastic. It's especially remarkable considering that Sanderson is a practicing Mormon.
->> This isn't even the first time he talked about religion in his books while preaching against his own faith. Mistborn has a fantastic character arc for the theological scholar Sazed having a crisis of faith, and The Path in the Alloy of Law is essentially Buddhism.
 >> 
+>> This isn't even the first time he talked about religion in his books while preaching against his own faith. Mistborn has a fantastic character arc for the theological scholar Sazed having a crisis of faith, and The Path in the Alloy of Law is essentially Buddhism.
 
->>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>> **u/DaystarEld** [+5]  *Pokémon Professor* (a day later)
 >>> 
 >>> > It's especially remarkable considering that Sanderson is a practicing Mormon.
->>> Wait, what? Really?
->>> This... explains so much about what I disliked about the Mistborn trilogy. Huh.
->>> >This isn't even the first time he talked about religion in his books while preaching against his own faith. Mistborn has a fantastic character arc for the theological scholar Sazed having a crisis of faith, and The Path in the Alloy of Law is essentially Buddhism.
->>> Ehh. As someone who went through my own crisis of faith and went from theist to deist to agnostic to atheist over the space of about 10 years, Sazed's character was at times fantastically done, and at other times a walking caricature of Skepticism. I saw his flip back to religious belief coming miles away.
 >>> 
+>>> Wait, what? Really?
+>>> 
+>>> This... explains so much about what I disliked about the Mistborn trilogy. Huh.
+>>> 
+>>> >This isn't even the first time he talked about religion in his books while preaching against his own faith. Mistborn has a fantastic character arc for the theological scholar Sazed having a crisis of faith, and The Path in the Alloy of Law is essentially Buddhism.
+>>> 
+>>> Ehh. As someone who went through my own crisis of faith and went from theist to deist to agnostic to atheist over the space of about 10 years, Sazed's character was at times fantastically done, and at other times a walking caricature of Skepticism. I saw his flip back to religious belief coming miles away.
 
->>>> **u/trekie140** [+1] *
+>>>> **u/trekie140** [+1]  (a day later)
 >>>> 
 >>>> Aside from Sazed, who treated theology as an academic subject, religion didn't seem to play a significant role in the story so I'm curious how Sanderson's faith could've bothered you. No other character had motivations related to religion, and when actual gods started playing a role in the story they were treated as lovecraftian monsters manipulating humans.
->>>> I REALLY liked Sazed's character arc because I've had similar, if far less dramatic, crises of faith in my past and it seemed like a natural progression for him to end up where he did. I didn't notice any misrepresentation of religious skepticism or an unfair defense of theism as anything other than what it is.
->>>> One of the main tenants of The Path, which Sazed founded, was that worshiping God was a waste of time and people should focus more on studying philosophy, introspection, and fulfilling their moral values. As a spiritualist, this naturally appealed to me but I fail to see any reason why it would turn atheists off.
 >>>> 
+>>>> I REALLY liked Sazed's character arc because I've had similar, if far less dramatic, crises of faith in my past and it seemed like a natural progression for him to end up where he did. I didn't notice any misrepresentation of religious skepticism or an unfair defense of theism as anything other than what it is.
+>>>> 
+>>>> One of the main tenants of The Path, which Sazed founded, was that worshiping God was a waste of time and people should focus more on studying philosophy, introspection, and fulfilling their moral values. As a spiritualist, this naturally appealed to me but I fail to see any reason why it would turn atheists off.
 
->>>>> **u/DaystarEld** [+4]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+5]  *Pokémon Professor* (a day later)
 >>>>> 
 >>>>> It's hard to explain this without digging out my copy of the book and quoting exact phrases, because I read it years ago, but I'll try from memory. 
->>>>> Overall, there's a certain flavor of skepticism that distinguishes it as "rational skepticism" rather than "token skepticism."
->>>>> Sazed's was the latter. He kept coming up with good arguments for bad reasons, so that when the circumstances changed, his arguments fell apart. His motivations were emotional, not logical, which is fine as a starting point, but never evolved past it. Which means the author can lead him toward a moment of "enlightenment" that made all the previous arguments immaterial.
->>>>> I liked The Path just fine. It was a great spiritual philosophy to have. 
->>>>> But when you start there, and then shift to a "Hey, god actually exists and influences the world," it makes the whole thing ring hollow. It didn't help that when the godlike powers showed up, they completely undercut the impact of what happened, and now we know that there's a heaven and all the good people who died are happily living in eternal bliss and don't worry, nothing bad is going to happen now because an omniscient and benevolent and all powerful entity exists. 
->>>>> It's basically the kind of story someone who DOES believe in God and theistic values would write, and while it's admirable to try and include other philosophies in it, they end up not really working when one's personal beliefs end up being the true ones.
->>>>> Orson Scott Card's early books did a fantastic job of avoiding this.  He had religious believers, and he had atheists, and he had characters whose religious beliefs just never came up and none of their beliefs ever really mattered or came out as correct or incorrect.
 >>>>> 
+>>>>> Overall, there's a certain flavor of skepticism that distinguishes it as "rational skepticism" rather than "token skepticism."
+>>>>> 
+>>>>> Sazed's was the latter. He kept coming up with good arguments for bad reasons, so that when the circumstances changed, his arguments fell apart. His motivations were emotional, not logical, which is fine as a starting point, but never evolved past it. Which means the author can lead him toward a moment of "enlightenment" that made all the previous arguments immaterial.
+>>>>> 
+>>>>> I liked The Path just fine. It was a great spiritual philosophy to have. 
+>>>>> 
+>>>>> But when you start there, and then shift to a "Hey, god actually exists and influences the world," it makes the whole thing ring hollow. It didn't help that when the godlike powers showed up, they completely undercut the impact of what happened, and now we know that there's a heaven and all the good people who died are happily living in eternal bliss and don't worry, nothing bad is going to happen now because an omniscient and benevolent and all powerful entity exists. 
+>>>>> 
+>>>>> It's basically the kind of story someone who DOES believe in God and theistic values would write, and while it's admirable to try and include other philosophies in it, they end up not really working when one's personal beliefs end up being the true ones.
+>>>>> 
+>>>>> Orson Scott Card's early books did a fantastic job of avoiding this.  He had religious believers, and he had atheists, and he had characters whose religious beliefs just never came up and none of their beliefs ever really mattered or came out as correct or incorrect.
 
->>>>>> **u/trekie140** [+1] *
+>>>>>> **u/trekie140** [+1]  (2 days later)
 >>>>>> 
 >>>>>> I think the situation is a bit different than you describe, since Sazed ended up becoming God and reshaping the world in a way that he thought a benevolent God should. You're completely right about his motivation, though, and I can see how that'd annoy you but resonate with me.
->>>>>> 
 
->>>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>>>> **u/Xtraordinaire** [+1]  *Team Glimglam* (2 days later)
 >>>> 
 >>>> Um, it you don't mind, could you expand a bit on Sazed's characterisation? Can you remember what felt out of place and what did not? I've finished main Mistborn books just recently and to me (a lifelong atheist) it seemed... strange. But I had the curse of knowledge about Sanderson (he is a redditor btw), so I'd appreciate your perspective.
->>>> 
 
->>>>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+4]  *Pokémon Professor* (2 days later)
 >>>>> 
 >>>>> I can try.
->>>>> So to start with, I came in with a bias. Not the atheist bias, but the "popular media is not atheistic" bias.  So my default expectation of anyone who comes off as a skeptic or agnostic is that they're going to either have a change of heart, be proven wrong, or generally just not affect any meaningful change in that sphere.  
->>>>> So at worst my expectation of skepticism in popular fiction is that it's an excuse to soapbox about the wrongness of skepticism, and at best it's just a characterization.
->>>>> Sazed, then, triggered a number of warning bells early on. First, he seemed to love religions to an unrealistic degree for someone who claimed not to believe in any of them.  This is explained somewhat by his setting, of course: if you're a historian in a world where religions have all been wiped out and oppressed by the autocratic ruler, then sure, I can see an anthropologist being fascinated by religion. And I don't mean to imply that you can't find an atheist in our world who enjoys learning about religions. Obviously many do.
->>>>> But to me a realistic character within those parameters is much less uniformly positive about religions, especially when describing them to other skeptics and atheists.  "I have a religion for you" or "What religion do you have for me?" is one of the things that he said or was asked often, if I recall correctly, and that notion, that people benefit from superstitious beliefs about the universe, is one that rubbed me the wrong way coming from someone who claimed to be a skeptic.
->>>>> Again, maybe it's explainable by his context. But that's part of why he didn't strike me as a "true skeptic," because skeptics in our world have experienced the negatives of religious belief first hand, and are much less optimistic and rosy about the notion of adopting religious beliefs or perspectives without actually believing in them.
->>>>> But it's been a few years so maybe my memory isn't doing the character justice. But that's at least one thing that I can recall rubbing me the wrong way.
 >>>>> 
+>>>>> So to start with, I came in with a bias. Not the atheist bias, but the "popular media is not atheistic" bias.  So my default expectation of anyone who comes off as a skeptic or agnostic is that they're going to either have a change of heart, be proven wrong, or generally just not affect any meaningful change in that sphere.  
+>>>>> 
+>>>>> So at worst my expectation of skepticism in popular fiction is that it's an excuse to soapbox about the wrongness of skepticism, and at best it's just a characterization.
+>>>>> 
+>>>>> Sazed, then, triggered a number of warning bells early on. First, he seemed to love religions to an unrealistic degree for someone who claimed not to believe in any of them.  This is explained somewhat by his setting, of course: if you're a historian in a world where religions have all been wiped out and oppressed by the autocratic ruler, then sure, I can see an anthropologist being fascinated by religion. And I don't mean to imply that you can't find an atheist in our world who enjoys learning about religions. Obviously many do.
+>>>>> 
+>>>>> But to me a realistic character within those parameters is much less uniformly positive about religions, especially when describing them to other skeptics and atheists.  "I have a religion for you" or "What religion do you have for me?" is one of the things that he said or was asked often, if I recall correctly, and that notion, that people benefit from superstitious beliefs about the universe, is one that rubbed me the wrong way coming from someone who claimed to be a skeptic.
+>>>>> 
+>>>>> Again, maybe it's explainable by his context. But that's part of why he didn't strike me as a "true skeptic," because skeptics in our world have experienced the negatives of religious belief first hand, and are much less optimistic and rosy about the notion of adopting religious beliefs or perspectives without actually believing in them.
+>>>>> 
+>>>>> But it's been a few years so maybe my memory isn't doing the character justice. But that's at least one thing that I can recall rubbing me the wrong way.
 
->>>>>> **u/Xtraordinaire** [+2]  *Team Glimglam**
+>>>>>> **u/Xtraordinaire** [+2]  *Team Glimglam* (3 days later)
 >>>>>> 
 >>>>>> Interesting, thanks for sharing.
->>>>>> To me that part was actually one of the least jarring. They all start in the world where faith is not required and not practiced. The existence of the Lord Ruler just could not be disputed, he was a real figure and the only superstition they encounter, fear of the mists, is disproved right away, since criminals have to go out at night. 
->>>>>> Sazed is a scholar that has been given a weird mission to preserve faith through preserving knowledge. Well of course he fails, of course he has no clue what he is doing. They are kind of like people that had to eat bland food all their lives and then Sazed reads them records of how spices taste and asks whether they like those spices or not. Not the best analogy but I felt like that, sort of Mary the super-scientist dilemma, but in regards to faith.
->>>>>> But what happened in the 3rd part was so... weird, especially that reviewing of recorded religions. The amount of purely epistemological faults was so overwhelming! Especially since it was a purely intellectual endeavor. I could understand if he latched onto some worldview that made him feel good, but he *clearly* rules out that bias and at the same time commits fallacy after fallacy after fallacy. I wonder how close is that to what actually happens in Sanderson's mind.
->>>>>> Related to "popular media is not atheistic" bias, have you read "His Dark Materials"?
 >>>>>> 
+>>>>>> To me that part was actually one of the least jarring. They all start in the world where faith is not required and not practiced. The existence of the Lord Ruler just could not be disputed, he was a real figure and the only superstition they encounter, fear of the mists, is disproved right away, since criminals have to go out at night. 
+>>>>>> 
+>>>>>> Sazed is a scholar that has been given a weird mission to preserve faith through preserving knowledge. Well of course he fails, of course he has no clue what he is doing. They are kind of like people that had to eat bland food all their lives and then Sazed reads them records of how spices taste and asks whether they like those spices or not. Not the best analogy but I felt like that, sort of Mary the super-scientist dilemma, but in regards to faith.
+>>>>>> 
+>>>>>> But what happened in the 3rd part was so... weird, especially that reviewing of recorded religions. The amount of purely epistemological faults was so overwhelming! Especially since it was a purely intellectual endeavor. I could understand if he latched onto some worldview that made him feel good, but he *clearly* rules out that bias and at the same time commits fallacy after fallacy after fallacy. I wonder how close is that to what actually happens in Sanderson's mind.
+>>>>>> 
+>>>>>> Related to "popular media is not atheistic" bias, have you read "His Dark Materials"?
 
->>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (3 days later)
 >>>>>>> 
 >>>>>>> >The amount of purely epistemological faults was so overwhelming! Especially since it was a purely intellectual endeavor. I could understand if he latched onto some worldview that made him feel good, but he clearly rules out that bias and at the same time commits fallacy after fallacy after fallacy. I wonder how close is that to what actually happens in Sanderson's mind.
->>>>>>> Yeah, this is what I meant by "He kept coming up with good arguments for bad reasons, so that when the circumstances changed, his arguments fell apart. His motivations were emotional, not logical, which is fine as a starting point, but never evolved past it." in my response to /u/trekie140. That third book was just full of frustration for me on a number of levels, and this clumsy heel-face-turn was one of them.
->>>>>>> >Related to "popular media is not atheistic" bias, have you read "His Dark Materials"?
->>>>>>> I have! One of my favorite trilogies, though it wasn't atheistic so much as anti-theistic :) I was going to recommend it at the end of our Multiverse podcast episode, but went with the Dark Tower instead. I'll probably talk about HDM at some point soon.
 >>>>>>> 
+>>>>>>> Yeah, this is what I meant by "He kept coming up with good arguments for bad reasons, so that when the circumstances changed, his arguments fell apart. His motivations were emotional, not logical, which is fine as a starting point, but never evolved past it." in my response to /u/trekie140. That third book was just full of frustration for me on a number of levels, and this clumsy heel-face-turn was one of them.
+>>>>>>> 
+>>>>>>> >Related to "popular media is not atheistic" bias, have you read "His Dark Materials"?
+>>>>>>> 
+>>>>>>> I have! One of my favorite trilogies, though it wasn't atheistic so much as anti-theistic :) I was going to recommend it at the end of our Multiverse podcast episode, but went with the Dark Tower instead. I'll probably talk about HDM at some point soon.
 
-> **u/DaystarEld** [+18]  *Pokémon Professor**
+> **u/DaystarEld** [+16]  *Pokémon Professor* (an hour later)
 > 
 > If I understand the question right, I'd say Ginny in *Ginny Weasley and the Sealed Intelligence* is a great example of this.
-> I very much enjoyed the story for the most part, and think it did a lot of unique and interesting things with the source material.  But Ginny herself was a heavily flawed rationalist for a number of reasons.
-> At risk of beating a dead horse (an obvious horse?) it was her religious beliefs that posed the biggest problem. Despite never getting any actual evidence for her beliefs, Ginny continues to defend them against shoddily constructed arguments by the other characters, and her responses are similarly full of holes. She learns just enough rationality to entrench herself deeper in her beliefs, as described in [How Biases Can Hurt People.](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
-> Of course it all turns out well for her because this particular character flaw was the result of an author tract, which is unfortunate, but it's important to remember that a rational character is only as "genuine" as the arguments around them. It's very easy to make someone seem smart when you surround them with strawmen.
-> Ginny also starts the story with many flaws and shortcomings that made her an interesting foil to the now-somewhat-traditional Rationalist Protagonist. She had some questionable morals. She's obsessive about her idols. She has all the pride of a "deep thinker" without any of the discipline.
-> Then, slowly but surely, she simply got better and better at everything. Not through actual, learnable skills or wisdom, which would be alright, but simply by narrative fiat. There was information being communicated, but not knowledge of what distinguishes rational epistemology from irrational epistemology.
-> Which was confusing, because it also seemed like the story itself was written to point out the flaws of stories with author tracts, specifically to counter the author tract of HPMOR. This is supported a bit by the scene where Harry starts to subvert the cult stereotype and parody the LessWrong community, but as the story went on and it just kept running with it, it seemed more and more like the writer had trouble distinguishing what actually made the author tract problematic, and simply disliked the flavor, substituting it with their own.
-> On top of all that, all the accusations of Harry being a Mary Sue in HPMOR (which I disagree with) apply much more to Ginny in GWSI.  By the end of the story, she's leagues ahead of Harry: not just the chosen one, ordained by prophecy to become the savior of the One True Religion, and by extension, all of humanity, but also able to utterly defeat him and deliver a This is Why You Suck browbeating.
-> Contrast that to Harry at the end of HPMOR: he's "chosen" by prophecy to destroy the universe as we know it, and if he's not super careful and super cautious and as rational as possible, he might just kill everyone. There's no similar Sword of Damocles hanging over Ginny's head by the end of GWSI: I have no reason to expect her to do anything other than becomes the new messiah to Wizardkind, and perhaps even all of humanity, with the lost magics she now has access to.
-> There was, however, an obvious mitigating factor for the story, that is also important to learn from: the author was on a deadline, and thus churned out chapters as fast as they could. The rate of the writing was, in all honesty, very impressive. The problem is that it seems, in this area, quality was very much sacrificed for quantity.
-> I'm not a perfect writer, and I know my readers are frustrated by how slow my chapters come out. Hell, I am too, and if I had a bit more free time and a bit more work ethic, I could probably publish faster than once a month. But a lot of that month is spent researching, poking holes in my ideas, taking the opposing view, and so on. If a writer skips all that and just goes for the low hanging fruit, they're going to have a hard time reconciling how rational they think their characters  are versus how rational they actually come off to others.
 > 
+> I very much enjoyed the story for the most part, and think it did a lot of unique and interesting things with the source material.  But Ginny herself was a heavily flawed rationalist for a number of reasons.
+> 
+> At risk of beating a dead horse (an obvious horse?) it was her religious beliefs that posed the biggest problem. Despite never getting any actual evidence for her beliefs, Ginny continues to defend them against shoddily constructed arguments by the other characters, and her responses are similarly full of holes. She learns just enough rationality to entrench herself deeper in her beliefs, as described in [How Biases Can Hurt People.](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
+> 
+> Of course it all turns out well for her because this particular character flaw was the result of an author tract, which is unfortunate, but it's important to remember that a rational character is only as "genuine" as the arguments around them. It's very easy to make someone seem smart when you surround them with strawmen.
+> 
+> Ginny also starts the story with many flaws and shortcomings that made her an interesting foil to the now-somewhat-traditional Rationalist Protagonist. She had some questionable morals. She's obsessive about her idols. She has all the pride of a "deep thinker" without any of the discipline.
+> 
+> Then, slowly but surely, she simply got better and better at everything. Not through actual, learnable skills or wisdom, which would be alright, but simply by narrative fiat. There was information being communicated, but not knowledge of what distinguishes rational epistemology from irrational epistemology.
+> 
+> Which was confusing, because it also seemed like the story itself was written to point out the flaws of stories with author tracts, specifically to counter the author tract of HPMOR. This is supported a bit by the scene where Harry starts to subvert the cult stereotype and parody the LessWrong community, but as the story went on and it just kept running with it, it seemed more and more like the writer had trouble distinguishing what actually made the author tract problematic, and simply disliked the flavor, substituting it with their own.
+> 
+> On top of all that, all the accusations of Harry being a Mary Sue in HPMOR (which I disagree with) apply much more to Ginny in GWSI.  By the end of the story, she's leagues ahead of Harry: not just the chosen one, ordained by prophecy to become the savior of the One True Religion, and by extension, all of humanity, but also able to utterly defeat him and deliver a This is Why You Suck browbeating.
+> 
+> Contrast that to Harry at the end of HPMOR: he's "chosen" by prophecy to destroy the universe as we know it, and if he's not super careful and super cautious and as rational as possible, he might just kill everyone. There's no similar Sword of Damocles hanging over Ginny's head by the end of GWSI: I have no reason to expect her to do anything other than becomes the new messiah to Wizardkind, and perhaps even all of humanity, with the lost magics she now has access to.
+> 
+> There was, however, an obvious mitigating factor for the story, that is also important to learn from: the author was on a deadline, and thus churned out chapters as fast as they could. The rate of the writing was, in all honesty, very impressive. The problem is that it seems, in this area, quality was very much sacrificed for quantity.
+> 
+> I'm not a perfect writer, and I know my readers are frustrated by how slow my chapters come out. Hell, I am too, and if I had a bit more free time and a bit more work ethic, I could probably publish faster than once a month. But a lot of that month is spent researching, poking holes in my ideas, taking the opposing view, and so on. If a writer skips all that and just goes for the low hanging fruit, they're going to have a hard time reconciling how rational they think their characters  are versus how rational they actually come off to others.
 
->> **u/buckykat** [+8] *
+>> **u/buckykat** [+8]  (an hour later)
 >> 
 >> Wait, that was an author tract *in favor of* irrationality? That gibbering nonsense was supposed to be taken seriously? Are you sure?
->> I thought the entire thing was supposed to read like some kind of Greek tragedy where the MC doesn't ever learn anything and ruins all their own chances.
 >> 
+>> I thought the entire thing was supposed to read like some kind of Greek tragedy where the MC doesn't ever learn anything and ruins all their own chances.
 
->>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>> **u/DaystarEld** [+5]  *Pokémon Professor* (an hour later)
 >>> 
 >>> I actually had a number of times while reading it where I wasn't sure it wasn't a crackfic or dark reflection, yeah. Especially when the dementor was revived with dark licorice :P
->>> But at the time when I read the ending monologue it seemed pretty clear that the tract was meant to be taken straight.
 >>> 
+>>> But at the time when I read the ending monologue it seemed pretty clear that the tract was meant to be taken straight.
 
->>>> **u/buckykat** [+4] *
+>>>> **u/buckykat** [+4]  (3 hours later)
 >>>> 
 >>>> Went and read the last chapter and epilogues again, and I think I see what you mean.
->>>> Dang though, that is a profound level of not getting it.
 >>>> 
+>>>> Dang though, that is a profound level of not getting it.
 
->> **u/LiteralHeadCannon** [+12] *
+>> **u/LiteralHeadCannon** [+13]  (an hour later)
 >> 
 >> I kept coming back to this thread hoping to find a recommendation/takedown of GWSI, and I've got to say, finding a *ten-paragraph* recommendation/takedown of GWSI was beyond my wildest hopes.
->> I'm curious if you read the epilogue I wrote and published a few months after the main story.  I ask because I wound up going for a martyr-fantasy bittersweet ending instead of the simpler wish fulfillment happy ending you seem to expect; it's still very much transparent author appeal wish fulfillment, but of a distinctly different type than you're implying.
->> In general I'd say your criticisms stand, though, and I accept them as lessons to learn from in the future.  I do hope people read GWSI both to take what's good from it and to appreciate its many flaws (as I think you're suggesting).  I hope to begin self-publishing better fiction, not written on such a tight deadline, sometime in Q1 2017.  :)
 >> 
+>> I'm curious if you read the epilogue I wrote and published a few months after the main story.  I ask because I wound up going for a martyr-fantasy bittersweet ending instead of the simpler wish fulfillment happy ending you seem to expect; it's still very much transparent author appeal wish fulfillment, but of a distinctly different type than you're implying.
+>> 
+>> In general I'd say your criticisms stand, though, and I accept them as lessons to learn from in the future.  I do hope people read GWSI both to take what's good from it and to appreciate its many flaws (as I think you're suggesting).  I hope to begin self-publishing better fiction, not written on such a tight deadline, sometime in Q1 2017.  :)
 
->>> **u/DaystarEld** [+6]  *Pokémon Professor**
+>>> **u/DaystarEld** [+5]  *Pokémon Professor* (an hour later)
 >>> 
 >>> > I'm curious if you read the epilogue I wrote and published a few months after the main story. I ask because I wound up going for a martyr-fantasy bittersweet ending instead of the simpler wish fulfillment happy ending you seem to expect; it's still very much transparent author appeal wish fulfillment, but of a distinctly different type than you're implying.
->>> I didn't even know it existed! I'll have to go back and read it soon, will let you know what I think when I get the chance.
->>> >I do hope people read GWSI both to take what's good from it and to appreciate its many flaws (as I think you're suggesting). 
->>> Definitely! As I said, it was very enjoyable, had a very unique feeling of creeping horror from the unreliability of the narration/memory charms, and contained a lot of cleverness :)
->>> >I hope to begin self-publishing better fiction, not written on such a tight deadline, sometime in Q1 2017.
->>> Neat! What's it going to be about?
 >>> 
+>>> I didn't even know it existed! I'll have to go back and read it soon, will let you know what I think when I get the chance.
+>>> 
+>>> >I do hope people read GWSI both to take what's good from it and to appreciate its many flaws (as I think you're suggesting). 
+>>> 
+>>> Definitely! As I said, it was very enjoyable, had a very unique feeling of creeping horror from the unreliability of the narration/memory charms, and contained a lot of cleverness :)
+>>> 
+>>> >I hope to begin self-publishing better fiction, not written on such a tight deadline, sometime in Q1 2017.
+>>> 
+>>> Neat! What's it going to be about?
 
->>>> **u/LiteralHeadCannon** [+10] *
+>>>> **u/LiteralHeadCannon** [+10]  (2 hours later)
 >>>> 
 >>>> Well, first off, it's definitely not rational fiction (neither written primarily with the rationalist community in mind nor written to minimize the number of cognitive mistakes characters make), though I've taken the lessons of rational fiction as general writing lessons.
->>>> But to actually try to pitch the series I'm writing, it was inspired by the early 2000s fundamentalist moral panic over Harry Potter.  I always thought it was ridiculous, both because the actual existence of Satanic magic is at best highly dubious and because Harry Potter is just one entry in the well-established literary tradition of fantasy magic that has generally been uncontroversial.  But eventually I got to thinking "huh, what would a YA contemporary fantasy series where magic is inherently evil actually look like", and decided it had a lot of potential.  Faustian bargains baked into the magic system, necessarily underpowered protagonists and necessarily overpowered antagonists, a deliberately black-and-white main conflict of which all subconflicts necessarily are grayer by various degrees.
->>>> To put it in Imp-from-Worm terms: so there's this Earth with no real parahumans, but two warring Simurghs, one named Fucko McSkullface and one named Bored Mike.  Fucko gives people temporary access to powers if they do her favors (which are usually bullshit and evil), and the results pretty much always suck for humanity.  No one's really sure if Bored Mike exists because he doesn't do supernatural shit very often, but he does exist and spends all his time tweaking shit behind the scenes to make Fucko's job harder (instead of, you know, **fucking killing her**).
 >>>> 
+>>>> But to actually try to pitch the series I'm writing, it was inspired by the early 2000s fundamentalist moral panic over Harry Potter.  I always thought it was ridiculous, both because the actual existence of Satanic magic is at best highly dubious and because Harry Potter is just one entry in the well-established literary tradition of fantasy magic that has generally been uncontroversial.  But eventually I got to thinking "huh, what would a YA contemporary fantasy series where magic is inherently evil actually look like", and decided it had a lot of potential.  Faustian bargains baked into the magic system, necessarily underpowered protagonists and necessarily overpowered antagonists, a deliberately black-and-white main conflict of which all subconflicts necessarily are grayer by various degrees.
+>>>> 
+>>>> To put it in Imp-from-Worm terms: so there's this Earth with no real parahumans, but two warring Simurghs, one named Fucko McSkullface and one named Bored Mike.  Fucko gives people temporary access to powers if they do her favors (which are usually bullshit and evil), and the results pretty much always suck for humanity.  No one's really sure if Bored Mike exists because he doesn't do supernatural shit very often, but he does exist and spends all his time tweaking shit behind the scenes to make Fucko's job harder (instead of, you know, **fucking killing her**).
 
->>>>> **u/DaystarEld** [+12]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+12]  *Pokémon Professor* (3 hours later)
 >>>>> 
 >>>>> Ha, that sounds pretty awesome. I've been writing a bit of my own "dark YA fantasy" on the side, though I'm still not quite sure where it'll end up going. I'm looking forward to yours!
->>>>> >But to actually try to pitch the series I'm writing, it was inspired by the early 2000s fundamentalist moral panic over Harry Potter.  I always thought it was ridiculous, both because the actual existence of Satanic magic is at best highly dubious and because Harry Potter is just one entry in the well-established literary tradition of fantasy magic that has generally been uncontroversial.
->>>>> Tell me about it. I had a client once whose mother refused to let him read Harry Potter books because she didn't want any of that "ungodly stuff" to "corrupt him."
->>>>> This was a mom that, in the same session, admitted to taking said 9 year old client to see the latest Texas Chainsaw Massacre film, and laughed over him crying from nightmares afterward, asking why he was scared since "none of it was real."
->>>>> Yeah. That one took a lot of willpower not to lose my professional calm :P
 >>>>> 
+>>>>> >But to actually try to pitch the series I'm writing, it was inspired by the early 2000s fundamentalist moral panic over Harry Potter.  I always thought it was ridiculous, both because the actual existence of Satanic magic is at best highly dubious and because Harry Potter is just one entry in the well-established literary tradition of fantasy magic that has generally been uncontroversial.
+>>>>> 
+>>>>> Tell me about it. I had a client once whose mother refused to let him read Harry Potter books because she didn't want any of that "ungodly stuff" to "corrupt him."
+>>>>> 
+>>>>> This was a mom that, in the same session, admitted to taking said 9 year old client to see the latest Texas Chainsaw Massacre film, and laughed over him crying from nightmares afterward, asking why he was scared since "none of it was real."
+>>>>> 
+>>>>> Yeah. That one took a lot of willpower not to lose my professional calm :P
 
->>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (9 hours later)
 >>>>>> 
 >>>>>> You have a better poker-face than I do friend. I would have stared at her and flatly said, "Get out of my office."
->>>>>> 
 
->>>>>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >>>>>>> 
 >>>>>>> It was tempting, but would hardly have helped the kid ;)
->>>>>>> 
 
-> **u/None** [+13] *
+> **u/None** [+12]  (47 minutes later)
 > 
 > So much literary fiction covers exactly this that it almost seems like more of a challenge to think of exceptions, so instead some genre examples:
-> *Sandman* (Wahhh, I can't put my life back together, wahhh), *Ender's Shadow* (Must be Spock must be Spock OH GOD POKE NO WHY must be Spock) *HPMOR* (Quirrell is so cool, he's totes my bro OH HEY WATCHA DOIN WITH THAT UNICORN), *Avatar: The Last Airbender* (I must avenge my HONOR!).
-> All do a good job of getting you in the head of and sympathizing with someone making terrible life choices.
 > 
+> *Sandman* (Wahhh, I can't put my life back together, wahhh), *Ender's Shadow* (Must be Spock must be Spock OH GOD POKE NO WHY must be Spock) *HPMOR* (Quirrell is so cool, he's totes my bro OH HEY WATCHA DOIN WITH THAT UNICORN), *Avatar: The Last Airbender* (I must avenge my HONOR!).
+> 
+> All do a good job of getting you in the head of and sympathizing with someone making terrible life choices.
 
->> **u/None** [+7] *
+>> **u/None** [+7]  (an hour later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Marted** [+2]  *I mourn my own death every day**
+>>> **u/Marted** [+2]  *I mourn my own death every day* (an hour later)
 >>> 
 >>> You might like [Fate/Stay Night](https://www.google.com/url?sa=t&source=web&rct=j&url=/amp/s/amp.reddit.com/r/fatestaynight/comments/2r1qvl/fatestay_night_vn_installation_guide/&ved=0ahUKEwiuueOT5p_QAhWI14MKHbl6AMQQFggaMAA&usg=AFQjCNECHnIHTjCHDyccrynQlztkIgli8Q&sig2=juTSxw_zNqRv0y-zuGpTjA). The main character is extremely irrational, but he's good at heart, and through the course of the story you come to empathize with him and understand why he feels like he *has* to act that way.
->>> 
 
-> **u/chaosmosis** [+7]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+6]  *and with strange aeons, even death may die* (4 hours later)
 > 
 > I recommended The Chronicles of Thomas Covenant once before here as a story about maladaptive thought patterns in human psychology.
-> 
 
-> **u/CarVac** [+7] *
+> **u/CarVac** [+8]  (2 hours later)
 > 
 > Tengen Toppa Gurren Lagann is... not rational in a lot of ways. But it's hard to get more fun than that show.
-> Stuff happens for the rule of cool, implausible is the rule rather than the exception, and they win through force of will rather than with their intelligence. Half of the characters are completely flat, but the main characters have surprising depth.
 > 
+> Stuff happens for the rule of cool, implausible is the rule rather than the exception, and they win through force of will rather than with their intelligence. Half of the characters are completely flat, but the main characters have surprising depth.
 
->> **u/OchreOgre_AugerAugur** [+11] *
+>> **u/OchreOgre_AugerAugur** [+11]  (a day later)
 >> 
 >> The existence of spiral power sends rationality tumbling end over end.  In a universe where fundamental forces of existence reward the shounen hero mindset of willpower/determination and punish a more logical/intellectual approach, wouldn't the actions of the protagonists be those of a rational actor?  Out of context their actions may seem insane, but in universe they behave in the manner to maximize success in achieving their goals according to what they know.
->> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (9 hours later)
 >> 
 >> Do you know where I can find manga of TTGL beyond the first 20 chapters? For some reason I can't find any chapters 21 and up.
->> 
 
->>> **u/CarVac** [+3] *
+>>> **u/CarVac** [+3]  (9 hours later)
 >>> 
 >>> Watch the anime.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> Irrational?  But it's completely realistic and accurately portrays the real world in every last detail!  If... *somewhat* metaphorically, on a few occasions.
->> 
 
-> **u/LiteralHeadCannon** [+1] *
+> **u/LiteralHeadCannon** [+1]  (51 minutes later)
 > 
 > I think that what this thread is describing is necessary for writing good fiction.  However, the stated standards of rational fiction are *also* necessary for writing good fiction.  Therefore, I'm assuming that, like rational fiction, what you really mean is fiction that *particularly focuses on* these things, right?
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (an hour later)
 >> 
 >> [deleted]
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Sagbata *
 * URL: https://www.reddit.com/r/rational/comments/3rtehp/q_how_to_write_characters_you_dont_like/
-* Score: 16
+* Score: 14
 
 * Created: 2015-11-06T21:52:07
 
@@ -14,73 +14,74 @@ Any suggestions?
 
 ### Comments:
 
-> **u/xamueljones** [+35]  *My arch-enemy is entropy**
+> **u/xamueljones** [+31]  *My arch-enemy is entropy* (21 minutes later)
 > 
 > Don't then.
-> If you can't empathize with their goals and think that they are stupid or silly for doing so, then spend time thinking about their backstory and why they would ever want to pursue this particular action and see if you can change their reasons, even if it amounts to the same thing in the end.
-> If you are trying to write about people acting stupid, then  think about what flaws they must have to cause their inability to properly reason about their choices.
-> If you're trying to write about unpleasant individuals, then think about what formative events caused their terrible personality. It's easier to relate to someone being a bigot, if everyone who hurt them in their childhood was of the same race.
-> Expand their backstories to make them into multidimensional characters.
 > 
+> If you can't empathize with their goals and think that they are stupid or silly for doing so, then spend time thinking about their backstory and why they would ever want to pursue this particular action and see if you can change their reasons, even if it amounts to the same thing in the end.
+> 
+> If you are trying to write about people acting stupid, then  think about what flaws they must have to cause their inability to properly reason about their choices.
+> 
+> If you're trying to write about unpleasant individuals, then think about what formative events caused their terrible personality. It's easier to relate to someone being a bigot, if everyone who hurt them in their childhood was of the same race.
+> 
+> Expand their backstories to make them into multidimensional characters.
 
-> **u/None** [+24] *
+> **u/None** [+21]  (4 hours later)
 > 
 > The important thing is that your own character shouldn't *bore* you.  If you don't like them, make them someone you can *hate*.  Viciously, viciously hate, because of how *utterly wrong* they are in *every* way.  Then write down all their horrible wrongnesses as character traits, while also keeping a wall in between your "ROCKS FALL YOU DIE" vengeance and their actual life-course, letting them *run rampant* over your nice fictional world, *the bastards*.
-> 
 
-> **u/TaoGaming** [+9]  *No Flair Detected!**
+> **u/TaoGaming** [+9]  *No Flair Detected!* (2 hours later)
 > 
 > In general, whenever writing feels like work I write poorly and my best (IMO) chapters have been the ones I enjoyed writing.
+> 
 > If that's true for you (and I posit that it is), then you need to switch their primary adjective from "unlikeable" to "interesting." 
+> 
 > Also, if you are having a tough time writing a scene, see if you can just skip it with a sentence. Consider some Mike Hammer fight scenes.
 > > He had a gun.
-> > I took it from him.
-> If it bores you (the writer), it will probably bore me.
 > 
+> > I took it from him.
+> 
+> If it bores you (the writer), it will probably bore me.
 
-> **u/E-o_o-3** [+2] *
+> **u/E-o_o-3** [+3]  (4 hours later)
 > 
 > I think you shouldn't *truly* dislike any of your characters - they should all represent at least some element of you or elements of people you love. A flawed past version of yourself. Someone you really care about except for *uuuggh* that one horrible, character defining flaw. that sort of thing. I've never met a person I 100% disliked, so I don't write characters like that either.
-> Also, I think the key to characters that get under people's skin is to have them be *just* relatable enough that somewhere deep down you're afraid that they've got a point. That nasty voice that whispers in your head sometimes. It's hard to hate someone properly unless you see yourself in them.
-> And in order to write a character like that, you have to be avoid being afraid to think those thoughts and getting into the mindsets you don't particularly want to adopt. For example, try playing ideological turing - put on a mask and play around in some forum you seriously hate, and see if you can get them to upvote you for true insights that fit within their schema.
 > 
+> Also, I think the key to characters that get under people's skin is to have them be *just* relatable enough that somewhere deep down you're afraid that they've got a point. That nasty voice that whispers in your head sometimes. It's hard to hate someone properly unless you see yourself in them.
+> 
+> And in order to write a character like that, you have to be avoid being afraid to think those thoughts and getting into the mindsets you don't particularly want to adopt. For example, try playing ideological turing - put on a mask and play around in some forum you seriously hate, and see if you can get them to upvote you for true insights that fit within their schema.
 
->> **u/psychothumbs** [+2] *
+>> **u/psychothumbs** [+2]  (a day later)
 >> 
 >> I don't know, there's certainly a time and place for truly awful characters. I would assume that many such that have been imagined into existence were disliked by their own authors as well. I doubt Jo Rowling is a fan of Professor Umbridge.
->> 
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (2 hours later)
 > 
 > It's helpful if you're writing them as unpleasant on purpose, as well. Like if you're building to a FaceHeelTurn moment or something similar. You feel sort of smug, because you know your audience is wondering WHY this douche nozzle exists in your world (this, of course, will need to be compensated for, with other likeable characters and/or compelling events)
-> 
 
-> **u/Geminii27** [+2] *
+> **u/Geminii27** [+2]  (8 hours later)
 > 
 > Are you trying to write them from their point of view, or from an external view (either the reader's, or another character's)?
-> Could you write them as if they had been deliberately raised, corrupted, damaged, coerced, or gaslighted into being this way? If, in other words, they honestly believed they were doing the right thing, but they we acting on misinformation - possibly a lifetime of it?
-> In particular, if they're not themselves the kind of rationalist who automatically challenges and cross-checks every piece of information they're presented with, but just accepts everything on face value because they never learned that it was possible to do anything else?
 > 
+> Could you write them as if they had been deliberately raised, corrupted, damaged, coerced, or gaslighted into being this way? If, in other words, they honestly believed they were doing the right thing, but they we acting on misinformation - possibly a lifetime of it?
+> 
+> In particular, if they're not themselves the kind of rationalist who automatically challenges and cross-checks every piece of information they're presented with, but just accepts everything on face value because they never learned that it was possible to do anything else?
 
-> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (19 hours later)
 > 
 > [In the words of Andrew Hussie...](http://motivationalquotes.xyz/post/110036221660/curlicuecal-andrew-hussie-is-a-blessed) (Panel 5 of 10.)
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Cast away your humanity, rationality, and sympathy, dive into a twisted psyche, feed them lines from the blackening cauldron-boil of your tainted soul, and when it comes time to drop the mask, don't. They are you, now. Their thoughts, yours; their motives, your own. You are no longer you. You are a husk, a shell filled with unborn ghosts. They whisper lightning-quick commands to muscles, tendons. You move, and you are not a puppet, for there is no master. There is only you, and you smile at things that should disgust you. Your arms turn, and sometimes, you think: Where have I gone? Where is the voice screaming in the corner of my mind? But there is no voice. Accept it. Embrace it. Become it. You are not. You are all. You are a virus, a parasite. You are the thing that wears your skin, and every day it fits more snugly. You are. Do not scream. You do not need to scream. Be. Be, and place your fingernails against the keys. Hold them still. Good. Now, tap tap tap. Tap tap tap. Write out your ghosts. Describe your madness. Make yourself a mask with eyes and a moving mouth. Wear it, and forget yourself. Remember yourself. Good. Tap tap tap. Tap tap tap. Tap tap tap tap tap tap tap tap tap tap. Tap. Tap. Tap tap.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> [PURGE THE HERETIC!](https://i.warosu.org/data/tg/img/0380/75/1423975768686.jpg)
->> 
 
-> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (4 days later)
 > 
 > If you can't like them, just make them awesome. People like and respect awesomeness (competence, bravery, chutzpah, audacity, success), even in people they hate.
-> 
 
 ---
 

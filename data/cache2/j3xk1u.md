@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/j3xk1u/wip_the_new_humans_chapter_ninteyfive_the_way_to/
-* Score: 7
+* Score: 5
 
 * Created: 2020-10-02T16:18:59
 

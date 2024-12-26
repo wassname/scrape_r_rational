@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Kishoto** [+1] *
+> **u/Kishoto** [+1]  (11 minutes later)
 > 
 > Uhh....well, that was most certainly NSFW. Mind tagging it? This sin't really a subreddit that's used to display graphic images.
-> EDIT: Also, if you could give some more context for what the actual fuck this is, that would help. As it stands, it seems to be click bait. Justify its existence on r/rational please.
 > 
+> EDIT: Also, if you could give some more context for what the actual fuck this is, that would help. As it stands, it seems to be click bait. Justify its existence on r/rational please.
 
-> **u/rineSample** [+1] *
+> **u/rineSample** [+1]  (2 hours later)
 > 
 > The OP seems to be a spam account.
-> 
 
 ---
 

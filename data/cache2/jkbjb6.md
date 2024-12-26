@@ -2,7 +2,7 @@
 
 * Author: u/callmesalticidae  *writes worldbuilding books**
 * URL: https://www.reddit.com/r/rational/comments/jkbjb6/there_is_nothing_to_fear_pt_13_political/
-* Score: 45
+* Score: 42
 
 * Created: 2020-10-29T14:56:59
 
@@ -26,43 +26,44 @@ Previous thread [here](https://old.reddit.com/r/rational/comments/jc0vzj/there_i
 
 ### Comments:
 
-> **u/wren42** [+23] *
+> **u/wren42** [+23]  (an hour later)
 > 
 > \>the venn diagram of “people reading this story” and “people who want to read  an entire fake letter by Margaret Thatcher” is probably two entirely  separate circles. 
-> &#x200B;
-> Poppycock.  you are talking about /r/rational here.  Include it as an appendix =)
 > 
+> &#x200B;
+> 
+> Poppycock.  you are talking about /r/rational here.  Include it as an appendix =)
 
-> **u/ALowVerus** [+5]  *Chaos Legion**
+> **u/ALowVerus** [+5]  *Chaos Legion* (4 hours later)
 > 
 > This is fantastic. I'm getting the anthology vibe of Chili and the Chocolate factory from this, and it is very much appropriate. Getting a real sense of the scale of the Wizarding World, a good balance of character drama and realistic geopolitical consequences.
-> 
 
->> **u/Bowbreaker** [+2]  *Solitary Locust**
+>> **u/Bowbreaker** [+2]  *Solitary Locust* (6 days later)
 >> 
 >> Is Chili and the Chocolate Factory finished or still updating?
->> 
 
-> **u/Nimelennar** [+2] *
+> **u/Nimelennar** [+2]  (7 hours later)
 > 
 > Is this a standalone story, or the first of two chapters?
+> 
 > All of the text above, as well as the author text at the end, and the fact that it ends when the description says it should (1993), seems to suggest to me that this is a complete update, and that the next update will be the first chapter of the Hermione story.
+> 
 > The only thing weighing against that is:
 > >Published: 2020-10-29 Updated: 2020-10-29 Words: 1854 **Chapters: 1/2**
-> Is that a mistake, or is there a second chapter of "Political Realities" coming?
-> Edit to add: looking more closely at the metadata, I love the "CW: Margaret Thatcher" tag.
 > 
+> Is that a mistake, or is there a second chapter of "Political Realities" coming?
+> 
+> Edit to add: looking more closely at the metadata, I love the "CW: Margaret Thatcher" tag.
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (7 hours later)
 >> 
 >> That's a mistake, sorry. Folks here and on Ao3 were asking for the unabridged Margaret Thatcher letter, so I was setting that up, and then I was called away for work stuff. I didn't realize that it would show up as 1/2 while the letter was still in draft. 
->> I've fixed that. Thanks for bring it to my attention.
 >> 
+>> I've fixed that. Thanks for bring it to my attention.
 
-> **u/Asviloka** [+2] *
+> **u/Asviloka** [+2]  (11 hours later)
 > 
 > Oh, wow, I didn't realize there was more to this story. I know I read the first one a couple years ago but I thought it was complete. :) Thanks for posting a compiled version on ffnet, that is my preferred platform.
-> 
 
 ---
 

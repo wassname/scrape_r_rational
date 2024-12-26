@@ -2,7 +2,7 @@
 
 * Author: u/Sailor_Vulcan  *Champion of Justice and Reason**
 * URL: https://www.reddit.com/r/rational/comments/4vx4vt/rocks_fall_everyone_dies/
-* Score: 24
+* Score: 25
 
 * Created: 2016-08-03T06:28:29
 
@@ -18,41 +18,35 @@ https://anonkun.com/stories/rocks-fall-everyone-dies/29wN5cycpLJA4zfnY
 
 ### Comments:
 
-> **u/Nepene** [+1] *
+> **u/Nepene** [+1]  (a day later)
 > 
 > As the DM, and a DM who happily violates the rules, how can this really be a competition? You can kill the players at will, make challenges that are impossible to beat. That sounds more like a slaughter.
-> 
 
->> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (a day later)
 >> 
 >> That's why I said "somewhat of a competition" rather than just "a competition". The in-story DM is a bit less intelligent than I am. Going to try to stay in character.
->> 
 
->>> **u/Nepene** [+5] *
+>>> **u/Nepene** [+4]  (a day later)
 >>> 
 >>> He did open by having the presumed final encounter of his adventure attack the players at the opening of the adventure. The in story DM doesn't seem to be pulling his punches. He's also retroactively changing events, altering the rules to weaken the player.
->>> The standard thing to do if a DM was angry with you would be to take them somewhere private, have a chat, if you did something shitty or you don't care about blame offer to buy them a beer or a pizza, ask them if they're having some sort of trouble with work or school and if they need someone to talk (since, they seem to be freaking out way too much over a game). Is there some reason they can't do that?
 >>> 
+>>> The standard thing to do if a DM was angry with you would be to take them somewhere private, have a chat, if you did something shitty or you don't care about blame offer to buy them a beer or a pizza, ask them if they're having some sort of trouble with work or school and if they need someone to talk (since, they seem to be freaking out way too much over a game). Is there some reason they can't do that?
 
->>>> **u/kuilin** [+1] *
+>>>> **u/kuilin** [+1]  (2 days later)
 >>>> 
 >>>> I think he's talking about DMing a game of DnD. Not DMing DnD itself, but in a sorta meta-DM way. He'll be playing a DM who is mad with his players in the sub game and the players will be playing players WO are gaming rules in the sub game but the DM isn't mad at them in real life or in the one level game.
->>>> 
 
->>>>> **u/Nepene** [+0] *
+>>>>> **u/Nepene** [+0]  (2 days later)
 >>>>> 
 >>>>> I know, and the in game DM who he is controlling is omnipotent and willing to break the rules to kill the player so it's not really much of a contest.
->>>>> 
 
->>>>>> **u/kuilin** [+1] *
+>>>>>> **u/kuilin** [+1]  (2 days later)
 >>>>>> 
 >>>>>> But they're only omnipotent within the inner campaign! So the outer campaign is a real life campaign where a bunch of friends fail at playing DnD because their DM is terrible and yet they're still drawn by an unseen force into playing DnD with each other.
->>>>>> 
 
->>>>>>> **u/Nepene** [+1] *
+>>>>>>> **u/Nepene** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Haha, yes. We've seen no actual reason why they're dming with this person.
->>>>>>> 
 
 ---
 

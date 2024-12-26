@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.fanfiction.net/s/12466638/4/Broken-Blades
-* Score: 11
+* Score: 9
 
 * Created: 2017-05-27T17:45:04
 
@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/avret** [+1]  *SDHS rationalist**
+> **u/avret** [+1]  *SDHS rationalist* (50 seconds later)
 > 
 > Is there any easy way to give AO3 a link to a chapter on FFN and have it pull the chapter straight to AO3?
-> 
 
->> **u/thekevjames** [+2] *
+>> **u/thekevjames** [+2]  (7 minutes later)
 >> 
 >> No personal experience here, but I've heard enough authors complain about this to assume there's no simple way.
->> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (14 hours later)
 >> 
 >> Fanficfare, download and repost?
->> 
 
->> **u/Timewinders** [+1] *
+>> **u/Timewinders** [+1]  (a day later)
 >> 
 >> No, but you can copy the html code from fanfiction.net and paste it into the AO3 chapter update thing.
->> 
 
 ---
 

@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (47 minutes later)
 > 
 > Removed. This is a subreddit for fiction, not for general rationality. Feel free to post this in the Friday Open Thread, but it's not the kind of thing that we want in the main subreddit.
-> 
 
->> **u/aljosa21** [+1] *
+>> **u/aljosa21** [+1]  (51 minutes later)
 >> 
 >> Very sorry, my mistake!
->> 
 
 ---
 

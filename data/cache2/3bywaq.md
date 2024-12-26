@@ -2,7 +2,7 @@
 
 * Author: u/Transfuturist  *Carthago delenda est.**
 * URL: https://www.reddit.com/r/rational/comments/3bywaq/rt_hf_ff_eventual_rst_sweetie_belle_and_the/
-* Score: 8
+* Score: 10
 
 * Created: 2015-07-03T07:35:59
 
@@ -16,21 +16,19 @@ Beyond the tiny joys of supplemental material, the characterization of the foals
 
 ### Comments:
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (20 hours later)
 > 
 > The images seem to be broken. Do you have a copy of the geometry problem in chapter 2?
-> 
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+3]  *Carthago delenda est.* (21 hours later)
 >> 
 >> The images aren't broken for me. [Is deviantArt blocked where you're at?](https://web.archive.org/web/20140910184010/http://fc04.deviantart.net/fs70/f/2014/219/8/d/triangle_area_solution_by_cheshiretwilight-d7u2vwr.png)
->> 
 
->>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (21 hours later)
 >>> 
 >>> No, some of them work fine, but others are missing. Strange.
->>> Great story, I've just finished it.
 >>> 
+>>> Great story, I've just finished it.
 
 ---
 

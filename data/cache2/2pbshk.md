@@ -2,7 +2,7 @@
 
 * Author: u/_ShadowElemental  *Sufficiently Analyzed Magic**
 * URL: https://www.reddit.com/r/rational/comments/2pbshk/nietzsches_rationalgenesis/
-* Score: 1
+* Score: 0
 
 * Created: 2014-12-15T04:09:38
 
@@ -18,54 +18,49 @@ edit: formatting
 
 ### Comments:
 
-> **u/None** [+8] *
+> **u/None** [+7]  (7 hours later)
 > 
 > Ah, nothing like watching a batshit-insane large ham do a speech about Original Sin.
-> 
 
->> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (2 days later)
 >> 
 >> He's interpreting the Bible in ways that are unfair and probably distort the text. However, I don't think his argument is unreasonable. (In this passage, when he uses phrases condemning science, I think he's speaking from the standpoint of the priests/God.)
->> He's pretentious and elitist. And he had severe headaches that eventually drove him mad, but that doesn't ever seem to hurt the quality of his work (for a contrasting example, see Time Cube). I've found many insightful ideas in Nietzsche. Why don't you like him?
 >> 
+>> He's pretentious and elitist. And he had severe headaches that eventually drove him mad, but that doesn't ever seem to hurt the quality of his work (for a contrasting example, see Time Cube). I've found many insightful ideas in Nietzsche. Why don't you like him?
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (3 days later)
 >>> 
 >>> When I call someone "batshit insane", it's a compliment.  *That said*, I don't much like obscurantist styles of speaking or writing.  I think profundities can be spoken straightforwardly even better than in code.
->>> 
 
->> **u/krakonfour** [+1] *
+>> **u/krakonfour** [+1]  (13 hours later)
 >> 
 >> Batshit-insane, but has access to a thesaurus...
->> 
 
-> **u/notmy2ndopinion** [+5]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+8]  *Concent of Saunt Edhar* (8 hours later)
 > 
 > I haven't read Genesis or Nietzsche... but this strikes me more like a Hermeneutical critique of God's mismanagement of an intelligence explosion by one of His creations and then labeling many of Man's deeds as sin (guilt borne from knowledge of right and wrong.)
-> If Nietzsche was the first philosopher to reinterpret the Bible this way and successfully avoid persecution while proselytizing an alternate message, he gets mad props.
-> All that said... his writing does come off as over the top and it isn't exactly rational.  At least, I have a hard time following his logic.
 > 
+> If Nietzsche was the first philosopher to reinterpret the Bible this way and successfully avoid persecution while proselytizing an alternate message, he gets mad props.
+> 
+> All that said... his writing does come off as over the top and it isn't exactly rational.  At least, I have a hard time following his logic.
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (an hour later)
 > 
 > Eeeeeeh, the idea that disaster and conflict keeps man from advancing science and becoming godlike doesn't make sense to me. War is one of the greatest incentives for progress we have. After all, necessity is the mother of innovation. We invented a ton of new technologies and fields of science to better defend ourselves and to destroy others. For example, we discovered the power of the atom via the Manhattan Project.
-> Although this raises the opposite question. Would we have had any technological advancement (or at the very least advanced more slowly) if we had everlasting peace?
 > 
+> Although this raises the opposite question. Would we have had any technological advancement (or at the very least advanced more slowly) if we had everlasting peace?
 
->> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life* (4 hours later)
 >> 
 >> I think this link only formed in the industrialisation of war during the twentieth century; before that war definitely inhibited scientific progress.
->> 
 
->> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (2 days later)
 >> 
 >> Nietzsche's work on suffering actually argues that it can be a major force for developing inner character and strength. I don't think this passage was saying that war prevents technological growth, rather he was saying that people have been indoctrinated to view conflict as evil and thus shy away from it and are unable to develop themselves.
->> 
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (11 hours later)
 >> 
 >> If humans were somehow made to never collectively enact violence on another group of people than problems which had been minor would become major. And those problems would probably drive technology just as well, though into a different direction.
->> 
 
 ---
 

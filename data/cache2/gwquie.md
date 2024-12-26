@@ -2,7 +2,7 @@
 
 * Author: u/Quibbloboy *
 * URL: https://www.reddit.com/r/rational/comments/gwquie/rtwipff_ranimorphs_list_of_unanswered_questions/
-* Score: 22
+* Score: 24
 
 * Created: 2020-06-04T21:37:19
 
@@ -46,81 +46,89 @@ Edit 2:
 
 ### Comments:
 
-> **u/Quibbloboy** [+5] *
+> **u/Quibbloboy** [+6]  (22 minutes later)
 > 
 > I actually have a theory about the Rachel seizure phenomenon, but didn't feel right including it in the main post, so I'm doing it as a comment instead. I'll spoiler tag the important parts, just in case it ends up being right or close to right.
+> 
 > First of all, we know your physical brain goes into stasis when you enter morph, and your consciousness switches to an emulated version being run on the god computer instead. Since Rachel is seeing memories from the dead Rachel's life, it seems reasonable to assume >!the computer is saving a copy of that emulated brain every time a character morphs.!<
+> 
 > So, okay, why is Rachel having these seizures, and no one else ever has?
+> 
 > My theory is that it's because >!Rachel is the only one who's ever died in her actual body. I *think* every other death before a resurrection has been from characters getting trapped in morph, aside from the Marclones, but I'll come back to them. At first it looked like Marco, Jake, and Tobias died in their bodies in Wyoming, but it turned out later that Visser Three kept them around at least long enough to parade them around in front of the council, so it's very possible they're not actually dead.  
 > Rachel's body actually physically *died* in real space. That would mean the morph tech nanobots keyed to her brain signature (or whatever) are still out there, and they could be interfering with the signal that fires up to send her mind back to her physical body when she demorphs. As for the Marclones, they all existed in parallel *before* they died, so it seems reasonable that the tech would have had a chance to set up discrete profiles for each one when they received the morphing power, or something along those lines.  
 > As for the impact this could have on the wider story, I think this could be a curveball that the Ellimist and Crayak didn't see coming. Rachel, after all, wasn't supposed to happen. So maybe their lines of prediction didn't make it this far, and they didn't expect this weird glitch which lets her accidentally psuedo-hack into their hardware. Food for thought.!<
-> Opinions? Are there holes? Am I crazy?
 > 
+> Opinions? Are there holes? Am I crazy?
 
->> **u/notgreat** [+5] *
+>> **u/notgreat** [+7]  (3 hours later)
 >> 
 >> I suspect that Rachel's two mysteries (Chee interaction, siezures) are closely linked. Note how the Chee refer to her as "the human female" and such rather than by name as they do all others. Something about her doesn't register properly as a sentient being worth naming to them, which is likely why they are able to hand her the stuff. Whatever is causing this is, I suspect, related to whatever's going wrong with her morphing too.
->> 
 
->>> **u/DavidGretzschel** [+7] *
+>>> **u/DavidGretzschel** [+7]  (a day later)
 >>> 
 >>> They really don't like Rachel very much. They think she's a bitch.
->>> But then something in their translation circuitry fried and bitch got translated as dog. And dogs are friends, so it's ok to give them Dracon beams.
 >>> 
+>>> But then something in their translation circuitry fried and bitch got translated as dog. And dogs are friends, so it's ok to give them Dracon beams.
 
-> **u/TK17Studios** [+6]  *Author of r!Animorphs: The Reckoning**
+> **u/TK17Studios** [+7]  *Author of r!Animorphs: The Reckoning* (a day later)
 > 
 > TAG ME GUYS
-> 
 
-> **u/DavidGretzschel** [+3] *
+> **u/DavidGretzschel** [+4]  (a day later)
 > 
 > Does everyone with the morph ability get a last minute warning to unmorph immediately, when the battery runs out, like Jake did?
-> It seems like that any morpher should know this, so they can determine their morph time exactly instead of guessing via formula and adding in a safety margin for model uncertainty.
 > 
+> It seems like that any morpher should know this, so they can determine their morph time exactly instead of guessing via formula and adding in a safety margin for model uncertainty.
 
->> **u/Quibbloboy** [+4] *
+>> **u/Quibbloboy** [+3]  (a day later)
 >> 
 >> >“For an adult Andalite body, the charge typically lasts around one human hour. Your bodies are smaller, and in some ways less complex; I predict you may be able to stretch the time to two, or perhaps even longer. The cube will tell each of you as it transfers the morphing power; you must check the number again regularly, particularly after any significant growth spurt.”
->> Elfangor says this in the first chapter. I've never been sure if that means they need physical access to the cube, or if they can just perform the check mentally somehow.
->> Either way, there's probably always the warning, but the warning ain't gonna do you much good if it kicks in 90 seconds before your dimension decoheres and you're three miles underwater in colossal squid morph.
 >> 
+>> Elfangor says this in the first chapter. I've never been sure if that means they need physical access to the cube, or if they can just perform the check mentally somehow.
+>> 
+>> Either way, there's probably always the warning, but the warning ain't gonna do you much good if it kicks in 90 seconds before your dimension decoheres and you're three miles underwater in colossal squid morph.
 
->>> **u/DavidGretzschel** [+3] *
+>>> **u/DavidGretzschel** [+3]  (a day later)
 >>> 
 >>> Ah it just seems they never mentioned that part when they were handing out the morphing power like candy. I think this implies you can touch the cube and it displays a number. And then later they made up some kind of formula. (which was just a line, iirc)
->>> I figured that you would want to tell the new morphers to wait till the warning appears when they first morph in safety.
 >>> 
+>>> I figured that you would want to tell the new morphers to wait till the warning appears when they first morph in safety.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> They don't know - Jake doesn't remember, since his backup was created before he observed the warning.
->>>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > > When Garrett as a fly is pulled into Rachel's morph, his senses disappear and reappear at exactly the halfway point, in both the initial morph and the later demorph. It's emphasized that there's no transition, no sense of becoming or unbecoming - he's just suddenly completely gone, and then later, completely back, all at once. The mental hiccup and appearance/disappearance of thought-speech seem to happen at 45-second mark too, as do Rachel's seizures. Clearly, there's something going on when a morph is halfway through. I'm tempted to say this is the point where the physical brain hands the reins over to the emulator or vice versa, but I'm suspicious of how little sense this makes: there is very obviously no realistic way a human brain could still function (or start to function) halfway through ANY morph. It smells like there's something artificial going on here, but what?
-> Your mind always runs on the hypercomputer when you're morphed. When someone starts morphing your construct body (to hide it in their morph), your mind keeps running on the hypercomputer without any change the entire time.
-> What happens (I think) is that the nanotech in your construct body suddenly stops working halfway through the morph, which means your mind (running on the hypercomputer) suddenly stops getting all sensory input.
-> I *thought* this was because the nanotech is designed to fail safely (so it being slowly "frozen" and moved to Z-space doesn't gradually degrade the signal, but rather just cuts the signal off at some point)... but when Jake morphs Quatazhinnikon, his signal starts decaying when the morphing tech starts failing. (Edit: Actually, he experiences flickering while probing Quat's memories - it's possible the sensory part fails safely. After all, Garrett never tried to read the fly's mind.)
-> Maybe your construct body becomes completely static *before* the nanotech has a chance to start malfunctioning.
 > 
+> Your mind always runs on the hypercomputer when you're morphed. When someone starts morphing your construct body (to hide it in their morph), your mind keeps running on the hypercomputer without any change the entire time.
+> 
+> What happens (I think) is that the nanotech in your construct body suddenly stops working halfway through the morph, which means your mind (running on the hypercomputer) suddenly stops getting all sensory input.
+> 
+> I *thought* this was because the nanotech is designed to fail safely (so it being slowly "frozen" and moved to Z-space doesn't gradually degrade the signal, but rather just cuts the signal off at some point)... but when Jake morphs Quatazhinnikon, his signal starts decaying when the morphing tech starts failing. (Edit: Actually, he experiences flickering while probing Quat's memories - it's possible the sensory part fails safely. After all, Garrett never tried to read the fly's mind.)
+> 
+> Maybe your construct body becomes completely static *before* the nanotech has a chance to start malfunctioning.
 
->> **u/Quibbloboy** [+3] *
+>> **u/Quibbloboy** [+3]  (a day later)
 >> 
 >> Yeah, that all seems reasonable. I guess I'm still just stuck on why the fly senses happened to cut off *exactly* halfway through Rachel's morph. Like, if Garret's nanotech suddenly realized something was going on with the fly body and halted sensory transmission, you'd expect that to happen right at the moment when the fly body starts being broken down and sent into the pocket dimension. But what are the odds that Rachel's palm starts to morph at the EXACT instant that Marco is saying <forty-fi->? Even if it took the full second to say each number, that would be a 1/90 chance of happening, right?
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 days later)
 >>> 
 >>> > I guess I'm still just stuck on why the fly senses happened to cut off *exactly* halfway through Rachel's morph. Like, if Garret's nanotech suddenly realized something was going on with the fly body and halted sensory transmission, you'd expect that to happen right at the moment when the fly body starts being broken down and sent into the pocket dimension.
->>> That's a good point.
->>> Now I think that what happens *might* be this: During the morphing, the functionality of the body being stashed away into Z-space is preserved by the nanotech - there is no pouring blood, etc. Maybe the same functionality preservation makes it so that you can still think during the first part of the morph with your brain. When the morph is sufficiently far in progress, the computational processes of the brain no longer need to run (because your mind is entirely in the hypercomputer (maybe)), so they're put on hold and the yeerk tissue in the construct (that had sufficiently materialized in the meantime) is allowed to start accepting commands from your uploaded mind.
->>> So the exact point at which you switch from being in your body to being in the computer would be an arbitrary engineering decision.
->>> When someone else is including your construct body in their morph, this could be similar, except that now the arbitrary cutoff point manifests as your construct's nanotech stopping the transmission (because the construct (or its subset) becomes frozen).
->>> There could maybe also be a simpler explanation - something like a condition "if the morph is halfway through, stop all Z-space transmissions from the matter being stashed away" made for some arbitrary engineering reason.
->>> I have no idea.
 >>> 
+>>> That's a good point.
+>>> 
+>>> Now I think that what happens *might* be this: During the morphing, the functionality of the body being stashed away into Z-space is preserved by the nanotech - there is no pouring blood, etc. Maybe the same functionality preservation makes it so that you can still think during the first part of the morph with your brain. When the morph is sufficiently far in progress, the computational processes of the brain no longer need to run (because your mind is entirely in the hypercomputer (maybe)), so they're put on hold and the yeerk tissue in the construct (that had sufficiently materialized in the meantime) is allowed to start accepting commands from your uploaded mind.
+>>> 
+>>> So the exact point at which you switch from being in your body to being in the computer would be an arbitrary engineering decision.
+>>> 
+>>> When someone else is including your construct body in their morph, this could be similar, except that now the arbitrary cutoff point manifests as your construct's nanotech stopping the transmission (because the construct (or its subset) becomes frozen).
+>>> 
+>>> There could maybe also be a simpler explanation - something like a condition "if the morph is halfway through, stop all Z-space transmissions from the matter being stashed away" made for some arbitrary engineering reason.
+>>> 
+>>> I have no idea.
 
 ---
 

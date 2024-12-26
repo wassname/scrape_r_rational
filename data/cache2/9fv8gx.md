@@ -24,46 +24,39 @@ I can't think of any other flavor text that tells quite as satisfying a story, b
 
 ### Comments:
 
-> **u/GeeJo** [+11]  *Custom Flair**
+> **u/GeeJo** [+11]  *Custom Flair* (4 hours later)
 > 
 > "He traded sand for skins, skins for gold, gold for life. In the end, he traded life for sand." - [Afari, *Tales*](https://scryfall.com/card/vis/137/squandered-resources)
-> 
 
->> **u/GeeJo** [+5]  *Custom Flair**
+>> **u/GeeJo** [+4]  *Custom Flair* (5 hours later)
 >> 
 >> I'm also a fan of Feldon of the Third Path's flavour text, but you need to have read (and should read, regardless of familiarty with MtG lore) *[Loran's Smile](https://magic.wizards.com/en/articles/archive/arcana/lorans-smile-2014-10-27)*, before it's particularly impactful, so it's not really flash fiction in that sense.
->> 
 
->>> **u/Frommerman** [+10] *
+>>> **u/Frommerman** [+9]  (10 hours later)
 >>> 
 >>> The flavor text of Tethmos High Priest is fantastic for this sub. "Death is tyranny. Like all tyranny, it must be opposed."
->>> 
 
->>>> **u/GeneralExtension** [+2] *
+>>>> **u/GeneralExtension** [+2]  (22 hours later)
 >>>> 
 >>>> [http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380516](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380516)
->>>> 
 
-> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+8]  *Head of antimemetiWalmart senior assistant manager* (18 hours later)
 > 
 > While we're sharing rational MtG, [this short story](https://magic.wizards.com/en/articles/archive/uncharted-realms/experiment-one-2013-02-18) was inspired by HPMOR.
-> 
 
-> **u/loimprevisto** [+4] *
+> **u/loimprevisto** [+5]  (2 days later)
 > 
 > Sometimes, to work around a malevolent superintelligent entitiy/AI, you have to get creative and find a side-channel to communicate through.
->  [Help us . . . R&D under mental domination of alien brain in jar . . . only chance . . . Gleemax's blatant disregard for flavor text . . . send help](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=gleemax)
 > 
+>  [Help us . . . R&D under mental domination of alien brain in jar . . . only chance . . . Gleemax's blatant disregard for flavor text . . . send help](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=gleemax)
 
-> **u/Trips-Over-Tail** [+5]  *Death of Crabs**
+> **u/Trips-Over-Tail** [+5]  *Death of Crabs* (2 hours later)
 > 
 > "Ach! Hans, run! It's the Lhurgoyf!"
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (13 hours later)
 > 
 > It is also a D&D setting now!
-> 
 
 ---
 

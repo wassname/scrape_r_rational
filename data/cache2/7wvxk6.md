@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/TheUtilitaria** [+2] *
+> **u/TheUtilitaria** [+2]  (13 seconds later)
 > 
 > Back as promised after ~~2~~ 5 weeks. We rejoin the story as Vash makes a critical choice. You can catch up with the previous chapter [here](https://ascentuniverse.wordpress.com/2018/01/07/chapter-12-beachhead/).
-> *Feedback and comments would be greatly appreciated.*
 > 
+> *Feedback and comments would be greatly appreciated.*
 
-> **u/AnythingMachine** [+2] *
+> **u/AnythingMachine** [+2]  (11 minutes later)
 > 
 > I can't quite tell if Vash is a genius or an idiot. But I figure he probably has way more background information than we do.
-> 
 
 ---
 

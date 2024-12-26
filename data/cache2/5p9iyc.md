@@ -2,7 +2,7 @@
 
 * Author: u/anewhopeforchange *
 * URL: https://www.reddit.com/r/rational/comments/5p9iyc/a_rationalist_in_a_rational_wold_rt_dc_wip_ff/
-* Score: 23
+* Score: 22
 
 * Created: 2017-01-21T07:32:37
 
@@ -30,63 +30,59 @@ Standing there in front of me was the last thing in the world i had wanted to se
 
 ### Comments:
 
-> **u/vakusdrake** [+18] *
+> **u/vakusdrake** [+20]  (42 minutes later)
 > 
 > I was expecting him to end up in a futuristic rational world, suddenly realizing that actually the protagonist here was the person he swapped with, who will use his hyper rationality to change the world.                            
 > Whereas on the other hand he will probably end up living off basic income as a social outcast because everyone else in this world is so much more clever and sophisticated that they would never want anything to do with him.
-> It would be kind of a funny genre inversion, though making a story about someone who ends up in a world where they're comparatively stupid and have no special powers would be hard to stretch into a story.
 > 
+> It would be kind of a funny genre inversion, though making a story about someone who ends up in a world where they're comparatively stupid and have no special powers would be hard to stretch into a story.
 
->> **u/philip1201** [+11] *
+>> **u/philip1201** [+14]  (4 hours later)
 >> 
 >> Would rationalist humans condemn someone to social outcast status? Surely there would be room for the mentally handicapped, like volunteering or communal living.
->> And sure it would be a story. Coming to terms with oneself is decidedly nontrivial for many people.
 >> 
+>> And sure it would be a story. Coming to terms with oneself is decidedly nontrivial for many people.
 
->>> **u/vakusdrake** [+7] *
+>>> **u/vakusdrake** [+4]  (10 hours later)
 >>> 
 >>> I don't necessarily mean that people would explicitly shin them. Instead they would be social outcasts simply because nobody could tolerate their presence.                                               
 >>> Though I suppose you have a point that they might fit in among those will actual mental handicaps (provided medicine hasn't advanced enough that they don't exist).
->>> 
 
->> **u/LobeLardo** [+5] *
+>> **u/LobeLardo** [+4]  (9 hours later)
 >> 
 >> Futurama did this exact thigg with the da vinci episode
->> 
 
->>> **u/LazarusRises** [+3] *
+>>> **u/LazarusRises** [+3]  (3 days later)
 >>> 
 >>> Or actually the whole series.
->>> 
 
-> **u/HotGrilledSpaec** [+7]  *Heresiarch of Tlon**
+> **u/HotGrilledSpaec** [+8]  *Heresiarch of Tlon* (3 minutes later)
 > 
 > And that was the worst day of Eliezer Yudkowsky's life. The story, you see, was nothing like the stories. And being the hero of his own was absolutely terrifying.
-> (please do. This is a fantastic idea.)
 > 
+> (please do. This is a fantastic idea.)
 
-> **u/vallar57** [+3]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+3]  *Unseen University: Faculty of High-Energy Magic* (4 hours later)
 > 
 > Quite nice. Though it's probably better to not continue this: it's very good as a short story, but might be easily ruined if you try expanding it.
-> ... I think you missed a perfect opportunity for a dramatic pause in the last sentence XD
 > 
+> ... I think you missed a perfect opportunity for a dramatic pause in the last sentence XD
 
-> **u/Dragonheart91** [+1] *
+> **u/Dragonheart91** [+1]  (an hour later)
 > 
 > I'm not sure I understand? So nothing happened at the end? The premise is cool, so please continue. I just don't understand the last sentence.
-> 
 
->> **u/ansible** [+10]  *The Culture**
+>> **u/ansible** [+9]  *The Culture* (5 hours later)
 >> 
 >> The protagonist ended up not going anywhere, and has to live his/her own life.
->> The point is, why can't you live your own life as rationally as possible, why do you need to be transported to a fantasy world to be the hero of your own story?
 >> 
+>> The point is, why can't you live your own life as rationally as possible, why do you need to be transported to a fantasy world to be the hero of your own story?
 
->>> **u/scruiser** [+17]  *CYOA**
+>>> **u/scruiser** [+16]  *CYOA* (7 hours later)
 >>> 
 >>> There are already people in our own world who have maxed out on rationalizing optimizing things.  Rationally exploiting the inefficiencies of the market in a positive sum game manner (and negative sum game manner) is called "finance".  Trying to advance the overall current state of knowledge requires extensive background study (a "undergraduate degree") and extensive mentoring to learn how to read the latest knowledge, format your studies to be submitted into the latest knowledge, and then get funding for your research (a "PhD").  And so on for numerous skill area.  Their is room for people with totally original ideas who are willing to skip all the steps and go straight to producing them,"entrepreneurship", however these people need to raw charisma to win private funding, the work ethic to work massive amount of time, the skill to implement their idea, and the perseverance when their first idea fails and the need to get back up into their second idea.
->>> Conversely, in a fantasy world, their may be a lot of low hanging fruit if your science knowledge and Earth education provides a good source of new ideas.  The excitement or desperation of being thrust into a new world may, at least  initially, force the work ethic to actualize these knowledge and ideas.  The laws of physics of Earth are fairly circumscribed in what we know they allow, no entropy violations and such.  Whereas the laws of magic of a fantasy world may have entirely unexplored applications and methodologies, just waiting for someone to try the right things to get to them.  Thus a fantasy world and/or magic represents vast possibilities that simply don't exist on Earth.  In actuality, it is possible that a fantasy world might already have researchers who have found all the low hanging fruit and the only thing left is even harder discoveries that require more background knowledge and resources than a PhD on Earth does, but then again, maybe not.  Also, even in a medieval world, if the protagonist can leverage their uniqueness into just a small advantage, they may be able to carve out social status for themselves, which is a nice fantasy (even though they are objectively worse off without running water, electricity, etc.).
 >>> 
+>>> Conversely, in a fantasy world, their may be a lot of low hanging fruit if your science knowledge and Earth education provides a good source of new ideas.  The excitement or desperation of being thrust into a new world may, at least  initially, force the work ethic to actualize these knowledge and ideas.  The laws of physics of Earth are fairly circumscribed in what we know they allow, no entropy violations and such.  Whereas the laws of magic of a fantasy world may have entirely unexplored applications and methodologies, just waiting for someone to try the right things to get to them.  Thus a fantasy world and/or magic represents vast possibilities that simply don't exist on Earth.  In actuality, it is possible that a fantasy world might already have researchers who have found all the low hanging fruit and the only thing left is even harder discoveries that require more background knowledge and resources than a PhD on Earth does, but then again, maybe not.  Also, even in a medieval world, if the protagonist can leverage their uniqueness into just a small advantage, they may be able to carve out social status for themselves, which is a nice fantasy (even though they are objectively worse off without running water, electricity, etc.).
 
 ---
 

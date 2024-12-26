@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/8ndzk3/biweekly_challenge_shipping/
-* Score: 17
+* Score: 18
 
 * Created: 2018-05-31T01:20:38
 
@@ -50,110 +50,103 @@ Next time, the challenge will be "Anniversary", as the first challenge was poste
 
 ### Comments:
 
-> **u/None** [+25] *
+> **u/None** [+24]  (23 hours later)
 > 
 > [In Their Eyes](https://docs.google.com/document/d/1JGIKBooJV8UIBrpPsy8gtHWmokH9v8hHOdwfsMvPh3w/)
-> 
 
-> **u/None** [+12] *
+> **u/None** [+11]  (5 days later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (13 days later)
 >> 
 >> Very good. It's a classic ratfic in the sense that it makes characters in the source material more rational and extrapolates from there. Also, you have a short discussion of a related mathematical problem, which is also very r/rational. Very solid work.
->> I admire the many ways in which you chose to troll me. For example, you went with the "naval transport" choice of shipping, which is the troll choice -- and then, to troll me further, you added the slightest hint of an actual ship, and you chose to ship the only two characters with speaking roles in the original Oglaf strip, who (in the original) are as far from being a ship as they possibly could be. And you chose Oglaf of all things for a challenge which I wanted to remain SFW, and then you actually pulled off an SFW Oglaf fic? Got to respect that Chutzpah.
 >> 
+>> I admire the many ways in which you chose to troll me. For example, you went with the "naval transport" choice of shipping, which is the troll choice -- and then, to troll me further, you added the slightest hint of an actual ship, and you chose to ship the only two characters with speaking roles in the original Oglaf strip, who (in the original) are as far from being a ship as they possibly could be. And you chose Oglaf of all things for a challenge which I wanted to remain SFW, and then you actually pulled off an SFW Oglaf fic? Got to respect that Chutzpah.
 
-> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you**
+> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you* (5 days later)
 > 
 > [The Impossible Ship](https://docs.google.com/document/d/1CT9Syi4U6Z8C05qvB9kSZvbjRqWuQBOnpaCP10ZoK2g/edit?usp=sharing), 4000 words.
-> Set in Warhammer 40k universe, it's a shipping of Abaddon the Despoiler with a Grey Knight Brother-Captain Monroe.
-> For those not in the loop concerning Warhammer 40k lore and memes, here is the relevant dramatis personae, with pictures and wiki pages:
-> [Abaddon the Despoiler](https://1d4chan.org/wiki/Abaddon), Warmaster of Chaos. Current leader of chaos. Failed to conquer a single planet 12 times in a row.
-> [Ursarkar E. Creed.](https://1d4chan.org/wiki/Creed) Tactical genious. Possibly a giant MECHA in disguise.
-> [Cadia.](https://1d4chan.org/wiki/Cadia) Planet situated right in front of an enormous portal into hell. Creed commands the defenses there, Abaddon constantly fails to conquer it.
-> [Grey knights.](https://1d4chan.org/wiki/Grey_Knights) If you know what a "doublewitch" means in HPMOR, basically that. Take superhuman space warriors, hike them up to 11, and get double-super demon fighting space warriors.
 > 
+> Set in Warhammer 40k universe, it's a shipping of Abaddon the Despoiler with a Grey Knight Brother-Captain Monroe.
+> 
+> For those not in the loop concerning Warhammer 40k lore and memes, here is the relevant dramatis personae, with pictures and wiki pages:
+> 
+> [Abaddon the Despoiler](https://1d4chan.org/wiki/Abaddon), Warmaster of Chaos. Current leader of chaos. Failed to conquer a single planet 12 times in a row.
+> 
+> [Ursarkar E. Creed.](https://1d4chan.org/wiki/Creed) Tactical genious. Possibly a giant MECHA in disguise.
+> 
+> [Cadia.](https://1d4chan.org/wiki/Cadia) Planet situated right in front of an enormous portal into hell. Creed commands the defenses there, Abaddon constantly fails to conquer it.
+> 
+> [Grey knights.](https://1d4chan.org/wiki/Grey_Knights) If you know what a "doublewitch" means in HPMOR, basically that. Take superhuman space warriors, hike them up to 11, and get double-super demon fighting space warriors.
 
->> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>> **u/Ardvarkeating101** [+3]  *Father of Learning* (5 days later)
 >> 
 >> Tremble oh ye mighty and despair, for a new author is among you
->> 
 
->>> **u/melmonella** [+2]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+2]  *Tremble, o ye mighty, for a new age is upon you* (5 days later)
 >>> 
 >>> Ha. I ain't good enough to claim *that* title yet.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (6 days later)
 >>>> 
 >>>> As a new author myself - I disagree that you're not good enough. What you wrote is very enjoyable.  Thank you for it.
->>>> 
 
->> **u/fortycakes** [+2] *
+>> **u/fortycakes** [+2]  (8 days later)
 >> 
 >> I enjoyed it, but... was it a deliberate stylistic choice to drop a lot of definite articles? I kept double-taking when reading with a "did I miss a 'the' in that sentence?".
->> 
 
->>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (8 days later)
 >>> 
 >>> Probably just me making mistakes. I'll do an editing pass today, and would appreciate it if you pointed out the locations.
->>> 
 
-> **u/Nighzmarquls** [+7] *
+> **u/Nighzmarquls** [+5]  (an hour later)
 > 
 > [Onward To Providence](https://forums.spacebattles.com/threads/onward-to-providence-original-fiction.616857/)
-> Honestly the entire thing is a combination of rational world/universe building, literal shipping and also "shipping" and also ways in which characters can misonstrue and ship and again attempts to play the characters rational to each other.  
-
-> Honestly my story is essentially built on this premise right down to what I chose to make the acronym of the story.  
-
-> The whole thing is a massive pun on the concept.
 > 
+> Honestly the entire thing is a combination of rational world/universe building, literal shipping and also "shipping" and also ways in which characters can misonstrue and ship and again attempts to play the characters rational to each other.  
+> 
+> Honestly my story is essentially built on this premise right down to what I chose to make the acronym of the story.  
+> 
+> The whole thing is a massive pun on the concept.
 
->> **u/thrawnca** [+3]  *Carbon-based biped**
+>> **u/thrawnca** [+3]  *Carbon-based biped* (6 hours later)
 >> 
 >> I'm not sure that such a long-running story is eligible for the challenge.
->> 
 
->> **u/Nighzmarquls** [+3] *
+>> **u/Nighzmarquls** [+3]  (15 hours later)
 >> 
 >> Fair enough.  I saw earlier challenges mention using pre existing work being okay.
->> 
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >>> 
 >>> I believe it's happened once or maybe twice. It's heavily discouraged, though there are some edge cases where I might allow it. The problem is that such works aren't actually responses to the prompts, and they're then put in competition with works that *were* written for the prompt, usually over the course of a week or two.
->>> I do encourage people to rewrite or revamp stories for the challenge, if this is the kick they needed, especially if those stories were non-winning entries for a different challenge. But the spirit of the challenge is sort of about getting people to write, and I don't think that purpose is served too well by allowing long-running stories with some amount of clout to come in.
->>> (I'll leave your comment where it is, if you win by votes, I'll maybe figure out some sort of secondary prize or something.)
 >>> 
+>>> I do encourage people to rewrite or revamp stories for the challenge, if this is the kick they needed, especially if those stories were non-winning entries for a different challenge. But the spirit of the challenge is sort of about getting people to write, and I don't think that purpose is served too well by allowing long-running stories with some amount of clout to come in.
+>>> 
+>>> (I'll leave your comment where it is, if you win by votes, I'll maybe figure out some sort of secondary prize or something.)
 
-> **u/verbalshadow** [+2] *
+> **u/verbalshadow** [+2]  (7 days later)
 > 
 > [Thru the Inky Black](https://docs.google.com/document/d/1gPOp-mjhja105PHtYGuSvmwCxbPmZLv8NgVt6Vn3OBY/edit?usp=sharing)
-> 
 
->> **u/NebulousASK** [+2] *
+>> **u/NebulousASK** [+2]  (13 days later)
 >> 
 >> I have read this story through a couple of times, and I genuinely don't understand it.  The imagery is good; I'm just missing the point.
->> Could someone please explain?
 >> 
+>> Could someone please explain?
 
->>> **u/verbalshadow** [+1] *
+>>> **u/verbalshadow** [+1]  (14 days later)
 >>> 
 >>> It is mostly about loneliness, depression and the joy of being with those who love you.
->>> 
 
->>>> **u/NebulousASK** [+1] *
+>>>> **u/NebulousASK** [+1]  (14 days later)
 >>>> 
 >>>> Okay, so it's not an allusion to a particular fictional setting or an analogy to something specific?
->>>> 
 
->>>>> **u/verbalshadow** [+2] *
+>>>>> **u/verbalshadow** [+2]  (14 days later)
 >>>>> 
 >>>>> No intentional references. What did it bring to mind?  When I read the topic, it just poured out. I couldn't go to sleep without getting it out of my head.
->>>>> 
 
 ---
 

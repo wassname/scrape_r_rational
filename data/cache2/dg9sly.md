@@ -2,7 +2,7 @@
 
 * Author: u/thebishop8 *
 * URL: https://practicalguidetoevil.wordpress.com/2019/10/11/interlude-and-so-let-us-be/
-* Score: 79
+* Score: 81
 
 * Created: 2019-10-11T04:12:11
 
@@ -12,74 +12,94 @@
 
 ### Comments:
 
-> **u/Nic_Cage_DM** [+16] *
+> **u/Nic_Cage_DM** [+18]  (6 hours later)
 > 
 > aw shit, that ending plus "wicked" being the next chapter titles got me keen
-> 
 
->> **u/ashinator92** [+4] *
+>> **u/ashinator92** [+4]  (12 hours later)
 >> 
 >> How did you find this out?
->> 
 
->>> **u/GeeJo** [+16]  *Custom Flair**
+>>> **u/GeeJo** [+16]  *Custom Flair* (12 hours later)
 >>> 
 >>> The titles of interlude sets tend to follow a theme. In this case, they've been lines from *[The Many Deaths of Traitorous](https://practicalguidetoevil.wordpress.com/2018/01/17/villainous-interlude-crescendo/)*:
+>>> 
 >>> > **[Rise, rise](https://practicalguidetoevil.wordpress.com/2019/10/04/interlude-rise-rise/)** | **[all ye villains](https://practicalguidetoevil.wordpress.com/2019/10/07/interlude-all-ye-villains/)**    
 >>> > You rogues and madmen    
 >>> > Proudly claim the stage,    
 >>> > Of this wondrous age
+>>> 
 >>> > We are not kind or just    
 >>> > Deserving of any victory    
 >>> > We are a thing of dust    
 >>> > Promised only misery    
+>>> 
 >>> > **[So smile, Tyrants](https://practicalguidetoevil.wordpress.com/2019/10/09/interlude-so-smile-tyrants/)**,    
 >>> > **[And \[so\] let us be](https://practicalguidetoevil.wordpress.com/2019/10/11/interlude-and-so-let-us-be/)** wicked”
->>> 
 
->>> **u/Nic_Cage_DM** [+8] *
+>>> **u/Nic_Cage_DM** [+10]  (12 hours later)
 >>> 
 >>> The interlude chapter titles have been lyrics from a song about traitorous:
->>> >    “Then let us be wicked,
->>> >    Let us be reddest ruin
->>> >    Rent, broken, crooked
->>> >    Black hearted and cruel
->>> >    .
->>> >    Then let us be doom,
->>> >    To both friend and foe
->>> >    Fly banner of gloom
->>> >    We lowest of the low
->>> >    .
->>> >    Rise, rise all ye villains
->>> >    You rogues and madmen
->>> >    Proudly claim the stage,
->>> >    Of this wondrous age
->>> >    .
->>> >    We are not kind or just
->>> >    Deserving of any victory
->>> >    We are a thing of dust
->>> >    Promised only misery
->>> >    .
->>> >    So smile, Tyrants,
->>> >    And let us be wicked”
->>> >    – Final monologue of “The Many Deaths of Traitorous”, a play on the reign of the Dread Emperor Traitorous
 >>> 
+>>> >    “Then let us be wicked,
+>>> 
+>>> >    Let us be reddest ruin
+>>> 
+>>> >    Rent, broken, crooked
+>>> 
+>>> >    Black hearted and cruel
+>>> 
+>>> >    .
+>>> 
+>>> >    Then let us be doom,
+>>> 
+>>> >    To both friend and foe
+>>> 
+>>> >    Fly banner of gloom
+>>> 
+>>> >    We lowest of the low
+>>> 
+>>> >    .
+>>> 
+>>> >    Rise, rise all ye villains
+>>> 
+>>> >    You rogues and madmen
+>>> 
+>>> >    Proudly claim the stage,
+>>> 
+>>> >    Of this wondrous age
+>>> 
+>>> >    .
+>>> 
+>>> >    We are not kind or just
+>>> 
+>>> >    Deserving of any victory
+>>> 
+>>> >    We are a thing of dust
+>>> 
+>>> >    Promised only misery
+>>> 
+>>> >    .
+>>> 
+>>> >    So smile, Tyrants,
+>>> 
+>>> >    And let us be wicked”
+>>> 
+>>> >    – Final monologue of “The Many Deaths of Traitorous”, a play on the reign of the Dread Emperor Traitorous
 
-> **u/vimefer** [+15] *
+> **u/vimefer** [+15]  (7 hours later)
 > 
 > > \[Cat\] had half a dozen other cats to skin, about then, and a limited amount of additional hands in Hakram and Vivienne.
-> That's harsh, for such disarming banter. In fact I'll go out on a limb and call it heavy-handed.
 > 
+> That's harsh, for such disarming banter. In fact I'll go out on a limb and call it heavy-handed.
 
->> **u/JanusTheDoorman** [+6] *
+>> **u/JanusTheDoorman** [+6]  (15 hours later)
 >> 
 >> At this point Indrani is just beating a dead hand.
->> 
 
-> **u/boomfarmer** [+4]  *Trying to be helpful**
+> **u/boomfarmer** [+3]  *Trying to be helpful* (10 hours later)
 > 
 > I wasn't expecting the Tyrant to want to duel the White Night himself.
-> 
 
 ---
 

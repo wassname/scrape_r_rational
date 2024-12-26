@@ -2,7 +2,7 @@
 
 * Author: u/zorianteron *
 * URL: https://www.reddit.com/r/rational/comments/f6vqjx/ai_dungeon_or_how_a_wizard_and_an_ai_dm_conspired/
-* Score: 53
+* Score: 51
 
 * Created: 2020-02-20T16:42:41
 
@@ -606,85 +606,81 @@ I feel like the model got sick of me at the end, when it just said 'your constru
 
 ### Comments:
 
-> **u/__2BR02B__** [+16]  *Marxist-Lurianism**
+> **u/__2BR02B__** [+15]  *Marxist-Lurianism* (29 minutes later)
 > 
 > Very cool! Much more coherent than I would’ve expected.
-> 
 
->> **u/zorianteron** [+4] *
+>> **u/zorianteron** [+4]  (18 hours later)
 >> 
 >> I was just giving it a go for fun, but how well it fit together really surprised me.
->> I did have to make one revert at one point when it lost the plot and went in to an infinite loop, so it's not really perfect or something you could make a 'real' game with yet, but still- very interesting.  The fact it's apparently modelling situations to some degree is pretty crazy.
 >> 
+>> I did have to make one revert at one point when it lost the plot and went in to an infinite loop, so it's not really perfect or something you could make a 'real' game with yet, but still- very interesting.  The fact it's apparently modelling situations to some degree is pretty crazy.
 
-> **u/okokjustasking** [+11] *
+> **u/okokjustasking** [+10]  (5 hours later)
 > 
 > Might be good to add your comment at the end to the top. I got maybe a quarter of the way through before I got bored, but knowing this had all been GPT-2 generated I probably would have found that quarter a lot more interesting.
-> 
 
->> **u/zorianteron** [+2] *
+>> **u/zorianteron** [+2]  (18 hours later)
 >> 
 >> Sure, edited.
->> 
 
-> **u/None** [+11] *
+> **u/None** [+10]  (3 hours later)
 > 
 > >He nods slowly. "Do you think it might be cursed?" he asks.
-> >>"The thought crossed my mind."
-> Lmao, that had me cracking up
 > 
+> >>"The thought crossed my mind."
+> 
+> Lmao, that had me cracking up
 
-> **u/JustLookingToHelp** [+5] *
+> **u/JustLookingToHelp** [+3]  (3 hours later)
 > 
 > This is a lot more interesting than my own experience with ai dungeon today.  Picked a rogue and promptly was drawn into a conversation with a mysterious voice about how we should or shouldn't get married.
-> 
 
->> **u/zorianteron** [+2] *
+>> **u/zorianteron** [+2]  (18 hours later)
 >> 
 >> What'd you do in the end?
->> 
 
-> **u/hyphenomicon** [+5]  *seer of seers, prognosticator of prognosticators**
+> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators* (22 hours later)
 > 
 > > I've never done it before and I doubt if I ever will again. 
-> You failed an insight check.
-> > > "How did you get in here?"
-> > "I found this book while looking for a new job. It was lying around, so I picked it up."
-> > He nods slowly. "Do you think it might be cursed?" he asks.
-> > > "The thought crossed my mind."
-> > You shrug. "No, not really. 
-> Definitely cursed.
 > 
+> You failed an insight check.
+> 
+> > > "How did you get in here?"
+> 
+> > "I found this book while looking for a new job. It was lying around, so I picked it up."
+> 
+> > He nods slowly. "Do you think it might be cursed?" he asks.
+> 
+> > > "The thought crossed my mind."
+> 
+> > You shrug. "No, not really. 
+> 
+> Definitely cursed.
 
-> **u/GreenSatyr** [+3] *
+> **u/GreenSatyr** [+3]  (2 hours later)
 > 
 > Link to ai? I wanna play.
-> 
 
->> **u/sparr** [+5] *
+>> **u/sparr** [+5]  (3 hours later)
 >> 
 >> https://aidungeon.io/ probably
->> 
 
-> **u/MultipartiteMind** [+3] *
+> **u/MultipartiteMind** [+3]  (22 hours later)
 > 
 > That was uncannily consistent, for instance the part where the Wizard still remembers later that he's a vampire.  O.O
-> 
 
->> **u/Telandria** [+1] *
+>> **u/Telandria** [+1]  (4 days later)
 >> 
 >> I know right? Usually my runs the AI forgets what it was talking about like 2 sentences later. I’ve gotten stuck in dialogue loops on a number of occasions.
->> 
 
-> **u/covert_operator100** [+1] *
+> **u/covert_operator100** [+1]  (14 hours later)
 > 
 > Wow, so many nethack tropes in the beginning.
-> 
 
->> **u/zorianteron** [+1] *
+>> **u/zorianteron** [+1]  (18 hours later)
 >> 
 >> Yes, that was pretty interesting.  Some nethack logs must have been in the training text!  Pretty funky, too, I'd just been playing nethack before.
->> 
 
 ---
 

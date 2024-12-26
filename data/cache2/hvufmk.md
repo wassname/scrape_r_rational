@@ -2,7 +2,7 @@
 
 * Author: u/IamJackFox *
 * URL: https://www.reddit.com/r/rational/comments/hvufmk/rt_ff_worth_the_candle_a_uniquities_meeting/
-* Score: 110
+* Score: 112
 
 * Created: 2020-07-22T14:09:49
 
@@ -124,64 +124,63 @@ A kilometer underground, a skull impaled forty-three times was shivering slightl
 
 ### Comments:
 
-> **u/CannotThinkOfAThing** [+24] *
+> **u/CannotThinkOfAThing** [+24]  (35 minutes later)
 > 
 > That was great! I may have trouble remembering that it's not canon...
-> 
 
-> **u/sicutumbo** [+15] *
+> **u/sicutumbo** [+15]  (2 hours later)
 > 
 > I do like this, but there are a number of factual errors. Alcidia is the head of Uniquities, for one, though that could be an intentional change on your part. Aerb doesn't have video cameras, only crappy still cameras. Then there's various things that the characters probably shouldn't know at this point: That the Dream Skewered are almost entirely fabricated, that Joon is Dream Skewered, that Earth has better technology than Aerb, and that the Plane of Dreams isn't actually excluded.  I think you could move the timetable of this meeting up to be after Anglecynn, which would let them know that Joon is dream skewered, and maybe they could read his testimony and infer that Earth is doing alright relative to Aerb even if they don't know about the technology. They might plausibly know the other two, but it's a little odd that they mention offhand knowledge that should be really rare.
-> 
 
->> **u/IamJackFox** [+30] *
+>> **u/IamJackFox** [+29]  (3 hours later)
 >> 
 >> Good points! To respond to them individually:
->> •	Alcidia is intentionally different, partially because I couldn’t remember who the actual Director was and partially because I’ve found it implausible in the story that there aren’t at least a few pseudo-immortals running major political positions. There are, what, twenty thousand renacim? It’s bizarre that they don’t have a stronger grip on the politics of Aerb (although, to be fair, Vitrics are described as ‘long-lived’).
->> •	Radio was discovered on Aerb in 413 FE— quite a while ago. On earth, there was about a gap of 30-40 years between the invention of radio and television; progress on Aerb is considerably slower, but I don’t think it’s unreasonable for Uniquities to have access to a prototype or an entad that performs a similar function.
->> •	They know that the Dream Skewered are fabrications because they’ve talked to Speculator Masters in between the timing of the story and Juniper’s own visit. For the same reason, they know most of the details of Earth, as Masters understood them, and have confirmation that Joon is dream-skewered.
->> •	Worth the Candle is really long and frankly I’m surprised I was able to maintain any internal consistency in this oneshot at all. I’m a pretty new writer so I’m still getting a handle on these things. How A.W. does it, I may never know ¯\_(ツ)_/¯
 >> 
+>> •	Alcidia is intentionally different, partially because I couldn’t remember who the actual Director was and partially because I’ve found it implausible in the story that there aren’t at least a few pseudo-immortals running major political positions. There are, what, twenty thousand renacim? It’s bizarre that they don’t have a stronger grip on the politics of Aerb (although, to be fair, Vitrics are described as ‘long-lived’).
+>> 
+>> •	Radio was discovered on Aerb in 413 FE— quite a while ago. On earth, there was about a gap of 30-40 years between the invention of radio and television; progress on Aerb is considerably slower, but I don’t think it’s unreasonable for Uniquities to have access to a prototype or an entad that performs a similar function.
+>> 
+>> •	They know that the Dream Skewered are fabrications because they’ve talked to Speculator Masters in between the timing of the story and Juniper’s own visit. For the same reason, they know most of the details of Earth, as Masters understood them, and have confirmation that Joon is dream-skewered.
+>> 
+>> •	Worth the Candle is really long and frankly I’m surprised I was able to maintain any internal consistency in this oneshot at all. I’m a pretty new writer so I’m still getting a handle on these things. How A.W. does it, I may never know ¯\_(ツ)_/¯
 
->>> **u/sicutumbo** [+15] *
+>>> **u/sicutumbo** [+16]  (3 hours later)
 >>> 
 >>> Alcidia's grandmother was alive 500 years ago, so yeah you're looking at a north of 200 year lifespan.
->>> AW maintains consistency by spending a bunch of time on it, searching the posted text really frequently, and having patrons do consistency checking before the next batch gets released publicly. I'm mainly just nitpicky, the fic you posted is good in both quality and internal consistency.
 >>> 
+>>> AW maintains consistency by spending a bunch of time on it, searching the posted text really frequently, and having patrons do consistency checking before the next batch gets released publicly. I'm mainly just nitpicky, the fic you posted is good in both quality and internal consistency.
 
->>> **u/1337_w0n** [+1] *
+>>> **u/1337_w0n** [+1]  (6 days later)
 >>> 
 >>> Experience, resources, and time.
->>> 
 
-> **u/IamJackFox** [+7] *
+> **u/IamJackFox** [+8]  (3 minutes later)
 > 
 > For those of you who prefer reading in the format on fanfiction.net: [link](https://www.fanfiction.net/s/13650110/1/Worth-the-Candle-A-Uniquities-Meeting)
-> 
 
-> **u/adgnatum** [+5] *
+> **u/adgnatum** [+5]  (17 hours later)
 > 
 > Not an exact match to the original flavor, but thoughtful and compelling.
-> >but even he never became strong enough to change the rules, even if he sometimes broke them
-> A good point. And isn't this what the DM does, when necessary?
-> >Specifically, we need to get out of this box
-> I acknowledge this reference.
 > 
+> >but even he never became strong enough to change the rules, even if he sometimes broke them
+> 
+> A good point. And isn't this what the DM does, when necessary?
+> 
+> >Specifically, we need to get out of this box
+> 
+> I acknowledge this reference.
 
-> **u/Green0Photon** [+6]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+7]  *Student in Cyoria, Minmay, and Ranvar* (a day later)
 > 
 > This sub to Alexander Wales: if you don't release updates, we'll release updates for you!
-> 
 
-> **u/RidesThe7** [+4] *
+> **u/RidesThe7** [+4]  (2 hours later)
 > 
 > Very well done!
-> 
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (12 hours later)
 > 
 > fun concept
-> 
 
 ---
 

@@ -166,33 +166,30 @@ As he entered his cottage roughly an hour later, he crashed down onto his bed im
 
 ### Comments:
 
-> **u/DoubleSuccessor** [+10] *
+> **u/DoubleSuccessor** [+9]  (an hour later)
 > 
 > Ben's behavior and internal narrative rang gratingly false to me. From the very little established of his character in the first half or so, what he does in the second half makes no sense; the narrative feels very artificial and pre-planned, with Ben as an author spokespiece acting out some opaque moral parable.
-> 
 
->> **u/simonbaars** [+7] *
+>> **u/simonbaars** [+7]  (2 hours later)
 >> 
 >> Hey, thanks for your feedback! Thank you so much for reading it and giving your opinion.  I'm still new to writing, so this will help me a lot to improve my writing in the future.
->> 
 
-> **u/AccomplishedAd253** [+5] *
+> **u/AccomplishedAd253** [+6]  (a day later)
 > 
 > You do need to have more a transition from "OH MY GOSH! AHHH!" to "Here is my intellectually reasoned sustainable afterlife."  
 > It feels like the start and end of a conversation without the middle. I'd recommend Ben consider and nearly choose some more idealised options, before ultimately deciding that is a trap that would simply lead him into the same self-destructive cycle of running from consequences he has been living up until now. Have him realise that right here, right now, is his last chance ti embrace responsability for his own mind, if he gives in to a shortcut here, the version of Ben that could ever rise above his failings will be forever gone.
-> 
 
->> **u/simonbaars** [+1] *
+>> **u/simonbaars** [+1]  (2 days later)
 >> 
 >> Hey, thank you so much for this feedback! I love your suggestion to show a vulnerable "human" side of Ben, instead of cutting right to a weird "time jump" after which Ben suddenly figures out an arbitrary option. I also feel like cutting out the whole part about "virtues and sins", since on second thought I don't think it fits the goal of the story that well. I'll definitely do a rewrite to see if I can salvage this story.
->> By the way, if you're willing to share, I'm curious you interpreted the final paragraph/sentence. :)
 >> 
+>> By the way, if you're willing to share, I'm curious you interpreted the final paragraph/sentence. :)
 
->>> **u/AccomplishedAd253** [+1] *
+>>> **u/AccomplishedAd253** [+1]  (2 days later)
 >>> 
 >>> No worries.
->>> I found the last paragraph made me wonder if he really would be able to change, but slightly hopeful that he would. In many ways, the reader needs to take a leap of faith themselves that Ben is capable.
 >>> 
+>>> I found the last paragraph made me wonder if he really would be able to change, but slightly hopeful that he would. In many ways, the reader needs to take a leap of faith themselves that Ben is capable.
 
 ---
 

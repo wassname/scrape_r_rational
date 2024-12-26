@@ -2,7 +2,7 @@
 
 * Author: u/erwgv3g34 *
 * URL: http://web.archive.org/web/20090604111226/http://ttapress.com/553/crystal-nights-by-greg-egan/
-* Score: 77
+* Score: 74
 
 * Created: 2019-10-03T14:04:26
 
@@ -12,31 +12,27 @@
 
 ### Comments:
 
-> **u/None** [+20] *
+> **u/None** [+17]  (2 hours later)
 > 
 > Also being pro unshackled AI, just in case.
-> 
 
-> **u/JulianWyvern** [+18]  *Wayward Wanderer**
+> **u/JulianWyvern** [+17]  *Wayward Wanderer* (6 hours later)
 > 
 > guess this might also be why the transhumanist community is so friendly to each other
-> 
 
-> **u/Ozryela** [+3] *
+> **u/Ozryela** [+3]  (a day later)
 > 
 > That site is unreadable on mobile. It displays ads and other shit on top of the text.
-> Do you have a cleaner link?
 > 
+> Do you have a cleaner link?
 
->> **u/erwgv3g34** [+2] *
+>> **u/erwgv3g34** [+2]  (a day later)
 >> 
 >> http://www.gregegan.net/MISC/CRYSTAL/Crystal.html
->> 
 
-> **u/RedSheepCole** [+2] *
+> **u/RedSheepCole** [+2]  (2 days later)
 > 
 > Where does Roko's basilisk fit into this dispensation?
-> 
 
 ---
 

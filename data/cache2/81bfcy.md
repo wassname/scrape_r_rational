@@ -12,20 +12,23 @@
 
 ### Comments:
 
-> **u/MaddoScientisto** [+5] *
+> **u/MaddoScientisto** [+5]  (5 hours later)
 > 
 > >"It's, ah, an aurora borealis. We get them in Hogwarts, sometimes."
-> >"During the daytime?"
-> >"Yes."
-> >"Just near one of the castle's towers?"
-> >"Yes. They can be highly localised."
-> I can't decide if I want to laugh or groan... I'll probably do both because this is sort of great
 > 
+> >"During the daytime?"
+> 
+> >"Yes."
+> 
+> >"Just near one of the castle's towers?"
+> 
+> >"Yes. They can be highly localised."
+> 
+> I can't decide if I want to laugh or groan... I'll probably do both because this is sort of great
 
-> **u/lsparrish** [+3] *
+> **u/lsparrish** [+3]  (a day later)
 > 
 > The reference to [this thing](#s " Time Cube") was hilarious. Long time readers of Scott Alexander will remember it from [this](https://squid314.livejournal.com/327646.html).
-> 
 
 ---
 

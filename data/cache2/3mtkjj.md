@@ -2,7 +2,7 @@
 
 * Author: u/Faust91x  *Iteration X**
 * URL: https://www.fanfiction.net/s/8522454/1/Puella-Magi-Kiseki-Magica
-* Score: 8
+* Score: 7
 
 * Created: 2015-09-29T11:22:57
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (3 days later)
 > 
 > Could you by any chance review it or something? I'm used to having things suggested in more detail than just a link.
-> 
 
 ---
 

@@ -16,26 +16,27 @@ Pyrebound has been running for about a year now--I've been posting updates on r/
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+6]  (2 hours later)
 > 
 > Seems like the website ate a couple of spaces.
-> > anymore.They’d hiddentheirs
-> >six stories talland ill-made
-> >and giveHigh Atellu
-> >pass the timespotting
-
-> Damn, Darun is taking this hard. That sounded dangerously close to suicidal idolation there.
 > 
+> > anymore.They’d hiddentheirs
+> 
+> >six stories talland ill-made
+> 
+> >and giveHigh Atellu
+> 
+> >pass the timespotting
+> 
+> Damn, Darun is taking this hard. That sounded dangerously close to suicidal idolation there.
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (8 hours later)
 >> 
 >> Dang, four of them?  There are always formatting glitches for some reason, but that's a big set.  Thanks!
->> 
 
-> **u/CorneliusPhi** [+3] *
+> **u/CorneliusPhi** [+3]  (14 hours later)
 > 
 > This story has taken sick a dark turn, I'm really loving it
-> 
 
 ---
 

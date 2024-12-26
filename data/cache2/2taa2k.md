@@ -2,7 +2,7 @@
 
 * Author: u/wegengottdam *
 * URL: https://www.reddit.com/r/rational/comments/2taa2k/anybody_want_to_try_to_help_break_andor_analyse/
-* Score: 16
+* Score: 14
 
 * Created: 2015-01-22T13:16:17
 
@@ -64,162 +64,196 @@ So, try to see if I made any stupid mistakes, and if everything seems roughly ba
 
 ### Comments:
 
-> **u/Nepene** [+5] *
+> **u/Nepene** [+8]  (an hour later)
 > 
 > Is there any effort to gain magic users of a different type for each race? Water aristocrats seeking out ice conduits say.
-> 
 
-> **u/Ozimandius** [+7] *
+> **u/Ozimandius** [+4]  (an hour later)
 > 
 > It sounds like an interesting system.  A few questions:
-> Stasising parts of my body, what are the limits?  Apparently If I stasis my forearm I can still move it, does the same apply if I stasis my skin for example, perhaps leaving unstasised parts at the joints if flexibility would become an issue?
-> With the memory storage, can you store memories generated while in an ice memory palace in another memory palace?  If I am a scientist and I sit in my giant ice palace for hundreds of years thinking and doing mental research, learning all sorts of cool stuff, can I then make another memory palace that contains that entire experience and my memory of it and then  work in there for an even longer time?  Seems dangerous that potentially something that creates memory (time to think) is also part of the fuel for the power. 
-> How does the water shadow and water sense interact.  Can I freeze my enormous water shadow quickly to gain insane senses?
-> With the 25 mph limit: I can move my hand or foot at 25 mph with little difficulty.  Would it be possible to use this method to create shadows instead of sprinting?
-> The heat storage seems interesting but so limited and vulnerable.  The sorts of pressure vessels that can hold large amounts of steam are very heavy, and I wonder how limited these guys would be by that.  Especially if they are vulnerable to their own movement, moving something small that weighs 50 pounds or more at any sort of high speed is super dangerous.
-> Anyway it all sounds pretty awesome, there's a lot more questions to ask I suppose but I have to go.  Have fun!
 > 
+> Stasising parts of my body, what are the limits?  Apparently If I stasis my forearm I can still move it, does the same apply if I stasis my skin for example, perhaps leaving unstasised parts at the joints if flexibility would become an issue?
+> 
+> With the memory storage, can you store memories generated while in an ice memory palace in another memory palace?  If I am a scientist and I sit in my giant ice palace for hundreds of years thinking and doing mental research, learning all sorts of cool stuff, can I then make another memory palace that contains that entire experience and my memory of it and then  work in there for an even longer time?  Seems dangerous that potentially something that creates memory (time to think) is also part of the fuel for the power. 
+> 
+> How does the water shadow and water sense interact.  Can I freeze my enormous water shadow quickly to gain insane senses?
+> 
+> With the 25 mph limit: I can move my hand or foot at 25 mph with little difficulty.  Would it be possible to use this method to create shadows instead of sprinting?
+> 
+> The heat storage seems interesting but so limited and vulnerable.  The sorts of pressure vessels that can hold large amounts of steam are very heavy, and I wonder how limited these guys would be by that.  Especially if they are vulnerable to their own movement, moving something small that weighs 50 pounds or more at any sort of high speed is super dangerous.
+> 
+> Anyway it all sounds pretty awesome, there's a lot more questions to ask I suppose but I have to go.  Have fun!
 
->> **u/wegengottdam** [+2] *
+>> **u/wegengottdam** [+2]  (8 hours later)
 >> 
 >> Thanks for all the feedback, this is awesome.  
->> So, stasis.  From a conduit's perspective, it feels like they touch a piece of ice, pull the "essence" of it inside them, and then shove it into whatever body part's they want.  If they want it stasis'd longer, they shove more into that part.  Once they shove it, depending on how much they need, some of the ice will poof into vapor. They have some control, but not enough to choose specifically skin on the arms but not on the joints.  With practice and meditation, they can get better at specific regions, but there's still an upper limit.
->> For the iceputers(I'm sad I can't use that name in the book), that is a very very good point.  I think I'm going to change it so that you can't remember your time inside it, but you do keep what amounts to gut feelings and hunches based on your time there.  For example, you're in a forest, examining some mushrooms, unsure if ou should eat them, so you go into your iceputer where you've stored memories of learning about poisonous fungi. You study it for a bit, and then come back out, not remembering the studying, but still having the gut feeling that eating the one with red dots is a really bad idea.  If you spent a year inside one working on some math problems, you might come out with the feeling that you were on the right track, and when you try to solve it in the real world, you would have leaps of intuition that you wouldn't have had otherwise.   That way, they still can use it for combat (Duck!), and it doesn't equal god mode technology instantly. 
->> Can't believe I didn't see the senses and the shadow. This is what happens when you keep on changing things constantly without having it written down.  I'm going to go with yes.  However, on an other comments suggestion, I'm changing the water shadow so that instead of making infinite water that disappears, a water conduct must instead suck up fresh  (I'll say salt messes with the required purity, but that's mostly so theres still oceans) water by touching it, at which point it get's moved to hammerspace, waiting to get used. However, the feedback when you try to do the senses thing with the water from your personal stash, fucks up your water shadow big time, and it stops working for a couple minutes.  Plus, all that water used at the same moment will be roughly like setting off a flashbang in front of your face. Too much information is not a good thing.  So it's possible, but difficult and dangerous.  
->> With the water shadow and the speed limit, yes, it is possible, it's just generally a bad idea, unless you have insane amounts of practice.   For instance, if you swing your arm fast enough, water will come out of your stash, at which point your arm gets pushed forward even faster.  If you have a sword and you're swinging it, this can work, but otherwise, you the unbalanced force will probably just knock you on your ass, if it doesn't break your arm when it accelerates at a bad angle. A grand master might be able to do some pretty kickass martial arts using that though, crazy flying kick leaps and shit.  With enough practice, you might even be able to redirect that  water from the punch into a cutting jet, but well, it's alright if a story has some incredibly badass villains. 
->> Heat storage and then I should really go to bed.   Yeah I've been thinking about that, and I'm kinda unsure what to do.  I might give their tree's big ass seeds that are incredibly pressure resistant, while still being relatively light and come filled with mostly water.  That feels pretty hand wavey, any other suggestions as how to make them more powerful would be welcome.
 >> 
+>> So, stasis.  From a conduit's perspective, it feels like they touch a piece of ice, pull the "essence" of it inside them, and then shove it into whatever body part's they want.  If they want it stasis'd longer, they shove more into that part.  Once they shove it, depending on how much they need, some of the ice will poof into vapor. They have some control, but not enough to choose specifically skin on the arms but not on the joints.  With practice and meditation, they can get better at specific regions, but there's still an upper limit.
+>> 
+>> For the iceputers(I'm sad I can't use that name in the book), that is a very very good point.  I think I'm going to change it so that you can't remember your time inside it, but you do keep what amounts to gut feelings and hunches based on your time there.  For example, you're in a forest, examining some mushrooms, unsure if ou should eat them, so you go into your iceputer where you've stored memories of learning about poisonous fungi. You study it for a bit, and then come back out, not remembering the studying, but still having the gut feeling that eating the one with red dots is a really bad idea.  If you spent a year inside one working on some math problems, you might come out with the feeling that you were on the right track, and when you try to solve it in the real world, you would have leaps of intuition that you wouldn't have had otherwise.   That way, they still can use it for combat (Duck!), and it doesn't equal god mode technology instantly. 
+>> 
+>> Can't believe I didn't see the senses and the shadow. This is what happens when you keep on changing things constantly without having it written down.  I'm going to go with yes.  However, on an other comments suggestion, I'm changing the water shadow so that instead of making infinite water that disappears, a water conduct must instead suck up fresh  (I'll say salt messes with the required purity, but that's mostly so theres still oceans) water by touching it, at which point it get's moved to hammerspace, waiting to get used. However, the feedback when you try to do the senses thing with the water from your personal stash, fucks up your water shadow big time, and it stops working for a couple minutes.  Plus, all that water used at the same moment will be roughly like setting off a flashbang in front of your face. Too much information is not a good thing.  So it's possible, but difficult and dangerous.  
+>> 
+>> With the water shadow and the speed limit, yes, it is possible, it's just generally a bad idea, unless you have insane amounts of practice.   For instance, if you swing your arm fast enough, water will come out of your stash, at which point your arm gets pushed forward even faster.  If you have a sword and you're swinging it, this can work, but otherwise, you the unbalanced force will probably just knock you on your ass, if it doesn't break your arm when it accelerates at a bad angle. A grand master might be able to do some pretty kickass martial arts using that though, crazy flying kick leaps and shit.  With enough practice, you might even be able to redirect that  water from the punch into a cutting jet, but well, it's alright if a story has some incredibly badass villains. 
+>> 
+>> Heat storage and then I should really go to bed.   Yeah I've been thinking about that, and I'm kinda unsure what to do.  I might give their tree's big ass seeds that are incredibly pressure resistant, while still being relatively light and come filled with mostly water.  That feels pretty hand wavey, any other suggestions as how to make them more powerful would be welcome.
 
-> **u/m0le** [+3] *
+> **u/m0le** [+4]  (4 hours later)
 > 
 > Ice and Steam suffer the same problem - they are fortress powers (both ice powers decrease mobility, steam needs a local heat source for most of their abilities). Water have insane mobility and incredible attacking powers. 
-> Water Conduits seem overpowered for siege scale attacks. Consider the amount of water you could drop on your enemy by spinning in a circle (2 people, spinning at 3g in a 600m diameter circle gives about 60mm per 5 minutes of rainfall, which is over world record rainfall level... remember, from 2 Conduits). They could fly vertically up and down (well, near vertically assuming they can go faster than terminal velocity) hammering a column of water onto the unfortunates underneath. If it does look a bit dodgy, away they go and the Ice and Steam people can't follow (Ice at all, Steam for long).
-> On the world-building front, the major travel routes between Water cities are going to be cut quickly into grand canyon style landscapes by erosion from the high-powered water jets passing regularly overhead (assuming there is any regular travel, you could avoid it with an intensely feudal structure). If the nobles have any sense, irrigation wouldn't be a problem so they could spread over most terrain, encroaching on the tropics quickly. With enhanced senses, mining becomes much less about guesswork, so there would be no shortage of materiel for the expansion. They're going to cover the world very quickly.
 > 
+> Water Conduits seem overpowered for siege scale attacks. Consider the amount of water you could drop on your enemy by spinning in a circle (2 people, spinning at 3g in a 600m diameter circle gives about 60mm per 5 minutes of rainfall, which is over world record rainfall level... remember, from 2 Conduits). They could fly vertically up and down (well, near vertically assuming they can go faster than terminal velocity) hammering a column of water onto the unfortunates underneath. If it does look a bit dodgy, away they go and the Ice and Steam people can't follow (Ice at all, Steam for long).
+> 
+> On the world-building front, the major travel routes between Water cities are going to be cut quickly into grand canyon style landscapes by erosion from the high-powered water jets passing regularly overhead (assuming there is any regular travel, you could avoid it with an intensely feudal structure). If the nobles have any sense, irrigation wouldn't be a problem so they could spread over most terrain, encroaching on the tropics quickly. With enhanced senses, mining becomes much less about guesswork, so there would be no shortage of materiel for the expansion. They're going to cover the world very quickly.
 
->> **u/Evilness42** [+2]  *And even myth is long forgotten...**
+>> **u/Evilness42** [+2]  *And even myth is long forgotten...* (8 hours later)
 >> 
 >> Do you think the water people don't get dizzy? I don't believe that spinning in a circle very fast is going to be very good for a person. Of course, in your scenario, an Ice type user could just stasis him/herself until the water person collapses. Thoughts? 
->> And the Ice type fortresses would be difficult to break due to their invincible walls of stasis'd old people. If the political situation(nations) are similar to the Avatar-verse, any invaders would be pretty much incapable of getting inside.
 >> 
+>> And the Ice type fortresses would be difficult to break due to their invincible walls of stasis'd old people. If the political situation(nations) are similar to the Avatar-verse, any invaders would be pretty much incapable of getting inside.
 
->>> **u/m0le** [+1] *
+>>> **u/m0le** [+1]  (13 hours later)
 >>> 
 >>> Dizzy is fine, health effects are why I limited the acceleration to 3g, but I was mostly thinking about it in the context of lots of Conduits in parallel, and dizziness doesn't apply to vertical climb and descents which are more damaging.
->>> The Ice user could stasis until the water person collapses, assuming they're not then entirely encased in fresh ice (they can't rapidly consume ice with stasis, and memorice doesn't change volume or temp). I am assuming that the newly created water doesn't disappear if it changes forms - if it does, then I would imagine being around water conduits long term while breathing would lead to horrible medical complications from parts of chemicals within your body vanishing.
->>> Invincible walls just means the erosive effects of the temporary water are concentrated and will undermine the foundations (along with all the other buildings). Make the floor of stasis people too (who wants to be walked over all the time?), and water will still flow through the gaps so every so often the whole village drops a bit into the new hollow below. Probably not good for non-invincible buildings or people.
->>> Remember, the invaders don't have to be inside, just overhead less than 5 minutes drop. Good luck hitting someone that high with a crude steam cannon or similar tech.
 >>> 
+>>> The Ice user could stasis until the water person collapses, assuming they're not then entirely encased in fresh ice (they can't rapidly consume ice with stasis, and memorice doesn't change volume or temp). I am assuming that the newly created water doesn't disappear if it changes forms - if it does, then I would imagine being around water conduits long term while breathing would lead to horrible medical complications from parts of chemicals within your body vanishing.
+>>> 
+>>> Invincible walls just means the erosive effects of the temporary water are concentrated and will undermine the foundations (along with all the other buildings). Make the floor of stasis people too (who wants to be walked over all the time?), and water will still flow through the gaps so every so often the whole village drops a bit into the new hollow below. Probably not good for non-invincible buildings or people.
+>>> 
+>>> Remember, the invaders don't have to be inside, just overhead less than 5 minutes drop. Good luck hitting someone that high with a crude steam cannon or similar tech.
 
->>>> **u/Evilness42** [+1]  *And even myth is long forgotten...**
+>>>> **u/Evilness42** [+1]  *And even myth is long forgotten...* (a day later)
 >>>> 
 >>>> I suppose you're right  then. Really depends if someone thinks of doing that though. I mean, we're talking about a standard fantasy kingdom tech level for the water people.
->>>> 
 
->>>>> **u/m0le** [+1] *
+>>>>> **u/m0le** [+1]  (a day later)
 >>>>> 
 >>>>> True, just because something is possible in a fictional world doesn't break it. Look at the famous worlds, most have glaring exploitable flaws, and we're just nitpicking. Good luck with it, the world and its geopolitics sound suitably unstable for some epic storytelling!
->>>>> 
 
->>>>>> **u/Evilness42** [+1]  *And even myth is long forgotten...**
+>>>>>> **u/Evilness42** [+1]  *And even myth is long forgotten...* (a day later)
 >>>>>> 
 >>>>>> Well, I'm not the author, but I suppose I wish him luck too.
->>>>>> And about those famous worlds: I *know,* right!?! I mean, the most popular world in existence(so far as I know), had tons of exploitable flaws that took *ages* for people to find, but once they've been found, people use them without even noticing! I mean, the development of proper muchkinry took far too long to spread through all the genres.
 >>>>>> 
+>>>>>> And about those famous worlds: I *know,* right!?! I mean, the most popular world in existence(so far as I know), had tons of exploitable flaws that took *ages* for people to find, but once they've been found, people use them without even noticing! I mean, the development of proper muchkinry took far too long to spread through all the genres.
 
-> **u/Tirran** [+6] *
+> **u/Tirran** [+4]  (10 hours later)
 > 
 > I personally dislike how much it feels like every aspect comes down to word-of-author. The way people receive powers comes down to what feels like a mind projection fallacy , because the difference between all of these is like 100 kelvin, while for the previous 250 kelvin there weren't any distinctions, you know? Water's just water.
-> 
 
-> **u/Kishoto** [+3] *
+> **u/Kishoto** [+3]  (an hour later)
 > 
 > What's the diplomatic relations between them like? Are conduits free to travel anywhere they like?
-> 
 
-> **u/Kiroto** [+2] *
+> **u/Kiroto** [+2]  (an hour later)
 > 
 > Some questions to flesh things out:
-> **General**
-> Is there an in-world reason for the thematic nature of their magic system? There are a lot of "why?" questions that'd be most easily answered by 'water god said so when he made the system.' Why only 1 type of conduit power per person? Why segregated by geography? Just how much exposure is required to activate a conduit?
-> **Ice**
-> >>make parts or all of you utterly invincible, but also immovable.
-> Wouldn't the immovable clause preclude punching? If it's immobility with respect to some frame of reference (the ground, probably) then alternatively freezing the bottom of your feet would be  a valid method of walking through the air. 
-> If old folk can be used for a wall, I guess than means the length of the stasis is chosen upon activation and the ice cost is 'paid' then as well. Can you change the duration actively? How selective can you be with the process? Can I perma-stasis the skin of my forearm and shin and retain full mobility with nigh infinite blocking power? Getting a super-speed punch blocked by an utterly unyielding forearm would hurt.
-> Iceputers seem interesting. I'm sure the 'cannot change the temp of an iceputer' clause could be manipulated for tech applications. (super efficient heat sink) It also seems like it may have some crazy synergy with non-ice conduits' abilities. Make a 'container' out of ice, store 'I had toast this morning' and now a steam user has complete immunity to heat/fire while holding it.
-> An active piece of memory ice seems to be only affected by its creator 'going in.' Can others ever view the stored memory? What if I try to stasis using an active iceputer? When the owner of an active piece of memorice dies, does it persist? If I have an absurd capacity for learning, could I make an ice memory (huge, my entire knowledge of math) then relearn the concept and keep the permanent ice around? Old folk doing the noble sacrifice of 10000 year stasis could probably get a little more yield by more or less wiping their own minds beforehand. Make an entire perma-cool ice palace and turn into a (frozen) vegetable!
-> **Water**
-> Water seems outright broken to me. Once you hit 25 mph, you've got super mobility that comes with the ability to shoot cutting jets. If this is a no-firearms type of world, that's nigh unstoppable. Add in the fact that being inundated by an overhead water conduit would really mess up the capabilities of both ice and steam conduits by way of melting/cooling their respective 'fuels.'
-> 'Water sense' consumes water, but someone actively leaving a water trail could just freeze some of that infinite source for arbitrarily strong perception, or make enormous blocks of ice rain down from miles up. Even if water is consumed, rather than frozen, this would be 'always on' for an actively mobile water conduit.
-> **Steam**
-> What defines/bounds the idea of a container? If I make a stainless steel sphere 1/2 full of water, then redirect heat into it, I've got the best-case scenario for a fuel tank, but it still seems somewhat limited.
-> How hot does something need to be to serve as a heat source to a steam user? The cutoff there could make or break its applications. That said, in a fantasy-level world's tech, being able to manipulate molten metal by hand would have interesting outcomes...
 > 
+> **General**
+> 
+> Is there an in-world reason for the thematic nature of their magic system? There are a lot of "why?" questions that'd be most easily answered by 'water god said so when he made the system.' Why only 1 type of conduit power per person? Why segregated by geography? Just how much exposure is required to activate a conduit?
+> 
+> **Ice**
+> 
+> >>make parts or all of you utterly invincible, but also immovable.
+> 
+> Wouldn't the immovable clause preclude punching? If it's immobility with respect to some frame of reference (the ground, probably) then alternatively freezing the bottom of your feet would be  a valid method of walking through the air. 
+> 
+> If old folk can be used for a wall, I guess than means the length of the stasis is chosen upon activation and the ice cost is 'paid' then as well. Can you change the duration actively? How selective can you be with the process? Can I perma-stasis the skin of my forearm and shin and retain full mobility with nigh infinite blocking power? Getting a super-speed punch blocked by an utterly unyielding forearm would hurt.
+> 
+> Iceputers seem interesting. I'm sure the 'cannot change the temp of an iceputer' clause could be manipulated for tech applications. (super efficient heat sink) It also seems like it may have some crazy synergy with non-ice conduits' abilities. Make a 'container' out of ice, store 'I had toast this morning' and now a steam user has complete immunity to heat/fire while holding it.
+> 
+> An active piece of memory ice seems to be only affected by its creator 'going in.' Can others ever view the stored memory? What if I try to stasis using an active iceputer? When the owner of an active piece of memorice dies, does it persist? If I have an absurd capacity for learning, could I make an ice memory (huge, my entire knowledge of math) then relearn the concept and keep the permanent ice around? Old folk doing the noble sacrifice of 10000 year stasis could probably get a little more yield by more or less wiping their own minds beforehand. Make an entire perma-cool ice palace and turn into a (frozen) vegetable!
+> 
+> **Water**
+> 
+> Water seems outright broken to me. Once you hit 25 mph, you've got super mobility that comes with the ability to shoot cutting jets. If this is a no-firearms type of world, that's nigh unstoppable. Add in the fact that being inundated by an overhead water conduit would really mess up the capabilities of both ice and steam conduits by way of melting/cooling their respective 'fuels.'
+> 
+> 'Water sense' consumes water, but someone actively leaving a water trail could just freeze some of that infinite source for arbitrarily strong perception, or make enormous blocks of ice rain down from miles up. Even if water is consumed, rather than frozen, this would be 'always on' for an actively mobile water conduit.
+> 
+> **Steam**
+> 
+> What defines/bounds the idea of a container? If I make a stainless steel sphere 1/2 full of water, then redirect heat into it, I've got the best-case scenario for a fuel tank, but it still seems somewhat limited.
+> 
+> How hot does something need to be to serve as a heat source to a steam user? The cutoff there could make or break its applications. That said, in a fantasy-level world's tech, being able to manipulate molten metal by hand would have interesting outcomes...
 
->> **u/wegengottdam** [+1] *
+>> **u/wegengottdam** [+1]  (a day later)
 >> 
 >> **General**
+>> 
 >> There isn't a specific reason for the theme of water other than it sounded cool, I admit. The segregation of different populations, though, is actually based on the shape of the world. There's heavier gravity at the poles and lesser gravity at the equator(see explanation in parentheses), so the populations have each adapted for their environment, weight wise as well as temperature wise, and so don't do super well outside their region.  The powers are actually fairly recent, only having occurred within the last 500 years, when a giant, incredibly intense aurora swept across the world one night. Almost everyone gained the genetic marker at that point, but only young people could become conduits.  More exposure, up until the end of puberty makes it more likely, but still not guaranteed. A potential water conduit could spend hours every day swimming during their childhood, and still not become one, though that's very, very unlikely. It's a somewhat random process, but influenced by both the total amount of time spent around the phase and the quantity of the phase around them.  
+>> 
 >> (Take a smallish world, and make it mostly out of dense metals, so that it will naturally have 1.5g. Then, spin it really fast, probably at a minimum of around 3 times earths rotation, though I haven't done the exact calculations. This means that the closer you go to the equator, the more centrifugal force there is, which will offset the gravity. Earth actually has this, it's just a very minor effect. At the poles, you have almost no spin, therefore the full gravity, but at the equatorial hot lands, you have enough spin to give you around .7g. Since its fairly dense, it won't deform nearly as much as a regular world, and if it's a fairly young world, it won't have had enough time to deform out into a more discus shape. )  
 >>  Side note, anyone want to tell if that's actually possible, with the world?  The research I did made it seem so, but no else had done the math, and I'm not sure what to do to check it. 
+>> 
 >> So, **Ice**. 
+>> 
 >>  I guess unbreakable and unbendable would be a better term, as long as you're not stasising everything, at which you truly do become immovable with respect to the ground.  If you stasis your arm, you could use it as an unbreakable lever.  Just be careful not to rip off your shoulder.  As for degree of control, from a conduit's perspective, it feels like they touch a piece of ice, pull the "essence" of it inside them, and then shove it into whatever body part's they want. If they want it stasis'd longer, they shove more into that part. Once they shove it, depending on how much they need, some of the ice will poof into vapor. They have some control, but not enough to choose specifically skin on the arms but not on the joints. With practice and meditation, they can get better at specific regions, but there's still an upper limit. And yes, stasising your hands or forearm and blocking with it will definitely hurt whoever is punching you. 
+>> 
 >> The efficient heat sink was on purpose, I wanted to give them a way to help power their technology.  I think I'm going to silghtly change things, though, and instead of having them be utterly incapable of changing temperature, instead make them very, very efficient insulators. They can still use them for heat engines, but they'll very slowly melt.  Makes their civilization consume memory for fuel, which is fun. You can only access your own iceputer, and can't stasis using it. However, you can break your iceputer, physically,  at which point it turns back into normal ice and you can  use it. There's actually a cultural belief that someday they'll fix all the old people and make them young, cryonics style, so the old people keep all the memories they have left when they stasis.  They agree to be part of wall to keep the city safe, and it return the city will someday try to revive them.
+>> 
 >> **Water**
 >> I was trying to make them scary, since they were going to be some of the main antagonists, but I think I succeeded way too well.  I'm going to nerf them by having the water shadow only draw on water that they've siphoned off into a personal hammerspace, which also neatly solves the problems of just how the aristocrats are keeping their stranglehold on the peasants.  The peasants have no water to make them trigger, becuase the aristocrats are hoarding all of it to fight each other. The ice people do have firearms, but they're not amazing, no rifling yet.   
+>> 
 >> I'm going to say that the senses with the water shadow is possible, but the feedback from your hammerspace and the using it for senses messes up the connection to your reservoir, and it stops working for a bit.  If you just use a little bit, it'll only mess it up for a couple seconds, but if you try to convert the whole thing into ice, it'll stop working for minutes, at which point you very well might die from hitting the ground. Additionally, increasing senses by that much all at once will be roughly like setting off a flashbang in close proximity to your face, i.e. not helpful. So, the ice bombing trick is possible, but very tricky to pull off, and leaves you vulnerable to assassination by say your son, the prince. 
+>> 
 >> **Steam**
 >> Yeah, I'm not really sure how to define the containers, because right the steamlander do seem by far the weakest, and the need for source of heat is their biggest weakness. I guess I could add the ability to concentrate on steam that's closeby and telekinetically squeeze it and slowly move it, making it so they can mentally deal with the pressure, up until they decide to release it.  They wouldn't even need a container for pressure purposes, they could mentally tow around a ball of superheated steam.  A vessel would be very helpful for insulation purposes, though, and I'm sure they would love to get their hands on some iceputers...
 >> They pull heat through themselves, so I'm going to go with hotter than body temperature. Also, since they can dump heat from themselves into water with a touch, I suppose that means that a violent enough person could make people's heads explode with a touch.
->> 
 
-> **u/RMcD94** [+2] *
+> **u/RMcD94** [+2]  (4 hours later)
 > 
 > You said gravity doesn't move them in statis, doesn't that mean they are launched into space or through earth
-> 
 
-> **u/IX-103** [+2] *
+> **u/IX-103** [+2]  (4 hours later)
 > 
 > How long does it take for a ice conduit user to apply personal stasis? If it can be triggered instantly, then you have the perfect shield for any attack that you can predict. 
+> 
 > How fast can you enter and leave your iceputer?  If you can go in and out of your ice mind palace at a high rate, you could spend a minute or so to completely process what you heard/saw/felt/smelled in each 1/10th of a second. This would effectively give you the increased thinking speed of the steam users without the drawbacks.
+> 
 > Do iceputers act as perfect heat insulators (do not conduct heat), or do they just have an infinite specific heat (tend force the environment to match their temperature)? 
 > If they force the environment to match their temperature, then they are severely overpowered since 1) they could suck the heat right out of steam users before it could be used, 2) they could prevent a water user from using any of their powers by freezing the water-shadow to their skin as it is generated.
 > If they are perfect heat insulators, then they would obviously have a lot of industrial uses. Aside from making metallurgy much more efficient, they could be used to create engines that are 100% thermodynamically efficient. Heck, with something like that, it may even be possible to create usable fusion power (put water in an almost perfectly sealed iceputer container, add energy until you are getting more energy out than you put in).
-> Can iceputers be altered mechanically -- can they be cut/carved/drilled/shattered with appropriate tools and force? If so, what what would the appropriate tools/force be? What happens with the pieces of the original iceputer that result -- do I end up with a bunch of smaller iceputers (each with a fragment of the memory), or do I end up with regular ice fragments and the memory is destroyed? 
-> If they are can't be altered mechanically, they would be unbreakable and would be the perfect material for armor and weapons. Even if they break to smaller iceputers, they could be used to fashion armor practically impermeable to heat (Your heat can't get through my bag of iceputer dust armor!).
 > 
+> Can iceputers be altered mechanically -- can they be cut/carved/drilled/shattered with appropriate tools and force? If so, what what would the appropriate tools/force be? What happens with the pieces of the original iceputer that result -- do I end up with a bunch of smaller iceputers (each with a fragment of the memory), or do I end up with regular ice fragments and the memory is destroyed? 
+> 
+> If they are can't be altered mechanically, they would be unbreakable and would be the perfect material for armor and weapons. Even if they break to smaller iceputers, they could be used to fashion armor practically impermeable to heat (Your heat can't get through my bag of iceputer dust armor!).
 
->> **u/wegengottdam** [+4] *
+>> **u/wegengottdam** [+5]  (7 hours later)
 >> 
 >> Man, this is why I love /r/rational.  Triggering stasis for the whole body can happen as fast as "oh shit", but triggering it for specific places takes more time and mental effort, probably about up to a half second with enough training and practice.  Entering and leaving can happen instantaneously, but it does use up the ice.  And I think I'm going to change it, based on some other comments about infinite loops of memories, so that you can't remember what you exactly did in the iceputer, but you do keep conclusions as gut feelings and instincts.  For example, you're in a forest, examining some mushrooms, unsure if you should eat them,  so you go into your iceputer where you've stored memories of learning about poisonous fungi.  You study it for a bit, and then come back out, not remembering the studying, but still having the gut feeling that eating the one with red dots is a really bad idea. 
->> I was planning on perfect insulators, since that would give the ice people an easy way to power their technology. Or maybe it'd be better to simply have them as really, really efficient insulators, like 99%. That way, they would melt eventually, just really, really slowly, and could still be used to make efficient engines for their airships, without breaking the laws of physics. Airships fueled by the consumption of memories sounds fun.   I think with the level of technology they have, around 1800's-ish, insanely efficient engines won't be too broken? 
->> Iceputers can be broken just like normal ice, and once broken they turn back into ice. (However, you need normal ice for stasis...) No suits of ice armor, though the armor of insulating ice is possible, if you want to to spend the time to put enough memories into enough small pieces of ice, that will melt eventually.
 >> 
+>> I was planning on perfect insulators, since that would give the ice people an easy way to power their technology. Or maybe it'd be better to simply have them as really, really efficient insulators, like 99%. That way, they would melt eventually, just really, really slowly, and could still be used to make efficient engines for their airships, without breaking the laws of physics. Airships fueled by the consumption of memories sounds fun.   I think with the level of technology they have, around 1800's-ish, insanely efficient engines won't be too broken? 
+>> 
+>> Iceputers can be broken just like normal ice, and once broken they turn back into ice. (However, you need normal ice for stasis...) No suits of ice armor, though the armor of insulating ice is possible, if you want to to spend the time to put enough memories into enough small pieces of ice, that will melt eventually.
 
-> **u/Igigigif** [+2]  *IT Foxgirl**
+> **u/Igigigif** [+2]  *IT Foxgirl* (4 hours later)
 > 
 > What's the tech like in this universe? Do the steam people have anything more complex than stone tools? Do the water people have steel yet? How far ahead are the ice people?
-> Also, does ice stasis apply to clothes/held objects as well the people using it? and are there powers for the other two states of matter?
-> ~~Lastly, a suggested nerf for the water people; the water shadow doesn't draw from an infinite supply of water, but rather from a finite store that can be replenished by the users~~
-> EDIT: What are the restriction on what can/can't be absorbed? Assuming low tech level for the water people, any water will contain impurities. It it just limited to salt? 
-> How insular is ice society? to the others have any access to their tech? How likely is it for different phase users to work together? Is there a lower limit on steam-heat taking? 
-> Electric dynamos were invented during the 1800's so what an ice user could do is have an iceputer encased steam-powered (heat provided by a steam user) source of electricity. This is something of a trump against the water people.
 > 
+> Also, does ice stasis apply to clothes/held objects as well the people using it? and are there powers for the other two states of matter?
+> 
+> ~~Lastly, a suggested nerf for the water people; the water shadow doesn't draw from an infinite supply of water, but rather from a finite store that can be replenished by the users~~
+> 
+> EDIT: What are the restriction on what can/can't be absorbed? Assuming low tech level for the water people, any water will contain impurities. It it just limited to salt? 
+> 
+> How insular is ice society? to the others have any access to their tech? How likely is it for different phase users to work together? Is there a lower limit on steam-heat taking? 
+> 
+> Electric dynamos were invented during the 1800's so what an ice user could do is have an iceputer encased steam-powered (heat provided by a steam user) source of electricity. This is something of a trump against the water people.
 
->> **u/wegengottdam** [+1] *
+>> **u/wegengottdam** [+1]  (a day later)
 >> 
 >> That's a very good suggestion for the water users and I thank you. It even gives them the water kingdoms a reason to be fighting each other all the time, lands with plentiful rainfall would be very, very desirable, plus it explains why none of the peasants are conduits.  Steam has metal tools, mostly iron, helped along by their ability to manipulate glowing hot metal barehanded. They also have a variety of weapons based around rapid steam expansion, effectively really powerful blow guns. Water Kingdoms have 1200's-ish They trade a little bit with the Ice people, for more advanced stuff, but the Ice people are leery of giving up their biggest advantage. 
-
->> Stasis does not apply, a 200 foot long stasised piece of string would be a little strong on the battlefield.   Do you mean Bose-Einstein Condensates for the 5th?  I was going to have one of the villains discover plasma, and become a plasma conduit, but I'm not entirely sure what it's going to do yet.  
-
->> Hmmm. Good points.  Only salt is a bit arbitrary, but salt does destroy farmland as well.  From a medieval perspective, it wouldn't seem weird that salt stops you from sucking up the water as well.   
-
->> Ice society is quite insular, the state makes trading away any of their technologies, except for things they consider harmless, a crime punishable by forced stasis.  They know it's their biggest advantage, so they don't want it spreading too far. They would love to work with the steam people, since easy heat transfer has a lot of industrial advantages, but the one thing that the assorted water kingdoms agree on is that any trading happens through them, and they are very protective of their territory.
 >> 
+>> Stasis does not apply, a 200 foot long stasised piece of string would be a little strong on the battlefield.   Do you mean Bose-Einstein Condensates for the 5th?  I was going to have one of the villains discover plasma, and become a plasma conduit, but I'm not entirely sure what it's going to do yet.  
+>> 
+>> Hmmm. Good points.  Only salt is a bit arbitrary, but salt does destroy farmland as well.  From a medieval perspective, it wouldn't seem weird that salt stops you from sucking up the water as well.   
+>> 
+>> Ice society is quite insular, the state makes trading away any of their technologies, except for things they consider harmless, a crime punishable by forced stasis.  They know it's their biggest advantage, so they don't want it spreading too far. They would love to work with the steam people, since easy heat transfer has a lot of industrial advantages, but the one thing that the assorted water kingdoms agree on is that any trading happens through them, and they are very protective of their territory.
 
-> **u/Igigigif** [+2]  *IT Foxgirl**
+> **u/Igigigif** [+2]  *IT Foxgirl* (9 hours later)
 > 
 > Sorry about the double post, just wanted to give a list of useful 19th century inventions:
+> 
 > * the electric dynamo
 > * the battery
 > * steam locomotives
@@ -236,42 +270,52 @@ So, try to see if I made any stupid mistakes, and if everything seems roughly ba
 > * the steam turbine
 > * radar
 > * smokeless gunpowder
-> Do all these apply to the ice people? If so, that is one hell of an out of context problem for the water people.
 > 
+> Do all these apply to the ice people? If so, that is one hell of an out of context problem for the water people.
 
->> **u/wegengottdam** [+1] *
+>> **u/wegengottdam** [+1]  (a day later)
 >> 
 >> Hmm.  I think I'll go with right around 1810, with dynamite and non rifled guns. An airship is possible then, especially with really efficient heat engines, but they won't instantly massacre their enemies
->> 
 
-> **u/philip1201** [+2] *
+> **u/philip1201** [+2]  (a day later)
 > 
 > >The water aristocrats have cottoned on to this, so they've actually managed to eradicate the vast majority of the open water among their lands,
-> Hold up, they've eradicated *the ocean*? They've 
-> >Stasis is relatively straightforward, touch a piece of ice, and make parts or all of you utterly invincible, but also immovable. Whatever you stasis gets a silvery, icy sheen. You choose how long the stasis will last, when you activate it, so with a big chunk of ice, you could stasis yourself for years. You can’t affect clothing or anything you’re holding, limiting turning thin string into an impossibly sharp blade. 
-> "Parts of yourself" mean you can still create impossibly sharp blades. Stasis a single cell thick layer of your epidermis, or a single hair if dead parts of your body are allowed, and you still get an impossibly sharp blade. You could create thousands of 30μm-thin needles by Stasising alternating rows of skin cells.
-> As a more macabre option, dying people could turn their bodies into 3D printers, Stasising sections of body parts with arbitrary shapes. Morbid obesity would help with the size limits, and of course the head can be preserved so it's not a costly sacrifice in a Utilitarian sense.
-> >If you stasis all of yourself, you will become immovable by anything, even gravity, but you won’t be able to see what’s happening.
-> "Immovable by gravity": unconstrained by the clutches of the sun, earth, galaxy, or supercluster components, you immediately fly off into space at thousands of kilometers per second.
-> This needs clarification.
-> >so for many generation, when someone is about to die, they instead are taken to the wall, and stasis themselves for ten thousand years or so,
-> This is going to be awkward in ten thousand years when the first octogenarians thaw and are immediately crushed to death by later generations.
-> >making it incapable of changing temperature
-> You wot m8. This is either superconductivity, a perfect insulator, or a cheap source of energy. If it perfectly reflects all heat at the point where it receives it, use it as perfect insulation: furnaces, clothes, etc. If it perfectly reflects all heat it receives, evenly distributed over its surface, coat a thin, very long memory shard with insulating materials (easy to create with ridiculously sharp human skin-knives in the form of a grating), heat it at one end to cause heating at the other end, allowing for long-distance communications. If it always feels the same temperature regardless of heat sources, place it in an environment with a different temperature (e.g. outside) and harvest energy from the heat exchange. Export it to the tropics for refrigeration.
-> Also: these memory shards add with the Stasis cannons to make perfect pneumatic cannons. Place 1 L of memory ice in the back end of a Stasis barrel, which has one tiny hole in the back. Have someone stand against the back of the Stasis barrel, touching the memory ice through the hole. Have them Stasis their body, except for a cubic micrometer around the hole and whatever else is necessary to be safe. Have them enter the memory ice, and wait there until the memory ice will completely sublimate upon leaving. Then, have them leave. 1000L of sublimated steam propels the projectile forward, having nowhere else to go because it is completely surrounded by infinitely strong materials.
 > 
+> Hold up, they've eradicated *the ocean*? They've 
+> 
+> >Stasis is relatively straightforward, touch a piece of ice, and make parts or all of you utterly invincible, but also immovable. Whatever you stasis gets a silvery, icy sheen. You choose how long the stasis will last, when you activate it, so with a big chunk of ice, you could stasis yourself for years. You can’t affect clothing or anything you’re holding, limiting turning thin string into an impossibly sharp blade. 
+> 
+> "Parts of yourself" mean you can still create impossibly sharp blades. Stasis a single cell thick layer of your epidermis, or a single hair if dead parts of your body are allowed, and you still get an impossibly sharp blade. You could create thousands of 30μm-thin needles by Stasising alternating rows of skin cells.
+> 
+> As a more macabre option, dying people could turn their bodies into 3D printers, Stasising sections of body parts with arbitrary shapes. Morbid obesity would help with the size limits, and of course the head can be preserved so it's not a costly sacrifice in a Utilitarian sense.
+> 
+> >If you stasis all of yourself, you will become immovable by anything, even gravity, but you won’t be able to see what’s happening.
+> 
+> "Immovable by gravity": unconstrained by the clutches of the sun, earth, galaxy, or supercluster components, you immediately fly off into space at thousands of kilometers per second.
+> 
+> This needs clarification.
+> 
+> >so for many generation, when someone is about to die, they instead are taken to the wall, and stasis themselves for ten thousand years or so,
+> 
+> This is going to be awkward in ten thousand years when the first octogenarians thaw and are immediately crushed to death by later generations.
+> 
+> >making it incapable of changing temperature
+> 
+> You wot m8. This is either superconductivity, a perfect insulator, or a cheap source of energy. If it perfectly reflects all heat at the point where it receives it, use it as perfect insulation: furnaces, clothes, etc. If it perfectly reflects all heat it receives, evenly distributed over its surface, coat a thin, very long memory shard with insulating materials (easy to create with ridiculously sharp human skin-knives in the form of a grating), heat it at one end to cause heating at the other end, allowing for long-distance communications. If it always feels the same temperature regardless of heat sources, place it in an environment with a different temperature (e.g. outside) and harvest energy from the heat exchange. Export it to the tropics for refrigeration.
+> 
+> Also: these memory shards add with the Stasis cannons to make perfect pneumatic cannons. Place 1 L of memory ice in the back end of a Stasis barrel, which has one tiny hole in the back. Have someone stand against the back of the Stasis barrel, touching the memory ice through the hole. Have them Stasis their body, except for a cubic micrometer around the hole and whatever else is necessary to be safe. Have them enter the memory ice, and wait there until the memory ice will completely sublimate upon leaving. Then, have them leave. 1000L of sublimated steam propels the projectile forward, having nowhere else to go because it is completely surrounded by infinitely strong materials.
 
-> **u/Timewinders** [+1] *
+> **u/Timewinders** [+1]  (12 hours later)
 > 
 > How do the water aristocrats keep the commoners away from bodies of water? You'd think that when the water people were first developing they'd have built all of their settlements along rivers and oceans, even more so than people in real life did. In order to change that, the aristocrats would have had to force people to move inland, which would have resulted in a war that I don't see the aristocrats winning since the water people would have had a large number of commoner Conduits at that point in time. Basically, the history isn't making sense to me.
-> 
 
-> **u/E-o_o-3** [+1] *
+> **u/E-o_o-3** [+1]  (4 hours later)
 > 
 > Can you use it on others?
-> Specifically, can a steamperson use an ice memory / speed up an ice person, and do the subjective-time-advantage effects stack?
-> Can steam speed up water to stack the super-movingthing?
 > 
+> Specifically, can a steamperson use an ice memory / speed up an ice person, and do the subjective-time-advantage effects stack?
+> 
+> Can steam speed up water to stack the super-movingthing?
 
 ---
 

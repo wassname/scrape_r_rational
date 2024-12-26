@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/onlynega** [+2] *
+> **u/onlynega** [+2]  (a day later)
 > 
 > Learn's unabashed practicality is fun to read.
-> 
 
 ---
 

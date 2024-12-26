@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/mmxo8h/wip_the_new_humans_chapter_one_hundred_and_six_a/
-* Score: 17
+* Score: 19
 
 * Created: 2021-04-08T18:06:01
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/efhg07/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 4
+* Score: 3
 
 * Created: 2019-12-25T15:04:58
 
@@ -24,23 +24,23 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/Tharkun140** [+5] *
+> **u/Tharkun140** [+5]  (3 hours later)
 > 
 > I am going to take an opportunity to talk about a story I have planned.
-> It's a Mass Effect fanfic that might end up being a full-fledged rational fic. The basic idea is to make fun of how the game allows you to pick "Engineer" as your class, but then has you solve all your problems by shooting things anyway. I intend to make the main character into an actual engineer, who is expected to fight all kinds of alien monstrocities even though that's not at all what he is trained to do. The effect is a smartass, resourceful, kind of cowardly doctor of engineering trying to talk and puzzle his way out of the situations he is thrown into. As the story goes on, the characters are revealed to differ from their canon counterparts as well and the plot starts to be less like a heroic space opera and more like a... "HPMOR on drugs" seems like a good term if I get my way. I have only half a chapter written and only a few things planned, so I'm not sure if it ends up going anyway.
 > 
+> It's a Mass Effect fanfic that might end up being a full-fledged rational fic. The basic idea is to make fun of how the game allows you to pick "Engineer" as your class, but then has you solve all your problems by shooting things anyway. I intend to make the main character into an actual engineer, who is expected to fight all kinds of alien monstrocities even though that's not at all what he is trained to do. The effect is a smartass, resourceful, kind of cowardly doctor of engineering trying to talk and puzzle his way out of the situations he is thrown into. As the story goes on, the characters are revealed to differ from their canon counterparts as well and the plot starts to be less like a heroic space opera and more like a... "HPMOR on drugs" seems like a good term if I get my way. I have only half a chapter written and only a few things planned, so I'm not sure if it ends up going anyway.
 
->> **u/Norseman2** [+1] *
+>> **u/Norseman2** [+1]  (7 hours later)
 >> 
 >> I like it. I'm imagining something like:
->> "They call us engineers. Not demolitions engineers, electrical engineers, mechanical engineers or any sort of specific title. No, according to the brass in Spectre, we are simply 'engineers'. Of what? It doesn't matter. The important part for them is that we're all people capable of passing through engineering school, which means we all excel at analytical reasoning and creative problem solving, at least compared to your typical Systems Alliance marine. And that's why they order 'engineers' into combat."
 >> 
+>> "They call us engineers. Not demolitions engineers, electrical engineers, mechanical engineers or any sort of specific title. No, according to the brass in Spectre, we are simply 'engineers'. Of what? It doesn't matter. The important part for them is that we're all people capable of passing through engineering school, which means we all excel at analytical reasoning and creative problem solving, at least compared to your typical Systems Alliance marine. And that's why they order 'engineers' into combat."
 
-> **u/None** [+1] *
+> **u/None** [+1]  (23 hours later)
 > 
 > It would be too much to paste everything here, but over [here](https://specevo.jcink.net/index.php?showtopic=1552&st=0&#entry19159) I'm working on the worldbuilding for the sequel for [Junction](https://www.goodreads.com/book/show/41427865-junction), a science fiction book published last year about a planet whose surface is linked to hundreds of thousands of other habitable planets by means of a grid of "wormholes," including Earth. The sequel will hopefully iron out some of the problems in this scheme...
-> So if you have questions or suggestions for me, I'd love to hear them. Those wormholes are hard to think about.
 > 
+> So if you have questions or suggestions for me, I'd love to hear them. Those wormholes are hard to think about.
 
 ---
 

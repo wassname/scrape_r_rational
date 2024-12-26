@@ -2,7 +2,7 @@
 
 * Author: u/JackVoraces *
 * URL: https://www.reddit.com/r/rational/comments/dlyfz5/chapter_22_mother_of_learning_audiobook/
-* Score: 20
+* Score: 21
 
 * Created: 2019-10-23T12:16:59
 
@@ -26,18 +26,19 @@ Spotify: [https://open.spotify.com/show/4MCs8UYpoBlNp4aRfzB3a5](https://open.spo
 
 ### Comments:
 
-> **u/ViceroyChobani** [+3]  *Reserve Pigeon Army**
+> **u/ViceroyChobani** [+3]  *Reserve Pigeon Army* (3 days later)
 > 
 > Thank you for putting, “Chapter 22” before, “Mother of Learning”. 
-> Almost got unreasonably excited. 
-> Close call.
 > 
+> Almost got unreasonably excited. 
+> 
+> Close call.
 
-> **u/BigBeautifulEyes** [+2] *
+> **u/BigBeautifulEyes** [+2]  (3 days later)
 > 
 > Didn't the matriarch screw up her understanding of what a primordial is?
-> That you can't "summon" them at all because they are native to our plain of existence?
 > 
+> That you can't "summon" them at all because they are native to our plain of existence?
 
 ---
 

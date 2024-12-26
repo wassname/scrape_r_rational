@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+5]  *Roll the Dice on Fate* (10 hours later)
 > 
 > A fun article, but I don't think this is really the place for it.
-> 
 
 ---
 

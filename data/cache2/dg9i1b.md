@@ -12,41 +12,41 @@
 
 ### Comments:
 
-> **u/None** [+9] *
+> **u/None** [+9]  (59 minutes later)
 > 
 > Gotta say, I understand this one even less than the last chapter. Which is pretty standard for JoJo, but still.
-> 
 
-> **u/FattyUmpire** [+7] *
+> **u/FattyUmpire** [+7]  (34 seconds later)
 > 
 > The title of this story has always been consistent.
-> 
 
-> **u/Saffrin-chan** [+8] *
+> **u/Saffrin-chan** [+7]  (59 minutes later)
 > 
 > I can't decide what's more Jojo in this chapter, the moms extreme hatred and paranoia of pretty birds, or the sticker obsessed "doctor" lol.
-> Also, birthmark on his left shoulder? Sadao married into the Joestars, so Jonah can't be born from what was taken from him last chapter. The timeline just barely lines up for him to be one of Dio's children right before he dies, but if the mother is to be believed on being a virgin, then it could have been Charlotte's doing with any of the Joestar's dna.
-> .
-> pretty sure there's a type here with the wrong name: 
-> >Jonah reached her hand through the curtain, careful not to look at her son. She found his left hand and gripped it tight. Jonah saw her touching him and felt nothing.
-> That should be Justýna reaching through the curtain, right?
 > 
+> Also, birthmark on his left shoulder? Sadao married into the Joestars, so Jonah can't be born from what was taken from him last chapter. The timeline just barely lines up for him to be one of Dio's children right before he dies, but if the mother is to be believed on being a virgin, then it could have been Charlotte's doing with any of the Joestar's dna.
+> 
+> .
+> 
+> pretty sure there's a type here with the wrong name: 
+> 
+> >Jonah reached her hand through the curtain, careful not to look at her son. She found his left hand and gripped it tight. Jonah saw her touching him and felt nothing.
+> 
+> That should be Justýna reaching through the curtain, right?
 
->> **u/FattyUmpire** [+3] *
+>> **u/FattyUmpire** [+3]  (an hour later)
 >> 
 >> >"That should be Justýna reaching through the curtain, right?"
->> Yes, thank you. I corrected it.
 >> 
+>> Yes, thank you. I corrected it.
 
-> **u/xThoth19x** [+4] *
+> **u/xThoth19x** [+6]  (4 hours later)
 > 
 > The fact that someone stole joestar(sorta) semen surprised me with how much it didn't surprise me :)
-> 
 
-> **u/Kelpsie** [+2] *
+> **u/Kelpsie** [+2]  (22 hours later)
 > 
 > Jesus.
-> 
 
 ---
 

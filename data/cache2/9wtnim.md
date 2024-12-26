@@ -2,7 +2,7 @@
 
 * Author: u/pepeipe *
 * URL: https://www.royalroad.com/fiction/chapter/306599
-* Score: 24
+* Score: 25
 
 * Created: 2018-11-13T22:03:39
 

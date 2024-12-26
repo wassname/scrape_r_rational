@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/9mq9rk/dbst_national_novel_writing_month/
-* Score: 47
+* Score: 49
 
 * Created: 2018-10-09T15:44:59
 
@@ -24,249 +24,255 @@ As for making all this *rational*, that's just a matter of what direction you ta
 
 ### Comments:
 
-> **u/None** [+12] *
+> **u/None** [+12]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/narfanator** [+4] *
+>> **u/narfanator** [+3]  (15 hours later)
 >> 
 >> I find it's totally possible to be rational about my emotions. In many ways they're a sense; we call them _feel_ings and e_motions_ after all; both of which are words directly referencing your sense of touch. 
->> just because something's objective (and ever-changing) doesn't mean you can't Science! it. Observe, hypothesize, experiment, repeat. Always be ready to be wrong about why you feel what you feel, just like you would with any theory. But, at the same time, don't doubt your feelings (on a sensory level) any more than you would your eyes. It's just also really hard for us to talk about emotions without the words themselves enforcing an explanation; pick an emotion and describe the _literal_ sensations _in your body_ that go with it. One is theory, one is observation.
 >> 
+>> just because something's objective (and ever-changing) doesn't mean you can't Science! it. Observe, hypothesize, experiment, repeat. Always be ready to be wrong about why you feel what you feel, just like you would with any theory. But, at the same time, don't doubt your feelings (on a sensory level) any more than you would your eyes. It's just also really hard for us to talk about emotions without the words themselves enforcing an explanation; pick an emotion and describe the _literal_ sensations _in your body_ that go with it. One is theory, one is observation.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> [deleted]
->> 
 
-> **u/AmeteurOpinions** [+10]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+11]  *Finally, everyone was working together.* (3 hours later)
 > 
 > *It's here already?!*
-> 
 
->> **u/xamueljones** [+9]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+8]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> You've played through this joke [before](https://np.reddit.com/r/rational/comments/3nqi12/dbst_national_novel_writing_month/cvqj7vn/). Also, there's 22 days left to do the planning, you're *fine.*
->> 
 
->>> **u/AmeteurOpinions** [+15]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+15]  *Finally, everyone was working together.* (4 hours later)
 >>> 
 >>> It’s wasnt supposed to be a joke. The fact that this still creeps up on me after these years is somewhat mortifying.
->>> 
 
->>>> **u/Ms_CIA** [+5]  *Derp**
+>>>> **u/Ms_CIA** [+4]  *Derp* (a day later)
 >>>> 
 >>>> I know, right? And then it has to be in November, of all months. Thanksgiving, final exams...I mean, really. It was such a pain when I was in school.
->>>> 
 
-> **u/WalterTFD** [+3] *
+> **u/WalterTFD** [+3]  (10 hours later)
 > 
 > I'm going to give it a shot this year, putting my serial on easy mode while I work on the novel.  This year I'm going to amazon self publish SOMETHING.
-> 
 
-> **u/Ms_CIA** [+3]  *Derp**
+> **u/Ms_CIA** [+3]  *Derp* (a day later)
 > 
 > >Figure out your characters. If you're having trouble with this, just steal from somewhere and strip off the serial numbers. No one is ever going to call you on your main character acting just like Monica from Friends so long as you fudge the life details.
-> Gotta say, every time I've tried this strategy, someone calls me out. Even when I'm only explaining my story idea. People are just way too perceptive. :P
-> Overall, some great advice. :) I'm doing Nanowrimo again this year, as usual. Here's hoping I don't fudge my numbers again like the last few years. (Unless 2000 words of character development, deleted scenes and grocery lists counts as "novel writing.")
-
-> &#x200B;
 > 
+> Gotta say, every time I've tried this strategy, someone calls me out. Even when I'm only explaining my story idea. People are just way too perceptive. :P
+> 
+> Overall, some great advice. :) I'm doing Nanowrimo again this year, as usual. Here's hoping I don't fudge my numbers again like the last few years. (Unless 2000 words of character development, deleted scenes and grocery lists counts as "novel writing.")
+> 
+> &#x200B;
 
->> **u/derefr** [+2] *
+>> **u/derefr** [+2]  (2 days later)
 >> 
 >> It only works if you don't consume the same media as your audience.
->> If I write a ratfic with a Miles Vorkosigan expy, everybody's gonna figure it out, because /r/rational readers and I share a common referent there.
->> Meanwhile, if I write a ratfic with a [Do Bong-soon](https://en.wikipedia.org/wiki/Strong_Girl_Bong-soon) expy, then, while *someone else* might recognize what's going on, the average /r/rational reader probably won't. And since the genre of ratfic isn't likely to be read by anyone *other than* "the archetypal /r/rational reader", I can rest easy.
 >> 
+>> If I write a ratfic with a Miles Vorkosigan expy, everybody's gonna figure it out, because /r/rational readers and I share a common referent there.
+>> 
+>> Meanwhile, if I write a ratfic with a [Do Bong-soon](https://en.wikipedia.org/wiki/Strong_Girl_Bong-soon) expy, then, while *someone else* might recognize what's going on, the average /r/rational reader probably won't. And since the genre of ratfic isn't likely to be read by anyone *other than* "the archetypal /r/rational reader", I can rest easy.
 
->>> **u/Ms_CIA** [+1]  *Derp**
+>>> **u/Ms_CIA** [+1]  *Derp* (2 days later)
 >>> 
 >>> Oh hey, Strong Girl Do Bong-Soon! I never saw the whole series, but yeah...probably would have caught that one, if someone used it. The show was really popular overseas for a while, so I think international ratfic readers would also be familiar.
->>> Rather than directly copying a character, I tend to prefer blending traits from multiple sources. Some people use common character archetypes, and others draw inspiration from psychology theory (Myers-Briggs, Enneagram, Zodiac, etc.) I've even had some friends use things like Hogwarts houses and favorite member of the Beatles to differentiate their characters.
->>> So yeah, there's lots of strategies for building characters that are more creative and fun than just copying them. Besides, it avoids some problems if you ever decide to traditionally publish the work later.
 >>> 
+>>> Rather than directly copying a character, I tend to prefer blending traits from multiple sources. Some people use common character archetypes, and others draw inspiration from psychology theory (Myers-Briggs, Enneagram, Zodiac, etc.) I've even had some friends use things like Hogwarts houses and favorite member of the Beatles to differentiate their characters.
+>>> 
+>>> So yeah, there's lots of strategies for building characters that are more creative and fun than just copying them. Besides, it avoids some problems if you ever decide to traditionally publish the work later.
 
->>>> **u/derefr** [+2] *
+>>>> **u/derefr** [+2]  (3 days later)
 >>>> 
 >>>> > Rather than directly copying a character, I tend to prefer blending traits from multiple sources. Some people use common character archetypes, and others draw inspiration from psychology theory (Myers-Briggs, Enneagram, Zodiac, etc.) I've even had some friends use things like Hogwarts houses and favorite member of the Beatles to differentiate their characters.
->>>> The reason people don't give this advice, and prefer the "copy a character from somewhere else" advice, is that even experienced authors often forget to give a character the little humanizing tics and foibles unique to each human being, instead focusing on the "big-picture" qualities they have that determine their plot arc.
->>>> In other words, a character made from the "top down" more often than not ends up feeling like a collection of tropes, rather than a character.
->>>> When *not* copying characters from others, characters usually start out as "cardboard cutouts" of themselves, and tend to only gain a "voice" as the story goes on for long enough that the author can recall things they did once on a whim, and decide to make those into parts of who the character is.
->>>> This is most easily observed in the production of long-running television series, as this process of adding tics and foibles is usually left to *the actor* rather than being incorporated into the screenwriting. So this is, for example, the difference between *Star Trek: TNG* seasons 1 and 2 (what people call the "growing the beard" moment): in season 1, the actors were just going off the character as the script represented them; whereas, by season 2, everyone understood their character well-enough to give them their own "flavour." It's when the actors begin to "ham it up" in their roles, changing the characters from things that exist in service to the plot, into memorable standalone people in their own right.
->>>> When you're writing something not intended to be portrayed by actors, you have to go through both parts of this process yourself. And it's slow going.
->>>> The easy way to *speed it up* is to decide, "in the mind of the actor", that the flavour they've decided to inject into their character regardless of the wishes of the "director", is exactly that same *flavor* that you've observed being portrayed somewhere else.
->>>> Note that this is not the same as copying the *character*. The advice usually ignores this part. The goal isn't to take Sherlock Holmes and put them in Lord of the Rings. The goal is to create an original character, with their own beliefs, strengths, weaknesses, and personality—their own top-down design—and then *flavor* them with the *tics and foibles* of a particular *portrayal* of Sherlock Holmes that you enjoyed. To mentally *cast a particular actor* to play your character's role, and then, rather than describing the character, to describe how that actor would *play* your character if the director said to "play this role just like you played that previous role."
->>>> ---
->>>> There's a visual equivalent of this, that might help to understand the distinction better. Picture a cartoon or anime series—where there's already a top-down visual character design and portrayal—being adapted to live-action. Now consider the difference between "the book of the anime" and "the book of the live-action series of the anime." How would each describe the same character, visually? "The book of the anime" would describe their *archetypal* features, the ones the author and artist explicitly chose to put in. But "the book of the live-action adaptation" would likely describe the same character as *the way the actor looks when portraying the character*. (Do you think there were any *Harry Potter* fanfics, after the movies came out, that tried to describe the characters visually as anything *other than* the movies' actors' portrayals of those characters?)
->>>> Or: do you know what Dracula sounds like? Dracula probably sounds, to you, like Bela Lugosi playing Dracula in *Dracula (1931)* sounds. The book never described the quality of the vampire's voice, AFAIK. That detail and hundreds of others—crucial to "enlivening" the character in every later portrayal—was filled into the character's "canon" by choices made by a casting director, and choices made by the actor themselves.
->>>> Now picture "Bela Lugosi's choices in playing Dracula", applied to a portrayal *of* the character of Sherlock Holmes. That's the trick that's being suggested here. Nobody will realize that a Sherlock Holmes portrayal with a Hungarian interpretation of a Romanian accent and over-the-top eyebrow movements, has borrowed anything from Dracula, because Sherlock Holmes is *not a count in a castle*, and so will never need to do any of the *particular* things that Dracula does; and because Sherlock Holmes doesn't have deathly-pale skin and slicked-back hair and huge eyebrows, so those tics and foibles will *read differently* on your character than they would on Bela Lugosi's face when playing Dracula. The things a "Bela Lugosi's Dracula as Sherlock Holmes" would do, and would *be*, are entirely novel to that interpretation of the character—but at the same time, you probably can imagine exactly what they *are*, without even trying. Creating such a mental mapping gives you an *infinite font* of tics and foibles to inject on a whim into your character's interactions, without any of them really being recognizable.
->>>> (Note: I'm not suggesting you build a character as "X's portrayal of Y applied to Z." Rather, you invent your own Z—an original character that actually fits, in character-dynamic and setting senses—into your story. Do all the same top-down work you'd otherwise do—like you said, by choosing an MBTI type for them, or deciding what mental illnesses they're hinted to have at subclinical levels, or figuring out what fatal character flaw will doom them in your tragedy. You do all that, to come up with a character *sketch* for your original character. And then, having done that, you *color it in* by treating some portrayal of some character that you understand well as your muse for tics and foibles.)
 >>>> 
+>>>> The reason people don't give this advice, and prefer the "copy a character from somewhere else" advice, is that even experienced authors often forget to give a character the little humanizing tics and foibles unique to each human being, instead focusing on the "big-picture" qualities they have that determine their plot arc.
+>>>> 
+>>>> In other words, a character made from the "top down" more often than not ends up feeling like a collection of tropes, rather than a character.
+>>>> 
+>>>> When *not* copying characters from others, characters usually start out as "cardboard cutouts" of themselves, and tend to only gain a "voice" as the story goes on for long enough that the author can recall things they did once on a whim, and decide to make those into parts of who the character is.
+>>>> 
+>>>> This is most easily observed in the production of long-running television series, as this process of adding tics and foibles is usually left to *the actor* rather than being incorporated into the screenwriting. So this is, for example, the difference between *Star Trek: TNG* seasons 1 and 2 (what people call the "growing the beard" moment): in season 1, the actors were just going off the character as the script represented them; whereas, by season 2, everyone understood their character well-enough to give them their own "flavour." It's when the actors begin to "ham it up" in their roles, changing the characters from things that exist in service to the plot, into memorable standalone people in their own right.
+>>>> 
+>>>> When you're writing something not intended to be portrayed by actors, you have to go through both parts of this process yourself. And it's slow going.
+>>>> 
+>>>> The easy way to *speed it up* is to decide, "in the mind of the actor", that the flavour they've decided to inject into their character regardless of the wishes of the "director", is exactly that same *flavor* that you've observed being portrayed somewhere else.
+>>>> 
+>>>> Note that this is not the same as copying the *character*. The advice usually ignores this part. The goal isn't to take Sherlock Holmes and put them in Lord of the Rings. The goal is to create an original character, with their own beliefs, strengths, weaknesses, and personality—their own top-down design—and then *flavor* them with the *tics and foibles* of a particular *portrayal* of Sherlock Holmes that you enjoyed. To mentally *cast a particular actor* to play your character's role, and then, rather than describing the character, to describe how that actor would *play* your character if the director said to "play this role just like you played that previous role."
+>>>> 
+>>>> ---
+>>>> 
+>>>> There's a visual equivalent of this, that might help to understand the distinction better. Picture a cartoon or anime series—where there's already a top-down visual character design and portrayal—being adapted to live-action. Now consider the difference between "the book of the anime" and "the book of the live-action series of the anime." How would each describe the same character, visually? "The book of the anime" would describe their *archetypal* features, the ones the author and artist explicitly chose to put in. But "the book of the live-action adaptation" would likely describe the same character as *the way the actor looks when portraying the character*. (Do you think there were any *Harry Potter* fanfics, after the movies came out, that tried to describe the characters visually as anything *other than* the movies' actors' portrayals of those characters?)
+>>>> 
+>>>> Or: do you know what Dracula sounds like? Dracula probably sounds, to you, like Bela Lugosi playing Dracula in *Dracula (1931)* sounds. The book never described the quality of the vampire's voice, AFAIK. That detail and hundreds of others—crucial to "enlivening" the character in every later portrayal—was filled into the character's "canon" by choices made by a casting director, and choices made by the actor themselves.
+>>>> 
+>>>> Now picture "Bela Lugosi's choices in playing Dracula", applied to a portrayal *of* the character of Sherlock Holmes. That's the trick that's being suggested here. Nobody will realize that a Sherlock Holmes portrayal with a Hungarian interpretation of a Romanian accent and over-the-top eyebrow movements, has borrowed anything from Dracula, because Sherlock Holmes is *not a count in a castle*, and so will never need to do any of the *particular* things that Dracula does; and because Sherlock Holmes doesn't have deathly-pale skin and slicked-back hair and huge eyebrows, so those tics and foibles will *read differently* on your character than they would on Bela Lugosi's face when playing Dracula. The things a "Bela Lugosi's Dracula as Sherlock Holmes" would do, and would *be*, are entirely novel to that interpretation of the character—but at the same time, you probably can imagine exactly what they *are*, without even trying. Creating such a mental mapping gives you an *infinite font* of tics and foibles to inject on a whim into your character's interactions, without any of them really being recognizable.
+>>>> 
+>>>> (Note: I'm not suggesting you build a character as "X's portrayal of Y applied to Z." Rather, you invent your own Z—an original character that actually fits, in character-dynamic and setting senses—into your story. Do all the same top-down work you'd otherwise do—like you said, by choosing an MBTI type for them, or deciding what mental illnesses they're hinted to have at subclinical levels, or figuring out what fatal character flaw will doom them in your tragedy. You do all that, to come up with a character *sketch* for your original character. And then, having done that, you *color it in* by treating some portrayal of some character that you understand well as your muse for tics and foibles.)
 
->>>>> **u/Ms_CIA** [+1]  *Derp**
+>>>>> **u/Ms_CIA** [+1]  *Derp* (3 days later)
 >>>>> 
 >>>>> >The reason people don't give this advice, and prefer the "copy a character from somewhere else" advice, is that even experienced authors often forget to give a character the little humanizing tics and foibles unique to each human being, instead focusing on the "big-picture" qualities they have that determine their plot arc.
->>>>> Is the "copy a character" advice really common? I’ve read a lot of articles about fiction writing, and I’ve never seen anyone recommend this. More often, they recommend writing strategies to “get to know” your character.
->>>>> >When you're writing something not intended to be portrayed by actors, you have to go through both parts of this process yourself. And it's slow going.
->>>>> Acting is a very different process from fiction writing, though. It’s true that some authors take a while to discover the right voice for their characters, but you can always go back and edit previous chapters. I certainly had to do that with my earlier fiction writing. Still, I wouldn't say the process is always slow going.
->>>>> In fact, a lot of authors find character building to be one of the easiest, most enjoyable parts of the writing process. It’s not about building a character using an objective, top-down process, but more like a very organic, subjective experience that invokes feelings, memories and all kinds of senses to discover who the character is. Experienced authors often know their characters inside and out before they put the pen to paper, which is why their writing voice is very strong and compelling.
->>>>> (Not that you can't also do this with the top-down process, but that getting to know your character has to be meaningful to you, not just a...laundry list of traits, I guess.)
->>>>> >(Note: I'm not suggesting you build a character as "X's portrayal of Y applied to Z." Rather, you invent your own Z—an original character that actually fits, in character-dynamic and setting senses—into your story. Do all the same top-down work you'd otherwise do—like you said, by choosing an MBTI type for them, or deciding what mental illnesses they're hinted to have at subclinical levels, or figuring out what fatal character flaw will doom them in your tragedy. You do all that, to come up with a character sketch for your original character. And then, having done that, you color it in by treating some portrayal of some character that you understand well as your muse for tics and foibles.)
->>>>> Hmm. So, I think all authors do this, to a certain extent. You create your own character, then realize, “oh hey, my character reminds me of Sherlock Holmes” or “huh, this character has some similar traits to my best friend in college.” It might be tempting, at this point, to “color in” the character with copied mannerisms from these people. And I suppose you can do this, if it's justified, but typically I use these similarities as inspiration for how my character should "feel." I'll modify some aspects of personality based on patterns I notice, but it's minor tweaks, if anything. Their core remains the same.
->>>>> As for copying a *random* character's quirks, just because you feel like your character will be one dimensional if you don't? Well...I don't see how that would help. What makes a character interesting is their identity: motivation, interests, family history, fears and desires. All of these things color the person, make them real in the reader's mind. But what *really* grounds them is how they interact with the other characters. If you can make *those* scenes have an emotional impact, then you'll have readers eagerly turning the pages. Random character quirks, if they exist, are just bonus.
->>>>> I am curious, though. Is character building a common problem in rational fiction? I know that a compelling plot seems to be the most important thing, so I could see this leading to plot driven stories, versus character driven. It would be interesting if rational fiction tends toward a detached view on characters and their relationships, since this is so different from what's common in other writing genres.
 >>>>> 
+>>>>> Is the "copy a character" advice really common? I’ve read a lot of articles about fiction writing, and I’ve never seen anyone recommend this. More often, they recommend writing strategies to “get to know” your character.
+>>>>> 
+>>>>> >When you're writing something not intended to be portrayed by actors, you have to go through both parts of this process yourself. And it's slow going.
+>>>>> 
+>>>>> Acting is a very different process from fiction writing, though. It’s true that some authors take a while to discover the right voice for their characters, but you can always go back and edit previous chapters. I certainly had to do that with my earlier fiction writing. Still, I wouldn't say the process is always slow going.
+>>>>> 
+>>>>> In fact, a lot of authors find character building to be one of the easiest, most enjoyable parts of the writing process. It’s not about building a character using an objective, top-down process, but more like a very organic, subjective experience that invokes feelings, memories and all kinds of senses to discover who the character is. Experienced authors often know their characters inside and out before they put the pen to paper, which is why their writing voice is very strong and compelling.
+>>>>> 
+>>>>> (Not that you can't also do this with the top-down process, but that getting to know your character has to be meaningful to you, not just a...laundry list of traits, I guess.)
+>>>>> 
+>>>>> >(Note: I'm not suggesting you build a character as "X's portrayal of Y applied to Z." Rather, you invent your own Z—an original character that actually fits, in character-dynamic and setting senses—into your story. Do all the same top-down work you'd otherwise do—like you said, by choosing an MBTI type for them, or deciding what mental illnesses they're hinted to have at subclinical levels, or figuring out what fatal character flaw will doom them in your tragedy. You do all that, to come up with a character sketch for your original character. And then, having done that, you color it in by treating some portrayal of some character that you understand well as your muse for tics and foibles.)
+>>>>> 
+>>>>> Hmm. So, I think all authors do this, to a certain extent. You create your own character, then realize, “oh hey, my character reminds me of Sherlock Holmes” or “huh, this character has some similar traits to my best friend in college.” It might be tempting, at this point, to “color in” the character with copied mannerisms from these people. And I suppose you can do this, if it's justified, but typically I use these similarities as inspiration for how my character should "feel." I'll modify some aspects of personality based on patterns I notice, but it's minor tweaks, if anything. Their core remains the same.
+>>>>> 
+>>>>> As for copying a *random* character's quirks, just because you feel like your character will be one dimensional if you don't? Well...I don't see how that would help. What makes a character interesting is their identity: motivation, interests, family history, fears and desires. All of these things color the person, make them real in the reader's mind. But what *really* grounds them is how they interact with the other characters. If you can make *those* scenes have an emotional impact, then you'll have readers eagerly turning the pages. Random character quirks, if they exist, are just bonus.
+>>>>> 
+>>>>> I am curious, though. Is character building a common problem in rational fiction? I know that a compelling plot seems to be the most important thing, so I could see this leading to plot driven stories, versus character driven. It would be interesting if rational fiction tends toward a detached view on characters and their relationships, since this is so different from what's common in other writing genres.
 
->>>>>> **u/derefr** [+1] *
+>>>>>> **u/derefr** [+1]  (5 days later)
 >>>>>> 
 >>>>>> I haven't seen character building as being a problem in ratfic in particular, no. The place where this advice is common, is in the specific context *of NaNoWriMo*.
->>>>>> The goal of NaNoWriMo is to write a novel within a month. In my experience, a lot of the participants take that to mean that you have to do *all* of the work of writing the novel within that month—which includes character-building.
->>>>>> The advice is given because it's a hack to get a "character that feels like a real person" built quickly, without needing to rely on you already having a muse-of-the-moment, someone who you already have ideas for how they would fictionalize.
->>>>>> I think the advice is also common amongst writers of episodic serials with new side-characters in each entry; and amongst especially prolific writers like Stephen King who make a living by churning out more than one standalone novel per year. These people *need* a greater number of interesting characters than they have built-up "potential energy" of good ideas to base them upon.
->>>>>> > But what *really* grounds them is how they interact with the other characters.
->>>>>> I was using "tics and foibles" as a short-hand, since I wasn't sure quite how to describe what it is that people pull out of a portrayal and inject into a character. I didn't mean to imply, though, that the particular *character dynamics* that a character's portrayal dredges up for you aren't an important part of that. That is, the tics and foibles *of* a character dynamic: i.e. the things that separate a good romance story, or buddy-cop story, from a mediocre one. In film, those are often improvised by the actors, just as much as the standalone character tics are. And you can steal them!
->>>>>> I should say, though: you can copy the tics of a portrayal of a character dynamic, *or* a the personal tics of a given portrayal of a character, but copying both from the *same* portrayal will probably result in an expy. You can steal Hugh Laurie's Gregory House's grizzled squint and sudden penchant for walking out in the middle of a conversation; *or* you can steal Hugh Laurie-and-Robert Lawrence Leonard's Gregory House-and-James Wilson's particular interaction style. But if you steal *both*, then your character is just Hugh Laurie's Gregory House.
 >>>>>> 
+>>>>>> The goal of NaNoWriMo is to write a novel within a month. In my experience, a lot of the participants take that to mean that you have to do *all* of the work of writing the novel within that month—which includes character-building.
+>>>>>> 
+>>>>>> The advice is given because it's a hack to get a "character that feels like a real person" built quickly, without needing to rely on you already having a muse-of-the-moment, someone who you already have ideas for how they would fictionalize.
+>>>>>> 
+>>>>>> I think the advice is also common amongst writers of episodic serials with new side-characters in each entry; and amongst especially prolific writers like Stephen King who make a living by churning out more than one standalone novel per year. These people *need* a greater number of interesting characters than they have built-up "potential energy" of good ideas to base them upon.
+>>>>>> 
+>>>>>> > But what *really* grounds them is how they interact with the other characters.
+>>>>>> 
+>>>>>> I was using "tics and foibles" as a short-hand, since I wasn't sure quite how to describe what it is that people pull out of a portrayal and inject into a character. I didn't mean to imply, though, that the particular *character dynamics* that a character's portrayal dredges up for you aren't an important part of that. That is, the tics and foibles *of* a character dynamic: i.e. the things that separate a good romance story, or buddy-cop story, from a mediocre one. In film, those are often improvised by the actors, just as much as the standalone character tics are. And you can steal them!
+>>>>>> 
+>>>>>> I should say, though: you can copy the tics of a portrayal of a character dynamic, *or* a the personal tics of a given portrayal of a character, but copying both from the *same* portrayal will probably result in an expy. You can steal Hugh Laurie's Gregory House's grizzled squint and sudden penchant for walking out in the middle of a conversation; *or* you can steal Hugh Laurie-and-Robert Lawrence Leonard's Gregory House-and-James Wilson's particular interaction style. But if you steal *both*, then your character is just Hugh Laurie's Gregory House.
 
-> **u/SkyTroupe** [+3] *
+> **u/SkyTroupe** [+3]  (2 days later)
 > 
 > I plan on picking back up a Worm/Stormlight Archive piece I had started but let die due to my depression. My goal for the month is to have 3 arcs done and the rest of it outlined. Nothing too ambitious.
-> 
 
->> **u/GeneralExtension** [+2] *
+>> **u/GeneralExtension** [+2]  (3 days later)
 >> 
 >> Cool. Is the portal from the Worm side, or Stormlight? (And will everyone speak the same language?)
->> 
 
->>> **u/SkyTroupe** [+2] *
+>>> **u/SkyTroupe** [+2]  (3 days later)
 >>> 
 >>> It takes place on Worm's Earth. It's more of a Cosmere crossover than a pure Worm/SA cross but that'd be getting into end game spoilers. I plan on it being a Trilogy story in total.
->>> 
 
->>>> **u/zonules_of_zinn** [+2] *
+>>>> **u/zonules_of_zinn** [+2]  (5 days later)
 >>>> 
 >>>> so, where will you be posting this?
->>>> 
 
->>>>> **u/SkyTroupe** [+2] *
+>>>>> **u/SkyTroupe** [+2]  (6 days later)
 >>>>> 
 >>>>> The first three chapters are on Spacebattles under the title of Windrunner.
->>>>> 
 
-> **u/CouteauBleu** [+2]  *We are the Empire.**
+> **u/CouteauBleu** [+2]  *We are the Empire.* (2 hours later)
 > 
 > > Does anyone have any plans to do it this year?
+> 
 > Well, there's that Star Wars fic I wanted to do last year. Although I did promise to that one guy that I would edit 
 > *TDWoD* for him, so I should probably get that done first, now that I have some free time. Mh.
-> 
 
->> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> >TDWoD
->> Do you mind filling in for me what the letters stand for?
 >> 
+>> Do you mind filling in for me what the letters stand for?
 
->>> **u/CouteauBleu** [+4]  *We are the Empire.**
+>>> **u/CouteauBleu** [+4]  *We are the Empire.* (5 hours later)
 >>> 
 >>> *The Dark Wizard of Donkerke*, by alexanderwales.
->>> 
 
-> **u/ZeroNihilist** [+2] *
+> **u/ZeroNihilist** [+2]  (5 hours later)
 > 
 > I'm both busy and at a low point in motivation right now, but I'll probably use the month to make sample chapters for the various stories I've got kicking around.
-> Unfortunately, I suspect that even this flimsy non-commitment will amount to nothing. I still haven't finished a short story I started last year, though I'm getting there.
 > 
+> Unfortunately, I suspect that even this flimsy non-commitment will amount to nothing. I still haven't finished a short story I started last year, though I'm getting there.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (6 hours later)
 > 
 > I'd be interested. Hope I can motivate myself enough.
-> 
 
-> **u/wtfbbc** [+2] *
+> **u/wtfbbc** [+2]  (11 hours later)
 > 
 > I was hoping to use November to finally write my *Doctor Who* spinoff novel, but word on the street is that the publisher is dropping the series, so. I'll start my own spinoff series, goddammit! Of course, as November gets closer, I'm getting more and more afraid that I won't have enough time, but something good will come out of it, I'm certain.
-> 
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (18 hours later)
 > 
 > Hmm.
-> I have some ideas kicking around for a MoL-verse fanfic, but I don't feel like they're ready yet, and I want to do it justice. Plus, the main story isn't quite finished.
-> I'll give it some more thought.
 > 
+> I have some ideas kicking around for a MoL-verse fanfic, but I don't feel like they're ready yet, and I want to do it justice. Plus, the main story isn't quite finished.
+> 
+> I'll give it some more thought.
 
-> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (21 hours later)
 > 
 > I'm still working on the same story I was working on last November. How does anyone manage to finish writing a good novel in only a month!?
-> 
 
->> **u/Gaboncio** [+5] *
+>> **u/Gaboncio** [+6]  (a day later)
 >> 
 >> The trick is that you don’t write a good novel in a month, just a novel; the rest of the year is for making it good.
->> 
 
->>> **u/TrebarTilonai** [+3] *
+>>> **u/TrebarTilonai** [+5]  (3 days later)
 >>> 
 >>> Pretty much this. I haven't participated in NaNoWriMo before, but I have a number of friends who have. (I'm also thinking about putting my hand to it this year now that I'm out of school and November should be relatively available) My understanding is that the single largest obstacle to most people being able to write a novel is getting words down on paper. A lot of people tend to be perfectionists and want their first draft to be amazing, so they start and restart and restart, or they just theory-craft forever. With NaNoWriMo, you're committing to getting 50,000 words down on paper without worrying about their quality. That gets you started, and in the end you have a draft that you improve on instead of being stuck in blank page paralysis.
->>> 
 
-> **u/crivtox** [+2]  *Closed Time Loop Enthusiast**
+> **u/crivtox** [+2]  *Closed Time Loop Enthusiast* (2 days later)
 > 
 > I want to write something for nanowrimo this year .
 > Not sure what exactly though , I have lots of ideas and haven't decided on one yet .
-> 
 
-> **u/Vampyricon** [+3] *
+> **u/Vampyricon** [+2]  (22 minutes later)
 > 
 > I'll try. Any tips on writing someone who's in the process of mastering rationality?
-> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (7 hours later)
 >> 
 >> People starting new things tend to go overboard, get really enthusiastic, and make mistakes as a result of that. If you pick up hammers as a hobby, everything starts to look like a nail.
->> So, for example, when you first learn about the backfire effect, you might see it in lots of different place, an ever-present specter on the sociocultural landscape or common in your friends and family ... when what you're actually doing is falling victim to the availability heuristic, attentional bias, and confirmation bias, and the thing you're seeking to explain has some better/deeper explanation that you're not even looking at because you don't know to and/or you're suffering from cognitive biases that you don't recognize.
 >> 
+>> So, for example, when you first learn about the backfire effect, you might see it in lots of different place, an ever-present specter on the sociocultural landscape or common in your friends and family ... when what you're actually doing is falling victim to the availability heuristic, attentional bias, and confirmation bias, and the thing you're seeking to explain has some better/deeper explanation that you're not even looking at because you don't know to and/or you're suffering from cognitive biases that you don't recognize.
 
->>> **u/Vampyricon** [+2] *
+>>> **u/Vampyricon** [+2]  (12 hours later)
 >>> 
 >>> >So, for example, when you first learn about the backfire effect, you might see it in lots of different place, an ever-present specter on the sociocultural landscape or common in your friends and family
->>> You mean even when the backfire effect isn't actually present right?
 >>> 
+>>> You mean even when the backfire effect isn't actually present right?
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (13 hours later)
 >>>> 
 >>>> Right, or when it's only one cause among many.
->>>> 
 
->>>>> **u/Vampyricon** [+2] *
+>>>>> **u/Vampyricon** [+2]  (13 hours later)
 >>>>> 
 >>>>> Thanks! :)
->>>>> 
 
->>> **u/derefr** [+2] *
+>>> **u/derefr** [+2]  (2 days later)
 >>> 
 >>> > If you pick up hammers as a hobby
->>> ...wouldn't everything start to look like a hammer-handle?
->>> (Given that "hammer-throw" is a real part of track-and-field, the heavier "sledgehammer-pick-up-and-throw" seemed like an intuitive kind of strongman-competition entry, similar to deadlifting cars; I was honestly surprised when I typed it into Google just now and it turned out to be something my mind made up just now.)
 >>> 
+>>> ...wouldn't everything start to look like a hammer-handle?
+>>> 
+>>> (Given that "hammer-throw" is a real part of track-and-field, the heavier "sledgehammer-pick-up-and-throw" seemed like an intuitive kind of strongman-competition entry, similar to deadlifting cars; I was honestly surprised when I typed it into Google just now and it turned out to be something my mind made up just now.)
 
->> **u/BooksAndComicBooks** [+2] *
+>> **u/BooksAndComicBooks** [+2]  (5 hours later)
 >> 
 >> When starting out something new, people tend to stick to one method that works for them. They can try a few techniques, but there's usually going to be one thing that they focus on (like "If I say this I can manipulate this person and gain what I want" or "According to the first law of physics...") The technique will appeal to their personality, or their situation will force them to learn and apply that particular thing. As they gain experience, they learn how to apply new techniques. People rarely learn something unless they want to (like pushing yourself to learn a musical instrument because you really like the sound of it) or because they have to (survival/peer pressure).
->> 
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (4 hours later)
 > 
 > heh, I wish. I have a paper deadline and a class project this november, which sucks because I really do want to spend some time writing >_>
-> I've never "properly" done nanowrimo, but in past years I have attempted to use the ambient writing energy on the internet to motivate myself to work on my longer-term projects. I can't get anywhere near the rate needed to make 50k words in one month; in my best year, I managed something like 25k words. But since my usual rate is like 10k words / month, I was pretty pleased with it.
-> Since I'm so busy this november, I'm pinning my hopes on december instead. Hopefully I'll get some quality writing time at my parent's house over christmas break.
 > 
+> I've never "properly" done nanowrimo, but in past years I have attempted to use the ambient writing energy on the internet to motivate myself to work on my longer-term projects. I can't get anywhere near the rate needed to make 50k words in one month; in my best year, I managed something like 25k words. But since my usual rate is like 10k words / month, I was pretty pleased with it.
+> 
+> Since I'm so busy this november, I'm pinning my hopes on december instead. Hopefully I'll get some quality writing time at my parent's house over christmas break.
 
->> **u/Ms_CIA** [+1]  *Derp**
+>> **u/Ms_CIA** [+1]  *Derp* (a day later)
 >> 
 >> Have you ever tried Campnano? I always wrote so much more during the summer months, and it's fun to be part of a cabin too. :)
->> 
 
 ---
 

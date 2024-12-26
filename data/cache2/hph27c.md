@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/i6i** [+1] *
+> **u/i6i** [+1]  (7 minutes later)
 > 
 > The line about the death star refers specifically to a problem in amateur writing where the story falls apart because the author is indulging in a Cinderella type fantasy of giving the hero advantages but not adjusting the rest of the plot to fit the new circumstances. A better example is if Harry Potter gets to know Quirrel is Voldemort at the start of year 1 then Voldemort should adjust his plans based on the fact that one of the students is showing signs of obvious suspicion not just go through the motions and thereby lose any air of menace as a an antagonist.
-> 
 
 ---
 

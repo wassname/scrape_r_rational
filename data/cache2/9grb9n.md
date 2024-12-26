@@ -50,35 +50,29 @@ Next time, the challenge will be **Althistory**. Write a story about how the wor
 
 ### Comments:
 
-> **u/None** [+26] *
+> **u/None** [+23]  (22 hours later)
 > 
 > [deleted]
-> 
 
->> **u/major_fox_pass** [+4] *
+>> **u/major_fox_pass** [+4]  (23 hours later)
 >> 
 >> This is really good!
->> 
 
->> **u/The_Wadapan** [+3]  *ice to meet ya**
+>> **u/The_Wadapan** [+3]  *ice to meet ya* (a day later)
 >> 
 >> Really enjoyed this - strong characterisation, imagery and premise. >! I found that I could tell which direction the story was heading very early on, particularly knowing the contest prompt, but I'm not sure that's a problem for a short story like this? Lends a sense of inevitability.!<
->> 
 
->> **u/Krossfireo** [+1] *
+>> **u/Krossfireo** [+1]  (5 months later)
 >> 
 >> I really like this one! The slow conversion is well done
->> 
 
-> **u/None** [+10] *
+> **u/None** [+10]  (2 days later)
 > 
 > [A New Convert](https://www.fictionpress.com/s/3130037/1/A-New-Convert)
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (2 days later)
 >> 
 >> I wrote this a long time ago, but it fits the theme and I was hoping to talk about it on this subreddit at some point anyway.
->> 
 
 ---
 

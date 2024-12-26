@@ -2,7 +2,7 @@
 
 * Author: u/PeridexisErrant  *put aside fear for courage, and death for life**
 * URL: http://squid314.livejournal.com/332946.html
-* Score: 36
+* Score: 29
 
 * Created: 2015-10-17T05:28:25
 
@@ -12,219 +12,246 @@
 
 ### Comments:
 
-> **u/NotAHeroYet** [+6]  *City of Angles Municipal Government**
+> **u/NotAHeroYet** [+6]  *City of Angles Municipal Government* (an hour later)
 > 
 > Good story... but the hypertrophied brain sounds off to me, or at least somewhat wrong. i don't know, i could be wrong.
-> 
 
-> **u/ishaan123** [+3]  *Sidebar Contestant**
+> **u/ishaan123** [+3]  *Sidebar Contestant* (2 days later)
 > 
 > Might we conceptualize the consciousness as having been *gradually transferred* to the earring (with minor modifications which do not necessarily destroy person-hood) rather than as having atrophied to nothing?
-> 
 
-> **u/None** [+9] *
+> **u/None** [+8]  (2 hours later)
 > 
 > A very nice story. 
-> I recall a related thought experiment suggested elsewhere by Daniel Dennett: 
-> One of the neurons in your brain is steadily accumulating damage from old age. So you decide to have surgery which replaces it with a computer chip. The chip sends out currents on the axons connected to the neuron which are exactly the same as those the  original neuron would have sent out. 
-> When you wake up after the surgery, you don't feel any different. 
-> So you do it again. Prevention is the best cure!
-> 10^12 surgeries later you are a robot.
 > 
+> I recall a related thought experiment suggested elsewhere by Daniel Dennett: 
+> 
+> One of the neurons in your brain is steadily accumulating damage from old age. So you decide to have surgery which replaces it with a computer chip. The chip sends out currents on the axons connected to the neuron which are exactly the same as those the  original neuron would have sent out. 
+> 
+> When you wake up after the surgery, you don't feel any different. 
+> 
+> So you do it again. Prevention is the best cure!
+> 
+> 10^12 surgeries later you are a robot.
 
->> **u/None** [+23] *
+>> **u/None** [+24]  (6 hours later)
 >> 
 >> Bet the thought experiment is very different. The point of it is that you remain unchanged: it doesn't matter if your brain made of meat or silicon ships, if the pattern is the same, your identity, that which makes you - you, remains exactly the same. 
->> In Scott's story knowing the optimal course of action 100% of the time completely obliterates you - you sorta turn into an interface between the earing and the world, your personality becomes forever irrelevant and atrophies. Pretty much a polar opposite outcome.
 >> 
+>> In Scott's story knowing the optimal course of action 100% of the time completely obliterates you - you sorta turn into an interface between the earing and the world, your personality becomes forever irrelevant and atrophies. Pretty much a polar opposite outcome.
 
->>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (a day later)
 >>> 
 >>> why would having the Path to Victory be a bad thing?
->>> 
 
->>>> **u/notmy2ndopinion** [+4]  *Concent of Saunt Edhar**
+>>>> **u/notmy2ndopinion** [+3]  *Concent of Saunt Edhar* (a day later)
 >>>> 
 >>>> Perhaps because it is a Path to Happiness and Being Moderately Better than You... not a Path to Victory.
->>>> As a side note, Contessa's PtV makes her ramp up conflict, since it really is Path to teh Win, despite this solution obviously being the wrong one in the end.
->>>> [Worm Spoiler](#s "By this, I mean that it was really Oliver's 100% Balance formula that made Scion give up at the end and passively commit suicide from Flechette's Sting. Contessa didn't play any role in the end-game IIRC, but I may be mistaken.")
 >>>> 
+>>>> As a side note, Contessa's PtV makes her ramp up conflict, since it really is Path to teh Win, despite this solution obviously being the wrong one in the end.
+>>>> 
+>>>> [Worm Spoiler](#s "By this, I mean that it was really Oliver's 100% Balance formula that made Scion give up at the end and passively commit suicide from Flechette's Sting. Contessa didn't play any role in the end-game IIRC, but I may be mistaken.")
 
->>>>> **u/MugaSofer** [+2] *
+>>>>> **u/MugaSofer** [+2]  (2 days later)
 >>>>> 
 >>>>> Well, if it weren't for her there wouldn't *be* any Balance Formula, I suppose. And the others helped a little.
->>>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (13 hours later)
 >>> 
 >>> First, note that I said the two experiments are related; I did not say they were identical in every aspect. 
->>> Second, whether the outcomes are indeed polar opposites depends on what you define to be "you." You assert that if the "pattern remains the same" then "you" remain exactly the same, but this is not a fact -- at least, not in the same sense that "1+1=2" or "two charged particles of opposite charge attract each other" are facts. Rather it is a choice you have made, a choice of how to think of what it means to be you. 
->>> There are other possible choices. It is pointless to spell them all out but see e.g., http://plato.stanford.edu/entries/identity-personal/. I believe that almost all philosophers reject the simple account of "you = your personality," since it implies that there could be more than one "you" existing simultaneously. The account of personality you implicitly offer is vulnerable to the same objection, though, of course, this may be a pill you are willing to swallow.
->>> I've never committed myself to any one of these theories of personality. On the other hand, death still feels like death even if I knew that someone else would later be created with the same personality (or even the same neuronal pattern). So I would say the subject is "obliterated" in both hypotheticals. This is not a fact, but rather a consequence of how I've chosen to think of what it means to be me.
 >>> 
+>>> Second, whether the outcomes are indeed polar opposites depends on what you define to be "you." You assert that if the "pattern remains the same" then "you" remain exactly the same, but this is not a fact -- at least, not in the same sense that "1+1=2" or "two charged particles of opposite charge attract each other" are facts. Rather it is a choice you have made, a choice of how to think of what it means to be you. 
+>>> 
+>>> There are other possible choices. It is pointless to spell them all out but see e.g., http://plato.stanford.edu/entries/identity-personal/. I believe that almost all philosophers reject the simple account of "you = your personality," since it implies that there could be more than one "you" existing simultaneously. The account of personality you implicitly offer is vulnerable to the same objection, though, of course, this may be a pill you are willing to swallow.
+>>> 
+>>> I've never committed myself to any one of these theories of personality. On the other hand, death still feels like death even if I knew that someone else would later be created with the same personality (or even the same neuronal pattern). So I would say the subject is "obliterated" in both hypotheticals. This is not a fact, but rather a consequence of how I've chosen to think of what it means to be me.
 
->>>> **u/None** [+9] *
+>>>> **u/None** [+8]  (14 hours later)
 >>>> 
 >>>> I don't think arguing about how to define "self" or "I" is particularly meaningful. If an answer to a question about Jabberwocky depends on how you define a Jabberwocky, it's a sign that it might be a good idea to temporarily stop using the word Jabberwocky at all. If I try to answer the question: "how is what happens in Scott's thought experiment different from what happens in Dennett's experiment?" without using the words: "I" "self" or "personality", I can say: "In Dennett's experiment, a certain pattern remains unaltered although what forms that pattern is changed, while in Scott's experiment a pattern is changed very profoundly". Hopefully, everyone can agree that this is true.
->>>> Can you explain what exactly is similar in both scenarios and what exactly is being destroyed in them, without referring to "I" or "self"?
 >>>> 
+>>>> Can you explain what exactly is similar in both scenarios and what exactly is being destroyed in them, without referring to "I" or "self"?
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (14 hours later)
 >>>>> 
 >>>>> In answer to your question: in one scenario, the biological mass of your brain atrophies, in the other it disappears entirely. Both of these are obviously forms of destruction. 
->>>>> Now whether you should *care* about the disappearance of the biological mass inside your skull (given that a silicon mass replaces it) depends on how you conceive of the self. I don't think there is a way to avoid that discussion. 
->>>>> ---------------------
->>>>> A related, but distinct, point: if who you are is a certain pattern, then you die a little bit every day as your personality changes. Let us suppose that you are a completely  different person now compared to fifteen years ago (true for most people, I would say). If you believe that you = a certain pattern, you should think of this death as essentially equally bad[1] as the physical death you'll experience at the end of life. Indeed, it isn't a metaphorical death that you've gone through these past fifteen years -- under the definition of you = pattern, it is a very literal death. This is a pretty counterintuitive conclusion, and justifies rejecting this conception of the self entirely in my view. 
->>>>> [1] Well, almost. The effect on the people around you is not the same.
 >>>>> 
+>>>>> Now whether you should *care* about the disappearance of the biological mass inside your skull (given that a silicon mass replaces it) depends on how you conceive of the self. I don't think there is a way to avoid that discussion. 
+>>>>> 
+>>>>> ---------------------
+>>>>> 
+>>>>> A related, but distinct, point: if who you are is a certain pattern, then you die a little bit every day as your personality changes. Let us suppose that you are a completely  different person now compared to fifteen years ago (true for most people, I would say). If you believe that you = a certain pattern, you should think of this death as essentially equally bad[1] as the physical death you'll experience at the end of life. Indeed, it isn't a metaphorical death that you've gone through these past fifteen years -- under the definition of you = pattern, it is a very literal death. This is a pretty counterintuitive conclusion, and justifies rejecting this conception of the self entirely in my view. 
+>>>>> 
+>>>>> [1] Well, almost. The effect on the people around you is not the same.
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>> 
 >>>>>> Tasty, I'm wondering what you would say about the following hypothetical (which is just a restatement of the point I was trying to make above). 
->>>>>> Imagine that instead of having suggestions whispered to you by an earring, you are suddenly inspired to use logical reasoning to figure out reasonable actions to take.  You never used to do that before. *Should you become a soldier or a poet?* You make a list of the things you are good at and enjoy doing, and use that to make a decision.
->>>>>> As you do this, your brain changes (http://psychology.about.com/od/biopsychology/f/brain-plasticity.htm ). Dormant connections between neurons suddenly strengthen while others weaken. The brain slowly rewrites itself. 
->>>>>> You die a happy life with wealth, family, success, etc etc etc. A scan taken before your death shows your brain to be completely different from the brain you had before you got into the practice of using logical reasoning. It is almost impossible to guess from looking at the two scans side-by-side that they belonged to the same person. 
->>>>>> Would you say this is roughly as disturbing as the story about the earring? 
->>>>>> If you think that (i) what matters is the personality pattern (ii) it makes little difference whether the pattern is executed on meat or some other hardware -- then it seems to me that (i) & (ii) more-or-less compel you to find this hypothetical roughly as disturbing as the story about the earring.
 >>>>>> 
+>>>>>> Imagine that instead of having suggestions whispered to you by an earring, you are suddenly inspired to use logical reasoning to figure out reasonable actions to take.  You never used to do that before. *Should you become a soldier or a poet?* You make a list of the things you are good at and enjoy doing, and use that to make a decision.
+>>>>>> 
+>>>>>> As you do this, your brain changes (http://psychology.about.com/od/biopsychology/f/brain-plasticity.htm ). Dormant connections between neurons suddenly strengthen while others weaken. The brain slowly rewrites itself. 
+>>>>>> 
+>>>>>> You die a happy life with wealth, family, success, etc etc etc. A scan taken before your death shows your brain to be completely different from the brain you had before you got into the practice of using logical reasoning. It is almost impossible to guess from looking at the two scans side-by-side that they belonged to the same person. 
+>>>>>> 
+>>>>>> Would you say this is roughly as disturbing as the story about the earring? 
+>>>>>> 
+>>>>>> If you think that (i) what matters is the personality pattern (ii) it makes little difference whether the pattern is executed on meat or some other hardware -- then it seems to me that (i) & (ii) more-or-less compel you to find this hypothetical roughly as disturbing as the story about the earring.
 
->>>>>>> **u/None** [+3] *
+>>>>>>> **u/None** [+3]  (17 hours later)
 >>>>>>> 
 >>>>>>> I typed a long answer, but later I decided to delete it, because I realized I didn't understand what I was talking about as well as I thought and I should think more before saying anything. Since you're curious, I'll give a brief answer though, without trying to spin a complete theory, which would turn out to be stupid.
->>>>>>> 1. When I talk about "self" being a pattern, I don't mean a fixed specific pattern, otherwise I would have to conclude that I'm dying every second, as you say. I mean a sort of pattern that depends on the moment of time and continuously develops by it's own rules, like a solution of the heat equation or something. Some states of the pattern correspond to what we'd call "happiness" and some - to "pain". I don't want my pattern to reach the bad states and want it to reach the good ones, but I'm not against it changing, which it inevitably will. Death would not correspond to change, but to a sudden change to "zero" from some point forward. I want to avoid death, because it would mean the end of all the good states and would probably be accompanied by some bad states (fear and anticipation).  
->>>>>>> 2. I don't necessarily find Scott's story disturbing. It's very ambiguous.  It was intended as disturbing, but I could be persuaded to think that what happens there is completely fine. Maybe.
 >>>>>>> 
+>>>>>>> 1. When I talk about "self" being a pattern, I don't mean a fixed specific pattern, otherwise I would have to conclude that I'm dying every second, as you say. I mean a sort of pattern that depends on the moment of time and continuously develops by it's own rules, like a solution of the heat equation or something. Some states of the pattern correspond to what we'd call "happiness" and some - to "pain". I don't want my pattern to reach the bad states and want it to reach the good ones, but I'm not against it changing, which it inevitably will. Death would not correspond to change, but to a sudden change to "zero" from some point forward. I want to avoid death, because it would mean the end of all the good states and would probably be accompanied by some bad states (fear and anticipation).  
+>>>>>>> 
+>>>>>>> 2. I don't necessarily find Scott's story disturbing. It's very ambiguous.  It was intended as disturbing, but I could be persuaded to think that what happens there is completely fine. Maybe.
 
->>>>>>>> **u/None** [+2] *
+>>>>>>>> **u/None** [+2]  (20 hours later)
 >>>>>>>> 
 >>>>>>>> By the way, do you still think that your initial statement *"you sorta turn into an interface between the earring and the world, your personality becomes forever irrelevant and atrophies"* is correct, given theory of self you've articulated in this comment? 
->>>>>>>> After all, one might say that your personality is now running on the hardware of the earring (so to speak). Thus the atrophy of the brain shouldn't bother you (according to my understanding of your views). And the fact that the original personality pattern is gone -- well, that is perfectly fine as well if "you" is a *changing* pattern. If I am not misunderstanding your views, it seems to me that your account of self & your initial characterization of what happens in the earring story are somewhat inconsistent.
 >>>>>>>> 
+>>>>>>>> After all, one might say that your personality is now running on the hardware of the earring (so to speak). Thus the atrophy of the brain shouldn't bother you (according to my understanding of your views). And the fact that the original personality pattern is gone -- well, that is perfectly fine as well if "you" is a *changing* pattern. If I am not misunderstanding your views, it seems to me that your account of self & your initial characterization of what happens in the earring story are somewhat inconsistent.
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (20 hours later)
 >>>>>>>> 
 >>>>>>>> -- Surprisingly, at the end we might not disagree on all that much. I think the account of personality-as-a-shifting-pattern makes it difficult to be disturbed by Scott's story, which I view as a reductio ad absurdum for that view of self (and you do not and are perhaps willing to bite the bullet?). 
->>>>>>>> -- In the philosophy literature, this viewpoint is called the "psychological continuity theory of personal identity." Broadly speaking, one reason why I do not subscribe to theories along these lines is that they really undermine the argument for the *badness* of death. 
->>>>>>>> Death is horrible, right? Something really awful happens when you die, which is completely different from what happens when you, say, replace your old laptop with a new one?
->>>>>>>> If you think of yourself as some kind of shifting pattern, it suddenly becomes much more difficult to articulate why the death of a human being is so uniquely bad. Should we think of the cessation of other patterns as being pretty horrible as well?
 >>>>>>>> 
+>>>>>>>> -- In the philosophy literature, this viewpoint is called the "psychological continuity theory of personal identity." Broadly speaking, one reason why I do not subscribe to theories along these lines is that they really undermine the argument for the *badness* of death. 
+>>>>>>>> 
+>>>>>>>> Death is horrible, right? Something really awful happens when you die, which is completely different from what happens when you, say, replace your old laptop with a new one?
+>>>>>>>> 
+>>>>>>>> If you think of yourself as some kind of shifting pattern, it suddenly becomes much more difficult to articulate why the death of a human being is so uniquely bad. Should we think of the cessation of other patterns as being pretty horrible as well?
 
->>>>>>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+>>>>>>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption* (a day later)
 >>>>>>>>> 
 >>>>>>>>> > If you think of yourself as some kind of shifting pattern, it suddenly becomes much more difficult to articulate why the death of a human being is so uniquely bad. Should we think of the cessation of other patterns as being pretty horrible as well? 
->>>>>>>>> Why would you need some deep reason that the death is bad anyway? It's quite obvious that the vast majority of people prefer to stay alive, rather than become dead. Additionally the death of an individual often causes grief among those still alive. Is this nigh universal preference against death somehow not enough for something without a deep philosophical foundation?
 >>>>>>>>> 
+>>>>>>>>> Why would you need some deep reason that the death is bad anyway? It's quite obvious that the vast majority of people prefer to stay alive, rather than become dead. Additionally the death of an individual often causes grief among those still alive. Is this nigh universal preference against death somehow not enough for something without a deep philosophical foundation?
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> "Why is death uniquely bad?" Like I said, roughly because it represents a stop for the patterns we would consider good and want to continue - the ones that represent humans being happy.
->>>>>>>>> "Is it silly and arbitrary that we care about only about those patterns and don't care when other patterns come to an end?" Of course it is silly and arbitrary. But any preference is going to be. Terminal values don't require a justification.
->>>>>>>>> "What do I think about Scott's story?" I was always confused by it. I didn't make it clear, but when I first mentioned it, I was trying to present it in the spirit Scott wrote it, with the message he intended, which is not exactly what I think of it. I said: *"you sorta turn into an interface between the earring and the world, your personality becomes forever irrelevant and atrophies"* and I think that this is mostly accurate, (although I should replace "personality" with "the decision making part of your personality"). The question is - is that a bad thing? 
->>>>>>>>> My strongest pro-earring arguments would go like this: whoever is wearing an earring is not going to experience any extra pain or suffering. In fact, he is going to be much happier than he'd be otherwise. There's going to be an atrophy of some part of your brain, but the reason we usually consider that bad, is because we need that part to make decisions, and if an earring takes care of that, perhaps it's not so tragic to see that part gone? In the real life we might have to worry about losing an earring or it suddenly turning traitorous, but as far as the story goes, we can ignore those possibilities.
->>>>>>>>> My strongest anti-earring arguments, that aren't really very strong, would go like this: it is not true that at any point your personality is running on the hardware of the earring. Earring is a much better decision-maker than you. You share goals and values, but it's thought patterns are not yours. You do not have access to its thoughts, the way you have access to your own. The earring's mind is not continuous with yours and always remains separate. You only communicate through a very narrow, slow channel. If it can experience pain, you will not experience that pain, for example. There is a clear dividing line between you and it, and what lies on the other side of that line doesn't resemble you very much. 
->>>>>>>>> Wearing the earring is going to make you dumber, although it won't have impact on anything external. If being intelligent and a good decision maker is something you value terminally, it makes sense to be disturbed by the story. However, if you only care about those things instrumentally, as most people do, I imagine, you should answer all of the above with a big "so what?" and happily ride into the sunset, the earring in your ear.
 >>>>>>>>> 
+>>>>>>>>> "Is it silly and arbitrary that we care about only about those patterns and don't care when other patterns come to an end?" Of course it is silly and arbitrary. But any preference is going to be. Terminal values don't require a justification.
+>>>>>>>>> 
+>>>>>>>>> "What do I think about Scott's story?" I was always confused by it. I didn't make it clear, but when I first mentioned it, I was trying to present it in the spirit Scott wrote it, with the message he intended, which is not exactly what I think of it. I said: *"you sorta turn into an interface between the earring and the world, your personality becomes forever irrelevant and atrophies"* and I think that this is mostly accurate, (although I should replace "personality" with "the decision making part of your personality"). The question is - is that a bad thing? 
+>>>>>>>>> 
+>>>>>>>>> My strongest pro-earring arguments would go like this: whoever is wearing an earring is not going to experience any extra pain or suffering. In fact, he is going to be much happier than he'd be otherwise. There's going to be an atrophy of some part of your brain, but the reason we usually consider that bad, is because we need that part to make decisions, and if an earring takes care of that, perhaps it's not so tragic to see that part gone? In the real life we might have to worry about losing an earring or it suddenly turning traitorous, but as far as the story goes, we can ignore those possibilities.
+>>>>>>>>> 
+>>>>>>>>> My strongest anti-earring arguments, that aren't really very strong, would go like this: it is not true that at any point your personality is running on the hardware of the earring. Earring is a much better decision-maker than you. You share goals and values, but it's thought patterns are not yours. You do not have access to its thoughts, the way you have access to your own. The earring's mind is not continuous with yours and always remains separate. You only communicate through a very narrow, slow channel. If it can experience pain, you will not experience that pain, for example. There is a clear dividing line between you and it, and what lies on the other side of that line doesn't resemble you very much. 
+>>>>>>>>> 
+>>>>>>>>> Wearing the earring is going to make you dumber, although it won't have impact on anything external. If being intelligent and a good decision maker is something you value terminally, it makes sense to be disturbed by the story. However, if you only care about those things instrumentally, as most people do, I imagine, you should answer all of the above with a big "so what?" and happily ride into the sunset, the earring in your ear.
 
->>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> *I said: "you sorta turn into an interface between the earring and the world, your personality becomes forever irrelevant and atrophies" and I think that this is mostly accurate, (although I should replace "personality" with "the decision making part of your personality")*
->>>>>>>>>> This can be a correct statement; for example, it is correct if you think of "you" or "your personality" as somehow inextricably connected to the biological mass of tissue residing within your cranium. On the other hand, under the understanding of personality that you have previously advanced, this statement is very hard to justify. 
->>>>>>>>>> Imagine that, after having worn the earring for decades, you go to the same restaurants, choose to obsessively re-watch the same movies you always have, and volunteer to canvass for the same political party. If "you" or "your personality" is understood to be some kind of continuously changing pattern, it is natural to conclude that "you" or "the decision-making part of your personality" is very far from having atrophied -- rather, its as strong as its always been. 
->>>>>>>>>> -------------
->>>>>>>>>> On death: how much arbitrariness in terminal values is acceptable is in the eye of the beholder. Let me illustrate the issue by moving away from death to something more basic, namely causing harm. 
->>>>>>>>>> A. I think that causing human beings harm is an inherently bad thing, but scrapping a toaster is not. I believe that there is such a thing as *the experience of feeling pain*, and that a human being can feel it while a toaster cannot. There is, of course, an arbitrariness in my beliefs -- why should we care about causing pain in the first place? It is something I take as an axiom without further justification. 
->>>>>>>>>> B. But suppose we now say that a human being is really just a certain continuously changing pattern; and a toaster is a certain pattern as well; and we designate certain states of the human pattern as "bad," and consider it wrong to take actions to reach them. On the other hand, we choose not to do this with the toaster. 
->>>>>>>>>> In some sense, account B is no worse than account A  -- terminal values are arbitrary as you say, and both accounts ultimately involve a decision to care about some things and not others. And yet I find the arbitrariness in A acceptable while the arbitrariness in B is not,  so much so that I view the difference as a reason to say that accounts such as B are missing some fundamental.
->>>>>>>>>> There is certainly no contradiction in subscribing to accounts such as B. If you find the account in B perfectly satisfactory, then certainly I have nothing to say that can persuade you otherwise. Every reductio ad absurdum proceeds this way: if you do not find the conclusion to be absurd, the argument will have no force for you.
 >>>>>>>>>> 
+>>>>>>>>>> This can be a correct statement; for example, it is correct if you think of "you" or "your personality" as somehow inextricably connected to the biological mass of tissue residing within your cranium. On the other hand, under the understanding of personality that you have previously advanced, this statement is very hard to justify. 
+>>>>>>>>>> 
+>>>>>>>>>> Imagine that, after having worn the earring for decades, you go to the same restaurants, choose to obsessively re-watch the same movies you always have, and volunteer to canvass for the same political party. If "you" or "your personality" is understood to be some kind of continuously changing pattern, it is natural to conclude that "you" or "the decision-making part of your personality" is very far from having atrophied -- rather, its as strong as its always been. 
+>>>>>>>>>> 
+>>>>>>>>>> -------------
+>>>>>>>>>> 
+>>>>>>>>>> On death: how much arbitrariness in terminal values is acceptable is in the eye of the beholder. Let me illustrate the issue by moving away from death to something more basic, namely causing harm. 
+>>>>>>>>>> 
+>>>>>>>>>> A. I think that causing human beings harm is an inherently bad thing, but scrapping a toaster is not. I believe that there is such a thing as *the experience of feeling pain*, and that a human being can feel it while a toaster cannot. There is, of course, an arbitrariness in my beliefs -- why should we care about causing pain in the first place? It is something I take as an axiom without further justification. 
+>>>>>>>>>> 
+>>>>>>>>>> B. But suppose we now say that a human being is really just a certain continuously changing pattern; and a toaster is a certain pattern as well; and we designate certain states of the human pattern as "bad," and consider it wrong to take actions to reach them. On the other hand, we choose not to do this with the toaster. 
+>>>>>>>>>> 
+>>>>>>>>>> In some sense, account B is no worse than account A  -- terminal values are arbitrary as you say, and both accounts ultimately involve a decision to care about some things and not others. And yet I find the arbitrariness in A acceptable while the arbitrariness in B is not,  so much so that I view the difference as a reason to say that accounts such as B are missing some fundamental.
+>>>>>>>>>> 
+>>>>>>>>>> There is certainly no contradiction in subscribing to accounts such as B. If you find the account in B perfectly satisfactory, then certainly I have nothing to say that can persuade you otherwise. Every reductio ad absurdum proceeds this way: if you do not find the conclusion to be absurd, the argument will have no force for you.
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > Imagine that, after having worn the earring for decades, you go to the same restaurants, choose to obsessively re-watch the same movies you always have, and volunteer to canvass for the same political party. If "you" or "your personality" is understood to be some kind of continuously changing pattern, it is natural to conclude that "you" or "the decision-making part of your personality" is very far from having atrophied -- rather, its as strong as its always been.
->>>>>>>>>>> What I mean here could be clarified with a real-life example, without having to talk about some magical object. Suppose I enjoy chess and often play online. Eventually I get tired of losing all the time, so I purchase a powerful chess program and only play the moves it tells me to. Some time later, my skill disintegrates and I forget all I ever knew, although I win a lot more often. Now, can "I" play chess or not? Does it make sense to consider the program a part of my mind? If my mind is a pattern, and there are all kinds of patterns all around me, where do we draw the dividing line? Perhaps we should consider that the program is now a part of me and I'm playing better than ever before?
->>>>>>>>>>> I think it makes sense to say that the chess program is not a part of my mind, and my ability to play is, in fact lost, because: 1) the algorithm of the program is not remotely similar to anything my mind has ever run, and has not continuously grown out of the algorithms of my mind, the way my current mind grew from the algorithms of the 10 year old me. The program has been added to the mix in a very abrupt and discontinuous way and 2) because currently there is very little communication between the program and me - as far as I'm concerned, it works entirely like a black box. I can't look into it's thoughts, and it can' look into mine. 
->>>>>>>>>>> I would say that these two point are enough to consider the program separate from me. Same can be said about the earring. However, I could describe a slightly different story, where my conclusion is very different, and closer to what you think my conclusion should be, I imagine.
->>>>>>>>>>> Imagine a similar earring, but different in that it's no smarter than me and only suggest to make the decisions I myself would naturally make without its help. As such, it's pointless for a while. As I'm wearing it, it doesn't seem to make any sort of difference whatsoever. However, some day I have a stroke - a part of my brain that's responsible for decision-making shuts down and the earring magically takes over as if nothing happened. In this scenario I would, in fact say, that my mind is as it ever was and nothing of importance has changed. If, from the start your vision of how Scott's earring worked was closer to this, than perhaps we only ever disagreed about the specifics of the story. (This is also more or less the plot of Greg Egan's story *Learning to be Me*.)
->>>>>>>>>>> Re: arbitrariness, I won't say much, but I agree with you that it should be possible to explain our preferences in a way that seems compelling and natural to other humans, although there's will always be arbitrariness at the bottom if it. My own views certainly feel that way from the inside, and I believe they could be presented that way, but that might take writing a book or similar.
 >>>>>>>>>>> 
+>>>>>>>>>>> What I mean here could be clarified with a real-life example, without having to talk about some magical object. Suppose I enjoy chess and often play online. Eventually I get tired of losing all the time, so I purchase a powerful chess program and only play the moves it tells me to. Some time later, my skill disintegrates and I forget all I ever knew, although I win a lot more often. Now, can "I" play chess or not? Does it make sense to consider the program a part of my mind? If my mind is a pattern, and there are all kinds of patterns all around me, where do we draw the dividing line? Perhaps we should consider that the program is now a part of me and I'm playing better than ever before?
+>>>>>>>>>>> 
+>>>>>>>>>>> I think it makes sense to say that the chess program is not a part of my mind, and my ability to play is, in fact lost, because: 1) the algorithm of the program is not remotely similar to anything my mind has ever run, and has not continuously grown out of the algorithms of my mind, the way my current mind grew from the algorithms of the 10 year old me. The program has been added to the mix in a very abrupt and discontinuous way and 2) because currently there is very little communication between the program and me - as far as I'm concerned, it works entirely like a black box. I can't look into it's thoughts, and it can' look into mine. 
+>>>>>>>>>>> 
+>>>>>>>>>>> I would say that these two point are enough to consider the program separate from me. Same can be said about the earring. However, I could describe a slightly different story, where my conclusion is very different, and closer to what you think my conclusion should be, I imagine.
+>>>>>>>>>>> 
+>>>>>>>>>>> Imagine a similar earring, but different in that it's no smarter than me and only suggest to make the decisions I myself would naturally make without its help. As such, it's pointless for a while. As I'm wearing it, it doesn't seem to make any sort of difference whatsoever. However, some day I have a stroke - a part of my brain that's responsible for decision-making shuts down and the earring magically takes over as if nothing happened. In this scenario I would, in fact say, that my mind is as it ever was and nothing of importance has changed. If, from the start your vision of how Scott's earring worked was closer to this, than perhaps we only ever disagreed about the specifics of the story. (This is also more or less the plot of Greg Egan's story *Learning to be Me*.)
+>>>>>>>>>>> 
+>>>>>>>>>>> Re: arbitrariness, I won't say much, but I agree with you that it should be possible to explain our preferences in a way that seems compelling and natural to other humans, although there's will always be arbitrariness at the bottom if it. My own views certainly feel that way from the inside, and I believe they could be presented that way, but that might take writing a book or similar.
 
->>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> I will reply in more detail later, but first I wonder what you would say about the following hypotheticals: 
->>>>>>>>>>>> At first, the earring is useless and only suggests the decisions you would make anyway. After wearing it for, say, ten years, the earring begins to be bolder and starts whispering innovative suggestions (*maybe you should order beef instead of chicken?*). They start out pretty innocent, small decisions, what to wear, what to order, minor things you might not have realized yourself; but they escalate slowly over the course of decades (*become an accountant rather than a soldier*) and you slowly become a different person. One day:
->>>>>>>>>>>> 1) you have a stroke and the earring takes over. 
->>>>>>>>>>>> 2) the earring breaks. You take it off. You feel a little woozy for a while, but your brain feels normal after some rest. You keep on making the choices the earring has been suggesting (the thing clearly knew what it was doing).
->>>>>>>>>>>> Would you say "you" (or "your mind" or whatever) have survived in (both, either, one of) these scenarios?
 >>>>>>>>>>>> 
+>>>>>>>>>>>> At first, the earring is useless and only suggests the decisions you would make anyway. After wearing it for, say, ten years, the earring begins to be bolder and starts whispering innovative suggestions (*maybe you should order beef instead of chicken?*). They start out pretty innocent, small decisions, what to wear, what to order, minor things you might not have realized yourself; but they escalate slowly over the course of decades (*become an accountant rather than a soldier*) and you slowly become a different person. One day:
+>>>>>>>>>>>> 
+>>>>>>>>>>>> 1) you have a stroke and the earring takes over. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> 2) the earring breaks. You take it off. You feel a little woozy for a while, but your brain feels normal after some rest. You keep on making the choices the earring has been suggesting (the thing clearly knew what it was doing).
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Would you say "you" (or "your mind" or whatever) have survived in (both, either, one of) these scenarios?
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> Of course, that had better be a stochastic computer chip, or it can't learn anything.
->> 
 
-> **u/nolrai** [+2] *
+> **u/nolrai** [+2]  (2 days later)
 > 
 > Am I the only one who doesn't really care all that much if I no longer exist if my goals are being achieved better then I would achieve them.
-> I don't even like existing that much for one thing, for the other even if I did, it's way less important too me then getting stuff done.
 > 
+> I don't even like existing that much for one thing, for the other even if I did, it's way less important too me then getting stuff done.
 
-> **u/Jiro_T** [+2] *
+> **u/Jiro_T** [+2]  (5 days later)
 > 
 > If the earring starts out by saying "better for you if you take me off", then it understands that a series of short term decisions that can be good will have a long-term impact that is bad.
-> If the earring then fails to say "take me off" when actually making short term decisions, then the earring is providing bad advice, because it is deliberately ignoring the long term effect of the decision to claim that the decision is good solely based on its short term effect.
-> (The obvious response is that the earring doesn't say "take me off" for the innocuous reason that it won't repeat a suggestion that was already refused.  This argument doesn't work because 1) that opens a way for the earring to be manipulative by choosing exactly what aspect of the current situation it's making suggestions about so that it can avoid having to make such suggestions later, and 2) what counts as a repeat suggestion is not well defined.)
 > 
+> If the earring then fails to say "take me off" when actually making short term decisions, then the earring is providing bad advice, because it is deliberately ignoring the long term effect of the decision to claim that the decision is good solely based on its short term effect.
+> 
+> (The obvious response is that the earring doesn't say "take me off" for the innocuous reason that it won't repeat a suggestion that was already refused.  This argument doesn't work because 1) that opens a way for the earring to be manipulative by choosing exactly what aspect of the current situation it's making suggestions about so that it can avoid having to make such suggestions later, and 2) what counts as a repeat suggestion is not well defined.)
 
->> **u/LiteralHeadCannon** [+1] *
+>> **u/LiteralHeadCannon** [+1]  (5 days later)
 >> 
 >> The earring doesn't provide good advice.  It provides better advice than you could provide yourself on your own.
->> 
 
->>> **u/Jiro_T** [+1] *
+>>> **u/Jiro_T** [+1]  (6 days later)
 >>> 
 >>> That doesn't help.   Advice that you could provide on your own won't have the long-term negative consequences we're talking about.  If the earring advice has those long-term consequences, then the earring advice is not only bad advice, it's also worse than what you could come up with on your own.
->>> Basically, the problem is that if the earring really gives good advice, by *any* standard (even if it's just good relative to advice you could come up with), "good advice" has to be advice which is overall beneficial *even taking into account the highly negative value of dependency on the earring*.  If, in fact, giving advice causes dependency, and dependency is bad enough that anyone who understands it would want to avoid it at all costs (which is the implication I get from the story), then it's not possible for the earring to give good advice other than "take me off" because there is no such thing as good advice other than "take me off".  (Unless less than X level of advice doesn't cause dependency in which case the earring can give less than X level.)
 >>> 
+>>> Basically, the problem is that if the earring really gives good advice, by *any* standard (even if it's just good relative to advice you could come up with), "good advice" has to be advice which is overall beneficial *even taking into account the highly negative value of dependency on the earring*.  If, in fact, giving advice causes dependency, and dependency is bad enough that anyone who understands it would want to avoid it at all costs (which is the implication I get from the story), then it's not possible for the earring to give good advice other than "take me off" because there is no such thing as good advice other than "take me off".  (Unless less than X level of advice doesn't cause dependency in which case the earring can give less than X level.)
 
-> **u/Predictablicious** [+1]  *Only Mark Annuncio Saves**
+> **u/Predictablicious** [+1]  *Only Mark Annuncio Saves* (5 hours later)
 > 
 > A different earring would be awesome. Instead of whispering suggestions it would just say "You could do better than this" whenever your course of action isn't the best one. Then you need to figure out how to improve it by yourself.
-> 
 
->> **u/Uncaffeinated** [+15] *
+>> **u/Uncaffeinated** [+16]  (8 hours later)
 >> 
 >> Except that it would say that all the time.
->> 
 
->> **u/None** [+6] *
+>> **u/None** [+6]  (5 hours later)
 >> 
 >> Otherwise known as a poster.
->> 
 
->> **u/NotAHeroYet** [+3]  *City of Angles Municipal Government**
+>> **u/NotAHeroYet** [+3]  *City of Angles Municipal Government* (14 hours later)
 >> 
 >> whisper a number. 1 is horrible, 0 is completely and utterly idiotic, higher numbers are better, returns a number every time you plan, all plans scaled against acheiving objectives, since no perfect plan, a perfect plan = infinity.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (17 hours later)
 >>> 
 >>> I suppose at some point, the plan becomes less about fulfilling objectives and more about mitigating collateral.
->>> 
 
->>>> **u/NotAHeroYet** [+1]  *City of Angles Municipal Government**
+>>>> **u/NotAHeroYet** [+1]  *City of Angles Municipal Government* (17 hours later)
 >>>> 
 >>>> Yes, or about fulfilling them more. If I want to write an amazing book, 1 is sitting through engineering classes and only writing when inspiration hits, 2 is only writing when i feel like it, 150 is a very effective plan to write a good book, and numbers higher improve my potential book by a larger margin, or reduce the cost to my other priorities. 
->>>> In some situations, numbers go higher and in others it'd be impossible to get over a thirty without outside information. A perfect plan my not score as highly because it's a perfect plan for something that isn't in my personal motivations, and is an inneffective way to fulfill them.
->>>> The numbers have no clear scale, no unit of wisdom, but you can always compare plans this way.
 >>>> 
+>>>> In some situations, numbers go higher and in others it'd be impossible to get over a thirty without outside information. A perfect plan my not score as highly because it's a perfect plan for something that isn't in my personal motivations, and is an inneffective way to fulfill them.
+>>>> 
+>>>> The numbers have no clear scale, no unit of wisdom, but you can always compare plans this way.
 
-> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (a day later)
 > 
 > If you take off the earring, does it remember you if it is placed on someone else, taken off and then replaced on you? If your prefrontal cortex is atrophied past the point of dementia, then removing this piece of robot-jewelry is effectively KILLING you and the "moderately better" version of you.
+> 
 > If it turns out that the earring is essentially a transdimensional prefrontal cortex of the better version of me and the link can easily be reestablished, then that calls into question whether or not our brains are the center of our "soul/identity/find-replace-a-term-of-your-choosing." And perhaps the earring isn't as bad as I think it is.
+> 
 > edit: this short story is totally about Cyranoids.
 > http://www.wired.com/2014/09/cyranoid-experiment/
-> 
 
 ---
 

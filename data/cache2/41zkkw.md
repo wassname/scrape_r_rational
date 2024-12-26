@@ -57,385 +57,382 @@ Just needed to get this off my chest.
 
 ### Comments:
 
-> **u/Geminii27** [+37] *
+> **u/Geminii27** [+35]  (2 hours later)
 > 
 > I'll admit I personally prefer the stories where a rationalist character powers through, sneakily defeats, or completely bypasses various canon problems, but then runs smack into other problems (canon or derived) which cause them genuine issues. Particularly if they've started feeling a bit smug about how smart/informed/capable they are.
-> And it kind of makes sense. Any protagonist who keeps pushing their boundaries will run into a lot more situations, events, opponents, and so on than one who lives life in the background. And the more things that a protagonist encounters, the greater the chance that one or more of them will be something they can't handle - and the effect will be worse because the speed at which they were moving will generally mean that they haven't had time to build up networks, secondary defenses, and fallback positions.
 > 
+> And it kind of makes sense. Any protagonist who keeps pushing their boundaries will run into a lot more situations, events, opponents, and so on than one who lives life in the background. And the more things that a protagonist encounters, the greater the chance that one or more of them will be something they can't handle - and the effect will be worse because the speed at which they were moving will generally mean that they haven't had time to build up networks, secondary defenses, and fallback positions.
 
->> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+8]  *Emergency Mustelid Hologram* (4 hours later)
 >> 
 >> > I'll admit I personally prefer the stories where a rationalist character powers through, sneakily defeats, or completely bypasses various canon problems, but then runs smack into other problems (canon or derived) which cause them genuine issues. Particularly if they've started feeling a bit smug about how smart/informed/capable they are.
->> One of the later "Wiz Biz" novels is like this (if you look at it as a SI in the canonical 'medieval magical universe' because that's kind of what it is). [SPOILER](#s " Wiz Zumwalt's OP software+magic has saved the good guys and made lives better for all humans, but now humans are heading into the wilderness and causing all kinds of magico-ecological problems.")
 >> 
+>> One of the later "Wiz Biz" novels is like this (if you look at it as a SI in the canonical 'medieval magical universe' because that's kind of what it is). [SPOILER](#s " Wiz Zumwalt's OP software+magic has saved the good guys and made lives better for all humans, but now humans are heading into the wilderness and causing all kinds of magico-ecological problems.")
 
->>> **u/None** [+8] *
+>>> **u/None** [+7]  (6 hours later)
 >>> 
 >>> Wiz Biz is not a rational programmer for the same reason Sherlock is not a rational detective, I think.
->>> Also factions are good and evil, and the solution is often ass-pulled
 >>> 
+>>> Also factions are good and evil, and the solution is often ass-pulled
 
->>>> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram* (6 hours later)
 >>>> 
 >>>> > Also factions are good and evil
->>>> That's what made this story stand out for me - the guys causing the problem aren't the "Dark Council" (or whatever it's called, it's been a while), but perfectly ordinary people acting in their own perceived best interests. And Zumwalt had to stop and think for a change.
 >>>> 
+>>>> That's what made this story stand out for me - the guys causing the problem aren't the "Dark Council" (or whatever it's called, it's been a while), but perfectly ordinary people acting in their own perceived best interests. And Zumwalt had to stop and think for a change.
 
->>>> **u/eaglejarl** [+3] *
+>>>> **u/eaglejarl** [+3]  (9 hours later)
 >>>> 
 >>>> > Wiz Biz is not a rational programmer for the same reason Sherlock is not a rational detective, I think.
->>>> Why do you say that?  (Honest question, not snarky.)  The details of the magic system are never really clearly laid out, true.  Still, Wiz's actions are driven by his values and are reasonable based on who he is and what he knows at any given point.  Better, his magic isn't "and then I needed a thing so I took five minutes to do it" -- he has to spend considerable time prepping his spells ahead of time, and he loses most of his most significant battles.  ("Loses" as in "needs to be saved by an ally", I mean.)
->>>> In the first book the factions are good and evil, but after that it's more realistically grey.
 >>>> 
+>>>> Why do you say that?  (Honest question, not snarky.)  The details of the magic system are never really clearly laid out, true.  Still, Wiz's actions are driven by his values and are reasonable based on who he is and what he knows at any given point.  Better, his magic isn't "and then I needed a thing so I took five minutes to do it" -- he has to spend considerable time prepping his spells ahead of time, and he loses most of his most significant battles.  ("Loses" as in "needs to be saved by an ally", I mean.)
+>>>> 
+>>>> In the first book the factions are good and evil, but after that it's more realistically grey.
 
->>> **u/Geminii27** [+1] *
+>>> **u/Geminii27** [+1]  (6 hours later)
 >>> 
 >>> Yup. Had the series in paperback for a while.
->>> 
 
->>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (6 hours later)
 >>>> 
 >>>> [There's a new one](http://www.baenebooks.com/p-2905-the-wizardry-quested.aspx)
->>>> 
 
->>>>> **u/Geminii27** [+1] *
+>>>>> **u/Geminii27** [+1]  (7 hours later)
 >>>>> 
 >>>>> 20th anniversary re-release? I read that one back in the 90s.
->>>>> 
 
->>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (7 hours later)
 >>>>>> 
 >>>>>> You're right. They should put the original publication date on the product page.
->>>>>> 
 
-> **u/gabbalis** [+22] *
+> **u/gabbalis** [+22]  (2 hours later)
 > 
 > You know what fanfic community has a good record of sufficiently powerful antagonists? Dragonball Z. Turns out there's almost no power up to canon you can't fix by moving forward an arc or two in that setting.
-> Though to be fair, I have yet to read a fic where the dragonballs were abused instead of nerfed. It would almost be embarrassing if there wasn't an author somewhere that was able to write themselves into a corner with the help of nigh omnipotant wishing machines.
 > 
+> Though to be fair, I have yet to read a fic where the dragonballs were abused instead of nerfed. It would almost be embarrassing if there wasn't an author somewhere that was able to write themselves into a corner with the help of nigh omnipotant wishing machines.
 
->> **u/ArmokGoB** [+3] *
+>> **u/ArmokGoB** [+3]  (7 days later)
 >> 
 >> I want this ratfic now
->> 
 
-> **u/OutOfNiceUsernames** [+11]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+13]  *fear of last pages* (an hour later)
 > 
 > Yes, the same thing was with [*Blood and Chaos*](https://forums.spacebattles.com/threads/blood-and-chaos-the-story-of-a-btvs-si-turned-vampire.354777/threadmarks) — the author had to both restrict his own character’s originality and (at least partially) refocus the story from physical confrontations and powers required for them to inter-character relations. 
+> 
 > I think not introducing an enemy of equal power could still work in at least two cases though. 
+> 
 > * 1, if the protagonist [didn’t think in terms of enemies\bosses to beat](https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.ro4ibyo6f) but rather in terms of “fixing” the whole universe to their likening. Difficulties:
+> 
 >  * if the story started as an action \ adventure, it would abruptly change its genre (strategy \ history \ infrastructure management) losing many readers in the process;
 >  * even if did start with warnings about the incoming genre shift, it still wouldn’t be interesting for as wide an audience as a general action \ adventure story is;
 >  * it would be hard to write a high-quality story in this direction: one would have to be well educated in history, political and social sciences, economics, etc.
+> 
 > * 2, using an analogy with video games, the author could be describing his character’s actions in an open sandbox world where the main plotline has already been completed. Often you want to know what happened with the hero after the main plot line is finished and they are at the peak of their power — but for writers, the sensible thing to do is to finish the story right at this point. So you usually end up with either no continuation at all or with a sequel that starts right off with introduction of another [big bad.](http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad) In case of videogames, however, players will often return to an already “finished” RPG ([TES,](http://www.uesp.net/wiki/Main_Page) [GTA,](http://gta.wikia.com/wiki/Main_Page) etc) to just spend some time there as a form of *casual* entertainment. What eventually dims the interest in this case is depletion of original content in the game (e.g. side quests) and getting bored by the game engine’s capabilities. Both these problems are solvable when an imaginative writer is writing a *story*, so I think an OPed protag could keep going from one original “side quest”\plot arc to another — if the story was intended as a pulp fiction from the start.
+> 
 > ---
 > >Yudkowsky's First Law of Fanfiction
-> On another note, why are you naming that law after one particular person? I don’t think EY was the first person in history to point out that stories should be balanced to preserve intrigue and tension. So why is it being introduced as *his* law? Isn’t it like saying [Someone]’s Law of Round Wheels?
 > 
+> On another note, why are you naming that law after one particular person? I don’t think EY was the first person in history to point out that stories should be balanced to preserve intrigue and tension. So why is it being introduced as *his* law? Isn’t it like saying [Someone]’s Law of Round Wheels?
 
->> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+13]  *Godric Gryffindor* (14 hours later)
 >> 
 >> The application to fanfiction is particular.  Regular authors need to think of balancing invented protagonists and invented difficulties; fanfic authors need to be told to *rebalance* the difficulties.
->> 
 
->>> **u/kaukamieli** [+1] *
+>>> **u/kaukamieli** [+1]  (17 hours later)
 >>> 
 >>> What if you'd just give Sauron the deathstar without making Frodo a jedi? Has anyone experimented with just upping the difficulty?
->>> 
 
->>>> **u/alexanderwales** [+11]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+11]  *Time flies like an arrow* (20 hours later)
 >>>> 
 >>>> Increasing the difficulty for the hero is almost never a problem, at least so long as the hero can still win without it coming off as unearned. You can just keep upping the difficulty as much as you want, and so long as there's a good way to pull out a win in spite of that, you're golden. (I'll also note that one of the corollaries to Yudkowsky's First Law is that it's fine to make Frodo a Jedi without giving Sauron a Death Star if Sauron becomes the protagonist.)
->>>> 
 
->>>>> **u/kaukamieli** [+2] *
+>>>>> **u/kaukamieli** [+2]  (a day later)
 >>>>> 
 >>>>> Of course it's not a problem, but has someone taken a story, said it was too easy, and just ramped up the difficulty without giving the hero bonuses?
->>>>> 
 
->>>>>> **u/Evan_Th** [+2]  *Sunshine Regiment**
+>>>>>> **u/Evan_Th** [+2]  *Sunshine Regiment* (2 days later)
 >>>>>> 
 >>>>>> All the Harry Potter fanfic writers who make Dumbledore evil?
->>>>>> (Well, okay, a lot of them also give Harry new OC or might-as-well-be-OC allies.  But some don't.)
 >>>>>> 
+>>>>>> (Well, okay, a lot of them also give Harry new OC or might-as-well-be-OC allies.  But some don't.)
 
->>>>>>> **u/kaukamieli** [+1] *
+>>>>>>> **u/kaukamieli** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Make? You mean he is not? ;)
->>>>>>> 
 
->>>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager* (19 hours later)
 >>>> 
 >>>> If the original work was well-written, the protagonist probably spent a lot of time on the brink of defeat. Upping the difficulty would just mean making them lose. Or maybe relying on the butterfly effect to save them, but I don't think that would be very satisfying.
->>>> Of course, there's lots of fanfics of bad works too. I can't think of an answer to your question though. I don't know any Jedi Frodo in a Wheelchair story either. Jedi Frodo With a Limp, at worst. I'm sure a few exist, but on the whole, fanfics writers just don't like making their characters' lives harder.
 >>>> 
+>>>> Of course, there's lots of fanfics of bad works too. I can't think of an answer to your question though. I don't know any Jedi Frodo in a Wheelchair story either. Jedi Frodo With a Limp, at worst. I'm sure a few exist, but on the whole, fanfics writers just don't like making their characters' lives harder.
 
->>>>> **u/khafra** [+2] *
+>>>>> **u/khafra** [+2]  (a day later)
 >>>>> 
 >>>>> >  I don't know any Jedi Frodo in a Wheelchair story either.
->>>>> [Bittersweet](https://forums.spacebattles.com/threads/bittersweet-worm.347893/) is a Worm fanfic where tinker Taylor starts out in Dinah's position. Without, obviously, a Skitter on the outside to rescue her.
 >>>>> 
+>>>>> [Bittersweet](https://forums.spacebattles.com/threads/bittersweet-worm.347893/) is a Worm fanfic where tinker Taylor starts out in Dinah's position. Without, obviously, a Skitter on the outside to rescue her.
 
->>>>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+2]  *Solitary Locust* (a day later)
 >>>>>> 
 >>>>>> Would you recommend reading that story?
->>>>>> 
 
->>>>>>> **u/khafra** [+1] *
+>>>>>>> **u/khafra** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> Nah, it's super-depressing, because Taylor  keeps trying, and failing, at escaping Coil's control. Because she's not a precog, and Coil is, and he's good at manipulation and control. It's a rational setting, and the protagonist isn't given enough advantages to reasonably have a non-horrible outcome, at least so far.
->>>>>>> 
 
->>>>>>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>>>>>> **u/Bowbreaker** [+2]  *Solitary Locust* (6 days later)
 >>>>>>>> 
 >>>>>>>> I meant if it is written well,interesting in its own way, has adequate pacing and is decently rational. I can deal with depressing as long as it is well written.
->>>>>>>> 
 
->>>>>>>>> **u/khafra** [+1] *
+>>>>>>>>> **u/khafra** [+1]  (6 days later)
 >>>>>>>>> 
 >>>>>>>>> Oh, well then yes; go ahead and read it. Just don't come crying to me when you're huddled up on the couch with your kindle, a cup of hot cocoa, and a box of kleenex.
->>>>>>>>> 
 
->>>>>>>>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>>>>>>>> **u/Bowbreaker** [+2]  *Solitary Locust* (7 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Read all of the available chapters. Liked it a lot. You can pretty much feel all the alternate timelines Coil uses to manipulate her. But I don't get why everyone is acting as if he is describing in detail how kittens are being slowly pushed through a meat grinder or something.
->>>>>>>>>> I mean sure, lots of standard issue psychological torture but till now there hasn't even been any hope suddenly janked away from under her. No forcing her between the lives of a random innocent or that of her father. No Tattletale dying to a tragic freak "accident" or being forced by Coil to betray her. No finally getting free from Coil just to find her father already dead.
->>>>>>>>>> Sure, all those things may well still be coming but those comments about the story being unreadable really confuses me seeing how the original Worm not only had much bleaker moments but also had much more of a ramp up while this story starts kinda fucked up and then pretty much keeps the expected level without ever becoming worse.
 >>>>>>>>>> 
+>>>>>>>>>> I mean sure, lots of standard issue psychological torture but till now there hasn't even been any hope suddenly janked away from under her. No forcing her between the lives of a random innocent or that of her father. No Tattletale dying to a tragic freak "accident" or being forced by Coil to betray her. No finally getting free from Coil just to find her father already dead.
+>>>>>>>>>> 
+>>>>>>>>>> Sure, all those things may well still be coming but those comments about the story being unreadable really confuses me seeing how the original Worm not only had much bleaker moments but also had much more of a ramp up while this story starts kinda fucked up and then pretty much keeps the expected level without ever becoming worse.
 
->>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (6 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Remember when we find out that [](#s "Grue got Bonesawed")? There were several comments of people who quit reading there because it was too much. I found it *interesting*. Horror and tragedy in fiction, especially in the written medium, just doesn't negatively affect me all that much and I have to get **really** attached to a character in order for me to mourn their deaths or death-equivalent events.
->>>>>>>>>> But maybe you'll turn out to be right. I'll come back and tell you when I'm done reading that story.
->>>>>>>>>> Cheers!
 >>>>>>>>>> 
+>>>>>>>>>> But maybe you'll turn out to be right. I'll come back and tell you when I'm done reading that story.
+>>>>>>>>>> 
+>>>>>>>>>> Cheers!
 
->>>>> **u/kaukamieli** [+1] *
+>>>>> **u/kaukamieli** [+1]  (a day later)
 >>>>> 
 >>>>> It wouldn't necessarily mean they'd lose. And should it matter? Why can't a story end badly, to keep us on our toes and help us not take it for granted that the story has a nice end?
->>>>> I don't mean harder by crippling the MC, but making the enemy a bit more sane, or just removing the plot armor and making the hero actually earn the win or something.
 >>>>> 
+>>>>> I don't mean harder by crippling the MC, but making the enemy a bit more sane, or just removing the plot armor and making the hero actually earn the win or something.
 
->>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (a day later)
 >>>>>> 
 >>>>>> Because it is unsatisfying to read. Imagine if the end of HPMOR had been "Voldemort kills Harry. The End".
->>>>>> 
 
->>>>>>> **u/kaukamieli** [+3] *
+>>>>>>> **u/kaukamieli** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> It's not like there are no stories where bad guy wins. They don't just go "Bad guy killed good guy. The End."
->>>>>>> 
 
->>>>>>>> **u/mightykushthe1st** [+1] *
+>>>>>>>> **u/mightykushthe1st** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Why would I ever want to read a story whose moral is essentially, "Sometimes the bad guys win, and there's nothing you can do about it no matter how hard you try"? I already know a story like that, and it's called real life.
->>>>>>>> 
 
->>>>>>>>> **u/kaukamieli** [+1] *
+>>>>>>>>> **u/kaukamieli** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> I just saw a movie where all characters died. It was not unsatisfactory. I rather liked the movie.
->>>>>>>>> I personally find it a bit boring that we know main character is safe. Things needs to be shaken a bit every now and then. That's part of what art is about I think, shaking dusty things.
 >>>>>>>>> 
+>>>>>>>>> I personally find it a bit boring that we know main character is safe. Things needs to be shaken a bit every now and then. That's part of what art is about I think, shaking dusty things.
 
->>>>>>>>>> **u/mightykushthe1st** [+1] *
+>>>>>>>>>> **u/mightykushthe1st** [+1]  (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> You're talking about movies like No Country for Old Men right? Well, maybe I'm biased because I was brought up on Bollywood movies, but for me a bad ending is unacceptable unless I know it's coming, simply because I watch movies primarily as entertainment AKA an escape from reality, and I absolutely don't want anything in the movie that reminds me of ho shit the real world really is. And bad guys winning or everyone dying is pretty indicative of that, so it really turns me off.
->>>>>>>>>> I know that there are people out there who like tragedies because it gives them a sense of relief that its not happening to them. However, I've always been far too empathetic to watch tragedies without suffering right along with the characters, so I have never really understood that viewpoint.
 >>>>>>>>>> 
+>>>>>>>>>> I know that there are people out there who like tragedies because it gives them a sense of relief that its not happening to them. However, I've always been far too empathetic to watch tragedies without suffering right along with the characters, so I have never really understood that viewpoint.
 
->> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (2 hours later)
 >> 
 >> > I think not introducing an enemy of equal power could still work in at least two cases though. 
->> * 3. You're in a dangerous environment, and simply surviving is hard enough. The wilderness, space, an alien planet, an upcoming catastrophe (Greg Egan uses this one a lot: Schild's Ladder, Diaspora, Distress, the Orthogonal series).
 >> 
+>> * 3. You're in a dangerous environment, and simply surviving is hard enough. The wilderness, space, an alien planet, an upcoming catastrophe (Greg Egan uses this one a lot: Schild's Ladder, Diaspora, Distress, the Orthogonal series).
 
->>> **u/Sparkwitch** [+6] *
+>>> **u/Sparkwitch** [+5]  (4 hours later)
 >>> 
 >>> ...or the magical world of Wildbow's *Pact*!
->>> 
 
->> **u/None** [+9] *
+>> **u/None** [+9]  (2 hours later)
 >> 
 >> > why are you naming that law after one particular person?
->> It's actually something Yudkowsky claims as his own (adopted) law on his fanfiction profile, /u/Roxolan was likely quoting the first place they discovered it. (Whether we should encourage and propagate Yudkowsky's name-claim is another story.)
 >> 
+>> It's actually something Yudkowsky claims as his own (adopted) law on his fanfiction profile, /u/Roxolan was likely quoting the first place they discovered it. (Whether we should encourage and propagate Yudkowsky's name-claim is another story.)
 
->>> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager* (6 hours later)
 >>> 
 >>> Correct.
->>> (edit: and I see no reason to contest the name-claim unless someone else has an earlier one. It's not like Ed Murphy *invented* the idea that things usually go wrong.)
 >>> 
+>>> (edit: and I see no reason to contest the name-claim unless someone else has an earlier one. It's not like Ed Murphy *invented* the idea that things usually go wrong.)
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (an hour later)
 >> 
 >> > On another note, why are you naming that law after one particular person?
->> Presumably because this is /r/rational ?
 >> 
+>> Presumably because this is /r/rational ?
 
->>> **u/JackStargazer** [+12]  *Primordial Apologist**
+>>> **u/JackStargazer** [+13]  *Primordial Apologist* (an hour later)
 >>> 
 >>> Also a lot of people came here from MOR, and in Yudkowski's FF.net profile, this is word for word called out as Yudkowski's First Law of Fanfiction, with the Frodo/Lightsaber metaphor and all.
->>> 
 
->>> **u/OutOfNiceUsernames** [+5]  *fear of last pages**
+>>> **u/OutOfNiceUsernames** [+6]  *fear of last pages* (an hour later)
 >>> 
 >>> Nah, that’s just like naming it Bob’s Law of Round Wheels just because a car made by Bob happened to be the first one you ever owned — or because you’re now in a car club that was opened partially because of Bob.
->>> 
 
->>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (2 hours later)
 >>>> 
 >>>> You can't name a law after Bob.
->>>> 
 
->>>>> **u/eaglejarl** [+18] *
+>>>>> **u/eaglejarl** [+19]  (3 hours later)
 >>>>> 
 >>>>> Bob's First Law of Law-Naming: No naming laws after Bob.
->>>>> 
 
-> **u/None** [+11] *
+> **u/None** [+9]  (an hour later)
 > 
 > I don't think the Dresden/ASOIAF one was meant to be a rational fic, or even one with much challenge. It always felt like a slice of life fic with some munchkining and industrial revolution porn (there has to be a better term for "character from the future introduces new technologies and advances the setting to the next era", but I can't remember it) to me.
-> And we don't know yet if the Mannis one is going to turn bad, you're kind of assuming.
-> And the problem with Worm fics is that [](#s "the final boss is horribly designed. He's invulnerable to everything unless you figure out his one weakness, but then you only need one specific power + generic dakka to defeat him.") With that example to follow it's no wonder people have trouble writing good Worm villains. Also there's a delicate equilibrium of villainy in Brockton Bay and adding original characters or buffing established villains kind of messes that up.
-> But I agree with you. Stories need to spend more time in the planning stage, which unfortunately Spacebattles doesn't really agree with. They're all "hey let's turn this 1k word drabble into a 50k word unfinished story with no planning in between". It kinda sucks.
 > 
+> And we don't know yet if the Mannis one is going to turn bad, you're kind of assuming.
+> 
+> And the problem with Worm fics is that [](#s "the final boss is horribly designed. He's invulnerable to everything unless you figure out his one weakness, but then you only need one specific power + generic dakka to defeat him.") With that example to follow it's no wonder people have trouble writing good Worm villains. Also there's a delicate equilibrium of villainy in Brockton Bay and adding original characters or buffing established villains kind of messes that up.
+> 
+> But I agree with you. Stories need to spend more time in the planning stage, which unfortunately Spacebattles doesn't really agree with. They're all "hey let's turn this 1k word drabble into a 50k word unfinished story with no planning in between". It kinda sucks.
 
->> **u/JackStargazer** [+17]  *Primordial Apologist**
+>> **u/JackStargazer** [+16]  *Primordial Apologist* (an hour later)
 >> 
 >> There's also the problem that power levels in Worm range from 'lowest of street tier' to 'Mid-Cosmic Tier'.
->> Anything that can fight effectively at the end has to be significantly changed or buffed from anything that finds the beginning remotely challenging. It's like the most egregious Sorting Algorithm of Evil possible.
 >> 
+>> Anything that can fight effectively at the end has to be significantly changed or buffed from anything that finds the beginning remotely challenging. It's like the most egregious Sorting Algorithm of Evil possible.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> And fans can't commit to one part of the scale or the other.
->>> 
 
->> **u/OutOfNiceUsernames** [+12]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+11]  *fear of last pages* (an hour later)
 >> 
 >> >there has to be a better term for "character from the future introduces new technologies and advances the setting to the next era", but I can't remember it
->> It’s [“Giving Radio to the Romans”](http://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) on TVTropes.
 >> 
+>> It’s [“Giving Radio to the Romans”](http://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) on TVTropes.
 
->>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>> **u/Bowbreaker** [+1]  *Solitary Locust* (a day later)
 >>> 
 >>> Is there any [insert prefix here-]fic type of name?
->>> 
 
->> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (12 hours later)
 >> 
 >> > I don't think the Dresden/ASOIAF one was meant to be a rational fic, or even one with much challenge. It always felt like a slice of life fic with some munchkining and industrial revolution porn
->> I agree. The pattern still happened though. 
->> The payoff of industrial revolution porn happens at the very beginning (when the time traveller is all "look at this cool idea!" and everyone else goes "oh my god this is the best thing ever") and again years or decades down the line (when all the cool ideas finally become widespread reality). I really enjoy this genre. But like many others, ASOIAFTWAMF makes the mistake of sticking to an almost day-to-day pace rather than jumping ahead. So it starts awesome and then gradually degrades. 
->> And the author probably realizes this on some level, so to keep us entertained they tried to add in threats. But because the protagonist is a millionaire demigod gadgeteer (with [](#s "demigod sidekick daughter")) in a low-fantasy setting, and because there's no buildup (since the author started out writing a peaceful slice-of-life story with no antagonist), it falls flat.
->> > And we don't know yet if the Mannis one is going to turn bad, you're kind of assuming.
->> The pattern has already happened. Maybe it'll get better in the future, sure. But from where I stand, on chapter 1.16, it has fully entered the "[](#s "main challenges defeated, industrial revolution kickstarted, huh how can I challenge this character, maybe the other nobles are grumbling? I'm sure the millionaire prince and his loyal-to-the-death army are quaking in their boots")" phase.
->> Compare e.g. *The Two Year Emperor*. Fairly similar setup, fairly similar snowballing start, but the threats escalate *even faster*, so the protagonist remains on the brink of disaster for the entire story. And when he [](#s "*does* achieve complete victory, the fic gives us a couple of chapters of literal-wish-fulfillment porn and then *ends*.")
->> > Stories need to spend more time in the planning stage, which unfortunately Spacebattles doesn't really agree with.
->> Yeah, this is probably the root of the problem. You can't skip the boring bits to get straight to the awesome bits, and then end, if you don't even know where the awesome bits are going to be - and at what point they'll stop coming.
 >> 
+>> I agree. The pattern still happened though. 
+>> 
+>> The payoff of industrial revolution porn happens at the very beginning (when the time traveller is all "look at this cool idea!" and everyone else goes "oh my god this is the best thing ever") and again years or decades down the line (when all the cool ideas finally become widespread reality). I really enjoy this genre. But like many others, ASOIAFTWAMF makes the mistake of sticking to an almost day-to-day pace rather than jumping ahead. So it starts awesome and then gradually degrades. 
+>> 
+>> And the author probably realizes this on some level, so to keep us entertained they tried to add in threats. But because the protagonist is a millionaire demigod gadgeteer (with [](#s "demigod sidekick daughter")) in a low-fantasy setting, and because there's no buildup (since the author started out writing a peaceful slice-of-life story with no antagonist), it falls flat.
+>> 
+>> > And we don't know yet if the Mannis one is going to turn bad, you're kind of assuming.
+>> 
+>> The pattern has already happened. Maybe it'll get better in the future, sure. But from where I stand, on chapter 1.16, it has fully entered the "[](#s "main challenges defeated, industrial revolution kickstarted, huh how can I challenge this character, maybe the other nobles are grumbling? I'm sure the millionaire prince and his loyal-to-the-death army are quaking in their boots")" phase.
+>> 
+>> Compare e.g. *The Two Year Emperor*. Fairly similar setup, fairly similar snowballing start, but the threats escalate *even faster*, so the protagonist remains on the brink of disaster for the entire story. And when he [](#s "*does* achieve complete victory, the fic gives us a couple of chapters of literal-wish-fulfillment porn and then *ends*.")
+>> 
+>> > Stories need to spend more time in the planning stage, which unfortunately Spacebattles doesn't really agree with.
+>> 
+>> Yeah, this is probably the root of the problem. You can't skip the boring bits to get straight to the awesome bits, and then end, if you don't even know where the awesome bits are going to be - and at what point they'll stop coming.
 
->>> **u/rabotat** [+1] *
+>>> **u/rabotat** [+1]  (a day later)
 >>> 
 >>> I see a lot of people dislike it when protagonists become over powered, but I honestly kinda enjoy that kind of fiction from time to time. 
->>> And what you call whish fulfillment porn is what I call a satisfactory end to a book or series where characters faced a lot of difficulties.
->>> I honestly hate it when long works end abruptly: "Oh, yeah, after 10 000 pages we finally defeated the big bad, the remaining good guys now have some power and time to use it to better the world while their enemies are dead and the worst problems taken care of. Imagine what could happen. The end."
->>> In the same vein I *do* enjoy "Giving Radio to the Romans" fiction. I like world building and problem solving without action, combat and classic enemies, just the improving the world.
 >>> 
+>>> And what you call whish fulfillment porn is what I call a satisfactory end to a book or series where characters faced a lot of difficulties.
+>>> 
+>>> I honestly hate it when long works end abruptly: "Oh, yeah, after 10 000 pages we finally defeated the big bad, the remaining good guys now have some power and time to use it to better the world while their enemies are dead and the worst problems taken care of. Imagine what could happen. The end."
+>>> 
+>>> In the same vein I *do* enjoy "Giving Radio to the Romans" fiction. I like world building and problem solving without action, combat and classic enemies, just the improving the world.
 
->>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>> 
 >>>> I don't mean "porn" in a negative sense. I've explained what I dislike in the OP; it's definitely not wish fulfillment or "Radio to the Romans", I enjoy both of those plenty.
->>>> 
 
->>>>> **u/rabotat** [+1] *
+>>>>> **u/rabotat** [+1]  (a day later)
 >>>>> 
 >>>>> Sorry if it sounded negative, I was actually just thinking about this the other day, and it seemed like an appropriate place to put those thoughts.
->>>>> 
 
->>>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>>> 
 >>>>>> That's fine. I too didn't mean to sound harsh.
->>>>>> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (2 days later)
 >>> 
 >>> > Compare e.g. The Two Year Emperor. Fairly similar setup, fairly similar snowballing start, but the threats escalate even faster, so the protagonist remains on the brink of disaster for the entire story. And when he 
->>> And when he...?
 >>> 
+>>> And when he...?
 
->>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (2 days later)
 >>>> 
 >>>> Sorry, mobile user; actual spoiler :-/
->>>> Pm'ed you the content.
 >>>> 
+>>>> Pm'ed you the content.
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (2 days later)
 >>>>> 
 >>>>> Ha. Many thanks. 
->>>>> It was very odd -- I saw literally nothing where the spoilers were, both on mobile and desktop. I don't know what's up with spoilers and me and this sub lately.
 >>>>> 
+>>>>> It was very odd -- I saw literally nothing where the spoilers were, both on mobile and desktop. I don't know what's up with spoilers and me and this sub lately.
 
->> **u/MugaSofer** [+1] *
+>> **u/MugaSofer** [+1]  (3 days later)
 >> 
 >> >And the problem with Worm fics is that [](#s "the final boss is horribly designed. He's invulnerable to everything unless you figure out his one weakness, but then you only need one specific power + generic dakka to defeat him.")
->> [](#s "If you mean Foil's power, that's not the case - in canon, Taylor spent the entire final fight shooting it at him and he just, y'know, dodged. You've just been reading the wrong fanfics.")
 >> 
+>> [](#s "If you mean Foil's power, that's not the case - in canon, Taylor spent the entire final fight shooting it at him and he just, y'know, dodged. You've just been reading the wrong fanfics.")
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (3 days later)
 >>> 
 >>> By figuring out his weakness I meant [](#s "his emotional weakness. Once you know that you just have to make him have an emotional breakdown, and *then* you use Foil's power")
->>> 
 
-> **u/JackStargazer** [+9]  *Primordial Apologist**
+> **u/JackStargazer** [+9]  *Primordial Apologist* (an hour later)
 > 
 > I agree with almost all your points, save for the inclusion of Inviolate.  
-> While several fics in DC have done the twist that Inviolate did, when you find out the real antagonists involved they are certainly still a significant threat to the main character, despite his optimization. I don't agree that it hits stage 4, excepting maybe the epilogue, which I'm glad ended the story there - any continuation from that point could have been bad.
-> Similarly, it's hard to justify stage 4 on Oh God am I the Mannis Now - the SI is in a setting with provable supernatural elements which hard trump any non-supernatural foes with no or little counter to them and no access to supernatural strength himself. He's also a lot more realistic in the sense of not remembering all of the minutiae of modern technology to be able to perfectly recreate it at will. 
-> Trying to write my own SI story however, I can understand the problems. I tried to solve it by choosing a main setting which is basically impossible to directly overpower because the existing foes and threats in the setting are Worm level of dangerous and less concerned about stealth or collateral. 
-> I also eliminate all my SI's knowledge of the setting until a significant point in the story - they have to optimize from their modern perspective but without meta-knowledge. 
-> Also important is creating a specific storyboard early on to figure out where the story is going, and how it's going to get there. I'm still working on that, but I've got the major events planned out in such a way that those familiar with the setting shouldn't consider anything as Deus Ex Machina. 
-> I'm considering adding in a canon plot device to help with avoiding that issue by providing a reason for what are effectively cutscenes of some of the opposition.
 > 
+> While several fics in DC have done the twist that Inviolate did, when you find out the real antagonists involved they are certainly still a significant threat to the main character, despite his optimization. I don't agree that it hits stage 4, excepting maybe the epilogue, which I'm glad ended the story there - any continuation from that point could have been bad.
+> 
+> Similarly, it's hard to justify stage 4 on Oh God am I the Mannis Now - the SI is in a setting with provable supernatural elements which hard trump any non-supernatural foes with no or little counter to them and no access to supernatural strength himself. He's also a lot more realistic in the sense of not remembering all of the minutiae of modern technology to be able to perfectly recreate it at will. 
+> 
+> Trying to write my own SI story however, I can understand the problems. I tried to solve it by choosing a main setting which is basically impossible to directly overpower because the existing foes and threats in the setting are Worm level of dangerous and less concerned about stealth or collateral. 
+> 
+> I also eliminate all my SI's knowledge of the setting until a significant point in the story - they have to optimize from their modern perspective but without meta-knowledge. 
+> 
+> Also important is creating a specific storyboard early on to figure out where the story is going, and how it's going to get there. I'm still working on that, but I've got the major events planned out in such a way that those familiar with the setting shouldn't consider anything as Deus Ex Machina. 
+> 
+> I'm considering adding in a canon plot device to help with avoiding that issue by providing a reason for what are effectively cutscenes of some of the opposition.
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (10 hours later)
 >> 
 >> Is anything you've already written online? Because now I really, *really* want to read something by you. ;)
->> 
 
->>> **u/JackStargazer** [+3]  *Primordial Apologist**
+>>> **u/JackStargazer** [+3]  *Primordial Apologist* (12 hours later)
 >>> 
 >>> I won the Rational Horror prompt here when the writing contests began ( I think it was the second or third prompt?) with a story called [The Real You](https://docs.google.com/document/d/1PmC1LfBHH2poxcgKJZRjDprwWLrlOgD3zHG9o_OIRvk/edit), though my little sticky note flair thing disappeared when I modified my flair.
->>> I don't consider it my best work personally, I wrote it in about an hour and a half after reading the prompt, and have only done cursory editing. 
->>> For the new story I'm working on, I'm trying to get a good percentage of it done before I start posting - my writing style is not conducive to small daily tidbits, I go back and reedit, add sections, or flesh out a beginning skeleton several times in the process. Things get moved around, reorganized, or changed in wording. 
->>> Having read an obscene amount of fiction, I've gotten to the point where I can instinctively tell what turns of phrase are good and evoke relevant imagery and which ones are jarring and remove you from the scene. An improperly worded sentence or description can be worse for immersion in a story than a nonsense plot point or even a blatant misspelling. Because I'm hyper aware of this, I nitpick my own writing to the hilt, and my speed suffers a lot.
 >>> 
+>>> I don't consider it my best work personally, I wrote it in about an hour and a half after reading the prompt, and have only done cursory editing. 
+>>> 
+>>> For the new story I'm working on, I'm trying to get a good percentage of it done before I start posting - my writing style is not conducive to small daily tidbits, I go back and reedit, add sections, or flesh out a beginning skeleton several times in the process. Things get moved around, reorganized, or changed in wording. 
+>>> 
+>>> Having read an obscene amount of fiction, I've gotten to the point where I can instinctively tell what turns of phrase are good and evoke relevant imagery and which ones are jarring and remove you from the scene. An improperly worded sentence or description can be worse for immersion in a story than a nonsense plot point or even a blatant misspelling. Because I'm hyper aware of this, I nitpick my own writing to the hilt, and my speed suffers a lot.
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (a day later)
 >> 
 >> > I also eliminate all my SI's knowledge of the setting until a significant point in the story
->> This is something I really liked in With This Ring. The SI protagonist knows a lot about general DC universe stuff but took out all of his knowledge about the specific original story itself.
 >> 
+>> This is something I really liked in With This Ring. The SI protagonist knows a lot about general DC universe stuff but took out all of his knowledge about the specific original story itself.
 
->>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>> **u/JackStargazer** [+1]  *Primordial Apologist* (a day later)
 >>> 
 >>> It's necessary for me for plot based reasons, plus my SI would act *significantly* differently if he knew exactly which world he was in.
->>> I'm still not sure how long I can keep the reader from knowing. I have at least 5 or 6 chapters of prologue before the reveal planned, and I'm sure that even specifically choosing words and phrases to obfuscate, it's going to come out pretty fast.
 >>> 
+>>> I'm still not sure how long I can keep the reader from knowing. I have at least 5 or 6 chapters of prologue before the reveal planned, and I'm sure that even specifically choosing words and phrases to obfuscate, it's going to come out pretty fast.
 
->>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+2]  *Solitary Locust* (a day later)
 >>>> 
 >>>> Oh you don't need to keep the reader in the dark in order to hide it from your SI. What With This Ring did was essentially not directly inserting himself into the story but an alternate version of himself that just happened to never read or hear anything about the particular story he got inserted into. Imagine for example if you were to write a GoT self insert but one where the SI character isn't you but someone from an identical alternate universe where ASOIAF never came to TV and you never stumbled across any notable mention of the books.
->>>> Or you could just go the specific amnesia route like in that Warcraft/MtG crossover I once read where the SI had a magical amnesia make him forget every last detail about anything Warcraft or MtG related (along with a few other things that slowly came back to him).
 >>>> 
+>>>> Or you could just go the specific amnesia route like in that Warcraft/MtG crossover I once read where the SI had a magical amnesia make him forget every last detail about anything Warcraft or MtG related (along with a few other things that slowly came back to him).
 
->>>>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>>>> **u/JackStargazer** [+1]  *Primordial Apologist* (a day later)
 >>>>> 
 >>>>> > Or you could just go the specific amnesia route like in that Warcraft/MtG crossover I once read where the SI had a magical amnesia make him forget every last detail about anything Warcraft or MtG related (along with a few other things that slowly came back to him).
->>>>> This is basically what I'm doing. I was planning to keep the reader in the dark partially just to see if it is possible.
 >>>>> 
+>>>>> This is basically what I'm doing. I was planning to keep the reader in the dark partially just to see if it is possible.
 
-> **u/ToaKraka** [+16]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+17]  *https://i.imgur.com/OQGHleQ.png* (27 minutes later)
 > 
 > Links to referenced stories:  
 > *[A Song of Ice and Fires That Weren't All My Fault](https://forums.spacebattles.com/threads/336499)*  
@@ -445,633 +442,709 @@ Just needed to get this off my chest.
 > *[Adventures in Effulgence](https://edgeofyourseat.dreamwidth.org/2121.html)*  
 > **[*Time Braid*](https://www.fanfiction.net/s/5193644)**  
 > *[Mother of Learning](https://www.fictionpress.com/s/2961893)*
-> 
 
->> **u/JackStargazer** [+19]  *Primordial Apologist**
+>> **u/JackStargazer** [+17]  *Primordial Apologist* (3 hours later)
 >> 
 >> I especially like how you bolded Time Braid. Very Subtle.
->> 
 
->> **u/Xtraordinaire** [+3]  *Team Glimglam**
+>> **u/Xtraordinaire** [+3]  *Team Glimglam* (2 hours later)
 >> 
 >> Off-topic: can I expect to like Time Braid if I have zero exposure to Naruto and near-zero exposure to anime as well (and I fully intend to make no changes here)
->> 
 
->>> **u/EliezerYudkowsky** [+10]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+9]  *Godric Gryffindor* (9 hours later)
 >>> 
 >>> Time Braid was my first exposure to Naruto.
->>> 
 
->>> **u/Escapement** [+9]  *Ankh-Morpork City Watch**
+>>> **u/Escapement** [+10]  *Ankh-Morpork City Watch* (2 hours later)
 >>> 
 >>> Time Braid does a sort of OK job of explaining stuff so that a newer reader is not totally lost, and goes pretty fair off the rails of canon so reader familiarity is not always assumed. I'd say to try it. There's a lot of nouns that will be unfamiliar at first, mostly because of gratuitous japanese names for stuff, but you can Google anything important and let the rest sort itself out by contextual cues. Honestly, I think you're more likely to be turned off by some of the content than by the source material - Time Braid contains a *lot* of nightmare fuel that some people find objectionable. I really like the story, but I *completely* understand people who don't.
->>> 
 
->>>> **u/Xtraordinaire** [+8]  *Team Glimglam**
+>>>> **u/Xtraordinaire** [+9]  *Team Glimglam* (2 hours later)
 >>>> 
 >>>> [Nightmare fuel you say?](http://i.imgur.com/fXCUz27.jpg)
->>>> 
 
->>>>> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png**
+>>>>> **u/ToaKraka** [+8]  *https://i.imgur.com/OQGHleQ.png* (2 hours later)
 >>>>> 
 >>>>> There really isn't that much of it--maybe two or three chapters of brainwashing torture out of thirty-one, in my opinion.
->>>>> 
 
->>>>>> **u/Xtraordinaire** [+3]  *Team Glimglam**
+>>>>>> **u/Xtraordinaire** [+3]  *Team Glimglam* (2 hours later)
 >>>>>> 
 >>>>>> Nihilus Nix Naught pls!
->>>>>> Okay, I'll have to give it a try.
 >>>>>> 
+>>>>>> Okay, I'll have to give it a try.
 
->>>>>> **u/Jiro_T** [+2] *
+>>>>>> **u/Jiro_T** [+3]  (11 hours later)
 >>>>>> 
 >>>>>> It felt to me like the author was writing it in order to write porn fetishizing the brainwashing torture.
->>>>>> 
 
->>>>>>> **u/Kishoto** [+3] *
+>>>>>>> **u/Kishoto** [+3]  (13 hours later)
 >>>>>>> 
 >>>>>>> Read the Prime Intellect story. You'll feel this feeling 10x over. At least for the initial scenes.
->>>>>>> EDIT: The torture porn. Not the brainwashing part.
 >>>>>>> 
+>>>>>>> EDIT: The torture porn. Not the brainwashing part.
 
->>>>>>>> **u/None** [+3] *
+>>>>>>>> **u/None** [+3]  (18 hours later)
 >>>>>>>> 
 >>>>>>>> God yes.
->>>>>>>> Read the story when I was around 15 and on a Singularity binge, and it opened my eyes to a bunch of things. Leaving aside the whole S&M stuff, I never really liked the story's underlying message/theme, that humans need to have suffering and conflict in order to be happy. Yes, becoming virtual addicts is a possibility, but I feel their are ways to counteract that, and simply disregarding the Singularity isn't one of them.
 >>>>>>>> 
+>>>>>>>> Read the story when I was around 15 and on a Singularity binge, and it opened my eyes to a bunch of things. Leaving aside the whole S&M stuff, I never really liked the story's underlying message/theme, that humans need to have suffering and conflict in order to be happy. Yes, becoming virtual addicts is a possibility, but I feel their are ways to counteract that, and simply disregarding the Singularity isn't one of them.
 
->>>>>>>>> **u/Kishoto** [+2] *
+>>>>>>>>> **u/Kishoto** [+2]  (19 hours later)
 >>>>>>>>> 
 >>>>>>>>> Yea, the story had some very interesting concepts, but I think it's overarching messages were heavily flawed. Anyone with an ounce of creativity could find so many ways to dynamically enjoy a virtual existence. Would probably require some hard coded limitations, at least for day-to-day stuff, but still. More than possible.
->>>>>>>>> 
 
->>>>>>>>> **u/aeschenkarnos** [+0] *
+>>>>>>>>> **u/aeschenkarnos** [+0]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> It's a concept that I propose to name the Gygaxian Paradox: you do not gain XP unless you deserve it. The universe's algorithm for determining whether or not you deserve XP, is based on the *difficulty* of what you did. A life without suffering and conflict has a cap on its difficulty. Maybe you could challenge yourself intellectually, eg by playing games and *pretending* to experience events which are difficulties from the point of view of your characters, however, unless the *stakes really matter to you*, you are (tautologically) not overcoming sufficiently difficult problems.
->>>>>>>>> You are both author *and character* within your own life. From the point of view of Theon Greyjoy, his suffering is terrible. From the point of view of George RR Martin, Theon's suffering is a necessary part of the story. This doesn't mean that George *hates* Theon, or even that he doesn't *love* Theon; it means that George has larger, and different, concerns than Theon's "right" (which only he and other people in the story think he has, George RR Martin certainly doesn't) to live free from suffering.
->>>>>>>>> This is the insight that moved me from atheist to syncretic pantheist. The world is a story. "God", the author, the DM, the Ultimate Oversoul, may cause us to suffer *and* still love us, *and* also have the "right" to do so, because we are each a part of God, and we are doing it to ourself. We suffer because only *in suffering* may we have the opportunity to overcome suffering; not just our own suffering (self-actualization) but the suffering of others (Good-aligned behaviour). 
->>>>>>>>> The child in the cancer ward, the pig in the factory farm, the Jew in Auschwitz, the people in the queue behind that stupid woman arguing with the post office clerk, the failed gambler, the sex-deprived friendzoned ratheist neckbeard, all may curse God and all may do so justly. And yet God loves them all. Their suffering creates the opportunity to not suffer. If not for themselves, for others.
->>>>>>>>> (As a side effect, this manner of thinking helps depression a *lot*. We thank thee, oh great DM, for these monsters which we have randomly encountered, for only by defeating them may we gain XP and treasure. Amen, and roll for initiative.)
 >>>>>>>>> 
+>>>>>>>>> You are both author *and character* within your own life. From the point of view of Theon Greyjoy, his suffering is terrible. From the point of view of George RR Martin, Theon's suffering is a necessary part of the story. This doesn't mean that George *hates* Theon, or even that he doesn't *love* Theon; it means that George has larger, and different, concerns than Theon's "right" (which only he and other people in the story think he has, George RR Martin certainly doesn't) to live free from suffering.
+>>>>>>>>> 
+>>>>>>>>> This is the insight that moved me from atheist to syncretic pantheist. The world is a story. "God", the author, the DM, the Ultimate Oversoul, may cause us to suffer *and* still love us, *and* also have the "right" to do so, because we are each a part of God, and we are doing it to ourself. We suffer because only *in suffering* may we have the opportunity to overcome suffering; not just our own suffering (self-actualization) but the suffering of others (Good-aligned behaviour). 
+>>>>>>>>> 
+>>>>>>>>> The child in the cancer ward, the pig in the factory farm, the Jew in Auschwitz, the people in the queue behind that stupid woman arguing with the post office clerk, the failed gambler, the sex-deprived friendzoned ratheist neckbeard, all may curse God and all may do so justly. And yet God loves them all. Their suffering creates the opportunity to not suffer. If not for themselves, for others.
+>>>>>>>>> 
+>>>>>>>>> (As a side effect, this manner of thinking helps depression a *lot*. We thank thee, oh great DM, for these monsters which we have randomly encountered, for only by defeating them may we gain XP and treasure. Amen, and roll for initiative.)
 
->>>>>>>>>> **u/None** [+3] *
+>>>>>>>>>> **u/None** [+3]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> While I agree partially, I mainly take issue with the idea that suffering is what makes life worthwhile. Yes, perhaps without "righteous suffering", we may not be able to develop a sense of empathy, but I disagree that we may not be fully content. Not everyone enjoys fighting monsters to gain XP; some may like exploring and learning about the world. Some may even like being the DM. All of those options are valid, including the original PC who just wants hard monster battles. 
->>>>>>>>>> My gripe with the story was that the author tried to pass off a programming oversight as an insight into life. The AI that underwent Singularity in the story was bound by Asimov's three laws (which was fucking stupid, but that's another topic). Due to that, it couldn't allow any humans in it's charge to come to harm, preventing death by old age and even suicide. This scenario is not optimal, and is not the post-scarcity many of us are looking for.
->>>>>>>>>> To me, the most important thing in life is *choice*. Just as you can be given the option to work hard and struggle for all the things you want, I want the option to communicate, to speak with familiar and exotic minds without the need to worry about anything material. Both of us will be given the option to die, if we choose it, and the option to "harm" ourselves in any which way we choose (that won't take away the choice from someone else). That is what I want in my vision of a post-scarcity utopia. The one in Prime Intellect was not a utopia but a dystopia, ruled by a shackled God.
 >>>>>>>>>> 
+>>>>>>>>>> My gripe with the story was that the author tried to pass off a programming oversight as an insight into life. The AI that underwent Singularity in the story was bound by Asimov's three laws (which was fucking stupid, but that's another topic). Due to that, it couldn't allow any humans in it's charge to come to harm, preventing death by old age and even suicide. This scenario is not optimal, and is not the post-scarcity many of us are looking for.
+>>>>>>>>>> 
+>>>>>>>>>> To me, the most important thing in life is *choice*. Just as you can be given the option to work hard and struggle for all the things you want, I want the option to communicate, to speak with familiar and exotic minds without the need to worry about anything material. Both of us will be given the option to die, if we choose it, and the option to "harm" ourselves in any which way we choose (that won't take away the choice from someone else). That is what I want in my vision of a post-scarcity utopia. The one in Prime Intellect was not a utopia but a dystopia, ruled by a shackled God.
 
->>>>>>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>>>>>>> **u/aeschenkarnos** [+1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I will agree with you, because I'm comfortable with framing "exploration and learning" as "overcoming the monstrous fact that we don't know this thing, that we want to know".
->>>>>>>>>>> > This scenario is not optimal, and is not the post-scarcity many of us are looking for.
->>>>>>>>>>> Post-scarcity gives us the opportunity to fight more interesting monsters, and gather more interesting information. Trying to "end the problem of having problems at all" is very much first-order thinking, and it would potentially be a problem in itself, if it actually *mattered.*
->>>>>>>>>>> One of my favourite quotes on the subject, from "Harry Potter and the Natural 20":
->>>>>>>>>>> > Steadying himself with deep, calming breaths, Milo forced his eyes to stare directly at the polished silver surface.
->>>>>>>>>>> > The universe unveiled itself in front of him, and, while, conceptually at least, Milo knew from Wizards experimenting with Divinations and Greater Teleport that the distance between stars was inconceivably far and that the distance between galaxies made even that colossal distance seem completely negligible, Milo could see, clearly, pinpoints of light unfolding before him in numbers so large that they didn't have names. Many of those stars had planets, and many of those planets had moons, and a rare few of those planets and moons had life. Milo saw stout, bearded dwarves bustling about in their mines and forges, not knowing that with every greedy swing of their pick they unwittingly brought themselves one step closer to their own inexorable demise as they approached the horrors which lay beneath their underground cities. Milo saw proud elves, comfortable in the fact that they'd been toying with the very fabric of the universe and living in shining cities and soaring towers while the lesser races had yet to discover fire; blind, in their arrogance, to their ever-waning power, numbers, and relevance to the world outside of their sequestered paradises. Milo saw humans beyond number, living their lives, tilling soil, and always expanding outwards, propelled by their adventurous spirit and search for excitement, not knowing what was in store for them when they found there nowhere else to discover. Milo saw ankhegs, centaurs, chimera, dragons, gnomes, halflings, half-elves, aquatic elves, wood elves, dark elves, high elves, gray elves, wild elves, wood elves, orcs, goblins, hobgoblins, bugbears, half-orcs, magmin, barghests, blink dogs, dinosaurs, dire animals, ghosts, ghouls, ogres, oozes, mephits, medusae, merfolk, sahuagin, sprites, lamias, wyverns, will-o-wisps, and wraiths. Milo saw the entirety of the Prime Material as if he were examining every object, creature, and wisp of smoke with intense scrutiny. Milo saw the Great Wheel of the Outer Planes, the sixteen infinitely large planes of Celestia, Bytopia, Elysium, the Beastlands, Arborea, Ysgard, Limbo, Pandemonium, the Abyss, Carceri, Hades, Gehenna, Baator, Acheron, Mechanus, and Arcadia arranged clockwise around the barren Outlands, which, from its heart, rose the impossibly tall Spire, ringed at its peak by Sigil, The City of Doors. Milo saw the Lower Planes ripped apart by the never ending Blood War and the uncaring laughter of their thirsting gods. Milo saw the Inner Planes of Air, Fire, Earth, Water, and Positive and Negative energy from which the Multiverse itself was made. Milo saw the Astral, Ethereal, Shadow, and elusive Mirror Transitive planes, and the madness of the Far Realm. Milo saw the Multiverse in its entirety, and it was all his.
->>>>>>>>>>> > Milo saw himself, with an infinitely high level in every Class and Prestige Class, with every feat worth taking and a good many that aren't, with infinite ranks in infinite skills, with infinite ability scores and infinite ability modifiers, with infinite hit points, with infinite spells per day and every spell known, lounging on what, at first glance, appeared to be an intricately carved throne of every precious metal, expensive special material, and gemstone Milo had ever heard of (and several others, as well) but upon closer inspection were, in fact, Epic Magic Items and Artifacts. Milo saw a backrest composed of dozens of Staffs of the Magi sitting on piles of Rings of Universal Energy Immunity and Bracers of Relentless Might. One armrest was simply the Axe of the Dwarvish Lords while the other appeared to be the great battleaxe of Heironeous Himself, sitting on a pile of the six weapons of his archenemy, Hextor. Milo, the most powerful character conceivable, lounged on his terrible throne, staring at His gauntleted hand (in some detached part of his brain, Milo realized it was nothing less than the Iron Gauntlet of War), an expression of detached ennui on his blank face. In his other hand, he idly spun the Gold Dragon Orb around his fingers, one of the most powerful artifacts in creation reduced to a mere stress ball. Who has any need of an Orb of Dragonkind, even the most powerful one, when Milo could simply rewrite reality to create a breed of better dragons, forced to bow to his every will?
->>>>>>>>>>> > Milo had no enemies, for they had all long since been defeated. He had no adventures to undertake, for there were none of an appropriate Encounter Level. He had no friends, for he needed none. He had no dungeons to raid, for he had the Multiverse in his inventory. He had no familiar, for they could be traded for more powerful alternate class features. He had no partymembers, because in the impossible event that he would need allies, what could be more powerful than Simulacra of himself?
->>>>>>>>>>> > The Milo in the mirror had everything he'd ever wanted, everything he'd ever seen, everything he'd ever heard of, everything he'd ever only conceived of.
->>>>>>>>>>> > Milo —the real Milo — wasn't sure when he'd started screaming. He felt hands (the detached part of his brain that kept noticing minute details even in impossible situations noted that it must have been Ron and Harry, not that the rest of him cared) struggling to pull him away from the mirror, but even as they dragged him away from it he couldn't summon the willpower to tear his eyes from the horrible visage. Eventually, one of them wrapped the Cloak of Invisibility around the artifact, and the visions stopped — but the memories remained.
->>>>>>>>>>> > "What the bloody hell was that?" Ron asked, his face pale and bloodless.
->>>>>>>>>>> > "I... I saw everything," Milo said weakly. He tasted blood in his mouth, he must have bit his tongue at some point. "And ... and it was mine. I had everything ... everything except a reason to..." he trailed off, his brain still not fully functioning.
->>>>>>>>>>> > "Reason to what, mate?" Ron asked nervously in an odd, falsely cheerful voice.
->>>>>>>>>>> > "Anything," Milo said. "No reason to anything."
->>>>>>>>>>> **No reason to anything.** This is the gift that these people like that [censored to avoid unnecessary moderator attention] /u/transfuturist who called my philosophy "disgusting" and downvoted it with arrogant distaste, are trying to give us.
 >>>>>>>>>>> 
+>>>>>>>>>>> > This scenario is not optimal, and is not the post-scarcity many of us are looking for.
+>>>>>>>>>>> 
+>>>>>>>>>>> Post-scarcity gives us the opportunity to fight more interesting monsters, and gather more interesting information. Trying to "end the problem of having problems at all" is very much first-order thinking, and it would potentially be a problem in itself, if it actually *mattered.*
+>>>>>>>>>>> 
+>>>>>>>>>>> One of my favourite quotes on the subject, from "Harry Potter and the Natural 20":
+>>>>>>>>>>> 
+>>>>>>>>>>> > Steadying himself with deep, calming breaths, Milo forced his eyes to stare directly at the polished silver surface.
+>>>>>>>>>>> 
+>>>>>>>>>>> > The universe unveiled itself in front of him, and, while, conceptually at least, Milo knew from Wizards experimenting with Divinations and Greater Teleport that the distance between stars was inconceivably far and that the distance between galaxies made even that colossal distance seem completely negligible, Milo could see, clearly, pinpoints of light unfolding before him in numbers so large that they didn't have names. Many of those stars had planets, and many of those planets had moons, and a rare few of those planets and moons had life. Milo saw stout, bearded dwarves bustling about in their mines and forges, not knowing that with every greedy swing of their pick they unwittingly brought themselves one step closer to their own inexorable demise as they approached the horrors which lay beneath their underground cities. Milo saw proud elves, comfortable in the fact that they'd been toying with the very fabric of the universe and living in shining cities and soaring towers while the lesser races had yet to discover fire; blind, in their arrogance, to their ever-waning power, numbers, and relevance to the world outside of their sequestered paradises. Milo saw humans beyond number, living their lives, tilling soil, and always expanding outwards, propelled by their adventurous spirit and search for excitement, not knowing what was in store for them when they found there nowhere else to discover. Milo saw ankhegs, centaurs, chimera, dragons, gnomes, halflings, half-elves, aquatic elves, wood elves, dark elves, high elves, gray elves, wild elves, wood elves, orcs, goblins, hobgoblins, bugbears, half-orcs, magmin, barghests, blink dogs, dinosaurs, dire animals, ghosts, ghouls, ogres, oozes, mephits, medusae, merfolk, sahuagin, sprites, lamias, wyverns, will-o-wisps, and wraiths. Milo saw the entirety of the Prime Material as if he were examining every object, creature, and wisp of smoke with intense scrutiny. Milo saw the Great Wheel of the Outer Planes, the sixteen infinitely large planes of Celestia, Bytopia, Elysium, the Beastlands, Arborea, Ysgard, Limbo, Pandemonium, the Abyss, Carceri, Hades, Gehenna, Baator, Acheron, Mechanus, and Arcadia arranged clockwise around the barren Outlands, which, from its heart, rose the impossibly tall Spire, ringed at its peak by Sigil, The City of Doors. Milo saw the Lower Planes ripped apart by the never ending Blood War and the uncaring laughter of their thirsting gods. Milo saw the Inner Planes of Air, Fire, Earth, Water, and Positive and Negative energy from which the Multiverse itself was made. Milo saw the Astral, Ethereal, Shadow, and elusive Mirror Transitive planes, and the madness of the Far Realm. Milo saw the Multiverse in its entirety, and it was all his.
+>>>>>>>>>>> 
+>>>>>>>>>>> > Milo saw himself, with an infinitely high level in every Class and Prestige Class, with every feat worth taking and a good many that aren't, with infinite ranks in infinite skills, with infinite ability scores and infinite ability modifiers, with infinite hit points, with infinite spells per day and every spell known, lounging on what, at first glance, appeared to be an intricately carved throne of every precious metal, expensive special material, and gemstone Milo had ever heard of (and several others, as well) but upon closer inspection were, in fact, Epic Magic Items and Artifacts. Milo saw a backrest composed of dozens of Staffs of the Magi sitting on piles of Rings of Universal Energy Immunity and Bracers of Relentless Might. One armrest was simply the Axe of the Dwarvish Lords while the other appeared to be the great battleaxe of Heironeous Himself, sitting on a pile of the six weapons of his archenemy, Hextor. Milo, the most powerful character conceivable, lounged on his terrible throne, staring at His gauntleted hand (in some detached part of his brain, Milo realized it was nothing less than the Iron Gauntlet of War), an expression of detached ennui on his blank face. In his other hand, he idly spun the Gold Dragon Orb around his fingers, one of the most powerful artifacts in creation reduced to a mere stress ball. Who has any need of an Orb of Dragonkind, even the most powerful one, when Milo could simply rewrite reality to create a breed of better dragons, forced to bow to his every will?
+>>>>>>>>>>> 
+>>>>>>>>>>> > Milo had no enemies, for they had all long since been defeated. He had no adventures to undertake, for there were none of an appropriate Encounter Level. He had no friends, for he needed none. He had no dungeons to raid, for he had the Multiverse in his inventory. He had no familiar, for they could be traded for more powerful alternate class features. He had no partymembers, because in the impossible event that he would need allies, what could be more powerful than Simulacra of himself?
+>>>>>>>>>>> 
+>>>>>>>>>>> > The Milo in the mirror had everything he'd ever wanted, everything he'd ever seen, everything he'd ever heard of, everything he'd ever only conceived of.
+>>>>>>>>>>> 
+>>>>>>>>>>> > Milo —the real Milo — wasn't sure when he'd started screaming. He felt hands (the detached part of his brain that kept noticing minute details even in impossible situations noted that it must have been Ron and Harry, not that the rest of him cared) struggling to pull him away from the mirror, but even as they dragged him away from it he couldn't summon the willpower to tear his eyes from the horrible visage. Eventually, one of them wrapped the Cloak of Invisibility around the artifact, and the visions stopped — but the memories remained.
+>>>>>>>>>>> 
+>>>>>>>>>>> > "What the bloody hell was that?" Ron asked, his face pale and bloodless.
+>>>>>>>>>>> 
+>>>>>>>>>>> > "I... I saw everything," Milo said weakly. He tasted blood in his mouth, he must have bit his tongue at some point. "And ... and it was mine. I had everything ... everything except a reason to..." he trailed off, his brain still not fully functioning.
+>>>>>>>>>>> 
+>>>>>>>>>>> > "Reason to what, mate?" Ron asked nervously in an odd, falsely cheerful voice.
+>>>>>>>>>>> 
+>>>>>>>>>>> > "Anything," Milo said. "No reason to anything."
+>>>>>>>>>>> 
+>>>>>>>>>>> **No reason to anything.** This is the gift that these people like that [censored to avoid unnecessary moderator attention] /u/transfuturist who called my philosophy "disgusting" and downvoted it with arrogant distaste, are trying to give us.
 
->>>>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>>>> **u/None** [+2]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> The thing is, that state of omnipotence is the endstate of any being with an infinite lifespan. Barring anything that would kill them or make them kill themselves, any intelligent being would rise in power until they can sit upon a throne of Gods. Give a mind infinity, and it either kill itself or become a God.
->>>>>>>>>>>> Would that create ennui? Perhaps. 
->>>>>>>>>>>> But the being that sits upon such a throne would be far wiser, far more intelligent and experienced than me, for me to foolishly declare them as bereft of existence. An ant may as well decry the same to me, asking what purpose my life serves if I don't need to fight for food and shelter, what purpose or goal I could have if all my needs were met. I would simply look at it, smile, and go back to watching cat videos, an activity that the ant would be hard pressed to understand (and would probably drive it insane trying to).
->>>>>>>>>>>> There was this interesting short story I read once on this subreddit (search for Lotus Thrones), where it talked about the endstate of a Singularity, namely a gestalted being that has run the simulations for every variation of the universe and thus has nothing left to discover. The author said that therefore a worthwhile end goal would be for it to enter meditation, to contemplate itself and it's body/home/universe in all it's wonder. 
->>>>>>>>>>>> Personally, I found that rather boring and self-incapacitating. I would try to break free from the universe, either through a black hole or some other anomaly, whereby I could experience another universe in all it's forms and features. 
->>>>>>>>>>>> Eventually, I may leave that multiverse cluster and head to a different one, where the laws of physics differed; or I may create my own. One that contained infinity in it's purest form and thus would never run out of things for me to do.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> Would that create ennui? Perhaps. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> But the being that sits upon such a throne would be far wiser, far more intelligent and experienced than me, for me to foolishly declare them as bereft of existence. An ant may as well decry the same to me, asking what purpose my life serves if I don't need to fight for food and shelter, what purpose or goal I could have if all my needs were met. I would simply look at it, smile, and go back to watching cat videos, an activity that the ant would be hard pressed to understand (and would probably drive it insane trying to).
+>>>>>>>>>>>> 
+>>>>>>>>>>>> There was this interesting short story I read once on this subreddit (search for Lotus Thrones), where it talked about the endstate of a Singularity, namely a gestalted being that has run the simulations for every variation of the universe and thus has nothing left to discover. The author said that therefore a worthwhile end goal would be for it to enter meditation, to contemplate itself and it's body/home/universe in all it's wonder. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Personally, I found that rather boring and self-incapacitating. I would try to break free from the universe, either through a black hole or some other anomaly, whereby I could experience another universe in all it's forms and features. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Eventually, I may leave that multiverse cluster and head to a different one, where the laws of physics differed; or I may create my own. One that contained infinity in it's purest form and thus would never run out of things for me to do.
 
->>>>>>>>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>>>>>>>>> **u/aeschenkarnos** [+1]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Perhaps you might even create a universe, fracture your awareness and split it among all sentient life in that universe, throughout space and time, and set it to the task of recreating *you*. (The creation/existence story in Andy Weir's [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html).)
->>>>>>>>>>>>> 
 
->>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> That enormous quote could have been boiled down to "absence of challenge is awful because it's boring."  In future, please try to condense.
->>>>>>>>>>>> The problem with the quote is that it makes the assumption that absence of challenge is *possible*; it presupposes that there *is* an end to what can be learned.  I would like to see some evidence for the truth of that statement, because I very much doubt it to be the case.
->>>>>>>>>>>> Over the last few hundred years, humanity has reduced or eliminated many enormous challenges that have existed throughout history.  Compared to someone from the Middle Ages or the Stone Age we have plenty of food, plenty of medicine, and we need to do less work.  That doesn't mean that life has become boring; we have invented new fields of study, new means of entertainment, and new professions.  In the 1700s it may have been possible to have a reasonable understanding of a major subset of the world's knowledge -- to speak the most important languages and have a solid if not perfect understanding of all that science then knew.  That isn't even remotely possible today, as there simply aren't enough hours in the day.  There's no reason to think that's going to change any time soon, either.
->>>>>>>>>>>> It might, of course.  Perhaps ten years from now we'll all have a DNI and enhanced neural architectures that permit transferring memories, experiences, and comprehension directly from one brain to another.  Then I could download the mathematical knowledge of Stephen Hawking, the guitar skills of Carlos Santana, and the X of Y for every X.
->>>>>>>>>>>> Perhaps.
->>>>>>>>>>>> It's unlikely to happen anytime soon.  By the time it does happen I expect we'll either be in the middle of the Singularity or out the other side, at which point there is no point in discussing what life will be like.
->>>>>>>>>>>> Short version:  you contend that we are going to become omniscient gods and suffer from boredom and ennui?  Prove it.  Or, at the very least, show some evidence.  Right now you are arguing from assertion; I do not agree with your assertion, and I suspect that a significant number of other people would not either.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> The problem with the quote is that it makes the assumption that absence of challenge is *possible*; it presupposes that there *is* an end to what can be learned.  I would like to see some evidence for the truth of that statement, because I very much doubt it to be the case.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Over the last few hundred years, humanity has reduced or eliminated many enormous challenges that have existed throughout history.  Compared to someone from the Middle Ages or the Stone Age we have plenty of food, plenty of medicine, and we need to do less work.  That doesn't mean that life has become boring; we have invented new fields of study, new means of entertainment, and new professions.  In the 1700s it may have been possible to have a reasonable understanding of a major subset of the world's knowledge -- to speak the most important languages and have a solid if not perfect understanding of all that science then knew.  That isn't even remotely possible today, as there simply aren't enough hours in the day.  There's no reason to think that's going to change any time soon, either.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> It might, of course.  Perhaps ten years from now we'll all have a DNI and enhanced neural architectures that permit transferring memories, experiences, and comprehension directly from one brain to another.  Then I could download the mathematical knowledge of Stephen Hawking, the guitar skills of Carlos Santana, and the X of Y for every X.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Perhaps.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> It's unlikely to happen anytime soon.  By the time it does happen I expect we'll either be in the middle of the Singularity or out the other side, at which point there is no point in discussing what life will be like.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Short version:  you contend that we are going to become omniscient gods and suffer from boredom and ennui?  Prove it.  Or, at the very least, show some evidence.  Right now you are arguing from assertion; I do not agree with your assertion, and I suspect that a significant number of other people would not either.
 
->>>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> You are not even *trying* to comprehend why I disagreed with such vehemence, *or what my ethical position even is.* If you truly wish to not be bothered by my 'arrogant distaste,' don't insult me publicly and then *bring my attention to it.*
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>>>>>>>>> **u/aeschenkarnos** [+1]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> This is because my perception of time flows in one direction. At the time I wrote this, all you'd done was snark at me and downvote. I have since read your more recent reply, and my opinion of your intelligence has gone up a couple of notches.
->>>>>>>>>>>>> I'll edit it if you like. Would you like that? Would that make the world better?
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> I'll edit it if you like. Would you like that? Would that make the world better?
 
->>>>>>>>>> **u/Revisional_Sin** [+1] *
+>>>>>>>>>> **u/Revisional_Sin** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> You are pattern-matching way too hard, none of your steps links to the next.
->>>>>>>>>> We're authors in an artsy-motivational sense, but not in the same way as an actual author. We're probably not God either.
->>>>>>>>>> > Their suffering creates the opportunity to not suffer. If not for themselves, for others.
->>>>>>>>>> How is this any better than not suffering in the first place? Being challenged is more meaningful (at an individual level, not an objective one) than having a break from suffering.
 >>>>>>>>>> 
+>>>>>>>>>> We're authors in an artsy-motivational sense, but not in the same way as an actual author. We're probably not God either.
+>>>>>>>>>> 
+>>>>>>>>>> > Their suffering creates the opportunity to not suffer. If not for themselves, for others.
+>>>>>>>>>> 
+>>>>>>>>>> How is this any better than not suffering in the first place? Being challenged is more meaningful (at an individual level, not an objective one) than having a break from suffering.
 
->>>>>>>>>>> **u/aeschenkarnos** [-1] *
+>>>>>>>>>>> **u/aeschenkarnos** [-1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > We're authors in an artsy-motivational sense, but not in the same way as an actual author. We're probably not God either.
->>>>>>>>>>> It's not a falsifiable, testable, idea and assessing it as such is a category error. The purpose of having ideas in an "artsy-motivational sense"--stories--is to *motivate us* to advance the art. You may like to think of yourself as this cold and perfect clockwork engine of science, but you're an ape whose wet and warm meat-brain runs on stories. Sorry. It's a good thing though, because the existence of the clockwork engine is ultimately starkly pointless, its achievements mean nothing, and it may as well die now as later.
->>>>>>>>>>> > How is this any better than not suffering in the first place? 
->>>>>>>>>>> If I overcame *my* suffering, whatever it was, I *won*. I survived, I got over it. Depending on exactly what it was, I may have kept scars, and I may even have *diminished* capacity to address future problems of a similar kind (eg, recovery from cancer leaving me with a weaker immune system) - but I am now permitted to frame my self-view as a survivor of that thing, as stronger than it.
->>>>>>>>>>> Alternatively if I *learned* from overcoming a problem (eg, I graduated from college, I successfully fixed the problem with my car, I built a loving relationship with another human), I may have gained skills that are useful in addressing similar problems.
->>>>>>>>>>> Alternatively, if it killed me, or caused me some great harm, this might motivate somebody else to attempt to address that problem.
->>>>>>>>>>> > Being challenged is more meaningful (at an individual level, not an objective one) than having a break from suffering.
->>>>>>>>>>> This is pretty much a re-statement of my point. Life is the search for meaning. If we extrapolate out our individual subjective searches for meaning to *everyone else*, then it's close enough to objective (for my purposes, yours may differ).
 >>>>>>>>>>> 
+>>>>>>>>>>> It's not a falsifiable, testable, idea and assessing it as such is a category error. The purpose of having ideas in an "artsy-motivational sense"--stories--is to *motivate us* to advance the art. You may like to think of yourself as this cold and perfect clockwork engine of science, but you're an ape whose wet and warm meat-brain runs on stories. Sorry. It's a good thing though, because the existence of the clockwork engine is ultimately starkly pointless, its achievements mean nothing, and it may as well die now as later.
+>>>>>>>>>>> 
+>>>>>>>>>>> > How is this any better than not suffering in the first place? 
+>>>>>>>>>>> 
+>>>>>>>>>>> If I overcame *my* suffering, whatever it was, I *won*. I survived, I got over it. Depending on exactly what it was, I may have kept scars, and I may even have *diminished* capacity to address future problems of a similar kind (eg, recovery from cancer leaving me with a weaker immune system) - but I am now permitted to frame my self-view as a survivor of that thing, as stronger than it.
+>>>>>>>>>>> 
+>>>>>>>>>>> Alternatively if I *learned* from overcoming a problem (eg, I graduated from college, I successfully fixed the problem with my car, I built a loving relationship with another human), I may have gained skills that are useful in addressing similar problems.
+>>>>>>>>>>> 
+>>>>>>>>>>> Alternatively, if it killed me, or caused me some great harm, this might motivate somebody else to attempt to address that problem.
+>>>>>>>>>>> 
+>>>>>>>>>>> > Being challenged is more meaningful (at an individual level, not an objective one) than having a break from suffering.
+>>>>>>>>>>> 
+>>>>>>>>>>> This is pretty much a re-statement of my point. Life is the search for meaning. If we extrapolate out our individual subjective searches for meaning to *everyone else*, then it's close enough to objective (for my purposes, yours may differ).
 
->>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I see a number of problems with this philosophy:
-
->>>>>>>>>> > It's a concept that I propose to name the Gygaxian Paradox: you do not gain XP unless you deserve it. 
->>>>>>>>>> XP are an abstract game mechanic.  They do not apply in the real world.  My ability to comprehend, evolve, and grow is not limited by an absence of abstract 'points'.  
->>>>>>>>>> Furthermore, 'deserve it' usually implies some sort of moral framework, as though I must have committed a good deed in order to be rewarded with enhanced understanding and/or development.  If you want to contend that you're using 'deserve it' in the sense of 'he worked really hard' then I suppose it fits, but that's simply playing semantics. 
-
->>>>>>>>>> > The universe's algorithm for determining whether or not you deserve XP, is based on the difficulty of what you did. 
->>>>>>>>>> This is an extraordinary claim, and you need to provide extraordinary evidence for it.  Everything that science knows says that the universe possesses neither intelligence nor agency; it does not make decisions, and it does not have an algorithm for when and how much I should be allowed to learn.  
->>>>>>>>>> > A life without suffering and conflict has a cap on its difficulty. 
->>>>>>>>>> Discovering / creating new fields of mathematics is very difficult, yet there is no conflict involved...unless, of course, we start playing semantics again in order to redefine 'conflict' such that it includes what would normally be considered 'challenge'.
->>>>>>>>>> > Maybe you could challenge yourself intellectually, eg by playing games and pretending to experience events which are difficulties from the point of view of your characters, however, unless the stakes really matter to you, you are (tautologically) not overcoming sufficiently difficult problems.
->>>>>>>>>> It is true that learning happens fastest on the margin -- I learn a song faster on my harp when I push myself to play as fast as possible, because then my fingers/brain need to work hard to catch up.  It is not true, however, that learning happens *only* on the margin.  I can improve slowly while doing low-challenge exercises.  More importantly, it's a truism that teaching someone else will help your own understanding; that's because it forces you to go back and re-examine things that are simple and un-challenging for you, and to see them in new ways based on greater understanding.
 >>>>>>>>>> 
+>>>>>>>>>> > It's a concept that I propose to name the Gygaxian Paradox: you do not gain XP unless you deserve it. 
+>>>>>>>>>> 
+>>>>>>>>>> XP are an abstract game mechanic.  They do not apply in the real world.  My ability to comprehend, evolve, and grow is not limited by an absence of abstract 'points'.  
+>>>>>>>>>> 
+>>>>>>>>>> Furthermore, 'deserve it' usually implies some sort of moral framework, as though I must have committed a good deed in order to be rewarded with enhanced understanding and/or development.  If you want to contend that you're using 'deserve it' in the sense of 'he worked really hard' then I suppose it fits, but that's simply playing semantics. 
+>>>>>>>>>> 
+>>>>>>>>>> > The universe's algorithm for determining whether or not you deserve XP, is based on the difficulty of what you did. 
+>>>>>>>>>> 
+>>>>>>>>>> This is an extraordinary claim, and you need to provide extraordinary evidence for it.  Everything that science knows says that the universe possesses neither intelligence nor agency; it does not make decisions, and it does not have an algorithm for when and how much I should be allowed to learn.  
+>>>>>>>>>> 
+>>>>>>>>>> > A life without suffering and conflict has a cap on its difficulty. 
+>>>>>>>>>> 
+>>>>>>>>>> Discovering / creating new fields of mathematics is very difficult, yet there is no conflict involved...unless, of course, we start playing semantics again in order to redefine 'conflict' such that it includes what would normally be considered 'challenge'.
+>>>>>>>>>> 
+>>>>>>>>>> > Maybe you could challenge yourself intellectually, eg by playing games and pretending to experience events which are difficulties from the point of view of your characters, however, unless the stakes really matter to you, you are (tautologically) not overcoming sufficiently difficult problems.
+>>>>>>>>>> 
+>>>>>>>>>> It is true that learning happens fastest on the margin -- I learn a song faster on my harp when I push myself to play as fast as possible, because then my fingers/brain need to work hard to catch up.  It is not true, however, that learning happens *only* on the margin.  I can improve slowly while doing low-challenge exercises.  More importantly, it's a truism that teaching someone else will help your own understanding; that's because it forces you to go back and re-examine things that are simple and un-challenging for you, and to see them in new ways based on greater understanding.
 
->>>>>>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>>>>>>> **u/aeschenkarnos** [+1]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I'm happy to redefine "conflict" as "challenge".
->>>>>>>>>>> >  It is not true, however, that learning happens only on the margin. I can improve slowly while doing low-challenge exercises. More importantly, it's a truism that teaching someone else will help your own understanding; that's because it forces you to go back and re-examine things that are simple and un-challenging for you, and to see them in new ways based on greater understanding.
->>>>>>>>>>> I agree. Low-challenge exercises still count as learning experiences. Teaching someone else *definitely* counts as a learning experience.
 >>>>>>>>>>> 
+>>>>>>>>>>> >  It is not true, however, that learning happens only on the margin. I can improve slowly while doing low-challenge exercises. More importantly, it's a truism that teaching someone else will help your own understanding; that's because it forces you to go back and re-examine things that are simple and un-challenging for you, and to see them in new ways based on greater understanding.
+>>>>>>>>>>> 
+>>>>>>>>>>> I agree. Low-challenge exercises still count as learning experiences. Teaching someone else *definitely* counts as a learning experience.
 
->>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> > I'm happy to redefine "conflict" as "challenge".
+>>>>>>>>>>>> 
 >>>>>>>>>>>> That would pretty much put a nail in your argument, though.  If you change your argument to be that I can only "gain XP" by experiencing challenge, then you still need to provide evidence that there is an end to the available challenges.  And that's leaving aside the question of evidence for:
+>>>>>>>>>>>> 
 >>>>>>>>>>>> * any meaningful way in which 'XP' applies to reality;
 >>>>>>>>>>>> * the existence of this 'Oversoul';
 >>>>>>>>>>>> * the idea that the Oversoul makes decisions related to XP awards; and,
 >>>>>>>>>>>> * the idea that reality and narrative have any sort of real link.
->>>>>>>>>>>> 
 
->>>>>>>>>> **u/Transfuturist** [-1]  *Carthago delenda est.**
+>>>>>>>>>> **u/Transfuturist** [-1]  *Carthago delenda est.* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> That's a very disgusting way to look at it. It is not because of suffering that we are able to remove suffering, it is *SO VERY MUCH* in spite of it. This mode of thinking is psychotic and begs unjustified moral objectivity (subjective to some human-immoral ubermensch) as well as a law of emotional dynamics that *does not exist.* *Is* is not *ought*, and it *isn't* in the first place. You have drunk deep of the mystical just-world kool-aid.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Although I agree with you that /u/aeschenkarnos is wrong, the way you're presenting your argument is not effective.  You are phrasing it in the form of ad hominem attack, and that only weakens your position -- both your argument per se and, by association, anyone who agrees with you.
->>>>>>>>>>> I've seen you make good, well-reasoned arguments before; if you want to defeat mystical thinking, don't do it with emotional arguments and attack language.  You are better than this.
 >>>>>>>>>>> 
+>>>>>>>>>>> I've seen you make good, well-reasoned arguments before; if you want to defeat mystical thinking, don't do it with emotional arguments and attack language.  You are better than this.
 
->>>>>>>>>>> **u/aeschenkarnos** [-1] *
+>>>>>>>>>>> **u/aeschenkarnos** [-1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > That's a very disgusting way to look at it. 
->>>>>>>>>>> I get the distinct impression that anything I say, you're going to interpret as incorrect *ex nihilo*, because that's how you guys defend your mindsets: six-lane superhighway outwards, mountain-goat-track inwards. You live your life, I'll live mine.
 >>>>>>>>>>> 
+>>>>>>>>>>> I get the distinct impression that anything I say, you're going to interpret as incorrect *ex nihilo*, because that's how you guys defend your mindsets: six-lane superhighway outwards, mountain-goat-track inwards. You live your life, I'll live mine.
 
->>>>>>>>>>>> **u/Transfuturist** [+0]  *Carthago delenda est.**
+>>>>>>>>>>>> **u/Transfuturist** [+0]  *Carthago delenda est.* (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> It is not at all ex nihilo. You simply have nothing that will actually convince me, and this fact is not due to any stubbornness I may have. You are operating under the assumption that reality acts like a narrative, when there is barely even a relation, let alone reverse causality.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> * What justification do you have for referring to an 'Ultimate Oversoul,' or of any properties it may or may not have?
 >>>>>>>>>>>> * What justification do you have for saying that this Oversoul's terminal values should be more valuable to us than our own?
 >>>>>>>>>>>> * What justification do you have for saying that overcoming suffering is The Good, and that suffering's existence is in any way *responsible* for our future triumph over it, other than its *'necessary' existence as an obstacle to be overcome?*
 >>>>>>>>>>>> * Why would overcoming suffering be better than not suffering in the first place?
 >>>>>>>>>>>> * Why do you imply that suffering is necessary in order to to be challenged?
->>>>>>>>>>>> I believe challenge is what you're truly espousing, and that you're applying this to real-life suffering in order to justify its existence in the face of a nihilistic depression. You *directly advertise* this worldview as a way to avoid depression!
->>>>>>>>>>>> >It's not a falsifiable, testable, idea and assessing it as such is a category error. The purpose of having ideas in an "artsy-motivational sense"--stories--is to motivate us to advance the art.
->>>>>>>>>>>> Our major difference is that you're willing to hold unjustified metaphysical beliefs to avoid a cognitive failure mode. Myself, I am not threatened by the epistemically hygienic alternative causing that failure mode. I am at peace with nihilism, and have moved on to existentialism without any epistemic is-ought fuss. I will admit that, while not being epistemically rational, you are at least to your own knowledge being instrumentally rational. We will continue to live our lives entirely unaffected by the other.
->>>>>>>>>>>> Don't answer those questions, I know I won't be satisfied with your answers or lack thereof.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> I believe challenge is what you're truly espousing, and that you're applying this to real-life suffering in order to justify its existence in the face of a nihilistic depression. You *directly advertise* this worldview as a way to avoid depression!
+>>>>>>>>>>>> 
+>>>>>>>>>>>> >It's not a falsifiable, testable, idea and assessing it as such is a category error. The purpose of having ideas in an "artsy-motivational sense"--stories--is to motivate us to advance the art.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Our major difference is that you're willing to hold unjustified metaphysical beliefs to avoid a cognitive failure mode. Myself, I am not threatened by the epistemically hygienic alternative causing that failure mode. I am at peace with nihilism, and have moved on to existentialism without any epistemic is-ought fuss. I will admit that, while not being epistemically rational, you are at least to your own knowledge being instrumentally rational. We will continue to live our lives entirely unaffected by the other.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Don't answer those questions, I know I won't be satisfied with your answers or lack thereof.
 
->>>>>>>>>>>>> **u/aeschenkarnos** [+0] *
+>>>>>>>>>>>>> **u/aeschenkarnos** [+0]  (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> > You simply have nothing that will actually convince me,
->>>>>>>>>>>>> Heh.
->>>>>>>>>>>>> > You are operating under the assumption that reality acts like a narrative, when there is barely even a relation, let alone reverse causality.
->>>>>>>>>>>>> No, it's a chosen axiom. You may choose differently, but it's still a *choice*, not an objectively determinable fact.
->>>>>>>>>>>>> > What justification do you have for referring to an 'Ultimate Oversoul,' or of any properties it may or may not have?
->>>>>>>>>>>>> Not much. It's just the terminal point of a series. This is at best a hypothesis, I have yet to find a prediction from the idea that can be tested.
->>>>>>>>>>>>> > What justification do you have for saying that this Oversoul's terminal values should be more valuable to us than our own?
->>>>>>>>>>>>> None other than (1) values are inherently chosen axioms, having no *real* existence; (2) if the existence of an Oversoul is chosen as an axiom, then one of its roles within the system is to serve as the terminal arbiter of values.
->>>>>>>>>>>>> > What justification do you have for saying that overcoming suffering is The Good, and that suffering's existence is in any way responsible for our future triumph over it, other than its 'necessary' existence as an obstacle to be overcome?
->>>>>>>>>>>>> It's blatantly obvious. If ants were biting you, wouldn't you move? How does that dynamic look from the point of view of ants? "Obstacles" and "methods to overcome obstacles" are pretty much the same thing. Points of interest, within a stochastic process.
->>>>>>>>>>>>> > Why would overcoming suffering be better than not suffering in the first place?
->>>>>>>>>>>>> What is "not suffering in the first place"? Consider the terrible disease, ipsischacthuritis. We cannot describe its symptoms, it cannot be detected in any way, it cannot be vaccinated against and it cannot be treated, because *it doesn't exist*. Are you glad that you do not suffer ipsischacthuritis? Right now, would you rather there were a cure for ipsischacthuritis or a cure for leukaemia?
->>>>>>>>>>>>> > Why do you imply that suffering is necessary in order to to be challenged? [and then you answer your own question] I believe challenge is what you're truly espousing, and that you're applying this to real-life suffering in order to justify its existence in the face of a nihilistic depression. You directly advertise this worldview as a way to avoid depression!
->>>>>>>>>>>>> *Exactly!* Believing this, *axiomatically*, creates a *story* which explains the existence of suffering in a manner that encourages me to persist in seeking to overcome it. It is a lie from which truth grows.
->>>>>>>>>>>>> > Myself, I am not threatened by the epistemically hygienic alternative causing that failure mode.
->>>>>>>>>>>>> Possibly you just haven't met it yet. ;)
->>>>>>>>>>>>> > Don't answer those questions, I know I won't be satisfied with your answers or lack thereof.
->>>>>>>>>>>>> Eh, give up the silly posturing. You started this, with your "disgusting" crack, and your implication that I am Not Smart. I am satisfied that you are Smart. I would accept an apology from you, if you're mature enough to give it.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> Heh.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > You are operating under the assumption that reality acts like a narrative, when there is barely even a relation, let alone reverse causality.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> No, it's a chosen axiom. You may choose differently, but it's still a *choice*, not an objectively determinable fact.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > What justification do you have for referring to an 'Ultimate Oversoul,' or of any properties it may or may not have?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Not much. It's just the terminal point of a series. This is at best a hypothesis, I have yet to find a prediction from the idea that can be tested.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > What justification do you have for saying that this Oversoul's terminal values should be more valuable to us than our own?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> None other than (1) values are inherently chosen axioms, having no *real* existence; (2) if the existence of an Oversoul is chosen as an axiom, then one of its roles within the system is to serve as the terminal arbiter of values.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > What justification do you have for saying that overcoming suffering is The Good, and that suffering's existence is in any way responsible for our future triumph over it, other than its 'necessary' existence as an obstacle to be overcome?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> It's blatantly obvious. If ants were biting you, wouldn't you move? How does that dynamic look from the point of view of ants? "Obstacles" and "methods to overcome obstacles" are pretty much the same thing. Points of interest, within a stochastic process.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Why would overcoming suffering be better than not suffering in the first place?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> What is "not suffering in the first place"? Consider the terrible disease, ipsischacthuritis. We cannot describe its symptoms, it cannot be detected in any way, it cannot be vaccinated against and it cannot be treated, because *it doesn't exist*. Are you glad that you do not suffer ipsischacthuritis? Right now, would you rather there were a cure for ipsischacthuritis or a cure for leukaemia?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Why do you imply that suffering is necessary in order to to be challenged? [and then you answer your own question] I believe challenge is what you're truly espousing, and that you're applying this to real-life suffering in order to justify its existence in the face of a nihilistic depression. You directly advertise this worldview as a way to avoid depression!
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> *Exactly!* Believing this, *axiomatically*, creates a *story* which explains the existence of suffering in a manner that encourages me to persist in seeking to overcome it. It is a lie from which truth grows.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Myself, I am not threatened by the epistemically hygienic alternative causing that failure mode.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Possibly you just haven't met it yet. ;)
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Don't answer those questions, I know I won't be satisfied with your answers or lack thereof.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Eh, give up the silly posturing. You started this, with your "disgusting" crack, and your implication that I am Not Smart. I am satisfied that you are Smart. I would accept an apology from you, if you're mature enough to give it.
 
->>>>>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> >>You are operating under the assumption that reality acts like a narrative, when there is barely even a relation, let alone reverse causality.
->>>>>>>>>>>>>> >No, it's a chosen axiom. You may choose differently, but it's still a choice, not an objectively determinable fact.
->>>>>>>>>>>>>> It is objectively determinable, and more than that, it is *ridiculously false.* Narratives are invented *post facto* of reality, incapable of affecting its nature, and are not selected for explaining reality accurately, but for exploiting human psychology for the propagation of its constituent ideas. Reality is a 'narrative' in the mind of a physical calculator. There are no variables or constants for character or conflict in the fabric of the universe.
->>>>>>>>>>>>>> >It's just the terminal point of a series.
->>>>>>>>>>>>>> If you're referring to a series of minds of increasing complexity, there is no Omega at the top. Even if there is an Omega, Omega itself is the first in a series of transfinite minds in the ordering of the series of minds. *There is no end to infinity, for once you reach the end, there is yet another infinity waiting.* What you are describing is mathematically brain-dead. There is no such terminal point.
->>>>>>>>>>>>>> I don't consider the hypothetical existence of this 'Oversoul' to have much bearing on my objection. I simply don't care about the existence of gods that are causally separate from me.
->>>>>>>>>>>>>> >>What justification do you have for saying that overcoming suffering is The Good, and that suffering's existence is in any way responsible for our future triumph over it, other than its 'necessary' existence as an obstacle to be overcome?
->>>>>>>>>>>>>> >It's blatantly obvious. If ants were biting you, wouldn't you move?
->>>>>>>>>>>>>> The situation you are describing *does not distinguish* between valuing not suffering and valuing overcoming suffering. Here is my counter-argument. Assuming you would move if ants are biting you (there are some weird fetishes), *would you go and lay in the anthill so that you can get back up again in order to overcome it?* That is the difference. Are you preventing suffering in order to not suffer, or are you causing suffering in order to overcome suffering?
->>>>>>>>>>>>>> I think we are using different definitions of suffering. I consider suffering to be disutility, the reason a choice would not be taken. Consensual suffering does not exist without perverse meta-utility functions or perverse scenarios. Choosing to be tortured for 50 years in order to prevent 3-up-up-up-3 specks-in-the-eye (I would perhaps choose to be tortured 50 years to prevent 3-up-up-up-3 people from simply being created) is not choosing to suffer, it's taking a bite out of the shit sandwich so the shit sandwich doesn't grow to truly abominable levels. It is minimizing suffering, though to an extent that involves System 2's values superseding System 1's.
->>>>>>>>>>>>>> What do you mean by 'suffering' here? I consider it to be entirely disparate from 'challenge.' Challenge is probably necessary to sustain fun in the way I want to have it. Suffering is my enemy and must be destroyed, though consent interacts with it in strange ways I haven't distinguished yet.
->>>>>>>>>>>>>> >>Why would overcoming suffering be better than not suffering in the first place?
->>>>>>>>>>>>>> >What is "not suffering in the first place"? Consider the terrible disease, ipsischacthuritis. We cannot describe its symptoms, it cannot be detected in any way, it cannot be vaccinated against and it cannot be treated, because it doesn't exist. Are you glad that you do not suffer ipsischacthuritis? Right now, would you rather there were a cure for ipsischacthuritis or a cure for leukaemia?
->>>>>>>>>>>>>> When you say its symptoms cannot be described, do you mean it causes indescribable suffering or that it has no symptoms? When you ask if I would prefer a cure to ipsischacthuritis, is that assuming that it does exist? I would not prefer a cure to a disease that does not exist until it starts existing and causes more suffering than leukemia. If you are making me choose between a cure for leukemia and *preventing* ipsischacthuritis from existing and causing more suffering than leukemia, then I would prevent ipsischacthuritis.
->>>>>>>>>>>>>> I think this example is either disingenuous or reveals a misunderstanding, which is possibly mutual. Please address my anthill example above.
->>>>>>>>>>>>>> >Exactly! Believing this, axiomatically, creates a story which explains the existence of suffering in a manner that encourages me to persist in seeking to overcome it. It is a lie from which truth grows.
->>>>>>>>>>>>>> It is a lie from which *a lack of bad things* grows, not truth. Ironically, you are taking this stance in order to prevent your own suffering, instead of allowing the suffering to occur so you can proceed to overcome it.
->>>>>>>>>>>>>> >>Myself, I am not threatened by the epistemically hygienic alternative causing that failure mode.
->>>>>>>>>>>>>> >Possibly you just haven't met it yet. ;)
->>>>>>>>>>>>>> Major clinical depression? I have in fact met it, and my nihilistic existentialism in no way caused or exacerbated it.
->>>>>>>>>>>>>> >Eh, give up the silly posturing. You started this, with your "disgusting" crack, and your implication that I am Not Smart. I am satisfied that you are Smart. I would accept an apology from you, if you're mature enough to give it.
->>>>>>>>>>>>>> I'm not posturing. I apologize for not being charitable and thinking that I may be misunderstanding you. I don't apologize for saying that terminally valuing overcoming suffering is disgusting. I don't believe you actually terminally value overcoming suffering, however ([I believe you are using Dark Arts](http://mindingourway.com/dark-arts-of-rationality/)), so I will apologize for implicitly calling you disgusting.
->>>>>>>>>>>>>> I'm not going to say either of us is Smart or Not Smart, but you certainly seem more reasonable now that you've *mostly* stopped insulting me.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >No, it's a chosen axiom. You may choose differently, but it's still a choice, not an objectively determinable fact.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> It is objectively determinable, and more than that, it is *ridiculously false.* Narratives are invented *post facto* of reality, incapable of affecting its nature, and are not selected for explaining reality accurately, but for exploiting human psychology for the propagation of its constituent ideas. Reality is a 'narrative' in the mind of a physical calculator. There are no variables or constants for character or conflict in the fabric of the universe.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >It's just the terminal point of a series.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> If you're referring to a series of minds of increasing complexity, there is no Omega at the top. Even if there is an Omega, Omega itself is the first in a series of transfinite minds in the ordering of the series of minds. *There is no end to infinity, for once you reach the end, there is yet another infinity waiting.* What you are describing is mathematically brain-dead. There is no such terminal point.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I don't consider the hypothetical existence of this 'Oversoul' to have much bearing on my objection. I simply don't care about the existence of gods that are causally separate from me.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >>What justification do you have for saying that overcoming suffering is The Good, and that suffering's existence is in any way responsible for our future triumph over it, other than its 'necessary' existence as an obstacle to be overcome?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >It's blatantly obvious. If ants were biting you, wouldn't you move?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> The situation you are describing *does not distinguish* between valuing not suffering and valuing overcoming suffering. Here is my counter-argument. Assuming you would move if ants are biting you (there are some weird fetishes), *would you go and lay in the anthill so that you can get back up again in order to overcome it?* That is the difference. Are you preventing suffering in order to not suffer, or are you causing suffering in order to overcome suffering?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I think we are using different definitions of suffering. I consider suffering to be disutility, the reason a choice would not be taken. Consensual suffering does not exist without perverse meta-utility functions or perverse scenarios. Choosing to be tortured for 50 years in order to prevent 3-up-up-up-3 specks-in-the-eye (I would perhaps choose to be tortured 50 years to prevent 3-up-up-up-3 people from simply being created) is not choosing to suffer, it's taking a bite out of the shit sandwich so the shit sandwich doesn't grow to truly abominable levels. It is minimizing suffering, though to an extent that involves System 2's values superseding System 1's.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> What do you mean by 'suffering' here? I consider it to be entirely disparate from 'challenge.' Challenge is probably necessary to sustain fun in the way I want to have it. Suffering is my enemy and must be destroyed, though consent interacts with it in strange ways I haven't distinguished yet.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >>Why would overcoming suffering be better than not suffering in the first place?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >What is "not suffering in the first place"? Consider the terrible disease, ipsischacthuritis. We cannot describe its symptoms, it cannot be detected in any way, it cannot be vaccinated against and it cannot be treated, because it doesn't exist. Are you glad that you do not suffer ipsischacthuritis? Right now, would you rather there were a cure for ipsischacthuritis or a cure for leukaemia?
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> When you say its symptoms cannot be described, do you mean it causes indescribable suffering or that it has no symptoms? When you ask if I would prefer a cure to ipsischacthuritis, is that assuming that it does exist? I would not prefer a cure to a disease that does not exist until it starts existing and causes more suffering than leukemia. If you are making me choose between a cure for leukemia and *preventing* ipsischacthuritis from existing and causing more suffering than leukemia, then I would prevent ipsischacthuritis.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I think this example is either disingenuous or reveals a misunderstanding, which is possibly mutual. Please address my anthill example above.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >Exactly! Believing this, axiomatically, creates a story which explains the existence of suffering in a manner that encourages me to persist in seeking to overcome it. It is a lie from which truth grows.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> It is a lie from which *a lack of bad things* grows, not truth. Ironically, you are taking this stance in order to prevent your own suffering, instead of allowing the suffering to occur so you can proceed to overcome it.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >>Myself, I am not threatened by the epistemically hygienic alternative causing that failure mode.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >Possibly you just haven't met it yet. ;)
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Major clinical depression? I have in fact met it, and my nihilistic existentialism in no way caused or exacerbated it.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >Eh, give up the silly posturing. You started this, with your "disgusting" crack, and your implication that I am Not Smart. I am satisfied that you are Smart. I would accept an apology from you, if you're mature enough to give it.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I'm not posturing. I apologize for not being charitable and thinking that I may be misunderstanding you. I don't apologize for saying that terminally valuing overcoming suffering is disgusting. I don't believe you actually terminally value overcoming suffering, however ([I believe you are using Dark Arts](http://mindingourway.com/dark-arts-of-rationality/)), so I will apologize for implicitly calling you disgusting.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I'm not going to say either of us is Smart or Not Smart, but you certainly seem more reasonable now that you've *mostly* stopped insulting me.
 
->>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> > if the existence of an Oversoul is chosen as an axiom, then one of its roles within the system is to serve as the terminal arbiter of values.
->>>>>>>>>>>>>> The problem with this argument is that it's self-defeating.  You don't understand how the world truly works -- which is unsurprising, since no one does -- but, instead of challenging yourself to find the answer, you are simply asserting that there is an Oversoul who is responsible for deciding what's important.
->>>>>>>>>>>>>> You are giving up agency on the very foundational questions of reality: What *is*? How does the universe work at the deepest level? What matters?  Why choose one action over another?  
->>>>>>>>>>>>>> Why would you do that if you feel that challenge is what matters?
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> The problem with this argument is that it's self-defeating.  You don't understand how the world truly works -- which is unsurprising, since no one does -- but, instead of challenging yourself to find the answer, you are simply asserting that there is an Oversoul who is responsible for deciding what's important.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> You are giving up agency on the very foundational questions of reality: What *is*? How does the universe work at the deepest level? What matters?  Why choose one action over another?  
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Why would you do that if you feel that challenge is what matters?
 
->>>>>>> **u/elevul** [+1]  *Cyoria Observer**
+>>>>>>> **u/elevul** [+1]  *Cyoria Observer* (2 days later)
 >>>>>>> 
 >>>>>>> He kinda does like to write that kind of stuff, if you check his published books.
->>>>>>> 
 
->>>>>> **u/Quillwraith** [+1]  *Red King Consolidated**
+>>>>>> **u/Quillwraith** [+1]  *Red King Consolidated* (a day later)
 >>>>>> 
 >>>>>> Having recently read the first 21 chapters, I think it's already closer to five of them focused on brainwashing torture, though I wasn't really keeping count at the time.
->>>>>> 
 
->>> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png**
+>>> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png* (2 hours later)
 >>> 
 >>> ~~I'm currently on mobile, so I can't link to~~ [the thread in which this question was discussed](http://np.reddit.com/r/rational/comments/2o482k/how_much_naruto_knowledge_is_needed_to_read_time/)--but, IIRC, the consensus in that thread was "Yes, if you check [the wiki](http://www.naruto.wikia.com) whenever you feel as if you're getting lost".
->>> 
 
->>>> **u/Salivanth** [+3] *
+>>>> **u/Salivanth** [+4]  (16 hours later)
 >>>> 
 >>>> I was the one who originally posted this thread; the people who replied were all correct. I hadn't watched a single Naruto episode before reading Time Braid, and still loved it.
->>>> 
 
->>> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity**
+>>> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity* (9 hours later)
 >>> 
 >>> I read it with essentially 0 knowledge of Naruto, and I quite liked it. I think you'll be fine
->>> 
 
->>>> **u/ben_sphynx** [+2] *
+>>>> **u/ben_sphynx** [+2]  (12 hours later)
 >>>> 
 >>>> Likewise.
->>>> 
 
->>> **u/ArisKatsaris** [+2]  *Sidebar Contender**
+>>> **u/ArisKatsaris** [+2]  *Sidebar Contender* (11 hours later)
 >>> 
 >>> I loved it though I knew almost nothing about Naruto -- I just looked up images of the characters just to know what they looked like though and have a better visual of them.
->>> 
 
->> **u/None** [+6] *
+>> **u/None** [+8]  (an hour later)
 >> 
 >> [deleted]
->> 
 
->>> **u/eaglejarl** [+14] *
+>>> **u/eaglejarl** [+16]  (2 hours later)
 >>> 
 >>> Which I appreciate. So far as I can tell, there's no way to read the new Reddit spoiler tag on an iPhone. The old black bar ones it was easy -- highlight and done. These? Highlight does nothing, clicking links me back to the post. Quite a big "bite me" to a large portion of the readership.
->>> 
 
->>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager* (11 hours later)
 >>>> 
 >>>> I wasn't aware. And it also sucks that you can't hyperlink within spoiler tags.
->>>> Fuck it, given the upvotes /u/ToaKraka is getting, I've decided to unspoil the titles in the OP, under a general warning.
 >>>> 
+>>>> Fuck it, given the upvotes /u/ToaKraka is getting, I've decided to unspoil the titles in the OP, under a general warning.
 
->>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (8 hours later)
 >>>> 
 >>>> Mobile web is still in beta.
->>>> Spoiler tags are implemented through custom CSS, because reddit doesn't have sitewide spoiler functionality. The mobile site doesn't load the custom CSS, so it breaks all subreddit-level spoiler functionality.
->>>> If you have an app, most of them don't load in custom CSS either, but they have special static rules that allow spoiler tags in the most common formats like ours, which is `[text](#s "spoiler text")`. I know this is how redditisfun does it and I assume that's how other apps do it as well.
->>>> According to /u/akahotcheetos, this is a ["high priority"](https://www.reddit.com/r/mobileweb/comments/39nv1r/support_for_spoiler_tags/cs7awsb) but that was seven months ago. There are still apparently people working on the mobile site, since admins like /u/schwers and /u/nr4madas still post in /r/mobileweb, but they haven't fixed something that breaks basic functionality for discussion and requires a ten line change to their CSS without any redeployment, something that's already implemented by all their mobile competitors.
->>>> So yes, I think it's fair to see this as just giving you the finger. Unfortunately, there's no much that we can do on our end.
 >>>> 
+>>>> Spoiler tags are implemented through custom CSS, because reddit doesn't have sitewide spoiler functionality. The mobile site doesn't load the custom CSS, so it breaks all subreddit-level spoiler functionality.
+>>>> 
+>>>> If you have an app, most of them don't load in custom CSS either, but they have special static rules that allow spoiler tags in the most common formats like ours, which is `[text](#s "spoiler text")`. I know this is how redditisfun does it and I assume that's how other apps do it as well.
+>>>> 
+>>>> According to /u/akahotcheetos, this is a ["high priority"](https://www.reddit.com/r/mobileweb/comments/39nv1r/support_for_spoiler_tags/cs7awsb) but that was seven months ago. There are still apparently people working on the mobile site, since admins like /u/schwers and /u/nr4madas still post in /r/mobileweb, but they haven't fixed something that breaks basic functionality for discussion and requires a ten line change to their CSS without any redeployment, something that's already implemented by all their mobile competitors.
+>>>> 
+>>>> So yes, I think it's fair to see this as just giving you the finger. Unfortunately, there's no much that we can do on our end.
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (9 hours later)
 >>>>> 
->>>>> [text](#s "spoiler text")
+>>>>>     [text](#s "spoiler text")
+>>>>> 
 >>>>> This works fine on mobile.  It puts a black bar over the text and, when you click / highlight, you can read it.  It's the new version,
->>>>>      [text](/s "spoiler text") 
->>>>> that doesn't work; it puts the text into a tooltip that doesn't work on iPhone.
 >>>>> 
+>>>>>      [text](/s "spoiler text") 
+>>>>> 
+>>>>> that doesn't work; it puts the text into a tooltip that doesn't work on iPhone.
 
->>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (9 hours later)
 >>>>>> 
 >>>>>> /r/rational uses the former, not the latter. [You can see our CSS here.](https://a.thumbs.redditmedia.com/kOKWm1CTiAFbcTeoLUAWzhE5zst556_kcBjVp4c5uq8.css)
->>>>>>     a[href="#s"]{display:inline-block;background:black;color:white;padding:0px 0px 0px 10px}a[href="#s"]:hover{color:#8F8F8F}a[href="#s"]::after{content:attr(title);background:black;color:black;visibility:visible}a[href="#s"]:hover::after,a[href="#s"]:active::after{color:white}
->>>>>> Based on our revision history, it's been that way since two years ago. So ... I'm not sure what it is that you're seeing. I'll try to test it on my wife's iPhone when I get home to see if I can diagnose the problem.
 >>>>>> 
+>>>>>>     a[href="#s"]{display:inline-block;background:black;color:white;padding:0px 0px 0px 10px}a[href="#s"]:hover{color:#8F8F8F}a[href="#s"]::after{content:attr(title);background:black;color:black;visibility:visible}a[href="#s"]:hover::after,a[href="#s"]:active::after{color:white}
+>>>>>> 
+>>>>>> Based on our revision history, it's been that way since two years ago. So ... I'm not sure what it is that you're seeing. I'll try to test it on my wife's iPhone when I get home to see if I can diagnose the problem.
 
->>>>>>> **u/eaglejarl** [+1] *
+>>>>>>> **u/eaglejarl** [+1]  (9 hours later)
 >>>>>>> 
 >>>>>>> [Testing the #s version.](#s "This is some spoilered text.")
->>>>>>> [Testing the /s version.](/s "This is some spoilered text.")
->>>>>>> EDIT:  They both look the same on my laptop browser and on my iPhone -- they are the 'link to the article which has a tooltip with the spoilered text' variety.
 >>>>>>> 
+>>>>>>> [Testing the /s version.](/s "This is some spoilered text.")
+>>>>>>> 
+>>>>>>> EDIT:  They both look the same on my laptop browser and on my iPhone -- they are the 'link to the article which has a tooltip with the spoilered text' variety.
 
->>>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (9 hours later)
 >>>>>>>> 
 >>>>>>>> Can you give me your browser info? Also, do you have [Reddit Enhancement Suite](http://redditenhancementsuite.com "also /r/Enhancement") installed? This is puzzling, because our custom spoiler CSS (which is the more common of the site-wide standards) hasn't changed at all.
->>>>>>>> 
 
->>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> **u/eaglejarl** [+1]  (10 hours later)
 >>>>>>>>> 
 >>>>>>>>> > Can you give me your browser info? 
->>>>>>>>> OSX 10.11, Firefox 43.0.4.  
->>>>>>>>> AdBlockPlus installed but disabled, ditto User Style Manager.  RES installed and active.  No other addons that seem relevant.
-
->>>>>>>>> > Also, do you have Reddit Enhancement Suite installed? 
->>>>>>>>> Yes.
-
->>>>>>>>> EDIT:  It still looks the same (i.e. the tooltip version) when I disable RES.  Also looks the same in Chrome Version 47.0.2526.111 (64-bit)
 >>>>>>>>> 
+>>>>>>>>> OSX 10.11, Firefox 43.0.4.  
+>>>>>>>>> 
+>>>>>>>>> AdBlockPlus installed but disabled, ditto User Style Manager.  RES installed and active.  No other addons that seem relevant.
+>>>>>>>>> 
+>>>>>>>>> > Also, do you have Reddit Enhancement Suite installed? 
+>>>>>>>>> 
+>>>>>>>>> Yes.
+>>>>>>>>> 
+>>>>>>>>> EDIT:  It still looks the same (i.e. the tooltip version) when I disable RES.  Also looks the same in Chrome Version 47.0.2526.111 (64-bit)
 
->>>>>>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>>>>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (12 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I've tested with Firefox, Chrome, and IE on both Windows and Mac OSX 10.11, as well as Chrome for Android and iPhone and don't see anything wrong. My *best guess* is that the actual CSS file isn't loading in right for you for some reason. You can tell whether you have the subreddit's custom styling by whether the title in the upper left corner of the page says "Rational" (the default) or "Rational Fiction" (what our CSS changes it to). I don't know what level the CSS would be failing to load at though. If you pop open the Developer Tools on Chrome and navigate to Sources you should be able to see the actual CSS file there under a.thumbs.redditmedia.com. But beyond that I have no idea.
->>>>>>>>>> 
 
->>>> **u/Riddle-Tom_Riddle** [+1] *
+>>>> **u/Riddle-Tom_Riddle** [+1]  (6 hours later)
 >>>> 
 >>>> Are you redditting in the iPhone's stock browser? If so, I would suggest using a reddit app.(I don't know which exist for iPhone though.)
->>>> I absolutely hate Reddit in my mobile browser. It's just too much of a hassle to deal with.
->>>> [](/fluttersnoo "I hear that one of them lets you use emotes in comments, using a bastardization of the spoiler tag. Although, I don't know if that works on iPhone. Something about directory permissions shared between apps, iirc.")
 >>>> 
+>>>> I absolutely hate Reddit in my mobile browser. It's just too much of a hassle to deal with.
+>>>> 
+>>>> [](/fluttersnoo "I hear that one of them lets you use emotes in comments, using a bastardization of the spoiler tag. Although, I don't know if that works on iPhone. Something about directory permissions shared between apps, iirc.")
 
->>>>> **u/eaglejarl** [+8] *
+>>>>> **u/eaglejarl** [+7]  (7 hours later)
 >>>>> 
 >>>>> > Are you redditting in the iPhone's stock browser? 
->>>>> Yep.
->>>>> > If so, I would suggest using a reddit app.(I don't know which exist for iPhone though.)
->>>>> I have to use an *app* to read a *website*?  Wow.  Tim B-L is crying.
->>>>> Okay, thanks for the tip.
 >>>>> 
+>>>>> Yep.
+>>>>> 
+>>>>> > If so, I would suggest using a reddit app.(I don't know which exist for iPhone though.)
+>>>>> 
+>>>>> I have to use an *app* to read a *website*?  Wow.  Tim B-L is crying.
+>>>>> 
+>>>>> Okay, thanks for the tip.
 
->>>>>> **u/IomKg** [+1] *
+>>>>>> **u/IomKg** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> I'd just recommend browsing the non-mobile version.
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+3] *
+>>>>>>> **u/eaglejarl** [+3]  (9 hours later)
 >>>>>>> 
 >>>>>>> I am.
->>>>>>> 
 
-> **u/Sophronius** [+6]  *The Need to Become Stronger**
+> **u/Sophronius** [+5]  *The Need to Become Stronger* (10 hours later)
 > 
 > Agreed. Suggested improved 1st law: 
-> >You can't make Naruto a rationalist unless you take away his plot power.
-> The problem with all of these fanfics is that they take a standard story where everything revolves around the hero, then give the hero rationality but *still let the entire world revolve around them*. Sauron does not need a deathstar to kill frodo. Frodo just needs to be able to die to a stray goblin arrow.
-> Heck, even Hpmor has this problem. Harry comes into Hogwarts and not only does he start out with a ridiculous amount of scientific knowledge right off the bat, but ALSO everyone loves him and he is super rich without having to do anything for it, and everything he does is awesome for some reason. He'd come across as much less of a Mary sue if the rest of the world didn't see him as the main character.
-
-> edit: one of the very few examples of a fanfic that does this right is The waves Arisen. No matter how powerful the main character becomes, he still feels vulnerable because the rest of the world treats him like fodder.
 > 
+> >You can't make Naruto a rationalist unless you take away his plot power.
+> 
+> The problem with all of these fanfics is that they take a standard story where everything revolves around the hero, then give the hero rationality but *still let the entire world revolve around them*. Sauron does not need a deathstar to kill frodo. Frodo just needs to be able to die to a stray goblin arrow.
+> 
+> Heck, even Hpmor has this problem. Harry comes into Hogwarts and not only does he start out with a ridiculous amount of scientific knowledge right off the bat, but ALSO everyone loves him and he is super rich without having to do anything for it, and everything he does is awesome for some reason. He'd come across as much less of a Mary sue if the rest of the world didn't see him as the main character.
+> 
+> edit: one of the very few examples of a fanfic that does this right is The waves Arisen. No matter how powerful the main character becomes, he still feels vulnerable because the rest of the world treats him like fodder.
 
->> **u/Kishoto** [+5] *
+>> **u/Kishoto** [+5]  (13 hours later)
 >> 
 >> To be fair, I think Harry being the main character of HPMOR (both to us, the readers, and to the narrative itself) was intentionally written in such a way by EY. For all its rationality, HPMOR was clearly written as an almost self-aware story. It knew what it was, and played it to the hilt.
->> 
 
-> **u/t3tsubo** [+5] *
+> **u/t3tsubo** [+3]  (6 hours later)
 > 
 > So can you recommend some that *don't* fall into that trap?
-> 
 
->> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager* (12 hours later)
 >> 
 >> I have an active account on [RationalReads](http://rationalreads.com/users/136).
->> **"Jedi Frodo vs Death Star Sauron"**
->> * The ubiquitous genre-defining fics of this sub (HPMOR, Luminosity, The Metropolitan Man)
->> * [Weaver Nine](http://archiveofourown.org/works/2776352/chapters/6226538)
->> * [Time Braid](https://www.fanfiction.net/s/5193644/1/Time-Braid)
->> * [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species)
->> * [The Game of Champions](https://www.fanfiction.net/s/7354757/1/The-Game-of-Champions)
->> ([Dungeon Keeper Ami](http://addventure.bast-enterprises.de/frecent.php?tag=Dungeon+Keeper+Ami) (Pusakuronu chapters only) is also impressively good at avoiding this pitfall, given its premise and length. It's a damn shame it instead fell into the pitfall of not being very good writing.)
->> **Original works that still do the "rationalist tries to fix everything but it's really hard" thing**
->> * [The Two Year Emperor](https://dl.dropboxusercontent.com/u/3294457/give_aways/two_year_emperor.tbz2) ([author's Patreon](http://patreon.com/davidstorrs))
->> * [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)
->> * [Saga of Soul](http://www.sagaofsoul.com/)
->> * [Erfworld](http://archives.erfworld.com/) (book 1 only, and excluding the text epilogues)
->> Also, all the stories in the OP (and I could dig out some names for the broad categories at the bottom of the list if you want) make for good reading, **provided you stop reading as soon as you stop having fun**. They blow their premise's payoff in the first chapters.
 >> 
+>> **"Jedi Frodo vs Death Star Sauron"**
+>> 
+>> * The ubiquitous genre-defining fics of this sub (HPMOR, Luminosity, The Metropolitan Man)
+>> 
+>> * [Weaver Nine](http://archiveofourown.org/works/2776352/chapters/6226538)
+>> 
+>> * [Time Braid](https://www.fanfiction.net/s/5193644/1/Time-Braid)
+>> 
+>> * [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species)
+>> 
+>> * [The Game of Champions](https://www.fanfiction.net/s/7354757/1/The-Game-of-Champions)
+>> 
+>> ([Dungeon Keeper Ami](http://addventure.bast-enterprises.de/frecent.php?tag=Dungeon+Keeper+Ami) (Pusakuronu chapters only) is also impressively good at avoiding this pitfall, given its premise and length. It's a damn shame it instead fell into the pitfall of not being very good writing.)
+>> 
+>> **Original works that still do the "rationalist tries to fix everything but it's really hard" thing**
+>> 
+>> * [The Two Year Emperor](https://dl.dropboxusercontent.com/u/3294457/give_aways/two_year_emperor.tbz2) ([author's Patreon](http://patreon.com/davidstorrs))
+>> 
+>> * [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)
+>> 
+>> * [Saga of Soul](http://www.sagaofsoul.com/)
+>> 
+>> * [Erfworld](http://archives.erfworld.com/) (book 1 only, and excluding the text epilogues)
+>> 
+>> Also, all the stories in the OP (and I could dig out some names for the broad categories at the bottom of the list if you want) make for good reading, **provided you stop reading as soon as you stop having fun**. They blow their premise's payoff in the first chapters.
 
->>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (a day later)
 >>> 
 >>> > provided you stop reading as soon as you stop having fun
->>> Roxolan's First Law of Reading Fiction.
 >>> 
+>>> Roxolan's First Law of Reading Fiction.
 
->>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>> 
 >>>> Ha.
->>>> (It should be Fanfiction. Unscripted Fiction if you want to be even more accurate. Fiction planned in advance doesn't always front-load the awesomeness.)
 >>>> 
+>>>> (It should be Fanfiction. Unscripted Fiction if you want to be even more accurate. Fiction planned in advance doesn't always front-load the awesomeness.)
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>> 
 >>>>> No, it applies to all fiction. If you don't stop reading when you've stop enjoying yourself, why are you reading? If you have no reason to read, you shouldn't read. This doesn't change whether it's unplanned fanfiction or James Joyce.
->>>>> 
 
->>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>>> 
 >>>>>> > If you don't stop reading when you've stop enjoying yourself, why are you reading?
->>>>>> Because you expect to enjoy yourself again later into the book, enough so that the boring parts are worth slogging through. Even my favourite books are not thrill rides 100% of the time, they just don't have the downward trend of unplanned fiction. Often the biggest payoff is near the end, even.
 >>>>>> 
+>>>>>> Because you expect to enjoy yourself again later into the book, enough so that the boring parts are worth slogging through. Even my favourite books are not thrill rides 100% of the time, they just don't have the downward trend of unplanned fiction. Often the biggest payoff is near the end, even.
 
->>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>>> 
 >>>>>>> That's a reason. If you're expecting a good payoff, then sure, keep reading. If I get a recommendation, then sure, keep reading. But don't keep reading for no reason.
->>>>>>> 
 
->>> **u/t3tsubo** [+1] *
+>>> **u/t3tsubo** [+1]  (13 hours later)
 >>> 
 >>> Thanks!
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (14 hours later)
 >>>> 
 >>>> So that you also get the alert, I'm [repeating the link to 2YE](http://patreon.com/davidstorrs).
->>>> 
 
->>>>> **u/t3tsubo** [+2] *
+>>>>> **u/t3tsubo** [+2]  (14 hours later)
 >>>>> 
 >>>>> Thanks! I downloaded it all before you took it down the first time though, def one of my favorite stories (at least book 1 was).
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (14 hours later)
 >>>>>> 
 >>>>>> > Thanks! I downloaded it all before you took it down the first time though, def one of my favorite stories 
->>>>>> I'm flattered, thank you.
 >>>>>> 
+>>>>>> I'm flattered, thank you.
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (14 hours later)
 >>> 
 >>> > The Two Year Emperor (not sure where it's available these days)
->>> [Here.](http://patreon.com/davidstorrs)
 >>> 
+>>> [Here.](http://patreon.com/davidstorrs)
 
->>> **u/elevul** [+1]  *Cyoria Observer**
+>>> **u/elevul** [+1]  *Cyoria Observer* (2 days later)
 >>> 
 >>> Man I hope the Saga of Soul author releases someday an .epub, because his/her website is terrible to read on.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (2 days later)
 >>>> 
 >>>> I just hope they finish the darn story.  It's been dead for a long time.
->>>> 
 
-> **u/mycroftxxx42** [+3] *
+> **u/mycroftxxx42** [+3]  (7 hours later)
 > 
 > Yes, if /r/rational were a cooking/foodie subreddit dedicated to a specific cuisine or discipline, these would be the junk food recommendations.  _Saruman of Many Devices_ isn't ratfic, but it is a very good application of the _deus ex machina_ from one setting to another.
-> 
 
-> **u/IomKg** [+2] *
+> **u/IomKg** [+2]  (6 hours later)
 > 
 > I'd say i definitely agree with the general point, and would add "The Waves Arisen" to the list if you ever think of trying it.
-> I also agree in regards to time braid, and I think its interesting to point that one of the interesting things that work for time braid in my opinion is that that it skirts some of the issue simply by having one of central most powerful characters offscreen half the time.
-> I of course think the way it built sakura up was really well done, but in my opinion if the story was instead on naruto it would have felt too OP. but by not having naruto as the MC it gets to sort of "eat the pie and have it" if you will.
 > 
+> I also agree in regards to time braid, and I think its interesting to point that one of the interesting things that work for time braid in my opinion is that that it skirts some of the issue simply by having one of central most powerful characters offscreen half the time.
+> 
+> I of course think the way it built sakura up was really well done, but in my opinion if the story was instead on naruto it would have felt too OP. but by not having naruto as the MC it gets to sort of "eat the pie and have it" if you will.
 
->> **u/t3tsubo** [+5] *
+>> **u/t3tsubo** [+6]  (6 hours later)
 >> 
 >> His list was for fics that fell into that trap. Waves arisen IMO was concluded quite well.
->> 
 
->>> **u/IomKg** [+2] *
+>>> **u/IomKg** [+2]  (7 hours later)
 >>> 
 >>> I understood his list, and felt that Waves arisen fell magnificently into it.
 >>> The final, though it had a few nice gimmicks, felt completely forced.
->>> But i guess our opinions on the matter are just different :)
 >>> 
+>>> But i guess our opinions on the matter are just different :)
 
->>>> **u/t3tsubo** [+2] *
+>>>> **u/t3tsubo** [+2]  (7 hours later)
 >>>> 
 >>>> That's fair, I just never really got the sense that the waves author was "building the plane as it was flying", so to speak. And it was concluded without even reaching into the canon's most ludicrous powers.
->>>> 
 
->>>>> **u/IomKg** [+1] *
+>>>>> **u/IomKg** [+1]  (7 hours later)
 >>>>> 
 >>>>> I totally felt that was the case, especially with all those hints of a bigger story in the background thrown around and then ignored.
->>>>> 
 
->>>>>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>>>>> **u/blazinghand** [+4]  *Chaos Undivided* (11 hours later)
 >>>>>> 
 >>>>>> The Waves Arisen was complete at the time the first chapter was published.
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+1] *
+>>>>>>> **u/eaglejarl** [+1]  (11 hours later)
 >>>>>>> 
 >>>>>>> Did we ever get an answer on where all the extra water came from, and why it didn't disrupt the ecosphere? I thought I remembered that it was supposed to have been the result of over-used suiton jutsu, but that seems implausible given how much water is involved.
->>>>>>> 
 
->>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>> **u/Kishoto** [+1]  (13 hours later)
 >>>>>>>> 
 >>>>>>>> It was heavily implied that the extra water was from over-used suiton jutsu. It was also implied that society was once much larger than what was presented to us in the fic, and kind of destroyed itself as a result of the water having nowhere else to go. There are a few off screen holes in that theory, in my personal opinion, but I let it slide. Although I found it hard to emotionally connect with "wanting to get rid of some of the water" as an overarching goal of his. 
->>>>>>>> EDIT: Based on some other, less blatant hints and speculation, I concluded that the pre-existing society's over-use of suiton jutsu most likely wasn't so much of the "ninjas spit water" variety, as of the "large chakra-to-water spawning machines go nuts" variety.
 >>>>>>>> 
+>>>>>>>> EDIT: Based on some other, less blatant hints and speculation, I concluded that the pre-existing society's over-use of suiton jutsu most likely wasn't so much of the "ninjas spit water" variety, as of the "large chakra-to-water spawning machines go nuts" variety.
 
->>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> **u/eaglejarl** [+1]  (13 hours later)
 >>>>>>>>> 
 >>>>>>>>> There is no way that any believable number of ninja produced that much water, and why in the world would they create chakra-to-water machines?  Where would they get enough chakra to power such a thing for the amount of water that would be necessary?
->>>>>>>>> The thing that puzzles me is that it's a major part of the setting -- Wertiflowke went to the trouble of finding a map of the Tibetan Plateau and then modifying it to show the drownage.  Despite that, it never had any actual impact on the story.
 >>>>>>>>> 
+>>>>>>>>> The thing that puzzles me is that it's a major part of the setting -- Wertiflowke went to the trouble of finding a map of the Tibetan Plateau and then modifying it to show the drownage.  Despite that, it never had any actual impact on the story.
 
->>>>>>>>>> **u/Kishoto** [+2] *
+>>>>>>>>>> **u/Kishoto** [+2]  (14 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Agreed. No way standard canon suiton jutsu was responsible. As to why they would create chakra-to-water machines? 
->>>>>>>>>> No. Fucking. Clue.
->>>>>>>>>> I just reached that conclusion because:
->>>>>>>>>> 1. No way some guys spitting water filled up the world.
->>>>>>>>>> 2. Chakra to water seems to be the method in which this happened. There's no other water spawning showcased in Waves Arisen.
 >>>>>>>>>> 
+>>>>>>>>>> No. Fucking. Clue.
+>>>>>>>>>> 
+>>>>>>>>>> I just reached that conclusion because:
+>>>>>>>>>> 
+>>>>>>>>>> 1. No way some guys spitting water filled up the world.
+>>>>>>>>>> 
+>>>>>>>>>> 2. Chakra to water seems to be the method in which this happened. There's no other water spawning showcased in Waves Arisen.
 
->>>>>>> **u/IomKg** [+1] *
+>>>>>>> **u/IomKg** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> That is not really that significant to the point in my opinion.
->>>>>>> 
 
-> **u/Adrastos42** [+2]  *I got a B in critical thinking!**
+> **u/Adrastos42** [+2]  *I got a B in critical thinking!* (16 hours later)
 > 
 > Have you read [With This Ring?](https://forums.sufficientvelocity.com/threads/with-this-ring-young-justice-si-thread-twelve.25032/) at least in my opinion it does this kind of thing pretty well. The antagonists advance in a fairly logical way to counter the main character, and his successes feel earned.
-> 
 
->> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager* (20 hours later)
 >> 
 >> [I read a bunch of *With This Ring* and it was quite fun, and then it stopped being fun, then I read a good deal more](http://rationalreads.com/?#/works/30). It's right around that time I finally integrated the "you *can* just stop reading, you dummy!" rule. (I do wish that had happened *before* I encountered *Adventures in Effulgence*.) 
->> But IIRC I dropped it because of a combination of poor pacing and unmet expectations (when a rationalist enters a superhero world, I kind of expect more than slice-of-life intersped with bog-standard superheroing to ensue; or at least I want better written slice-of-life). I agree it doesn't fit the pattern in the OP, which is why it's not on the list.
 >> 
+>> But IIRC I dropped it because of a combination of poor pacing and unmet expectations (when a rationalist enters a superhero world, I kind of expect more than slice-of-life intersped with bog-standard superheroing to ensue; or at least I want better written slice-of-life). I agree it doesn't fit the pattern in the OP, which is why it's not on the list.
 
->>> **u/GlueBoy** [+5]  *anti-skub**
+>>> **u/GlueBoy** [+5]  *anti-skub* (20 hours later)
 >>> 
 >>> Agreed. I read way more of that story than I should have. I still can't quite explain why. I lost all enjoyment and I still. Kept. Reading. 
->>> Same thing happened with "The Games we Play". Holy shit, what a shitfest, and this from someone who really enjoyed Ryuugi's other stories.
 >>> 
+>>> Same thing happened with "The Games we Play". Holy shit, what a shitfest, and this from someone who really enjoyed Ryuugi's other stories.
 
->>>> **u/eaglejarl** [+3] *
+>>>> **u/eaglejarl** [+3]  (a day later)
 >>>> 
 >>>> I've kept reading WTR and the part that bugged me has always been Renegade.  He rolls in, curbstomps everything, rolls out, is rude and untrustworthy to everyone, ignores the Justice League's ROE, and never faces any consequences or experiences any character growth.  I've said as much in the thread multiple times.
->>>> Zoat just put all that out the window.  The latest arc is Renegade-focused, and I think it's my favorite of the entire story so far.
 >>>> 
+>>>> Zoat just put all that out the window.  The latest arc is Renegade-focused, and I think it's my favorite of the entire story so far.
 
-> **u/Calamitizer** [+2]  *Shears**
+> **u/Calamitizer** [+2]  *Shears* (8 days later)
 > 
 > > As an alternative, consider putting Jedi Frodo in a wheelchair.
-> Have you noticed my rational fanfiction [Shears](http://www.fimfiction.net/story/300693/shears)? This is something I deliberately chose to address.
 > 
+> Have you noticed my rational fanfiction [Shears](http://www.fimfiction.net/story/300693/shears)? This is something I deliberately chose to address.
 
-> **u/ErinFlight** [+2] *
+> **u/ErinFlight** [+2]  (13 days later)
 > 
 > What isn't often considered in these stories that a rational individual won't always succeed even if they behave perfectly rationally throughout the entire story. Actually, in some setting, they will still be more likely to fail. You can't think you're way out of everything.
 > Born during the black plague? Maybe you have a higher chance of survival, but you're not going to recreate all scientific knowledge since then. You still have a good chance of dying. Maybe you can attempt to escape to an unpopulated area, but can you get there in time? 
+> 
 > Are you an illiterate farmer in a poverty stricken region l? You may eventually succeed, but there is no garuntee. Disease, famine, loyalty to family, and natural disasters could all easily stop you.
+> 
 > Even in a modern setting you can't always prevent a car crash.
 > A rational character isn't a perfect one. 
 > They also should still make mistakes unless they are somehow omniscient. 
-> Once you introduce magic it becomes more difficult, but assuming the power has obvious limitations that need to be worked around (not just unlocked by figuring out one key fact), you should still be able to have an interesting story.
-> Also, a rational character may learn faster, but they don't learn instantaneously. Someone experienced could still have the upper hand.
-> Anything else you've noticed along these lines? Ways to create difficulty for a rational character in a magical setting without giving them an equally intilligent antagonist (which is definitely a viable option, but I'm curious to see what else there is)?
 > 
+> Once you introduce magic it becomes more difficult, but assuming the power has obvious limitations that need to be worked around (not just unlocked by figuring out one key fact), you should still be able to have an interesting story.
+> 
+> Also, a rational character may learn faster, but they don't learn instantaneously. Someone experienced could still have the upper hand.
+> 
+> Anything else you've noticed along these lines? Ways to create difficulty for a rational character in a magical setting without giving them an equally intilligent antagonist (which is definitely a viable option, but I'm curious to see what else there is)?
 
-> **u/andor3333** [+1] *
+> **u/andor3333** [+1]  (7 hours later)
 > 
 > I will be very surprised if the Mannis story doesn't end up with a challenge. Plenty of foreshadowing going on at the moment. You did notice the whole- "Argilac the Arrogant reborn" thing going on, right? I suspect the author does have a long term plan. On the other hand I've read plenty of awful Mary Sue fanfiction and it may just be wishful thinking. Something about this one makes me think he may be planning something different.
-> 
 
->> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >> 
 >> Oh, I expect the author will pull a challenge out of their hat eventually, but I doubt it'll be any good. I give you leave to say "I told you so!" if I'm wrong. (I'm not going to keep following that fic myself.)
->> 
 
 ---
 

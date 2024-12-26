@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (8 minutes later)
 > 
 > I removed this link, as it currently points at a 404 page. If it's meant to link to a page that will have content at a later date, please wait until then to post it.
-> 
 
 ---
 

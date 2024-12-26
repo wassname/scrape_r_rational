@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/10/01/chapter-25/
-* Score: 7
+* Score: 6
 
 * Created: 2019-10-02T16:58:08
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/3stt1u/bstffwhich_characters_should_be_included_in_a/
-* Score: 9
+* Score: 10
 
 * Created: 2015-11-14T22:01:50
 
@@ -33,108 +33,109 @@ Footnotes:
 
 ### Comments:
 
-> **u/None** [+10] *
+> **u/None** [+11]  (8 hours later)
 > 
 > You could have Han start out as someone mostly in it for himself, and then have him stay that way for the rest of the story, because it's pretty rational to do stuff mainly because it's good for you.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (17 hours later)
 >> 
 >> This is a great idea and it fits very well with the story I have in mind.
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> Also, I've found that in a lot of books and movies, the antagonist asks the protagonist to join them and rule alongside them, and the protagonist almost always says "Never!" even when it would make perfect sense to agree.
->>> Lando could be the [Hero of Another Story](http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroOfAnotherStory) who takes the sensible option.
 >>> 
+>>> Lando could be the [Hero of Another Story](http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroOfAnotherStory) who takes the sensible option.
 
->>>> **u/electrace** [+3] *
+>>>> **u/electrace** [+3]  (a day later)
 >>>> 
 >>>> >and the protagonist almost always says "Never!" even when it would make perfect sense to agree.
->>>> Worth noting that it would makes sense *regardless of your actual intentions*.
->>>> Want to rule the empire? Agree, work with the current person in power, succeed them. 
->>>> Want to take down the empire? Agree, let them drop their guard a bit, assassinate them (it's easier than a straight out lightsaber duel).
->>>> An exception to this might be if you have to take on some dark force to agree (normally some metaphor for anger or occasionally drugs), thereby risking that their goals will be changed (join me, but you have to let the dark side take over, which will make it so that you don't want to take down the empire).
 >>>> 
+>>>> Worth noting that it would makes sense *regardless of your actual intentions*.
+>>>> 
+>>>> Want to rule the empire? Agree, work with the current person in power, succeed them. 
+>>>> 
+>>>> Want to take down the empire? Agree, let them drop their guard a bit, assassinate them (it's easier than a straight out lightsaber duel).
+>>>> 
+>>>> An exception to this might be if you have to take on some dark force to agree (normally some metaphor for anger or occasionally drugs), thereby risking that their goals will be changed (join me, but you have to let the dark side take over, which will make it so that you don't want to take down the empire).
 
->>>>> **u/None** [+5] *
+>>>>> **u/None** [+5]  (2 days later)
 >>>>> 
 >>>>> Another exception is if joining them gives them a propaganda success against your side.
->>>>> Also, keep in mind that the villain who asks you to join is just as capable of lying as you are. After agreeing to join your journey might go right into a prison cell.
 >>>>> 
+>>>>> Also, keep in mind that the villain who asks you to join is just as capable of lying as you are. After agreeing to join your journey might go right into a prison cell.
 
-> **u/DataPacRat** [+7]  *Amateur Immortalist**
+> **u/DataPacRat** [+7]  *Amateur Immortalist* (55 minutes later)
 > 
 > If you can find it, I recommend a copy of "The Rebel Alliance Sourcebook", published by West End Games. (Depending on your local jurisdiction's copyright laws, you may be able to find a torrent containing it.) It covers a lot of detail about why the Rebellion did the things we saw it do in the movies, and what it did off-screen. For example, a significant part of their overall strategy is to cause so many problems as to draw the Emperor away from Coruscant to deal with at least one of them, giving them a shot at taking him out and ending the Empire once and for all, to head off decades of civil war.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (an hour later)
 >> 
 >> Thanks for the recommendation, I'll try to get it. While I will probably change a lot of things, it's probably good to know what exactly I'm changing.
->> 
 
-> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (17 hours later)
 > 
 > You can keep Luke around as a foil, while underplaying his role. Maybe he wasn't actually that much of a hero, his success was due to other people propping him up. The attack in the Death Star's trench was a diversionary tactic, it was actually sabotaged... but he gets credit to protect an important source.
-> You could borrow L. Neil Smith's "Libertarian Lando".
 > 
+> You could borrow L. Neil Smith's "Libertarian Lando".
 
-> **u/SvalbardCaretaker** [+5]  *Mouse Army**
+> **u/SvalbardCaretaker** [+4]  *Mouse Army* (21 hours later)
 > 
 > Incidentally, have you read https://www.reddit.com/comments/3qvj6w/ ? Theres a ton of bayesian evidence that Jarjar was a trained Force user. ( eg. given what we see its more likely that Jarjar can use the force than having tons of luck and random positive outcomes).
-> 
 
->> **u/Jiro_T** [+3] *
+>> **u/Jiro_T** [+3]  (a day later)
 >> 
 >> That would be Bayseian evidence that in an actual universe with physics like that of Star Wars, someone showing the abilities that Jar Jar does is a jedi.
->> Star Wars is fiction, and therefore can contain errors and inconsistencies.  Claiming that Jar Jar is a Jedi on these grounds is like watching Dr. Who and claiming that the Doctor must be a psychic who believes nonsense about science but unconsciously influences the universe to make the nonsense science work anyway.
 >> 
+>> Star Wars is fiction, and therefore can contain errors and inconsistencies.  Claiming that Jar Jar is a Jedi on these grounds is like watching Dr. Who and claiming that the Doctor must be a psychic who believes nonsense about science but unconsciously influences the universe to make the nonsense science work anyway.
 
->>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (a day later)
 >>> 
 >>> Well I have never seen Dr Who. Most fictional series contain inconsistensies, which most of the time can be sucessfully handwaved via technobabble, eg. in-universe coherent explanations.  I assume this must be the case for Dr Who as well. 
->>> In the case of star wars its the force; in the case of Dr Who its Galleyfreyan(?) technology. 
->>> To use an accepted in-universe explanation for "weird" stuffs that are out-universe caused by bad writing is fundamentally different from introducing a different, non-accepted in-universe explanation to explain the bad writing.
 >>> 
+>>> In the case of star wars its the force; in the case of Dr Who its Galleyfreyan(?) technology. 
+>>> 
+>>> To use an accepted in-universe explanation for "weird" stuffs that are out-universe caused by bad writing is fundamentally different from introducing a different, non-accepted in-universe explanation to explain the bad writing.
 
-> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (2 days later)
 > 
 > Do you actually have a story idea in mind, or are you just throwing things around in the universe at random? From the questions you ask it sounds like you might not have any idea what you will do or want to achieve with this story. If that's so, I don't think you should write this.
-> Are you wanting to write a story about a young heroine who teaches herself how to use magic and reaches such a level of competency that she defeats all the evil magic users? If so, what is the twist that will get people interested? Are you wanting to write a story about a young noble who uses her influence to reform a corrupt government? Do you like to think about military battles and political intrigue normally? If not, why are you writing a story that will probably involve them?
-> Over and over again in your post, you mention that the movie already achieved X, so you need not cover it again. What is it that you *are* planning on doing that was not done in the movie? Is this mostly a worldbuilding exercise for you? You want to repair minor plot holes, make the movies more realistic, that sort of thing?
 > 
+> Are you wanting to write a story about a young heroine who teaches herself how to use magic and reaches such a level of competency that she defeats all the evil magic users? If so, what is the twist that will get people interested? Are you wanting to write a story about a young noble who uses her influence to reform a corrupt government? Do you like to think about military battles and political intrigue normally? If not, why are you writing a story that will probably involve them?
+> 
+> Over and over again in your post, you mention that the movie already achieved X, so you need not cover it again. What is it that you *are* planning on doing that was not done in the movie? Is this mostly a worldbuilding exercise for you? You want to repair minor plot holes, make the movies more realistic, that sort of thing?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 days later)
 >> 
 >> I guess the reason that it looks like I'm throwing around ideas at random is that this post is about characters with who I'm not sure if they have a place in the story. (I should probably have given a little more exposition about the general gist of the story.)
->> The main conflict is pretty clear to me by now. Leia wants to topple a dictatorship, Tarkin wants to keep it in power. Both have their ideological reasons for it (grounded in interstellar political theory) and employ different and changing long term strategies. (This is one of the things that the movies don't do: They focus on battles, not on the war.)
->> The other main part of the plot is about her investigating the Jedi religion and its claims. Because Obi-Wan claims there are powers and insights in it that could be vital for her cause. Also, Force believers who are not really Force users will get quite important later on.
->> (The primary thing I want to achieve is using Star Wars as a framing device to discuss some of the research and theories on politics, religion, and, to a lesser degree, psychology. While also taking the plot down a different path.) 
->> The things the movies have already achieved are Luke's hero's journey and Han's character development. I don't see a point in redoing them, so the plot of my story will diverge significantly from more or less the third minute of A New Hope.
 >> 
+>> The main conflict is pretty clear to me by now. Leia wants to topple a dictatorship, Tarkin wants to keep it in power. Both have their ideological reasons for it (grounded in interstellar political theory) and employ different and changing long term strategies. (This is one of the things that the movies don't do: They focus on battles, not on the war.)
+>> 
+>> The other main part of the plot is about her investigating the Jedi religion and its claims. Because Obi-Wan claims there are powers and insights in it that could be vital for her cause. Also, Force believers who are not really Force users will get quite important later on.
+>> 
+>> (The primary thing I want to achieve is using Star Wars as a framing device to discuss some of the research and theories on politics, religion, and, to a lesser degree, psychology. While also taking the plot down a different path.) 
+>> 
+>> The things the movies have already achieved are Luke's hero's journey and Han's character development. I don't see a point in redoing them, so the plot of my story will diverge significantly from more or less the third minute of A New Hope.
 
->>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (3 days later)
 >>> 
 >>> Thanks for the detail. I think Han seems potentially useful for discussing logistical issues about supplies and statecraft issues like crime, and Luke could be turned into some kind of gear-head like his father Anakin once was, if you want to deal with technology at all. In *The Phantom Tollbooth* there's this dichotomy between two characters that represent rationality, named Rhyme and Reason, one likes quantitative thinking and the other likes qualitative thinking, and maybe a similar kind of difference could exist between the twins. Leia is interested in heuristics, patterns, and the Force, while Luke is more rule oriented.
->>> 
 
-> **u/MoralRelativity** [+3] *
+> **u/MoralRelativity** [+3]  (22 hours later)
 > 
 > > Footnotes: 1.) The prequels will be mostly ignored.
-> Good call.
 > 
+> Good call.
 
-> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a day later)
 > 
 > >The Emperor - The Emperor in the Original three movies isn't really a character, more a plot device and symbol. He mostly represents the dark side and almost all of his dialogue lines could be transferred into internal monologue in a written story. So I tend towards cutting him and just having the Empire ruled by the top strata of the military. Is there anything he would add that I'm missing?
-> This depends on how much of the expanded universe you are using.  If the emperor is someone who routinely moves into his owned cloned bodies as he dies,  and electrocutes himself to do so if the body is getting too old, (I think this was the dark horse comics but I never really got to read them) then you might be leaving out an opportunity to have a MPMOR Quirrell level nemesis.
 > 
+> This depends on how much of the expanded universe you are using.  If the emperor is someone who routinely moves into his owned cloned bodies as he dies,  and electrocutes himself to do so if the body is getting too old, (I think this was the dark horse comics but I never really got to read them) then you might be leaving out an opportunity to have a MPMOR Quirrell level nemesis.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 hours later)
 > 
 > Would be fun to read a story with Chewie as a protagonist and Han as the bumbling sidekick.
-> 
 
 ---
 

@@ -12,235 +12,219 @@
 
 ### Comments:
 
-> **u/None** [+24] *
+> **u/None** [+24]  (6 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+12] *
+>> **u/None** [+13]  (17 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/ATRDCI** [+10] *
+>>> **u/ATRDCI** [+11]  (19 hours later)
 >>> 
 >>> Seriously.  It's a series that's longer than Harry Potter (and closing in on A Song of Ice and Fire), has extremely consistent thrice weekly updates, and EE may well be putting out his best work right now.  (Though admittedly we've probably said that at a lot of points in the series like Ubua at the Battle of the Camps, Ratface's Ex, Black at the Vales and too many more to count)
->>> 
 
->>> **u/Brokndremes** [+3] *
+>>> **u/Brokndremes** [+3]  (a day later)
 >>> 
 >>> Sorry, but FSM?
->>> 
 
->>>> **u/C_Densem** [+1]  *LessWrong (than usual)**
+>>>> **u/C_Densem** [+1]  *LessWrong (than usual)* (a day later)
 >>>> 
 >>>> Flying Spaghetti Monster. It's like saying "my God", but 20% more awesome.
->>>> 
 
->> **u/RMcD94** [+5] *
+>> **u/RMcD94** [+5]  (a day later)
 >> 
 >> Mein kampf the story of an aspiring artist  who only wants what's best for his country (people)
->> 
 
->>> **u/panchoadrenalina** [+15] *
+>>> **u/panchoadrenalina** [+16]  (a day later)
 >>> 
 >>> in the same vein the gospel acording to mark is the backstory of the undead king that is promised to come back to conquer the world and send his enemys to eternal torture
->>> 
 
->>>> **u/LazarusRises** [+3] *
+>>>> **u/LazarusRises** [+3]  (a day later)
 >>>> 
 >>>> /r/unsong is calling
->>>> 
 
-> **u/Teulisch** [+11]  *Space Tech Support**
+> **u/Teulisch** [+11]  *Space Tech Support* (18 minutes later)
 > 
 > [Soon i will be invincilbe](https://en.wikipedia.org/wiki/Soon_I_Will_Be_Invincible) is a superhero story from the view point of the villian. its a good book. 
-> [How to succeed in evil](https://tvtropes.org/pmwiki/pmwiki.php/Literature/HowToSucceedInEvil) is a very good series about an evil efficiency consultant, and a good comedic deconstruction of the problem your talking about.
 > 
+> [How to succeed in evil](https://tvtropes.org/pmwiki/pmwiki.php/Literature/HowToSucceedInEvil) is a very good series about an evil efficiency consultant, and a good comedic deconstruction of the problem your talking about.
 
-> **u/thrawnca** [+11]  *Carbon-based biped**
+> **u/thrawnca** [+9]  *Carbon-based biped* (11 hours later)
 > 
 > Have you read [The Sword of Good](http://yudkowsky.net/other/fiction/the-sword-of-good)? Even if it's not precisely what you're after, I think you'll find it helpfully thought-provoking.
-> 
 
-> **u/LazarusRises** [+17] *
+> **u/LazarusRises** [+16]  (6 hours later)
 > 
 > Mistborn. Takes a while to pay off but the reveal of the villain's motives at the end of the trilogy is absolutely breathtaking.
-> EDIT: In a completely different vein, Urinetown.
 > 
+> EDIT: In a completely different vein, Urinetown.
 
->> **u/Empiricist_or_not** [+7]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+7]  *Aspiring polite Hegemonizing swarm* (20 hours later)
 >> 
 >> The big reveal in mistborn is really worth it.
->> 
 
->>> **u/panchoadrenalina** [+6] *
+>>> **u/panchoadrenalina** [+6]  (21 hours later)
 >>> 
 >>> For me the best moment is vin flying/jumping, great sword in hand. Such a cathartic moment
->>> 
 
->>>> **u/Empiricist_or_not** [+4]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+4]  *Aspiring polite Hegemonizing swarm* (21 hours later)
 >>>> 
 >>>> Oh no doubt. That is a crowning moment of awesome.  But as far as OPs evil overlord having a rational-ish argument and real justification, learning the underlying reasons for the final empire and how it was ensuring humanity's survival is a good payoff. I'm really hoping we eventually see Vin in the storm light archives.
->>>> 
 
->>>>> **u/LazarusRises** [+3] *
+>>>>> **u/LazarusRises** [+3]  (a day later)
 >>>>> 
 >>>>> Enormous all-cosmere spoilers: 
->>>>> >!We won't, she and Elend passed on to whatever awaits human souls after death. Much like Taylor, her story is over--she deserves her rest.!<
 >>>>> 
+>>>>> >!We won't, she and Elend passed on to whatever awaits human souls after death. Much like Taylor, her story is over--she deserves her rest.!<
 
->>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>>> 
 >>>>>> I know.  I'm still hoping deserve and get aren't allways the same. I'd comment more about why it's unlikely by WOB but I'm on my phone and can't spoiler appropriately.
->>>>>> 
 
->>>>>>> **u/LazarusRises** [+2] *
+>>>>>>> **u/LazarusRises** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> Reddit has a new spoiler feature, just type \>! before the text and \!< after it.
->>>>>>> 
 
->> **u/silver7017** [+1] *
+>> **u/silver7017** [+1]  (8 hours later)
 >> 
 >> this. a thousand times this.
->> 
 
->> **u/lillarty** [+1] *
+>> **u/lillarty** [+1]  (2 days later)
 >> 
 >> How's Mistborn after the initial trilogy? I never read the later books because the idea of "wild west but with magic" didn't capture my interest at all.
->> 
 
->>> **u/LazarusRises** [+5] *
+>>> **u/LazarusRises** [+4]  (2 days later)
 >>> 
 >>> I like it a lot, but I'm a huge Sanderson/cosmere fan. There are Wild West-y parts, but overall it's much more "Victorian steampunk but with magic." It also feels more lighthearted than the original trilogy, >!which might be partly because it doesn't take place in a tyrannical theocracy under ash-filled skies.!<
->>> 
 
->>> **u/signspace13** [+2] *
+>>> **u/signspace13** [+2]  (6 days later)
 >>> 
 >>> The 2nd Era is Hella fun >!Brandon has managed to tone down the grimdark and ha gotten *much* better at character development and progression, the original trilogy is fantastic but has its flaws, I would say that those flaws are compensated for in 2nd era, though it is a very different type of story.!< Honestly, Brandon is always talking about how he wants a Mistborn video game, but if he just jumped over the original trilogy, and set the Game in the backstory of the 2nd Era MC, it would be *fucking amazing* who wouldn't want to play Mistborn / Red dead redemption?
->>> 
 
->>> **u/SkyTroupe** [+1] *
+>>> **u/SkyTroupe** [+1]  (8 days later)
 >>> 
 >>> I like it far more than the first trilogy but theyre almost uncomparable as the setting and stakes are wildly different.
->>> I think the character variety makes it better. You have a more diverse strata of characters and viewpoints. Not only that but people get *really creative* with their powers.
 >>> 
+>>> I think the character variety makes it better. You have a more diverse strata of characters and viewpoints. Not only that but people get *really creative* with their powers.
 
->>>> **u/lillarty** [+2] *
+>>>> **u/lillarty** [+2]  (9 days later)
 >>>> 
 >>>> >people get *really creative* with their powers
->>>> Well, it just moved up my backlog by a lot. I'm currently reading the Three Body Problem trilogy, but I'll fit it in after that. I'm a huge sucker for power munchkinry in stories.
 >>>> 
+>>>> Well, it just moved up my backlog by a lot. I'm currently reading the Three Body Problem trilogy, but I'll fit it in after that. I'm a huge sucker for power munchkinry in stories.
 
->>>>> **u/SkyTroupe** [+1] *
+>>>>> **u/SkyTroupe** [+1]  (12 days later)
 >>>>> 
 >>>>> The Alloy of Law is like a short introductory novel. It's good but not peak. Things definitely get way more exciting and power munchiny in Shadows of Self and Bands of Mourning gets really creative with investiture itself. So much so that its implications for the wider cosmere are staggering
->>>>> 
 
->> **u/Insufficient_Metals** [+1] *
+>> **u/Insufficient_Metals** [+1]  (8 days later)
 >> 
 >> I think the revelation in Oathbringer was more mindblowing for me. Still both were pretty phenomenal.
->> 
 
-> **u/Calsem** [+8] *
+> **u/Calsem** [+7]  (33 minutes later)
 > 
 > dexter is lawful evil yet he is potrayed as the protag.  (disclaimer: have only seen first two seasons)
-> 
 
->> **u/junkie_purist** [+5] *
+>> **u/junkie_purist** [+6]  (4 hours later)
 >> 
 >> Dexter is fun example of "lawful evil" because he literally works for the police department. (Kinda season 1 spoilers:) >!Dexter's "backstory" is basically about his lawful good father realizing that Dexter is an evil kid, and realizing that that if Dexter is going to be evil, he can at least be *lawful* evil.!<  Also, in later seasons, Quinn sort of becomes a foil for Dexter as a sort of "chaotic good" character, culminating in season 7 when he >!murders a mobster after learning that he raped a girl.!<  It sets up an interesting dichotomy with Dexter, where Dexter is cold, calculating, and by the book, while Quinn is impulsive and moody; >!Dexter works to control his urges and stick to "the code," while when Quinn kills it's because he listened to his conscience and shot an evil person because it felt like the right thing to do in the heat of the moment.!<
->> 
 
->> **u/RetardedWabbit** [+6] *
+>> **u/RetardedWabbit** [+6]  (an hour later)
 >> 
 >> This is the best example I can think of. Not to spoil anything but this gets much muddier and addressed in later seasons.
->> The movie Les Misérables has my favorite example of this with Javert who sees himself as lawful good. If you enjoy musicals check it out, although if you have singing experience I hear some of the performances aren't great.
 >> 
+>> The movie Les Misérables has my favorite example of this with Javert who sees himself as lawful good. If you enjoy musicals check it out, although if you have singing experience I hear some of the performances aren't great.
 
->>> **u/I_Probably_Think** [+1] *
+>>> **u/I_Probably_Think** [+1]  (a day later)
 >>> 
 >>> You can also watch a musical production of it, or even the book! Several of my friends highly enjoyed the original work.
->>> 
 
-> **u/AzaleaEllis** [+7] *
+> **u/AzaleaEllis** [+3]  (20 hours later)
 > 
 > Main character in Code Geass is, in my opinion, more straight-up villain than simple anti-hero, and yet I sympathized with him and thought his heroic counterpart was naive and ineffectual. Rather than opposing characters openly admitting that he was a good guy, I feel like his choices were ambiguous in-story, despite his place as the main character. 
-> The anime is fantastic, and though the main character is certainly very clever, he's definitely not as rational as he could be, constrained by emotions that work against his best interest, lack of information, and lack of real-world experience in trying to lead a revolution and change the world. Even so, he actually manages to achieve his goals, to some degree.
 > 
+> The anime is fantastic, and though the main character is certainly very clever, he's definitely not as rational as he could be, constrained by emotions that work against his best interest, lack of information, and lack of real-world experience in trying to lead a revolution and change the world. Even so, he actually manages to achieve his goals, to some degree.
 
-> **u/Mandragorec** [+3] *
+> **u/Mandragorec** [+3]  (16 hours later)
 > 
 > [https://tvtropes.org/pmwiki/pmwiki.php/Main/TheExtremistWasRight](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheExtremistWasRight)  Tropes are your best friends.
-> Les trois mousquetaires - should fit just fine, if you read the sequel. Literally all characters repent their actions against the main antagonist. He was a hero and a patriot in the best meaning the word has.
-> Worth the candle. Greatest (and somewhat lost) ruler of all times was quite DnD's lawful evil.
-> Forged destiny - small but good episode with Tyrian. Hero that failed viewed as bad hero. Then he become bad. As a whole book isn't about the villians.
-> Syper Powereds - well, haven't finished it yet, but probably fits. Praise the Globe.
-> Team AMBR: Finding redemption. "Evil" = violent people. Not always bad or wrong. Beware: merciful MC that drives me nuts.
-> [http://willsaveworldforgold.com](http://willsaveworldforgold.com) \- Ardon is the best evil bitch character I've ever seen.
-> Half-joke is a joke only by half, so -  *Il Principe. A good ruler is a bad person.*
-> You may try Warhammer 40k. I mean, Emperor is great and all but also pretty evil.
 > 
+> Les trois mousquetaires - should fit just fine, if you read the sequel. Literally all characters repent their actions against the main antagonist. He was a hero and a patriot in the best meaning the word has.
+> 
+> Worth the candle. Greatest (and somewhat lost) ruler of all times was quite DnD's lawful evil.
+> 
+> Forged destiny - small but good episode with Tyrian. Hero that failed viewed as bad hero. Then he become bad. As a whole book isn't about the villians.
+> 
+> Syper Powereds - well, haven't finished it yet, but probably fits. Praise the Globe.
+> 
+> Team AMBR: Finding redemption. "Evil" = violent people. Not always bad or wrong. Beware: merciful MC that drives me nuts.
+> 
+> [http://willsaveworldforgold.com](http://willsaveworldforgold.com) \- Ardon is the best evil bitch character I've ever seen.
+> 
+> Half-joke is a joke only by half, so -  *Il Principe. A good ruler is a bad person.*
+> 
+> You may try Warhammer 40k. I mean, Emperor is great and all but also pretty evil.
 
->> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators**
+>> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators* (18 hours later)
 >> 
 >> > Emperor is great and all but also pretty evil.
->> I'm only acquainted with canon. I thought the evil all came from perversions of his secular doctrine. Can you give examples?
 >> 
+>> I'm only acquainted with canon. I thought the evil all came from perversions of his secular doctrine. Can you give examples?
 
->>> **u/Mandragorec** [+5] *
+>>> **u/Mandragorec** [+3]  (a day later)
 >>> 
 >>> I'll do my best even though i read more books that do not involve The great and golden like Cain's series and Gaunt's. 
->>> Also beware the messy English for it not my native.
->>> Well, he is more tough and self-centered than evil, dragging the hymanity to better future, **kicking and sreaming**, and also is not exactly human, but: 
->>>  Unification Wars were a giant massacre ended in enforcing of harsh law written by Himself and only himself. Not all of people he sentenced then were bad - they were unnecessary for his plan. Like a pretty good priest in the Last Church  by Graham McNeill. Also all warriors that he used for war were killed after its end. Means and tools to an end.
->>> During the Crusade several Worlds were destroyed. Genocide was considered bad last time I've checked.
->>> As was proofed in the Dark Imperium He never loved no man even his sons. Engineer, warrior, politic, mage and a lot more. Dad,huh? Not quite. Some people think that the Heresy florished upon daddy issues. Certainly true for Angron, Magnus, Kurze, Perturabo, Lorgar and Mortarion. Especially so for Angron and Lorgan: it cost him nothing to save Angron's comrades or not bombing the Lorgar's capital to make a point in argument.
->>> That's all I could remember apart from wild theories about sypreme only God of galaxy. Wanna more - try 40k forums.
 >>> 
+>>> Also beware the messy English for it not my native.
+>>> 
+>>> Well, he is more tough and self-centered than evil, dragging the hymanity to better future, **kicking and sreaming**, and also is not exactly human, but: 
+>>> 
+>>>  Unification Wars were a giant massacre ended in enforcing of harsh law written by Himself and only himself. Not all of people he sentenced then were bad - they were unnecessary for his plan. Like a pretty good priest in the Last Church  by Graham McNeill. Also all warriors that he used for war were killed after its end. Means and tools to an end.
+>>> 
+>>> During the Crusade several Worlds were destroyed. Genocide was considered bad last time I've checked.
+>>> 
+>>> As was proofed in the Dark Imperium He never loved no man even his sons. Engineer, warrior, politic, mage and a lot more. Dad,huh? Not quite. Some people think that the Heresy florished upon daddy issues. Certainly true for Angron, Magnus, Kurze, Perturabo, Lorgar and Mortarion. Especially so for Angron and Lorgan: it cost him nothing to save Angron's comrades or not bombing the Lorgar's capital to make a point in argument.
+>>> 
+>>> That's all I could remember apart from wild theories about sypreme only God of galaxy. Wanna more - try 40k forums.
 
->>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>> **u/VorpalAuroch** [+3]  *Life before Death* (a day later)
 >>> 
 >>> It got much worse under the religious perversion of his secular doctrine, but while he was still steering the ship it wasn't *good*. Fanatic xenophobia and mandatory xenocide, kill all who oppose joining his empire even if they're legitimately better for their citizens even in the long run (ex. the Diasporex), beat in faces for glory.
->>> 
 
->>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (5 days later)
 >>> 
 >>> > I'm only acquainted with canon. I thought the evil all came from perversions of his secular doctrine. Can you give examples?
->>> Even pre-Horus Heresy, the Emperor's policy was to purge xenos (aka: any sentient non-human species) and to squash human opposition *at any cost*. Anyone who wasn't willing to submit was crushed. Anyone who didn't want to let go their religious beliefs was brutally repressed. Granted, he had reasons for that behaviour (namely, hoped that by completely squashing religion he'd starve the Chaos Gods of faith and kill them), but it was still really tyrannical. In addition, he still was arrogant. He did cause the Horus Heresy, basically, first by letting Lorgar (the Word Bearer primarch) do his thing and then brutally humiliating him in front of his Legion, then by trusting Horus with the role of Warmaster. He was walking a very fine thread, but then committed some serious blunders which plunged his whole enterprise into Chaos (quite literally), rendering all the suffering he had inflicted all the more pointless.
 >>> 
+>>> Even pre-Horus Heresy, the Emperor's policy was to purge xenos (aka: any sentient non-human species) and to squash human opposition *at any cost*. Anyone who wasn't willing to submit was crushed. Anyone who didn't want to let go their religious beliefs was brutally repressed. Granted, he had reasons for that behaviour (namely, hoped that by completely squashing religion he'd starve the Chaos Gods of faith and kill them), but it was still really tyrannical. In addition, he still was arrogant. He did cause the Horus Heresy, basically, first by letting Lorgar (the Word Bearer primarch) do his thing and then brutally humiliating him in front of his Legion, then by trusting Horus with the role of Warmaster. He was walking a very fine thread, but then committed some serious blunders which plunged his whole enterprise into Chaos (quite literally), rendering all the suffering he had inflicted all the more pointless.
 
->> **u/Iconochasm** [+2] *
+>> **u/Iconochasm** [+2]  (17 hours later)
 >> 
 >> >Syper Powereds - well, haven't finished it yet, but probably fits. Praise the Globe.
->> As someone who has finished it, Globe does not fit at all, but other characters do.
 >> 
+>> As someone who has finished it, Globe does not fit at all, but other characters do.
 
->>> **u/panchoadrenalina** [+1] *
+>>> **u/panchoadrenalina** [+1]  (21 hours later)
 >>> 
 >>> I really liked the story of the main characters but didnt care one bit about the whole globe sub plot. Thus when the final tournament finished i stopped reading. Was it just me?
->>> 
 
->>>> **u/PotentiallySarcastic** [+2] *
+>>>> **u/PotentiallySarcastic** [+2]  (a day later)
 >>>> 
 >>>> The Globe subplot was important but really kind of off on it's own yeah.
->>>> Really liked it though because I really liked Globe. You missed some pretty awesome moments though.
 >>>> 
+>>>> Really liked it though because I really liked Globe. You missed some pretty awesome moments though.
 
->>> **u/Wolpertinger** [+1] *
+>>> **u/Wolpertinger** [+1]  (a day later)
 >>> 
 >>> Yeah, Globe's more Chaotic or Neutral Good - a great injustice that the law is actively being used to suppress means that you're morally obligated to become a criminal to reveal it - and then the moment it is revealed and the injustice righted, repents of what he had to do to get there.
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (21 hours later)
 > 
 > [removed]
-> 
 
->> **u/VorpalAuroch** [+3]  *Life before Death**
+>> **u/VorpalAuroch** [+3]  *Life before Death* (a day later)
 >> 
 >> Assuming you mean the baron, he's Lawful Asshole, starting as looking outright Evil, swapping around into merely Asshole, then after the Take-5 Bomb looking much more Evil again. Always reasonably well justified, since the alternatives (the Other, the Long War, the Polar Lords, Albia's (alleged?) thought police state) are legitimately much worse.
->> 
 
 ---
 

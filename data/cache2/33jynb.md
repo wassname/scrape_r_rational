@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.reddit.com/r/rational/comments/33jynb/a_question_about_writing_q/
-* Score: 6
+* Score: 7
 
 * Created: 2015-04-23T03:10:01
 
@@ -12,57 +12,55 @@ For the past 6 months, I've been writing a rational!Danganronpa fic(I've posted 
 
 ### Comments:
 
-> **u/alexanderwales** [+6]  *Time flies like an arrow**
+> **u/alexanderwales** [+6]  *Time flies like an arrow* (12 minutes later)
 > 
 > It depends.
-> Understanding why something isn't as good as it could be and then fixing it is a crucial skill for a writer - one that a lot of people, especially those that post online, never pick up (understandably, because it's often boring). I'd suggest doing an edit or rewrite just for that alone.
-> It's not the best thing to do if you want an increased readership - you might lose some of the people currently paying attention, and a relaunch doesn't tend to be that great for any creative endeavor, but this is variable on how much improvement you think that you can do.
 > 
+> Understanding why something isn't as good as it could be and then fixing it is a crucial skill for a writer - one that a lot of people, especially those that post online, never pick up (understandably, because it's often boring). I'd suggest doing an edit or rewrite just for that alone.
+> 
+> It's not the best thing to do if you want an increased readership - you might lose some of the people currently paying attention, and a relaunch doesn't tend to be that great for any creative endeavor, but this is variable on how much improvement you think that you can do.
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (14 minutes later)
 >> 
 >> Rather than a full relaunch, I was planning to just repost the updated version chapter by chapter on FFN on the old story, perhaps interweaving the revisions with updates to avoid losing readers--would that ameliorate the latter?
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (15 minutes later)
 >>> 
 >>> That would probably work. As /u/rineSample says, there is a trap of endless revision that you don't want to get into, so just be aware of that.
->>> 
 
->>>> **u/avret** [+1]  *SDHS rationalist**
+>>>> **u/avret** [+1]  *SDHS rationalist* (19 minutes later)
 >>>> 
 >>>> Ok, thanks!
->>>> 
 
-> **u/E-o_o-3** [+3] *
+> **u/E-o_o-3** [+3]  (2 hours later)
 > 
 > What are your goals? Are you asking what we want as readers or what you should do to be a better writer?
-> (As a reader, I typically don't actually read re-writes, even of stories I enjoy, unless I was gonna read it twice anyway and re-reading/re-watching meida isn't really ever a thing I ever do as an adult. As a writer, re-writing and refining past work sounds like the sort of thing which is vaguely skill-upgrading, I think?)
 > 
+> (As a reader, I typically don't actually read re-writes, even of stories I enjoy, unless I was gonna read it twice anyway and re-reading/re-watching meida isn't really ever a thing I ever do as an adult. As a writer, re-writing and refining past work sounds like the sort of thing which is vaguely skill-upgrading, I think?)
 
-> **u/rineSample** [+5] *
+> **u/rineSample** [+5]  (9 minutes later)
 > 
 > Finish your current arc. For some writers, what can happen is that they get stuck in an endless loop of revisions, and write nothing new for their work.
-> source(s): personal experience
 > 
+> source(s): personal experience
 
->> **u/derefr** [+3] *
+>> **u/derefr** [+3]  (28 minutes later)
 >> 
 >> Seconding that (personal experience as well.)
->> These days, at most, I would leave an author's note on the top of the first chapter, with an "if you don't like the first few chapters, don't worry, it's not all this bad!" (sort of like HPMOR's "people say it picks up in Chapter 5.")
->> Or, if you're feeling particularly petulant toward your past self, maybe you could consider writing a little *outline* for the revisions you'd like to make, and linking your readers to that. Sort of hanging a lampshade on all the problems to prove to your new readers that you're now the sort of writer who would recognize them—even if you haven't had time to do anything about them just yet.
 >> 
+>> These days, at most, I would leave an author's note on the top of the first chapter, with an "if you don't like the first few chapters, don't worry, it's not all this bad!" (sort of like HPMOR's "people say it picks up in Chapter 5.")
+>> 
+>> Or, if you're feeling particularly petulant toward your past self, maybe you could consider writing a little *outline* for the revisions you'd like to make, and linking your readers to that. Sort of hanging a lampshade on all the problems to prove to your new readers that you're now the sort of writer who would recognize them—even if you haven't had time to do anything about them just yet.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (12 hours later)
 > 
 > Can you fix it within a reasonably short time period? Say, a week at your current rate? Then go for it. Otherwise, I'd skip it and take the lessons on to the next arcs and next projects.
-> 
 
-> **u/wendigo_days** [+1] *
+> **u/wendigo_days** [+1]  (13 hours later)
 > 
 > What would definitely not be a waste is rewriting the first two chapters to your skill's maximum, to get readers. 
-> Beyond that, only revise if you have significant plot changes to make; just repainting prose is drudgelike, and a training story isn't worth that boredom for. Plus, presumably when you finish your next arc you'll be even better?
 > 
+> Beyond that, only revise if you have significant plot changes to make; just repainting prose is drudgelike, and a training story isn't worth that boredom for. Plus, presumably when you finish your next arc you'll be even better?
 
 ---
 

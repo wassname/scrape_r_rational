@@ -2,7 +2,7 @@
 
 * Author: u/VorpalAuroch  *Life before Death**
 * URL: https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix
-* Score: 16
+* Score: 18
 
 * Created: 2014-09-16T11:27:53
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/VorpalAuroch** [+6]  *Life before Death**
+> **u/VorpalAuroch** [+7]  *Life before Death* (49 seconds later)
 > 
 > Crossposted from /r/HPMoR; hat tip to /u/Bulwersator.
-> 
 
 ---
 

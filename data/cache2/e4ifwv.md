@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/e4ifwv/pyrebound_103/
-* Score: 22
+* Score: 23
 
 * Created: 2019-12-01T15:02:00
 
@@ -16,15 +16,13 @@ As ever, let me know what works, doesn't work, raises weird questions, etc.  Tha
 
 ### Comments:
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (a day later)
 > 
 > It's great to see how Ram has learned how to capitalize on his ability to irritate Imbri to get some answers.
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (4 days later)
 >> 
 >> I suppose their relationship is developing about as quickly as you could reasonably expect it to, given Imbri's fear of impulsive behavior and Ram's borderline possession by a spirit with seriously assholish tendencies.
->> 
 
 ---
 

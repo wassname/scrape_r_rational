@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/narfanator** [+1] *
+> **u/narfanator** [+1]  (20 hours later)
 > 
 > I like the story, but the voice changes from an impartial narrative to a person on the ground, and it's a little weird. It might be as a simple as a change between article (the drones did...) and pronouns (I watched the drones as they....)
-> 
 
 ---
 

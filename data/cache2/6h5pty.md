@@ -2,7 +2,7 @@
 
 * Author: u/MoralRelativity *
 * URL: https://practicalguidetoevil.wordpress.com/2017/06/14/chapter-14-trick/
-* Score: 26
+* Score: 29
 
 * Created: 2017-06-14T06:18:01
 
@@ -12,66 +12,61 @@
 
 ### Comments:
 
-> **u/Arganthonius** [+10] *
+> **u/Arganthonius** [+10]  (7 hours later)
 > 
 > I would have liked a mention of her breaking the angel wing before, so Break doesn't come so out of left field.
-> 
 
->> **u/None** [+9] *
+>> **u/None** [+10]  (9 hours later)
 >> 
 >> Eh, we're outright told she has an aspect that she gained during the timeskip that she's kept hidden. It doesn't come out of left field for me.
->> 
 
->> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you* (10 hours later)
 >> 
 >> It was suggested in the comments before, so it's not that left-fieldish.
->> 
 
-> **u/MoralRelativity** [+7] *
+> **u/MoralRelativity** [+7]  (21 minutes later)
 > 
 > Woah, I was NOT expecting that particular ending.
-> What is going to happen next?
 > 
+> What is going to happen next?
 
->> **u/JdubCT** [+7] *
+>> **u/JdubCT** [+8]  (26 minutes later)
 >> 
 >> I totes called it! I'm thinking she's now a Duchess of Winter who'll have to fight Summer.
->> How coincidental that Summer is wreaking havoc in the south of Callow eh?
->> (I keep hoping she'll be a Fae Knight and bypass the whole having Black be forced to die thing but we know that's not happening)
->> Edit: I love how her new aspect is pretty much perfect for her. She encounters something troubling she either takes or breaks it. How Catherine is that?
 >> 
+>> How coincidental that Summer is wreaking havoc in the south of Callow eh?
+>> 
+>> (I keep hoping she'll be a Fae Knight and bypass the whole having Black be forced to die thing but we know that's not happening)
+>> 
+>> Edit: I love how her new aspect is pretty much perfect for her. She encounters something troubling she either takes or breaks it. How Catherine is that?
 
->>> **u/melmonella** [+7]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+7]  *Tremble, o ye mighty, for a new age is upon you* (an hour later)
 >>> 
 >>> I think she'll go to Duchess of Winter, not Fae Knight. Dukes have squires, so it's not an illogical transition. And given that her whole story seems to be about the *new*, about unprecedented things such as unifying Callow and Praes and about Breaking things she doesn't like, I don't think it would fit for her to have such a cliche' Name transition as Squire->Black Knight.
->>> 
 
->>>> **u/JdubCT** [+5] *
+>>>> **u/JdubCT** [+5]  (an hour later)
 >>>> 
 >>>> Well my only issue with that is that she hasn't achieved her third aspect yet. Thematically it makes more sense for her to upgrade after she's tapped out the squire well not before.
->>>> 
 
->>>>> **u/melmonella** [+3]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>> **u/melmonella** [+3]  *Tremble, o ye mighty, for a new age is upon you* (10 hours later)
 >>>>> 
 >>>>> She can tap out squire and upgrade simultaneously. And it's not like she has to transform now-she is bound to Winter for good now, no going back.
->>>>> 
 
->>>>>> **u/Nic_Cage_DM** [+3] *
+>>>>>> **u/Nic_Cage_DM** [+3]  (a day later)
 >>>>>> 
 >>>>>> I don't think that's a certainty yet
->>>>>> 
 
-> **u/AurelianoTampa** [+3] *
+> **u/AurelianoTampa** [+3]  (4 days later)
 > 
 > Take, Break... Make? Remake? Fake? Shake? Bake (Goblinfire, ho!)? I'm just going with a rhyming scheme here now :-P 
-> While I do like that we get an explanation of what happened to the Penitent's Blade, I will admit I didn't even think of it until this chapter brought it up. I guess I just assumed it was left behind...? That's the problem when plot threads are left unmentioned for months on end - you forget they exist unless you reread! That said, shattering it into a hundred pieces and scattering them is just BEGGING for a hero to come along to reforge them. I'm honestly not sure what was meant by "I saw my death writ on its edge." Metaphorical? Literal? Tough to say.
-> I am curious what the difference between Cat's "Break" and Black's "Destroy" are. Is Break simply a lesser version of the latter, or is it a different concept? Because breaking the rules of the meta-game seem to be what both she and Black strive to do - I wonder if their abilities reflect that desire or do they force them to act within the Names and Roles ascribed to them? Out of the two, I think Break fits the overall goal better than Destroy...
 > 
+> While I do like that we get an explanation of what happened to the Penitent's Blade, I will admit I didn't even think of it until this chapter brought it up. I guess I just assumed it was left behind...? That's the problem when plot threads are left unmentioned for months on end - you forget they exist unless you reread! That said, shattering it into a hundred pieces and scattering them is just BEGGING for a hero to come along to reforge them. I'm honestly not sure what was meant by "I saw my death writ on its edge." Metaphorical? Literal? Tough to say.
+> 
+> I am curious what the difference between Cat's "Break" and Black's "Destroy" are. Is Break simply a lesser version of the latter, or is it a different concept? Because breaking the rules of the meta-game seem to be what both she and Black strive to do - I wonder if their abilities reflect that desire or do they force them to act within the Names and Roles ascribed to them? Out of the two, I think Break fits the overall goal better than Destroy...
 
->> **u/JdubCT** [+2] *
+>> **u/JdubCT** [+2]  (5 days later)
 >> 
 >> I mentioned above. But in the excerpts from future memoirs about Cat its mentioned that if she encounters something in her way she'll either break it or steal it. I wonder what her third aspect is going to be.
->> 
 
 ---
 

@@ -12,27 +12,25 @@
 
 ### Comments:
 
-> **u/goocy** [+7] *
+> **u/goocy** [+7]  (26 minutes later)
 > 
 > The perfect example on [why intelligence isn't the opposite of stupidity](http://lesswrong.com/lw/lw/reversed_stupidity_is_not_intelligence/). Harry in this story behaves like an average person *imagines* hyper-intelligent people to behave, and the story is written around him so it doesn't become a problem.
-> 
 
->> **u/Askspencerhill** [+2]  *I almost stole Cruithne's flair**
+>> **u/Askspencerhill** [+2]  *I almost stole Cruithne's flair* (4 days later)
 >> 
 >> Yeah, that's what I was thinking. Given the parallels to HPMOR and the fact that it's far less realistic and rationalist, it almost feels like a how-not-to-write-like-Eliezer guide.
->> 
 
-> **u/someonewrongonthenet** [+1] *
+> **u/someonewrongonthenet** [+1]  (8 hours later)
 > 
 > *twitch*...so many science mistakes on one page...
-> not rationalist at all, but written ok as ff goes.
 > 
+> not rationalist at all, but written ok as ff goes.
 
->> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (9 hours later)
 >> 
 >> Just remember it's not Science at all, it's *Mad Science!!!!!* - the difference is that one works, and the other usually crops up in media.  
->> I agree that it's not really rationalist at all though... nor does it fit the [HSF] tag.
 >> 
+>> I agree that it's not really rationalist at all though... nor does it fit the [HSF] tag.
 
 ---
 

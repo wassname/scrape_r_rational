@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.royalroad.com/fiction/22559/on-snowy-shores/chapter/409945/burial-13-interlude-a
-* Score: 8
+* Score: 6
 
 * Created: 2019-10-04T20:30:36
 

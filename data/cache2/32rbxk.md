@@ -12,32 +12,29 @@
 
 ### Comments:
 
-> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (2 hours later)
 > 
 > >A subreddit dedicated to the discussion of works of rational and rationalist fiction.
-> Is this post on-topic somehow?  Because it looks like an unrelated image :(
 > 
+> Is this post on-topic somehow?  Because it looks like an unrelated image :(
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+2]  (an hour later)
 > 
 > So, evil twin replaces Twilight Sparkle?
-> 
 
-> **u/ThatDamnSJW** [+2] *
+> **u/ThatDamnSJW** [+2]  (50 minutes later)
 > 
 > It's spoilers for Rainbow Rocks and EG in general, but not for the main series.
-> (Probably wouldn't actually work out, Celestia would notice something was off when her student stopped being perfect at magic.)
 > 
+> (Probably wouldn't actually work out, Celestia would notice something was off when her student stopped being perfect at magic.)
 
-> **u/None** [+2] *
+> **u/None** [+2]  (31 seconds later)
 > 
 > CUZ I DEFINITELY DON'T WATCH THAT SHOW FOR LITTLE GIRLS
-> 
 
-> **u/Transfuturist** [+1]  *Carthago delenda est.**
+> **u/Transfuturist** [+1]  *Carthago delenda est.* (25 minutes later)
 > 
 > I certainly hope it's not spoilers.
-> 
 
 ---
 

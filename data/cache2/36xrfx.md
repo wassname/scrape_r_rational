@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (24 seconds later)
 > 
 > /r/HPMOR comments page:
-> http://www.reddit.com/r/HPMOR/comments/36xrgq/significant_digits_chapter_eight_morse_four_okay/
 > 
+> http://www.reddit.com/r/HPMOR/comments/36xrgq/significant_digits_chapter_eight_morse_four_okay/
 
 ---
 

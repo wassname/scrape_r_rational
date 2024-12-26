@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://heroessavetheworld.wordpress.com/2016/12/16/awful-shadow-ch-2-hannah-johnson/
-* Score: 7
+* Score: 8
 
 * Created: 2016-12-16T06:10:11
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (3 hours later)
 > 
 > I think you slipped up into a second person viewpoint here:
-> >he finally tells you.
 > 
+> >he finally tells you.
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (13 hours later)
 >> 
 >> Whoops! Not sure how *that* happened.
->> 
 
 ---
 

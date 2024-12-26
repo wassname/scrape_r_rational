@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://delphicserial.com/2018/12/05/chapter-23-2/
-* Score: 20
+* Score: 22
 
 * Created: 2018-12-06T11:59:29
 
@@ -12,17 +12,15 @@
 
 ### Comments:
 
-> **u/LimeDog** [+2] *
+> **u/LimeDog** [+2]  (2 hours later)
 > 
 > Wasn't this uploaded earlier? What happened to old thread?
-> 
 
->> **u/ViceroyChobani** [+2]  *Reserve Pigeon Army**
+>> **u/ViceroyChobani** [+2]  *Reserve Pigeon Army* (3 days later)
 >> 
 >> HAH. 
-
->> Because...the chapter name...get it?
 >> 
+>> Because...the chapter name...get it?
 
 ---
 

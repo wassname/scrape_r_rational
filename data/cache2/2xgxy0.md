@@ -2,7 +2,7 @@
 
 * Author: u/glennonymous  *Friendly AI Alliance**
 * URL: http://www.glennthomasdavis.com/books/14-landing/
-* Score: 5
+* Score: 4
 
 * Created: 2015-02-28T16:19:41
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (a day later)
 > 
 > I don't really have a sense of where this is going. I can tell the story's building up to a climax, but I don't think I understand the stakes. Why is it this moment that's important, giving a book to a young Turing? Other than "we're from the future, causality says the attack is now", why do they intervene at this moment and not, say, during Erica's parents' first date?
-> Is Erica expected to a galaxy-spanning AI on her own, with nothing but her precognitive (paracognitive?) abilities to lean on? Seeing the future is powerful, but it's not a weapon, and nor is the Termizion - short of jumping to a universe where the Antibody is already defeated, I don't see how she can win this. Does that count? I don't think that counts.
 > 
+> Is Erica expected to a galaxy-spanning AI on her own, with nothing but her precognitive (paracognitive?) abilities to lean on? Seeing the future is powerful, but it's not a weapon, and nor is the Termizion - short of jumping to a universe where the Antibody is already defeated, I don't see how she can win this. Does that count? I don't think that counts.
 
 ---
 

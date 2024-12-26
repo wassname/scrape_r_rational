@@ -14,15 +14,13 @@ Labour relations break down in Asgard.
 
 ### Comments:
 
-> **u/HeartwarmingLies** [+3] *
+> **u/HeartwarmingLies** [+3]  (21 hours later)
 > 
 > Can I get the pitch for this story?
-> 
 
->> **u/Wizard-of-Woah** [+1] *
+>> **u/Wizard-of-Woah** [+1]  (23 hours later)
 >> 
 >> X-Men, but it's a cult in the Australian countryside after Superman stole all the nukes during the Cuban Missle Crisis. Eventually the survivors build their own city in the outback. Shenanigans inbetween
->> 
 
 ---
 

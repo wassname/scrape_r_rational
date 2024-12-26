@@ -2,7 +2,7 @@
 
 * Author: u/HerMajerstyThrowaway *
 * URL: https://www.reddit.com/r/rational/comments/lj91ca/world_of_nulla_return_on_investment/
-* Score: 15
+* Score: 14
 
 * Created: 2021-02-13T20:55:03
 
@@ -16,15 +16,13 @@ Generally no spoilers please :-), I suspect I will end up finishing it. But I wo
 
 ### Comments:
 
-> **u/ConscientiousPath** [+2] *
+> **u/ConscientiousPath** [+2]  (10 hours later)
 > 
 > It's been a few years since I read it. I don't think it went into super deep detail on the actual techniques. There was definitely some mostly along more philosophical lines than practical ones, but don't expect to get a full-on rationalist explanation based on real life cog-science cause the field basically didn't exist yet when the book was written. The twists in the last half of the book ended up being really good though--definitely worth finishing.
-> 
 
-> **u/novalisDMT** [+1] *
+> **u/novalisDMT** [+1]  (a day later)
 > 
 > Maybe you'll laugh a bit harder when you read Null-O, by Philip K Dick.  But you've already read enough to see what Dick is responding to.
-> 
 
 ---
 

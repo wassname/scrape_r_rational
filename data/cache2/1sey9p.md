@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 9
+* Score: 7
 
 * Created: 2013-12-08T22:36:08
 
@@ -12,36 +12,31 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (12 seconds later)
 > 
 > Not saying it's *good*, but hey.
-> 
 
->> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (8 days later)
 >> 
 >> Anything using that oath...
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (8 days later)
 >>> 
 >>> And then it turns out that Duane invented the word "extropy", which kinda threw me for a loop because I'm all like, "Fuck, I grew up on her books! Halp, I call brainwashing!"
->>> 
 
->> **u/boomfarmer** [+1]  *Trying to be helpful**
+>> **u/boomfarmer** [+1]  *Trying to be helpful* (10 days later)
 >> 
 >> Sort out your Breath/Breathe usage, please. That one really bugs me.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (11 days later)
 >>> 
 >>> Sorry.  I was formally required to pretend it totally wasn't TTGL fanfic.
->>> 
 
-> **u/None** [+0] *
+> **u/None** [+0]  (14 days later)
 > 
 > Haha! Capital letters!
-> I gave up, not because it looked bad, per se, but because was so cringingly adolescent in style. If you wrote it ten years ago, then it might be pretty good if you rewrote it now.
 > 
+> I gave up, not because it looked bad, per se, but because was so cringingly adolescent in style. If you wrote it ten years ago, then it might be pretty good if you rewrote it now.
 
 ---
 

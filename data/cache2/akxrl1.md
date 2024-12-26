@@ -2,7 +2,7 @@
 
 * Author: u/Riyonak *
 * URL: https://moodylit.com/the-good-student-table-of-contents/book-2-chapter-eleven
-* Score: 42
+* Score: 38
 
 * Created: 2019-01-29T07:41:41
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Riyonak** [+11] *
+> **u/Riyonak** [+11]  (15 minutes later)
 > 
 > >“Come, come, Nic. You have experience in this sort of thing now. You can see patterns, can’t you? What does a poor, helpless boy like you always do? You wait to be rescued.”
-> Oof that's rough. I don't think there's anything more you could say to Nic that would cut deeper. Even if he often uses his helplessness to his advantage, he has really gotten tired of this role.
 > 
+> Oof that's rough. I don't think there's anything more you could say to Nic that would cut deeper. Even if he often uses his helplessness to his advantage, he has really gotten tired of this role.
 
->> **u/razorfloss** [+2] *
+>> **u/razorfloss** [+2]  (9 hours later)
 >> 
 >> I'm just waiting on him to snap
->> 
 
 ---
 

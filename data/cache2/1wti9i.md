@@ -2,7 +2,7 @@
 
 * Author: u/occasional-redditor *
 * URL: http://www.sfwriter.com/sthand.htm
-* Score: 4
+* Score: 5
 
 * Created: 2014-02-02T17:46:24
 

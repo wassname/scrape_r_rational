@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: https://www.reddit.com/r/rational/comments/5f7acb/wip_sideways_in_hyperspace_will_return_on/
-* Score: 11
+* Score: 10
 
 * Created: 2016-11-27T20:22:18
 
@@ -30,15 +30,13 @@ I'm also still taking applications for beta readers, so PM me if you have any in
 
 ### Comments:
 
-> **u/MoralRelativity** [+1] *
+> **u/MoralRelativity** [+1]  (19 minutes later)
 > 
 > *happy dance*
-> 
 
-> **u/jldew** [+1] *
+> **u/jldew** [+1]  (16 hours later)
 > 
 > Yes.
-> 
 
 ---
 

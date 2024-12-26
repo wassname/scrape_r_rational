@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: https://sidewaysfiction.wordpress.com/2017/07/02/parallel-graves/
-* Score: 11
+* Score: 13
 
 * Created: 2017-07-02T18:06:05
 
@@ -12,18 +12,19 @@
 
 ### Comments:
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (2 hours later)
 > 
 > Typos:
-> palatable grimness/palpable grimness
-> seek our new alien life/seek out new alien life
-> the warrior's eyes darting/the warriors' eyes darting
 > 
+> palatable grimness/palpable grimness
+> 
+> seek our new alien life/seek out new alien life
+> 
+> the warrior's eyes darting/the warriors' eyes darting
 
-> **u/MaddoScientisto** [+1] *
+> **u/MaddoScientisto** [+1]  (14 hours later)
 > 
 > It's time to in hyperspace... sideways!
-> 
 
 ---
 

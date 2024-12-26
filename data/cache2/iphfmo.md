@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/rizcoco** [+6] *
+> **u/rizcoco** [+7]  (an hour later)
 > 
 > If you're going to self promote and ask for writing tips then at least explain why your story fits this sub. This subreddit isn't for spamming self promotion just to get more readers.
-> 
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (5 hours later)
 >> 
 >> They've never even participated in this subreddit before. Stuff like this should be removed by mods
->> 
 
->>> **u/ketura** [+1]  *Organizer**
+>>> **u/ketura** [+1]  *Organizer* (5 hours later)
 >>> 
 >>> Automod indeed nuked it! Thank you all for your reports.
->>> 
 
 ---
 

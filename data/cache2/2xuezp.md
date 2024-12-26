@@ -2,7 +2,7 @@
 
 * Author: u/Adamantium9001  *United Federation of Planets**
 * URL: https://www.reddit.com/r/rational/comments/2xuezp/rtdcd_life_is_strange_methods_of_convincing/
-* Score: 6
+* Score: 7
 
 * Created: 2015-03-03T23:27:12
 
@@ -62,7 +62,7 @@ The bigger game-breaker:
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (6 hours later)
 > 
 > 1. Receive seeds from step 5.
 > 2. Plant seeds.
@@ -71,89 +71,86 @@ The bigger game-breaker:
 > 5. Send some of the seeds back to step 1.
 > 6. Sell exotic plants.
 > 7. Profit.
-> 
 
->> **u/Aabcehmu112358** [+2]  *Utter Fallacy**
+>> **u/Aabcehmu112358** [+2]  *Utter Fallacy* (21 hours later)
 >> 
 >> Trying to grow originless plants, and interacting with originless life in general always seemed like a dangerous idea to me. It feels like a dangerous assumption, assuming that you are actually in control of what you end up summoning.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (21 hours later)
 >>> 
 >>> True. A safer idea would be a variant of Harry's prime-factoring experiment, where you copy down whatever message you receive, so as to invite Time to talk to you.
->>> 
 
->>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+>>>> **u/Aabcehmu112358** [+1]  *Utter Fallacy* (21 hours later)
 >>>> 
 >>>> That's an interesting possibility. What do you think of, instead of trying to squeeze some computational power out of Time (or maybe after you tried, and got a distressingly coherent demand to stop), you decide to start putting letters down on the page, and promise that if, say, a letter isn't underlined, you'll change it to the next one in the alphabet, and if it is, then you'll leave it be and move on to the next. Maybe cycle through ASCII to give Time some symbols to right or draw with. Might be an interesting way of introducing Time as an actual character on some level.
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (22 hours later)
 >>>>> 
 >>>>> I think that's *more* likely to cause Time to object. My version doesn't try to blackmail Time with paradox.
->>>>> 
 
->> **u/DCarrier** [+1] *
+>> **u/DCarrier** [+1]  (5 days later)
 >> 
 >> It's pretty clear from the examples above that we're dealing with multiple timelines. Your example only works for single timeline.
->> 
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (16 hours later)
 > 
 > I have no additional solutions, I just wanted to say that I really enjoyed the game so far, despite the fact that the main character is really weak-willed (I assume to give her room to grow in the next four chapters) and the science fiction aspect of it is almost completely unexplored. It's just really novel for a point-and-click game to give you the ability to rewind time, and they do a few of the clever things that the game Braid did with the mechanic.
-> I do, however, want to see what the story would look like with an actually competent protagonist instead of one that just wanders around the high school campus and uses this godly, broken power for conversational gambits. (If only the movie *Next* were better, I would rewatch it to scratch my itch.)
 > 
+> I do, however, want to see what the story would look like with an actually competent protagonist instead of one that just wanders around the high school campus and uses this godly, broken power for conversational gambits. (If only the movie *Next* were better, I would rewatch it to scratch my itch.)
 
->> **u/Sparkwitch** [+2] *
+>> **u/Sparkwitch** [+2]  (3 months later)
 >> 
 >> [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/)?
->> I'll admit that particular version has a major disadvantage, but the former possessor of the power figured out a pretty straightforward workaround for it.
 >> 
+>> I'll admit that particular version has a major disadvantage, but the former possessor of the power figured out a pretty straightforward workaround for it.
 
-> **u/ulyssessword** [+2] *
+> **u/ulyssessword** [+2]  (an hour later)
 > 
 > >The game-breaker:
+> 
 > >1. Get them to lend you a unique object (signed photo, original artwork, etc.)
 > 2. Rewind. Now there's two of them.
 > 3. Profit. Literally, if you repeat the procedure with money.
-
-> Don't do this with cash, do it with something valuable for its own sake.  Making more money doesn't actually help the world, it just redistributes the existing wealth a bit more in your favor.
-> Instead, start a store where you have one of everything in the back room.  You could trade away anything from bags of diamonds (that started out as one diamond, before you doubled it a few times) to graphics cards and CPUs, to rare earth metals.  
-> You have the potential to replace a lot of mining and manufacturing at trivially low costs.  It would be a shame to waste that.
 > 
+> Don't do this with cash, do it with something valuable for its own sake.  Making more money doesn't actually help the world, it just redistributes the existing wealth a bit more in your favor.
+> 
+> Instead, start a store where you have one of everything in the back room.  You could trade away anything from bags of diamonds (that started out as one diamond, before you doubled it a few times) to graphics cards and CPUs, to rare earth metals.  
+> 
+> You have the potential to replace a lot of mining and manufacturing at trivially low costs.  It would be a shame to waste that.
 
->> **u/MadScientist14159** [+4]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+>> **u/MadScientist14159** [+4]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (2 hours later)
 >> 
 >> This could solve, and cause, a lot of problems.
->> Got a medicine/tool/foodstuff/etc. that's hard to mass produce?
->> Rewind it back, now you have two. Put both down, then pick them up again. Rewind to when you put them down, now you have four. Repeat until your inventory is so large that it causes the universe to lag.
->> Hey, come to think of it, that solves entropy! No more heat death for Max!
 >> 
+>> Got a medicine/tool/foodstuff/etc. that's hard to mass produce?
+>> 
+>> Rewind it back, now you have two. Put both down, then pick them up again. Rewind to when you put them down, now you have four. Repeat until your inventory is so large that it causes the universe to lag.
+>> 
+>> Hey, come to think of it, that solves entropy! No more heat death for Max!
 
->> **u/Adamantium9001** [+2]  *United Federation of Planets**
+>> **u/Adamantium9001** [+2]  *United Federation of Planets* (4 hours later)
 >> 
 >> Oh, I know. I was just thinking small-time.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 hours later)
 >> 
 >> You can't *permanently* duplicate things, because you have to take all but one back in time at the end of the demonstration.
->> 
 
->>> **u/Adamantium9001** [+1]  *United Federation of Planets**
+>>> **u/Adamantium9001** [+1]  *United Federation of Planets* (4 hours later)
 >>> 
 >>> I can't make heads or tails of your reasoning, but I'm sure your conclusion is wrong. Let's break it down:
+>>> 
 >>> 1. At t=0, there is an item on the table.
 >>> 2. At t=1, you pick it up. Now it's in your hand.
 >>> 3. Rewind to t=0. The item in your hand stays, but as t passes 1 going backwards, you see your past self's hand placing another copy of the item on the table (picking it up in reverse).
 >>> 4. When you stop rewinding, there will be an item on the table and one in your hand. So if you stopped right here, there would permanently be two of them.
 >>> 5. Put the one in your hand on the table.
 >>> 6. Repeat the whole procedure as many times as you want. Infinite everything. And yes, as /u/MadScientist14159 pointed out, goodbye 2nd Law of Thermodynamics.
->>> 
 
->>>> **u/therearetoomanydaves** [+1] *
+>>>> **u/therearetoomanydaves** [+1]  (5 days later)
 >>>> 
 >>>> You don't get infinite everything.  Assume you are invisible when traveling backwards to minimize confusion.  From an outsider's perspective, this is what happens:
+>>>> 
 >>>> * At t = -3, there is an item(1) on the table
 >>>> * At t = -2, another copy of you 'beams in'.
 >>>> * At t = -1, the just-arrived you put another item(2) on the table.
@@ -161,42 +158,40 @@ The bigger game-breaker:
 >>>> * At t = 1, the original you takes item(1).
 >>>> * At t = 2, tHe original you 'beams out'.
 >>>> * At t = 3, there is one item on the table(2).
->>>> 
 
->>>> **u/None** [+0] *
+>>>> **u/None** [+0]  (5 hours later)
 >>>> 
 >>>> If by "stopped right there", you mean permanently paused the flow of time, then yes, that works. But if you want to go to the store and buy things, then you're going to have to let time start flowing forwards again, and at some point you pass t=1 again going forwards, and you see yourself pick the item back up.
->>>> edit: unless you can *change* the past, but I got the impression that we're working with a single-consistent-timeline model in this thread.
 >>>> 
+>>>> edit: unless you can *change* the past, but I got the impression that we're working with a single-consistent-timeline model in this thread.
 
->>>>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+>>>>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (10 hours later)
 >>>>> 
 >>>>> >but I got the impression that we're working with a single-consistent-timeline model in this thread.
->>>>> No, we're talking about time travel in the *Life Is Strange* game, where history can be changed.
 >>>>> 
+>>>>> No, we're talking about time travel in the *Life Is Strange* game, where history can be changed.
 
->>>>> **u/Adamantium9001** [+2]  *United Federation of Planets**
+>>>>> **u/Adamantium9001** [+2]  *United Federation of Planets* (18 hours later)
 >>>>> 
 >>>>> Oh, so there's your misunderstanding. In step 4, by "stop rewinding," I meant, "allow time to start flowing normally again." And by "stop right here," I meant, "discontinue further time-travel antics," or "break out of this algorithm." The game mechanics are more like those found in *Back to the Future* than those in *Harry Potter*, so when you rewind to a certain point in time, all effects you had on the world after that point in time are effectively erased and you get a do-over, with your mind, body, and objects you have on your person persisting through the rewind.
->>>>> 
 
-> **u/rthomas2** [+1] *
+> **u/rthomas2** [+1]  (18 hours later)
 > 
 > Predict big things, like lotto numbers or the weather.  Many things are impossible to fake, but giant glaring things *feel* unfakable.
-> 
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (2 days later)
 > 
 > How far can you rewind?  Can you pick up a MacBookPro and full documentation on how to build it and rewind 10 years?  It would need a LOT of documentation, but that would easily fit on a harddrive.  
-> If you can do this, then you have just caused the Singularity.  You go back 10 years to t=0, give a tech boost.  Wait 10 years, then return to t=0 with the *new* hottest tech.  Repeat.
-> Actually, this would be the solution to Friendly AI.  You create an AI and keep a copy of its source code.  If it's Friendly, stop.  If not, go back 10 years with the source code and tell them "try again."
-> Even if your limit is a few minutes, you could ensure the success of any parameterized operation -- note the parameters, watch the results, then go back to just before the  test and tell them "don't use these parameters."  Just make sure you always bring a list of all the failed parameters.
 > 
+> If you can do this, then you have just caused the Singularity.  You go back 10 years to t=0, give a tech boost.  Wait 10 years, then return to t=0 with the *new* hottest tech.  Repeat.
+> 
+> Actually, this would be the solution to Friendly AI.  You create an AI and keep a copy of its source code.  If it's Friendly, stop.  If not, go back 10 years with the source code and tell them "try again."
+> 
+> Even if your limit is a few minutes, you could ensure the success of any parameterized operation -- note the parameters, watch the results, then go back to just before the  test and tell them "don't use these parameters."  Just make sure you always bring a list of all the failed parameters.
 
->> **u/DCarrier** [+1] *
+>> **u/DCarrier** [+1]  (5 days later)
 >> 
 >> If it's not Friendly, it will convince you it is. Or just reverse-engineer your superpower.
->> 
 
 ---
 

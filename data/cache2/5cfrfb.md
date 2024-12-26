@@ -23,46 +23,39 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/XxChronOblivionxX** [+3] *
+> **u/XxChronOblivionxX** [+3]  (46 minutes later)
 > 
 > I'm so happy I actually managed to write this as quickly as I did. Especially considering the dubious nature of Akane's future presence in this quest.
-> 
 
->> **u/oliwhail** [+3]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+3]  *Omake-Maximizing AGI* (an hour later)
 >> 
 >> Nooo Best Apprentice will be with us forever!!!
->> 
 
->>> **u/eaglejarl** [+3] *
+>>> **u/eaglejarl** [+3]  (5 hours later)
 >>> 
 >>> Yeah....
->>> About that....
 >>> 
+>>> About that....
 
->>>> **u/XxChronOblivionxX** [+3] *
+>>>> **u/XxChronOblivionxX** [+5]  (8 hours later)
 >>>> 
 >>>> don't you do this to me
->>>> 
 
->>>>> **u/Cariyaga** [+4]  *Kyubey did nothing wrong**
+>>>>> **u/Cariyaga** [+4]  *Kyubey did nothing wrong* (12 hours later)
 >>>>> 
 >>>>> [X] Action Plan: Team Uplift: Slowly go insane without Akane's moderating influence.
->>>>> 
 
->>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (6 hours later)
 >>>> 
 >>>> noooooooooooo :(
->>>> 
 
->>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (6 hours later)
 >>> 
 >>> aaaaaaaaa what do we do?!
->>> 
 
->>>> **u/faflec** [+3] *
+>>>> **u/faflec** [+3]  (9 hours later)
 >>>> 
 >>>> SCREAM IN KAGOME
->>>> 
 
 ---
 

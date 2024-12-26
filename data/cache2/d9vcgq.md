@@ -2,7 +2,7 @@
 
 * Author: u/westward101 *
 * URL: https://www.reddit.com/r/rational/comments/d9vcgq/like_to_listen/
-* Score: 13
+* Score: 12
 
 * Created: 2019-09-27T04:30:52
 
@@ -16,26 +16,23 @@ Full link here: [https://soundcloud.com/rattle-fiction-pod/episode-7-the-key-to-
 
 ### Comments:
 
-> **u/hankyusa** [+4]  *Sunshine Regiment**
+> **u/hankyusa** [+4]  *Sunshine Regiment* (15 hours later)
 > 
 > Thank you. The only time I have to myself is during my bike rides to and from work.
-> 
 
-> **u/CeruleanTresses** [+2] *
+> **u/CeruleanTresses** [+2]  (9 hours later)
 > 
 > This is very cool!
-> 
 
-> **u/You_cant_buy_spleen** [+2] *
+> **u/You_cant_buy_spleen** [+2]  (2 days later)
 > 
 > Thanks for this :)
-> FYI: Looks like you forgot to update this second portion of the link in the OP. In the source it's like this: `[new_link](old_link)`. For people on mobile here's a corrected link [https://soundcloud.com/rattle-fiction-pod/episode-7-the-key-to-every-door](https://soundcloud.com/rattle-fiction-pod/episode-7-the-key-to-every-door)
 > 
+> FYI: Looks like you forgot to update this second portion of the link in the OP. In the source it's like this: `[new_link](old_link)`. For people on mobile here's a corrected link [https://soundcloud.com/rattle-fiction-pod/episode-7-the-key-to-every-door](https://soundcloud.com/rattle-fiction-pod/episode-7-the-key-to-every-door)
 
->> **u/westward101** [+1] *
+>> **u/westward101** [+1]  (3 days later)
 >> 
 >> thanks! Fixed.
->> 
 
 ---
 

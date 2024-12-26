@@ -2,7 +2,7 @@
 
 * Author: u/mrmonkeybat *
 * URL: https://www.reddit.com/r/rational/comments/3yqswl/what_would_be_the_consequences_of_a_fountain_of/
-* Score: 9
+* Score: 8
 
 * Created: 2015-12-30T04:34:16
 
@@ -12,245 +12,239 @@ In fiction these are often in remote hard to reach places. But after initial dis
 
 ### Comments:
 
-> **u/alexanderwales** [+6]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (26 minutes later)
 > 
 > [This is a great exploration of the topic](http://qntm.org/jesus). It's part of *Ra* by Sam Hughes, but can be read without reading any other parts of the series.
-> 
 
->> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram* (9 hours later)
 >> 
 >> > "And yet, for anybody to leave the machine unexploited is implausible. We spin more numbers and simulations and we see the machine being reverse-engineered, and the principles it applies being adapted for purposes other than the immediate, perfect restoration of living and dead humans. Mr Grey, you've seen how easy it is to heal. Can you imagine how easy it'll become to kill? [...] Death surrounds this machine, like a curse."
->> This is the argument against _any_ technological or scientific advancement. In this case what he's really saying is "We don't want humans as a whole learning what we know". He's saying "We like being the only immortals around". He's saying "We're already in the _'Medical technology is deliberately stalled and never reaches the pinnacle it should.'_" scenario. He's saying "We're not going to let you mere mortals _discover_ this either."
 >> 
+>> This is the argument against _any_ technological or scientific advancement. In this case what he's really saying is "We don't want humans as a whole learning what we know". He's saying "We like being the only immortals around". He's saying "We're already in the _'Medical technology is deliberately stalled and never reaches the pinnacle it should.'_" scenario. He's saying "We're not going to let you mere mortals _discover_ this either."
 
->>> **u/redrach** [+3] *
+>>> **u/redrach** [+3]  (18 hours later)
 >>> 
 >>> Yep, and having read all of _Ra_, that's entirely in character for them.
->>> 
 
->>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram* (19 hours later)
 >>>> 
 >>>> Sure, but it means it's not something that should be taken at face value in this discussion. \^\^
->>>> 
 
-> **u/frodo_skywalker** [+5] *
+> **u/frodo_skywalker** [+5]  (14 hours later)
 > 
 > Interestingly, (a litre per second)*(decade per teaspoon)=60 billion people can be kept young and healthy by this. 
-> Someone will conquer it, use it for them and theirs. They'll need a young, healthy army to defend it. They'll also need to provide water in some quantity to leaders/nobility/upper classes of other nations, or they'll face a world united against them. Nation (or at least its leader) owning the fountain becomes obscenely wealthy.
 > 
+> Someone will conquer it, use it for them and theirs. They'll need a young, healthy army to defend it. They'll also need to provide water in some quantity to leaders/nobility/upper classes of other nations, or they'll face a world united against them. Nation (or at least its leader) owning the fountain becomes obscenely wealthy.
 
-> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (6 hours later)
 > 
 > Don't forget "figure out how it works and see if you can reproduce it". You'll have alchemists, philosophers, hedge-witches and barber-surgeons and all manner of people trying to find a way to duplicate the effect.
-> Speaking of reproducing, a better way to nerf it is that it renders you sterile. That cuts down the "immortals population explosion" problem as well as providing a disincentive to using it.
 > 
+> Speaking of reproducing, a better way to nerf it is that it renders you sterile. That cuts down the "immortals population explosion" problem as well as providing a disincentive to using it.
 
-> **u/Jiro_T** [+4] *
+> **u/Jiro_T** [+4]  (12 hours later)
 > 
 > The description says that overconsuming turns men into girls.  People have been responding as if normal use turns men into girls, which is not how I read it.  If only overconsuming turns men into girls, and normal usage does not, you basically have a separate fountain of youth and a youth gender change spell.
-> 
 
->> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>> **u/Transfuturist** [+6]  *Carthago delenda est.* (16 hours later)
 >> 
 >> I'm all for this fountain.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> Yeah, but they already have it a little easier than us. Testosterone causes the more irreversible set of changes (though T is scheduled...). But it would fucking suck to be *that close.*
->>>> We just need a Fountain of Sex Swap, right next to Youth.
 >>>> 
+>>>> We just need a Fountain of Sex Swap, right next to Youth.
 
->>>>> **u/mrmonkeybat** [+0] *
+>>>>> **u/mrmonkeybat** [+0]  (a day later)
 >>>>> 
 >>>>> Those who dont want to go through female puberty could stay perpetually 10 they would also have the be in the same boat as men who have accidentally overdosed or had a string of life threatening injuries or infections in the same decade.
->>>>> 
 
->> **u/mrmonkeybat** [+1] *
+>> **u/mrmonkeybat** [+1]  (a day later)
 >> 
 >> When I first posted the last sentence was a bit odly worded I then edited it thinking no one had seen it yet but then found out there was already a reply. But even if it is only if you continue to consume after you have been rejuvenated to 10, if each does rejuvenates you a decade and most people would want to stay in their 20's then it only takes a few serious injuries or diseases in a row that treating them turns you into a 10 year old girl. Which could be fairly common in the medieval world.  Turning people into 10 year girls could be a way to make freshly captured POWs and slaves easier to control.
->> 
 
-> **u/HeirToGallifrey** [+7]  *Thinking inside the box (it's bigger there)**
+> **u/HeirToGallifrey** [+7]  *Thinking inside the box (it's bigger there)* (26 minutes later)
 > 
 > Were you serious about the last sentence?
-> My first thought on seeing the title was, oh boy, just what we need: *immortal* ruling elite. Because that's almost certainly the outcome: those who discover the fountain (assuming they are intelligent and not moral saints) will keep it secret, building up their power. Any sufficiently advanced technology (or magic) inevitably either finds its way into the hands of the ruling elite, or makes those who possess it *into* the ruling elite.
-> If the discoverers did foolishly brag about it (or, more understandably, use it to keep all their friends young, thus tipping their hands) then a massive war would break out over such a resource. Eventually, it would come into the hands of a country, and who would control it? The ruling elite, of course. I'm going to say that as much as I can, apparently. But now they would have to at least make some show of sharing it or doling it out. But if the fountain is finite or replenishes slowly, then again we will see it concentrated among the rich and powerful. If not, whatever country controls the fountain will become a superpower within a generation, as they will have a workforce and military that never ages and is constantly in their prime.
-> Now assuming you were serious about the last line, that's harder to speak to. Quite likely, if the Fountain were restricted to a bare few, the society that controlled it would become matrilineal, with women dominating positions of power (whether by birth or by Fountain). If unrestricted, the country would likely face serious issues as birth rates would drop drastically: I imagine many men would be willing to become women to stave off death. This might increase societal acceptance of LGBT groups (would be a dream come true for MtF transsexuals).
 > 
+> My first thought on seeing the title was, oh boy, just what we need: *immortal* ruling elite. Because that's almost certainly the outcome: those who discover the fountain (assuming they are intelligent and not moral saints) will keep it secret, building up their power. Any sufficiently advanced technology (or magic) inevitably either finds its way into the hands of the ruling elite, or makes those who possess it *into* the ruling elite.
+> 
+> If the discoverers did foolishly brag about it (or, more understandably, use it to keep all their friends young, thus tipping their hands) then a massive war would break out over such a resource. Eventually, it would come into the hands of a country, and who would control it? The ruling elite, of course. I'm going to say that as much as I can, apparently. But now they would have to at least make some show of sharing it or doling it out. But if the fountain is finite or replenishes slowly, then again we will see it concentrated among the rich and powerful. If not, whatever country controls the fountain will become a superpower within a generation, as they will have a workforce and military that never ages and is constantly in their prime.
+> 
+> Now assuming you were serious about the last line, that's harder to speak to. Quite likely, if the Fountain were restricted to a bare few, the society that controlled it would become matrilineal, with women dominating positions of power (whether by birth or by Fountain). If unrestricted, the country would likely face serious issues as birth rates would drop drastically: I imagine many men would be willing to become women to stave off death. This might increase societal acceptance of LGBT groups (would be a dream come true for MtF transsexuals).
 
->> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (23 hours later)
 >> 
 >> Eh, I think an immortal ruling elite would actually be pretty effective at governing. The first few hundred years would suck, but eventually they realize their primary goal is stability (to make sure they don't get killed) then maximizing hedons (which more advanced societies are better at.) Anyone they didn't like would be screwed, but statistically speaking we'd be pretty well off, because if the ruling elite is incompetent... well, they're still vulnerable to regular weaponry, disease, and unfortunate toilet-related accidents. Democracy is the greatest achievable form of governing, but an immortal plato-style philosopher king would be pretty swell, if we don't have to worry much about succession.
->> tl;dr: a fountain of youth would probably lead to magic pony land.
 >> 
+>> tl;dr: a fountain of youth would probably lead to magic pony land.
 
->> **u/mrmonkeybat** [+3] *
+>> **u/mrmonkeybat** [+3]  (an hour later)
 >> 
 >> >Were you serious about the last sentence?
->> Um, I dont know. I was think it might throw a spanner in the works of the obvious immortal warrior elite answer, instead maybe then it would mainly be used by warriors, knights, and Kings to keep their wives, and concubines young and hot, only used by themselves as last resort if you are really sick or old. I wonder what the percentage of men who would rather get old and die would be. I wonder how much authority an early medieval warrior king would retain if became a woman, if all the elders are women I suppose it would eventually create some kind of matriarchy. Then I changed my mind and edited, then you finished typing your reply, consider it an optional scenario to ponder.
->> I think it would be hard to keep secret, without any unwanted side effects almost everyone in the discovering party would want a sip, and want to take some back for their relatives and friends, a chief saying "Now, now this is only for a select few in moderation", while a fountain is gushing behind him might be a hard sell. How do you become an "immortal ruling elite" without people noticing you are not aging over time anyway?
 >> 
+>> Um, I dont know. I was think it might throw a spanner in the works of the obvious immortal warrior elite answer, instead maybe then it would mainly be used by warriors, knights, and Kings to keep their wives, and concubines young and hot, only used by themselves as last resort if you are really sick or old. I wonder what the percentage of men who would rather get old and die would be. I wonder how much authority an early medieval warrior king would retain if became a woman, if all the elders are women I suppose it would eventually create some kind of matriarchy. Then I changed my mind and edited, then you finished typing your reply, consider it an optional scenario to ponder.
+>> 
+>> I think it would be hard to keep secret, without any unwanted side effects almost everyone in the discovering party would want a sip, and want to take some back for their relatives and friends, a chief saying "Now, now this is only for a select few in moderation", while a fountain is gushing behind him might be a hard sell. How do you become an "immortal ruling elite" without people noticing you are not aging over time anyway?
 
->>> **u/retsotrembla** [+10] *
+>>> **u/retsotrembla** [+11]  (an hour later)
 >>> 
 >>> Are you referring to http://oglaf.com/fountain-of-girl/ and http://oglaf.com/fountain-of-girl/2/ ?
->>> 
 
->>>> **u/mrmonkeybat** [+1] *
+>>>> **u/mrmonkeybat** [+1]  (2 hours later)
 >>>> 
 >>>> I was not aware of that comic.
->>>> 
 
->>> **u/timoni** [+3] *
+>>> **u/timoni** [+3]  (3 hours later)
 >>> 
 >>> Are you seriously saying men would hate turning into women so much they would rather die?
->>> 
 
->>>> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+8]  *Time flies like an arrow* (4 hours later)
 >>>> 
 >>>> I think some of them would. Suicide rates among transgender people are significantly higher than in the general population and you'd effectively be turning almost all the men who went through it transgendered. The big questions are how different they'd be from the normal transgendered population that we have now, and whether people would be able to see gender dysphoria as a negative consequence ahead of time (since it's entirely possible that they would think it's a sweet deal and only be affected after the fact).
->>>> I personally think it would be way worse to be transgender in medieval times than in the present day.
 >>>> 
+>>>> I personally think it would be way worse to be transgender in medieval times than in the present day.
 
->>>>> **u/Izeinwinter** [+4] *
+>>>>> **u/Izeinwinter** [+4]  (11 hours later)
 >>>>> 
 >>>>> The last part is obvious. Way more rigid gender roles. In a present day setting, people with low attachment to their gender identity would perhaps be fine. It's really difficult to tell if the "cis-by-default" theorem is correct, but even if it is, and the numbers from the less wrong survey are correct and half of the entire modern elderly population would respond to a magic gender change + renewed youth with "Score!... Wait, Drat, none of my clothes fit, eh, well, time to go shopping" that would be in a context where people don't treat women as chattel.
->>>>> 
 
->>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (16 hours later)
 >>>>>> 
 >>>>>> I personally think there's a greater proportion of gender apathy than is commonly discussed.
->>>>>> 
 
->>>>> **u/contravariant_** [+1] *
+>>>>> **u/contravariant_** [+1]  (a month later)
 >>>>> 
 >>>>> I think that having a random person's body change sex may not imply the same dysphoria, on average, as a trans person. There's a selection bias here - the people who decide to transition don't just have brains that make a different gender from what they were assigned be better from them, they feel enough pain to overcome the perceived risk from societal transphobia, discrimination, etc. So only the ones that are mismatched by the largest distance identify as trans, and transition. The recent LessWrong survey for instance showed that using the Bem Sex Role index, trans women are more mentally feminine and less masculine on average than cis women, which supports this hypothesis - only the most feminine ones identify as trans and decide that it's worth the risks (which are inflated, IME, especially if you transition young).
->>>>> 
 
->>>>> **u/Sinity** [+0] *
+>>>>> **u/Sinity** [-3]  (6 hours later)
 >>>>> 
 >>>>> > Suicide rates among transgender people are significantly higher than in the general population 
->>>>> That's because it doesn't work. There is a difference between transgender and real woman/men.
 >>>>> 
+>>>>> That's because it doesn't work. There is a difference between transgender and real woman/men.
 
->>>>>> **u/OrzBrain** [+4]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>>> **u/OrzBrain** [+5]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (11 hours later)
 >>>>>> 
 >>>>>> > That's because it doesn't work. There is a difference between transgender and real woman/men.
->>>>>> What doesn't work? Gender reassignment surgery? That statistic about suicide applied more to those who hadn't had surgery or changed they way they present themselves than those who had. The men who became young women would likely have a high suicide rate due to the same effect.
 >>>>>> 
+>>>>>> What doesn't work? Gender reassignment surgery? That statistic about suicide applied more to those who hadn't had surgery or changed they way they present themselves than those who had. The men who became young women would likely have a high suicide rate due to the same effect.
 
->>>>>>> **u/Sinity** [+2] *
+>>>>>>> **u/Sinity** [+2]  (15 hours later)
 >>>>>>> 
 >>>>>>> Ah, so you were talking about people who don't like their current gender, not about people which undergone surgery?
->>>>>>> 
 
->>>>>>>> **u/OrzBrain** [+5]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>>>>> **u/OrzBrain** [+5]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (16 hours later)
 >>>>>>>> 
 >>>>>>>> Right. The benefit of surgery is that it (hopefully) increases happiness and prevents suicide. The high suicide rate is among those who haven't had surgery.
->>>>>>>> Also, this may be a touchy topic, as certain anecdotal items suggest to me a higher than average percentage of TG people among transhumanists, a group who are more likely than average to be present on a rationality forum.
 >>>>>>>> 
+>>>>>>>> Also, this may be a touchy topic, as certain anecdotal items suggest to me a higher than average percentage of TG people among transhumanists, a group who are more likely than average to be present on a rationality forum.
 
->>>>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (18 hours later)
 >>>>>>>>> 
 >>>>>>>>> \>.>
->>>>>>>>> <.<
->>>>>>>>> We're more accustomed and attracted to the idea of transcending current physical forms.
->>>>>>>>> I don't actually know that transition and non-op has higher suicide rates than transition and op. It wouldn't be the case for me, as I'm a perverted degenerate who frequents /d/. As there is an economic pressure, I would expect there to be an effect overall, though.
 >>>>>>>>> 
+>>>>>>>>> <.<
+>>>>>>>>> 
+>>>>>>>>> We're more accustomed and attracted to the idea of transcending current physical forms.
+>>>>>>>>> 
+>>>>>>>>> I don't actually know that transition and non-op has higher suicide rates than transition and op. It wouldn't be the case for me, as I'm a perverted degenerate who frequents /d/. As there is an economic pressure, I would expect there to be an effect overall, though.
 
->>>>>>> **u/None** [+2] *
+>>>>>>> **u/None** [+2]  (11 hours later)
 >>>>>>> 
 >>>>>>> DON'T FEED THE TROLL.
->>>>>>> 
 
->>>>>>>> **u/rumblestiltsken** [+2] *
+>>>>>>>> **u/rumblestiltsken** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> I don't really hang out here enough to know the mod policies, but I would have thought that a mod who sees a troll, trolling on a particularly hurtful and divisive topic, might have some more effective options than reminding poster to ignore the troll.
->>>>>>>> Because case in point on how well that works.
 >>>>>>>> 
+>>>>>>>> Because case in point on how well that works.
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I had actually removed his comments, then asked our resident transgender user what she thinks, and then, when she said *not* to do that "censoring SJW" sort of thing, approved them.
->>>>>>>>> 
 
->>>>>>>> **u/Sinity** [+1] *
+>>>>>>>> **u/Sinity** [+1]  (15 hours later)
 >>>>>>>> 
 >>>>>>>> Wait, seriously? I'm a troll? What was troll'ish about that comment?
->>>>>>>> AFAIK these surgeries don't change the genotype. You don't become different gender after undertaking them. They just imitate that. Poorly. That generates ridicule. And that generates these suicides.
 >>>>>>>> 
+>>>>>>>> AFAIK these surgeries don't change the genotype. You don't become different gender after undertaking them. They just imitate that. Poorly. That generates ridicule. And that generates these suicides.
 
->>>>>>>>> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>>>>>>>>> **u/Transfuturist** [+4]  *Carthago delenda est.* (16 hours later)
 >>>>>>>>> 
 >>>>>>>>> *...Who gives a flying fuck about genotype?!* I consider you a troll for that alone!
->>>>>>>>> Are you seriously saying that transition increases suicides? It doesn't. *Being trans* increases suicides, and believe me, it's not something you can change with any known techniques. Don't point me to that fucking Swedish study, they used the non-transgender population as a control group instead of the non-op trans population. That study in fact says nothing about the intervention effectiveness of SRS.
 >>>>>>>>> 
+>>>>>>>>> Are you seriously saying that transition increases suicides? It doesn't. *Being trans* increases suicides, and believe me, it's not something you can change with any known techniques. Don't point me to that fucking Swedish study, they used the non-transgender population as a control group instead of the non-op trans population. That study in fact says nothing about the intervention effectiveness of SRS.
 
->>>>>>>>>> **u/Sinity** [+2] *
+>>>>>>>>>> **u/Sinity** [+2]  (16 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> >...Who gives a flying fuck about genotype?!
->>>>>>>>>> That's true. I've said that to make my point that these surgeries DO NOT change gender.
->>>>>>>>>> >Are you seriously saying that transition increases suicides? It doesn't.
->>>>>>>>>> I thought that author of parent comment meant that; apparently I was wrong.
->>>>>>>>>> Anyway, I don't know. But I think person after surgery would be more likely to being suicidal than non-transgender person.
 >>>>>>>>>> 
+>>>>>>>>>> That's true. I've said that to make my point that these surgeries DO NOT change gender.
+>>>>>>>>>> 
+>>>>>>>>>> >Are you seriously saying that transition increases suicides? It doesn't.
+>>>>>>>>>> 
+>>>>>>>>>> I thought that author of parent comment meant that; apparently I was wrong.
+>>>>>>>>>> 
+>>>>>>>>>> Anyway, I don't know. But I think person after surgery would be more likely to being suicidal than non-transgender person.
 
->>>>>>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (17 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > I've said that to make my point that these surgeries DO NOT change gender.
->>>>>>>>>>> There's a useful difference between genetic sex, anatomical primary and secondary sex characteristics, and psychological gender. The difference between the first and second (and the second's complexification itself) is due to intersex conditions. The difference between the second and third is due to transgender conditions. In other words, gender is a differentiable concept *because of* transgenderism (and gender apathy vs strong cisgenderism).
->>>>>>>>>>> Transition is an attempt to reduce gender dysphoria via various medical and social interventions, most of which focus on primary and secondary sex characteristics. It is not gender that is changed, it is not genetic sex that is changed. Transition is a long process, but 'passing' is possible, and becomes more likely the younger the intervention starts. There are rampant selection biases present when casually evaluating P(passing | trans), as trans people that pass are not *apparently* trans.
->>>>>>>>>>> >But I think person after surgery would be more likely to being suicidal than non-transgender person.
->>>>>>>>>>> Yes, which is what the study said. It is, however, incredibly useless when evaluating the expected QALY effect of SRS. Non-trans people are not going to get SRS. To evaluate the effectiveness of the intervention, you have to contrast to trans people who did not get the operation over the same period of time, yet are still seeking transition.
 >>>>>>>>>>> 
+>>>>>>>>>>> There's a useful difference between genetic sex, anatomical primary and secondary sex characteristics, and psychological gender. The difference between the first and second (and the second's complexification itself) is due to intersex conditions. The difference between the second and third is due to transgender conditions. In other words, gender is a differentiable concept *because of* transgenderism (and gender apathy vs strong cisgenderism).
+>>>>>>>>>>> 
+>>>>>>>>>>> Transition is an attempt to reduce gender dysphoria via various medical and social interventions, most of which focus on primary and secondary sex characteristics. It is not gender that is changed, it is not genetic sex that is changed. Transition is a long process, but 'passing' is possible, and becomes more likely the younger the intervention starts. There are rampant selection biases present when casually evaluating P(passing | trans), as trans people that pass are not *apparently* trans.
+>>>>>>>>>>> 
+>>>>>>>>>>> >But I think person after surgery would be more likely to being suicidal than non-transgender person.
+>>>>>>>>>>> 
+>>>>>>>>>>> Yes, which is what the study said. It is, however, incredibly useless when evaluating the expected QALY effect of SRS. Non-trans people are not going to get SRS. To evaluate the effectiveness of the intervention, you have to contrast to trans people who did not get the operation over the same period of time, yet are still seeking transition.
 
->>>>>>>>>>>> **u/Sinity** [+1] *
+>>>>>>>>>>>> **u/Sinity** [+1]  (17 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >There's a useful difference between genetic sex, anatomical primary and secondary sex characteristics, and psychological gender.
->>>>>>>>>>>> Well, I meant biological gender, not psychological one from the beginning. As I said, I thought author meant that when he talked about transgender suicides.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> Well, I meant biological gender, not psychological one from the beginning. As I said, I thought author meant that when he talked about transgender suicides.
 
->>>>>>>>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>>>>>>>>> **u/Transfuturist** [+4]  *Carthago delenda est.* (18 hours later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> A large part of the biology can be redirected and transformed simply through hormone replacement. If intervention occurs before puberty, even just puberty postponement like androgen blockers (speaking for MTFs), almost all of the noticeable characteristics, body hair, voice and throat, skeletal and facial structure, bust, can be made entirely feminine.
->>>>>>>>>>>>> After puberty, it gets harder to intervene, but masculization still increases as you get older and older, which is why you have 40/50+yo transitioners that don't look so hot. There are generally two spikes in a trans person's life that they are likely to decide to transition, around young adulthood and around middle-age. Self-suppression, which is particularly exacerbated by culture, leads to denial of the condition around the first spike and delays recognition to the second spike or indefinitely, assuming they don't commit suicide in the interim.
->>>>>>>>>>>>> Harassment and violence are culturally-inspired reactions to trans people transitioning. Trans people are at risk for domestic abuse, sexual violence, drug abuse, poverty, sexually transmitted diseases, and suicide. These are cultural problems; transitioning is the *only way* trans people are able to alleviate gender dysphoria. "True gender" has nothing to do with these issues, this is a problem of suffering and death.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> After puberty, it gets harder to intervene, but masculization still increases as you get older and older, which is why you have 40/50+yo transitioners that don't look so hot. There are generally two spikes in a trans person's life that they are likely to decide to transition, around young adulthood and around middle-age. Self-suppression, which is particularly exacerbated by culture, leads to denial of the condition around the first spike and delays recognition to the second spike or indefinitely, assuming they don't commit suicide in the interim.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Harassment and violence are culturally-inspired reactions to trans people transitioning. Trans people are at risk for domestic abuse, sexual violence, drug abuse, poverty, sexually transmitted diseases, and suicide. These are cultural problems; transitioning is the *only way* trans people are able to alleviate gender dysphoria. "True gender" has nothing to do with these issues, this is a problem of suffering and death.
 
->>>>>>>>>>> **u/OrzBrain** [+2]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>>>>>>>> **u/OrzBrain** [+2]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (16 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > But I think person after surgery would be more likely to being suicidal than non-transgender person.
->>>>>>>>>>> Yes. But not more likely than a pre-op TG.
 >>>>>>>>>>> 
+>>>>>>>>>>> Yes. But not more likely than a pre-op TG.
 
->>>> **u/Escapement** [+1]  *Ankh-Morpork City Watch**
+>>>> **u/Escapement** [+1]  *Ankh-Morpork City Watch* (10 hours later)
 >>>> 
 >>>> There's a great Neil Gaiman short story called "Changes", collected in his anthology *Smoke and Mirrors*, which posits at least one major character who felt exactly this way. I don't personally feel this way, myself, but Changes is a great piece of fiction about someone who does.
->>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (11 hours later)
 >> 
 >> >My first thought on seeing the title was, oh boy, just what we need: immortal ruling elite. Because that's almost certainly the outcome: those who discover the fountain (assuming they are intelligent and not moral saints) will keep it secret, building up their power. Any sufficiently advanced technology (or magic) inevitably either finds its way into the hands of the ruling elite, or makes those who possess it into the ruling elite.
->> Interesting.  What, do you think, makes some resources into Secret Treasures of the Ruling Elite, and others into market commodities?
 >> 
+>> Interesting.  What, do you think, makes some resources into Secret Treasures of the Ruling Elite, and others into market commodities?
 
->>> **u/HeirToGallifrey** [+1]  *Thinking inside the box (it's bigger there)**
+>>> **u/HeirToGallifrey** [+1]  *Thinking inside the box (it's bigger there)* (11 hours later)
 >>> 
 >>> An interesting question, but ultimately, I think it's just a matter of scale. All advanced technology will invariably be put to use by those wealthy enough to afford it. Some technologies offer only a meagre advantage over those who do not have it: an iPhone, for example, provides comparatively little advantage over a much cheaper Nokia. This is simply a commodity, in my opinion.
->>> But a rare technology that confers a massive advantage over others would be more like a Secret Treasure. Nuclear bombs, for example, are very rare (comparatively) and are something that any nation without would suffer for, and be at a distinct disadvantage.
->>> This is just off the top of my head, so the examples probably aren't great and the underlying idea might be wrong.
 >>> 
+>>> But a rare technology that confers a massive advantage over others would be more like a Secret Treasure. Nuclear bombs, for example, are very rare (comparatively) and are something that any nation without would suffer for, and be at a distinct disadvantage.
+>>> 
+>>> This is just off the top of my head, so the examples probably aren't great and the underlying idea might be wrong.
 
-> **u/Calamitizer** [+1]  *Shears**
+> **u/Calamitizer** [+1]  *Shears* (12 hours later)
 > 
 > I'm reminded very much of the chapter [Jesus Machine](http://qntm.org/jesus) from Ra. It contains some worldbuilding spoilers, but it's fairly divorced from the main plotline IIRC (mainly serves to characterize Exa). It might be more important than I remember, though.
-> 
 
 ---
 

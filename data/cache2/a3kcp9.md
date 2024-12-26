@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/a3kcp9/challenge_companion_punishment/
-* Score: 10
+* Score: 11
 
 * Created: 2018-12-06T04:07:32
 
@@ -16,11 +16,11 @@ The alternate take (for me) would be a societal justice system, where "rehabilit
 
 ### Comments:
 
-> **u/Trips-Over-Tail** [+3]  *Death of Crabs**
+> **u/Trips-Over-Tail** [+3]  *Death of Crabs* (11 hours later)
 > 
 > I wish I could remember the name of the book, but there is a science fiction story in which many crimes are punishable with decapitation. Which you survive after having your personality and memories and essential regulatory functions downloaded into a digital device that is implanted into your pelvic ganglion. You are expected to spend your own money on sensory replacements.
-> It's like an extremely drastic version of punitive branding.
 > 
+> It's like an extremely drastic version of punitive branding.
 
 ---
 

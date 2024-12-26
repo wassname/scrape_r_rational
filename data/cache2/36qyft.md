@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Kodix** [+2] *
+> **u/Kodix** [+2]  (18 minutes later)
 > 
 > Huh. You must be pretty bored.
-> Hi, nice to meet you. Welcome to the subreddit. Check the sidebar, and hang around if it seems like your kind of thing :)
 > 
+> Hi, nice to meet you. Welcome to the subreddit. Check the sidebar, and hang around if it seems like your kind of thing :)
 
-> **u/None** [+2] *
+> **u/None** [+2]  (14 hours later)
 > 
 > Hahaha, I just got it!
-> 
 
 ---
 

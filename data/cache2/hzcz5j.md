@@ -2,7 +2,7 @@
 
 * Author: u/lurinaa *
 * URL: https://www.reddit.com/r/rational/comments/hzcz5j/the_flower_that_bloomed_nowhere_020_the_quest/
-* Score: 21
+* Score: 20
 
 * Created: 2020-07-28T11:26:37
 
@@ -16,30 +16,31 @@ In case anyone doesn't know, this is a mystery story about the conclave of mages
 
 ### Comments:
 
-> **u/obelisk729** [+6] *
+> **u/obelisk729** [+6]  (17 hours later)
 > 
 > Great job on the new chapter. Neferuaten being unable to find any arcana within his system and seemingly no opportunity to drug him is concerning to say the least. Perhaps whoever knocked Yantho is skilled emough to not leave any trace? Or they just used arcana in order to subtly charm Yantho and manually drugged him, thus making sure he wouldn't notice anything amiss and that there wouldnt be any trace of arcana would have swiftly left his system? There's also always the possibility that someone is lying about their observations, but as of now there isn't enough to go on as to what. The case of the pantry is similar. The timeframe of when everything could have aged is too large to speculate cleanly about now. At the very least making the markings should have taken quite a while, so we should pay attention to those with the time to do something like this.
-> On the other end, I found the conversation between Neferuaten and Utsu really nice. My favorite parts of the story are when the characters take the time to sort of wax lyrical about life and death. I find Neferuaten a pretty interesting and fun character, which means I'm anxiously anticipating the moment she dies or even is revealed to be the mastermind in a hundred chapters.
-> The new intro also looked pretty cool, by the way. When you removed the first intro, I was kinda concerned that the idea of the characters already being in the time loop would be a bit subtle and confusing to readers, even if the original intro was itself kinda long and confusing. I think the new one toes the line well though, where we get interesting character jntrospection along with a nice and quick scene of just enough setup.
 > 
+> On the other end, I found the conversation between Neferuaten and Utsu really nice. My favorite parts of the story are when the characters take the time to sort of wax lyrical about life and death. I find Neferuaten a pretty interesting and fun character, which means I'm anxiously anticipating the moment she dies or even is revealed to be the mastermind in a hundred chapters.
+> 
+> The new intro also looked pretty cool, by the way. When you removed the first intro, I was kinda concerned that the idea of the characters already being in the time loop would be a bit subtle and confusing to readers, even if the original intro was itself kinda long and confusing. I think the new one toes the line well though, where we get interesting character jntrospection along with a nice and quick scene of just enough setup.
 
->> **u/lurinaa** [+3] *
+>> **u/lurinaa** [+3]  (22 hours later)
 >> 
 >> I'm really glad you liked it! It's especially good to hear that the new intro worked. I felt like there were a ton of small experiential problems created by the fact that nothing really signals that it's a time loop mystery for new readers, since the removal of the original opening - a lot of people reported having a sense of "where is this going...?" Hopefully this will address that sentiment, at least to a point.
->> 
 
-> **u/tjhance** [+5] *
+> **u/tjhance** [+5]  (a day later)
 > 
 > My first thought is that the pantry is somehow moving between the time loops, which explains why the stuff in it is so old, and the tally marks are counting the loops.
-> but then we gotta ask 'why?' and I got no idea.
 > 
+> but then we gotta ask 'why?' and I got no idea.
 
-> **u/EdenicFaithful** [+1] *
+> **u/EdenicFaithful** [+1]  (3 days later)
 > 
 > The new intro was brilliant.
-> Feels like the story's gotten into a stride with the recent chapters. Everything is flowing right.
-> I hope you don't hold back too much in the darker aspects of the story. The best moments for me so far have been terse and terrifying.
 > 
+> Feels like the story's gotten into a stride with the recent chapters. Everything is flowing right.
+> 
+> I hope you don't hold back too much in the darker aspects of the story. The best moments for me so far have been terse and terrifying.
 
 ---
 

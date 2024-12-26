@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/9p3joo/biweekly_challenge_afterlife/
-* Score: 12
+* Score: 13
 
 * Created: 2018-10-17T22:56:14
 
@@ -50,29 +50,29 @@ Next time, the challenge will be **Spooky**. We did "Rational Horror" three year
 
 ### Comments:
 
-> **u/Aabcehmu112358** [+7]  *Utter Fallacy**
+> **u/Aabcehmu112358** [+6]  *Utter Fallacy* (8 days later)
 > 
 > [Here](https://docs.google.com/document/d/1JcKLnnNTkHXtQtmrvVKmD2fnURLetPPDrBQJ9x-V9AU/edit?usp=sharing), 1.5k words
-> 
 
->> **u/Krossfireo** [+1] *
+>> **u/Krossfireo** [+1]  (4 months later)
 >> 
 >> Is there any more to this?
->> 
 
->>> **u/Aabcehmu112358** [+2]  *Utter Fallacy**
+>>> **u/Aabcehmu112358** [+2]  *Utter Fallacy* (4 months later)
 >>> 
 >>> I’ve thought about writing more for this but it hasn’t gone anywhere yet. I’ve been needing to do some research in mortality rates and causes of death statistics which have been harder to find than I expected.
->>> 
 
-> **u/wren42** [+4] *
+> **u/wren42** [+4]  (6 days later)
 > 
 > NOTES:  This is not intended as an official submission, as it is merely a rewrite of portions of Alexander Wales’ “Harry Potter and the Philosopher’s Zombie.”
-> As a heavily derivative fork of a fanfiction of a fanfiction, I’m not sure it passes the plagiarism test, but I happened to revisit this short story recently and felt like sharing some thoughts.
-> Anyone who hasn’t should read Alexander’s work first: [https://www.fanfiction.net/s/10023949/1/Harry-Potter-and-the-Philosopher-s-Zombie](https://www.fanfiction.net/s/10023949/1/Harry-Potter-and-the-Philosopher-s-Zombie).  It branches from Hermione’s death, where she has become a ghost.   My slight rewrite of the final conversation with Quirrell occurs just in the last few pages, but might act as a launching off point for further AU exploration, as Alexander’s work was fascinating and much too short.
-> Cheers!
-> [https://www.fanfiction.net/s/13101921/1/Harry-Potter-and-the-Philosopher-s-Zombie-The-War-of-the-Veil](https://www.fanfiction.net/s/13101921/1/Harry-Potter-and-the-Philosopher-s-Zombie-The-War-of-the-Veil)
 > 
+> As a heavily derivative fork of a fanfiction of a fanfiction, I’m not sure it passes the plagiarism test, but I happened to revisit this short story recently and felt like sharing some thoughts.
+> 
+> Anyone who hasn’t should read Alexander’s work first: [https://www.fanfiction.net/s/10023949/1/Harry-Potter-and-the-Philosopher-s-Zombie](https://www.fanfiction.net/s/10023949/1/Harry-Potter-and-the-Philosopher-s-Zombie).  It branches from Hermione’s death, where she has become a ghost.   My slight rewrite of the final conversation with Quirrell occurs just in the last few pages, but might act as a launching off point for further AU exploration, as Alexander’s work was fascinating and much too short.
+> 
+> Cheers!
+> 
+> [https://www.fanfiction.net/s/13101921/1/Harry-Potter-and-the-Philosopher-s-Zombie-The-War-of-the-Veil](https://www.fanfiction.net/s/13101921/1/Harry-Potter-and-the-Philosopher-s-Zombie-The-War-of-the-Veil)
 
 ---
 

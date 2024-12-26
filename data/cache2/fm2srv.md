@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (4 minutes later)
 > 
 > wrong sub, see sidebar
-> 
 
-> **u/DAL59** [+2] *
+> **u/DAL59** [+2]  (32 minutes later)
 > 
 > r/lostredditors
-> 
 
 ---
 

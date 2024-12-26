@@ -2,7 +2,7 @@
 
 * Author: u/hankyusa  *Sunshine Regiment**
 * URL: https://www.reddit.com/r/rational/comments/neond0/spinning_silver_by_naomi_novik/
-* Score: 34
+* Score: 33
 
 * Created: 2021-05-17T18:59:17
 
@@ -78,50 +78,47 @@ If you've already read it, then I'd like to know what you thought of it.
 
 ### Comments:
 
-> **u/Amonwilde** [+9] *
+> **u/Amonwilde** [+8]  (an hour later)
 > 
 > I enjoyedUprooted. I don't tend to like fairy tale reimaginings, but I'll give it a whirl. Others here might also enjoy Uprooted, the magic is interesting but it's not a hard system.
-> 
 
->> **u/hankyusa** [+1]  *Sunshine Regiment**
+>> **u/hankyusa** [+1]  *Sunshine Regiment* (8 hours later)
 >> 
 >> I'll add Uprooted to my list.
->> The "fairy tale reimagining" in Spinning Silver is pretty loose. For those interested inspiration was drawn from Rumplestiltskin, Hansel and Gretel, and Bluebeard.
 >> 
+>> The "fairy tale reimagining" in Spinning Silver is pretty loose. For those interested inspiration was drawn from Rumplestiltskin, Hansel and Gretel, and Bluebeard.
 
-> **u/i_dont_know** [+3] *
+> **u/i_dont_know** [+3]  (6 hours later)
 > 
 > I greatly enjoyed both Uprooted and Spinning Silver.
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (21 hours later)
 > 
 > You convinced me. I will buy and read this.
-> 
 
-> **u/courtneytrying** [+2] *
+> **u/courtneytrying** [+2]  (7 days later)
 > 
 > I love this book. I’m not a fan of the ending, but it didn’t ruin the whole book for me. I like how the mythology is shown, and this is one of those books where magic and real life blended beautifully. 
-> Its connection to rumpelstiltskin didn’t stick out to me, I was too into the mythology to notice.
-> I agreed with what you said about the 3 main characters. By the middle part of the book, I already adore and root for them. And even if their small victories are followed by great consequences, their growth over their decisions are at the front and center.
-> I love the >!hansel and gretel house!< and the way it was written. >!When I realized its connection to the house Magreta stays in, I had to put my ebook down and clap, haha!<
-> The fact that the author never names who is the narrator of each chapter is a testament to how well defined these characters are. I can already guess them by the first paragraph except for >!Irina’s first chapter, it only clicked to me when the ring was mentioned again!<.
 > 
+> Its connection to rumpelstiltskin didn’t stick out to me, I was too into the mythology to notice.
+> 
+> I agreed with what you said about the 3 main characters. By the middle part of the book, I already adore and root for them. And even if their small victories are followed by great consequences, their growth over their decisions are at the front and center.
+> 
+> I love the >!hansel and gretel house!< and the way it was written. >!When I realized its connection to the house Magreta stays in, I had to put my ebook down and clap, haha!<
+> 
+> The fact that the author never names who is the narrator of each chapter is a testament to how well defined these characters are. I can already guess them by the first paragraph except for >!Irina’s first chapter, it only clicked to me when the ring was mentioned again!<.
 
->> **u/hankyusa** [+1]  *Sunshine Regiment**
+>> **u/hankyusa** [+1]  *Sunshine Regiment* (7 days later)
 >> 
 >> I'm curious what you found displeasing about the ending. I was expecting the ending to disappoint so I was pleasantly surprised with it.
->> 
 
->>> **u/courtneytrying** [+2] *
+>>> **u/courtneytrying** [+2]  (7 days later)
 >>> 
 >>> >! I just can’t help but feel there’s a dash of stockholm syndrome going on. I don’t see Miryem liking the Staryk that way, and I would have loved a few passages about Miryem and the Staryk working together as friends during the renovations to build their relationship. !<
->>> 
 
->>>> **u/hankyusa** [+2]  *Sunshine Regiment**
+>>>> **u/hankyusa** [+2]  *Sunshine Regiment* (7 days later)
 >>>> 
 >>>> Ah, yeah. I see your point.
->>>> 
 
 ---
 

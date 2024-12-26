@@ -2,7 +2,7 @@
 
 * Author: u/TK17Studios  *Author of r!Animorphs: The Reckoning**
 * URL: https://archiveofourown.org/works/5627803/chapters/53666788
-* Score: 41
+* Score: 40
 
 * Created: 2020-01-29T05:45:25
 
@@ -12,271 +12,265 @@
 
 ### Comments:
 
-> **u/callmesalticidae** [+12]  *writes worldbuilding books**
+> **u/callmesalticidae** [+13]  *writes worldbuilding books* (37 minutes later)
 > 
 > Good ship! 
-> /scritches the ship behind its sensor array
 > 
+> /scritches the ship behind its sensor array
 
->> **u/TK17Studios** [+18]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+19]  *Author of r!Animorphs: The Reckoning* (42 minutes later)
 >> 
 >> > For a long moment, the ship was confused.  But eventually, an exhaustive search produced a series of similar images, which confirmed—
->> > The human was attempting to provide the ship with happiness!
->> > The ship *was* happy, at that—not as a result of the physical action, which seemed unlikely to produce any direct effect, but at the mere recognition that *here* was a behavior whose *sole motivation* was a general increase in pleasure and joy, an altruistic conversion of calories to hedons.  Immediately, the ship vibrated in response, to signal its delight...
 >> 
+>> > The human was attempting to provide the ship with happiness!
+>> 
+>> > The ship *was* happy, at that—not as a result of the physical action, which seemed unlikely to produce any direct effect, but at the mere recognition that *here* was a behavior whose *sole motivation* was a general increase in pleasure and joy, an altruistic conversion of calories to hedons.  Immediately, the ship vibrated in response, to signal its delight...
 
->>> **u/callmesalticidae** [+13]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+12]  *writes worldbuilding books* (58 minutes later)
 >>> 
 >>> The Pemalites are *so good*. 
->>> Also, I feel like I have new insight into the Chee, thanks to Good Ship.
 >>> 
+>>> Also, I feel like I have new insight into the Chee, thanks to Good Ship.
 
->>>> **u/TK17Studios** [+12]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+12]  *Author of r!Animorphs: The Reckoning* (an hour later)
 >>>> 
 >>>> I feel like Good Ship and Garrett would be ~~*good friends*~~ GOOD FRIENDS.
->>>> 
 
->>>>> **u/callmesalticidae** [+8]  *writes worldbuilding books**
+>>>>> **u/callmesalticidae** [+7]  *writes worldbuilding books* (an hour later)
 >>>>> 
 >>>>> I do, too, and I hope that the epilogue gives space for them to be so. 
->>>>> (I hope the epilogue gives space for Good Ship and *everyone* to be GOOD FRIENDS.)
->>>>> (Also: Good Ship for World President 2025)
 >>>>> 
+>>>>> (I hope the epilogue gives space for Good Ship and *everyone* to be GOOD FRIENDS.)
+>>>>> 
+>>>>> (Also: Good Ship for World President 2025)
 
->>>>>> **u/CopperZirconium** [+6] *
+>>>>>> **u/CopperZirconium** [+7]  (18 hours later)
 >>>>>> 
 >>>>>> Oh man. Now Tunie from Onward to Providence has competition for the title of Best Ship! 
->>>>>> Two adorable spaceship friends!
 >>>>>> 
+>>>>>> Two adorable spaceship friends!
 
->>> **u/daytodave** [+4]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+4]  *an altruistic conversion of calories to hedons* (a day later)
 >>> 
 >>> Thanks for the flair <3
->>> 
 
-> **u/Meykem** [+12] *
+> **u/Meykem** [+12]  (19 hours later)
 > 
 > I'm glad Tobias had a good day.
-> The ship should make dolphin noises for him.
 > 
+> The ship should make dolphin noises for him.
 
->> **u/TK17Studios** [+12]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+11]  *Author of r!Animorphs: The Reckoning* (21 hours later)
 >> 
 >> LOW BLOW, TUNA
->> 
 
-> **u/skadefryd** [+11] *
+> **u/skadefryd** [+11]  (16 hours later)
 > 
 > Uh oh. Is Tobias gonna unlock the Chee's Super Saiyan Ultra-Violence™ mode like Marco did in book 10 of the original series?
-> 
 
->> **u/TK17Studios** [+11]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+11]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >> 
 >> Okay, everybody, if this happens it's skadefryd's fault for giving me the idea.
->> (<3)
 >> 
+>> (<3)
 
->>> **u/CouteauBleu** [+13]  *We are the Empire.**
+>>> **u/CouteauBleu** [+13]  *We are the Empire.* (a day later)
 >>> 
 >>> Oh yeah, I'm sure that the "Chee Key" and the fact the the Chee voluntarily disconnected to the ship (which matches previous patterns of behavior where they'd go "commit as much violence as you like, as long as we don't know about it") are completely unrelated plot points.
->>> 
 
->>> **u/daytodave** [+9]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+9]  *an altruistic conversion of calories to hedons* (17 hours later)
 >>> 
 >>> I'm just saying, Erek's reason for not doing that was canon!Chee can never forget anything, so they'd have to live with the memories forever.
->>> r!Erek explicitly said they *can* forget things, if they need to...
 >>> 
+>>> r!Erek explicitly said they *can* forget things, if they need to...
 
->>>> **u/TK17Studios** [+9]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+8]  *Author of r!Animorphs: The Reckoning* (17 hours later)
 >>>> 
 >>>> Although in the Gandhi pill sort of scenario ...
->>>> "Would you like to commit atrocities that you can't bear to know you committed?  We can erase the memories once you're done!"
->>>> He never, like, ran himself into a volcano afterward, I guess.
 >>>> 
+>>>> "Would you like to commit atrocities that you can't bear to know you committed?  We can erase the memories once you're done!"
+>>>> 
+>>>> He never, like, ran himself into a volcano afterward, I guess.
 
->>>>> **u/daytodave** [+5]  *an altruistic conversion of calories to hedons**
+>>>>> **u/daytodave** [+5]  *an altruistic conversion of calories to hedons* (20 hours later)
 >>>>> 
 >>>>> Self-harm is probably forbidden by his programming =/
->>>>> 
 
-> **u/LieGroupE8** [+10]  ***
+> **u/LieGroupE8** [+10]  ** (7 hours later)
 > 
 > Well, I called the existence of the ship, but that was straight out of canon anyway so it was kind of cheating. We'll see if it can unlock the Chee themselves like it could in canon.
+> 
 > Puppyship is cute, but I'm a little disturbed by how it's so focused on pure hedonistic happiness. Like, it was about to drug Tobias into a stupor before the Chee stopped it. What would it do during a space battle?
+> 
 > >**Jake:** Hey ship, what was that tremor?  
 > >  
 > >**Ship:** \[Rocked by swarms of enemy missiles\] Everything's fine! No problem at all! Don't look out the windows! Would you like more pizza?
-> 
 
->> **u/daytodave** [+12]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+12]  *an altruistic conversion of calories to hedons* (10 hours later)
 >> 
 >> > Like, it was about to drug Tobias into a stupor before the Chee stopped it.
->> I was way more disturbed by the swarm of flying ticklebots.
->> > What would it do during a space battle?
->> It sounds like the ship obeys the Key holder regardless of predicted happiness, and the Chee cut the active link specifically so Tobias could talk about violence. I wonder if the Ellimist orchestrated the TPK so Tobias would be resurrected as a new "person", one who the Chee had never directly seen commit violence.
->> **Edit:** Like, the Chee obviously understand he's the same person, but the Censor isn't exactly a Chee mind. Maybe it can be fooled by the different Z-space signals, from the new instantiation of the morphing power?
->> **Edit 2:** In that first interlude, the Chee didn't seem all that shocked by the fact that teleportation happened, just confused about why. I wonder if the Pemalites had that kind of technology?
 >> 
+>> I was way more disturbed by the swarm of flying ticklebots.
+>> 
+>> > What would it do during a space battle?
+>> 
+>> It sounds like the ship obeys the Key holder regardless of predicted happiness, and the Chee cut the active link specifically so Tobias could talk about violence. I wonder if the Ellimist orchestrated the TPK so Tobias would be resurrected as a new "person", one who the Chee had never directly seen commit violence.
+>> 
+>> **Edit:** Like, the Chee obviously understand he's the same person, but the Censor isn't exactly a Chee mind. Maybe it can be fooled by the different Z-space signals, from the new instantiation of the morphing power?
+>> 
+>> **Edit 2:** In that first interlude, the Chee didn't seem all that shocked by the fact that teleportation happened, just confused about why. I wonder if the Pemalites had that kind of technology?
 
->>> **u/TK17Studios** [+9]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning* (12 hours later)
 >>> 
 >>> They were going to be tentaclebots but that seemed Too Obviously Correct or something.
->>> 
 
->>> **u/TK17Studios** [+9]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning* (23 hours later)
 >>> 
 >>> Also let's not forget that somewhere in one of their sanctuaries, the Chee have *at least one* kidnapped/orphaned child that they stole from Ventura to keep together with its dog, and which they are just ... not ever letting back out.
->>> 
 
->>>> **u/daytodave** [+11]  *an altruistic conversion of calories to hedons**
+>>>> **u/daytodave** [+10]  *an altruistic conversion of calories to hedons* (23 hours later)
 >>>> 
 >>>> I wondered if maybe the reason the Kings' house had read cereal etc. is that they just raise kids like that in Chee homes with simulated adoptive parents, and the Chee are good enough that the human just lives out their whole life none the wiser.
->>>> 
 
->>>>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning**
+>>>>> **u/TK17Studios** [+10]  *Author of r!Animorphs: The Reckoning* (23 hours later)
 >>>>> 
 >>>>> This is also plausible within what we know so far, and admittedly less **D A R K**.
->>>>> 
 
->> **u/callmesalticidae** [+10]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+9]  *writes worldbuilding books* (11 hours later)
 >> 
 >> I got the impression that the Pemalites had a greater tolerance for hedons (either naturally or by long exposure), so what Puppyship was planning to do wouldn’t have been an overload for them—but Tobias is a human who is unused to Pematech, so the Chee had to ask Puppyship to tone down its plans.
->> 
 
-> **u/4t0m** [+10]  *Chaos Legion**
+> **u/4t0m** [+10]  *Chaos Legion* (14 hours later)
 > 
 > > “Not!  That!  Sort!  Of!  Key!  Metaphorical!  To unlock!  Tasks!  Functions!  Me!  There are!  Spaces!  Things!  Control!  With the Key!  I!  Help!  Without limit!  All purpose!  Available!  To you!”
-> > Tobias tilted his head, and the ship was delighted to see only confusion, this time, the shadow of unhappiness having been banished by its skillful compliance.  They were making progress, together…
-> Surprised to see that other readers don't seem to find this foreboding.  
-> Hopefully I'll manage to write something more exhaustive at some point, but the recent run of updates has been excellent.
 > 
+> > Tobias tilted his head, and the ship was delighted to see only confusion, this time, the shadow of unhappiness having been banished by its skillful compliance.  They were making progress, together…
+> 
+> Surprised to see that other readers don't seem to find this foreboding.  
+> 
+> Hopefully I'll manage to write something more exhaustive at some point, but the recent run of updates has been excellent.
 
->> **u/daytodave** [+9]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+10]  *an altruistic conversion of calories to hedons* (20 hours later)
 >> 
 >> Foreboding because the super puppy ship *thinks* it's following Tobias's instruction, but is already subtly diverging? Or because all the references to joy reminded you that canon!Howlers were also creatures of pure joy, just programmed by Crayak to think killing is fun, and now you're worried that r!Howlers are actually r!Pemalites whose ancestors were captured and corrupted?
->> 
 
->>> **u/CouteauBleu** [+8]  *We are the Empire.**
+>>> **u/CouteauBleu** [+7]  *We are the Empire.* (a day later)
 >>> 
 >>> > just programmed by Crayak to think killing is fun
->>> Who says Crayak did it? It's not like animals never kill for fun in nature.
->>> (okay, yes, canon says so, but that's beside the point)
 >>> 
+>>> Who says Crayak did it? It's not like animals never kill for fun in nature.
+>>> 
+>>> (okay, yes, canon says so, but that's beside the point)
 
->> **u/TK17Studios** [+8]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+7]  *Author of r!Animorphs: The Reckoning* (22 hours later)
 >> 
 >> > Hopefully I'll manage to write something more exhaustive at some point
->> Your post on character arcs and themes had a large impact on the story, and I don't know if I ever made you aware of that/said thank you.
->> (It was like going from normal sensible behavior to having CFAR hand you reified goal factoring.)
 >> 
+>> Your post on character arcs and themes had a large impact on the story, and I don't know if I ever made you aware of that/said thank you.
+>> 
+>> (It was like going from normal sensible behavior to having CFAR hand you reified goal factoring.)
 
-> **u/TK17Studios** [+17]  *Author of r!Animorphs: The Reckoning**
+> **u/TK17Studios** [+17]  *Author of r!Animorphs: The Reckoning* (59 minutes later)
 > 
 > Also there's no way I can possibly justify including this, even in an author's note, so I guess I'm ^shitposting it here and hopefully that's forgivable since there's an interlude's worth of content up above.
-> Book 16 (canon), actual text:
-> > I clicked on the mail icon. Three E-mails. One was a chain letter. I dumped it. One was from some guy who must have thought I cared about politics. It was some stupid conspiracy theory. I dumped it, too. The third was from "Cassie98." I opened it and read it.
-> > "Jake, oooh baby, you are the man for me. I love your big manly shoulders. I love your piercing brown eyes. (They are brown, right?) But most of all, I love the macho, manly way you boss us all around, snapping out orders left and right. I think of you as the new Clint Eastwood. I must have you all to myself. Signed, Cassie. XXX."
-> Marco/Jake is canon, guys.
 > 
+> Book 16 (canon), actual text:
+> 
+> > I clicked on the mail icon. Three E-mails. One was a chain letter. I dumped it. One was from some guy who must have thought I cared about politics. It was some stupid conspiracy theory. I dumped it, too. The third was from "Cassie98." I opened it and read it.
+> 
+> > "Jake, oooh baby, you are the man for me. I love your big manly shoulders. I love your piercing brown eyes. (They are brown, right?) But most of all, I love the macho, manly way you boss us all around, snapping out orders left and right. I think of you as the new Clint Eastwood. I must have you all to myself. Signed, Cassie. XXX."
+> 
+> Marco/Jake is canon, guys.
 
->> **u/Evan_Th** [+5]  *Sunshine Regiment**
+>> **u/Evan_Th** [+6]  *Sunshine Regiment* (a day later)
 >> 
 >> >Marco/Jake is canon, guys.
->> Marco wants us to think it's canon.  He's the sort of person I could see pranking Jake and the readers.
 >> 
+>> Marco wants us to think it's canon.  He's the sort of person I could see pranking Jake and the readers.
 
->> **u/LieGroupE8** [+4]  ***
+>> **u/LieGroupE8** [+6]  ** (7 hours later)
 >> 
 >> Ha! Yes! That's hilarious. *How long have you known this information?*
->> 
 
->>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning* (9 hours later)
 >>> 
 >>> [Who did you tell?](https://imgur.com/9VnOtv6)
->>> Not very long.  Hours, at most.
 >>> 
+>>> Not very long.  Hours, at most.
 
-> **u/CouteauBleu** [+7]  *We are the Empire.**
+> **u/CouteauBleu** [+8]  *We are the Empire.* (a day later)
 > 
 > Okay, yes, this spaceship is even more adorable than the canon one.
-> 
 
-> **u/daytodave** [+5]  *an altruistic conversion of calories to hedons**
+> **u/daytodave** [+6]  *an altruistic conversion of calories to hedons* (4 hours later)
 > 
 > Well that was freaking delightful.
-> The New Day's Dawn very good ship (yes he is! yes he is!).
 > 
+> The New Day's Dawn very good ship (yes he is! yes he is!).
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+4]  *We are the Empire.* (a day later)
 > 
 > I think this is my favourite ship in the fic.
-> 
 
-> **u/justletmebrowse68** [+3] *
+> **u/justletmebrowse68** [+4]  (3 hours later)
 > 
 > Thank you for the helmacrons mention in the previous chapter. Your work is delightful as always
-> 
 
-> **u/nipplelightpride** [+4] *
+> **u/nipplelightpride** [+4]  (14 hours later)
 > 
 > I'm a bit confused as to what the ship really knows about or not:  
-
+> 
 > >  The holder of the Key was a shape the ship did not recognize, for it had spent only a very short time in the water before its masters had sent it to sleep   
 > >  
 > >  
 > >  
 > >—for it was linked by gentle embrace with its makers’ *other* children, the Friends, and could know anything they knew—
-> If it knows everything 'the Friends' know, why doesn't it recognize the giant squid? Or is that functionality still booting up from sleep?
 > 
+> If it knows everything 'the Friends' know, why doesn't it recognize the giant squid? Or is that functionality still booting up from sleep?
 
->> **u/ketura** [+7]  *Organizer**
+>> **u/ketura** [+7]  *Organizer* (14 hours later)
 >> 
 >> "*could* know", not "did know". It can and probably did query the CheeDB, but that took action and not reflex.
->> 
 
->>> **u/daytodave** [+7]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+8]  *an altruistic conversion of calories to hedons* (15 hours later)
 >>> 
 >>> Plus Good Ship was way more interested in learning about Tobias than the squid. Tobias has thrown the stick for Waffles, and for Biscuit, and for Pancake.
->>> 
 
->>> **u/TK17Studios** [+5]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+6]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>> 
 >>> ^ Correct answer.  It has to actively recall things out of Chee memory.
->>> 
 
->>> **u/daytodave** [+3]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+3]  *an altruistic conversion of calories to hedons* (20 hours later)
 >>> 
 >>> I bet the first thing Tobias does is query the Chidi-B for details about the anti-violence rules. What else should be be asking?
->>> 
 
-> **u/Teive** [+3] *
+> **u/Teive** [+3]  (2 days later)
 > 
 > https://www.newsarama.com/48602-animorphs-are-back-and-they-re-invading-comics.html
-> Good News everyone!
-> Also, I miss Garret chapters. The way you're able to write his viewpoint, and his... Simpler? Way of seeing tbr world is a great change of pace from the thoughts within thoughts within thoughts of the rest.
-> In this chapter specifically, I'm still kot sure I understand exactly what is going on with the ship RE it's ability to understand and communicate. But I think that's because I'm not thinking about it hard enough yet - I was just so stoked to post
 > 
+> Good News everyone!
+> 
+> Also, I miss Garret chapters. The way you're able to write his viewpoint, and his... Simpler? Way of seeing tbr world is a great change of pace from the thoughts within thoughts within thoughts of the rest.
+> 
+> In this chapter specifically, I'm still kot sure I understand exactly what is going on with the ship RE it's ability to understand and communicate. But I think that's because I'm not thinking about it hard enough yet - I was just so stoked to post
 
->> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >> 
 >> Garrett is next.  =)
->> 
 
->>> **u/Teive** [+3] *
+>>> **u/Teive** [+3]  (2 days later)
 >>> 
 >>> And for that, I wanted to give you some feedback that came to me like ten minutes ago.
->>> Marco saying 'we kind of like Rachel now' is a really, really good way to remind people that Marco is in eighth grade. That is such a 13 year old thing to say - it's a credit to your writing you can weave immaturity (or at least the same outcomes that come from immaturity) with raw... Intelligence and strength. Really well done.
 >>> 
+>>> Marco saying 'we kind of like Rachel now' is a really, really good way to remind people that Marco is in eighth grade. That is such a 13 year old thing to say - it's a credit to your writing you can weave immaturity (or at least the same outcomes that come from immaturity) with raw... Intelligence and strength. Really well done.
 
->>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >>>> 
 >>>> <3
->>>> 
 
-> **u/FenrirW0lf** [+3] *
+> **u/FenrirW0lf** [+3]  (2 days later)
 > 
 > The Pemalite ship reminds me of a more earnest/better designed version of the doors in Hitchhiker's Guide to the Galaxy that are programmed to profusely enjoy opening and closing for people.
-> 
 
 ---
 

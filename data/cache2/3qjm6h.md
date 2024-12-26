@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (29 minutes later)
 > 
 > >If stuff like this kept popping up, why did we even have the square cube law?
-> 
 
 ---
 

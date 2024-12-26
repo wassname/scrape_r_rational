@@ -2,7 +2,7 @@
 
 * Author: u/LupoCani *
 * URL: https://readms.net/r/neverland/097/5256/1
-* Score: 6
+* Score: 7
 
 * Created: 2018-08-02T11:53:45
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/GrecklePrime** [+3] *
+> **u/GrecklePrime** [+3]  (2 hours later)
 > 
 > Everyone gets to read an important plot point but the reader. My least favorite trope.
-> 
 
 ---
 

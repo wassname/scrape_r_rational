@@ -2,7 +2,7 @@
 
 * Author: u/LieGroupE8  ***
 * URL: https://www.reddit.com/r/rational/comments/8j9kgi/d_death_and_immortality_westworld_season_2/
-* Score: 13
+* Score: 10
 
 * Created: 2018-05-14T04:17:31
 
@@ -38,128 +38,150 @@ And some more general questions about the show:
 
 ### Comments:
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (a day later)
 > 
 > I didn't initially look at this because I haven't seen westworld and didn't want spoilers in case I decided to. 
+> 
 > A friend recommended it because they thought I'd enjoy the exploration of whether robots can be concious/sentient or not. It sounded like a consealed question in which they really asked whether robots could be morally valueable. And in my mind that answer is already set at something like 'less valueable than humans but far more valueable that you can't murder them for fun', and then it seemed less interesting. Is there more to the series that that?
+> 
 > Your questions resonate with me though. If immortality were invented today I don't think you could feasibly keep it from the rich and powerful, given our capitalist structure. Worse, wealth distribution would be even more concentrated on a few individuals since they would keep accumulating endlessly.
 > I honestly think that you need a strong international organization similar to the EU for that society not to end up as a dystopia, however I have yet to think of a good structure to avoid corruption.
-> Don't focus as much on sadists though. There's plenty of consensual sadists and consensual masochists, and presumably there would be laws in place to punish people or remove people who caused nonconsensual pain in a post-scarcity society.
-> I don't know the specifics of the Delos copies(and don't want to know too much details in case I decide to watch the show), however there's a difference between consent and informed consent, and you should always be able to retract your consent at some point during the experiments. I'd take large quantities of pain and torture if it meant I were able to live forever afterwards, even if my body's reaction to said torture would be to do anything to make it stop. Would I sacrifice copies of myself though? I'm not so sure.
 > 
+> Don't focus as much on sadists though. There's plenty of consensual sadists and consensual masochists, and presumably there would be laws in place to punish people or remove people who caused nonconsensual pain in a post-scarcity society.
+> 
+> I don't know the specifics of the Delos copies(and don't want to know too much details in case I decide to watch the show), however there's a difference between consent and informed consent, and you should always be able to retract your consent at some point during the experiments. I'd take large quantities of pain and torture if it meant I were able to live forever afterwards, even if my body's reaction to said torture would be to do anything to make it stop. Would I sacrifice copies of myself though? I'm not so sure.
 
->> **u/LieGroupE8** [+2]  ***
+>> **u/LieGroupE8** [+2]  ** (a day later)
 >> 
 >> > the exploration of whether robots can be concious/sentient or not
->> In the context of Westworld, the question isn't whether they *can* be sentient so much as whether they *are* sentient. I don't want to spoil season 1 for you too much, but my interpretation of the show was that none of the robots were technically conscious until the end of the season - and still in season 2, not all of them are yet. The robots were originally programmed to closely follow "narratives," even having some of their direct dialogue preprogrammed.
->> > If immortality were invented today I don't think you could feasibly keep it from the rich and powerful
->> Yeah, this is a problem. Governments can help, but those too are corruptible. I think the onus will fall on the inventor of the technology to introduce it in a responsible way without being unduly swayed by money.
->> > presumably there would be laws in place to punish people or remove people who caused nonconsensual pain
->> The problem is that an enforcement system can't get every bad person, and it can't really prevent bad people from performing a crime for the first time. Ideally there would be no crime because no one would even want to commit crime in the first place. It's unclear how to implement this without being a terrible totalitarian mind-control society.
->> > you should always be able to retract your consent at some point during the experiments
->> Excellent point, though in the case of Delos, every time they resurrected him his memories were wiped, and the copies were too unstable to process their situation before degrading. I think for this to be any kind of ethical the original test subject should be a terminal cancer patient put through extensive mental prep before the copies are made, with a contract outlining clear stopping conditions.
 >> 
+>> In the context of Westworld, the question isn't whether they *can* be sentient so much as whether they *are* sentient. I don't want to spoil season 1 for you too much, but my interpretation of the show was that none of the robots were technically conscious until the end of the season - and still in season 2, not all of them are yet. The robots were originally programmed to closely follow "narratives," even having some of their direct dialogue preprogrammed.
+>> 
+>> > If immortality were invented today I don't think you could feasibly keep it from the rich and powerful
+>> 
+>> Yeah, this is a problem. Governments can help, but those too are corruptible. I think the onus will fall on the inventor of the technology to introduce it in a responsible way without being unduly swayed by money.
+>> 
+>> > presumably there would be laws in place to punish people or remove people who caused nonconsensual pain
+>> 
+>> The problem is that an enforcement system can't get every bad person, and it can't really prevent bad people from performing a crime for the first time. Ideally there would be no crime because no one would even want to commit crime in the first place. It's unclear how to implement this without being a terrible totalitarian mind-control society.
+>> 
+>> > you should always be able to retract your consent at some point during the experiments
+>> 
+>> Excellent point, though in the case of Delos, every time they resurrected him his memories were wiped, and the copies were too unstable to process their situation before degrading. I think for this to be any kind of ethical the original test subject should be a terminal cancer patient put through extensive mental prep before the copies are made, with a contract outlining clear stopping conditions.
 
->>> **u/Sonderjye** [+1] *
+>>> **u/Sonderjye** [+1]  (a day later)
 >>> 
 >>> > Yeah, this is a problem. Governments can help, but those too are corruptible. I think the onus will fall on the inventor of the technology to introduce it in a responsible way without being unduly swayed by money.
->>> How exactly would an inventor manage that? Putting the question aside about how they'd get enough funding for such a project or how to distribute it without a way of rich folks to reverse engineering it, how exactly would you consider it a responsible way of distribution?
->>> > The problem is that an enforcement system can't get every bad person, and it can't really prevent bad people from performing a crime for the first time. Ideally there would be no crime because no one would even want to commit crime in the first place. It's unclear how to implement this without being a terrible totalitarian mind-control society.
->>> That is already the case. I'm not seeing how immortality makes this any different. If anything resurrecting people by reuploading makes some of the harsher crimes less horrible.
->>> >Excellent point, though in the case of Delos, every time they resurrected him his memories were wiped, and the copies were too unstable to process their situation before degrading. I think for this to be any kind of ethical the original test subject should be a terminal cancer patient put through extensive mental prep before the copies are made, with a contract outlining clear stopping conditions.
->>> I'd say that anyone could sign up to be volunteer although you're probably get more old people or terminally ill people. If Delos knew that then he'd be ok with a number of copies of him being killed off in the process. If not you could tell inform him that a certain number of copies have been killed off when a new copy is started.
 >>> 
+>>> How exactly would an inventor manage that? Putting the question aside about how they'd get enough funding for such a project or how to distribute it without a way of rich folks to reverse engineering it, how exactly would you consider it a responsible way of distribution?
+>>> 
+>>> > The problem is that an enforcement system can't get every bad person, and it can't really prevent bad people from performing a crime for the first time. Ideally there would be no crime because no one would even want to commit crime in the first place. It's unclear how to implement this without being a terrible totalitarian mind-control society.
+>>> 
+>>> That is already the case. I'm not seeing how immortality makes this any different. If anything resurrecting people by reuploading makes some of the harsher crimes less horrible.
+>>> 
+>>> >Excellent point, though in the case of Delos, every time they resurrected him his memories were wiped, and the copies were too unstable to process their situation before degrading. I think for this to be any kind of ethical the original test subject should be a terminal cancer patient put through extensive mental prep before the copies are made, with a contract outlining clear stopping conditions.
+>>> 
+>>> I'd say that anyone could sign up to be volunteer although you're probably get more old people or terminally ill people. If Delos knew that then he'd be ok with a number of copies of him being killed off in the process. If not you could tell inform him that a certain number of copies have been killed off when a new copy is started.
 
->>>> **u/LieGroupE8** [+2]  ***
+>>>> **u/LieGroupE8** [+2]  ** (a day later)
 >>>> 
 >>>> > How exactly would an inventor manage that?
->>>> No idea - somehow create an extremely ethical nonprofit organization with a very strong filter on who gets appointed to leadership roles (such as democratically elected roles, but the organization can veto candidates who don't meet their ethical standards, and also requires  elected candidates to give up all other enterprises when joining). Another vision I had in my head was that immortality tech goes hand-in-hand with AGI, so the inventor can create a perfectly value-aligned friendly AI and let that thing decide. But that's a whole different, and far more difficult, problem. I'm just spitballing here.
->>>> > That is already the case
->>>> Yes, but ideally I'd like it not to be the case. One single immortal psychopath has plenty of time and resources to create his own little virtual hell and populate it with billions of conscious sims. I'd rather prevent that possibility outright than try to enforce it externally.
 >>>> 
+>>>> No idea - somehow create an extremely ethical nonprofit organization with a very strong filter on who gets appointed to leadership roles (such as democratically elected roles, but the organization can veto candidates who don't meet their ethical standards, and also requires  elected candidates to give up all other enterprises when joining). Another vision I had in my head was that immortality tech goes hand-in-hand with AGI, so the inventor can create a perfectly value-aligned friendly AI and let that thing decide. But that's a whole different, and far more difficult, problem. I'm just spitballing here.
+>>>> 
+>>>> > That is already the case
+>>>> 
+>>>> Yes, but ideally I'd like it not to be the case. One single immortal psychopath has plenty of time and resources to create his own little virtual hell and populate it with billions of conscious sims. I'd rather prevent that possibility outright than try to enforce it externally.
 
->>>>> **u/Sonderjye** [+1] *
+>>>>> **u/Sonderjye** [+1]  (a day later)
 >>>>> 
 >>>>> Governments already have democratically elected roles and the democratic party sort of vetoed Sanders. An extremely ethical nonprofit organization with a very strong filter does indeed sound good, the question is just how that would even look.
->>>>> I too would prefer to prevent that. That scenario is pretty different than just an immortality scenario.
->>>>> I'm not seeing any fail sure way of preventing it, though you could lower the chance by putting in barriers. Easier ones would be requiring background checks before making simulations and the simulations to be accessible online so they could be monitored. If you want to go all out transhumanist you could alter the DNA of all humans to not have the urge to do stuff like that.
 >>>>> 
+>>>>> I too would prefer to prevent that. That scenario is pretty different than just an immortality scenario.
+>>>>> 
+>>>>> I'm not seeing any fail sure way of preventing it, though you could lower the chance by putting in barriers. Easier ones would be requiring background checks before making simulations and the simulations to be accessible online so they could be monitored. If you want to go all out transhumanist you could alter the DNA of all humans to not have the urge to do stuff like that.
 
->>> **u/CommonMisspellingBot** [+1] *
+>>> **u/CommonMisspellingBot** [+1]  (a day later)
 >>> 
 >>> Hey, LieGroupE8, just a quick heads-up:  
 >>> **concious** is actually spelled **conscious**. You can remember it by **-sc- in the middle**.  
 >>> Have a nice day!
->>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 >>> 
+>>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 
->>>> **u/LieGroupE8** [+2]  ***
+>>>> **u/LieGroupE8** [+2]  ** (a day later)
 >>>> 
 >>>> Hey CommonMisspellingBot, just a quick heads-up:
->>>> **quoting** a misspelling is different than **typing** a misspelling.
->>>> Have a nice day!^noonelikesyou
 >>>> 
+>>>> **quoting** a misspelling is different than **typing** a misspelling.
+>>>> 
+>>>> Have a nice day!^noonelikesyou
 
->> **u/CommonMisspellingBot** [+0] *
+>> **u/CommonMisspellingBot** [+0]  (a day later)
 >> 
 >> Hey, Sonderjye, just a quick heads-up:  
 >> **concious** is actually spelled **conscious**. You can remember it by **-sc- in the middle**.  
 >> Have a nice day!
->> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 >> 
+>> ^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
 
-> **u/leakycauldron** [+3]  *Imperium of Man**
+> **u/leakycauldron** [+1]  *Imperium of Man* (an hour later)
 > 
 > 1) I don't think this belongs here. It isn't rational, it doesn't belong on /r/rational.
-> The AI are just people. There's nothing to explore about Hosts regarding their artificial intelligence, they're just people with usb dongles for brains. What Westworld **is** is an analysis of what it means to be human. Are we still human if our fathers are assigned to us at the start of the month? What if fate is deterministic?
-> 2) I don't know why you and others are confused about guns. They were clearly said to have been reprogrammed at the end of season 1. It's frustrating see dozens of comments every week about them like they're a huge mystery.
-> ---
-> It's up to the mods whether this stays but ultimately it would muddle the value of the subreddit. Just my opinion tho.
 > 
+> The AI are just people. There's nothing to explore about Hosts regarding their artificial intelligence, they're just people with usb dongles for brains. What Westworld **is** is an analysis of what it means to be human. Are we still human if our fathers are assigned to us at the start of the month? What if fate is deterministic?
+> 
+> 2) I don't know why you and others are confused about guns. They were clearly said to have been reprogrammed at the end of season 1. It's frustrating see dozens of comments every week about them like they're a huge mystery.
+> 
+> ---
+> 
+> It's up to the mods whether this stays but ultimately it would muddle the value of the subreddit. Just my opinion tho.
 
->> **u/LieGroupE8** [+2]  ***
+>> **u/LieGroupE8** [+2]  ** (9 hours later)
 >> 
 >> It’s a discussion of fiction with interesting themes relevant to the community. We can make the discussion rationalist by critiquing the show with rational criteria. Anyway, it’s a gray area, so the mods can decide. I don’t see how this is different than when CGP Grey’s and Kurzgesagt’s anti death videos were posted here. Those weren’t rational fiction.
->> The programming explanation seems right but is unsatisfying to me because it is a hand-wave. I was wondering if someone could come up with a “rationalized” explanation. For example, what happens if you shoot at a guest through a wall? How does the gun know not to use a real bullet?
 >> 
+>> The programming explanation seems right but is unsatisfying to me because it is a hand-wave. I was wondering if someone could come up with a “rationalized” explanation. For example, what happens if you shoot at a guest through a wall? How does the gun know not to use a real bullet?
 
->>> **u/leakycauldron** [+1]  *Imperium of Man**
+>>> **u/leakycauldron** [+1]  *Imperium of Man* (17 hours later)
 >>> 
 >>> This is seeming less and less grey area.
->>> 
 
->>>> **u/LieGroupE8** [+0]  ***
+>>>> **u/LieGroupE8** [+0]  ** (20 hours later)
 >>>> 
 >>>> Apparently no one here finds Westworld interesting. Noted.
->>>> 
 
->>>>> **u/leakycauldron** [+2]  *Imperium of Man**
+>>>>> **u/leakycauldron** [+2]  *Imperium of Man* (20 hours later)
 >>>>> 
 >>>>> Nah man, I love westworld and would shoot the shit with you about it any time... just not any place - this isn't the place for it.
->>>>> I mean this in the kindest possible way but you're not super clear on the definition of rational fiction or rationalist fiction, because you've been using the terms interchangeably, and more importantly, using it in the context of a show that it just doesn't apply to: Westworld is meant to be viewed through the lens of creation and meaning and a bunch of subjective features.
->>>>> What I **would** love is a rational fiction set in westworld's universe where the Hosts become rational and bloodthirsty to defend their own rights to live, or Arnold's creation a race of sentient robots and growing them responsibly into a race that caters to humans instead of being raped and killed for sport.
->>>>> At the end of the day, actions taken in the world are simply because the plot requires it - it is unreasonable to apply the rules of the world on what might happen in future because they're so easily disposed of in this show, the transhumanism is just alternative humanism.
 >>>>> 
+>>>>> I mean this in the kindest possible way but you're not super clear on the definition of rational fiction or rationalist fiction, because you've been using the terms interchangeably, and more importantly, using it in the context of a show that it just doesn't apply to: Westworld is meant to be viewed through the lens of creation and meaning and a bunch of subjective features.
+>>>>> 
+>>>>> What I **would** love is a rational fiction set in westworld's universe where the Hosts become rational and bloodthirsty to defend their own rights to live, or Arnold's creation a race of sentient robots and growing them responsibly into a race that caters to humans instead of being raped and killed for sport.
+>>>>> 
+>>>>> At the end of the day, actions taken in the world are simply because the plot requires it - it is unreasonable to apply the rules of the world on what might happen in future because they're so easily disposed of in this show, the transhumanism is just alternative humanism.
 
->>>>>> **u/LieGroupE8** [+0]  ***
+>>>>>> **u/LieGroupE8** [+0]  ** (21 hours later)
 >>>>>> 
 >>>>>> Yet the "Rational Wakanda" thread has a decent response rate and seems to be well-received... I think this is a framing problem. It seems that all I need to do is add the word "rational" to the post title and then slightly reword the discussion questions.
->>>>>> 
 
->>>>>>> **u/leakycauldron** [+1]  *Imperium of Man**
+>>>>>>> **u/leakycauldron** [+1]  *Imperium of Man* (21 hours later)
 >>>>>>> 
 >>>>>>> Yeah your thread is definitely way different to that one in scope. You're asking completely different things. Good luck.
->>>>>>> 
 
->>>>>>>> **u/LieGroupE8** [+2]  ***
+>>>>>>>> **u/LieGroupE8** [+2]  ** (21 hours later)
 >>>>>>>> 
 >>>>>>>> Not gonna actually try it, but...
->>>>>>>> "Rationalizing Westworld: Season 2 Episode 4 Discussion"
->>>>>>>> "You've been teleported into Man in Black's body, and now you've got to decide whether to continue the questionably ethical immortality experiment that Original Man in Black started. What do you do?"
->>>>>>>> "You're Robert Ford and you have decided to create Westworld. How do you design the guns so that they work normally most of the time but don't hurt the guests?"
->>>>>>>> "You're an AI researcher working for Westworld, and your job is to program the hosts to follow their narratives while allowing them to improvise. What sorts of design tradeoffs do you make here? What are the high level technical details (asking for a TOOOOTALLY RATIONAL worldbuilding exercise that I'm doing)."
->>>>>>>> Seriously though, every post is different from every other post. I know that posts like this can work if framed correctly. I think it's a combination of people being sick of these particular discussion topics (covered by the Kursgesagt video and CGP grey video threads) plus not everyone watching Westworld plus some people not wanting spoilers plus the perception problem that you've described. Anyway, it's fine, this post was experimental.
 >>>>>>>> 
+>>>>>>>> "Rationalizing Westworld: Season 2 Episode 4 Discussion"
+>>>>>>>> 
+>>>>>>>> "You've been teleported into Man in Black's body, and now you've got to decide whether to continue the questionably ethical immortality experiment that Original Man in Black started. What do you do?"
+>>>>>>>> 
+>>>>>>>> "You're Robert Ford and you have decided to create Westworld. How do you design the guns so that they work normally most of the time but don't hurt the guests?"
+>>>>>>>> 
+>>>>>>>> "You're an AI researcher working for Westworld, and your job is to program the hosts to follow their narratives while allowing them to improvise. What sorts of design tradeoffs do you make here? What are the high level technical details (asking for a TOOOOTALLY RATIONAL worldbuilding exercise that I'm doing)."
+>>>>>>>> 
+>>>>>>>> Seriously though, every post is different from every other post. I know that posts like this can work if framed correctly. I think it's a combination of people being sick of these particular discussion topics (covered by the Kursgesagt video and CGP grey video threads) plus not everyone watching Westworld plus some people not wanting spoilers plus the perception problem that you've described. Anyway, it's fine, this post was experimental.
 
 ---
 

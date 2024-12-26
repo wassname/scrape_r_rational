@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/8k1avm/biweekly_challenge_memoir/
-* Score: 16
+* Score: 19
 
 * Created: 2018-05-17T04:08:59
 
@@ -52,26 +52,23 @@ Next time will be /u/vi_fi's choice, **Shipping**. "There are two obvious direct
 
 ### Comments:
 
-> **u/None** [+10] *
+> **u/None** [+8]  (9 days later)
 > 
 > [Rule of Three](https://vi-fi.github.io/Rule%20of%20Three) (1000 words)
-> Edit for anyone worried about me: Though the depicted coincidence did happen, I exaggerated my reaction to write a more interesting story. I'm not doubting reality :)
 > 
+> Edit for anyone worried about me: Though the depicted coincidence did happen, I exaggerated my reaction to write a more interesting story. I'm not doubting reality :)
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (14 days later)
 >> 
 >> \(Subversion:  after just\-in\-case screening all \*people\*, the next thing that pops up in reality is instead one of the non\-human phenomena.  \(Looking into a mirror one morning and being struck with the horrified certainty that you're seeing a p\-zombie?\)\)
->> 
 
-> **u/None** [+12] *
+> **u/None** [+11]  (4 days later)
 > 
 > [Verity](https://docs.google.com/document/d/1UsuVqP872Hj8T3I5HUDUDCPjBrYjSB6X2vjQaUsBhpc/edit?usp=drivesdk)
-> 
 
->> **u/MultipartiteMind** [+2] *
+>> **u/MultipartiteMind** [+2]  (14 days later)
 >> 
 >> (Thinking about the 'right choice':  somewhat after-the-fact, in that there was an earlier choice in service of the goal of again being in a relationship with her--not sleeping with others while apart, even if she said it should be done and it was thought she wouldn't learn about it.  To put it another way, there was a choice between deceiving or losing, but only after already deciding she was someone one was going to conceal things from (rather than seeking a relationship with nothing concealed).  Even if she never asked, next time they met one could have told her (in sincere pursuit of one's goal) and been telling the truth...)
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/erwgv3g34 *
 * URL: https://www.fimfiction.net/story/95424/mortal
-* Score: 11
+* Score: 10
 
 * Created: 2019-02-03T04:17:35
 
@@ -12,22 +12,21 @@
 
 ### Comments:
 
-> **u/erwgv3g34** [+6] *
+> **u/erwgv3g34** [+6]  (13 seconds later)
 > 
 > An absolutely heartwrenching exploration of transhumanist ethics, _Mortal_ is one of the most beautiful novels I have ever had the privilege of reading. It has a one-shot sequel, ["Mother of Nations"](https://www.fimfiction.net/story/134664/mother-of-nations), set centuries after the events of _Mortal_, and a trio of deleted scenes collected in [_Lunar Orbit_](https://www.fimfiction.net/story/85197/lunar-orbit). I found that listening to ["The Passage of Emptiness"](https://www.youtube.com/watch?v=sg2Plw8CFOc) on repeat while reading really enhanced the experience.
-> Also, awesome Crabapple is awesome.
 > 
+> Also, awesome Crabapple is awesome.
 
-> **u/FormerlySarsaparilla** [+6] *
+> **u/FormerlySarsaparilla** [+5]  (a day later)
 > 
 > Not bad, definitely the kind of MLP fiction I'd rather see on here. A good intro to some transhumanist debate. The arguments on both sides were a little more emotionally charged and a little less logically grounded than I'd have liked. It would have been nice to see some of the consequences actually play out in longer form. I think I'd have enjoyed it more if it had been longer- which is probably the highest compliment I can pay a fic, come to think of it.
-> 
 
->> **u/erwgv3g34** [+3] *
+>> **u/erwgv3g34** [+3]  (2 days later)
 >> 
 >> >It would have been nice to see some of the consequences actually play out in longer form. I think I'd have enjoyed it more if it had been longer- which is probably the highest compliment I can pay a fic, come to think of it.
->> The sequel, ["Mother of Nations"](https://www.fimfiction.net/story/134664/mother-of-nations), and [the deleted epilogue](https://www.fimfiction.net/story/85197/3/lunar-orbit/mortal-deleted-scenes-epilogue) both deal with the events of _Mortal_ on a longer timescale.
 >> 
+>> The sequel, ["Mother of Nations"](https://www.fimfiction.net/story/134664/mother-of-nations), and [the deleted epilogue](https://www.fimfiction.net/story/85197/3/lunar-orbit/mortal-deleted-scenes-epilogue) both deal with the events of _Mortal_ on a longer timescale.
 
 ---
 

@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (5 minutes later)
 > 
 > Top-level posts should be directly related to discussion of rational fiction, not fiction in general.
-> However, feel free to post this in this week's Friday Off-Topic thread when it goes up 47 hours from now.
 > 
+> However, feel free to post this in this week's Friday Off-Topic thread when it goes up 47 hours from now.
 
 ---
 

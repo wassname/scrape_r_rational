@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/7trikm/zero_a_genkit_story/
-* Score: 20
+* Score: 18
 
 * Created: 2018-01-29T10:49:07
 
@@ -107,209 +107,263 @@ Lacking anything else to do, I sat in the dark and waited for the stasis sicknes
 
 ### Comments:
 
-> **u/artifex0** [+8] *
+> **u/artifex0** [+8]  (6 hours later)
 > 
 > It's a good start, though it's a lot of exposition for an introduction.  "Show; don't tell" is a common bit of writing advice, and I think it makes sense- you want to want to get the reader identifying with the protagonist and putting themselves in their world as soon as possible, and that's more likely to happen with visceral events than with distant explanations.
-> I'd recommend trying to convey as much of the background and setting as possible through the character's decisions, and secondarily through their perceptions.  So, for example, instead of having a character just describe the size and features of the city, you could have the protagonist insist on visiting some specific location (a choice that could give some insight into their character), and then imply the size and nature of the city through the character's reaction to specific details.
-> You might also think about setting up some of the backstory as mysteries to keep the reader hooked.  For example, instead of just describing a former squad-mate, you might give the character an extreme emotional reaction to something that reminds them of that person, imply that there's an intriguing story behind it, but save the details for later.
-> On the worldbuilding, I think that the sort of future that would plausibly produce these genkits is going to have to be something a bit out-of-the-box.  I wouldn't quite buy a setting where animal-people were created as slaves or super-soldiers- even if genetic engineering did turn out to be a better solution for industry and warfare than more advanced automation and drones, I think the features you'd want would be things like bomb-proof carapaces and the ability to secrete valuable materials, not fur and fangs.  I also think that a majority of people in any culture similar to our own would recognize these genkits as people worthy of rights.  
-> If they were created purely as an experiment, I think they'd fit best into a world where extreme experimentation in genetic engineering was pretty common- the sort of world where transgenic animals have replaced a lot of modern technologies, and where there are already a large number of human variants.
-> Even then, for the genkit population to become large enough to spark a war, I think you'd need something else.  Maybe a strange new animistic religion that would see animal people as closer to some spiritual ideal.  Maybe a counter-culture of genetic body-modification attracting those suffering from species dysphoria.  Or maybe some utopian project envisioning animal-people as better integrating with nature.
 > 
+> I'd recommend trying to convey as much of the background and setting as possible through the character's decisions, and secondarily through their perceptions.  So, for example, instead of having a character just describe the size and features of the city, you could have the protagonist insist on visiting some specific location (a choice that could give some insight into their character), and then imply the size and nature of the city through the character's reaction to specific details.
+> 
+> You might also think about setting up some of the backstory as mysteries to keep the reader hooked.  For example, instead of just describing a former squad-mate, you might give the character an extreme emotional reaction to something that reminds them of that person, imply that there's an intriguing story behind it, but save the details for later.
+> 
+> On the worldbuilding, I think that the sort of future that would plausibly produce these genkits is going to have to be something a bit out-of-the-box.  I wouldn't quite buy a setting where animal-people were created as slaves or super-soldiers- even if genetic engineering did turn out to be a better solution for industry and warfare than more advanced automation and drones, I think the features you'd want would be things like bomb-proof carapaces and the ability to secrete valuable materials, not fur and fangs.  I also think that a majority of people in any culture similar to our own would recognize these genkits as people worthy of rights.  
+> 
+> If they were created purely as an experiment, I think they'd fit best into a world where extreme experimentation in genetic engineering was pretty common- the sort of world where transgenic animals have replaced a lot of modern technologies, and where there are already a large number of human variants.
+> 
+> Even then, for the genkit population to become large enough to spark a war, I think you'd need something else.  Maybe a strange new animistic religion that would see animal people as closer to some spiritual ideal.  Maybe a counter-culture of genetic body-modification attracting those suffering from species dysphoria.  Or maybe some utopian project envisioning animal-people as better integrating with nature.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (6 hours later)
 >> 
 >> The backstory actually answers a fair number of those concerns, but I can't really explain without spoiling things. The bit about 'show don't tell' is good advice though. I've already written out three chapters of the story, but I'll definitely keep that in mind for future chapters!
->> 
 
->> **u/wren42** [+3] *
+>> **u/wren42** [+3]  (11 hours later)
 >> 
 >> yeah, /u/xinago, I share these concerns.  any society that could create genkits, did so in large enough quantities to be a threat, and then fought a fairly conventional war against them would need a very strange set of parameters that need to be explained. 
->> Why give animals intelligence if machines are more effective at most tasks?
->> Why pick specific and diverse mammalian breeds rather than engineer hybrids for specific tasks?
->> How did society come to have that much understanding of genetics, medicine, and the mind and not simply transcend into a higher state civilization?  Why hasn't there been a singularity? (all good sci fi needs to answer this last question, IMO)
->> Why not grant them rights in the first place, once this odd state of affairs is reached?
->> If you are so callous and imperialistic as to deny rights, why then capitulate when faced with primitive terrorist tactics? if your genetics is so good why not engineer a disease that targets just these modified beings?  they should have clear markers. 
->> you can ignore all this in cartoons and video games but if you want a hard sci-fi rational fic you need to address the holes in the world pretty tightly. 
->> edit:
->> my answers to these questions would likely be that they were created by private entities as exotic pets.  The "war" fought was not against the American Empire but private security forces for the corporations that owned and were profiting off them.  these organizations would have more limited arsenals and ability to operate freely within US soil.  Political pressure both internal and external would be weighed against interests of lobbyists until eventually it was a geopolitical PR problem and the government intervened to grant rights and enforce regulations.
 >> 
+>> Why give animals intelligence if machines are more effective at most tasks?
+>> 
+>> Why pick specific and diverse mammalian breeds rather than engineer hybrids for specific tasks?
+>> 
+>> How did society come to have that much understanding of genetics, medicine, and the mind and not simply transcend into a higher state civilization?  Why hasn't there been a singularity? (all good sci fi needs to answer this last question, IMO)
+>> 
+>> Why not grant them rights in the first place, once this odd state of affairs is reached?
+>> 
+>> If you are so callous and imperialistic as to deny rights, why then capitulate when faced with primitive terrorist tactics? if your genetics is so good why not engineer a disease that targets just these modified beings?  they should have clear markers. 
+>> 
+>> you can ignore all this in cartoons and video games but if you want a hard sci-fi rational fic you need to address the holes in the world pretty tightly. 
+>> 
+>> edit:
+>> 
+>> my answers to these questions would likely be that they were created by private entities as exotic pets.  The "war" fought was not against the American Empire but private security forces for the corporations that owned and were profiting off them.  these organizations would have more limited arsenals and ability to operate freely within US soil.  Political pressure both internal and external would be weighed against interests of lobbyists until eventually it was a geopolitical PR problem and the government intervened to grant rights and enforce regulations.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (16 hours later)
 >>> 
 >>> > https://www.reddit.com/r/rational/comments/7trikm/zero_a_genkit_story/dtg3jor/
->>> 
 
-> **u/inscrutablescooter** [+2] *
+> **u/inscrutablescooter** [+2]  (3 hours later)
 > 
 > I found it intriguing. I'm not a writer myself, so I'm afraid I can't offer any meaningful feedback from a writing perspective, but I would read more.
-> Do the Genkits have animal bodies and human intelligence, or animal bodies and intelligence on par with that of a human? If the latter, I would find it really interesting if there was some sort of exploration of whether being embodied differently, having a different set of senses would make cognition different without making it lesser, per se.
 > 
+> Do the Genkits have animal bodies and human intelligence, or animal bodies and intelligence on par with that of a human? If the latter, I would find it really interesting if there was some sort of exploration of whether being embodied differently, having a different set of senses would make cognition different without making it lesser, per se.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (4 hours later)
 >> 
 >> Humanoid bodies with mostly animal traits. The setting rose out of a roleplay thing, and the entirety of the world was created to give my players a legitimate reason to play furries, basically. Only what started out as an excuse to allow players to RP quickly grew into its own, organically created world. 
->> Some of them do have sensory changes from your standard human. Canids tend to have amazing senses of smell, felinids have good night vision, that kind of thing. Bats tend to have bad eyesight but great hearing and a few of them have echolocation. The ones who don't tend to end up needing corrective eye surgery later on as they grow up. 
->> The really neat thing is that Genkits don't age. Or rather, they age, but they don't degrade from their aging. The original experiments which spawned their creation were a test to see how far the human genome could be manipulated and edited while still producing a viable, living creature.
 >> 
+>> Some of them do have sensory changes from your standard human. Canids tend to have amazing senses of smell, felinids have good night vision, that kind of thing. Bats tend to have bad eyesight but great hearing and a few of them have echolocation. The ones who don't tend to end up needing corrective eye surgery later on as they grow up. 
+>> 
+>> The really neat thing is that Genkits don't age. Or rather, they age, but they don't degrade from their aging. The original experiments which spawned their creation were a test to see how far the human genome could be manipulated and edited while still producing a viable, living creature.
 
->>> **u/wren42** [+3] *
+>>> **u/wren42** [+3]  (11 hours later)
 >>> 
 >>> > The original experiments which spawned their creation were a test to see how far the human genome could be manipulated and edited while still producing a viable, living creature.
->>> this isn't sufficient IMO.  This is not the approach any serious scientist would take to determine those limits, and they certainly wouldn't create thousands of different but similar types. 
->>> The only reasonable explanation for their existence in my mind is cosmetic/entertainment/luxury.  Why else would they be made to look like specific animals, except that people demand it be so for aesthetic reasons?
->>> It would make sense if they were basically exotic pets that were made smarter and smarter over subsequent generations, until they were basically companion/pet/slaves with human level intelligence.  I could see this happening in a consumer centered future society with low regulation, and there being reason for certain elements or organizations to resist granting them rights (profit, desire for control of their pets.)
->>> one outcome of this line of thinking is that there are likely still societies where they are enslaved (say, if China is anything like it is today)
 >>> 
+>>> this isn't sufficient IMO.  This is not the approach any serious scientist would take to determine those limits, and they certainly wouldn't create thousands of different but similar types. 
+>>> 
+>>> The only reasonable explanation for their existence in my mind is cosmetic/entertainment/luxury.  Why else would they be made to look like specific animals, except that people demand it be so for aesthetic reasons?
+>>> 
+>>> It would make sense if they were basically exotic pets that were made smarter and smarter over subsequent generations, until they were basically companion/pet/slaves with human level intelligence.  I could see this happening in a consumer centered future society with low regulation, and there being reason for certain elements or organizations to resist granting them rights (profit, desire for control of their pets.)
+>>> 
+>>> one outcome of this line of thinking is that there are likely still societies where they are enslaved (say, if China is anything like it is today)
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (16 hours later)
 >>>> 
 >>>> >this isn't sufficient IMO. This is not the approach any serious scientist would take to determine those limits, and they certainly wouldn't create thousands of different but similar types. 
->>>> Animal rights.
->>>> Whole thing started out with genetic research being done by private groups trying to perfect human genome editing. The work was stolen by a second group of animal rights extremists who wanted to demonstrate that animals and people aren't any different. Militant vegans, basically, backed by at least one very rich and eccentric 1%'er.
->>>> The issue was that they never actually got permission from any major government for that kind of human experimentation, but by that point there was a few thousand Genkits and they'd been smuggled out and spread around the planet to different places to prevent anybody from simply leveling the main research facility and wiping them all out at once. When the UN moved in to shut the whole thing down, the Genkits were deemed to be illegal experiments and the more conservative factions decided they were an affront to the natural order, or against God, or whatever excuse they wanted to come up with to hate on this new species of people. They were never meant to be fluff, or a slave race. They were meant to guilt people into cutting down on widespread animal farming.
->>>> By the time *that* happened most of the first-generation Genkits were old enough to understand what was going on and be pretty pissed off about being denied human rights. They were being rounded up for destruction because they represented a potential threat to anybody who wanted to avoid human genome editing. If they let the whole thing go, it would send the message that any experiments that came out of that kind of illegal research would be allowed to exist even if you broke the law.
->>>> >if your genetics is so good why not engineer a disease that targets just these modified beings? they should have clear markers. 
->>>> Geneva convention specifically prohibits that kind of biological weapons research IIRC
->>>> (I keep editing this comment to add on to things, heh. Sorry about that)
->>>> The population issue of Zero going from less than 5,000 Genkits to 5 million Genkits is actually a result of continued genetic research by the Genkits themselves after the war. It wasn't just the A.E. they were fighting, but pretty much the entire UAE, Russia, the American Empire, China and a few smaller African countries. All places where religious conservatism is high or where human experimentation is severely taboo. It got to the point where the neutral countries got sick of the whole goddamned mess and started political pressure to set up an armistice and simply grant them their own place, which turned out to be Antarctica mostly because no major country has a serious foothold there. The UN funded the first stages of construction of the city, and they were then able to fund the rest themselves through a combination of hiring themselves out (since Genkits learn very quickly), mining underneath Mt. Erebus and reparations from the war.
 >>>> 
+>>>> Animal rights.
+>>>> 
+>>>> Whole thing started out with genetic research being done by private groups trying to perfect human genome editing. The work was stolen by a second group of animal rights extremists who wanted to demonstrate that animals and people aren't any different. Militant vegans, basically, backed by at least one very rich and eccentric 1%'er.
+>>>> 
+>>>> The issue was that they never actually got permission from any major government for that kind of human experimentation, but by that point there was a few thousand Genkits and they'd been smuggled out and spread around the planet to different places to prevent anybody from simply leveling the main research facility and wiping them all out at once. When the UN moved in to shut the whole thing down, the Genkits were deemed to be illegal experiments and the more conservative factions decided they were an affront to the natural order, or against God, or whatever excuse they wanted to come up with to hate on this new species of people. They were never meant to be fluff, or a slave race. They were meant to guilt people into cutting down on widespread animal farming.
+>>>> 
+>>>> By the time *that* happened most of the first-generation Genkits were old enough to understand what was going on and be pretty pissed off about being denied human rights. They were being rounded up for destruction because they represented a potential threat to anybody who wanted to avoid human genome editing. If they let the whole thing go, it would send the message that any experiments that came out of that kind of illegal research would be allowed to exist even if you broke the law.
+>>>> 
+>>>> >if your genetics is so good why not engineer a disease that targets just these modified beings? they should have clear markers. 
+>>>> 
+>>>> Geneva convention specifically prohibits that kind of biological weapons research IIRC
+>>>> 
+>>>> (I keep editing this comment to add on to things, heh. Sorry about that)
+>>>> 
+>>>> The population issue of Zero going from less than 5,000 Genkits to 5 million Genkits is actually a result of continued genetic research by the Genkits themselves after the war. It wasn't just the A.E. they were fighting, but pretty much the entire UAE, Russia, the American Empire, China and a few smaller African countries. All places where religious conservatism is high or where human experimentation is severely taboo. It got to the point where the neutral countries got sick of the whole goddamned mess and started political pressure to set up an armistice and simply grant them their own place, which turned out to be Antarctica mostly because no major country has a serious foothold there. The UN funded the first stages of construction of the city, and they were then able to fund the rest themselves through a combination of hiring themselves out (since Genkits learn very quickly), mining underneath Mt. Erebus and reparations from the war.
 
->>>>> **u/wren42** [+2] *
+>>>>> **u/wren42** [+2]  (a day later)
 >>>>> 
 >>>>> Ok, I can buy the private militant vegan motivation.  I'm still skeptical of all these governments fighting them, and I feel like having it be private security/mercenary forces is much more believable.  First it is very unlikely so many governments would even engage in such an operation, and secondly it's unlikely they'd lose.  You can hand wave this if it's essential to the plot to have an Evil Empire, but a late stage capitalist future with corporations running rampant gives a lot of flavor as well while being more plausible as an amoral agent acting to destroy the Genkits for any number of reasons - religious, economic, avoiding a scandal, wanting to capture for their own research, etc.  Some combination of a profit motivated corporation that is fanning the flames of religious conservative groups for their own ends seems to make the most sense - you'd have corporate mercs + weird fundie militias all hunting down the Gerkin until the scandal goes public enough to force the government to intervene.  You could even have members of the government involved or complicit until it all goes more public; it just seem really unlikely to have a government military led extermination campaign against a few thousand illegal experiment subjects.  it takes a really weird mindset to make this happen.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> Hmm, I can see your point. Though the idea of corporations being in control of government through ~~bribery~~ lobbying does make a lot of sense. I don't really want to just hand-wave things away, that's why I posted about it in this sub. This is basically the first attempt I've made at committing myself to writing a long-term story, I want to get it right.
->>>>>> In my mind, it's mostly about religious nuts and people obsessed with human purity who wanted to wipe them out. There's also some motivation there due to them spreading out across several countries, both immigrating illegally and threatening the status-quo there. Imagine, for instance, if they'd spread to a place like Iran. What might the governments response be? The idea that they'd try to scourge the Genkits from their soil isn't all that wild to me, and if that was taking place in several areas at once I could easily see the Genkits themselves becoming biased against humans in general and developing an Us VS Them mentality. I don't want the Genkits to be the poor, abused victims in this. They're just as capable of being monstrous as human beings. They did fucked up things too, and not all of the hate for them is unfounded.
 >>>>>> 
+>>>>>> In my mind, it's mostly about religious nuts and people obsessed with human purity who wanted to wipe them out. There's also some motivation there due to them spreading out across several countries, both immigrating illegally and threatening the status-quo there. Imagine, for instance, if they'd spread to a place like Iran. What might the governments response be? The idea that they'd try to scourge the Genkits from their soil isn't all that wild to me, and if that was taking place in several areas at once I could easily see the Genkits themselves becoming biased against humans in general and developing an Us VS Them mentality. I don't want the Genkits to be the poor, abused victims in this. They're just as capable of being monstrous as human beings. They did fucked up things too, and not all of the hate for them is unfounded.
 
->>>>>>> **u/wren42** [+2] *
+>>>>>>> **u/wren42** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Oh yeah I could totally see a government like Iran or Saudi Arabia doing it. I guess if other countries have gone full authoritarian religious fundamentalism it could work; I guess the thing is if the us is as ruthless as Iran, they have the firepower to just win. They have to be holding back for some reason
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> Genkits during the war were spread out hidden among populations. While it's *possible* that the A.E. could have simply carpet bombed the area, they would have had to destroy their own cities to do so. That was the main reason for the guerilla tactics, using their enemies populations as literal human shields to keep from being wiped out by overwhelming firepower.
->>>>>>>> 
 
->>>>>>>>> **u/wren42** [+2] *
+>>>>>>>>> **u/wren42** [+2]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> no i mean they should have extremely advanced technology, surveillance/intelligence, high quality weapons and military units, extremely organized, etc.  There's no way a couple thousand otters would have a chance to deal any kind of damage and survive for long.  this is why I think it should be paramilitary/corporate mercs/militia.  These could have a range of varying capabilities giving gnkits a chance in early skirmishes and opportunities to steal gear etc, and would face a host of issues with operating openly on US soil.  they are also more likely to be aggressive/use illegal force compared to government military.
->>>>>>>>> 
 
->>>>>>> **u/Izeinwinter** [+1] *
+>>>>>>> **u/Izeinwinter** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> Honestly, the main problem is the war. If the conflict over genmods goes that hot, they should all be dead or humanity should be.
->>>>>>> Bio-war, vulnerabilities to dead-man switches built into their biology, just straight up conventional violence. They cant reproduce without a lab, and there just should not be enough of them to win.
->>>>>>> ... Not to mention that I am not sure things like the drug trade even make any sense in a high-biotech setting.
->>>>>>> That tech base means addictions are either curable, down to the underlying pathologies, or the drugs are in any case produced locally in peoples greenhouses and kitchens, because cheap manufacture of biologically active substances is *the* all dominating application of biotech.
->>>>>>> So.. The gen mods are run up as workaround for rules against human testing of gene mods. This is obviously complete bullshit, but the corps responsible manage to bribe some nations/regulators into buying their specious argument. So far, that is credible enough. 
->>>>>>> Then they get more popular, as essentially, well, sex or personal companion slaves. 
->>>>>>> Early examples do what slaves have always done and run away a lot, which establishes them globally, while nations that did not buy the "They are totally animals, just like my dog" argument have legal fits. 
->>>>>>> Massive civil disobedience campaigns, international pressure and eventually the very pointed parking of armored divisions on borders result in them eventually being declared human globally... Except that the nations which built them by the millions have absolutely no intention of granting them citizenship, so they get a bunch of heavy duty construction equipment and a deep line of credit due to reparations and ownership of the patents developed during their testing.
 >>>>>>> 
+>>>>>>> Bio-war, vulnerabilities to dead-man switches built into their biology, just straight up conventional violence. They cant reproduce without a lab, and there just should not be enough of them to win.
+>>>>>>> 
+>>>>>>> ... Not to mention that I am not sure things like the drug trade even make any sense in a high-biotech setting.
+>>>>>>> 
+>>>>>>> That tech base means addictions are either curable, down to the underlying pathologies, or the drugs are in any case produced locally in peoples greenhouses and kitchens, because cheap manufacture of biologically active substances is *the* all dominating application of biotech.
+>>>>>>> 
+>>>>>>> So.. The gen mods are run up as workaround for rules against human testing of gene mods. This is obviously complete bullshit, but the corps responsible manage to bribe some nations/regulators into buying their specious argument. So far, that is credible enough. 
+>>>>>>> 
+>>>>>>> Then they get more popular, as essentially, well, sex or personal companion slaves. 
+>>>>>>> 
+>>>>>>> Early examples do what slaves have always done and run away a lot, which establishes them globally, while nations that did not buy the "They are totally animals, just like my dog" argument have legal fits. 
+>>>>>>> 
+>>>>>>> Massive civil disobedience campaigns, international pressure and eventually the very pointed parking of armored divisions on borders result in them eventually being declared human globally... Except that the nations which built them by the millions have absolutely no intention of granting them citizenship, so they get a bunch of heavy duty construction equipment and a deep line of credit due to reparations and ownership of the patents developed during their testing.
 
->>>>>>>> **u/None** [+0] *
+>>>>>>>> **u/None** [+0]  (a day later)
 >>>>>>>> 
 >>>>>>>> > Bio-war, 
->>>>>>>> Prohibited by the Geneva conventions.
->>>>>>>> >vulnerabilities to dead-man switches built into their biology, 
->>>>>>>> Why would the militant Green Groups that made them do that? That makes no sense.
->>>>>>>> >just straight up conventional violence. 
->>>>>>>> Already explained that in other comments.
->>>>>>>> >They cant reproduce without a lab, and there just should not be enough of them to win.
->>>>>>>> That's entirely assumption on your part, Genkits are fertile and capable of sexual reproduction.
->>>>>>>> >... Not to mention that I am not sure things like the drug trade even make any sense in a high-biotech setting.
->>>>>>>> Right now we have the technology to map genomes and clone animals, but there are still heroin addicts. Just because you're advanced in one area of biotechnology doesn't give you a free pass in other areas of the same field.
 >>>>>>>> 
+>>>>>>>> Prohibited by the Geneva conventions.
+>>>>>>>> 
+>>>>>>>> >vulnerabilities to dead-man switches built into their biology, 
+>>>>>>>> 
+>>>>>>>> Why would the militant Green Groups that made them do that? That makes no sense.
+>>>>>>>> 
+>>>>>>>> >just straight up conventional violence. 
+>>>>>>>> 
+>>>>>>>> Already explained that in other comments.
+>>>>>>>> 
+>>>>>>>> >They cant reproduce without a lab, and there just should not be enough of them to win.
+>>>>>>>> 
+>>>>>>>> That's entirely assumption on your part, Genkits are fertile and capable of sexual reproduction.
+>>>>>>>> 
+>>>>>>>> >... Not to mention that I am not sure things like the drug trade even make any sense in a high-biotech setting.
+>>>>>>>> 
+>>>>>>>> Right now we have the technology to map genomes and clone animals, but there are still heroin addicts. Just because you're advanced in one area of biotechnology doesn't give you a free pass in other areas of the same field.
 
->>>>>>>>> **u/Izeinwinter** [+2] *
+>>>>>>>>> **u/Izeinwinter** [+2]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> Human genetic experimentation on the scale of the genkits is also illegal as hell. But okay, the biogens grew up in labs, perhaps deterrence of the MAD kind is enough to stop the clearly completely unethical researchers from just running up a virus to "Solve" the problem.
->>>>>>>>> But conventional violence is a big problem. Asymmetric war depends on the ability to hide. If the world wants to wage a genocidal war against people who *cannot* just blend into the general population, that pogrom would be horrifically effective. 
->>>>>>>>> Insurgency war does not work. Certainly not without great power backing- Note that however romantic the tale of the american revolutionary war, it would not have worked without the French being onside, and the american colonies were in a far better strategic position against an enemy far less inclined towards just murdering them.
 >>>>>>>>> 
+>>>>>>>>> But conventional violence is a big problem. Asymmetric war depends on the ability to hide. If the world wants to wage a genocidal war against people who *cannot* just blend into the general population, that pogrom would be horrifically effective. 
+>>>>>>>>> 
+>>>>>>>>> Insurgency war does not work. Certainly not without great power backing- Note that however romantic the tale of the american revolutionary war, it would not have worked without the French being onside, and the american colonies were in a far better strategic position against an enemy far less inclined towards just murdering them.
 
-> **u/wren42** [+2] *
+> **u/wren42** [+2]  (11 hours later)
 > 
 > >A Genkit is an uplifted animal-person, a melding of human and animal DNA.
-> >This world is based on a setting built up in roleplay
-> red flags for me TBH, but I'll give it a read anyway.  Writing about roleplays tends to be somewhat tropey and melodramatic, with an overinflated sense of importance of the "main"characters that had been the PCs or major NPCs.  this bias can distort the narrative and leads to less realism.  I'm already getting that feeling from the rundown of the "party" that takes up half the text here. 
-> The writing is tight enough, though, and you got some decent worldbuilding into this small space, so it may develop well depending where you go with the plot.  If you can avoid cyclic arcs that feel like quests with minibosses and focus on the sociological/political hard sci fi elements it could be interesting. 
-> In terms of specifics of the writing here - I think there should be a connection or transition from the list of his group members to "I wasn't sure what to think."  It's kind of a weak jump.  Instead he should think something about them, wondering where they are or how they are integrating into this new world.  Then he can speculate at how alien it is, etc. 
-> Typo thread:
-> >restained
 > 
+> >This world is based on a setting built up in roleplay
+> 
+> red flags for me TBH, but I'll give it a read anyway.  Writing about roleplays tends to be somewhat tropey and melodramatic, with an overinflated sense of importance of the "main"characters that had been the PCs or major NPCs.  this bias can distort the narrative and leads to less realism.  I'm already getting that feeling from the rundown of the "party" that takes up half the text here. 
+> 
+> The writing is tight enough, though, and you got some decent worldbuilding into this small space, so it may develop well depending where you go with the plot.  If you can avoid cyclic arcs that feel like quests with minibosses and focus on the sociological/political hard sci fi elements it could be interesting. 
+> 
+> In terms of specifics of the writing here - I think there should be a connection or transition from the list of his group members to "I wasn't sure what to think."  It's kind of a weak jump.  Instead he should think something about them, wondering where they are or how they are integrating into this new world.  Then he can speculate at how alien it is, etc. 
+> 
+> Typo thread:
+> 
+> >restained
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (16 hours later)
 >> 
 >> None of those characters were PC's, that was entirely just him thinking about people he used to know. 
->> EDIT: Sorry, I lied a little there. Barrelema was a PC but I don't intend for him to be able to find her easily. She isn't a primary story element in this, she's a background element to Sorin.
 >> 
+>> EDIT: Sorry, I lied a little there. Barrelema was a PC but I don't intend for him to be able to find her easily. She isn't a primary story element in this, she's a background element to Sorin.
 
-> **u/CCC_037** [+2] *
+> **u/CCC_037** [+2]  (21 hours later)
 > 
 > You've got mammal-human hybrids, and by and large they're well written - the doctor's bearishness is introduced at pretty much exactly the right moment.
-> However, I've read the whole thing and I *still* don't know what Barrelema or Sorin were hybridised with. (For about half the chapter, I assumed Sorin was baseline human). Barrelema doesn't matter that much, but Sorin's been on-screen the whole time. Of course, the advise of 'show, don't tell' applies here - but at some point you *do* need to show.
-> Aside from that, it's an intriguing introduction. Given how much space you've given to the descriptions of Sorin's old squadmates, I'm going to guess that the first part of the novel will involve him tracking them down and trying to figure out what happened in the past sixty years?
-> Also, I see from your notes further down that the some countries had been neutral in the war. Why not set up the first genkit-only city in such a neutral country? (The country with said city would get an immediate boost to potential tourism income - I'm sure that plenty of countries would love that).
 > 
+> However, I've read the whole thing and I *still* don't know what Barrelema or Sorin were hybridised with. (For about half the chapter, I assumed Sorin was baseline human). Barrelema doesn't matter that much, but Sorin's been on-screen the whole time. Of course, the advise of 'show, don't tell' applies here - but at some point you *do* need to show.
+> 
+> Aside from that, it's an intriguing introduction. Given how much space you've given to the descriptions of Sorin's old squadmates, I'm going to guess that the first part of the novel will involve him tracking them down and trying to figure out what happened in the past sixty years?
+> 
+> Also, I see from your notes further down that the some countries had been neutral in the war. Why not set up the first genkit-only city in such a neutral country? (The country with said city would get an immediate boost to potential tourism income - I'm sure that plenty of countries would love that).
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> Nope, the exposition was Sorin just reflecting on the people he knew back then. 
->> The very next chapter is from Ashara's point of view, where she describes him a little to somebody. I hear you though, I just couldn't think of a way to describe him that didn't come across as me stopping to describe him for the sake of it. 
->> The neutral countries were a little concerned about an all-Genkit settlement being attacked by somebody who said fuck it to the armistice. A state leader like Kim Jong Un, for instance. The simple fact of the matter is, the Genkits aren't liked by a few really powerful players, and it would've added political pressure on whatever country was hosting them by the countries that didn't like them, and a few of those were too powerful to be worth the hassle. Instead those countries pushed for them to be granted their own rights someplace, and while Antarctica might seem like a really shitty choice for a city, it actually worked out for them because it's a bitch to reach overland. Zero is shielded underneath Mt. Erebus itself, and uses geothermal power for the most part, but not even a direct nuclear strike could wipe out the entire thing in one go and the Genkits are quite fine with that kind of defensiveness.
 >> 
+>> The very next chapter is from Ashara's point of view, where she describes him a little to somebody. I hear you though, I just couldn't think of a way to describe him that didn't come across as me stopping to describe him for the sake of it. 
+>> 
+>> The neutral countries were a little concerned about an all-Genkit settlement being attacked by somebody who said fuck it to the armistice. A state leader like Kim Jong Un, for instance. The simple fact of the matter is, the Genkits aren't liked by a few really powerful players, and it would've added political pressure on whatever country was hosting them by the countries that didn't like them, and a few of those were too powerful to be worth the hassle. Instead those countries pushed for them to be granted their own rights someplace, and while Antarctica might seem like a really shitty choice for a city, it actually worked out for them because it's a bitch to reach overland. Zero is shielded underneath Mt. Erebus itself, and uses geothermal power for the most part, but not even a direct nuclear strike could wipe out the entire thing in one go and the Genkits are quite fine with that kind of defensiveness.
 
->>> **u/CCC_037** [+2] *
+>>> **u/CCC_037** [+2]  (a day later)
 >>> 
 >>> > I hear you though, I just couldn't think of a way to describe him that didn't come across as me stopping to describe him for the sake of it. 
->>> "Tell me, nurse. Do I still have all my scars?"
->>> "Yes, I could hardly tell you were a Platypus."
->>> Something like that?
->>> It might not even need fixing, if you describe him early in the next section; but 'how to describe the protagonist of a first-person novel' is a question that's been asked a lot of times.
->>> > The simple fact of the matter is, the Genkits aren't liked by a few really powerful players, and it would've added political pressure on whatever country was hosting them by the countries that didn't like them, and a few of those were too powerful to be worth the hassle.
->>> Madagascar. South Africa.
->>> Hey, nobody much liked Apartheid either, and South Africa's response to pretty comprehensive international sanctions during those years was more or less 'meh, who needs international trade anyway?'
->>> I mean, sure, I can see them being unable to set up in just about anyplace in North America or Europe. But (say) Australia is *almost* as hard to reach overland from Europe/America, and it'd cost *substantially* less to set up a city there. Especially if you have the budget to go carving up the insides of mountains.
->>> I mean, there's nothing intrinsically *wrong* with a city in Antarctica; but I just don't see why there wouldn't be a city in one of the southern-hemisphere countries.
 >>> 
+>>> "Tell me, nurse. Do I still have all my scars?"
+>>> 
+>>> "Yes, I could hardly tell you were a Platypus."
+>>> 
+>>> Something like that?
+>>> 
+>>> It might not even need fixing, if you describe him early in the next section; but 'how to describe the protagonist of a first-person novel' is a question that's been asked a lot of times.
+>>> 
+>>> > The simple fact of the matter is, the Genkits aren't liked by a few really powerful players, and it would've added political pressure on whatever country was hosting them by the countries that didn't like them, and a few of those were too powerful to be worth the hassle.
+>>> 
+>>> Madagascar. South Africa.
+>>> 
+>>> Hey, nobody much liked Apartheid either, and South Africa's response to pretty comprehensive international sanctions during those years was more or less 'meh, who needs international trade anyway?'
+>>> 
+>>> I mean, sure, I can see them being unable to set up in just about anyplace in North America or Europe. But (say) Australia is *almost* as hard to reach overland from Europe/America, and it'd cost *substantially* less to set up a city there. Especially if you have the budget to go carving up the insides of mountains.
+>>> 
+>>> I mean, there's nothing intrinsically *wrong* with a city in Antarctica; but I just don't see why there wouldn't be a city in one of the southern-hemisphere countries.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> Partially because the Genkits wanted their own city-state, and partly because nobody was willing to put up with crap from at least two permanent members of the UN security council. The A.E. and China both view the Genkits as a threat to their reputation and to human purity, and things happened during the war to make Genkits just plain unpopular there. 
->>>> Imagine it from the Genkits point of view. You're alone, you're being hunted simply for existing. You have no government backing. All of your weapons and resources are either stolen or bought off the black market through middlemen with things like drug money. Your people are scattered around the globe, so being able to move product to fund your little war is feasible, because you have allies in places such as Mexico and the cartels mostly don't care who's paying them as long as the money flows. 
->>>> So you're involved in the black market, and in some rather nasty sorts of crime just so that you can scrape together the resources to survive and be able to fight back. You have no ethical qualms whatsoever about hitting military targets and you're spread out underneath and through human cities, using their populations as shields to prevent heavy military from grinding you into dust. Anybody fighting you had to do it Stalingrad-style or risk either alerting you due to evacuations, or massacring their own people to get to you as well. Then the armistice happens and suddenly you have a chance to get away from all that and found your own country somewhere. After everything that's happened and the bad reputation you've accumulated by doing these things just to survive, would you feel comfortable building your first major city in a country where the very species that just spent years trying to wipe you out controls everything? I wouldn't. 
->>>> They pushed for their own place outside of any human country because paranoia became a way of life for them. They couldn't imagine doing anything else. It just doesn't compute. Just look at what happened to Israel during the 70s, that actually happened in this world and it was a lesson the Genkits took to heart when they had the opportunity to make a place for themselves. Sure, it's more resource intensive to build a settlement so far away from everything, but when you're done you have a highly defensible position on a continent that humans have no major settlements on, on a part of the planet that's so difficult to reach almost nobody goes there.
 >>>> 
+>>>> Imagine it from the Genkits point of view. You're alone, you're being hunted simply for existing. You have no government backing. All of your weapons and resources are either stolen or bought off the black market through middlemen with things like drug money. Your people are scattered around the globe, so being able to move product to fund your little war is feasible, because you have allies in places such as Mexico and the cartels mostly don't care who's paying them as long as the money flows. 
+>>>> 
+>>>> So you're involved in the black market, and in some rather nasty sorts of crime just so that you can scrape together the resources to survive and be able to fight back. You have no ethical qualms whatsoever about hitting military targets and you're spread out underneath and through human cities, using their populations as shields to prevent heavy military from grinding you into dust. Anybody fighting you had to do it Stalingrad-style or risk either alerting you due to evacuations, or massacring their own people to get to you as well. Then the armistice happens and suddenly you have a chance to get away from all that and found your own country somewhere. After everything that's happened and the bad reputation you've accumulated by doing these things just to survive, would you feel comfortable building your first major city in a country where the very species that just spent years trying to wipe you out controls everything? I wouldn't. 
+>>>> 
+>>>> They pushed for their own place outside of any human country because paranoia became a way of life for them. They couldn't imagine doing anything else. It just doesn't compute. Just look at what happened to Israel during the 70s, that actually happened in this world and it was a lesson the Genkits took to heart when they had the opportunity to make a place for themselves. Sure, it's more resource intensive to build a settlement so far away from everything, but when you're done you have a highly defensible position on a continent that humans have no major settlements on, on a part of the planet that's so difficult to reach almost nobody goes there.
 
->>>>> **u/CCC_037** [+1] *
+>>>>> **u/CCC_037** [+1]  (a day later)
 >>>>> 
 >>>>> > Anybody fighting you had to do it Stalingrad-style or risk either alerting you due to evacuations, or massacring their own people to get to you as well.
->>>>> So, as soon as the war is over, they went and put themselves in the one place where they could no longer use this as a defense? After everything that's happened in the war, would you feel comfortable leaving any form of defense behind?
->>>>> And if you have a whole globe to work with, it's not going to be hard to find people who don't much like *either* the A.E. *or* China - even if they're not strong enough militarily to do much more than send out strongly worded letters.
 >>>>> 
+>>>>> So, as soon as the war is over, they went and put themselves in the one place where they could no longer use this as a defense? After everything that's happened in the war, would you feel comfortable leaving any form of defense behind?
+>>>>> 
+>>>>> And if you have a whole globe to work with, it's not going to be hard to find people who don't much like *either* the A.E. *or* China - even if they're not strong enough militarily to do much more than send out strongly worded letters.
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (a day later)
 >>>>>> 
 >>>>>> >So, as soon as the war is over, they went and put themselves in the one place where they could no longer use this as a defense? 
->>>>>> Nobody said every Genkit on the planet packed up and decided to go live in Zero. 
->>>>>> >And if you have a whole globe to work with, it's not going to be hard to find people who don't much like either the A.E. or China - even if they're not strong enough militarily to do much more than send out strongly worded letters.
->>>>>> That doesn't mean the Genkits have to be cool with them. Takes two to tango.
 >>>>>> 
+>>>>>> Nobody said every Genkit on the planet packed up and decided to go live in Zero. 
+>>>>>> 
+>>>>>> >And if you have a whole globe to work with, it's not going to be hard to find people who don't much like either the A.E. or China - even if they're not strong enough militarily to do much more than send out strongly worded letters.
+>>>>>> 
+>>>>>> That doesn't mean the Genkits have to be cool with them. Takes two to tango.
 
->>>>>>> **u/CCC_037** [+1] *
+>>>>>>> **u/CCC_037** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> > Nobody said every Genkit on the planet packed up and decided to go live in Zero. 
->>>>>>> True. In fact, you *explicitly* said that there *was* a large population of Genkits outside Zero, living alongside unmodified humans, which makes a lot of sense to me.
->>>>>>> > That doesn't mean the Genkits have to be cool with them. Takes two to tango.
->>>>>>> Hmmmmmmmm. True.
 >>>>>>> 
+>>>>>>> True. In fact, you *explicitly* said that there *was* a large population of Genkits outside Zero, living alongside unmodified humans, which makes a lot of sense to me.
+>>>>>>> 
+>>>>>>> > That doesn't mean the Genkits have to be cool with them. Takes two to tango.
+>>>>>>> 
+>>>>>>> Hmmmmmmmm. True.
 
 ---
 

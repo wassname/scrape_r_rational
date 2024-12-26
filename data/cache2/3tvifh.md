@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.fanfiction.net/s/10630743/57/Light-in-Despair-s-Darkness
-* Score: 6
+* Score: 7
 
 * Created: 2015-11-22T23:56:39
 

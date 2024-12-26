@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/dqlddy/d_saturday_munchkinry_thread/
-* Score: 3
+* Score: 5
 
 * Created: 2019-11-02T15:04:32
 
@@ -23,229 +23,259 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/tailcalled** [+4] *
+> **u/tailcalled** [+5]  (7 hours later)
 > 
 > I've been working on an entropy-defying magic system that I would be interested in seeing Munchkined:
-> Roughly speaking, the concept is that if you perform an appropriate ritual, you can "recover" the negentropy that gets used in some area, and then later release it to achieve what you want. Some examples:
-> If you collect the negentropy from burning some wood, then if you later encounter something wooden that has burned or is burning, you can "unburn" it using your negentropy, which will partially restore it. Any details in the wood that cannot be inferred from the remainder are, however, going to appear from the wood you collected the negentropy from, and not the wood you spent the negentropy on; as you can only restore the negentropy that you collected. (Such details may include wood microstructure, which you maybe don't care about, but perhaps also carved text, which you very well may care about.)
-> Another example: if you hit a wall with a branch, the kinetic energy is going to dissipate into the wall as heat. If you collect the negentropy from this, you can later go to a different surface, and reverse the entropy to make this surface suddenly send out a burst of kinetic energy equivalent to what you initially hit the wall with. Note that this is not storing the energy, but rather, you extract the energy from the heat of the wall. (Similarly, in the unburning example, you would be extracting the energy from the heat of the air around you.)
-> Third example. Now we get to the "dark magic side": If you wound a person, you can store up the negentropy that this wounding used, and use this to later heal similar wounds. Note that this will not always work; for instance, if someone has received a brain injury, then using this magic to restore the brain would restore brain from the person you wounded, and not the person you're healing, as this is the person you collected the entropy from.
-> To define the rules more formally: If you do some ritual (haven't decided what yet, but it's probably going to be relatively elaborate and immobile for balance reasons), you can "store up the negentropy that's used" in an area (haven't yet decided what it's going to be stored in, probably some crystals with negentropy capacity proportional to their volume). Later, if you encounter some situation whose starting state is similar to the end state of the ritual, you can use the negentropy to "reverse it", with physically-possible but thermodynamically-impossible interactions happening until the end state of the situation is similar to the starting state of the ritual.
-> I haven't yet decided on all details yet (e.g. range, difficulty of doing the various things in question, etc.), because I haven't yet been able to figure out how extreme things this system allows, and so how much balancing is needed. I'd be curious about how much you can Munchkin it under various levels of restrictions; so feel free to try out relatively low or relatively high restrictions compared to what I described, depending on what you'd find most interesting.
 > 
+> Roughly speaking, the concept is that if you perform an appropriate ritual, you can "recover" the negentropy that gets used in some area, and then later release it to achieve what you want. Some examples:
+> 
+> If you collect the negentropy from burning some wood, then if you later encounter something wooden that has burned or is burning, you can "unburn" it using your negentropy, which will partially restore it. Any details in the wood that cannot be inferred from the remainder are, however, going to appear from the wood you collected the negentropy from, and not the wood you spent the negentropy on; as you can only restore the negentropy that you collected. (Such details may include wood microstructure, which you maybe don't care about, but perhaps also carved text, which you very well may care about.)
+> 
+> Another example: if you hit a wall with a branch, the kinetic energy is going to dissipate into the wall as heat. If you collect the negentropy from this, you can later go to a different surface, and reverse the entropy to make this surface suddenly send out a burst of kinetic energy equivalent to what you initially hit the wall with. Note that this is not storing the energy, but rather, you extract the energy from the heat of the wall. (Similarly, in the unburning example, you would be extracting the energy from the heat of the air around you.)
+> 
+> Third example. Now we get to the "dark magic side": If you wound a person, you can store up the negentropy that this wounding used, and use this to later heal similar wounds. Note that this will not always work; for instance, if someone has received a brain injury, then using this magic to restore the brain would restore brain from the person you wounded, and not the person you're healing, as this is the person you collected the entropy from.
+> 
+> To define the rules more formally: If you do some ritual (haven't decided what yet, but it's probably going to be relatively elaborate and immobile for balance reasons), you can "store up the negentropy that's used" in an area (haven't yet decided what it's going to be stored in, probably some crystals with negentropy capacity proportional to their volume). Later, if you encounter some situation whose starting state is similar to the end state of the ritual, you can use the negentropy to "reverse it", with physically-possible but thermodynamically-impossible interactions happening until the end state of the situation is similar to the starting state of the ritual.
+> 
+> I haven't yet decided on all details yet (e.g. range, difficulty of doing the various things in question, etc.), because I haven't yet been able to figure out how extreme things this system allows, and so how much balancing is needed. I'd be curious about how much you can Munchkin it under various levels of restrictions; so feel free to try out relatively low or relatively high restrictions compared to what I described, depending on what you'd find most interesting.
 
->> **u/meterion** [+3] *
+>> **u/meterion** [+3]  (10 hours later)
 >> 
 >> About your branch example, for a lot of impacts the kinetic energy will dissipate through loss of potential energy from the objects deforming. Would you be able to harness that negentropy as well? For that you can build up a stock of "physical deformation repair" negentropy for a given material, which you can then use to do things like repair armor/weapons in the middle of a fight, or for more mundane examples perform proactive maintenance of structures through infusions of repair energy.
->> For the wood example, do you still need all the products of the reaction (ashes, smoke??) to reverse it, or is matter created ex nihilo from the template of source negentropy? If so, there probably needs to be some kind strict definition on what chemical reactions can be used to extract negentropy from, or you'll have to deal with the knock-on affects of harvesting negentropy through creating solvents of rare earth metals (which can then be precipitated out and reused) to create more of the same out of nothing.
 >> 
+>> For the wood example, do you still need all the products of the reaction (ashes, smoke??) to reverse it, or is matter created ex nihilo from the template of source negentropy? If so, there probably needs to be some kind strict definition on what chemical reactions can be used to extract negentropy from, or you'll have to deal with the knock-on affects of harvesting negentropy through creating solvents of rare earth metals (which can then be precipitated out and reused) to create more of the same out of nothing.
 
->>> **u/tailcalled** [+2] *
+>>> **u/tailcalled** [+2]  (a day later)
 >>> 
 >>> >Would you be able to harness that negentropy as well? 
->>> Yes. I don't think the specific examples you mentions seem particularly broken/Munchkin-ish (ability to magically repair things is a pretty standard magical thing, no?), though, but I wonder if one could figure out some broken things based on it.
->>> > For the wood example, do you still need all the products of the reaction (ashes, smoke??) to reverse it, or is matter created ex nihilo from the template of source negentropy?
->>> If one was to be physically strict, one would need *everything* to be present in a nice way. However, such strictness would probably not make for a very interesting magic system, so one will have to take some creative liberties and allow some things that "feel like" they should be allowed, even if in a very strict physical sense they shouldn't be.
->>> I'm not as informed about how combustion works as I should be. As a result, I don't know what the smoke and ashes correspond to in terms of the initial wood, and I don't know what happens to wood smoke in the atmosphere (does the atmosphere contain the same chemicals as wood smoke, just dispersed more evenly?). This makes it hard for me to know how big of a creative liberty it would be to allow "unburning" without having smoke or ashes present.
->>> (Part of the smoke is presumably the carbon, which is a pretty central part of the wood. But this carbon will also be present in the atmosphere normally, no? So at least this element would not need preexisting smoke to unburn.)
->>> For the specific case of "unburning", I don't think it makes much of a difference, though, as you need *a lot* of heat to do the unburning, which likely means having a fire next to it to generate said heat. This fire could then provide the smoke and ashes needed too. (Hmm, and I guess it could also provide the negentropy, though as mentioned I'd make this system require elaborate rituals to extract the negentropy, so it may be more practical to have it pre-collected.)
->>> > If so, there probably needs to be some kind strict definition on what chemical reactions can be used to extract negentropy from, or you'll have to deal with the knock-on affects of harvesting negentropy through creating solvents of rare earth metals (which can then be precipitated out and reused) to create more of the same out of nothing. 
->>> While trying to work out how to handle this might be interesting, I think I would handle it by taking the creative liberty of just handwaving it away; pretending that the rare metals don't exist or aren't necessary, rather than figuring out a system that avoid exploitation. It'd probably be very difficult to create a magic system that doesn't break when one does very careful exploits in terms of marginal increases and decreases of minerals, energy, etc. that happen as a result of the magic.
->>> (Though I am still interested in hearing ways and ideas for how such marginal increases could be exploited, so I can be prepared about them when thinking about how to develop the magic system.)
 >>> 
+>>> Yes. I don't think the specific examples you mentions seem particularly broken/Munchkin-ish (ability to magically repair things is a pretty standard magical thing, no?), though, but I wonder if one could figure out some broken things based on it.
+>>> 
+>>> > For the wood example, do you still need all the products of the reaction (ashes, smoke??) to reverse it, or is matter created ex nihilo from the template of source negentropy?
+>>> 
+>>> If one was to be physically strict, one would need *everything* to be present in a nice way. However, such strictness would probably not make for a very interesting magic system, so one will have to take some creative liberties and allow some things that "feel like" they should be allowed, even if in a very strict physical sense they shouldn't be.
+>>> 
+>>> I'm not as informed about how combustion works as I should be. As a result, I don't know what the smoke and ashes correspond to in terms of the initial wood, and I don't know what happens to wood smoke in the atmosphere (does the atmosphere contain the same chemicals as wood smoke, just dispersed more evenly?). This makes it hard for me to know how big of a creative liberty it would be to allow "unburning" without having smoke or ashes present.
+>>> 
+>>> (Part of the smoke is presumably the carbon, which is a pretty central part of the wood. But this carbon will also be present in the atmosphere normally, no? So at least this element would not need preexisting smoke to unburn.)
+>>> 
+>>> For the specific case of "unburning", I don't think it makes much of a difference, though, as you need *a lot* of heat to do the unburning, which likely means having a fire next to it to generate said heat. This fire could then provide the smoke and ashes needed too. (Hmm, and I guess it could also provide the negentropy, though as mentioned I'd make this system require elaborate rituals to extract the negentropy, so it may be more practical to have it pre-collected.)
+>>> 
+>>> > If so, there probably needs to be some kind strict definition on what chemical reactions can be used to extract negentropy from, or you'll have to deal with the knock-on affects of harvesting negentropy through creating solvents of rare earth metals (which can then be precipitated out and reused) to create more of the same out of nothing. 
+>>> 
+>>> While trying to work out how to handle this might be interesting, I think I would handle it by taking the creative liberty of just handwaving it away; pretending that the rare metals don't exist or aren't necessary, rather than figuring out a system that avoid exploitation. It'd probably be very difficult to create a magic system that doesn't break when one does very careful exploits in terms of marginal increases and decreases of minerals, energy, etc. that happen as a result of the magic.
+>>> 
+>>> (Though I am still interested in hearing ways and ideas for how such marginal increases could be exploited, so I can be prepared about them when thinking about how to develop the magic system.)
 
->> **u/Frommerman** [+3] *
+>> **u/Frommerman** [+3]  (13 hours later)
 >> 
 >> On reversing brain damage...
->> A sufficiently motivated person could ritually destroy someone's brain to save up their whole self. Then, they could find a brain dead body and return the person they killed to life. Possible applications of this include:
->> * Curing dysphoria? (Big maybe, might just replace gender dysphoria with total body dysmorphia)
->> * Torturing an enemy by dropping them into an incompatable body.
->> * Faking your own death by actually killing yourself, then coming back.
->> * Escaping from a dying body into a living one.
->> * Compressing a bunch of people into one person for the purposes of evacuation or other situations where limited numbers of "real" people can survive.
->> * Turning the bodies of dying enemy soldiers into vessels for your own soldiers who almost died.
->> * Super wierd, lossy immortality for the rich and sufficiently innurred to dysphoria.
->> I imagine a world where this is possible wouldn't have a traditional death penalty, as replacing the condemned with more valuable resurrection targets would be strictly correct. The punishment for attempted murder which left the victim recoverable could involve being replaced by your victim.
 >> 
+>> A sufficiently motivated person could ritually destroy someone's brain to save up their whole self. Then, they could find a brain dead body and return the person they killed to life. Possible applications of this include:
+>> 
+>> * Curing dysphoria? (Big maybe, might just replace gender dysphoria with total body dysmorphia)
+>> 
+>> * Torturing an enemy by dropping them into an incompatable body.
+>> 
+>> * Faking your own death by actually killing yourself, then coming back.
+>> 
+>> * Escaping from a dying body into a living one.
+>> 
+>> * Compressing a bunch of people into one person for the purposes of evacuation or other situations where limited numbers of "real" people can survive.
+>> 
+>> * Turning the bodies of dying enemy soldiers into vessels for your own soldiers who almost died.
+>> 
+>> * Super wierd, lossy immortality for the rich and sufficiently innurred to dysphoria.
+>> 
+>> I imagine a world where this is possible wouldn't have a traditional death penalty, as replacing the condemned with more valuable resurrection targets would be strictly correct. The punishment for attempted murder which left the victim recoverable could involve being replaced by your victim.
 
->>> **u/tailcalled** [+1] *
+>>> **u/tailcalled** [+1]  (a day later)
 >>> 
 >>> A lot of those would definitely be good examples of what the magic system would allow, but I don't really think they're overpowered enough to be considered Munchkin-ish? Some comments:
->>> > Curing dysphoria? (Big maybe, might just replace gender dysphoria with total body dysmorphia) 
->>> I'm not sure why you think it might be replaced by total body dysmorphia. Is it that you going with a sort of body-map model of gender dysphoria? Because if so, I would decide that this wouldn't cause body dysmorphia, both because it makes the resulting magic system more interesting, and because I don't find the body-map model of gender dysphoria plausible (but that's another story...).
->>> > Compressing a bunch of people into one person for the purposes of evacuation or other situations where limited numbers of "real" people can survive. 
->>> By this it sounds like you mean transferring the people into the person, rather than having the person carry their entropy in the crystals or whatever. If that's what you mean, I don't think this would work because it would require a much bigger brain than there's space for in their head. However, it would be possible for the one person to carry their entropy crystals, which might be an interesting dynamic.
->>> > Super wierd, lossy immortality for the rich and sufficiently innurred to dysphoria. 
->>> Since the ritual to collect the entropy is difficult to move, it would probably more be like a static field that covers an area than it would be a mobile thing. This suggests that it might not so much be for the rich so much as it would be for whoever lives in this place.
->>> > I imagine a world where this is possible wouldn't have a traditional death penalty, as replacing the condemned with more valuable resurrection targets would be strictly correct. The punishment for attempted murder which left the victim recoverable could involve being replaced by your victim. 
->>> This makes me think, the whole possibility of recovering targets would create incentives for murderers to leave their targets irrecoverable in order to prevent there from being witnesses. Also, I guess legal systems might do weaker punishments of the murderers make sure to keep their targets recoverable, e.g. by capturing their negentropy.
 >>> 
+>>> > Curing dysphoria? (Big maybe, might just replace gender dysphoria with total body dysmorphia) 
+>>> 
+>>> I'm not sure why you think it might be replaced by total body dysmorphia. Is it that you going with a sort of body-map model of gender dysphoria? Because if so, I would decide that this wouldn't cause body dysmorphia, both because it makes the resulting magic system more interesting, and because I don't find the body-map model of gender dysphoria plausible (but that's another story...).
+>>> 
+>>> > Compressing a bunch of people into one person for the purposes of evacuation or other situations where limited numbers of "real" people can survive. 
+>>> 
+>>> By this it sounds like you mean transferring the people into the person, rather than having the person carry their entropy in the crystals or whatever. If that's what you mean, I don't think this would work because it would require a much bigger brain than there's space for in their head. However, it would be possible for the one person to carry their entropy crystals, which might be an interesting dynamic.
+>>> 
+>>> > Super wierd, lossy immortality for the rich and sufficiently innurred to dysphoria. 
+>>> 
+>>> Since the ritual to collect the entropy is difficult to move, it would probably more be like a static field that covers an area than it would be a mobile thing. This suggests that it might not so much be for the rich so much as it would be for whoever lives in this place.
+>>> 
+>>> > I imagine a world where this is possible wouldn't have a traditional death penalty, as replacing the condemned with more valuable resurrection targets would be strictly correct. The punishment for attempted murder which left the victim recoverable could involve being replaced by your victim. 
+>>> 
+>>> This makes me think, the whole possibility of recovering targets would create incentives for murderers to leave their targets irrecoverable in order to prevent there from being witnesses. Also, I guess legal systems might do weaker punishments of the murderers make sure to keep their targets recoverable, e.g. by capturing their negentropy.
 
->>>> **u/Frommerman** [+2] *
+>>>> **u/Frommerman** [+2]  (a day later)
 >>>> 
 >>>> I'm talking about the problem we've discovered with [hand transplants.](https://www.hopkinsmedicine.org/transplant/programs/reconstructive_transplant/hand_transplant.html#finding_donors) They work, but on top of tissue matching you need to match skin tone, race, gender, etc. as closely as possible, or you might psychologically reject the hand due to body dysmorphia. Your brain becomes convinced the hand isn't part of you and wigs out. This problem would become even worse if you replaced your entire body. Everything would feel out of place.
->>>> 
 
->>>>> **u/tailcalled** [+1] *
+>>>>> **u/tailcalled** [+1]  (a day later)
 >>>>> 
 >>>>> I'm not surprised about needing to match blood type etc. with hand transplants due to things like immune system rejection, but I've never heard about it causing body dysmorphia. Do you have a source for that? (I can't see anything talking about it in the link. The only form of rejection it mentions is immunological.) It seems like people might prefer that skin tone, race, gender, etc. matches just so it looks natural even if they could live with it not matching.
->>>>> 
 
->>>>>> **u/Frommerman** [+1] *
+>>>>>> **u/Frommerman** [+1]  (a day later)
 >>>>>> 
 >>>>>> I think it was something I heard on NPR a while ago. I don't remember.
->>>>>> 
 
->> **u/CCC_037** [+1] *
+>> **u/CCC_037** [+1]  (a day later)
 >> 
 >> You say that this ritual is 'difficult'. But *how* is it difficult?
->> Option the first: The ritual requires a prepared space, with runes carefully placed and crystals aligned with each other, which takes a terribly long time to set up - but once it has been set up, it can be re-used indefinitely. Every wizard worth his salt has a 'ritual room' set up, ready for use (possibly multiple times a day) and junior wizards might rent the usage of senior wizards' ritual rooms (if they don't have their own one yet).
->> Option the second: Each use of the ritual requires costly reagent and rare incenses; also, the runes need to be re-drawn every time, a lengthly process. It's not worth the bother of setting up a dedicated 'ritual room' because you need to re-do the setup every time *anyway*. You're lucky if you can store up one batch of negentropy a day.
 >> 
+>> Option the first: The ritual requires a prepared space, with runes carefully placed and crystals aligned with each other, which takes a terribly long time to set up - but once it has been set up, it can be re-used indefinitely. Every wizard worth his salt has a 'ritual room' set up, ready for use (possibly multiple times a day) and junior wizards might rent the usage of senior wizards' ritual rooms (if they don't have their own one yet).
+>> 
+>> Option the second: Each use of the ritual requires costly reagent and rare incenses; also, the runes need to be re-drawn every time, a lengthly process. It's not worth the bother of setting up a dedicated 'ritual room' because you need to re-do the setup every time *anyway*. You're lucky if you can store up one batch of negentropy a day.
 
->>> **u/tailcalled** [+2] *
+>>> **u/tailcalled** [+2]  (a day later)
 >>> 
 >>> I was thinking more like the first.
->>> 
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (a day later)
 >>>> 
 >>>> Ah. So, each major institute of learning will have multiple Ritual Rooms available for rent, I assume.
->>>> 
 
->>>>> **u/tailcalled** [+1] *
+>>>>> **u/tailcalled** [+1]  (a day later)
 >>>>> 
 >>>>> Most likely.
->>>>> 
 
->> **u/EdLincoln6** [+1] *
+>> **u/EdLincoln6** [+1]  (4 days later)
 >> 
 >> Necromancy is the obvious use of this.    
-
->> This isn't a Muchkinry idea...but one idea that immediately springs to mind is the risks of using necromancy with this system.  An Evil Wizard kills a random guy in order to resurrect his equally evil son/spouse/partner...but the brain is too damaged and the resurrected guy ends up with the mind of the (perfectly nice) victim.  Lots of plot possibilities here.    
-
->> I also wonder what happens if you do something with a massive impact, like cause an avalanche, torch a city, start a forest fire, spread smallpox...
 >> 
+>> This isn't a Muchkinry idea...but one idea that immediately springs to mind is the risks of using necromancy with this system.  An Evil Wizard kills a random guy in order to resurrect his equally evil son/spouse/partner...but the brain is too damaged and the resurrected guy ends up with the mind of the (perfectly nice) victim.  Lots of plot possibilities here.    
+>> 
+>> I also wonder what happens if you do something with a massive impact, like cause an avalanche, torch a city, start a forest fire, spread smallpox...
 
->>> **u/tailcalled** [+1] *
+>>> **u/tailcalled** [+1]  (4 days later)
 >>> 
 >>> >Necromancy is the obvious use of this.
->>> Definitely, but it places a lot of limitations on what sorts of necromancy you can or cannot do.
->>> >I also wonder what happens if you do something with a massive impact, like cause an avalanche, torch a city, start a forest fire, spread smallpox...
->>> It would require you to have set up an equally-massive ritual.
 >>> 
+>>> Definitely, but it places a lot of limitations on what sorts of necromancy you can or cannot do.
+>>> 
+>>> >I also wonder what happens if you do something with a massive impact, like cause an avalanche, torch a city, start a forest fire, spread smallpox...
+>>> 
+>>> It would require you to have set up an equally-massive ritual.
 
->>>> **u/EdLincoln6** [+1] *
+>>>> **u/EdLincoln6** [+1]  (4 days later)
 >>>> 
 >>>> > 
 >>>> > It would require you to have set up an equally-massive ritual.
->>>> So if someone sets up a really massive ritual you might want to flee the area...
->>>> I like the idea of the heroes uncovering signs of a massive ritual space being prepared and trying to figure out what and when the disaster could be...
 >>>> 
+>>>> So if someone sets up a really massive ritual you might want to flee the area...
+>>>> 
+>>>> I like the idea of the heroes uncovering signs of a massive ritual space being prepared and trying to figure out what and when the disaster could be...
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 minutes later)
 > 
 > Nine anomalous masses of [parabanic acid](http://molview.org/?cid=67126), ranging in size from exactly two molecules to half an eyelash, appear at random around the world, displacing any matter in their way as they materialise, from rock to rainwater to rarefied air.
+> 
 > Each molecule therein is anomalous in that it can't be allowed to vibrate or rotate with energy corresponding to a temperature of ≥500 K for more than 8.57 μs straight, or Something Very Bad will happen. You can't create new anomalous molecules of parabanic acid, but breaking any bond permanently removes the anomaly for that (now ex-)molecule. Normal and anomalous parabanic acid are indistinguishable.
+> 
 > The anomalous masses eventually settle in spots undetectable to human senses, conveniently missing places that'd overheat them into doing Something Very Bad. Normally, this wouldn't be a problem, because they're basically 10<sup>−31</sup> of the outer crust, but the news will get out eventually, and you never know what *bright ideas* those media consumers will come up with.
+> 
 > Your problem: If you were evil and highly creative, how would you trigger Something Very Bad? Since you aren't that evil, how best would you mess up such plans? Bonus points for low-tech answers. Assume ordinary physics, save for the given violations, *which are irreproducible*.
+> 
 > This fictional world has modern resources plus these relevant modifications:
 > * AI for media creation, engineering, organisational management — above human level
 > * Microbots, but no nanotechnology
 > * Universal communications — radio or better available
-> 
 
->> **u/Dezoufinous** [+3] *
+>> **u/Dezoufinous** [+3]  (an hour later)
 >> 
 >> >The anomalous masses eventually settle in spots undetectable to human senses, conveniently missing places that'd overheat them into doing Something Very Bad
->> This is very suspicious and munchkinable. I will focus on the quoted fragment right now.
->> I'd try to somehow extend the 'human senses' so they cover the entire Earth (or at least the entire accessible Earth) so they don't appear anymore.
->> Probably some kind of brain-machine interface.
->> But again, hey, how do they know which places are OK to settle and which are NOT OK?
->> Maybe I could trick them somehow, mislead the mechanism that determine which places are OK....
->> Is their 'is place OK to settle' mechanism able to see the future? Will they appear in front of incoming lava stream?
 >> 
+>> This is very suspicious and munchkinable. I will focus on the quoted fragment right now.
+>> 
+>> I'd try to somehow extend the 'human senses' so they cover the entire Earth (or at least the entire accessible Earth) so they don't appear anymore.
+>> 
+>> Probably some kind of brain-machine interface.
+>> 
+>> But again, hey, how do they know which places are OK to settle and which are NOT OK?
+>> 
+>> Maybe I could trick them somehow, mislead the mechanism that determine which places are OK....
+>> 
+>> Is their 'is place OK to settle' mechanism able to see the future? Will they appear in front of incoming lava stream?
 
->> **u/RetardedWabbit** [+2] *
+>> **u/RetardedWabbit** [+2]  (5 hours later)
 >> 
 >> Unless I'm missing something, this isn't something you can interact with. The acid will degrade by itself long before we discover, search, and get to it.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (11 hours later)
 >>> 
 >>> I'm not familiar with the mechanism behind this degradation. Can you briefly explain it? Don't, say, photolysis, hydrolysis and biological elimination have negligible effect in this situation?
->>> 
 
->>>> **u/RetardedWabbit** [+3] *
+>>>> **u/RetardedWabbit** [+3]  (13 hours later)
 >>>> 
 >>>> It's a combination of all of those factors, besides biological elimination. Chemicals exposed to chemicals they can interact with will do so, energy will speed this up. These tiny spots of acid will appear, and react quickly with other molecules and themselves. They have high relative surface area (due to tiny volume), high reactivity (due to being an acid), lots of things (minerals) to react with, and will be relatively warm. I don't have access to a computer at the moment to learn about this acid specifically, but unless acids are very pure, not provided energy, and are in an unreactive container they tend to break down quickly. There's probably public chemical stability tests for parabanic acid available
->>>> Also by your definition acids in general would be quickly inactivated, they are constantly breaking and reforming bonds with hydrogen even when we consider them stable. Acids are essentially molecules with hydrogen they have a very weak attachment to, how easily they give hydrogen to others is what determines the strength of an acid.
 >>>> 
+>>>> Also by your definition acids in general would be quickly inactivated, they are constantly breaking and reforming bonds with hydrogen even when we consider them stable. Acids are essentially molecules with hydrogen they have a very weak attachment to, how easily they give hydrogen to others is what determines the strength of an acid.
 
-> **u/Retbull** [+1] *
+> **u/Retbull** [+1]  (3 hours later)
 > 
 > Once a week you are granted one minute of time where you possess your body one year in the future. The future you possess is one year without these peeks so it's like your power just stopped for a year. You don't have memory from the year in future you can only remember what you normally would so only through research can you learn. How do you abuse this power? What plans do you make? Where can you take it?
-> 
 
->> **u/InfernoVulpix** [+4] *
+>> **u/InfernoVulpix** [+5]  (4 hours later)
 >> 
 >> In essence, every week I split off a timeline where I know that the timeline is doomed and the only effect it will have on the prime timeline is what information I can relay back to the past.
->> Relaying technology advances back is almost pointless, a year isn't enough time for groundbreaking advances that aren't already in the works, so at best I could identify the next big thing before it's a big thing and make some money off the stock market.  Stock market manipulation in general is something I can do, and a modest pile of money would serve me well whatever I end up doing.
->> The *real* takeaway from this, though, is that I spin off doomed timelines where I know they're doomed, and that changes the risk/reward weights of a lot of things.
->> Step 1 is proving the validity of my power, which shouldn't take more than a week and a sufficiently-controlled experiment.  Now I've proven to whoever it is I've approached that I'm the real deal.
->> Step 2 is whoever I've teamed up with doing all sorts of crazy risky things that might go horribly wrong, with a timeline of one year.  They compile the ruinous but productive results at the end of the year and show them to me, and I relay the information back to them with only a week having passed.
->> Imagine a tech company investing all of their wealth in R&D on every crazy idea that they can think of, and at the end of a year of that I tell them which ones worked.  I clear the fog of war on innovation.
->> Imagine the US government violently destabilizing a foreign government to get access to their files, and at the end of the year I relay all the most important information back to them without anyone being the wiser.  I clear the fog of war on military intel.
->> Heck, imagine the US government destabilizing a foreign government and having me relay *whether it worked or not*.  After I tell them the results they know if their plans will work or not, out to one year of consequence.  I become the lynchpin that topples empires, and at no harm to myself.
 >> 
+>> Relaying technology advances back is almost pointless, a year isn't enough time for groundbreaking advances that aren't already in the works, so at best I could identify the next big thing before it's a big thing and make some money off the stock market.  Stock market manipulation in general is something I can do, and a modest pile of money would serve me well whatever I end up doing.
+>> 
+>> The *real* takeaway from this, though, is that I spin off doomed timelines where I know they're doomed, and that changes the risk/reward weights of a lot of things.
+>> 
+>> Step 1 is proving the validity of my power, which shouldn't take more than a week and a sufficiently-controlled experiment.  Now I've proven to whoever it is I've approached that I'm the real deal.
+>> 
+>> Step 2 is whoever I've teamed up with doing all sorts of crazy risky things that might go horribly wrong, with a timeline of one year.  They compile the ruinous but productive results at the end of the year and show them to me, and I relay the information back to them with only a week having passed.
+>> 
+>> Imagine a tech company investing all of their wealth in R&D on every crazy idea that they can think of, and at the end of a year of that I tell them which ones worked.  I clear the fog of war on innovation.
+>> 
+>> Imagine the US government violently destabilizing a foreign government to get access to their files, and at the end of the year I relay all the most important information back to them without anyone being the wiser.  I clear the fog of war on military intel.
+>> 
+>> Heck, imagine the US government destabilizing a foreign government and having me relay *whether it worked or not*.  After I tell them the results they know if their plans will work or not, out to one year of consequence.  I become the lynchpin that topples empires, and at no harm to myself.
 
->>> **u/Retbull** [+3] *
+>>> **u/Retbull** [+3]  (7 hours later)
 >>> 
 >>> Yeah the destroyed time-lines are a key feature as you can be a little bit more callous with your actions without having to deal with the consequences. Unethical research like MoL is possible without actually doing anything. Society changes as you can work on a plan for the year each week and just look at the final results. One thing that I just thought of was if you die somehow you'd just lose one minute without learning anything so you can't save yourself from anything sudden or very large like a meteor or nuclear attack. It feels like a reasonable power to be successful without being over powered.
->>> 
 
->>>> **u/CCC_037** [+3] *
+>>>> **u/CCC_037** [+5]  (a day later)
 >>>> 
 >>>> > One thing that I just thought of was if you die somehow you'd just lose one minute without learning anything so you can't save yourself from anything sudden or very large like a meteor or nuclear attack.
->>>> This could be dangerous. If you *miss* your minute you'll think you're in the Doomed Timeline and set things in motion that should not be set in motion in a non-Doomed Timeline.
 >>>> 
+>>>> This could be dangerous. If you *miss* your minute you'll think you're in the Doomed Timeline and set things in motion that should not be set in motion in a non-Doomed Timeline.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (8 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/meterion** [+1] *
+>>>> **u/meterion** [+1]  (10 hours later)
 >>>> 
 >>>> Your view is a little too cynical given the power involved here. I don't doubt that the first government he tries to collaborate with this power is going to hold onto him at all costs, but it would be more of a gilded cage rather than a guantanamo torture dungeon. Trying to physically coerce you into cooperation under shitty conditions is likely to just kill the goose that lays the golden eggs, since they have no way of validating any actual future intel.
->>>> 
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (a day later)
 >> 
 >> Well, I immediately win the lottery, for a start. (Let's not mess around with stock markets).
->> When scandals break in the media, I can send anonymous tips to reporters *months* in advance - causing politicians to ask themselves how the media is finding out about their indiscretions so soon, and hopefully convincing them to be less indiscreet while they frantically try to hunt down the leak(s).
 >> 
+>> When scandals break in the media, I can send anonymous tips to reporters *months* in advance - causing politicians to ask themselves how the media is finding out about their indiscretions so soon, and hopefully convincing them to be less indiscreet while they frantically try to hunt down the leak(s).
 
->>> **u/Izeinwinter** [+1] *
+>>> **u/Izeinwinter** [+1]  (6 days later)
 >>> 
 >>> The lottery will fail. It is a system so chaotic that the differing gravitational influence from you going to buy a ticket where you did not before will alter the outcome. Stock rises that came about from the release of information about events already in motion or inevitable is the best bet - that is, companies that saw their value go up because their mining operations struck gold/oil, their new product was much better than the market had anticipated or the like.
->>> 
 
->>>> **u/CCC_037** [+1] *
+>>>> **u/CCC_037** [+1]  (6 days later)
 >>>> 
 >>>> > It is a system so chaotic that the differing gravitational influence from you going to buy a ticket where you did not before will alter the outcome.
->>>> Even if it is that chaotic, then I can resolve that by precommitting to buy a ticket; whether or not I know the winning numbers.
 >>>> 
+>>>> Even if it is that chaotic, then I can resolve that by precommitting to buy a ticket; whether or not I know the winning numbers.
 
->> **u/faul_sname** [+1] *
+>> **u/faul_sname** [+1]  (4 hours later)
 >> 
 >> Do tattoos or scars count as part of your body one year in the future?
->> 
 
->>> **u/Retbull** [+1] *
+>>> **u/Retbull** [+1]  (6 hours later)
 >>> 
 >>> Only your mind jumps forward and back.
->>> 
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/VorpalAuroch** [+1]  *Life before Death**
+> **u/VorpalAuroch** [+1]  *Life before Death* (4 hours later)
 > 
 > Pi is still more mathematically interesting.
-> 
 
 ---
 

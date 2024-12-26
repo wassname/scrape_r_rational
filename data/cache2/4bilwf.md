@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/FenrirW0lf** [+3] *
+> **u/FenrirW0lf** [+3]  (5 hours later)
 > 
 > Aww, I already saw that chapter and was hoping that there was a new update today.
-> 
 
->> **u/gommm** [+1] *
+>> **u/gommm** [+1]  (20 hours later)
 >> 
 >> same here :-(
->> 
 
 ---
 

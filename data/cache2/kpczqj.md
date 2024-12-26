@@ -2,7 +2,7 @@
 
 * Author: u/Breaking_the_Candle  *Break and rebuild.**
 * URL: https://www.fimfiction.net/story/174671/24/seeking-power/chapter-twenty-three-guilt
-* Score: 5
+* Score: 6
 
 * Created: 2021-01-03T03:50:13
 
@@ -12,18 +12,19 @@
 
 ### Comments:
 
-> **u/Ozryela** [+4] *
+> **u/Ozryela** [+3]  (19 hours later)
 > 
 > This story started out interesting, if a bit difficult to follow without in depth knowledge of the universe (I've seen couple of episodes but that's clearly not enough). Lots of characters that are assumed known, lots of world building that is only referenced. None of that really detracts from the story though.
-> So I would recommend this story, if not for something that happens about halfway.  A plot twist that made me instantly stop reading the story with no plans of ever returning.
-> >!One character is constantly harassing the MC. Initially this is very minor character and so doesn't really detract from the story. But half way through this character is suddenly promoted to major character and given one of the plot macguffins.!<
-> That just turned me off on this story. And it's not even that I'm easily triggered. But taking an extremely odious character and not only treating him sympathetically, but also rewarding them for the odious behavior is a bit too much.
 > 
+> So I would recommend this story, if not for something that happens about halfway.  A plot twist that made me instantly stop reading the story with no plans of ever returning.
+> 
+> >!One character is constantly harassing the MC. Initially this is very minor character and so doesn't really detract from the story. But half way through this character is suddenly promoted to major character and given one of the plot macguffins.!<
+> 
+> That just turned me off on this story. And it's not even that I'm easily triggered. But taking an extremely odious character and not only treating him sympathetically, but also rewarding them for the odious behavior is a bit too much.
 
-> **u/Breaking_the_Candle** [+1]  *Break and rebuild.**
+> **u/Breaking_the_Candle** [+2]  *Break and rebuild.* (52 seconds later)
 > 
 > Seeking Power has updated once more. [Last update](https://redd.it/kh0saj).
-> 
 
 ---
 

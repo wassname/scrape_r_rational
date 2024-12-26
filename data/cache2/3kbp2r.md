@@ -14,70 +14,73 @@ Personally, I'm leaning towards yes, since Canon Sharingan appears to be stopped
 
 ### Comments:
 
-> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 > 
 > In my opinion, there are two ends of the spectrum:
-> * **Doujutsu depend entirely on the transmission of chakra.** Byakugan, Sharingan, and Amaterasu can be blocked by barriers of dense chakra. The Moon's Eye Plan depended on bouncing the chakra of a genjutsu off of the Moon, to reach the entire Earth.
-> * **Doujutsu depend entirely on the transmission of light.** Byakugan picks up on light outside the visible spectrum and uses chakra to convert that into a format interpretable by the human brain. Sharingan is just sharper-than-average sight, but with the associated brain functions accelerated by chakra. Amaterasu will bounce off of a mirror. The Moon's Eye Plan depended on... I dunno--somehow improving a Sharingan's vision enough that it can see everyone on Earth using the Moon as a mirror?
-> Obviously, the truth is somewhere in the middle, leaning (in my opinion) toward the chakra-based side--compare Mind Body Switch, which is much more explicit. Still, I guess the light-based system could be made to work.
-> Many fanfiction writers assume that Kakashi's hitai-ate incorporates a sealing array that blocks or deactivates his Sharingan, rather than saying that it can be rendered inactive by a simple layer of cloth placed over it.
-> > I don't know enough about WTH [the Moon's Eye Plan] actually was based on canon-wise to use that as evidence.
-> [The wiki is your friend...](http://naruto.wikia.com/wiki/Moon%27s_Eye_Plan)
 > 
+> * **Doujutsu depend entirely on the transmission of chakra.** Byakugan, Sharingan, and Amaterasu can be blocked by barriers of dense chakra. The Moon's Eye Plan depended on bouncing the chakra of a genjutsu off of the Moon, to reach the entire Earth.
+> 
+> * **Doujutsu depend entirely on the transmission of light.** Byakugan picks up on light outside the visible spectrum and uses chakra to convert that into a format interpretable by the human brain. Sharingan is just sharper-than-average sight, but with the associated brain functions accelerated by chakra. Amaterasu will bounce off of a mirror. The Moon's Eye Plan depended on... I dunno--somehow improving a Sharingan's vision enough that it can see everyone on Earth using the Moon as a mirror?
+> 
+> Obviously, the truth is somewhere in the middle, leaning (in my opinion) toward the chakra-based side--compare Mind Body Switch, which is much more explicit. Still, I guess the light-based system could be made to work.
+> 
+> Many fanfiction writers assume that Kakashi's hitai-ate incorporates a sealing array that blocks or deactivates his Sharingan, rather than saying that it can be rendered inactive by a simple layer of cloth placed over it.
+> 
+> > I don't know enough about WTH [the Moon's Eye Plan] actually was based on canon-wise to use that as evidence.
+> 
+> [The wiki is your friend...](http://naruto.wikia.com/wiki/Moon%27s_Eye_Plan)
 
->> **u/avret** [+2]  *SDHS rationalist**
+>> **u/avret** [+2]  *SDHS rationalist* (an hour later)
 >> 
 >> Ok.  I figured that Sharingan and Byakugan were at least somewhat sight based, as otherwise it seems weirdly coincidental that blindness causes sharingan failure and vice versa.
->> (When I said I didn't know what it was based on canon-wise, I meant I didn't know whether when Madara/Tobi said they were using the moon as a mirror they actually meant that.
 >> 
+>> (When I said I didn't know what it was based on canon-wise, I meant I didn't know whether when Madara/Tobi said they were using the moon as a mirror they actually meant that.
 
->>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+>>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 >>> 
 >>> [The wiki:](http://naruto.wikia.com/wiki/Infinite_Tsukuyomi)
->>> > [Infinite Tsukuyomi] can also be reflected off the moon. Upon the technique's activation, the light from the moon's eye illuminates the entire planet, turning it bright as day and making it impossible to escape. All living things are bathed in its penetrating light and immediately placed under the genjutsu.
 >>> 
+>>> > [Infinite Tsukuyomi] can also be reflected off the moon. Upon the technique's activation, the light from the moon's eye illuminates the entire planet, turning it bright as day and making it impossible to escape. All living things are bathed in its penetrating light and immediately placed under the genjutsu.
 
->>>> **u/Kishoto** [+4] *
+>>>> **u/Kishoto** [+5]  (4 hours later)
 >>>> 
 >>>> I love how they never address the fact that the moon is only ever shining on a portion of the world at the time. Although I suppose since the moon in Naruto is [](#s "just a sealed ball of rock containing the Juubi's physical body, instead of a naturally forming celestial satellite."), it's possible that their moon is always around.
->>>> 
 
->>>> **u/avret** [+2]  *SDHS rationalist**
+>>>> **u/avret** [+2]  *SDHS rationalist* (an hour later)
 >>>> 
 >>>> Thanks!  (I'd missed that somehow)
->>>> 
 
-> **u/MaxDougwell** [+3] *
+> **u/MaxDougwell** [+3]  (an hour later)
 > 
 > My knowledge comes only from the Manga.  
+> 
 > From memory, Amaterasu functioned like a projectile launched from the eye and tended to burn whatever it touched, so I suspect it would set any mirror on fire.  
 > The Moon's Eye Plan/Infinite Tsukuyomi effected everyone on the planet in the same reality as it, and the Moon retained the Rinnesharigan even when Kaguya was in other realities. I have no idea how it really worked, since the explanation we get in story both makes no sense and is given by people who are pawns for Black Zetsu.  
 > The Sharigan specifically needs eye contact to pull off it's mind-control, hence the blindfolds.  
-> I think the question is if mirrors reflect chakra or the "light" of chakra that some bloodlines can see. I'd personally say "no, unless convoluted Moon's Eye Plan to make the mirror have eyes" since the Sharigan users have a habit of standing in plain sight to use their abilities, and it seems like a basic enough tactic for the author to have thought of it and thrown it in at some point.
 > 
+> I think the question is if mirrors reflect chakra or the "light" of chakra that some bloodlines can see. I'd personally say "no, unless convoluted Moon's Eye Plan to make the mirror have eyes" since the Sharigan users have a habit of standing in plain sight to use their abilities, and it seems like a basic enough tactic for the author to have thought of it and thrown it in at some point.
 
->> **u/avret** [+2]  *SDHS rationalist**
+>> **u/avret** [+2]  *SDHS rationalist* (2 hours later)
 >> 
 >> Ok.  Any theories on the MEP?
->> 
 
->>> **u/MaxDougwell** [+1] *
+>>> **u/MaxDougwell** [+1]  (5 hours later)
 >>> 
 >>> Well, both the Sharingan and Rinnegan create a "reflection" of themselves in the eyes of their victims/puppets. With the knowledge that they are both incomplete manifestations of the Rinnesharingan, the "complete" Doujutsu could take this from merely cosmetic to allowing the projecting of it's powers through the eyes of another.  
->>> The Sharingan can also perform Izanagi, a self-sustaining genjutsu prison similar to the Infinite Tsukuyomi which I seem to recall doesn't require eye-contact, but overloads the Sharingan that uses it. Similar to above, this gives precedent to the Rinnesharingan being capable of the lotus eater trap under it's own power.  
->>> I still can't think of a good reason that anyone would conclude the Moon was a suitable recepticle. The Moon was created by imprisoning the Rinnesharingan's only living user and is composed of inert rock, so how would Zetsu know it would work to the point of devoting decades or centuries to a single convoluted plan? Can it be used on any roughly spherical target? For that matter, how did Kaguya sustain it while in other planes of existence?
 >>> 
+>>> The Sharingan can also perform Izanagi, a self-sustaining genjutsu prison similar to the Infinite Tsukuyomi which I seem to recall doesn't require eye-contact, but overloads the Sharingan that uses it. Similar to above, this gives precedent to the Rinnesharingan being capable of the lotus eater trap under it's own power.  
+>>> 
+>>> I still can't think of a good reason that anyone would conclude the Moon was a suitable recepticle. The Moon was created by imprisoning the Rinnesharingan's only living user and is composed of inert rock, so how would Zetsu know it would work to the point of devoting decades or centuries to a single convoluted plan? Can it be used on any roughly spherical target? For that matter, how did Kaguya sustain it while in other planes of existence?
 
-> **u/Kishoto** [+3] *
+> **u/Kishoto** [+3]  (4 hours later)
 > 
 > As far as the Moon's Eye, the interpretation I took from it is that the chakra of the bijuu was to be used to remotely project the sharingan onto the moon, essentially making the moon a giant sharingan eye, for the purposes of the tsukiyomi. Also, I think the implication is that due to both the bijuu chakra and the size scaling, the tsukiyomi would affect everyone, regardless of those who avoided making eye contact with it.
-> As far as mirrors, I want to say that genjutsu is about some form of chakra emission and I'm going to assume that chakra doesn't behave exactly like light, so bouncing them off mirrors wouldn't be a feasible option. And while Amaterasu was generally taken as "big ass black fire wherever the person looks", there was clearly some form of limit to its size, and I dont think the fire would ride along the L.o.S provided by a mirror. I think it'd just go to where the Uchiha is actually gazing, melting said mirror.
 > 
+> As far as mirrors, I want to say that genjutsu is about some form of chakra emission and I'm going to assume that chakra doesn't behave exactly like light, so bouncing them off mirrors wouldn't be a feasible option. And while Amaterasu was generally taken as "big ass black fire wherever the person looks", there was clearly some form of limit to its size, and I dont think the fire would ride along the L.o.S provided by a mirror. I think it'd just go to where the Uchiha is actually gazing, melting said mirror.
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (10 hours later)
 >> 
 >> Ok, thanks.
->> 
 
 ---
 

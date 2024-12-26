@@ -2,7 +2,7 @@
 
 * Author: u/Raszhivyk  *The Culture**
 * URL: https://www.royalroad.com/fiction/15925/the-daily-grind/chapter/646313/chapter-130
-* Score: 12
+* Score: 14
 
 * Created: 2021-03-13T19:17:12
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Raszhivyk** [+6]  *The Culture**
+> **u/Raszhivyk** [+6]  *The Culture* (a minute later)
 > 
 > Book Three has finally started. I've been a Patreon follower, so if you're curious, I would say this this next arc is pretty great.
-> 
 
->> **u/SeekingImmortality** [+2]  *The Eldest, Apparently**
+>> **u/SeekingImmortality** [+2]  *The Eldest, Apparently* (4 days later)
 >> 
 >> I've been looking forward to it resuming!
->> 
 
 ---
 

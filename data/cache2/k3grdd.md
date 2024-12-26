@@ -2,7 +2,7 @@
 
 * Author: u/delta-201 *
 * URL: https://www.reddit.com/r/rational/comments/k3grdd/introducing_salvos_a_litrpg_evolution_story/
-* Score: 38
+* Score: 41
 
 * Created: 2020-11-29T20:36:18
 
@@ -44,100 +44,99 @@ I'm not exactly certain if this is a *fully* rationalist fiction, but it does ap
 
 ### Comments:
 
-> **u/xamueljones** [+30]  *My arch-enemy is entropy**
+> **u/xamueljones** [+31]  *My arch-enemy is entropy* (an hour later)
 > 
 > Your rant about survivor bias is pretty interesting and it relates to psychological studies done on the effects of luck. People who are very lucky develop a very similar mindset to those who were born to privilege. They forgot that others don't have the same resources or chances, and start thinking that either there's something wrong with other people or they're just better.
-> They got the lucky break because they deserved it and not others. Luck can erode empathy.
-> Someone online made an analogy using Joy from Inside-Out about this. She's very peppy and happy to share her cheer with others, but she just basically bullies Sadness. It's not out of malice, she just doesn't have the empathy to understand what it's like to not be lucky or constantly happy. Her "life" was too charmed that it blots out other's misfortune.
-> It can even show up in minor ways. Finding a quarter on the floor can lead to people thinking there is a higher chance an attractive individual is flirting with them minutes later.
-> This effect is magnified in the individuals who are at the far extreme of the bell curve in being lucky.
 > 
+> They got the lucky break because they deserved it and not others. Luck can erode empathy.
+> 
+> Someone online made an analogy using Joy from Inside-Out about this. She's very peppy and happy to share her cheer with others, but she just basically bullies Sadness. It's not out of malice, she just doesn't have the empathy to understand what it's like to not be lucky or constantly happy. Her "life" was too charmed that it blots out other's misfortune.
+> 
+> It can even show up in minor ways. Finding a quarter on the floor can lead to people thinking there is a higher chance an attractive individual is flirting with them minutes later.
+> 
+> This effect is magnified in the individuals who are at the far extreme of the bell curve in being lucky.
 
->> **u/delta-201** [+4] *
+>> **u/delta-201** [+4]  (23 hours later)
 >> 
 >> That's very interesting! I never knew that before. Although I do wonder why there's a need to distinguish luck and being born to privilege; isn't being born to privilege an extension of luck?
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> The distinction matters, because while being privileged is being lucky, being lucky doesn't mean being privileged. And all of the effects I mentioned still holds if someone is lucky without being privileged.
->>> 
 
-> **u/Agasthenes** [+9] *
+> **u/Agasthenes** [+10]  (15 hours later)
 > 
 > You really should include the part about survivor ship bias in the rr description.
->  I clicked your story once in the past and then clicked away, because it sounded too similar to absurd current project.
->  But the part about the bias really caught attention and now will give it a try.
 > 
+>  I clicked your story once in the past and then clicked away, because it sounded too similar to absurd current project.
+> 
+>  But the part about the bias really caught attention and now will give it a try.
 
->> **u/delta-201** [+1] *
+>> **u/delta-201** [+1]  (23 hours later)
 >> 
 >> Thanks! Yeah, I'm just trying out different blurbs, seeing which attracts the most readers. So far, the one about survivorship bias seems to have the most success. But I might do a poll on it soon, just to let my readers decide since I'm indecisive XD
->> 
 
->>> **u/Agasthenes** [+7] *
+>>> **u/Agasthenes** [+7]  (a day later)
 >>> 
 >>> Trust me people on rrl (and reddit) gobble up any pseudo science. 
->>> Look at delve. A thousand pages of a dude doing basic addition and multiplication. And we love it.
 >>> 
+>>> Look at delve. A thousand pages of a dude doing basic addition and multiplication. And we love it.
 
->>>> **u/delta-201** [+1] *
+>>>> **u/delta-201** [+1]  (a day later)
 >>>> 
 >>>> Haha, I believe it. That was the first blurb I made, but I started to get second thoughts about it over two weeks and second guessed myself lmao
->>>> 
 
-> **u/Do_Not_Go_In_There** [+3] *
+> **u/Do_Not_Go_In_There** [+3]  (6 hours later)
 > 
 > I've been reading Salvos for awhile, and I will say that it's quite well written and the story is interesting. It is interesting watching the MC essentially build themselves up from nothing, and figuring out who - and what - she is and how she fits into the world. 
-> About the survivor bias: I definitely agree here. The story does a pretty good job of showing that those who survive manage largely though luck. Everyone we see is born equal, and they only manage to grow at the expense of others >!they start out with equal stats, and kill others to gain XP. Sometimes  fights are won either because the one side is smarter or opponent is weaker, sometimes it's because it's just a bad match-up.!<
-> >Especially since she starts off with no language. The ability to communicate is one of the most important aspects of recognition, after all.
-> You really took that to heart. Not that I disagree.
 > 
+> About the survivor bias: I definitely agree here. The story does a pretty good job of showing that those who survive manage largely though luck. Everyone we see is born equal, and they only manage to grow at the expense of others >!they start out with equal stats, and kill others to gain XP. Sometimes  fights are won either because the one side is smarter or opponent is weaker, sometimes it's because it's just a bad match-up.!<
+> 
+> >Especially since she starts off with no language. The ability to communicate is one of the most important aspects of recognition, after all.
+> 
+> You really took that to heart. Not that I disagree.
 
->> **u/delta-201** [+2] *
+>> **u/delta-201** [+2]  (a day later)
 >> 
 >> Haha thanks. You're the guy who wrote the long post on RR, right? I liked that comment.
->> Honestly though, that was actually something I considered from the start, since I had just finished reading Hegel's Phenomenology of Spirits for Uni when I began Salvos, and Hegel makes language/communication out to be an important tool against alienation and attaining recognition. The only problem is I'm a pantster, so sometimes I write things that is probably better saved for a later payoff time, which I'm glad you pointed out.
 >> 
+>> Honestly though, that was actually something I considered from the start, since I had just finished reading Hegel's Phenomenology of Spirits for Uni when I began Salvos, and Hegel makes language/communication out to be an important tool against alienation and attaining recognition. The only problem is I'm a pantster, so sometimes I write things that is probably better saved for a later payoff time, which I'm glad you pointed out.
 
-> **u/michaelos22** [+3] *
+> **u/michaelos22** [+3]  (6 hours later)
 > 
 > This is pretty good. I’ve started following it on Royal Road. I wish there were more chapters even though I have to go to bed.
-> 
 
->> **u/delta-201** [+2] *
+>> **u/delta-201** [+2]  (a day later)
 >> 
 >> I appreciate it. More chapters are coming out as the days go by!
->> 
 
-> **u/Geminii27** [+2] *
+> **u/Geminii27** [+2]  (14 hours later)
 > 
 > Is Salvos pronounced 'Sall - voss' or 'Sall - vohs'?
-> 
 
->> **u/delta-201** [+1] *
+>> **u/delta-201** [+1]  (a day later)
 >> 
 >> The latter.
->> 
 
-> **u/TheColourOfHeartache** [+2] *
+> **u/TheColourOfHeartache** [+2]  (3 days later)
 > 
 > I read your story after seeing this post but I'm not sure if I plan to continue. 
-> In the latest chapter(8) Salvos was able to kill a demon a whole evolution level above her without any advanced preparation. Her winning strategy doesn't use any of her established Skills. And it requires her in an Agility vs Agility contest against a higher level Agility focused opponent (the hell hound's only skill is a speed boost, it's Agility focused). And she scores a critical win despite needing to perform an insanely complicated aerial manoeuvrer with no actual abilities to maneuver in the air against an opponent who only needs to step to the side. 
-> Meanwhile the hellhound makes every possible mistake. It mostly ignores the DPS to focus on the tank, despite the tank not having any Skills to draw aggro and Salvos repeatedly attacking it. It seems to have only one Skill despite the protagonist having two a whole evolution level earlier. It charged straight into the spear despite the fact it logically could see it (dogs are taller than larvae: Salvos' limbs are described as "nubby protrusions" while the hellhound has proper legs. Also Salvos is short enough to fit underneath the spear). Then when the spear is falling it chooses to growl rather than take a step to the side and dodge it. 
-> This doesn't feel like aspiring rationalism or a plausible rpg mechanic, it feels like plot armour where regardless of established numbers the protagonist will always scrape out a way to win.
 > 
+> In the latest chapter(8) Salvos was able to kill a demon a whole evolution level above her without any advanced preparation. Her winning strategy doesn't use any of her established Skills. And it requires her in an Agility vs Agility contest against a higher level Agility focused opponent (the hell hound's only skill is a speed boost, it's Agility focused). And she scores a critical win despite needing to perform an insanely complicated aerial manoeuvrer with no actual abilities to maneuver in the air against an opponent who only needs to step to the side. 
+> 
+> Meanwhile the hellhound makes every possible mistake. It mostly ignores the DPS to focus on the tank, despite the tank not having any Skills to draw aggro and Salvos repeatedly attacking it. It seems to have only one Skill despite the protagonist having two a whole evolution level earlier. It charged straight into the spear despite the fact it logically could see it (dogs are taller than larvae: Salvos' limbs are described as "nubby protrusions" while the hellhound has proper legs. Also Salvos is short enough to fit underneath the spear). Then when the spear is falling it chooses to growl rather than take a step to the side and dodge it. 
+> 
+> This doesn't feel like aspiring rationalism or a plausible rpg mechanic, it feels like plot armour where regardless of established numbers the protagonist will always scrape out a way to win.
 
->> **u/delta-201** [+1] *
+>> **u/delta-201** [+1]  (3 days later)
 >> 
 >> Heya, thanks for giving Salvos a shot. 
->> I tried making Salvos as resourceful as possible in that fight which gave her the win over the wild Demon \[Hellhound\], but it appears I might have let rule of cool take control somewhere in the middle of it.
 >> 
+>> I tried making Salvos as resourceful as possible in that fight which gave her the win over the wild Demon \[Hellhound\], but it appears I might have let rule of cool take control somewhere in the middle of it.
 
-> **u/Argenteus_CG** [+1] *
+> **u/Argenteus_CG** [+1]  (2 days later)
 > 
 > Pretty good so far. I think the blurb about survivorship bias is pretty useful context; without it I would have interpreted a lot of the story in a different light. But, if you do plan to explore those themes more explicitly in the future, then that might arguably be a good thing in that it allows it to be a 'twist' of sorts.
-> 
 
 ---
 

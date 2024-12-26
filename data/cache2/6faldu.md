@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (21 minutes later)
 > 
 > We finally see what it looks like to create a simulacrum, and spend more time with their short little lives. It wasn't always clear if the original or the copy was narrating, though.
-> Also, tearing the gate out of the ground, lol. That's one way to do it. I wonder what would happen if you put it inside the Orb Palace.
 > 
+> Also, tearing the gate out of the ground, lol. That's one way to do it. I wonder what would happen if you put it inside the Orb Palace.
 
-> **u/WarningInsanityBelow** [+1] *
+> **u/WarningInsanityBelow** [+1]  (32 minutes later)
 > 
 > To anyone who is confused, this managed to get posted twice. [The other one is shaping up to be the shelling-thread](https://www.reddit.com/r/rational/comments/6falbn/rt_hf_mother_of_learning_chapter_70_carried_away/)
-> 
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (2 hours later)
 >> 
 >> Removed this one for that reason.
->> 
 
 ---
 

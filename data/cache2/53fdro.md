@@ -2,7 +2,7 @@
 
 * Author: u/VanPeer  *The shard made me do it**
 * URL: https://vanpeerblog.wordpress.com/analog-solutions/
-* Score: 24
+* Score: 25
 
 * Created: 2016-09-19T01:53:24
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/MoralRelativity** [+4] *
+> **u/MoralRelativity** [+5]  (22 hours later)
 > 
 > Love it. More please!
-> 
 
->> **u/VanPeer** [+2]  *The shard made me do it**
+>> **u/VanPeer** [+2]  *The shard made me do it* (23 hours later)
 >> 
 >> Thanks. Glad you liked it.
->> 
 
 ---
 

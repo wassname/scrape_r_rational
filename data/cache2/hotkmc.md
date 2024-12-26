@@ -20,141 +20,131 @@ The series can be found on Archive of Our Own [here](https://archiveofourown.org
 
 ### Comments:
 
-> **u/VorpalAuroch** [+18]  *Life before Death**
+> **u/VorpalAuroch** [+17]  *Life before Death* (4 hours later)
 > 
 > I don't like it, but not because it's bad; because it feels too realistic and so hits too close to home.
-> So I won't be following this, but you have my upvote for a job well done.
 > 
+> So I won't be following this, but you have my upvote for a job well done.
 
->> **u/callmesalticidae** [+14]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+11]  *writes worldbuilding books* (5 hours later)
 >> 
 >> Oof, yeah, that's totally understandable. 
->> I hope that you're doing alright and that this was merely unpleasant, and not A Very Bad Experience.
 >> 
+>> I hope that you're doing alright and that this was merely unpleasant, and not A Very Bad Experience.
 
->> **u/GreenSatyr** [+4] *
+>> **u/GreenSatyr** [+4]  (20 hours later)
 >> 
 >> High praise
->> 
 
-> **u/None** [+12] *
+> **u/None** [+13]  (21 minutes later)
 > 
 > Is there a particular reason your AO3 version is a whole bunch of separate stories instead of just one story with chapters?
-> 
 
->> **u/callmesalticidae** [+9]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+11]  *writes worldbuilding books* (59 minutes later)
 >> 
 >> It lets people know whether a given episode or arc or what-have-you is complete, allows me to better define each unit of the story, gives me more flexibility (I can rearrange the order without any issues), and scales very easily. 
->> I can't say that I've seen anyone write the sort of story that I'm writing and *not* use the Series function the way that I am, though, so there's also a certain amount of "this is aesthetically pleasing to me."
 >> 
+>> I can't say that I've seen anyone write the sort of story that I'm writing and *not* use the Series function the way that I am, though, so there's also a certain amount of "this is aesthetically pleasing to me."
 
->>> **u/slogancontagion** [+3] *
+>>> **u/slogancontagion** [+3]  (13 hours later)
 >>> 
 >>> I'm looking at how Having The Right Enemies also intersects with Other Faces and wondering whether you're going to make this story multilinear? It just occurred to me that AO3's system means it's possible to have several possible narrative threads each represented as a series, with particular works being the point of intersection. Anyway I'm up to the third work and I'm loving it so far!
->>> 
 
->>>> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>>>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (a day later)
 >>>> 
 >>>> > wondering whether you're going to make this story multilinear? 
->>>> Not this story, but I've got something like that in mind for another project of mine.
->>>> I'm glad you're enjoying it!
 >>>> 
+>>>> Not this story, but I've got something like that in mind for another project of mine.
+>>>> 
+>>>> I'm glad you're enjoying it!
 
-> **u/Roneitis** [+11] *
+> **u/Roneitis** [+12]  (12 hours later)
 > 
 > I was enjoying this quite readily as I went on, until I got to Remus' segment, and holy shit, that is fucking excellent.   
-
-> It's a fantastic premise, really. I was intrigued by your whole "riddle in other houses" shtick, so I went and read your ravenclaw story and Insurgere before hand, and I also enjoyed both of those. Until I got to this chapter, however, I didn't /really/ see why Gryffinidor!Tom is the one that you've decided to craft this whole universe for. Gryffindor is the house most primed to /do/ something, and a corruption of it's values is a... potent thing.  
-
-> And what better way to highlight that than the story of the Marauders, for who is more Gryffindor?  
-
-> " When the cards were down, Peter wasn’t the only follower. They were  all, in their own way, caught up in James’ wake, and if Sirius and  Remus hadn’t held their own reasons for falling in with that crowd then  they would have done it just to go where James was going.
-> Loyalty was a Hufflepuff virtue. Perhaps it was also a Gryffindor vice."  
-
-> Goddamn.
 > 
+> It's a fantastic premise, really. I was intrigued by your whole "riddle in other houses" shtick, so I went and read your ravenclaw story and Insurgere before hand, and I also enjoyed both of those. Until I got to this chapter, however, I didn't /really/ see why Gryffinidor!Tom is the one that you've decided to craft this whole universe for. Gryffindor is the house most primed to /do/ something, and a corruption of it's values is a... potent thing.  
+> 
+> And what better way to highlight that than the story of the Marauders, for who is more Gryffindor?  
+> 
+> " When the cards were down, Peter wasn’t the only follower. They were  all, in their own way, caught up in James’ wake, and if Sirius and  Remus hadn’t held their own reasons for falling in with that crowd then  they would have done it just to go where James was going.
+> 
+> Loyalty was a Hufflepuff virtue. Perhaps it was also a Gryffindor vice."  
+> 
+> Goddamn.
 
->> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (a day later)
 >> 
 >> >  I didn't /really/ see why Gryffinidor!Tom is the one that you've decided to craft this whole universe for.
->> To be honest it's just because this is the time that it exploded on me. I *tried* to make it a oneshot, like when I wrote a Ravenclaw!Riddle fic, but it kept growing.
 >> 
+>> To be honest it's just because this is the time that it exploded on me. I *tried* to make it a oneshot, like when I wrote a Ravenclaw!Riddle fic, but it kept growing.
 
-> **u/gazztromple** [+8]  *Ankh-Morpork City Watch**
+> **u/gazztromple** [+9]  *Ankh-Morpork City Watch* (6 hours later)
 > 
 > THAT WAS ALL JUST A PROLOGUE??? I'm hyped. This was just what I needed, thank you for sharing.
-> 
 
->> **u/callmesalticidae** [+7]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+9]  *writes worldbuilding books* (9 hours later)
 >> 
 >> > THAT WAS ALL JUST A PROLOGUE???
->> This, plus a little bit more (probably 3-4 more "chapters") and then, yes, Phase II is going to start up, and it's going to be a little more conventional, with at least three "books".
 >> 
+>> This, plus a little bit more (probably 3-4 more "chapters") and then, yes, Phase II is going to start up, and it's going to be a little more conventional, with at least three "books".
 
-> **u/wren42** [+5] *
+> **u/wren42** [+5]  (5 hours later)
 > 
 > It's an interesting concept and fun read so far.  My main feedback would be that, for the dueling chapters, just giving the names of the spells and no descriptions of their effect, except occasionally through footnotes, leaves me often reading nonsense and unable to envision what's happening.   A bit more description of the action would go a long way, as it's clear there's lots of thought behind what spells would be cast and their interactions.
-> 
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (5 hours later)
 >> 
 >> > My main feedback would be that, for the dueling chapters, just giving the names of the spells and no descriptions of their effect, except occasionally through footnotes, leaves me often reading nonsense and unable to envision what's happening.
->> 100%. 
->> I'm trying to handle spells more dynamically this time, but it'll be a few more updates before I can say for sure whether my current approach is an improvement. If it is, then I'm definitely going to rewrite the dueling chapters during my next hiatus (which won't be as long as the first hiatus, hopefully, but I've got a 10-20 chapter story coming down the pipeline and I want to make sure that it's outlined front and back before I release anything).
->> Thank you very much for your feedback!
 >> 
+>> 100%. 
+>> 
+>> I'm trying to handle spells more dynamically this time, but it'll be a few more updates before I can say for sure whether my current approach is an improvement. If it is, then I'm definitely going to rewrite the dueling chapters during my next hiatus (which won't be as long as the first hiatus, hopefully, but I've got a 10-20 chapter story coming down the pipeline and I want to make sure that it's outlined front and back before I release anything).
+>> 
+>> Thank you very much for your feedback!
 
->>> **u/wren42** [+2] *
+>>> **u/wren42** [+2]  (9 hours later)
 >>> 
 >>> thanks for writing! it was a fun world to explore for a while
->>> 
 
-> **u/MultipartiteMind** [+6] *
+> **u/MultipartiteMind** [+6]  (a day later)
 > 
 > (Silly mental image: >!"And then, after we butcher the parents of the Order's most fervent knight, we False-Memory-Charm him into thinking that /Tom Riddle/ did it, then we'll let him go."!<.)
-> 
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (a day later)
 >> 
 >> LOLOL oh noooo.
->> 
 
->>> **u/JJReeve** [+3] *
+>>> **u/JJReeve** [+3]  (2 days later)
 >>> 
 >>> I was tempted to make a joke about everyone being false memory charmed and having their roles reassigned every night. 
->>> Then I remember Dark City is already a thing, great movie too.
 >>> 
+>>> Then I remember Dark City is already a thing, great movie too.
 
-> **u/wren42** [+6] *
+> **u/wren42** [+5]  (22 hours later)
 > 
 > Finished up to the current chapters.  This version of Riddle is frankly terrifying, and feels quite relevant to our current era.   A villain who understands and can manipulate the political and social sphere and is using Gryffindor style radical activism to promote their own agenda is so much more scary than a brute terrorist.  Really well constructed!
-> 
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (a day later)
 >> 
 >> Thank you!
->> 
 
-> **u/DeepTundra** [+2]  *Lawful Stupid Godboxer**
+> **u/DeepTundra** [+2]  *Lawful Stupid Godboxer* (12 hours later)
 > 
 > Thanks for posting! I must have missed this during your initial SB/SV run. Really enjoy how you take your nail and use it to move things in a direction that is more complicated and thoughtful than Rowling’s rather straightforward political and moral storytelling.
-> 
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (a day later)
 >> 
 >> Thank you!
->> 
 
-> **u/swaskowi** [+2] *
+> **u/swaskowi** [+2]  (a day later)
 > 
 > Very much enjoyed, thank you for posting!
-> I will second the comment that the way the stories are clustered on A03 makes it easy to miss sections.
 > 
+> I will second the comment that the way the stories are clustered on A03 makes it easy to miss sections.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (23 hours later)
 > 
 > [deleted]
-> 
 
 ---
 

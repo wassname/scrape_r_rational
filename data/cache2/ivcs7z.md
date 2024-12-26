@@ -2,7 +2,7 @@
 
 * Author: u/NewRetroWave7 *
 * URL: https://www.fanfiction.net/s/11122077/13/A-World-Full-of-Monsters
-* Score: 10
+* Score: 12
 
 * Created: 2020-09-18T19:29:04
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ashinator92** [+9] *
+> **u/ashinator92** [+9]  (8 hours later)
 > 
 > Can you tell us more about why this is a good/rational fiction :) ?
-> 
 
 ---
 

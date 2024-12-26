@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Lubaf** [+1] *
+> **u/Lubaf** [+1]  (7 minutes later)
 > 
 > Not completely certain this belongs here, but I believe it does, if for no other reason then the speech in the Encounter At Farpoint, and the interesting holodeck solution.
-> 
 
 ---
 

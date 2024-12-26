@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/6udfhy/biweekly_challenge_metafiction/
-* Score: 16
+* Score: 17
 
 * Created: 2017-08-17T22:05:04
 
@@ -50,55 +50,59 @@ Next time, the challenge will be **Effective Altruism**, partly because Effectiv
 
 ### Comments:
 
-> **u/None** [+22] *
+> **u/None** [+22]  (8 hours later)
 > 
 > [Hronar the Barbarian](https://www.dropbox.com/s/wikr3f4ugg2zc16/Hronar%20%28Final%29.odt?dl=0) (1825 words)
-> (To preempt Poe's Law: this is meant to be tongue-in-cheek, but I still couldn't resist posting it.)
 > 
+> (To preempt Poe's Law: this is meant to be tongue-in-cheek, but I still couldn't resist posting it.)
 
->> **u/bvonl** [+2] *
+>> **u/bvonl** [+2]  (a month later)
 >> 
 >> I tried and this is what I understood:
 >> Hronar is, obviously, a rationalist, talking to a man (another storyteller, perhaps a non-rational one).  
+>> 
 >> Up until he goes to the temple, he's being a rational player but one unaware of being in a (real-life) story.  
+>> 
 >> The book of poetry spurs him on to read and then write fiction, which helps him predict his own story and make difficult things easier to plan for.  
+>> 
 >> Any corrections?  
+>> 
 >> My questions:  
 >> Is there any significance or symbolism behind the character of the other man? 
 >> Is he an Elder God or something, who is wondering how Hronar has been as successful as he is?
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (a month later)
 >>> 
 >>> I think you got most of the points.
->>> What I would add is that beyond "making difficult things easier to plan for", Hronar actively improves his situation in ever-more munchkin-esque ways, which leads him to the current situation in which he lives in a more modern and luxurious way. He declines to describe that journey to his associate, calling it a long story.
->>> Though I've never put this in the text, and you're therefore free to disbelieve this, "word of god" on that journey would be that Hronar fully escapes his Bronze Age Fantasy reality by using his meta-knowledge to make the plot more and more meta. Think about it: If the story becomes about his knowledge about stories, there has to be some sort of climactic achievement regarding knowledge about stories, and him escaping reality fits the bill, especially if he arranges for subtle foreshadowing to that end.
->>> But where is he *now*? Well, I imagine he is in some place where others have ended up through similar journeys (which is why the guy he's talking to expects his story to contain him realizing it's a story). So I'd say that although the story doesn't state it, the other man is a fellow meta-aware protagonist of another story.
->>> For the record, I don't think that it's a good idea to leave so much unsaid in the story, yet declare it canon, but I never really took *Hronar* too seriously. I wanted to poke a bit of fun at the concept of a rationalfic by making the classic barbarian hero, perhaps the most unintellectual of fantasy stereotypes, an absurd munchkin.
->>> Thank you for reading, I didn't think that people would check in on such an old challenge :)
 >>> 
+>>> What I would add is that beyond "making difficult things easier to plan for", Hronar actively improves his situation in ever-more munchkin-esque ways, which leads him to the current situation in which he lives in a more modern and luxurious way. He declines to describe that journey to his associate, calling it a long story.
+>>> 
+>>> Though I've never put this in the text, and you're therefore free to disbelieve this, "word of god" on that journey would be that Hronar fully escapes his Bronze Age Fantasy reality by using his meta-knowledge to make the plot more and more meta. Think about it: If the story becomes about his knowledge about stories, there has to be some sort of climactic achievement regarding knowledge about stories, and him escaping reality fits the bill, especially if he arranges for subtle foreshadowing to that end.
+>>> 
+>>> But where is he *now*? Well, I imagine he is in some place where others have ended up through similar journeys (which is why the guy he's talking to expects his story to contain him realizing it's a story). So I'd say that although the story doesn't state it, the other man is a fellow meta-aware protagonist of another story.
+>>> 
+>>> For the record, I don't think that it's a good idea to leave so much unsaid in the story, yet declare it canon, but I never really took *Hronar* too seriously. I wanted to poke a bit of fun at the concept of a rationalfic by making the classic barbarian hero, perhaps the most unintellectual of fantasy stereotypes, an absurd munchkin.
+>>> 
+>>> Thank you for reading, I didn't think that people would check in on such an old challenge :)
 
->>>> **u/bvonl** [+2] *
+>>>> **u/bvonl** [+2]  (a month later)
 >>>> 
 >>>> Heh. I bet Tolstoy didn't think that we'd be reading him after so many years either... I enjoyed the story, and thank you for pointing out the munchkinry; I skipped over it without realizing the importance of it... It's easy to forget that its the small things that lead to bigger things being possible - like being able to Google better gets you better reading material and puts you ahead of some other people around you, which leads you to becoming the person whom difficult questions are brought to, which leads you to knowing more about esoteric things and resources... And the cycle continues.
->>>> 
 
-> **u/None** [+11] *
+> **u/None** [+11]  (8 hours later)
 > 
 > [The Dark God's Names](https://www.dropbox.com/s/zih9dk6o3kuljn2/The%20Dark%20God%27s%20Names%20%28Final%29.odt?dl=0) (3727 words)
-> Content warning: racism, graphic violence.
 > 
+> Content warning: racism, graphic violence.
 
-> **u/None** [+11] *
+> **u/None** [+11]  (9 hours later)
 > 
 > [Applied Cultural Topology](https://www.dropbox.com/s/3p0dnwkrln2nno6/Applied%20Cultural%20Topology%20%28Final%29.odt?dl=0) (2937 words)
-> 
 
-> **u/RichardBruns** [+2] *
+> **u/RichardBruns** [+2]  (4 days later)
 > 
 > [NPC Metaphysics](https://coopershopefuls.blogspot.com/2017/03/3d-gladys-first-flight.html) (784 words)
 > (I do not know if this counts. The story is firmly meta, but the characters are not fully aware of what they are.)
-> 
 
 ---
 

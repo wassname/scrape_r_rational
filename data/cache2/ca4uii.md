@@ -2,7 +2,7 @@
 
 * Author: u/AngelaCastir *
 * URL: https://archiveofourown.org/works/13710744/chapters/46647706
-* Score: 9
+* Score: 8
 
 * Created: 2019-07-07T08:58:10
 
@@ -12,11 +12,14 @@
 
 ### Comments:
 
-> **u/AngelaCastir** [+3] *
+> **u/AngelaCastir** [+3]  (29 seconds later)
 > 
 > So, after last month's seemingly poorly received "small update" experiment, we're back with a full, long chapter. Hope people enjoy it!
+> 
 > This has a lot of little things: a heck of a lot of relationship stuff for the people who enjoy that (hopefully most of the people following the story, and for those people, the tapestry scene is one of my favourite cute scenes we've ever written).
+> 
 > But there's also a lot of vampire lore is peeking through:
+> 
 > - There's something strange about Paola, but what?
 > - Did William use mind control on that guard or what?
 > - (Red is asking about coffins because that's a major plot point of *Son of Dracula*, a 1943 Vampire film)
@@ -26,7 +29,6 @@
 > - Vampires write to each other in code and dead languages, and have long, austentatious titles (the "one who pranked the third council" is definitely a Noodle Incident)
 > - The two envelope thing is actually a Victorian thing, but it seems ideal for vampires since they benefit from secrecy.
 > - Vampires don't really trust each other, and are more than a little paranoid
-> 
 
 ---
 

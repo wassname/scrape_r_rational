@@ -12,12 +12,11 @@
 
 ### Comments:
 
-> **u/TrebarTilonai** [+7] *
+> **u/TrebarTilonai** [+7]  (10 hours later)
 > 
 > " A day more or less wouldn’t make much of a difference. "  
-
-> OH Cat... I thought you were better than that...
 > 
+> OH Cat... I thought you were better than that...
 
 ---
 

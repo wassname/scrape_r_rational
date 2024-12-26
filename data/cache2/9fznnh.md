@@ -2,7 +2,7 @@
 
 * Author: u/whosyourjay *
 * URL: https://www.royalroad.com/fiction/15925/the-daily-grind/chapter/290179/chapter-059
-* Score: 28
+* Score: 24
 
 * Created: 2018-09-15T07:20:47
 

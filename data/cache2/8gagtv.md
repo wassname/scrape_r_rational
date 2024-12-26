@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/trifith** [+1]  *Man plans, god laughs. Like the ant and the grasshopper.**
+> **u/trifith** [+1]  *Man plans, god laughs. Like the ant and the grasshopper.* (3 minutes later)
 > 
 > No.
-> https://www.reddit.com/r/modhelp/comments/170ksn/renaming_my_subreddit/
 > 
+> https://www.reddit.com/r/modhelp/comments/170ksn/renaming_my_subreddit/
 
->> **u/mordecailynian** [+1] *
+>> **u/mordecailynian** [+1]  (4 minutes later)
 >> 
 >> Ohhhh nice, didn’t know that, and welp:/
->> 
 
 ---
 

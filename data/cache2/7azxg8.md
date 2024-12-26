@@ -30,34 +30,38 @@ I recently started Void domain , it's been ok ok so far.
 
 ### Comments:
 
-> **u/Anderkent** [+7] *
+> **u/Anderkent** [+7]  (an hour later)
 > 
 > Browse the [recommendation threads](https://www.reddit.com/r/rational/search?q=recommendation&restrict_sr=on&sort=relevance&t=all).
-> 
 
-> **u/SvalbardCaretaker** [+6]  *Mouse Army**
+> **u/SvalbardCaretaker** [+6]  *Mouse Army* (20 minutes later)
 > 
 > If you liked metropolitan man may I recommend all the other works of the fantastic alexander wales? 
-> http://alexanderwales.com/shadows/
-> http://alexanderwales.com/category/standalone/
-> http://www.alexanderwales.com/darkWizardNaNo2016.html
 > 
+> http://alexanderwales.com/shadows/
+> 
+> http://alexanderwales.com/category/standalone/
+> 
+> http://www.alexanderwales.com/darkWizardNaNo2016.html
 
-> **u/XxChronOblivionxX** [+5] *
+> **u/XxChronOblivionxX** [+4]  (an hour later)
 > 
 > *Significant Digits* is a great fan-sequel of HPMoR. 
-> Then there is *Pokemon: Origin of Species*, *Animorphs: The Reckoning*, *UNSONG*, and *Worth the Candle*.
 > 
+> Then there is *Pokemon: Origin of Species*, *Animorphs: The Reckoning*, *UNSONG*, and *Worth the Candle*.
 
->> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (an hour later)
 >> 
 >> Significant Digits-level HPMoR fanfanfanfics: 
+>> 
 >> https://www.fanfiction.net/s/11107471/1/Squiring-the-Phoenix 
+>> 
 >> https://www.fanfiction.net/s/10755550/1/Harry-Potter-and-the-cryptographic-key
+>> 
 >> The next one is gone, but preserved  via internet archive: 
 >> https://web.archive.org/web/20161114233024/http://freetexthost.com/ikucx6nse4 
->> https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix
 >> 
+>> https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix
 
 ---
 

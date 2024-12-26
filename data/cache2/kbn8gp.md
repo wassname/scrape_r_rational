@@ -2,7 +2,7 @@
 
 * Author: u/Audere_of_the_Grey  *Grey Collegium**
 * URL: https://www.reddit.com/r/rational/comments/kbn8gp/disappointed_in_the_sequels_to_crystal_society/
-* Score: 50
+* Score: 48
 
 * Created: 2020-12-12T10:50:30
 
@@ -38,97 +38,99 @@ Anyone else have a similar experience? Thoughts?
 
 ### Comments:
 
-> **u/WildFowl82** [+20] *
+> **u/WildFowl82** [+18]  (2 hours later)
 > 
 > Similar experience here. The first book was one of the best I've ever read. The interactions between the cores was so interesting. 
-> I immediately bought the second book, got a few chapters in.. and the pacing is just so terrible. I've picked it up several times but never make progress and have to drop it again. It's an absolute chore to read. I don't understand why the author thought such a big shift in tone and focus was a good idea. Book 1 was working, why change the formula?
 > 
+> I immediately bought the second book, got a few chapters in.. and the pacing is just so terrible. I've picked it up several times but never make progress and have to drop it again. It's an absolute chore to read. I don't understand why the author thought such a big shift in tone and focus was a good idea. Book 1 was working, why change the formula?
 
->> **u/The_Flying_Stoat** [+2] *
+>> **u/The_Flying_Stoat** [+2]  (9 days later)
 >> 
 >> In your opinion, was the story at a reasonable stopping point at the end of the first book? I'm wondering if I should just read the first one and stop there, based on the comments in this thread.
->> 
 
->>> **u/WildFowl82** [+1] *
+>>> **u/WildFowl82** [+1]  (9 days later)
 >>> 
 >>> > was the story at a reasonable stopping point at the end of the first book?
->>> In my opinion, not really. I feel discontent stopping after book 1, it feels a bit like reaching the end of a discontinued fanfic or web serial. But I'm still happy I did read the first book.
 >>> 
+>>> In my opinion, not really. I feel discontent stopping after book 1, it feels a bit like reaching the end of a discontinued fanfic or web serial. But I'm still happy I did read the first book.
 
->>>> **u/The_Flying_Stoat** [+2] *
+>>>> **u/The_Flying_Stoat** [+2]  (9 days later)
 >>>> 
 >>>> Thanks for your help!
->>>> 
 
-> **u/4t0m** [+11]  *Chaos Legion**
+> **u/4t0m** [+11]  *Chaos Legion* (3 hours later)
 > 
 > Sorry to not fully engage with your post here, but I think the truth of "Ro" is meant to be left somewhat ambiguous.  That is, it may be a trick played on Vision.  This reading was a bit more satisfying for me.  
-> I wish we had spent less time in human PoVs (or with humans that better held my interest), but I'm sure it was hard to believably write the AIs as they increased in power. 
-> Also, having some small acquaintanceship with the author, I wanted to note the following in case he's reading this: I really enjoyed the first book.  I didn't like the next two as much, but I hope he writes more fiction in the future.  I imagine it's painful for him to see all of the negative feedback the sequels have received.  I don't intend to censure anyone for tone, but I thought seeing my paragraph here might make it easier for him not to take things too personally, or feel too bad.
 > 
+> I wish we had spent less time in human PoVs (or with humans that better held my interest), but I'm sure it was hard to believably write the AIs as they increased in power. 
+> 
+> Also, having some small acquaintanceship with the author, I wanted to note the following in case he's reading this: I really enjoyed the first book.  I didn't like the next two as much, but I hope he writes more fiction in the future.  I imagine it's painful for him to see all of the negative feedback the sequels have received.  I don't intend to censure anyone for tone, but I thought seeing my paragraph here might make it easier for him not to take things too personally, or feel too bad.
 
->> **u/Audere_of_the_Grey** [+9]  *Grey Collegium**
+>> **u/Audere_of_the_Grey** [+8]  *Grey Collegium* (4 hours later)
 >> 
 >> I've heard of the theory of Ro as a trick. Here's a relevant comment from the author: 
->> https://www.reddit.com/r/rational/comments/8dpxrb/crystal_eternity_now_available/dxtuxqx/
->> He says it was heavily foreshadowed, but I'm not sure he really knows what foreshadowing is. He seems to have little concept of communication in storytelling.
->> Overall as the story goes on it gets less and less focused and becomes less and less of a story. It's somehow not "tight" at all- there are many elements that could just as well have been removed in editing or simplified, to the betterment of the story's integrity- while simultaneously leaving out crucial information, and leaving many of its most interesting threads unexplored. I also feel that the first book is one of the best I've ever read, though. Dream, Wiki, and Growth remain some of my favorite characters in all fiction.
 >> 
+>> https://www.reddit.com/r/rational/comments/8dpxrb/crystal_eternity_now_available/dxtuxqx/
+>> 
+>> He says it was heavily foreshadowed, but I'm not sure he really knows what foreshadowing is. He seems to have little concept of communication in storytelling.
+>> 
+>> Overall as the story goes on it gets less and less focused and becomes less and less of a story. It's somehow not "tight" at all- there are many elements that could just as well have been removed in editing or simplified, to the betterment of the story's integrity- while simultaneously leaving out crucial information, and leaving many of its most interesting threads unexplored. I also feel that the first book is one of the best I've ever read, though. Dream, Wiki, and Growth remain some of my favorite characters in all fiction.
 
->>> **u/4t0m** [+1]  *Chaos Legion**
+>>> **u/4t0m** [+1]  *Chaos Legion* (6 hours later)
 >>> 
 >>> Hmm, it does look like the author intended Ro to be true in the world of the story.  Thanks for the link.  I may ignore that in my own reading though.
->>> I really like Dream, Growth, and Wiki as well :).
 >>> 
+>>> I really like Dream, Growth, and Wiki as well :).
 
-> **u/istandleet** [+7] *
+> **u/istandleet** [+8]  (5 hours later)
 > 
 > I did like a number of (what seem to be) controversial choices the author made. I liked the dog chapters. I think they played into what the author was trying to go for, these discontinuities in consciousness different levels of intelligence allow. The discontinuity between dogs, humans, Face, and Growth.
-> But yeah, Ro was annoying. That bit where Vision flips a coin, promising to eliminate all humanity if it comes up heads or tails, so it lands on its side, which is labeled "deus ex machina"? Such an odd decision. 
-> I'll admit I am not sure how you could have landed the series without just killing everyone but Growth or Vision, and I'm not sure I wouldve been more satisfied by that. However, the surprisingly OP Growth was perfectly in line with the author's motif, if I am reading these books correctly, so I probably would've been fine with it.
-> Anyways, I am happy to have paid Max Harms. He earned my money and more. I know that he has received criticism directly, and I hope he knows how good of a series he has written.
 > 
+> But yeah, Ro was annoying. That bit where Vision flips a coin, promising to eliminate all humanity if it comes up heads or tails, so it lands on its side, which is labeled "deus ex machina"? Such an odd decision. 
+> 
+> I'll admit I am not sure how you could have landed the series without just killing everyone but Growth or Vision, and I'm not sure I wouldve been more satisfied by that. However, the surprisingly OP Growth was perfectly in line with the author's motif, if I am reading these books correctly, so I probably would've been fine with it.
+> 
+> Anyways, I am happy to have paid Max Harms. He earned my money and more. I know that he has received criticism directly, and I hope he knows how good of a series he has written.
 
->> **u/ssj890-1** [+1] *
+>> **u/ssj890-1** [+1]  (2 years later)
 >> 
 >> Loved the dog bits too. I thought the dog intelligence would play a role in aligning superhuman AI. The dog was right there with Myrodin the whole time, and he was running out of options and time - would have needed a quick kludge/bootstrap. Was quite off on that one. The author does an amazing job with different intelligences. I hope he writes short stories from the perspective of other AIs or animals or aliens!
->> &#x200B;
->> >But yeah, Ro was annoying. That bit where Vision flips a coin, promising to eliminate all humanity if it comes up heads or tails, so it lands on its side, which is labeled "deus ex machina"? Such an odd decision.
->> Thought that bit was Vision demonstrating Ro - that Vision's 'only a God can make this sort of trustable promise' resolution forced the coin to come up on its side. 
->> Kinda made me think maybe the whole universe was in a simulation, written, with a rule like Ro to make it more interesting. Kinda like something the 'god' in Creator by David Lake would experiment with.
 >> 
+>> &#x200B;
+>> 
+>> >But yeah, Ro was annoying. That bit where Vision flips a coin, promising to eliminate all humanity if it comes up heads or tails, so it lands on its side, which is labeled "deus ex machina"? Such an odd decision.
+>> 
+>> Thought that bit was Vision demonstrating Ro - that Vision's 'only a God can make this sort of trustable promise' resolution forced the coin to come up on its side. 
+>> 
+>> Kinda made me think maybe the whole universe was in a simulation, written, with a rule like Ro to make it more interesting. Kinda like something the 'god' in Creator by David Lake would experiment with.
 
-> **u/Mowtom_** [+5] *
+> **u/Mowtom_** [+5]  (6 hours later)
 > 
 > My confusion is: a mind hack of Ro neatly explains the coin landing on its edge and such without violating the "no miracles" rule.  But the bomb on the nameless ship at the end of book 1 malfunctioning was a miracle that was explained by Ro, and none of the society could possibly have caused that from afar.  How, then, does this not violate "no miracles"?
-> 
 
-> **u/jimmy77james** [+3] *
+> **u/jimmy77james** [+3]  (11 hours later)
 > 
 > The whole Ro concept was very disappointing.
-> My most generous take on it is that Ro is an in-universe explanation/discovery by the super intelligences for the pressure placed on authors to give a story a “happy ending” where not everyone dies. Basically if you were very smart and lived inside a fictional universe, you might be able to deduce some things about it that you wouldn’t if you lived in our universe.
-> Not saying that makes it any good, it’s just the only explanation I could come up with for why the trilogy took that turn
 > 
+> My most generous take on it is that Ro is an in-universe explanation/discovery by the super intelligences for the pressure placed on authors to give a story a “happy ending” where not everyone dies. Basically if you were very smart and lived inside a fictional universe, you might be able to deduce some things about it that you wouldn’t if you lived in our universe.
+> 
+> Not saying that makes it any good, it’s just the only explanation I could come up with for why the trilogy took that turn
 
-> **u/ninjagamerx** [+1] *
+> **u/ninjagamerx** [+1]  (3 years later)
 > 
 > I personally loved the concepts and ideas of the later books. I also suspect they could’ve been executed better or placed in another and more complimentary piece of media.
-> 
 
-> **u/CenterOfMultiverse** [+1] *
+> **u/CenterOfMultiverse** [+1]  (2 days later)
 > 
 > It probably doesn't fit somewhere but I thought that Ro was a safeguard by aliens' AI: AI prevented bomb from exploding and Ro affects only Vision and Face because they run on aliens' hardware.
-> 
 
->> **u/stbrody** [+1] *
+>> **u/stbrody** [+1]  (2 years later)
 >> 
 >> This was also my interpretation
->> 
 
-> **u/entorb** [+1] *
+> **u/entorb** [+1]  (1 year, 5 days later)
 > 
 > I loved book 1 and also enjoyed the many unexpected turns in book 2 and 3. Would have preferred if the AI society continued to work together instead of fighting each other.
-> 
 
 ---
 

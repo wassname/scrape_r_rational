@@ -2,7 +2,7 @@
 
 * Author: u/OmeletteGenerator *
 * URL: https://www.reddit.com/r/rational/comments/hzs5m5/rtff_worth_the_candle_ch_666_hells/
-* Score: 25
+* Score: 28
 
 * Created: 2020-07-29T02:13:01
 
@@ -46,87 +46,79 @@ Right, that. Fun times ahead.
 
 ### Comments:
 
-> **u/ashinator92** [+4] *
+> **u/ashinator92** [+4]  (3 hours later)
 > 
 > I'm having trouble comprehending the last two sentences
-> 
 
->> **u/Beardus_Maximus** [+5] *
+>> **u/Beardus_Maximus** [+6]  (7 hours later)
 >> 
 >> Everything below the break is cut and paste from an earlier chapter, in which the DM >!pulls Juniper out of his English class and interviews him to get consent for throwing him into Aerb. The DM erases the memory of the consent-granting interview so that Joon can figure out Aerb on his own, but then replays the memory for him during the second Joon-DM interview!<
->> 
 
->>> **u/vimefer** [+7] *
+>>> **u/vimefer** [+9]  (9 hours later)
 >>> 
 >>> I'm convinced >!the DM did not actually pull Juniper from the class, I think instead, the cutoff happened later (possibly MUCH later) and Joon's memory was simply rolled back to that innocuous instant because of how significant, spoilerific and possibly traumatic the rest of what truly happened after that class was. Or because it exposes important truths about the nature of Aerb and Earth. IMO some of that left-out bit was even part of the prior staging done with the DM.!<
->>> 
 
->>>> **u/OmeletteGenerator** [+4] *
+>>>> **u/OmeletteGenerator** [+3]  (10 hours later)
 >>>> 
 >>>> Are you going for >!suicide!< or >!AI takeover!<?
->>>> 
 
->>>>> **u/vimefer** [+11] *
+>>>>> **u/vimefer** [+11]  (11 hours later)
 >>>>> 
 >>>>> Neither, I think it's one of two other possibilities: a case of >!existence, including ours, was a simulation all along with each universe serving as a breeding ground of sorts for generating narratives for more existences!< ; or a case of >!singularity happening later in Joon's life and enabling him to confront his lifelong regrets about Arthur, Tiff, etc. in a setting of his choice (a sensible, revised with hindsight, version of Aerb)!<.
->>>>> 
 
->>>>>> **u/OmeletteGenerator** [+6] *
+>>>>>> **u/OmeletteGenerator** [+5]  (a day later)
 >>>>>> 
 >>>>>> Your second point is what I meant with my second point.
->>>>>> 
 
->>>>>>> **u/vimefer** [+2] *
+>>>>>>> **u/vimefer** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Ah, thanks for clarifying - the wording seemed a bit too adversarial, and my second scenario I take more as a societal evolution, not something dropped on mankind from top-down.
->>>>>>> 
 
->>>>> **u/GreenSatyr** [+1] *
+>>>>> **u/GreenSatyr** [+1]  (a day later)
 >>>>> 
 >>>>> Por que no los dos? I'm partial to the "somehow, this elaborate ruse was calculated to be the best way to wake Joon up from cryostasis and introduce him to the new world" theory.
->>>>> 
 
->>> **u/OmeletteGenerator** [+1] *
+>>> **u/OmeletteGenerator** [+1]  (9 hours later)
 >>> 
 >>> That's the answer, with the detail that I filled in the blanks. Source chapter is 79 https://archiveofourown.org/works/11478249/chapters/31629219#workskin
->>> 
 
-> **u/Fredlage** [+3] *
+> **u/Fredlage** [+5]  (a day later)
 > 
 > I’d hardly consider being fully aware of the stakes him going to a super special inescapable hell that didn’t even exist before, especially when there had never been any indication that new hells could even come into existence. 
-> Even the game being over is stretching it, because the tooltip on the Helldiver mode specifically said it superseded the “Character Death Is Permanent” rule, which implies there is in fact some way to escape the hells and revive, at least for him.
 > 
+> Even the game being over is stretching it, because the tooltip on the Helldiver mode specifically said it superseded the “Character Death Is Permanent” rule, which implies there is in fact some way to escape the hells and revive, at least for him.
 
->> **u/OmeletteGenerator** [+2] *
+>> **u/OmeletteGenerator** [+2]  (a day later)
 >> 
 >> I concede that I may have pushed it a bit far with the special hell, but this is special circumstances too: demons dying is a big deal, and a lot of demons have been dying. Perhaps I should have said "the worst one, with special attention."
->> > the Helldiver mode specifically said it superseded the “Character Death Is Permanent”
->> On your death, would you rather cease to be or go to hell? If you chose the latter, check the box. I don't see how this promises for more. Had he had allies out to help him, he may have had some hopes. But this was Total Party Kill.
 >> 
+>> > the Helldiver mode specifically said it superseded the “Character Death Is Permanent”
+>> 
+>> On your death, would you rather cease to be or go to hell? If you chose the latter, check the box. I don't see how this promises for more. Had he had allies out to help him, he may have had some hopes. But this was Total Party Kill.
 
-> **u/C_Densem** [+2]  *LessWrong (than usual)**
+> **u/C_Densem** [+2]  *LessWrong (than usual)* (13 hours later)
 > 
 > I still think I'm missing something. Is the implication that June-Earth is one of the hells?
-> 
 
->> **u/OmeletteGenerator** [+7] *
+>> **u/OmeletteGenerator** [+6]  (15 hours later)
 >> 
 >> I'm sorry for the confusion, I'm very new at this (that's the most "literary" thing I've written in 20 years).
->> > Is the implication that June-Earth is one of the hells?
->> No, that was not my intention. The last four lines (after the break) are supposed to be stuff that Joon just remembers: the DM provides him the uncensored version of what he got in Chapter 79.
->> The intended meaning is that Joon is going to an hell that is worst than every previously-existing others, that there is no way out, and that he knowingly consented to all of this (even on an opt-in basis).
 >> 
+>> > Is the implication that June-Earth is one of the hells?
+>> 
+>> No, that was not my intention. The last four lines (after the break) are supposed to be stuff that Joon just remembers: the DM provides him the uncensored version of what he got in Chapter 79.
+>> 
+>> The intended meaning is that Joon is going to an hell that is worst than every previously-existing others, that there is no way out, and that he knowingly consented to all of this (even on an opt-in basis).
 
-> **u/LupoCani** [+1] *
+> **u/LupoCani** [+1]  (2 days later)
 > 
 > > “Kind of,” he answered. “When they'll realize that Null Pointer Exception is forever out of their reach, they'll create a special new one for you.”
-> But, a total party kill means they did get Valencia, right? This was all they ever wanted.
 > 
+> But, a total party kill means they did get Valencia, right? This was all they ever wanted.
 
->> **u/OmeletteGenerator** [+1] *
+>> **u/OmeletteGenerator** [+1]  (2 days later)
 >> 
 >> She died but, having no soul, she can't go to hells.
->> 
 
 ---
 

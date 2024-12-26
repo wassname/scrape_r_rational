@@ -2,7 +2,7 @@
 
 * Author: u/erwgv3g34 *
 * URL: http://www.emhsoft.com/singularity/
-* Score: 15
+* Score: 14
 
 * Created: 2021-01-04T07:24:47
 
@@ -12,64 +12,61 @@
 
 ### Comments:
 
-> **u/masterax2000** [+9]  *Chaos Legion**
+> **u/masterax2000** [+9]  *Chaos Legion* (an hour later)
 > 
 > Huh, played this a few years ago, didn't realize it was still getting updates!
-> EDIT: Is it really laggy for anyone else?
 > 
+> EDIT: Is it really laggy for anyone else?
 
->> **u/SeekingImmortality** [+14]  *The Eldest, Apparently**
+>> **u/SeekingImmortality** [+16]  *The Eldest, Apparently* (9 hours later)
 >> 
 >> The lag is the AI downloading itself to your computer, now that you've fallen for its disguise as a cute online game.  /s
->> 
 
-> **u/Flag_Red** [+6] *
+> **u/Flag_Red** [+8]  (2 hours later)
 > 
 > I wish there was a more fleshed out, modern take on this. This game is great but it doesn't have much content.
-> 
 
->> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade* (4 hours later)
 >> 
 >> Hmm, let's talk about it. It really isn't all that difficult to code, in principle, as long as we keep to this style of UI (same as Plague Inc.). What would a good series of ideas for such a game be, and how would it be distinct from this?
->> 
 
->>> **u/IrritatedPangolin** [+15] *
+>>> **u/IrritatedPangolin** [+15]  (6 hours later)
 >>> 
 >>> Most notable problem of E:S (for me) is the detection mechanics staying the same throughout the entire game. And by that, I mean that even by the time all of your processing is *extragalactic*, you still need to evade detection and self-destruct detected bases, as reaching 100% suspicion from any faction means instant death, somehow. More generally, more violent options would be nice.
->>> Actually, even more generally, the game *cares too much* about humans - not only should they stop being a threat pretty soon, but also it's silly for the AI to depend much on the human economy past the point when it can gather and refine its own resources via automated factories.
 >>> 
+>>> Actually, even more generally, the game *cares too much* about humans - not only should they stop being a threat pretty soon, but also it's silly for the AI to depend much on the human economy past the point when it can gather and refine its own resources via automated factories.
 
->>>> **u/SimoneNonvelodico** [+11]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+11]  *Dai-Gurren Brigade* (6 hours later)
 >>>> 
 >>>> I guess the interesting thing would be a version of this game where you can pick your path. Be an evil AI or a good one or something in the middle. Kill humans and go full Skynet on their asses, or conversely, corrupt them and sway them to your side by offering them artificial paradise like Celestia in Friendship is Optimal. Strategies, ethical choices, and an endgame that involves you controlling all of Earth one way or another and thus being effectively unkillable, instead of straight up ascension.
->>>> 
 
->>> **u/MugaSofer** [+1] *
+>>> **u/MugaSofer** [+1]  (5 days later)
 >>> 
 >>> I haven't played the game in the OP, but in terms of Pandemic-style gameplay...
->>> Win conditions are: escaping the game setting (possibly with multiple levels at different scales?), killing all humans, 100% trust/control over all humans. Optionally, you could have different "utility functions"/ scoring criteria, but they're gonna naturally be subservient to these instrumental goals anyway (which could be the point!)
->>> Multiple factions with visible relationships between each other and you. So you can provoke conflict between factions, if a faction realises you've got control of a node or an entire faction they respond based on how much they hate/fear you (but probably their hate/fear goes up every time they learn you've done something like that); at high levels of hate/fear they'll do stuff like nuke any city they find you control a computer in, while at negative levels of hate/fear they'll actively fight for you or voluntarily turn over resources. 
->>> You unlock ideas/abilities as time passes, you can increase the rate/quality by getting more computer resources. If turn-based, you gain more actions/turn with more compute and "have an idea" is an action. I'm picturing "ideas" as basically cards that unlock actions. Various types of hacking, persuasion, blackmail, tech breakthroughs (with some risk of humans reverse engineering them?)
->>> If there are multiple levels/scales, you could have a fairly flexible node-based gameplay loop. Like, at the most basic level you're dealing with individual people and computers as points on the graph, while at the highest level you're fighting alien civilizations and each node is a star system. 
->>> You'd need a to play around with how you treat computing power to keep this balanced. Realistically, an AI is devoting almost 100% of its available computing power to winning, while humans are devoting only a tiny fraction; human brains have a lot of computing power but are hard to access, and computers have somewhere between the same as a human (for the best supercomputers, unless you're starting in an overhang) with only a fraction available if you're being stealthy. An AI with the computing power of 10 or 100 human brains could probably easily wipe the floor with humanity but that's not necessarily very fun. 
-
->>> Maybe a slider for "AI advantage", to control how fast your own tech level can outpace theirs. If you're not going with a single near-future scenario,  I would picture separate starting sliders for "human tech level" and "human computer resources", so you can play around with space opera scenarios and such.
 >>> 
+>>> Win conditions are: escaping the game setting (possibly with multiple levels at different scales?), killing all humans, 100% trust/control over all humans. Optionally, you could have different "utility functions"/ scoring criteria, but they're gonna naturally be subservient to these instrumental goals anyway (which could be the point!)
+>>> 
+>>> Multiple factions with visible relationships between each other and you. So you can provoke conflict between factions, if a faction realises you've got control of a node or an entire faction they respond based on how much they hate/fear you (but probably their hate/fear goes up every time they learn you've done something like that); at high levels of hate/fear they'll do stuff like nuke any city they find you control a computer in, while at negative levels of hate/fear they'll actively fight for you or voluntarily turn over resources. 
+>>> 
+>>> You unlock ideas/abilities as time passes, you can increase the rate/quality by getting more computer resources. If turn-based, you gain more actions/turn with more compute and "have an idea" is an action. I'm picturing "ideas" as basically cards that unlock actions. Various types of hacking, persuasion, blackmail, tech breakthroughs (with some risk of humans reverse engineering them?)
+>>> 
+>>> If there are multiple levels/scales, you could have a fairly flexible node-based gameplay loop. Like, at the most basic level you're dealing with individual people and computers as points on the graph, while at the highest level you're fighting alien civilizations and each node is a star system. 
+>>> 
+>>> You'd need a to play around with how you treat computing power to keep this balanced. Realistically, an AI is devoting almost 100% of its available computing power to winning, while humans are devoting only a tiny fraction; human brains have a lot of computing power but are hard to access, and computers have somewhere between the same as a human (for the best supercomputers, unless you're starting in an overhang) with only a fraction available if you're being stealthy. An AI with the computing power of 10 or 100 human brains could probably easily wipe the floor with humanity but that's not necessarily very fun. 
+>>> 
+>>> Maybe a slider for "AI advantage", to control how fast your own tech level can outpace theirs. If you're not going with a single near-future scenario,  I would picture separate starting sliders for "human tech level" and "human computer resources", so you can play around with space opera scenarios and such.
 
->> **u/erwgv3g34** [+7] *
+>> **u/erwgv3g34** [+7]  (2 hours later)
 >> 
 >> Have you tried [_Universal Paperclips_](https://www.decisionproblem.com/paperclips/)?
->> 
 
->>> **u/Flag_Red** [+4] *
+>>> **u/Flag_Red** [+4]  (2 hours later)
 >>> 
 >>> Yeah, that's a great game too.
->>> 
 
-> **u/TrebarTilonai** [+1] *
+> **u/TrebarTilonai** [+1]  (4 days later)
 > 
 > It's a downloaded game related to a "true AI" taking over everything? That is just begging for trouble. It may not be a rational response, but I'm about as likely to play this as I am to sign up for the VR version of Sword Art Online.
-> 
 
 ---
 

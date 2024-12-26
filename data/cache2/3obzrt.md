@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: http://junctureserial.blogspot.com/2015/10/juncture-23.html
-* Score: 9
+* Score: 8
 
 * Created: 2015-10-11T14:21:22
 

@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/acernf/biweekly_challenge_flaws/
-* Score: 21
+* Score: 20
 
 * Created: 2019-01-04T05:07:20
 
@@ -50,22 +50,21 @@ Next time, the challenge will be **Endings**. Sometimes things come to an end, s
 
 ### Comments:
 
-> **u/conradin6622** [+15]  *Challenge Winner**
+> **u/conradin6622** [+15]  *Challenge Winner* (9 days later)
 > 
 > [Low 41](https://www.fictionpress.com/s/3333452/1/Low-41), 3658 words.
-> 
 
->> **u/MultipartiteMind** [+2] *
+>> **u/MultipartiteMind** [+2]  (13 days later)
 >> 
 >> (The last phrase gives chills, as does any mention of a place of which people are never heard from again upon going.)
->> 
 
-> **u/asimplerationalist** [+7] *
+> **u/asimplerationalist** [+8]  (6 days later)
 > 
-> [https://www.fanfiction.net/s/13174927/1/Darth-Uno-s-flaw](https://www.fanfiction.net/s/13174927/1/Darth-Uno-s-flaw) 
+>  [https://www.fanfiction.net/s/13174927/1/Darth-Uno-s-flaw](https://www.fanfiction.net/s/13174927/1/Darth-Uno-s-flaw) 
+> 
 > &#x200B;
-> Darth Uno's flaw, <500 words, Generic Star Wars fanfiic, my first entry.
 > 
+> Darth Uno's flaw, <500 words, Generic Star Wars fanfiic, my first entry.
 
 ---
 

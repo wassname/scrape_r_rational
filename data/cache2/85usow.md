@@ -2,7 +2,7 @@
 
 * Author: u/Escapement  *Ankh-Morpork City Watch**
 * URL: https://www.reddit.com/r/rational/comments/85usow/too_like_the_lightning_by_ada_palmer_available/
-* Score: 32
+* Score: 31
 
 * Created: 2018-03-20T17:55:11
 
@@ -18,48 +18,43 @@ I paid full price for Too Like The Lightning and enjoyed it immensely; getting i
 
 ### Comments:
 
-> **u/Charlie___** [+23] *
+> **u/Charlie___** [+23]  (2 hours later)
 > 
 > Hoo boy. It's definitely a book. If we call it "social fiction" in analogy with "science fiction," then the corresponding piece of science fiction would be one of those books where a mad scientist makes a bunch of miraculous inventions that all have cool sound effects and flashing lights. You don't read that book to worry about how exactly the lightning cannon stores and shoots lightning. You read the book because you think the lightning cannon sounds cool.
-> This is how it is for the future social games described lovingly and at great length in the book. When the narrator spends five pages talking alternately about gender and about how in the future it's transgressive to talk about gender, you've gotta be on board with thinking those pages are interesting, because if it doesn't have that mad-science appeal to you, the book is probably not for you.
 > 
+> This is how it is for the future social games described lovingly and at great length in the book. When the narrator spends five pages talking alternately about gender and about how in the future it's transgressive to talk about gender, you've gotta be on board with thinking those pages are interesting, because if it doesn't have that mad-science appeal to you, the book is probably not for you.
 
->> **u/RynnisOne** [+5] *
+>> **u/RynnisOne** [+7]  (2 hours later)
 >> 
 >> Not for me then.  Thanks for the heads up!
->> 
 
->>> **u/Charlie___** [+5] *
+>>> **u/Charlie___** [+6]  (3 hours later)
 >>> 
 >>> I mean, take my impression with a grain of salt, especially the specific example I gave. People with different opinions might give different "tests" for whether you'd like the book.
->>> 
 
->> **u/elevul** [+3]  *Cyoria Observer**
+>> **u/elevul** [+3]  *Cyoria Observer* (3 hours later)
 >> 
 >> Thank you, it's definitely a pass then
->> 
 
-> **u/4t0m** [+8]  *Chaos Legion**
+> **u/4t0m** [+8]  *Chaos Legion* (a day later)
 > 
 > I don't have time to give a more thorough recommendation, but this is one of my (15) favorite books.  In many ways it isn't very rationalist, but I expect rationalists to like it, especially if they have a fondness for more literary-style works and appreciate beauty in prose.  
-> Beyond that, the series includes an interesting and complex utopia, some thoughtful philosophy, and an inspiring representation of transhumanist ideals that I haven't found anywhere else (except for HPMOR, of course).
-> I want to sort of counter u/Charlie___'s point.  I don't think I would read the book if my only exposure was that comment and the impression that some people like the book a lot, and yet I've read the book a bunch of times and consider it a favorite.  If I get a chance I'll come back and say more about why.
 > 
+> Beyond that, the series includes an interesting and complex utopia, some thoughtful philosophy, and an inspiring representation of transhumanist ideals that I haven't found anywhere else (except for HPMOR, of course).
+> 
+> I want to sort of counter u/Charlie___'s point.  I don't think I would read the book if my only exposure was that comment and the impression that some people like the book a lot, and yet I've read the book a bunch of times and consider it a favorite.  If I get a chance I'll come back and say more about why.
 
-> **u/WalterTFD** [+3] *
+> **u/WalterTFD** [+3]  (43 minutes later)
 > 
 > Very good book.  Worth reading.
-> 
 
-> **u/Newfur** [+3]  *Crazy like a fox. Literally.**
+> **u/Newfur** [+3]  *Crazy like a fox. Literally.* (3 hours later)
 > 
 > I wanted to like Too Like the Lightning so badly, but I couldn't shake the feeling that I'd come in on the second book in a series, and there was a lot of sophistry. Worth reading, though.
-> 
 
-> **u/infomaton** [+2] *
+> **u/infomaton** [+2]  (3 minutes later)
 > 
 > Thanks!
-> 
 
 ---
 

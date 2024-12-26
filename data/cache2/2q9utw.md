@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 22
+* Score: 20
 
 * Created: 2014-12-24T12:26:37
 
@@ -12,114 +12,113 @@
 
 ### Comments:
 
-> **u/ajuc** [+5] *
+> **u/ajuc** [+5]  (47 minutes later)
 > 
 > Avada Kedavra is a great equaliser. Unblockable, easy to cast, not getting any better no matter if you're level 10 or 1000.
-> There are at least 2 people capable of casting Avada Kedavra at Tom, both of them are telepathicaly commanded by Harry and unable to disobey him.
-> Why are they even talking with Tom?
 > 
+> There are at least 2 people capable of casting Avada Kedavra at Tom, both of them are telepathicaly commanded by Harry and unable to disobey him.
+> 
+> Why are they even talking with Tom?
 
->> **u/eaglejarl** [+6] *
+>> **u/eaglejarl** [+5]  (7 hours later)
 >> 
 >> Thinking about AK made me remember something.  In HPMOR ch86, Moody says:
->> >The first is that the Killing Curse strikes directly at the soul, and it'll just keep going until it hits one. Straight through shields. Straight through walls. 
->> As I recall, in canon the curse is stopped by inanimate objects (such as walls).  For example, the centaur statue that Dumbledore used to block Voldemort's curse in the Ministry battle.  Did EY get it wrong / change it for his AU, or is there something that I've forgotten about the books?
 >> 
+>> >The first is that the Killing Curse strikes directly at the soul, and it'll just keep going until it hits one. Straight through shields. Straight through walls. 
+>> 
+>> As I recall, in canon the curse is stopped by inanimate objects (such as walls).  For example, the centaur statue that Dumbledore used to block Voldemort's curse in the Ministry battle.  Did EY get it wrong / change it for his AU, or is there something that I've forgotten about the books?
 
->>> **u/Zephyr1011** [+6]  *Potentially Unfriendly Aspiring Divinity**
+>>> **u/Zephyr1011** [+5]  *Potentially Unfriendly Aspiring Divinity* (8 hours later)
 >>> 
 >>> Pretty sure it does get blocked several times in canon by random objects. Presumably, EY changed it to remove the obvious block of "Conjure random inanimate object", as that makes calling it an unblockable curse far less impressive
->>> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (18 hours later)
 >>> 
 >>> I think that EY changed it with intent, but I can't be sure - there was a good stretch of time when he hadn't read all the books, and it might be that he misread the wiki.
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (an hour later)
 >> 
 >> >Why are they even talking with Tom?
->> You could call that a plot hole.  Or the author can write in the next chapter that Tom has traps or dead-man switches on his person set to cause quite a lot of damage in the case that he dies.
->> EDIT: I mean, *I* would go in there with a dead-man's switch.  It's just obvious.
 >> 
+>> You could call that a plot hole.  Or the author can write in the next chapter that Tom has traps or dead-man switches on his person set to cause quite a lot of damage in the case that he dies.
+>> 
+>> EDIT: I mean, *I* would go in there with a dead-man's switch.  It's just obvious.
 
->>> **u/rtkwe** [+2] *
+>>> **u/rtkwe** [+2]  (3 days later)
 >>> 
 >>> Can Dumbledore actually cast AK? I think I remember it being said somewhere that he isn't able to, if that's right then there's only the 2 adults capable and Lucius can be influenced by Tom as we see in Negotiations 3. Also Tom's proven to be an accomplished duelist so having him dodge is in no way a stretch.
->>> Hmm on the note of interesting ways to counter AK, would transfiguring an object into an animal, say a brick into a cloud of gnats would they block AK?
 >>> 
+>>> Hmm on the note of interesting ways to counter AK, would transfiguring an object into an animal, say a brick into a cloud of gnats would they block AK?
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (3 days later)
 >>>> 
 >>>> > Hmm on the note of interesting ways to counter AK, would transfiguring an object into an animal, say a brick into a cloud of gnats would they block AK?
->>>> Gnats probably don't have souls.
 >>>> 
+>>>> Gnats probably don't have souls.
 
->>>>> **u/rtkwe** [+2] *
+>>>>> **u/rtkwe** [+2]  (3 days later)
 >>>>> 
 >>>>> Except we see in the Rowling books that AK works on an insect of some description when 'Mad Eye Moody' is the defense teacher. It's also used on various other animals in the series including a fox and an owl.
->>>>> This could come down to the MoR changes to magic. There's not really a mention of what AK does in ToS other than killing without leaving a mark.
 >>>>> 
+>>>>> This could come down to the MoR changes to magic. There's not really a mention of what AK does in ToS other than killing without leaving a mark.
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+3]  (7 hours later)
 > 
 > Minor typo:  I think "dunked" should be "dumped".
-
-> Fun chapter -- Harry comes up with very sensible proposals and knows how to present them:  "I surrender.  Here's a list of suggestions on ways to keep my surrender from collapsing your economy and ruining your country.  Just suggestions, mind you -- I'm happy to do it however you like.  Still, might be a good idea to take them."
-> I like the fact that you remembered the "sense of doom" thing; I had forgotten about that.  Seems to me that Dumbledore is in over his head on this one; I don't see how he can stand up to Quirriddlemort and simultaneously protect everyone else.  
-> Also, what was the /Catena Magnus/ spell that Hermione cast?
 > 
+> Fun chapter -- Harry comes up with very sensible proposals and knows how to present them:  "I surrender.  Here's a list of suggestions on ways to keep my surrender from collapsing your economy and ruining your country.  Just suggestions, mind you -- I'm happy to do it however you like.  Still, might be a good idea to take them."
+> 
+> I like the fact that you remembered the "sense of doom" thing; I had forgotten about that.  Seems to me that Dumbledore is in over his head on this one; I don't see how he can stand up to Quirriddlemort and simultaneously protect everyone else.  
+> 
+> Also, what was the /Catena Magnus/ spell that Hermione cast?
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+3]  (9 hours later)
 >> 
 >> I would guess it's the spell that draws lines between a number of targets that makes the phoenix target all.
->> 
 
->>> **u/Muskwalker** [+1] *
+>>> **u/Muskwalker** [+1]  (19 hours later)
 >>> 
 >>> That was my guess too, given the intent of the Latin ("Great Chain").
->>> 
 
-> **u/sephlington** [+3] *
+> **u/sephlington** [+3]  (2 hours later)
 > 
 > Real quick note: there is no Queen Elisabeth, we only have an Elizabeth. If it's changed quickly, I can only hope the Beefeaters will not hunt the author down for treason.
-> 
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (6 hours later)
 >> 
 >> There was also mention of a written constitution.
->> 
 
->>> **u/eaglejarl** [+3] *
+>>> **u/eaglejarl** [+3]  (7 hours later)
 >>> 
 >>> > There was also mention of a written constitution. 
->>> [http://en.wikipedia.org/wiki/Constitution_of_the_United_Kingdom](http://en.wikipedia.org/wiki/Constitution_of_the_United_Kingdom)
->>> The word 'written' isn't actually used, so I assume she's referring to the above.
 >>> 
+>>> [http://en.wikipedia.org/wiki/Constitution_of_the_United_Kingdom](http://en.wikipedia.org/wiki/Constitution_of_the_United_Kingdom)
+>>> 
+>>> The word 'written' isn't actually used, so I assume she's referring to the above.
 
->>>> **u/RMcD94** [+1] *
+>>>> **u/RMcD94** [+1]  (7 hours later)
 >>>> 
 >>>> Hard for me to imagine any Brit referring to a constitution in that context, laws would seem more appropriate. 
->>>> Must've remembered it wrong
->>>> Also I believe the author is female.
 >>>> 
+>>>> Must've remembered it wrong
+>>>> 
+>>>> Also I believe the author is female.
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (7 hours later)
 >>>>> 
 >>>>> > Also I believe the author is female.
->>>>> Fixed, thanks.
 >>>>> 
+>>>>> Fixed, thanks.
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (3 hours later)
 > 
 > So how did people feel about Harry's speech?
-> I wasn't too happy with it myself, some of the things he was saying and how he was saying them didn't fit too well.
 > 
+> I wasn't too happy with it myself, some of the things he was saying and how he was saying them didn't fit too well.
 
-> **u/JackStargazer** [+1]  *Primordial Apologist**
+> **u/JackStargazer** [+1]  *Primordial Apologist* (a day later)
 > 
 > My Chekov senses are screaming bloody murder at the Queen's amulet.
-> 
 
 ---
 

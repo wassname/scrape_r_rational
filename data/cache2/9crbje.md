@@ -14,34 +14,33 @@ I was reading the newest chapter and got to the part where Zorian tells Kael and
 
 ### Comments:
 
-> **u/sicutumbo** [+7] *
+> **u/sicutumbo** [+7]  (7 minutes later)
 > 
 > If they get all the Keys to unbar the Gate, they can have the guardian place their souls into the real world. Not at the end of the time loop, but whenever they choose within it. So all the people who got marked would be able to have their souls put into the real world. Zorian discussed how for most people, this wouldn't end up doing any good.
-> For physically walking out, they would open a gateway between the time loop dimension and the real world. Since the time loop isn't a simulation, but an actual world created inside a living universe, they would simply walk out into the real world and be fine because they are ordinary physical beings. It **would** be the current people who exit.
-> I wonder if the additional connection to the real world would destroy the time acceleration effect. They mention a number of times how the only reason it can be accelerated so fast is that the pocket dimension is only connected to the real world at a single point. Opening up another connection, a far larger one, would change that and potentially cause havoc for a short while.
 > 
+> For physically walking out, they would open a gateway between the time loop dimension and the real world. Since the time loop isn't a simulation, but an actual world created inside a living universe, they would simply walk out into the real world and be fine because they are ordinary physical beings. It **would** be the current people who exit.
+> 
+> I wonder if the additional connection to the real world would destroy the time acceleration effect. They mention a number of times how the only reason it can be accelerated so fast is that the pocket dimension is only connected to the real world at a single point. Opening up another connection, a far larger one, would change that and potentially cause havoc for a short while.
 
->> **u/generalamitt** [+1] *
+>> **u/generalamitt** [+1]  (35 minutes later)
 >> 
 >> But both the solutions you suggested wouldn't be relevant for the current loop, at the end of this month all the copies die, so why did Zorian suggested it as a solution?
->> 
 
->>> **u/sicutumbo** [+7] *
+>>> **u/sicutumbo** [+7]  (50 minutes later)
 >>> 
 >>> Because they're trying to implement one of those solutions before the loop restarts. At the end of the most recent chapter, Zach said to unbar the gate. Had the intervention not happened, they probably would have asked about any additional privileges they now have, and then work out if those additional privileges would allow them to transport all the marked people to the real world.
->>> Similarly for the physical exit plan, they will do it before the current restart ends.
->>> Where did you get the idea that they weren't doing it in the current loop? Zorian said that they were willing to leave the loop early, and that they wanted to do it now because if they didn't, they would have to wait more than 6 months before they could get the help they currently have from the people they recruited.
 >>> 
+>>> Similarly for the physical exit plan, they will do it before the current restart ends.
+>>> 
+>>> Where did you get the idea that they weren't doing it in the current loop? Zorian said that they were willing to leave the loop early, and that they wanted to do it now because if they didn't, they would have to wait more than 6 months before they could get the help they currently have from the people they recruited.
 
->> **u/sparr** [+1] *
+>> **u/sparr** [+1]  (a day later)
 >> 
 >> Why wouldn't there be two copies of everyone in the "walk out into the real world" scenario?
->> 
 
->>> **u/sicutumbo** [+2] *
+>>> **u/sicutumbo** [+2]  (a day later)
 >>> 
 >>> Do I imply otherwise? There would definitely be multiple copies.
->>> 
 
 ---
 

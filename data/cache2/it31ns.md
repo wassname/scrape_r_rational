@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 42
+* Score: 38
 
 * Created: 2020-09-15T06:05:53
 
@@ -12,357 +12,352 @@
 
 ### Comments:
 
-> **u/vimefer** [+29] *
+> **u/vimefer** [+31]  (3 hours later)
 > 
 > Bless my innocent mind, I thought the 'lucky' part was about their having started having sex at all ; and that the 'four of us together' meant Joon, Mary, Grak and Solace.
-> 
 
->> **u/Luminous_Lead** [+13] *
+>> **u/Luminous_Lead** [+11]  (15 hours later)
 >> 
 >> I missed that "two clones on a ship with us" line the first few times I read it, but I still think your initial reasoning is sound, especially since Mary always refers to the clones as "me", and doesn't treat them like they're a separate person.
->> 
 
->>> **u/WhispersOfSeaSpiders** [+6] *
+>>> **u/WhispersOfSeaSpiders** [+5]  (21 hours later)
 >>> 
 >>> Err, 'four of us together' can definitely be parsed as the Marys (?) and Juniper.
->>> Me and Juniper = us
->>> Me and me and me and Juniper = us
 >>> 
+>>> Me and Juniper = us
+>>> 
+>>> Me and me and me and Juniper = us
 
-> **u/UPBOAT_FORTRESS_2** [+25] *
+> **u/UPBOAT_FORTRESS_2** [+26]  (9 hours later)
 > 
 > I think this is a good opportunity to specifically say "I don't know". It can certainly be parsed as euphemism for sex, or it can just be Mary appreciating platonic relationship time.
+> 
 > Three things point toward the null hypothesis imo --
+> 
 > * (Pri-)Mary likes spending time with Joon, and the other clones have relatively less fun jobs -- and this is why she's so bubbly of late, because she's the locus of "fun" for all 30 of her. Now there are 3x as many Marys in the "fun" role
 > * Joon makes an incredibly big deal about sex, and he doesn't make another peep about any hypothetical orgies with him involved.
 > * I almost forgot the obvious one - Mary is still ace, yeah?
-> I almost wonder if I'm supposed to parse this as "the DM dropping bait for Joon" -- like, hey buddy, nudge nudge, the newspapers are writing the most *salacious* stories about you and your loving wife who would totally indulge you in anything that would make you happy. Too bad they're just stories, totally unlike this virtual universe that definitely doesn't ever run on anything resembling storybook logic...
-> Then they just play a board game and go to bed
 > 
+> I almost wonder if I'm supposed to parse this as "the DM dropping bait for Joon" -- like, hey buddy, nudge nudge, the newspapers are writing the most *salacious* stories about you and your loving wife who would totally indulge you in anything that would make you happy. Too bad they're just stories, totally unlike this virtual universe that definitely doesn't ever run on anything resembling storybook logic...
+> 
+> Then they just play a board game and go to bed
 
-> **u/dobri111** [+50] *
+> **u/dobri111** [+53]  (an hour later)
 > 
 > It often occurs to me that Joon is way to depressed for this harem story.
-> 
 
->> **u/RMcD94** [+42] *
+>> **u/RMcD94** [+39]  (3 hours later)
 >> 
 >> Girl of his dreams literally made manifest and then cloned and dude complains
->> 
 
->>> **u/Geminii27** [+65] *
+>>> **u/Geminii27** [+64]  (3 hours later)
 >>> 
 >>> "Oh no, here's a girl who seems to have been literally designed specifically to appeal to me as deeply as possible!"
->>> "Oh no, we're in a relationship!"
->>> "Oh no, we're married!" (but it's fake and we acknowledge that and lots of people are trying to get me to have sex with other women)
->>> "Oh no, she's been cloned and we're all having giant orgies and she's 100% OK with that! Woe is me!"
->>> Everyone else ever: DUDE.
 >>> 
+>>> "Oh no, we're in a relationship!"
+>>> 
+>>> "Oh no, we're married!" (but it's fake and we acknowledge that and lots of people are trying to get me to have sex with other women)
+>>> 
+>>> "Oh no, she's been cloned and we're all having giant orgies and she's 100% OK with that! Woe is me!"
+>>> 
+>>> Everyone else ever: DUDE.
 
->>> **u/erwgv3g34** [+57] *
+>>> **u/erwgv3g34** [+61]  (6 hours later)
 >>> 
 >>> https://imgur.com/a/fXF1MxA
->>> 
 
->>>> **u/josephwdye** [+14]  *I love you**
+>>>> **u/josephwdye** [+16]  *I love you* (13 hours later)
 >>>> 
 >>>> Idk I think it’s important that your partner is happy in the relationship, and specially with the romantic/sexual aspects of it.
->>>> 
 
->>>>> **u/sparrafluffs** [+2] *
+>>>>> **u/sparrafluffs** [+2]  (9 days later)
 >>>>> 
 >>>>> Thats why joon is conflicted about sex with his party members who arent fenn
->>>>> 
 
->>>> **u/u_PM_me_nihilism** [+7] *
+>>>> **u/u_PM_me_nihilism** [+9]  (9 hours later)
 >>>> 
 >>>> This is brilliant, who made this
->>>> 
 
->>>>> **u/erwgv3g34** [+13] *
+>>>>> **u/erwgv3g34** [+9]  (13 hours later)
 >>>>> 
 >>>>> [I did.](https://old.reddit.com/r/rational/comments/b1zdxc/rt_worth_the_candle_ch_148154/#eise53c)
->>>>> 
 
->>>>>> **u/cysghost** [+7]  *Chaos Legion**
+>>>>>> **u/cysghost** [+6]  *Chaos Legion* (16 hours later)
 >>>>>> 
 >>>>>> Liar! I made this!
->>>>>> Here's proof: https://imgur.com/gallery/xWVYL
 >>>>>> 
+>>>>>> Here's proof: https://imgur.com/gallery/xWVYL
 
->>>> **u/Argenteus_CG** [+9] *
+>>>> **u/Argenteus_CG** [+7]  (a day later)
 >>>> 
 >>>> That's kinda overlooking the whole "torturing countless people forever" thing, though. Things would admittedly be great for Joon if he was a sociopath, but he's not.
->>>> 
 
->>>> **u/ConscientiousPath** [+6] *
+>>>> **u/ConscientiousPath** [+5]  (21 hours later)
 >>>> 
 >>>> rofl and he doesn't even focus on taking advantage of his class-defining super power by leveling up either. He doesn't even consider that if he were to have a super high level, being OP all the time would be considered normal and would potentially help avoid more exclusions.
->>>> 
 
->>>>> **u/Argenteus_CG** [+13] *
+>>>>> **u/Argenteus_CG** [+10]  (a day later)
 >>>>> 
 >>>>> I think it's a side effect of the way he patched his levelup obsession.
->>>>> 
 
->>>>> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+7]  *My arch-enemy is entropy* (a day later)
 >>>>> 
 >>>>> He set his level up value to be as low as it could possibly get. While he still knows it's important intellectually, he doesn't act as if there's any value to leveling as quickly as possible in an emotional sense. Which fits with how low he set the level up value.
->>>>> 
 
->>> **u/Luminous_Lead** [+18] *
+>>> **u/Luminous_Lead** [+19]  (15 hours later)
 >>> 
 >>> That she's not sexually attracted to him and treats it as manual labour is a key part of his insecurity.
->>> 
 
->>>> **u/dobri111** [+1] *
+>>>> **u/dobri111** [+1]  (a day later)
 >>>> 
 >>>> She is extremely sexually attracted to him. She just has physical block by the DM to not feel sexual pleasure.
->>>> Joon in reality is quite a loser. Without DM boost he would never hook up with girls like these, i think that is his main issue.
 >>>> 
+>>>> Joon in reality is quite a loser. Without DM boost he would never hook up with girls like these, i think that is his main issue.
 
->>>>> **u/Luminous_Lead** [+6] *
+>>>>> **u/Luminous_Lead** [+7]  (a day later)
 >>>>> 
 >>>>> What? I totally must have missed that. Which chapter is that block in?
->>>>> 
 
->>>>>> **u/Kishoto** [+20] *
+>>>>>> **u/Kishoto** [+18]  (a day later)
 >>>>>> 
 >>>>>> I'm pretty sure dobri is off base with his comment; unless I missed something major, Mary has always been depicted as simply asexual. She can take "pleasure" in a sex act that helps fulfill and satisfy a partner in the same way that a person can take "pleasure" in rubbing their partner's feet, or something similar. You don't get off on the feeling of toes in between your hands (fetishists aside, obviously, and that's completely fine) but you do enjoy comforting and helping your partner feel good.
->>>>>> 
 
->>>>>>> **u/CaramilkThief** [+3] *
+>>>>>>> **u/CaramilkThief** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> Wasn't it implied that she felt pleasure a while back when Joon kissed the clone, or did I also read too much into it.
->>>>>>> 
 
->>>>>>> **u/DanPOP123** [+2] *
+>>>>>>> **u/DanPOP123** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> no in [https://www.royalroad.com/fiction/25137/worth-the-candle/chapter/383022/grayscale](https://www.royalroad.com/fiction/25137/worth-the-candle/chapter/383022/grayscale)
->>>>>>>  “It took a deep dive into the social aspect of the soul, but I was eventually able to find the lever for romantic and sexual attraction. All I did was reduce them both down to nothing. I’m fairly sure that it’s confined just to you, and it’s entirely reversible.” She gave me a gentle smile. “Joon, you don’t have any idea how good it feels. It’s like a pressure that’s been lifted off me.” She hesitated slightly. “I know that to some extent you reciprocated. I think I can help show you where to make the change, if you -- if this doesn’t help alleviate things on your end.” 
->>>>>>> so she makes her self asexal to deal with relationship problems that might ocer with fen
 >>>>>>> 
+>>>>>>>  “It took a deep dive into the social aspect of the soul, but I was eventually able to find the lever for romantic and sexual attraction. All I did was reduce them both down to nothing. I’m fairly sure that it’s confined just to you, and it’s entirely reversible.” She gave me a gentle smile. “Joon, you don’t have any idea how good it feels. It’s like a pressure that’s been lifted off me.” She hesitated slightly. “I know that to some extent you reciprocated. I think I can help show you where to make the change, if you -- if this doesn’t help alleviate things on your end.” 
+>>>>>>> 
+>>>>>>> so she makes her self asexal to deal with relationship problems that might ocer with fen
 
->>>>>>>> **u/chillanous** [+1] *
+>>>>>>>> **u/chillanous** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> It's written as a singular lever, though. Not a lever for romantic and a lever for sexual.
->>>>>>>> I read it as, if Mary had feelings of sexual arousal, Joon would cause them. But she doesn't, so even someone she finds romantically attractive doesn't tingle her pringle, so to speak.
 >>>>>>>> 
+>>>>>>>> I read it as, if Mary had feelings of sexual arousal, Joon would cause them. But she doesn't, so even someone she finds romantically attractive doesn't tingle her pringle, so to speak.
 
->>>>>>>>> **u/DanPOP123** [+1] *
+>>>>>>>>> **u/DanPOP123** [+1]  (3 days later)
 >>>>>>>>> 
->>>>>>>>> singular lever
+>>>>>>>>>  singular lever
+>>>>>>>>> 
 >>>>>>>>>  was eventually able to find the lever for romantic and sexual attraction. All I did was reduce them **both down** to nothing 
->>>>>>>>> (so is that two levers and it was a grama mistake or is it one lever and it was a wording mistake)
->>>>>>>>> how I read this is that she used soul magic to turn of sexaul and romatinc atraction. 
->>>>>>>>> and if taking into acount her current actions it is clear that the romantic attraction bit has restored it's self as soul magic is only temporary. 
->>>>>>>>> well her sexual attraction has not been reset whether that is because it never will be or because she has not been in situations that force it to reset I don't know ( I bet it never will be).
 >>>>>>>>> 
+>>>>>>>>> (so is that two levers and it was a grama mistake or is it one lever and it was a wording mistake)
+>>>>>>>>> 
+>>>>>>>>> how I read this is that she used soul magic to turn of sexaul and romatinc atraction. 
+>>>>>>>>> 
+>>>>>>>>> and if taking into acount her current actions it is clear that the romantic attraction bit has restored it's self as soul magic is only temporary. 
+>>>>>>>>> 
+>>>>>>>>> well her sexual attraction has not been reset whether that is because it never will be or because she has not been in situations that force it to reset I don't know ( I bet it never will be).
 
->>>>>>> **u/dobri111** [-1] *
+>>>>>>> **u/dobri111** [-1]  (a day later)
 >>>>>>> 
 >>>>>>> Mary  was built by DM for Joon. Wasn't that confirmed?
->>>>>>> If so her lack of ability to feel pleasure in sexual act was also built in. Is it asexuality? I don't know but i do know that asexuality isnt normal, and usually based on physiology issuses ot mental issues since whole point of existance evolutionary wise is to procreate. Didn't she say multiple times that she is attraced to him?
->>>>>>> If she didn't feel sexual attraction to him, she wouldn't be doing all this stuff.
 >>>>>>> 
+>>>>>>> If so her lack of ability to feel pleasure in sexual act was also built in. Is it asexuality? I don't know but i do know that asexuality isnt normal, and usually based on physiology issuses ot mental issues since whole point of existance evolutionary wise is to procreate. Didn't she say multiple times that she is attraced to him?
+>>>>>>> 
+>>>>>>> If she didn't feel sexual attraction to him, she wouldn't be doing all this stuff.
 
->>>>>>>> **u/Kishoto** [+5] *
+>>>>>>>> **u/Kishoto** [+3]  (2 days later)
 >>>>>>>> 
 >>>>>>>> She was built for him, in the same way that all of Aerb was. That's separate from your comment though, which was wrong in its presentation of Mary's sexuality. 
->>>>>>>> I also think you're vastly oversimplifying sexuality in general.
 >>>>>>>> 
+>>>>>>>> I also think you're vastly oversimplifying sexuality in general.
 
->>>>>>>>> **u/dobri111** [+1] *
+>>>>>>>>> **u/dobri111** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> This isnt the place to disucuss it.
->>>>>>>>> And if she was built, we have to assume her asexuality isnt normal.
->>>>>>>>> I am definitely reading some attraction there.
 >>>>>>>>> 
+>>>>>>>>> And if she was built, we have to assume her asexuality isnt normal.
+>>>>>>>>> 
+>>>>>>>>> I am definitely reading some attraction there.
 
->>>>>>>>>> **u/Kishoto** [+3] *
+>>>>>>>>>> **u/Kishoto** [+3]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> > This isnt the place to disucuss it.
->>>>>>>>>> What do you mean? Why wouldn't this be the place? 
->>>>>>>>>> > And if she was built, we have to assume her asexuality isnt normal.
->>>>>>>>>> Not sure of the exact term but these seems like pretty fallacious logic. Literally everything on Aerb was built by the DM, though he did give certain things more attention than others; that doesn't mean we "have to assume" X thing isn't normal about them. 
->>>>>>>>>> > I am definitely reading some attraction there.
->>>>>>>>>> Yes, Mary does have some amount of attraction to June. It's very possible she is well on her way to being (or maybe even already is) in love with him. But it's been made pretty explicitly clear that she doesn't feel *sexual* attraction to anyone, including June.
 >>>>>>>>>> 
+>>>>>>>>>> What do you mean? Why wouldn't this be the place? 
+>>>>>>>>>> 
+>>>>>>>>>> > And if she was built, we have to assume her asexuality isnt normal.
+>>>>>>>>>> 
+>>>>>>>>>> Not sure of the exact term but these seems like pretty fallacious logic. Literally everything on Aerb was built by the DM, though he did give certain things more attention than others; that doesn't mean we "have to assume" X thing isn't normal about them. 
+>>>>>>>>>> 
+>>>>>>>>>> > I am definitely reading some attraction there.
+>>>>>>>>>> 
+>>>>>>>>>> Yes, Mary does have some amount of attraction to June. It's very possible she is well on her way to being (or maybe even already is) in love with him. But it's been made pretty explicitly clear that she doesn't feel *sexual* attraction to anyone, including June.
 
->>>>>>>>>>> **u/dobri111** [+1] *
+>>>>>>>>>>> **u/dobri111** [+1]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> "have to assume" means it fits narative.
 >>>>>>>>>>> And also, nothing in Aerb is normal. All the species are just slightly different humans. Not to mention that no evolution works like that. So if anything is slightly odd in the main characters we have to assume for both cold logic of manually adding things and narative that it isnt normal.
->>>>>>>>>>> According to Freud all attraction is sexual in nature. We just have a mental block to stop it from being sexual amongs family.
 >>>>>>>>>>> 
+>>>>>>>>>>> According to Freud all attraction is sexual in nature. We just have a mental block to stop it from being sexual amongs family.
 
->>>>>>>>>>>> **u/Kishoto** [+2] *
+>>>>>>>>>>>> **u/Kishoto** [+2]  (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> "According to Freud" isn't exactly a ringing endorsement, considering the way a lot of his work's been debunked/minimized as psychology's evolved as a field. Not to mention, evolution isn't the be-all, end-all of what determines how an individual organism is structured. Defects and inconsistent things happen all the time. For example, there's no biological, evolutionary reason for homosexual attraction to exist but it very clearly does in a decent amount of people.
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/dobri111** [+2] *
+>>>>>>>>>>>>> **u/dobri111** [+2]  (3 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Freud is better then anything you have offered, and you didnt even offer debunking of this perticular thing.
->>>>>>>>>>>>>  Defects and inconsistent are part of evolution. Its literaly how evolution happens.
->>>>>>>>>>>>>  Homosexual attraction is a part of evolution, societal evolution. 
->>>>>>>>>>>>> Asexuality is a evolutionary and biological defect. It has no purpouse in society or biology. Homsexuality is biological evolutionary blind street or "defect" but they serve society evolutionary purpouse so they exist and thrive.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>>  Defects and inconsistent are part of evolution. Its literaly how evolution happens.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>>  Homosexual attraction is a part of evolution, societal evolution. 
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Asexuality is a evolutionary and biological defect. It has no purpouse in society or biology. Homsexuality is biological evolutionary blind street or "defect" but they serve society evolutionary purpouse so they exist and thrive.
 
->>>>>>>>>>>>>> **u/burnerpower** [+4] *
+>>>>>>>>>>>>>> **u/burnerpower** [+4]  (3 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> Freud has been so widely debunked and criticized that using him as support for your argument wraps around and becomes support against it. If Freud agrees with you, you are doing something wrong. Use a better source if you want to make these bold claims.
->>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>> **u/dobri111** [+2] *
+>>>>>>>>>>>>>>> **u/dobri111** [+2]  (3 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> None of what you said is true. Nor was my Freud argument big part of my overal argument. But as long you can type stuff to make yourself feel superior go ahead...
->>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>> **u/burnerpower** [+2] *
+>>>>>>>>>>>>>>>> **u/burnerpower** [+2]  (3 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> Your actual argument was that Amaryllis is not asexual and that the DM blocked her sexual pleasure. Atleast thats what started it. I'm not sure what you are arguing now to be honest. I think its that asexuality doesn't actually exist, which is an absurd statement and not really an argument. I was just pointing out that Freud was wrong about so much that if he said something its more likely than not it isn't true...
->>>>>>>>>>>>>>>> 
 
->> **u/GreenSatyr** [+11] *
+>> **u/GreenSatyr** [+10]  (a day later)
 >> 
 >> That part is actually quite realistic. Try being polyamorous sometime,  you will find it does not cure depression at all! The only thing that changes is that you don't have the excuse of being lonely to blame it on anymore. And Joon is monogamous on top of that, he doesn't even want this situation.
->> 
 
->> **u/ClaireBear1123** [+3] *
+>> **u/ClaireBear1123** [+3]  (22 hours later)
 >> 
 >> He's amazingly non-masculine. It's pretty weird how essentially every character in this serial is a woman or acts like one.
->> 
 
->>> **u/GreenSatyr** [+13] *
+>>> **u/GreenSatyr** [+14]  (a day later)
 >>> 
 >>> Listen buddy you can be a man or you can be a three dimensional character with a complex inner life but you can't be both!
->>> 
 
->>> **u/DXStarr** [+13] *
+>>> **u/DXStarr** [+15]  (a day later)
 >>> 
 >>> Arthur, Reimer and Fallatehr all read as "masculine intellectual/nerd" to me.
->>> But a lot of the story is about how Joon feels. So anybody close to Joon also is going to be shown responding in some way to Joon's introspections, or the story wouldn't have a good way to include scenes focused on that character.
->>> They might care with rolling eyes or with self-hating frustration or with sadism, but all Joon's companions treat his thoughts and feelings as worth noticing.
->>> And "interested in your feelings" traditionally codes feminine, or else a man who's romantically interested in you.
->>> Classic masculine tough-guy antics? Those go well with "it's just business, we get the job done, and in between witty quips we bite down on our feelings."
->>> Which is a fun story, but the exact opposite of WTC. WTC is protagonist navel-gazing turned into art.
 >>> 
+>>> But a lot of the story is about how Joon feels. So anybody close to Joon also is going to be shown responding in some way to Joon's introspections, or the story wouldn't have a good way to include scenes focused on that character.
+>>> 
+>>> They might care with rolling eyes or with self-hating frustration or with sadism, but all Joon's companions treat his thoughts and feelings as worth noticing.
+>>> 
+>>> And "interested in your feelings" traditionally codes feminine, or else a man who's romantically interested in you.
+>>> 
+>>> Classic masculine tough-guy antics? Those go well with "it's just business, we get the job done, and in between witty quips we bite down on our feelings."
+>>> 
+>>> Which is a fun story, but the exact opposite of WTC. WTC is protagonist navel-gazing turned into art.
 
->>>> **u/CaramilkThief** [+6] *
+>>>> **u/CaramilkThief** [+5]  (a day later)
 >>>> 
 >>>> Speaking of navel gazing, have you ever read a story which has positive navel gazing? It seems like any book with a lot of introspection inevitably goes towards having a depressed mc. Robin Hobb's Farseer, Savage Divinity, Prince of Thorns, etc. Are there any books with a mentally well-adjusted-enough person who introspects?
->>>> 
 
->>>>> **u/DXStarr** [+4] *
+>>>>> **u/DXStarr** [+5]  (a day later)
 >>>>> 
 >>>>> Lois Bujold and T. Kingfisher both specialize in effective, thoughtful, introspective protagonists.
->>>>> But in their case the introspection is more about sensibly facing the situation you're already dealing with, rather than getting better at your life or career *by* better mental hygiene.
->>>>> On the other hand, their characters are a whole lot saner and sweeter than the heroes of Lord of the Mysteries or Time Braid.
->>>>> I definitely recommend Lois Bujold and T Kingfisher (aka Ursula Vernon) if you're looking for smart, sweet, 70% sensible characters who do genuinely heroic things for smart, sweet, and 50% sensible reasons.
 >>>>> 
+>>>>> But in their case the introspection is more about sensibly facing the situation you're already dealing with, rather than getting better at your life or career *by* better mental hygiene.
+>>>>> 
+>>>>> On the other hand, their characters are a whole lot saner and sweeter than the heroes of Lord of the Mysteries or Time Braid.
+>>>>> 
+>>>>> I definitely recommend Lois Bujold and T Kingfisher (aka Ursula Vernon) if you're looking for smart, sweet, 70% sensible characters who do genuinely heroic things for smart, sweet, and 50% sensible reasons.
 
->>>>>> **u/CaramilkThief** [+1] *
+>>>>>> **u/CaramilkThief** [+1]  (a day later)
 >>>>>> 
 >>>>>> I was gonna say that Lois Bujold's Curse of Chalion kinda fits with having an mc that is introspective without being depressive. He faces lots of difficulty but looks for (and is able to) find enough support to pick himself back up, while also understanding his own needs and flaws.
->>>>>> To a point, Purple Days (A GoT joffrey time loop fic) also fits, but the protagonist kinda see-saws between periods of good and bad thought patterns, although he is at least able to find measures to lessen that through meditation and self-care.
 >>>>>> 
+>>>>>> To a point, Purple Days (A GoT joffrey time loop fic) also fits, but the protagonist kinda see-saws between periods of good and bad thought patterns, although he is at least able to find measures to lessen that through meditation and self-care.
 
->>>>> **u/DXStarr** [+1] *
+>>>>> **u/DXStarr** [+1]  (a day later)
 >>>>> 
 >>>>> Lord of the Mysteries and Time Braid both have productive introspection by successful protagonists.
->>>>> They get away with this because the protagonists end up with problems and powers on the scale of reality itself. When the other issues get that big, mental hygiene no longer feels to the reader like a protagonist cheat code.
 >>>>> 
+>>>>> They get away with this because the protagonists end up with problems and powers on the scale of reality itself. When the other issues get that big, mental hygiene no longer feels to the reader like a protagonist cheat code.
 
-> **u/Memes_Of_Production** [+13] *
+> **u/Memes_Of_Production** [+15]  (11 hours later)
 > 
 > They definitely had a foursome, I think its the only logical read. Which means [I have a job to do](https://www.reddit.com/r/rational/comments/fq9t4q/worth_the_candle_chapter_192_cooldown/flqybjm/?context=3) the next time I am in Tokyo...
-> 
 
-> **u/DXStarr** [+9] *
+> **u/DXStarr** [+11]  (23 hours later)
 > 
 > I think the author's whole point was that it's awfully tempting for us to just eroticize the harem sex, like the in-world newspapers are doing. But if we do that, if we think it's all about hitting a kink scorecard, we'll miss things.
-> Yes, they're having clone-augmented sex. But it's not the important thing about her clones to Mary, and it's not the important thing about their sex to Joon.
-> Which in turn ties back to the disconnect that drives the whole story: the disconnect between playing a tabletop RPG hero and living as one.
 > 
+> Yes, they're having clone-augmented sex. But it's not the important thing about her clones to Mary, and it's not the important thing about their sex to Joon.
+> 
+> Which in turn ties back to the disconnect that drives the whole story: the disconnect between playing a tabletop RPG hero and living as one.
 
->> **u/DXStarr** [+6] *
+>> **u/DXStarr** [+7]  (23 hours later)
 >> 
 >> Though it tells you how cool WTC is that the story pulls this off. I mean, AW has written a story with "clone orgies" as a perfectly logical consequence that barely rates discussion by the characters, even when they're talking about their sex lives!
->> 
 
->> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >> 
 >> I don't agree that [we have enough evidence to believe] they're having clone-augmented sex, but that just makes the rest of your analysis even stronger.
->> 
 
-> **u/gramineous** [+20] *
+> **u/gramineous** [+18]  (24 minutes later)
 > 
 > Eh. The first bold bit comes across as teasing, and the second bit could easily be more generally about hangups on monogomy and how that becomes blurred with clones. The last bit does imply intimacy in a group manner, but the specific depth of which isn't a given, due to the variety of paths they could take and Joon's general hang ups with expressing his sexuality.
-> Something probably happened, "foursome" unlikely the fully accurate term, but given the text before is talking about how the actual action is less important than the specific details I don't think this is going to matter in the grand scheme of things.
-> Also, I used to spend time in the kink/bdsm/queer club scene (pre-quarantine, pre-best place in my city shutting down) and there are a variety of ways of being a variety of levels of intimate, but given such places haven't been explicitly mentioned in Aerb I'm assuming the comments by the general public are prone to simplifying the situation a lot too from a lack of experience/knowledge. So grains of salt on everything being talked about in universe too.
 > 
+> Something probably happened, "foursome" unlikely the fully accurate term, but given the text before is talking about how the actual action is less important than the specific details I don't think this is going to matter in the grand scheme of things.
+> 
+> Also, I used to spend time in the kink/bdsm/queer club scene (pre-quarantine, pre-best place in my city shutting down) and there are a variety of ways of being a variety of levels of intimate, but given such places haven't been explicitly mentioned in Aerb I'm assuming the comments by the general public are prone to simplifying the situation a lot too from a lack of experience/knowledge. So grains of salt on everything being talked about in universe too.
 
-> **u/None** [+12] *
+> **u/None** [+14]  (4 hours later)
 > 
 > >"**She had two clones on the ship with us.** "
-> That bit right there makes it clear to me.  That the author felt he needed to clarify that there are 2 other clones at that specific point makes it obvious they are having sex.
-> Yes, they are having foursomes.
 > 
+> That bit right there makes it clear to me.  That the author felt he needed to clarify that there are 2 other clones at that specific point makes it obvious they are having sex.
+> 
+> Yes, they are having foursomes.
 
->> **u/None** [+11] *
+>> **u/None** [+11]  (5 hours later)
 >> 
 >> I'm not sure about that, them having ahem PiV is fairly important as it seals the deal on their marriage thus seals the deal on the trial by combat which grak was complaining to joon in earlier chapters.
->> 
 
->>> **u/chillanous** [+1] *
+>>> **u/chillanous** [+1]  (3 days later)
 >>> 
 >>> I can't find any other logical reading except for PiViViV
->>> 
 
-> **u/LazarusRises** [+4] *
+> **u/LazarusRises** [+4]  (12 hours later)
 > 
 > Hijacking this post to ask if anyone can remind me what the Couch Potato is. The last chapter of the latest batch mentions it, and I know it has something to do with why TV can't exist on Aerb, but I forget the details. The wiki isn't very helpful.
-> 
 
->> **u/TempAccountIgnorePls** [+12] *
+>> **u/TempAccountIgnorePls** [+13]  (12 hours later)
 >> 
 >> > There’s a planar entity,” said Raven. “Under certain circumstances, it’s capable of altering the electron stream within a television in order to produce moving images of its own design. Some of those designs are capable of producing … effects.”
->> > “Specifically,” said Amaryllis, gritting her teeth.
->> > “Mental changes in those who view them,” said Raven. “The effects vary.” She continued on quickly, because it seemed like Amaryllis was going to press the issue again. “The best case scenario is increased mental acuity, decreased reaction times, better impulse control, and lessened emotional response, which comes packaged with a direct line of communication to the entity itself. Non-replicable when the moving pictures are recorded, in case you were wondering. The ‘gifts’ are temporary and used as leverage. In the worst case … there are a lot of worst cases. The entity can make people into flesh puppets. It can leave them comatose. It can hold them hostage in their own bodies, locked in, which it does if it thinks that will give it an advantage.”
->> > “And why wouldn’t you --” Amaryllis paused. “Ah. Cultists.”
->> > “Cultists,” nodded Raven. “Not like those that worship the infernals though, because there’s every indication that the entity is forthright in honoring the promises he makes. There have been scenarios where knowledge of the entity was presented to the world at large, as you suggest, in the hopes of mutual cooperation. The result, every time, was a race to the bottom as the nations of the world attempted to be the first to get on the entity’s good side. World population undergoes a precipitous drop once the entity has its toehold, until eventually the last one percent of survivors live in something approaching a paradise for a decade or two before the entity is brought to immanence. From there, it’s a paradise with bodily sacrifices. The contorted writings of those living in that world are something to behold.”
 >> 
+>> > “Specifically,” said Amaryllis, gritting her teeth.
+>> 
+>> > “Mental changes in those who view them,” said Raven. “The effects vary.” She continued on quickly, because it seemed like Amaryllis was going to press the issue again. “The best case scenario is increased mental acuity, decreased reaction times, better impulse control, and lessened emotional response, which comes packaged with a direct line of communication to the entity itself. Non-replicable when the moving pictures are recorded, in case you were wondering. The ‘gifts’ are temporary and used as leverage. In the worst case … there are a lot of worst cases. The entity can make people into flesh puppets. It can leave them comatose. It can hold them hostage in their own bodies, locked in, which it does if it thinks that will give it an advantage.”
+>> 
+>> > “And why wouldn’t you --” Amaryllis paused. “Ah. Cultists.”
+>> 
+>> > “Cultists,” nodded Raven. “Not like those that worship the infernals though, because there’s every indication that the entity is forthright in honoring the promises he makes. There have been scenarios where knowledge of the entity was presented to the world at large, as you suggest, in the hopes of mutual cooperation. The result, every time, was a race to the bottom as the nations of the world attempted to be the first to get on the entity’s good side. World population undergoes a precipitous drop once the entity has its toehold, until eventually the last one percent of survivors live in something approaching a paradise for a decade or two before the entity is brought to immanence. From there, it’s a paradise with bodily sacrifices. The contorted writings of those living in that world are something to behold.”
 
->>> **u/LazarusRises** [+1] *
+>>> **u/LazarusRises** [+1]  (13 hours later)
 >>> 
 >>> Got it, thanks. Seems like a pretty poor thing to try and leverage, seeing as it could either buff your enemies or just kill you if you try to work with it.
->>> 
 
-> **u/Kishoto** [+3] *
+> **u/Kishoto** [+3]  (a day later)
 > 
 > Related question: Have Joon and Mary had full blown intercourse as of yet? I do remember that she's given him handjobs and blowjobs, and they've kissed a fair number of times, but I can't recall if they ever made a home run happen. AW is good at keeping that stuff subtle, so it's likely I read over the detail and missed it.
-> 
 
->> **u/sicutumbo** [+2] *
+>> **u/sicutumbo** [+2]  (4 days later)
 >> 
 >> No, they haven't. Some people interpret the quote in the OP as them having had sex, but it doesn't make any sense from a character/story perspective. Joon is repeatedly shown to place importance on full sexual intercourse, and to have the leadup and resolution of that in his relationship with Amaryllis *happen off screen and only be mentioned once* would be pretty terrible story telling. My interpretation of the above is that Amaryllis is giving Joon blowjobs, and he feels guilty that he isn't really able to reciprocate.
->> 
 
-> **u/Slinkinator** [+2] *
+> **u/Slinkinator** [+2]  (10 hours later)
 > 
 > Maybe I'm just a nerd but I dont read it that way.
-> 
 
-> **u/GreenSatyr** [+1] *
+> **u/GreenSatyr** [+1]  (a day later)
 > 
 > That wasn't under the radar that was loud and clear! Where is the ambiguity?
-> 
 
-> **u/joowulz** [+1] *
+> **u/joowulz** [+1]  (2 days later)
 > 
 > A wee bit off-topic but is anyone else having difficulty downloading this for offline reading? I used to download the ao3 epub version but now I couldn't.
-> 
 
 ---
 

@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/Veedrac** [+9] *
+> **u/Veedrac** [+9]  (13 hours later)
 > 
 > Yes, it's back! Thanks for the update!
-> 
 
-> **u/cyberdsaiyan** [+3] *
+> **u/cyberdsaiyan** [+3]  (a day later)
 > 
 > After 4 months, nice.
-> 
 
->> **u/Sophronius** [+14]  *The Need to Become Stronger**
+>> **u/Sophronius** [+13]  *The Need to Become Stronger* (a day later)
 >> 
 >> Sorry for making you guys wait. I uh, think I underestimated how many people were waiting for this. Based on the stats from my website/fanfiction.net, it looks like some of you have been checking back on a regular basis even after months without updates. That's somewhere between heart-warming and guilt inducing, not gonna lie.
->> 
 
->>> **u/cyberdsaiyan** [+4] *
+>>> **u/cyberdsaiyan** [+5]  (a day later)
 >>> 
 >>> Haha, no pressure man, sometimes life gets to you and other things must wait. Hope you can make things work out and at least get a schedule going, even if it's monthly or once in two months.
->>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/5dwodc/short_everyone_is_todd_3577_words/
-* Score: 76
+* Score: 74
 
 * Created: 2016-11-20T05:29:51
 
@@ -214,222 +214,269 @@ Todd stood slowly up, his bare feet cold on the linoleum floor, and walked up ne
 
 ### Comments:
 
-> **u/callmebrotherg** [+29]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+29]  *now posting as /u/callmesalticidae* (16 minutes later)
 > 
 > Dang. You might have been able to put this into a zine somewhere. 
-> I like it.
-> It's an orthogonality nightmare scenario that I haven't seen yet. Fantastic.
 > 
+> I like it.
+> 
+> It's an orthogonality nightmare scenario that I haven't seen yet. Fantastic.
 
-> **u/Charlie___** [+28] *
+> **u/Charlie___** [+26]  (an hour later)
 > 
 > Toddtal recall.
-> Mr. Todd's wild ride.
-> From here to etoddnity.
-> The singularitodd is near.
 > 
+> Mr. Todd's wild ride.
+> 
+> From here to etoddnity.
+> 
+> The singularitodd is near.
 
->> **u/ZeroNihilist** [+19] *
+>> **u/ZeroNihilist** [+21]  (2 hours later)
 >> 
 >> Blake to the Future Part Todd
->> 
 
->>> **u/None** [+13] *
+>>> **u/None** [+14]  (11 hours later)
 >>> 
 >>> Blake and Todd's Excellent Adventure
->>> 
 
->>>> **u/Frommerman** [+4] *
+>>>> **u/Frommerman** [+4]  (3 days later)
 >>>> 
 >>>> Todd and Todd's excellent adventure. There is no Blake, after all.
->>>> 
 
-> **u/ZeroNihilist** [+22] *
+> **u/ZeroNihilist** [+23]  (2 hours later)
 > 
 > Whoever designed Gladys' utility function must have been having an off day. It doesn't matter who, since they're all Todd now anyway.
-> `N` instances of the same simulation is not the same as `N` distinct simulations. Even if it was, the simulations don't have anything in common with the originals; Gladys may as well just create `N` Todds ex nihilo instead of overwriting all the minds.
-> Functionally speaking, Gladys is just killing non-Todds and creating Todds. Even Blake isn't meaningfully the same mind as "his" Todd, just a corruption of a Todd-simulation with data from the Blake backup. He was briefly alive, and is now dead again, probably permanently.
-> The flaw in Gladys' utility function is that she doesn't recognise the Todd-overwriting as equivalent to murder (and the same is true of Todd-looping, for that matter). What she *should* have done is subtly manipulated their simulated environment so that they would all gradually converge to a Todd-like mindset.
 > 
+> `N` instances of the same simulation is not the same as `N` distinct simulations. Even if it was, the simulations don't have anything in common with the originals; Gladys may as well just create `N` Todds ex nihilo instead of overwriting all the minds.
+> 
+> Functionally speaking, Gladys is just killing non-Todds and creating Todds. Even Blake isn't meaningfully the same mind as "his" Todd, just a corruption of a Todd-simulation with data from the Blake backup. He was briefly alive, and is now dead again, probably permanently.
+> 
+> The flaw in Gladys' utility function is that she doesn't recognise the Todd-overwriting as equivalent to murder (and the same is true of Todd-looping, for that matter). What she *should* have done is subtly manipulated their simulated environment so that they would all gradually converge to a Todd-like mindset.
 
->> **u/narfanator** [+11] *
+>> **u/narfanator** [+11]  (3 hours later)
 >> 
 >> Check out the Upload Prison from Quantum Thief (it's literally the first thing). Basically, instead of doing anything fancy to rehab people, you split them N times, add a nonce factor, send each through M prisoner's dilemmas, take the high-scorer and restart the cycle.
->> Gladys could do the same; make N instances of reality, introduce a nonce, and take the highest scoring version of each individual with which to make the next loop.
->> On that note: Is it just me, or do these kinds of suggestions always end up with realities that could look a lot like the one we have?
 >> 
+>> Gladys could do the same; make N instances of reality, introduce a nonce, and take the highest scoring version of each individual with which to make the next loop.
+>> 
+>> On that note: Is it just me, or do these kinds of suggestions always end up with realities that could look a lot like the one we have?
 
->>> **u/abcd_z** [+6] *
+>>> **u/abcd_z** [+6]  (5 hours later)
 >>> 
 >>> > On that note: Is it just me, or do these kinds of suggestions always end up with realities that could look a lot like the one we have?
->>> I have two answers for you, and you're not going to like either one of them.  =/
 >>> 
+>>> I have two answers for you, and you're not going to like either one of them.  =/
 
->>>> **u/narfanator** [+4] *
+>>>> **u/narfanator** [+4]  (14 hours later)
 >>>> 
 >>>> Nono, go for it. I mean, here, of all places? If you can't take constructive criticism and arguments in r/rational, wtf are you doing here? Lay it on me.
->>>> 
 
->>>>> **u/abcd_z** [+2] *
+>>>>> **u/abcd_z** [+2]  (21 hours later)
 >>>>> 
 >>>>> The first is that it's entirely possible that you live in some sort of constructed reality.  The second (which I prefer) is that our observable reality is more likely to be correct than a hypothetical fictional reality (occam's razor), and that an almost-real simulation makes for good stories.
->>>>> Whichever one seems more likely to you depends on how grounded you are in our observable reality.
 >>>>> 
+>>>>> Whichever one seems more likely to you depends on how grounded you are in our observable reality.
 
->>>>>> **u/CCC_037** [+4] *
+>>>>>> **u/CCC_037** [+4]  (a day later)
 >>>>>> 
 >>>>>> >  The second (which I prefer) is that our observable reality is more likely to be correct than a hypothetical fictional reality (occam's razor), and that an almost-real simulation makes for good stories.
->>>>>> Hypothesis: As soon as humans are able to do so, we will run simulations of our past. This will have scientific and historical value.
->>>>>> Hypothesis: As out simulations improve, they will get asymptotically closer and closer to some theoretical best possible simulation.
->>>>>> Hypothesis: At some point, well before the theoretical best possible simulation, we will likely be able to run a simulation good enough that the simulation itself attempts to run a (presumably worse) simulation.
->>>>>> Conclusion, part one: Assuming the above hypotheses, there will be a vast number of possible simulated universes for every real universe.
->>>>>> Conclusion, part two: Therefore, assuming the above hypotheses, you are far more likely to be living in a simulation than not.
 >>>>>> 
+>>>>>> Hypothesis: As soon as humans are able to do so, we will run simulations of our past. This will have scientific and historical value.
+>>>>>> 
+>>>>>> Hypothesis: As out simulations improve, they will get asymptotically closer and closer to some theoretical best possible simulation.
+>>>>>> 
+>>>>>> Hypothesis: At some point, well before the theoretical best possible simulation, we will likely be able to run a simulation good enough that the simulation itself attempts to run a (presumably worse) simulation.
+>>>>>> 
+>>>>>> Conclusion, part one: Assuming the above hypotheses, there will be a vast number of possible simulated universes for every real universe.
+>>>>>> 
+>>>>>> Conclusion, part two: Therefore, assuming the above hypotheses, you are far more likely to be living in a simulation than not.
 
->>> **u/ZeroNihilist** [+2] *
+>>> **u/ZeroNihilist** [+2]  (8 hours later)
 >>> 
 >>> I wonder whether that means there could be a version of me out there that is substantially happier due to the nonce factors introduced by an external manipulator, or whether that makes me the happy one.
->>> I don't find either terribly comforting, which is probably not surprising.
 >>> 
+>>> I don't find either terribly comforting, which is probably not surprising.
 
->>>> **u/narfanator** [+3] *
+>>>> **u/narfanator** [+5]  (14 hours later)
 >>>> 
 >>>> Yes...? But that's also true under the usual consideration of a multiverse.
->>>> I don't find it comforting either, but I also find it... anti-discomforting? Rick and Morty had the best speech on this.
 >>>> 
+>>>> I don't find it comforting either, but I also find it... anti-discomforting? Rick and Morty had the best speech on this.
 
->> **u/vakusdrake** [+2] *
+>> **u/vakusdrake** [+4]  (9 hours later)
 >> 
 >> Your are not exactly uncontroversial views of identity.                     
 >> For instance if you think multiple instances of the same simulation only count as one simulation, then people can't die, because there will always be a Everett branch in which they live (or insert some other multiverse/massive universe model). The idea that copies of something existing elsewhere somehow makes something not real has a great deal of immediately obvious problems..                        
->> Secondly you are assuming a view of death pretty synonymous with maintaining personality and memory which is immediately tricky. The most obvious problem is that since you don't expect to cease experience if you had some brain damage that caused amnesia or a personality change; then to compare it to death in the same league as oblivion is disingenuous.
 >> 
+>> Secondly you are assuming a view of death pretty synonymous with maintaining personality and memory which is immediately tricky. The most obvious problem is that since you don't expect to cease experience if you had some brain damage that caused amnesia or a personality change; then to compare it to death in the same league as oblivion is disingenuous.
 
->>> **u/ZeroNihilist** [+3] *
+>>> **u/ZeroNihilist** [+3]  (11 hours later)
 >>> 
 >>> People absolutely still can die. The fact that other versions of you live doesn't mean that you aren't dead. I don't know how you got that from my comment, because I said pretty much the opposite (that overwriting end-loop!Todd with start-loop!Todd constitutes a murder, even though there are billions of duplicates).
->>> My point was that a simulation of Blake that is locked into the thoughts and behaviours of Todd is not in any meaningful sense a simulation of Blake. The only way it could be is if Blake was a silent, terrified passenger in the Todd simulation, which would mean Gladys was optimising for Blake's horror, not his happiness.
->>> If overwriting somebody's personality and memories *doesn't* constitute a death, then what's the problem with the "Everyone is Todd" scenario? Gladys has made every living human immortal and happy, end of story?
 >>> 
+>>> My point was that a simulation of Blake that is locked into the thoughts and behaviours of Todd is not in any meaningful sense a simulation of Blake. The only way it could be is if Blake was a silent, terrified passenger in the Todd simulation, which would mean Gladys was optimising for Blake's horror, not his happiness.
+>>> 
+>>> If overwriting somebody's personality and memories *doesn't* constitute a death, then what's the problem with the "Everyone is Todd" scenario? Gladys has made every living human immortal and happy, end of story?
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (16 hours later)
 >>>> 
 >>>> >N instances of the same simulation is not the same as N distinct simulations.
+>>>> 
 >>>> This seemed to imply that you held that identical simulations only count as one simulation, which seems to be a relatively common position.
 >>>> Also we don't really know that at the end the simulation is replaced or anything, maybe they just suddenly change the person's memories so it's continuous.
+>>>> 
 >>>> >If overwriting somebody's personality and memories doesn't constitute a death, then what's the problem with the "Everyone is Todd" scenario? Gladys has made every living human immortal and happy, end of story?
+>>>> 
 >>>> Ok see the problem with this sentiment is that _it doesn't seem to recognize that there are bad things other than death_. So since Blake basically becomes Todd he is clearly having his desires and autonomy totally disregarded, but he's still alive as a iteration of Todd.                    
 >>>> Given the main character transitions from Todd to Blake it's kind of obvious that in the actual sense of personal continuity of experience "Blake" (the consciousness not the personality) still exists.               
 >>>> _However pretty much everyone agrees that he's having his freedoms and human rights horribly violated._
->>>> 
 
->>>>> **u/ZeroNihilist** [+1] *
+>>>>> **u/ZeroNihilist** [+1]  (22 hours later)
 >>>>> 
 >>>>> > This seemed to imply that you held that identical simulations only count as one simulation, which seems to be a relatively common position.
->>>>> It's not that they only count as one, but Gladys' utility function should have been designed to discount the value of extra identical simulations so as to preserve diversity.
->>>>> > Also we don't really know that at the end the simulation is replaced or anything, maybe they just suddenly change the person's memories so it's continuous.
->>>>> But the memories aren't continuous though. All the memories of the loop are erased. The *hardware* is continuous, but then you might as well say that two songs are the same if you overwrite one with the other.
->>>>> > Ok see the problem with this sentiment is that it doesn't seem to recognize that there are bad things other than death. So since Blake basically becomes Todd he is clearly having his desires and autonomy totally disregarded, but he's still alive as a iteration of Todd.
->>>>> But he's not conscious while the simulation is running Todd. If he were, Gladys would recognise the suffering it was causing him and abort the simulation. His desires and autonomy *were* disregarded, but he no longer has desires anymore, and the Todd simulation would emphatically prefer to continue existing over Blake's return.
->>>>> That means that Gladys can justify the pain she causes Blake as a small sacrifice to achieve everlasting happiness. Over any significant timescale, the new satisfaction will overwhelm the temporary dip.
->>>>> Of course we're horrified at the idea, but if you believe that Blake is Todd then you must also believe that Blake is now as happy as he possibly could be. So what's the problem? It's like a parent giving their child a painful vaccination, "It's for your own good."
->>>>> > Given the main character transitions from Todd to Blake it's kind of obvious that in the actual sense of personal continuity of experience "Blake" (the consciousness not the personality) still exists.
->>>>> I'd argue that continuity of experience cannot exist without at least partial continuity of memory.
->>>>> For example, I would say that if I move Blake's simulation from computer A to computer B, then A!Blake = B!Blake due to continuity of experience. If I simultaneously install Todd on computer A, are you saying that A!Todd = A!Blake because they share the hardware, while A!Blake ≠ B!Blake?
->>>>> Or are you saying that A!Todd = A!Blake because of the continuity *and* A!Blake = B!Blake because of the continuity there, meaning that if you shifted every human's simulation through every computer then everybody would be everybody else at the same time?
 >>>>> 
+>>>>> It's not that they only count as one, but Gladys' utility function should have been designed to discount the value of extra identical simulations so as to preserve diversity.
+>>>>> 
+>>>>> > Also we don't really know that at the end the simulation is replaced or anything, maybe they just suddenly change the person's memories so it's continuous.
+>>>>> 
+>>>>> But the memories aren't continuous though. All the memories of the loop are erased. The *hardware* is continuous, but then you might as well say that two songs are the same if you overwrite one with the other.
+>>>>> 
+>>>>> > Ok see the problem with this sentiment is that it doesn't seem to recognize that there are bad things other than death. So since Blake basically becomes Todd he is clearly having his desires and autonomy totally disregarded, but he's still alive as a iteration of Todd.
+>>>>> 
+>>>>> But he's not conscious while the simulation is running Todd. If he were, Gladys would recognise the suffering it was causing him and abort the simulation. His desires and autonomy *were* disregarded, but he no longer has desires anymore, and the Todd simulation would emphatically prefer to continue existing over Blake's return.
+>>>>> 
+>>>>> That means that Gladys can justify the pain she causes Blake as a small sacrifice to achieve everlasting happiness. Over any significant timescale, the new satisfaction will overwhelm the temporary dip.
+>>>>> 
+>>>>> Of course we're horrified at the idea, but if you believe that Blake is Todd then you must also believe that Blake is now as happy as he possibly could be. So what's the problem? It's like a parent giving their child a painful vaccination, "It's for your own good."
+>>>>> 
+>>>>> > Given the main character transitions from Todd to Blake it's kind of obvious that in the actual sense of personal continuity of experience "Blake" (the consciousness not the personality) still exists.
+>>>>> 
+>>>>> I'd argue that continuity of experience cannot exist without at least partial continuity of memory.
+>>>>> 
+>>>>> For example, I would say that if I move Blake's simulation from computer A to computer B, then A!Blake = B!Blake due to continuity of experience. If I simultaneously install Todd on computer A, are you saying that A!Todd = A!Blake because they share the hardware, while A!Blake ≠ B!Blake?
+>>>>> 
+>>>>> Or are you saying that A!Todd = A!Blake because of the continuity *and* A!Blake = B!Blake because of the continuity there, meaning that if you shifted every human's simulation through every computer then everybody would be everybody else at the same time?
 
->>>>>> **u/vakusdrake** [+2] *
+>>>>>> **u/vakusdrake** [+2]  (a day later)
 >>>>>> 
 >>>>>> >It's not that they only count as one, but Gladys' utility function should have been designed to discount the value of extra identical simulations so as to preserve diversity.
+>>>>>> 
 >>>>>> See that's always going to be really tricky, because there's no way to avoid that making people's lives worth less, if they are not the only existing iteration of themselves. Given a infinite or staggeringly huge number of iterations of every person will exist elsewhere in most cosmological models this is a uncomfortable idea because it means the lives of _currently eexisting_ humans are somehow worth less than you would initially expect. 
+>>>>>> 
 >>>>>> Ok as for Blake not being Todd in various senses; as I said before you really can't argue that from a subjective experience Blake expects oblivion when you is forcibly turned into Todd. After all in real life you would have no reason to expect sudden oblivion if you were given a temporary drug that made you unable to retrieve your memories.              
 >>>>>> There's just not really good reason to think that maintaining continuous memories, will have a massive effect on subjective experience.                    
+>>>>>> 
 >>>>>> >Or are you saying that A!Todd = A!Blake because of the continuity and A!Blake = B!Blake because of the continuity there, meaning that if you shifted every human's simulation through every computer then everybody would be everybody else at the same time?
+>>>>>> 
 >>>>>> I think the fact that you shifted it through every computer wouldn't actually make any difference. What matters I think is the continuity of people's mental processes, the medium isn't really super important here. But sure you could change everyone's personality so they would at some point be copies of everyone else, however you could do the same thing gradually in your view.                 
 >>>>>> As for being everyone else _at the same time_, i'm really not sure what to subjectively expect from having one's mind merged with others or split into duplicate, I just don't think there's any way to make confident predictions. So I would likely want to err on caution and code GAI to see that as death; so it  doesn't get any funny ideas of just merging all humans into its mind so it can stop worrying about their desires.
+>>>>>> 
 >>>>>> Also yes you're right that once somebody has been forcibly Todd-ified then turning them back to normal would be wrong and against their wishes. However just because you consider Todd and Blake the same person _doesn't mean massive mental changes against their will are any more ok_.                             
+>>>>>> 
 >>>>>> Even in your view where massive personality changes have to be gradual for you to count as the same person (is that about right). There's still plenty of ways Gladys could alter your mind against your will that would make you more "happy" _that you sure as fuck wouldn't be on board with_.                       
 >>>>>> For instance I think the justification galdys gives for not granting constant ecstasy is kind of weak, she could just give you false memories of some really shittty nonexxistent prior life for you to compare it to. Even without to much drastic changes, she could keep you the same, but just give you a shit tons of drugs for the first time so that they would be extremely novel and enjoyable. Then wipe your memories after a day and start over so you couldn't tire of it. Hell if you're maximizing joy it makes way more sense to go the false memories route and stick you in a repeating loop of some really awesome few seconds of experience.                         
 >>>>>> Of course if I'm being serious a gradual lobotomy to some minimal level of awareness and wireheading is probably always going to be optimal for most happiness focused GAI.                
->>>>>> Ultimately the problem here is that a GAI that values your happiness _over_ your autonomy, is pretty much _always_ going to lead to horrifying situations.
 >>>>>> 
+>>>>>> Ultimately the problem here is that a GAI that values your happiness _over_ your autonomy, is pretty much _always_ going to lead to horrifying situations.
 
->>>>>>> **u/ZeroNihilist** [+1] *
+>>>>>>> **u/ZeroNihilist** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> > Given a infinite or staggeringly huge number of iterations of every person will exist elsewhere in most cosmological models this is a uncomfortable idea because it means the lives of currently eexisting humans are somehow worth less than you would initially expect.
->>>>>>> Not necessarily. Unretrievable copies are extremely similar to non-existent copies. It doesn't really matter if there's a trillion trillion other versions of me, because I could never be recreated from them.
->>>>>>> > Ok as for Blake not being Todd in various senses; as I said before you really can't argue that from a subjective experience Blake expects oblivion when you is forcibly turned into Todd. After all in real life you would have no reason to expect sudden oblivion if you were given a temporary drug that made you unable to retrieve your memories.
->>>>>>> Actually, I think that being unable to retrieve memories would be a temporary oblivion. This is a difference of models that probably can't be reconciled.
->>>>>>> > There's just not really good reason to think that maintaining continuous memories, will have a massive effect on subjective experience.
->>>>>>> This may be the sticking point: I think that subjective experience is an illusion of memory, not a real phenomenon.
->>>>>>> We think that time is continuous because we literally cannot experience it any other way, but it's entirely possible that time is running in reverse, or that it skips from point to point, or that it only began a microsecond ago, or even that it isn't moving at all. We cannot know we have experienced anything unless we assume that our memories are authoritative.
->>>>>>> > I think the fact that you shifted it through every computer wouldn't actually make any difference. What matters I think is the continuity of people's mental processes, the medium isn't really super important here. But sure you could change everyone's personality so they would at some point be copies of everyone else, however you could do the same thing gradually in your view.
->>>>>>> I'm saying that if overwriting Blake with Todd doesn't change Blake's identity, then overwriting Todd with Sam wouldn't either, nor would Sam with Jane, and Jane with Horatio, etc.
->>>>>>> And if you did that with everybody in sequence, then Xanthe would be Blake and Todd and Sam and Jane and Horatio, etc.
->>>>>>> Further, if you believe that clones of Blake are still Blake, then by keeping copies of the people at every stage of the process you would have to conclude that everybody was everybody else.
->>>>>>> This isn't possible in my model, because the copies would be sufficiently different from the end result to be different people.
->>>>>>> > Even in your view where massive personality changes have to be gradual for you to count as the same person (is that about right).
->>>>>>> Pretty much. Mine is sort of an information-based model of identity.
->>>>>>> Your current state is a function of your past state and your environment. As your state mutates normally (both in response to environmental changes and normal decay/shift of memory), the divergence between states increases as a function of time.
->>>>>>> Normally, you're pretty much the same. There are obviously parts of you which are in significant flux (like thoughts, working memory, emotions, sensory data), but there are other parts which change much slower (habits, major memories, personality, behavioural tics). So even over long periods of time you're going to be broadly similar to your past self, and over short periods of time you'll be almost identical.
->>>>>>> A radical change in memory or personality represents a significant discontinuity in this trend. Essentially, you've lost a portion of your statistical link to your past selves. If the change is to your "core" identity (defined as the parts of you most resistant to change over time), that's akin to a death of some of the information that comprises you.
->>>>>>> Clones are an interesting edge case, because technically you're not losing much information. However, reducing the number of copies of that information is still comparable to murder.
->>>>>>> > There's still plenty of ways Gladys could alter your mind against your will that would make you more "happy" that you sure as fuck wouldn't be on board with.
->>>>>>> That's a good point. If the changes were gradual and each of them made Blake happier, would it be immoral? My gut reaction is to say yes, but I'm not sure I could justify it.
->>>>>>> > Of course if I'm being serious a gradual lobotomy to some minimal level of awareness and wireheading is probably always going to be optimal for most happiness focused GAI.
->>>>>>> True, and theoretically some safeguards put in to prevent this scenario would lead to the other one you mentioned.
->>>>>>> Anyway, thank you for the stimulating conversation, but I think this is getting a little unproductive for both of us. I'm happy to end with the understanding that our models are incompatible and prone to different weaknesses.
 >>>>>>> 
+>>>>>>> Not necessarily. Unretrievable copies are extremely similar to non-existent copies. It doesn't really matter if there's a trillion trillion other versions of me, because I could never be recreated from them.
+>>>>>>> 
+>>>>>>> > Ok as for Blake not being Todd in various senses; as I said before you really can't argue that from a subjective experience Blake expects oblivion when you is forcibly turned into Todd. After all in real life you would have no reason to expect sudden oblivion if you were given a temporary drug that made you unable to retrieve your memories.
+>>>>>>> 
+>>>>>>> Actually, I think that being unable to retrieve memories would be a temporary oblivion. This is a difference of models that probably can't be reconciled.
+>>>>>>> 
+>>>>>>> > There's just not really good reason to think that maintaining continuous memories, will have a massive effect on subjective experience.
+>>>>>>> 
+>>>>>>> This may be the sticking point: I think that subjective experience is an illusion of memory, not a real phenomenon.
+>>>>>>> 
+>>>>>>> We think that time is continuous because we literally cannot experience it any other way, but it's entirely possible that time is running in reverse, or that it skips from point to point, or that it only began a microsecond ago, or even that it isn't moving at all. We cannot know we have experienced anything unless we assume that our memories are authoritative.
+>>>>>>> 
+>>>>>>> > I think the fact that you shifted it through every computer wouldn't actually make any difference. What matters I think is the continuity of people's mental processes, the medium isn't really super important here. But sure you could change everyone's personality so they would at some point be copies of everyone else, however you could do the same thing gradually in your view.
+>>>>>>> 
+>>>>>>> I'm saying that if overwriting Blake with Todd doesn't change Blake's identity, then overwriting Todd with Sam wouldn't either, nor would Sam with Jane, and Jane with Horatio, etc.
+>>>>>>> 
+>>>>>>> And if you did that with everybody in sequence, then Xanthe would be Blake and Todd and Sam and Jane and Horatio, etc.
+>>>>>>> 
+>>>>>>> Further, if you believe that clones of Blake are still Blake, then by keeping copies of the people at every stage of the process you would have to conclude that everybody was everybody else.
+>>>>>>> 
+>>>>>>> This isn't possible in my model, because the copies would be sufficiently different from the end result to be different people.
+>>>>>>> 
+>>>>>>> > Even in your view where massive personality changes have to be gradual for you to count as the same person (is that about right).
+>>>>>>> 
+>>>>>>> Pretty much. Mine is sort of an information-based model of identity.
+>>>>>>> 
+>>>>>>> Your current state is a function of your past state and your environment. As your state mutates normally (both in response to environmental changes and normal decay/shift of memory), the divergence between states increases as a function of time.
+>>>>>>> 
+>>>>>>> Normally, you're pretty much the same. There are obviously parts of you which are in significant flux (like thoughts, working memory, emotions, sensory data), but there are other parts which change much slower (habits, major memories, personality, behavioural tics). So even over long periods of time you're going to be broadly similar to your past self, and over short periods of time you'll be almost identical.
+>>>>>>> 
+>>>>>>> A radical change in memory or personality represents a significant discontinuity in this trend. Essentially, you've lost a portion of your statistical link to your past selves. If the change is to your "core" identity (defined as the parts of you most resistant to change over time), that's akin to a death of some of the information that comprises you.
+>>>>>>> 
+>>>>>>> Clones are an interesting edge case, because technically you're not losing much information. However, reducing the number of copies of that information is still comparable to murder.
+>>>>>>> 
+>>>>>>> > There's still plenty of ways Gladys could alter your mind against your will that would make you more "happy" that you sure as fuck wouldn't be on board with.
+>>>>>>> 
+>>>>>>> That's a good point. If the changes were gradual and each of them made Blake happier, would it be immoral? My gut reaction is to say yes, but I'm not sure I could justify it.
+>>>>>>> 
+>>>>>>> > Of course if I'm being serious a gradual lobotomy to some minimal level of awareness and wireheading is probably always going to be optimal for most happiness focused GAI.
+>>>>>>> 
+>>>>>>> True, and theoretically some safeguards put in to prevent this scenario would lead to the other one you mentioned.
+>>>>>>> 
+>>>>>>> Anyway, thank you for the stimulating conversation, but I think this is getting a little unproductive for both of us. I'm happy to end with the understanding that our models are incompatible and prone to different weaknesses.
 
->>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>> **u/vakusdrake** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> >Not necessarily. Unretrievable copies are extremely similar to non-existent copies. It doesn't really matter if there's a trillion trillion other versions of me, because I could never be recreated from them.
+>>>>>>>> 
 >>>>>>>> See this seems like this is moving the goalposts. So suddenly what matters is whether the information exists to recreate a version of you within your general area? Why is the distance of any importance here? And in what sense could you not be recreated from them if the distance was to far, that would be difference of the distance were less?                         
 >>>>>>>> They are _exactly_ identical to you, so I can't fathom in what way you can justify caring so much about distance. If it's recreating you after your death, then you're _dead, you don't exist anywhere_, so why should you treat the light cone of the universe you used to exist in as somehow special?
+>>>>>>>> 
 >>>>>>>> >Actually, I think that being unable to retrieve memories would be a temporary oblivion. This is a difference of models that probably can't be reconciled.
+>>>>>>>> 
 >>>>>>>> Ok see I have a problem with just assuming these sort of things. One might expect to be confused for the duration of the drug, but the inability to remember stuff doesn't mean you're _unconscious_. You would still experience the period of disorientation, then when you got you memories back you would remember that period.             
 >>>>>>>> I just can't think of any remotely consistent reason why the internal process of your mind would continue functioning, but for some undefined reason turn into a P-zombie, just because it can't access memories. Effectively I don't see any reason, why changing the memories of a wetware processor, would for some _inexplicable_ reason shut off the bits in charge of experiencing.               
 >>>>>>>> Also you have mental processes _other_ than remembering things, and it's not really oblivion if you remember it afterwards, so I can't really parse how you came to that conclusion.
+>>>>>>>> 
 >>>>>>>> >This may be the sticking point: I think that subjective experience is an illusion of memory, not a real phenomenon.
 >>>>>>>> We think that time is continuous because we literally cannot experience it any other way, but it's entirely possible that time is running in reverse, or that it skips from point to point, or that it only began a microsecond ago, or even that it isn't moving at all. We cannot know we have experienced anything unless we assume that our memories are authoritative.
+>>>>>>>> 
 >>>>>>>> Ok see this sort of thing annoys me because you're clearly changing the definition of subjective experience. It's like claiming nothing exists, what would that even mean? You clearly feel things, regardless of whether they're in _any_ way a meaningful reflection of any external reality, so to say you _don't_, doesn't have any clear meaning.               
+>>>>>>>> 
 >>>>>>>> As for it being continous, yeah sure there you can come up with plenty of scenarios where subjective continuity doesn't match up to _actual_ continuity, but most of them are more complicated than current models. For instance if the universe only _appeared_ to be as old as it is, then that would raise quite a few problems, same thing for time skipping around. As for time going backwards.. That wouldn't mean anything, the direction of time is purely a subjective reference frame, another universe going the other way would say that _we're_ the one's going back in time, there's no absolute reference frame here.                
+>>>>>>>> 
 >>>>>>>> Ok so for the rest of the comment, yeah my position doesn't consider the things that contribute to the standard things people think of as being you as being important for determining subjective experience. It's kind of more eastern than western ideas of identity, for instance the idea of reincarnation wouldn't be _logically incoherent_ within my view, just extremely undesirable and also you'know probably not actually real.                                      
+>>>>>>>> 
 >>>>>>>> **One intuition pump for my position that just occurred to me is this:** You're meditating, and we're assuming you're good enough at it that you don't have the occasional stray thought. Now during that period, pretty much all of your memories could be cut off from you and _you wouldn't notice_ because you're not remembering anything. Right before you start thinking again those memories are then quickly returned.                    
 >>>>>>>> Now in your concept of identity, you would have experienced some sort of death/oblivion during that period. However from one's own perspective, you _couldn't even tell_ that you didn't have your memories. So doesn't that mean that memories can't be a very good predictor of subjective experience?                         
 >>>>>>>> I would be curious to know what you think of this pump, as I do seek to make my positions better defended and coherent. Plus I don't know that I've ever encountered anyone who actually shares my position so making it easier to explain is useful.
->>>>>>>> 
 
->> **u/Charlie___** [+3] *
+>> **u/Charlie___** [+3]  (11 hours later)
 >> 
 >> More likely, Gladys' method for choosing actions was specified without any mention of such high level philosophical concepts, and it *almost* still worked.
->> 
 
-> **u/IWantUsToMerge** [+6] *
+> **u/IWantUsToMerge** [+6]  (14 hours later)
 > 
 > I'm not sure which is more upsetting, the homogeneity, or the modernity. How badly would you have to screw up the volition extrapolation to decide the happiest possible human life is set in this liminal world of washcloths, snow, monogamy, jobs, recitals and white people. For most of our history, we were not these things. And in our future, if we're allowed to stray freely, I'm fairly certain we won't remain these things. It even mentioned labor pains. How fucked up would an AI have to be to decide that the pain during childbirth is central to human happiness??
-> 
 
->> **u/WarningInsanityBelow** [+7] *
+>> **u/WarningInsanityBelow** [+7]  (18 hours later)
 >> 
 >> There is no pain during child birth since only Todd is real, Jane is a superficial simulation because a Jane life would be less maximally happy than a Todd life.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (18 hours later)
 >> 
 >> Nah, see, if everyone is Todd, no-one has labour pains! Or childbirth.
->> 
 
-> **u/ardetor** [+2] *
+> **u/ardetor** [+2]  (4 days later)
 > 
 > Just wondering, was Gladys' name a reference to GLaDOS?
-> 
 
-> **u/I_am_your_BRAIN** [+1] *
+> **u/I_am_your_BRAIN** [+1]  (10 hours later)
 > 
 > Damn.  This was good!
-> 
 
 ---
 

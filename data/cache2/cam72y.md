@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/cam72y/d_monday_request_and_recommendation_thread/
-* Score: 39
+* Score: 38
 
 * Created: 2019-07-08T15:06:07
 
@@ -17,593 +17,580 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/iftttAcct2** [+12] *
+> **u/iftttAcct2** [+13]  (an hour later)
 > 
 > I haven't read much manga the last few years, but I need a change of pace. If anyone has any suggestions for manga that started or became popular after 2010 or so, let me know!
-> Rational works not required (though always appreciated, of course). I'm posting here 'cause most of y'all seem to appreciate good story telling. Any genre's fine, previous favorites, if it helps, include: HxH, One Piece, Yatsubato!, Bakuman, Oishii Kankei, Holyland, Katsu!, Black Cat, Aishita no Ousama, etc.
 > 
+> Rational works not required (though always appreciated, of course). I'm posting here 'cause most of y'all seem to appreciate good story telling. Any genre's fine, previous favorites, if it helps, include: HxH, One Piece, Yatsubato!, Bakuman, Oishii Kankei, Holyland, Katsu!, Black Cat, Aishita no Ousama, etc.
 
->> **u/meterion** [+10] *
+>> **u/meterion** [+9]  (2 hours later)
 >> 
 >> Here's a personal top-tier list, things I would absolutely recommend to anyone (can elaborate if needed):
->> *Maoyuu Maou Yuusha - Kono Watashi no Mono Tonare, Yuusha yo Kotowaru!*  
->> * Realistic exploration of what kind of realistic sociopolitical landscape would arise from a typical "humanity versus demons" JRPG plot, and what both the Hero and Villain try to do to resolve it.
->> *Witch Hat Atelier*
->> * Renaissance-era Swords n Sorcery semi-apocalyptic world where witches are a secretive tribe, the only known wielders of magic. Follows a young girl who gets mixed up in a plot far beyond her abilities, but very fluffy on the whole.
->> *Mahoutsukai no Yome*
->> * Urban fantasy involving a young girl with a ~mysterious power~ who gets bought in the underworld slave trade by a demon who isn't all he appears to be. Lots of variety in the mythos inspiring the world.
->> *Dungeon Meshi*
->> * D&D-inspired world with a bunch of races, magic, and dungeons! When things go terribly wrong for an adventuring party, they must delve deeper than they ever have, and understand the truth behind what dungeons are to rescue their friend.
->> *Made in Abyss*
->> * In a world not dissimilar from our own, there remains one wonder of the world untouched by man: The Abyss. There, things lurk beyond man's wildest imagination, and the treasures pulled at great cost from it are peerless in value. And for one young girl, the Abyss is where her mother lies, waiting for her. *(Warning: lots of loli/shotabait.)*
->> *Helck*
->> * The comedic story of a human hero who journeys to the demon world to... destroy all the humans? Experiences extreme genre shift into thriller-tragedy, and worth a read up to that point if the first part isn't so interesting..
 >> 
+>> *Maoyuu Maou Yuusha - Kono Watashi no Mono Tonare, Yuusha yo Kotowaru!*  
+>> 
+>> * Realistic exploration of what kind of realistic sociopolitical landscape would arise from a typical "humanity versus demons" JRPG plot, and what both the Hero and Villain try to do to resolve it.
+>> 
+>> *Witch Hat Atelier*
+>> 
+>> * Renaissance-era Swords n Sorcery semi-apocalyptic world where witches are a secretive tribe, the only known wielders of magic. Follows a young girl who gets mixed up in a plot far beyond her abilities, but very fluffy on the whole.
+>> 
+>> *Mahoutsukai no Yome*
+>> 
+>> * Urban fantasy involving a young girl with a ~mysterious power~ who gets bought in the underworld slave trade by a demon who isn't all he appears to be. Lots of variety in the mythos inspiring the world.
+>> 
+>> *Dungeon Meshi*
+>> 
+>> * D&D-inspired world with a bunch of races, magic, and dungeons! When things go terribly wrong for an adventuring party, they must delve deeper than they ever have, and understand the truth behind what dungeons are to rescue their friend.
+>> 
+>> *Made in Abyss*
+>> 
+>> * In a world not dissimilar from our own, there remains one wonder of the world untouched by man: The Abyss. There, things lurk beyond man's wildest imagination, and the treasures pulled at great cost from it are peerless in value. And for one young girl, the Abyss is where her mother lies, waiting for her. *(Warning: lots of loli/shotabait.)*
+>> 
+>> *Helck*
+>> 
+>> * The comedic story of a human hero who journeys to the demon world to... destroy all the humans? Experiences extreme genre shift into thriller-tragedy, and worth a read up to that point if the first part isn't so interesting..
 
->>> **u/GaBeRockKing** [+11]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+10]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 >>> 
 >>> >  (Warning: lots of loli/shotabait.)
->>> I always laugh when people give warnings for made in abyss based on the loli/shotabait yet let the capital-s Suffering slide.
 >>> 
+>>> I always laugh when people give warnings for made in abyss based on the loli/shotabait yet let the capital-s Suffering slide.
 
->>>> **u/meterion** [+15] *
+>>>> **u/meterion** [+15]  (3 hours later)
 >>>> 
 >>>> lol, I don’t disagree but it remains the biggest barrier to entry for normie-tier manga readers. Plus it’s better when the suffering sneaks up on ya.
->>>> 
 
->>> **u/iftttAcct2** [+2] *
+>>> **u/iftttAcct2** [+2]  (3 hours later)
 >>> 
 >>> Thank you for the suggestions!
->>> 
 
->> **u/onestojan** [+5] *
+>> **u/onestojan** [+4]  (3 hours later)
 >> 
 >> Disclaimer: I just started to read manga this year and use it to learn languages. I haven't read the ones you've listed. I was stuck in bed at the beginning of the year and was forced-read (that should be a word!) by my girlfriend. I now know what isekai or otaku means. A part of me died for this ;)
->> Rationalist manga recommended on the sub many times: 
->> - [The Promised Neverland](https://myanimelist.net/manga/100128/Yakusoku_no_Neverland)
->> - [Battle in 5 seconds after meeting](https://myanimelist.net/manga/102690/Deatte_5-byou_de_Battle)
->> Manga I haven't seen recommended here with rationalist elements (all rather slow paced):
->> - [Drugstore Soliloquy](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto) - a young woman with knowledge of pharmacy is sold as a servant to the imperial court. She applies her expertise to much more than curing diseases. It's more interesting than I make it sound. 
->> - [Accomplishments of the Duke's Daughter](https://myanimelist.net/manga/97579/Koushaku_Reijou_no_Tashinami) - an otome game devotee is reincarnated (overused trope alert) in a game as the antagonist. Yet, the manga doesn't become a trope avoidance type. Instead, the main heroin introduces concepts from her world to improve the lives of the citizens.
->> - [Cesare: Hakai no Souzousha](https://myanimelist.net/manga/1067/Cesare__Hakai_no_Souzousha) - best described as: if Mario Puzo wrote manga. It's worth checking out for the art itself. Sometimes I just stare at the [Renaissance scenery](https://i.imgur.com/cbW5F0l.jpg) and marvel. It follows a naive student who befriends Cesare Borgia and learns how the world really works.
->> Other favourites: [Liar Game](https://myanimelist.net/manga/1649/Liar_Game) [RST], [Hikaru no Go](https://myanimelist.net/manga/20/Hikaru_no_Go) [RSTish], [Qualia the Purple](https://myanimelist.net/manga/51493/Murasakiiro_no_Qualia), [I sold my life for ten thousand yen per year](https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de), [2001 Nights](https://myanimelist.net/manga/67/2001-ya_Monogatari).
 >> 
+>> Rationalist manga recommended on the sub many times: 
+>> 
+>> - [The Promised Neverland](https://myanimelist.net/manga/100128/Yakusoku_no_Neverland)
+>> 
+>> - [Battle in 5 seconds after meeting](https://myanimelist.net/manga/102690/Deatte_5-byou_de_Battle)
+>> 
+>> Manga I haven't seen recommended here with rationalist elements (all rather slow paced):
+>> 
+>> - [Drugstore Soliloquy](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto) - a young woman with knowledge of pharmacy is sold as a servant to the imperial court. She applies her expertise to much more than curing diseases. It's more interesting than I make it sound. 
+>> 
+>> - [Accomplishments of the Duke's Daughter](https://myanimelist.net/manga/97579/Koushaku_Reijou_no_Tashinami) - an otome game devotee is reincarnated (overused trope alert) in a game as the antagonist. Yet, the manga doesn't become a trope avoidance type. Instead, the main heroin introduces concepts from her world to improve the lives of the citizens.
+>> 
+>> - [Cesare: Hakai no Souzousha](https://myanimelist.net/manga/1067/Cesare__Hakai_no_Souzousha) - best described as: if Mario Puzo wrote manga. It's worth checking out for the art itself. Sometimes I just stare at the [Renaissance scenery](https://i.imgur.com/cbW5F0l.jpg) and marvel. It follows a naive student who befriends Cesare Borgia and learns how the world really works.
+>> 
+>> Other favourites: [Liar Game](https://myanimelist.net/manga/1649/Liar_Game) [RST], [Hikaru no Go](https://myanimelist.net/manga/20/Hikaru_no_Go) [RSTish], [Qualia the Purple](https://myanimelist.net/manga/51493/Murasakiiro_no_Qualia), [I sold my life for ten thousand yen per year](https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de), [2001 Nights](https://myanimelist.net/manga/67/2001-ya_Monogatari).
 
->>> **u/Chelse-harn** [+4] *
+>>> **u/Chelse-harn** [+4]  (a day later)
 >>> 
 >>> Seconding Liar Game! It’s what first introduced/made me interested me in game theory/psychology years before I found the rationalist community. Also it’s completed
->>> 
 
->>> **u/iftttAcct2** [+2] *
+>>> **u/iftttAcct2** [+2]  (3 hours later)
 >>> 
 >>> Thanks for the recommendations :) I have a couple of those on my to-read list as light novels, which probably isn't that surprising. You should check out some of the ones I mentioned – Yatsubato! is often recommended as being easy for those to learn Jaapanese, though it sounds like you may be beyond that point.
->>> 
 
->>>> **u/onestojan** [+1] *
+>>>> **u/onestojan** [+1]  (4 hours later)
 >>>> 
 >>>> My manga reading list is outsourced, but I'll try to sneak in a few of yours ;) I'm yet to dip my toes into light novels apart from Eliezer Yudkowsky's "A Girl Corrupted by the Internet is the Summoned Hero" and "Dark Lord’s Answer". If you could recommend some that would fit this sub, I'd be grateful!
->>>> 
 
->>>>> **u/iftttAcct2** [+1] *
+>>>>> **u/iftttAcct2** [+1]  (4 hours later)
 >>>>> 
 >>>>> There aren't really any light novels that I can recommend as being rational. IMO, they're kind of by definition non-rational, being *light* reading.
->>>>> Unless you meant webnovels, fanfiction and other non-traditionally-publushed-fiction?
 >>>>> 
+>>>>> Unless you meant webnovels, fanfiction and other non-traditionally-publushed-fiction?
 
->>>>>> **u/onestojan** [+1] *
+>>>>>> **u/onestojan** [+1]  (4 hours later)
 >>>>>> 
 >>>>>> Good to know. I thought there were more rationalist light novels (like the ones written by Eliezer). I have the following on my reading list (mainly because the anime had some rational elements or I liked the story): [Spice & Wolf](https://myanimelist.net/manga/9115/Ookami_to_Koushinryou), [Log Horizon](https://myanimelist.net/manga/46024/Log_Horizon), [The Melancholy of Haruhi Suzumiya](https://myanimelist.net/manga/3083/Suzumiya_Haruhi_Series).
->>>>>> 
 
->> **u/generalamitt** [+3] *
+>> **u/generalamitt** [+3]  (a day later)
 >> 
 >> Suicide island (by the same author of Holyland).
->> All rounder meguru
 >> 
+>> All rounder meguru
 
->>> **u/iftttAcct2** [+1] *
+>>> **u/iftttAcct2** [+1]  (a day later)
 >>> 
 >>> Oh, I should pick All Rounder back up, I remember enjoying that one. I'll check out Suicide Island, thanks for the recommendation.
->>> 
 
->> **u/Charlie___** [+3] *
+>> **u/Charlie___** [+3]  (a day later)
 >> 
 >> Kaguya Wants To Be Confessed To, Psyren, Beelzebub, Prunus Girl, One Punch Man
->> Some older ones that are worth a look if you haven't read them: Historie, Angel Densetsu, Mushishi, Junji Ito's horror work
 >> 
+>> Some older ones that are worth a look if you haven't read them: Historie, Angel Densetsu, Mushishi, Junji Ito's horror work
 
->>> **u/iftttAcct2** [+1] *
+>>> **u/iftttAcct2** [+1]  (a day later)
 >>> 
 >>> Thanks for the suggestions, I keep hearing about Kaguya so I'll definitely check that out. Looks like I probably should've said 2011 rather than 2010 since I've read all the other ones you mention – but it's a good reminder to go back and finish them!
->>> 
 
->> **u/t3tsubo** [+3] *
+>> **u/t3tsubo** [+3]  (2 days later)
 >> 
 >> Qualia the Purple is a good rational/munchkin/sciencey manga. Quite unique actually.
->> 
 
->> **u/wilczek24** [+6] *
+>> **u/wilczek24** [+5]  (9 hours later)
 >> 
 >> "So I'm a spider, so what?" is absolutely amazing, it's actually told from a perspective of a spider, as the title may suggest. And I think it's done very well. One of my favourite worlds AND stories of the past few years for sure. I admit, I read the LN not the manga, but I heard that the manga is great too.
->> 
 
->> **u/dinoseen** [+2] *
+>> **u/dinoseen** [+2]  (9 hours later)
 >> 
 >> Burning Effect.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/iftttAcct2** [+2] *
+>>> **u/iftttAcct2** [+2]  (3 hours later)
 >>> 
 >>> Thanks for the recs! I do remember trying Kingdom back in the day. I don't think I stuck with it all that long.
->>> 
 
->> **u/nytelios** [+1] *
+>> **u/nytelios** [+1]  (9 hours later)
 >> 
 >> Low hanging fruit: [Full Metal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)?
->> I haven't read much manga after 2010 so I don't know the popularity timeline, but I've recently thought about finishing some manga that I enjoyed a lot:
->> [Dorohedoro](https://www.mangaupdates.com/series.html?id=209) - Very flavorful and memorable dungeon-punk worldbuilding and characters, though not rational. I need to actually finish it, but it was a quirky blend of grimdark comedy and lighthearted gore.
->> Pretty much anything by [Naoki Urasawa](https://www.mangaupdates.com/authors.html?id=115). Mostly thinking of [Pluto](https://www.mangaupdates.com/series.html?id=226), but Monster and 20th Century Boys were pretty great as well. Based off of Osamu Tezuka's Astro Boy universe, Pluto's a murder mystery from the perspective of robot detective Gesicht. Humanizing AI.
 >> 
+>> I haven't read much manga after 2010 so I don't know the popularity timeline, but I've recently thought about finishing some manga that I enjoyed a lot:
+>> 
+>> [Dorohedoro](https://www.mangaupdates.com/series.html?id=209) - Very flavorful and memorable dungeon-punk worldbuilding and characters, though not rational. I need to actually finish it, but it was a quirky blend of grimdark comedy and lighthearted gore.
+>> 
+>> Pretty much anything by [Naoki Urasawa](https://www.mangaupdates.com/authors.html?id=115). Mostly thinking of [Pluto](https://www.mangaupdates.com/series.html?id=226), but Monster and 20th Century Boys were pretty great as well. Based off of Osamu Tezuka's Astro Boy universe, Pluto's a murder mystery from the perspective of robot detective Gesicht. Humanizing AI.
 
-> **u/_brightwing** [+12]  *Feathered menace**
+> **u/_brightwing** [+10]  *Feathered menace* (4 hours later)
 > 
 > [Golden Treasure: The Great Green](https://store.steampowered.com/app/1065100/Golden_Treasure_The_Great_Green/)
-> One of the better CYOAs I have seen in some time. I just loved it.. From the worldbuilding behind the dragons, to each hand painted scene. Playing as a genuinely nonhuman character.. The mystery of human tribes emerging from the departed advanced civilization and their tech.. And well, being a *dragon*. I wish the death mechanics were less punishing and hunting can get tedious in the beginning.. But other than that I'm in my first playthrough and there is still much to explore. I went the compassion route, and in the next one I'm going full wisdom and focus on the mystery of the tech of the others.
 > 
+> One of the better CYOAs I have seen in some time. I just loved it.. From the worldbuilding behind the dragons, to each hand painted scene. Playing as a genuinely nonhuman character.. The mystery of human tribes emerging from the departed advanced civilization and their tech.. And well, being a *dragon*. I wish the death mechanics were less punishing and hunting can get tedious in the beginning.. But other than that I'm in my first playthrough and there is still much to explore. I went the compassion route, and in the next one I'm going full wisdom and focus on the mystery of the tech of the others.
 
->> **u/None** [+5] *
+>> **u/None** [+3]  (23 hours later)
 >> 
 >> There's a free demo out that I enjoyed for anyone who wants to sample it too. I think I'm going to buy the full game, it's a bit pricey for me but only because I usually buy games on massive sales like Humble Bundle.
->> 
 
->> **u/DraggonZ** [+2] *
+>> **u/DraggonZ** [+2]  (11 days later)
 >> 
 >> Thank you a lot for the recommendation. I'm enjoying the experience a lot.
->> 
 
->>> **u/_brightwing** [+1]  *Feathered menace**
+>>> **u/_brightwing** [+1]  *Feathered menace* (12 days later)
 >>> 
 >>> I'm glad you liked it. It's so rare to find gems like these.. How far along are you so far?
->>> 
 
->>>> **u/DraggonZ** [+1] *
+>>>> **u/DraggonZ** [+1]  (12 days later)
 >>>> 
 >>>> Just started the 3rd act. The Labyrinth of Wisdom was awesome, barring some minor issues. Time limits are harsh, but I think it adds realism and replayability.
->>>> 
 
-> **u/nytelios** [+11] *
+> **u/nytelios** [+11]  (10 hours later)
 > 
 > I'd like to thank /u/Sophronius and /u/Robert_Barlow for some *fantastic* recommendations over the past few weeks:
-> [Deep Red](https://forums.sufficientvelocity.com/threads/deep-red-avatar-the-last-airbender.50358/) (Avatar: The Last Airbender)
-> [Nemesis](https://forums.spacebattles.com/threads/nemesis-worm-au.747148/) (Worm)
-> [Let Me In 2](https://old.reddit.com/r/rational/comments/btahxu/rec_let_me_in_2_a_rational_vampire_fanfic/) (Let the Right One In / Let Me In)
-> Of the three, I'd say Deep Red and LMI2 scratch the rational fiction itch at just the right spot. Or maybe I have a thing for characters aspiring to be rational despite deep flaws in their thinking or struggling to balance rationality with emotion.
 > 
+> [Deep Red](https://forums.sufficientvelocity.com/threads/deep-red-avatar-the-last-airbender.50358/) (Avatar: The Last Airbender)
+> 
+> [Nemesis](https://forums.spacebattles.com/threads/nemesis-worm-au.747148/) (Worm)
+> 
+> [Let Me In 2](https://old.reddit.com/r/rational/comments/btahxu/rec_let_me_in_2_a_rational_vampire_fanfic/) (Let the Right One In / Let Me In)
+> 
+> Of the three, I'd say Deep Red and LMI2 scratch the rational fiction itch at just the right spot. Or maybe I have a thing for characters aspiring to be rational despite deep flaws in their thinking or struggling to balance rationality with emotion.
 
->> **u/Sophronius** [+7]  *The Need to Become Stronger**
+>> **u/Sophronius** [+7]  *The Need to Become Stronger* (18 hours later)
 >> 
 >> Ooh, rational avatar fanfiction? I'll have to check that out, thanks :D
->> I'm currently reading [The Dragon King's temple](https://www.fanfiction.net/s/7679074/1/The-Dragon-King-s-Temple) (Airbender/Stargate crossover, more cool and charming than rational), so I'm in the mood.
 >> 
+>> I'm currently reading [The Dragon King's temple](https://www.fanfiction.net/s/7679074/1/The-Dragon-King-s-Temple) (Airbender/Stargate crossover, more cool and charming than rational), so I'm in the mood.
 
->>> **u/dinoseen** [+3] *
+>>> **u/dinoseen** [+4]  (a day later)
 >>> 
 >>> Would you say that needs much knowledge of Stargate?
->>> 
 
->>>> **u/Sophronius** [+6]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+5]  *The Need to Become Stronger* (a day later)
 >>>> 
 >>>> I've never watched Stargate in my life, and I'm enjoying it so apparently not. I just pretend I'm observing things from Zuko/Toph's perspective, so it's natural for me not to understand any of the technology. :)
->>>> Besides, let's be honest: Intergalactic space soldiers who fight an ever-present alien threat with the aid of precursor technology doesn't sound all that unfamiliar, really.
 >>>> 
+>>>> Besides, let's be honest: Intergalactic space soldiers who fight an ever-present alien threat with the aid of precursor technology doesn't sound all that unfamiliar, really.
 
->>>>> **u/dinoseen** [+3] *
+>>>>> **u/dinoseen** [+3]  (a day later)
 >>>>> 
 >>>>> > Besides, let's be honest: Intergalactic space soldiers who fight an ever-present alien threat with the aid of precursor technology doesn't sound all that unfamiliar, really.
->>>>> Indeed, probably the reason I've never watched Stargate ;) I've been reading it and I've only had to look up a few things near the start, so I'd agree on SG knowledge not being needed.
 >>>>> 
+>>>>> Indeed, probably the reason I've never watched Stargate ;) I've been reading it and I've only had to look up a few things near the start, so I'd agree on SG knowledge not being needed.
 
->>> **u/Robert_Barlow** [+2] *
+>>> **u/Robert_Barlow** [+2]  (3 days later)
 >>> 
 >>> It looks well written, except for the inexplicable Japanese. It's pretty well established by the show that everyone in Avatar writes in some form of Chinese. I can buy that maybe the connection is in the anime-influenced style, but Japanese is probably just the language the author knew best.
->>> 
 
->>>> **u/Sophronius** [+3]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+3]  *The Need to Become Stronger* (3 days later)
 >>>> 
 >>>> He answers this in the second chapter.
->>>> I'd quote, but [fanfic.net](https://fanfic.net) won't let me copy text, and r/rational won't let me paste images, so....
 >>>> 
+>>>> I'd quote, but [fanfic.net](https://fanfic.net) won't let me copy text, and r/rational won't let me paste images, so....
 
->>>>> **u/Robert_Barlow** [+1] *
+>>>>> **u/Robert_Barlow** [+1]  (4 days later)
 >>>>> 
 >>>>> Yeah, I saw that after I commented. It's still annoying, but it's annoying by necessity.
->>>>> 
 
->>> **u/Flashbunny** [+3] *
+>>> **u/Flashbunny** [+3]  (2 days later)
 >>> 
 >>> Reciprocal question, do you need to have seen Avatar? I tried to watch it, but couldn't get past the first few episodes.
->>> 
 
->>>> **u/Dent7777** [+2]  *House Atreides**
+>>>> **u/Dent7777** [+2]  *House Atreides* (3 days later)
 >>>> 
 >>>> It is a children's show at the end of the day, but I have to say it is one of the best animated shows I've ever watched.
->>>> 
 
->>>> **u/Sophronius** [+4]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+5]  *The Need to Become Stronger* (2 days later)
 >>>> 
 >>>> Haha, same here. The thing with the penguin surfing was too stupid for even my brain to handle. I watched a lot of youtube clips though, so that might have helped. Still, there are only two Avatar characters in the story so far, so if you just remember that they are kung fu kids who can shoot fireballs/stone with their fists and feet you should be good.
->>>> 
 
->>>>> **u/Robert_Barlow** [+3] *
+>>>>> **u/Robert_Barlow** [+3]  (3 days later)
 >>>>> 
 >>>>> Are you telling me that four-armed penguin sledding *isn't* the coolest fucking thing in the world?
->>>>> 
 
->>>>> **u/sephirothrr** [+3] *
+>>>>> **u/sephirothrr** [+3]  (4 days later)
 >>>>> 
 >>>>> gotta remember that at its heart, it's still a show for children
->>>>> 
 
->>>>> **u/sibswagl** [+3] *
+>>>>> **u/sibswagl** [+3]  (5 days later)
 >>>>> 
 >>>>> You’ve probably gotten this before, but the show does get more serious. But it’s ultimately a kids show, which may just not be your thing.
->>>>> 
 
->> **u/Dent7777** [+3]  *House Atreides**
+>> **u/Dent7777** [+3]  *House Atreides* (3 days later)
 >> 
 >> Deep Red is too good to share, given that it is not completed. Shame on you, Shame!
->> 
 
->>> **u/nytelios** [+5] *
+>>> **u/nytelios** [+4]  (3 days later)
 >>> 
 >>> 'Tis better to have read and lost than never to have read at all?
->>> 
 
->>>> **u/Dent7777** [+2]  *House Atreides**
+>>>> **u/Dent7777** [+2]  *House Atreides* (3 days later)
 >>>> 
 >>>> I've already got up to date, it's been worth it so far.
->>>> 
 
->>>>> **u/nytelios** [+2] *
+>>>>> **u/nytelios** [+2]  (3 days later)
 >>>>> 
 >>>>> Author's working through some things, but live updates might be coming soonish.
->>>>> 
 
->>>>>> **u/Dent7777** [+1]  *House Atreides**
+>>>>>> **u/Dent7777** [+1]  *House Atreides* (3 days later)
 >>>>>> 
 >>>>>> Make no mistake, I'm a big fan of the fic. I really think that the main character is very well written and the story as a whole is detailed and rich while remaining faithful to the canon world and its characters.
->>>>>> 
 
-> **u/Lightwavers** [+9]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+9]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (19 minutes later)
 > 
 > So I’ve seen [Heretical Edge](https://ceruleanscrawling.wordpress.com/table-of-contents/) recommended here a few times, and a few arcs in it doesn’t look at all rational to me. I’d envision the Heretics to have more interaction with the normal one even if the muggles can’t remember it, maybe disguising those teleportation mirrors as powerful technology or something. I had good feelings about this story when the students were all given magic cockroaches and told to kill them for power, but this is never taken to its logical extent. Why aren’t there super powerful hunters going out and caging powerful Strangers so that you can have the students whack a bunch of them assembly-line style? The story explicitly shows that you only need to get the final hit. Also there’s no shown limit on how often the Heretical Edge can be used, why aren’t they getting as many people shoved in there as possible? More generally, the main character often just ... stands there while her team mates are getting wailed on. She’s supposed to be this experienced reporter who bluffs a drug lord into opening his safe. That opening was cool, and it promised good things; a hero-type who’s motivated to do the right thing and is unflappable in the face of danger. Except no, she then spends her time frozen while analyzing how her friends fight the Strangers for her, and then getting the totally-unearned final blow on a complete technicality. And no one takes issue with this. I mean, I’m glad the author didn’t go into teen drama territory, but someone questioning if that was actually fair and organizing the final blows so everyone gets roughly equal slices of power never happens. And the constant yelping gets annoying.
-> Sorry, that was a whole lot of nitpicking. I dropped the story, but it’s not bad, especially if you can put aside the implications of the premise and just go along with the story.
 > 
+> Sorry, that was a whole lot of nitpicking. I dropped the story, but it’s not bad, especially if you can put aside the implications of the premise and just go along with the story.
 
->> **u/Teulisch** [+9]  *Space Tech Support**
+>> **u/Teulisch** [+9]  *Space Tech Support* (37 minutes later)
 >> 
 >> I dropped it as well, but more because of the way the writing style was going. too many secrets that the reader is aware of, that dont get explained. too much forced combat-to-the-death too quickly. the pacing was wrong in a lot of ways. 
->> why is it so many stories are about teenagers in life-or-death fights that are mandated by the school? "oh, you have powers? great, your conscripted to a military academy fight club!" and then of course they make the adults idiots who no kid is going to talk to. there is an entire genere of this.
 >> 
+>> why is it so many stories are about teenagers in life-or-death fights that are mandated by the school? "oh, you have powers? great, your conscripted to a military academy fight club!" and then of course they make the adults idiots who no kid is going to talk to. there is an entire genere of this.
 
->>> **u/None** [+12] *
+>>> **u/None** [+13]  (5 hours later)
 >>> 
 >>> > why is it so many stories are about teenagers in life-or-death fights that are mandated by the school?
->>> The Watsonian reason is that, if you have a bunch of teenagers developing lethal powers, you absolutely are going to put them in a situation where they have to learn how to use them properly or die trying. It protects everyone else.
->>> The Doylist reason is because adolescence is the conceptual "hero's journey," and life-or-death struggles make a blatant framework for that. Ritualizing combat is a common metaphor for how kids feel as they're being shoved into a competitive social landscape.
 >>> 
+>>> The Watsonian reason is that, if you have a bunch of teenagers developing lethal powers, you absolutely are going to put them in a situation where they have to learn how to use them properly or die trying. It protects everyone else.
+>>> 
+>>> The Doylist reason is because adolescence is the conceptual "hero's journey," and life-or-death struggles make a blatant framework for that. Ritualizing combat is a common metaphor for how kids feel as they're being shoved into a competitive social landscape.
 
->> **u/Sonderjye** [+5] *
+>> **u/Sonderjye** [+5]  (8 hours later)
 >> 
 >> I agree with basically all of your criticism. The premise and setup for the world was really promising but it falls short on most rationality criteria. >!I agree that the lack of providing students carefully chosen monster powers on a regular basis is outright offensive, but the lack of kids from rich/powerful family who were fed choice powers from childhood makes me want to pull my hair out. !<
->> >!I also remain unconvinced about the motivation to hide the mother research/Fossor/Ammon from the relevant authorities, as well as the weird denial of human/stranger children and their ability to go underneath the radar.!<
->> How would you like to have the story go?
 >> 
+>> >!I also remain unconvinced about the motivation to hide the mother research/Fossor/Ammon from the relevant authorities, as well as the weird denial of human/stranger children and their ability to go underneath the radar.!<
+>> 
+>> How would you like to have the story go?
 
->>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (9 hours later)
 >>> 
 >>> At the least I’d like to see reasons why Heretics aren’t being made for maximum power and efficiency and the human world isn’t being given (even disguised) magic. Preferably though the story would go into full HPMOR territory, where either the school *wants* to uplift the regular world but can’t for some reason, or the school is a relic of the past that doesn’t even exist anymore because the Strangers won and the main character stumbles across the ruins and accidentally uses the Heretical Edge, becoming an instant target from every Stranger out there.
->>> 
 
->>>> **u/dinoseen** [+2] *
+>>>> **u/dinoseen** [+2]  (10 hours later)
 >>>> 
 >>>> There are reasons later on for most of your problems. It would be a huge spoiler to reveal any of them though, since it's basically a huge conspiracy the story is centred around.
->>>> 
 
->>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (10 hours later)
 >>>>> 
 >>>>> Would you say those reasons hold up under scrutiny?
->>>>> 
 
->>>>>> **u/dinoseen** [+2] *
+>>>>>> **u/dinoseen** [+2]  (10 hours later)
 >>>>>> 
 >>>>>> Definitely. Obviously not every little thing is going to be addressed, but what I feel are the major gripes definitely are IMO.
->>>>>> 
 
->>>>> **u/Sonderjye** [+1] *
+>>>>> **u/Sonderjye** [+1]  (6 days later)
 >>>>> 
 >>>>> I read further based on this comment and I remain unconvinced. >!They learn that their entire institute is founded by what essentially are brain controlling parasites with no way of telling who is controlled, and their immediate responds isn't to get the fuck out of there but instead just to totally ignore it. Am I missing something here?!<
->>>>> 
 
->>>>>> **u/dinoseen** [+1] *
+>>>>>> **u/dinoseen** [+1]  (6 days later)
 >>>>>> 
 >>>>>> It's been a while but I really don't remember them ignoring it. To me it seemed as if they'd draw more attention to themselves by leaving than by pretending that things are alright.
->>>>>> 
 
->>>>>>> **u/Sonderjye** [+1] *
+>>>>>>> **u/Sonderjye** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> They don't even discuss leaving. They just sort of shrug and move on.
->>>>>>> 
 
->>>>>>>> **u/dinoseen** [+1] *
+>>>>>>>> **u/dinoseen** [+1]  (6 days later)
 >>>>>>>> 
 >>>>>>>> Huh. That seems pretty bad, but I can't remember reacting the same way to it. I don't know. Maybe the story really just isn't for you. I would say it's still worth it, but it's been a while since I've read where you are so I'm not much of an authority on that.
->>>>>>>> 
 
->> **u/CreationBlues** [+2] *
+>> **u/CreationBlues** [+2]  (12 hours later)
 >> 
 >> I quit due to a couple reasons, one of them being that the mc is on a super secret, so secret explaining it spoils half the twists up to that point, station with a bunch of kids. MC's attending a class with the kids, and Super Bad Ass General Spy From All The Wars (seriously, explaining her backstory would spoil the other half of the twists up to this point), who's telling the class about some piece of history.
->> Proceed MC to have a dialogue with this character, completely ignoring everyone else in this room, with no one batting an eyelash.
 >> 
+>> Proceed MC to have a dialogue with this character, completely ignoring everyone else in this room, with no one batting an eyelash.
 
-> **u/Shaolang** [+8] *
+> **u/Shaolang** [+8]  (3 days later)
 > 
 > Is there any fanfiction of Star Wars where Anakin doesn't turn to the dark side?   Anakin either listens to Mace originally to not interfere or chooses to save Mace and kill Palpatine at the turning point.
-> 
 
-> **u/symmetry81** [+5] *
+> **u/symmetry81** [+6]  (10 hours later)
 > 
 > Something I figured I'd ask about here and which is at least tangentially related to this sub's purpose.  What are good works of fiction where you were able to figure out fundamental aspects of the setting long before they were revealed?  I'm thinking of stuff like *Last Exile* where >!you can figure out that everybody is living on a generation ship half way through!< or *Unicorn Jelly* where >!what's happening with the catastrophe has had to have happened many times before!<.
-> 
 
->> **u/Watchful1** [+2] *
+>> **u/Watchful1** [+2]  (a day later)
 >> 
 >> I liked Isaac Asimov's Nightfall. It's a bit dated, being one of Asimov's earlier works, but it's an interesting story and a good introduction to him if you haven't read his stories before.
->> http://www.astro.sunysb.edu/fwalter/AST389/TEXTS/Nightfall.htm
 >> 
+>> http://www.astro.sunysb.edu/fwalter/AST389/TEXTS/Nightfall.htm
 
->> **u/daydev** [+1] *
+>> **u/daydev** [+1]  (11 days later)
 >> 
 >> The best moment I think I had was with [The Steerswoman Series](https://www.goodreads.com/series/43723-the-steerswoman) where at first I was like "here we go, another author doesn't understand basic [name of science possible spoiler]", but then I was like "oooh". I don't know if it's what you had in mind, actually, the whole series is built on this dramatic irony of sorts where the focus of the story is the characters trying to figure out what's going on with their world, but the reader's understanding is far ahead of the characters thanks to getting various references, knowing modern science, and such. The premise is neat, but I found the actual books a bit meh, by the way, so this is not necessarily an endorsement.
->> 
 
-> **u/hashblunt** [+10] *
+> **u/hashblunt** [+10]  (3 hours later)
 > 
 > I really enjoyed [Nemisis](https://forums.spacebattles.com/threads/nemesis-worm-au.747148/) a Worm AU recommended here a couple weeks ago featuring Taylor as a humor villain. It hasn't updated in the last couple weeks, anything similar that I might want to check out?
-> 
 
->> **u/over_who** [+10]  *Aleph you are going to die**
+>> **u/over_who** [+9]  *Aleph you are going to die* (4 hours later)
 >> 
 >> If you’re in it for the tropes, try [THE TECHNO QUEEN](https://forums.spacebattles.com/threads/the-techno-queen-iii.311201/). It is not at all rational, but it is very hammy.
->> 
 
->>> **u/Anderkent** [+2] *
+>>> **u/Anderkent** [+2]  (2 days later)
 >>> 
 >>> Is there a version with a reader mode or something where you don't have to keep going back to the first page to switch chapters?
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (2 days later)
 >>>> 
 >>>> Not for older posts before the threadmark system, since TQ is locked it'll never get updated to use the system either.
->>>> If you're not on mobile I've found then least intrusive way to read things without threadmarks is to open a new browser window and then open each chapter in it's own tab. You can then swap between chapters by using ctrl+page-up and ctl+page-down (assuming you're on Windows with Chrome).
 >>>> 
+>>>> If you're not on mobile I've found then least intrusive way to read things without threadmarks is to open a new browser window and then open each chapter in it's own tab. You can then swap between chapters by using ctrl+page-up and ctl+page-down (assuming you're on Windows with Chrome).
 
->>>>> **u/Anderkent** [+1] *
+>>>>> **u/Anderkent** [+1]  (3 days later)
 >>>>> 
 >>>>> I might just write a script to scrape this into an epub if it looks interesting after the first book :P
->>>>> 
 
->>>>>> **u/ahasuerus_isfdb** [+2] *
+>>>>>> **u/ahasuerus_isfdb** [+2]  (3 days later)
 >>>>>> 
 >>>>>> FanFicFare is usually able to process pre-threadmark posts, including The Techno Queen, seamlessly. I have only used the version of FanFicFare that is distributed as a Calibre plugin, but I assume that the standalone version has the same functionality.
->>>>>> 
 
->>>> **u/over_who** [+1]  *Aleph you are going to die**
+>>>> **u/over_who** [+1]  *Aleph you are going to die* (2 days later)
 >>>> 
 >>>> Not to my knowledge
->>>> 
 
->> **u/RetardedWabbit** [+1] *
+>> **u/RetardedWabbit** [+1]  (3 days later)
 >> 
 >> Great recommendation, sealed the deal for me with "Bumbledore"!
->> 
 
-> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+> **u/MagicWeasel** [+3]  *Cheela Astronaut* (2 hours later)
 > 
 > I have been reading a collection of Ray Bradbury short stories and The Murderer ([fulltext link](http://www.sediment.uni-goettingen.de/staff/dunkl/zips/The-Murderer.pdf), sorry it's in columns but this is all I could find online) was very prescient for something written in the 50s. If written today it'd be a garden variety "what if phones, but too much?" short story, but its age really makes it remarkable. A quick read, totally worth it.
-> 
 
->> **u/I_Probably_Think** [+2] *
+>> **u/I_Probably_Think** [+2]  (12 hours later)
 >> 
 >> "The Murderer" was definitely as you described! The footnotes with definitions in that link are a bit intrusive though.
->> 
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (14 hours later)
 >>> 
 >>> Sorry about that - I've got it in dead tree version so didn't need to have a proper look through it. Glad you enjoyed it - I was honestly gobsmacked that Bradbury envisioned something like our modern hyper connected culture. 
->>> Though I'm not about to put chocolate ice cream on any of my devices ;).
 >>> 
+>>> Though I'm not about to put chocolate ice cream on any of my devices ;).
 
->> **u/meterion** [+2] *
+>> **u/meterion** [+2]  (19 hours later)
 >> 
 >> Very nice, hits the nail right about on the head, even down to the internet of things, lol. It's a bit odd how the footnotes are used for vocabulary definitions, but I guess the version you linked is used for teaching kids or something.
->> 
 
->>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (21 hours later)
 >>> 
 >>> Or it's just helping with the 1950s vocabulary? My version is bilingual (French/English pages facing one another, with english vocab notes in the footer) and there were some English words in the notes that I didn't understand without reading the footnote!
->>> What I found unsettling is I was empathising with the "weird future" characters a lot - like the wife who panicked if her husband didn't tell her he was on the way home, that's the sort of thing that I do sometimes, but I think at the time the wife would be considered to be going way too far. Looks like we definitely do live in weirdtopia! 😂
 >>> 
+>>> What I found unsettling is I was empathising with the "weird future" characters a lot - like the wife who panicked if her husband didn't tell her he was on the way home, that's the sort of thing that I do sometimes, but I think at the time the wife would be considered to be going way too far. Looks like we definitely do live in weirdtopia! 😂
 
->>>> **u/meterion** [+3] *
+>>>> **u/meterion** [+3]  (a day later)
 >>>> 
 >>>> That’s fair, I just wouldn’t consider any of those words to really be “1950’s” words, if you get my drift. There’s no slang or cultural references (beyond the CRT being an outdated technology), just typical English test vocabulary. And yeah! That panic over not being to connect to everyone reminded me personally of parents who get anxious whenever their kids can’t be found with GPS location apps, either due to signal or deliberately putting it on airplane mode.
->>>> 
 
-> **u/Gworn** [+3] *
+> **u/Gworn** [+3]  (3 days later)
 > 
 > I want to recommend [Magna Graecia: Titanomachia \(A City State Quest\)](https://forums.sufficientvelocity.com/threads/magna-graecia-titanomachia-a-city-state-quest.55040/).
-> It's about an alternative history where the citizens of the greek [polis](https://en.wikipedia.org/wiki/Polis) of [Eretria](https://en.wikipedia.org/wiki/Eretria) fled to southern Italy when their city is sacked by Persia. There they found a new city where [Bari](https://en.wikipedia.org/wiki/Bari) is today. We're currently around 420 BC (so 70 years later).
-> The audience in the thread play the citizens of the polis who vote on the policies that should be pursued. This means there is a much better connection between what is happening inside and outside the story than in other quests.
-> This quest is not in any way specifically rational, but it is very well researched and very well run. Highly recommended, especially if you've never participated in a quest before. There is a hotly debated issue in almost every vote. (It's still extremely civil *for a quest*.)
 > 
+> It's about an alternative history where the citizens of the greek [polis](https://en.wikipedia.org/wiki/Polis) of [Eretria](https://en.wikipedia.org/wiki/Eretria) fled to southern Italy when their city is sacked by Persia. There they found a new city where [Bari](https://en.wikipedia.org/wiki/Bari) is today. We're currently around 420 BC (so 70 years later).
+> 
+> The audience in the thread play the citizens of the polis who vote on the policies that should be pursued. This means there is a much better connection between what is happening inside and outside the story than in other quests.
+> 
+> This quest is not in any way specifically rational, but it is very well researched and very well run. Highly recommended, especially if you've never participated in a quest before. There is a hotly debated issue in almost every vote. (It's still extremely civil *for a quest*.)
 
-> **u/SoylentRox** [+6] *
+> **u/SoylentRox** [+3]  (a day later)
 > 
 > Harry Potter and the Secret of the Patronus.
-> &#x200B;
-> Why do I want to read it?  I started the story, and in the very first chapter, I see this gem:
-> *The world isn't big enough for everyone to be young and immortal forever. Even after exhausting every esoteric and obscure form of magic known to Wizardry, there's simply not enough food and not enough space*
-> &#x200B;
-> This is utterly retarded and no intelligent character could conclude this.  Young != Reproductively Fertile.  *Obviously* if there was a mechanism to reverse aging and to make everyone presently alive their optimal biological self, anyone who wasn't an utter moron would put some limiters to at least *reduce* fertility temporarily until a longer term system is figured out.  Or, at least, if this was the objection and the alternative was to keep letting millions of people turn into corpses every single year.
-> &#x200B;
-> Sure, the rest of Harry's reasons make sense, but this one is so utterly stupid that I kind of haven't finished the first chapter.  Why should I keep reading?
 > 
+> &#x200B;
+> 
+> Why do I want to read it?  I started the story, and in the very first chapter, I see this gem:
+> 
+> *The world isn't big enough for everyone to be young and immortal forever. Even after exhausting every esoteric and obscure form of magic known to Wizardry, there's simply not enough food and not enough space*
+> 
+> &#x200B;
+> 
+> This is utterly retarded and no intelligent character could conclude this.  Young != Reproductively Fertile.  *Obviously* if there was a mechanism to reverse aging and to make everyone presently alive their optimal biological self, anyone who wasn't an utter moron would put some limiters to at least *reduce* fertility temporarily until a longer term system is figured out.  Or, at least, if this was the objection and the alternative was to keep letting millions of people turn into corpses every single year.
+> 
+> &#x200B;
+> 
+> Sure, the rest of Harry's reasons make sense, but this one is so utterly stupid that I kind of haven't finished the first chapter.  Why should I keep reading?
 
->> **u/KilotonDefenestrator** [+5] *
+>> **u/KilotonDefenestrator** [+6]  (2 days later)
 >> 
 >> Besides, not enough food & space is solvable, *especially* if you have magic. 
->> But even without magic, we could probably have an Earth population in the trillions at the cost of living in 200 story apartment complexes and eating food grown in vats, vertical farms or created from insect protein.  
->> I'd rather do that than die though.
 >> 
+>> But even without magic, we could probably have an Earth population in the trillions at the cost of living in 200 story apartment complexes and eating food grown in vats, vertical farms or created from insect protein.  
+>> 
+>> I'd rather do that than die though.
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (a day later)
 >> 
 >> I haven't read the story, but real-world fertility limitation would be difficult to implement.  China had a hell of a time just restricting it to one child, and one child in a population of virtual immortals would increase the population by almost fifty percent every generation (depending on assumptions concerning pair bonding, heterosexuality, murder and accident rates, etc.).  People have kids for a number of reasons.  Poor people who can't find a way to improve their status, and who you'd think would be strongly motivated to live within their means, don't.  It's not, from what I understand, a matter of not knowing about birth control, or lacking access to it; it's just that if you're stuck doing miserable unfulfilling work, living in a dump, and being regarded as a loser, having a kid can seem like your one shot at happiness.
->> &#x200B;
->> Even if you eliminate that as a consideration thanks to magical post-scarcity and perfect social engineering, the desire to have and raise a family is very deep-rooted, by both tradition and biology.  A population that doesn't suffer natural death would have to have very close to no kids whatever.  As conceiving children is extremely easy for most people, and perpetually young people would have perpetually young libidos, you'd need, I guess, drastic alterations of human nature, or something like a police state.  Actually, just the second one, because you'd need a police state to enforce extreme mods of human physiology and behavior.  Or so I think.
 >> 
+>> &#x200B;
+>> 
+>> Even if you eliminate that as a consideration thanks to magical post-scarcity and perfect social engineering, the desire to have and raise a family is very deep-rooted, by both tradition and biology.  A population that doesn't suffer natural death would have to have very close to no kids whatever.  As conceiving children is extremely easy for most people, and perpetually young people would have perpetually young libidos, you'd need, I guess, drastic alterations of human nature, or something like a police state.  Actually, just the second one, because you'd need a police state to enforce extreme mods of human physiology and behavior.  Or so I think.
 
->>> **u/Izeinwinter** [+7] *
+>>> **u/Izeinwinter** [+6]  (3 days later)
 >>> 
 >>> Try following the math of a one child + absolute immortality policy to the end. 
 >>> Because the result is *not* an infinite population. This is entirely classical Xenos paradox - the total population will end up being twice what you started with minus one (and the unlucky person who makes up the entirety of the final generation never gets to have a child because you cant have half a child)
->>> 
 
->>>> **u/sephirothrr** [+1] *
+>>>> **u/sephirothrr** [+1]  (4 days later)
 >>>> 
 >>>> Uh, that's not really ***Z***eno's paradox at all, just a converging infinite  sum.
->>>> 
 
->>> **u/Sonderjye** [+3] *
+>>> **u/Sonderjye** [+3]  (2 days later)
 >>> 
 >>> I got two main counterarguments.
->>> First, the  world wide birth rate have fallen from around 2.5 to 1.2(per person) over a 50 year period. This downwards trend seems to continue.
->>> Second, we just need a birth rate of less than 1 per person to never go above a finite maximum. If this is confusing look at geometric series. The birth rate in Europe is just short of 0.8 per person. Assuming that everyone lives forever and every new generation keeps the same birth rate, we will never become more than 5 times the number of people currently in Europe, not counting migration. That is a lot yes but solvable in the long term.
 >>> 
+>>> First, the  world wide birth rate have fallen from around 2.5 to 1.2(per person) over a 50 year period. This downwards trend seems to continue.
+>>> 
+>>> Second, we just need a birth rate of less than 1 per person to never go above a finite maximum. If this is confusing look at geometric series. The birth rate in Europe is just short of 0.8 per person. Assuming that everyone lives forever and every new generation keeps the same birth rate, we will never become more than 5 times the number of people currently in Europe, not counting migration. That is a lot yes but solvable in the long term.
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (2 days later)
 >>>> 
 >>>> Not following the second bit.  Number increases at the same rate indefinitely, is not subtracted from, but has a fixed ceiling?  Could you elaborate?  I have no math background to speak of.
->>>> 
 
->>>>> **u/Sonderjye** [+5] *
+>>>>> **u/Sonderjye** [+4]  (2 days later)
 >>>>> 
 >>>>> Of course. You start out with a population of 1 unit, defining unit however you. Suppose these guys live forever and they have on average 0.8 kid per person. The population now is 1+0.8=1.8 with 1 of them already having had a kid and 0.8 not having had a kid. The 0.8 go through adolescent and also want kids at the same rate. That results in 0.8\*0.8=0.64 born children for a total of 1+0.8+0.64=2.44. The following generation then is 0.64\*0.8=0,5 for a total of 1+0.8+0.64+0.5=3ish.
->>>>> As this process continues the childless/new generation gets smaller and smaller, and even as time continues forever you will never get over 5. \[Here\]([https://imgur.com/a/rYJMij1](https://imgur.com/a/rYJMij1)) is a plot to show you what I mean. You see the population of 1.8, 2.44, 3. Notice that while the total population always increases, it's rate of increasing is decreasing an it never goes above 5. I just chose 50 years to make things visible but trust me that we could see this go for thousands of generations and the total population multiple still wouldn't go above 5.
->>>>> Does that make some sense?
 >>>>> 
+>>>>> As this process continues the childless/new generation gets smaller and smaller, and even as time continues forever you will never get over 5. \[Here\]([https://imgur.com/a/rYJMij1](https://imgur.com/a/rYJMij1)) is a plot to show you what I mean. You see the population of 1.8, 2.44, 3. Notice that while the total population always increases, it's rate of increasing is decreasing an it never goes above 5. I just chose 50 years to make things visible but trust me that we could see this go for thousands of generations and the total population multiple still wouldn't go above 5.
+>>>>> 
+>>>>> Does that make some sense?
 
->>>>>> **u/RedSheepCole** [+2] *
+>>>>>> **u/RedSheepCole** [+2]  (2 days later)
 >>>>>> 
 >>>>>> Yes, thank you.  It seems the effect would require less than 1 person per couple on average, yes?  So .9 would work to a lesser degree, .95 even less so, 1 not at all, and anything over 1 Malthusian doom at varying rates.  How would you counteract Darwin?  This is an average, I gather, and people tend to adopt their parents' values, so it doesn't seem like you could count on that .8 remaining stable.  Even a small fluctuation would add up in a big way over generations.
->>>>>> 
 
->>>>>>> **u/Sonderjye** [+2] *
+>>>>>>> **u/Sonderjye** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> Yes you are current. We will reach a finite maximum as long as the rate is less than 1 child per person, that maxmimum is just going to be higher at a 0.95 an 0.9 rate than a 0.8 rate. 
->>>>>>> Did you see my first point? The fertility rate have halved in 50 years and is still going down, especially in high technology countries. That leads me to believe that the fertility rate is going to drop further once technology improves in low technology countries. What exactly is your evidence that the rate will increase? Claiming that people will do as their parents isn't a strong argument when people in fact haven't been doing as their parents for these last 50+ years, at least in relation to number of chilren.
 >>>>>>> 
+>>>>>>> Did you see my first point? The fertility rate have halved in 50 years and is still going down, especially in high technology countries. That leads me to believe that the fertility rate is going to drop further once technology improves in low technology countries. What exactly is your evidence that the rate will increase? Claiming that people will do as their parents isn't a strong argument when people in fact haven't been doing as their parents for these last 50+ years, at least in relation to number of chilren.
 
->>>>>>>> **u/RedSheepCole** [+1] *
+>>>>>>>> **u/RedSheepCole** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> I'll concede that it might not in a fantasy world where mass immortality is feasible, though I expect immortality would introduce its own liabilities--if it's been forty-two years and your baby is all grown up and out of the house, but your body is in most respects physiologically capable of having another, the wistful urge to snuggle again is going to be pretty powerful.  If you're basically twenty-one, physically, but have years of experience raising kids, you're in great shape to have another.
->>>>>>>> &#x200B;
->>>>>>>> I say this as someone who has never been to Europe and knows little of its contemporary culture, but does have a new baby around and thus has a perfect opportunity to watch its melting effect on the female brain.  People have strong biological impulses to have kids, and today's culture is weird, still fresh from the shakeup of modern birth control and the attendant sexual revolution.  I'm skeptical of the idea that it's going to last, but admittedly that's because in our world it's long-term dysfunctional and will have to change one way or another.  1.8 TFR is usually touted as the replacement figure, but your figure is per person, not per woman.  Would .8 be more like a 1.6 TFR?  I'm sure the math doesn't translate exactly because not everyone's monogamous, etc.
 >>>>>>>> 
+>>>>>>>> &#x200B;
+>>>>>>>> 
+>>>>>>>> I say this as someone who has never been to Europe and knows little of its contemporary culture, but does have a new baby around and thus has a perfect opportunity to watch its melting effect on the female brain.  People have strong biological impulses to have kids, and today's culture is weird, still fresh from the shakeup of modern birth control and the attendant sexual revolution.  I'm skeptical of the idea that it's going to last, but admittedly that's because in our world it's long-term dysfunctional and will have to change one way or another.  1.8 TFR is usually touted as the replacement figure, but your figure is per person, not per woman.  Would .8 be more like a 1.6 TFR?  I'm sure the math doesn't translate exactly because not everyone's monogamous, etc.
 
->>>>>>>>> **u/Sonderjye** [+1] *
+>>>>>>>>> **u/Sonderjye** [+1]  (6 days later)
 >>>>>>>>> 
 >>>>>>>>> So the argument is that if you remained twenty something for eternity then you would continually want more children? It's possible but I don't see a compelling reason. You would definitely want sex but fortunately there exists reversible ways of becoming infertile.
->>>>>>>>> Yes yes, I know that TFR is given per woman. In 2015 the TFR in Europe was 1.58 which is approximately 0.8 child per person. I personally like per person better because it's easier for the lay person to understand. 1 child per person and 2 child per woman is roughly equivalent, and we just need a rate of children less than any of these numbers.
->>>>>>>>> The thing is that the current TFR does account for the strong biological urge to have children. The only compelling argument (assuming the absence of a total society restructuring) I see for why the TFR might rise is that the children of people who reproduce more probably also have a tendency to reproduce more, however this assumes that parents have a stronger influence on personal fertility rate than societal incentives which I am not convinced is true.
 >>>>>>>>> 
+>>>>>>>>> Yes yes, I know that TFR is given per woman. In 2015 the TFR in Europe was 1.58 which is approximately 0.8 child per person. I personally like per person better because it's easier for the lay person to understand. 1 child per person and 2 child per woman is roughly equivalent, and we just need a rate of children less than any of these numbers.
+>>>>>>>>> 
+>>>>>>>>> The thing is that the current TFR does account for the strong biological urge to have children. The only compelling argument (assuming the absence of a total society restructuring) I see for why the TFR might rise is that the children of people who reproduce more probably also have a tendency to reproduce more, however this assumes that parents have a stronger influence on personal fertility rate than societal incentives which I am not convinced is true.
 
->>>>>>>>>> **u/RedSheepCole** [+1] *
+>>>>>>>>>> **u/RedSheepCole** [+1]  (6 days later)
 >>>>>>>>>> 
 >>>>>>>>>> My intended point was not that you would continually want more children, but that you would have obvious opportunities to do so.  Many, many people find it fulfilling to raise children, and while the elimination of the biological clock reduces the pressure, it also removes the limit.  I would argue that a good part of the reduction in fertility is tied to women's lib and the increasing presence of women in the workplace; women are effectively forced to choose between building careers and building families, much of the time.  By the time they've built up the professional life they want, they're past peak fertility and may not have a partner they want to settle down with, or the energy reserves to contemplate eighteen years of parenting.  This is leaving out issues like declining male fertility and innate fertility problems in many women, which would presumably be fixable with advancing tech.
->>>>>>>>>> If women can be in childbearing condition forever, that door is never locked shut permanently.  They don't have to worry about mutational load from age, or declining fertility, or dealing with teenagers during menopause.  All of that's gone.  A sixty-eight-year-old woman would presumably be just as potentially fertile as a teenager, and look forward to being vigorous, spry and alert for many, many years.
->>>>>>>>>> Now, all this would entail such a profound restructuring of society that it's hard to imagine clearly what the finished situation would look like.  Probably society would be much more atomized, at the least, which is generally bad.  People are social animals, and the effective death of family life might manifest some truly weird coping mechanisms.  But I don't think it's safe to assume that current patterns would hold, no.
 >>>>>>>>>> 
+>>>>>>>>>> If women can be in childbearing condition forever, that door is never locked shut permanently.  They don't have to worry about mutational load from age, or declining fertility, or dealing with teenagers during menopause.  All of that's gone.  A sixty-eight-year-old woman would presumably be just as potentially fertile as a teenager, and look forward to being vigorous, spry and alert for many, many years.
+>>>>>>>>>> 
+>>>>>>>>>> Now, all this would entail such a profound restructuring of society that it's hard to imagine clearly what the finished situation would look like.  Probably society would be much more atomized, at the least, which is generally bad.  People are social animals, and the effective death of family life might manifest some truly weird coping mechanisms.  But I don't think it's safe to assume that current patterns would hold, no.
 
->>>>>>> **u/sephirothrr** [+1] *
+>>>>>>> **u/sephirothrr** [+1]  (4 days later)
 >>>>>>> 
 >>>>>>> Keep in mind that the two of you are saying different things - it's one child per **person** that's the limit, not one child per **couple**.
->>>>>>> 
 
->>>>>>>> **u/Sonderjye** [+1] *
+>>>>>>>> **u/Sonderjye** [+1]  (6 days later)
 >>>>>>>> 
 >>>>>>>> Thank you for pointing that out. We'll of course reach the finite maximum if we have less than two children per woman/couple.
->>>>>>>> 
 
->>> **u/GeneralExtension** [+1] *
+>>> **u/GeneralExtension** [+1]  (5 days later)
 >>> 
 >>> >I haven't read the story, but real-world fertility limitation would be difficult to implement.
->>> Depends on how the immortality works.
->>> >*The world isn't big enough for everyone to be young and immortal forever.* 
->>> That depends on what you mean by "young".
 >>> 
+>>> Depends on how the immortality works.
+>>> 
+>>> >*The world isn't big enough for everyone to be young and immortal forever.* 
+>>> 
+>>> That depends on what you mean by "young".
 
->>> **u/SoylentRox** [-1] *
+>>> **u/SoylentRox** [-2]  (a day later)
 >>> 
 >>> > I haven't read the story, but real-world fertility limitation would be difficult to implement.
->>> Wait, what?  Sigh.  
->>> Ok, so do you even have a vague idea of how human biology works?  Because if you did, you wouldn't post such nonsense.
->>> In order for a male or a female human to conceive a child, it's an extremely complex process.  Thousands of things have to go right.  If any one thing at a critical step goes wrong, it will never, ever work.
->>> Sooo....this is a society where the technology exists, whether it be through a magic spell, nanomachines, or lots of careful genetic edits using a tool like CRISPR.  Anyways, it would be extremely straightforward for the doctors(s) and AIs or magicians or whatever who are processing each patient, restoring their youth and rebuilding their bodies, to break just one tiny thing, making them infertile.
->>> There are countless things that could get broken.  One tiny gene in specific cells in the testes would make a man completely infertile.  Tiny changes to monthly cycles in a woman to just reduce fertility, not eliminate.  One tiny gene in every egg in a woman would make her completely infertile.
->>> Sure, this tweak can get undone.  You know, by wizards or someone with a license to control nanomachines or with very specialized equipment and knowledge.  But it's not going to come undone by accident, and people can have as much sex as they want, this will never fail on it's own. 
->>> At which point, a society trying to keep population levels down to what their available resources can handle merely needs to license/restrict the equipment and people doing the rebuilds.
->>> This is nothing like China's one child policy, where they had a corrupt government and the resources of a third world country to police it.
 >>> 
+>>> Wait, what?  Sigh.  
+>>> 
+>>> Ok, so do you even have a vague idea of how human biology works?  Because if you did, you wouldn't post such nonsense.
+>>> 
+>>> In order for a male or a female human to conceive a child, it's an extremely complex process.  Thousands of things have to go right.  If any one thing at a critical step goes wrong, it will never, ever work.
+>>> 
+>>> Sooo....this is a society where the technology exists, whether it be through a magic spell, nanomachines, or lots of careful genetic edits using a tool like CRISPR.  Anyways, it would be extremely straightforward for the doctors(s) and AIs or magicians or whatever who are processing each patient, restoring their youth and rebuilding their bodies, to break just one tiny thing, making them infertile.
+>>> 
+>>> There are countless things that could get broken.  One tiny gene in specific cells in the testes would make a man completely infertile.  Tiny changes to monthly cycles in a woman to just reduce fertility, not eliminate.  One tiny gene in every egg in a woman would make her completely infertile.
+>>> 
+>>> Sure, this tweak can get undone.  You know, by wizards or someone with a license to control nanomachines or with very specialized equipment and knowledge.  But it's not going to come undone by accident, and people can have as much sex as they want, this will never fail on it's own. 
+>>> 
+>>> At which point, a society trying to keep population levels down to what their available resources can handle merely needs to license/restrict the equipment and people doing the rebuilds.
+>>> 
+>>> This is nothing like China's one child policy, where they had a corrupt government and the resources of a third world country to police it.
 
->>>> **u/RedSheepCole** [+5] *
+>>>> **u/RedSheepCole** [+5]  (2 days later)
 >>>> 
 >>>> I'm referring to the political and social difficulties, not technical.  I work in a pharmacy, and I'm aware of how easy it is to disrupt fertility.  You're being a touch more combative than necessary.
->>>> 
 
->>>>> **u/SoylentRox** [+3] *
+>>>>> **u/SoylentRox** [+3]  (2 days later)
 >>>>> 
 >>>>> Because an inconvenience in governments long term plans seems to pale from losing millions of citizens to death every year.  It seems like a reasonable thing to stop the dying but sterilize the recipients of treatment.  Then work out a long term plan.
->>>>> 
 
->>>>>> **u/RedSheepCole** [+2] *
+>>>>>> **u/RedSheepCole** [+2]  (2 days later)
 >>>>>> 
 >>>>>> We're having two different arguments here.  Assuming government continues to be by the consent of the governed, one way or another, you're going to have to enforce this idea that people can be immortal but can't have kids (or have to accept strict fertility limits).  I suspect this would be extremely difficult at best, because many people rather like having families, to put it mildly--infertile Americans will spend tens of thousands on IVF or adoption fees--and human beings by and large do not make decisions based on Kantian can-my-behavior-be-universalized logic.  Nor on long-term sustainability.  Unless the infertility is a natural side effect of the immortality, people will work tirelessly to dodge restrictions one way or another, and either kick the can down the road or offload costs onto people they don't care about.
->>>>>> &#x200B;
->>>>>> This could be the springboard for any number of fascinating and probably dystopian fantasy worlds, but I don't want to get into all that right now.
 >>>>>> 
+>>>>>> &#x200B;
+>>>>>> 
+>>>>>> This could be the springboard for any number of fascinating and probably dystopian fantasy worlds, but I don't want to get into all that right now.
 
->>>>>>> **u/SoylentRox** [+1] *
+>>>>>>> **u/SoylentRox** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> That's fine.  Obviously in that scenario, the consent of the governed can't prevent the country from eventually reaching it's population capacity.
->>>>>>> But...this will happen regardless of whether people live short, mayfly like lives or they live an average of more than 1000 years each.
 >>>>>>> 
+>>>>>>> But...this will happen regardless of whether people live short, mayfly like lives or they live an average of more than 1000 years each.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (2 days later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/SoylentRox** [+1] *
+>>>>> **u/SoylentRox** [+1]  (2 days later)
 >>>>> 
 >>>>> Tough to do if 300 years later most of the natives are still alive.  Remember, if humans didn't die from old age, but still died from all other causes at the same rates (obviously unrealistic), the average life expectancy would be over 1000 years.
->>>>> 
 
 ---
 

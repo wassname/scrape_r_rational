@@ -2,7 +2,7 @@
 
 * Author: u/Izeinwinter *
 * URL: https://www.reddit.com/r/rational/comments/hg1pa2/remember_all_those_young_blood_studies_well/
-* Score: 12
+* Score: 11
 
 * Created: 2020-06-26T05:24:29
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/absolute-black** [+9] *
+> **u/absolute-black** [+9]  (26 minutes later)
 > 
 > Although this is very cool stuff, this is a subreddit for fiction. Try /r/slatestarcodex (although I think I saw it posted there a bit before the nyt blow up anyway)
-> 
 
 ---
 

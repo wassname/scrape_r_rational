@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/6aruc6/d_friday_offtopic_thread/
-* Score: 15
+* Score: 16
 
 * Created: 2017-05-12T15:04:26
 
@@ -15,197 +15,191 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/None** [+16] *
+> **u/None** [+16]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/SvalbardCaretaker** [+5]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+4]  *Mouse Army* (4 hours later)
 >> 
 >> Which reminder app do you use? 
->> Also congrats!
 >> 
+>> Also congrats!
 
->>> **u/Magodo** [+3]  *Ankh-Morpork City Watch**
+>>> **u/Magodo** [+3]  *Ankh-Morpork City Watch* (a day later)
 >>> 
 >>> Life reminders. And thank you :)
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (19 hours later)
 >> 
 >> Congrats! I have the same dream,  hope you succeed :-)
->> 
 
->>> **u/Magodo** [+3]  *Ankh-Morpork City Watch**
+>>> **u/Magodo** [+3]  *Ankh-Morpork City Watch* (a day later)
 >>> 
 >>> Thank you, wish you luck too :)
->>> 
 
-> **u/AmeteurOpinions** [+15]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+16]  *Finally, everyone was working together.* (4 hours later)
 > 
 > *Collateral Damage*, a thermonuclear magical girl story, begins Sunday the 21st. Stay tuned.
-> Did I say the 21st? I meant the 22nd, obviously. Or whenever it's ready 😅
 > 
+> Did I say the 21st? I meant the 22nd, obviously. Or whenever it's ready 😅
 
->> **u/Noumero** [+4]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+4]  *Self-Appointed Court Statistician* (5 hours later)
 >> 
 >> Glad to hear.
->> 
 
->> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (14 hours later)
 >> 
 >> Fan flipping tastic.
->> 
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (a day later)
 >> 
 >> Good to hear :) Been a long time coming!
->> 
 
->>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (a day later)
 >>> 
 >>> Basically a year since I dreamed up the concept while clothes shopping.
->>> 
 
-> **u/OutOfNiceUsernames** [+13]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+13]  *fear of last pages* (4 hours later)
 > 
 > > [The NHS has been hit as part of a global cyber-attack that threw hospitals and businesses in the UK and across the world into chaos.](https://www.theguardian.com/society/2017/may/12/hospitals-across-england-hit-by-large-scale-cyber-attack) [..] Ross Anderson, a computer security expert at Cambridge University, said the attack appeared to exploit a weakness highlighted in secret CIA documents released in March by WikiLeaks. Publication of the documents led Microsoft to issue a “critical” software patch to close the loophole, but it is unclear whether it was installed on NHS computers. [..] “If large numbers of NHS organisations failed to act on a critical notice from Microsoft two months ago, then whose fault is that?” Anderson said. [..] Alan Woodward, visiting professor of computing at the University of Surrey, said that the attack’s success “is likely to be because some organisations have either not applied the patch released by Microsoft, or they are using outdated operating systems”. NHS Digital said it was unable to comment on this at short notice.
-> -
-> > http://www.pcworld.com/article/3196379/security/a-ransomware-attack-is-spreading-worldwide-using-alleged-nsa-exploit.html
-> -
-> > https://intel.malwaretech.com/botnet/wcrypt
-> TL;DR: Shit's on fire, yo. Make sure any Windows systems you are dependant on are not vulnerable to this cryptovirus.
 > 
+> -
+> 
+> > http://www.pcworld.com/article/3196379/security/a-ransomware-attack-is-spreading-worldwide-using-alleged-nsa-exploit.html
+> 
+> -
+> 
+> > https://intel.malwaretech.com/botnet/wcrypt
+> 
+> TL;DR: Shit's on fire, yo. Make sure any Windows systems you are dependant on are not vulnerable to this cryptovirus.
 
->> **u/ketura** [+5]  *Organizer**
+>> **u/ketura** [+5]  *Organizer* (5 hours later)
 >> 
 >> Note that the exploit only affects windows 7 and below. If you're in that category, tho, update ASAP.
->> 
 
->>> **u/OutOfNiceUsernames** [+6]  *fear of last pages**
+>>> **u/OutOfNiceUsernames** [+6]  *fear of last pages* (5 hours later)
 >>> 
 >>> > only affects windows 7 and below
->>> It's at least partially using MS17-010, to which [Windows 8 and 10 are vulnerable as well.](https://technet.microsoft.com/ru-ru/library/security/ms17-010.aspx)
 >>> 
+>>> It's at least partially using MS17-010, to which [Windows 8 and 10 are vulnerable as well.](https://technet.microsoft.com/ru-ru/library/security/ms17-010.aspx)
 
->>> **u/Chronophilia** [+4]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (19 hours later)
 >>> 
 >>> If you've already installed March's Windows update, you're also safe.
->>> 
 
-> **u/electrace** [+12] *
+> **u/electrace** [+12]  (11 hours later)
 > 
 > [Unsong](http://unsongbook.com/) is finishing up this Sunday, for anyone who wanted to wait until its over to start reading.
-> 
 
->> **u/Anderkent** [+4] *
+>> **u/Anderkent** [+5]  (a day later)
 >> 
 >> Thanks! Just finished binging it :P
->> 
 
-> **u/waylandertheslayer** [+9] *
+> **u/waylandertheslayer** [+9]  (3 hours later)
 > 
 > I've been rewriting a (non-rational) fanfic I started working on over a year ago. It's still not great, but I'd love any sort of feedback on it, especially what areas I should try to improve on at the moment.
-> >Naruto's angry, Sasuke's sad, Kakashi's an alcoholic, and Sakura is starting to not give a shit anymore. This wasn't what they'd expected from Ninja life, but as Konoha's enemies gather, there's no time for regrets. A strong Team Seven AU with a mystery time-traveller.
-> [Spire by Dakeyras](https://www.fanfiction.net/s/12469512/1/Spire)
 > 
+> >Naruto's angry, Sasuke's sad, Kakashi's an alcoholic, and Sakura is starting to not give a shit anymore. This wasn't what they'd expected from Ninja life, but as Konoha's enemies gather, there's no time for regrets. A strong Team Seven AU with a mystery time-traveller.
+> 
+> [Spire by Dakeyras](https://www.fanfiction.net/s/12469512/1/Spire)
 
-> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 > 
 > Every time I think of something I want to post in one of these threads, it's either the day after the thread is posted (so I can't expect anyone to see it) or ~2 days before, so I forget by the time the thread is posted. The only exception is shitposts, like this one.
-> 
 
->> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png* (4 hours later)
 >> 
 >> > ~2 days before, so I forget by the time the thread is posted
->> Use Google Keep (or Microsoft OneNote, etc.) to jot down a quick note on your phone (consolidated under a big "FRIDAY" heading) whenever you think of a topic, and flesh out what you want to say in Notepad++ (or Google Drive, etc.) later, on your computer.
 >> 
+>> Use Google Keep (or Microsoft OneNote, etc.) to jot down a quick note on your phone (consolidated under a big "FRIDAY" heading) whenever you think of a topic, and flesh out what you want to say in Notepad++ (or Google Drive, etc.) later, on your computer.
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (9 hours later)
 >>> 
 >>> Seconding Google Keep as a great app for jotting things down for later. I've got a grocery list, a list of questions for the pediatrician, an ideas scratchpad, and a place for story notes.
->>> 
 
->> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (14 hours later)
 >> 
 >> I know that pain.
->> 
 
-> **u/trekie140** [+5] *
+> **u/trekie140** [+5]  (2 hours later)
 > 
 > Has anyone been watching the new season of Doctor Who? I've been seeing a lot of praise for it, but all the episodes so far I thought were just okay. As a diehard Clara hater who considers the previous season to be an endurance test (I didn't even like Hell Bent as much as everyone else), I still think consistently okay is a step up. In particular, Thin Ice felt like it was written in response to how much I despised Kill The Moon.
-> So it's hard for me to call this new season a disappointment, but I still don't think it's a return to form. I was hoping I would see a return to the glory days after The Husbands of River Song became one of my favorite episodes of the series, for reasons besides it being the first episode after Clara had left, but even if this season ends up being forgettable at least it doesn't enrage me with how boring and stupid it is.
-> ***
-> I've been watching the anime Miss Kobayashi's Dragon Maid (I prefer dubs, sue me), and it's become one of the biggest surprises I've had lately. It's a slice of life comedy the a stoic computer programmer Kobayashi who happens to be a maid otaku and a dragon with godlike powers named who's in love with Kobayashi for some reason so she turns herself into a moe maid, plus several other dragons who show up, and against all odds I actually find it very compelling.
-> It's hard to pin down exactly why, especially since it features so many tropes and kinds of jokes I've seen before and haven't liked before, but aside from me finally being inoculated to the quirkier aspects of anime I think it's because the show is pretty damn rational. Kobayashi's reason for letting a dragon who openly expresses romantic feelings she doesn't reciprocate move into her house isn't entirely logical, but everything after that checks off all the boxes for rational fiction.
-> Kobayashi is skilled at problem solving and continuously pursues her goals using the resources at her disposal, the dragons have a logical mindset for their alien values, what little worldbuilding and descriptions of magic we get are consistent, and the story acknowledges the horrific implications of the situation and how it could potentially all go wrong. It's kind of like The Devil is a Part-Timer with all of the roles reversed or Sgt. Frog if it took its story and characters seriously.
-> I haven't finished it yet, but I get the impression that there is more to it than simply being another slice of life comedy with fantasy elements. I feel like I relate to the characters in ways I don't entirely understand and there is some underlying theme to the story about becoming an adult and managing relationships both friendly and familial. The way it presents it is definitely odd, both in terms of story content and direction, but even if it ends up being just good rather than great I'll still be satisfied.
 > 
+> So it's hard for me to call this new season a disappointment, but I still don't think it's a return to form. I was hoping I would see a return to the glory days after The Husbands of River Song became one of my favorite episodes of the series, for reasons besides it being the first episode after Clara had left, but even if this season ends up being forgettable at least it doesn't enrage me with how boring and stupid it is.
+> 
+> ***
+> 
+> I've been watching the anime Miss Kobayashi's Dragon Maid (I prefer dubs, sue me), and it's become one of the biggest surprises I've had lately. It's a slice of life comedy the a stoic computer programmer Kobayashi who happens to be a maid otaku and a dragon with godlike powers named who's in love with Kobayashi for some reason so she turns herself into a moe maid, plus several other dragons who show up, and against all odds I actually find it very compelling.
+> 
+> It's hard to pin down exactly why, especially since it features so many tropes and kinds of jokes I've seen before and haven't liked before, but aside from me finally being inoculated to the quirkier aspects of anime I think it's because the show is pretty damn rational. Kobayashi's reason for letting a dragon who openly expresses romantic feelings she doesn't reciprocate move into her house isn't entirely logical, but everything after that checks off all the boxes for rational fiction.
+> 
+> Kobayashi is skilled at problem solving and continuously pursues her goals using the resources at her disposal, the dragons have a logical mindset for their alien values, what little worldbuilding and descriptions of magic we get are consistent, and the story acknowledges the horrific implications of the situation and how it could potentially all go wrong. It's kind of like The Devil is a Part-Timer with all of the roles reversed or Sgt. Frog if it took its story and characters seriously.
+> 
+> I haven't finished it yet, but I get the impression that there is more to it than simply being another slice of life comedy with fantasy elements. I feel like I relate to the characters in ways I don't entirely understand and there is some underlying theme to the story about becoming an adult and managing relationships both friendly and familial. The way it presents it is definitely odd, both in terms of story content and direction, but even if it ends up being just good rather than great I'll still be satisfied.
 
->> **u/MonstrousBird** [+11] *
+>> **u/MonstrousBird** [+9]  (5 hours later)
 >> 
 >> I've been enjoying Doctor Who, but then I usually do, and I don't approach it with my critical faculties exactly tuned in. Having said that I loathed and despised Kill the Moon both for the message and because every scientific bone in my body was screaming
->> 
 
->>> **u/trekie140** [+3] *
+>>> **u/trekie140** [+3]  (7 hours later)
 >>> 
 >>> Preach it!
->>> 
 
->>>> **u/stormsong19** [+6]  *Sunshine Regiment**
+>>>> **u/stormsong19** [+7]  *Sunshine Regiment* (7 hours later)
 >>>> 
 >>>> I'm honestly really glad I'm not alone in hating that episode, and Clara dislike. 
->>>> I studied classroom pedagogy for years in college, and you will never, never convince me that Clara was intended to be a good teacher. 
->>>> I'd love to see a Game of Thrones crossover video where Arya Stark was reciting her list of names of people to kill and coincidentally added Clara's name to the end, since the actor who played Arya was instrumental to Clara's death. Arya Stark: badass enough to assassinate people from entirely different universes. (crackfic)
 >>>> 
+>>>> I studied classroom pedagogy for years in college, and you will never, never convince me that Clara was intended to be a good teacher. 
+>>>> 
+>>>> I'd love to see a Game of Thrones crossover video where Arya Stark was reciting her list of names of people to kill and coincidentally added Clara's name to the end, since the actor who played Arya was instrumental to Clara's death. Arya Stark: badass enough to assassinate people from entirely different universes. (crackfic)
 
->> **u/Sarkavonsy** [+4] *
+>> **u/Sarkavonsy** [+4]  (12 hours later)
 >> 
 >> Re Dragon Maid, I too found it weirdly appealing. I'm a big anime fan, but not when it comes to slice of life. [Digibro's videos on the show](https://www.youtube.com/watch?v=uejsTnvmudY) were helpful in pointing out some of the stuff that I hadn't even realized I was enjoying. You should probably finish the show before you watch the videos, though - there are some spoilers in there.
->> 
 
->>> **u/trekie140** [+2] *
+>>> **u/trekie140** [+2]  (13 hours later)
 >>> 
 >>> Those videos are what got me to watch the show in the first place. If I hadn't been confident that I was going to enjoy the show I probably would've never seen it at all. Not because it's slice of life, but because it has fetishistic elements like yuri bait, maids, and gags involving giant boobs that I have zero interest in. I sadly had every surprise spoiled for me, but it still ended up being a good time now that I've finished it. 
->>> The ending was a bit underwhelming and I thought the explanation Torru's father gave for his actions contradicted hints given about dragon politics prior to that, but I still like the series enough to check out the manga for more. I think what I like about it is that the flawed characters simultaneously make me feel okay about my insecurities while still encouraging me to keep on working to live life to the fullest.
->>> ***
->>> EDIT: Other shows I can recommend in the same vein are The Devil is a Part-Timer (only one season, manga has more story) and Ouran High School Host Club. Both are slice of life comedies featuring goofy characters and surprisingly serious stories that made me feel happy afterward.
->>> The only straight-up slice of life show I've liked is the moe-filled season one of K-On! It didn't make me laugh or cry, but it made me smile and helped me relax when I needed both. It's cute for the sake of cute with the bare minimum amount of story necessary, but it knows what it is and embraces it.
 >>> 
+>>> The ending was a bit underwhelming and I thought the explanation Torru's father gave for his actions contradicted hints given about dragon politics prior to that, but I still like the series enough to check out the manga for more. I think what I like about it is that the flawed characters simultaneously make me feel okay about my insecurities while still encouraging me to keep on working to live life to the fullest.
+>>> 
+>>> ***
+>>> 
+>>> EDIT: Other shows I can recommend in the same vein are The Devil is a Part-Timer (only one season, manga has more story) and Ouran High School Host Club. Both are slice of life comedies featuring goofy characters and surprisingly serious stories that made me feel happy afterward.
+>>> 
+>>> The only straight-up slice of life show I've liked is the moe-filled season one of K-On! It didn't make me laugh or cry, but it made me smile and helped me relax when I needed both. It's cute for the sake of cute with the bare minimum amount of story necessary, but it knows what it is and embraces it.
 
->> **u/DaystarEld** [+5]  *Pokémon Professor**
+>> **u/DaystarEld** [+4]  *Pokémon Professor* (a day later)
 >> 
 >> I stopped watching Dr. Who because I just got sick of Clara, and I'm glad to hear others found her so hard to stomach too. Now that I know she's gone I should probably give catching up a try to see how I feel about the show without her. I highly doubt it will ever be as good (to me) as it was in the 10th's time, but I can hope. 
->> I'm enjoying watching a new anime every week though, so might be awhile before I do.
 >> 
+>> I'm enjoying watching a new anime every week though, so might be awhile before I do.
 
->>> **u/trekie140** [+3] *
+>>> **u/trekie140** [+3]  (a day later)
 >>> 
 >>> I very highly recommend The Husbands of River Song. It was the first episode after Clara left and proved to me that Doctor Who could be good again. It features the long overdue return one of my favorite reoccurring characters, puts the Doctor in a unique and interesting situation unlike anything I've ever seen, uses that situation to give clever new insight into his relationship with River, and is just plain fun! I couldn't remember the last time I'd had watching Doctor Who.
->>> The whole episode is just a fun adventure with fun characters saying funny dialogue yet the story could still be taken completely seriously. It was the best time I had had with Doctor Who in years and one of my favorite episodes of all time. David Tennent will always be my favorite doctor, but this is the one episode where Capaldi has reached that level and stayed there for the entire episode. Even if the glory days are behind us, I don't think the magic is totally dead yet.
 >>> 
+>>> The whole episode is just a fun adventure with fun characters saying funny dialogue yet the story could still be taken completely seriously. It was the best time I had had with Doctor Who in years and one of my favorite episodes of all time. David Tennent will always be my favorite doctor, but this is the one episode where Capaldi has reached that level and stayed there for the entire episode. Even if the glory days are behind us, I don't think the magic is totally dead yet.
 
->> **u/DRMacIver** [+2] *
+>> **u/DRMacIver** [+2]  (20 hours later)
 >> 
 >> > I've been seeing a lot of praise for it, but all the episodes so far I thought were just okay.
->> I think a lot of this is that "just okay" is a big step up from what we've become accustomed to.
 >> 
+>> I think a lot of this is that "just okay" is a big step up from what we've become accustomed to.
 
-> **u/ToaKraka** [+10]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 > 
 > Just finished reading [*Rewind*](https://www.fanfiction.net/s/4307536) for the third(?) time. See also [*Sisyphus*](http://archiveofourown.org/works/1113651), [*Getting the Hang of Thursdays*](https://hayseed42.wordpress.com/2014/06/27/getting-the-hang-of-thursdays-0122/), and [*Concentric Wavelengths*](https://www.fanfiction.net/s/7062230).
-> 
 
->> **u/Adeen_Dragon** [+2] *
+>> **u/Adeen_Dragon** [+2]  (10 hours later)
 >> 
 >> Wow, rewind was great. I'll have to check out the others.
->> 
 
-> **u/artifex0** [+2] *
+> **u/artifex0** [+2]  (12 hours later)
 > 
 > So, [neural networks](https://www.youtube.com/watch?v=D4C1dB9UheQ) keep getting better.
-> I wonder what the long-term practical applications of machine learning will turn out to be.
 > 
+> I wonder what the long-term practical applications of machine learning will turn out to be.
 
 ---
 

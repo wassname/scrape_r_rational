@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.fanfiction.net/s/10630743/59/Light-in-Despair-s-Darkness
-* Score: 7
+* Score: 6
 
 * Created: 2015-12-21T01:09:23
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/linkhyrule5** [+1] *
+> **u/linkhyrule5** [+1]  (a day later)
 > 
 > And this is why you precommit to not letting the bad guy talk.
-> 
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (a day later)
 >> 
 >> True, true
->> 
 
 ---
 

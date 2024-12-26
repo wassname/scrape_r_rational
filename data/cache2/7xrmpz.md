@@ -2,7 +2,7 @@
 
 * Author: u/rthomas2 *
 * URL: https://singularityhub.com/2018/02/14/we-read-this-800-page-report-on-longevity-research-so-you-dont-have-to/
-* Score: 16
+* Score: 15
 
 * Created: 2018-02-15T16:47:58
 

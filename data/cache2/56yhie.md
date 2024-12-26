@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1110#post-7028281
-* Score: 14
+* Score: 13
 
 * Created: 2016-10-11T15:15:09
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/-Fender-** [+2] *
+> **u/-Fender-** [+2]  (5 days later)
 > 
 > Is this a story, or is this a pseudo-DnD game written down in story form?
-> 
 
->> **u/oliwhail** [+1]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+1]  *Omake-Maximizing AGI* (5 days later)
 >> 
 >> More of the latter - participants in the thread on Sufficient Velocity vote on what they think Hazou should try to accomplish each update.
->> 
 
 ---
 

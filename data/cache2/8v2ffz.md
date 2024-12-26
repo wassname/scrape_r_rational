@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/8v2ffz/d_saturday_munchkinry_thread/
-* Score: 15
+* Score: 16
 
 * Created: 2018-06-30T15:06:50
 
@@ -24,253 +24,346 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/Veedrac** [+7] *
+> **u/Veedrac** [+8]  (2 hours later)
 > 
 > How about the final boss of the story I'm never going to write? This is a reverse munchkin scenario turned up to 11. Hopefully I can just dump a ton of the relevant worldbuilding, since I don't think anyone could figure this out without the background.
-> **Setting**
-> You're in a world where, rather than magic being a feature patch on top of physics, physics is fundamentally a result of magic. Things work differently here; eyes work by sensing objects directly, not through transfer of light; there is neither air nor air resistance, but there is a fundamental speed cap that some things hit, like missile weapons and people specialized in the magic; and nigh every aspect of the universe can be molded at will by sufficiently skillful mages: if a property varies, there is doubtlessly a magic that affects it directly.
-> Magics are rather mechanistic in nature, more science than sport, but the personal benefits from being a skilled mage and the very un-Earth-like nature of their reproduction─one literally builds the child out of their own torn flesh, and donates to it some substance of one's own mind and magic─results in guilds and lineages taking strong precedence over prototypical scientific establishments. Most mages specialize in a few specific fields, because the art is difficult and power scaling is very nonlinear; the downside is that specialism in a branch of magic results in increasing value drift towards exploitation of that ability. This world's natural disasters happen when somebody achieves too much in the wrong thing. Much of the society's resources are keeping at bay the many shapeless extensions and copies of the first (and only) divine shapeshifter, who figured out how to perform mitosis and transform himself arbitrarily─nearly all of the world's natural fauna and flora has been replaced by thick forests of his mindless lovecraftian mass.
-> **The protagonist and antagonist**
-> Your primary claim to power is your divinity in Will, the magic that affects the inherent randomness effusing the universe to achieve your outcomes, a kind of "luck", if you will. The divinity placed you in a Groundhog-esque time loop, starting at a given point─currently locked at the moment you gained your divinity, but you can bring it forward permanently if you so need─and ending at the point of your death. As a result of value drift, your place no particular ethical weight on the continuity of others' lives, so it does not bother you that restarting the loop kills everybody else, except inasmuch as you valued those people in particular. Since your are simulating this character, you should keep this in mind. Having a divinity in Will gives you effectively limitless time to learn any other magic to any degree of proficiency, though keep in mind that certain kinds of value drift make certain skills dangerous to learn beyond a certain point.
-> Most people think your adversary is god, but you now know that he's actually "just" an old mage from many generations back that acheived through some means, as best you can tell, all the known divinities. Of note, he has maximum strength, and is unaffected by physical forces, poisons, or fire. He can move at the speed cap and split into multiples; not the unrefined trees of flesh that have invaded the world's borders, but a clean, idealized reproduction. Mind magic doesn't affect him, just like the other properties, since a divine can at worst draw in their own field. Even if you could bypass these, he has an immortal's regeneration, and should you somehow kill him even then, his time loop almost certainly precedes yours, wiping you out of the equation and doing little to him. Most powers you can learn would only allow you to tank his blows, rather than vice versa; having a divinity in strength would make you immune to his punches, but do nothing to stop him being immune to yours (I suppose you could headlock him, if not for him being able to shapeshift, burn you to death, move much faster than you, and mindrape you into compliance if those all fail).
-> The first time you spoke with him you threatened to loop on him; he laughed and said that if he was worried about that he would have just made you immortal. You don't know whether he could actually do that. When you spoke to him in later loops, he seemed as though he followed you through. You now believe he was just reading your mind and acting as if he knew about them all along. In all, he would almost certainly be afraid of true death, but which particular instance of him is the living one seems to be unimportant.
-> You want some form of leverage over him. You don't need to actually hurt him, but you do need something that threatens him. At present you have nothing. You should have at least enough here to find my solution, but I'd be interested to see what others can find.
 > 
+> **Setting**
+> 
+> You're in a world where, rather than magic being a feature patch on top of physics, physics is fundamentally a result of magic. Things work differently here; eyes work by sensing objects directly, not through transfer of light; there is neither air nor air resistance, but there is a fundamental speed cap that some things hit, like missile weapons and people specialized in the magic; and nigh every aspect of the universe can be molded at will by sufficiently skillful mages: if a property varies, there is doubtlessly a magic that affects it directly.
+> 
+> Magics are rather mechanistic in nature, more science than sport, but the personal benefits from being a skilled mage and the very un-Earth-like nature of their reproduction─one literally builds the child out of their own torn flesh, and donates to it some substance of one's own mind and magic─results in guilds and lineages taking strong precedence over prototypical scientific establishments. Most mages specialize in a few specific fields, because the art is difficult and power scaling is very nonlinear; the downside is that specialism in a branch of magic results in increasing value drift towards exploitation of that ability. This world's natural disasters happen when somebody achieves too much in the wrong thing. Much of the society's resources are keeping at bay the many shapeless extensions and copies of the first (and only) divine shapeshifter, who figured out how to perform mitosis and transform himself arbitrarily─nearly all of the world's natural fauna and flora has been replaced by thick forests of his mindless lovecraftian mass.
+> 
+> **The protagonist and antagonist**
+> 
+> Your primary claim to power is your divinity in Will, the magic that affects the inherent randomness effusing the universe to achieve your outcomes, a kind of "luck", if you will. The divinity placed you in a Groundhog-esque time loop, starting at a given point─currently locked at the moment you gained your divinity, but you can bring it forward permanently if you so need─and ending at the point of your death. As a result of value drift, your place no particular ethical weight on the continuity of others' lives, so it does not bother you that restarting the loop kills everybody else, except inasmuch as you valued those people in particular. Since your are simulating this character, you should keep this in mind. Having a divinity in Will gives you effectively limitless time to learn any other magic to any degree of proficiency, though keep in mind that certain kinds of value drift make certain skills dangerous to learn beyond a certain point.
+> 
+> Most people think your adversary is god, but you now know that he's actually "just" an old mage from many generations back that acheived through some means, as best you can tell, all the known divinities. Of note, he has maximum strength, and is unaffected by physical forces, poisons, or fire. He can move at the speed cap and split into multiples; not the unrefined trees of flesh that have invaded the world's borders, but a clean, idealized reproduction. Mind magic doesn't affect him, just like the other properties, since a divine can at worst draw in their own field. Even if you could bypass these, he has an immortal's regeneration, and should you somehow kill him even then, his time loop almost certainly precedes yours, wiping you out of the equation and doing little to him. Most powers you can learn would only allow you to tank his blows, rather than vice versa; having a divinity in strength would make you immune to his punches, but do nothing to stop him being immune to yours (I suppose you could headlock him, if not for him being able to shapeshift, burn you to death, move much faster than you, and mindrape you into compliance if those all fail).
+> 
+> The first time you spoke with him you threatened to loop on him; he laughed and said that if he was worried about that he would have just made you immortal. You don't know whether he could actually do that. When you spoke to him in later loops, he seemed as though he followed you through. You now believe he was just reading your mind and acting as if he knew about them all along. In all, he would almost certainly be afraid of true death, but which particular instance of him is the living one seems to be unimportant.
+> 
+> You want some form of leverage over him. You don't need to actually hurt him, but you do need something that threatens him. At present you have nothing. You should have at least enough here to find my solution, but I'd be interested to see what others can find.
 
->> **u/Badewell** [+12] *
+>> **u/Badewell** [+11]  (5 hours later)
 >> 
 >> Get a divinity in mind magic first as a matter of course so you can't be mind controlled.
->> This dude has got to be pretty bored. Spend a few loops coming up with a really interesting game with a ridiculous amount of depth, then a few more loops getting ridiculously good at it. Offer to play with him, and iterate on design until you find something he likes, then play regularly until it's an established part of his life that he enjoys.
->> If he ever does anything you don't like, heavily cut back game time. If he tries to force you to play suicide. If he works out a way to force you to play anyway play badly. Ideally none of that ever comes up and now both of you have something interesting to do as down time.
->> Try not to get more attached to the game than he is, just in case.
 >> 
+>> This dude has got to be pretty bored. Spend a few loops coming up with a really interesting game with a ridiculous amount of depth, then a few more loops getting ridiculously good at it. Offer to play with him, and iterate on design until you find something he likes, then play regularly until it's an established part of his life that he enjoys.
+>> 
+>> If he ever does anything you don't like, heavily cut back game time. If he tries to force you to play suicide. If he works out a way to force you to play anyway play badly. Ideally none of that ever comes up and now both of you have something interesting to do as down time.
+>> 
+>> Try not to get more attached to the game than he is, just in case.
 
->>> **u/Veedrac** [+2] *
+>>> **u/Veedrac** [+2]  (5 hours later)
 >>> 
 >>> Not sure how practical it is, but points for out-of-the-box thinking. I'll definitely mull over some variations of this, since it's certainly something the protagonist could have considered.
->>> 
 
->>> **u/Veedrac** [+1] *
+>>> **u/Veedrac** [+1]  (20 hours later)
 >>> 
 >>> Having read /u/Noumero's response (in some ways just an alternative stab at this), two quick comments. First, you basically have to be a divine mind mage for this to work, else he just reads the plan from your head. Second, being unreadable would look very suspicious to him, which makes it difficult to get any headway on your plan.
->>> 
 
->>>> **u/Badewell** [+1] *
+>>>> **u/Badewell** [+1]  (23 hours later)
 >>>> 
 >>>> Is the plan being known a deal breaker? The best outcome ends in both of you getting ahead, so long as both of you play nice. If you only use mind magic to precommit to not abusing your leverage first and to not be controlled that may be enough, depending on the characters.
->>>> 
 
->>>>> **u/Veedrac** [+1] *
+>>>>> **u/Veedrac** [+1]  (a day later)
 >>>>> 
 >>>>> Well the guy isn't short of ways to coerce you into not holding his happiness hostage. I do get your point, but if he finds out before there are sunk costs he's probably not going to cooperate. Even if he can't force you to play nice (say if you're a divine mind mage), he might be able to circumvent you entirely─he can clone himself, and he claims he can give you immortality so other giving other people other divinities isn't out of the question.
->>>>> 
 
->> **u/ShiranaiWakaranai** [+3] *
+>> **u/ShiranaiWakaranai** [+3]  (4 hours later)
 >> 
 >> How exactly does your time loop work? Does it really kill everybody else? Including the old mage? If so, doesn't triggering your time loop already kill him and replace him with another version of himself? That's a pretty effective threat right there.
->> You just need to keep yourself on the verge of death 24/7, so you can commit suicide faster than the old mage, meaning he can't trigger his time loop to erase you before you erase him.
->> Alternatively, if it turns out that your belief is wrong and that the old mage actually loops with you whenever you restart, the above strategy still works. That's because you can threaten mutually assured destruction by bringing your time loop starting point to just before the moment of your death, effectively creating an infinitesimally short time loop that the old mage can never escape from since there's no time for him to kill himself to escape via his own time loop. So you'll both eventually go insane from the never ending unchanging repetition.
 >> 
+>> You just need to keep yourself on the verge of death 24/7, so you can commit suicide faster than the old mage, meaning he can't trigger his time loop to erase you before you erase him.
+>> 
+>> Alternatively, if it turns out that your belief is wrong and that the old mage actually loops with you whenever you restart, the above strategy still works. That's because you can threaten mutually assured destruction by bringing your time loop starting point to just before the moment of your death, effectively creating an infinitesimally short time loop that the old mage can never escape from since there's no time for him to kill himself to escape via his own time loop. So you'll both eventually go insane from the never ending unchanging repetition.
 
->>> **u/Veedrac** [+2] *
+>>> **u/Veedrac** [+2]  (4 hours later)
 >>> 
 >>> > Does it really kill everybody else? Including the old mage?
->>> Yes (and you're an expert so you're pretty certain), but "which particular instance of him is the living one seems to be unimportant" to him, presumably as a result of value drift.
->>> Threatening suicide is actually part of an earlier plot in the story; being able to use it here would be stale ;).
 >>> 
+>>> Yes (and you're an expert so you're pretty certain), but "which particular instance of him is the living one seems to be unimportant" to him, presumably as a result of value drift.
+>>> 
+>>> Threatening suicide is actually part of an earlier plot in the story; being able to use it here would be stale ;).
 
->>>> **u/ShiranaiWakaranai** [+1] *
+>>>> **u/ShiranaiWakaranai** [+1]  (4 hours later)
 >>>> 
 >>>> What about the infinite instant loop though? That would kill every instance of him since the loop never ends.
->>>> 
 
->>>>> **u/Veedrac** [+3] *
+>>>>> **u/Veedrac** [+3]  (5 hours later)
 >>>>> 
 >>>>> As you gave it, it was conditional on being wrong about him not looping with you, which is a long odds bet. If you merely mean it in the sense of threatening to end the universe altogether, that's unlikely to work since the reset is transparent to you: effectively you end up living in a frozen universe looping the same fraction of a second until some future point where your checkpoint is disabled. Unless you can guarantee that you'll never disable your checkpoint in an arbitrarily long timeframe of boredom, *and* convey this scheme in such a way as to blackmail him without allowing him to counteract it, *and* are willing to risk the negative-infinite utility of having to actually go through with it if you fail to convince him... then it's probably not going to work.
->>>>> 
 
->>>>>> **u/ShiranaiWakaranai** [+2] *
+>>>>>> **u/ShiranaiWakaranai** [+2]  (13 hours later)
 >>>>>> 
 >>>>>> > Unless you can guarantee that you'll never disable your checkpoint in an arbitrarily long timeframe of boredom,
->>>>>> Oh. You can disable your time loop. I thought that once you brought your time loop starting point to right before your death, you were screwed forever and unable to escape the loop either. Is there any way to disable your ability to disable your time loop then? Because it would be hard to convince the old mage that you wouldn't break mid-loop, but much easier to convince the old mage that you're crazed/emotional/irrational enough to trigger an inescapable loop that effectively ends the universe.
->>>>>> Now you probably wouldn't be able to say blackmail him over little things like demanding money/power or you end the universe. But it does grant you leverage in some ways. By informing the old mage of this threat, you let him know that if he pushes you too far or tries to erase you, you *will* trigger the inescapable loop in a fit of rage/spite, damn the consequences.
 >>>>>> 
+>>>>>> Oh. You can disable your time loop. I thought that once you brought your time loop starting point to right before your death, you were screwed forever and unable to escape the loop either. Is there any way to disable your ability to disable your time loop then? Because it would be hard to convince the old mage that you wouldn't break mid-loop, but much easier to convince the old mage that you're crazed/emotional/irrational enough to trigger an inescapable loop that effectively ends the universe.
+>>>>>> 
+>>>>>> Now you probably wouldn't be able to say blackmail him over little things like demanding money/power or you end the universe. But it does grant you leverage in some ways. By informing the old mage of this threat, you let him know that if he pushes you too far or tries to erase you, you *will* trigger the inescapable loop in a fit of rage/spite, damn the consequences.
 
->>>>>>> **u/Veedrac** [+1] *
+>>>>>>> **u/Veedrac** [+1]  (20 hours later)
 >>>>>>> 
 >>>>>>> Apologies, I thought I'd mentioned they can be disabled. There is the other escape clause from gaining divinities until you escape that fate; living with a rock lodged in your head is a good─if painful─way to practice recovery magics until you're an immortal. It's hard to figure out what kind of things don't happen over arbitrarily long timeframes to be honest.
->>>>>>> Maybe if you got a mind mage to fry your brain beforehand, but they'd need to leave you in a state that didn't count as killing you (else you'd loop on them, which wouldn't be stable), which means you need at least some useful faculties left.
->>>>>>> I'll think about this, maybe I'm being overly pessimistic about it.
 >>>>>>> 
+>>>>>>> Maybe if you got a mind mage to fry your brain beforehand, but they'd need to leave you in a state that didn't count as killing you (else you'd loop on them, which wouldn't be stable), which means you need at least some useful faculties left.
+>>>>>>> 
+>>>>>>> I'll think about this, maybe I'm being overly pessimistic about it.
 
->>>> **u/xachariah** [+1] *
+>>>> **u/xachariah** [+1]  (6 hours later)
 >>>> 
 >>>> Timelooping working that way seems very poorly thought out.  That's literally the most powerful magic possible.  It instantly and overwhelmingly overwrites everything everywhere.  At that point, why bother with other magic?  The only important magic is figuring out how your time loop does that, and how you can adjust it to say, reset only *part* of the world.  
->>>> I assume that there are magic attacks and defenses, except it sounds like this super special time loop power effortlessly cuts through all of them.  
->>>> IMO, change the base mechanic that time loops work on rather than actually physically altering the world: Precognition, quantum immortality, alternate dimensions, etc..
 >>>> 
+>>>> I assume that there are magic attacks and defenses, except it sounds like this super special time loop power effortlessly cuts through all of them.  
+>>>> 
+>>>> IMO, change the base mechanic that time loops work on rather than actually physically altering the world: Precognition, quantum immortality, alternate dimensions, etc..
 
->>>>> **u/Veedrac** [+1] *
+>>>>> **u/Veedrac** [+1]  (6 hours later)
 >>>>> 
 >>>>> Divinities are fully intended to be world-changing events. Time looping just happens to be one of the more powerful ones (and, correspondingly, harder to get; you thought you were the first for a fair while).
->>>>> 
 
->>>>>> **u/xachariah** [+1] *
+>>>>>> **u/xachariah** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> It seems like a straightforward victory condition is to figure out a way to use the time loop partially.
->>>>>> Either edit it so it triggers and kills just the antagonist everywhere.  Or edit it so that the next time it triggers it restores everything except the antagonist.  
->>>>>> The time loop is literal omnipotence in the current mechanics.
 >>>>>> 
+>>>>>> Either edit it so it triggers and kills just the antagonist everywhere.  Or edit it so that the next time it triggers it restores everything except the antagonist.  
+>>>>>> 
+>>>>>> The time loop is literal omnipotence in the current mechanics.
 
->>>>>>> **u/Veedrac** [+2] *
+>>>>>>> **u/Veedrac** [+2]  (7 hours later)
 >>>>>>> 
 >>>>>>> You should roughly treat divinities as hitting the level cap; there is fundamentally no next level of time looping. Plus asking for a stronger power is generally a narratively unsatisfying way to solve problems.
->>>>>>> The Watsonian reason for this is that magical proficiency works by exploiting levers in reality, rather than it being an agent in and of itself. Time loops have access to that part of reality which defines `t`, not the whole state evaluation function.
 >>>>>>> 
+>>>>>>> The Watsonian reason for this is that magical proficiency works by exploiting levers in reality, rather than it being an agent in and of itself. Time loops have access to that part of reality which defines `t`, not the whole state evaluation function.
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (4 hours later)
 >> 
 >> Why would immortality prevent your reset? Anyone's immortality preventing everyone's reset seems to contradict his words.
->> A simple way for him to permanently calm his fear of death is to send a copy out at maximum speed, then permanently advance the checkpoint to just after that in case someone convinces him from his ways in the future.
->> This value drift appears to simplify. Conjecture: Magic's primitives/divinities correspond one-to-one with the components of the human value system.
->> If you can save/restore another's mind state, teaching a divinity to a subordinate preserves your values. The antagonist might still value that which one can have a lackey sacrifice without rendering him uncontainable.
->> Rhetoric divinity appears to win one's future maxspeed cone. Assuming he hasn't won, even he must shy away from the corresponding sacrifice.
 >> 
+>> A simple way for him to permanently calm his fear of death is to send a copy out at maximum speed, then permanently advance the checkpoint to just after that in case someone convinces him from his ways in the future.
+>> 
+>> This value drift appears to simplify. Conjecture: Magic's primitives/divinities correspond one-to-one with the components of the human value system.
+>> 
+>> If you can save/restore another's mind state, teaching a divinity to a subordinate preserves your values. The antagonist might still value that which one can have a lackey sacrifice without rendering him uncontainable.
+>> 
+>> Rhetoric divinity appears to win one's future maxspeed cone. Assuming he hasn't won, even he must shy away from the corresponding sacrifice.
 
->>> **u/Veedrac** [+2] *
+>>> **u/Veedrac** [+2]  (4 hours later)
 >>> 
 >>> Checkpoints aren't shared. The world resets at your checkpoint when you die, and at the antagonist's checkpoint when he dies, should that ever happen.
+>>> 
 >>> > Why would immortality prevent your reset?
+>>> 
 >>> Because you can't die (and don't *want* to die─that's part of the value drift inherent to immortality), and it only triggers on death.
+>>> 
 >>> > If you can save/restore another's mind state, teaching a divinity to a subordinate preserves your values.
+>>> 
 >>> You can save/restore minds with strong enough mind magic, but that's extremely rare. The subordinate only preserves your values if they end up fixing your mind, but for that scenario to happen you need to have a divine mind mage subordinate to you but able to use their magic on you against your will. That sounds difficult.
+>>> 
 >>> E: I think I misread. Are you saying you would teach the divinity to the subordinate, and copy that mind of theirs from one loop to another? Then you can exploit their abilities without suffering the drawbacks yourself. That does make sense.
+>>> 
 >>> > The antagonist might still value that which one can have a lackey sacrifice without rendering him uncontainable.
 >>> >
 >>> > Rhetoric divinity appears to win one's future maxspeed cone. Assuming he hasn't won, even he must shy away from the corresponding sacrifice.
->>> I'm struggling to parse these sentences, sorry.
 >>> 
+>>> I'm struggling to parse these sentences, sorry.
 
->>>> **u/Gurkenglas** [+1] *
+>>>> **u/Gurkenglas** [+1]  (7 hours later)
 >>>> 
 >>>> I didn't assume checkpoints are shared. I meant that I have little hope of killing him if he just sent a copy flying away forever at lightspeed long ago.
->>>> We could figure out something about what the antagonist still values by asking what divinities he might have given to a subordinate.
->>>> Even if he is immune to mind magic, one might still convince him. There may be magic that helps you formulate convincing sentences. Taken to eleven, such power could eat society for breakfast.
 >>>> 
+>>>> We could figure out something about what the antagonist still values by asking what divinities he might have given to a subordinate.
+>>>> 
+>>>> Even if he is immune to mind magic, one might still convince him. There may be magic that helps you formulate convincing sentences. Taken to eleven, such power could eat society for breakfast.
 
->>>>> **u/Veedrac** [+2] *
+>>>>> **u/Veedrac** [+2]  (7 hours later)
 >>>>> 
 >>>>> Convincingness isn't primitive physics, unfortunately, so it doesn't have magic directly. Minds *are*, but he has a divinity in mind magic as well, so even if it conferred a bonus to IQ (it doesn't, superintelligence is a pain to write) you'd only be exacerbating the challenge.
->>>>> You are right that killing him is probably very difficult. I expect it is impossible.
 >>>>> 
+>>>>> You are right that killing him is probably very difficult. I expect it is impossible.
 
->> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (13 hours later)
 >> 
 >> The first step is to achieve proficiency in deception and broad-optimization magics.
->> By "deception" I mean improving yourself until you can reliably fool the enemy into not realizing the existence of your time loop. Achieve divinity in mind magic (mind shields? decoy minds?) first. If there are related social magics (e. g., an actual "deception" magic?), master them too; if there aren't, become the best actor a human could ever be.
->> By "broad-optimization magics" I mean magics akin to Will, which seems to globally optimize events according to your utility function. What others are there? The Enemy has all of them, and they're likely to foil any plan against him if you don't have a symmetric advantage. If further improvement after achieving divinity is at all possible, try to *surpass* the antagonist in them; spend several googols of years on it if necessary (modify yourself to have infinite patience if necessary).
->> Once those are achieved, the preparations are complete: you're at least as "lucky" as the enemy, and you have an information advantage in that you know he is in a time loop, while he doesn't know about yours. That information advantage can grow.
->> Use your time loop to carefully mine his instances for information. The full extent of his powers, his personality, his contingencies, why he made the crucial mistake of allowing the world to remain in such a state that someone with your power was able to appear, et cetera. Use the standard timeloop precaution of killing yourself the moment something surprising happens, obviously.
->> Eventually, you will have a complete picture of what he is. Use it to manipulate him.
->> He can't be mindraped or killed, but I assume he can change as a person^(1). Since you have a timeloop advantage over him, that means you can manipulate him into anything.
->> Spend some time (a decade? a century?) learning how to get him to develop a minor habit (e. g., a preference for certain speech patterns). Then how to cultivate a major habit. Then an opinion. A belief. A different belief. Two beliefs. A set of beliefs.
->> Use however much time you need. Thousands of century-long loops for a minor habit is acceptable. 
->> Once proficiency in manipulating him is achieved, shape his personality into whatever form you find convenient, over the course of an arbitrarily long loop. Optionally, get him to not resist while you use mind magic to erase his mind.
->> A global victory.
->> ___
->> ^(1. This is actually a major assumption, now that I think about it. If he has divinity in every magic, he has value-drift from every magic. Is he, in fact, still a "person", or just a collection of magics trying to use itself? Perhaps people who call him god are more right. Or perhaps he has a meta-divinity in suppressing value drift, or uses mind magic to do so?)
 >> 
+>> By "deception" I mean improving yourself until you can reliably fool the enemy into not realizing the existence of your time loop. Achieve divinity in mind magic (mind shields? decoy minds?) first. If there are related social magics (e. g., an actual "deception" magic?), master them too; if there aren't, become the best actor a human could ever be.
+>> 
+>> By "broad-optimization magics" I mean magics akin to Will, which seems to globally optimize events according to your utility function. What others are there? The Enemy has all of them, and they're likely to foil any plan against him if you don't have a symmetric advantage. If further improvement after achieving divinity is at all possible, try to *surpass* the antagonist in them; spend several googols of years on it if necessary (modify yourself to have infinite patience if necessary).
+>> 
+>> Once those are achieved, the preparations are complete: you're at least as "lucky" as the enemy, and you have an information advantage in that you know he is in a time loop, while he doesn't know about yours. That information advantage can grow.
+>> 
+>> Use your time loop to carefully mine his instances for information. The full extent of his powers, his personality, his contingencies, why he made the crucial mistake of allowing the world to remain in such a state that someone with your power was able to appear, et cetera. Use the standard timeloop precaution of killing yourself the moment something surprising happens, obviously.
+>> 
+>> Eventually, you will have a complete picture of what he is. Use it to manipulate him.
+>> 
+>> He can't be mindraped or killed, but I assume he can change as a person^(1). Since you have a timeloop advantage over him, that means you can manipulate him into anything.
+>> 
+>> Spend some time (a decade? a century?) learning how to get him to develop a minor habit (e. g., a preference for certain speech patterns). Then how to cultivate a major habit. Then an opinion. A belief. A different belief. Two beliefs. A set of beliefs.
+>> 
+>> Use however much time you need. Thousands of century-long loops for a minor habit is acceptable. 
+>> 
+>> Once proficiency in manipulating him is achieved, shape his personality into whatever form you find convenient, over the course of an arbitrarily long loop. Optionally, get him to not resist while you use mind magic to erase his mind.
+>> 
+>> A global victory.
+>> 
+>> ___
+>> 
+>> ^(1. This is actually a major assumption, now that I think about it. If he has divinity in every magic, he has value-drift from every magic. Is he, in fact, still a "person", or just a collection of magics trying to use itself? Perhaps people who call him god are more right. Or perhaps he has a meta-divinity in suppressing value drift, or uses mind magic to do so?)
 
->>> **u/Veedrac** [+1] *
+>>> **u/Veedrac** [+1]  (20 hours later)
 >>> 
 >>> FYI there aren't a ton of magic disciplines, probably in the mid 20s, not all of which are known.
->>> > This is actually a major assumption, now that I think about it. If he has divinity in every magic, he has value-drift from every magic. Is he, in fact, still a "person", or just a collection of magics trying to use itself? Perhaps people who call him god are more right.
->>> Just highlighting this because it's insightful.
->>> There is a major issue with your plan: spending a thousands of centuries around someone who can maybe forcibly make you immortal is a lot of risk, especially as being unreadable makes you much more of a perceived risk than when you were a transparent book.
->>> I won't rule out the possibility that you could erase his mind this way (it does seem more a job for a superintelligence, but I'm probably underestimating what you can do with megayears of experience), but what if there are clones of him? I think the end goal would have to be more sophisticated than that.
->>> (From a totally Doyolist perspective, how would such a scene even be written? :P)
 >>> 
+>>> > This is actually a major assumption, now that I think about it. If he has divinity in every magic, he has value-drift from every magic. Is he, in fact, still a "person", or just a collection of magics trying to use itself? Perhaps people who call him god are more right.
+>>> 
+>>> Just highlighting this because it's insightful.
+>>> 
+>>> There is a major issue with your plan: spending a thousands of centuries around someone who can maybe forcibly make you immortal is a lot of risk, especially as being unreadable makes you much more of a perceived risk than when you were a transparent book.
+>>> 
+>>> I won't rule out the possibility that you could erase his mind this way (it does seem more a job for a superintelligence, but I'm probably underestimating what you can do with megayears of experience), but what if there are clones of him? I think the end goal would have to be more sophisticated than that.
+>>> 
+>>> (From a totally Doyolist perspective, how would such a scene even be written? :P)
 
->>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (a day later)
 >>>> 
 >>>> >(From a totally Doyolist perspective, how would such a scene even be written? :P)
->>>> I don't know, in a way such that it evokes a feeling of hollowness? It would be a story about someone who spent geological eras learning, studying, and manipulating, and the pinnacle of his achievements is mindraping a man into a vegetable. It seems sad.
->>>> >it does seem more a job for a superintelligence
->>>> I think quantitative superintelligence would be more than sufficient — as in, something that could methodically perform an inhuman amount of complex calculations over time. You'd need, as I said, infinite patience, and perhaps perfect (or at least very good) memory, both of which could be solved to an extent by either mind magic or mundane exercises. Time loop covers the rest.
->>>> >spending a thousands of centuries around someone who can maybe forcibly make you immortal is a lot of risk, especially as being unreadable makes you much more of a perceived risk than when you were a transparent book
->>>> Well, the premise is quite risky to begin with. Be very, very careful, and hair-trigger suicidal?
->>>> Regarding readability, is it at all possible to fake it? If mind magic doesn't allow decoy minds, can you use ~biology divinity to implant yourself a fake brain, and ~space divinity to fold your actual brain into a pocket dimension, or something? Or communicate with the antagonist only through proxies/mind-clones who honestly believe they're whatever role you're playing this loop.
->>>> >What if there are clones of him?
->>>> Well, then instead of erasing the mind of your enslaved instance of him, have him loop— Ah, damn. It wouldn't work unless all of his instances are dead, would it?
->>>> Okay. I considered doing something like this at the end of my initial idea, but decided it was superfluous. Apparently not.
->>>> Enslave an instance of the antagonist as per above. If there's a "hierarchy" of instances, try to get one as high up the chain as possible.
->>>> With his help, engineer circumstances best solvable by time travel. Burn the whole planet down, fake an invasion of cosmic horrors, create grey goo, crash the simulation, pretend to be a *more* powerful god with 30+ divinities but no Will divinity, whatever. Target and destroy something the antagonist cares about, or present an insurmountable threat that could be easily solved with a century's forewarning.
->>>> Upload your mind into slave!antagonist's mind. Depending on how the Will timeloop works, either rewrite his mind with yours entirely, or add a "memory packet" with a snapshot of your mind (as high-fidelity as possible).
->>>> Use slave!antagonist to send messages to his other instances, informing them about the threat/disaster, and strongly advising them to kill themselves. Wait an undefined amount of time, until you're pretty sure all of them received the message and killed themselves. Order slave!antagonist to kill himself. After he loops, he will rewrite the mind of the person closest to him with your mind. Now you're at the dawn of time, where life was (presumably) simpler.
->>>> Assumptions:
->>>> * There are circumstances in which the antagonist would consider using his time-loop a rational course of actions.
->>>> * The antagonist is singular at the start of his loop (no clones), or at least murderably-plural.
->>>> * Time loops for the instance of the antagonist that dies last; the rest get erased.
->>>> * All instances of the antagonist could be messaged to.
->>>> At which point this would fail?
 >>>> 
+>>>> I don't know, in a way such that it evokes a feeling of hollowness? It would be a story about someone who spent geological eras learning, studying, and manipulating, and the pinnacle of his achievements is mindraping a man into a vegetable. It seems sad.
+>>>> 
+>>>> >it does seem more a job for a superintelligence
+>>>> 
+>>>> I think quantitative superintelligence would be more than sufficient — as in, something that could methodically perform an inhuman amount of complex calculations over time. You'd need, as I said, infinite patience, and perhaps perfect (or at least very good) memory, both of which could be solved to an extent by either mind magic or mundane exercises. Time loop covers the rest.
+>>>> 
+>>>> >spending a thousands of centuries around someone who can maybe forcibly make you immortal is a lot of risk, especially as being unreadable makes you much more of a perceived risk than when you were a transparent book
+>>>> 
+>>>> Well, the premise is quite risky to begin with. Be very, very careful, and hair-trigger suicidal?
+>>>> 
+>>>> Regarding readability, is it at all possible to fake it? If mind magic doesn't allow decoy minds, can you use ~biology divinity to implant yourself a fake brain, and ~space divinity to fold your actual brain into a pocket dimension, or something? Or communicate with the antagonist only through proxies/mind-clones who honestly believe they're whatever role you're playing this loop.
+>>>> 
+>>>> >What if there are clones of him?
+>>>> 
+>>>> Well, then instead of erasing the mind of your enslaved instance of him, have him loop— Ah, damn. It wouldn't work unless all of his instances are dead, would it?
+>>>> 
+>>>> Okay. I considered doing something like this at the end of my initial idea, but decided it was superfluous. Apparently not.
+>>>> 
+>>>> Enslave an instance of the antagonist as per above. If there's a "hierarchy" of instances, try to get one as high up the chain as possible.
+>>>> 
+>>>> With his help, engineer circumstances best solvable by time travel. Burn the whole planet down, fake an invasion of cosmic horrors, create grey goo, crash the simulation, pretend to be a *more* powerful god with 30+ divinities but no Will divinity, whatever. Target and destroy something the antagonist cares about, or present an insurmountable threat that could be easily solved with a century's forewarning.
+>>>> 
+>>>> Upload your mind into slave!antagonist's mind. Depending on how the Will timeloop works, either rewrite his mind with yours entirely, or add a "memory packet" with a snapshot of your mind (as high-fidelity as possible).
+>>>> 
+>>>> Use slave!antagonist to send messages to his other instances, informing them about the threat/disaster, and strongly advising them to kill themselves. Wait an undefined amount of time, until you're pretty sure all of them received the message and killed themselves. Order slave!antagonist to kill himself. After he loops, he will rewrite the mind of the person closest to him with your mind. Now you're at the dawn of time, where life was (presumably) simpler.
+>>>> 
+>>>> Assumptions:
+>>>> 
+>>>> * There are circumstances in which the antagonist would consider using his time-loop a rational course of actions.
+>>>> 
+>>>> * The antagonist is singular at the start of his loop (no clones), or at least murderably-plural.
+>>>> 
+>>>> * Time loops for the instance of the antagonist that dies last; the rest get erased.
+>>>> 
+>>>> * All instances of the antagonist could be messaged to.
+>>>> 
+>>>> At which point this would fail?
 
->>>>> **u/Veedrac** [+2] *
+>>>>> **u/Veedrac** [+2]  (a day later)
 >>>>> 
 >>>>> > If mind magic doesn't allow decoy minds, can you use ~biology divinity to implant yourself a fake brain, and ~space divinity to fold your actual brain into a pocket dimension, or something?
->>>>> There's no space divinity because there's no relativity, but the idea is interesting.
->>>>> > Well, the premise is quite risky to begin with. Be very, very careful, and hair-trigger suicidal?
->>>>> I would buy this over short durations, but when you're throwing numbers like googol around I just don't think it's plausible. (Your Will-bought luck would help if he didn't have that too.)
->>>>> > Or communicate with the antagonist only through proxies/mind-clones who honestly believe they're whatever role you're playing this loop.
->>>>> This is possible.
->>>>> > The antagonist is singular at the start of his loop (no clones), or at least murderably-plural.
->>>>> You suspect that his instances all have independent loops. Each clone would get their loop set to the point they were made. You're probably not talking to the original, so you probably don't have access to the original loop.
->>>>> > All instances of the antagonist could be messaged to.
->>>>> He very likely has some kind of sensory divinity, so all of his instances can observe all of the others should they be paying attention.
->>>>> > After he loops, he will rewrite the mind of the person closest to him with your mind.
->>>>> Minor issue: Assume he copies your mind, and kills himself a minute later. The "real" you half a minute after he has copied the past you is no longer copied, so would die when he loops. You end up being your own adversary!
->>>>> I don't think your plan survives these clarifications.
->>>>> ---
->>>>> I didn't think it would be relevant, but some context is important here. The antagonist originally wasn't going to fill the "final boss" role; he played his part in the story but for a while I didn't expect there was a clean way to force his hand on anything important. And this holds here too: not contesting him is a reasonable, if suboptimal, alternative. If your best plan involves burning down the earth, getting yourself time-erased, or spending a googol years hoping your reflexes are fast enough that you don't once trip up, maybe it's a game more risky than it's worth.
->>>>> Stepping back to the meta-level, generally the reason I'm not hot on your plan is that you have a lot of conjunctions. Eliezer's post [Burdensome Details](https://www.lesswrong.com/posts/Yq6aA4M3JKWaQepPJ/burdensome-details) expresses my feelings here quite well. If you can simplify things to something a little more likely to survive contact with the enemy, it'd be much more likely to work.
 >>>>> 
+>>>>> There's no space divinity because there's no relativity, but the idea is interesting.
+>>>>> 
+>>>>> > Well, the premise is quite risky to begin with. Be very, very careful, and hair-trigger suicidal?
+>>>>> 
+>>>>> I would buy this over short durations, but when you're throwing numbers like googol around I just don't think it's plausible. (Your Will-bought luck would help if he didn't have that too.)
+>>>>> 
+>>>>> > Or communicate with the antagonist only through proxies/mind-clones who honestly believe they're whatever role you're playing this loop.
+>>>>> 
+>>>>> This is possible.
+>>>>> 
+>>>>> > The antagonist is singular at the start of his loop (no clones), or at least murderably-plural.
+>>>>> 
+>>>>> You suspect that his instances all have independent loops. Each clone would get their loop set to the point they were made. You're probably not talking to the original, so you probably don't have access to the original loop.
+>>>>> 
+>>>>> > All instances of the antagonist could be messaged to.
+>>>>> 
+>>>>> He very likely has some kind of sensory divinity, so all of his instances can observe all of the others should they be paying attention.
+>>>>> 
+>>>>> > After he loops, he will rewrite the mind of the person closest to him with your mind.
+>>>>> 
+>>>>> Minor issue: Assume he copies your mind, and kills himself a minute later. The "real" you half a minute after he has copied the past you is no longer copied, so would die when he loops. You end up being your own adversary!
+>>>>> 
+>>>>> I don't think your plan survives these clarifications.
+>>>>> 
+>>>>> ---
+>>>>> 
+>>>>> I didn't think it would be relevant, but some context is important here. The antagonist originally wasn't going to fill the "final boss" role; he played his part in the story but for a while I didn't expect there was a clean way to force his hand on anything important. And this holds here too: not contesting him is a reasonable, if suboptimal, alternative. If your best plan involves burning down the earth, getting yourself time-erased, or spending a googol years hoping your reflexes are fast enough that you don't once trip up, maybe it's a game more risky than it's worth.
+>>>>> 
+>>>>> Stepping back to the meta-level, generally the reason I'm not hot on your plan is that you have a lot of conjunctions. Eliezer's post [Burdensome Details](https://www.lesswrong.com/posts/Yq6aA4M3JKWaQepPJ/burdensome-details) expresses my feelings here quite well. If you can simplify things to something a little more likely to survive contact with the enemy, it'd be much more likely to work.
 
->>>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>>>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (a day later)
 >>>>>> 
 >>>>>> >I would buy this over short durations, but when you're throwing numbers like googol around I just don't think it's plausible
->>>>>> A valid point. However, on such time scales, virtually everything that could theoretically harm you should be considered a threat — the antagonist isn't *special*, from this perspective, you'd need to figure out how to protect yourself against black swans anyway. I think there are some ways to do it, but I'm not sure.
->>>>>> >You suspect that his instances all have independent loops
->>>>>> Oh my. That... wait, that actually makes it way easier. Mindrape one of his instances, upload yourself into him, loop him, download yourself into the past. Find an older instance, mindrape him, upload yourself, loop him, download yourself. Repeat until the oldest instance is enslaved.
->>>>>> No need for the complicated self-destruction gambit^(1).
->>>>>> Hell, you could try to figure out what his oldest instance is, and focus all your manipulation efforts on him from the beginning. It's so comparatively easy I feel like I missed something.
->>>>>> > The "real" you half a minute after he has copied the past you is no longer copied, so would die when he loops
->>>>>> Meh. I'm inclined to agree with the antagonist here: as long as one instance survives, it could be assumed that my self survived as well. Unless this setting contains a more explicit seat of consciousness?
->>>>>> I suppose you could try to make a destructive upload, i. e., have slave!antagonist gradually erase your mind in the process of copying it — this should ensure the doomed you doesn't develop any independent memories. Or do it while asleep, or in a (magical/) coma...
->>>>>> >Burdensome Details
->>>>>> Well, I simplified in the light of the new information. I don't think it's that complicated at its core? It basically consist of the following steps:
->>>>>> 1. Preparation. Make sure you're actually *able* to successfully act against the antagonist.
->>>>>> 2. Information-gathering. Figure out the enemy's powers and personality.
->>>>>> 3. Learn how to manipulate the antagonist. Then do so.
->>>>>> 4. Find a way to use the antagonist's loop to send yourself into the past.
->>>>>> 5. Repeat 3-4 until you've dealt with all of his instances.
->>>>>> Given the flexibility of the abilities (time travel, mind magic, clones) and the power levels involved, I think it's simple enough.
->>>>>> **Edit:**
->>>>>> I could try to make it even simpler, though riskier in some ways:
->>>>>> * Become a divine mind mage. Help several loyal people ascend to divine mind magic as well, and preserve them from loop to loop as per u/Gurkenglas' suggestion.
->>>>>> * Find one of the antagonist's instances, assault him mentally. With a time loop to save-scum and your mind mages for help, you should win. Enslave him.
->>>>>> * Proceed with the iterative looping gambit.
->>>>>> ___
->>>>>> ^(1. Well, not quite true. It may be necessary in one edge case, I suppose.)
 >>>>>> 
+>>>>>> A valid point. However, on such time scales, virtually everything that could theoretically harm you should be considered a threat — the antagonist isn't *special*, from this perspective, you'd need to figure out how to protect yourself against black swans anyway. I think there are some ways to do it, but I'm not sure.
+>>>>>> 
+>>>>>> >You suspect that his instances all have independent loops
+>>>>>> 
+>>>>>> Oh my. That... wait, that actually makes it way easier. Mindrape one of his instances, upload yourself into him, loop him, download yourself into the past. Find an older instance, mindrape him, upload yourself, loop him, download yourself. Repeat until the oldest instance is enslaved.
+>>>>>> 
+>>>>>> No need for the complicated self-destruction gambit^(1).
+>>>>>> 
+>>>>>> Hell, you could try to figure out what his oldest instance is, and focus all your manipulation efforts on him from the beginning. It's so comparatively easy I feel like I missed something.
+>>>>>> 
+>>>>>> > The "real" you half a minute after he has copied the past you is no longer copied, so would die when he loops
+>>>>>> 
+>>>>>> Meh. I'm inclined to agree with the antagonist here: as long as one instance survives, it could be assumed that my self survived as well. Unless this setting contains a more explicit seat of consciousness?
+>>>>>> 
+>>>>>> I suppose you could try to make a destructive upload, i. e., have slave!antagonist gradually erase your mind in the process of copying it — this should ensure the doomed you doesn't develop any independent memories. Or do it while asleep, or in a (magical/) coma...
+>>>>>> 
+>>>>>> >Burdensome Details
+>>>>>> 
+>>>>>> Well, I simplified in the light of the new information. I don't think it's that complicated at its core? It basically consist of the following steps:
+>>>>>> 
+>>>>>> 1. Preparation. Make sure you're actually *able* to successfully act against the antagonist.
+>>>>>> 
+>>>>>> 2. Information-gathering. Figure out the enemy's powers and personality.
+>>>>>> 
+>>>>>> 3. Learn how to manipulate the antagonist. Then do so.
+>>>>>> 
+>>>>>> 4. Find a way to use the antagonist's loop to send yourself into the past.
+>>>>>> 
+>>>>>> 5. Repeat 3-4 until you've dealt with all of his instances.
+>>>>>> 
+>>>>>> Given the flexibility of the abilities (time travel, mind magic, clones) and the power levels involved, I think it's simple enough.
+>>>>>> 
+>>>>>> **Edit:**
+>>>>>> 
+>>>>>> I could try to make it even simpler, though riskier in some ways:
+>>>>>> 
+>>>>>> * Become a divine mind mage. Help several loyal people ascend to divine mind magic as well, and preserve them from loop to loop as per u/Gurkenglas' suggestion.
+>>>>>> 
+>>>>>> * Find one of the antagonist's instances, assault him mentally. With a time loop to save-scum and your mind mages for help, you should win. Enslave him.
+>>>>>> 
+>>>>>> * Proceed with the iterative looping gambit.
+>>>>>> 
+>>>>>> ___
+>>>>>> 
+>>>>>> ^(1. Well, not quite true. It may be necessary in one edge case, I suppose.)
 
->>>>>>> **u/Veedrac** [+1] *
+>>>>>>> **u/Veedrac** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> > However, on such time scales, virtually everything that could theoretically harm you should be considered a threat — the antagonist isn't *special*, from this perspective
+>>>>>>> 
 >>>>>>> It kind'a feels special; I would think it risky to spend a couple of days around this guy, never mind megayears. Very few things have comparable impact.
+>>>>>>> 
 >>>>>>> > Oh my. That... wait, that actually makes it way easier. Mindrape one of his instances, upload yourself into him, loop him, download yourself into the past. Find an older instance, mindrape him, upload yourself, loop him, download yourself. Repeat until the oldest instance is enslaved.
+>>>>>>> 
 >>>>>>> Do you realize that after the first assault he would catch on? Somehow I don't expect he'd go "oh no, my newly created clone standing right next to me has been mindraped, maybe I should talk to it."
+>>>>>>> 
 >>>>>>> > Hell, you could try to figure out what his oldest instance is, and focus all your manipulation efforts on him from the beginning. It's so comparatively easy I feel like I missed something.
+>>>>>>> 
 >>>>>>> And how do you expect to convince this oldest instance that you are seeking him out for purely altruistic purposes? I'm not even convinced you can minimax this with the merely same level of risk as minimaxing in person, which is saying something.
+>>>>>>> 
 >>>>>>> > 1. Preparation. Make sure you're actually able to successfully act against the antagonist.
 >>>>>>> >
 >>>>>>> > 2. Information-gathering. Figure out the enemy's powers and personality.
@@ -280,197 +373,244 @@ Good Luck and Have Fun!
 >>>>>>> > 4. Find a way to use the antagonist's loop to send yourself into the past.
 >>>>>>> >
 >>>>>>> > 5. Repeat 3-4 until you've dealt with all of his instances.
->>>>>>> Being able to summarise a complicated under-specified plan in "only" five bullet points by eliding almost all of the details does not really strike me of evidence of simplicity.
->>>>>>> > Find one of the antagonist's instances, assault him mentally. With a time loop to save-scum and your mind mages for help, you should win.
->>>>>>> This doesn't work; much like you can't exceed the speed of light by shining a torch from a moving train, you can't beat a divine with just a numerical advantage.
 >>>>>>> 
+>>>>>>> Being able to summarise a complicated under-specified plan in "only" five bullet points by eliding almost all of the details does not really strike me of evidence of simplicity.
+>>>>>>> 
+>>>>>>> > Find one of the antagonist's instances, assault him mentally. With a time loop to save-scum and your mind mages for help, you should win.
+>>>>>>> 
+>>>>>>> This doesn't work; much like you can't exceed the speed of light by shining a torch from a moving train, you can't beat a divine with just a numerical advantage.
 
->>>>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>>>>>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (2 days later)
 >>>>>>>> 
 >>>>>>>> > I would think it risky to spend a couple of days around this guy, never mind megayears
->>>>>>>> Because the antagonist's modus operandi is to... make everyone who annoys him immortal?^(1) Once you're a divine mind mage, that is the only danger the antagonist presents^(2) — and even then only if you let it slip that you're in a time loop, *and* don't realize it immediately, *and* the antagonist decides you're a threat to him. I could certainly see him killing you on a whim a number of times, but him granting you immortality despite your efforts in avoiding exactly this strikes me as unlikely enough.
->>>>>>>> Your own value-drift over megayears of life is likely a bigger threat.
->>>>>>>> >Do you realize that after the first assault he would catch on?
->>>>>>>> How? Have the mindraped clone play his part for a time, then separate from his creator and consult you for further instructions. There's no need to make his older instance aware that anything strange has happened.
->>>>>>>> That said... I imagined further loops would be easier, since you would begin them with one instance of the antagonist already enslaved. He would be as powerful as any of his other instances, *and* have a multi-divine mage in your form for help — I thought it would be sufficient to ensure your victory in any given engagement. If that's not true... Well, it's still not impossibly hard.
->>>>>>>> >And how do you expect to convince this oldest instance that you are seeking him out for purely altruistic purposes?
->>>>>>>> Whyever would you make him aware that you're seeking him? Have a proxy approach a random instance, become his known acquaintance. At some point, casually inquire about the antagonist's self-replication abilities, try to steer the conversation towards his "personal" age and his closest "fork". Maybe phrase it as a philosophical discussion about continuity of consciousness, or whatever is context-appropriate.
->>>>>>>> It does heavily depend on the antagonist's personality and the context of his interactions with the protagonist, I'll admit. How did they meet? How frequently does the antagonist interact with other humans? What form do these interaction take?
->>>>>>>> >Being able to summarise a complicated under-specified plan in "only" five bullet points by elliding almost all of the details does not really strike me of evidence of simplicity.
->>>>>>>> What would you consider a sufficiently simple plan? I don't think mine has that many moving parts.
->>>>>>>> Becoming divine in mind magic is possible. Having an enslaved person save and restore your mind is possible. Spending extraordinary amounts of time near the antagonist is less risky in these circumstances, since the correct method of derailing your plans is pretty counter-intuitive; it could be ameliorated even further by usage of proxies. Most of all, time loops are nearly *peerless* among information-gathering tools.
->>>>>>>> The only real problem lies in attempting to manipulate one of his instances into slavery, but it's not *that* hard given all the advantages you would have: a time loop, borderline-inhuman deception/manipulation abilities backed up by divine mind magic insights, and extensive knowledge of the antagonist's personality and behavioural patterns.
->>>>>>>> The *core* of the plan is to become the antagonist's friend, backstab him the moment he lets down his guard, then hijack his time loops to get rid of his clones. All complexity arises from the need to circumvent his various abilities. Is that still too complicated?
->>>>>>>> ___
->>>>>>>> ^(1. Despite the way I phrased it, it *is* a honest question. Is the antagonist's behaviour particularly unstable/unhinged?)
->>>>>>>> ^(2. As far as I know in the context of this exercise, anyway.)
 >>>>>>>> 
+>>>>>>>> Because the antagonist's modus operandi is to... make everyone who annoys him immortal?^(1) Once you're a divine mind mage, that is the only danger the antagonist presents^(2) — and even then only if you let it slip that you're in a time loop, *and* don't realize it immediately, *and* the antagonist decides you're a threat to him. I could certainly see him killing you on a whim a number of times, but him granting you immortality despite your efforts in avoiding exactly this strikes me as unlikely enough.
+>>>>>>>> 
+>>>>>>>> Your own value-drift over megayears of life is likely a bigger threat.
+>>>>>>>> 
+>>>>>>>> >Do you realize that after the first assault he would catch on?
+>>>>>>>> 
+>>>>>>>> How? Have the mindraped clone play his part for a time, then separate from his creator and consult you for further instructions. There's no need to make his older instance aware that anything strange has happened.
+>>>>>>>> 
+>>>>>>>> That said... I imagined further loops would be easier, since you would begin them with one instance of the antagonist already enslaved. He would be as powerful as any of his other instances, *and* have a multi-divine mage in your form for help — I thought it would be sufficient to ensure your victory in any given engagement. If that's not true... Well, it's still not impossibly hard.
+>>>>>>>> 
+>>>>>>>> >And how do you expect to convince this oldest instance that you are seeking him out for purely altruistic purposes?
+>>>>>>>> 
+>>>>>>>> Whyever would you make him aware that you're seeking him? Have a proxy approach a random instance, become his known acquaintance. At some point, casually inquire about the antagonist's self-replication abilities, try to steer the conversation towards his "personal" age and his closest "fork". Maybe phrase it as a philosophical discussion about continuity of consciousness, or whatever is context-appropriate.
+>>>>>>>> 
+>>>>>>>> It does heavily depend on the antagonist's personality and the context of his interactions with the protagonist, I'll admit. How did they meet? How frequently does the antagonist interact with other humans? What form do these interaction take?
+>>>>>>>> 
+>>>>>>>> >Being able to summarise a complicated under-specified plan in "only" five bullet points by elliding almost all of the details does not really strike me of evidence of simplicity.
+>>>>>>>> 
+>>>>>>>> What would you consider a sufficiently simple plan? I don't think mine has that many moving parts.
+>>>>>>>> 
+>>>>>>>> Becoming divine in mind magic is possible. Having an enslaved person save and restore your mind is possible. Spending extraordinary amounts of time near the antagonist is less risky in these circumstances, since the correct method of derailing your plans is pretty counter-intuitive; it could be ameliorated even further by usage of proxies. Most of all, time loops are nearly *peerless* among information-gathering tools.
+>>>>>>>> 
+>>>>>>>> The only real problem lies in attempting to manipulate one of his instances into slavery, but it's not *that* hard given all the advantages you would have: a time loop, borderline-inhuman deception/manipulation abilities backed up by divine mind magic insights, and extensive knowledge of the antagonist's personality and behavioural patterns.
+>>>>>>>> 
+>>>>>>>> The *core* of the plan is to become the antagonist's friend, backstab him the moment he lets down his guard, then hijack his time loops to get rid of his clones. All complexity arises from the need to circumvent his various abilities. Is that still too complicated?
+>>>>>>>> 
+>>>>>>>> ___
+>>>>>>>> 
+>>>>>>>> ^(1. Despite the way I phrased it, it *is* a honest question. Is the antagonist's behaviour particularly unstable/unhinged?)
+>>>>>>>> 
+>>>>>>>> ^(2. As far as I know in the context of this exercise, anyway.)
 
->>>>>>>>> **u/Veedrac** [+1] *
+>>>>>>>>> **u/Veedrac** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> > What would you consider a sufficiently simple plan? I don't think mine has that many moving parts.
->>>>>>>>> Without spoiling anything, mine goes roughly: you show up, he goes "oh shit", you try to avoid getting taken by surprise from his desperate attempts to get out of this mess.
->>>>>>>>> It's still more complicated than I'd like, but it's a start.
->>>>>>>>> > Because the antagonist's modus operandi is to... make everyone who annoys him immortal?^(1) Once you're a divine mind mage, that is the only danger the antagonist presents^(2) — and even then only if you let it slip that you're in a time loop, *and* don't realize it immediately, *and* the antagonist decides you're a threat to him.
->>>>>>>>> That was a joke he made when he was laughing at your feeble attempts to threaten him. By no means is it his only option here. Let me turn this one around on you: what would *you* do if you were the adversary and suspected the shockingly-convincing mind mage was a looper?
->>>>>>>>> (Background info for probability estimates: there are more loopers than there are divine mind mages.)
->>>>>>>>> > How? Have the mindraped clone play his part for a time, then separate from his creator and consult you for further instructions. There's no need to make his older instance aware that anything strange has happened.
->>>>>>>>> He loops back to the instant he was created, and has no a priori reason to prevent himself from being mind read by his creator at that time. That in itself confers a high probability of instant disqualification.
->>>>>>>>> Relying on convincingly acting out your own actions from hundreds of years ago, not being observed when you go off-script and repeating the whole convoluted plan is another large risk on top.
->>>>>>>>> > It does heavily depend on the antagonist's personality and the context of his interactions with the protagonist, I'll admit. How did they meet? How frequently does the antagonist interact with other humans? What form do these interaction take?
->>>>>>>>> The antagonist is largely uninvolved in society, though does a few things with high impact to them. Most of the instances are out of physical reach unless you're a shapeshifter or fire elemental. Only a handful of people know he isn't actually the creator of all existence.
 >>>>>>>>> 
+>>>>>>>>> Without spoiling anything, mine goes roughly: you show up, he goes "oh shit", you try to avoid getting taken by surprise from his desperate attempts to get out of this mess.
+>>>>>>>>> 
+>>>>>>>>> It's still more complicated than I'd like, but it's a start.
+>>>>>>>>> 
+>>>>>>>>> > Because the antagonist's modus operandi is to... make everyone who annoys him immortal?^(1) Once you're a divine mind mage, that is the only danger the antagonist presents^(2) — and even then only if you let it slip that you're in a time loop, *and* don't realize it immediately, *and* the antagonist decides you're a threat to him.
+>>>>>>>>> 
+>>>>>>>>> That was a joke he made when he was laughing at your feeble attempts to threaten him. By no means is it his only option here. Let me turn this one around on you: what would *you* do if you were the adversary and suspected the shockingly-convincing mind mage was a looper?
+>>>>>>>>> 
+>>>>>>>>> (Background info for probability estimates: there are more loopers than there are divine mind mages.)
+>>>>>>>>> 
+>>>>>>>>> > How? Have the mindraped clone play his part for a time, then separate from his creator and consult you for further instructions. There's no need to make his older instance aware that anything strange has happened.
+>>>>>>>>> 
+>>>>>>>>> He loops back to the instant he was created, and has no a priori reason to prevent himself from being mind read by his creator at that time. That in itself confers a high probability of instant disqualification.
+>>>>>>>>> 
+>>>>>>>>> Relying on convincingly acting out your own actions from hundreds of years ago, not being observed when you go off-script and repeating the whole convoluted plan is another large risk on top.
+>>>>>>>>> 
+>>>>>>>>> > It does heavily depend on the antagonist's personality and the context of his interactions with the protagonist, I'll admit. How did they meet? How frequently does the antagonist interact with other humans? What form do these interaction take?
+>>>>>>>>> 
+>>>>>>>>> The antagonist is largely uninvolved in society, though does a few things with high impact to them. Most of the instances are out of physical reach unless you're a shapeshifter or fire elemental. Only a handful of people know he isn't actually the creator of all existence.
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (3 days later)
 >> 
 >> Seems like such a being as this God would value gaining more power(s) in your world. Teach him a magic that by definition mostly benefits others. Encourage him to practice until the value shift makes your ability to end existence a motivating factor.
->> Or shortcut this process by learning the magic that controls value shifts.
 >> 
+>> Or shortcut this process by learning the magic that controls value shifts.
 
->>> **u/Veedrac** [+1] *
+>>> **u/Veedrac** [+1]  (3 days later)
 >>> 
 >>> > Teach him a magic
->>> Given he knows everything you do and more in the field, and is capable of producing his own loopers to farm time to do his research for him, where do you fit in this picture?
->>> > Or shortcut this process by learning the magic that controls value shifts.
->>> Mind magic, he already knows that.
 >>> 
+>>> Given he knows everything you do and more in the field, and is capable of producing his own loopers to farm time to do his research for him, where do you fit in this picture?
+>>> 
+>>> > Or shortcut this process by learning the magic that controls value shifts.
+>>> 
+>>> Mind magic, he already knows that.
 
-> **u/Iwasahipsterbefore** [+6] *
+> **u/Iwasahipsterbefore** [+3]  (37 minutes later)
 > 
 > In a world of minor super powers, you can create an electric current that is always 1 volt, directed away from you. You need either A. Line of sight B. Direct physical contact or C. An in depth understanding of where everything is situated in order to direct your power. The current is limited to a maximum of an 8 foot radius, centered on whichever body part is creating the current. How do you take over the world?
-
-> **edit**: Oops, the power was supposed to be creating a current of 1 Amp, not volts. I had the units switched in my head.
 > 
+> **edit**: Oops, the power was supposed to be creating a current of 1 Amp, not volts. I had the units switched in my head.
 
->> **u/holomanga** [+10] *
+>> **u/holomanga** [+11]  (an hour later)
 >> 
 >> You can superheat blocks of metal - since they're conducting, a modest potential difference creates an enormous flow of electrons. Wikipedia says a 1 cm^(3) block of silver has a resistance of a microohm, which gives you a megawatt of power dissipated. This keeps going up until your conductor melts.
->> EDIT: For a current of one amp, the principle is the same, except you should now use it on an insulator, which gives you an enormous potential difference and therefore an enormous power dissipation. I think this keeps going until your insulator's electrons dissociate, at which point you get a conducting plasma. This happens at about 10,000 K.
 >> 
+>> EDIT: For a current of one amp, the principle is the same, except you should now use it on an insulator, which gives you an enormous potential difference and therefore an enormous power dissipation. I think this keeps going until your insulator's electrons dissociate, at which point you get a conducting plasma. This happens at about 10,000 K.
 
->>> **u/ShiranaiWakaranai** [+7] *
+>>> **u/ShiranaiWakaranai** [+6]  (2 hours later)
 >>> 
 >>> That raises a curious issue: what happens if you use your power on a superconductor? Current = Voltage / Resistance, and Resistance is 0 for a superconductor. So using your power to create a 1 volt current on a superconductor literally forces the universe to divide by zero.
->>> 
 
->>>> **u/IvorTheEngine** [+8] *
+>>>> **u/IvorTheEngine** [+9]  (7 hours later)
 >>>> 
 >>>> Doesn't quite work, real world superconductors have a maximum current density where they stop being superconductors.
->>>> 
 
->> **u/sdmat** [+7] *
+>> **u/sdmat** [+5]  (a day later)
 >> 
 >> 1 amp through a large x-ray tube would make for a reasonably effective weapon.
->> But since we're talking take-over-the-world, how about some classic rules lawyer munchkinery?
->> 1) A sustained electric current is always a loop, since electron density can't go below zero
->> 2) The power produces a current with a hard distance limit of 8 feet, so no outwardly directed current extends beyond the 8 foot limit.
->> 3) The return current must therefore also have the same distance limit.
->> 4) By basic geometry, the closer we get to the 8 feet limit the tighter the turns return current paths have to make
->> Enter [Braking Radiation](https://en.wikipedia.org/wiki/Bremsstrahlung)! Electrons making turns emit electromagnetic radiation, with frequency (and energy) a function of the the acceleration involved. So as the turn gets tighter the radiation will go from radio waves to visible light, ultraviolet, right up to X-rays and gamma rays.
->> Gamma rays can be ridiculously energetic, and by pushing the current to *juuuuuust* under 8 feet we can make [ultra high energy gamma rays] (https://en.wikipedia.org/wiki/Ultra-high-energy_gamma_ray) even more powerful than the most energetic cosmic rays. In principle each photon could have the power of an artillery shell.
->> This should work without any special equipment but will be most effective when the turn is made in a vacuum so the electrons can travel faster. I.e. an X-ray tube without a conventional anode.
->> The neat thing about this is that if the electrons are fast enough the radiation will be directed away from you, so with some shielding against backscatter it might even be possible to survive the experience.
->> Pushing this to the limit, you could hold a country to ransom with a few milliamps and a "surrender or I will irradiate your largest city" speech. Either do that until the world surrenders or take over US/Russia/China/other space-faring country and threaten thousands of square kilometers at once from orbit.
->> tl;dr: Abuse the hell out of the specific wording to make a synchrotron death cannon.
 >> 
+>> But since we're talking take-over-the-world, how about some classic rules lawyer munchkinery?
+>> 
+>> 1) A sustained electric current is always a loop, since electron density can't go below zero
+>> 
+>> 2) The power produces a current with a hard distance limit of 8 feet, so no outwardly directed current extends beyond the 8 foot limit.
+>> 
+>> 3) The return current must therefore also have the same distance limit.
+>> 
+>> 4) By basic geometry, the closer we get to the 8 feet limit the tighter the turns return current paths have to make
+>> 
+>> Enter [Braking Radiation](https://en.wikipedia.org/wiki/Bremsstrahlung)! Electrons making turns emit electromagnetic radiation, with frequency (and energy) a function of the the acceleration involved. So as the turn gets tighter the radiation will go from radio waves to visible light, ultraviolet, right up to X-rays and gamma rays.
+>> 
+>> Gamma rays can be ridiculously energetic, and by pushing the current to *juuuuuust* under 8 feet we can make [ultra high energy gamma rays] (https://en.wikipedia.org/wiki/Ultra-high-energy_gamma_ray) even more powerful than the most energetic cosmic rays. In principle each photon could have the power of an artillery shell.
+>> 
+>> This should work without any special equipment but will be most effective when the turn is made in a vacuum so the electrons can travel faster. I.e. an X-ray tube without a conventional anode.
+>> 
+>> The neat thing about this is that if the electrons are fast enough the radiation will be directed away from you, so with some shielding against backscatter it might even be possible to survive the experience.
+>> 
+>> Pushing this to the limit, you could hold a country to ransom with a few milliamps and a "surrender or I will irradiate your largest city" speech. Either do that until the world surrenders or take over US/Russia/China/other space-faring country and threaten thousands of square kilometers at once from orbit.
+>> 
+>> tl;dr: Abuse the hell out of the specific wording to make a synchrotron death cannon.
 
->>> **u/Iwasahipsterbefore** [+2] *
+>>> **u/Iwasahipsterbefore** [+2]  (a day later)
 >>> 
 >>> Grade A munchkinery, I approve
->>> 
 
->> **u/ShiranaiWakaranai** [+3] *
+>> **u/ShiranaiWakaranai** [+6]  (an hour later)
 >> 
 >> Well, the first thing you need to do is figure out how exactly you are "creating" an electric current. Are you spawning electrons out of thin air? Or are you pushing electrons around? If it is the former, what happens if you try to spawn electrons inside other matter? If it is the latter, what happens if you try to create electric currents where there are no electrons? Do you start pushing protons instead? Can you push protons out of atoms? All these questions have potentially fun nuclear consequences.
->> 
 
->>> **u/Iwasahipsterbefore** [+2] *
+>>> **u/Iwasahipsterbefore** [+2]  (2 hours later)
 >>> 
 >>> The vector of the power is pushing electrons. If there are no electrons there is nothing to push.
->>> 
 
->> **u/IntPenDesSwo** [+4] *
+>> **u/IntPenDesSwo** [+4]  (an hour later)
 >> 
 >> Is there a limit on the amps, or is that arbitrary? Apparently that's the real killer to a shock.
->> 
 
->>> **u/IvorTheEngine** [+3] *
+>>> **u/IvorTheEngine** [+3]  (7 hours later)
 >>> 
 >>> It only takes 50ma to stop your heart. That's why earth leakage circuit breakers are usually 30ma.
->>> 
 
->>> **u/Iwasahipsterbefore** [+2] *
+>>> **u/Iwasahipsterbefore** [+2]  (2 hours later)
 >>> 
 >>> Amps are arbitrary
->>> 
 
->>>> **u/IntPenDesSwo** [+2] *
+>>>> **u/IntPenDesSwo** [+2]  (2 hours later)
 >>>> 
 >>>> Glad you explained that, otherwise you'd just be able to instantly kill anyone that got too close. Not sure what incredibly high *voltage* does to a shocks interaction with its mediumt though.
->>>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (2 hours later)
 >> 
 >> Can I take a transformer and change the voltage? And power my cell phone with it? 
->> Where does the energy come from? I assume limited energy but more energy than should be possible.
->> Is it possible to built a power suit that is powered with my power? I would get a huge advantage, cause I didn't need a battery.
->> Maybe built a coil gun. 
-
->> Okay, away from superhero cliche. I could get an electric car. Or plane. And save on fuel costs.
->> Well if I could use 2 volt by creating two currents via line of sight and touch, I could create Hydrogen gas from water. 
->> Well that all depends on circumventing the 1 volt limit. I fear I don't know if 1 volt could be felt. If it can, I use it to pretend to be a prophet, except super powers should be known. Or if super powers are known, act like I have another power, like telling the truth and people tested by me feel it. And mess with heads of states.
->> Well if I can go really ridiculous I could try to mess with the body chemistry. And with studying and many experiments kill people with a look, hours or weeks after meeting. Or change data on a computer... How much voltage does a computer need to change zeroes and ones... googled 3.3 Volt as the lowest number, so nope...
->> Well, I guess I would ignore my power and try to take over the world the old fashioned way. Becoming a populist and tell people what they want to hear. Train my own brainwashed elite soldiers, and take over one country with voting (not necessarily legal or fair votes). Make me ruler for life, attack other countries under false pretense (Maybe dispose of other dictators). Let my countries spies fight an underground war and spread propaganda abound me and tell them bad stuff (not always lies) about their leaders. And promise better conditions under my rule. 
->> Maybe start some unions (EU, NATO, UN) and take that over. 
->> My power would help only in some minor ways, like pretending to be a prophet or able to tell lies.
->> EDIT: Of course I would try to get other people with minor super powers on my site, or get rid of them without pissing them off.
 >> 
+>> Where does the energy come from? I assume limited energy but more energy than should be possible.
+>> 
+>> Is it possible to built a power suit that is powered with my power? I would get a huge advantage, cause I didn't need a battery.
+>> 
+>> Maybe built a coil gun. 
+>> 
+>> Okay, away from superhero cliche. I could get an electric car. Or plane. And save on fuel costs.
+>> 
+>> Well if I could use 2 volt by creating two currents via line of sight and touch, I could create Hydrogen gas from water. 
+>> 
+>> Well that all depends on circumventing the 1 volt limit. I fear I don't know if 1 volt could be felt. If it can, I use it to pretend to be a prophet, except super powers should be known. Or if super powers are known, act like I have another power, like telling the truth and people tested by me feel it. And mess with heads of states.
+>> 
+>> Well if I can go really ridiculous I could try to mess with the body chemistry. And with studying and many experiments kill people with a look, hours or weeks after meeting. Or change data on a computer... How much voltage does a computer need to change zeroes and ones... googled 3.3 Volt as the lowest number, so nope...
+>> 
+>> Well, I guess I would ignore my power and try to take over the world the old fashioned way. Becoming a populist and tell people what they want to hear. Train my own brainwashed elite soldiers, and take over one country with voting (not necessarily legal or fair votes). Make me ruler for life, attack other countries under false pretense (Maybe dispose of other dictators). Let my countries spies fight an underground war and spread propaganda abound me and tell them bad stuff (not always lies) about their leaders. And promise better conditions under my rule. 
+>> 
+>> Maybe start some unions (EU, NATO, UN) and take that over. 
+>> 
+>> My power would help only in some minor ways, like pretending to be a prophet or able to tell lies.
+>> 
+>> EDIT: Of course I would try to get other people with minor super powers on my site, or get rid of them without pissing them off.
 
->> **u/MilesSand** [+2] *
+>> **u/MilesSand** [+2]  (3 days later)
 >> 
 >> Buy a 100GOhm resistor. Running 1A through it results in a voltage of 100 GV across it. Now you have some options:
->>  Weaponize your newfound box of lightning. Not only can it arc electricity to the nearest sink, it can cause explosions (which combined with a nozzle is also a means of transportation)  and turn many materials into soot 
->> Solve the free energy problem and simply buy the world with the profits.
->> Talk to some researchers and create new materials by using processes that are normally limited by power issues, then use the materials to do one of the above.
->> Forget world domination and go swimming and fishing at the same time
 >> 
+>>  Weaponize your newfound box of lightning. Not only can it arc electricity to the nearest sink, it can cause explosions (which combined with a nozzle is also a means of transportation)  and turn many materials into soot 
+>> 
+>> Solve the free energy problem and simply buy the world with the profits.
+>> 
+>> Talk to some researchers and create new materials by using processes that are normally limited by power issues, then use the materials to do one of the above.
+>> 
+>> Forget world domination and go swimming and fishing at the same time
 
-> **u/Genarment** [+2] *
+> **u/Genarment** [+2]  (8 hours later)
 > 
 > You secrete a substance that can allow you to animate, control, see, and hear through objects coated by it. "Animate" allows objects to move within their normal range of flexibility and then some. For example: if you animate a marble, it can roll at walking speed; if you animate a stick, it can bend slightly to crawl like a caterpillar; if you animate a suit of armor, it can get up and walk and fight clumsily. Your control is roughly equivalent to Skitter's control of bugs in Worm; that is, pretty much absolute. It also grants the appropriate level of multitasking ability - you can act simultaneously from as many controlled objects as you like. Your secretion is permanent. 
+> 
 > Limitations: Simple soap and water can remove your control-substance from almost anything. Control and flexibility weaken the larger the ratio of mass-to-secretion; a drop of secretion can only viably control about 100 grams of object. You get more fine control with more secretion, but diminishing returns apply. The best control you can expect is to be able to move e.g. a mostly-coated suit of armor as if you were wearing it. You cannot control living things (but you can control their clothing). If a non-coated piece is cut away from a coated object, you lose control of the non-coated part. Stiff objects move slowly, if at all; supple objects like cloth have plenty of motion but are relatively weak. Small objects also move slowly. 
+> 
 > Circumstances: For further "creative narrowing," munchkin within these constraints. Assume no technology higher than medieval (no gunpowder). You are trying to defend a castle against humanoid invaders. You have years of prep time if you need it - long enough to coat just about everything needed, but not enough to generate pools of the secretion (not that you'd want to). Your attackers know your power, but haven't seen you use it. 
 > The spying applications of this power are trivial to abuse; I am interested in the combat applications. 
-> Full disclosure: am GM in a homebrew Pathfinder campaign, looking for ideas I haven't already come up with for screwing with players. They're high level, they can take it. I have tweaked the circumstances somewhat.
 > 
+> Full disclosure: am GM in a homebrew Pathfinder campaign, looking for ideas I haven't already come up with for screwing with players. They're high level, they can take it. I have tweaked the circumstances somewhat.
 
->> **u/WilyCoyotee** [+3] *
+>> **u/WilyCoyotee** [+3]  (11 hours later)
 >> 
 >> Coating trebuchets and Catapults to out siege the siegers
->> Golems wielding un-secreted swords, or simply replacing the armored gauntlets with blades.
->> Depending on how complex you can build, some wheeled/spiked "car" to either transport the golems or act as a highly mobile "tank", that is, it just tries to steamroll/roadkill invaders. That also works for inside the castle too, like a piston on wheels version of the indiana jones stone ball.
->> Inside the castle, cloth whips could make a good impression of those half life [Barnacles](http://half-life.wikia.com/wiki/Barnacle)
->> Crossbows that are covered in secretion could maybe reload faster than humans, so if repeating crossbows are a thing yet, then more golems with crossbows.
->> If your secretion can be protected with varnish or paint to protect it from rain, then that would certainly be a good idea.
->> I expect as far as golems go, you could probably roll with some ...creative... designs. Much like how dark souls has wheeled skeletons, the physical design of your secretion-minions can be all over the place.
->> Muderholes filled with extending secretion controlled spikes would be a good idea, too. Place a carpet over it?
-
->> Secretion on the hinges of doors, so they can slam open or shut as needed?
 >> 
+>> Golems wielding un-secreted swords, or simply replacing the armored gauntlets with blades.
+>> 
+>> Depending on how complex you can build, some wheeled/spiked "car" to either transport the golems or act as a highly mobile "tank", that is, it just tries to steamroll/roadkill invaders. That also works for inside the castle too, like a piston on wheels version of the indiana jones stone ball.
+>> 
+>> Inside the castle, cloth whips could make a good impression of those half life [Barnacles](http://half-life.wikia.com/wiki/Barnacle)
+>> 
+>> Crossbows that are covered in secretion could maybe reload faster than humans, so if repeating crossbows are a thing yet, then more golems with crossbows.
+>> 
+>> If your secretion can be protected with varnish or paint to protect it from rain, then that would certainly be a good idea.
+>> 
+>> I expect as far as golems go, you could probably roll with some ...creative... designs. Much like how dark souls has wheeled skeletons, the physical design of your secretion-minions can be all over the place.
+>> 
+>> Muderholes filled with extending secretion controlled spikes would be a good idea, too. Place a carpet over it?
+>> 
+>> Secretion on the hinges of doors, so they can slam open or shut as needed?
 
->>> **u/Genarment** [+1] *
+>>> **u/Genarment** [+1]  (2 days later)
 >>> 
 >>> I hadn't thought of the tank idea, but the rolling boulder one I planned to use. Repeating crossbows aren't a thing (here) but they could reload themselves and you could have other objects loading arrows. Carpet plus murderholes with spikes is nice, and you can coat the carpet too!
->>> 
 
->>>> **u/WilyCoyotee** [+2] *
+>>>> **u/WilyCoyotee** [+2]  (2 days later)
 >>>> 
 >>>> This individual's power is like sieging the castle from the beauty and the beast...
->>>> 
 
->> **u/Veedrac** [+2] *
+>> **u/Veedrac** [+2]  (21 hours later)
 >> 
 >> How much do you secrete over time? Power in numbers. Small, high-damage weapons en mass are likely the best bet. Some early thoughts, nothing gamebreaking:
+>> 
 >> * I suspect that armies of bows effectively maximises firepower.
 >> * Traps can be controlled with small quantities of secretion, since you only need the lever to be active. They can also be autonomous.
 >> * Having an automated factory is probably extremely useful.
@@ -478,61 +618,67 @@ Good Luck and Have Fun!
 >> * If you're alone, your castle does not need entrances or stairs, since you don't need to support a population; fill those with rubble and get a rope to let you up when you come and go. Put contraptions around the top of walls to knock off ladders. Grow masses of thorns around the castle.
 >> * Typical defenses like boiling oil and whatnot still make sense, even if they aren't magnified.
 >> * Your greatest risk seems to be enemy siege weapons; coating them with your secretion (either from a projectile or through pre-placed mobile traps down below) allows you to sabotage them.
->> 
 
->>> **u/Genarment** [+1] *
+>>> **u/Genarment** [+1]  (2 days later)
 >>> 
 >>> Small pokey things tend to be very weak and slow, but if you can get them close and numerous enough it can work. It would be harder than you might think to get needles past armor, though, especially with a panicking armor-wearer brushing them off. 
->>> You may not need entrances, but if anything's to move about the castle or leave it, the objects need them. Breathable air, however...
 >>> 
+>>> You may not need entrances, but if anything's to move about the castle or leave it, the objects need them. Breathable air, however...
 
->> **u/IX-103** [+2] *
+>> **u/IX-103** [+2]  (a day later)
 >> 
 >> As WilyCoyotee mentioned, whips and flails are good. I would harvest and weave spider silk instead of leather -- it's much lighter and stronger. I would need to do the math, but you may be able to make a spider silk chain for some bolos thin enough to cut anyone unarmored. Also make some thick self tangling nets to launch. Add arrows trailing threads of spider silk to increase annoyance. 
+>> 
 >> Special weapons for catapults: 
 >>  - Strong sealed containers (made of two layers of oilled cloth with an inner layer of clay). These serve as guidance with an external payload than can contain an flammable/poisonous/acid that can roll to the Target after being launched.
 >> - Guided missiles/bombs. Add stearing fins, bend fins to steer.
 >> - Air burst weapons - Fill canisters with some area denial weapon, trigger release above ground to get good spread. 
 >> Note that combining guided airburst shots containing dry finely milled flour with a single fire arrow can result in a nice explosion, though you may want to prepare the target with oil first for maximum effect.
+>> 
 >> The goop could probably run a good pumping infrastructure so water traps are possible (such as a staircase with 3ft of water moving down it constantly).
+>> 
 >> The usual fake walls/ceilings/floors (thin stone veneer over goop covered traps) that come alive to attack (whips and nets from the ceiling, bolos and arrows from the sides, floor has thin threads that grab at their feet).
 >> Caltrops that move underfoot (lightly mixed with regular ones).
->> 
 
->>> **u/Genarment** [+1] *
+>>> **u/Genarment** [+1]  (2 days later)
 >>> 
 >>> Ooo, didn't think of making pumping machines for normal water. That could be interesting. Guided missile potential is fascinating too.
->>> 
 
->> **u/MilesSand** [+2] *
+>> **u/MilesSand** [+2]  (3 days later)
 >> 
 >> Can scrolls or magic items controlled by this substance cast themselves /expend charges?
->> Could make the wizard's spell book eat itself. (snap open and shut all night until the pages are destroyed)
->> Use the substance to control more of the substance for long distance fuckery
->> The villain knows all the heroes plans if he chooses to listen to them by hiding a drop in someone's hair or shoe
->> Some clever use of magic or even a mundane bellows might be enough to effectively (though not technically) aerosolize an amount of the substance, creating areas full of the stuff in the air until it settles - which could cause trouble for someone who walks through the space
->> Or control the shoes of heroes who step in it, creating difficult terrain that your ambush party automatically ignores
->> Mix with something that doesn't wash off as easily and keeps the soap from taking your substance with it for a nasty surprise when the heroes have learned to wash everything they encounter before getting close.
 >> 
+>> Could make the wizard's spell book eat itself. (snap open and shut all night until the pages are destroyed)
+>> 
+>> Use the substance to control more of the substance for long distance fuckery
+>> 
+>> The villain knows all the heroes plans if he chooses to listen to them by hiding a drop in someone's hair or shoe
+>> 
+>> Some clever use of magic or even a mundane bellows might be enough to effectively (though not technically) aerosolize an amount of the substance, creating areas full of the stuff in the air until it settles - which could cause trouble for someone who walks through the space
+>> 
+>> Or control the shoes of heroes who step in it, creating difficult terrain that your ambush party automatically ignores
+>> 
+>> Mix with something that doesn't wash off as easily and keeps the soap from taking your substance with it for a nasty surprise when the heroes have learned to wash everything they encounter before getting close.
 
->> **u/L0kiMotion** [+2] *
+>> **u/L0kiMotion** [+2]  (5 months later)
 >> 
 >> Make a stick figure out of rope and coat it with goop. Wrap each piece of rope with cloth that has been covered with more goop. Repeat this a number of times until you have something the size and shape of a grown human, with each layer gooped. Put this inside a suit of armour that has been gooped inside and out. You should now have an armoured golem with more strength, weight and durability than a gooped empty suit of armour.
->> Golem-spiders spread around would act as spies.
->> Coating arrows in goop would let archers fire volleys of guided missiles, ensuring that all arrows are concentrated where they can deal the most damage.
->> Coating a ship with goop would essentially let you sail it by itself, and wooden planks connected by strips of leather would serve as crude oars (though not as strong as regular rowers). Obviously you would need to stick several layers of materials together with goop and then lacquer the outside wherever possible.
->> A wooden skeleton wrapped in leather and sealed airtight with a number of metal legs would be heavy enough to sink, and with enough legs you could walk it across the bottom of the ocean, maybe transport troops for a surprise attack across a river or bay. The challenge would be opening/closing without flooding (probably from underneath) and not running out of air.
 >> 
+>> Golem-spiders spread around would act as spies.
+>> 
+>> Coating arrows in goop would let archers fire volleys of guided missiles, ensuring that all arrows are concentrated where they can deal the most damage.
+>> 
+>> Coating a ship with goop would essentially let you sail it by itself, and wooden planks connected by strips of leather would serve as crude oars (though not as strong as regular rowers). Obviously you would need to stick several layers of materials together with goop and then lacquer the outside wherever possible.
+>> 
+>> A wooden skeleton wrapped in leather and sealed airtight with a number of metal legs would be heavy enough to sink, and with enough legs you could walk it across the bottom of the ocean, maybe transport troops for a surprise attack across a river or bay. The challenge would be opening/closing without flooding (probably from underneath) and not running out of air.
 
->> **u/MonstrousBird** [+1] *
+>> **u/MonstrousBird** [+1]  (2 days later)
 >> 
 >> Does your coating of things have to be on the outside? For instance could you make a golem, coat it with your substance, and then add an outer layer to the golem that is impervious to soap and water?
->> 
 
->>> **u/Genarment** [+2] *
+>>> **u/Genarment** [+2]  (3 days later)
 >>> 
 >>> No, your coating does not have to be on the outside. You could also make a hollow golem and coat the inside. Good thinking.
->>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/glennonymous  *Friendly AI Alliance**
 * URL: https://www.reddit.com/r/rational/comments/2s7pps/ericas_adventures_in_the_multiverse_chapter_13/
-* Score: 5
+* Score: 4
 
 * Created: 2015-01-12T22:27:19
 
@@ -18,60 +18,54 @@ I am aware of some major issues already addressed in comments on the blog, and h
 
 ### Comments:
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (2 hours later)
 > 
 > Allow me, the master of Google-fu, to search for a link to this intriguing Story.
-> *5 seconds later*
-> [Ta-DAAAA!](http://www.glennthomasdavis.com/books/)
 > 
+> *5 seconds later*
+> 
+> [Ta-DAAAA!](http://www.glennthomasdavis.com/books/)
 
-> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (3 days later)
 > 
 > The problem, if I may chime in about that, of having MIRI in a children's novel, and yes I am uncomfortable with that also - is that you may plausibly and perhaps accurately be accused of propagandizing to children. Which, well, it's not really _better_ if you file off the serial numbers, but it doesn't look as overtly advertisy. Image matters.
-> [edit] FURTHERMORE. Author guy! Have you read _Momo_? Because if not, you _really really_ need to read it. It's a critique of consumerism and the warped pressures of city life and Moloch. It's also a children's novel, and I consider it the shining example of how to communicate complex concepts to a child without talking down.
 > 
+> [edit] FURTHERMORE. Author guy! Have you read _Momo_? Because if not, you _really really_ need to read it. It's a critique of consumerism and the warped pressures of city life and Moloch. It's also a children's novel, and I consider it the shining example of how to communicate complex concepts to a child without talking down.
 
->> **u/glennonymous** [+2]  *Friendly AI Alliance**
+>> **u/glennonymous** [+2]  *Friendly AI Alliance* (6 days later)
 >> 
 >> Agreed. I will make up a fictional replacement for MIRI in the next draft. And Momo sounds great, looking forward to reading it. Thanks!
->> 
 
-> **u/CopperZirconium** [+2] *
+> **u/CopperZirconium** [+2]  (2 hours later)
 > 
 > Where can I read it?
-> 
 
->> **u/glennonymous** [+1]  *Friendly AI Alliance**
+>> **u/glennonymous** [+1]  *Friendly AI Alliance* (2 days later)
 >> 
 >> At http://eaitm.com. Sorry about that!
->> 
 
-> **u/SirReality** [+2] *
+> **u/SirReality** [+2]  (2 hours later)
 > 
 > Sounds interesting, but a link would be really useful.
-> 
 
->> **u/glennonymous** [+1]  *Friendly AI Alliance**
+>> **u/glennonymous** [+1]  *Friendly AI Alliance* (2 days later)
 >> 
 >> Included at the beginning of the description now. Thank you!
->> 
 
-> **u/ancientcampus** [+2]  *juggling kittens**
+> **u/ancientcampus** [+2]  *juggling kittens* (20 hours later)
 > 
 > One chapter in, and very interested.
-> 
 
->> **u/Endovior** [+1] *
+>> **u/Endovior** [+1]  (a day later)
 >> 
 >> Chapter 1 was definitely very good; the "That’s a road to a dark place" bit got my attention in particular.
 >> Unfortunately, the rest of the story doesn't meet the standard the first chapter sets.  Things seem to devolve into a confusing mess of random events pretty quickly; whether or not there's a reason for all the weird stuff that's happening, you can't introduce random stuff that quickly without doing serious damage to the coherence of the story.
->> [spoiler example](#s "The car chase scene in chapter 11 is an excellent example.  I, as the reader, feel that the scene doesn't make any sense.  Ben, within the story itself, explicitly comments that it doesn't make any sense.  Carb, the AI, who should nominally have as many answers as is needed to resolve the situation satisfactorily, attempts to explain, before conceding that he doesn't actually know why they're doing it, essentially admitting that it doesn't make sense.  Given that you're clearly attempting to write rationalist fiction, this is a problem.  If you find yourself in a situation where none of your characters have any idea of what's going on, and think that what they are doing doesn't make sense, and then they keep doing it anyways instead of stopping to do something more sensible, you have made a mistake as an author.  The solution is probably to change the plot as required to cause events, and the characters' behaviour in response to those events, so that they make more sense.")
 >> 
+>> [spoiler example](#s "The car chase scene in chapter 11 is an excellent example.  I, as the reader, feel that the scene doesn't make any sense.  Ben, within the story itself, explicitly comments that it doesn't make any sense.  Carb, the AI, who should nominally have as many answers as is needed to resolve the situation satisfactorily, attempts to explain, before conceding that he doesn't actually know why they're doing it, essentially admitting that it doesn't make sense.  Given that you're clearly attempting to write rationalist fiction, this is a problem.  If you find yourself in a situation where none of your characters have any idea of what's going on, and think that what they are doing doesn't make sense, and then they keep doing it anyways instead of stopping to do something more sensible, you have made a mistake as an author.  The solution is probably to change the plot as required to cause events, and the characters' behaviour in response to those events, so that they make more sense.")
 
->>> **u/glennonymous** [+1]  *Friendly AI Alliance**
+>>> **u/glennonymous** [+1]  *Friendly AI Alliance* (2 days later)
 >>> 
 >>> Hi, thanks for the feedback. There is a rationale behind the weird stuff that's happening, and I definitely need to make that more clear to the reader, earlier. In particular, the scene you mention in the spoiler is one to which several readers have mentioned as being problematic. These things are on my radar for the next draft.
->>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Micifu14 *
 * URL: https://www.reddit.com/r/rational/comments/ee74du/help_me_find_a_rational_webserial_about_an_ai/
-* Score: 6
+* Score: 7
 
 * Created: 2019-12-22T16:55:58
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Makin-** [+3]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+3]  *homestuck ratfic, you can do it* (46 minutes later)
 > 
 > It's Symbiote: https://farmerbob1.wordpress.com/2013/11/13/chapter-1-a-meeting-of-the-minds/
-> 
 
->> **u/Micifu14** [+1] *
+>> **u/Micifu14** [+1]  (57 minutes later)
 >> 
 >> Thank you
->> 
 
 ---
 

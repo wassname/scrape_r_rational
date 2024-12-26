@@ -2,7 +2,7 @@
 
 * Author: u/Kishoto *
 * URL: https://www.reddit.com/r/rational/comments/3pgc8x/q_searching_for_a_story_posted_here_in_the_past/
-* Score: 9
+* Score: 10
 
 * Created: 2015-10-20T05:03:49
 
@@ -16,21 +16,19 @@ It wasn't very long, and it was presented in a series of journal-like entries. A
 
 ### Comments:
 
-> **u/ulyssessword** [+7] *
+> **u/ulyssessword** [+4]  (11 minutes later)
 > 
 > [On Self-Delusion and Bounded Rationality](https://www.reddit.com/r/rational/comments/3e0s7i/on_selfdelusion_and_bounded_rationality_or_werent/)
-> 
 
->> **u/Kishoto** [+1] *
+>> **u/Kishoto** [+1]  (13 minutes later)
 >> 
 >> This is exactly it. Thank you sir/madam.
->> 
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (14 minutes later)
 > 
 > ["On Self-delusion and Bounded Rationality"](http://www.scottaaronson.com/writings/selfdelusion.html)
-> [Previous discussion here](https://www.reddit.com/r/rational/comments/3e0s7i/on_selfdelusion_and_bounded_rationality_or_werent/) and [here](https://www.reddit.com/r/rational/comments/32l7pc/rst_on_selfdelusion_and_bounded_rationality/).
 > 
+> [Previous discussion here](https://www.reddit.com/r/rational/comments/3e0s7i/on_selfdelusion_and_bounded_rationality_or_werent/) and [here](https://www.reddit.com/r/rational/comments/32l7pc/rst_on_selfdelusion_and_bounded_rationality/).
 
 ---
 

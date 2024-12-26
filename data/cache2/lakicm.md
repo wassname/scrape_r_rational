@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/lakicm/february_genre_fiction_challenge/
-* Score: 27
+* Score: 29
 
 * Created: 2021-02-02T01:52:34
 
@@ -48,136 +48,177 @@ January:  [https://www.reddit.com/r/rational/comments/ku3kdq/january\_genre\_fic
 
 ### Comments:
 
-> **u/Freevoulous** [+10] *
+> **u/Freevoulous** [+10]  (2 days later)
 > 
 > *Flower Wreath Day, Five-hand Year after Big Winter*
-> Grug feel stupid. This no contest for Grug. Flower Wreath Day stupid day. Good for swift hunter like Werg, good for smart hunter like Hyrt. Grug not swift not smart, Grug only big and strong. And ugly.
-> Many hunter run to forest, find many flower make pretty wreath for favourite young woman. Come back fast. Grug feel lost. What flower pretty? How make wreath? Grug try weave many dandelion, but dandelion fall apart. Big ugly mess, like Grug face.
-> Many hunter success, make pretty wreath for young woman. Wise Old Woman approve, give blessing. Grug grubby thick fingers fail make wreath again! Almost no young woman left, and Grug still no make gift.
-> Grug sit and think. Not easy for Grug, thinking. Hyrt always say "Hyrt think, then Grug do, that better". But Hyrt nowhere now, no help!
-> Grug angry throw stick at tree. Stick lock in branches. Grug feel Think form in head!
-> &#x200B;
-> *many heartbeat later:*
-> Old Wise Woman close lose patience. Why Grug not back yet? Only one young woman left. Fara One-Eye. No hunter want one eye wife. Wise Old Woman feel sad for Fara One -Eye. Not Fara fault born one eye. Fara good gatherer, good fisher, swift on feet as deer. Good take care little ones.
-> Noise in bush. Grug come out, carry very big pile of maple branch. Not wove wreath. Wove very big fish trap.
-> Werg laugh: "Grug stupid like child! Flower Wreath Day you make flower wreath, not fish trap! "
-> Old Wise Woman ask: "Grug what this? Where flower wreath?"
-> Grug turn red. Want run, want hide.
-> Grug say quiet, look at own feet "Grug not know how weave wreath. Grug think Fara good fisher. Grug make fish trap for Fara"
-> Old Wise Woman think long. Long silent. Look at Grug like hawk on rabbit. Grug feel very nervous. Like eels in gut.
-> Old Wise Woman say: "Grug many stupid. But today Grug make good Think. Grug can go talk Fara now".
-> Werg laugh again: "Werg think Old Woman not very Wise! Grug go with Fara, maybe make ugly baby one-eye? Grug too ugly, too stupid, better not take woman, not make baby. Fara not good for make baby, Fara one-eye!"
-> Many tribe folk stare in shock. Bad omen talk bad at Old Wise Woman. Bad omen talk bad on baby. Werg make big bad omen. But Werg son of Chief. Folk afraid anger Werg.
-> Grug stare at Werg. Grug speak ice-anger voice: "Werg say Grug ugly, Grug not angry. But Werg say bad word at Old Wise Woman, Grug very angry. Werg say bad word on Fara, Grug VERY VERY angry. Werg say bad word again, Grug make speak with fist."
-> Werg speak laugh-anger voice: "Werg son of Chief! Werg first Hunter in Tribe. Grug better know Grug place! Grug open boar-ugly mouth again, Werg put spear in Grug. Werg maybe put Other Spear in Fara later, show Fara One-Eye real Hunter feel..."
-> Werg not finish speak. Grug fist fly. Wind-fast, buffalo-strong. Werg nose break ripe berry. Werg fall on back. Many Tribe folk shout.
-> Werg no stay down. Jump back. Panther-swift, snake-move. Flint knife flash. Cut Grug thigh bone deep. Grug fall. Werg jump on Grug, reach throat. Rise knife.
-> Werg no see swift Fara sneak. Fara kick Werg in man-stones, hard as can. Werg shriek. Fall to ground. Curl. Sob quiet. Fara take flint knife. Many hunter run to Werg. Spear in hand. Not sure attack Fara, attack Werg.
-> Grug lay limp. Many blood flow.
-> Fara shout: "no Tribe folk hurt Grug! Fara take wreath, Fara take Grug!"
-> Old Wise Woman say: "Tribe folk stop! No folk hurt folk. Grug hurt Werg nose. Grug make bad. Werg pull knife on Tribe folk. Make big big bad. Many hunter take Werg to South Cave, make heal. Many hunter take Grug North Cave, Old Wise Woman make heal Grug.
-> In North Cave Fara say: "Wise Woman, Grug cut bad. Many blood go. Fara afraid Grug spirit go! Wise Woman help Grug fast! Fara do anything help!"
-> Old Wise Woman ask: "Fara do anything help? Anything? This omen word. Fara make sacrifice to Bear Sprit, make Grug heal? "
-> Fara say "Yes!"
-> Old Wise Woman ask : "Fara sacrifice one eye to Bear Spirit? No eye left?"
-> Fara shudder, hesitate. Fara speak: "...yes, Wise Woman. Fara sacrifce eye for Grug"
-> Old Wise Woman say: Fara prepare sacrifice. Fara make Spirit Chant. Wise Woman stitch wound. Make Grug wake up.
-> Grug half-sleep half-not sleep. No blood make weak. Hear Fara speak. Grug think in head: "Fara no lose eye! Grug better die. Grug stupid no use to Fara, no use to tribe."
-> Fara sing Spirit Chant. Fara cry, Spirit Chant not very good. Fara afraid lose eye. No eye left. Fara fear Grug die more.
-> Old Wise Woman ask: "Fara ready? Make sacrifice? Fara give Grug Waking Herb. Fara give Grug kiss. Then Fara pluck Fara eye, make sacrifice. Understand?"
-> Fara give Grug herb. Kiss lips. Lie down Grug side. Hold Grug close. Fara say: "Grug please not die. Grug please wake up. Fara make good sacrifice."
-> Fara reach flint knife, put tip to eye. Grug hand grab Fara hand. Buffalo-strong. Take knife away.
-> Grug whisper: "Fara no pluck eye! Grug no worth eye. Grug think eye very pretty".
-> Old Wise Woman laugh. Take knife from Grug. Take Waking Herb from Fara, chew herb. Old Wise Woman say: "Eh, Grug hard kill, like boar. Maybe not need pluck eye. Wise Woman see Fara eye always for Grug!"
-> Old Wise Woman wag finger at Fara. Chew more Waking Herb. Laugh more.
-> Fara turn red. Ask: "Wise Woman this test?"
-> Old Wise Woman say: "All life test! Wise Woman want see Fara feel heartbeat for Grug, Grug feel heartbeat for Fara. Fara brave. Grug brave. Make one heartbeat together. Wise Woman give blessing. Grug rest. Fara take care Grug. Clean wound, give water, give food".Turn to leave cave.
-> Fara ask: "Many Tribe hate Grug hate Fara for attack Werg. Not share meat. How Fara feed Grug?"
-> Old Wise Woman say: "Stupid ask Fara. Grug make Fara big pretty fish trap for Flower Wreath Day. Fara go, catch big pretty fish!"
-> Grug listen. Head dizzy. See Old Wise Woman go. See Fara stay in cave with Grug. Fara smile. Fara cry. Grug grin. Grug feel happy. Maybe Grug feel Waking Herb in head? No. Grug think Grug feel heartbeat for Fara.
 > 
+> Grug feel stupid. This no contest for Grug. Flower Wreath Day stupid day. Good for swift hunter like Werg, good for smart hunter like Hyrt. Grug not swift not smart, Grug only big and strong. And ugly.
+> 
+> Many hunter run to forest, find many flower make pretty wreath for favourite young woman. Come back fast. Grug feel lost. What flower pretty? How make wreath? Grug try weave many dandelion, but dandelion fall apart. Big ugly mess, like Grug face.
+> 
+> Many hunter success, make pretty wreath for young woman. Wise Old Woman approve, give blessing. Grug grubby thick fingers fail make wreath again! Almost no young woman left, and Grug still no make gift.
+> 
+> Grug sit and think. Not easy for Grug, thinking. Hyrt always say "Hyrt think, then Grug do, that better". But Hyrt nowhere now, no help!
+> 
+> Grug angry throw stick at tree. Stick lock in branches. Grug feel Think form in head!
+> 
+> &#x200B;
+> 
+> *many heartbeat later:*
+> 
+> Old Wise Woman close lose patience. Why Grug not back yet? Only one young woman left. Fara One-Eye. No hunter want one eye wife. Wise Old Woman feel sad for Fara One -Eye. Not Fara fault born one eye. Fara good gatherer, good fisher, swift on feet as deer. Good take care little ones.
+> 
+> Noise in bush. Grug come out, carry very big pile of maple branch. Not wove wreath. Wove very big fish trap.
+> 
+> Werg laugh: "Grug stupid like child! Flower Wreath Day you make flower wreath, not fish trap! "
+> 
+> Old Wise Woman ask: "Grug what this? Where flower wreath?"
+> 
+> Grug turn red. Want run, want hide.
+> 
+> Grug say quiet, look at own feet "Grug not know how weave wreath. Grug think Fara good fisher. Grug make fish trap for Fara"
+> 
+> Old Wise Woman think long. Long silent. Look at Grug like hawk on rabbit. Grug feel very nervous. Like eels in gut.
+> 
+> Old Wise Woman say: "Grug many stupid. But today Grug make good Think. Grug can go talk Fara now".
+> 
+> Werg laugh again: "Werg think Old Woman not very Wise! Grug go with Fara, maybe make ugly baby one-eye? Grug too ugly, too stupid, better not take woman, not make baby. Fara not good for make baby, Fara one-eye!"
+> 
+> Many tribe folk stare in shock. Bad omen talk bad at Old Wise Woman. Bad omen talk bad on baby. Werg make big bad omen. But Werg son of Chief. Folk afraid anger Werg.
+> 
+> Grug stare at Werg. Grug speak ice-anger voice: "Werg say Grug ugly, Grug not angry. But Werg say bad word at Old Wise Woman, Grug very angry. Werg say bad word on Fara, Grug VERY VERY angry. Werg say bad word again, Grug make speak with fist."
+> 
+> Werg speak laugh-anger voice: "Werg son of Chief! Werg first Hunter in Tribe. Grug better know Grug place! Grug open boar-ugly mouth again, Werg put spear in Grug. Werg maybe put Other Spear in Fara later, show Fara One-Eye real Hunter feel..."
+> 
+> Werg not finish speak. Grug fist fly. Wind-fast, buffalo-strong. Werg nose break ripe berry. Werg fall on back. Many Tribe folk shout.
+> 
+> Werg no stay down. Jump back. Panther-swift, snake-move. Flint knife flash. Cut Grug thigh bone deep. Grug fall. Werg jump on Grug, reach throat. Rise knife.
+> 
+> Werg no see swift Fara sneak. Fara kick Werg in man-stones, hard as can. Werg shriek. Fall to ground. Curl. Sob quiet. Fara take flint knife. Many hunter run to Werg. Spear in hand. Not sure attack Fara, attack Werg.
+> 
+> Grug lay limp. Many blood flow.
+> 
+> Fara shout: "no Tribe folk hurt Grug! Fara take wreath, Fara take Grug!"
+> 
+> Old Wise Woman say: "Tribe folk stop! No folk hurt folk. Grug hurt Werg nose. Grug make bad. Werg pull knife on Tribe folk. Make big big bad. Many hunter take Werg to South Cave, make heal. Many hunter take Grug North Cave, Old Wise Woman make heal Grug.
+> 
+> In North Cave Fara say: "Wise Woman, Grug cut bad. Many blood go. Fara afraid Grug spirit go! Wise Woman help Grug fast! Fara do anything help!"
+> 
+> Old Wise Woman ask: "Fara do anything help? Anything? This omen word. Fara make sacrifice to Bear Sprit, make Grug heal? "
+> 
+> Fara say "Yes!"
+> 
+> Old Wise Woman ask : "Fara sacrifice one eye to Bear Spirit? No eye left?"
+> 
+> Fara shudder, hesitate. Fara speak: "...yes, Wise Woman. Fara sacrifce eye for Grug"
+> 
+> Old Wise Woman say: Fara prepare sacrifice. Fara make Spirit Chant. Wise Woman stitch wound. Make Grug wake up.
+> 
+> Grug half-sleep half-not sleep. No blood make weak. Hear Fara speak. Grug think in head: "Fara no lose eye! Grug better die. Grug stupid no use to Fara, no use to tribe."
+> 
+> Fara sing Spirit Chant. Fara cry, Spirit Chant not very good. Fara afraid lose eye. No eye left. Fara fear Grug die more.
+> 
+> Old Wise Woman ask: "Fara ready? Make sacrifice? Fara give Grug Waking Herb. Fara give Grug kiss. Then Fara pluck Fara eye, make sacrifice. Understand?"
+> 
+> Fara give Grug herb. Kiss lips. Lie down Grug side. Hold Grug close. Fara say: "Grug please not die. Grug please wake up. Fara make good sacrifice."
+> 
+> Fara reach flint knife, put tip to eye. Grug hand grab Fara hand. Buffalo-strong. Take knife away.
+> 
+> Grug whisper: "Fara no pluck eye! Grug no worth eye. Grug think eye very pretty".
+> 
+> Old Wise Woman laugh. Take knife from Grug. Take Waking Herb from Fara, chew herb. Old Wise Woman say: "Eh, Grug hard kill, like boar. Maybe not need pluck eye. Wise Woman see Fara eye always for Grug!"
+> 
+> Old Wise Woman wag finger at Fara. Chew more Waking Herb. Laugh more.
+> 
+> Fara turn red. Ask: "Wise Woman this test?"
+> 
+> Old Wise Woman say: "All life test! Wise Woman want see Fara feel heartbeat for Grug, Grug feel heartbeat for Fara. Fara brave. Grug brave. Make one heartbeat together. Wise Woman give blessing. Grug rest. Fara take care Grug. Clean wound, give water, give food".Turn to leave cave.
+> 
+> Fara ask: "Many Tribe hate Grug hate Fara for attack Werg. Not share meat. How Fara feed Grug?"
+> 
+> Old Wise Woman say: "Stupid ask Fara. Grug make Fara big pretty fish trap for Flower Wreath Day. Fara go, catch big pretty fish!"
+> 
+> Grug listen. Head dizzy. See Old Wise Woman go. See Fara stay in cave with Grug. Fara smile. Fara cry. Grug grin. Grug feel happy. Maybe Grug feel Waking Herb in head? No. Grug think Grug feel heartbeat for Fara.
 
->> **u/Ms_CIA** [+4]  *Derp**
+>> **u/Ms_CIA** [+5]  *Derp* (2 days later)
 >> 
 >> This is so cute!! I love it!! Definitely didn't expect cave man romance, but it's adorable. :)
->> 
 
-> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+> **u/MagicWeasel** [+4]  *Cheela Astronaut* (4 days later)
 > 
 > What are you doing!? My 100k WiP urban fantasy story I mentioned last month is actually an urban fantasy *romance*. 
-> I'm going to finish the dang story I was working on last month (I was sick for 9 days which threw a wrench in my writing plans) but look at me shaking my fist at you for this!
 > 
+> I'm going to finish the dang story I was working on last month (I was sick for 9 days which threw a wrench in my writing plans) but look at me shaking my fist at you for this!
 
-> **u/None** [+3] *
+> **u/None** [+3]  (23 days later)
 > 
 > [deleted]
-> 
 
->> **u/Ms_CIA** [+2]  *Derp**
+>> **u/Ms_CIA** [+2]  *Derp* (24 days later)
 >> 
 >> Interesting idea! My only critique is the android's verbosity was kind of tiring to read. I found myself skipping some parts of the dialogue.
->> I did read to the end though, and I liked the ending. :) Nice work!
 >> 
+>> I did read to the end though, and I liked the ending. :) Nice work!
 
->> **u/kevshea** [+2] *
+>> **u/kevshea** [+2]  (28 days later)
 >> 
 >> Great work! I really liked this.
->> There are a couple of his lines that stay in her font. I think it should be easy to notice because the paragraphs usually alternate, and these were three in a row of her font.
 >> 
+>> There are a couple of his lines that stay in her font. I think it should be easy to notice because the paragraphs usually alternate, and these were three in a row of her font.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (28 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Lugnut1206** [+2] *
+>>>> **u/Lugnut1206** [+2]  (28 days later)
 >>>> 
 >>>> I found one instance of this:
->>>> > There are parameters in my personality matrix concerning Partners public relations and customer retention. These parameters are not affected by the honesty and intelligence sliders.
->>>> > I should have known.
->>>> > Your expression confirms my prediction that this would disgust and frustrate you. I knew you would not approve of these parameters; such is your fury against manipulation--
->>>> The middle sentence has an incorrect font.
->>>> I greatly enjoyed this story - although I found out *after* I checked it on my desktop that Buddy had comic sans font - he had this extremely hard to read stylized font on my phone... I think it was unintentional, since comic sans matches his character much better...
->>>> I really enjoyed this story, and I'll be saving it to come across in months to read again.
 >>>> 
+>>>> > There are parameters in my personality matrix concerning Partners public relations and customer retention. These parameters are not affected by the honesty and intelligence sliders.
+>>>> 
+>>>> > I should have known.
+>>>> 
+>>>> > Your expression confirms my prediction that this would disgust and frustrate you. I knew you would not approve of these parameters; such is your fury against manipulation--
+>>>> 
+>>>> The middle sentence has an incorrect font.
+>>>> 
+>>>> I greatly enjoyed this story - although I found out *after* I checked it on my desktop that Buddy had comic sans font - he had this extremely hard to read stylized font on my phone... I think it was unintentional, since comic sans matches his character much better...
+>>>> 
+>>>> I really enjoyed this story, and I'll be saving it to come across in months to read again.
 
-> **u/zainethepoet** [+2] *
+> **u/zainethepoet** [+2]  (2 days later)
 > 
 > [Removed for publication]
-> 
 
->> **u/Ms_CIA** [+2]  *Derp**
+>> **u/Ms_CIA** [+2]  *Derp* (2 days later)
 >> 
 >> :o
->> 
 
->> **u/MariguanoDoctorado** [+2]  *The Greater Good**
+>> **u/MariguanoDoctorado** [+2]  *The Greater Good* (11 days later)
 >> 
 >> I came from Therapy Gecko 😂 Love your poetry.
->> 
 
->>> **u/zainethepoet** [+1] *
+>>> **u/zainethepoet** [+1]  (11 days later)
 >>> 
 >>> Thank you!  More is on YouTube and IG; same name.
->>> 
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (4 days later)
 > 
 > okay, after last month I'm more aware of what I can achieve, so I have brought a draft flash story up to a "I am not ashamed for this to see the light of day" sort of standard.
-> Concept: what if people who had been "sappho and her friend"ed by historians were alive today to find out about it? With urban fantasy, they can!
-> https://docs.google.com/document/d/1AZNJkHsHHoPuSyhWqugiCiM1A292MCDHL9B73dMgRsE/edit?usp=sharing
-> This is a non-canon possible future in "Vampire Flower Language". Unfortunately, no groundhogs.
 > 
+> Concept: what if people who had been "sappho and her friend"ed by historians were alive today to find out about it? With urban fantasy, they can!
+> 
+> https://docs.google.com/document/d/1AZNJkHsHHoPuSyhWqugiCiM1A292MCDHL9B73dMgRsE/edit?usp=sharing
+> 
+> This is a non-canon possible future in "Vampire Flower Language". Unfortunately, no groundhogs.
 
->> **u/Ms_CIA** [+2]  *Derp**
+>> **u/Ms_CIA** [+2]  *Derp* (11 days later)
 >> 
 >> Aww, very cute. I love your writing style!
->> 
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (13 days later)
 >>> 
 >>> Thanks! If you or any other lurkers want more, Vampire Flower Language is nearing completion and has just updated (see main sub or just google).
->>> 
 
 ---
 

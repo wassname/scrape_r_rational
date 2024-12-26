@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+> **u/SvalbardCaretaker** [+3]  *Mouse Army* (44 minutes later)
 > 
 > This is a duplicate, and not even to end or beginning of the story.  Alexanderwales, himself mod here regularily posts his updatet stories.
-> 
 
 ---
 

@@ -54,175 +54,179 @@ Thoughts?  Opinions?  Critiques?  Let 'er rip in the comments below.
 
 ### Comments:
 
-> **u/None** [+18] *
+> **u/None** [+19]  (26 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (a day later)
 >> 
 >> Which part of it you think should be shortened, and to what extent?
->> 
 
->>> **u/Dwood15** [+4] *
+>>> **u/Dwood15** [+5]  (a day later)
 >>> 
 >>> Like I said: a sidebar post should be short and sweet, a high-level overview, not a wall of text.
->>> That first paragraph there is too wordy and [needs slimming down.](https://cdn.discordapp.com/attachments/196309529850281984/474362120964800514/unknown.png)
 >>> 
+>>> That first paragraph there is too wordy and [needs slimming down.](https://cdn.discordapp.com/attachments/196309529850281984/474362120964800514/unknown.png)
 
->>> **u/Dwood15** [+3] *
+>>> **u/Dwood15** [+3]  (a day later)
 >>> 
 >>> I'm going to work on a rewording of the post right now. I'm all for a link to a subreddit wiki article where we post the full content of your proposal though.
+>>> 
 >>> Edit: Assuming you haven't read this post yet, here's my tweak of the first paragraph: 
+>>> 
 >>> >In "Rational" fiction, a character's intellectual agency is always put above tropes. Characters pursue their goals consistently, and the consequences of their actions are realistic within the world and the story's plot.
+>>> 
 >>> Original:
 >>> >    "Rationality" is a specific quality of any fictional work, independent of genres and settings. It describes the extent to which the work explores thoughtful behaviour of people in honest pursuit of their goals, as well as consequences of their behaviour on the fictional world or the story's plot. In highly-rational fiction, realistic intellectual agency is put above established literary tropes, and all other aspects of the narrative.
->>> 
 
->>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (a day later)
 >>>> 
 >>>> Hmm. 
->>>> >a character's intellectual agency
->>>> Shouldn't refer to only "characters". It's meant to apply to background agents as well, to people who don't appear in the story, but whose existence is implied by the worldbuilding. A perfectly-rational story would model them as rational agents as well, which is meant to enforce consistent worldbuilding.
->>>> What do you think about this?:
->>>> >Rational fiction aims to explore realistic intellectual agency and its consequences on fictional worlds and story plots, valuing it over all other narrative elements. 
->>>> >All fictional works are "rational" to an extent. *Highly-rational* fiction could include one or more of the following features:
->>>> ><...>
->>>> It's a bit shorter than yours, and I think hits more points. I'm not entirely satisfied with the wording, though.
 >>>> 
+>>>> >a character's intellectual agency
+>>>> 
+>>>> Shouldn't refer to only "characters". It's meant to apply to background agents as well, to people who don't appear in the story, but whose existence is implied by the worldbuilding. A perfectly-rational story would model them as rational agents as well, which is meant to enforce consistent worldbuilding.
+>>>> 
+>>>> What do you think about this?:
+>>>> 
+>>>> >Rational fiction aims to explore realistic intellectual agency and its consequences on fictional worlds and story plots, valuing it over all other narrative elements. 
+>>>> 
+>>>> >All fictional works are "rational" to an extent. *Highly-rational* fiction could include one or more of the following features:
+>>>> 
+>>>> ><...>
+>>>> 
+>>>> It's a bit shorter than yours, and I think hits more points. I'm not entirely satisfied with the wording, though.
 
->>>>> **u/ArisKatsaris** [+1]  *Sidebar Contender**
+>>>>> **u/ArisKatsaris** [+1]  *Sidebar Contender* (2 days later)
 >>>>> 
 >>>>> I don't like such changes being discussed too soon, without giving a chance to people to get accustomed to it or not.
->>>>> That having been said, here's how I would shorten it:
->>>>> > "Rationality" describes the extent that a fictional work aims to explore the thoughtful behaviour of people in honest pursuit of their goals, as well as the consequences of such behaviour on the plot and the world.
->>>>> > In any genre or setting, highly rational fiction puts intellectual agency over literary tropes and all other narrative elements. It could include one or more of the following features:
 >>>>> 
+>>>>> That having been said, here's how I would shorten it:
+>>>>> 
+>>>>> > "Rationality" describes the extent that a fictional work aims to explore the thoughtful behaviour of people in honest pursuit of their goals, as well as the consequences of such behaviour on the plot and the world.
+>>>>> 
+>>>>> > In any genre or setting, highly rational fiction puts intellectual agency over literary tropes and all other narrative elements. It could include one or more of the following features:
 
->>>>> **u/Dwood15** [+1] *
+>>>>> **u/Dwood15** [+1]  (2 days later)
 >>>>> 
 >>>>> I like your update, but would tweak it. "realistic intellectual agency" doesn't add anything that just saying "agency" would, other than make the definition more restrictive, imo. 
->>>>> >Rational fiction aims to explore agency and its consequences on fictional worlds and story plots, valuing it over all other narrative elements. 
->>>>> For the second bit, I would nix "All fictional works are 'rational' to an extent." Thus, my update of your update: 
->>>>> > Rational fiction aims to explore realistic intellectual agency and its consequences on fictional worlds and story plots, valuing it over all other narrative elements.
->>>>> > Highly-rational fiction could include one or more of the following features:
 >>>>> 
+>>>>> >Rational fiction aims to explore agency and its consequences on fictional worlds and story plots, valuing it over all other narrative elements. 
+>>>>> 
+>>>>> For the second bit, I would nix "All fictional works are 'rational' to an extent." Thus, my update of your update: 
+>>>>> 
+>>>>> > Rational fiction aims to explore realistic intellectual agency and its consequences on fictional worlds and story plots, valuing it over all other narrative elements.
+>>>>> 
+>>>>> > Highly-rational fiction could include one or more of the following features:
 
->>>> **u/ArisKatsaris** [+2]  *Sidebar Contender**
+>>>> **u/ArisKatsaris** [+2]  *Sidebar Contender* (a day later)
 >>>> 
 >>>> This doesn't merely reword but completely omits significant aspects of the definition, like 'thoughtful behaviour', or that the story *explores* this behaviour and its consequences.
->>>> I also feel it goes against the spirit of the definition since one of the aspects of Noumero's definition is that it treats 'rationality' as a quality that can be higher or lower, rather than a specific category.
->>>> I would thus vote against the particular tweak.
 >>>> 
+>>>> I also feel it goes against the spirit of the definition since one of the aspects of Noumero's definition is that it treats 'rationality' as a quality that can be higher or lower, rather than a specific category.
+>>>> 
+>>>> I would thus vote against the particular tweak.
 
-> **u/InfernoVulpix** [+15] *
+> **u/InfernoVulpix** [+14]  (28 minutes later)
 > 
 > I voted for the winner, so my perspective is a little biased, but I don't think I'd want to repeat previous steps.  I'm okay with tweaking the winning solution to better fit the sidebar (maybe create a discussion thread for tweak suggestions, with the understanding that the core ideas and concepts are set in stone) or maybe trying to combine the three winners into one compromise solution.  And of course, running with what we've got as the winner sounds fine to me.
-> One last discussion thread for tweaks does sound like a good idea, I think.  People with criticisms can make more precise observations now that they're dealing with one solution in specific, and we can try to see if the phrasing can be improved in any way without losing clarity (brevity is important for a sidebar, after all).
 > 
+> One last discussion thread for tweaks does sound like a good idea, I think.  People with criticisms can make more precise observations now that they're dealing with one solution in specific, and we can try to see if the phrasing can be improved in any way without losing clarity (brevity is important for a sidebar, after all).
 
-> **u/best_cat** [+17] *
+> **u/best_cat** [+16]  (10 minutes later)
 > 
 > **Run with it**
+> 
 > The winner is a bit wordy for my taste.  But it hits the key notes. 
 >  And, if nothing else, we should have a bias towards action.
-> And in the spirit of 'bias towards action,' I'd vote that we give flairs to everyone who put up a well-formed proposal.  Even if they didn't win they put up a non-trivial effort.  And that should get encouraged.
 > 
+> And in the spirit of 'bias towards action,' I'd vote that we give flairs to everyone who put up a well-formed proposal.  Even if they didn't win they put up a non-trivial effort.  And that should get encouraged.
 
->> **u/ketura** [+10]  *Organizer**
+>> **u/ketura** [+10]  *Organizer* (24 minutes later)
 >> 
 >> I actually really dig the flair suggestion.    
-
->> If we do run with it, how should we go about iterating on it?  Start a new weekly thread series on just that solution?  Put it as-is on the sidebar and revisit it in a month or two once people have had time to focus on this particular proposal?  Set it in stone for the foreseeable future?
 >> 
+>> If we do run with it, how should we go about iterating on it?  Start a new weekly thread series on just that solution?  Put it as-is on the sidebar and revisit it in a month or two once people have had time to focus on this particular proposal?  Set it in stone for the foreseeable future?
 
->>> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+7]  *Time flies like an arrow* (29 minutes later)
 >>> 
 >>> I'll add flair either tonight or tomorrow, shouldn't be much work so long as I can find something appropriate.
->>> 
 
->>>> **u/oliwhail** [+9]  *Omake-Maximizing AGI**
+>>>> **u/oliwhail** [+6]  *Omake-Maximizing AGI* (2 hours later)
 >>>> 
 >>>> Maybe /u/Noumero gets "The Definition of Rational"? :D
->>>> Myself, /u/ArisKatsaris, & /u/LieGroupE8 can be, idk, "Sidebar Contender", while /u/Vivificient, /u/ElizabethRobinThales, /u/Sailor_Vulcan, /u/ishaan123, and /u/0Gitaxian0 get "Sidebar Contestant"?
->>>> What y'all think, tagged folks?
 >>>> 
+>>>> Myself, /u/ArisKatsaris, & /u/LieGroupE8 can be, idk, "Sidebar Contender", while /u/Vivificient, /u/ElizabethRobinThales, /u/Sailor_Vulcan, /u/ishaan123, and /u/0Gitaxian0 get "Sidebar Contestant"?
+>>>> 
+>>>> What y'all think, tagged folks?
 
->>>>> **u/ArisKatsaris** [+8]  *Sidebar Contender**
+>>>>> **u/ArisKatsaris** [+7]  *Sidebar Contender* (12 hours later)
 >>>>> 
 >>>>> Or "Definer of Rational", perhaps.
->>>>> 
 
->>>>> **u/LieGroupE8** [+3]  ***
+>>>>> **u/LieGroupE8** [+3]  ** (21 hours later)
 >>>>> 
 >>>>> Flairs? Cool! Wasn't expecting that, but I'm good with whatever you all decide. "Sidebar Contender" is okay with me.
->>>>> 
 
->>> **u/oliwhail** [+3]  *Omake-Maximizing AGI**
+>>> **u/oliwhail** [+3]  *Omake-Maximizing AGI* (2 hours later)
 >>> 
 >>> > Put it as-is on the sidebar and revisit it in a month or two once people have had time to focus on this particular proposal?
->>> Dis one
 >>> 
+>>> Dis one
 
->>>> **u/ArisKatsaris** [+8]  *Sidebar Contender**
+>>>> **u/ArisKatsaris** [+9]  *Sidebar Contender* (12 hours later)
 >>>> 
 >>>> I think I also approve. Put it there, let people see how it feels to them.
->>>> A month or two from now, we can have a "Suggested Tweaks to the Sidebar" discussion, where people can discuss suggested tweaks, minor or major. Then we can put said specific tweaks to the vote again, (or perhaps some tweaks will be minor enough and uncontroversial enough that if there's no objection from either the community nor Noumero himself, a vote might not even be needed).
 >>>> 
+>>>> A month or two from now, we can have a "Suggested Tweaks to the Sidebar" discussion, where people can discuss suggested tweaks, minor or major. Then we can put said specific tweaks to the vote again, (or perhaps some tweaks will be minor enough and uncontroversial enough that if there's no objection from either the community nor Noumero himself, a vote might not even be needed).
 
->>>>> **u/LieGroupE8** [+2]  ***
+>>>>> **u/LieGroupE8** [+2]  ** (22 hours later)
 >>>>> 
 >>>>> I, too, like this suggestion. It will be good to beta-test the winner. In the "suggested tweaks" post, we should account for feedback from people outside the community. They're the ones who can provide the most information about usefulness.
->>>>> 
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (a day later)
 > 
 > As you might have noticed, I've updated the sidebar to be the winning entry. ***This does not preclude further changes.*** I'd be fine with people suggesting tweaks, and I'd be fine implementing those changes with or without a vote, depending on how much it changes the core definition. More discussion is welcome, but the bias is now toward what was voted on.
-> If you were one of the people to submit an entry in the final week, you should have flair now, which is just a little blue shield. If you change your flair, you'll lose the shield. If you had existing text, I left that in place, but if you didn't, you got some text. If you'd like different text for your flair, PM me.
-> If you'd like some participation flair of your own, let me know; I don't want to exclude people who contributed to discussion but didn't actually submit their own definition. The flair is mostly just a mark that you did the honorable duty of not being a lurker.
 > 
+> If you were one of the people to submit an entry in the final week, you should have flair now, which is just a little blue shield. If you change your flair, you'll lose the shield. If you had existing text, I left that in place, but if you didn't, you got some text. If you'd like different text for your flair, PM me.
+> 
+> If you'd like some participation flair of your own, let me know; I don't want to exclude people who contributed to discussion but didn't actually submit their own definition. The flair is mostly just a mark that you did the honorable duty of not being a lurker.
 
->> **u/Noumero** [+8]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+8]  *Self-Appointed Court Statistician* (a day later)
 >> 
 >> I think u/ketura should get a flair too, for organizing the entire affair.
->> 
 
->>> **u/oliwhail** [+7]  *Omake-Maximizing AGI**
+>>> **u/oliwhail** [+7]  *Omake-Maximizing AGI* (a day later)
 >>> 
 >>> Yeah, props to /u/ketura for sure
->>> 
 
->>>> **u/Makin-** [+4]  *homestuck ratfic, you can do it**
+>>>> **u/Makin-** [+4]  *homestuck ratfic, you can do it* (a day later)
 >>>> 
 >>>> Hell, make him a mod if he wants, he's basically doing that job already.
->>>> 
 
->>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician* (a day later)
 >>>>> 
 >>>>> /u/ketura for God-Emperor. Certainly someone you could trust with organizing masses of people.
->>>>> 
 
->> **u/embrodski** [+3] *
+>> **u/embrodski** [+3]  (2 days later)
 >> 
 >> > I've updated the sidebar to be the winning entry. 
->> I don't see anything in the sidebar. Is this part of Reddit's new trash design, or is it just me?
 >> 
+>> I don't see anything in the sidebar. Is this part of Reddit's new trash design, or is it just me?
 
->>> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (2 days later)
 >>> 
 >>> Blegh, forgot about that. The redesign makes you put information into "sidebar widgets". Should be fixed for the redesign now (which I don't use).
->>> 
 
-> **u/blazinghand** [+2]  *Chaos Undivided**
+> **u/blazinghand** [+2]  *Chaos Undivided* (a day later)
 > 
 > All these threads were kinda a lot of action, and for a relatively low activity user like me it was pretty opaque where and when to come in with my contributions. It would be a big drain and just a lot of action. As a result, I ended up not taking part in this. Probably there weren't a lot of people like this, so I wouldn't worry about it too much, but I may not have been the only one. Overall, it seems not to have mattered as we got a good outcome regardless, but hopefully this feedback helps.
-> This is not an attempt to shit on u/dwood15 or any of the other people who took part in this process, or anything like that, just a personal experience that may be a useful data point for future things like this.
 > 
+> This is not an attempt to shit on u/dwood15 or any of the other people who took part in this process, or anything like that, just a personal experience that may be a useful data point for future things like this.
 
->> **u/ArisKatsaris** [+3]  *Sidebar Contender**
+>> **u/ArisKatsaris** [+3]  *Sidebar Contender* (2 days later)
 >> 
 >> I invite you to share any contributions you have right now and here, if you so want. They may be helpful in influencing future tweaks.
->> 
 
 ---
 

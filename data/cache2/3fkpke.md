@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.fanfiction.net/s/10630743/51/Light-in-Despair-s-Darkness
-* Score: 7
+* Score: 8
 
 * Created: 2015-08-03T02:39:08
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/avret** [+3]  *SDHS rationalist**
+> **u/avret** [+3]  *SDHS rationalist* (an hour later)
 > 
 > This is in the Danganronpa universe, for those who don't already know.
-> 
 
 ---
 

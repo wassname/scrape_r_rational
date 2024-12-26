@@ -2,7 +2,7 @@
 
 * Author: u/westward101 *
 * URL: https://www.reddit.com/r/rational/comments/dti8ke/rattle_fiction_episode_13_eliezers_latest_the/
-* Score: 28
+* Score: 31
 
 * Created: 2019-11-08T16:58:40
 
@@ -28,56 +28,61 @@ How can a superhero be proactive rather than reactive? Superman powering a dynam
 
 ### Comments:
 
-> **u/Penguin4512** [+16] *
+> **u/Penguin4512** [+15]  (13 hours later)
 > 
 > When I saw the part of the title of this post where it says "the Goose is Loose" I was hoping Eliezer's latest fanfiction would be some rational retelling of the Goose Game. 
-> I'm imagining something like a group of noble villagers teaming up to try to take down the goose, which of course is some kind of cosmic Lovecraftian entity.
-> Actually can someone write this.
 > 
+> I'm imagining something like a group of noble villagers teaming up to try to take down the goose, which of course is some kind of cosmic Lovecraftian entity.
+> 
+> Actually can someone write this.
 
->> **u/ElizabethRobinThales** [+18]  *Practically Perfect in Every Way**
+>> **u/ElizabethRobinThales** [+17]  *Practically Perfect in Every Way* (14 hours later)
 >> 
 >> You might enjoy:
->> https://i.redd.it/0l2viqx5niv31.jpg
 >> 
+>> https://i.redd.it/0l2viqx5niv31.jpg
 
-> **u/DuplexFields** [+9]  *New Lunar Republic**
+> **u/DuplexFields** [+10]  *New Lunar Republic* (13 hours later)
 > 
 > The main way superheroes “cause” their own rogues’ gallery is through the shift in expectations known as the Overton Window.
+> 
 > - Once you believe a man can fly, you start looking for his physics exploits. That’s Lex Luthor.
 > - Once you know the sheer power of will, you wonder about the power of fear. That’s Sinestro.
 > - Once you see a masked man flaunting the law and being hailed as “your friendly neighborhood Spider-Man,” you want to find out what he’s hiding behind that mask. That’s J. Jonah Jameson.
 > - Once you see your stupid strongman brother hailed as a god and hero of men, you want that adoration for your own clever self. That’s Loki.
-> 
 
-> **u/lumenwrites** [+3] *
+> **u/lumenwrites** [+3]  (14 hours later)
 > 
 > Amazing project, subscribed, looking forward for more!
+> 
 > Could you do some stories from Scott Alexander?
+> 
 > Here's a full list:
 > https://slatestarcodex.com/tag/fiction/
-> I highly recommend  […And I Show You How Deep The Rabbit Hole Goes](https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/) and [Sort by Controversial](https://slatestarcodex.com/2018/10/30/sort-by-controversial/).
 > 
+> I highly recommend  […And I Show You How Deep The Rabbit Hole Goes](https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/) and [Sort by Controversial](https://slatestarcodex.com/2018/10/30/sort-by-controversial/).
 
->> **u/westward101** [+2] *
+>> **u/westward101** [+2]  (22 hours later)
 >> 
 >> Yes, I'd love to though I only narrate if I have permission from the author. 
->> u/ScottAlexander, what do you think?
 >> 
+>> u/ScottAlexander, what do you think?
 
->>> **u/adgnatum** [+1] *
+>>> **u/adgnatum** [+1]  (2 days later)
 >>> 
 >>> See also: [http://sscpodcast.libsyn.com/](http://sscpodcast.libsyn.com/)
->>> 
 
-> **u/thrawnca** [+2]  *Carbon-based biped**
+> **u/thrawnca** [+2]  *Carbon-based biped* (2 days later)
 > 
 > I'm going to assume that you don't read With This Ring? It's very long, I know, but quite on point.
-> Proactive measures featured in the story include:
-> - Contacting the less extreme/crazy villains and pointing them in useful directions. Eg arranging for Captain Cold to submit his work on thermodynamics and get a doctorate. Bonus points for using cold guns to reglaciate the poles and share the environmental prize with him.
-> - Unlocking the mundane utility of super tech. Electricity generation from a cosmic rod. Mass transit via Dolmen Gates. Recruiting Greek gods to help produce a perfectly conductive metal.
-> - Getting big business interested in magic. In the DC universe, at least, it has massive utility but it's hardly used, just a few amateurs.
 > 
+> Proactive measures featured in the story include:
+> 
+> - Contacting the less extreme/crazy villains and pointing them in useful directions. Eg arranging for Captain Cold to submit his work on thermodynamics and get a doctorate. Bonus points for using cold guns to reglaciate the poles and share the environmental prize with him.
+> 
+> - Unlocking the mundane utility of super tech. Electricity generation from a cosmic rod. Mass transit via Dolmen Gates. Recruiting Greek gods to help produce a perfectly conductive metal.
+> 
+> - Getting big business interested in magic. In the DC universe, at least, it has massive utility but it's hardly used, just a few amateurs.
 
 ---
 

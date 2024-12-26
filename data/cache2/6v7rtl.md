@@ -12,19 +12,21 @@
 
 ### Comments:
 
-> **u/Alden_** [+1] *
+> **u/Alden_** [+1]  (59 seconds later)
 > 
 > Just came up with this. If this were possible, what would you guys use the death note to check for?
-> 
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (3 minutes later)
 > 
 > The URL seems to be wrong: 
-> https://wordpress.com/post/justlustplus.wordpress.com/618
-> ... will take you to a Wordpress login. The proper URL would be something different, like:
-> https://justlustplus.wordpress.com/2017/08/22/on-the-death-note-and-conditional-statements/
-> I've removed this, but please repost with the proper URL.
 > 
+> https://wordpress.com/post/justlustplus.wordpress.com/618
+> 
+> ... will take you to a Wordpress login. The proper URL would be something different, like:
+> 
+> https://justlustplus.wordpress.com/2017/08/22/on-the-death-note-and-conditional-statements/
+> 
+> I've removed this, but please repost with the proper URL.
 
 ---
 

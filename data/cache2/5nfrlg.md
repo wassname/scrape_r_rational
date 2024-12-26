@@ -50,69 +50,73 @@ Next time the prompt will be **[Utility Monster](https://en.wikipedia.org/wiki/U
 
 ### Comments:
 
-> **u/cjet79** [+3] *
+> **u/cjet79** [+3]  (11 days later)
 > 
 > https://docs.google.com/document/d/1VetRhoNY0GCNxsMJrc5rkRK7v47durtMHPCduGw41WI/edit?usp=sharing
-> 2578 words
-> ____
-> I was interested in exploring a fantasy based megastructure. I was going to continue writing out the end of the story if people were interested. Would probably only be another 1000 ~ 2000 words about the history of the civilization.
 > 
+> 2578 words
+> 
+> ____
+> 
+> I was interested in exploring a fantasy based megastructure. I was going to continue writing out the end of the story if people were interested. Would probably only be another 1000 ~ 2000 words about the history of the civilization.
 
->> **u/DCarrier** [+3] *
+>> **u/DCarrier** [+3]  (14 days later)
 >> 
 >> Was there an afterlife? Is she destroying everyone's immortal souls? Or were those things going to die without the bodies anyway?
->> 
 
->>> **u/cjet79** [+1] *
+>>> **u/cjet79** [+1]  (14 days later)
 >>> 
 >>> They didn't know if there was an afterlife. Many people believed there was one, and that their souls would go to it after leaving. Roshia stopped caring either way, she wasn't going to let something like depriving people of an eternal afterlife get in her way of keeping her promise.
->>> One thing I didn't make clear in the story is that all living creatures have souls, generally in proportion to their nervous system. Reaching her level as a necromancer was really difficult. She spent a lot of time killing giant ocean creatures rather than fighting on land against much more deadly opponents.
 >>> 
+>>> One thing I didn't make clear in the story is that all living creatures have souls, generally in proportion to their nervous system. Reaching her level as a necromancer was really difficult. She spent a lot of time killing giant ocean creatures rather than fighting on land against much more deadly opponents.
 
->>>> **u/DCarrier** [+1] *
+>>>> **u/DCarrier** [+1]  (14 days later)
 >>>> 
 >>>> So, she just murdered entire civilizations because she was too lazy to farm animals?
->>>> 
 
->>>>> **u/cjet79** [+1] *
+>>>>> **u/cjet79** [+1]  (14 days later)
 >>>>> 
 >>>>> No, she had overfarmed. Most of the planets ocean life had been killed off by her. She committed a planetwide genocide of creatures.
->>>>> 
 
->> **u/space_fountain** [+1] *
+>> **u/space_fountain** [+1]  (11 days later)
 >> 
 >> Definitely thought about trying to go with a fantasy take on it. As it is I've just not even gotten close to finishing anything.
->> 
 
->>> **u/cjet79** [+1] *
+>>> **u/cjet79** [+1]  (11 days later)
 >>> 
 >>> I understand completely. This is my first time actually submitting something for these weekly writing challenges. I've tried two other times, but I always ended up writing too much and taking too long. This story didn't have as much as I wanted to write about the topic, but my editor(wife) told me to just stop where I was since it was a complete story. 
->>> I've always wanted to do a fantasy take on megastructures, because physics is a pretty strict and difficult ruleset to follow. I did a lot of handwavey shit with magic in this story, but I feel more comfortable doing handwavey shit with magic then I do with futuristic materials.
->>> Did you have any thoughts or questions about the megastructure I described?
 >>> 
+>>> I've always wanted to do a fantasy take on megastructures, because physics is a pretty strict and difficult ruleset to follow. I did a lot of handwavey shit with magic in this story, but I feel more comfortable doing handwavey shit with magic then I do with futuristic materials.
+>>> 
+>>> Did you have any thoughts or questions about the megastructure I described?
 
->> **u/MultipartiteMind** [+1] *
+>> **u/MultipartiteMind** [+1]  (a month later)
 >> 
 >> (I find myself wondering (taking into account the mana-pool-growth through slaughter) "How did she grow her mana pool that big in the first place?  Why weren't there lots of others with mana pools bigger than hers, competing with or trying to suppress her, with their own necromantic armies or countermeasures?  Especially with that secret method of increasing mana regeneration, why was she the first person to regenerate enough mana to remake the world..?"
->> (Reading comments below, this can be supplemented with "Was she the only person to try killing lots and lots of sea creatures to raise her power?  When people first noticed what she was doing, why didn't those with greater backing (and especially if they knew the regeneration trick) copy her and/or suppress her?".)
 >> 
+>> (Reading comments below, this can be supplemented with "Was she the only person to try killing lots and lots of sea creatures to raise her power?  When people first noticed what she was doing, why didn't those with greater backing (and especially if they knew the regeneration trick) copy her and/or suppress her?".)
 
->>> **u/cjet79** [+2] *
+>>> **u/cjet79** [+2]  (a month later)
 >>> 
 >>> I'm glad your thinking deeply about this, honestly I wanted to add in quite a few paragraphs of exposition to explain why she was the first, but it also didn't feel like it was adding much to the story. I wasn't sure anyone would read it deeply enough to make it pay off.
->>> The backstory I was going to add was that there were many different types of mages and magic. Who you were as a person effected how far you could advance in a school of magic. To advance really far in multiple disciplines meant changing who you are as a person. Necromancers came from people who stopped believing in the value of life, which is what happened to the protagonist after her daughter was killed. 
->>> But necromancy wasn't her first magical discipline. Her first was a kind of deep ocean magic. Deep ocean magic came from a mixed desire to explore, an inability to be satisfied with what you have, and generally only manifested in long lived species with long time horizons like elves.
->>> She had been part of the group that found the new island by using deep ocean magic. She was tracking ocean currents to find discrepancies.
->>> So she was a unique mix of two different types of magic. Necromancy wasn't too rare to begin with, but they would never get further than one island, because they didn't have any way of travelling across oceans other than by boat, and zombies don't make great sailors. She could use zombie giant fish to just pull boats along.
->>> Catching the fish that powered her necromancy wasn't easy, but it's basically all she did for a millennia. None of the islands would have noticed her, since the planet they were on was 95% ocean and she had plenty of space to operate without attracting attention.
->>> No one else had her options, so no one had a mana pool anywhere close to hers. And when she did start capturing islands she was doing it with a purpose in mind and wasn't trying to let everyone know her methods.
->>> Does that make more sense?
 >>> 
+>>> The backstory I was going to add was that there were many different types of mages and magic. Who you were as a person effected how far you could advance in a school of magic. To advance really far in multiple disciplines meant changing who you are as a person. Necromancers came from people who stopped believing in the value of life, which is what happened to the protagonist after her daughter was killed. 
+>>> 
+>>> But necromancy wasn't her first magical discipline. Her first was a kind of deep ocean magic. Deep ocean magic came from a mixed desire to explore, an inability to be satisfied with what you have, and generally only manifested in long lived species with long time horizons like elves.
+>>> 
+>>> She had been part of the group that found the new island by using deep ocean magic. She was tracking ocean currents to find discrepancies.
+>>> 
+>>> So she was a unique mix of two different types of magic. Necromancy wasn't too rare to begin with, but they would never get further than one island, because they didn't have any way of travelling across oceans other than by boat, and zombies don't make great sailors. She could use zombie giant fish to just pull boats along.
+>>> 
+>>> Catching the fish that powered her necromancy wasn't easy, but it's basically all she did for a millennia. None of the islands would have noticed her, since the planet they were on was 95% ocean and she had plenty of space to operate without attracting attention.
+>>> 
+>>> No one else had her options, so no one had a mana pool anywhere close to hers. And when she did start capturing islands she was doing it with a purpose in mind and wasn't trying to let everyone know her methods.
+>>> 
+>>> Does that make more sense?
 
->>>> **u/MultipartiteMind** [+1] *
+>>>> **u/MultipartiteMind** [+1]  (a month later)
 >>>> 
 >>>> Yes, thank you!
->>>> 
 
 ---
 

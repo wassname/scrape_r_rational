@@ -17,537 +17,528 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+18]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+19]  *Godric Gryffindor* (12 hours later)
 > 
 > I just finished the anime of The Promised Neverland.  Highly recommended.  Multiple times I exclaimed, “I should have thought of that.”
-> 
 
->> **u/t3tsubo** [+4] *
+>> **u/t3tsubo** [+5]  (a day later)
 >> 
 >> I read the manga but haven't seen the anime. Did you read the manga as well? Are there any major difference or ways the anime did it better?
->> 
 
->>> **u/Bowbreaker** [+4]  *Solitary Locust**
+>>> **u/Bowbreaker** [+5]  *Solitary Locust* (2 days later)
 >>> 
 >>> The anime handles the first season's ending with slightly more drama and emotion. Also, big sis is even more over the top, probably because they cut down on giving sound to everyone's inner thoughts.
->>> All in all, it's still good. And all in color. Worth the watch if you liked the manga and don't care that you know the whole plot.
 >>> 
+>>> All in all, it's still good. And all in color. Worth the watch if you liked the manga and don't care that you know the whole plot.
 
->>> **u/EliezerYudkowsky** [+4]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor* (a day later)
 >>> 
 >>> I have only seen the anime.
->>> 
 
-> **u/kmsxkuse** [+11] *
+> **u/kmsxkuse** [+11]  (2 hours later)
 > 
 > This recommendation is for all my fellow Paradox gamers, particularly Europa Universalis 4. If you haven't heard of it yet, [The Revival of Rhomaion: An Age of Miracles](https://www.alternatehistory.com/forum/threads/the-revival-of-rhomaion-an-age-of-miracles.227279/) is amazing.
-> Over a million words long, incredibly dense in terms of content, and attempts to be historically accurate in the greed, pride, and the usual sins of people in power in an ahistorical revival of the Eastern Roman Empire. And it's still in progress.
-> Unlike the usual Byzantium or Roman wank, this fiction doesnt magically grant the nation instant industrialization, teleport in modern military tactics into the minds of generals, and hand waves away objectively terrible emperors that managed to find their way to the throne.
-> This fiction instead rationally describes a nation embodies the saying "Two steps forward, one step back". With every other step a complete waste of thousands to hundreds of thousands of lives. Completely historically accurate in that way.
-> For an author that reportedly never played a Paradox game, the level of detail found in this fiction wouldnt be out of place in the hall of fame for EU4 AARs.
-> The pictures no longer work but the text descriptions are detailed enough that, combined with a couple thousand hours staring at Europa Universalis 4 maps, you can paint the areas in question with memory alone.
-> I hesitate to recommend this fiction to the wider rational community however. There is a minimum level of historical, geographical, and medieval military knowledge needed to parse the jargon that makes the story so great.
-> An example of the usual sentence in the work:
-> > Even with their control of Crete uncontested, the Venetians are utterly enraged by the terms, but news of Ragusa’s defection in late May and reports of ominous Milanese troop movements near Mantua give them little choice.
-> It reads like something straight out of my last (failed) Basileus to Mare Nostrum run.
 > 
+> Over a million words long, incredibly dense in terms of content, and attempts to be historically accurate in the greed, pride, and the usual sins of people in power in an ahistorical revival of the Eastern Roman Empire. And it's still in progress.
+> 
+> Unlike the usual Byzantium or Roman wank, this fiction doesnt magically grant the nation instant industrialization, teleport in modern military tactics into the minds of generals, and hand waves away objectively terrible emperors that managed to find their way to the throne.
+> 
+> This fiction instead rationally describes a nation embodies the saying "Two steps forward, one step back". With every other step a complete waste of thousands to hundreds of thousands of lives. Completely historically accurate in that way.
+> 
+> For an author that reportedly never played a Paradox game, the level of detail found in this fiction wouldnt be out of place in the hall of fame for EU4 AARs.
+> 
+> The pictures no longer work but the text descriptions are detailed enough that, combined with a couple thousand hours staring at Europa Universalis 4 maps, you can paint the areas in question with memory alone.
+> 
+> I hesitate to recommend this fiction to the wider rational community however. There is a minimum level of historical, geographical, and medieval military knowledge needed to parse the jargon that makes the story so great.
+> 
+> An example of the usual sentence in the work:
+> 
+> > Even with their control of Crete uncontested, the Venetians are utterly enraged by the terms, but news of Ragusa’s defection in late May and reports of ominous Milanese troop movements near Mantua give them little choice.
+> 
+> It reads like something straight out of my last (failed) Basileus to Mare Nostrum run.
 
->> **u/RMcD94** [+2] *
+>> **u/RMcD94** [+2]  (13 hours later)
 >> 
 >> I'd give a general rational recommendation for most alternate history stories since principally they try to appear consistent with what could happen irl. There's not meant to be any suspension of disbelief (maybe just the odds of the pod) since the whole idea is to demonstrate another path of history.
->> I never realised before the geographical spatial awareness you need for these stories until your paragraph.
 >> 
+>> I never realised before the geographical spatial awareness you need for these stories until your paragraph.
 
-> **u/Amonwilde** [+10] *
+> **u/Amonwilde** [+10]  (6 hours later)
 > 
 > Anyone have recommendations for novels or web fiction about incremental progress? [Delve](https://www.royalroad.com/fiction/25225/delve) and [The Paragamer](https://forums.spacebattles.com/threads/the-paragamer-worm-the-gamer-w-ocs.496126/) are good examples of this, as is [Sword of the Bright Lady](https://www.goodreads.com/book/show/20299769-sword-of-the-bright-lady).
-> People here might enjoy Delve. It's an isekai  + lit rpg where the main character gets no special advantages, and even has to learn the local language. You get excited about things like his scraping together enough money to buy some clothes.
-> Sword of the Bright Lady is the first of the World of Prime series. The main character gets pulled into a fantasy world where power is gained by drawing a substance from the minds of deceased sentient beings. I'd venture to call it rational, probably the closest I've seen to a rational take on a literal interpretation of D&D. What would the world look like if sentients were actually worth XP? And if there was an alignment system and spells that let you see alignment?
-> Anyone who isn't reading, or hasn't read, Ted Chiang is missing out. You should run out and buy [Exhalation](https://www.amazon.com/dp/B07GD46PQZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 > 
+> People here might enjoy Delve. It's an isekai  + lit rpg where the main character gets no special advantages, and even has to learn the local language. You get excited about things like his scraping together enough money to buy some clothes.
+> 
+> Sword of the Bright Lady is the first of the World of Prime series. The main character gets pulled into a fantasy world where power is gained by drawing a substance from the minds of deceased sentient beings. I'd venture to call it rational, probably the closest I've seen to a rational take on a literal interpretation of D&D. What would the world look like if sentients were actually worth XP? And if there was an alignment system and spells that let you see alignment?
+> 
+> Anyone who isn't reading, or hasn't read, Ted Chiang is missing out. You should run out and buy [Exhalation](https://www.amazon.com/dp/B07GD46PQZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 
->> **u/Sonderjye** [+5] *
+>> **u/Sonderjye** [+4]  (2 days later)
 >> 
 >> Delve seems promising but I am having a hard time understanding why our protagonists build is good. >!Aside from that one lucky essence monster and the mana to xp thing, it seems that his build should be easily replicatable, especially when Dynamo is commonly known. I also somewhat question the complete (almost) complete lack of asking for advice and common knowledge about good skill combinations/tactics as well as the idea of sinking three skill points into damage when he isn't investing anything in focus and when 9 points could make him virtually invincible to all damage types.!<
->> 
 
->>> **u/Amonwilde** [+3] *
+>>> **u/Amonwilde** [+3]  (5 days later)
 >>> 
 >>> Seems fairly plausible that there might be a norm about not telling others about your build, i.e. a ruling class might know the best classes and find an advantage in discouraging open knowledge on builds, and the knowledge does seem fairly personal. In real life, we often don't share our salaries, even though that knowledge would help our colleagues and friends negotiate better. It's partly becaue the norm benefits social superiors (who are employers and not emploees) and partly because the numbers are too naked a reflection of status. Literal status (attributes, skills) eems like it might follow a similar dynamic.
->>> Tend to agree that his points on freeze and fire are a waste. Perhaps you could justify one to access higher tiers or whatever, but unless I'm missing that they're both needed to unlock something in particular (which is possible) the fire at least seems like a waste.
->>> I don't think his class is really anything special, at least not yet. Seems like people have a hard time specalizing to the extent that he does, there is only one other person shown to have a class based around one attribute.
 >>> 
+>>> Tend to agree that his points on freeze and fire are a waste. Perhaps you could justify one to access higher tiers or whatever, but unless I'm missing that they're both needed to unlock something in particular (which is possible) the fire at least seems like a waste.
+>>> 
+>>> I don't think his class is really anything special, at least not yet. Seems like people have a hard time specalizing to the extent that he does, there is only one other person shown to have a class based around one attribute.
 
->>>> **u/Sonderjye** [+1] *
+>>>> **u/Sonderjye** [+1]  (5 days later)
 >>>> 
 >>>> I'll buy that given how vulnerable you become when you expose your build, that the social norm is that those are kept hidden and possible social stigma as you mentioned. It seems likely to me though that the nobles have extensive libraries on classes and skill trees and scholars hired to find and log new combinations. Admittedly though, for the vast majority of humanitys time it wasn't common to log things with the precision this would require, so I can buy a certain level of incompetence. It does seem narratively unsatisfying if the reason that the protagonists build is something is that the opposition is incompetent though I guess not less unsatisfying than the usual special treatment. 
->>>> I think that the smartest thing to do regarding damage was to ask your friendly aura mage who were raised by the local OP mage about hidden offensive auras.
->>>> We don't actually know that there is only one other person who have a class around one attribute. We don't actually know the class of any of the other people and it seems at least plausible that most mages do a solo Focus build.
 >>>> 
+>>>> I think that the smartest thing to do regarding damage was to ask your friendly aura mage who were raised by the local OP mage about hidden offensive auras.
+>>>> 
+>>>> We don't actually know that there is only one other person who have a class around one attribute. We don't actually know the class of any of the other people and it seems at least plausible that most mages do a solo Focus build.
 
->>>>> **u/Amonwilde** [+2] *
+>>>>> **u/Amonwilde** [+2]  (5 days later)
 >>>>> 
 >>>>> Subtextually, I don't think it's the case that most (or any that we've seen) mages are specialized in focus to the extent that the MC is specialized in Clarity. The other mage guy expressed incredulity that the MC's health is so low. I believe one of the other classes was also "mage" or something similar, and they made kind of a big deal out of the vivicant (the health regen specalist) as if he was rare. They also explicitly say the "monolithic" classes are well-known but that people don't choose them too often. The story does seem a little inconsistent about how much other characters know about skills, they seem frequently surprised at his use of purity even though they seem to be able to find it in the menu as easily as he can.
->>>>> 
 
->>>>>> **u/Sonderjye** [+1] *
+>>>>>> **u/Sonderjye** [+1]  (5 days later)
 >>>>>> 
 >>>>>> I'll concede that it seems that way. I don't really get why a monolithic class in Focus is unusual. I can see getting some HP once in a while but if you're a wizard you should have mainly Focus. We know that it's common to take that skill that lets you regen with Focus.
->>>>>> 
 
->>>>>>> **u/Amonwilde** [+2] *
+>>>>>>> **u/Amonwilde** [+2]  (6 days later)
 >>>>>>> 
 >>>>>>> I think it's hard to say why people might not without seeing how the default mage class works. But yes, seems likely the author hasn't fully thought this element of the story through.
->>>>>>> 
 
->>>> **u/Sonderjye** [+1] *
+>>>> **u/Sonderjye** [+1]  (5 days later)
 >>>> 
 >>>> I just realized that the defensive tier 1 auras have no prerequirements. Not using XP to reveal tier 2 and spending a single point on physical resistance is downright offensive.
->>>> 
 
->>>>> **u/Amonwilde** [+1] *
+>>>>> **u/Amonwilde** [+1]  (5 days later)
 >>>>> 
 >>>>> Think there might be some requirements, but they're explained in a way that's hard for me to follow. If not, then yeah, it's pretty dumb. He should probably prioritize unlocking all the tiers first so he can actually plan a real build instead of mucking around, but I suppose most of the time he's in phyiscal danger, or actual hunger or whatever. Still, he doesn't do anything actually dumb, just not things that are totally optimal, mostly.
->>>>> 
 
->>>>>> **u/Sonderjye** [+1] *
+>>>>>> **u/Sonderjye** [+1]  (5 days later)
 >>>>>> 
 >>>>>> No requirements for the tier 1 defensive auras. The tier 2 might of course. Yes, he really should and especially since he's capped at 18. Better use as much experience as possible before you reach cap and might not get more XP.
->>>>>> You are right though, he isn't making horrible choices.
 >>>>>> 
+>>>>>> You are right though, he isn't making horrible choices.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (3 days later)
 >>> 
 >>> I think specializing is king in that system. Auras seem to be able to apply all kinds of damages, have great utility, defend against the same kinds of damages, and even give him physical boosts.
->>> 
 
->>>> **u/Sonderjye** [+3] *
+>>>> **u/Sonderjye** [+3]  (3 days later)
 >>>> 
 >>>> I don't doubt that specialization is king. But he dumps 3 points into damage auras when 1 is enough and his lack of focus means that his damage is going to be lower than any mage that actually focuses on damage. We know that physical resistance is in tier 2 defensive wards and with his bonuses he can block 100% of damage eventually.
->>>> 
 
->> **u/meterion** [+2] *
+>> **u/meterion** [+2]  (18 hours later)
 >> 
 >> After binging it, I can agree that Delve is pretty fun. Definitely a slow burn, but promising.
->> 
 
->> **u/iftttAcct2** [+1] *
+>> **u/iftttAcct2** [+1]  (10 hours later)
 >> 
 >> A couple of others from royalroadl, to check out  
 >> https://www.royalroad.com/fiction/13168/fork-this-life  
 >> https://www.royalroad.com/fiction/20451/who-says-this-ol-cant-become-a-splendid-slime  
 >> https://www.royalroad.com/fiction/21623/the-perks-of-immortality  
 >> https://www.royalroad.com/fiction/25361/dungeon-engineer
->> 
 
->>> **u/Amonwilde** [+3] *
+>>> **u/Amonwilde** [+3]  (a day later)
 >>> 
 >>> I like *Perks of Immortality*.
->>> 
 
->>>> **u/iftttAcct2** [+2] *
+>>>> **u/iftttAcct2** [+2]  (a day later)
 >>>> 
 >>>> Certainly a neat premise.
->>>> 
 
->>>> **u/kraryal** [+2] *
+>>>> **u/kraryal** [+2]  (2 days later)
 >>>> 
 >>>> I enjoyed this one a lot too. The main character makes sense and seems to work fairly hard with his limits
->>>> 
 
->>>>> **u/Amonwilde** [+1] *
+>>>>> **u/Amonwilde** [+1]  (5 days later)
 >>>>> 
 >>>>> Tried the one you recommended, but the main character is such a dummy and the world is very abstract. Like a lit rpg and might come back to it if it's recommend a few more times on here, maybe.
->>>>> 
 
->>>>>> **u/kraryal** [+1] *
+>>>>>> **u/kraryal** [+1]  (7 days later)
 >>>>>> 
 >>>>>> There's actual plot justification why the main character is such a dummy and the world is so abstract, but the story takes a while to get there for sure.
->>>>>> 
 
->>>>>>> **u/Amonwilde** [+1] *
+>>>>>>> **u/Amonwilde** [+1]  (7 days later)
 >>>>>>> 
 >>>>>>> OK, might revisit. Thanks!
->>>>>>> 
 
->>> **u/IICVX** [+2] *
+>>> **u/IICVX** [+2]  (12 hours later)
 >>> 
 >>> Another really good recent one on RR is [He Who Fights With Monsters](https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters)
->>> 
 
->>>> **u/Sonderjye** [+1] *
+>>>> **u/Sonderjye** [+1]  (13 hours later)
 >>>> 
 >>>> Wait, does he become a better fighter? I read some 20 chapters and don't remember anything like that.
->>>> 
 
->>>>> **u/iftttAcct2** [+1] *
+>>>>> **u/iftttAcct2** [+1]  (17 hours later)
 >>>>> 
 >>>>> Just read it. Not yet, but it does seem to be heading that way.
->>>>> 
 
->>>> **u/Amonwilde** [+1] *
+>>>> **u/Amonwilde** [+1]  (a day later)
 >>>> 
 >>>> This is actually pretty good, and complete.
->>>> 
 
->>>>> **u/iftttAcct2** [+2] *
+>>>>> **u/iftttAcct2** [+2]  (a day later)
 >>>>> 
 >>>>> It's not complete, though?
->>>>> 
 
->>>>>> **u/Amonwilde** [+1] *
+>>>>>> **u/Amonwilde** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Funny, thought it was. Maybe I just ended on a really good ending-type chapter? Definitely feel closure, ha.
->>>>>> 
 
->>>>>>> **u/iftttAcct2** [+1] *
+>>>>>>> **u/iftttAcct2** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> Maybe you're thinking of a different one? This one is just getting out of its introductory arc.
->>>>>>> 
 
->>>>>>>> **u/Amonwilde** [+2] *
+>>>>>>>> **u/Amonwilde** [+2]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Yeah, I was...
->>>>>>>> https://www.fanfiction.net/s/6942921/1/He-Who-Fights-Monsters
 >>>>>>>> 
+>>>>>>>> https://www.fanfiction.net/s/6942921/1/He-Who-Fights-Monsters
 
->>>>>>>>> **u/iftttAcct2** [+1] *
+>>>>>>>>> **u/iftttAcct2** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> Ah! Well, you should check out the RRL one, it's not bad. And I'll look at this one ;)
->>>>>>>>> 
 
-> **u/Shaolang** [+9] *
+> **u/Shaolang** [+11]  (8 hours later)
 > 
 > Has anyone here seen The Boys on Amazon?  Any reviews or comments on how rational it is?
-> 
 
->> **u/alexanderwales** [+21]  *Time flies like an arrow**
+>> **u/alexanderwales** [+24]  *Time flies like an arrow* (8 hours later)
 >> 
 >> I loved it, but rational ... eh. More than baseline, definitely, which I think usually comes with a more reactionary take on a genre. There are bits and pieces here and there that read as "this is how it would actually be in the real world", but that's kind of secondary to what they're trying to do, which is a takedown/analysis of celebrity culture, soulless corporations, revenge, cycles of victimhood, and a bunch of other stuff like that. Like I said, I loved it, but if someone recommended it to me as rational fiction, I would be in the kind of mindset where I would immediately start poking holes in things, since there are holes to be poked.
->> Oh, and it's also really edgy, enough that it was a bit of a turnoff, but *far* less than the comic books.
 >> 
+>> Oh, and it's also really edgy, enough that it was a bit of a turnoff, but *far* less than the comic books.
 
->> **u/generalamitt** [+1] *
+>> **u/generalamitt** [+1]  (a day later)
 >> 
 >> Started strong, nosedived after a couple of episodes.
->> 
 
-> **u/EliezerYudkowsky** [+17]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+15]  *Godric Gryffindor* (an hour later)
 > 
 > What online stories these days reward the intelligent reader?
-> 
 
->> **u/over_who** [+11]  *Aleph you are going to die**
+>> **u/over_who** [+11]  *Aleph you are going to die* (2 hours later)
 >> 
 >> What sort of intelligence? What sort of reward are you looking for?
->> 
 
->>> **u/Gurkenglas** [+5] *
+>>> **u/Gurkenglas** [+6]  (9 hours later)
 >>> 
 >>> For example, a story made of foreshadowing will be enjoyable to the sort of person who likes spotting the connections.
->>> 
 
->> **u/cadet-therewill** [+6] *
+>> **u/cadet-therewill** [+6]  (2 days later)
 >> 
 >> If you haven't had the time for Mother of Learning, I'd suggest it. One of my two ;) favorite serial web-novels of all time. Not yet finished, but I'm extremely excited for the end, because the author has set up a scenario with a solution yet to be revealed. I think I've figured out most of what the MC is planning to do to get him and his friends out of the disaster, and there are a few other puzzles I'm still thinking about. You'd have to make it about 100 chapters in to get there, but it's well worth it on the way. It would be my pick for "Best Ongoing Web-Serial for the Clever Reader."
+>> 
 >> I also read through Doc Future the last two days because I wanted to see how the author did with smart characters... not amazing really, a lot of it is "wow, reader, isn't this dialogue confusing?" However, the story baited me in with a fantastic initial chapter, which I'd happily share with anyone who likes a little clever storytelling. It's called "Phone Tag" and it's about a speedster superhero who suddenly hears her friend scream on an international phone call, and has less than a second to save her. The physics of speed measuring solid fractions of c is the best part, imo. 
 >> Honestly, the speedster, Flicker, comes across as smarter than her father, Doc Future, the "smartest man in the world." We actually see her being creative and doing things in the world rather than just arguing about time-loops and quantum physics.
->> 
 
->> **u/Bowbreaker** [+3]  *Solitary Locust**
+>> **u/Bowbreaker** [+3]  *Solitary Locust* (2 days later)
 >> 
 >> You could continue reading The Promised Neverland at the point where the anime season 01 ended.
->> 
 
->>> **u/EliezerYudkowsky** [+4]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor* (2 days later)
 >>> 
 >>> And where in the manga is the end of anime season 1?
->>> 
 
->>>> **u/Bowbreaker** [+4]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+3]  *Solitary Locust* (2 days later)
 >>>> 
 >>>> Season 1 goes up to volume 37.
->>>> 
 
->> **u/Anderkent** [+2] *
+>> **u/Anderkent** [+2]  (6 days later)
 >> 
 >> Not online, but I've been rereading the Commonweal series by G Saunders (https://www.goodreads.com/series/242525-commonweal). It requires and rewards attentive and intelligent reading, by pointing at concepts in fuzzy ways (with characters having more detailed knowledge that they don't explain) long before describing them in detail. 
->> However YMMV - I find this kind of approach relies heavily on a partial match between what the reader imagines is the logic behind the events, and what actually is explained later, and that will vary.
 >> 
+>> However YMMV - I find this kind of approach relies heavily on a partial match between what the reader imagines is the logic behind the events, and what actually is explained later, and that will vary.
 
-> **u/lsparrish** [+5] *
+> **u/lsparrish** [+4]  (2 hours later)
 > 
 > I just finished [Post Human](https://www.royalroad.com/fiction/22848/post-human). Loved it. Has a few weird things like FTL, but mostly hard sci-fi.
-> 
 
->> **u/ansible** [+2]  *The Culture**
+>> **u/ansible** [+2]  *The Culture* (6 hours later)
 >> 
 >> I started reading it, but haven't finished it yet, not sure if I will.
->> The tech level struck me as weird.  It was sort of implied that humanity >!(pre-apocalypse)!< was stuck in the solar system, but later on it is basically stated that they did have FTL.  And then it isn't clear (at least for the part that I read) if the MC does have access to FTL or not. Which I would think changes everything.
->> Also: >!A little bit later, the MC (and friends) take out a enemy ship.  And afterwards (at least as far as I got), there were no consequences?  Like, no one else noticed that the ship went missing, and was a t last known position X, Y, Z?!<
 >> 
+>> The tech level struck me as weird.  It was sort of implied that humanity >!(pre-apocalypse)!< was stuck in the solar system, but later on it is basically stated that they did have FTL.  And then it isn't clear (at least for the part that I read) if the MC does have access to FTL or not. Which I would think changes everything.
+>> 
+>> Also: >!A little bit later, the MC (and friends) take out a enemy ship.  And afterwards (at least as far as I got), there were no consequences?  Like, no one else noticed that the ship went missing, and was a t last known position X, Y, Z?!<
 
->>> **u/lsparrish** [+2] *
+>>> **u/lsparrish** [+2]  (7 hours later)
 >>> 
 >>> The FTL is comms only, and based on quantum entanglement. It does get explained later with an acceptable degree of technobabble. However, this is an HFY story, and >!the aliens!< definitely hold the idiot ball at certain points. >!Most of the technology isn't their own, but stuff they have traded for or stolen elsewhere.!<
->>> 
 
->>>> **u/ansible** [+1]  *The Culture**
+>>>> **u/ansible** [+1]  *The Culture* (15 hours later)
 >>>> 
 >>>> Are you sure about that?
->>>> >!They talk about probes coming back from other star systems. The probes (Voyager XYZ) were sent out *before* the invasion.!<
 >>>> 
+>>>> >!They talk about probes coming back from other star systems. The probes (Voyager XYZ) were sent out *before* the invasion.!<
 
->>>>> **u/lsparrish** [+3] *
+>>>>> **u/lsparrish** [+3]  (23 hours later)
 >>>>> 
 >>>>> My interpretation was that >!the probes were sent out at slower than light speeds, and also returned at slower than light speeds. Note that the apocalypse happens in 2472, so it's fairly far in the future already, and some probes could have returned by then.!<
->>>>> >!I'm not entirely sure how Voyager XIX was supposed to have survived entering the anomaly, as it is not equipped with the grav plating tech needed to traverse it, but the anomaly in question is apparently a different one 27 light years away, not the one orbiting near earth during the main story.!<
 >>>>> 
+>>>>> >!I'm not entirely sure how Voyager XIX was supposed to have survived entering the anomaly, as it is not equipped with the grav plating tech needed to traverse it, but the anomaly in question is apparently a different one 27 light years away, not the one orbiting near earth during the main story.!<
 
->> **u/iftttAcct2** [+1] *
+>> **u/iftttAcct2** [+1]  (10 hours later)
 >> 
 >> I enjoyed this but would caution anyone going into this that it's not what I'd call rational.
->> 
 
-> **u/None** [+6] *
+> **u/None** [+6]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/boomfarmer** [+6]  *Trying to be helpful**
+>> **u/boomfarmer** [+7]  *Trying to be helpful* (22 hours later)
 >> 
 >> After Alice Grove, the author began exploring robots more in his primary webcomic, Questionable Content.
->> 
 
-> **u/CouteauBleu** [+8]  *We are the Empire.**
+> **u/CouteauBleu** [+9]  *We are the Empire.* (8 hours later)
 > 
 > Have you ever watched a video dissertation about something and felt the youtuber was making some interesting points, but they were really diluting them by being vague and non-commital and adding a lot of extraneous "But it's just my opinion" after every sentence?
-> Well, then I recommend [Lily Orchard](https://www.youtube.com/channel/UCAQ7357VoOQZTeRGhMa4r-A). She got her start in My Little Pony Analysis, and branched out into other kids' cartoons and video games. She's basically the polar opposite of a liberal centrist, and has an extremely strong opinion on everything she talks about.
-> She's a really frustrating content creator for me.
-> On the one hand, she's one of the smartest, most incisive youtubers I've seen. I agree with about 80% of the points she makes.
-> On the other hand, she is incredibly obnoxious about the remaining 20%, and she often represents the most toxic, self-destructive parts of the internet. So, you know, proceed with caution.
 > 
+> Well, then I recommend [Lily Orchard](https://www.youtube.com/channel/UCAQ7357VoOQZTeRGhMa4r-A). She got her start in My Little Pony Analysis, and branched out into other kids' cartoons and video games. She's basically the polar opposite of a liberal centrist, and has an extremely strong opinion on everything she talks about.
+> 
+> She's a really frustrating content creator for me.
+> 
+> On the one hand, she's one of the smartest, most incisive youtubers I've seen. I agree with about 80% of the points she makes.
+> 
+> On the other hand, she is incredibly obnoxious about the remaining 20%, and she often represents the most toxic, self-destructive parts of the internet. So, you know, proceed with caution.
 
->> **u/IICVX** [+11] *
+>> **u/IICVX** [+10]  (10 hours later)
 >> 
 >> > "Steven Universe is garbage and here's why" - 2:07:12 
->> whew lad(y)
 >> 
+>> whew lad(y)
 
->>> **u/SkyTroupe** [+2] *
+>>> **u/SkyTroupe** [+2]  (11 hours later)
 >>> 
 >>> Subscribed
->>> 
 
->> **u/Bowbreaker** [+4]  *Solitary Locust**
+>> **u/Bowbreaker** [+5]  *Solitary Locust* (2 days later)
 >> 
 >> >She
->> Is there any indication other than the channel name as to the content creator's gender? They sound like a cis male and I don't want to misgender them.
 >> 
+>> Is there any indication other than the channel name as to the content creator's gender? They sound like a cis male and I don't want to misgender them.
 
->>> **u/CouteauBleu** [+6]  *We are the Empire.**
+>>> **u/CouteauBleu** [+7]  *We are the Empire.* (2 days later)
 >>> 
 >>> She's explicitly transgender.
->>> 
 
->>>> **u/Bowbreaker** [+5]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+5]  *Solitary Locust* (2 days later)
 >>>> 
 >>>> Thanks. I only saw her Legend of Korra video and she understandably doesn't talk about her gender in every video.
->>>> 
 
->> **u/ProfessorPhi** [+2] *
+>> **u/ProfessorPhi** [+2]  (14 days later)
 >> 
 >> Have you discovered Lindsay Ellis, Contra or Hbomberguy? They're by far my favourites, absolutely incredible and very incisive.
->> 
 
->>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>> **u/CouteauBleu** [+1]  *We are the Empire.* (14 days later)
 >>> 
 >>> I like LE and CP (haven't found Hbomberguy), but I think the point above stands.
->>> Like, I would say that Lindsay Ellis is a better critic / analyst than Lily Orchard by most metrics, but *man* Lily just gets to the point, and she has a knack for finding controversial issues and getting to the root of them, even if I don't always agree with her points or her presentation.
->>> I'd put it this way: if ContraPoints is the Paragon of left-wing Youtube, then Lily Orchard is the Renegade. Not necessarily *better*, but way punchier.
 >>> 
+>>> Like, I would say that Lindsay Ellis is a better critic / analyst than Lily Orchard by most metrics, but *man* Lily just gets to the point, and she has a knack for finding controversial issues and getting to the root of them, even if I don't always agree with her points or her presentation.
+>>> 
+>>> I'd put it this way: if ContraPoints is the Paragon of left-wing Youtube, then Lily Orchard is the Renegade. Not necessarily *better*, but way punchier.
 
-> **u/IgonnaBe3** [+3] *
+> **u/IgonnaBe3** [+3]  (an hour later)
 > 
 > could somebody reccommend me something thats not on the wiki page under the "defining works" ?
-> it can be anything, although preferably a fantasy novel that i could read online. Doesnt have to be strictly rational although ofcourse i would prefer if it was but i am largely bored and would read anything.
-> I was lately reading the novel "delve" on RR and was in the mood for something similiar. I have also read metaworld chronicles, the good student, azarinth healer, skyclad and a couple of others on RR. Most of the stuff on RR tho is pretty meh altogether but sometimes there are things that i can read as popcorn fics.
 > 
+> it can be anything, although preferably a fantasy novel that i could read online. Doesnt have to be strictly rational although ofcourse i would prefer if it was but i am largely bored and would read anything.
+> 
+> I was lately reading the novel "delve" on RR and was in the mood for something similiar. I have also read metaworld chronicles, the good student, azarinth healer, skyclad and a couple of others on RR. Most of the stuff on RR tho is pretty meh altogether but sometimes there are things that i can read as popcorn fics.
 
->> **u/awoods187** [+12] *
+>> **u/awoods187** [+12]  (an hour later)
 >> 
 >> I recently started reading [Lord of Mysteries](https://www.webnovel.com/book/11022733006234505/Lord-of-the-Mysteries) and am enjoying it. Its a bit progression fantasy, a bit fantasy world-building, but the character tries to act rationally even if it wouldn't meet the standards of this sub.
->> 
 
->>> **u/IgonnaBe3** [+3] *
+>>> **u/IgonnaBe3** [+3]  (2 hours later)
 >>> 
 >>> can i read it somewhere thats not qidian ?
->>> 
 
->>>> **u/Cuz_Im_TFK** [+10] *
+>>>> **u/Cuz_Im_TFK** [+9]  (3 hours later)
 >>>> 
 >>>> Yes. There's a site that compiles "qidian" chapters into pastebins. It used to have a subreddit. The second keyword is "underground". Search a bit and you should find it.
->>>> BTW, I second the rec for Lord of the Mysteries. It's quite good and draws on a lot of real-world inspiration and facts from Victorian Era London. I've actually learned a good amount of history from reading it and then looking up the references, facts, conditions, and statistics in relation to the real world. The difference is that in Victorian London, mysticism was a "fad" and a backlash against rationalism, but in this story, the mysticism is real (with strong Lovecraftian undertones). The author does a good job of sticking to his own rules and of letting the situation develop realistically based on the established conditions. You can absolutely reason about mysteries and future events based on what you've seen so far and the rules of the world, which is the most basic requirement for a Rational! work.
->>>> The same author wrote "Throne of Magical Arcana" (incomplete and very slow translation though). This one features "scientific sorcerers" called Arcanists in a world dominated by religion where the Arcanists perform experiments to discover the truth of the world and develop their powers. Features the wave-particle duality, the advent of non-Euclidean geometry, the discovery of the periodic table of elements, the discovery of the inner structure of an atom, and more. It's also quite fun to read and contains a lot of references and parallels to the real development of math, physics, and chemistry in the late 1800s to around 1900 while incorporating some of the Science vs. Religion and general religious oppression of earlier time periods.
 >>>> 
+>>>> BTW, I second the rec for Lord of the Mysteries. It's quite good and draws on a lot of real-world inspiration and facts from Victorian Era London. I've actually learned a good amount of history from reading it and then looking up the references, facts, conditions, and statistics in relation to the real world. The difference is that in Victorian London, mysticism was a "fad" and a backlash against rationalism, but in this story, the mysticism is real (with strong Lovecraftian undertones). The author does a good job of sticking to his own rules and of letting the situation develop realistically based on the established conditions. You can absolutely reason about mysteries and future events based on what you've seen so far and the rules of the world, which is the most basic requirement for a Rational! work.
+>>>> 
+>>>> The same author wrote "Throne of Magical Arcana" (incomplete and very slow translation though). This one features "scientific sorcerers" called Arcanists in a world dominated by religion where the Arcanists perform experiments to discover the truth of the world and develop their powers. Features the wave-particle duality, the advent of non-Euclidean geometry, the discovery of the periodic table of elements, the discovery of the inner structure of an atom, and more. It's also quite fun to read and contains a lot of references and parallels to the real development of math, physics, and chemistry in the late 1800s to around 1900 while incorporating some of the Science vs. Religion and general religious oppression of earlier time periods.
 
->>>>> **u/IgonnaBe3** [+1] *
+>>>>> **u/IgonnaBe3** [+1]  (8 hours later)
 >>>>> 
 >>>>> okay, thanks. I heard about the underground but i havent looked at it after they deleted the subreddit but now after googling i got it.
->>>>> also thanks for the recs again
 >>>>> 
+>>>>> also thanks for the recs again
 
->>>>>> **u/iftttAcct2** [+5] *
+>>>>>> **u/iftttAcct2** [+4]  (10 hours later)
 >>>>>> 
 >>>>>> I mean, there's also at least half a dozen aggregators that have all the qidian books. They're not terrible if you use adblock. Or use a website to download an epub of the work or use fanficfare.
->>>>>> 
 
->>>> **u/Rice_22** [+2] *
+>>>> **u/Rice_22** [+2]  (a day later)
 >>>> 
 >>>> Boxnovel
->>>> 
 
->> **u/meangreenking** [+8] *
+>> **u/meangreenking** [+7]  (12 hours later)
 >> 
 >> Honestly the "best rated" section on Royal Road is pretty good, which is surprising as it was pretty terrible like a year ago.
->> Notably pretty much everything on the first page is very solid, with a few that you might not like depending on your preferences (for instance both Blue Core and Large Chests feature adult content with Large Chests being pretty hardcore).
->> That said, I would recommend Blue Core anyways. Unlike Large Chests the adult scenes are always marked in the chapter title (and thus easy to skip if it isn't your cup of tea) in addition to being much less extreme. Its also a good and fun series.
->> Super Minion is also great, with a main character that is actually pretty rational. Now, he lacks starts off a non-human monster with no understanding of the world and human nature so despite acting rationally for him and his circumstances he still manages to act pretty insane, which is loads of fun.
->> I am also particularly impressed by the Scourged Earth (science fiction but restricted to Earth), which is one of the very few litrpg's with a good reason for leveling other then "Some gods felt like making a system I guess lol" and that really feels like it makes sense.
->> A rec that *isn't* from the front page is The legend of Randidly Ghosthound which is a quite good litRPG. Not the *best* ever, but A) It is still pretty good, and B) Quantity is a quality all its own, and at 980 chapters its something you can sink your teeth into for a significant chunk of time.
 >> 
+>> Notably pretty much everything on the first page is very solid, with a few that you might not like depending on your preferences (for instance both Blue Core and Large Chests feature adult content with Large Chests being pretty hardcore).
+>> 
+>> That said, I would recommend Blue Core anyways. Unlike Large Chests the adult scenes are always marked in the chapter title (and thus easy to skip if it isn't your cup of tea) in addition to being much less extreme. Its also a good and fun series.
+>> 
+>> Super Minion is also great, with a main character that is actually pretty rational. Now, he lacks starts off a non-human monster with no understanding of the world and human nature so despite acting rationally for him and his circumstances he still manages to act pretty insane, which is loads of fun.
+>> 
+>> I am also particularly impressed by the Scourged Earth (science fiction but restricted to Earth), which is one of the very few litrpg's with a good reason for leveling other then "Some gods felt like making a system I guess lol" and that really feels like it makes sense.
+>> 
+>> A rec that *isn't* from the front page is The legend of Randidly Ghosthound which is a quite good litRPG. Not the *best* ever, but A) It is still pretty good, and B) Quantity is a quality all its own, and at 980 chapters its something you can sink your teeth into for a significant chunk of time.
 
->>> **u/generalamitt** [+3] *
+>>> **u/generalamitt** [+3]  (a day later)
 >>> 
 >>> Light spoilers for Super minion. 
->>> Didn't it bother you that he developed sympathy seemingly out of nowhere?  What drew me to the story in the first place was the inhumanity of the MC, the tension between his cold robotic perspective and the need to fit in for survival. 
->>> The first couple of chapters were great for that, I was looking forward to witnessing how his inherent sociopathy would affect his relationship with other characters...and the first real connection he makes with- the guy from school (the one with the asshole stepdad)- and he decides to help him and be a "good friend", meh. disappointing.  Ruined the whole concept of the story for me.
 >>> 
+>>> Didn't it bother you that he developed sympathy seemingly out of nowhere?  What drew me to the story in the first place was the inhumanity of the MC, the tension between his cold robotic perspective and the need to fit in for survival. 
+>>> 
+>>> The first couple of chapters were great for that, I was looking forward to witnessing how his inherent sociopathy would affect his relationship with other characters...and the first real connection he makes with- the guy from school (the one with the asshole stepdad)- and he decides to help him and be a "good friend", meh. disappointing.  Ruined the whole concept of the story for me.
 
->>>> **u/iftttAcct2** [+2] *
+>>>> **u/iftttAcct2** [+2]  (a day later)
 >>>> 
 >>>> It bothered me but not enough to drop the story. I'm rationalizing it that it's a result of human.exe. I'm trying to recall if, when it got shut down for a bit there, he became colder.
->>>> 
 
->>>>> **u/meangreenking** [+2] *
+>>>>> **u/meangreenking** [+2]  (a day later)
 >>>>> 
 >>>>> Yeah, human.exe makes him more human, and having emotions and morals are a large part of the human condition, so it making him more moral is something that is very likely.
->>>>> 
 
->>>> **u/valeskas** [+1] *
+>>>> **u/valeskas** [+1]  (2 days later)
 >>>> 
 >>>> I read it as human.exe coming prepackaged with some social intelligence.
->>>> If oblivious human asks AI for paperclips, it might repurpose some atoms from humans for paperclip making. 
->>>> If oblivious AI asks human.exe for paperclips, it might make a few friends along the way.
->>>> >!Later the core notices that human.exe is biased and discovers that  there is no read/write access, only execute. Meaning that it is intended to be social when core is not paying close attention!<
 >>>> 
+>>>> If oblivious human asks AI for paperclips, it might repurpose some atoms from humans for paperclip making. 
+>>>> 
+>>>> If oblivious AI asks human.exe for paperclips, it might make a few friends along the way.
+>>>> 
+>>>> >!Later the core notices that human.exe is biased and discovers that  there is no read/write access, only execute. Meaning that it is intended to be social when core is not paying close attention!<
 
->>> **u/123whyme** [+2] *
+>>> **u/123whyme** [+2]  (22 hours later)
 >>> 
 >>> Yeah I'd probably agree with this, I normally try to avoid quantity as I get sucked in way too easily so I haven't read Randidly. Also has a ridiculous name, put me off. Put I've given a go on a lot of the royal road top fictions and the good ones that have enough writing to actually sink your teeth into are:
->>> -Though the heavens should fall(not actually in the top but by iron teeth author, and I think its going have a lot of potential)
->>> -Delve
->>> -super minion
->>> -He who fights with monsters
->>> -The scourged earth
->>> -Metal and magic
->>> -Tidal lock(stopped writing but still read it)
->>> -Perks of immortality
->>> -Deeper Darker(switches between characters but Ubik is interesting)
->>> -Chimera(might update again not sure)
->>> -Defiance of the fall
->>> -The daily grind
->>> -Wake of the ravager(probably shouldn't like this one but I just really enjoy the world building)
->>> -Street cultivation(loved this one, but its being turned into a book. might still be able to find it dunno)
-
->>> -also not on royal roads but Potenia traitor son cycle on space battles is honestly one of the fictions/quests I most look forward to see updating
->>> -Theres a few others but they're other short and discontinued or just not as good. Btw this up to page 6 maybe theres more out there, but I'm not sure I'm willing to slog through any more while I have enough updates to satisfy my decently written trash novel need. I also read quests on sufficient velocity and space battles, which I can give recommendation on if anyone wants.
 >>> 
+>>> -Though the heavens should fall(not actually in the top but by iron teeth author, and I think its going have a lot of potential)
+>>> 
+>>> -Delve
+>>> 
+>>> -super minion
+>>> 
+>>> -He who fights with monsters
+>>> 
+>>> -The scourged earth
+>>> 
+>>> -Metal and magic
+>>> 
+>>> -Tidal lock(stopped writing but still read it)
+>>> 
+>>> -Perks of immortality
+>>> 
+>>> -Deeper Darker(switches between characters but Ubik is interesting)
+>>> 
+>>> -Chimera(might update again not sure)
+>>> 
+>>> -Defiance of the fall
+>>> 
+>>> -The daily grind
+>>> 
+>>> -Wake of the ravager(probably shouldn't like this one but I just really enjoy the world building)
+>>> 
+>>> -Street cultivation(loved this one, but its being turned into a book. might still be able to find it dunno)
+>>> 
+>>> -also not on royal roads but Potenia traitor son cycle on space battles is honestly one of the fictions/quests I most look forward to see updating
+>>> 
+>>> -Theres a few others but they're other short and discontinued or just not as good. Btw this up to page 6 maybe theres more out there, but I'm not sure I'm willing to slog through any more while I have enough updates to satisfy my decently written trash novel need. I also read quests on sufficient velocity and space battles, which I can give recommendation on if anyone wants.
 
->>> **u/IgonnaBe3** [+1] *
+>>> **u/IgonnaBe3** [+1]  (21 hours later)
 >>> 
 >>> well, i would say that the best rated section atleast has some pretty good things there that i would want to read. Not counting mother of learning we have stuff like "delve" which is a promising new litrpg, "re: trailer trash" which is a rarely seen normal highschool drama and we also get "epilogue" which is a rather nice and short exploration of a concept about isekai stuff if at time a little unrealistic. 
->>> There are things that interest me there but there are also novels that are totally boring and rather uninteresting. Personally i really was bored of ELLC and although i havent read blue core it doesnt look that enticing either. I read a bit of superminion and the early chapters are absolutely a slog to get trough because the head of the character in which we sit is such a total blank slate that its just tiring.
->>> i read the legend of randidly the ghosthound to about chapter 300 i think ? >!when randidly gets back to earth from his adventure in spear xianxia realm. i also remember some things happening after that but the novel is just annoying to read at some points. Its just too long and in a typical chinese xianxia fashion it has thousand of chapters that are so spread out it doesnt make a lot of sense!<
 >>> 
+>>> There are things that interest me there but there are also novels that are totally boring and rather uninteresting. Personally i really was bored of ELLC and although i havent read blue core it doesnt look that enticing either. I read a bit of superminion and the early chapters are absolutely a slog to get trough because the head of the character in which we sit is such a total blank slate that its just tiring.
+>>> 
+>>> i read the legend of randidly the ghosthound to about chapter 300 i think ? >!when randidly gets back to earth from his adventure in spear xianxia realm. i also remember some things happening after that but the novel is just annoying to read at some points. Its just too long and in a typical chinese xianxia fashion it has thousand of chapters that are so spread out it doesnt make a lot of sense!<
 
->>>> **u/Sonderjye** [+1] *
+>>>> **u/Sonderjye** [+1]  (10 days later)
 >>>> 
 >>>> Does Trailer Trash move somewhere away from the teenage drama? I find it mildly amusing but hope the timetravel will be used for something more meaningful than the small scale stuff.
->>>> 
 
->>>>> **u/IgonnaBe3** [+2] *
+>>>>> **u/IgonnaBe3** [+2]  (10 days later)
 >>>>> 
 >>>>> The update rate is very slow and the story moves slowly as well so for now it hasnt really moved past the teenage drama.
->>>>> 
 
-> **u/Addictedtobadfanfict** [+6] *
+> **u/Addictedtobadfanfict** [+5]  (7 hours later)
 > 
 > Isekai manga and anime is on full swing this summer season with countless new additions. However, what perturbs me off the most is that they try to add a "realistic" cookie cutter plot and expect the readers to take it "seriously".They hide the blatant fact that their medium is just a fanservice power jerk, filled with wish fulfillment. If you go on /r/manga or /r/anime they actually have fervent discussions on the latest chapter or episode. Not anything about the *revolutionary* plot mind you but about who is the next best waifu. They glorify this medium as it is and I actually should not even be suprised why so many of the same cliche isekai keeps getting released looking at the comment section. They eat this garbage whole and shit out their money for it.
-> Is there any isekai besides worth the candle that has a rational or rational adjacent world and takes itself "seriously"? 
-> [Eminence in the Shadow](https://mangarock.com/manga/mrs-serie-100391860)is an isekai manga that does not take itself seriously at all and thats why it is very enjoyable. The MC makes it his mission to be the unassuming yet powerful side character trope and takes it to the extreme.
 > 
+> Is there any isekai besides worth the candle that has a rational or rational adjacent world and takes itself "seriously"? 
+> 
+> [Eminence in the Shadow](https://mangarock.com/manga/mrs-serie-100391860)is an isekai manga that does not take itself seriously at all and thats why it is very enjoyable. The MC makes it his mission to be the unassuming yet powerful side character trope and takes it to the extreme.
 
->> **u/RetardedWabbit** [+21] *
+>> **u/RetardedWabbit** [+21]  (7 hours later)
 >> 
 >> Eh, I don't understand all the hate on isekai. It's like all the junky sitcoms us Americans mass produce: they're cheap and easy to make, and some of them are very popular. The industry struggles to identify what makes particular one's popular so they just make a lot of them. As for all the discussion etc I assume it's mostly younger people or people new to the genre. I enjoyed some pretty poor anime when I was younger, harem and edgy tropes in particular that make me cringe now. The current popularity/penetration combines with it having built in plot essentials has also made it popular in current fiction production in general, so I try not to disregard them right away, but I feel your pain about the bland money grabs that are getting made.
->> The best straight take of isekai anime I've watched is Re:Zero which I'd give a 7/10 and Grimgar of Fantasy and Ash which I'd give a 6/10. Also if you've been exposed to the isekai trope but haven't watched Konosuba you're missing out!
 >> 
+>> The best straight take of isekai anime I've watched is Re:Zero which I'd give a 7/10 and Grimgar of Fantasy and Ash which I'd give a 6/10. Also if you've been exposed to the isekai trope but haven't watched Konosuba you're missing out!
 
->>> **u/Teulisch** [+11]  *Space Tech Support**
+>>> **u/Teulisch** [+10]  *Space Tech Support* (11 hours later)
 >>> 
 >>> the basic problem, is that bad writing is far more common than good writing. ergo, most people will encounter a poorly written version of the idea first. 
->>> the classic isekai is Narnia, with the lion witch and wardrobe (written in 1950). british children enter fantasy world with jesus alegory, during WWII. the full series includes genesis and the rapture. it is also gullivers travels to a lesser extent, where a man lost at sea finds fantastic and strange island (published in 1726). its not a new idea, really. 
->>> the 'bad' version... is the old D&D cartoon where the plot is basically monster of the week as the kids look for a way home. its a cheap concept that isnt even true to its source material. and if all you have seen of the idea is as bad or worse than that, then the hate makes too much sense.
 >>> 
+>>> the classic isekai is Narnia, with the lion witch and wardrobe (written in 1950). british children enter fantasy world with jesus alegory, during WWII. the full series includes genesis and the rapture. it is also gullivers travels to a lesser extent, where a man lost at sea finds fantastic and strange island (published in 1726). its not a new idea, really. 
+>>> 
+>>> the 'bad' version... is the old D&D cartoon where the plot is basically monster of the week as the kids look for a way home. its a cheap concept that isnt even true to its source material. and if all you have seen of the idea is as bad or worse than that, then the hate makes too much sense.
 
->> **u/GaBeRockKing** [+11]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+10]  *Horizon Breach: http://archiveofourown.org/works/6785857* (12 hours later)
 >> 
 >> >Is there any isekai besides worth the candle that has a rational or rational adjacent world and takes itself "seriously"?
->> Log Horizon. The fact that it's a mass isekai allows for its primary conflicts to be intrapersonal, and therefore resolved through political, diplomatic, and economic manuevering rather than power levels.
 >> 
+>> Log Horizon. The fact that it's a mass isekai allows for its primary conflicts to be intrapersonal, and therefore resolved through political, diplomatic, and economic manuevering rather than power levels.
 
->>> **u/causalchain** [+3] *
+>>> **u/causalchain** [+3]  (2 days later)
 >>> 
 >>> \+1 Log Horizon.
->>> 
 
->> **u/meterion** [+8] *
+>> **u/meterion** [+8]  (11 hours later)
 >> 
 >> I'm not really sure what you're expecting out of a large sub's comment section, lol. Once a sub gets 6+ digits of subscribers, the closer it becomes to a youtube comment section. Isekai is just a convenient method to create junk food fiction, simple as that.
->> You could say the same thing towards western YA fiction by calling an entire subgenre "teenage revolution", where your plucky highschool protagonists have to overturn an oppressive adult government. A dozen of those stories come out every year, and people, as you say, eat them up. Or with apocalypse litRPG, a subgenre that was popularized in western webfiction communities but is starting to get bigger in Japan now.
->> The closest thing to a serious rat-adjacent isekai I've seen is Mahoutsukai no Yome, though technically it's more of an urban fantasy with a magic masquerade. I suppose you could throw Spirit Circle in there as well for being more or less isekai.
 >> 
+>> You could say the same thing towards western YA fiction by calling an entire subgenre "teenage revolution", where your plucky highschool protagonists have to overturn an oppressive adult government. A dozen of those stories come out every year, and people, as you say, eat them up. Or with apocalypse litRPG, a subgenre that was popularized in western webfiction communities but is starting to get bigger in Japan now.
+>> 
+>> The closest thing to a serious rat-adjacent isekai I've seen is Mahoutsukai no Yome, though technically it's more of an urban fantasy with a magic masquerade. I suppose you could throw Spirit Circle in there as well for being more or less isekai.
 
->> **u/minekasetsu** [+3] *
+>> **u/minekasetsu** [+3]  (a day later)
 >> 
 >> [Daybreak on Hyperion](https://krytykal.org/daybreak/): isekai in a fantasy early-modern era, mainly focus on warfare and politics, among with personal issues. I remember really liking it, among the few things I actually read a couple of times, but I can only be vague since last I read it is years ago.
->> [Overseer](http://moonbunnycafe.com/overseer/): maybe stretching it a bit, as mc's don't know his/her background, and isekai-ed as disembodied god of a race, but it's pretty unique and quite charming.
->> [Release That Witch](https://m.wuxiaworld.co/Release-that-Witch/): guilty pleasure of mine. The isekai is a medieval setting, mc became a prince, and turns out there's magic, or more specifically there's witches that can use magic. Mc shelters them from being torched and use their power for good of the society, all the while introducing technological revolution to his territory to fight of monsters, nobles, princes, and in general just improving the welfare of his people.
->> [The Lazy King](https://myanimelist.net/manga/94658/Daraku_no_Ou): mc isekai-ed as a demon in a hell with magic sistem based on fulfilling one of the seven sin, and mc's sin is Sloth. The story starts when mc had already became powerful, using the perspectives of demons around him, with the mc treated as a force of nature more than anything. When I read it I was unused to it's writing style so it felt a bit of a slog, but the ending of the book 1 is really memorable to me.
->> [The Simulacrum](https://www.royalroad.com/fiction/23173/the-simulacrum): Arguably rational or even rationalist fiction, though really what I'm in is for wacky hijinks of the main character, wielding Refuge in Audacity whenever the situation demands for the alternative.
 >> 
+>> [Overseer](http://moonbunnycafe.com/overseer/): maybe stretching it a bit, as mc's don't know his/her background, and isekai-ed as disembodied god of a race, but it's pretty unique and quite charming.
+>> 
+>> [Release That Witch](https://m.wuxiaworld.co/Release-that-Witch/): guilty pleasure of mine. The isekai is a medieval setting, mc became a prince, and turns out there's magic, or more specifically there's witches that can use magic. Mc shelters them from being torched and use their power for good of the society, all the while introducing technological revolution to his territory to fight of monsters, nobles, princes, and in general just improving the welfare of his people.
+>> 
+>> [The Lazy King](https://myanimelist.net/manga/94658/Daraku_no_Ou): mc isekai-ed as a demon in a hell with magic sistem based on fulfilling one of the seven sin, and mc's sin is Sloth. The story starts when mc had already became powerful, using the perspectives of demons around him, with the mc treated as a force of nature more than anything. When I read it I was unused to it's writing style so it felt a bit of a slog, but the ending of the book 1 is really memorable to me.
+>> 
+>> [The Simulacrum](https://www.royalroad.com/fiction/23173/the-simulacrum): Arguably rational or even rationalist fiction, though really what I'm in is for wacky hijinks of the main character, wielding Refuge in Audacity whenever the situation demands for the alternative.
 
->> **u/Massim0g** [+1] *
+>> **u/Massim0g** [+1]  (3 days later)
 >> 
 >> Someone already recommended Log Horizon so I'll recommend No Game No Life. Obviously the show doesn't take itself very seriously, quite the opposite, the world and main characters very openly celebrate a lot of goofy/fanservice-y tropes of otaku media (which I'd argue is one of the strengths of the show). However, I'd consider it pretty close to rationalist fiction: The premise lends itself well to interesting intellectual conflict (all conflict must be resolved through games), most characters have clear motivations/goals and pursue them in a rational manner, the main characters are highly motivated and have a very EA goal of wanting to unify the world and make everyone happy. Check out the first couple of episodes, they're a strong introduction to the premise and overall tone of the show, therefore a good guage of how much you'd like it.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+3]  (13 hours later)
 > 
 > I've been reading Worth the Candle, and quite enjoying it. I'm planning on picking up Worm soon as well.
-> 
 
->> **u/Dent7777** [+3]  *House Atreides**
+>> **u/Dent7777** [+3]  *House Atreides* (2 days later)
 >> 
 >> Keep in mind, Worm isn't the happiest book. It has quality writing, and quantity in content. With that said, one of two books I've ever put down because I got so disheartened.
->> Characters in WtC aren't all that happy all the time, but nothing compared to Worm.
 >> 
+>> Characters in WtC aren't all that happy all the time, but nothing compared to Worm.
 
-> **u/Nickless314** [+1] *
+> **u/Nickless314** [+1]  (3 days later)
 > 
 > I recommend [Dreams come true](https://www.royalroad.com/fiction/22356/dreams-come-true/chapter/324904/01) for fun, thoughtless entertainment. The premise is basically >!co-existence as isekai and in reality!<, which makes for a nice contrast in storytelling and a fun situation to exploit. The writing style is easily tolerable, the plot doesn't stagnate, and the most ridiculous aspect of the early plot can be safely ignored IMO (BIG spoiler, >!the "hate" of the "antagonist" neighbor!<). Overall, if you have nothing good to read right now, try it.
-> 
 
 ---
 

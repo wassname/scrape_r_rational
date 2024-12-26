@@ -2,7 +2,7 @@
 
 * Author: u/Nagadac  *Challenge Winner**
 * URL: https://www.reddit.com/r/rational/comments/goqrwh/rtwiphf_the_whispering_light_chapters_89/
-* Score: 5
+* Score: 3
 
 * Created: 2020-05-22T20:08:12
 

@@ -2,7 +2,7 @@
 
 * Author: u/timecubefanfiction *
 * URL: https://www.reddit.com/r/rational/comments/gzxk0a/an_empirical_test_for_rational_fiction/
-* Score: 154
+* Score: 152
 
 * Created: 2020-06-09T22:11:53
 
@@ -128,132 +128,133 @@ Good job, Naruto.
 
 ### Comments:
 
-> **u/timecubefanfiction** [+71] *
+> **u/timecubefanfiction** [+68]  (5 minutes later)
 > 
 > I wrote essays about Naruto fanfiction today.
-> 
 
->> **u/kraryal** [+11] *
+>> **u/kraryal** [+11]  (2 hours later)
 >> 
 >> and thank you very much for doing so. I am impressed and I'm going to read this again. That cooking show insight was great too.
->> 
 
-> **u/ThatEeveeGuy** [+23] *
+> **u/ThatEeveeGuy** [+22]  (6 hours later)
 > 
 > While the ability to write engaging and thought-provoking analysis shouldn't be underestimated, neither should the sense of humour required to cap it off with "YOU TOO CAN BE SMARTY NINJA BOY"
-> 
 
-> **u/Nimelennar** [+35] *
+> **u/Nimelennar** [+37]  (an hour later)
 > 
 > >So if you’re not becoming more intelligent from reading a character’s viewpoint, not even a little, then the author must not be showing real intelligence.
-> There are... several flaws with that metric.
-> Let's start by clarifying your definition of "becoming more intelligent."  Intelligence, as a concept, is difficult to nail down.  Here, you seem to be referring to "intelligence" as a collection of skills, rather than something inherent, which is an unusual definition (but one I largely agree with).
-> So, "rational fiction is fiction that makes you more intelligent" becomes "rational fiction is fiction that teaches you a skill."  Here's where things become problematic, because what someone learns from a work is very subjective.
-> Someone might already know the skill being taught: does that make the work less rational, because the reader already knows?  Someone might be reading the work for a second time; is it less rational because they have already absorbed most of the lessons from it?
-> Someone who reads it might not appreciate the skill being taught, or finds that bit of prose boring and skips over it.  Is the work any less rational because the person reading it does not absorb the skill being conveyed?
-> Finally, to go the other way, stories are very good at conveying experience.  A person can be completely wrong about everything, and still convey an idea of why they believe such a thing; does a work become more rational because the person has learned something about the writer's worldview, even if the writer is not thinking particularly rationally?
-> It's true that *any* test for rational fiction is going to be subjective, but this test in particular seems to take that a lot farther than is useful.  A good test for rationality in fiction should not depend on what the reader already knows, nor their interest in learning a particular skill, both of which tests the question "Did this work teach me anything?" fails.
 > 
+> There are... several flaws with that metric.
+> 
+> Let's start by clarifying your definition of "becoming more intelligent."  Intelligence, as a concept, is difficult to nail down.  Here, you seem to be referring to "intelligence" as a collection of skills, rather than something inherent, which is an unusual definition (but one I largely agree with).
+> 
+> So, "rational fiction is fiction that makes you more intelligent" becomes "rational fiction is fiction that teaches you a skill."  Here's where things become problematic, because what someone learns from a work is very subjective.
+> 
+> Someone might already know the skill being taught: does that make the work less rational, because the reader already knows?  Someone might be reading the work for a second time; is it less rational because they have already absorbed most of the lessons from it?
+> 
+> Someone who reads it might not appreciate the skill being taught, or finds that bit of prose boring and skips over it.  Is the work any less rational because the person reading it does not absorb the skill being conveyed?
+> 
+> Finally, to go the other way, stories are very good at conveying experience.  A person can be completely wrong about everything, and still convey an idea of why they believe such a thing; does a work become more rational because the person has learned something about the writer's worldview, even if the writer is not thinking particularly rationally?
+> 
+> It's true that *any* test for rational fiction is going to be subjective, but this test in particular seems to take that a lot farther than is useful.  A good test for rationality in fiction should not depend on what the reader already knows, nor their interest in learning a particular skill, both of which tests the question "Did this work teach me anything?" fails.
 
->> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (2 hours later)
 >> 
 >> What is your better metric?
->> 
 
->>> **u/Nimelennar** [+34] *
+>>> **u/Nimelennar** [+34]  (3 hours later)
 >>> 
 >>> First, I'll distinguish "rational" from "rational**ist**," the latter category (in my opinion) better fitting the attempted "test" above.
->>> A *rational* story is one where the people and their motivations are realistic, their actions are plausible responses to the situations that they are placed in, given their motivations and intelligence, and the consequences of their actions are foreseeable given enough consideration (unless some twist is withheld, in which case, they still make sense in hindsight).
->>> As for a *rationalist* story, I would say that it is a story where the characters are shown to solve problems using rationalist skills, and the use of those skills is displayed in enough detail that someone who is unfamiliar with a particular skill could pick up the basics of that skill without reference to outside works, given the motivation to do so.
->>> The difference between this and the definition/test in the OP is that my definition describes *the text* (the characters, their actions, and how those actions are described to the reader) and the OP describes the *reader's reaction* to the text.  As people react differently when they read the same text (and even the same person can react differently to a text upon a second reading), using *reaction* seems like a less-than-useful way of categorizing a work.
 >>> 
+>>> A *rational* story is one where the people and their motivations are realistic, their actions are plausible responses to the situations that they are placed in, given their motivations and intelligence, and the consequences of their actions are foreseeable given enough consideration (unless some twist is withheld, in which case, they still make sense in hindsight).
+>>> 
+>>> As for a *rationalist* story, I would say that it is a story where the characters are shown to solve problems using rationalist skills, and the use of those skills is displayed in enough detail that someone who is unfamiliar with a particular skill could pick up the basics of that skill without reference to outside works, given the motivation to do so.
+>>> 
+>>> The difference between this and the definition/test in the OP is that my definition describes *the text* (the characters, their actions, and how those actions are described to the reader) and the OP describes the *reader's reaction* to the text.  As people react differently when they read the same text (and even the same person can react differently to a text upon a second reading), using *reaction* seems like a less-than-useful way of categorizing a work.
 
->>>> **u/Ms_CIA** [+5]  *Derp**
+>>>> **u/Ms_CIA** [+7]  *Derp* (8 hours later)
 >>>> 
 >>>> I like this definition of rational fiction, thanks for sharing it. It sounds quite a bit like what I would call good character development. :)
->>>> I've noticed the current trend in rational fiction seems to be promoting stories with high IQ characters as the MC (the techy, sciency sort of smart). Strictly speaking, though, that's not required to tell a rational story. It would be fun to read fics with more diverse main characters, I suspect it would lead to some interesting plot ideas.
 >>>> 
+>>>> I've noticed the current trend in rational fiction seems to be promoting stories with high IQ characters as the MC (the techy, sciency sort of smart). Strictly speaking, though, that's not required to tell a rational story. It would be fun to read fics with more diverse main characters, I suspect it would lead to some interesting plot ideas.
 
-> **u/CouteauBleu** [+10]  *We are the Empire.**
+> **u/CouteauBleu** [+11]  *We are the Empire.* (15 hours later)
 > 
 > To me, rational fic was always less about "learning" how to have these thought process and more about "representation"; I like rational fiction because it often has characters tackle problems the same way I do; so I empathize with the character more, which makes me like the story.
-> 
 
-> **u/DuplexFields** [+8]  *New Lunar Republic**
+> **u/DuplexFields** [+9]  *New Lunar Republic* (2 days later)
 > 
 > By these criteria, Bill and Ted's Excellent Adventure counts as rational fiction. [I'll let qntm explain](https://qntm.org/excellent):
-> > And just look how well the whole concept is explained. By virtue of being dunces - and not just one dunce, two dunces who are able to talk to one another - the characters are able to communicate fairly complex concepts in relatively simple language, while simultaneously communicating the same to the viewers. At one end of this spectrum is a film like Primer where the characters are superintelligent and never slow down for anybody's benefit, the viewer's or each other's. Meanwhile at the other end, Bill and Ted lay it out in simple terms which anybody can understand. It's masterful. What's happening here is education.
-> > You're locked in a cell. You decide to summon the door key into existence, through deliberate focus. You devote some energy to cause the key-shaped loop to form ahead of you in time, where you can reach out and take it. This far more satisfying than dumb luck. It means you, Bill and Ted, have agency, and are using your resources and recently acquired knowledge to your advantage. It demonstrates that you are learning.
-> > Admittedly, in this first example, the idea of key theft does seem to loop on itself, inspiring Bill with his idea. Similar objections can be levelled at the tape recording stunt and the fax machine trick - the ideas to make the tape recording and send the fax obviously come from hearing the tape recording and receiving the fax respectively. But by the time Ted is closing his eyes and saying to himself, "Trash can, remember a trash can!" the process is complete and the characters are clearly able to pull causal loops out of the air at will. They've acquired a kind of superpower. They've transcended time travel.
-> My goal for any rational fiction I may ever write will be to have at least one moment at least this clever yet simple.
 > 
+> > And just look how well the whole concept is explained. By virtue of being dunces - and not just one dunce, two dunces who are able to talk to one another - the characters are able to communicate fairly complex concepts in relatively simple language, while simultaneously communicating the same to the viewers. At one end of this spectrum is a film like Primer where the characters are superintelligent and never slow down for anybody's benefit, the viewer's or each other's. Meanwhile at the other end, Bill and Ted lay it out in simple terms which anybody can understand. It's masterful. What's happening here is education.
+> 
+> > You're locked in a cell. You decide to summon the door key into existence, through deliberate focus. You devote some energy to cause the key-shaped loop to form ahead of you in time, where you can reach out and take it. This far more satisfying than dumb luck. It means you, Bill and Ted, have agency, and are using your resources and recently acquired knowledge to your advantage. It demonstrates that you are learning.
+> 
+> > Admittedly, in this first example, the idea of key theft does seem to loop on itself, inspiring Bill with his idea. Similar objections can be levelled at the tape recording stunt and the fax machine trick - the ideas to make the tape recording and send the fax obviously come from hearing the tape recording and receiving the fax respectively. But by the time Ted is closing his eyes and saying to himself, "Trash can, remember a trash can!" the process is complete and the characters are clearly able to pull causal loops out of the air at will. They've acquired a kind of superpower. They've transcended time travel.
+> 
+> My goal for any rational fiction I may ever write will be to have at least one moment at least this clever yet simple.
 
-> **u/Asviloka** [+6] *
+> **u/Asviloka** [+5]  (an hour later)
 > 
 > Thank you. This was interesting to read.
-> 
 
-> **u/MadVaughn** [+9] *
+> **u/MadVaughn** [+9]  (3 hours later)
 > 
 > Two essays in one day? You prolific son of a gun.
-> I've enjoyed both of these thoroughly, and I'm here to say that your previous essay on TWA/HPMOR and meteor strikes is the thing that got me to take fiction seriously as a tool for learning and growth. So thanks for the assist, and I'm looking forward to future work :)
 > 
+> I've enjoyed both of these thoroughly, and I'm here to say that your previous essay on TWA/HPMOR and meteor strikes is the thing that got me to take fiction seriously as a tool for learning and growth. So thanks for the assist, and I'm looking forward to future work :)
 
-> **u/megazver** [+9] *
+> **u/megazver** [+8]  (19 hours later)
 > 
 > > This line is in the story just because Naruto actually wants to know if the die is weighted and this is how you do it.
-> You need to roll a weighted die at least a few hundred times to even begin to see a reliable trend and it still can just be coincidence. It's very much not 'how you do it', especially in a time crunch. [Here's how you actually test a die for balance](https://www.youtube.com/watch?v=_HhFz7fsFKk).
 > 
+> You need to roll a weighted die at least a few hundred times to even begin to see a reliable trend and it still can just be coincidence. It's very much not 'how you do it', especially in a time crunch. [Here's how you actually test a die for balance](https://www.youtube.com/watch?v=_HhFz7fsFKk).
 
->> **u/timecubefanfiction** [+11] *
+>> **u/timecubefanfiction** [+10]  (21 hours later)
 >> 
 >> I thought about this as well, even if Naruto is rolling the die really fast it doesn't seem like he has time to get more than 20-30 rolls in before he pelts it at Kakashi. This isn't actually too far from how many rolls he needs but he doesn't know enough math to know that.
->> It might have been interesting if Naruto had noticed he doesn't have enough rolls, or if he had some idea that he *might* have enough rolls *if he knew what to do with the data*. There's one or two scenes later in the story, including a die-rolling one, where he does think something like "I bet there's a way to solve this but I don't know the math and can't figure it out right now." Then he could have thought, "Okay, the rolling isn't working, is there some way I can test the weight of the die by testing its *weight*?" Then he could have tried balancing it on his knife or something.
->> On the other hand, I also like the idea that even if you don't know much math and even when you can't think of an elegant test, you can still just pick the dumbest, most obvious route and start plugging away at running trials and gathering data. There's a lesson there: *aim for the data and do the work*. And don't feel too bad when someone comes along later and shows you how much easier it would have been if you'd taken statistics in school instead of knife-throwing.
 >> 
+>> It might have been interesting if Naruto had noticed he doesn't have enough rolls, or if he had some idea that he *might* have enough rolls *if he knew what to do with the data*. There's one or two scenes later in the story, including a die-rolling one, where he does think something like "I bet there's a way to solve this but I don't know the math and can't figure it out right now." Then he could have thought, "Okay, the rolling isn't working, is there some way I can test the weight of the die by testing its *weight*?" Then he could have tried balancing it on his knife or something.
+>> 
+>> On the other hand, I also like the idea that even if you don't know much math and even when you can't think of an elegant test, you can still just pick the dumbest, most obvious route and start plugging away at running trials and gathering data. There's a lesson there: *aim for the data and do the work*. And don't feel too bad when someone comes along later and shows you how much easier it would have been if you'd taken statistics in school instead of knife-throwing.
 
->> **u/xartab** [+1] *
+>> **u/xartab** [+1]  (2 years later)
 >> 
 >> You might be thinking about die bias, rather than a weighted die. A biased die will have a slight tendency towards rolling a certain way, while a weighted die will almost always roll the way the cheater intended.
->> 
 
-> **u/Anderkent** [+3] *
+> **u/Anderkent** [+3]  (2 days later)
 > 
 > Disclaimer: I didn't really like The Waves Arisen and didn't find it a rational story. Perhaps something about the writing turned me off, in any case I accept I'm biased.
-> This is arguing more for rationalist fiction than rational, I guess - you're talking about how the main character is displaying virtues of rationality, rather than the setting / story making sense.
-> >He employs quite a simple method of performing tests, writing down observations, and using those observations as a springboard for devising new tests. Simple math lets him take general ideas and turn them into specific hypotheses fit for implementation in areas where small differences in outcomes really matter, such as life-or-death battle
-> This is in fact the part of the story that bothers me. It's a pure nerd wish fulfillment power fantasy, dressed with meaningless numbers. We're shown some very stretched reasoning, which is then taken for granted, and proves to somehow preemptively solve any problems Naruto might have. It's all a bit too much.
 > 
+> This is arguing more for rationalist fiction than rational, I guess - you're talking about how the main character is displaying virtues of rationality, rather than the setting / story making sense.
+> 
+> >He employs quite a simple method of performing tests, writing down observations, and using those observations as a springboard for devising new tests. Simple math lets him take general ideas and turn them into specific hypotheses fit for implementation in areas where small differences in outcomes really matter, such as life-or-death battle
+> 
+> This is in fact the part of the story that bothers me. It's a pure nerd wish fulfillment power fantasy, dressed with meaningless numbers. We're shown some very stretched reasoning, which is then taken for granted, and proves to somehow preemptively solve any problems Naruto might have. It's all a bit too much.
 
-> **u/Pacific_Rimming** [+2] *
+> **u/Pacific_Rimming** [+2]  (15 hours later)
 > 
 > I read through most of this but skipped through the longer story quotes because you actually got me interested in reading this story! Thank you so much for the rec.
-> 
 
-> **u/Scilark** [+1] *
+> **u/Scilark** [+1]  (13 hours later)
 > 
 > This sounds great. Do you need to have seen Naruto to understand what's going on?
-> 
 
->> **u/None** [+8] *
+>> **u/None** [+8]  (15 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/Scilark** [+1] *
+>>> **u/Scilark** [+1]  (17 hours later)
 >>> 
 >>> Thank you - this is helpful!
->>> 
 
-> **u/MilesSand** [+1] *
+> **u/MilesSand** [+1]  (3 days later)
 > 
 > In cooking shows you get a detailed set of opinions from experts in their field, in fiction you get detailed descriptions from people who are usually not qualified to speak on any given subject except, on rare occasions, literature.   Still better than believing most major news networks I guess but it sounds like the metric points to college textbooks as the only form of rational fiction.
-> 
 
-> **u/DraggonZ** [+1] *
+> **u/DraggonZ** [+1]  (a day later)
 > 
 > Do you need to watch Naruto first to read "The waves arisen"? I don't know much besides reading a few dozen of Naruto self-insert fanfiction and watching a few youtube videos.
-> 
 
 ---
 

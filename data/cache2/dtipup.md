@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/The_Wadapan** [+1]  *ice to meet ya**
+> **u/The_Wadapan** [+1]  *ice to meet ya* (2 hours later)
 > 
 > ngl fam I think you just posted cringe
-> 
 
 ---
 

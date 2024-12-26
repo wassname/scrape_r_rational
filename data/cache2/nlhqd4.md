@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/nlhqd4/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 6
+* Score: 7
 
 * Created: 2021-05-26T14:00:18
 
@@ -24,63 +24,76 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/alexanderwales** [+8]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (4 hours later)
 > 
 > One of the big problems with a multiverse, at least from a writing perspective, is that you wouldn't expect it to be Earth 1 and Earth 2 entering into negotiations or relations with each other, at least not if they had more than a single portal or trading spot that was well within a single powerful country's borders. The organizational level for governments, at least on this Earth, isn't on the world level, it's on the nation-state level, and why wouldn't that continue if there was more than one world?
-> From a writing perspective, this makes things a lot more difficult, because everything gets a lot more complicated, even if you're dealing with only two Earths. The United States 1 has relations with United States 2 *and also* all the nations of its own Earth *and also* all the nations of the other Earth. By adding a second Earth, you've exponentially increased the number of relationships between nations you, as an author, have to deal with.
-> I've tried sketching out multiverse stories a bit in the past, and what really draws me to them is that level of complexity. Limiting the scope to a single person or handful of people who can move between Earths is, therefore, not really what I want to do, even if that's the obvious solution.
-> At some level, full interface between all these nations would just be impossible, so some higher level of cooperation or organization would need to happen, at least if you started adding in more Earths with their own nations. In Jet Li's *The One*, there are ~125 Earths, and at that point, you'd need an entire army of ambassadors, lawyers, etc. to handle them all, more than most nations would be equipped to deal with or track. Clumping up, either by having rating or advisory agencies, or by nations entering into unions or clusters with each other, seems like it would be natural.
-> It's a thorny problem though, and I'm looking for, possibly, some insight or advice on how best to do it, with a view to writing a story that's at least a little bit about interuniversal relationships, intrigue, border control, and crunchy stuff like that, hopefully without needing a thirty page exposition dump that bores readers to tears, and hopefully without driving myself down an unending research or worldbuilding hole.
 > 
+> From a writing perspective, this makes things a lot more difficult, because everything gets a lot more complicated, even if you're dealing with only two Earths. The United States 1 has relations with United States 2 *and also* all the nations of its own Earth *and also* all the nations of the other Earth. By adding a second Earth, you've exponentially increased the number of relationships between nations you, as an author, have to deal with.
+> 
+> I've tried sketching out multiverse stories a bit in the past, and what really draws me to them is that level of complexity. Limiting the scope to a single person or handful of people who can move between Earths is, therefore, not really what I want to do, even if that's the obvious solution.
+> 
+> At some level, full interface between all these nations would just be impossible, so some higher level of cooperation or organization would need to happen, at least if you started adding in more Earths with their own nations. In Jet Li's *The One*, there are ~125 Earths, and at that point, you'd need an entire army of ambassadors, lawyers, etc. to handle them all, more than most nations would be equipped to deal with or track. Clumping up, either by having rating or advisory agencies, or by nations entering into unions or clusters with each other, seems like it would be natural.
+> 
+> It's a thorny problem though, and I'm looking for, possibly, some insight or advice on how best to do it, with a view to writing a story that's at least a little bit about interuniversal relationships, intrigue, border control, and crunchy stuff like that, hopefully without needing a thirty page exposition dump that bores readers to tears, and hopefully without driving myself down an unending research or worldbuilding hole.
 
->> **u/ElectorEios** [+5] *
+>> **u/ElectorEios** [+5]  (5 hours later)
 >> 
 >> I feel like it depends on how accessible inter-world communication is. In Gate (LN/manga/anime), only Japan has access to the portal, at least initially. It gives them quite the negotiation advantage versus their peers in their own world, and allows for smaller scale diplomacy (e.g. other countries deal only through Japan, and thus lack direct diplomatic connections with the other world). It also raises the interesting question regarding how the rest of the world would tolerate such a monopoly, and whether sanctions would be levvied against her (possibly pointless if the otherworldly connections are strong enough for Japan to stand alone) or if she'd even be declared war upon.
->> Is it even obvious that people would cluster/ally with other countries in the same dimension? If portals are plentiful, I would expect America #1 to join with America #2 rather than with China #1. Assuming they really are parallel univerises, the Americas would have much more in common with each other. Depending on how well they mesh, it  could even be possible for a union of Americas #1-99 to attempt to conquer the multiverse one dimension at a time; multiverse portals would certainly facilitate a mutual pooling of resources literally orders of times greater than we can in the real world. Even a mere 1% of such a coalitions GDP could accomplish huge things, if put to some common cause.
 >> 
+>> Is it even obvious that people would cluster/ally with other countries in the same dimension? If portals are plentiful, I would expect America #1 to join with America #2 rather than with China #1. Assuming they really are parallel univerises, the Americas would have much more in common with each other. Depending on how well they mesh, it  could even be possible for a union of Americas #1-99 to attempt to conquer the multiverse one dimension at a time; multiverse portals would certainly facilitate a mutual pooling of resources literally orders of times greater than we can in the real world. Even a mere 1% of such a coalitions GDP could accomplish huge things, if put to some common cause.
 
->> **u/ArmokGoB** [+3] *
+>> **u/ArmokGoB** [+3]  (5 hours later)
 >> 
 >> Well, considering it's alternate universes... what about the answer being "All of them"? Each earth has its own different concept of what a nation state is, and how to group others. There's some very rare earths that in response to an outside larger context managed to unite, or at least group for the purpose of cross universe coordination, and are dealt with as just "Earth 1" etc. There are some that are just utter chaos and insist to try to do it the naive way with armies of diplomats. There's a group of ~20 earths that diverged after these alternates were known of, and the governments managed to not split so there's a single "United states" with a single president but 20 copies of each territory and person, acros them, and each country has it's own entity like that. There's that one empire that started as a single nation on a single earth, conquered territory on a few other earths, used the resources from that to conquer the rest of it's own earth, and by now controls several other earths. There are some earths that try to limit multiverse interaction, and lump all organizations on all other earths together into a single entity equivalent to a single nation state on that one earth. There are anarchist earths where the concept of a nation state was never invented. There are earths that diverged so long ago that none of their nationstates correspond in any way to any found on any other earth. There are earths that had no humans when contact was established, and a hundred thousand different organizations from all kind of different earths are opening their own portal to it and trying to lay claim to it and it's biodiversity resources. Some group up in big loose alliances, like the EU, acros multiple world but still considered distinct states. Some treat other earths as if they were simulations, only there to steal intellectual property from. etc.
->> 
 
->> **u/netstack_** [+3] *
+>> **u/netstack_** [+3]  (6 hours later)
 >> 
 >> Take #1: porous borders, single source of population. This is the Stephen Baxter (+terry pratchett?) Long Earth series. Physical boundaries are easily bypassed by shifting a few Earths over and walking around there. People rarely bother to go very far out because they are spreading out from Earth. It’s frontier, and there’s not much reason to keep going. I could envision the this turning into a more sparsely settles, feudal or corporate hierarchy hundreds of years down the line, where your Earth-1 counterpart is much less important to you than your other Earth-N and N+-1 counterparts who bother to come over. This allows for long chains of relations where no one polity has to track many relationships (unless they’re very close to the home earth).
->> Idea #2: Porous borders between separately developed Earths. I suspect nations would change radically in this scenario. The implied high mobility makes this very different from our real world age of colonization since you can just pop back to the home islands or wherever when you get bored. Seems incredibly chaotic to write—perhaps it would work as an episodic setting? In *Rick and Morty* or *Doctor Who,* the staggering complexity of the cosmos gets visited in tiny slices (usually). You get callbacks and old enemies but also get to duck in to a separate polity, and they’re always populated by a bunch of different aliens and governments.
->> Idea #3: contact choke point. Either one nation got portals first and snowballed into one-world domination, or a corporation restricts it, or it requires government-scale energy expenditure. Then it’s reasonable to have a chilling effect on how much contact is done. This might be analogous to hard sci fi with slow space travel like an actual light speed limit. Getting to another earth requires navigating a buraeuacracy and paying the right fees, so less people bother making one hop, let alone worrying about what their neighbor’s neighbor’s neighbor is doing. I think sufficient expense or restriction of access would get the most Real World scenario. Most countries in our Earth don’t have a consulate in every other nation, do they? They talk to their neighbors and their historical rivals and the local superpower. I could see something similar for a multiverse.
 >> 
+>> Idea #2: Porous borders between separately developed Earths. I suspect nations would change radically in this scenario. The implied high mobility makes this very different from our real world age of colonization since you can just pop back to the home islands or wherever when you get bored. Seems incredibly chaotic to write—perhaps it would work as an episodic setting? In *Rick and Morty* or *Doctor Who,* the staggering complexity of the cosmos gets visited in tiny slices (usually). You get callbacks and old enemies but also get to duck in to a separate polity, and they’re always populated by a bunch of different aliens and governments.
+>> 
+>> Idea #3: contact choke point. Either one nation got portals first and snowballed into one-world domination, or a corporation restricts it, or it requires government-scale energy expenditure. Then it’s reasonable to have a chilling effect on how much contact is done. This might be analogous to hard sci fi with slow space travel like an actual light speed limit. Getting to another earth requires navigating a buraeuacracy and paying the right fees, so less people bother making one hop, let alone worrying about what their neighbor’s neighbor’s neighbor is doing. I think sufficient expense or restriction of access would get the most Real World scenario. Most countries in our Earth don’t have a consulate in every other nation, do they? They talk to their neighbors and their historical rivals and the local superpower. I could see something similar for a multiverse.
 
->> **u/CCC_037** [+3] *
+>> **u/CCC_037** [+3]  (15 hours later)
 >> 
 >> What *does* Lesotho think of Liberia? Do they have any diplomatic relations? Does it *matter* to the day-to-day lives of people in Egypt?
->> And those are all on the same continent.
->> --------------
->> I suspect that most inter-universal international dialogue will be at a kind of long distance - especially at first. If the universes are *close*, then Egypt #1 is not going to have much trade (at least at first) with Egypt #2, simply because they have the same surpluses and needs. In fact, they might wind up very quickly in fierce *competition* with each other, trying to steal away each other's trading partners.
->> America #1 might decide that it likes England #2, where Candidate X won the election, a lot more than England #1, where Candidate Y won; and they might start... *nudging* things in the direction of Candidate X winning the next election.
->> --------------
->> It also strikes me that if there are *enough* parallel worlds, then there may well be a world where the Monster Raving Loony Party won an election in England...
 >> 
+>> And those are all on the same continent.
+>> 
+>> --------------
+>> 
+>> I suspect that most inter-universal international dialogue will be at a kind of long distance - especially at first. If the universes are *close*, then Egypt #1 is not going to have much trade (at least at first) with Egypt #2, simply because they have the same surpluses and needs. In fact, they might wind up very quickly in fierce *competition* with each other, trying to steal away each other's trading partners.
+>> 
+>> America #1 might decide that it likes England #2, where Candidate X won the election, a lot more than England #1, where Candidate Y won; and they might start... *nudging* things in the direction of Candidate X winning the next election.
+>> 
+>> --------------
+>> 
+>> It also strikes me that if there are *enough* parallel worlds, then there may well be a world where the Monster Raving Loony Party won an election in England...
 
->> **u/ulyssessword** [+2] *
+>> **u/ulyssessword** [+2]  (12 hours later)
 >> 
 >> It seems like we would run into problems with the ~200 countries that exist IRL, but *most* of the ~40000 pairwise relationships between countries can be safely ignored, as nobody cares what Somalia thinks of Trinidad and Tobago or what Vietnam thinks of Chile.
->> ---
->> It also depends on the exact physics of your multiverse.  A multiversal portal that's unique creates different effects than a multiversal portal that's as expensive as an airport, which creates different effects than one that's as difficult as snapping your fingers.
 >> 
+>> ---
+>> 
+>> It also depends on the exact physics of your multiverse.  A multiversal portal that's unique creates different effects than a multiversal portal that's as expensive as an airport, which creates different effects than one that's as difficult as snapping your fingers.
 
->> **u/gryfft** [+1] *
+>> **u/gryfft** [+1]  (16 hours later)
 >> 
 >> I think an interesting way of dealing with the porosity problem would be introducing a (possibly externalizable) negative consequence for the use of portals. E.g., perhaps there is a very low (but non-zero) chance of a Destabilization Event every time a portal is used. More portals means a correspondingly linear increase in chance of a DE, and the damage caused by the DE scales geometrically with the size of the collapsed portal.
->> This means that countries willing to take bigger risks get bigger rewards and get ahead in the interuniversal marketplace, but also either the populace pays for the costs of the destruction, or else that cost is externalized somehow (e.g. governments paying (or invading) third world nations for real estate which will all eventually become unusable and uninhabitable as DEZs stack up.) If portal locations all line up 1:1, the omnipresent threat of DEs complicates the real estate issue further, because the resulting DEZ will take real estate off the board on both Earths.
->> What I'd naively expect to see evolve from this is a centralized governing entity made up of those nation-states and corporations who found the most convenient ways to externalize the costs of DEs to move resources around better than their competitors. 
->> Also the Internet, after some panicking to resolve address and namespace collisions, should settle back down to being the Internet again, and the Internet should just be one functional interuniversal internet. As long as there are valid routes advertised, one should be able to access google.com.earth1, google.com.earth29, etc.
 >> 
+>> This means that countries willing to take bigger risks get bigger rewards and get ahead in the interuniversal marketplace, but also either the populace pays for the costs of the destruction, or else that cost is externalized somehow (e.g. governments paying (or invading) third world nations for real estate which will all eventually become unusable and uninhabitable as DEZs stack up.) If portal locations all line up 1:1, the omnipresent threat of DEs complicates the real estate issue further, because the resulting DEZ will take real estate off the board on both Earths.
+>> 
+>> What I'd naively expect to see evolve from this is a centralized governing entity made up of those nation-states and corporations who found the most convenient ways to externalize the costs of DEs to move resources around better than their competitors. 
+>> 
+>> Also the Internet, after some panicking to resolve address and namespace collisions, should settle back down to being the Internet again, and the Internet should just be one functional interuniversal internet. As long as there are valid routes advertised, one should be able to access google.com.earth1, google.com.earth29, etc.
 
->> **u/jtolmar** [+1] *
+>> **u/jtolmar** [+1]  (17 hours later)
 >> 
 >> I think it'd work to think through the different ways that a group of multiversal nations can interact, select all the ones that are distinct enough to be interesting (being more picky the less the story as a whole is about this), then back-fit the nations mentioned in the story to be enough to cover every relationship you selected. It doesn't really matter how many multiverses/nations are in the setting as a whole, since a story is only going to be able to cover the ones you found interesting. And the conveying a sense of complexity to the reader is going to rely on how structurally distinct the situations you describe are, more than how many total moving parts there are.
+>> 
 >> Going through all the axes I can think of that this would vary by:
+>> 
 >> * Under the realist model of international relations, states are normally under a state of international anarchy, except in some cases where there's a single hegemonic power (the US recently), or two (the US versus the USSR). What model describes the current state for this subset of nations? Is the nation the hegemon or along for the ride?
 >> * Is this nation weak or strong relative to its neighbors and rivals?
 >> * Is the relationship in question between two neighboring nations on the same Earth, two of the same nation on parallel Earths, a nation and the parallel of one that it also has a relationship with, or a parallel nation where its same-Earth counterpart is irrelevant? For the parallel ones, are these different from their counterparts?
@@ -88,47 +101,44 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 >> * Nations may band together to form trade organizations and other intergovernmental organizations. Are they on the same Earth, different, between redundant copies of the same nation on parallel earths?
 >> * Does the nation in question actually go along with the international community's plans?
 >> * Nations aren't actually real things that make decisions, they borrow the decision-making of the people with power within the nation. Are the nation's internal power structures actually in alignment on the issue in question? It's plausible for any of formal government, ceremonial government, the actual bureaucrats who make up the government, the police, the military, trade organizations, unions, powerful companies or industries, whoever controls the media, political parties, and religious organizations, to end up running contrary to one another.
->> There's about 5000 permutations of the above questions without digging into the really picky ones.
->> And finally, a situation as complex as multiversal politics is going to be beyond any person or organization's ability to keep track of. There's always room for a radical upheaval because of something that happened between two nations you've never thought about before. So I'd recommend pulling that, at least once.
 >> 
+>> There's about 5000 permutations of the above questions without digging into the really picky ones.
+>> 
+>> And finally, a situation as complex as multiversal politics is going to be beyond any person or organization's ability to keep track of. There's always room for a radical upheaval because of something that happened between two nations you've never thought about before. So I'd recommend pulling that, at least once.
 
-> **u/PastafarianGames** [+2] *
+> **u/PastafarianGames** [+2]  (4 hours later)
 > 
 > The thing I'm writing backstory for (aka The Thing I'll Probably Never Actually Write) involves, at one point, the main character getting transported to a San Francisco that has never had human habitation. (Also, it's an Earth without global warming.)
-> Does anyone know of good sources for what the greater SF Bay Area would look like in that kind of scenario? I'm a lay person but vaguely able to follow the more technical ecological models by virtue of scientists in the family, but I prefer not to unless needed.
 > 
+> Does anyone know of good sources for what the greater SF Bay Area would look like in that kind of scenario? I'm a lay person but vaguely able to follow the more technical ecological models by virtue of scientists in the family, but I prefer not to unless needed.
 
->> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (5 hours later)
 >> 
 >> [*A State of Change: Forgotten Landscapes of California*](https://www.amazon.com/State-Change-Forgotten-Landscapes-California/dp/1597143065) seems like exactly what you're looking for. It's unfortunately out of print, with used copies being unreasonably expensive, but there's a chance you could track down a copy at a library, or perhaps e-mail the author.
->> 
 
->>> **u/PastafarianGames** [+2] *
+>>> **u/PastafarianGames** [+2]  (6 hours later)
 >>> 
 >>> Ooh this looks fantastic. I'll try the libraries first. Thank you!
->>> 
 
->>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (6 hours later)
 >>>> 
 >>>> Also, [here](https://www.youtube.com/watch?v=T85mwy9F1RQ) is an hour-long talk by the author about the same subject, which probably covers some of the same ground.
->>>> 
 
->> **u/TheTrickFantasic** [+2] *
+>> **u/TheTrickFantasic** [+2]  (6 hours later)
 >> 
 >> I would also recommend [The World Without Us](https://en.wikipedia.org/wiki/The_World_Without_Us), or at least a look into the distribution of Pleistocene fauna in North America.  A world where San Francisco has never had human habitation is most likely a world where North America was never colonized by Europeans or Palaeo-Americans, which has huge implications for the survival of Ice Age megafauna.
->> 
 
->>> **u/PastafarianGames** [+1] *
+>>> **u/PastafarianGames** [+1]  (6 hours later)
 >>> 
 >>> Any particular reason you recommend this book? It seems like it's more about how each piece of human civilization / infrastructure would deteriorate and revert back to nature, and less about what things would look like without human habitation in the first place.
->>> (Pleistocene fauna distribution is a great tip though. Thanks!)
 >>> 
+>>> (Pleistocene fauna distribution is a great tip though. Thanks!)
 
->>>> **u/TheTrickFantasic** [+2] *
+>>>> **u/TheTrickFantasic** [+2]  (a day later)
 >>>> 
 >>>> As a whole, it is (which, if you ask me, is fascinating unto itself).  But early on, it has one excellent stand-alone chapter that discusses how the arrival of *Homo sapiens* affected North America.
->>>> Spoiler alert:  Without humans to drive them extinct, North America has more species of megafauna than *Africa*.
 >>>> 
+>>>> Spoiler alert:  Without humans to drive them extinct, North America has more species of megafauna than *Africa*.
 
 ---
 

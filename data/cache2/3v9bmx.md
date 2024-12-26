@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/3v9bmx/adding_more_works_to_rational_reads/
-* Score: 19
+* Score: 22
 
 * Created: 2015-12-03T08:25:23
 
@@ -18,21 +18,19 @@ Thanks!
 
 ### Comments:
 
-> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate* (11 hours later)
 > 
 > Sure, I'll take any excuse to plug my story.
-> 
 
-> **u/neshalchanderman** [+3] *
+> **u/neshalchanderman** [+3]  (7 hours later)
 > 
 > There should be a best of 2015 list on the site. Good entrypoint for people new to rat/rat fics.
-> Would compliment the all-time rankings.
 > 
+> Would compliment the all-time rankings.
 
-> **u/qznc** [+2]  *Chaos Legion**
+> **u/qznc** [+2]  *Chaos Legion* (13 hours later)
 > 
 > Add all the (Bi)Weekly Challenge stories?
-> 
 
 ---
 

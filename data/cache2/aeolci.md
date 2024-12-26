@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/aeolci/meta_best_of_rrational_results_for_2018/
-* Score: 47
+* Score: 53
 
 * Created: 2019-01-10T22:48:32
 
@@ -43,26 +43,23 @@ Thanks to everyone who participated in nominations, and of course, thanks to eve
 
 ### Comments:
 
-> **u/CCC_037** [+13] *
+> **u/CCC_037** [+13]  (2 hours later)
 > 
 > [](/ajblush) I'm... surprised and gratified.
-> Is this where one is traditionally supposed to thank an implausibly long list of people and animals, seventeen percent of them being invented out of whole cloth?
 > 
+> Is this where one is traditionally supposed to thank an implausibly long list of people and animals, seventeen percent of them being invented out of whole cloth?
 
-> **u/Makin-** [+8]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+8]  *homestuck ratfic, you can do it* (11 minutes later)
 > 
 > I hope next year there's more people nominating stuff. Be sure to use your "save" options whenever you see a cool post on /r/rational! I know I had trouble remembering cool stuff, but I still managed to win [some](https://i.imgur.com/nHinCPf.png) platinum.
-> 
 
-> **u/JohnKeel** [+4] *
+> **u/JohnKeel** [+4]  (3 minutes later)
 > 
 > If you include ?context=10 at the end of a comment URL you get the preceding 10 posts (or other number) in the chain. It helps a lot with readability.
-> 
 
->> **u/sparr** [+1] *
+>> **u/sparr** [+1]  (7 hours later)
 >> 
 >> It makes Reddit look like Tumblr! :) :/ :(
->> 
 
 ---
 

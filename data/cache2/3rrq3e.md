@@ -15,726 +15,796 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/Kerbal_NASA** [+19] *
+> **u/Kerbal_NASA** [+19]  (3 hours later)
 > 
 > I made a cool thing for Reddit this week! Someone in /r/askhistorians asked why there are so many people named Smith in America. A lot of the answers revolved around their being a lot of people adopting Smith, but I thought a bit of modelling might also provide a bit of explanatory power. So I made a little model that created a population of 100k people and created 100 last names. Each person was assigned a role with a 50% chance each of being a last name giver or taker and also given one of the last names at random (each one being equally probable, resulting in an almost even split of all last names). Then when a generation is born the model randomly pairs givers with takers and each pair gives a pair of offspring (a tiny amount get 3 offspring to make up for the different amount of givers/takers). The offspring get the giver's last name. You can play the web version of the model yourself [here](https://lastnamedistribution.5apps.com/), the colour of the bar represents particular last names (so you can track one over time), the height of the bar is how common it is, and its place in x is its rank (in terms of commonness). After running it for awhile, I got [this distribution](https://i.imgur.com/sosgzc2.png?1) which resembles [this histogram](https://espnfivethirtyeight.files.wordpress.com/2014/11/chalabi-flowers-feature-commonname-2.png?w=610&h=610) from [this article] (https://fivethirtyeight.com/features/whats-the-most-common-name-in-america/). Here's the [source/Github page](https://github.com/kerbalNASA/LastNameDistribution) (its written in Haxe).
-> This makes me think its a plausible partial explanation of what's going on. Of course, there's a lot of factors it doesn't model. For example, certain last names may be correlated with different amounts of offspring each generation, as well as different chances of pairing with other last names. I suspect these factors would amplify the speed at which that distribution forms as well as why certain regions go to more extreme forms of the distribution faster than others (e.g., in Vietnam 40% of people are named Nguyen, IIRC).
 > 
+> This makes me think its a plausible partial explanation of what's going on. Of course, there's a lot of factors it doesn't model. For example, certain last names may be correlated with different amounts of offspring each generation, as well as different chances of pairing with other last names. I suspect these factors would amplify the speed at which that distribution forms as well as why certain regions go to more extreme forms of the distribution faster than others (e.g., in Vietnam 40% of people are named Nguyen, IIRC).
 
-> **u/raymestalez** [+11] *
+> **u/raymestalez** [+11]  (34 minutes later)
 > 
 > Hey, everyone! There's a few things I wanted to talk about:
->  1. There's a lot of threads about munchkining/brainstorming/exploiting hypothetical situations. I love these threads a lot and I wish there was more of them, participating and reading responces is very enjoyable. But I've read several comments about people disliking these threads, saying that there's too many of them and that they don't really fit on /r/rational. So, do you think maybe we should create a weekly thread, or a subreddit for that kind of stuff?
->  2. Several months ago I have [attempted](https://www.reddit.com/r/rational/comments/3foue8/i_have_created_a_chat_room_for_us/) to create a chat for this community. A few people really liked the idea(42 signups in total), but that wasn't enough to sustain conversation, so the experiment failed. The main problem was that the sign up process on slack was difficult, and not everybody liked the platform. I should've discussed that with people here first. So, do you think we should repeat the experiment? What do you think about that idea?
->  3. I have recently created myself a [blog on medium](https://medium.com/@rayalez), so I wanted to share it here. As I'm learning to write, I post my scifi stories over there. They are not "rationalist" - I'm not very good at writing rationalist stories yet - but I still think they are pretty fun, people seem to like them, so come check them out =)
->  4. What do you, as writers and readers, think about Medium? I have been very fascinated with this platform recently, it seems pretty cool, and I would really love to hear your thoughts about it. Do you like it? What do you think they are doing right(or wrong)? Do you have a blog over there?
->  5. I am listening to "Harmontown" - amazing and hilarious podcast made by Dan Harmon, a genius creator of TV shows "Community" and "Rick and Morty". If you are into that stuff - you sould check it out. You can begin by watching "Harmontown" movie. It doesn't have anything in common with rational fiction, except that it's clever, I love it passionately, and I believe that you will enjoy it.
 > 
+>  1. There's a lot of threads about munchkining/brainstorming/exploiting hypothetical situations. I love these threads a lot and I wish there was more of them, participating and reading responces is very enjoyable. But I've read several comments about people disliking these threads, saying that there's too many of them and that they don't really fit on /r/rational. So, do you think maybe we should create a weekly thread, or a subreddit for that kind of stuff?
+> 
+>  2. Several months ago I have [attempted](https://www.reddit.com/r/rational/comments/3foue8/i_have_created_a_chat_room_for_us/) to create a chat for this community. A few people really liked the idea(42 signups in total), but that wasn't enough to sustain conversation, so the experiment failed. The main problem was that the sign up process on slack was difficult, and not everybody liked the platform. I should've discussed that with people here first. So, do you think we should repeat the experiment? What do you think about that idea?
+> 
+>  3. I have recently created myself a [blog on medium](https://medium.com/@rayalez), so I wanted to share it here. As I'm learning to write, I post my scifi stories over there. They are not "rationalist" - I'm not very good at writing rationalist stories yet - but I still think they are pretty fun, people seem to like them, so come check them out =)
+> 
+>  4. What do you, as writers and readers, think about Medium? I have been very fascinated with this platform recently, it seems pretty cool, and I would really love to hear your thoughts about it. Do you like it? What do you think they are doing right(or wrong)? Do you have a blog over there?
+> 
+>  5. I am listening to "Harmontown" - amazing and hilarious podcast made by Dan Harmon, a genius creator of TV shows "Community" and "Rick and Morty". If you are into that stuff - you sould check it out. You can begin by watching "Harmontown" movie. It doesn't have anything in common with rational fiction, except that it's clever, I love it passionately, and I believe that you will enjoy it.
 
->> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>> **u/alexanderwales** [+9]  *Time flies like an arrow* (3 hours later)
 >> 
 >> > There's a lot of threads about munchkining, brainstorming, or exploiting hypothetical situations. I love these threads a lot and I wish there was more of them, participating and reading responces is very enjoyable. But I've read several comments about people disliking these threads, saying that there's too many of them and that they don't really fit on /r/rational. So, do you think maybe we should create a weekly thread, or a subreddit for that kind of stuff?
->> As one of those people, it's not that I don't think they fit here, it's that a lot of them are low effort. If the prompt is just "you can move backward in time up to five minutes" then you just end up with lots of questions before you can even get to the meat of it. I would like those threads much better if they started with "here's what I came up with in the first five minutes". Worse, someone will just say "rational X?" which is a complete miss for me and usually earns a downvote.
->> (I'm generally against talking too much about works before they're complete, but that's because of my belief that it saps a large amount of the incentive to read/write.)
 >> 
+>> As one of those people, it's not that I don't think they fit here, it's that a lot of them are low effort. If the prompt is just "you can move backward in time up to five minutes" then you just end up with lots of questions before you can even get to the meat of it. I would like those threads much better if they started with "here's what I came up with in the first five minutes". Worse, someone will just say "rational X?" which is a complete miss for me and usually earns a downvote.
+>> 
+>> (I'm generally against talking too much about works before they're complete, but that's because of my belief that it saps a large amount of the incentive to read/write.)
 
->> **u/traverseda** [+6]  *With dread but cautious optimism**
+>> **u/traverseda** [+7]  *With dread but cautious optimism* (2 hours later)
 >> 
 >> > I should've discussed that with people here first. So, do you think we should repeat the experiment? What do you think about that idea?
->> I'd idle an irc channel.
->> >Do you like it? 
->> Too blue-tribe-ey for me, personally.
 >> 
+>> I'd idle an irc channel.
+>> 
+>> >Do you like it? 
+>> 
+>> Too blue-tribe-ey for me, personally.
 
->>> **u/Gilfoyle-** [+1] *
+>>> **u/Gilfoyle-** [+1]  (4 hours later)
 >>> 
 >>> Got a channel setup over at #reddit-rational over on freendode.
->>> 
 
->> **u/None** [+8] *
+>> **u/None** [+4]  (2 hours later)
 >> 
 >> > threads about munchkining/brainstorming/exploiting hypothetical situations
->> Personally I like find these threads hit and miss. Mostly it comes down to how specific they are: I get a better read from "Given setup X, Y, and Z, can anyone think of a way to do W?" than from "Rational X?".
 >> 
+>> Personally I like find these threads hit and miss. Mostly it comes down to how specific they are: I get a better read from "Given setup X, Y, and Z, can anyone think of a way to do W?" than from "Rational X?".
 
-> **u/AmeteurOpinions** [+10]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+10]  *Finally, everyone was working together.* (an hour later)
 > 
 > [Continuing to ask](https://www.reddit.com/r/rational/comments/3pwxo5/d_friday_offtopic_thread/cwa5fvj) [unanswerable questions](https://www.reddit.com/r/rational/comments/3quhyp/d_friday_offtopic_thread/cwimhrl), here's another one: Why are hugely wealthy entities (be they people or corporations) so stagnant, relative to the power their wealth enables? Outliers like Elon Musk or even the Koch brothers are just that, outliers. There are millions of people with the funds to do "newsworthy" things, but I feel like I only ever hear about the same thirty or so people or conglomerates doing anything.
-> This may be a bad example, but consider: In America, Internet Service Providers infamously hate doing anything to improve the lines in comparison to other nations. *Why?* They have nothing to lose and everything to gain by trying to capture bigger future markets than just squatting on the present one. 
-> Hm... a better way to put it is: Why do powerful entities find one utility-generating method that works, then run it into the end of time, instead of trying to get ahead of the curve and thus get richer than the curve?
 > 
+> This may be a bad example, but consider: In America, Internet Service Providers infamously hate doing anything to improve the lines in comparison to other nations. *Why?* They have nothing to lose and everything to gain by trying to capture bigger future markets than just squatting on the present one. 
+> 
+> Hm... a better way to put it is: Why do powerful entities find one utility-generating method that works, then run it into the end of time, instead of trying to get ahead of the curve and thus get richer than the curve?
 
->> **u/None** [+14] *
+>> **u/None** [+12]  (2 hours later)
 >> 
 >> >Why are hugely wealthy entities (be they people or corporations) so stagnant, relative to the power their wealth enables?
->> It really depends how they got the wealth, but let's list out some obvious reasons:
->> * There are upkeep costs to huge amounts of wealth, since there's an extreme scarcity of places to invest gajillions of dollars of capital for very high returns with very low risk.  You or I can say, "woot, a year's salary, let me stick that index funds".  A lifetime's salary can't be invested that same way without being murdered by inflation.
->> * Loss aversion, straight up.
->> * Debt load and other general forms of illiquidity.  Many large-scale fortunes are simply not liquid.  They are often weighed down by repayment obligations with various time-scales.  It's hard to pour everything into fusion-power research when you need to repay bonds next week.
->> * The actual costs of running the business that generates the massive wealth can be, well, very large.  Not so large the capital base can't handle them, but enough that the capital base can't keep the company running *and* put everything into fusion-power research.
->> Those are generic to practically every large enterprise.
->> >This may be a bad example, but consider: In America, Internet Service Providers infamously hate doing anything to improve the lines in comparison to other nations. Why? They have nothing to lose and everything to gain by trying to capture bigger future markets than just squatting on the present one. 
->> Now let's address some structural issues, mostly via plausible speculation that might be totally wrong but fuck it:
->> * Wealth inequality and knowledge inequality go together.  If your average cable-company CEO wanted to invent fusion power, what the fuck would he know about whose research to subsidize or how it all works?  He mostly knows about cable and finance, *if that*.  Worse, an American cable-TV CEO is far less likely to have had a really good technical education than someone in, say, some other country where the best technical universities are state-supported and cheap-or-free.
->> * Short-termism.  Most leaders can't enact policies their job-security can't cover and be confident everything turns out at all, let alone right.  This especially applies in a day and age where job security is very low, even for CEOs and such, so a 20-year program of investment and research is hard to run.
->> * Incentives!  Capitalism gives incentive to generate *profits*, not *value*.  This is why the thing with the ISPs and cable companies: if they've won a monopoly or can rent-seek on something else (land in Manhattan, for instance), they've achieved a local maximum, and their incentive function is going to read anything other than exploiting that local maximum as a "decrease" in net utility.  This becomes a stronger effect when short job tenures are normal, because personal ideology and belief can make less impact when the leader knows he'll be replaced in a few years.
->> * Ignorance!  Most people don't really believe in science, except as "that thing which happens in laboratories and big white coats".  Their knowledge base is so far from the research frontier that they tend not to have any idea how much remains undiscovered.  This lack of knowledge also makes it harder to know where more R&D effort would be helpful.
->> * Disturbing lack of faith!  Again, *most people don't really believe in science*, not the actual scientific method and *certainly* not that *ever-so-outdated* modernist ideology about "better living through science".  In fact, a great many people believe that scientific knowledge *makes things worse*, and that *real* problems are solved by changing people's personal behavior or through "virtue" or through "opening our minds" or through religion or some other nonsense.
->> * They're busy buying politicians!  Hard to buy scientists when you're busy with these other costly public servants who don't add to next year's bottom line.
->> * Lack of connections.  So you want to invent fusion power!  Again: who do you talk to?  If you can find their office via online listings, how do you make an appointment when you're just *some guy* with a lot of money, and *they're* as busy as you are?
->> * Disturbing lack of vision!  [We've raised whole generations of people to whom financial metrics are the only things about the future that can actually vary!](http://thebaffler.com/salvos/of-flying-cars-and-the-declining-rate-of-profit)  Everything else is seen as predetermined and set-in-stone!  Besides, with all of our science fiction being dystopia and disaster, what the fuck would you invest the money in if you even had it?
 >> 
+>> It really depends how they got the wealth, but let's list out some obvious reasons:
+>> 
+>> * There are upkeep costs to huge amounts of wealth, since there's an extreme scarcity of places to invest gajillions of dollars of capital for very high returns with very low risk.  You or I can say, "woot, a year's salary, let me stick that index funds".  A lifetime's salary can't be invested that same way without being murdered by inflation.
+>> 
+>> * Loss aversion, straight up.
+>> 
+>> * Debt load and other general forms of illiquidity.  Many large-scale fortunes are simply not liquid.  They are often weighed down by repayment obligations with various time-scales.  It's hard to pour everything into fusion-power research when you need to repay bonds next week.
+>> 
+>> * The actual costs of running the business that generates the massive wealth can be, well, very large.  Not so large the capital base can't handle them, but enough that the capital base can't keep the company running *and* put everything into fusion-power research.
+>> 
+>> Those are generic to practically every large enterprise.
+>> 
+>> >This may be a bad example, but consider: In America, Internet Service Providers infamously hate doing anything to improve the lines in comparison to other nations. Why? They have nothing to lose and everything to gain by trying to capture bigger future markets than just squatting on the present one. 
+>> 
+>> Now let's address some structural issues, mostly via plausible speculation that might be totally wrong but fuck it:
+>> 
+>> * Wealth inequality and knowledge inequality go together.  If your average cable-company CEO wanted to invent fusion power, what the fuck would he know about whose research to subsidize or how it all works?  He mostly knows about cable and finance, *if that*.  Worse, an American cable-TV CEO is far less likely to have had a really good technical education than someone in, say, some other country where the best technical universities are state-supported and cheap-or-free.
+>> 
+>> * Short-termism.  Most leaders can't enact policies their job-security can't cover and be confident everything turns out at all, let alone right.  This especially applies in a day and age where job security is very low, even for CEOs and such, so a 20-year program of investment and research is hard to run.
+>> 
+>> * Incentives!  Capitalism gives incentive to generate *profits*, not *value*.  This is why the thing with the ISPs and cable companies: if they've won a monopoly or can rent-seek on something else (land in Manhattan, for instance), they've achieved a local maximum, and their incentive function is going to read anything other than exploiting that local maximum as a "decrease" in net utility.  This becomes a stronger effect when short job tenures are normal, because personal ideology and belief can make less impact when the leader knows he'll be replaced in a few years.
+>> 
+>> * Ignorance!  Most people don't really believe in science, except as "that thing which happens in laboratories and big white coats".  Their knowledge base is so far from the research frontier that they tend not to have any idea how much remains undiscovered.  This lack of knowledge also makes it harder to know where more R&D effort would be helpful.
+>> 
+>> * Disturbing lack of faith!  Again, *most people don't really believe in science*, not the actual scientific method and *certainly* not that *ever-so-outdated* modernist ideology about "better living through science".  In fact, a great many people believe that scientific knowledge *makes things worse*, and that *real* problems are solved by changing people's personal behavior or through "virtue" or through "opening our minds" or through religion or some other nonsense.
+>> 
+>> * They're busy buying politicians!  Hard to buy scientists when you're busy with these other costly public servants who don't add to next year's bottom line.
+>> 
+>> * Lack of connections.  So you want to invent fusion power!  Again: who do you talk to?  If you can find their office via online listings, how do you make an appointment when you're just *some guy* with a lot of money, and *they're* as busy as you are?
+>> 
+>> * Disturbing lack of vision!  [We've raised whole generations of people to whom financial metrics are the only things about the future that can actually vary!](http://thebaffler.com/salvos/of-flying-cars-and-the-declining-rate-of-profit)  Everything else is seen as predetermined and set-in-stone!  Besides, with all of our science fiction being dystopia and disaster, what the fuck would you invest the money in if you even had it?
 
->>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (4 hours later)
 >>> 
 >>> Wow, that link has so much insight you ought to give it its own post. Seems to capture a bunch of things I've felt but could not phrase.
->>> 
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+3]  (4 hours later)
 >>>> 
 >>>> The link is economic history done by an anthropologist.  It's interesting, but also gets some important stuff wrong (like forgetting to acknowledge the '70s stagflation as a causative factor in neoliberalism).
->>>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (4 hours later)
 >>>> 
 >>>> Hold me to this with a reply: I hereby commit to writing an essay mirroring Graeber's, to be entitled "Life Extension vs Neoliberalism".
->>>> 
 
->>>>> **u/whywhisperwhy** [+1] *
+>>>>> **u/whywhisperwhy** [+1]  (5 hours later)
 >>>>> 
 >>>>> If you really want to commit to doing it, you may want to set yourself a time limit instead of leaving it open indefinitely?
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (5 hours later)
 >>>>>> 
 >>>>>> I'm already overscheduled this weekend: phone banking tomorrow and consulting on Sunday with the gym tonight.  Then a dentist appointment Monday morning and a nasty early meeting Tuesday morning.
->>>>>> 
 
->>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (6 hours later)
 >>>>> 
 >>>>> RemindMe! 1 month
->>>>> 
 
->>>>>> **u/RemindMeBot** [+1] *
+>>>>>> **u/RemindMeBot** [+1]  (6 hours later)
 >>>>>> 
 >>>>>> Messaging you on [**2015-12-06 21:11:39 UTC**](http://www.wolframalpha.com/input/?i=2015-12-06 21:11:39 UTC To Local Time) to remind you of [**this.**](https://www.reddit.com/r/rational/comments/3rrq3e/d_friday_offtopic_thread/cwr3qea)
+>>>>>> 
 >>>>>> [**CLICK THIS LINK**](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/rational/comments/3rrq3e/d_friday_offtopic_thread/cwr3qea]%0A%0ARemindMe!  1 month) to send a PM to also be reminded and to reduce spam.
+>>>>>> 
 >>>>>> ^(Parent commenter can ) [^(delete this message to hide from others.)](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! cwr3qm0)
+>>>>>> 
 >>>>>> _____
+>>>>>> 
 >>>>>> |[^([FAQs])](http://www.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^([Custom])](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^([Your Reminders])](http://www.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^([Feedback])](http://www.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^([Code])](https://github.com/SIlver--/remindmebot-reddit)
 >>>>>> |-|-|-|-|-|
->>>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (6 hours later)
 >>>>>> 
 >>>>>> RemindMe!  1 week
->>>>>> 
 
->>>>>>> **u/Kishoto** [+1] *
+>>>>>>> **u/Kishoto** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> I think your period messed up the reminder bot? Or you've hidden the resultant message. One of the two.
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (6 days later)
 >>>>>>>> 
 >>>>>>>> RemindMe!  1 day
->>>>>>>> 
 
->>>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>>> **u/Kishoto** [+1]  (7 days later)
 >>>>>>>>> 
 >>>>>>>>> ...did it work? O.o
->>>>>>>>> 
 
->>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> **u/None** [+1]  (7 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I'm going to try to write the damn column tonight.  Meh, it should only be a few thousand words, right?  RIGHT!?
->>>>>>>>>> 
 
->>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (30 days later)
 >>>>> 
 >>>>> >Hold me to this with a reply: I hereby commit to writing an essay mirroring Graeber's, to be entitled "Life Extension vs Neoliberalism".
->>>>> How'd it go?
 >>>>> 
+>>>>> How'd it go?
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (30 days later)
 >>>>>> 
 >>>>>> It's still in progress.  FFFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUU.  Only several hundred words in.
->>>>>> I used to have a real *flair* for sudden rhetoric, too.
 >>>>>> 
+>>>>>> I used to have a real *flair* for sudden rhetoric, too.
 
->>> **u/TaoGaming** [+2]  *No Flair Detected!**
+>>> **u/TaoGaming** [+2]  *No Flair Detected!* (6 hours later)
 >>> 
 >>> A quibble on incentives. Capitalism does typically force you to generate value. (Try selling something that everyone agrees is worthless)  But value is tougo to nail down (see all the fan duel commercials)  But the incentives of the stock market can be notoriously short sighted. Then again elected officials often cannot see past the next election.  
+>>> 
 >>> I would place the blame on the agency problem (managers 
 >>> , including CEOS who have goals differing from owners)
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (11 hours later)
 >>>> 
 >>>> > Capitalism does typically force you to generate value.
->>>> Well, it forces you to *capture* value.
 >>>> 
+>>>> Well, it forces you to *capture* value.
 
->>>>> **u/Iconochasm** [+1] *
+>>>>> **u/Iconochasm** [+1]  (a day later)
 >>>>> 
 >>>>> Please define "capture" and then justify that claim.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> "Capture" as your property, as opposed to, for instance, publicly-funded scientific research in which valuable stuff (knowledge) is placed in the public domain.  The regime of property titles determines how value can be captured and, once captured, moved.
->>>>>> 
 
->>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (2 days later)
 >>>>>> 
 >>>>>> Preventative health care costs a lot less then reacting to problems when people finally bite the bullet and rely on their insurance.
->>>>>> Free health care creates a lot more value per dollar then capitalist health care. But it only *creates* that value, there's no mechanism for it to capture the portion it needs to keep running.
 >>>>>> 
+>>>>>> Free health care creates a lot more value per dollar then capitalist health care. But it only *creates* that value, there's no mechanism for it to capture the portion it needs to keep running.
 
->>>>>>> **u/Iconochasm** [+1] *
+>>>>>>> **u/Iconochasm** [+1]  (2 days later)
 >>>>>>> 
 >>>>>>> >Preventative health care costs a lot less then reacting to problems when people finally bite the bullet and rely on their insurance.
->>>>>>> The truth of the claim varies wildly from problem to problem.  On a one-to-one basis, sure, but that requires ignoring all the *other* people you spend preventative costs on with zero generated value.
 >>>>>>> 
+>>>>>>> The truth of the claim varies wildly from problem to problem.  On a one-to-one basis, sure, but that requires ignoring all the *other* people you spend preventative costs on with zero generated value.
 
->>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (2 days later)
 >>>>>>>> 
 >>>>>>>> We don't care about the case by case, just the aggregate. The net utility.
->>>>>>>> 
 
->>>>>>>>> **u/Iconochasm** [+1] *
+>>>>>>>>> **u/Iconochasm** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> You just countered your own claim.  There are plenty of cases where expansive preventative care is a net *loss*.
->>>>>>>>> 
 
->>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Over a large population? Seems unlikely. I admit there are a lot of exacerbating factors, but it looks like countries that fund healthcare publicly spend a lower percentage of their GDP on health care, up to a point at least.
->>>>>>>>>> It's worked really well for canada at least. http://cupe.ca/fact-sheet-public-health-care-costs-less-delivers-more
 >>>>>>>>>> 
+>>>>>>>>>> It's worked really well for canada at least. http://cupe.ca/fact-sheet-public-health-care-costs-less-delivers-more
 
->>>>>>>>>>> **u/Iconochasm** [+1] *
+>>>>>>>>>>> **u/Iconochasm** [+1]  (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> >Over a large population? Seems unlikely.
->>>>>>>>>>> It may be contrary to what you've been told, but it's very much the case.  If the rate of people who will have a medical problem is lower than the cost of the preventative care divided by the cost of the treatment, then it's a net negative.  Why on earth would you assume that all medical issues would fall on one side of that dividing line?  
->>>>>>>>>>> >but it looks like countries that fund healthcare publicly spend a lower percentage of their GDP on health care
->>>>>>>>>>> Now you're moving goalposts.  Cost vs rationing vs quality is an entirely separate issue, to say nothing of the assorted thorny issues involved in comparing different countries.
 >>>>>>>>>>> 
+>>>>>>>>>>> It may be contrary to what you've been told, but it's very much the case.  If the rate of people who will have a medical problem is lower than the cost of the preventative care divided by the cost of the treatment, then it's a net negative.  Why on earth would you assume that all medical issues would fall on one side of that dividing line?  
+>>>>>>>>>>> 
+>>>>>>>>>>> >but it looks like countries that fund healthcare publicly spend a lower percentage of their GDP on health care
+>>>>>>>>>>> 
+>>>>>>>>>>> Now you're moving goalposts.  Cost vs rationing vs quality is an entirely separate issue, to say nothing of the assorted thorny issues involved in comparing different countries.
 
->>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>>>>>>>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (3 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >If the rate of people who will have a medical problem is lower than the cost of the preventative care divided by the cost of the treatment, then it's a net negative.
->>>>>>>>>>>> That's what I'm questioning here. I suspect that the cost of preventative care is vastly cheaper then the cost of treatment, because public sector spending seems to be a lot more affective then private sector funding.
->>>>>>>>>>>> Obviously the data is pretty limited. You seem a lot more certain of this then I am, do you have citations?
->>>>>>>>>>>> >Why on earth would you assume that all medical issues would fall on one side of that dividing line? 
->>>>>>>>>>>> *All* medical issues don't have to, we're still talking statistics, right? I'll chalk that up to a poor turn of phrase.
->>>>>>>>>>>> >Now you're moving goalposts.
->>>>>>>>>>>> The general hypothesis is that preventative healthcare will provide a lot more utility then reactive healthcare, and that capitalism disencentivices preventative healthcare.
->>>>>>>>>>>> We don't have a lot of data on the subject, there are a lot of distracting factors clouding the data, so it's difficult to say. 
->>>>>>>>>>>> Going to the doctor is like a reverse lottery. You can avoid it, save some money, and you *probably* won't lose big.
->>>>>>>>>>>> That's just one example of the whole "captured value vs created value" thing. Something a bit closer to my heart is open source software. Getting software to interpolate is *hard*, but it becomes an order of magnitude easier when you can freely access the relevant source code. Programming moves too fast and code quality varies too widely for any kind of system like academic journals to make sense. The only practical option (right now at least) when you want to reduce those barriers to interoperability is releasing the code in full.
->>>>>>>>>>>> The entire internet is built almost entirely on open source. Reddit is open source, all the webservers you use are open source probably running on an open source operating system, the web browser you're reading this on is open source, your phone is open source, etc.
->>>>>>>>>>>> Open source is necessary for the internet to function, because most of the things you can try to do to capture your codes value actually decreases the value a lot, because they mean your code is less able to interopolate.
->>>>>>>>>>>> But that lack of a mechanism for open source code to capture value had led to some pretty [bad consequences](https://medium.com/message/how-i-explained-heartbleed-to-my-therapist-4c1dbcbe1099).
->>>>>>>>>>>> There are a lot of places where mechanisms to capture value significantly reduce the value of the work. See "golden screwdriver" for yet another example.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> That's what I'm questioning here. I suspect that the cost of preventative care is vastly cheaper then the cost of treatment, because public sector spending seems to be a lot more affective then private sector funding.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Obviously the data is pretty limited. You seem a lot more certain of this then I am, do you have citations?
+>>>>>>>>>>>> 
+>>>>>>>>>>>> >Why on earth would you assume that all medical issues would fall on one side of that dividing line? 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> *All* medical issues don't have to, we're still talking statistics, right? I'll chalk that up to a poor turn of phrase.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> >Now you're moving goalposts.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> The general hypothesis is that preventative healthcare will provide a lot more utility then reactive healthcare, and that capitalism disencentivices preventative healthcare.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> We don't have a lot of data on the subject, there are a lot of distracting factors clouding the data, so it's difficult to say. 
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Going to the doctor is like a reverse lottery. You can avoid it, save some money, and you *probably* won't lose big.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> That's just one example of the whole "captured value vs created value" thing. Something a bit closer to my heart is open source software. Getting software to interpolate is *hard*, but it becomes an order of magnitude easier when you can freely access the relevant source code. Programming moves too fast and code quality varies too widely for any kind of system like academic journals to make sense. The only practical option (right now at least) when you want to reduce those barriers to interoperability is releasing the code in full.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> The entire internet is built almost entirely on open source. Reddit is open source, all the webservers you use are open source probably running on an open source operating system, the web browser you're reading this on is open source, your phone is open source, etc.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Open source is necessary for the internet to function, because most of the things you can try to do to capture your codes value actually decreases the value a lot, because they mean your code is less able to interopolate.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> But that lack of a mechanism for open source code to capture value had led to some pretty [bad consequences](https://medium.com/message/how-i-explained-heartbleed-to-my-therapist-4c1dbcbe1099).
+>>>>>>>>>>>> 
+>>>>>>>>>>>> There are a lot of places where mechanisms to capture value significantly reduce the value of the work. See "golden screwdriver" for yet another example.
 
->> **u/Polycephal_Lee** [+4] *
+>> **u/Polycephal_Lee** [+4]  (4 hours later)
 >> 
 >> Henry David Thoreau has a good take on it in reference to government:
->> >Unjust laws exist; shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once? Men generally, under such a government as this, think that they ought to wait until they have persuaded the majority to alter them. They think that, if they should resist, the remedy would be worse than the evil. But it is the fault of the government itself that the remedy is worse than the evil. It makes it worse. Why is it not more apt to anticipate and provide for reform? Why does it not cherish its wise minority? Why does it cry and resist before it is hurt? Why does it not encourage its citizens to be on the alert to point out its faults, and do better than it would have them?
->> Corporations/people/governments get good at doing one thing, and become complacent. They then try to protect the thing they are doing well, and vehemently oppose all efforts to change for the better because it hurts their livelyhood. Blockbuster, Tower Records, etc, all faced the same problem, an outright refusal to accept that their old profit models were no longer tenable in this world due to changing technology.
->> To understand why they don't, you have to understand the capitalist and the profit motive. The profit motive incentivizes a capitalist to strictly increase the accumulated wealth he has. Chasing new technology runs the risk of losing wealth, which is antithetical to accumulation. In aggregate capitalists very rarely take risks to their accumulation, even when it would be beneficial for all in the long run. Short sighted quarterly profit doesn't care about structural analysis and sustainability. So you end up with these corporations trying to protect old profit models, and cutting costs, slowly dying, instead of shedding their skin and being reborn with new technologies and methods.
->> tl;dr: Corporations preferentially protect the profit they have instead of chasing new, un-tested profit.
 >> 
+>> >Unjust laws exist; shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once? Men generally, under such a government as this, think that they ought to wait until they have persuaded the majority to alter them. They think that, if they should resist, the remedy would be worse than the evil. But it is the fault of the government itself that the remedy is worse than the evil. It makes it worse. Why is it not more apt to anticipate and provide for reform? Why does it not cherish its wise minority? Why does it cry and resist before it is hurt? Why does it not encourage its citizens to be on the alert to point out its faults, and do better than it would have them?
+>> 
+>> Corporations/people/governments get good at doing one thing, and become complacent. They then try to protect the thing they are doing well, and vehemently oppose all efforts to change for the better because it hurts their livelyhood. Blockbuster, Tower Records, etc, all faced the same problem, an outright refusal to accept that their old profit models were no longer tenable in this world due to changing technology.
+>> 
+>> To understand why they don't, you have to understand the capitalist and the profit motive. The profit motive incentivizes a capitalist to strictly increase the accumulated wealth he has. Chasing new technology runs the risk of losing wealth, which is antithetical to accumulation. In aggregate capitalists very rarely take risks to their accumulation, even when it would be beneficial for all in the long run. Short sighted quarterly profit doesn't care about structural analysis and sustainability. So you end up with these corporations trying to protect old profit models, and cutting costs, slowly dying, instead of shedding their skin and being reborn with new technologies and methods.
+>> 
+>> tl;dr: Corporations preferentially protect the profit they have instead of chasing new, un-tested profit.
 
->> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> **u/traverseda** [+3]  *With dread but cautious optimism* (2 hours later)
 >> 
 >> [Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
->> 
 
-> **u/None** [+8] *
+> **u/None** [+8]  (2 hours later)
 > 
 > There's not much discussion of writing technique, even as it pertains specifically to the discussion of writing rational/ist fiction, on this sub.
-> Discuss this lack of discussion.
 > 
+> Discuss this lack of discussion.
 
->> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (2 hours later)
 >> 
 >> I feel like I talk about writing (mostly plot structure and character arcs) a lot. But if I wanted to talk about broadly applicable writing topics, I would probably take them to other subreddits, where I could get feedback from a wider, more specialized audience: /r/writing, /r/fantasywriters, /r/scifiwriting, etc.
->> More than that though, there are a huge amount of resources for writers such that I don't think discussion is all that valuable. If you want to know writing technique, that's a very well established field and you're almost certainly better off reading the ten best books out of the thousands of books that have been written on the subject. Or you can take college courses from accredited professionals.
->> Basically, I do talk about writing technique, but the reason that I don't talk about it *more* is that there are already a whole host of resources that cover almost anything I'd want to say and which do that more eloquently and concisely than I would be able to manage. (I also have a degree in English, which further reduces my expected returns from talking about writing technique here.)
 >> 
+>> More than that though, there are a huge amount of resources for writers such that I don't think discussion is all that valuable. If you want to know writing technique, that's a very well established field and you're almost certainly better off reading the ten best books out of the thousands of books that have been written on the subject. Or you can take college courses from accredited professionals.
+>> 
+>> Basically, I do talk about writing technique, but the reason that I don't talk about it *more* is that there are already a whole host of resources that cover almost anything I'd want to say and which do that more eloquently and concisely than I would be able to manage. (I also have a degree in English, which further reduces my expected returns from talking about writing technique here.)
 
->> **u/raymestalez** [+3] *
+>> **u/raymestalez** [+3]  (3 hours later)
 >> 
 >> Yeah, I wish I could get some hints from /u/alexanderwales, /u/qbsmd, and others.
->> Though from what I understand, "writing" and "rationalist" are pretty much separate skillsets.
->> "rational" part is mostly about knowing science, philosophy, and beig smart enough to exploit things, and all that is discussed on LW.  
->> "writing" part is the same as non-rationalist writing, and is discussed elsewhere.
->> It seems like writing rtf comes down to knowing and liking "rationalist" topics, *and* being able to write good fiction in general.
->> So from what I can see, there is no "writing rational fiction" technique. There's just "general writing technique", and "having rationalist ideas to write about". Maybe that is why people do not have a lot to discuss.
->> Although, if there's any discussion on the subject - I'd be happy to participate!
 >> 
+>> Though from what I understand, "writing" and "rationalist" are pretty much separate skillsets.
+>> 
+>> "rational" part is mostly about knowing science, philosophy, and beig smart enough to exploit things, and all that is discussed on LW.  
+>> 
+>> "writing" part is the same as non-rationalist writing, and is discussed elsewhere.
+>> 
+>> It seems like writing rtf comes down to knowing and liking "rationalist" topics, *and* being able to write good fiction in general.
+>> 
+>> So from what I can see, there is no "writing rational fiction" technique. There's just "general writing technique", and "having rationalist ideas to write about". Maybe that is why people do not have a lot to discuss.
+>> 
+>> Although, if there's any discussion on the subject - I'd be happy to participate!
 
->>> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (3 hours later)
 >>> 
 >>> > So from what I can see, there is no "writing rational fiction" technique. There's just "general writing technique", and "having rationalist ideas to write about". Maybe that is why people do not have a lot to discuss.
+>>> 
 >>> That's part of it, for me.
+>>> 
 >>> I actually think that there's a subset of general writing ability which is "writing things that /r/rational would like", which largely consists of things like:
+>>> 
 >>> * how to write compelling exposition
 >>> * how to properly escalate a conflict
 >>> * how to foreshadow the solution to the plot
 >>> * how to show two people as having a legitimate disagreement
->>> You can write fiction without knowing these things; there's no need for conflict to escalate, it's just something that /r/rational tends to like. So I do think that there's some room for a more /r/rational focused approach to writing technique, it's just that these things are hard to do well and if you *can* do them well it's hard to distill the practice down into practical advice.
 >>> 
+>>> You can write fiction without knowing these things; there's no need for conflict to escalate, it's just something that /r/rational tends to like. So I do think that there's some room for a more /r/rational focused approach to writing technique, it's just that these things are hard to do well and if you *can* do them well it's hard to distill the practice down into practical advice.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (3 hours later)
 >>>> 
 >>>> Well for example the whole writing intelligent characters series is basically rationalist fiction writing 101. You can call that general writing skills if you want but clearly there are particular skills that produce fiction valued by this sub and those might as well be called rationalist fiction skills.
->>>> 
 
->>> **u/qbsmd** [+1] *
+>>> **u/qbsmd** [+1]  (a day later)
 >>> 
 >>> Feel free to ask whatever you'd like, but I'm not sure how much help I could give you because I pretty much write the way I think. I haven't really looked at any writing guide since high school, and if one said something that didn't match my taste, I'd ignore it anyway. I know I have weaknesses in writing; I think I'm worst at developing a set of characters that work well together (so it helps when I can use someone else's).
->>> 
 
-> **u/HeirToGallifrey** [+6]  *Thinking inside the box (it's bigger there)**
+> **u/HeirToGallifrey** [+7]  *Thinking inside the box (it's bigger there)* (2 hours later)
 > 
 > I recently watched an episode of American Horror Story. It was the second episode of the series I've ever watched, but that's beside the point. Spoilers up until the most recent episode of the new season, I suppose.
-> Anyway, vampires exist in this show, and one of the recently turned vampires is a doctor. She infects one of her dying patients (a young boy of about twelve) to save his life. He then immediately kills his parents, infects his best friend/girlfriend, kills his teacher, and infects his entire class, in that order. Then all of the students blame the killings on a random intruder and escape the school.
-> **The point is**, this got me thinking about the rationality of vampirism. Assuming you could become a vampire, and thereby be guaranteed immortality (only getting thirsty every now and then), wouldn't it be rational to do so? And isn't the kid acting quite rationally by granting immortality to his girlfriend? Doing the same for his whole class seemed a bit reckless, but all the others seemed to play along and cooperate, so that worked out well too.
-> In the end, two (possibly four) people at the school died to guarantee immortality for twenty children. Is that acceptable? Utilitarianism might say so. What do you think?
 > 
+> Anyway, vampires exist in this show, and one of the recently turned vampires is a doctor. She infects one of her dying patients (a young boy of about twelve) to save his life. He then immediately kills his parents, infects his best friend/girlfriend, kills his teacher, and infects his entire class, in that order. Then all of the students blame the killings on a random intruder and escape the school.
+> 
+> **The point is**, this got me thinking about the rationality of vampirism. Assuming you could become a vampire, and thereby be guaranteed immortality (only getting thirsty every now and then), wouldn't it be rational to do so? And isn't the kid acting quite rationally by granting immortality to his girlfriend? Doing the same for his whole class seemed a bit reckless, but all the others seemed to play along and cooperate, so that worked out well too.
+> 
+> In the end, two (possibly four) people at the school died to guarantee immortality for twenty children. Is that acceptable? Utilitarianism might say so. What do you think?
 
->> **u/alexanderwales** [+12]  *Time flies like an arrow**
+>> **u/alexanderwales** [+12]  *Time flies like an arrow* (2 hours later)
 >> 
 >> This is something that I've given some thought. It really, really depends on your vampires.
+>> 
 >> * How much blood does a vampire require? In my *Robot, Wizard, Vampire* story it's one pint a day, which means that a vampire requires donations from a rotating pool of approximately sixty people in order to survive. If vampires need one pint a *week* then that pool of volunteer humans is reduced to eight people. If they need to kill humans, then there's pretty much no societal utility unless you can create some ethical scheme of euthanasia (which is what the last vampire book I read ended up doing).
 >> * What are the effects of vampirism, beyond immortality? Immortality looks a lot less attractive if it comes with severe restrictions, psychological problems, or changes to basic values. If becoming a vampire makes you evil, as it does in some canons, then a good person wouldn't do it even if it granted immortality, because you wouldn't really be yourself anymore.
 >> * What does the rest of the universe look like? If there's a provable afterlife and vampirism prohibits you from it, as it does in many vampire canons, then it doesn't make sense to become a vampire unless your afterlife prospects are especially bleak.
->> 
 
->> **u/Charlie___** [+5] *
+>> **u/Charlie___** [+6]  (2 hours later)
 >> 
 >> I think you might like Luminosity :)
->> 
 
-> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png* (2 hours later)
 > 
 > The book that I'm currently (re-)reading, if anyone's interested, is *[The Financier](http://www.gutenberg.org/ebooks/1840)*. I stumbled across it in the RSS feed of books newly-added to [Project Gutenberg](http://www.gutenberg.org)'s collection, some months ago, and was intrigued enough by the title to give it a glance. I find it quite fascinating. Despite being set in a Philadelphia of the late nineteenth century, it includes detailed descriptions of a lot of complicated financial and political machinations (interspersed with some rather-tiresome romance), through which the protagonist [spoiler](#s "at first rises, but eventually falls"). The climax really impresses on the reader the reasons for which [banks are required to keep reserves of ready cash](https://en.wikipedia.org/wiki/Reserve_requirement), rather than loaning out too much of their money--and it's a fun story, too!
-> (There's [a sequel](http://www.gutenberg.org/ebooks/3629) that continues in much the same vein--in Chicago rather than in Philadelphia--but the protagonist's constant, boring romantic intrigues pushed me away from it, last time I tried to read it.)
 > 
+> (There's [a sequel](http://www.gutenberg.org/ebooks/3629) that continues in much the same vein--in Chicago rather than in Philadelphia--but the protagonist's constant, boring romantic intrigues pushed me away from it, last time I tried to read it.)
 
->> **u/ulyssessword** [+5] *
+>> **u/ulyssessword** [+4]  (5 hours later)
 >> 
 >> For anyone interested in banking and fiction, I'd recommend *The Dagger and the Coin* series by Daniel Abraham (starting with *The Dragon's Path*).  The main character is a banker, most of the characters are smart, and the ones who aren't smart are at least consistent and very believable.
->> Also, on the topic of fiction and finance, I'll plug *[The Cambist and Lord Iron](http://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/?xcbv)* by the same author.  It's a short story, and more about trade than about banking.
 >> 
+>> Also, on the topic of fiction and finance, I'll plug *[The Cambist and Lord Iron](http://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/?xcbv)* by the same author.  It's a short story, and more about trade than about banking.
 
->>> **u/Anderkent** [+1] *
+>>> **u/Anderkent** [+1]  (5 hours later)
 >>> 
 >>> +1 to `The Dagger and the Coin`; or at least the first two books. The series somewhat lost me after that (I really can't stomach Palliako)... But I'm still gonna finish it, I think :P
->>> 
 
->>>> **u/ulyssessword** [+2] *
+>>>> **u/ulyssessword** [+2]  (5 hours later)
 >>>> 
 >>>> On the one hand, Pallaiko is an idiot that never should have been put in charge of anything, and is childish, generally overconfident, and cringeworthy.
->>>> On the other hand, it's quite realistic IMO, and I could see a person like him riding the wave of one disastrous success after the other to get to where he is.
 >>>> 
+>>>> On the other hand, it's quite realistic IMO, and I could see a person like him riding the wave of one disastrous success after the other to get to where he is.
 
-> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+> **u/xamueljones** [+5]  *My arch-enemy is entropy* (4 hours later)
 > 
 > For anyone who likes [Order of the Stick](http://www.giantitp.com/), the author's now selling the first two volumes in pdf form. He said that if there's enough money from the sales, then the rest of the comic will be made into pdfs. So go buy some at the above link and spread the word if you ever wanted the series in digital form!
-> 
 
-> **u/TaoGaming** [+3]  *No Flair Detected!**
+> **u/TaoGaming** [+3]  *No Flair Detected!* (a day later)
 > 
 > So (as you may have guessed by my username), I write primarly about (board) games. 
-> Last monday, I played a beautiful cooperative game where the players are merely trying to survive the Horrors of World War I. It's not a classic game (its good, not great). But it was highly evocative, and beautifully drawn. The artist was a professional cartoonist. 
-> At Cherlie Hebdo.
-> His name was Tignous and Islamic Radicals murdered him during the massacre, a fact I wasn't aware of until I looked him up.
-> And I've been thinking about [that over the last week.] (https://taogaming.wordpress.com/2015/11/07/art-theme-coincidence-and-cartharsis/).
 > 
+> Last monday, I played a beautiful cooperative game where the players are merely trying to survive the Horrors of World War I. It's not a classic game (its good, not great). But it was highly evocative, and beautifully drawn. The artist was a professional cartoonist. 
+> 
+> At Cherlie Hebdo.
+> 
+> His name was Tignous and Islamic Radicals murdered him during the massacre, a fact I wasn't aware of until I looked him up.
+> 
+> And I've been thinking about [that over the last week.] (https://taogaming.wordpress.com/2015/11/07/art-theme-coincidence-and-cartharsis/).
 
-> **u/LiteralHeadCannon** [+2] *
+> **u/LiteralHeadCannon** [+3]  (39 minutes later)
 > 
 > Let's talk about quantum immortality (again), dudes and dudettes of /r/rational!  Or, um, maybe I misunderstood quantum immortality and it's actually something else.  In which case, let's talk about my misunderstanding of it!
-> First, a disclaimer.  Among this community, I put pretty high odds on the existence of God and an afterlife.  For this post, though, I will be assuming that there is no afterlife, and that minds cease to exist when they cease to exist, as the alternative would really screw up the entire idea here, which depends on the existence of futures where you don't exist.
-> Let's say that you're put in a contraption that, as with Schrodinger's box, has a roughly 50% chance of killing you.  When the device is set off, what odds should you expect for your own survival, for Bayesian purposes?  50%?
-> No.  You should actually expect to survive 100% of the time.  Your memory will never contain the event of your death.  You will never experience the loss of a bet that was on your own survival.  There is no point in investing in future universes where you don't exist, because you will never exist in a universe where that investment pays off.
-> This has serious implications for probability.  Any being's expectations of probability should eliminate all outcomes that result in their death.  If you flip a coin, and heads indicates a 1/3 chance of my death, and tails indicates a 2/3 chance of my death, I should expect heads to come up 2/3s of the time - because 1/3 of the heads futures are eliminated by death, and 2/3s of the tails futures are eliminated by death.
-> As I'm sure you all know, 1 and 0 aren't real probabilities.  This is a physical reality.  In physics, anything *may* happen - it's just pretty much always stupendously unlikely that any given Very Unlikely thing will happen, approaching 0.  A concrete block 1.3 meters in each direction could spontaneously generate a mile above Times Square.  The odds are just so close to 0 that they might as well be 0.
-> So if you happen to be a sick and disabled peasant in the middle ages, then you should still expect to live forever.  Something very statistically unusual will happen to get you from where you are to immortality.  Perhaps you'll wind up lost and frozen in ice for a few centuries.
-> We, however, don't need to deal with the hypothetical peasant's improbabilities.  We are living in an era where life-extending technology is being developed constantly, and a permanent solution is probably not far behind.  Our immortality is many orders of magnitude likelier than that of the hypothetical peasant.  Our future internal experiences are much more externally likely than those of the hypothetical peasant.
-> One thing I'm concerned about is survival optimization.  Humans are, for obvious evolutionary reasons, largely survival-optimizing systems.  Does a full understanding of what I've described break that mechanism, somehow, through rationality?  Is it therefore an infohazard?  Obviously I don't think so, or else I wouldn't have posted it.
 > 
+> First, a disclaimer.  Among this community, I put pretty high odds on the existence of God and an afterlife.  For this post, though, I will be assuming that there is no afterlife, and that minds cease to exist when they cease to exist, as the alternative would really screw up the entire idea here, which depends on the existence of futures where you don't exist.
+> 
+> Let's say that you're put in a contraption that, as with Schrodinger's box, has a roughly 50% chance of killing you.  When the device is set off, what odds should you expect for your own survival, for Bayesian purposes?  50%?
+> 
+> No.  You should actually expect to survive 100% of the time.  Your memory will never contain the event of your death.  You will never experience the loss of a bet that was on your own survival.  There is no point in investing in future universes where you don't exist, because you will never exist in a universe where that investment pays off.
+> 
+> This has serious implications for probability.  Any being's expectations of probability should eliminate all outcomes that result in their death.  If you flip a coin, and heads indicates a 1/3 chance of my death, and tails indicates a 2/3 chance of my death, I should expect heads to come up 2/3s of the time - because 1/3 of the heads futures are eliminated by death, and 2/3s of the tails futures are eliminated by death.
+> 
+> As I'm sure you all know, 1 and 0 aren't real probabilities.  This is a physical reality.  In physics, anything *may* happen - it's just pretty much always stupendously unlikely that any given Very Unlikely thing will happen, approaching 0.  A concrete block 1.3 meters in each direction could spontaneously generate a mile above Times Square.  The odds are just so close to 0 that they might as well be 0.
+> 
+> So if you happen to be a sick and disabled peasant in the middle ages, then you should still expect to live forever.  Something very statistically unusual will happen to get you from where you are to immortality.  Perhaps you'll wind up lost and frozen in ice for a few centuries.
+> 
+> We, however, don't need to deal with the hypothetical peasant's improbabilities.  We are living in an era where life-extending technology is being developed constantly, and a permanent solution is probably not far behind.  Our immortality is many orders of magnitude likelier than that of the hypothetical peasant.  Our future internal experiences are much more externally likely than those of the hypothetical peasant.
+> 
+> One thing I'm concerned about is survival optimization.  Humans are, for obvious evolutionary reasons, largely survival-optimizing systems.  Does a full understanding of what I've described break that mechanism, somehow, through rationality?  Is it therefore an infohazard?  Obviously I don't think so, or else I wouldn't have posted it.
 
->> **u/Chronophilia** [+16]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+17]  *sci-fi ≠ futurology* (an hour later)
 >> 
 >> I'm fairly sure most of this community doesn't think quantum immortality is real - it's an amusing but flawed thought experiment.
->> >No. You should actually expect to survive 100% of the time. Your memory will never contain the event of your death. You will never experience the loss of a bet that was on your own survival.
->> You're confusing the event of my death with the memory of it. Just because I don't experience or remember a thing, doesn't mean it hasn't happened to me. Tree falling in the woods, and all that.
->> By the same token, should it be impossible to forget anything? Since you can't experience forgetting things - you'd have to be consciously thinking about the thing at the very instant you forget it, which is obviously contradictory.
->> >There is no point in investing in future universes where you don't exist, because you will never exist in a universe where that investment pays off.
->> Other people will exist in those universes. I like some of these people. I want them to be happy.
 >> 
+>> >No. You should actually expect to survive 100% of the time. Your memory will never contain the event of your death. You will never experience the loss of a bet that was on your own survival.
+>> 
+>> You're confusing the event of my death with the memory of it. Just because I don't experience or remember a thing, doesn't mean it hasn't happened to me. Tree falling in the woods, and all that.
+>> 
+>> By the same token, should it be impossible to forget anything? Since you can't experience forgetting things - you'd have to be consciously thinking about the thing at the very instant you forget it, which is obviously contradictory.
+>> 
+>> >There is no point in investing in future universes where you don't exist, because you will never exist in a universe where that investment pays off.
+>> 
+>> Other people will exist in those universes. I like some of these people. I want them to be happy.
 
->>> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram* (an hour later)
 >>> 
 >>> > Other people will exist in those universes. I like some of these people. I want them to be happy.
->>> Bingo.
 >>> 
+>>> Bingo.
 
->>> **u/LiteralHeadCannon** [+5] *
+>>> **u/LiteralHeadCannon** [+7]  (an hour later)
 >>> 
 >>> If you start to feel moral concern for people in universes separate from your own, you have opened yourself up to a wide assortment of problems.
->>> 
 
->>>> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram* (an hour later)
 >>>> 
 >>>> I feel moral concern for people in this universe, and that moral concern extends to their future versions.
->>>> This is not the same as having moral concern for people who are current versions of people I know but are no longer causally connected to me, which is I think what you're worried about.
 >>>> 
+>>>> This is not the same as having moral concern for people who are current versions of people I know but are no longer causally connected to me, which is I think what you're worried about.
 
->>>>> **u/LiteralHeadCannon** [+3] *
+>>>>> **u/LiteralHeadCannon** [+3]  (an hour later)
 >>>>> 
 >>>>> People in future branched universes where you've died *are* current versions of people you know but are no longer causally connected to you.  Just, in the future.
->>>>> 
 
->>>>>> **u/ArgentStonecutter** [+12]  *Emergency Mustelid Hologram**
+>>>>>> **u/ArgentStonecutter** [+11]  *Emergency Mustelid Hologram* (an hour later)
 >>>>>> 
 >>>>>> If I can take an action, now, that changes their circumstances in the future... even if I no longer exist in that future... then I am causally connected to them. That's what causality _means_.
->>>>>> They are not causally connected to that future me, but I'm not that future me yet.
 >>>>>> 
+>>>>>> They are not causally connected to that future me, but I'm not that future me yet.
 
->>>> **u/MugaSofer** [+1] *
+>>>> **u/MugaSofer** [+1]  (an hour later)
 >>>> 
 >>>> Why? Just because I can't help them doesn't mean I can't feel sad for them.
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (2 hours later)
 >>>>> 
 >>>>> ...
->>>>> Yes it does. I mean, do you walk around feeling sad for the universes full of unproduced paperclips that will never tile the universe?  Or the hypothetical worlds full of perfectly happy people with a third ear?
->>>>> Past-and/or-future causal entanglement is what *real* means in a relational reality.
->>>>> You can feel sad for things you just made up, but that's not exactly rational, since as long as you're making things up, you might as well make up something nice.
 >>>>> 
+>>>>> Yes it does. I mean, do you walk around feeling sad for the universes full of unproduced paperclips that will never tile the universe?  Or the hypothetical worlds full of perfectly happy people with a third ear?
+>>>>> 
+>>>>> Past-and/or-future causal entanglement is what *real* means in a relational reality.
+>>>>> 
+>>>>> You can feel sad for things you just made up, but that's not exactly rational, since as long as you're making things up, you might as well make up something nice.
 
->>>>>> **u/MugaSofer** [+4] *
+>>>>>> **u/MugaSofer** [+5]  (2 hours later)
 >>>>>> 
 >>>>>> I don't understand much of what you just said, but I *have* "future causal entanglement" with hypothetical worlds in which I die.
->>>>>> My actions now will influence what happens in that world, even if I don't live to see those outcomes.
 >>>>>> 
+>>>>>> My actions now will influence what happens in that world, even if I don't live to see those outcomes.
 
->>>>>>> **u/None** [+3] *
+>>>>>>> **u/None** [+3]  (2 hours later)
 >>>>>>> 
 >>>>>>> Ooooh, you were talking about *futures* you're entangled with rather than *alternate presents* you have no contact with.
->>>>>>> 
 
->> **u/raymestalez** [+4] *
+>> **u/raymestalez** [+4]  (an hour later)
 >> 
 >> I don't know a lot about the topic, but I have questions:
->> - What if the substance in Schrodinger's box doesn't kill me immediately, but let's say after a week? Wouldn't a consciousness of a guy who lived in the box for a week before dying be different from the consciousness of a guy who survived? So that they wouldn't be identical, and the guy who lived for a while in a "doomed" timeline dies? 
->> - Just because there's no point in investing in the future universes where you die, doesn't mean that there's no such universes. You discard all the outcomes that lead to your death because they are useless for planning, for practical purposes, for guiding your actuons as a rational afent, but not because they don't exist. If you are "doomed", if you are being eaten by a shark in the middle of the ocean it may be *useless* to bet on outcomes where you stop existing, but you still can expect that you will stop existing.
->> Or am I horribly misinterpreting something?
 >> 
+>> - What if the substance in Schrodinger's box doesn't kill me immediately, but let's say after a week? Wouldn't a consciousness of a guy who lived in the box for a week before dying be different from the consciousness of a guy who survived? So that they wouldn't be identical, and the guy who lived for a while in a "doomed" timeline dies? 
+>> 
+>> - Just because there's no point in investing in the future universes where you die, doesn't mean that there's no such universes. You discard all the outcomes that lead to your death because they are useless for planning, for practical purposes, for guiding your actuons as a rational afent, but not because they don't exist. If you are "doomed", if you are being eaten by a shark in the middle of the ocean it may be *useless* to bet on outcomes where you stop existing, but you still can expect that you will stop existing.
+>> 
+>> Or am I horribly misinterpreting something?
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (an hour later)
 >>> 
 >>> As I said, there's no such probability as 1 or 0.  So if Schrodinger's box has decided to kill you, then sometime in the next week, something is going to happen to get you out of it.  That's vanishingly unlikely, though, so Schrodinger's box is very likely to simply decided not to kill you at the beginning and you're therefore unlikely to wind up in that situation.  If you're being eaten by a shark in the middle of the ocean, well, *something's* going to happen to save you, but it's once again so unlikely that your winding up in that situation in the first place is unlikely.
->>> And yes, universes where you have ceased to exist do exist, but you don't exist in them.  They're as beneath your concern as universes where you never existed.
 >>> 
+>>> And yes, universes where you have ceased to exist do exist, but you don't exist in them.  They're as beneath your concern as universes where you never existed.
 
->>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (an hour later)
 >>>> 
 >>>> > So if Schrodinger's box has decided to kill you, then sometime in the next week, something is going to happen to get you out of it.
->>>> Schrödinger's box has exposed you to a fatal dose of radiation. How do you get out of that?
->>>> > And yes, universes where you have ceased to exist do exist, but you don't exist in them. They're as beneath your concern as universes where you never existed.
->>>> Universes in which you are going to cease to exist are not the same as universes in which you have actually ceased to exist.
 >>>> 
+>>>> Schrödinger's box has exposed you to a fatal dose of radiation. How do you get out of that?
+>>>> 
+>>>> > And yes, universes where you have ceased to exist do exist, but you don't exist in them. They're as beneath your concern as universes where you never existed.
+>>>> 
+>>>> Universes in which you are going to cease to exist are not the same as universes in which you have actually ceased to exist.
 
->>>>> **u/LiteralHeadCannon** [+1] *
+>>>>> **u/LiteralHeadCannon** [+1]  (an hour later)
 >>>>> 
 >>>>> I don't know, but I do know that the probability of death isn't 1, because 1 isn't a probability.
->>>>> 
 
->>>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (21 hours later)
 >>>>>> 
 >>>>>> Perhaps I'm missing part of your argument here 'against betting in worlds where one does not exist'... but the whole point of life insurance is to bet on a timeline in which you cease to persist. The return benefit is not intended for you, but rather your spouse or family.
->>>>>> You seem awfully confident that the probability of death does not = 1. Ignoring scenarios of afterlife/dimensional transcendence, future life-preserving 'technologies', or other similar shenanigans, please state in plain English how you intend to explain away the heat death of the universe. Or barring that, please give me several real-world examples of immortality that demonstrate how the probability of death is < 1.
 >>>>>> 
+>>>>>> You seem awfully confident that the probability of death does not = 1. Ignoring scenarios of afterlife/dimensional transcendence, future life-preserving 'technologies', or other similar shenanigans, please state in plain English how you intend to explain away the heat death of the universe. Or barring that, please give me several real-world examples of immortality that demonstrate how the probability of death is < 1.
 
->>>>>> **u/raymestalez** [+1] *
+>>>>>> **u/raymestalez** [+1]  (2 hours later)
 >>>>>> 
 >>>>>> One more question. What is the probability of immortality in this theory?
+>>>>>> 
 >>>>>> - Probability of death is *not* one
 >>>>>> - Therefore, infinitesimally unlikely events make your consciousness live on in different timelines
 >>>>>> - Therefore, probability of staying alive is 1?
->>>>>> 
 
->>>>>>> **u/LiteralHeadCannon** [+1] *
+>>>>>>> **u/LiteralHeadCannon** [+1]  (3 hours later)
 >>>>>>> 
 >>>>>>> From your perspective, "probability" of staying alive is 1 as a definitional matter, as your perspective *is the same thing as* staying alive.
->>>>>>> 
 
->>>>>>>> **u/Revisional_Sin** [+1] *
+>>>>>>>> **u/Revisional_Sin** [+1]  (3 days later)
 >>>>>>>> 
 >>>>>>>> But you stated 1 isn't a probability. Paradox.
->>>>>>>> 
 
->>>>>>>>> **u/LiteralHeadCannon** [+1] *
+>>>>>>>>> **u/LiteralHeadCannon** [+1]  (4 days later)
 >>>>>>>>> 
 >>>>>>>>> It's not a probability.  It's a definition.  There's 0 "probability" of a 4-sided triangle existing, either, because that wouldn't be a triangle.
->>>>>>>>> 
 
->>>> **u/raymestalez** [+1] *
+>>>> **u/raymestalez** [+1]  (an hour later)
 >>>> 
 >>>> Well, by "doomed" I meant that you are in a situation where 100% of timelines lead to death. 
->>>> There's no such probability as 1.... You mean that out of the infinite timelines, there's at least some timelines where peasant's consciousness survives forever? So at any point where he could have died there's an identical version of him that kept living?
->>>> So there's an infinite amount of universes with infinite versions of everything.... So there's infinite identical versions of me.... And identical versions of me *are* me....
->>>> So there's a version of a peasant who is tortured for infinity, there's a version of peasant who has sex with Emma Watson, there's a version of peasant that lived a billion years before the "original" one died...
->>>> At any point there's infinite versions of my consciousness that stop existing, and infinite versions of me doing everything that is possible to be doing.....
->>>> A weird thing to wrap your head around..... Seems like something is wrong with this logic....
->>>> Like "immortality" is a concept that deals with my personal consciousness, my experience as a living mind, and this theory doesn't just talk about immortality, but makes it irrelevant.... Because there's always infinite versions of everything happening to the piece of information that is "me"....
->>>> [these are just my rambling thoughts as I'm trying to think on the topic, sorry it's not very coherent....]
 >>>> 
+>>>> There's no such probability as 1.... You mean that out of the infinite timelines, there's at least some timelines where peasant's consciousness survives forever? So at any point where he could have died there's an identical version of him that kept living?
+>>>> 
+>>>> So there's an infinite amount of universes with infinite versions of everything.... So there's infinite identical versions of me.... And identical versions of me *are* me....
+>>>> 
+>>>> So there's a version of a peasant who is tortured for infinity, there's a version of peasant who has sex with Emma Watson, there's a version of peasant that lived a billion years before the "original" one died...
+>>>> 
+>>>> At any point there's infinite versions of my consciousness that stop existing, and infinite versions of me doing everything that is possible to be doing.....
+>>>> 
+>>>> A weird thing to wrap your head around..... Seems like something is wrong with this logic....
+>>>> 
+>>>> Like "immortality" is a concept that deals with my personal consciousness, my experience as a living mind, and this theory doesn't just talk about immortality, but makes it irrelevant.... Because there's always infinite versions of everything happening to the piece of information that is "me"....
+>>>> 
+>>>> [these are just my rambling thoughts as I'm trying to think on the topic, sorry it's not very coherent....]
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (9 hours later)
 >>>>> 
 >>>>> > there's a version of peasant who has sex with Emma Watson
->>>>> It's enormously amusing to me that you chose this scenario as an antithesis to infinite torture.
 >>>>> 
+>>>>> It's enormously amusing to me that you chose this scenario as an antithesis to infinite torture.
 
->>>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (22 hours later)
 >>>>> 
 >>>>> I think a better example is picturing metaphorical Death as a gardener. He watches a bush grow from a seed into a bush. The branches extend upwards and outwards into different directions, but he occasionally prunes the branches and they get snipped off.
->>>>> (For sake of clarity, let's say that the Y axis is time, X/Z axes are the quantum bubbly decisional forks that OP refers to.)
->>>>> There is no theoretical branch that escapes Death and grows up infinitely into Heaven. Based on empirical evidence of what I know of the world, I am certain that all of theoretical peasant's branches stop growing at some point, because even if he gets frozen perfectly in ice, the branches of his world-line, Galaxy-line, or whatever is higher that... ALL LINES END.
->>>>> Be sad, but then be thankful you get to grow branches and think about this in a meaningful way at all.
 >>>>> 
+>>>>> (For sake of clarity, let's say that the Y axis is time, X/Z axes are the quantum bubbly decisional forks that OP refers to.)
+>>>>> 
+>>>>> There is no theoretical branch that escapes Death and grows up infinitely into Heaven. Based on empirical evidence of what I know of the world, I am certain that all of theoretical peasant's branches stop growing at some point, because even if he gets frozen perfectly in ice, the branches of his world-line, Galaxy-line, or whatever is higher that... ALL LINES END.
+>>>>> 
+>>>>> Be sad, but then be thankful you get to grow branches and think about this in a meaningful way at all.
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+4]  *Carthago delenda est.* (7 hours later)
 >> 
 >> You would agree that changes to a person's mind don't constitute a death of experience, correct? Bashing your head on a wall and losing a few brain cells maintains your experience?
->> I'll assume this to be true, because it's somewhat idiotic to say otherwise. So, imagine that you have a monotonically decreasing mind. Your brain is not growing, and it is losing a random brain cell every thousandth of a second. We have around 86 billion neurons, so this process takes about 2.7 years. Your mind grows increasingly simpler; imagine Charlie from Flowers for Algernon, and your experience is maintained throughout the entire process. But it doesn't stop at the level of mentally challenged adult. You gradually lose all higher functions, becoming akin to a paralyzed animal or infant, simplifying further and further, until you're no more than an ape, a monkey, a lemur, a vole, a worm. A bundle of nerves. A single neuron. Then nothing.
->> Your experiential complexity has decreased smoothly. Even if some sort of quantum immortality or 'fungibility' (from Balthasar999) held at some point in the process, you would not continue experiencing things from the level of your original self, or even from the level of a particularly challenged human. Your experience is not especially differentiated from that of a monkey's, or a vole's. You're made of the same mental construction.
->> Your experiential observation is not Platonic, it is the effect of there being a complex substrate that calculates it. When the complex substrate transforms, the experiential observation transforms with it. In the cosmically slow process of, say, a car crash, your brain is shocked and battered, even breached by foreign material, and the computation of experience continues, even as brain cells fail and connections are disrupted. Your *mind* is irrevocably damaged. The causal processes that used to *have the effect* of analyzing information and directing action in a manner identified with intelligence are instead made to have entirely different and not nearly so intelligently-identifiable effects.
->> This question comes down to the metaphysical. I am theoretically an adherent of mathematical Platonism, but the unyielding consistency that I have observed in reality makes me question that. If there are Tegmark worlds that contain the exact same mind as myself, then why have I not observed myself being entirely wrong about reality and history? Is it really that much more likely that I am a mentally healthy individual in the world that I expect to be real rather than a delusional sot in any of an infinite plethora of alternative worlds? If fungibility is real, then why is the only fundamentally incorrect experience I have been that of the Berenstain Bears being spelled Berenstein?
->> I suppose I could hypothesize that the memories themselves change with the alternate histories. But if my memories themselves change, then how can I even say that this 'fungible self,' this immortal kernel, can even be identified with me? If fungibility is real, then is it not more likely that I am (at any particular instant) actually a historical simulation of more advanced descendants of this universe? Or astronomically more likely that I am in any number of possible simulations of alternate physics in any number of possible real physics?
->> I'm going to read the Finale of the Ultimate Meta Mega Crossover again. But ultimately, the answer to this question comes down to whether you consider your experience to be a cause of the material effects you observe, or to be an effect of the material causes.
 >> 
+>> I'll assume this to be true, because it's somewhat idiotic to say otherwise. So, imagine that you have a monotonically decreasing mind. Your brain is not growing, and it is losing a random brain cell every thousandth of a second. We have around 86 billion neurons, so this process takes about 2.7 years. Your mind grows increasingly simpler; imagine Charlie from Flowers for Algernon, and your experience is maintained throughout the entire process. But it doesn't stop at the level of mentally challenged adult. You gradually lose all higher functions, becoming akin to a paralyzed animal or infant, simplifying further and further, until you're no more than an ape, a monkey, a lemur, a vole, a worm. A bundle of nerves. A single neuron. Then nothing.
+>> 
+>> Your experiential complexity has decreased smoothly. Even if some sort of quantum immortality or 'fungibility' (from Balthasar999) held at some point in the process, you would not continue experiencing things from the level of your original self, or even from the level of a particularly challenged human. Your experience is not especially differentiated from that of a monkey's, or a vole's. You're made of the same mental construction.
+>> 
+>> Your experiential observation is not Platonic, it is the effect of there being a complex substrate that calculates it. When the complex substrate transforms, the experiential observation transforms with it. In the cosmically slow process of, say, a car crash, your brain is shocked and battered, even breached by foreign material, and the computation of experience continues, even as brain cells fail and connections are disrupted. Your *mind* is irrevocably damaged. The causal processes that used to *have the effect* of analyzing information and directing action in a manner identified with intelligence are instead made to have entirely different and not nearly so intelligently-identifiable effects.
+>> 
+>> This question comes down to the metaphysical. I am theoretically an adherent of mathematical Platonism, but the unyielding consistency that I have observed in reality makes me question that. If there are Tegmark worlds that contain the exact same mind as myself, then why have I not observed myself being entirely wrong about reality and history? Is it really that much more likely that I am a mentally healthy individual in the world that I expect to be real rather than a delusional sot in any of an infinite plethora of alternative worlds? If fungibility is real, then why is the only fundamentally incorrect experience I have been that of the Berenstain Bears being spelled Berenstein?
+>> 
+>> I suppose I could hypothesize that the memories themselves change with the alternate histories. But if my memories themselves change, then how can I even say that this 'fungible self,' this immortal kernel, can even be identified with me? If fungibility is real, then is it not more likely that I am (at any particular instant) actually a historical simulation of more advanced descendants of this universe? Or astronomically more likely that I am in any number of possible simulations of alternate physics in any number of possible real physics?
+>> 
+>> I'm going to read the Finale of the Ultimate Meta Mega Crossover again. But ultimately, the answer to this question comes down to whether you consider your experience to be a cause of the material effects you observe, or to be an effect of the material causes.
 
->> **u/MugaSofer** [+4] *
+>> **u/MugaSofer** [+5]  (an hour later)
 >> 
 >> Firstly, for practical reasons, I think I recall reading that sufficiently "improbable" quantum events run out of quantum stuff to represent them and are probably destroyed. You're not literally lining in a world where everything happens with some small-but-nonzero probability; you're living in a world where certain events "split" events in half, or split off two-thirds, or whatever.
->> "Zero and one are not probabilities" is a fact about epistemology, not physics.
-
->> With that said, I don't *think* I buy that this is how anthropic probability works. I don't think I even understand anthropic probability looking *backwards*, let alone *forwards*, but ...
->> I think if you say "X would have killed me with 99% probability, and Y would have killed me with 1% probability, but we've no other evidence so *who knows* which one happened?" then you'd be wrong like 99% of the time.
->> So that's probably *not* how it works - you can probably treat "I'm not dead" as evidence, which in turn means "I'll die" must have some specific probability, unless we're throwing Bayes out the window here.
 >> 
+>> "Zero and one are not probabilities" is a fact about epistemology, not physics.
+>> 
+>> With that said, I don't *think* I buy that this is how anthropic probability works. I don't think I even understand anthropic probability looking *backwards*, let alone *forwards*, but ...
+>> 
+>> I think if you say "X would have killed me with 99% probability, and Y would have killed me with 1% probability, but we've no other evidence so *who knows* which one happened?" then you'd be wrong like 99% of the time.
+>> 
+>> So that's probably *not* how it works - you can probably treat "I'm not dead" as evidence, which in turn means "I'll die" must have some specific probability, unless we're throwing Bayes out the window here.
 
->>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (9 hours later)
 >>> 
 >>> The problem with quantum immortality is not in the anthropics; in fact, anthropics is the counter to quantum immortality. Post facto, any observer must realize that they survived, and that survival was absolutely necessary to be an observer. 'In 100% of the worlds that I could possibly observe, I survived.' The problem is that quantum immortality is conditioning on this and treating the conditional probability as the total. Say you have a 50% chance of surviving some event. The point of anthropics is that actually there are 50% of worlds where you did not survive, even though you observe survival as 100% likely. Now then, what happens when all possible worlds contain your death? You *die.* Conditioning on your survival, you see the same 100% survival rate, but the conditioning probability is 0.
->>> I believe I understand anthropics. Is there anything you know you're particularly confused about?
 >>> 
+>>> I believe I understand anthropics. Is there anything you know you're particularly confused about?
 
->>>> **u/MugaSofer** [+2] *
+>>>> **u/MugaSofer** [+2]  (21 hours later)
 >>>> 
 >>>> OK:
+>>>> 
 >>>> * If I repeatedly survive a potentially-lethal event by "pure chance" over and over, does that strongly imply that the events *would* have killed me, or strongly imply that I was mistaken about how likely they were? Or is it not strong evidence either way?
+>>>> 
 >>>> * If *Earth* avoids - say, an asteroid impact - thanks to a hilarious string of coincidences; does that suggest it would probably have killed us, or just that it would have massively reduced the population?
+>>>> 
 >>>> * Does any of this impact your attitude to the Doomsday Argument at all, or vice versa? That definitely confuses me, and I kind of mentally label it "anthropics", but I'm not sure it's the same thing.
+>>>> 
 >>>> * If I create a copy of myself and then one of me is instantly killed, do I have a 100% chance of ending up as the copy - as if I just teleported a foot to the left? Or is that just survivorship bias, and I had a 50-50 chance of dying?
 >>>> * If I create two copies of me, give one a red ball and one a blue, and split the "blue ball" copy into two ... do I have a 2/3rds chance of receiving the blue ball, subjectively, or 1/2 chance? (Modified Sleeping Beauty problem.) Or do I have some kind of 50%-now-but-66%-later probability that varies over time?
->>>> 
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>> 
 >>>>> I can answer 4 and 5 immediately. My answers are mostly based on creating mathematical models, and as such my answers can only apply to descendants of your questions where my assumptions are resolved one way or another. I will try to obtain multiple formulations of your questions in which the various answers you propose are true.
->>>>> Anthropics is about uncertainty of identity; that is, which observer you are, and what observers it is possible to be (I believe that accounting for anthropics in a causal epistemology can also solve Newcomblike problems, but that is only an intuition for now). To some extent, 'objective' questions can only be finally resolved after all observer-reducing events have come to pass.
->>>>> >If I create a copy of myself and then one of me is instantly killed, do I have a 100% chance of ending up as the copy - as if I just teleported a foot to the left? Or is that just survivorship bias, and I had a 50-50 chance of dying?
->>>>> **4)** Creating a copy of yourself and 'instantly' killing one of you (I'm assuming the original, for 'ideal teleportation') is a simultaneous addition and subtraction. There is no point at which there are two observers, so post facto there is a chance of 1 that you are the copy, otherwise there is no 'you' to observe. There is also a chance of 1 that the original will die.
->>>>> If you are put in a box, and teleported into an identical box in an identical pose, and you don't know when the teleportation takes place (and you don't know how long you will be in the box, but know that the teleportation will take place before you are taken out), you may assume at any one point in time in the box that there is a .5 chance that you are the original, and a .5 chance that you are the copy. Because you don't gain any information of when the teleportation takes place other than at the instants when you're put in and taken out, you can only assume in the entire interval of time within the box that you are the original with .5 probability. Cool, huh?
->>>>> >If I create two copies of me, give one a red ball and one a blue, and split the "blue ball" copy into two ... do I have a 2/3rds chance of receiving the blue ball, subjectively, or 1/2 chance? (Modified Sleeping Beauty problem.) Or do I have some kind of 50%-now-but-66%-later probability that varies over time?
->>>>> **5)** First of all, remove the original observer, because otherwise it's a trick question. :P We'll instead say the original observer is split into two, as happens with the blue receiver. Second, you're measuring the probability of *receiving a blue ball,* which happens before the second split in your question, so the probability at the instant of reception is .5. However, once you observe receiving the blue ball (and you don't know when the second split occurs, &c, &c) you no longer know which observer you are, other than an instance of the original blue receiver.
->>>>> If you want the .66... probability, then you have to restrict observation of which color is received until after the second split. The observer is put under (becoming a non-observer), and split into two. Each one is assigned a color that will be inherited by their copies. The blue-assigned non-observer is split in two. At this point, they are woken up and given the ball of their assigned color. With full knowledge of this process, they should expect that the ball they *will* receive will be blue with .66... probability. This is also true if they are given the ball before the second split but they don't observe which color it is.
->>>>> Anthropics is wacky and fun. I have to get to your first three questions later, though. I might post them to the sub, as a link or as text, because I'd probably have to write disproportionately more than this.
->>>>> **EDIT:** After reading a little more about anthropics, and rediscovering SSA vs. SIA, SIA seems obviously correct. *Of course* the Sleeping Beauty problem is going to have a 2/3-1/3 split; *you're sampling one side of a .5 probability branch twice.* SSA is about questioning the weights of those observers/samples, and generally involves (meta)physics, frequentism, or whether observers identify themselves with each other in their utility function. I'm not sure why Armstrong seems to think that anthropic probabilities are "not enough," as his anthropic decision theory seems to be using SIA perfectly consistently. I believe the question of SIA vs. SSA may be dissolved.
 >>>>> 
+>>>>> Anthropics is about uncertainty of identity; that is, which observer you are, and what observers it is possible to be (I believe that accounting for anthropics in a causal epistemology can also solve Newcomblike problems, but that is only an intuition for now). To some extent, 'objective' questions can only be finally resolved after all observer-reducing events have come to pass.
+>>>>> 
+>>>>> >If I create a copy of myself and then one of me is instantly killed, do I have a 100% chance of ending up as the copy - as if I just teleported a foot to the left? Or is that just survivorship bias, and I had a 50-50 chance of dying?
+>>>>> 
+>>>>> **4)** Creating a copy of yourself and 'instantly' killing one of you (I'm assuming the original, for 'ideal teleportation') is a simultaneous addition and subtraction. There is no point at which there are two observers, so post facto there is a chance of 1 that you are the copy, otherwise there is no 'you' to observe. There is also a chance of 1 that the original will die.
+>>>>> 
+>>>>> If you are put in a box, and teleported into an identical box in an identical pose, and you don't know when the teleportation takes place (and you don't know how long you will be in the box, but know that the teleportation will take place before you are taken out), you may assume at any one point in time in the box that there is a .5 chance that you are the original, and a .5 chance that you are the copy. Because you don't gain any information of when the teleportation takes place other than at the instants when you're put in and taken out, you can only assume in the entire interval of time within the box that you are the original with .5 probability. Cool, huh?
+>>>>> 
+>>>>> >If I create two copies of me, give one a red ball and one a blue, and split the "blue ball" copy into two ... do I have a 2/3rds chance of receiving the blue ball, subjectively, or 1/2 chance? (Modified Sleeping Beauty problem.) Or do I have some kind of 50%-now-but-66%-later probability that varies over time?
+>>>>> 
+>>>>> **5)** First of all, remove the original observer, because otherwise it's a trick question. :P We'll instead say the original observer is split into two, as happens with the blue receiver. Second, you're measuring the probability of *receiving a blue ball,* which happens before the second split in your question, so the probability at the instant of reception is .5. However, once you observe receiving the blue ball (and you don't know when the second split occurs, &c, &c) you no longer know which observer you are, other than an instance of the original blue receiver.
+>>>>> 
+>>>>> If you want the .66... probability, then you have to restrict observation of which color is received until after the second split. The observer is put under (becoming a non-observer), and split into two. Each one is assigned a color that will be inherited by their copies. The blue-assigned non-observer is split in two. At this point, they are woken up and given the ball of their assigned color. With full knowledge of this process, they should expect that the ball they *will* receive will be blue with .66... probability. This is also true if they are given the ball before the second split but they don't observe which color it is.
+>>>>> 
+>>>>> Anthropics is wacky and fun. I have to get to your first three questions later, though. I might post them to the sub, as a link or as text, because I'd probably have to write disproportionately more than this.
+>>>>> 
+>>>>> **EDIT:** After reading a little more about anthropics, and rediscovering SSA vs. SIA, SIA seems obviously correct. *Of course* the Sleeping Beauty problem is going to have a 2/3-1/3 split; *you're sampling one side of a .5 probability branch twice.* SSA is about questioning the weights of those observers/samples, and generally involves (meta)physics, frequentism, or whether observers identify themselves with each other in their utility function. I'm not sure why Armstrong seems to think that anthropic probabilities are "not enough," as his anthropic decision theory seems to be using SIA perfectly consistently. I believe the question of SIA vs. SSA may be dissolved.
 
->> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+>> **u/AugSphere** [+2]  *Dark Lord of Corruption* (2 days later)
 >> 
 >> There is actually a pretty nice interpretation of QM that doesn't lead to many worlds and the associated shenanigans. It's called quantum bayesianism. The basic idea is that QM is about observations and our bets (predictions) on them and our state of knowledge is encoded within state vectors. Within that framework the whole quantum collapse issue seems rather silly, since the "collapse" is actually a bayesian update of probability distributions associated with a quantum state and the discontinuity makes perfect sense.
->> It's a beautiful interpretation and provides an interesting counterpoint to many-worlds as far as thought experiments like this go.
 >> 
+>> It's a beautiful interpretation and provides an interesting counterpoint to many-worlds as far as thought experiments like this go.
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (2 days later)
 >>> 
 >>> This has always seemed like the obvious interpretation to me, so I've always figured that the fact that anyone bothered to conceive of and popularize many worlds theory indicates that they know something I don't know that makes that model better.
->>> Of course, a certain cynical part of me says that it's entirely possible that *they're* the ones failing to see something.
 >>> 
+>>> Of course, a certain cynical part of me says that it's entirely possible that *they're* the ones failing to see something.
 
->>>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor**
+>>>> **u/EliezerYudkowsky** [+3]  *Godric Gryffindor* (2 days later)
 >>>> 
 >>>> Bell's Theorem is the main thing making it awkward and pointless to try to interpret the wavefunction as incomplete knowledge.
->>>> 
 
->>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (2 days later)
 >>>> 
 >>>> We should probably just ask /u/EliezerYudkowsky why he prefers many-worlds. Perhaps there is some hidden fatal flaw in QBism and he will be kind enough to direct us to it.
->>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (11 hours later)
 >> 
 >> > Any being's expectations of probability should eliminate all outcomes that result in their death.
->> Why?  They don't eliminate all outcomes in which I fall asleep without noticing.
 >> 
+>> Why?  They don't eliminate all outcomes in which I fall asleep without noticing.
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (11 hours later)
 >>> 
 >>> If you fall asleep without noticing, you'll wake up later and have to deal with things again.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (11 hours later)
 >>>> 
 >>>> Sure, but I never observe myself falling asleep.
->>>> 
 
->> **u/jrpguru** [+1] *
+>> **u/jrpguru** [+1]  (11 hours later)
 >> 
 >> [Divided by Infinity](http://www.tor.com/2010/08/05/divided-by-infinity/) by Robert Charles Wilson. A short story about quantum immortality.
->> 
 
->> **u/itisike** [+1]  *Dragon Army**
+>> **u/itisike** [+1]  *Dragon Army* (2 days later)
 >> 
 >> I think there's a difference between epistemic probability and physical probability. There's no expectation divergence, but it's enough to change my actions.
->> Specifically, if I'm given the ability to make the universe split in two, and I die painlessly in one, and gain some benefit in the other, then, barring certain caveats about selfishness and other possible problems, I will take that option.
->> If I'm offered the same thing, but instead of splitting, we flip a coin, and I don't believe in a multiverse, then I would *not* take it. This is despite the fact that my expectations are the exact same in each scenario.
->> This means that my expectation for what is "real" affects my actions, even though it doesn't affect my expectations for future observations, and even for a completely selfish individual.
->> I don't know if I could formalize that. I probably could, because it doesn't seem that paradoxical to me, but I haven't, nor seen anyone else who has.
 >> 
+>> Specifically, if I'm given the ability to make the universe split in two, and I die painlessly in one, and gain some benefit in the other, then, barring certain caveats about selfishness and other possible problems, I will take that option.
+>> 
+>> If I'm offered the same thing, but instead of splitting, we flip a coin, and I don't believe in a multiverse, then I would *not* take it. This is despite the fact that my expectations are the exact same in each scenario.
+>> 
+>> This means that my expectation for what is "real" affects my actions, even though it doesn't affect my expectations for future observations, and even for a completely selfish individual.
+>> 
+>> I don't know if I could formalize that. I probably could, because it doesn't seem that paradoxical to me, but I haven't, nor seen anyone else who has.
 
-> **u/None** [+4] *
+> **u/None** [+3]  (3 hours later)
 > 
 > GUYS, GUYS!  MARGINALIZATION IS THE INNER PRODUCT OF A CONDITIONAL DISTRIBUTION WITH THE DISTRIBUTION OF THE NUISANCE VARIABLE!
-> Fuck, why don't people just *tell* you these things instead of writing out all those damned sigmas!?
 > 
+> Fuck, why don't people just *tell* you these things instead of writing out all those damned sigmas!?
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (5 hours later)
 >> 
 >> What topic is this from so I know in which one of my future CS classes to look back at my notes on this post? Thanks!
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (5 hours later)
 >>> 
 >>> Probability theory, particularly in its application to Bayesian statistics where we get the predictive distribution by marginalizing out all the "nuisance" variables we're not trying to predict.
->>> 
 
->>>> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (6 hours later)
 >>>> 
 >>>> *blink, blink*
->>>> I actually understood that and now I understand your previous post.
->>>> All of that studying Bayesian stats and modeling computational networks is working!
->>>> Thanks for the clarification!
 >>>> 
+>>>> I actually understood that and now I understand your previous post.
+>>>> 
+>>>> All of that studying Bayesian stats and modeling computational networks is working!
+>>>> 
+>>>> Thanks for the clarification!
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (6 hours later)
 >>>>> 
 >>>>> I've been working my way through introduction to computational Bayes methods and it got to the bit about Markov chains and started expanding all the damn terms instead of just saying that:
->>>>> * For a finite-state, discrete-transition Markov chain, the state distribution is a vector with an l1-norm of 1.
->>>>> * Likewise, the transition matrix of conditional state-to-state transition probabilities is just an assignment of conditional distributions to each source and destination state.
->>>>> * Therefore, we can use inner-products to multiply these vectors and matrices just like any *other* vectors and matrices.  It's all *just another fucking Hilbert space*.
->>>>> * Therefore, when we generalize to infinite states or continuous transitions, everything *continues* to obey the generalized Hilbert-space laws.
->>>>> * Therefore, probability distributions can be treated as vectors in a Hilbert-space *in general*, with the caveat that we have to keep them l1-normed to 1, so we need to modify the normal vector-addition operation to accommodate the actual Sum Law of probability -- but the generalized addition laws should still hold, as should category-theoretic treatments of products and coproducts!
->>>>> My undergrad probability and CS theory prof did teach Markov chains in full, but he never did zoom out and generalize to the full Hilbert-space or categorical perspectives.
 >>>>> 
+>>>>> * For a finite-state, discrete-transition Markov chain, the state distribution is a vector with an l1-norm of 1.
+>>>>> 
+>>>>> * Likewise, the transition matrix of conditional state-to-state transition probabilities is just an assignment of conditional distributions to each source and destination state.
+>>>>> 
+>>>>> * Therefore, we can use inner-products to multiply these vectors and matrices just like any *other* vectors and matrices.  It's all *just another fucking Hilbert space*.
+>>>>> 
+>>>>> * Therefore, when we generalize to infinite states or continuous transitions, everything *continues* to obey the generalized Hilbert-space laws.
+>>>>> 
+>>>>> * Therefore, probability distributions can be treated as vectors in a Hilbert-space *in general*, with the caveat that we have to keep them l1-normed to 1, so we need to modify the normal vector-addition operation to accommodate the actual Sum Law of probability -- but the generalized addition laws should still hold, as should category-theoretic treatments of products and coproducts!
+>>>>> 
+>>>>> My undergrad probability and CS theory prof did teach Markov chains in full, but he never did zoom out and generalize to the full Hilbert-space or categorical perspectives.
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (4 hours later)
 > 
 > What do people here think about how active /r/hpmor still is even after the story finished back in March? I'm very surprised and I'm wondering what might explain this phenomenon.
-> They still have 8,383 people in the subreddit for anyone who's curious.
 > 
+> They still have 8,383 people in the subreddit for anyone who's curious.
 
->> **u/brandalizing** [+6]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+3]  *Reserve Pigeon Army* (8 hours later)
 >> 
 >> For the most part, I think, it's the handful of continuation fics that have been updating pretty consistently. Once those finish (I think one just did) activity will slow down. We'll see where it goes from there.
->> 
 
->>> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.* (13 hours later)
 >>> 
 >>> It'll have a final burst for the last Omake and The Epilogue, but yeah, I don't see it going much further than that.
->>> 
 
->>> **u/Salivanth** [+1] *
+>>> **u/Salivanth** [+1]  (2 days later)
 >>> 
 >>> Which one finished? I've been idly following along, since I generally don't like reading unfinished works.
->>> 
 
->>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (2 days later)
 >>>> 
 >>>> I'm not actually sure, I haven't been following along either. I just remember seeing a recent post from one of them that had the word 'Epilogue' somewhere in the post title.
->>>> 
 
->> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (2 days later)
 >> 
 >> Many people don't unsubscribe from things. Many accounts are simply replaced after a period of time to make doxxing harder. Instead look at the current users: 19 at the minute. Compared to 42 in /r/rationalism, despite this sub being less than half the number of subscribers.
->> 
 
-> **u/IomKg** [+1] *
+> **u/IomKg** [+1]  (7 hours later)
 > 
 > Kind of surprised to not have heard about this here yet.
 > What do you guys think is going on with http://www.digitaltrends.com/cool-tech/researchers-conduct-successful-new-tests-of-emdrive/ ?
+> 
 > few questions which pop to my mind: 
 > Do you think its going to pan out?
 > Is it going to only be relevant for deep space research? or it will reach power levels where it will be usable on earth as well?
 > What is your guess as to its root cause if its real?
 > If not do you have a best guess about what is causing the signals currently being measured? heat radiation? lorentz force?
 > If its real how much further do you think its going to push space exploration? do you have any predictions about how this story is going to progress if its real(i.e. will NASA pioneer it? will private companies be the first? will private companies monopolize the tech with patents?)
-> 
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (10 hours later)
 >> 
 >> That article is clickbait; what it should say is not "EmDrive thruster really works" but "some possible sources of error have been eliminated by new tests".
+>> 
 >> One of two things is true:
+>> 
 >> * There's a currently unidentified source of error which will render the EmDrive practically useless once found.
 >> * Our understanding of basic principles of physics (conservation laws) is fundamentally flawed.
->> Extreme skepticism is warranted; don't go getting hyped.
 >> 
+>> Extreme skepticism is warranted; don't go getting hyped.
 
->>> **u/IomKg** [+2] *
+>>> **u/IomKg** [+2]  (18 hours later)
 >>> 
 >>> You are correct in that the article i linked is not the most accurate source of info, unfortunately i wasn't aware of an article which was more accurate.
 >>> If you want the most accurate info you should head over to http://forum.nasaspaceflight.com/index.php?topic=38577.msg1440938#msg1440938 and follow the messages by "star-driver", he is the guy from NASA actually involved with the experiments.
+>>> 
 >>> From what i could gather of the messages there the data is very positive, but he can't give the actual data spreadsheets because of NASA procedures which require it first be peer reviewed and whatnot, so it will only be released on the first half of 2016.
+>>> 
 >>> But basically what he said is they managed to significantly dampen the Lorentz forces that may effect the experiment, and they built a model which is giving them the estimated force from the heat radiation, and still the anomalous thrust remains.
+>>> 
 >>> re: physics is fundamentally flawed, physics is not my specialty but a bunch of guys on that board seem to suggest that there are a couple of theories that explain this without breaking conservation of momentum. one of them required an extra spatial dimension, but i heard a bunch of times suggestions that it is possible there are a few more dimensions.
-
+>>> 
 >>> regarding the skepticism, i agree that skepticism is in order, but i don't think its either you completely accept that we now have reactionless drive or we assume its 100% not possible.
 >>> I think the fact that the EMdrive reached the point where it is now implies that the probability it is real is much higher than some random theory that enables some technology.
 >>> it may only be 20% or even only 2% that it will pan out, but even such probability is noteworthy when you consider the possible effects of such a discovery.
 >>> of course the effects of the discovery will depend on the efficiency of the drive, which at the moment is anywhere between "only relevant for long term space exploration over 10s of years" to "we can have flying cars".
 >>> for which we also have some data to make predictions with http://forum.nasaspaceflight.com/xindex.php,qaction=dlattach,3Btopic=38577.0,3Battach=1076410,3Bimage.pagespeed.ic.Uq54kPxn5u.webp .
->>> Anyhow my point specifically for this forum\reddit is that it seemed like something out of a writing prompt, so i figured it would be interesting just for that value and for the fact that even if the probability for it living up to its maximum potential it is extremely low, it is still currently the closest we have ever had to some technology which will propel humanity to space exploration which seemed like something many people here were in favor of.
 >>> 
+>>> Anyhow my point specifically for this forum\reddit is that it seemed like something out of a writing prompt, so i figured it would be interesting just for that value and for the fact that even if the probability for it living up to its maximum potential it is extremely low, it is still currently the closest we have ever had to some technology which will propel humanity to space exploration which seemed like something many people here were in favor of.
 
->>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (13 hours later)
 >>> 
 >>> Know what? You should write a story where it really did work. That'd be something.
->>> 
 
->>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (2 days later)
 >>>> 
 >>>> Eh, it'd be pretty similar to most flavours of sci-fi. It doesn't matter much if the thrusters run on EmDrives or Impulse drives or whatever.
->>>> 
 
->>>>> **u/IomKg** [+1] *
+>>>>> **u/IomKg** [+1]  (4 days later)
 >>>>> 
 >>>>> I think the story is not supposed to be about the technology but how things would go if such a discovery is made.
 >>>>> The politics, the dynamics of the different entities involved(businesses, governments, private people) etc.
->>>>> 
 
 ---
 

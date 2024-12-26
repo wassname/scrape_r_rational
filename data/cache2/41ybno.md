@@ -14,31 +14,27 @@ feel free to use draw.to to create basic diagrams.
 
 ### Comments:
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (a day later)
 > 
 > http://i.imgur.com/0tO3kMO.png?1
-> ^--- Most successful attempt out of 10. Most people immediately 'nexted'.
 > 
+> ^--- Most successful attempt out of 10. Most people immediately 'nexted'.
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+3]  (a day later)
 >> 
 >> I guess he nexted because you discarded his hook and gave an answer that didn't allow him any way to proceed. You want to take your opponent's idea (that you chose him) and "Yes, and..." it by inventing a reason to have chosen him, ideally in a format that allows him to "Yes, and..." you.
->> 
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (a day later)
 >>> 
 >>> Or he nexted because he didn't want to speak to a starfish alien....?
->>> 
 
-> **u/TBestIG** [+2]  *Every second of quibbling is another dead baby**
+> **u/TBestIG** [+2]  *Every second of quibbling is another dead baby* (a day later)
 > 
 > I love that website. Sadly there are too many people that just skip you
-> 
 
-> **u/andromedagalaxyy** [+2] *
+> **u/andromedagalaxyy** [+2]  (30 days later)
 > 
 > I know it's a month late, but I wanted to try this anyways. After about 7 people instantly skipping me, Lex Luther, of all people, decided to humor me. I was making things up as I went along, but [here's](http://www.shamchat.com/7b2f564c/) the results.
-> 
 
 ---
 

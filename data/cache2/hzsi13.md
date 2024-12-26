@@ -48,11 +48,11 @@ I want to let my work stand on its own, except for replying to comments here. Bu
 
 ### Comments:
 
-> **u/thrawnca** [+4]  *Carbon-based biped**
+> **u/thrawnca** [+5]  *Carbon-based biped* (6 days later)
 > 
 > My go-to "rationalist fic done right" is generally Pokemon: The Origin of Species. Exploring the themes of how people think, how we weigh risks, etc, without the same arrogance. A different kind of arrogance, perhaps, but if so, a much softer kind than HJPEV.
-> I did read quite a bit of Animorphs: The Reckoning, but eventually wasn't enjoying it enough to continue (I vaguely recall the Visser >!using Leeran Hypersight to ambush the heroes!< although it was confusing).
 > 
+> I did read quite a bit of Animorphs: The Reckoning, but eventually wasn't enjoying it enough to continue (I vaguely recall the Visser >!using Leeran Hypersight to ambush the heroes!< although it was confusing).
 
 ---
 

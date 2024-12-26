@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.royalroad.com/fiction/20385/gobbos-with-guns/chapter/288806/fray-12
-* Score: 9
+* Score: 8
 
 * Created: 2018-10-06T02:22:06
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (5 hours later)
 > 
 > Uhh, the next chapter is out!
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 hours later)
 >> 
 >> Crap, you're right!
->> 
 
->>> **u/causalchain** [+2] *
+>>> **u/causalchain** [+2]  (21 hours later)
 >>> 
 >>> This is such a good response.
->>> 
 
 ---
 

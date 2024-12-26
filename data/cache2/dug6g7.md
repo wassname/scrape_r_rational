@@ -2,7 +2,7 @@
 
 * Author: u/Avuz_Id_Atol_Kel  *BookKeeper**
 * URL: https://www.reddit.com/r/rational/comments/dug6g7/rereading_mother_of_learning_i_stumbled_on_this/
-* Score: 82
+* Score: 86
 
 * Created: 2019-11-10T19:38:59
 
@@ -22,48 +22,43 @@ I wonder if it was foreshadowing or just a coincidence. With this story you neve
 
 ### Comments:
 
-> **u/EdLincoln6** [+19] *
+> **u/EdLincoln6** [+19]  (3 hours later)
 > 
 > >!Also, arguably the whole story takes place in a magically created "snow globe".!<
-> Makes me think of the bad movie *Cemetery Man.*
 > 
+> Makes me think of the bad movie *Cemetery Man.*
 
->> **u/Paxona** [+5] *
+>> **u/Paxona** [+5]  (7 hours later)
 >> 
 >> >bad movie Cemetery Man
->> How does one live with such abysmal taste?
 >> 
+>> How does one live with such abysmal taste?
 
->>> **u/MultipartiteMind** [+3] *
+>>> **u/MultipartiteMind** [+4]  (a day later)
 >>> 
 >>> <unfamiliar with the movie, curiously tries reading the Wikipedia plot synopsis>  
-
->>> ...what did I just read...  
-
->>> "*Cemetery Man* will frustrate viewers seeking narrative cohesion or coherence"  
-
->>> ***This.***
 >>> 
+>>> ...what did I just read...  
+>>> 
+>>> "*Cemetery Man* will frustrate viewers seeking narrative cohesion or coherence"  
+>>> 
+>>> ***This.***
 
->>>> **u/Paxona** [+2] *
+>>>> **u/Paxona** [+2]  (a day later)
 >>>> 
 >>>> Go watch it. It's fun, if anything.
->>>> 
 
-> **u/Argenteus_CG** [+26] *
+> **u/Argenteus_CG** [+23]  (14 minutes later)
 > 
 > Seems like foreshadowing for sure to me. Good find!
-> 
 
-> **u/pthierry** [+1] *
+> **u/pthierry** [+1]  (13 days later)
 > 
 > Makes me want to read it again from start… While waiting for the next chapters.
-> 
 
->> **u/pleasedothenerdful** [+3] *
+>> **u/pleasedothenerdful** [+3]  (23 days later)
 >> 
 >> I'm starting to fear I'll have time to do so before the last chunk drops.
->> 
 
 ---
 

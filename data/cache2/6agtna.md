@@ -50,87 +50,90 @@ Next time the challenge is **Low Budget**. Prose fiction doesn't actually have b
 
 ### Comments:
 
-> **u/arenavanera** [+16] *
+> **u/arenavanera** [+16]  (5 hours later)
 > 
 > [Untitled Unsong Story](https://medium.com/@arenavanera/untitled-unsong-story-2d100eb4fd70)
-> 590 words
-> Content Warning: Hell, torture
 > 
+> 590 words
+> 
+> Content Warning: Hell, torture
 
->> **u/avret** [+6]  *SDHS rationalist**
+>> **u/avret** [+4]  *SDHS rationalist* (9 hours later)
 >> 
 >> CW that. 
 >> *Please.*
->> 
 
->>> **u/Kishoto** [+3] *
+>>> **u/Kishoto** [+3]  (12 hours later)
 >>> 
 >>> > CW 
->>> What does CW mean? I'm just curious.
 >>> 
+>>> What does CW mean? I'm just curious.
 
->>>> **u/ElizabethRobinThales** [+7]  *Practically Perfect in Every Way**
+>>>> **u/ElizabethRobinThales** [+7]  *Practically Perfect in Every Way* (15 hours later)
 >>>> 
 >>>> I might be entirely off base, but I believe it means "content warning," which is similar to "trigger warning."
->>>> 
 
->>>>> **u/avret** [+2]  *SDHS rationalist**
+>>>>> **u/avret** [+2]  *SDHS rationalist* (15 hours later)
 >>>>> 
 >>>>> Yep. (In this case specifically for hell and torture/body horror content)
->>>>> 
 
->> **u/rhaps0dy4** [+3] *
+>> **u/rhaps0dy4** [+3]  (2 days later)
 >> 
 >> >Further, an acronym for “The Crucible” was “Club hereTic”.
->> You mean an anagram.
 >> 
+>> You mean an anagram.
 
->>> **u/arenavanera** [+2] *
+>>> **u/arenavanera** [+2]  (2 days later)
 >>> 
 >>> Whoops, fixed.  Thanks!
->>> 
 
->> **u/zconjugate** [+2] *
+>> **u/zconjugate** [+2]  (3 days later)
 >> 
 >> > a dramatized story of the 1878 Salem witchcraft trials
->> The Salem witch trials were in 1692/1693 (https://en.wikipedia.org/wiki/Salem_witch_trials). Unless the narrator is supposed to be getting it wrong.
 >> 
+>> The Salem witch trials were in 1692/1693 (https://en.wikipedia.org/wiki/Salem_witch_trials). Unless the narrator is supposed to be getting it wrong.
 
->>> **u/arenavanera** [+1] *
+>>> **u/arenavanera** [+1]  (3 days later)
 >>> 
 >>> Huh.  I apparently got them confused with https://en.wikipedia.org/wiki/Salem_witchcraft_trial_(1878).  It's plausible the narrator got the date wrong too, but I fixed it to avoid propagating misinformation.
->>> (Totally off topic: that might be a fun variant of the "kabbalah in hell" rule -- all the kabbalah you do in hell has one subtle flaw.)
 >>> 
+>>> (Totally off topic: that might be a fun variant of the "kabbalah in hell" rule -- all the kabbalah you do in hell has one subtle flaw.)
 
->> **u/ABZB** [+1]  *Count of Real Numbers**
+>> **u/ABZB** [+1]  *Count of Real Numbers* (4 days later)
 >> 
 >> Damn that's good.
->> 
 
-> **u/Kishoto** [+6] *
+> **u/Kishoto** [+8]  (an hour later)
 > 
 > [To You, 30 Years From Now](https://www.fanfiction.net/s/12483816/1/To-You-30-Years-From-Now)
-> Word Count: 7,824.
-> Category: Attack on Titan 
-> (it was the last thing I was reading before I saw the challenge :D )
 > 
+> Word Count: 7,824.
+> 
+> Category: Attack on Titan 
+> 
+> (it was the last thing I was reading before I saw the challenge :D )
 
-> **u/ardetor** [+3] *
+> **u/ardetor** [+3]  (a day later)
 > 
 > [Ascension](https://ardetor.wordpress.com/2017/05/12/prologue-ascension/), the prologue to *The Road to Paradise*, a rational Bleach fanfic that I've just started to write.
-> Word count: 1152
-> Series: Bleach (ended August 22, 2016)
-> ---
-> Aside - I hadn't actually *planned* to write a prologue, but it basically wrote itself. Turns out the story might actually flow better this way. Whaddaya know.
 > 
+> Word count: 1152
+> 
+> Series: Bleach (ended August 22, 2016)
+> 
+> ---
+> 
+> Aside - I hadn't actually *planned* to write a prologue, but it basically wrote itself. Turns out the story might actually flow better this way. Whaddaya know.
 
-> **u/royishere** [+2] *
+> **u/royishere** [+2]  (21 hours later)
 > 
 > [Silence and Blood](https://docs.google.com/document/d/1yue7tHUqVtuG-7uOxI7S9Zq8LusHT-oeVIvA1S5xYs4/edit?usp=sharing)
-> The first part of the prologue to what I hope will be a much larger narrative, but reasonably self-contained. 
-> Universe: Fire Emblem Fates
-> 777 words.
 > 
+> The first part of the prologue to what I hope will be a much larger narrative, but reasonably self-contained. 
+> 
+> Universe: Fire Emblem Fates
+> 
+> 777 words.
 
 ---
 

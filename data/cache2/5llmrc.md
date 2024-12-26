@@ -20,109 +20,130 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/LiteralHeadCannon** [+13] *
+> **u/LiteralHeadCannon** [+12]  (3 hours later)
 > 
 > Thing that's bugged me lately - people using the word "evidence" to mean "thing that is pretty much impossible unless the hypothesis is true" rather than "thing that is more likely if the hypothesis is true than if it is false".  To uphold the "innocent until proven guilty" standard, our courts of law need to demand the former, but to function epistemologically as humans, we have to settle for the latter.
-> 
 
->> **u/MereInterest** [+13] *
+>> **u/MereInterest** [+13]  (7 hours later)
 >> 
 >> I think that this can be explained mostly by people having very poor Bayesian priors.  My mental model of humans is that they use Bayesian reasoning, with roundoff errors.  In general, this works fairly well.  It fails when somebody has a prior probability that is very close to either 0 or 1.
->> When the belief is close to 0 or 1, evidence can be observed, yet be insufficient to change the Bayesian prior, due to the roundoff errors.  For example, consider a belief A, with a prior of 10%, stored in 10% increments.  An event B occurs, which is weak evidence for belief, bringing the posterior probability up to 15%.  However, since the probability is stored in units of 10%, this rounds back to 10%, having no change.
->> In general, the lower the prior probability, the stronger the evidence must be in order to cause any change at all to occur.  In order to have a change of `post - prior > epsilon/2`, where `prior` and `post` are the prior and posterior probabilities, and `epsilon` is the size of the unit being used, then the strength of the evidence in order to cause any change in belief is as follows.
->>     P(A|B) / P(A) > 1 + epsilon/(2*prior)
->> So, when somebody says that they want to see "evidence", they are stating that they want to see evidence that is strong enough to change their belief.  If somebody has an unusually extreme prior, then the amount of evidence needed becomes increasingly high.
->> I'll fully admit that I do this, too.  For example, my prior for "Homeopathic medicine works better than placebo." is low enough that hearing the anecdotal evidence of friends and family has no effect.
->> This is also why summaries can be useful, even if a person has heard each constituent piece of information before.  A series of 10 events can each be discounted, one at a time.  Taken together, however, there is enough of a change to overcome the roundoff error, and cause a change in belief.
 >> 
+>> When the belief is close to 0 or 1, evidence can be observed, yet be insufficient to change the Bayesian prior, due to the roundoff errors.  For example, consider a belief A, with a prior of 10%, stored in 10% increments.  An event B occurs, which is weak evidence for belief, bringing the posterior probability up to 15%.  However, since the probability is stored in units of 10%, this rounds back to 10%, having no change.
+>> 
+>> In general, the lower the prior probability, the stronger the evidence must be in order to cause any change at all to occur.  In order to have a change of `post - prior > epsilon/2`, where `prior` and `post` are the prior and posterior probabilities, and `epsilon` is the size of the unit being used, then the strength of the evidence in order to cause any change in belief is as follows.
+>> 
+>>     P(A|B) / P(A) > 1 + epsilon/(2*prior)
+>> 
+>> So, when somebody says that they want to see "evidence", they are stating that they want to see evidence that is strong enough to change their belief.  If somebody has an unusually extreme prior, then the amount of evidence needed becomes increasingly high.
+>> 
+>> I'll fully admit that I do this, too.  For example, my prior for "Homeopathic medicine works better than placebo." is low enough that hearing the anecdotal evidence of friends and family has no effect.
+>> 
+>> This is also why summaries can be useful, even if a person has heard each constituent piece of information before.  A series of 10 events can each be discounted, one at a time.  Taken together, however, there is enough of a change to overcome the roundoff error, and cause a change in belief.
 
->>> **u/zarraha** [+3] *
+>>> **u/zarraha** [+3]  (12 hours later)
 >>> 
 >>> This is very well thought out.  As usual most models break down near the extreme cases.  I think the biggest change I would make here is that the rounding increment isn't constant but probably has some tapering near the edges.  Otherwise there would be a smallest nonzero belief.  Which, maybe there is because people can't truly comprehend massively larger or massively small things.  But people can distinguish between 1% and 0.1% better than they can distinguish between 51% and 50.1%
->>> Also, the thing about summaries is interesting.  Since you have a finite amount of processing power then perhaps it is in fact rational to file away weak evidence and not worry about attempting to finely tune your probabilities until you accumulate enough of it to actually make a significant difference.
 >>> 
+>>> Also, the thing about summaries is interesting.  Since you have a finite amount of processing power then perhaps it is in fact rational to file away weak evidence and not worry about attempting to finely tune your probabilities until you accumulate enough of it to actually make a significant difference.
 
->>>> **u/gbear605** [+1]  *history’s greatest story**
+>>>> **u/gbear605** [+1]  *history’s greatest story* (a day later)
 >>>> 
 >>>> That's the difference between absolute thresholds and relative thresholds.
->>>> 
 
->>>> **u/MereInterest** [+1] *
+>>>> **u/MereInterest** [+1]  (a day later)
 >>>> 
 >>>> Thank you.  It is something I've been musing on for a while.  It is a rough model, but it has helped me to understand some confusing behavior that people exhibit.
->>>> I like your point about the irregular spacing of categories.  A particular individual might, for example, have categories at 1%, 5%, 25%, 50%, 75% 95%, and 99%.  The formula for strength of evidence needed would still work, but `epsilon` would be the size of the next gap to be overcome, rather than the size of all gaps.
 >>>> 
+>>>> I like your point about the irregular spacing of categories.  A particular individual might, for example, have categories at 1%, 5%, 25%, 50%, 75% 95%, and 99%.  The formula for strength of evidence needed would still work, but `epsilon` would be the size of the next gap to be overcome, rather than the size of all gaps.
 
->>>>> **u/zarraha** [+1] *
+>>>>> **u/zarraha** [+1]  (a day later)
 >>>>> 
 >>>>> I feel like the smallest ones should be much smaller, down at 1/1000, 1/1,000,000, 1/1,000,000,000, and possibly smaller.  People can distinguish between "What if this random two digit number I roll happens to be exactly 99" versus "What if I get hit by lightning" versus "What if aliens attack and destroy my city"  At least in terms of orders of magnitude.  Anything for which there is some possible evidence that would convince you it's true "like seeing it with your own eyes" is something which you hold a nonzero prior for.  Although the prior for "someone is faking this evidence to trick me" is often larger, and rightfully so.
->>>>> 
 
-> **u/chthonicSceptre** [+3]  *Highly Unlikely**
+> **u/chthonicSceptre** [+3]  *Highly Unlikely* (9 hours later)
 > 
 > https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.e3dhy2ger
-> Pretty much what it says on the tin.
 > 
+> Pretty much what it says on the tin.
 
-> **u/Dwood15** [+3] *
+> **u/Dwood15** [+3]  (10 hours later)
 > 
 > *Weekly Monday Post*
-
-> ---
-
-> I have done nothing this past week on /u/ketura's !Pokemon project besides lurk in the discussion on various biomes. If you wanna check it out, come join our /r/rational Discord! 
-> ---
-> School starts again. 14 credits. Chemistry, an English class masquerading as a software engineering class, Linear Algebra course, and Calculus.
-> My third run of Calculus since beginning Uni, taking a 3-year break, then starting again. Sometimes I hate my chosen profession's (Computer Science) degree path.
-> Also, I'm packing up my stuff, and over break I have thrown away approximately 10% of the mass from my apartment, and I'm also storing about 30% of apartment-mass at my parents. The heaviest things I own is a pair of adjustable weights that go up to 50 lbs each. I'm a weakling, so about 40 of those lbs will be left at home unless I start gaining serious muscle in my arms.
-> What does all this translate to? It means a couple of things. First, most of my **permanent** university mass now fits into the trunk of my car without complaint. I have a few things which won't - my nice office chair, and some of the bulk food I got at Costco.  The goal was to have enough room to ferry someone to/from my hometown to my college town comfortably. In this process I have eliminated 3 medium boxes, a medium tote box, and 2 large shoeboxes. (each one could fit a pair of winter boots).
-> I estimate that the reduction in mass will reduce the number of runs I have to make to my car when I move into a new room at my complex by about 50%. I should be done unloading my car in 30 minutes from the time I get my room keys to a completely unpacked room. 
-> That said, now that I have all this free space, I was tempted to take even more crap up with me, but decided against it. There's one thing I left home last semester, (my drawing tablet), which I plan on taking up to college with me.
-> ---
-> I received a N3DS for Christmas, and decided to modify the system with some custom firmware. Until recently, there was no way to hack the N3DS XL with cfw unless you hardmodded or had access to long-removed games from the DSi store. Luckily, there have been new hacks released (soundhax) which allows homebrew software to run, and shortly will be a new slowhax (custom firmware entrypoint) for the N3ds XL of the 11.0-11.2 firmware versions. I look forward to it.
-> Side note: Sun/Moon is really good.
-> ---
-> On the note of Pokemon, my rational!Pokemon story is coming along, slowly. I have defined the length I want to aim for per chapter, and the number of chapters I want the story to encompass. Each chapter should be about 10 pages minimum using default 11 pt, single-spaced font Docs uses, and there should be about 8-15 chapters total. The 15 is if I choose some extended motivations of some of the main cast and an epilog. Eight chapters is if I keep the same character's motivations where they are right about now. The full story length will almost certainly fluctuate as I write it.
-> The largest problem has to be nailing down the scope. /u/DaystarEld and /u/alexanderwales have both discussed at various points on their writing podcast the importance of having a fleshed out world - While I'm planning this out, the idea is that the world feels like it began long, long before the story did, and that the world will continue long after as well, which is why there's a range of 7 chapters right now.
-> I'm about a month out before the first chapter is drafted, and probably two months from the time it gets released. If you are interested in being an alpha/beta reader, let me know and I'll add you to a list of people to ping when the time comes.
 > 
+> ---
+> 
+> I have done nothing this past week on /u/ketura's !Pokemon project besides lurk in the discussion on various biomes. If you wanna check it out, come join our /r/rational Discord! 
+> 
+> ---
+> 
+> School starts again. 14 credits. Chemistry, an English class masquerading as a software engineering class, Linear Algebra course, and Calculus.
+> 
+> My third run of Calculus since beginning Uni, taking a 3-year break, then starting again. Sometimes I hate my chosen profession's (Computer Science) degree path.
+> 
+> Also, I'm packing up my stuff, and over break I have thrown away approximately 10% of the mass from my apartment, and I'm also storing about 30% of apartment-mass at my parents. The heaviest things I own is a pair of adjustable weights that go up to 50 lbs each. I'm a weakling, so about 40 of those lbs will be left at home unless I start gaining serious muscle in my arms.
+> 
+> What does all this translate to? It means a couple of things. First, most of my **permanent** university mass now fits into the trunk of my car without complaint. I have a few things which won't - my nice office chair, and some of the bulk food I got at Costco.  The goal was to have enough room to ferry someone to/from my hometown to my college town comfortably. In this process I have eliminated 3 medium boxes, a medium tote box, and 2 large shoeboxes. (each one could fit a pair of winter boots).
+> 
+> I estimate that the reduction in mass will reduce the number of runs I have to make to my car when I move into a new room at my complex by about 50%. I should be done unloading my car in 30 minutes from the time I get my room keys to a completely unpacked room. 
+> 
+> That said, now that I have all this free space, I was tempted to take even more crap up with me, but decided against it. There's one thing I left home last semester, (my drawing tablet), which I plan on taking up to college with me.
+> 
+> ---
+> 
+> I received a N3DS for Christmas, and decided to modify the system with some custom firmware. Until recently, there was no way to hack the N3DS XL with cfw unless you hardmodded or had access to long-removed games from the DSi store. Luckily, there have been new hacks released (soundhax) which allows homebrew software to run, and shortly will be a new slowhax (custom firmware entrypoint) for the N3ds XL of the 11.0-11.2 firmware versions. I look forward to it.
+> 
+> Side note: Sun/Moon is really good.
+> 
+> ---
+> 
+> On the note of Pokemon, my rational!Pokemon story is coming along, slowly. I have defined the length I want to aim for per chapter, and the number of chapters I want the story to encompass. Each chapter should be about 10 pages minimum using default 11 pt, single-spaced font Docs uses, and there should be about 8-15 chapters total. The 15 is if I choose some extended motivations of some of the main cast and an epilog. Eight chapters is if I keep the same character's motivations where they are right about now. The full story length will almost certainly fluctuate as I write it.
+> 
+> The largest problem has to be nailing down the scope. /u/DaystarEld and /u/alexanderwales have both discussed at various points on their writing podcast the importance of having a fleshed out world - While I'm planning this out, the idea is that the world feels like it began long, long before the story did, and that the world will continue long after as well, which is why there's a range of 7 chapters right now.
+> 
+> I'm about a month out before the first chapter is drafted, and probably two months from the time it gets released. If you are interested in being an alpha/beta reader, let me know and I'll add you to a list of people to ping when the time comes.
 
->> **u/DaystarEld** [+1]  *Pokémon Professor**
+>> **u/DaystarEld** [+1]  *Pokémon Professor* (12 hours later)
 >> 
 >> I'm not sure what 10 pages of 11pt font looks like in terms of word count, but 8 chapters is more of a short story (novella, really), and even 15 chapters isn't particularly long when compared to a lot of online fiction. 
->> In which case, I would re-adjust expectations in terms of world building. You don't need to go into super-deep detail about things if you have a tight, focused story in mind. Just make sure there aren't any obvious irrationality or low-hanging fruit.
 >> 
+>> In which case, I would re-adjust expectations in terms of world building. You don't need to go into super-deep detail about things if you have a tight, focused story in mind. Just make sure there aren't any obvious irrationality or low-hanging fruit.
 
->>> **u/Dwood15** [+2] *
+>>> **u/Dwood15** [+2]  (12 hours later)
 >>> 
 >>> All right, so you got me thinking of length here. According to here: http://norvig.com/mayzner.html, we get an average of 4.79 characters-per-word. I'll round up to 5 chars per word for convenience. If I write a maximum of 10 pgs per chapter, that's ~7,000 words per chapter, with paragraph tabs. With line breaks every paragraph, that brings me to a maximum of ~5.63k wpc. At 8 chapters, that's 45k words, or about 3/4 the length of a novel of 60k words.
->>>  I'm starting to think 10 pages per chapter will be a bad distribution. Shorter chapters are easier to review and copyedit, whereas longer chapters can be more difficult, so I will likely readjust the goals now that I see how many words are per chapter. If I may, do you know OoS's average wpc count?
->>> Edit: 
->>> Forgot about ff.net's chapter headers. There's 287,226 words and 29 chapters. You have an average of 7,340 words per chapter. So, I'd guess you're probably at ~20 pages per chapter with my system, what with your dialog line breaks and all.
 >>> 
+>>>  I'm starting to think 10 pages per chapter will be a bad distribution. Shorter chapters are easier to review and copyedit, whereas longer chapters can be more difficult, so I will likely readjust the goals now that I see how many words are per chapter. If I may, do you know OoS's average wpc count?
+>>> 
+>>> Edit: 
+>>> 
+>>> Forgot about ff.net's chapter headers. There's 287,226 words and 29 chapters. You have an average of 7,340 words per chapter. So, I'd guess you're probably at ~20 pages per chapter with my system, what with your dialog line breaks and all.
 
->>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (13 hours later)
 >>>> 
 >>>> Yep, early chapters were about 5-6k words, and it crept upward from there until the last dozen or so have been 10k-12k each. But I publish monthly, so long chapters are kind of the least I can do? :P
->>>> 
 
-> **u/pranatool** [+3] *
+> **u/pranatool** [+3]  (a day later)
 > 
 > I was hoping for a bit of help interpreting a moral argument in an article I read recently. Its an argument for why eating meat is in fact moral and acceptable. The two arguments I'm not sure about are the compassion argument (especially the part about what defines suffering and how animals are incapable of this) and his environmental argument. He cites environmental studies, but unfortunately I lack the skill to examine those studies with a critical enough eye to determine their veracity. Thanks in advance! Also its a pretty short article.
 > Article in question: http://www.richardcarrier.info/archives/804
-> 
 
->> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (a day later)
 >> 
 >> I dislike the compassionate argument because...frankly, I don't care, my human brain extends my empathy system infrequently and inconsistently to nonhuman life and never manages to actually attach much value to it besides that happiness it brings to humans. 
->> I do however, take umbrage to his position on the environmental side of things. He says things like "burning down forests for pasture land is a one time cost" which ignores the ongoing cost of having less trees filtering C02. 
->> He also goes off on this completely irrelevant and distracting tangent about how we get lots of stuff from animals that aren't food, which is completely unrelated to the environmental costs associated with the industry. He does this like three freaking times. 
->> He also completely misses the fact that tropic levels exist. Sure if you replaced all the animal feed food with human food, you'd still have to invest resources growing that food, so in that regard, its a bit of a wash. But his argument that you get more *food energy* out of cows than you put in to make them is both wrong and thermodynamically impossible. The most simplistic take on tropic levels is the abstraction that follows:
->> "It takes 10 pounds of grain to make 1 pound of cow. It also takes 10 pounds of cow to make 1 pound of human. It takes 10 pounds of human to make 1 pound of giant purple people eater."
->> But, you could also feed that 10 pounds of grain directly to a human (not that grain specifically, you would need to not for instance [grow alfalfa in mass quantities in a giant desert](http://slatestarcodex.com/2015/05/11/california-water-you-doing/) and instead grow something people could actually eat).
->> He tries to distract from this fact with the economic implications, saying that you get more economic value out of animals than you put into them, which is a distraction from the argument, but he himself acknowledges that the actual ratio of food out to food in of 4:1 (4 kg non-waste input for every 1 kg usable output). Dairy farming is better about this, much better, and he's right that it's a smart thing to do, but the fact remains that you're supplying cows you plan on eating with 4 times the food you're going to get out of it. 
->> I don't think people should have to stop eating meat entirely, but the fact remains that consuming as much meat as the average American does in their diet is a rather irresponsible use of our planet's limited natural resources.
 >> 
+>> I do however, take umbrage to his position on the environmental side of things. He says things like "burning down forests for pasture land is a one time cost" which ignores the ongoing cost of having less trees filtering C02. 
+>> 
+>> He also goes off on this completely irrelevant and distracting tangent about how we get lots of stuff from animals that aren't food, which is completely unrelated to the environmental costs associated with the industry. He does this like three freaking times. 
+>> 
+>> He also completely misses the fact that tropic levels exist. Sure if you replaced all the animal feed food with human food, you'd still have to invest resources growing that food, so in that regard, its a bit of a wash. But his argument that you get more *food energy* out of cows than you put in to make them is both wrong and thermodynamically impossible. The most simplistic take on tropic levels is the abstraction that follows:
+>> 
+>> "It takes 10 pounds of grain to make 1 pound of cow. It also takes 10 pounds of cow to make 1 pound of human. It takes 10 pounds of human to make 1 pound of giant purple people eater."
+>> 
+>> But, you could also feed that 10 pounds of grain directly to a human (not that grain specifically, you would need to not for instance [grow alfalfa in mass quantities in a giant desert](http://slatestarcodex.com/2015/05/11/california-water-you-doing/) and instead grow something people could actually eat).
+>> 
+>> He tries to distract from this fact with the economic implications, saying that you get more economic value out of animals than you put into them, which is a distraction from the argument, but he himself acknowledges that the actual ratio of food out to food in of 4:1 (4 kg non-waste input for every 1 kg usable output). Dairy farming is better about this, much better, and he's right that it's a smart thing to do, but the fact remains that you're supplying cows you plan on eating with 4 times the food you're going to get out of it. 
+>> 
+>> I don't think people should have to stop eating meat entirely, but the fact remains that consuming as much meat as the average American does in their diet is a rather irresponsible use of our planet's limited natural resources.
 
 ---
 

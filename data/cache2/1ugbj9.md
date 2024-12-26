@@ -64,164 +64,215 @@ For example, a **Wise Reader** will say, "I was bored by Korra." A **Critical Re
 
 ### Comments:
 
-> **u/None** [+9] *
+> **u/None** [+8]  (5 hours later)
 > 
 > This is why God invented Google Docs.  Seriously: the highlight-and-comment features are great for editing.
-> 
 
->> **u/G01denW01f11** [+3] *
+>> **u/G01denW01f11** [+3]  (7 hours later)
 >> 
 >> Agreed. Critiquing this would rate much higher in my list of "things I want to do" if a Google Doc were available.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (11 hours later)
 >>> 
 >>> I put a link to a google doc in the original post. But if you want to critique this (which I welcome and encourage), get it to me somewhere else, either in the thread I made about the story or in a private message, etc. I'd like to keep this thread for Wise Readings only.
->>> 
 
-> **u/DaystarEld** [+5]  *Pokémon Professor**
+> **u/DaystarEld** [+4]  *Pokémon Professor* (13 minutes later)
 > 
 > Just started reading, but right off the bat, I'm going to say that the intro doesn't work. We don't know enough to be engaged in the passive narration, and there are a number of times where it draws you out of the story:
-> "although who combed them no one can say."
-> "What his unfocused eyes see, no one has ever asked."
-> Additionally, this saying, whether real or not, does not make sense:
-> >As the people of the city are fond of saying, If you don't enter the tigers den, you will never catch its cub. By which they mean, stay out of the tiger's den!
-> This: 
-> >*First, survive.*
-> Should be where your story starts. It's far too good a beginning line to waste, and as I think I saw being discussed earlier, in medias res is unnecessary for a character as potentially compelling as the Avatar.
-> >Korra held still, gazing up at the sky, the long green shimmering patterns filling a hazy red sheet. And some part of Korra knew that as long as she remained looking at the southern lights, she would not die.
-> Is she becoming delusional at this point? Because as a reader I see no reason for this belief.
-> The amount of sleepy confusion before and during the celebration is too high. It's disorienting and jarring as a reader to keep getting pulled in and out of lucidity for so long. You can make the same point while still cutting it down, and change the mid-celebration drowsiness to her mind wandering instead.
-> >"*I* would like to go with Tenzin," Korra said. 
-> This final comment of hers, especially in context, doesn't really fit, and the emphasis doesn't seem to have a purpose.  This entire scene seems a bit off to me, and it might be better to use the cartoon's setting for the same conversation rather than having Korra force it so early.
-> This leads to my being able to answer the first question of yours:
-> I like the way Korra is portrayed in some regards, but in others she's just annoying. We want to sympathize with her chafing under Arnook's rules, and Katara's brief perspective helps with that, but in the end he's right: she IS immature and reckless, and that makes it hard not to see her as a brat without redeeming qualities.
-> Speaking just on a personal note: I would much rather Korra be smart and, if not mature, at least more observant. It's okay for her to be impulsive, but verbally bashing her head into a wall just makes her look dumb.  Her major flaws should be her overconfidence and inability to bend: she doesn't also need to be so bad at reading a situation and knowing when those she's talking to aren't listening to her.
-> >"You will go to Republic City and tell Tenzin that if he doesn't train you, I will cuff him behind the ear. Hmph! *My* son is certainly not going to refuse to train the Avatar. When I speak to his father about this..."
-> Confusing. Whose thoughts are these? It seems like Aang's at first, but "when I speak to his father about this" contradicts that.
-> Also, think about cutting the whole dialogue exchange with Unalaq, maybe put it at the beginning of the next chapter, especially if you're going to have it be a recurring thing.  It doesn't fit where it is.
-> Overall, there are a lot of small things I enjoyed: Korra's sense of self as the avatar is done really well, especially her belief that, despite others' disappointment in her, she brings something unique to the table.  Her using her connection to the previous Avatars is amusing too: I could imagine her faking a trance and trying to "channel" Aang to tell Tenzin off at some point.
-> The fire bending test was neat, though you use the "dragon" analogy a bit too often: once is enough, and afterword as descriptors (like a replacement for "master") is fine.  The other characters work, though I don't feel a particular bond to any of them but Katara, not coincidentally because we have a couple sections from her perspective. One from Tenzin's, and maybe even Arnook's, wouldn't be a bad idea.  Right now Arnook just seems rigid and bothersome.  If we knew that he knows just how dangerous the world out there has become, it would suddenly make a bit more sense to have him keeping Korra secluded until she's "ready."
 > 
+> "although who combed them no one can say."
+> 
+> "What his unfocused eyes see, no one has ever asked."
+> 
+> Additionally, this saying, whether real or not, does not make sense:
+> 
+> >As the people of the city are fond of saying, If you don't enter the tigers den, you will never catch its cub. By which they mean, stay out of the tiger's den!
+> 
+> This: 
+> 
+> >*First, survive.*
+> 
+> Should be where your story starts. It's far too good a beginning line to waste, and as I think I saw being discussed earlier, in medias res is unnecessary for a character as potentially compelling as the Avatar.
+> 
+> >Korra held still, gazing up at the sky, the long green shimmering patterns filling a hazy red sheet. And some part of Korra knew that as long as she remained looking at the southern lights, she would not die.
+> 
+> Is she becoming delusional at this point? Because as a reader I see no reason for this belief.
+> 
+> The amount of sleepy confusion before and during the celebration is too high. It's disorienting and jarring as a reader to keep getting pulled in and out of lucidity for so long. You can make the same point while still cutting it down, and change the mid-celebration drowsiness to her mind wandering instead.
+> 
+> >"*I* would like to go with Tenzin," Korra said. 
+> 
+> This final comment of hers, especially in context, doesn't really fit, and the emphasis doesn't seem to have a purpose.  This entire scene seems a bit off to me, and it might be better to use the cartoon's setting for the same conversation rather than having Korra force it so early.
+> 
+> This leads to my being able to answer the first question of yours:
+> 
+> I like the way Korra is portrayed in some regards, but in others she's just annoying. We want to sympathize with her chafing under Arnook's rules, and Katara's brief perspective helps with that, but in the end he's right: she IS immature and reckless, and that makes it hard not to see her as a brat without redeeming qualities.
+> 
+> Speaking just on a personal note: I would much rather Korra be smart and, if not mature, at least more observant. It's okay for her to be impulsive, but verbally bashing her head into a wall just makes her look dumb.  Her major flaws should be her overconfidence and inability to bend: she doesn't also need to be so bad at reading a situation and knowing when those she's talking to aren't listening to her.
+> 
+> >"You will go to Republic City and tell Tenzin that if he doesn't train you, I will cuff him behind the ear. Hmph! *My* son is certainly not going to refuse to train the Avatar. When I speak to his father about this..."
+> 
+> Confusing. Whose thoughts are these? It seems like Aang's at first, but "when I speak to his father about this" contradicts that.
+> 
+> Also, think about cutting the whole dialogue exchange with Unalaq, maybe put it at the beginning of the next chapter, especially if you're going to have it be a recurring thing.  It doesn't fit where it is.
+> 
+> Overall, there are a lot of small things I enjoyed: Korra's sense of self as the avatar is done really well, especially her belief that, despite others' disappointment in her, she brings something unique to the table.  Her using her connection to the previous Avatars is amusing too: I could imagine her faking a trance and trying to "channel" Aang to tell Tenzin off at some point.
+> 
+> The fire bending test was neat, though you use the "dragon" analogy a bit too often: once is enough, and afterword as descriptors (like a replacement for "master") is fine.  The other characters work, though I don't feel a particular bond to any of them but Katara, not coincidentally because we have a couple sections from her perspective. One from Tenzin's, and maybe even Arnook's, wouldn't be a bad idea.  Right now Arnook just seems rigid and bothersome.  If we knew that he knows just how dangerous the world out there has become, it would suddenly make a bit more sense to have him keeping Korra secluded until she's "ready."
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> Thanks, it's helpful, but it's a bit more than a Wise Reading. I added in some links to the OP that clarify what a Wise Reader is supposed to do and not do. Want to do an Exchange?
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (12 hours later)
 >>> 
 >>> Thanks for clarifying. Do you want to limit the feedback you get then, or...? The language may have been off, but I did my best to limit my feedback to the areas Card specifies: what confused me, what lost my interest, what didn't sit right.
->>> My understanding is that Wise Reading is more useful once the story is more firmly set. To put it more frankly, Wise Reading can help a good story become great, but when still on one of the early, rougher drafts, there are structural issues that still need to be worked out.
->>> What's an Exchange?
 >>> 
+>>> My understanding is that Wise Reading is more useful once the story is more firmly set. To put it more frankly, Wise Reading can help a good story become great, but when still on one of the early, rougher drafts, there are structural issues that still need to be worked out.
+>>> 
+>>> What's an Exchange?
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (12 hours later)
 >>>> 
 >>>> No, I'm happy for any kind of feedback, and I appreciate and will use yours, but I did intend for the feedback here just to be about Wise Reading. Also, see below for more details about Wise Reading.
->>>> Probably true. In any case, I should stop worrying about the first chapter and just move on already.
->>>> You Wise Read me, I Wise Read you. See my post below. Since Wise Readers and Dumbass Authors need to form a relationship, and since Wise Reading is somewhat costly in time and attention,  I thought that quid pro quo Wise Reading deals might be sensible.
 >>>> 
+>>>> Probably true. In any case, I should stop worrying about the first chapter and just move on already.
+>>>> 
+>>>> You Wise Read me, I Wise Read you. See my post below. Since Wise Readers and Dumbass Authors need to form a relationship, and since Wise Reading is somewhat costly in time and attention,  I thought that quid pro quo Wise Reading deals might be sensible.
 
->>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (12 hours later)
 >>>>> 
 >>>>> Gotcha. Sounds good: I post my Rational Pokemon chapters here, so whenever you have time feel free to offer Wise Reader (or any other) feedback to them, and I'll keep an eye out for your new chapters and try to do so for you as well :)
->>>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (6 hours later)
 >> 
 >> Good critiques. I had similar thoughts about rearranging the opening and the bit about Korra. Though past these advice(s?) I have nothing to say. Nicely done chapter, OP!
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 hours later)
 > 
 > >I hope Wise Reading and having Wise Readers helps your writing improve.
-> Indeed. Something to add to the sidebar? Many thanks, WAT.
 > 
+> Indeed. Something to add to the sidebar? Many thanks, WAT.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (5 hours later)
 >> 
 >> Also, typo thread.
->> >"Not," they said, "Yet."
->> The "yet" shouldn't be capitalized.
->> >The find the Avatar
->> Should be "They find the Avatar"
->> Is "Human Killer" a name from canon? Because... Seriously? "Human Killer"?
->> >"Everyone is watching you.
->> Missing close-quote.
->> >And wasn't Arnook always telling her that the Avatar must be worldly and not tied to one place?
->> Shouldn't it be "*not* worldly"?
->> >Arnook bowed briefly to Tenzin and clasping Pema's hand.
->> Verb confusion there. Should be "clasped".
 >> 
+>> >"Not," they said, "Yet."
+>> 
+>> The "yet" shouldn't be capitalized.
+>> 
+>> >The find the Avatar
+>> 
+>> Should be "They find the Avatar"
+>> 
+>> Is "Human Killer" a name from canon? Because... Seriously? "Human Killer"?
+>> 
+>> >"Everyone is watching you.
+>> 
+>> Missing close-quote.
+>> 
+>> >And wasn't Arnook always telling her that the Avatar must be worldly and not tied to one place?
+>> 
+>> Shouldn't it be "*not* worldly"?
+>> 
+>> >Arnook bowed briefly to Tenzin and clasping Pema's hand.
+>> 
+>> Verb confusion there. Should be "clasped".
 
-> **u/G01denW01f11** [+2] *
+> **u/G01denW01f11** [+2]  (7 hours later)
 > 
 > OP, if you don't get enough here, there's a site called Scribophile you might want to check out. People tend to have very useful feedback there. And there's an active group devoted to fanfic, so no worries about being (completely) glossed over due to 'prejudice.' 
-> As a note, I prefer not to ask questions of my readers until after I've gotten their feedback. If someone mentions a problem you specifically ask about, that's slightly different than if they mention a problem you didn't.
 > 
+> As a note, I prefer not to ask questions of my readers until after I've gotten their feedback. If someone mentions a problem you specifically ask about, that's slightly different than if they mention a problem you didn't.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (11 hours later)
 >> 
 >> Thanks, I'll check it out.
->> True. Card recommends using the questions only in order to "train" the Wise Reader. Once the Wise Reader knows to give their own honest reactions to every element of the story, you can drop the specific questions.
 >> 
+>> True. Card recommends using the questions only in order to "train" the Wise Reader. Once the Wise Reader knows to give their own honest reactions to every element of the story, you can drop the specific questions.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (11 hours later)
 > 
 > So let me be clear about something:
-> Thanks for everyone who wants to critique my writing (it's helpful and I'll use it), but that's *not what this thread is about*. That's what the questions are for. Typos and grammar mistakes are great. Tell me about them, *but not here.* Tell me how to fix my story, *but not here.* Tell me I'm an idiot who should throw away my pen and resign myself to mediocrity, *but not here.* 
-> [Card says there are three questions a Wise Reader is asking themself](http://docmagik.blogspot.com/2012/03/how-to-be-wise-reader.html):
-> > "Huh?" This is when you're confused. Something doesn't make sense.  It might be because you don't understand something about the crazy sci-fi world your friend has created.  Or it might be because you just can't picture what's happening the way your friend described it.  You want to let your friend know anywhere that you kind of lost track of things.
-> > "Oh yeah?"  This is for when the book is straining believability.  All books require some suspension of disbelief in order to work--they're all made up, after all--but this is for when something was a smidge too unbelievable.  Maybe the hero has been shot six times and hasn't fallen down yet.  Or maybe it's that a side character has acted a certain way all through the book, and now they're doing something that seems totally unlike what you've come to think they'd do.  Or maybe your male friend's female characters aren't coming across like women.  Any time something is kicking you out of the story, thinking, "The world isn't really like that," you're doing your friend a favor to let them know.
-> > "So what?"  Who cares?  I'm bored.  I can come back to this later.  These are moments your friend needs to know about.  If you ever find your mind wandering, mark that place in the manuscript.  Even if it's just that you put the story down to go get some food, unless you carried it with you there's a good chance that might be a signal things are slow, and the writer needs to know.  This might be a single scene or it might be a whole sub-plot, but knowing when readers lose interest is gold for a writer.
-> [Here's another person's advice](http://lachristensen.wordpress.com/2012/02/24/alpha-reading/), which she calls "alpha-reading":
-> > When a writer requests the help of first readers, they are not looking to know what their readers would have written. They want to know the effect their book is having in its current form.  For example, a writer wants to know:
-> > Clarity.  Do you understand what is going on? Can you picture the setting and the characters in your head? Can you see where everyone is in relationship to each other?  Was the fight scene confusing? Is my word choice obscure?
-> > Impact.  Was this part funny or did it fall flat?  Do you like these characters at this moment? Are you frustrated with them? Do you love them? Are you afraid? Is this intense? Are you bored? Do you wish you could stop reading? Do you feel like you’re there with the characters?  Was this part a tear-jerker or were you annoyed?  Was the ending satisfying or did I drop the ball?
-> > Believability.  How are my characters’ reactions? Does this feel plausible to you?  Is this the way you handle a gun in your experience?  Do I need to do further research about xyz?  Does my fight scene feel real? Does this fit together and make sense?
-> > Interest.  Does this fascinate you the way it fascinates me?  Are you hooked?  Is this too much detail or not enough?
-> > Alpha-readers, especially alpha-readers who are also writers, will  sometimes try to “fix” the book like an editor might do or “rewrite” it to suit their tastes. The problem with this is that unless you know what the writer is aiming for, you could do more damage than good–or simply waste everyone’s time tearing something apart that actually doesn’t need fixing.  So the less the alpha-reader tries to “fix” and the more time they spend recreating their experience and answering a writer’s unspoken questions, the more good they will do. This is the challenge. I am not perfect at it, but I’m getting better.
-> Wise/Alpha Reading is different from what people are used to doing when they read someone else's work with a critical eye. You're not critiquing, you're *reporting*. You're certainly not offering suggestions. Wise Reading difficult and has to be learned (and I'm new at this too), and that's why Card talks about "training" your Wise Reader and the developing relationship between a writer and Wise Reader.
-> Wise Readers and writers need to get to know each other. It might be helpful to do Wise Reading Exchanges where two writers will Wise Read each other's works and offer their honest reactions and feelings as they were reading the story. Anyone want to do such an exchange?
 > 
+> Thanks for everyone who wants to critique my writing (it's helpful and I'll use it), but that's *not what this thread is about*. That's what the questions are for. Typos and grammar mistakes are great. Tell me about them, *but not here.* Tell me how to fix my story, *but not here.* Tell me I'm an idiot who should throw away my pen and resign myself to mediocrity, *but not here.* 
+> 
+> [Card says there are three questions a Wise Reader is asking themself](http://docmagik.blogspot.com/2012/03/how-to-be-wise-reader.html):
+> 
+> > "Huh?" This is when you're confused. Something doesn't make sense.  It might be because you don't understand something about the crazy sci-fi world your friend has created.  Or it might be because you just can't picture what's happening the way your friend described it.  You want to let your friend know anywhere that you kind of lost track of things.
+> 
+> > "Oh yeah?"  This is for when the book is straining believability.  All books require some suspension of disbelief in order to work--they're all made up, after all--but this is for when something was a smidge too unbelievable.  Maybe the hero has been shot six times and hasn't fallen down yet.  Or maybe it's that a side character has acted a certain way all through the book, and now they're doing something that seems totally unlike what you've come to think they'd do.  Or maybe your male friend's female characters aren't coming across like women.  Any time something is kicking you out of the story, thinking, "The world isn't really like that," you're doing your friend a favor to let them know.
+> 
+> > "So what?"  Who cares?  I'm bored.  I can come back to this later.  These are moments your friend needs to know about.  If you ever find your mind wandering, mark that place in the manuscript.  Even if it's just that you put the story down to go get some food, unless you carried it with you there's a good chance that might be a signal things are slow, and the writer needs to know.  This might be a single scene or it might be a whole sub-plot, but knowing when readers lose interest is gold for a writer.
+> 
+> [Here's another person's advice](http://lachristensen.wordpress.com/2012/02/24/alpha-reading/), which she calls "alpha-reading":
+> 
+> > When a writer requests the help of first readers, they are not looking to know what their readers would have written. They want to know the effect their book is having in its current form.  For example, a writer wants to know:
+> 
+> > Clarity.  Do you understand what is going on? Can you picture the setting and the characters in your head? Can you see where everyone is in relationship to each other?  Was the fight scene confusing? Is my word choice obscure?
+> 
+> > Impact.  Was this part funny or did it fall flat?  Do you like these characters at this moment? Are you frustrated with them? Do you love them? Are you afraid? Is this intense? Are you bored? Do you wish you could stop reading? Do you feel like you’re there with the characters?  Was this part a tear-jerker or were you annoyed?  Was the ending satisfying or did I drop the ball?
+> 
+> > Believability.  How are my characters’ reactions? Does this feel plausible to you?  Is this the way you handle a gun in your experience?  Do I need to do further research about xyz?  Does my fight scene feel real? Does this fit together and make sense?
+> 
+> > Interest.  Does this fascinate you the way it fascinates me?  Are you hooked?  Is this too much detail or not enough?
+> 
+> > Alpha-readers, especially alpha-readers who are also writers, will  sometimes try to “fix” the book like an editor might do or “rewrite” it to suit their tastes. The problem with this is that unless you know what the writer is aiming for, you could do more damage than good–or simply waste everyone’s time tearing something apart that actually doesn’t need fixing.  So the less the alpha-reader tries to “fix” and the more time they spend recreating their experience and answering a writer’s unspoken questions, the more good they will do. This is the challenge. I am not perfect at it, but I’m getting better.
+> 
+> Wise/Alpha Reading is different from what people are used to doing when they read someone else's work with a critical eye. You're not critiquing, you're *reporting*. You're certainly not offering suggestions. Wise Reading difficult and has to be learned (and I'm new at this too), and that's why Card talks about "training" your Wise Reader and the developing relationship between a writer and Wise Reader.
+> 
+> Wise Readers and writers need to get to know each other. It might be helpful to do Wise Reading Exchanges where two writers will Wise Read each other's works and offer their honest reactions and feelings as they were reading the story. Anyone want to do such an exchange?
 
-> **u/Paradoxius** [+1] *
+> **u/Paradoxius** [+1]  (4 days later)
 > 
 > Caution: nerdery to follow.
-> I'm confused.  Wouldn't Arnook be well over a hundred by the time Korra was born?  ~~Was he meant to be Unalaq?~~  Or is this Arnook the fourth?
-> Edit: Oh, and a minor point.  Aang didn't master all four elements in the original series.  He learned water, earth, and fire, and was already a master airbender, but all three of his masters remark on how unprepared he is during the finale.
 > 
+> I'm confused.  Wouldn't Arnook be well over a hundred by the time Korra was born?  ~~Was he meant to be Unalaq?~~  Or is this Arnook the fourth?
+> 
+> Edit: Oh, and a minor point.  Aang didn't master all four elements in the original series.  He learned water, earth, and fire, and was already a master airbender, but all three of his masters remark on how unprepared he is during the finale.
 
-> **u/Paradoxius** [+1] *
+> **u/Paradoxius** [+1]  (4 days later)
 > 
 > I wasn't bored, but I did get distracted during the legend of the southern lights.  I thought it was very interesting, but about halfway through the second to last paragraph I started thinking about "clever tricks" in myths and how they would never work in the real world.
+> 
 > I liked what you did with Korra.  So far she seems to me like the same character from the show (I've watched all of LoK and A:TLA, by the way) but I like this version of her better so far that I did towards the beginning of the show.
+> 
 > I understood it all perfectly fine.
+> 
 > I really liked the firebending test.  I liked the fact that it showed Korra learning something and going from totally not getting it to comprehending it fully.
+> 
 > I was lost for a moment when the story flashed back to Tenzin backpedalling with Pema about Meelo.
+> 
 > I am wondering what Zuko and Aang were talking about regarding nu lightning bending.  There is absolutely nothing on that matter in canon, and it is a highly controversial matter.  My personal take is that lightning bending used to be crazy difficult, and someone developed an easier method that got much smaller results with much less skill and motion required, but many fans think it was a long kept secret that was released to the public, probably by Zuko.  Your idea seems like a mix of the two.
+> 
 > I liked Arnook's character.  He seems very much lawful-neutral.  I was confused, as I posted earlier, about his name, since there was an Arnook in canon, but he lived a hundred years before Korra, and would be well over a century old by this point.
+> 
 > ___
+> 
 > Also: I *love* the concept of potential difference bending!
+> 
 > And almost halfway down you have the word 'usual' missing an 'l'.
 > ___
 > Edit: Started on chapter 2.  No Shiro Shinobi?
+> 
 > Her interpersonal abilities make sense for someone who grew up in a military compound.
 > ___
 > I found the council meeting hard to follow.  Also, *that's* where Shiro went, although I think I would prefer if the Southern Water Tribe representative didn't have the former name of everyone's favorite sportscaster, Shiro Shinobi.
+> 
 > I am confused about the life expectancy matter.  I suppose there's just a lot of infant mortality bringing the average down?
+> 
 > Hasook is a non-bender... all these changes with minor characters are going to take some getting used to.
+> 
 > ...
+> 
 > As are the further changes that become more clear a bit further down.
 > ___
 > I love the way the Equalists are playing out so far.
-> 
 
-> **u/None** [+0] *
+> **u/None** [+0]  (12 hours later)
 > 
 > [removed]
-> 
 
 ---
 

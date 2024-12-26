@@ -12,30 +12,25 @@
 
 ### Comments:
 
-> **u/Soren_Tycho** [+2]  *Clothing-optional Spacetime**
+> **u/Soren_Tycho** [+2]  *Clothing-optional Spacetime* (a minute later)
 > 
 > Newspost: http://sadehall.tumblr.com/post/160333809045/ii7-sorcerors-apprentice-mode
-> 
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (32 minutes later)
 > 
 > Not a bad way to spend a chunk of my Friday morning at work :)
-> 
 
-> **u/Frommerman** [+2] *
+> **u/Frommerman** [+2]  (6 hours later)
 > 
 > Every time these are posted I'm at work and can't read them immediately. So they just taunt me until the next day when I'm off.
-> 
 
-> **u/nolrai** [+1] *
+> **u/nolrai** [+1]  (2 days later)
 > 
 > Why does clicking the link in the post just bring me back to the post with the link?
-> 
 
->> **u/Soren_Tycho** [+1]  *Clothing-optional Spacetime**
+>> **u/Soren_Tycho** [+1]  *Clothing-optional Spacetime* (2 days later)
 >> 
 >> It doesn't seem to for me? I've noticed that this happens on reddit's mobile site, though - for some reason with link posts on the comments page they put the actual link in a little box below the title. Try clicking that, or, just in case, here's a direct link to the chapter: http://sadehall.tumblr.com/2/sorceror's-apprentice-mode.html
->> 
 
 ---
 

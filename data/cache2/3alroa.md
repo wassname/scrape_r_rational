@@ -24,41 +24,43 @@ The premise is [summarized fairly well on tvtropes](http://tvtropes.org/pmwiki/p
 
 ### Comments:
 
-> **u/Artaxerxes3rd** [+3] *
+> **u/Artaxerxes3rd** [+3]  (an hour later)
 > 
 > I think the game is pretty great. Of the bunch of VNs that I've read, it was by far the best. It's not something that would come to mind if I were trying to come up with examples of rational fiction, but I think it fits the description on the sidebar reasonably enough given that it's a story with mental illness and non-human intelligence as prominent features.
-> 
 
-> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (6 hours later)
 > 
 > Step 1 would be not lying to your doctors about it.
-> Step 2, when meeting someone who seem completely exempt from your otherwise universal perception problem, is to ask why the hell that's the case.
 > 
+> Step 2, when meeting someone who seem completely exempt from your otherwise universal perception problem, is to ask why the hell that's the case.
 
->> **u/IomKg** [+2] *
+>> **u/IomKg** [+2]  (6 hours later)
 >> 
 >> >Step 1 would be not lying to your doctors about it.
->> I don't see how anything would have been different if Fuminori had told the truth to Dr Tanbo..
->> In the beginning they probably would have let him go seeing as it was obvious he was capable of supporting himself, and at the point where "truth" would have mattered in any way it wasn't related to his medical condition so no real reason to assume we should have told his doctor about it..
-
->> >Step 2, when meeting someone who seem completely exempt from your otherwise universal perception problem, is to ask why the hell that's the case.
->> How would realizing that Saya looks horrible in reality would have changed anything?
 >> 
+>> I don't see how anything would have been different if Fuminori had told the truth to Dr Tanbo..
+>> 
+>> In the beginning they probably would have let him go seeing as it was obvious he was capable of supporting himself, and at the point where "truth" would have mattered in any way it wasn't related to his medical condition so no real reason to assume we should have told his doctor about it..
+>> 
+>> >Step 2, when meeting someone who seem completely exempt from your otherwise universal perception problem, is to ask why the hell that's the case.
+>> 
+>> How would realizing that Saya looks horrible in reality would have changed anything?
 
->>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (7 hours later)
 >>> 
 >>> Sorry, I did not mean to answer what would have turned the story upside down. I meant to answer what would've been rational to do.
->>> 
 
->>>> **u/IomKg** [+3] *
+>>>> **u/IomKg** [+3]  (7 hours later)
 >>>> 
 >>>> hmm i am not looking for upside down, but if you agree that not much would change with just these 2 steps, does that mean you believe you would go down the same path as Fuminori had you been in his shoes?
->>>> Because personally i think there are many points where he could have acted much more rationally,
->>>> For example when he first saw something which looked and tasted good to him he immediately should have asked himself if that thing is fit for human consumption, i mean sure his perception changed, but it was never suggested that anything else in his physiology changed. so anything which looked and tasted good to him was very possibly deadly.
->>>> When Saya offered him to fix his brain why didn't he suggest that she would change along with him? if she could change biology that well surely she could have changed her own look, or at least she could posses some meat puppet to look human.
-
->>>> Just a few disconnected examples, But i am sure there are more, possibly some which could somehow be stringed..
 >>>> 
+>>>> Because personally i think there are many points where he could have acted much more rationally,
+>>>> 
+>>>> For example when he first saw something which looked and tasted good to him he immediately should have asked himself if that thing is fit for human consumption, i mean sure his perception changed, but it was never suggested that anything else in his physiology changed. so anything which looked and tasted good to him was very possibly deadly.
+>>>> 
+>>>> When Saya offered him to fix his brain why didn't he suggest that she would change along with him? if she could change biology that well surely she could have changed her own look, or at least she could posses some meat puppet to look human.
+>>>> 
+>>>> Just a few disconnected examples, But i am sure there are more, possibly some which could somehow be stringed..
 
 ---
 

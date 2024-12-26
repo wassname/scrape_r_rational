@@ -12,40 +12,33 @@
 
 ### Comments:
 
-> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate* (8 hours later)
 > 
 > This one's more or less a downtime chapter, since the players don't seem to want to chase the plot hooks right now.
-> 
 
->> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (19 hours later)
 >> 
 >> It was more or less agreed between both the players and QMs to have a 'beach episode' chapter to recuperate in-character after the previous events.
->> 
 
->>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (19 hours later)
 >>> 
 >>> Oh wait, this is 34 not 35. My bad. Yeah we did all agree on a beach episode since velorien had the scene between hazou and mari that he really wanted to write.
->>> 
 
->>>> **u/Anderkent** [+1] *
+>>>> **u/Anderkent** [+1]  (6 days later)
 >>>> 
 >>>> Does this mean you just spoiled 35 for me?! :P
->>>> 
 
->>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (6 days later)
 >>>>> 
 >>>>> That would be impressive, since 35 was already out and I didn't go into any specifics. /self whoosh
->>>>> 
 
->>>>>> **u/Anderkent** [+1] *
+>>>>>> **u/Anderkent** [+1]  (6 days later)
 >>>>>> 
 >>>>>> Oh oups I also failed to check which chapter this actually is :P
->>>>>> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (a day later)
 >> 
 >> In fairness, they've spent 33 chapters running from one life-threatening event to another. They're entitled to want to chill for a couple chapters.
->> 
 
 ---
 

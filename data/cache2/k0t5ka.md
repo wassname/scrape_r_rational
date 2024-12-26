@@ -2,7 +2,7 @@
 
 * Author: u/lurinaa *
 * URL: https://www.reddit.com/r/rational/comments/k0t5ka/rtwip_the_flower_that_bloomed_nowhere_part_28/
-* Score: 14
+* Score: 15
 
 * Created: 2020-11-25T14:30:06
 
@@ -20,41 +20,50 @@ I'll have more free time for the next few months, so update frequency should inc
 
 ### Comments:
 
-> **u/tjhance** [+1] *
+> **u/tjhance** [+1]  (7 hours later)
 > 
 > > The was originally going to be the chapter where the other shoe dropped for the story, but it turned out that everything in it is way too complicated and too tied into the ultimate mystery to be exposited about quickly and that got pushed back a little bit.
-> hype levels rising
 > 
+> hype levels rising
 
-> **u/Badewell** [+1] *
+> **u/Badewell** [+1]  (12 hours later)
 > 
 > I've still been thinking about circular narratives because of the previous chapter.
-> Maybe I'm overstating it, but it feels like there was an emphasis on how a key feature of the two we've seen (the mural, and the manuscripts) have no beginning, and so you just have to pick a random place to start.
-> We're dealing with a loop story though, not a circle (or are we?). Since it's a loop story it's almost the opposite of having no beginning, there's a specific beginning that you keep going back to. Tradionally the whole point is trying to resolve whatever circumstance is causing you to go back to that beginning, to escape the loop.
-> ...huh, well, if you wanted to be cheeky, being stuck in a three day time loop that resets almost all memories is technically a really shitty version of phoenix immortality. Abusing a time loop to stay alive instead of trying to escape it is also a thing, especially if you're stalling to find a better solution. And if you were going to pick a spot to cause a time loop until while you did long-term research on immortality, the Conclave is probably the best one.
-> But anyway, more importantly, would Sekmeht have gotten a profile if those were still a thing? Would Eshmun have gotten one? Would the presence and/or lack of presence of a profile spill the beans on whether or not they're people?
-> And what happens if you give Sekmeht one of the circular manuscripts? It sounds like a terrible idea but hey what's the worst that could happen?
-> >"Though, I will remind you that her only connection with the outside world is this logic bridge. She can hardly go out on a rampage."
-> Do rampant AI stories still exist in this setting? If they don't I guess she gets a pass for not being genre savvy.
 > 
+> Maybe I'm overstating it, but it feels like there was an emphasis on how a key feature of the two we've seen (the mural, and the manuscripts) have no beginning, and so you just have to pick a random place to start.
+> 
+> We're dealing with a loop story though, not a circle (or are we?). Since it's a loop story it's almost the opposite of having no beginning, there's a specific beginning that you keep going back to. Tradionally the whole point is trying to resolve whatever circumstance is causing you to go back to that beginning, to escape the loop.
+> 
+> ...huh, well, if you wanted to be cheeky, being stuck in a three day time loop that resets almost all memories is technically a really shitty version of phoenix immortality. Abusing a time loop to stay alive instead of trying to escape it is also a thing, especially if you're stalling to find a better solution. And if you were going to pick a spot to cause a time loop until while you did long-term research on immortality, the Conclave is probably the best one.
+> 
+> But anyway, more importantly, would Sekmeht have gotten a profile if those were still a thing? Would Eshmun have gotten one? Would the presence and/or lack of presence of a profile spill the beans on whether or not they're people?
+> 
+> And what happens if you give Sekmeht one of the circular manuscripts? It sounds like a terrible idea but hey what's the worst that could happen?
+> 
+> >"Though, I will remind you that her only connection with the outside world is this logic bridge. She can hardly go out on a rampage."
+> 
+> Do rampant AI stories still exist in this setting? If they don't I guess she gets a pass for not being genre savvy.
 
->> **u/lurinaa** [+1] *
+>> **u/lurinaa** [+1]  (12 hours later)
 >> 
 >> I will point out that "time loop mystery", doesn't necessarily imply a Groundhog Day/Majora's Mask/Mother of Learning type scenario of procedural recursion and advancement. Just a mystery centered around a time loop.
->> That's not to say this _isn't_ that, strictly speaking. But it's something to think about, I guess.
->> > Do rampant AI stories still exist in this setting? If they don't I guess she gets a pass for not being genre savvy.
->> They probably do? But I would say Neferuaten is teasing Ran a bit through most of their dialogue in this chapter. She is, for whatever reason, not worried about it herself.
 >> 
+>> That's not to say this _isn't_ that, strictly speaking. But it's something to think about, I guess.
+>> 
+>> > Do rampant AI stories still exist in this setting? If they don't I guess she gets a pass for not being genre savvy.
+>> 
+>> They probably do? But I would say Neferuaten is teasing Ran a bit through most of their dialogue in this chapter. She is, for whatever reason, not worried about it herself.
 
-> **u/nolrai** [+1] *
+> **u/nolrai** [+1]  (17 hours later)
 > 
 > Don't we know that this loop is the last one? Because it's a higher quality simulation?
-> 
 
-> **u/Lugnut1206** [+1] *
+> **u/Lugnut1206** [+1]  (2 days later)
 > 
 > Did we skip over update 27 and this whole exchange?
+> 
 > Should this have spoilers? It's 15 days old and from the previous update...
+> 
 > > Kamrusepa stepped forward a bit, bowing her head lower and in a more deliberate motion than Neferuaten. "It is a pleasure to meet you, exalted mistress," she said, opting for her formal guild title instead. "I am Kamrusepa of Tuon--"
 > > 
 > > "Yes, I know who you are," she interjected, though the flatness of it made it feel more like impatience than irritation. Her gaze turned to Theo and myself. "Linos's son... And █ █ █ █ █ 's granddaughter, correct?"
@@ -62,20 +71,20 @@ I'll have more free time for the next few months, so update frequency should inc
 > > T-That's right, ma'am," I said, a little intimidated.
 > > 
 > > She snorted. "Yes, I see the attempt the scriptwriters made to cultivate a resemblance now." She shifted her weight a little more in our direction. "I am Amtu-hedu-anna, as you already know. Obey the rules and conduct yourself with a professional competence that will not embarrass the order and yourselves, and I am certain your visit here will be pleasant."
-> This just happens and no one in narrative comments on it? And then Anna mentions the "scriptwriters"?
 > 
+> This just happens and no one in narrative comments on it? And then Anna mentions the "scriptwriters"?
 
->> **u/lurinaa** [+1] *
+>> **u/lurinaa** [+1]  (3 days later)
 >> 
 >> Sorry, I try to only post here every other update to not spam the subreddit.
->> I assume you're referring to the blocked out text. It is a precedent set up a few chapters earlier that Su "blocks out" her grandfather's name whenever it's spoken.
->> As for the meaning of "scriptwriters", that was explained in chapter 26, at least by implication.
 >> 
+>> I assume you're referring to the blocked out text. It is a precedent set up a few chapters earlier that Su "blocks out" her grandfather's name whenever it's spoken.
+>> 
+>> As for the meaning of "scriptwriters", that was explained in chapter 26, at least by implication.
 
-> **u/Fhoenix42** [+1] *
+> **u/Fhoenix42** [+1]  (3 days later)
 > 
 > Sekhmet is adorable.
-> 
 
 ---
 

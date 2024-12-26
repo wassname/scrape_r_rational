@@ -2,7 +2,7 @@
 
 * Author: u/addicted_to_reddit_ *
 * URL: https://www.reddit.com/r/rational/comments/k1hche/rt_wip_ff_pokemon_trials_of_a_trainer_chapter_10/
-* Score: 13
+* Score: 14
 
 * Created: 2020-11-26T15:41:37
 
@@ -30,15 +30,13 @@ I hope you guys enjoy!
 
 ### Comments:
 
-> **u/cheesy-aint-easy** [+1] *
+> **u/cheesy-aint-easy** [+1]  (22 hours later)
 > 
 > I actually read the whole thing in a day. Very captivating, but sometimes a bit rough around the edges. All in all, it is a great read, could you keep me infirmed when you update it?
-> 
 
->> **u/AweKartik777** [+1] *
+>> **u/AweKartik777** [+1]  (a day later)
 >> 
 >> You can follow the story on FFN and mess with your settings so that it  sends you a mail whenever it updates, not sure about AO3 but probably something similar is available there as well.
->> 
 
 ---
 

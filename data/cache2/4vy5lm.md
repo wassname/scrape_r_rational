@@ -12,164 +12,160 @@
 
 ### Comments:
 
-> **u/booljayj** [+15] *
+> **u/booljayj** [+16]  (8 hours later)
 > 
 > I really like the way Sanderson writes his books. I'm not sure if they are entirely rational, but he is amazing at foreshadowing and creating engrossing worlds and characters.
-> 
 
->> **u/TK17Studios** [+7]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+7]  *Author of r!Animorphs: The Reckoning* (12 hours later)
 >> 
 >> [OPINIONS](https://www.reddit.com/r/rational/comments/4oftzh/q_is_my_story_rational/d4dbrja)
->> (still upvoted you because your opinion is good too)
 >> 
+>> (still upvoted you because your opinion is good too)
 
->>> **u/None** [+11] *
+>>> **u/None** [+11]  (15 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Nepene** [+5] *
+>>>> **u/Nepene** [+5]  (a day later)
 >>>> 
 >>>> Yes, I note he repeats a 'fact' which we discussed, he agreed was wrong, a century of time when people were doing nothing. His ideals of why the story are irrational are fact insensitive. What actually happened in the books has minimal impact on his opinions.
->>>> That's obviously a bit awkward for a discussion on foreshadowing and one on how engrossing the world is. That's a very fact dependent discussion.
->>>> I definitely like how Brandon's books tend to tie the magic system into the world and science and the weather and people. There's very strong visual imagery in all of that. That would be something I'd enjoy seeing more in worlds, a pervasive impact of magic on technology, nature, and culture. It's a fairly standard thing for magic to have it be a rare thing that a few experts use which is sad for most of the populace.
 >>>> 
+>>>> That's obviously a bit awkward for a discussion on foreshadowing and one on how engrossing the world is. That's a very fact dependent discussion.
+>>>> 
+>>>> I definitely like how Brandon's books tend to tie the magic system into the world and science and the weather and people. There's very strong visual imagery in all of that. That would be something I'd enjoy seeing more in worlds, a pervasive impact of magic on technology, nature, and culture. It's a fairly standard thing for magic to have it be a rare thing that a few experts use which is sad for most of the populace.
 
->>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (2 days later)
 >>>>> 
 >>>>> It is a classic example of bias to be literally unable to comprehend the points of people on the other side of the issue, and be forced, in your own head, to attribute it to dumb/bad/wrong instead of to the result of reasonable causal processes.
->>>>> 
 
->>>>>> **u/Nepene** [+4] *
+>>>>>> **u/Nepene** [+6]  (2 days later)
 >>>>>> 
 >>>>>> I can comprehend your points. You read the book a long time ago and don't or didn't want to remember all the details but your central argument is strong, I didn't address all of your points to your satisfaction.
->>>>>> I disagree with you though and think you're wrong. It looks a lot more like you treat arguments as replaceable soldiers than that you have a strong central point. You challenging me to some sort of public duel or debate to be voted on likewise didn't seem like a reasonable causal process.
 >>>>>> 
+>>>>>> I disagree with you though and think you're wrong. It looks a lot more like you treat arguments as replaceable soldiers than that you have a strong central point. You challenging me to some sort of public duel or debate to be voted on likewise didn't seem like a reasonable causal process.
 
->>>> **u/TK17Studios** [+0]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+0]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>>> 
 >>>> I mean, booljayj didn't ask me *anything,* to be fair.  I jumped in with an unsolicited opinion, which is why I qualified by saying "I upvoted you, too" ... that was me signaling that I knew I was butting in and wasn't trying to start fights or nuthin'.  In general, I like there to exist a balance of opinion, so that third parties can weigh both sides, and me being on one side of this issue doesn't mean I want the other side unheard or underweighted.  It's just my personal feeling that junior writers looking to improve their craft should very much avoid trying to emulate Sanderson and not lend any credence to his musings on the concept of writing.
->>>> Also, I don't think the basis of my criticisms of Sanderson's writing is really an "opinion" domain.  Like, opinions are for matters of taste, but the *source* of my opinion is a question of fact, about which you're making predictions/suppositions.  In fact, I don't hate the author, and based on my exposure to ~5 books that he's written, am simply stating *my* claim that it's objectively low-quality on basically any metric that a reader, writer, critic, or teacher might offer.  If you're interested in proving me wrong in the court of public opinion, then name a metric and start posting quotes.  I'd be happy to respond on the level of, y'know, *actually discussing the writing* instead of on the level of casting vague aspersions.
 >>>> 
+>>>> Also, I don't think the basis of my criticisms of Sanderson's writing is really an "opinion" domain.  Like, opinions are for matters of taste, but the *source* of my opinion is a question of fact, about which you're making predictions/suppositions.  In fact, I don't hate the author, and based on my exposure to ~5 books that he's written, am simply stating *my* claim that it's objectively low-quality on basically any metric that a reader, writer, critic, or teacher might offer.  If you're interested in proving me wrong in the court of public opinion, then name a metric and start posting quotes.  I'd be happy to respond on the level of, y'know, *actually discussing the writing* instead of on the level of casting vague aspersions.
 
->>>>> **u/None** [-3] *
+>>>>> **u/None** [-3]  (16 hours later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/TK17Studios** [+6]  *Author of r!Animorphs: The Reckoning**
+>>>>>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>>>>> 
 >>>>>> I note that you're quite ... strident? ... about this.  Like, I seem to have triggered you in some way, and I regret that (though not enough to back off of what I think is a true point, or to refrain from defending myself).
->>>>>> I disagree with your claim, though, which seems to cash out to "unsolicited opinions are bad and unwelcome here."  Like, I guess if you want reddit threads to be echo chambers, where no one is allowed to disagree with OP?  Or if you want them to be relentlessly topic-focused and monotone, so that each thread answers one and exactly one question?
->>>>>> As far as "looking like a jerk," well—that's not the same thing as *being* a jerk.  Basically, I think the crime I'm guilty of here boils down to "having a contrary or unpopular opinion."  I mean, your reaction to me at least *feels* like I've personally offended you, or something.  You're not reacting with the sort of dispassionate irritation that I'd imagine coming from, say, a moderator who thinks I'm unproductively off-topic.
->>>>>> And given that I posted what amounts to a one-word *link* to a separate thread, clearly labeled as an OPINION, I think I went about chiming in fairly innocuously, until you started grumping back.  Wasn't a derailment of anything raymestalez was trying to do, and seemed like a pretty low-cost, low-hostility way to weigh in with the opposite opinion.  And I *do* think that getting that opposite opinion into the mix is extremely important—from my perspective, at least, there's a real danger of junior writers attempting to improve their craft by trying to learn from Brandon Sanderson, and ending up mediocre (or worse) as a result.
->>>>>> As a final note, **the write-up I linked to *is* about rationality—*explicitly.***  The whole point of the spoiler-tagged Elantris rant is that *reality doesn't work like that.*  Just look in the rules for this subreddit.  Rule number one is "Nothing happens solely because 'the plot requires it,'" and in the cited example, 'the plot required' that an entire culture collectively hold an idiot ball for like a hundred years so that his Mary Sue character could get a cool moment.  That criticism is extremely germane to discussions of rationality in fiction.
->>>>>> I note that *now* this *has* grown to the point of being a large distraction from the original point of the thread.  If you'd prefer to continue in private messages rather than here, I'm down.
 >>>>>> 
+>>>>>> I disagree with your claim, though, which seems to cash out to "unsolicited opinions are bad and unwelcome here."  Like, I guess if you want reddit threads to be echo chambers, where no one is allowed to disagree with OP?  Or if you want them to be relentlessly topic-focused and monotone, so that each thread answers one and exactly one question?
+>>>>>> 
+>>>>>> As far as "looking like a jerk," well—that's not the same thing as *being* a jerk.  Basically, I think the crime I'm guilty of here boils down to "having a contrary or unpopular opinion."  I mean, your reaction to me at least *feels* like I've personally offended you, or something.  You're not reacting with the sort of dispassionate irritation that I'd imagine coming from, say, a moderator who thinks I'm unproductively off-topic.
+>>>>>> 
+>>>>>> And given that I posted what amounts to a one-word *link* to a separate thread, clearly labeled as an OPINION, I think I went about chiming in fairly innocuously, until you started grumping back.  Wasn't a derailment of anything raymestalez was trying to do, and seemed like a pretty low-cost, low-hostility way to weigh in with the opposite opinion.  And I *do* think that getting that opposite opinion into the mix is extremely important—from my perspective, at least, there's a real danger of junior writers attempting to improve their craft by trying to learn from Brandon Sanderson, and ending up mediocre (or worse) as a result.
+>>>>>> 
+>>>>>> As a final note, **the write-up I linked to *is* about rationality—*explicitly.***  The whole point of the spoiler-tagged Elantris rant is that *reality doesn't work like that.*  Just look in the rules for this subreddit.  Rule number one is "Nothing happens solely because 'the plot requires it,'" and in the cited example, 'the plot required' that an entire culture collectively hold an idiot ball for like a hundred years so that his Mary Sue character could get a cool moment.  That criticism is extremely germane to discussions of rationality in fiction.
+>>>>>> 
+>>>>>> I note that *now* this *has* grown to the point of being a large distraction from the original point of the thread.  If you'd prefer to continue in private messages rather than here, I'm down.
 
->>>>>>> **u/Dwood15** [-4] *
+>>>>>>> **u/Dwood15** [-5]  (16 hours later)
 >>>>>>> 
 >>>>>>> Nah man I like to bathe in irony. I don't think I'll be able to convince you and I only skimmed the conversation you links to and considering the string of posts that followed your initial write-up so how about we agree to disagree and just delete this string of posts?
->>>>>>> 
 
->>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>>>>>>> 
 >>>>>>>> I'd rather not delete the string of posts, because I still stand very firmly by my position that *it's important to steer budding writers as far away from Sanderson's advice as possible, for their own good.*  That's why I felt it was worth butting in in the first place, and that's still my primary motivation here.
->>>>>>>> 
 
->>>>>>>>> **u/Dwood15** [-2] *
+>>>>>>>>> **u/Dwood15** [-2]  (16 hours later)
 >>>>>>>>> 
 >>>>>>>>> Okay if that's your point why don't you premise that at the first post and your response to someone recommending his advice? Your initial post just seemed like you hated Brandon and you were pointing that out not that you're trying to steer people away from him.
-
->>>>>>>>> Alright well since we're not going to delete this chain of comments and I still disagree with your premise why don't we take it somewhere different. Do you have anything specific about his advice or lectures that you think is bad? I've listened to quite a few of his lectures and his advice I think is well thought through and gives a good starting point for any rational writer.
 >>>>>>>>> 
+>>>>>>>>> Alright well since we're not going to delete this chain of comments and I still disagree with your premise why don't we take it somewhere different. Do you have anything specific about his advice or lectures that you think is bad? I've listened to quite a few of his lectures and his advice I think is well thought through and gives a good starting point for any rational writer.
 
->>>>>>>>>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning**
+>>>>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I'll be completely honest: I have listened to very little of his specific advice on writing.  It could be that he's full of all kinds of useful wisdom that just doesn't show up in his own work.  I poured about sixty hours of my life into the five-ish books of his that I read, and regretted it, and made the decision not to throw good time after bad, but it's indeed possible that the lectures themselves are good.  I'm taking a risk, making a gamble, by assuming that [amateurish writing] --> [unhelpful advice], and that could be the wrong call.  
->>>>>>>>>> For instance, I'm personally pretty bad at certain kinds of gymnastics which I can teach and explain quite well, and this might be an analogous situation.
->>>>>>>>>> What would you say are a couple of his more useful and interesting points?  The only one I know of is his bit about how magic as a solution to the character's problems is effective only to the degree that the magic has been clearly defined and explained prior.
 >>>>>>>>>> 
+>>>>>>>>>> For instance, I'm personally pretty bad at certain kinds of gymnastics which I can teach and explain quite well, and this might be an analogous situation.
+>>>>>>>>>> 
+>>>>>>>>>> What would you say are a couple of his more useful and interesting points?  The only one I know of is his bit about how magic as a solution to the character's problems is effective only to the degree that the magic has been clearly defined and explained prior.
 
->>>>>>>>>>> **u/Dwood15** [+4] *
+>>>>>>>>>>> **u/Dwood15** [+5]  (17 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I think if you went and listened to a lecture or two,  you would find him being agreeable to the standard tenets of rational writing. Since you asked here's a few of the ones that stuck out to me- his suggestions on character creations and writing methods. Brandon takes the architect approach where he designs everything and in the lecture he discusses that. From what I understand though is that he does a top-down approach where he says this is where I want the story to go now how do I create characters and the world that takes the characters there? He also discusses grr Martin's writing style which is more organic and more of a growing system which lends itself two non-rational writing.
->>>>>>>>>>>  Another point that he made that was particular rational is that in the world the character needs to do their thing because that's what they do. Like sure have the main character go on the quest and save the world but make sure that that fits in the character that they're doing that because that's who the character is and that's what they want to do. 
->>>>>>>>>>>  His discussions on character creation are really good though and he discusses other writing styles which is from bottom-up perspective where you create your cast of characters and you put them in situations and you see how they inside their personalities would work through that. If there are any lectures  you might want to check out, i suggest checking out the character creation ones as that's what I've watched most recently and can vouch for its quality. 
->>>>>>>>>>>  If you watch any of the lectures and find any problems with the rationality of any writing produced with those methods and advice let me know.
 >>>>>>>>>>> 
+>>>>>>>>>>>  Another point that he made that was particular rational is that in the world the character needs to do their thing because that's what they do. Like sure have the main character go on the quest and save the world but make sure that that fits in the character that they're doing that because that's who the character is and that's what they want to do. 
+>>>>>>>>>>> 
+>>>>>>>>>>>  His discussions on character creation are really good though and he discusses other writing styles which is from bottom-up perspective where you create your cast of characters and you put them in situations and you see how they inside their personalities would work through that. If there are any lectures  you might want to check out, i suggest checking out the character creation ones as that's what I've watched most recently and can vouch for its quality. 
+>>>>>>>>>>> 
+>>>>>>>>>>>  If you watch any of the lectures and find any problems with the rationality of any writing produced with those methods and advice let me know.
 
->>> **u/None** [+5] *
+>>> **u/None** [+4]  (13 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/ketura** [+5]  *Organizer**
+>>>> **u/ketura** [+4]  *Organizer* (13 hours later)
 >>>> 
 >>>> Feh, I'm not a fan of the Stormlight archives.  The damn things are literally about 3 times longer than they need to; the exact same plot, exact same progression, can all be portrayed without all the damn filler.  Also I don't give a shit what he says, Kaladin is not friggin 19, he acts like a 38 year old vet.
->>>> 
 
->>>>> **u/Friedoobrain** [+6] *
+>>>>> **u/Friedoobrain** [+5]  (a day later)
 >>>>> 
 >>>>> Honestly people acting more mature than you'd expect for their years is something I easily overlook, mostly because I always keep in mind that in times of hardship people mature faster, and even before the current century responsibility tended to be shouldered earlier in life. 
->>>>> Of course that might create some dissonance for our generation.
 >>>>> 
+>>>>> Of course that might create some dissonance for our generation.
 
->>>>> **u/Dwood15** [+4] *
+>>>>> **u/Dwood15** [+3]  (15 hours later)
 >>>>> 
 >>>>> You know I found the same thing too I tried to read way of Kings and it just took way too long to get anywhere. And you're somewhat right about that character. I think Brandon was going for a depressed character and he succeeded in my opinion.
->>>>> 
 
->>>> **u/Bobertus** [+2] *
+>>>> **u/Bobertus** [+2]  (a day later)
 >>>> 
 >>>> What's the problem with referencing the Bbroken Windows theory?
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (a day later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/DangerouslyUnstable** [+4] *
+>>>>>> **u/DangerouslyUnstable** [+5]  (2 days later)
 >>>>>> 
 >>>>>> That's a fair point, but I think that if he came up with a different description it would be obvious what he was referring to (let's make one up: Smashed gaslights) It would be even more jarring because you know exactly what he is referring to (broken windows) while making a rather pointless change in words. So in reality you are totally correct that a different society would be VERY unlikely to come up with that term, but changing it for the sake of changing it would be even more immersion breaking for me.
->>>>>> 
 
->>>> **u/Nepene** [+1] *
+>>>> **u/Nepene** [+1]  (a day later)
 >>>> 
 >>>> They were much less well written. Far less revisions, weaker plots. It's hardly too unexpected. Alloy of Law, the book where the broken windows theory came in, was written while taking a break from Memory of Light within a four month period, and he rushed its release date so he could make sure to release something in 2011 so it didn't go through his usual revision schedules, and it was a thriller, and he wrote two other books at the same time.
->>>> I remember reading somewhere that he did research with a gun professional to ensure accuracy. So, the guns and ammo stuff is probably accurate and well written. That's the sort of tone the book has. He probably didn't do much  to research sociology.
 >>>> 
+>>>> I remember reading somewhere that he did research with a gun professional to ensure accuracy. So, the guns and ammo stuff is probably accurate and well written. That's the sort of tone the book has. He probably didn't do much  to research sociology.
 
->>> **u/ketura** [+2]  *Organizer**
+>>> **u/ketura** [+2]  *Organizer* (13 hours later)
 >>> 
 >>> I knew the moment I saw this topic that you'd be in here tossin shade like always :D
->>> 
 
->> **u/None** [-1] *
+>> **u/None** [-2]  (15 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/TK17Studios** [+4]  *Author of r!Animorphs: The Reckoning**
+>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (15 hours later)
 >>> 
 >>> I'm not sure what you mean by "irrational" or "hate" in your comment here.  My criticism of Sanderson's writing is based entirely on its content and style and quality, all things I can cite in specific (and did, in the post quoted).  And I don't hate the person himself, nor do I actually hate the writing so much as groan over people going rah rah rah when I think their lives would be improved by exposure to better authors (of which there are so, so, so very many).
->>> Essentially, my "hate" of "Brandon" (since you're on a first-name basis, I guess?) boils down to a very slight moral outrage that someone is getting far more love and exposure and acclaim than their work deserves.  It's the exact same grumps I have for how much money Zack Snyder made with Batman V Superman.
 >>> 
+>>> Essentially, my "hate" of "Brandon" (since you're on a first-name basis, I guess?) boils down to a very slight moral outrage that someone is getting far more love and exposure and acclaim than their work deserves.  It's the exact same grumps I have for how much money Zack Snyder made with Batman V Superman.
 
->>>> **u/Dwood15** [+4] *
+>>>> **u/Dwood15** [+4]  (16 hours later)
 >>>> 
 >>>> Let me backtrack a little and clarify my point. My point was that you don't like Brandon so much that you're posting it even when the individual themselves didn't actually discuss Brandon's quality.
-
->>>> Which has all the Hallmarks of the classic Fanboy hate. If you ever feel inclined in the future 2 post about Brandon's qualities how about instead of calling Brandon a bad writer you suggest writers you think are superior outside of yourself.
->>>> Side note I do enjoy your Animorphs series
 >>>> 
+>>>> Which has all the Hallmarks of the classic Fanboy hate. If you ever feel inclined in the future 2 post about Brandon's qualities how about instead of calling Brandon a bad writer you suggest writers you think are superior outside of yourself.
+>>>> 
+>>>> Side note I do enjoy your Animorphs series
 
->>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+>>>>> **u/TK17Studios** [+0]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>>>> 
 >>>>> And I think you're willfully interpreting me in the worst possible light, when there is a spectrum of explanations that fit the facts equally well.  
+>>>>> 
 >>>>> Do you honestly think there's *no* value in responding to someone's "here's an author's advice on writing" with a statement of "don't listen to that author's advice; they're not good at writing!"?  Like, **maybe I should've done it as a top-level response to the thread, instead of as a counterpoint to booljayj in particular**?  But I mean, this subreddit is *about* how to write, in the end.  I post my criticisms of Sanderson because I think steering readers and writers away from his works is an actual instrumental good.
+>>>>> 
 >>>>> Writers who are superior to Brandon Sanderson by at least a factor of two in their creation of solid plots and realistic characters who behave in believable ways that less frequently break the characteristics of rational fiction on the sidebar:
+>>>>> 
 >>>>>  - Orson Scott Card (who has loads of advice on how to write, too)
 >>>>>  - Gary Paulsen
 >>>>>  - John Irving
@@ -191,75 +187,71 @@
 >>>>>  - Robert Graves
 >>>>>  - William Golding
 >>>>>  - Sam Shepard
->>>>> ... those are off the top of my head.  If people are interested in further recommendations, I'll happily provide.
 >>>>> 
+>>>>> ... those are off the top of my head.  If people are interested in further recommendations, I'll happily provide.
 
->>>>>> **u/None** [+8] *
+>>>>>> **u/None** [+7]  (17 hours later)
 >>>>>> 
 >>>>>> > Robert Jordan is a good author
->>>>>> Lul
 >>>>>> 
+>>>>>> Lul
 
->>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (17 hours later)
 >>>>>>> 
 >>>>>>> Heh.  Note: "at least twice as good as Sanderson" is not necessarily strong praise, coming from me.  I was posting "better," not limiting myself to "good."
->>>>>>> 
 
->>>>>>>> **u/None** [+3] *
+>>>>>>>> **u/None** [+3]  (17 hours later)
 >>>>>>>> 
 >>>>>>>> Yeah, I assumed but I just had to make the comment.  I can say that I prefer a le Guin or Mieville, or at least those styles of writing, over Sanderson or Jordan or that style of epic fantasy pretty much any day of the week.
->>>>>>>> 
 
->>>>>>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+>>>>>>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning* (17 hours later)
 >>>>>>>>> 
 >>>>>>>>> Only le Guin I read was Left Hand of Darkness, which I didn't care for at all but have no technical criticisms of.  Any recommendations for Mieville?
->>>>>>>>> 
 
->>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>> **u/None** [+2]  (17 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Perdido Street Station is probably his most well known work
->>>>>>>>>> 
 
->>>>>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull***
+>>>>>> **u/OrzBrain** [+1]  **Fingers* to *dance*, *hands* to *catch*, *arms* to *pull** (7 days later)
 >>>>>> 
 >>>>>> Where's Vernor Vinge on this list? Or Neil Gaiman? Or Kipling?
->>>>>> 
 
->>>>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning**
+>>>>>>> **u/TK17Studios** [+1]  *Author of r!Animorphs: The Reckoning* (7 days later)
 >>>>>>> 
 >>>>>>> Haven't read enough Vinge.  Gaiman alternates between rational and deliberately irrational characters/plots, so a blanket recommendation would be bad in this context.  Only Kipling I've read is jungle-related, and there was definitely a swarm of idiot balls rolling around.
->>>>>>> Note that this is *specifically* a list of writers who create *rational characters and plots,* or at least do so 2x better than Sanderson.  I'd agree with you in a heartbeat if you wanted to put those guys on a list of better writers generally, but this is a narrower subset.
 >>>>>>> 
+>>>>>>> Note that this is *specifically* a list of writers who create *rational characters and plots,* or at least do so 2x better than Sanderson.  I'd agree with you in a heartbeat if you wanted to put those guys on a list of better writers generally, but this is a narrower subset.
 
->>>>>> **u/None** [+0] *
+>>>>>> **u/None** [+0]  (16 hours later)
 >>>>>> 
 >>>>>> [deleted]
->>>>>> 
 
->>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>>>>>>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (16 hours later)
 >>>>>>> 
 >>>>>>> The post I linked to goes:
->>>>>>> "Sanderson's a Bad Writer."
->>>>>>> "Clarify what you mean by that?"
->>>>>>> "Sure.  [several paragraphs of clarification]"
->>>>>>> I *didn't* say he was a bad author and then not follow up.  There was a *ton* of information and context there, plainly visible.  Like, I'm not sure how to react to my current model of the situation, which is that all of this criticism from you came about because you didn't glance three lines down the page?  If I'm understanding you correctly, I don't think I can say "this is my fault; I did it wrong."
 >>>>>>> 
+>>>>>>> "Sanderson's a Bad Writer."
+>>>>>>> 
+>>>>>>> "Clarify what you mean by that?"
+>>>>>>> 
+>>>>>>> "Sure.  [several paragraphs of clarification]"
+>>>>>>> 
+>>>>>>> I *didn't* say he was a bad author and then not follow up.  There was a *ton* of information and context there, plainly visible.  Like, I'm not sure how to react to my current model of the situation, which is that all of this criticism from you came about because you didn't glance three lines down the page?  If I'm understanding you correctly, I don't think I can say "this is my fault; I did it wrong."
 
-> **u/raymestalez** [+11] *
+> **u/raymestalez** [+11]  (3 minutes later)
 > 
 > More Brandon Sanderson lectures: 
+> 
 > * [2013 lectures(Write About Dragons)](https://youtube.com/user/WriteAboutDragons/playlists)
 > * [2014 class lectures (via BYU English dept)](https://www.youtube.com/playlist?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ)
 > * [JordanCon 2010: description and viewpoint](https://www.youtube.com/playlist?list=PL3A1F631BCD668EDF)
 > * [JordanCon 2010: plotting](https://www.youtube.com/playlist?list=PLB2AB4CCF96ECB552)
 > * [JordanCon 2011: sanderson's second law of magic systems](https://www.youtube.com/playlist?list=PLF9F2E7291F6FBFEB)
 > * [Writing Excuses podcast](http://writingexcuses.com/)
-> 
 
-> **u/Nepene** [+1] *
+> **u/Nepene** [+1]  (12 hours later)
 > 
 > They are pretty helpful. When I write stories I often encounter issues that his lectures make easier. It's nice to have a guide.
-> 
 
 ---
 

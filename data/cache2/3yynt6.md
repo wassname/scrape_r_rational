@@ -127,62 +127,68 @@ Are there techniques or stories that do a good job of making characters really f
 
 ### Comments:
 
-> **u/alexanderwales** [+18]  *Time flies like an arrow**
+> **u/alexanderwales** [+18]  *Time flies like an arrow* (3 hours later)
 > 
 > Go watch some foreign-language television. Watch the stuff that's been subtitled really well and that hasn't made the translation from their culture to our own. There's loads of it on Netflix. Try to find romance, drama, or workplace stuff; I think generally speaking, those will highlight the differences much more.
-> I just got done watching two shows that I thought really illustrated cultural differences well. "Coffee Prince" is a sort of silly Korean drama about a girl pretending to be a guy at a coffee shop. The Netflix translation is terrible, but in this case that's sort of good because it includes a lot of the concepts that don't translate cleanly. "Atelier" is a Japanese show about a lingerie shop, notable because pretty much all of the relationships in the show are *work* relationships. Most American workplace comedies are about things other than work, but Atelier seems notable in that it's *driven* by the workplace and professional/vocational issues, rather than using the workplace as a setting for interpersonal drama.
-> The easiest way to see cultural assumptions is to go grab some stuff from another culture and see how it compares.
 > 
+> I just got done watching two shows that I thought really illustrated cultural differences well. "Coffee Prince" is a sort of silly Korean drama about a girl pretending to be a guy at a coffee shop. The Netflix translation is terrible, but in this case that's sort of good because it includes a lot of the concepts that don't translate cleanly. "Atelier" is a Japanese show about a lingerie shop, notable because pretty much all of the relationships in the show are *work* relationships. Most American workplace comedies are about things other than work, but Atelier seems notable in that it's *driven* by the workplace and professional/vocational issues, rather than using the workplace as a setting for interpersonal drama.
+> 
+> The easiest way to see cultural assumptions is to go grab some stuff from another culture and see how it compares.
 
->> **u/PlaneOfInfiniteCats** [+7] *
+>> **u/PlaneOfInfiniteCats** [+7]  (13 hours later)
 >> 
 >> I second this advice.
 >> The best way to get a feel of foreign cultures I know of is watching/reading things from foreign cultures.
+>> 
 >> Anime is often really good for this purpose if you wish to look for more hierarchical society. The whole "Japanese have word for younger/older sibling, but not for sibling in general" thing blowed my mind when I encountered it first. See also: senpai/kouhai. Often when characters in anime behave strangely, it is because we, western watchers, lack the cultural context to understand what happens and why, but it makes perfect sense within the culture of characters.
+>> 
 >> I also want to complain about US authors. Many, many US authors just don't care about cultural context. I have lost count how many times I encountered fantasy characters horrified by violations of laws and morals of California. Things like legal drinking age being 21, etc. In most fantasy settings legal drinking age doesn't make sense as a concept, for Cthulhu's sake.
+>> 
 >> The other way to pay more attention to cultural context is learning to notice your own cultural context. 
 >> Paul Graham wrote an [absolutely fantastic essay](http://www.paulgraham.com/say.html) on doing this.
 >> I really recommend you to read it.
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> >I second this advice. The best way to get a feel of foreign cultures I know of is watching/reading things from foreign cultures.
->>> Perhaps something from our past as well? 
->>> [This](https://www.reddit.com/r/AskHistorians/comments/2aiobi/i_want_to_write_a_novel_in_medieval_austria_can/civjgv4) great post tries to argue  that, even in relatively recent times, the mores were *very* different and that writing fantasy is superior to historical fiction since, unless you're truly immersed, you'll never really get the culture of even a recent civilization "right". I think the bit about "taking credit for things he didn't actually do but made decisions about" would fit with the above snips the OP posted.
->>> The benefit with going with something older is that it's probably going to be in English. Depending on how popular the work is all of the secondary material and discussions will be in English too. Of course, this is probably true of something like..Greek works.
->>> > In most fantasy settings legal drinking age doesn't make sense as a concept, for Cthulhu's sake.
->>> Partly the audience is to blame I imagine. The audience can tolerate the idea that all sorts of violence and butchery was acceptable, but certain things (rightly or wrongly) tweak their moral noses.
 >>> 
+>>> Perhaps something from our past as well? 
+>>> 
+>>> [This](https://www.reddit.com/r/AskHistorians/comments/2aiobi/i_want_to_write_a_novel_in_medieval_austria_can/civjgv4) great post tries to argue  that, even in relatively recent times, the mores were *very* different and that writing fantasy is superior to historical fiction since, unless you're truly immersed, you'll never really get the culture of even a recent civilization "right". I think the bit about "taking credit for things he didn't actually do but made decisions about" would fit with the above snips the OP posted.
+>>> 
+>>> The benefit with going with something older is that it's probably going to be in English. Depending on how popular the work is all of the secondary material and discussions will be in English too. Of course, this is probably true of something like..Greek works.
+>>> 
+>>> > In most fantasy settings legal drinking age doesn't make sense as a concept, for Cthulhu's sake.
+>>> 
+>>> Partly the audience is to blame I imagine. The audience can tolerate the idea that all sorts of violence and butchery was acceptable, but certain things (rightly or wrongly) tweak their moral noses.
 
-> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram* (9 minutes later)
 > 
 > I'm going to have to mull this over, but that's a very interesting point.
-> You might look for works that don't make these mistakes to "prime the pump".
-> In the _1632_ universe we get to see 20th century attitudes like these running into 17th century ones, and some of the authors produce scenes like these, and others seem to have thought through what you're talking about and you get entertaining misunderstandings... from both sides.
-> Glen Cook's "Wiz Biz" series has Wiz Zumwalt slapped down over and over again in the first book where he's expecting people to treat him like a peer and they... well... don't.
 > 
+> You might look for works that don't make these mistakes to "prime the pump".
+> 
+> In the _1632_ universe we get to see 20th century attitudes like these running into 17th century ones, and some of the authors produce scenes like these, and others seem to have thought through what you're talking about and you get entertaining misunderstandings... from both sides.
+> 
+> Glen Cook's "Wiz Biz" series has Wiz Zumwalt slapped down over and over again in the first book where he's expecting people to treat him like a peer and they... well... don't.
 
-> **u/None** [+8] *
+> **u/None** [+10]  (27 minutes later)
 > 
 > >Are there techniques or stories that do a good job of making characters really feel like they're thinking in another culture's frameworks?
-> Ursula Le Guin books tend to be nice for it.  She was an anthropologist: read anthropology.  Also, travel.
 > 
+> Ursula Le Guin books tend to be nice for it.  She was an anthropologist: read anthropology.  Also, travel.
 
->> **u/IllusoryIntelligence** [+2] *
+>> **u/IllusoryIntelligence** [+2]  (8 days later)
 >> 
 >> Seconding Ursula Le Guin, her works are a great read in general but for cultural distinctions I'd really recommend Left Hand of Darkness which manages to include clear distinctions of class, race and gender. If you're up for an example from fanfic [Embers](https://www.fanfiction.net/s/5398503/1/Embers) by Vathara does a good job of handling the difficulties 4 values distinct cultures face when attempting to interact diplomatically, it also comes with some pretty useful discussion of the real world influences used as author's notes.
->> 
 
-> **u/Transfuturist** [+3]  *Carthago delenda est.**
+> **u/Transfuturist** [+3]  *Carthago delenda est.* (3 hours later)
 > 
 > I have not seen anything like "Mage Academy Workroom," save Naruto fanfiction and similar that just plain gets their society wrong. I'm not sure this is actually hard to avoid. There are plenty of alt-society tropes in use everywhere.
-> 
 
-> **u/MonstrousBird** [+2] *
+> **u/MonstrousBird** [+2]  (2 hours later)
 > 
 > Perhaps look closer to home? Think about how children are treated, or how women sometimes have to behave in offices. This is all really good stuff and I have to remember to incorporate it anyway.
-> 
 
 ---
 

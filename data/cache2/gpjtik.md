@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/danielparks** [+1] *
+> **u/danielparks** [+1]  (an hour later)
 > 
 > There are two posts for this chapter. [The other one](https://www.reddit.com/r/rational/comments/gpjtog/rtmkwip_delve_chapter_96_sanctuary/) has comments.
-> 
 
 ---
 

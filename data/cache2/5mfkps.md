@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+> **u/AugSphere** [+3]  *Dark Lord of Corruption* (2 hours later)
 > 
 > It's flattering and all, but we don't really *need* two posts per update, do we?
-> 
 
-> **u/eaglejarl** [+0] *
+> **u/eaglejarl** [+0]  (8 minutes later)
 > 
 > Let this be a lesson, kids:  Think before you say anything that a demigod won't like!
-> 
 
 ---
 

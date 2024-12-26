@@ -2,7 +2,7 @@
 
 * Author: u/DRMacIver *
 * URL: http://www.drmaciver.com/2017/01/programmer-at-large-whats-that-noise/
-* Score: 29
+* Score: 30
 
 * Created: 2017-01-20T08:00:17
 
@@ -12,162 +12,167 @@
 
 ### Comments:
 
-> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life* (4 hours later)
 > 
 > I continue to enjoy this story far more than I can explain to all but a very few of my meat-space friends.  With time it could even overtake *Stargate Physics 101*...
-> (And thanks also for Hypothesis, which is still my favorite library ever :))
 > 
+> (And thanks also for Hypothesis, which is still my favorite library ever :))
 
->> **u/DRMacIver** [+1] *
+>> **u/DRMacIver** [+1]  (6 hours later)
 >> 
 >> Thanks! I'm blushing slightly, but happy you enjoy my work. :-)
->> 
 
-> **u/Meneth32** [+2] *
+> **u/Meneth32** [+2]  (5 hours later)
 > 
 > I think the timespans here are a bit weird. A megasecond is just over 277 days. A "fifty megasecond nap" would take 37 years.
-> 
 
->> **u/DRMacIver** [+4] *
+>> **u/DRMacIver** [+4]  (5 hours later)
 >> 
 >> You've got a calculation error somewhere - a megasecond is about 11.5 days. A fifty megasecond nap is only about a year and a half.
->> (And yes, the timescales are weird, but they're correct)
 >> 
+>> (And yes, the timescales are weird, but they're correct)
 
->> **u/nicholaslaux** [+1] *
+>> **u/nicholaslaux** [+1]  (a day later)
 >> 
 >> You've got a slight issue in your calculations. I'm getting ready to celebrate my gigasecond birthday later this year, which is approximately 31.5 years, so 50 Ms is 1/20th of that, or about a year and a half, without looking it up.
->> 
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (9 hours later)
 > 
 > I don't know how intentional is is, but I really like how the conversational interface doesn't have any consistent voice.
-> I would love to hear some thoughts about better ways to organize things then file systems.
 > 
+> I would love to hear some thoughts about better ways to organize things then file systems.
 
->> **u/DRMacIver** [+4] *
+>> **u/DRMacIver** [+4]  (10 hours later)
 >> 
 >> > I don't know how intentional is is, but I really like how the conversational interface doesn't have any consistent voice.
->> Mostly unintentional but intentionally not avoided. It's a specific feature that the conversational interface is something closer to cleverbot + a long history of editing and heuristic tweaking than any sort of true AI.
->> It *is* deliberate that it alternates between very dry (somewhat automated) and very sarcastic (someone has probably edited this while annoyed).
->> > I would love to hear some thoughts about better ways to organize things then file systems.
->> I'm semi-deliberately not going to provide too many canon answers about how the shipboard computer systems actually work.
->> My assumption is that they have some sort of extremely well indexed content addressable storage as their public interface for organising things and then individual processes have a private namespace of on disk data that they own and can expose parts of to clients.
 >> 
+>> Mostly unintentional but intentionally not avoided. It's a specific feature that the conversational interface is something closer to cleverbot + a long history of editing and heuristic tweaking than any sort of true AI.
+>> 
+>> It *is* deliberate that it alternates between very dry (somewhat automated) and very sarcastic (someone has probably edited this while annoyed).
+>> 
+>> > I would love to hear some thoughts about better ways to organize things then file systems.
+>> 
+>> I'm semi-deliberately not going to provide too many canon answers about how the shipboard computer systems actually work.
+>> 
+>> My assumption is that they have some sort of extremely well indexed content addressable storage as their public interface for organising things and then individual processes have a private namespace of on disk data that they own and can expose parts of to clients.
 
->>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>>> **u/traverseda** [+3]  *With dread but cautious optimism* (10 hours later)
 >>> 
 >>> > I'm semi-deliberately not going to provide too many canon answers about how the shipboard computer systems actually work.
->>> I get that. I'd still like to hear some non-canon thoughts on the subject though. I'm working on some tools to treat rethinkdb like a filesystem, in that it fills a similar role, not in that you interact with it like a file system.
->>> Capnproto is also doing some interesting stuff, integrating an object store with its RPC protocol.
 >>> 
+>>> I get that. I'd still like to hear some non-canon thoughts on the subject though. I'm working on some tools to treat rethinkdb like a filesystem, in that it fills a similar role, not in that you interact with it like a file system.
+>>> 
+>>> Capnproto is also doing some interesting stuff, integrating an object store with its RPC protocol.
 
->>>> **u/DRMacIver** [+2] *
+>>>> **u/DRMacIver** [+2]  (a day later)
 >>>> 
 >>>> OK, so informally the following is the design in my head for how things work in terms of trade fleet data organisation. It doubtless has major flaws, and exists more as a model for me to think about this than it does an actual design:
+>>>> 
 >>>> * Everything is abstraction layer upon abstraction layer upon abstraction layer. Often there are multiple competing abstraction layers and an additional abstraction layer on top of them to paper over the differences.
 >>>> * There is a multiply redundant distributed content addressable object store threaded throughout the ship. In fact there are probably several of them with entirely independent lineages just to be sure. Can be thought of informally as a bunch of files named by hashes with replication to multiple servers, but it's probaly smarter than that.
 >>>> * There are a variety of naming systems on top of that, but there is probably one primary distributed hash table that has a bunch of canonical names that point into the CAS. Think DNS, but probably non-hierarchical. There is some complicated permissions model for how it gets updated.
 >>>> * There are also a bunch of indexing systems which are effectively very smart search engines for things in the CAS.
 >>>> * Separately, each process is localized to a server with its own disk space and may ask for private on disk "files" which are growable buffers with a fixed maximum size. Each gets a UUID of some sort associated with it. It chooses how these persist across process restarts (the default is that it is wiped each time). It may share these buffers with other processes running on the same machine through some sort of object capability model. Depending on its permissions it *may* be able to read and write data to the central storage.
 >>>> * All code and associated data lives in the CAS, including the incremental states. Dependencies are identified by hash (there is no versioning per se - everything is pinned, but there are a number of pointers that suggest things like "this code supplants that code"). Deployment consists of saying "Run the process description associated with this hash on the servers matching this query".
+>>>> 
 >>>> Designing file systems and data organisation isn't really my forte, so I'm sure one or more of these assumptions is hopelessly naive.
+>>>> 
 >>>> But it doesn't necessarily matter because the following are the *actual* rules for technical design of trade fleet software:
+>>>> 
 >>>> * Any problem we could currently imagine solving with time and brute force has been solved with time and brute force to a degree that looks magical to us. e.g. search Just Works to a truly ridiculous level of DWIM.
 >>>> * Any problem we would require a really deep theoretical breakthrough to solve has not been solved and may be unsolvable. e.g. canonically P!=NP in this universe and cracking a sufficiently large 21st century SSL key would still be non-trivial to impossible.
 >>>> * trade fleet opinions about what constitutes good design are not necessarily *correct* compared to ours, merely different and optimized for a very specific environment. e.g. For all I know hierarchical file systems really are some pinnacle of good design.
->>>> 
 
->> **u/sparr** [+1] *
+>> **u/sparr** [+1]  (22 hours later)
 >> 
 >> > I would love to hear some thoughts about better ways to organize things then file systems.
->> Without getting away from the idea of a "file", we we already have better organizational systems for files that don't involve nested folders. There are photo organizers and music organizers and email clients that don't use nested folders but instead use labels/tags and provide ways to filter and view and search based on that metadata. Consider the two fictional folder paths /programs/Autocad/configuration and /programs/Word/configuration. There is no real reason that there are two separate file system entries for "configuration". "program" and some sort of classified-tag for the name and "configuration" could be three separate tags applied to each of the files.
->> This can be extended to the *contents* of files as well. Given the appropriate background data store, every row/line/entry/item in a file could be its own entry, and they could all have tags just like files had in the previous paragraph. Consider a bunch of documents that contain a font size. Asking for every document with a particular font size *could* be the same operation as asking for every document "in" a particular "folder", as could asking for just the line(s) from the document(s) where the font size is specified. In very very very stupid terms, imagine if every text file on your hard drive was concatenated into one big file, with every line having the original filename prepended to it. You could extract a single whole "file" from this with grep, just as fast as you could do any other grep operation that got some data from many "files".
 >> 
+>> Without getting away from the idea of a "file", we we already have better organizational systems for files that don't involve nested folders. There are photo organizers and music organizers and email clients that don't use nested folders but instead use labels/tags and provide ways to filter and view and search based on that metadata. Consider the two fictional folder paths /programs/Autocad/configuration and /programs/Word/configuration. There is no real reason that there are two separate file system entries for "configuration". "program" and some sort of classified-tag for the name and "configuration" could be three separate tags applied to each of the files.
+>> 
+>> This can be extended to the *contents* of files as well. Given the appropriate background data store, every row/line/entry/item in a file could be its own entry, and they could all have tags just like files had in the previous paragraph. Consider a bunch of documents that contain a font size. Asking for every document with a particular font size *could* be the same operation as asking for every document "in" a particular "folder", as could asking for just the line(s) from the document(s) where the font size is specified. In very very very stupid terms, imagine if every text file on your hard drive was concatenated into one big file, with every line having the original filename prepended to it. You could extract a single whole "file" from this with grep, just as fast as you could do any other grep operation that got some data from many "files".
 
->>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>> **u/traverseda** [+1]  *With dread but cautious optimism* (a day later)
 >>> 
 >>> I'm familiar with the idea of a tagged filesystem, but in my opinion that's only a small part.
->>> What if more then one process wants to access a data object at once? A good 'file system' should handle locking and merge-conflicts, as an example. That's going to end up being pretty necessary for big distributed piles-of-daemons like the ones in this story.
->>> Tagging FS are a very small improvement over our existing options, I think.
 >>> 
+>>> What if more then one process wants to access a data object at once? A good 'file system' should handle locking and merge-conflicts, as an example. That's going to end up being pretty necessary for big distributed piles-of-daemons like the ones in this story.
+>>> 
+>>> Tagging FS are a very small improvement over our existing options, I think.
 
-> **u/MaddoScientisto** [+2] *
+> **u/MaddoScientisto** [+2]  (15 hours later)
 > 
 > Simply amazing, although you are evil because I had to constantly Google the values of the seconds  to get an idea of what time scale they are talking about
-> 
 
->> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+6]  *Ankh-Morpork City Watch* (16 hours later)
 >> 
 >> I infer from this that you haven't read much of Vinge (A Fire On The Deep, A Deepness In The Sky)? If that is the case, you should definitely go check his stuff out.
->> Not like super rational or anything, but anyone who likes the stuff this subreddit has and this story series in particular will probably love Vinge.
 >> 
+>> Not like super rational or anything, but anyone who likes the stuff this subreddit has and this story series in particular will probably love Vinge.
 
->>> **u/sparr** [+1] *
+>>> **u/sparr** [+1]  (22 hours later)
 >>> 
 >>> [Heart of the Comet](https://en.wikipedia.org/wiki/Heart_of_the_Comet) is what got me comfortable with SI/decimal time increments.
->>> 
 
->>> **u/bassicallyboss** [+1] *
+>>> **u/bassicallyboss** [+1]  (a day later)
 >>> 
 >>> I actually think that *A Deepness in the Sky* hewed very closely to the "official" Rational principles (i.e., those listed on the sidebar).  But it does lack most of the "unofficial" tropes that are often seen in Rational fiction (Slow accumulation of power, munchkining, winning by out-thinking all your enemies, slight preachiness about utilitarianism/atheism/transhumanism, etc).  I'd second your recommendation whole-heartedly, in any case.  Anyone who hangs out here will probably appreciate and enjoy it.  I certainly did, despite having to take a break because of how horrified I was by Focus.
->>> (Haven't read *A Fire Upon the Deep* yet, so can't vouch for it either way, but I certainly intend to.)
->>> I'm really enjoying *Programmer At Large* because it's like a bunch of Qeng Ho slice of life vignettes, which is something I never knew I wanted before.
 >>> 
+>>> (Haven't read *A Fire Upon the Deep* yet, so can't vouch for it either way, but I certainly intend to.)
+>>> 
+>>> I'm really enjoying *Programmer At Large* because it's like a bunch of Qeng Ho slice of life vignettes, which is something I never knew I wanted before.
 
->>>> **u/DRMacIver** [+2] *
+>>>> **u/DRMacIver** [+2]  (a day later)
 >>>> 
 >>>> > But it does lack most of the "unofficial" tropes that are often seen in Rational fiction (Slow accumulation of power, munchkining, winning by out-thinking all your enemies, slight preachiness about utilitarianism/atheism/transhumanism, etc)
->>>> In this I'm staying fairly true to the source material.
->>>> (Arthur will probably win by out-thinking their enemies, but their main enemy in this story is the plumbing system so that's not very hard)
 >>>> 
+>>>> In this I'm staying fairly true to the source material.
+>>>> 
+>>>> (Arthur will probably win by out-thinking their enemies, but their main enemy in this story is the plumbing system so that's not very hard)
 
->>>> **u/STL** [+1] *
+>>>> **u/STL** [+1]  (a day later)
 >>>> 
 >>>> > winning by out-thinking all your enemies
->>>> Pretty sure that [Deepness spoiler](#s "Nuwen's localizer backdoor and Sherkaner's counterlurk are prime examples of out-thinking").
 >>>> 
+>>>> Pretty sure that [Deepness spoiler](#s "Nuwen's localizer backdoor and Sherkaner's counterlurk are prime examples of out-thinking").
 
->>>>> **u/bassicallyboss** [+1] *
+>>>>> **u/bassicallyboss** [+1]  (2 days later)
 >>>>> 
 >>>>> Yes, I suppose both of those fit the description I gave.  [Deepness spoilers](#s "I think the second one especially does, because the localizer backdoor gives Nuwen a secret advantage in terms of power/abilities, whereas the counterlurk is done from a place of nearly complete weakness.  Unfortunately, the latter happens offscreen, but it's still wonderful to see the results.")
->>>>> "Winning by out-thinking all your enemies" could describe pretty much any story where victory is not just a matter of power.  *Lord of the Rings*, for example:  Instead of winning through force of arms, they conceive and execute a strategy that Sauron didn't think about, and so bring about his downfall.  That's pretty broad, and not at all confined to Rational fiction; I was trying to get at something a little more specific.
->>>>> Many Rational stories have a sort of pattern where the protagonist gets into a bind, gets out of it by thinking of a clever solution or using a tool no one else was smart enough to invent.  Then they get into another bind, think their way out of that one, and so on.  Several works that are well-liked on this sub have this pattern (*Methods of Rationality,* *The Two Year Emperor,* and *The Waves Arisen* all do), but I've not seen it much elsewhere.  *A Deepness in the Sky* doesn't really do this iteration of clever solutions, or at least it didn't feel like the same thing to me.  [Deepness ](#s "has plenty of plotting and preparation, but it's all more or less in reference to one major bind--the Emergents' oppression of the Qeng Ho for the humans, and the Emergents' designs on the Spiders for the latter--and all the action in escaping from the bind happens at the end of the book.")
 >>>>> 
+>>>>> "Winning by out-thinking all your enemies" could describe pretty much any story where victory is not just a matter of power.  *Lord of the Rings*, for example:  Instead of winning through force of arms, they conceive and execute a strategy that Sauron didn't think about, and so bring about his downfall.  That's pretty broad, and not at all confined to Rational fiction; I was trying to get at something a little more specific.
+>>>>> 
+>>>>> Many Rational stories have a sort of pattern where the protagonist gets into a bind, gets out of it by thinking of a clever solution or using a tool no one else was smart enough to invent.  Then they get into another bind, think their way out of that one, and so on.  Several works that are well-liked on this sub have this pattern (*Methods of Rationality,* *The Two Year Emperor,* and *The Waves Arisen* all do), but I've not seen it much elsewhere.  *A Deepness in the Sky* doesn't really do this iteration of clever solutions, or at least it didn't feel like the same thing to me.  [Deepness ](#s "has plenty of plotting and preparation, but it's all more or less in reference to one major bind--the Emergents' oppression of the Qeng Ho for the humans, and the Emergents' designs on the Spiders for the latter--and all the action in escaping from the bind happens at the end of the book.")
 
->> **u/daydev** [+2] *
+>> **u/daydev** [+2]  (a day later)
 >> 
 >> Now you know the pain of every non-American forced to deal with feet, pounds, and other such nonsense because of American cultural dominance.
->> 
 
->>> **u/MaddoScientisto** [+1] *
+>>> **u/MaddoScientisto** [+1]  (a day later)
 >>> 
 >>> I'm not american so I know exactly that pain, it's just that nobody uses the SI for seconds
->>> 
 
->>>> **u/daydev** [+1] *
+>>>> **u/daydev** [+1]  (a day later)
 >>>> 
 >>>> For me, what's one more conversion to relatable units when I have to do this type of thing all the time anyway? I figured it would only be a big deal for an American who is not used to have to convert units.
->>>> 
 
->> **u/DRMacIver** [+1] *
+>> **u/DRMacIver** [+1]  (a day later)
 >> 
 >> There are some rules of thumb that help:
+>> 
 >> * 1 megasecond = 1 fortnight (it's actually closer to 11.6 days, but for informal reading the difference will rarely matter)
 >> * 30 megaseconds = 1 year (actually more like 11.5 months, but again good enough).
->> The metric units come from Vinge's Qeng Ho, who are the major inspiration for this story (though the Trade Fleet society have diverged rather far from the source material and have a healthy dose of Ursula Le Guin and other sources in their design. Vinge is very libertarian and the Trade Fleet are... not).
 >> 
+>> The metric units come from Vinge's Qeng Ho, who are the major inspiration for this story (though the Trade Fleet society have diverged rather far from the source material and have a healthy dose of Ursula Le Guin and other sources in their design. Vinge is very libertarian and the Trade Fleet are... not).
 
-> **u/Gurkenglas** [+2] *
+> **u/Gurkenglas** [+2]  (a day later)
 > 
 > I sure hope he now goes on to publically propose to convert all old private-disk-buffer-that-have-never-been-read generators into loggers.
-> 
 
->> **u/DRMacIver** [+2] *
+>> **u/DRMacIver** [+2]  (a day later)
 >> 
 >> You have (more or less) correctly anticipated the next chapter, yes.
->> It's a bit harder than that of course.
 >> 
+>> It's a bit harder than that of course.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Salaris  *Dominion Sorcerer**
 * URL: https://www.reddit.com/r/rational/comments/k7rsbz/to_celebrate_the_release_of_arcane_ascension_3/
-* Score: 50
+* Score: 49
 
 * Created: 2020-12-06T10:57:09
 
@@ -53,114 +53,96 @@ I get a lot of comparisons to Brandon Sanderson and Will Wight, so it's probably
 
 ### Comments:
 
-> **u/FaustRivers** [+5] *
+> **u/FaustRivers** [+6]  (2 hours later)
 > 
 > For people using Amazon in Italy, it is free there too, just checked for you.
-> (I already bought both in may 2019 and they are really good!)
 > 
+> (I already bought both in may 2019 and they are really good!)
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (14 hours later)
 >> 
 >> I'm glad you enjoyed them!
->> 
 
-> **u/RegnarFle** [+6] *
+> **u/RegnarFle** [+5]  (4 hours later)
 > 
 > Free in Canada too!
-> 
 
->> **u/Salaris** [+2]  *Dominion Sorcerer**
+>> **u/Salaris** [+2]  *Dominion Sorcerer* (14 hours later)
 >> 
 >> Awesome! Thanks for letting me know.
->> 
 
-> **u/Jokey665** [+4]  *Worth the Candle**
+> **u/Jokey665** [+4]  *Worth the Candle* (15 hours later)
 > 
 > oh shit i didn't even know this was releasing. good timing, i just finished rhythm of war
-> 
 
->> **u/Salaris** [+3]  *Dominion Sorcerer**
+>> **u/Salaris** [+3]  *Dominion Sorcerer* (15 hours later)
 >> 
 >> Awesome! I, too, just finished Rhythm of War. =D
->> 
 
-> **u/kaukamieli** [+3] *
+> **u/kaukamieli** [+3]  (15 hours later)
 > 
 > That quick blurp sounds exactly like tower of god.
-> 
 
->> **u/Salaris** [+5]  *Dominion Sorcerer**
+>> **u/Salaris** [+5]  *Dominion Sorcerer* (15 hours later)
 >> 
 >> There's some similarity there, but this is more like a mix between something like Tower of God and a magical school story. Also, multiple towers rather than one, and the main character is very different. 
->> Corin is much more of a nerdy wizard type than a shonen-style fighter like Bam.
 >> 
+>> Corin is much more of a nerdy wizard type than a shonen-style fighter like Bam.
 
->> **u/rizcoco** [+1] *
+>> **u/rizcoco** [+1]  (a day later)
 >> 
 >> How's tower of god these days? Heard it went downhill and never got around to picking it back up.
->> 
 
->>> **u/MrPoofles** [+3] *
+>>> **u/MrPoofles** [+3]  (a day later)
 >>> 
 >>> There's been a few slow arcs but the end of Season 2 and Season 3 have been really epic in my opinion. It's become closer in spirit to a more traditional shonen over the years but the characters evolve in very natural/interesting ways and the worldbuilding is as incredible as ever.
->>> 
 
->>> **u/kaukamieli** [+1] *
+>>> **u/kaukamieli** [+1]  (a day later)
 >>> 
 >>> No idea. Haven't read it for a long time.
->>> 
 
-> **u/PDNeznor** [+2] *
+> **u/PDNeznor** [+2]  (9 hours later)
 > 
 > This is awesome news, congrats on your book 3 release! I'll definitely check out the series, it sounds right up my alley.
-> 
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (13 hours later)
 >> 
 >> Thank you, I hope you enjoy the books if you decide to read them!
->> 
 
->>> **u/PDNeznor** [+1] *
+>>> **u/PDNeznor** [+1]  (26 days later)
 >>> 
 >>> Hey again, I really liked the premise and the setting of your story. Very cool to have a rogue-like dungeon that hands out magical powers. And it seems like you put a lot of thought into how adding that into a world shapes the cultures that inhabit it; the part about intergenerational occupations based on the magic received from the tower was a cool idea. And I liked the implication that a caste system arose from having those powers. I see a lot of potential in your story.
->>> Unfortunately, the book didn't really connect with me, so I didn't finish to the end. Regardless, I wish you success and good health.
 >>> 
+>>> Unfortunately, the book didn't really connect with me, so I didn't finish to the end. Regardless, I wish you success and good health.
 
->>>> **u/Salaris** [+1]  *Dominion Sorcerer**
+>>>> **u/Salaris** [+1]  *Dominion Sorcerer* (27 days later)
 >>>> 
 >>>> Thanks for giving the book a try, even if it didn't quite work for you! I appreciate you being willing to give it a glance.
->>>> 
 
-> **u/EsquilaxM** [+2] *
+> **u/EsquilaxM** [+2]  (16 hours later)
 > 
 > Free in Australia.
 > Reading the blurb for book 3, it seems Six Sacred Swords would be recommended reading?
-> 
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (17 hours later)
 >> 
 >> I tried to write it in a way that the Weapons & Wielders books are not mandatory to read this one, but you'll definitely have more context if you do read those.
->> 
 
-> **u/AweKartik777** [+2] *
+> **u/AweKartik777** [+2]  (3 days later)
 > 
 > Free in India as well, thanks!
-> 
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (3 days later)
 >> 
 >> You're welcome, enjoy the books!
->> 
 
-> **u/CorneliusPhi** [+1] *
+> **u/CorneliusPhi** [+1]  (16 days later)
 > 
 > I enjoyed The Torch that Ignites the Stars a lot, but the >!tower arc felt more like filler than the tower did in the previous books!<
-> 
 
->> **u/Salaris** [+1]  *Dominion Sorcerer**
+>> **u/Salaris** [+1]  *Dominion Sorcerer* (16 days later)
 >> 
 >> That's understandable - it was in a lighter and more comedic style than usual, and they weren't >!dealing with threats from Katashi or Mizuchi, so the situation didn't have anywhere near as much risk involved!<. That said, some of the things that happened in there, >!especially the talks with Meltlake and the contract with Emery!< will have long-term impacts on the story as a whole.
->> 
 
 ---
 

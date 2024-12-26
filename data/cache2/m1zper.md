@@ -20,25 +20,25 @@ If you haven't read this story before, it's a hard fantasy (or soft sci-fi?) mur
 
 ### Comments:
 
-> **u/tjhance** [+3] *
+> **u/tjhance** [+3]  (a day later)
 > 
 > You know, I can't help but wonder if it was intentional to make Su study a discipline focused on entropy given that her own problem is somewhat 'entropic' in nature as (it seems) her identities are irreversibly mixing together. Even if it had once been possible to separate them out - will it be now?
-> For example, Su clearly associates more with the person-from-the-flashbacks. On the other hand, I think (but am not 100% sure) that her weird math skills and other general prodigiousness is from the person named Utsushikome (the person from the flashbacks seemed to struggle with academics).
 > 
+> For example, Su clearly associates more with the person-from-the-flashbacks. On the other hand, I think (but am not 100% sure) that her weird math skills and other general prodigiousness is from the person named Utsushikome (the person from the flashbacks seemed to struggle with academics).
 
-> **u/nolrai** [+2] *
+> **u/nolrai** [+2]  (19 hours later)
 > 
 > Wait. Is this an Isekai? \*narrows eyes\*  
-
-> Okay this is the first time this work interested me the way the garden where only names grow did.
-> I am bad at analyzing stories but stuff is starting to make sense to me.
 > 
+> Okay this is the first time this work interested me the way the garden where only names grow did.
+> 
+> I am bad at analyzing stories but stuff is starting to make sense to me.
 
-> **u/nolrai** [+2] *
+> **u/nolrai** [+2]  (a day later)
 > 
 > The obvious meaning of the notes here is that Su has known about this issue since well before the beginning of the story. So now it is being revealed to us.
-> Though the bit about a scene being not produced for us is very weird. Like I get why the letters might give us the info we need in a better way, but..hmm. Maybe I am over thinking it.
 > 
+> Though the bit about a scene being not produced for us is very weird. Like I get why the letters might give us the info we need in a better way, but..hmm. Maybe I am over thinking it.
 
 ---
 

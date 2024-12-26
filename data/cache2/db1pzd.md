@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/db1pzd/pyrebound_84/
-* Score: 9
+* Score: 10
 
 * Created: 2019-09-29T21:42:48
 
@@ -16,20 +16,17 @@ EDIT: for some reason, Reddit is treating this post as invisible for everyone bu
 
 ### Comments:
 
-> **u/Brell4Evar** [+2] *
+> **u/Brell4Evar** [+2]  (2 days later)
 > 
 > This is the first time I've seen this post.  I have nothing but praise for your prose, sir.
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (2 days later)
 >> 
 >> Thank you!  We worked it out, there's some sort of goofy glitch and I think I know how to avoid it in the future.
->> 
 
-> **u/RedSheepCole** [+1] *
+> **u/RedSheepCole** [+1]  (a day later)
 > 
 > Hm, no upvotes in 36 hours.  Did you folks really, really dislike 8.3?
-> 
 
 ---
 

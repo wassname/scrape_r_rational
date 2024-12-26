@@ -19,43 +19,39 @@ It's basically a full rewrite of Bleach, characters are similiar but many flaws 
 
 ### Comments:
 
-> **u/kraryal** [+10] *
+> **u/kraryal** [+10]  (10 hours later)
 > 
 > Does the writing quality increase later on? I'm afraid the first chapter was too jarring for me to get through.
-> 
 
->> **u/Hidden-50** [+4] *
+>> **u/Hidden-50** [+3]  (23 hours later)
 >> 
 >> Yeah, a lot of typos and grammar problems at first glance. Maybe someone who's reading it could make a list for the author to go over.
->> The most often repeating one I've seen so far (through the first chapter) is an/a in front of non-silent 'h'. ``an hero`` -> ``a hero``, ``an Hollow`` -> ``a Hollow``, etc.
->> Edit: also past tense (``didn't went`` -> ``didn't go``)
 >> 
+>> The most often repeating one I've seen so far (through the first chapter) is an/a in front of non-silent 'h'. ``an hero`` -> ``a hero``, ``an Hollow`` -> ``a Hollow``, etc.
+>> 
+>> Edit: also past tense (``didn't went`` -> ``didn't go``)
 
->>> **u/IICVX** [+2] *
+>>> **u/IICVX** [+2]  (2 days later)
 >>> 
 >>> Also 90% of the time "strength" comes out as "strenght" which is super annoying to me for some reason.
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Endovior** [+4] *
+>> **u/Endovior** [+3]  (4 hours later)
 >> 
 >> > So, it's basically the same story again?
->> Not really, no. The characters have the same personality and appearance, but everything else is different, starting with the way Ichigo gains Shinigami powers and moving on from there, to the point that major plot arcs don't happen in the same order; this isn't a "stations of canon" story.
 >> 
+>> Not really, no. The characters have the same personality and appearance, but everything else is different, starting with the way Ichigo gains Shinigami powers and moving on from there, to the point that major plot arcs don't happen in the same order; this isn't a "stations of canon" story.
 
-> **u/iftttAcct2** [+1] *
+> **u/iftttAcct2** [+1]  (2 days later)
 > 
 > Have you read [Walk Two Lifetimes](https://www.fanfiction.net/s/10572048/1/Walk-Two-Lifetimes)?
-> 
 
-> **u/Bay_Ridge_Bob** [+1] *
+> **u/Bay_Ridge_Bob** [+1]  (3 days later)
 > 
 > Aizen destroys a being literally made of pure Reason in canon
-> 
 
 ---
 

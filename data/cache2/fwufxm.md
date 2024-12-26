@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/fwufxm/secret_of_the_patronus_chapter_49_for_the_greater/
-* Score: 18
+* Score: 19
 
 * Created: 2020-04-07T22:43:35
 
@@ -16,25 +16,21 @@ FFN: [https://www.fanfiction.net/s/12975806/49/Harry-Potter-and-the-Secret-of-th
 
 ### Comments:
 
-> **u/tomtan** [+2] *
+> **u/tomtan** [+2]  (20 hours later)
 > 
 > Hey, u/Ms_CIA, just a note that I rather enjoy this fic :)
-> 
 
->> **u/Ms_CIA** [+1]  *Derp**
+>> **u/Ms_CIA** [+1]  *Derp* (20 hours later)
 >> 
 >> Thank you! I'm glad you like it. :) Always nice to hear from readers.
->> 
 
-> **u/PedroBr** [+2] *
+> **u/PedroBr** [+2]  (7 days later)
 > 
 > Chapter 50 was crazy good! Keep it up!
-> 
 
->> **u/Ms_CIA** [+1]  *Derp**
+>> **u/Ms_CIA** [+1]  *Derp* (8 days later)
 >> 
 >> Thanks a lot! I'm pretty happy with how it turned out too. :)
->> 
 
 ---
 

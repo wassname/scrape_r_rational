@@ -2,7 +2,7 @@
 
 * Author: u/mooderino  *The Good Student**
 * URL: https://www.reddit.com/r/rational/comments/4xup0c/rthf_how_to_avoid_death_on_a_daily_basis_chapter/
-* Score: 9
+* Score: 8
 
 * Created: 2016-08-15T17:24:28
 
@@ -70,92 +70,99 @@ New chapters appear on [Fiction Grill](http://www.fictiongrill.com/how-to-avoid-
 
 ### Comments:
 
-> **u/Green0Photon** [+4]  *Student in Cyoria, Minmay, and Ranvar**
+> **u/Green0Photon** [+5]  *Student in Cyoria, Minmay, and Ranvar* (6 hours later)
 > 
 > OK. I don't know what to think of your story.
-> I can't not categorize it as rational, yet it feels so different. All the characters are fucked up, humans are violent weird fuckers, the monsters are crazy, and I don't even know. Colin is definitely crazy, yet somehow he's the only sane person in the story. Except he *isn't* sane.
-> I don't know how you did it, but you made a story I'd expect to be unsatisfying to be *very* satisfying. Your story is so good, but I can't even.
-> I await to see Book Five. You've done some nice work so far. Kudos!
 > 
+> I can't not categorize it as rational, yet it feels so different. All the characters are fucked up, humans are violent weird fuckers, the monsters are crazy, and I don't even know. Colin is definitely crazy, yet somehow he's the only sane person in the story. Except he *isn't* sane.
+> 
+> I don't know how you did it, but you made a story I'd expect to be unsatisfying to be *very* satisfying. Your story is so good, but I can't even.
+> 
+> I await to see Book Five. You've done some nice work so far. Kudos!
 
->> **u/mooderino** [+2]  *The Good Student**
+>> **u/mooderino** [+2]  *The Good Student* (17 hours later)
 >> 
 >> Thanks.
->> Yeah, it's not strictly rational other than in a general 'realistic' approach which I often abandon when there's a gag to be made. I only post here (usually at the start and end of volumes) because others have posted discussions of the story on this sub previously and I have quite a lot of readers who frequent this subreddit.
->> It's been quite a divisive story because (I think) I tackle various triggering issues and have a number of difficult female characters. It gets me a lot of downvotes, but I still mange to find readers interested in reading a less obvious approach to fantasy, so I guess it works out for most people. Glad you're one of them.
 >> 
+>> Yeah, it's not strictly rational other than in a general 'realistic' approach which I often abandon when there's a gag to be made. I only post here (usually at the start and end of volumes) because others have posted discussions of the story on this sub previously and I have quite a lot of readers who frequent this subreddit.
+>> 
+>> It's been quite a divisive story because (I think) I tackle various triggering issues and have a number of difficult female characters. It gets me a lot of downvotes, but I still mange to find readers interested in reading a less obvious approach to fantasy, so I guess it works out for most people. Glad you're one of them.
 
->>> **u/Epicrandom** [+2] *
+>>> **u/Epicrandom** [+2]  (18 hours later)
 >>> 
 >>> A huge portion of your readers go fucking ballistic whenever Jenny's name is mentioned, and I still have no idea why.  I've never seen anything like it.
->>> 
 
->>>> **u/mooderino** [+2]  *The Good Student**
+>>>> **u/mooderino** [+2]  *The Good Student* (20 hours later)
 >>>> 
 >>>> IKR? Somebody described it as going around a dungeon with the final boss in your party.
->>>> I wanted her to be a challenge, not a waifu and not a tsundere, but the reaction from some has been really violent. Her trying to manipulate him while obviously liking him just threw a lot of people. Felt real to me. Maybe too real...
 >>>> 
+>>>> I wanted her to be a challenge, not a waifu and not a tsundere, but the reaction from some has been really violent. Her trying to manipulate him while obviously liking him just threw a lot of people. Felt real to me. Maybe too real...
 
->>>>> **u/Ruljinn** [+6] *
+>>>>> **u/Ruljinn** [+5]  (a day later)
 >>>>> 
 >>>>> >A huge portion of your readers go fucking ballistic whenever Jenny's name is mentioned, and I still have no idea why. I've never seen anything like it.
->>>>> Having just binged through the whole thing, what I *think* might have happened is exactly what Claire warns us about. Namely, the readers (myself included) spent too much time with Colin and we all got kind of suckered into his style of semi-justified paranoid thinking. It probably doesn't help that we can see how she's *successfully* changing him both in ways that he notices and ways that he doesn't really seem to.
->>>>> While reading, I went through a whole slew of different theories on what she was trying to accomplish as a long con (My favorite is still the period where I was *convinced* that Jenny was dead/captured and had been replaced by a shape-shifted troll.) Now, at the end of book 4 she *seems* to have meshed into the party permanently, but my brain keeps looking for what she could be up to by habit.
 >>>>> 
+>>>>> Having just binged through the whole thing, what I *think* might have happened is exactly what Claire warns us about. Namely, the readers (myself included) spent too much time with Colin and we all got kind of suckered into his style of semi-justified paranoid thinking. It probably doesn't help that we can see how she's *successfully* changing him both in ways that he notices and ways that he doesn't really seem to.
+>>>>> 
+>>>>> While reading, I went through a whole slew of different theories on what she was trying to accomplish as a long con (My favorite is still the period where I was *convinced* that Jenny was dead/captured and had been replaced by a shape-shifted troll.) Now, at the end of book 4 she *seems* to have meshed into the party permanently, but my brain keeps looking for what she could be up to by habit.
 
->>>>>> **u/mooderino** [+5]  *The Good Student**
+>>>>>> **u/mooderino** [+3]  *The Good Student* (a day later)
 >>>>>> 
 >>>>>> I think most of my readers identify with Colin and part of the stories popularity is down to how many pissed off young men there are in the world. And they tend not to like Colin either being too happy or too messed with (by girls in particular).
->>>>>> At the same time, I often get attacked for both being misogynistic and pandering to the PC crowd, so there's no winning.
 >>>>>> 
+>>>>>> At the same time, I often get attacked for both being misogynistic and pandering to the PC crowd, so there's no winning.
 
->>>>>>> **u/Ruljinn** [+2] *
+>>>>>>> **u/Ruljinn** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> > At the same time, I often get attacked for both being misogynistic and pandering to the PC crowd, so there's no winning.
->>>>>>> Aside from the specific details regarding which two groups are doing it, I think that's called 'being an author.' 
->>>>>>> I'm writing a story where the main character is a BTVS vampire. The MC, Jack, is literally a demon in a human suit. I don't get *attacked* but I have reader commentary both pulling for him to be both more and less of a sociopathic monster. Often citing the same act/decision taken.
->>>>>>> Readers, being a naturally varied lot, are rarely going to unanimously agree about anything. Unless maybe if it's a typo of some sort.
 >>>>>>> 
+>>>>>>> Aside from the specific details regarding which two groups are doing it, I think that's called 'being an author.' 
+>>>>>>> 
+>>>>>>> I'm writing a story where the main character is a BTVS vampire. The MC, Jack, is literally a demon in a human suit. I don't get *attacked* but I have reader commentary both pulling for him to be both more and less of a sociopathic monster. Often citing the same act/decision taken.
+>>>>>>> 
+>>>>>>> Readers, being a naturally varied lot, are rarely going to unanimously agree about anything. Unless maybe if it's a typo of some sort.
 
->> **u/Ruljinn** [+2] *
+>> **u/Ruljinn** [+2]  (a day later)
 >> 
 >> > I don't know how you did it, but you made a story I'd expect to be unsatisfying to be very satisfying. Your story is so good, but I can't even.
->> I think it's that the story is very focused on the main character and his team's reactions to the shit going on around them. 
->> Sure, there's a plot going on, things are happening, but I don't know that it's actually important to the story. In the sense that I'm fairly certain Colin and company could have set off into the woods and done most anything else and I'd have enjoyed reading about Colin banging his head against the metaphorical brick wall about as much. The story could have been about Colin's merry band of misfits doing MMO style fetch and FedEx quests and that group of characters would *find* a way to make hilarity ensue.
 >> 
+>> I think it's that the story is very focused on the main character and his team's reactions to the shit going on around them. 
+>> 
+>> Sure, there's a plot going on, things are happening, but I don't know that it's actually important to the story. In the sense that I'm fairly certain Colin and company could have set off into the woods and done most anything else and I'd have enjoyed reading about Colin banging his head against the metaphorical brick wall about as much. The story could have been about Colin's merry band of misfits doing MMO style fetch and FedEx quests and that group of characters would *find* a way to make hilarity ensue.
 
-> **u/nolrai** [+2] *
+> **u/nolrai** [+2]  (2 days later)
 > 
 > I think I tried the first couple chapters of this and didn't like it, should I skip ahead or give up?
-> 
 
->> **u/mooderino** [+2]  *The Good Student**
+>> **u/mooderino** [+2]  *The Good Student* (2 days later)
 >> 
 >> It does start off quite slow and takes until the end of the first book (more or less) to find its feet. This was because I winged it from the start (as an experiment). It does get better, but I wouldn't jump ahead as there are a lot of call backs to stuff that happened early on. It also depends what you didn't like about it. If the characters didn't strike you as interesting you probably won't warm to them any time soon. 
->> Mind you, I am the author so it's hard to be objective.
 >> 
+>> Mind you, I am the author so it's hard to be objective.
 
->> **u/HonestyIsForTheBirds** [+2] *
+>> **u/HonestyIsForTheBirds** [+2]  (4 days later)
 >> 
 >> I found Book 1 kind of slow going, too. It does pick up after that, and the writing is brilliant. You can start with Book 2, maybe around Chapter 48 even.
+>> 
 >> Synopsis of Book 1 ([spoilers](http://www.rot13.com)):  
 >> N ohapu bs lbhat crbcyr jnxr hc gb svaq gurzfryirf va n fgenatr jbeyq jvgu snvevrf naq bterf. Gurl unir guerr qnlf gb yrnea gb fheivir gurer, gura gurl ner ba gurve bja. Gur ZP, Pbyva, grnzf hc jvgu sryybj ybfref Pynver/Znhevpr naq Sybffvr/Qhqyrl. Cheryl ol punapr gurl xvyy gur Zbhfr Xvat naq frg bss sbe Sratnenq sbe gurve erjneq.
->> 
 
-> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!* (18 hours later)
 > 
 > But mooderino, the story is called How To Avoid Death on a DAILY Basis, not Three days per week!
 > (to be fair I stole this joke from the comment section of your latest chapter)
-> But seriously, its all good so far, and if you think it can be better with more write time then all the power to you. Also i am a bit OCD-ed that Book Five ended on chapter 131 instead of say 130 or 125, making it so all books have equal chapter numbers.
-> As for you story quality, the first I have to say is that Mandy and Cheng hooked up way to fast, it hasn't even been a day in story time, and I feel a girl seeing a demon turn into boyband member isnt going to go straight in bed with him, consider adding few days after introduction to ease them in to boning.
-> Also it would have been good for Colin to explain the situation to both Road Admin guy and Cheng when he had full info on both sides, and why even go into city where Road Admin has power over you? Drop a message by a courier or Dudleys hax arrows, and save yourself from Biadets bullshit. 
-> Humour is still good, feel free to add more.
 > 
+> But seriously, its all good so far, and if you think it can be better with more write time then all the power to you. Also i am a bit OCD-ed that Book Five ended on chapter 131 instead of say 130 or 125, making it so all books have equal chapter numbers.
+> 
+> As for you story quality, the first I have to say is that Mandy and Cheng hooked up way to fast, it hasn't even been a day in story time, and I feel a girl seeing a demon turn into boyband member isnt going to go straight in bed with him, consider adding few days after introduction to ease them in to boning.
+> 
+> Also it would have been good for Colin to explain the situation to both Road Admin guy and Cheng when he had full info on both sides, and why even go into city where Road Admin has power over you? Drop a message by a courier or Dudleys hax arrows, and save yourself from Biadets bullshit. 
+> 
+> Humour is still good, feel free to add more.
 
->> **u/mooderino** [+3]  *The Good Student**
+>> **u/mooderino** [+3]  *The Good Student* (20 hours later)
 >> 
 >> I wanted it to end on 130 as well (for similar reasons) but when I couldn't I decided to end it sooner rather than later. Probably could have stretched it out to 135 if I really wanted to but I was awful tired by that point. The stress of writing 5 days a week really tells after a while. Hopefully I'll be able to avoid that next book.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Raszhivyk  *The Culture**
 * URL: https://www.royalroad.com/fiction/25225/delve/chapter/471204/087-pet
-* Score: 65
+* Score: 64
 
 * Created: 2020-03-22T06:04:46
 
@@ -12,158 +12,159 @@
 
 ### Comments:
 
-> **u/xachariah** [+17] *
+> **u/xachariah** [+19]  (an hour later)
 > 
 > At first thought, it's funny that Bosco has a bound weapon that he can't even charge.  But thinking about it, it's not that crazy of an idea.
-> If you're not awakened, you shouldn't ever be in a serious fight.  You won't be out adventuring and using it all the time, so it's only real use is as an emergency item or the *one* time you go to get awakened (then you can charge it yourself).  As a weapon, it can't be stolen nor used against you, which is good if you're in a society where there's a bunch of adventurers who can kill you effortlessly but are also relatively low income.  Also, (I think?) bound items can be more enchanted than an equal quality unbound item.
-> To compare it to IRL, if people could make their self-defense firearms bound, that'd be better for the majority of use-cases.
 > 
+> If you're not awakened, you shouldn't ever be in a serious fight.  You won't be out adventuring and using it all the time, so it's only real use is as an emergency item or the *one* time you go to get awakened (then you can charge it yourself).  As a weapon, it can't be stolen nor used against you, which is good if you're in a society where there's a bunch of adventurers who can kill you effortlessly but are also relatively low income.  Also, (I think?) bound items can be more enchanted than an equal quality unbound item.
+> 
+> To compare it to IRL, if people could make their self-defense firearms bound, that'd be better for the majority of use-cases.
 
->> **u/Bowbreaker** [+6]  *Solitary Locust**
+>> **u/Bowbreaker** [+7]  *Solitary Locust* (4 hours later)
 >> 
 >> Afaik an awakened can't really charge it if they haven't gotten the Mana Manipulation skill or something equivalent. On the other hand you can pay people to charge your weapon, and I think that includes soulbound ones. Even if they hide their stats from strangers.
->> 
 
->>> **u/Brell4Evar** [+3] *
+>>> **u/Brell4Evar** [+3]  (15 hours later)
 >>> 
 >>> It wouldn't make any sense at all to make the effect apply to charging. Owners of such items would almost certainly want others (such as  lackeys) to be able to charge them.
->>> 
 
-> **u/clawclawbite** [+17] *
+> **u/clawclawbite** [+16]  (17 hours later)
 > 
 > Uncertain Savior is amazing. No wonder it is legendary.
-> Just being able to adjust your build as you find out you use some things and not others is impressive. Go adventure as a combat monster, then come home, rest a month and be a crafter for a while. Then add in the fulfilling prerequisites, and able to fudge them, and you can possibly be very top heavy with skills. With time, it could also possibly unlock a lot of hidden skills too.
-> I would rather have that than a class that raised all skills to Max level 15, and the major upside of some level 25 classes seems to be doing that for specific skill tabs only.
-> I know the goal of all Clarity is to unlock a better Dymano class at 25, but I wonder what unlocking all skills to tier 2 will add to the class selection. If he gets stuck at a level near but under 25 for a while, and unlocks all skills to tier 3, what kinds of classes might that open too.
-> Very interesting finding out what more classes can do.
 > 
+> Just being able to adjust your build as you find out you use some things and not others is impressive. Go adventure as a combat monster, then come home, rest a month and be a crafter for a while. Then add in the fulfilling prerequisites, and able to fudge them, and you can possibly be very top heavy with skills. With time, it could also possibly unlock a lot of hidden skills too.
+> 
+> I would rather have that than a class that raised all skills to Max level 15, and the major upside of some level 25 classes seems to be doing that for specific skill tabs only.
+> 
+> I know the goal of all Clarity is to unlock a better Dymano class at 25, but I wonder what unlocking all skills to tier 2 will add to the class selection. If he gets stuck at a level near but under 25 for a while, and unlocks all skills to tier 3, what kinds of classes might that open too.
+> 
+> Very interesting finding out what more classes can do.
 
->> **u/RetardedWabbit** [+12] *
+>> **u/RetardedWabbit** [+11]  (a day later)
 >> 
 >> You're right, Uncertain Savior is absolutely insane. It might take 1 or 2 days but she can have a fully specialized build for every task, stats and skills included. She can also experiment like no one else can, testing for skill synergies and refining all of her builds over time. This is huge: refining builds takes generations for others, she can do it over weeks. This is probably the ideal power if you got dropped into the world without knowledge like Rain, he lucked into a strong build and is locked into it. He could have just as easily guessed vivicent and gotten stuck with it.
->> She also has great synergy with Rain: he can help her train far faster and is unlocking every skill tier. She could do his passive build for example, and generally tell her all the skills he can see.
->> At home? Training build. Travel to the fight? Travel/utility build. Combat? Whatever build counters your expected opponent and complements your team. Looks like she tends towards monk for combat.
 >> 
+>> She also has great synergy with Rain: he can help her train far faster and is unlocking every skill tier. She could do his passive build for example, and generally tell her all the skills he can see.
+>> 
+>> At home? Training build. Travel to the fight? Travel/utility build. Combat? Whatever build counters your expected opponent and complements your team. Looks like she tends towards monk for combat.
 
-> **u/nohat** [+11] *
+> **u/nohat** [+12]  (14 hours later)
 > 
 > I'm still confused that he just now thought about switching his auras to avoid mage burn. Is the author reading reader complaints? 
-> The empire must be pretty terrifying because they make soldiers with builds meant to work in an army, whereas everyone else makes small group warriors that have to be self sufficient. Presumably the empire doesn't have people keeping class requirements a personal secret, so they are also probably all rare/legendary classes. Actually how has anyone survived this long against them?
-> Still don't see how no one has realized how good dynamo/animus are given synergy and prismatic intent.
-> Seems essence well's main use may be mana burning enemy warriors.
 > 
+> The empire must be pretty terrifying because they make soldiers with builds meant to work in an army, whereas everyone else makes small group warriors that have to be self sufficient. Presumably the empire doesn't have people keeping class requirements a personal secret, so they are also probably all rare/legendary classes. Actually how has anyone survived this long against them?
+> 
+> Still don't see how no one has realized how good dynamo/animus are given synergy and prismatic intent.
+> 
+> Seems essence well's main use may be mana burning enemy warriors.
 
->> **u/xachariah** [+8] *
+>> **u/xachariah** [+9]  (14 hours later)
 >> 
 >> From the impression I got, the Empire is new and they are that good.  It sounds like they're wiping out people like Alexander the Great, and the story is in a transition period before their tactics take over.
->> Dynamo/Animus can't be that synergistic, since Animus will still get soulstrain from too much mana.
 >> 
+>> Dynamo/Animus can't be that synergistic, since Animus will still get soulstrain from too much mana.
 
->>> **u/nohat** [+5] *
+>>> **u/nohat** [+3]  (15 hours later)
 >>> 
 >>> Huh, maybe, I thought the emperor had been ruling for hundreds of years though.
->>> I'm referring to Magical Synergy, the skill that lets 25% of focus contribute to mana regen (and clarity to mana pool). So Animus is useless before you get it (because it takes so long to get mana) but after it you get great regen and great damage bonus and mana pool. Soul strain only applies to overmana right?
 >>> 
+>>> I'm referring to Magical Synergy, the skill that lets 25% of focus contribute to mana regen (and clarity to mana pool). So Animus is useless before you get it (because it takes so long to get mana) but after it you get great regen and great damage bonus and mana pool. Soul strain only applies to overmana right?
 
->>>> **u/xachariah** [+3] *
+>>>> **u/xachariah** [+4]  (15 hours later)
 >>>> 
 >>>> I might be wrong on the Empire timetable.  I think they've expanded recently, so maybe this is a doctrine change?
->>>> Soul strain applies to the amount of mana used.  Val was getting it when Rain was filling him up to level his skills.  
->>>> I'm not sure if Magical Synergy actually helps against mana strain or if that's dependent just on your clarity stat.  I think so, because otherwise Animus would be a much superior stat distribution for Rain using the same aura mastery build (once he hit synergy anyways).
 >>>> 
+>>>> Soul strain applies to the amount of mana used.  Val was getting it when Rain was filling him up to level his skills.  
+>>>> 
+>>>> I'm not sure if Magical Synergy actually helps against mana strain or if that's dependent just on your clarity stat.  I think so, because otherwise Animus would be a much superior stat distribution for Rain using the same aura mastery build (once he hit synergy anyways).
 
->>>>> **u/nohat** [+3] *
+>>>>> **u/nohat** [+3]  (16 hours later)
 >>>>> 
 >>>>> Yeah, the soul strain issue is an important one for whether Animus is actually viable. I'm not clear on if Magical Synergy provides protection.
->>>>> 
 
->>>>>> **u/IgonnaBe3** [+6] *
+>>>>>> **u/IgonnaBe3** [+4]  (17 hours later)
 >>>>>> 
 >>>>>> acording to conversations i had on the delve discord and authors comments an animus without actual clarity would experience soulstrain everytime they cast a spell eventually killing themselves in the process
->>>>>> the author used an analogy of gunpowder(focus) and a canon(clarity). If the gunpowder is stronger than the canon it can damage it. and supposedly magical synergy doesnt help as much
->>>>>> we know that in text, winter seems to help with headaches and so i assume magical synergy would as well, atleast a little bit but animus would still suffer debilitating effects after casting every spell. They couldnt ever use their full mana
 >>>>>> 
+>>>>>> the author used an analogy of gunpowder(focus) and a canon(clarity). If the gunpowder is stronger than the canon it can damage it. and supposedly magical synergy doesnt help as much
+>>>>>> 
+>>>>>> we know that in text, winter seems to help with headaches and so i assume magical synergy would as well, atleast a little bit but animus would still suffer debilitating effects after casting every spell. They couldnt ever use their full mana
 
->>>>>> **u/zorianteron** [+2] *
+>>>>>> **u/zorianteron** [+2]  (3 days later)
 >>>>>> 
 >>>>>> Given it's undecided, and given animus on-paper is probably better than dynamo for rain's build, I'm betting if it ever comes up the author will rule that the soulstrain would render animus unviable.
->>>>>> 
 
-> **u/TwoxMachina** [+5] *
+> **u/TwoxMachina** [+4]  (14 hours later)
 > 
 > At first, I thought there will be a lvl25+ blue in this lair. But now I think it will be 19+. 
 > Vel offers him a 25+ blue after barrier goes down if he takes summer
-> 
 
->> **u/nohat** [+8] *
+>> **u/nohat** [+9]  (14 hours later)
 >> 
 >> Can a blue that high level spawn in a lvl 11 dungeon? Also I doubt he'll want to take spring given he needs the legendary dynamo and prismatic intent terribly.
->> 
 
->>> **u/TwoxMachina** [+8] *
+>>> **u/TwoxMachina** [+6]  (14 hours later)
 >>> 
 >>> They did say it had a high variance for this dungeon.
->>> Now, between a choice of taking one suboptimal skill versus not getting to level up in the first place...
->>> The prismatic intent can be delayed one level, provided he get a lvl 27 blue, it has no effect.
->>> Legendary dynamo tho... Not sure will be affected or not. Maybe just the specialization.
 >>> 
+>>> Now, between a choice of taking one suboptimal skill versus not getting to level up in the first place...
+>>> 
+>>> The prismatic intent can be delayed one level, provided he get a lvl 27 blue, it has no effect.
+>>> 
+>>> Legendary dynamo tho... Not sure will be affected or not. Maybe just the specialization.
 
->>> **u/xachariah** [+6] *
+>>> **u/xachariah** [+7]  (15 hours later)
 >>> 
 >>> I'm not sure if he needs to take spring.  He needs to be useful enough for her to sponsor him; he doesn't necessarily need to do everything she says.
->>> Velocity alone is useful to Velika.  If he can end up with something like 'Empire of Speed' (with velocity as its prerequisite), she might be happier to have that than to have Spring.  Velika is experienced, but Rain is outside of her experience.  Velika knows about Spring for example, but *isn't* thinking about how he could be using Essence Well to fill her up in seconds. 
->>> When she learns how much he can buff her without messing up his build, she'll probably be happy with that.  Remember that the DKE is opposed to the Empire and everyone has got a strong taboo against telling people their skills, let alone actually coercing them into taking skills.
 >>> 
+>>> Velocity alone is useful to Velika.  If he can end up with something like 'Empire of Speed' (with velocity as its prerequisite), she might be happier to have that than to have Spring.  Velika is experienced, but Rain is outside of her experience.  Velika knows about Spring for example, but *isn't* thinking about how he could be using Essence Well to fill her up in seconds. 
+>>> 
+>>> When she learns how much he can buff her without messing up his build, she'll probably be happy with that.  Remember that the DKE is opposed to the Empire and everyone has got a strong taboo against telling people their skills, let alone actually coercing them into taking skills.
 
->>>> **u/nohat** [+6] *
+>>>> **u/nohat** [+6]  (16 hours later)
 >>>> 
 >>>> Yeah, he's definitely a killer support player and any team should be happy to have him. I don't think he'll want to work for her unless she has some major personality development though. Might not have much choice of course.
->>>> 
 
->>>> **u/RetardedWabbit** [+3] *
+>>>> **u/RetardedWabbit** [+3]  (a day later)
 >>>> 
 >>>> There seems to be no taboo on recommending skills to people and Velika seems likely to ignore taboos anyway.
->>>> The level for the skill is a cost, but the bigger threat is getting stuck with Velika long term. I wonder what her class is though.
 >>>> 
+>>>> The level for the skill is a cost, but the bigger threat is getting stuck with Velika long term. I wonder what her class is though.
 
->>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (4 days later)
 >>>>> 
 >>>>> I think that Rain could meaningfully make a request something like "I'll stick with you until all of your skills and X number of other people you choose are at level 10" or something like that and do it easily enough.
->>>>> 
 
->>>>>> **u/RetardedWabbit** [+1] *
+>>>>>> **u/RetardedWabbit** [+1]  (4 days later)
 >>>>>> 
 >>>>>> Might be a trap, she could go back on her deal once she is stronger and we are relatively weaker(from taking a support aura). I don't remember Velika's level also, her skills likely cap higher than 10. I also don't remember how skill level exp requirement scales.
->>>>>> "I'll do it for a 27 blue and only for x time" would convince me, but we know she doesn't have access to that blue.
->>>>>> Also levelling people to 10 might be hard depending on their builds, don't want to mageburn them.
 >>>>>> 
+>>>>>> "I'll do it for a 27 blue and only for x time" would convince me, but we know she doesn't have access to that blue.
+>>>>>> 
+>>>>>> Also levelling people to 10 might be hard depending on their builds, don't want to mageburn them.
 
-> **u/Luminous_Lead** [+1] *
+> **u/Luminous_Lead** [+1]  (2 days later)
 > 
 > If a person can, with significant effort and experience expenditure, drastically modify their interface then can they do the same with class creation? Is this how our lightbearer got his class in the first place despite no tree of "light" spells actually existing?
-> 
 
->> **u/zorianteron** [+7] *
+>> **u/zorianteron** [+7]  (3 days later)
 >> 
 >> I think in his case the class already exised as a 'hidden' tree of light spells- you just have to pick them out from all the other trees.  It seems more that his interface was geared towards identifying which skills were part of this hidden set at a glance.
->> In other words:  the default tree layout is just one way of organising and displaying this compendium of skills.  It's more conceivable that you could get the interface to reorder how it displays skills (get it to highlight the skills needed for the class you've desired you whole life, etc) than it is to just make a new class.  The second  seems harder (and you probably need something like mana manipulation to even get a start on it).
 >> 
+>> In other words:  the default tree layout is just one way of organising and displaying this compendium of skills.  It's more conceivable that you could get the interface to reorder how it displays skills (get it to highlight the skills needed for the class you've desired you whole life, etc) than it is to just make a new class.  The second  seems harder (and you probably need something like mana manipulation to even get a start on it).
 
->>> **u/RetardedWabbit** [+1] *
+>>> **u/RetardedWabbit** [+1]  (4 days later)
 >>> 
 >>> I always just assumed he was following his Father/family build or he learned about it from a secret. Keep in mind interface changes are very hard for Rain who is monolithic in the stat that lets you tolerate and change your soul/interface.
->>> 
 
->>>> **u/zorianteron** [+2] *
+>>>> **u/zorianteron** [+2]  (5 days later)
 >>>> 
 >>>> In a section from Val's POV, it's shown that his interface shows him which skills are the right ones for the class (the skills are glowing runes, and the right ones 'feel' right/have the right tinge of pure light about them), so his interface is definitely giving him information other people wouldn't have.
 >>>> Changing your interface is very hard, yes, but different people start with drastically different looking interfaces based on what they're used to, which is why Rain started with a computer/rpg-esque interface.  I'm not saying Val changed his interface, I'm saying that it started off this way because who he is/was when he awakened (presumably with a very strong urge to follow in his father's footsteps, which manifested in the form taken by the interface).
->>>> 
 
-> **u/Sonderjye** [+1] *
+> **u/Sonderjye** [+1]  (7 days later)
 > 
 > I don't really get the Delve hype. The series promises a progression fic with a lot of power fantasy and hasn't delivered on either count for the last many chapters and there's no essence beast in sight.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/hoqjog/d_friday_open_thread/
-* Score: 20
+* Score: 22
 
 * Created: 2020-07-10T15:06:05
 
@@ -16,423 +16,448 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/Veedrac** [+16] *
+> **u/Veedrac** [+15]  (5 hours later)
 > 
 > I want to highlight this AI music, written, composed and sung all by AI. Scroll below the lyrics for the audio. It stumbles over some words so I advise following the lyrics with the music.
-> https://www.gwern.net/GPT-3#the-universe-is-a-glitch
-> There were two AI involved. OpenAI's GPT-3 wrote the lyrics, given only the bold text. OpenAI's Jukebox was given those lyrics plus a genre and artist, and produced the music directly as a waveform.
 > 
+> https://www.gwern.net/GPT-3#the-universe-is-a-glitch
+> 
+> There were two AI involved. OpenAI's GPT-3 wrote the lyrics, given only the bold text. OpenAI's Jukebox was given those lyrics plus a genre and artist, and produced the music directly as a waveform.
 
-> **u/Rhamni** [+14]  *Aspiring author**
+> **u/Rhamni** [+13]  *Aspiring author* (an hour later)
 > 
 > The second season of the anime Re: Zero started this week. The first season was quite popular here four years ago, and the second one is looking quite good so far as well. Also there have been two excellent OVAs released in the meantime, I recommend them. They aren't required, but they add significantly to the world.
-> For those not familiar with Re: Zero, it's an anime where the main protagonist (Who gets Isekai'd) goes back in time when he dies, but does not otherwise have any amazing cheater powers. Unlike just about everyone he meets.
-> One of the great things about the show is that the main character doesn't just rise to the challenge all the time, he fails *miserably* sometimes. He takes some *real* emotional damage along the way, and forms attachments that become one sided when the people who got to know him no longer remember him after resets. He hurts so much. It's marvelous. Kotomine Kirei would be proud.
 > 
+> For those not familiar with Re: Zero, it's an anime where the main protagonist (Who gets Isekai'd) goes back in time when he dies, but does not otherwise have any amazing cheater powers. Unlike just about everyone he meets.
+> 
+> One of the great things about the show is that the main character doesn't just rise to the challenge all the time, he fails *miserably* sometimes. He takes some *real* emotional damage along the way, and forms attachments that become one sided when the people who got to know him no longer remember him after resets. He hurts so much. It's marvelous. Kotomine Kirei would be proud.
 
->> **u/sl236** [+12] *
+>> **u/sl236** [+12]  (an hour later)
 >> 
 >> My main issue with Re:Zero - and we did watch the whole first season - is I found the main character utterly narcissistic, and if he learned / improved at all on this front (debatable) it happened much too slowly to make me start caring about what happened to him. 
->> Normally with a timeloop, the fun is watching the character progress; but here it feels like he only ever stumbles into doing the right thing accidentally after trying everything else, every time, even when other characters repeatedly straight up explain to him how his narcissism has been at the root of his pains. 
->> Do we know if this aspect improves later? - does he actually get less obnoxious? - I mean, surely he must do eventually, that's usually the entire point of this story pattern; - so I guess I'm really asking, for anyone who's read the source material, do we know if he's likely to change much this season, or are they saving it all for some later climax?
 >> 
+>> Normally with a timeloop, the fun is watching the character progress; but here it feels like he only ever stumbles into doing the right thing accidentally after trying everything else, every time, even when other characters repeatedly straight up explain to him how his narcissism has been at the root of his pains. 
+>> 
+>> Do we know if this aspect improves later? - does he actually get less obnoxious? - I mean, surely he must do eventually, that's usually the entire point of this story pattern; - so I guess I'm really asking, for anyone who's read the source material, do we know if he's likely to change much this season, or are they saving it all for some later climax?
 
->>> **u/Rhamni** [+11]  *Aspiring author**
+>>> **u/Rhamni** [+11]  *Aspiring author* (2 hours later)
 >>> 
 >>> ...I mean, that's the main theme in the second half of the first season. He hits a low point with trying to declare himself Emilia's knight, getting gruesomely humiliated, and revealing his delusions and fucked up desire to be so important she can't live without him. The rest of the season after that is him having bottomed out and trying to climb out of the pit he put himself in. He has to acknowledge that he's basically useless on his own and needs to rely on others, even (especially) that knight he hates who carried out much of his humiliation.
->>> I don't think it's accurate at all to dismiss him as narcissistic toward the end - the plot bends over backwards to beat that out of him. He's still *sassy*, but he learns that he is not very capable on his own and starts paying a lot more attention not just to how potential allies are useful, but to who they are and what they want. In the first episode of season two this continues, something bad happens (Surprise) and his immediate concern is minimizing damage done to others and looking for ways to restore what damage has been done. It doesn't gain him anything. It doesn't help him pursue Emilia. It isn't something he believes is easy to accomplish. He hates doing it, but he puts himself through crap to help other characters.
 >>> 
+>>> I don't think it's accurate at all to dismiss him as narcissistic toward the end - the plot bends over backwards to beat that out of him. He's still *sassy*, but he learns that he is not very capable on his own and starts paying a lot more attention not just to how potential allies are useful, but to who they are and what they want. In the first episode of season two this continues, something bad happens (Surprise) and his immediate concern is minimizing damage done to others and looking for ways to restore what damage has been done. It doesn't gain him anything. It doesn't help him pursue Emilia. It isn't something he believes is easy to accomplish. He hates doing it, but he puts himself through crap to help other characters.
 
->> **u/None** [+12] *
+>> **u/None** [+11]  (5 hours later)
 >> 
 >> I absolutely despise the main character. I've heard people call him 'realistic' or a 'deconstruction', but to me, he can *at best* be an unkind, poorly-thought-out caricature of an otaku. Never seen a real person in my life that acted with such... obnoxiousness. Even the most socially-awkward people I know are miles better than him, and with better self-preservation instincts, too. And even if he *were* realistic, I still wouldn't enjoy watching him *at all*. There are ways to use an unlikable protagonist, or a protagonist that is a bad person. Re:Zero didn't convince me it knows how. 
->> I can't believe he's anything more than a tool through which the author can inflict thinly-veiled failure porn. Maybe other people have different standards than me, can see the show in the better light. But I've read a lot of positive reviews and analyses, and they didn't really make an impression on me, so...
 >> 
+>> I can't believe he's anything more than a tool through which the author can inflict thinly-veiled failure porn. Maybe other people have different standards than me, can see the show in the better light. But I've read a lot of positive reviews and analyses, and they didn't really make an impression on me, so...
 
->>> **u/InfernoVulpix** [+7] *
+>>> **u/InfernoVulpix** [+8]  (10 hours later)
 >>> 
 >>> I think, instead of an obnoxious otaku caricature, those parts were *supposed* to come off as a big mess of unhealthy coping mechanisms.  I could easily buy Subaru's infatuation with Emilia, his peppy happiness, and his dogged determination being his mind desperately trying to create some narrative where his transportation to this world and all the suffering he's endured since all has *purpose*.
->>> Thing is, though, if that were true, it's not showing.  Maybe it's true and more clear in the LNs, but in that case the anime is a bad adaptation that turns Subaru from a tragic mess to a caricature of an idiot otaku.
 >>> 
+>>> Thing is, though, if that were true, it's not showing.  Maybe it's true and more clear in the LNs, but in that case the anime is a bad adaptation that turns Subaru from a tragic mess to a caricature of an idiot otaku.
 
->> **u/Amargosamountain** [+3] *
+>> **u/Amargosamountain** [+3]  (2 hours later)
 >> 
 >> That sounds awesome, I've been looking for an anime with an underpowered MC!
->> 
 
->>> **u/Rhamni** [+3]  *Aspiring author**
+>>> **u/Rhamni** [+3]  *Aspiring author* (2 hours later)
 >>> 
 >>> It's definitely one of my favourite animes. It doesn't hurt that the animation is gorgeous, either.
->>> 
 
->> **u/AStartlingStatement** [+2] *
+>> **u/AStartlingStatement** [+2]  (3 hours later)
 >> 
 >> > Re: Zero
->> First season was very enjoyable for anyone who missed it. It's quite well done and the loop will really resonate with the interests of a lot of people in this community.
 >> 
+>> First season was very enjoyable for anyone who missed it. It's quite well done and the loop will really resonate with the interests of a lot of people in this community.
 
-> **u/None** [+6] *
+> **u/None** [+6]  (43 minutes later)
 > 
 > I think my favourite aspect of board games that aren't captured well by any other genre of game is social manipulation and deception. Like in Risk, building alliances and choosing the right time to break them is very important, and not an experience to get elsewhere. Many other games are much better war simulators, or are more fun to try to calculate specific probabilities of whether you'll achieve victory, but few other games are so much negiotiating with people.
-> Similarly with One Night Ultimate Werewolf, trying to figure out who is lying and catching people in lies is a fairly unique experience to that genre of card game. And I love it and find it a lot of fun. There's some probability work, but it's really measuring how good of a liar you are.
 > 
+> Similarly with One Night Ultimate Werewolf, trying to figure out who is lying and catching people in lies is a fairly unique experience to that genre of card game. And I love it and find it a lot of fun. There's some probability work, but it's really measuring how good of a liar you are.
 
->> **u/sl236** [+7] *
+>> **u/sl236** [+8]  (an hour later)
 >> 
 >> FWIW, [Skull](https://boardgamegeek.com/boardgame/92415/skull) is basically just social deception distilled to its purest form (you can play it with regular playing cards, just use a black card and three red cards each to represent the skull and the roses).
->> At the opposite end of the scale is [The Mind](https://boardgamegeek.com/boardgame/244992/mind) which exercises exactly the same people-reading skills, but cooperatively.
->> Both are jolly good fun.
 >> 
+>> At the opposite end of the scale is [The Mind](https://boardgamegeek.com/boardgame/244992/mind) which exercises exactly the same people-reading skills, but cooperatively.
+>> 
+>> Both are jolly good fun.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 hours later)
 >>> 
 >>> Skull looks good. I might try to play it soon.
->>> 
 
->> **u/jtolmar** [+5] *
+>> **u/jtolmar** [+4]  (an hour later)
 >> 
 >> Me too! Bluffing games get to use humans as a component and those are way more interesting than what can be contained in the rulebook. I also like dexterity games, which get to import all of physics.
->> Bluffing game recs:
->> * Cockroach Poker - Almost the entire game is "is this person lying?" or "are all my friends spontaneously conspiring to lie to me?" Lying and telling the truth are mechanically identical, it's just a matter of identifying which. It's replaced Skull as the most pure bluffing game my group plays.
->> * Coup - Still a classic. I like that lying in this game is a purely proactive self-driven choice. You never need to lie in Coup, but you probably won't win if you don't.
->> * Sheriff of Nottingham - The theme of this (basically lying to a customs agent) and the rotation of who gets to be a corrupt official abusing their power, makes this pretty funny.
->> * Fake Artist Goes To New York - Hybrid bluffing/art game. It's a very funny setup.
->> Bluffing-adjacent game recs:
->> * Welcome To The Dungeon - Kind of like Blackjack but each player can only see some of the cards, and you have to infer whether the hand has busted or not from a mix of your information and what other players have done. I love this game but it doesn't click for a lot of people.
->> * 6-Nimnt - Kind of like Blackjack crossed with some sort of rock paper scissors prisoner's dilemma game theory thing. You have to guess what other players are going to play, but up to eight people can play at once so it's also part luck.
 >> 
+>> Bluffing game recs:
+>> 
+>> * Cockroach Poker - Almost the entire game is "is this person lying?" or "are all my friends spontaneously conspiring to lie to me?" Lying and telling the truth are mechanically identical, it's just a matter of identifying which. It's replaced Skull as the most pure bluffing game my group plays.
+>> 
+>> * Coup - Still a classic. I like that lying in this game is a purely proactive self-driven choice. You never need to lie in Coup, but you probably won't win if you don't.
+>> 
+>> * Sheriff of Nottingham - The theme of this (basically lying to a customs agent) and the rotation of who gets to be a corrupt official abusing their power, makes this pretty funny.
+>> 
+>> * Fake Artist Goes To New York - Hybrid bluffing/art game. It's a very funny setup.
+>> 
+>> Bluffing-adjacent game recs:
+>> 
+>> * Welcome To The Dungeon - Kind of like Blackjack but each player can only see some of the cards, and you have to infer whether the hand has busted or not from a mix of your information and what other players have done. I love this game but it doesn't click for a lot of people.
+>> 
+>> * 6-Nimnt - Kind of like Blackjack crossed with some sort of rock paper scissors prisoner's dilemma game theory thing. You have to guess what other players are going to play, but up to eight people can play at once so it's also part luck.
 
->>> **u/SvalbardCaretaker** [+6]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+6]  *Mouse Army* (3 hours later)
 >>> 
 >>> Cockroach Poker story, might be useable by you in your next game!
->>>   I'm dealing. Friend counts her cards, says "I got one too many, here, draw a random extra card"... Turns out that was her already cheating before the game even started.
 >>> 
+>>>   I'm dealing. Friend counts her cards, says "I got one too many, here, draw a random extra card"... Turns out that was her already cheating before the game even started.
 
->> **u/ironistkraken** [+4] *
+>> **u/ironistkraken** [+4]  (47 minutes later)
 >> 
 >> And nothing beats the feeling of tricking other people until the final second and stealing victory, which feels much more fair in board games then video games.
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+4]  (50 minutes later)
 >>> 
 >>> Yep. It's either too easy or impossible to hide information in video games often, so betrayal just feels unfair there. But in board games, if you get betrayed, it's probably on you.
->>> But the most frustrating thing is when you get betrayed, and the betrayer doesn't even win- they jist screw it up so a third person wins.
 >>> 
+>>> But the most frustrating thing is when you get betrayed, and the betrayer doesn't even win- they jist screw it up so a third person wins.
 
->>>> **u/ironistkraken** [+1] *
+>>>> **u/ironistkraken** [+1]  (an hour later)
 >>>> 
 >>>> Well people are imperfect in their decisions.
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (2 hours later)
 >>>>> 
 >>>>> Yeah I don't hold grudges long term or anything. Just incredibly frustrating when you calculate everything perfectly, that if everyone else acts rational to maximize their score as much as possible, you'd end up in first, but then someone else screws up their calculation which brings you both down.
->>>>> 
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (8 hours later)
 >>> 
 >>> Or if the victor gets to choose who is second in games with silver medals
->>> This happens in risk and 4 player chess.
->>> Someone starts running away with the game while the crab bucket fights then the winner picks which crabs to eat first
 >>> 
+>>> This happens in risk and 4 player chess.
+>>> 
+>>> Someone starts running away with the game while the crab bucket fights then the winner picks which crabs to eat first
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (11 hours later)
 >>>> 
 >>>> That never happens in my games, 1st place is so much greater than 2nd place usually everyone just teams up against the 1st place guy. And they're never so far ahead they can 1v3.
->>>> 
 
->>>>> **u/RMcD94** [+1] *
+>>>>> **u/RMcD94** [+1]  (17 hours later)
 >>>>> 
 >>>>> Sometimes this happens but most of my games people don't target first player and instead attack person who is already dying
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> Guess it's just a difference in groups.
->>>>>> 
 
->> **u/LazarusRises** [+5] *
+>> **u/LazarusRises** [+4]  (an hour later)
 >> 
 >> Cosmic Encounter is my favorite board game of all time, and is ALL about social manipulation. The best part is that multiple people can win, so you get into situations like "if you team up with me right now we can both win, but if you don't, player 3 wins and we both lose."
->> 
 
->> **u/fassina2** [+2]  *Progressive Overload**
+>> **u/fassina2** [+2]  *Progressive Overload* (10 hours later)
 >> 
 >> Multiplayer 4x games have this.. I'm not sure if it still exists but there were groups you could join where you played Civ V competitive online against other players. It's *very* different from the singleplayer experience.
->> &#x200B;
->> Completely different strategies, tactics, unit usefulness, build orders, diplomacy.. Yes betrayal, bluffs and all. People used to play in voice chat, negotiate through it and everything.
->> &#x200B;
->> You can find some youtube videos of it. Also dominions 4 and 5, you can see some multiplayer series of that, same deal but the game is different.
 >> 
+>> &#x200B;
+>> 
+>> Completely different strategies, tactics, unit usefulness, build orders, diplomacy.. Yes betrayal, bluffs and all. People used to play in voice chat, negotiate through it and everything.
+>> 
+>> &#x200B;
+>> 
+>> You can find some youtube videos of it. Also dominions 4 and 5, you can see some multiplayer series of that, same deal but the game is different.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (10 hours later)
 >>> 
 >>> The few times I've done stuff like that online it's just felt very different. Without being face to face, a lot of the subtlety of bluffing and cajoling is lost I feel. Or maybe online people are just better than my friends and I don't like not being the best manipulator lol
->>> 
 
->> **u/WalterTFD** [+2] *
+>> **u/WalterTFD** [+2]  (a day later)
 >> 
 >> Diplomacy is played online a lot.  I think it is, like, this feeling distilled into a perfect nugget.  If you are ever in a fix for that particular vibe, just fire up a Diplomacy game.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Diplomacy through text just isn't the same feeling to me.
->>> 
 
-> **u/NestorDempster** [+6] *
+> **u/NestorDempster** [+6]  (an hour later)
 > 
 > A couple of months ago I started a forecasting newsletter, which I've since been refining. [Here](https://forum.effectivealtruism.org/posts/5pMawW5pCA85tRcQg/forecasting-newsletter-june-2020) is the link for the last iteration (and [here](https://forum.effectivealtruism.org/posts/TDssNnJsZmiLkhzC4/forecasting-newsletter-may-2020) for the much longer one before).
+> 
 > On the one hand, I feel this tangentially related to some of the interests of this subreddit (e.g., [betting on things](https://www.reddit.com/r/rational/comments/ccbokt/d_mother_of_learning_finale_predictions_spoilers/etmx5mk/?context=8&depth=9) (spoilers for Mother of Learning)). On the other hand, a couple of years ago I signed up to an arachnology newsletter which I've found amusing ever since. Anyways, may the mighty moderators show mercy upon this comment.
+> 
 > In particular, there are several forecasting tournaments running right now which readers might be interested in joining: 
 > - if you're interested in money: [Replication Markets](https://www.replicationmarkets.com/). 
 > - If you're interested in attempting to change the world ("influencing policymakers"): [Foretell](https://www.cset-foretell.com/). 
 > - If you're interested in rapid iteration: [Metaculus](https://www.metaculus.com/). 
 > - If you're interested in lots of questions and lots of other forecasters, [Good Judgment Open](https://www.gjopen.com/) or Metaculus.
-> 
 
->> **u/tobias3** [+2] *
+>> **u/tobias3** [+2]  (a day later)
 >> 
 >> Do you know if any of the tournaments give the participants tools to improve their forcasts? I was a bit disappointed with that when a participated in the Good Judgment project (a long time ago).
->> For example, a simple tool: When forecasting the US Presidential election use the current polling average +X as current forecast.
 >> 
+>> For example, a simple tool: When forecasting the US Presidential election use the current polling average +X as current forecast.
 
->>> **u/NestorDempster** [+1] *
+>>> **u/NestorDempster** [+1]  (a day later)
 >>> 
 >>> I'd say that all tournaments are pretty shitty in that regard. In relative terms, CSET-foretell has *much* nicer info-slides though.
->>> 
 
-> **u/Brell4Evar** [+9] *
+> **u/Brell4Evar** [+9]  (52 minutes later)
 > 
 > I've been toying with the idea of a numberless RPG.
-> Rather than a list of attributes and hit points, characters have a list of assets and afflictions.
-> __Assets__ include *Wealth*, *Wisdom*, *Insight*, *Glory*, *Utility*, *Wanderlust*, *Minion*, and likely many others.
-> __Afflictions__ include *Diseased*, *Wounded*, *Delirious*, *Destitute*, *Lost*, and other negative adjectives suitable for a player's setback.
-> Examples:
-> * A character has *Minion*, *Influence* and *Wealth* assets. The character spends a season grooming their *Minion*, a local caravan master, then spends their *Influence* to promote this NPC into a merchant prince. They then spend their *Wealth* and found a grand bazaar in their city.
-> * A character spends a season traveling, and has horrible misfortune. They arrive back in civilization again, with the *Wounded* affliction, and must take an additional season to remove it.
-> At the moment, I'm thinking over conflict resolution in this game. I'm leaning toward a simple coin toss mechanism.
-> Actions will be categorized as follows:
-> __Trivial:__ Action is automatically successful. Successful coin toss indicates the player may keep one asset they were planning to spend.
-> __Basic:__ Action succeeds without coin toss.
-> __Challenging:__ Toss a coin. If unsuccessful, player fails, loses an asset, and/or gains an affliction (GM's call as to which).
-> __Impossible:__ Action cannot be attempted.
-> Does this system look workable? Are there ways that would make sense to modify it?
 > 
+> Rather than a list of attributes and hit points, characters have a list of assets and afflictions.
+> 
+> __Assets__ include *Wealth*, *Wisdom*, *Insight*, *Glory*, *Utility*, *Wanderlust*, *Minion*, and likely many others.
+> 
+> __Afflictions__ include *Diseased*, *Wounded*, *Delirious*, *Destitute*, *Lost*, and other negative adjectives suitable for a player's setback.
+> 
+> Examples:
+> 
+> * A character has *Minion*, *Influence* and *Wealth* assets. The character spends a season grooming their *Minion*, a local caravan master, then spends their *Influence* to promote this NPC into a merchant prince. They then spend their *Wealth* and found a grand bazaar in their city.
+> 
+> * A character spends a season traveling, and has horrible misfortune. They arrive back in civilization again, with the *Wounded* affliction, and must take an additional season to remove it.
+> 
+> At the moment, I'm thinking over conflict resolution in this game. I'm leaning toward a simple coin toss mechanism.
+> 
+> Actions will be categorized as follows:
+> 
+> __Trivial:__ Action is automatically successful. Successful coin toss indicates the player may keep one asset they were planning to spend.
+> 
+> __Basic:__ Action succeeds without coin toss.
+> 
+> __Challenging:__ Toss a coin. If unsuccessful, player fails, loses an asset, and/or gains an affliction (GM's call as to which).
+> 
+> __Impossible:__ Action cannot be attempted.
+> 
+> Does this system look workable? Are there ways that would make sense to modify it?
 
->> **u/SvalbardCaretaker** [+7]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+7]  *Mouse Army* (an hour later)
 >> 
 >> If you are doing coin tosses as conflict resolution you might es well not have any randomness and just do a purely storydriven approach to it. Characters who are *wealthy* should get better coin tosses/dice than non-wealthy ones at wealth-stuff. Thats the whole point for a large portion of players, to not just have 50/50% every time. 
+>> 
 >> As an example of a RPG that does very well without RNG conflict resolution, Fiasco is very good, lots of fun and 1.5 page rules. 
+>> 
 >> Numenara has something in the same vein as your assets. Haven't played it but studied the source book.  “I am a [fill in an adjective here] [fill
 >> in a noun here] who [fill in a verb here]". eg Swift Shieldbearer who Rides The Lightning". 
->> Conflict resolution is done via dice, but you are trained in your specialties, which gives you more dice.
 >> 
+>> Conflict resolution is done via dice, but you are trained in your specialties, which gives you more dice.
 
->>> **u/RMcD94** [+4] *
+>>> **u/RMcD94** [+4]  (an hour later)
 >>> 
 >>> As I understand it you would not be able to found the bazaar without having the wealthy thing.
->>> That is you're spending wealth to complete the basic action. And if it's challenging well you might lose the wealth and not succeed.
 >>> 
+>>> That is you're spending wealth to complete the basic action. And if it's challenging well you might lose the wealth and not succeed.
 
->>>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (an hour later)
 >>>> 
 >>>> Yeah, that aspect is fine, the whole "50/50, no influence possible" thing is the problem. Snakes and  Ladders is very widely hated among adults, you don't get any influence on the die roll. 
->>>> Whereas "Man, don't get angry" still has roll-to-move but you can select which of your 4 meoples you move. Like, its not a great game but tons better. Theres a minimal set of decision making that makes games playable, coin-tosses are not.
 >>>> 
+>>>> Whereas "Man, don't get angry" still has roll-to-move but you can select which of your 4 meoples you move. Like, its not a great game but tons better. Theres a minimal set of decision making that makes games playable, coin-tosses are not.
 
->>>>> **u/Brell4Evar** [+1] *
+>>>>> **u/Brell4Evar** [+1]  (3 hours later)
 >>>>> 
 >>>>> I understand this concern.
->>>>> It looks like the Challenging difficulty is potentially frustrating. This is somewhat by design, but I'll still need to be careful with it.
->>>>> One of the ideas I've had is that true character growth comes from resilience in the face of failure. I'd reflect this by having a failed task give an alternate reward in the way of a *Grit* asset, which would be required for a subsequent task.
 >>>>> 
+>>>>> It looks like the Challenging difficulty is potentially frustrating. This is somewhat by design, but I'll still need to be careful with it.
+>>>>> 
+>>>>> One of the ideas I've had is that true character growth comes from resilience in the face of failure. I'd reflect this by having a failed task give an alternate reward in the way of a *Grit* asset, which would be required for a subsequent task.
 
->>>>>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>>>>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (3 hours later)
 >>>>>> 
 >>>>>> I don't have a problem with a challenging game. My critique of 50/50 coin toss RNG is that to play a game, decisions have to matter. With a cointoss, it almost doesn't matter what I do. 
->>>>>> I'm of the min/maxing type, heavy boardgamer. Unless I really liked the people I play with I wouldn't want to play a cointoss based game.
 >>>>>> 
+>>>>>> I'm of the min/maxing type, heavy boardgamer. Unless I really liked the people I play with I wouldn't want to play a cointoss based game.
 
->>>>>>> **u/Brell4Evar** [+2] *
+>>>>>>> **u/Brell4Evar** [+2]  (4 hours later)
 >>>>>>> 
 >>>>>>> I also tend to have a lot of fun when I can play with skills and attributes to control the outcomes. That said, the fundamental principle I'd like to stick to here is to keep the game numberless to see how it affects the storytelling (I suspect it may enhance the game narrative if I pull it off right).
->>>>>>> The coin toss isn't intended to be a strict pass/fail mechanism, so much as a way to add some randomness to make play less completely deterministic.
->>>>>>> Players will still have agency in deciding what tasks they'd choose to undertake. The game is intended to have a competitive side, so there would still be wheeling and dealing between players, as well as a time element. (The earlier season automatically wins when this happens; the coin toss is a tiebreaker.) A later season would not be wasted if someone beat them to the punch; they'd simply have to re-use that season on a different action.
 >>>>>>> 
+>>>>>>> The coin toss isn't intended to be a strict pass/fail mechanism, so much as a way to add some randomness to make play less completely deterministic.
+>>>>>>> 
+>>>>>>> Players will still have agency in deciding what tasks they'd choose to undertake. The game is intended to have a competitive side, so there would still be wheeling and dealing between players, as well as a time element. (The earlier season automatically wins when this happens; the coin toss is a tiebreaker.) A later season would not be wasted if someone beat them to the punch; they'd simply have to re-use that season on a different action.
 
->>>>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (4 hours later)
 >>>>>>>> 
 >>>>>>>> Well I look forward to your report of the first session!
->>>>>>>> 
 
->>>> **u/Brell4Evar** [+2] *
+>>>> **u/Brell4Evar** [+2]  (2 hours later)
 >>>> 
 >>>> This is a good point.
->>>> In the case of a challenging action, I'd probably run a failed attempt as either wasted time with resources retained, or else have the player create the grand bazaar, but immediately lose control over it (i.e. they or others could spend subsequent actions to gain control of the new asset).
 >>>> 
+>>>> In the case of a challenging action, I'd probably run a failed attempt as either wasted time with resources retained, or else have the player create the grand bazaar, but immediately lose control over it (i.e. they or others could spend subsequent actions to gain control of the new asset).
 
->> **u/ironistkraken** [+4] *
+>> **u/ironistkraken** [+6]  (an hour later)
 >> 
 >> You would need to be able to gather assets pretty easily for anyone to have fun.
->> 
 
->>> **u/Brell4Evar** [+1] *
+>>> **u/Brell4Evar** [+1]  (3 hours later)
 >>> 
 >>> Thank you! Details follow:
->>> Players are each in possession of a "Power Seed" - an internal source of quasi-magical energy. Each seed progresses as the player accomplishes goals that align with their power. The stages are New, Intermediate, and Mature.
->>> The play is intended to be long term, taking place over about a year at a time. During this year, every player has *Spring*, *Summer*, and *Autumn* assets, each representing an investment of time.
->>> Each player additionally gains assets based on their seed type and stage. An Envoy Seed produces *Influence*, for example. With rare exceptions, assets are intended to be tradable.
->>> I'll need to think this over a bit more. I agree that more assets is better, but I don't want the players to have more than one of the same asset.
 >>> 
+>>> Players are each in possession of a "Power Seed" - an internal source of quasi-magical energy. Each seed progresses as the player accomplishes goals that align with their power. The stages are New, Intermediate, and Mature.
+>>> 
+>>> The play is intended to be long term, taking place over about a year at a time. During this year, every player has *Spring*, *Summer*, and *Autumn* assets, each representing an investment of time.
+>>> 
+>>> Each player additionally gains assets based on their seed type and stage. An Envoy Seed produces *Influence*, for example. With rare exceptions, assets are intended to be tradable.
+>>> 
+>>> I'll need to think this over a bit more. I agree that more assets is better, but I don't want the players to have more than one of the same asset.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (2 hours later)
 >> 
 >> Lady Blackbird is a free one shot RPG with a similar approach, you can look at that. For conflict resolution, you tally up all your relevant skills (e.g Guns, Fighting, and Bravery for a gunfight), roll a dice for each skill, and get 1 point for every 4+ you get. Then if your points are > than the difficulty the DM set for the conflict, you succeed.
->> 
 
-> **u/Roxolan** [+10]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+10]  *Head of antimemetiWalmart senior assistant manager* (an hour later)
 > 
 > I was trying to recommend Worth the Candle to some friends, in the context of recommending various D&D-inspired fiction. So I went looking for a sample that would 
+> 
 > * be a few paragraphs long at most
 > * make sense when read on its own
 > * be fairly representative of what's good about WtC
 > * not a massive spoiler
-> (And also not show too much of the videogame aspect of it, since I was presenting it as D&D-inspired.)
-> This is surprisingly difficult! For comparison I was easily able to find a good [sample](https://i.imgur.com/Tpd558P.jpg) for [IDW's D&D comic](https://readcomiconline.to/Comic/Dungeons-Dragons-2010/Issue-0?id=49727), and [one](https://i.imgur.com/JEpILGO.gif) for [The Order of the Stick](https://www.giantitp.com/comics/oots0001.html) - but those are comics.
-> I narrowed it down to [six options](https://imgur.com/a/xUtKxOL) and eventually picked [this one](https://i.imgur.com/7abGMpi.png), but I can't say I'm really satisfied with any of them.
-> &nbsp;
-> This is also prep work for a blog post I'm thinking about writing to explain and recommend more ratfics, for my normie friends. I'm often asked what I'm currently reading, and really want to talk about it, but find myself unable to do so without a shitload of weird context. "So I'm reading this litRPG insekai harem deconstruction rational webfic... oh, you know about 'deconstruction', great let's talk about all the other words."
 > 
+> (And also not show too much of the videogame aspect of it, since I was presenting it as D&D-inspired.)
+> 
+> This is surprisingly difficult! For comparison I was easily able to find a good [sample](https://i.imgur.com/Tpd558P.jpg) for [IDW's D&D comic](https://readcomiconline.to/Comic/Dungeons-Dragons-2010/Issue-0?id=49727), and [one](https://i.imgur.com/JEpILGO.gif) for [The Order of the Stick](https://www.giantitp.com/comics/oots0001.html) - but those are comics.
+> 
+> I narrowed it down to [six options](https://imgur.com/a/xUtKxOL) and eventually picked [this one](https://i.imgur.com/7abGMpi.png), but I can't say I'm really satisfied with any of them.
+> 
+> &nbsp;
+> 
+> This is also prep work for a blog post I'm thinking about writing to explain and recommend more ratfics, for my normie friends. I'm often asked what I'm currently reading, and really want to talk about it, but find myself unable to do so without a shitload of weird context. "So I'm reading this litRPG insekai harem deconstruction rational webfic... oh, you know about 'deconstruction', great let's talk about all the other words."
 
->> **u/sicutumbo** [+16] *
+>> **u/sicutumbo** [+15]  (an hour later)
 >> 
 >> This is a fun snippet that I think conveys the flavor of WtC well, and meets all your criteria:
->> > Soskanna was a semi-intelligent sword with a long history, captured from a dragon’s hoard three years prior when Uther became one of the first mortals to ever kill one. It was as smart as a two-year-old human, more or less, capable of simple sentences spoken directly into the head of its wielder. Conversation was difficult if the topic was complex, and when found Soskanna had its own objectives, as sentient entads often did. When it had been forged, its goal had been set: it desired to kill the King of Palmain. In the centuries that it sat in the dragon’s hoard though, the kingdom had been replaced by a senatorial republic, leaving it unable to fulfill its function. Uther had solved that problem in the space of a free afternoon by coercing the senators into temporarily reinstating the monarchy with supreme power vested in a prisoner set to be executed, a task which he accomplished while the ink on the law was still wet. Soskanna had been insistent about its directive before, but after the long-awaited murder was done, it went dormant, speaking only when spoken to, pliant to a fault -- and there were other, more powerful swords for Uther and his companions to wield, so it had gone into their arsenal, where it waited to find use.
 >> 
+>> > Soskanna was a semi-intelligent sword with a long history, captured from a dragon’s hoard three years prior when Uther became one of the first mortals to ever kill one. It was as smart as a two-year-old human, more or less, capable of simple sentences spoken directly into the head of its wielder. Conversation was difficult if the topic was complex, and when found Soskanna had its own objectives, as sentient entads often did. When it had been forged, its goal had been set: it desired to kill the King of Palmain. In the centuries that it sat in the dragon’s hoard though, the kingdom had been replaced by a senatorial republic, leaving it unable to fulfill its function. Uther had solved that problem in the space of a free afternoon by coercing the senators into temporarily reinstating the monarchy with supreme power vested in a prisoner set to be executed, a task which he accomplished while the ink on the law was still wet. Soskanna had been insistent about its directive before, but after the long-awaited murder was done, it went dormant, speaking only when spoken to, pliant to a fault -- and there were other, more powerful swords for Uther and his companions to wield, so it had gone into their arsenal, where it waited to find use.
 
->>> **u/Amargosamountain** [+5] *
+>>> **u/Amargosamountain** [+4]  (13 hours later)
 >>> 
 >>> Well, I'm sold. Reminds me of Terry Pratchett. I'll probably read that after I finish Ward
->>> 
 
->>> **u/sicutumbo** [+6] *
+>>> **u/sicutumbo** [+5]  (2 hours later)
 >>> 
 >>> Another fun one:
 >>> > Can I talk, for a moment, about how fucking dumb it was that Aerb had tides? Both the Sun, Celestar, and the stars were in the same apparent position no matter where you were on Aerb, so even if there were gravitation from those sources, it wouldn’t have caused anything that was much like tides on Earth (in theory, the sun’s gravity should have pulled everything to the east at dawn, then everything to the west at dusk), and anyhow, the tides were hexal, meaning low tide happened at the same time no matter where you were on Aerb. So then where the fuck was all that water going or coming from? There were even spring tides and neap tides, caused, on Earth, by whether the sun and moon were working in concert or in opposition, but on Aerb … who fucking knew. Every day, 1020 liters of water were displaced, and there were a whole bunch of complex theories about how it was happening or why, but the tides went in and the tides went out, and no one could explain it.
->>> Slightly spoilery, but not too bad. You could remove Onion's name and it would be fine:
->>> > If I had been fully myself, I might have told him off for being such a fucking cliche. What was next, was he going to remove the weights that he’d been training with? Was he going to reveal that he’d had his eyes closed the whole time? Or reveal that his sword was actually some super special sword forged by blah blah blah, its true power kept from me because displaying it before this audience would —
->>> > “This sword once belonged to Uther Penndraig,” said Onion. “It was one of his last acquisitions. We’ve pretended, for five hundred years, that all it would do is copy the powers of the sword you were fighting against. It’s far, far better than that. If pride is another of your sins, you may take pride in the fact that you are the person that caused me to reveal it to the world.”
->>> And then a virtue:
->>> > Thrown Weapons 50, Richoshot: You can bounce thrown weapons off surfaces without respect to normal physics, up to three times in a row. Weapons bounced in this way do not have to follow the angles dictated by physics, the weapon does not lose speed, and you do not have to have clear sight to secondary surfaces or the target. Attacks made in this way provide a ten percent surprise bonus to attack, because this is stupid and should not work.
 >>> 
+>>> Slightly spoilery, but not too bad. You could remove Onion's name and it would be fine:
+>>> 
+>>> > If I had been fully myself, I might have told him off for being such a fucking cliche. What was next, was he going to remove the weights that he’d been training with? Was he going to reveal that he’d had his eyes closed the whole time? Or reveal that his sword was actually some super special sword forged by blah blah blah, its true power kept from me because displaying it before this audience would —
+>>> 
+>>> > “This sword once belonged to Uther Penndraig,” said Onion. “It was one of his last acquisitions. We’ve pretended, for five hundred years, that all it would do is copy the powers of the sword you were fighting against. It’s far, far better than that. If pride is another of your sins, you may take pride in the fact that you are the person that caused me to reveal it to the world.”
+>>> 
+>>> And then a virtue:
+>>> 
+>>> > Thrown Weapons 50, Richoshot: You can bounce thrown weapons off surfaces without respect to normal physics, up to three times in a row. Weapons bounced in this way do not have to follow the angles dictated by physics, the weapon does not lose speed, and you do not have to have clear sight to secondary surfaces or the target. Attacks made in this way provide a ten percent surprise bonus to attack, because this is stupid and should not work.
 
->>>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager* (2 hours later)
 >>>> 
 >>>> Those both showcase only one cool thing about WtC... But for a blog post maybe that's the right answer, just use multiple very short excerpts that each focus on one quality. Should be easier to avoid context & spoilers then. Thanks.
->>>> 
 
->>>>> **u/sicutumbo** [+5] *
+>>>>> **u/sicutumbo** [+4]  (2 hours later)
 >>>>> 
 >>>>> Yeah, if you're just showcasing, you should try to cut down how much you're showing as much as possible to retain interest. One or two paragraphs each. You could use bits of some of the parts you posted above, and they would work fine, but posting a whole screen of text isn't great if it's part of a larger post, because it bloats the wordcount.
->>>>> 
 
->> **u/jtolmar** [+6] *
+>> **u/jtolmar** [+6]  (an hour later)
 >> 
 >> I think the anyblade section you picked out works better. The old D&D group isn't the main plotline, so it's an odd way to rec. If you want to play up the D&D thing, something like your unicorn example is good, as it shows the embedded story.
->> And yeah, you're right it's hard! I thought there'd be a good excerpt in the elevator scene, but no, everything in this story is tucked away across across multiple chapters of setup and buildup.
->> edit: I got ninja'd by sucutumbo. That's a very nice excerpt.
 >> 
+>> And yeah, you're right it's hard! I thought there'd be a good excerpt in the elevator scene, but no, everything in this story is tucked away across across multiple chapters of setup and buildup.
+>> 
+>> edit: I got ninja'd by sucutumbo. That's a very nice excerpt.
 
->>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (2 hours later)
 >>> 
 >>> > The old D&D group isn't the main plotline, so it's an odd way to rec.
->>> Yeah, that's what made me dissatisfied with that excerpt. 
->>> On the other hand, it shows chemistry, rules-lawyering, creative and politically-aware world-building, and the enduring relevance of the real world (sadly unusual in insekai), which are among WtC's best qualities. 
->>> Most in-Aerb conversations with those properties are super-high-context and spoiler-heavy, though you can see I've showcased some of them in my other excerpts.
 >>> 
+>>> Yeah, that's what made me dissatisfied with that excerpt. 
+>>> 
+>>> On the other hand, it shows chemistry, rules-lawyering, creative and politically-aware world-building, and the enduring relevance of the real world (sadly unusual in insekai), which are among WtC's best qualities. 
+>>> 
+>>> Most in-Aerb conversations with those properties are super-high-context and spoiler-heavy, though you can see I've showcased some of them in my other excerpts.
 
-> **u/Wizard-of-Woah** [+6] *
+> **u/Wizard-of-Woah** [+5]  (an hour later)
 > 
 > You know what's a weird feeling? When your middle-aged mother watched *The Boys* season 2 trailer before you did.
-> 
 
->> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (an hour later)
 >> 
 >> Ha, my retired parents have also been watching *The Boys* whereas I haven't touched it yet. Apparently it came up on a science-fiction program they listen to on the French high-brow literature radio channel.
->> 
 
->> **u/Areign** [+1] *
+>> **u/Areign** [+1]  (an hour later)
 >> 
 >> Did you like the show? It seemed rather average. I watched like 4 or 5 episodes before giving up.
->> 
 
->>> **u/narfanator** [+6] *
+>>> **u/narfanator** [+5]  (2 hours later)
 >>> 
 >>> I loved it, and think it's pretty amazing. If you didn't like the first 4-5 ep, I don't see you liking the rest; there's no real changes in mood, narrative, or narrative methodology.
->>> 
 
->>>> **u/Korakisphinx** [+2] *
+>>>> **u/Korakisphinx** [+2]  (a day later)
 >>>> 
 >>>> i also loved it. i can't wait for more episodes. i think its one of my favorite shows in recent history.
->>>> 
 
->>> **u/AStartlingStatement** [+5] *
+>>> **u/AStartlingStatement** [+4]  (3 hours later)
 >>> 
 >>> It's okay, not great. Homelander was well done, the plane scene was very well done. 
->>> I honestly always felt it's Ennis weakest work and never liked the comics either. I like Ennis a lot, just not this.
 >>> 
+>>> I honestly always felt it's Ennis weakest work and never liked the comics either. I like Ennis a lot, just not this.
 
->>>> **u/Areign** [+5] *
+>>>> **u/Areign** [+6]  (3 hours later)
 >>>> 
 >>>> See thats kind of the opposite of what i thought. 
->>>> I thought Homelander was the most interesting character...at first
->>>> He starts out pretty mysterious, you know he's strong but you don't know see much about him except that he's the leader. Then you see the justice league meeting and he's like 'lets tell stories about people we saved' or something like that.
->>>> He looks like a paragon of light among a bunch of shitheads. Perhaps he's so naive he doesn't see it, perhaps he is deliberately kept in the dark. It looks like he's lending his legitimacy to the rest of the crew. Cool, very interesting I was excited to watch.
->>>> Then they show that he's actually evil. Wow, he's hid it so well, no one knows except those who are about to die. Pretty cool, I wonder what his motivation is? Was this a greater good kind of thing? Has he convinced himself and everyone around him he's good while just rationalizing anything more complicated? Is he good? Maybe he's like hpmor Dumbledore who deliberately has Snape torment children, because Dumbledore he doesn't have any better ideas and he's ill equipped to handle the situation he's in and is just doing his best. But deep down, he's actually good? Or maybe there's a greater evil here that we're not seeing and we just don't understand the whole situation yet. Or maybe he's evil and he's palpatine-ing the organization from the inside!
->>>> Then they show that basically everyone is aware of him being evil within the group and he's just a creepy asshole with a lot of power, at the lead of a relatively corrupt group. It just feels a bit cliche. Every reveal removes depth from the character/situation and he ends looking pretty 2d in my opinion.
->>>> Its around that point that I lost all interest and stopped watching.
 >>>> 
+>>>> I thought Homelander was the most interesting character...at first
+>>>> 
+>>>> He starts out pretty mysterious, you know he's strong but you don't know see much about him except that he's the leader. Then you see the justice league meeting and he's like 'lets tell stories about people we saved' or something like that.
+>>>> 
+>>>> He looks like a paragon of light among a bunch of shitheads. Perhaps he's so naive he doesn't see it, perhaps he is deliberately kept in the dark. It looks like he's lending his legitimacy to the rest of the crew. Cool, very interesting I was excited to watch.
+>>>> 
+>>>> Then they show that he's actually evil. Wow, he's hid it so well, no one knows except those who are about to die. Pretty cool, I wonder what his motivation is? Was this a greater good kind of thing? Has he convinced himself and everyone around him he's good while just rationalizing anything more complicated? Is he good? Maybe he's like hpmor Dumbledore who deliberately has Snape torment children, because Dumbledore he doesn't have any better ideas and he's ill equipped to handle the situation he's in and is just doing his best. But deep down, he's actually good? Or maybe there's a greater evil here that we're not seeing and we just don't understand the whole situation yet. Or maybe he's evil and he's palpatine-ing the organization from the inside!
+>>>> 
+>>>> Then they show that basically everyone is aware of him being evil within the group and he's just a creepy asshole with a lot of power, at the lead of a relatively corrupt group. It just feels a bit cliche. Every reveal removes depth from the character/situation and he ends looking pretty 2d in my opinion.
+>>>> 
+>>>> Its around that point that I lost all interest and stopped watching.
 
->>>>> **u/Fresh_C** [+3] *
+>>>>> **u/Fresh_C** [+3]  (5 hours later)
 >>>>> 
 >>>>> The ending episodes of the show give more context to his motivations and background.
->>>>> None of the information is world shattering as far as the audience's view of the character goes. But he becomes a more respectable villain IMO because you can see why he's doing what he's doing. And also  (Mild spoiler) >!He's more competent than you're initially lead to believe, and not just a man child grabbing for political power he can't control!<
 >>>>> 
+>>>>> None of the information is world shattering as far as the audience's view of the character goes. But he becomes a more respectable villain IMO because you can see why he's doing what he's doing. And also  (Mild spoiler) >!He's more competent than you're initially lead to believe, and not just a man child grabbing for political power he can't control!<
 
->>> **u/Wizard-of-Woah** [+4] *
+>>> **u/Wizard-of-Woah** [+4]  (21 hours later)
 >>> 
 >>> Loved it actually. Which is funny, since the comic is very, very, very bad. The show changes a lot. This is a very, very, very good thing.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (3 days later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Wizard-of-Woah** [+3] *
+>>>>> **u/Wizard-of-Woah** [+3]  (3 days later)
 >>>>> 
 >>>>> Well, one thing that greatly benefits the show is the change of zeitgeist between 2006 to 2018. Superhero movies were much less of a hot market in the mid 2000s, so right off the bat, the comic felt like it was beating a dead-horse. It didn't help the theme seemed to basically be "nah nah, superheroes are for idiots."
->>>>> The show meanwhile came out in a post MCU world, where superhero movies are obnoxiously over-saturated. And the show is a much more pointed critque of media capitalism and celebrity culture in general.
 >>>>> 
+>>>>> The show meanwhile came out in a post MCU world, where superhero movies are obnoxiously over-saturated. And the show is a much more pointed critque of media capitalism and celebrity culture in general.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 hours later)
 >>> 
 >>> I watched it and agree with you. I finished it, it was enjoyable, but not something I'd go out of my way to recommend to anyone.
->>> 
 
-> **u/ramjet_oddity** [+2] *
+> **u/ramjet_oddity** [+2]  (17 hours later)
 > 
 > I'm not quite sure if this is the right place to ask this, but whatever.
-> I like worldbuilding, I really do, but it seems that for the past few months I really can't get myself into the right headspace to actually do it. I can try getting vague ideas and outlines, but not any details.
-> I tried to get around it by generating a bunch of planets with the rules in GURPS:*Space*, but I don't seem to be able to replicate that success.
 > 
+> I like worldbuilding, I really do, but it seems that for the past few months I really can't get myself into the right headspace to actually do it. I can try getting vague ideas and outlines, but not any details.
+> 
+> I tried to get around it by generating a bunch of planets with the rules in GURPS:*Space*, but I don't seem to be able to replicate that success.
 
-> **u/fljared** [+1]  *United Federation of Planets**
+> **u/fljared** [+1]  *United Federation of Planets* (3 days later)
 > 
 > (Death CW)
-> Does anyone have good resources or advice on convincing family members about cryonics?
 > 
+> Does anyone have good resources or advice on convincing family members about cryonics?
 
 ---
 

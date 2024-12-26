@@ -2,7 +2,7 @@
 
 * Author: u/luminarium *
 * URL: https://www.reddit.com/r/rational/comments/bq44kc/rt_rewriting_the_battle_of_winterfell_rationally/
-* Score: 21
+* Score: 20
 
 * Created: 2019-05-18T13:42:12
 
@@ -66,299 +66,299 @@ Thoughts? Suggestions?
 
 ### Comments:
 
-> **u/RMcD94** [+9] *
+> **u/RMcD94** [+12]  (7 minutes later)
 > 
 > if I'm Cersei I would never send scorpions north. One undead dragon versus two alive ones? I would absolutely send a contingent whose only job is to scout and a meagre force to justify them allowing the scouts to ride on horse. 
-> Also would scorpions even do anything? There's no dragonglass bolts nor time enough to make it. Might even have to be Valyrian steel.
-> I'm not sure this is even rational. Seems more like you're trying to write a good show. It doesn't seem like you gave the Night King any equivalent boost? If he's aware of Bran and knows that Bran knows what he knows then he should be acting differently.
 > 
+> Also would scorpions even do anything? There's no dragonglass bolts nor time enough to make it. Might even have to be Valyrian steel.
+> 
+> I'm not sure this is even rational. Seems more like you're trying to write a good show. It doesn't seem like you gave the Night King any equivalent boost? If he's aware of Bran and knows that Bran knows what he knows then he should be acting differently.
 
->> **u/ProudTurtle** [+6] *
+>> **u/ProudTurtle** [+6]  (an hour later)
 >> 
 >> I think this is more about rational TV casting (hence all the references to audience payoff). I like it. Obvi it isn’t rational retelling of GoT.
->> 
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (a day later)
 >> 
 >> Cersei would also want an opportunity to use the Scorpions on the living dragons (if the crew wasn't replaced, which albeit is a gamble).
->> Scorpions blasting a hole in the dragon's wing would prevent it from flying. I have that in my revised version of the plot (not the one here).
->> > If he's aware of Bran and knows that Bran knows what he knows then he should be acting differently.
->> He's going after Bran precisely because he views Bran as a threat and strategic asset.
 >> 
+>> Scorpions blasting a hole in the dragon's wing would prevent it from flying. I have that in my revised version of the plot (not the one here).
+>> 
+>> > If he's aware of Bran and knows that Bran knows what he knows then he should be acting differently.
+>> 
+>> He's going after Bran precisely because he views Bran as a threat and strategic asset.
 
->>> **u/nicholaslaux** [+2] *
+>>> **u/nicholaslaux** [+2]  (2 days later)
 >>> 
 >>> Cersei would want to keep the existence of "thing that can harm dragons" a secret more than she wants to test it in an area far outside of her control.
->>> 
 
->>>> **u/luminarium** [+1] *
+>>>> **u/luminarium** [+1]  (3 days later)
 >>>> 
 >>>> Wasn't Scorpions already used in the Battle of the Bastards? And it's not like production of dozens of these things and deployment on castle walls can go completely unnoticed.
->>>> 
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (a day later)
 >>> 
 >>> Why doesn't he commit to a siege?
->>> 
 
->>>> **u/luminarium** [+1] *
+>>>> **u/luminarium** [+1]  (a day later)
 >>>> 
 >>>> Then he (and his army) will have to survive months of dragons dropping flaming obsidian shards on his head.
->>>> 
 
->>>>> **u/RMcD94** [+2] *
+>>>>> **u/RMcD94** [+2]  (a day later)
 >>>>> 
 >>>>> Is there a cost to the storm? Not sure how much obsidian they have anyway. Get the wights to make bunkers, hide under mammoth wights and dragon wights 
->>>>> If he has ten white walkers each with artillery spears riding the wight dragon I don't see how Dany has air superiority.
 >>>>> 
+>>>>> If he has ten white walkers each with artillery spears riding the wight dragon I don't see how Dany has air superiority.
 
->>>>>> **u/luminarium** [+1] *
+>>>>>> **u/luminarium** [+1]  (a day later)
 >>>>>> 
 >>>>>> Oh that's brilliant, never thought of that!
->>>>>> 
 
-> **u/ProudTurtle** [+4] *
+> **u/ProudTurtle** [+5]  (an hour later)
 > 
 > I would watch your show.
-> 
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (a day later)
 >> 
 >> Thanks, I appreciate the sentiment :)
->> 
 
-> **u/cae_jones** [+4] *
+> **u/cae_jones** [+5]  (23 hours later)
 > 
 > [Why cavalry charge the undead"](https://m.youtube.com/watch?v=jY2jAnV5Fa4)
-> The linked video also stresses how ineffectually the castle was used in the episode. You improved on that, it seems, but I expect he'd still complain about the underutilization of archers and the castle for maneuvering. One specific tactic suggested was to position the infantry around, not in front, and attempt to lure the Whites into circling the castle to be softened up by arrow-fire. However, if that had been executed effectively, it would have made the episode kinda drag and limit the opportunity to show the other defenses being of use. 
-> I like your more effective use of dragons. I almost want to say the barrel of daggers should have been a barrel of flechettes, but that would imply someone had bothered planning for how to launch obsidian attacks from dragonback, and why would they bother developing a weapon specifically for that when they already have a dragon and daggers? Barrel of daggers is already pretty effective. The only downside would be if the handles outweigh the blades, since that seems like it would reduce the number of daggers that would actually do the necessary damage to neutralize Whites. But I'm just quibbling over the precise shape of the fragments, when the tactic overall is sound.
 > 
+> The linked video also stresses how ineffectually the castle was used in the episode. You improved on that, it seems, but I expect he'd still complain about the underutilization of archers and the castle for maneuvering. One specific tactic suggested was to position the infantry around, not in front, and attempt to lure the Whites into circling the castle to be softened up by arrow-fire. However, if that had been executed effectively, it would have made the episode kinda drag and limit the opportunity to show the other defenses being of use. 
+> 
+> I like your more effective use of dragons. I almost want to say the barrel of daggers should have been a barrel of flechettes, but that would imply someone had bothered planning for how to launch obsidian attacks from dragonback, and why would they bother developing a weapon specifically for that when they already have a dragon and daggers? Barrel of daggers is already pretty effective. The only downside would be if the handles outweigh the blades, since that seems like it would reduce the number of daggers that would actually do the necessary damage to neutralize Whites. But I'm just quibbling over the precise shape of the fragments, when the tactic overall is sound.
 
->> **u/vimefer** [+2] *
+>> **u/vimefer** [+2]  (5 days later)
 >> 
 >> Pretty good video. There are so many problems with that battle, none of it made any sense.
->> Other points not broached in the video:
->> - the living troops are dispersed like they are preparing to march, not fight. They should be densely packed into literal walls of soldiers. The word "sergeant" comes from french "serre-gens" which literally means "squeeze people", because they were employed to keep pikemen squeezed together contiguously. That density is necessary in order to break charges and physically prevent enemies from passing through their lines.
->> - beyond the issue of absent shields, hardly anyone even wears a helmet (save for Grey Worm) ! And the armor is overall shown as little more effective than papier mâché which is [utterly ridiculous](https://www.youtube.com/watch?v=5hlIUrd7d1Q).
->> But then I'm sure there are half a million articles and videos pointing out all those and more already.
 >> 
+>> Other points not broached in the video:
+>> 
+>> - the living troops are dispersed like they are preparing to march, not fight. They should be densely packed into literal walls of soldiers. The word "sergeant" comes from french "serre-gens" which literally means "squeeze people", because they were employed to keep pikemen squeezed together contiguously. That density is necessary in order to break charges and physically prevent enemies from passing through their lines.
+>> 
+>> - beyond the issue of absent shields, hardly anyone even wears a helmet (save for Grey Worm) ! And the armor is overall shown as little more effective than papier mâché which is [utterly ridiculous](https://www.youtube.com/watch?v=5hlIUrd7d1Q).
+>> 
+>> But then I'm sure there are half a million articles and videos pointing out all those and more already.
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (a day later)
 >> 
 >> Thanks!
->> Yea, in my revised version (not the one here) I have the defenders using a tactic to lure the white walkers closer to the castle and grouped together, then have the cavalry charge at them in an attempt to take out the leader.
 >> 
+>> Yea, in my revised version (not the one here) I have the defenders using a tactic to lure the white walkers closer to the castle and grouped together, then have the cavalry charge at them in an attempt to take out the leader.
 
-> **u/None** [+4] *
+> **u/None** [+4]  (a day later)
 > 
 > There's actually another reason to give the NK a reason to personally go after Bran. I'm actually baffled it wasn't used in the show, because as far as I can remember it only took place in the show, and hasn't been shown in the books, so it might actually have been something DnD came up with together.
-> In one of the earlier seasons, we had a great scene where the NK seemingly turned one of Craster's baby boy sacrifices into a new White Walker. This established that, at the very least, the NK was capable of turning humans into White Walkers with a touch. 
-> Given that Bran has spent the past 7 years amassing more and more mystic power, it would be perfectly rational for the NK to want to recruit Bran into his army, by turning him into a white walker. Having a White Walker general with all of Bran's established powers (controlling animals, controlling people, clairvoyance, an unlimited ability to see and even kind of influence the past and a vague, implied ability to see at least some of the future) could essentially be a win condition for the NK, and would provide him with a strong incentive to want to get within touching range of Bran. It would even make sense for the NK to be aware of the Three Eyed Raven and his powers, given that the NK was a creation of the Children of the Forest, and it would have been perfect if it was the weakening of the old Three Eyed Raven, as well as the decline of the few remaining Children of the Forest, to be the reason the NK suddenly became capable of waging his war on the living. 
-> Other than that, I really don't think Arya would be able to impersonate a White Walker. From what we've seen of their biology, and how they shatter after death, it seems impossible. And honestly, without somehow buffing Bran or making him an irresistible, instant-win target, I don't see how the living could ever possibly win once rational NK has a dragon.
-> If the NK was rational, there would never have been a siege of Winterfell, Bran be damned. Last episode we saw just how effective a dragon is at taking cities and mass destruction. Dragons are already incredibly hard to hit, and an undead dragon would be even tankier, making any hits that landed even less. A rational NK could have just flown around Winterfell during the night, headed south, and just spent a while razing cities to the ground and bringing back the dead as even more fodder for his army. If a rational NK is going to be defeated, there has to be a reason for him to take risks; a target he can't risk killing the normal way. 
-> The NK wanting to turn Bran, I think, could very easily provide that reason, and could be a springboard from which a rational strategy could be planned.
 > 
+> In one of the earlier seasons, we had a great scene where the NK seemingly turned one of Craster's baby boy sacrifices into a new White Walker. This established that, at the very least, the NK was capable of turning humans into White Walkers with a touch. 
+> 
+> Given that Bran has spent the past 7 years amassing more and more mystic power, it would be perfectly rational for the NK to want to recruit Bran into his army, by turning him into a white walker. Having a White Walker general with all of Bran's established powers (controlling animals, controlling people, clairvoyance, an unlimited ability to see and even kind of influence the past and a vague, implied ability to see at least some of the future) could essentially be a win condition for the NK, and would provide him with a strong incentive to want to get within touching range of Bran. It would even make sense for the NK to be aware of the Three Eyed Raven and his powers, given that the NK was a creation of the Children of the Forest, and it would have been perfect if it was the weakening of the old Three Eyed Raven, as well as the decline of the few remaining Children of the Forest, to be the reason the NK suddenly became capable of waging his war on the living. 
+> 
+> Other than that, I really don't think Arya would be able to impersonate a White Walker. From what we've seen of their biology, and how they shatter after death, it seems impossible. And honestly, without somehow buffing Bran or making him an irresistible, instant-win target, I don't see how the living could ever possibly win once rational NK has a dragon.
+> 
+> If the NK was rational, there would never have been a siege of Winterfell, Bran be damned. Last episode we saw just how effective a dragon is at taking cities and mass destruction. Dragons are already incredibly hard to hit, and an undead dragon would be even tankier, making any hits that landed even less. A rational NK could have just flown around Winterfell during the night, headed south, and just spent a while razing cities to the ground and bringing back the dead as even more fodder for his army. If a rational NK is going to be defeated, there has to be a reason for him to take risks; a target he can't risk killing the normal way. 
+> 
+> The NK wanting to turn Bran, I think, could very easily provide that reason, and could be a springboard from which a rational strategy could be planned.
 
->> **u/luminarium** [+2] *
+>> **u/luminarium** [+2]  (a day later)
 >> 
 >> > A rational NK could have just flown around Winterfell during the night, headed south, and just spent a while razing cities to the ground and bringing back the dead as even more fodder for his army.
->> If he did that there'd be no corpses for him to raise, it's established that burned corpses can't be raised. So he wouldn't want to actually use his dragon to just toast everybody. And if the dragon killed through non-fire means, it'll have to get up close and personal, *and* be far away from zombie support and the support of his night walkers. If his dragon got shot by a ballista he'd fall and wind up alone deep in enemy territory.
 >> 
+>> If he did that there'd be no corpses for him to raise, it's established that burned corpses can't be raised. So he wouldn't want to actually use his dragon to just toast everybody. And if the dragon killed through non-fire means, it'll have to get up close and personal, *and* be far away from zombie support and the support of his night walkers. If his dragon got shot by a ballista he'd fall and wind up alone deep in enemy territory.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> Dragons are incredibly hard to hit in flight, and dragon fire in the show has been shown to have an incredible amount of kinetic force behind them. Simply flying around a city and focusing on blowing up structures so that towers and buildings collapse on people would yield a significant amount of non-burnt dead. 
 >>> But even if that wouldn't work, he easily could have flown around the southern countryside at night slaughtering smallfolk (who, without valyrian steel or dragonglass, would be powerless to stop him). He could amass a decent force this way, and then attack towns and cities the normal 'zombie zerg rush way'. 
 >>> The last episode shows us that a single dragon can easily solo a city, and only Kings Landing has Scorpions. And even then, there's nothing saying that the NK couldn't just pull a Scorpion bolt out of his dragon and raise it again, if the structural damage wasn't to severe. Hiding from his horde in a castle would be completely impossible, unless you have your own dragons to defend you, and any survivors fleeing the flames would run right into his zombies
 >>> But essentially the point I was trying to make is that, given the situation we get in season 8, a rational NK is basically unbeatable. The fact that he has a dragon, is completely immune to harm from anything but valyrian steel and dragonglass, can mass raise the dead, and already has White Walker Generals that can control their own thralls, means that, if he plays his cards right, he really can't lose. 
->>> The only way the good guys have any chance of winning is if the Night King has a very strong reason to attack Winterfell personally. Otherwise a smart NK just has a few of his generals attack Winterfell, and flies south by night to start another horde, in a land where there are no dragons to fight him, and nobody knows how to hurt him. But from your other reply I can see that you already like my Bran idea xD
 >>> 
+>>> The only way the good guys have any chance of winning is if the Night King has a very strong reason to attack Winterfell personally. Otherwise a smart NK just has a few of his generals attack Winterfell, and flies south by night to start another horde, in a land where there are no dragons to fight him, and nobody knows how to hurt him. But from your other reply I can see that you already like my Bran idea xD
 
->> **u/babalook** [+2] *
+>> **u/babalook** [+2]  (a day later)
 >> 
 >> I always figured he turned children into WWs instead of adults because he doesn't have control over them like he does with the zombies, so he has to raise them from a young age to ensure loyalty. Otherwise, I don't know why he wouldn't just turn adults. Assuming that theory is wrong, even if he could turn Bran and control him, wouldn't it be smarter to just kidnap him? What does the NK's presence accomplish that a thousand zombies couldn't? 
->> I wish we knew what the NK's range for controlling and raising the dead was, he might've been able to just wait them out until their people started to starve or he could pick off the weak in their sleep with zombie \[insert small but potentially lethal animals\] and raise them to do the same. It kind of seems like the NK was in a hurry for no apparent reason, the weather alone would have depleted the living's forces considerably.
 >> 
+>> I wish we knew what the NK's range for controlling and raising the dead was, he might've been able to just wait them out until their people started to starve or he could pick off the weak in their sleep with zombie \[insert small but potentially lethal animals\] and raise them to do the same. It kind of seems like the NK was in a hurry for no apparent reason, the weather alone would have depleted the living's forces considerably.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> I kind of assuming that, from the way all his generals died when the NK died, the WWs are kind of a vague hive-mind. They are all obviously linked to him in a major way, given they all cease to exist once he's dead, so I thought it wouldn't be a major leap to assume they are all at least somewhat under his control. 
 >>> As for why the NK would need to do it personally; in the scene I mentioned, the NK was shown having to physically walk up, and touch the human child in order to turn them into a WW. It would however, be easier to just kidnap Bran, unless somehow the NK doesn't have enough fine control over his zombies to do that efficiently/safely. But that's making even more assumptions.
 >>> We do need a lot more information, because you are right; the NK had absolutely no reason to be in a hurry. Put a rational actor in the NKs shoes at the start of season 8, and everyone on Westeros dies within the decade. We need more information on the specific weaknesses of the WWs that might have motivated them to chose a straight up battle instead of a war of attrition they were guaranteed to win, but that probably means waiting until either the books, or the prequel series comes out.
->>> 
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (a day later)
 >> 
 >> Great idea! I only somewhat touched on the Night King wanting Bran for strategic value, didn't think about him turning Bran into a white walker.
->> 
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> > Given that Bran has spent the past 7 years amassing more and more mystic power, it would be perfectly rational for the NK to want to recruit Bran into his army, by turning him into a white walker.
->> We don't know if that works on a grown boy, or just on babies, though. Or if maybe they do it on babies because with grown humans their original personality and memories remain and obstacle their aligning with the White Walkers.
 >> 
+>> We don't know if that works on a grown boy, or just on babies, though. Or if maybe they do it on babies because with grown humans their original personality and memories remain and obstacle their aligning with the White Walkers.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> yeah we do need a lot more information about the Night King. I was just brainstorming reasons for the NK to have to take risks. As it is, we still have no real idea what the White Walkers really are, or how their biology works, or even the extent of their magic - White Walkers seem to be made of ice, and presumably produce no body heat; and yet a White Walker was able to deliver a human baby, wrapped only in a blanket, all the way to their meeting place deep in the tundra, without the baby freezing to death halfway there? 
 >>> There's so much we don't know about the White Walkers that I hope the books explain, or at the very  least touch upon.
->>> 
 
->>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>>> 
 >>>> > what the White Walkers really are
->>>> Wasn't that answered a few seasons ago? Basically, rogue magical androids created by the Children of the Forest to fight the First Men who went out of control. They're a paperclipper, except instead of making paperclips they were supposed to kill already to begin with.
 >>>> 
+>>>> Wasn't that answered a few seasons ago? Basically, rogue magical androids created by the Children of the Forest to fight the First Men who went out of control. They're a paperclipper, except instead of making paperclips they were supposed to kill already to begin with.
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (a day later)
 >>>>> 
 >>>>> We know where they come from, but what actually are they? Do they think? The Night King seemed to show emotion; do the other White Walkers have independent minds, or are they a hive-mind? Do they have a culture? They wear clothes, so clearly they can make stuff, and that seems indicative of culture - why wear clothes when nothing can harm anyway, and the few things that do instantly pierce your clothes, except for cultural reasons? How do they raise the Whitewalker babies we see the NK create? Do they even have to raise them? Do they have a language? How exactly does their ability to raise the dead work? Do they cause winter, or do they only invade during winter? Are they alive? If so, what do they eat? Are they solar powered? Somehow powered by magic? Do they have to sleep? And tons of stuff like that.
->>>>> Essentially, we know where the come from. But we don't really know anything about how they work, and that's what I meant by not knowing what they 'really are'.
 >>>>> 
+>>>>> Essentially, we know where the come from. But we don't really know anything about how they work, and that's what I meant by not knowing what they 'really are'.
 
->>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>>>>> 
 >>>>>> True, true. I don't know if the books will necessarily answer all that (after all, sometimes keeping a veil of mystique is a good thing when it comes to supernatural eldritch threats), but there's a lot of potential. Maybe someone ought to write a ratfic about that. A story from the viewpoint of the WW.
->>>>>> 
 
-> **u/babalook** [+9] *
+> **u/babalook** [+8]  (2 hours later)
 > 
 > I think in order to do a rationalist rewrite of this battle we'd need a stronger understanding of how the NK's powers actually work, something that Bran could conceivably tell us about if he observed past battles that the NK took part in and how he reacted/approached certain situations.
-> I like the idea with Arya but I don't think impersonating a white walker is feasible. On one side I think she needs to remove the face of someone in order to become them so she'd need a white walkers face, but they crumple into ice when they die so this might not be possible. On the other hand, I think the show gives decent evidence to the fact that the NK can see through the eye's of his zombies but can't control them, or see through them, all simultaneously, instead, he can give broad orders to groups of them telepathically. This might make impersonating a zombie possible since doing a search through his entire army to find one that he can't see through would be pretty hard without something like a mental look-up table and a decent search algorithm, realistically it probably shouldn't be something that crosses his mind in the first place unless he happens to spot the one acting abnormal. His white walkers, though, are few in number, distinct in appearance, communicate in some way that isn't the common tongue, and would be easy to keep tabs on (something the other white walkers could help with as well).
-> I like the idea of the NK wanting Bran for his strategic value but, honestly, he should want him dead just as much, since, without Bran, enemy forces would have little to no chance of locating the NK who could then just hide as far away as possible and safely direct his army. Also, Bran needs to be warging into people (or fucking toucans, maybe other wargers could allow bird to bird communication, are any left?) in order to direct his forces if he wants to stay competitive with the NK's abilities, otherwise the strike teams and dragons sent to kill the NK will have a rough time actually finding him if he isn't stationary.
-> Cersei probably should have sent scorpions since, if they won but the scorpions were destroyed in the process she would look good for helping (giving her some political leverage), if they won and the scorpions weren't destroyed she could have left her soldiers with standing orders to kill the remaining dragons and/or any other key assets, and if they didn't win she would be fucked either way.
-> Overall, I much prefer your version to the travesty that was actually shown. The better use of Milasandre, Greyscale, the dragons' ability to airdrop stuff, and the lord of light are all far more satisfying.
 > 
+> I like the idea with Arya but I don't think impersonating a white walker is feasible. On one side I think she needs to remove the face of someone in order to become them so she'd need a white walkers face, but they crumple into ice when they die so this might not be possible. On the other hand, I think the show gives decent evidence to the fact that the NK can see through the eye's of his zombies but can't control them, or see through them, all simultaneously, instead, he can give broad orders to groups of them telepathically. This might make impersonating a zombie possible since doing a search through his entire army to find one that he can't see through would be pretty hard without something like a mental look-up table and a decent search algorithm, realistically it probably shouldn't be something that crosses his mind in the first place unless he happens to spot the one acting abnormal. His white walkers, though, are few in number, distinct in appearance, communicate in some way that isn't the common tongue, and would be easy to keep tabs on (something the other white walkers could help with as well).
+> 
+> I like the idea of the NK wanting Bran for his strategic value but, honestly, he should want him dead just as much, since, without Bran, enemy forces would have little to no chance of locating the NK who could then just hide as far away as possible and safely direct his army. Also, Bran needs to be warging into people (or fucking toucans, maybe other wargers could allow bird to bird communication, are any left?) in order to direct his forces if he wants to stay competitive with the NK's abilities, otherwise the strike teams and dragons sent to kill the NK will have a rough time actually finding him if he isn't stationary.
+> 
+> Cersei probably should have sent scorpions since, if they won but the scorpions were destroyed in the process she would look good for helping (giving her some political leverage), if they won and the scorpions weren't destroyed she could have left her soldiers with standing orders to kill the remaining dragons and/or any other key assets, and if they didn't win she would be fucked either way.
+> 
+> Overall, I much prefer your version to the travesty that was actually shown. The better use of Milasandre, Greyscale, the dragons' ability to airdrop stuff, and the lord of light are all far more satisfying.
 
->> **u/luminarium** [+2] *
+>> **u/luminarium** [+2]  (a day later)
 >> 
 >> Good point on the impersonating a zombie difficulty, in my revised script (not here) I have the night king moving his minions and spotting Arya when Arya (while in the crowd of zombies) doesn't move the very instant the minions do.
->> > Also, Bran needs to be warging into people 
->> It's already explained in the show that Bran can't possess people (except the insane, in the case of Hodor). In my revised plot I have Bran directing Daernys and directing the Scorpion crews (to aim at the night walkers) with ravens. 
->> Thanks!
 >> 
+>> > Also, Bran needs to be warging into people 
+>> 
+>> It's already explained in the show that Bran can't possess people (except the insane, in the case of Hodor). In my revised plot I have Bran directing Daernys and directing the Scorpion crews (to aim at the night walkers) with ravens. 
+>> 
+>> Thanks!
 
->>> **u/babalook** [+1] *
+>>> **u/babalook** [+1]  (a day later)
 >>> 
 >>> Ya, I figured humans or toucans would be the most convenient options and I wasn't sure if his ability to control humans might have gotten a buff when he became the three-eyed raven, but it doesn't really matter, there's a ton of ways to create methods of communication with even a single bird (tactile or audible morse code, flight patterns, probably other stuff I haven't thought of). Although, the show leads me to believe that Bran can't multitask (he controls a flock of ravens and flies them in formation, but I don't think we've seen him perform separate tasks in separate areas) so scouting with birds in one area while relaying information with birds in other areas may not be in the cards for him. His ability to coordinate the human forces is probably less powerful than the NK.
->>> I think something may need to be said about zombie giants using their massive bows to take down dragons or just snipe people from range, they're basically highly mobile scorpions. Throwing other zombies over the walls or past enemy lines could be fairly useful as well. 
->>> Just remembered animals can be made into zombies too, so zombie birds for recon, mammoths (could've sworn I saw these at some point), bears, etc. should all be tools at the NK's disposal.
 >>> 
+>>> I think something may need to be said about zombie giants using their massive bows to take down dragons or just snipe people from range, they're basically highly mobile scorpions. Throwing other zombies over the walls or past enemy lines could be fairly useful as well. 
+>>> 
+>>> Just remembered animals can be made into zombies too, so zombie birds for recon, mammoths (could've sworn I saw these at some point), bears, etc. should all be tools at the NK's disposal.
 
-> **u/jaghataikhan** [+3]  *Primarch of the White Scars**
+> **u/jaghataikhan** [+3]  *Primarch of the White Scars* (13 hours later)
 > 
 > One way to give the NK a reason for going after Bran is that there's a scene where Bran used his greenseer abilities to disrupt the NKs control of the wights, possibly even (temporarily) subvert them. I feel like it'd add more urgency to the NK wanting to take down Bran + needing to be close enough as to be at risk
-> 
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (a day later)
 >> 
 >> I have a scene where Bran is able to locate him and direct dragons into bombing his location (and successfully taking out a white walker).
->> 
 
-> **u/qznc** [+2]  *Chaos Legion**
+> **u/qznc** [+2]  *Chaos Legion* (a day later)
 > 
 > Are we minmaxing here or going for a cinematic story?
-> I actually wonder why the Night King attacks Winterfell at all. He is not in a hurry. He could just lay siege and wait for them to starve or freeze. Creating zombies in the crypt is a nice trick to devastate moral during the siege, but maybe he would have to be too close.
-> In terms of cinematic story, I think [David Sirlin has the best retelling](http://www.sirlin.net/posts/game-of-thrones-predictions-from-a-game-designer). It also includes Arya killing Jon.
 > 
+> I actually wonder why the Night King attacks Winterfell at all. He is not in a hurry. He could just lay siege and wait for them to starve or freeze. Creating zombies in the crypt is a nice trick to devastate moral during the siege, but maybe he would have to be too close.
+> 
+> In terms of cinematic story, I think [David Sirlin has the best retelling](http://www.sirlin.net/posts/game-of-thrones-predictions-from-a-game-designer). It also includes Arya killing Jon.
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (a day later)
 >> 
 >> hmm, interesting. I wanted to both make the story rationalist, and make it cinematic. 
->> In my version the Night King has to be in a hurry, Bran can constantly direct the dragons to drop bombs on him and his white walkers (as seen in the first segment of my plot), and his white walkers need to be around or else the dragons will make quick work of his zombies (meaning he and his white walkers can't just hole up somewhere).
->> I was working this morning on coming up with the rest of how I would like to see Season 8 play out. Basically, in my version, the Night King is trying to set things up so that the rest of the characters set out to destroy themselves (Cersei, Daenerys, Jon) to make things easier for himself, and he is able to reincarnate from other white walkers (this is me pulling artistic license here) so his objective in the battle of Winterfell is to convincingly get his current body killed. So he can't make it too easy on the defenders, but he can't also be entirely away. 
->> I don't like the idea of Bran being the Night Walker. That has a lot of problems, too, such as how the Night Walker possesses him (not a power the Night Walker is supposed to have).
 >> 
+>> In my version the Night King has to be in a hurry, Bran can constantly direct the dragons to drop bombs on him and his white walkers (as seen in the first segment of my plot), and his white walkers need to be around or else the dragons will make quick work of his zombies (meaning he and his white walkers can't just hole up somewhere).
+>> 
+>> I was working this morning on coming up with the rest of how I would like to see Season 8 play out. Basically, in my version, the Night King is trying to set things up so that the rest of the characters set out to destroy themselves (Cersei, Daenerys, Jon) to make things easier for himself, and he is able to reincarnate from other white walkers (this is me pulling artistic license here) so his objective in the battle of Winterfell is to convincingly get his current body killed. So he can't make it too easy on the defenders, but he can't also be entirely away. 
+>> 
+>> I don't like the idea of Bran being the Night Walker. That has a lot of problems, too, such as how the Night Walker possesses him (not a power the Night Walker is supposed to have).
 
->>> **u/babalook** [+1] *
+>>> **u/babalook** [+1]  (a day later)
 >>> 
 >>> >In my version the Night King has to be in a hurry, Bran can constantly direct the dragons to drop bombs on him and his white walkers (as seen in the first segment of my plot), and his white walkers need to be around or else the dragons will make quick work of his zombies (meaning he and his white walkers can't just hole up somewhere).
->>> Now, idk if this is actually the case, but I was under the impression that his WWs were autonomous generals with there own zombie forces. Is there any reason for them not to separate? Could the NK and his undead dragon with endless stamina not just lead the other dragons on an endless goose chase? Maybe he could take a WW with him too to throw spears off the back of his dragon. While this is happening, the rest of his WWs could just attack Winterfell or King's Landing.
 >>> 
+>>> Now, idk if this is actually the case, but I was under the impression that his WWs were autonomous generals with there own zombie forces. Is there any reason for them not to separate? Could the NK and his undead dragon with endless stamina not just lead the other dragons on an endless goose chase? Maybe he could take a WW with him too to throw spears off the back of his dragon. While this is happening, the rest of his WWs could just attack Winterfell or King's Landing.
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >>> 
 >>> > Bran can constantly direct the dragons to drop bombs on him and his white walkers 
->>> The NK has been seen downing a dragon with a javelin throw. And if he downs it, he adds it to his forces. What's a few hundred mindless undead lost compared to *that*? If he gets all three dragons, the world is his. The enemy sending the dragons right into my maw would be *exactly what I want*, if I were in him.
 >>> 
+>>> The NK has been seen downing a dragon with a javelin throw. And if he downs it, he adds it to his forces. What's a few hundred mindless undead lost compared to *that*? If he gets all three dragons, the world is his. The enemy sending the dragons right into my maw would be *exactly what I want*, if I were in him.
 
->>>> **u/luminarium** [+1] *
+>>>> **u/luminarium** [+1]  (2 days later)
 >>>> 
 >>>> In my version the dragons are keeping out of ice spear range when dropping them barrels.
->>>> 
 
-> **u/holoclever** [+2] *
+> **u/holoclever** [+2]  (2 days later)
 > 
 > Why all the cleverness? The defenders of Winterfell have such a massive advantage in the fight its almost obscene. 
-> In Season 6, it is established that Bran can warg into people in the past when he possesses Hodor and sets him up to hold the door against the wights and save Bran later on in life. I'll accept that maybe Bran has to be nearby to the victim or the victim in question must be susceptible to being possessed in the first place, so perhaps Bran could not just possess the Night King before he was undead and was only a child and have him commit suicide, but Bran is still the most powerful being in Planetos. All Bran needs to do is to simply warg back into an animal or human in the past near his old self in a timeline he dislikes and explain to him the exact repercussions of a certain action his past self takes, presumably collapsing the current timeline and allowing past Bran to make a more prudent choice. In theory, Bran could simply test thousands or more actions, strategies, etc, until he finishes the battle in a timeline wherein the Night King loses. 
-> Hell, he could probably have Theon shoot an obsidian-tipped arrow from the castle walls and, over hundreds of timelines, refine the exact angle, force, time and location to shoot it at to dink the Night King in the forehead and allay the siege with one simple flick of a bow.
 > 
+> In Season 6, it is established that Bran can warg into people in the past when he possesses Hodor and sets him up to hold the door against the wights and save Bran later on in life. I'll accept that maybe Bran has to be nearby to the victim or the victim in question must be susceptible to being possessed in the first place, so perhaps Bran could not just possess the Night King before he was undead and was only a child and have him commit suicide, but Bran is still the most powerful being in Planetos. All Bran needs to do is to simply warg back into an animal or human in the past near his old self in a timeline he dislikes and explain to him the exact repercussions of a certain action his past self takes, presumably collapsing the current timeline and allowing past Bran to make a more prudent choice. In theory, Bran could simply test thousands or more actions, strategies, etc, until he finishes the battle in a timeline wherein the Night King loses. 
+> 
+> Hell, he could probably have Theon shoot an obsidian-tipped arrow from the castle walls and, over hundreds of timelines, refine the exact angle, force, time and location to shoot it at to dink the Night King in the forehead and allay the siege with one simple flick of a bow.
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (2 days later)
 >> 
 >> > All Bran needs to do is to simply warg back into an animal or human in the past near his old self in a timeline he dislikes
->> ok, that was not an ability I understood him to have. I thought he couldn't manipulate the past in this manner, it was just-see-no-touch.
 >> 
+>> ok, that was not an ability I understood him to have. I thought he couldn't manipulate the past in this manner, it was just-see-no-touch.
 
->> **u/vimefer** [+1] *
+>> **u/vimefer** [+1]  (5 days later)
 >> 
 >> I don't think time works like that in the show, it has so far consistently shown a single fixed timeline where "changes" brought to the past end up having always been part of the timeline in the first place.
->> 
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (4 hours later)
 > 
 > Is there a reason we can't just prick the undead dragon with obsidian or valarian steel? Seems like something that big would be an easy target.
-> 
 
->> **u/Sonderjye** [+3] *
+>> **u/Sonderjye** [+3]  (7 hours later)
 >> 
 >> As you can see from the thousand plus scorpion bolts that misses in the more recent episodes, those things are really difficult to hit.
->> 
 
->>> **u/eroticas** [+2] *
+>>> **u/eroticas** [+2]  (9 hours later)
 >>> 
 >>> Well of course, siege weapons are meant to be used on buildings. Hit it with an arrow!
->>> 
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (12 hours later)
 >> 
 >> I figured it would be hard to penetrate its scales without a good hit in the eye.
->> 
 
->>> **u/eroticas** [+1] *
+>>> **u/eroticas** [+1]  (12 hours later)
 >>> 
 >>> I guess there's no point in just arming our living dragon to the teeth with Valerian steel /obsidian if their scales are *that* good, seeing as they're not strong enough to break little metal chains...it would be like two turtles trying to kill each other, except without any of the little fleshy bits. 
->>> If the eye is the only weak spot, I guess Bran can warg into a little mosquito or something and get the eye.
->>> However...the scales *aren't* that strong, are they? If they are, how did the night king kill the living dragon *with a spear*?  (And we know that Valerian steel is an effective counter to ice blades, unless this is some sort of rock-paper-scissors magic deal and Valerian steel is strong against ice spears but weak against undead dragon scales, while live dragons are weak against ice spears).
 >>> 
+>>> If the eye is the only weak spot, I guess Bran can warg into a little mosquito or something and get the eye.
+>>> 
+>>> However...the scales *aren't* that strong, are they? If they are, how did the night king kill the living dragon *with a spear*?  (And we know that Valerian steel is an effective counter to ice blades, unless this is some sort of rock-paper-scissors magic deal and Valerian steel is strong against ice spears but weak against undead dragon scales, while live dragons are weak against ice spears).
 
->>>> **u/luminarium** [+1] *
+>>>> **u/luminarium** [+1]  (a day later)
 >>>> 
 >>>> > I guess Bran can warg into a little mosquito or something and get the eye.
->>>> Weak to getting stabbed by obsidian, not weak to mosquito bites :)
 >>>> 
+>>>> Weak to getting stabbed by obsidian, not weak to mosquito bites :)
 
->>>>> **u/eroticas** [+1] *
+>>>>> **u/eroticas** [+1]  (a day later)
 >>>>> 
 >>>>> The proboscis of the mosquito is coated in ObSiDiAn of course haha
->>>>> 
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 > 
 > Sorry, this kinda falls apart for me at the very beginning. Why would Cersei, the way we know her to be, do that? Yes, Cersei's actions are short-sighted and spiteful. But Cersei *is* short-sighted and spiteful. That's her whole personality, basically. She thinks herself cunning but ultimately she's never able to have the big picture, she can scheme but not lay down a strategy, and that's her undoing time and time again. A story being rational should not mean every character being rational. Also because at that point if the Night King was fully rational *too*... well. Good riddance, humanity.
-> 
 
->> **u/luminarium** [+1] *
+>> **u/luminarium** [+1]  (2 days later)
 >> 
 >> Cersei's plotting to use the scorpion crews to kill Daenerys' remaining dragons.
->> 
 
-> **u/Sonderjye** [+1] *
+> **u/Sonderjye** [+1]  (2 days later)
 > 
 > While I certainly feel that your solution is more rational than the episode it still focuses on creating scenes that the audience find appealing, at the cost of optimizing the chances of winning on both sides. Now, if the natural laws in the GoT universe(which we know are different than ours due to magic) then you could potentially justify it or the characters didn't have winning as their first priority.  
-> I am toying with this idea of a setting in which there is a symbiotic relationship between the world and the author in the sense that the author in fact observes the world and it's characters rather than dictating it and the worlds continual existence depends on the author devoting mental energy towards sustaining that world. If a few individuals(namely the main characters) knew about this interaction it might be rational for them to create narratively appealing scenes, at the cost of other elements of their utility function, to appeal to an audience in order to keep the author continually interested in the world. 
-> In such an instance it would be easy to justify a number of choices both in your version and the cinematic version.
 > 
+> I am toying with this idea of a setting in which there is a symbiotic relationship between the world and the author in the sense that the author in fact observes the world and it's characters rather than dictating it and the worlds continual existence depends on the author devoting mental energy towards sustaining that world. If a few individuals(namely the main characters) knew about this interaction it might be rational for them to create narratively appealing scenes, at the cost of other elements of their utility function, to appeal to an audience in order to keep the author continually interested in the world. 
+> 
+> In such an instance it would be easy to justify a number of choices both in your version and the cinematic version.
 
 ---
 

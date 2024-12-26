@@ -2,7 +2,7 @@
 
 * Author: u/avret  *SDHS rationalist**
 * URL: https://www.fanfiction.net/s/10630743/53/Light-in-Despair-s-Darkness
-* Score: 3
+* Score: 5
 
 * Created: 2015-08-26T18:38:01
 
@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 hours later)
 > 
 > It would help me if you included the fandom in the title next time.
-> 
 
->> **u/avret** [+1]  *SDHS rationalist**
+>> **u/avret** [+1]  *SDHS rationalist* (4 hours later)
 >> 
 >> Sorry, should I edit it now?
->> EDIT: it doesn't appear to be possible to change post titles.
 >> 
+>> EDIT: it doesn't appear to be possible to change post titles.
 
-> **u/avret** [+1]  *SDHS rationalist**
+> **u/avret** [+1]  *SDHS rationalist* (4 hours later)
 > 
 > For those who don't know, this is a Danganronpa fanfic.
-> 
 
 ---
 

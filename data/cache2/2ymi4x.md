@@ -2,7 +2,7 @@
 
 * Author: u/Nighzmarquls *
 * URL: https://www.reddit.com/r/rational/comments/2ymi4x/bstwiphfdcdmy_pragmatic_cosmic_horror_setting/
-* Score: 15
+* Score: 11
 
 * Created: 2015-03-11T00:42:26
 
@@ -77,265 +77,310 @@ Things I have notes for but not gotten into in this post because we are getting 
 
 ### Comments:
 
-> **u/Manthyus** [+7] *
+> **u/Manthyus** [+7]  (2 hours later)
 > 
 > I'm getting darker than black vibes here. DTB contractors are basically your dreamers to a T. 
-> I'm assuming that humanity is vastly expanded beyond earth at this point? With your Shuraheima rate, if my quick math was right, you'd get 70000 with JUST earth's population. And EACH of these individuals is capable of world-destroying shenanigans without even trying? Like, if they mess something up too badly? I'm not sure this universe you've built is going to be around for too much longer.
-> Side note: your equivalent entropy limitation is vague. Specify and give examples.
 > 
+> I'm assuming that humanity is vastly expanded beyond earth at this point? With your Shuraheima rate, if my quick math was right, you'd get 70000 with JUST earth's population. And EACH of these individuals is capable of world-destroying shenanigans without even trying? Like, if they mess something up too badly? I'm not sure this universe you've built is going to be around for too much longer.
+> 
+> Side note: your equivalent entropy limitation is vague. Specify and give examples.
 
->> **u/Rouninscholar** [+6] *
+>> **u/Rouninscholar** [+6]  (4 hours later)
 >> 
 >> Of note, your numbers assume that everyone had an event.
->> 
 
->>> **u/Nighzmarquls** [+3] *
+>>> **u/Nighzmarquls** [+3]  (5 hours later)
 >>> 
 >>> Yes minimizing the occurrence of events is one of the pragmatic ways of preventing the destruction of the universe.
->>> 
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (2 hours later)
 >> 
 >> Never read or seen Darker then Black, but interesting I'll have to check that out a bit.
 >> The entropy measure is a little bit black boxy on my end but I've teased some stuff out from asking "what happens when you do this".
+>> 
 >> So some mechanics I do know:
 >> You could compare the entropy of an action as roughly equivalent to if you had just had some power source to do all of the work related to it in the first place assuming you/your body is the zero/origin/reference point for all events being done.
->> So if I wanted to lift a bucket of water up to a height and then pour it over a water wheel using abyss touched powers. I would need to shed the heat equivalent to some kind of engine or machine moving that water up to that height and position as it is relative to me.
->> If I wanted to do it faster I'd need to shed more heat/disorder.
->> Where this heat or entropy GOES is one important balancing trick for shuraheima.
->> Without them doing something extra otherwise all of the extra entropy/heat/disorder that their spell work is 'building up' is going to be dumped right into their bodies.
->> A shuraheima that is untrained and tries to do something big is liable to vaporize, fission their atoms or collapse themselves into a lump of iron.
->> If their not particularly trained a shuraheima will either kill themselves or turn into a broken long before they can crack the planet open.
->> Especially because most of them don't even understand what is possible when they first 'wake up' to their abilities.
->> This is less like a human from modern society getting the powers of a god, and more like a possibly well educated craftsperson during the middle ages getting the powers of a god.
->> And the fact new shuraheima are initially ignorant of what their own potential could be is part of the safety measures to deal with their existence.
 >> 
+>> So if I wanted to lift a bucket of water up to a height and then pour it over a water wheel using abyss touched powers. I would need to shed the heat equivalent to some kind of engine or machine moving that water up to that height and position as it is relative to me.
+>> 
+>> If I wanted to do it faster I'd need to shed more heat/disorder.
+>> 
+>> Where this heat or entropy GOES is one important balancing trick for shuraheima.
+>> 
+>> Without them doing something extra otherwise all of the extra entropy/heat/disorder that their spell work is 'building up' is going to be dumped right into their bodies.
+>> 
+>> A shuraheima that is untrained and tries to do something big is liable to vaporize, fission their atoms or collapse themselves into a lump of iron.
+>> 
+>> If their not particularly trained a shuraheima will either kill themselves or turn into a broken long before they can crack the planet open.
+>> 
+>> Especially because most of them don't even understand what is possible when they first 'wake up' to their abilities.
+>> 
+>> This is less like a human from modern society getting the powers of a god, and more like a possibly well educated craftsperson during the middle ages getting the powers of a god.
+>> 
+>> And the fact new shuraheima are initially ignorant of what their own potential could be is part of the safety measures to deal with their existence.
 
->>> **u/Manthyus** [+3] *
+>>> **u/Manthyus** [+3]  (4 hours later)
 >>> 
 >>> Hmm. So all effects produced have waste heat? What if you're using the energy to cool something? Waste heat in the area AROUND you?
->>> From there, seems like a simple jump to invisible heat dump chute first into a lake, then miles into the stratosphere, because infinite energy! Then all it takes is an idiot trying to make lots of dirt into gold and venting all the heat into the upper atmosphere to cause major climate change and destroy the planet. 
->>> I don't think ignorance as a limiter is feasible, especially if this shit has been around a while. First, there would be groups or individuals looking to invest in shuraheima for profit. These individuals would seek to track down and contract with shuraheima, perhaps educating them (in a controlled fashion) about their powers, perhaps drugging them, whatever, in order to use them to generate economic returns/influence/military power. Then you have a government, with all the resources and minds that entails, with the power of a god. How long does it take for two such governments warring with each other to destroy the universe?
->>> Alternatively, law of large numbers. If you have 20 planets with 5B people each, that's tons of shuraheima. All you need to destroy the universe is one who's a reasonably intelligent sociopath who experiments a bit with his powers before trying anything huge. The tools are all there. There is literally nothing stopping a single person from ruining everything as you have it laid out.
 >>> 
+>>> From there, seems like a simple jump to invisible heat dump chute first into a lake, then miles into the stratosphere, because infinite energy! Then all it takes is an idiot trying to make lots of dirt into gold and venting all the heat into the upper atmosphere to cause major climate change and destroy the planet. 
+>>> 
+>>> I don't think ignorance as a limiter is feasible, especially if this shit has been around a while. First, there would be groups or individuals looking to invest in shuraheima for profit. These individuals would seek to track down and contract with shuraheima, perhaps educating them (in a controlled fashion) about their powers, perhaps drugging them, whatever, in order to use them to generate economic returns/influence/military power. Then you have a government, with all the resources and minds that entails, with the power of a god. How long does it take for two such governments warring with each other to destroy the universe?
+>>> 
+>>> Alternatively, law of large numbers. If you have 20 planets with 5B people each, that's tons of shuraheima. All you need to destroy the universe is one who's a reasonably intelligent sociopath who experiments a bit with his powers before trying anything huge. The tools are all there. There is literally nothing stopping a single person from ruining everything as you have it laid out.
 
->>>> **u/Nighzmarquls** [+2] *
+>>>> **u/Nighzmarquls** [+2]  (5 hours later)
 >>>> 
 >>>> You are correct that Shuraheima warring with each other directly is catastrophic. As for the intelligent sociopath law of averages, welcome to the main reason that enormous chunks of time and space in the universe become extremely uninhabited.
->>>> And why it is in the interest of any shuraheima that don't appreciate all their toys being broken to locate every shuraheima that occurs and get to them first.
 >>>> 
+>>>> And why it is in the interest of any shuraheima that don't appreciate all their toys being broken to locate every shuraheima that occurs and get to them first.
 
-> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (50 minutes later)
 > 
 > It looks interesting. I think you may want to work on some of the terminology (which has a generic feel to it that may turn some people off), however. 
-> How did this start? 
-> Also, you may want to mention this in r/worldbuilding, or crosspost a link over here.
 > 
+> How did this start? 
+> 
+> Also, you may want to mention this in r/worldbuilding, or crosspost a link over here.
 
->> **u/Nighzmarquls** [+4] *
+>> **u/Nighzmarquls** [+3]  (3 hours later)
 >> 
 >> That is a little complicated. But one of the ramifications of the Time shenanigans and fate markets stuff that I mentioned at the end is that it's very hard to pin down precisely what the beginning of anything even is.
->> The 'territory' of the civilization as a whole is bordered by regions of space/time that no one ever comes back from. And within those regions there is a lot of interference from both the future and the past.
->> The broad 'earliest' border of the whole thing is roughly equivalent to the start of human beings being able to create and respond to visual depictions.
->> So the beginning of how all of this started as a human phenomena could be said to come from a bunch of early tribes of human beings finding tablets that had instructions for how to create a magical circle and receive some one to get them working on whatever was the most economically useful to get started at the very dawn of human civilization (a surprising amount of which is burying things in the ground for some one later).
->> And yes it is intentional that if you think too long about the larger structure of this entire 'universe' it gets horrifically bleak and soul crushing.
 >> 
+>> The 'territory' of the civilization as a whole is bordered by regions of space/time that no one ever comes back from. And within those regions there is a lot of interference from both the future and the past.
+>> 
+>> The broad 'earliest' border of the whole thing is roughly equivalent to the start of human beings being able to create and respond to visual depictions.
+>> 
+>> So the beginning of how all of this started as a human phenomena could be said to come from a bunch of early tribes of human beings finding tablets that had instructions for how to create a magical circle and receive some one to get them working on whatever was the most economically useful to get started at the very dawn of human civilization (a surprising amount of which is burying things in the ground for some one later).
+>> 
+>> And yes it is intentional that if you think too long about the larger structure of this entire 'universe' it gets horrifically bleak and soul crushing.
 
-> **u/Chronophilia** [+3]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+3]  *sci-fi ≠ futurology* (3 hours later)
 > 
 > With 100 times more Dreamers than Shuraheima, I'd expect them to contribute just as much to the tech and the magic. Someone who was making use of Abyss technology would surely have much more use for a few people who believe in fairies and weave straw into gold or do other things of that magnitude, than for a single uncontrollable demigod.
-> Broken even more so, of course.
 > 
+> Broken even more so, of course.
 
->> **u/Nighzmarquls** [+4] *
+>> **u/Nighzmarquls** [+4]  (4 hours later)
 >> 
 >> Broken have the disadvantage/advantage of the majority of them being effectively none-sentient or severely damaged/impaired sentient minds. One of the foundations of the magitech of the setting is indeed using broken or their byproducts to produce various effects. Most of the means that are used to rapidly transport individuals is the use of specific broken or groups of broken in conjunction to perform the necessary infrastructure for magical transport circles and the like.
->> Dreamers are tricky to use in large groups because breaking their worldviews can lead to making a particularly nasty form of broken. 
->> Not all dreamers have compatible 'stories' pertaining to what their power is/does and as a result what the very nature of the world is.
->> So they need to be handled gently by any involved.
->> The shuraheima are indeed uncontrollable as far as a human is concerned, but not un-containable for other shuraheima. Which is what a good majority of their culture is about.
->> Not being 'rude' enough to simply pop all of the mortals in a given continent.
->> Still good catch on some one wanting to utilize the dreamers who are at least moderately controllable instead of trying to wrangle something comparable to a poltergeist or infectious psychotic rage spirit (broken). The goal of the setting is the shuraheima occupy something between classic pre-harry potter wizards and the great old ones like cthulhu. And then there are things in the universe even more uncaring of mortal humans (comparable to the outer gods of lovecraft lore, but far more impersonal)
 >> 
+>> Dreamers are tricky to use in large groups because breaking their worldviews can lead to making a particularly nasty form of broken. 
+>> 
+>> Not all dreamers have compatible 'stories' pertaining to what their power is/does and as a result what the very nature of the world is.
+>> 
+>> So they need to be handled gently by any involved.
+>> 
+>> The shuraheima are indeed uncontrollable as far as a human is concerned, but not un-containable for other shuraheima. Which is what a good majority of their culture is about.
+>> 
+>> Not being 'rude' enough to simply pop all of the mortals in a given continent.
+>> 
+>> Still good catch on some one wanting to utilize the dreamers who are at least moderately controllable instead of trying to wrangle something comparable to a poltergeist or infectious psychotic rage spirit (broken). The goal of the setting is the shuraheima occupy something between classic pre-harry potter wizards and the great old ones like cthulhu. And then there are things in the universe even more uncaring of mortal humans (comparable to the outer gods of lovecraft lore, but far more impersonal)
 
-> **u/darkflagrance** [+2] *
+> **u/darkflagrance** [+2]  (5 hours later)
 > 
 > I'm envisioning a twist where one dreamer is responsible for all shuraheima existing by virtue of poor initial assumptions about the effects of the abyss, and must be kept alive to maintain humanity's control of the uncontrollable. There is great potential for meta-reality-warping considering that much of it occurs through human belief systems, including belief systems about the abyss.
-> 
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (21 hours later)
 >> 
 >> It it's a dreamer, it is not a HUMAN dreamer.
->> and quite possibly predates the earth or is from the far future at the end of time.
 >> 
+>> and quite possibly predates the earth or is from the far future at the end of time.
 
-> **u/mack2028** [+2] *
+> **u/mack2028** [+2]  (7 hours later)
 > 
 > While this seems interesting at first as I think about it more and more it seems like you would need so much hand waving and statements about "rudeness" that the world seems unreal and silly. 
-> I'm desperately trying to think of ways to fix it but i'm not seeing very many. Perhaps what the main group (you should seriously change that name) doesn't create spell effects on the fly but has some way of constructing the spell effect in the abyss then using it, that would take out all the "stray thought" and "if they aren't careful" stuff which would destroy the universe long before anyone could do it on purpose and leave you with the creative stuff. Thinking about it that would make an interesting way for the other two groups to come into being, the dreamers (this is an ok name) stumbled onto a preexisting set of abilities that someone left behind using their personal style and the broken hit or accidently created a big pile of junk code. I also find the dreamer drawback really strange, if I can do fucking magic what are you going to show me that means i'm wrong about there being magic? When skeptics ask for proof, the ability to shoot lasers out of your dick and spit wormholes would pretty much do.
 > 
+> I'm desperately trying to think of ways to fix it but i'm not seeing very many. Perhaps what the main group (you should seriously change that name) doesn't create spell effects on the fly but has some way of constructing the spell effect in the abyss then using it, that would take out all the "stray thought" and "if they aren't careful" stuff which would destroy the universe long before anyone could do it on purpose and leave you with the creative stuff. Thinking about it that would make an interesting way for the other two groups to come into being, the dreamers (this is an ok name) stumbled onto a preexisting set of abilities that someone left behind using their personal style and the broken hit or accidently created a big pile of junk code. I also find the dreamer drawback really strange, if I can do fucking magic what are you going to show me that means i'm wrong about there being magic? When skeptics ask for proof, the ability to shoot lasers out of your dick and spit wormholes would pretty much do.
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (7 hours later)
 >> 
 >> Hmmm I agree with you on the creative side of things, stray thought is a bad way to describe what they are supposed to do anyway. They are SUPPOSED to be about the ones that consciously control the nature of the abyss because they 'understand' it and can make it perform the acts they want.
->> It is a good distinction to make that they 'engineer' the spellworks before hand and then use them as needed.
->> The freedom/power they get as a result of their approach though is still a pretty solid part of the way the heirarchy settles.
->> Do you think keeping the process wholely and very strictly intentional/designed/engineered would really resolve the problems you had?
->> In the case of dreamers they don't precisely pick what the basis of the fiction that they explain their powers with is.
->> it is generally that they used their ability to get something that is not present in the world, They create a dream to blot out what is lost. The easiest example of this to take apart is the child who cannot believe anyone around them dies. So they animate and puppet the fallen around them. They make a very good effort of it. Their expending immense amounts of energy and no small amount of their own 'sub conscious' focus.
->> But the people that child is 'keeping alive' are still puppets. The child only can only manifest what they KNEW about the people before they died.
->> Prove to the child that he never successfully brought his parents back, or strain him to the point where he cannot maintain the puppets and you get the child suffering a second breaking.
->> It is not precisely easy, but it is ABSURDLY dangerous.
 >> 
+>> It is a good distinction to make that they 'engineer' the spellworks before hand and then use them as needed.
+>> 
+>> The freedom/power they get as a result of their approach though is still a pretty solid part of the way the heirarchy settles.
+>> 
+>> Do you think keeping the process wholely and very strictly intentional/designed/engineered would really resolve the problems you had?
+>> 
+>> In the case of dreamers they don't precisely pick what the basis of the fiction that they explain their powers with is.
+>> 
+>> it is generally that they used their ability to get something that is not present in the world, They create a dream to blot out what is lost. The easiest example of this to take apart is the child who cannot believe anyone around them dies. So they animate and puppet the fallen around them. They make a very good effort of it. Their expending immense amounts of energy and no small amount of their own 'sub conscious' focus.
+>> 
+>> But the people that child is 'keeping alive' are still puppets. The child only can only manifest what they KNEW about the people before they died.
+>> 
+>> Prove to the child that he never successfully brought his parents back, or strain him to the point where he cannot maintain the puppets and you get the child suffering a second breaking.
+>> 
+>> It is not precisely easy, but it is ABSURDLY dangerous.
 
->>> **u/mack2028** [+2] *
+>>> **u/mack2028** [+2]  (8 hours later)
 >>> 
 >>> For the first group yes that would make a lot more sense, the way you were first describing it was kind of the concept in a fic (edit: [it is saga of soul](http://www.sagaofsoul.com/)) but the way they solved it is that there were people monitoring universes for magic and enslaving or murdering anyone who gets it because the typical result of magic is the destruction of at very least the planet the wizard is on but typically the entire star system.
->>> As for the dreamers, I guess that makes more sense? The way it is described at first makes it seem like most of them are like wizards who believe that they can cast spells if they talk in bad latin and wiggle their fingers. I am not sure how you would disprove that.
->>> As for the names, maybe sticking with a theme would help a little. How about broken, patched, and weavers? There are a few ways you could go on that but making up a word or using a long foreign word always makes it sound silly and/or pretentious.
->>> As I think about it, I kind of like the idea that the "abyss" is just full of random crap, just filled to bursting with junk code so much that it is spilling out. Maybe it is just the internet of beings that exist on another plane of reality and the fact that it touches our world and we can interact with it is just coincidental, like radiation coming off of powerlines.
 >>> 
+>>> As for the dreamers, I guess that makes more sense? The way it is described at first makes it seem like most of them are like wizards who believe that they can cast spells if they talk in bad latin and wiggle their fingers. I am not sure how you would disprove that.
+>>> 
+>>> As for the names, maybe sticking with a theme would help a little. How about broken, patched, and weavers? There are a few ways you could go on that but making up a word or using a long foreign word always makes it sound silly and/or pretentious.
+>>> 
+>>> As I think about it, I kind of like the idea that the "abyss" is just full of random crap, just filled to bursting with junk code so much that it is spilling out. Maybe it is just the internet of beings that exist on another plane of reality and the fact that it touches our world and we can interact with it is just coincidental, like radiation coming off of powerlines.
 
->>>> **u/Nighzmarquls** [+1] *
+>>>> **u/Nighzmarquls** [+1]  (8 hours later)
 >>>> 
 >>>> Hum, I actually put quite a bit of thought into how that word was being constructed, but I can understand the sentiment of not wanting to just use endless chains of foreign words.
->>>> The trouble is that at the same time you can end up with your story/setting full of descriptive nouns.
->>>> Not the most pleasant solution either.
->>>> I'm not sure that the Shuraheima name is actually in consistent circulation/use and I kind of want to fit several words to represent each type, from different cultures and linguistic roots. For example an entirely cliche description to give the Weavers or 'Awake' abyss touched is to just simply call them Wizards, Magi or Magisters.
->>>> Pretty bland really but it fits, however just as viable a name for any that meet one after it's done with the awkward decades of figuring out how to design and formulate their abilities might as well call the things gods, angels, demons or elementals.
 >>>> 
+>>>> The trouble is that at the same time you can end up with your story/setting full of descriptive nouns.
+>>>> 
+>>>> Not the most pleasant solution either.
+>>>> 
+>>>> I'm not sure that the Shuraheima name is actually in consistent circulation/use and I kind of want to fit several words to represent each type, from different cultures and linguistic roots. For example an entirely cliche description to give the Weavers or 'Awake' abyss touched is to just simply call them Wizards, Magi or Magisters.
+>>>> 
+>>>> Pretty bland really but it fits, however just as viable a name for any that meet one after it's done with the awkward decades of figuring out how to design and formulate their abilities might as well call the things gods, angels, demons or elementals.
 
->>>>> **u/mack2028** [+3] *
+>>>>> **u/mack2028** [+3]  (9 hours later)
 >>>>> 
 >>>>> Ok let me explain it like this, and remember that I am trying to be helpful by saying this. 
->>>>> Every time I read that word and try to pronounce it in my head I want to punch you in your neckbeard as hard as I can and watch you die.
 >>>>> 
+>>>>> Every time I read that word and try to pronounce it in my head I want to punch you in your neckbeard as hard as I can and watch you die.
 
->>>>>> **u/Nighzmarquls** [+1] *
+>>>>>> **u/Nighzmarquls** [+1]  (19 hours later)
 >>>>>> 
 >>>>>> No that's a fair thing, I'll probably change it.
->>>>>> I've had some other people mention the names being a bit jarring in the past.
->>>>>> Originally I called dreamers Angels and the spellworking ones Demons but that seemed absurdly cliche and also not quite accurate.
->>>>>> I got the current name by crossing Hebrew/judaic words for demon/men and some of the linguistic extrapolations for Asura and related entities in the myth from india.
->>>>>> The real meaning of all that jumbled together stuff is "POWERFUL THINGS" so really anything that suits that meaning would work for me.
 >>>>>> 
+>>>>>> I've had some other people mention the names being a bit jarring in the past.
+>>>>>> 
+>>>>>> Originally I called dreamers Angels and the spellworking ones Demons but that seemed absurdly cliche and also not quite accurate.
+>>>>>> 
+>>>>>> I got the current name by crossing Hebrew/judaic words for demon/men and some of the linguistic extrapolations for Asura and related entities in the myth from india.
+>>>>>> 
+>>>>>> The real meaning of all that jumbled together stuff is "POWERFUL THINGS" so really anything that suits that meaning would work for me.
 
-> **u/qznc** [+2]  *Chaos Legion**
+> **u/qznc** [+2]  *Chaos Legion* (8 hours later)
 > 
 > What is the base rate for an abyss contact? It must be a low percentage, because you need a working society. If 90% of the population experience an abyss touch, then 0.9*0.999 of the population is Broken.
-> It seems humans can force a touch, but probably not perfectly reliable. This would suggest one or more organisations (monastery, military, secret order, secret service, etc) to exploit this systematically. It makes sense to hide it from the general population, because it is obviously dangerous. There are still the occasional trauma-touched, which is a great start for drama.
-> With a 7 billion population and a 0.1% touch rate, we have 7 million touched people, of which 6300 are dreamers, 630 are stalwarts and 70 Shuraheima.
 > 
+> It seems humans can force a touch, but probably not perfectly reliable. This would suggest one or more organisations (monastery, military, secret order, secret service, etc) to exploit this systematically. It makes sense to hide it from the general population, because it is obviously dangerous. There are still the occasional trauma-touched, which is a great start for drama.
+> 
+> With a 7 billion population and a 0.1% touch rate, we have 7 million touched people, of which 6300 are dreamers, 630 are stalwarts and 70 Shuraheima.
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (8 hours later)
 >> 
 >> My expectation is that unless the people engineering the technology are high functioning broken or the more benign versions of the other groups It would be difficult to attain a population as high as humans have on modern day earth on  single planet without really upping the population density. The existence of broken are liable to be known and protected against in SOME form, even if those protections are dictated from some kind of authority or by trial and error traditions.
->> Abyss contact is mostly a factor of lifestyle, personality and happenstance. It is relatively easy to induce intentionally but doing such has a lot of cultural discouragement.
->> In a similar way that one does not appreciate their fellows setting fire to their own house, signs of some one showing risks of inducing their own contact with the abyss are discouraged.
->> The degree to which there is actually a masqurade is more of a 'local flavor' for the setting and probably has a great deal to do with occurrences.
->> Likely no matter the degree to which the existence of the abyss is nominally "out" or not to the population at large I expect 0.1% touch rate is an idealized fantasy for most populations of humans and in particularily bad parts of the setting it can be as high as 5-10%. Much higher then that and it sort of cascades and the entire population can end up being triggered by the horrors of the rest changing.
->> Leads to messy messy situations, but potentially very valuable/useful broken may be able to be found in the wreckage after all the dust settles.
 >> 
+>> Abyss contact is mostly a factor of lifestyle, personality and happenstance. It is relatively easy to induce intentionally but doing such has a lot of cultural discouragement.
+>> 
+>> In a similar way that one does not appreciate their fellows setting fire to their own house, signs of some one showing risks of inducing their own contact with the abyss are discouraged.
+>> 
+>> The degree to which there is actually a masqurade is more of a 'local flavor' for the setting and probably has a great deal to do with occurrences.
+>> 
+>> Likely no matter the degree to which the existence of the abyss is nominally "out" or not to the population at large I expect 0.1% touch rate is an idealized fantasy for most populations of humans and in particularily bad parts of the setting it can be as high as 5-10%. Much higher then that and it sort of cascades and the entire population can end up being triggered by the horrors of the rest changing.
+>> 
+>> Leads to messy messy situations, but potentially very valuable/useful broken may be able to be found in the wreckage after all the dust settles.
 
-> **u/Rhamni** [+2]  *Aspiring author**
+> **u/Rhamni** [+2]  *Aspiring author* (16 hours later)
 > 
 > I like this. I'm assuming there is some sort of organization/set of organizations that specializes in destroying or containing abyss-related threats? I get that some things will be impossible to contain and that some abyss-touched people that remain sane can do a great deal of good, but I can't imagine there wouldn't be a lot of effort spent on making sure fewer worlds and settlements are lost.
-> Also, is there (currently known or not) some way to game the system and increase the chances of getting non-Broken outcomes, or does it depend on factors that humans cannot realistically hope to manipulate?
 > 
+> Also, is there (currently known or not) some way to game the system and increase the chances of getting non-Broken outcomes, or does it depend on factors that humans cannot realistically hope to manipulate?
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (19 hours later)
 >> 
 >> The factors don't seem to be reliably within human control  because of reasons of the chaotic nature of occurrences of an event contact.
->> The event itself is deeply chaotic and trying to instigate one to swing one way or another is a bit like trying to predict the equivalent of spatially 12 dimensional weather to the hour twelve years in advance.
->> Even if they know EXACTLY what would cause a particular person to become a particular kind of abyss touched it is not reliably possible without effectively having to utilize the rest of the entire universe.
->> A story element I suspect is that the societies that exist and the precise makeup of normal human brains and bodies is actually tailored to make the occurrence of the various types as positive/useful as it is already and trying to push things much further gets diminishing returns.
 >> 
+>> The event itself is deeply chaotic and trying to instigate one to swing one way or another is a bit like trying to predict the equivalent of spatially 12 dimensional weather to the hour twelve years in advance.
+>> 
+>> Even if they know EXACTLY what would cause a particular person to become a particular kind of abyss touched it is not reliably possible without effectively having to utilize the rest of the entire universe.
+>> 
+>> A story element I suspect is that the societies that exist and the precise makeup of normal human brains and bodies is actually tailored to make the occurrence of the various types as positive/useful as it is already and trying to push things much further gets diminishing returns.
 
->>> **u/Rhamni** [+2]  *Aspiring author**
+>>> **u/Rhamni** [+2]  *Aspiring author* (19 hours later)
 >>> 
 >>> Alright. Is there an in-universe origin/explanation for the Abyss? I'm assuming it's not known to the characters, but... Is there one planned out? In my own world the origin of the magicy thing didn't exist until I'd been thinking about the world for years, so I'm curious if yours came with a reason or if it is just something that exists, like magic in Harry Potter.
->>> 
 
->>>> **u/Nighzmarquls** [+2] *
+>>>> **u/Nighzmarquls** [+2]  (21 hours later)
 >>>> 
 >>>> At present It's either something even bigger and worse then anyone/everything can comprehend or it's just the way the universe WORKS and may be some form of very unpleasant universal animism (very azathoth but where as instead of it being something that is 'uncaring' it very much has it's attention on all things and this attention is the source of the 'abyss')
->>>> 
 
->>>>> **u/Rhamni** [+1]  *Aspiring author**
+>>>>> **u/Rhamni** [+1]  *Aspiring author* (21 hours later)
 >>>>> 
 >>>>> It sounds interesting. I hope you continue to build this world and write about it.
->>>>> 
 
->>>>>> **u/Nighzmarquls** [+2] *
+>>>>>> **u/Nighzmarquls** [+2]  (21 hours later)
 >>>>>> 
 >>>>>> I realized that I needed more story writing and art practice before I could do the setting justice, so I'm currently doing an 'easier' training project to develop the necessary skills.
->>>>>> It's also going to be tricky because I'm going to have to depart from my usual comfort zone of interactive fiction to a more plotted and 'sit down and write all of it' mode of production due to time shenanigans having an important aspect of the story and world in general. which I've not been ready to do yet.
 >>>>>> 
+>>>>>> It's also going to be tricky because I'm going to have to depart from my usual comfort zone of interactive fiction to a more plotted and 'sit down and write all of it' mode of production due to time shenanigans having an important aspect of the story and world in general. which I've not been ready to do yet.
 
->>>>>>> **u/Rhamni** [+2]  *Aspiring author**
+>>>>>>> **u/Rhamni** [+2]  *Aspiring author* (21 hours later)
 >>>>>>> 
 >>>>>>> Best of luck with that. I gave up on time shenanigans in my world long ago and just made it impossible.
->>>>>>> 
 
->>>>>>>> **u/Nighzmarquls** [+2] *
+>>>>>>>> **u/Nighzmarquls** [+2]  (22 hours later)
 >>>>>>>> 
 >>>>>>>> It fits the depressing/cosmic horror aspect of things to have destiny and predestination be simultaneously banal and also a force that one might seek to try and escape from.
->>>>>>>> 
 
-> **u/High_king_of_Numenor** [+2] *
+> **u/High_king_of_Numenor** [+2]  (a day later)
 > 
 > This is amazing.
-> 
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (a day later)
 >> 
 >> Thank you.
->> 
 
->>> **u/High_king_of_Numenor** [+2] *
+>>> **u/High_king_of_Numenor** [+2]  (a day later)
 >>> 
 >>> What position would the Shuraheima hold in society? 
->>> Could you expand on WHAT the abyss is? A place, like the chaos/warp in WH40K, that has effects extending into our universe?
->>> Did humanity ever have one of these during our history/near future?
 >>> 
+>>> Could you expand on WHAT the abyss is? A place, like the chaos/warp in WH40K, that has effects extending into our universe?
+>>> 
+>>> Did humanity ever have one of these during our history/near future?
 
->>>> **u/Nighzmarquls** [+3] *
+>>>> **u/Nighzmarquls** [+3]  (2 days later)
 >>>> 
 >>>> In human society a Shuraheima generally ends up having whatever position it wants to adopt. They can effectively shapeshift to look however they want too, so the roles they can play as regards human beings can range from the monster that is the reason "here there be dragons" to some fae/fairy/witch/wizard like being in the woods you can go and ask favors of.
->>>> As a result you could probably make a case that Shuraheima themselves resemble many depictions of fairies, spirits and intelligent beasts/gods/giants/old wise ones from human myths and posit that they WERE REALLY THERE.
->>>> That said in setting the only Shuraheima that actually  live as god kings among humans are viewed somewhat similar to a bum that likes to live among pidgeons.
->>>> It's a sign that particular individual is abjectly a failure in shuraheima society at large.
->>>> Shuraheima have their own society between themselves (mostly because their not delusional and also because it's somewhere they can do crazy things and discuss the universe without accidentally breaking a human), in which their roles and positions fill out an enormous breadth from business tycoons to simple 'laborers' (the labors they undertake are the kind that semi godlike beings are capable of, but over the breadth of the setting there are enough shuraheima to support personal heirarchies of wealth and power).
->>>> If you were to describe the Shuraheima as gods then the pantheon of the setting could be viewed as one that is dictated by the economics/exchange of their labors/time with one another.
->>>> The fates are literally dictated by a marketplace, not by anyone's grand plan.
->>>> On the nature of the abyss. It is in story terms a kind of abstraction of what dealing with life the universe and everything DOES to people. Sometimes life just breaks you, some times you hide from it. Sometimes you find yourself strong.
->>>> Sometimes you figure it out/are lucky and 'succeed'.
->>>> As that being the metaphor, the abyss in universe is utterly prevailant.
->>>> The entire universe IS the abyss and you cannot actually hide from it anywhere. it's sitting there waiting to be discovered and 'contacted' it's hiding beneath the fiction of your life waiting to be noticed.
->>>> the abyss is not 'seperate' the separate thing in the setting is the little story humans tell themselves inside their own heads.
->>>> After all we are talking COSMIC horror.
->>>> The abyss is what really is, the way people are used to dealing with things comfortably is the lie.
 >>>> 
+>>>> As a result you could probably make a case that Shuraheima themselves resemble many depictions of fairies, spirits and intelligent beasts/gods/giants/old wise ones from human myths and posit that they WERE REALLY THERE.
+>>>> 
+>>>> That said in setting the only Shuraheima that actually  live as god kings among humans are viewed somewhat similar to a bum that likes to live among pidgeons.
+>>>> 
+>>>> It's a sign that particular individual is abjectly a failure in shuraheima society at large.
+>>>> 
+>>>> Shuraheima have their own society between themselves (mostly because their not delusional and also because it's somewhere they can do crazy things and discuss the universe without accidentally breaking a human), in which their roles and positions fill out an enormous breadth from business tycoons to simple 'laborers' (the labors they undertake are the kind that semi godlike beings are capable of, but over the breadth of the setting there are enough shuraheima to support personal heirarchies of wealth and power).
+>>>> 
+>>>> If you were to describe the Shuraheima as gods then the pantheon of the setting could be viewed as one that is dictated by the economics/exchange of their labors/time with one another.
+>>>> 
+>>>> The fates are literally dictated by a marketplace, not by anyone's grand plan.
+>>>> 
+>>>> On the nature of the abyss. It is in story terms a kind of abstraction of what dealing with life the universe and everything DOES to people. Sometimes life just breaks you, some times you hide from it. Sometimes you find yourself strong.
+>>>> 
+>>>> Sometimes you figure it out/are lucky and 'succeed'.
+>>>> 
+>>>> As that being the metaphor, the abyss in universe is utterly prevailant.
+>>>> 
+>>>> The entire universe IS the abyss and you cannot actually hide from it anywhere. it's sitting there waiting to be discovered and 'contacted' it's hiding beneath the fiction of your life waiting to be noticed.
+>>>> 
+>>>> the abyss is not 'seperate' the separate thing in the setting is the little story humans tell themselves inside their own heads.
+>>>> 
+>>>> After all we are talking COSMIC horror.
+>>>> 
+>>>> The abyss is what really is, the way people are used to dealing with things comfortably is the lie.
 
->>>>> **u/High_king_of_Numenor** [+3] *
+>>>>> **u/High_king_of_Numenor** [+3]  (2 days later)
 >>>>> 
 >>>>> Reminds me of Terry Pratchett's depiction of knurd. 
 >>>>> "The opposite of being drunk, its as sober as you can ever be. It strips away all the illusion, all the comforting pink fog in which people normally spend their lives, and lets them see and think clearly for the first time ever. Then, after they've screamed a bit, they make sure they never get knurd again"
->>>>> 
 
->>>>>> **u/Nighzmarquls** [+3] *
+>>>>>> **u/Nighzmarquls** [+3]  (2 days later)
 >>>>>> 
 >>>>>> Yes that is much the point. Cosmic horror and all that.
->>>>>> Although in this case only a lucky few manage to regain that nice comforting pink fog (dreamers), most either go crazy (broken) or find some way to deal with it (stalwart and shuraheima).
 >>>>>> 
+>>>>>> Although in this case only a lucky few manage to regain that nice comforting pink fog (dreamers), most either go crazy (broken) or find some way to deal with it (stalwart and shuraheima).
 
-> **u/TotesMessenger** [+1] *
+> **u/TotesMessenger** [+1]  (3 hours later)
 > 
 > This thread has been linked to from another place on reddit.
-> - [/r/worldbuilding] [[BST][WIP][HF][DC][D]My Pragmatic Cosmic Horror Setting : rational](http://np.reddit.com/r/worldbuilding/comments/2yn5ok/bstwiphfdcdmy_pragmatic_cosmic_horror_setting/)
-
-> [](#footer)*^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote. ^\([Info](/r/TotesMessenger/wiki/) ^/ ^[Contact](/message/compose/?to=\/r\/TotesMessenger))* [](#bot)
 > 
+> - [/r/worldbuilding] [[BST][WIP][HF][DC][D]My Pragmatic Cosmic Horror Setting : rational](http://np.reddit.com/r/worldbuilding/comments/2yn5ok/bstwiphfdcdmy_pragmatic_cosmic_horror_setting/)
+> 
+> [](#footer)*^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote. ^\([Info](/r/TotesMessenger/wiki/) ^/ ^[Contact](/message/compose/?to=\/r\/TotesMessenger))* [](#bot)
 
 ---
 

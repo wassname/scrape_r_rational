@@ -22,27 +22,25 @@ Thanks to /u/Tasty_Yogurt and /u/CalebJohnsn for finding links, and /u/embrodski
 
 ### Comments:
 
-> **u/BadGoyWithAGun** [+3] *
+> **u/BadGoyWithAGun** [+4]  (20 hours later)
 > 
 > I particularly enjoyed *Seventy-Two letters* and *Hell is the absence of God* - the idea of "theology fiction" certainly isn't new, but the execution with hindsight of modern knowledge is excellent.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (20 hours later)
 >> 
 >> I wish *72 letters* was named *46 letters* though, for the number of human chromosomes.
->> 
 
-> **u/Cruithne** [+5]  *Light Sith epistemologist**
+> **u/Cruithne** [+4]  *Light Sith epistemologist* (a day later)
 > 
 > I've read almost every piece of fiction he has written, and thoroughly enjoyed almost all of it. I really recommend 'Understand' as an example of a genuinely super-intelligent character, and 'The Story of Your Life and Others' as my favourite of his stories, which includes a truly *alien* type of alien.
-> Another thing that I've noticed after getting through the majority of his work is the diversity of it. You can tell that he pushes himself so that he isn't constrained by one particular setting. He's also good with the sorts of organic little details that get you to quickly feel for a character. I sort of have the idea that he's an attentive man in everyday life.
-> The only thing of his I've read that I don't recommend is 'The Lifecycle of Software Objects'. It's a bit meandering and it never really goes anywhere, though it's well-thought out, and I'm sure there's a niche audience who love it. I just don't get the feeling that it was written for me.
 > 
+> Another thing that I've noticed after getting through the majority of his work is the diversity of it. You can tell that he pushes himself so that he isn't constrained by one particular setting. He's also good with the sorts of organic little details that get you to quickly feel for a character. I sort of have the idea that he's an attentive man in everyday life.
+> 
+> The only thing of his I've read that I don't recommend is 'The Lifecycle of Software Objects'. It's a bit meandering and it never really goes anywhere, though it's well-thought out, and I'm sure there's a niche audience who love it. I just don't get the feeling that it was written for me.
 
-> **u/gonight** [+3]  *i shouldn't be allowed to change my own flair**
+> **u/gonight** [+3]  *i shouldn't be allowed to change my own flair* (13 hours later)
 > 
 > I read exhalation. That was an amazing story. I'm going to work my way through the rest of these works. Thank you.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 11
+* Score: 12
 
 * Created: 2015-05-19T14:20:40
 
@@ -12,42 +12,35 @@
 
 ### Comments:
 
-> **u/narfanator** [+9] *
+> **u/narfanator** [+9]  (an hour later)
 > 
 > Interesting, but that site is *terrible*.
 > Here's that article's linked source, with less terrible ads:
 > http://hplusmagazine.com/2015/02/15/biology-technology-darpa-back-game-big-vision-h/
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (31 seconds later)
 > 
 > I figured that if people at work are going to talk about applying for grants to work on ridiculous DARPA scifi shit, I should toss you guys the semi-new phlebotinum.
-> 
 
->> **u/tomintheconer** [+1] *
+>> **u/tomintheconer** [+1]  (21 minutes later)
 >> 
 >> does that mean it's not real?
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (23 minutes later)
 >>> 
 >>> It means it's in the R&D phases right now, and should therefore be considered Very Hard for scifi purposes.
->>> 
 
->>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (4 hours later)
 >>>> 
 >>>> Every speculative technology that isn't physics or mathematics fantasy can be considered hard for sci-fi purposes.
->>>> 
 
->>>>> **u/None** [+0] *
+>>>>> **u/None** [-1]  (8 hours later)
 >>>>> 
 >>>>> Whatever.  I heard my boss talking about something cool and looked for a press release.
->>>>> 
 
-> **u/MugaSofer** [+1] *
+> **u/MugaSofer** [+1]  (a day later)
 > 
 > Honestly, this strikes me as less revolutionary than they seem to be implying. Still, later versions may be able to give us something a bit better than a blurry HUD that could have been gotten some other way.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Tinfoil_Haberdashery *
 * URL: https://www.reddit.com/r/rational/comments/k1i3rl/rt_ff_elasmosaur_a_postapocalyptic/
-* Score: 6
+* Score: 5
 
 * Created: 2020-11-26T16:23:21
 
@@ -352,10 +352,9 @@ The three of them exchanged several words in Gaelic, Moira unable to focus on th
 
 ### Comments:
 
-> **u/DearDeathDay** [+1] *
+> **u/DearDeathDay** [+1]  (15 hours later)
 > 
 > Interesting, if a bit contrived from the perspective of someone that knows neither of the source materials.
-> 
 
 ---
 

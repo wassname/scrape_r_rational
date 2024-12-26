@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/electrace** [+7] *
+> **u/electrace** [+7]  (30 minutes later)
 > 
 > I'm so confused as to the point of this article. It should be titled, "Here's every movie scene I've watched with maths in it, And btw, watch this new maths movie coming out (who just paid us to write this article)."
-> Then again, maybe not. That title is too wordy, but you get the point.
-> It did not, in any way, show "why Hollywood maths movies don't add up."
 > 
+> Then again, maybe not. That title is too wordy, but you get the point.
+> 
+> It did not, in any way, show "why Hollywood maths movies don't add up."
 
 ---
 

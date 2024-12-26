@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/Kodix** [+1] *
+> **u/Kodix** [+1]  (42 minutes later)
 > 
 > Pretty neat so far. I've no knowledge of Eragon and I found the chapters both interesting and easy to understand, which doesn't normally happen easily for stories new to me.
-> Definitely would like to see where this goes.
 > 
+> Definitely would like to see where this goes.
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (6 hours later)
 > 
 > [deleted]
-> 
 
 ---
 

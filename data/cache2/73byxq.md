@@ -12,22 +12,21 @@
 
 ### Comments:
 
-> **u/Dwood15** [+4] *
+> **u/Dwood15** [+4]  (15 seconds later)
 > 
 > "We'll make an offer he can't refuse."
-> 
 
-> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+> **u/callmesalticidae** [+3]  *writes worldbuilding books* (24 minutes later)
 > 
 > These kids are so damn adorable.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> I mean, I agree but:
->> This chapter the children blackmail a guy they tied up previously with a self destruction switch.
->> Your definition of adorable is amazing.
 >> 
+>> This chapter the children blackmail a guy they tied up previously with a self destruction switch.
+>> 
+>> Your definition of adorable is amazing.
 
 ---
 

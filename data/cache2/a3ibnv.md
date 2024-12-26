@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/NebulousASK** [+2] *
+> **u/NebulousASK** [+2]  (an hour later)
 > 
 > An 'extra' Interlude chapter from the perspective of Buzz Kowalczyk will post later this week.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Amonwilde *
 * URL: https://www.reddit.com/r/rational/comments/h7rkyi/considering_rational_stories_in_a_realistic/
-* Score: 85
+* Score: 87
 
 * Created: 2020-06-12T19:40:20
 
@@ -60,502 +60,536 @@ P.S. Thanks to those on this sub who are writing a better wizard. And thanks to 
 
 ### Comments:
 
-> **u/MoMoeMoais** [+22] *
+> **u/MoMoeMoais** [+20]  (an hour later)
 > 
 > Honestly, I think the real world is sci-fi enough that you can go off the rails a little and still have it feel grounded. We've had, IRL, robots designed to scare off homeless people. We have a hole in Russia so deep and so wide that it affects the latent air pressure and sucks helicopters out of the sky. We've had people biohack themselves on livestreams. I write a lot of sci-fi, but most of it's just taking the scariest things from real life and pushing them a little. My last major villain was based on Peter Thiel, and the rumors of him (again, rumors about a real person) trying to buy up the blood of teenagers to extend his own life. Another villain was based on Joel Osteen. Currently, the insane power that police unions have IRL is what has my sci-fi wheels turning.
-> You can have your character that's a wizard or a cyberpunk hacker or a mutant also have to deal with anxiety, and capitalism, and police brutality, and the way the media manipulates the public and all those other real world problems. You can still tell a very relatable story where a protagonist (a rational one, with powers) still struggles and even fails against the modern systems in place, simply because those systems are so ubiquitous, so vast, and entrenched so deep that just throwing a fireball at a dictator or whatever won't solve anything. You can engage people with over the top car chases and explosions AND sociopolitical concepts relevant to our times, especially if you assume the politicians/capitalists/investors/whoever else that's really pulling the strings are ALSO in a prime position to try and access, exploit, or duplicate whatever your protagonist's power source or special skill is.
-> You're the best hacker in the world? There are people invested in the status quo that can put the second, third, and fourth best hackers in the world on the same payroll against you.
-> Could a wizard solve all our real world problems? Sure. Will the FBI, in a world that has magic, kick your door in when they find out you know one whole spell (which you probably found on the deep web), enforcing a system that keeps the poor and underprivileged from ever reaching OP wizard status (while the wealthy are secretly doing dark rituals on their private islands)? I mean, that's how *I'm* writing it. Sci-fi and fantasy can still be very heavily, very strongly intertangled with the real world and its real problems.
 > 
+> You can have your character that's a wizard or a cyberpunk hacker or a mutant also have to deal with anxiety, and capitalism, and police brutality, and the way the media manipulates the public and all those other real world problems. You can still tell a very relatable story where a protagonist (a rational one, with powers) still struggles and even fails against the modern systems in place, simply because those systems are so ubiquitous, so vast, and entrenched so deep that just throwing a fireball at a dictator or whatever won't solve anything. You can engage people with over the top car chases and explosions AND sociopolitical concepts relevant to our times, especially if you assume the politicians/capitalists/investors/whoever else that's really pulling the strings are ALSO in a prime position to try and access, exploit, or duplicate whatever your protagonist's power source or special skill is.
+> 
+> You're the best hacker in the world? There are people invested in the status quo that can put the second, third, and fourth best hackers in the world on the same payroll against you.
+> 
+> Could a wizard solve all our real world problems? Sure. Will the FBI, in a world that has magic, kick your door in when they find out you know one whole spell (which you probably found on the deep web), enforcing a system that keeps the poor and underprivileged from ever reaching OP wizard status (while the wealthy are secretly doing dark rituals on their private islands)? I mean, that's how *I'm* writing it. Sci-fi and fantasy can still be very heavily, very strongly intertangled with the real world and its real problems.
 
->> **u/cysghost** [+3]  *Chaos Legion**
+>> **u/cysghost** [+3]  *Chaos Legion* (18 hours later)
 >> 
 >> I’d love to read some of your stuff. Is it on kindle or online web serials?
->> 
 
->>> **u/MoMoeMoais** [+1] *
+>>> **u/MoMoeMoais** [+1]  (21 hours later)
 >>> 
 >>> [Blood is Mine](http://bloodismine.com) wrapped up in November, [MDA](http://mda.wtf) is still ongoing. They're CYOAs (the readers decide what the protagonist will do in the comments section), though I've started [uploading MDA to Royal Road](https://www.royalroad.com/fiction/33093/my-delirium-alcazar) as a normal story, as well.
->>> 
 
-> **u/DaystarEld** [+43]  *Pokémon Professor**
+> **u/DaystarEld** [+44]  *Pokémon Professor* (48 minutes later)
 > 
 > I'd read a story like this too. One thing that comes to mind occasionally is similar to what you noted: "what would a rational-fic of Elon Musk's life be like?" He certainly wouldn't be calling strangers pedophiles on twitter, so one of his challenges might be struggling with the part of him that wants to use drugs and rant online, maybe solved by setting up some system to ensure he doesn't say anything damaging, like a delayed tweet that trusted friends can vet.
-> The same way you can read a story and think "This could be written better," you can look at a person's life and think "They could have acted better." With the benefits of an outside view, hindsight, and a different (maybe not necessarily better, but sometimes) set of biases, the pitfalls people walk into are often very easy to spot. This creates opportunities for more "rational" contemporary stories.
-> It can also help to keep the scope of a rational contemporary story small. The Martian does this, even if it dips into Sci-Fi a bit to do so. So does Hatchet, without the sci-fi. If you want it to be higher stakes, a short story with Stanislav Petrov as the main character might be interesting to read, even if it risks misrepresenting his character or actual thought process, in which case just use it as inspiration for a similar circumstance.
-> I would probably write slice-of-life romantic rational fiction if I wasn't already committed to other projects, though I would struggle not to include some fantastic element. I just enjoy speculative fiction too much not to include it. But small scale stories can benefit a lot from rational characters showing the hard work of solving problems faced in modern settings.
 > 
+> The same way you can read a story and think "This could be written better," you can look at a person's life and think "They could have acted better." With the benefits of an outside view, hindsight, and a different (maybe not necessarily better, but sometimes) set of biases, the pitfalls people walk into are often very easy to spot. This creates opportunities for more "rational" contemporary stories.
+> 
+> It can also help to keep the scope of a rational contemporary story small. The Martian does this, even if it dips into Sci-Fi a bit to do so. So does Hatchet, without the sci-fi. If you want it to be higher stakes, a short story with Stanislav Petrov as the main character might be interesting to read, even if it risks misrepresenting his character or actual thought process, in which case just use it as inspiration for a similar circumstance.
+> 
+> I would probably write slice-of-life romantic rational fiction if I wasn't already committed to other projects, though I would struggle not to include some fantastic element. I just enjoy speculative fiction too much not to include it. But small scale stories can benefit a lot from rational characters showing the hard work of solving problems faced in modern settings.
 
->> **u/Amonwilde** [+18] *
+>> **u/Amonwilde** [+18]  (an hour later)
 >> 
 >> Yes, I think the prevalence of sci-fi and fantasy here is likely due to highly correlated inclinations based on personality. People who like rational fiction also just really like fantasy and sci-fi, and are probably also disproportionately programmers, engineers, and scientists. This kind of correlation matters even if it doesn't apply for you, as if you want to write for this community it would make sense to take into account the preferences of others. People here, whatever they are (INTJs? high in trait openness?) seem highly tolerant of counterfactuals and don't care that much about the loss of cachet that comes with writing sci-fi and fantasy genre fiction, though that stigma has lessened a lot over the past decade anyway. So there's a further explanation for  a lack of fiction set in a realistic setting here.
->> Origin of Species is very slice of life, and the level of scope you address could be managed in a purely contemporary setting. You also seem more interested in organizational dynamics and coordination. So you're sort of the exception for this thread...
 >> 
+>> Origin of Species is very slice of life, and the level of scope you address could be managed in a purely contemporary setting. You also seem more interested in organizational dynamics and coordination. So you're sort of the exception for this thread...
 
->>> **u/DaystarEld** [+11]  *Pokémon Professor**
+>>> **u/DaystarEld** [+10]  *Pokémon Professor* (2 hours later)
 >>> 
 >>> Oh, it's also worth mentioning Set in Stone. The overall context of the story is Sci-Fi, but the setting and challenges are scaled down to not be. A similar sort of thing can be done for people who enjoy the "what-if"ness of speculative fiction but don't want to include any magic or sci-fi technology as problem solving levers.
->>> 
 
->>>> **u/cysghost** [+1]  *Chaos Legion**
+>>>> **u/cysghost** [+1]  *Chaos Legion* (18 hours later)
 >>>> 
 >>>> Who wrote set in stone?
->>>> 
 
->>>>> **u/cae_jones** [+2] *
+>>>>> **u/cae_jones** [+2]  (a day later)
 >>>>> 
 >>>>> Was it u/farmerbob?
->>>>> 
 
->>>>>> **u/cysghost** [+1]  *Chaos Legion**
+>>>>>> **u/cysghost** [+1]  *Chaos Legion* (a day later)
 >>>>>> 
 >>>>>> I’ve read Symbiote by him, will look and see if he wrote that too.
->>>>>> 
 
->> **u/Ms_CIA** [+14]  *Derp**
+>> **u/Ms_CIA** [+13]  *Derp* (3 hours later)
 >> 
 >> Ha ha, I want to write a response to this but I kind of already did. :) Sorry if anything's repeated.
->> Writing a character centered story does not mean "how could this have been done better?" but "how can I relate their story faithfully?" Humans are messy and never as rational as a computer system. We have to explore them in their own environment in order to understand them. (And yes, to consider how to avoid their mistakes.)
->> Take Elon Musk for example. He's probably as rational of a subject as you're going to find. He still has crippling issues with his personal life because of a lack of empathy and narcissistic tendencies. If you took those out of him he wouldn't be Elon, he'd be a computer with Elon's face on it. He'll need probably some kind of therapy to be a normal functioning human, not more rationality. But writing a character like Elon might help you understand his perspective or be a wake up call to someone with those flaws.
->> I agree with the idea of keeping the scope of a story small. Not every problem a character faces must have world ending consequences if they fail. It simply must be world ending for the character. They have to have stakes in it that motivate them to act.
->> If you ever do write a romantic slice-of-life rational fiction, I'd recommend those two guidelines. 1) Focus on exploration, not optimization 2) keep the problem local but meaningful to the main character
 >> 
+>> Writing a character centered story does not mean "how could this have been done better?" but "how can I relate their story faithfully?" Humans are messy and never as rational as a computer system. We have to explore them in their own environment in order to understand them. (And yes, to consider how to avoid their mistakes.)
+>> 
+>> Take Elon Musk for example. He's probably as rational of a subject as you're going to find. He still has crippling issues with his personal life because of a lack of empathy and narcissistic tendencies. If you took those out of him he wouldn't be Elon, he'd be a computer with Elon's face on it. He'll need probably some kind of therapy to be a normal functioning human, not more rationality. But writing a character like Elon might help you understand his perspective or be a wake up call to someone with those flaws.
+>> 
+>> I agree with the idea of keeping the scope of a story small. Not every problem a character faces must have world ending consequences if they fail. It simply must be world ending for the character. They have to have stakes in it that motivate them to act.
+>> 
+>> If you ever do write a romantic slice-of-life rational fiction, I'd recommend those two guidelines. 1) Focus on exploration, not optimization 2) keep the problem local but meaningful to the main character
 
->>> **u/DaystarEld** [+11]  *Pokémon Professor**
+>>> **u/DaystarEld** [+10]  *Pokémon Professor* (3 hours later)
 >>> 
 >>> I actually already write romantic slice-of-life, and while it's not as "rational" as it could be because I co-write it and my co-writer isn't a fan of the genre, to me optimization and exploration are two sides of the same coin for a rational protagonist.  To explore the character and their circumstances but NOT seek to optimize their outcomes is just uninteresting, to me. Stories with characters that don't change for the better after enough opportunities... I just stop caring about them.
->>> To me it doesn't really make sense to call Elon "as rational of a subject as you're going to find," because rationality means a lot more to me than an always optimal computer (and even if it did mean that, Elon is clearly not). For example, a rational Elon doesn't mean he never makes mistakes, but it does mean he recognizes his mistakes and makes real, non-trivial effort not to repeat them. He might fail a few times before he succeeds, but the failure modes shouldn't repeat too often. 
->>> Rational behavior doesn't just require intelligence and agency; it also requires humility, a value of truthful beliefs, a goal of self-improvement, etc. The character and story is only *interesting* to me if I see them learn; if they just act perfectly all the time from the very start, they're just a Mary Sue.
 >>> 
+>>> To me it doesn't really make sense to call Elon "as rational of a subject as you're going to find," because rationality means a lot more to me than an always optimal computer (and even if it did mean that, Elon is clearly not). For example, a rational Elon doesn't mean he never makes mistakes, but it does mean he recognizes his mistakes and makes real, non-trivial effort not to repeat them. He might fail a few times before he succeeds, but the failure modes shouldn't repeat too often. 
+>>> 
+>>> Rational behavior doesn't just require intelligence and agency; it also requires humility, a value of truthful beliefs, a goal of self-improvement, etc. The character and story is only *interesting* to me if I see them learn; if they just act perfectly all the time from the very start, they're just a Mary Sue.
 
->>>> **u/Ms_CIA** [+10]  *Derp**
+>>>> **u/Ms_CIA** [+11]  *Derp* (3 hours later)
 >>>> 
 >>>> > To explore the character and their circumstances but NOT seek to optimize their outcomes is just uninteresting, to me. Stories with characters that don't change for the better after enough opportunities... I just stop caring about them.
->>>> I think I'm sort of the same way in my own writing, to a point. I usually try to find ways for my protagonists to learn and grow, so they aren't making the same mistakes over and over. I do like a happy ending, even if it's bittersweet.
->>>> However, there does need to be something said for the fact that change isn't easy. It's not as simple as saying "This isn't rational, let me try something else" and then immediately making the change and sticking with it. People can also work really hard to change and only make partial progress. (Not saying your characters are like this, just saying I've seen some writers fail to take this into account.)
->>>> Growth doesn't always seem to be linear, either. Sometimes we grow, sometimes we fall back. People can change in ways we don't expect. I like to write this process as faithfully as I can because I find it interesting, and I feel like it makes for great fiction. Other writers might prefer to put their characters on a self-improvement trajectory and not worry too much about exploring the moments.
->>>> What I love to see in slice of life stories is people helping each other, because in the end nobody lives in a vacuum. Self-improvement is often a collaborative effort. Plus it's heartwarming and sweet to see broken people find healing in each other. :) I suppose it's not exactly rational, but it's beautiful.
->>>> I like that you mentioned humility, since that's a big part of what it takes to be a well-adjusted person. So I suppose I might have misinterpreted your version of "rational character." It's not just about rational intelligence, but maybe right thinking?
->>>> By the way, I don't think I've ever read your slice of life stories. Are they posted anywhere on the sub? I'd be curious to take a look if you want to share.
 >>>> 
+>>>> I think I'm sort of the same way in my own writing, to a point. I usually try to find ways for my protagonists to learn and grow, so they aren't making the same mistakes over and over. I do like a happy ending, even if it's bittersweet.
+>>>> 
+>>>> However, there does need to be something said for the fact that change isn't easy. It's not as simple as saying "This isn't rational, let me try something else" and then immediately making the change and sticking with it. People can also work really hard to change and only make partial progress. (Not saying your characters are like this, just saying I've seen some writers fail to take this into account.)
+>>>> 
+>>>> Growth doesn't always seem to be linear, either. Sometimes we grow, sometimes we fall back. People can change in ways we don't expect. I like to write this process as faithfully as I can because I find it interesting, and I feel like it makes for great fiction. Other writers might prefer to put their characters on a self-improvement trajectory and not worry too much about exploring the moments.
+>>>> 
+>>>> What I love to see in slice of life stories is people helping each other, because in the end nobody lives in a vacuum. Self-improvement is often a collaborative effort. Plus it's heartwarming and sweet to see broken people find healing in each other. :) I suppose it's not exactly rational, but it's beautiful.
+>>>> 
+>>>> I like that you mentioned humility, since that's a big part of what it takes to be a well-adjusted person. So I suppose I might have misinterpreted your version of "rational character." It's not just about rational intelligence, but maybe right thinking?
+>>>> 
+>>>> By the way, I don't think I've ever read your slice of life stories. Are they posted anywhere on the sub? I'd be curious to take a look if you want to share.
 
->>>>> **u/DaystarEld** [+5]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+6]  *Pokémon Professor* (5 hours later)
 >>>>> 
 >>>>> >However, there does need to be something said for the fact that change isn't easy.
->>>>> Well sure, but that's just a matter of writing conflict well :) Especially in a slice-of-life story, where the conflict is entirely born of personal or interpersonal difficulties. If the path from conflict to resolution is too straight then it hardly feels more real than someone who succeeds at everything right away.
->>>>> It does come down to taste at some level, though. On one end you have people who enjoy stories that are essentially just full of feel-good fluff, on the other end you have people who enjoy stories about people failing and suffering constantly. On another axis you have people who enjoy a constant upward trajectory, the opposite extreme of which are people who enjoy stories that will spend 50 chapters just exploring the trials and tribulations of alcoholism without any real growth or progress.
->>>>> Personally I'm not a fan of any of the extremes, but I do find myself more on the end of "growth and change are more interesting," so I only have so much patience for a character that spends 3 books or 1000 comic pages or a dozen serial arcs struggling with the exact same problem. 
->>>>> >What I love to see in slice of life stories is people helping each other, because in the end nobody lives in a vacuum. Self-improvement is often a collaborative effort. Plus it's heartwarming and sweet to see broken people find healing in each other. :) I suppose it's not exactly rational, but it's beautiful.
->>>>> Yeah, I definitely agree that characters helping each other grow is great. More than great, it is in fact realistic :P I'm a therapist after all, if I didn't believe people could help each other improve I'd find a different job. That said, I guess it depends on what you mean by "broken people."
->>>>> >By the way, I don't think I've ever read your slice of life stories. Are they posted anywhere on the sub? I'd be curious to take a look if you want to share.
->>>>> They are not, basically they're a set of 7-8 novels that I've been cowriting with a close friend since high school :) She's pretty private about her writing, so while someday maybe we'd try to publish them so far we've kept them basically just between us.
 >>>>> 
+>>>>> Well sure, but that's just a matter of writing conflict well :) Especially in a slice-of-life story, where the conflict is entirely born of personal or interpersonal difficulties. If the path from conflict to resolution is too straight then it hardly feels more real than someone who succeeds at everything right away.
+>>>>> 
+>>>>> It does come down to taste at some level, though. On one end you have people who enjoy stories that are essentially just full of feel-good fluff, on the other end you have people who enjoy stories about people failing and suffering constantly. On another axis you have people who enjoy a constant upward trajectory, the opposite extreme of which are people who enjoy stories that will spend 50 chapters just exploring the trials and tribulations of alcoholism without any real growth or progress.
+>>>>> 
+>>>>> Personally I'm not a fan of any of the extremes, but I do find myself more on the end of "growth and change are more interesting," so I only have so much patience for a character that spends 3 books or 1000 comic pages or a dozen serial arcs struggling with the exact same problem. 
+>>>>> 
+>>>>> >What I love to see in slice of life stories is people helping each other, because in the end nobody lives in a vacuum. Self-improvement is often a collaborative effort. Plus it's heartwarming and sweet to see broken people find healing in each other. :) I suppose it's not exactly rational, but it's beautiful.
+>>>>> 
+>>>>> Yeah, I definitely agree that characters helping each other grow is great. More than great, it is in fact realistic :P I'm a therapist after all, if I didn't believe people could help each other improve I'd find a different job. That said, I guess it depends on what you mean by "broken people."
+>>>>> 
+>>>>> >By the way, I don't think I've ever read your slice of life stories. Are they posted anywhere on the sub? I'd be curious to take a look if you want to share.
+>>>>> 
+>>>>> They are not, basically they're a set of 7-8 novels that I've been cowriting with a close friend since high school :) She's pretty private about her writing, so while someday maybe we'd try to publish them so far we've kept them basically just between us.
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+6]  (4 hours later)
 >>>> 
 >>>> The difference between our ability to recognize rationality in Elon and our ability to recognize rationality in others might be one of publicity collecting around conditioned social bias towards the definition of success.
->>>> If you define success as "looks up to see the stars every night, lives a minimal ecological.impact life, eats good home cooked barbecue, has a close family they love, and plenty of free time while still doing something meaningful" then a bartender in Arizona or Uluru might be more successful than Elon.
 >>>> 
+>>>> If you define success as "looks up to see the stars every night, lives a minimal ecological.impact life, eats good home cooked barbecue, has a close family they love, and plenty of free time while still doing something meaningful" then a bartender in Arizona or Uluru might be more successful than Elon.
 
->>>>> **u/DaystarEld** [+4]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+5]  *Pokémon Professor* (5 hours later)
 >>>>> 
 >>>>> True, though I'm specifically thinking of rationality as optimizing-toward-goals, not judging what goals are "rational" vs not. Success as an end-state is subjective, but success at attaining an end-state is not.
->>>>> 
 
->>>> **u/ironistkraken** [+1] *
+>>>> **u/ironistkraken** [+1]  (6 hours later)
 >>>> 
 >>>> Is the slice of life romance available online?
->>>> 
 
->>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (6 hours later)
 >>>>> 
 >>>>> They are not, basically they're a set of 7-8 novels that I've been cowriting with a close friend since high school :) She's pretty private about her writing, so while someday maybe we'd try to publish them so far we've kept them basically just between us.
->>>>> 
 
->>>>>> **u/ironistkraken** [+1] *
+>>>>>> **u/ironistkraken** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> Thats cool.
->>>>>> 
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (2 days later)
 >>> 
 >>> just a thought, rational courtroom fic could work as well. TO make it more relatable, write the fic from the perspective of an average guy, not a lawyer.  
-
->>> Example: a guy is going through a rough divorce, in which his soon-to-be ex wife is likely to take away the kids, the money and the house. Typical slice of life story, right? Now imagine the guy is also an optimisation-obsessed, paranoid rationalist (a person likely to be divorced...) who comes to the legal battle prepared.
 >>> 
+>>> Example: a guy is going through a rough divorce, in which his soon-to-be ex wife is likely to take away the kids, the money and the house. Typical slice of life story, right? Now imagine the guy is also an optimisation-obsessed, paranoid rationalist (a person likely to be divorced...) who comes to the legal battle prepared.
 
-> **u/Heterozizekual** [+22] *
+> **u/Heterozizekual** [+22]  (2 hours later)
 > 
 > It’s an unfortunate second artist effect that a huge proportion of “rational” fiction consists of fanfic about children’s entertainment franchises. 
-> This is largely down to mindless imitation of HPMOR, but it’s also because it’s much easier to write about smart, “rational” characters in a dumb fantasy setting aimed at kids. 
-> If you want to write a rational character living in the real world, you need to do a lot of research and have some life experience, which raises the bar to entry a lot. 
-> In the real world, you can be perfectly rational, and even really really good at programming, but it doesn’t mean you’re going to invent a whole new programming paradigm. In the real world you are probably spending most of your time working around issues with current tools because that’s what you’re paid to do. Even if you invent a whole new paradigm in your spare time, you may not have the social capital to get other people to buy into it. Say you do a PhD exploring and describing the new paradigm - best case scenario is that it’s ignored for 20 years and then someone commercialises it without involving you or crediting you at all. 
-> This doesn’t mean that rational fiction set in the real world isn’t possible, it’s just that simplistic wish-fulfilment tropes about exponential growth are hard to make plausible in the real world. The microgenre discussed on this sub is a tiny and stunted offshoot of what truly rational would be like
 > 
+> This is largely down to mindless imitation of HPMOR, but it’s also because it’s much easier to write about smart, “rational” characters in a dumb fantasy setting aimed at kids. 
+> 
+> If you want to write a rational character living in the real world, you need to do a lot of research and have some life experience, which raises the bar to entry a lot. 
+> 
+> In the real world, you can be perfectly rational, and even really really good at programming, but it doesn’t mean you’re going to invent a whole new programming paradigm. In the real world you are probably spending most of your time working around issues with current tools because that’s what you’re paid to do. Even if you invent a whole new paradigm in your spare time, you may not have the social capital to get other people to buy into it. Say you do a PhD exploring and describing the new paradigm - best case scenario is that it’s ignored for 20 years and then someone commercialises it without involving you or crediting you at all. 
+> 
+> This doesn’t mean that rational fiction set in the real world isn’t possible, it’s just that simplistic wish-fulfilment tropes about exponential growth are hard to make plausible in the real world. The microgenre discussed on this sub is a tiny and stunted offshoot of what truly rational would be like
 
->> **u/MoMoeMoais** [+21] *
+>> **u/MoMoeMoais** [+21]  (2 hours later)
 >> 
 >> >mindless imitation of HPMOR
->> I disagree with this part; more adult versions of the things we enjoyed as kids have been around forever (see: Sonic the Hedgehog OCs, the more serious Power Ranger comics and fanvideos, anything that darkly satirizes childrens' shows like Don't Hug Me I'm Scared or Happy Tree Friends) and are, I think, a natural byproduct of nostalgia, hindsight, and everybody becoming writers. Making more rational versions of those stories is just another way of "aging them up."
->> That said, I completely agree with the rest of your point. In real life, a perfectly rational human being--even a very gifted one--can still be screwed over or restrained entirely by the whims of fate and the nature of society. You could invent a cure for cancer, but you still have to get it past the FDA and the pharmaceutical industry. You could solve world hunger, but you know someone with authority and capital isn't going to make it easy to implement. Most wish fulfillment stories (if not all of them) are about making major changes, and the world as we know it by and large does not like change. People in control like to stay in control, and sometimes that means squashing rational, capable threats to the status quo.
 >> 
+>> I disagree with this part; more adult versions of the things we enjoyed as kids have been around forever (see: Sonic the Hedgehog OCs, the more serious Power Ranger comics and fanvideos, anything that darkly satirizes childrens' shows like Don't Hug Me I'm Scared or Happy Tree Friends) and are, I think, a natural byproduct of nostalgia, hindsight, and everybody becoming writers. Making more rational versions of those stories is just another way of "aging them up."
+>> 
+>> That said, I completely agree with the rest of your point. In real life, a perfectly rational human being--even a very gifted one--can still be screwed over or restrained entirely by the whims of fate and the nature of society. You could invent a cure for cancer, but you still have to get it past the FDA and the pharmaceutical industry. You could solve world hunger, but you know someone with authority and capital isn't going to make it easy to implement. Most wish fulfillment stories (if not all of them) are about making major changes, and the world as we know it by and large does not like change. People in control like to stay in control, and sometimes that means squashing rational, capable threats to the status quo.
 
->>> **u/RMcD94** [+5] *
+>>> **u/RMcD94** [+5]  (14 hours later)
 >>> 
 >>> >People in control like to stay in control, and sometimes that means squashing rational, capable threats to the status quo.
->>> By saying people I think you do a disservice. A tendency to stay in control is naturally promoted versus a tendency to lose control or be overthrown. It's a systemic issue that the structure that maintains itself will rise above the structure that replaces itself. It's not like there is an evil cabal running the FDA or avoiding solution to world hunger because they want to stay on top. It's because all of the actions of millions of people contribute collectively to that kind of situation.
->>> Though for sure there are some rich people who like classism and poverty existing.
 >>> 
+>>> By saying people I think you do a disservice. A tendency to stay in control is naturally promoted versus a tendency to lose control or be overthrown. It's a systemic issue that the structure that maintains itself will rise above the structure that replaces itself. It's not like there is an evil cabal running the FDA or avoiding solution to world hunger because they want to stay on top. It's because all of the actions of millions of people contribute collectively to that kind of situation.
+>>> 
+>>> Though for sure there are some rich people who like classism and poverty existing.
 
->> **u/Geminii27** [+5] *
+>> **u/Geminii27** [+6]  (8 hours later)
 >> 
 >> > In the real world you are probably spending most of your time working around issues with current tools because that’s what you’re paid to do.
->> Not to mention spending most of your non-work time on all the things that suck up hours day to day. Commuting. Maintaining all the things you own. Interpersonal relationships.
->> Someone who wants to actually achieve something either needs to have the bills paid with no day job, or be able to do their normal job AND the thing they want to achieve at the same time, or be the kind of person who robotically squeezes every minute from every day (and never has any setbacks like getting sick or injured or having something damaged or getting into family arguments or finding out they researched the wrong thing or a million other things). Or have some kind of setting hack which literally gives them more time (the time-turners in HPMOR qualify, as do things like Apparition to cut travel time and magic in general to get some complex thing achieved in minutes instead of years).
 >> 
+>> Not to mention spending most of your non-work time on all the things that suck up hours day to day. Commuting. Maintaining all the things you own. Interpersonal relationships.
+>> 
+>> Someone who wants to actually achieve something either needs to have the bills paid with no day job, or be able to do their normal job AND the thing they want to achieve at the same time, or be the kind of person who robotically squeezes every minute from every day (and never has any setbacks like getting sick or injured or having something damaged or getting into family arguments or finding out they researched the wrong thing or a million other things). Or have some kind of setting hack which literally gives them more time (the time-turners in HPMOR qualify, as do things like Apparition to cut travel time and magic in general to get some complex thing achieved in minutes instead of years).
 
->> **u/Freevoulous** [+2] *
+>> **u/Freevoulous** [+2]  (2 days later)
 >> 
 >> I could not agree more. Im saddened for all the potential wasted when amateur rationalists write fanfic rather than original fiction from scratch, on the mistaken idea that it would be easier.  
-
->> WIth the possible exceptions of HPMOR and ABSoW, which are written by experienced professionals, the rest of the rational fanfics fall far below ration OC, in writing quality and rationality, due to the constraints of the original medium.
 >> 
+>> WIth the possible exceptions of HPMOR and ABSoW, which are written by experienced professionals, the rest of the rational fanfics fall far below ration OC, in writing quality and rationality, due to the constraints of the original medium.
 
->>> **u/cysghost** [+3]  *Chaos Legion**
+>>> **u/cysghost** [+3]  *Chaos Legion* (2 days later)
 >>> 
 >>> > ABSoW
->>> Which one was that? I'm having trouble placing it.
 >>> 
+>>> Which one was that? I'm having trouble placing it.
 
->>>> **u/Freevoulous** [+3] *
+>>>> **u/Freevoulous** [+3]  (3 days later)
 >>>> 
 >>>> A Bluer Shade of White. Frozen fanfic (transhumanism, singularity, exponential optimisation)
->>>> 
 
->>>>> **u/cysghost** [+1]  *Chaos Legion**
+>>>>> **u/cysghost** [+1]  *Chaos Legion* (3 days later)
 >>>>> 
 >>>>> Thank you! Will look it up. Was that Alexander Wales (of the guy who did Metroplian Man, Branches in Time and all that) fame?
->>>>> 
 
->>>>>> **u/Freevoulous** [+2] *
+>>>>>> **u/Freevoulous** [+2]  (3 days later)
 >>>>>> 
 >>>>>> yeah, exactly.
->>>>>> 
 
-> **u/OmeletteGenerator** [+10] *
+> **u/OmeletteGenerator** [+11]  (17 hours later)
 > 
 > I think that the main problem with writing something realistic in a current-day context is that whatever impressive things the MC can think of, the author has to think those things beforehand. Most stories get out of this conundrum with "this one weird new tech", but I see another workaround: hindsight.
-> Have your story set, say, 50 years in the past. The MC isn't a time traveler, but just someone "ahead of their time". Many choices taken in the past were, in retrospect, mistakes and/or non-optimal. Well, the MC figures this out before everybody else.
 > 
+> Have your story set, say, 50 years in the past. The MC isn't a time traveler, but just someone "ahead of their time". Many choices taken in the past were, in retrospect, mistakes and/or non-optimal. Well, the MC figures this out before everybody else.
 
->> **u/Freevoulous** [+5] *
+>> **u/Freevoulous** [+6]  (2 days later)
 >> 
 >> 19th century inventors and early capitalists would be great protagonists for such a story.
->> 
 
-> **u/Ms_CIA** [+8]  *Derp**
+> **u/Ms_CIA** [+7]  *Derp* (2 hours later)
 > 
 > This post is pretty great, and gave me some stuff to think about. I wanted to add one more thing. Rational characters don't have to optimize, they can simply explore.
-> The first section of this essay was about a character having a problem, finding a tool to solve it, and then deciding how to maximize the use of this tool. The issue is that in real life there's a lot of other factors to consider besides one tool, so radical optimization isn't always possible.
-> But is that really necessary?
-> I find that when I'm writing about characters, my thought process isn't "how can I make them the best version of themselves?" but more like "how can I relate this character's experiences in a faithful and compelling way?" It's fascinating and \*interesting\* to write a character having a breakdown, or struggling with feelings of inadequacy in their job, or trying to find a lost relative. Even if the story is fiction, these things are real and need to be explored so they can be understood.
-> I wonder if writing about rational characters doesn't need to necessarily be about solving a serious problem. It can be simply exploring science, magic, crime, or real life dilemmas. How would the rational character deal with this problem, and how would it affect society? How would it affect the character? What can we learn from that?
-> The book The Martian is trying to solve a problem, but it is also in love with the science of space exploration. You can tell the author just loves describing all the technology and what it does, how carefully he's considered what the people on Earth would react to the problem. The joy is infectious and carries you through the story, even if you aren't a space geek. It faithfully explores the scenario of being lost at space, and you learn a little something along the way too.
-> Just my two cents on the topic. I wouldn't read a story that tried to use rationality to optimize a real-life scenario, because it rings false to me. To explore, though? Definitely.
 > 
+> The first section of this essay was about a character having a problem, finding a tool to solve it, and then deciding how to maximize the use of this tool. The issue is that in real life there's a lot of other factors to consider besides one tool, so radical optimization isn't always possible.
+> 
+> But is that really necessary?
+> 
+> I find that when I'm writing about characters, my thought process isn't "how can I make them the best version of themselves?" but more like "how can I relate this character's experiences in a faithful and compelling way?" It's fascinating and \*interesting\* to write a character having a breakdown, or struggling with feelings of inadequacy in their job, or trying to find a lost relative. Even if the story is fiction, these things are real and need to be explored so they can be understood.
+> 
+> I wonder if writing about rational characters doesn't need to necessarily be about solving a serious problem. It can be simply exploring science, magic, crime, or real life dilemmas. How would the rational character deal with this problem, and how would it affect society? How would it affect the character? What can we learn from that?
+> 
+> The book The Martian is trying to solve a problem, but it is also in love with the science of space exploration. You can tell the author just loves describing all the technology and what it does, how carefully he's considered what the people on Earth would react to the problem. The joy is infectious and carries you through the story, even if you aren't a space geek. It faithfully explores the scenario of being lost at space, and you learn a little something along the way too.
+> 
+> Just my two cents on the topic. I wouldn't read a story that tried to use rationality to optimize a real-life scenario, because it rings false to me. To explore, though? Definitely.
 
-> **u/Bowbreaker** [+9]  *Solitary Locust**
+> **u/Bowbreaker** [+7]  *Solitary Locust* (4 hours later)
 > 
 > I think that there is quite a bit of space for rational stories in historic fiction and crime stories (about committing crime, not solving it). But I specifically mean rational, not rational*ist*. So just stories where smart people do coherent things to further their goals, encounter problems that don't come out of nowhere, and live with the consequences of their actions.
-> 
 
-> **u/RMcD94** [+5] *
+> **u/RMcD94** [+5]  (14 hours later)
 > 
 > I think this community should consider time travel/history as a more "realistic" setting that can still have a single or small group of characters enact major changes. 
-> You do need to frame a goal otherwise I think the story would be side tracked, but something like 5 people are given a week to prepare to be sent to Tenochtitlan in 1492 with the goal to save the Aztec Empire, or to London in 1750 and told to bring about a one world government.
 > 
+> You do need to frame a goal otherwise I think the story would be side tracked, but something like 5 people are given a week to prepare to be sent to Tenochtitlan in 1492 with the goal to save the Aztec Empire, or to London in 1750 and told to bring about a one world government.
 
->> **u/ironistkraken** [+1] *
+>> **u/ironistkraken** [+1]  (19 hours later)
 >> 
 >> The problem with that is whatever you write would be torn apart by others for being unrealistic.
->> 
 
->>> **u/RMcD94** [+3] *
+>>> **u/RMcD94** [+3]  (20 hours later)
 >>> 
 >>> The number of people who know enough about the history to find it unrealistic will be small, and those that do can help you improve your story. 
->>> If you look at AlternateHistory.com I would say very few people go angrily commenting in timelines about a lack of realism. 
->>> You have stories from an alchemist becoming King of Corsica, a neonazi waking up as Hitler, an anti-Nazi waking up as Hitler, London sent back to 1700s, the Roman Empire not falling, the complications a single loose nut can cause, etc. And unlike many stories that rationalists dislike they are often sociological and not psychological.
 >>> 
+>>> If you look at AlternateHistory.com I would say very few people go angrily commenting in timelines about a lack of realism. 
+>>> 
+>>> You have stories from an alchemist becoming King of Corsica, a neonazi waking up as Hitler, an anti-Nazi waking up as Hitler, London sent back to 1700s, the Roman Empire not falling, the complications a single loose nut can cause, etc. And unlike many stories that rationalists dislike they are often sociological and not psychological.
 
->>> **u/Darth_Sensitive** [+3] *
+>>> **u/Darth_Sensitive** [+3]  (a day later)
 >>> 
 >>> Hey, it's totally normal that my West Virginia mining town has all of these awesome resources, thank you very much.
->>> <3 1632
 >>> 
+>>> <3 1632
 
->>>> **u/ironistkraken** [+3] *
+>>>> **u/ironistkraken** [+3]  (2 days later)
 >>>> 
 >>>> I read like 7 of those books.  What killed it was the pace.  I wish people just wrote history books for alternate histories.  The close up views on people takes the history part out of it and makes it uninteresting.
->>>> 
 
->>>>> **u/Darth_Sensitive** [+2] *
+>>>>> **u/Darth_Sensitive** [+2]  (2 days later)
 >>>>> 
 >>>>> I like my union leaders, DnD nerds, and peppy cheerleaders, thank you very much.
->>>>> 
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (2 days later)
 >>> 
 >>> there are remedies to that;  
-
->>> \- copious amounts of research  
-
->>> \- going far back enough in time so that the knowledge of the period is more spotty  
-
->>> \- replace exponential optimisation with a butterfly effect (focus on huge changes brought by a small act, rather than exponential improvement from big effort).
 >>> 
+>>> \- copious amounts of research  
+>>> 
+>>> \- going far back enough in time so that the knowledge of the period is more spotty  
+>>> 
+>>> \- replace exponential optimisation with a butterfly effect (focus on huge changes brought by a small act, rather than exponential improvement from big effort).
 
-> **u/Nine-LifedEnchanter** [+3] *
+> **u/Nine-LifedEnchanter** [+5]  (17 hours later)
 > 
 > I'd definitely read a rational survival story about someone stranded in the woods, kinda like hatchet but with rationalist aspects to it.
-> 
 
->> **u/Ms_CIA** [+2]  *Derp**
+>> **u/Ms_CIA** [+2]  *Derp* (18 hours later)
 >> 
 >> I want to see someone write this. I bet there's somebody on this subreddit with enough experience outdoors to write it plausibly. xD
->> 
 
->>> **u/Nine-LifedEnchanter** [+1] *
+>>> **u/Nine-LifedEnchanter** [+1]  (18 hours later)
 >>> 
 >>> I think I am, but I'm tied up in another writing project for this subreddit alongside some sudden life issues that sprang up. Hopefully someone else could take the mantle for this.
->>> 
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (2 days later)
 >>> 
 >>> Im in the middle of writing one, and boy, aint that difficult ;)
->>> The main issue is, the more research and knowledge I cram in, the more narrow is the point of balance between "the protagonist will definitely not survive" and "the protagonist becomes a Primitive Technology God".
->>> Survival techniques and the primitive tech behind them are very ON/OFF. You either get things wrong and die, or you get them so right it removes a problem permanently from the writer's repertoire.
 >>> 
+>>> The main issue is, the more research and knowledge I cram in, the more narrow is the point of balance between "the protagonist will definitely not survive" and "the protagonist becomes a Primitive Technology God".
+>>> 
+>>> Survival techniques and the primitive tech behind them are very ON/OFF. You either get things wrong and die, or you get them so right it removes a problem permanently from the writer's repertoire.
 
->> **u/Freevoulous** [+2] *
+>> **u/Freevoulous** [+2]  (2 days later)
 >> 
 >> Im in the middle of writing one, and boy, aint that difficult ;)  
-
->> The main issue is, the more research and knowledge I cram in, the more narrow is the point of balance between "the protagonist will *definitely* not survive" and "the protagonist becomes a Primitive Technology God".  
-
->> Survival techniques and the primitive tech behind them are very ON/OFF. You either get things wrong and die, or you get them so right it removes a problem permanently from the writer's repertoire.
 >> 
+>> The main issue is, the more research and knowledge I cram in, the more narrow is the point of balance between "the protagonist will *definitely* not survive" and "the protagonist becomes a Primitive Technology God".  
+>> 
+>> Survival techniques and the primitive tech behind them are very ON/OFF. You either get things wrong and die, or you get them so right it removes a problem permanently from the writer's repertoire.
 
->>> **u/Nine-LifedEnchanter** [+1] *
+>>> **u/Nine-LifedEnchanter** [+1]  (2 days later)
 >>> 
 >>> I discussed this with a friend after this post and we had the same thought. If you have fixed drinking water it usually stays fixed unless there is a very dramatic event changing that and so on. It all depends on the scope of the survival as well. Are they aiming to survive two nights or indefinitely? They could take a number from primitive technology on youtube and just build ovens and such if they were trying to survive indefinitely..  if they had the energy and time to conserve for it.
->>> 
 
->>>> **u/Freevoulous** [+3] *
+>>>> **u/Freevoulous** [+3]  (2 days later)
 >>>> 
 >>>> I researched hundreds of sruvival and wilderness death cases, and there seem to be a common theme: you cannot half-ass survival, not for longer than a week or two at best.
->>>> Most people who were lost in wilderness and were found dead did not die from something sudden and dramatic like an animal attack, acute poisoning or fall, but rather from all kinds of problems piling up. They made great effort to save themselves, and utilised the best knowledge they had, and it was not enough. Days upon days of (almost) getting enough water. Managing to create fire only every once in a while. Weeks of (almost) enough food. Nearly good enough shelter, that almost protects from exposure. Thousands of tiny scrapes, bruises and insect bites that seem innocuous, but never heal properly. Repeated cases of mild diarrhoea from contaminated water and improper food.
->>>> Because of that, a longer rationalist survival story would either require the protagonist to be a Prim-Tech Mary Sue, or extremely lucky, or (the route I took) a lucky combination of protagonists each of whom have some kind of useful skill, but each one of them would be dead without the others.
 >>>> 
+>>>> Most people who were lost in wilderness and were found dead did not die from something sudden and dramatic like an animal attack, acute poisoning or fall, but rather from all kinds of problems piling up. They made great effort to save themselves, and utilised the best knowledge they had, and it was not enough. Days upon days of (almost) getting enough water. Managing to create fire only every once in a while. Weeks of (almost) enough food. Nearly good enough shelter, that almost protects from exposure. Thousands of tiny scrapes, bruises and insect bites that seem innocuous, but never heal properly. Repeated cases of mild diarrhoea from contaminated water and improper food.
+>>>> 
+>>>> Because of that, a longer rationalist survival story would either require the protagonist to be a Prim-Tech Mary Sue, or extremely lucky, or (the route I took) a lucky combination of protagonists each of whom have some kind of useful skill, but each one of them would be dead without the others.
 
->>>>> **u/Nine-LifedEnchanter** [+3] *
+>>>>> **u/Nine-LifedEnchanter** [+3]  (2 days later)
 >>>>> 
 >>>>> That is actually a great solution. Having several people makes obtaining food more difficult (I assume), but things like water would probably be easier. I like the solution a lot! I hope to read it when it's done!
->>>>> 
 
-> **u/Makin-** [+3]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+3]  *homestuck ratfic, you can do it* (2 hours later)
 > 
 > There's actually a story like the template you describe ([Micro Gates](https://storiesonline.net/s/17944/micro-gates)), starts with a single new technology. it also has the pitfalls you describe, sadly. It's a really, really dry read.
-> 
 
->> **u/Amonwilde** [+2] *
+>> **u/Amonwilde** [+2]  (22 hours later)
 >> 
 >> Took a look at that and, yep, dry as dust. Kind of funny how every story on that site has only names like Ted, Joe, Rick, and so on. They feel like they're set in 2017 and 1951 at the same time, somehow. The story is also very much Frodo with a lightsaber in search of a death star. If you're going to give someone an ability like that, Skynet better already have taken over and death drones be circling your bunker. Inventing perpetual motion, having a beer, then driving over to get a lawyer on retainer...I bet this person also plays games with all the cheats turned on.
->> 
 
-> **u/thecommexokid** [+3] *
+> **u/thecommexokid** [+3]  (9 hours later)
 > 
 > I don't think anything Alicorn did in \*Luminosity\* required vampires and werewolves; there is absolutely the potential there for a similar story on the Magical Power of Introspection set in the real world.
-> 
 
-> **u/daytodave** [+3]  *an altruistic conversion of calories to hedons**
+> **u/daytodave** [+3]  *an altruistic conversion of calories to hedons* (a day later)
 > 
 > > Everything changes when they find an amazing new way to do programming, a whole new programming paradigm. Let's call it Fringle Oriented Programming. Holy jumping algorithms, they can do certain kinds of computation 30% faster, and certain new thorny areas are now tractable.
 > >
 > > OK, now we've already hit our head on a major story problem. To anyone who knows programming, this is going to read as pretty stupid. Really, this protagonist of yours is smarter than Donald Knuth?
-> There's an easy way around this: set your story in a realistic world where Donald Knuth, Margaret Hamilton, Linus Torvalds, etc. never existed, and one or more of OOP, formal complexity analysis, software testing, open source or other CS breakthroughs just never happened. Then you get to indulge a bit of speculative writing about what life looks like in 2020 with modern hardware running drastically less efficient algorithms, and all the work of defining your main character(s')'s "superpower" is already done.
 > 
+> There's an easy way around this: set your story in a realistic world where Donald Knuth, Margaret Hamilton, Linus Torvalds, etc. never existed, and one or more of OOP, formal complexity analysis, software testing, open source or other CS breakthroughs just never happened. Then you get to indulge a bit of speculative writing about what life looks like in 2020 with modern hardware running drastically less efficient algorithms, and all the work of defining your main character(s')'s "superpower" is already done.
 
-> **u/NightmareWarden** [+6]  *Church of the Broken God**
+> **u/NightmareWarden** [+6]  *Church of the Broken God* (an hour later)
 > 
 > This is a good post. I think that sociology courses on entertainment, art and writing which delve into why people indulge in fiction would support or resolve some of the options you presented.     
+> 
 > "I want to identify with the characters." "I want to delve into an impossible fantasy world." "I want to make an impact on the whole world and read about the challenges along the way." "I want to read about dynamic, meaningful relationships between characters I know inside and out." 
 > Any one of these *can* be fulfilled in tandem with a Rational story. But you can't fulfill all of these at once in a realistic setting.     
+> 
 > On top of that fantasy, sci-fi, adventure, even as specific as Isekai... These genres and subgenres have a reputation for fulfilling some of the above desires, in specific combinations.  Thus people go searching for stories that reliably fulfill their desires.      
 > Here on this subreddit people have access to a wealth of Rational and Rationalist fics, so they'll look for stories that combo well with those.
-> 
 
-> **u/MultipartiteMind** [+2] *
+> **u/MultipartiteMind** [+2]  (7 hours later)
 > 
 > (Somewhat-skimmed thoughts:  Where rational(?) writing stands out is in the contrast between the fictional character-mind/s and the reader's familiarity with the fictional world.  Starting from default in-sync cases, one can have for instance modern people in modern settings, magical people in magical settings, science-fiction people in science-fiction settings.  One can get intriguing newness by altering the entire thing in unfamiliar interesting ways--'dark, gritty' versions of familiar campy stories, for instance.  (Superhero story remakes, or Madoka Magica/Sailor Nothing for magical girl stories...)  One can also have the 'big fish in a small pond' effect--a high-level mind in a low-level world with low-level side-characters, for instance either a familiar modern mind in a lower-level world or an advanced science-fiction mind in a modern world.  One can have a similar interest-from-contrast effect from power alone, such as a time traveller or magic-user in surroundings whether others cannot use the same abilities...  and I was actually going somewhere with this rambling, but am out of time and have to go.  Sorry.  >.<)
-> 
 
-> **u/You_cant_buy_spleen** [+2] *
+> **u/You_cant_buy_spleen** [+2]  (19 hours later)
 > 
 > Another factor is that we read for fun, and work and world politics have negative associations. A nerd power fantasy set comfortably far into the past or future is quite relaxing however.
-> 
 
-> **u/whosyourjay** [+1] *
+> **u/whosyourjay** [+1]  (a day later)
 > 
 > I started reading The Goal at the suggestion of this post and it is unironically great. I never thought optimizing workflows and enhancing productivity could be so satisfying as fiction.
-> 
 
->> **u/Amonwilde** [+2] *
+>> **u/Amonwilde** [+2]  (2 days later)
 >> 
 >> I enjoyed it as well. There's a tradition of pedagogical / utopian literature, where the point is to get across some abstract idea with literature as the vehicle, that I think would appeal to many on the sub. Maybe I'll make a rec post with a few items like this, though The Goal is a bit standout in being readable.
->> 
 
->>> **u/Mason-B** [+2] *
+>>> **u/Mason-B** [+2]  (2 days later)
 >>> 
 >>> I've seen this tradition in a lot of libertarian writings, a lot of it is often done badly (looking at you Ayn Rand). I think a lot of the more realistic ones are focused around real fields of study (for example the short stories on the gnu website, like [this one](https://www.gnu.org/philosophy/right-to-read.en.html)).
->>> Honestly this is a super interesting genre to me that I only ever see communicated well in art. I can't actually think of a textual story that portrays this well. A modern society, maybe with a few "sci-fi" technologies here and there (usually around renewable tech or things like routed physical infrastructure; like switched vacuum tube systems, more monorails and trains, and so on) that we could have today if we went slightly different directions.
->>> For examples of what I mean I would point to the background world building of (off the top of my head): Hilda, B the Beginning, Big hero 6. Each of which is a sort of representative example of common places to find this (e.g. anime and children animated movies; I would count Zootopia, Cloudy with a Chance of Meatballs 2, A Certain Scientific Railgun, as well for example). The Culture series actually kinda does this by cheating: very little of the story is actually set in The Culture properly, utopia is boring.
->>> I have no idea how to write that. What I really want to make is a game set in it so someone could explore it as a pedagogical utopian society as a system.
 >>> 
+>>> Honestly this is a super interesting genre to me that I only ever see communicated well in art. I can't actually think of a textual story that portrays this well. A modern society, maybe with a few "sci-fi" technologies here and there (usually around renewable tech or things like routed physical infrastructure; like switched vacuum tube systems, more monorails and trains, and so on) that we could have today if we went slightly different directions.
+>>> 
+>>> For examples of what I mean I would point to the background world building of (off the top of my head): Hilda, B the Beginning, Big hero 6. Each of which is a sort of representative example of common places to find this (e.g. anime and children animated movies; I would count Zootopia, Cloudy with a Chance of Meatballs 2, A Certain Scientific Railgun, as well for example). The Culture series actually kinda does this by cheating: very little of the story is actually set in The Culture properly, utopia is boring.
+>>> 
+>>> I have no idea how to write that. What I really want to make is a game set in it so someone could explore it as a pedagogical utopian society as a system.
 
->>>> **u/Freevoulous** [+1] *
+>>>> **u/Freevoulous** [+1]  (2 days later)
 >>>> 
 >>>> > lot of it is often done badly (looking at you Ayn Rand).
->>>> Unironically, I would LOVE a rationalist rewrite of Atlas Shrugged. The story itself is great, but Ayn could not write to save her life. Give the story to some top rational-fiction writer like Scott Alexander, and it could be a masterpiece.
 >>>> 
+>>>> Unironically, I would LOVE a rationalist rewrite of Atlas Shrugged. The story itself is great, but Ayn could not write to save her life. Give the story to some top rational-fiction writer like Scott Alexander, and it could be a masterpiece.
 
->>>>> **u/Mason-B** [+1] *
+>>>>> **u/Mason-B** [+1]  (3 days later)
 >>>>> 
 >>>>> The problem I see with that is that I don't think the story of the book would survive a rational take.
->>>>> To be clear we are venturing dangerously close to violating the spirit of the "politics is the mindkiller" rule.
->>>>> While I generally appreciate the libertarian utopian writings, and they make effective rhetoric, I generally find they lack certain structural understandings. And applying these structural forces to (and extra levels of thinking to a stochastic distribution of people throughout) the world of these books would often reverse the point they were making. And get you something closer to the real world.
->>>>> This issue is that I don't think that one could "show their work" with the rationalism and maintain the story. Because there is a difference between saying that someone is rational and demonstrating it (e.g. tell vs. show).
->>>>> That's my view on it at least.
 >>>>> 
+>>>>> To be clear we are venturing dangerously close to violating the spirit of the "politics is the mindkiller" rule.
+>>>>> 
+>>>>> While I generally appreciate the libertarian utopian writings, and they make effective rhetoric, I generally find they lack certain structural understandings. And applying these structural forces to (and extra levels of thinking to a stochastic distribution of people throughout) the world of these books would often reverse the point they were making. And get you something closer to the real world.
+>>>>> 
+>>>>> This issue is that I don't think that one could "show their work" with the rationalism and maintain the story. Because there is a difference between saying that someone is rational and demonstrating it (e.g. tell vs. show).
+>>>>> 
+>>>>> That's my view on it at least.
 
->>>>>> **u/Freevoulous** [+2] *
+>>>>>> **u/Freevoulous** [+2]  (3 days later)
 >>>>>> 
 >>>>>> I don't think it would be THAT difficult, after all, a lot of modern rationalists build upon Rand's Objectivism. Objectivism could be considered a crude precursor to the modern rationalist movement, there is no obvious contradiction between these two.  
-
->>>>>> From rat-fic fans perspective, it would not be hard to swallow either. HPMOR Harry and MoL Zorian are both basically Randian heroes, and nobody bats an eye, so taking actual Randian hero and "rationalising" them would probably work.  
-
->>>>>> Further clue: have you read "Transhumanist Wager"? For all means and purposes its a combination of Objectivism and rationalist fiction, and it works pretty neatly.
 >>>>>> 
+>>>>>> From rat-fic fans perspective, it would not be hard to swallow either. HPMOR Harry and MoL Zorian are both basically Randian heroes, and nobody bats an eye, so taking actual Randian hero and "rationalising" them would probably work.  
+>>>>>> 
+>>>>>> Further clue: have you read "Transhumanist Wager"? For all means and purposes its a combination of Objectivism and rationalist fiction, and it works pretty neatly.
 
->>>>>>> **u/Mason-B** [+2] *
+>>>>>>> **u/Mason-B** [+2]  (4 days later)
 >>>>>>> 
 >>>>>>> > From rat-fic fans perspective, it would not be hard to swallow either. HPMOR Harry and MoL Zorian are both basically Randian heroes, and nobody bats an eye, so taking actual Randian hero and "rationalising" them would probably work.
->>>>>>> The issue isn't the hero. The issue is the rest of the characters. In HPMOR for example Voldemort is also made rationalist. Further, all of the characters were given understandable narratives, there were rational explanations of characters behaviors all the way from Dumbledore to Malfoy. But more importantly was the rational explanation of the system with which these characters interacted that caused them to behave this way.
->>>>>>> And that is the crux of it. If we turn to Rand's work, we would need a rational explanation of a number of structural forces, that would cause a number of rationally labeled characters to actually act the way they do. To say nothing of the system of government. And I'm not sure that is possible.
->>>>>>> Yudkowsky talks about this in one of [his posts on Winning](https://www.lesswrong.com/posts/rg7vPTtyLMfT6Qqud/whining-based-communities). The story wouldn't survive because these characters would have just won from the beginning. Instead of organizing a strike of the mind, they would have turned around and won instead.
->>>>>>> And the evidence of that assertion is all the successful innovators in society who do exactly that. And yea some of them bribe politicians - but they win. Others innovate so hard that it doesn't matter (and maybe commit some securities fraud in the process) - but they still win.
->>>>>>> And the other related issue of the rational systems comes back. These rationalist innovators are competitive in the real world. And they will go and win, they would be the strike breakers. Much the same way that the government/takers group would have it's own set of defectors long before things get as bad as shown (whether they win or not is a different question).
->>>>>>> So yea, not sure how a rationalist story is possible here without making it not a story. But it has been a while since I read it, and I'm not claiming to be the arbiter of these things. I just can't see the shape of it unlike with other rationalist story ideas (because those often deal with under specified worlds, where as Rand's appears over specified to it's detriment).
 >>>>>>> 
+>>>>>>> The issue isn't the hero. The issue is the rest of the characters. In HPMOR for example Voldemort is also made rationalist. Further, all of the characters were given understandable narratives, there were rational explanations of characters behaviors all the way from Dumbledore to Malfoy. But more importantly was the rational explanation of the system with which these characters interacted that caused them to behave this way.
+>>>>>>> 
+>>>>>>> And that is the crux of it. If we turn to Rand's work, we would need a rational explanation of a number of structural forces, that would cause a number of rationally labeled characters to actually act the way they do. To say nothing of the system of government. And I'm not sure that is possible.
+>>>>>>> 
+>>>>>>> Yudkowsky talks about this in one of [his posts on Winning](https://www.lesswrong.com/posts/rg7vPTtyLMfT6Qqud/whining-based-communities). The story wouldn't survive because these characters would have just won from the beginning. Instead of organizing a strike of the mind, they would have turned around and won instead.
+>>>>>>> 
+>>>>>>> And the evidence of that assertion is all the successful innovators in society who do exactly that. And yea some of them bribe politicians - but they win. Others innovate so hard that it doesn't matter (and maybe commit some securities fraud in the process) - but they still win.
+>>>>>>> 
+>>>>>>> And the other related issue of the rational systems comes back. These rationalist innovators are competitive in the real world. And they will go and win, they would be the strike breakers. Much the same way that the government/takers group would have it's own set of defectors long before things get as bad as shown (whether they win or not is a different question).
+>>>>>>> 
+>>>>>>> So yea, not sure how a rationalist story is possible here without making it not a story. But it has been a while since I read it, and I'm not claiming to be the arbiter of these things. I just can't see the shape of it unlike with other rationalist story ideas (because those often deal with under specified worlds, where as Rand's appears over specified to it's detriment).
 
->>>>>>>> **u/Freevoulous** [+1] *
+>>>>>>>> **u/Freevoulous** [+1]  (4 days later)
 >>>>>>>> 
 >>>>>>>> I cannot say I understand the entirety of your and Yudkowsky's argument, but I feel like it kinda veers into s subtle strawman.
->>>>>>>> The point of Atlas Shrugged (which I think is reflected in reality to a degree) is that winning within the system is not really a win, neither ethically or logically. Its like trying to break out of prison by being promoted to one of the Guards or maybe a Warden, rather than simply digging a tunnel to escape.
->>>>>>>> The "villains" in AS derived their system from faulty ideology, but otherwise acted rationally within it, and they could have been promoted to "real rationalists" the way we want them. Similarly, the heroes could be promoted to full rationalists and still wish to win by abandoning the system.
->>>>>>>> Probably the easiest way to make AS more realistic is simply to update it to modern times, because the socio-economic prediction Rand accidentally made is coming true, and the only reason we do not have Randian heroes "going Galt" is that there is nowhere to escape.
 >>>>>>>> 
+>>>>>>>> The point of Atlas Shrugged (which I think is reflected in reality to a degree) is that winning within the system is not really a win, neither ethically or logically. Its like trying to break out of prison by being promoted to one of the Guards or maybe a Warden, rather than simply digging a tunnel to escape.
+>>>>>>>> 
+>>>>>>>> The "villains" in AS derived their system from faulty ideology, but otherwise acted rationally within it, and they could have been promoted to "real rationalists" the way we want them. Similarly, the heroes could be promoted to full rationalists and still wish to win by abandoning the system.
+>>>>>>>> 
+>>>>>>>> Probably the easiest way to make AS more realistic is simply to update it to modern times, because the socio-economic prediction Rand accidentally made is coming true, and the only reason we do not have Randian heroes "going Galt" is that there is nowhere to escape.
 
->>>>>>>>> **u/Mason-B** [+1] *
+>>>>>>>>> **u/Mason-B** [+1]  (4 days later)
 >>>>>>>>> 
 >>>>>>>>> > The "villains" in AS derived their system from faulty ideology, but otherwise acted rationally within it, and they could have been promoted to "real rationalists" the way we want them. 
->>>>>>>>> Acting rationally within the ideology wasn't the point. They would need to act rationally *within their observed experiences*.
->>>>>>>>> The majority of religious folks get this one: Most Christian and Jewish people don't end up like the Amish. Sure, they pay homage to these ideas with things like automatic elevators and so on, but not in any way that truly hampers them.
->>>>>>>>> > Similarly, the heroes could be promoted to full rationalists and still wish to win by abandoning the system.
->>>>>>>>> Yea but the issue is that everyone would have to follow the idea down that path. But there are plenty of people who can go be scientists, they may not be as brilliant, but they could do it. Ditto for engineers, inventors, entrepreneurs and so on. More so today than ever before making progress is a tiny step at the time, built on the shoulders of the previous thinkers.
->>>>>>>>> These are the so-called strike breakers I mentioned. And I guess the issue is it's really never explained why these people don't exist.
->>>>>>>>> As a rationalist looking to win it seems obvious that if these people don't exist then I can be the savior of the government, take it over, and dismantle it. The classic "compromise my morality to win for my morality" example we see from stuff like Practical Guide to Evil. If I become a Warden, then I can corrupt and dismantle the prison.
->>>>>>>>> These would be the defectors, mixed from the above people who act rationally from within their observed experiences. And there would need to be a reason why they don't exist either.
->>>>>>>>> > Probably the easiest way to make AS more realistic is simply to update it to modern times, because the socio-economic prediction Rand accidentally made is coming true, and the only reason we do not have Randian heroes "going Galt" is that there is nowhere to escape.
->>>>>>>>> But there are plenty of places to escape. Space as most of the rich are trying. And sea-steading as mentioned by the Transhumanist Wager. The issue of course is that these people already benefit quite well from the system. I'll note the funds they put to these ideas (with a notable exception of Elon) are not in line with people trying to escape (sea-steading especially). I'm not sure I see the socio-economic prediction you reference.
->>>>>>>>> But further, most of these people, despite also being well compensated, were inevitable. Someone was going to come up with an operating system that was usable, someone was going to make an online marketplace, someone was going to make an online payment processor. They just got there first, building on the shoulders of what already came. And plenty of people are willing to execute these ideas for a thousandth of what these people have been rewarded with.
->>>>>>>>> A strike of the mind would require everyone who possibly has these ideas to join the strike, for years. Not everyone is going to agree with the strike. And it also doesn't work from a game theory perspective when someone is trying to win, which in turn forces the behavior of competition from any other rational actors. I'd almost say that's fundamental to human nature.
 >>>>>>>>> 
+>>>>>>>>> Acting rationally within the ideology wasn't the point. They would need to act rationally *within their observed experiences*.
+>>>>>>>>> 
+>>>>>>>>> The majority of religious folks get this one: Most Christian and Jewish people don't end up like the Amish. Sure, they pay homage to these ideas with things like automatic elevators and so on, but not in any way that truly hampers them.
+>>>>>>>>> 
+>>>>>>>>> > Similarly, the heroes could be promoted to full rationalists and still wish to win by abandoning the system.
+>>>>>>>>> 
+>>>>>>>>> Yea but the issue is that everyone would have to follow the idea down that path. But there are plenty of people who can go be scientists, they may not be as brilliant, but they could do it. Ditto for engineers, inventors, entrepreneurs and so on. More so today than ever before making progress is a tiny step at the time, built on the shoulders of the previous thinkers.
+>>>>>>>>> 
+>>>>>>>>> These are the so-called strike breakers I mentioned. And I guess the issue is it's really never explained why these people don't exist.
+>>>>>>>>> 
+>>>>>>>>> As a rationalist looking to win it seems obvious that if these people don't exist then I can be the savior of the government, take it over, and dismantle it. The classic "compromise my morality to win for my morality" example we see from stuff like Practical Guide to Evil. If I become a Warden, then I can corrupt and dismantle the prison.
+>>>>>>>>> 
+>>>>>>>>> These would be the defectors, mixed from the above people who act rationally from within their observed experiences. And there would need to be a reason why they don't exist either.
+>>>>>>>>> 
+>>>>>>>>> > Probably the easiest way to make AS more realistic is simply to update it to modern times, because the socio-economic prediction Rand accidentally made is coming true, and the only reason we do not have Randian heroes "going Galt" is that there is nowhere to escape.
+>>>>>>>>> 
+>>>>>>>>> But there are plenty of places to escape. Space as most of the rich are trying. And sea-steading as mentioned by the Transhumanist Wager. The issue of course is that these people already benefit quite well from the system. I'll note the funds they put to these ideas (with a notable exception of Elon) are not in line with people trying to escape (sea-steading especially). I'm not sure I see the socio-economic prediction you reference.
+>>>>>>>>> 
+>>>>>>>>> But further, most of these people, despite also being well compensated, were inevitable. Someone was going to come up with an operating system that was usable, someone was going to make an online marketplace, someone was going to make an online payment processor. They just got there first, building on the shoulders of what already came. And plenty of people are willing to execute these ideas for a thousandth of what these people have been rewarded with.
+>>>>>>>>> 
+>>>>>>>>> A strike of the mind would require everyone who possibly has these ideas to join the strike, for years. Not everyone is going to agree with the strike. And it also doesn't work from a game theory perspective when someone is trying to win, which in turn forces the behavior of competition from any other rational actors. I'd almost say that's fundamental to human nature.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 days later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Mason-B** [+1] *
+>>>>> **u/Mason-B** [+1]  (4 days later)
 >>>>> 
 >>>>> I mean, I certainly think it's a phase of reading that many people go through. I wouldn't recommend someone not read it (or anything really), but I would recommend that they then go read some critiques of it afterward. Or like a counter balancing philosophical viewpoint (say for example The Culture novels).
->>>>> 
 
-> **u/Mason-B** [+1] *
+> **u/Mason-B** [+1]  (2 days later)
 > 
 > The first half of your post is kinda where I have been at on my thoughts of it.
-> As a quick aside from the rest of my points, I would also add that there very might well be a "Fringle Oriented Programming" out there right now. But with no empirical way to actually tell the benefits of one programming system over the other it's actually really difficult to know, to say nothing of the not invented here syndrome and sunk cost fallacies.
-> Silicon Valley plays this aspect up for humor. The main character invents a compression algorithm that is fundamentally better than anything else in the world, this could be objectively valued at billions of dollars a year of potential revenue. From a certain perspective it's a rational story about why the silicon valley startup mindset is fundamentally bad at what claims to be good at (e.g. promoting new ideas to change the world). But in regards to your point, that makes for a dark comedy and nobody wants to read that (a visual comedy allows for most of the jokes to be timing and situational).
-> It also doesn't work from a computer science perspective as a premise due to computational universality, which can be summed up in the simple answer of: why can't I call it as a library. And the fundamental physics of computation means beating any interesting problem in an empirical way runs up against the math about boiling the oceans and turning the atmosphere into plasma being a physical requirement (unless we are talking, [we are like gods fantasy, a P=NP hack is the end of the world](https://www.scottaaronson.com/papers/npcomplete.pdf) as we know it). Better to do what silicon valley did and solve an open question like compression at the theoretical limit or the hard problem of consciousness, or perhaps a hardware hack like quantum computation or mem-ristors the issue of course is that these quickly dissolve into sci-fi. Or if your 'power' ignores our understanding of physicals, a sort of simulation escape which might as well be fantasy.
-> But I digress (this is what I get for having a masters; I can't even enjoy the conceptual example without finding a hundred things wrong with it).
-> What I wanted to say was that my solution is to have a hidden organization. It's an old trope, but make it a spy thriller of hidden organizations fighting over barely advanced technology. My specific formulation is that a Bill Gates like figure *did do a rationalism* 30 years ago and now has technology 5 years ahead of the curve in secret. I think there is a lot of potential from that sort of backdrop.
-> A variant of this is that what that secret technology is can then be kinda sci-fi (or fantasy like psionics or aliens), I almost view this as the "The Stargate" solution. But it is kind of cheating by simply allowing access to a modern backdrop while still being sci-fi or fantasy. So I list it only as a variant. I think this comes back to the idea of that good sci-fi uses as few caveats as it has to, and I think this would be a good way to make better rational sci-fi. (For example the caveat in The Expanse is the aliens, where as the ship drives that are at the limit of theoretical propulsive capability are not a caveat)
-> The correct way to do this in my opinion is the "5 years ahead of human technology", it's more fun if you are doing sci-fi and guessing what stuff looks like in 5 years based on what exists today as a prototype. But it's also not terrible to re-wind 5 years. This allows one to focus on real world rationalism undertaken by things like spy agencies and governments. Fun stuff like [cryptography](https://web.archive.org/web/20170717045616/https://petertodd.org/2016/cypherpunk-desert-bus-zcash-trusted-setup-ceremony) and stenography, what a tear-down protocol for a development site for this "future tech" looks like, and how they do networking (e.g. see the cartels). What sort of culture an organization like this might use, how do they solve the man power and loyalty issues (especially without raising eyebrows). Bonus points if you can give them a realistic end goal that changes the world.
-> In my story I come back to the addage that no security system is perfect, even the most paranoid and rational one. Sometimes the FBI just gets lucky and all hell breaks loose. Of course the "super-rational" character is 30 years ago, and the protagonist is now. Flashbacks can get you some of that rational awesome goodness, while the main character can work through and learn the lessons. I think I have a good end goal too and if anyone is curious for my current writing on it they could DM me, but it's not meant to be published yet and is very rough (on the one hand I don't mind sharing the details if someone wants them, on the other I don't want to spoil it if I do end up publishing it).
 > 
+> As a quick aside from the rest of my points, I would also add that there very might well be a "Fringle Oriented Programming" out there right now. But with no empirical way to actually tell the benefits of one programming system over the other it's actually really difficult to know, to say nothing of the not invented here syndrome and sunk cost fallacies.
+> 
+> Silicon Valley plays this aspect up for humor. The main character invents a compression algorithm that is fundamentally better than anything else in the world, this could be objectively valued at billions of dollars a year of potential revenue. From a certain perspective it's a rational story about why the silicon valley startup mindset is fundamentally bad at what claims to be good at (e.g. promoting new ideas to change the world). But in regards to your point, that makes for a dark comedy and nobody wants to read that (a visual comedy allows for most of the jokes to be timing and situational).
+> 
+> It also doesn't work from a computer science perspective as a premise due to computational universality, which can be summed up in the simple answer of: why can't I call it as a library. And the fundamental physics of computation means beating any interesting problem in an empirical way runs up against the math about boiling the oceans and turning the atmosphere into plasma being a physical requirement (unless we are talking, [we are like gods fantasy, a P=NP hack is the end of the world](https://www.scottaaronson.com/papers/npcomplete.pdf) as we know it). Better to do what silicon valley did and solve an open question like compression at the theoretical limit or the hard problem of consciousness, or perhaps a hardware hack like quantum computation or mem-ristors the issue of course is that these quickly dissolve into sci-fi. Or if your 'power' ignores our understanding of physicals, a sort of simulation escape which might as well be fantasy.
+> 
+> But I digress (this is what I get for having a masters; I can't even enjoy the conceptual example without finding a hundred things wrong with it).
+> 
+> What I wanted to say was that my solution is to have a hidden organization. It's an old trope, but make it a spy thriller of hidden organizations fighting over barely advanced technology. My specific formulation is that a Bill Gates like figure *did do a rationalism* 30 years ago and now has technology 5 years ahead of the curve in secret. I think there is a lot of potential from that sort of backdrop.
+> 
+> A variant of this is that what that secret technology is can then be kinda sci-fi (or fantasy like psionics or aliens), I almost view this as the "The Stargate" solution. But it is kind of cheating by simply allowing access to a modern backdrop while still being sci-fi or fantasy. So I list it only as a variant. I think this comes back to the idea of that good sci-fi uses as few caveats as it has to, and I think this would be a good way to make better rational sci-fi. (For example the caveat in The Expanse is the aliens, where as the ship drives that are at the limit of theoretical propulsive capability are not a caveat)
+> 
+> The correct way to do this in my opinion is the "5 years ahead of human technology", it's more fun if you are doing sci-fi and guessing what stuff looks like in 5 years based on what exists today as a prototype. But it's also not terrible to re-wind 5 years. This allows one to focus on real world rationalism undertaken by things like spy agencies and governments. Fun stuff like [cryptography](https://web.archive.org/web/20170717045616/https://petertodd.org/2016/cypherpunk-desert-bus-zcash-trusted-setup-ceremony) and stenography, what a tear-down protocol for a development site for this "future tech" looks like, and how they do networking (e.g. see the cartels). What sort of culture an organization like this might use, how do they solve the man power and loyalty issues (especially without raising eyebrows). Bonus points if you can give them a realistic end goal that changes the world.
+> 
+> In my story I come back to the addage that no security system is perfect, even the most paranoid and rational one. Sometimes the FBI just gets lucky and all hell breaks loose. Of course the "super-rational" character is 30 years ago, and the protagonist is now. Flashbacks can get you some of that rational awesome goodness, while the main character can work through and learn the lessons. I think I have a good end goal too and if anyone is curious for my current writing on it they could DM me, but it's not meant to be published yet and is very rough (on the one hand I don't mind sharing the details if someone wants them, on the other I don't want to spoil it if I do end up publishing it).
 
->> **u/Amonwilde** [+1] *
+>> **u/Amonwilde** [+1]  (3 days later)
 >> 
 >> Yes, I do think the masquerade is fundamentally a cheat. You want the modern setting but want to include magic or weird science? Plop a masquerade in there. I think the point here (if I have one, ha) is that we're capable of doing something that isn't sci-fi or fantasy, if we choose to do it. The scope will just have to be smaller, and we'll have to be more realistic about what rationality can accomplish.
->> In real life Fringle Oriented Programming would totally be as you describe. Lisp and metaprogramming are, arguably, what you're talking about, but for a variety of reasons, from path dependence to a disinterest in boring infrastructure and marketing, it's unlikely to be more than a niche thing.
 >> 
+>> In real life Fringle Oriented Programming would totally be as you describe. Lisp and metaprogramming are, arguably, what you're talking about, but for a variety of reasons, from path dependence to a disinterest in boring infrastructure and marketing, it's unlikely to be more than a niche thing.
 
->>> **u/Mason-B** [+1] *
+>>> **u/Mason-B** [+1]  (3 days later)
 >>> 
 >>> > Lisp and metaprogramming are
->>> Yep, that was pretty much exactly what I was alluding to, haha.
->>> > The scope will just have to be smaller, and we'll have to be more realistic about what rationality can accomplish.
->>> Yea that's how I feel about my "5 years in the future" masquerade (I guess). It's a lot more constrained.
 >>> 
+>>> Yep, that was pretty much exactly what I was alluding to, haha.
+>>> 
+>>> > The scope will just have to be smaller, and we'll have to be more realistic about what rationality can accomplish.
+>>> 
+>>> Yea that's how I feel about my "5 years in the future" masquerade (I guess). It's a lot more constrained.
 
-> **u/Freevoulous** [+1] *
+> **u/Freevoulous** [+1]  (2 days later)
 > 
 > \>  *The Goal: A Process of Ongoing Improvement*.   
-
+> 
 > I would read the everlovin' shit out of this.  
-
+> 
 > IMHO, the best kind of a rational story that fits your criteria would be a **rational capitalist fic**.   
-
+> 
 > Think *The Wolf Of Wall Street,* but the protagonist is not a junkie idiot. Or a sexied-up, rationally optimised biography of Elon Musk. A Nobody to Billionaire story, in which a rational capitalist battles corporate cronies, crooked bureaucrats, greedy socialists, and the almighty IRS.
-
+> 
 > Better yet if set in the past (say, early 19th century) so that mundane and known technologies and ideas could be the game changers that make the story feel sci-fi'ish, without actually being speculative fiction.   
-
+> 
 > The Current War (2019 movie) is an excellent example: a battle between a rational inventor-turned-capitalist (Edison) vs a rational capitalist-turned-inventor (Westinghouse), with a naive rational inventor (Tesla) spannering the works.   
 > The movie works great because all 3 co-protagonists are rational, and act 100% rationally with the information and understanding they have. If/when they act wrong, its because they simply lack some crucial knowledge that the viewer has. This allows them to make interesting mistakes and create drama, without ever acting irrationally.  
-
-> I think there is a potential here, because rational stories in a realistic setting must, sooner or later, involve money and technology in some way, because money and tech are the only absolute rational optimisers available in this reality.
 > 
+> I think there is a potential here, because rational stories in a realistic setting must, sooner or later, involve money and technology in some way, because money and tech are the only absolute rational optimisers available in this reality.
 
-> **u/VapeKarlMarx** [+1] *
+> **u/VapeKarlMarx** [+1]  (3 days later)
 > 
 > I think I didn't see the world addressed but the is some room to be explored in the fact that the world we live in now is highly rational.
-> Completely amoral but highly rational.  When you think about the normative negatice bias people have for Rationalism it makes sense.  When you average person thinks about people making rational choices it is about someone outsourcing their job or the like.
-
-> So I think any intresting rational-realism story would have to end with the protagonist facing off with people entirely as rational as them.
 > 
+> Completely amoral but highly rational.  When you think about the normative negatice bias people have for Rationalism it makes sense.  When you average person thinks about people making rational choices it is about someone outsourcing their job or the like.
+> 
+> So I think any intresting rational-realism story would have to end with the protagonist facing off with people entirely as rational as them.
 
-> **u/fassina2** [+1]  *Progressive Overload**
+> **u/fassina2** [+1]  *Progressive Overload* (10 days later)
 > 
 > Rational people irl given enough time / age to optimize, tend to be in shape, well off humans. Capacity and ambition vary but that's basically it. 
-> &#x200B;
-> A very capable individual with high ambition is likely to be a millionaire, who's fit and has a great relationship with their partner. A very capable low ambition one likely earns 6 figures, is in reasonable shape and content with their situation. A low capacity with high ambition is likely to be depressed and having high expectations of themselves while being unable to achieve them.
-> &#x200B;
-> The main factor is capacity, rationality isn't that uncommon, it's capacity that's rare. Ambition just boosts the achievements of capable people further..
-> &#x200B;
-> IRL rational fiction likely would annoy most people because it shows that the limiting factor is production capacity, rather than whatever excuse they tell themselves. Everyone knows that exercising is a good idea. Everyone knows that learning useful information is beneficial.. Most people just aren't capable enough to make use of that knowledge.
-> &#x200B;
-> PS. Being a reader of non fiction, it doesn't bother or interest me much that there are few fictional stories focused on teaching people how to live better lives. Non fiction exists, the information is available if you're humble and interested enough to take it. There's little need to package it in a 50k works book just so people that are too proud or uninterested in said information may be more easily convinced to consume it. If they don't want help or aren't bothered enough to seek it let them be.
 > 
+> &#x200B;
+> 
+> A very capable individual with high ambition is likely to be a millionaire, who's fit and has a great relationship with their partner. A very capable low ambition one likely earns 6 figures, is in reasonable shape and content with their situation. A low capacity with high ambition is likely to be depressed and having high expectations of themselves while being unable to achieve them.
+> 
+> &#x200B;
+> 
+> The main factor is capacity, rationality isn't that uncommon, it's capacity that's rare. Ambition just boosts the achievements of capable people further..
+> 
+> &#x200B;
+> 
+> IRL rational fiction likely would annoy most people because it shows that the limiting factor is production capacity, rather than whatever excuse they tell themselves. Everyone knows that exercising is a good idea. Everyone knows that learning useful information is beneficial.. Most people just aren't capable enough to make use of that knowledge.
+> 
+> &#x200B;
+> 
+> PS. Being a reader of non fiction, it doesn't bother or interest me much that there are few fictional stories focused on teaching people how to live better lives. Non fiction exists, the information is available if you're humble and interested enough to take it. There's little need to package it in a 50k works book just so people that are too proud or uninterested in said information may be more easily convinced to consume it. If they don't want help or aren't bothered enough to seek it let them be.
 
 ---
 

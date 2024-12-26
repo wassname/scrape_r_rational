@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (23 seconds later)
 > 
 > YEEEEAAAAAHHHH BOOOOIIIIIIIII
-> edit: why did you delete this?
 > 
+> edit: why did you delete this?
 
->> **u/Agnoman** [+1] *
+>> **u/Agnoman** [+1]  (an hour later)
 >> 
 >> I jumped the gun on posting and didn't put the tags ( [RT][WIP] ) in. I was going to repost, with that fixed, but you beat me to it.
->> 
 
->>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (an hour later)
 >>> 
 >>> Whoops lol, I forgot tags too.
->>> 
 
 ---
 

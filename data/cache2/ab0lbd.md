@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.indiegogo.com/projects/secular-solstice-album/
-* Score: 5
+* Score: 7
 
 * Created: 2018-12-30T22:29:05
 
@@ -12,46 +12,45 @@
 
 ### Comments:
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (6 minutes later)
 > 
 > So the part that I liked the most about the Secular Solstice was definitely the songs and I'm really hyped to get an album of the songs (despite me never buying an album before in my life).
-> The problem is that I didn't know about this crowd-funding project until today at the last minute. It was only because it was posted as an update to the original Kickstarter for the Secular Solstice in 2014 that I found out at all.
-> I suspect that it was only really mentioned on the LessWrong site which I don't frequent too much.
-> So I'm posting about it here to hopefully drum up more donations to reach the funding goal of $12,000. Already donated $20 myself!
-> Hey if you don't want to (or can't) donate that's fine, but I still recommend clicking on the link because they have some songs available for listening on the page. Don't you want to know what the hype is all about?
-> Bitter Wind Lullaby is my favorite one.
 > 
+> The problem is that I didn't know about this crowd-funding project until today at the last minute. It was only because it was posted as an update to the original Kickstarter for the Secular Solstice in 2014 that I found out at all.
+> 
+> I suspect that it was only really mentioned on the LessWrong site which I don't frequent too much.
+> 
+> So I'm posting about it here to hopefully drum up more donations to reach the funding goal of $12,000. Already donated $20 myself!
+> 
+> Hey if you don't want to (or can't) donate that's fine, but I still recommend clicking on the link because they have some songs available for listening on the page. Don't you want to know what the hype is all about?
+> 
+> Bitter Wind Lullaby is my favorite one.
 
-> **u/VorpalAuroch** [+1]  *Life before Death**
+> **u/VorpalAuroch** [+1]  *Life before Death* (6 hours later)
 > 
 > Looks like it's on track to get as much in the last 3 days as the first 3, as usual for Kickstarters etc. Meaning it will only reach half its goal.
-> 
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (14 hours later)
 >> 
 >> You are mostly likely right that it will only reach half of its goal, but this is being done on Indiegogo not Kickstarter. Unlike Kickstarter, Indiegogo lets the projects keep all of the money raised, even if the goal wasn't met. So the album will still be getting some of the money for funding. They just won't be able to make all of the songs.
->> 
 
->>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>> **u/VorpalAuroch** [+1]  *Life before Death* (19 hours later)
 >>> 
 >>> If I understand Ray's posts on Facebook correctly, that's not right; most of the costs are fixed costs.
->>> 
 
->>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (22 hours later)
 >>>> 
 >>>> Could you give a link to the posts you are talking about? I'm not sure what you are referring to when you say 'that's not right'.
->>>> 
 
->>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >>>>> 
 >>>>> Not really, Facebook hates links. If I understand correctly, if the campaign raises $5000, there is not the option to record half the songs properly, because most of the costs of recording are fixed costs rather than marginal costs. (Recording 12 songs is not 2x the cost of recording 6 songs, more like 1.2x.) The options are to set the money aside for a future time when the remaining funds are covered, record the whole album to a lower standard using a cheaper alternative, or record the whole album as intended but Ray eats half the cost personally.
->>>>> 
 
->>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >>>>>> 
 >>>>>> Ah, that's a shame. I think this campaign could have been successful if it had more publicity. It should have been mentioned at the actual Secular Solstice when all of the interested customers-to-be were in one room.
->>>>>> Thanks for clarifying.
 >>>>>> 
+>>>>>> Thanks for clarifying.
 
 ---
 

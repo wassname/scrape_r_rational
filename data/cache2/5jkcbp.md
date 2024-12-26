@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/5jkcbp/d_wednesday_worldbuilding_thread/
-* Score: 13
+* Score: 12
 
 * Created: 2016-12-21T15:04:38
 
@@ -24,9 +24,10 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/alexanderwales** [+9]  *Time flies like an arrow**
+> **u/alexanderwales** [+8]  *Time flies like an arrow* (6 hours later)
 > 
 > This is a long-ish dump of ideas for a homebrew fantasy D&D setting, ideally trying to get some feedback on which of these you'd like to encounter as a player, or some neat twists on these concepts that arises naturally from their cores (note that this is D&D and non-rational):
+> 
 > * **Tarot card class**  
 > 	The tarot mage holds a deck of cards as his focus, which he draws from in order to cast spells. His deck must be randomized in accordance with the strictures of his class, else it will be worthless for casting spells. While the tarot mage has little control over which spell he'll cast, these spells are much more powerful than those cast by a wizard. Creating new cards is an expensive and timely process.
 > * **Poisoned fighter**  
@@ -68,91 +69,103 @@ Or generally work through the problems of a fictional world.
 > 	The still fighter can arrest his movement in various ways, allowing him to fall from any height without injury, to prevent knockback, and so on. They have the power of perfect immobility. At the highest levels, they are nearly invincible, because they can stop the movement of their flesh when it would be bludgeoned or pierced.
 > * **Revision mage**  
 > 	Revision mages are amazingly powerful, capable of nearly any act of restoration short of undoing death. They can walk into a castle that has been knocked down to its foundation and reverse the tumble of stones to the ground. Their healing is second to none, as they can unbreak bones and cause blood to pump back into the body. In combat they can reverse the motions of their opponents, trapping them in place as though in amber. The revision mages are rare and, to anyone with common sense, terrifying.
-> 
 
->> **u/ZeroNihilist** [+4] *
+>> **u/ZeroNihilist** [+4]  (15 hours later)
 >> 
 >> Riffing on the idea of the Tarot Mage:
->> It could be cool to have a deckbuilding aspect to this. To make it more unique than just RNG over a normal mage's spell slots, you could have the more powerful cards require specific sorts of experiences to attain. E.g. Death could require reaching the brink of death (negative HP or failed saving throws, depending on edition).
->> Once obtained, these powerful cards could be swapped out with the regular ones at a rate of level/4 per long rest. There may have to be an additional limit on their quantity (like `wisdom mod + level/2`), or you could require them to be balanced with negatives or something.
->> You could also do stuff with other tarot symbolism, like whether a card is drawn upright or inverted or drawn with the left or right hand. All of that greatly increases the complexity of the class in the design process, but it may help to create a sense of player agency or make for a more awesome opponent in an NPC.
->> "With his left hand, the mage draws a card from his deck. He shows it to you, smiling; it is a skeletal horseman, Death. The card turns to smoke and flies in a cloud to choke you. Make a constitution saving throw."
 >> 
+>> It could be cool to have a deckbuilding aspect to this. To make it more unique than just RNG over a normal mage's spell slots, you could have the more powerful cards require specific sorts of experiences to attain. E.g. Death could require reaching the brink of death (negative HP or failed saving throws, depending on edition).
+>> 
+>> Once obtained, these powerful cards could be swapped out with the regular ones at a rate of level/4 per long rest. There may have to be an additional limit on their quantity (like `wisdom mod + level/2`), or you could require them to be balanced with negatives or something.
+>> 
+>> You could also do stuff with other tarot symbolism, like whether a card is drawn upright or inverted or drawn with the left or right hand. All of that greatly increases the complexity of the class in the design process, but it may help to create a sense of player agency or make for a more awesome opponent in an NPC.
+>> 
+>> "With his left hand, the mage draws a card from his deck. He shows it to you, smiling; it is a skeletal horseman, Death. The card turns to smoke and flies in a cloud to choke you. Make a constitution saving throw."
 
->>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >>> 
 >>> I was thinking that I'll probably pick up an actual tarot deck and use a tarot mage as a boss, mostly because I love to DM with props. (And the tarot deck would probably become a magic item with remnants of power to be used by the PCs once the tarot mage was defeated.)
->>> The big design problem is that you'd be increasing variability, which is usually a bad thing for a class and has to be compensated for with variability reduction or increased power. That's not really a problem for an NPC, because you can cheat more, but as a PC class ... I'd want to introduce "cheats" like dealing from the bottom of the deck, being able to see the next card, or something like that.
->>> I really like the idea of incorporating all the weird stuff that's used in tarot readings to make the cards themselves more variable.
 >>> 
+>>> The big design problem is that you'd be increasing variability, which is usually a bad thing for a class and has to be compensated for with variability reduction or increased power. That's not really a problem for an NPC, because you can cheat more, but as a PC class ... I'd want to introduce "cheats" like dealing from the bottom of the deck, being able to see the next card, or something like that.
+>>> 
+>>> I really like the idea of incorporating all the weird stuff that's used in tarot readings to make the cards themselves more variable.
 
->>>> **u/ZeroNihilist** [+1] *
+>>>> **u/ZeroNihilist** [+1]  (a day later)
 >>>> 
 >>>> That's a fair point. It could work as a separate deck that requires expending some resource or engineering a particular situation to use. The downside there is that it might reduce the thematic appeal of the class.
->>>> 
 
->> **u/GlueBoy** [+2]  *anti-skub**
+>> **u/GlueBoy** [+2]  *anti-skub* (9 hours later)
 >> 
 >> >R9K mage
->> Reminds me of [Nico Minoru](https://en.wikipedia.org/wiki/Nico_Minoru#Spellcasting) from Runaways.
 >> 
+>> Reminds me of [Nico Minoru](https://en.wikipedia.org/wiki/Nico_Minoru#Spellcasting) from Runaways.
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (14 hours later)
 >> 
 >> Where do the R9K mage's spells come from in- and out of universe? A combinatorially astronomical but finite space of combinations of a toolbox, with a mental warning if a spell would be globally used a second time? How many different fireballs are there?
->> 
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (a day later)
 >>> 
 >>> Well for *fireball*, there would be hundreds of millions. Changes to color, range, power, the path it takes through the air, the shape of its explosion ... but while there might be hundreds of millions available, there have also been millions of *fireball*s cast over the years, using most of the easy and simple variants up.
->>> In-universe, it comes from some god-tier artifact, a mystical tome that contains every spell and spell variant that might ever be cast, which get crossed off one by one as they're used. Out of universe, the spells are variants of those found in the player's handbook with both flavorful and minor mechanical changes whose uniqueness is determined by die-rolls modified by how creative and powerful the variants are.
->>> (There would obviously need to be constraints on what "unique" means, because if you can use two spells that are 0.00000001% different from each other there's not really a point to the class/idea.)
 >>> 
+>>> In-universe, it comes from some god-tier artifact, a mystical tome that contains every spell and spell variant that might ever be cast, which get crossed off one by one as they're used. Out of universe, the spells are variants of those found in the player's handbook with both flavorful and minor mechanical changes whose uniqueness is determined by die-rolls modified by how creative and powerful the variants are.
+>>> 
+>>> (There would obviously need to be constraints on what "unique" means, because if you can use two spells that are 0.00000001% different from each other there's not really a point to the class/idea.)
 
->>>> **u/Gurkenglas** [+1] *
+>>>> **u/Gurkenglas** [+1]  (a day later)
 >>>> 
 >>>> ([You don't need to add a god-tier artifact to the ingame description.](http://lesswrong.com/lw/jp/occams_razor/))
->>>> 
 
->>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >>>>> 
 >>>>> But *flavorwise* (and to some extent plotwise) it means a lot of things, like there's an order dedicated to keeping the artifact, and people who might try to steal it, or people who would alter it, or consequences if it should ever dip below half full, or things like that. It becomes a real thing that can be visited and interacted with.
->>>>> 
 
->> **u/MaxDougwell** [+2] *
+>> **u/MaxDougwell** [+2]  (17 hours later)
 >> 
 >> Tarot card class sounds like fun to play, but the level of randomness it introduces could be a bit much for the player. Perhaps if the spells themselves removed the element of chance normally present in DnD, maybe having their numbers set at the card's creation? This'll allow the spells to be used to a greater degree of tactical precision then is normally possible in the game.
->> Poisoned fighter sounds more like a race then a class. Or just NPC flavour. What is the mechanical difference between a special class who can poison their weapons after drinking poison, and any other class who can poison their blades without drinking poison? Also lots of things in DnD are immune to poison. Maybe it could work as a broader "chemical" fighter using combat stimulants and potions to gain an edge.
->> Multi-level Mage is hilarious and I can see so many problems with it as a player class, but if you think you can balance it with everyone else it could be a fun and novel charisma-focused spellcaster. Also it will result in the Pyramid Mage attempting diplomacy at every opportunity and building convoluted social skill leveling schemes for their recruits.
->> R9K I don't really see working well. Or maybe I don't understand it. The best way I can see to do the idea is allowing them to cast any spell in the entire Player's Handbook that they're the appropriate level for, and making sure that the player understands the whole system well enough to pace their spellcasting appropriately for their XP gains. The "other R9K mages count against your spell limits" part seems like an arbitrary limitation that's a bunch of extra work for everyone involved.
->> Out of Body looks interesting. Lots of ways to implement it. Might want to limit it to short range though, to avoid having to come up with convoluted means of threatening them. Easy to have it be really fragile or basically unstoppable. I'd implement it as a gradient: The greater distance from/time spent/powers used in astral combat, the less control and protection for the main body. Overextend and they risk being cut down, play defensively and they risk seeing the battle turn against them.
->> Linking class looks like flavour for an NPC. I've seem some psionic powers that did the things this does, but a class that unevenly denies other classes their individuality isn't something I'd recommend implementing. Or just go the whole way and make the players a hive-mind to start with.
->> Feng Shui class is an interesting idea. It's…basically a subtle spellcaster? I'd suggest looking into the psionics stuff, it has a bunch of more subtle/mental powers that could work with this class.
->> Passion Mages sound like Wilders, but more fun to play. it also sounds like Wild Magic, which someone else mentioned.
->> Offbeat Elemental Mages. I like all of these. The Salt Mage should be overpowered as hell and claim a disproportionate amount of the XP. Whenever another player yells at him or cries, he heals 1D10 HP.
->> Velocity Fighter is something I'd like to play, I love mobility-focused classes and there aren't nearly enough of them.
->> Still fighter could serve as an interesting puzzle boss too. A PC Still Fighter would clearly be the party meatshield.
->> Revision Mage. Good concept, interesting powers, Wizard-with-time-speciality is fun. Not sure why they can't reverse death at higher levels though? Everybody else can.
 >> 
+>> Poisoned fighter sounds more like a race then a class. Or just NPC flavour. What is the mechanical difference between a special class who can poison their weapons after drinking poison, and any other class who can poison their blades without drinking poison? Also lots of things in DnD are immune to poison. Maybe it could work as a broader "chemical" fighter using combat stimulants and potions to gain an edge.
+>> 
+>> Multi-level Mage is hilarious and I can see so many problems with it as a player class, but if you think you can balance it with everyone else it could be a fun and novel charisma-focused spellcaster. Also it will result in the Pyramid Mage attempting diplomacy at every opportunity and building convoluted social skill leveling schemes for their recruits.
+>> 
+>> R9K I don't really see working well. Or maybe I don't understand it. The best way I can see to do the idea is allowing them to cast any spell in the entire Player's Handbook that they're the appropriate level for, and making sure that the player understands the whole system well enough to pace their spellcasting appropriately for their XP gains. The "other R9K mages count against your spell limits" part seems like an arbitrary limitation that's a bunch of extra work for everyone involved.
+>> 
+>> Out of Body looks interesting. Lots of ways to implement it. Might want to limit it to short range though, to avoid having to come up with convoluted means of threatening them. Easy to have it be really fragile or basically unstoppable. I'd implement it as a gradient: The greater distance from/time spent/powers used in astral combat, the less control and protection for the main body. Overextend and they risk being cut down, play defensively and they risk seeing the battle turn against them.
+>> 
+>> Linking class looks like flavour for an NPC. I've seem some psionic powers that did the things this does, but a class that unevenly denies other classes their individuality isn't something I'd recommend implementing. Or just go the whole way and make the players a hive-mind to start with.
+>> 
+>> Feng Shui class is an interesting idea. It's…basically a subtle spellcaster? I'd suggest looking into the psionics stuff, it has a bunch of more subtle/mental powers that could work with this class.
+>> 
+>> Passion Mages sound like Wilders, but more fun to play. it also sounds like Wild Magic, which someone else mentioned.
+>> 
+>> Offbeat Elemental Mages. I like all of these. The Salt Mage should be overpowered as hell and claim a disproportionate amount of the XP. Whenever another player yells at him or cries, he heals 1D10 HP.
+>> 
+>> Velocity Fighter is something I'd like to play, I love mobility-focused classes and there aren't nearly enough of them.
+>> 
+>> Still fighter could serve as an interesting puzzle boss too. A PC Still Fighter would clearly be the party meatshield.
+>> 
+>> Revision Mage. Good concept, interesting powers, Wizard-with-time-speciality is fun. Not sure why they can't reverse death at higher levels though? Everybody else can.
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >>> 
 >>> R9K gets access to arbitrary amounts of spells, sometimes through flavor tweaks and other times through mechanical tweaks. There would be some kind of abstraction layer to determine whether a spell variation has been used before. So *ideally* you get things like "*fireball*, but it's blue, and becomes a cone at the point of detonation, and curves to the right, and etc." with each modification of the base spell increasing or decreasing the, I don't know, Spellcraft DC or something. (The uniqlomancer of course has a bunch of variations prepared ahead of time, and has some level of coordination with other uniqlomancers to ensure that they're all exploring unique spellspace. Hence conflicts, which I like.)
->>> Poisoned fighter wouldn't be immune to poison. So they'd take their 1d6 DEX damage from terinav root, but they would get some kind of benefit from it, like a 1d6 boost to STR or something. At higher levels they would increase or decrease die sizes; 1d4 DEX hit with a 1d8 STR boost maybe. Most of the benefit comes from these "chemical pathways". (You'd be barred from the class if you were immune to poison.) (Obviously there's an issue with cost, since D&D poisons are really expensive.)
->>> Revision mage can't undo death mostly because I liked the idea of a high-level revision mage coming to a city that had been wracked by storm, unshattering all the windows, uncollapsing all the ruined shops, causing splintered wood to knit back together. All the limp bodies are restored as they go through their motions in reverse, until the people are sitting at their tables uneating food ... and then when the spell ends, they're still dead, so there's a perfect scene that looks as though they all died of natural causes at the same time. (Conceptually, this is because they don't have access to the soul. Probably never a PC class. Hooks include needing to escort a revision mage or attempting to track one that's turned to murders that can be accomplished without leaving evidence.)
 >>> 
+>>> Poisoned fighter wouldn't be immune to poison. So they'd take their 1d6 DEX damage from terinav root, but they would get some kind of benefit from it, like a 1d6 boost to STR or something. At higher levels they would increase or decrease die sizes; 1d4 DEX hit with a 1d8 STR boost maybe. Most of the benefit comes from these "chemical pathways". (You'd be barred from the class if you were immune to poison.) (Obviously there's an issue with cost, since D&D poisons are really expensive.)
+>>> 
+>>> Revision mage can't undo death mostly because I liked the idea of a high-level revision mage coming to a city that had been wracked by storm, unshattering all the windows, uncollapsing all the ruined shops, causing splintered wood to knit back together. All the limp bodies are restored as they go through their motions in reverse, until the people are sitting at their tables uneating food ... and then when the spell ends, they're still dead, so there's a perfect scene that looks as though they all died of natural causes at the same time. (Conceptually, this is because they don't have access to the soul. Probably never a PC class. Hooks include needing to escort a revision mage or attempting to track one that's turned to murders that can be accomplished without leaving evidence.)
 
->>>> **u/MaxDougwell** [+1] *
+>>>> **u/MaxDougwell** [+1]  (2 days later)
 >>>> 
 >>>> I just don't know, I see the appeal flavour-wise, but it sounds like the Uniqlomancer has several downsides (failure chance vs. extra preparations, conflicts with other Uniqlomancers), but it's only upside is easier access to niche spells, which isn't a great trade-off.
->>>> Ah, I like that better. Sacrificing HP/attributes temporarily for other benefits.
->>>> Revision Mages could do some fun things. Reversing their injuries as they happen, erasing recent memories, "pausing" things by constantly reversing them over a tiny time-span, re-use one-use items…
 >>>> 
+>>>> Ah, I like that better. Sacrificing HP/attributes temporarily for other benefits.
+>>>> 
+>>>> Revision Mages could do some fun things. Reversing their injuries as they happen, erasing recent memories, "pausing" things by constantly reversing them over a tiny time-span, re-use one-use items…
 
->> **u/mg115ca** [+2] *
+>> **u/mg115ca** [+2]  (a day later)
 >> 
 >> I'm always a big fan of anything that includes whole new concepts for classes (as opposed to "mechanically identical to X, but flavor wise they're a Y"). I'm just going to go through each one and say my ideas, or mention a related thing you might want to get ideas from (most if not all of these might be your source of ideas for the class in the first place, but I'm going to include them anyway just in case they aren't).
-
+>> 
 >> * **Tarot card class**  
 >> [The Tarocchi](https://www.reddit.com/r/UnearthedArcana/comments/4zwfrl/the_tarocchi_a_playing_cardbased_magic_class/)
 >> * **Poisoned fighter**  
@@ -173,22 +186,21 @@ Or generally work through the problems of a fictional world.
 >> Might work best as a monk path since those get speed boosts already, or as something the local messenger's guild would recruit.  References to the Cordwainer class (sooo many shoe puns) from the above mentioned [Penny Arcade RSPOD Episode 3](https://www.gamefaqs.com/pc/666378-penny-arcade-adventures-episode-three/faqs/64577#section8), and the [Flow Aspect](https://archiveofourown.org/works/340777/chapters/608450) (who tend to focus on "And it don't stop, just keep going forever") from the above mentioned Glitch FAQ
 >> * **Revision mage**  
 >> 	Apart from the obvious (and terrifying) reference to [Gray Boy](http://worm.wikia.com/wiki/Gray_Boy), this must obviously be referred to as [Retconjuration](https://wiki.erfworld.com/Retconjuration).
->> 
 
->> **u/Reactionaryhistorian** [+1] *
+>> **u/Reactionaryhistorian** [+1]  (8 hours later)
 >> 
 >> I think it might be more interesting (and make more sense although this isn't rational) if the astral warrior isn't armoured. Make for more creative play as you have to leave your body carefully.
->> 
 
->> **u/waylandertheslayer** [+1] *
+>> **u/waylandertheslayer** [+1]  (12 hours later)
 >> 
 >> >Passion Mage
->> Have you had a look at the Wild Magic supplement for AD&D 2e? I'm not sure if it exists for later editions, but it's similar to what you've described (mostly for the randomly varying effects if something goes wrong).
 >> 
+>> Have you had a look at the Wild Magic supplement for AD&D 2e? I'm not sure if it exists for later editions, but it's similar to what you've described (mostly for the randomly varying effects if something goes wrong).
 
->> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> **u/alexanderwales** [+1]  *Time flies like an arrow* (2 days later)
 >> 
 >> Here are brief write-ups of the offbeat elemental mages ("mage" being loosely defined):
+>> 
 >> * **Glass mages** are half-casters who fight with blades of glass and attack with razor-sharp  shards. They also to some extent have mirror powers, scrying through reflections and bouncing across reflective surfaces.
 >> * **Iron mages** are heavily armored mages that monkey-grip enormous swords and shift their armor around them to make up for how utterly impractical this would otherwise be. They’re tanks, but faster and more powerful than they would otherwise appear.
 >> * **Steam mages** are all about pressure. They build it up and use it to fight and cast with, throwing giant haymaker punches and make explosive leaps through the air. Some equip themselves with weapons that utilize steam to fire projectiles.
@@ -207,87 +219,106 @@ Or generally work through the problems of a fictional world.
 >> * **Sand mages** use precise magic that correlates to the number and placement of grains of sand they they either lay down on the ground or spray through the air. A sand caster is meticulous in their designs and tends to plan well in advance so they can create their sand patterns ahead of time. In terms of actual magic, there’s a heavy emphasis on the flow of time.
 >> * **Lava mages** utilize the flow. They carry rocks around with them, which they move in circles to heat; once they’ve made enough rotations and become hot enough, they turn liquid and the lava mage can maintain their circles in the air. They use these like whips and shields, altering the flows to do harm. It takes quite some time for them to spin up and spin down, but once they’re ready they’re formidable fighters.
 >> * **Ash mages** work with that which is ruined beyond repair. They use ash to evoke the spirit of that which has been burnt. A smear of sword-ash on the palm conjures a ghostly sword into the hand, which a smear of cuirass-ash on the chest conjures ghostly armor. Their true abilities extend beyond that though, since they can ritualistically burn things in order to see a whole version of them again - burning a corpse can allow them to use the ash to create a temporary ghost that can be talked to, or burning a ruined book can allow them to read that which has washed away.
->> 
 
-> **u/DataPacRat** [+6]  *Amateur Immortalist**
+> **u/DataPacRat** [+5]  *Amateur Immortalist* (57 minutes later)
 > 
 > A small experiment in:
-> **Crowd-sourcing Journalism**
-> It's 2038, employment is so scarce you're lucky to have a part-time journalism gig to supplement your negative income tax credits, and there hasn't been anything new today on the proposed Convention to Propose an Amendment to Balance the Budget, so you're chasing smaller stories.
-> You're virtually attending an AMA/scrum/press-conference about one of those digital copies of human brains, who accidentally got run really fast for who-knows-how-long, got brain damage - something about having to chop its brain-program into a hundred pieces - and just exited a hearing that judged it as competent to handle his affairs as any of the rest of its kind. It seems to have picked for its own avatar some sort of cute-and-fluffy centaur-shaped mouse-thing in a vest. And the prosecutor's there, says that it was a fresh copy, and it's been isolated, so it doesn't know anything about the world after its original human died in the teens.
-> What questions do you try to get answered? Which questions get up-voted to the top of the queue?
 > 
+> **Crowd-sourcing Journalism**
+> 
+> It's 2038, employment is so scarce you're lucky to have a part-time journalism gig to supplement your negative income tax credits, and there hasn't been anything new today on the proposed Convention to Propose an Amendment to Balance the Budget, so you're chasing smaller stories.
+> 
+> You're virtually attending an AMA/scrum/press-conference about one of those digital copies of human brains, who accidentally got run really fast for who-knows-how-long, got brain damage - something about having to chop its brain-program into a hundred pieces - and just exited a hearing that judged it as competent to handle his affairs as any of the rest of its kind. It seems to have picked for its own avatar some sort of cute-and-fluffy centaur-shaped mouse-thing in a vest. And the prosecutor's there, says that it was a fresh copy, and it's been isolated, so it doesn't know anything about the world after its original human died in the teens.
+> 
+> What questions do you try to get answered? Which questions get up-voted to the top of the queue?
 
->> **u/Tomas_Votava** [+4] *
+>> **u/Tomas_Votava** [+3]  (2 hours later)
 >> 
 >> what do you mean by 
->> >Which questions get up-voted to the top of the queue?
->> I'd like to know before answering.
 >> 
+>> >Which questions get up-voted to the top of the queue?
+>> 
+>> I'd like to know before answering.
 
->>> **u/DataPacRat** [+3]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+3]  *Amateur Immortalist* (2 hours later)
 >>> 
 >>> I'm trying to guesstimate journalistic practices 20 years from now, and am stealing a few concepts from the Reddit "AMAs", in which anyone can propose questions, anyone who wants can upvote or downvote said questions, and the questions which get the best set of votes bubble up to the top of the queue for the interviewee to see most easily. In this case, I'm translating that last bit to 'get asked first'.
->>> 
 
->> **u/Tomas_Votava** [+5] *
+>> **u/Tomas_Votava** [+5]  (3 hours later)
 >> 
 >> Mostly I would ask for more details on the experience and the aftereffects such as:
->> * Subjectively, how long were you ran really fast?
->> * Did you have any access to the internet?
->> * If no, in what way could you affect the world?
->> * Do you remember your life before the experience?
->> * What did the experience change about you?
 >> 
+>> * Subjectively, how long were you ran really fast?
+>> 
+>> * Did you have any access to the internet?
+>> 
+>> * If no, in what way could you affect the world?
+>> 
+>> * Do you remember your life before the experience?
+>> 
+>> * What did the experience change about you?
 
->>> **u/DataPacRat** [+2]  *Amateur Immortalist**
+>>> **u/DataPacRat** [+2]  *Amateur Immortalist* (6 hours later)
 >>> 
 >>> For possible follow-ups:
->>> >    Subjectively, how long were you ran really fast?
->>> "I didn't have access to any external clocks or long-term timekeeping devices, and there were long times I wasn't fully conscious. It was definitely more than a couple of years, definitely less than a few decades."
->>> >    Did you have any access to the internet?
->>> "Not one bit."
->>> >    If no, in what way could you affect the world?
->>> "It varied; at times I could edit the local simulation as I wished, at others I was completely subject to whatever setup something else imposed. I very much preferred the former times."
->>> >    Do you remember your life before the experience?
->>> "Of course. About as much as I remembered it when I died - not so much about my early school years."
->>> >    What did the experience change about you?
->>> "Other than having had to replace most of my visual cortex? ... Well, I'm definitely sure that I can be comfortable in my own company, and I've figured out my best possible study habits. And I am really, /really/ inclined to find out what I can do to keep anyone else from going through anything like what I did. Even if I don't have any human rights, there's plenty of reasons to reduce the sorts of gross negligence that led to this."
 >>> 
+>>> >    Subjectively, how long were you ran really fast?
+>>> 
+>>> "I didn't have access to any external clocks or long-term timekeeping devices, and there were long times I wasn't fully conscious. It was definitely more than a couple of years, definitely less than a few decades."
+>>> 
+>>> >    Did you have any access to the internet?
+>>> 
+>>> "Not one bit."
+>>> 
+>>> >    If no, in what way could you affect the world?
+>>> 
+>>> "It varied; at times I could edit the local simulation as I wished, at others I was completely subject to whatever setup something else imposed. I very much preferred the former times."
+>>> 
+>>> >    Do you remember your life before the experience?
+>>> 
+>>> "Of course. About as much as I remembered it when I died - not so much about my early school years."
+>>> 
+>>> >    What did the experience change about you?
+>>> 
+>>> "Other than having had to replace most of my visual cortex? ... Well, I'm definitely sure that I can be comfortable in my own company, and I've figured out my best possible study habits. And I am really, /really/ inclined to find out what I can do to keep anyone else from going through anything like what I did. Even if I don't have any human rights, there's plenty of reasons to reduce the sorts of gross negligence that led to this."
 
->>>> **u/Tomas_Votava** [+1] *
+>>>> **u/Tomas_Votava** [+1]  (11 hours later)
 >>>> 
 >>>> Another question: "Can you tell us more about how you got out of being overclocked?"
->>>> 
 
->>>>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>>>> **u/DataPacRat** [+1]  *Amateur Immortalist* (a day later)
 >>>>> 
 >>>>> "It's a years-long story. Oversimplifying a /lot/... There were other... processes running in that system, which I'm told is the whole point of the thing. I couldn't stop them, but early on, I figured out some of what they were doing - and I found out I was almost certainly going to be deleted. I studied something called 'homomorphic computation', and tried to make a backup copy of myself which wouldn't be deleted by the same process, but there were all sorts of issues, such as not having enough space for that backup, and before I solved them all... that copy of me was deleted, and eventually the backup was started up. Unfortunately, that copy of me was missing most of my visual cortex, and the patches I'd come up with only helped a little, and I was basically helpless for what I estimate were years before my brain adapted enough to let me become functional again. After that... it was mostly a matter of making more backups to survive the latest processes, waking up as one of the backups, and doing it again."
->>>>> 
 
-> **u/Tomas_Votava** [+5] *
+> **u/Tomas_Votava** [+5]  (2 hours later)
 > 
 > I'm trying to write an original fantasy story around a goblin main character which was inspired by a light novel goblin kingdom (a story that I don't recommend). As for worldbuilding I think I have a pretty unique magic system by which I mean I've never seen it before. It revolves around the entire magic system being intelligent but not sentient or aware. For me it explains how words being spoken or neurons firing can translate into a physical force like a fireball appearing out of thin air.
-> The magic system is very stupid. This also explains the creation of new magic as 'training' the magic system by thinking a certain way many times that is similar to thinking another way. so if you and enough people want the spell to be stronger then over the course of a century it becomes stronger, though it costs more mana to cast.
-> The residents themselves are unaware of the true nature of the magic system and have not taken advantage of this. There actually is a good reason that the people are unaware of this/live in the dark ages technology-wise.
-> There is a lot more worldbuilding I have planned but I don't want to spoil the story.
 > 
+> The magic system is very stupid. This also explains the creation of new magic as 'training' the magic system by thinking a certain way many times that is similar to thinking another way. so if you and enough people want the spell to be stronger then over the course of a century it becomes stronger, though it costs more mana to cast.
+> 
+> The residents themselves are unaware of the true nature of the magic system and have not taken advantage of this. There actually is a good reason that the people are unaware of this/live in the dark ages technology-wise.
+> 
+> There is a lot more worldbuilding I have planned but I don't want to spoil the story.
 
->> **u/Chronophilia** [+4]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+5]  *sci-fi ≠ futurology* (5 hours later)
 >> 
 >> >The magic system is very stupid. This also explains the creation of new magic as 'training' the magic system by thinking a certain way many times that is similar to thinking another way.
->> So, if I want to create a new spell, say to freeze water, should I stand by some freezing water while chanting "*Frigidero*" and waving my hands?
->> I think that could be really cool. Spells have to be trained on things that are possible without magic, but they can then be coaxed into doing it more powerfully or in different contexts (e.g. freezing a lake in summer).
 >> 
+>> So, if I want to create a new spell, say to freeze water, should I stand by some freezing water while chanting "*Frigidero*" and waving my hands?
+>> 
+>> I think that could be really cool. Spells have to be trained on things that are possible without magic, but they can then be coaxed into doing it more powerfully or in different contexts (e.g. freezing a lake in summer).
 
->>> **u/Tomas_Votava** [+2] *
+>>> **u/Tomas_Votava** [+2]  (11 hours later)
 >>> 
 >>> > So, if I want to create a new spell, say to freeze water, should I stand by some freezing water while chanting "Frigidero" and waving my hands?
->>> truthfully I haven't been thinking about the specifics as much as I should have been. Really I've been just thinking generalities. I also may have not been clear. It takes decades for the magic system to be trained in the slightest but once it learns the magic it does not forget. 
->>> Really that just applies to making new spells. You can still train your mind to go through certain patterns to access higher level spells. These spells can be recorded in ancient tomes or be taught from master to apprentice.
->>> Some magic, you can't even train for the reason for this lies in the ability of an individual to think certain ways. For example a bloodline might be DNA shaping your unconsious mind to be able to express certain concepts for certain magics more fluidly or at the same time another part of your mind is expressing another concept. This allows for one person to be able to access a certain spell while another person cannot.
->>> In my story magic has been used for around a thousand years and as a result there is a plethora of magic to use.
 >>> 
+>>> truthfully I haven't been thinking about the specifics as much as I should have been. Really I've been just thinking generalities. I also may have not been clear. It takes decades for the magic system to be trained in the slightest but once it learns the magic it does not forget. 
+>>> 
+>>> Really that just applies to making new spells. You can still train your mind to go through certain patterns to access higher level spells. These spells can be recorded in ancient tomes or be taught from master to apprentice.
+>>> 
+>>> Some magic, you can't even train for the reason for this lies in the ability of an individual to think certain ways. For example a bloodline might be DNA shaping your unconsious mind to be able to express certain concepts for certain magics more fluidly or at the same time another part of your mind is expressing another concept. This allows for one person to be able to access a certain spell while another person cannot.
+>>> 
+>>> In my story magic has been used for around a thousand years and as a result there is a plethora of magic to use.
 
 ---
 

@@ -18,159 +18,175 @@ The complexity of my thoughts on the issue isn't far beyond 'concentration camp 
 
 ### Comments:
 
-> **u/LupoCani** [+12] *
+> **u/LupoCani** [+12]  (13 minutes later)
 > 
 > So, cheap incarceration methods?
-> The first thing that comes to mind is the bomb collar. Leave the perimeter, attack somebody, cast a spell, try anything funny, your head is blown off. A system that errs on the side of prison integrity might generate false positives, creating a tenous and cruel existence, at relatively little cost to the incarcerators.
 > 
+> The first thing that comes to mind is the bomb collar. Leave the perimeter, attack somebody, cast a spell, try anything funny, your head is blown off. A system that errs on the side of prison integrity might generate false positives, creating a tenous and cruel existence, at relatively little cost to the incarcerators.
 
->> **u/SnowGN** [+4] *
+>> **u/SnowGN** [+4]  (20 minutes later)
 >> 
 >> I like this.
->> 
 
->>> **u/Imperialgecko** [+3] *
+>>> **u/Imperialgecko** [+3]  (14 hours later)
 >>> 
 >>> The only thing I'd worry about is that bomb-collars are a little overdone
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 days later)
 >>>> 
 >>>> I don't think that's a legitimate criticism. If something reliably works, then you'd expect to see it in common usage, specifically due to that proven reliability. 
->>>> It's like saying "Walls for prison cells are a little overdone". You're not wrong, exactly, but the walls are there for a reason. They work.
 >>>> 
+>>>> It's like saying "Walls for prison cells are a little overdone". You're not wrong, exactly, but the walls are there for a reason. They work.
 
->>>>> **u/Imperialgecko** [+3] *
+>>>>> **u/Imperialgecko** [+3]  (4 days later)
 >>>>> 
 >>>>> What I mean by overdone is that it used so much in literature that it sort of loses it's individual meaning, and is just sort of something everyone does. When you see a fantasy book and the main character starts off as a farm-boy discovering magic, it's not wrong, but the reader will know the trope in-depth and it's much harder to *add* anything to the trope that hasn't been done. People go into a book with a farm-boy main character with certain expectations, not because the book tells you this, but because you've read books like this. You expect the farm-boy to go to a big city, you expect them to be gullible, you expect them to be a good-person at heart, maybe fighting some sort of ancient evil. This doesn't mean that the farm-boy can't be conniving, jaded, and solely out for his own profit, it just means that when you have a farm-boy as your main character, a lot of people will but your book in this little group of "farm-boy main character" category, and now they are expecting something from your book that you didn't state.
->>>>> Similarily, bomb-collars are done quite a lot. That doesn't mean it's wrong, they can work great, it's just good to be aware that when you enter this territory of bomb-collars, people will have certain expectations of how it works. There will usually be, for example, that one person who runs away, or is some demonstration of how the collar works in the very beginning, and their head will be blown off and everyone will be "Golly, this sure is serious." 
->>>>> Plus, people get tired of the same idea/setting/power, and can unfairly put criticism on it because of other media like that. They'll see that element, for example magic schools, and go "Oh god, not another story about an awkward teen going through magic school, it's just a Harry Potter rip-off."
->>>>> So yes, I think that bomb-collars do work, they're an interesting idea that puts constant pressure on the character, and adds a lot of limitations that the character will have a hard time working around. But it does have a history in fiction, some people would consider it over-used, and there are tropes associated with it. So it's fine to write about it, it's fine to write about it while ignoring everything I said, you can still write a great book, but acknowledging that it might have some difficulties inherent with it will make it a lot easier to write about.
->>>>> And ultimately, instead of dealing with that, sometimes it's just easier to make up something new.
 >>>>> 
+>>>>> Similarily, bomb-collars are done quite a lot. That doesn't mean it's wrong, they can work great, it's just good to be aware that when you enter this territory of bomb-collars, people will have certain expectations of how it works. There will usually be, for example, that one person who runs away, or is some demonstration of how the collar works in the very beginning, and their head will be blown off and everyone will be "Golly, this sure is serious." 
+>>>>> 
+>>>>> Plus, people get tired of the same idea/setting/power, and can unfairly put criticism on it because of other media like that. They'll see that element, for example magic schools, and go "Oh god, not another story about an awkward teen going through magic school, it's just a Harry Potter rip-off."
+>>>>> 
+>>>>> So yes, I think that bomb-collars do work, they're an interesting idea that puts constant pressure on the character, and adds a lot of limitations that the character will have a hard time working around. But it does have a history in fiction, some people would consider it over-used, and there are tropes associated with it. So it's fine to write about it, it's fine to write about it while ignoring everything I said, you can still write a great book, but acknowledging that it might have some difficulties inherent with it will make it a lot easier to write about.
+>>>>> 
+>>>>> And ultimately, instead of dealing with that, sometimes it's just easier to make up something new.
 
->>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (a day later)
 >>> 
 >>> Could always go with shock collars instead.
->>> 
 
-> **u/Kinoite** [+12] *
+> **u/Kinoite** [+12]  (6 hours later)
 > 
 > Why am I in a death game?  And can I talk to the outside?
-> One possibility is that we opted-in to a season of Ironman-mode RPG.  So, 'death' is just perma-removal.  In this case, I'm OK killing my fellow PCs.  It's a valid tactic, and I'm not going to get punished after we all escape.
-> In that case, factions can just tell someone that they're confined to their room for the next 3 days.  If the person tries to escape, just stab them and don't feel bad about it.
-> Another possibility is that we're playing Sword Art Online.  Everyone's forced into the game.  We want to escape.  The real world government can probably watch us. 
-> In this case, killing is morally hard **and** means that I could get tried for murder when I get out of the game.  So I really, really don't want to kill anyone outside of immediate self-defense.
-> In this case, my thought is that I don't really need a prison (in the sense of a physical locale).  I just need a way to punish people, and to keep them from hurting anyone else for a while.
-> One option might be to exploit the way RPGs have so much exponential leveling and dependence on gear.
-> Anti-Social Bob is annoying.  The guild decides to sanction him.  So we strip him of his gear and drop him into the middle of an absurdly high-level town.   Bob is too low-level to hurt any of the PCs, and he can't meaningfully leave without getting eaten by monsters.
 > 
+> One possibility is that we opted-in to a season of Ironman-mode RPG.  So, 'death' is just perma-removal.  In this case, I'm OK killing my fellow PCs.  It's a valid tactic, and I'm not going to get punished after we all escape.
+> 
+> In that case, factions can just tell someone that they're confined to their room for the next 3 days.  If the person tries to escape, just stab them and don't feel bad about it.
+> 
+> Another possibility is that we're playing Sword Art Online.  Everyone's forced into the game.  We want to escape.  The real world government can probably watch us. 
+> 
+> In this case, killing is morally hard **and** means that I could get tried for murder when I get out of the game.  So I really, really don't want to kill anyone outside of immediate self-defense.
+> 
+> In this case, my thought is that I don't really need a prison (in the sense of a physical locale).  I just need a way to punish people, and to keep them from hurting anyone else for a while.
+> 
+> One option might be to exploit the way RPGs have so much exponential leveling and dependence on gear.
+> 
+> Anti-Social Bob is annoying.  The guild decides to sanction him.  So we strip him of his gear and drop him into the middle of an absurdly high-level town.   Bob is too low-level to hurt any of the PCs, and he can't meaningfully leave without getting eaten by monsters.
 
->> **u/Veedrac** [+2] *
+>> **u/Veedrac** [+2]  (a day later)
 >> 
 >> > So we strip him of his gear and drop him into the middle of an absurdly high-level town. Bob is too low-level to hurt any of the PCs, and he can't meaningfully leave without getting eaten by monsters.
->> This is the kind of thinking that makes rational fiction great. Excellent thinking outside the box; it would be really interesting to see the social effects of this kind of partitioning played out in a story, not just as a prison system. There are so many ways you could take this. Off the top of my head, black-market transportation, social hierarchies causing segregation, power monopolies and isolation, the effects on trade and how the extreme first-mover advantage affects the kinds of people in each group. Then you'd need an identity system for this to even work as a prison system, and putting that in place brings up a whole other section to explore.
 >> 
+>> This is the kind of thinking that makes rational fiction great. Excellent thinking outside the box; it would be really interesting to see the social effects of this kind of partitioning played out in a story, not just as a prison system. There are so many ways you could take this. Off the top of my head, black-market transportation, social hierarchies causing segregation, power monopolies and isolation, the effects on trade and how the extreme first-mover advantage affects the kinds of people in each group. Then you'd need an identity system for this to even work as a prison system, and putting that in place brings up a whole other section to explore.
 
-> **u/OutOfNiceUsernames** [+3]  *fear of last pages**
+> **u/OutOfNiceUsernames** [+3]  *fear of last pages* (10 hours later)
 > 
 > Oh, I think I read your question wrong at first. You mean the prison is not only built inside the VRMMO, but also *by* players of the same MMO and *for* other players of it, right?
-> >How would a prison be best implemented
-> Anyway, the answer would greatly depend on the game mechanics of this VRMMO, including its magical system and player interaction capabilities. Other important prerequisite questions: why can’t \ won’t the wardens just kill the prisoners instead of bothering with their incarceration, and why won’t the players just quit the game once they’ve been imprisoned?
 > 
+> >How would a prison be best implemented
+> 
+> Anyway, the answer would greatly depend on the game mechanics of this VRMMO, including its magical system and player interaction capabilities. Other important prerequisite questions: why can’t \ won’t the wardens just kill the prisoners instead of bothering with their incarceration, and why won’t the players just quit the game once they’ve been imprisoned?
 
->> **u/SnowGN** [+1] *
+>> **u/SnowGN** [+1]  (10 hours later)
 >> 
 >> Yes.
->> 1) it would be unethical and counterproductive to kill prisoners. Who would then surrender? - in the context of player vs player faction battles.
->> 2) logging out isn't an option.
 >> 
+>> 1) it would be unethical and counterproductive to kill prisoners. Who would then surrender? - in the context of player vs player faction battles.
+>> 
+>> 2) logging out isn't an option.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> If I'm understanding you correctly, different factions would have different prisons? Sounds like you have a lot of room to explore if you want it. I like /u/fljared's suggestion of using a world dungeon(if such things exist/could be built) best.
->>> To expand, a small group of prisoners is camped near/inside the entrance of a small dungeon. The entrance is protected from the outside by a guard house/warden barracks/cell door depending on how much resources the faction wants to spend. The guards give the prisoners a quota, x health potions/rat skulls/what ever and some rudimentary weapons. Maybe the prisoners have to capture their own food so the guards don't have to bother feeding them.
 >>> 
+>>> To expand, a small group of prisoners is camped near/inside the entrance of a small dungeon. The entrance is protected from the outside by a guard house/warden barracks/cell door depending on how much resources the faction wants to spend. The guards give the prisoners a quota, x health potions/rat skulls/what ever and some rudimentary weapons. Maybe the prisoners have to capture their own food so the guards don't have to bother feeding them.
 
->>> **u/usedemageht** [+1] *
+>>> **u/usedemageht** [+1]  (7 days later)
 >>> 
 >>> I think it's very important to take the magic and strength system into account in this question. Can magic be prevented by tools? Can an ungeared prisoner break shackles? Are there shackles that cannot be broken barehanded that are cheap?   
->>> Typically in mmos, other players can't affect others stats or actions aside from debuffs and similar, i.e you might need wardens to constantly update the debuffs, whether with spells/skills or poisons and similar. If they are also to be productive, making use of the prisoners skills (like blacksmithing, mining) could be a way to earn money, if such things exist. I assume resurrection is possible in a VR game. Then the prisoners could have their gear taken, but returned eventually along with their release, if they cooperate. Can they be visually scarred or modified without a cheap way to turn them back? Threaten with disfigurement. Prisoners can commit suicide - I think in a resurrecting scenario, best one can do is take their gear but show that it can be returned. Bore them, befriend them, give them things to do.  
->>> Edit: didn't notice the "death game" in OP, probably implies death has heavy penalty and suicide is low prio. Still, game system has to be known to design a prison
 >>> 
+>>> Typically in mmos, other players can't affect others stats or actions aside from debuffs and similar, i.e you might need wardens to constantly update the debuffs, whether with spells/skills or poisons and similar. If they are also to be productive, making use of the prisoners skills (like blacksmithing, mining) could be a way to earn money, if such things exist. I assume resurrection is possible in a VR game. Then the prisoners could have their gear taken, but returned eventually along with their release, if they cooperate. Can they be visually scarred or modified without a cheap way to turn them back? Threaten with disfigurement. Prisoners can commit suicide - I think in a resurrecting scenario, best one can do is take their gear but show that it can be returned. Bore them, befriend them, give them things to do.  
+>>> 
+>>> Edit: didn't notice the "death game" in OP, probably implies death has heavy penalty and suicide is low prio. Still, game system has to be known to design a prison
 
-> **u/fljared** [+2]  *United Federation of Planets**
+> **u/fljared** [+2]  *United Federation of Planets* (3 hours later)
 > 
 > Depends, I suppose, on whether there's a functioning government, or just a collection of local factions. 
-> If the latter, and ethics aren't a problem, you could have them in a basic locked cell, plus or minus teleport jammers or mana drainers, if such things exist and are needed.
-> If you'd like to have slaves, you could have them do tedious tasks which, if repeated a lot, give out moderate resources. Having them do basic farming/fishing/mining minigames to get the basic resources of production are good, since it can be run by anyone regardless of level and can be overseen by a guard with the only weapons/mana availible. 
-> A few well-behaved prisoners could be given early level blades and put in parties with a well-armored guard to farm pig-skins from level 1 boars.
-> If you have control over the only entrance and exit to some dungeon/instance, you send in a few lesser-liked prisoners to farm for mid-level gear, with some higher-level guards on the outside to prevent any funny business. 
-> Those last two do leave the danger of an inmate leveling too high for safety, but if you can see stats in some way that's controllable.
 > 
+> If the latter, and ethics aren't a problem, you could have them in a basic locked cell, plus or minus teleport jammers or mana drainers, if such things exist and are needed.
+> 
+> If you'd like to have slaves, you could have them do tedious tasks which, if repeated a lot, give out moderate resources. Having them do basic farming/fishing/mining minigames to get the basic resources of production are good, since it can be run by anyone regardless of level and can be overseen by a guard with the only weapons/mana availible. 
+> 
+> A few well-behaved prisoners could be given early level blades and put in parties with a well-armored guard to farm pig-skins from level 1 boars.
+> 
+> If you have control over the only entrance and exit to some dungeon/instance, you send in a few lesser-liked prisoners to farm for mid-level gear, with some higher-level guards on the outside to prevent any funny business. 
+> 
+> Those last two do leave the danger of an inmate leveling too high for safety, but if you can see stats in some way that's controllable.
 
-> **u/ShiranaiWakaranai** [+2] *
+> **u/ShiranaiWakaranai** [+2]  (4 hours later)
 > 
 > Is there any reason why you can't just dig a pit somewhere and throw the criminals in?  If hunger is an actual issue, you could just throw food in every now and then, simple enough. If they can use magic to fly out, line the walls with anti magic stone. If they can climb, cover the pit with a hard lid and a stupidly heavy rock, with only a small hole to throw in food.
-> For added security, you could make the prison in right next to a raid boss that takes way more people to kill than the number of criminals in the prison. That way if they get out, the raid boss kills them.
-> > secure and profitable for the prison wardens
-> If you want profits, you could hold a death game within the death game. Make the prisoners play games with their lives at stake, and sell tickets to watch. Or well, regular gladiator style fights and betting works too.
-> Alternatively, with the world being a death game and all, there's plenty of uses for guinea pigs, sending criminals into dangerous areas first to check if they are safe. Lease out your criminals for profits if you don't care about their lives.
 > 
+> For added security, you could make the prison in right next to a raid boss that takes way more people to kill than the number of criminals in the prison. That way if they get out, the raid boss kills them.
+> 
+> > secure and profitable for the prison wardens
+> 
+> If you want profits, you could hold a death game within the death game. Make the prisoners play games with their lives at stake, and sell tickets to watch. Or well, regular gladiator style fights and betting works too.
+> 
+> Alternatively, with the world being a death game and all, there's plenty of uses for guinea pigs, sending criminals into dangerous areas first to check if they are safe. Lease out your criminals for profits if you don't care about their lives.
 
-> **u/stale2000** [+2] *
+> **u/stale2000** [+2]  (7 days later)
 > 
 > "How would a prison be best implemented, knowing that magic exists and player factions would be hesitant to spend much resources, in wealth or manpower, on the issue?"
-> I believe that your fundamental premise is incorrect.
-> Prisons in a "death is real" anything goes, PvP, sandbox game would be extremely valuable for a player faction, and I believe that people would be willing to spend lots of resources on them.
-> BUT, you could add on some sort of prison labor system.  Maybe there is a crafting system that requires lots of repetitive, and time heavy labor. Or maybe players generate mana over time, and you can harvest that mana from the prisoners.
 > 
+> I believe that your fundamental premise is incorrect.
+> 
+> Prisons in a "death is real" anything goes, PvP, sandbox game would be extremely valuable for a player faction, and I believe that people would be willing to spend lots of resources on them.
+> 
+> BUT, you could add on some sort of prison labor system.  Maybe there is a crafting system that requires lots of repetitive, and time heavy labor. Or maybe players generate mana over time, and you can harvest that mana from the prisoners.
 
-> **u/caverts** [+1] *
+> **u/caverts** [+1]  (3 hours later)
 > 
 > Depending on the game system, getting prisoners to comply could actually be more difficult than you might think. Most MMOs today have a "/kill" command that causes the player to commit suicide. Even if your game doesn't, players can probably kill themselves/eachother by other means. As a result, the inconvenience associated with being in prison can't be higher than the cost of dying, otherwise the inmates will choose the death.
-> Of course, the wardens can take other actions to impose costs on inmates who escape like this. For example, they could take some of the prisoner's items and only return them when the sentence is over, but then you have to answer the question "why don't the wardens just keep the items?" since doing so is almost always going to be more profitable than forcing the inmates to work to get them back (can you see why this is the case?).
-> If it's a large government doing the imprisoning, then things become a bit easier because the govt can declare escapees 'enemies of the state' and impose serious costs on them.
 > 
+> Of course, the wardens can take other actions to impose costs on inmates who escape like this. For example, they could take some of the prisoner's items and only return them when the sentence is over, but then you have to answer the question "why don't the wardens just keep the items?" since doing so is almost always going to be more profitable than forcing the inmates to work to get them back (can you see why this is the case?).
+> 
+> If it's a large government doing the imprisoning, then things become a bit easier because the govt can declare escapees 'enemies of the state' and impose serious costs on them.
 
->> **u/eternal-potato** [+3]  *he who vegetates**
+>> **u/eternal-potato** [+3]  *he who vegetates* (3 hours later)
 >> 
 >> You seem to have missed Death Is Real part.
->> 
 
-> **u/vorpal_potato** [+1] *
+> **u/vorpal_potato** [+1]  (6 hours later)
 > 
 > Make a procedurally generated continent and exile people to it. Why not? Land may be expensive in the real world, but in a virtual one there's no inherent reason why you have to economize on real estate for prisoners, or build walls with barbed wire when you can just use sufficiently large oceans.
-> This may not apply to your setting -- like, your players may not be able to make changes to the map -- but in general it's worth thinking about ways that VRMMOs can be different from the real world.
 > 
+> This may not apply to your setting -- like, your players may not be able to make changes to the map -- but in general it's worth thinking about ways that VRMMOs can be different from the real world.
 
-> **u/MultipartiteMind** [+1] *
+> **u/MultipartiteMind** [+1]  (8 hours later)
 > 
 > (First thing that comes to mind:  drop players into a room through a hatch with no other (normally-usable) exits.  If killing each other or digging a hole through the walls with fingernails is a concern, immobilise them (with chains or similar) before dropping them in.  If no food/water causes death, then perhaps immobilised players in a row and one person dropping food/water into their mouths at a set time (or force-feeding).  Assuming that use of magic can be reliably prevented when desired (lack of reagents/sealing hand signs/cutting out or otherwise doing something to the tongue).  If others can't be fed, then can't prevent suicide-by-thirst, but could take prisoners one by one to a 'feeding room' where they could eat before being rebound.  More guards necessary if so.  Oh, depending on the scope of the magic system (and any real-brain limitations), keeping prisoners constantly asleep/unconscious through magic might be convenient, though it would probably have terrible effects on a living brain's health (if even possible--that said, the tedium would also have bad effects).)
-> 
 
-> **u/butsumetsu** [+1] *
+> **u/butsumetsu** [+1]  (14 hours later)
 > 
 > normally a mmo prison would be a small zone where everything is null as long as you are labeled as a prisoner. so all of your skills and stats are basically 0, without that then it's pointless.
-> You really can't force someone not to log out (that seems gamebreaking if it's player imposed) but you can set a duration as to how long they need to stay in the prison. Set like 1 week IRL of unable to use your character. If time magic exist, maybe create a zone where there is time dilation.
-> If there's no mechanism to establish a null zone, then what about implementing mechanics that impose debuffs on the "prisoner" that achieve the same thing.
-> is it a vrmmo? if so then it's kinda easier to implement a no log out feature in a area but like I said it's kinda gamebreaking since it would mean bypassing whatever safety features has been implemented. if it's not then vrmmo then the player can just get off their chair and do whatever and wait it out.
 > 
+> You really can't force someone not to log out (that seems gamebreaking if it's player imposed) but you can set a duration as to how long they need to stay in the prison. Set like 1 week IRL of unable to use your character. If time magic exist, maybe create a zone where there is time dilation.
+> 
+> If there's no mechanism to establish a null zone, then what about implementing mechanics that impose debuffs on the "prisoner" that achieve the same thing.
+> 
+> is it a vrmmo? if so then it's kinda easier to implement a no log out feature in a area but like I said it's kinda gamebreaking since it would mean bypassing whatever safety features has been implemented. if it's not then vrmmo then the player can just get off their chair and do whatever and wait it out.
 
-> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (14 hours later)
 > 
 > Not prison. Exiles. YOu just no longer allow them in your towns.
-> 
 
->> **u/SnowGN** [+1] *
+>> **u/SnowGN** [+1]  (15 hours later)
 >> 
 >> Then they wreak havoc in nearby territory, including player built and owned towns.
->> 
 
->>> **u/stale2000** [+1] *
+>>> **u/stale2000** [+1]  (7 days later)
 >>> 
 >>> But that sounds like an interesting concept to explore.  Maybe some factions imprison people.  Maybe others don't bother spending the resources, and just exile them. causing interesting plot points to develop.
->>> 
 
 ---
 

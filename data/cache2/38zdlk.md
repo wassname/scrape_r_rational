@@ -30,46 +30,45 @@ I was just wondering whether anyone else had opinions on the topic.
 
 ### Comments:
 
-> **u/alexanderwales** [+17]  *Time flies like an arrow**
+> **u/alexanderwales** [+17]  *Time flies like an arrow* (2 hours later)
 > 
 > Generally speaking, alt-history does a lot better than any other sub-genre of speculative fiction. The biggest reason for this is that the authors who have an interest in alt-history also have an interest in history itself, which usually means having a more analytical mind, and often means better exercising empathy for people (because you want to know what life was actually like during the American Revolutionary War, so you go reading soldiers journals instead of imagining them as heroes). If you really care about history, you're less likely to view things in black and white, because you're driven by a need to understand.
-> Which is not to say that people can't screw it up. *Sometimes* alt-history is just a way of projecting the author's own personal politics onto a world of their own creation. There's a sub-genre of alt-history where the point of divergence is a group of people getting sent back in time with no hope of return to the future, and often these people are American military, and often the plot and characterization warps itself around how great the American military is.
-> By and large though, most alt-history novels can be summed up with, "What if *X*?" which tends to make them rule-based, and which in turn tends to push them more toward "rational".
-> (You might be interested in [this discussion on the 1632 series](http://www.reddit.com/r/rational/comments/2pks6g/1632_and_its_spinoffs_evaluated_as_rational/) by Eric Flint from half a year ago, though that's much more focused than your question.)
 > 
+> Which is not to say that people can't screw it up. *Sometimes* alt-history is just a way of projecting the author's own personal politics onto a world of their own creation. There's a sub-genre of alt-history where the point of divergence is a group of people getting sent back in time with no hope of return to the future, and often these people are American military, and often the plot and characterization warps itself around how great the American military is.
+> 
+> By and large though, most alt-history novels can be summed up with, "What if *X*?" which tends to make them rule-based, and which in turn tends to push them more toward "rational".
+> 
+> (You might be interested in [this discussion on the 1632 series](http://www.reddit.com/r/rational/comments/2pks6g/1632_and_its_spinoffs_evaluated_as_rational/) by Eric Flint from half a year ago, though that's much more focused than your question.)
 
->> **u/Nepene** [+2] *
+>> **u/Nepene** [+2]  (15 hours later)
 >> 
 >> My summary of the points of advice in that thread you helpfully linked, from you and others.
->> One should make sure technology advances beyond the modern day in time travel stories so there can be some excitement, not get too bogged down in the details of logistics.
->> They should have a wide focus on all of the downstream effects of whatever change, rationally thinking of all the likely consequences.
->> They can suffer from the average person not being very intelligent or rational in dealing with people. It's hard to write level 2 intelligence characters.
 >> 
+>> One should make sure technology advances beyond the modern day in time travel stories so there can be some excitement, not get too bogged down in the details of logistics.
+>> 
+>> They should have a wide focus on all of the downstream effects of whatever change, rationally thinking of all the likely consequences.
+>> 
+>> They can suffer from the average person not being very intelligent or rational in dealing with people. It's hard to write level 2 intelligence characters.
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (19 hours later)
 >> 
 >> It probably was meant as a parody of alternate-history, but it shows very well how writing alternate-history [can go horribly, yet hilariously wrong](http://www.leasticoulddo.com/comic/20081226/).
->> 
 
-> **u/Bowbreaker** [+3]  *Solitary Locust**
+> **u/Bowbreaker** [+3]  *Solitary Locust* (10 hours later)
 > 
 > Only if it is written well.
-> 
 
-> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (18 hours later)
 > 
 > Depends on if the person simply has a particular story and narrative they want to shoehorn into a particular situation, or if they're instead extrapolating from what people and countries might do in a given situation.
-> 
 
-> **u/RMcD94** [+1] *
+> **u/RMcD94** [+1]  (8 hours later)
 > 
 > /r/HistoryWhatIf is I believe the most active subreddit on althistory and you're right that they don't exhibit many of the obvious flaws of other stories. I think a large part of this is due to the focus usually not on an individual but on the world as a whole whereas many stories, shows, anime, etc focus on individuals emotional reactions to world-changing events and their individual decisions regarding them which leads to one, more obvious idiot balls and two, a restricted narrative perspective which causes some creators to limit their choices.
-> 
 
-> **u/LiteralHeadCannon** [+1] *
+> **u/LiteralHeadCannon** [+1]  (4 days later)
 > 
 > Has anyone here read the Worldwar series by Turtledove, where an alien invasion interrupts World War II?  It has some interesting themes re:humanity and human thought, as I recall, though it's been years since I read them.
-> 
 
 ---
 

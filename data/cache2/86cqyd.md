@@ -20,15 +20,13 @@ Critique and praise appreciated, it helps feed my writing.
 
 ### Comments:
 
-> **u/Flashbunny** [+5] *
+> **u/Flashbunny** [+6]  (a day later)
 > 
 > This is really very good, and I recommend anyone thinking about giving it a go to do so - it seems like some very well thought out universe-building, from what's been shown so far.
-> 
 
-> **u/Nighzmarquls** [+2] *
+> **u/Nighzmarquls** [+2]  (a day later)
 > 
 > And that is episode II done, Interlude/Time with Tunie update this sunday!
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Kizadek *
 * URL: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
-* Score: 55
+* Score: 53
 
 * Created: 2018-07-07T19:33:42
 
@@ -12,161 +12,161 @@
 
 ### Comments:
 
-> **u/Kizadek** [+17] *
+> **u/Kizadek** [+16]  (4 minutes later)
 > 
 > These stories follow Hermione Granger's perspective through the 7 HP Books with significant changes. The largest change is that Hermione is a math genius by muggle standards, and also a genius in arithmancy once she is introduced to the world of magic. Many of the plot points throughout the series are solved purely through mathematics, or through the mathematical invention of new spells. The 7 books are just over 1.1 million words all told.
-> 
 
-> **u/blast_ended_sqrt** [+9] *
+> **u/blast_ended_sqrt** [+8]  (13 minutes later)
 > 
 > ooh is this finished now? I LOVED the first few books, I think the fic developed issues with pacing later on, but if it's done I'll definitely binge the rest of it.
-> 
 
->> **u/Kizadek** [+11] *
+>> **u/Kizadek** [+9]  (17 minutes later)
 >> 
 >> yep, she announced a spin-off, but the 7 years are finished, and the plot was summed up nicely. There are definitely pacing problems, but without professional editing, that is probably just to be expected. Fortunately, I stumbled upon it like 2 months ago, so I binged up to the last battle, then waited for updates.
->> 
 
->>> **u/TheWhiteSquirrel** [+6] *
+>>> **u/TheWhiteSquirrel** [+5]  (22 hours later)
 >>> 
 >>> Thanks for the recommendation. I'm glad you liked it. Although, for the record, I'm a guy.
->>> 
 
->>>> **u/Kizadek** [+2] *
+>>>> **u/Kizadek** [+2]  (23 hours later)
 >>>> 
 >>>> Whoops, my sincerest apologies.
->>>> 
 
->> **u/MoralRelativity** [+1] *
+>> **u/MoralRelativity** [+1]  (5 days later)
 >> 
 >> IMO pacing is slow at first but it picks up very nicely towards the end and the climax is well and truely worth the time spent reading it.
->> 
 
-> **u/Ardvarkeating101** [+20]  *Father of Learning**
+> **u/Ardvarkeating101** [+18]  *Father of Learning* (8 hours later)
 > 
 > God, the first book was okay but the second one jacked her off so bad I’m surprised she can still walk straight.  Seriously, she became such an incredible Mary Sue I couldn’t take it any longer and stopped in the late 60’s I think?.  I mean, fucking barbed wire = WOW SHE’S SUCH A COOL SCARY GENIUS SHE’S SO AWESOME FOR USING A BASIC PIECE OF MILITARY EQUIPMENT AND APPLYING IT 
-> Not to mention the plot holes you could drive a truck through in regards to her fucking up the war effort (by ignoring all viable solutions) in a way that would make HJPEV cringe.
 > 
+> Not to mention the plot holes you could drive a truck through in regards to her fucking up the war effort (by ignoring all viable solutions) in a way that would make HJPEV cringe.
 
->> **u/Caliburn0** [+7] *
+>> **u/Caliburn0** [+5]  (15 hours later)
 >> 
 >> I don't see that. One, the wire was new for wizards, and it was made of carbon nanotubes. So it could be incredibly small and hard to spot. Her genius wasn't in using it, it was inventing the spell system that allowed for that sort of molecular reconstruction in the first place. She uses the same system to solve a variety of different problems.
->> And what plot holes? I've read the thing twice now, and I feel I am fairly adept at spotting them. But I can't really think of any major ones.
 >> 
+>> And what plot holes? I've read the thing twice now, and I feel I am fairly adept at spotting them. But I can't really think of any major ones.
 
->>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (18 hours later)
 >>> 
 >>> Ending the war in half an hour?  Sniper rifles, imperious, the fucking taboo is a 100% guaranteed way of getting enemy soldiers where you want them.  Get them into a landmine infested hellscape with anti-apparition wards out the wazoo with toxic gas and flash bangs and all manner of traps to make sure they’re not getting out again.  Hell, get yourself a hazmat suit, fill a room with mustard gas and *then* see how they like sending troops to your location.   Then say the taboo again and again and again to decimate their forces in mere minutes.
->>> All of which she didn’t use because.... apparently she wanted to fight fair or something retarded like that.
 >>> 
+>>> All of which she didn’t use because.... apparently she wanted to fight fair or something retarded like that.
 
->>>> **u/Caliburn0** [+12] *
+>>>> **u/Caliburn0** [+12]  (18 hours later)
 >>>> 
 >>>> The taboo abuse would only get a couple of low level goons, at substantial risk to themselves. The death eaters aren't total idiots. After the first couple didn't report back, they would know something is up. Also, if you break the taboo, the national rune network would destroy your wards (unless you were Hogwarts). They even discussed the idea at one point (regarding the preparations for the tongue locking ritual), then dismissed it. They aren't fighting NPCs here.
->>>> 
 
->>>>> **u/Ardvarkeating101** [-3]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [-3]  *Father of Learning* (18 hours later)
 >>>>> 
 >>>>> The death eaters *are* idiots, that’s basically their defining trait.  
->>>>> And you didn’t address the chlorine gas room point, the point that you permanently end the taboo as a threat, sniper rifles, imperious, hand grenade owls the list goes on.
->>>>> For fucks’ sake they have so many methods of murdering their enemies, especially when they *know that there are tons of death eaters and traitors in the ministry building*, and they use exactly none for cheap drama and Hermione’s ego.
 >>>>> 
+>>>>> And you didn’t address the chlorine gas room point, the point that you permanently end the taboo as a threat, sniper rifles, imperious, hand grenade owls the list goes on.
+>>>>> 
+>>>>> For fucks’ sake they have so many methods of murdering their enemies, especially when they *know that there are tons of death eaters and traitors in the ministry building*, and they use exactly none for cheap drama and Hermione’s ego.
 
->>>>>> **u/Caliburn0** [+3] *
+>>>>>> **u/Caliburn0** [+3]  (22 hours later)
 >>>>>> 
 >>>>>> The death eaters aren't idiots in this series. Sure, Voldemort has gone mad from all the horcruxes he made, but he still retains a reasonable facsimile of his once great intellect. There are also death eaters that are shown to be genuinely competent, and even smart. Such as Barty Crouch Jr., Rookwood, and Bellatrix (although she is probably even more crazy than Riddle.)
->>>>>> Hermione did use gas at least once, as far as I can remember.  Anyway, she does have gas canisters, or even transfiguration as an option, but as with every other tool, it has limitations. It can be swept away with wind, or maybe just force manipulation. Countered with a bubble head charm, or similar. And they rarely fight in an enclosed room anyway. And getting time to prepare is a luxury they have only gotten a couple of times.
->>>>>> And they're not trying to murder all their enemies. They're trying to murder Voldemort, everyone else is just in the way. Killing Voldie would take a lot more than just a grenade or a sniper rifle (which they actually tried at one point, the guy who used it got his hands ruined by a preset curse, and Voldie was unharmed.)
->>>>>> They try multiple ways of killing him, but the ritual is the thing that does him in. They had other plans for if that didn't work. But it seemed like it was their best option.
->>>>>> The taboo is still a threat. It breaks through any conventional wards, and pinpoint your location. If the first couple gets taken out, they can just send in more from farther away and be more cautious, and the dark side outnumber the light by a massive margin.
->>>>>> So no, it isn't easy to topple an immortal dark overlord.
 >>>>>> 
+>>>>>> Hermione did use gas at least once, as far as I can remember.  Anyway, she does have gas canisters, or even transfiguration as an option, but as with every other tool, it has limitations. It can be swept away with wind, or maybe just force manipulation. Countered with a bubble head charm, or similar. And they rarely fight in an enclosed room anyway. And getting time to prepare is a luxury they have only gotten a couple of times.
+>>>>>> 
+>>>>>> And they're not trying to murder all their enemies. They're trying to murder Voldemort, everyone else is just in the way. Killing Voldie would take a lot more than just a grenade or a sniper rifle (which they actually tried at one point, the guy who used it got his hands ruined by a preset curse, and Voldie was unharmed.)
+>>>>>> 
+>>>>>> They try multiple ways of killing him, but the ritual is the thing that does him in. They had other plans for if that didn't work. But it seemed like it was their best option.
+>>>>>> 
+>>>>>> The taboo is still a threat. It breaks through any conventional wards, and pinpoint your location. If the first couple gets taken out, they can just send in more from farther away and be more cautious, and the dark side outnumber the light by a massive margin.
+>>>>>> 
+>>>>>> So no, it isn't easy to topple an immortal dark overlord.
 
->>>>>>> **u/tobias3** [+2] *
+>>>>>>> **u/tobias3** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> I gave up on this fiction when she got captured in Malfoy manor (like in canon). If the death eaters aren't stupid, that's game over.
->>>>>>> I tried to start again yesterday there, but they were still using stunner spells in this situation. A stunned enemy is one enervate from killing you away. This isn't how one wins any fights where one doesn't have massive superiority. So she (presumably) only wins the fight because of author fiat.
 >>>>>>> 
+>>>>>>> I tried to start again yesterday there, but they were still using stunner spells in this situation. A stunned enemy is one enervate from killing you away. This isn't how one wins any fights where one doesn't have massive superiority. So she (presumably) only wins the fight because of author fiat.
 
->>>>>>>> **u/Caliburn0** [+1] *
+>>>>>>>> **u/Caliburn0** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> They are using stunners because that is the easiest and often the most effective. It is the go to combat spell for basically everyone. They do kill. Multiple times, but besides Hermione, none of them really uses truly dark magic to fight (and even she uses it very sparingly), it is explained as dark magic having a corrupting effect. Spells that kill are generally considered dark, with a few exceptions. A few of Hermione's own invented spells can be lethal without being dark because they are highly technical, (using techniques from martial arts to stop a heart, for instance) but most  spells that kill are dark magic, and they try to avoid that. (Not that they don't use them at all, but they try not to.
->>>>>>>> But I can't force you to like the story. Even if it is one of my favourites, we'll just have to agree to disagree on this one.
 >>>>>>>> 
+>>>>>>>> But I can't force you to like the story. Even if it is one of my favourites, we'll just have to agree to disagree on this one.
 
->>>> **u/Evan_Th** [+2]  *Sunshine Regiment**
+>>>> **u/Evan_Th** [+2]  *Sunshine Regiment* (20 hours later)
 >>>> 
 >>>> Hermione tried exploiting the Taboo a couple times when Hermione bound her tongue.  They got a few Death Eaters, but - like you said - they knew it wouldn't keep working.
->>>> And once you can't summon enemy troops to your location by the Taboo, a whole lot of your other ideas also fail.
->>>> I won't say Hermione was flawless - she should never have been in the raid on Malfoy Manor, and at the very least she shouldn't have brought her notes with her - but that isn't a problem.
 >>>> 
+>>>> And once you can't summon enemy troops to your location by the Taboo, a whole lot of your other ideas also fail.
+>>>> 
+>>>> I won't say Hermione was flawless - she should never have been in the raid on Malfoy Manor, and at the very least she shouldn't have brought her notes with her - but that isn't a problem.
 
->>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (20 hours later)
 >>>>> 
 >>>>> Okay.  Follow me on this bit of idiocy.  She can transfigure things like crazy right?  Huge amounts of whatever so long as it's not too complex?
->>>>> Take Harry's invisibility cloak.  Walk into the ministry.  Either A. Imperious everyone who walks by and end the war in an hour or B. Wear a gas mask and transfigure huge amounts of carbon monoxide.  Everyone passes out, you can headshot the obvious death eaters and traitors, stun everyone else, then imperious/veritaserum them one at a time to see who's working for who.  You win the war in an afternoon.
->>>>> **Think for 5 minutes**.  Remember the founding story of this subreddit.  5 fucking minutes of thought over how she could win the war, and there are just so many goddamn options that she decided not to use because she's either an idiot or insane it drives me nuts when people defend this story.
->>>>> It's not rational!  It's not smart!  It's the author warping the world around her precious protagonist so no one notices the gaping stupidity!  And she didn't even **try** to use the taboo to kill them.  She used the taboo because she needed some ritual or some stupid crap and didn't do it in a room full of mustard gas because she's an idiot!
 >>>>> 
+>>>>> Take Harry's invisibility cloak.  Walk into the ministry.  Either A. Imperious everyone who walks by and end the war in an hour or B. Wear a gas mask and transfigure huge amounts of carbon monoxide.  Everyone passes out, you can headshot the obvious death eaters and traitors, stun everyone else, then imperious/veritaserum them one at a time to see who's working for who.  You win the war in an afternoon.
+>>>>> 
+>>>>> **Think for 5 minutes**.  Remember the founding story of this subreddit.  5 fucking minutes of thought over how she could win the war, and there are just so many goddamn options that she decided not to use because she's either an idiot or insane it drives me nuts when people defend this story.
+>>>>> 
+>>>>> It's not rational!  It's not smart!  It's the author warping the world around her precious protagonist so no one notices the gaping stupidity!  And she didn't even **try** to use the taboo to kill them.  She used the taboo because she needed some ritual or some stupid crap and didn't do it in a room full of mustard gas because she's an idiot!
 
->>>>>> **u/Evan_Th** [+3]  *Sunshine Regiment**
+>>>>>> **u/Evan_Th** [+5]  *Sunshine Regiment* (20 hours later)
 >>>>>> 
 >>>>>> The Imperius plan evidently wouldn't work, because if it did then someone else - like Voldemort - would've exploited it already.
->>>>>> Carbon monoxide (or some other poisonous gas) is an interesting idea; Hermione [did try a variant on it after Fifth Year](https://www.fanfiction.net/s/11463030/31/Lady-Archimedes).  I'm not sure why she didn't try it again, but perhaps she thought they'd have precautions, or - more likely - they might, and the damage caused by failure if they did would be too large?
 >>>>>> 
+>>>>>> Carbon monoxide (or some other poisonous gas) is an interesting idea; Hermione [did try a variant on it after Fifth Year](https://www.fanfiction.net/s/11463030/31/Lady-Archimedes).  I'm not sure why she didn't try it again, but perhaps she thought they'd have precautions, or - more likely - they might, and the damage caused by failure if they did would be too large?
 
->>>>>>> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (20 hours later)
 >>>>>>> 
 >>>>>>> > The Imperius plan evidently wouldn't work, because if it did then someone else - like Voldemort - would've exploited it already.
->>>>>>> Ah, of course.  If no one notices something that could work, then clearly it must not work, because that's totally not the definition of a plot hole. 
->>>>>>> >Carbon monoxide (or some other poisonous gas) is an interesting idea; Hermione did try a variant on it after Fifth Year. I'm not sure why she didn't try it again, but perhaps she thought they'd have precautions, or - more likely - they might, and the damage caused by failure if they did would be too large?
->>>>>>> And if someone does something that works, never doing it again also makes perfect sense.  Especially if she (I think) uses it in combat the first time, doing it in a controlled environment is definitely less safe.  Especially if it's never mentioned again.
->>>>>>> I'm not saying this a horrible story.  I'm saying it's not rational and does not belong on this subreddit.
 >>>>>>> 
+>>>>>>> Ah, of course.  If no one notices something that could work, then clearly it must not work, because that's totally not the definition of a plot hole. 
+>>>>>>> 
+>>>>>>> >Carbon monoxide (or some other poisonous gas) is an interesting idea; Hermione did try a variant on it after Fifth Year. I'm not sure why she didn't try it again, but perhaps she thought they'd have precautions, or - more likely - they might, and the damage caused by failure if they did would be too large?
+>>>>>>> 
+>>>>>>> And if someone does something that works, never doing it again also makes perfect sense.  Especially if she (I think) uses it in combat the first time, doing it in a controlled environment is definitely less safe.  Especially if it's never mentioned again.
+>>>>>>> 
+>>>>>>> I'm not saying this a horrible story.  I'm saying it's not rational and does not belong on this subreddit.
 
->>>>>>>> **u/Evan_Th** [+2]  *Sunshine Regiment**
+>>>>>>>> **u/Evan_Th** [+2]  *Sunshine Regiment* (21 hours later)
 >>>>>>>> 
 >>>>>>>> The story definitely could have been more rational; say, by explicitly talking about those things.  But... I guess this goes back to the "Definition of RatFic" discussion running in another thread, but I think rationality in stories is on a continuum.  This has enough of the traits of rationalfic that I'm still willing to say it belongs here.
->>>>>>>> 
 
->>>>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (21 hours later)
 >>>>>>>>> 
 >>>>>>>>> Look, if this was some amazing character piece or a metaphor about life or something then I could accept they didn’t do something for the sake of the story, but this is an adventure story first and foremost and it does that poorly.
->>>>>>>>> 
 
->>>>>>>>> **u/Croktopus** [+2] *
+>>>>>>>>> **u/Croktopus** [+2]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> While I will say that I'm not as...violently opposed to the story, he's not wrong. I think this story has enough staples of ratfic to evoke those feelings, but i honestly just think it's poorly done (though im bored enough at work that im gonna finish it anyways).
->>>>>>>>> i think it can be here, sure, but i dont think its particularly rational ratfic
 >>>>>>>>> 
+>>>>>>>>> i think it can be here, sure, but i dont think its particularly rational ratfic
 
-> **u/Elec0** [+9] *
+> **u/Elec0** [+7]  (3 hours later)
 > 
 > I love both of these stories. They aren't perfect, sure, but it's very worth reading imo, and I'm very happy that it's finished finally! Mad props to the author for sticking with it and making two great works.
-> 
 
-> **u/ketura** [+6]  *Organizer**
+> **u/ketura** [+6]  *Organizer* (an hour later)
 > 
 > Oh neat, it finished. It's definitely got some nice "beating magic with the power of SCIENCE" moments in it, although it mostly preserves the canon plot and characterization, to the point of occasionally directly quoting canon.
-> 
 
-> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (3 days later)
 > 
 > I tried reading another work of this author's, the Accidental Animagus, up until the reveal in book 4 that yes there is an afterlife, none of the characters ever really died! It doesn't matter anymore what will happen to the characters because their perfect happy ending is already spoiled! It sucked the dramatic tension right out of the story and I couldn't keep reading.
-> Does the same thing happen in the Arithmancer? Please tell me it doesn't.
 > 
+> Does the same thing happen in the Arithmancer? Please tell me it doesn't.
 
->> **u/ZeCatox** [+2] *
+>> **u/ZeCatox** [+2]  (3 days later)
 >> 
 >> I don't know how it's treated in Accidental Animagus, but in the Artithmancer/Lady Archimede there is no consideration that an afterlife makes death a trivial thing : when a good person dies, it's a tragic event.
->> 
 
->> **u/Achille-Talon** [+1] *
+>> **u/Achille-Talon** [+1]  (a month later)
 >> 
 >> I mean, it was up in the air in HPMoR because it was an AU from the get-go, but by definition a single-point-of-departure story like most *Harry Potter* fanfiction *will* take place in a universe with a proven afterlife. 
->> But just because the afterlife exists doesn't mean there's no possibility of dramatic tension. In my own *HP* fanfiction I've run with it: death is *bad* (because the afterlife is like an eternal vacation where the main hobby you have is looking back on your life, *Pensieve*-style, or looking in at currently living people's life; so to have your life cut short is still kind of irreparable; an immense wealth of wasted opportunities. not to mention being separated from all your loved ones, possibly for a very long time), but rational people don't think of it as the number-one threat. Number one threats are things like Cruciatus Curse users, and rogue Dementors who *can* induce oblivion. 
->> Again, remember: in the *Harry Potter* world, it is *impossible* to return from the Afterlife. If you told me there's a generally pleasant (but not ideal) Heaven like that, but I can never ever go back to Earth after I get there, I would still do my best not to get killed early, thank you very much.
 >> 
+>> But just because the afterlife exists doesn't mean there's no possibility of dramatic tension. In my own *HP* fanfiction I've run with it: death is *bad* (because the afterlife is like an eternal vacation where the main hobby you have is looking back on your life, *Pensieve*-style, or looking in at currently living people's life; so to have your life cut short is still kind of irreparable; an immense wealth of wasted opportunities. not to mention being separated from all your loved ones, possibly for a very long time), but rational people don't think of it as the number-one threat. Number one threats are things like Cruciatus Curse users, and rogue Dementors who *can* induce oblivion. 
+>> 
+>> Again, remember: in the *Harry Potter* world, it is *impossible* to return from the Afterlife. If you told me there's a generally pleasant (but not ideal) Heaven like that, but I can never ever go back to Earth after I get there, I would still do my best not to get killed early, thank you very much.
 
 ---
 

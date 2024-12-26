@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 8
+* Score: 7
 
 * Created: 2017-06-10T02:40:44
 
@@ -12,34 +12,33 @@
 
 ### Comments:
 
-> **u/narfanator** [+3] *
+> **u/narfanator** [+3]  (5 hours later)
 > 
 > Solid! I like the gist of it, and the world that it's setting up. If you haven't read "Nexus", you should read that.
-> However, the intro is a little jarring and a little lacking. For both the purposes of exploring your Hong Kong, and for the purposes of improving this particular narrative, you should start when the celebrations start, and walk us all the way through. I want to see the moment(s) the party turns into a protest.
-> Also, as good as this is (and it's good), I would also recommend, at a later date, a complete rewrite - when you know Rachel Hua's voice better, and your Hong Kong better.
-> Finally, I would also throw in more near-future tech / future references; 2047 is further away from now than the world before the Internet. Not a lot more future tech; but enough to let us feel that we're not in Kansas anymore (maybe the NY ball drop is the first shipment from the first orbital asteroid mine? Maybe the fireworks are all launched from zeppelins?), and to answer some of the current known future issues, like drones, oil dependency, etc. What role do private and public drones play in this world of yours?
 > 
+> However, the intro is a little jarring and a little lacking. For both the purposes of exploring your Hong Kong, and for the purposes of improving this particular narrative, you should start when the celebrations start, and walk us all the way through. I want to see the moment(s) the party turns into a protest.
+> 
+> Also, as good as this is (and it's good), I would also recommend, at a later date, a complete rewrite - when you know Rachel Hua's voice better, and your Hong Kong better.
+> 
+> Finally, I would also throw in more near-future tech / future references; 2047 is further away from now than the world before the Internet. Not a lot more future tech; but enough to let us feel that we're not in Kansas anymore (maybe the NY ball drop is the first shipment from the first orbital asteroid mine? Maybe the fireworks are all launched from zeppelins?), and to answer some of the current known future issues, like drones, oil dependency, etc. What role do private and public drones play in this world of yours?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (5 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/narfanator** [+2] *
+>>> **u/narfanator** [+2]  (16 hours later)
 >>> 
 >>> Alternate universes always have more zeppelins.
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (11 hours later)
 > 
 > On the politics side it feels more like a straightforward valiaet rebels vs evil government narrative than really makes sense in the hong kong context. [For background I'm no fan of the CCP, but have lived in the area and followed the politics for a while]. 
-> Would be interesting to see it split up more into looking at the perspectives of different factions. THere's some cool stuff available from the Tianmen protests that talks about different elements of the government trying to make compromises, different leaders among the students arguing about how to react to their offers, tensions between student protestors and beijingren who agreed on the general goals but not everything. etc.
 > 
+> Would be interesting to see it split up more into looking at the perspectives of different factions. THere's some cool stuff available from the Tianmen protests that talks about different elements of the government trying to make compromises, different leaders among the students arguing about how to react to their offers, tensions between student protestors and beijingren who agreed on the general goals but not everything. etc.
 
-> **u/usedemageht** [+1] *
+> **u/usedemageht** [+1]  (9 days later)
 > 
 > I wonder if it is reasonably probable that thousands of angry people with mob mentality and much noise all around them will act rationally. How did they come to a single objective, rather than just walking around slowly? Pre-organized? Why was there no looting, rioting, violence? People would probably be a bit drunk because of the celebrations. Phones cancelling out sound, how does that work? Perhaps it would be more realistic to have a smaller group of prepared people using gear to cancel the broadcast. Maybe not, just some thoughts I have
-> 
 
 ---
 

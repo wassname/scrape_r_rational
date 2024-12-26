@@ -2,7 +2,7 @@
 
 * Author: u/palsh7 *
 * URL: https://www.reddit.com/r/rational/comments/l58cuu/query_would_you_all_consider_neal_stephenson_a/
-* Score: 28
+* Score: 31
 
 * Created: 2021-01-26T06:48:59
 
@@ -16,312 +16,364 @@ Thanks and sorry if this post is inappropriate for the sub. I didn't bother lurk
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+19]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+19]  *Emergency Mustelid Hologram* (7 hours later)
 > 
 > Maybe in some of his earlier works, particularly the Diamond Age, he was fairly successful at presenting rational characters in a well-designed world.
+> 
 > More recently, Stephenson fakes "rational" characters by putting anachronistic 20th/21st century people into past or future contexts. That was kind of the whole schtick of the Baroque cycle, I forget where I dropped that one mid-book because I couldn't deal wit the Swiss Family Robinson-ness of it all. But SevenEves was kind of the bottom for me. The first part was entertaining Kerbal Space Program fanfic, but everything after the landing in the gap was completely plot driven impossible fantasy.
+> 
 > There is no way any of the groups of "survivors" would have survived.
+> 
 > * Thermodynamics would doom the Earthbound groups (for example, you can't extract power from geothermal sources when the atmosphere is as hot as the upper mantle).
 > * And the lunar colony? There is no way they could have bootstrapped to the point of building new chips for their magic robots with seven people, none of whom have the background knowledge, and an already declining stock of robots.
-> And then the new society, thousands of years in the future, is basically 2000s Earth, except with a financial center in probably the most dangerous location in their society, but somehow nobody has thought of colonizing the rest of the solar system outside cislunar space. Perhaps the genetic engineering broke something in them, and froze them in a perpetual New England.
 > 
+> And then the new society, thousands of years in the future, is basically 2000s Earth, except with a financial center in probably the most dangerous location in their society, but somehow nobody has thought of colonizing the rest of the solar system outside cislunar space. Perhaps the genetic engineering broke something in them, and froze them in a perpetual New England.
 
->> **u/vimefer** [+3] *
+>> **u/vimefer** [+4]  (9 hours later)
 >> 
 >> His action-oriented novels are better in that respects, such as [Reamde](https://en.wikipedia.org/wiki/Reamde).
->> 
 
->>> **u/OmniscientQ** [+5] *
+>>> **u/OmniscientQ** [+5]  (13 hours later)
 >>> 
 >>> Honestly, I found Reamde to be utterly forgettable. As in, when I got a copy of Fall from my sister, I had literally forgotten everything about the plot of Reamde. I had to read the Wikipedia synopsis to refresh me.
->>> I thoroughly enjoy watching Stephenson's thought processes play out on a page when he goes on rambling. But for a spy / hostage thriller? Meh. I'll just pick up the nearest book with Tom Clancy's name on it.
 >>> 
+>>> I thoroughly enjoy watching Stephenson's thought processes play out on a page when he goes on rambling. But for a spy / hostage thriller? Meh. I'll just pick up the nearest book with Tom Clancy's name on it.
 
->>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (9 hours later)
 >>> 
 >>> I think you're just seeing characters that aren't dragged in higgledy-piggledy from another milieu, because it's set in a contemporary period.
->>> Admittedly, I was unimpressed with REAMDE.
 >>> 
+>>> Admittedly, I was unimpressed with REAMDE.
 
->>>> **u/vimefer** [+2] *
+>>>> **u/vimefer** [+2]  (9 hours later)
 >>>> 
 >>>> Right, that's his only recent novel I bothered with because the premises of the others felt off.
->>>> 
 
->> **u/Dragongeek** [+1]  *Path to Victory**
+>> **u/Dragongeek** [+1]  *Path to Victory* (a day later)
 >> 
 >> Nitpick: geothermal power requires a temperature gradient which is typically achieved because it's hotter down deeper but it doesn't need to be this way. If the surface were thousands or hundreds of degrees, you could make power by pumping that heat into comparatively cooler depths. After all, unless you're living near a volcanically active zone or near a fault-line or something, you actually need to dig quite deep before it gets hot
->> 
 
->>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>> 
 >>> Technically correct, but probably not practical. Particularly when you’re starting with hardware designed to work in the opposite direction. And now you have the problem of doing it for centuries without cooking yourself when your technological infrastructure is just about at the level of hand blowing light bulbs.
->>> 
 
->> **u/Slinkinator** [+1] *
+>> **u/Slinkinator** [+1]  (2 days later)
 >> 
 >> Even the Diamond Age is very handwavey with its internal logic about the seed, the feed, different societies, and I've never been able to figure out what he was trying to do with the rape scene at the end of the novel, that the MC just ignores and then goes full kill bill on.  
-
->> And this is the way I talk about books I like =\[
 >> 
+>> And this is the way I talk about books I like =\[
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>> 
 >>> The thing in the tunnels under the ocean? Yeh, that was disappointing, and the end just sort of fell off the end.
->>> 
 
->>>> **u/Slinkinator** [+3] *
+>>>> **u/Slinkinator** [+3]  (2 days later)
 >>>> 
 >>>> The underwater (semi) incest orgy with the drummers isn't what I meant.  When they're like 'lets give the celestial kingdom the seed, because those asian rice farmers have a good work ethic and won't grow nukes, and no one will ever get a seed off of them.'
->>>> 
 
->>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (3 days later)
 >>>>> 
 >>>>> Oh yeh, super racist when I look back on it.
->>>>> 
 
->>>>>> **u/Slinkinator** [+3] *
+>>>>>> **u/Slinkinator** [+3]  (3 days later)
 >>>>>> 
 >>>>>> But one thing that book nailed was the bit about how the ability to interact with hypocrisy is a form of intelligence, and that hypocrisy has been over elevated as the last sin, and that aspirational values have value.
->>>>>> 
 
->>>>>> **u/Slinkinator** [+1] *
+>>>>>> **u/Slinkinator** [+1]  (3 days later)
 >>>>>> 
 >>>>>> Honestly I hadn't noticed till I got heated up writing that comment, and IMO it isn't the biggest issue in the book, just the one that hits the anti ratfic checkpoints.
->>>>>> Right now I'm listening to brandon sanderson a rhythm of war, which isn't great and follows a pretty terrible book, and I'm fuming because this dude cut the legs out from underneath a perfectly good story.  Like half of each of these books are flashbacks, and he could have just opened the series earlier, led us through these characters lives and built some empathy for them, and instead he kills half of them in the first book then makes us sit through the slice of life stuff for characters that are already dead.
->>>>>> End rant.
 >>>>>> 
+>>>>>> Right now I'm listening to brandon sanderson a rhythm of war, which isn't great and follows a pretty terrible book, and I'm fuming because this dude cut the legs out from underneath a perfectly good story.  Like half of each of these books are flashbacks, and he could have just opened the series earlier, led us through these characters lives and built some empathy for them, and instead he kills half of them in the first book then makes us sit through the slice of life stuff for characters that are already dead.
+>>>>>> 
+>>>>>> End rant.
 
->> **u/DarkwarriorJ** [+1] *
+>> **u/DarkwarriorJ** [+1]  (3 days later)
 >> 
 >> I think you're being too harsh on Seveneves. Addressing your main gripes in particular:
+>> 
 >> 1. The survival of the people on the surface I don't remember enough to comment, but I do recall thinking that the survival of Dinah's relatives was an extreme  stretch. I don't recall them saying that they used geothermal, however, and the very existence of the submarine people indicate that not all water on Earth got boiled away either. That they could survive the hellscape deep in the Marianas trench implies that even if 99% of the oceans were boiled away, somewhere there are still locations where temperatures were survivable and usable.
 >> 2. I can confidently state that you missed the point with the lunar colony. They didn't bootstrap themselves back in one generation with only seven people, none of which who have the background. They survived and multiplied with the old stockpiles of material for generations before they were able to bootstrap anything back up. Seven people didn't bootstrap their civilization back. Seven people bred more people who bred more people and did all the bare minimum things needed to survive before they got back to where they got to. It was five thousand years after all!
->> It also makes damn sense that their culture ended up echoing the modern world once again, because they were in the extremely unique position of recovering from a fall where \*all the records of the past civilization, especially media and science, were available to them in digital format\*. We can't rebuild the civilization of Stonehenge because we don't know how the people of Stonehenge lived; by contrast, these people literally had to survive off our records and our media for countless generations. Even then, you can notice how it's not at all identical; there are plenty of subtle differences and a few glaringly obvious ones like actual races.
->> Finally, yes, it is a plot point in the last half of the book that their genetic engineering really did break something human in each of them. Each of the new races were caricaturized because the allied races knew they could depend on each other to make up for the other's oversight or weaknesses.
->> &#x200B;
->> I don't believe the last third of Seveneves was at all an example of good writing (actually it was pretty atrocious), but as worldbuilding and ideas? I think you missed many points.
 >> 
+>> It also makes damn sense that their culture ended up echoing the modern world once again, because they were in the extremely unique position of recovering from a fall where \*all the records of the past civilization, especially media and science, were available to them in digital format\*. We can't rebuild the civilization of Stonehenge because we don't know how the people of Stonehenge lived; by contrast, these people literally had to survive off our records and our media for countless generations. Even then, you can notice how it's not at all identical; there are plenty of subtle differences and a few glaringly obvious ones like actual races.
+>> 
+>> Finally, yes, it is a plot point in the last half of the book that their genetic engineering really did break something human in each of them. Each of the new races were caricaturized because the allied races knew they could depend on each other to make up for the other's oversight or weaknesses.
+>> 
+>> &#x200B;
+>> 
+>> I don't believe the last third of Seveneves was at all an example of good writing (actually it was pretty atrocious), but as worldbuilding and ideas? I think you missed many points.
 
->>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (3 days later)
 >>> 
 >>> I don't believe in the survival of the submariners either, but they were so unlikely there's no point mentioning them.
->>> The lunar colony simply could not have survived a century let alone millennia. It would be unlikely for them to survive until the first generation could take over.
->>> They're starting with basically our level of technology, with no resupply, and hardly any supplies. There is simply no room in the convoy for generations. They're trying to use precision laboratory equipment for bulk production. The breakdown rate will be horrendous.
 >>> 
+>>> The lunar colony simply could not have survived a century let alone millennia. It would be unlikely for them to survive until the first generation could take over.
+>>> 
+>>> They're starting with basically our level of technology, with no resupply, and hardly any supplies. There is simply no room in the convoy for generations. They're trying to use precision laboratory equipment for bulk production. The breakdown rate will be horrendous.
 
->>>> **u/DarkwarriorJ** [+1] *
+>>>> **u/DarkwarriorJ** [+1]  (3 days later)
 >>>> 
 >>>> For the first generations, they actually have a considerable proportion of the supply meant for over a thousand people from the other habs which broke down. They even addressed food, whereby the ISS-icehab combo managed to preserve the vast majority of its stored food supply. Similarly, they do have basic fabrication, oxygenation, and food production, from the algae farms amongst other things. The most plausible fate normally would have been a slow, agonizing death for the colony as they run into a lack of A or B and slowly wither away,  but survival isn't provably impossible. They domed over the ravine early on, giving future, less capable generations time to follow routine and do the basic minimum needed to expand and survive.
->>>> Taking several steps back, however, some of your declarations are simply hyperbole. We know they have oxygen production (I recall they had an immense supply of scrubbers, amongst other things), and they have packaged food meant to sustain hundreds of people for years if not decades (the other half of the convoy was the one that ran out and fell into cannibalism). Split amongst the seven of them, this changes things. They don't have minimal supplies. They have minimal supplies for one thousand people. They have all the supplies and then some for just seven.
->>>> The 'unlikely to survive until the first generation can take over' screams is only true when we consider that they are stuck living in zero G. This first generation need merely eat packaged food and crap around and do nothing to live out their natural lives, and even the next generation can do much of the same.
->>>> My point is, you missed almost all the details and points with the lunar colony, and are portraying its survival in an unfair light. It's not necessarily plausible long-term,  but short term? 10-30 years? We have a very different story. Chances are, your negativity towards that part of the story blinded you from even looking for the details the author put in which made such survival not impossible. Even if it remains implausible.
 >>>> 
+>>>> Taking several steps back, however, some of your declarations are simply hyperbole. We know they have oxygen production (I recall they had an immense supply of scrubbers, amongst other things), and they have packaged food meant to sustain hundreds of people for years if not decades (the other half of the convoy was the one that ran out and fell into cannibalism). Split amongst the seven of them, this changes things. They don't have minimal supplies. They have minimal supplies for one thousand people. They have all the supplies and then some for just seven.
+>>>> 
+>>>> The 'unlikely to survive until the first generation can take over' screams is only true when we consider that they are stuck living in zero G. This first generation need merely eat packaged food and crap around and do nothing to live out their natural lives, and even the next generation can do much of the same.
+>>>> 
+>>>> My point is, you missed almost all the details and points with the lunar colony, and are portraying its survival in an unfair light. It's not necessarily plausible long-term,  but short term? 10-30 years? We have a very different story. Chances are, your negativity towards that part of the story blinded you from even looking for the details the author put in which made such survival not impossible. Even if it remains implausible.
 
->>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (3 days later)
 >>>>> 
 >>>>> The critical consumable is not food it’s electronics. They’re dependent on the suspiciously advanced robots (remember, this was set in basically our time... there are lawsuit-proof expys of people still alive) for basically everything they need to do outside the pressurized habitats... working in vacuum is super hard, and vacuum suits are not durable. And building replacement electronics for those robots (that they spent profligately) will require developing integrated circuitry fabrication facilities.
->>>>> 
 
->>>>>> **u/DarkwarriorJ** [+1] *
+>>>>>> **u/DarkwarriorJ** [+1]  (3 days later)
 >>>>>> 
 >>>>>> Of which they have even more stockpiled. As they mentioned time and time again, they originally sent up enough of the core chips to last a colony of a thousand for virtually centuries; these chips are amongst the few things that would not get eaten up by the descent into cannibalism either, and can be trivially salvaged if need be (although I recall virtually all of them were stored in the ISS anyways). In fact, this is one of those things which is valuable enough and lightweight enough for them to have sent them up in absurd bulk quantities, which they explicitly did, and then went out of their way to jealously guard from radiation.
->>>>>> The author thought about this. Half the book was spent dealing with this exact problem. It was one of the reasons they needed the ISS and the asteroid so much; why there was a schism in the first place.
->>>>>> I find it plausible that by the time they actually run out of relevant electronics, they'd have enough warm bodies to misuse in their place instead.
->>>>>> Their robotics, especially as of the future society state, are absurdly advanced though. They explicitly say that their future society is less advanced in integrated circuits, but more advanced in robotics somehow. I don't think that computes.
 >>>>>> 
+>>>>>> The author thought about this. Half the book was spent dealing with this exact problem. It was one of the reasons they needed the ISS and the asteroid so much; why there was a schism in the first place.
+>>>>>> 
+>>>>>> I find it plausible that by the time they actually run out of relevant electronics, they'd have enough warm bodies to misuse in their place instead.
+>>>>>> 
+>>>>>> Their robotics, especially as of the future society state, are absurdly advanced though. They explicitly say that their future society is less advanced in integrated circuits, but more advanced in robotics somehow. I don't think that computes.
 
->>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (5 days later)
 >>>>>>> 
 >>>>>>> They planned for a colony where you have 1500 people to do the actual heavy lifting, not with robots being used (and used up) to replace the people.
->>>>>>> 
 
->> **u/hayshed** [+1] *
+>> **u/hayshed** [+1]  (8 days later)
 >> 
 >> Oh god I just remembered that no-one reinvented firearms and instead they shot ***robots*** at each other.
->> 
 
-> **u/notmy2ndopinion** [+15]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+13]  *Concent of Saunt Edhar* (6 hours later)
 > 
 > I’m a huge fan of Anathem — but the Concent is built on Rationalist principles and the main character is just a passive observer who follows the rationalist characters around as they deliver their speeches.
-> In many ways it’s good — because Lio is the “dumb innocent jock” who is unafraid to ask world building or plot driving questions. He does work well with others and the text is philosophical and touches on different forms of thought as an explicit plot-device to win... so that’s pretty cool too.
 > 
+> In many ways it’s good — because Lio is the “dumb innocent jock” who is unafraid to ask world building or plot driving questions. He does work well with others and the text is philosophical and touches on different forms of thought as an explicit plot-device to win... so that’s pretty cool too.
 
->> **u/Dent7777** [+2]  *House Atreides**
+>> **u/Dent7777** [+2]  *House Atreides* (8 days later)
 >> 
 >> I really enjoyed Anathem. The fact that it was a YA novel strapped to the side of a Spec Fic novel enhanced my enjoyment rather than took away from it. 
->> It was pretty much a throwaway line, but I found the Technie Sammann's dialogue on "Bogons" to be very insightful and applicable to the modern internet and disinformation.
->> >“Early in the Reticulum—thousands of years ago—it became almost useless because it was cluttered with faulty, obsolete, or downright misleading information,” Sammann said.
->> >“Crap, you once called it,” I reminded him.
->> >“Yes—a technical term. So crap filtering became important. Businesses were built around it. Some of those businesses came up with a clever plan to make more money: they poisoned the well. They began to put crap on the Reticulum deliberately, forcing people to use their products to filter that crap back out. They created syndevs whose sole purpose was to spew crap into the Reticulum. But it had to be good crap.”
->> >“What is good crap?” Arsibalt asked in a politely incredulous tone.
->> >“Well, bad crap would be an unformatted document consisting of random letters. Good crap would be a beautifully typeset, well-written document that contained a hundred correct, verifiable sentences and one that was subtly false. It’s a lot harder to generate good crap. At first they had to hire humans to churn it out. They mostly did it by taking legitimate documents and inserting errors—swapping one name for another, say. But it didn’t really take off until the military got interested.”
->> >“As a tactic for planting misinformation in the enemy’s reticules, you mean,” Osa said. “This I know about. You are referring to the Artificial Inanity programs of the mid–First Millennium A.R.”
->> >“Exactly!” Sammann said. “Artificial Inanity systems of enormous sophistication and power were built for exactly the purpose Fraa Osa has mentioned. In no time at all, the praxis leaked to the commercial sector and spread to the Rampant Orphan Botnet Ecologies. Never mind. The point is that there was a sort of Dark Age on the Reticulum that lasted until my Ita forerunners were able to bring matters in hand.”
->> >“So, are Artificial Inanity systems still active in the Rampant Orphan Botnet Ecologies?” asked Arsibalt, utterly fascinated.
->> >“The ROBE evolved into something totally different early in the Second Millennium,” Sammann said dismissively.
->> >“What did it evolve into?” Jesry asked.
->> >“No one is sure,” Sammann said. “We only get hints when it finds ways to physically instantiate itself, which, fortunately, does not happen that often. But we digress. The functionality of Artificial Inanity still exists. You might say that those Ita who brought the Ret out of the Dark Age could only defeat it by co-opting it. So, to make a long story short, for every legitimate document floating around on the Reticulum, there are hundreds or thousands of bogus versions—bogons, as we call them.”
->> >“The only way to preserve the integrity of the defenses is to subject them to unceasing assault,” Osa said, and any idiot could guess he was quoting some old Vale aphorism.
->> >“Yes,” Sammann said, “and it works so well that, most of the time, the users of the Reticulum don’t know it’s there. Just as you are not aware of the millions of germs trying and failing to attack your body every moment of every day. However, the recent events, and the stresses posed by the Antiswarm, appear to have introduced the low-level bug that I spoke of.”
 >> 
+>> It was pretty much a throwaway line, but I found the Technie Sammann's dialogue on "Bogons" to be very insightful and applicable to the modern internet and disinformation.
+>> 
+>> >“Early in the Reticulum—thousands of years ago—it became almost useless because it was cluttered with faulty, obsolete, or downright misleading information,” Sammann said.
+>> 
+>> >“Crap, you once called it,” I reminded him.
+>> 
+>> >“Yes—a technical term. So crap filtering became important. Businesses were built around it. Some of those businesses came up with a clever plan to make more money: they poisoned the well. They began to put crap on the Reticulum deliberately, forcing people to use their products to filter that crap back out. They created syndevs whose sole purpose was to spew crap into the Reticulum. But it had to be good crap.”
+>> 
+>> >“What is good crap?” Arsibalt asked in a politely incredulous tone.
+>> 
+>> >“Well, bad crap would be an unformatted document consisting of random letters. Good crap would be a beautifully typeset, well-written document that contained a hundred correct, verifiable sentences and one that was subtly false. It’s a lot harder to generate good crap. At first they had to hire humans to churn it out. They mostly did it by taking legitimate documents and inserting errors—swapping one name for another, say. But it didn’t really take off until the military got interested.”
+>> 
+>> >“As a tactic for planting misinformation in the enemy’s reticules, you mean,” Osa said. “This I know about. You are referring to the Artificial Inanity programs of the mid–First Millennium A.R.”
+>> 
+>> >“Exactly!” Sammann said. “Artificial Inanity systems of enormous sophistication and power were built for exactly the purpose Fraa Osa has mentioned. In no time at all, the praxis leaked to the commercial sector and spread to the Rampant Orphan Botnet Ecologies. Never mind. The point is that there was a sort of Dark Age on the Reticulum that lasted until my Ita forerunners were able to bring matters in hand.”
+>> 
+>> >“So, are Artificial Inanity systems still active in the Rampant Orphan Botnet Ecologies?” asked Arsibalt, utterly fascinated.
+>> 
+>> >“The ROBE evolved into something totally different early in the Second Millennium,” Sammann said dismissively.
+>> 
+>> >“What did it evolve into?” Jesry asked.
+>> 
+>> >“No one is sure,” Sammann said. “We only get hints when it finds ways to physically instantiate itself, which, fortunately, does not happen that often. But we digress. The functionality of Artificial Inanity still exists. You might say that those Ita who brought the Ret out of the Dark Age could only defeat it by co-opting it. So, to make a long story short, for every legitimate document floating around on the Reticulum, there are hundreds or thousands of bogus versions—bogons, as we call them.”
+>> 
+>> >“The only way to preserve the integrity of the defenses is to subject them to unceasing assault,” Osa said, and any idiot could guess he was quoting some old Vale aphorism.
+>> 
+>> >“Yes,” Sammann said, “and it works so well that, most of the time, the users of the Reticulum don’t know it’s there. Just as you are not aware of the millions of germs trying and failing to attack your body every moment of every day. However, the recent events, and the stresses posed by the Antiswarm, appear to have introduced the low-level bug that I spoke of.”
 
->>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (9 days later)
 >>> 
 >>> Yep — I thought the same thing as 2020 hit. We call them The Onion. And Babylon Bee. And NotTheOnion. And... am I allowed to continue without getting too political? The rest will remain anonymous.
->>> 
 
->>>> **u/Dent7777** [+2]  *House Atreides**
+>>>> **u/Dent7777** [+2]  *House Atreides* (9 days later)
 >>>> 
 >>>> God forbid you get "Too Political" in /r/rational
->>>> We find ourselves in the opening days of an information dark age, where the issue is not too little information, but too much. I doubt the Ita will find a procedural solution to filter out bogons, so it is up to each individual to call ball and strikes.
->>>> Something that so many people are unprepared or unwilling to do, when it violates their priors.
 >>>> 
+>>>> We find ourselves in the opening days of an information dark age, where the issue is not too little information, but too much. I doubt the Ita will find a procedural solution to filter out bogons, so it is up to each individual to call ball and strikes.
+>>>> 
+>>>> Something that so many people are unprepared or unwilling to do, when it violates their priors.
 
-> **u/Dragongeek** [+26]  *Path to Victory**
+> **u/Dragongeek** [+26]  *Path to Victory* (4 hours later)
 > 
 > I'd say (conditionally) yes:
+> 
 >  - Stephenson frequently writes highly intelligent characters and does it well (arguably his greatest strength next to prose). That's not to say they never make mistakes or never make irrational decisions, but those decisions and mistakes they make are in line with the character, so it makes sense
 >  - Stephenson's worldbuilding is thought out and the implications of the fictional elements are considered in a wider scope. 
 >  - There are very few instances where I can point to a decision a character makes and say "this happened because of plot purposes, not character motivation"
-> While I wouldn't call Stephenson a "rationalist" author first, he definitely embodies many "rational" principles in his writing.
 > 
+> While I wouldn't call Stephenson a "rationalist" author first, he definitely embodies many "rational" principles in his writing.
 
-> **u/westward101** [+9] *
+> **u/westward101** [+10]  (10 hours later)
 > 
 > Hell no. I've read a fair amount of Neal Stephenson and while there are some entertaining aspects, there are some infuriating ones.He's got generally good ideas then just blows them to shreds. Read Cryptonomicon and Anathem then stop there.
-> Fall; or, Dodge in Hell (kind of sequel to Reamde) had a couple great elements, but 3/4 was just so boring. I would have read a whole book about the road trip through Red country and the Purdah system, but instead all those trees wasted.
-> Most fiction relies on zero or one weird things (aka coincidences) to happen to be entertaining.  The more you get than one, the more it's clearly the author putting his thumb on the scale. Oh, random droid escape with the plans to the great weapon just seconds ahead of the evil lord? OK, cool story. Oh, those droid are salvaged by the hidden son of the evil lord on this random planet? That's a stretch. Oh, those droids were built by the evil lord when he was a child? Oh, that son was never found by his evil lord father despite having the same last name and living with his immediate relatives? For fuck's sake, that doesn't make any sense.
-> SevenEves was just absurd...They never address who destroyed the moon. If it was a highly unlikely random event, ok, weird coincidence that that happens now when the world has just enough capacity to survive. Then Part Three of Seveneves made me throw up in my mouth. The evolution was dumb of all three groups was just dumb. That they remembered each other's ancestors from 5,000 years ago? GTFO.
-> Reamde was pretty dumb. Oh, you do some shady stuff and get wrapped up in a Russian mob's mission to find the hackers? Ok, cool reason for a story. Oh, your mission to find the evil hackers means you choose a random door that accidentally results in you attacking Muslim terrorists? Dumb plot turns galore.
 > 
+> Fall; or, Dodge in Hell (kind of sequel to Reamde) had a couple great elements, but 3/4 was just so boring. I would have read a whole book about the road trip through Red country and the Purdah system, but instead all those trees wasted.
+> 
+> Most fiction relies on zero or one weird things (aka coincidences) to happen to be entertaining.  The more you get than one, the more it's clearly the author putting his thumb on the scale. Oh, random droid escape with the plans to the great weapon just seconds ahead of the evil lord? OK, cool story. Oh, those droid are salvaged by the hidden son of the evil lord on this random planet? That's a stretch. Oh, those droids were built by the evil lord when he was a child? Oh, that son was never found by his evil lord father despite having the same last name and living with his immediate relatives? For fuck's sake, that doesn't make any sense.
+> 
+> SevenEves was just absurd...They never address who destroyed the moon. If it was a highly unlikely random event, ok, weird coincidence that that happens now when the world has just enough capacity to survive. Then Part Three of Seveneves made me throw up in my mouth. The evolution was dumb of all three groups was just dumb. That they remembered each other's ancestors from 5,000 years ago? GTFO.
+> 
+> Reamde was pretty dumb. Oh, you do some shady stuff and get wrapped up in a Russian mob's mission to find the hackers? Ok, cool reason for a story. Oh, your mission to find the evil hackers means you choose a random door that accidentally results in you attacking Muslim terrorists? Dumb plot turns galore.
 
->> **u/C_Densem** [+1]  *LessWrong (than usual)**
+>> **u/C_Densem** [+1]  *LessWrong (than usual)* (22 hours later)
 >> 
 >> " Oh, random droid escape with the plans to the great weapon just seconds ahead of the evil lord? OK, cool story. Oh, those droid are salvaged by the hidden son of the evil lord on this random planet? That's a stretch. Oh, those droids were built by the evil lord when he was a child? Oh, that son was never found by his evil lord father despite having the same last name and living with his immediate relatives? For fuck's sake, that doesn't make any sense. "
->> &#x200B;
->> ...was this Stephenson or Star Wars? Because that's Star Wars.
 >> 
+>> &#x200B;
+>> 
+>> ...was this Stephenson or Star Wars? Because that's Star Wars.
 
-> **u/PastafarianGames** [+6] *
+> **u/PastafarianGames** [+5]  (13 hours later)
 > 
 > The only one of his books I'd call approaching rationalist/rational fiction is Diamond Age.
-> 
 
->> **u/grekhaus** [+3] *
+>> **u/grekhaus** [+3]  (a day later)
 >> 
 >> I don't follow this. The book opens up with a guy getting a gun implanted into his cranium (a premise so ludicrous that I almost set the book down then and there) and it only got more absurd as it went on. Who exactly are we supposed to be looking toward as a rational character?
->> Finkle-McGraw, who admits that his high status is the result of mere epistemic luck, and whose 'solution' to a perceived lack of pluck and grit in his society is to proliferate dangerous and untested forms of nanotechnology in the hopes that the resulting chaos will be character building?
->> Nell, who is literally raised by a book, one which tells her how to use martial arts and program Turing machines, but which raises her to consider all authority figures so useless that she'd rather attack a grown man several times her size with a knife than try telling an adult who could help her?
->> John, who was a nanotech engineer instrumental to the implementation of both of the above schemes, but who decided all the same that he could get away with stealing from his boss, since the only security nanotech worth considering is clearly the stuff he personally implemented. Nobody else can be clever!
->> Dr. X, who strives toward a noble goal and never does anything directly foolish, but whose entire MO is to wait for useful tools to come to him, rather than applying his skills to seeking them out or developing them directly? Fang, who follows largely the same arc, simply with moral causes instead?
->> Miranda, Moore and Carl, respectively Nell's mother, father and cool uncle figures, who collectively love her and want her to grow into a healthy young woman, but who see no reason to consider the appropriateness of the seemingly unique superstimulus media which she religiously consumes?
->> Everyone in this book seems tailor-made to embody some stereotypical vice of rationalists, rather than being a role model directly.
 >> 
+>> Finkle-McGraw, who admits that his high status is the result of mere epistemic luck, and whose 'solution' to a perceived lack of pluck and grit in his society is to proliferate dangerous and untested forms of nanotechnology in the hopes that the resulting chaos will be character building?
+>> 
+>> Nell, who is literally raised by a book, one which tells her how to use martial arts and program Turing machines, but which raises her to consider all authority figures so useless that she'd rather attack a grown man several times her size with a knife than try telling an adult who could help her?
+>> 
+>> John, who was a nanotech engineer instrumental to the implementation of both of the above schemes, but who decided all the same that he could get away with stealing from his boss, since the only security nanotech worth considering is clearly the stuff he personally implemented. Nobody else can be clever!
+>> 
+>> Dr. X, who strives toward a noble goal and never does anything directly foolish, but whose entire MO is to wait for useful tools to come to him, rather than applying his skills to seeking them out or developing them directly? Fang, who follows largely the same arc, simply with moral causes instead?
+>> 
+>> Miranda, Moore and Carl, respectively Nell's mother, father and cool uncle figures, who collectively love her and want her to grow into a healthy young woman, but who see no reason to consider the appropriateness of the seemingly unique superstimulus media which she religiously consumes?
+>> 
+>> Everyone in this book seems tailor-made to embody some stereotypical vice of rationalists, rather than being a role model directly.
 
->>> **u/PastafarianGames** [+3] *
+>>> **u/PastafarianGames** [+3]  (a day later)
 >>> 
 >>> > Who exactly are we supposed to be looking toward as a rational character?
->>> Why should there have to be a rationalist role model?
 >>> 
+>>> Why should there have to be a rationalist role model?
 
->>>> **u/grekhaus** [+1] *
+>>>> **u/grekhaus** [+1]  (a day later)
 >>>> 
 >>>> I mean, if we're calling it rational fiction, surely there should be a rational character involved somewhere? Like the sidebar says, intelligent and creative characters (none of the above characters manage both), clear motives for character decision-making (Fang and Dr. X manage this; nobody else really does), intellectual payoff (definitely not), a focus on the processes of thought (generally only the case with Nell, who thinks in narrative logic) and thoughtful world building (some of it checks out, but there's also a lot of nonsense). Call it five main plot threads and give every thread a point for each criteria that thread meets and we're looking at maybe 6/25, if we're feeling generous about the world building.
->>>> 
 
->>>>> **u/PastafarianGames** [+3] *
+>>>>> **u/PastafarianGames** [+3]  (a day later)
 >>>>> 
 >>>>> I think your dislike of the story is rather striking and not entirely reasonable. To me, there's clear motives for basically every character's decision-making, even if they're goddamn morons (like Mr. Skullgun, who is textually and obviously a moron), and the entire structure of the novel is a slow-burn payoff about humanity in utopia, the nature of rebellion, and the raising of children.
->>>>> 
 
->>>>>> **u/grekhaus** [+2] *
+>>>>>> **u/grekhaus** [+2]  (a day later)
 >>>>>> 
 >>>>>> I'm not saying I didn't like it. It's very artsy and poses interesting questions about the shape of a flourishing human society. But it's not rational fiction. Works are allowed to be good without being ratfic.
->>>>>> 
 
->>>>>>> **u/PastafarianGames** [+2] *
+>>>>>>> **u/PastafarianGames** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> By the same token, works are allowed to be rational fiction without any of the characters being a rationalist.
->>>>>>> 
 
->>>>>>>> **u/Slinkinator** [+1] *
+>>>>>>>> **u/Slinkinator** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Yeah but there are giant worldbuilding holes that Stephenson built in there, like 'lets give everyone the seed, they're asian so they're collectivists who won't misuse it"
->>>>>>>> 
 
->>> **u/Nimelennar** [+3] *
+>>> **u/Nimelennar** [+3]  (a day later)
 >>> 
 >>> > Finkle-McGraw, who admits that his high status is the result of mere epistemic luck, and whose 'solution' to a perceived lack of pluck and grit in his society is to proliferate **dangerous and untested forms of nanotechnology** in the hopes that the resulting chaos will be character building?
->>> Are you talking about the Primer, or the Seed?
->>> I don't think the Seed is Finkle-McGraw's idea.  It's presented, in-universe, as being the Celestial Kingdom's hypothetical counterpart to the Feed.  It shows up in the Primer because that's what Hackworth is working with among the Dreamers.
->>> The Primer isn't a "dangerous and untested form of nanotechnology."  It's a storybook.  One with an agenda, which can intelligently and reactively change its plot, and which is acted out by actual people, but a book.
->>> >Nell, who is literally raised by a book,
->>> If you think that Nell was raised by a book, I think you missed the point.  Nell was raised by Miranda, **via** the book.
->>> > which raises her to consider all authority figures so useless that she'd rather attack a grown man several times her size with a knife than try telling an adult who could help her
->>> I think the "consider authority figures untrustworthy/useless" is more an artefact of her biological mother than the Primer.  Although I suppose that the Primer was designed to teach them to be subversive, so, maybe?
->>> > John, who was a nanotech engineer instrumental to the implementation of both of the above schemes, but who decided all the same that he could get away with stealing from his boss, since the only security nanotech worth considering is clearly the stuff he personally implemented.
->>> The wellbeing of your children is a hell of a motivator.  He was given a (to his mind) once-in-a-lifetime chance to make his daughter's life better than it otherwise would have been, to give her an education that rivalled only one other person in the world.  It's not irrational to take what would otherwise be a stupid risk, if the payoff to that risk is a huge furtherance towards achieving your goals.
->>> >Miranda, Moore and Carl, respectively Nell's mother, father and cool uncle figures, who collectively love her and want her to grow into a healthy young woman, but who see no reason to consider the appropriateness of the seemingly unique superstimulus media which she religiously consumes?
->>> There are a whole lot of people who communicate via Facebook, despite [most people thinking social media has too much power and has a mostly-negative impact on the US](https://www.pewresearch.org/fact-tank/2020/12/10/fast-facts-on-americans-views-about-social-media-as-facebook-faces-legal-challenge/), because it's [how they stay connected with the people they love](https://www.consumerreports.org/social-media/what-do-you-think-of-facebook-now-survey/).
->>> The Primer is the **only** way that Miranda can stay in touch with the girl she's been raising as a daughter for years.  Carl isn't really much of a character in Nell's story, so I don't know why you're bringing him up.  Constable Moore, you maybe have a point about (especially given that he's part of the Dovetail community).
->>> I'm not going to dispute your characterizations of X and Fang, because I can't remember them all that well.
 >>> 
+>>> Are you talking about the Primer, or the Seed?
+>>> 
+>>> I don't think the Seed is Finkle-McGraw's idea.  It's presented, in-universe, as being the Celestial Kingdom's hypothetical counterpart to the Feed.  It shows up in the Primer because that's what Hackworth is working with among the Dreamers.
+>>> 
+>>> The Primer isn't a "dangerous and untested form of nanotechnology."  It's a storybook.  One with an agenda, which can intelligently and reactively change its plot, and which is acted out by actual people, but a book.
+>>> 
+>>> >Nell, who is literally raised by a book,
+>>> 
+>>> If you think that Nell was raised by a book, I think you missed the point.  Nell was raised by Miranda, **via** the book.
+>>> 
+>>> > which raises her to consider all authority figures so useless that she'd rather attack a grown man several times her size with a knife than try telling an adult who could help her
+>>> 
+>>> I think the "consider authority figures untrustworthy/useless" is more an artefact of her biological mother than the Primer.  Although I suppose that the Primer was designed to teach them to be subversive, so, maybe?
+>>> 
+>>> > John, who was a nanotech engineer instrumental to the implementation of both of the above schemes, but who decided all the same that he could get away with stealing from his boss, since the only security nanotech worth considering is clearly the stuff he personally implemented.
+>>> 
+>>> The wellbeing of your children is a hell of a motivator.  He was given a (to his mind) once-in-a-lifetime chance to make his daughter's life better than it otherwise would have been, to give her an education that rivalled only one other person in the world.  It's not irrational to take what would otherwise be a stupid risk, if the payoff to that risk is a huge furtherance towards achieving your goals.
+>>> 
+>>> >Miranda, Moore and Carl, respectively Nell's mother, father and cool uncle figures, who collectively love her and want her to grow into a healthy young woman, but who see no reason to consider the appropriateness of the seemingly unique superstimulus media which she religiously consumes?
+>>> 
+>>> There are a whole lot of people who communicate via Facebook, despite [most people thinking social media has too much power and has a mostly-negative impact on the US](https://www.pewresearch.org/fact-tank/2020/12/10/fast-facts-on-americans-views-about-social-media-as-facebook-faces-legal-challenge/), because it's [how they stay connected with the people they love](https://www.consumerreports.org/social-media/what-do-you-think-of-facebook-now-survey/).
+>>> 
+>>> The Primer is the **only** way that Miranda can stay in touch with the girl she's been raising as a daughter for years.  Carl isn't really much of a character in Nell's story, so I don't know why you're bringing him up.  Constable Moore, you maybe have a point about (especially given that he's part of the Dovetail community).
+>>> 
+>>> I'm not going to dispute your characterizations of X and Fang, because I can't remember them all that well.
 
->>>> **u/grekhaus** [+1] *
+>>>> **u/grekhaus** [+1]  (2 days later)
 >>>> 
 >>>> > Are you talking about the Primer, or the Seed?
->>>> I'm talking about the Seed, yeah. Finkle-McGraw sends Hackworth to help the Dreamers develop it, and seemingly sets up Nell to help see it released into the wider world. But in the same briefing where Hackworth gets sent off, the intelligence goons are all very certain that the Seed is going to give everyone access to nanotech weapons and worse. This makes me say that Finkle-McGraw's plan is, at best, needlessly reckless with countless lives.
->>>> > If you think that Nell was raised by a book, I think you missed the point.
->>>> The content of Nell's education was decided by the book. Miranda provided the voice and the emotional character to the Primer's rearing of her, which is itself very important. But that doesn't change the fact that Nell thinks she's being raised by a book, and that the book's actual lessons are based around a years-long quest in which Princess Nell outwits and overcomes a series of malevolent authority figures. It's definitely teaching her to be subversive, but it is a very naive sort of subversive that doesn't understand the value of central coordination. It leaves her with a seemingly pathological inability to reach out to authority figures, even benevolent ones.
->>>> > The wellbeing of your children is a hell of a motivator. 
->>>> I'm not objecting to Hackworth wanting to steal a copy of the Primer. That part was totally plausible to me. I'm objecting to a man who we are supposed to take as one of the better nanotech engineers in his phyle being totally unaware of the nanotech-based law enforcement tools which result in him getting caught pretty much immediately after stealing the book. The aerostats weren't even a secret - random children knew enough about how the system worked to successfully subvert it. It is deeply weird that he got caught like that.
->>>> > The Primer is the only way that Miranda can stay in touch with the girl she's been raising as a daughter for years.
->>>> Consider the scene where Nell stabs her pedophile stepfather. Miranda is horrified that Nell was molested (good! she should be!), but seemingly fails to notice that the Primer has been neglecting to teach Nell about Stranger Danger in favour of encouraging her toward martial arts training and half-baked ambush attempts. This ties back into the thing where the Primer keeps hammering home the point that adults are not to be trusted. Even in situations where Nell should absolutely be trying to find a trustworthy adult, the Primer doubles down and forces a small child to attack a grown man with known violent tendencies and three to four times her body weight. Nobody comments on this.
 >>>> 
+>>>> I'm talking about the Seed, yeah. Finkle-McGraw sends Hackworth to help the Dreamers develop it, and seemingly sets up Nell to help see it released into the wider world. But in the same briefing where Hackworth gets sent off, the intelligence goons are all very certain that the Seed is going to give everyone access to nanotech weapons and worse. This makes me say that Finkle-McGraw's plan is, at best, needlessly reckless with countless lives.
+>>>> 
+>>>> > If you think that Nell was raised by a book, I think you missed the point.
+>>>> 
+>>>> The content of Nell's education was decided by the book. Miranda provided the voice and the emotional character to the Primer's rearing of her, which is itself very important. But that doesn't change the fact that Nell thinks she's being raised by a book, and that the book's actual lessons are based around a years-long quest in which Princess Nell outwits and overcomes a series of malevolent authority figures. It's definitely teaching her to be subversive, but it is a very naive sort of subversive that doesn't understand the value of central coordination. It leaves her with a seemingly pathological inability to reach out to authority figures, even benevolent ones.
+>>>> 
+>>>> > The wellbeing of your children is a hell of a motivator. 
+>>>> 
+>>>> I'm not objecting to Hackworth wanting to steal a copy of the Primer. That part was totally plausible to me. I'm objecting to a man who we are supposed to take as one of the better nanotech engineers in his phyle being totally unaware of the nanotech-based law enforcement tools which result in him getting caught pretty much immediately after stealing the book. The aerostats weren't even a secret - random children knew enough about how the system worked to successfully subvert it. It is deeply weird that he got caught like that.
+>>>> 
+>>>> > The Primer is the only way that Miranda can stay in touch with the girl she's been raising as a daughter for years.
+>>>> 
+>>>> Consider the scene where Nell stabs her pedophile stepfather. Miranda is horrified that Nell was molested (good! she should be!), but seemingly fails to notice that the Primer has been neglecting to teach Nell about Stranger Danger in favour of encouraging her toward martial arts training and half-baked ambush attempts. This ties back into the thing where the Primer keeps hammering home the point that adults are not to be trusted. Even in situations where Nell should absolutely be trying to find a trustworthy adult, the Primer doubles down and forces a small child to attack a grown man with known violent tendencies and three to four times her body weight. Nobody comments on this.
 
->>>>> **u/Nimelennar** [+2] *
+>>>>> **u/Nimelennar** [+2]  (2 days later)
 >>>>> 
 >>>>> Great, now I actually have to pick up my copy and find out the specifics of what you're talking about.
->>>>> >Finkle-McGraw sends Hackworth to help the Dreamers develop it
->>>>> I'm not doing a thorough re-read, but from skimming through various Hackworth chapters, I'm **pretty** sure that's Dr. X.
->>>>> >seemingly sets up Nell to help see it released into the wider world
->>>>> I think that Hackworth did that under his own initiative (he is, after all, the King Coyote in Nell's Primer); having solved the problem, he had to entrust it to someone, and he didn't want to give it to Dr. X, who had commissioned it from him, so he hid it in the Primer as the Book of the Seed in King Coyote's library.
->>>>> Which, yeah, that's a questionable choice, but given that Dr. X said that the Celestial Kingdom would figure out the secret in another decade or so, I'm reminded of some people's belief that the only/best way to prevent an unfriendly AI from coming into existence is for a friendly AI to happen first.  If someone is going to have that technology, shouldn't it be someone trustworthy?
->>>>> Again, I'm not exactly sure how Hackworth determined Nell would be a trustworthy person to hold that secret, so YMMV as to how rational that is.
->>>>> >It leaves her with a seemingly pathological inability to reach out to authority figures, even benevolent ones.
->>>>> I don't know; she doesn't seem to have an issue reaching out to Miss Matheson or Constable Moore.  A blind **trust** of authority figures would seem to be an even worse idea than a blind **distrust** of them.
->>>>> > I'm objecting to a man who we are supposed to take as one of the better nanotech engineers in his phyle being totally unaware of the nanotech-based law enforcement tools which result in him getting caught pretty much immediately after stealing the book. The aerostats weren't even a secret - random children knew enough about how the system worked to successfully subvert it. It is deeply weird that he got caught like that.
->>>>> He didn't.  The mites were flushed out of his system by the immune system of the New Atlantis Clave; that's as far as they could track him.  He got caught because he had his name written on the inside of his hat.  Which suggests to me that he didn't expect to be accosted (and if he hadn't been, he wouldn't have been tagged by the mites, either: the assault is what triggered the aerostats to release the mites).
->>>>> Although I'll concede that criming while wearing monogrammed clothing, especially that which can be easily lost, is its own brand of stupid.
->>>>> >Consider the scene where Nell stabs her pedophile stepfather. Miranda is horrified that Nell was molested (good! she should be!), but seemingly fails to notice that the Primer has been neglecting to teach Nell about Stranger Danger in favour of encouraging her toward martial arts training and half-baked ambush attempts.
->>>>> You keep going back to this as an example of how the book failed her, but I just don't see it.  She lives in a lawless part of town, with a neglectful mother and her series of abusive boyfriends.  To what authority should it be directing her?  When her father died, the authorities said the following about Nell:
->>>>> >"Who will save her?"  Miss Pao said.  "We have the power to punish; we are not given the power to raise children."
->>>>> The authorities are not willing to take her away from her mother, and her mother is not willing to stop bringing home abusive boyfriends.  What other escape was there for her?  What adults were around for her to trust?
->>>>> Yes, I'm willing to admit that having a girl result to violent self-defense and escape was a less-than-ideal solution to abuse.  But, given where she lived, who she lived with, and the authorities' unwillingness to protect her, I'm not really seeing a better one.
->>>>> When she actually gets to a place with trustworthy adults (again, Moore and Matheson), the Primer doesn't seem to in any way direct her away from them.
 >>>>> 
+>>>>> >Finkle-McGraw sends Hackworth to help the Dreamers develop it
+>>>>> 
+>>>>> I'm not doing a thorough re-read, but from skimming through various Hackworth chapters, I'm **pretty** sure that's Dr. X.
+>>>>> 
+>>>>> >seemingly sets up Nell to help see it released into the wider world
+>>>>> 
+>>>>> I think that Hackworth did that under his own initiative (he is, after all, the King Coyote in Nell's Primer); having solved the problem, he had to entrust it to someone, and he didn't want to give it to Dr. X, who had commissioned it from him, so he hid it in the Primer as the Book of the Seed in King Coyote's library.
+>>>>> 
+>>>>> Which, yeah, that's a questionable choice, but given that Dr. X said that the Celestial Kingdom would figure out the secret in another decade or so, I'm reminded of some people's belief that the only/best way to prevent an unfriendly AI from coming into existence is for a friendly AI to happen first.  If someone is going to have that technology, shouldn't it be someone trustworthy?
+>>>>> 
+>>>>> Again, I'm not exactly sure how Hackworth determined Nell would be a trustworthy person to hold that secret, so YMMV as to how rational that is.
+>>>>> 
+>>>>> >It leaves her with a seemingly pathological inability to reach out to authority figures, even benevolent ones.
+>>>>> 
+>>>>> I don't know; she doesn't seem to have an issue reaching out to Miss Matheson or Constable Moore.  A blind **trust** of authority figures would seem to be an even worse idea than a blind **distrust** of them.
+>>>>> 
+>>>>> > I'm objecting to a man who we are supposed to take as one of the better nanotech engineers in his phyle being totally unaware of the nanotech-based law enforcement tools which result in him getting caught pretty much immediately after stealing the book. The aerostats weren't even a secret - random children knew enough about how the system worked to successfully subvert it. It is deeply weird that he got caught like that.
+>>>>> 
+>>>>> He didn't.  The mites were flushed out of his system by the immune system of the New Atlantis Clave; that's as far as they could track him.  He got caught because he had his name written on the inside of his hat.  Which suggests to me that he didn't expect to be accosted (and if he hadn't been, he wouldn't have been tagged by the mites, either: the assault is what triggered the aerostats to release the mites).
+>>>>> 
+>>>>> Although I'll concede that criming while wearing monogrammed clothing, especially that which can be easily lost, is its own brand of stupid.
+>>>>> 
+>>>>> >Consider the scene where Nell stabs her pedophile stepfather. Miranda is horrified that Nell was molested (good! she should be!), but seemingly fails to notice that the Primer has been neglecting to teach Nell about Stranger Danger in favour of encouraging her toward martial arts training and half-baked ambush attempts.
+>>>>> 
+>>>>> You keep going back to this as an example of how the book failed her, but I just don't see it.  She lives in a lawless part of town, with a neglectful mother and her series of abusive boyfriends.  To what authority should it be directing her?  When her father died, the authorities said the following about Nell:
+>>>>> 
+>>>>> >"Who will save her?"  Miss Pao said.  "We have the power to punish; we are not given the power to raise children."
+>>>>> 
+>>>>> The authorities are not willing to take her away from her mother, and her mother is not willing to stop bringing home abusive boyfriends.  What other escape was there for her?  What adults were around for her to trust?
+>>>>> 
+>>>>> Yes, I'm willing to admit that having a girl result to violent self-defense and escape was a less-than-ideal solution to abuse.  But, given where she lived, who she lived with, and the authorities' unwillingness to protect her, I'm not really seeing a better one.
+>>>>> 
+>>>>> When she actually gets to a place with trustworthy adults (again, Moore and Matheson), the Primer doesn't seem to in any way direct her away from them.
 
->> **u/palsh7** [+3] *
+>> **u/palsh7** [+3]  (15 hours later)
 >> 
 >> That's my favorite book of his. What would you say makes it "approaching" but not achieving rational fiction?
->> 
 
->>> **u/PastafarianGames** [+7] *
+>>> **u/PastafarianGames** [+6]  (16 hours later)
 >>> 
 >>> Because the world, the polities, and the motivations are so wildly ludicrous that it undercuts it, I guess? Don't get me wrong, I love the book with all my heart, but it's very much an art piece intended to make a statement.
->>> 
 
-> **u/BuccaneerRex** [+4] *
+> **u/BuccaneerRex** [+4]  (7 hours later)
 > 
 > I think the key to rational fiction is not that the author is rational, but that the characters are. So... some of them?
-> 
 
-> **u/DarkwarriorJ** [+2] *
+> **u/DarkwarriorJ** [+2]  (3 days later)
 > 
 > Only having read Seveneves, tentatively no, not really. I found Seveneves to be great as a \[Science\] fiction novel, in the sense that countless little bits of scientific phenomena are brought up and are actually grippingly plot-relevant (ex. painful death by radiation sickness and how to somewhat survive it, comet mass sacrifice, delta-v considerations, etc.), but few of the characters explore the depth of thought normally seen in rational fiction, and at times there were definitely railroads of sorts (ex. everything to do with Julia's evil behavior).
+> 
 > Rational fiction, as far as I've read it, is very much focused on the personal experience of each character and their thought processes. Seveneves doesn't do it very much justice, and when it does it's usually focused on the powerful emotional moments, much like traditional literary fiction rather than the gripping thought processes of rational fiction. Which is also why it's a crying shame that Neal's writing in Seveneves is terribly bland. His ideas in the book were amazing, many scenes were poignant and poetic to the point of bringing me to tears, but most of the characters were cardboard and it feels almost like Orion's Arm in how great ideas are horribly restrained by mediocre writing.
+> 
 > Edit: Let's analyze it with the definition:
+> 
 > * Focus on intelligent characters solving problems through creative applications of their knowledge and resources.
 >    * This is partially true. Some characters do this, and do it very well. But there doesn't feel like there's a focus on this - the focus is on the overarching epic of humanity's struggle for survival, and our incredible ability to both come together and accept our fate... and fall apart and ruin each other. It does this to some degree, but not at all in the way rational fiction tends to do it.
 > * Examination of goals and motives: the story makes reasons behind characters' decisions clear.
@@ -336,67 +388,58 @@ Thanks and sorry if this post is inappropriate for the sub. I didn't bother lurk
 >    * So not rationalist.
 > * Thoughtful worldbuilding: the fictional world follows known, consistent rules, as a consequence of rational background characters exploring it or building realistic social structures.
 >    * It's conveyed terribly, but overall it is reasonable worldbuilding, if not necessarily the most plausible outcome.
-> 
 
-> **u/EsquilaxM** [-2] *
+> **u/EsquilaxM** [+0]  (an hour later)
 > 
 > I've only read reamde (well, gave up partway) so no.
 > Did you have particular books in mind?
-> 
 
->> **u/palsh7** [+7] *
+>> **u/palsh7** [+7]  (2 hours later)
 >> 
 >> > no
->> What about reamde was different from rational fiction, would you say?
->> >Did you have particular books in mind? 
->> Not really. Just his general style. He's well known for nerding out with long Melvillean passages, and I find it analytical in nature. He writes somewhat like a scientist at times.
 >> 
+>> What about reamde was different from rational fiction, would you say?
+>> 
+>> >Did you have particular books in mind? 
+>> 
+>> Not really. Just his general style. He's well known for nerding out with long Melvillean passages, and I find it analytical in nature. He writes somewhat like a scientist at times.
 
->> **u/None** [+6] *
+>> **u/None** [+6]  (6 hours later)
 >> 
 >> If you gave up partway that really doesn't count as reading him. His books have layers that all add together. Its like reading a Hercule poirot book and then stopping after the first chapter because it's not interesting enough. You would've gotten to it after.
->> 
 
->>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (7 hours later)
 >>> 
 >>> I've been reading Stephenson since Zodiac and I struggled caring enough to get through REAMDE.
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (8 hours later)
 >>>> 
 >>>> Congrats? But that's the ONLY book of his they'd attempted to read.
->>>> 
 
->>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (8 hours later)
 >>>>> 
 >>>>> Bad choice of book then.
->>>>> 
 
->>>> **u/Zarohk** [+1] *
+>>>> **u/Zarohk** [+1]  (9 hours later)
 >>>> 
 >>>> Have you read The Big U? It’s still one of my favorites of his books, even if it is completely nuts by the end.
->>>> 
 
->>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (9 hours later)
 >>>>> 
 >>>>> No.
->>>>> 
 
->>>>>> **u/Zarohk** [+1] *
+>>>>>> **u/Zarohk** [+1]  (9 hours later)
 >>>>>> 
 >>>>>> It’s definitely worth a read. Featuring the breakdown of reality, a semi-sentient computer worm, physics club railguns, and the true darkness of fraternities, all on a pastiche of Boston’s biggest universities.
->>>>>> 
 
->>> **u/EsquilaxM** [+1] *
+>>> **u/EsquilaxM** [+1]  (a day later)
 >>> 
 >>> By give up i mean i got bored so started skimming it and remained bored when finished :/
 >>> It's possible he's just not for me, my brother-in-law heavily recommended it to me and it was teh first time i got what i thought was a bad recommendation from the man.
->>> 
 
->> **u/vimefer** [+1] *
+>> **u/vimefer** [+1]  (9 hours later)
 >> 
 >> That's too bad, it picks up satisfyingly to the end.
->> 
 
 ---
 

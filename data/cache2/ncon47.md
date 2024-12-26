@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/ncon47/wip_the_new_humans_chapter_one_hundred_and_ten/
-* Score: 11
+* Score: 10
 
 * Created: 2021-05-15T02:12:20
 

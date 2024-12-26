@@ -2,7 +2,7 @@
 
 * Author: u/GaBeRockKing  *Horizon Breach: http://archiveofourown.org/works/6785857**
 * URL: https://www.reddit.com/r/rational/comments/dln0n0/dmk_reddit_and_simulated_sentience/
-* Score: 18
+* Score: 15
 
 * Created: 2019-10-22T19:29:33
 
@@ -30,94 +30,102 @@ edit: the short story is [Vitalics](http://www.miraclejones.com/cream/vitalics.h
 
 ### Comments:
 
-> **u/Badewell** [+12] *
+> **u/Badewell** [+14]  (50 minutes later)
 > 
 > Don't have much to add to this, but...
-> >There's a short story, whose name I have forgotten, where a catholic priest baptizes an insane, weakly godlike AI.
-> [Vitalics](http://www.miraclejones.com/cream/vitalics.html) by Miracle Jones.
 > 
+> >There's a short story, whose name I have forgotten, where a catholic priest baptizes an insane, weakly godlike AI.
+> 
+> [Vitalics](http://www.miraclejones.com/cream/vitalics.html) by Miracle Jones.
 
->> **u/miraclej0nes** [+3] *
+>> **u/miraclej0nes** [+3]  (23 hours later)
 >> 
 >> Hey, if you liked that one, I wrote an entire short story collection a few years ago that is a "discontinuous narrative" about an AI slowly becoming sentient enough to write narrative, specifically Hollywood movies.
->>  [http://www.miraclejones.com/tomorrowland.html](http://www.miraclejones.com/tomorrowland.html)   
-
->> One of the things that I think is novel in this conceit is that I draw the distinction between "temporary" and "permanent" AI, which I think will become more important as we move forward and need problems solved but don't want to leave a trace.
 >> 
+>>  [http://www.miraclejones.com/tomorrowland.html](http://www.miraclejones.com/tomorrowland.html)   
+>> 
+>> One of the things that I think is novel in this conceit is that I draw the distinction between "temporary" and "permanent" AI, which I think will become more important as we move forward and need problems solved but don't want to leave a trace.
 
-> **u/None** [+9] *
+> **u/None** [+9]  (52 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 >> 
 >> >Once, when I was wondering what life after death would be like,...So what's the point?
->> You might be interested in the idea of the [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain). What I'm talking about differs because metaintelligences, as I've defined them, can be pointed out and understood (or at least, that's what I'm trying to do in this thread) by ordinary intelligences. I've constructed the definition of metaintelligences so they're guaranteed to exist, so whether or not they exist isn't a disprovable hypothesis. Instead, this thread is an experiment to see if they can be useful, even if only in a theoretical, [galactic algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm) sense.
->> >Also I though just occured to me. Right now You (if you decide to comment of this) and Me are interacting on the internet. Does each pair of interaction from it's own metasentience? In that case is their a metasentience for every possible user interaction on reddit that is separate from the whole.
->> So as per the previous paragraph, yes and no. I can frame pretty much anything involving 2+ intelligences as a metaintelligence, but at least from this conversation, there's nothing I can point out as being a well-defined metaintelligence. I guess I could say that us, plus anyone willing to downvote/upvote this pair of posts, serve as a metaintelligence for coming up with a estimate of how likely my OP is true, but that's not really generalizable.
->> >This is kinda how I feel about your idea. Unless there is some mechanism by which a metasentience is differentiable from just a bunch of regular sentiences interacting in the physical world then it wouldn't matter. I wouldn't care if the reddit sentience were to cease outside of the emotions I would feel about a website I use going down.
->> Metaintelligences are differentiable from their substrate because they affect and are affected by the outside world. I could use a sentiment analysis program to find out how common people acting like the "NOT" gates in the OP are, and that would give me information about how much reddit's karma system rewards contrarians.
->> Here's an example about how a metaintelligence could be useful. A program can post an article on a website as an ad to a user, without making it available outside that link, where that article represents a 0 if it's meant to be transmitted as-is by the first user, or 1 if it's meant to be disagreed with. (In reality, it would likely represent some value on a gradient, but I'm keeping things simple.) That first user then performs a transformation. 0 is fail to transmit the article, 1 is transmit the article with disagreement, 2 is transmitting the article (with implicit or explicit agrement) . That is to say, the first user has a function a->f ^2 (a) \*: A={0,1} -> B^1 ={0,1,2}.
->> Another user sees the post (if it exists) on the user's page and decides whether to repost it. Other users, in turn, do their own transformations, as user N performs transformation b->f^N (b):B^N-1 -> B^N.
->> For any given chain of N users, a metaintelligence has performed a linear transformation from A to B^N . What transformation did this metaintelligence do? Well, that depends on the chain of users selected. You can select a metaintelligence that finds the echo chambers user 1 belongs to by feeding in a bunch of 0 articles and selecting the chains that result in 2s, or a metaintelligence that determines which articles that cause arguments by feeding in articles and choosing the chains that either go 0->... or 1->1->1->1->... because those are the chains where articles are either boring or controversial.
->> With the examples above, metaintelligences can come up with novel, useful information with the participation but without the awareness of the substrate they run on. Sort of like parasitic memes, really, where they leech brainpower to propagate themselves
->> Of course, any of the examples I've given so far can be thought of in other ways; there's plenty of work done in the fields social science, economics, psychology, and marketing to determine how to best exploit the  users of a platform or members of an organization. The reason why I'm insisting on viewing this from the perspective of "metaintelligence" is because ~~it's an interesting thought experiment I had to distract from a boring day of work~~ recontextualizing things this way lets us look at group behavior in a kind of [Asimovian](https://en.wikipedia.org/wiki/Foundation_series) lens, as it exploits the predictability of human beings in aggregate, as opposed to individual unpredictability.
->> \*I'm using superscripts because as far as I know markdown won't let me do subscripts.
 >> 
+>> You might be interested in the idea of the [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain). What I'm talking about differs because metaintelligences, as I've defined them, can be pointed out and understood (or at least, that's what I'm trying to do in this thread) by ordinary intelligences. I've constructed the definition of metaintelligences so they're guaranteed to exist, so whether or not they exist isn't a disprovable hypothesis. Instead, this thread is an experiment to see if they can be useful, even if only in a theoretical, [galactic algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm) sense.
+>> 
+>> >Also I though just occured to me. Right now You (if you decide to comment of this) and Me are interacting on the internet. Does each pair of interaction from it's own metasentience? In that case is their a metasentience for every possible user interaction on reddit that is separate from the whole.
+>> 
+>> So as per the previous paragraph, yes and no. I can frame pretty much anything involving 2+ intelligences as a metaintelligence, but at least from this conversation, there's nothing I can point out as being a well-defined metaintelligence. I guess I could say that us, plus anyone willing to downvote/upvote this pair of posts, serve as a metaintelligence for coming up with a estimate of how likely my OP is true, but that's not really generalizable.
+>> 
+>> >This is kinda how I feel about your idea. Unless there is some mechanism by which a metasentience is differentiable from just a bunch of regular sentiences interacting in the physical world then it wouldn't matter. I wouldn't care if the reddit sentience were to cease outside of the emotions I would feel about a website I use going down.
+>> 
+>> Metaintelligences are differentiable from their substrate because they affect and are affected by the outside world. I could use a sentiment analysis program to find out how common people acting like the "NOT" gates in the OP are, and that would give me information about how much reddit's karma system rewards contrarians.
+>> 
+>> Here's an example about how a metaintelligence could be useful. A program can post an article on a website as an ad to a user, without making it available outside that link, where that article represents a 0 if it's meant to be transmitted as-is by the first user, or 1 if it's meant to be disagreed with. (In reality, it would likely represent some value on a gradient, but I'm keeping things simple.) That first user then performs a transformation. 0 is fail to transmit the article, 1 is transmit the article with disagreement, 2 is transmitting the article (with implicit or explicit agrement) . That is to say, the first user has a function a->f ^2 (a) \*: A={0,1} -> B^1 ={0,1,2}.
+>> 
+>> Another user sees the post (if it exists) on the user's page and decides whether to repost it. Other users, in turn, do their own transformations, as user N performs transformation b->f^N (b):B^N-1 -> B^N.
+>> 
+>> For any given chain of N users, a metaintelligence has performed a linear transformation from A to B^N . What transformation did this metaintelligence do? Well, that depends on the chain of users selected. You can select a metaintelligence that finds the echo chambers user 1 belongs to by feeding in a bunch of 0 articles and selecting the chains that result in 2s, or a metaintelligence that determines which articles that cause arguments by feeding in articles and choosing the chains that either go 0->... or 1->1->1->1->... because those are the chains where articles are either boring or controversial.
+>> 
+>> With the examples above, metaintelligences can come up with novel, useful information with the participation but without the awareness of the substrate they run on. Sort of like parasitic memes, really, where they leech brainpower to propagate themselves
+>> 
+>> Of course, any of the examples I've given so far can be thought of in other ways; there's plenty of work done in the fields social science, economics, psychology, and marketing to determine how to best exploit the  users of a platform or members of an organization. The reason why I'm insisting on viewing this from the perspective of "metaintelligence" is because ~~it's an interesting thought experiment I had to distract from a boring day of work~~ recontextualizing things this way lets us look at group behavior in a kind of [Asimovian](https://en.wikipedia.org/wiki/Foundation_series) lens, as it exploits the predictability of human beings in aggregate, as opposed to individual unpredictability.
+>> 
+>> \*I'm using superscripts because as far as I know markdown won't let me do subscripts.
 
-> **u/ArgentStonecutter** [+7]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+8]  *Emergency Mustelid Hologram* (21 minutes later)
 > 
 > > But another of that short story's plot conceits was that sentience was a property of not just individuals, but organizations; that a corporation, or a religion, or a social network could be the substrate for a rudimentary meta-intelligence.
-> This is kind of conventional wisdom these days. For example:
-> http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html
-> Also, you seem to have independently invented Searle's "Chinese Room". Except Searle didn't really take it seriously and was just trying to provide a negative proof.
 > 
+> This is kind of conventional wisdom these days. For example:
+> 
+> http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html
+> 
+> Also, you seem to have independently invented Searle's "Chinese Room". Except Searle didn't really take it seriously and was just trying to provide a negative proof.
 
->> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857* (36 minutes later)
 >> 
 >> As I said, nothing I'm saying is new or controversial to /r/rational; the short story is at least a decade old too. Though this isn't really the same thing as a chinese room; the point of that though experiment was to think of something that appeared sapient but in actuality wasn't. Using the terminology I made up for this post, a chinese room would be a metasapient running on the substrate of the room, the interpreter, and all the people who thought of how a sapient would self-consistently respond to any given query.
->> 
 
->>> **u/Putnam3145** [+3] *
+>>> **u/Putnam3145** [+3]  (47 minutes later)
 >>> 
 >>> There's no compelling reason even in the original are you in the Chinese room ought not be sapient. It's essentially a philosophical zombie argument.
->>> 
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (44 minutes later)
 >>> 
 >>> Why do you think the chinese room isn't sapient?
->>> 
 
->>>> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857* (48 minutes later)
 >>>> 
 >>>> I think you misunderstood; I'm saying that the chinese room *is* in fact sapient, in the sense that the aggregate mental work done to perfectly simulate how a sapient would react to any given query is equivalent to a sapient (or many sapients) experiencing and thinking about each query before giving their reply. I'm calling that a meta-sapient, because it's a sapient running on a substrate composed of other sapient minds.
->>>> /u/Putnam3145 this is a response to you too
 >>>> 
+>>>> /u/Putnam3145 this is a response to you too
 
-> **u/WalterTFD** [+3] *
+> **u/WalterTFD** [+3]  (2 hours later)
 > 
 > I think you might have hold of the wrong end of the stick here, in terms of reddit bots that simulate simple gates being intelligent.
-> Like, nobody here is trying to argue for souls, yeah?  You are free to do whatever you want, not free to want whatever you want, deterministic universe, etc.  Calling a brain in a human body a 'person' is a useful social illusion, not a cutting of reality along the joints sort of deal.  People are part of physics, same as their chairs, exactly equally free of causality.  
-
-> The point, then, of the label of 'personhood' is its utility to our polity, not what it describes.  To call a Reddit bot a 'person' isn't to say anything about its nature, it is a useful handle for a bunch of other things.  Like, can you be friends with it?  Should it be allowed to vote?  These are examples of the kinds of questions that 'personhood' is salient to.  
-
-> Whether a skull with a Chinese room inside it is useful to call a Chinese person is down to how it acts, not what shows up when you x-ray it.  Bots don't fail because they are bots, they fail because of the social considerations of them not failing.  
-
-> Whenever AI passes a hurdle a new hurdle gets put down further along.  This isn't because there is some distinct degree of usefulness that an AI needs to pass to 'be a person', it is because AI being a person seems like it would have bad consequences, so we move the goalposts.  It is a motivated judgement.  The real "tell me what my AI needs to do to be considered AI" is something like 'vote without deception under its own identity', or some other test that is equally recursive.
 > 
+> Like, nobody here is trying to argue for souls, yeah?  You are free to do whatever you want, not free to want whatever you want, deterministic universe, etc.  Calling a brain in a human body a 'person' is a useful social illusion, not a cutting of reality along the joints sort of deal.  People are part of physics, same as their chairs, exactly equally free of causality.  
+> 
+> The point, then, of the label of 'personhood' is its utility to our polity, not what it describes.  To call a Reddit bot a 'person' isn't to say anything about its nature, it is a useful handle for a bunch of other things.  Like, can you be friends with it?  Should it be allowed to vote?  These are examples of the kinds of questions that 'personhood' is salient to.  
+> 
+> Whether a skull with a Chinese room inside it is useful to call a Chinese person is down to how it acts, not what shows up when you x-ray it.  Bots don't fail because they are bots, they fail because of the social considerations of them not failing.  
+> 
+> Whenever AI passes a hurdle a new hurdle gets put down further along.  This isn't because there is some distinct degree of usefulness that an AI needs to pass to 'be a person', it is because AI being a person seems like it would have bad consequences, so we move the goalposts.  It is a motivated judgement.  The real "tell me what my AI needs to do to be considered AI" is something like 'vote without deception under its own identity', or some other test that is equally recursive.
 
->> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (3 hours later)
 >> 
 >> I'm not really disagreeing with you; I'm a fan of /u/DataPacRat's "Trader's definition" of personhood from this blog: http://blog.datapacrat.com/2013/05/page/2/ (warning:furry transhumanism). That is, that a person is anything it's useful to treat as a person. But even by that definition, or perhaps especially by that definition, personhood is applicable to metaintelligances that arise as emergent properties of organizations, since what I'm trying to determine if we can describe and therefore locate metaintelligences that could perform useful computational work. At this point I'm just trying to find a NAND gate as a thought experiment, but maybe the social networks of the future will be complex enough to allow for commensurately complex metaintelligences.
->> 
 
-> **u/donaldhobson** [+1] *
+> **u/donaldhobson** [+1]  (4 days later)
 > 
 > The question isn't how complex it can get, but how independent of substrate and optimized it can get.
 > Suppose it wasn't at all independent of substrate, by this I mean that there is no information you can skip out and still get accurate predictions. Suppose a human John mentally simulates a system of logic gates. If we want to predict this specific part of Johns mind, we don't need to know what john had for lunch, the result should come out the same either way. If John is writing a diary, or filling in a happiness questionnaire, the result might depend on all sorts of things, like his lunch and relationship status. If peoples redditing behavior depend strongly on these other factors, then reddit alone cant be an independent subsystem.
-> There is also a question of optimization. Human minds are optimized by evolution. A random arrangement of logic gates won't produce anything interesting. (Using only reversible logic gates on random inputs will give random outputs). There is no obvious force optimizing any of these meta level systems, and the amount of compute in them is tiny if each person is acting like a 20 microhertz not gate.
 > 
+> There is also a question of optimization. Human minds are optimized by evolution. A random arrangement of logic gates won't produce anything interesting. (Using only reversible logic gates on random inputs will give random outputs). There is no obvious force optimizing any of these meta level systems, and the amount of compute in them is tiny if each person is acting like a 20 microhertz not gate.
 
 ---
 

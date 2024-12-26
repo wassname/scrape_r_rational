@@ -44,40 +44,33 @@ Here's the link to the [First Chapter](https://www.royalroad.com/fiction/40163/t
 
 ### Comments:
 
-> **u/anenymouse** [+30] *
+> **u/anenymouse** [+29]  (4 hours later)
 > 
 > Can i just that it's kind of wierd for there to be an expectation that going against larger built up powers is somehow rational? Like it almost always is a trope in a story for the underdog to win, but practically speaking the vast majority of times the larger power base crushed the smaller one regardless of who holds the moral high ground. Like sure it makes for a better story to not swear fealty to a large power and lose most of your say in how things go. Like for one in particular the quest Now you feel like Number None is about being like mook in a world of mook slayers like of course its reasonable to put yourself under a great power for safety. I don't necessarily enjoy that story but it's completely rational to act in that way. I wouldn't make the argument that the one moment makes the whole thing rational but that moment of choosing to lose ones autonomy in exchange for safety makes a lot of sense.
-> 
 
-> **u/EthanCC** [+27] *
+> **u/EthanCC** [+27]  (5 hours later)
 > 
 > I swear this sub is just a dice roll where snake eyes gives you weird porn.
-> 
 
->> **u/sunshine_cata** [+18] *
+>> **u/sunshine_cata** [+18]  (6 hours later)
 >> 
 >> That could be said of the whole internet.
->> 
 
->> **u/CronoDAS** [+1] *
+>> **u/CronoDAS** [+1]  (17 days later)
 >> 
 >> What's wrong with weird porn?
->> 
 
-> **u/FunkyFunker** [+23] *
+> **u/FunkyFunker** [+24]  (4 hours later)
 > 
 > Good luck with your story, but I wouldn't really call it rational. The magic system is very soft, edging into surreal, and the story and characters seem to bend to the themes you want to show, rather than the themes emerging from a self-consistent story. There are also quite a lot of really uncomfortable sexual moments that stray into unusual fetish territory. This for the most part seems less like a rational story and more like a surreal giantess fetish story.
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (22 hours later)
 > 
 > [deleted]
-> 
 
->> **u/EpicMyth** [+1] *
+>> **u/EpicMyth** [+1]  (a day later)
 >> 
 >> Glad to hear it. There's more where that's coming from.
->> 
 
 ---
 

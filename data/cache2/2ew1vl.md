@@ -12,95 +12,94 @@
 
 ### Comments:
 
-> **u/Gurkenglas** [+3] *
+> **u/Gurkenglas** [+3]  (8 hours later)
 > 
 > I hope moving from text posts to videos won't become a thing. I've got the feeling it's easier to be unbiased against text.
-> 
 
->> **u/RandomDamage** [+6] *
+>> **u/RandomDamage** [+4]  (9 hours later)
 >> 
 >> Videos are bad, all the faults of face-to-face communication with none of the benefits.
->> 
 
->>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (13 hours later)
 >>> 
 >>> I'm not so sure. I estimate that when a young, attractive and charismatic person with good diction says something in a video, people are somewhat more likely to listen to them rather than a wall of text. And, more importantly, they are more likely to keep coming back for the next message.
->>> If the goal is to spread rationality, every available resource should be used and pretty faces are undoubtedly a valuable one. Exploit biases to more effectively make people rational (and isn't that what this video is about in the end). How about it?
 >>> 
+>>> If the goal is to spread rationality, every available resource should be used and pretty faces are undoubtedly a valuable one. Exploit biases to more effectively make people rational (and isn't that what this video is about in the end). How about it?
 
->>>> **u/blazinghand** [+4]  *Chaos Undivided**
+>>>> **u/blazinghand** [+4]  *Chaos Undivided* (15 hours later)
 >>>> 
 >>>> Yeah, but this subreddit isn't about exploiting people in this subreddit to learn or accept rationality. We're here to discuss works or rational and rationalist fiction, which this is not. I liked this video, but I am downvoting it because I don't think it belongs here.
->>>> It was interesting to watch, nonetheless. I'd have vastly preferred it in text form, because I read much more quickly than anyone talks, and it's easier to reread a section or implement other strategies than to do that with video. Whenever I'm trying to get educated on something, I hope there's text.
 >>>> 
+>>>> It was interesting to watch, nonetheless. I'd have vastly preferred it in text form, because I read much more quickly than anyone talks, and it's easier to reread a section or implement other strategies than to do that with video. Whenever I'm trying to get educated on something, I hope there's text.
 
->>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (a day later)
 >>>>> 
 >>>>> I agree that it does not belong here. Aside from it not being about rational art, for most of us the content is likely cached already. Still, in business of spreading rationality, videos have a place I think.
->>>>> 
 
->>>>> **u/None** [-1] *
+>>>>> **u/None** [-1]  (a day later)
 >>>>> 
 >>>>> You have no real commitment to any sort of rationality movement.
->>>>> 
 
->>>>>> **u/blazinghand** [+4]  *Chaos Undivided**
+>>>>>> **u/blazinghand** [+2]  *Chaos Undivided* (a day later)
 >>>>>> 
 >>>>>> I suspect, though I am not sure, that this is the wrong subreddit to try that sort of thing. Here, any blatant attempts to paint someone as an outsider or question their solidarity with the in-group will probably be noted for what it is. Questioning someone's commitment to the cause when they disagree with you might work elsewhere, though-- it's a powerful tool to have in your back pocket, if you're not afraid to exploit biases to bend people to your will.
->>>>>> 
 
->>>>>>> **u/Filthysnip** [+1] *
+>>>>>>> **u/Filthysnip** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> Great comeback, did this remind anyone else of HJPEV when they read this?
->>>>>>> 
 
->>>>>>> **u/None** [-1] *
+>>>>>>> **u/None** [-1]  (2 days later)
 >>>>>>> 
 >>>>>>> Except that it's just a statement of fact. If you're going to denounce videos and articles which promote rationality then what is the point of trying to even promote rationality through other entertainment means like fiction? I'm not saying there needs to be a strict scripture oriented community and it's disingenuous to say as much about my comment. I'm just pointing out that you lack any real conviction to a ideology that you claim to support. What is the point of trying to argue freedom when that doesn't help the objective of the community? And, if there is no objective, why bother with promoting rationality? 
->>>>>>> Certainly there can be disagreements and counterarguments, but if freedom of the community to believe and do whatever comes before promoting rationality then what's the point of even building a community to promote rationality? It would be sparse with either lackadaisical objectives or no real objective to pursue.
 >>>>>>> 
+>>>>>>> Certainly there can be disagreements and counterarguments, but if freedom of the community to believe and do whatever comes before promoting rationality then what's the point of even building a community to promote rationality? It would be sparse with either lackadaisical objectives or no real objective to pursue.
 
->>>>>>>> **u/blazinghand** [+4]  *Chaos Undivided**
+>>>>>>>> **u/blazinghand** [+3]  *Chaos Undivided* (2 days later)
 >>>>>>>> 
 >>>>>>>> I'm sorry, I did not communicate effectively. Let me make myself more clear: the video was an interesting watch, and I liked it. I do not denounce the video, or the video's author.
->>>>>>>> The two points I am trying to raise are this: I personally absorb text much better than video, and so I prefer articles to video. This isn't really relevant, but it was something I mentioned. More relevant is that this isn't an on-topic link for this subreddit. This subreddit is about rational and rationalist fiction, and from what I can tell, this video is not fictional. 
->>>>>>>> I recommend posting it to r/lesswrong or some other good rationality subreddit. This subreddit, despite being called r/rational, is a reddit for the posting of rational and rationalist fiction . This is a reddit for fiction, not for other things. Check out the side bar to the right to learn more!
->>>>>>>> I was remiss to not guess that you might new here and were not aware of the purpose of this subreddit. I was out of line to assume that you were deliberately violating the subject of the subreddit, and I will be more accommodating to new posters going forward.
 >>>>>>>> 
+>>>>>>>> The two points I am trying to raise are this: I personally absorb text much better than video, and so I prefer articles to video. This isn't really relevant, but it was something I mentioned. More relevant is that this isn't an on-topic link for this subreddit. This subreddit is about rational and rationalist fiction, and from what I can tell, this video is not fictional. 
+>>>>>>>> 
+>>>>>>>> I recommend posting it to r/lesswrong or some other good rationality subreddit. This subreddit, despite being called r/rational, is a reddit for the posting of rational and rationalist fiction . This is a reddit for fiction, not for other things. Check out the side bar to the right to learn more!
+>>>>>>>> 
+>>>>>>>> I was remiss to not guess that you might new here and were not aware of the purpose of this subreddit. I was out of line to assume that you were deliberately violating the subject of the subreddit, and I will be more accommodating to new posters going forward.
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> The subreddit promotes educational material though and what is the point of promoting rationality... if we're not promoting rationality? 
->>>>>>>>> Also, your view is too myopic. Just because you personally don't have a benefit doesn't mean that others don't. There were four upvotes before those stupid downvotes started coming in.
 >>>>>>>>> 
+>>>>>>>>> Also, your view is too myopic. Just because you personally don't have a benefit doesn't mean that others don't. There were four upvotes before those stupid downvotes started coming in.
 
->>>> **u/Filthysnip** [+1] *
+>>>> **u/Filthysnip** [+1]  (3 days later)
 >>>> 
 >>>> Attractive?...  
 >>>> Care to explain?
->>>> 
 
->>>>> **u/AugSphere** [+0]  *Dark Lord of Corruption**
+>>>>> **u/AugSphere** [+0]  *Dark Lord of Corruption* (4 days later)
 >>>>> 
 >>>>> I'm not really sure what is there to explain. The meaning I wanted to convey is this: "an average person will be more likely to return and watch future videos starring someone one finds attractive rather than read text". 
->>>>> Since individual standards of attractiveness tend to overlap quite a bit within similar cultures, a strategy of using a conventionally attractive person to narrate entry-level videos about rationality is a sound one, in my opinion.
->>>>> The secondary message is that I find Julia attractive. Since my preferences are pretty average as far as know, I think the reasoning above applies to videos with Julia. 
->>>>> That's it. I don't rightly know what was unclear in the original post. Illusion of transparency in action, I guess. Hopefully, I have conveyed the meaning properly this time.
->>>>> Edit: I don't think there is any ambiguity in the term "attractive" itself. If you want me to elaborate what precisely I've found attractive, I can do that. Although, for some reason, I feel that describing in detail what qualities I find attractive in a concrete person on public forum is a faux pas. Communication is so damn complicated.
 >>>>> 
+>>>>> Since individual standards of attractiveness tend to overlap quite a bit within similar cultures, a strategy of using a conventionally attractive person to narrate entry-level videos about rationality is a sound one, in my opinion.
+>>>>> 
+>>>>> The secondary message is that I find Julia attractive. Since my preferences are pretty average as far as know, I think the reasoning above applies to videos with Julia. 
+>>>>> 
+>>>>> That's it. I don't rightly know what was unclear in the original post. Illusion of transparency in action, I guess. Hopefully, I have conveyed the meaning properly this time.
+>>>>> 
+>>>>> Edit: I don't think there is any ambiguity in the term "attractive" itself. If you want me to elaborate what precisely I've found attractive, I can do that. Although, for some reason, I feel that describing in detail what qualities I find attractive in a concrete person on public forum is a faux pas. Communication is so damn complicated.
 
-> **u/E-o_o-3** [+1] *
+> **u/E-o_o-3** [+1]  (a day later)
 > 
 > Jeez guys...the president of CFAR posts a youtube video and your comments are all about how whether or not her pretty face is going to bias everyone and whether or not that ethical? I mean, I get that physical appearances bias people, but that doesn't mean that we have to eliminate all traces of everyone's physicality. 
-> I too, prefer text over video for information speed reasons, and agree that this material is a bit obvious to most of the readership here. Youtube does has an option to 1.5x or 2x the rate, really helps for informational videos in general.
 > 
+> I too, prefer text over video for information speed reasons, and agree that this material is a bit obvious to most of the readership here. Youtube does has an option to 1.5x or 2x the rate, really helps for informational videos in general.
 
-> **u/lsparrish** [+1] *
+> **u/lsparrish** [+1]  (2 days later)
 > 
 > For those who do not feel like watching the video:
-> The title is paraphrased from a shampoo bottle: "Know the hair you have to get the hair you want."
-> The take away is that if you know that you are prone to certain biases like social proof and so forth, you can leverage that to make your brain cooperate and be more rational by e.g hanging out with people whose values and behaviors you aspire towards.
 > 
+> The title is paraphrased from a shampoo bottle: "Know the hair you have to get the hair you want."
+> 
+> The take away is that if you know that you are prone to certain biases like social proof and so forth, you can leverage that to make your brain cooperate and be more rational by e.g hanging out with people whose values and behaviors you aspire towards.
 
 ---
 

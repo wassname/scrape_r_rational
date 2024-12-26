@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/None** [+11] *
+> **u/None** [+10]  (5 hours later)
 > 
 > Submitting the works one by one encourages discussion though, this doesn't.
-> 
 
->> **u/Adjal** [+1] *
+>> **u/Adjal** [+1]  (6 days later)
 >> 
 >> Maybe some mod or community led way of spacing them out? Like *Less-Wrong Lunes!*? (I really wanted alliteration, but couldn't think of anything in English.)
->> **Edit:** Tuesdkowsky!
 >> 
+>> **Edit:** Tuesdkowsky!
 
 ---
 

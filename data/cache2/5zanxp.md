@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://heroessavetheworld.wordpress.com/2017/03/10/sharp-as-sword-blades-ch-13/
-* Score: 9
+* Score: 5
 
 * Created: 2017-03-14T06:52:29
 
@@ -12,24 +12,25 @@
 
 ### Comments:
 
-> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (a minute later)
 > 
 > Only one update, but it's a doozy compared to the usual word count: 3,600 and change. 
-> I don't anticipate this being the usual length, but...we might find ourselves working up to it in the future. 
-> I'm also experimenting a bit with the format, as you can see.
 > 
+> I don't anticipate this being the usual length, but...we might find ourselves working up to it in the future. 
+> 
+> I'm also experimenting a bit with the format, as you can see.
 
->> **u/narfanator** [+2] *
+>> **u/narfanator** [+2]  (an hour later)
 >> 
 >> I liked it! It's still fundamentally a snippet, a single main thread - we saw only three scenes from her life, all about the "Angels", and nothing else. But it's nice to see what amounts to the full thread, all at once - also fits the "beginning, middle, end" track nicely.
->> 
 
->>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (an hour later)
 >>> 
 >>> I'm glad that you liked it! 
->>> I'm a little disappointed that I wasn't able to fit in more, but...the chapter was originally an attempt to shed additional light in Akvo's people (as the last chapter of each sequence always does), and only exploded from there. 
->>> I'm pretty sure that we're going to be seeing more of Gabriela in the not too distant future, though.
 >>> 
+>>> I'm a little disappointed that I wasn't able to fit in more, but...the chapter was originally an attempt to shed additional light in Akvo's people (as the last chapter of each sequence always does), and only exploded from there. 
+>>> 
+>>> I'm pretty sure that we're going to be seeing more of Gabriela in the not too distant future, though.
 
 ---
 

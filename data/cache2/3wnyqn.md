@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: http://junctureserial.blogspot.com/2015/12/interlude-05.html
-* Score: 7
+* Score: 6
 
 * Created: 2015-12-13T17:01:32
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ZeroNihilist** [+1] *
+> **u/ZeroNihilist** [+1]  (29 minutes later)
 > 
 > [SPOILER](#s "Oh shit, the substitute teacher from earlier in the story is going to be a bad guy? Can't say I saw that coming. Though it does explain his freaky intuition.")
-> 
 
 ---
 

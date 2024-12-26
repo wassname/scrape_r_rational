@@ -25,43 +25,39 @@ You may be familiar with Fred Clark's deconstruction of the Left Behind novels.
 
 ### Comments:
 
-> **u/SkyTroupe** [+5] *
+> **u/SkyTroupe** [+5]  (5 hours later)
 > 
 > Do I need to read the previous quest for this to make sense?
-> 
 
->> **u/spiritplumber** [+3] *
+>> **u/spiritplumber** [+3]  (15 hours later)
 >> 
 >> Not at all. In fact, the previous quest assumes that the current quest fails (Which doesn't mean it's doomed to fail, of course, it's like the XCOM games)
->> 
 
->>> **u/SkyTroupe** [+2] *
+>>> **u/SkyTroupe** [+2]  (16 hours later)
 >>> 
 >>> Thanks!
->>> 
 
->>> **u/pleasedothenerdful** [+2] *
+>>> **u/pleasedothenerdful** [+2]  (4 days later)
 >>> 
 >>> > it's like the XCOM games
->>> That is a very apt description, considering how the dice seemed to always go in the first quest. It was still a fun rabbit hole to go down, though.
 >>> 
+>>> That is a very apt description, considering how the dice seemed to always go in the first quest. It was still a fun rabbit hole to go down, though.
 
->>>> **u/spiritplumber** [+1] *
+>>>> **u/spiritplumber** [+1]  (6 days later)
 >>>> 
 >>>> They're being SLIGHTLY nicer in the current quest.
->>>> 
 
-> **u/Frommerman** [+4] *
+> **u/Frommerman** [+4]  (13 hours later)
 > 
 > I read part way through the first quest, but got stuck and stopped when they insisted on solving social issues while a literal apocalypse was approaching. Without spoiling anything else, do they get stuck on social issues this time as well?
-> 
 
->> **u/spiritplumber** [+2] *
+>> **u/spiritplumber** [+2]  (16 hours later)
 >> 
 >> This time they seem more keen on promoting tribal warfare in Africa and conducting midnight raids, although they've also stopped a train robbery and rescued a bunch of refugees.
->> In the first quest, the Omega are an amoral swarm of quasi-AI: if they solved social issues, it was for the intended purpose of gaining allies to deal with said apocalypse. Over the years they ended up allying with a LGBT group, a bunch of anarcho-capitalists, people who are in favor of cryptocurrency, people who are against cryptocurrency, Ancient Egyptian revivalists, drug dealers, and more. Skip ahead a few years/turns and see what bonuses and penalties their attempt to shape society  resulted in :)
->> In the current quest, the Foreman is a regular human being, and will do what his morality or lack thereof (as decided by the players) calls for. A few people will be able to "see through" to the Foreman's karma, either because they have that supernatural gift and the Foreman hasn't figured out how to block it or because they are trained in psychology and investigative techniques, but most will go by his reputation (which has a lot more to do with PR effort than any actual heroic or villainous deeds).
 >> 
+>> In the first quest, the Omega are an amoral swarm of quasi-AI: if they solved social issues, it was for the intended purpose of gaining allies to deal with said apocalypse. Over the years they ended up allying with a LGBT group, a bunch of anarcho-capitalists, people who are in favor of cryptocurrency, people who are against cryptocurrency, Ancient Egyptian revivalists, drug dealers, and more. Skip ahead a few years/turns and see what bonuses and penalties their attempt to shape society  resulted in :)
+>> 
+>> In the current quest, the Foreman is a regular human being, and will do what his morality or lack thereof (as decided by the players) calls for. A few people will be able to "see through" to the Foreman's karma, either because they have that supernatural gift and the Foreman hasn't figured out how to block it or because they are trained in psychology and investigative techniques, but most will go by his reputation (which has a lot more to do with PR effort than any actual heroic or villainous deeds).
 
 ---
 

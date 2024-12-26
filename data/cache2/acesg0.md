@@ -14,32 +14,29 @@ Special note: the next challenge, **Endings**, will be the final challenge.
 
 ### Comments:
 
-> **u/mbzrl** [+7] *
+> **u/mbzrl** [+6]  (8 hours later)
 > 
 > I’m sad to hear these are ending, as I still haven’t worked up the courage to enter any, and I think some really great short stories have come out of it (including the last winner). It may make sense to edit out the “add a prompt” section in the main post, on another note.
-> 
 
->> **u/conradin6622** [+3]  *Challenge Winner**
+>> **u/conradin6622** [+3]  *Challenge Winner* (a day later)
 >> 
 >> I'm sad about this too.  I entered two of these, but I could have entered more; I just took it for granted that I'd have other opportunities, every single time.
->> I'm going to enter this one and the next one.  I hope you do too :)
 >> 
+>> I'm going to enter this one and the next one.  I hope you do too :)
 
->>> **u/asimplerationalist** [+1] *
+>>> **u/asimplerationalist** [+1]  (7 days later)
 >>> 
 >>> thats so sad. i hope you write a story that captures your sadness
->>> 
 
-> **u/LupoCani** [+1] *
+> **u/LupoCani** [+1]  (4 days later)
 > 
 > >It's a more open-ended one, but the kernel of the idea comes from looking at corner cases where systems tend to fail, or the way that we attempt to fix aspects of ourselves that are broken, or the ways in which simulations sometimes don't map to reality. Remember that prompts are to inspire, not to limit. Remember that prompts are to inspire, not to limit.
-> Typo, that last sentence is repeated.
 > 
+> Typo, that last sentence is repeated.
 
->> **u/asimplerationalist** [+1] *
+>> **u/asimplerationalist** [+1]  (7 days later)
 >> 
 >> lol i thought he repeated it to emphasize
->> 
 
 ---
 

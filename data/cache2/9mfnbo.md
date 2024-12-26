@@ -20,15 +20,13 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/causalchain** [+8] *
+> **u/causalchain** [+7]  (18 hours later)
 > 
 > [www.kialo.com](https://www.kialo.com) is a website designed for effective discussion about difficult topics. What do you guys think about it?
-> 
 
->> **u/FlameDragonSlayer** [+2] *
+>> **u/FlameDragonSlayer** [+2]  (20 hours later)
 >> 
 >> I found it very well designed though a bit hard to navigate at first.
->> 
 
 ---
 

@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/NotUnusualYet** [+3] *
+> **u/NotUnusualYet** [+3]  (12 hours later)
 > 
 > For those who don't know about them:
-> [Discussion thread on /r/ToTheStars](https://www.reddit.com/r/ToTheStars/comments/3nov64/tts_chapter_44_story_in_silhouette_part_two/) 
-> [Discussion thread on Sufficient Velocity](https://forums.sufficientvelocity.com/threads/to-the-stars-puella-magi-madoka-magica.3927/page-171)
 > 
+> [Discussion thread on /r/ToTheStars](https://www.reddit.com/r/ToTheStars/comments/3nov64/tts_chapter_44_story_in_silhouette_part_two/) 
+> 
+> [Discussion thread on Sufficient Velocity](https://forums.sufficientvelocity.com/threads/to-the-stars-puella-magi-madoka-magica.3927/page-171)
 
 ---
 

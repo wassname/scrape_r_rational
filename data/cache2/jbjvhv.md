@@ -2,7 +2,7 @@
 
 * Author: u/silver7017 *
 * URL: https://www.reddit.com/r/rational/comments/jbjvhv/looking_for_an_obscure_web_short_series_outsider/
-* Score: 9
+* Score: 8
 
 * Created: 2020-10-15T08:45:25
 
@@ -16,38 +16,35 @@ I am totally unable to locate it again, no matter what keywords I use or what se
 
 ### Comments:
 
-> **u/Noumero** [+10]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+11]  *Self-Appointed Court Statistician* (48 minutes later)
 > 
 > I'm familiar with it. It's been linked to on this subreddit, [here](https://old.reddit.com/r/rational/comments/43zh8p/rst_outsider_ep_16_first_contact_visual_novel/)'s a past discussion thread.
-> But it appears the videos have been taken down. I'm not sure if anyone has backups. Perhaps we should ask the author, u/danielrpa?
 > 
+> But it appears the videos have been taken down. I'm not sure if anyone has backups. Perhaps we should ask the author, u/danielrpa?
 
->> **u/Arbitrary_Screaming** [+5] *
+>> **u/Arbitrary_Screaming** [+4]  (9 hours later)
 >> 
 >> You do gods work my friend, good on ya for helping this man out.
->> 
 
->> **u/silver7017** [+3] *
+>> **u/silver7017** [+3]  (15 hours later)
 >> 
 >> Ah, you are awesome. thank you, also, for the author's handle. I figured the video might be gone, but it is good to know that I am not totally insane. still weird that I got the date so far off, maybe I was associating it with something else similar. also, I feel sort of dumb for not searching this sub first, though I had assumed it would be too old to reasonably find given my error with the dates.
->> 
 
-> **u/danielrpa** [+7] *
+> **u/danielrpa** [+5]  (a day later)
 > 
 > Hello all, thank you very much for the interest (and, wow, finding the original thread!). I had nothing but poor experiences with youtube due to the background music that played along the text. Constant nagging for copyright claims on music that was freely usable (even for commercial applications) AND for which I had permission from the author, to whom I even donated some money.
-> That story was condensed to begin with. I need to revise it, find new music, but unfortunately life has made it hard for me to find the needed time. Covid didn't help either, which sounds counter-intuitive but true nonetheless. But worry not, I haven't forgotten about it!
-> Thanks again!
 > 
+> That story was condensed to begin with. I need to revise it, find new music, but unfortunately life has made it hard for me to find the needed time. Covid didn't help either, which sounds counter-intuitive but true nonetheless. But worry not, I haven't forgotten about it!
+> 
+> Thanks again!
 
->> **u/leadlinedcloud** [+1] *
+>> **u/leadlinedcloud** [+1]  (4 days later)
 >> 
 >> Is the story currently available anywhere?
->> 
 
->>> **u/danielrpa** [+2] *
+>>> **u/danielrpa** [+2]  (4 days later)
 >>> 
 >>> Not right now... But hopefully this can change in the next few months, maybe if I get some breathing room over thanksgiving!
->>> 
 
 ---
 

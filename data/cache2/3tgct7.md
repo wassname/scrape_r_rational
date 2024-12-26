@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (5 hours later)
 > 
 > > We were being held up at dynamite-point.
-> This made me laugh at how nonsensical, yet serious, this was.
 > 
+> This made me laugh at how nonsensical, yet serious, this was.
 
->> **u/Chosen_Pun** [+2]  *The Chosen Ones**
+>> **u/Chosen_Pun** [+2]  *The Chosen Ones* (9 hours later)
 >> 
 >> I didn't even make it that long; cracked up at the implied formality of "I am in the process of robbing this bank."
->> 
 
 ---
 

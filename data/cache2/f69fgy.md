@@ -2,7 +2,7 @@
 
 * Author: u/Audere_of_the_Grey  *Grey Collegium**
 * URL: /r/dndnext/comments/f68gpn/how_a_14th_level_transmuter_can_create_1069200_gp/
-* Score: 27
+* Score: 33
 
 * Created: 2020-02-19T11:11:41
 
@@ -12,171 +12,167 @@
 
 ### Comments:
 
-> **u/ansible** [+11]  *The Culture**
+> **u/ansible** [+11]  *The Culture* (3 hours later)
 > 
 > I'm reminded of the scenes in "The Two Year Emperor" by eaglejarl where the protagonist comes up with an exploit of the system (the d20 system in this case) the Gods (and the OverGods they are beholden to) get upset.  And then the rules change...
-> 
 
->> **u/archpawn** [+7] *
+>> **u/archpawn** [+6]  (11 hours later)
 >> 
 >> It was mostly just wishing for more wishes that was the problem. They were still really lenient, and allowed stuff that was far more OP than this.
->> 
 
-> **u/None** [+14] *
+> **u/None** [+13]  (7 hours later)
 > 
 > And then the DM says "no".
-> 
 
->> **u/Silver_Swift** [+7] *
+>> **u/Silver_Swift** [+8]  (10 hours later)
 >> 
 >> Traditionally you get the DMG thrown at your head, the no is implied.
->> 
 
->>> **u/GhostWriter52025** [+6] *
+>>> **u/GhostWriter52025** [+7]  (11 hours later)
 >>> 
 >>> "Rocks fall, all people capable of casting resurrection spells die"
->>> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (a day later)
 >> 
 >> Yeah. Minchkinning is fun as an intellectual exercise, but kinda misses the point that d&d rules aren't meant to be the laws of nature for a consistent universe but are tools and abstractions for use in telling a story
->> 
 
->>> **u/Audere_of_the_Grey** [+4]  *Grey Collegium**
+>>> **u/Audere_of_the_Grey** [+5]  *Grey Collegium* (a day later)
 >>> 
 >>> People have fun in different ways.
->>> 
 
->> **u/silian** [+0] *
+>> **u/silian** [+0]  (a day later)
 >> 
 >> Something, Something, Pun-pun aaaand now you need to find a new group. Don't be that guy folks.
->> 
 
-> **u/Audere_of_the_Grey** [+8]  *Grey Collegium**
+> **u/Audere_of_the_Grey** [+7]  *Grey Collegium* (5 minutes later)
 > 
 > I'm not sure how relevant this is to this subreddit, but for those of you who play DnD, here's another potential tool for eradicating death.
-> 
 
->> **u/lawnmowerlatte** [+8] *
+>> **u/lawnmowerlatte** [+8]  (4 hours later)
 >> 
 >> I think the bottleneck then becomes spell slots to actually cast resurrection and/or raise dead on all of the dead. It might work well to undo damage from large scale catastrophes, but day to day death is still going to be a problem. Spellcasters are usually pretty rare, especially high level ones, so keeping up with ongoing death is probably a losing proposition. Also I don't think either of those spells work on old age.
->> 
 
->>> **u/Ulmaxes** [+2] *
+>>> **u/Ulmaxes** [+2]  (a day later)
 >>> 
 >>> You definitely need a revolution in teaching and training for sure- but hypothetically with better education and science systems, you can pump out exponentially more trained professionals who do things like this along with all the other day-to-day healing they could provide. 
 >>> If a generic D&D setting is mostly medieval, then that means there's a huge gap between how many professional wizards there are versus how many there could be.
->>> 
 
->> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity* (23 hours later)
 >> 
 >> Thanks for sharing these, I've been really enjoying them!
->> 
 
-> **u/derefr** [+3] *
+> **u/derefr** [+3]  (6 hours later)
 > 
 > Re: the “flooding the market with diamonds” comment at the end: is there some sort of computer tracking system you can use in a pen-and-paper RPG campaign, to add a realistic economy to your game-world, that all your NPCs are participants in (including the ones in towns you haven’t built out yet)?
-> I imagine you’d have to have some pretty interesting knock-on effects to make such an economy work. E.g. the amount of gold mined out of the ground in the world by all cultures/races would have to be known and tracked, and the value of gold be set by that, so that introducing a dragon hoard of gold back into circulation wouldn’t throw off an economy.
 > 
+> I imagine you’d have to have some pretty interesting knock-on effects to make such an economy work. E.g. the amount of gold mined out of the ground in the world by all cultures/races would have to be known and tracked, and the value of gold be set by that, so that introducing a dragon hoard of gold back into circulation wouldn’t throw off an economy.
 
->> **u/sir_pirriplin** [+4] *
+>> **u/sir_pirriplin** [+5]  (7 hours later)
 >> 
 >> It doesn't have to be precise. Age of Empires is an RTS where you can buy and sell resources like wood, stone, gold and food. If the players buy lots of a given resource the price goes up and if they sell a lot the price goes down. No fancy math required, just a crude linear formula.
->> 
 
->>> **u/derefr** [+10] *
+>>> **u/derefr** [+9]  (8 hours later)
 >>> 
 >>> I mean, I was picturing quests involving market latency arbitrage...
->>> 
 
->>>> **u/Audere_of_the_Grey** [+3]  *Grey Collegium**
+>>>> **u/Audere_of_the_Grey** [+4]  *Grey Collegium* (9 hours later)
 >>>> 
 >>>> Combined with Sending! Or Teleportation Circle!
->>>> 
 
->> **u/Tommy2255** [+3] *
+>> **u/Tommy2255** [+3]  (10 hours later)
 >> 
 >> Flooding the market isn't necessarily a factor. A spell will require "a [object] worth at least [x] gp". It doesn't really make sense for that to be any kind of market value, so that implies that magic itself can effectively act as a price floor on any reagent usable as a spell component. 
->> Take Runescape for example. Every item in the game has a market value on the Grand Exchange, and an inherent High Alchemy value. If the Grand Exchange price ever drops too far below the High Alchemy price (less the cost of Nature Runes), then people training magic will buy it up to use High Alchemy on, driving the price back up.
 >> 
+>> Take Runescape for example. Every item in the game has a market value on the Grand Exchange, and an inherent High Alchemy value. If the Grand Exchange price ever drops too far below the High Alchemy price (less the cost of Nature Runes), then people training magic will buy it up to use High Alchemy on, driving the price back up.
 
-> **u/ulyssessword** [+2] *
+> **u/ulyssessword** [+2]  (10 hours later)
 > 
 > re: "raw iron":
-> The material that is fed into (both modern and ancient) steel-making processes ("pig iron") is *very* high in carbon.  If you want Fabricate to act as a bloomery/blast furnace, then it would *produce* carbon instead of consuming it.
-> ---
-> Also, nomenclature of iron-carbon alloys is strange.
-> 0-0.05 wt% C: Wrought iron
-> 0.05-0.30 wt%C: Mild steel.
-> 0.30-0.60 wt%C: Medium steel.
-> 0.60-1.0 wt%C: High-carbon steel
-> 1.0-2.14 wt%C: steel
-> 2.14-6.7 wt%C: Cast iron
-> ---
-> When something says it is made of "iron", that's ambiguous between wrought iron (low-carbon, highly processed, bendable, doesn't hold an edge, etc.), and cast iron (high carbon, less processing, rigid/brittle, very hard).
-> At least "steel" is one continuous set of alloys.
 > 
+> The material that is fed into (both modern and ancient) steel-making processes ("pig iron") is *very* high in carbon.  If you want Fabricate to act as a bloomery/blast furnace, then it would *produce* carbon instead of consuming it.
+> 
+> ---
+> 
+> Also, nomenclature of iron-carbon alloys is strange.
+> 
+> 0-0.05 wt% C: Wrought iron
+> 
+> 0.05-0.30 wt%C: Mild steel.
+> 
+> 0.30-0.60 wt%C: Medium steel.
+> 
+> 0.60-1.0 wt%C: High-carbon steel
+> 
+> 1.0-2.14 wt%C: steel
+> 
+> 2.14-6.7 wt%C: Cast iron
+> 
+> ---
+> 
+> When something says it is made of "iron", that's ambiguous between wrought iron (low-carbon, highly processed, bendable, doesn't hold an edge, etc.), and cast iron (high carbon, less processing, rigid/brittle, very hard).
+> 
+> At least "steel" is one continuous set of alloys.
 
->> **u/Audere_of_the_Grey** [+1]  *Grey Collegium**
+>> **u/Audere_of_the_Grey** [+1]  *Grey Collegium* (10 hours later)
 >> 
 >> Wait. So high-carbon steel has less carbon than steel?
->> 
 
->>> **u/ulyssessword** [+3] *
+>>> **u/ulyssessword** [+3]  (10 hours later)
 >>> 
 >>> "Steel" is anything from 0.022 to 2.14 wt%C, but  alloys with 1-2.14% carbon aren't commonly used so they don't get another name for the category.  
->>> There's AISI 1018 steel and AISI 1030 steel (0.18% and 0.30% carbon), which are collectively known as "mild steels".
->>> There's AISI 10130 steel and AISI 10180 steel (1.3% and 1.8% carbon, respectively) and so on, but there isn't "Super high carbon steel" or whatever.
->>> (Why is 0.022-0.05 wt%C simultaneously "wrought iron" and "steel"?  Good question.)
 >>> 
+>>> There's AISI 1018 steel and AISI 1030 steel (0.18% and 0.30% carbon), which are collectively known as "mild steels".
+>>> 
+>>> There's AISI 10130 steel and AISI 10180 steel (1.3% and 1.8% carbon, respectively) and so on, but there isn't "Super high carbon steel" or whatever.
+>>> 
+>>> (Why is 0.022-0.05 wt%C simultaneously "wrought iron" and "steel"?  Good question.)
 
-> **u/hayshed** [+2] *
+> **u/hayshed** [+2]  (a day later)
 > 
 > After some thinking, I think it would be under RAW to do what you are doing. The one assumption(?) I'm making is that for the purposes of magic, it's the base price of the item that is used. Trying to actually sell those mirrors would result in a large decrease in selling price due to negative modifiers, but the base price would stay the same.
-> 
 
-> **u/Watchful1** [+1] *
+> **u/Watchful1** [+1]  (15 hours later)
 > 
 > There's a crucial leap of logic he's making here that I don't think is correct. Fabricate lets you create a single object, the big stack of mirrors. You then have a big stack of mirrors, not 108,000 individual mirrors. A big stack of mirrors isn't by itself worth 5gp * 108,000, it's some other value we don't know. You can break up the stack of mirrors into individual mirrors, but then Major Transformation wouldn't work on it since it would be 108,000 objects and the spell only works on a single object. There's no way Major Transformation is intended to transform a whole bunch of low value individual objects into a single valuable object.
-> 
 
->> **u/Audere_of_the_Grey** [+1]  *Grey Collegium**
+>> **u/Audere_of_the_Grey** [+1]  *Grey Collegium* (15 hours later)
 >> 
 >> Okay. So perhaps the value of the mirror stack is lower. Say it’s worth half as much. The labor of separating the mirrors costs .25 million gp somehow. That’s still .25 million gp of profit.
->> 
 
->>> **u/Watchful1** [-1] *
+>>> **u/Watchful1** [-1]  (15 hours later)
 >>> 
 >>> You can't just arbitrarily assign a value though, someone has to value it. If it doesn't already have a value, then you have to actually find someone willing to buy it for that much.
->>> 
 
->>>> **u/Audere_of_the_Grey** [+1]  *Grey Collegium**
+>>>> **u/Audere_of_the_Grey** [+1]  *Grey Collegium* (15 hours later)
 >>>> 
 >>>> Okay, gather up some starting credit and have a party member willing to buy it for that much.
->>>> Or just price it based on the market prices in the rules.
->>>> Yes, I don’t know exactly how much the block is worth, but the point is that it’s worth a couple orders of magnitude more than the iron. In particular, it’s worth as much as 108,000 mirrors minus the cost of separating the block into said mirrors.
 >>>> 
+>>>> Or just price it based on the market prices in the rules.
+>>>> 
+>>>> Yes, I don’t know exactly how much the block is worth, but the point is that it’s worth a couple orders of magnitude more than the iron. In particular, it’s worth as much as 108,000 mirrors minus the cost of separating the block into said mirrors.
 
->>>>> **u/meangreenking** [+2] *
+>>>>> **u/meangreenking** [+2]  (20 hours later)
 >>>>> 
 >>>>> The issue though is that if value worked by some random dude being willing to buy it for that much you could just value a random drawing you scribbled in crayon at 10 million GP via calling it art and having your team mate buy it. And if that *did* work then you wouldn't need mirrors at all, just set arbitrarily high prices for otherwise useless things then transmute them.
->>>>> That said, I would agree that it should have a pretty high value, although given the difficulty in trying to sell it (because nobody is going to want to buy 100k mirrors that aren't even in real mirror form) the value should be far less then the nominal amount of so many mirrors.
 >>>>> 
+>>>>> That said, I would agree that it should have a pretty high value, although given the difficulty in trying to sell it (because nobody is going to want to buy 100k mirrors that aren't even in real mirror form) the value should be far less then the nominal amount of so many mirrors.
 
->>>>>> **u/hayshed** [+2] *
+>>>>>> **u/hayshed** [+2]  (a day later)
 >>>>>> 
 >>>>>> The assumption he is half making is that "true value" has nothing to do with market forces, it's like there's a god of artisans that goes, yep that's worth X gp, you can transmogrify it to an equivalent value item.  That's actually a reasonable explanation for the magic - something has to be keeping track of the worth. In the sense that this is an rpg of course it is just a simplification that means a 5 gp mirror is both worth that amount for magic and sells for that amount normally. 
->>>>>> They should be two separate currencies. 
->>>>>> I argue that it makes more sense for the magic to work as first described and not care about the actual real life sell price
 >>>>>> 
+>>>>>> They should be two separate currencies. 
+>>>>>> 
+>>>>>> I argue that it makes more sense for the magic to work as first described and not care about the actual real life sell price
 
-> **u/MilesSand** [-1] *
+> **u/MilesSand** [-1]  (a day later)
 > 
 > A GM who thinks this through wouldn't allow this unless you can:
+> 
 > * prove that you have access to tools which can create the object. Or that they even exist.
+> 
 > * Then start rolling skill checks to see how many you can separate without a single scratch or dent, and without bending a mirror. Either event turns it back to scrap metal because you'd have to start over to make anything useful out of it.
 > The non separated block is just a large brick worth less than the raw material.
-> 
 
 ---
 

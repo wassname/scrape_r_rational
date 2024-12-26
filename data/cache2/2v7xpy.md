@@ -16,193 +16,221 @@ Additionally it doesn't just have to be for weight. You could try chess for inst
 
 ### Comments:
 
-> **u/OffColorCommentary** [+8] *
+> **u/OffColorCommentary** [+8]  (8 hours later)
 > 
 > Human rationality isn't a thing, it's a description of a whole bunch of unrelated traits and skills grouped by having roughly the same uses.  However, true rationality is exactly one thing - an optimal optimization process.
-> Those two thoughts are reconcilable if you instead view rationality as normal, and try to measure irrationality.
-> Irrationality is also not one thing - there are infinite reasons you could be wrong.  Certain ones of those are particularly common among humans though - you can and people do study cognitive biases.  Those, individually, can be measured.
-> With a suite of individually measured biases, we could go through and measure them by their impact on some common heuristic to create a total irrationality metric (average wealth delta compared to parents or something).  Since at this point we'd be measuring well-defined traits instead of people, the terrible noise in irrationality vs life outcomes would be easier to cope with (but any better metric to calibrate with would certainly be welcome).  Once there's a total, we can call the inverse "rationality" if that's desirable.
-> If that sounds like a lot of work, it's because it is.  "Measure rationality" isn't a primitive action.  I think it would be a great thing if someone did it though; more power to you if you take up that cause.
 > 
+> Those two thoughts are reconcilable if you instead view rationality as normal, and try to measure irrationality.
+> 
+> Irrationality is also not one thing - there are infinite reasons you could be wrong.  Certain ones of those are particularly common among humans though - you can and people do study cognitive biases.  Those, individually, can be measured.
+> 
+> With a suite of individually measured biases, we could go through and measure them by their impact on some common heuristic to create a total irrationality metric (average wealth delta compared to parents or something).  Since at this point we'd be measuring well-defined traits instead of people, the terrible noise in irrationality vs life outcomes would be easier to cope with (but any better metric to calibrate with would certainly be welcome).  Once there's a total, we can call the inverse "rationality" if that's desirable.
+> 
+> If that sounds like a lot of work, it's because it is.  "Measure rationality" isn't a primitive action.  I think it would be a great thing if someone did it though; more power to you if you take up that cause.
 
-> **u/LiteralHeadCannon** [+6] *
+> **u/LiteralHeadCannon** [+6]  (an hour later)
 > 
 > With a rationalometer, of course.  /s
-> 
 
-> **u/Charlie___** [+3] *
+> **u/Charlie___** [+4]  (41 minutes later)
 > 
 > Check out [Keith Stanovich's work.](http://www.keithstanovich.com/Site/Research_on_Reasoning.html)
-> 
 
-> **u/k5josh** [+7] *
+> **u/k5josh** [+6]  (2 hours later)
 > 
 > Microyudkowskis.
-> 
 
-> **u/Escapement** [+2]  *Ankh-Morpork City Watch**
+> **u/Escapement** [+2]  *Ankh-Morpork City Watch* (37 minutes later)
 > 
 > >*As for instrumental rationality, I was thinking maybe something like this*
-> Wouldn't that be biased in any number of ways? I mean, I read [Scott Alexander's piece on weight loss](http://slatestarcodex.com/2015/01/12/the-physics-diet/) not so long ago and it seems very plausible that weight loss could be differently difficult for different people; and furthermore, a number of people will have obvious low-hanging fruit to change in their behaviours, while others have already hit those low-hanging fruit. Further, your suggestion about having the difference in weight targets be the instrumental rationality score seems highly dubious, as I feel that people who get a lot accomplished that is meaningful to them in the rest of their lives and maintain within 5 lbs their desired weight are probably *much better instrumental rationalists* than someone who spends any sort of time and effort to obsessively track every gram of food and second of work exercised to the detriment of other actually important life goals to come within an ounce of their target weight in order to win at the 'instrumental rationality scoring game' for status-signaling reasons among the tiny population of people who think about this sort of thing.  Seriously, the people I would expect to be the best at the thing you're trying to measure might very well score middle of the pack on this indicator.
-> I have considered and discarded a couple of my own other ideas to ranking/scoring instrumental rationality:
-> 1. Make or choose a game of some sort about primarily decisionmaking and resource management and thoughts rather than blind luck or reflexes or other physical attributes, then have people play it.
-> 2. Choose a real-world joint goal that everyone agrees with, and monitor who has the most positive impact towards achieving that goal.
-> Objections to 1: 
-> - Experience with similar games will lead to people having different skillsets at the outset which influence results
-> - Doesn't match up to real-world situations at all (adversarial, zero-sum effectively, arbitrary rules constructs, etc)  
-> - Results are extremely uncertain and translation to anything meaningful is hard (single elimination gets best player iff better players *always* defeat worse players, and double elimination gets top two in same constraint, but this gets unweildy fast and still runs into problems of luck/momentum/timing/arbitrary externalities).
-> - Skillset in game playing almost always will involve things other than pure decisionmaking and evaluation and planning and etc.
-> Objections to 2:
-> - Scoring is extremely difficult and prone to manipulation and poor results (see Campbell's Law) and for many problems making any sort of reasonable contribution to them is difficult to even measure quantitatively
-> - major problems suitable for this (match up to all participants' actual goals while being measurable and fully quantifiable) are tough to choose
-> - people will have inherent advantages/disadvantages in their capabilities, circumstances, etc, from every externality in their life.
-> ...
-> This seems like a really hard problem. I am also unsure of my own rationale for caring. On the meta level, it would be sort of **super awesome / hilarious** if this was actually a meta-level trap to score instrumental rationality by seeing how much time and effort people are willing to waste that they could be spending productively working towards meaningful goals, on discussing theoretical measures of instrumental rationality that will never be implemented. I suppose that if that were the case the perfect score on this fora as a measure of instrumental rationality would be 'never click on this post and therefore read the contained information therein', while my own 'write ~4k characters in response suggesting the whole thing is futile' is probably almost off the scale in failing the instrumental rationality test...
 > 
+> Wouldn't that be biased in any number of ways? I mean, I read [Scott Alexander's piece on weight loss](http://slatestarcodex.com/2015/01/12/the-physics-diet/) not so long ago and it seems very plausible that weight loss could be differently difficult for different people; and furthermore, a number of people will have obvious low-hanging fruit to change in their behaviours, while others have already hit those low-hanging fruit. Further, your suggestion about having the difference in weight targets be the instrumental rationality score seems highly dubious, as I feel that people who get a lot accomplished that is meaningful to them in the rest of their lives and maintain within 5 lbs their desired weight are probably *much better instrumental rationalists* than someone who spends any sort of time and effort to obsessively track every gram of food and second of work exercised to the detriment of other actually important life goals to come within an ounce of their target weight in order to win at the 'instrumental rationality scoring game' for status-signaling reasons among the tiny population of people who think about this sort of thing.  Seriously, the people I would expect to be the best at the thing you're trying to measure might very well score middle of the pack on this indicator.
+> 
+> I have considered and discarded a couple of my own other ideas to ranking/scoring instrumental rationality:
+> 
+> 1. Make or choose a game of some sort about primarily decisionmaking and resource management and thoughts rather than blind luck or reflexes or other physical attributes, then have people play it.
+> 
+> 2. Choose a real-world joint goal that everyone agrees with, and monitor who has the most positive impact towards achieving that goal.
+> 
+> Objections to 1: 
+> 
+> - Experience with similar games will lead to people having different skillsets at the outset which influence results
+> 
+> - Doesn't match up to real-world situations at all (adversarial, zero-sum effectively, arbitrary rules constructs, etc)  
+> 
+> - Results are extremely uncertain and translation to anything meaningful is hard (single elimination gets best player iff better players *always* defeat worse players, and double elimination gets top two in same constraint, but this gets unweildy fast and still runs into problems of luck/momentum/timing/arbitrary externalities).
+> 
+> - Skillset in game playing almost always will involve things other than pure decisionmaking and evaluation and planning and etc.
+> 
+> Objections to 2:
+> 
+> - Scoring is extremely difficult and prone to manipulation and poor results (see Campbell's Law) and for many problems making any sort of reasonable contribution to them is difficult to even measure quantitatively
+> 
+> - major problems suitable for this (match up to all participants' actual goals while being measurable and fully quantifiable) are tough to choose
+> 
+> - people will have inherent advantages/disadvantages in their capabilities, circumstances, etc, from every externality in their life.
+> 
+> ...
+> 
+> This seems like a really hard problem. I am also unsure of my own rationale for caring. On the meta level, it would be sort of **super awesome / hilarious** if this was actually a meta-level trap to score instrumental rationality by seeing how much time and effort people are willing to waste that they could be spending productively working towards meaningful goals, on discussing theoretical measures of instrumental rationality that will never be implemented. I suppose that if that were the case the perfect score on this fora as a measure of instrumental rationality would be 'never click on this post and therefore read the contained information therein', while my own 'write ~4k characters in response suggesting the whole thing is futile' is probably almost off the scale in failing the instrumental rationality test...
 
->> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (an hour later)
 >> 
 >> "Wouldn't that be biased in any number of ways? I mean, I read Scott Alexander's piece on weight loss not so long ago and it seems very plausible that weight loss could be differently difficult for different people; and furthermore, a number of people will have obvious low-hanging fruit to change in their behaviours, while others have already hit those low-hanging fruit. Further, your suggestion about having the difference in weight targets be the instrumental rationality score seems highly dubious, as I feel that people who get a lot accomplished that is meaningful to them in the rest of their lives and maintain within 5 lbs their desired weight are probably much better instrumental rationalists than someone who spends any sort of time and effort to obsessively track every gram of food and second of work exercised to the detriment of other actually important life goals to come within an ounce of their target weight in order to win at the 'instrumental rationality scoring game' for status-signaling reasons among the tiny population of people who think about this sort of thing."
->> So in other words instrumental rationality cannot be approximated by how well someone does in reaching any individual goal, but how well they do on all of their main goals overall? Maybe multiply that by the total difficulty of reaching all their main goals. And since difficulty is also very difficult to measure... Wow I see your point.
 >> 
+>> So in other words instrumental rationality cannot be approximated by how well someone does in reaching any individual goal, but how well they do on all of their main goals overall? Maybe multiply that by the total difficulty of reaching all their main goals. And since difficulty is also very difficult to measure... Wow I see your point.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (5 hours later)
 >>> 
 >>> PSA:
->>> Putting > before a line renders it a quote. So
->>> \>Hello, world.
->>> becomes
->>> >Hello, world.
->>> Happy redditing!
 >>> 
+>>> Putting > before a line renders it a quote. So
+>>> 
+>>> \>Hello, world.
+>>> 
+>>> becomes
+>>> 
+>>> >Hello, world.
+>>> 
+>>> Happy redditing!
 
->>>> **u/itisike** [+1]  *Dragon Army**
+>>>> **u/itisike** [+1]  *Dragon Army* (7 hours later)
 >>>> 
 >>>> And selecting text before you hit reply automatically puts it into your reply pre-quoted.
->>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 hours later)
 >> 
 >> >Wouldn't that be biased in any number of ways?
->> Even with all those discrepancies, instrumental rationality is all about winning. So if someone has it set up so their factors are better than yours, they're more instrumentally rational, regardless of how much less willpower they've got.
 >> 
+>> Even with all those discrepancies, instrumental rationality is all about winning. So if someone has it set up so their factors are better than yours, they're more instrumentally rational, regardless of how much less willpower they've got.
 
->>> **u/Escapement** [+1]  *Ankh-Morpork City Watch**
+>>> **u/Escapement** [+1]  *Ankh-Morpork City Watch* (20 hours later)
 >>> 
 >>> If someone is participating in an instrumental rationality contest and their course of action is 'tell my personal assistant to spend a couple millions of my multibillion-dollar inheritance that I was born into to hire the top 20 people whatever field of endeavour is under consideration to solve the problem optimally for me,' while other people being compared to them are limited to courses of action like "think about it and solve the problem myself in some way using only the far more resources I managed to accumulate and can afford to part with myself"... at that point, I am not seeing how whatever we're scoring would even tangentially look like what most people describe as 'instrumental rationality'.
->>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (16 hours later)
 > 
 > Optimization power: how steep are the odds that you can beat?
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (18 hours later)
 > 
 > As pointed out, there isn't really something analogous to IQ. As it stands, any measure of rationality is going to be *domain specific*. You can see that in your examples. Being good at losing weight doesn't mean being good at playing chess and vice versa.
-> Instrumental rationality translates roughly to: results/resources, but measuring resources is almost impossible in most environments. I don't even think the people at CFAR (who are likely interested in questions like this) know how to even begin doing this.
-> Being able to measure cross-domain rationality is very, very hard. My current heuristic is: "How would this person fare as a witch on the discworld."
 > 
+> Instrumental rationality translates roughly to: results/resources, but measuring resources is almost impossible in most environments. I don't even think the people at CFAR (who are likely interested in questions like this) know how to even begin doing this.
+> 
+> Being able to measure cross-domain rationality is very, very hard. My current heuristic is: "How would this person fare as a witch on the discworld."
 
-> **u/None** [+0] *
+> **u/None** [+0]  (6 hours later)
 > 
 > Money (or in general any resource with sufficient liquidity) is pretty much a universal instrumental goal. Having more of it means you can get more of the thing you actually want. Or you can give it to someone or some other organization that can more effectively use it to get what you want.
-> A supposed rationalist who doesn't try to get as much money as they can flowing towards satisfying their terminal goals isn't really trying all that hard to win.
 > 
+> A supposed rationalist who doesn't try to get as much money as they can flowing towards satisfying their terminal goals isn't really trying all that hard to win.
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (8 hours later)
 >> 
 >> ^ This 
->>  Except:
->> >A supposed rationalist who doesn't try to get as much money as they can flowing towards satisfying their terminal goals isn't really trying all that hard to win.
->> Win what?
->> Money is a means, and I agree an almost universally useful instrumental values, but mistaking it for a final value instead of an instrumental value is often terminal to better final values along the lines of: survival, reproduction, friendship, and contentment.
 >> 
+>>  Except:
+>> 
+>> >A supposed rationalist who doesn't try to get as much money as they can flowing towards satisfying their terminal goals isn't really trying all that hard to win.
+>> 
+>> Win what?
+>> 
+>> Money is a means, and I agree an almost universally useful instrumental values, but mistaking it for a final value instead of an instrumental value is often terminal to better final values along the lines of: survival, reproduction, friendship, and contentment.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (10 hours later)
 >>> 
 >>> That's not parsing for me at all. =/
->>> Winning == steering the universe into states that rank higher in your preference orderings.
->>> And actually, each of those examples is more easily obtained with more money:
->>> Money => food, shelter, security, minimization of low probability high impact risks
->>> Money => more signaling opportunities => increased chances of finding satisfactory partners (and friends, while we're at it)
->>> Money => buying things, freeing up time, paying someone else for their time/services => [possible other intermediary steps] => thing that increases your level of contentment with life
 >>> 
+>>> Winning == steering the universe into states that rank higher in your preference orderings.
+>>> 
+>>> And actually, each of those examples is more easily obtained with more money:
+>>> 
+>>> Money => food, shelter, security, minimization of low probability high impact risks
+>>> 
+>>> Money => more signaling opportunities => increased chances of finding satisfactory partners (and friends, while we're at it)
+>>> 
+>>> Money => buying things, freeing up time, paying someone else for their time/services => [possible other intermediary steps] => thing that increases your level of contentment with life
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (15 hours later)
 >> 
 >> >Money (or in general any resource with sufficient liquidity) is pretty much a universal instrumental goal.
->> Time is money, though, and a lot of us have better things to do with our *time* than to maximize our incomes.
 >> 
+>> Time is money, though, and a lot of us have better things to do with our *time* than to maximize our incomes.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (19 hours later)
 >>> 
 >>> I'm not espousing spending literally all your time maximizing your income. That is absurd; of course your time is also a resource.
->>> On the other hand, I find it dubious at best (priors and all that) that you are using your time so effectively that any additional effort put towards increasing your income would only marginally or not at all increase your optimization power, which is what it sounds like you are trying to say.
 >>> 
+>>> On the other hand, I find it dubious at best (priors and all that) that you are using your time so effectively that any additional effort put towards increasing your income would only marginally or not at all increase your optimization power, which is what it sounds like you are trying to say.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (12 hours later)
 >> 
 >> I actually dislike the focus on money as a measure of rationality a lot. Sure, money might be a proxy for "winning" in certain aspects, but not in all situations. Money can do a lot and having lots of money is a pretty good deal, but not all goals align nicely with making a lot of money.
->> I also dislike it because it makes poor people feel bad about being poor, while being poor is very hard to get out of in the first place.
 >> 
+>> I also dislike it because it makes poor people feel bad about being poor, while being poor is very hard to get out of in the first place.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (19 hours later)
 >>> 
 >>> This smells like rationalization.
->>> Also, I am not suggesting a metric by which to judge a global Person.Rationality statistic. I'm merely stating the obvious; that you would expect to observe someone behaving rationally to be effectively using their resources to steer towards their goals.
->>> The contrapositive of that is "if you aren't effectively using your resources to steer towards your goals, you aren't being rational enough."
 >>> 
+>>> Also, I am not suggesting a metric by which to judge a global Person.Rationality statistic. I'm merely stating the obvious; that you would expect to observe someone behaving rationally to be effectively using their resources to steer towards their goals.
+>>> 
+>>> The contrapositive of that is "if you aren't effectively using your resources to steer towards your goals, you aren't being rational enough."
 
->>>> **u/cae_jones** [+2] *
+>>>> **u/cae_jones** [+2]  (23 hours later)
 >>>> 
 >>>> The birth lottery is a thing. Measuring is hard because gauging individuals' difficulty settings is hard.
->>>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> Humans aren't perfect rational beings. Even beisutsukai will make mistakes and have (some) irrational habits. There isn't a human capable of always using their resources to always steer towards their goals. Especially since, like human value, human goals are complex and sometimes weirdly contradictory.
+>>>> 
 >>>> Anyway, the reasons I dislike money as a measure of rationality:
+>>>> 
 >>>> * Money isn't the end-all of value.
 >>>> * There are a bunch of things outside of the individual's control that strongly influence the ability to make money.
 >>>> * People deserve to be happy. Jobs that maximize money aren't fun for everyone (which is actually a combination of the previous points, come to think of it).
 >>>> * It makes poor aspiring rationalists feel bad about themselves.
 >>>> * It's a bad way to measure optimization power: results/resources, because it only measures results.
->>>> I'm not saying money isn't important. I'm saying it's a very flawed way of measuring a "rationality quotient."
 >>>> 
+>>>> I'm not saying money isn't important. I'm saying it's a very flawed way of measuring a "rationality quotient."
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>> 
 >>>>> > Money isn't the end-all of value.
->>>>> Money isn't value at all. It's a mechanism for fluidly exchanging value and, as a spinoff of that fact, for social signaling.
 >>>>> 
+>>>>> Money isn't value at all. It's a mechanism for fluidly exchanging value and, as a spinoff of that fact, for social signaling.
 
->> **u/thakil** [+1] *
+>> **u/thakil** [+1]  (18 hours later)
 >> 
 >> Is a lottery winner a rationalist? While rationality should ideally be the art of winning, this means in practice taking your abilities and using them optimally to achieve your goals. But if you lack marketable skills then you may not achieve your goals. Also, one discounts luck at one's peril.
->> It's fair to say Bill Gates was likely to be a successful man no matter how his luck turned out, but the sheer scale of his success was in no small part due to good fortune. This will be true for every single wealthy person you can identify.
 >> 
+>> It's fair to say Bill Gates was likely to be a successful man no matter how his luck turned out, but the sheer scale of his success was in no small part due to good fortune. This will be true for every single wealthy person you can identify.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (19 hours later)
 >>> 
 >>> > Is a lottery winner a rationalist?
->>> Having money doesn't just somehow make you rational. That is absurd, and was nowhere implied.
->>> However, using money (s/money/resources) to effectively achieve your goals *is* an indicator of rational behavior. By proxy, using your time to effectively gain more resources and thus more optimization power, is *also* an indicator of rational behavior.
 >>> 
+>>> Having money doesn't just somehow make you rational. That is absurd, and was nowhere implied.
+>>> 
+>>> However, using money (s/money/resources) to effectively achieve your goals *is* an indicator of rational behavior. By proxy, using your time to effectively gain more resources and thus more optimization power, is *also* an indicator of rational behavior.
 
->>>> **u/thakil** [+1] *
+>>>> **u/thakil** [+1]  (20 hours later)
 >>>> 
 >>>> It's an indicator, but not the be all and end all. hat sentence was somewhat flippant, but is intended to demonstrate that being rich does not demonstrate necessarily that someone has "earned" their wealth. Many inherit or win their wealth by good fortune. Also if I find two very smart people, one who has decided to not patent their amazing invention and thus now lives modestly, and one who did patent their amazing invention, and is incredibly rich, I don't think I'd necessarily assume that the latter is more rational than the former. This assumes that they share the same goals and desires.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (20 hours later)
 >>>>> 
 >>>>> > being rich does not demonstrate necessarily that someone has "earned" their wealth.
->>>>> Yes, we are in agreement.
->>>>> On the hypothetical, I'm not sure if I'm parsing that right. If they share the same goals, one of the two people are definitely acting less rationally.
->>>>> Assuming they have disparate goals, the one who decides not to profit from the patent is acting consistently with their goals if and only if they believe they can more effectively achieve those goals through idealized action (signaling some sort of virtue) than with money, or if the benefit to the public would outweigh what they could achieve with money, or something along those lines. Of course, the opposite is true for the one deciding to profit.
->>>>> That said, my prior for choosing-not-to-profit-is-actually-goal-maximizing-behavior is very low, for a wide range of goal sets.
 >>>>> 
+>>>>> Yes, we are in agreement.
+>>>>> 
+>>>>> On the hypothetical, I'm not sure if I'm parsing that right. If they share the same goals, one of the two people are definitely acting less rationally.
+>>>>> 
+>>>>> Assuming they have disparate goals, the one who decides not to profit from the patent is acting consistently with their goals if and only if they believe they can more effectively achieve those goals through idealized action (signaling some sort of virtue) than with money, or if the benefit to the public would outweigh what they could achieve with money, or something along those lines. Of course, the opposite is true for the one deciding to profit.
+>>>>> 
+>>>>> That said, my prior for choosing-not-to-profit-is-actually-goal-maximizing-behavior is very low, for a wide range of goal sets.
 
 ---
 

@@ -12,34 +12,33 @@
 
 ### Comments:
 
-> **u/VilhalmFeidhlim** [+1] *
+> **u/VilhalmFeidhlim** [+1]  (9 hours later)
 > 
 > Anyone else getting a 'server down' error message?
-> 
 
->> **u/mooderino** [+5]  *The Good Student**
+>> **u/mooderino** [+4]  *The Good Student* (9 hours later)
 >> 
 >> It seems to be working okay on my end, but if you're having issues you can also read this chapter on Royal Road here: https://www.royalroad.com/fiction/10286/the-good-student/chapter/326474/book-2-chapter-ten
->> 
 
->> **u/cthulhusleftnipple** [+1] *
+>> **u/cthulhusleftnipple** [+1]  (13 hours later)
 >> 
 >> Working fine for me.
->> 
 
-> **u/icesharkk** [+1] *
+> **u/icesharkk** [+1]  (a day later)
 > 
 > Well damn. Now I need a new book to read
-> 
 
-> **u/Rice_22** [+1] *
+> **u/Rice_22** [+1]  (a day later)
 > 
 > >*“I believe it is made from the most expensive bean available, which are required to undergo a process which is called decaffeination.”*
-> >*“Is that kind of language necessary, Monforth?”*
-> ---
-> >*The Prince waved him off. He wouldn’t be drinking any of that filth. The thought of it was enough to make him want to decaffeinate right there and then.*
-> Heh.
 > 
+> >*“Is that kind of language necessary, Monforth?”*
+> 
+> ---
+> 
+> >*The Prince waved him off. He wouldn’t be drinking any of that filth. The thought of it was enough to make him want to decaffeinate right there and then.*
+> 
+> Heh.
 
 ---
 

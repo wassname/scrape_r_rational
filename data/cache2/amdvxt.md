@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.fanfiction.net/s/12925913/30/Chicago
-* Score: 20
+* Score: 18
 
 * Created: 2019-02-02T13:05:31
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (40 seconds later)
 > 
 > Brief summary: Chicago is a Madoka Magica fanfic that is a sequel to the author's previous fanfic [Fargo](https://www.fanfiction.net/s/11228999/1/Fargo). Both are fairly dark and gritty stories about magical girls fighting against monsters and the machinations of Kyubey.
-> 
 
 ---
 

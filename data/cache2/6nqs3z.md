@@ -2,7 +2,7 @@
 
 * Author: u/Linear_Cycle *
 * URL: https://www.reddit.com/r/rational/comments/6nqs3z/rt_hsf_the_nitrogen_fix_by_hal_clement/
-* Score: 7
+* Score: 6
 
 * Created: 2017-07-17T04:03:50
 
@@ -23,11 +23,11 @@ I'm only halfway through, but it's good enough so far that I wanted to share.
 
 ### Comments:
 
-> **u/Subrosian_Smithy** [+1]  *Nudist Beach**
+> **u/Subrosian_Smithy** [+1]  *Nudist Beach* (6 hours later)
 > 
 > Hal Clement-?
-> That's a name I haven't heard in a long time. I think the first story of his that I ever read was *Needle*, a sci-fi mystery about one symbiotic life-form hunting down another.
 > 
+> That's a name I haven't heard in a long time. I think the first story of his that I ever read was *Needle*, a sci-fi mystery about one symbiotic life-form hunting down another.
 
 ---
 

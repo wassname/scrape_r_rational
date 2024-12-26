@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/04/17/interlude-threads/
-* Score: 49
+* Score: 51
 
 * Created: 2020-04-17T04:05:12
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/JesradSeraph** [+1] *
+> **u/JesradSeraph** [+1]  (11 hours later)
 > 
 > Oh dear, Christophe is slightly starting to turn Villain...
-> 
 
 ---
 

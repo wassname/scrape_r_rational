@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/6406375/
-* Score: 8
+* Score: 10
 
 * Created: 2016-07-08T15:59:58
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/Jello_Raptor** [+2]  *The Last Tool User**
+> **u/Jello_Raptor** [+2]  *The Last Tool User* (3 days later)
 > 
 > I just want to add a plug here for [OliWhail's amazing omake](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-754#post-6400533).
-> It's brilliant, and even though it's mentioned in the chapter it deserves more.
 > 
+> It's brilliant, and even though it's mentioned in the chapter it deserves more.
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (3 hours later)
 > 
 > Short chapter this time, since /u/Velorien is batting cleanup on things I didn't get to in the last post. The humor more than makes up for it.
-> 
 
 ---
 

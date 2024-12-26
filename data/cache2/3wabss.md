@@ -66,105 +66,116 @@ The paper bent _slowly_, under the full weight of Daniel it took about half a mi
 
 ### Comments:
 
-> **u/omphaloscopist** [+6] *
+> **u/omphaloscopist** [+6]  (an hour later)
 > 
 > Hypothesis: before drawing the line, the molecules of the paper are slowed down, which causes the paper to appear cold.
 > After drawing the line, this property becomes macroscopical and the paper itself is slowed down in time, which gives the impression that it's hard.
 > So both modifications observed so far are related to time manipulation.
-> How does this sound? Any way to test it?
 > 
+> How does this sound? Any way to test it?
 
->> **u/Charlie___** [+3] *
+>> **u/Charlie___** [+5]  (2 hours later)
 >> 
 >> This doesn't quite explain the cold: slowing down the molecules *once* would cool down the paper once, but forcing the molecules to stay slow will also prevent it from absorbing any more heat than usual, so if the molecules stay slow it won't feel cold. In fact, slowing down the molecules seems like a great hypothesis for what's going on with the hardened paper. The only trouble with *that* is that it's still easy to rotate the paper or accelerate it, it's just hard to bend it.
->> If we look on the scale of the molecules, making them cold would be like adding an opposing force to them that is constant (like dragging a box) or that opposes the velocity (like air resistance), while making them slow would be like adding an opposing force to them that *opposes other forces*.
 >> 
+>> If we look on the scale of the molecules, making them cold would be like adding an opposing force to them that is constant (like dragging a box) or that opposes the velocity (like air resistance), while making them slow would be like adding an opposing force to them that *opposes other forces*.
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (3 hours later)
 >>> 
 >>> I disagree, /u/omphaloscopist has produced a viable hypothesis. The way the sheet bends it's more like it's got a force opposing bending it rather than it simply being strong. If the last line controls the scale, drawing the last line differently might produce different results that can be interpreted as a stasis field at different scales.
->>> 
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+3]  (an hour later)
 >> 
 >> Draw on a digital clock.
->> 
 
->> **u/FishNetwork** [+3] *
+>> **u/FishNetwork** [+3]  (18 hours later)
 >> 
 >> I'd draw most of the diagram, set a corner of the paper on fire, and finish the diagram.
->> If the paper keeps burning (albeit very, very slowly) we've got good evidence that the paper is being macroscopically slowed, as opposed to just frozen.
->> The paper going out is a less clear signal; it only rules out some of the ways that "slowing the molecules" could work.
 >> 
+>> If the paper keeps burning (albeit very, very slowly) we've got good evidence that the paper is being macroscopically slowed, as opposed to just frozen.
+>> 
+>> The paper going out is a less clear signal; it only rules out some of the ways that "slowing the molecules" could work.
 
-> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram* (10 minutes later)
 > 
 > They don't _know_ it's destroying energy... it could be radiating it as neutrinos or polarized gravity waves ^((spot the reference)^) or something, and any temperature gradient can be used to do useful work. A chunk of cold could keep you warm well into the future.
-> What to do?
-> Go back to Tom's original idea, and draw stuff in different orders. At arms length.
-> See if you can sketch it with a flatbed plotter, if you can find one any more.
-> Or try a 3d printer.
-> Hypothesis?
-> 1. The whole world is a simulation and this pattern is a backdoor.
-> 2. There's a supercomputer that's the Source of Magic somewhere, and it scans the stellar neighborhood for instances of the pattern. (eg, Ra or Scott Meyer's _Off to be the Wizard_)
 > 
+> What to do?
+> 
+> Go back to Tom's original idea, and draw stuff in different orders. At arms length.
+> 
+> See if you can sketch it with a flatbed plotter, if you can find one any more.
+> 
+> Or try a 3d printer.
+> 
+> Hypothesis?
+> 
+> 1. The whole world is a simulation and this pattern is a backdoor.
+> 
+> 2. There's a supercomputer that's the Source of Magic somewhere, and it scans the stellar neighborhood for instances of the pattern. (eg, Ra or Scott Meyer's _Off to be the Wizard_)
 
->> **u/iwillmakeyouthink2** [+2] *
+>> **u/iwillmakeyouthink2** [+3]  (an hour later)
 >> 
 >> This is a good opportunity to discuss philosophy of science, which is my main motivation to write this story. If I were a better writer I would be able to embed this directly into the story.
->> What you first suggest is to experiment with how the pentagrams are drawn, by changing the order they are drawn or using something other than pen and paper. But you never say anything about what result you expect from these changes. 
->> That expectation would be your hypothesis, for example: If the pentagram is drawn starting from the outside circle and inward, the paper will be cold. If the pentagram is drawn starting with the inner triangle and outward, the paper will be warm. 
->> The characters can draw the pentagram in different ways and test this, which makes the hypothesis (or theory, if you want) [_falsifiable_](https://en.wikipedia.org/wiki/Falsifiability).
->> This is in contrast to you two last hypothesis, that the the world is a simulation or that the source of magic is a supercomputer. There is no experiment our characters can currently perform that will show these hypothesis false (that I can come up with!), and thus these hypothesis cannot be considered to be scientific. And more importantly for me: it does nothing to drive the plot of the story forward.
->> Of course, if the way the pentagrams work are directly connected to the _Ultimate Truth of the Universe_, there may be a way forward here, but I'm keeping [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics) for the last Arc.
 >> 
+>> What you first suggest is to experiment with how the pentagrams are drawn, by changing the order they are drawn or using something other than pen and paper. But you never say anything about what result you expect from these changes. 
+>> 
+>> That expectation would be your hypothesis, for example: If the pentagram is drawn starting from the outside circle and inward, the paper will be cold. If the pentagram is drawn starting with the inner triangle and outward, the paper will be warm. 
+>> 
+>> The characters can draw the pentagram in different ways and test this, which makes the hypothesis (or theory, if you want) [_falsifiable_](https://en.wikipedia.org/wiki/Falsifiability).
+>> 
+>> This is in contrast to you two last hypothesis, that the the world is a simulation or that the source of magic is a supercomputer. There is no experiment our characters can currently perform that will show these hypothesis false (that I can come up with!), and thus these hypothesis cannot be considered to be scientific. And more importantly for me: it does nothing to drive the plot of the story forward.
+>> 
+>> Of course, if the way the pentagrams work are directly connected to the _Ultimate Truth of the Universe_, there may be a way forward here, but I'm keeping [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics) for the last Arc.
 
->>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (3 hours later)
 >>> 
 >>> > But you never say anything about what result you expect from these changes. 
->>> There isn't nearly enough information to make that decision. They only have two data points, and they're qualitatively rather than quantitatively different. Right now the only thing they can *scientifically* do is get more data points. And the best way to do that is to try changing the things that have already made a difference.
->>> There is also not nearly enough information to form a hypothesis of what's causing this. It's way premature to start hypothesizing.
->>> > There is no experiment our characters can currently perform that will show these hypothesis false (that I can come up with!)
->>> You can attempt to distinguish between them by performing the tests in physically different locations. If the source of magic is a scanner in a specific location, it should be possible to triangulate on it by examining the strength of the effect in different places.
 >>> 
+>>> There isn't nearly enough information to make that decision. They only have two data points, and they're qualitatively rather than quantitatively different. Right now the only thing they can *scientifically* do is get more data points. And the best way to do that is to try changing the things that have already made a difference.
+>>> 
+>>> There is also not nearly enough information to form a hypothesis of what's causing this. It's way premature to start hypothesizing.
+>>> 
+>>> > There is no experiment our characters can currently perform that will show these hypothesis false (that I can come up with!)
+>>> 
+>>> You can attempt to distinguish between them by performing the tests in physically different locations. If the source of magic is a scanner in a specific location, it should be possible to triangulate on it by examining the strength of the effect in different places.
 
->>> **u/MrCogmor** [+2] *
+>>> **u/MrCogmor** [+2]  (2 hours later)
 >>> 
 >>> If you believe magic has existed throughout history and your roommate was able to get a hold of it then that implies that magic is available to at least some people but something is stopping it from spreading and that experimenting with or using it enough will end up with that something happening to you. 
->>> If you believe magic is only a recent occurrence and your roommate was able to access it then either your roommate had access to god like powers at some point and made the world the way it is (world is a simluation) or you are being screwed with by some other higher order being. 
->>> In the first case leaving runes lying around will likely lead to some horrible consequence like a masquerade kill team detecting and tracking the source of the magic to your house if you use cool charms in your fridge to save on electricity for example.
 >>> 
+>>> If you believe magic is only a recent occurrence and your roommate was able to access it then either your roommate had access to god like powers at some point and made the world the way it is (world is a simluation) or you are being screwed with by some other higher order being. 
+>>> 
+>>> In the first case leaving runes lying around will likely lead to some horrible consequence like a masquerade kill team detecting and tracking the source of the magic to your house if you use cool charms in your fridge to save on electricity for example.
 
->> **u/Gurkenglas** [+1] *
+>> **u/Gurkenglas** [+1]  (an hour later)
 >> 
 >> Leaning towards 1: That guy's note made it seem like his suicide will allow him to start anew in another world, and he's just more hesitant to end life than to start it. Also this user interface looks like the sort that a wannabe wizard would put into a holodeck than what Q would use to channel the power their science unlocked.
->> 
 
-> **u/scooterboo2** [+2]  *Tinker 3: Embeded Systems**
+> **u/scooterboo2** [+2]  *Tinker 3: Embeded Systems* (3 days later)
 > 
 > Next order of business is to figure out if the pentagram can be disabled. We want to know before hand how to disable the paper (in case of fire gram, black-hole gram, or up quarks gram)  
 >  Hypothesis: scribbling a part of the outer circle disables the pentagram.
-
-> Obviously the way forward is to not mess with adding more combinations to our knowledge base. If all we know already presents us with danger (metal papercuts and cold burns) I don't think any other grams we discover would nesiccarially be safe.
-
-> On the topic of new grams we could discover, hard and cold grams seem to follow a pattern of "elemental" effects, they also all seem to have utility. I'd hypothesise that future grams could be: the hot gram, anti-grav gram, ghost gram, explosion gram, alpha/beta/gamma radiation gram.
-
-> Furthermore, if we can't tell anyone about the grams or utilize the grams to better human society, I don't really see the point of enquiring further into them. Curiosity is not worth the potential risks of finding a very dangerous garm.
-> If we *are* going to do new gram testing, it should be done in an empty room, or deserted place outside, and drawn with a [turtle robot](https://en.wikipedia.org/wiki/Turtle_(robot)). I'm worried that the explosion gram will take someone's hand off.
-
-> What do you guys think?
 > 
+> Obviously the way forward is to not mess with adding more combinations to our knowledge base. If all we know already presents us with danger (metal papercuts and cold burns) I don't think any other grams we discover would nesiccarially be safe.
+> 
+> On the topic of new grams we could discover, hard and cold grams seem to follow a pattern of "elemental" effects, they also all seem to have utility. I'd hypothesise that future grams could be: the hot gram, anti-grav gram, ghost gram, explosion gram, alpha/beta/gamma radiation gram.
+> 
+> Furthermore, if we can't tell anyone about the grams or utilize the grams to better human society, I don't really see the point of enquiring further into them. Curiosity is not worth the potential risks of finding a very dangerous garm.
+> 
+> If we *are* going to do new gram testing, it should be done in an empty room, or deserted place outside, and drawn with a [turtle robot](https://en.wikipedia.org/wiki/Turtle_(robot)). I'm worried that the explosion gram will take someone's hand off.
+> 
+> What do you guys think?
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (7 hours later)
 > 
 > > And then I stood on it, balancing on one foot.
-> Who is "I" in this sentence, or is it a typo?
 > 
+> Who is "I" in this sentence, or is it a typo?
 
->> **u/iwillmakeyouthink2** [+1] *
+>> **u/iwillmakeyouthink2** [+1]  (10 hours later)
 >> 
 >> Typo, should have been "he". Thanks.
->> 
 
 ---
 

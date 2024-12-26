@@ -2,7 +2,7 @@
 
 * Author: u/Ikacprzak *
 * URL: https://www.reddit.com/r/rational/comments/hugaop/rational_draka_fics/
-* Score: 3
+* Score: 2
 
 * Created: 2020-07-20T06:19:40
 
@@ -16,10 +16,9 @@ So are there any fics that explore in realistic detail how a society like the Dr
 
 ### Comments:
 
-> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (10 hours later)
 > 
 > Eh I think a rational or steelmanning of the Draka is probably like rationalizing defection; one of those things you just don't do because you don't want anyone else doing it.  On a secondary basis there's the economical argument, to wit slaves don't innovate, and a free society will outperform a slave one.
-> 
 
 ---
 

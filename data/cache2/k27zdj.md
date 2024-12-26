@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/k27zdj/wip_wise_blood_part_5_a_history_of_the_universe/
-* Score: 10
+* Score: 9
 
 * Created: 2020-11-27T19:35:36
 
@@ -16,25 +16,21 @@ Also, for anyone who's following my projects, I'm going to try and start alterna
 
 ### Comments:
 
-> **u/ThirdMover** [+2] *
+> **u/ThirdMover** [+2]  (15 hours later)
 > 
 > So here we get to the first part that could serve as potential cosplay inspiration.
-> 
 
->> **u/Wizard-of-Woah** [+1] *
+>> **u/Wizard-of-Woah** [+1]  (15 hours later)
 >> 
 >> I'm curious. The creatures from before time started or the Lennox sisters?
->> 
 
->>> **u/ThirdMover** [+2] *
+>>> **u/ThirdMover** [+2]  (15 hours later)
 >>> 
 >>> I was thinking all the parts of the play mostly though the creatures from before time seem particularly fun.
->>> 
 
->>>> **u/Wizard-of-Woah** [+1] *
+>>>> **u/Wizard-of-Woah** [+1]  (16 hours later)
 >>>> 
 >>>> ...Most of the characters weren't wearing anything. Though that would make for some cheap costumes, I'll give you that.
->>>> 
 
 ---
 

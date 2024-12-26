@@ -113,60 +113,79 @@ Oh dear, this is getting dreadfully long. I'll leave the rest for Simverse V.
 
 ### Comments:
 
-> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 > 
 > Isn't the optimal ship a 0 seat fighter with an expert system that performs HK missions on 1 seat fighters?
-> 
 
->> **u/krakonfour** [+2] *
+>> **u/krakonfour** [+2]  (a day later)
 >> 
 >> 0 humans onboard: not rendered in realtime.
->> You wouldn't be able to bring up the developer's console (the simulation doesn't pay attention to you) and you would only exist at the end of each rendering cycle.
 >> 
+>> You wouldn't be able to bring up the developer's console (the simulation doesn't pay attention to you) and you would only exist at the end of each rendering cycle.
 
-> **u/ArmokGoB** [+1] *
+> **u/ArmokGoB** [+1]  (a day later)
 > 
 > How is the frame of reference determined? This works well but only under the assumption that you're not moving very fast relative to the grid, but if it's relative to earth that'll only be true near it, especially if it rotates with it as well. Also, even if your ship is smaller than a sector, if you are moving relative the coordinate system won't you still be spending much of the time overlapping edges and having to swap multiple sectors anyway?
-> It seems like, as long as there is some way to communicate updated coordinates, you can retreat back to base or some random place unknown to your opponent as easily s any nearby swap?
-> What happens of you swap to a *random* coordinate, not know to correspond to anything?
-> It seems like it'd be eaier to use direct hack than conventional weaponry. Delete the sector your enemy is in entirely. Force them to reset back to an earlier state so that they'll repeat the same move which you now know before they notice. Swap a sector from the core of a star next to them, or containing an asteroid with absurd relative velocity. Have a nuke on your ship, duplicate and self-destruct. If you're more advanced, set the contents of a sector in the arena to a vast cube of plutonium as you swap away and watch it go instantly supercritical.
 > 
+> It seems like, as long as there is some way to communicate updated coordinates, you can retreat back to base or some random place unknown to your opponent as easily s any nearby swap?
+> 
+> What happens of you swap to a *random* coordinate, not know to correspond to anything?
+> 
+> It seems like it'd be eaier to use direct hack than conventional weaponry. Delete the sector your enemy is in entirely. Force them to reset back to an earlier state so that they'll repeat the same move which you now know before they notice. Swap a sector from the core of a star next to them, or containing an asteroid with absurd relative velocity. Have a nuke on your ship, duplicate and self-destruct. If you're more advanced, set the contents of a sector in the arena to a vast cube of plutonium as you swap away and watch it go instantly supercritical.
 
->> **u/krakonfour** [+2] *
+>> **u/krakonfour** [+2]  (2 days later)
 >> 
 >> There are two frames of reference nestled inside one another:
->> The first is Earth. All sectors have the center of the Earth as the 0:0:0:T reference, with T being the base universal time.
->> The second frame of reference is the center of your own realtime zone. You position relative to the sector you are located in is measured from a 0`:0`:0`:T` coordinate that the observer represents.
->> When you swap two sectors, you will be using coordinates calculated from Earth. If you swap two sectors, including yourself, the positions of the elements contained are maintained relative to your realtime zone's center.
->> The swap itself is done instantaneously. Time won't move while the simulator is waiting for the next rendering cycle, with the information modified by a hack, to be implemented. If you managed to observe an extremely faraway object without extending your realtime zone to cover it, it would be moving in stopmotion. 
->> What this means is that, while calculating a swap, you just have to make sure that *you*, spaceship and all, are contained within the sector you are trying to swap between two rendering cycles.
->> For example, imagine we are outside the Milky Way. Sector sizes are a few lightyears across, and the rendering cycles are several months long. You would be hard pressed to find yourself on the edge of the sector by the time the next cycle is rendered.
->> Next example: You are inside the smallest sector your spaceship can fit inside, barely 400,000km from Earth. Rendering cycles are spaced by delays on the order of 0.0001 seconds. If the sector cube is 52x52x52m and your spaceship is 50x50x50m, you would be fine as long as your velocity relative to the sector you are in doesn't exceed 20km/s. If it does, the edges of your ship will be sheared off down to the subatomic level and left behind. 
->> But that's the tightrope-walk solution. The easy solution is to choose two sectors within your realtime zone (you can theoretically read the coordinates of all the sectors inside your realtime zone simultaneously), which can easily exceed 10,000km in a closely rendered area near Earth, and time the swap to occur the moment you enter one of them. 
->> You can, as mentioned in a previous simverse post, swap millions of lightyears and back if you already know the coordinates of your destination, and there is an observer at the destination keeping your target sector 'ready' by forcing to render. 
->> If you swap to random coordinate, most of the time, nothing happens. If we take all the sectors in the universe, and swap with one of the them at random, you are most likely to hit:
->> -Fail because the target was an empty, unrendered sector. This is due to the sheer volume of space and the number of cubes that entails.
->> -Fail and reset, because you tried to swap with one of the billions upon billions of microscopic sectors that compose Earth, and that are closely monitored.
->> Direct hacks are limited in military utility, only their association with dangerous objects and phenomenons make them dangerous.
->> You cannot modify the contents of a sector. You cannot delete sectors. If you force a reset, it doesn't make your opponent 'repeat his actions' because he forgot the past. No, he is contained in a realtime zone that continues rendering while the sector around him is being frozen then reset (no memory loss or subjective time travel), and on top of that, the sector is rendered until it reaches the current timestamp. Phenominally, it looks like the reset sector is 'refreshed' and simulated at accelerated speed while the rest of the universe waits for it to catch up.
 >> 
+>> The first is Earth. All sectors have the center of the Earth as the 0:0:0:T reference, with T being the base universal time.
+>> 
+>> The second frame of reference is the center of your own realtime zone. You position relative to the sector you are located in is measured from a 0`:0`:0`:T` coordinate that the observer represents.
+>> 
+>> When you swap two sectors, you will be using coordinates calculated from Earth. If you swap two sectors, including yourself, the positions of the elements contained are maintained relative to your realtime zone's center.
+>> 
+>> The swap itself is done instantaneously. Time won't move while the simulator is waiting for the next rendering cycle, with the information modified by a hack, to be implemented. If you managed to observe an extremely faraway object without extending your realtime zone to cover it, it would be moving in stopmotion. 
+>> 
+>> What this means is that, while calculating a swap, you just have to make sure that *you*, spaceship and all, are contained within the sector you are trying to swap between two rendering cycles.
+>> 
+>> For example, imagine we are outside the Milky Way. Sector sizes are a few lightyears across, and the rendering cycles are several months long. You would be hard pressed to find yourself on the edge of the sector by the time the next cycle is rendered.
+>> 
+>> Next example: You are inside the smallest sector your spaceship can fit inside, barely 400,000km from Earth. Rendering cycles are spaced by delays on the order of 0.0001 seconds. If the sector cube is 52x52x52m and your spaceship is 50x50x50m, you would be fine as long as your velocity relative to the sector you are in doesn't exceed 20km/s. If it does, the edges of your ship will be sheared off down to the subatomic level and left behind. 
+>> 
+>> But that's the tightrope-walk solution. The easy solution is to choose two sectors within your realtime zone (you can theoretically read the coordinates of all the sectors inside your realtime zone simultaneously), which can easily exceed 10,000km in a closely rendered area near Earth, and time the swap to occur the moment you enter one of them. 
+>> 
+>> You can, as mentioned in a previous simverse post, swap millions of lightyears and back if you already know the coordinates of your destination, and there is an observer at the destination keeping your target sector 'ready' by forcing to render. 
+>> 
+>> If you swap to random coordinate, most of the time, nothing happens. If we take all the sectors in the universe, and swap with one of the them at random, you are most likely to hit:
+>> 
+>> -Fail because the target was an empty, unrendered sector. This is due to the sheer volume of space and the number of cubes that entails.
+>> 
+>> -Fail and reset, because you tried to swap with one of the billions upon billions of microscopic sectors that compose Earth, and that are closely monitored.
+>> 
+>> Direct hacks are limited in military utility, only their association with dangerous objects and phenomenons make them dangerous.
+>> 
+>> You cannot modify the contents of a sector. You cannot delete sectors. If you force a reset, it doesn't make your opponent 'repeat his actions' because he forgot the past. No, he is contained in a realtime zone that continues rendering while the sector around him is being frozen then reset (no memory loss or subjective time travel), and on top of that, the sector is rendered until it reaches the current timestamp. Phenominally, it looks like the reset sector is 'refreshed' and simulated at accelerated speed while the rest of the universe waits for it to catch up.
 
->>> **u/ArmokGoB** [+1] *
+>>> **u/ArmokGoB** [+1]  (2 days later)
 >>> 
 >>> The "swap the moment you enter one" is what I had in mid as problematic. Even on it's own, it's a delay and disadvantage, but more importantly you have to match all 3 axis at once, which might be much rarer especially if the ratio between your velocity along any of them is not a simple small integer. 
->>> My point with the millions of lightyears thing was that being this cheap, it'd be used in counterintuitive ways, especially if you had multiple ships, and it can't be traced. Most would revolve around having a base full of equipment much bulkier than the ship, and jumping back and forth. Example: you mentioned moving around minefields and railgun shots, but why fire those from the ship rather than from a building millions of lightyears away where it can be done much more cheaply and no ammo worries, if you're going to move it anyway? The problem of knowing the coordinates can be solved with courier ships bouncing back and forth every singe tick, reading the coordinates and transmiting them to other ships/bases on the oposite end.
->>> Actually, why not have huge computer banks at home do all the hacking, with the ships themselves used only to collect data on coordinates and enforce mobile realtime zones? I can see combat turning out quite differently with mobile ships having limited use relative huge building complexes built wherever it is cheap and resources are accessible. There'd be a huge premium on stealth as well, given the number of planet-exploding hacks around. You are dead 1/10 of a second after your approximate location is discovered no matter what.
->>> Guessing you might not want that, but you should come up with a good excuse preventing it. 
->>> Without any range restrictions, and stars being BIG, association with dangerous objects and phenomena needed doesn't actually seem it should limit military applications at all. Sort of like RPG summons, but of supernovas. 
->>> If I understood correctly, the reason you can't modify contents is due to them being huge and impossible to decipher, correct? That rules out MOST content edits, but finding an extremely small (infowise, probably due to homogeneity) natural sector and then doing pure trial and error on a few bits at a time should let you do SOME things. 
->>> BY delete I didn't mean as much removing the sector as overwriting it with vacuum. 
->>> Point about the reset. Hmm, could you exploit it the *other* way around, doing a computation, transmitting the result far away, resetting, doing another computation at accelerated speed?
 >>> 
+>>> My point with the millions of lightyears thing was that being this cheap, it'd be used in counterintuitive ways, especially if you had multiple ships, and it can't be traced. Most would revolve around having a base full of equipment much bulkier than the ship, and jumping back and forth. Example: you mentioned moving around minefields and railgun shots, but why fire those from the ship rather than from a building millions of lightyears away where it can be done much more cheaply and no ammo worries, if you're going to move it anyway? The problem of knowing the coordinates can be solved with courier ships bouncing back and forth every singe tick, reading the coordinates and transmiting them to other ships/bases on the oposite end.
+>>> 
+>>> Actually, why not have huge computer banks at home do all the hacking, with the ships themselves used only to collect data on coordinates and enforce mobile realtime zones? I can see combat turning out quite differently with mobile ships having limited use relative huge building complexes built wherever it is cheap and resources are accessible. There'd be a huge premium on stealth as well, given the number of planet-exploding hacks around. You are dead 1/10 of a second after your approximate location is discovered no matter what.
+>>> 
+>>> Guessing you might not want that, but you should come up with a good excuse preventing it. 
+>>> 
+>>> Without any range restrictions, and stars being BIG, association with dangerous objects and phenomena needed doesn't actually seem it should limit military applications at all. Sort of like RPG summons, but of supernovas. 
+>>> 
+>>> If I understood correctly, the reason you can't modify contents is due to them being huge and impossible to decipher, correct? That rules out MOST content edits, but finding an extremely small (infowise, probably due to homogeneity) natural sector and then doing pure trial and error on a few bits at a time should let you do SOME things. 
+>>> 
+>>> BY delete I didn't mean as much removing the sector as overwriting it with vacuum. 
+>>> 
+>>> Point about the reset. Hmm, could you exploit it the *other* way around, doing a computation, transmitting the result far away, resetting, doing another computation at accelerated speed?
 
-> **u/krakonfour** [+1] *
+> **u/krakonfour** [+1]  (3 days later)
 > 
 > No comments on the laser problem?
-> 
 
 ---
 

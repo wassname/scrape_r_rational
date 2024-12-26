@@ -50,21 +50,19 @@ Next time, the challenge will be **The Gamer**. Your protagonist (or antagonist,
 
 ### Comments:
 
-> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+1]  *Fruit flies like a banana* (a day later)
 > 
 > [A Holmes Away From Home](http://archiveofourown.org/works/8726119), 1980 words.
-> 
 
->> **u/RexSueciae** [+1] *
->> 
->> Well done!
->> I only wonder what happened [](#s "with Watson, our narrator, after it is revealed that the two visiting men are, in fact, debugging this constructed theme park reality. Is he simply unable to function in such a manner, just as Holmes does not question his reality? Is he the world's narrate-bot?")
->> 
-
->> **u/gommm** [+1] *
+>> **u/gommm** [+1]  (9 days later)
 >> 
 >> Nice, reminds me of star trek and the holodeck :)
+
+>> **u/RexSueciae** [+1]  (12 days later)
 >> 
+>> Well done!
+>> 
+>> I only wonder what happened [](#s "with Watson, our narrator, after it is revealed that the two visiting men are, in fact, debugging this constructed theme park reality. Is he simply unable to function in such a manner, just as Holmes does not question his reality? Is he the world's narrate-bot?")
 
 ---
 

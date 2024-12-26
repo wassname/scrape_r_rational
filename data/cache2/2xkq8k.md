@@ -2,7 +2,7 @@
 
 * Author: u/Sailor_Vulcan  *Champion of Justice and Reason**
 * URL: https://www.reddit.com/r/rational/comments/2xkq8k/list_of_all_spells_hjpev_knows/
-* Score: 4
+* Score: 2
 
 * Created: 2015-03-01T17:19:46
 
@@ -27,10 +27,9 @@ Thanks!
 
 ### Comments:
 
-> **u/AugSphere** [+8]  *Dark Lord of Corruption**
+> **u/AugSphere** [+7]  *Dark Lord of Corruption* (9 minutes later)
 > 
 > Allow me to direct you [here](https://www.reddit.com/r/HPMOR/comments/2xiaw9/spoilers_ch_113_assets_and_nonassets_thread/).
-> 
 
 ---
 

@@ -24,68 +24,71 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 > 
 > A little weird problem that I face when considering writing sci-fi stories set in the future of our world... I am always on the fence about how to come up with names for the characters.
-> I find the idea of inventing names outright often leads to rather silly results, especially when considering time intervals that aren't too long (there's easily been Johns and James for the best part of one millennium now, so it's hard to imagine names as changing too radically unless on very very long time scales). However with just using realistic present day names I find that an annoying consequence is that the story will feel rooted in one specific country and culture, depending on which language I use, and that's not always necessarily something I want to draw a focus on if it's not key to my topic. In fact I like the idea of generality that comes with abstract or unknown names, I just don't feel they are very realistic or even credible in a lot of cases (if I were a linguist I might try to speculate about that, but alas, I am not).
-> Is there an approach you would use? Maybe mixing up different names from different cultures? Just try to avoid using names altogether? Or you just don't care/think much about it?
 > 
+> I find the idea of inventing names outright often leads to rather silly results, especially when considering time intervals that aren't too long (there's easily been Johns and James for the best part of one millennium now, so it's hard to imagine names as changing too radically unless on very very long time scales). However with just using realistic present day names I find that an annoying consequence is that the story will feel rooted in one specific country and culture, depending on which language I use, and that's not always necessarily something I want to draw a focus on if it's not key to my topic. In fact I like the idea of generality that comes with abstract or unknown names, I just don't feel they are very realistic or even credible in a lot of cases (if I were a linguist I might try to speculate about that, but alas, I am not).
+> 
+> Is there an approach you would use? Maybe mixing up different names from different cultures? Just try to avoid using names altogether? Or you just don't care/think much about it?
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+4]  *Time flies like an arrow* (2 days later)
 >> 
 >> I usually think about their parents, and the sort of selection process they would have gone through, which as a byproduct helps define the character and their background.
->> 
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>> 
 >>> True, but doesn't that apply anyway from a given starting pool which is going to be culture-determined? Like, I can see a specific type of parents picking a foreign name just for the heck of it, but most Americans will probably go for something American-sounding. My problem I guess is I'd like sometimes to make my stories feel unrooted to any specific setting, so that the reader doesn't get too tied into a cultural or political context, without resorting to names that are too weird or ludicrous.
->>> 
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (2 days later)
 >>>> 
 >>>> Ah, I think I see what you mean. You want to make "generic" names that are ethnically/culturally ambiguous. For that, I would suggest [Behind the Name](https://www.behindthename.com/), which has pretty much all the names. On the page for any given name, you can see popularity across cultures, as well as versions in other languages, and where it comes from. I think using variants from there might help things feel more ambiguous without being too weird.
->>>> 
 
->>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (2 days later)
 >>>>> 
 >>>>> Ah, thanks! Good material, I'll bookmark it.
->>>>> 
 
->> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (4 days later)
 >> 
 >> /r/namenerds is a great resource. 
->> I think do research into the history/provenance of the names you want to include, and perhaps include some really, really old names. The name Tiffany is actually a very ancient medieval name that got brought out of obscurity with a book in I think the 1940s or something, but now people don't think of Tiffany as an ancient name, they think of it as modern and trendy like Ryan or Jayden.
->> Think of your society: if it comes from America, then biblical/classic names like James/John/Mary will still be around. If it comes from Japan, the names will again be very different - Kumikos or something, I don't know Japanese names.
->> This is another great way to create names that look namey while also being "new": https://www.reddit.com/r/namenerds/comments/49yi1c/thoughts_on_dithematic_names_and_creating_names/
 >> 
+>> I think do research into the history/provenance of the names you want to include, and perhaps include some really, really old names. The name Tiffany is actually a very ancient medieval name that got brought out of obscurity with a book in I think the 1940s or something, but now people don't think of Tiffany as an ancient name, they think of it as modern and trendy like Ryan or Jayden.
+>> 
+>> Think of your society: if it comes from America, then biblical/classic names like James/John/Mary will still be around. If it comes from Japan, the names will again be very different - Kumikos or something, I don't know Japanese names.
+>> 
+>> This is another great way to create names that look namey while also being "new": https://www.reddit.com/r/namenerds/comments/49yi1c/thoughts_on_dithematic_names_and_creating_names/
 
->>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (4 days later)
 >>> 
 >>> But that's the thing, ideally I would like to create a society that doesn't immediately 'feel' anything to the reader, neither America nor Japan or China or Europe. But I guess there's just no avoiding that unless I go so far into the future and past the current state of humanity that everyone's called something like Entity Alpha or such.
->>> 
 
->>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (5 days later)
 >>>> 
 >>>> Yeah. I mean, look at a name that's 2,000 years old: John, say, or Augustus. Those are borrowed from different cultures, but they're clearly "white european" names, and I'm sure Japan, Korea, Thailand, Uganda, the Navaho nation, etc have their own traditional names that have been used for a long period of time, but they'd sound to our untrained ears like "modern" names in that culture. 
->>>> I mean, look at Asimov's names: the Foundation series is set some untold number of years in the future and the main character is named Hari Seldon which, while I've never heard it before, it sounds very european. (Hari due to its spelling sounds a tad Asian, but not overly so).
->>>> Then look at Frank Herbert's Dune series: everyone just has traditional English names (Paul, Jessica, etc) except for the aliens. Using one at random, her name is Chani, which is apparently a Hebrew name. Another alien, Stilgar, has a name that could probably have been generated from combining two name "portions" together.
 >>>> 
+>>>> I mean, look at Asimov's names: the Foundation series is set some untold number of years in the future and the main character is named Hari Seldon which, while I've never heard it before, it sounds very european. (Hari due to its spelling sounds a tad Asian, but not overly so).
+>>>> 
+>>>> Then look at Frank Herbert's Dune series: everyone just has traditional English names (Paul, Jessica, etc) except for the aliens. Using one at random, her name is Chani, which is apparently a Hebrew name. Another alien, Stilgar, has a name that could probably have been generated from combining two name "portions" together.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> that is a hard question...
->> There are many tips out there how to get names... None I read are obviously suprior to me.
->> Maybe mix some new names in. Or write them differently (like many do nowadays). Or maybe use nicknames.
->> Just don't stress too much with names you can search and replace them easily (as long as you don't write wordplays or use too many nicknames based on the character name like batarang for batman)
 >> 
+>> There are many tips out there how to get names... None I read are obviously suprior to me.
+>> 
+>> Maybe mix some new names in. Or write them differently (like many do nowadays). Or maybe use nicknames.
+>> 
+>> Just don't stress too much with names you can search and replace them easily (as long as you don't write wordplays or use too many nicknames based on the character name like batarang for batman)
 
-> **u/SkyTroupe** [+1] *
+> **u/SkyTroupe** [+1]  (10 days later)
 > 
 > I was thinking about the Reckoners series by Brandon Sanderson. In it people who have gained superpowers are more apathetic towards other people. They don't view them as having moral standing and that they are expendable/there to be used as they see fit.
-> I thought it was a good take on drunk with power and that got me thinking about what a world would look like if we took that saying literally. What would a world look like if people that had super powers got literally drunk off of using them?
-> How much different would the world be if their inebriation scaled with their power? Or if they had a limit til they blacked out/died from over consumption? What if they just hit a maximum inebriation rather than having a death/black out limit?
-> Just something I was curious to get your views on.
 > 
+> I thought it was a good take on drunk with power and that got me thinking about what a world would look like if we took that saying literally. What would a world look like if people that had super powers got literally drunk off of using them?
+> 
+> How much different would the world be if their inebriation scaled with their power? Or if they had a limit til they blacked out/died from over consumption? What if they just hit a maximum inebriation rather than having a death/black out limit?
+> 
+> Just something I was curious to get your views on.
 
 ---
 

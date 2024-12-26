@@ -12,158 +12,155 @@
 
 ### Comments:
 
-> **u/CouteauBleu** [+4]  *We are the Empire.**
+> **u/CouteauBleu** [+4]  *We are the Empire.* (12 hours later)
 > 
 > Am I the only one who's bothered that whoever wrote the book didn't find a more efficient way to communicate information to the kids than one morse word per book? Come on, if whoever bought the book didn't notice the matching owner tags, there's a lot more information they probably wouldn't have noticed either. Bolded letters, underlined words, etc.
-> Although, maybe there are more messages that the kids didn't find.
 > 
+> Although, maybe there are more messages that the kids didn't find.
 
->> **u/CeruleanTresses** [+1] *
+>> **u/CeruleanTresses** [+1]  (3 days later)
 >> 
 >> Maybe the consequences if it *were* noticed would have been so severe that any further increase in risk, however small, couldn't be justified.
->> 
 
-> **u/Kishoto** [+6] *
+> **u/Kishoto** [+4]  (40 minutes later)
 > 
 > As others have mentioned before; the intuitive jumps they make are really starting to push the suspension of disbelief. I know that they're really bright kids, obviously, so they're all genius level. But that doesn't explain how they magically intuit all of these things. Especially considering the short time frame they've given themselves to work in. []( #s "The morse code leap had me rolling my eyes. Noticing the owls, I can buy, but how do you instantly make the jump to the borders being morse coded messages?")
-> It feels like this work is becoming less rational and more "intellect porn" than anything else. "Oh hey, we have these really smart kids with all the odds against them. Let's have them Sherlock Holmes their way through this."
 > 
+> It feels like this work is becoming less rational and more "intellect porn" than anything else. "Oh hey, we have these really smart kids with all the odds against them. Let's have them Sherlock Holmes their way through this."
 
->> **u/LupoCani** [+6] *
+>> **u/LupoCani** [+5]  (9 hours later)
 >> 
 >> There's no instant jump to morse, you'll notice. Emma had already figured it out off-screen, and so had Ray. The only one to not know beforehand was Norman, and he didn't make the conclusion.
->> And, while figuring it out in a second would strain disbelief, doing it five minutes really wouldn't. They're kids. Looking for a code in a line, Morse is going to be the first thing they think of. Perhaps that's being right for the wrong reasons, but it's still perfectly plausible.
 >> 
+>> And, while figuring it out in a second would strain disbelief, doing it five minutes really wouldn't. They're kids. Looking for a code in a line, Morse is going to be the first thing they think of. Perhaps that's being right for the wrong reasons, but it's still perfectly plausible.
 
->>> **u/Fresh_C** [+3] *
+>>> **u/Fresh_C** [+3]  (10 hours later)
 >>> 
 >>> Yeah I think it's a more or less natural conclusion to come to if you're paying close attention to the details.
->>> You see this owl picture in most of your books, but you notice that it's slightly different in each book you see. So you begin to wonder why it's different and what that might mean. Then you notice that the circles are made up of dots and lines. And if you're familiar with morse code that's probably the first thing that dots and lines would make you think of it.
->>> It's a pretty natural progression I thought.
->>> (Note: Not saying that I would be smart enough or observant enough to figure this out. Just saying that it all makes logical sense.)
 >>> 
+>>> You see this owl picture in most of your books, but you notice that it's slightly different in each book you see. So you begin to wonder why it's different and what that might mean. Then you notice that the circles are made up of dots and lines. And if you're familiar with morse code that's probably the first thing that dots and lines would make you think of it.
+>>> 
+>>> It's a pretty natural progression I thought.
+>>> 
+>>> (Note: Not saying that I would be smart enough or observant enough to figure this out. Just saying that it all makes logical sense.)
 
->>>> **u/awesomeideas** [+3]  *Dai stiho, cousin.**
+>>>> **u/awesomeideas** [+3]  *Dai stiho, cousin.* (2 days later)
 >>>> 
 >>>> Personally I made the jump immediately, so it's at least plausible, but then again, I know they live in a story and they don't.
->>>> 
 
->>>> **u/ArisKatsaris** [+1]  *Sidebar Contender**
+>>>> **u/ArisKatsaris** [+1]  *Sidebar Contender* (17 hours later)
 >>>> 
 >>>> > It's a pretty natural progression I thought.
->>>> So why hadn't they decoded it already, and they're only decoding it after the stickers' warning is already useless?
 >>>> 
+>>>> So why hadn't they decoded it already, and they're only decoding it after the stickers' warning is already useless?
 
->>>>> **u/Fresh_C** [+3] *
+>>>>> **u/Fresh_C** [+3]  (18 hours later)
 >>>>> 
 >>>>> It's possible that Emma has never read so many different books at the same time before.
->>>>> Before perhaps she only occasionally read for fun. But now the books are one of their only clues to what the outside world is like, so they had to spend a lot of time trying to read them. This could be why she just noticed the pattern now.
->>>>> And it seems as if Ray had already figured this out before Emma brought it to their attention, so who knows how long ago he had broken the code.
->>>>> Also, even if they or some other gifted kid had broken the code in the past, it's a far cry from seeing a few coded words in a book to guessing the true nature of the farm.
->>>>> Though admittedly I'm trying to shed this in the best light possible.
->>>>> I'm actually half-surprised no one has innocently asked Mama about what the messages are supposed to mean and ruined the whole thing.
 >>>>> 
+>>>>> Before perhaps she only occasionally read for fun. But now the books are one of their only clues to what the outside world is like, so they had to spend a lot of time trying to read them. This could be why she just noticed the pattern now.
+>>>>> 
+>>>>> And it seems as if Ray had already figured this out before Emma brought it to their attention, so who knows how long ago he had broken the code.
+>>>>> 
+>>>>> Also, even if they or some other gifted kid had broken the code in the past, it's a far cry from seeing a few coded words in a book to guessing the true nature of the farm.
+>>>>> 
+>>>>> Though admittedly I'm trying to shed this in the best light possible.
+>>>>> 
+>>>>> I'm actually half-surprised no one has innocently asked Mama about what the messages are supposed to mean and ruined the whole thing.
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (10 hours later)
 >>> 
 >>> It's their age that's really grating on me, I suppose. These kids are just that; kids. Hyper intelligent, sure. But they have no real world experience; their media is clearly censored and controlled by their alien overlords, yet they seem to have all of this relevant information needed handy. They make intuitive, logical leaps that are simply almost impossible to make without prior experience. Nothing they've said in and of itself is too unbelievable. But I find it unbelievable that 3 sheltered kids, with limited access to books and no Internet, can have made all of the conclusions they've come to in rapid  succession in this short a time frame.
->>> 
 
->>>> **u/LupoCani** [+2] *
+>>>> **u/LupoCani** [+2]  (12 hours later)
 >>>> 
 >>>> That is reasonable, I suppose. I'm not very bothered myself, though. Their deductive skills, taken by themselves, are never unreasonable or Sherlockesque. Looking at the chapters, I don't recall any particular guesswork or far-fetchedness. 
->>>> Whether or not it's plausible for the children to have these skills, the skills aren't inhuman. With that in mind, I think the story has fulfilled it's rational obligations. Backstories and explanations are secondary, so long as the story itself works within the bounds it has set for itself.
 >>>> 
+>>>> Whether or not it's plausible for the children to have these skills, the skills aren't inhuman. With that in mind, I think the story has fulfilled it's rational obligations. Backstories and explanations are secondary, so long as the story itself works within the bounds it has set for itself.
 
->> **u/scooterboo2** [+6]  *Tinker 3: Embeded Systems**
+>> **u/scooterboo2** [+4]  *Tinker 3: Embeded Systems* (2 hours later)
 >> 
 >> Definitely. Intellect porn is what you'll mostly find of the rational genre outside of this sub. Out there it hasn't evolved into what we like here yet.
->> 
 
->>> **u/Pluvialis** [+1]  *Second Age Sauron**
+>>> **u/Pluvialis** [+1]  *Second Age Sauron* (a day later)
 >>> 
 >>> > yet
->>> That's very optimistic of you. I think this is just the type of 'rational' that has the widest appeal.
 >>> 
+>>> That's very optimistic of you. I think this is just the type of 'rational' that has the widest appeal.
 
->> **u/Traiden04** [+3] *
+>> **u/Traiden04** [+4]  (5 hours later)
 >> 
 >> Would it be better if they had shown the owls beforehand, with the morse code each chapter/page before the actual characters find out about the nature of their reality?
->> 
 
->> **u/None** [+4] *
+>> **u/None** [+3]  (10 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/ArisKatsaris** [+2]  *Sidebar Contender**
+>>> **u/ArisKatsaris** [+2]  *Sidebar Contender* (17 hours later)
 >>> 
 >>> > Morse code is one of the first things you would think of when looking for a hidden message
->>> This whole thing would have made sense if Ray was the one who had pointed them towards the stickers -- since he's the one who actually knew about the thing for years. Or if the story had begun with one of them having playing around having decoded the messages, but not imagining the thing was for real...
->>> But somehow it was Emma who knew about the stickers, and introduced the other two to them, so she somehow wasn't noticing them for years, and only noticed them in the few weeks since they discovered all the information on their own, independently of the stickers?
->>> What the fuck, these stickers came out of nowhere, plot-wise.
 >>> 
+>>> This whole thing would have made sense if Ray was the one who had pointed them towards the stickers -- since he's the one who actually knew about the thing for years. Or if the story had begun with one of them having playing around having decoded the messages, but not imagining the thing was for real...
+>>> 
+>>> But somehow it was Emma who knew about the stickers, and introduced the other two to them, so she somehow wasn't noticing them for years, and only noticed them in the few weeks since they discovered all the information on their own, independently of the stickers?
+>>> 
+>>> What the fuck, these stickers came out of nowhere, plot-wise.
 
->>>> **u/ghost-pacman4** [+3] *
+>>>> **u/ghost-pacman4** [+3]  (21 hours later)
 >>>> 
 >>>> I think Emma started looking at books much more now that Ray pointed out the useful information the books presented about the outside world, which was very recently. And I assume she was only examining the most recently published books for information, which had the owl stickers.
->>>> So she noticed them only recently because of Ray.
 >>>> 
+>>>> So she noticed them only recently because of Ray.
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (10 hours later)
 >>> 
 >>> HJPEV is not a realistic protagonist in my opinion. I know child geniuses are a thing and I'm obviously not one of them but even still; he didn't feel like a realistic eleven year old at all. His inexperience never really backfired on him except in ways where it was practically guaranteed to.
->>> HPMoR was a fun read; I really enjoyed it and felt it was an overall learning experience. But I would never point to Harry and say he was a believable protagonist; he was too good. Of course, that is an opinion and I won't begrudge others theirs, but invoking HJPEV doesn't really move me the way it might someone else.
 >>> 
+>>> HPMoR was a fun read; I really enjoyed it and felt it was an overall learning experience. But I would never point to Harry and say he was a believable protagonist; he was too good. Of course, that is an opinion and I won't begrudge others theirs, but invoking HJPEV doesn't really move me the way it might someone else.
 
->>>> **u/gbear605** [+2]  *history’s greatest story**
+>>>> **u/gbear605** [+2]  *history’s greatest story* (a day later)
 >>>> 
 >>>> It also needs to be remembered that HJPEV had an in-story reason for not being a realistic eleven year old.
->>>> 
 
->>>>> **u/Kishoto** [+1] *
+>>>>> **u/Kishoto** [+1]  (a day later)
 >>>>> 
 >>>>> [](#s "Oh, the dark lord soul thing? The "dark side" he received from Voldemort that we saw occasionally? That thing right? I guess that's true. I often forget about it, since it's revealed pretty late in story.")
->>>>> 
 
->>>>>> **u/gbear605** [+1]  *history’s greatest story**
+>>>>>> **u/gbear605** [+1]  *history’s greatest story* (a day later)
 >>>>>> 
 >>>>>> Yes, that thing.
->>>>>> To be honest, I'm fairly certain (>70%) that EY included that part-way through writing the book to excuse the fact that HJPEV wasn't acting like a normal kid.
 >>>>>> 
+>>>>>> To be honest, I'm fairly certain (>70%) that EY included that part-way through writing the book to excuse the fact that HJPEV wasn't acting like a normal kid.
 
->>>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (2 days later)
 >>>>>>> 
 >>>>>>> Nope it was there from the start. It was esplicit and EY edited the earlier chapter since it was too obvious,
->>>>>>> People on the subreddit knew about it for a long time.
 >>>>>>> 
+>>>>>>> People on the subreddit knew about it for a long time.
 
->>>>>>>> **u/gbear605** [+1]  *history’s greatest story**
+>>>>>>>> **u/gbear605** [+1]  *history’s greatest story* (2 days later)
 >>>>>>>> 
 >>>>>>>> Hmmm. I guess I need to update upwards my prior toward EY is good at planning his writing.
->>>>>>>> 
 
->>>>>>> **u/Kishoto** [+1] *
+>>>>>>> **u/Kishoto** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> > To be honest, I'm fairly certain (>70%) that EY included that part-way through writing the book to excuse the fact that HJPEV wasn't acting like a normal kid
->>>>>>> LMFAO, I was thinking the **exact** same thing. It's kinda why I worded my response that way; it's meant to be said snarkily like "Oh you mean that random ass dark side thing? Yea, totes!"
 >>>>>>> 
+>>>>>>> LMFAO, I was thinking the **exact** same thing. It's kinda why I worded my response that way; it's meant to be said snarkily like "Oh you mean that random ass dark side thing? Yea, totes!"
 
->>>>>>>> **u/ArisKatsaris** [+2]  *Sidebar Contender**
+>>>>>>>> **u/ArisKatsaris** [+2]  *Sidebar Contender* (3 days later)
 >>>>>>>> 
 >>>>>>>> Nonsense, it was clearly there from the very start. This is very very clear in retrospect.
->>>>>>>> Jeez, even chapter 3 has a foreshadowing of all this stuff. And an even more complete foreshadowing at chapter 5. I suggest you go reread them.
 >>>>>>>> 
+>>>>>>>> Jeez, even chapter 3 has a foreshadowing of all this stuff. And an even more complete foreshadowing at chapter 5. I suggest you go reread them.
 
->> **u/CeruleanTresses** [+2] *
+>> **u/CeruleanTresses** [+2]  (a day later)
 >> 
 >> It may turn out that the children are actually "superhuman" in some way, compared to the humans of 2016. What are the chances of three geniuses of this caliber showing up on the same farm in the same generation, unless humans have been altered in some way to make them more "delicious"? We can only attribute so much to Mama being a really good farmer. Not to mention Krone's exceptional memory--are there actually real-world humans capable of flipping through several pages of written information and instantly processing and memorizing all of it?
->> 
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (a day later)
 >>> 
 >>> That would be an interesting twist and would go some length towards mollifying me. I'd probably still whine a bit about how intellect doesn't make up for knowledge/wisdom/experience but I'd accept superhuman > human kids.
->>> 
 
 ---
 

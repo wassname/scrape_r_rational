@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/aljosa21** [+2] *
+> **u/aljosa21** [+2]  (47 seconds later)
 > 
 > This video introduces some basic paradoxes of language, most notably through a study on the kids' acquisition of the American Sign Language and Quine's "Radical translation" thought experiment. From there it moves on to the problems, portrayed in the movie Arrival (2016), Polish writer Stanisław Lem's works and NASA's attempts to equip Pioneer 10 and 11 with pictorial messages to extraterresial life - before finally introducing a more general discussion of the possibility of communicating with aliens, explored in André Kukla's philosophical paper from 2008.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/TwoMcMillion *
 * URL: https://www.reddit.com/r/rational/comments/3dpkay/original_magic_system_munchkining_the_nine_arts/
-* Score: 6
+* Score: 5
 
 * Created: 2015-07-18T05:21:00
 
@@ -56,42 +56,43 @@ So, my fellow redditors, what sort of neat tricks or abuses do you see here? Tha
 
 ### Comments:
 
-> **u/protagnostic** [+5] *
+> **u/protagnostic** [+5]  (15 hours later)
 > 
 > Be a Binder. Learn Thaumaturgy. Use Binding to reduce the energy loss from Thaumaturgy by strengthening the bonds. If it weakens the bond long-term, so what?
-> Also, if you can only be born with one of the first three, how did nine-arts-dude sidestep this? Can he be imitated? Actually...
-> What are the limits on Naming? What kind of Names can you learn? How fine-grained are they? Eg, one rock's Name takes 15 years, or the Name of Rock takes 15 years and then you can control all rocks? If Names can be abstract, try to learn the Name of Naming, or your own Name. Also, the word "name" just became a meaningless jumble of letters to me, which is hilarious in this context.
-> Learn to make the Elixir of Life. Use your extra lifespan to study Naming, then do the things above. Even if names are super-fine-grained (eg a single rock, not all rocks), you should be able to learn your own Name, or failing that at least the Name of your body. Now you're an immortal alchemist with telekinetic control over your own body, shapeshifting powers, and possibly the ability to recursively make yourself smarter and/or more powerful. If you can recursively self-improve (eg does increasing your INT stat decrease the amount of concentration you need to control yourself), does that shorten the time to learn new Names? If so, self-improve up to some suitably ridiculous level, spend five minutes learning the Names of the nine arts, grant them all to yourself at max power, use the Name of Time to travel back to the Bronze Age and become nine-arts-dude.
 > 
+> Also, if you can only be born with one of the first three, how did nine-arts-dude sidestep this? Can he be imitated? Actually...
+> 
+> What are the limits on Naming? What kind of Names can you learn? How fine-grained are they? Eg, one rock's Name takes 15 years, or the Name of Rock takes 15 years and then you can control all rocks? If Names can be abstract, try to learn the Name of Naming, or your own Name. Also, the word "name" just became a meaningless jumble of letters to me, which is hilarious in this context.
+> 
+> Learn to make the Elixir of Life. Use your extra lifespan to study Naming, then do the things above. Even if names are super-fine-grained (eg a single rock, not all rocks), you should be able to learn your own Name, or failing that at least the Name of your body. Now you're an immortal alchemist with telekinetic control over your own body, shapeshifting powers, and possibly the ability to recursively make yourself smarter and/or more powerful. If you can recursively self-improve (eg does increasing your INT stat decrease the amount of concentration you need to control yourself), does that shorten the time to learn new Names? If so, self-improve up to some suitably ridiculous level, spend five minutes learning the Names of the nine arts, grant them all to yourself at max power, use the Name of Time to travel back to the Bronze Age and become nine-arts-dude.
 
-> **u/Sagebrysh** [+3]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+3]  *Rank 7 Pragmatist* (47 minutes later)
 > 
 > So the God Emperor has control of the Magic Engine, though enough magic leaks out to connect with a few people here and there. Depending on the population of the world, magic might be very rare. The learned arts might be fairly common, but its pretty clear that those are effectively just people hacking the magic engine to get comparatively weak results out of it. If the God Emperor has control over who gets the Innate arts, and not just the 'lawful' granted art, then he really holds all the cards. If it's just flat out impossible for the average person to take full advantage of the magic engine, power is going to concentrate like crazy among the powerful magic users. Excepting for Binders, which in their most powerful form would be the equivelant of a tactical nuke, just...melting, everything around them, their abilities probably wouldn't assure them any victories, but a group of them could certainly swing a decisive battle.
-> 
 
-> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (10 hours later)
 > 
 > Learn Thaumaturgy, because it's useful and marketable and easy and probably useful for Alchemy, then Alchemy, because immortality has infinitely more value than anything else any of the other arts can give you.
-> Since this is obvious to anyone with reasonable intelligence, it's probably really hard to get into to whatever organization controls access to Alchemy. Most countries are probably ruled by ancient Alchemists, either overtly or covertly. Any publicly available information about Alchemy probably doesn't contain whatever you need to know to brew the Elixir.
 > 
+> Since this is obvious to anyone with reasonable intelligence, it's probably really hard to get into to whatever organization controls access to Alchemy. Most countries are probably ruled by ancient Alchemists, either overtly or covertly. Any publicly available information about Alchemy probably doesn't contain whatever you need to know to brew the Elixir.
 
-> **u/Gurkenglas** [+1] *
+> **u/Gurkenglas** [+1]  (6 hours later)
 > 
 > What happens if a Namer applies his power, a recorder records it, and is then played back in a similar situation?
-> How viable is mass production of a single kind of elixier?
-> How does transmutation conserve value? Compare an alchemist of back in the day when salt or aluminum were figuratively worth their weight in gold with one of today.
-> What's the history? With a god-emperor to guide humanity, the moral/technological progression might've run differently.
 > 
+> How viable is mass production of a single kind of elixier?
+> 
+> How does transmutation conserve value? Compare an alchemist of back in the day when salt or aluminum were figuratively worth their weight in gold with one of today.
+> 
+> What's the history? With a god-emperor to guide humanity, the moral/technological progression might've run differently.
 
-> **u/Tirran** [+1] *
+> **u/Tirran** [+1]  (a day later)
 > 
 > The alchemical restriction of equivalent value is really easy to exploit, because value isn't an intrinsic property of matter. I'm assuming an alchemist could brew a potion to comvince themselves that a pile of dirt has functionally infinite value, and could use that to transmute dirt into however much gold they wanted
-> 
 
-> **u/celeritatis** [+1] *
+> **u/celeritatis** [+1]  (a day later)
 > 
 > The Name of the Wind and The Wise Man's Fear both play with something very similar to your Thaumaturgy, and might be worth reading to consider what from the series should be allowed and what should not be.
-> 
 
 ---
 

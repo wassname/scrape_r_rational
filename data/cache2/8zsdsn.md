@@ -2,7 +2,7 @@
 
 * Author: u/Mystrl *
 * URL: https://practicalguidetoevil.wordpress.com/2018/07/18/chapter-32-kernel/
-* Score: 71
+* Score: 72
 
 * Created: 2018-07-18T04:36:59
 
@@ -12,94 +12,80 @@
 
 ### Comments:
 
-> **u/signspace13** [+18] *
+> **u/signspace13** [+19]  (an hour later)
 > 
 > It seems like that whole journey was meant as a tutorial on how to fight the wandering bard, "the way that leaves no openings" Cat means that he was rising to power in such a way that the bards whispering objections couldn't affect him, he had to sacrifice more than half his country in order to make him self king in such a way as to have no chance for objections.
-> 
 
->> **u/TideofKhatanga** [+9] *
+>> **u/TideofKhatanga** [+9]  (2 hours later)
 >> 
 >> That's if the woman laughing at the end isn't the Bard. She isn't above doing a hi-by (a drive-by by saying hi-bye) when the villain's master plan turns out to be her master plan too.
->> 
 
->>> **u/signspace13** [+11] *
+>>> **u/signspace13** [+10]  (2 hours later)
 >>> 
 >>> Well I imagine it is her laugh in the past at the fall of Keter, she already admitted defeat at that point so she is just laughing at the sheer horror of it, that seems like her style as well.
->>> 
 
->>>> **u/LordSwedish** [+7]  *Q Continuum**
+>>>> **u/LordSwedish** [+7]  *Q Continuum* (16 hours later)
 >>>> 
 >>>> Alternatively, she's laughing because she knows that the dead king just bound himself in his victory to the point where he can't act without praesi/villainous intervention even though he wanted freedom.
->>>> 
 
-> **u/haiku_fornification** [+14] *
+> **u/haiku_fornification** [+15]  (3 hours later)
 > 
 > > “You who pass this gate, know yourself beyond hope.”  
 > > – Written above the gates of Keter, earthly seat of the Dead King
-> The ending sure is ominous, considering they've likely just crossed that gate.
 > 
+> The ending sure is ominous, considering they've likely just crossed that gate.
 
->> **u/ZeroNihilist** [+10] *
+>> **u/ZeroNihilist** [+8]  (4 hours later)
 >> 
 >> If hope is the province of Above, perhaps being beyond hope is no bad thing.
->> Of course, that's not likely true, and even if it was I doubt it would stop Cat from ending up fighting a couple of nascent gods and an Old One before noon.
 >> 
+>> Of course, that's not likely true, and even if it was I doubt it would stop Cat from ending up fighting a couple of nascent gods and an Old One before noon.
 
->> **u/panchoadrenalina** [+2] *
+>> **u/panchoadrenalina** [+2]  (17 hours later)
 >> 
 >> An good and old frase. Is from dante's divina comedia. Written over the gates of hell. 
->> Very fitting here.
 >> 
+>> Very fitting here.
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (19 hours later)
 >> 
 >> Isn't hope the opposite of adequate engineering?  I have a feeling the dead king would get along well with HJPEV if he ever lived up to his own hype or any nuclear engineer when planning and or making things.
->> 
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+6]  *We are the Empire.* (7 hours later)
 > 
 > Maybe Cat could reshape Akua to be less smart? Or even grow a conscience? Or is mind-reshaping beyond her abilities? (it certainly isn't beyond her moral framework)
-> 
 
->> **u/zehguga** [+13] *
+>> **u/zehguga** [+14]  (8 hours later)
 >> 
 >> I'd argue it would be fairly repulsive to her. She gets the ick just from changing Akua's appearance, I think she'd balk pretty hard at altering personalities.
->> 
 
->>> **u/ZeroNihilist** [+7] *
+>>> **u/ZeroNihilist** [+8]  (9 hours later)
 >>> 
 >>> Also it becomes fairly hard to commit to the "use right up until the moment of annihilation" strategy that Thief wants if your alternative is to massage the kinks out of her personality. That'd likely cause conflict within the Woe.
->>> 
 
->>>> **u/ricree** [+9] *
+>>>> **u/ricree** [+8]  (10 hours later)
 >>>> 
 >>>> Not just wants. They made a formal agreement regarding that plan, which should be a pretty big deal considering her fae nature.
->>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> At the same time, forcing Akua to grow a conscience would be a pretty sick karmic punishment for her. Way better than making her rip her own eyes out.
->>>> 
 
->>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>> **u/CouteauBleu** [+1]  *We are the Empire.* (10 hours later)
 >>> 
 >>> My point is, she'd do it if she could.
->>> 
 
-> **u/WalterTFD** [+5] *
+> **u/WalterTFD** [+6]  (8 hours later)
 > 
 > I'm kind of confused about who they think they are fooling with the Akua disguise.  Like, do they really expect the Dead King to not recognize a Named spirit?  Binding Named spirits is kind of his whole deal.
-> 
 
->> **u/GeeJo** [+15]  *Custom Flair**
+>> **u/GeeJo** [+16]  *Custom Flair* (10 hours later)
 >> 
 >> It's for after they return. Akua's out of the box for the medium term now, not just this trip. That's what the conversation with Thief was about.
->> 
 
->> **u/LLJKCicero** [+11] *
+>> **u/LLJKCicero** [+10]  (8 hours later)
 >> 
 >> Dead King ain't gonna care though, and if he said anything nobody would believe him.
->> 
 
 ---
 

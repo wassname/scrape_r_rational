@@ -12,38 +12,35 @@
 
 ### Comments:
 
-> **u/alaskanfever** [+11] *
+> **u/alaskanfever** [+11]  (5 minutes later)
 > 
 > I miss Zombie already. I'm really hoping that the Dead King will send her back repaired as a little nod of respect. My head canon is it'll be like when Saladin sent Richard the Lionheart a new horse after his was slain in battle.
-> &#x200B;
-> The drow are really growing on me. The "ask tomorrow" is one of the more badass things in this story, and there are a lot of contenders.
 > 
+> &#x200B;
+> 
+> The drow are really growing on me. The "ask tomorrow" is one of the more badass things in this story, and there are a lot of contenders.
 
->> **u/PastafarianGames** [+12] *
+>> **u/PastafarianGames** [+12]  (2 hours later)
 >> 
 >> Catherine took the Zombie halves into her extradimensional storage space, so the DK doesn't get his grubby hands on 'em.
->> Totally agreed about the "ask tomorrow" line. That's a thing of beauty.
 >> 
+>> Totally agreed about the "ask tomorrow" line. That's a thing of beauty.
 
->>> **u/alaskanfever** [+5] *
+>>> **u/alaskanfever** [+7]  (3 hours later)
 >>> 
 >>> Oh, that's right. Looks like Cat will have to have the miracle man work on Zombie then. He was a pupil of the Dead King for a bit, I'm determined to believe that my dreams aren't crushed and we'll get Zombie back.
->>> 
 
->> **u/TwoxMachina** [+5] *
+>> **u/TwoxMachina** [+5]  (15 hours later)
 >> 
 >> If it's DK, he'll send Zombie back, packed with explosive poison.
->> 
 
->>> **u/JesradSeraph** [+1] *
+>>> **u/JesradSeraph** [+1]  (4 days later)
 >>> 
 >>> As we saw with Ranger, Neshamah only does « polite nods » as diversion and stalling tactics. Any practical thing he can do first, he does, thoroughly.
->>> 
 
-> **u/hayshed** [+2] *
+> **u/hayshed** [+2]  (15 hours later)
 > 
 > Goddamn we're getting into the thick of it now.
-> 
 
 ---
 

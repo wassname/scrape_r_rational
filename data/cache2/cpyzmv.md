@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/cpyzmv/pyrebound_72/
-* Score: 15
+* Score: 16
 
 * Created: 2019-08-13T20:34:29
 
@@ -18,26 +18,23 @@ Thanks, one and all!
 
 ### Comments:
 
-> **u/CouteauBleu** [+4]  *We are the Empire.**
+> **u/CouteauBleu** [+5]  *We are the Empire.* (an hour later)
 > 
 > Wow, these guys are really motivated to take Ram down, even after half their friends die in front of them. Of course *now* is the time he finally meets selfless people dedicated to defending their community at their own peril.
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (2 hours later)
 >> 
 >> Or paranoid troglodytes with a bunker mentality.  It's sort of like "terrorist" versus "freedom fighter."
->> 
 
->>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>> **u/CouteauBleu** [+2]  *We are the Empire.* (12 hours later)
 >>> 
 >>> Yeah, but, if I saw a terrorist kill 3 of my friends after saying he'd be out of our hair if we live him alone, and all I have is a pickaxe... at that point I might just cut my losses and assume it's someone else's problem :P
->>> 
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (a day later)
 >>>> 
 >>>> Now imagine that you're a minimally educated manual laborer who spends his life mostly underground at a work site located a few miles from North Korea.  You get all your news from rumors, or from overhearing casual chatter by your bosses, which usually ends with them noticing you hanging about and ordering you on your way.  Your life is dominated by scary stories and superstitions.  You believe you've discovered a Korean infiltrator who plans to blow up your mine--you don't know when exactly--and all of your friends agree.  You have the infiltrator outnumbered and surrounded, but he steadfastly insists you've made a mistake.
->>>> (leaving aside the part where Dul Misishi in many ways resembles a North Korean labor camp itself)
 >>>> 
+>>>> (leaving aside the part where Dul Misishi in many ways resembles a North Korean labor camp itself)
 
 ---
 

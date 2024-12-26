@@ -2,7 +2,7 @@
 
 * Author: u/blazinghand  *Chaos Undivided**
 * URL: https://www.reddit.com/r/rational/comments/40tlah/repost_everything_by_ted_chiang/
-* Score: 41
+* Score: 40
 
 * Created: 2016-01-13T19:18:25
 
@@ -22,28 +22,26 @@ Thanks to /u/Tasty_Yogurt and /u/CalebJohnsn for finding links, and /u/embrodski
 
 ### Comments:
 
-> **u/23143567** [+3] *
+> **u/23143567** [+3]  (14 hours later)
 > 
 > Is there any reason why we're doing a cyclical repost of that particular recommendation?
 > I'd say sticking it in the sidebar or something would be enough, since it's exactly the same post as you made here: [1](https://www.reddit.com/r/rational/comments/2frknq/rtreposteverything_by_ted_chiang/), and here [2](https://www.reddit.com/r/rational/comments/3kxox6/rtrepost_everything_by_ted_chiang/). 
-> Of course getting a mod opinion would be better here and it doesn't really hurt anyone, I just don't see a benefit in that kind of thing.
-> And if we were to argue that we could do that to improve the visibility of top recommendations then I'd argue to make a repostable list or a sticky post would look much better in that case.
 > 
+> Of course getting a mod opinion would be better here and it doesn't really hurt anyone, I just don't see a benefit in that kind of thing.
+> 
+> And if we were to argue that we could do that to improve the visibility of top recommendations then I'd argue to make a repostable list or a sticky post would look much better in that case.
 
->> **u/blazinghand** [+2]  *Chaos Undivided**
+>> **u/blazinghand** [+2]  *Chaos Undivided* (23 hours later)
 >> 
 >> Yeah I make this post every four or five months. I guess I've done this like five times by now. They're some great stories so I repost them. I do it because I want people to read them, especially new members. It seems to work very well.
->> 
 
->>> **u/Running_Ostrich** [+2] *
+>>> **u/Running_Ostrich** [+2]  (a day later)
 >>> 
 >>> Do you think there are other stories that should be periodically reposted? Or maybe we should have a more visible way for new members to find community-deemed great stories?
->>> 
 
->>>> **u/gonight** [+2]  *i shouldn't be allowed to change my own flair**
+>>>> **u/gonight** [+2]  *i shouldn't be allowed to change my own flair* (2 days later)
 >>>> 
 >>>> I'm down with a story list, something on the sidebar would be great.
->>>> 
 
 ---
 

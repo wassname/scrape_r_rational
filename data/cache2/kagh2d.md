@@ -41,46 +41,66 @@ Go.
 
 ### Comments:
 
-> **u/PastafarianGames** [+7] *
+> **u/PastafarianGames** [+6]  (13 hours later)
 > 
 > Dear self,
+> 
 > Check the news in Wuhan in January. Cybywy; you have time to do this right. Get the inlaws to get fiber, and when February comes, go out East with the baby and our wife, or you're not gonna have a minute of babysitting time for nine months.
+> 
 > Think about it: buy into Zoom, short the cruise lines, and remember that the market is pathologically insane so it's going to come right back after the crash.
+> 
 > Nothing you're currently planning to do to help any movement or organization worked out. Find other things to try.
+> 
 > We kept the exercise routine and diet up all year. I know you can do it, cause I already did.
+> 
 > Love,
 > self.
-> .
-> Obviously I chose to write to myself with the best advice I could ever have gotten. Would it have worked? Yes. In February, I was looking at the oncoming COVID crisis and almost took it appropriately seriously, but didn't because I didn't want to believe how bad it was going to be. (My estimation was still short of what actually happened but not by much. I didn't have any actual reason not to expect it to happen. I just... couldn't believe it would happen.) If I'd had a note from the future? That'd tip me over.
 > 
+> .
+> 
+> Obviously I chose to write to myself with the best advice I could ever have gotten. Would it have worked? Yes. In February, I was looking at the oncoming COVID crisis and almost took it appropriately seriously, but didn't because I didn't want to believe how bad it was going to be. (My estimation was still short of what actually happened but not by much. I didn't have any actual reason not to expect it to happen. I just... couldn't believe it would happen.) If I'd had a note from the future? That'd tip me over.
 
-> **u/D0TheMath** [+2]  *Dragon Army**
+> **u/D0TheMath** [+2]  *Dragon Army* (2 days later)
 > 
 > All of the following will be written in the code I use for quick & private me-to-me communication, for verification purposes.
-> Hello past me! It is present me. From the future! 
-> The earlier, rocky, Beatles songs are actually much better than their later, more psychodelic ones. Listen to them, you'll see. 
-> There will be a pandemic beginning in Wuhan China sometime January. Invest in Zoom, and Amazon. Encourage your parents & family to sell most other stocks, and do the fancy thing where you sell stocks now & buy them later (when the market is down) even though you don't own any stocks. idk, talk to the family broker. Stocks will only be down, like, for a very short while in February & March, then they'll shoot right back up again. Also suggested you start telling everyone you can about pandemics & how likely they are. This will surely increase your credibility among family and friends. 
-> The pandemic will last about a year and 2-6 months. idk, it's still going on (knowledge from 12/12/2020). The vaccine is *just* coming out (also may want to talk about how terribly slow the FDA is while discussing possible pandemics, made by Phizer, moderna, and AstroZeneca---so want to invest in them too if possible).
-> Also, stop being such a wimp. [name] *obviously* likes you. Take her out to ice skating or whatever, since by the time things actually started moving there, the virus hit. 
-> You place too much value on school, and not enough value on doing your own thing. Do your own thing more, and give homework the finger (or get a goddamn job and pay others to do it for you. This isn't rocket science). Textbooks are your friend. 
-> The Bayesian Conspiracy is a fun podcast, and their Discord is super cool too.
-> Become a vegetarian. Animals have much more moral weight than you currently think.
-> Oh, and the other thing: by writing this, I am likely killing myself for you. Don't let me die in vain :). See you in a year! Byyyyyyeeeeee
-> Future you.
-> edit: took longer than 5 min to write this, [but whatever](https://www.youtube.com/watch?v=0ppaiQ6mhbE).
 > 
+> Hello past me! It is present me. From the future! 
+> 
+> The earlier, rocky, Beatles songs are actually much better than their later, more psychodelic ones. Listen to them, you'll see. 
+> 
+> There will be a pandemic beginning in Wuhan China sometime January. Invest in Zoom, and Amazon. Encourage your parents & family to sell most other stocks, and do the fancy thing where you sell stocks now & buy them later (when the market is down) even though you don't own any stocks. idk, talk to the family broker. Stocks will only be down, like, for a very short while in February & March, then they'll shoot right back up again. Also suggested you start telling everyone you can about pandemics & how likely they are. This will surely increase your credibility among family and friends. 
+> 
+> The pandemic will last about a year and 2-6 months. idk, it's still going on (knowledge from 12/12/2020). The vaccine is *just* coming out (also may want to talk about how terribly slow the FDA is while discussing possible pandemics, made by Phizer, moderna, and AstroZeneca---so want to invest in them too if possible).
+> 
+> Also, stop being such a wimp. [name] *obviously* likes you. Take her out to ice skating or whatever, since by the time things actually started moving there, the virus hit. 
+> 
+> You place too much value on school, and not enough value on doing your own thing. Do your own thing more, and give homework the finger (or get a goddamn job and pay others to do it for you. This isn't rocket science). Textbooks are your friend. 
+> 
+> The Bayesian Conspiracy is a fun podcast, and their Discord is super cool too.
+> 
+> Become a vegetarian. Animals have much more moral weight than you currently think.
+> 
+> Oh, and the other thing: by writing this, I am likely killing myself for you. Don't let me die in vain :). See you in a year! Byyyyyyeeeeee
+> 
+> Future you.
+> 
+> edit: took longer than 5 min to write this, [but whatever](https://www.youtube.com/watch?v=0ppaiQ6mhbE).
 
-> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (2 days later)
 > 
 > Dear Mom and Dad,
+> 
 > It’s me from the future. (Code word from childhood, in case of emergencies) We look forward to seeing you in six months! Don’t freak out and cancel your tickets when the growing concerns about the novel Coronavirus in Wuhan, China, breaks out of Quarantine and spreads across the globe. June is the quiet Golden Period of air travel with eerie empty airplanes. Here’s how to stay safe. Surfaces aren’t as terrifying as the news/social media will initially make it out to be. Instead, just follow these three rules:
+> 
 > 1) Wear a mask, cloth is ok. Plastic face shields help too.
 > 2) Stay six feet distant from strangers until you confirm their COVID-19 status. (You will know what this will mean soon enough.)
 > 3) Exposure time matters. 15 minutes of shared air is dangerous. Ventilation helps. Being outdoors is best. 
-> Mom — you may be tempted to focus on real estate, but the market will be extremely volatile for the next year. Face-to-face will shut down in a global pandemic. Online delivery will boom. Buy Amazon and Zoom and Uber. Operation Warp Speed to develop a vaccine will help us reunite safely. Pfizer/BionTech(German Co) and Moderna) will lead the charge and are safe bets too.
-> Dad — when everyone goes on lockdown, hang up your paintings outside the house and share your gallery on Facebook. They will finally start selling. Everyone will be just looking for a little bit of peace and beauty in 2020 and your landscapes and koi ponds are just the ticket.
-> Much love. Wish you were here.
 > 
+> Mom — you may be tempted to focus on real estate, but the market will be extremely volatile for the next year. Face-to-face will shut down in a global pandemic. Online delivery will boom. Buy Amazon and Zoom and Uber. Operation Warp Speed to develop a vaccine will help us reunite safely. Pfizer/BionTech(German Co) and Moderna) will lead the charge and are safe bets too.
+> 
+> Dad — when everyone goes on lockdown, hang up your paintings outside the house and share your gallery on Facebook. They will finally start selling. Everyone will be just looking for a little bit of peace and beauty in 2020 and your landscapes and koi ponds are just the ticket.
+> 
+> Much love. Wish you were here.
 
 ---
 

@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (5 minutes later)
 > 
 > In 12 hours the Friday Off Topic thread will go up, which is the ideal location for this post. 
-> If there is enough community feedback we can consider having subreddit threads, but until then that Friday thread should be the home for this discussion.
 > 
+> If there is enough community feedback we can consider having subreddit threads, but until then that Friday thread should be the home for this discussion.
 
 ---
 

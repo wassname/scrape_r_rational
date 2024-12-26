@@ -2,7 +2,7 @@
 
 * Author: u/Sophronius  *The Need to Become Stronger**
 * URL: https://www.fanfiction.net/s/12913348/4/Kion-s-Cause
-* Score: 18
+* Score: 19
 
 * Created: 2018-05-05T23:35:26
 
@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/gbear605** [+3]  *history’s greatest story**
+> **u/gbear605** [+3]  *history’s greatest story* (4 hours later)
 > 
 > I feel like there's a very good joke somewhere between male pride and a pride of male lions, but I'm not quite sure where.
-> 
 
->> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>> **u/Sophronius** [+2]  *The Need to Become Stronger* (8 hours later)
 >> 
 >> Well, there's already the title of Lion King 2: Simba's Pride...
->> 
 
->>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (13 hours later)
 >>> 
 >>> Simba's Male Pride?
->>> 
 
-> **u/Kosijenac** [+2] *
+> **u/Kosijenac** [+2]  (21 hours later)
 > 
 > So far, so good. I can't wait to see how this will turn out. So far I'm hoping to see what these rocks are about \(Probably hyenas\) and to see the legacy of Scar \( And also his ghost\).
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/iwillmakeyouthink2 *
 * URL: https://www.reddit.com/r/rational/comments/3vatzy/writing_a_grimoire_chapter_0/
-* Score: 5
+* Score: 4
 
 * Created: 2015-12-03T17:11:00
 
@@ -34,28 +34,27 @@ It was only later that Daniel found the envelope under his pillow.
 
 ### Comments:
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (an hour later)
 > 
 > Huh.
-> That brings up two questions:
-> * What happened for it to be the teachers to first realize that Ralph is dead, before the roommate even wakes up? I mean, why would they check in on the boys if it was a normal day?
-> * Was Ralph setting up an excuse to conduct experiments at night without Daniel knowing by having something else cause the snoring?
 > 
+> That brings up two questions:
+> 
+> * What happened for it to be the teachers to first realize that Ralph is dead, before the roommate even wakes up? I mean, why would they check in on the boys if it was a normal day?
+> 
+> * Was Ralph setting up an excuse to conduct experiments at night without Daniel knowing by having something else cause the snoring?
 
-> **u/rhaps0dy4** [+1] *
+> **u/rhaps0dy4** [+1]  (a day later)
 > 
 > Awesome! And the story continues to past posts!
-> 
 
-> **u/Kishoto** [+1] *
+> **u/Kishoto** [+1]  (7 days later)
 > 
 > You say David at one point. Do you mean Daniel?
-> 
 
->> **u/iwillmakeyouthink2** [+1] *
+>> **u/iwillmakeyouthink2** [+1]  (7 days later)
 >> 
 >> Yes, thanks.
->> 
 
 ---
 

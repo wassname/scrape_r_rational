@@ -2,7 +2,7 @@
 
 * Author: u/ThisStoryNow *
 * URL: https://www.reddit.com/r/rational/comments/96hawv/dynastys_ghost_chapters_8_12_rebels_cant_go_home/
-* Score: 8
+* Score: 11
 
 * Created: 2018-08-11T15:22:51
 

@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/RynnisOne** [+2] *
+> **u/RynnisOne** [+2]  (a day later)
 > 
 > This is an interesting series, but I have to wonder... is one of the goal to give **every** named character--or at least one of each species--their version of the Roar?
->   The story is creative, and worth reading, but it's rapidly beginning to reach the Syndrome Threshold.
 > 
+>   The story is creative, and worth reading, but it's rapidly beginning to reach the Syndrome Threshold.
 
->> **u/Sophronius** [+1]  *The Need to Become Stronger**
+>> **u/Sophronius** [+1]  *The Need to Become Stronger* (2 days later)
 >> 
 >> Eh, I get what you're saying, but Scar's goal really was literally exactly that. So it's not like there isn't an explanation for it. On reflection, maybe I should have cut out Bunga having the roar, as that was mostly meant as a joke and doesn't really add much to the story. I could probably could have kept Jasiri normal as well. But the main heroes and villains do need to have some kind of way of standing toe-to-toe with each other. If your opponent has magical superpowers and you don't, then 9 times out of ten (assuming no guns) you're just going to be cannon fodder.
->> The other reason is that fights which just involve characters biting and clawing at each other are really boring to write. I like my superpowered fight scenes :(
 >> 
+>> The other reason is that fights which just involve characters biting and clawing at each other are really boring to write. I like my superpowered fight scenes :(
 
 ---
 

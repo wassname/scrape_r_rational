@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/5atbbp/biweekly_challenge_politics/
-* Score: 15
+* Score: 14
 
 * Created: 2016-11-02T23:18:52
 
@@ -50,33 +50,30 @@ Next time we'll have a rather broad category; **Magic Systems**. Adapt a magic s
 
 ### Comments:
 
-> **u/MonstrousBird** [+12] *
+> **u/MonstrousBird** [+11]  (6 days later)
 > 
 > [Meetings](https://docs.google.com/document/d/1x9j_1KDAsLBJvJv7VR4B7TfFYbGGaHqzbKdDuUALoDc/edit?usp=sharing)
 > 2230 words
-> 
 
-> **u/TennisMaster2** [+7] *
+> **u/TennisMaster2** [+5]  (23 hours later)
 > 
 > [Proposing a Path to Peace](http://m.uploadedit.com/ba3s/1478212389408.pdf)
-> Two thousand and eleven words.
-> This is a fictionalization of some of my research on the Senkaku/Diaoyu-tai Islands Dispute between Ælves and Orks- er, Chinese and Japanese.
 > 
+> Two thousand and eleven words.
+> 
+> This is a fictionalization of some of my research on the Senkaku/Diaoyu-tai Islands Dispute between Ælves and Orks- er, Chinese and Japanese.
 
->> **u/zian** [+1] *
+>> **u/zian** [+1]  (3 months later)
 >> 
 >> The website says "The page or image you are trying to access is not available on this site ! "
->> 
 
->> **u/None** [+0] *
+>> **u/None** [+0]  (5 days later)
 >> 
 >> [deleted]
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (5 days later)
 >>> 
 >>> [deleted]
->>> 
 
 ---
 

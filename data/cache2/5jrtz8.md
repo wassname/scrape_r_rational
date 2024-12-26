@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/5jrtz8/rtffhf_marked_for_death_ch_91_complicated_messy/
-* Score: 16
+* Score: 15
 
 * Created: 2016-12-22T17:37:21
 
@@ -28,28 +28,25 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/MatterBeam** [+6] *
+> **u/MatterBeam** [+5]  (4 hours later)
 > 
 > Finally! 
-> I should update my own quest though. Seeing how successful MfD become gives me hope.
 > 
+> I should update my own quest though. Seeing how successful MfD become gives me hope.
 
->> **u/I_am_your_BRAIN** [+3] *
+>> **u/I_am_your_BRAIN** [+3]  (4 hours later)
 >> 
 >> Ooh what quest is that?
->> 
 
->>> **u/MatterBeam** [+3] *
+>>> **u/MatterBeam** [+3]  (7 hours later)
 >>> 
 >>> Interested? It's a fantasy original. [Supersonic swords and Dynamik Warriors.](https://forums.sufficientvelocity.com/threads/supersonic-swords-and-dynamik-warriors.34361/)
->>> 
 
-> **u/eaglejarl** [+4] *
+> **u/eaglejarl** [+4]  (8 hours later)
 > 
 > This was a brilliant chapter -- it got all the "d'awww :>!" and the "awww :<" at once, as well as making me laugh so loud that I think my housemate heard me from upstairs.
-
-> I really need to step up my game.
 > 
+> I really need to step up my game.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://hpmor.com
-* Score: 76
+* Score: 79
 
 * Created: 2013-12-03T00:59:53
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/AmeteurOpinions** [+6]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+7]  *Finally, everyone was working together.* (23 minutes later)
 > 
 > /r/hpmor
-> 
 
 ---
 

@@ -14,10 +14,9 @@ Can anyone remind me the name?
 
 ### Comments:
 
-> **u/Noumero** [+8]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+7]  *Self-Appointed Court Statistician* (a minute later)
 > 
 > [*A Hero's War*](https://www.fictionpress.com/s/3238329/1/A-Hero-s-War), I assume.
-> 
 
 ---
 

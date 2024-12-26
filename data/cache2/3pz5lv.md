@@ -12,262 +12,247 @@
 
 ### Comments:
 
-> **u/literal-hitler** [+34] *
+> **u/literal-hitler** [+40]  (27 minutes later)
 > 
 > >"Five thousand two hundred and seventy three. Keeps getting bigger too. They came up with a lot of rules for the last guy."
-> I wonder...
-> >"Uh, lets see. There's... 5, 6, 7 carry the four... currently five thousand two hundred and eleven. Of course, new rules are being added whenever someone comes up with a loophole."
-> Nice.
 > 
+> I wonder...
+> 
+> >"Uh, lets see. There's... 5, 6, 7 carry the four... currently five thousand two hundred and eleven. Of course, new rules are being added whenever someone comes up with a loophole."
+> 
+> Nice.
 
-> **u/alexanderwales** [+25]  *Time flies like an arrow**
+> **u/alexanderwales** [+25]  *Time flies like an arrow* (3 hours later)
 > 
 > I quite enjoyed that, though I have no idea where it might be going given how high the stakes already are.
-> 
 
->> **u/DRMacIver** [+19] *
+>> **u/DRMacIver** [+17]  (6 hours later)
 >> 
 >> Yeah, I got a bit stuck, which is why it stalled. I actually have figured out a satisfying resolution, I just need to go back and write it.
->> 
 
->>> **u/Rhamni** [+11]  *Aspiring author**
+>>> **u/Rhamni** [+11]  *Aspiring author* (13 hours later)
 >>> 
 >>> This is a fantastic read so far, and I really hope you get back to writing it at some point.
->>> Have you written anything else that we might be interested in? You clearly write well, so I'm curious.
 >>> 
+>>> Have you written anything else that we might be interested in? You clearly write well, so I'm curious.
 
->>>> **u/DRMacIver** [+12] *
+>>>> **u/DRMacIver** [+12]  (19 hours later)
 >>>> 
 >>>> Thanks for the kind words. :-)
->>>> RE other things I've written:
->>>> There are a couple of other things on AO3. [Stargate Physics 101](http://archiveofourown.org/works/3673335) is probably the best of them (I think it's been posted here previously)
->>>> I also have a blog. It's mostly non-fiction about whatever is on my mind at the moment has some non fanfic fiction on it - mostly very short. You can see it [in the fiction category](http://www.drmaciver.com/category/fiction/). Of these, [gates](http://www.drmaciver.com/2009/04/gates/) seems to have been the most popular.
->>>> I also have [a software testing library](http://hypothesis.readthedocs.org/en/latest/), but that's probably not what you had in mind. ;-)
 >>>> 
+>>>> RE other things I've written:
+>>>> 
+>>>> There are a couple of other things on AO3. [Stargate Physics 101](http://archiveofourown.org/works/3673335) is probably the best of them (I think it's been posted here previously)
+>>>> 
+>>>> I also have a blog. It's mostly non-fiction about whatever is on my mind at the moment has some non fanfic fiction on it - mostly very short. You can see it [in the fiction category](http://www.drmaciver.com/category/fiction/). Of these, [gates](http://www.drmaciver.com/2009/04/gates/) seems to have been the most popular.
+>>>> 
+>>>> I also have [a software testing library](http://hypothesis.readthedocs.org/en/latest/), but that's probably not what you had in mind. ;-)
 
->>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (20 hours later)
 >>>>> 
 >>>>> Oh man, I do love Hypothesis though. I read a lot about it before really starting with other systems, and now anything example-based just seems *obviously* deficient.
->>>>> 
 
->>> **u/Martofunes** [+5] *
+>>> **u/Martofunes** [+6]  (12 hours later)
 >>> 
 >>> It's good that the genie's been set free, and the opposing forces so far are 5, right? "The Kingdom", Jafar, Aladdin, Jasmine, and The Genie...
->>> There's tons to be drawn from the wooing between someone "as powerful as a free-genie" and someone who's been granted "the best possible wish as per the genie's consideration". I'd assume the Genie is now siding with Jasmine rather than Aladdin, since well, she rocked the shit out of her wishes. So the forces are Basically Kingdom-Genie-Jas Vs Al Vs Jafar, and as far as power goes, it remains to be seen who is more powerful between Jafar or Aladdin, sin forseeably, Jaffar's last wish was wiser, but probably resulted in a less powerful outcome. Still, in Jasmine Vs Jaffar, Jas has the upper hand, since as far as it goes, The genie might have use the knowledge of the wishes he granted to Jafar and Aladdin, even without telling her (thus probably adding a new rule). Also, now Aladdin and The Genie are identical matches, level wise.
->>> Still, jasmine has the kingdom, and now bff with an ex-genie. Short from Jafar killing her, she's definitely about to become the best ruler of all fucking times.
->>> Hello Atlantis?
 >>> 
+>>> There's tons to be drawn from the wooing between someone "as powerful as a free-genie" and someone who's been granted "the best possible wish as per the genie's consideration". I'd assume the Genie is now siding with Jasmine rather than Aladdin, since well, she rocked the shit out of her wishes. So the forces are Basically Kingdom-Genie-Jas Vs Al Vs Jafar, and as far as power goes, it remains to be seen who is more powerful between Jafar or Aladdin, sin forseeably, Jaffar's last wish was wiser, but probably resulted in a less powerful outcome. Still, in Jasmine Vs Jaffar, Jas has the upper hand, since as far as it goes, The genie might have use the knowledge of the wishes he granted to Jafar and Aladdin, even without telling her (thus probably adding a new rule). Also, now Aladdin and The Genie are identical matches, level wise.
+>>> 
+>>> Still, jasmine has the kingdom, and now bff with an ex-genie. Short from Jafar killing her, she's definitely about to become the best ruler of all fucking times.
+>>> 
+>>> Hello Atlantis?
 
->>>> **u/ancientcampus** [+11]  *juggling kittens**
+>>>> **u/ancientcampus** [+10]  *juggling kittens* (19 hours later)
 >>>> 
 >>>> > Basically Kingdom-Genie-Jas Vs Al Vs Jafar,
->>>> That's a good point.
->>>> If this is developed into a longer story with back and forth combat between the three, then it might be interesting to show Kingdom/Genie/Jasmine as having *less* power than Aladdin or Jaffar.
->>>> Aladdin wished for "as much power as possible", and presumably got it. Jasmine just wished for "as much power as you think is safe/best for me to have and would make me happy". Jaffar has the perfect understanding of wishes, and *presumably* made one or two wishes we didn't see. (He had the knowledge to put his heart in a jar, which probably didn't come from the first wish, so he likely made at least one more.) Jaffar's wish was probably excellently worded, but had to force an uncooperative Genie, so I'd expect he ended up with less power than Aladdin.
->>>> So, I expect the rankings are:
->>>> Knowledge: Jasmine > Jaffar > Aladdin
->>>> Magical Power: Aladdin > Jaffar > Jasmine
->>>> The newly-freed Genie's an unknown on that scale. Aladdin has "as much power as possible for a free being to have". Genie *might* have that much, but I'd expect not. In cannon the freed genie had much less than that - it seemed less than cannon Jaffar after he wished to be "The Most Powerful Sorcerer In The World", which is likely less than "The Most Powerful Sorcerer Possible".
 >>>> 
+>>>> That's a good point.
+>>>> 
+>>>> If this is developed into a longer story with back and forth combat between the three, then it might be interesting to show Kingdom/Genie/Jasmine as having *less* power than Aladdin or Jaffar.
+>>>> 
+>>>> Aladdin wished for "as much power as possible", and presumably got it. Jasmine just wished for "as much power as you think is safe/best for me to have and would make me happy". Jaffar has the perfect understanding of wishes, and *presumably* made one or two wishes we didn't see. (He had the knowledge to put his heart in a jar, which probably didn't come from the first wish, so he likely made at least one more.) Jaffar's wish was probably excellently worded, but had to force an uncooperative Genie, so I'd expect he ended up with less power than Aladdin.
+>>>> 
+>>>> So, I expect the rankings are:
+>>>> 
+>>>> Knowledge: Jasmine > Jaffar > Aladdin
+>>>> 
+>>>> Magical Power: Aladdin > Jaffar > Jasmine
+>>>> 
+>>>> The newly-freed Genie's an unknown on that scale. Aladdin has "as much power as possible for a free being to have". Genie *might* have that much, but I'd expect not. In cannon the freed genie had much less than that - it seemed less than cannon Jaffar after he wished to be "The Most Powerful Sorcerer In The World", which is likely less than "The Most Powerful Sorcerer Possible".
 
-> **u/Jiro_T** [+20] *
+> **u/Jiro_T** [+22]  (7 hours later)
 > 
 > If you think the genie is being enslaved, and you want to wish it free once you have gotten two wishes, you don't free it as your third wish.  You make your *first* wish be that the genie will be free conditional on you being satisfied with your second and third wishes.
-> 
 
->> **u/DRMacIver** [+2] *
+>> **u/DRMacIver** [+2]  (7 hours later)
 >> 
 >> I think you're neglecting the benefits of the genie being on your side.
->> 
 
->>> **u/Jiro_T** [+19] *
+>>> **u/Jiro_T** [+19]  (7 hours later)
 >>> 
 >>> No, that's the whole point.  If you promise to free the genie as your third wish, the genie knows you could change your mind and not free it.  If you make it as your first wish, you can't change your mind.
->>> 
 
->>>> **u/ulyssessword** [+7] *
+>>>> **u/ulyssessword** [+6]  (13 hours later)
 >>>> 
 >>>> Precommitment!
->>>> 
 
->>>> **u/DRMacIver** [+3] *
+>>>> **u/DRMacIver** [+4]  (15 hours later)
 >>>> 
 >>>> Hm. This is a good point, but I think the "conditional on you being satisfied with your second and third wishes" part kinda ruins the trust angle, which Jasmine in particular is clearly going for. "I wish for you to be free after I've made the rest of my wishes" works though. I may retcon that in, thanks. :-)
->>>> 
 
->>>>> **u/ancientcampus** [+5]  *juggling kittens**
+>>>>> **u/ancientcampus** [+5]  *juggling kittens* (19 hours later)
 >>>>> 
 >>>>> I read it as Jasmine already *does* trust the Genie completely, through magic knowledge and her kind personality. Setting up a conditional freedom wish would sour that, for the reader as well as possibly the characters.
->>>>> 
 
->>>> **u/MugaSofer** [+1] *
+>>>> **u/MugaSofer** [+1]  (14 hours later)
 >>>> 
 >>>> It has no incentive not to screw you over, then, of course.
->>>> 
 
->>>>> **u/SpeakKindly** [+3] *
+>>>>> **u/SpeakKindly** [+3]  (a day later)
 >>>>> 
 >>>>> If you think the Genie might screw you over, you really have no chance to stop it.
+>>>>> 
 >>>>> I mean, what kind of theories could you have about the Genie?
+>>>>> 
 >>>>> * If the Genie is completely fair and honest, any reasonable wish will do here.
 >>>>> * If the Genie is completely fair with wishes, but might screw you over once freed, that could happen anyway. The only way to stop this is to avoid anything that *might* free the Genie.
 >>>>> * If the Genie has lied about twisting wishes, the Genie could be lying about anything. "Evil omnipotent being trying to screw you over with wishes" is a possibility, but so is "Omnipotent being using your wish choice as a test of character" and "Omnipotent being not actually planning to grant wishes but toying with you" and "Hallucinogenic mushroom". In this case, you have no way to get true knowledge about the nature of wishes, so no wish you make is guaranteed safe.
->>>>> 
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (15 hours later)
 >>>>> 
 >>>>> But you can implicitly trust the genie. The voice in Jasmine's head said so. 
->>>>> More formally, it's pretty clear that the genie plays a Tit for Tat strategy.
 >>>>> 
+>>>>> More formally, it's pretty clear that the genie plays a Tit for Tat strategy.
 
->>>>>> **u/MugaSofer** [+1] *
+>>>>>> **u/MugaSofer** [+1]  (16 hours later)
 >>>>>> 
 >>>>>> Ah, but you don't know that when making your first wish.
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+3] *
+>>>>>>> **u/eaglejarl** [+3]  (17 hours later)
 >>>>>>> 
 >>>>>>> > You make your first wish be that the genie will be free conditional on you being satisfied with your second and third wishes
->>>>>>> Okay.  But the wish that /u/Jiro_T proposed was "You make your first wish be that the genie will be free **conditional on you being satisfied with your second and third wishes**"  If the genie is on your side, he's not going to stop being on your side after you precommit to doing him a major solid, even if there's a minor caveat on it.  (Or, at least, I wouldn't be.) In fact, he's now super motivated to make sure you're happy.
 >>>>>>> 
+>>>>>>> Okay.  But the wish that /u/Jiro_T proposed was "You make your first wish be that the genie will be free **conditional on you being satisfied with your second and third wishes**"  If the genie is on your side, he's not going to stop being on your side after you precommit to doing him a major solid, even if there's a minor caveat on it.  (Or, at least, I wouldn't be.) In fact, he's now super motivated to make sure you're happy.
 
->>>>>>>> **u/MugaSofer** [+5] *
+>>>>>>>> **u/MugaSofer** [+6]  (18 hours later)
 >>>>>>>> 
 >>>>>>>> Maybe I'm way too paranoid around genies, but that immediately makes me think "oh no, the genie's gonna wirehead me!"
->>>>>>>> ... yeah, I'm definitely too paranoid around genies. I blame the LWish tendency to call AIs "genies".
 >>>>>>>> 
+>>>>>>>> ... yeah, I'm definitely too paranoid around genies. I blame the LWish tendency to call AIs "genies".
 
->>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> **u/eaglejarl** [+1]  (19 hours later)
 >>>>>>>>> 
 >>>>>>>>> If your wish is along the lines of Jasmine's -- do whatever will make me happiest without violating my current utility function or my self-identity -- then you're in reasonably good shape.
->>>>>>>>> 
 
->> **u/TimTravel** [+1] *
+>> **u/TimTravel** [+1]  (a day later)
 >> 
 >> That's approximately what the main character does in Two Year Emperor.
->> 
 
-> **u/EliezerYudkowsky** [+39]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+35]  *Godric Gryffindor* (an hour later)
 > 
 > Oh, well done.
-> 
 
-> **u/literal-hitler** [+12] *
+> **u/literal-hitler** [+11]  (4 hours later)
 > 
 > At least this touches upon one thing a lot of multiple wish munchkining misses, you cannot possibly create the optimal wish. Your first wish should at least include the ability to formulate a near optimal second wish. 
-> After that, depending on what you can put in a single wish vs two, the third might as well be a freebie.
 > 
+> After that, depending on what you can put in a single wish vs two, the third might as well be a freebie.
 
->> **u/Martofunes** [-3] *
+>> **u/Martofunes** [-4]  (12 hours later)
 >> 
 >> Hi, hitler...
->> 
 
-> **u/gridpoint** [+6] *
+> **u/gridpoint** [+7]  (4 hours later)
 > 
 > Intuitive understanding with selective availability of knowledge seems contradictory. And how does one define 'hurt' to ones mind when access to any knowledge can give one options to do things that would be uncharacteristic or mind-altering or considered 'insane' by the original mindset? It could severely limit the knowledge that is made available.
-> 
 
->> **u/Martofunes** [+3] *
+>> **u/Martofunes** [+3]  (12 hours later)
 >> 
 >> Well, yes, but it's a wish. So, anything goes. You can say you have neurons connecting you to the mind of God, or of all gods, so you can access Zeus mind (and suddenly want to fuck trees) or the Buddha (and suddenly be really mindful of that rice you're cooking)
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (5 hours later)
 > 
 > [deleted]
-> 
 
->> **u/eltegid** [+10] *
+>> **u/eltegid** [+10]  (12 hours later)
 >> 
 >> Aladdin himself was responsible for the addition of 62 rules, and you'd think that the need for new rules due to an intelligent wishmaker decreases with the number of existing rules... So, for all we know, 3000 rules come from the same person.
->> 
 
->> **u/NotAHeroYet** [+6]  *City of Angles Municipal Government**
+>> **u/NotAHeroYet** [+7]  *City of Angles Municipal Government* (6 hours later)
 >> 
 >> Well, it's every time someone thinks of a loophole- which doesn't require they have a genie or understand genie rules, to start with- just coming up with a new genie loophole, given that most people think the obvious ones are fulfilled, there might be that much potential divergence.
->> There might be more worlds than this one with lamps floating around. I doubt aladin thought of 62 different loopholes alone- not because he couldn't have, but because it's pretty hard to come up with 62 new loopholes for over 5000 rules without finding a valid version first.
 >> 
+>> There might be more worlds than this one with lamps floating around. I doubt aladin thought of 62 different loopholes alone- not because he couldn't have, but because it's pretty hard to come up with 62 new loopholes for over 5000 rules without finding a valid version first.
 
->> **u/ancientcampus** [+5]  *juggling kittens**
+>> **u/ancientcampus** [+3]  *juggling kittens* (19 hours later)
 >> 
 >> I wonder if most of those came from the Genie thinking about wishes on his own during his millennia of boredom.
->> 
 
-> **u/thecommexokid** [+3] *
+> **u/thecommexokid** [+4]  (16 hours later)
 > 
 > You seem to alternate quite regularly between Jafar and Jaffar. According to the Disney Wiki, it's just one f.
-> 
 
->> **u/DRMacIver** [+3] *
+>> **u/DRMacIver** [+3]  (19 hours later)
 >> 
 >> Thanks, I'll fix.
->> I'm not very good at consistent use of repeated characters in general, and Jaffffffff'ar isn't helped by the fact that there are like seventeen (ok, three) different valid transliterations of the arabian name. :-)
 >> 
+>> I'm not very good at consistent use of repeated characters in general, and Jaffffffff'ar isn't helped by the fact that there are like seventeen (ok, three) different valid transliterations of the arabian name. :-)
 
-> **u/Empiricist_or_not** [+6]  *Aspiring polite Hegemonizing swarm**
+> **u/Empiricist_or_not** [+6]  *Aspiring polite Hegemonizing swarm* (2 hours later)
 > 
 > So who's the "they" generating the rules
-> 
 
->> **u/thesteamboat** [+22] *
+>> **u/thesteamboat** [+23]  (4 hours later)
 >> 
 >> GOD Over Djinn, with the associated Meta-Genie, Meta-Meta-Genie, etc. See[Little Harmonic Labyrinth](http://genius.com/Douglas-hofstadter-little-harmonic-labyrinth-annotated) in your nearest copy of [GEB](https://en.wikipedia.org/wiki/Gödel,_Escher,_Bach).
->> 
 
->> **u/rtkwe** [+12] *
+>> **u/rtkwe** [+12]  (2 hours later)
 >> 
 >> The Great DM in the Sky.
->> In many worlds there'd be some god or council of gods that the genies are bound and powered by.
 >> 
+>> In many worlds there'd be some god or council of gods that the genies are bound and powered by.
 
->> **u/DRMacIver** [+10] *
+>> **u/DRMacIver** [+11]  (7 hours later)
 >> 
 >> Spoiler alert: it me
->> (I don't plan to actually address this in story. It's probably God or something)
 >> 
+>> (I don't plan to actually address this in story. It's probably God or something)
 
->>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (16 hours later)
 >>> 
 >>> I Was asking because I'm trying to think what the corollary is in trans-humanism.  Usually you can use djinn/olaf as something of a corollary to what an AI might do, but in this one I can't see a corollary  unless it's a semi-benevolent otherwise diesitly inactive AI.
->>> 
 
->>>> **u/DRMacIver** [+7] *
+>>>> **u/DRMacIver** [+7]  (19 hours later)
 >>>> 
 >>>> I am not a less wrong person and not everything I write is a metaphor for friendly AI :-)
->>>> 
 
-> **u/Martofunes** [+2] *
+> **u/Martofunes** [+2]  (12 hours later)
 > 
 > No wait why isn't it finished? Why is there no end? I want to keep reading! PLEASE!
-> 
 
-> **u/TastyBrainMeats** [+2] *
+> **u/TastyBrainMeats** [+2]  (16 hours later)
 > 
 > Why does nobody ever think of a conditional or time-delayed wish?
-> "Genie, I wish for you to be free...as soon as you grant my third wish, or when I lose possession of your lamp, whichever comes first."
-> EDIT: I hadn't seen Jiro's comment.
 > 
+> "Genie, I wish for you to be free...as soon as you grant my third wish, or when I lose possession of your lamp, whichever comes first."
+> 
+> EDIT: I hadn't seen Jiro's comment.
 
-> **u/ancientcampus** [+2]  *juggling kittens**
+> **u/ancientcampus** [+2]  *juggling kittens* (19 hours later)
 > 
 > Oh wow, this was wonderful. Jasmine's part made me feel nice and fuzzy.
-> 
 
-> **u/Frommerman** [+1] *
+> **u/Frommerman** [+1]  (2 hours later)
 > 
 > Noice.
-> 
 
-> **u/SaintPeter74** [+1] *
+> **u/SaintPeter74** [+1]  (3 hours later)
 > 
 > That was brilliant!  Loved it.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (12 hours later)
 > 
 > This looks like it'd be fun as a longer story. I hope you post that.
-> 
 
 ---
 

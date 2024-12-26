@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (7 minutes later)
 > 
 > Please post this as a top-level comment in the Friday Open thread and/or on Monday's regular Recommendation Thread.
-> 
 
 ---
 

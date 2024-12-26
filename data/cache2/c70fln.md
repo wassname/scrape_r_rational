@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/c70fln/pyrebound_unusual_high_fantasy_serial/
-* Score: 61
+* Score: 65
 
 * Created: 2019-06-29T15:45:23
 
@@ -20,295 +20,265 @@ Thanks for taking the time to read this!
 
 ### Comments:
 
-> **u/RedSheepCole** [+23] *
+> **u/RedSheepCole** [+22]  (3 hours later)
 > 
 > I guess it would have been sensible to specify how/to what extent it could be considered ratfic, huh?  The whole human civilization in this story is organized around the use of magic to survive a catastrophic event that recurs every four days; all the society's institutions and culture are rooted in the ways they've had to adapt to this central problem.  I have tried to work through the implications pretty exhaustively; however, they do not take center stage in the novel because it would feel mildly ridiculous to have Ram stop and think at length about aspects of life that are as basic to him as democracy or corporations are to us.  Ram's problems are ultimately rooted in the deficiencies of a society shaped by brutal necessity, and I try to explore that, along with the many different ways you can acquire power in such a society, and what it does to you.
-> 
 
->> **u/sambelulek** [+9]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+12]  *Ulquaan Ibasa Liquor Smuggler* (9 hours later)
 >> 
 >> Ratfic, I reckon, is all about character. Consistent world is more of requirement not the central theme. After all, if not for consistent world, how else our character can get their reward from acting rationally? From your description, I think you got it pat down. I'm interested.
->> 
 
->>> **u/JusticeBeak** [+5] *
+>>> **u/JusticeBeak** [+6]  (21 hours later)
 >>> 
 >>> Just a friendly fyi, I believe the phrase is "you've got it down pat," as a pat down is something else entirely.
->>> 
 
->>>> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler**
+>>>> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler* (a day later)
 >>>> 
 >>>> Ah, LOL. I actually smirked yesterday in multiple occasion, "Finally I get to use that expression." I feel deflated today reading PM finding out I didn't type what I meant to type. Oh well...
->>>> 
 
->>>>> **u/FeluriansCloak** [+1] *
+>>>>> **u/FeluriansCloak** [+1]  (a day later)
 >>>>> 
 >>>>> Don’t be deflated! It was an appropriate place for the expression, and now you know for the future.
->>>>> 
 
->>> **u/Sonderjye** [+3] *
+>>> **u/Sonderjye** [+3]  (a day later)
 >>> 
 >>> idk, I do feel that for many ratfics, there's an underlying exploration of the world.
->>> 
 
->>>> **u/sambelulek** [+3]  *Ulquaan Ibasa Liquor Smuggler**
+>>>> **u/sambelulek** [+3]  *Ulquaan Ibasa Liquor Smuggler* (a day later)
 >>>> 
 >>>> If the world is not familiar to us, exposition (underlying exploration) is mandatory. Knowing how the world works make readers understand whether the characters make correct decisions, or ultimately, go the right way to solve problem. I'd love to quote Sanderson about magic & problem solving, but change magic to world, world & problem solving.
->>>> 
 
->> **u/Areign** [+2] *
+>> **u/Areign** [+2]  (3 months later)
 >> 
 >> I know i'm super late to the game, but be aware of the difference between rational fiction and rationlist fiction.
->> The first is about consistency, characters (good and bad) not acting as morons just to forward the plot (if they aren't generally morons), worlds that take actions and give realistic consequences...etc. Which sounds be what you are talking about above.
->> Rationalist is more focused towards talking about modes of thinking, techniques for applying rationality...etc in addition to the rules listed above. Which seems to be what you are worried about in this comment.
->> So it sounds like a good fit to me.
 >> 
+>> The first is about consistency, characters (good and bad) not acting as morons just to forward the plot (if they aren't generally morons), worlds that take actions and give realistic consequences...etc. Which sounds be what you are talking about above.
+>> 
+>> Rationalist is more focused towards talking about modes of thinking, techniques for applying rationality...etc in addition to the rules listed above. Which seems to be what you are worried about in this comment.
+>> 
+>> So it sounds like a good fit to me.
 
->>> **u/RedSheepCole** [+1] *
+>>> **u/RedSheepCole** [+1]  (3 months later)
 >>> 
 >>> Hey, feedback's feedback.  Thank you.
->>> 
 
-> **u/Riyonak** [+4] *
+> **u/Riyonak** [+7]  (14 hours later)
 > 
 > My, my. Technically well written, no glaring grammar mistakes, good world building, and understandable characters!
-> Plus the characters act reasonably with realistic motivations. They're not wish fulfillingly clever nor are they dumb bricks for plot convenience. 
-> That's really all that I can ask for in a rational fiction so thanks for this post! I'm on 3.2 right now and I have enjoyed the story so far. I'll be following it now. 
-> I love the setting with the Mesopotamian influence and naming. I really appreciate when authors decide to use naming that goes beyond boring, overdone English names in Western Fantasy and actually dip into to countless other cultures that exist.
 > 
+> Plus the characters act reasonably with realistic motivations. They're not wish fulfillingly clever nor are they dumb bricks for plot convenience. 
+> 
+> That's really all that I can ask for in a rational fiction so thanks for this post! I'm on 3.2 right now and I have enjoyed the story so far. I'll be following it now. 
+> 
+> I love the setting with the Mesopotamian influence and naming. I really appreciate when authors decide to use naming that goes beyond boring, overdone English names in Western Fantasy and actually dip into to countless other cultures that exist.
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (20 hours later)
 >> 
 >> Thank you very much, to you and to everyone else who gave/is giving/will give PB a shot!  The site's never seen this much traffic before.
->> 
 
->> **u/JusticeBeak** [+1] *
+>> **u/JusticeBeak** [+1]  (22 hours later)
 >> 
 >> I write fantasy as a hobby, and names are one of the hardest things for me to come up with. I want names my readers can pronounce, and sometimes I want a particular sound or feeling from the name, but the problem of naming a character still feels open-ended enough that I have no idea where to start. Now that I think about it, I'll probably make a post on a writing subreddit to ask this question, but I'd like your input as well since you seem to have strong feelings about names.
->> 
 
->>> **u/RedSheepCole** [+4] *
+>>> **u/RedSheepCole** [+5]  (a day later)
 >>> 
 >>> I start by looking at the list of available phonemes in the language of the real-world culture I'm trying to root the society in, and go from there.  Some of my names are weird inside jokes to myself (all four non-human races' names in PB are derived somehow from relevant Sumerian or Babylonian mythological figures), but for the most part I slap together legal sounds until I get something I like.
->>> 
 
-> **u/Izeinwinter** [+6] *
+> **u/Izeinwinter** [+6]  (23 hours later)
 > 
 > That is an impressively dysfunctional society. Ancient Sparta or Aztec Empire levels. This is not a complaint mind, just a "Wow, that is fucked up".
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (a day later)
 >> 
 >> Well, that's what I was going for.  Glad to hear that I succeeded so beautifully.
->> 
 
-> **u/Iwasahipsterbefore** [+4] *
+> **u/Iwasahipsterbefore** [+5]  (a day later)
 > 
 > Spoilers ahead, I can't seem to get the tags working on mobile.
-
-
-
->  It seems fairly clear to me that Ram himself was chosen by a spirit, rather than his sword.
-> I wonder if he's the first of his kind.
-> Also, I really want to see his "girlfriend" find out about the rumors he's spreading. My bet is she'd show him off as her boy toy to get back at him.
-
-> So far it's excellently well written, and would absolutely be welcomed here if you posted whenever you dropped a new chapter.
 > 
+>  It seems fairly clear to me that Ram himself was chosen by a spirit, rather than his sword.
+> 
+> I wonder if he's the first of his kind.
+> 
+> Also, I really want to see his "girlfriend" find out about the rumors he's spreading. My bet is she'd show him off as her boy toy to get back at him.
+> 
+> So far it's excellently well written, and would absolutely be welcomed here if you posted whenever you dropped a new chapter.
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (a day later)
 >> 
 >> Would it be appropriate to spoiler-tag any of that, or is it understood here that the comments section is fair game?
->> 
 
->>> **u/Iwasahipsterbefore** [+2] *
+>>> **u/Iwasahipsterbefore** [+2]  (a day later)
 >>> 
 >>> Ah, I thought you posted this as a chapter update, rather than a series introduction.
->>> That should probably be spoiler bound, I'll do it once I remember how.
 >>> 
+>>> That should probably be spoiler bound, I'll do it once I remember how.
 
-> **u/Cacoethes-Lectio** [+3] *
+> **u/Cacoethes-Lectio** [+3]  (7 hours later)
 > 
 > Seems interesting. Added to my list
-> 
 
-> **u/LimeDog** [+3] *
+> **u/LimeDog** [+3]  (12 hours later)
 > 
 > It would be nice to have the option to read on a dark background.
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (19 hours later)
 >> 
 >> I don't have a lot in the way of technical ability, unfortunately.  It took me an embarrassingly long time just to get the Wordpress site looking right.
->> 
 
->>> **u/JusticeBeak** [+1] *
+>>> **u/JusticeBeak** [+1]  (22 hours later)
 >>> 
 >>> I'm no wordpress expert, but perhaps this plugin could be helpful https://wordpress.org/support/plugin/dark-mode/
->>> 
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (a day later)
 >>>> 
 >>>> Does it allow you to give readers the option of how they view it?  It's not clear from the description.  I know some people griped about Worm b/c they didn't like reading white on black.
->>>> 
 
->> **u/CorneliusPhi** [+2] *
+>> **u/CorneliusPhi** [+2]  (5 days later)
 >> 
 >> I read the whole story on a dark background.  You should be able to find a browser extension for that
->> 
 
->>> **u/LimeDog** [+2] *
+>>> **u/LimeDog** [+2]  (5 days later)
 >>> 
 >>> Solution worked. Got Dark Reader extension.
->>> 
 
-> **u/silkin** [+2] *
+> **u/silkin** [+2]  (14 hours later)
 > 
 > Sounds cool. I'll check it out :)
-> 
 
-> **u/lmbfan** [+2] *
+> **u/lmbfan** [+2]  (15 hours later)
 > 
 > That was very entertaining. Please post updates here, I am extremely interested to see what happens next, and for more of your excellent world building.
-> Do you have a Patreon or other means of donating?
 > 
+> Do you have a Patreon or other means of donating?
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (19 hours later)
 >> 
 >> Not at present.  I was planning to follow Cory Doctorow's tactics and issue a print edition with a couple of extras once the whole thing gets finished.
->> 
 
->>> **u/JusticeBeak** [+6] *
+>>> **u/JusticeBeak** [+7]  (22 hours later)
 >>> 
 >>> I recommend that you get a ko-fi or list a paypal or something so that people who want to donate to you in the meantime can do so. If you're against that for whatever reason, perhaps consider listing an effective charity such as those listed by [GiveWell](https://www.givewell.org) to donate to, since people seem to like making donations after reading well written fiction.
->>> 
 
-> **u/dinoseen** [+2] *
+> **u/dinoseen** [+2]  (22 hours later)
 > 
 > Just read all of this, loving it. Would absolutely recommend. When's the next chapter coming out?
-> 
 
->> **u/RedSheepCole** [+4] *
+>> **u/RedSheepCole** [+5]  (a day later)
 >> 
 >> I post updates every Sunday evening, US Central time.  More or less; sometimes I'm a bit early.  Each update being a fifth of a chapter.  I'm told it works better as a binge read.  Thanks for reading.
->> EDIT: Decided to post Chapter 6.1 slightly early.  It's up now.
 >> 
+>> EDIT: Decided to post Chapter 6.1 slightly early.  It's up now.
 
->>> **u/WilyCoyotee** [+1] *
+>>> **u/WilyCoyotee** [+1]  (2 days later)
 >>> 
 >>> Binge read definitely works.
->>> 
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (2 days later)
 >>>> 
 >>>> The other way (waiting a week, reading an update, waiting another week) is somewhat inconvenient just because sometimes characters phase out of Ram's life for an extended period.  The gap between 2.4 (when a certain character is introduced) and 4.1 (her reappearance) was something like a month and a half in real time.  Suspect some readers forgot her in the meantime.
->>>> 
 
->>>>> **u/WilyCoyotee** [+2] *
+>>>>> **u/WilyCoyotee** [+2]  (2 days later)
 >>>>> 
 >>>>> Well, now that I'm all caught up I can definitely say I'm loving this so far. 
->>>>> Can't wait to read more, haha.
 >>>>> 
+>>>>> Can't wait to read more, haha.
 
-> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler**
+> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler* (2 days later)
 > 
 > On my first read, I understand Kindling (once every 10 years period) as the high priest sacrifice himself, ending his life, thus his position is inherited by his son. Would that makes every son of priest must produce a son of their own at 10 years of age? Potential plot hole or did I read it wrong?
-> 
 
->> **u/RedSheepCole** [+3] *
+>> **u/RedSheepCole** [+3]  (2 days later)
 >> 
 >> The sacrifice is every ten years, yes, and the position is hereditary/family based.  I think I will probably change it to "brother or son."  Or "kinsman" in general.  The age would crawl inexorably downwards over time with strict sonship, yes.
->> (in the original draft of the story, kindling intervals were significantly longer)
->> EDIT: Glossary updated to fix--and a number of other concepts added as well.  I think the monster's more than a hundred terms long now.  Anyway, thank you for bringing that to my attention!  I had a vague notion that I should fix that some time ago, but it slipped my mind.
 >> 
+>> (in the original draft of the story, kindling intervals were significantly longer)
+>> 
+>> EDIT: Glossary updated to fix--and a number of other concepts added as well.  I think the monster's more than a hundred terms long now.  Anyway, thank you for bringing that to my attention!  I had a vague notion that I should fix that some time ago, but it slipped my mind.
 
-> **u/Og_kalu** [+2] *
+> **u/Og_kalu** [+2]  (a month later)
 > 
 > Just Finished first chapter. So far so good. Will there be any sort of romance in the series later on ?. I don't necessarily mean as a major subplot or anything. Just if MC will have a love interest.
-> 
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (a month later)
 >> 
 >> This is a coming-of-age-story, Ram is a teenager, and dealing with sexuality is an important part of growing up.  That's about all I can say on the subject at present.
->> 
 
-> **u/meterion** [+1] *
+> **u/meterion** [+1]  (2 days later)
 > 
 > Pretty exciting so far, looking forward to the next update. One thing I'm still kinda confused on and not sure whether it'll be clarified later or I just missed a detail:
-> You have tetrants as 4-day weeks, blooms as years, and kindlings as decades, but there's also a mention of "months" which doesn't have a name or conversion ratio. So should we know yet how many days or tetrants there are in a bloom?
 > 
+> You have tetrants as 4-day weeks, blooms as years, and kindlings as decades, but there's also a mention of "months" which doesn't have a name or conversion ratio. So should we know yet how many days or tetrants there are in a bloom?
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (2 days later)
 >> 
 >> I intend the world to be the same as ours in terms of length of the year, months, etc.  I haven't sat down and worked out the details of their calendar--I imagine they've invented some equivalent of leap year, however imprecise--but their moon acts the same as ours.  So Ram, at the start of the story, is an unusually big and bulky fourteen-year-old (in our years).
->> 
 
-> **u/turtleswamp** [+1] *
+> **u/turtleswamp** [+1]  (6 days later)
 > 
 > I enjoyed it, and the only criticisms I have is that I found the intersection of your show don't tell approach and call a rabbit a smeep with regards to time periods needlessly distracting. It would have been nice to have the duration of a bloom and a kindling spelled out a bit more clearly early on. 
-> &#x200B;
-> As to whether it's rat-fic. Honestly my vote would be "no". The wold-building appears to be there, but the main character has so far taken a "head down, don't make eye contact" approach to any opportunity to engage with the mysteries he's encountered and appears to operate more on common sense than rational methods.
 > 
+> &#x200B;
+> 
+> As to whether it's rat-fic. Honestly my vote would be "no". The wold-building appears to be there, but the main character has so far taken a "head down, don't make eye contact" approach to any opportunity to engage with the mysteries he's encountered and appears to operate more on common sense than rational methods.
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (6 days later)
 >> 
 >> Hey, in this world, keeping your head down is very rational.  But it's certainly not rational*ist* fiction as described in the sidebar.  He's barely literate at this point, so he's not going to know a lot about epistemology.
->> 
 
->>> **u/turtleswamp** [+1] *
+>>> **u/turtleswamp** [+1]  (9 days later)
 >>> 
 >>> No keeping your head down is a good idea. Not all good ideas are arrived at rationally. Ram has shown a distinct lack of curiosity, or willingness to change opinion in light of new information.
->>> The difference between a rational protagonist and a successful protagonist is whether they succeed because of rational thinking, and so far Ram doesn't. 
->>> Now don't get me wrong. I think Ram is well written, his motivations make sense, his lack of rationality makes sense in light of his position in society, and his reliance on common sense makes sense as it's until very recently worked well for him. Additionally given where the story is right now it's entirely possible that he's about to change, and post character development Ram might be more rational. But, there's noting in his past actions or thoughts to suggest he will become rational (he might just trade "what would father think" for some form of black band club rules).
->>> But based on his actions and what we've seen of his thinking so far, he's not currently a rational protagonist, and the story is centered on him to a degree that I'd argue that makes it not rational fiction.
 >>> 
+>>> The difference between a rational protagonist and a successful protagonist is whether they succeed because of rational thinking, and so far Ram doesn't. 
+>>> 
+>>> Now don't get me wrong. I think Ram is well written, his motivations make sense, his lack of rationality makes sense in light of his position in society, and his reliance on common sense makes sense as it's until very recently worked well for him. Additionally given where the story is right now it's entirely possible that he's about to change, and post character development Ram might be more rational. But, there's noting in his past actions or thoughts to suggest he will become rational (he might just trade "what would father think" for some form of black band club rules).
+>>> 
+>>> But based on his actions and what we've seen of his thinking so far, he's not currently a rational protagonist, and the story is centered on him to a degree that I'd argue that makes it not rational fiction.
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (9 days later)
 >>>> 
 >>>> Fair enough.  Glad you're enjoying it, either way.
->>>> EDIT: I take it Worm doesn't count, then?  Taylor is an excellent tactician, but makes appallingly senseless life choices.  Not trying to start an argument, only trying to suss out the boundaries as you see them.
 >>>> 
+>>>> EDIT: I take it Worm doesn't count, then?  Taylor is an excellent tactician, but makes appallingly senseless life choices.  Not trying to start an argument, only trying to suss out the boundaries as you see them.
 
-> **u/RedSheepCole** [+1] *
+> **u/RedSheepCole** [+1]  (8 days later)
 > 
 > I've posted 6.2 now.  Since I consistently update every Sunday, and the rules specify sharing your own stuff once a week at most, I think I'll only do new promo posts every other update or so.  Sound good?
-> 
 
->> **u/thehobbler** [+1] *
+>> **u/thehobbler** [+1]  (13 days later)
 >> 
 >> If you release once a week there shouldn't be any issue with you making a post for each chapter, no? I imagine it would also promote discussion.
->> 
 
->>> **u/RedSheepCole** [+1] *
+>>> **u/RedSheepCole** [+1]  (13 days later)
 >>> 
 >>> I was given pause by the "at most" part.  I don't want to be a pest.  Still, I didn't post an update for this last week's update, somebody posted it for me, and the sky didn't fall, so why not.  We'll see how it goes, and you'll let me know if I'm over-saturating.
->>> 
 
->>>> **u/thehobbler** [+2] *
+>>>> **u/thehobbler** [+2]  (13 days later)
 >>>> 
 >>>> Well if other people are passionate enough to post then you've got nothing to worry about. I'm just willing to bet you can beat any of your readers to the punch.
->>>> 
 
->>>>> **u/RedSheepCole** [+1] *
+>>>>> **u/RedSheepCole** [+1]  (13 days later)
 >>>>> 
 >>>>> Should I take the seventy-something upvote rate on the fan post of 6.2 as a commentary on the quality of 6.2 itself, or just on the post notifying everyone?  That was another bit that gave me pause.  I just joined Reddit and don't get the subtext, if there is one.
->>>>> 
 
->>>>>> **u/thehobbler** [+2] *
+>>>>>> **u/thehobbler** [+2]  (13 days later)
 >>>>>> 
 >>>>>> I am afraid I can't help you on that point. It can be anything from interest in the chapter, to an interest in promoting new rational fiction, or something else entirely. I don't bother with understanding Reddit subtext; I don't spend too much time on the site.
->>>>>> 
 
->>>> **u/TOMDM** [+2] *
+>>>> **u/TOMDM** [+2]  (14 days later)
 >>>> 
 >>>> Was planning on posting 6-3 when you update, I'll probably continue to do so until either the upvote ratio drops off, the story stops updating, or someone starts beating me to it. 
->>>> So you can rest easy on that front \^^
->>>> Really enjoying it so far, speculation: >!biggest question I have so far is what drew the Ensi (and through him the Damadzus) to Ram in the first place. Current guess is indwelt prophecy of some description.!<
->>>> Looking forward to finding out!
 >>>> 
+>>>> So you can rest easy on that front \^^
+>>>> 
+>>>> Really enjoying it so far, speculation: >!biggest question I have so far is what drew the Ensi (and through him the Damadzus) to Ram in the first place. Current guess is indwelt prophecy of some description.!<
+>>>> 
+>>>> Looking forward to finding out!
 
->>>>> **u/RedSheepCole** [+1] *
+>>>>> **u/RedSheepCole** [+1]  (14 days later)
 >>>>> 
 >>>>> Well, that saves me adding another step to my chain of stuff to do when I update (edit previous update to include "next" link, edit TOC, replace link in top bar, etc.), so thank you!
->>>>> 
 
 ---
 

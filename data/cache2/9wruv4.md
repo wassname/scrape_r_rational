@@ -2,7 +2,7 @@
 
 * Author: u/VivatMusa *
 * URL: https://www.reddit.com/r/rational/comments/9wruv4/rational_pokemon_fanfic_about_research/
-* Score: 6
+* Score: 8
 
 * Created: 2018-11-13T18:50:44
 
@@ -22,78 +22,73 @@ Please save me from starting another long, lengthy writing project when I alread
 
 ### Comments:
 
-> **u/Kachajal** [+14] *
+> **u/Kachajal** [+13]  (a day later)
 > 
 > Have you read [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/61/Pokemon-The-Origin-of-Species)? 
-> I'm very behind on it, but it miiiight scratch that itch you describe?
 > 
+> I'm very behind on it, but it miiiight scratch that itch you describe?
 
->> **u/Hidden-50** [+7] *
+>> **u/Hidden-50** [+7]  (a day later)
 >> 
 >> OoS is definitely the go-to in terms of rational Pokémon.
->> Red's background is that he's been working at a research lab before the journey begins. While there are some research scenes involving him and other characters, the fic is mostly about teaching rational thinking within the "three friends travel the world" setting of Pokémon.
->> I'd recommend reading it. Without spoiling too much, you might especially enjoy the more recent chapters if you liked worm.
 >> 
+>> Red's background is that he's been working at a research lab before the journey begins. While there are some research scenes involving him and other characters, the fic is mostly about teaching rational thinking within the "three friends travel the world" setting of Pokémon.
+>> 
+>> I'd recommend reading it. Without spoiling too much, you might especially enjoy the more recent chapters if you liked worm.
 
->>> **u/VivatMusa** [+2] *
+>>> **u/VivatMusa** [+2]  (a day later)
 >>> 
 >>> I have been enjoying it a lot, and loved seeing how the writing has progressed over time. I'm looking for fics that focus more on just the Pokemon aspects, but don't worry, I'm still a fan of OoS. Thanks for the reply!
->>> 
 
->> **u/VivatMusa** [+5] *
+>> **u/VivatMusa** [+5]  (a day later)
 >> 
 >> Thanks for the reply! OoS is great! I'm on Ch. 60 now. I love the author's worldbuilding of the Pokemon universe, and there's some great information about Pokemon themselves, especially in the earlier chapters, but later on I felt that some of the focus on Pokemon shifted to other matters. Not at all a bad thing, and I enjoy the building narrative, but it doesn't quite satisfy my itch for learning more about Pokemon, the species.
->> 
 
->>> **u/MinisterofOwls** [+4] *
+>>> **u/MinisterofOwls** [+3]  (8 days later)
 >>> 
 >>> I too feel that the writer doesn't really want to a pokefic anymore as opposed to general sci-fi with pets. There's a lot more focus on the psychic powers, clones, stock market, research grants, politics, legal system, natural disasters, social media, journalism, real world maths etc as opposed to the actual Pokemon, which just get pulled out for the odd action scene.
->>> 
 
->>>> **u/VivatMusa** [+1] *
+>>>> **u/VivatMusa** [+1]  (8 days later)
 >>>> 
 >>>> Yes, it makes for a very interesting world, but not the best for strict Pokemon research. Still a great fic, though. Thanks for your thoughts!
->>>> 
 
-> **u/blackjackgabbiani** [+2] *
+> **u/blackjackgabbiani** [+2]  (8 days later)
 > 
 > I would say "write your own as well" but remembered I'm in the same boat. I'm also trying to apply logic to the Pokemon world in a fic and that means I have to at least be able to bullshit how the ship in the second movie functions. Yike.
-> 
 
->> **u/VivatMusa** [+2] *
+>> **u/VivatMusa** [+2]  (8 days later)
 >> 
 >> Ha, exactly. I'd want to write about Pokemon biology...but I'm far from a biologist myself. But then again, you could always AskReddit, or some friends who might know enough to help you get started on the detail-oriented parts. Thanks for your reply!
->> 
 
->>> **u/blackjackgabbiani** [+1] *
+>>> **u/blackjackgabbiani** [+1]  (9 days later)
 >>> 
 >>> I've watched so many documentaries on large ships and construction and science fiction into science fact, and absolutely nothing comes close to the frankly flagrantly impossible airship there. It's really funny. And that would be relatively minor details in the story too, yet it takes so much study to just accurately bullshit them!
->>> Good luck with your study as well! There's scientificpokedex on tumblr...if they're still there after the goddamn purge (my account got zapped despite me running mostly Pokémon blogs so I can't check, so I hope you can!).
 >>> 
+>>> Good luck with your study as well! There's scientificpokedex on tumblr...if they're still there after the goddamn purge (my account got zapped despite me running mostly Pokémon blogs so I can't check, so I hope you can!).
 
->>>> **u/VivatMusa** [+2] *
+>>>> **u/VivatMusa** [+2]  (9 days later)
 >>>> 
 >>>> Yikes, that does sound like a daunting task! The one benefit, though, is that you don't need to explain all the nitty-gritty details to your readers. While it's interesting and certainly helps, I think if you write the information so it holds some validity so it's at least believable, then the rest is just how much effort you want to put into it. I wish you luck!
->>>> And thanks so much for recommending that tumblr page! It's really, really interesting, and makes the idea of writing some Pokemon fanfic about research far more plausible.
 >>>> 
+>>>> And thanks so much for recommending that tumblr page! It's really, really interesting, and makes the idea of writing some Pokemon fanfic about research far more plausible.
 
->>>>> **u/blackjackgabbiani** [+1] *
+>>>>> **u/blackjackgabbiani** [+1]  (9 days later)
 >>>>> 
 >>>>> Yeah, stuff that's overly technical just makes me lose interest immediately but sprinkling details in is something you gotta do sometimes.
->>>>> 
 
-> **u/CopperZirconium** [+1] *
+> **u/CopperZirconium** [+1]  (a day later)
 > 
 > [Pokémon: The Origin of Species](https://m.fanfiction.net/s/9794740/1/) is exactly what you are looking for. 
-> Like the other comments have mentioned, it’s mostly an adventure story following our protagonists on their Pokémon journey with an emphasis on teaching the reader rationality. But included is Red’s goal is to become a Pokémon professor, and so we get to see him investigate Pokémon and even publish a paper. There is also new research that we see in the background that Red isn’t directly involved with. 
-> But all of that has been interrupted in the past few chapters because THINGS JUST GOT SERIOUS!
-> Seriously, go read it. The world feels very well built and consistent in the way it allows pre-teens to adventure without adult supervision while still addressing all the implications of having incredibly dangerous wild animals that can shoot lasers.
 > 
+> Like the other comments have mentioned, it’s mostly an adventure story following our protagonists on their Pokémon journey with an emphasis on teaching the reader rationality. But included is Red’s goal is to become a Pokémon professor, and so we get to see him investigate Pokémon and even publish a paper. There is also new research that we see in the background that Red isn’t directly involved with. 
+> 
+> But all of that has been interrupted in the past few chapters because THINGS JUST GOT SERIOUS!
+> 
+> Seriously, go read it. The world feels very well built and consistent in the way it allows pre-teens to adventure without adult supervision while still addressing all the implications of having incredibly dangerous wild animals that can shoot lasers.
 
->> **u/VivatMusa** [+1] *
+>> **u/VivatMusa** [+1]  (a day later)
 >> 
 >> Yes, I'm on chapter 60 so far. It's great!
->> 
 
 ---
 

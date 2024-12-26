@@ -2,7 +2,7 @@
 
 * Author: u/Zephyr1011  *Potentially Unfriendly Aspiring Divinity**
 * URL: https://www.fanfiction.net/s/10636246/13/Following-the-Phoenix
-* Score: 13
+* Score: 14
 
 * Created: 2014-10-04T17:24:21
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (11 hours later)
 > 
 > Great finish on that chapter!
-> 
 
 ---
 

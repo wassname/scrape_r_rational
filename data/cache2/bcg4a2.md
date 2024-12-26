@@ -12,38 +12,35 @@
 
 ### Comments:
 
-> **u/crusher_bob** [+3] *
+> **u/crusher_bob** [+3]  (11 hours later)
 > 
 > I thought the zombie problem was supposed to be a pretty long running thing, but if they self upgrade this fast, why haven't the defenders seen some of the serious upgrades before now?
-> 
 
->> **u/Nic_Cage_DM** [+4] *
+>> **u/Nic_Cage_DM** [+3]  (15 hours later)
 >> 
 >> This is the first time theyve gone on the offensive, isnt it?
->> 
 
->> **u/TwoxMachina** [+2] *
+>> **u/TwoxMachina** [+2]  (19 hours later)
 >> 
 >> I think it's not self upgrade, but rather that dormant zombies getting buried will metamorphose into those worms.
->> Maybe deeper in zombiezone, there will be the Butterfree version of the zombies.
 >> 
+>> Maybe deeper in zombiezone, there will be the Butterfree version of the zombies.
 
->>> **u/Rice_22** [+3] *
+>>> **u/Rice_22** [+3]  (a day later)
 >>> 
 >>> Considering the two precursor civilisations which are far in advance of even Minmay's tech level both ultimately lost to these zombies, it's almost guaranteed the zombies have far more tricks up their sleeves.
->>> 
 
->>>> **u/BaggyOz** [+2] *
+>>>> **u/BaggyOz** [+2]  (3 days later)
 >>>> 
 >>>> Didn't they lose to dust/magic nanites?
->>>> 
 
->>>>> **u/Rice_22** [+1] *
+>>>>> **u/Rice_22** [+1]  (3 days later)
 >>>>> 
 >>>>> I might have remembered wrong but I thought that was the zombies.
->>>>> Edit: I was wrong, zombies only started appearing 2 generations ago from the present date, long after the First and Tsar.
->>>>> https://www.fictionpress.com/s/3238329/113/A-Hero-s-War
 >>>>> 
+>>>>> Edit: I was wrong, zombies only started appearing 2 generations ago from the present date, long after the First and Tsar.
+>>>>> 
+>>>>> https://www.fictionpress.com/s/3238329/113/A-Hero-s-War
 
 ---
 

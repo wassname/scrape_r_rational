@@ -2,7 +2,7 @@
 
 * Author: u/TK523 *
 * URL: https://www.reddit.com/r/rational/comments/lptw35/rthfwip_dear_spellbook/
-* Score: 20
+* Score: 22
 
 * Created: 2021-02-22T17:13:29
 
@@ -28,45 +28,37 @@ Royal Road Summary:
 
 ### Comments:
 
-> **u/th30dor** [+5] *
+> **u/th30dor** [+6]  (58 minutes later)
 > 
 > Rational and D&D? Count me in.
-> 
 
->> **u/fish312** [+1]  *humanifest destiny**
+>> **u/fish312** [+1]  *humanifest destiny* (8 days later)
 >> 
 >> I still weep for Hp and the Natural 20, it was going so good before u/sirpoley abandoned it
->> 
 
-> **u/allansaltomancy** [+5] *
+> **u/allansaltomancy** [+5]  (8 hours later)
 > 
 > Entry 14: Riloth 19th the 9th is missing....? Unless that’s the intention?
-> 
 
->> **u/TK523** [+2] *
+>> **u/TK523** [+2]  (8 hours later)
 >> 
 >> NOPE that's a mistake. Thanks! I will fix that now and post a notice somewhere.
->> 
 
->> **u/TK523** [+1] *
+>> **u/TK523** [+1]  (8 hours later)
 >> 
 >> It's up now, again thanks!
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (8 hours later)
 >>> 
 >>> [removed]
->>> 
 
-> **u/CorneliusPhi** [+1] *
+> **u/CorneliusPhi** [+1]  (7 hours later)
 > 
 > Reading now.  Thanks for giving me something to do while quarantining after a flight :)
-> 
 
-> **u/CorneliusPhi** [+1] *
+> **u/CorneliusPhi** [+1]  (a day later)
 > 
 > I like the changes away from D&D
-> 
 
 ---
 

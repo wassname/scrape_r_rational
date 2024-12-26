@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/ulyssessword** [+1] *
+> **u/ulyssessword** [+1]  (59 minutes later)
 > 
 > This sub is trying to stay focused explicitly on fiction, so it's not quite the right place for posts like this.  
-> However, there is a "General Rationality Mondays" thread that should get posted tomorrow, and this looks like it should fit there (or maybe the Friday Off-Topic Thread.)
 > 
+> However, there is a "General Rationality Mondays" thread that should get posted tomorrow, and this looks like it should fit there (or maybe the Friday Off-Topic Thread.)
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (an hour later)
 >> 
 >> Thanks! I'll post it tomorrow, but I'll leave it until then I hope you don't mind. :)
->> 
 
 ---
 

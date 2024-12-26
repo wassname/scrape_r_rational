@@ -2,7 +2,7 @@
 
 * Author: u/thrawnca  *Carbon-based biped**
 * URL: https://www.reddit.com/r/rational/comments/nnaamj/a_heros_war_tvtropes_page/
-* Score: 17
+* Score: 15
 
 * Created: 2021-05-28T23:16:33
 
@@ -16,35 +16,29 @@ All contributions and feedback welcome!
 
 ### Comments:
 
-> **u/Pel-Mel** [+2]  *Adept**
+> **u/Pel-Mel** [+2]  *Adept* (51 minutes later)
 > 
 > Based. Really hope Jseah gets more attention.
-> 
 
-> **u/AmarakSpider** [+2] *
+> **u/AmarakSpider** [+2]  (a day later)
 > 
 > Not all heroes wear cape
-> 
 
-> **u/thrawnca** [+1]  *Carbon-based biped**
+> **u/thrawnca** [+1]  *Carbon-based biped* (a month later)
 > 
 > There's also a [recap page](https://tvtropes.org/pmwiki/pmwiki.php/Recap/AHerosWar) now, for those who want a plot summary.
-> 
 
-> **u/luminarium** [+1] *
+> **u/luminarium** [+1]  (19 hours later)
 > 
 > ooh, nice! One of my faves, pity the author stopped posting several years back.
-> 
 
->> **u/thrawnca** [+5]  *Carbon-based biped**
+>> **u/thrawnca** [+7]  *Carbon-based biped* (19 hours later)
 >> 
 >> ... It was updated in March.
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (20 hours later)
 >>> 
 >>> I think they just meant there were no posts to the subreddit.
->>> 
 
 ---
 

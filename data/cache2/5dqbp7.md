@@ -12,77 +12,95 @@
 
 ### Comments:
 
-> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+5]  *Potentially Unfriendly Aspiring Divinity* (11 hours later)
 > 
 > ...She can generate enough electrical power for hundreds of thousands of people?
-> Well, that raises my estimation of her threat levels by several orders of magnitude. I'd left her introductory chapter with the impression that she had a fairly low level of output, given scales involved in the potato example
 > 
+> Well, that raises my estimation of her threat levels by several orders of magnitude. I'd left her introductory chapter with the impression that she had a fairly low level of output, given scales involved in the potato example
 
->> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (23 hours later)
 >> 
 >> > ...She can generate enough electrical power for hundreds of thousands of people?
+>> 
 >> My current problem is figuring out how long it would take to build a series of successively better machines for performing these tests. At this point I've resigned myself to making some good guesses and finding out that one of my readers is an electrical engineer whose suspension of disbelief is going to crack any day now. 
->> > I'd left her introductory chapter with the impression that she had a fairly low level of output, given scales involved in the potato example
->> She doesn't know her upper limit, but she has a very fine control over her output. 
->> Have an [unexpectedly dangerous cookie](http://vpnexpress.net/wp-content/uploads/2014/01/Dangerous-Supercookies.jpg).
 >> 
+>> > I'd left her introductory chapter with the impression that she had a fairly low level of output, given scales involved in the potato example
+>> 
+>> She doesn't know her upper limit, but she has a very fine control over her output. 
+>> 
+>> Have an [unexpectedly dangerous cookie](http://vpnexpress.net/wp-content/uploads/2014/01/Dangerous-Supercookies.jpg).
 
->> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (a day later)
 >> 
 >> > ...She can generate enough electrical power for hundreds of thousands of people?
->> [she doesn’t exactly want to weaponize herself either, but it happens to be the case that she can be weaponized...](http://static6.comicvine.com/uploads/scale_super/14/140206/3080873-7100729833-13657.jpg)
 >> 
+>> [she doesn’t exactly want to weaponize herself either, but it happens to be the case that she can be weaponized...](http://static6.comicvine.com/uploads/scale_super/14/140206/3080873-7100729833-13657.jpg)
 
-> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (5 minutes later)
 > 
 > _squee_
-> 
 
->> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (23 minutes later)
 >> 
 >> ...
->> Well, I guess I did **something** right in this chapter. >:]
 >> 
+>> Well, I guess I did **something** right in this chapter. >:]
 
-> **u/semiurge** [+3] *
+> **u/semiurge** [+3]  (10 hours later)
 > 
 > Likelihood of Bananya setting off an EMP and starting a nuclear war with Pakistan: >90%.
-> 
 
->> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (21 hours later)
 >> 
 >> > Bananya 
->> That's a great name. Have some [nuclear war cookies](https://s-media-cache-ak0.pinimg.com/236x/2e/df/c0/2edfc042a84f488ddb80202c79a9e5f4.jpg).
 >> 
+>> That's a great name. Have some [nuclear war cookies](https://s-media-cache-ak0.pinimg.com/236x/2e/df/c0/2edfc042a84f488ddb80202c79a9e5f4.jpg).
 
-> **u/Bowbreaker** [+1]  *Solitary Locust**
+> **u/Bowbreaker** [+1]  *Solitary Locust* (17 days later)
 > 
 > I have two criticisms and X questions:
-> * In India the Prime Minister is the country's leader in practice. You would expect him to be involved The President does in theory hold a lot of power as well but that's due to presidents never having exercised their over to the extend that someone challenged them in court. Or so says quick googling. In any case, it is the Prime Minister and his party who decide the policy of the executive. In fact the cabinet is not even legally obliged to heed the President's advice. The President's job outside of emergencies doesn't go beyond putting his stamp of approval on it and making sure everything continues to be constitutional.
-> * The chapter felt even shorter than other chapters. Nothing really happened, be it plot or conversation, and the only things we learned is that her power limit is so high as to not yet have been determined and that she has a dislike for being irrelevant and a small tendency towards megalomania.
-> * Is all of the text supposed to be Ananya's thoughts/state of mind? Because otherwise the last line seems really weird.
-> * Was she asked if she is okay with not attending school anymore? What about having some other form of education just so she doesn't remain, well, uneducated? It could matter for someone who essentially has the power to partially lay low the power grid.
-> * How confidentially is India handling her existence? At the very least a bunch of scientists and engineers seem to know all about her now. Are her powers even secret?
-> Keep up the good work. This may not be one of my favorite chapters but the story overall is pretty good till now.
 > 
+> * In India the Prime Minister is the country's leader in practice. You would expect him to be involved The President does in theory hold a lot of power as well but that's due to presidents never having exercised their over to the extend that someone challenged them in court. Or so says quick googling. In any case, it is the Prime Minister and his party who decide the policy of the executive. In fact the cabinet is not even legally obliged to heed the President's advice. The President's job outside of emergencies doesn't go beyond putting his stamp of approval on it and making sure everything continues to be constitutional.
+> 
+> * The chapter felt even shorter than other chapters. Nothing really happened, be it plot or conversation, and the only things we learned is that her power limit is so high as to not yet have been determined and that she has a dislike for being irrelevant and a small tendency towards megalomania.
+> 
+> * Is all of the text supposed to be Ananya's thoughts/state of mind? Because otherwise the last line seems really weird.
+> 
+> * Was she asked if she is okay with not attending school anymore? What about having some other form of education just so she doesn't remain, well, uneducated? It could matter for someone who essentially has the power to partially lay low the power grid.
+> 
+> * How confidentially is India handling her existence? At the very least a bunch of scientists and engineers seem to know all about her now. Are her powers even secret?
+> 
+> Keep up the good work. This may not be one of my favorite chapters but the story overall is pretty good till now.
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (17 days later)
 >> 
 >> > In India the Prime Minister is the country's leader in practice. You would expect him to be involved 
->> Oh whoops! I should have known that, too. >.> 
->> I'm, um, going to fix that in a few minutes. 
->> > The chapter felt even shorter than other chapters.
->> I hear ya. This chapter seems to have run the gamut from your opinion to "I loved it," with myself being on the more hesitant side. 
->> > Is all of the text supposed to be Ananya's thoughts/state of mind? Because otherwise the last line seems really weird.
->> The text is at least generally supposed to be the POV character's thoughts/state of mind (there's some editorializing, and obviously it's not as stream-of-consciousness as it could be). 
->> > Was she asked if she is okay with not attending school anymore? What about having some other form of education just so she doesn't remain, well, uneducated?
->> Her feelings about school are a mixed bag. On the one hand, it's nice that she can pursue things on her own time, because it's more enjoyable and effective for her to learn that way. On the other hand, it's also, as the chapter points out, a reminder of how she's different from everyone else. She didn't think about that at first, though. 
->> I imagine that Ananya is studying on her own time, and not just going without an education. 
->> > How confidentially is India handling her existence? At the very least a bunch of scientists and engineers seem to know all about her now. Are her powers even secret?
->> Ananya is being treated like a black ops project, basically. You can bring in engineers and such to deal with those, but security clearance has to be granted, etc. 
->> > Keep up the good work. This may not be one of my favorite chapters but the story overall is pretty good till now.
->> Thank you! It really means a lot to get such fleshed-out reviews as you've been giving.
 >> 
+>> Oh whoops! I should have known that, too. >.> 
+>> 
+>> I'm, um, going to fix that in a few minutes. 
+>> 
+>> > The chapter felt even shorter than other chapters.
+>> 
+>> I hear ya. This chapter seems to have run the gamut from your opinion to "I loved it," with myself being on the more hesitant side. 
+>> 
+>> > Is all of the text supposed to be Ananya's thoughts/state of mind? Because otherwise the last line seems really weird.
+>> 
+>> The text is at least generally supposed to be the POV character's thoughts/state of mind (there's some editorializing, and obviously it's not as stream-of-consciousness as it could be). 
+>> 
+>> > Was she asked if she is okay with not attending school anymore? What about having some other form of education just so she doesn't remain, well, uneducated?
+>> 
+>> Her feelings about school are a mixed bag. On the one hand, it's nice that she can pursue things on her own time, because it's more enjoyable and effective for her to learn that way. On the other hand, it's also, as the chapter points out, a reminder of how she's different from everyone else. She didn't think about that at first, though. 
+>> 
+>> I imagine that Ananya is studying on her own time, and not just going without an education. 
+>> 
+>> > How confidentially is India handling her existence? At the very least a bunch of scientists and engineers seem to know all about her now. Are her powers even secret?
+>> 
+>> Ananya is being treated like a black ops project, basically. You can bring in engineers and such to deal with those, but security clearance has to be granted, etc. 
+>> 
+>> > Keep up the good work. This may not be one of my favorite chapters but the story overall is pretty good till now.
+>> 
+>> Thank you! It really means a lot to get such fleshed-out reviews as you've been giving.
 
 ---
 

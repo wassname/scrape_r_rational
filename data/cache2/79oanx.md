@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/79oanx/d_monday_general_rationality_thread/
-* Score: 12
+* Score: 14
 
 * Created: 2017-10-30T15:06:32
 
@@ -20,34 +20,36 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/orthernLight** [+5] *
+> **u/orthernLight** [+3]  (22 minutes later)
 > 
 > Is it acceptable to cross-post on threads like this? I’ve recently been wanting to post the same thing here and on LessWrong and perhaps in a few other places, since all of these communities are small enough that I don’t always expect to get much response, and while there’s a lot of overlap, it’s far from complete. 
-> Also, actually writing up what I want to say sometimes presents a large barrier; if I re-use what is for me the hardest part, namely starting a conversation, I’d be more likely to start actively participating.
 > 
+> Also, actually writing up what I want to say sometimes presents a large barrier; if I re-use what is for me the hardest part, namely starting a conversation, I’d be more likely to start actively participating.
 
->> **u/gbear605** [+3]  *history’s greatest story**
+>> **u/gbear605** [+3]  *history’s greatest story* (2 hours later)
 >> 
 >> Cross-posting is (IMO) definitely okay. We don't exactly get a ton of traffic on these threads.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (4 hours later)
 >> 
 >> Go ahead.
->> 
 
-> **u/NinjaStoleMyPass** [+2] *
+> **u/NinjaStoleMyPass** [+2]  (4 hours later)
 > 
 > 1) Someone approaches you on a street, explains their [predicament] and asks you to give them $5 for 24 hours. They are even ready to leave their passport\smartphone with you for that time period if that’s what’s gonna convince you that they’re actually truthful about returning the money. 
-> In what ways can this random encounter end up being a scam?
-> 2) How to fight and fix the skewed perception of social interactions that has developed from years of childhood bullying and having to constantly stay on guard? It’s almost like a type of paranoia: I judge all my social interactions in the context of whether or not people were actually having a laugh at my expense, see ridicule where there probably wan’t any, see aggressive and derisive facial expressions where there’s probably only neutrality and maybe even some invitations to future friendly relations. 
-> And how to be able to accurately distinguish between such false positives and actual hostile intentions from others?
-> 3) How to control my body and make it behave the way I want it to? When placed in an environment that I’m not used to, or with people that I’m not comfortable with, I start behaving differently without being able to force myself to relax. This applies to both my body language and my facial expressions. I almost become another person and I don’t like the person that I become. Even my smile turns into something [from that Terminator 2 scene.](https://www.youtube.com/watch?v=mJEKlsFKtUM)
 > 
+> In what ways can this random encounter end up being a scam?
+> 
+> 2) How to fight and fix the skewed perception of social interactions that has developed from years of childhood bullying and having to constantly stay on guard? It’s almost like a type of paranoia: I judge all my social interactions in the context of whether or not people were actually having a laugh at my expense, see ridicule where there probably wan’t any, see aggressive and derisive facial expressions where there’s probably only neutrality and maybe even some invitations to future friendly relations. 
+> 
+> And how to be able to accurately distinguish between such false positives and actual hostile intentions from others?
+> 
+> 3) How to control my body and make it behave the way I want it to? When placed in an environment that I’m not used to, or with people that I’m not comfortable with, I start behaving differently without being able to force myself to relax. This applies to both my body language and my facial expressions. I almost become another person and I don’t like the person that I become. Even my smile turns into something [from that Terminator 2 scene.](https://www.youtube.com/watch?v=mJEKlsFKtUM)
 
->> **u/ShiranaiWakaranai** [+4] *
+>> **u/ShiranaiWakaranai** [+5]  (18 hours later)
 >> 
 >> 1) All kinds of ways. 
+>> 
 >>  * As /u/CopperZirconium pointed out, their passport/smartphone could be criminal evidence. Evidence that you now have your fingerprints on.
 >>  * When you return their passport/smartphone, you may leave fingerprints on them. Fingerprints which they can replicate and plant on crime scenes to frame you for crimes that they commit. Similar methods may also be used if you leave behind pieces of DNA like skin and hair.
 >>  * Their smartphone could be used to track your location. As long as you are holding on to it, the scammer can track you wherever you go. Even if you turn off the smartphone, you can't be sure that they haven't opened up the smartphone itself and put a tracking device inside it. 
@@ -60,63 +62,55 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 >>  * Have you considered counterfeit/stolen money? And I'm not just referring to them returning a fake/stolen $5 bill to you. In many countries, money has IDs. IDs that the police may use to track down bits of money, who owned them, who they gave them to, etc. etc., for all kinds of money-related crimes. When you give them your money, you are also giving them IDs that they could potentially use to mislead criminal investigations onto you.
 >>  * Ever heard of remote bomb detonation? Bombs can be made such that they explode upon receiving certain wireless signals. Wireless signals, such as those you can make using a smartphone call. If say, they ask you to call them later, or their phone is somehow rigged to automatically call some number later, it could effectively become the detonator for a bomb. Whose detonation signal came from you. Potentially causing the police and counter terrorism forces to crack down on you instead of the true culprits.
 >>  * What about biological weapons? If any evil terrorist organization wants to design and spread a deadly non-airborne virus, they would need agents of the organization to go around physically contacting lots of people to spread the virus. Getting physical contact via ways such as, say, walking around city streets, talking to random strangers, and asking to borrow a small amount of money...
->> 
 
->>> **u/ben_oni** [+6] *
+>>> **u/ben_oni** [+6]  (a day later)
 >>> 
 >>> All of a sudden, I don't want to interact with anyone I don't already know...
->>> 
 
->>>> **u/vakusdrake** [+4] *
+>>>> **u/vakusdrake** [+3]  (a day later)
 >>>> 
 >>>> _What makes you so sure you can trust the people you **do** already know?_
->>>> 
 
->>>>> **u/ben_oni** [+7] *
+>>>>> **u/ben_oni** [+6]  (a day later)
 >>>>> 
 >>>>> * I have taken DNA samples.
 >>>>> * I have blackmail material on each of them. Secured online with a deadman's switch.
 >>>>> * I owe them a great deal of money. If anything happens to me, they won't be repaid.
 >>>>> * I bribe them regularly with candy.
->>>>> 
 
->>>>>> **u/thekevjames** [+1] *
+>>>>>> **u/thekevjames** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Huh, I'm only at two out of four on that list. Clearly I need to step up my game...
->>>>>> 
 
->> **u/CopperZirconium** [+3] *
+>> **u/CopperZirconium** [+3]  (5 hours later)
 >> 
 >> 1) Scam would actually be for you to hold on to passport/smartphone when said passport/smartphone is criminal evidence or would otherwise get you in trouble. 
->> 2) and 3) During high school I made a huge effort to change my resting face from kind-of-bitchy to a smile. I felt like I was happier and more friendly and people around me were more friendly to me. Anecdotal evidence, but maybe changing your defaults might help you even in stressful situations.
 >> 
+>> 2) and 3) During high school I made a huge effort to change my resting face from kind-of-bitchy to a smile. I felt like I was happier and more friendly and people around me were more friendly to me. Anecdotal evidence, but maybe changing your defaults might help you even in stressful situations.
 
->>> **u/Timewinders** [+1] *
+>>> **u/Timewinders** [+1]  (3 days later)
 >>> 
 >>> Who would actually ask to hold onto the phone and passport though? If they made the offer in the first place I'd assume they were probably being honest and just give them $5.
->>> 
 
->> **u/ngocnv371** [+2]  *Chaos Legion**
+>> **u/ngocnv371** [+2]  *Chaos Legion* (17 hours later)
 >> 
 >> 3) In non-serious environment (party and stuff) you could try 'roleplay'. Select a role to play before you get there or just pick one randomly and stick to it to the end. I usually picked the 'that guy who asked a lot of questions' or 'secret detective trying to guess other's ocupation'. Doesn't matter if it sound silly to other people, they barely know you as a person.
->> 
 
->> **u/entropizer** [+2] *
+>> **u/entropizer** [+2]  (a day later)
 >> 
 >> 3) Reading The Charisma Myth helped me some with this.
->> 
 
-> **u/silxx** [+1] *
+> **u/silxx** [+1]  (2 days later)
 > 
 > You've been tricked by someone. (Excuse the sort of vague nature of this question; I'm doing research for some fiction.) This left you in a situation which was embarrassing but not actually harmful. You're angry, and you want to know why they did it. How do you persuade them to tell you why?
-> You don't have any leverage over them -- you know them vaguely, but not very well. Importantly for this question, you're you, yourself, not in a fictional world. So your answer can be "I'd get a gun and shoot them in the kneecaps" or "I'd offer them $10,000 to tell me" or "I'd chain them to a wall and punch them until they confessed" if you actually have access to a gun or ten grand and you'd actually be prepared to do that in real life. (I wouldn't personally do the gun or chains one, and I don't have access to either guns or big money anyway.) You can't magically create persuasive arguments. Assume they have no big reason to want to tell you why they did it, and probably they do not want to tell you because you're already angry and their reason might make you angrier.
 > 
+> You don't have any leverage over them -- you know them vaguely, but not very well. Importantly for this question, you're you, yourself, not in a fictional world. So your answer can be "I'd get a gun and shoot them in the kneecaps" or "I'd offer them $10,000 to tell me" or "I'd chain them to a wall and punch them until they confessed" if you actually have access to a gun or ten grand and you'd actually be prepared to do that in real life. (I wouldn't personally do the gun or chains one, and I don't have access to either guns or big money anyway.) You can't magically create persuasive arguments. Assume they have no big reason to want to tell you why they did it, and probably they do not want to tell you because you're already angry and their reason might make you angrier.
 
->> **u/ShiranaiWakaranai** [+1] *
+>> **u/ShiranaiWakaranai** [+1]  (2 days later)
 >> 
 >> Threaten to sue them for defamation/slander/mental assault/etc. unless they explain themselves? It kinda depends on what you mean by "embarrassing but not actually harmful". Even if it doesn't harm you physically, it could still hurt you in all kinds of mental/emotional/sociological ways. I mean, the mere act of being tricked is already a form of harm, it could very well lead to you developing various trust issues and set you on the path to being a jaded cynic, who then has trouble getting married since your can't trust your spouse, has trouble getting jobs since you can't trust your employer, has trouble with family since you can't trust them, has trouble interacting with anyone since you can't trust them, and eventually you die old and bitter, alone and broken. 
->> Trickery is bad.
 >> 
+>> Trickery is bad.
 
 ---
 

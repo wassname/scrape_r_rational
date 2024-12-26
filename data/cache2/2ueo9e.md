@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/None** [-1] *
+> **u/None** [-1]  (7 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/kaukamieli** [+19] *
+>> **u/kaukamieli** [+17]  (5 hours later)
 >> 
 >> Disappointment. "Waaaaait, I've already read this one!"
->> 
 
->>> **u/Sceptically** [+2] *
+>>> **u/Sceptically** [+2]  (7 hours later)
 >>> 
 >>> Over a week ago, presumably - it was last posted here about eight days ago.
->>> 
 
 ---
 

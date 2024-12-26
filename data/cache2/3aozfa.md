@@ -2,7 +2,7 @@
 
 * Author: u/lq1370 *
 * URL: https://www.reddit.com/r/rational/comments/3aozfa/story_prompt_subsidized/
-* Score: 7
+* Score: 9
 
 * Created: 2015-06-22T09:17:14
 
@@ -17,271 +17,267 @@ Then what do you do?
 
 ### Comments:
 
-> **u/paladinneph** [+15] *
+> **u/paladinneph** [+16]  (3 hours later)
 > 
 > joking answer:
-> I put down the letter and seriously re-evaluate some core beliefs I currently hold about the government, especially in the areas of its willingness to help its citizens and willingness to conduct experiments and accept evidence.
-> more serious answer:
-> I look for an inexpensive dev bootcamp in an area where [median income for that city] >= [cost of living]. with a list found, applications pour out, then move and attend. within half a year, I'd have a better, permanent job in a better area.
 > 
+> I put down the letter and seriously re-evaluate some core beliefs I currently hold about the government, especially in the areas of its willingness to help its citizens and willingness to conduct experiments and accept evidence.
+> 
+> more serious answer:
+> 
+> I look for an inexpensive dev bootcamp in an area where [median income for that city] >= [cost of living]. with a list found, applications pour out, then move and attend. within half a year, I'd have a better, permanent job in a better area.
 
-> **u/nicholaslaux** [+8] *
+> **u/nicholaslaux** [+9]  (6 hours later)
 > 
 > There's really three ways for me to approach the situation, given my current financial situation (comfortable) and political preferences (highly in favor of a program similar to this, even if I don't personally need to benefit from it).
-> Realistic: I would move to a nicer condo in downtown Chicago, and otherwise continue living my life as I currently do, including going to work, saving, etc. A program like this would cover the opportunity costs that are currently standing in the way of my doing this today, and since it's only a year long, I need to still have a job afterwards as well. 
-> Charitable: I don't actually need any of the money, so I realistically should donate it to someone else or start my own program to fund two or more others in a lower cost of living area for the cost of my own area. This is less likely because I'm not currently especially charitable, but it's what I'd say I would do to give myself warm fuzzies.
-> Munchkin: Try to discover what is required to create a new municipality. Create it, and then test what happens for the following situations: I set my salary as mayor equal to double the median salary of the town; if that doesn't work, I recruit foreign investors by offering to pay them 1.5x their current salary to live here, and spend half of my newly increased funds to do just this.
 > 
+> Realistic: I would move to a nicer condo in downtown Chicago, and otherwise continue living my life as I currently do, including going to work, saving, etc. A program like this would cover the opportunity costs that are currently standing in the way of my doing this today, and since it's only a year long, I need to still have a job afterwards as well. 
+> 
+> Charitable: I don't actually need any of the money, so I realistically should donate it to someone else or start my own program to fund two or more others in a lower cost of living area for the cost of my own area. This is less likely because I'm not currently especially charitable, but it's what I'd say I would do to give myself warm fuzzies.
+> 
+> Munchkin: Try to discover what is required to create a new municipality. Create it, and then test what happens for the following situations: I set my salary as mayor equal to double the median salary of the town; if that doesn't work, I recruit foreign investors by offering to pay them 1.5x their current salary to live here, and spend half of my newly increased funds to do just this.
 
->> **u/Transfuturist** [+7]  *Carthago delenda est.**
+>> **u/Transfuturist** [+6]  *Carthago delenda est.* (11 hours later)
 >> 
 >> Abusing a government trial is most certainly not a rational thing to do. Although munchkinry doesn't exclude being a complete asshole, I'd like to think even munchkins would think in the long term.
->> 
 
->>> **u/nicholaslaux** [+2] *
+>>> **u/nicholaslaux** [+2]  (20 hours later)
 >>> 
 >>> I agree, but I don't conflate munchkinry with rationality. I more think of it as maximizing personal potential, ignoring all other factors. The ultimate chaotic neutral.
->>> 
 
->>>> **u/ancientcampus** [+3]  *juggling kittens**
+>>>> **u/ancientcampus** [+3]  *juggling kittens* (a day later)
 >>>> 
 >>>> I think this is classic Munchkin behavior. Abusing the Rules As Written, pretending there are no Powers That Be to enforce balance on the universe when the written rules break down.
->>>> I like how you staged your multiple answers.
 >>>> 
+>>>> I like how you staged your multiple answers.
 
->> **u/literal-hitler** [+1] *
+>> **u/literal-hitler** [+1]  (2 days later)
 >> 
 >> >given my current financial situation (comfortable) and political preferences (highly in favor of a program similar to this, even if I don't personally need to benefit from it).
->> There are many times in my life where this would have been life changing, but right now, I'm living well below my means and banking quite a bit of my money. Honestly, I would try and find some way to make UBI more likely to be implemented for everyone before I would use it for excess personal gain.
 >> 
+>> There are many times in my life where this would have been life changing, but right now, I'm living well below my means and banking quite a bit of my money. Honestly, I would try and find some way to make UBI more likely to be implemented for everyone before I would use it for excess personal gain.
 
->>> **u/nicholaslaux** [+1] *
+>>> **u/nicholaslaux** [+1]  (2 days later)
 >>> 
 >>> My internal self model thinks I would act this way as, except that past behavior doesn't indicate that this is especially likely, though I can tell myself that's because I've never been in a pilot program such as this, but I don't actually know that to be true.
->>> 
 
-> **u/alexanderwales** [+9]  *Time flies like an arrow**
+> **u/alexanderwales** [+9]  *Time flies like an arrow* (6 hours later)
 > 
 > My first thought is that the government has gone insane. This experimental model is terrible. The NDA is never going to work; even if I don't do it, someone else in the group is going to anonymously leak the contract. If they're really selecting randomly, and their sample size is large enough to be meaningful, they're going to get someone who's dead-set against GBI and wants to sink it. Further, you can't present someone with an offer and then have them sign an NDA as part of it, because if they refuse the offer they're not bound by the NDA. Either the government is having people sign an NDA *then* giving the offer, which means selecting for a certain type of person, or they're using the law in a highly unconventional way that I'd find pretty troubling. More worrying than the fact that the government is doing experimentation on its citizens is the fact that they're doing this in secret.
-> So the experiment is probably going to end within the first few weeks, if not sooner. The costs associated with moving are so high that I can't actually change my location in order to take advantage of a place with a higher median income, and that's if I had any confidence that the experiment would last. There are also costs associated with quitting and starting a job, so I'm not really going to change my employment. Cost-of-living is highly associated with median income, so I don't really see much benefit in moving anyway, though I suppose I could run some numbers and figure out if there was a place I could move that's best on some income/cost index. (And I probably still don't move, because I've put down roots.)
 > 
+> So the experiment is probably going to end within the first few weeks, if not sooner. The costs associated with moving are so high that I can't actually change my location in order to take advantage of a place with a higher median income, and that's if I had any confidence that the experiment would last. There are also costs associated with quitting and starting a job, so I'm not really going to change my employment. Cost-of-living is highly associated with median income, so I don't really see much benefit in moving anyway, though I suppose I could run some numbers and figure out if there was a place I could move that's best on some income/cost index. (And I probably still don't move, because I've put down roots.)
 
-> **u/ArgentStonecutter** [+6]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram* (36 minutes later)
 > 
 > Keep on working, pay down my house note. I wouldn't move, it wouldn't gain me enough additional income to pay for the expenses and higher cost of living.
-> 
 
-> **u/Jiro_T** [+4] *
+> **u/Jiro_T** [+5]  (5 hours later)
 > 
 > I'm not sure this is the best sub for this since it's more a political question than a story question.  Most answers that people would give would not be story ones.
-> At any rate, giving someone a trial of guaranteed basic income wouldn't work like the real thing.  For instance, if I had a minimum wage job, I might quit my job because GBI would allow me to hone my skills such that I can get a better one.  If the GBI is a trial and has an end point, it would be stupid for me to do this since the trial could end before I gained the skills and found a job.
-> Also, much of the effect of GBI, both positive and negative, would happen because of how the market reacts to it.  For instance, minimum wage employers know that their employees will still be able to eat if they are fired, which affects how they treat their employees.  Since this is a trial and done in secret, and doesn't apply to most people anyway, that won't happen.
 > 
+> At any rate, giving someone a trial of guaranteed basic income wouldn't work like the real thing.  For instance, if I had a minimum wage job, I might quit my job because GBI would allow me to hone my skills such that I can get a better one.  If the GBI is a trial and has an end point, it would be stupid for me to do this since the trial could end before I gained the skills and found a job.
+> 
+> Also, much of the effect of GBI, both positive and negative, would happen because of how the market reacts to it.  For instance, minimum wage employers know that their employees will still be able to eat if they are fired, which affects how they treat their employees.  Since this is a trial and done in secret, and doesn't apply to most people anyway, that won't happen.
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (6 hours later)
 >> 
 >> > I'm not sure this is the best sub for this since it's more a political question than a story question.
->> A political question can also be a story question; some of my favorite stories are political in nature. It's not a terribly great story prompt because it encourages answers like, "I do X", which aren't really stories. A better prompt (if the aim is to get stories) would be, "The government begins running random trials on its citizens in secret through a 'dark' fund", because that's more broad and offers more possibilities. Even, "the government begins a trial with the following rules" would be more likely to get a story, because we wouldn't be penned in by having our protagonist and setting decided for us. (For example, my story would always have to start with a married 29-year-old software engineer living in Duluth who shares my values, unless I wanted to go off-prompt.)
 >> 
+>> A political question can also be a story question; some of my favorite stories are political in nature. It's not a terribly great story prompt because it encourages answers like, "I do X", which aren't really stories. A better prompt (if the aim is to get stories) would be, "The government begins running random trials on its citizens in secret through a 'dark' fund", because that's more broad and offers more possibilities. Even, "the government begins a trial with the following rules" would be more likely to get a story, because we wouldn't be penned in by having our protagonist and setting decided for us. (For example, my story would always have to start with a married 29-year-old software engineer living in Duluth who shares my values, unless I wanted to go off-prompt.)
 
->> **u/lq1370** [+1] *
+>> **u/lq1370** [+1]  (10 hours later)
 >> 
 >> Trust me, I'm getting the replies I want. But thank you for your concern!
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Roxolan** [+9]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+9]  *Head of antimemetiWalmart senior assistant manager* (2 hours later)
 >> 
 >> If I'm a test subject for a program that I believe would be worth implementing on a larger scale, then maybe I should try to be a *positive* example, a convincing test case. If my first actions are to try and figure out just how much extra money I can milk out of the government by exploiting loopholes, well...
->> 
 
->>> **u/daydev** [+3] *
+>>> **u/daydev** [+3]  (4 hours later)
 >>> 
 >>> This. I think this scenario has a big flaw in that it's temporary, so the subject knows that after a year of free government money it's back to usual. So there's an incentive to milk as much as possible out of this situation, 'cause it's not gonna last.
->>> 
 
->>>> **u/callmebrotherg** [+6]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae* (5 hours later)
 >>>> 
 >>>> The [Mincome](https://www.wikiwand.com/en/Mincome) experiment is relevant.
->>>> 
 
->> **u/codahighland** [+2] *
+>> **u/codahighland** [+2]  (9 hours later)
 >> 
 >> >There are municipalities where the median income is much higher than the actual cost of living because of very small populations of very wealthy individuals.
->> No, there aren't. The whole point of using median instead of mean is that it removes outlier effects.
 >> 
+>> No, there aren't. The whole point of using median instead of mean is that it removes outlier effects.
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (9 hours later)
 >>> 
 >>> There are still outlier municipalities. For example, Hidden Hills is a town in California with a median income above $250,000. It's got a small population (about 2,000) of very wealthy individuals. Same goes for Chevy Chase, MD, pop. 3,000 and median income >$250,000.
->>> The trick is to find one of those outliers where there's not a correspondingly high cost-of-living.
 >>> 
+>>> The trick is to find one of those outliers where there's not a correspondingly high cost-of-living.
 
->>>> **u/codahighland** [+1] *
+>>>> **u/codahighland** [+1]  (9 hours later)
 >>>> 
 >>>> The nitpick, then, is in the definition of "small population." 
->>>> You assert that Hidden Hills has a small population of wealthy individuals, because there are less than 2000 of those individuals in the city.
->>>> I assert that Hidden Hills does not have a small population of wealthy individuals, as 100% of its residents are wealthy.
->>>> It's an absolute vs. relative thing.
 >>>> 
+>>>> You assert that Hidden Hills has a small population of wealthy individuals, because there are less than 2000 of those individuals in the city.
+>>>> 
+>>>> I assert that Hidden Hills does not have a small population of wealthy individuals, as 100% of its residents are wealthy.
+>>>> 
+>>>> It's an absolute vs. relative thing.
 
->>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (10 hours later)
 >>>>> 
 >>>>> > I assert that Hidden Hills does not have a small population of wealthy individuals, as 100% of its residents are wealthy.
->>>>> We don't actually know this; all we know is the median, which as you said, removes outliers.
->>>>> Otherwise you're correct. I (and presumably the parent poster) are using "small population" to mean the population of the municipality in comparison with other municipalities.
 >>>>> 
+>>>>> We don't actually know this; all we know is the median, which as you said, removes outliers.
+>>>>> 
+>>>>> Otherwise you're correct. I (and presumably the parent poster) are using "small population" to mean the population of the municipality in comparison with other municipalities.
 
->>>>>> **u/codahighland** [+1] *
+>>>>>> **u/codahighland** [+1]  (13 hours later)
 >>>>>> 
 >>>>>> >We don't actually know this; all we know is the median, which as you said, removes outliers.
->>>>>> We also know that there are no significant outliers on the low end, as the last census said that 0 residents were in poverty.
->>>>>> (I can also offer a small bit of anecdotal evidence as I used to drive past Hidden Hills on a near-daily basis during my commute, and there's nowhere in the area that you could live if you were less than middle-class and not homeless.)
->>>>>> But yes, you're correct in that the statistics only allow us to formally assert that less than 50% of people make less than ~$250k.
->>>>>> Anyway, my mistake was forgetting which sub I'm looking at, because plenty of other places on the Internet would have people confusing median for mean without realizing it. :P
 >>>>>> 
+>>>>>> We also know that there are no significant outliers on the low end, as the last census said that 0 residents were in poverty.
+>>>>>> 
+>>>>>> (I can also offer a small bit of anecdotal evidence as I used to drive past Hidden Hills on a near-daily basis during my commute, and there's nowhere in the area that you could live if you were less than middle-class and not homeless.)
+>>>>>> 
+>>>>>> But yes, you're correct in that the statistics only allow us to formally assert that less than 50% of people make less than ~$250k.
+>>>>>> 
+>>>>>> Anyway, my mistake was forgetting which sub I'm looking at, because plenty of other places on the Internet would have people confusing median for mean without realizing it. :P
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 hours later)
 >> 
 >> > There are municipalities where the median income is much higher than the actual cost of living because of very small populations of very wealthy individuals. 
->> Heavy outliers weigh down the *mean*, not the median.  Or at least, they weight it down less.
 >> 
+>> Heavy outliers weigh down the *mean*, not the median.  Or at least, they weight it down less.
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 hours later)
 >> 
 >> It says "city".
->> 
 
-> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (5 hours later)
 > 
 > What? *What*? 
-> I'm attending college right now! My experiences will not be demonstrative of *anything* relative to the average citizen! Either I'll save it all or I'll spend it on random crap because my scholarship already takes care of my basic needs. 
-> Alright. So I have an extra $26,000 (people don't make a lot over here, since half the population is college students). Uh... I'll see if maybe I can arrange to just take a year off and go down to San Francisco. That gives me an extra $53,000 (seems well worth it) and gives me the opportunity to establish residency there so that I can pay less tuition when I move on to getting a Master's. 
-> And then... going to save a good portion of it, going to invest some of it in my writing, and (obviously) going to spend some on food and housing. I'll probably still save most of it. I can live off of $15,000 a year if I chop out all of the unimportant stuff, so if I save $40,000 then that still leaves me with enough for a (tight-ish) year in San Francisco, including enough to invest in my writing a little bit. 
-> I still probably won't be a very good example of the average citizen.
 > 
+> I'm attending college right now! My experiences will not be demonstrative of *anything* relative to the average citizen! Either I'll save it all or I'll spend it on random crap because my scholarship already takes care of my basic needs. 
+> 
+> Alright. So I have an extra $26,000 (people don't make a lot over here, since half the population is college students). Uh... I'll see if maybe I can arrange to just take a year off and go down to San Francisco. That gives me an extra $53,000 (seems well worth it) and gives me the opportunity to establish residency there so that I can pay less tuition when I move on to getting a Master's. 
+> 
+> And then... going to save a good portion of it, going to invest some of it in my writing, and (obviously) going to spend some on food and housing. I'll probably still save most of it. I can live off of $15,000 a year if I chop out all of the unimportant stuff, so if I save $40,000 then that still leaves me with enough for a (tight-ish) year in San Francisco, including enough to invest in my writing a little bit. 
+> 
+> I still probably won't be a very good example of the average citizen.
 
->> **u/Jiro_T** [+1] *
+>> **u/Jiro_T** [+1]  (6 hours later)
 >> 
 >> Don't colleges often give "financial aid" that depends on your resources, as a means of price discrimination?  That would mean you would have to report the basic income to the college and they would respond by decreasing the "financial aid" by the amount of the basic income, capturing all the surplus.  It wouldn't be any better than going to college without the basic income.
->> 
 
->>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (9 hours later)
 >>> 
 >>> It isn't based on financial need. But as I mention above, I'd probably do better to take a year off and go to SF, all things considered.
->>> 
 
-> **u/protagnostic** [+2] *
+> **u/protagnostic** [+2]  (6 hours later)
 > 
 > Keep working, save the money.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Is this guaranteed minimum income or basic income?
-> If it's guaranteed minimum income, I shrug, refuse the offer, and go on with my business. I make more than my city's median salary, so a guaranteed minimum income wouldn't pay anything to me in my present job. It would allow me to drop my income by a large amount and gain back ~40 hours a week, but I can't afford that.
-> If it's basic income, I shrug, accept the offer, and put the money into savings. It should see me retiring a year earlier.
-> If it lasted for life rather than just one year, though, I would continue working but retire appreciably earlier. Or maybe I'd just take a few years off to work on my own projects. Yes, I'm boring.
 > 
+> If it's guaranteed minimum income, I shrug, refuse the offer, and go on with my business. I make more than my city's median salary, so a guaranteed minimum income wouldn't pay anything to me in my present job. It would allow me to drop my income by a large amount and gain back ~40 hours a week, but I can't afford that.
+> 
+> If it's basic income, I shrug, accept the offer, and put the money into savings. It should see me retiring a year earlier.
+> 
+> If it lasted for life rather than just one year, though, I would continue working but retire appreciably earlier. Or maybe I'd just take a few years off to work on my own projects. Yes, I'm boring.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 days later)
 > 
 > http://www.futurism.com/links/view/a-dutch-city-will-start-experimenting-with-unconditional-basic-income-this-summer/
-> 
 
-> **u/MadScientist14159** [+1]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+1]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (7 hours later)
 > 
 > I continue studying to become a medical researcher.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (11 hours later)
 > 
 > I *could* do the kinds of things I've always wanted to do: not work all the time for a living, travel more, actually intensively study all the things I want to study, finish up hobby projects, contribute more to the research world, and apply for PhD programs without worrying about the career consequences.
-> But frankly, I do like my day-job somewhat, and I feel like I'm waaaay too far up the privilege scale to just take mercenary advantage of a program like this that's not available to *everyone* yet.
-> I'd probably end up splitting the money between charitable donations and helping various close friends get out of cash-flow troubles (ie: financial problems that don't require a genuinely large sum of money to fix, but which persist due to low income).
-> But maybe that's just the golden handcuffs of industry taking hold.  Hmm...
 > 
+> But frankly, I do like my day-job somewhat, and I feel like I'm waaaay too far up the privilege scale to just take mercenary advantage of a program like this that's not available to *everyone* yet.
+> 
+> I'd probably end up splitting the money between charitable donations and helping various close friends get out of cash-flow troubles (ie: financial problems that don't require a genuinely large sum of money to fix, but which persist due to low income).
+> 
+> But maybe that's just the golden handcuffs of industry taking hold.  Hmm...
 
-> **u/Subrosian_Smithy** [+1]  *Nudist Beach**
+> **u/Subrosian_Smithy** [+1]  *Nudist Beach* (13 hours later)
 > 
 > Turn down the offer, because I don't think it will accurately predict the behavior of those under UBI. It's not universal and it's not guaranteed.
-> If there's no turning it down, I'd use as much of the govt money as I can spare to buy something non-inflationary (gold? I need more research). Later down the line I can use it to finance my transition, or failing that, my retirement.
 > 
+> If there's no turning it down, I'd use as much of the govt money as I can spare to buy something non-inflationary (gold? I need more research). Later down the line I can use it to finance my transition, or failing that, my retirement.
 
-> **u/ulyssessword** [+1] *
+> **u/ulyssessword** [+1]  (15 hours later)
 > 
 > I'd be getting about $35k (Canadian) where I am, and I could get another 13k by moving to a different city (and probably a bit more in some small areas).  
-> I would mostly ignore it, and continue on with my life.  35k is very good but not life-changing, and another 13k is not worth uprooting myself for right now.
 > 
+> I would mostly ignore it, and continue on with my life.  35k is very good but not life-changing, and another 13k is not worth uprooting myself for right now.
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (a day later)
 > 
 > If I'm signing up for just a year? I'm not moving - I continue working and bank the income. (Give a fraction > Pay off high-rate loans > Give surplus)
-> If it's lifelong, and I somehow happen to know it's not going to dwindle or dry up - I confess I'd feel less motivated to work as hard.
 > 
+> If it's lifelong, and I somehow happen to know it's not going to dwindle or dry up - I confess I'd feel less motivated to work as hard.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > What I'm seeing here is that the most rational way to approach this is to say, "Free money? Yes please!", and collect the paychecks in addition to living life absolutely normally. Maybe splurge a little with your year of extra disposable income.
-> 
 
-> **u/Farmerbob1** [+0]  *Level 1 author**
+> **u/Farmerbob1** [+0]  *Level 1 author* (9 hours later)
 > 
 > Tell the people running the project that they are wasting their time and the government's money.  The Welfare system is a gold mine of information about exactly what people will do with money given to them by the government.  If they still want to include me in the study, I'll gladly accept their money to be a guinea pig in a flawed and useless study.  More writing time for me!
-> 
 
->> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>> **u/Transfuturist** [+2]  *Carthago delenda est.* (11 hours later)
 >> 
 >> Except the welfare system is a stymied and broken piece of garbage with perverse incentives, much like our tax code.
->> 
 
->>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>> **u/Farmerbob1** [+1]  *Level 1 author* (14 hours later)
 >>> 
 >>> We are in agreement then.  Aside from our tech level simply being unable to support it, we have to be able to make programs *like* a BLS system work well before we even *think* about a real BLS system.
->>> If we can't manage a lemonade stand, it's foolish to think we can manage a multinational corporation.
 >>> 
+>>> If we can't manage a lemonade stand, it's foolish to think we can manage a multinational corporation.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> What problems do you have with the current welfare system? Which country's?
->>> 
 
->>>> **u/Transfuturist** [+0]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+0]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> America's. Google it.
->>>> 
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (a day later)
 >>>>> 
 >>>>> "America" describes dozens of countries, but I'll assume you're talking about the United States.
->>>>> Half the people criticizing US welfare think it's too tough on recipients and not accepting enough. Half the people think it's too generous and we shouldn't be giving handouts to people. Some say it's not standardized enough. Some say that large companies like Walmart are using government assistance programs to reduce the amount they have to pay in salaries -- they have employees sign up for EBT to avoid having to pay a wage that people might actually be able to live on. Some say that welfare discourages working (because your value as a person is bounded by your economic output, of course). Some point to welfare abuse, citing one person in the 1970s who signed up for benefits under several dozen names (and assume that we've not become any more adept at catching fraud).
->>>>> So asking me to Google it doesn't give me much information on what problems you in particular have with welfare, especially as they relate to basic income.
->>>>> If you don't want to discuss it, you could just say that.
 >>>>> 
+>>>>> Half the people criticizing US welfare think it's too tough on recipients and not accepting enough. Half the people think it's too generous and we shouldn't be giving handouts to people. Some say it's not standardized enough. Some say that large companies like Walmart are using government assistance programs to reduce the amount they have to pay in salaries -- they have employees sign up for EBT to avoid having to pay a wage that people might actually be able to live on. Some say that welfare discourages working (because your value as a person is bounded by your economic output, of course). Some point to welfare abuse, citing one person in the 1970s who signed up for benefits under several dozen names (and assume that we've not become any more adept at catching fraud).
+>>>>> 
+>>>>> So asking me to Google it doesn't give me much information on what problems you in particular have with welfare, especially as they relate to basic income.
+>>>>> 
+>>>>> If you don't want to discuss it, you could just say that.
 
->>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>> 
 >>>>>> [These are the perverse incentives I'm talking about.](https://en.wikipedia.org/wiki/Welfare_trap)
->>>>>> 
 
->>>>>>> **u/None** [+0] *
+>>>>>>> **u/None** [+0]  (a day later)
 >>>>>>> 
 >>>>>>> Basic income solves that problem.
->>>>>>> 
 
->>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>>>> 
 >>>>>>>> You think I don't know that? That's what this entire thread is about!
->>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> I mistook you for the person who was saying that we should fix existing welfare before implementing basic income.
->>>>>>>>> 
 
 ---
 

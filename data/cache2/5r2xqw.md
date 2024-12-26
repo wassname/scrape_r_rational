@@ -69,15 +69,13 @@ Book1 is currently free for a limited time.
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (7 hours later)
 > 
 > Thanks for the update!
-> 
 
-> **u/Kishoto** [+1] *
+> **u/Kishoto** [+1]  (7 hours later)
 > 
 > Woohoo! Was waiting for this one. Can't wait to see what our crazy princess has in store for Colin! :D
-> 
 
 ---
 

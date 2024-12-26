@@ -2,7 +2,7 @@
 
 * Author: u/Prezombie *
 * URL: https://www.reddit.com/r/rational/comments/2bvmbi/bst_the_lion_king_filtered_through_a/
-* Score: 15
+* Score: 16
 
 * Created: 2014-07-27T19:13:08
 
@@ -44,75 +44,103 @@ Which divergence point would you prefer, before the Hamlet plot even begins, at 
 
 ### Comments:
 
-> **u/Nepene** [+3] *
+> **u/Nepene** [+3]  (4 hours later)
 > 
 > Sounds pretty cool.
-> >Are hyenas so environmentally destructive, or is that just the lion-biased viewpoint? Or is it post-hoc reasoning, and it's just a drought?
-> The clear thematic interpretation is that the king somehow magically makes the land better by their presence and commoners ruling it makes it worse, causing a drought.
-> So why not incorporate that into the story?
-> Mufasa is killed
-> http://giphy.com/gifs/Q0JhbL0wd4Gty
->  and is uploaded into the cloud.
-> http://giphy.com/gifs/7nkzQc235bqPC
->  He takes control of the attack routines in that and uses them to deny cloud access to the evil interloper, forcing Nala to come for food and love.
-> http://giphy.com/gifs/12PFKi4i2Bwwow
->  She returns Simba, the hyenas turn on Scar, and Mufasa restarts the rain. Mufasa, as always, has the last laugh.
-> http://giphy.com/gifs/qbEm5Ej3nJ8ek
-> I think it would be quite interesting to explore the circle of life/ religious implications. In redwood Martin the Warrior continually possesses people, forever making people into copies of him. Mufasa is presumably doing something similar to Simba. The plot is driven by Mufasa mass murdering herbivores because he hates Scar.
-> A sort of combination of the matrix and the lion king.
 > 
+> >Are hyenas so environmentally destructive, or is that just the lion-biased viewpoint? Or is it post-hoc reasoning, and it's just a drought?
+> 
+> The clear thematic interpretation is that the king somehow magically makes the land better by their presence and commoners ruling it makes it worse, causing a drought.
+> 
+> So why not incorporate that into the story?
+> 
+> Mufasa is killed
+> 
+> http://giphy.com/gifs/Q0JhbL0wd4Gty
+> 
+>  and is uploaded into the cloud.
+> 
+> http://giphy.com/gifs/7nkzQc235bqPC
+> 
+>  He takes control of the attack routines in that and uses them to deny cloud access to the evil interloper, forcing Nala to come for food and love.
+> 
+> http://giphy.com/gifs/12PFKi4i2Bwwow
+> 
+>  She returns Simba, the hyenas turn on Scar, and Mufasa restarts the rain. Mufasa, as always, has the last laugh.
+> 
+> http://giphy.com/gifs/qbEm5Ej3nJ8ek
+> 
+> I think it would be quite interesting to explore the circle of life/ religious implications. In redwood Martin the Warrior continually possesses people, forever making people into copies of him. Mufasa is presumably doing something similar to Simba. The plot is driven by Mufasa mass murdering herbivores because he hates Scar.
+> 
+> A sort of combination of the matrix and the lion king.
 
->> **u/Prezombie** [+3] *
+>> **u/Prezombie** [+3]  (11 hours later)
 >> 
 >> Hehe, uploaded into the cloud.
->> I think the big difference between Martin and Mufasa would be that Martin is simply borrowing bodies, and eventually releasing them, while Mufasa is the end of a long chain of father-son connections, each one imperfectly making the descendent into a personality copy of the father. And then Timon and Pumbaa come along, and totally break the chain.
->> I wouldn't exactly say that Mufasa turning off the rain would be mass murder of herbivores, it's explicitly said that the herbivores moved on to greener pastures, and it's just Scar's stubborn refusal to abandon a throne that keeps them there.
->> I really enjoyed The Lion King as a kid, but one major flaw in the cinematography left me confused for a long time. It honestly looks like that during the stampede, after being rescued, Simba climbs up the cliff, and sees Scar betraying his brother. It took a long time to realize that no, apparently he didn't, even though he managed to yell the big no when Mufasa falls.
->> I'm thinking that this would be an ideal point of departure for the fic, as it would allow the canon plot to actually be set up, but with the primary change that his exile isn't tinged with guilt about Mufasa's death, but guilt about being so easily manipulated and insufficiently analytical about others' motives.
 >> 
+>> I think the big difference between Martin and Mufasa would be that Martin is simply borrowing bodies, and eventually releasing them, while Mufasa is the end of a long chain of father-son connections, each one imperfectly making the descendent into a personality copy of the father. And then Timon and Pumbaa come along, and totally break the chain.
+>> 
+>> I wouldn't exactly say that Mufasa turning off the rain would be mass murder of herbivores, it's explicitly said that the herbivores moved on to greener pastures, and it's just Scar's stubborn refusal to abandon a throne that keeps them there.
+>> 
+>> I really enjoyed The Lion King as a kid, but one major flaw in the cinematography left me confused for a long time. It honestly looks like that during the stampede, after being rescued, Simba climbs up the cliff, and sees Scar betraying his brother. It took a long time to realize that no, apparently he didn't, even though he managed to yell the big no when Mufasa falls.
+>> 
+>> I'm thinking that this would be an ideal point of departure for the fic, as it would allow the canon plot to actually be set up, but with the primary change that his exile isn't tinged with guilt about Mufasa's death, but guilt about being so easily manipulated and insufficiently analytical about others' motives.
 
->>> **u/Nepene** [+2] *
+>>> **u/Nepene** [+2]  (21 hours later)
 >>> 
 >>> >I wouldn't exactly say that Mufasa turning off the rain would be mass murder of herbivores, it's explicitly said that the herbivores moved on to greener pastures, and it's just Scar's stubborn refusal to abandon a throne that keeps them there.
->>> There were skeletons all around, so some likely died, some moved on. 
->>> Scar was stubborn, though if Mufasa caused the drought as is implied him moving to another land likely wouldn't solve the issue. It would be interesting to see if he could try and resolve the issue independently- perhaps he could try to find other monkeys like Rafiki who can hack into the cloud? Perhaps as primates they get a higher access level.
->>> You can see Simba ran behind a rock, he can't see any more.
->>> That would be a good departure point.
 >>> 
+>>> There were skeletons all around, so some likely died, some moved on. 
+>>> 
+>>> Scar was stubborn, though if Mufasa caused the drought as is implied him moving to another land likely wouldn't solve the issue. It would be interesting to see if he could try and resolve the issue independently- perhaps he could try to find other monkeys like Rafiki who can hack into the cloud? Perhaps as primates they get a higher access level.
+>>> 
+>>> You can see Simba ran behind a rock, he can't see any more.
+>>> 
+>>> That would be a good departure point.
 
-> **u/_brightwing** [+2]  *Feathered menace**
+> **u/_brightwing** [+2]  *Feathered menace* (13 hours later)
 > 
 > Oh yes. Yes, yess! I knew the second I wandered off into r/rational that this place and me was meant to be. Take that Deconstruction Stick and make thorough use of it D:<
-> I think the best thing you could do for the story is not to make Scar explicitly evil. Make his motivations bigger and grander than just becoming king. Throw in a sci-fi element like say Dune's Spice ecosystem or something, only involving nanites. The planet becoming inhospitable to plant life could be side effect of him doing this. But there is a genuine reason for  him resorting to something like this, to the point the readers can even sympathise with him. Necessary evil and all that. This becoming a clash of values.
-> I absolutely love the idea about Mufasa being the collective mind of all the Lion Kings that ever was - that totally fits. Don't villainize him though. It just doesn't sit well  - too much of a thematic departure from canon. It could be that the collective king in the cloud makes a hard choice for the kingdom. Or performs hard calculation and projects a scenario for Simba. Or something..
-> Oh - and if Simba can imperfectly access Lion King memory database don't leave Scar standing. He could have the full power of the Lion King like his brother. One sided fights are always interesting.
 > 
+> I think the best thing you could do for the story is not to make Scar explicitly evil. Make his motivations bigger and grander than just becoming king. Throw in a sci-fi element like say Dune's Spice ecosystem or something, only involving nanites. The planet becoming inhospitable to plant life could be side effect of him doing this. But there is a genuine reason for  him resorting to something like this, to the point the readers can even sympathise with him. Necessary evil and all that. This becoming a clash of values.
+> 
+> I absolutely love the idea about Mufasa being the collective mind of all the Lion Kings that ever was - that totally fits. Don't villainize him though. It just doesn't sit well  - too much of a thematic departure from canon. It could be that the collective king in the cloud makes a hard choice for the kingdom. Or performs hard calculation and projects a scenario for Simba. Or something..
+> 
+> Oh - and if Simba can imperfectly access Lion King memory database don't leave Scar standing. He could have the full power of the Lion King like his brother. One sided fights are always interesting.
 
->> **u/Prezombie** [+2] *
+>> **u/Prezombie** [+2]  (16 hours later)
 >> 
 >> Oh, sure, Scar won't be explicitly evil, any more than both versions of Mufasa would be explicitly good. Heck, Scar could be painted in a pretty good light if he's earnest about his attempts to "civilize" the hyenas. 
->> If your morality is tailored for an obligate carnivore, it wouldn't be that hard to reach the moral epiphany that the hyenas deserve hunting territory just as much as the lions. A carnivore-biased version of humanism, I suppose. (which, as a sci-fi nut, always seemed like a far too restrictive name for a philosophy which could easily expand its empathic sphere from "the human species" to "intelligent beings")
->> >Oh - and if Simba can imperfectly access Lion King memory database don't leave Scar standing. He could have the full power of the Lion King like his brother. One sided fights are always interesting.
->> I don't get this. If Scar is also amplified, it wouldn't be a one-sided fight?
 >> 
+>> If your morality is tailored for an obligate carnivore, it wouldn't be that hard to reach the moral epiphany that the hyenas deserve hunting territory just as much as the lions. A carnivore-biased version of humanism, I suppose. (which, as a sci-fi nut, always seemed like a far too restrictive name for a philosophy which could easily expand its empathic sphere from "the human species" to "intelligent beings")
+>> 
+>> >Oh - and if Simba can imperfectly access Lion King memory database don't leave Scar standing. He could have the full power of the Lion King like his brother. One sided fights are always interesting.
+>> 
+>> I don't get this. If Scar is also amplified, it wouldn't be a one-sided fight?
 
->>> **u/_brightwing** [+3]  *Feathered menace**
+>>> **u/_brightwing** [+4]  *Feathered menace* (23 hours later)
 >>> 
 >>> I am thinking that with the role of Lion King comes mass mind influencing power. An irresistible presence of command, something to do with syncing in with the nanites to make the targets lose volition, and prostrate. With only the members of the Pride being more or less immune to this Ruler effect. 
->>> You could also make the Hyenas more than just mooks. Turning  them more like Ringwraiths, the creatures of nightmares that they were meant to be. A significant shunned powerbase for which Scar approached them in the first place. 
->>> Simba's synchronization like you said was incomplete. So maybe he can only sporadically use the King's power like the Avatar state, only have limited access to the well of memories for short unreliable and uncontrollable periods of time. This way he'll have to rely more on tactics. You can have him trying to rally the common animal folk to the coup he makes against Scar.
->>>  An opportunity to write about leadership, which is not a bad thing to put the focus on. The victory could then be seen as the Kingdom's not just Simba's. A better message and more about what being a King actually about is - for the ~~pe~~animals.
->>> There is just so much possibilities with this setting. I can't wait to see what you come up with :P
 >>> 
+>>> You could also make the Hyenas more than just mooks. Turning  them more like Ringwraiths, the creatures of nightmares that they were meant to be. A significant shunned powerbase for which Scar approached them in the first place. 
+>>> 
+>>> Simba's synchronization like you said was incomplete. So maybe he can only sporadically use the King's power like the Avatar state, only have limited access to the well of memories for short unreliable and uncontrollable periods of time. This way he'll have to rely more on tactics. You can have him trying to rally the common animal folk to the coup he makes against Scar.
+>>> 
+>>>  An opportunity to write about leadership, which is not a bad thing to put the focus on. The victory could then be seen as the Kingdom's not just Simba's. A better message and more about what being a King actually about is - for the ~~pe~~animals.
+>>> 
+>>> There is just so much possibilities with this setting. I can't wait to see what you come up with :P
 
-> **u/E-o_o-3** [+1] *
+> **u/E-o_o-3** [+1]  (14 days later)
 > 
 > >What exactly is up with the River King aspect of the pridelands? Are hyenas so environmentally destructive, or is that just the lion-biased viewpoint? Or is it post-hoc reasoning, and it's just a drought?
-> This is child-me reasoning so I'm not sure how well it fits in the actual story, but I thought the food shortage was because the Hyenas were eating everything - which makes sense, actually. After Scar introduced the hyenas, there were two apex predators in one region...though that doesn't explain the drought.
-> Now that I think back on the memory of the movie with an adult's eye, I think the writers did tend to imply that Scar somehow caused environmental decay / the herds to move on. But I'm also getting a very Red Scare / communist vibe from the canon - like somehow Scar's power grab via redistribution of resources to Hyenas caused economic collapse. (Remember when the Hyenas were like, "No king lalalala" and Scar was like "IDIOTS!"? They were definitely thinking about politics.)
-> Even if the original authors did sort-of write the story such that it's easy to conclude via literal interpretation that the True King magically brought on the rain, I think the *intention* was definitely to say that Scar was a bad ruler somehow, rather than simply lacking the magic or something.
-> A non-magical hybrid between the two would be to have the Lion King be a farmer-king, generally managing environmental resources and culling herbivore populations when they got too large. If lions really *did* get smarter, you'd expect them to start becoming successful enough to really strain against resource constraints and then find ways out of them...and, just as with human farmers, this necessitates careful resource management. That would further explain the "Circle of Life" ideology. Alternatively, it could go in a "law of the jungle" direction - as in, "we can't show mercy to the old and weak animals because there's limited resources here".
 > 
+> This is child-me reasoning so I'm not sure how well it fits in the actual story, but I thought the food shortage was because the Hyenas were eating everything - which makes sense, actually. After Scar introduced the hyenas, there were two apex predators in one region...though that doesn't explain the drought.
+> 
+> Now that I think back on the memory of the movie with an adult's eye, I think the writers did tend to imply that Scar somehow caused environmental decay / the herds to move on. But I'm also getting a very Red Scare / communist vibe from the canon - like somehow Scar's power grab via redistribution of resources to Hyenas caused economic collapse. (Remember when the Hyenas were like, "No king lalalala" and Scar was like "IDIOTS!"? They were definitely thinking about politics.)
+> 
+> Even if the original authors did sort-of write the story such that it's easy to conclude via literal interpretation that the True King magically brought on the rain, I think the *intention* was definitely to say that Scar was a bad ruler somehow, rather than simply lacking the magic or something.
+> 
+> A non-magical hybrid between the two would be to have the Lion King be a farmer-king, generally managing environmental resources and culling herbivore populations when they got too large. If lions really *did* get smarter, you'd expect them to start becoming successful enough to really strain against resource constraints and then find ways out of them...and, just as with human farmers, this necessitates careful resource management. That would further explain the "Circle of Life" ideology. Alternatively, it could go in a "law of the jungle" direction - as in, "we can't show mercy to the old and weak animals because there's limited resources here".
 
 ---
 

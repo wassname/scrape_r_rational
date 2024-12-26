@@ -12,110 +12,98 @@
 
 ### Comments:
 
-> **u/Noumero** [+18]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+18]  *Self-Appointed Court Statistician* (16 minutes later)
 > 
 > And here we see how being Wrong Genre Savvy leads to suffering. Juniper was too focused on tabletop-RPG logic, and failed to see the perfect Damsel In Distress setup. How sad.
-> 
 
-> **u/None** [+12] *
+> **u/None** [+13]  (5 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Noumero** [+15]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+14]  *Self-Appointed Court Statistician* (8 hours later)
 >> 
 >> > Also, that's two independent confirmations that Mary is flat out gorgeous, and it's (probably?) not just something tailored to his preferences. 
->> The two aren't mutually exclusive. She could be very beautiful *and* have her beauty specifically tailored for Juniper's preferences. It's the most likely outcome, even: barring more unusual tastes, any human (heterosexual) male's perfect girl would in all probability look pretty to others as well.
 >> 
+>> The two aren't mutually exclusive. She could be very beautiful *and* have her beauty specifically tailored for Juniper's preferences. It's the most likely outcome, even: barring more unusual tastes, any human (heterosexual) male's perfect girl would in all probability look pretty to others as well.
 
->>> **u/None** [+9] *
+>>> **u/None** [+9]  (8 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/PM_ME_OS_DESIGN** [+2] *
+>>>> **u/PM_ME_OS_DESIGN** [+2]  (a day later)
 >>>> 
 >>>> He predicted specific artifacts he'd never seen before, like the fairy healing jar.
->>>> 
 
-> **u/Sailor_Vulcan** [+11]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+11]  *Champion of Justice and Reason* (4 hours later)
 > 
 > Something I'm wondering is about the possible kiss at the end of the next quest. I'm totally expecting Amaryllis to kiss Juniper, and then he's going to have to explain to her that the quest log predicted she'd do that and about the effect her beauty has on him and why it scares him. Honestly it might have been a good idea to explain that to her already in addition to his earlier speculation about the other girls he chose not to rescue during the tutorial because it's probably a big hint to what the heck is really going on in this world.
-> Also I'm calling it now, Juniper isnt the original juniper, he's a high fidelity extremely accurate copy of Juniper reconstructed from the original juniper's memories, and this whole world actually is a simulation being run by AI. Well either that or he was uploaded by nanobots during his 5th period class, somehow.
-> Not quite sure why the AI would do that though. Maybe it's to give him the chance to play hero for a whole world just like he said he had wanted to before he came to Aerb, and the AI is just granting his wish in a way he did not want or expect?
 > 
+> Also I'm calling it now, Juniper isnt the original juniper, he's a high fidelity extremely accurate copy of Juniper reconstructed from the original juniper's memories, and this whole world actually is a simulation being run by AI. Well either that or he was uploaded by nanobots during his 5th period class, somehow.
+> 
+> Not quite sure why the AI would do that though. Maybe it's to give him the chance to play hero for a whole world just like he said he had wanted to before he came to Aerb, and the AI is just granting his wish in a way he did not want or expect?
 
->> **u/Izeinwinter** [+5] *
+>> **u/Izeinwinter** [+4]  (16 hours later)
 >> 
 >> Oh a Moravec upload could be executed without anyone noticing until it completes and he just drops dead with an empty cranium. 
+>> 
 >> It will be way funnier if Amaryllis kisses Fenn. Or both of them. 
 >> Like, it is a harem comedy, and it *isnt* centered on him!
->> 
 
-> **u/TempAccountIgnorePls** [+7] *
+> **u/TempAccountIgnorePls** [+9]  (6 hours later)
 > 
 > Question for the author:
-> How is Amaryllis pronounced? I'd been saying "Ah-mah-rill-iss", but then it got shortened to "Mary" which made me think "Ah-mary-liss" (or maybe "Ay-mary-liss"?) and now every time her name is mentioned my brain trips over itself trying to read it.
-> Loving the story BTW, and really appreciating how fast you're cranking these out.
 > 
+> How is Amaryllis pronounced? I'd been saying "Ah-mah-rill-iss", but then it got shortened to "Mary" which made me think "Ah-mary-liss" (or maybe "Ay-mary-liss"?) and now every time her name is mentioned my brain trips over itself trying to read it.
+> 
+> Loving the story BTW, and really appreciating how fast you're cranking these out.
 
->> **u/cthulhuraejepsen** [+7]  *Fruit flies like a banana**
+>> **u/cthulhuraejepsen** [+8]  *Fruit flies like a banana* (6 hours later)
 >> 
 >> They're deliberately off by a bit, because it's being used as "thing we can call you that we'll remember, but which also isn't the name of someone with a level of fame", same reason Amy was a candidate. Her name is pronounced like you think it is, [same as the plant she's named after](https://en.wikipedia.org/wiki/Amaryllis). I think I had a line about it not being a proper diminutive, but maybe removed it or something because it ruined flow, which is the price of writing quickly.
->> 
 
->>> **u/Traiden04** [+1] *
+>>> **u/Traiden04** [+1]  (16 hours later)
 >>> 
 >>> So more Fenn being Fenn and playing up her Half-Elf nature by purposefully mispronouncing Amaryliss.
->>> 
 
-> **u/EliezerYudkowsky** [+14]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+14]  *Godric Gryffindor* (16 hours later)
 > 
 > I was viscerally annoyed by that Cowardice affliction, which I guess is a job well don't by the author.
-> 
 
->> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+11]  *Godric Gryffindor* (22 hours later)
 >> 
 >> Job well *done*, I meant.  That was an unusually bad mobile 'typo'.  Sorry if I gave the wrong impression, /u/cthulhuraejepsen.
->> 
 
->> **u/None** [+5] *
+>> **u/None** [+4]  (19 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/AugSphere** [+12]  *Dark Lord of Corruption**
+>>> **u/AugSphere** [+13]  *Dark Lord of Corruption* (23 hours later)
 >>> 
 >>> He's not actually being cowardly, though. The game slaps the debuff onto him each time he's presented with an opportunity to kill himself trying to save someone in danger and doesn't fall for it.
->>> 
 
->>>> **u/696e6372656469626c65** [+14]  *I think, therefore I am pretentious.**
+>>>> **u/696e6372656469626c65** [+13]  *I think, therefore I am pretentious.* (a day later)
 >>>> 
 >>>> Alternatively, if we accept Juniper's hypothesis that the first two girls he met (and didn't save) would have turned out to be Amaryllis, perhaps the Cowardice affliction is an indicator that Juniper just ignored a plot-important *event flag*.
->>>> 
 
->>>> **u/None** [+6] *
+>>>> **u/None** [+5]  (a day later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/cthulhuraejepsen** [+12]  *Fruit flies like a banana**
+>>>>> **u/cthulhuraejepsen** [+12]  *Fruit flies like a banana* (a day later)
 >>>>> 
 >>>>> No joke, second paragraph of the next chapter:
->>>>> > Maybe what I was supposed to have done was go full shonen anime. On hearing that we weren’t likely to win the fight, I should have given a rousing speech about going beyond the impossible and kicking reason to the curb, or believing in the heart of the cards, or being the very best there ever was.
 >>>>> 
+>>>>> > Maybe what I was supposed to have done was go full shonen anime. On hearing that we weren’t likely to win the fight, I should have given a rousing speech about going beyond the impossible and kicking reason to the curb, or believing in the heart of the cards, or being the very best there ever was.
 
->>> **u/Kuratius** [+1] *
+>>> **u/Kuratius** [+1]  (8 days later)
 >>> 
 >>> >Jupiter is on track to becomr a demi god
-
->>> Isn't Jupiter already a god? Or are you implying that Juniper is actually Jupiter?
 >>> 
+>>> Isn't Jupiter already a god? Or are you implying that Juniper is actually Jupiter?
 
-> **u/None** [+5] *
+> **u/None** [+4]  (a day later)
 > 
 > [deleted]
-> 
 
 ---
 

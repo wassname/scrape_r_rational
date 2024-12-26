@@ -2,7 +2,7 @@
 
 * Author: u/DiscyD3rp  *Wannabe Shakespeare**
 * URL: https://www.reddit.com/r/rational/comments/24ilkw/fallout_equestria_rational_expectations/
-* Score: 8
+* Score: 9
 
 * Created: 2014-05-02T04:00:54
 
@@ -61,68 +61,65 @@ any critique welcome.
 
 ### Comments:
 
-> **u/natron88** [+3]  *Ankh-Morpork City Watch**
+> **u/natron88** [+3]  *Ankh-Morpork City Watch* (14 minutes later)
 > 
 > This so far matches the pattern of an engaging story.
-> I would certainly read past this point in the story if more of it was written.
 > 
+> I would certainly read past this point in the story if more of it was written.
 
->> **u/DiscyD3rp** [+3]  *Wannabe Shakespeare**
+>> **u/DiscyD3rp** [+3]  *Wannabe Shakespeare* (20 minutes later)
 >> 
 >> Awesome :D
->> For this comment alone, I'm glad I got off my procrastinating ass for the hour it took to actually *make* something decent.
->> Thank you.
 >> 
+>> For this comment alone, I'm glad I got off my procrastinating ass for the hour it took to actually *make* something decent.
+>> 
+>> Thank you.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (4 hours later)
 >>> 
 >>> Well, you're not even a dozen paragraphs in and already threatening to kill 330 people.  Good show.
->>> 
 
->>>> **u/Threedoge** [+2]  *New Lunar Republic**
+>>>> **u/Threedoge** [+2]  *New Lunar Republic* (9 hours later)
 >>>> 
 >>>> Sounds about on par for the Equestrian Wasteland.
->>>> 
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+4]  (9 hours later)
 >>>>> 
 >>>>> Why do people enjoy nuking a kids' sugar-bowl setting into tiny pieces of slag?
->>>>> 
 
->>>>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (10 hours later)
 >>>>>> 
 >>>>>> Because the setting is *terrifying* if the power of being a kids show lifts for a few minutes? Because people fundamentally prefer reading about bad things happening to people who aren't too much like us? Because the sugarbowl has been done well enough by the source material? 
->>>>>> I'd lean towards a combination of one and three.
 >>>>>> 
+>>>>>> I'd lean towards a combination of one and three.
 
->>>>>>> **u/None** [+6] *
+>>>>>>> **u/None** [+7]  (10 hours later)
 >>>>>>> 
 >>>>>>> >Because the setting is terrifying if the power of being a kids show lifts for a few minutes?
->>>>>>> Yeah, that's the fun part!  They've literally got portals to Greek Hell in their backyard and half the life-forms around are at least *Legend of Zelda*-level monsters that will kill you or mind-rape you without a second thought.
->>>>>>> Then you nuke everything and it's just another survivalist shithole.
 >>>>>>> 
+>>>>>>> Yeah, that's the fun part!  They've literally got portals to Greek Hell in their backyard and half the life-forms around are at least *Legend of Zelda*-level monsters that will kill you or mind-rape you without a second thought.
+>>>>>>> 
+>>>>>>> Then you nuke everything and it's just another survivalist shithole.
 
->>>>>> **u/DiscyD3rp** [+3]  *Wannabe Shakespeare**
+>>>>>> **u/DiscyD3rp** [+3]  *Wannabe Shakespeare* (19 hours later)
 >>>>>> 
 >>>>>> For me the grimdark can be cathartic to read, can't say for sure *why* though.
->>>>>> As for writing it, though, I think the rampant instability and violent potential of powerful magical development combined with an insufficiently savvy society makes for great explorations of game theory and rationalism. I mean, imagine If every major field of study had a nuke level discovery being made, *all at the same time,* and that all of them were heavily balanced in the direction of offense. A magical universe is *terrifying*.
 >>>>>> 
+>>>>>> As for writing it, though, I think the rampant instability and violent potential of powerful magical development combined with an insufficiently savvy society makes for great explorations of game theory and rationalism. I mean, imagine If every major field of study had a nuke level discovery being made, *all at the same time,* and that all of them were heavily balanced in the direction of offense. A magical universe is *terrifying*.
 
->>>>>> **u/Threedoge** [+2]  *New Lunar Republic**
+>>>>>> **u/Threedoge** [+2]  *New Lunar Republic* (10 hours later)
 >>>>>> 
 >>>>>> I think its the same feeling that has us hope for a crash at a NASCAR race, that people watched public executions for, and that drove the popularity of Roman gladiatorial matches.
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (10 hours later)
 >>>>>>> 
 >>>>>>> I guess I'll just file that under "Universal Human Experiences I rarely actually experience."
->>>>>>> OTOH, my favorite character on the show is ~~Discord~~ Q the Troll God.  He really ought to have his own show: John de Lancie Trolls the Multiverse.
 >>>>>>> 
+>>>>>>> OTOH, my favorite character on the show is ~~Discord~~ Q the Troll God.  He really ought to have his own show: John de Lancie Trolls the Multiverse.
 
->>>>>>>> **u/Threedoge** [+1]  *New Lunar Republic**
+>>>>>>>> **u/Threedoge** [+1]  *New Lunar Republic* (10 hours later)
 >>>>>>>> 
 >>>>>>>> Ya, if Q/Discord had his own show I would so be down for that.
->>>>>>>> 
 
 ---
 

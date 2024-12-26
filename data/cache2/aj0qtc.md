@@ -2,7 +2,7 @@
 
 * Author: u/sparkc *
 * URL: https://www.reddit.com/r/rational/comments/aj0qtc/2019_fiction_predictions/
-* Score: 39
+* Score: 36
 
 * Created: 2019-01-23T15:23:41
 
@@ -91,254 +91,314 @@ There's MAJOR SPOILERS for each of the three aforementioned stories.
 
 ### Comments:
 
-> **u/None** [+20] *
+> **u/None** [+20]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/ConnorF42** [+6] *
+>> **u/ConnorF42** [+6]  (8 hours later)
 >> 
 >> In the comment section on Chapter 93 on Patreon the author said in reference to an earlier comment of his apparently, "I said there's 8-10 chapters left. So... the end will come far later than January, I'm afraid."
->> Also average may be more than 3 weeks, considering he has delayed most of the recent chapters by a week.
 >> 
+>> Also average may be more than 3 weeks, considering he has delayed most of the recent chapters by a week.
 
->> **u/sparkc** [+2] *
+>> **u/sparkc** [+2]  (9 hours later)
 >> 
 >> Ah, i was working from the impression that no information had been provided by the author regarding how many chapters remained. I'm happy to hear there's ~10 chapters left from the perspective of story quality.
->> 
 
-> **u/Makin-** [+14]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+16]  *homestuck ratfic, you can do it* (an hour later)
 > 
 > Going to use your template with a couple changes (ignoring PGtE which I don't read). My additions in italics. 
-> **WTC**
-> * WTC will be completed during 2019: 50%
-> * Amaryllis and Joon will end up together: 80%
-> * Fenn will be brought back to life: 80%
-> * *If that happens, it won't happen before the climax of the story: 95%* 
-> * Juniper will turn into Looniper (level obsessed Juniper) again: 50%
-> * Uther intentionally created or became Fel Seed: 75%
-> * Uther is Fel Seed: 50%
-> * Juniper will revisit Earth: 50%
-> * *Juniper will stay on Earth at the end of the story: 20%*
-> * Amaryllis is a clone of Dahlia: 50%
-> * The water mage is Juniper's mom: 75%
-> * *Earth is more "real" than Aerb:* 70%
-> * Shia Labeouf will be summoned: 95%
-> * The 'A Key For Seven Locks' Achievement will be higher than 1/7 by stories end: 95%
-> * The 'A Key For Seven Locks' Achievement will be higher than 2/7 by stories end: 50%
-> * We will see Woodworking 100 by stories end: 10% 
-> * Bethel will attempt to murder Uther: 80%
-> **MoL**
-> * MoL will be completed during 2019: 90%
-> * *The overall reception to MoL's ending by /r/rational denizens will be negative*: 80%
-> * Veyers is Red Robe: 5%
-> * *Either Zach, Zorian or one of their simulacrums/gate clones/etc is Red Robe: 80%*
-> * *If the above isn't true, Fortov is Red Robe: 75%*
-> * QLich will survive until the end: 50% 
-> * Silverlake will work with QLich and/or Red Robe *without planning to stab them in the back*: 30%
-> * The primordial will be released: 60%
-> * Zorian will use mind magic on *a* Zach: 80%
 > 
+> **WTC**
+> 
+> * WTC will be completed during 2019: 50%
+> 
+> * Amaryllis and Joon will end up together: 80%
+> 
+> * Fenn will be brought back to life: 80%
+> 
+> * *If that happens, it won't happen before the climax of the story: 95%* 
+> 
+> * Juniper will turn into Looniper (level obsessed Juniper) again: 50%
+> 
+> * Uther intentionally created or became Fel Seed: 75%
+> 
+> * Uther is Fel Seed: 50%
+> 
+> * Juniper will revisit Earth: 50%
+> 
+> * *Juniper will stay on Earth at the end of the story: 20%*
+> 
+> * Amaryllis is a clone of Dahlia: 50%
+> 
+> * The water mage is Juniper's mom: 75%
+> 
+> * *Earth is more "real" than Aerb:* 70%
+> 
+> * Shia Labeouf will be summoned: 95%
+> 
+> * The 'A Key For Seven Locks' Achievement will be higher than 1/7 by stories end: 95%
+> 
+> * The 'A Key For Seven Locks' Achievement will be higher than 2/7 by stories end: 50%
+> 
+> * We will see Woodworking 100 by stories end: 10% 
+> 
+> * Bethel will attempt to murder Uther: 80%
+> 
+> **MoL**
+> 
+> * MoL will be completed during 2019: 90%
+> 
+> * *The overall reception to MoL's ending by /r/rational denizens will be negative*: 80%
+> 
+> * Veyers is Red Robe: 5%
+> 
+> * *Either Zach, Zorian or one of their simulacrums/gate clones/etc is Red Robe: 80%*
+> 
+> * *If the above isn't true, Fortov is Red Robe: 75%*
+> 
+> * QLich will survive until the end: 50% 
+> 
+> * Silverlake will work with QLich and/or Red Robe *without planning to stab them in the back*: 30%
+> 
+> * The primordial will be released: 60%
+> 
+> * Zorian will use mind magic on *a* Zach: 80%
 
->> **u/sambelulek** [+3]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+3]  *Ulquaan Ibasa Liquor Smuggler* (3 days later)
 >> 
 >> >If the above isn't true,
->> This is a sloppy way to predict stuff.
 >> 
+>> This is a sloppy way to predict stuff.
 
-> **u/alexanderwales** [+15]  *Time flies like an arrow**
+> **u/alexanderwales** [+14]  *Time flies like an arrow* (11 hours later)
 > 
 > Re: WtC completion in 2019
+> 
 > The [word count document is here](https://docs.google.com/spreadsheets/d/1PaLrwVYgxp_SYHtkred7ybpSJPHL88lf4zB0zMKmk1E/edit?usp=sharing). Average words per day (WPD) since February 7th, 2018 was 1085. There are 342 days until December 31st, 2019. Assuming historical rates of writing, that means that by December 31st, 2019, and assuming that it doesn't end, *Worth the Candle* would be another 392,000 words longer than it is today.
+> 
 > For this, we need two probabilities:
+> 
 > * How likely is it that writing on *Worth the Candle* will exceed an average of 1085 WPD?
 > * How likely is it that there are more than 392,000 words until the end of *Worth the Candle*?
+> 
 > I suppose two different people could have very different answers to both of those questions, and come to the same conclusions about end date, i.e. someone thinks writing will go really slow, but also thinks that the end is relatively close, and someone else who thinks the writing will go fast, but that there's a lot of ground to cover before the end.
+> 
 > For my own prediction, the only ones that I'll be making:
+> 
 > * 80% chance that work on *Worth the Candle* will continue at a rate of roughly 1085 WPD until completion
 > * 70% chance that there are less than 392,000 words until the end of *Worth the Candle* (21,000 of these are already written for the next update, and ~15,000 are already written for future updates)
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+3]  (11 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+9]  *Time flies like an arrow* (11 hours later)
 >>> 
 >>> Depends on the speculation. Sometimes it's a feeling of relief, because people noticed the things that they were meant to notice, and that I had worried were either too obvious or two subtle. Sometimes there are good ideas, which I wish that I'd thought of but don't have room for, or which are contradicted by the text in a few places.
->>> *Sometimes* though, it's speculation about things that I know won't come to pass, and I always feel a little guilty about not being able to deliver on things that people want to happen, because I'm not writing quite the story that they want, I'm writing the story that *I* want.
 >>> 
+>>> *Sometimes* though, it's speculation about things that I know won't come to pass, and I always feel a little guilty about not being able to deliver on things that people want to happen, because I'm not writing quite the story that they want, I'm writing the story that *I* want.
 
->>>> **u/Anderkent** [+5] *
+>>>> **u/Anderkent** [+5]  (21 hours later)
 >>>> 
 >>>> > Sometimes though, it's speculation about things that I know won't come to pass, and I always feel a little guilty about not being able to deliver on things that people want to happen, because I'm not writing quite the story that they want, I'm writing the story that I want.
->>>> I don't think guilt is the right emotion there! People like speculating on possibilities in fictional worlds, but that doesn't mean they are disappointed when something else comes to happen. If all speculation comes true, the story is too predictable :P
->>>> /u/Kuiper had a great comment about exactly that, which you've probably seen, but linking it anyway: https://www.reddit.com/r/rational/comments/9jugqw/what_storytelling_techniques_have_you_learnt_from/e6uj7ld/
 >>>> 
+>>>> I don't think guilt is the right emotion there! People like speculating on possibilities in fictional worlds, but that doesn't mean they are disappointed when something else comes to happen. If all speculation comes true, the story is too predictable :P
+>>>> 
+>>>> /u/Kuiper had a great comment about exactly that, which you've probably seen, but linking it anyway: https://www.reddit.com/r/rational/comments/9jugqw/what_storytelling_techniques_have_you_learnt_from/e6uj7ld/
 
->>>>> **u/Xtraordinaire** [+2]  *Team Glimglam**
+>>>>> **u/Xtraordinaire** [+2]  *Team Glimglam* (a day later)
 >>>>> 
 >>>>> Whoah how did I miss this gem. Thanks for bringing it up!
->>>>> 
 
-> **u/Lightwavers** [+10]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+12]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (an hour later)
 > 
 > Shia Labeouf will be summoned: 99%
-> Juniper has a plan for him that he hasn't yet revealed. He will almost certainly be forced to summon and then deal with him.
 > 
+> Juniper has a plan for him that he hasn't yet revealed. He will almost certainly be forced to summon and then deal with him.
 
->> **u/kaukamieli** [+5] *
+>> **u/kaukamieli** [+5]  (2 hours later)
 >> 
 >> Plan = when shit hits the fan, mutually assured destruction and hope GM approves.
->> 
 
-> **u/eternal-potato** [+9]  *he who vegetates**
+> **u/eternal-potato** [+8]  *he who vegetates* (2 hours later)
 > 
 > **WTC**
-> * The entire story is just another game Juniper is playing (and likely DMing) with his friends, except it is happening in a posthumanist future which allows the simulation fidelity that we see: 20%
 > 
+> * The entire story is just another game Juniper is playing (and likely DMing) with his friends, except it is happening in a posthumanist future which allows the simulation fidelity that we see: 20%
 
-> **u/eltegid** [+7] *
+> **u/eltegid** [+7]  (a day later)
 > 
 > ...what water mage? What have I missed?
-> 
 
-> **u/dbenc** [+6] *
+> **u/dbenc** [+6]  (7 hours later)
 > 
 > MoL:
-> \- Zorian gets his hands on Silverlake's youth potion by story end (or epilogue): 75%
-> \- Zorian gets a divine blessing before the primordial release: 80%
-> \- Zach has had his memories tampered with: 90%
-> \- Zorian takes over the cranium rats for his own use: 60%
-> \- The potions developed by Kael will have a pivotal role: 90%
-> \- Zorian's self-mind modifications will make it possible to mind-magic the primordial (or at least perform way better than expected): 75%
 > 
+> \- Zorian gets his hands on Silverlake's youth potion by story end (or epilogue): 75%
+> 
+> \- Zorian gets a divine blessing before the primordial release: 80%
+> 
+> \- Zach has had his memories tampered with: 90%
+> 
+> \- Zorian takes over the cranium rats for his own use: 60%
+> 
+> \- The potions developed by Kael will have a pivotal role: 90%
+> 
+> \- Zorian's self-mind modifications will make it possible to mind-magic the primordial (or at least perform way better than expected): 75%
 
->> **u/iceman012** [+4] *
+>> **u/iceman012** [+5]  (a day later)
 >> 
 >> I mean, hasn't it already been explicitly stated that Zach has had his memories tampered with, since he has no memories of how he got in the loop?
->> 
 
->>> **u/dbenc** [+1] *
+>>> **u/dbenc** [+1]  (a day later)
 >>> 
 >>> Ah I forgot about that... make it 100% then 😅
->>> 
 
->> **u/fassina2** [+3]  *Progressive Overload**
+>> **u/fassina2** [+3]  *Progressive Overload* (9 hours later)
 >> 
 >> \> - Zorian gets his hands on Silverlake's youth potion by story end (or epilogue): 75% 
->> &#x200B;
->> It'd be a cool HPMOR reference if he found a way of sharing immortality with everybody.
 >> 
+>> &#x200B;
+>> 
+>> It'd be a cool HPMOR reference if he found a way of sharing immortality with everybody.
 
-> **u/vimefer** [+3] *
+> **u/vimefer** [+5]  (18 hours later)
 > 
 > My leanings so far:
-> **PGtE**
-> * Malicia will survive Book 5: No
-> * Saint of Swords will survive Book 5: No, and I think the Pilgrim will finish her
-> * Black will survive Book 5: inclined to say No, but...
-> * The Tyrant will survive Book 5: yes, and by exploiting narrative no less
-> * Pilgrim will survive Book 5: No
-> * One of the Woe (Akua not included) die in Book 5: yes, in fact I think 2 of them will die
-> * Akua will betray the Woe in Book 5: yes, but as part of a bigger double-cross, because come on it's Akua
-> * Akua will heroically sacrifice herself in Book 5: No, she'll move unto something else entirely
-> * Cordelia Hasenbach will be First Prince by the end of Book 5: yes
-> * Procer as a nation will exist by the end of Book 5: yes, it'll split north/south despite Cordelia's resolve
-> * Black becomes Dread Emperor by the end of Book 5: No
-> * Black will attempt to remove Malicia as Dread Empress by the end of Book 5: yes
-> *Hail Dread Empress Catherine ~~"Vindictive"~~ Victorious First of her name*
 > 
+> **PGtE**
+> 
+> * Malicia will survive Book 5: No
+> 
+> * Saint of Swords will survive Book 5: No, and I think the Pilgrim will finish her
+> 
+> * Black will survive Book 5: inclined to say No, but...
+> 
+> * The Tyrant will survive Book 5: yes, and by exploiting narrative no less
+> 
+> * Pilgrim will survive Book 5: No
+> 
+> * One of the Woe (Akua not included) die in Book 5: yes, in fact I think 2 of them will die
+> 
+> * Akua will betray the Woe in Book 5: yes, but as part of a bigger double-cross, because come on it's Akua
+> 
+> * Akua will heroically sacrifice herself in Book 5: No, she'll move unto something else entirely
+> 
+> * Cordelia Hasenbach will be First Prince by the end of Book 5: yes
+> 
+> * Procer as a nation will exist by the end of Book 5: yes, it'll split north/south despite Cordelia's resolve
+> 
+> * Black becomes Dread Emperor by the end of Book 5: No
+> 
+> * Black will attempt to remove Malicia as Dread Empress by the end of Book 5: yes
+> 
+> *Hail Dread Empress Catherine ~~"Vindictive"~~ Victorious First of her name*
 
->> **u/None** [+6] *
+>> **u/None** [+5]  (a day later)
 >> 
 >> The author said that if Cat was ever Empress she would be "Victorious."
->> 
 
->>> **u/vimefer** [+2] *
+>>> **u/vimefer** [+2]  (6 days later)
 >>> 
 >>> And now there's a quote from "Dread emperor Vindictive II" introducing Chapter 7. He did it on purpose I swear !
->>> 
 
->>> **u/EsquilaxM** [+1] *
+>>> **u/EsquilaxM** [+1]  (5 months later)
 >>> 
 >>> That....sounds really really similar to Triumphant. Just painting targets on her back
->>> 
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (5 hours later)
 > 
 > I thought it would be fun to make a google sheet for this for easier comparisons: https://docs.google.com/spreadsheets/d/1YkxeAllnnf_8xlnePSdSIRsEX_H94uxEldLWNQzagvM/edit?usp=sharing
-> Feel free to add a column for yourself, or add more rows with more predictions. I populated it with the predictions in the OP and added a few 'Red Robe is ...' entries.
-> ---
-> My own take:
-> I haven't read PGtE, but for WtC I generally think joon will probably end up with amaryllis, uther is not fel seed, and both earth and aerb are simulations. (I also think that the DM has 'read-only' access to earth and runs aerb as a garage hacker project.)
-> Don't really have any idea where MoL is going, though, except I think
-> > MoL will be completed during 2019: 30%
-> is kind of low, given nobody's statements about how many chapters are left.
 > 
+> Feel free to add a column for yourself, or add more rows with more predictions. I populated it with the predictions in the OP and added a few 'Red Robe is ...' entries.
+> 
+> ---
+> 
+> My own take:
+> 
+> I haven't read PGtE, but for WtC I generally think joon will probably end up with amaryllis, uther is not fel seed, and both earth and aerb are simulations. (I also think that the DM has 'read-only' access to earth and runs aerb as a garage hacker project.)
+> 
+> Don't really have any idea where MoL is going, though, except I think
+> 
+> > MoL will be completed during 2019: 30%
+> 
+> is kind of low, given nobody's statements about how many chapters are left.
 
->> **u/bpgbcg** [+2] *
+>> **u/bpgbcg** [+2]  (7 hours later)
 >> 
 >> Oh this is great, about to add my predictions.
->> 
 
->> **u/suyjuris** [+1] *
+>> **u/suyjuris** [+1]  (6 hours later)
 >> 
 >> I like this idea! Added mine.
->> 
 
->>> **u/bpgbcg** [+2] *
+>>> **u/bpgbcg** [+2]  (7 hours later)
 >>> 
 >>> Did you make a mistake in the Red Robe predictions? Yours add up to 161%. Unless you think that these aren't mutually exclusive somehow?
->>> 
 
->>>> **u/suyjuris** [+2] *
+>>>> **u/suyjuris** [+2]  (19 hours later)
 >>>> 
 >>>> Good question! I did not really think about giving a single reasonable probability distribution for a combination of events, just that I minimise the cross-entropy loss on each prediction. (That is the reason there are no 0 or 1s in there.) That said, maybe normalising the probabilities in this case would have been correct, I am not sure how the math works out.
->>>> 
 
-> **u/NZPIEFACE** [+4] *
+> **u/NZPIEFACE** [+3]  (2 hours later)
 > 
 > >MoL will be completed during 2019: 30%
+> 
 > Boi.
+> 
 > >Amaryllis and Joon will end up together: 75%
+> 
 > >Fenn will be brought back to life: 60%
+> 
 > Ah, took me a while to realize you were talking about Worth the Candle. And took me a while to realize, "wait those are spoilers".  
 > ... maybe i should read the opening paragraph first.
-> 
 
-> **u/HereticalRants** [+3] *
+> **u/HereticalRants** [+2]  (16 hours later)
 > 
 > The way these headers are set up, a lot of people are going to skim down into the bulleted lists pretty quickly, probably without seeing the disclaimer about spoilers at the start, so maybe it would be better to *not* write the titles in abbreviated form so people have an actual chance of knowing what they're looking at before they get too deep into it
-> 
 
-> **u/vimefer** [+1] *
+> **u/vimefer** [+1]  (18 hours later)
 > 
 > And:
-> **WTC**
-> * WTC will be completed during 2019: No
-> * Amaryllis and Joon will end up together: Yes
-> * Fenn will be brought back to life: No
-> * Juniper will turn into Looniper (level obsessed Juniper) again: Yes
-> * Uther intentionally created or became Fel Seed: Yes, he metaphorically tried to create a boulder he couldn't lift
-> * Uther is Fel Seed: maybe
-> * Juniper will revisit Earth: Yes
-> * Amaryllis is a clone of Dahlia: No, or at most a magical-clone-something
-> * The water mage is Juniper's mom: Nice !
-> * Earth is a simulation: yes, a simulation meant to generate themes and narratives for more simulations
-> * Shia Labeouf will be summoned: Yes, Shekov's gun of mutually assured bloody gutting is already locked and loaded.
-> * The 'A Key For Seven Locks' Achievement will be higher than 1/7 by stories end: Yes
-> * The 'A Key For Seven Locks' Achievement will be higher than 2/7 by stories end: No
-> * We will see Woodworking 100 by stories end: Yes
-> * Bethel will attempt to murder Uther: No. Castrate, though ? Hmm.
 > 
+> **WTC**
+> 
+> * WTC will be completed during 2019: No
+> 
+> * Amaryllis and Joon will end up together: Yes
+> 
+> * Fenn will be brought back to life: No
+> 
+> * Juniper will turn into Looniper (level obsessed Juniper) again: Yes
+> 
+> * Uther intentionally created or became Fel Seed: Yes, he metaphorically tried to create a boulder he couldn't lift
+> 
+> * Uther is Fel Seed: maybe
+> 
+> * Juniper will revisit Earth: Yes
+> 
+> * Amaryllis is a clone of Dahlia: No, or at most a magical-clone-something
+> 
+> * The water mage is Juniper's mom: Nice !
+> 
+> * Earth is a simulation: yes, a simulation meant to generate themes and narratives for more simulations
+> 
+> * Shia Labeouf will be summoned: Yes, Shekov's gun of mutually assured bloody gutting is already locked and loaded.
+> 
+> * The 'A Key For Seven Locks' Achievement will be higher than 1/7 by stories end: Yes
+> 
+> * The 'A Key For Seven Locks' Achievement will be higher than 2/7 by stories end: No
+> 
+> * We will see Woodworking 100 by stories end: Yes
+> 
+> * Bethel will attempt to murder Uther: No. Castrate, though ? Hmm.
 
-> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (3 days later)
 > 
 > Yes, it's much fun. I'd also love to indulge. But the name of 'rational,' which one of its strong point is solid deduction, prevent me from doing so here. Well, unless I'm willing to write up reasons behind my wild speculation, which is too much work at the moment.
-> I'm not fun at the party :(
 > 
+> I'm not fun at the party :(
 
 ---
 

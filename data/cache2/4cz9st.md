@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Amonwilde** [+1] *
+> **u/Amonwilde** [+1]  (3 hours later)
 > 
 > boo
-> 
 
 ---
 

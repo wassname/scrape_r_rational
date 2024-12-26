@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/AngelaCastir** [+1] *
+> **u/AngelaCastir** [+1]  (2 minutes later)
 > 
 > Hopefully it's obvious enough what's happening in this chapter - some exposition about Red's backstory and his relationship with his sister (sorry for people who were hoping for juicy vampire politics). 
-> We're moving back to a slower release schedule, but with chapters long enough to sink your fangs into: I declare last chapter's experiment over.
-> Release schedule is hoping to be about 8 more updates this year, so 4 full chapters - www.beeminder.com/mad/chapters will more or less correspond to the release schedule.
 > 
+> We're moving back to a slower release schedule, but with chapters long enough to sink your fangs into: I declare last chapter's experiment over.
+> 
+> Release schedule is hoping to be about 8 more updates this year, so 4 full chapters - www.beeminder.com/mad/chapters will more or less correspond to the release schedule.
 
 ---
 

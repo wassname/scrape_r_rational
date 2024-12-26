@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://heroessavetheworld.wordpress.com/2017/04/08/sunlight-ch-06-vihaan-sengupta/
-* Score: 8
+* Score: 7
 
 * Created: 2017-04-12T05:29:24
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (34 seconds later)
 > 
 > Long chapter, so just one this week. 
-> I apologize for the late update; I've been traveling today and yesterday.
 > 
+> I apologize for the late update; I've been traveling today and yesterday.
 
 ---
 

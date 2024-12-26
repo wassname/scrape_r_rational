@@ -12,11 +12,11 @@ I love thinking about what makes a story compelling.  One thing that is obvious 
 
 ### Comments:
 
-> **u/GlueBoy** [+8]  *anti-skub**
+> **u/GlueBoy** [+8]  *anti-skub* (6 hours later)
 > 
 > Some interesting ideas. I disagree that viewers/readers are constantly predicting the future and updating their predictions, that this is a part of the story telling experience. If anything, the current trend of fast paced, dialogue-light blockbusters that can be consumed agnostically by anyone in the world is proof against it. They are pure Id/system 1 experience, no thinking or forethought required. 
-> But I do like world building for its own sake, i.e. not just in service to a narrative, so I'll check out your podcast.
 > 
+> But I do like world building for its own sake, i.e. not just in service to a narrative, so I'll check out your podcast.
 
 ---
 

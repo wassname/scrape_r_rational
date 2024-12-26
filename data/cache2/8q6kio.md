@@ -2,7 +2,7 @@
 
 * Author: u/Zayits *
 * URL: https://practicalguidetoevil.wordpress.com/2018/06/11/chapter-19-recovery/
-* Score: 76
+* Score: 72
 
 * Created: 2018-06-11T04:02:14
 
@@ -12,86 +12,83 @@
 
 ### Comments:
 
-> **u/inscrutablescooter** [+12] *
+> **u/inscrutablescooter** [+11]  (10 hours later)
 > 
 > "A slower one passed by, but I wasn’t going anywhere near something that looked like a hole of darkness sucking in everything if I could help it."
-> One more data point in favour of Absence shenanigans, perhaps?
 > 
+> One more data point in favour of Absence shenanigans, perhaps?
 
->> **u/HeWhoBringsDust** [+13] *
+>> **u/HeWhoBringsDust** [+12]  (10 hours later)
 >> 
 >> The one sphere that’s a bunch of ivory jigsaw pieces constantly rearranging themselves sounds like the Demon Of Hierarchy
->> 
 
-> **u/CeruleanTresses** [+9] *
+> **u/CeruleanTresses** [+11]  (12 hours later)
 > 
 > I really liked this chapter. Great look into Masego's head, especially when we got to see his mental representations of his friends. Cat threading the needle through the dialogue with that pure-researcher fragment of him was tense as fuck, and I was impressed by how quickly she zeroed in on the right buttons to push while he was in that state. And when his humanity returned at the end! That made me feel emotions.
-> 
 
->> **u/Razorhead** [+17] *
+>> **u/Razorhead** [+17]  (16 hours later)
 >> 
 >> > That made me feel emotions.
->> Distraction. Kill it.
 >> 
+>> Distraction. Kill it.
 
->>> **u/CeruleanTresses** [+2] *
+>>> **u/CeruleanTresses** [+2]  (16 hours later)
 >>> 
 >>> One of the best lines in the chapter IMO! Perfect introduction to that fragment of Masego's mind--you instantly know exactly what you're dealing with.
->>> 
 
-> **u/Ardvarkeating101** [+24]  *Father of Learning**
+> **u/Ardvarkeating101** [+25]  *Father of Learning* (15 minutes later)
 > 
 > I have received a fascinating look into the mind of an obsessive autistic.
-> Sorry, I just came back from /r/drama, what's this chapter about?
 > 
+> Sorry, I just came back from /r/drama, what's this chapter about?
 
->> **u/ashinator92** [+11] *
+>> **u/ashinator92** [+11]  (23 minutes later)
 >> 
 >> Feels like a "not much happened" kind of chapter.
->> Maybe this and 'Court 2' could be swapped?
 >> 
+>> Maybe this and 'Court 2' could be swapped?
 
-> **u/ForgottenToupee** [+10] *
+> **u/ForgottenToupee** [+11]  (34 minutes later)
 > 
 > I don't really have the imagination to appreciate chapters like this. I have a hard time visualizing things that don't have a parallel to reality, so as much as I hate to say it, I was pretty bored by this chapter.
-> 
 
->> **u/HeWhoBringsDust** [+15] *
+>> **u/HeWhoBringsDust** [+14]  (10 hours later)
 >> 
 >> I just imagined a fancier more chaotic Orrery. Something like this, but with a ton more planets moving randomly at different speeds:
->> https://www.ebay.co.uk/itm/Orrery-Classic-handcrank-solar-system-9-planets-in-beautiful-stone-or-brass-/263201508248
->> (eBay link, but it was the closest thing I could find from google images.)
->> Fitting that his mind/soul is an orrery considering they’re used to understand the movement of the planets
 >> 
+>> https://www.ebay.co.uk/itm/Orrery-Classic-handcrank-solar-system-9-planets-in-beautiful-stone-or-brass-/263201508248
+>> 
+>> (eBay link, but it was the closest thing I could find from google images.)
+>> 
+>> Fitting that his mind/soul is an orrery considering they’re used to understand the movement of the planets
 
->>> **u/ForgottenToupee** [+2] *
+>>> **u/ForgottenToupee** [+2]  (11 hours later)
 >>> 
 >>> Oooooh, yeah that helps a lot. I’ve never seen one of those before!
->>> 
 
->> **u/CeruleanTresses** [+4] *
+>> **u/CeruleanTresses** [+4]  (16 hours later)
 >> 
 >> I feel like the meat of this chapter wasn't the structure of the mind-environment, but the opportunity to explore Masego's character and his dynamic with Cat. His soul was basically laid out on a dissection table for our examination--an analogy I'm sure he'd relate to.
->> 
 
->> **u/DTravers** [+1] *
+>> **u/DTravers** [+1]  (11 hours later)
 >> 
 >> I have the same problem, but thankfully I was able to use [a Half-Life level](http://www.nextdimension.org/bmrf/HL_BMRF_LambdaReactorCore.jpg) as a template to help me imagine, just recoloured white and gold.
->> As a side note I've imagined the inside of my own head several times, with a furnace at the lower level representing my spirit/emotions, with the higher level housing the library (memories) and control room (thought). 
->> Emotions, meanwhile, are substances that build up as a result of the state of mind and the things happening to me - the destructive magma of anger, the suffocating water of sadness/depression, the scars of shame, the bright light of happiness/pride. These all interact with the aforementioned systems in different ways, with anger flaring up my spirit and demanding to be vented, depression interpreting and tainting sensor data in a negative light, as well as damping down my spirit (making it a useful countermeasure to anger), and shame poisoning memories. Happiness is a rare but extremely valuable light, cleaning away corruption and restoring memories to less painful versions, at the cost of inflating my ego.
 >> 
+>> As a side note I've imagined the inside of my own head several times, with a furnace at the lower level representing my spirit/emotions, with the higher level housing the library (memories) and control room (thought). 
+>> 
+>> Emotions, meanwhile, are substances that build up as a result of the state of mind and the things happening to me - the destructive magma of anger, the suffocating water of sadness/depression, the scars of shame, the bright light of happiness/pride. These all interact with the aforementioned systems in different ways, with anger flaring up my spirit and demanding to be vented, depression interpreting and tainting sensor data in a negative light, as well as damping down my spirit (making it a useful countermeasure to anger), and shame poisoning memories. Happiness is a rare but extremely valuable light, cleaning away corruption and restoring memories to less painful versions, at the cost of inflating my ego.
 
-> **u/rumblestiltsken** [+4] *
+> **u/rumblestiltsken** [+3]  (23 hours later)
 > 
 > >“Difficult research isn’t for everyone,” I continued. “I’m sure someone will eventually get around to explaining it to you.”
-> Haha. One of my favourite lines so far. C'mon Cat, there is difference between bluntly challenging his reality and asking for a dagger in the back.
-> Even real world Zeze woulda stabbed you for that.
 > 
+> Haha. One of my favourite lines so far. C'mon Cat, there is difference between bluntly challenging his reality and asking for a dagger in the back.
+> 
+> Even real world Zeze woulda stabbed you for that.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (20 hours later)
 > 
 > Editing for this chapter was real bad
-> 
 
 ---
 

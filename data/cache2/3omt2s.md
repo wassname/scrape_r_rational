@@ -2,7 +2,7 @@
 
 * Author: u/Nighzmarquls *
 * URL: https://www.reddit.com/r/rational/comments/3omt2s/bstdq_supernaturalsoftware_override_based/
-* Score: 3
+* Score: 0
 
 * Created: 2015-10-13T20:37:57
 
@@ -24,32 +24,29 @@ Thoughts, discussions, munchkins and so on that you might use given this are wel
 
 ### Comments:
 
-> **u/DocFuture** [+3] *
+> **u/DocFuture** [+3]  (an hour later)
 > 
 > Easiest way to depict it would as a kind of artificially increased susceptibility to things like [affinity fraud](https://en.wikipedia.org/wiki/Affinity_fraud)  There are plenty of real world examples of natural forms of it--royalty and celebrity come to mind.
-> 
 
-> **u/NotAHeroYet** [+3]  *City of Angles Municipal Government**
+> **u/NotAHeroYet** [+3]  *City of Angles Municipal Government* (a day later)
 > 
 > Start by having someone explicitly, and self-evidently dull having people hang on their every word, or let someone self-evidently socially awkward's speeches, insipid and bland material, stick in a characters mind despite this. In other words, have them demonstrate success without competence, or even with incompetence, and the sooner the better.
-> Maybe let the character have little, niggling feelings something is wrong, or something similar, when it's present, or just mention how "it felt so right" afterwards. little things that show the hijacking, without the character realizing it.
-> i presume someone sufficiently self-aware can analyze their thoughts in retrospect, right? If so, your character could realize far too late to do anything about it.
 > 
+> Maybe let the character have little, niggling feelings something is wrong, or something similar, when it's present, or just mention how "it felt so right" afterwards. little things that show the hijacking, without the character realizing it.
+> 
+> i presume someone sufficiently self-aware can analyze their thoughts in retrospect, right? If so, your character could realize far too late to do anything about it.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 hours later)
 > 
 > Software based - everyone's got computer interfaces in their brains, and some bright soul decided to hook up a hormone-regulation system with hard limits to make using it lethally very difficult. Think the glands in the Culture. This is mostly used by people on themselves, but there's a hack that can grant some measure of control over the system to another person within the scope of a short-range broadcast. Your main character has a background process running in his skull that exploits the hack automatically on the people around him, making them feel happier, more agreeable, etc.
-> 
 
-> **u/gvsmirnov** [+2] *
+> **u/gvsmirnov** [+2]  (11 hours later)
 > 
 > Something that might give you inspiration is the [Harry Potter and the Natural 20](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20) fic. In there, the main character has low charisma points, and the author does an excellent job at showing it in the dialogues.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (20 hours later)
 > 
 > Hey, remember the Apple of Eden in Assassin's Creed?  *That's* how.  Except with a lot less conspiracy theories and schizophrenia.
-> 
 
 ---
 

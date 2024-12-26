@@ -60,220 +60,213 @@ Avoiding other spoilers, does Velika remain a relevant character post 108?
 
 ### Comments:
 
-> **u/LordSwedish** [+33]  *Q Continuum**
+> **u/LordSwedish** [+34]  *Q Continuum* (3 hours later)
 > 
 > I feel like this is missing the point that Lady V was essentially a tyrant who had seized the city and was holding them all hostage. The watch had one single chance to kill her and from their perspective, retake the city and overthrow a dictator. Sure they acted rashly, but all this talk about how Velika hadn't killed anyone misses the point that they were entirely justified in attempting to assassinate her. Their reasons for trying to kill her were arguably more valid than her self-defense, are we arguing that occupying dictators are the ones in the right when defending themselves against resistance movements? 
-> What happened was a tragedy, but Velika was decidedly the antagonist of it. The entire thing could have been avoided if she came clean, but she couldn't because she was a dictator ruling by the equivalent of military might and she couldn't show weakness.
-> We as the audience know that it wouldn't have solved the main problem, but we also know that if it weren't for Rain then this entire plot by the Citizens was so stupid and reliant on a single point of failure that the entire city would have died.
 > 
+> What happened was a tragedy, but Velika was decidedly the antagonist of it. The entire thing could have been avoided if she came clean, but she couldn't because she was a dictator ruling by the equivalent of military might and she couldn't show weakness.
+> 
+> We as the audience know that it wouldn't have solved the main problem, but we also know that if it weren't for Rain then this entire plot by the Citizens was so stupid and reliant on a single point of failure that the entire city would have died.
 
->> **u/ansible** [+25]  *The Culture**
+>> **u/ansible** [+25]  *The Culture* (3 hours later)
 >> 
 >> >...   that the entire city would have died.
->> The city **did** die, for all practical purposes.
->> Had Velika and Westbridge not invaded and put up the barrier, the Watch and the Guild could have handled the rank shift so much better.  For starters, more of them would have been alive to help, and they wouldn't have been constantly drained of mana trying to charge the barrier.
->> Let's not sideline that point, theirs was the inciting action that caused the death of practically the entire population.  Now, it would well be argued that because of the *other* invasion force (that subsequently slipped away unscathed), they were equally screwed.  But the Watch, Guild and Halgrave (sp?) could have put up a good fight for that at least.
 >> 
+>> The city **did** die, for all practical purposes.
+>> 
+>> Had Velika and Westbridge not invaded and put up the barrier, the Watch and the Guild could have handled the rank shift so much better.  For starters, more of them would have been alive to help, and they wouldn't have been constantly drained of mana trying to charge the barrier.
+>> 
+>> Let's not sideline that point, theirs was the inciting action that caused the death of practically the entire population.  Now, it would well be argued that because of the *other* invasion force (that subsequently slipped away unscathed), they were equally screwed.  But the Watch, Guild and Halgrave (sp?) could have put up a good fight for that at least.
 
->>> **u/LordSwedish** [+31]  *Q Continuum**
+>>> **u/LordSwedish** [+31]  *Q Continuum* (4 hours later)
 >>> 
 >>> Also, whenever someone invades you for your own good, it is perfectly reasonable to tell them to fuck off.
->>> 
 
->>> **u/TheColourOfHeartache** [+13] *
+>>> **u/TheColourOfHeartache** [+12]  (4 hours later)
 >>> 
 >>> > Now, it would well be argued that because of the other invasion force (that subsequently slipped away unscathed), they were equally screwed. But the Watch, Guild and Halgrave (sp?) could have put up a good fight for that at least.
->>> I'd agree there. That army beat a whole strike team of citizens, Halgrave had no chance. 
->>> That said, I think from the POV of the average civilian they'd be better off under the empire. That army wouldn't kill them and might even protect them from the rank shift. Velika ignored them to sulk while the city died.
 >>> 
+>>> I'd agree there. That army beat a whole strike team of citizens, Halgrave had no chance. 
+>>> 
+>>> That said, I think from the POV of the average civilian they'd be better off under the empire. That army wouldn't kill them and might even protect them from the rank shift. Velika ignored them to sulk while the city died.
 
->> **u/sibswagl** [+11] *
+>> **u/sibswagl** [+12]  (6 hours later)
 >> 
 >> I think something can be morally right but tactically really dumb. Like, I 100% agree that the Watch are justified in trying to take back the city. But like, it was still a dumb call. They're betting *a lot* on trying to take Velika off-guard, in a poor situation (the whole "she evaded their attacks by just re-entering the dungeon" thing), on the hope that she defeated them individually or in small groups and would lose against the entire group.
->> 
 
->>> **u/IICVX** [+8] *
+>>> **u/IICVX** [+9]  (16 hours later)
 >>> 
 >>> Yeah exactly. 
->>> Death to tyrants is an excellent motivation, but, like, try at least a little bit to make sure it's the *tyrant* who dies?
 >>> 
+>>> Death to tyrants is an excellent motivation, but, like, try at least a little bit to make sure it's the *tyrant* who dies?
 
->>> **u/LordSwedish** [+2]  *Q Continuum**
+>>> **u/LordSwedish** [+2]  *Q Continuum* (2 days later)
 >>> 
 >>> But is there any chance that a chance this good would come again? Is there any certainty that she would re-enter the dungeon again rather than send underlings? They had to do something before she became established and this was their only option. If she had been slightly slower or farther out she probably would have died.
->>> I honestly don't see a better option for them except lay down and hope this awful plan doesn't result in the entire city and most of the people being destroyed...
 >>> 
+>>> I honestly don't see a better option for them except lay down and hope this awful plan doesn't result in the entire city and most of the people being destroyed...
 
->>>> **u/sibswagl** [+1] *
+>>>> **u/sibswagl** [+1]  (2 days later)
 >>>> 
 >>>> That’s fair. This was probably their best option, and there’s something to be said for taking decisive action, rather than just hoping Velika won’t kill anyone else.
->>>> 
 
-> **u/kaukamieli** [+29] *
+> **u/kaukamieli** [+28]  (3 hours later)
 > 
 > >As far as I can tell, the Watch only retaliated because of hurt pride.
-> ​She conquered their city! https://i.redd.it/qlmqh292nmj31.jpg
 > 
+> ​She conquered their city! https://i.redd.it/qlmqh292nmj31.jpg
 
->> **u/DragonGod2718** [-8] *
+>> **u/DragonGod2718** [-8]  (4 hours later)
 >> 
 >> Is this a serious or joking reply? Retaliating entirely because of the conquest feels like hurt pride.  
->> If they expected that living under Lady V's rule would be suffering, I think the retaliation would have been justifiable. As far as I can tell, they did not have this expectation.
 >> 
+>> If they expected that living under Lady V's rule would be suffering, I think the retaliation would have been justifiable. As far as I can tell, they did not have this expectation.
 
->>> **u/None** [+18] *
+>>> **u/None** [+18]  (4 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/None** [+26] *
+>>>> **u/None** [+27]  (4 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
-> **u/TheColourOfHeartache** [+16] *
+> **u/TheColourOfHeartache** [+15]  (4 hours later)
 > 
 > I disagree about Velika. Firstly she was the instigator of the conflict, she invaded the city through military might and held everyone hostage. Given that the locals have a de-facto right to rebel for freedom - especially since this is a pre-modern world. Peaceful protests and referendums are not a practical option in this world. 
-> Secondly Velika was becoming increasingly erratic and unstable in her behaviour, and this is someone who could physically kill the entire city one by one without much trouble. In addition to her decreasing stability she was on the verge of tipping into a death spiral where she terrifies people to rule through fear, then people make mistakes because they're terrified, so she kills more people to set an example, repeat until rock bottom. Remember that she was shown struggling to tell the difference between mistakes and treachery. 
-> Given this the watch had two options: Do nothing and pray she climbs out of her funk. Take your one chance to kill her while you can. We as readers know the solution is the first one, because Rain quite quickly found a way to control the barrier and that will make Velika calm down. The watch did not. They had two high risk choices and chose.
 > 
+> Secondly Velika was becoming increasingly erratic and unstable in her behaviour, and this is someone who could physically kill the entire city one by one without much trouble. In addition to her decreasing stability she was on the verge of tipping into a death spiral where she terrifies people to rule through fear, then people make mistakes because they're terrified, so she kills more people to set an example, repeat until rock bottom. Remember that she was shown struggling to tell the difference between mistakes and treachery. 
+> 
+> Given this the watch had two options: Do nothing and pray she climbs out of her funk. Take your one chance to kill her while you can. We as readers know the solution is the first one, because Rain quite quickly found a way to control the barrier and that will make Velika calm down. The watch did not. They had two high risk choices and chose.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (3 days later)
 >> 
 >> > Secondly Velika was becoming increasingly erratic and unstable in her behaviour, and this is someone who could physically kill the entire city one by one without much trouble. In addition to her decreasing stability she was on the verge of tipping into a death spiral where she terrifies people to rule through fear, then people make mistakes because they're terrified, so she kills more people to set an example, repeat until rock bottom. Remember that she was shown struggling to tell the difference between mistakes and treachery.
->> I don't think the Watch was aware of this? Or rather, I don't recall any indication that this was something they were informed of let alone that they were acting on it.
 >> 
+>> I don't think the Watch was aware of this? Or rather, I don't recall any indication that this was something they were informed of let alone that they were acting on it.
 
-> **u/ArgentStonecutter** [+19]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+21]  *Emergency Mustelid Hologram* (3 hours later)
 > 
 > Velika is also the agent of an invader that has so far as they can tell doomed them to die horribly inside an impenetrable bubble. And they have no access to her internal dialog.
-> 
 
->> **u/DragonGod2718** [-4] *
+>> **u/DragonGod2718** [-3]  (4 hours later)
 >> 
 >> > Velika is also the agent of an invader that has so far as they can tell doomed them to die horribly inside an impenetrable bubble.  
->> Was there a reason to expect that killing her would help them escape? I don't think they believed that. They never attempted to get the information on how to escape from her. I am sceptical that escaping the barrier was a salient motivation.
 >> 
+>> Was there a reason to expect that killing her would help them escape? I don't think they believed that. They never attempted to get the information on how to escape from her. I am sceptical that escaping the barrier was a salient motivation.
 
->>> **u/xamueljones** [+24]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+23]  *My arch-enemy is entropy* (5 hours later)
 >>> 
 >>> There were a lot of unknown facts, and the Watch was acting on guesswork for most of their actions, but there were several things they believed to be true.
+>>> 
 >>> 1. The barrier was under Velika's control, so if she died either the barrier would drop automatically due to the user of a System skill dying, or they could retrieve some remote for controlling it from her corpse. Obviously they were wrong about this, but it's hard to guess something like that Westbridge trapped her in Fel Sadanis with everyone else. Or even that the barrier was a Magistraal artifact which had been hidden in the city for centuries without detection.
 >>> 2. If they didn't attack her as she was leaving the dungeon, they will never get any other chance to beat her. This part is true, because Velika would have sent any member of her new guards to lead any future dungeon parties. Also dungeons take a while to recover, which could have cost time the city didn't have.
 >>> 3. If they didn't commit fully to attacking her, they would lose. As we saw, a near-Gold like Velika was unbeatable in a fight against multiple Silvers and hordes of Bronzes. Levels have an exponential effect on an individual's strength. So if they hadn't thrown everything they had at her, it was a guaranteed loss.
 >>> 4. They would have succeeded in killing her if they committed fully to attacking her. This part was completely correct as can be seen by how Velika's leg was completely wrecked and took significant time to mend afterwards. The Watch actually attacked slightly too soon and gave Velika the ability to escape from most of the attacks by ducking back into the dungeon. If they had waited possibly a second later for her to take a few more steps away from the dungeon, then they might have won in killing her.
 >>> 5. If they gave up and did nothing, the Watch would die under Velika and/or the DKE. This part is very accurate. Velika is an unpredictable individual who can and has killed people with no reason (eg. Melka). You can argue that she isn't that unstable, but from the Watch's perspective, she can't be trusted to be consistent and reliable. Furthermore, while the DKE says that they have the city's best interests in mind, they are still an invading army. Invading armies have no reason to leave the current law enforcement in place or to even release them. The Watch could expect to be executed by the DKE (the DKE could likely just claim they were "resisting" or something like that).
->>> 
 
->>> **u/Flashbunny** [+8] *
+>>> **u/Flashbunny** [+9]  (5 hours later)
 >>> 
 >>> She appeared to be in control of the barrier. If they wanted to bring it down, they had to kill her, because if they didn't then from their perspective she would likely kill *them.*
->>> This was a screwup entirely of Velika's own making.
 >>> 
+>>> This was a screwup entirely of Velika's own making.
 
->>>> **u/DragonGod2718** [+1] *
+>>>> **u/DragonGod2718** [+1]  (3 days later)
 >>>> 
 >>>> > If they wanted to bring it down, they had to kill her
->>>> Why didn't they make any attempt to learn how to operate/disable the barrier from her?
 >>>> 
+>>>> Why didn't they make any attempt to learn how to operate/disable the barrier from her?
 
->>>>> **u/Flashbunny** [+6] *
+>>>>> **u/Flashbunny** [+5]  (3 days later)
 >>>>> 
 >>>>> Because if she wanted it to be up, she had no reason to comply, and doing so would tip her off that they were planning something.
->>>>> 
 
-> **u/gramineous** [+13] *
+> **u/gramineous** [+13]  (2 hours later)
 > 
 > An organisation that solves serious situations with martial might (or the threat of it) tries to use martial might to solve a situation. I don't think that counts as an idiot ball. People not properly adapting to facing a new threat and using outdated strategies/thinking is pretty standard, look at the responses to climate change for example.
-> Throw in the stress of the situation and the fear of the Watch "losing" here negatively affecting the Watch as a whole organisation as they are perceived as weaker by their enemies and there's sufficient justification for the sequence of events, even if it ain't the best path for them to take.
-> I could just be bias because I like the story and all though, so grains of salt and all.
-> Anyway I've been reading ahead, super short answer is that Rain leaves Fel Seldanis and Velika doesn't follow him.
 > 
+> Throw in the stress of the situation and the fear of the Watch "losing" here negatively affecting the Watch as a whole organisation as they are perceived as weaker by their enemies and there's sufficient justification for the sequence of events, even if it ain't the best path for them to take.
+> 
+> I could just be bias because I like the story and all though, so grains of salt and all.
+> 
+> Anyway I've been reading ahead, super short answer is that Rain leaves Fel Seldanis and Velika doesn't follow him.
 
-> **u/lillarty** [+7] *
+> **u/lillarty** [+6]  (22 hours later)
 > 
 > > Avoiding other spoilers, does Velika remain a relevant character post 108?
-> Everyone else seems to be ignoring this final question, but the answer is no. Due to Rain's plans, she is not relevant anymore and it doesn't seem likely she will become relevant. 
-> Perhaps my read is wrong though, so other people chime in if you disagree.
 > 
+> Everyone else seems to be ignoring this final question, but the answer is no. Due to Rain's plans, she is not relevant anymore and it doesn't seem likely she will become relevant. 
+> 
+> Perhaps my read is wrong though, so other people chime in if you disagree.
 
-> **u/DragonGod2718** [+5] *
+> **u/DragonGod2718** [+2]  (7 hours later)
 > 
 > Given that most people think the Watch's decisions was reasonable given what they know (and that I'm aware I have a massive Velika bias), I'll be making a significant update in that direction.
-> 
 
->> **u/EsquilaxM** [+3] *
+>> **u/EsquilaxM** [+3]  (17 hours later)
 >> 
 >> Reading the comments us confusing, as I thought the watch didn't think she was going around killing people willy nilly or had any reason to think killing her would drop the dome.
->> 
 
->>> **u/DragonGod2718** [+1] *
+>>> **u/DragonGod2718** [+1]  (a day later)
 >>> 
 >>> I agree with this.
->>> 
 
-> **u/Dragfie** [+6] *
+> **u/Dragfie** [+6]  (40 minutes later)
 > 
 > No. I felt that she is set up as being the deus-ex-machinima solution to a future problem, but given the pace that sounds like its going to be over a year.
-> 
 
->> **u/gramineous** [+12] *
+>> **u/gramineous** [+11]  (2 hours later)
 >> 
 >> How do you draw the line between a deus ex machina and Chekhov's gun here?
->> 
 
->>> **u/Dragfie** [+2] *
+>>> **u/Dragfie** [+2]  (11 hours later)
 >>> 
 >>> Uh, i wasn't being too serious. Could be that, sure.
->>> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (3 days later)
 >> 
 >> Mhm.
->> 
 
-> **u/EsquilaxM** [+7] *
+> **u/EsquilaxM** [+6]  (an hour later)
 > 
 > I agree, the watch fucked up. We knew they were a faulty organisation, hypocritical and lacking self awareness, but this attack was a very very bad decision, for all the reasons you gave. I'm hoping there was a reason behind it that we don't know, something that the upper brass, the warden and goldplates, are privy to.
-> It's happened a couple of times in the past that I've been disappointed by how stupid some decisions characters make are, then later find out they had their reasons (like The Mad King's plan in Blood Song and the explanation given in the opening chapters of the sequel) so thats what I'm hoping for here.
-> I think Rain is aware that his feelings towards Velika aren't fair. I think he'll resolve that in time.
-> I, too, don't expect Velika to come back for a very long time.
 > 
+> It's happened a couple of times in the past that I've been disappointed by how stupid some decisions characters make are, then later find out they had their reasons (like The Mad King's plan in Blood Song and the explanation given in the opening chapters of the sequel) so thats what I'm hoping for here.
+> 
+> I think Rain is aware that his feelings towards Velika aren't fair. I think he'll resolve that in time.
+> 
+> I, too, don't expect Velika to come back for a very long time.
 
-> **u/MilesSand** [+3] *
+> **u/MilesSand** [+3]  (a day later)
 > 
 > First thing she did upon entering the city was murder a guard. Them she got scolded and her guardian cast resurrection and smoothed it all over.
-
-> Then she went and established herself as ruler using the threat of violence.
-> Then she went on and proved herself incompetent at managing subordinates who have their own subordinates. In other words, unfit to rule.
-> Not sure how you missed all the lack of any redeeming features for a leadership role
 > 
+> Then she went and established herself as ruler using the threat of violence.
+> 
+> Then she went on and proved herself incompetent at managing subordinates who have their own subordinates. In other words, unfit to rule.
+> 
+> Not sure how you missed all the lack of any redeeming features for a leadership role
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (3 days later)
 >> 
 >> > Not sure how you missed all the lack of any redeeming features for a leadership role
->> I never claimed she was a capable leader.
 >> 
+>> I never claimed she was a capable leader.
 
->>> **u/MilesSand** [+2] *
+>>> **u/MilesSand** [+2]  (5 days later)
 >>> 
 >>> You only had a problem with the local police forces trying to depose her and called it injured pride.
->>> 
 
-> **u/Makin-** [+4]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+4]  *homestuck ratfic, you can do it* (8 hours later)
 > 
 > https://cdn.discordapp.com/attachments/437697099383963668/775427358534008853/unknown.png
-> 
 
->> **u/DragonGod2718** [+0] *
+>> **u/DragonGod2718** [+0]  (a day later)
 >> 
 >> Based.
->> 
 
->>> **u/zorianteron** [+2] *
+>>> **u/zorianteron** [+2]  (4 days later)
 >>> 
 >>> The only good post.
->>> 
 
 ---
 

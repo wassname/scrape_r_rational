@@ -15,15 +15,13 @@ On his world, being leader is symbolized by a shell on your door.
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (20 hours later)
 > 
 > It took me quite some time to realize you weren't describing a story that you had meant to link to but forgotten, and instead were searching for and asking us for help to find.
-> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (20 hours later)
 >> 
 >> that's entirely my bad. I was mostly asleep.
->> 
 
 ---
 

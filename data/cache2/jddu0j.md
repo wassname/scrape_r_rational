@@ -2,7 +2,7 @@
 
 * Author: u/erwgv3g34 *
 * URL: https://www.fimfiction.net/story/174671/seeking-power
-* Score: 26
+* Score: 23
 
 * Created: 2020-10-18T10:08:42
 
@@ -12,11 +12,14 @@
 
 ### Comments:
 
-> **u/erwgv3g34** [+10] *
+> **u/erwgv3g34** [+11]  (3 minutes later)
 > 
 > When _Seeking Power_ stopped updating in 2014, many though it was dead. Turns out, such was not the case. Forthwith has rewritten the fanfic and has updated it with 3 new chapters!
+> 
 > [Here](https://www.fimfiction.net/blog/909012/seeking-power-revision-notes) are the revision notes, [here](http://forthwithfic.com/ow/sp/sp_index.php) is the original version of _Seeking Power_ for anybody who wants to read it, and [here](https://www.fimfiction.net/story/175016/across-the-boundary) is the side story collection _Across the Boundary_.
+> 
 > For those of you who have read [_The Moon's Apprentice_](https://www.fimfiction.net/story/196256/the-moons-apprentice), this fic is by the same guy, so you have an idea of what to expect, (though this fanfic's Twilight is less of a social manipulator and more of a massive autist). For those who haven't, I think the chapter one scene where Twilight splits her mind into different personalities to solve a problem should set the tone nicely. For context, Twilight has just learned that Luna is coming back from her thousand-year banishment in in two months and that Celestia has no way to stop her.
+> 
 > > “Uh-huh. Anyway, will you give me a few minutes to absorb everything so far?”
 > > 
 > > Getting a nod from Celestia, Twilight turned inward and divided her thoughts into the usual three strains to debate the matter before her: Advocate to suggest ideas, Opposition to tear them apart, and Overseer to keep order.
@@ -86,24 +89,20 @@
 > > _I request more information._
 > >
 > > Twilight broke out of her conversation with herself, merging back into one coherent pony without the illusion of multiple trains of thought. She shook off the momentary disorientation she experienced upon exiting the headspace and turned to Celestia to ask for more information about the Elements.
-> 
 
->> **u/Luminous_Lead** [+2] *
+>> **u/Luminous_Lead** [+2]  (2 days later)
 >> 
 >> Oooh, reminds me of Daystar Eld's treatment of tupples
->> 
 
->> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+>> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (2 days later)
 >> 
 >> Yeah it's been more than a month already,
 >> I though there was a new chapter when I saw this but guess not.
 >> It's on my top 10 of pony fic, only hindered by not being finished and taking a long time to udapte.
->> 
 
-> **u/mcgruntman** [+3] *
+> **u/mcgruntman** [+3]  (7 hours later)
 > 
 > Excellent, Seeking Power was my favourite ponyfic. This version of Twilight is such a nerd.
-> 
 
 ---
 

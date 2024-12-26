@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/2ms1nz/q_seeking_a_rationalbeta_reader/
-* Score: 6
+* Score: 8
 
 * Created: 2014-11-19T15:50:12
 
@@ -22,52 +22,50 @@ Note:^4 A few people have volunteered now, but I'm still accepting help. Even if
 
 ### Comments:
 
-> **u/capsless** [+4]  *despiser of hpmor**
+> **u/capsless** [+4]  *despiser of hpmor* (2 hours later)
 > 
 > ooo, ooo, pick me. i'll help.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 hours later)
 >> 
 >> All help is appreciated, thank you.
->> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a Dropbox link to the download.
 >> 
+>> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a Dropbox link to the download.
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (6 hours later)
 > 
 > I'm willing to help with scientific knowledge, particularly mathematics and computer science since I'm majoring in computer science and minoring in math.
 > I don't know how well I can help with being a rational reader though. I've mostly read LessWrong sequences on How to Actually Change Your Mind and a lot of rational fiction and have some limited experience in being a Wise Reader.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (6 hours later)
 >> 
 >> All help is appreciated, and I thank you.
->> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a link to the Dropbox download.
->> Note: I'm not certain how much knowledge of mathematics or computer science is going to be required for the early parts, though it will be more useful later on (because plot reasons!).
 >> 
+>> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a link to the Dropbox download.
+>> 
+>> Note: I'm not certain how much knowledge of mathematics or computer science is going to be required for the early parts, though it will be more useful later on (because plot reasons!).
 
-> **u/Askspencerhill** [+2]  *I almost stole Cruithne's flair**
+> **u/Askspencerhill** [+2]  *I almost stole Cruithne's flair* (a day later)
 > 
 > Ooh cool I wanna help
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> All help is appreciated, thank you.
->> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a link to the Dropbox download.
->> Note: I'm kind of caught up with some tests and stuff in real life, but as soon as I finish up the rather tremendous amount of stuff I have going on, I'm intending to finish up chapter three, and edit chapter two, neither of which should take me long. So, just keep that in mind while reading.
 >> 
+>> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a link to the Dropbox download.
+>> 
+>> Note: I'm kind of caught up with some tests and stuff in real life, but as soon as I finish up the rather tremendous amount of stuff I have going on, I'm intending to finish up chapter three, and edit chapter two, neither of which should take me long. So, just keep that in mind while reading.
 
-> **u/ianstlawrence** [+2] *
+> **u/ianstlawrence** [+2]  (2 days later)
 > 
 > I'd like to offer my services as well.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> I appreciate all help, and thank you.
->> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a link to the Dropbox download.
 >> 
+>> [Here](https://www.dropbox.com/s/nutu2tz6ma4exa6/Decagon.docx?dl=0) is a link to the Dropbox download.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: https://www.reddit.com/r/rational/comments/3dwt4f/star_wars_episode_iii_revenge_of_the_methods/
-* Score: 5
+* Score: 3
 
 * Created: 2015-07-20T04:41:42
 
@@ -324,165 +324,199 @@ Anakin slumps in his seat, letting out a held breath. Obi Wan chuckles as he loo
 
 ### Comments:
 
-> **u/FeepingCreature** [+10]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+11]  *GCV Literally The Entire Culture* (8 hours later)
 > 
 > _Two hours later..._
-> "So, before you ask, yes, I noticed."
-> "Noticed what, Anakin?" Obi-wan asks confusedly.
-> "That the Chancellor is Sith, obviously," Anakin replies irritatedly; "I mean, 'kill him, boy, strike him down'; seriously? Wait, you mean this wasn't a test?"
-> _Always there are two, master and apprentice_, and Obi-wan groans with sudden understanding. "But the Force..."
-> "Well, it did feel like a trap," Anakin remarks. "Explains why he seemingly got eviller after you were knocked out; hiding from a Jedi master can't be easy."
-> "So, the Chancellor fancies you his new apprentice then," Obi-wan observes after a moment's contemplation, and Anakin's eyes go wide. "I wonder how we can use that."
 > 
+> "So, before you ask, yes, I noticed."
+> 
+> "Noticed what, Anakin?" Obi-wan asks confusedly.
+> 
+> "That the Chancellor is Sith, obviously," Anakin replies irritatedly; "I mean, 'kill him, boy, strike him down'; seriously? Wait, you mean this wasn't a test?"
+> 
+> _Always there are two, master and apprentice_, and Obi-wan groans with sudden understanding. "But the Force..."
+> 
+> "Well, it did feel like a trap," Anakin remarks. "Explains why he seemingly got eviller after you were knocked out; hiding from a Jedi master can't be easy."
+> 
+> "So, the Chancellor fancies you his new apprentice then," Obi-wan observes after a moment's contemplation, and Anakin's eyes go wide. "I wonder how we can use that."
 
-> **u/callmebrotherg** [+10]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+9]  *now posting as /u/callmesalticidae* (6 minutes later)
 > 
 > Most of this could probably be cut. It's not really dissimilar from canon. 
-> Maybe set it at the point that Anakin gets the rational!upgrade?
 > 
+> Maybe set it at the point that Anakin gets the rational!upgrade?
 
->> **u/Pluvialis** [+6]  *Second Age Sauron**
+>> **u/Pluvialis** [+6]  *Second Age Sauron* (11 hours later)
 >> 
 >> As I couldn't detect any differences at the beginning, I skimmed ahead to figure out where it diverged. I couldn't find it - mind helping me out?
->> 
 
->>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (23 hours later)
 >>> 
 >>> Can't help you. I stopped reading thoroughly halfway through, skimmed the other half, didn't see anything, and just assumed that there were changes. :/
->>> 
 
->> **u/Sagebrysh** [+3]  *Rank 7 Pragmatist**
+>> **u/Sagebrysh** [+5]  *Rank 7 Pragmatist* (12 minutes later)
 >> 
 >> Technically he would have already gotten the 'seed' of it before the start of the story, the point of divergence is already in the past, it'll just take some time to actually, you know, diverge. I could have skipped forward to the parts where the divergence really becomes significant, but episode III really isn't all that long, so I thought it'd present a more unified piece if I just started where the movie started and ran from there. There's still some changes, Obi Wan losing his hand, etc, but yeah, I do hear where you're coming from. I might end up cutting this part out, but I do think it helps set up the story a bit.
->> 
 
->>> **u/boomfarmer** [+5]  *Trying to be helpful**
+>>> **u/boomfarmer** [+5]  *Trying to be helpful* (9 hours later)
 >>> 
 >>> With the exception of Obi-Wan losing his hand, to me this reads pretty much like canon.
->>> Also, have you considered writing in the past tense and using semicolons? Comma splices are weird.
 >>> 
+>>> Also, have you considered writing in the past tense and using semicolons? Comma splices are weird.
 
->>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (9 hours later)
 >>>> 
 >>>> I usually do past tense, I thought the presence tense might work better for this though. Its something of an experiment still at this point.
->>>> 
 
->>>>> **u/TimeLoopedPowerGamer** [+4]  *Utopian Smut Peddler**
+>>>>> **u/TimeLoopedPowerGamer** [+4]  *Utopian Smut Peddler* (11 hours later)
 >>>>> 
 >>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>> 
+>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>> 
+>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>> 
+>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>> 
+>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>> 
+>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>> 
+>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>> 
+>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (19 hours later)
 >>>>>> 
 >>>>>> I didn't intend to, I'm not sure what you mean by a comma splice?
->>>>>> 
 
->>>>>>> **u/TimeLoopedPowerGamer** [-1]  *Utopian Smut Peddler**
+>>>>>>> **u/TimeLoopedPowerGamer** [-3]  *Utopian Smut Peddler* (20 hours later)
 >>>>>>> 
 >>>>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>>>> 
+>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>>>> 
+>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>>>> 
+>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>>>> 
+>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>>>> 
+>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>>>> 
+>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>>>> 
+>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>>>>>> 
 >>>>>>>> > physically hurts experienced native English readers to constantly encounter comma splices
->>>>>>>> >You must fix this if you want strangers on the internet to read what you write. It is a major, major issue. You can also work around this.
->>>>>>>> Typical mind.
 >>>>>>>> 
+>>>>>>>> >You must fix this if you want strangers on the internet to read what you write. It is a major, major issue. You can also work around this.
+>>>>>>>> 
+>>>>>>>> Typical mind.
 
->>>>>>>>> **u/TimeLoopedPowerGamer** [-2]  *Utopian Smut Peddler**
+>>>>>>>>> **u/TimeLoopedPowerGamer** [-2]  *Utopian Smut Peddler* (a day later)
 >>>>>>>>> 
 >>>>>>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>>>>>> 
+>>>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>>>>>> 
+>>>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>>>>>> 
+>>>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>>>>>> 
+>>>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>>>>>> 
+>>>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>>>>>> 
+>>>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>>>>>> 
+>>>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>>>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>>>>>>>> **u/Transfuturist** [+5]  *Carthago delenda est.* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Fine then. I'm stating that you're projecting your mental anguish at noticing comma splices onto all native English speakers. I in fact read that entire conversation, and while I consider correct grammar to be important, I do not find things like comma splices physically painful, as your own psychosomatic hyperbole would suggest. I think you're overstating it as an issue and needlessly concerning a hobby author, let alone a *beginner*, with a minor mistake pattern. "Shame on you?" Really? You've been ridiculous in this entire thread.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/TimeLoopedPowerGamer** [-2]  *Utopian Smut Peddler**
+>>>>>>>>>>> **u/TimeLoopedPowerGamer** [-2]  *Utopian Smut Peddler* (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>>>>>>>> 
+>>>>>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>>>>>>>> 
+>>>>>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>>>>>>>> 
+>>>>>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>>>>>>>> 
+>>>>>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>>>>>>>> 
+>>>>>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>>>>>>>> 
+>>>>>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>>>>>>>> 
+>>>>>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >pathetic outrage
->>>>>>>>>>>> lol ok
 >>>>>>>>>>>> 
+>>>>>>>>>>>> lol ok
 
->>>>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>>>>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (21 hours later)
 >>>>>>>> 
 >>>>>>>> I see now. Essentially, I should be using much fewer commas and many more periods. That being said, I have a fear of breaking up a sentence too much and having it become stilted feeling. Like. Even with having read the wikipedia article, I'm not entirely sure where my commas are appropriate and where they aren't. Was the comma in that last sentence used correctly or was that a splice? I worry I could easily go too far the other direction and end up with an endless chain of sentence fragments. Should I simply try and reduce my number of splices or are they never in any way acceptable? I look at the above responses I have to you, which you said contained splices, and rewrote them below:
->>>>>>>> >I usually do past tense. I thought the presence tense might work better for this though. Its something of an experiment still at this point.
->>>>>>>> >I didn't intend to. I'm not sure what you mean by a comma splice?
->>>>>>>> This feels..choppy. I can't explain exactly what I mean by that, but I can't imagine myself *speaking* in that manner. When I read the sentences that are 'fixed' *they* are the ones that feel wrong in my head, not the original versions. And I *am* a native english speaker. Is this really this much of an issue? I mean I've gone through enough college lit that I feel like I should have encountered this before today if it was that much of an issue. Does it become more pronounced when I'm writing in the present tense? 
->>>>>>>> Not trying to sound whiny or anything, I do want to improve my writing and above all I want people to *enjoy* my writing. Still though, when I look at a correction and it seems worse then the original version, I have to ask these questions.
->>>>>>>> And I just realized there's probably a splice in the last paragraph.
->>>>>>>> >Not trying to sound whiny or anything. I do want to improve my writing and above all I want people to *enjoy* my writing. Still though. when I look at a correction and it seems worse then the original version I have to ask these questions.
->>>>>>>> That *doesn't feel better* to me. I'm sorry but I'm really not getting it I'm afraid.
 >>>>>>>> 
+>>>>>>>> >I usually do past tense. I thought the presence tense might work better for this though. Its something of an experiment still at this point.
+>>>>>>>> 
+>>>>>>>> >I didn't intend to. I'm not sure what you mean by a comma splice?
+>>>>>>>> 
+>>>>>>>> This feels..choppy. I can't explain exactly what I mean by that, but I can't imagine myself *speaking* in that manner. When I read the sentences that are 'fixed' *they* are the ones that feel wrong in my head, not the original versions. And I *am* a native english speaker. Is this really this much of an issue? I mean I've gone through enough college lit that I feel like I should have encountered this before today if it was that much of an issue. Does it become more pronounced when I'm writing in the present tense? 
+>>>>>>>> 
+>>>>>>>> Not trying to sound whiny or anything, I do want to improve my writing and above all I want people to *enjoy* my writing. Still though, when I look at a correction and it seems worse then the original version, I have to ask these questions.
+>>>>>>>> 
+>>>>>>>> And I just realized there's probably a splice in the last paragraph.
+>>>>>>>> 
+>>>>>>>> >Not trying to sound whiny or anything. I do want to improve my writing and above all I want people to *enjoy* my writing. Still though. when I look at a correction and it seems worse then the original version I have to ask these questions.
+>>>>>>>> 
+>>>>>>>> That *doesn't feel better* to me. I'm sorry but I'm really not getting it I'm afraid.
 
->>>>>>>>> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler**
+>>>>>>>>> **u/TimeLoopedPowerGamer** [+3]  *Utopian Smut Peddler* (23 hours later)
 >>>>>>>>> 
 >>>>>>>>> Reddit has long been a hot spot for conversation on the internet. About 57 million people visit the site every day to chat about topics as varied as makeup, video games and pointers for power washing driveways.
->>>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
->>>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
->>>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
->>>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
->>>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
->>>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
->>>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 >>>>>>>>> 
+>>>>>>>>> In recent years, Reddit’s array of chats also have been a free teaching aid for companies like Google, OpenAI and Microsoft. Those companies are using Reddit’s conversations in the development of giant artificial intelligence systems that many in Silicon Valley think are on their way to becoming the tech industry’s next big thing.
+>>>>>>>>> 
+>>>>>>>>> Now Reddit wants to be paid for it. The company said on Tuesday that it planned to begin charging companies for access to its application programming interface, or A.P.I., the method through which outside entities can download and process the social network’s vast selection of person-to-person conversations.
+>>>>>>>>> 
+>>>>>>>>> “The Reddit corpus of data is really valuable,” Steve Huffman, founder and chief executive of Reddit, said in an interview. “But we don’t need to give all of that value to some of the largest companies in the world for free.”
+>>>>>>>>> 
+>>>>>>>>> The move is one of the first significant examples of a social network’s charging for access to the conversations it hosts for the purpose of developing A.I. systems like ChatGPT, OpenAI’s popular program. Those new A.I. systems could one day lead to big businesses, but they aren’t likely to help companies like Reddit very much. In fact, they could be used to create competitors — automated duplicates to Reddit’s conversations.
+>>>>>>>>> 
+>>>>>>>>> Reddit is also acting as it prepares for a possible initial public offering on Wall Street this year. The company, which was founded in 2005, makes most of its money through advertising and e-commerce transactions on its platform. Reddit said it was still ironing out the details of what it would charge for A.P.I. access and would announce prices in the coming weeks.
+>>>>>>>>> 
+>>>>>>>>> Reddit’s conversation forums have become valuable commodities as large language models, or L.L.M.s, have become an essential part of creating new A.I. technology.
+>>>>>>>>> 
+>>>>>>>>> L.L.M.s are essentially sophisticated algorithms developed by companies like Google and OpenAI, which is a close partner of Microsoft. To the algorithms, the Reddit conversations are data, and they are among the vast pool of material being fed into the L.L.M.s. to develop them.
 
->>>>>>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>>>>>>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> > Ask in writing groups for people who want to volunteer to be a beta reader, or "beta". Let them read your creative writing and accept their technical help in rewriting your rough* drafts. Note when things you release are unbeta'd (i.e. rough drafts). But usually, rough drafts aren't published "publically", where tens of thousands of people are likely to read them and clutch their heads in pain.
->>>>>>>>>> I've been looking for beta readers for a while now actually. It got to the point where I just said 'screw it' and started just pushing stuff out there as I went. I've asked in this subreddit for beta readers before, on other forums I follow, on facebook...no one seems all that interested.
 >>>>>>>>>> 
+>>>>>>>>>> I've been looking for beta readers for a while now actually. It got to the point where I just said 'screw it' and started just pushing stuff out there as I went. I've asked in this subreddit for beta readers before, on other forums I follow, on facebook...no one seems all that interested.
 
->>>>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (21 hours later)
 >>>>>>>>> 
 >>>>>>>>> Try using semicolons in place of the periods you replaced commas with. For instance: "Not trying to sound whiny or anything; I do want to improve my writing and above all I want people to enjoy my writing."
->>>>>>>>> 
 
->>>>>>>>>> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist**
+>>>>>>>>>> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist* (22 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I do like semicolons; is that a proper use for one? ;_;
->>>>>>>>>> 
 
->>>>>>>>>>> **u/boomfarmer** [+0]  *Trying to be helpful**
+>>>>>>>>>>> **u/boomfarmer** [+0]  *Trying to be helpful* (3 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > "Not trying to sound whiny or anything; I do want to improve my writing and above all I want people to enjoy my writing."
->>>>>>>>>>> Augh no. "Not trying to sound whiny or anything" is not a complete clause. It's incomplete. It has neither subject nor verb. This is where you *would* use a comma.
 >>>>>>>>>>> 
+>>>>>>>>>>> Augh no. "Not trying to sound whiny or anything" is not a complete clause. It's incomplete. It has neither subject nor verb. This is where you *would* use a comma.
 
 ---
 

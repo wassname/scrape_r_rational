@@ -2,7 +2,7 @@
 
 * Author: u/bobbananaville *
 * URL: https://www.reddit.com/r/rational/comments/2ycdbd/throwing_ideas_out_for_anyone_who_wants_them_bst_d/
-* Score: 16
+* Score: 15
 
 * Created: 2015-03-08T15:41:19
 
@@ -35,60 +35,58 @@ I gave up on this when I realized I had no idea where I wanted to go with this.
 
 ### Comments:
 
-> **u/DCarrier** [+5] *
+> **u/DCarrier** [+4]  (15 hours later)
 > 
 > "Money" as we know it would probably be largely replaced by status and favors. Property would still exist, but you could only own things nearby. You might do a huge favor for your neighbor, in exchange for trading houses.
-> Most jobs would become unnecessary. This means most of the population would probably be rendered unemployed, and most of the downsides of this would be avoided.
-> I could imagine jobs like manning power plants which would normally require far too much paperwork to pay for conventionally could involve some weird kind of taxation. If the power man asks for something, you give it to him. If someone doesn't, they're shunned. If they aren't shunned, the entire block loses power for a week. Then again, maybe these jobs would be rare enough for volunteer work on its own. And maybe volunteer work is nothing but this, done on such an instinctual level that we don't even notice it.
-> Murder would obviously be much less important. Bureaucracy would have to be massively reduced. Much of crime would probably be punished by shunning, but in cases where it's necessary it would be entirely possible to just lock someone up again each week. You know where they are after all. Or you could repeatedly kill them for a while.
-> Pregnancy and STDs would no longer be an issue. The consequences of that are obvious.
-> What exactly are you doing for people who die during the week? Based on the first story you mentioned, they lose all memories?
 > 
+> Most jobs would become unnecessary. This means most of the population would probably be rendered unemployed, and most of the downsides of this would be avoided.
+> 
+> I could imagine jobs like manning power plants which would normally require far too much paperwork to pay for conventionally could involve some weird kind of taxation. If the power man asks for something, you give it to him. If someone doesn't, they're shunned. If they aren't shunned, the entire block loses power for a week. Then again, maybe these jobs would be rare enough for volunteer work on its own. And maybe volunteer work is nothing but this, done on such an instinctual level that we don't even notice it.
+> 
+> Murder would obviously be much less important. Bureaucracy would have to be massively reduced. Much of crime would probably be punished by shunning, but in cases where it's necessary it would be entirely possible to just lock someone up again each week. You know where they are after all. Or you could repeatedly kill them for a while.
+> 
+> Pregnancy and STDs would no longer be an issue. The consequences of that are obvious.
+> 
+> What exactly are you doing for people who die during the week? Based on the first story you mentioned, they lose all memories?
 
->> **u/actually_just_idiot** [+2] *
+>> **u/actually_just_idiot** [+2]  (17 hours later)
 >> 
 >> >"Money" as we know it would probably be largely replaced by status and favors. Property would still exist, but you could only own things nearby. You might do a huge favor for your neighbor, in exchange for trading houses.
->> Right. And there wouldn't be any practical way of tracking this at scale, so house swaps would largely be on the honor system.
 >> 
+>> Right. And there wouldn't be any practical way of tracking this at scale, so house swaps would largely be on the honor system.
 
->> **u/bobbananaville** [+1] *
+>> **u/bobbananaville** [+1]  (2 days later)
 >> 
 >> I was thinking that they loop back to the anchor point along with everyone else who either died or made it to the end of the week.
 >> The story I mentioned was an old man wondering why his family has abandoned him, when only days ago they were crying at his side and making heartfelt promises and taking wonderful care of him.
 >> They've stopped caring. He keeps on living his last hours for all of eternity, wondering where his family's gone, why he isn't dying, why is he all alone, is this hell? etc.
->> As for the crime thing, it should be noted that THEY know where they'll begin as well, and they can go as far away as possible to another place. That said, shunning is a system that makes sense. Especially in what's essentially a very small community, now that you can only travel as far as one can travel in a week without planes (unless you've got a friend who knows how or you know how).
 >> 
+>> As for the crime thing, it should be noted that THEY know where they'll begin as well, and they can go as far away as possible to another place. That said, shunning is a system that makes sense. Especially in what's essentially a very small community, now that you can only travel as far as one can travel in a week without planes (unless you've got a friend who knows how or you know how).
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (2 days later)
 >>> 
 >>> I don't think planes would be much of a problem. They don't need to worry much about safety and maintenance anymore. Although they still might worry enough about security to stop the known rapists or whatever kind of terrible criminal that is worth stopping.
->>> 
 
-> **u/MugaSofer** [+1] *
+> **u/MugaSofer** [+1]  (21 hours later)
 > 
 > Ooh, I really like the video one.
-> 
 
-> **u/itisike** [-1]  *Dragon Army**
+> **u/itisike** [-1]  *Dragon Army* (48 minutes later)
 > 
 > [relevant](https://www.youtube.com/watch?v=CsREOWZ360s)
-> 
 
->> **u/bobbananaville** [+2] *
+>> **u/bobbananaville** [+2]  (an hour later)
 >> 
 >> This is probably an in-joke I'm not getting.
 >> Just to reiterate, these are story ideas I wanted to share in the hopes that someone (preferably someone in the rational-scene, which is why I'm posting it here) would pick them up or at least be inspired by, because I don't think I'll be touching them.
->> 
 
->>> **u/KharakIsBurning** [+1] *
+>>> **u/KharakIsBurning** [+1]  (3 days later)
 >>> 
 >>> Its a joke against Christianity.
->>> 
 
->>> **u/itisike** [+1]  *Dragon Army**
+>>> **u/itisike** [+1]  *Dragon Army* (an hour later)
 >>> 
 >>> I just thought the idea of a video that deletes your memories of it is similar to the video I posted. No joke beyond that.
->>> 
 
 ---
 

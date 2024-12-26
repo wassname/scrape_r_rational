@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/04/15/interlude-concert/
-* Score: 43
+* Score: 44
 
 * Created: 2020-04-15T00:39:33
 
@@ -12,30 +12,29 @@
 
 ### Comments:
 
-> **u/narfanator** [+7] *
+> **u/narfanator** [+5]  (3 hours later)
 > 
 > Well. There is one left to protect it, who is known for orthogonal disdain.   
-
-> Also, it is just me, or was that waaay more serious than any fight of Cat's?
 > 
+> Also, it is just me, or was that waaay more serious than any fight of Cat's?
 
->> **u/None** [+9] *
+>> **u/None** [+8]  (6 hours later)
 >> 
 >> Well, You have weak Heroes with a weak story overmatched by very strong foes, with no army to back them up.  Mirrorknight's group had second and third raters as magi, no priests, no leader.  Hakram of two books ago wouldn't have been able to slay a Duke of the fey.  Roland's group had a spellthief (perhaps without magic) and an artificer.
->> 
 
->> **u/s-mores** [+9] *
+>> **u/s-mores** [+8]  (6 hours later)
 >> 
 >> The power level makes a difference. Rogue took out a Count, but now Rogue and the Artificer are having problems with a Lord, Archer fights off a Baroness here, Hakram and his squad take out a Duke, a Duchess, a Countess, a number of regulars and at least some part of the Prince's power... 
->> Cat took out a count or a baron on her way down, two barons/lords *(titled, but not great)*, then another count on her lonesome. 
->> So yes, the power level here is much higher.
 >> 
+>> Cat took out a count or a baron on her way down, two barons/lords *(titled, but not great)*, then another count on her lonesome. 
+>> 
+>> So yes, the power level here is much higher.
 
->> **u/Banarok** [+1]  *Ankh-Morpork City Watch**
+>> **u/Banarok** [+1]  *Ankh-Morpork City Watch* (2 days later)
 >> 
 >> not any, she was just as serious in the demon battle, but any other, she kind of skips around trying to outsmart the enemy in the middle of combat, so she can't just focus on the battle itself so she come of as playful to push her narrative further, also she does have a dramatic flair
->> this was pure combat without much thought being left to how it would affect a story.
 >> 
+>> this was pure combat without much thought being left to how it would affect a story.
 
 ---
 

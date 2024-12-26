@@ -2,7 +2,7 @@
 
 * Author: u/awesomeideas  *Dai stiho, cousin.**
 * URL: https://www.reddit.com/r/rational/comments/1xgaw5/q_is_there_a_rational_version_of_who_framed_roger/
-* Score: 7
+* Score: 8
 
 * Created: 2014-02-09T19:18:59
 
@@ -16,60 +16,53 @@ It seems like a world ready for rationalist manipulation, yet I haven't found an
 
 ### Comments:
 
-> **u/Traiden04** [+6] *
+> **u/Traiden04** [+8]  (an hour later)
 > 
 > The world runs off of the rule of funny. Be the right kind of straight man for science themed toons and solve the problem of human mortality/world hunger/cheap space travel in a gag.
-> In other words, transcend to god hood with a spit take.
 > 
+> In other words, transcend to god hood with a spit take.
 
->> **u/awesomeideas** [+6]  *Dai stiho, cousin.**
+>> **u/awesomeideas** [+6]  *Dai stiho, cousin.* (an hour later)
 >> 
 >> You're saying someone should use comed-tea?
->> 
 
->>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (a day later)
 >>> 
 >>> *Everyone* should. Sell it in vending machines alongside bottled water.
->>> 
 
-> **u/failed_novelty** [+2] *
+> **u/failed_novelty** [+2]  (55 minutes later)
 > 
 > I strongly suspect that anything relating to the Toons would make a rationalist start drinking and never stop.
-> The simple fact that not knowing you should fall lets you fly would do it for me.
 > 
+> The simple fact that not knowing you should fall lets you fly would do it for me.
 
->> **u/awesomeideas** [+1]  *Dai stiho, cousin.**
+>> **u/awesomeideas** [+1]  *Dai stiho, cousin.* (an hour later)
 >> 
 >> `##Magic Engine 1.04.08`
+>> 
 >> `if (mindstate.fall()==true && physical.fall()==true){`  
 >> `  tFall();`  
 >> `}`
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (4 hours later)
 >>> 
 >>> The big problem here is that any system which relies on actively monitoring mindstates and sometimes only doing things when they're funny is going to be *much* harder to manipulate.
->>> 
 
->>>> **u/ArmokGoB** [+4] *
+>>>> **u/ArmokGoB** [+4]  (5 hours later)
 >>>> 
 >>>> I'd say thats a feature necessary for balance given how powerful they are.
->>>> 
 
-> **u/LordSwedish** [+2]  *Q Continuum**
+> **u/LordSwedish** [+2]  *Q Continuum* (a day later)
 > 
 > The toon force is widely regarded as one of the most powerful forces in fiction and here we have an entire world/town that is made out of it. Any rationalist would ascend to godhood within months or give up on rationality entirely.
-> 
 
-> **u/Suitov** [+1]  *The Culture**
+> **u/Suitov** [+1]  *The Culture* (2 days later)
 > 
 > One of my favourite films of all time, so I'd eat up a good intellectually-rigorous take. Bonus points if white face/red nose partnerships (aka the typical comedy duo, straight man and goof-off) are worked in as some form of exploit or optimisation.
-> 
 
-> **u/KJ6BWB** [+1] *
+> **u/KJ6BWB** [+1]  (11 days later)
 > 
 > Isn't it?  The main character is a detective, trying his best to figure things out.  Does he act manifestly stupid or ignore things that he really should have paid attention to?
-> 
 
 ---
 

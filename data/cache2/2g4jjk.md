@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/2g4jjk/rt_the_jumper_series_by_steven_gould/
-* Score: 15
+* Score: 13
 
 * Created: 2014-09-11T18:26:43
 
@@ -20,64 +20,56 @@ There's a movie, which is okay but not nearly as good as the book. There's also 
 
 ### Comments:
 
-> **u/narfanator** [+8] *
+> **u/narfanator** [+9]  (2 hours later)
 > 
 > There's a thing I'm noticing about the Young Adult genre, in combination with, well, anime - There's very little adult content out there about people  becoming healthier individuals. In other words, there's little [scifi/fant] fiction and media for adults that's uplifting - it's pretty much all about broken people getting more broken, because /drama/.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> There are entire media I've stopped paying attention to because: 
->> >it's pretty much all about broken people getting more broken, because /drama/.
 >> 
+>> >it's pretty much all about broken people getting more broken, because /drama/.
 
->>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (a day later)
 >>> 
 >>> To be clear, the *Jumper* series is the opposite of that (at least, in my opinion). Almost to the point where I almost *expect* the characters to talk things over and go see a therapist if they're experiencing any psychological distress.
->>> 
 
->> **u/Terkala** [+1] *
+>> **u/Terkala** [+1]  (5 hours later)
 >> 
 >> To be fair, stories about someone getting better and more well balanced tend to lack the sort of tension that keeps a book engaging.
->> 
 
->>> **u/None** [+5] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> That doesn't make much sense.  In real life, getting better and more well-balanced takes a lot of struggle that would seemingly make for good drama.  It doesn't happen all on its own.
->>> 
 
-> **u/SaintPeter74** [+6] *
+> **u/SaintPeter74** [+3]  (2 hours later)
 > 
 > I absolutely adore these books.  The protagionist is highly rational and the books are well written.  I've read some of Gould's other work and it is at least as good as this series, so check those out as well.
+> 
 > There is also an excellent short story available for free on Tor's site.  It takes place between the 2nd and 3rd books.  It shows some of his charity work.  
 > http://www.tor.com/stories/2008/08/shade
-> Despite the movie stinking on ice, Gould also write a pretty decent prequel to the movie called "Jumper: Griffin's Story".  He brings his normal stellar writing to give life to what was an otherwise shit movie.  It's almost like reading an author writing Fan-Fic of their own universe.
 > 
+> Despite the movie stinking on ice, Gould also write a pretty decent prequel to the movie called "Jumper: Griffin's Story".  He brings his normal stellar writing to give life to what was an otherwise shit movie.  It's almost like reading an author writing Fan-Fic of their own universe.
 
-> **u/alexanderwales** [+3]  *Time flies like an arrow**
+> **u/alexanderwales** [+3]  *Time flies like an arrow* (an hour later)
 > 
 > [Exo spoilers](#s " Much of the plot of the fourth book is taken up with Cent starting a one-teenage-girl space agency that can teleport up into LEO and deorbit debris, place microsats, or inspect satellites for damage. One of the early chapters has her getting a call from the sat phone company, which is quite puzzled by the glitch in their system that indicates that she's moving at seven thousand miles per hour. I had a huge grin on my face reading that.")
-> 
 
->> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor* (5 days later)
 >> 
 >> I had trouble sympathizing with the first book because this idea was not mentioned and it felt super obvious to me, so I'm glad to hear the process is starting.
->> 
 
-> **u/Transfuturist** [+2]  *Carthago delenda est.**
+> **u/Transfuturist** [+2]  *Carthago delenda est.* (an hour later)
 > 
 > The movie was really disappointing. The opponents were a religious strawman, who objected for really wrong reasons, and overall the movie was too short (and the plot twist was boring and hackneyed). I wasn't aware there were more books in the series.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> THERE IS NO MOVIE IN BA SING SE.
->> 
 
-> **u/EXOrocks** [+1] *
+> **u/EXOrocks** [+1]  (8 days later)
 > 
 > I read EXO and I liked it, a bit on the technical side, but overall I hope it leads to more novels.  I bought it the day it came out.
-> 
 
 ---
 

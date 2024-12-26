@@ -2,7 +2,7 @@
 
 * Author: u/Zephyr1011  *Potentially Unfriendly Aspiring Divinity**
 * URL: http://addventure.bast-enterprises.de/263816.html
-* Score: 15
+* Score: 17
 
 * Created: 2015-09-26T08:25:45
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 hours later)
 > 
 > Dungeon Keeper Ami kind of bored me after they moved to the new dungeon. The OCs just seemed kind of generic characterization-wise, and the munchkining felt more like exploiting videogame rules than exploiting real world rules. Like there wasn't any sense of accomplishment when Ami found a new way of breaking them.
-> Does it get better? It's good, but the ratio of enjoyment/words lowered too much after that arc for me to keep reading it.
 > 
+> Does it get better? It's good, but the ratio of enjoyment/words lowered too much after that arc for me to keep reading it.
 
 ---
 

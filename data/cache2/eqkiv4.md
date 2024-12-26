@@ -16,54 +16,55 @@ Does anyone know if this is the only instance of this occurring (aside from form
 
 ### Comments:
 
-> **u/TK17Studios** [+23]  *Author of r!Animorphs: The Reckoning**
+> **u/TK17Studios** [+24]  *Author of r!Animorphs: The Reckoning* (2 hours later)
 > 
 > I've been aware of this happening a few times.  It's nontrivially present in very few chapters (I'd guess fewer than four, in total) and most often in situations where there are user interface differences between the two sites.  The AMA chapter, for instance, was just much easier and better to work with on AO3, and I believe its final form is different on AO3 than on FF.net.
-> In each *deliberate* case, it was something like, "this would more than 3x exceed, in time and attention costs *right here right now,* than the difference I expect it to make for readers."  For instance, making a small update to e.g. a single line of text take two clicks on AO3 ("edit" and "submit") whereas making the same update on FF.net takes like eight or nine ("Publish," "Doc Manager," "edit," "save changes," "manage stories," "r!Animorphs," "update/replace chapter," "submit").  Sometimes, if I've made four small tweaks in the last fifteen minutes, one after the other, I eventually sigh and just stop working with the FF UI, and in those cases I sometimes manage to come back later with a batch of changes and I sometimes don't.
-> It's worth noting that even AO3 receives "the same treatment" when it comes to various edits to the absolute official edition on my computer and in the cloud—my intention is to release a final PDF/epub when the whole thing is finished, and that will contain many little edits and changes that I've made throughout.  Like, if someone pings me, today, with a suggestion for Chapter 12, I'll often just go ahead and make the change on my master version and not bother to update *either* AO3 *or* FF.net.  
-> I am not sure how guilty I should feel about this.  But it's all ultimately in service of conserving my own spoons so that a Best Final Version will, in fact, one day exist.
-> I reiterate that the delta between FF and AO3, and the delta between AO3 and my master, is probably well under a tenth of a percent both in terms of word count and in terms of expected impact on the reader.
 > 
+> In each *deliberate* case, it was something like, "this would more than 3x exceed, in time and attention costs *right here right now,* than the difference I expect it to make for readers."  For instance, making a small update to e.g. a single line of text take two clicks on AO3 ("edit" and "submit") whereas making the same update on FF.net takes like eight or nine ("Publish," "Doc Manager," "edit," "save changes," "manage stories," "r!Animorphs," "update/replace chapter," "submit").  Sometimes, if I've made four small tweaks in the last fifteen minutes, one after the other, I eventually sigh and just stop working with the FF UI, and in those cases I sometimes manage to come back later with a batch of changes and I sometimes don't.
+> 
+> It's worth noting that even AO3 receives "the same treatment" when it comes to various edits to the absolute official edition on my computer and in the cloud—my intention is to release a final PDF/epub when the whole thing is finished, and that will contain many little edits and changes that I've made throughout.  Like, if someone pings me, today, with a suggestion for Chapter 12, I'll often just go ahead and make the change on my master version and not bother to update *either* AO3 *or* FF.net.  
+> 
+> I am not sure how guilty I should feel about this.  But it's all ultimately in service of conserving my own spoons so that a Best Final Version will, in fact, one day exist.
+> 
+> I reiterate that the delta between FF and AO3, and the delta between AO3 and my master, is probably well under a tenth of a percent both in terms of word count and in terms of expected impact on the reader.
 
->> **u/hyphenomicon** [+19]  *seer of seers, prognosticator of prognosticators**
+>> **u/hyphenomicon** [+19]  *seer of seers, prognosticator of prognosticators* (22 hours later)
 >> 
 >> > I am not sure how guilty I should feel about this. But it's all ultimately in service of conserving my own spoons so that a Best Final Version will, in fact, one day exist.
->> There are enough dead stories out there that the appropriate amount of guilt is zero. Focusing on getting done is optimal.
 >> 
+>> There are enough dead stories out there that the appropriate amount of guilt is zero. Focusing on getting done is optimal.
 
->> **u/Quibbloboy** [+7] *
+>> **u/Quibbloboy** [+6]  (3 hours later)
 >> 
 >> The AMA chapter I knew about - there was an A/N about that on FFN, right? - but I figured that was just formatting. I might go back and read that one again, just in case it extended to content.
->> Anyway, the rest of the logic makes sense - I've played around on FFN myself, and publishing anything is like pulling teeth. It's good to hear that the differences are relatively minor from a Word of God perspective, I'm just... obsessive? a purist? ...when it comes to, like, a "definitive" version of my media. More about the principle of it than the actual value of the definitive content. 
->> In any case, I'll stick to AO3 from now on. And hey, this just cements the fact that I'll be rereading the "golden" edition when it's all done and published :)
->> Loving the new chapters, by the way. This fic is like crack.
 >> 
+>> Anyway, the rest of the logic makes sense - I've played around on FFN myself, and publishing anything is like pulling teeth. It's good to hear that the differences are relatively minor from a Word of God perspective, I'm just... obsessive? a purist? ...when it comes to, like, a "definitive" version of my media. More about the principle of it than the actual value of the definitive content. 
+>> 
+>> In any case, I'll stick to AO3 from now on. And hey, this just cements the fact that I'll be rereading the "golden" edition when it's all done and published :)
+>> 
+>> Loving the new chapters, by the way. This fic is like crack.
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+5]  *Time flies like an arrow* (a day later)
 >> 
 >> FF.net UI is absolute garbage, especially in comparison to AO3. Editing a chapter, especially a chapter that's been up for a long time, takes so much tedious effort and wrestling with the editor that I've pretty much consigned myself to never editing anything on FF.net, as it's a terrible use of time.
->> 
 
->> **u/PeridexisErrant** [+8]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life* (12 hours later)
 >> 
 >> > I am not sure how guilty I should feel about this.
->> Please don't feel guilty at all - you don't owe your readers anything, and in any case we'd all prefer you take care of yourself - not least because it's the only sustainable way to write!
 >> 
+>> Please don't feel guilty at all - you don't owe your readers anything, and in any case we'd all prefer you take care of yourself - not least because it's the only sustainable way to write!
 
-> **u/ketura** [+7]  *Organizer**
+> **u/ketura** [+6]  *Organizer* (an hour later)
 > 
 > Probably just a case of updating the fic and forgetting that FFN is a thing (understandable and totally justified).
-> 
 
-> **u/Quibbloboy** [+5] *
+> **u/Quibbloboy** [+5]  (an hour later)
 > 
 > Paging /u/TK17Studios, because I think only comments have that power
-> 
 
->> **u/TK17Studios** [+7]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+8]  *Author of r!Animorphs: The Reckoning* (2 hours later)
 >> 
 >> Apparently so.
->> 
 
 ---
 

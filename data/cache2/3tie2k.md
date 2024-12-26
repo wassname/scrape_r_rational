@@ -2,7 +2,7 @@
 
 * Author: u/Calamitizer  *Shears**
 * URL: http://www.fimfiction.net/chapter/868341
-* Score: 16
+* Score: 17
 
 * Created: 2015-11-20T01:22:17
 
@@ -12,43 +12,45 @@
 
 ### Comments:
 
-> **u/Transfuturist** [+4]  *Carthago delenda est.**
+> **u/Transfuturist** [+4]  *Carthago delenda est.* (21 minutes later)
 > 
 > I love your characterization of Twilight so far. Nothing overtly wrong except social anxiety, and possibly something more.
-> [](#s "It would be pretty ironic for pony fanfiction to have a character with real autism.")
-> I want moar. You have a lot of tiny discrepancies that make me very curious. Perhaps something to emulate in my own practice.
 > 
+> [](#s "It would be pretty ironic for pony fanfiction to have a character with real autism.")
+> 
+> I want moar. You have a lot of tiny discrepancies that make me very curious. Perhaps something to emulate in my own practice.
 
-> **u/daydev** [+3] *
+> **u/daydev** [+3]  (9 hours later)
 > 
 > I think you did a nice job *showing, not telling* that Twilight does not care *at all* about the casual conversation.
-> 
 
-> **u/Calamitizer** [+2]  *Shears**
+> **u/Calamitizer** [+2]  *Shears* (a minute later)
 > 
 > The story begins [here](http://www.fimfiction.net/story/300693/1/shears/bridges-1).
-> Basic info is [here](https://www.reddit.com/r/rational/comments/3te0fy/rtff_shears_chapter_1_rmlp/cx5d65r).
-> Thanks for reading (or just clicking)!
 > 
+> Basic info is [here](https://www.reddit.com/r/rational/comments/3te0fy/rtff_shears_chapter_1_rmlp/cx5d65r).
+> 
+> Thanks for reading (or just clicking)!
 
-> **u/None** [+2] *
+> **u/None** [+2]  (9 hours later)
 > 
 > Due to [changes in Reddit's privacy policy](https://imgur.com/a/DGKau), this comment has been overwritten by an open source script to protect this user&apos;s privacy. 
->    If you would like to do the same, add the browser extension [GreaseMonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) to Firefox and add [this open source script](https://greasyfork.org/en/scripts/10380-reddit-overwrite).   
->  Then simply click on your username on Reddit, go to the comments tab, and hit the new OVERWRITE button at the top.
 > 
+>    If you would like to do the same, add the browser extension [GreaseMonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) to Firefox and add [this open source script](https://greasyfork.org/en/scripts/10380-reddit-overwrite).   
+> 
+>  Then simply click on your username on Reddit, go to the comments tab, and hit the new OVERWRITE button at the top.
 
->> **u/Calamitizer** [+1]  *Shears**
+>> **u/Calamitizer** [+1]  *Shears* (12 hours later)
 >> 
 >> The idea is that the sun stayed out longer than normal, but I realize now how ambiguous that phrasing is. Thanks!
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (21 hours later)
 >>> 
 >>> Due to [changes in Reddit's privacy policy](https://imgur.com/a/DGKau), this comment has been overwritten by an open source script to protect this user&apos;s privacy. 
->>>    If you would like to do the same, add the browser extension [GreaseMonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) to Firefox and add [this open source script](https://greasyfork.org/en/scripts/10380-reddit-overwrite).   
->>>  Then simply click on your username on Reddit, go to the comments tab, and hit the new OVERWRITE button at the top.
 >>> 
+>>>    If you would like to do the same, add the browser extension [GreaseMonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) to Firefox and add [this open source script](https://greasyfork.org/en/scripts/10380-reddit-overwrite).   
+>>> 
+>>>  Then simply click on your username on Reddit, go to the comments tab, and hit the new OVERWRITE button at the top.
 
 ---
 

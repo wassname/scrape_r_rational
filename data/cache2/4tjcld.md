@@ -24,57 +24,49 @@ I'll update as I get others. I'm at work so this is all I can post for now.
 
 ### Comments:
 
-> **u/SvalbardCaretaker** [+5]  *Mouse Army**
+> **u/SvalbardCaretaker** [+5]  *Mouse Army* (2 hours later)
 > 
 > http://freesfonline.de/authors/Ted_Chiang.html
-> No need to reinvent the wheel.if you find any not listed there shoot the admin a Mail to include it.
 > 
+> No need to reinvent the wheel.if you find any not listed there shoot the admin a Mail to include it.
 
->> **u/bvonl** [+1] *
+>> **u/bvonl** [+1]  (4 hours later)
 >> 
 >> Thanks!
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (3 days later)
 > 
 > [deleted]
-> 
 
->> **u/bvonl** [+1] *
+>> **u/bvonl** [+1]  (9 days later)
 >> 
 >> Yeah, I read about that...
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 minutes later)
 > 
 > [removed]
-> 
 
->> **u/bvonl** [+2] *
+>> **u/bvonl** [+2]  (18 minutes later)
 >> 
 >> Thank you!
->> 
 
-> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity* (3 hours later)
 > 
 > [Here's](http://www.ibooksonline.com/88/Text/tower.html) a bunch more
-> 
 
->> **u/bvonl** [+1] *
+>> **u/bvonl** [+1]  (4 hours later)
 >> 
 >> Thanks!
->> 
 
-> **u/usui_no_jikan** [+1] *
+> **u/usui_no_jikan** [+1]  (5 hours later)
 > 
 > https://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang
-> Lifecycle of Software Objects
 > 
+> Lifecycle of Software Objects
 
->> **u/bvonl** [+1] *
+>> **u/bvonl** [+1]  (5 hours later)
 >> 
 >> Thank you!
->> 
 
 ---
 

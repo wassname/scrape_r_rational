@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.reddit.com/r/changestorms/comments/3lbloe/chpr_induction_chapter_4/
-* Score: 7
+* Score: 5
 
 * Created: 2015-09-17T16:56:01
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (26 seconds later)
 > 
 > I forgot to post this on Tuesday when it went out to Patreon and list.  Better late than never, hopefully.
-> 
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (an hour later)
 > 
 > Looks like there's no chapter2>chapter1 link.
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (3 hours later)
 >> 
 >> Fixed, thanks.
->> 
 
 ---
 

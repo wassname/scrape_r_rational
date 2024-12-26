@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (3 days later)
 > 
 > Not really very rationalist.
-> 
 
 ---
 

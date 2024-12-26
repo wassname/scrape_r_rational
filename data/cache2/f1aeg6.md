@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/f1aeg6/pyrebound_122/
-* Score: 20
+* Score: 19
 
 * Created: 2020-02-09T15:51:04
 
@@ -16,22 +16,19 @@ Pyrebound is the story of Rammash im-Belemel, a luckless young man in a luckless
 
 ### Comments:
 
-> **u/CorneliusPhi** [+2] *
+> **u/CorneliusPhi** [+2]  (38 minutes later)
 > 
 > I enjoy seeing the broader world of the Dominion and beyond, and watching Ram's ineffectual attempts to change it.
-> 
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (9 hours later)
 >> 
 >> To clarify: do you enjoy the attempts *because* they're ineffectual?
->> 
 
->>> **u/CorneliusPhi** [+3] *
+>>> **u/CorneliusPhi** [+3]  (a day later)
 >>> 
 >>> If the story flows such that success makes sense then that is great.  I don't like it when a story gives the protagonist unearned victories.  A story about Ram trying his best to change the Dominion and ultimately failing could still be a good tragedy.  A story where Ram does manage to make changes could also be interesting.  I'm good with either as long as they are believable.  
-
->>> I could easily see a "successful" Ram succeed by assassinating the Ensi to seize the... Ensihood, then returning home and using his power to straight up murder his entire political opposition, before making one of his supporters Queen and sacrificing himself to preserve the fire.
 >>> 
+>>> I could easily see a "successful" Ram succeed by assassinating the Ensi to seize the... Ensihood, then returning home and using his power to straight up murder his entire political opposition, before making one of his supporters Queen and sacrificing himself to preserve the fire.
 
 ---
 

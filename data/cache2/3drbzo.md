@@ -2,7 +2,7 @@
 
 * Author: u/mhd-hbd  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
 * URL: https://www.reddit.com/r/rational/comments/3drbzo/rtff_the_world_is_your_oyster_the_universe_is/
-* Score: 11
+* Score: 10
 
 * Created: 2015-07-18T18:34:19
 
@@ -18,87 +18,79 @@ Hard-ish Science-Fantasy, Soft-munchkin, and very character-driven.
 
 ### Comments:
 
-> **u/duffmancd** [+4] *
+> **u/duffmancd** [+6]  (a day later)
 > 
 > I don't quite understand why I like the show as much as I do, but I find it strangely endearing. You manage to capture the "voice" of all the characters really well, I can just hear them in my head reading your descriptions. I am really looking forward to the continuation.
-> 
 
->> **u/mhd-hbd** [+4]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+5]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (2 days later)
 >> 
 >> Thank you for your kind words. I do try very hard to capture voices, using the advice of Andrew Hussie:
->> > i think writing in voice is pretty simple. its mostly about consistency. choosing a set of parameters and committing to them absolutely. it can even be a shitty set of parameters and a crappy character. but if you keep hammering away at that voice, people will say, damn that's some pretty good characterization there! i mean... they might be WRONG. but theyll SAY it.
->> > the advantage is being so obstinate with the profile you choose is then any deviation you make ill be very noticable. this is to your advantage, if you can control these deviations with purpose and precision. such deviations can serve as the pillars for character development. they cant happen without the consistency first. and ironically, without the consistency, they DO happen. for the wrong reasons. because you fucked up.
->> I take great care to imagine the scenes as they would appear in the show, and to imagine their emoting and speech. I especially had problems nailing down Mr. Maheswaran.
 >> 
+>> > i think writing in voice is pretty simple. its mostly about consistency. choosing a set of parameters and committing to them absolutely. it can even be a shitty set of parameters and a crappy character. but if you keep hammering away at that voice, people will say, damn that's some pretty good characterization there! i mean... they might be WRONG. but theyll SAY it.
+>> 
+>> > the advantage is being so obstinate with the profile you choose is then any deviation you make ill be very noticable. this is to your advantage, if you can control these deviations with purpose and precision. such deviations can serve as the pillars for character development. they cant happen without the consistency first. and ironically, without the consistency, they DO happen. for the wrong reasons. because you fucked up.
+>> 
+>> I take great care to imagine the scenes as they would appear in the show, and to imagine their emoting and speech. I especially had problems nailing down Mr. Maheswaran.
 
-> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (20 hours later)
 > 
 > I don't watch the show. I have no idea what's going on. But this is deeply cute?
-> Slightly confused at what happened to the healing water at the start. Plot seems to have been dropped. I expected a Talk about how it's useless without a way to mass-produce it, or for it to come up ten chapters later when the results return from the lab.
 > 
+> Slightly confused at what happened to the healing water at the start. Plot seems to have been dropped. I expected a Talk about how it's useless without a way to mass-produce it, or for it to come up ten chapters later when the results return from the lab.
 
->> **u/duffmancd** [+5] *
+>> **u/duffmancd** [+5]  (a day later)
 >> 
 >> Interrupting the plot for a beach party matches the vibe of the show I think. But not much will make sense without seeing it. I second the recommendation, especially as the show is just as, if not more, cute.
->> 
 
->>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+>>> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (a day later)
 >>> 
 >>> > Interrupting the plot for a beach party
->>> Right, but it's more like the first episode had the ending cut off? I don't mind the beach party, I mind that it feels like somebody cut off the last ten minutes of the first episode, where the cast learns the aesop, and played the second episode back to back.
 >>> 
+>>> Right, but it's more like the first episode had the ending cut off? I don't mind the beach party, I mind that it feels like somebody cut off the last ten minutes of the first episode, where the cast learns the aesop, and played the second episode back to back.
 
->>>> **u/duffmancd** [+3] *
+>>>> **u/duffmancd** [+3]  (a day later)
 >>>> 
 >>>> True enough, I admit I also got a bit confused about the white list. 
->>>> Maybe MHD, you could work on your foreshadowing? I think it's giving away too much info/detail, maybe? There's something that's confusing us anyway.
 >>>> 
+>>>> Maybe MHD, you could work on your foreshadowing? I think it's giving away too much info/detail, maybe? There's something that's confusing us anyway.
 
->> **u/nerdguy1138** [+3]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+3]  *GNU Terry Pratchett* (a day later)
 >> 
 >> Damn good show. You should watch it. /r/stevenuniverse
->> 
 
-> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (a day later)
 > 
 > o.0
-> By the kudos it seems to have potential, but it is in dire dire of a proofreader.
 > 
+> By the kudos it seems to have potential, but it is in dire dire of a proofreader.
 
->> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (2 days later)
 >> 
 >> That is indeed true. I should probably find someone to proofread the whole thing. And to beta new chapters
->> 
 
->> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (a day later)
 >> 
 >> Your flair is intriguing. what's the Reckoning?
->> 
 
->>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (2 days later)
 >>> 
 >>> A rational!Animorphs fic. I was the one who posted the links most of the time, and several people seemed to think that I was the author.
->>> 
 
->>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (2 days later)
 >>>> 
 >>>> Oh yeah! I have that saved! Looks good!
->>>> 
 
-> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (a day later)
 > 
 > I am loving this! Stevonnie is adorable! One thing, what is the whitelist? I understand the concept, but not how they described it.
-> 
 
->> **u/mhd-hbd** [+4]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (2 days later)
 >> 
 >> It is \~*foreshadowing*\~ <spooky noises>
->> 
 
->> **u/ArmokGoB** [+2] *
+>> **u/ArmokGoB** [+2]  (a day later)
 >> 
 >> You're not supposed to, it's secret forshadowing.
->> 
 
 ---
 

@@ -24,10 +24,9 @@ Start of Story:
 
 ### Comments:
 
-> **u/Ev0nix** [+2] *
+> **u/Ev0nix** [+2]  (16 days later)
 > 
 > I quite like this tone, not as a standard but a nice change of pace
-> 
 
 ---
 

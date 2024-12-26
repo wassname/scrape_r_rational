@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: http://talesfromaeria.tumblr.com/post/125223688177/diaspora-of-man-the
-* Score: 3
+* Score: 2
 
 * Created: 2015-07-28T03:12:42
 

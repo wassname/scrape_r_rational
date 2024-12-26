@@ -2,7 +2,7 @@
 
 * Author: u/Raszhivyk  *The Culture**
 * URL: https://www.royalroad.com/fiction/15925/the-daily-grind/chapter/608876/chapter-127
-* Score: 11
+* Score: 9
 
 * Created: 2021-01-03T06:02:16
 
@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (11 hours later)
 > 
 > It appears to be ON.
-> 
 
-> **u/A_Wild_Absol** [+1] *
+> **u/A_Wild_Absol** [+1]  (16 hours later)
 > 
 > For all that the group has a number of individuals who are superhuman at combat, I’m not sure they’re actually prepared to withstand a direct, unexpected attack. Most are not bulletproof, including the cameracondas. We’ve seen they make great strike force units, but I’m interested to see how the defense of the hq goes. Hopefully all the greens they’ve dumped into it will come in handy.
-> 
 
->> **u/TwoxMachina** [+1] *
+>> **u/TwoxMachina** [+1]  (2 days later)
 >> 
 >> Green abuse... Could they time travel via:
->> Travel somewhere 1 min away, arrive a few mins before they set off, and proceed to come back, and arrive further back in time.
 >> 
+>> Travel somewhere 1 min away, arrive a few mins before they set off, and proceed to come back, and arrive further back in time.
 
 ---
 

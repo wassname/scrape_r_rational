@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (2 hours later)
 > 
 > Please post general discussion in one of our weekly threads - or use a link post if you think it's a work of rational fiction.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/etiepe *
 * URL: http://grooveshark.com/#!/s/The+Ballad+Of+Smallpox+Gone/4f7lHc?src=5
-* Score: 10
+* Score: 13
 
 * Created: 2013-12-11T04:05:28
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/etiepe** [+3] *
+> **u/etiepe** [+3]  (17 seconds later)
 > 
 > I don't know if this is the correct place to post this, but suspect many of you will enjoy.
-> 
 
-> **u/ArmokGoB** [+3] *
+> **u/ArmokGoB** [+3]  (a day later)
 > 
 > Absolutely the right place! Here, have a meaningless internet point.
-> 
 
 ---
 

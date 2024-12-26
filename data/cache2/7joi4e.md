@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/7joi4e/biweekly_challenge_selfdestruction/
-* Score: 17
+* Score: 20
 
 * Created: 2017-12-14T02:18:41
 
@@ -52,41 +52,35 @@ Next time, the challenge will be **Forbidden Research**. There are very few area
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/EliezerYudkowsky** [+1]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+1]  *Godric Gryffindor* (4 days later)
 >> 
 >> <3
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 days later)
 >> 
 >> Awesome story.
->> 
 
->> **u/Evan_Th** [+1]  *Sunshine Regiment**
+>> **u/Evan_Th** [+1]  *Sunshine Regiment* (7 days later)
 >> 
 >> Nice interpretation of the prompt, and a very Hufflepuff story.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (4 days later)
 > 
 > [Generation](https://docs.google.com/document/d/e/2PACX-1vTlLi74jAnr_wWcK6LAlj9r-h2uu22vzRS0UFnuUxtJnJLjonbLfU4ny94vzx7YbPcEUhqtlGU8F5Ph/pub), 1794 words.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 days later)
 >> 
 >> Nicely done. I'm a bit disappointed [spoiler](/sno one brought up recycling the least necessary person on the ship, e.g an elderly person who's not contributing anything even if they're not willing, and doing some other punishment for the couple to discourage future unauthorized baby making.)
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (5 days later)
 >>> 
 >>> Thanks! There's a million things no one brought up, I had to choose what would make a decent story.
->>> (Actually, I just put the first things that came to mind. I wasn't trying to be as rational as possible, the purpose of the story is to imagine circumstances in which people behave relatively rationally but there's still the set-up for a YA dystopian, hence the typical dystopian elements like birth control, central planning etc. except here they're actually necessary and going against them kills everyone).
 >>> 
+>>> (Actually, I just put the first things that came to mind. I wasn't trying to be as rational as possible, the purpose of the story is to imagine circumstances in which people behave relatively rationally but there's still the set-up for a YA dystopian, hence the typical dystopian elements like birth control, central planning etc. except here they're actually necessary and going against them kills everyone).
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/5kccxv/rtffhf_marked_for_death_ch_92_reading_is/
-* Score: 15
+* Score: 14
 
 * Created: 2016-12-26T05:58:59
 
@@ -28,45 +28,37 @@ The story updates every Thursday (u/Velorien of [Lighting Up the Dark](https://w
 
 ### Comments:
 
-> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (17 hours later)
 > 
 > Noooooo, our boooooooks! :(
-> 
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+3]  (17 hours later)
 >> 
 >> I honestly didn't intend for that to happen. I had a plan for you guys to walk around the library seeing stuff. Then Auntie walked on stage and told me to sit down, shut up, and write what she told me. I certainly wasn't going to say no; she's scary!
->> 
 
->>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (17 hours later)
 >>> 
 >>> Hahah, I don't mind too much, it was entertaining enough. We'll get our chances to apologize, anyhow.
->>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (19 hours later)
 >>> 
 >>> Is that a real auntie, or the character taking over your work?
->>> 
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (22 hours later)
 >>>> 
 >>>> The character. This has happened to me a couple times before, where a character starts writing zirself and I'm just along for the ride. It's weird every time.
->>>> 
 
->>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (a day later)
 >>>>> 
 >>>>> I get the impression that Kagome is like that sometimes.
->>>>> 
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (a day later)
 >>>>>> 
 >>>>>> He's mostly willing to follow a script -- he really is a team player at heart, once you get past the paranoia and the constant fear and the lack of care for anyone not on his team and...hm, maybe I didn't think this sentence through.
->>>>>> 
 
->>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (2 days later)
 >>>>>>> 
 >>>>>>> Hahah. Well, at least with Kagome, Mari exists to keep him in check. I doubt she expected *Hazou* of all people to blow up at this, although I'm sure she'll be privately beating herself up for not.
->>>>>>> 
 
 ---
 

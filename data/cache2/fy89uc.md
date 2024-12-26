@@ -2,7 +2,7 @@
 
 * Author: u/S_Seong_Poetry *
 * URL: https://www.reddit.com/r/rational/comments/fy89uc/saw_another_story_posted_here_with_among_the/
-* Score: 18
+* Score: 17
 
 * Created: 2020-04-10T04:25:23
 
@@ -22,25 +22,21 @@ Posting 2 chapters per day until I'm caught up, and then it'll be approx. 1 chap
 
 ### Comments:
 
-> **u/Watchful1** [+3] *
+> **u/Watchful1** [+3]  (an hour later)
 > 
 > What makes it a rational story?
-> 
 
->> **u/S_Seong_Poetry** [+5] *
+>> **u/S_Seong_Poetry** [+5]  (an hour later)
 >> 
 >> Several things. One is the characters' rationales for their political systems, sometimes however immoral. It's also about people's behavior, and how top-down authoritarian systems in the story try to second guess it to advance their agendas. Finally, the ultimate end of the series will be about the existential end goal of a civilization in a universe doomed to heat death, and so it's going to explore that topic and focus on what's 'rational' to do in those situations. There's also going to be large-scale strategy in warfare past the halfway point of the story, so there's a lot of rationality in that.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (15 hours later)
 > 
 > [removed]
-> 
 
->> **u/S_Seong_Poetry** [+2] *
+>> **u/S_Seong_Poetry** [+2]  (15 hours later)
 >> 
 >> Nope. It's going to be free from front to back. I'll eventually go through and do some major edits and revisions, and release that as a series on Amazon, but until then, I swear I'll never put up a pay wall. I'll do an 'early release' system on Patreon once I've got an audience, but even then, the last chapters will still be released in the same timeframe as the free chapter.
->> 
 
 ---
 

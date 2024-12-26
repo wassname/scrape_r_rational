@@ -14,11 +14,11 @@ The prompt this week is "The girl is alone, holdling back the darkness. She's to
 
 ### Comments:
 
-> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (2 days later)
 > 
 > I kind of want to write some log horizon fanfiction for this prompt...
-> Nah.
 > 
+> Nah.
 
 ---
 

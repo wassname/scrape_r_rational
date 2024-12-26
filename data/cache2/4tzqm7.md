@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 days later)
 > 
 > [removed]
-> 
 
->> **u/blazinghand** [+3]  *Chaos Undivided**
+>> **u/blazinghand** [+4]  *Chaos Undivided* (2 days later)
 >> 
 >> Malformed https. Use this instead: www.fanfiction.net/s/5330602/1/The-Dark-Night
->> 
 
-> **u/Dent7777** [+2]  *House Atreides**
+> **u/Dent7777** [+2]  *House Atreides* (2 days later)
 > 
 > Great short story!
-> 
 
-> **u/CouteauBleu** [+2]  *We are the Empire.**
+> **u/CouteauBleu** [+2]  *We are the Empire.* (3 days later)
 > 
 > I am semi-speechless. Great story. The last paragraphs about the name and the lighter made it for me :D
-> 
 
 ---
 

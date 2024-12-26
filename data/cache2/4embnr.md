@@ -12,15 +12,16 @@
 
 ### Comments:
 
-> **u/23143567** [+2] *
+> **u/23143567** [+2]  (a minute later)
 > 
 > The link to the discussion over at SSC: [SSC Story of the week](http://slatestarcodex.com/2016/04/11/ot47-openai/#comments)
-> Also a question: Is crossposting it here from over at SSC a good idea?
 > 
+> Also a question: Is crossposting it here from over at SSC a good idea?
 
-> **u/gabbalis** [+2] *
+> **u/gabbalis** [+2]  (4 hours later)
 > 
 > Shortest name eh? One sec.
+> 
 > `````X  
 > .....X  
 > IIIIIX  
@@ -31,21 +32,28 @@
 > :::::X  
 > |||||X  
 > iiiiiX  
-> Ahah! 'i' is thinner! Although that might just be the whitespace in the font box. Though if we're only counting blackwidth in the box then ' ' has 0 width. Wait, when we say "English Language" Are we using a Formal Language definition of english? Ah screw it, im'a dibs these while I still can.
-> >**i**
-> >Once there lived three pheldagriphs. The End.
-> ----------------
-> >' '
-> >The End. Once upon a time. The End.
-> There. I win possibly.
-> Edit: Is there a way to format space characters nicely?
 > 
+> Ahah! 'i' is thinner! Although that might just be the whitespace in the font box. Though if we're only counting blackwidth in the box then ' ' has 0 width. Wait, when we say "English Language" Are we using a Formal Language definition of english? Ah screw it, im'a dibs these while I still can.
+> 
+> >**i**
+> 
+> >Once there lived three pheldagriphs. The End.
+> 
+> ----------------
+> 
+> >' '
+> 
+> >The End. Once upon a time. The End.
+> 
+> There. I win possibly.
+> 
+> Edit: Is there a way to format space characters nicely?
 
->> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (3 days later)
 >> 
 >> Doesn't count you need the middle for it to count as a story.
->> Once upon a time, I wrote this story. The end!
 >> 
+>> Once upon a time, I wrote this story. The end!
 
 ---
 

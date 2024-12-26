@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/traverseda** [+1]  *With dread but cautious optimism**
+> **u/traverseda** [+1]  *With dread but cautious optimism* (an hour later)
 > 
 > Not really that interesting to me, as it's all pretty basically known stuff around here. Like retelling an Aesop's story.
-> 
 
->> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (an hour later)
 >> 
 >> It was also posted just a month ago.
->> 
 
->>> **u/VirtualDeliverance** [+1] *
+>>> **u/VirtualDeliverance** [+1]  (10 hours later)
 >>> 
 >>> Sorry, my bad. I should have searched first. I'm not yet used to the huge size of Reddit.
->>> 
 
 ---
 

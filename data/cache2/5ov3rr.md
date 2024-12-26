@@ -2,7 +2,7 @@
 
 * Author: u/Aquareon *
 * URL: https://www.inkitt.com/stories/horror/71543
-* Score: 2
+* Score: 3
 
 * Created: 2017-01-19T06:40:31
 
@@ -12,136 +12,123 @@
 
 ### Comments:
 
-> **u/wowthatsucked** [+6] *
+> **u/wowthatsucked** [+7]  (5 hours later)
 > 
 > You have certainly added some interesting elements, but turning Lego Robot Comics's work into written form without crediting him as the source of the story is unethical.
-> For anyone curious about the original comics, http://imgur.com/a/e7xBV - the site is down, unfortunately. 
-> Edit: /u/Aquereon has shown me he is the original creator.
 > 
+> For anyone curious about the original comics, http://imgur.com/a/e7xBV - the site is down, unfortunately. 
+> 
+> Edit: /u/Aquereon has shown me he is the original creator.
 
->> **u/Aquareon** [+3] *
+>> **u/Aquareon** [+3]  (15 hours later)
 >> 
 >> I am that guy, though. I have proven this to /u/callmebrotherg and can do the same for you if need be.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (7 hours later)
 >> 
 >> Are you sure it's not just coincidentally similar? Not all similarity is plagarism.
->> 
 
->>> **u/dysfunctionz** [+3] *
+>>> **u/dysfunctionz** [+4]  (9 hours later)
 >>> 
 >>> There's no way. This is significantly expanded from the comic, but other than the new material, the description of every character and creature is specific and identical.
->>> This is a really good adaptation, but if this isn't the original comic's author, there absolutely needs to be credit given.
 >>> 
+>>> This is a really good adaptation, but if this isn't the original comic's author, there absolutely needs to be credit given.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (11 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Aquareon** [+2] *
+>>>>> **u/Aquareon** [+2]  (15 hours later)
 >>>>> 
 >>>>> Yes. It's sorta amusing /u/wowthatsucked didn't allow for that possibility. Small world, isn't it? To answer your question, see my reply to /u/hackerkiba.
->>>>> 
 
->>>>>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>>>>>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae* (16 hours later)
 >>>>>> 
 >>>>>> /u/Aquareon has proved to my satisfaction that he is the author of the original comic and that there was no plagiarism at play. Suffice it to say that there was some pseudonym stuff going on, and in hindsight it would have been more polite to hash things out via PM.
->>>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (15 hours later)
 >>>>>> 
 >>>>>> [deleted]
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (15 hours later)
 >>>>>>> 
 >>>>>>> [deleted]
->>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>>>> 
 >>>>>>>> [deleted]
->>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>>>>> 
 >>>>>>>>> [deleted]
->>>>>>>>> 
 
->>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> [deleted]
->>>>>>>>>> 
 
->>>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>>> **u/None** [+2]  (16 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> [deleted]
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> [deleted]
->>>>>>>>>>>> 
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (16 hours later)
 >>>>>>>> 
 >>>>>>>> [deleted]
->>>>>>>> 
 
-> **u/ElizabethRobinThales** [+2]  *Practically Perfect in Every Way**
+> **u/ElizabethRobinThales** [+2]  *Practically Perfect in Every Way* (2 hours later)
 > 
 > That was actually pretty great. I felt like it had a strong Kafka-esque vibe to it.
-> EDIT:
-> I definitely meant Kafka, I don't know why my brain grabbed the word "Dostoevsky." They really shouldn't be associated strongly enough to be close enough together for my brain to grab one when it wanted the other, unless the association is temporal and not conceptual.
 > 
+> EDIT:
+> 
+> I definitely meant Kafka, I don't know why my brain grabbed the word "Dostoevsky." They really shouldn't be associated strongly enough to be close enough together for my brain to grab one when it wanted the other, unless the association is temporal and not conceptual.
 
->> **u/Aquareon** [+1] *
+>> **u/Aquareon** [+1]  (2 hours later)
 >> 
 >> >That was actually pretty great.
->> You sound surprised. Have you read any of the other stories I've shared here?
 >> 
+>> You sound surprised. Have you read any of the other stories I've shared here?
 
->>> **u/ElizabethRobinThales** [+3]  *Practically Perfect in Every Way**
+>>> **u/ElizabethRobinThales** [+3]  *Practically Perfect in Every Way* (2 hours later)
 >>> 
 >>> No, I don't typically read any stories shared here by anyone. I just glance at this sub occasionally because it's linked as a related sub to r/hpmor. For whatever reason, my brain didn't actually process until *literally just now* that most of the posts on this sub are story recommendations.
->>> 
 
->>>> **u/Aquareon** [+1] *
+>>>> **u/Aquareon** [+1]  (16 hours later)
 >>>> 
 >>>> Haha, that happens to me scarily often. I call it early onset Alzheimer's.
->>>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (8 hours later)
 > 
 > Is this rational?
-> 
 
->> **u/Aquareon** [+2] *
+>> **u/Aquareon** [+2]  (15 hours later)
 >> 
 >> Yes, on account of various ways in which he learns about and exploits his situation to improve it. For example salvaging pieces of himself after each feeding to make clothing and weapons out of, using the giant to reach the split pillar cavity and separating slain giants from their blood based on having witnessed its healing properties earlier.
->> There is also an extended bit early on contrasting his rationalist worldview with the folksy credulity of the locals, exploring it as a source of friction. Though he ultimately decides it was a petty reason to hate anyone, and he was lucky they tolerated him.
 >> 
+>> There is also an extended bit early on contrasting his rationalist worldview with the folksy credulity of the locals, exploring it as a source of friction. Though he ultimately decides it was a petty reason to hate anyone, and he was lucky they tolerated him.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (17 hours later)
 >>> 
 >>> This is just your explanation/description about your character making good decisions. The world itself may not be rational or the way your characters behave not be rational.
->>> If your work has been judged consistently as not rational, you may want to read other works to see how they approach rational storytelling.
->>> Otherwise, it looked like you're an outsider writing outsider things. Granted, it appeals to the readership here, but it doesn't mean that your work is any way part of the rational fiction genre.
->>> BTW, your works disappeared from the front page again.
 >>> 
+>>> If your work has been judged consistently as not rational, you may want to read other works to see how they approach rational storytelling.
+>>> 
+>>> Otherwise, it looked like you're an outsider writing outsider things. Granted, it appeals to the readership here, but it doesn't mean that your work is any way part of the rational fiction genre.
+>>> 
+>>> BTW, your works disappeared from the front page again.
 
->> **u/ElizabethRobinThales** [+2]  *Practically Perfect in Every Way**
+>> **u/ElizabethRobinThales** [+2]  *Practically Perfect in Every Way* (19 hours later)
 >> 
 >> I can't find anything [here](http://rationalfiction.io/story/rational-fiction) which would preclude this story from being considered "rational."
->> A story doesn't *have* to sacrifice proper literary form (show, don't tell) by sporadically inserting multi-paragraph infodumps which explore the minutia of random scientific concepts and break the illusion of temporality (\*cough\* HPMOR \*cough\*) in order to be considered "rational."
 >> 
+>> A story doesn't *have* to sacrifice proper literary form (show, don't tell) by sporadically inserting multi-paragraph infodumps which explore the minutia of random scientific concepts and break the illusion of temporality (\*cough\* HPMOR \*cough\*) in order to be considered "rational."
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (13 hours later)
 >> 
 >> I really don't think so, which is annoying because this is the third or fourth non-rational story than this author has submitted in the past few weeks.
->> 
 
 ---
 

@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (4 hours later)
 > 
 > Just FYI, self-promotion is now limited to one post per month, IIRC (I'll vheck the sidebar) so you might want to delete the other two threads, and edit this one to hold the summary.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (8 hours later)
 >> 
 >> I think I'll just add the prologue link to the other thread?
->> 
 
 ---
 

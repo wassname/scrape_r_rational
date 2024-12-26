@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/jldew** [+1] *
+> **u/jldew** [+1]  (2 minutes later)
 > 
 > typo thread :)
-> 
 
->> **u/FudgeOff** [+1] *
+>> **u/FudgeOff** [+1]  (3 hours later)
 >> 
 >> It's = it is
->> Its = possessive.
->> The error starts in chapter 1. You'll need to correct all three chapters.
 >> 
+>> Its = possessive.
+>> 
+>> The error starts in chapter 1. You'll need to correct all three chapters.
 
 ---
 

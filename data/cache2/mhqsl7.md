@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/DrMaridelMolotov** [+1] *
+> **u/DrMaridelMolotov** [+1]  (3 minutes later)
 > 
 > The Rick and Morty episode happened earlier in the stream.
-> 
 
 ---
 

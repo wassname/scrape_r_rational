@@ -16,21 +16,19 @@ Pyrebound is a high fantasy serial that's been going since February.  The world 
 
 ### Comments:
 
-> **u/Dent7777** [+5]  *House Atreides**
+> **u/Dent7777** [+5]  *House Atreides* (3 hours later)
 > 
 > What a great chapter. Ram tests the limits of his power and gets what he wants. Even if he cooperates from here on out, or if he gets overruled from time to time, he has set a precedent.
-> Ram is clearly brave, fairly cunning, and a solid tactician. He has what it takes to rule the realm, and I think we could see him become a young Napoleon, Alexander, or a corpse.
 > 
+> Ram is clearly brave, fairly cunning, and a solid tactician. He has what it takes to rule the realm, and I think we could see him become a young Napoleon, Alexander, or a corpse.
 
->> **u/RedSheepCole** [+5] *
+>> **u/RedSheepCole** [+5]  (a day later)
 >> 
 >> The last, at least, is somewhat unlikely, since the powers that be really need him to be completely incinerated.  Glad you liked it.
->> 
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (a day later)
 > 
 > Ram's outrage at the treatment of the boys being brought up in the temple was beautiful.  The guys he's dealing with seem so sympathetic that it's easy to forget what utter creeps they've been.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/jacky986 *
 * URL: https://www.reddit.com/r/rational/comments/jma2y4/rational_mass_effect_andromeda_fanfic/
-* Score: 7
+* Score: 5
 
 * Created: 2020-11-01T21:07:18
 
@@ -19,38 +19,35 @@ So does anyone know of any rational Mass Effect Andromeda fanfics where
 
 ### Comments:
 
-> **u/HermitJem** [+9] *
+> **u/HermitJem** [+9]  (10 hours later)
 > 
 > All I recall is visiting the planet and going "Uh...you guys couldn't even do this much?"
-> \+1 to number of colonies established
 > 
+> \+1 to number of colonies established
 
-> **u/Bowbreaker** [+6]  *Solitary Locust**
+> **u/Bowbreaker** [+7]  *Solitary Locust* (2 days later)
 > 
 > That's a mighty specific request for a relatively niche fandom.
-> 
 
->> **u/jacky986** [+1] *
+>> **u/jacky986** [+1]  (2 days later)
 >> 
 >> What do you mean by that?
->> 
 
->>> **u/Bowbreaker** [+8]  *Solitary Locust**
+>>> **u/Bowbreaker** [+7]  *Solitary Locust* (2 days later)
 >>> 
 >>> If you have seen a fanfic just like that but can't remember what it's called then your request makes sense. But otherwise the chances of there being a rational Andromeda fanfic that tick all, or even half, of the requirements are pretty damn slim.
->>> 
 
->>>> **u/jacky986** [+3] *
+>>>> **u/jacky986** [+3]  (2 days later)
 >>>> 
 >>>> Well to be honest I am just looking for a rational fanfic where the intiative is smarter and a lot more prepared when they arrive in the Heleus Cluster, the rest is just wishful thinking.
->>>> 
 
-> **u/efd731** [+4] *
+> **u/efd731** [+5]  (4 days later)
 > 
 > i honestly find the idea of this incredibly amusing because..... if you apply any rationality at all to the setting there's only one choice the initiative could make.
->  with one piece of technology (the tech that allows the initiative ships to dump their accumulated charge mid jump) they've allowed for literally unlimited FTL and sublight travel and completely changed the face of the milky way galaxy.
-> warp capable defense stations are now common place, every initiative shareholder is wealthy enough to buy entire star systems, the reapers get curb-stomped brutally the moment they arrive on the scene, and the entire population of the milky way doesn't even need cryopods to travel out of system due to the ability to just.....fire ships out of mass relays at distant galaxies and have them arrive in years as opposed to the 600 years that the initiative took to arrive at their destination.
 > 
+>  with one piece of technology (the tech that allows the initiative ships to dump their accumulated charge mid jump) they've allowed for literally unlimited FTL and sublight travel and completely changed the face of the milky way galaxy.
+> 
+> warp capable defense stations are now common place, every initiative shareholder is wealthy enough to buy entire star systems, the reapers get curb-stomped brutally the moment they arrive on the scene, and the entire population of the milky way doesn't even need cryopods to travel out of system due to the ability to just.....fire ships out of mass relays at distant galaxies and have them arrive in years as opposed to the 600 years that the initiative took to arrive at their destination.
 
 ---
 

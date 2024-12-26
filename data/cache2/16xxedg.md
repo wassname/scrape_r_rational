@@ -17,233 +17,236 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/sparkc** [+20] *
+> **u/sparkc** [+19]  (an hour later)
 > 
 > I want to recommend a fantasy novel named **Heroes Die**.
-> It's a sci-fi fantasy, set in a future earth that's discovered a way to send people to an alternate fantasy world. The biggest stars on this earth are actors/adventurers, who are sent to the fantasy world to go on adventures which are self-recorded for later consumption + a  full-sensory simulcast for the rich.
-> The series follows one of Earth's biggest stars and the plot of this first book is, on its surface, that of a standard action flick - it hits every note you’d expect, except with far more attention to detail, and depth and effort and weight and believability. It’s a dude who wants revenge on his enemies and to save his wife - this involves plenty of intrigue and plotting, not just in the fantasy world but with regards to his dystopian!hollywood bosses.
-> Given the whole movie star conceit, the action is wrapped in this elegant self-justifying meta layer. There's a level of self-awareness to the whole action hero conceit that in other story’s would undercut the action, but here it doesn’t - it does a great job of having its cake and eating it too.
-> Some points:
-> * The main hero is (largely) a brawler and the author really knows his combat. The action is incredibly convincing and the fight scenes are great.
-> * It has a proper anti-hero with the type of principles and brutal mindset you’d expect from an action hero, but in this case it's someone with enough brain cells and exposure to ideas to think some actually interesting thoughts.
-> * There's so many moving pieces to the plot and they slot together beautifully. It's the sort of thing I miss when I read so much webfic because if you're not planning everything meticulously and allowing yourself rewrites, it's just not happening.
-> Some of the antagonists are more irredeemably evil than I’d like and the dystopian caste world feels a bit much, but my experience with "the rich are evil" stuff is that for most people you could present a future earth where the elites are literally factory farming the masses and people will just nod along, so probably it won’t even bother most readers.
-> It should appeal to those who want a steady diet of popcorn because it's a story with a degree of power fantasy, competence porn and great action + it's a quasi-isekai.
-> It should appeal to those who want more from what they read because the execution's top tier and it elevates itself above what it appears to be on the surface.
-> It's the first in a 4 book series, though this novel is virtually self-contained.
 > 
+> It's a sci-fi fantasy, set in a future earth that's discovered a way to send people to an alternate fantasy world. The biggest stars on this earth are actors/adventurers, who are sent to the fantasy world to go on adventures which are self-recorded for later consumption + a  full-sensory simulcast for the rich.
+> 
+> The series follows one of Earth's biggest stars and the plot of this first book is, on its surface, that of a standard action flick - it hits every note you’d expect, except with far more attention to detail, and depth and effort and weight and believability. It’s a dude who wants revenge on his enemies and to save his wife - this involves plenty of intrigue and plotting, not just in the fantasy world but with regards to his dystopian!hollywood bosses.
+> 
+> Given the whole movie star conceit, the action is wrapped in this elegant self-justifying meta layer. There's a level of self-awareness to the whole action hero conceit that in other story’s would undercut the action, but here it doesn’t - it does a great job of having its cake and eating it too.
+> 
+> Some points:
+> 
+> * The main hero is (largely) a brawler and the author really knows his combat. The action is incredibly convincing and the fight scenes are great.
+> 
+> * It has a proper anti-hero with the type of principles and brutal mindset you’d expect from an action hero, but in this case it's someone with enough brain cells and exposure to ideas to think some actually interesting thoughts.
+> 
+> * There's so many moving pieces to the plot and they slot together beautifully. It's the sort of thing I miss when I read so much webfic because if you're not planning everything meticulously and allowing yourself rewrites, it's just not happening.
+> 
+> Some of the antagonists are more irredeemably evil than I’d like and the dystopian caste world feels a bit much, but my experience with "the rich are evil" stuff is that for most people you could present a future earth where the elites are literally factory farming the masses and people will just nod along, so probably it won’t even bother most readers.
+> 
+> It should appeal to those who want a steady diet of popcorn because it's a story with a degree of power fantasy, competence porn and great action + it's a quasi-isekai.
+> 
+> It should appeal to those who want more from what they read because the execution's top tier and it elevates itself above what it appears to be on the surface.
+> 
+> It's the first in a 4 book series, though this novel is virtually self-contained.
 
->> **u/Amonwilde** [+22] *
+>> **u/Amonwilde** [+25]  (2 hours later)
 >> 
 >> Heroes Die is worth reading, but it also feels overengineered as a story. The plot is basically that this one guy is really good at punching people, so evil capitalists send him to a fantasy world used by the rich as an MMORPG / reality TV show so he can punch demigods and people with magic powers that can blow up buildings. But, hoa, some weird shit is going down in the fantasy world, plus the capitalists are, like, really bad and colonial.
->> Actually I'm making it sound pretty good, and it is, more or less. It's the weird specificity of the plot and odd wrinkles and characters that make me scratch my head at it a little. I feel like it's a good series that is somehow less good than the sum of its parts would indicate. A good recommendation, as this generation seems to have mostly forgotten about it. Perhaps I should do a large fantasy rec post, since there are alot of books of this type floating around.
 >> 
+>> Actually I'm making it sound pretty good, and it is, more or less. It's the weird specificity of the plot and odd wrinkles and characters that make me scratch my head at it a little. I feel like it's a good series that is somehow less good than the sum of its parts would indicate. A good recommendation, as this generation seems to have mostly forgotten about it. Perhaps I should do a large fantasy rec post, since there are alot of books of this type floating around.
 
->>> **u/STRONKInTheRealWay** [+14] *
+>>> **u/STRONKInTheRealWay** [+13]  (12 hours later)
 >>> 
 >>> >Perhaps I should do a large fantasy rec post, since there are alot of books of this type floating around.
->>> Please do. I'm sure a lot of people on the sub would be interested in it.
 >>> 
+>>> Please do. I'm sure a lot of people on the sub would be interested in it.
 
->>>> **u/Amonwilde** [+10] *
+>>>> **u/Amonwilde** [+10]  (a day later)
 >>>> 
 >>>> I'll prep one for next week, thanks for the encouragement.
->>>> 
 
->>> **u/sparkc** [+7] *
+>>> **u/sparkc** [+7]  (2 hours later)
 >>> 
 >>> I think the author goes to very reasonable efforts (by non-ratfic standards) to justify everything, though certainly there's parts of this justification that aren't found until the later books. Of course, the setting is one that requires plenty of justification if you do want it to hold together when you really think about it, and while I don't think it does hold together to that extent, I think there's a lot more efforts made in that direction than you'd usually see. 
->>> YMMV as to whether that's enough.
 >>> 
+>>> YMMV as to whether that's enough.
 
->>> **u/chiruochiba** [+2] *
+>>> **u/chiruochiba** [+2]  (4 days later)
 >>> 
 >>> > Perhaps I should do a large fantasy rec post, since there are alot of books of this type floating around.
->>> Your plot synopsis reminded me strongly of the book *[Dark Lord of Derkholm](https://en.wikipedia.org/wiki/Dark_Lord_of_Derkholm()* by  Diana Wynne Jones. Would that be one of the books you were thinking of?
->>> Its basic premise is that evil capitalists exploit a portal to a fantasy world by setting up theme-park like fantasy tours which culminate in the tourists fighting a big-bad 'Dark Lord' at the end of every tour. Each season some poor schmuck from fantasy land gets drafted into playing the role of the Dark Lord.
 >>> 
+>>> Your plot synopsis reminded me strongly of the book *[Dark Lord of Derkholm](https://en.wikipedia.org/wiki/Dark_Lord_of_Derkholm()* by  Diana Wynne Jones. Would that be one of the books you were thinking of?
+>>> 
+>>> Its basic premise is that evil capitalists exploit a portal to a fantasy world by setting up theme-park like fantasy tours which culminate in the tourists fighting a big-bad 'Dark Lord' at the end of every tour. Each season some poor schmuck from fantasy land gets drafted into playing the role of the Dark Lord.
 
->>>> **u/Amonwilde** [+2] *
+>>>> **u/Amonwilde** [+2]  (4 days later)
 >>>> 
 >>>> I've read it, and it would probably be enjoyed by this sub, but I probably wouldn't have included it, just because I think there's even better stuff. A good recommendation, though! :)
->>>> 
 
->> **u/lillarty** [+13] *
+>> **u/lillarty** [+13]  (4 hours later)
 >> 
 >> > It's the sort of thing I miss when I read so much webfic because if you're not planning everything meticulously and allowing yourself rewrites, it's just not happening.
->> This is a big part of why Wildbow's number one piece of advice for writing serial fiction is to have a substantial backlog. It has been a while since I read his blog post about it, but I believe he said he keeps a 15 chapter backlog, so when he has an idea later he can rewrite substantial portions of the story to make it fit. It's not quite as good as being able to go back and seed the ideas in from the beginning, but introducing a plot point 75-150k words in advance feels *much* more organic than the typical web novel tactic of handling it chapter by chapter. 
->> Unfortunately, oftentimes when authors have a substantial backlog they'll release them early on Patreon. I've got no problem with making money through Patreon, but releasing the chapter locks it in, in a way it wasn't when it was just a document on your computer.
 >> 
+>> This is a big part of why Wildbow's number one piece of advice for writing serial fiction is to have a substantial backlog. It has been a while since I read his blog post about it, but I believe he said he keeps a 15 chapter backlog, so when he has an idea later he can rewrite substantial portions of the story to make it fit. It's not quite as good as being able to go back and seed the ideas in from the beginning, but introducing a plot point 75-150k words in advance feels *much* more organic than the typical web novel tactic of handling it chapter by chapter. 
+>> 
+>> Unfortunately, oftentimes when authors have a substantial backlog they'll release them early on Patreon. I've got no problem with making money through Patreon, but releasing the chapter locks it in, in a way it wasn't when it was just a document on your computer.
 
->>> **u/thomas_m_k** [+8] *
+>>> **u/thomas_m_k** [+7]  (7 hours later)
 >>> 
 >>> I have seen that authors rewrite parts of the Patreon chapters though, after they've gotten feedback from the patrons. But not to the extent that new plot points were introduced, I think.
->>> 
 
-> **u/Born-Turn9839** [+22] *
+> **u/Born-Turn9839** [+22]  (6 hours later)
 > 
 > There is a new Anime called Frieren beyond journey's end and its really good. I would not call it rational but I think its something people in this community would enjoy
-> 
 
->> **u/Do_Not_Go_In_There** [+17] *
+>> **u/Do_Not_Go_In_There** [+18]  (12 hours later)
 >> 
 >> The manga has been around for awhile and is really good.
->> 
 
-> **u/AurelianoTampa** [+19] *
+> **u/AurelianoTampa** [+18]  (3 hours later)
 > 
 > I think I've seen it mentioned on here in the past, but I finally got around to reading ["The Last Orellen"](https://www.royalroad.com/fiction/46901/the-last-orellen) by sieley. A warning up front - the story is still on-going, but it suffered a long hiatus a couple years ago, started up again early this year, but the author has only released two new chapters in the past 60 days. So it seems like it's on a semi-hiatus again? Anyway, there are 50 chapters to read and even with the delays I recommend it. The story isn't perfectly rational, but it's got solid writing, strong emotional beats, and the world building is great. 
-> The story centers around a prophecy concerning the ninth child of Lord Orellen, the Orellens being a rich magical practitioner family known for their spatial magic expertise and (not yet widely known) for their skill at prognosticating via luck magic. A prophecy is made that the ninth-born child of the Lord Orellen can become the greatest Magus in the first world, but that "can" causes no small amount of horror among the family. If the child WILL or SHALL be the greatest Magus, then the child would be uplifted by all magic families who would want to curry favor with the future grand magus. But "can"? That means that the child is not guaranteed to be the greatest magus, and instead is a potential rival and threat that can be snipped early without upsetting the power balance among the other rich and powerful families. Unfortunately, that also means the rest of the family must also go, since any children of the Orellens may inherit the title of Lord and spawn the future magus, so the Orellens see the writing on the wall: their entire family will be snuffed out. They hatch a plan using their luck magic that stands the best chance of ensuring (as much of) the family survives as possible, and it involves creating hundreds of children that are adopted into the family and then spread around across the world, confounding tracking attempts and protecting the main family members. Early on the metaphor is that to save the lizard, the Orellens used spells to create hundreds of tails, each of which can be chopped off as sacrifices to ensure the main body stays safe. And Kalen, our protagonist, is one of these created children, taking the soul of one dying child and placing it into the preserved body of another dead child, reviving and adopting him via blood magic, and then tossing him into the ocean near a passing ship.
-> The story itself has some really good explorations of what family means to different people, and a really good progression over time in the magic system. As said, there are some strong emotional beats that shouldn't be underestimated, and I really wish there was more to read or that it was coming out quicker. Still worth reading what is there, IMO.
-> As for other stories, I tried ["Rock Falls, Everyone Dies,"](https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies) which is one of the highest rated complete series on RR. It's a comedy/deconstruction of many common fantasy/xanxia/litRPG tropes that I found cute and amusing, but if the series was any longer it would have overstayed its welcome. As is, it's short enough to breeze through but left little impression upon me in the end. 
-> And I keep up with each new chapter of [Super Supportive](https://www.royalroad.com/fiction/63759/super-supportive) and [The Game at Carousel](https://www.royalroad.com/fiction/65629/the-game-at-carousel-a-horror-movie-litrpg) as they come out. The latter had a fairly interesting revelation just show up, though I've yet to figure out how important it is or how it will help the players escape.
 > 
+> The story centers around a prophecy concerning the ninth child of Lord Orellen, the Orellens being a rich magical practitioner family known for their spatial magic expertise and (not yet widely known) for their skill at prognosticating via luck magic. A prophecy is made that the ninth-born child of the Lord Orellen can become the greatest Magus in the first world, but that "can" causes no small amount of horror among the family. If the child WILL or SHALL be the greatest Magus, then the child would be uplifted by all magic families who would want to curry favor with the future grand magus. But "can"? That means that the child is not guaranteed to be the greatest magus, and instead is a potential rival and threat that can be snipped early without upsetting the power balance among the other rich and powerful families. Unfortunately, that also means the rest of the family must also go, since any children of the Orellens may inherit the title of Lord and spawn the future magus, so the Orellens see the writing on the wall: their entire family will be snuffed out. They hatch a plan using their luck magic that stands the best chance of ensuring (as much of) the family survives as possible, and it involves creating hundreds of children that are adopted into the family and then spread around across the world, confounding tracking attempts and protecting the main family members. Early on the metaphor is that to save the lizard, the Orellens used spells to create hundreds of tails, each of which can be chopped off as sacrifices to ensure the main body stays safe. And Kalen, our protagonist, is one of these created children, taking the soul of one dying child and placing it into the preserved body of another dead child, reviving and adopting him via blood magic, and then tossing him into the ocean near a passing ship.
+> 
+> The story itself has some really good explorations of what family means to different people, and a really good progression over time in the magic system. As said, there are some strong emotional beats that shouldn't be underestimated, and I really wish there was more to read or that it was coming out quicker. Still worth reading what is there, IMO.
+> 
+> As for other stories, I tried ["Rock Falls, Everyone Dies,"](https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies) which is one of the highest rated complete series on RR. It's a comedy/deconstruction of many common fantasy/xanxia/litRPG tropes that I found cute and amusing, but if the series was any longer it would have overstayed its welcome. As is, it's short enough to breeze through but left little impression upon me in the end. 
+> 
+> And I keep up with each new chapter of [Super Supportive](https://www.royalroad.com/fiction/63759/super-supportive) and [The Game at Carousel](https://www.royalroad.com/fiction/65629/the-game-at-carousel-a-horror-movie-litrpg) as they come out. The latter had a fairly interesting revelation just show up, though I've yet to figure out how important it is or how it will help the players escape.
 
->> **u/Darkpiplumon** [+23] *
+>> **u/Darkpiplumon** [+22]  (3 hours later)
 >> 
 >> The Last Orellen has one of the strongest starts I've seen.
 >> I loved how everything about the prophecy, luck magic and found how everything ended up the way it did fascinating. 
->> Once we're a couple of chapters in the proper MC's story, I found it much less interesting. It may be the real life pace or the book's, but I'm going to wait for a year or so and try again.
->> Super Supportive is indeed great.
 >> 
+>> Once we're a couple of chapters in the proper MC's story, I found it much less interesting. It may be the real life pace or the book's, but I'm going to wait for a year or so and try again.
+>> 
+>> Super Supportive is indeed great.
 
->>> **u/viewlesspath** [+11] *
+>>> **u/viewlesspath** [+12]  (11 hours later)
 >>> 
 >>> The Good Student is another one with a great start that got progressively... less good. Still sad about that one.
->>> 
 
->>>> **u/thunder_crane** [+2] *
+>>>> **u/thunder_crane** [+2]  (3 days later)
 >>>> 
 >>>> Agreed I really miss that one
->>>> 
 
-> **u/Gigapode** [+14] *
+> **u/Gigapode** [+13]  (11 hours later)
 > 
 > After rereading Origin of Species I looked for more pokemon fanfic and found one I really enjoyed:
 > "The Most Evil Trainer"
-> It was recommended to me as an SI into pokemon who uses "cheesy" pro scene tactics that riles up the stuffy poke-France setting where the classist culture emphasises straight fights and power. It definitely has this, but also has a lot of emphasis on the character's internal struggle between seeking to get home and doing what is best for his friends in the world he finds himself. 
-> It looks like it is close to finishing or at least at the end of a book.
-> After reading it I looked for other good pokemon fics and found a couple like When is a Spoon a Sword? and Throne of Mud. I enjoyed both but to a lesser extent. Anyone got recommendations in this space? I tried Hard Enough but found it too Gary Stu and have had that feeling from a few fics I dipped into before finding those other two I liked.
 > 
+> It was recommended to me as an SI into pokemon who uses "cheesy" pro scene tactics that riles up the stuffy poke-France setting where the classist culture emphasises straight fights and power. It definitely has this, but also has a lot of emphasis on the character's internal struggle between seeking to get home and doing what is best for his friends in the world he finds himself. 
+> 
+> It looks like it is close to finishing or at least at the end of a book.
+> 
+> After reading it I looked for other good pokemon fics and found a couple like When is a Spoon a Sword? and Throne of Mud. I enjoyed both but to a lesser extent. Anyone got recommendations in this space? I tried Hard Enough but found it too Gary Stu and have had that feeling from a few fics I dipped into before finding those other two I liked.
 
->> **u/Amonwilde** [+14] *
+>> **u/Amonwilde** [+14]  (a day later)
 >> 
 >> It was discontinued at a peak, but the best I've read is still Game of Champions. 
->> https://www.fanfiction.net/s/13407176/1/The-Game-of-Champions
 >> 
+>> https://www.fanfiction.net/s/13407176/1/The-Game-of-Champions
 
->>> **u/rambleintheroot** [+2] *
+>>> **u/rambleintheroot** [+2]  (22 days later)
 >>> 
 >>> This is a contender for best fanfics of all time imo, even cut off like it was
->>> 
 
->> **u/nathanwe** [+9] *
+>> **u/nathanwe** [+9]  (15 hours later)
 >> 
 >> I liked https://www.royalroad.com/fiction/36950/borne-of-caution
->> 
 
->>> **u/Jokey665** [+2]  *Worth the Candle**
+>>> **u/Jokey665** [+4]  *Worth the Candle* (21 hours later)
 >>> 
 >>> yeah this is the best pokefic out there imo
->>> 
 
->> **u/Darkpiplumon** [+6] *
+>> **u/Darkpiplumon** [+4]  (18 hours later)
 >> 
 >> If you don't mind Pokemon-Trainers (this is, pokemon that are trainers), you may like [Hyphen](https://forums.sufficientvelocity.com/threads/hyphen-pokemon-emerald.9539/). Set in Hoenn, the MC is a native Ralts that becomes a trainer.
->> Delightful, but slow updates.
 >> 
+>> Delightful, but slow updates.
 
->>> **u/nathanwe** [+5] *
+>>> **u/nathanwe** [+5]  (a day later)
 >>> 
 >>> There's also https://archiveofourown.org/works/28971960/chapters/71097216
->>> 
 
-> **u/Lyslum** [+5] *
+> **u/Lyslum** [+5]  (2 hours later)
 > 
 > Anyone have any good empire building thematic recommendations? I was reading Cruel to be Kind but somewhere in the middle it just panders into a chain of meaningless plot points.
-> 
 
->> **u/None** [+8] *
+>> **u/None** [+6]  (4 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Darkpiplumon** [+8] *
+>>> **u/Darkpiplumon** [+8]  (3 days later)
 >>> 
 >>> Warning: A lot, and I mean Celestial Forge levels or worse, of technobabble. 
->>> And it is highly recommendable that you know the plot of most of the science fiction shows the MC goes to. 
->>> If you're cool with all this, it's kinda nice.
 >>> 
+>>> And it is highly recommendable that you know the plot of most of the science fiction shows the MC goes to. 
+>>> 
+>>> If you're cool with all this, it's kinda nice.
 
->>> **u/Lyslum** [+3] *
+>>> **u/Lyslum** [+3]  (4 days later)
 >>> 
 >>> Thank you for the rec.
->>> 
 
->>>> **u/Straight_Sink_6304** [+1] *
+>>>> **u/Straight_Sink_6304** [+1]  (5 days later)
 >>>> 
 >>>> Your welcome
->>>> 
 
-> **u/Auroch-** [+3]  *The Immortal Words**
+> **u/Auroch-** [+3]  *The Immortal Words* (3 days later)
 > 
 > Where is the best place to read Forty Millenniums of Cultivation in English? I've seen it recommended sporadically, but the only place I can find that seems to have the English text is an [unusuably bad app](https://www.webnovel.com/book/forty-millenniums-of-cultivation_6838665402001705/artifact-graveyard_6850172302001300).
-> 
 
->> **u/Distortedmadness** [+3] *
+>> **u/Distortedmadness** [+4]  (4 days later)
 >> 
 >> I read it entirely here https://boxnovel.com/novel/forty-millenniums-of-cultivation/    
 >> be warned, in the second to last arc there was a sharp drop in tl quality. it gets tolerable again after that arc, but it was still pretty annoying.
->> 
 
->>> **u/Auroch-** [+1]  *The Immortal Words**
+>>> **u/Auroch-** [+1]  *The Immortal Words* (4 days later)
 >>> 
 >>> I'll try it! The first chapter's translation quality feels pretty bad, hopefully the weird prose won't make me bounce; I've heard good things overall.
->>> 
 
->>>> **u/vorpal_potato** [+1] *
+>>>> **u/vorpal_potato** [+1]  (5 days later)
 >>>> 
 >>>> The prose quality gets better before long, but it stays weird. It took me some time to get used to it, but it eventually started to feel natural and pleasant — not bad, just really different.
->>>> 
 
->>> **u/SpeakKindly** [+1] *
+>>> **u/SpeakKindly** [+1]  (6 days later)
 >>> 
 >>> The sharp drop in translation quality is pretty bad. To give the example that made me stop reading, at some point we get to [sentences like](https://boxnovel.com/novel/forty-millenniums-of-cultivation/chapter-2804/)
->>> > Although the strategical war between the Star Glory Federation and the Star Glory Federation had not broken out yet, friction was still raging in the Deep Earth Sector and the few Sectors nearby.
->>> To be clear, the strategic war is not between the Star Glory Federation and itself; it is between two *different* factions, *neither* of which is the Star Glory Federation, which has not actually been mentioned for hundreds of chapters.
->>> It is a bit shocking, because just copying and pasting [the untranslated text](https://www.ddyueshu.com/0_602/2818957.html)
->>> > 虽然圣盟和帝国的战略决战尚未爆发，但是在厚土界和附近几个大千世界，零星摩擦依旧此起彼伏。 
->>> into Google Translate arguably does better:
->>> > Although the strategic decisive battle between the Holy Alliance and the Empire has not yet broken out, sporadic frictions still occur one after another in the Thick Earth Realm and several nearby worlds.
->>> Silly as the "Thick Earth Realm" is, this version at least makes it possible to understand what is going on.
 >>> 
+>>> > Although the strategical war between the Star Glory Federation and the Star Glory Federation had not broken out yet, friction was still raging in the Deep Earth Sector and the few Sectors nearby.
+>>> 
+>>> To be clear, the strategic war is not between the Star Glory Federation and itself; it is between two *different* factions, *neither* of which is the Star Glory Federation, which has not actually been mentioned for hundreds of chapters.
+>>> 
+>>> It is a bit shocking, because just copying and pasting [the untranslated text](https://www.ddyueshu.com/0_602/2818957.html)
+>>> 
+>>> > 虽然圣盟和帝国的战略决战尚未爆发，但是在厚土界和附近几个大千世界，零星摩擦依旧此起彼伏。 
+>>> 
+>>> into Google Translate arguably does better:
+>>> 
+>>> > Although the strategic decisive battle between the Holy Alliance and the Empire has not yet broken out, sporadic frictions still occur one after another in the Thick Earth Realm and several nearby worlds.
+>>> 
+>>> Silly as the "Thick Earth Realm" is, this version at least makes it possible to understand what is going on.
 
->>>> **u/Distortedmadness** [+1] *
+>>>> **u/Distortedmadness** [+1]  (6 days later)
 >>>> 
 >>>> Oh yeah, that's the stuff I was talking about lmao. I had to power through it and whenever the same faction was mentioned, just have to guess by context they were talking about the Holy Alliance. Sucks that it is like this though.
->>>> It's by [chapter 2983](https://boxnovel.com/novel/forty-millenniums-of-cultivation/chapter-2983/)	that it eventually got better if I remember correctly. When it stops being translated by 'atlas studio'
 >>>> 
+>>>> It's by [chapter 2983](https://boxnovel.com/novel/forty-millenniums-of-cultivation/chapter-2983/)	that it eventually got better if I remember correctly. When it stops being translated by 'atlas studio'
 
->> **u/AviusAedifex** [+2] *
+>> **u/AviusAedifex** [+2]  (3 days later)
 >> 
 >> The best way I've found is to search for a specific chapter. So for example Forty Millenniums of Cultivation ch 135. And avoid anything with mtl. Then just scroll down and try different things out, although I wouldn't do it without an adblocker.
->> 
 
->>> **u/Auroch-** [+1]  *The Immortal Words**
+>>> **u/Auroch-** [+1]  *The Immortal Words* (4 days later)
 >>> 
 >>> How do you tell if it's machine translated?
->>> 
 
->>>> **u/gfe98** [+5] *
+>>>> **u/gfe98** [+4]  (4 days later)
 >>>> 
 >>>> You can generally tell at a glance because MTL is awful.
->>>> If you go over to /r/noveltranslations you will see countless memes about people driven insane or being corrupted by machine translation.
 >>>> 
+>>>> If you go over to /r/noveltranslations you will see countless memes about people driven insane or being corrupted by machine translation.
 
->>>>> **u/Auroch-** [+3]  *The Immortal Words**
+>>>>> **u/Auroch-** [+4]  *The Immortal Words* (4 days later)
 >>>>> 
 >>>>> ~~Can't, I asked *them* [where to find 40MoC](https://www.reddit.com/r/noveltranslations/comments/131n615/forty_millenniums_of_cultivation_is_a_real_gem/k3obxyi/) and they banned me for 'asking for pirated work'.~~
->>>>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/libertarian_reddit *
 * URL: https://www.reddit.com/r/rational/comments/2pdug7/qhey_rrational_what_are_you_all_reading_right_now/
-* Score: 24
+* Score: 27
 
 * Created: 2014-12-15T19:00:15
 
@@ -14,361 +14,365 @@ edit: I've also read Blindsight and Echopraxia
 
 ### Comments:
 
-> **u/alexanderwales** [+23]  *Time flies like an arrow**
+> **u/alexanderwales** [+25]  *Time flies like an arrow* (2 hours later)
 > 
 > I don't know that you're missing anything that hasn't been recommended on this subreddit or mentioned by /u/xamueljones. Eventually you reach a point of diminishing returns, where you've read all of the low-hanging fruit, and the next best thing is either worse than what's come before, or much harder to find. (This is true of a lot of things - I occasionally get into periods where I indulge in some new media or genre, but consumption is a lot faster than production, and it's easy to burn through the top tier of nearly anything within a few weeks.)
-> Anyway, since you're probably covered as far as the top tier of stuff that this subreddit would recommend to you, here are my standard recommendations for non-rational fiction:
-> > ***The Name of the Wind***: main character is super smart, uses his wits to get out of (and into) trouble, and is mostly awesome - there's another book out right now, ***The Wise Man's Fear***, with the third, concluding volume coming at some point in the future (and a few short stories in the meantime).
-> > ***The Lies of Locke Lamora*** is about a bunch of gentleman thieves, has a lot of trickery, deceit, plotting, and meta-plotting that I think readers with my tastes would enjoy. The first book is self-contained; there are four books out right now, and they're likewise clever and enjoyable, with lots of the "solving problems under ridiculous constraints" type stuff that I like. It's also a series with some fantastic worldbuilding.
-> > ***Mistborn*** is a fantasy trilogy that (like most things Brandon Sanderson writes) has a very structured magic system, which hides lots of secrets that a clever reader can figure out. I'd actually recommend most of what Sanderson has written, if only because of the attention he puts towards making his worlds make sense and follow rules. ***The Stormlight Archives*** is a currently unfinished series, but some of the best stuff that he's written - only two of a projected ten books are complete though, so don't start on this if you don't like unfinished things.
-> > Pretty much anything by Charles Stross. ***Accelerando*** is what I consider to be the definitive Singularity novel, and is absolutely densely packed with ideas. ***The Laundry Files*** is his James Bond meets IT department meets Cthulhu series. ***Palimpsest*** is his time travel novella, and what I'd consider one of the single most important entries into that genre. ***The Merchant Princes*** is generally considered to be a love-hate thing, but it goes from "standard worldwalking outsider fantasy fiction" to some utterly awesome and mindblowing stuff in the late books - get the British rerelease if you can, which edits things down.
-> > For deconstruction/reconstruction, I'd recommend ***The Magicians*** trilogy by Lev Grossman, which is sort of a take on the Chronicles of Narnia (and a little bit Harry Potter). They're supremely literary, in a very good way. The main character is sometimes a jerk, but try to get past that.
-> > For deconstruction/reconstruction of the superhero genre, I'd recommend ***Soon I Will Be Invincible*** by Austin Grossman (Lev Grossman's twin brother!).
-> > I also can't go without recommending ***It's Superman!*** by Tom De Haven. ***The Metropolitan Man*** owes a lot to that book.
-> > Iain Banks wrote all the Culture books, which I'd recommend, but specifically ***The Player of Games*** or ***Surface Detail*** for the rational crowd, though I think they're all pretty great.
-> > ***World War Z*** is a reconstruction of the zombie genre, told in the style of an oral history. I've heard the audiobook is also quite good, if you're into that sort of thing. They made a movie out of it (loosely) which wasn't very good.
-> > Most things by Neal Stephenson, though he's an author that gets mixed reaction. ***Anathem*** is quite long and has lots of explanations of philosophical concepts, which I think would make it a good fit for people who really like the kind of things that I like. Stephenson is terrible at endings.
-> > Finally, ***The Wizardry*** by Rick Cook is about a computer programmer who gets summoned through a portal to a world of magic and has to learn all the rules of magic to save the day. I only ever read the first book, but it stood by itself pretty well, and is available for free online. Come to think of it, a similar story that you might like is [***Erfworld***](http://www.erfworld.com/book-1-archive/?px=%2F001.jpg), a webcomic about a wargamer who gets sucked into a wargaming world and has to learn its rules to survive, and is also pretty good.
-> > Anything by Vernor Vinge (with only a few exceptions) is good; ***A Fire Upon The Deep*** and ***A Deepness in the Sky*** are two are very well thought out space opera, and often reccomended as books for people who like "very alien aliens" (meaning not just the rubber forehead aliens of Star Trek). ***Rainbow's End*** is a near-future Singularity fiction piece (Vinge is the guy who popularized the concept of the technological singularity) with artificial intelligences, brain-computer interfaces, and lots of cool stuff. ***The Peace War*** and its follow up ***Marooned in Realtime*** are two books in the vein of "introduce a technology that does something cool, then extrapolate". Overall, Vinge offers a very good blend of intelligence, well thought out world-building, and strong characterization.
-> > ***Jumper*** by Stephen Gould features a single person with a single, well-defined superpower. The implications are given a lot of thought, and there are a large number of exploits that are well-defined. They made a movie out of the book, which wasn't very good. The follow-up, ***Reflex*** is also quite good, and expands on the fictional science. The third in the series, ***Impulse***, leaves something to be desired and isn't necessary to read. The fourth, ***Exo***, just came out recently, and I consider it a return to form in most ways.
-> > ***Superman: Red Son*** is a graphic novel premised on Superman's spaceship coming down in Russia instead of Kansas. Superman grows up communist, and lots of things change. It's basically authorized fanfiction (though not quite as smart as some of these other suggestions are).
-> > ***The Time Traveler's Wife*** is a book about time travel, specifically the stable time loop kind. It's sort of odd to me that it's marketed as a love story more often than it's marketed as straight science fiction, but it's a very good book regardless, and a very good story. Mostly when I see people recommend it, they preface it with "Don't judge me but ..." which makes me think that it has some kind of unfair stigma attached to it for some reason (perhaps just because of the marketing). They made a movie of it, which wasn't terribly good.
-> > ***To Say Nothing of the Dog*** is my favorite book by Connie Willis. It's a comedy of manners set in the Victorian era with time traveling historians. It uses stable time loops as well. It's quite funny, and mostly about a missing cat.
-> > ***Altered Carbon*** and the other Takeshi Kovacs novels are great, with interesting concepts, a badass main character, and a lot of clever puzzles for the reader to solve.
-> > The ***Discworld*** series by Sir Terry Pratchett consists mostly of deconstructions and reconstructions of fantasy tropes. It's generally agreed that the first two books were where he was finding his footing, and the series began to go downhill at some point in the past few years (though there's some disagreement about precisely where). I personally think it's best to start with one of the standalone novels like *Small Gods*, which will let you know whether you like his style. He also co-wrote ***Good Omens*** with Neil Gaiman, which is one of my favorite books.
-> > ***The Handmaid's Tale*** by Margaret Atwood is in the theme of science fiction as social commentary, like ***1984*** or ***Brave New World*** (which I'd suggest you read mostly for cultural literacy - I consider *1984* to be the superior of the two). It's mostly about gender. Similarly, the MadAddam trilogy is mostly about ecology (though I still haven't read past the first in the series, which I felt was fine as a standalone).
-> > I was really enamored with Kurt Vonnegut when I was younger, but I think he's one of those authors that I sort of outgrew. Nevertheless, I think that ***Cat's Cradle*** is a wonderful book, and I still reread it from time to time, which I can't say about many books. I also really liked ***Breakfast of Champions***, which has a lot of pictures drawn by the author, and is written as though for an alien who was unfamiliar with human society.
-> As for what I'm reading at this very moment, I just finished up *The Paper Magician*, which ... frustrating in its worldbuilding, weak in its plot, and pretty good in its characterization. I'm currently alternating between *The Runelords* and *The Blind Assassin*, neither of which I've read enough of to give a firm opinion on.
 > 
+> Anyway, since you're probably covered as far as the top tier of stuff that this subreddit would recommend to you, here are my standard recommendations for non-rational fiction:
+> 
+> > ***The Name of the Wind***: main character is super smart, uses his wits to get out of (and into) trouble, and is mostly awesome - there's another book out right now, ***The Wise Man's Fear***, with the third, concluding volume coming at some point in the future (and a few short stories in the meantime).
+> 
+> > ***The Lies of Locke Lamora*** is about a bunch of gentleman thieves, has a lot of trickery, deceit, plotting, and meta-plotting that I think readers with my tastes would enjoy. The first book is self-contained; there are four books out right now, and they're likewise clever and enjoyable, with lots of the "solving problems under ridiculous constraints" type stuff that I like. It's also a series with some fantastic worldbuilding.
+> 
+> > ***Mistborn*** is a fantasy trilogy that (like most things Brandon Sanderson writes) has a very structured magic system, which hides lots of secrets that a clever reader can figure out. I'd actually recommend most of what Sanderson has written, if only because of the attention he puts towards making his worlds make sense and follow rules. ***The Stormlight Archives*** is a currently unfinished series, but some of the best stuff that he's written - only two of a projected ten books are complete though, so don't start on this if you don't like unfinished things.
+> 
+> > Pretty much anything by Charles Stross. ***Accelerando*** is what I consider to be the definitive Singularity novel, and is absolutely densely packed with ideas. ***The Laundry Files*** is his James Bond meets IT department meets Cthulhu series. ***Palimpsest*** is his time travel novella, and what I'd consider one of the single most important entries into that genre. ***The Merchant Princes*** is generally considered to be a love-hate thing, but it goes from "standard worldwalking outsider fantasy fiction" to some utterly awesome and mindblowing stuff in the late books - get the British rerelease if you can, which edits things down.
+> 
+> > For deconstruction/reconstruction, I'd recommend ***The Magicians*** trilogy by Lev Grossman, which is sort of a take on the Chronicles of Narnia (and a little bit Harry Potter). They're supremely literary, in a very good way. The main character is sometimes a jerk, but try to get past that.
+> 
+> > For deconstruction/reconstruction of the superhero genre, I'd recommend ***Soon I Will Be Invincible*** by Austin Grossman (Lev Grossman's twin brother!).
+> 
+> > I also can't go without recommending ***It's Superman!*** by Tom De Haven. ***The Metropolitan Man*** owes a lot to that book.
+> 
+> > Iain Banks wrote all the Culture books, which I'd recommend, but specifically ***The Player of Games*** or ***Surface Detail*** for the rational crowd, though I think they're all pretty great.
+> 
+> > ***World War Z*** is a reconstruction of the zombie genre, told in the style of an oral history. I've heard the audiobook is also quite good, if you're into that sort of thing. They made a movie out of it (loosely) which wasn't very good.
+> 
+> > Most things by Neal Stephenson, though he's an author that gets mixed reaction. ***Anathem*** is quite long and has lots of explanations of philosophical concepts, which I think would make it a good fit for people who really like the kind of things that I like. Stephenson is terrible at endings.
+> 
+> > Finally, ***The Wizardry*** by Rick Cook is about a computer programmer who gets summoned through a portal to a world of magic and has to learn all the rules of magic to save the day. I only ever read the first book, but it stood by itself pretty well, and is available for free online. Come to think of it, a similar story that you might like is [***Erfworld***](http://www.erfworld.com/book-1-archive/?px=%2F001.jpg), a webcomic about a wargamer who gets sucked into a wargaming world and has to learn its rules to survive, and is also pretty good.
+> 
+> > Anything by Vernor Vinge (with only a few exceptions) is good; ***A Fire Upon The Deep*** and ***A Deepness in the Sky*** are two are very well thought out space opera, and often reccomended as books for people who like "very alien aliens" (meaning not just the rubber forehead aliens of Star Trek). ***Rainbow's End*** is a near-future Singularity fiction piece (Vinge is the guy who popularized the concept of the technological singularity) with artificial intelligences, brain-computer interfaces, and lots of cool stuff. ***The Peace War*** and its follow up ***Marooned in Realtime*** are two books in the vein of "introduce a technology that does something cool, then extrapolate". Overall, Vinge offers a very good blend of intelligence, well thought out world-building, and strong characterization.
+> 
+> > ***Jumper*** by Stephen Gould features a single person with a single, well-defined superpower. The implications are given a lot of thought, and there are a large number of exploits that are well-defined. They made a movie out of the book, which wasn't very good. The follow-up, ***Reflex*** is also quite good, and expands on the fictional science. The third in the series, ***Impulse***, leaves something to be desired and isn't necessary to read. The fourth, ***Exo***, just came out recently, and I consider it a return to form in most ways.
+> 
+> > ***Superman: Red Son*** is a graphic novel premised on Superman's spaceship coming down in Russia instead of Kansas. Superman grows up communist, and lots of things change. It's basically authorized fanfiction (though not quite as smart as some of these other suggestions are).
+> 
+> > ***The Time Traveler's Wife*** is a book about time travel, specifically the stable time loop kind. It's sort of odd to me that it's marketed as a love story more often than it's marketed as straight science fiction, but it's a very good book regardless, and a very good story. Mostly when I see people recommend it, they preface it with "Don't judge me but ..." which makes me think that it has some kind of unfair stigma attached to it for some reason (perhaps just because of the marketing). They made a movie of it, which wasn't terribly good.
+> 
+> > ***To Say Nothing of the Dog*** is my favorite book by Connie Willis. It's a comedy of manners set in the Victorian era with time traveling historians. It uses stable time loops as well. It's quite funny, and mostly about a missing cat.
+> 
+> > ***Altered Carbon*** and the other Takeshi Kovacs novels are great, with interesting concepts, a badass main character, and a lot of clever puzzles for the reader to solve.
+> 
+> > The ***Discworld*** series by Sir Terry Pratchett consists mostly of deconstructions and reconstructions of fantasy tropes. It's generally agreed that the first two books were where he was finding his footing, and the series began to go downhill at some point in the past few years (though there's some disagreement about precisely where). I personally think it's best to start with one of the standalone novels like *Small Gods*, which will let you know whether you like his style. He also co-wrote ***Good Omens*** with Neil Gaiman, which is one of my favorite books.
+> 
+> > ***The Handmaid's Tale*** by Margaret Atwood is in the theme of science fiction as social commentary, like ***1984*** or ***Brave New World*** (which I'd suggest you read mostly for cultural literacy - I consider *1984* to be the superior of the two). It's mostly about gender. Similarly, the MadAddam trilogy is mostly about ecology (though I still haven't read past the first in the series, which I felt was fine as a standalone).
+> 
+> > I was really enamored with Kurt Vonnegut when I was younger, but I think he's one of those authors that I sort of outgrew. Nevertheless, I think that ***Cat's Cradle*** is a wonderful book, and I still reread it from time to time, which I can't say about many books. I also really liked ***Breakfast of Champions***, which has a lot of pictures drawn by the author, and is written as though for an alien who was unfamiliar with human society.
+> 
+> As for what I'm reading at this very moment, I just finished up *The Paper Magician*, which ... frustrating in its worldbuilding, weak in its plot, and pretty good in its characterization. I'm currently alternating between *The Runelords* and *The Blind Assassin*, neither of which I've read enough of to give a firm opinion on.
 
->> **u/Ulmaxes** [+9] *
+>> **u/Ulmaxes** [+9]  (9 hours later)
 >> 
 >> Giving anything by Brandon Sanderson a giant thumbs up here. He's amazing at building magic systems that are colorful and fantastic, yet interact logically with the real world. As alex mentioned,  you can figure out bits of the magic system ahead of the story if you pay attention and think carefully. I recommend him to everyone, usually starting with the Mistborn trilogy.  He's brilliant at playing on classic fantasy tropes,  twisting them without mocking or breaking them- instead he just moves the pieces on the board around a little and says, "huh. Wonder what happens now? Guess we'll find out!"
->> 
 
->>> **u/Nevereatcars** [+5]  *The Greatest Is Behind**
+>>> **u/Nevereatcars** [+5]  *The Greatest Is Behind* (11 hours later)
 >>> 
 >>> Gonna add to this guy that if you want to give your heart to Brandon Sanderson, as I (We?) have, you'll want to work through his main meta-series (The Cosmere saga, which has many stories taking place on different worlds in the same universe, with some interconnectivity) in the following order: Mistborn, Elantris or Warbreaker, the other of Elantris or Warbreaker, THEN read The Stormlight Archives. Not only is Stormlight Archives a huge investment of time, the series contains many allusions to events that happened in earlier books, as well as some cameos from other series which promise to become important later.
->>> 
 
->>>> **u/Ulmaxes** [+2] *
+>>>> **u/Ulmaxes** [+2]  (a day later)
 >>>> 
 >>>> Yup! I usually leave out the meta-story setup at first, simply because of the large time investment one need make in order to really consume the major pieces. Now, once they're hooked, through Mistborn, and salivating for more... THEN you hit em with the big guns. :P
->>>> 
 
->>> **u/rumblestiltsken** [+5] *
+>>> **u/rumblestiltsken** [+4]  (7 days later)
 >>> 
 >>> The problem is that (at least for me) Brandon sanderson writes one dimensional characters and really stodgy plots. It is like he puts all of his effort into the convoluted magic systems (overly convoluted for my taste, like, yeah, they are consistent, but they still reek of "woah, what if people did magic by constructing block puzzles?") and then gives up on the actual stories.
->>> I actually think he is a good writer, he finished Wheel of Time admirably. Maybe he should do more fanfiction?
 >>> 
+>>> I actually think he is a good writer, he finished Wheel of Time admirably. Maybe he should do more fanfiction?
 
->> **u/totes_meta_bot** [+5] *
+>> **u/totes_meta_bot** [+5]  (2 hours later)
 >> 
 >> This thread has been linked to from elsewhere on reddit.
-
->>  - [/r/alexanderwales] [Book Recommendations](http://np.reddit.com/r/alexanderwales/comments/2pedme/book_recommendations/)
-
->> *^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote ^or ^comment. ^Questions? ^Abuse? [^Message ^me ^here.](http://www.reddit.com/message/compose?to=%2Fr%2Fmeta_bot_mailbag)*
 >> 
+>>  - [/r/alexanderwales] [Book Recommendations](http://np.reddit.com/r/alexanderwales/comments/2pedme/book_recommendations/)
+>> 
+>> *^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote ^or ^comment. ^Questions? ^Abuse? [^Message ^me ^here.](http://www.reddit.com/message/compose?to=%2Fr%2Fmeta_bot_mailbag)*
 
->> **u/libertarian_reddit** [+3] *
+>> **u/libertarian_reddit** [+3]  (2 hours later)
 >> 
 >> Soon I Will Be Invincible was pretty good, but the ending sort of left me wanting. I haven't read any of the others but I have been meaning to red Red Son for a while now. At any rate, thank you for the extensive list; I'm sure I'll be trying many of your suggestions.
->> 
 
->>> **u/mynoduesp** [+1] *
+>>> **u/mynoduesp** [+1]  (2 days later)
 >>> 
 >>> I enjoyed both, red son is a quick read but a nice what if.
->>> 
 
->> **u/lilacnova** [+2] *
+>> **u/lilacnova** [+2]  (14 hours later)
 >> 
 >> Small correction: Terry Pratchett co-wrote Good Omens not with himself, but with Neil Gaiman.
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (14 hours later)
 >>> 
 >>> Corrected, thanks!
->>> 
 
->> **u/thecommexokid** [+2] *
+>> **u/thecommexokid** [+2]  (11 days later)
 >> 
 >> To any list lauding *The time-traveler's wife* and *Jumper* for their incredibly detailed and well-thought-out explorations of all the benefits, drawbacks, and consequences of their premises, I would add H.F. Saint's ***Memoirs of an invisible man***, which does for invisibility what the former two do for time travel and teleportation. The book is hands-down the most intricate, well-developed, sensible treatment of invisibility I've ever come across, while also being a nail-bitingly suspenseful man-on-the-run thriller.
->> [The one caveat I have is that it begins—within the first 10 pages—with a somewhat lengthily described sex scene, which can give rather the wrong first impression as to what sort a book it's going to be.]
 >> 
+>> [The one caveat I have is that it begins—within the first 10 pages—with a somewhat lengthily described sex scene, which can give rather the wrong first impression as to what sort a book it's going to be.]
 
->> **u/Kuratius** [+1] *
+>> **u/Kuratius** [+1]  (23 hours later)
 >> 
 >> Do you still have the wizardry lying around somewhere digitally? If so, could you send it to me?
->> 
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (23 hours later)
 >>> 
 >>> It was at one point available from the Baen Free Library, but it appears they took it down. However, the Internet Archive Wayback Machine perserves a copy, which you can [find here](http://web.archive.org/web/20040603022057/http://www.baen.com/library/0671878468/0671878468.htm). It's not the ideal way to read a book, but I believe it's a complete copy of the first book in the series. It reminds me of *The Two Year Emperor*, in a lot of ways.
->>> 
 
->>>> **u/Anderkent** [+1] *
+>>>> **u/Anderkent** [+1]  (3 days later)
 >>>> 
 >>>> YMMV but I found the first Wizardry book was easily the best, and the entire schtick of programming magic gets old pretty quickly afterwards. Still recommend reading the first book, but the others only if you *really* enjoyed it.
->>>> 
 
->> **u/TimTravel** [+1] *
+>> **u/TimTravel** [+1]  (a day later)
 >> 
 >> Discworld: I'd recommend Mort or Equal Rites as starters instead. Death and Granny Weatherwax are the best characters.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> >with lots of the "solving problems under ridiculous constraints" type stuff that I like
->> LL is the perfect universe to benefit from EY's inexploitability treatment. The books would be ten thousand times more interesting if one author created the predicaments of the protagonists, and another figured out a way to keep them alive and rich.
 >> 
+>> LL is the perfect universe to benefit from EY's inexploitability treatment. The books would be ten thousand times more interesting if one author created the predicaments of the protagonists, and another figured out a way to keep them alive and rich.
 
-> **u/xamueljones** [+13]  *My arch-enemy is entropy**
+> **u/xamueljones** [+14]  *My arch-enemy is entropy* (26 minutes later)
 > 
 > Anything under [Rational Fiction on TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic).
-> These six great novels called [SI](https://docs.google.com/document/d/1Bk1r-nxx-wxfvTH5o72Sq-dbshF8iqiOaZ3vGb_X1YU/edit) by DataPacRat that's about a post-Singularity apocalypse.
-> Anything by [Eliezer Yudkowsky](http://yudkowsky.net/other/fiction/).
-> [Symbiote](https://farmerbob1.wordpress.com/) by farmerbob1 about what would you do with control over biology. I haven't read his other story yet, [Reject Hero](http://rejecthero.wordpress.com/), but I heard it's good.
-> [Hamlet and the Philosopher's Stone](http://makefoil.com/), where Hamlet acts rationally, but you have to buy it for $4. It's not free and it's less than 100 pages long, but please don't try to find a free copy online to cheat this wonderful author.
-> If you liked [Two Year Emperor](https://www.fanfiction.net/s/9669819/1/The-Two-Year-Emperor), then you'll like [Harry Potter and the Natural Twenty](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20).
-> There's a couple more stories I know of (I made an extensive list), but these are the ones that are either finished, or updating regularly.
-> EDIT: If you want to read more by the same author of [Worm](http://parahumans.wordpress.com/), he also wrote [Pact](http://pactwebserial.wordpress.com/). But people have been commenting that liking Worm doesn't mean you'll like Pact.
 > 
+> These six great novels called [SI](https://docs.google.com/document/d/1Bk1r-nxx-wxfvTH5o72Sq-dbshF8iqiOaZ3vGb_X1YU/edit) by DataPacRat that's about a post-Singularity apocalypse.
+> 
+> Anything by [Eliezer Yudkowsky](http://yudkowsky.net/other/fiction/).
+> 
+> [Symbiote](https://farmerbob1.wordpress.com/) by farmerbob1 about what would you do with control over biology. I haven't read his other story yet, [Reject Hero](http://rejecthero.wordpress.com/), but I heard it's good.
+> 
+> [Hamlet and the Philosopher's Stone](http://makefoil.com/), where Hamlet acts rationally, but you have to buy it for $4. It's not free and it's less than 100 pages long, but please don't try to find a free copy online to cheat this wonderful author.
+> 
+> If you liked [Two Year Emperor](https://www.fanfiction.net/s/9669819/1/The-Two-Year-Emperor), then you'll like [Harry Potter and the Natural Twenty](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20).
+> 
+> There's a couple more stories I know of (I made an extensive list), but these are the ones that are either finished, or updating regularly.
+> 
+> EDIT: If you want to read more by the same author of [Worm](http://parahumans.wordpress.com/), he also wrote [Pact](http://pactwebserial.wordpress.com/). But people have been commenting that liking Worm doesn't mean you'll like Pact.
 
->> **u/libertarian_reddit** [+7] *
+>> **u/libertarian_reddit** [+7]  (an hour later)
 >> 
 >> Wow, I had no idea Eliezer Yudkowsky wrote so much already. Tv tropes is putting me on to City of Angles, which I have seen a post or two about, but never really looked into.
->> 
 
->>> **u/DiscyD3rp** [+1]  *Wannabe Shakespeare**
+>>> **u/DiscyD3rp** [+1]  *Wannabe Shakespeare* (2 days later)
 >>> 
 >>> If you're impressed with Eliezer's work so far, wait until you get into his nonfiction writing. There's a mountain of fascinating blog posts made of pure gold just waiting for you.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (6 days later)
 >>>> 
 >>>> Of course, for those you should really go read the associated original scientific sources.  But to get to *Probability Theory: the Logic of Science* and a solid machine-learning textbook you're probably going to need some lower-level background first.
->>>> 
 
->> **u/STL** [+5] *
+>> **u/STL** [+5]  (7 hours later)
 >> 
 >> > If you liked Worm, then you'll like Pact.
->> I disagree. I loved Worm after I got through the first 8 arcs (it has a slow start), but I slogged through 10 arcs of Pact before abandoning it.
 >> 
+>> I disagree. I loved Worm after I got through the first 8 arcs (it has a slow start), but I slogged through 10 arcs of Pact before abandoning it.
 
->>> **u/Tenobrus** [+3] *
+>>> **u/Tenobrus** [+3]  (a day later)
 >>> 
 >>> Just to increase opinion sample size, I'm liking Pact slightly more than Worm. It definitely falls further outside the bounds of "rational fiction" than Worm though.
->>> 
 
->>> **u/TimTravel** [+2] *
+>>> **u/TimTravel** [+2]  (a day later)
 >>> 
 >>> Same.
->>> 
 
->>> **u/Gyddanar** [+1] *
+>>> **u/Gyddanar** [+1]  (3 months later)
 >>> 
 >>> I tried and failed getting into pact first go, but second go, galloped through it. 
->>> It's very definitely based off far more an abstract setting/system than worm is. Worm, how and why the system works (or doesn't) is part of the plot. Pact, you're told right off how the system works, and then the cast has to survive it.
 >>> 
+>>> It's very definitely based off far more an abstract setting/system than worm is. Worm, how and why the system works (or doesn't) is part of the plot. Pact, you're told right off how the system works, and then the cast has to survive it.
 
->>> **u/AmeteurOpinions** [+0]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+0]  *Finally, everyone was working together.* (a day later)
 >>> 
 >>> Textbook case of sequelitis.
->>> 
 
->>>> **u/Farmerbob1** [+3]  *Level 1 author**
+>>>> **u/Farmerbob1** [+4]  *Level 1 author* (a day later)
 >>>> 
 >>>> Pact is not a sequel to Worm.
 >>>> Worm is superhero fiction, Pact is urban fantasy.
 >>>> The fact that Wildbow pulled such a large readerbase from one genre to the other should indicate that he's a good writer.
->>>> Granted, some people just don't like urban fantasy.  Fair enough, but if you do like urban fantasy, or think you might, I'd give Pact a try
 >>>> 
+>>>> Granted, some people just don't like urban fantasy.  Fair enough, but if you do like urban fantasy, or think you might, I'd give Pact a try
 
->>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >>>>> 
 >>>>> "Second album syndrome" or "sophomore slump" would be a better term for it than sequelitis.
->>>>> 
 
->>>>>> **u/Farmerbob1** [+3]  *Level 1 author**
+>>>>>> **u/Farmerbob1** [+3]  *Level 1 author* (a day later)
 >>>>>> 
 >>>>>> I don't think that's a fair assessment of Wildbow's work, though it would be a fair assessment of a cross-genre failure.  The reason I say that is because Wildbow is certainly not failing.
->>>>>> Trying to sell Pact to a rational fiction crowd would be like trying to pitch celery to a carnivore (In any universe but the Honorverse) but his understanding of characters, world building, plot arcs, scenes, sequels, Easter Eggs, foreshadowing, and other parts of writing is extremely solid.
->>>>>> Pact is NOT rational fiction.  If you try to look at it from a rational fiction point of view there are so many holes that it can't be enjoyed.  Looked at as a non-rational story, I find it to be a fun read, and frequently thought provoking.
 >>>>>> 
+>>>>>> Trying to sell Pact to a rational fiction crowd would be like trying to pitch celery to a carnivore (In any universe but the Honorverse) but his understanding of characters, world building, plot arcs, scenes, sequels, Easter Eggs, foreshadowing, and other parts of writing is extremely solid.
+>>>>>> 
+>>>>>> Pact is NOT rational fiction.  If you try to look at it from a rational fiction point of view there are so many holes that it can't be enjoyed.  Looked at as a non-rational story, I find it to be a fun read, and frequently thought provoking.
 
->>>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >>>>>>> 
 >>>>>>> I'm actually just using [wildbow's wording](http://www.reddit.com/r/AskReddit/comments/2fwdsm/creative_redditors_could_you_share_the_things_you/ckdpswm).
->>>>>>> I personally found *Pact* to be less enjoyable than *Worm*, without even considering it as rational fiction (which I don't think *Worm* really was either), but I stopped reading some five or six arcs in, so can't comment on it in its current state.
 >>>>>>> 
+>>>>>>> I personally found *Pact* to be less enjoyable than *Worm*, without even considering it as rational fiction (which I don't think *Worm* really was either), but I stopped reading some five or six arcs in, so can't comment on it in its current state.
 
->>>>>>>> **u/Farmerbob1** [+2]  *Level 1 author**
+>>>>>>>> **u/Farmerbob1** [+2]  *Level 1 author* (a day later)
 >>>>>>>> 
 >>>>>>>> One of the hardest things for an author to do is judge themselves.  If he's writing Pact this well, and feeling moderately negative about it as compared to Worm, I can't wait to see what he writes the next time he feels that he's really into a project.
->>>>>>>> 
 
->>>>>>> **u/Izeinwinter** [+1] *
+>>>>>>> **u/Izeinwinter** [+1]  (4 days later)
 >>>>>>> 
 >>>>>>> Worm was already well into "Darkness induced apathy" territory. Pact came across as worse on that score, to the point where I bounced off hard fairly early.
->>>>>>> 
 
->>>>>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (5 days later)
 >>>>>>>> 
 >>>>>>>> Wildbow certainly doesn't write upbeat fiction.
->>>>>>>> 
 
->> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (an hour later)
 >> 
 >> I almost forgot about this one, but I think I need to put it into it's own post. If you liked [Harry Potter and the Methods of Rationality](http://hpmor.com/), then you'll like "Something Very Special" which is about two adult wizards using their knowledge of magic and computer science (among other sciences), to explore the universe, time-travel, and face off an even *more* rational antagonist. It's at nine chapters, but I don't know where you can download it off the Internet. I recommend e-mailing the author for updates and a free current copy.
->> > If you want to receive updates, follow shermansgallifreyan.tumblr.com or email lsherman@mit.edu with the subject line “SVS”.
 >> 
+>> > If you want to receive updates, follow shermansgallifreyan.tumblr.com or email lsherman@mit.edu with the subject line “SVS”.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (11 hours later)
 >>> 
 >>> there was a thread with a link few days ago.
->>> 
 
-> **u/Bobertus** [+5] *
+> **u/Bobertus** [+5]  (2 hours later)
 > 
 > I'll mention it, simply because it's one of my favorites. [To the Stars](https://www.reddit.com/r/rational/comments/2g6ffg/to_the_stars_puella_magica_ad_astra_hsf_magical/). It's webfiction (a fanfic to be precise, though I don't think one needs to know anything about Puella Magi Madoka Magica). (It also has the only double meta [fanfic](http://www.fanfiction.net/s/9107321/1/Reaching-for-Eternity) that I know of).
-> [My little Pony: Friendship is Optimal](https://www.reddit.com/r/rational/comments/1s0hr1/friendship_is_optimal_mlp_earthfic/) has not been mentioned yet.
-> As for books, I'll give a vote for Anathem by Neal Stephenson. It's a book about math-monks. I think I've seen it compared to Yudkowsky's [beisutsukai "stories"](http://lesswrong.com/tag/conspiracy_world/) for being set in a somewhat similarly flavored world world.
 > 
+> [My little Pony: Friendship is Optimal](https://www.reddit.com/r/rational/comments/1s0hr1/friendship_is_optimal_mlp_earthfic/) has not been mentioned yet.
+> 
+> As for books, I'll give a vote for Anathem by Neal Stephenson. It's a book about math-monks. I think I've seen it compared to Yudkowsky's [beisutsukai "stories"](http://lesswrong.com/tag/conspiracy_world/) for being set in a somewhat similarly flavored world world.
 
->> **u/libertarian_reddit** [+3] *
+>> **u/libertarian_reddit** [+3]  (5 hours later)
 >> 
 >> I'm... afraid to read pony anything. I never did care for the show, even after giving it a fair 3 episode chance. From what I remember of the main story line I could see how some well written ff could be a good read. What's it about?
->> 
 
->>> **u/tilkau** [+4] *
+>>> **u/tilkau** [+3]  (6 hours later)
 >>> 
 >>> In Friendship is Optimal, pony is the imported quality, not rationality. That is, it's not set in the MLPFiM-verse, it's just about a GAI created by people on Earth, who is styled after Princess Celestia and whose overall goal is "satisfy values through friendship and ponies". The storyline of MLPFiM doesn't really have anything to do with it.
->>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 days later)
 >>> 
 >>> Not being into ponies might make it better actually, as you may mirror the reactions of most of the characters mute closely (many of them aren't really interested in ponies).
->>> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (6 hours later)
 >> 
 >> I deliberately chose not to include [My little Pony: Friendship is Optimal](http://www.fimfiction.net/story/62074/friendship-is-optimal), because it seemed to be more about transhumanism and a technological singularity (something that we're all interested in) and not necessarily about being rational. If you really want rational MLP fiction, then check out this [group](http://www.fimfiction.net/group/1418/lesswrong). Particularly *[Myou've Gotta Be Kidding Me](https://www.fimfiction.net/story/33512/Myou%27ve-Gotta-be-Kidding-Me)*
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (20 hours later)
 >>> 
 >>> You're not wrong, but FiO is worth mentioning just for people who don't give a fuck about ponies but likes nerd-ass fanfics. Like me.
->>> 
 
-> **u/_ShadowElemental** [+7]  *Sufficiently Analyzed Magic**
+> **u/_ShadowElemental** [+5]  *Sufficiently Analyzed Magic* (6 hours later)
 > 
 > Here's some recommendations for intelligent non-rational fiction:
+> 
 > >[Saruman of Many Devices](https://www.fanfiction.net/s/7568728/1): In *The Lord of the Rings*, remember how Saruman started an industrial revolution, and how awesome that was? And remember how he threw it all away by siding with the local dictator warlord instead of ushering in the Renaissance and bringing the entire world out of the Middle Ages, and how much of a letdown that was? (I suppose Tolkien did call it  *Middle*-Earth for a reason). Well, user Saphroneth decided that it was a letdown too, and wrote this fic. Basically, Saruman sides with the free nations, and designs and mass-produces guns and outfits his army with them. Awesomeness ensues. 
 > >
 > >[Semper Victoria](https://www.fanfiction.net/s/6375554/1): Similar to the above. An Enlightenment-pov interpretation of the aftermath of the movie *Avatar*. Humanity needs unobtainium to survive, so we return to Pandora. Takes a more nuanced look at the ensuing massive culture clash than the movie's "trees good technology bad".
 > >
 > >Pandora's Star (and its five sequels (yup, a new book just got finished!!)), by Peter F Hamilton: long-future space opera science fiction. Everyone's immortal via technology and transhuman civilization is a network of habitable planets spanning intersteller space connected by wormholes. Then we encounter the Prime, truly *alien* aliens the way [*Madoka Magica* spoilers](#s "*Kyubey* is alien"), aliens with vastly different utility functions. Awesomeness ensues. And did I mention the conspiracy-theory-that-may-or-may-not-be-true about [spoilers book one](#s "another hidden intelligence orchestrating these events for its own benefit")?
-> edit: clarity
 > 
+> edit: clarity
 
-> **u/noggin-scratcher** [+5]  *I am a happy tree**
+> **u/noggin-scratcher** [+6]  *I am a happy tree* (3 hours later)
 > 
 > My regular reading of the moment consists of 
-> * [Pact](http://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/) (Wildbow 2: Wildbowier, modern fantasy with a familiar brutal difficulty ramp for the protagonist)
-> * [Following the Phoenix](https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix) (HPMoR spinoff fic, "What if Hermione was sent to Azkaban?")
-> * [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species) ("What if Pokémon made sense?")
-> * [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning) ("Mage in training gets caught in month-long 'Groundhog Day' time loop")
-> * [Weaver Nine](http://forums.spacebattles.com/threads/weaver-nine-worm-fanfic-au-thread-2.304177/) (Worm spinoff fic, "What if Jack Slash and Taylor were born in each others' places?")
-> I'd recommend any of 'em.
 > 
+> * [Pact](http://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/) (Wildbow 2: Wildbowier, modern fantasy with a familiar brutal difficulty ramp for the protagonist)
+> 
+> * [Following the Phoenix](https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix) (HPMoR spinoff fic, "What if Hermione was sent to Azkaban?")
+> 
+> * [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species) ("What if Pokémon made sense?")
+> 
+> * [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning) ("Mage in training gets caught in month-long 'Groundhog Day' time loop")
+> 
+> * [Weaver Nine](http://forums.spacebattles.com/threads/weaver-nine-worm-fanfic-au-thread-2.304177/) (Worm spinoff fic, "What if Jack Slash and Taylor were born in each others' places?")
+> 
+> I'd recommend any of 'em.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 days later)
 >> 
 >> Mother of Learning is so good, but I'd recommend not reading it until it's over unless you're desperate. The story is much more paced like a book with fully original characters and setting, so coming back to it pretty much requires a reread.
->> 
 
-> **u/Bowbreaker** [+5]  *Solitary Locust**
+> **u/Bowbreaker** [+6]  *Solitary Locust* (4 hours later)
 > 
 > One of the first rational fanfics that followed Yudkowsky's example to my knowledge is [Luminosity](http://luminous.elcenia.com/story.shtml).
-> It is a Twilight fanfic with rational!Bella.
-> I also enjoy the ongoing but extensive fanfic [With this ring](http://forums.spacebattles.com/threads/with-this-ring-young-justice-si-story-only.272850/). It is a Self Insert where the main character (the author) wakes up orbiting Earth the DC Young Justice universe and finds himself wearing an Orange Lantern Ring. Lots of rational problem solving and logical consequences, though the main character is a tad powerful.
-> And of course you can look at all the [awesome stuff](http://www.hpmorpodcast.com/?page_id=1096) recorded in the www.hpmorpodcast.com while there were no hpmor chapters to be read.
 > 
+> It is a Twilight fanfic with rational!Bella.
+> 
+> I also enjoy the ongoing but extensive fanfic [With this ring](http://forums.spacebattles.com/threads/with-this-ring-young-justice-si-story-only.272850/). It is a Self Insert where the main character (the author) wakes up orbiting Earth the DC Young Justice universe and finds himself wearing an Orange Lantern Ring. Lots of rational problem solving and logical consequences, though the main character is a tad powerful.
+> 
+> And of course you can look at all the [awesome stuff](http://www.hpmorpodcast.com/?page_id=1096) recorded in the www.hpmorpodcast.com while there were no hpmor chapters to be read.
 
->> **u/VorpalAuroch** [+3]  *Life before Death**
+>> **u/VorpalAuroch** [+3]  *Life before Death* (9 hours later)
 >> 
 >> I second the rec for With This Ring. Paul better approximates my utility function and what I'd do given power than does any other character I've seen. (Simon Tam is second-closest.)
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 days later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>> **u/Bowbreaker** [+1]  *Solitary Locust* (3 days later)
 >>> 
 >>> Only Metropolitan Man by /u/alexanderwales. But I don't know much about the space battles webside and from the little I have seen they do have a lot of fanfictions, SI and forum input based stories. Especially the latter often have at least partially rational main characters just by the virtue of their decision making being by committee.
->>> Have you seen [Wildbow's own PRT Quest](http://forums.spacebattles.com/threads/prt-department-sixty-four-worm-quest.283888/)? At the moment it is in hiatus because of his large workload and personal life issues but there already is a lot of material (and 3 whole threads) and he said he plans on picking it up again.
 >>> 
+>>> Have you seen [Wildbow's own PRT Quest](http://forums.spacebattles.com/threads/prt-department-sixty-four-worm-quest.283888/)? At the moment it is in hiatus because of his large workload and personal life issues but there already is a lot of material (and 3 whole threads) and he said he plans on picking it up again.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 days later)
 >> 
 >> Can I read and understand "With this ring" without having read anything Green Lantern related?
->> 
 
->>> **u/gintokifan** [+1] *
+>>> **u/gintokifan** [+1]  (6 days later)
 >>> 
 >>> If you have at least a basic understanding of how Lantern rings work in general, you should be fine. Your reading would be greatly enhanced by general knowledge of the DC universe though.
->>> 
 
->>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>> **u/Bowbreaker** [+1]  *Solitary Locust* (26 days later)
 >>> 
 >>> Somehow missed this message. You can. I knew pretty much nothing about Green Lantern and only little about the DC universe in general. I also hadn't seen even a single episode of Young Justice. On the other hand I'm the type of guy who opens up the relevant wikis and meticulously reads up at least a bit with each new name that gets thrown around. Did the same with Luminosity and even HPMOR for all the spells and stuff, though I had read the Harry Potter books as a kid.
->>> 
 
-> **u/RMcD94** [+4] *
+> **u/RMcD94** [+4]  (an hour later)
 > 
 > This isn't 100% relevant but I recommend to start recording what you read or start reading, it's useful both if you're wanting to recommend books to people and if you're letting people know what you've already read. 
-> More on topic:
-> http://www.reddit.com/r/HPMOR/comments/1m7gta/good_stories/
 > 
+> More on topic:
+> 
+> http://www.reddit.com/r/HPMOR/comments/1m7gta/good_stories/
 
-> **u/None** [+4] *
+> **u/None** [+4]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/libertarian_reddit** [+6] *
+>> **u/libertarian_reddit** [+6]  (5 hours later)
 >> 
 >> That would be too rational a decision.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> It will be done.
->> 
 
-> **u/qznc** [+5]  *Chaos Legion**
+> **u/qznc** [+5]  *Chaos Legion* (16 hours later)
 > 
 > Right now: [The Last Ringbearer](http://ymarkov.livejournal.com/280578.html).
-> A Lord of the Rings fanfic, where Aragorn, Gandalf and elves are evil and Mordor is (mostly) good. Tolkien's story is propaganda. The main part of the story is after Mordor falls. It reads more like a fantasy spy thriller.
-> It is more rational than Lord of the Rings as it tries to make the economics, politics, technology, etc more consistent.
 > 
+> A Lord of the Rings fanfic, where Aragorn, Gandalf and elves are evil and Mordor is (mostly) good. Tolkien's story is propaganda. The main part of the story is after Mordor falls. It reads more like a fantasy spy thriller.
+> 
+> It is more rational than Lord of the Rings as it tries to make the economics, politics, technology, etc more consistent.
 
->> **u/libertarian_reddit** [+1] *
+>> **u/libertarian_reddit** [+1]  (19 hours later)
 >> 
 >> That sounds awesome! Thanks for sharing!
->> 
 
-> **u/Solonarv** [+3]  *Chaos Legion**
+> **u/Solonarv** [+3]  *Chaos Legion* (14 hours later)
 > 
 > In progress, i.e. I'm reading updates as they come out/every so often:
+> 
 >  - HPMOR (I also read EY's other stories)
 >  - Pact
 >  - The Two-Year Emperor
 >  - [Floating Point](http://stefangagne.com/floatingpoint)
+> 
 > Done:
+> 
 >  - Worm
 >  - Blindsight
 >  - [Fine Structure](http://qntm.org/structure)
@@ -377,157 +381,178 @@ edit: I've also read Blindsight and Echopraxia
 >  - City of Angles and twoflower's other stories too
 >  - [Embers](https://www.fanfiction.net/s/5398503/), which is a rational ATLAfanfic. Currently rereading while on the train.
 >  - Harry Potter and the Natural 20 (only Book 1)
-> I gave [Hogwarts Battle School](https://www.fanfiction.net/s/8379655/) a try; imagine Quirrell's battles are part of the standard curriculum and the school is built around that. The lack of editing makes it a bit hard to read though.
 > 
+> I gave [Hogwarts Battle School](https://www.fanfiction.net/s/8379655/) a try; imagine Quirrell's battles are part of the standard curriculum and the school is built around that. The lack of editing makes it a bit hard to read though.
 
->> **u/StefanGagne** [+2]  *City of Angles Municipal Government**
+>> **u/StefanGagne** [+2]  *City of Angles Municipal Government* (23 hours later)
 >> 
 >> Thanks so much for the recommendation!
->> [Floating Point](http://stefangagne.com/floatingpoint) is definitely inspired by my experiences here on /r/rational while writing City of Angles. Hope you folks like it!
 >> 
+>> [Floating Point](http://stefangagne.com/floatingpoint) is definitely inspired by my experiences here on /r/rational while writing City of Angles. Hope you folks like it!
 
-> **u/None** [+3] *
+> **u/None** [+3]  (19 hours later)
 > 
 > An endless cascade of Worm and other fanfics on spacebattles and SV.
-> 
 
-> **u/Nepene** [+3] *
+> **u/Nepene** [+3]  (21 hours later)
 > 
 > I'm reading four works on a regular basis at the moment.
-> Pact. A web serial about a magical boy whose entire world is built to torture and twist him into a malevolent being of evil. Awesome to read, really dramatic, I have recommended it to lots of people and the author /u/wildbow is a redditor so in touch with the people.
-> A cloudy path. A worm/ supreme crossover fanfic. Excellently written, everyone seeks to accomplish their goals well, lots of pain and agony. Lackscreativity isn't on reddit as far as I know, but is accessible elsewhere.
-> With this Ring, another fanfiction involving the orange ring and all sorts of varied shenanigans, shows what you can really do and what you can't with a magical ring of super powers, the value of teamwork.
-> RWBY the gamer, another fanfiction about a person who gains the power to use the power of video games in his life and seeks to use it to save everyone against an endless run of unstoppable monsters.
-> Two year emperor, about an emperor taking on DnD and abusing the rules to defeat gods. Sadly less regular, merely once a week.
-> Mother of Learning too. Once a month.
-> I do read a lot of non fanfiction stuff, but most of the low hanging fruit, really good stuff, I've read, or tried and not liked. There are the cosmere books by /u/mistborn for example, but even he can only write two or three books a year. A lot of other authors I like such as GRRMartin or Patrick Rothfuss take a long time to do new books. So I really appreciate regular good stuff.
-> For Pact, I get a lot of enjoyment out of it so I pay wildbow via patreon. If you do enjoy a web serial author or author like that you should definitely do so too. If you want more of this good stuff on a regular basis paying for it helps a lot. I've bought all of Brandon Sanderson's books.
-> Plus, paying top tier authors like wildbow means more material for fanfiction. I like having some little pleasure to wake up to in the morning before work. Pact definitely hits the spot, and so do a lot of the derivative works.
-> Both of them talked about making video games in their universes which would be great if that ever finished too. Rational games are fun too.
 > 
+> Pact. A web serial about a magical boy whose entire world is built to torture and twist him into a malevolent being of evil. Awesome to read, really dramatic, I have recommended it to lots of people and the author /u/wildbow is a redditor so in touch with the people.
+> 
+> A cloudy path. A worm/ supreme crossover fanfic. Excellently written, everyone seeks to accomplish their goals well, lots of pain and agony. Lackscreativity isn't on reddit as far as I know, but is accessible elsewhere.
+> 
+> With this Ring, another fanfiction involving the orange ring and all sorts of varied shenanigans, shows what you can really do and what you can't with a magical ring of super powers, the value of teamwork.
+> 
+> RWBY the gamer, another fanfiction about a person who gains the power to use the power of video games in his life and seeks to use it to save everyone against an endless run of unstoppable monsters.
+> 
+> Two year emperor, about an emperor taking on DnD and abusing the rules to defeat gods. Sadly less regular, merely once a week.
+> 
+> Mother of Learning too. Once a month.
+> 
+> I do read a lot of non fanfiction stuff, but most of the low hanging fruit, really good stuff, I've read, or tried and not liked. There are the cosmere books by /u/mistborn for example, but even he can only write two or three books a year. A lot of other authors I like such as GRRMartin or Patrick Rothfuss take a long time to do new books. So I really appreciate regular good stuff.
+> 
+> For Pact, I get a lot of enjoyment out of it so I pay wildbow via patreon. If you do enjoy a web serial author or author like that you should definitely do so too. If you want more of this good stuff on a regular basis paying for it helps a lot. I've bought all of Brandon Sanderson's books.
+> 
+> Plus, paying top tier authors like wildbow means more material for fanfiction. I like having some little pleasure to wake up to in the morning before work. Pact definitely hits the spot, and so do a lot of the derivative works.
+> 
+> Both of them talked about making video games in their universes which would be great if that ever finished too. Rational games are fun too.
 
-> **u/whywhisperwhy** [+2] *
+> **u/whywhisperwhy** [+2]  (2 hours later)
 > 
 > These aren't really long stories but I have a list of excellent shorter, rational stories posted in this subreddit's threads if you want me to PM them to you for perusal.
-> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (3 hours later)
 >> 
 >> I'd like this PM as well.
->> 
 
->> **u/libertarian_reddit** [+1] *
+>> **u/libertarian_reddit** [+1]  (2 hours later)
 >> 
 >> That sounds excellent!
->> 
 
-> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (20 hours later)
 > 
 > [After Life][1] by Simon Funk. Brain uploading-based singularity.
+> 
 > [Ra][2] by Sam Hughes. Young Earth Hypothesis just got a lot more sinister.
+> 
 > [Lighting Up the Dark][3] (Naruto fanfic, doesn't require knowledge of the setting, but feel free to look up canon appearances in the [wiki][4]) by [Velorien][5]. Loosely based on that one HPMOR omake.
+> 
 > [1]:http://sifter.org/~simon/AfterLife/
 > [2]:http://qntm.org/ra
 > [3]:https://www.fanfiction.net/s/9311012/1/Lighting-Up-the-Dark
 > [4]:http://naruto.wikia.com/wiki/Narutopedia
 > [5]:https://www.fanfiction.net/u/3344060/Velorien
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > On the webs:
+> 
 > * *Following the Phoenix*
 > * *Avatar Korra Punches Her Way Through the Hypothesis Space*
+> 
 > On my Kindle:
+> 
 > * *Harry Potter and the Natural 20*, book 2
 > * *Player of Games* by Ian Banks -- when it manages to be less boring than HPN20
-> In the personal queue to be finished:
-> * *City of Angles*
 > 
+> In the personal queue to be finished:
+> 
+> * *City of Angles*
 
-> **u/Integrated_Delusions** [+2]  *The Flying Kiwi**
+> **u/Integrated_Delusions** [+2]  *The Flying Kiwi* (5 days later)
 > 
 > Online fiction:
-> [Pact](http://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/): I'm enjoying Pact. Not as much overall as Worm, but there are some moments that are pretty awesome like [6.11](#s "not existing when the Behaim's do their thing with perception, and it goes straight from 6.10->6.12. Meta shenanigans are best shenanigans.")
-> [Citadel](http://unillustrated.wordpress.com/monster/): It's exactly what would happen if you cross Super Powereds' setting with characters from Worm. Not enough story yet to get a really good feel for how it's going to turn out, and the chapter length leaves something to be desired, although the update rate makes up for it. So far, I'm willing to keep reading it, which is more than I can say for most serials I start. 
-> I second [Hard Reset](http://www.fimfiction.net/story/67362/hard-reset), and its sequels. Entertaining time loop shenanigans, and the characterization is pretty good ([Pinkie Pie](#s " narrator is best narrator.")). It's worth mentioning that I've never watched the show, or had any interest in watching the show, but I still found it fairly entertaining. 
-> While we're on the subject of ponyfic, [Fallout Equestria](http://www.equestriadaily.com/2011/04/story-fallout-equestria.html) is one of my favorite pieces of fiction. Dark MLP!Fallout, not much else to say.
-> [The Optimalverse](http://www.fimfiction.net/story/62074/friendship-is-optimal), as mentioned elsewhere in this thread, is also pretty good. Satisfying values through ponies and friendship has never been more gratifying. Or terrifying, depending on your viewpoint and whether or not CelestAI's actions creep you the hell out.
-> [Leftover Soup](http://leftoversoup.com/first.php) is a webcomic that I enjoy almost as much as the author's comments. There were quite a few times while reading it and thought "Huh, you know, that's a good point. I never thought of it that way."
-> [The SilverClawShift Campaign Archives](http://www.giantitp.com/forums/showthread.php?116836-The-SilverClawShift-Campaign-Archives): What everybody wishes their DnD group was like. Fairly epic campaign. 
-> [Old Man Henderson](http://1d4chan.org/wiki/Old_Man_Henderson): what every GM is terrified their group will be like. 
-> [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate): A DC universe spanning conspiracy. Probably better if you have previous understanding of the universe, but I found it entertaining with just a layman's knowledge base. 
-> Good ol' paperbacks:
-> Finished up [Blood Song](http://www.amazon.ca/Blood-Song-Ravens-Shadow-Novel-ebook/dp/B00ABKGG0C/ref=sr_1_1?ie=UTF8&qid=1419178029&sr=8-1&keywords=blood+song) and its sequel [Tower Lord](http://www.amazon.ca/Tower-Lord-Ravens-Shadow-Novel-ebook/dp/B00G3L6ML6/ref=pd_sim_kinc_1?ie=UTF8&refRID=0SRXJXAKWQQ2P0QAKMZK) not too long ago. Really enjoyed Blood Song, had a few issues with Tower Lord, but overall two very good books. 
-> [The Red Knight](http://www.amazon.ca/Red-Knight-Traitor-Son-Cycle-ebook/dp/B007ZFPUL2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1419178346&sr=1-1&keywords=the+red+knight) was pretty good as well, although it did have a tendency to get caught up in medieval armor jargon. I have no idea what most of those word were, but understanding is not necessary to enjoy the story. 
-> [The Dragon's Path](http://www.amazon.ca/Dragons-Path-Dagger-Coin-ebook/dp/B0047Y16LC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1419179208&sr=1-1&keywords=the+dragon%27s+path) is the first novel in the Dagger and the Coin series, and it looks pretty promising. Some entertaining political/economic maneuvering.
-> For fans of the Dresden Files, Benedict Jacka's [Fated](http://www.amazon.ca/Fated-Alex-Verus-Benedict-Jacka-ebook/dp/B005GSYZAM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1419179019&sr=1-1&keywords=fated) and it's sequels have much the same vibe. So far, it's only about as good as the early to mid Dresden Files, but the author has been improving steadily.
 > 
+> [Pact](http://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/): I'm enjoying Pact. Not as much overall as Worm, but there are some moments that are pretty awesome like [6.11](#s "not existing when the Behaim's do their thing with perception, and it goes straight from 6.10->6.12. Meta shenanigans are best shenanigans.")
+> 
+> [Citadel](http://unillustrated.wordpress.com/monster/): It's exactly what would happen if you cross Super Powereds' setting with characters from Worm. Not enough story yet to get a really good feel for how it's going to turn out, and the chapter length leaves something to be desired, although the update rate makes up for it. So far, I'm willing to keep reading it, which is more than I can say for most serials I start. 
+> 
+> I second [Hard Reset](http://www.fimfiction.net/story/67362/hard-reset), and its sequels. Entertaining time loop shenanigans, and the characterization is pretty good ([Pinkie Pie](#s " narrator is best narrator.")). It's worth mentioning that I've never watched the show, or had any interest in watching the show, but I still found it fairly entertaining. 
+> 
+> While we're on the subject of ponyfic, [Fallout Equestria](http://www.equestriadaily.com/2011/04/story-fallout-equestria.html) is one of my favorite pieces of fiction. Dark MLP!Fallout, not much else to say.
+> 
+> [The Optimalverse](http://www.fimfiction.net/story/62074/friendship-is-optimal), as mentioned elsewhere in this thread, is also pretty good. Satisfying values through ponies and friendship has never been more gratifying. Or terrifying, depending on your viewpoint and whether or not CelestAI's actions creep you the hell out.
+> 
+> [Leftover Soup](http://leftoversoup.com/first.php) is a webcomic that I enjoy almost as much as the author's comments. There were quite a few times while reading it and thought "Huh, you know, that's a good point. I never thought of it that way."
+> 
+> [The SilverClawShift Campaign Archives](http://www.giantitp.com/forums/showthread.php?116836-The-SilverClawShift-Campaign-Archives): What everybody wishes their DnD group was like. Fairly epic campaign. 
+> 
+> [Old Man Henderson](http://1d4chan.org/wiki/Old_Man_Henderson): what every GM is terrified their group will be like. 
+> 
+> [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate): A DC universe spanning conspiracy. Probably better if you have previous understanding of the universe, but I found it entertaining with just a layman's knowledge base. 
+> 
+> Good ol' paperbacks:
+> 
+> Finished up [Blood Song](http://www.amazon.ca/Blood-Song-Ravens-Shadow-Novel-ebook/dp/B00ABKGG0C/ref=sr_1_1?ie=UTF8&qid=1419178029&sr=8-1&keywords=blood+song) and its sequel [Tower Lord](http://www.amazon.ca/Tower-Lord-Ravens-Shadow-Novel-ebook/dp/B00G3L6ML6/ref=pd_sim_kinc_1?ie=UTF8&refRID=0SRXJXAKWQQ2P0QAKMZK) not too long ago. Really enjoyed Blood Song, had a few issues with Tower Lord, but overall two very good books. 
+> 
+> [The Red Knight](http://www.amazon.ca/Red-Knight-Traitor-Son-Cycle-ebook/dp/B007ZFPUL2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1419178346&sr=1-1&keywords=the+red+knight) was pretty good as well, although it did have a tendency to get caught up in medieval armor jargon. I have no idea what most of those word were, but understanding is not necessary to enjoy the story. 
+> 
+> [The Dragon's Path](http://www.amazon.ca/Dragons-Path-Dagger-Coin-ebook/dp/B0047Y16LC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1419179208&sr=1-1&keywords=the+dragon%27s+path) is the first novel in the Dagger and the Coin series, and it looks pretty promising. Some entertaining political/economic maneuvering.
+> 
+> For fans of the Dresden Files, Benedict Jacka's [Fated](http://www.amazon.ca/Fated-Alex-Verus-Benedict-Jacka-ebook/dp/B005GSYZAM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1419179019&sr=1-1&keywords=fated) and it's sequels have much the same vibe. So far, it's only about as good as the early to mid Dresden Files, but the author has been improving steadily.
 
-> **u/unillustrated** [+2] *
+> **u/unillustrated** [+2]  (a month later)
 > 
 > [Set in Stone](https://setinstonestory.wordpress.com/2015/01/25/chapter-01/) is a recently begun serial by Farmerbob1 about a technolithic society with some rational social engineering built in.  He's finished two unrelated serials before so it's far more polished than you would expect from a new serial.
-> Also, **Contact With Chaos** by Michael Z Williamson.  It's a first contact scenario where humans are the technologically advanced species and the aliens are technically stone aged, though societally much more mature.  A bit of libertarian-esque propaganda thrown it but not so heavy as to distract from the story.  However, it is book three in a series.  I think it stands alone but it's better in context and the other two are well worth it if you like military SF.  The Weapon and Freehold.
 > 
+> Also, **Contact With Chaos** by Michael Z Williamson.  It's a first contact scenario where humans are the technologically advanced species and the aliens are technically stone aged, though societally much more mature.  A bit of libertarian-esque propaganda thrown it but not so heavy as to distract from the story.  However, it is book three in a series.  I think it stands alone but it's better in context and the other two are well worth it if you like military SF.  The Weapon and Freehold.
 
-> **u/scruiser** [+2]  *CYOA**
+> **u/scruiser** [+2]  *CYOA* (4 days later)
 > 
 > With the Christmas break, I've finally gotten around to reading A Song of Ice and Fire (also called the Game of Thrones).  At college I never seem to find time to get a lot of reading done at once, so I mostly just kept up with web serials and fanfiction that I liked.  So now that I have the break, I'm binge reading all at once. I finished the first book yesterday and am on the second book now.  The characters definitely are not rational, but they do have consistent motivations and are competent at what they do.  I've heard enough about the series and the author to expect any character to die at any time, and I think that has enhanced my enjoyment greatly.
-> For webserials and fanfiction, mostly what you would see recommended on this subreddit. The two I most look forward to updates for:
-> * Following the Phoenix, I would consider it equal to canon!HPMOR in some ways, perhaps better if you felt the HPMOR focused on Harry too much and you felt HPMOR was anti-feminist.  The author switches viewpoint characters enough so that  it feels like every character has agency (especially Hermione).  There are some complaints that the plot feels railroaded... but I think that is just a side effect of Quirrel going all out with his manipulations.
-> * Pact.  I don't like it quite as much as Worm... but I absolutely loved Worm so I still come out liking Pact a lot.  There is arc fatigue in a few places where the story gets drawn out.  Some of the fight scenes can be really confusing because of magic altering the viewpoint perspective.  Also, there is in-universe reasons for the main character getting constantly screwed and his perspective being off... but it can still be annoying at times.
 > 
+> For webserials and fanfiction, mostly what you would see recommended on this subreddit. The two I most look forward to updates for:
+> 
+> * Following the Phoenix, I would consider it equal to canon!HPMOR in some ways, perhaps better if you felt the HPMOR focused on Harry too much and you felt HPMOR was anti-feminist.  The author switches viewpoint characters enough so that  it feels like every character has agency (especially Hermione).  There are some complaints that the plot feels railroaded... but I think that is just a side effect of Quirrel going all out with his manipulations.
+> 
+> * Pact.  I don't like it quite as much as Worm... but I absolutely loved Worm so I still come out liking Pact a lot.  There is arc fatigue in a few places where the story gets drawn out.  Some of the fight scenes can be really confusing because of magic altering the viewpoint perspective.  Also, there is in-universe reasons for the main character getting constantly screwed and his perspective being off... but it can still be annoying at times.
 
-> **u/None** [+3] *
+> **u/None** [+2]  (2 hours later)
 > 
 > Currently reading [The Problem with Purity](https://www.fanfiction.net/s/4776976/1/The-Problem-with-Purity), which falls under the category of romance, mainly. It has only one Level 1 Intelligent Character, specifically Hermione, and she's appreciably overpowered. But it's a bit of fresh air for me, since most of the Harry Potter fanfiction I've encountered has only Harry as a L1IC, often overpowered, and with a harem to boot; and on top of that, Harry's excessive power allows him to smash through his primary conflicts.
-> I feel like the degree to which people defer to Hermione in this story is greater than typical for people to defer to Harry in Harry-centric stories, but I don't particularly trust my judgment not to be skewed here. I am aware of unconscious bias and know that it generally favors men and hurts women in our society.
-> This story is not what I would most recommend, but it is what I'm reading at the moment. It's decent but a bit long for what it is.
 > 
+> I feel like the degree to which people defer to Hermione in this story is greater than typical for people to defer to Harry in Harry-centric stories, but I don't particularly trust my judgment not to be skewed here. I am aware of unconscious bias and know that it generally favors men and hurts women in our society.
+> 
+> This story is not what I would most recommend, but it is what I'm reading at the moment. It's decent but a bit long for what it is.
 
->> **u/libertarian_reddit** [+3] *
+>> **u/libertarian_reddit** [+3]  (2 hours later)
 >> 
 >> >harry/draco slash
->> .............. Thank you, but...no thank you.
 >> 
+>> .............. Thank you, but...no thank you.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (3 hours later)
 >>> 
 >>> What bothers you about it?
->>> 
 
->>>> **u/libertarian_reddit** [+1] *
+>>>> **u/libertarian_reddit** [+1]  (5 hours later)
 >>>> 
 >>>> I'm not a fan of the... "genre"
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (6 hours later)
 >>>>> 
 >>>>> This one's a lot milder on that front that most I've encountered because Harry isn't the main character. You're left with them being cute at each other on occasion.
->>>>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (12 hours later)
 > 
 > Honestly I'm not big into rationlist fiction. HPMOR is the only rationalist fic I've read.
-> I'm reading Brisingr and Clash of Kings.
 > 
+> I'm reading Brisingr and Clash of Kings.
 
-> **u/Igigigif** [+1]  *IT Foxgirl**
+> **u/Igigigif** [+1]  *IT Foxgirl* (2 days later)
 > 
 > Right now, Detective Pony v2, Small gods, and the martian
-> 
 
-> **u/Anderkent** [+1] *
+> **u/Anderkent** [+1]  (2 days later)
 > 
 > [Doc Future](http://docfuture.tumblr.com)
-> 
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (3 days later)
 > 
 > (Cross-posted from the "If You Liked Time Braid" topic)
 > Here's a recommendation:
 > [Hard Reset](http://www.fimfiction.net/story/67362/hard-reset), a good MLP time-loop, which I enjoyed despite having only watched 4 episodes of the show. It starts off Time Loopy, then shifts its focus to new and interesting magic and plot mechanics. (Read: it doesn't spend 50,000+ words in loops with no permanent threat to the heroine). Twilight's characterization would greatly appeal to HPMOR/LW fans, and I had the impression that the author was already part of the community. I would safely categorize it as a "rational" fic.
-> 
 
 ---
 

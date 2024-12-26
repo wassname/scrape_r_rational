@@ -2,7 +2,7 @@
 
 * Author: u/Sparkwitch *
 * URL: https://www.reddit.com/r/rational/comments/94yfhv/meta_munchkin_relativity_the_fleeting/
-* Score: 27
+* Score: 26
 
 * Created: 2018-08-06T04:59:24
 
@@ -30,100 +30,112 @@ Are there stories with a strong munchkin focus that avoid this trap? Is it possi
 
 ### Comments:
 
-> **u/JustLookingToHelp** [+11] *
+> **u/JustLookingToHelp** [+12]  (2 hours later)
 > 
 > I get this with Grand Strategy games.  Struggling, becoming capable of winning; lots of fun.  Winning once I have the lead, and every battle is a victory lap because my previous good decisions have compounded; boring.
-> 
 
->> **u/fortycakes** [+9] *
+>> **u/fortycakes** [+8]  (5 hours later)
 >> 
 >> This is a fairly well known problem in tabletop game design: when should you end the game? If it's too early, the players that have done well don't get to feel like they've done well; if it's too late, the players that haven't won are bored of losing and victory tends to sour after a while.
->> 
 
->> **u/Frommerman** [+6] *
+>> **u/Frommerman** [+7]  (9 hours later)
 >> 
 >> Civilization has this in spades. The early game is amazing as you jockey for position with your neighbors and carefully manage happiness so you can keep growing. The mid and late game, however, are incredibly dull.
->> 
 
->> **u/derefr** [+5] *
+>> **u/derefr** [+4]  (17 hours later)
 >> 
 >> I get this with... er, whatever you call the kind of game that Minecraft and Factorio both are. Trying desperately to protect yourself while bootstrapping out your capabilities and fortifications is fun, *as long as* one wrong move will kill you. Once you've got enough stuff and "backup plans" set up that you're not only safe when doing nothing, but also don't have to gamble with 100% stakes whenever you are trying to "level up"—then the game just becomes drudgery.
->> Has any game in this particular genre tried just detecting when the player has enough resources to be "successfully bootstrapped", and just calling that the victory condition? I.e., the game constantly predicting whether the player, given their behaviour observed thus-far, would be assured of eventual victory against all further PvE obstacles—and, if they were, just "forfeiting" the game there, like a PvP opponent would do under similar circumstances?
->> (This would also be interesting for roguelikes. Imagine a roguelike with no Amulet of Yendor to grab, just a constant metric of whether you are the baddest-ass thing in the dungeon, and the game stops once you are *or predictably will be with no further chance of failure given your current equipment and play-style*. Basically, "Xianxia: The Game.")
 >> 
+>> Has any game in this particular genre tried just detecting when the player has enough resources to be "successfully bootstrapped", and just calling that the victory condition? I.e., the game constantly predicting whether the player, given their behaviour observed thus-far, would be assured of eventual victory against all further PvE obstacles—and, if they were, just "forfeiting" the game there, like a PvP opponent would do under similar circumstances?
+>> 
+>> (This would also be interesting for roguelikes. Imagine a roguelike with no Amulet of Yendor to grab, just a constant metric of whether you are the baddest-ass thing in the dungeon, and the game stops once you are *or predictably will be with no further chance of failure given your current equipment and play-style*. Basically, "Xianxia: The Game.")
 
->>> **u/Cuz_Im_TFK** [+4] *
+>>> **u/Cuz_Im_TFK** [+3]  (a day later)
 >>> 
 >>> > Basically, "Xianxia: The Game."
->>> Not sure I understand what you're getting at here. In Xianxia: The Game, once you're the baddest-ass thing around, isn't the best part walking around pretending you're *not* the baddest in hopes that arrogant people will pick fights with you so you can slap their faces while being praised by the peanut gallery? I don't know who in their right mind would end the game *before* the face-slapping.
 >>> 
+>>> Not sure I understand what you're getting at here. In Xianxia: The Game, once you're the baddest-ass thing around, isn't the best part walking around pretending you're *not* the baddest in hopes that arrogant people will pick fights with you so you can slap their faces while being praised by the peanut gallery? I don't know who in their right mind would end the game *before* the face-slapping.
 
->>>> **u/auto-xkcd37** [+7] *
+>>>> **u/auto-xkcd37** [+6]  (a day later)
 >>>> 
 >>>> > baddest ass-thing
->>>> ***
->>>> ^(Bleep-bloop, I'm a bot. This comment was inspired by )^[xkcd#37](https://xkcd.com/37)
 >>>> 
+>>>> ***
+>>>> 
+>>>> ^(Bleep-bloop, I'm a bot. This comment was inspired by )^[xkcd#37](https://xkcd.com/37)
 
->> **u/Cedrices_Diggory** [+5] *
+>> **u/Cedrices_Diggory** [+4]  (20 hours later)
 >> 
 >> > every battle is a victory lap because my previous good decisions have compounded; boring.
->> I think this is key. Why do good decisions compound like this in Stories / GSGs, but not in real life? 
->> In real life, for every system, there are lots of munchkins, with more munchkins entering the system every year. They'll learn from your every success, and they'll team up on you if they think you're pulling ahead too much. 
->> It's like the coalition mechanic in EU4. The more you conquer and bootstrap yourself up into position, the more *the rest of the world* turns against you. Or in PGTE, the story of Triumphant, who conquered the continent only to have the continent rally into a coalition/crusade against her. 
->> Clearly, the next level is of munchkin/rational fiction is about how to bootstrap in the face of a crusade. How to win against a world that instinctively doesn't trust you, and is happy to join together to kill you.
 >> 
+>> I think this is key. Why do good decisions compound like this in Stories / GSGs, but not in real life? 
+>> 
+>> In real life, for every system, there are lots of munchkins, with more munchkins entering the system every year. They'll learn from your every success, and they'll team up on you if they think you're pulling ahead too much. 
+>> 
+>> It's like the coalition mechanic in EU4. The more you conquer and bootstrap yourself up into position, the more *the rest of the world* turns against you. Or in PGTE, the story of Triumphant, who conquered the continent only to have the continent rally into a coalition/crusade against her. 
+>> 
+>> Clearly, the next level is of munchkin/rational fiction is about how to bootstrap in the face of a crusade. How to win against a world that instinctively doesn't trust you, and is happy to join together to kill you.
 
->>> **u/LLJKCicero** [+3] *
+>>> **u/LLJKCicero** [+5]  (2 days later)
 >>> 
 >>> Not just external enemies: in real life, as you gain more power and become more successful, you can expect to acquire more enemies from within as well.
->>> 
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (7 hours later)
 >> 
 >> Same thing in tbs, the endgame should be rote if you've done well which makes it dull. Walking the knife edge between certainly lost and basically won is hard. However losing certainly can often be funner than the slow trod of victory, especially in gsg since you just change the goal to being how long one can survive. I've felt like that when staving off the Germans after they've broken through my lines in hoi4.
->> 
 
-> **u/vallar57** [+7]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+6]  *Unseen University: Faculty of High-Energy Magic* (16 hours later)
 > 
 > Although your argument has merit, I simply must disagree.
-> In those stories, early game and late game are very different. I'm not drawing parallel with MMOs for nothing, I think they apply here too. In MMO, your early game is focused on leveling up. You gain power quickly, a quest hopelessly beyond you now can be done by your summon alone after an hour of playing, or something like that. This is interesting in it's own way, but it's not sustainable.
-> In the late game, you are playing a very different game altogether. Much slower levelups allow more focus on any particular quest/storyline, and higher difficulty quests require cooperation between players (rather than simply grinding for a bit and then doing it solo). The game is completely different from what it was in the beginning, and the way it is interesting to play is also completely different.
-> I think you are simply making a mistake of expecting an early-game enjoyment from a late-game situation. You are reading the book the wrong way! Rather than acquiring competence it's now about applying it. Book one Zorian spent all his time in Cyoria simply leveling up. His competence level simply did not permit him to actually do anything, and the book ended with him leveling enough to try something major for the first time. Book two still focused more on relatively rapid level ups, only with sidequests requiring a bit more travelling and throwing fireballs around.
-> But in book three levelups are in a completely different position. They are relegated to background, while the story focuses on Z&Z's adventures and pursuit of the ultimate goal. They leveled enough, time to complete the quests stored in the story log. To enjoy the story just like you did around chapter 10, you simply need to recognize that you are reading a different book altogether, and switch your mindset accordingly.
 > 
+> In those stories, early game and late game are very different. I'm not drawing parallel with MMOs for nothing, I think they apply here too. In MMO, your early game is focused on leveling up. You gain power quickly, a quest hopelessly beyond you now can be done by your summon alone after an hour of playing, or something like that. This is interesting in it's own way, but it's not sustainable.
+> 
+> In the late game, you are playing a very different game altogether. Much slower levelups allow more focus on any particular quest/storyline, and higher difficulty quests require cooperation between players (rather than simply grinding for a bit and then doing it solo). The game is completely different from what it was in the beginning, and the way it is interesting to play is also completely different.
+> 
+> I think you are simply making a mistake of expecting an early-game enjoyment from a late-game situation. You are reading the book the wrong way! Rather than acquiring competence it's now about applying it. Book one Zorian spent all his time in Cyoria simply leveling up. His competence level simply did not permit him to actually do anything, and the book ended with him leveling enough to try something major for the first time. Book two still focused more on relatively rapid level ups, only with sidequests requiring a bit more travelling and throwing fireballs around.
+> 
+> But in book three levelups are in a completely different position. They are relegated to background, while the story focuses on Z&Z's adventures and pursuit of the ultimate goal. They leveled enough, time to complete the quests stored in the story log. To enjoy the story just like you did around chapter 10, you simply need to recognize that you are reading a different book altogether, and switch your mindset accordingly.
 
-> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (11 hours later)
 > 
 > It's a balancing act. If the ramping up is too slow or drawn out for too many thousands of words, some people (including you) will complain that the story is boring and repetitive in its methodical powering up of the protagonist&mdash;but, if the ramping up is too fast or compressed into too few thousands of words, *other* people will complain that the story is glossing over parts of the setting and/or the magic system that they would have liked to see explored in greater detail. One person's trash (meaningless, boring powerup) is another person's treasure (meaningful, interesting powerup).
-> In my opinion, [*Time Braid*](https://www.fanfiction.net/s/5193644) does a pretty good job of making boosts to the protagonist's power level seem meaningful. I cannot deny, however, that, on at least two occasions (IIRC), it introduces powerups only to never bring them up again (>!merging aspects for a temporary power boost!< and >!flying as a winged human with self-transformation and air techniques!<).
 > 
+> In my opinion, [*Time Braid*](https://www.fanfiction.net/s/5193644) does a pretty good job of making boosts to the protagonist's power level seem meaningful. I cannot deny, however, that, on at least two occasions (IIRC), it introduces powerups only to never bring them up again (>!merging aspects for a temporary power boost!< and >!flying as a winged human with self-transformation and air techniques!<).
 
-> **u/Icare0** [+3] *
+> **u/Icare0** [+3]  (16 hours later)
 > 
 > > Are there stories with a strong munchkin focus that avoid this trap?  Is it possible to keep stakes small and personal even as power level surpasses the personal sphere? Must every interesting system ultimately be destroyed by characters who truly understand it? 
-> I'd say Harry Potter and the Natural 20 avoids it, but that may be just because I'm in a high due to it FINALLY coming out of hiatus.
 > 
+> I'd say Harry Potter and the Natural 20 avoids it, but that may be just because I'm in a high due to it FINALLY coming out of hiatus.
 
-> **u/InfernoVulpix** [+3] *
+> **u/InfernoVulpix** [+3]  (23 hours later)
 > 
 > Taking what you said about later upgrades tending to not feel as important as early upgrades, a story has only a few ways it can go:
+> 
 > 1. Allow your upgrades to become boring.
 > 2. Remove the focus on upgrades.
 > 3. Progress and escalate fast enough that it *doesn't* become boring.
-> Option 1 is kinda the default, for various reasons.  It allows you to scale power tiers fairly linearly for a long growth arc, and is generally easy to fall into even if you don't know what you're doing.  As you mentioned, it also just isn't the same as the early upgrades, and can damage investment and entertainment over time.
-> Option 2 is your character-driven stories, for lack of a better description.  The driving force of the plot stops being how strong the protagonist is, and starts being the personalities of them and the people around them.  This doesn't *retain* the giddy entertainment of early upgrades, but done well it smoothly transitions to a capable plot without the listless void of dull upgrades.  Done poorly and you're in roughly the same state as option 1, honestly.
-> Option 3 is where things get *fun*.  The biggest downside is that story length becomes limited, because you can't move at such a fast pace without going really far really fast.  Beyond that, though, a good writer can indeed make each upgrade feel like a game changer, primarily through making each upgrade *actually a game changer*.  To compensate, the challenges the protagonist face must escalate similarly as quickly, which creates a very entertaining dynamic.
-> Off the top of my head, the only two stories I know that escalate that fast and munchkin that hard are The Two Year Emperor (set in D&D Rules As Written) and The Waves Arisen (set in Naruto).  Both stories can be found on the wiki linked in the sidebar.
 > 
+> Option 1 is kinda the default, for various reasons.  It allows you to scale power tiers fairly linearly for a long growth arc, and is generally easy to fall into even if you don't know what you're doing.  As you mentioned, it also just isn't the same as the early upgrades, and can damage investment and entertainment over time.
+> 
+> Option 2 is your character-driven stories, for lack of a better description.  The driving force of the plot stops being how strong the protagonist is, and starts being the personalities of them and the people around them.  This doesn't *retain* the giddy entertainment of early upgrades, but done well it smoothly transitions to a capable plot without the listless void of dull upgrades.  Done poorly and you're in roughly the same state as option 1, honestly.
+> 
+> Option 3 is where things get *fun*.  The biggest downside is that story length becomes limited, because you can't move at such a fast pace without going really far really fast.  Beyond that, though, a good writer can indeed make each upgrade feel like a game changer, primarily through making each upgrade *actually a game changer*.  To compensate, the challenges the protagonist face must escalate similarly as quickly, which creates a very entertaining dynamic.
+> 
+> Off the top of my head, the only two stories I know that escalate that fast and munchkin that hard are The Two Year Emperor (set in D&D Rules As Written) and The Waves Arisen (set in Naruto).  Both stories can be found on the wiki linked in the sidebar.
 
-> **u/Cuz_Im_TFK** [+2] *
+> **u/Cuz_Im_TFK** [+2]  (a day later)
 > 
 > I think this is part of what makes Chinese cultivation webnovels appealing to a lot of people and is the major reason they can be so *long* without losing their reader-base. 
+> 
 > Major plot events always focus on the individual (even if faction-level things are going on in the background) and the final determinator is always the MC's individual strength. Individual strength is more important than the strength of a faction (in fact, the strength of a faction is usually classified by the strength of its strongest expert.)
+> 
 > Power levels are neatly divided into levels (even if the MC can "jump levels" to fight) which clearly shows what kinds of events and enemies the MC can feasibly content with right now, which kinds are totally out of his reach (for the time being), and which kinds he'll be able to reach within the near future. It also makes the level-up process explicit and obvious so you can celebrate whenever it happens and the MC will be *instantly more capable*.
+> 
 > Though this genre often milks the "victory laps" in the form of face-slapping, so it's not a perfect response to your request, they manage to always keep things within the individual-level "power-up" part of the story, so it's always exciting. The MCs have their "victories" where their had work pays off and they get to do a victory lap, but then the stakes are raised, they go from being a big fish in a small pond to a small fish in a big pond by changing locations or worlds, and then they do it all over again.
+> 
 > Here's an example plotline that I just came up with to illustrate:
+> 
 > * MC Starts off in a small city in a small country. City's highest cultivation level is level 2, country's highest cultivation level is level 3
 > * MC flees the city and goes to the capital, levels up until he reaches level 2, then goes back to his home city to dominate it
 > * MC goes back to the capital and runs into trouble, eventually working his way up to level 3, then dominating the country
@@ -146,66 +158,68 @@ Are there stories with a strong munchkin focus that avoid this trap? Is it possi
 > * BUT WAIT
 > * An ancient slumbering menace has awakened... and it's level 22!!!!
 > * ...
-> And there you have it. Sure it can get repetitive, but it does always stay within the part of the story you seem to like the best. But is that necessarily a good thing? While it's one story overall, it's essentially just many cycles of what a normal story goes through from start to finish, with raised stakes and a larger world each time. 
-> If someone were to plan it out meticulously from the very beginning, I'll bet a really good story could be written. But most of them are written as web serials with seemingly little-to-no planning ahead of time, so there's retcons, asspulls, and deus-ex-machina galore. Along with everything that's happened so far being rendered trivial by power creep.
 > 
+> And there you have it. Sure it can get repetitive, but it does always stay within the part of the story you seem to like the best. But is that necessarily a good thing? While it's one story overall, it's essentially just many cycles of what a normal story goes through from start to finish, with raised stakes and a larger world each time. 
+> 
+> If someone were to plan it out meticulously from the very beginning, I'll bet a really good story could be written. But most of them are written as web serials with seemingly little-to-no planning ahead of time, so there's retcons, asspulls, and deus-ex-machina galore. Along with everything that's happened so far being rendered trivial by power creep.
 
->> **u/ngocnv371** [+2]  *Chaos Legion**
+>> **u/ngocnv371** [+2]  *Chaos Legion* (a day later)
 >> 
 >> I can see myself mindlessly consume this stuff.
->> 
 
->>> **u/Cuz_Im_TFK** [+1] *
+>>> **u/Cuz_Im_TFK** [+1]  (2 days later)
 >>> 
 >>> I wouldn't have been able to write that if I hadn't done it myself. We all need our mindless entertainment sometimes.
->>> 
 
-> **u/Nerenere** [+2] *
+> **u/Nerenere** [+2]  (4 days later)
 > 
 > I just thought I'd let you know that much of your post resonated with me, particularly your last line "Must every interesting system ultimately be destroyed by characters who truly understand it?"  
-
-> Well put.
 > 
+> Well put.
 
-> **u/haiku_fornification** [+1] *
+> **u/haiku_fornification** [+1]  (10 hours later)
 > 
 > The closest thing I've come up with is harboiled detective serials. It's not exactly what you're looking for but they usually keep things close and personal, rarely deviate from the "street level" and there's an element of gaining competency there too.
-> Maybe something like [Rivers of London](https://en.wikipedia.org/wiki/Peter_Grant_\(book_series\)) series? It's been ages since I've read the first couple of books but they might scratch your itch. [The Good Student](http://moodylit.com/index.php/the-good-student-table-of-contents) fulfills some of your criteria too. The stakes get higher (much higher, in fact) but they're still largely personal and the protagonist never reaches full understanding of the system. Plus, there's a lot of "ah-ha!" moments.
-> Honestly, I think you'll be very hard pressed to find what you're looking for in the realm of fantasy. Capability is already tied to power in real life and this is exaggerated in fantasy settings, where being a master of a field often means you can kill thousands instead of just having enough money to buy a nice house. It would be hard to keep things tense without escalation and a shift of goals for the main character.
 > 
+> Maybe something like [Rivers of London](https://en.wikipedia.org/wiki/Peter_Grant_\(book_series\)) series? It's been ages since I've read the first couple of books but they might scratch your itch. [The Good Student](http://moodylit.com/index.php/the-good-student-table-of-contents) fulfills some of your criteria too. The stakes get higher (much higher, in fact) but they're still largely personal and the protagonist never reaches full understanding of the system. Plus, there's a lot of "ah-ha!" moments.
+> 
+> Honestly, I think you'll be very hard pressed to find what you're looking for in the realm of fantasy. Capability is already tied to power in real life and this is exaggerated in fantasy settings, where being a master of a field often means you can kill thousands instead of just having enough money to buy a nice house. It would be hard to keep things tense without escalation and a shift of goals for the main character.
 
-> **u/CarsonCity314** [+1] *
+> **u/CarsonCity314** [+1]  (a day later)
 > 
 > I think A Practical Guide to Evil succeeds in this area because leveling up in its narrative isn't predictable, and exercises of power have non-trivial costs.  For all practical purposes, you can treat the protagonist's power set as a fixed set of tools, rather than another thing the development of which can be balanced against other investments.
-> Worm and Twig similarly grant their protagonists relatively fixed sets of tools.  Wildbow branched out from this with Pact, which (while still very good) ended up suffering from introducing more powers and possibilities than could be neatly tied into the narrative.
 > 
+> Worm and Twig similarly grant their protagonists relatively fixed sets of tools.  Wildbow branched out from this with Pact, which (while still very good) ended up suffering from introducing more powers and possibilities than could be neatly tied into the narrative.
 
-> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (4 days later)
 > 
 > This is topic-adjacent (lol for the term, analogy is the usual term, but I want to be stylish today), but let me introduce you to the game of Go (weiqi/baduk).  
-> At the early game two players has the whole board to occupy. They try to claim each part first, challenge their opponent claim, and defend your claim. As at this stage, all claims are weak and they're easily ejected. It's fun because each step is significant and greatly affect the end game.  
-> At mid game, you fortify your claim and siege your opponent claim. This is where a show of might happen, or cunning and subterfuge if players prefer. It's fun because you try to contest strong positions, each winning gave huge satisfaction, each lost can be devastating.  
-> At the late game you seal your fortification and try weaknesses on your opponent's. But sometimes, you can do a daring attack! Two competent players will never hope two change the board situation much, because they know their strength well and timed the patching of their weakness just as well. But when one player (critically) missed his timing, a complete reversal can happen. The game can be broken. And when it does break, it's an immense fun for the winner, and ruin for the loser.  
-> This is what happen with stories. The setting define the board. If you wish to stay at the early game forever, you will have to keep expanding the board. You will have to expand the scope of your setting. The consequences it bring, your move will be less meaningful, not much fun gained from clever positioning or being the first mover. Also, why bother challenge your opponent claim since the board will be expanded anyway; there's always new territory to claim, starting a skirmish is just sub-optimal. In the other word, boring.  
-> Other commenter said this doesn't happen in real life. Because new player keep coming, old player must depart, and the rule sometimes changing. But real life is not a kind with ultimate conclusion. Our scope is limited to our lifetime: you will need new analogy to identify where the fun to be found. In the work of fiction, otoh, ending is big part. I even put 50% worth of fiction on its ending. All because that's where I seek the ultimate satisfaction, maybe a catharsis. So, a fiction without ending in sight (or twist too big to keep things fresh), imo, is lame by default.  
-> And no, Zorian isn't conquering continents. He doesn't play early game anymore.
 > 
+> At the early game two players has the whole board to occupy. They try to claim each part first, challenge their opponent claim, and defend your claim. As at this stage, all claims are weak and they're easily ejected. It's fun because each step is significant and greatly affect the end game.  
+> 
+> At mid game, you fortify your claim and siege your opponent claim. This is where a show of might happen, or cunning and subterfuge if players prefer. It's fun because you try to contest strong positions, each winning gave huge satisfaction, each lost can be devastating.  
+> 
+> At the late game you seal your fortification and try weaknesses on your opponent's. But sometimes, you can do a daring attack! Two competent players will never hope two change the board situation much, because they know their strength well and timed the patching of their weakness just as well. But when one player (critically) missed his timing, a complete reversal can happen. The game can be broken. And when it does break, it's an immense fun for the winner, and ruin for the loser.  
+> 
+> This is what happen with stories. The setting define the board. If you wish to stay at the early game forever, you will have to keep expanding the board. You will have to expand the scope of your setting. The consequences it bring, your move will be less meaningful, not much fun gained from clever positioning or being the first mover. Also, why bother challenge your opponent claim since the board will be expanded anyway; there's always new territory to claim, starting a skirmish is just sub-optimal. In the other word, boring.  
+> 
+> Other commenter said this doesn't happen in real life. Because new player keep coming, old player must depart, and the rule sometimes changing. But real life is not a kind with ultimate conclusion. Our scope is limited to our lifetime: you will need new analogy to identify where the fun to be found. In the work of fiction, otoh, ending is big part. I even put 50% worth of fiction on its ending. All because that's where I seek the ultimate satisfaction, maybe a catharsis. So, a fiction without ending in sight (or twist too big to keep things fresh), imo, is lame by default.  
+> 
+> And no, Zorian isn't conquering continents. He doesn't play early game anymore.
 
-> **u/sheikheddy** [+1] *
+> **u/sheikheddy** [+1]  (6 days later)
 > 
 > >Mastery is impressive to witness, and handy to achieve, but the process of achieving it isn't the string of orgasmic "ah-ha!" moments that achieving competency was. It's a lot of "err" and "hmm" and "well" and "what if" and "not quite". Hours a day for months or years.
-> Well said. You'd either hate or love "The Games we Play" by Ryuugi.
 > 
+> Well said. You'd either hate or love "The Games we Play" by Ryuugi.
 
-> **u/ArmokGoB** [+0] *
+> **u/ArmokGoB** [+0]  (an hour later)
 > 
 > Do you think https://www.royalroadl.com/fiction/8463/the-arcane-emperor has this problem?
-> 
 
->> **u/HeartwarmingLies** [+2] *
+>> **u/HeartwarmingLies** [+2]  (13 hours later)
 >> 
 >> God yes, it's one of the most extreme cases of it I've seen.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/dnua42/secret_of_the_patronus_chapter_36_working_in/
-* Score: 10
+* Score: 11
 
 * Created: 2019-10-27T14:48:33
 
@@ -18,16 +18,15 @@ FFN: [https://www.fanfiction.net/s/12975806/37/Harry-Potter-and-the-Secret-of-th
 
 ### Comments:
 
-> **u/oskar31415** [+2] *
+> **u/oskar31415** [+2]  (3 hours later)
 > 
 > It seems that there is a schedule, but i can't find it. Can anyone help?
-> And thanks for the story, binged through it in the last couple of days, and i am exited for the next update.
 > 
+> And thanks for the story, binged through it in the last couple of days, and i am exited for the next update.
 
->> **u/Ms_CIA** [+3]  *Derp**
+>> **u/Ms_CIA** [+3]  *Derp* (7 hours later)
 >> 
 >> I try to post on a biweekly basis, usually on Sundays. Sometimes there are delays just because life stuff. Thanks for reading, glad you like the story!
->> 
 
 ---
 

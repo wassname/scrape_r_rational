@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/blak11** [+2] *
+> **u/blak11** [+2]  (a day later)
 > 
 > Note: I had to learn about skolemization at the time and it was boring af so admittedly making it a weapon of the villain is kind of biased. I had also been putting off reading on (spoiler)the chapter's villain(/spoiler) since everyone was talking about them so I did it for this chapter. It's a nice contrast to the more "pure evil" villain from before.
-> 
 
-> **u/sparr** [+1] *
+> **u/sparr** [+1]  (a day later)
 > 
 > I am confused. Is this a first (or second, counting its prolog) chapter, or an 18th chapter?
-> 
 
->> **u/blak11** [+1] *
+>> **u/blak11** [+1]  (a day later)
 >> 
 >> It's a prequel to the previous chapters set in the past of the same setting.
->> 
 
 ---
 

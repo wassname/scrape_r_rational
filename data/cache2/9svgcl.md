@@ -2,7 +2,7 @@
 
 * Author: u/causalchain *
 * URL: https://www.reddit.com/r/rational/comments/9svgcl/displaced/
-* Score: 19
+* Score: 18
 
 * Created: 2018-10-31T04:08:15
 
@@ -18,47 +18,47 @@ The Author is looking for criticism but doesn’t have the time to make big chan
 
 ### Comments:
 
-> **u/signspace13** [+5] *
+> **u/signspace13** [+7]  (11 hours later)
 > 
 > I'm having fun with this! I'm at chapter 21 and the series is pretty fun, though I'm not sure how rational, while I agree with the course of Blake's thoughts and generally with his direction, but quite a few of the events in those first few chapters was horribly convenient.
-> I can get over it though, and it makes enough sense after it is explained further. Artelle is an interesting character as well, though I'm honestly waiting in with baited breath for Blake and Sofie to meet.
-> Thanks for the recommendation, I needed something relatively light and entertaining as I just came from dropping the heaping pile of trash that is "Chaos seeds: the land" I got 4/7 volumes in before the authors writing style and the absolutely atrocious main character made it to bad to continue.
 > 
+> I can get over it though, and it makes enough sense after it is explained further. Artelle is an interesting character as well, though I'm honestly waiting in with baited breath for Blake and Sofie to meet.
+> 
+> Thanks for the recommendation, I needed something relatively light and entertaining as I just came from dropping the heaping pile of trash that is "Chaos seeds: the land" I got 4/7 volumes in before the authors writing style and the absolutely atrocious main character made it to bad to continue.
 
->> **u/causalchain** [+3] *
+>> **u/causalchain** [+3]  (a day later)
 >> 
 >> What were all the things in the early chapters that you found an issue with? I only found an issue with ch5, the rest seemed fine to me.
->> 
 
->>> **u/signspace13** [+3] *
+>>> **u/signspace13** [+4]  (a day later)
 >>> 
 >>> Blake has several very convenient things happen for him, the first being that he is a metal observer, thus letting him break free then he manages to get away despite running into Yarec, then he hides in a cave that just happens to be full of crystals and metal with names I won't even try to spell, then he learns about 'hyper mode' which I believe has something to do with his feeler abilities, though it has yet to really be explained, then he immediately replaces the arm he lost, then he beats 4 highly trained and specialised fighters in mortal combat with little to no injury.
->>> All of these are kind of hard to believe, however they would be worse if Blake was the only main, he isn't, and later on quite a few of them are resolved, mostly the crystal and metal's presence, as It is explained they are everywhere.
->>> The other problems don't bother me too much as it seems like Blake's role in the story isn't as a martial force but as a political and moral question, is it right to force people to do things that you know will be ultimately beneficial for them against their will? Possibly. Is what he is doing to Samanta right? Almost definitely not. 
->>> This is why I say that I'm mostly gone with those early problems I had, as they don't really matter after Blake's position in the story is established.
->>> I'm just as interested in the other two who seem to be adapting to this world much more poorly, though they have themes and questions of their own to explain them.
 >>> 
+>>> All of these are kind of hard to believe, however they would be worse if Blake was the only main, he isn't, and later on quite a few of them are resolved, mostly the crystal and metal's presence, as It is explained they are everywhere.
+>>> 
+>>> The other problems don't bother me too much as it seems like Blake's role in the story isn't as a martial force but as a political and moral question, is it right to force people to do things that you know will be ultimately beneficial for them against their will? Possibly. Is what he is doing to Samanta right? Almost definitely not. 
+>>> 
+>>> This is why I say that I'm mostly gone with those early problems I had, as they don't really matter after Blake's position in the story is established.
+>>> 
+>>> I'm just as interested in the other two who seem to be adapting to this world much more poorly, though they have themes and questions of their own to explain them.
 
-> **u/spanishinquisiti0n** [+5] *
+> **u/spanishinquisiti0n** [+5]  (11 hours later)
 > 
 > So, after reading this post, I went and checked out this series. I like it! I'm just around 15 chapters in, and it's pretty fun. Its a relatively light read, though. Given the situation, I was hoping for more high-level politics
-> 
 
->> **u/causalchain** [+1] *
+>> **u/causalchain** [+1]  (16 hours later)
 >> 
 >> There are more politics later, though I'm not sure how high-level it is.
->> 
 
-> **u/Bowbreaker** [+3]  *Solitary Locust**
+> **u/Bowbreaker** [+5]  *Solitary Locust* (4 hours later)
 > 
 > How long is it roughly and what is its update schedule like?
-> 
 
->> **u/causalchain** [+4] *
+>> **u/causalchain** [+4]  (4 hours later)
 >> 
 >> It's currently at 47 chapters which measure \~1000 pages by RoyalRoad's metric. It updates a chapter once every 1 or 2 weeks. ~~I don't know how pages convert to words, sorry.~~
->> Edit: A page is 275 words, so it's at about 275000 words so far.
 >> 
+>> Edit: A page is 275 words, so it's at about 275000 words so far.
 
 ---
 

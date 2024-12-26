@@ -2,7 +2,7 @@
 
 * Author: u/TheShadow777 *
 * URL: https://www.reddit.com/r/rational/comments/jhkdtu/my_attempt_at_a_rational_fanfiction/
-* Score: 15
+* Score: 16
 
 * Created: 2020-10-25T00:51:39
 
@@ -18,66 +18,61 @@ It should be noted that this is rationalist fiction, and whilst the main charact
 
 ### Comments:
 
-> **u/adgnatum** [+14] *
+> **u/adgnatum** [+15]  (2 hours later)
 > 
 > Suggestion: clarify what it is you're making a fanfic of. Preferably in the title.
-> 
 
->> **u/TheShadow777** [+7] *
+>> **u/TheShadow777** [+7]  (5 hours later)
 >> 
 >> Oh wow, I was so tired I didn't even notice. Thank you for the info. However, I don't want to make a repost of this post, as I feel that would be taking attention away from others. I will note this information for more proper advertisement later, however.
->> 
 
-> **u/ironistkraken** [+8] *
+> **u/ironistkraken** [+8]  (37 minutes later)
 > 
 > Cool, it always a good thing when people try and add to the list of works.
-> 
 
-> **u/wren42** [+5] *
+> **u/wren42** [+4]  (a day later)
 > 
 > Thanks for sharing!
-> From a writing standpoint, the main thing I'd suggest is that you need to remove about 80% of your commas. Many are unnecessary and distract from the meaning of the sentence.  They should only be used when necessary to break up two different thoughts in a sentence.
 > 
+> From a writing standpoint, the main thing I'd suggest is that you need to remove about 80% of your commas. Many are unnecessary and distract from the meaning of the sentence.  They should only be used when necessary to break up two different thoughts in a sentence.
 
->> **u/TheShadow777** [+4] *
+>> **u/TheShadow777** [+5]  (a day later)
 >> 
 >> Thank you for the tip!!!
->> It's a problem that I've been aware of for awhile, using commas is almost like a default switch in my head for some reason. I'll make sure to keep note of it as I go forwards!
 >> 
+>> It's a problem that I've been aware of for awhile, using commas is almost like a default switch in my head for some reason. I'll make sure to keep note of it as I go forwards!
 
-> **u/sephirothrr** [+3] *
+> **u/sephirothrr** [+3]  (4 days later)
 > 
 > > placed a couple of hundred years passed TLoK
-> > passed
-> I don't have high hopes
 > 
+> > passed
+> 
+> I don't have high hopes
 
->> **u/TheShadow777** [+3] *
+>> **u/TheShadow777** [+4]  (4 days later)
 >> 
 >> That is fair. I wasn't really paying attention, and this was posted on my phone, not my computer (where I'm doing the work from). I will edit the mistake.
->> 
 
->> **u/TheShadow777** [+3] *
+>> **u/TheShadow777** [+3]  (4 days later)
 >> 
 >> Hey, if you do decide to read it, I'd love to have someone who could help me with some of the grammatical errors I might be prone to, so as to make it more enjoyable, and help fix any improper thought processes within my writing style.
->> I'm not proposing an active commitment, of course, but I would love the help!
 >> 
+>> I'm not proposing an active commitment, of course, but I would love the help!
 
->>> **u/Belmonthiggins** [+3] *
+>>> **u/Belmonthiggins** [+3]  (8 days later)
 >>> 
 >>> hey! I might be able to help with that, I do a little. editing on the side for one of my friend's projects
->>> 
 
->>>> **u/TheShadow777** [+3] *
+>>>> **u/TheShadow777** [+3]  (8 days later)
 >>>> 
 >>>> Really? That's cool!!!
->>>> You don't have to if you don't want to, I'd be happy with someone just spreading the word for me. Thank you for the offer!!!
 >>>> 
+>>>> You don't have to if you don't want to, I'd be happy with someone just spreading the word for me. Thank you for the offer!!!
 
->>>>> **u/Belmonthiggins** [+3] *
+>>>>> **u/Belmonthiggins** [+3]  (17 days later)
 >>>>> 
 >>>>> yeah! dm me and we'll figure out a decent way to communicate, I'm so bad at checking reddit, hahaha
->>>>> 
 
 ---
 

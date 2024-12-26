@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (25 seconds later)
 > 
 > Rather more intense than the previous chapter.
-> EDIT:  Chapter 1 was linked here a couple of weeks ago.  If you check top level at /r/changestorms you'll see it.
 > 
+> EDIT:  Chapter 1 was linked here a couple of weeks ago.  If you check top level at /r/changestorms you'll see it.
 
 ---
 

@@ -26,134 +26,129 @@ I think anyone looking for a rational take on any of these genres should give Na
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+6]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/signspace13** [+5] *
+>> **u/signspace13** [+4]  (7 hours later)
 >> 
 >> I don't know what you are talking about, plenty of people treat insiders as normal people, Lily is not unique in that, and if you are talking about the people from the academy village, then they *aren't* NPC's they are outsiders who have been oppressed and lied to, that MC and friends are trying to help.
->> Also why can't a trope be rational when executed according to the rules of the world and in line with the goals of the characters involved? That is a core part of PGTE.
 >> 
+>> Also why can't a trope be rational when executed according to the rules of the world and in line with the goals of the characters involved? That is a core part of PGTE.
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (4 days later)
 >>>> 
 >>>> She got a powerful teacher because ~~"reasons"~~ she did well on the trials, and Guardian (his subsets) like (to make use of) people with Tao systems.
->>>> The reactionary part is true, though for me it's one of the very few cases where I didn't find that annoying.
 >>>> 
+>>>> The reactionary part is true, though for me it's one of the very few cases where I didn't find that annoying.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 days later)
 >>>> 
 >>>> FTFY: ~~saved for multiple years and long-term planned~~ was in debt pretty much their whole life working on minimum wage paycheck to paycheck
->>>> Yes, the MC did help one such poor person. Happens in real life all the time - charities, individuals, etc. do help poor people that nobody else had helped before. Small-scale charity is easy. It would be irrational if she easily fixed the whole town when nobody had done it before.
->>>> They are trying to scale up in recent chapters, and I'm sure the associated complications are coming, too.
 >>>> 
+>>>> Yes, the MC did help one such poor person. Happens in real life all the time - charities, individuals, etc. do help poor people that nobody else had helped before. Small-scale charity is easy. It would be irrational if she easily fixed the whole town when nobody had done it before.
+>>>> 
+>>>> They are trying to scale up in recent chapters, and I'm sure the associated complications are coming, too.
 
-> **u/cysghost** [+2]  *Chaos Legion**
+> **u/cysghost** [+2]  *Chaos Legion* (5 hours later)
 > 
 > This looks cool! I'm going to have to see if there is a royal road app for ipad though, otherwise I'll have issues (I prefer reading offline a thousand times more).
-> 
 
->> **u/signspace13** [+4] *
+>> **u/signspace13** [+4]  (5 hours later)
 >> 
 >> Sadly there is no Royal Road app at all, if you want to read an RR story offline, your best bet is using the browser add-on 'WeptoEpub' which when used on the contents page of a fiction, downloads it as an EPUB file. I use it a lot.
->> 
 
->>> **u/cysghost** [+1]  *Chaos Legion**
+>>> **u/cysghost** [+1]  *Chaos Legion* (5 hours later)
 >>> 
 >>> Thanks, I just tried looking and found out pretty much the same (no app, and it's in process...) but didn't know about the add-on. Will look into it.
->>> 
 
->>>> **u/blindsight** [+2] *
+>>>> **u/blindsight** [+2]  (9 hours later)
 >>>> 
 >>>> I've heard there's an extension for Calibre that can rip the entire web serial into a decently-formatted eBook.
->>>> Getting that set up is in my to do list, but there are so many other books to read I just haven't bothered with web serials yet.
->>>> This one sounds intriguing, though...
 >>>> 
+>>>> Getting that set up is in my to do list, but there are so many other books to read I just haven't bothered with web serials yet.
+>>>> 
+>>>> This one sounds intriguing, though...
 
->>>>> **u/nerdguy1138** [+3]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+3]  *GNU Terry Pratchett* (12 hours later)
 >>>>> 
 >>>>> Fanficfare, yes!
->>>>> It's fantastic for offline fanfic reading. You can even update existing stories it's already downloaded. I use it all the time.
 >>>>> 
+>>>>> It's fantastic for offline fanfic reading. You can even update existing stories it's already downloaded. I use it all the time.
 
->> **u/amaze-username** [+1] *
+>> **u/amaze-username** [+1]  (12 hours later)
 >> 
 >> You should take a look at [this project.](https://github.com/kemayo/leech) It's way more convenient than fiddling with browser addons and Calibre, IMO.
->> 
 
-> **u/TREB0R** [+1] *
+> **u/TREB0R** [+1]  (6 hours later)
 > 
 > I haven't read it all, but I had to stop because I just wasn't interested in the virtual reality aspect of it. The story is supposed to intertwine the plot of the real and virtual reality, but it seemed too far separated for my taste. It may get better later on but I had read a decent amount and decided to give up.
-> 
 
->> **u/signspace13** [+1] *
+>> **u/signspace13** [+1]  (7 hours later)
 >> 
 >> Virtual Reality is always divisive, I personally haven't found another besides this one that does it for me.
->> The VR aspect in this story is fine with me cause I find it believable in a way others aren't, the fact that it is being controlled and run by what is basically a god like entity, it makes sense that it is so realistic and that there are actual, sentient, natives.
->> It all comes down to the fact that the VR element is actually tide into the themes, the Idea of Paradox and what makes something real or fake, if you didn't manage to get to the academy part of the VR section, then I Highly Recommend giving it another go, the characters introduced are important both Inside and Outside, and are just as good as any of the 'real' ones.
 >> 
+>> The VR aspect in this story is fine with me cause I find it believable in a way others aren't, the fact that it is being controlled and run by what is basically a god like entity, it makes sense that it is so realistic and that there are actual, sentient, natives.
+>> 
+>> It all comes down to the fact that the VR element is actually tide into the themes, the Idea of Paradox and what makes something real or fake, if you didn't manage to get to the academy part of the VR section, then I Highly Recommend giving it another go, the characters introduced are important both Inside and Outside, and are just as good as any of the 'real' ones.
 
->>> **u/TREB0R** [+2] *
+>>> **u/TREB0R** [+2]  (7 hours later)
 >>> 
 >>> I believe I got to the start of the academy arc, so it introduced her roommate and the roommate's mission. To me, the author created this unique cultivation with nanotechnology which I was interested in with a cool post apocalyptic setting. The virtual reality just seemed too removed for me and the fantasy like abilities gained in the virtual world didn't translate into the reality that I cared about so it seemed a bit pointless to me.
->>> 
 
->>>> **u/signspace13** [+1] *
+>>>> **u/signspace13** [+1]  (7 hours later)
 >>>> 
 >>>> Some of the abilities gained their do transfer over, the ones her system is capable of replicating, though you are right that magic and some of the less natural ones don't.
->>>> I do believe that the, Inside is just as interesting as the outside though. Maybe I have a soft spot for LitRPG, but the idea of an alternate dimension (which Inside basically is) that influences the world in a social and economic manner, without taking away from it, is very interesting to me. 
->>>> I agree that the Outside is more Original in setting and execution, but I don't think it would be that way without the Inside portion of the story.
->>>> The cultivation of outside doesn't go away while inside. By the end of book 1, the author has managed to tie the progression of both together very well.
->>>> To each their own though, as I said VR is divisive, I personally avoid it like the plague in most cases, so I don't blame you.
 >>>> 
+>>>> I do believe that the, Inside is just as interesting as the outside though. Maybe I have a soft spot for LitRPG, but the idea of an alternate dimension (which Inside basically is) that influences the world in a social and economic manner, without taking away from it, is very interesting to me. 
+>>>> 
+>>>> I agree that the Outside is more Original in setting and execution, but I don't think it would be that way without the Inside portion of the story.
+>>>> 
+>>>> The cultivation of outside doesn't go away while inside. By the end of book 1, the author has managed to tie the progression of both together very well.
+>>>> 
+>>>> To each their own though, as I said VR is divisive, I personally avoid it like the plague in most cases, so I don't blame you.
 
->>>>> **u/TREB0R** [+1] *
+>>>>> **u/TREB0R** [+1]  (7 hours later)
 >>>>> 
 >>>>> Thanks for the write up, I'll try and give it another shot after I make it through some other stuff I'm reading.
->>>>> 
 
-> **u/ramjet_oddity** [+1] *
+> **u/ramjet_oddity** [+1]  (3 days later)
 > 
 > Um. What exactly do you mean by cultivation? You mention it multiple times but I'm not sure what it means in context.
-> 
 
->> **u/goodguygreenpepper** [+2] *
+>> **u/goodguygreenpepper** [+2]  (3 days later)
 >> 
 >> It's a common trope to some Chinese webnovels that has been copied a lot recently in America web serials.
 >> It combines the character leveling and skill gain plot devices with Chinese mythology and Taoism.
 >> Sort of similar to dbz in some ways with their power ups.
->> General idea is that you breath in spiritual power and circulate it through a special vein structure specific to this power before storing it in an organ called the "dantian".
->> Overtime you learn to use, grow, and condense this power and it changes you from a normal mortal to an all powerful immortal capable destroying mountains with a single punch and summon blasts of lightning to strike your enemies.
->> Basically  every main character is the  Chinese version of the magic swordsman trope but with more historical and mythological context and less technology.
 >> 
+>> General idea is that you breath in spiritual power and circulate it through a special vein structure specific to this power before storing it in an organ called the "dantian".
+>> 
+>> Overtime you learn to use, grow, and condense this power and it changes you from a normal mortal to an all powerful immortal capable destroying mountains with a single punch and summon blasts of lightning to strike your enemies.
+>> 
+>> Basically  every main character is the  Chinese version of the magic swordsman trope but with more historical and mythological context and less technology.
 
->>> **u/ramjet_oddity** [+1] *
+>>> **u/ramjet_oddity** [+1]  (4 days later)
 >>> 
 >>> And I suppose that in this situation you get cultivation-based powers from the virtual reality. Or the nanotech. Hmm. Got that, will check it out later, the core concept seems a little interesting. And I wonder what other culture-specific SF/fantasy ideas there are about.
->>> 
 
->> **u/goodguygreenpepper** [+2] *
+>> **u/goodguygreenpepper** [+2]  (3 days later)
 >> 
 >> Best Western friendly example is the cradle series by will wight. Starts with unsouled.
->> 
 
->>> **u/ramjet_oddity** [+1] *
+>>> **u/ramjet_oddity** [+1]  (4 days later)
 >>> 
 >>> > cradle series
->>> Hm. Got it.
 >>> 
+>>> Hm. Got it.
 
 ---
 

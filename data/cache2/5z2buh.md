@@ -2,7 +2,7 @@
 
 * Author: u/gbear605  *history’s greatest story**
 * URL: http://mangastream.com/read/neverland/030/4093/1
-* Score: 16
+* Score: 17
 
 * Created: 2017-03-13T01:31:31
 
@@ -12,49 +12,45 @@
 
 ### Comments:
 
-> **u/Prezombie** [+14] *
+> **u/Prezombie** [+15]  (an hour later)
 > 
 > That last reaction shot of Norman makes me think his story isn't over.
-> 
 
->> **u/CeruleanTresses** [+9] *
+>> **u/CeruleanTresses** [+9]  (3 hours later)
 >> 
 >> Yeah. Between the fact that he was surprised about something we didn't see (when we know he was expecting a monster to kill him), and the fact that we previously saw an imaginary panel of his death (which would have diluted the impact of the real thing, if he were really going to die), I'm completely certain that he's still alive.
->> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (19 hours later)
 >>> 
 >>> Don't forget that we never saw him pass on Krone's pen to Emma and Ray. If he was truly planning on dying from the start, he wouldn't have kept it instead.
->>> I suspect that he came up with a different plan for his own survival and didn't tell Emma and Ray in case he died anyway.
 >>> 
+>>> I suspect that he came up with a different plan for his own survival and didn't tell Emma and Ray in case he died anyway.
 
->>>> **u/CeruleanTresses** [+2] *
+>>>> **u/CeruleanTresses** [+2]  (19 hours later)
 >>>> 
 >>>> He did say that his suitcase was only mostly empty, so you may be on to something. Though, his internal monologue was consistent with him planning to actually die, and he definitely seemed surprised in that last panel. It didn't look like he was putting a survival plan into action, it looked like something happened that he wasn't expecting.
->>>> 
 
->>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (20 hours later)
 >>>>> 
 >>>>> Agreed, your interpretation would (in real life anyway) is more likely in general and when considering his surprise. However, knowing how stories love pretending the hero has died would shift some of the probability to my interpretation.
->>>>> Also, I just reread the chapter paying careful attention to his internal monologue. His thoughts revolve around stopping Emma from injuring herself to disable his tracker and give him a chance to run away. Then he thinks about how he was so happy because of his siblings. He thinks once about how he wants to live and needs to keep smiling. He does think about how he has to be shipped out once.
->>>>> At no point does he think about dying, rather his monologue is consistent with being shipped out if his plan relies on escaping somehow after/during the shipping. He never thinks about how he needs to dies for the others to live, just that he needs to be shipped out.
->>>>> I suggest rereading the chapter while paying careful attention to the exact wording of his thoughts and seeing how they match with each of our interpretations.
 >>>>> 
+>>>>> Also, I just reread the chapter paying careful attention to his internal monologue. His thoughts revolve around stopping Emma from injuring herself to disable his tracker and give him a chance to run away. Then he thinks about how he was so happy because of his siblings. He thinks once about how he wants to live and needs to keep smiling. He does think about how he has to be shipped out once.
+>>>>> 
+>>>>> At no point does he think about dying, rather his monologue is consistent with being shipped out if his plan relies on escaping somehow after/during the shipping. He never thinks about how he needs to dies for the others to live, just that he needs to be shipped out.
+>>>>> 
+>>>>> I suggest rereading the chapter while paying careful attention to the exact wording of his thoughts and seeing how they match with each of our interpretations.
 
->>>>>> **u/CeruleanTresses** [+2] *
+>>>>>> **u/CeruleanTresses** [+2]  (21 hours later)
 >>>>>> 
 >>>>>> Well, we'll find out. I still think his surprise in that panel suggests that he will survive in a way he wasn't expecting.
->>>>>> 
 
->> **u/hork23** [+2] *
+>> **u/hork23** [+2]  (5 hours later)
 >> 
 >> Well he is high class goods, so maybe they'll plan for his demise later (which hopefully never occurs).
->> 
 
->>> **u/CeruleanTresses** [+3] *
+>>> **u/CeruleanTresses** [+5]  (20 hours later)
 >>> 
 >>> There could also be some kind of male analogue to the Mama track. Maybe he's been chosen for that.
->>> 
 
 ---
 

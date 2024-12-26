@@ -2,7 +2,7 @@
 
 * Author: u/PeridexisErrant  *put aside fear for courage, and death for life**
 * URL: http://www.infinityplus.co.uk/stories/tap.htm
-* Score: 12
+* Score: 10
 
 * Created: 2021-02-12T11:43:40
 

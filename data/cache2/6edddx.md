@@ -12,33 +12,31 @@
 
 ### Comments:
 
-> **u/AurelianoTampa** [+8] *
+> **u/AurelianoTampa** [+9]  (11 hours later)
 > 
 > I like Cat's plan, but I can't help but feel that now that it's been revealed, it will go awry. 
-> Incidentally, could she resign from her commanding positions before the fight and thus be able to spare the souls of the 15th and Callow in the event that she did lose?
 > 
+> Incidentally, could she resign from her commanding positions before the fight and thus be able to spare the souls of the 15th and Callow in the event that she did lose?
 
->> **u/JdubCT** [+4] *
+>> **u/JdubCT** [+5]  (12 hours later)
 >> 
 >> I think it will be a surprisingly short but supremely entertaining fight. Like she said; “we’re going to bullshit so hard it becomes a prophecy.”
->> 
 
->> **u/MoralRelativity** [+5] *
+>> **u/MoralRelativity** [+5]  (14 hours later)
 >> 
 >> I think you're probably right, especially given the amount of detail provided. There's NO WAY Lady Foundlings plans ever work out exactly the way she wants; that's not the way this Universe works. She'll have to improvise to get out of this.
->> I don't think there's any way she can resign given she's stuck in Arcandia; but it's a good thought.
 >> 
+>> I don't think there's any way she can resign given she's stuck in Arcandia; but it's a good thought.
 
->>> **u/narfanator** [+4] *
+>>> **u/narfanator** [+5]  (15 hours later)
 >>> 
 >>> I dunno, the whole "I was dead" plan worked out pretty much how she wanted, in the end.
->>> 
 
->>>> **u/MoralRelativity** [+2] *
+>>>> **u/MoralRelativity** [+2]  (15 hours later)
 >>>> 
 >>>> Yeah, that's the obvious counter example, isn't it? ... I don't recall it clearly but it seems to be that we only found out many of the key details of that one after it happened. I still feel that this one is just begging to go wrong.
->>>> We'll find out the truth soon enough. :)
 >>>> 
+>>>> We'll find out the truth soon enough. :)
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 13
+* Score: 12
 
 * Created: 2017-05-15T06:02:03
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/_brightwing** [+10]  *Feathered menace**
+> **u/_brightwing** [+9]  *Feathered menace* (4 hours later)
 > 
 > The [closest thing](https://forums.sufficientvelocity.com/threads/a-hedge-maze-is-you.19308/) that I can recall reading that fits your description. It's a quest about a newly sentient hedge maze in a fantasy setting. I didn't finish it, but the starting was interesting.
-> 
 
->> **u/thrawnca** [+3]  *Carbon-based biped**
+>> **u/thrawnca** [+3]  *Carbon-based biped* (a day later)
 >> 
 >> Aww, it's incomplete...was kind of fun though.
->> 
 
-> **u/Teal_Thanatos** [+3] *
+> **u/Teal_Thanatos** [+3]  (26 minutes later)
 > 
 > I saw one where he was inside a mimic, inside a dungeon, all he could do was eat what was in front of him... don't recall a bush
-> 
 
 ---
 

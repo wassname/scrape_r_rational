@@ -2,7 +2,7 @@
 
 * Author: u/leniadolbap *
 * URL: https://practicalguidetoevil.wordpress.com/2017/02/22/chapter-2-might/
-* Score: 41
+* Score: 39
 
 * Created: 2017-02-23T01:14:00
 

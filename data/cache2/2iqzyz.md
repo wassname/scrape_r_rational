@@ -2,7 +2,7 @@
 
 * Author: u/gommm *
 * URL: https://www.fanfiction.net/s/10636246/14/Following-the-Phoenix
-* Score: 13
+* Score: 12
 
 * Created: 2014-10-09T11:17:47
 
@@ -12,61 +12,62 @@
 
 ### Comments:
 
-> **u/gommm** [+5] *
+> **u/gommm** [+5]  (16 minutes later)
 > 
 > I'm really enjoying this fanfic, it's the best attempt I've read to continue hpmor in a different direction.
-> 
 
-> **u/JackStargazer** [+3]  *Primordial Apologist**
+> **u/JackStargazer** [+3]  *Primordial Apologist* (16 minutes later)
 > 
 > That... 
-> Actually makes a lot of sense. In the original HPMOR, Harry mentions [Spoiler] (#s "That it would be impossible for Hermione to stop herself from burning out to destroy dementors.") So her [Spoiler] (#s "Getting a phoenix.") in the process makes perfect sense to me.
 > 
+> Actually makes a lot of sense. In the original HPMOR, Harry mentions [Spoiler] (#s "That it would be impossible for Hermione to stop herself from burning out to destroy dementors.") So her [Spoiler] (#s "Getting a phoenix.") in the process makes perfect sense to me.
 
-> **u/RMcD94** [+2] *
+> **u/RMcD94** [+2]  (7 hours later)
 > 
 > I want to know how everyone knows with total confidence that they will die from killing dementors, they've never done it full power before, they have no information to possibly base it on but they are all 100% confident it'll be their death.
-> 
 
->> **u/rtkwe** [+2] *
+>> **u/rtkwe** [+2]  (8 hours later)
 >> 
 >> In HPMOR the times Harry's true patronus has gone out of control " Part of Harry's life flowed back into him. 
 >> Part had been lost as radiation." It's also described as being cast with your life force instead of with your magic. All the descriptions indicate that it takes something distinctly not replaceable to kill a dementor. Of course this isn't written in some and Harry could be mistaken about the drain he feels but it's taken as unlikely.
->> 
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (8 hours later)
 >>> 
 >>> >Part of Harry's life flowed back into him
->>> But what even is "life"? And he loses some to radiation every time? What does that even mean?  Why hasn't he been experimenting with it? Does he use up life every time he casts the patronus does that mean that Harry's life is a finite value, it must be a finite value if it can run out, which sounds to me like he's shit out of luck and that's it's a really really dumb idea to teach everyone and their mother about this patronus if it's only useful for combating dementors which are about to be (have been) wiped out if it saps your "life" every time you do it. 
->>> And he killed a dementor that one time anyway without dying, I still can't possibly see from the information we've been given that he has any concept of the quantity of dementors there are and how he was able to calculate the dementor to life loss ratio to know they would kill them, certainly with the thoughts we've been privy too that seems like a much bigger deal.
->>> Edit: It seems to me this makes much more sense as something that's messing with his mind and should be something Harry says "I am confused" to.
 >>> 
+>>> But what even is "life"? And he loses some to radiation every time? What does that even mean?  Why hasn't he been experimenting with it? Does he use up life every time he casts the patronus does that mean that Harry's life is a finite value, it must be a finite value if it can run out, which sounds to me like he's shit out of luck and that's it's a really really dumb idea to teach everyone and their mother about this patronus if it's only useful for combating dementors which are about to be (have been) wiped out if it saps your "life" every time you do it. 
+>>> 
+>>> And he killed a dementor that one time anyway without dying, I still can't possibly see from the information we've been given that he has any concept of the quantity of dementors there are and how he was able to calculate the dementor to life loss ratio to know they would kill them, certainly with the thoughts we've been privy too that seems like a much bigger deal.
+>>> 
+>>> Edit: It seems to me this makes much more sense as something that's messing with his mind and should be something Harry says "I am confused" to.
 
->>>> **u/mycroftxxx42** [+1] *
+>>>> **u/mycroftxxx42** [+1]  (9 hours later)
 >>>> 
 >>>> The implication seems to be that it's something like fatigue.  I think that the characters are guessing conservatively at the number of dementors that they can destroy before the fatigue impacts their ability to survive and  assuming that there are at least dozens of dementors in Azkaban.   This, along with Harry's strategic choices in HPMOR implies that the dementor-killing effect radiates from the patronus.
->>>> Whether or not it's been proven empirically, these intuitions do seem to exhibit self-consistency.
 >>>> 
+>>>> Whether or not it's been proven empirically, these intuitions do seem to exhibit self-consistency.
 
->>>>> **u/RMcD94** [+0] *
+>>>>> **u/RMcD94** [+0]  (10 hours later)
 >>>>> 
 >>>>> I will say that if it's meant to be fatigue it makes very little sense, what exactly is the exertion difference between touching a dementor and just having your patronus waltz around. 
->>>>> I will always here make a statement that I am 90% sure she is not dead even though she killed them all. If that's the case it is evidence in favour, if she is dead it's strong evidence for the casting of the spell to actually drain something. 
->>>>> Also why not just kill half the dementors each, or half now half later yourself and recover your fatigue between killings if it is something that you actually regenerate (which is again very weird)
 >>>>> 
+>>>>> I will always here make a statement that I am 90% sure she is not dead even though she killed them all. If that's the case it is evidence in favour, if she is dead it's strong evidence for the casting of the spell to actually drain something. 
+>>>>> 
+>>>>> Also why not just kill half the dementors each, or half now half later yourself and recover your fatigue between killings if it is something that you actually regenerate (which is again very weird)
 
-> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+> **u/SvalbardCaretaker** [+1]  *Mouse Army* (4 hours later)
 > 
 > Extremly intense chapter. Definitly recommended!
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (12 hours later)
 > 
 > Damn, this is good. Particularly liked this bit of description:
-> >The light almost blinded Li even with his eyes shut tight, he could *feel* it on his skin, and his heart filled with joy and release at the light and the song. It was terror and beauty, joy and agony ...
-> That "terror and beauty" bit in particular really resonates with me. In Donna Tartt's *The Secret History*, she says, "Beauty is terror. Whatever we call beautiful, we quiver before it." And I think that reflects this passage perfectly, in a very powerful sense - literally. I've often reflected that the powerful non-human entities inevitable in the post-Singularity world could take on a beautiful shape, but one alien and ... well ... terrifying, especially given their power.
-> Good food for thought. Thanks for sharing /u/gommm.
 > 
+> >The light almost blinded Li even with his eyes shut tight, he could *feel* it on his skin, and his heart filled with joy and release at the light and the song. It was terror and beauty, joy and agony ...
+> 
+> That "terror and beauty" bit in particular really resonates with me. In Donna Tartt's *The Secret History*, she says, "Beauty is terror. Whatever we call beautiful, we quiver before it." And I think that reflects this passage perfectly, in a very powerful sense - literally. I've often reflected that the powerful non-human entities inevitable in the post-Singularity world could take on a beautiful shape, but one alien and ... well ... terrifying, especially given their power.
+> 
+> Good food for thought. Thanks for sharing /u/gommm.
 
 ---
 

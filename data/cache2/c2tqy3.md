@@ -2,7 +2,7 @@
 
 * Author: u/hrsidkpi *
 * URL: https://www.reddit.com/r/rational/comments/c2tqy3/discussion_hive_mind_rationality_choosing_the/
-* Score: 39
+* Score: 37
 
 * Created: 2019-06-20T09:09:28
 
@@ -103,217 +103,239 @@ Thank you so much for reading this long post!
 
 ### Comments:
 
-> **u/None** [+22] *
+> **u/None** [+22]  (6 hours later)
 > 
 > [deleted]
-> 
 
->> **u/JusticeBeak** [+5] *
+>> **u/JusticeBeak** [+5]  (12 hours later)
 >> 
 >> I agree, this is huge and would change a lot of the world due to the logistics involved.
->> 
 
->> **u/hrsidkpi** [+1] *
+>> **u/hrsidkpi** [+1]  (22 hours later)
 >> 
 >> >You really can't just drop this fact in there like it wasn't anything. Considering we're already going with magical wuxia physics, there's no need to mix in mundane reality like this because that makes the worldbuilding go donkeyfuck. If you still want it to be rationalist after that, you need to account for it and that would end up with a wildly divergent setting.
->> I didn't intend to drop it like it wasn't anything. Yes, there are big differences between this AU and the canon A:TLA. The reason for this specific detail was to avoid very quick world-breaking ideas I had while watching the show regarding what can be done with bending.
->> >If you absolutely need to explain this for whatever reason, just say benders and chi using non-benders draw their energy from the spirit world.
->> This is going to be a spoiler for some of the plot I had in mind, but >!the spirit world is not actually real, its psychological, and the characters are supposed to understand this at some point of the story.!<
->> This is for the same reason I inserted the anecdote about the exact amount of food benders can eat. My own personal preference is for hard-scifi. From point A in the universe you can predict what point B will look like in 10 seconds, if you know the rules. And I want the rules to be as close to real life rules so its easier to understand the physics. 
->> Hence, conservation of energy is still a thing in this AU. Bending energy comes from food. I calculated how much calories are needed to produce about 5 short lightnings per day.
->> &#x200B;
->> I realize this may come from a personal bias I have towards physics system as close as possible to real life. If this is not something the community wants, I can change it. If it breaks the game in some way, I'll definitely change it. 
->> Thanks for your input!
 >> 
+>> I didn't intend to drop it like it wasn't anything. Yes, there are big differences between this AU and the canon A:TLA. The reason for this specific detail was to avoid very quick world-breaking ideas I had while watching the show regarding what can be done with bending.
+>> 
+>> >If you absolutely need to explain this for whatever reason, just say benders and chi using non-benders draw their energy from the spirit world.
+>> 
+>> This is going to be a spoiler for some of the plot I had in mind, but >!the spirit world is not actually real, its psychological, and the characters are supposed to understand this at some point of the story.!<
+>> 
+>> This is for the same reason I inserted the anecdote about the exact amount of food benders can eat. My own personal preference is for hard-scifi. From point A in the universe you can predict what point B will look like in 10 seconds, if you know the rules. And I want the rules to be as close to real life rules so its easier to understand the physics. 
+>> 
+>> Hence, conservation of energy is still a thing in this AU. Bending energy comes from food. I calculated how much calories are needed to produce about 5 short lightnings per day.
+>> 
+>> &#x200B;
+>> 
+>> I realize this may come from a personal bias I have towards physics system as close as possible to real life. If this is not something the community wants, I can change it. If it breaks the game in some way, I'll definitely change it. 
+>> 
+>> Thanks for your input!
 
->>> **u/LazarusRises** [+2] *
+>>> **u/LazarusRises** [+2]  (a day later)
 >>> 
 >>> I mean... the characters actually encounter and fight spirit-world entities in the series. Unless by "it's psychological" you mean "it's a plane created by human thought," which is fine, but still allows magical energy to flow from it to the material plane.
->>> I get wanting to keep conservation of energy, but I agree it's so much neater to say "bender energy comes from this massive external source" than "benders eat their bodyweight in food every day," which breaks the setting way more and might even negate the use of bending. Most benders in the series aren't 100x as wealthy as muggles, and as useful as a bender is to have around, they're not more useful than 100 people.
 >>> 
+>>> I get wanting to keep conservation of energy, but I agree it's so much neater to say "bender energy comes from this massive external source" than "benders eat their bodyweight in food every day," which breaks the setting way more and might even negate the use of bending. Most benders in the series aren't 100x as wealthy as muggles, and as useful as a bender is to have around, they're not more useful than 100 people.
 
->>> **u/Argenteus_CG** [+2] *
+>>> **u/Argenteus_CG** [+2]  (5 days later)
 >>> 
 >>> I've gotta agree with others; wanting to keep conservation of energy is one thing, but needing to eat that much food would be a logistical nightmare for any civilization built on bending. But perhaps there's a way to keep both attributes?
->>> For starters, what if there's a rich source of energy in food that normal humans can't digest, but benders can? There's certainly precedent for this; there are many things other species can extract energy from that we don't have the biological ability to do so, although I don't *think* there's some latent source of energy in our food that would be equivalent to eating 100x as much. But there's no reason there COULDN'T be, there just doesn't happen to ACTUALLY be. It could explain the discrepancy in power without changing the logistics much. As a side effect, benders would probably be much more capable of surviving on very little food as long as they didn't bend (though unless they're getting enough vitamins and such they will eventually have problems), but I don't think that's nearly as huge of a thing as having to eat 100 times as much to be able to bend.
->>> As for why benders are so biologically different from nonbenders, well, that's gonna depend on what your explanation for how bending even works in your setting within the laws of physics. I'm assuming not a simulation run by some entity that arbitrarily cares about what people would do under these conditions, because that's way too easy, and nanotechnology programmed by some entity that arbitrarily wants people to have these specific powers is in a similar boat, so personally I think SOME derivation from the laws of physics would be the best option, though I agree it should be kept as small as possible: ideally one simple new thing that can explain everything you want bending to be able to do (and can make useful predictions useable by your players) while explaining why the things you DON'T want it to be able to do are impossible. Unless you happen to have some really clever-yet-plausible way for bending to make sense within the real laws of physics that is also both satisfying narratively for your players to discover and makes useful predictions that they can utilize, in which case I would be seriously impressed and you should use that. I think it's probably possible, but it'd certainly be a very difficult task.
->>> Alternatively, you could extend the firebenders' mechanic to others, where EVERYONE needs to get their energy from their element. Airbenders would get it from cooling down the air around them, waterbenders from the water (possibly water in the air), earth from geological processes, etc.
 >>> 
+>>> For starters, what if there's a rich source of energy in food that normal humans can't digest, but benders can? There's certainly precedent for this; there are many things other species can extract energy from that we don't have the biological ability to do so, although I don't *think* there's some latent source of energy in our food that would be equivalent to eating 100x as much. But there's no reason there COULDN'T be, there just doesn't happen to ACTUALLY be. It could explain the discrepancy in power without changing the logistics much. As a side effect, benders would probably be much more capable of surviving on very little food as long as they didn't bend (though unless they're getting enough vitamins and such they will eventually have problems), but I don't think that's nearly as huge of a thing as having to eat 100 times as much to be able to bend.
+>>> 
+>>> As for why benders are so biologically different from nonbenders, well, that's gonna depend on what your explanation for how bending even works in your setting within the laws of physics. I'm assuming not a simulation run by some entity that arbitrarily cares about what people would do under these conditions, because that's way too easy, and nanotechnology programmed by some entity that arbitrarily wants people to have these specific powers is in a similar boat, so personally I think SOME derivation from the laws of physics would be the best option, though I agree it should be kept as small as possible: ideally one simple new thing that can explain everything you want bending to be able to do (and can make useful predictions useable by your players) while explaining why the things you DON'T want it to be able to do are impossible. Unless you happen to have some really clever-yet-plausible way for bending to make sense within the real laws of physics that is also both satisfying narratively for your players to discover and makes useful predictions that they can utilize, in which case I would be seriously impressed and you should use that. I think it's probably possible, but it'd certainly be a very difficult task.
+>>> 
+>>> Alternatively, you could extend the firebenders' mechanic to others, where EVERYONE needs to get their energy from their element. Airbenders would get it from cooling down the air around them, waterbenders from the water (possibly water in the air), earth from geological processes, etc.
 
-> **u/Adeen_Dragon** [+16] *
+> **u/Adeen_Dragon** [+14]  (an hour later)
 > 
 > Is this not highly similar to a quest?
-> 
 
->> **u/hrsidkpi** [+6] *
+>> **u/hrsidkpi** [+6]  (an hour later)
 >> 
 >> What’s a quest?
->> 
 
->>> **u/Adeen_Dragon** [+11] *
+>>> **u/Adeen_Dragon** [+12]  (2 hours later)
 >>> 
 >>> If you’ve ever read a cyoa story it’s pretty similar. The Quest Master, or Masters, provide the plot, setting, etc. and the players vote on the character’s actions. 
+>>> 
 >>> SpaceBattles and Sufficient Velocity are great websites for quests, and Questionable Questing is for all NSFW questing. 
+>>> 
 >>> Marked for Death comes highly recommended on this forum, being an explicit attempt at a rational quest. 
 >>> https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/
+>>> 
 >>> The Erogamer also comes highly recommended for how it realistically portrays people being forced into ‘Porn Logic’ situations. As a heads up, Questionable Questing requires an account to view posts in the nsfw section. 
 >>> https://forum.questionablequesting.com/threads/the-erogamer-original.5465/
->>> 
 
->>>> **u/signspace13** [+3] *
+>>>> **u/signspace13** [+4]  (a day later)
 >>>> 
 >>>> *Erogame* logic, in story porn logic is something distinct and different, an ero game has to at least have a coherent storyline, with characters, goals, and progression. This is a pretty essential part of the quest, so I feel calling it porn logic is a bit of a downgrade, as literally anything can happen in porn, no matter how absurd, so long as it leads to sex. This isn't the case in eroge, as is expounded on in detail by the Quest.
->>>> I might add that the Erogamer is probably one of my favorite things ever, so I'm a bit biased.
 >>>> 
+>>>> I might add that the Erogamer is probably one of my favorite things ever, so I'm a bit biased.
 
->>> **u/charlesrwest** [+10] *
+>>> **u/charlesrwest** [+8]  (an hour later)
 >>> 
 >>> Here's a pretty good example of a quest:
 >>> https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/
->>> 
 
->>> **u/crivtox** [+9]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+9]  *Closed Time Loop Enthusiast* (5 hours later)
 >>> 
 >>> Don't worry  you are  not the first  person to reinvent quests after reading hpmor  without realizing they already exist in this subreddit (that was how the idea of marked for death started if I remember correctly ).
+>>> 
 >>> I second recommendations of mfd. 
 >>> Oh and also vetch and radvic are going to write a Zelda one soon  too. 
->>> Also I warn you that people here are likely to munchkin whatever magic  system we get our hands on  untill it breaks, see mfd ideas like implosion nukes, skywalkers or whipguns. 
->>> I started  running a quest myself but haven't posted in more than a month, maybe I should go back to that.
 >>> 
+>>> Also I warn you that people here are likely to munchkin whatever magic  system we get our hands on  untill it breaks, see mfd ideas like implosion nukes, skywalkers or whipguns. 
+>>> 
+>>> I started  running a quest myself but haven't posted in more than a month, maybe I should go back to that.
 
->>>> **u/hrsidkpi** [+1] *
+>>>> **u/hrsidkpi** [+1]  (22 hours later)
 >>>> 
 >>>> Yea as I said and also edited into the OP, this actually is very similar to a quest, with the  main difference being the PvP aspect. 
-
->>>> >Also I warn you that people here are likely to munchkin whatever magic system we get our hands on untill it breaks, see mfd ideas like implosion nukes, skywalkers or whipguns.
->>>> I expect that, we'll see where this goes.
 >>>> 
+>>>> >Also I warn you that people here are likely to munchkin whatever magic system we get our hands on untill it breaks, see mfd ideas like implosion nukes, skywalkers or whipguns.
+>>>> 
+>>>> I expect that, we'll see where this goes.
 
->>> **u/MythSteak** [+3] *
+>>> **u/MythSteak** [+3]  (8 hours later)
 >>> 
 >>> What you are describing already exists and is called “questing”.
->>> And yes it is a great idea that can really pay off if the author puts in the extra work.
 >>> 
+>>> And yes it is a great idea that can really pay off if the author puts in the extra work.
 
->> **u/hrsidkpi** [+2] *
+>> **u/hrsidkpi** [+2]  (2 hours later)
 >> 
 >> The key difference from what I find online (searching “a quest” doesn’t really bring me what you mean, I needed to follow the links you gave me and look there), is that this is gonna be sort of PvP. Sokka team and Azula team will have very different motivations.
->> But yea, it’s kinda like a quest. I didn’t know those things exist so thanks for that.
 >> 
+>> But yea, it’s kinda like a quest. I didn’t know those things exist so thanks for that.
 
->>> **u/Adeen_Dragon** [+6] *
+>>> **u/Adeen_Dragon** [+8]  (3 hours later)
 >>> 
 >>> A PvP situation would be rather unique, I’d have to say. 
->>> I’d be interested in participating, but I’d suggest some caution. Any direct combat would probably have to be decided by dice rolls (albeit obviously with modifiers). For example: Team Zuko has found team Avatar on the Avatar Island. Team Zuko has decided to launch most of their ship’s fuel reserves to the battlefield in order to have something to burn, and is holding the town hostage in order to provoke a fight. Team Avatar has an advantage by having a surplus of water, this being an island, but moving enough water to quench fires will quickly exhaust their food reserves. 
->>> Who wins? To me, this kind of combat would a lot of number crunching and back and forth between the players. Does Team Zuko actually burn down the town, or is it just a bluff. When does team Avatar decide to retreat? After team Zuko has left, or do they leave him to burn down the town at his leisure?
->>> How in detail will each team’s supply trains be? The fire nation here as a distinct advantage that most things are burnable while most things are not edible. 
->>> I’d love to participate though.
 >>> 
+>>> I’d be interested in participating, but I’d suggest some caution. Any direct combat would probably have to be decided by dice rolls (albeit obviously with modifiers). For example: Team Zuko has found team Avatar on the Avatar Island. Team Zuko has decided to launch most of their ship’s fuel reserves to the battlefield in order to have something to burn, and is holding the town hostage in order to provoke a fight. Team Avatar has an advantage by having a surplus of water, this being an island, but moving enough water to quench fires will quickly exhaust their food reserves. 
+>>> 
+>>> Who wins? To me, this kind of combat would a lot of number crunching and back and forth between the players. Does Team Zuko actually burn down the town, or is it just a bluff. When does team Avatar decide to retreat? After team Zuko has left, or do they leave him to burn down the town at his leisure?
+>>> 
+>>> How in detail will each team’s supply trains be? The fire nation here as a distinct advantage that most things are burnable while most things are not edible. 
+>>> 
+>>> I’d love to participate though.
 
->>>> **u/charlesrwest** [+5] *
+>>>> **u/charlesrwest** [+5]  (5 hours later)
 >>>> 
 >>>> You might want to reach out to the guys that run marked for death about how to handle PvP.  After much deliberation (seriously, months of discussion) they ended up using a modified version of the fate system to resolve martial and social combat.  You might want to see if you could adapt their system (which is public).
->>>> Also, they are pretty nice/approachable.
 >>>> 
+>>>> Also, they are pretty nice/approachable.
 
->>>> **u/suddenserendipity** [+2] *
+>>>> **u/suddenserendipity** [+2]  (11 hours later)
 >>>> 
 >>>> If a good system could be worked out, I’d also be interested in participating.
->>>> 
 
->>>> **u/hrsidkpi** [+1] *
+>>>> **u/hrsidkpi** [+1]  (23 hours later)
 >>>> 
 >>>> > I’d be interested in participating, but I’d suggest some caution. Any direct combat would probably have to be decided by dice rolls (albeit obviously with modifiers). For example: Team Zuko has found team Avatar on the Avatar Island. Team Zuko has decided to launch most of their ship’s fuel reserves to the battlefield in order to have something to burn, and is holding the town hostage in order to provoke a fight. Team Avatar has an advantage by having a surplus of water, this being an island, but moving enough water to quench fires will quickly exhaust their food reserves.
->>>> My original thoughts were for the lead author to decide what's actually happening during the fight after the players decide their plans, and only if someone objects to the way I made things happen we will have a discussion or perhaps a dice roll.
-
->>>> >Who wins? To me, this kind of combat would a lot of number crunching and back and forth between the players. Does Team Zuko actually burn down the town, or is it just a bluff. When does team Avatar decide to retreat? After team Zuko has left, or do they leave him to burn down the town at his leisure?
->>>> The decisions will be made by the players. The outcomes will be determined by the lead author probably, based on parameters that should mostly be given beforehand (the shape of the island, how much fuel Zuko has).
->>>> &#x200B;
-
->>>> >How in detail will each team’s supply trains be? The fire nation here as a distinct advantage that most things are burnable while most things are not edible.
->>>> You are correct, however the key difference is that Zuko does not have access to the fire nation's economy while Sokka has access to the water and earth nation's resources (at least potentially).
->>>> &#x200B;
-
->>>> >I’d love to participate though.
->>>> That's great to hear! I'll work on PvP logistics and create a new post probably specifically for the A:TLA PvP quest.
->>>> &#x200B;
->>>> Thanks for your input!
 >>>> 
+>>>> My original thoughts were for the lead author to decide what's actually happening during the fight after the players decide their plans, and only if someone objects to the way I made things happen we will have a discussion or perhaps a dice roll.
+>>>> 
+>>>> >Who wins? To me, this kind of combat would a lot of number crunching and back and forth between the players. Does Team Zuko actually burn down the town, or is it just a bluff. When does team Avatar decide to retreat? After team Zuko has left, or do they leave him to burn down the town at his leisure?
+>>>> 
+>>>> The decisions will be made by the players. The outcomes will be determined by the lead author probably, based on parameters that should mostly be given beforehand (the shape of the island, how much fuel Zuko has).
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> >How in detail will each team’s supply trains be? The fire nation here as a distinct advantage that most things are burnable while most things are not edible.
+>>>> 
+>>>> You are correct, however the key difference is that Zuko does not have access to the fire nation's economy while Sokka has access to the water and earth nation's resources (at least potentially).
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> >I’d love to participate though.
+>>>> 
+>>>> That's great to hear! I'll work on PvP logistics and create a new post probably specifically for the A:TLA PvP quest.
+>>>> 
+>>>> &#x200B;
+>>>> 
+>>>> Thanks for your input!
 
->>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast**
+>>> **u/crivtox** [+3]  *Closed Time Loop Enthusiast* (6 hours later)
 >>> 
 >>> That is an interesting idea and I have though about it sometimes though I suspect the reason it doesn't usually happens is that there are lots more "logistical" problems in running a pvp.
 >>> Especially in the usual formums people do quests on, since you would have to prevent people from voting in the two places, you can't easily keep what one team is doing secret from one another, you need double the people voting for it to work  and that kind of stuff. 
->>> But it could be really fun if you can actually make it work.
 >>> 
+>>> But it could be really fun if you can actually make it work.
 
->>>> **u/hrsidkpi** [+1] *
+>>>> **u/hrsidkpi** [+1]  (23 hours later)
 >>>> 
 >>>> >That is an interesting idea and I have though about it sometimes though I suspect the reason it doesn't usually happens is that there are lots more "logistical" problems in running a pvp. Especially in the usual formums people do quests on, since you would have to prevent people from voting in the two places, you can't easily keep what one team is doing secret from one another, you need double the people voting for it to work and that kind of stuff.
->>>> I'm still thinking about logistics. There will definitely be private discussion forums for only team members, and entry will be 1 team per user. Maybe a verified email account, because its easy to make new Reddit accounts. 
-
->>>> >But it could be really fun if you can actually make it work.
->>>> Great to hear you like the idea! I'll work out the details and probably create a new post. Thanks for your input!
 >>>> 
+>>>> I'm still thinking about logistics. There will definitely be private discussion forums for only team members, and entry will be 1 team per user. Maybe a verified email account, because its easy to make new Reddit accounts. 
+>>>> 
+>>>> >But it could be really fun if you can actually make it work.
+>>>> 
+>>>> Great to hear you like the idea! I'll work out the details and probably create a new post. Thanks for your input!
 
->>> **u/Argenteus_CG** [+1] *
+>>> **u/Argenteus_CG** [+1]  (21 hours later)
 >>> 
 >>> I'd be interested in participating for sure. Will teams be random, or do we pick a team?
->>> 
 
->>>> **u/hrsidkpi** [+1] *
+>>>> **u/hrsidkpi** [+1]  (23 hours later)
 >>>> 
 >>>> That's great! 
->>>> I was thinking you will pick teams, but if teams will be unbalanced I will need to figure out what to do (either random teams or remove some of the less-wanted teams).
 >>>> 
+>>>> I was thinking you will pick teams, but if teams will be unbalanced I will need to figure out what to do (either random teams or remove some of the less-wanted teams).
 
-> **u/jakeb89** [+5] *
+> **u/jakeb89** [+5]  (5 hours later)
 > 
 > !remindme 1 week
-> 
 
->> **u/RemindMeBot** [+1] *
+>> **u/RemindMeBot** [+1]  (5 hours later)
 >> 
 >> I will be messaging you on [**2019-06-27 14:44:58 UTC**](http://www.wolframalpha.com/input/?i=2019-06-27 14:44:58 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/rational/comments/c2tqy3/discussion_hive_mind_rationality_choosing_the/ern0o8s/)
+>> 
 >> [**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/rational/comments/c2tqy3/discussion_hive_mind_rationality_choosing_the/ern0o8s/]%0A%0ARemindMe!  1 week) to send a PM to also be reminded and to reduce spam.
+>> 
 >> ^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! ern0pkj)
+>> 
 >> _____
+>> 
 >> |[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
 >> |-|-|-|-|-|-|
->> 
 
-> **u/Rice_22** [+3] *
+> **u/Rice_22** [+3]  (16 hours later)
 > 
 > This sounds extremely ambitious. Props to you if you managed to get it working (for the years this project WILL end up taking), but I suggest warming up with a smaller "quest" system first, and looking up the other quests recommended in the thread for advice.
-> 
 
->> **u/hrsidkpi** [+2] *
+>> **u/hrsidkpi** [+2]  (23 hours later)
 >> 
 >> >This sounds extremely ambitious. Props to you if you managed to get it working (for the years this project WILL end up taking), but I suggest warming up with a smaller "quest" system first, and looking up the other quests recommended in the thread for advice.
->> You might be correct about starting with a smaller quest because I don't really have experience with those things, Ill consider it. Thanks for the input.
 >> 
+>> You might be correct about starting with a smaller quest because I don't really have experience with those things, Ill consider it. Thanks for the input.
 
->>> **u/Rice_22** [+1] *
+>>> **u/Rice_22** [+1]  (a day later)
 >>> 
 >>> No problem. I've experienced far too many quest threads etc. that tried to be too grand and feature-rich yet end up spinning out of control of the DM and burning itself out before it got anywhere interesting. Even Andrew Hussie's MS Paint Adventures and Homestuck end up dragging out far too long (you might want to skim those a bit for some ideas how to run yours).
->>> You might also want to browse a few quest forums or PM some of the more accomplished quest writers on Sufficient Velocity/SpaceBattle for tips on mechanics like dice rolling combat. yrsillar (Forge of Destiny) and Saphrith (Fate Denied) were some of the quest writers recommended to me before on this sub.
->>> I really do think starting small and gradually expanding it up would let you familiarise yourself with how to run one of these quest things. And perhaps the most tricky thing you're doing is trying to run multiple viewpoints at once, FIVE characters which means trawling through FIVE threads full of posts is a huge workload and probably too much for one person. You'll never really know how chaotic it gets until you actually experience it though, so starting a small week/month-long storylet with one viewpoint only is what I suggest until you get yourself in the zone.
 >>> 
+>>> You might also want to browse a few quest forums or PM some of the more accomplished quest writers on Sufficient Velocity/SpaceBattle for tips on mechanics like dice rolling combat. yrsillar (Forge of Destiny) and Saphrith (Fate Denied) were some of the quest writers recommended to me before on this sub.
+>>> 
+>>> I really do think starting small and gradually expanding it up would let you familiarise yourself with how to run one of these quest things. And perhaps the most tricky thing you're doing is trying to run multiple viewpoints at once, FIVE characters which means trawling through FIVE threads full of posts is a huge workload and probably too much for one person. You'll never really know how chaotic it gets until you actually experience it though, so starting a small week/month-long storylet with one viewpoint only is what I suggest until you get yourself in the zone.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 days later)
 > 
 > >Fire benders can only create heat from heat near them.
-> Two things jump out at me:
-> 1: Fire bending is still a good source of energy in practice because you can make a temperature gradient and run (e.g.) a Stirling engine off of it. 
-> 2: Since campfires are several times hotter than normal air, the region of air cooled should be far larger than the flame, and using it would likely be the main combat ability for fire benders.
 > 
+> Two things jump out at me:
+> 
+> 1: Fire bending is still a good source of energy in practice because you can make a temperature gradient and run (e.g.) a Stirling engine off of it. 
+> 
+> 2: Since campfires are several times hotter than normal air, the region of air cooled should be far larger than the flame, and using it would likely be the main combat ability for fire benders.
 
-> **u/Argenteus_CG** [+2] *
+> **u/Argenteus_CG** [+2]  (8 days later)
 > 
 > Coming back to this, your team roster is actually well thought out (every character has distinct advantages to draw players), but I do think that if possible, it'd be nice to expand it slightly if there are enough interested players. In particular, it suffers from lack of a waterbender, as well as having only one earthbender, in comparison to three firebenders! One nonbender is probably the right amount, but I think a waterbender and a second earthbender would be good additions.
-> The waterbender, I'm not sure who would be, but it can't be Katara since access to the avatar is TeamSokka's big advantage to make up for not being a bender.
-> For the second earthbender, may I suggest Bumi, the "mad genius"?
 > 
+> The waterbender, I'm not sure who would be, but it can't be Katara since access to the avatar is TeamSokka's big advantage to make up for not being a bender.
+> 
+> For the second earthbender, may I suggest Bumi, the "mad genius"?
 
 ---
 

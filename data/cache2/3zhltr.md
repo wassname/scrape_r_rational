@@ -2,7 +2,7 @@
 
 * Author: u/Kishoto *
 * URL: https://www.reddit.com/r/rational/comments/3zhltr/adam_ruins_everything_a_tru_tv_show/
-* Score: 23
+* Score: 22
 
 * Created: 2016-01-05T00:43:21
 
@@ -26,56 +26,47 @@ Again, I'm aware this show isn't exactly a work of rational fiction, but I think
 
 ### Comments:
 
-> **u/DaystarEld** [+11]  *Pokémon Professor**
+> **u/DaystarEld** [+12]  *Pokémon Professor* (5 hours later)
 > 
 > Loved his mini sketches, and was very satisfied by the quality of the show. The first episode has a dissection of food drives and feel-good charity efforts that would be better off just recieving money which was so spot on that I also thought "this is a very rationalist show."
-> 
 
->> **u/Kishoto** [+6] *
+>> **u/Kishoto** [+5]  (5 hours later)
 >> 
 >> It's such a simple thing, but so counter intuitive. Blindly giving really isn't the way to maximize your investment, despite how it makes us feel. Society in general favors charities that make the giver feel things (whether it's guilt at not helping, or a sense of community) and bad marketing combined with that can really just make us inefficient overall.
->> 
 
-> **u/XxChronOblivionxX** [+6] *
+> **u/XxChronOblivionxX** [+5]  (6 hours later)
 > 
 > Of particular interest is **[the opening of the episode on Death](https://www.youtube.com/watch?v=HuKB0_t3J0A)**.  Some people will here probably disagree with the later part about it being impossible to fight, but it really tackles the horror of it straight on.
-> 
 
-> **u/masterax2000** [+3]  *Chaos Legion**
+> **u/masterax2000** [+3]  *Chaos Legion* (26 minutes later)
 > 
 > I love this show!
-> 
 
-> **u/lawnmowerlatte** [+2] *
+> **u/lawnmowerlatte** [+2]  (4 hours later)
 > 
 > If say this is definitely related or at very least of interest to anyone seeking to be a better rationalist. I really liked this [interview with reason.tv](https://youtu.be/ooaMfGu-qUk) where Adam goes into a bit more about the rationale behind the show and what he's seeking to accomplish with it.
-> 
 
-> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (15 hours later)
 > 
 > I would appreciate suggestions of which episodes are best.
-> 
 
->> **u/Kishoto** [+2] *
+>> **u/Kishoto** [+2]  (a day later)
 >> 
 >> Episode 4 is interesting. It deals with some of the inaccuracies in modern law enforcement techniques, and also touches a bit on the inherent unreliability of human memory. 
->> I will give more suggestions once I've completed the season
 >> 
+>> I will give more suggestions once I've completed the season
 
->> **u/booljayj** [+0] *
+>> **u/booljayj** [+0]  (20 hours later)
 >> 
 >> All of them. They're all the best.
->> 
 
-> **u/MugaSofer** [+3] *
+> **u/MugaSofer** [+3]  (2 hours later)
 > 
 > For what it's worth, the show does have a mild internal narrative where the narrator appears and forces people to listen to him because it's his TV show. It's a framing device, but it is fiction.
-> 
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (15 hours later)
 > 
 > This is a great show, thank you for pointing it out.
-> 
 
 ---
 

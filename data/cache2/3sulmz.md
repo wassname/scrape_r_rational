@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (11 seconds later)
 > 
 > /r/hpmor comment thread:
-> https://www.reddit.com/r/HPMOR/comments/3sulmr/significant_digits_chapter_twentynine_intent/
 > 
+> https://www.reddit.com/r/HPMOR/comments/3sulmr/significant_digits_chapter_twentynine_intent/
 
 ---
 

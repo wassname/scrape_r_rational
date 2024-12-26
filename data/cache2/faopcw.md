@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/1337_w0n** [+2] *
+> **u/1337_w0n** [+2]  (2 minutes later)
 > 
 > Does FMA count? If not, maybe ghost in the shell?
-> 
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (6 minutes later)
 > 
 > Please post requests in the Friday Open Thread (going up 12 hours from now) or on Monday's Recommendation Thread.
-> 
 
 ---
 

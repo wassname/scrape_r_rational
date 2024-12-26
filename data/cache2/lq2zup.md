@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/GrecklePrime** [+18] *
+> **u/GrecklePrime** [+19]  (2 hours later)
 > 
 > I'm not going to lie, I teared up a bit at that ending. Very good story. Thank you.
-> 
 
-> **u/Dragfie** [+9] *
+> **u/Dragfie** [+9]  (13 hours later)
 > 
 > Very good thanks for this
-> 
 
-> **u/robotowilliam** [+5] *
+> **u/robotowilliam** [+6]  (3 months later)
 > 
 > I can't believe I missed this. Should have gotten more upvotes!
-> 
 
 ---
 

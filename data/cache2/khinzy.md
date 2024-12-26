@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/TREB0R** [+3] *
+> **u/TREB0R** [+3]  (4 hours later)
 > 
 > I just tried to start this series, but the current tense is really throwing me off making it feel awkward and choppy.
-> 
 
-> **u/Endovior** [+3] *
+> **u/Endovior** [+4]  (4 hours later)
 > 
 > I haven't seen this story posted here before. Care to comment with an explanation of why this story belongs here?
-> 
 
->> **u/mangacheese** [+3] *
+>> **u/mangacheese** [+3]  (13 hours later)
 >> 
 >> Its a classic cultivation series, the main character acts rationally
->> 
 
 ---
 

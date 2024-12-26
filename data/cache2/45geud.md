@@ -12,49 +12,45 @@
 
 ### Comments:
 
-> **u/None** [+9] *
+> **u/None** [+10]  (49 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (2 hours later)
 >> 
 >> *sigh.* That was bad.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 hours later)
 >>> 
 >>> > RWBY on rails?
->>> RP thread bad?
->>> Anyway, the RP thread is about an attack at RTX2015 by Cinder and her minions, which is a convention for the studio that produced the animated series RWBY.
->>> The POTUS told us that it was a terrorist attack by people not of this world and announced that they came from the previously-fictional series RWBY.
->>> The RP thread is about commentators reacting to this live event and the aftermath that will change the world.
 >>> 
+>>> RP thread bad?
+>>> 
+>>> Anyway, the RP thread is about an attack at RTX2015 by Cinder and her minions, which is a convention for the studio that produced the animated series RWBY.
+>>> 
+>>> The POTUS told us that it was a terrorist attack by people not of this world and announced that they came from the previously-fictional series RWBY.
+>>> 
+>>> The RP thread is about commentators reacting to this live event and the aftermath that will change the world.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (4 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (5 hours later)
 >>>>> 
 >>>>> To be fair, it was impressively cringeworthy.
->>>>> 
 
->>>>>> **u/rhaps0dy4** [+1] *
+>>>>>> **u/rhaps0dy4** [+1]  (9 days later)
 >>>>>> 
 >>>>>> I think you're exaggerating a little...
->>>>>> 
 
->>>>>> **u/nolrai** [+1] *
+>>>>>> **u/nolrai** [+1]  (2 months later)
 >>>>>> 
 >>>>>> The joke or the thread?
->>>>>> 
 
->>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate* (2 months later)
 >>>>>>> 
 >>>>>>> The joke.
->>>>>>> 
 
 ---
 

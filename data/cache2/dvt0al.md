@@ -24,17 +24,17 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/boomfarmer** [+3]  *Trying to be helpful**
+> **u/boomfarmer** [+3]  *Trying to be helpful* (22 hours later)
 > 
 > For drawing, what do you use when modelling cities?
-> 
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+4]  *Time flies like an arrow* (a day later)
 >> 
 >> In terms of overhead, satellite-esque views? Usually I'll just use a sheet of graph paper and sketch out first the geography (rivers, lakes, woods, parks, etc.) and then the main roadways, with some vague suggestions of neighborhoods, districts, and major landmarks. If it's going to be used as a reference for a short story or longer work, then that's probably where I stop, but if I want something more detailed, then I'll start filling in pieces, usually with suggestions of residential areas, taller or fatter buildings, and things like that. I'll also generally go larger than most city maps to indicate not just the suburban area, but where the city turns into farmland (or whatever else is out there). For writing fiction, which is mostly what I'm making maps 'for', the important things are where places are in relation to each other, how people get from place to place, and how large each section is.
->> (I don't do a lot digitally, in part because I don't make enough maps that learning the drawing tools seems worth it, especially since I forget a lot between maps.)
->> [Cartographer's Guild](https://www.cartographersguild.com/) has a ton of useful tutorials, both for region/world maps and city maps.
 >> 
+>> (I don't do a lot digitally, in part because I don't make enough maps that learning the drawing tools seems worth it, especially since I forget a lot between maps.)
+>> 
+>> [Cartographer's Guild](https://www.cartographersguild.com/) has a ton of useful tutorials, both for region/world maps and city maps.
 
 ---
 

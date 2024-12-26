@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/JackStargazer** [+3]  *Primordial Apologist**
+> **u/JackStargazer** [+3]  *Primordial Apologist* (52 minutes later)
 > 
 > While this is one of my favorite fanfictions ever, I do have to note that the enemies hold pretty enormous Idiot Balls, and I couldn't really classify it as rational in that sense.
-> It also mostly ignores the First Law of Fanfiction, barring the [Spoiler](#s "Loki/Anubis alliance.")
 > 
+> It also mostly ignores the First Law of Fanfiction, barring the [Spoiler](#s "Loki/Anubis alliance.")
 
 ---
 

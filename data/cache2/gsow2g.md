@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/05/29/chapter-32-convened/
-* Score: 43
+* Score: 46
 
 * Created: 2020-05-29T08:20:24
 

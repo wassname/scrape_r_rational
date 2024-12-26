@@ -2,7 +2,7 @@
 
 * Author: u/timecubefanfiction *
 * URL: https://www.reddit.com/r/rational/comments/k1vzcx/conversations_with_level_3_intelligent_characters/
-* Score: 86
+* Score: 87
 
 * Created: 2020-11-27T06:32:56
 
@@ -187,466 +187,591 @@ At the end of the chapter, Alison visits her old nemesis, Cleaver, a mass murder
 
 ### Comments:
 
-> **u/everything-narrative** [+16]  *Coral, Abide with Rubicon!**
+> **u/everything-narrative** [+17]  *Coral, Abide with Rubicon!* (an hour later)
 > 
 > I hope the authors bring it out of eternal hiatus one day.
-> 
 
-> **u/every-name-is-taken2** [+9] *
+> **u/every-name-is-taken2** [+10]  (17 hours later)
 > 
 > >It’s great. Go read the first three chapters because I’m about to spoil them, and it’s great so you should just read it first. Seriously, go read it. Reddit will still be here when you get back. I promise—NAY, I PRECOMMIT—to upvote your comment if you take a month to reply because you were reading the first three chapters.
-> I saw this and decided to read it until I got bored. Ended up reading the whole thing during the entire rest of my day. Thank you for introducing me to this wonderful story that kept me from studying for my exams dipshit. 5/5 best comic I read this year.
 > 
+> I saw this and decided to read it until I got bored. Ended up reading the whole thing during the entire rest of my day. Thank you for introducing me to this wonderful story that kept me from studying for my exams dipshit. 5/5 best comic I read this year.
 
-> **u/xamueljones** [+14]  *My arch-enemy is entropy**
+> **u/xamueljones** [+12]  *My arch-enemy is entropy* (a day later)
 > 
 > >Seriously, go read it. Reddit will still be here when you get back. I promise—NAY, I PRECOMMIT—to upvote your comment if you take a month to reply because you were reading the first three chapters.
-> Ugh! This sentence made me twitch in annoyance.
-> I love what you have written here and SFP is fantastic in how it portrays moral difficulties and ethical debates, but you are using that word wrong!
-> Precommitment does NOT mean to firmly promise something that you will follow through no matter what. It requires imposing an outside force which will force you to follow through on your promise no matter what, even if you yourself change your mind and try to break the promise.
-> Odysseus precommited to ignoring the sirens by tying himself to his mast, instead of promising really hard that he wouldn't jump overboard. Couples are precommiting to who gets what in a divorce by writing up a prenup instead of just relying on a verbal promise before marriage. Harry is precommiting to save the world as safely as possible at the end of HP:MOR because he's under an Unbreakable Vow which makes it impossible to take any action which would doom the world.
-> You'd be precommiting if you had a friend who will perform the upvoting based on posting times even if you asked them to do otherwise in the future, instead of saying you'll do an upvote yourself.
-> What you are doing is just regular promising aka everyday commitment.
-> Nothing against you personally, just a pet peeve of mine when I see that word misused.
 > 
+> Ugh! This sentence made me twitch in annoyance.
+> 
+> I love what you have written here and SFP is fantastic in how it portrays moral difficulties and ethical debates, but you are using that word wrong!
+> 
+> Precommitment does NOT mean to firmly promise something that you will follow through no matter what. It requires imposing an outside force which will force you to follow through on your promise no matter what, even if you yourself change your mind and try to break the promise.
+> 
+> Odysseus precommited to ignoring the sirens by tying himself to his mast, instead of promising really hard that he wouldn't jump overboard. Couples are precommiting to who gets what in a divorce by writing up a prenup instead of just relying on a verbal promise before marriage. Harry is precommiting to save the world as safely as possible at the end of HP:MOR because he's under an Unbreakable Vow which makes it impossible to take any action which would doom the world.
+> 
+> You'd be precommiting if you had a friend who will perform the upvoting based on posting times even if you asked them to do otherwise in the future, instead of saying you'll do an upvote yourself.
+> 
+> What you are doing is just regular promising aka everyday commitment.
+> 
+> Nothing against you personally, just a pet peeve of mine when I see that word misused.
 
->> **u/timecubefanfiction** [+11] *
+>> **u/timecubefanfiction** [+11]  (a day later)
 >> 
 >> No, I'm pretty sure that precommiting is when you shout the word at the top of your lungs.
->> 
 
->>> **u/Chosen_Pun** [+5]  *The Chosen Ones**
+>>> **u/Chosen_Pun** [+5]  *The Chosen Ones* (2 days later)
 >>> 
 >>> I didn't *say* it, I *declared* it!
->>> 
 
-> **u/Sophronius** [+42]  *The Need to Become Stronger**
+> **u/Sophronius** [+45]  *The Need to Become Stronger* (5 hours later)
 > 
 > I really can't see SFP as rationalist fiction. The entire premise is to take the author’s political biases and to raise them up as something good. Having a gay character selflessly agree to torture herself infinitely for people who hate her only for the evil conservatives to flamethrower the doctors is so blatant that I cannot overlook it. There is also a serial killer who is treated as sympathetic because she only kills rapists and the only conservative hero is, of course, a secret rapist. But that aside...
-> Yes, the main character ponders about how to fix the world, but cynically declaring that small scale acts of kindness are pointless if they don’t fix the whole is *not* rational. And after telling Feral that donating organs won't fix anything, what is her own solution? Setting up a woman’s shelter. Yes, that’s right, the optimal thing for a superhero to do in a world full of magic and super technology that could fix everything is... to set up a woman’s shelter.
-> Not to use her fame to raise money for women’s shelters, mind you. No, she has to do it personally or else it’s not noble enough. She can’t just tour the country and convince people to donate to effective altruism charities, no. She has to personally build up yet another woman’s shelter because she is a strong female protagonist and it’s part of her *identity*, gosh darnit.
-> Not even a shelter that allows men, in recognition of the fact that abused men receive less support. Oh no, it can't be anything that would make the reader uncomfortable. The *optimal* thing for our heroine to do is to reinforce precisely those biases that the intended audience already has.
-> I read the story to completion, so it’s obviously not bad. It’s well written and has good art. But it’s also a cautionary tale of what rational fiction should precisely not be.
 > 
+> Yes, the main character ponders about how to fix the world, but cynically declaring that small scale acts of kindness are pointless if they don’t fix the whole is *not* rational. And after telling Feral that donating organs won't fix anything, what is her own solution? Setting up a woman’s shelter. Yes, that’s right, the optimal thing for a superhero to do in a world full of magic and super technology that could fix everything is... to set up a woman’s shelter.
+> 
+> Not to use her fame to raise money for women’s shelters, mind you. No, she has to do it personally or else it’s not noble enough. She can’t just tour the country and convince people to donate to effective altruism charities, no. She has to personally build up yet another woman’s shelter because she is a strong female protagonist and it’s part of her *identity*, gosh darnit.
+> 
+> Not even a shelter that allows men, in recognition of the fact that abused men receive less support. Oh no, it can't be anything that would make the reader uncomfortable. The *optimal* thing for our heroine to do is to reinforce precisely those biases that the intended audience already has.
+> 
+> I read the story to completion, so it’s obviously not bad. It’s well written and has good art. But it’s also a cautionary tale of what rational fiction should precisely not be.
 
->> **u/CeruleanTresses** [+26] *
+>> **u/CeruleanTresses** [+27]  (9 hours later)
 >> 
 >> The main character doesn't have to be a perfectly rational being for the work to be rationalist. The premise of the story is that Alison is trying to figure out how to be and do good, not that she's an ethics genius who already knows how. Her points of view on morally sticky topics like Feral's organ donation are presented alongside strongly argued opposing points of view, not framed as obviously correct. She makes mistakes in her actions and reasoning and tries to learn from them. It's not irrational to write characters who are human enough to sometimes act or think irrationally.
->> I also think your description of the "rapist serial killer" arc is misleading. It's not framed like "oh it's totally fine because she only kills rapists." The character is depicted as someone who has built up a moral framework that she views as internally consistent and that comes from an understandable emotional place, but that is ultimately harmful and hypocritical. If she'd been written as a one-dimensional straw villain whose motives were totally unsympathetic, then she might as well just exist in a regular superhero comic instead of one whose "battles" are mostly ethics debates.
 >> 
+>> I also think your description of the "rapist serial killer" arc is misleading. It's not framed like "oh it's totally fine because she only kills rapists." The character is depicted as someone who has built up a moral framework that she views as internally consistent and that comes from an understandable emotional place, but that is ultimately harmful and hypocritical. If she'd been written as a one-dimensional straw villain whose motives were totally unsympathetic, then she might as well just exist in a regular superhero comic instead of one whose "battles" are mostly ethics debates.
 
->>> **u/None** [-1] *
+>>> **u/None** [-1]  (9 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/CeruleanTresses** [+14] *
+>>>> **u/CeruleanTresses** [+15]  (9 hours later)
 >>>> 
 >>>> I really don't think it makes sense to make claims about the "final conclusion" Alison comes to when the comic never actually ended. What final conclusion in line with the author's politics do you think she reached? 
->>>> And she doesn't refuse to use her powers. She questions whether she *has* used her powers in good ways. She questions whether she *can* use her powers in good ways. She questions whether it can ever be justified to use violent means for good ends. A lot of the tension in the story is about her awareness that if she comes to a harmful conclusion about how to use her powers, that's bad for the whole world because there's no known external force that could stop her. But she doesn't "refuse to use her powers," and she doesn't give up on wanting to save the world. (I mean, take the whole Max thing--I don't know how you read that part and then conclude that this is a story about someone refusing to use her powers.)
->>>> I also want to comment on how you described the "women's shelter" thing (IIRC it was an app, but that doesn't really matter). I don't think we're meant to see the Valkyrie Project as the utility maximization endgame for Alison's powerset, but as a step forward in her philosophical development. Specifically, it's the proof-of-concept for her revelation that her frame of thinking about saving the world all by herself is fundamentally flawed, and it's smarter and more effective for many supers to work together. So "She has to personally build up yet another woman’s shelter because she is a strong female protagonist and it’s part of her identity" is...kind of the opposite of what happened there.
 >>>> 
+>>>> And she doesn't refuse to use her powers. She questions whether she *has* used her powers in good ways. She questions whether she *can* use her powers in good ways. She questions whether it can ever be justified to use violent means for good ends. A lot of the tension in the story is about her awareness that if she comes to a harmful conclusion about how to use her powers, that's bad for the whole world because there's no known external force that could stop her. But she doesn't "refuse to use her powers," and she doesn't give up on wanting to save the world. (I mean, take the whole Max thing--I don't know how you read that part and then conclude that this is a story about someone refusing to use her powers.)
+>>>> 
+>>>> I also want to comment on how you described the "women's shelter" thing (IIRC it was an app, but that doesn't really matter). I don't think we're meant to see the Valkyrie Project as the utility maximization endgame for Alison's powerset, but as a step forward in her philosophical development. Specifically, it's the proof-of-concept for her revelation that her frame of thinking about saving the world all by herself is fundamentally flawed, and it's smarter and more effective for many supers to work together. So "She has to personally build up yet another woman’s shelter because she is a strong female protagonist and it’s part of her identity" is...kind of the opposite of what happened there.
 
->> **u/timecubefanfiction** [+9] *
+>> **u/timecubefanfiction** [+9]  (13 hours later)
 >> 
 >> My own interest in writing this essay is to express how SFP excels at certain qualities which would be of interest as useful examples to anyone trying to write their own rationalist fiction. Those qualities can be used to express any kind of cultural or intellectual ideals.
->> 
 
->> **u/causalchain** [+18] *
+>> **u/causalchain** [+19]  (5 hours later)
 >> 
 >> I thought about what you've said, and I think I agree that there is a bias, but I don't agree with your conclusion. I think it still classifies as rational (and even rationalist) fiction. 
->> If I'm going off sidebar definition, then it hits most of the points. If I go off "rational fiction is what the subreddit thinks is rational fiction", then SFP has been recommended multiple times.
->> There was a point raised a while ago, that fiction shouldn't be excluded from 'rational fiction' for being bad. That for the distinction of rational to be as useful as possible, it should include both good and bad fiction in it.  
->> I would say "SFP is a rational fiction, but has attributes that detract from it", or even "SFP isn't perfect, and some of the ideologies should be taken with a grain of salt", and these are sentences I could apply to any rational fiction.
 >> 
+>> If I'm going off sidebar definition, then it hits most of the points. If I go off "rational fiction is what the subreddit thinks is rational fiction", then SFP has been recommended multiple times.
+>> 
+>> There was a point raised a while ago, that fiction shouldn't be excluded from 'rational fiction' for being bad. That for the distinction of rational to be as useful as possible, it should include both good and bad fiction in it.  
+>> 
+>> I would say "SFP is a rational fiction, but has attributes that detract from it", or even "SFP isn't perfect, and some of the ideologies should be taken with a grain of salt", and these are sentences I could apply to any rational fiction.
 
->>> **u/Sophronius** [+25]  *The Need to Become Stronger**
+>>> **u/Sophronius** [+26]  *The Need to Become Stronger* (7 hours later)
 >>> 
 >>> But SFP isn't bad - I liked it. It's just explicitly anti-rational. The fact that it's thoughtful and deals with issues related to rationality does not change the fact that it comes to the exact opposite conclusion.
->>> Let's go through it point by point:
->>> \-SFP does not have characters creatively applying their knowledge and resources. It's explicitly about a character \*rejecting\* their unique advantages and refusing to use them because they feel guilty about having them. This is anti-rational.
->>> \-There is no satisfying intelligent solution to the problems SFP brings up. Like I said, "build a women's shelter" is not an answer to "the fundamental problems in the world." Dismissing organ donation because it doesn't solve oppression is a straight-up rejection of utilitarianism.
->>> \-The powers are treated as magical, and more importantly, the characters don't try to exploit them in any meaningful way.
->>> SFP is a cautionary tale precisely because it \*feels\* rational at times, by bringing up rationalist-adjacent topics and having smart-sounding characters spend thousands of words talking about them. But optimizing to \*feel\* as if you're doing something is exactly what true rationality teaches us not to do. You're supposed to optimize for the real thing.
 >>> 
+>>> Let's go through it point by point:
+>>> 
+>>> \-SFP does not have characters creatively applying their knowledge and resources. It's explicitly about a character \*rejecting\* their unique advantages and refusing to use them because they feel guilty about having them. This is anti-rational.
+>>> 
+>>> \-There is no satisfying intelligent solution to the problems SFP brings up. Like I said, "build a women's shelter" is not an answer to "the fundamental problems in the world." Dismissing organ donation because it doesn't solve oppression is a straight-up rejection of utilitarianism.
+>>> 
+>>> \-The powers are treated as magical, and more importantly, the characters don't try to exploit them in any meaningful way.
+>>> 
+>>> SFP is a cautionary tale precisely because it \*feels\* rational at times, by bringing up rationalist-adjacent topics and having smart-sounding characters spend thousands of words talking about them. But optimizing to \*feel\* as if you're doing something is exactly what true rationality teaches us not to do. You're supposed to optimize for the real thing.
 
->>>> **u/CeruleanTresses** [+14] *
+>>>> **u/CeruleanTresses** [+14]  (9 hours later)
 >>>> 
 >>>> >It's explicitly about a character *rejecting* their unique advantages and refusing to use them because they feel guilty about having them.
+>>>> 
 >>>> That isn't accurate. She didn't stop using her powers because she felt guilty about having them; she chose to retire from *traditional superheroics* because she didn't think she was effecting meaningful change by punching things really hard. She still uses her powers and the story is about her trying to figure out *how* to best use her powers to accomplish good, hitting various pitfalls and encountering a variety of conflicting philosophical perspectives along the way. 
+>>>> 
 >>>> Regarding "dismissing organ donation"--spoilers ahead, but she ultimately doesn't convince Feral not to go through with it, it's made clear that her initial opposition is based in emotion and in an acknowledged blind spot she has re: preferring idealized "one-punch" solutions to partial-yet-significant steps forward, and she later doubles down hard on helping Feral donate organs at an even faster rate, so I don't know where you get the idea that the *comic* is saying organ donation is a pointless or inadequate path to utility. Hell, when they get to the big moral conflict over whether it's acceptable to force people to cooperate to maximize utility, helping Feral donate more organs *is* the utility maximization end of that equation. I feel like you're taking the main character's flawed perspective at one point in her development as the authorial voice stating what is Objectively Right, and I don't think the comic has ever framed her as a moral authority in that way.
+>>>> 
 >>>> Finally,
 >>>> >the characters don't try to exploit them in any meaningful way.
->>>> You yourself mentioned the organ donation thing. There are other examples too. Off the top of my head, Patrick using his mind-reading capabilities to "copy" other people's skills, languages, etc, and Alison applying Max's power to Feral's instead of making him make her even better at punching or whatever. It's true that not *every* character tries to exploit their powers creatively, much like not every real-life person would do so if they had powers.
 >>>> 
+>>>> You yourself mentioned the organ donation thing. There are other examples too. Off the top of my head, Patrick using his mind-reading capabilities to "copy" other people's skills, languages, etc, and Alison applying Max's power to Feral's instead of making him make her even better at punching or whatever. It's true that not *every* character tries to exploit their powers creatively, much like not every real-life person would do so if they had powers.
 
->>>>> **u/Sophronius** [+10]  *The Need to Become Stronger**
+>>>>> **u/Sophronius** [+12]  *The Need to Become Stronger* (9 hours later)
 >>>>> 
 >>>>> I'll admit it's been a while since I read it, but what does the protagonist do with her powers, then? I don't remember any analysis of the new power she gets halfway into the story, or any attempt to exploit it. She doesn't try to learn the science of it either IIRC. Superpowers are mostly treated the way zombies are treated in "pride and prejudice and zombies" - a way to spice up a story that doesn't really need them.
->>>>> You're right that Feral's organ harvesting is an example of munchkining. But first of all, it's something you can come up with after 5 seconds of thinking. Secondly, I got the distinct vibe that Feral was doing it out of self-loathing and self pity. I mean... here we have a depressive and suicidal character subjecting herself to infini-torture. It just doesn't strike me as an action that's optimized for helping people. And the fact that it's a gay woman (of color?) doing it, who is then torched by evil conservatives for her trouble? Ehhhhh.... that doesn't seem like the authors were trying to teach the readers a lesson in rationality, exactly.
->>>>> I get that all the introspection and dialogue makes it feel like the story might belong here, even if none of the conclusions are explicitly rational. And again, you're \*definitely\* right that the dilemmas are not presented as purely black and white. But it's pretty hard to not see the "our team good, people who disagree with us bad" angle of it all.
->>>>> Maybe we could meet in the middle and agree that it touches on "rationalist themes"?
 >>>>> 
+>>>>> You're right that Feral's organ harvesting is an example of munchkining. But first of all, it's something you can come up with after 5 seconds of thinking. Secondly, I got the distinct vibe that Feral was doing it out of self-loathing and self pity. I mean... here we have a depressive and suicidal character subjecting herself to infini-torture. It just doesn't strike me as an action that's optimized for helping people. And the fact that it's a gay woman (of color?) doing it, who is then torched by evil conservatives for her trouble? Ehhhhh.... that doesn't seem like the authors were trying to teach the readers a lesson in rationality, exactly.
+>>>>> 
+>>>>> I get that all the introspection and dialogue makes it feel like the story might belong here, even if none of the conclusions are explicitly rational. And again, you're \*definitely\* right that the dilemmas are not presented as purely black and white. But it's pretty hard to not see the "our team good, people who disagree with us bad" angle of it all.
+>>>>> 
+>>>>> Maybe we could meet in the middle and agree that it touches on "rationalist themes"?
 
->>>>>> **u/nicholaslaux** [+9] *
+>>>>>> **u/nicholaslaux** [+8]  (14 hours later)
 >>>>>> 
 >>>>>> Different poster, but wanted to chime in after having just read through the comic from start to finish this morning, so it's quite fresh in my mind 
->>>>>> I think you're both right and wrong about the story's treating the powers as a "way to spice up a story that doesn't really need them", but that in and of itself feels like it's effectively the theme/point of the story. There's a background theme/subplot in the story that partially addresses some of what you're saying - the strong psychic has discovered evidence that there's a hidden group in the background that is explicitly killing anyone with powers that are applicable to truly changing the world, with the characters who seem best able to doing so either having been possibly intentionally distracted from doing so by the government superhero control program (pintsize) or having successfully hidden themselves from those programs, preventing them from acting overtly.
->>>>>> From a rational perspective, it also takes the premise of "give a snapshot of births superpowers and then turn off the faucet" to what seems to be a logical and internally consistent end. There's not adults with superpowers because of the premise, and a significant chunk, possibly the majority, of the kids who received them, at least in the areas shown on screen, literally became child soldiers, which is likely to pretty heavily interfere with learning things.
->>>>>> There is some exploration of how the powers work that happens mostly off screen, done by adult scientists, but as you already mentioned, this is largely a story about what happens if you can't find a quick "I win" button in the superpowers (possibly because *The Powers That Be*™ are preventing that because they would stop being *The Powers That Be* in that case?)
->>>>>> I don't at all disagree that this is also clearly a story that is pushing a specific, identifiably liberal/progressive political worldview, but I will disagree that the main character's actions are being presented as morally correct/right, since more than half of the text in the story seems to be a very literal philosophical exploration of ethics itself, in light of the in-universe reality of superpowers. I still agree that the comic is still pushing the progressive views as mostly correct largely through the characters that are presented as viewpoint characters and who gets screentime, but I think it's largely exploring the various failure modes of that ethos, just very clearly from the inside, as seen with the storyline around the non-human-looking characters, which seems to do a very good job of capturing a lot of the risks and nuance that can be lost when you try to group a large number of people with very different wants and needs together and say "we're trying to help all of you, together!"
->>>>>> I also strongly agree with your assessment that the story touches on "rationalist themes" in the very traditional (for this genre) sense of having a cast of characters with fairly different experiences and thought processes exploring very philosophical concepts on screen. I'd also agree that it's less typical than the ur-rationalist fiction, in that the philosophical concepts it explores are less "how to think about thinking the right away" and more "how to think about being good (and no way is the right way)"
 >>>>>> 
+>>>>>> I think you're both right and wrong about the story's treating the powers as a "way to spice up a story that doesn't really need them", but that in and of itself feels like it's effectively the theme/point of the story. There's a background theme/subplot in the story that partially addresses some of what you're saying - the strong psychic has discovered evidence that there's a hidden group in the background that is explicitly killing anyone with powers that are applicable to truly changing the world, with the characters who seem best able to doing so either having been possibly intentionally distracted from doing so by the government superhero control program (pintsize) or having successfully hidden themselves from those programs, preventing them from acting overtly.
+>>>>>> 
+>>>>>> From a rational perspective, it also takes the premise of "give a snapshot of births superpowers and then turn off the faucet" to what seems to be a logical and internally consistent end. There's not adults with superpowers because of the premise, and a significant chunk, possibly the majority, of the kids who received them, at least in the areas shown on screen, literally became child soldiers, which is likely to pretty heavily interfere with learning things.
+>>>>>> 
+>>>>>> There is some exploration of how the powers work that happens mostly off screen, done by adult scientists, but as you already mentioned, this is largely a story about what happens if you can't find a quick "I win" button in the superpowers (possibly because *The Powers That Be*™ are preventing that because they would stop being *The Powers That Be* in that case?)
+>>>>>> 
+>>>>>> I don't at all disagree that this is also clearly a story that is pushing a specific, identifiably liberal/progressive political worldview, but I will disagree that the main character's actions are being presented as morally correct/right, since more than half of the text in the story seems to be a very literal philosophical exploration of ethics itself, in light of the in-universe reality of superpowers. I still agree that the comic is still pushing the progressive views as mostly correct largely through the characters that are presented as viewpoint characters and who gets screentime, but I think it's largely exploring the various failure modes of that ethos, just very clearly from the inside, as seen with the storyline around the non-human-looking characters, which seems to do a very good job of capturing a lot of the risks and nuance that can be lost when you try to group a large number of people with very different wants and needs together and say "we're trying to help all of you, together!"
+>>>>>> 
+>>>>>> I also strongly agree with your assessment that the story touches on "rationalist themes" in the very traditional (for this genre) sense of having a cast of characters with fairly different experiences and thought processes exploring very philosophical concepts on screen. I'd also agree that it's less typical than the ur-rationalist fiction, in that the philosophical concepts it explores are less "how to think about thinking the right away" and more "how to think about being good (and no way is the right way)"
 
->>>>>>> **u/Sophronius** [+10]  *The Need to Become Stronger**
+>>>>>>> **u/Sophronius** [+11]  *The Need to Become Stronger* (14 hours later)
 >>>>>>> 
 >>>>>>> I'll sign off on all of that.
->>>>>>> The one thing I would like to clarify is that I have no problem with the story promoting progressive views - that's perfectly fine. It's more that all the characters who disagree with the author's worldview are portrayed as completely unsympathetic. I'm thinking here of the right-wing fire hero in particular, who expresses the view that fake rape allegations exist and then promptly turns out to be a rapist himself (I think? at least he was accused of it by Moonshadow, don't remember the specifics).
->>>>>>> Rationality is all about seeking out opposing viewpoints and coming up with ways that you yourself might be wrong. This is not the way to go about that, I think.
 >>>>>>> 
+>>>>>>> The one thing I would like to clarify is that I have no problem with the story promoting progressive views - that's perfectly fine. It's more that all the characters who disagree with the author's worldview are portrayed as completely unsympathetic. I'm thinking here of the right-wing fire hero in particular, who expresses the view that fake rape allegations exist and then promptly turns out to be a rapist himself (I think? at least he was accused of it by Moonshadow, don't remember the specifics).
+>>>>>>> 
+>>>>>>> Rationality is all about seeking out opposing viewpoints and coming up with ways that you yourself might be wrong. This is not the way to go about that, I think.
 
->>>>>>>> **u/CeruleanTresses** [+17] *
+>>>>>>>> **u/CeruleanTresses** [+16]  (15 hours later)
 >>>>>>>> 
 >>>>>>>> No, the fire guy turned out not to be a rapist. At least, Moonshadow ultimately concluded he wasn't one. This was a big deal in the story because she didn't want to kill him once she had confirmed this to her satisfaction, but her actions got him killed anyway. It was a failure mode of her philosophy.
->>>>>>>> It's definitely a social justice-themed story with left-wing bent. But you mentioned it's been a while since you read it, and there's a pattern across your comments of remembering versions of plot points that are a lot less nuanced and more heavy-handedly partisan than what actually happens.
 >>>>>>>> 
+>>>>>>>> It's definitely a social justice-themed story with left-wing bent. But you mentioned it's been a while since you read it, and there's a pattern across your comments of remembering versions of plot points that are a lot less nuanced and more heavy-handedly partisan than what actually happens.
 
->>>>>>>> **u/nicholaslaux** [+6] *
+>>>>>>>> **u/nicholaslaux** [+6]  (18 hours later)
 >>>>>>>> 
 >>>>>>>> > It's more that all the characters who disagree with the author's worldview are portrayed as completely unsympathetic.
->>>>>>>> Agreed, at least along a political axis.
->>>>>>>> > At least he was accused of it by Moonshadow
->>>>>>>> That actually seemed like one of the weaker aspects of the story to me; Moonshadow used that scene to prove that she was (in my view) unrealistically cautious about who she killed, by showing that while she suspected him off being a rapist, she actually planned to drug him with a magical truth serum to find out if he was actually a rapist or just cared about theoretically being called one enough to threaten to murder any woman reporting being raped. (I'm calling it magical here because such a thing to my knowledge doesn't exist in reality, but it was not treated as a superhero invention or even as an extraordinary thing to exist, despite being one of the more world-breaking things to exist, if true.)
->>>>>>>> His perspective did feel a bit on the nose as more of a stereotypical internet commenter, and was definitely portrayed as unsympathetic, made worse by the fact that this was being placed literally as a contrast to someone who was actually, successfully committing murder of people she suspected of being rapists. 
->>>>>>>> Coming from the perspective of someone who identifies fairly strongly as a fairly far left progressive, one of the reasons that I opposed the death penalty (and punitive carceration in general) is that most evidence that I've seen shows that increased punishments, up to and including the death penalty, don't seem to be very successful at deterring unwanted behavior. As such, the perspective of the characters that essentially either endorse or at least condone Moonshadow's behavior, while presented in a very sympathetic light, come across very poorly to me.
->>>>>>>> > Rationality is all about seeking out opposing viewpoints
->>>>>>>> In character, it does feel as though the main character is working her way towards this, but showing an honestly fairly realistic progression, from being very sure of her actions earlier in her life to confronting and seeking out those who disagree with her as well (and in many cases, failing to do so, but that seems to be portrayed as a character flaw, not what she should be striving for), even if she mostly confronts those challenges which are hard for her, but not necessarily (personally) for the presumed progressive reader.
 >>>>>>>> 
+>>>>>>>> Agreed, at least along a political axis.
+>>>>>>>> 
+>>>>>>>> > At least he was accused of it by Moonshadow
+>>>>>>>> 
+>>>>>>>> That actually seemed like one of the weaker aspects of the story to me; Moonshadow used that scene to prove that she was (in my view) unrealistically cautious about who she killed, by showing that while she suspected him off being a rapist, she actually planned to drug him with a magical truth serum to find out if he was actually a rapist or just cared about theoretically being called one enough to threaten to murder any woman reporting being raped. (I'm calling it magical here because such a thing to my knowledge doesn't exist in reality, but it was not treated as a superhero invention or even as an extraordinary thing to exist, despite being one of the more world-breaking things to exist, if true.)
+>>>>>>>> 
+>>>>>>>> His perspective did feel a bit on the nose as more of a stereotypical internet commenter, and was definitely portrayed as unsympathetic, made worse by the fact that this was being placed literally as a contrast to someone who was actually, successfully committing murder of people she suspected of being rapists. 
+>>>>>>>> 
+>>>>>>>> Coming from the perspective of someone who identifies fairly strongly as a fairly far left progressive, one of the reasons that I opposed the death penalty (and punitive carceration in general) is that most evidence that I've seen shows that increased punishments, up to and including the death penalty, don't seem to be very successful at deterring unwanted behavior. As such, the perspective of the characters that essentially either endorse or at least condone Moonshadow's behavior, while presented in a very sympathetic light, come across very poorly to me.
+>>>>>>>> 
+>>>>>>>> > Rationality is all about seeking out opposing viewpoints
+>>>>>>>> 
+>>>>>>>> In character, it does feel as though the main character is working her way towards this, but showing an honestly fairly realistic progression, from being very sure of her actions earlier in her life to confronting and seeking out those who disagree with her as well (and in many cases, failing to do so, but that seems to be portrayed as a character flaw, not what she should be striving for), even if she mostly confronts those challenges which are hard for her, but not necessarily (personally) for the presumed progressive reader.
 
->>>>>> **u/CeruleanTresses** [+11] *
+>>>>>> **u/CeruleanTresses** [+12]  (10 hours later)
 >>>>>> 
 >>>>>> I think it might be worth a reread, honestly. It does seem like you're misremembering parts of the story, both in terms of the events that happen in it and also tonally. For instance, interpreting Feral's motivation as self-punishment was plausible at one point in the comic, but it's ruled out later on when she's unreservedly thrilled about being able to help more people without having to be on the table 24/7. 
->>>>>> I'll agree that they don't get super deep into the underlying mechanics of how superpowers work, but I also think that would be a very different story. You could certainly write a rationalist story about superpower mechanics, but this is more of a rationalist story about ethics that uses superpowers as the catalysts for moral conflict. They're certainly not just "spice;" you couldn't have the story without them, the whole point is exploring how ethics intersect with superpowers. A rational or rationalist story doesn't necessarily deep dive into everything it covers; it's okay to have areas of focus, and often that makes for better storytelling, especially in a medium like comics where a digression about how superpowers work on a quantum level could take weeks or months.
->>>>>> Re: Feral, I think it's worth considering whether your own politics are affecting how you interpret the story and what stands out to you. Do you think the same events would have bothered you if she were straight, and do you think you would have registered her straightness as a characteristic in its own right? Is there anything inherently irrational about a gay character doing something good? If Feral being gay is a problem because she does something profoundly heroic, is >!Moonshadow!< being Asian fine because she's a serial killer? I think it's worth being wary of the impulse to write off a scene as being wholly motivated by a political agenda just because a gay person is in it, you know?
 >>>>>> 
+>>>>>> I'll agree that they don't get super deep into the underlying mechanics of how superpowers work, but I also think that would be a very different story. You could certainly write a rationalist story about superpower mechanics, but this is more of a rationalist story about ethics that uses superpowers as the catalysts for moral conflict. They're certainly not just "spice;" you couldn't have the story without them, the whole point is exploring how ethics intersect with superpowers. A rational or rationalist story doesn't necessarily deep dive into everything it covers; it's okay to have areas of focus, and often that makes for better storytelling, especially in a medium like comics where a digression about how superpowers work on a quantum level could take weeks or months.
+>>>>>> 
+>>>>>> Re: Feral, I think it's worth considering whether your own politics are affecting how you interpret the story and what stands out to you. Do you think the same events would have bothered you if she were straight, and do you think you would have registered her straightness as a characteristic in its own right? Is there anything inherently irrational about a gay character doing something good? If Feral being gay is a problem because she does something profoundly heroic, is >!Moonshadow!< being Asian fine because she's a serial killer? I think it's worth being wary of the impulse to write off a scene as being wholly motivated by a political agenda just because a gay person is in it, you know?
 
->>>>>> **u/Reddit-Book-Bot** [-2] *
+>>>>>> **u/Reddit-Book-Bot** [-2]  (9 hours later)
 >>>>>> 
 >>>>>> Beep. Boop. I'm a robot.
 >>>>>> Here's a copy of 
->>>>>> ###[Pride And Prejudice](https://snewd.com/ebooks/pride-and-prejudice/)
->>>>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 >>>>>> 
+>>>>>> ###[Pride And Prejudice](https://snewd.com/ebooks/pride-and-prejudice/)
+>>>>>> 
+>>>>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 
->>>>>>> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>>>>>>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (16 hours later)
 >>>>>>> 
 >>>>>>> Good bot
->>>>>>> 
 
->> **u/rhaps0dy4** [+2] *
+>> **u/rhaps0dy4** [+2]  (17 hours later)
 >> 
 >> Hold on, you read to the end? There is an end? I thought that it was currently in hiatus and the 8th and final chapter is not out  yet.
->> 
 
-> **u/aeschenkarnos** [+6] *
+> **u/aeschenkarnos** [+5]  (20 hours later)
 > 
 > I’ve not read SFP yet though as others have said in the thread, your description encourages me to move it up my list. (Also the kind of people who didn’t like it, and the clever and generous way they express that dislike, encourages me further.)
-> Have you read Worm and Ward? Your article reminded me a little of Glory Girl’s journey from brutal Superman-ish flying brute with emotional overwhelm bonus powers, to body-horror victim of her adoptive sister’s “healing” powers (healing being Amy’s very irrational interpretation of what her powers *really* do), to civil service pseudo-cop (strong parallels to Alison/Mega Girl going to college) to leader of a supergroup formed in group therapy, and eventually to saviour of the world again. You would probably enjoy it, if you haven’t read it; word of warning, the whole thing is like six million words.
 > 
+> Have you read Worm and Ward? Your article reminded me a little of Glory Girl’s journey from brutal Superman-ish flying brute with emotional overwhelm bonus powers, to body-horror victim of her adoptive sister’s “healing” powers (healing being Amy’s very irrational interpretation of what her powers *really* do), to civil service pseudo-cop (strong parallels to Alison/Mega Girl going to college) to leader of a supergroup formed in group therapy, and eventually to saviour of the world again. You would probably enjoy it, if you haven’t read it; word of warning, the whole thing is like six million words.
 
->> **u/timecubefanfiction** [+7] *
+>> **u/timecubefanfiction** [+7]  (21 hours later)
 >> 
 >> I've thought about writing some essays about Worm and Ward but they're so long that it's hard to gather quotes easily or revisit arcs in any detail.
->> 
 
->>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (2 days later)
 >>> 
 >>> Plus it will be harder to tell if you add curses to the quotes
->>> 
 
-> **u/DearDeathDay** [+7] *
+> **u/DearDeathDay** [+7]  (38 minutes later)
 > 
 > SFP was a rather well written story that possessed a great deal of character development. It ends (not heavy spoilers) >!on a cliffhanger, but cleans up a number of plot hooks that!< mean it’s still satisfying to read, regardless. I enjoyed it and I would recommend it to others. The quality of the art and everything improves, as is normal for a small team of artists I think. So, go read it :p
-> 
 
->> **u/Bowbreaker** [+3]  *Solitary Locust**
+>> **u/Bowbreaker** [+3]  *Solitary Locust* (an hour later)
 >> 
 >> Ends? Isn't it on hiatus?
->> 
 
->>> **u/CouteauBleu** [+8]  *We are the Empire.**
+>>> **u/CouteauBleu** [+8]  *We are the Empire.* (an hour later)
 >>> 
 >>> Hiatus, but the artist as found a new job on an ongoing Disney series (The Owl House), so the hiatus might last a while.
->>> 
 
->>> **u/DearDeathDay** [+2] *
+>>> **u/DearDeathDay** [+2]  (an hour later)
 >>> 
 >>> It cleaned itself up by going on hiatus at the end of an arc. I suppose that would be more accurate, so thanks for helping to clarify.
->>> 
 
-> **u/CeruleanTresses** [+8] *
+> **u/CeruleanTresses** [+9]  (31 minutes later)
 > 
 > SFP is fantastic. I think the debate between Alison and >!Moonshadow!< hits some of the same notes you talked about re: ethics debates between characters who are coming from a sincere emotional place. It's a shame it's on an apparent perma-hiatus.
-> 
 
-> **u/Dragonheart91** [+6] *
+> **u/Dragonheart91** [+5]  (21 minutes later)
 > 
 > Alright, fine. I’ll come back later. SFP has been on my list for a while anyway. I’ll move it up a few ranks.
-> 
 
-> **u/sha-yol** [+6] *
+> **u/sha-yol** [+6]  (2 hours later)
 > 
 > What a fantastic analysis. I read it myself a while back, and it definitely brought up the itch to re-read it. I also remember being being in awe of this whole hospital arc.
-> Thank you for this quality post!
 > 
+> Thank you for this quality post!
 
-> **u/Geminii27** [+3] *
+> **u/Geminii27** [+3]  (8 hours later)
 > 
 > Interesting that you comment on having multiple perspective-voices in your head, seeing as it's something that Harry from HPMOR does in canon himself, and finds it often useful.
-> 
 
-> **u/Bellaby** [+3] *
+> **u/Bellaby** [+3]  (23 hours later)
 > 
 > Fine, Mr Precommital, I'll do it. I'm posting here so I don't forget about this thread. I need a longer work break...
-> 
 
-> **u/zorianteron** [+3] *
+> **u/zorianteron** [+3]  (18 hours later)
 > 
 > I know it's petty, but the whole thing seems so heavily blue-coded that I can't bring myself to give it a fair shake.
-> I suppose that's a reminder to me that, should I ever publish something, I should put out blue and red-coded versions of the same story.  That way, there's something for everyone.
 > 
+> I suppose that's a reminder to me that, should I ever publish something, I should put out blue and red-coded versions of the same story.  That way, there's something for everyone.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (9 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Nimelennar** [+13] *
+>> **u/Nimelennar** [+13]  (12 hours later)
 >> 
 >> I think you missed out by reading the rest of the post, because:
->> >Super heros are, ultimately, a silly concept.
->> ... Is basically the entire point of SFP.
->> The story revolves around a character who realizes that punching super-powered criminals is not making the world safer, who instead decides that she would contribute more to society as a firefighter, and who decides to use her gifts in a more constructive way (while getting an education to try to find an even more constructive way to benefit society).
->> All of the costumed heroics done by the protagonist are shown in flashback, for the very reason that the protagonist no longer does them.
 >> 
+>> >Super heros are, ultimately, a silly concept.
+>> 
+>> ... Is basically the entire point of SFP.
+>> 
+>> The story revolves around a character who realizes that punching super-powered criminals is not making the world safer, who instead decides that she would contribute more to society as a firefighter, and who decides to use her gifts in a more constructive way (while getting an education to try to find an even more constructive way to benefit society).
+>> 
+>> All of the costumed heroics done by the protagonist are shown in flashback, for the very reason that the protagonist no longer does them.
 
->>> **u/None** [-2] *
+>>> **u/None** [-2]  (12 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Nimelennar** [+9] *
+>>>> **u/Nimelennar** [+9]  (13 hours later)
 >>>> 
 >>>> >No, I mean it existing /at all/.
 >>>> >
 >>>> >Which is why I made the comparison with Miracleman - the superheroes didn't exist at all outside of a simulation.
->>>> It's been awhile, but I recall it at least being heavily implied that both sides - "superheroes" and "supervillains" - were manipulated into those roles by a group whose goal seemed to be maintaining an artificial status quo in the face of superhuman abilities.
->>>> >Who defends a costumed (lol) mind controller who is a terrorist and dates him? He did attempt a coup against the US.
->>>> Again, if I recall correctly, she was both convinced that he was working towards a good cause (i.e. against the group which was disappearing supers who could actually effect real change to the status quo), as well as being under the kind of *de facto* mind control that would occur if someone could read your mind and tailor their arguments accordingly.  It's later framed as akin to date rape, IIRC.
->>>> >[Image]
->>>> It's interesting that you linked the image and not the page.  [This](http://strongfemaleprotagonist.com/issue-3/page-63/) occurs four pages earlier, in which a member of the group she later threatens has murdered several doctors, and attempts to murder a friend of Allison's.  When she tries to get answers from that crowd, they take the side of the man who just *tried to burn down a hospital*.  And then the events you show occur.  Is vengeful anger a moral, rational reaction to those events?  No, it isn't, and it isn't portrayed as one.  Is it an understandable reaction?  Absolutely.
->>>> And presenting that anger in a way that makes it more difficult to find the context of the events (by linking the image and not the webpage) makes me think that you're deliberately trying to obfuscate that context, which doesn't do much to convince me that you're arguing in good faith.
 >>>> 
+>>>> It's been awhile, but I recall it at least being heavily implied that both sides - "superheroes" and "supervillains" - were manipulated into those roles by a group whose goal seemed to be maintaining an artificial status quo in the face of superhuman abilities.
+>>>> 
+>>>> >Who defends a costumed (lol) mind controller who is a terrorist and dates him? He did attempt a coup against the US.
+>>>> 
+>>>> Again, if I recall correctly, she was both convinced that he was working towards a good cause (i.e. against the group which was disappearing supers who could actually effect real change to the status quo), as well as being under the kind of *de facto* mind control that would occur if someone could read your mind and tailor their arguments accordingly.  It's later framed as akin to date rape, IIRC.
+>>>> 
+>>>> >[Image]
+>>>> 
+>>>> It's interesting that you linked the image and not the page.  [This](http://strongfemaleprotagonist.com/issue-3/page-63/) occurs four pages earlier, in which a member of the group she later threatens has murdered several doctors, and attempts to murder a friend of Allison's.  When she tries to get answers from that crowd, they take the side of the man who just *tried to burn down a hospital*.  And then the events you show occur.  Is vengeful anger a moral, rational reaction to those events?  No, it isn't, and it isn't portrayed as one.  Is it an understandable reaction?  Absolutely.
+>>>> 
+>>>> And presenting that anger in a way that makes it more difficult to find the context of the events (by linking the image and not the webpage) makes me think that you're deliberately trying to obfuscate that context, which doesn't do much to convince me that you're arguing in good faith.
 
->>>>> **u/None** [-6] *
+>>>>> **u/None** [-4]  (13 hours later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/Nimelennar** [+9] *
+>>>>>> **u/Nimelennar** [+10]  (14 hours later)
 >>>>>> 
 >>>>>> >I'm going to stop you right there. This isn't a rational world, it's a justification for super heroes to have existed/continue to exist. And as we agree, that's silly.
 >>>>>> >
 >>>>>> >It's a handwave, and sure, to justify the story, but it makes it non-rational as a default.
->>>>>> That's... not any definition of "rational literature" that I've ever heard.
->>>>>> I could make the same argument about the utterly stupid and incompetent Ministry for Magic in HPMOR being a justification for the premise of the story.  Would that make the story "non-rational as a default?"  Of course not.
->>>>>> From what I understand, a story is "rational" if the world is internally consistent, if the protagonist's end goals are aligned with their values, and they mostly use logic and good judgement to achieve those goals.  And generally, in order to make a story with a rational protagonist interesting, you also need a rational antagonist.  If the world also needs to be run by rational people from the start, then you don't have much of an interesting space to tell a story, because a rational protagonist and a rational antagonist would (unless their values are completely incompatible) be able to cooperate within the current system in order to achieve mutually satisfactory goals.
->>>>>> >Are you for real? 'He presented arguments'. What argument is there to present with 'I'm trying to take over the government in a coup, people died, but it was all in a good cause' makes sense?
->>>>>> How about [someone is murdering superheroes and the government is either incompetent to stop them or complicit in achieving this?](http://strongfemaleprotagonist.com/issue-1/page-18/)
->>>>>> If the government is either deliberately killing people like you off, or standing back and letting such a thing happen then, well...
->>>>>> >That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
->>>>>> Was Menace going about this the best way?  No, and he stopped (and then started manipulating Allison by reading her thoughts, which is it's own kind of villainy, but let's not digress.
->>>>>> >As you'll see, the pattern is that super god will defend anyone she thinks is doing good, like the one who 'kills rapists'.
->>>>>> I'm going to skip forward to where you elaborate on this point, because it pretty much said that engaging with you further is pointless:
->>>>>> >[Here](http://strongfemaleprotagonist.com/wp-content/uploads/2015/10/sfp-5-157-for-web1.png) is super god defending the actions of the killer.
->>>>>> What Alison actually says about Moonshadow (the killer in question) is:
->>>>>> >Moonshadow wants to use lethal violence as a tool for social change.  I think that's wrong.
->>>>>> How is stating outright that what you think someone is doing is wrong, "defending" them?  How is it, in any way, characterizing Moonshadow as someone "she thinks is doing good?"
->>>>>> And, again, in context, not [ten pages earlier](http://strongfemaleprotagonist.com/issue-5/page-149/), she tries to talk the "rapist killer" out of doing that.
->>>>>> Like, really, I don't know where you're getting "super god feels bad because she had to stop this series of killings."
->>>>>> "Super god" is feeling powerless because nothing she tries to do actually, meaningfully changes things for the better.  "Super god" is conflicted because she knows that her own personal morality is no basis on which to make world-altering decisions... but what else does she have, when those decisions are in her lap?
->>>>>> If, instead, what you're taking from that is, "jerking off extrajudicial murders - and tossing aside pesky concepts such as 'due process' in the meantime," when the protagonist is the one who is **stating outright that this is wrong**, I don't think we're reading the same comic.
 >>>>>> 
+>>>>>> That's... not any definition of "rational literature" that I've ever heard.
+>>>>>> 
+>>>>>> I could make the same argument about the utterly stupid and incompetent Ministry for Magic in HPMOR being a justification for the premise of the story.  Would that make the story "non-rational as a default?"  Of course not.
+>>>>>> 
+>>>>>> From what I understand, a story is "rational" if the world is internally consistent, if the protagonist's end goals are aligned with their values, and they mostly use logic and good judgement to achieve those goals.  And generally, in order to make a story with a rational protagonist interesting, you also need a rational antagonist.  If the world also needs to be run by rational people from the start, then you don't have much of an interesting space to tell a story, because a rational protagonist and a rational antagonist would (unless their values are completely incompatible) be able to cooperate within the current system in order to achieve mutually satisfactory goals.
+>>>>>> 
+>>>>>> >Are you for real? 'He presented arguments'. What argument is there to present with 'I'm trying to take over the government in a coup, people died, but it was all in a good cause' makes sense?
+>>>>>> 
+>>>>>> How about [someone is murdering superheroes and the government is either incompetent to stop them or complicit in achieving this?](http://strongfemaleprotagonist.com/issue-1/page-18/)
+>>>>>> 
+>>>>>> If the government is either deliberately killing people like you off, or standing back and letting such a thing happen then, well...
+>>>>>> 
+>>>>>> >That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
+>>>>>> 
+>>>>>> Was Menace going about this the best way?  No, and he stopped (and then started manipulating Allison by reading her thoughts, which is it's own kind of villainy, but let's not digress.
+>>>>>> 
+>>>>>> >As you'll see, the pattern is that super god will defend anyone she thinks is doing good, like the one who 'kills rapists'.
+>>>>>> 
+>>>>>> I'm going to skip forward to where you elaborate on this point, because it pretty much said that engaging with you further is pointless:
+>>>>>> 
+>>>>>> >[Here](http://strongfemaleprotagonist.com/wp-content/uploads/2015/10/sfp-5-157-for-web1.png) is super god defending the actions of the killer.
+>>>>>> 
+>>>>>> What Alison actually says about Moonshadow (the killer in question) is:
+>>>>>> 
+>>>>>> >Moonshadow wants to use lethal violence as a tool for social change.  I think that's wrong.
+>>>>>> 
+>>>>>> How is stating outright that what you think someone is doing is wrong, "defending" them?  How is it, in any way, characterizing Moonshadow as someone "she thinks is doing good?"
+>>>>>> 
+>>>>>> And, again, in context, not [ten pages earlier](http://strongfemaleprotagonist.com/issue-5/page-149/), she tries to talk the "rapist killer" out of doing that.
+>>>>>> 
+>>>>>> Like, really, I don't know where you're getting "super god feels bad because she had to stop this series of killings."
+>>>>>> 
+>>>>>> "Super god" is feeling powerless because nothing she tries to do actually, meaningfully changes things for the better.  "Super god" is conflicted because she knows that her own personal morality is no basis on which to make world-altering decisions... but what else does she have, when those decisions are in her lap?
+>>>>>> 
+>>>>>> If, instead, what you're taking from that is, "jerking off extrajudicial murders - and tossing aside pesky concepts such as 'due process' in the meantime," when the protagonist is the one who is **stating outright that this is wrong**, I don't think we're reading the same comic.
 
->>>>>>> **u/None** [+0] *
+>>>>>>> **u/None** [+0]  (22 hours later)
 >>>>>>> 
 >>>>>>> i really really like strong female protagonist. it has an interesting world, excellent art, and engaging characters. however, it is not rationalist. it's not realistic, even. any story where "traditional" super-heroics is presented as a possible development for civilisation to take upon superpowers manifesting randomly among the population immediately places itself on the softer side of fiction in terms of realism, even if it attempts to examine itself using more "mature" ethics. i also found the story's explanation of how status-quo altering superpowers were suppressed extremely hand-wavey.
->>>>>>> 
 
-> **u/Nepene** [+0] *
+> **u/Nepene** [+0]  (5 days later)
 > 
 > Eh, the over emphasis on left wing politics tends to push it fairly antirational. I remember when reading it the author didn't seem to have any real conception of what people felt, unlike with HPMOR where I felt Yudo understood Hermione's viewpoint fairly well and Malfoy's viewpoint. 
-> Take the organ donation, and selfish people- https://www.atlassociety.org/post/charity
-> This is from Ayn Rand. They're fine with charity, if not viewing it as especially noble, so long as it aligns with your own values. I certainly didn't get any sense that the author had read up on traditional selfish philosophies before writing that scene. 
-> >Answer: Objectivism holds that there is nothing wrong with charity, so long as one is pursuing one's own values in providing it. As Ayn Rand said, charity is a marginal issue: it is not especially noble to engage in it, but if pursued prudently and seriously, and not at the cost of other important values, it can be a source of good for one's society and ultimately one's self. Objectivists tend to view their donations to causes as investments in some kind of improvement: a better culture, a better city, etc. But like investments, these require attention to make sure they are paying off.
-> >If you want to help strangers, go ahead. But don’t feel any prouder of yourself than if you had bought a Porsche.
-> https://strongfemaleprotagonist.com/issue-6/page-70-3/
-> She actually avoids discussions about this, by flying away. She doesn't do any internal introspection when confronted by intellectual ideas she dislikes, she flies away. 
-> https://strongfemaleprotagonist.com/issue-6/page-86-2/
-> When she doesn't get her way, she doesn't do any internal introspection or values adjustment, she uses violence to force a guy to comply for the greater good. 
-> The gay character does teach Allison the value of incrementally helping people, thus showing that gay people are good, but it's not a great lesson, and no one really confronts Allison on this. She spends her time starting a woman's shelter personally, because she has learned that helping people is good, and because she was the original one who wanted grand schemes she has no one to discuss this issue with.
-> As others have noted, she could be much more effective at charity if she earned a lot of money and funded thousands of women's shelters worldwide. 
-> She also isn't very introspective on violence. She herself beats up Feral, this random guy she went on a date with, but doesn't have any real introspection that women can also be violent.
-> But yeah, it's a level 1 intelligence here. They don't have any real comprehension of dissenting viewpoints.
 > 
+> Take the organ donation, and selfish people- https://www.atlassociety.org/post/charity
+> 
+> This is from Ayn Rand. They're fine with charity, if not viewing it as especially noble, so long as it aligns with your own values. I certainly didn't get any sense that the author had read up on traditional selfish philosophies before writing that scene. 
+> 
+> >Answer: Objectivism holds that there is nothing wrong with charity, so long as one is pursuing one's own values in providing it. As Ayn Rand said, charity is a marginal issue: it is not especially noble to engage in it, but if pursued prudently and seriously, and not at the cost of other important values, it can be a source of good for one's society and ultimately one's self. Objectivists tend to view their donations to causes as investments in some kind of improvement: a better culture, a better city, etc. But like investments, these require attention to make sure they are paying off.
+> 
+> >If you want to help strangers, go ahead. But don’t feel any prouder of yourself than if you had bought a Porsche.
+> 
+> https://strongfemaleprotagonist.com/issue-6/page-70-3/
+> 
+> She actually avoids discussions about this, by flying away. She doesn't do any internal introspection when confronted by intellectual ideas she dislikes, she flies away. 
+> 
+> https://strongfemaleprotagonist.com/issue-6/page-86-2/
+> 
+> When she doesn't get her way, she doesn't do any internal introspection or values adjustment, she uses violence to force a guy to comply for the greater good. 
+> 
+> The gay character does teach Allison the value of incrementally helping people, thus showing that gay people are good, but it's not a great lesson, and no one really confronts Allison on this. She spends her time starting a woman's shelter personally, because she has learned that helping people is good, and because she was the original one who wanted grand schemes she has no one to discuss this issue with.
+> 
+> As others have noted, she could be much more effective at charity if she earned a lot of money and funded thousands of women's shelters worldwide. 
+> 
+> She also isn't very introspective on violence. She herself beats up Feral, this random guy she went on a date with, but doesn't have any real introspection that women can also be violent.
+> 
+> But yeah, it's a level 1 intelligence here. They don't have any real comprehension of dissenting viewpoints.
 
->> **u/CeruleanTresses** [+6] *
+>> **u/CeruleanTresses** [+6]  (5 days later)
 >> 
 >> >She actually avoids discussions about this, by flying away. She doesn't do any internal introspection when confronted by intellectual ideas she dislikes, she flies away.
->> >When she doesn't get her way, she doesn't do any internal introspection or values adjustment
->> Weren't there pages upon pages of introspection and interrogation of her values after the Max thing? Didn't she throw up and cry out of guilt, and ask for the input of a philosopher on whether it's ethical to compel moral action, and hold a debate with herself where she specifically called out her own lack of empathy toward Max's point of view in the moment, as well as her failure to meaningfully consider nonviolent methods of gaining his cooperation? 
->> You're describing how she reacted to Max's refusal to help at the time as if that were the complete encapsulation of how she and the comic address that topic, which I think is pretty uncharitable on top of being misleading to folks who haven't read the comic yet. 
->> >She also isn't very introspective on violence.
->> This, broadly, is an extreme mischaracterization of Alison's character and the comic. The comic is largely *about* her introspection regarding her propensity to tunnel-vision herself into violent solutions because violence is what she's naturally good at. She's constantly questioning what that means for her capacity to do good, and whether it's something she can change about herself, and how she might go about doing that. Some of her most important character development moments have to do with interrogating this flaw in herself and overcoming some related blind spot. 
->> >The gay character does teach Allison the value of incrementally helping people, thus showing that gay people are good,
->> I don't think this was the intended message. I think gay people with various personalities and ethical codes just exist in the world and therefore also exist in the comic.
->> >She spends her time starting a woman's shelter personally, because she has learned that helping people is good
->> That's not what she did or learned. She started a collaborative project with other powered individuals to help protect women from violence because she realized that she was tunnel-visioning herself into only trying to find ways in which she personally, by herself, could use her own powerset to accomplish systemic change, when it's much more effective for people of various skill- or powersets to work together. The Valkyrie Project isn't the highest-impact thing she could be doing, but it represents a critical conceptual step forward. "Helping people is good," conversely, was a concept she was on board with from the start.
 >> 
+>> >When she doesn't get her way, she doesn't do any internal introspection or values adjustment
+>> 
+>> Weren't there pages upon pages of introspection and interrogation of her values after the Max thing? Didn't she throw up and cry out of guilt, and ask for the input of a philosopher on whether it's ethical to compel moral action, and hold a debate with herself where she specifically called out her own lack of empathy toward Max's point of view in the moment, as well as her failure to meaningfully consider nonviolent methods of gaining his cooperation? 
+>> 
+>> You're describing how she reacted to Max's refusal to help at the time as if that were the complete encapsulation of how she and the comic address that topic, which I think is pretty uncharitable on top of being misleading to folks who haven't read the comic yet. 
+>> 
+>> >She also isn't very introspective on violence.
+>> 
+>> This, broadly, is an extreme mischaracterization of Alison's character and the comic. The comic is largely *about* her introspection regarding her propensity to tunnel-vision herself into violent solutions because violence is what she's naturally good at. She's constantly questioning what that means for her capacity to do good, and whether it's something she can change about herself, and how she might go about doing that. Some of her most important character development moments have to do with interrogating this flaw in herself and overcoming some related blind spot. 
+>> 
+>> >The gay character does teach Allison the value of incrementally helping people, thus showing that gay people are good,
+>> 
+>> I don't think this was the intended message. I think gay people with various personalities and ethical codes just exist in the world and therefore also exist in the comic.
+>> 
+>> >She spends her time starting a woman's shelter personally, because she has learned that helping people is good
+>> 
+>> That's not what she did or learned. She started a collaborative project with other powered individuals to help protect women from violence because she realized that she was tunnel-visioning herself into only trying to find ways in which she personally, by herself, could use her own powerset to accomplish systemic change, when it's much more effective for people of various skill- or powersets to work together. The Valkyrie Project isn't the highest-impact thing she could be doing, but it represents a critical conceptual step forward. "Helping people is good," conversely, was a concept she was on board with from the start.
 
->>> **u/Nepene** [+1] *
+>>> **u/Nepene** [+1]  (5 days later)
 >>> 
 >>> >Weren't there pages upon pages of introspection and interrogation of her values after the Max thing?
->>> She does have pages of introspection, but she doesn't actually ever get any real understanding of how she could persuade him. She learns violence is wrong because it prevents diplomacy, but neither she nor her professor show any real understanding of his motivations or any reliable pathway forward, and she doesn't make any real effort to understand him later.
->>> https://strongfemaleprotagonist.com/issue-6/page-123-2/
->>> That's the mark of a level 1 intelligent character. She does what is best for her, which is intellectual sounding discussions and doing what feels best for her personally with her abilities. 
->>> Level 2 would be her doing some sort of impressive cognitive feat to solve an existing problem. She's not there yet. She does what feels good, she doesn't focus on solving what she sees as the larger problems are. 
->>> >This, broadly, is an extreme mischaracterization of Alison's character and the comic. The comic is largely about her introspection regarding her propensity to tunnel-vision herself into violent solutions because violence is what she's naturally good at. She's constantly questioning what that means for her capacity to do good, and whether it's something she can change about herself, and how she might go about doing that. Some of her most important character development moments have to do with interrogating this flaw in herself and overcoming some related blind spot. 
->>> She still uses violence fairly reflexively. She thinks a lot about violence, but she doesn't actually think much when there's a problem near her. 
->>> >I don't think this was the intended message. I think gay people with various personalities and ethical codes just exist in the world and therefore also exist in the comic.
->>> The comic is very political, with evil christian conservatives who flamethrower someone for organ donation, and the conservative being a hot headed murderer who destroys a dam and is abducted by a sympathetic drug and truth test for rape female person. 
->>> As such, I am doubtful that this wasn't the intended message. The story is pretty blatantly anti religion and right wing people, and is fairly explicit about praising people who are the right sort of politics and condemning those who are the wrong sort of politics. 
->>> This severe lack of introspection, where political enemies are violent murderous thugs, is not a sign of an especially rational story. "Christians are wrong because they flamethrower organ donors" is not a coherent political argument. 
->>> >She started a collaborative project with other powered individuals to help protect women from violence because she realized that she was tunnel-visioning herself into only trying to find ways in which she personally, by herself, could use her own powerset to accomplish systemic change, when it's much more effective for people of various skill- or powersets to work together. 
->>> Sure, but it's not systemic change- there's lots of women's shelters out there, and they get lots of funding from Republicans and Democrats. It's an activity that doesn't challenge the system much and is normal politically. She's not actually doing anything towards her stated goals, and as such isn't rational.
 >>> 
+>>> She does have pages of introspection, but she doesn't actually ever get any real understanding of how she could persuade him. She learns violence is wrong because it prevents diplomacy, but neither she nor her professor show any real understanding of his motivations or any reliable pathway forward, and she doesn't make any real effort to understand him later.
+>>> 
+>>> https://strongfemaleprotagonist.com/issue-6/page-123-2/
+>>> 
+>>> That's the mark of a level 1 intelligent character. She does what is best for her, which is intellectual sounding discussions and doing what feels best for her personally with her abilities. 
+>>> 
+>>> Level 2 would be her doing some sort of impressive cognitive feat to solve an existing problem. She's not there yet. She does what feels good, she doesn't focus on solving what she sees as the larger problems are. 
+>>> 
+>>> >This, broadly, is an extreme mischaracterization of Alison's character and the comic. The comic is largely about her introspection regarding her propensity to tunnel-vision herself into violent solutions because violence is what she's naturally good at. She's constantly questioning what that means for her capacity to do good, and whether it's something she can change about herself, and how she might go about doing that. Some of her most important character development moments have to do with interrogating this flaw in herself and overcoming some related blind spot. 
+>>> 
+>>> She still uses violence fairly reflexively. She thinks a lot about violence, but she doesn't actually think much when there's a problem near her. 
+>>> 
+>>> >I don't think this was the intended message. I think gay people with various personalities and ethical codes just exist in the world and therefore also exist in the comic.
+>>> 
+>>> The comic is very political, with evil christian conservatives who flamethrower someone for organ donation, and the conservative being a hot headed murderer who destroys a dam and is abducted by a sympathetic drug and truth test for rape female person. 
+>>> 
+>>> As such, I am doubtful that this wasn't the intended message. The story is pretty blatantly anti religion and right wing people, and is fairly explicit about praising people who are the right sort of politics and condemning those who are the wrong sort of politics. 
+>>> 
+>>> This severe lack of introspection, where political enemies are violent murderous thugs, is not a sign of an especially rational story. "Christians are wrong because they flamethrower organ donors" is not a coherent political argument. 
+>>> 
+>>> >She started a collaborative project with other powered individuals to help protect women from violence because she realized that she was tunnel-visioning herself into only trying to find ways in which she personally, by herself, could use her own powerset to accomplish systemic change, when it's much more effective for people of various skill- or powersets to work together. 
+>>> 
+>>> Sure, but it's not systemic change- there's lots of women's shelters out there, and they get lots of funding from Republicans and Democrats. It's an activity that doesn't challenge the system much and is normal politically. She's not actually doing anything towards her stated goals, and as such isn't rational.
 
->>>> **u/CeruleanTresses** [+5] *
+>>>> **u/CeruleanTresses** [+5]  (5 days later)
 >>>> 
 >>>> She does often resort to violence reflexively, and this is a facet of her relationship to violence that she introspects about all the time. It's a character flaw, and one that does not go unchallenged either by the story or by the character herself. In the moment, while reacting emotionally, is exactly when I'd *most* expect a character who otherwise tries to overcome a known personality flaw to instead screw up and manifest it. 
->>>> Re: politics, it kind of sounds like you're strawmanning how the comic depicts people and ideas because you disagree with its left-wing bent. It's absolutely a left-wing comic, but at no point does it make an argument like "Christians are wrong because they flamethrower organ donors." A religiously motivated terrorist exists in the comic and flamethrowers an organ donor, which is not equivalent to the comic presenting a political argument that Christians in general do this, or that the inevitable conclusion of Christian values is the flamethrowering of organ donors. The protesters and terrorist in that scene are a clear parallel to the actual anti-abortion protesters and terrorists that exist in our world; obviously the real-life existence of such people is not an argument by the universe that all Christians are like that. 
->>>> The story function of that scene is to create dramatic conflict and to put Alison in a situation where she reacts in an impulsively and excessively violent way and doesn't face any real consequences for it, all of which is important for her/the comic's later interrogation of her relationship to violence and the absence of an external force that can constrain/punish her actions. Reading it as a political argument that gay people are good and Christians are bad is reductive and misses the point. (In particular, the idea that Feral's arc is just about showing that gay people are capable of compassion and sacrifice is like...I mean, I think the creators must reasonably assume that anyone who's still reading the comic at that point is *already* on board with the concept that gay people are human.)
->>>> Whether the Valkyrie Project (again, not a women's shelter, it's [a network to help connect superpowered individuals with women at risk of domestic violence/sexual assault and coordinate their efforts](https://strongfemaleprotagonist.com/issue-5/page-165/)) represents systemic change...I do think it's a step in that direction, as proof-of-concept for ways of coordinating superheroic efforts that aren't "team of people who go out and punch giant robots." I agree it's not the maximally effective or radical thing Alison could be doing with her time. But a rational story does not have to be one where the main character does only rational things. This is a story about Alison's growth re: figuring out what her values should be and how best to put them into practice, which means she can't *start out* as a perfect utility optimizer, or jump directly to that in any one step of her moral development. She doesn't even have to ultimately achieve perfection in this regard, as long as her imperfect approach isn't represented by the narrative as being perfect.
->>>> Finally, I strongly disagree in general that the comic doesn't explore and steelman opposing ideas, with the exception of maybe ideas like "women should be threatened with violence for reporting sexual assault" or "there's nothing wrong with letting countless people die out of spite, aside from the question of whether or not it's ethical to *compel* someone to save said people, which will be discussed at length." A huge number of pages are dedicated to debates between opposing ideas in which both or all sides are given substantial weight. This is no small thing in a webcomic format where every few lines of dialogue require hours of drawing and coloring.
 >>>> 
+>>>> Re: politics, it kind of sounds like you're strawmanning how the comic depicts people and ideas because you disagree with its left-wing bent. It's absolutely a left-wing comic, but at no point does it make an argument like "Christians are wrong because they flamethrower organ donors." A religiously motivated terrorist exists in the comic and flamethrowers an organ donor, which is not equivalent to the comic presenting a political argument that Christians in general do this, or that the inevitable conclusion of Christian values is the flamethrowering of organ donors. The protesters and terrorist in that scene are a clear parallel to the actual anti-abortion protesters and terrorists that exist in our world; obviously the real-life existence of such people is not an argument by the universe that all Christians are like that. 
+>>>> 
+>>>> The story function of that scene is to create dramatic conflict and to put Alison in a situation where she reacts in an impulsively and excessively violent way and doesn't face any real consequences for it, all of which is important for her/the comic's later interrogation of her relationship to violence and the absence of an external force that can constrain/punish her actions. Reading it as a political argument that gay people are good and Christians are bad is reductive and misses the point. (In particular, the idea that Feral's arc is just about showing that gay people are capable of compassion and sacrifice is like...I mean, I think the creators must reasonably assume that anyone who's still reading the comic at that point is *already* on board with the concept that gay people are human.)
+>>>> 
+>>>> Whether the Valkyrie Project (again, not a women's shelter, it's [a network to help connect superpowered individuals with women at risk of domestic violence/sexual assault and coordinate their efforts](https://strongfemaleprotagonist.com/issue-5/page-165/)) represents systemic change...I do think it's a step in that direction, as proof-of-concept for ways of coordinating superheroic efforts that aren't "team of people who go out and punch giant robots." I agree it's not the maximally effective or radical thing Alison could be doing with her time. But a rational story does not have to be one where the main character does only rational things. This is a story about Alison's growth re: figuring out what her values should be and how best to put them into practice, which means she can't *start out* as a perfect utility optimizer, or jump directly to that in any one step of her moral development. She doesn't even have to ultimately achieve perfection in this regard, as long as her imperfect approach isn't represented by the narrative as being perfect.
+>>>> 
+>>>> Finally, I strongly disagree in general that the comic doesn't explore and steelman opposing ideas, with the exception of maybe ideas like "women should be threatened with violence for reporting sexual assault" or "there's nothing wrong with letting countless people die out of spite, aside from the question of whether or not it's ethical to *compel* someone to save said people, which will be discussed at length." A huge number of pages are dedicated to debates between opposing ideas in which both or all sides are given substantial weight. This is no small thing in a webcomic format where every few lines of dialogue require hours of drawing and coloring.
 
->>>>> **u/Nepene** [+2] *
+>>>>> **u/Nepene** [+2]  (5 days later)
 >>>>> 
 >>>>> >She does often resort to violence reflexively, and this is a facet of her relationship to violence that she introspects about all the time. It's a character flaw, and one that does not go unchallenged either by the story or by the character herself. 
->>>>> The ideal for introspection of violence is that it would have some connection to actual violence, and that she would be less violent or more nuanced in her violence later on, which doesn't really happen.
->>>>> >Re: politics, it kind of sounds like you're strawmanning how the comic depicts people and ideas because you disagree with its left-wing bent.
->>>>> I'm fine with the politics, it's just really hamfisted. Christians object to abortion because they don't like abortion. Subbing in organ donation for abortion works as well in showing christian views as having lesbians flamethrower some puppy rescue houses because some environmentalists bomb animal testing labs works in showing left wing views. 
->>>>> In terms of why I don't give a good faith viewing of the comic and assume they are making a nuanced message on conservatives and christians, well I doubt the authors would see stories where gay people were evil and flamethrowered people because of their gayness as a nuanced story about a few radical gay people. 
->>>>> It's important to be representative. Just as people, and me, can condemn stories for exclusively having LGBT or women as bad, I can condemn the comic for exclusively having their political opponents as murderers.
->>>>> >I agree it's not the maximally effective or radical thing Alison could be doing with her time. But a rational story does not have to be one where the main character does only rational things. This is a story about Alison's growth, which means she can't start out as a perfect utility optimizer, or jump directly to that in any one step of her moral development.
->>>>> It's not at all effective in her stated goals. She said Tara shouldn't organ donate because it didn't fix systemic issues. She herself is doing a non controversial set of actions that does nothing about systemic issues. It's orthogonal to her goals.
->>>>> >A huge number of pages of the story are dedicated to debates between opposing ideas in which both or all sides are given substantial weight. This is no small thing in a webcomic format where every few lines of dialogue require hours of drawing and coloring.
->>>>> They debate opposing ideas, but in a fairly narrow range between people who mostly agree with Allison. Part of the appeal of HPMOR was debates between people with fairly radical disagreements. 
->>>>> The story has people with fairly radical disagreements, they just don't debate much. As I noted, she flew away when a Randian disagreed too much.
 >>>>> 
+>>>>> The ideal for introspection of violence is that it would have some connection to actual violence, and that she would be less violent or more nuanced in her violence later on, which doesn't really happen.
+>>>>> 
+>>>>> >Re: politics, it kind of sounds like you're strawmanning how the comic depicts people and ideas because you disagree with its left-wing bent.
+>>>>> 
+>>>>> I'm fine with the politics, it's just really hamfisted. Christians object to abortion because they don't like abortion. Subbing in organ donation for abortion works as well in showing christian views as having lesbians flamethrower some puppy rescue houses because some environmentalists bomb animal testing labs works in showing left wing views. 
+>>>>> 
+>>>>> In terms of why I don't give a good faith viewing of the comic and assume they are making a nuanced message on conservatives and christians, well I doubt the authors would see stories where gay people were evil and flamethrowered people because of their gayness as a nuanced story about a few radical gay people. 
+>>>>> 
+>>>>> It's important to be representative. Just as people, and me, can condemn stories for exclusively having LGBT or women as bad, I can condemn the comic for exclusively having their political opponents as murderers.
+>>>>> 
+>>>>> >I agree it's not the maximally effective or radical thing Alison could be doing with her time. But a rational story does not have to be one where the main character does only rational things. This is a story about Alison's growth, which means she can't start out as a perfect utility optimizer, or jump directly to that in any one step of her moral development.
+>>>>> 
+>>>>> It's not at all effective in her stated goals. She said Tara shouldn't organ donate because it didn't fix systemic issues. She herself is doing a non controversial set of actions that does nothing about systemic issues. It's orthogonal to her goals.
+>>>>> 
+>>>>> >A huge number of pages of the story are dedicated to debates between opposing ideas in which both or all sides are given substantial weight. This is no small thing in a webcomic format where every few lines of dialogue require hours of drawing and coloring.
+>>>>> 
+>>>>> They debate opposing ideas, but in a fairly narrow range between people who mostly agree with Allison. Part of the appeal of HPMOR was debates between people with fairly radical disagreements. 
+>>>>> 
+>>>>> The story has people with fairly radical disagreements, they just don't debate much. As I noted, she flew away when a Randian disagreed too much.
 
->>>>>> **u/CeruleanTresses** [+4] *
+>>>>>> **u/CeruleanTresses** [+5]  (5 days later)
 >>>>>> 
 >>>>>> I don't really have anything to say on the subject of Alison's introspection about violence that I haven't already said. To summarize, 1., said introspection is a huge recurring theme in the story; and 2., I expect a well-written, humanized character with a core, arc-defining flaw to manifest that flaw often, especially on emotional impulse, and not to overcome it easily even with deliberate effort. We may have to agree to disagree on what "counts" as introspection and growth. 
->>>>>> The protesters' issue isn't with organ donation, it's with mass organ donation *by a dynamorph.* Spitting in the eye of God by putting her weird mutant organs in everybody, or what have you. (Although I honestly can't remember if they were even explicitly said to be Christian or religious at any point, or if they were primarily a dynaphobic group with at least one member carrying a sign that mentioned Satan). In any case, I think you represent the comic's takes in that regard to be more hamfisted/less nuanced than they actually are. For example, you say the creators would object to a story where a gay person murders someone because of their gayness, but have you considered that there's a whole arc in the comic about Alison trying stop a feminist from murdering people because of her (particular brand of) feminism? (Which I think is an even better parallel to the terrorist since feminism and bigotry against dynamorphs are both philosophical views, whereas being gay is not.) Does that strike you as a narrative choice that would be made by writers who want to depict all left-wing people and ideas as unfailingly good and all right-wing people and ideas as unfailingly evil?
->>>>>> >She said Tara shouldn't organ donate because it didn't fix systemic issues. She herself is doing a non controversial set of actions that does nothing about systemic issues.
->>>>>> You're assuming that her views on one-punch solutions never evolved; that what she said to Tara at the time is still what she uncritically believes. I think it's pretty evident in the comic that she starts to recognize that as a blind spot in herself, how she'd reject paths to incremental change in favor of waiting for some hypothetical future opportunity to Fix Everything Forever. You're presenting a time when she expressed an inadequately examined, overly simplistic take, and a later time when she demonstrated having moved past that, and saying that means she's acting orthogonally to her goals. The reality is that she started allowing herself to do good in smaller ways with the potential to build to something greater, while *also* taking the opportunity to make a huge systemic change when one finally did come along (the Max thing). 
->>>>>> Finally, I think the disagreements that have been argued in the story have been pretty radical. "It's ethical to compel moral action" vs "it's not" is a huge disagreement, as is "It's ethical to make extreme personal sacrifices to fix some of the world's problems" vs "personal sacrifices for partial solutions are wasteful at best and prolong an unjust system at worst," or "It's ethical to murder rapists who've escaped legitimate justice, for purposes of harm reduction and/or retribution" vs "it's wrong for an individual to commit vigilante executions." It's true that neither Alison nor the story take seriously the idea that total apathy toward the wellbeing of other people is reasonable--and as someone who's read and written about Rand extensively, I frankly don't either, and would also not sit there and debate with someone who had just suggested that my dear friend's extreme personal sacrifice was of no moral value--but the more important Randian concepts about personal autonomy and the use of force are given substantial attention.
 >>>>>> 
+>>>>>> The protesters' issue isn't with organ donation, it's with mass organ donation *by a dynamorph.* Spitting in the eye of God by putting her weird mutant organs in everybody, or what have you. (Although I honestly can't remember if they were even explicitly said to be Christian or religious at any point, or if they were primarily a dynaphobic group with at least one member carrying a sign that mentioned Satan). In any case, I think you represent the comic's takes in that regard to be more hamfisted/less nuanced than they actually are. For example, you say the creators would object to a story where a gay person murders someone because of their gayness, but have you considered that there's a whole arc in the comic about Alison trying stop a feminist from murdering people because of her (particular brand of) feminism? (Which I think is an even better parallel to the terrorist since feminism and bigotry against dynamorphs are both philosophical views, whereas being gay is not.) Does that strike you as a narrative choice that would be made by writers who want to depict all left-wing people and ideas as unfailingly good and all right-wing people and ideas as unfailingly evil?
+>>>>>> 
+>>>>>> >She said Tara shouldn't organ donate because it didn't fix systemic issues. She herself is doing a non controversial set of actions that does nothing about systemic issues.
+>>>>>> 
+>>>>>> You're assuming that her views on one-punch solutions never evolved; that what she said to Tara at the time is still what she uncritically believes. I think it's pretty evident in the comic that she starts to recognize that as a blind spot in herself, how she'd reject paths to incremental change in favor of waiting for some hypothetical future opportunity to Fix Everything Forever. You're presenting a time when she expressed an inadequately examined, overly simplistic take, and a later time when she demonstrated having moved past that, and saying that means she's acting orthogonally to her goals. The reality is that she started allowing herself to do good in smaller ways with the potential to build to something greater, while *also* taking the opportunity to make a huge systemic change when one finally did come along (the Max thing). 
+>>>>>> 
+>>>>>> Finally, I think the disagreements that have been argued in the story have been pretty radical. "It's ethical to compel moral action" vs "it's not" is a huge disagreement, as is "It's ethical to make extreme personal sacrifices to fix some of the world's problems" vs "personal sacrifices for partial solutions are wasteful at best and prolong an unjust system at worst," or "It's ethical to murder rapists who've escaped legitimate justice, for purposes of harm reduction and/or retribution" vs "it's wrong for an individual to commit vigilante executions." It's true that neither Alison nor the story take seriously the idea that total apathy toward the wellbeing of other people is reasonable--and as someone who's read and written about Rand extensively, I frankly don't either, and would also not sit there and debate with someone who had just suggested that my dear friend's extreme personal sacrifice was of no moral value--but the more important Randian concepts about personal autonomy and the use of force are given substantial attention.
 
->>>>>>> **u/Nepene** [+1] *
+>>>>>>> **u/Nepene** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> > I expect a well-written, humanized character with a core, arc-defining flaw to manifest that flaw often, especially on emotional impulse, and not to overcome it easily even with deliberate effort.
->>>>>>> Harry likewise manifests his anger and need to kill and win often in HPMOR, and he at times finds ways to lose and show weakness with emotional growth. Allison's emotional growth never actually grows into action. 
->>>>>>> http://strongfemaleprotagonist.com/issue-3/page-52/
->>>>>>> "Share the body of Christ, not the body of Satan."
->>>>>>> "Lev 18.22"
->>>>>>> "God hates NEFs"
->>>>>>> They are very explicitly religious and Christian. 
->>>>>>> And yeah, irl Christians have no real issues with organ donations by mutants or by people of other races. They're fleshy bags of flesh. Even fairly racist people are generally fine with getting organs from races they dislike. This is a made up issue made because the author doesn't really understand Christians. 
->>>>>>> >but have you considered that there's a whole arc in the comic about Alison trying stop a feminist from murdering people because of her (particular brand of) feminism?
->>>>>>> Yes, this is very common of political stories like this. The idea is that all left wing people are reasonable and fair, and this feminist is indeed shown as very reasonable and sympathetic and collected and proper.
->>>>>>> She is indeed sympathetic to Moonshadow http://strongfemaleprotagonist.com/issue-5/page-157/
->>>>>>> Even after Moonshadow killed a random guy who was escorting a drunk girl home. 
->>>>>>> http://strongfemaleprotagonist.com/issue-5/page-78-2/
->>>>>>> She is still seen as pretty sympathetic. 
->>>>>>> It's a very weak political comic. It would be a lot more fun if it went to either extreme- either she used force to bully everyone into compliance, or she learns that the world is a more complex place than she thought and re-evaluates, but no one really confronts her enough to force her into one stance or another.
->>>>>>> http://strongfemaleprotagonist.com/issue-5/page-31-4/
->>>>>>> They even admit that the issue of due process is a big one, but don't really analyze much the fact that Moonshadow is an absolute psycho who executes people for thought crimes.
->>>>>>> http://strongfemaleprotagonist.com/issue-5/page-149/
->>>>>>> Allison doesn't even note that, yes, an innocent person did get executed by Moon, Moon executed a guy who was escorting a girl home who Allison suspected of wanting to rape her, but never actually confirmed that was his intention.
->>>>>>> >The reality is that she started allowing herself to do good in smaller ways with the potential to build to something greater, while also taking the opportunity to make a huge systemic change when one finally did come along (the Max thing). 
->>>>>>> Did she actually express that as her philosophy? Because doing what felt good in the now was never something she was against.
->>>>>>> Ethical debates aren't completely connected to rationality anyway. Allison has a sort of alien morality that is disconnected from what intelligent people think, and often isn't quite up to a level 1 intelligent character.
->>>>>>> Like sure, you can debate over compelling moral action or not, but Allison doesn't consider what normal people do, pay people for action. He asked to be a superhero with real powers, she just ignored that despite having several mecha suit making super genius friends. Normal people refuse the false choice between violence and inaction, and pay people for their services. 
->>>>>>> She doesn't have any plan to actually do systematic change, so it's not a great debate.
->>>>>>> Moonshadow executes people for thought crimes, which kinda undercuts the vigilante execution line since it's ignored. 
->>>>>>> Anyway, the story flips between being a 0 intelligence story and 1, and isn't that rational.
 >>>>>>> 
+>>>>>>> Harry likewise manifests his anger and need to kill and win often in HPMOR, and he at times finds ways to lose and show weakness with emotional growth. Allison's emotional growth never actually grows into action. 
+>>>>>>> 
+>>>>>>> http://strongfemaleprotagonist.com/issue-3/page-52/
+>>>>>>> 
+>>>>>>> "Share the body of Christ, not the body of Satan."
+>>>>>>> 
+>>>>>>> "Lev 18.22"
+>>>>>>> 
+>>>>>>> "God hates NEFs"
+>>>>>>> 
+>>>>>>> They are very explicitly religious and Christian. 
+>>>>>>> 
+>>>>>>> And yeah, irl Christians have no real issues with organ donations by mutants or by people of other races. They're fleshy bags of flesh. Even fairly racist people are generally fine with getting organs from races they dislike. This is a made up issue made because the author doesn't really understand Christians. 
+>>>>>>> 
+>>>>>>> >but have you considered that there's a whole arc in the comic about Alison trying stop a feminist from murdering people because of her (particular brand of) feminism?
+>>>>>>> 
+>>>>>>> Yes, this is very common of political stories like this. The idea is that all left wing people are reasonable and fair, and this feminist is indeed shown as very reasonable and sympathetic and collected and proper.
+>>>>>>> 
+>>>>>>> She is indeed sympathetic to Moonshadow http://strongfemaleprotagonist.com/issue-5/page-157/
+>>>>>>> 
+>>>>>>> Even after Moonshadow killed a random guy who was escorting a drunk girl home. 
+>>>>>>> 
+>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-78-2/
+>>>>>>> 
+>>>>>>> She is still seen as pretty sympathetic. 
+>>>>>>> 
+>>>>>>> It's a very weak political comic. It would be a lot more fun if it went to either extreme- either she used force to bully everyone into compliance, or she learns that the world is a more complex place than she thought and re-evaluates, but no one really confronts her enough to force her into one stance or another.
+>>>>>>> 
+>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-31-4/
+>>>>>>> 
+>>>>>>> They even admit that the issue of due process is a big one, but don't really analyze much the fact that Moonshadow is an absolute psycho who executes people for thought crimes.
+>>>>>>> 
+>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-149/
+>>>>>>> 
+>>>>>>> Allison doesn't even note that, yes, an innocent person did get executed by Moon, Moon executed a guy who was escorting a girl home who Allison suspected of wanting to rape her, but never actually confirmed that was his intention.
+>>>>>>> 
+>>>>>>> >The reality is that she started allowing herself to do good in smaller ways with the potential to build to something greater, while also taking the opportunity to make a huge systemic change when one finally did come along (the Max thing). 
+>>>>>>> 
+>>>>>>> Did she actually express that as her philosophy? Because doing what felt good in the now was never something she was against.
+>>>>>>> 
+>>>>>>> Ethical debates aren't completely connected to rationality anyway. Allison has a sort of alien morality that is disconnected from what intelligent people think, and often isn't quite up to a level 1 intelligent character.
+>>>>>>> 
+>>>>>>> Like sure, you can debate over compelling moral action or not, but Allison doesn't consider what normal people do, pay people for action. He asked to be a superhero with real powers, she just ignored that despite having several mecha suit making super genius friends. Normal people refuse the false choice between violence and inaction, and pay people for their services. 
+>>>>>>> 
+>>>>>>> She doesn't have any plan to actually do systematic change, so it's not a great debate.
+>>>>>>> 
+>>>>>>> Moonshadow executes people for thought crimes, which kinda undercuts the vigilante execution line since it's ignored. 
+>>>>>>> 
+>>>>>>> Anyway, the story flips between being a 0 intelligence story and 1, and isn't that rational.
 
->>>>>>>> **u/CeruleanTresses** [+3] *
+>>>>>>>> **u/CeruleanTresses** [+3]  (6 days later)
 >>>>>>>> 
 >>>>>>>> The version of the comic you remember seems a lot flatter than the one I read. Putting aside the uh, interesting take that the guy Moonshadow kills was merely innocently "escorting a drunk girl home" (and that you evidently missed the panels that showed Moonshadow was acting on allegations that he'd committed actual past sexual assaults rather than on his "thought crime" with the drunk girl), I certainly don't recall Moonshadow being portrayed as "very reasonable and sympathetic and collected and proper." I recall that she was depicted as an extremist with understandable motives but abhorrent methods, that she was fraying at the edges, that she wasn't even able to stick to her code of only killing rapists (she attacked Alison and got the fire guy killed). In the page you linked, Alison is saying she thinks Moonshadow's approach is *wrong*, but is asking herself whether her perspective on that is warped by her invincibility and whether stopping Moonshadow was the *best* thing she could have been doing with her time, which are exactly the sorts of questions characters in a rational work should be asking themselves. 
->>>>>>>> I mean, first you're saying the comic is a thin political treatise because it strawmans and villainizes opposing viewpoints instead of meaningfully engaging with them, and now you're suggesting that it's a thin political treatise because Moonshadow wasn't portrayed as a mustache-twirling psychopath and was allowed to have some impact on Alison's perspective despite Alison rejecting her methods. Do you want the comic to explore different viewpoints or not? 
->>>>>>>> > He asked to be a superhero with real powers, she just ignored that despite having several mecha suit making super genius friends. Normal people refuse the false choice between violence and inaction, and pay people for their services.
->>>>>>>> Again, she literally calls *herself* out on this later. She asks herself why she just made a half-assed "sterile appeal to heroism" and then went straight to violence instead of exploring any of the countless other options, and the answer is that she isn't good at any of the other options--diplomacy, bartering, manipulation, etc--because her powers mean she's never *had* to be. She's never developed those skills, or any propensity to readily generate solutions that rely on them, because she could always fall back on being her setting's Superman analogue. The fact that she doesn't "consider what normal people do" is the *entire point.* You and I could sit here all day brainstorming various things she could have offered Max in exchange for his willing cooperation, but the narrative purpose of that scene was not to demonstrate how to optimally persuade someone. This story explores the ethical development of a character who is *not* a normal person and has to identify and address the blind spots that have resulted from that. 
->>>>>>>> Like this is all stuff that is explicitly, exhaustively explored right on the page, and you're just omitting it from your analysis and writing her off with stock phrases about intelligence quantification. "Rational" characters are not (usually) infallible utility maximizers with no room to grow and nothing to question about themselves. A character who has flaws and blind spots, but actively tries to identify those in herself and question her own premises, is absolutely valid as a rational protagonist.
 >>>>>>>> 
+>>>>>>>> I mean, first you're saying the comic is a thin political treatise because it strawmans and villainizes opposing viewpoints instead of meaningfully engaging with them, and now you're suggesting that it's a thin political treatise because Moonshadow wasn't portrayed as a mustache-twirling psychopath and was allowed to have some impact on Alison's perspective despite Alison rejecting her methods. Do you want the comic to explore different viewpoints or not? 
+>>>>>>>> 
+>>>>>>>> > He asked to be a superhero with real powers, she just ignored that despite having several mecha suit making super genius friends. Normal people refuse the false choice between violence and inaction, and pay people for their services.
+>>>>>>>> 
+>>>>>>>> Again, she literally calls *herself* out on this later. She asks herself why she just made a half-assed "sterile appeal to heroism" and then went straight to violence instead of exploring any of the countless other options, and the answer is that she isn't good at any of the other options--diplomacy, bartering, manipulation, etc--because her powers mean she's never *had* to be. She's never developed those skills, or any propensity to readily generate solutions that rely on them, because she could always fall back on being her setting's Superman analogue. The fact that she doesn't "consider what normal people do" is the *entire point.* You and I could sit here all day brainstorming various things she could have offered Max in exchange for his willing cooperation, but the narrative purpose of that scene was not to demonstrate how to optimally persuade someone. This story explores the ethical development of a character who is *not* a normal person and has to identify and address the blind spots that have resulted from that. 
+>>>>>>>> 
+>>>>>>>> Like this is all stuff that is explicitly, exhaustively explored right on the page, and you're just omitting it from your analysis and writing her off with stock phrases about intelligence quantification. "Rational" characters are not (usually) infallible utility maximizers with no room to grow and nothing to question about themselves. A character who has flaws and blind spots, but actively tries to identify those in herself and question her own premises, is absolutely valid as a rational protagonist.
 
->>>>>>>>> **u/Nepene** [+2] *
+>>>>>>>>> **u/Nepene** [+2]  (6 days later)
 >>>>>>>>> 
 >>>>>>>>> Other than Allison, does anyone actually object to Moony killing people?
->>>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-52-3/
->>>>>>>>> Some random person she meets is pro murder, 
->>>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-90/
->>>>>>>>> Some other random person she meets is pro vigilante murder.
->>>>>>>>> The comic is pretty pro it. Allison is against it because she fears eventually Moonshadow will get someone innocent (she doesn't regard herself or flame boy as innocent presumably) not because she's against killing rapists.
->>>>>>>>> >I mean, first you're saying the comic is a thin political treatise because it strawmans and villainizes opposing viewpoints instead of meaningfully engaging with them, and now you're suggesting that it's a thin political treatise because Moonshadow wasn't portrayed as a mustache-twirling psychopath and was allowed to have some impact on Alison's perspective despite Alison rejecting her methods. Do you want the comic to explore different viewpoints or not? 
->>>>>>>>> The overton window of the comic is allowing of vigilante killing rapists, khan members, and Ayn Rand readers, and starting a woman's shelter. The perspective of viewpoints is fairly narrow. Rationality tends to mean a slightly wider viewpoint and less murderous rage to people who politically disagree with you but aren't doing much.
->>>>>>>>> I mean, of course a murderous feminist is gonna be portrayed well. They are a feminist, so they do things good, even if they may be seen as misguided.
->>>>>>>>> >Again, she literally calls herself out on this later. She asks herself why she just made a half-assed "sterile appeal to heroism" and then went straight to violence instead of exploring any of the countless other options, and the answer is that she isn't good at any of the other options--diplomacy, bartering, manipulation, etc--because her powers mean she's never had to be.
->>>>>>>>> Sure, so she's below the level 1 intelligence of a random person on the street. 
->>>>>>>>> https://yudkowsky.tumblr.com/writing/level1intelligent
->>>>>>>>> >No, step one towards a more intelligent Thorin is just to have Thorin behave like there is a person inside him figuring out the best thing to do, like you or I would in his shoes, as opposed to an H-Zombie who throws down the key in order to provide Bilbo with a Dramatic Moment.
->>>>>>>>> She has an H zombie who throws down the key to provide her with dramatic moments. She doesn't have the basic intellect to work towards her chosen goals, she has emotions that dictate her actions.
 >>>>>>>>> 
+>>>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-52-3/
+>>>>>>>>> 
+>>>>>>>>> Some random person she meets is pro murder, 
+>>>>>>>>> 
+>>>>>>>>> http://strongfemaleprotagonist.com/issue-5/page-90/
+>>>>>>>>> 
+>>>>>>>>> Some other random person she meets is pro vigilante murder.
+>>>>>>>>> 
+>>>>>>>>> The comic is pretty pro it. Allison is against it because she fears eventually Moonshadow will get someone innocent (she doesn't regard herself or flame boy as innocent presumably) not because she's against killing rapists.
+>>>>>>>>> 
+>>>>>>>>> >I mean, first you're saying the comic is a thin political treatise because it strawmans and villainizes opposing viewpoints instead of meaningfully engaging with them, and now you're suggesting that it's a thin political treatise because Moonshadow wasn't portrayed as a mustache-twirling psychopath and was allowed to have some impact on Alison's perspective despite Alison rejecting her methods. Do you want the comic to explore different viewpoints or not? 
+>>>>>>>>> 
+>>>>>>>>> The overton window of the comic is allowing of vigilante killing rapists, khan members, and Ayn Rand readers, and starting a woman's shelter. The perspective of viewpoints is fairly narrow. Rationality tends to mean a slightly wider viewpoint and less murderous rage to people who politically disagree with you but aren't doing much.
+>>>>>>>>> 
+>>>>>>>>> I mean, of course a murderous feminist is gonna be portrayed well. They are a feminist, so they do things good, even if they may be seen as misguided.
+>>>>>>>>> 
+>>>>>>>>> >Again, she literally calls herself out on this later. She asks herself why she just made a half-assed "sterile appeal to heroism" and then went straight to violence instead of exploring any of the countless other options, and the answer is that she isn't good at any of the other options--diplomacy, bartering, manipulation, etc--because her powers mean she's never had to be.
+>>>>>>>>> 
+>>>>>>>>> Sure, so she's below the level 1 intelligence of a random person on the street. 
+>>>>>>>>> 
+>>>>>>>>> https://yudkowsky.tumblr.com/writing/level1intelligent
+>>>>>>>>> 
+>>>>>>>>> >No, step one towards a more intelligent Thorin is just to have Thorin behave like there is a person inside him figuring out the best thing to do, like you or I would in his shoes, as opposed to an H-Zombie who throws down the key in order to provide Bilbo with a Dramatic Moment.
+>>>>>>>>> 
+>>>>>>>>> She has an H zombie who throws down the key to provide her with dramatic moments. She doesn't have the basic intellect to work towards her chosen goals, she has emotions that dictate her actions.
 
->>>>>>>>>> **u/CeruleanTresses** [+5] *
+>>>>>>>>>> **u/CeruleanTresses** [+5]  (6 days later)
 >>>>>>>>>> 
 >>>>>>>>>> She...does...not...start...a...women's...shelter. We've been over this. 
->>>>>>>>>> This is beyond a difference of opinion. You're not even willing to absorb information about the basic facts of what happens in the comic, at least when that information conflicts with your conception of it as a mindless "left good right bad" diatribe. I'm done arguing about it.
 >>>>>>>>>> 
+>>>>>>>>>> This is beyond a difference of opinion. You're not even willing to absorb information about the basic facts of what happens in the comic, at least when that information conflicts with your conception of it as a mindless "left good right bad" diatribe. I'm done arguing about it.
 
->>>>>>>>>>> **u/Nepene** [+2] *
+>>>>>>>>>>> **u/Nepene** [+2]  (7 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> She starts a superhero hotline to connect with women's shelters and offer vigilante escorts to centers, sure. 
->>>>>>>>>>> I have absorbed several of your opinions, I just noted a disagreement- that the comic didn't actually portray Moonshadow negatively, they had multiple people praise them, for example. Evidence is the first step to changing minds, and you mostly pushed your philosophical interpretations of things. 
->>>>>>>>>>> >(Although I honestly can't remember if they were even explicitly said to be Christian or religious at any point, or if they were primarily a dynaphobic group with at least one member carrying a sign that mentioned Satan).
->>>>>>>>>>> You said this say, and I gave several examples of them noting they were explicitly Christian. 
->>>>>>>>>>> You said- "but have you considered that there's a whole arc in the comic about Alison trying stop a feminist from murdering people because of her (particular brand of) feminism?"
->>>>>>>>>>> And I noted several examples in comic where random people Allison met praised said feminist for murder, to note that it was hardly clear that the feminist murderer was viewed as bad.
->>>>>>>>>>> We are not gonna get that far if you don't rely on the comic for what happens, no.
 >>>>>>>>>>> 
+>>>>>>>>>>> I have absorbed several of your opinions, I just noted a disagreement- that the comic didn't actually portray Moonshadow negatively, they had multiple people praise them, for example. Evidence is the first step to changing minds, and you mostly pushed your philosophical interpretations of things. 
+>>>>>>>>>>> 
+>>>>>>>>>>> >(Although I honestly can't remember if they were even explicitly said to be Christian or religious at any point, or if they were primarily a dynaphobic group with at least one member carrying a sign that mentioned Satan).
+>>>>>>>>>>> 
+>>>>>>>>>>> You said this say, and I gave several examples of them noting they were explicitly Christian. 
+>>>>>>>>>>> 
+>>>>>>>>>>> You said- "but have you considered that there's a whole arc in the comic about Alison trying stop a feminist from murdering people because of her (particular brand of) feminism?"
+>>>>>>>>>>> 
+>>>>>>>>>>> And I noted several examples in comic where random people Allison met praised said feminist for murder, to note that it was hardly clear that the feminist murderer was viewed as bad.
+>>>>>>>>>>> 
+>>>>>>>>>>> We are not gonna get that far if you don't rely on the comic for what happens, no.
 
->>>>>>>>>>>> **u/CeruleanTresses** [+4] *
+>>>>>>>>>>>> **u/CeruleanTresses** [+5]  (7 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> edit: realized this reply was really just continuing the argument, which I'd rather not, so I'm deleting it
->>>>>>>>>>>> 
 
-> **u/None** [-5] *
+> **u/None** [-5]  (14 hours later)
 > 
 > strong female protagonist is an epically stupid, intellectually pretentious, and sophomoric piece of liberal hogwash that has decent artwork. it's not even CLOSE to being actually rationalist.
-> 
 
 ---
 

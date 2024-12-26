@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/FeepingCreature** [+4]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (an hour later)
 > 
 > Old but very good.
-> 
 
 ---
 

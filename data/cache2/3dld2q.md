@@ -12,13 +12,15 @@
 
 ### Comments:
 
-> **u/PL_TOC** [+1] *
+> **u/PL_TOC** [+1]  (8 hours later)
 > 
 > Live off the grid 
-> Contract with cartels to kill rival leaders for major cash
-> Invest money in education and medicine 
-> Reenact Thoreau's Walden.
 > 
+> Contract with cartels to kill rival leaders for major cash
+> 
+> Invest money in education and medicine 
+> 
+> Reenact Thoreau's Walden.
 
 ---
 

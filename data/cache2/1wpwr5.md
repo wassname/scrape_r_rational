@@ -2,7 +2,7 @@
 
 * Author: u/occasional-redditor *
 * URL: http://www.nightshadebooks.com/Downloads/Exhalation%20-%20Ted%20Chiang.html
-* Score: 41
+* Score: 47
 
 * Created: 2014-02-01T10:01:51
 
@@ -12,39 +12,37 @@
 
 ### Comments:
 
-> **u/Gurkenglas** [+6] *
+> **u/Gurkenglas** [+6]  (a day later)
 > 
 > >The chromium that separates us from this supposed universe is too thick and too hard for us to drill through
-> If they know that it is thick, they must have been able to scrape it at least a little (say via excessive force applied with pickaxes), and so I present this process which would drive compressors at quadratic returns on investment: Invest half your ressources into building a ladder upwards along the outer wall, and the other half into scraping off as much chromium as possible from the top of the ladder. Use the descent of clumps of that chromium to ground level as a power source.
-> With centuries of pressure left, that quadratic ought to outstrip the abysmal initial returns.
 > 
+> If they know that it is thick, they must have been able to scrape it at least a little (say via excessive force applied with pickaxes), and so I present this process which would drive compressors at quadratic returns on investment: Invest half your ressources into building a ladder upwards along the outer wall, and the other half into scraping off as much chromium as possible from the top of the ladder. Use the descent of clumps of that chromium to ground level as a power source.
+> 
+> With centuries of pressure left, that quadratic ought to outstrip the abysmal initial returns.
 
->> **u/topynate** [+3] *
+>> **u/topynate** [+3]  (3 days later)
 >> 
 >> They could have determined the thickness by echoes from the outer surface.
->> In fact, they couldn't know it was *too* thick by any amount of mechanical removal, as there'd always be the chance that another few centimetres would suffice to break through.
->> The meta-level question is: what would it mean to the story for them to break through? They'd gain access to the sources of energy available to us - which are also running down, in accordance with the central metaphor. It's an incredibly neat concept for a short story, in that the attempt to violate its assumptions ends up reinforcing its theme.
 >> 
+>> In fact, they couldn't know it was *too* thick by any amount of mechanical removal, as there'd always be the chance that another few centimetres would suffice to break through.
+>> 
+>> The meta-level question is: what would it mean to the story for them to break through? They'd gain access to the sources of energy available to us - which are also running down, in accordance with the central metaphor. It's an incredibly neat concept for a short story, in that the attempt to violate its assumptions ends up reinforcing its theme.
 
-> **u/aldonius** [+3] *
+> **u/aldonius** [+4]  (7 hours later)
 > 
 > Beautiful, poignant, thought-provoking.
-> 
 
-> **u/Transfuturist** [+4]  *Carthago delenda est.**
+> **u/Transfuturist** [+4]  *Carthago delenda est.* (a day later)
 > 
 > Allegory for entropy. Beautifully microcosmic.
-> 
 
-> **u/Winkle92** [+3]  *Anti-Spiral**
+> **u/Winkle92** [+3]  *Anti-Spiral* (18 hours later)
 > 
 > One of the best things I've read on this subreddit- and that's saying something. Thanks for posting.
-> 
 
-> **u/mcgruntman** [+1] *
+> **u/mcgruntman** [+1]  (23 hours later)
 > 
 > Fascinating story, fantastically well written.
-> 
 
 ---
 

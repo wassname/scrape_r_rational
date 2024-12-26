@@ -2,7 +2,7 @@
 
 * Author: u/andor3333 *
 * URL: https://www.reddit.com/r/rational/comments/2a3ihi/bst_is_anyone_here_good_at_dialogue_and_humor_i/
-* Score: 11
+* Score: 10
 
 * Created: 2014-07-08T00:02:15
 
@@ -18,83 +18,81 @@ If you are interested message me. If you have a general question I can answer it
 
 ### Comments:
 
-> **u/TimeLoopedPowerGamer** [+9]  *Utopian Smut Peddler**
+> **u/TimeLoopedPowerGamer** [+10]  *Utopian Smut Peddler* (11 hours later)
 > 
 > The worst part of most rational fanfic is the new, awkwardly shoe-horned in superpower(s) the rational-world protagonist needs to receive to make them able to survive the initial contact with a plot without their plot-armor. Sometimes it is pre-plot powerleveling, sometimes it is being Sherlock Holmes reincarnated; often it is very meh.
-> This story idea seems like it could have that issue in spades, as you are jacking the threat of Supernatural universe creatures. This is a world where "unkillable" demons are an issue from the word go. In the series, survival was initially (and usually) almost solely because their foes were lazy and stupid, and they often had plot armor or literally had God on their side.
-> In general terms, how do the boys and other hunters rationally deal with uncertainty long enough to get good information? Or even survive their first hunt?
-> Have you made major changes to what hunters are and what they do?
-> Does God exist?
-> To me, how those sorts of issues are resolved would make or break this.
 > 
+> This story idea seems like it could have that issue in spades, as you are jacking the threat of Supernatural universe creatures. This is a world where "unkillable" demons are an issue from the word go. In the series, survival was initially (and usually) almost solely because their foes were lazy and stupid, and they often had plot armor or literally had God on their side.
+> 
+> In general terms, how do the boys and other hunters rationally deal with uncertainty long enough to get good information? Or even survive their first hunt?
+> 
+> Have you made major changes to what hunters are and what they do?
+> 
+> Does God exist?
+> 
+> To me, how those sorts of issues are resolved would make or break this.
 
->> **u/None** [+5] *
+>> **u/None** [+3]  (21 hours later)
 >> 
 >> > Does God exist?
->> I like the way Rationalising Death handles it. The existence of the Death Note implies that there's more to the world than mere physics. So far this isn't the point of the plot, but it does mean the world they live in at least has a creator.
 >> 
+>> I like the way Rationalising Death handles it. The existence of the Death Note implies that there's more to the world than mere physics. So far this isn't the point of the plot, but it does mean the world they live in at least has a creator.
 
->>> **u/andor3333** [+3] *
+>>> **u/andor3333** [+3]  (a day later)
 >>> 
 >>> I had a plan for this. The answer is...sort of, but in a way I think is very very much in the spirit of a rational fic. I am still deciding whether to put it in though. I have a few plot sticking points I would have to resolve and I think it has more than enough rational fun without this thrown into it. 
+>>> 
 >>> I will summarize as...
 >>> God will either be in the fic as a large arc of plot, I can't say more,
 >>> or I will do something like what you just said and steer the focus toward other issues.
->>> In other words, Rationally or not at all.
 >>> 
+>>> In other words, Rationally or not at all.
 
->> **u/andor3333** [+2] *
+>> **u/andor3333** [+2]  (a day later)
 >> 
 >> I have a way to make this happen and make it seem natural, but I am hesitant to give it out since it is a key part of the plot. I will explain this to the satisfaction of anyone who is interested in co-writing and shows me they have the ability to do so.
->> 
 
->>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler**
+>>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler* (a day later)
 >>> 
 >>> Cool. So long as you are aware of the issues, I'm sure it will be fine. Knowing is half the battle. The other half is violence, of course.
->>> 
 
->> **u/Izeinwinter** [+2] *
+>> **u/Izeinwinter** [+2]  (11 days later)
 >> 
 >> There are quite a few ways to give norms an upgrade in the supernatural universe, and while most of them carry horrifying side effects usually of the "warp your personality into a monster" type a character with sufficiently robust sanity defenses - A high-ability cognitive-behavior therapist, for example - and enough luck could beat that. The primary problem is that the supernatural universe is nearly perfectly anti-rational. Almost the entire population of that world lives in a constant state of gas-lighting, and the veil of mara is an actual malevolent force. Anyone that cares about truth and reason is going to be.. *angry*
->> 
 
-> **u/sicutumbo** [+6] *
+> **u/sicutumbo** [+8]  (14 hours later)
 > 
 > You should name it Superrational
-> 
 
->> **u/traverseda** [+7]  *With dread but cautious optimism**
+>> **u/traverseda** [+5]  *With dread but cautious optimism* (a day later)
 >> 
 >> That kerning.
->> 
 
->>> **u/andor3333** [+1] *
+>>> **u/andor3333** [+1]  (8 days later)
 >>> 
 >>> Exactly. My working title is Supernatural Philosophy. I don't really like that either because people will think it has philosophy as the focus. I really mean natural philosophy the old scientific term. If you have a suggestion shoot...
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> This reminds me of some writing advice I once read. If you want to write a Supernatural fic, you should probably try just putting a couple of episodes on paper. Just write what happens, what the characters say... This should give you a good feel of the way the characters act and talk. It's a lot of work, but might be worth it.
->> > People don't expect a great deal of creativity from action heroes' jokes. Aren't they usually one-liners or sarcastic observations?
->> Actually, one of my favorite things about Supernatural is that the banter between the brothers is pretty realistic. It's a bit smoother and faster than actual conversations, but the content and style feels realistic to me. 
->> The "action hero one-liners" in the show are also pretty toned down. There are phrases that would be big actions-quotes in other series or movies, but in Supernatural they're shot like they would sound in real life.
 >> 
+>> > People don't expect a great deal of creativity from action heroes' jokes. Aren't they usually one-liners or sarcastic observations?
+>> 
+>> Actually, one of my favorite things about Supernatural is that the banter between the brothers is pretty realistic. It's a bit smoother and faster than actual conversations, but the content and style feels realistic to me. 
+>> 
+>> The "action hero one-liners" in the show are also pretty toned down. There are phrases that would be big actions-quotes in other series or movies, but in Supernatural they're shot like they would sound in real life.
 
->>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler**
+>>> **u/TimeLoopedPowerGamer** [+1]  *Utopian Smut Peddler* (2 days later)
 >>> 
 >>> I think having them say the obvious, and often, is a good approach for a Supernatural fanfic. The original did this *a lot*. Most of the dialog is snarky sniping (like brothers do) and just stating the obvious. Almost all the wit is emergent.
->>> 
 
->>> **u/andor3333** [+1] *
+>>> **u/andor3333** [+1]  (3 days later)
 >>> 
 >>> I will probably take that advice. (writing out the dialogue from an episode) That sounds like something very helpful actually. Thank you.
->>> 
 
 ---
 

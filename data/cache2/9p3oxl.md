@@ -158,622 +158,646 @@ List your own examples in the comments. If I like yours, I’ll kill your whole 
 
 ### Comments:
 
-> **u/None** [+43] *
+> **u/None** [+41]  (an hour later)
 > 
 > I agree with almost all of this, except for the argument against Thanos. Thanos was, in my opinion, and in the opinion of most of the people I know, one of the best things about Infinity War, because of how well he was characterized. 
-> Thanos is, in my opinion, your example of a pure evil villain done right. Thanos is evil. His motivations are evil. The fact that he thinks he is right doesn't make his motivations any less evil, but it also leaves him acting a lot more human that other classic superhero movie villains, and that came off pretty well.
-> He even fits the universe. Thor is thousands of years old, but still acts like a normal person, so this is a world where immortality and time doesn't necessarily lead to ever escalating emotional maturity and wisdom. The idea that a Thor-style immortal could watch his entire planet- his entire species- self-destruct due to overpopulation, and come out of that obsessed with 'saving the universe' by doing everything he could to fight over-population, felt realistic to me. It even fit with the rest of the Marvel universe, and even felt like an escalation of already established themes; Winter Soldier and Age of Ultron are both films that either start, or have their main conflict defined by characters going way too far in their quest to "save the world".
-> Thanos isn't meant to just turn up and punch the avengers until we all get bored. That's not the kind of villain he is. That's not the kind of villain you foreshadow in the first Avengers film and then spend the rest of the franchise planting little teasers about. Thanos, in my opinion, serves as a worthy ultimate villain of the franchise precisely because of how he was characterized.
-> Tony wants to save the world, and is willing to do whatever it takes to do so. He invents Ultron, an AI based on alien technology he doesn't fully understand, against the advice of the only other expert he consulted (Bruce wanted to ask the team), and nearly caused the extinction of the entire human race. Hydra (at least in the Winter Soldier) wants to save the world; they want to protect people from the dangers of freedom, and create a safer Earth by enforcing Order all over the globe; and they do some pretty messed up things in order to try and achieve that goal. Killmonger wants to protect/liberate/promote his people, and, again, is willing to do some pretty messed up things in order to achieve what is actually a pretty messed up goal, but, again, is one you can easily see him viewing as noble. 
-> Civil War is essentially an entire movie based around the idea of people having two separate ideas of what is good and right, and coming to blows over it.
-> Thanos is a good ultimate villain for the franchise, because he takes these themes, and runs with them, taking them new and unexplored heights. How evil could someones goal be, while still allowing them to think they're a hero acting in the best interests of everyone? How psychopathic could someones actions be, and yet still let themselves pretend they're the hero of the story? Thanos is meant to be the answer to that, the series final examination of the ideas that have permeated so many of the films leading up to this. His characterization, and the time spent on it, was necessary for him to fulfill that purpose, and considering how well the film was received, I think it worked pretty well.
-> TL:DR - I think Thanos is an example of a realistic villain done right, not an example of how "evil is realistic" would have been better.
 > 
+> Thanos is, in my opinion, your example of a pure evil villain done right. Thanos is evil. His motivations are evil. The fact that he thinks he is right doesn't make his motivations any less evil, but it also leaves him acting a lot more human that other classic superhero movie villains, and that came off pretty well.
+> 
+> He even fits the universe. Thor is thousands of years old, but still acts like a normal person, so this is a world where immortality and time doesn't necessarily lead to ever escalating emotional maturity and wisdom. The idea that a Thor-style immortal could watch his entire planet- his entire species- self-destruct due to overpopulation, and come out of that obsessed with 'saving the universe' by doing everything he could to fight over-population, felt realistic to me. It even fit with the rest of the Marvel universe, and even felt like an escalation of already established themes; Winter Soldier and Age of Ultron are both films that either start, or have their main conflict defined by characters going way too far in their quest to "save the world".
+> 
+> Thanos isn't meant to just turn up and punch the avengers until we all get bored. That's not the kind of villain he is. That's not the kind of villain you foreshadow in the first Avengers film and then spend the rest of the franchise planting little teasers about. Thanos, in my opinion, serves as a worthy ultimate villain of the franchise precisely because of how he was characterized.
+> 
+> Tony wants to save the world, and is willing to do whatever it takes to do so. He invents Ultron, an AI based on alien technology he doesn't fully understand, against the advice of the only other expert he consulted (Bruce wanted to ask the team), and nearly caused the extinction of the entire human race. Hydra (at least in the Winter Soldier) wants to save the world; they want to protect people from the dangers of freedom, and create a safer Earth by enforcing Order all over the globe; and they do some pretty messed up things in order to try and achieve that goal. Killmonger wants to protect/liberate/promote his people, and, again, is willing to do some pretty messed up things in order to achieve what is actually a pretty messed up goal, but, again, is one you can easily see him viewing as noble. 
+> 
+> Civil War is essentially an entire movie based around the idea of people having two separate ideas of what is good and right, and coming to blows over it.
+> 
+> Thanos is a good ultimate villain for the franchise, because he takes these themes, and runs with them, taking them new and unexplored heights. How evil could someones goal be, while still allowing them to think they're a hero acting in the best interests of everyone? How psychopathic could someones actions be, and yet still let themselves pretend they're the hero of the story? Thanos is meant to be the answer to that, the series final examination of the ideas that have permeated so many of the films leading up to this. His characterization, and the time spent on it, was necessary for him to fulfill that purpose, and considering how well the film was received, I think it worked pretty well.
+> 
+> TL:DR - I think Thanos is an example of a realistic villain done right, not an example of how "evil is realistic" would have been better.
 
->> **u/Geminii27** [+24] *
+>> **u/Geminii27** [+23]  (11 hours later)
 >> 
 >> Movie!Thanos' motivations are easy to follow, but they fall down when examined in the light of collecting all the Infinity Stones. The Stones could easily rewrite the universe to have twice the resources, or give every civilization, knowledge, and tools capable of letting them use far fewer resources. He could be the greatest savior in the history of, well, ever. But no, he's gonna kill half the universe because he can't be arsed to take three seconds to think of alternatives.
->> In the comics, it's easier - Thanos would do that because he's not sympathetic, he's a dick. He could think of all the alternate ways to use the Stones and still go with killing untold numbers of beings because he just really, really, really likes killing.
 >> 
+>> In the comics, it's easier - Thanos would do that because he's not sympathetic, he's a dick. He could think of all the alternate ways to use the Stones and still go with killing untold numbers of beings because he just really, really, really likes killing.
 
->>> **u/Veedrac** [+9] *
+>>> **u/Veedrac** [+9]  (16 hours later)
 >>> 
 >>> lol, I had assumed MCU's infinity gauntlet just had an incredibly specific suite of powers... I prefer my headcanon.
->>> 
 
->>>> **u/Cruithne** [+5]  *Light Sith epistemologist**
+>>>> **u/Cruithne** [+6]  *Light Sith epistemologist* (18 hours later)
 >>>> 
 >>>> Or that he wouldn't be able to use it to provide resources. The gauntlet is supposed to scale to its user, and maybe Thanos is extremely powerful when it comes to genocide but weak when it comes to provision. He might not have realised such a thing was possible even if it was.
->>>> 
 
->>>>> **u/Veedrac** [+2] *
+>>>>> **u/Veedrac** [+2]  (22 hours later)
 >>>>> 
 >>>>> That's still more pessimistic than I was being, since even then he should have considered just giving the gauntlet to someone who could.
->>>>> 
 
->>>>>> **u/Cruithne** [+3]  *Light Sith epistemologist**
+>>>>>> **u/Cruithne** [+3]  *Light Sith epistemologist* (22 hours later)
 >>>>>> 
 >>>>>> Yeah, I thought that after writing it. Maybe his 'Only I have the will strong enough' attitude prevents him from doing so though.
->>>>>> 
 
->>> **u/RandomDamage** [+15] *
+>>> **u/RandomDamage** [+15]  (12 hours later)
 >>> 
 >>> He's obsessed.  
 >>> He spent centuries coming up with and implementing this plan the hard way, and he finally discovers and gets his hands on the perfect tool to do it all at once.  
-
->>> To even consider that he might be wrong at that point would mean admitting to himself that he has been a mass murderer for centuries because he was mistaken (and didn't understand the concept of population rebound).  
-
->>> Not even the Infinity Stones can provide enough wisdom to let someone do that easily.
 >>> 
+>>> To even consider that he might be wrong at that point would mean admitting to himself that he has been a mass murderer for centuries because he was mistaken (and didn't understand the concept of population rebound).  
+>>> 
+>>> Not even the Infinity Stones can provide enough wisdom to let someone do that easily.
 
->>> **u/RynnisOne** [+7] *
+>>> **u/RynnisOne** [+6]  (22 hours later)
 >>> 
 >>> Just to be certain, when you say "But no, he's gonna kill half the universe because he can't be arsed to take three seconds to think of alternatives." you **ARE** referring to the three seconds he has after acquiring the last stone before Thor rainbow-ports in and chucks a god-slaying lightning axe at him, yes?
->>> Because, while I disagree with his entire line of thinking, it's kinda moot until he actually has all the stones, and he never gets to test to see what their limits are before *yet another guy* appears and tries to kill him.  Except, unlike the last 30, he manages to take a critical wound from Thor and has only a few seconds left before he dies to make his Wish.
 >>> 
+>>> Because, while I disagree with his entire line of thinking, it's kinda moot until he actually has all the stones, and he never gets to test to see what their limits are before *yet another guy* appears and tries to kill him.  Except, unlike the last 30, he manages to take a critical wound from Thor and has only a few seconds left before he dies to make his Wish.
 
->>>> **u/Geminii27** [+4] *
+>>>> **u/Geminii27** [+5]  (a day later)
 >>>> 
 >>>> As far as I can tell, he's aware of the power of the Stones beforehand (one of the reasons he's collecting them), and has had a lot of time to consider what he should do on acquiring them.
->>>> 
 
->>>>> **u/KiritosWings** [+2] *
+>>>>> **u/KiritosWings** [+2]  (4 days later)
 >>>>> 
 >>>>> Generally aware yes, but not enough to know if it can create resources in the way you seem to suggest. There's even a fair argument that they can't, and can only turn things into different forms (thus not creating net new resources, just potentially optimizing the universe a bit more).
->>>>> 
 
->>> **u/derefr** [+6] *
+>>> **u/derefr** [+5]  (a day later)
 >>> 
 >>> In the comics, Thanos does everything he does to impress a lady. Who happens to be the personification of death. (I'm not even joking.)
->>> 
 
->>> **u/None** [+5] *
+>>> **u/None** [+4]  (17 hours later)
 >>> 
 >>> Good points, but I think marvel kind of has its bases covered here with what it can do to make Thanos make more sense. 
 >>> Thanos seems to have come from a highly advanced civilization (going from the tech they had going on in the brief snippet we've seen, and that he seems to be immortal, and almost all the immortal aliens in the franchise seem to be hyper-advanced). So he a lot of reason to believe that having more technology and knowledge isn't the solution. 
 >>> And creating more resources is just as bad a solution as killing off half the universe, if you're main goal is to stop overpopulation and you can only make one 'wish ' (seeing as the infinity gauntlet seemed pretty wrecked after the snap). 
 >>> Thanos is wrong, of course, but I think there aren't as many wholes in his logic as people tend to assume, once you actually examine the backstory marvel gave him.
->>> 
 
->>> **u/Radix2309** [+3] *
+>>> **u/Radix2309** [+3]  (2 days later)
 >>> 
 >>> I think it is because Thanos is traumatised by the death of Titan, obsessed with it.
->>> At the time, He didn't have infinite power. So his solution wasn't to double the resources, he couldnt. He wanted to half the population.
->>> But he sees he needs to fix that problem that exists on other worlds. So he goes after the means to do so. He gets an army, followers, etc. And he starts to massacre worlds like Gamora's. He looks for powers to do more. So he discovers the Infinity Stones and attempts to gather them, And use them to continue his goal.
->>> At this point he is set in his ways. He has been doing it for decades. He believes he is right, despite what the rest of the universe says. He plants his feet and says "you move". 
->>> Which is part of my problem with Cap in Civil War. Sure he was right. But what about the next time?  Or the next? Eventually he will be wrong. Thanos is wrong, but he believes he is right.
 >>> 
+>>> At the time, He didn't have infinite power. So his solution wasn't to double the resources, he couldnt. He wanted to half the population.
+>>> 
+>>> But he sees he needs to fix that problem that exists on other worlds. So he goes after the means to do so. He gets an army, followers, etc. And he starts to massacre worlds like Gamora's. He looks for powers to do more. So he discovers the Infinity Stones and attempts to gather them, And use them to continue his goal.
+>>> 
+>>> At this point he is set in his ways. He has been doing it for decades. He believes he is right, despite what the rest of the universe says. He plants his feet and says "you move". 
+>>> 
+>>> Which is part of my problem with Cap in Civil War. Sure he was right. But what about the next time?  Or the next? Eventually he will be wrong. Thanos is wrong, but he believes he is right.
 
->> **u/derefr** [+7] *
+>> **u/derefr** [+8]  (a day later)
 >> 
 >> Potentially surprising assertion: Thanos is the **protagonist** of *Avengers: Infinity War - Part 1*.
->> A *potentially* convincing argument: you can look for a hero's journey arc for him, and you'll find it. Refusal of the Call, Meeting with the Goddess, Apotheosis, Refusal of the Return, Freedom to Live, etc. It's all there.
->> A knock-down argument: at the end of the movie, there's a card that says "Thanos will return in *Avengers: Infinity War - Part 2*." The only time that card has ever been used, so far in the MCU canon, is in a heroic (rather than epic) story, to say that the protagonist of the story (the eponymous hero) will get another movie.
->> The question of whether *Avengers: Infinity War - Part 2* will continue on with Thanos as protagonist, is left open to interpretation. I have a feeling it will—just being told in the mode of tragedy. (Hamlet is the protagonist of *Hamlet*.)
 >> 
+>> A *potentially* convincing argument: you can look for a hero's journey arc for him, and you'll find it. Refusal of the Call, Meeting with the Goddess, Apotheosis, Refusal of the Return, Freedom to Live, etc. It's all there.
+>> 
+>> A knock-down argument: at the end of the movie, there's a card that says "Thanos will return in *Avengers: Infinity War - Part 2*." The only time that card has ever been used, so far in the MCU canon, is in a heroic (rather than epic) story, to say that the protagonist of the story (the eponymous hero) will get another movie.
+>> 
+>> The question of whether *Avengers: Infinity War - Part 2* will continue on with Thanos as protagonist, is left open to interpretation. I have a feeling it will—just being told in the mode of tragedy. (Hamlet is the protagonist of *Hamlet*.)
 
->>> **u/Nimelennar** [+3] *
+>>> **u/Nimelennar** [+3]  (a day later)
 >>> 
 >>> Oh, I agree entirely, to the point that I think that the movie spent far too much time with the Avengers, and far too little time showing us what makes Thanos tick.
->>> 
 
->>> **u/Veedrac** [+2] *
+>>> **u/Veedrac** [+2]  (a day later)
 >>> 
 >>> What do you mean by "protagonist"?
->>> 
 
->>>> **u/Radix2309** [+4] *
+>>>> **u/Radix2309** [+5]  (2 days later)
 >>>> 
 >>>> He is the main figure in the story. He is the one we follow with the progression of his arc. The story is about Thanos' quest for the Infinity Stones. The Avengers are the antagonists to this goal.
->>>> 
 
->>>>> **u/Veedrac** [+1] *
+>>>>> **u/Veedrac** [+1]  (2 days later)
 >>>>> 
 >>>>> Thanks for the clarification. :)
->>>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 days later)
 >>> 
 >>> Oh yeah Thanos is definitely the protagonist of Infinity War. The whole film is basically all about him, with side-cuts to what the Avengers are doing (like how other movies follow the avengers, and then have side-cuts to what the villain is doing).
->>> 
 
->> **u/dinoseen** [+10] *
+>> **u/dinoseen** [+10]  (12 hours later)
 >> 
 >> The main problem with Thanos for me is that the utter stupidity of him kinda majorly undermines all of that.
->> Like, dude. You've got the God Gauntlet, just make a bajillion times the resources we need, and just keep doing that when we start using them up? And if you can't do that, kill half of everyone plan doesn't do shit anyway due to how population growth works. Unless it's *super different* for aliens??
 >> 
+>> Like, dude. You've got the God Gauntlet, just make a bajillion times the resources we need, and just keep doing that when we start using them up? And if you can't do that, kill half of everyone plan doesn't do shit anyway due to how population growth works. Unless it's *super different* for aliens??
 
->>> **u/None** [+8] *
+>>> **u/None** [+6]  (18 hours later)
 >>> 
 >>> Well Thanos's planet looked hyper-advanced, and still managed to wipe itself out with overpopulation, despite what every trend on Earth tells us about the effects of technological advancement and wealth on population growth, so we can assume that humans are a special case (population growth wise), in this universe. 
 >>> And creating more resources doesn't solve the underlying problem, as you can only use the Infinity Gauntlet once (seeing as how it broke immediately after the snap). Thanos believes that life will always eventually outpace the amount of resources given to it, and that he only gets one-shot at saving the world, so from his point of view it's easy to see why he immediately rules out creating more resources. (The irony here is that creating more resources has the exact same flaw as killing half of all life; eventually life will catch back up).
 >>> He's still wrong though, that's why he's the villain. But I don't think there are as many holes in his logic as people tend to assume. I'm not arguing that Thanos's plan is super logical, or even rational. I'm just saying that it's easy to look at the backstory they gave him (and the kind of trauma that would cause), look at the tools he has, and kind of understand why someone who actually deserves the title the Mad Titan (emphasis on the Mad part) would come to the conclusion he did. 
->>> I'm still kind of assuming they're going to go more into what the Infinity Gauntlet is, and what it's limits are, in the next Avengers film, revealing a ton of information that might make our entire argument invalid. Every time Thanos warped reality, it eventually faded (e.g Mantis didn't stay a pile of rocks on the ground forever). Maybe it can't create something out of nothing in the MCU, so doubling resources wasn't possible? Maybe it could not only do that, but create a never ending fountain of food, and Thanos just didn't think of it? Who knows?
->>> I think that, given how the MCU changed Thanos and his motivations, they're probably going to change some stuff about the Gauntlet and how it works, to make those motivations make more sense. After all, from what I remember from my vague readings of the comics, the Gauntlet isn't supposed to break after one use, so already things are different from the comics.
 >>> 
+>>> I'm still kind of assuming they're going to go more into what the Infinity Gauntlet is, and what it's limits are, in the next Avengers film, revealing a ton of information that might make our entire argument invalid. Every time Thanos warped reality, it eventually faded (e.g Mantis didn't stay a pile of rocks on the ground forever). Maybe it can't create something out of nothing in the MCU, so doubling resources wasn't possible? Maybe it could not only do that, but create a never ending fountain of food, and Thanos just didn't think of it? Who knows?
+>>> 
+>>> I think that, given how the MCU changed Thanos and his motivations, they're probably going to change some stuff about the Gauntlet and how it works, to make those motivations make more sense. After all, from what I remember from my vague readings of the comics, the Gauntlet isn't supposed to break after one use, so already things are different from the comics.
 
->>>> **u/RynnisOne** [+4] *
+>>>> **u/RynnisOne** [+3]  (22 hours later)
 >>>> 
 >>>> Your making up some nice headcanon as to why the overpopulation argument works in the movie.
->>>> However, there's really only four answers.
->>>> Yours is the first, and most unlikely.  Apparently their entire universe ignores all the learning we have on overpopulation, and it was designed to be this way for some weird reason.
->>>> The second is that Thanos is *insane*.  In fact, he's called the "Mad Titan", so there's a lot more support for this.  He went through a traumatic experience that shaped his younger life, and from that he has built his entire worldview.  He tested his beliefs and found that they seemed to work (Gamora's homeworld), so decided to keep increasing the scale.  This is one of those "Category Error" situations where someone has failed to understand the true nature of the problem, and by sheer chance or other influences they don't understand their response *seems* to work, so they just upscale it... until it doesn't.
->>>> The third is that the *writers* believe that the Overpopulation is a thing in reality, and are letting their biases bleed through to their work.  Either this is because they don't actually know any better, or because they have some ethical or political agenda.
->>>> The fourth is that the writers *originally* had a different motivation in mind, but had to change it for some reason (quite possibly dovetailing with three).  For what little evidence I can think of for this is in the first Avengers movie, the mid-credits scene where his advisor tells him that to challenge the Avengers is "to court Death", followed by Thanos' big cheesy grin.  This is more in line with the comics, and probably was the original intent until they had to re-write it for some reason--perhaps because of their beliefs, or perhaps they didn't want such a far out there motivation.  Or likely because they don't have the rights to a certain character.  The last and most likely is simply that the writers have changed over the years, and what Group A intended might not be what Group F chooses to implement.
->>>> As it stands, the second, third, and fourth reasons are not mutually exclusive.  Any of them can be true or not true in any combination and it would still apply.
 >>>> 
+>>>> However, there's really only four answers.
+>>>> 
+>>>> Yours is the first, and most unlikely.  Apparently their entire universe ignores all the learning we have on overpopulation, and it was designed to be this way for some weird reason.
+>>>> 
+>>>> The second is that Thanos is *insane*.  In fact, he's called the "Mad Titan", so there's a lot more support for this.  He went through a traumatic experience that shaped his younger life, and from that he has built his entire worldview.  He tested his beliefs and found that they seemed to work (Gamora's homeworld), so decided to keep increasing the scale.  This is one of those "Category Error" situations where someone has failed to understand the true nature of the problem, and by sheer chance or other influences they don't understand their response *seems* to work, so they just upscale it... until it doesn't.
+>>>> 
+>>>> The third is that the *writers* believe that the Overpopulation is a thing in reality, and are letting their biases bleed through to their work.  Either this is because they don't actually know any better, or because they have some ethical or political agenda.
+>>>> 
+>>>> The fourth is that the writers *originally* had a different motivation in mind, but had to change it for some reason (quite possibly dovetailing with three).  For what little evidence I can think of for this is in the first Avengers movie, the mid-credits scene where his advisor tells him that to challenge the Avengers is "to court Death", followed by Thanos' big cheesy grin.  This is more in line with the comics, and probably was the original intent until they had to re-write it for some reason--perhaps because of their beliefs, or perhaps they didn't want such a far out there motivation.  Or likely because they don't have the rights to a certain character.  The last and most likely is simply that the writers have changed over the years, and what Group A intended might not be what Group F chooses to implement.
+>>>> 
+>>>> As it stands, the second, third, and fourth reasons are not mutually exclusive.  Any of them can be true or not true in any combination and it would still apply.
 
->>>>> **u/None** [+3] *
+>>>>> **u/None** [+3]  (2 days later)
 >>>>> 
 >>>>> Well, their entire universe has kind of been shown to ignore all the learning we have. I thinks it's just one of those suspension of disbelief things, that sometimes you just have to take into account when watching some fiction.
->>>>> Thanos says overpopulation is an existential threat to even advanced, high tech life, seems reasonably intelligent throughout the film, and has spent centuries (I assume) taking action to stop it. He even gives examples in the film, of how not only his planet was destroyed by overpopulation, but also how Gamora's planet was on the  brink of succumbing to the same issue before he 'saved' it, so we can reasonably assume that, in his travels, he's seen many such planets going down his old home-worlds path, and so had his beliefs reaffirmed. 
->>>>> I just took it to be suspension of disbelief, which is kind of also basically the exact same thing as your third point. If the writers believe that overpopulation is a thing in reality, and are letting it bleed into their work... then in the MCU, overpopulation is a thing, because it is the writers that determine the laws of their created universe, not actual science. So my head-canon, I think, looks very similar to your third point, when you look at how they actually affect how we should interpret Thanos's place in the story, and the sanity of his plan. So I don't really think you can separate my argument from yours in a way that actually matters. (Which means we agree :D )
->>>>> I do think the 'to court Death' thing is good evidence for your fourth point, but I think they probably changed that motivation long ago enough to have put some serious thought into Thanos (though it also could have been multi-purpose; with so many big purple villains, they may have just wanted a way to clearly signify that this was Thanos, and never actually intended to use his OG motivation).
->>>>> I agree almost completely with your third point (in fact it's part of my head-canon). I agree that Thanos definitely is mad. I just don't think he's stupid and that, within his less than sane world view, he actually behaves pretty rationally and realistically, and that makes him a good villain.
 >>>>> 
+>>>>> Thanos says overpopulation is an existential threat to even advanced, high tech life, seems reasonably intelligent throughout the film, and has spent centuries (I assume) taking action to stop it. He even gives examples in the film, of how not only his planet was destroyed by overpopulation, but also how Gamora's planet was on the  brink of succumbing to the same issue before he 'saved' it, so we can reasonably assume that, in his travels, he's seen many such planets going down his old home-worlds path, and so had his beliefs reaffirmed. 
+>>>>> 
+>>>>> I just took it to be suspension of disbelief, which is kind of also basically the exact same thing as your third point. If the writers believe that overpopulation is a thing in reality, and are letting it bleed into their work... then in the MCU, overpopulation is a thing, because it is the writers that determine the laws of their created universe, not actual science. So my head-canon, I think, looks very similar to your third point, when you look at how they actually affect how we should interpret Thanos's place in the story, and the sanity of his plan. So I don't really think you can separate my argument from yours in a way that actually matters. (Which means we agree :D )
+>>>>> 
+>>>>> I do think the 'to court Death' thing is good evidence for your fourth point, but I think they probably changed that motivation long ago enough to have put some serious thought into Thanos (though it also could have been multi-purpose; with so many big purple villains, they may have just wanted a way to clearly signify that this was Thanos, and never actually intended to use his OG motivation).
+>>>>> 
+>>>>> I agree almost completely with your third point (in fact it's part of my head-canon). I agree that Thanos definitely is mad. I just don't think he's stupid and that, within his less than sane world view, he actually behaves pretty rationally and realistically, and that makes him a good villain.
 
->>>>> **u/hoja_nasredin** [+3]  *Dai-Gurren Brigade**
+>>>>> **u/hoja_nasredin** [+3]  *Dai-Gurren Brigade* (3 days later)
 >>>>> 
 >>>>> >writers  
 >>>>> >  
 >>>>> > believe that the Overpopulation is a thing in reality
->>>>> You mean it is not? Sure we have not reached it yet, but why you dismiss this problem so easily?
 >>>>> 
+>>>>> You mean it is not? Sure we have not reached it yet, but why you dismiss this problem so easily?
 
->>>>>> **u/RynnisOne** [+2] *
+>>>>>> **u/RynnisOne** [+2]  (4 days later)
 >>>>>> 
 >>>>>> I dismiss it because it stabilizes either naturally or unnaturally.
->>>>>> In nature, a balance is established due to the effects of predators and prey and resources, barring an invasive species.  In the case of the latter, it focuses more on the supply and demand side of necessary resources.  IE:  There will be a boom, then a bust, followed by smaller versions until parity is reached or the entire population dies off.  In a normal scenario its more of a see-saw effect.  These clearly don't work 100% of the time with sapient beings by dint of the fact that they are sapient.  Thus, the second option.
->>>>>> Humans tend to have overpopulation only due to finding a new equilibrium with their environment.  In most cases, the groundwork is laid down in a culture that has a high birth rate due to high mortality.  When that culture transitions to a safer environment, via technological advancement and/or destruction of its mortal threats, it tends to take awhile for the cultural need for large numbers of children to lessen.  During that time it suffers from overpopulation issues.  Once the need dies down, however, a more reasonable balance is made.
->>>>>> This is why the birth rate is lower in more advanced countries.  They don't *need* as many children to replace their losses, because there aren't any, and life can be more about ends other than survival.
->>>>>> The same would occur in a hypothetical future or alien world that in any way follows similar principles of survival and advancement.  One COULD say that some alien race may not have the same groundwork, but doing so means the overpopulation argument doesn't either.
 >>>>>> 
+>>>>>> In nature, a balance is established due to the effects of predators and prey and resources, barring an invasive species.  In the case of the latter, it focuses more on the supply and demand side of necessary resources.  IE:  There will be a boom, then a bust, followed by smaller versions until parity is reached or the entire population dies off.  In a normal scenario its more of a see-saw effect.  These clearly don't work 100% of the time with sapient beings by dint of the fact that they are sapient.  Thus, the second option.
+>>>>>> 
+>>>>>> Humans tend to have overpopulation only due to finding a new equilibrium with their environment.  In most cases, the groundwork is laid down in a culture that has a high birth rate due to high mortality.  When that culture transitions to a safer environment, via technological advancement and/or destruction of its mortal threats, it tends to take awhile for the cultural need for large numbers of children to lessen.  During that time it suffers from overpopulation issues.  Once the need dies down, however, a more reasonable balance is made.
+>>>>>> 
+>>>>>> This is why the birth rate is lower in more advanced countries.  They don't *need* as many children to replace their losses, because there aren't any, and life can be more about ends other than survival.
+>>>>>> 
+>>>>>> The same would occur in a hypothetical future or alien world that in any way follows similar principles of survival and advancement.  One COULD say that some alien race may not have the same groundwork, but doing so means the overpopulation argument doesn't either.
 
->>>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>>>>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (4 days later)
 >>>>>>> 
 >>>>>>> Yes it is an oscillating process with its amplitude decreasing in time. But as you mentioned in the predators and prey system, if the swing is too big some population die of.  
-
+>>>>>>> 
 >>>>>>> I'm worried about the shape of the first bust. In that period human condition will deteriorate and we will live in poverty for decades. Human society needs a sizable number of professionals to function correctly, if new generations are too small, a sufficient number of professionals might not be available. This will lead to cascade effect where we produce even less resources to sustain itself and the bust keep going down to the Middle Ages.
->>>>>>> &#x200B;
->>>>>>> We need to implement the measures NOW so the swing is as little as possible.
+>>>>>>> 
 >>>>>>> &#x200B;
 >>>>>>> 
+>>>>>>> We need to implement the measures NOW so the swing is as little as possible.
+>>>>>>> 
+>>>>>>> &#x200B;
 
->>>> **u/dinoseen** [+1] *
+>>>> **u/dinoseen** [+1]  (18 hours later)
 >>>> 
 >>>> I don't even remember the gauntlet breaking at all... when did this happen?
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (19 hours later)
 >>>>> 
 >>>>> Right after the snap, it looked quite damaged. Thanos still managed to teleport himself, so it still functions at least a little bit, but it's not unreasonable to think that maybe it won't be able to anything on the level of the snap again.
->>>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (2 days later)
 >>>>> 
 >>>>> after the snap, when Thor asks Thanos "WHAT DID YOU DO?", we see that the Gauntlet is smoking and ruined. The Infinity stones are still ok, but the gauntlet itself seems to be pretty wrecked, so Thanos probably can't make anymore 'wishes'.
->>>>> 
 
->>>>> **u/RynnisOne** [+1] *
+>>>>> **u/RynnisOne** [+1]  (22 hours later)
 >>>>> 
 >>>>> The gauntlet itself seemed chipped and pitted from the experience, and the stones were glowing a little less brightly and seemed a bit rougher.  You see this at the very end when he's looking out over the new world he has figuratively created.
->>>>> 
 
->>> **u/RandomDamage** [+6] *
+>>> **u/RandomDamage** [+6]  (12 hours later)
 >>> 
 >>> Tunnel vision is something that happens to anyone, no matter how smart.  
-
->>> Thanos is already invested in this plan to the tune of trillions of murders the hard way, he's not going to rethink it when he has the perfect tool to implement his plan in his hand waiting to be used.
 >>> 
+>>> Thanos is already invested in this plan to the tune of trillions of murders the hard way, he's not going to rethink it when he has the perfect tool to implement his plan in his hand waiting to be used.
 
->>>> **u/dinoseen** [+6] *
+>>>> **u/dinoseen** [+7]  (13 hours later)
 >>>> 
 >>>> At this kind of scale? No, I think anyone that has made it as far as Thanos has is going to be smart enough to know that they should rethink their assumptions. The movie doesn't present Thanos as a functioning intelligence, he just does what the plot demands without adequate reasoning.
->>>> 
 
->>>>> **u/RandomDamage** [+5] *
+>>>>> **u/RandomDamage** [+5]  (a day later)
 >>>>> 
 >>>>> Being smart doesn't protect you from being wrong, and being wrong doesn't mean you aren't smart. He was driven by a primal fear, and his intelligence was subverted by it to work on justifying and executing his plan.
->>>>> Even nigh-immortal beings with godlike powers need to live with themselves, and trillions of murders is an awful big hit on a being's conscience.
 >>>>> 
+>>>>> Even nigh-immortal beings with godlike powers need to live with themselves, and trillions of murders is an awful big hit on a being's conscience.
 
->>>> **u/GeneralExtension** [+1] *
+>>>> **u/GeneralExtension** [+1]  (2 days later)
 >>>> 
 >>>> One could argue that the point isn't just killing half - half are still killed after they surrender. If a species doesn't surrender, they all die.
->>>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (13 hours later)
 >>> 
 >>> This so much. You have a power of a god, and your solution is to kill half the population? Why not create more planets for fucks sake? Movie Thanos is borderline retarded.
->>> 
 
->>>> **u/kozinc** [+2] *
+>>>> **u/kozinc** [+2]  (16 hours later)
 >>>> 
 >>>> Because, by his reckoning, that's just delaying the problem. (if I understood it right)
->>>> 
 
->>>>> **u/None** [+8] *
+>>>>> **u/None** [+8]  (19 hours later)
 >>>>> 
 >>>>> But doesn't doubling resources or halving population achieve the exact same thing?
->>>>> 
 
->>>>>> **u/derefr** [+3] *
+>>>>>> **u/derefr** [+3]  (a day later)
 >>>>>> 
 >>>>>> Steelmanning the Snap so that it works to achieve its goals: rather than doing anything instantaneously, it instead manifests as a demiurge that watches for every organism attempting to conceive children throughout time and space, and then will ensure a universe-wide One Child Policy on every plant and animal. (That is, it allows an organism to continue to pursue an R-selective strategy by creating as many children as it wants, as long as at most one of those children themselves reproduce. Any children beyond the first that *would* go on to reproduce, are instead retroactively erased from existence, so that they were never conceived, leaving only the ones that *won't* successfully reproduce alive.)
->>>>>> 
 
->>>>>>> **u/Veedrac** [+2] *
+>>>>>>> **u/Veedrac** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> This seems a heap too sophisticated to be true.
->>>>>>> 
 
->>>>>> **u/kozinc** [+1] *
+>>>>>> **u/kozinc** [+1]  (19 hours later)
 >>>>>> 
 >>>>>> I dunno what the Infinity glove is capable of. Maybe it's easier to destroy than it is to create?
->>>>>> 
 
->>>>>>> **u/None** [+3] *
+>>>>>>> **u/None** [+3]  (2 days later)
 >>>>>>> 
 >>>>>>> Perhaps, but that was never mentioned in the films.
->>>>>>> 
 
->>>>>> **u/GeneralExtension** [+1] *
+>>>>>> **u/GeneralExtension** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Unless it happens again. Repeatedly.
->>>>>> 
 
->>>>>>> **u/None** [+2] *
+>>>>>>> **u/None** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> Again, what it the difference? Population will also grow again.
->>>>>>> 
 
->>>>>>>> **u/GeneralExtension** [+1] *
+>>>>>>>> **u/GeneralExtension** [+1]  (2 days later)
 >>>>>>>> 
 >>>>>>>> So you just halve it again.
->>>>>>>> 
 
->>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (3 days later)
 >>>>>> 
 >>>>>> No. If you kill population, you collapse the society and make them know that a big purple daddy will get angry if they don't control their population grows again.
->>>>>> 
 
->>>>> **u/Trips-Over-Tail** [+2]  *Death of Crabs**
+>>>>> **u/Trips-Over-Tail** [+2]  *Death of Crabs* (17 hours later)
 >>>>> 
 >>>>> It would have rewritten the universe so that resources are generated at a rate that supports prosperous lifestyles for everyone and makes fertility unable to increase population beyond the level at which everyone is comfortably supported.
->>>>> 
 
->>> **u/ywecur** [+1]  *LessWrong (than usual)**
+>>> **u/ywecur** [+1]  *LessWrong (than usual)* (21 days later)
 >>> 
 >>> Not to mention the fact that killing half the universe only delays the same scenario for a few years. 
->>> But if you imagine that his solution would actually permanently work l think his motivations make sense. If he doubles the resources hes gonna have to do it again, and that's not a sustainable solution since, given enough time, he'll get defeated
 >>> 
+>>> But if you imagine that his solution would actually permanently work l think his motivations make sense. If he doubles the resources hes gonna have to do it again, and that's not a sustainable solution since, given enough time, he'll get defeated
 
->>>> **u/dinoseen** [+1] *
+>>>> **u/dinoseen** [+1]  (21 days later)
 >>>> 
 >>>> Just needs to set up an infinite expansion macro, then he's done.
->>>> 
 
->> **u/charlesrwest** [+3] *
+>> **u/charlesrwest** [+3]  (2 hours later)
 >> 
 >> Personally, I felt like the show was doing pretty well until they left the castle.
->> Decent conflict (elves vs humans), plans that make sense and almost work (moth) and good characterization. I found the last conversation between Verin and the king to be an awesome example of rolling 1 on a diplomacy check.  Verin went into the room waiting to literally give his life for the king and walked out pondering how to take over (plausibly too).
->> After leaving the castle and the elf attack resolving... Things started making a lot less sense and the conflict (where there was any) did seem pretty forced.  Also, Verin started doing things for the evulz for no apparent reason.
 >> 
+>> Decent conflict (elves vs humans), plans that make sense and almost work (moth) and good characterization. I found the last conversation between Verin and the king to be an awesome example of rolling 1 on a diplomacy check.  Verin went into the room waiting to literally give his life for the king and walked out pondering how to take over (plausibly too).
+>> 
+>> After leaving the castle and the elf attack resolving... Things started making a lot less sense and the conflict (where there was any) did seem pretty forced.  Also, Verin started doing things for the evulz for no apparent reason.
 
->>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>> **u/CouteauBleu** [+1]  *We are the Empire.* (a day later)
 >>> 
 >>> > I found the last conversation between Verin and the king to be an awesome example of rolling 1 on a diplomacy check.
->>> That's a nice way to put it. Whoops. 
->>> It's undercut by all the evil counterproductive shit he does later, though.
 >>> 
+>>> That's a nice way to put it. Whoops. 
+>>> 
+>>> It's undercut by all the evil counterproductive shit he does later, though.
 
->> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (3 days later)
 >> 
 >> I disagree with people saying that halting the population and doubling the resources are the same thing.  
 >> In case of resource increase populations will continue to grow undisturbed, and reach a point of failure again.
+>> 
 >> In case of massive genocide society will fucking collapse. Rebuilding will be much harder. Fuck the world called decimated come when 10% of a unit is destroyed making it no longer functional.  
-
+>> 
 >> This is not considering that Thanos plans on remaining around putting all the universe under the threat of genocide in a couple hundred years if needed. Single planet are highly motivated to insure population control policies if a giant maniac with unlimited powers is around.
->> &#x200B;
->> Also Infinite gauntlet is not infinite. Killing half population wrecked it. And destroying is easier then creating. I believe increasing resources would be beyond its powers.  
-
->> I strongly believe that continuous menace plus a demonstration of its ability to carry out the threats through mass genocide is the FASTEST way for Thanos to achieve his goals.  
-
+>> 
 >> &#x200B;
 >> 
+>> Also Infinite gauntlet is not infinite. Killing half population wrecked it. And destroying is easier then creating. I believe increasing resources would be beyond its powers.  
+>> 
+>> I strongly believe that continuous menace plus a demonstration of its ability to carry out the threats through mass genocide is the FASTEST way for Thanos to achieve his goals.  
+>> 
+>> &#x200B;
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (3 days later)
 >>> 
 >>> Oh yeah, that part of Thanos's plan is something I also find poorly thought out. There are probably tons of civilizations out there in the universe that are just going to go extinct, because they can't afford to lose half their people. Lose half of a modern society, and yeah, it's tough, but maybe we can still manage to make it through.
 >>> If half of you stone age tribe turns to dust, you're probably just wrecked.
->>> But I went on to explain my views on Thanos and his plan in much more depth, in other comment replies on this post. I think we actually agree on most stuff, but I just don't feel like retyping it all again.
 >>> 
+>>> But I went on to explain my views on Thanos and his plan in much more depth, in other comment replies on this post. I think we actually agree on most stuff, but I just don't feel like retyping it all again.
 
-> **u/ajuc** [+15] *
+> **u/ajuc** [+14]  (14 hours later)
 > 
 > Realistic villains are easy. Just take some system of values that your readers will strongly disagree with, and make the villains follow it.
-> > Good people who end up slaughtering thousands of innocents while cackling madly messed up somewhere along the way, and it’s hard to have that failure be logical
-> Remove the cackling, and this exact scenario happened millions of times in real life. See WW2, Balkan wars, Soviet cleansings, Hlodomor, Armenian genocide, American conquest of the Wild West, Japanese warcrimes in China, Belgian Congo, the list goes on.
 > 
+> > Good people who end up slaughtering thousands of innocents while cackling madly messed up somewhere along the way, and it’s hard to have that failure be logical
+> 
+> Remove the cackling, and this exact scenario happened millions of times in real life. See WW2, Balkan wars, Soviet cleansings, Hlodomor, Armenian genocide, American conquest of the Wild West, Japanese warcrimes in China, Belgian Congo, the list goes on.
 
->> **u/hailcapital** [+2] *
+>> **u/hailcapital** [+2]  (a day later)
 >> 
 >> I think "good people" is the operative phrase here.
->> 
 
->>> **u/ajuc** [+5] *
+>>> **u/ajuc** [+5]  (a day later)
 >>> 
 >>> Many of these were good people before. It's easy to be good when being evil doesn't pay. In modern society being actively evil makes no sense for most people. Big risks low rewards.
->>> But change conditions and a lot of good people become monsters.
 >>> 
+>>> But change conditions and a lot of good people become monsters.
 
-> **u/rabotat** [+13] *
+> **u/rabotat** [+13]  (49 minutes later)
 > 
 > I like your take and I mostly agree. However, I would like to offer a single bit of criticism, more of your style than substance.
-> At several points you re-word and reiterate something you already said.
-> Try to be a bit more concise.
 > 
+> At several points you re-word and reiterate something you already said.
+> 
+> Try to be a bit more concise.
 
->> **u/Silver_Swift** [+6] *
+>> **u/Silver_Swift** [+6]  (13 hours later)
 >> 
 >> > Try to be a bit more concise.
->> Echoing this. A 4000 word essay is _way_ to long for a reddit post.
 >> 
+>> Echoing this. A 4000 word essay is _way_ to long for a reddit post.
 
-> **u/JanusTheDoorman** [+10] *
+> **u/JanusTheDoorman** [+11]  (an hour later)
 > 
 > I'd list The Joker's portrayal in The Dark Knight. The movie spends a good amount of time contrasting his motives with run of the mill gangsters, and some people certainly entertain the idea that he's got a point about whether or not a person turns out good and evil depends on external pressures/circumstances, but he's still really transparently *fucking evil*.
-> There's also >!Kreia in Star Wars: Knights of the Old Republic II!<, who doesn't add tension by violently attempting to stop the heroes, but instead by constantly undercutting their belief that they're doing the right thing, and still, in the end, is *really fucking evil*.
 > 
+> There's also >!Kreia in Star Wars: Knights of the Old Republic II!<, who doesn't add tension by violently attempting to stop the heroes, but instead by constantly undercutting their belief that they're doing the right thing, and still, in the end, is *really fucking evil*.
 
->> **u/k5josh** [+8] *
+>> **u/k5josh** [+7]  (20 hours later)
 >> 
 >> Your spoiler is useless because I don't know what it's spoiling until I click on it.
->> 
 
->>> **u/throwaway234f32423df** [+13] *
+>>> **u/throwaway234f32423df** [+13]  (a day later)
 >>> 
 >>> Better play it safe & make sure you're fully caught up on all media.
->>> 
 
->>> **u/Dragonheart91** [+6] *
+>>> **u/Dragonheart91** [+4]  (a day later)
 >>> 
 >>> For anyone reading this, it's Star Wars: Knights of the Old Republic II.
->>> 
 
-> **u/Russelsteapot42** [+10] *
+> **u/Russelsteapot42** [+11]  (an hour later)
 > 
 > >!I remember watching the black wizard guy give the mission to kill the kids to his son, and just thinking 'from how this guy has been portrayed, there is approximately a 0.0% chance that he is actually going to kill the kids, and the wizard is an idiot for not seeing that.!<
-> 
 
->> **u/CouteauBleu** [+2]  *We are the Empire.**
+>> **u/CouteauBleu** [+2]  *We are the Empire.* (a day later)
 >> 
 >> Yeah, what the hell? What kind of moron asks his son to kill a kid he grew up with, for the sake of power the son clearly doesn't want?
->> 
 
-> **u/None** [+9] *
+> **u/None** [+9]  (2 hours later)
 > 
 > Not done reading yet. and it's probably just a case of semantics.
-> >When Darth Vader blows up a planet full of billions of people just to teach Princess Leia not to fuck with him, that’s realistic. 
-> That was Tarkin. Vader did a LOT of bad things but he wasn't the one who called for Alderaan specifically to be destroyed.
 > 
+> >When Darth Vader blows up a planet full of billions of people just to teach Princess Leia not to fuck with him, that’s realistic. 
+> 
+> That was Tarkin. Vader did a LOT of bad things but he wasn't the one who called for Alderaan specifically to be destroyed.
 
->> **u/None** [+23] *
+>> **u/None** [+23]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Nimelennar** [+8] *
+>>> **u/Nimelennar** [+9]  (12 hours later)
 >>> 
 >>> That's my take, as well.
+>>> 
 >>> I wouldn't even count Sauron as a villain.  He's a force of nature, and killed off-screen.
 >>> Vader didn't destroy any planets, and his character was redeemed by his love for his son.
 >>> Quirrel was frustrated by the stupidity of everyone around him (and who *hasn't* been frustrated by the incompetence of government?), and sees most of the good guys as enemies because he (reasonably) sees their conviction that people shouldn't live forever as a threat to his life.
->>> The best villains are the ones that are a dark reflection of the protagonist.  They're who the protagonist could be if they give into anger (Vader) or weren't brought up by loving, moral parents (Quirrel), or have a different concept of what "saving the universe" means (Thanos).
->>> Yes, they need to be an effective opposing force in order to make the conflict interesting, and yes, there needs to at least be the *appearance* of an irreconcilable difference between the antagonist's goals and/or methods and the protagonist's.  I haven't seen *The Dragon Prince*, so I can't comment to the effectiveness of the villains.
->>> But having the villain just be capital-E **Evil**, with no effort taken to give them existence beyond the fact that they need to be opposed, robs you of so much depth that could exist within the story, if you make who the villain is and what they want important to the story.
 >>> 
+>>> The best villains are the ones that are a dark reflection of the protagonist.  They're who the protagonist could be if they give into anger (Vader) or weren't brought up by loving, moral parents (Quirrel), or have a different concept of what "saving the universe" means (Thanos).
+>>> 
+>>> Yes, they need to be an effective opposing force in order to make the conflict interesting, and yes, there needs to at least be the *appearance* of an irreconcilable difference between the antagonist's goals and/or methods and the protagonist's.  I haven't seen *The Dragon Prince*, so I can't comment to the effectiveness of the villains.
+>>> 
+>>> But having the villain just be capital-E **Evil**, with no effort taken to give them existence beyond the fact that they need to be opposed, robs you of so much depth that could exist within the story, if you make who the villain is and what they want important to the story.
 
->>>> **u/derefr** [+6] *
+>>>> **u/derefr** [+5]  (a day later)
 >>>> 
 >>>> > I wouldn't even count Sauron as a villain. He's a force of nature, and killed off-screen. 
->>>> Yup. Having only watched the LotR movies, without reading the books (I know, I know), I actually can't answer the question of what Sauron *wanted*. His motivation was, IIRC, literally never stated in the movies. He's just... a bad guy. He wants the ring, but that's an instrumental goal. He wants to take over the world, but even *that's* an instrumental goal.
->>>> What would make Sauron *stop*? What would make him *satisfied*? What would make him go retire to a log cabin, like Thanos?
->>>> I don't know. And I don't *need* to know. Because Sauron isn't a character in the story of LotR. (He's a character in the *backstory*, but not the *story*.)
 >>>> 
+>>>> Yup. Having only watched the LotR movies, without reading the books (I know, I know), I actually can't answer the question of what Sauron *wanted*. His motivation was, IIRC, literally never stated in the movies. He's just... a bad guy. He wants the ring, but that's an instrumental goal. He wants to take over the world, but even *that's* an instrumental goal.
+>>>> 
+>>>> What would make Sauron *stop*? What would make him *satisfied*? What would make him go retire to a log cabin, like Thanos?
+>>>> 
+>>>> I don't know. And I don't *need* to know. Because Sauron isn't a character in the story of LotR. (He's a character in the *backstory*, but not the *story*.)
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (13 hours later)
 >>> 
 >>> The rest I agree, but Thanos was portrayed as complete imbecile. Acquire godlike power, solution to overpopulation is kill half the people? What in the actual fuck.
->>> 
 
->>>> **u/Silver_Swift** [+7] *
+>>>> **u/Silver_Swift** [+8]  (13 hours later)
 >>>> 
 >>>> They don't call Thanos 'The Mad Titan' because he rationally weighs his options before coming to a balanced decision. 
->>>> Thanos isn't trying to save the universe, not really, he is trying to "prove"  that his solution for saving Titan would have worked, if only people had listened to him. 
->>>> Granted, the movie could have done a whole lot more to make this clear, but there _is_ an interesting character there.
 >>>> 
+>>>> Thanos isn't trying to save the universe, not really, he is trying to "prove"  that his solution for saving Titan would have worked, if only people had listened to him. 
+>>>> 
+>>>> Granted, the movie could have done a whole lot more to make this clear, but there _is_ an interesting character there.
 
-> **u/Veedrac** [+8] *
+> **u/Veedrac** [+8]  (an hour later)
 > 
 > I agree in part: there *was* a lack of tension and threat. They need to be threatening, dangerous, competent, determined. I don't agree that the bad guy has to be evil, and I don't think much of your comment would change if you scrubbed that comment, so I don't think you've particularly argued for it.
-> 
 
-> **u/muns4colleg** [+9] *
+> **u/muns4colleg** [+8]  (3 hours later)
 > 
 > >Let’s talk theory before looking at the specific implementation in *The Dragon Prince*. While people praise the *idea*of complex, three-dimensional villains whose motives can’t be summed up as “because he’s evil,” the villains people actually praise are pretty damn evil. Sauron is basically just a big old pile of evil. Darth Vader blows up a planet for basically no reason. Agent Smith wants to wipe out humanity. Anton Chigurh is a psychopathic killer who murders someone just to test his makeshift gun.
-> I don't think this really supports any sort of larger theory about villains, for the simple reason that these are screen villains and actor presence and filmmaking can pull a hell of a lot of weight even when the writing slacks (though being well written in general helps too). Chigurh is Javier Bardem playing the creepiest robot person he possibly can. Vader has the mask, the voice, the cool lines, and the fight with Luke where he becomes an indomitable force of evil instead of just a big guy in a silly helmet. Hugo Weaving as Agent Smith is just a fun, wacky goofball with cool scenes where he spouts cod philosophy. Heath Ledger's Joker mentioned below is a fun and creepy synthesis of silly comic book villain and serial killer. Whether or not the evil of these characters is realistic is besides the point, because the trick is that they *become* interesting and cool and give the impression of a personality through execution. Something which is far less doable with prose (or even with animation) simply because the rules and toolset for film is different.
-> And... I don't really know who really consider's Sauron a great villain. I mean, he's a pretty good fantasy  visual shorthand for the abstract concept of evil. But he's hardly a villain in the sense that he's a character in the story.
-> The stuff about tension and the need for a threat to the heroes is fair enough. But it focuses too much on the in-story nitty-gritty of how they're a threat and misses the theatre and thematics of it. For Vader, the ultimate clincher of his status as a villain during the Bespin duel wasn't how much of a threat her was physically to Luke. It was how he turned the entire core of the story totally upside down with one line. He's so evil and so indomitable that even the entire concept of the hero fighting the villain crumbles in his grasp, leaving only Evil standing before a broken Luke, who allows himself to follow the shattered pieces of Good into the pit (also his redemption strengthens the arc as a whole after the fact by having Luke break down the hero/villain dichotomy in turn but that's another discussion).
-> This is why Thanos, despite very spotty writing is a pretty baller villain and has been received so well. Because he's an anthropomorphic representation of the question of how far a man will go to achieve a goal, and answers that question with ALL THE FUCKING WAY MOTHERFUCKER. He's the man who's will to do what he thinks must be done is so strong that Earth's mightiest heroes can't stand against it, and Josh Brolin crushes it selling that concept.
-> The problem here is that you're over focusing on the granular diagetic elements of a story and not enough on the thematics and execution that makes villains really memorable. All fiction is to some degree theatre, even if different mediums operate on different rules, and the best villains leverage that to do half the work for them.
 > 
+> I don't think this really supports any sort of larger theory about villains, for the simple reason that these are screen villains and actor presence and filmmaking can pull a hell of a lot of weight even when the writing slacks (though being well written in general helps too). Chigurh is Javier Bardem playing the creepiest robot person he possibly can. Vader has the mask, the voice, the cool lines, and the fight with Luke where he becomes an indomitable force of evil instead of just a big guy in a silly helmet. Hugo Weaving as Agent Smith is just a fun, wacky goofball with cool scenes where he spouts cod philosophy. Heath Ledger's Joker mentioned below is a fun and creepy synthesis of silly comic book villain and serial killer. Whether or not the evil of these characters is realistic is besides the point, because the trick is that they *become* interesting and cool and give the impression of a personality through execution. Something which is far less doable with prose (or even with animation) simply because the rules and toolset for film is different.
+> 
+> And... I don't really know who really consider's Sauron a great villain. I mean, he's a pretty good fantasy  visual shorthand for the abstract concept of evil. But he's hardly a villain in the sense that he's a character in the story.
+> 
+> The stuff about tension and the need for a threat to the heroes is fair enough. But it focuses too much on the in-story nitty-gritty of how they're a threat and misses the theatre and thematics of it. For Vader, the ultimate clincher of his status as a villain during the Bespin duel wasn't how much of a threat her was physically to Luke. It was how he turned the entire core of the story totally upside down with one line. He's so evil and so indomitable that even the entire concept of the hero fighting the villain crumbles in his grasp, leaving only Evil standing before a broken Luke, who allows himself to follow the shattered pieces of Good into the pit (also his redemption strengthens the arc as a whole after the fact by having Luke break down the hero/villain dichotomy in turn but that's another discussion).
+> 
+> This is why Thanos, despite very spotty writing is a pretty baller villain and has been received so well. Because he's an anthropomorphic representation of the question of how far a man will go to achieve a goal, and answers that question with ALL THE FUCKING WAY MOTHERFUCKER. He's the man who's will to do what he thinks must be done is so strong that Earth's mightiest heroes can't stand against it, and Josh Brolin crushes it selling that concept.
+> 
+> The problem here is that you're over focusing on the granular diagetic elements of a story and not enough on the thematics and execution that makes villains really memorable. All fiction is to some degree theatre, even if different mediums operate on different rules, and the best villains leverage that to do half the work for them.
 
-> **u/CouteauBleu** [+9]  *We are the Empire.**
+> **u/CouteauBleu** [+7]  *We are the Empire.* (8 hours later)
 > 
 > I think the problems with The Dragon Prince are a lot broader than "not wanting to commit to an evil villain"; though it *is* a problem: you can't have a guy who's trying his best to save the king's life in difficult circumstances, laying his own life on the line, and have the same guy try to kill the king's kids two days later.
-> There are a lot of problems in these series: poor pacing, poor sense of scale (why is the King's winter lodge a morning's walk away from his castle?), underwhelming stakes, etc.
-> But I think the big thing that keeps The Dragon Prince from working is that the writers have a poor understanding of prejudice. They seem to have this image where racism is something that happens almost by accident, and if we could just learn to tolerate each other everything would work out in the end.
-> The way this manifests is, we don't ever see the context of the characters' actions. The King mentions "wrongs on both sides", but we know that:
-> - The elves mass-deported the humans 1000 years ago.
-> - The humans (probably) murdered the Dragon King and stole his egg a few years ago (a decade tops).
-> And that's it.
-> What happened in between? What made the King think that attacking the Dragon King was a good idea? What's the balance of power between the human kingdoms and the magic kingdoms? Do elves bandits regularly perform raids across the border? Do humans? Did either kingdom try to invade the other at some point?
-> In short, why do these two kingdoms hate each other so much if they're completely separated? It can't be just the mass-deportation, it happened 1000 years ago; it would like if the French were still mad at the English for the Hundred Years' War.
-> So we have good guys who wants to return the Dragon Prince to stop a war, and a bad guy who wants to kill them and start his own war... except we're never shown what the benefits of that should be! Humans have had 1000 years to settle their part of the continent, which overall looks quite livable except for the lower amounts of magic. We're shown no reason why invading the magic kingdoms would be anything other than a very costly bad idea.
 > 
+> There are a lot of problems in these series: poor pacing, poor sense of scale (why is the King's winter lodge a morning's walk away from his castle?), underwhelming stakes, etc.
+> 
+> But I think the big thing that keeps The Dragon Prince from working is that the writers have a poor understanding of prejudice. They seem to have this image where racism is something that happens almost by accident, and if we could just learn to tolerate each other everything would work out in the end.
+> 
+> The way this manifests is, we don't ever see the context of the characters' actions. The King mentions "wrongs on both sides", but we know that:
+> 
+> - The elves mass-deported the humans 1000 years ago.
+> 
+> - The humans (probably) murdered the Dragon King and stole his egg a few years ago (a decade tops).
+> 
+> And that's it.
+> 
+> What happened in between? What made the King think that attacking the Dragon King was a good idea? What's the balance of power between the human kingdoms and the magic kingdoms? Do elves bandits regularly perform raids across the border? Do humans? Did either kingdom try to invade the other at some point?
+> 
+> In short, why do these two kingdoms hate each other so much if they're completely separated? It can't be just the mass-deportation, it happened 1000 years ago; it would like if the French were still mad at the English for the Hundred Years' War.
+> 
+> So we have good guys who wants to return the Dragon Prince to stop a war, and a bad guy who wants to kill them and start his own war... except we're never shown what the benefits of that should be! Humans have had 1000 years to settle their part of the continent, which overall looks quite livable except for the lower amounts of magic. We're shown no reason why invading the magic kingdoms would be anything other than a very costly bad idea.
 
->> **u/RynnisOne** [+6] *
+>> **u/RynnisOne** [+6]  (22 hours later)
 >> 
 >> We never really get a reason why the Elves would do that to the humans to begin with.
+>> 
 >> "Hey look, a Human invented Necromancy!  Guess it's time to make em walk the Trail of Tears!"  --Random elf guy.
 >> **Viewer shrugs in confusion.**
->> 
 
->>> **u/CouteauBleu** [+7]  *We are the Empire.**
+>>> **u/CouteauBleu** [+7]  *We are the Empire.* (a day later)
 >>> 
 >>> That too. What the hell, elves?
->>> If anything the story could have been a lot more visceral and interesting if it had taken place, say, 100 years after that, while humans were still getting adjusted and there was a prevalent "let's get our lands back" sentiment.
 >>> 
+>>> If anything the story could have been a lot more visceral and interesting if it had taken place, say, 100 years after that, while humans were still getting adjusted and there was a prevalent "let's get our lands back" sentiment.
 
->>> **u/Dragonheart91** [+2] *
+>>> **u/Dragonheart91** [+2]  (a day later)
 >>> 
 >>> Racism?
->>> 
 
->> **u/TargetBoy** [+2] *
+>> **u/TargetBoy** [+2]  (17 hours later)
 >> 
 >> > I think the problems with The Dragon Prince are a lot broader than "not wanting to commit to an evil villain"; though it is a problem: you can't have a guy who's trying his best to save the king's life in difficult circumstances, laying his own life on the line, and have the same guy try to kill the king's kids two days later.
->> I caught that part of the show when my son was watching it.  To me, it came across that the advisor had been corrupted by the magic he was doing and his loyalty to the king had been keeping him from tipping over to full evil.  Once he was put down by the king, then he lost that last anchor.
 >> 
+>> I caught that part of the show when my son was watching it.  To me, it came across that the advisor had been corrupted by the magic he was doing and his loyalty to the king had been keeping him from tipping over to full evil.  Once he was put down by the king, then he lost that last anchor.
 
->>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>> **u/CouteauBleu** [+3]  *We are the Empire.* (19 hours later)
 >>> 
 >>> Still weird and cliché.
->>> 
 
->>>> **u/TargetBoy** [+1] *
+>>>> **u/TargetBoy** [+1]  (19 hours later)
 >>>> 
 >>>> It's a kids show, that's kind of what they do.
->>>> 
 
->>>>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>>>> **u/CouteauBleu** [+3]  *We are the Empire.* (a day later)
 >>>>> 
 >>>>> Yeah, but it was advertising itself as complex and political; with the phrase "wrongs on both sides" prominent in the trailers; and it's diffused on Netflix, which means they're targeting mature-ish audiences.
->>>>> Besides, it's still a missed opportunity. Cartoons can tell ranges of stories that aren't available in live-actions. I'm sick of these stories being dumbed down because people assume kids/teens can't tell the difference.
 >>>>> 
+>>>>> Besides, it's still a missed opportunity. Cartoons can tell ranges of stories that aren't available in live-actions. I'm sick of these stories being dumbed down because people assume kids/teens can't tell the difference.
 
->> **u/hailcapital** [+1] *
+>> **u/hailcapital** [+1]  (a day later)
 >> 
 >> maybe the elves have oil
->> 
 
-> **u/matcn** [+7] *
+> **u/matcn** [+6]  (3 hours later)
 > 
 > Nice post! Have a mostly-tangential comment.
-> Lately I've spent a lot of time thinking about Daniel Ellsberg's [The Doomsday Machine](https://www.amazon.com/Doomsday-Machine-Confessions-Nuclear-Planner/dp/1608196704/ref=sr_1_1?ie=UTF8&qid=1539293405&sr=8-1&keywords=the+doomsday+machine+daniel+ellsberg&dpID=41%252BmzqktiML&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch). The author was a RAND consultant working on nuclear war planning in the '50s and early '60s, and the book describes how he, his colleagues, and the US military decided on hugely risky war plans for what seemed like good ideas at the time. One highlight: the Joint Chiefs of Staff deliberately hid their nuclear war plan from civilian authority, because their plan was basically "as soon as US and Russian forces interact at all, we launch all nuclear forces immediately against both Russia and China". What business did a goddam civilian have, telling battle-hardened veterans of the US military how to conduct a war?
-> An especially chilling part is when Ellsberg requests a bunch of details from military planners, knowing they'll be uncomfortable giving him a straight answer. Indeed, it's mostly met with radio silence. The only response he gets is about casualties; they've already got the calculations, and they predict the plan will kill 500 million people if carried out. (They didn't know about nuclear winter at the time, so this was an underestimate.) Sober men, men whose intellect and principles Ellsberg had come to respect, had calculated out that number and decided it was a necessary risk. They, after all, were the guards on the wall between civilization and obliteration, men who had to make hard decisions in the face of a totalitarian existential threat.
-> I think there's a lot of viewpoints out there that have cackling-madman consequences without being FOR THE EVULZ.
-> (Oh, and if you're interested in the book, there's also a great [interview with the author](https://80000hours.org/podcast/episodes/daniel-ellsberg-doomsday-machines/) (+transcript!) on the 80K website.)
 > 
+> Lately I've spent a lot of time thinking about Daniel Ellsberg's [The Doomsday Machine](https://www.amazon.com/Doomsday-Machine-Confessions-Nuclear-Planner/dp/1608196704/ref=sr_1_1?ie=UTF8&qid=1539293405&sr=8-1&keywords=the+doomsday+machine+daniel+ellsberg&dpID=41%252BmzqktiML&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch). The author was a RAND consultant working on nuclear war planning in the '50s and early '60s, and the book describes how he, his colleagues, and the US military decided on hugely risky war plans for what seemed like good ideas at the time. One highlight: the Joint Chiefs of Staff deliberately hid their nuclear war plan from civilian authority, because their plan was basically "as soon as US and Russian forces interact at all, we launch all nuclear forces immediately against both Russia and China". What business did a goddam civilian have, telling battle-hardened veterans of the US military how to conduct a war?
+> 
+> An especially chilling part is when Ellsberg requests a bunch of details from military planners, knowing they'll be uncomfortable giving him a straight answer. Indeed, it's mostly met with radio silence. The only response he gets is about casualties; they've already got the calculations, and they predict the plan will kill 500 million people if carried out. (They didn't know about nuclear winter at the time, so this was an underestimate.) Sober men, men whose intellect and principles Ellsberg had come to respect, had calculated out that number and decided it was a necessary risk. They, after all, were the guards on the wall between civilization and obliteration, men who had to make hard decisions in the face of a totalitarian existential threat.
+> 
+> I think there's a lot of viewpoints out there that have cackling-madman consequences without being FOR THE EVULZ.
+> 
+> (Oh, and if you're interested in the book, there's also a great [interview with the author](https://80000hours.org/podcast/episodes/daniel-ellsberg-doomsday-machines/) (+transcript!) on the 80K website.)
 
-> **u/Wolydarg** [+6] *
+> **u/Wolydarg** [+4]  (3 hours later)
 > 
 > I really like your post! It made me think a lot about my favorite villains. I don't know if I agree with villains NEEDING to be evil to be interesting. 
-> For Thanos, I don't think he was necessarily a dumb guy with no personality. His nickname was the Mad Titan, mad as in insane. And he literally was courting Death, who has a physical manifestation in the Marvel comics universe. 
-> Sorry it's hard to keep track of what I want to say by typing on a phone. My thoughts are everywhere here. I think I just started agreeing that his role as a father was pretty distracting to the plot as I was typing. 
-> However, as some other counter examples of villains who weren't evil being done well:
-
-> Watchmen >!I think the villain I liked most growing up had to be Ozymandias, who was a hero. According to the author, Rorschach was meant to be horrifying to the readers as someone who was unable to compromise. Ozymandias, always had the good of the world as an end goal, and ended with him ~~temporarily~~ succeeding.!<
-> The musical *Wicked* was pretty mind blowing for me as a kid, too. In that story the villains are the heroes in *The Wizard of Oz*. Actually I don't remember much about the story besides the awesome soundtrack. But that's another story where the Villain isn't a BBEG, and does it well.
-> Again, I really like how your post got me thinking, thanks for sharing!
 > 
+> For Thanos, I don't think he was necessarily a dumb guy with no personality. His nickname was the Mad Titan, mad as in insane. And he literally was courting Death, who has a physical manifestation in the Marvel comics universe. 
+> 
+> Sorry it's hard to keep track of what I want to say by typing on a phone. My thoughts are everywhere here. I think I just started agreeing that his role as a father was pretty distracting to the plot as I was typing. 
+> 
+> However, as some other counter examples of villains who weren't evil being done well:
+> 
+> Watchmen >!I think the villain I liked most growing up had to be Ozymandias, who was a hero. According to the author, Rorschach was meant to be horrifying to the readers as someone who was unable to compromise. Ozymandias, always had the good of the world as an end goal, and ended with him ~~temporarily~~ succeeding.!<
+> 
+> The musical *Wicked* was pretty mind blowing for me as a kid, too. In that story the villains are the heroes in *The Wizard of Oz*. Actually I don't remember much about the story besides the awesome soundtrack. But that's another story where the Villain isn't a BBEG, and does it well.
+> 
+> Again, I really like how your post got me thinking, thanks for sharing!
 
->> **u/LiteralHeadCannon** [+6] *
+>> **u/LiteralHeadCannon** [+7]  (4 hours later)
 >> 
 >> IIRC, *Wicked* actually has an extremely simple black-and-white morality; it's just mostly inverted from the original story.  The Wizard is absolutely portrayed as an evil antagonist figure and Elphaba is absolutely portrayed as a heroic protagonist figure.  It's more thematically about how the winners write history than about morality being grey.
->> 
 
->>> **u/Mowtom_** [+5] *
+>>> **u/Mowtom_** [+5]  (5 hours later)
 >>> 
 >>> See this is why I like the book better.   The book definitely does not portray Elphaba as a heroic protagonist.
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (13 hours later)
 >> 
 >> You're mixing up comic books and movie Thanos. Movie thanos is solving overpopulation problems by killing people...
->> 
 
-> **u/LunarTulip** [+5] *
+> **u/LunarTulip** [+5]  (22 hours later)
 > 
 > It's odd reading this, because my favorite characters in The Dragon Prince were actually the villains. Which, like... I guess that indicates a failure insofar as I was supposed to be more invested than I am in the heroes' success, but honestly, watching Viren trying to salvage the political mess he'd been left with and watching his kids struggling with the orders he gave them got me way more invested in things than watching the heroes arguing with each other and then cleaning up the resulting messes did. If the villain-POV sections had been cut out of the show except where directly relevant to the heroes' experiences, I'd be much less likely than I in fact am to go on to the second season when it comes out. So on my view the show's villains were written extremely well, although I'll grant that the narrative suffered from the degree to which it treated Viren as an Obvious Villain Figure even before he started doing anything particularly evil.
-> Separately from the Dragon Prince-specific case you made, on which my view seems to be outlierly judging by everyone else's comments here, I've got another counterexample against your case for definitively-evil villains being important: Magical Girl Lyrical Nanoha.
-> &#x200B;
-> (**Mild spoilers for Nanoha follow; anyone who wants to see it and is particularly sensitive to spoilers, turn away now.**)
-> &#x200B;
-> Nanoha is a particularly action-focused magical girl show, featuring excellent fight scenes and excellent characters; it's pretty much exactly the sort of source material your various examples above were drawn from. The first season worked basically according to the model you've laid out, with a highly sympathetic non-evil antagonist working for a much-more-evil-but-still-well-characterized-and-not-just-a-personality-void antagonist, and with the latter providing driving plot force when the former falters.
-> But then there's the second season, which is widely considered to be better than the first. The second season dispenses with that model, instead having no evil antagonists at all, just various groups of sympathetic antagonists reacting to a lousy situation which was established centuries prior. There's one group of sympathetic antagonists who are running on lousy information while trying to save the life of another sympathetic character; there's another group of sympathetic antagonists whose plan involves sacrificing a few innocent lives in order to destroy an artifact which kills large numbers of people on a regular basis; there's the artifact itself, which is sapient and actually hates the killing-large-numbers-of-people-on-a-regular-basis thing, but is corrupted in such a way as to be unable to stop; and then there's the artifact's self-defense system, which is the ultimate cause of the whole mess (or at least the ultimate cause that's directly relevant to the plot, its creator presumably being long dead) and is barely even sentient and thus not really evil in any way worth mentioning.
-> And all of these forces colliding with each other and with the heroes creates plenty of conflict for the season, with no need to bring in any more straightforwardly evil villains. The role of the antagonist-that-ultimately-drives-everything is instead played by the barely-sentient self-defense system. It works extremely well, being the best season of the show in the eyes of a large fraction of the fandom. (The remainder mostly like the third season best, for reasons I don't really understand.)
-> &#x200B;
-> (**End of mild Nanoha spoilers.**)
-> &#x200B;
-> In light of the example of Nanoha's second season, I think your model is too narrow. I'll happily grant that unambiguously-evil villains can be realistic and can do a lot to improve narratives lacking in driving threats, but I think you're going too far when you reject narratives which omit them, even just within the space of the action-driven narratives you're focusing on. The protagonists need a strong threat to work against, yes, but appropriate threats can equally be non-sapient forces of nature, or well-intentioned opponents acting due to misunderstandings, or well-intentioned opponents who *actually have reasonable points* working against protagonists doing stupid risky things, or dozens of other sorts of non-evil threats. All that's necessary is that there be *some* sort of intimidatingly-powerful force gunning for the protagonists whose defeat will be followed either with the introduction of a new serious threat or with the conclusion of the story.
 > 
+> Separately from the Dragon Prince-specific case you made, on which my view seems to be outlierly judging by everyone else's comments here, I've got another counterexample against your case for definitively-evil villains being important: Magical Girl Lyrical Nanoha.
+> 
+> &#x200B;
+> 
+> (**Mild spoilers for Nanoha follow; anyone who wants to see it and is particularly sensitive to spoilers, turn away now.**)
+> 
+> &#x200B;
+> 
+> Nanoha is a particularly action-focused magical girl show, featuring excellent fight scenes and excellent characters; it's pretty much exactly the sort of source material your various examples above were drawn from. The first season worked basically according to the model you've laid out, with a highly sympathetic non-evil antagonist working for a much-more-evil-but-still-well-characterized-and-not-just-a-personality-void antagonist, and with the latter providing driving plot force when the former falters.
+> 
+> But then there's the second season, which is widely considered to be better than the first. The second season dispenses with that model, instead having no evil antagonists at all, just various groups of sympathetic antagonists reacting to a lousy situation which was established centuries prior. There's one group of sympathetic antagonists who are running on lousy information while trying to save the life of another sympathetic character; there's another group of sympathetic antagonists whose plan involves sacrificing a few innocent lives in order to destroy an artifact which kills large numbers of people on a regular basis; there's the artifact itself, which is sapient and actually hates the killing-large-numbers-of-people-on-a-regular-basis thing, but is corrupted in such a way as to be unable to stop; and then there's the artifact's self-defense system, which is the ultimate cause of the whole mess (or at least the ultimate cause that's directly relevant to the plot, its creator presumably being long dead) and is barely even sentient and thus not really evil in any way worth mentioning.
+> 
+> And all of these forces colliding with each other and with the heroes creates plenty of conflict for the season, with no need to bring in any more straightforwardly evil villains. The role of the antagonist-that-ultimately-drives-everything is instead played by the barely-sentient self-defense system. It works extremely well, being the best season of the show in the eyes of a large fraction of the fandom. (The remainder mostly like the third season best, for reasons I don't really understand.)
+> 
+> &#x200B;
+> 
+> (**End of mild Nanoha spoilers.**)
+> 
+> &#x200B;
+> 
+> In light of the example of Nanoha's second season, I think your model is too narrow. I'll happily grant that unambiguously-evil villains can be realistic and can do a lot to improve narratives lacking in driving threats, but I think you're going too far when you reject narratives which omit them, even just within the space of the action-driven narratives you're focusing on. The protagonists need a strong threat to work against, yes, but appropriate threats can equally be non-sapient forces of nature, or well-intentioned opponents acting due to misunderstandings, or well-intentioned opponents who *actually have reasonable points* working against protagonists doing stupid risky things, or dozens of other sorts of non-evil threats. All that's necessary is that there be *some* sort of intimidatingly-powerful force gunning for the protagonists whose defeat will be followed either with the introduction of a new serious threat or with the conclusion of the story.
 
-> **u/tjhance** [+4] *
+> **u/tjhance** [+4]  (a day later)
 > 
 > I think ATLA and Worm strike a good formula by having bad guys across the spectrum. Ozai is pure evil, and he serves an important story function, but he's not nearly the most memorable thing about ATLA. Zhao is pretty unmemorable, too. Zuko and Azula are the memorable bad guys. Zuko as the one who ultimately gets redeemed, and Azula as the kinda complex one who still ultimately doesn't.
-> Likewise Worm hits all across the board. Petty bad guys who are out for themselves. Racists. Forces of nature. >!Alien god thing.!< Corrupt organizations who think they're working for the greater good. Psychos. It's the super-evil ones (like the slaughter house nine, who honestly just aren't that complex*) that provide a lot of the stakes but the less evil ones that provide a lot of interesting philosophical moral conflict.
-> I think 'bad guys across the board' is generally a good formula.
-> That having been said, I also think Quirrell is one of the most successful instances of trying to make a bad guy who is simultaneously very complex and very evil all in one, which is pretty hard to pull off. His whole 'indifference' schtick really helps with that, I think. It allows him to go around doing a wide variety of things, sometimes even *good* things (being a competent teacher, helping fight bullies), while still effortlessly stepping into the role of a monster.
-> It also helps that much of Quirrell's philosophy, like his trademark jaded cynicism, is somewhat... tempting. And no, I don't mean that I'm tempted to go out and kill idiots for fun, but I am often tempted to just write off most of the human race as terrible and stupid. On the other hand, Thanos sucks. His life philosophy just isn't tempting at all. Thanos could have been good, maybe, if they had really dug into the cognitive failings that led him to this point (and in fact I see some discussion of here in this thread) but it just wasn't there in the movie.
-> (*) >!In some sense I think that was the point. Jack was ultimately a pretty shallow edge-lord, despite being 'the most in alignment with' his shard, but hey, guess what, the alien-god's plan to stop entropy by giving people super powers and having them fight was also pretty shallow.!<
 > 
+> Likewise Worm hits all across the board. Petty bad guys who are out for themselves. Racists. Forces of nature. >!Alien god thing.!< Corrupt organizations who think they're working for the greater good. Psychos. It's the super-evil ones (like the slaughter house nine, who honestly just aren't that complex*) that provide a lot of the stakes but the less evil ones that provide a lot of interesting philosophical moral conflict.
+> 
+> I think 'bad guys across the board' is generally a good formula.
+> 
+> That having been said, I also think Quirrell is one of the most successful instances of trying to make a bad guy who is simultaneously very complex and very evil all in one, which is pretty hard to pull off. His whole 'indifference' schtick really helps with that, I think. It allows him to go around doing a wide variety of things, sometimes even *good* things (being a competent teacher, helping fight bullies), while still effortlessly stepping into the role of a monster.
+> 
+> It also helps that much of Quirrell's philosophy, like his trademark jaded cynicism, is somewhat... tempting. And no, I don't mean that I'm tempted to go out and kill idiots for fun, but I am often tempted to just write off most of the human race as terrible and stupid. On the other hand, Thanos sucks. His life philosophy just isn't tempting at all. Thanos could have been good, maybe, if they had really dug into the cognitive failings that led him to this point (and in fact I see some discussion of here in this thread) but it just wasn't there in the movie.
+> 
+> (*) >!In some sense I think that was the point. Jack was ultimately a pretty shallow edge-lord, despite being 'the most in alignment with' his shard, but hey, guess what, the alien-god's plan to stop entropy by giving people super powers and having them fight was also pretty shallow.!<
 
-> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason* (48 minutes later)
 > 
 > I agree with a lot of what you said. I had the same thought when writing my own story, and one of my editors thought the villains were "cartoony" and "unrealistic".
 > However with the Dragon Prince it feels to me like maybe the danger and tension doesnt come from the advisor figure, but from *the protagonists themselves*. There's a reason the egg wasn't destroyed but instead hidden. That reason is obviously to keep humans safe. The dragon prince can be raised to care about humans or he can be used as leverage to negotiate with the magical races in a final ditch effort to save the humans. I fully expect a "nice job breaking it hero" big reveal moment at some point in the future. And there were already a bunch of people trying to find the princes and bring them back, and if they were caught their elf friend would have been in danger.
-> 
 
-> **u/Flashbunny** [+3] *
+> **u/Flashbunny** [+2]  (43 minutes later)
 > 
 > Very nice essay! I don't think I'll bother with *The Dragon Prince*.
-
+> 
 > One example that comes to mind is - 
 > >List your own examples in the comments. If I like yours, I’ll kill your whole family!
-> Oh hey I can't think of any, dang.
 > 
+> Oh hey I can't think of any, dang.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 days later)
 > 
 > >! The advicer/black mage looks later like an evil character in hiding. !< (hope that is how to make spoiler tags)
-> not sure if you mentioned it later, but since I disagree with the first premise I stopped reading.
-
-> the essay is too long to read it, especially if I think the premise is faulty. I probably wouldn't read it if it was about my fav. show.
-> You need a tl;dr
-
-> Still to prove your writing advice, write a story (maybe shorter than your essay) with a pure evil character and then change the villain parts so it is the kind of villain you think is less good.
-> Then make a story with the kind of villain you don't like and rewrite a version with an evil villain. (better ask another writer who believes the opposite)
-> Now publish those 4 versions and ask the readers to rate it. Compare results. (Maybe include metaanalysis like how long where readers on the page before voting or came back or...) 
-> After you know your measurements make a prediction for each measurement and what a failed pridiction meant...
-
-> Or write a 4000 essay why you are right.
 > 
+> not sure if you mentioned it later, but since I disagree with the first premise I stopped reading.
+> 
+> the essay is too long to read it, especially if I think the premise is faulty. I probably wouldn't read it if it was about my fav. show.
+> 
+> You need a tl;dr
+> 
+> Still to prove your writing advice, write a story (maybe shorter than your essay) with a pure evil character and then change the villain parts so it is the kind of villain you think is less good.
+> 
+> Then make a story with the kind of villain you don't like and rewrite a version with an evil villain. (better ask another writer who believes the opposite)
+> 
+> Now publish those 4 versions and ask the readers to rate it. Compare results. (Maybe include metaanalysis like how long where readers on the page before voting or came back or...) 
+> 
+> After you know your measurements make a prediction for each measurement and what a failed pridiction meant...
+> 
+> Or write a 4000 essay why you are right.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 days later)
 > 
 > I disagree. This may just apply to me and few other people, but I strongly prefer characters who are not pure evil, except in a few rare cases. In history, there are rarely actual pure evil. Hitler was anti-animal cruelty for example. The book series I think that does this best is A Song of Ice and Fire. The books do not have any clear villains besides a few smaller characters like slavers and insane killers. Most of the antagonists are anti-villains who do evil things, but also love their families and will do anything to protect their children. I think that's incredibly accurate to real history, where people do love their children and do anything for their children. And that makes sense with evo-psych too: As an animal, your primary goal above literally everything else should be to ensure the survival of your children.
-> I strongly disliked it when Viren said he'd prefer the egg over his son's life. You can be near morally bankrupt but still value the lives of your children, most people do.
-
-> As for my exceptions, I'd say there are a few pure evil people in the form of sadistic serial killers. Characters like the Joker or the Slaughter House 9 represent them. No major army-leading or nation-ruling people are pure evil though, you can't rise that high without someone realising you're pure evil and stopping you from advancing.
-> But that might be just my preference. What's realistic may not be what makes for the best stories in general after all.
 > 
+> I strongly disliked it when Viren said he'd prefer the egg over his son's life. You can be near morally bankrupt but still value the lives of your children, most people do.
+> 
+> As for my exceptions, I'd say there are a few pure evil people in the form of sadistic serial killers. Characters like the Joker or the Slaughter House 9 represent them. No major army-leading or nation-ruling people are pure evil though, you can't rise that high without someone realising you're pure evil and stopping you from advancing.
+> 
+> But that might be just my preference. What's realistic may not be what makes for the best stories in general after all.
 
-> **u/Morghus** [+1] *
+> **u/Morghus** [+1]  (an hour later)
 > 
 > Thanks for the great read! I agree with a lot of what you mentioned. It's one of the reasons that everything after the original star wars felt sorely lacking. There was no immediate threat and feeling of urgency in them. There's no big bad that makes your butt clench on behalf of the characters. There's a lot of melodrama and pausing, breathers that feel forced into the story for the sake of creating a connection with the characters
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 18
+* Score: 21
 
 * Created: 2020-04-18T17:24:11
 
@@ -12,38 +12,35 @@
 
 ### Comments:
 
-> **u/None** [+7] *
+> **u/None** [+6]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Bowbreaker** [+4]  *Solitary Locust**
+>> **u/Bowbreaker** [+3]  *Solitary Locust* (5 hours later)
 >> 
 >> I read it before the book excerpts were added and I must say I preferred it. The excerpts don't add almost anything to the story and they break the flow as you try to think of their meaning, which is hard to do without further context.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/true-name-raven** [+1] *
+>>>> **u/true-name-raven** [+1]  (3 days later)
 >>>> 
 >>>> I really liked them because they invited me to stop and think. This is r/rational, after all.
->>>> 
 
-> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+> **u/xamueljones** [+4]  *My arch-enemy is entropy* (5 hours later)
 > 
 > Can...can....can I opt out? I rather live poor than risk my life for riches and glory.
-> I know, I know. I'm a pathetic one-worlder, but gosh darn it! I never entered in the lottery while growing up, and I just don't have any experience with gambling like all of you rich sobs out there.
-> It might be silly and old-fashioned of me, but I reeeeally don't feel comfortable entering into any [lotteries](https://www.lesswrong.com/posts/vYsuM8cpuRgZS5rYB/lotteries-a-waste-of-hope) out there.
-> I'mma go and put my money into the stock market instead.
 > 
+> I know, I know. I'm a pathetic one-worlder, but gosh darn it! I never entered in the lottery while growing up, and I just don't have any experience with gambling like all of you rich sobs out there.
+> 
+> It might be silly and old-fashioned of me, but I reeeeally don't feel comfortable entering into any [lotteries](https://www.lesswrong.com/posts/vYsuM8cpuRgZS5rYB/lotteries-a-waste-of-hope) out there.
+> 
+> I'mma go and put my money into the stock market instead.
 
-> **u/sparr** [+2] *
+> **u/sparr** [+2]  (13 hours later)
 > 
 > typo: "and admiral" should be "an admirable"
-> 
 
 ---
 

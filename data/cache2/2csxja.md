@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/2csxja/dc_soon_i_will_be_invincible_austin_grossman/
-* Score: 21
+* Score: 20
 
 * Created: 2014-08-06T17:16:29
 
@@ -18,91 +18,92 @@ This is one of the most thorough deconstructions of the superhero genre I've rea
 
 ### Comments:
 
-> **u/libertarian_reddit** [+10] *
+> **u/libertarian_reddit** [+10]  (5 hours later)
 > 
 > I'm gonna trust your judgement dude. Metropolitan man was one of the best bits of superhero fic I've ever read.
-> 
 
->> **u/RMcD94** [+0] *
+>> **u/RMcD94** [+0]  (a day later)
 >> 
 >> In that position also, but with such a fantastic opener I feel like this book would have caught attention regardless, though I suppose it might have seemed a little Mary Suey/angsty teenage rebellion if we didn't know who was recommending it.
->> Edit: moved to new post
 >> 
+>> Edit: moved to new post
 
-> **u/Calsem** [+3] *
+> **u/Calsem** [+7]  (3 hours later)
 > 
 > Link's for everyone's convenience:
-> [Amazon](http://www.amazon.com/Soon-Invincible-Vintage-Austin-Grossman/dp/0307279863/ref=sr_1_1?s=books&ie=UTF8&qid=1407356091&sr=1-1&keywords=soon+i+will+be+invincible)
-> [Wikipedia](http://en.wikipedia.org/wiki/Soon_I_Will_Be_Invincible)
 > 
+> [Amazon](http://www.amazon.com/Soon-Invincible-Vintage-Austin-Grossman/dp/0307279863/ref=sr_1_1?s=books&ie=UTF8&qid=1407356091&sr=1-1&keywords=soon+i+will+be+invincible)
+> 
+> [Wikipedia](http://en.wikipedia.org/wiki/Soon_I_Will_Be_Invincible)
 
->> **u/autowikibot** [+3] *
+>> **u/autowikibot** [+3]  (3 hours later)
 >> 
 >> #####&#009;
+>> 
 >> ######&#009;
+>> 
 >> ####&#009;
 >>  [**Soon I Will Be Invincible**](https://en.wikipedia.org/wiki/Soon%20I%20Will%20Be%20Invincible): [](#sfw) 
->> ---
->> >___Soon I Will Be Invincible___ is a [novel](https://en.wikipedia.org/wiki/Novel) by [Austin Grossman](https://en.wikipedia.org/wiki/Austin_Grossman). It was published by [Pantheon Books](https://en.wikipedia.org/wiki/Pantheon_Books) and released on June 5, 2007. The novel uses two alternating first person narratives. One narrative is told from the point of view of *Fatale*, a female [cyborg](https://en.wikipedia.org/wiki/Cyborg) who is recruited by the superhero group *The New Champions* as they investigate the disappearance of superhero *CoreFire*. The other narrative is told from the point of view of *Dr. Impossible*, a supervillain who possesses super-human strength and intellect and suffers from Malign Hypercognition Disorder ("evil genius" syndrome), as he escapes from jail and makes his thirteenth attempt at taking over the world.
->> >====
->> >[**Image**](https://i.imgur.com/OZ60AJg.jpg) [^(i)](https://en.wikipedia.org/wiki/File:SIWBInvincilbe_US_Cover.jpg)
->> ---
->> ^Interesting: [^Austin ^Grossman](https://en.wikipedia.org/wiki/Austin_Grossman) ^| [^Pantheon ^Books](https://en.wikipedia.org/wiki/Pantheon_Books) ^| [^Superhero ^fiction](https://en.wikipedia.org/wiki/Superhero_fiction) ^| [^Doctor ^Impossible](https://en.wikipedia.org/wiki/Doctor_Impossible) 
->> ^Parent ^commenter ^can [^toggle ^NSFW](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cjitnot) ^or[](#or) [^delete](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cjitnot)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 >> 
+>> ---
+>> 
+>> >___Soon I Will Be Invincible___ is a [novel](https://en.wikipedia.org/wiki/Novel) by [Austin Grossman](https://en.wikipedia.org/wiki/Austin_Grossman). It was published by [Pantheon Books](https://en.wikipedia.org/wiki/Pantheon_Books) and released on June 5, 2007. The novel uses two alternating first person narratives. One narrative is told from the point of view of *Fatale*, a female [cyborg](https://en.wikipedia.org/wiki/Cyborg) who is recruited by the superhero group *The New Champions* as they investigate the disappearance of superhero *CoreFire*. The other narrative is told from the point of view of *Dr. Impossible*, a supervillain who possesses super-human strength and intellect and suffers from Malign Hypercognition Disorder ("evil genius" syndrome), as he escapes from jail and makes his thirteenth attempt at taking over the world.
+>> 
+>> >====
+>> 
+>> >[**Image**](https://i.imgur.com/OZ60AJg.jpg) [^(i)](https://en.wikipedia.org/wiki/File:SIWBInvincilbe_US_Cover.jpg)
+>> 
+>> ---
+>> 
+>> ^Interesting: [^Austin ^Grossman](https://en.wikipedia.org/wiki/Austin_Grossman) ^| [^Pantheon ^Books](https://en.wikipedia.org/wiki/Pantheon_Books) ^| [^Superhero ^fiction](https://en.wikipedia.org/wiki/Superhero_fiction) ^| [^Doctor ^Impossible](https://en.wikipedia.org/wiki/Doctor_Impossible) 
+>> 
+>> ^Parent ^commenter ^can [^toggle ^NSFW](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cjitnot) ^or[](#or) [^delete](http://www.np.reddit.com/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cjitnot)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 
-> **u/Timewinders** [+4] *
+> **u/Timewinders** [+4]  (an hour later)
 > 
 > I liked this book a lot. It was nice to see a supervillain who actually learns from some of his mistakes for once, and the humor was great too.
-> 
 
->> **u/SaintPeter74** [+3] *
+>> **u/SaintPeter74** [+3]  (5 hours later)
 >> 
 >> I loved it too, although I think that the point was less that he learned from his mistakes and more that he couldn't break himself of the habit of being a villain.  It felt to me like he didn't actually want to win, just to play.
->> 
 
->>> **u/Timewinders** [+2] *
+>>> **u/Timewinders** [+2]  (6 hours later)
 >>> 
 >>> I agree, that's why I said "some" and that's why he [Soon I Will Be Invincible] (#s "insisted on trying to take over the world again, and ended up losing. I don't think he just wanted to play, though, he also wanted to get revenge for his friend, didn't he? Then again, that might have taken some of his focus away from winning.") Still, he did improve on some of his methods such as [Soon I Will Be Invincible]  (#s "realizing that trying to use tech to win was pointless in a superhero world, so he used the Hammer to beat CoreFire with brute force even though he didn't like magic. Which side would win was not as predictable most superhero stories, which made the plot more enjoyable.")
->>> 
 
->>>> **u/RMcD94** [+1] *
+>>>> **u/RMcD94** [+1]  (2 days later)
 >>>> 
 >>>> Re: your second spoiler, wasn't it the opposite? It tells you otherwise quite clearly numerous times.
->>>> 
 
->>>>> **u/Timewinders** [+1] *
+>>>>> **u/Timewinders** [+1]  (2 days later)
 >>>>> 
 >>>>> Which point in the second spoiler?
->>>>> 
 
->>>>>> **u/RMcD94** [+1] *
+>>>>>> **u/RMcD94** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Last sentence
->>>>>> [WORKED OUT HOW TO SPOILERS](#s "Also at the end he should have just killed them all instead of imprisoning them...")
 >>>>>> 
+>>>>>> [WORKED OUT HOW TO SPOILERS](#s "Also at the end he should have just killed them all instead of imprisoning them...")
 
->>>>>>> **u/Timewinders** [+2] *
+>>>>>>> **u/Timewinders** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> [](#s "Well, the characters might have all expected that he would lose, but to me it wasn't certain what kind of superhero story it was until the end. And he did come very close to winning. Regarding the other point, I don't think he wanted to kill them. It's been a while since I read the book, though, so it could have just been another symptom of his disorder.")
->>>>>>> 
 
-> **u/RMcD94** [+3] *
+> **u/RMcD94** [+3]  (2 days later)
 > 
 > 22 hours later completely read it, kind of went downhill I have to say, I have to assume all the cliches were on purpose but I don't get their points. What was the point of the narnia references, I mean I know it's meant to be deconstruction but I'm not really sure that just making it really cliched is enough.
-> Also, I thought it was at least going to be consistent, it's mentioned he has perfect memory but then he forgets things (like cyborg's name), and I thought from the opening lines he would be omniscience or something but then he says he doesn't know how things have changed since he's been inside well, how the fuck does he know the number count of heroes?
-> I don't know, on a whole it just felt so *disappointing*
 > 
+> Also, I thought it was at least going to be consistent, it's mentioned he has perfect memory but then he forgets things (like cyborg's name), and I thought from the opening lines he would be omniscience or something but then he says he doesn't know how things have changed since he's been inside well, how the fuck does he know the number count of heroes?
+> 
+> I don't know, on a whole it just felt so *disappointing*
 
-> **u/aeschenkarnos** [+2] *
+> **u/aeschenkarnos** [+2]  (9 hours later)
 > 
 > Great book. The Grossmans are a very talented family, his brother Lev Grossman wrote the Magician series (an amazing Narnia/Harry Potter expy) and his sister Bathsheba Grossman makes mathematical art and sculptures.
-> 
 
-> **u/thakil** [+2] *
+> **u/thakil** [+2]  (a day later)
 > 
 > I liked this book, although I think I bigged it up a little in my head: I expected the plot to be more unpredictable than it ended up being.
-> 
 
 ---
 

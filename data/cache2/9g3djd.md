@@ -198,41 +198,41 @@ And as if on cue, Laura was interrupted by a persistent, forceful knock, and Car
 
 ### Comments:
 
-> **u/NanashiSaito** [+8] *
+> **u/NanashiSaito** [+8]  (3 minutes later)
 > 
 > This a continuation fic of [Ra](https://www.qntm.org/ra), by Sam Hughes, set roughly 30 years in the future. Obviously there are spoilers abound, so if you haven't read Ra, then don't read this.
-> This isn't a particularly happy story, if the first chapter is any indication.
 > 
+> This isn't a particularly happy story, if the first chapter is any indication.
 
->> **u/LemmaPrism** [+8] *
+>> **u/LemmaPrism** [+9]  (5 hours later)
 >> 
 >> Shouldn't you be warning people *before* they've read the first chapter?
->> Regarding the chapter itself, I think you need to make their identities at the start more clear. In particular, this line confused me.
->> >At least, he assumed it was her daughter, because they look exactly alike.
->> I thought it was hilarious because I perceived it as calling attention to Laura and Natalie being near-identical twins. But instead of being recognized as twins, the bartender mistook them for mother and daughter. This proved not to be the case, of course, but I think you need to make it immediately clear that this person is *not* Nat. As it is, it felt very jarring to have the-person-I-think-is-Nat speaking in a way that is completely wrong for Natalie.
->> Then there's Laura building some kind of ad hoc company that consists of selling her ideas (or is it mana? Exactly what she's doing is unclear) also seems off. Partly, I just don't think she'd be happy with writing spells for other people to profit from. But also, if she's going to be ambitious on any level, why this? The company she built is apparently predicated on desiring wealth, which she's never shown interest in before. Everything she's ever done was for a goal to the point that she didn't care about finishing her PhD and she didn't care about the pay at Hatt Group. Her new life isn't wholly inconsistent but I feel like you need to explain how or why she has come to pursue something that is so meaningless by comparison. What motivated her?
 >> 
+>> Regarding the chapter itself, I think you need to make their identities at the start more clear. In particular, this line confused me.
+>> 
+>> >At least, he assumed it was her daughter, because they look exactly alike.
+>> 
+>> I thought it was hilarious because I perceived it as calling attention to Laura and Natalie being near-identical twins. But instead of being recognized as twins, the bartender mistook them for mother and daughter. This proved not to be the case, of course, but I think you need to make it immediately clear that this person is *not* Nat. As it is, it felt very jarring to have the-person-I-think-is-Nat speaking in a way that is completely wrong for Natalie.
+>> 
+>> Then there's Laura building some kind of ad hoc company that consists of selling her ideas (or is it mana? Exactly what she's doing is unclear) also seems off. Partly, I just don't think she'd be happy with writing spells for other people to profit from. But also, if she's going to be ambitious on any level, why this? The company she built is apparently predicated on desiring wealth, which she's never shown interest in before. Everything she's ever done was for a goal to the point that she didn't care about finishing her PhD and she didn't care about the pay at Hatt Group. Her new life isn't wholly inconsistent but I feel like you need to explain how or why she has come to pursue something that is so meaningless by comparison. What motivated her?
 
->>> **u/NanashiSaito** [+3] *
+>>> **u/NanashiSaito** [+3]  (a day later)
 >>> 
 >>> The way I envision Laura's accumulation of wealth (which depending on if it fits in, I may go into more detail in a later chapter) is something like: the mana storage/transport company she talks about in Iceland becomes successful simply by virtue of the fact that no one else is (or can figure out how) to do it. Ed Hatt buys the company because he sees the potential to make even more money. Laura agrees, not because she cares about the money, but because she sees the opportunity to do more experiments and research on how to "break out". None of them pan out, but several of them are very novel and have serious business applications. Hatt buys the rights to them, always lowballing. Laura doesn't care enough to negotiate. 
->>> You are correct in that she's not happy. She's profoundly *unhappy*. She really doesn't care about money, she's just sort of fallen ass-backwards into it and doesn't know what to do with it. She's basically given up on the idea of breaking out of the simulation and now just sort of fucks around aimlessly.
 >>> 
+>>> You are correct in that she's not happy. She's profoundly *unhappy*. She really doesn't care about money, she's just sort of fallen ass-backwards into it and doesn't know what to do with it. She's basically given up on the idea of breaking out of the simulation and now just sort of fucks around aimlessly.
 
->>> **u/therealeconomoy** [+1] *
+>>> **u/therealeconomoy** [+1]  (a day later)
 >>> 
 >>> Have I gone crazy... are they not floating in space?
->>> 
 
->>>> **u/Killako1** [+5] *
+>>>> **u/Killako1** [+3]  (a day later)
 >>>> 
 >>>> I think this is the alt ending where >!Nat takes everything into Ra and everyone is uploaded.!<
->>>> 
 
-> **u/MaddoScientisto** [+3] *
+> **u/MaddoScientisto** [+3]  (6 hours later)
 > 
 > Consider me interested, I think the premise is interesting and the writing style is captivating, I want to see where this goes
-> 
 
 ---
 

@@ -18,10 +18,9 @@ If you've been considering writing a camouflage fic, consider the anniversary yo
 
 ### Comments:
 
-> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life* (7 days later)
 > 
 > /u/eliezeryudkowsky - Are you Eliezer Yudkowsky?  Or has the whole thing been an elaborate misdirection by David Monroe?
-> 
 
 ---
 

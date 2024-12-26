@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/n3wtft/d_monday_request_and_recommendation_thread/
-* Score: 41
+* Score: 45
 
 * Created: 2021-05-03T14:00:16
 
@@ -17,561 +17,547 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/netstack_** [+14] *
+> **u/netstack_** [+13]  (6 hours later)
 > 
 > I've been reading [Maybe I'm a Lion](https://forums.nrvnqsr.com/showthread.php/1870-Maybe-I-m-a-Lion-%28KnK-Prototype-Crossover%29), a Kara no Kyoukai/Prototype crossover, per a recommendation on one of the previous weekly threads. I can safely say that this is an excellent fusion between the insanely anime-spiritual-powers lore of the Nasuverse with the insanely western-military-chic elements of Prototype. 
-> I've enjoyed it much as I've enjoyed most of other batshit crazy crossovers such as [Shinji and Warhammer 40k](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/ShinjiAndWarhammer40K) (Evangelion + 40k, I don't even know how this is possible) or [Postnuptial Disagreements](https://www.fanfiction.net/s/8078340/1/Postnuptial-Disagreements) (Sekirei and Fate, which share much more in the way of aesthetic but still have wildly incompatible premises and characters). It's not that I don't enjoy more reasonable crossovers, but the absurdity of some of these combinations leads to some sort of emergent plotting that's so compelling.
-> Anyone have more obviously impossible crossovers that are better than they have any right to be?
-> ^wait ^is ^every ^40k ^crossover ^inherently ^absurd?
 > 
+> I've enjoyed it much as I've enjoyed most of other batshit crazy crossovers such as [Shinji and Warhammer 40k](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/ShinjiAndWarhammer40K) (Evangelion + 40k, I don't even know how this is possible) or [Postnuptial Disagreements](https://www.fanfiction.net/s/8078340/1/Postnuptial-Disagreements) (Sekirei and Fate, which share much more in the way of aesthetic but still have wildly incompatible premises and characters). It's not that I don't enjoy more reasonable crossovers, but the absurdity of some of these combinations leads to some sort of emergent plotting that's so compelling.
+> 
+> Anyone have more obviously impossible crossovers that are better than they have any right to be?
+> 
+> ^wait ^is ^every ^40k ^crossover ^inherently ^absurd?
 
->> **u/None** [+16] *
+>> **u/None** [+16]  (8 hours later)
 >> 
 >> Fullparagon has some completely insane multicrosses I enjoyed; I think [A Clash of Neets](https://forums.spacebattles.com/threads/a-clash-of-neets-asoiaf-x-konosuba.870913/) (ASoIaF+Konosuba Primary) is the best of them, but I did enjoy This Goddess must be Crazy (Konosuba+MHA) and The Melancholy of Kazuma Sato (Haruhi+Konosuba) as well.
+>> 
 >> [Maria Campbell of the Astral Clocktower](https://forums.spacebattles.com/threads/maria-campbell-of-the-astral-clocktower-hamefura-bloodborne-post-dark-souls-crossover-yes-really.870472/) (HameFura+Bloodborne) is also far better than its premise has any right to be.There are some arcs of it I enjoyed more than others but it's overall been a very positive experience to read it.
+>> 
 >> In the spirit of weird 40k Crossovers, there's [40,000 Years of Exalted Glory](https://forums.spacebattles.com/threads/40-000-years-of-exalted-glory-40k-exalted-fusion.930787/) (40k/Exalted) which is just starting out but seems to fit in this category.
+>> 
 >> Two more bizzarre premises I've also enjoyed reading are [The Countess](https://forums.spacebattles.com/threads/the-countess-complete-worm-the-count-of-monte-cristo-fusion-1815-au.813386/) (Worm/The Count of Monte Cristo) and
 >> [Katarina Claes and the Goblin on Fire](https://forums.spacebattles.com/threads/hp-hamefura-katarina-claes-and-the-goblin-on-fire.914040/) (HameFura + HP).
->> There are some other weird crossovers that nonetheless work out well, but most of them are dead, short, or a step down in weirdness so I'm not listing them with these, but if you enjoy them I can link more.
 >> 
+>> There are some other weird crossovers that nonetheless work out well, but most of them are dead, short, or a step down in weirdness so I'm not listing them with these, but if you enjoy them I can link more.
 
->>> **u/netstack_** [+1] *
+>>> **u/netstack_** [+1]  (8 hours later)
 >>> 
 >>> Thank you!
->>> Exalted is definitely prime material for this kind of fic due to the elaborate cosmology, power disparity, and general White Wolfiness. I'm not familiar with HameFura, but these also look really promising.
 >>> 
+>>> Exalted is definitely prime material for this kind of fic due to the elaborate cosmology, power disparity, and general White Wolfiness. I'm not familiar with HameFura, but these also look really promising.
 
->> **u/afreaknamedpete** [+7] *
+>> **u/afreaknamedpete** [+5]  (a day later)
 >> 
 >> Although it's a quest [Equestria: House of the Sun](https://forums.sufficientvelocity.com/threads/esquestria-the-house-of-the-sun-a-pony-cultist-experience.71721/#post-16913694) is an amazing crossover of two seemingly incompatible universes of MLP and Cultist Stimulator. It manages to somehow read like both, it has all the purple prose and lovecraftian themes of Cultists Stimulator but the actual characterization is pure MLP where the characters are recognizably the good aligned populace depicted in the show. Probably the best crossover quest I've ever read.
->> 
 
->> **u/BePatientImAcoustic** [+6] *
+>> **u/BePatientImAcoustic** [+6]  (a day later)
 >> 
 >> > Anyone have more obviously impossible crossovers
->> Dungeon Keeper + Sailor Moon: [Dungeon Keeper Ami](https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/)
->> Dark Souls + Puella Magi Madoka Magica: [Red Soul](https://forums.sufficientvelocity.com/threads/red-soul-story-only-thread-40-red-hair-60-daddy-issues.1425/)
->> Harry Potter + Naruto: [Itachi, is that a baby?](https://www.fanfiction.net/s/11634921/1/Itachi-Is-That-A-Baby) (crack warning, don't take it too seriously and it's a fun read)
->> MTG + PMMM + RWBY + MGLN + more: [Ignition](https://forums.sufficientvelocity.com/threads/ignition-mtg-multicross-planeswalker-pc.26099/reader/)
 >> 
+>> Dungeon Keeper + Sailor Moon: [Dungeon Keeper Ami](https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/)
+>> 
+>> Dark Souls + Puella Magi Madoka Magica: [Red Soul](https://forums.sufficientvelocity.com/threads/red-soul-story-only-thread-40-red-hair-60-daddy-issues.1425/)
+>> 
+>> Harry Potter + Naruto: [Itachi, is that a baby?](https://www.fanfiction.net/s/11634921/1/Itachi-Is-That-A-Baby) (crack warning, don't take it too seriously and it's a fun read)
+>> 
+>> MTG + PMMM + RWBY + MGLN + more: [Ignition](https://forums.sufficientvelocity.com/threads/ignition-mtg-multicross-planeswalker-pc.26099/reader/)
 
->>> **u/CaramilkThief** [+1] *
+>>> **u/CaramilkThief** [+1]  (3 days later)
 >>> 
 >>> Is Ignition good? I have it in my bookmarks but never got around to reading it.
->>> 
 
->>>> **u/BePatientImAcoustic** [+1] *
+>>>> **u/BePatientImAcoustic** [+1]  (3 days later)
 >>>> 
 >>>> Quite good initially, just okay after a while.
->>>> 
 
->> **u/AurelianoTampa** [+5] *
+>> **u/AurelianoTampa** [+4]  (9 hours later)
 >> 
 >> >I've been reading Maybe I'm a Lion, a Kara no Kyoukai/Prototype crossover, per a recommendation on one of the previous weekly threads. I can safely say that this is an excellent fusion between the insanely anime-spiritual-powers lore of the Nasuverse with the insanely western-military-chic elements of Prototype.
->> Fair warning, from someone who devoured this a few years ago - at least at the time, it was unfinished and seemed to have been dropped. It's a great ride but the abrupt end in the middle of a good arc ruined it for me. 
->> No idea if it's been picked back up; if it has, hopefully someone will comment, because I'd totally be up for re-reading it!
 >> 
+>> Fair warning, from someone who devoured this a few years ago - at least at the time, it was unfinished and seemed to have been dropped. It's a great ride but the abrupt end in the middle of a good arc ruined it for me. 
+>> 
+>> No idea if it's been picked back up; if it has, hopefully someone will comment, because I'd totally be up for re-reading it!
 
->>> **u/netstack_** [+5] *
+>>> **u/netstack_** [+6]  (13 hours later)
 >>> 
 >>> The last post linked from its index is from 2014, so I suspect it's right where you left it. That's a shame.
->>> 
 
-> **u/PastafarianGames** [+12] *
+> **u/PastafarianGames** [+10]  (2 days later)
 > 
 > I broke my personal rule against reading Worm fics to pick up "Just a Phase", and it was worth it. It's very wish-fulfilment-y, in that it has adults actually caring about the well-being of the children they're responsible for, but it's very (IMO) realistic in the extent to which the traumatized AU!Taylor is, well, shaped by her traumas.
-> Recommended.
 > 
+> Recommended.
 
->> **u/degenerate__weeb** [+12] *
+>> **u/degenerate__weeb** [+10]  (4 days later)
 >> 
 >> \>wish fulfillment  
 >> \>someone giving a shit
->> that's a pretty depressing bar for a wish.
->> I'd also rec the fic, as it's pretty well written. Hard to determine how rational it is given how Taylor's trauma has twisted her worldview. I guess she's rationally misanthropic?
->> also, lazylink [Just a Phase](https://archiveofourown.org/works/30186441/chapters/74376411)
 >> 
+>> that's a pretty depressing bar for a wish.
+>> 
+>> I'd also rec the fic, as it's pretty well written. Hard to determine how rational it is given how Taylor's trauma has twisted her worldview. I guess she's rationally misanthropic?
+>> 
+>> also, lazylink [Just a Phase](https://archiveofourown.org/works/30186441/chapters/74376411)
 
->>> **u/PastafarianGames** [+8] *
+>>> **u/PastafarianGames** [+8]  (4 days later)
 >>> 
 >>> I went to an abusive British-style boarding school for just long enough as a kid to still be scarred, let's just put it that way.
->>> 
 
-> **u/GaBeRockKing** [+21]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+21]  *Horizon Breach: http://archiveofourown.org/works/6785857* (55 minutes later)
 > 
 > Just read [Hench] (https://www.goodreads.com/en/book/show/49867430-hench) which is a story about a woman who's employed as a data scientist by supervillains. 
-> I had some disagreements with the themes of the work and how the author chose which roles to assign which characters, but given that I read this in one continuous four hour marathon, concede that it's well written and extremely engaging, which gets it my recommendation.
 > 
+> I had some disagreements with the themes of the work and how the author chose which roles to assign which characters, but given that I read this in one continuous four hour marathon, concede that it's well written and extremely engaging, which gets it my recommendation.
 
->> **u/netstack_** [+6] *
+>> **u/netstack_** [+6]  (5 hours later)
 >> 
 >> Have you read [Interviewing Leather](https://banter-latte.com/series/interviewing-leather-revised/)? It's a look into the world of B-list supervillains, their operations, and their henchmen. I remember enjoying it.
->> [Narbonic](http://narbonic.com/) sounds more like Hench in premise, but with a certain early-2000s-webcomic energy. Depending on how you feel about that you may enjoy it. I read a decent chunk and thought it was pretty well-made, though it didn't have enough of a longer arc going to really keep me interested.
 >> 
+>> [Narbonic](http://narbonic.com/) sounds more like Hench in premise, but with a certain early-2000s-webcomic energy. Depending on how you feel about that you may enjoy it. I read a decent chunk and thought it was pretty well-made, though it didn't have enough of a longer arc going to really keep me interested.
 
->>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (5 hours later)
 >>> 
 >>> Read interviewing leather; was pretty good. Ditto for narbonic, though I dropped that webcomic a few years back.
->>> 
 
->>>> **u/netstack_** [+2] *
+>>>> **u/netstack_** [+2]  (6 hours later)
 >>>> 
 >>>> I feel like there are other works in the "villain logistics" genre on the tip of my tongue. Probably Worm crackfic, but I can't quite remember.
->>>> 
 
->>> **u/Tenoke** [+2]  *Even the fuckin' trees walked in those movies**
+>>> **u/Tenoke** [+2]  *Even the fuckin' trees walked in those movies* (12 hours later)
 >>> 
 >>> Just read Interviewing Leather and it was a good rec. Definitely fits.
->>> 
 
->> **u/NTaya** [+4]  *Tzeentch**
+>> **u/NTaya** [+5]  *Tzeentch* (a day later)
 >> 
 >> Thanks for the rec. I loved the story a lot—the beginning and middle didn't feel very well-written, but they *really* ticked by boxes. It's hard to describe, but it was following *all* my expectations, even unreasonable ones that were detrimental to the story. It felt amazing, like, I dunno, prompting GPT-3 with something and getting *exactly* what you asked for, except that went for ⅔rds of the book. 
->> And then >!Anna and Leviathan didn't get together!<. It's perfectly reasonable, it's a realistic, rational resolution to the plot, it's in-character, but I was so used to this particular story bending to my whims even when it made it worse, such a twist felt like a punch in a gut. I'm incredibly mad. I literally had a meltdown over that, and I'm not even autistic. I normally wouldn't have reacted so strongly, but >!I've been starving for monster/human romance with intelligent characters, I even made a request in this thread a few weeks ago, and here *everything* was leading to it. There was an in-universe discussion, FFS!<! I understand that it's a sequel hook, but I have a suspicion that the sequel might blueball me as well, and there's no sequel atm anyway, so I'm in my bed seething for the third hour straight. 
->> Still, great story, thank you for the rec. Not sarcasm.
 >> 
+>> And then >!Anna and Leviathan didn't get together!<. It's perfectly reasonable, it's a realistic, rational resolution to the plot, it's in-character, but I was so used to this particular story bending to my whims even when it made it worse, such a twist felt like a punch in a gut. I'm incredibly mad. I literally had a meltdown over that, and I'm not even autistic. I normally wouldn't have reacted so strongly, but >!I've been starving for monster/human romance with intelligent characters, I even made a request in this thread a few weeks ago, and here *everything* was leading to it. There was an in-universe discussion, FFS!<! I understand that it's a sequel hook, but I have a suspicion that the sequel might blueball me as well, and there's no sequel atm anyway, so I'm in my bed seething for the third hour straight. 
+>> 
+>> Still, great story, thank you for the rec. Not sarcasm.
 
->> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (2 hours later)
 >> 
 >> Hm... What do you think was the worst thing about the story?
->> 
 
->>> **u/GaBeRockKing** [+16]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+15]  *Horizon Breach: http://archiveofourown.org/works/6785857* (4 hours later)
 >>> 
 >>> Objectively speaking, I sort of agree with /u/nakor28 that the ending/denouement was kind of  underwhelming. A sequel might fix this, though, and I know one is under way.
->>> Subjectively speaking, I had the oddest sense that the author was uncritically inverting the traditional gender stereotypes of SF works. Essentially all of the characters with agency are women, the main characters objectify men, and the male leads are the emotional, irrational ones while the female leads are the cool, collected ones.
->>> I'm not saying the main character is a mary sue-- she has believable flaws and failures. It made it seem like it had been written forty years past, critically regarded (and for good reason) but clearly a product of its time (but in an alternate universe where many of our gender stereotypes were flipped).
->>> Note that this complaint doesn't dominate the majority of the work; gender is hardly the focus of the novel. I just, personally, found it inescapable, but YMMV.
 >>> 
+>>> Subjectively speaking, I had the oddest sense that the author was uncritically inverting the traditional gender stereotypes of SF works. Essentially all of the characters with agency are women, the main characters objectify men, and the male leads are the emotional, irrational ones while the female leads are the cool, collected ones.
+>>> 
+>>> I'm not saying the main character is a mary sue-- she has believable flaws and failures. It made it seem like it had been written forty years past, critically regarded (and for good reason) but clearly a product of its time (but in an alternate universe where many of our gender stereotypes were flipped).
+>>> 
+>>> Note that this complaint doesn't dominate the majority of the work; gender is hardly the focus of the novel. I just, personally, found it inescapable, but YMMV.
 
->> **u/nakor28** [+3] *
+>> **u/nakor28** [+3]  (3 hours later)
 >> 
 >> I also read this in the past week or two and enjoyed it.  The basic premise is that "henches" are generally treated as low-level employees - at the beginning, the protagonist and a friend go to the local hench temp agency to apply for postings in their respective specialties.  
->> The latter part of the book felt rushed and the denouement was not particularly satisfying, but it was worthwhile.  I'll say 3.5/5, but I am a fairly harsh grader.
 >> 
+>> The latter part of the book felt rushed and the denouement was not particularly satisfying, but it was worthwhile.  I'll say 3.5/5, but I am a fairly harsh grader.
 
->> **u/Munchkingman** [+2] *
+>> **u/Munchkingman** [+2]  (13 hours later)
 >> 
 >> thanks for the rec, enjoyed it.
->> 
 
-> **u/Prestigious_Dealer83** [+13] *
+> **u/Prestigious_Dealer83** [+12]  (an hour later)
 > 
 > I'm looking for a story were the MC is overly critical of situations beforehand, sort of like the character L from death note or even harry potter. I find that a lot of stories lately  the MC is  rational on an as needed basis or employs cleverness only when in a tough situation. Like for an example, how a MC who is transported to a fantasy world and barely knows the world, would decide to go on a dungeon quest without knowing anything about dungeons and then run into some tough enemy. I figure someone like L would do a series of experiments beforehand and collect as much knowledge to make deductions about the situations and not just charge in because he's in love with some heroine only to run into some obstacle where in he would resort to a clever plan. I'm pretty new to the rational fic community so I haven't read much. I really liked time braid, metropolitan man, hpmor, and the terminator fan fic.
-> 
 
->> **u/netstack_** [+12] *
+>> **u/netstack_** [+12]  (5 hours later)
 >> 
 >> You'll likely enjoy a couple other community favorites, [Animorphs: the Reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning) and [On the Origin of Species](http://daystareld.com/pokemon/). Both have their characters explicitly stopping to think and *try and make the best decisions.* How successful they are at this depends on the level to which the deck was stacked against them...
->> The writing and worldbuilding in both are excellent, and I can think of several examples off the top of my head of characters going "let's think of all the ways this could go wrong, oh that one's pretty serious, screw this we aren't playing those odds."
 >> 
+>> The writing and worldbuilding in both are excellent, and I can think of several examples off the top of my head of characters going "let's think of all the ways this could go wrong, oh that one's pretty serious, screw this we aren't playing those odds."
 
->>> **u/BePatientImAcoustic** [+5] *
+>>> **u/BePatientImAcoustic** [+6]  (a day later)
 >>> 
 >>> Is Animorphs readable without having read the original book series? Is the original still worth reading, given that it's a bit old and I don't generally enjoy sci-fi?
->>> 
 
->>>> **u/netstack_** [+8] *
+>>>> **u/netstack_** [+6]  (2 days later)
 >>>> 
 >>>> I'd say r!Animorphs is readable without experience of the original, as it is well constructed. There are a lot of canon nods and hpmor-style, "oh, that's what would have to be true to make XYZ stupid canon thing possible" moments, but the plotting and worldbuilding should stand up well on its own.
->>>> On the other hand, I wouldn't recommend reading the originals in the absence of significant nostalgia. They're not too dated, but they were always written en masse for teenagers, so I don't think they are that great on their own.
 >>>> 
+>>>> On the other hand, I wouldn't recommend reading the originals in the absence of significant nostalgia. They're not too dated, but they were always written en masse for teenagers, so I don't think they are that great on their own.
 
->> **u/EdenicFaithful** [+21] *
+>> **u/EdenicFaithful** [+17]  (5 hours later)
 >> 
 >> [Mother of Learning](https://www.royalroad.com/fiction/21220/mother-of-learning) seems to be what you're looking for. Zorian spends several time loops pretending not to know anything just so he can observe.
->> You might enjoy the first season of *My Youth Romantic Comedy Is Wrong, As I Expected*, though the reasoning and character motivations can be obscure.
 >> 
+>> You might enjoy the first season of *My Youth Romantic Comedy Is Wrong, As I Expected*, though the reasoning and character motivations can be obscure.
 
->> **u/jtolmar** [+15] *
+>> **u/jtolmar** [+17]  (4 hours later)
 >> 
 >> Usually people skip Worth The Candle recs since everyone's already read it, but...
->> > I'm pretty new to the rational fic community so I haven't read much.
->> Worth The Candle drops the protagonist into a fantasy world, and the first thing he does is ignore an obvious call to adventure because he knows nothing and it looks too dangerous. Later on, he increasingly has time to talk through situations before diving in, though he also frequently gets shoved into situations he isn't prepared for. Also it's very good; fantastic prose, worldbuilding, and characterization, and actually has thematic layers that are explored.
->> (Worth noting: to preserve dramatic tension, WTC isn't structured as "[Detailed plan.] [Run through of actual event that's repetitive except where it diverges from the plan.]" but rather "We came up with a plan. [Action begins.] [Describe relevant part of plan.] [It works or doesn't.] [Continue.]")
 >> 
+>> > I'm pretty new to the rational fic community so I haven't read much.
+>> 
+>> Worth The Candle drops the protagonist into a fantasy world, and the first thing he does is ignore an obvious call to adventure because he knows nothing and it looks too dangerous. Later on, he increasingly has time to talk through situations before diving in, though he also frequently gets shoved into situations he isn't prepared for. Also it's very good; fantastic prose, worldbuilding, and characterization, and actually has thematic layers that are explored.
+>> 
+>> (Worth noting: to preserve dramatic tension, WTC isn't structured as "[Detailed plan.] [Run through of actual event that's repetitive except where it diverges from the plan.]" but rather "We came up with a plan. [Action begins.] [Describe relevant part of plan.] [It works or doesn't.] [Continue.]")
 
->>> **u/Prestigious_Dealer83** [+12] *
+>>> **u/Prestigious_Dealer83** [+10]  (6 hours later)
 >>> 
 >>> I'm currently on chp 66 of worth the candle. I'm just not getting the excitement with it that I got with other ratficts. Though the MC, Joon is rational, I find his rationalization more of a speculative nature rather than actively strategic. Don't get me wrong, I do still like the story and some of the thought provoking concepts the characters come up with. I particularly like the training arch with Joon and the druid solace and how he tries to rationalize her "unclear" system of magic. I do understand that Joon isn't a cheat the system type of guy
->>> 
 
->>> **u/netstack_** [+3] *
+>>> **u/netstack_** [+3]  (5 hours later)
 >>> 
 >>> Well, I can think of one exception: >!Unicorn bones.!< :)
->>> 
 
->> **u/ravnicrasol** [+5] *
+>> **u/ravnicrasol** [+5]  (17 hours later)
 >> 
 >> https://www.scribblehub.com/series/232188/of-pocket-monstergirls-and-tamers/
->> Warning: Second Person Perspective.
->> The main reason why I recommend it is because I wrote the story out of a quest I'd run some years back. Overall, the format tended to be for the players to have the cards and knowing them before they made their choices, so I think it fits with what you asked.
->> Protagonist is a normal human that very slowly but surely adapts to the new world he's been thrown in. The first few chapters are the weakest, but once he reaches civilization things start to roll.
 >> 
+>> Warning: Second Person Perspective.
+>> 
+>> The main reason why I recommend it is because I wrote the story out of a quest I'd run some years back. Overall, the format tended to be for the players to have the cards and knowing them before they made their choices, so I think it fits with what you asked.
+>> 
+>> Protagonist is a normal human that very slowly but surely adapts to the new world he's been thrown in. The first few chapters are the weakest, but once he reaches civilization things start to roll.
 
-> **u/None** [+14] *
+> **u/None** [+11]  (2 hours later)
 > 
 > [Conquest of Avalon](https://www.royalroad.com/fiction/42560/conquest-of-avalon) is on Royal Road now. Something I recced a few weeks back, and I'll copy a good review I saw on there to shill it:
-> > How does one deal with the conquest of their homeland? 
-> > The protagonists Fernan, Florette and Camille have to deal with this very question. Whether it be a fitting within the system and finding pockets of happiness; seeking the best of freedom away from a people who have seemingly accepted their existence; or attempts at reclaiming what was lost. Each of them have their own ways of looking forward and finding their way, and can we really say which one is the ultimate right?
-> > Conquest of Avalon is a story that does an amazing task of feeling both personal and broad. It has a revolving set of characters who are distinct from each other, yet each of them has a way of getting to your heart because you quickly understand who they are and why the do what they do; and a world that you can feel has a long history, given out in chunks that leave you wanting more instead of being too heavy. It brings with it a fleshed out magical world and system, while not forgetting that even a world of magic, people are still people and they have a way of interacting through politics.
-> > One of the best parts of the story is how the characters interact with said politics and how they interact with them in turn, reflecting their birth and thier outlooks on life.
-> > Conquest of Avalon is well worth the read. 
-> So yeah, check it out.
 > 
+> > How does one deal with the conquest of their homeland? 
+> 
+> > The protagonists Fernan, Florette and Camille have to deal with this very question. Whether it be a fitting within the system and finding pockets of happiness; seeking the best of freedom away from a people who have seemingly accepted their existence; or attempts at reclaiming what was lost. Each of them have their own ways of looking forward and finding their way, and can we really say which one is the ultimate right?
+> 
+> > Conquest of Avalon is a story that does an amazing task of feeling both personal and broad. It has a revolving set of characters who are distinct from each other, yet each of them has a way of getting to your heart because you quickly understand who they are and why the do what they do; and a world that you can feel has a long history, given out in chunks that leave you wanting more instead of being too heavy. It brings with it a fleshed out magical world and system, while not forgetting that even a world of magic, people are still people and they have a way of interacting through politics.
+> 
+> > One of the best parts of the story is how the characters interact with said politics and how they interact with them in turn, reflecting their birth and thier outlooks on life.
+> 
+> > Conquest of Avalon is well worth the read. 
+> 
+> So yeah, check it out.
 
->> **u/BavarianBarbarian_** [+9] *
+>> **u/BavarianBarbarian_** [+11]  (2 hours later)
 >> 
 >> Huh, funny, it's written by the guy who wrote [that Worm/Count of Monte Cristo fusion](https://forums.spacebattles.com/threads/the-countess-complete-worm-the-count-of-monte-cristo-fusion-1815-au.813386/), with Taylor as the Count, Emma as De Villefort. Sounds insane but really works, probably because the themes of betrayal and becoming a badass from early Worm map to the Count so well.
->> 
 
->>> **u/netstack_** [+5] *
+>>> **u/netstack_** [+6]  (5 hours later)
 >>> 
 >>> This sounds amazing just from the tagline. Thanks.
->>> 
 
->> **u/RKDescartes** [+5] *
+>> **u/RKDescartes** [+6]  (21 hours later)
 >> 
 >> The premise here reminds me very strongly of the Farsala trilogy. A conquered kingdom with three viewpoint characters struggling against it. It's more YA/coming-of-age than rational, but I still enjoyed it.
->> 
 
-> **u/Missing_Minus** [+5]  *Please copy my brain**
+> **u/Missing_Minus** [+6]  *Please copy my brain* (10 hours later)
 > 
 > I've been interested in seeing an Overlord fanfiction that has him try to compensate for the emotion suppressor, which seems to make him far more willing to do actions that he'd likely find immoral otherwise; or just a story where he doesn't have that.   
 > Not sure how that would progress, especially if you have him still valuing all the other residents of Nazarick quite highly, but could be interesting.  
-> Only somewhat related (as in, Overlord) would be me reccing: [Godsfall](https://www.fanfiction.net/s/11985087/1/Godsfall). It has been a while since I read it, but essentially the residents of Nazarick went to the other world without any of their 'supreme beings'. I remembered enjoying it, but unsure how rational it is.
 > 
+> Only somewhat related (as in, Overlord) would be me reccing: [Godsfall](https://www.fanfiction.net/s/11985087/1/Godsfall). It has been a while since I read it, but essentially the residents of Nazarick went to the other world without any of their 'supreme beings'. I remembered enjoying it, but unsure how rational it is.
 
->> **u/gramineous** [+4] *
+>> **u/gramineous** [+4]  (19 hours later)
 >> 
 >> Oh neat, I've been meaning to look into Overlord fic for yonks now.
->> Always thought a rational take on Overlord would be interesting given how much Momonga/Ainz tries to fit himself into his role, and thus completely glosses over the whole "the former npcs apparently have memories of conversations overheard while they were npcs" and how could they possibly reconcile their past memories with their current capacity for agency?
 >> 
+>> Always thought a rational take on Overlord would be interesting given how much Momonga/Ainz tries to fit himself into his role, and thus completely glosses over the whole "the former npcs apparently have memories of conversations overheard while they were npcs" and how could they possibly reconcile their past memories with their current capacity for agency?
 
-> **u/CaramilkThief** [+13] *
+> **u/CaramilkThief** [+14]  (8 hours later)
 > 
 > Any stories where the mc is just a normal person, and gets to or exceeds the level of competence as their peers through hard work? I'm thinking something similar to The Rage of Dragons by Evan Winter, or Mother of Learning.
-> 
 
->> **u/GlueBoy** [+7]  *anti-skub**
+>> **u/GlueBoy** [+8]  *anti-skub* (9 hours later)
 >> 
 >> House of Blades trilogy sounds like exactly what you're asking for. About the chosen one's unexceptional friend who gets left behind and has to get power the hard way in other to get revenge. By the author of Cradle.
->> 
 
->>> **u/CaramilkThief** [+4] *
+>>> **u/CaramilkThief** [+4]  (10 hours later)
 >>> 
 >>> Thanks, but already read it. I'm also caught up on cradle, which is similar.
->>> 
 
->>>> **u/GlueBoy** [+6]  *anti-skub**
+>>>> **u/GlueBoy** [+6]  *anti-skub* (14 hours later)
 >>>> 
 >>>> I need to look twice at people's names, sorry.
->>>> 
 
->>>>> **u/CaramilkThief** [+4] *
+>>>>> **u/CaramilkThief** [+3]  (a day later)
 >>>>> 
 >>>>> No problem. Here's two more I've read that are similar.
->>>>> * Going Native by Ideasguy, DBZ and DC crossover. Human reincarnated as saiyan, has to do lots of catching up with saiyan power levels.
->>>>> * Apocalypse: Generic System. Mentioned here several times before. Not as much hard work as gaming the system, but still applies imo.
 >>>>> 
+>>>>> * Going Native by Ideasguy, DBZ and DC crossover. Human reincarnated as saiyan, has to do lots of catching up with saiyan power levels.
+>>>>> 
+>>>>> * Apocalypse: Generic System. Mentioned here several times before. Not as much hard work as gaming the system, but still applies imo.
 
-> **u/RMcD94** [+5] *
+> **u/RMcD94** [+5]  (18 hours later)
 > 
 > Looking for crack deconstructionist fics on pieces of media. 
-> Short funny stories that noticed one or two jokes about a movie or TV show or game and play with that joke for a few chapters.
-> More like omakes than stories. 
-> Doesn't have to be super rational or serious, just like some Screen Rants or CinemaSins with a silly thing/plothole and take it to the extreme.
-> An example would maybe be Harry Potter and the Natural 20, or some of the other Harry Potter crack fics where someone just uses obliviate to resolve everything. I enjoy it when they skip to the major plot beats or moments of the media even if it makes no sense that everything would be the same.
-> Another example would be https://www.royalroad.com/fiction/35549/prophecy-approved-companion
 > 
+> Short funny stories that noticed one or two jokes about a movie or TV show or game and play with that joke for a few chapters.
+> 
+> More like omakes than stories. 
+> 
+> Doesn't have to be super rational or serious, just like some Screen Rants or CinemaSins with a silly thing/plothole and take it to the extreme.
+> 
+> An example would maybe be Harry Potter and the Natural 20, or some of the other Harry Potter crack fics where someone just uses obliviate to resolve everything. I enjoy it when they skip to the major plot beats or moments of the media even if it makes no sense that everything would be the same.
+> 
+> Another example would be https://www.royalroad.com/fiction/35549/prophecy-approved-companion
 
->> **u/andor3333** [+3] *
+>> **u/andor3333** [+3]  (2 days later)
 >> 
 >> [The Metropolitan Man](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) for Superman >! having a secret identity.!<
->> [HPMOR Omakes](http://www.hpmor.com/chapter/64#storycontent)
->> [How it Should Have Ended](https://www.youtube.com/playlist?list=PLimhOT0Avg-SGRWhXfy89OwBw-wAbQnhY) Youtube Channel
 >> 
+>> [HPMOR Omakes](http://www.hpmor.com/chapter/64#storycontent)
+>> 
+>> [How it Should Have Ended](https://www.youtube.com/playlist?list=PLimhOT0Avg-SGRWhXfy89OwBw-wAbQnhY) Youtube Channel
 
->>> **u/RMcD94** [+6] *
+>>> **u/RMcD94** [+6]  (2 days later)
 >>> 
 >>> Did you change your suggestion? Also your spoiler tag didn't work on mobile for me 
->>> Good recommendations because I've consumed them all. HPMOR omakes are exactly the kind of thing I want more of for more universes and maybe a touch longer
->>> HISHE usually just gets a smirk but I like it anyway
->>> And as AW is perfect in all respects that MM is great toes without saying
 >>> 
+>>> Good recommendations because I've consumed them all. HPMOR omakes are exactly the kind of thing I want more of for more universes and maybe a touch longer
+>>> 
+>>> HISHE usually just gets a smirk but I like it anyway
+>>> 
+>>> And as AW is perfect in all respects that MM is great toes without saying
 
->>>> **u/andor3333** [+3] *
+>>>> **u/andor3333** [+3]  (2 days later)
 >>>> 
 >>>> Yeah, I took out [Mandragora](https://www.fanfiction.net/s/7864670/1/Mandragora) (Harry Potter) and [Went Forth Unconquered](https://gisho.livejournal.com/67699.html) (Narnia) since they didn't fit your request as well, and added the youtube because I remembered the name of it. I thought I was quick enough to get away with it but I guess not.
->>>> 
 
->> **u/PastafarianGames** [+1] *
+>> **u/PastafarianGames** [+1]  (2 days later)
 >> 
 >> "How to Defeat a Demon King in Ten Easy Steps" by Andrew Rowe comes to mind. It's a deconstruction of the Zeldalikes.
->> 
 
->> **u/fljared** [+1]  *United Federation of Planets**
+>> **u/fljared** [+1]  *United Federation of Planets* (6 days later)
 >> 
 >> [Seventh Horcrux](https://archiveofourown.org/works/28926447/chapters/70972632) likely fits your taste.
->> 
 
-> **u/cyberdsaiyan** [+5] *
+> **u/cyberdsaiyan** [+6]  (2 days later)
 > 
 > Other than Wildbow's works, Metropolitan Man, Mother of Learning and Unsong, are there any "completed" rational fic works that don't get discussed here as often?
-> School life/Fantasy/Isekai preferred.
 > 
+> School life/Fantasy/Isekai preferred.
 
->> **u/BavarianBarbarian_** [+3] *
+>> **u/BavarianBarbarian_** [+3]  (4 days later)
 >> 
 >> [Luminosity](http://luminous.elcenia.com/index.shtml) - a rational(ist?) take on Twilight - is supposed to be good, but I couldn't get past how... robotic the main character sounded.
->> 
 
->>> **u/cyberdsaiyan** [+2] *
+>>> **u/cyberdsaiyan** [+2]  (4 days later)
 >>> 
 >>> I... had apparently sealed my memory of reading this for some reason... pretty sure if I dropped it a few years ago I would likely drop it again, but thanks for the rec!
->>> 
 
->> **u/notgreat** [+3] *
+>> **u/notgreat** [+3]  (5 days later)
 >> 
 >> Not officially a ratfic but last time I recced [Tony's New Assistant](https://archiveofourown.org/works/411457) it was received positively. (Marvel)
->> I'll also rec [The World As It Appears To Be](https://archiveofourown.org/works/9402014). (Overwatch)
 >> 
+>> I'll also rec [The World As It Appears To Be](https://archiveofourown.org/works/9402014). (Overwatch)
 
->>> **u/cyberdsaiyan** [+2] *
+>>> **u/cyberdsaiyan** [+2]  (5 days later)
 >>> 
 >>> Tony's assistant seems to be pretty good!
->>> 
 
->> **u/gramineous** [+2] *
+>> **u/gramineous** [+2]  (3 days later)
 >> 
 >> Chilli and the chocolate factory? I don't know if you'd count it as rational per se, but there were discussion threads for each chapter going on here. I caught it after it finished, it's certainly a ride.
->> 
 
-> **u/None** [+4] *
+> **u/None** [+4]  (a day later)
 > 
 > Any diplomacy-focused first contact books/stories?
-> 
 
->> **u/GaBeRockKing** [+7]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >> 
 >> How do you feel about my little pony fanfiction?
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (a day later)
 >>> 
 >>> Nothing against it in principle - I'll have to see the specific story to judge...
->>> 
 
->>>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >>>> 
 >>>> [The Eagle Has Landed](https://www.fimfiction.net/story/159150/the-eagle-has-landed)
->>>> [Celestia Sleeps In](https://www.fimfiction.net/story/76290/celestia-sleeps-in)
->>>> [Biblical Monsters](https://www.fimfiction.net/story/87619/biblical-monsters)
 >>>> 
+>>>> [Celestia Sleeps In](https://www.fimfiction.net/story/76290/celestia-sleeps-in)
+>>>> 
+>>>> [Biblical Monsters](https://www.fimfiction.net/story/87619/biblical-monsters)
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (4 days later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/PresN** [+5] *
+>>>>> **u/PresN** [+4]  (6 days later)
 >>>>> 
 >>>>> For a fic where very little happens over a lot of chapters (it's mostly just ponies interacting with humans while waiting to go home), it has some weird background things creep in. Young female ponies being sexually attracted to human men upon first sight and no one on either side thinks it's at all strange. A preponderance of guns and tanks being cool and ponies of all ages and backgrounds being interested in them and not at all scared/worried about unfamiliar weapons. A general sense that lower level "military" people/ponies are great, salt of the earth people that handle events like unexpected aliens with aplomb, while higher-ranked people, especially anyone who is close to government, are dumb, self-interested, and untrustworthy. Also, somehow every other person was once in the marines, and never as an officer.
->>>>> Like, the author did do a lot of research on details like what the emergency management plans for the area are and what real-life people might have been in Kansas in 2015, but the level of military wankery takes over the fic instead of something more interesting like actual cultural differences.
 >>>>> 
+>>>>> Like, the author did do a lot of research on details like what the emergency management plans for the area are and what real-life people might have been in Kansas in 2015, but the level of military wankery takes over the fic instead of something more interesting like actual cultural differences.
 
-> **u/Laborbuch** [+7] *
+> **u/Laborbuch** [+6]  (an hour later)
 > 
 > I might have recommended this before, but if I did, it was ages and ages ago. Also, I advise caution when googling the story, a cursory check I just did already revealed a major spoiler for the first volume. The story is Robert J. Sawyer’s ***Quintaglio Ascension*** trilogy. The first novel, *Far-Seer*, basically tells the story of the copernican revolution for a theropod-like alien species. Beyond that already interesting premise the author spent some time in coming up with means by which an obligate carnivore and starkly (and at times violently) territorial species could still develop civilisation and society to such a degree that they actually managed to reach the point of a copernican revolution. The following books deal with the fallout and societal developments that the worldview shift kicked off.
-> The second volume contains a point of view with which I have some trouble, in my opinion it undermines some of the worldbuilding, and I suspect Sawyer got criticised for including these chapters, since the third volume contains no such parts. I advise ignoring these chapters, or delegating them to a dream sequence.
 > 
+> The second volume contains a point of view with which I have some trouble, in my opinion it undermines some of the worldbuilding, and I suspect Sawyer got criticised for including these chapters, since the third volume contains no such parts. I advise ignoring these chapters, or delegating them to a dream sequence.
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (2 hours later)
 >> 
 >> Oh, that looks very interesting. I'm definitely adding it to my pile. 
->> (What was your issue with the second book?)
 >> 
+>> (What was your issue with the second book?)
 
->>> **u/Laborbuch** [+2] *
+>>> **u/Laborbuch** [+2]  (4 hours later)
 >>> 
 >>> It “does in the wizard”, so to speak, and offers an explanation for stuff discovered during the first and second volume. It feels to me as if Sawyer either addressed a plot hole that’s been pointed out to him (similarly how one of the sequels to *Ringworld* dealt with the long term instability of the same after it had been pointed out to its author Larry Niven), or laid some groundwork he intended to pick up in later novels, but Sawyer didn’t get a contract for works beyond the trilogy.
->>> 
 
-> **u/nathanwe** [+3] *
+> **u/nathanwe** [+3]  (18 hours later)
 > 
 > Can someone help me find a story? It's about people trying to do rocketry without calculus and it's a metaphor for AI research.
-> 
 
->> **u/DrMaridelMolotov** [+3] *
+>> **u/DrMaridelMolotov** [+4]  (a day later)
 >> 
 >> https://www.lesswrong.com/posts/Gg9a4y8reWKtLe3Tn/the-rocket-alignment-problem
->> 
 
->>> **u/nathanwe** [+2] *
+>>> **u/nathanwe** [+2]  (a day later)
 >>> 
 >>> thanks
->>> 
 
->>>> **u/DrMaridelMolotov** [+1] *
+>>>> **u/DrMaridelMolotov** [+1]  (a day later)
 >>>> 
 >>>> Np
->>>> 
 
->> **u/Radioterrill** [+2] *
+>> **u/Radioterrill** [+2]  (a day later)
 >> 
 >> You might be thinking of [this Lesswrong post?](https://www.lesswrong.com/posts/uP87YbXrCDCw78rJF/safety-engineering-target-selection-and-alignment-theory)
->> 
 
->>> **u/nathanwe** [+1] *
+>>> **u/nathanwe** [+1]  (a day later)
 >>> 
 >>> Thanks, but no. It was a dialouge.
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/GlueBoy** [+13]  *anti-skub**
+>> **u/GlueBoy** [+14]  *anti-skub* (2 days later)
 >> 
 >> Ar'Kendrithyst has a stupid fucking name but it's pretty good. Not so much magitech like you're asking, but the story explains the ins and outs of magic to an unbelievable degree--as in I'd estimate around 20% of the 1.5 million words are dedicated to the MC understanding and experimenting with magic. Which is crazy. 
->> Fair warning: it's very slice of life and the pacing is veeery relaxed.
 >> 
+>> Fair warning: it's very slice of life and the pacing is veeery relaxed.
 
->>> **u/AurelianoTampa** [+9] *
+>>> **u/AurelianoTampa** [+7]  (4 days later)
 >>> 
 >>> As a second set of eyes on this, I've gone back and forth on Ar'Kendrithyst several times. My most recent stance is that I recommend it, but it can definitely seem to drag. It spends dozens of chapters going through a cycle of "Erick goes to a new place, someone approaches Erick with a problem, Erick discovers a new magic and gets a power up, the group moves on and the new magic is (usually) not mentioned again and the new characters (usually) step back into the background to only be mentioned in passing thereafter." In between these cycles, it's very slice of life with a fantasy world bent. I actually like the slice of life breathers because it gives the characters a chance to interact again - as the previous comment mentions, the author dedicates an absurd amount of time to the magics involved, so it's a nice breather when the slice of life takes over.
->>> To be fair, after 100+ chapters, a lot of these little sidequests start to come back into play again - but it takes a looooong time for that payoff.
->>> The story does a good job going through it's litRPG setting and analysis of its magic system. There are some really cool moments, and a lot of civilization uplifting across a wide spectrum of subjects. But the relationships between the characters stagnate compared to these aspects, and as said, there's a lot of repetition in tropes/cycles. Erick himself can be interesting, but far too often feels like a plot device to move onto whatever subject catches the attention of the author. He. just. can't. say. NO. to anyone who requests his help, and I really felt like the manner of help being asked was a chance for the author to show off whatever new idea of world-building he wanted to showcase.
->>> Again, it *does* come together a bit eventually, but it can feel like a bit of a slog to get there. I give it a thumbs up, but a hesitant one. I like learning about the gears running a fantasy world behind the scenes, but this one was a bit too much for me at times.
->>> Edit: A criticism I've seen a few times is that the dialogue between Erick and Jane is "cringey." I personally never felt that way. I don't like Jane's personality much, but I felt like the dialogue came off as genuine, if a bit uncomfortably intrusive. I like that Jane is a flawed character, even if her flaws make me not *like* her character. Erick is much more of a Gary Stu, and while I like his ideas, his personality is just kinda generic do-gooder (though backed up backstory to explain it). Jane at least feels like a person. Kiri and Teresa are more interesting than either of them, but don't get enough focus, IMO.
 >>> 
+>>> To be fair, after 100+ chapters, a lot of these little sidequests start to come back into play again - but it takes a looooong time for that payoff.
+>>> 
+>>> The story does a good job going through it's litRPG setting and analysis of its magic system. There are some really cool moments, and a lot of civilization uplifting across a wide spectrum of subjects. But the relationships between the characters stagnate compared to these aspects, and as said, there's a lot of repetition in tropes/cycles. Erick himself can be interesting, but far too often feels like a plot device to move onto whatever subject catches the attention of the author. He. just. can't. say. NO. to anyone who requests his help, and I really felt like the manner of help being asked was a chance for the author to show off whatever new idea of world-building he wanted to showcase.
+>>> 
+>>> Again, it *does* come together a bit eventually, but it can feel like a bit of a slog to get there. I give it a thumbs up, but a hesitant one. I like learning about the gears running a fantasy world behind the scenes, but this one was a bit too much for me at times.
+>>> 
+>>> Edit: A criticism I've seen a few times is that the dialogue between Erick and Jane is "cringey." I personally never felt that way. I don't like Jane's personality much, but I felt like the dialogue came off as genuine, if a bit uncomfortably intrusive. I like that Jane is a flawed character, even if her flaws make me not *like* her character. Erick is much more of a Gary Stu, and while I like his ideas, his personality is just kinda generic do-gooder (though backed up backstory to explain it). Jane at least feels like a person. Kiri and Teresa are more interesting than either of them, but don't get enough focus, IMO.
 
->>>> **u/GlueBoy** [+6]  *anti-skub**
+>>>> **u/GlueBoy** [+6]  *anti-skub* (4 days later)
 >>>> 
 >>>> As a previous detractor of the story, I know better than anyone that it is not for everyone. The stupid name, the gimped, illogical, and shallow(frontend, anyway) litrpg magic system, Erick's personality and plot armor, and the CIA thing at the beginning^^1 all kept me from getting into it for a long time. Even after reading 1.5 million words I have trouble articulating just why I like it. 
->>>> I think a big point in its favor for me is that it is original in unexpected ways, which as a person who reads a lot I value highly. That Erick's arc has been interesting and well done and there's more to come is another one. Above all I like the story because the author actually appears to have something to say about the world and the human condition, and isn't just trying to transcribe a skinner box into a narrative like most litrpgs/webserials. 
->>>> -----
->>>> ^^1 Tangential rant: Erick has been depicted as a politically engaged bleeding heart liberal with the empathy and self-abnegation of a saint or bodhisattva. The idea that someone like that--who also presumably grew up in the 80's and 90's and would be intimately familiar with the effects of the (state sponsored) crack epidemic on the inner city poor--would be OK with his only child joining what is objectively speaking the evilest organization in the world by scope and scale(since the SS and the NKVD got shut down, anyway) put me off the story for a long time just by itself. It is still a surprise to me that this heuristic ultimately failed and the author isn't a complete dumbass. 
->>>> PS. That Jane-the-CIA-inductee is later depicted as being literally a psychopath with good coping mechanisms is hilarious, I'll admit. Maybe she's the reason they got booted out of their original reality, to prevent another holocaust or something. 
->>>> PPS. Also hilarious: the very first comment the story received (on RR of all places!) is a complaint about lionizing the CIA. Warms my heart.
 >>>> 
+>>>> I think a big point in its favor for me is that it is original in unexpected ways, which as a person who reads a lot I value highly. That Erick's arc has been interesting and well done and there's more to come is another one. Above all I like the story because the author actually appears to have something to say about the world and the human condition, and isn't just trying to transcribe a skinner box into a narrative like most litrpgs/webserials. 
+>>>> 
+>>>> -----
+>>>> 
+>>>> ^^1 Tangential rant: Erick has been depicted as a politically engaged bleeding heart liberal with the empathy and self-abnegation of a saint or bodhisattva. The idea that someone like that--who also presumably grew up in the 80's and 90's and would be intimately familiar with the effects of the (state sponsored) crack epidemic on the inner city poor--would be OK with his only child joining what is objectively speaking the evilest organization in the world by scope and scale(since the SS and the NKVD got shut down, anyway) put me off the story for a long time just by itself. It is still a surprise to me that this heuristic ultimately failed and the author isn't a complete dumbass. 
+>>>> 
+>>>> PS. That Jane-the-CIA-inductee is later depicted as being literally a psychopath with good coping mechanisms is hilarious, I'll admit. Maybe she's the reason they got booted out of their original reality, to prevent another holocaust or something. 
+>>>> 
+>>>> PPS. Also hilarious: the very first comment the story received (on RR of all places!) is a complaint about lionizing the CIA. Warms my heart.
 
->>>>> **u/IICVX** [+3] *
+>>>>> **u/IICVX** [+3]  (5 days later)
 >>>>> 
 >>>>> The CIA thing kept me bouncing off the first chapter for a good two or three months. 
->>>>> I did end up reading it (even subscribed on Patreon for a while, though not any more since I stopped reading it eventually) but honestly it was a good thing that Jane kinda took a backseat for a while.
 >>>>> 
+>>>>> I did end up reading it (even subscribed on Patreon for a while, though not any more since I stopped reading it eventually) but honestly it was a good thing that Jane kinda took a backseat for a while.
 
->>> **u/cthulhusleftnipple** [+6] *
+>>> **u/cthulhusleftnipple** [+6]  (4 days later)
 >>> 
 >>> I'll second the rec for Ar'Kendrithyst. It's long; it's slow; it drags in places. But, I find myself liking it more and more as it continues. The author updates extremely regularly, the world is broad, and the characters are complex even if they can be a little annoying at times.
->>> 
 
-> **u/MagmaDrago** [+3] *
+> **u/MagmaDrago** [+3]  (2 days later)
 > 
 > There was this story I read a few years ago, on AO3 possibly; it was about a guy, an avid reader, who was contacted by another guy over the internet(?) and provided the MC with some books. I don't distinctly remember if they were forbidden books or not. The end of the story took place in some library. It had these horror/SCP vibes to it. Does anybody know of it?
-> Edit: Oh and it wasn't all that long, ~10 chapters, bit more or bit less.
 > 
+> Edit: Oh and it wasn't all that long, ~10 chapters, bit more or bit less.
 
->> **u/None** [+7] *
+>> **u/None** [+7]  (3 days later)
 >> 
 >> Hmm, I'm not entirely sure, but is it [The Library Unpublished](https://archiveofourown.org/works/11539230/chapters/25908498)?
->> 
 
->>> **u/MagmaDrago** [+2] *
+>>> **u/MagmaDrago** [+2]  (3 days later)
 >>> 
 >>> Yup, this is it. Thanks!
->>> 
 
-> **u/disposablehead001** [+6] *
+> **u/disposablehead001** [+6]  (13 hours later)
 > 
 > Any litrpgs/system stories where there are multiple systems that people pick between? Ideally, the systems are amenable to human intervention. I’m hoping for something like characters in a 5e D&D setting rationally evaluate heading to a new nation, where the rules of the universe are Pathfinder standard, as dictated by their local government.
-> 
 
->> **u/CaramilkThief** [+2] *
+>> **u/CaramilkThief** [+2]  (3 days later)
 >> 
 >> Infinite Realm: Monsters and Legends has three different power systems that work very differently. There's cultivation, class, and skill. Cultivation is like normal xianxia cultivation. Class has people picking classes that they level through spending essence (xp/currency), and then there's skill which is about taking one skill, like "Cut" or "Punch" to its utmost limit, at which point you can punch through mountains and cut through the plane of reality and make rifts, etc.
->> Not really rational characters, but imo it's a pretty rational world. And the characters are surprisingly competent.
 >> 
+>> Not really rational characters, but imo it's a pretty rational world. And the characters are surprisingly competent.
 
->> **u/ashinator92** [+1] *
+>> **u/ashinator92** [+1]  (a day later)
 >> 
 >> Calendrical warfare in Machineries of Empire trilogy is like this, but scifi. 
 >> Not super rational tho.
->> 
 
-> **u/Freevoulous** [+1] *
+> **u/Freevoulous** [+1]  (17 hours later)
 > 
 > Im looking for a rational, plausible, **realistic take on the superhero/masked vigilante genre,** with the science within being plausible and as "real world-ish" as possible. Something that could possibly be true.
-> 
 
->> **u/Dragongeek** [+20]  *Path to Victory**
+>> **u/Dragongeek** [+20]  *Path to Victory* (21 hours later)
 >> 
 >> What do you mean by "realistic"?
->> For example, I'd argue that the *Worm* setting is one of the most "realistic" and cohesive superhero settings out there, even though it may not appear so at first glance.
 >> 
+>> For example, I'd argue that the *Worm* setting is one of the most "realistic" and cohesive superhero settings out there, even though it may not appear so at first glance.
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (23 hours later)
 >>> 
 >>> I mean one in which the science part and the politics/social part is basically real world. No super-science, no magic, the authorities and the criminals are not holding the idiot ball but act as RL people would.  
-
->>> A scenario that could have happened IRL and be completely plausible.
 >>> 
+>>> A scenario that could have happened IRL and be completely plausible.
 
->>>> **u/GaBeRockKing** [+24]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+24]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >>>> 
 >>>> If it was possible in the real world way to have superheroes and supervillains, we already would. (Actually, [we kind of do](https://en.wikipedia.org/wiki/Real-life_superhero), but it's a lot less glamorous than you'd think. They range from morally upright people doing charity work in a funny costume to actual loons.)
->>>> A superhero story requires at least one gimme-- one supernatural or fantastic point of divergence to justify a world in which superheroes (as we would recognize them) exist, even if we *do* exclude the presence of magic and 'superpowers'.
 >>>> 
+>>>> A superhero story requires at least one gimme-- one supernatural or fantastic point of divergence to justify a world in which superheroes (as we would recognize them) exist, even if we *do* exclude the presence of magic and 'superpowers'.
 
->>>> **u/ahasuerus_isfdb** [+11] *
+>>>> **u/ahasuerus_isfdb** [+10]  (a day later)
 >>>> 
 >>>> In *Worm*, characters act the way comic book characters act (masked vigilantes, mad scientists, etc) as opposed to the way RL people act. However, it's also realistic because of the way the Worm universe is set up behind the scenes -- there is a complex "secret history" which explains their comic book-like behavior. Much of the serial is about slowly peeling off layers of deception and putting together scattered pieces of the puzzle.
->>>> I didn't find it 100% convincing, but it was a valiant effort to create a universe in which the inherently unrealistic "comic book logic", which was originally aimed at children, made sense.
 >>>> 
+>>>> I didn't find it 100% convincing, but it was a valiant effort to create a universe in which the inherently unrealistic "comic book logic", which was originally aimed at children, made sense.
 
->>>>> **u/Freevoulous** [+1] *
+>>>>> **u/Freevoulous** [+1]  (a day later)
 >>>>> 
 >>>>> I loved Worm, despite its depressing grimdark.
->>>>> 
 
->> **u/andor3333** [+3] *
+>> **u/andor3333** [+3]  (3 days later)
 >> 
 >> [Asteroid Monetization](https://sprague-grundy.github.io/asteroid_monetization/): a short story by Sprague Grundy.
->> 
 
->> **u/CronoDAS** [+2] *
+>> **u/CronoDAS** [+2]  (6 days later)
 >> 
 >> Watchmen? ;)
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/BavarianBarbarian_** [+3] *
+>> **u/BavarianBarbarian_** [+3]  (4 days later)
 >> 
 >> The Dark Tower; if you also listen to [Kingslingers](https://www.doofmedia.com/kingslingers/) (the companion podcast from the people who did We've Got Worm/Ward), they really bring out the addiction aspect which Stephen King probably more or less deliberately put into the story.
->> I wouldn't call it rational, though; King's worldbuilding is as always pretty random and shoddy in parts. One of the two podcast hosts keeps asking himself questions like "now how does this fit with what we already know of the world..." and I have to keep myself from groaning in annoyed pity, because that's not how King's writing *works*.
 >> 
+>> I wouldn't call it rational, though; King's worldbuilding is as always pretty random and shoddy in parts. One of the two podcast hosts keeps asking himself questions like "now how does this fit with what we already know of the world..." and I have to keep myself from groaning in annoyed pity, because that's not how King's writing *works*.
 
->> **u/Fruan** [+2] *
+>> **u/Fruan** [+2]  (3 days later)
 >> 
 >> It doesn't really qualify as rational, but Infinite Jest by David Foster Wallace is easily the best work of fiction about addiction I've ever read.
->> 
 
->>> **u/BePatientImAcoustic** [+1] *
+>>> **u/BePatientImAcoustic** [+1]  (3 days later)
 >>> 
 >>> > Infinite Jest
->>> Thank you! I will check it out.
 >>> 
+>>> Thank you! I will check it out.
 
-> **u/jayn35** [+1] *
+> **u/jayn35** [+1]  (4 days later)
 > 
 > Just finished The Last Physicist by Dominic Stal, it was highly satisfying. Has anybody else tried it yet, I think it fits in here well right? I have not seen it mentioned yet.
-> 
 
 ---
 

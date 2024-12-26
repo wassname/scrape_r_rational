@@ -12,31 +12,27 @@
 
 ### Comments:
 
-> **u/ABZB** [+3]  *Count of Real Numbers**
+> **u/ABZB** [+3]  *Count of Real Numbers* (42 minutes later)
 > 
 > I'm actually kind of disappointed that this hasn't been actualized yet.
-> 
 
-> **u/gfe98** [+3] *
+> **u/gfe98** [+3]  (an hour later)
 > 
 > That was actually the thing that made me drop the story haha. Imagining that football-field streaker patronus was just too much for me.
-> 
 
->> **u/HINDBRAIN** [+2] *
+>> **u/HINDBRAIN** [+2]  (an hour later)
 >> 
 >> Hmm, seems the mods hid the thread for some reason?
->> 
 
->>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (2 hours later)
 >>> 
 >>> Multiple user reports, and "dementards".
->>> It's generally shading a bit too far into what slatestarcodex calls "culture war", and I'd just call attracting the trolls.
 >>> 
+>>> It's generally shading a bit too far into what slatestarcodex calls "culture war", and I'd just call attracting the trolls.
 
->>>> **u/HINDBRAIN** [+1] *
+>>>> **u/HINDBRAIN** [+1]  (2 hours later)
 >>>> 
 >>>> Bah, wasn't the intent, but alright.
->>>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/fvct8r/hf_pyrebound_135/
-* Score: 15
+* Score: 18
 
 * Created: 2020-04-05T12:07:27
 
@@ -16,43 +16,45 @@ If you want to start at the beginning, click [here](https://pyrebound.wordpress.
 
 ### Comments:
 
-> **u/Dent7777** [+3]  *House Atreides**
+> **u/Dent7777** [+3]  *House Atreides* (an hour later)
 > 
 > Woah.
-> From the moment I started reading this chapter, I knew it would be an inflection point.
-> Thank you for writing this story.
 > 
+> From the moment I started reading this chapter, I knew it would be an inflection point.
+> 
+> Thank you for writing this story.
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (3 hours later)
 >> 
 >> You're quite welcome!  We're approaching endgame, certainly.
->> 
 
-> **u/cthulhusleftnipple** [+2] *
+> **u/cthulhusleftnipple** [+2]  (17 hours later)
 > 
 > Thanks for writing. I'm enjoying the story. 
-> > Please do let me know what is and isn't working
-> I'm happy the story is back on track in terms of direction. The stretch from when they left the pyre to track down the Ensi till now felt a bit... directionless. I imagine that was part of the point -- certainly it mirrored the mind-set of the characters -- but it made it hard to really keep the thread of where the story was going. It also felt a little disjointed with many sudden changes in plans. Previously, I really liked how the story slowly built, with changes either being well foreshadowed, or clear turning points in the story. Here, it felt hard know what to expect and it seemed to go on for quite a while. The recent arc could have been either expanded, to allow full exploration of the changes in our hero's circumstances, or trimmed, to keep the plot moving crisply. 
-> That said, I always hesitate to critique a story till it's finished. Reading the full story in a single go, this might come across as an good length nadir of the plot, or simply a period of uncertainty to offest the following clarity of focus.
 > 
+> > Please do let me know what is and isn't working
+> 
+> I'm happy the story is back on track in terms of direction. The stretch from when they left the pyre to track down the Ensi till now felt a bit... directionless. I imagine that was part of the point -- certainly it mirrored the mind-set of the characters -- but it made it hard to really keep the thread of where the story was going. It also felt a little disjointed with many sudden changes in plans. Previously, I really liked how the story slowly built, with changes either being well foreshadowed, or clear turning points in the story. Here, it felt hard know what to expect and it seemed to go on for quite a while. The recent arc could have been either expanded, to allow full exploration of the changes in our hero's circumstances, or trimmed, to keep the plot moving crisply. 
+> 
+> That said, I always hesitate to critique a story till it's finished. Reading the full story in a single go, this might come across as an good length nadir of the plot, or simply a period of uncertainty to offest the following clarity of focus.
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (23 hours later)
 >> 
 >> Thank you very much!  By "the recent arc," do you mean the whole period specified--from 6.1 to now, 13.5--or just chapter 13, or something else entirely?
->> ETA: Whoops, missed a clause due to early-morning reading--you mean 10.1 till now.  Much more manageable, I thought you meant literally half the story.
 >> 
+>> ETA: Whoops, missed a clause due to early-morning reading--you mean 10.1 till now.  Much more manageable, I thought you meant literally half the story.
 
->>> **u/cthulhusleftnipple** [+2] *
+>>> **u/cthulhusleftnipple** [+2]  (a day later)
 >>> 
 >>> > , I thought you meant literally half the story.
->>> No, no, just this last bit. More specifically, chapters 11 and 12 (and maybe a little of chapter 13). And don't take my opinion as definitive, of course. It was just hard to quite place where the narrative was going. Was this our hero's abyss? It seems like it must have been, and yet there was a lot going on, and many successive turning points, making it less clear. Of course not everything must follow a hero cycle pattern, so maybe this arc serves a different purpose. But what, I'm not quite clear on. 
->>> Anyway, thanks again for writing! Looking forward to reading the rest.
 >>> 
+>>> No, no, just this last bit. More specifically, chapters 11 and 12 (and maybe a little of chapter 13). And don't take my opinion as definitive, of course. It was just hard to quite place where the narrative was going. Was this our hero's abyss? It seems like it must have been, and yet there was a lot going on, and many successive turning points, making it less clear. Of course not everything must follow a hero cycle pattern, so maybe this arc serves a different purpose. But what, I'm not quite clear on. 
+>>> 
+>>> Anyway, thanks again for writing! Looking forward to reading the rest.
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (a day later)
 >>>> 
 >>>> Sure thing.  TBH I wasn't consciously following any pattern, and like most fiction this beast re-aligned itself multiple times in the telling.  For example, at one point I planned for Imbri to be the love interest.  Anyway, if anybody else wants to chime in--agree/disagree/whatever--feel free.
->>>> 
 
 ---
 

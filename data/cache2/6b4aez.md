@@ -12,17 +12,16 @@
 
 ### Comments:
 
-> **u/jldew** [+3] *
+> **u/jldew** [+3]  (7 hours later)
 > 
 > Like Maddo said, the space battles in this are a joy. I look forward to Sunday's for this story. 
 > I love how this story has the same vibe as the expanse. Like this future could happen, it's just a matter of time.
-> 
 
-> **u/MaddoScientisto** [+2] *
+> **u/MaddoScientisto** [+2]  (7 hours later)
 > 
 > I enjoyed every second, as usual. 
-> The space battles are always so detailed, it's fun to read.
 > 
+> The space battles are always so detailed, it's fun to read.
 
 ---
 

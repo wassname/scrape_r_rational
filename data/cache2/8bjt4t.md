@@ -2,7 +2,7 @@
 
 * Author: u/TheUtilitaria *
 * URL: https://ascentuniverse.wordpress.com/2018/04/11/chapter-xv-succession/
-* Score: 3
+* Score: 2
 
 * Created: 2018-04-11T19:22:43
 

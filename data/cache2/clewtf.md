@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/clewtf/secret_krampus_entry_deadline_has_passed/
-* Score: 21
+* Score: 20
 
 * Created: 2019-08-03T04:58:54
 

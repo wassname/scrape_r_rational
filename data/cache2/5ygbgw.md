@@ -2,7 +2,7 @@
 
 * Author: u/GodKiller999 *
 * URL: https://motheroflearninguniverse.wordpress.com/2017/03/09/yetis-trolls-cranium-rats/
-* Score: 62
+* Score: 64
 
 * Created: 2017-03-09T17:18:20
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/Kylinger** [+1] *
+> **u/Kylinger** [+1]  (37 minutes later)
 > 
 > You double posted by mistake, fyi.
-> 
 
->> **u/GodKiller999** [+11] *
+>> **u/GodKiller999** [+10]  (44 minutes later)
 >> 
 >> Nope, they're two different worldbuilding post that were posted minutes apart, check the links and/or titles.
->> 
 
->>> **u/Kylinger** [+5] *
+>>> **u/Kylinger** [+5]  (50 minutes later)
 >>> 
 >>> Oh jeeze, you're right. That'll teach me to double check next time.
->>> 
 
 ---
 

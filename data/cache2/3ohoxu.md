@@ -2,7 +2,7 @@
 
 * Author: u/Subrosian_Smithy  *Nudist Beach**
 * URL: https://www.reddit.com/r/rational/comments/3ohoxu/rtdc_soma_a_scifi_horror_game/
-* Score: 4
+* Score: 5
 
 * Created: 2015-10-12T19:45:05
 
@@ -24,27 +24,25 @@ If you haven't heard of this game already (it *is* fairly popular, so I might be
 
 ### Comments:
 
-> **u/drageuth2** [+3] *
+> **u/drageuth2** [+3]  (4 hours later)
 > 
 > Mhhhhhh I dunno how strongly the game addresses those things, honestly.  Just about the only (rational-fic) thing I think it _really_ does well is an example of a _very_ alien Mind with good intentions, and how _incredibly badly_ that can end up going.
-> more to the point, almost none of the characters are what I'd call good rational characters.  the only one who stands out is Catherine.  Everyone else.... makes you lament human stupidity, most of the time.
 > 
+> more to the point, almost none of the characters are what I'd call good rational characters.  the only one who stands out is Catherine.  Everyone else.... makes you lament human stupidity, most of the time.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> Even Catherine isn't immune to human weakness; there were a few journals/notes on how she's the "perfect victim", and the way she handled Simon and the corpse at Phi ("I thought they liked me") showed that she had a poor social life and wasn't very good on picking up social cues. 
->> Soma wasn't about rationality though; it was more focused on atmospheric introspection and a sci-fi examination of consciousness.
 >> 
+>> Soma wasn't about rationality though; it was more focused on atmospheric introspection and a sci-fi examination of consciousness.
 
->>> **u/whywhisperwhy** [+1] *
+>>> **u/whywhisperwhy** [+1]  (5 days later)
 >>> 
 >>> Still a worthwhile game, though?
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (5 days later)
 >>>> 
 >>>> Absolutely. Some of the best atmospheric horror and sci fi introspection I've seen. It's one of the games that makes you shit your pants one moment and think deeply about the implications of conscious continuity the next.
->>>> 
 
 ---
 

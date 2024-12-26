@@ -2,7 +2,7 @@
 
 * Author: u/FormerlySarsaparilla *
 * URL: https://archiveofourown.org/works/18738010/chapters/48245584
-* Score: 28
+* Score: 27
 
 * Created: 2019-08-22T04:43:16
 

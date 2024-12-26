@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (5 hours later)
 > 
 > pretty long, will give it a try. I believe this is the first Warhmmer Fantasy thing posted on this subreddit.
-> 
 
->> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (9 hours later)
 >> 
 >> Imoression on the first 2 chapters. Loved the variety of mnsters descriptions plus points. Disliked the long history of clan warfare info dump. All in all liking it so far.
->> 
 
-> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (6 days later)
 > 
 > I liked it. The writing could be improved by I liked the skaven inside interaction. Points for Fimir mentions. I didn't really get what happened to to the elf at the end. I guess he was contacted by a Chaos entity but I didn't understood who and what he turned into. ANy help?
-> 
 
 ---
 

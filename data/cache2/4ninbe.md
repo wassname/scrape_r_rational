@@ -2,7 +2,7 @@
 
 * Author: u/4t0m  *Chaos Legion**
 * URL: https://www.reddit.com/r/rational/comments/4ninbe/meta_goodreads_rational_fiction_list/
-* Score: 27
+* Score: 25
 
 * Created: 2016-06-10T21:49:29
 
@@ -16,45 +16,45 @@ Relatedly, you don't have a goodreads account, consider making one!  It's a grea
 
 ### Comments:
 
-> **u/elevul** [+5]  *Cyoria Observer**
+> **u/elevul** [+3]  *Cyoria Observer* (an hour later)
 > 
 > It's a good idea, but a lot of fanfiction is missing from there, like all the Gameverse stuff, or TGWP (though, obviously this is not rational).
-> 
 
->> **u/4t0m** [+7]  *Chaos Legion**
+>> **u/4t0m** [+8]  *Chaos Legion* (an hour later)
 >> 
 >> I have a librarian account, and am happy to add authors and stories to the site if you post links to them here.
->> 
 
->>> **u/technoninja1** [+4] *
+>>> **u/technoninja1** [+5]  (6 hours later)
 >>> 
 >>> The City of Angles & Floating Point, the Fable of the Dragon Tyrant, the Last Christmas, Friendship is Optimal, Worm, Pact, Twig,  (I Don't Know Timmy, Being God is a Big Responsibility [the parenthesis are because the title has a comma in it]), Ra, Fine Structure, the Cambist and Lord Iron, The Witching Hour, Blindsight, Fleep, Dungeon Keeper Ami, Goldmage.... Those are just the stories that I have read and that are free online, as that was what I assumed you were going for. There are plenty of others, especially if you are not going for that. The Martian comes to mind.
 >>> edit: I know there are other stories that I had not listed. I listed these because I was listing the ones that were actually on goodreads. And even though they were on goodreads, most were not on the list. edit: I was confused about how goodreads worked. I thought the person who created the lists added books to them. Sorry, my mistake.
->>> 
 
->>>> **u/OutOfNiceUsernames** [+4]  *fear of last pages**
+>>>> **u/OutOfNiceUsernames** [+5]  *fear of last pages* (14 hours later)
 >>>> 
 >>>> > The City of Angles & Floating Point, the Fable of the Dragon Tyrant, the Last Christmas, [Friendship is Optimal,](https://www.goodreads.com/book/show/15998174) [Worm,](https://www.goodreads.com/book/show/18713259-worm) [Pact,](https://www.goodreads.com/book/show/20501604) [Twig,](https://www.goodreads.com/book/show/25116766) [I Don't Know Timmy, Being God is a Big Responsibility,](https://www.goodreads.com/book/show/18480280) [Ra,](https://www.goodreads.com/book/show/22635765) [Fine Structure,](https://www.goodreads.com/book/show/16066335) the Cambist and Lord Iron, The Witching Hour, [Blindsight,](https://www.goodreads.com/book/show/48484) Fleep, [Dungeon Keeper Ami,](https://www.goodreads.com/book/show/27864237) Goldmage.... 
->>>> Many of the stories you’ve mentioned have already been there for some time.
 >>>> 
+>>>> Many of the stories you’ve mentioned have already been there for some time.
 
->>>> **u/Cruithne** [+2]  *Light Sith epistemologist**
+>>>> **u/Cruithne** [+2]  *Light Sith epistemologist* (14 hours later)
 >>>> 
 >>>> I wouldn't say Pact is an example of rational fiction, it usually only ends up included because of Worm.
->>>> 
 
->>> **u/TennisMaster2** [+5] *
+>>> **u/TennisMaster2** [+5]  (8 hours later)
 >>> 
 >>> The Dagger and the Coin, [this](http://people.duke.edu/~hpgavin/cee421/citicorp1.htm), [Exhalation](http://www.nightshadebooks.com/Downloads/Exhalation%20-%20Ted%20Chiang.html) and [The Truth of Fact, the Truth of Feeling](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang) by Ted Chiang, Unsong (once it's finished), /u/FarmerBob1's stories (reply with what works you're comfortable having on the list), Baby Blues and Pay Attention by /u/eaglejarl, [The Whispering Earing](http://squid314.livejournal.com/332946.html) and [The Last Temptation of Christ](http://squid314.livejournal.com/324957.html) and [The Girl Who Poked God with a Stick](http://squid314.livejournal.com/336195.html) by Yvain (and others I don't have the time to find, like that one where someone is confused into being unsure whether their life was or wasn't a simulation by changing beings wearing lab coats), [Accelerando](http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) by Charles Stross (he has other rational works, too, I think), *David's Sling* and *Earthweb* by Marc Steigler, *The World of Null-A* and *The Players of Null-A* by A.E. van Vogt, /u/DataPacRat's works (reply with what works you'd like listed if any), David Brin's [Reality Check](http://www.davidbrin.com/realitycheck.html) (he has others I think), *A Succession of Bad Days* by Graydon Saunders, [Fargo](https://www.fanfiction.net/s/11228999/1/Fargo) by an unknown published author, [Crystal Society](http://crystal.raelifin.com/), *The Time Traveler's Wife* - /u/alexanderwales can say if it's rational, *Mistborn: The Final Empire* by Brandon Sanderson (I think he has other rational works but can't say which), *Kindred* by Octavia Butler, (/u/S3Prototype297, is Perjure rational?), [Untitled Superintelligences Story](http://www.raikoth.net/Stuff/story1.html) by Scott Siskind, The War of Broken Mirrors [series](https://www.amazon.com/Forging-Divinity-Broken-Mirrors-Book-ebook/dp/B00TKFFR36?ie=UTF8&*Version*=1&*entries*=0) by Andrew Rowe, *Eden Green* by Fiona van Dahl, ["Tower"](http://alicorn.elcenia.com/stories/tower.shtml) by Alicorn, ["The Simple Truth"](http://www.yudkowsky.net/rational/the-simple-truth/) by Eliezer.
->>> That's me trawling through the threads with 20+ positive votes from the subreddit, through the monthly threads and the Q2 recommendation thread, and rational reads for original written fiction.  *Fargo* is the sole exception because it's basically its own book and doing so might entice the author to add their own works to the list.  I did this as original fiction isn't as exclusive as fanfiction and thus more likely to attract existing and new readers to the genre, and I expect others will recommend worthy fanfiction.
 >>> 
+>>> That's me trawling through the threads with 20+ positive votes from the subreddit, through the monthly threads and the Q2 recommendation thread, and rational reads for original written fiction.  *Fargo* is the sole exception because it's basically its own book and doing so might entice the author to add their own works to the list.  I did this as original fiction isn't as exclusive as fanfiction and thus more likely to attract existing and new readers to the genre, and I expect others will recommend worthy fanfiction.
 
->>> **u/ZeroNihilist** [+6] *
+>>> **u/ZeroNihilist** [+7]  (12 hours later)
 >>> 
 >>> This is a repost of a previous recommendation list I made (with a few updates):
+>>> 
 >>> Responses in the order in which I thought of them within each category (don't take it as an order of preference or anything). Lots of fanfic in this list because it's what people tend to write. Assume they're rational unless stated otherwise.
+>>> 
 >>> Note that "rationalist" means "rational + demonstrates analytical techniques", so I note where that's applicable (if I remember; a lot of this is fuzzy due to sheer quantity).
+>>> 
 >>> Finished:
+>>> 
 >>> * [The Waves Arisen](https://wertifloke.wordpress.com/table-of-contents/), rationalist Naruto fanfiction
 >>> * [Harry Potter and the Methods of Rationality](http://hpmor.com/) (HPMoR), rationalist Harry Potter fanfiction, possibly the ur-example of the concept of rationalist fanfiction (probably wrong about that however)
 >>> * [Shadows of the Limelight](http://alexanderwales.com/shadows/), original story (it's true, I do read original stories) about a world where fame literally grants superpowers (by one of this subreddit's moderators, /u/alexanderwales)
@@ -73,7 +73,9 @@ Relatedly, you don't have a goodreads account, consider making one!  It's a grea
 >>> * [Cenotaph](http://archiveofourown.org/works/1152749/chapters/2337442), Worm fanfiction with a small deviation from canon
 >>> * [Wake](http://archiveofourown.org/works/2417525/chapters/5347754), sequel to Cenotaph
 >>> * [Significant Digits](http://www.anarchyishyperbole.com/p/significant-digits.html), HPMoR metafic which is very different in character (it has a [summary of HPMoR](http://www.anarchyishyperbole.com/p/previously-on-harry-potter-and-methods.html) if you don't want to read it, but obviously heavily spoils the plot of that fic)
+>>> 
 >>> Updating often:
+>>> 
 >>> * [Pokemon: The Origin of Species](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species), rationalist Pokemon fanfiction
 >>> * [r Animorphs: The Reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning), Animorphs fanfiction by /u/TK17Studios
 >>> * [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning), original story about a student mage caught in a time loop by /u/nobody103
@@ -81,62 +83,59 @@ Relatedly, you don't have a goodreads account, consider making one!  It's a grea
 >>> * [UNSONG](http://unsongbook.com/), the only rational kabbalah story I've ever heard of, with a pleasantly high concentration of biblical whale puns
 >>> * [Glimwarden](http://alexanderwales.com/glimwarden/), yet another original story by alexanderwales featuring three rational protagonists fighting against anthropomorphic EM radiation (or at least that's my guess)
 >>> * [Hermione Granger and the Perfectly Reasonable Explanation](https://www.fanfiction.net/s/9950232/1/Hermione-Granger-and-the-Perfectly-Reasonable-Explanation), a rational Harry Potter fanfic that I'm really hoping keeps up the updates (it was in a long hiatus until recently) in part because it has the perfect title for a Hermione fic
+>>> 
 >>> Updating rarely, possibly abandoned:
+>>> 
 >>> * [Harry Potter and the Natural 20](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20), Harry Potter/Dungeons and Dragons crossover fanfiction (protagonist is an original character and a munchkin to his core)
 >>> * [Weaver 9](https://www.fanfiction.net/s/10898446/1/Weaver-Nine), a Worm metafiction which swaps the role of two important characters (casting a significant villain in the role as, er, "hero")
 >>> * [Juncture](http://junctureserial.blogspot.com.au/2015/08/juncture-11.html), original story about all sorts of time travel tropes by /u/AHatfulOfBomb (currently on hiatus)
 >>> * [Lighting Up the Dark](https://www.fanfiction.net/s/9311012/1/Lighting-Up-the-Dark), Naruto fanfiction by /u/Velorien
->>> I can go into more detail about what separates the Naruto/Harry Potter fanfictions on request. They all have their charms but differ quite a lot in theme and characterisation.
->>> I've also probably forgotten a whole bunch of things. Apologies also if I got authors wrong or missed somebody who's active on this subreddit (I don't remember usernames for everyone who is, sadly).
->>> There's also a lot of great one-shots on the subreddit, some in the challenge threads that get posted every two weeks.
 >>> 
+>>> I can go into more detail about what separates the Naruto/Harry Potter fanfictions on request. They all have their charms but differ quite a lot in theme and characterisation.
+>>> 
+>>> I've also probably forgotten a whole bunch of things. Apologies also if I got authors wrong or missed somebody who's active on this subreddit (I don't remember usernames for everyone who is, sadly).
+>>> 
+>>> There's also a lot of great one-shots on the subreddit, some in the challenge threads that get posted every two weeks.
 
->>>> **u/4t0m** [+2]  *Chaos Legion**
+>>>> **u/4t0m** [+2]  *Chaos Legion* (19 hours later)
 >>>> 
 >>>> Thanks for the list!  Almost all of them were already there, but I get that it would have been tedious for you to check which ones were and weren't.  Anyway, now they are all on the site.
->>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a day later)
 >>>> 
 >>>> /u/Velorien is still writing Lighting Up the Dark, he just has the update pace of an overturned snail.
->>>> 
 
->>>>> **u/ZeroNihilist** [+1] *
+>>>>> **u/ZeroNihilist** [+1]  (a day later)
 >>>>> 
 >>>>> I hope so, because I really enjoyed it. Getting my fix from [Marked For Death](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/) (he's one of the authors), but a communal quest doesn't scratch quite the same itch.
->>>>> 
 
->>> **u/Cruithne** [+2]  *Light Sith epistemologist**
+>>> **u/Cruithne** [+2]  *Light Sith epistemologist* (14 hours later)
 >>> 
 >>> Somehow, nobody has said Luminosity by Alicorn.
->>> 
 
->>>> **u/4t0m** [+1]  *Chaos Legion**
+>>>> **u/4t0m** [+1]  *Chaos Legion* (19 hours later)
 >>>> 
 >>>> Part of that may be that it's already there.
->>>> 
 
->>>>> **u/Cruithne** [+1]  *Light Sith epistemologist**
+>>>>> **u/Cruithne** [+1]  *Light Sith epistemologist* (21 hours later)
 >>>>> 
 >>>>> Ah, fair enough :P.
->>>>> 
 
->> **u/masterax2000** [+2]  *Chaos Legion**
+>> **u/masterax2000** [+2]  *Chaos Legion* (15 hours later)
 >> 
 >> >Gameverse
->> What's that?
 >> 
+>> What's that?
 
->>> **u/elevul** [+2]  *Cyoria Observer**
+>>> **u/elevul** [+2]  *Cyoria Observer* (15 hours later)
 >>> 
 >>> Immatrael's attempt at a rational take on Nanoha:
->>> http://archiveofourown.org/series/71228
 >>> 
+>>> http://archiveofourown.org/series/71228
 
->>>> **u/masterax2000** [+2]  *Chaos Legion**
+>>>> **u/masterax2000** [+2]  *Chaos Legion* (a day later)
 >>>> 
 >>>> Thanks!
->>>> 
 
 ---
 

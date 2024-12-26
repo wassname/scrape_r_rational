@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/c3qqmi/d_saturday_munchkinry_thread/
-* Score: 8
+* Score: 7
 
 * Created: 2019-06-22T15:06:00
 
@@ -23,176 +23,190 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/siuwa** [+3]  *Puella Magi**
+> **u/siuwa** [+4]  *Puella Magi* (2 hours later)
 > 
 > I'd like to munchkin the Mongolian army from *Return of the Condor Heroes* by Jin Yong. You are Kublai Khan and you are tasked to conquer the city of Xiangyang from Song Dynasty within a little more than a month.
-> There are two noteworthy techniques available to you:
-> The first one is a throwing technique where a projectile is thrown then caught up to and thrown in another direction where its kinetic energy increases by simple addition instead of obeying conservation of momentum. Energy is conserved in any application of such techniques. Eg character A throws a 2 kg rock north at 3 m/s then catches up to it and throws it west at 4 m/s. The rock flies west instead of northwest(ish) at 5 m/s. Only one person in your army knows this technique at first and it takes a week to teach your army.
-> The other is the ability to share ki by skin contact. Ki(just call it that for the sake of simplicity) enhances the strength, blunt force durability, speed and stamina of the body. A different person knows this technique and it takes another week to teach your army this. Your army has no ki at first and it takes a month to have enough ki to become them all into elite mooks.
-> Your side has one 'hero' unit who knows the second technique and three 'ace' units, one of whom knows the first technique. You also have an army numbering several hundred thousand. The Song Dynasty side has 5 'hero' units and 1 'ace' units, and around 500 elite mooks, in addition to less than 100k garrison. 'Hero' units are 3 times as powerful as 'ace' units. Elite mooks are 10 times as powerful as normal armies. Elite mooks are negligible compared to 'ace' and 'hero' units.
-> How would you take the city?
 > 
+> There are two noteworthy techniques available to you:
+> 
+> The first one is a throwing technique where a projectile is thrown then caught up to and thrown in another direction where its kinetic energy increases by simple addition instead of obeying conservation of momentum. Energy is conserved in any application of such techniques. Eg character A throws a 2 kg rock north at 3 m/s then catches up to it and throws it west at 4 m/s. The rock flies west instead of northwest(ish) at 5 m/s. Only one person in your army knows this technique at first and it takes a week to teach your army.
+> 
+> The other is the ability to share ki by skin contact. Ki(just call it that for the sake of simplicity) enhances the strength, blunt force durability, speed and stamina of the body. A different person knows this technique and it takes another week to teach your army this. Your army has no ki at first and it takes a month to have enough ki to become them all into elite mooks.
+> 
+> Your side has one 'hero' unit who knows the second technique and three 'ace' units, one of whom knows the first technique. You also have an army numbering several hundred thousand. The Song Dynasty side has 5 'hero' units and 1 'ace' units, and around 500 elite mooks, in addition to less than 100k garrison. 'Hero' units are 3 times as powerful as 'ace' units. Elite mooks are 10 times as powerful as normal armies. Elite mooks are negligible compared to 'ace' and 'hero' units.
+> 
+> How would you take the city?
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (3 hours later)
 >> 
 >> Can two people throw a projectile back and forth to build up speed and then release it as artillery?
->> 
 
->>> **u/RetardedWabbit** [+4] *
+>>> **u/RetardedWabbit** [+4]  (8 hours later)
 >>> 
 >>> I don't think this would be useful compared to the siege weapons of the time (catapults, ballistas, and trebuchets), since you're limited by human ability to catch and throw the projectile, so you can't use too heavy of a projectile or get too high of a velocity.
->>> (Edited to remove momentum addition error.)
 >>> 
+>>> (Edited to remove momentum addition error.)
 
->>>> **u/ShiranaiWakaranai** [+6] *
+>>>> **u/ShiranaiWakaranai** [+5]  (8 hours later)
 >>>> 
 >>>> Hm, I wonder what counts as a catch and a throw?
->>>> If you're forced to "catch" a projectile head on that certainly limits the maximum amount of kinetic energy in the projectile. But what if you catch it from behind?
->>>> Suppose the projectile is really really heavy, so that each "throw" (really a push) only adds a tiny amount of velocity. Then you could easily run up to the projectile from behind and give it yet another push forward.
->>>> If you have a lot of people in your army learn this technique, could they create a large and super heavy metal shield (shaped sort of like a battering ram), and collectively throw it forward while charging though the enemy?
 >>>> 
+>>>> If you're forced to "catch" a projectile head on that certainly limits the maximum amount of kinetic energy in the projectile. But what if you catch it from behind?
+>>>> 
+>>>> Suppose the projectile is really really heavy, so that each "throw" (really a push) only adds a tiny amount of velocity. Then you could easily run up to the projectile from behind and give it yet another push forward.
+>>>> 
+>>>> If you have a lot of people in your army learn this technique, could they create a large and super heavy metal shield (shaped sort of like a battering ram), and collectively throw it forward while charging though the enemy?
 
->>>>> **u/siuwa** [+3]  *Puella Magi**
+>>>>> **u/siuwa** [+3]  *Puella Magi* (22 hours later)
 >>>>> 
 >>>>> And thus born the wuxia equivalent of the peasant railgun?
->>>>> Actually to think of it, since the rails are still limited by their ability to push the object, wouldn't the first idea with back-and-forth throwing be better?
 >>>>> 
+>>>>> Actually to think of it, since the rails are still limited by their ability to push the object, wouldn't the first idea with back-and-forth throwing be better?
 
->>>> **u/Gurkenglas** [+3] *
+>>>> **u/Gurkenglas** [+3]  (11 hours later)
 >>>> 
 >>>> As far as I see, forcing conservation of energy and what direction the projectile flies off into uniquely determines what happens. I think you think the forces add up because the example changed the flight direction by exactly 90 degrees.
->>>> 
 
->>>>> **u/siuwa** [+3]  *Puella Magi**
+>>>>> **u/siuwa** [+3]  *Puella Magi* (11 hours later)
 >>>>> 
 >>>>> I think that you have the correct interpretation of the ability. Each 'throw' changes the direction of the projectile and adds more KE to the projectile.
->>>>> r/ShiranaiWakaranai I am pretty sure that works, at least pushing and throwing works by the source material.
 >>>>> 
+>>>>> r/ShiranaiWakaranai I am pretty sure that works, at least pushing and throwing works by the source material.
 
->>>>> **u/RetardedWabbit** [+3] *
+>>>>> **u/RetardedWabbit** [+3]  (13 hours later)
 >>>>> 
 >>>>> Yep, I misunderstood. I looked at the numbers and pattern matched 3^2 + 4^2 = 5^2, not seeing that it's 5 m/s West NOT Northwest.
->>>>> 
 
->> **u/RetardedWabbit** [+2] *
+>> **u/RetardedWabbit** [+2]  (8 hours later)
 >> 
 >> 10 mooks = 1 Elite mook = 0 aces so only aces and above truly matter?
->> 1 Hero = 3 aces 
->> Assuming ki is the difference between tiers: you teach your army ki and ki sharing then use these to convert as many as possible to aces or heros if ki cost 3 aces > ki cost 1 hero.
->> Although the 5 hero garrison should be periodically sending out 3 heroes to raid/obliterate your forces as they approach. There are also huge strategic implications when the strongest forces are also the fastest.
 >> 
+>> 1 Hero = 3 aces 
+>> 
+>> Assuming ki is the difference between tiers: you teach your army ki and ki sharing then use these to convert as many as possible to aces or heros if ki cost 3 aces > ki cost 1 hero.
+>> 
+>> Although the 5 hero garrison should be periodically sending out 3 heroes to raid/obliterate your forces as they approach. There are also huge strategic implications when the strongest forces are also the fastest.
 
->>> **u/siuwa** [+2]  *Puella Magi**
+>>> **u/siuwa** [+2]  *Puella Magi* (12 hours later)
 >>> 
 >>> Kind of, but note that ki gives no piercing durability so heroes and aces can't just trivially charge into a wall of pikes or cross a hail of arrows. Also they will eventually run out of stamina.
->>> Ki sharing needs skin contact to be maintained so they will have to move in a formation to achieve that, and then it is only at one point of the formation.
 >>> 
+>>> Ki sharing needs skin contact to be maintained so they will have to move in a formation to achieve that, and then it is only at one point of the formation.
 
->>>> **u/RetardedWabbit** [+1] *
+>>>> **u/RetardedWabbit** [+1]  (13 hours later)
 >>>> 
 >>>> Knights with a shield and armor weren't superhumans and they were functionally immune to piercing(besides gaps and crossbows). 3 heros can definitely slip between pikes just like normal soldiers do and there's only 4 people they have to keep an eye out for in the entire enemy army. Or just give your heros even longer polearms to outrange the chaff.
->>>> Heros and aces have at least enough stamina to kill an army of elite mooks? Historical sieged cities managed to stealthily sally forth with armies, sneak attack and raid, then return to the castle. Having 3 heroes do this should be a breeze especially since the 3 of them can theoretically kill the entire invading army. 
->>>> On the flip side the attacking hero should be sneaking in to raid or open up the castle. He can probably even survive jumping off the walls if he needs a quick escape, since the impact would be blunt force.
->>>> The only use for ki sharing I can think of then would be for extremely heavy draw weight bows, but then you're probably just a worse version of a ballista crew.
 >>>> 
+>>>> Heros and aces have at least enough stamina to kill an army of elite mooks? Historical sieged cities managed to stealthily sally forth with armies, sneak attack and raid, then return to the castle. Having 3 heroes do this should be a breeze especially since the 3 of them can theoretically kill the entire invading army. 
+>>>> 
+>>>> On the flip side the attacking hero should be sneaking in to raid or open up the castle. He can probably even survive jumping off the walls if he needs a quick escape, since the impact would be blunt force.
+>>>> 
+>>>> The only use for ki sharing I can think of then would be for extremely heavy draw weight bows, but then you're probably just a worse version of a ballista crew.
 
->>>>> **u/siuwa** [+1]  *Puella Magi**
+>>>>> **u/siuwa** [+1]  *Puella Magi* (15 hours later)
 >>>>> 
 >>>>> What if I make a 10000 person square of trained elite mooks? I think that would make them overpower any heroes or aces, but without the mobility of them. Could be coupled with battering rams for a quick breach.
->>>>> As for raids how would you prevent the 5 heroes from launching an all-out attack to capture you(Kublai Khan)?
 >>>>> 
+>>>>> As for raids how would you prevent the 5 heroes from launching an all-out attack to capture you(Kublai Khan)?
 
->> **u/M3mentoMori** [+2] *
+>> **u/M3mentoMori** [+2]  (17 hours later)
 >> 
 >> It depends on how heroes/aces manage elite mooks, and where they're located. One on one, they demolish elites, yes, but what if there's ten? A hundred? A thousand? If a hero can take on any number of non-ace, non-hero units, then you've lost. The heroes will bulldoze through your armies and kill you.
->> If they can be taken out by armies of elites, it depends on the number. Needing 1 million elites has the same result as above, as does any number above half your forces.
->> At half or less, you can win by teaching your army ki-sharing and building them up to Elite. Then, you send 50k at the garrison (5x effective power of the garrison), and engage the heroes.
 >> 
+>> If they can be taken out by armies of elites, it depends on the number. Needing 1 million elites has the same result as above, as does any number above half your forces.
+>> 
+>> At half or less, you can win by teaching your army ki-sharing and building them up to Elite. Then, you send 50k at the garrison (5x effective power of the garrison), and engage the heroes.
 
->>> **u/siuwa** [+1]  *Puella Magi**
+>>> **u/siuwa** [+1]  *Puella Magi* (20 hours later)
 >>> 
 >>> I estimate around 300 elites to tire them out and more to ensure they don't escape. 50k elites connected should be able to literally pulverize any heroes effortlessly, so all that's left is to bait them into melee?
->>> 
 
->> **u/CCC_037** [+2] *
+>> **u/CCC_037** [+2]  (a day later)
 >> 
 >> - Bait one of heroes out of city in some way. Try to ensure that he comes alone.
->> - If more than one leaves together, then split them up
->> - Lead him into an ambush of 50k mooks, to tire him out.
->> - Once he's tired out, my Hero and three Aces turn up and obliterate him.
->> Now I'm down about 50k mooks, and the enemy is down one Hero. I "leak" the info the the enemy that their missing hero is alive and in a certain location.
->> Naturally, the other four heroes go to rescue their compatriot, leaving their Ace in charge of the city defenses.
->> While they're out, I have my much bigger army take the city.
->> --------------
->> The heroes find a large bag of money, along with a thank-you note addressed to my spy which implies that said spy should have killed the other three Heroes by now. Alone with the disembodied head of their former companion.
->> I estimate that fewer than four Heroes will return from that confrontation, and the remaining Heroes are unlikely to be united. I should be able to pick them off, one by one.
 >> 
+>> - If more than one leaves together, then split them up
+>> 
+>> - Lead him into an ambush of 50k mooks, to tire him out.
+>> 
+>> - Once he's tired out, my Hero and three Aces turn up and obliterate him.
+>> 
+>> Now I'm down about 50k mooks, and the enemy is down one Hero. I "leak" the info the the enemy that their missing hero is alive and in a certain location.
+>> 
+>> Naturally, the other four heroes go to rescue their compatriot, leaving their Ace in charge of the city defenses.
+>> 
+>> While they're out, I have my much bigger army take the city.
+>> 
+>> --------------
+>> 
+>> The heroes find a large bag of money, along with a thank-you note addressed to my spy which implies that said spy should have killed the other three Heroes by now. Alone with the disembodied head of their former companion.
+>> 
+>> I estimate that fewer than four Heroes will return from that confrontation, and the remaining Heroes are unlikely to be united. I should be able to pick them off, one by one.
 
-> **u/None** [+5] *
+> **u/None** [+4]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/turtleswamp** [+3] *
+>> **u/turtleswamp** [+5]  (2 days later)
 >> 
 >> Honestly this sounds like a world that survives less than a week before befalling one of the horrible fates that would make for an entertaining xkcd 'what if?' question, unless some unspecified force intercedes to prevent most of the things a curious person with a little knowledge might try to do with magic that turn out really deadly.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/turtleswamp** [+3] *
+>>>> **u/turtleswamp** [+3]  (2 days later)
 >>>> 
 >>>> Well the non-barionic gel implies that it is not beyond normal practitioners as mucking about with fundamental forces enouhg to make that hapen has lots of bad end possibilities if you make similar adjustment but more carelessly. Like for one thing why isn't the gell turning all the air in contact with it non-baryonic and how many tries did it take to get 
 >>>>  that right?
->>>> Anyway, I think the idea needs to be started again from a more productive angle. The main problem here IMO is it's too open there isn't any indication what magic can't do so answers like "make Aristotelian motion a real thing in an area to stop arrows from moving through it" are sort of valid, but that has all sorts of consequences for the air and thermodynamics of that region that are impossible to calculate because that's not how physics works IRL and tehre aren't any equations you can use to determine what happens in that region, let alone at the edge between the two regions.
->>>> I'd suggest picking one fairly simple thing you want magic to be able to do and focus on that. You mentioned exotic states of matter and messing with chemistry as points of interest so perhaps magic can alter the phase diagrams of matter with a cost in magic proportionate to the degree of change?
 >>>> 
+>>>> Anyway, I think the idea needs to be started again from a more productive angle. The main problem here IMO is it's too open there isn't any indication what magic can't do so answers like "make Aristotelian motion a real thing in an area to stop arrows from moving through it" are sort of valid, but that has all sorts of consequences for the air and thermodynamics of that region that are impossible to calculate because that's not how physics works IRL and tehre aren't any equations you can use to determine what happens in that region, let alone at the edge between the two regions.
+>>>> 
+>>>> I'd suggest picking one fairly simple thing you want magic to be able to do and focus on that. You mentioned exotic states of matter and messing with chemistry as points of interest so perhaps magic can alter the phase diagrams of matter with a cost in magic proportionate to the degree of change?
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> Something like Ice-9, an extremely stable form of ice that causes all water it comes in contact with to become Ice-9. Obviously very dangerous. 
->> Also, seeing if you can use magic to change properties like melting and boiling point, so you can melt iron at room temperature and no additional pressure (or only small amounts of either).
 >> 
+>> Also, seeing if you can use magic to change properties like melting and boiling point, so you can melt iron at room temperature and no additional pressure (or only small amounts of either).
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (2 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (2 days later)
 >>>> 
 >>>> That’s fine, they just need to cook up some Greek Fire that never goes out to go along with it.
->>>> That gives me an idea for a related setting. Magic is a source of basically limitless energy that can be directed mostly by rituals (think chalk circles and runes) that can direct the energy in programmatic, unique, and exotic ways. This clearly leads to a post-scarcity society, but if you want to take a chemistry/physics angle, you set the story right as people are trying to get to that post-scarcity utopia. Free energy is probably trivial, free food, immortality, and magical computers probably aren’t.
 >>>> 
+>>>> That gives me an idea for a related setting. Magic is a source of basically limitless energy that can be directed mostly by rituals (think chalk circles and runes) that can direct the energy in programmatic, unique, and exotic ways. This clearly leads to a post-scarcity society, but if you want to take a chemistry/physics angle, you set the story right as people are trying to get to that post-scarcity utopia. Free energy is probably trivial, free food, immortality, and magical computers probably aren’t.
 
->>>>> **u/turtleswamp** [+4] *
+>>>>> **u/turtleswamp** [+3]  (4 days later)
 >>>>> 
 >>>>> >That’s fine, they just need to cook up some Greek Fire that never goes out to go along with it.
->>>>> &#x200B;
->>>>> The good news is that the greek fire is successfully melting the ice-9 that come in contact with it.
->>>>> The bad news is that since the greek fire floats the lower layers are refreezing and now the inexorably advancing glacier is covered in a lake of fire.
 >>>>> 
+>>>>> &#x200B;
+>>>>> 
+>>>>> The good news is that the greek fire is successfully melting the ice-9 that come in contact with it.
+>>>>> 
+>>>>> The bad news is that since the greek fire floats the lower layers are refreezing and now the inexorably advancing glacier is covered in a lake of fire.
 
->>>> **u/turtleswamp** [+1] *
+>>>> **u/turtleswamp** [+1]  (4 days later)
 >>>> 
 >>>> Ice-9 would probably be easier to contain in this scenario as it wouldn't be able to exist outside the influence of the spell that's changing the phase behavior of water, so if the spell only covers a limited region it can't "escape" and if it does spread out of control as long as it hasn't killed all the wizards yet (or the magic space bats intervene) the spell enabling it's existence can be canceled/dispelled. So the main problem it posed in the original concept which was that once it got into the oceans there was no possibility of melting it faster than it spread would probably never hapen.
->>>> &#x200B;
->>>> It would still be incredibly dangerous however as the otehr thing it did was crystalize water in the human body. But again magic might help as if people have an aura/magic resistance of some sort the spell might not hold inside a person, or a protective spell could probably be devised once the danger is known.
 >>>> 
+>>>> &#x200B;
+>>>> 
+>>>> It would still be incredibly dangerous however as the otehr thing it did was crystalize water in the human body. But again magic might help as if people have an aura/magic resistance of some sort the spell might not hold inside a person, or a protective spell could probably be devised once the danger is known.
 
->> **u/grekhaus** [+1] *
+>> **u/grekhaus** [+1]  (2 days later)
 >> 
 >> What happens when you use reversibly transfigured or conjured materials in a chemical reaction? For example, if I burn a conjured twig under a bell jar, what happens to the smoke when the conjuration wears off/is dispelled? If I transmute a volume of stone into a volume of water, dissolve salt into the water and then turn the water back into stone, what happens to the salt?
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> Molecular size seems like an obvious one. Take a hard-to-compress fluid like water, use magic to make it 5% denser, put it in a tight container, run away, and dispel magic. Instant bomb!
->> Mess with electronegativity and you can set up a two-cell electrical battery with nothing but your magic powers. You wouldn't even need to replace the electrodes, just switch them when one gets too short.
 >> 
+>> Mess with electronegativity and you can set up a two-cell electrical battery with nothing but your magic powers. You wouldn't even need to replace the electrodes, just switch them when one gets too short.
 
 ---
 

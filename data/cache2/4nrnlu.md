@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 1
+* Score: 3
 
 * Created: 2016-06-12T18:51:07
 
@@ -12,32 +12,29 @@
 
 ### Comments:
 
-> **u/UltraRedSpectrum** [+3] *
+> **u/UltraRedSpectrum** [+3]  (3 hours later)
 > 
 > I don't think this is the right sub for Godel Escher Bach. This is actually the rational *fiction* board; you probably want something like r/lesswrong.
-> 
 
->> **u/MoralRelativity** [+2] *
+>> **u/MoralRelativity** [+2]  (6 hours later)
 >> 
 >> Or just ask again on the regular Friday Off Topic Thread.
->> 
 
->> **u/_spoderman_** [+1] *
+>> **u/_spoderman_** [+1]  (12 hours later)
 >> 
 >> Oh, uh, sorry, I saw that this sub used to regularly hold discussion threads on GEB and assumed it'd be okay
->> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (15 hours later)
 >>> 
 >>> Yeah when we were having discussions about the book it would have been just fine. But the issue is that it has been almost a year since we had the latest post about it, so this post is not seen as part of the read through and this subreddit is mildly strict on removing posts which don't directly relate to the topic of rational fiction.
->>> If you're too impatient to wait for Friday's thread, I think you can get away with posting about this in Monday's thread because the Monday and Friday thread tend to get blurred together a little bit.
->>> PS If you want to see all of the previous threads about GEB, here's the link to all of [the collected posts](https://www.reddit.com/r/rational/comments/2yys1i/lets_start_the_read_through/) from when I was conducting the read through.
 >>> 
+>>> If you're too impatient to wait for Friday's thread, I think you can get away with posting about this in Monday's thread because the Monday and Friday thread tend to get blurred together a little bit.
+>>> 
+>>> PS If you want to see all of the previous threads about GEB, here's the link to all of [the collected posts](https://www.reddit.com/r/rational/comments/2yys1i/lets_start_the_read_through/) from when I was conducting the read through.
 
->>>> **u/_spoderman_** [+1] *
+>>>> **u/_spoderman_** [+1]  (15 hours later)
 >>>> 
 >>>> Okay, thank you! I'm deleting this post.
->>>> 
 
 ---
 

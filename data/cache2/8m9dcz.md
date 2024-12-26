@@ -2,7 +2,7 @@
 
 * Author: u/silver7017 *
 * URL: https://www.reddit.com/r/rational/comments/8m9dcz/meta_reddit_policy_changes/
-* Score: 52
+* Score: 49
 
 * Created: 2018-05-26T10:42:41
 
@@ -15,27 +15,25 @@ Section 4 paragraph 4: *When Your Content is created with or submitted to the Se
 
 ### Comments:
 
-> **u/aldonius** [+33] *
+> **u/aldonius** [+33]  (26 minutes later)
 > 
 > Most of this is fairly standard; it's what allows the site to function.
-> There are two major issues that are cropping up on other writing subs: the irrevocability, and the waiver of moral rights & attribution.
 > 
+> There are two major issues that are cropping up on other writing subs: the irrevocability, and the waiver of moral rights & attribution.
 
-> **u/AmeteurOpinions** [+23]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+22]  *Finally, everyone was working together.* (6 minutes later)
 > 
 > IANAL, but in my minimal understanding, if reddit *didn’t* have something like this, comment sections couldn’t legally exist because they would violate the copyright of the users.
-> 
 
-> **u/Xtraordinaire** [+13]  *Team Glimglam**
+> **u/Xtraordinaire** [+14]  *Team Glimglam* (8 hours later)
 > 
 > Obligatory IANAL, but I think this applies to the content that reddit actually hosts. So if you write a fic in a self post or in a comment (i.e. r/writingprompts) you are subject to section 4.
-> If someone links your work hosted by another website, you're subject to section 5 and it doesn't grant reddit any rights.
 > 
+> If someone links your work hosted by another website, you're subject to section 5 and it doesn't grant reddit any rights.
 
-> **u/MaddoScientisto** [+1] *
+> **u/MaddoScientisto** [+1]  (5 minutes later)
 > 
 > Looks like it's the same thing Facebook does, it's a legal thing to allow them to show the content to people, they usually do recognize the ownership to the author, or at least that's what I heard
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/traverseda  *With dread but cautious optimism**
 * URL: http://strongfemaleprotagonist.com/issue-6/page-4-6/
-* Score: 11
+* Score: 12
 
 * Created: 2016-01-01T07:15:48
 
@@ -12,135 +12,139 @@
 
 ### Comments:
 
-> **u/sir_pirriplin** [+11] *
+> **u/sir_pirriplin** [+12]  (21 hours later)
 > 
 > The protagonist always sucked as an effective altruist. The story is about how she realized that punching bad guys was not the best way to fix the world so she went to college to find herself or something like that.
-> She didn't even accept money for letting people make a documentary about her, because she doesn't want to make money off some movie.
-> She could make a lot of money and become a philanthropist, but her self-image won't let her be such a normal, boring type of hero.
 > 
+> She didn't even accept money for letting people make a documentary about her, because she doesn't want to make money off some movie.
+> 
+> She could make a lot of money and become a philanthropist, but her self-image won't let her be such a normal, boring type of hero.
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+5]  *Carthago delenda est.* (a day later)
 >> 
 >> Perhaps GiveWell and friends don't exist?
->> It just occurred to me (because of your comment) that EA is precisely what the protagonist is trying to invent out of whole cloth. The page where she asks a bunch of random people at her college what 'the problem' is just got a thousand times more frustrating.
 >> 
+>> It just occurred to me (because of your comment) that EA is precisely what the protagonist is trying to invent out of whole cloth. The page where she asks a bunch of random people at her college what 'the problem' is just got a thousand times more frustrating.
 
->>> **u/sir_pirriplin** [+4] *
+>>> **u/sir_pirriplin** [+5]  (a day later)
 >>> 
 >>> >Perhaps GiveWell and friends don't exist?
->>> The series' anti-villain says there is a conspiracy that works to prevent bio-dynamic people from changing the world too much. Since organizations like GiveWell have the potential to help bio-dynamic people do just that, it's possible that the evil conspiracy is suppressing them.
 >>> 
+>>> The series' anti-villain says there is a conspiracy that works to prevent bio-dynamic people from changing the world too much. Since organizations like GiveWell have the potential to help bio-dynamic people do just that, it's possible that the evil conspiracy is suppressing them.
 
->> **u/CeruleanTresses** [+4] *
+>> **u/CeruleanTresses** [+3]  (3 days later)
 >> 
 >> Well, of course she's always sucked as an effective altruist. My understanding of the story is that it's fundamentally *about* her trying to figure out how to stop sucking at it. She devotes a lot of thought and discussion to the topic--it's a theme that's revisited again and again. She hasn't figured it all out yet, but it wouldn't be a very interesting story if the protagonist's arc was complete from the beginning. 
->> Take her most recent revelation, for instance. After so many major arcs centered around [] (#s "individual supers carrying out their own flawed or infeasible conceptions of how best to act to change the world"), she's starting to put it together. She's finally caught on that they could all be much more effective [] (#s "in coordination with other supers and existing organizations, vs trying to operate solo. While the domestic violence program might not be the *most* effective use of their talents, it's the conceptual step forward that's important here.") She's getting there. A reassessment of the value of money could easily be in her future.
 >> 
+>> Take her most recent revelation, for instance. After so many major arcs centered around [] (#s "individual supers carrying out their own flawed or infeasible conceptions of how best to act to change the world"), she's starting to put it together. She's finally caught on that they could all be much more effective [] (#s "in coordination with other supers and existing organizations, vs trying to operate solo. While the domestic violence program might not be the *most* effective use of their talents, it's the conceptual step forward that's important here.") She's getting there. A reassessment of the value of money could easily be in her future.
 
->>> **u/sir_pirriplin** [+3] *
+>>> **u/sir_pirriplin** [+3]  (3 days later)
 >>> 
 >>> I feel like her new plan is a regression, not progress. She is falling back into the "Mega Girl" pattern, trying to help people up close and personal so people won't look at her with scorn and disappointment.
->>> On the other hand, it's better than the analysis paralysis in which she has been stuck until now, as long as she does not stop looking for better solutions.
 >>> 
+>>> On the other hand, it's better than the analysis paralysis in which she has been stuck until now, as long as she does not stop looking for better solutions.
 
->>>> **u/CeruleanTresses** [+3] *
+>>>> **u/CeruleanTresses** [+3]  (3 days later)
 >>>> 
 >>>> I wonder if the [] (#s "up close and personal firefighting thing is her way of trying to gain the perspective on what it means to be vulnerable that Moonshadow accused her of lacking. She might see direct contact with victims of nonsuperpowered threats as a necessary step, but that's just speculation..")
->>>> Either way, although I agree with you that she is still allowing her ideas about what heroism is to undermine her effectiveness at this point, I think the [] (#s "domestic violence project is a step up from the "Mega Girl" pattern. She's not putting it all on herself to help these women personally and she's not trying to solve the problem by punching it to death. She's setting up a coordinated system that's meant to be useful and effective for the long term.") It's not perfect, but it's a start.
 >>>> 
+>>>> Either way, although I agree with you that she is still allowing her ideas about what heroism is to undermine her effectiveness at this point, I think the [] (#s "domestic violence project is a step up from the "Mega Girl" pattern. She's not putting it all on herself to help these women personally and she's not trying to solve the problem by punching it to death. She's setting up a coordinated system that's meant to be useful and effective for the long term.") It's not perfect, but it's a start.
 
-> **u/Transfuturist** [+10]  *Carthago delenda est.**
+> **u/Transfuturist** [+9]  *Carthago delenda est.* (11 hours later)
 > 
 > I recommend this up to the end of Feral's arc; once it started getting into bad feminist statistics and preachiness I stopped having fun reading it.
-> I don't want to discuss this, either. I believe I already have.
 > 
+> I don't want to discuss this, either. I believe I already have.
 
->> **u/traverseda** [+4]  *With dread but cautious optimism**
+>> **u/traverseda** [+5]  *With dread but cautious optimism* (19 hours later)
 >> 
 >> Alright, well feel free to not discuss, but I'm going to share my thoughts on the matter.
->> I was willing to accept it as a... political device. It felt the need to re-affirm it's membership in the feminist phyle, and that's fine. That's its target audience.
->> But it's decidedly tying to be sane, outside of issues of social signaling.
->> I guess what I'm trying to say is that I'm willing to put up with a lot for sane fiction that's a member of the feminist phyle.
 >> 
+>> I was willing to accept it as a... political device. It felt the need to re-affirm it's membership in the feminist phyle, and that's fine. That's its target audience.
+>> 
+>> But it's decidedly tying to be sane, outside of issues of social signaling.
+>> 
+>> I guess what I'm trying to say is that I'm willing to put up with a lot for sane fiction that's a member of the feminist phyle.
 
->>> **u/sir_pirriplin** [+9] *
+>>> **u/sir_pirriplin** [+9]  (21 hours later)
 >>> 
 >>> >But it's decidedly tying to be sane, outside of issues of social signaling.
->>> The issues with social signalling go beyond feminism. Paladin whining about Templar buying all her inventions for a fuckton of money, Megagirl refusing to take money for being in a movie, all the characters spend way too much energy playing the role of heroes instead of being heroes.
 >>> 
+>>> The issues with social signalling go beyond feminism. Paladin whining about Templar buying all her inventions for a fuckton of money, Megagirl refusing to take money for being in a movie, all the characters spend way too much energy playing the role of heroes instead of being heroes.
 
->>>> **u/Transfuturist** [+6]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+4]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> > Paladin whining about Templar buying all her inventions for a fuckton of money, Megagirl refusing to take money for being in a movie
->>>> ...I didn't even consider that. Refusing money is literally an antithesis to coherent external goals. I just accepted it as a Thing Heroes Do.
->>>> I need some de~~programming~~biasing, stat.
 >>>> 
+>>>> ...I didn't even consider that. Refusing money is literally an antithesis to coherent external goals. I just accepted it as a Thing Heroes Do.
+>>>> 
+>>>> I need some de~~programming~~biasing, stat.
 
->>>>> **u/callmebrotherg** [+8]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+8]  *now posting as /u/callmesalticidae* (a day later)
 >>>>> 
 >>>>> Keep in mind that Paladin has reason to be suspicious of Templar. There are criticisms to be made of the characters, but "I don't want to sell my inventions to somebody who I have good reason to think will make me regret that decision" is alright, IMO.
->>>>> 
 
->>>>>> **u/sir_pirriplin** [+1] *
+>>>>>> **u/sir_pirriplin** [+1]  (a day later)
 >>>>>> 
 >>>>>> So Paladin gets a shit-ton of money and an evil corporation loses a shit-ton of money every time she invents something?
->>>>>> Where is the bad side? She should keep inventing things and bleed Templar dry. 
->>>>>> If she fears she will accidentally invent something that helps Templar take over the world or something, well, that was already a risk before. 
->>>>>> She will probably be *more* careful with her inventions now that she knows they will be bought by an evil corporation, which was all part of the anti-villain's plan, or course.
 >>>>>> 
+>>>>>> Where is the bad side? She should keep inventing things and bleed Templar dry. 
+>>>>>> 
+>>>>>> If she fears she will accidentally invent something that helps Templar take over the world or something, well, that was already a risk before. 
+>>>>>> 
+>>>>>> She will probably be *more* careful with her inventions now that she knows they will be bought by an evil corporation, which was all part of the anti-villain's plan, or course.
 
->>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>>>>> 
 >>>>>>> > She should keep inventing things and bleed Templar dry.
->>>>>>> No, the problem there is Templar believes the trade is worth it. Keeping technology out of the military-industrial complex's hands might be worth that.
 >>>>>>> 
+>>>>>>> No, the problem there is Templar believes the trade is worth it. Keeping technology out of the military-industrial complex's hands might be worth that.
 
->>>>>>>> **u/sir_pirriplin** [+2] *
+>>>>>>>> **u/sir_pirriplin** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> >Keeping technology out of the military-industrial complex's hands might be worth that.
->>>>>>>> That would make a lot of sense, but in the story Paladin specifically says that Templar is paying more than market price, and that their evil plan consists of doing nothing.
->>>>>>>> >Paladin: "They are gonna buy it for a fortune, they're gonna sit on it and never make it, and they'll sic an army of lawyers on whoever tries to replicate it"
->>>>>>>> In this story, the supervillain who controls Templar is secretly a good guy, so he might be trying to do just what you say, keep technology out of the military-industrial complex. Paladin is the naive heroine who used to make super-suits to fight crime and is now working on artificial intelligence.
 >>>>>>>> 
+>>>>>>>> That would make a lot of sense, but in the story Paladin specifically says that Templar is paying more than market price, and that their evil plan consists of doing nothing.
+>>>>>>>> 
+>>>>>>>> >Paladin: "They are gonna buy it for a fortune, they're gonna sit on it and never make it, and they'll sic an army of lawyers on whoever tries to replicate it"
+>>>>>>>> 
+>>>>>>>> In this story, the supervillain who controls Templar is secretly a good guy, so he might be trying to do just what you say, keep technology out of the military-industrial complex. Paladin is the naive heroine who used to make super-suits to fight crime and is now working on artificial intelligence.
 
->>>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>>>>>>> 
 >>>>>>>>> If she believes they're not going to do anything with it, she should have very little qualms about giving the tech to Templar (why does she believe they're evil in the first place?..). So yeah, you're right.
->>>>>>>>> 
 
->>>>>>>>>> **u/JackStargazer** [+2]  *Primordial Apologist**
+>>>>>>>>>> **u/JackStargazer** [+2]  *Primordial Apologist* (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> > why does she believe they're evil in the first place?.
->>>>>>>>>> In universe it came out that Menace, the psychic supervillain, was the former CEO.
->>>>>>>>>> He got 'arrested' and removed, but her (rightly it turns out) thought process is that either he or people selected or working fro him are still in control of the company and can get up to some shenanigans.
->>>>>>>>>> Considering they used her robots before to do supervillain stuff, it isn't an irrational opinion to have, though likely including some guilt-based bias.
 >>>>>>>>>> 
+>>>>>>>>>> In universe it came out that Menace, the psychic supervillain, was the former CEO.
+>>>>>>>>>> 
+>>>>>>>>>> He got 'arrested' and removed, but her (rightly it turns out) thought process is that either he or people selected or working fro him are still in control of the company and can get up to some shenanigans.
+>>>>>>>>>> 
+>>>>>>>>>> Considering they used her robots before to do supervillain stuff, it isn't an irrational opinion to have, though likely including some guilt-based bias.
 
->>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (5 days later)
 >>>>>>> 
 >>>>>>> One of the theories, actually, is that she was working herself to exhaustion so that she could release enough tech at once that Paladin couldn't buy it all.
->>>>>>> 
 
->>>>> **u/sir_pirriplin** [+5] *
+>>>>> **u/sir_pirriplin** [+5]  (a day later)
 >>>>> 
 >>>>> I started noticing it more when Professor Quirrel ranted about that in HPMOR. He says people like heroes who are servile and non-threatening, and asking for a reward causes indignation.
->>>>> As counter-examples, Quirrel says ancient Greek heroes, "from when men were less sophisticated in their delusions", do get gold and jewels as rewards. Harry mentions Han Solo as a more modern example.
 >>>>> 
+>>>>> As counter-examples, Quirrel says ancient Greek heroes, "from when men were less sophisticated in their delusions", do get gold and jewels as rewards. Harry mentions Han Solo as a more modern example.
 
->>>>>> **u/JackStargazer** [+4]  *Primordial Apologist**
+>>>>>> **u/JackStargazer** [+3]  *Primordial Apologist* (3 days later)
 >>>>>> 
 >>>>>> Of course, Han gets continually bitched at whenever he asks for a reward, or plans to, for example, take a vacation to go pay off the guy who is going to send assassins after him if he doesn't.
->>>>>> 
 
->>>>>>> **u/sir_pirriplin** [+2] *
+>>>>>>> **u/sir_pirriplin** [+2]  (3 days later)
 >>>>>>> 
 >>>>>>> I had forgotten about that. I just finished playing that Jedi Outcast videogame where you play as Kyle Katarn, who begins the game as a mercenary working for the good guys and ends the game when he goes on a vacation. Maybe I got them mixed up.
->>>>>>> 
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (27 seconds later)
 > 
 > Nothing new except a few more comics, just thought it needed a repost.
-> 
 
 ---
 

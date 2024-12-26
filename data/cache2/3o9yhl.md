@@ -124,96 +124,109 @@ An example scale: http://vignette4.wikia.nocookie.net/runescape/images/3/3a/Scap
 
 ### Comments:
 
-> **u/davidmanheim** [+4] *
+> **u/davidmanheim** [+4]  (4 hours later)
 > 
 > Step 1) Level up my munchkining skill level to 100
-> Step 2) ???
-> Step 3) Profit!
 > 
+> Step 2) ???
+> 
+> Step 3) Profit!
 
-> **u/PL_TOC** [+3] *
+> **u/PL_TOC** [+3]  (2 hours later)
 > 
 > You should simplify by having gamer's body. Whatever that entails. The details like bleeding (while reminiscent of a cool game like Snake Eater) are niggling and detract from the awesomeness of the central conceit.
-> 
 
-> **u/m0le** [+2] *
+> **u/m0le** [+2]  (19 hours later)
 > 
 > 1) Get a job in a slaughterhouse, ideally for cattle or other large animals
 > 2) Use the XP to level int and charisma
 > 3) Genetically engineer hugely strong, extremely tasty animals
 > 4) Kill animals for infinite XP (engineering bigger / tougher animals as required) and set up a world dominating fast food chain (using charisma to mitigate the GM aspect of my food source).
-> 
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 > 
 > How are you doing with your story, *Wanderlust*? It sounds like a brilliant idea and I literally can not guess what will happen next. You did a great job on setting up a huge world for your characters to play around in.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> It's going good, just trying to pump out chapters as fast as possible while keeping good quality. I have the entire story more or less planned out.
->> It's good to hear you liked it, I haven't heard much feedback yet. I tried to keep the world as rational as possible so it's awesome that someone from this subreddit thinks its good. For now I'm trying to get the word out and get my ratings up. If you want to help you can leave a review on royalroadl. Thanks!
 >> 
+>> It's good to hear you liked it, I haven't heard much feedback yet. I tried to keep the world as rational as possible so it's awesome that someone from this subreddit thinks its good. For now I'm trying to get the word out and get my ratings up. If you want to help you can leave a review on royalroadl. Thanks!
 
-> **u/Jakkubus** [+1] *
+> **u/Jakkubus** [+1]  (7 hours later)
 > 
 > >Killing any life form gives experience based on it's level which is an abstraction of it's strength. Killing anything beneath you will give less experience eventually resulting in zero experience gained. Killing things above your level will give scaling experience. You must kill the life form with no help to get full experience, you will lose percentage experience based on percentage of damage done (If someone deals half damage and you deal half damage you get half experience).
+> 
 > This sounds like paradise for bombers. And if you level up these:
+> 
 > * Pickpocketing
 > * Stealth
 > * Bombing
-> you can pull Fallout trick with making people explode in their pants through reverse pick-pocketing an explosives on them.
-> Also your inventory can be used like a refrigerator.
 > 
+> you can pull Fallout trick with making people explode in their pants through reverse pick-pocketing an explosives on them.
+> 
+> Also your inventory can be used like a refrigerator.
 
-> **u/Nepene** [+1] *
+> **u/Nepene** [+1]  (9 hours later)
 > 
 > Path to world domination. 
+> 
 > Exploitable interactions.
+> 
 > 1. You can level up a skill to beyond human levels, as with running.
+> 
 > 2. You can develop a skill by reading a book.
+> 
 > 3. You get more experience the stronger a lifeform is.
+> 
 > So first, read a number of books on programming, nanotechnology, AI development, AI ethics, life extension, genetic manipulation, cloning, cybernetics and robotics, cooking, inspirational writing and machine gun use. All of those skills should help you start the singularity. 
+> 
 > Injure yourself with cutting, poison, and such regularly to increase your durability. Improve your cooking skills so you can better restore your health.
 > Use the storing ability to steal enough valuable goods to get starter funds 10-20k should do it. Fly to a third world country with good food on you for health, buy a machine gun, and gun down a load of extremely strong wild animals. Use this to enhance your intellect to high levels. 
-> Using your superior intellect grind a number of your skills and work on acquiring greater funds. Cracking security systems and stealing money seems like something you'd be well suited to doing, or private investigation. Gather more money while grinding skills, grinding charisma and constitution and wisdom.
-> With more money get your sailoring skills up, go to a third world country, buy some heavy weaponry, and get a trustworthy crew together to slaughter some whales. These are the largest and strongest lifeforms on the earth, should give you more exp.
-> Use these levels to further advance your intellect and charisma and start working to build an organization in support of your goals. Broadly speaking, human enhancement, reviving dead species, and cybernetics. Your immense charisma and increasing skills on whatever necessary areas- public speaking, organization management, fund raising, all that- should make this easier. Work on building up your wealth more, to the hundreds of thousands to millions level.
-> http://www.automobilemag.com/features/0804_how_to_buy_a_tank/
-> Next, find an appropriate country, and buy a tank.
-> http://singularityhub.com/2010/10/06/videos-of-robot-controlled-by-rat-brain-amazing-technology-still-moving-forward/
-> Cybenetically work on linking rat or monkey brains into the tanks and controlling them. Try and get your ability to identify them as one organism. If you can get this to work you have an exploitable source of potent exp. Use this to level up.
-> Regardless, continue to advance all your skills to inhuman levels. Revolutionize fields, earn money doing so, win more supporters. If you succeed at creating a cybernetic tank work on ever larger mechanical monstrosities and the mechanical skills needed to maintain them. 
-> Eventually, work on cloning and genetically engineering dinosaurs and megafauna. Work on increasing their mental and physical levels to immense levels, cybenetically enhance them, and kill them. Use nanotechnology to increase their strength further. Others can help you in restraining them. Continue to increase charisma and intelligence as necessary.
-> Eventually, build a strong AI and use it to take over the world.
 > 
+> Using your superior intellect grind a number of your skills and work on acquiring greater funds. Cracking security systems and stealing money seems like something you'd be well suited to doing, or private investigation. Gather more money while grinding skills, grinding charisma and constitution and wisdom.
+> 
+> With more money get your sailoring skills up, go to a third world country, buy some heavy weaponry, and get a trustworthy crew together to slaughter some whales. These are the largest and strongest lifeforms on the earth, should give you more exp.
+> 
+> Use these levels to further advance your intellect and charisma and start working to build an organization in support of your goals. Broadly speaking, human enhancement, reviving dead species, and cybernetics. Your immense charisma and increasing skills on whatever necessary areas- public speaking, organization management, fund raising, all that- should make this easier. Work on building up your wealth more, to the hundreds of thousands to millions level.
+> 
+> http://www.automobilemag.com/features/0804_how_to_buy_a_tank/
+> 
+> Next, find an appropriate country, and buy a tank.
+> 
+> http://singularityhub.com/2010/10/06/videos-of-robot-controlled-by-rat-brain-amazing-technology-still-moving-forward/
+> 
+> Cybenetically work on linking rat or monkey brains into the tanks and controlling them. Try and get your ability to identify them as one organism. If you can get this to work you have an exploitable source of potent exp. Use this to level up.
+> 
+> Regardless, continue to advance all your skills to inhuman levels. Revolutionize fields, earn money doing so, win more supporters. If you succeed at creating a cybernetic tank work on ever larger mechanical monstrosities and the mechanical skills needed to maintain them. 
+> 
+> Eventually, work on cloning and genetically engineering dinosaurs and megafauna. Work on increasing their mental and physical levels to immense levels, cybenetically enhance them, and kill them. Use nanotechnology to increase their strength further. Others can help you in restraining them. Continue to increase charisma and intelligence as necessary.
+> 
+> Eventually, build a strong AI and use it to take over the world.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> Alternatively just volunteer at an animal shelter to euthanize the animals, cheaper than flying to a third world country and I'd imagine some vicious pitbulls and german shepherds would be good XP for a beginner.
->> 
 
->>> **u/Nepene** [+2] *
+>>> **u/Nepene** [+2]  (2 days later)
 >>> 
 >>> Perhaps. I don't know how long it takes shelters to trust you to let you euthanize animals. You could buy some animals and kill them, certainly.
->>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > My first step would be to try to build some sort of skill in training while I sleep. If I could build XP while still sleeping I've effectively given myself a 33% boost in productivity.
-> 
 
-> **u/nicholaslaux** [+1] *
+> **u/nicholaslaux** [+1]  (2 days later)
 > 
 > My thinking, by having the abilities tied explicitly to killing, would be to have the Gamer be the antagonist in the story. Have them do one of the things others in the story mentioned, hunting big game, bombing major cities, etc, and then have the story unfold that the rest of the world starts to band together to stop/kill them. 
-> Possibly this is even the main character's motivations, she wants the entire world to focus on one enemy to unite in hate or something similar.
 > 
+> Possibly this is even the main character's motivations, she wants the entire world to focus on one enemy to unite in hate or something similar.
 
-> **u/Jiopaba** [+1] *
+> **u/Jiopaba** [+1]  (3 days later)
 > 
 > Honestly, I always feel that it's better to have "Stats spent" added to some separate pool that isn't counted against your un-purchased stats for increasing them via repetition.  It's extremely counter-intuitive to never want to spend your stat points because doing so destroys your potential.
-> I know that's the way it's often portrayed in fiction about this sort of thing, but having it as is has always just felt really obnoxious to me.
 > 
+> I know that's the way it's often portrayed in fiction about this sort of thing, but having it as is has always just felt really obnoxious to me.
 
 ---
 

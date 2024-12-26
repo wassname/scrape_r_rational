@@ -14,26 +14,23 @@ Our one hundredth chapter! Witches! Billy! Fights!
 
 ### Comments:
 
-> **u/DuplexFields** [+2]  *New Lunar Republic**
+> **u/DuplexFields** [+2]  *New Lunar Republic* (21 hours later)
 > 
 > An interesting-looking story, from what I gt out of the first half of this chapter. What’s the big picture? Adventure, LitRPG, ontological mystery?
-> 
 
->> **u/Wizard-of-Woah** [+1] *
+>> **u/Wizard-of-Woah** [+1]  (a day later)
 >> 
 >> >An interesting-looking story, from what I gt out of the first half of this chapter. What’s the big picture? Adventure, LitRPG, ontological mystery?
->> Definitely not LitRPG. More adventure drama. Science fiction stuff.
 >> 
+>> Definitely not LitRPG. More adventure drama. Science fiction stuff.
 
->>> **u/DuplexFields** [+2]  *New Lunar Republic**
+>>> **u/DuplexFields** [+2]  *New Lunar Republic* (a day later)
 >>> 
 >>> Excellent. I’ll open a tab for it.
->>> 
 
->>>> **u/Wizard-of-Woah** [+1] *
+>>>> **u/Wizard-of-Woah** [+1]  (a day later)
 >>>> 
 >>>> Thank you!
->>>> 
 
 ---
 

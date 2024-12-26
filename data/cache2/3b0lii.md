@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/3b0lii/rokos_journey/
-* Score: 8
+* Score: 11
 
 * Created: 2015-06-25T00:29:03
 
@@ -170,144 +170,169 @@ If you liked this, please vote for it in this [weekly contest thread](http://www
 
 ### Comments:
 
-> **u/Transfuturist** [+12]  *Carthago delenda est.**
+> **u/Transfuturist** [+13]  *Carthago delenda est.* (3 hours later)
 > 
 > >“I tricked you into rushing the eaters to all attack at once when you saw some of us moving towards the dam, but I already convinced the swimmers to break the dams themselves beforehand and drowned all of your forces. I was trying to kill you outright, but you managed to survive hitting the rocks even though most of the other eaters died.”
-> Yes, allow me to monologue my plan at you while I assume you are unable to escape, to the benefit of neither of us.
-> >If the tiny stars are truly same as the Sun, then that could mean they are specks of the same things which make up the Sun…No, it implied that they all are the same, which means the stars have to be very far away, so far that I would never reach them.
-> This would require a concept of distance and scaling not particularly available to paleolithic-level tribes.
-> >“If you are immortal or very long-lived, then that means there is something unusual about your body which has a possible chance of being passed on to others. You also have shown an utter disregard for the lives of others. You will only use others for your goal of departure. You are too dangerous to be allowed to live.”
-> Spoken like a robot.
-> >If it was possible for one being to become immortal, then it could be possible for everyone to become immortal.
-> This would require a sense of altruism that would simply not come from a tribal hunter who eats sapient beings. He sustains himself by eating others, and would not be particularly disposed to bestowing immortality upon a pleasurable form of sustenance.
-> >Without any memories, you weren’t the same being from life to life.
-> This would require a proper theory of mind on a level that took us hundreds of millennia to reason out. At this point you're simply dressing up rationalist tropes and dropping them into your character's mind without regard for your setting.
-> Short answer, no, I didn't like this.
 > 
+> Yes, allow me to monologue my plan at you while I assume you are unable to escape, to the benefit of neither of us.
+> 
+> >If the tiny stars are truly same as the Sun, then that could mean they are specks of the same things which make up the Sun…No, it implied that they all are the same, which means the stars have to be very far away, so far that I would never reach them.
+> 
+> This would require a concept of distance and scaling not particularly available to paleolithic-level tribes.
+> 
+> >“If you are immortal or very long-lived, then that means there is something unusual about your body which has a possible chance of being passed on to others. You also have shown an utter disregard for the lives of others. You will only use others for your goal of departure. You are too dangerous to be allowed to live.”
+> 
+> Spoken like a robot.
+> 
+> >If it was possible for one being to become immortal, then it could be possible for everyone to become immortal.
+> 
+> This would require a sense of altruism that would simply not come from a tribal hunter who eats sapient beings. He sustains himself by eating others, and would not be particularly disposed to bestowing immortality upon a pleasurable form of sustenance.
+> 
+> >Without any memories, you weren’t the same being from life to life.
+> 
+> This would require a proper theory of mind on a level that took us hundreds of millennia to reason out. At this point you're simply dressing up rationalist tropes and dropping them into your character's mind without regard for your setting.
+> 
+> Short answer, no, I didn't like this.
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (5 hours later)
 >> 
 >> Normally I don't like criticism because they usually boil down to only saying "I don't like this", but unlike most other criticism you actually provided very good and clear reasons why. Awesome.
->> I freely admit being rushed with this story and just shoehorned in the monologue to hint to the reader what the trap was like instead just skipping over without any mention. I'll have to put in the work to actually add in the scene without being lazy about it tomorrow.
->> I had taken for granted how seemingly self-evident how the size of an object shrinks with increasing distance and am really surprised by this. Do you know why it's not an obvious thing?
->> The memory one was definitely poorly done but I didn't even realize it since it's a concept I have known for the majority of my life.
->> Thanks for being a helpful Wise Reader!
 >> 
+>> I freely admit being rushed with this story and just shoehorned in the monologue to hint to the reader what the trap was like instead just skipping over without any mention. I'll have to put in the work to actually add in the scene without being lazy about it tomorrow.
+>> 
+>> I had taken for granted how seemingly self-evident how the size of an object shrinks with increasing distance and am really surprised by this. Do you know why it's not an obvious thing?
+>> 
+>> The memory one was definitely poorly done but I didn't even realize it since it's a concept I have known for the majority of my life.
+>> 
+>> Thanks for being a helpful Wise Reader!
 
->>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (17 hours later)
 >>> 
 >>> > I had taken for granted how seemingly self-evident how the size of an object shrinks with increasing distance and am really surprised by this. Do you know why it's not an obvious thing?
->>> It is not that foreshortening isn't obvious (it is, to the point that it's engrained in our visual cortex), but rather that the Sun simply doesn't behave like any other objects. It belongs to a separate class of object, with the moon and the stars, which don't change in (apparent) visual angle no matter how far you walk towards them (The whole round-planet thing doesn't help either, not that we could walk a recognizable distance towards the sun if it weren't). The reconciliation of this would require a more sophisticated observation, that objects farther away vary in visual angle less with the same distance traveled, and that the sun's invariance to approach (besides the fact that you're walking on a rotating ball) despite its visual angle is due to its massive size and distance.
 >>> 
+>>> It is not that foreshortening isn't obvious (it is, to the point that it's engrained in our visual cortex), but rather that the Sun simply doesn't behave like any other objects. It belongs to a separate class of object, with the moon and the stars, which don't change in (apparent) visual angle no matter how far you walk towards them (The whole round-planet thing doesn't help either, not that we could walk a recognizable distance towards the sun if it weren't). The reconciliation of this would require a more sophisticated observation, that objects farther away vary in visual angle less with the same distance traveled, and that the sun's invariance to approach (besides the fact that you're walking on a rotating ball) despite its visual angle is due to its massive size and distance.
 
->>>> **u/Farmerbob1** [+2]  *Level 1 author**
+>>>> **u/Farmerbob1** [+2]  *Level 1 author* (17 hours later)
 >>>> 
 >>>> A comparison of how shadows work can also be made.  If I'm remembering properly, that's how the diameter of the Earth was calculated by the Greeks (or maybe Romans)
->>>> Compare the Sun and it's shadowed to a fire at night, and it's shadows.  Crude understanding of light from a point source causing shadows.
 >>>> 
+>>>> Compare the Sun and it's shadowed to a fire at night, and it's shadows.  Crude understanding of light from a point source causing shadows.
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (17 hours later)
 >>>>> 
 >>>>> That would be plausible.
->>>>> 
 
->> **u/Farmerbob1** [+1]  *Level 1 author**
+>> **u/Farmerbob1** [+1]  *Level 1 author* (16 hours later)
 >> 
 >> Monologue is done very often in prisoner interrogations, explaining how law enforcement broke down the behavior of criminals, hoping for reactions or clues.  Roko wants information.  He's got a broken enemy in front of him.  Perfect opportunity to get answers, interrogation style.
->> The comment about "so far away that I would never reach them" I agree with.  A slightly less specific comment about how far away the sun is, because it never seems closer no matter how far one walks, and then a comparative narration where these other suns must be even farther away would be fully within the capabilities of a rational paleolithic mind.  Also remember, this is a predator.  Visual-based predators have extremely good concepts of distance and position.  If they didn't, they wouldn't eat.
->> Spoken like a rational person.  Not a robot.  Though I would have interspersed it with thought-related activities, like pacing back and forth.  Gnashing of teeth.  Perhaps some inner dialog.
->> I agree that the idea of immortality is odd.  I would think Roko would eat him because he was hungry, and the being might be shocked and reply something along the lines of "You would eat someone who speaks to you?"  And then "If I did not, I would starve."
->> It did not take us hundreds of millennia to reason out a proper theory of mind.  We didn't even try until recently.  In this world, where thinking carnivores eat thinking herbivores, and they can talk to one another, there's going to be a LOT of conversations about death and existence.  I could see them developing a theory of mind before they have complex tools, with that sort of prompting occurring so regularly.
->> I like this.  It has weaknesses, but I believe them to be addressable, provided that the reader is nudged and prompted into recognizing that Roko's world is different.
 >> 
+>> The comment about "so far away that I would never reach them" I agree with.  A slightly less specific comment about how far away the sun is, because it never seems closer no matter how far one walks, and then a comparative narration where these other suns must be even farther away would be fully within the capabilities of a rational paleolithic mind.  Also remember, this is a predator.  Visual-based predators have extremely good concepts of distance and position.  If they didn't, they wouldn't eat.
+>> 
+>> Spoken like a rational person.  Not a robot.  Though I would have interspersed it with thought-related activities, like pacing back and forth.  Gnashing of teeth.  Perhaps some inner dialog.
+>> 
+>> I agree that the idea of immortality is odd.  I would think Roko would eat him because he was hungry, and the being might be shocked and reply something along the lines of "You would eat someone who speaks to you?"  And then "If I did not, I would starve."
+>> 
+>> It did not take us hundreds of millennia to reason out a proper theory of mind.  We didn't even try until recently.  In this world, where thinking carnivores eat thinking herbivores, and they can talk to one another, there's going to be a LOT of conversations about death and existence.  I could see them developing a theory of mind before they have complex tools, with that sort of prompting occurring so regularly.
+>> 
+>> I like this.  It has weaknesses, but I believe them to be addressable, provided that the reader is nudged and prompted into recognizing that Roko's world is different.
 
->>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (17 hours later)
 >>> 
 >>> >A slightly less specific comment about how far away the sun is, because it never seems closer no matter how far one walks, and then a comparative narration where these other suns must be even farther away would be fully within the capabilities of a rational paleolithic mind.
->>> That first requires one to conceptualize the sun as an object in Euclidean space, with an actual distance. That is not something you can take for granted in a paleolithic environment. Before you can say the stars are like the sun, you first have to say that the sun is like any other object. You can see that this was not at all the case in even historical times, as they were deified in myth and viewed as objects of an entirely separate class. The sky itself was not seen as an expanse of unending space, but a curtain or a bowl that the tribe lived underneath. Appealing to the nature of predation doesn't work either, because we *still* have a hard time intuitively understanding the vast distances and scales in astronomy, or even *geography.* The scales a predatory mind can think of are on the order of hundreds of miles.
->>> >Spoken like a rational person. Not a robot.
->>> I think I realized my actual objection. The first sentence is completely unrelated to the following train of thought, and should have been placed after it. More description and deliberation would have been nice.
->>> > In this world, where thinking carnivores eat thinking herbivores, and they can talk to one another, there's going to be a LOT of conversations about death and existence.
->>> Why would there be? Thinking humans killed thinking humans all the time, and actual ideas of a theory of mind came from institutionalized philosophy and science. Cannibalism was and still is a thing, and there isn't any special difference between human tribes and this circumstance that would imply that there would be *any* cerebral thinking about that arrangement, especially without the benefit of writing to build up ideas that were already thought of. Cannibalism in tribes is religiously/spiritually rationalized, if I'm not mistaken, and given the clear sense of religion Roko's clan is shown to have, it would be a rationalization waiting to happen if it hadn't already.
->>> In paleolithic times, all anyone would be doing is duplicating information, not moving beyond the same ideas anyone else has had. Insular, tribal cultures preying on one another, focused on survival as they are, would only serve to develop religion and the idea of an afterlife, with an instinctual sense of spirituality. The sense of perspective Roko has in the story is frankly bizarre, given that he was raised in this culture and *does not have the benefit* of past thinkers to jump off of. You say that we didn't even try, but I say we weren't able to in the first place. Everything technological, economical, and cultural plays into this. Agriculture for supporting a population larger than farmers, writing for providing past work, and a tradition of philosophical thinking, which, like it or not, developed from the status and resources bestowed upon a developing religious caste, and eventually science itself. All of these things were necessary to build the ideas we take for granted today, and as a final blow, should I mention that Roko's iconoclasm is itself the rebuttal to the scenario you have hypothesized? If they developed a theory of mind, then it would not be a departure from the traditional beliefs that were depicted in the story.
->>> >I agree that the idea of immortality is odd. I would think Roko would eat him because he was hungry, and the being might be shocked and reply something along the lines of "You would eat someone who speaks to you?" And then "If I did not, I would starve."
->>> I do not find the idea of immortality odd in this setting, as it was conceptualized in myth and it comes naturally out of a fear of death. I was objecting to the idea that Roko's first thought would be making everyone immortal. The idea of eating him to obtain his power is entirely natural. Bull testicles give you strength.
 >>> 
+>>> That first requires one to conceptualize the sun as an object in Euclidean space, with an actual distance. That is not something you can take for granted in a paleolithic environment. Before you can say the stars are like the sun, you first have to say that the sun is like any other object. You can see that this was not at all the case in even historical times, as they were deified in myth and viewed as objects of an entirely separate class. The sky itself was not seen as an expanse of unending space, but a curtain or a bowl that the tribe lived underneath. Appealing to the nature of predation doesn't work either, because we *still* have a hard time intuitively understanding the vast distances and scales in astronomy, or even *geography.* The scales a predatory mind can think of are on the order of hundreds of miles.
+>>> 
+>>> >Spoken like a rational person. Not a robot.
+>>> 
+>>> I think I realized my actual objection. The first sentence is completely unrelated to the following train of thought, and should have been placed after it. More description and deliberation would have been nice.
+>>> 
+>>> > In this world, where thinking carnivores eat thinking herbivores, and they can talk to one another, there's going to be a LOT of conversations about death and existence.
+>>> 
+>>> Why would there be? Thinking humans killed thinking humans all the time, and actual ideas of a theory of mind came from institutionalized philosophy and science. Cannibalism was and still is a thing, and there isn't any special difference between human tribes and this circumstance that would imply that there would be *any* cerebral thinking about that arrangement, especially without the benefit of writing to build up ideas that were already thought of. Cannibalism in tribes is religiously/spiritually rationalized, if I'm not mistaken, and given the clear sense of religion Roko's clan is shown to have, it would be a rationalization waiting to happen if it hadn't already.
+>>> 
+>>> In paleolithic times, all anyone would be doing is duplicating information, not moving beyond the same ideas anyone else has had. Insular, tribal cultures preying on one another, focused on survival as they are, would only serve to develop religion and the idea of an afterlife, with an instinctual sense of spirituality. The sense of perspective Roko has in the story is frankly bizarre, given that he was raised in this culture and *does not have the benefit* of past thinkers to jump off of. You say that we didn't even try, but I say we weren't able to in the first place. Everything technological, economical, and cultural plays into this. Agriculture for supporting a population larger than farmers, writing for providing past work, and a tradition of philosophical thinking, which, like it or not, developed from the status and resources bestowed upon a developing religious caste, and eventually science itself. All of these things were necessary to build the ideas we take for granted today, and as a final blow, should I mention that Roko's iconoclasm is itself the rebuttal to the scenario you have hypothesized? If they developed a theory of mind, then it would not be a departure from the traditional beliefs that were depicted in the story.
+>>> 
+>>> >I agree that the idea of immortality is odd. I would think Roko would eat him because he was hungry, and the being might be shocked and reply something along the lines of "You would eat someone who speaks to you?" And then "If I did not, I would starve."
+>>> 
+>>> I do not find the idea of immortality odd in this setting, as it was conceptualized in myth and it comes naturally out of a fear of death. I was objecting to the idea that Roko's first thought would be making everyone immortal. The idea of eating him to obtain his power is entirely natural. Bull testicles give you strength.
 
->>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>> **u/Farmerbob1** [+1]  *Level 1 author* (17 hours later)
 >>>> 
 >>>> There is one other thing to consider.  A lot of your arguments are based on human interactivity with myths.  What if these beings were rational, and simply rejected unprovable theories.  No gods.  No myths.  No superstition.  Plenty of mistakes and mis-attributions, certainly, but if a reason for it isn't known, they don't just make things up randomly.  They assign it as unknown.
->>>> You seem to be basing a lot on an assumption that irrationality is unavoidable in a primitive society.
->>>> EDIT.  Hrm, there is a mention of a circle of life.  They are clearly not fully empirical.  Perhaps simply more so than humans were before technology.
 >>>> 
+>>>> You seem to be basing a lot on an assumption that irrationality is unavoidable in a primitive society.
+>>>> 
+>>>> EDIT.  Hrm, there is a mention of a circle of life.  They are clearly not fully empirical.  Perhaps simply more so than humans were before technology.
 
->>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (17 hours later)
 >>>>> 
 >>>>> > What if these beings were rational, and simply rejected unprovable theories.
->>>>> Except they aren't.
->>>>> >should I mention that Roko's iconoclasm is itself the rebuttal to the scenario you have hypothesized? If they developed a theory of mind, then it would not be a departure from the traditional beliefs that were depicted in the story.
->>>>> They are clearly depicted as having irrational beliefs, with Roko being the rational iconoclast to contrast their beliefs with.
->>>>> >You seem to be basing a lot on an assumption that irrationality is unavoidable in a primitive society.
->>>>> I am not. I simply claim that rationality in a primitive society would not manifest in the ways you are claiming, and that inferential distance precludes many of the logical leaps that Roko makes in this story. Inferential distance is actually a rational thing when you don't have a community of experts to defer to.
 >>>>> 
+>>>>> Except they aren't.
+>>>>> 
+>>>>> >should I mention that Roko's iconoclasm is itself the rebuttal to the scenario you have hypothesized? If they developed a theory of mind, then it would not be a departure from the traditional beliefs that were depicted in the story.
+>>>>> 
+>>>>> They are clearly depicted as having irrational beliefs, with Roko being the rational iconoclast to contrast their beliefs with.
+>>>>> 
+>>>>> >You seem to be basing a lot on an assumption that irrationality is unavoidable in a primitive society.
+>>>>> 
+>>>>> I am not. I simply claim that rationality in a primitive society would not manifest in the ways you are claiming, and that inferential distance precludes many of the logical leaps that Roko makes in this story. Inferential distance is actually a rational thing when you don't have a community of experts to defer to.
 
->>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (20 hours later)
 >>>>> 
 >>>>> > Hrm, there is a mention of a circle of life.
->>>>> I wanted to make a reference to 'The Lion King' for being my inspiration, but if that doesn't work then I'll take it out with the other upcoming edits.
 >>>>> 
+>>>>> I wanted to make a reference to 'The Lion King' for being my inspiration, but if that doesn't work then I'll take it out with the other upcoming edits.
 
->>>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (a day later)
 >>>>>> 
 >>>>>> Nothing wrong with a circle of life.  The biocycle is a circle of life.  Plants grow from dirt, herbivores eat plants, carnivores eat herbivores, insects eat dead carnivores, and everything returns to the soil again.  Even a primitive society could easily get that.
->>>>>> 
 
-> **u/DCarrier** [+2] *
+> **u/DCarrier** [+2]  (4 hours later)
 > 
 > If It can survive crashing a spacecraft, how could Roko hurt It?
-> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> I must have not made it clear enough, but I had in mind It being a posthuman with all of the physical abilities that it implies. Extreme durability, healing, and enhanced abilities. But all of that requires a lot of energy which is one of the reasons It wanted access to uranium. Therefore It must have used up most of it's energy reserves surviving the crash by focusing completely on protecting it's brain-equivalent and then spending three days afterwards regenerating a weaker, less energy-costly body.
->> This story is definitely poorly done, but it's the first time I actually manage to write something worthwhile (more than snippets and doesn't involve worldbuilding) in a few years. So for getting back in the hang of writing I feel that this is a decent start.
 >> 
+>> This story is definitely poorly done, but it's the first time I actually manage to write something worthwhile (more than snippets and doesn't involve worldbuilding) in a few years. So for getting back in the hang of writing I feel that this is a decent start.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (13 hours later)
 > 
 > Well, I'm headcanoning that the "it" was a [basilisk/cockatrice of a sort](https://upload.wikimedia.org/wikipedia/commons/7/70/Wenceslas_Hollar_-_The_basilisk_and_the_weasel.jpg).  Because I really was expecting you to take that wordplay and run with it.
-> 
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (20 hours later)
 >> 
 >> Huh? Why would a basilisk be an 'it' in any way? Aren't they creatures with the ability to petrify others with their gaze? That wouldn't mean they couldn't have a gender.
->> The 'it' phrasing was meant to only show how alien the posthuman is to the uplifted animals without spending time on any descriptive details....as well as it's lack of an observable gender.
 >> 
+>> The 'it' phrasing was meant to only show how alien the posthuman is to the uplifted animals without spending time on any descriptive details....as well as it's lack of an observable gender.
 
->>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (22 hours later)
 >>> 
 >>> "Roko's Basilisk" was a thought experiment brought up by Roko (a once-poster on LessWrong) with potentially cognitively damaging implications. To avoid distress, Eliezer deleted the comment, with predictable [Streisandian](https://en.wikipedia.org/wiki/Streisand_effect) consequences. It's a topic of some infamy around these parts.
->>> The term "Basilisk" or "Langford Basilisk" for cognitive hazards comes from the short story [B.L.I.T.](https://en.wikipedia.org/wiki/BLIT_%28short_story%29) by David Langford, which proposed the idea of visual patterns that could damage the brain by subverting the visual cortex.
 >>> 
+>>> The term "Basilisk" or "Langford Basilisk" for cognitive hazards comes from the short story [B.L.I.T.](https://en.wikipedia.org/wiki/BLIT_%28short_story%29) by David Langford, which proposed the idea of visual patterns that could damage the brain by subverting the visual cortex.
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (a day later)
 >>>> 
 >>>> *Jaw drops*
->>>> I was only using the name 'Roko' due to a preference for four-letters and two-syllabic sounds as the common shared patterns used by the animals.
->>>> I had completely forgotten about 'Roko's basilisk'!
->>>> Argh! *Now* I have an awesome ending to write and I can't do any writing until tomorrow!
->>>> Thanks for the explanation.
 >>>> 
+>>>> I was only using the name 'Roko' due to a preference for four-letters and two-syllabic sounds as the common shared patterns used by the animals.
+>>>> 
+>>>> I had completely forgotten about 'Roko's basilisk'!
+>>>> 
+>>>> Argh! *Now* I have an awesome ending to write and I can't do any writing until tomorrow!
+>>>> 
+>>>> Thanks for the explanation.
 
->>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+>>>>> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (a day later)
 >>>>> 
 >>>>> hahaha _oh fuck_
->>>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Yeah, I actually thought you were punning on "Roko's Basilisk".  It would have been a great Stealth Pun.
->>> 
 
 ---
 

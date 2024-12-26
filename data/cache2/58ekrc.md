@@ -12,62 +12,59 @@
 
 ### Comments:
 
-> **u/BlueSigil** [+2] *
+> **u/BlueSigil** [+2]  (16 hours later)
 > 
 > I really enjoyed this, though so far it feels like one very long intro to the point where the plot is just starting. Given what I've read about the frequent retcon's I've put it in my "check back in a year" folder
-> 
 
->> **u/UltraRedSpectrum** [+1] *
+>> **u/UltraRedSpectrum** [+1]  (16 hours later)
 >> 
 >> I do promise a not-insignificant amount of bloodshed and suffering by the end of the arc, if that helps. Arc 1 was meant to be an intro (and I admit it dragged a bit longer than it needed to), with arc 2 being the beginning of the primary conflict, plus the entrypoint for the last few primary actors. With the plot going a bit faster, now, I'm also getting into the bits that I've had planned since the beginning as opposed to since thirty seconds before the update goes live, and which are kind of necessary to the resolution of the plot, which (hopefully) will limit the retcon load.
->> 
 
-> **u/Gigapode** [+2] *
+> **u/Gigapode** [+2]  (23 hours later)
 > 
 > I honestly don't mind rereading revised chapters. I enjoyed going back to previous chapters to remind myself of whats happened and discovering something knew and improved. The conversation with EP at the start of the previous chapter definitely goes quite well with Accord's parting words at the end of the chapter.
-> The fact that I'm reading a story in the middle of development has always been my assumption when reading fanfiction/web fiction published a chapter at a time anyway.
 > 
+> The fact that I'm reading a story in the middle of development has always been my assumption when reading fanfiction/web fiction published a chapter at a time anyway.
 
-> **u/Predictablicious** [+2]  *Only Mark Annuncio Saves**
+> **u/Predictablicious** [+2]  *Only Mark Annuncio Saves* (8 hours later)
 > 
 > Definitely dropping this fic, every time a chapter goes up I have to re-read the previous ones because they changed significantly. I'll wait until this reaches a quiescent phase to read the unmodifying story.
-> 
 
-> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!* (6 hours later)
 > 
 > Question: 
-> What happened to previous updates? 1.06, 1.07 and 1.x interlude?
-> And since this chapter mentions rewrites, how confident are you the current version will be unchanged?
 > 
+> What happened to previous updates? 1.06, 1.07 and 1.x interlude?
+> 
+> And since this chapter mentions rewrites, how confident are you the current version will be unchanged?
 
->> **u/UltraRedSpectrum** [+4] *
+>> **u/UltraRedSpectrum** [+3]  (6 hours later)
 >> 
 >> I don't think there was a 1.06 or 1.07. 1.x is between 1.04 and 1.05, the old 2.01 is still somewhere by popular demand, but I insist on maintaining the trivial inconvenience of not telling anyone where so as to keep the timeline as unmuddied as is possible under the circumstances, and 2.x is buried slightly deeper than the old 2.01.
->> Statistically, I retcon about one in three chapters. However, I generally only retcon things that suffer backlash from multiple independent sources. Given that I've started delaying and reviewing chapters before publishing, I expect to retcon less in the future.
 >> 
+>> Statistically, I retcon about one in three chapters. However, I generally only retcon things that suffer backlash from multiple independent sources. Given that I've started delaying and reviewing chapters before publishing, I expect to retcon less in the future.
 
->>> **u/edwardkmett** [+2] *
+>>> **u/edwardkmett** [+2]  (2 days later)
 >>> 
 >>> A friend of mine publishes in serial form on another website, and has had exceedingly good results setting up a 'beta' mailing list where he posts 5-6 chapters ahead of his "committed" work to get such feedback. 
->>> This avoids thrashing for the majority readers for whom retcons are a complete deal-breaker, while granting those who are incredibly passionate about the story a way to provide feedback, spot typos, complain about your economy, point out that that particular brand of microcomputer wasn't available on that date, or what have you.
->>> This does require the discipline to work a few chapters ahead without feedback.
->>> That said, his workflow is actually to write out 100 3k chapters or so, getting feedback from a trusted editor as he goes, and _then_ go through in a detail pass like I just described, while he works on the next project, but the lead time on that is horrendous.
 >>> 
+>>> This avoids thrashing for the majority readers for whom retcons are a complete deal-breaker, while granting those who are incredibly passionate about the story a way to provide feedback, spot typos, complain about your economy, point out that that particular brand of microcomputer wasn't available on that date, or what have you.
+>>> 
+>>> This does require the discipline to work a few chapters ahead without feedback.
+>>> 
+>>> That said, his workflow is actually to write out 100 3k chapters or so, getting feedback from a trusted editor as he goes, and _then_ go through in a detail pass like I just described, while he works on the next project, but the lead time on that is horrendous.
 
-> **u/4t0m** [+1]  *Chaos Legion**
+> **u/4t0m** [+1]  *Chaos Legion* (17 hours later)
 > 
 > Like the others I'm always a bit sad to see that previous chapters have been revised or retconned, but I'm of the opinion that every revision has ultimately been to the good.  I wonder if you would improve more quickly as a writer if you set some of the perfectionism aside and just continued onward, but I myself would be sad to see the story fail to live up to its potential.
-> 
 
->> **u/UltraRedSpectrum** [+1] *
+>> **u/UltraRedSpectrum** [+1]  (18 hours later)
 >> 
 >> I only really improve when I recognize a mistake and work out how to consistently correct it, which the retcons usually involve. I also tend to get a bit incoherent if I don't revise for a few days before posting, something I hadn't realized until recently. Fortunately, as I've mentioned, my plans are a lot more concrete now that the intro is over.
->> 
 
-> **u/__2BR02B__** [+1]  *Marxist-Lurianism**
+> **u/__2BR02B__** [+1]  *Marxist-Lurianism* (8 days later)
 > 
 > So I just started reading this, and so far it seems like Worm as written by Ayn Rand. I'm absolutely loving it, though.
-> 
 
 ---
 

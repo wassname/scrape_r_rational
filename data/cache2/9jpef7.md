@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://delphicserial.com/2018/09/28/chapter-16-2/
-* Score: 18
+* Score: 17
 
 * Created: 2018-09-28T18:18:03
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+4]  (a minute later)
 > 
 > I'm moving back to my regular schedule; chapter 17 should post on Monday.
-> 
 
-> **u/Dent7777** [+4]  *House Atreides**
+> **u/Dent7777** [+4]  *House Atreides* (19 hours later)
 > 
 > The last chapter was pretty brutal, honestly not very happy with Liberty. Seems like there is something else going on.
-> 
 
 ---
 

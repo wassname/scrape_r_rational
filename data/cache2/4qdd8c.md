@@ -2,7 +2,7 @@
 
 * Author: u/gmrm4n *
 * URL: https://www.reddit.com/r/rational/comments/4qdd8c/nowhere_island_university_47/
-* Score: 3
+* Score: 2
 
 * Created: 2016-06-29T02:54:11
 

@@ -2,7 +2,7 @@
 
 * Author: u/TheUtilitaria *
 * URL: https://www.reddit.com/r/rational/comments/54cdly/hsfrt_the_utilitaria/
-* Score: 9
+* Score: 10
 
 * Created: 2016-09-24T22:19:26
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (43 minutes later)
 > 
 > > PDF
-> [Here's an EPUB version.](https://www.dropbox.com/s/xzac6kpfrwtvwf7/The%20Facilitator%20and%20The%20Utilitaria.epub?dl=0)
 > 
+> [Here's an EPUB version.](https://www.dropbox.com/s/xzac6kpfrwtvwf7/The%20Facilitator%20and%20The%20Utilitaria.epub?dl=0)
 
 ---
 

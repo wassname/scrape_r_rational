@@ -30,48 +30,46 @@ Do any of you play this game? how about trying to set up some games? the online 
 
 ### Comments:
 
-> **u/Bowbreaker** [+8]  *Solitary Locust**
+> **u/Bowbreaker** [+6]  *Solitary Locust* (49 minutes later)
 > 
 > I remember following this as it came out. The concept was awesome but sadly they skimped on all the normal RTS things. If not for the time travel it would look like a bad copy of the original StarCraft. In fact a lot of the game looks more like a proof of concept prototype than like anything that's supposed to stand on it's own and make revenue. Would be cool if someone took the time travel engine to make an actually good game with it.
-> 
 
->> **u/IomKg** [+2] *
+>> **u/IomKg** [+2]  (an hour later)
 >> 
 >> Anything in particular they skimped on?
 >> I heard some complaints about the path-finding but I understand this was resolved a bit after the release.
 >> Other than that I didn't notice anything obviously broken so far.
->> 
 
->>> **u/narfanator** [+3] *
+>>> **u/narfanator** [+3]  (an hour later)
 >>> 
 >>> "Tutorial". They do a bad job of teaching how to work with the novel new mechanic. Think about how hard later puzzles in Portal would be if you hadn't learned concepts in easier puzzles.
->>> 
 
->>>> **u/IomKg** [+2] *
+>>>> **u/IomKg** [+2]  (an hour later)
 >>>> 
 >>>> Are you referring to the tutorial/demo level they provide to introduce the mechanic?
 >>>> If so I agree its not the best , nor most comprehensive, but you do have to grant that time travel is not an easy topic to explain either..
->>>> In any case that mostly effects how easy it is to get in, after you are in it doesn't really effect the experience anyway..
 >>>> 
+>>>> In any case that mostly effects how easy it is to get in, after you are in it doesn't really effect the experience anyway..
 
->>> **u/Bowbreaker** [+3]  *Solitary Locust**
+>>> **u/Bowbreaker** [+3]  *Solitary Locust* (5 hours later)
 >>> 
 >>> The alien races are bland and forgettable, the various unit models don't do much to differentiate, the story is told in a horribly slow fashion that reminds me of games older than the original Command and Conquer, the graphics were at least 10 years out of date for the time and the actual unit control is clunky compared to modern RTS games.
->>> That's all off the top of my head from when I played it ~5 years ago but the Let's Play I just watched seems to confirm it.
 >>> 
+>>> That's all off the top of my head from when I played it ~5 years ago but the Let's Play I just watched seems to confirm it.
 
-> **u/MolochHASME** [+4] *
+> **u/MolochHASME** [+4]  (2 hours later)
 > 
 > Man, the time travel mechanic on this game is absolutely the best thing about it. I wish there were more games that used this mechanic. I heard the game developers had to sacrifice a lot in order to make it work. But I know it's possible to do it better. Look at planetary annihilation and their chronocam technology. I would bet money on that being easily adapted to implement this game mechanic more efficiently. 
-> I'm down for a game though.
 > 
+> I'm down for a game though.
 
-> **u/notgreat** [+3] *
+> **u/notgreat** [+3]  (5 hours later)
 > 
 > I'd be up for some games some time.
-> I found it to be a really interesting game that was unfortunately way overambitious. On release the pathfinding was atrocious and it's been improved to merely 'bad' (like, starcraft 1 dragoon level bad).  The campaign was slow and didn't explain the time travel mechanics very well. The graphics especially were problematic, as it was often hard to distinguish between some units.
-> The biggest problem was definitely the pathfinding though. You only get one release, and on release the pathfinding was so bad that it was unplayable. After the patches it became playable, but it was too late.
 > 
+> I found it to be a really interesting game that was unfortunately way overambitious. On release the pathfinding was atrocious and it's been improved to merely 'bad' (like, starcraft 1 dragoon level bad).  The campaign was slow and didn't explain the time travel mechanics very well. The graphics especially were problematic, as it was often hard to distinguish between some units.
+> 
+> The biggest problem was definitely the pathfinding though. You only get one release, and on release the pathfinding was so bad that it was unplayable. After the patches it became playable, but it was too late.
 
 ---
 

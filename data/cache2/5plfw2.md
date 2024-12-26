@@ -12,25 +12,21 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (29 minutes later)
 > 
 > [Project Zeppelin](http://markedfordeath.wikia.com/wiki/Zeppelin), here we go!
-> 
 
-> **u/oliwhail** [+1]  *Omake-Maximizing AGI**
+> **u/oliwhail** [+1]  *Omake-Maximizing AGI* (7 hours later)
 > 
 > Ch. 99 now :P
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (13 hours later)
 >> 
 >> Sorry, /u/eaglejarl renumbered it after I submitted it.
->> 
 
->>> **u/oliwhail** [+1]  *Omake-Maximizing AGI**
+>>> **u/oliwhail** [+1]  *Omake-Maximizing AGI* (14 hours later)
 >>> 
 >>> (I am aware, I'm just poking fun at you.)
->>> 
 
 ---
 

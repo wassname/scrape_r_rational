@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/7ajyvc/d_friday_offtopic_thread/
-* Score: 25
+* Score: 27
 
 * Created: 2017-11-03T15:07:14
 
@@ -15,316 +15,345 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/trekie140** [+9] *
+> **u/trekie140** [+10]  (12 hours later)
 > 
 > Can someone who’s read any Magic: The Gathering novels explain how duels between planeswalkers work in the fiction? I don’t play the game, but I find the lore kind of interesting and want to know what the card game looks like in-universe.
-> 
 
->> **u/None** [+6] *
+>> **u/None** [+7]  (19 hours later)
 >> 
 >> Partially relevant answer, here. I've read only pre-Mending novels (Odyssey, Onslaught, Mirrodin, Kamigawa, and maybe Ravnica? I know a bit about the last one, but I'm not sure whether I've actually read it). "Pre-Mending" refers to all the blocks before Time Spiral. Back then, Planeswalkers were basically small-g gods, traversing the planes and warping reality, not the kind of mortal mages the lore uses now. As an example of power levels, the silver golem Planeswalker Karn took some time off after the Weatherlight saga to *create a world from scratch*. (Mirrodin, in case you're wondering. Yes, that's why it's made of mostly metal.)
->> As you might imagine, Planeswalkers didn't duel much, pre-Mending, and if they did, it was in titanic conflicts like the aforementioned Weatherlight saga, which spanned five years' worth of sets. Then, the whole space-time continuum got kinda screwed up during Time Spiral, and as a result of the fix, Planeswalkers in general lost most of their powers. They're still able to traverse planes, but afaik, they're mortal mages in any other respect. (In case you were wondering, this is why Bolas is always plotting for some cosmic source of power; he got used to the god lifestyle over the centuries.)
->> But I haven't answered your question, yet. Except for the Weatherlight saga, I can't point you at any sources for Planeswalker duels, and I haven't read that one. I hesitate to recommend the newer books as well, mostly for the same reason. What I *do* recommend is the Odyssey block books by Vance Moore, Scott McGough and Will McDermott, respectively. 
->> As might be expected from tie-in novels, they're essentially pulp fantasy, but kinda fun if you're into that kind of thing, with larger-than-life heroes and villains of all colours duking it out for an absurdly powerful artifact on Dominaria, Magic's core "classic" world. And *all* characters, even the barbarians, use magic, both in the form of spells and summoned creatures. To me, it's always been the depiction that was closest to how I imagine the card battles to be. I think if your standards for rationality/general quality aren't set too high, there's a lot of fun to be had with those books. And you can get them used on Amazon for pocket change!
->> If you haven't had enough after that trilogy, try the Onslaught block, which is a direct sequel that goes into somewhat more surreal/intense power levels with several god-like entities getting built over the course of it. If your need for Planeswalker battles is satisfied after that and you just want more Magic lore, I've always been a fan of the Kamigawa novels. (Yes, game-design wise, it's one of the weakest blocks, but the lore is really done well, especially the book's protagonist, Toshiro Umezawa, who presents a really well-done black protagonist (in the sense of Magic colours, not race).)
->> Imho, the lore is one of old Magic's strongest points. While the books were always an excuse to explore different worlds, they're also tied together by some pretty strong themes, like the colour philosophies, which get new and interesting twists every time. Thank you for asking, and do get back to me if you want to talk about Magic lore.
->> EDIT: TL;DR: Characters in the lore don't do anything remotely similar to the card game, except in the Odyssey block, where they do.
 >> 
+>> As you might imagine, Planeswalkers didn't duel much, pre-Mending, and if they did, it was in titanic conflicts like the aforementioned Weatherlight saga, which spanned five years' worth of sets. Then, the whole space-time continuum got kinda screwed up during Time Spiral, and as a result of the fix, Planeswalkers in general lost most of their powers. They're still able to traverse planes, but afaik, they're mortal mages in any other respect. (In case you were wondering, this is why Bolas is always plotting for some cosmic source of power; he got used to the god lifestyle over the centuries.)
+>> 
+>> But I haven't answered your question, yet. Except for the Weatherlight saga, I can't point you at any sources for Planeswalker duels, and I haven't read that one. I hesitate to recommend the newer books as well, mostly for the same reason. What I *do* recommend is the Odyssey block books by Vance Moore, Scott McGough and Will McDermott, respectively. 
+>> 
+>> As might be expected from tie-in novels, they're essentially pulp fantasy, but kinda fun if you're into that kind of thing, with larger-than-life heroes and villains of all colours duking it out for an absurdly powerful artifact on Dominaria, Magic's core "classic" world. And *all* characters, even the barbarians, use magic, both in the form of spells and summoned creatures. To me, it's always been the depiction that was closest to how I imagine the card battles to be. I think if your standards for rationality/general quality aren't set too high, there's a lot of fun to be had with those books. And you can get them used on Amazon for pocket change!
+>> 
+>> If you haven't had enough after that trilogy, try the Onslaught block, which is a direct sequel that goes into somewhat more surreal/intense power levels with several god-like entities getting built over the course of it. If your need for Planeswalker battles is satisfied after that and you just want more Magic lore, I've always been a fan of the Kamigawa novels. (Yes, game-design wise, it's one of the weakest blocks, but the lore is really done well, especially the book's protagonist, Toshiro Umezawa, who presents a really well-done black protagonist (in the sense of Magic colours, not race).)
+>> 
+>> Imho, the lore is one of old Magic's strongest points. While the books were always an excuse to explore different worlds, they're also tied together by some pretty strong themes, like the colour philosophies, which get new and interesting twists every time. Thank you for asking, and do get back to me if you want to talk about Magic lore.
+>> 
+>> EDIT: TL;DR: Characters in the lore don't do anything remotely similar to the card game, except in the Odyssey block, where they do.
 
->>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >>> 
 >>> Seconding the book recommendation. Odyssey trilogy was probably my favorite set of magic books. The sequel trilogy was decent too, but gets a bit strange.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> I think for me personally, the characters were what pushed it over the top. They're not "best of all time" material, but so much more than what you'd expect from generic pulp fantasy. Kamahl beautifully subverts the "dumb barbarian" stereotype, Laquatus is incredibly hateable, and the entire archetype of dementia summoners is just so, so much fun, from Skellum to Braids. And the way each of those both embodied and struggled with their respective colour philosophies (think of Kamahl's friendship with both Seton and Chainer, who are very much at odds), is just beautiful.
->>>> Still think Kamigawa has some of the more epic scenes, though. Characters like Hidetsugu are forces of nature.
 >>>> 
+>>>> Still think Kamigawa has some of the more epic scenes, though. Characters like Hidetsugu are forces of nature.
 
->>>>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+2]  *Pokémon Professor* (2 days later)
 >>>>> 
 >>>>> Yeah, the color wheel was fantastically exemplified by the trilogy's characters.
->>>>> 
 
-> **u/cthulhuraejepsen** [+9]  *Fruit flies like a banana**
+> **u/cthulhuraejepsen** [+8]  *Fruit flies like a banana* (9 hours later)
 > 
 > Well, seasonal affective disorder has made itself known again. It somehow always sneaks up on me, ready to sap me of my desire to do anything but sleep and eat. I've suffered from major depressive disorder before, and they're quite different for me, mostly in terms of how they affect appetite (depression leaves me unable to eat, SAD leaves me with a near-constant craving for comfort foods) and enjoyment of things (depression leaves me feeling hollow, SAD mostly takes the joy from active things like writing, leaving passive things like watching television unaffected). I guess I would say that under the influence of seasonal affective disorder, I feel like a hibernating bear. They share a strong desire to sleep the days away and general low energy.
+> 
 > So this year, I've resolved to be more active in treatment:
+> 
 > * Get better sleep.
 > * Take 300mcg of melatonin an hour before a reasonable bedtime.
 > * Take vitamin D supplements.
 > * Do lightbox therapy for half an hour in the mornings (I am still calibrating this; currently it's giving me a bit of a headache).
 > * Spend something like a half hour exercising every day.
-> So far, this hasn't really been helping, but it's still early on. I think the only thing that's left to add is cognitive behavioral therapy, which I would need to do more research on; there was at least one study that indicated that this helped with SAD, and given low cost that's enough for me to try it.
-> The big downside here is that things like "actually get the 'proper' amount of sleep" really cut into my limited free time, which I think further exacerbates the depressive part of SAD.
 > 
+> So far, this hasn't really been helping, but it's still early on. I think the only thing that's left to add is cognitive behavioral therapy, which I would need to do more research on; there was at least one study that indicated that this helped with SAD, and given low cost that's enough for me to try it.
+> 
+> The big downside here is that things like "actually get the 'proper' amount of sleep" really cut into my limited free time, which I think further exacerbates the depressive part of SAD.
 
->> **u/Gurkenglas** [+10] *
+>> **u/Gurkenglas** [+10]  (11 hours later)
 >> 
 >> Yudkowsky says stringing up 130 or so 60-watt-equivalent high-CRI LED bulbs around the house, in a mix of 5000K and 2700K color temperatures, helped.
->> 
 
->>> **u/EliezerYudkowsky** [+16]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+16]  *Godric Gryffindor* (17 hours later)
 >>> 
 >>> In a case where the dinky little lightbox didn't.
->>> 
 
->> **u/lsparrish** [+2] *
+>> **u/lsparrish** [+2]  (2 days later)
 >> 
 >> Light is obviously a good idea for SAD; you can get [strip lights](https://www.amazon.com/s/&field-keywords=strip+lights) these days that are pretty cheap and [bright](https://www.youtube.com/watch?v=jLia59KfkSw). I'm planning a DIY project with my roommate who has bad depression, what I'm thinking is to put these around the ceiling in his room and have a timer turn it on in the morning. We could also put them up around the house, similar to what Eliezer says helped for Brienne.
->> If the lightbox gives you a headache, you might consider whether you are sensitive to specific colors. What we did is go to Home Depot and look at lights until he found a color he liked (3000K / soft white). Also, LED is probably better than fluorescent since it doesn't flicker.
->> CBT is probably a good idea. (Since my roomie has BPD and self harm issues as well as depression, I got him a [DBT workbook](https://www.amazon.com/gp/product/1572245131/). DBT is related to CBT but is more geared to people with emotional instability and self harm.)
 >> 
+>> If the lightbox gives you a headache, you might consider whether you are sensitive to specific colors. What we did is go to Home Depot and look at lights until he found a color he liked (3000K / soft white). Also, LED is probably better than fluorescent since it doesn't flicker.
+>> 
+>> CBT is probably a good idea. (Since my roomie has BPD and self harm issues as well as depression, I got him a [DBT workbook](https://www.amazon.com/gp/product/1572245131/). DBT is related to CBT but is more geared to people with emotional instability and self harm.)
 
-> **u/awesomeideas** [+7]  *Dai stiho, cousin.**
+> **u/awesomeideas** [+6]  *Dai stiho, cousin.* (6 hours later)
 > 
 > Comparatively, how bad are each of these cases?
+> 
 > 1. Briefly control a person's body but not mind and force them to do [a thing] they don't want to do.
 > 2. Briefly control a person's mind such that they want to do, and proceed to do [a thing] they previously didn't.
 > 3. Permanently alter a person's mind such that they want to do, and proceed to do [a thing] they previously didn't.
-> 
 
->> **u/Kinoite** [+7] *
+>> **u/Kinoite** [+6]  (15 hours later)
 >> 
 >> These seem context dependent.  The horror comes from feeling helpless, more than any specific act.
->> Tap someone's knee with a reflex hammer and you can make them kick their leg.  That would be annoying, but not really horrifying
 >> 
+>> Tap someone's knee with a reflex hammer and you can make them kick their leg.  That would be annoying, but not really horrifying
 
->> **u/PL_TOC** [+2] *
+>> **u/PL_TOC** [+2]  (7 hours later)
 >> 
 >> Imperius vs trickery vs brainwashing
->> 
 
->> **u/ShiranaiWakaranai** [+1] *
+>> **u/ShiranaiWakaranai** [+1]  (14 hours later)
 >> 
 >> Willingly or unwillingly? That is the question.
->> If someone asks you to make them stay on their diet, you could brainwash them into staying on their diet, and that would be a good thing. 
->> If it is unwilling, then isn't the answer clearly in the order you presented them?
->> 1. Subject remembers doing something they didn't want to. Subject remembers not being willing to do thing, but were forced to.
->> 2. Subject remembers doing something they didn't want to. Subject remembers wanting to do thing. Now has to live with the guilt of doing evil thing and/or paranoia that whatever thoughts they have are the result of more mental puppeting rather than their own.
->> 3. Subject is dead, replaced by your puppet-mind.
 >> 
+>> If someone asks you to make them stay on their diet, you could brainwash them into staying on their diet, and that would be a good thing. 
+>> 
+>> If it is unwilling, then isn't the answer clearly in the order you presented them?
+>> 
+>> 1. Subject remembers doing something they didn't want to. Subject remembers not being willing to do thing, but were forced to.
+>> 
+>> 2. Subject remembers doing something they didn't want to. Subject remembers wanting to do thing. Now has to live with the guilt of doing evil thing and/or paranoia that whatever thoughts they have are the result of more mental puppeting rather than their own.
+>> 
+>> 3. Subject is dead, replaced by your puppet-mind.
 
->> **u/UltraRedSpectrum** [+1] *
+>> **u/UltraRedSpectrum** [+1]  (a day later)
 >> 
 >> It depends on what the thing is. If you make someone do some task for you and in the process permanently alter a person's mind to make them more diligent, that would be better than briefly controlling their mind. Ditto for vegetarianism or being more frugal. Conversely, if you permanently alter them to make them your slave, that would be much worse than briefly controlling their body, which would itself be much worse than briefly controlling their mind.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (6 hours later)
 >> 
 >> (3) is most likely the worst, but I dunno how bad (1) and (2) are versus each-other.  I mean, is it worse to force someone to *experience* their whole nervous system absolutely refusing their normal motor/mental action pathways in favor of some foreign owner, or to alter their nervous system so the same thing happens but they experience it (falsely) as their own will?
->> 
 
->>> **u/ShiranaiWakaranai** [+3] *
+>>> **u/ShiranaiWakaranai** [+3]  (14 hours later)
 >>> 
 >>> (2) is definitely worse than (1) imo. Both cases result in your body doing the same thing, but at least in (1), you know when you're being controlled. And then, since the control is temporary, in (1) you can make plans to escape control.
->>> In (2) you can't escape. Any plans you make are dubious: did you really make them? Or were you puppeted into making them? Are any of your thoughts really yours? Or are they lies fed into your head, steering you deeper into the unknown puppeteer's control? Were you ever really controlled in the first place? What if those evil thoughts were really yours? Can you say the blood on your hands wasn't something you chose for yourself?
 >>> 
+>>> In (2) you can't escape. Any plans you make are dubious: did you really make them? Or were you puppeted into making them? Are any of your thoughts really yours? Or are they lies fed into your head, steering you deeper into the unknown puppeteer's control? Were you ever really controlled in the first place? What if those evil thoughts were really yours? Can you say the blood on your hands wasn't something you chose for yourself?
 
->> **u/KrazyKeylime** [+1] *
+>> **u/KrazyKeylime** [+1]  (7 hours later)
 >> 
 >> 3 is not always bad, a good conversation can do number 3 through talking out stances on different issues and exploring the ramifications of each stance and where it leads.
->> 
 
->>> **u/vakusdrake** [+1] *
+>>> **u/vakusdrake** [+1]  (8 hours later)
 >>> 
 >>> Sure but you could say the same thing about both 1 and 2.
->>> Provoking any sort of involuntary physiological response from somebody could fall under 1 and 2 applies whenever you convince somebody of something but they later change their mind.
 >>> 
+>>> Provoking any sort of involuntary physiological response from somebody could fall under 1 and 2 applies whenever you convince somebody of something but they later change their mind.
 
->> **u/ToaKraka** [-7]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [-5]  *https://i.imgur.com/OQGHleQ.png* (8 hours later)
 >> 
 >> > Comparatively, how bad are ~~each of~~\* these cases?
->> That's a rather vague question. What did you mean to ask?
->> > Comparatively, how evil are these actions on the part of the perpetrator?
->> > Comparatively, how frightening (or damaging) to the victim are these actions?
->> \*`are` is singular. `each` is plural. The subject of a verb must agree with that verb. A better way to word the question might have been `How bad are these situations in comparison to each other?`.
 >> 
+>> That's a rather vague question. What did you mean to ask?
+>> 
+>> > Comparatively, how evil are these actions on the part of the perpetrator?
+>> 
+>> > Comparatively, how frightening (or damaging) to the victim are these actions?
+>> 
+>> \*`are` is singular. `each` is plural. The subject of a verb must agree with that verb. A better way to word the question might have been `How bad are these situations in comparison to each other?`.
 
-> **u/CouteauBleu** [+6]  *We are the Empire.**
+> **u/CouteauBleu** [+7]  *We are the Empire.* (13 hours later)
 > 
 > Kind-of-weekly update on [The Tesseract Engine](https://docs.google.com/document/d/1vIWf3Nqudgh18j4RK8bm4zOTSKUFl6l9Igvdg1adzGE/edit), my ongoing game engine project.
-> ---
-> I haven't done much since the last two weeks. The most important thing I did was try to decide which engine to use.
-> A lot of people have recommended Unity to me in the past, but I really don't see it. I've worked with Unity several times, and I'm working with Unity now, and so far my take-away is that Unity handles a lot of thing a beginner would have trouble with and probably get wrong on their first try, but it doesn't actually help you *make a game* that much.
-> Like, game-making is 99% playtesting things, fine-tuning, and finding new intricate little laws of game design that nobody tells you about like "You need to give some ease-in to this character's movement or it's not going to feel natural" or "You need your character to have a little animation when the player does X to have a proper game feel", while I feel Unity focuses on more surface aspects (realistic physics and rendering, state machines), and sometimes it baggage even feels detrimental.
-> Anyway, my point is, Unity is out. While I'd like to eventually make the engine from the ground up (both for fun and because I legit think I can do better), it's probably a really terrible idea right now. I recently re-read [an old software article on the subject](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/), which basically said "If you already had an existing structure, use it. If it has flaws, fix them. You shouldn't create a new structure from the ground up, it's just going to have different flaws".
-> I think the article addresses the exact mistake in my thinking: I was imagining that starting over from a "clean state" would be better somehow; but the only reason I thought that was because I can't visualize all the challenges ahead of me, all the new design errors I'll make as I wear out, etc.
-> With that in mind, I've decided I will make a fork of the Minetest engine, and enhance it incrementally until I get the result I want. Minetest is what inspired this project in the first place. It's open source, it's C++, and it's a base I can use to see my changed in real time instead of imagining them in the future.
-> Editing an existing codebase has its difficulties. I need to understand what the hell I'm reading before I can make significant changes like adding features or reworking systems (changes like "Add line of text here" or "Change the player jump height are relatively easy"). Last time I had a look at the Minetest codebase, it felt too humonguous for me to parse, and I quickly gave up. I don't know how much I've grown as a programmer since, but I feel that "Keep reading the codebase until I understand it" is an area where I've become both braver and more efficient.
-> ---
-> I'm afraid that I'm bike-shedding right now, and that I've already spent way too much time planning this game.
-> The common advice for novice game designers is "Don't mother making too many plans, start as soon as you can". But this isn't really my thing. Maybe it's a sign that I should focus even more on starting sooner, but I don't think this is it. For one, I legitimately think I'm a better planner than average, especially regarding gamedev.
-> But the main thing is, I've burned out on a lot of projects, and I'm just aware of how many ways it can go wrong. I feel like I can't move forward if I don't have a mental model of where I am, roughly where I will be, and how things are going to click together.
-> I guess the only solution here is to suck it up, accept that I'll never know if I'm doing too much planning or not enough planning, move forward and hope it gets better.
-> (thanks to u/TK17Studios for reminding me to post these, by the way; the encouragement helps)
-> ---
-> I think I'm one small step away from getting into the pleasant "code-test-code-test-code-it-works!-code-test-code-test" loop where I'm the most productive, and it's having a list of milestones. I need to take a good look at Minetest and the Minetest codebase, see what I think I can do better (using the metrics I've already decided on), and order it by how fast I can do it and how rewarding it will be.
-> I'm hoping that will be done by the end of the week-end.
 > 
+> ---
+> 
+> I haven't done much since the last two weeks. The most important thing I did was try to decide which engine to use.
+> 
+> A lot of people have recommended Unity to me in the past, but I really don't see it. I've worked with Unity several times, and I'm working with Unity now, and so far my take-away is that Unity handles a lot of thing a beginner would have trouble with and probably get wrong on their first try, but it doesn't actually help you *make a game* that much.
+> 
+> Like, game-making is 99% playtesting things, fine-tuning, and finding new intricate little laws of game design that nobody tells you about like "You need to give some ease-in to this character's movement or it's not going to feel natural" or "You need your character to have a little animation when the player does X to have a proper game feel", while I feel Unity focuses on more surface aspects (realistic physics and rendering, state machines), and sometimes it baggage even feels detrimental.
+> 
+> Anyway, my point is, Unity is out. While I'd like to eventually make the engine from the ground up (both for fun and because I legit think I can do better), it's probably a really terrible idea right now. I recently re-read [an old software article on the subject](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/), which basically said "If you already had an existing structure, use it. If it has flaws, fix them. You shouldn't create a new structure from the ground up, it's just going to have different flaws".
+> 
+> I think the article addresses the exact mistake in my thinking: I was imagining that starting over from a "clean state" would be better somehow; but the only reason I thought that was because I can't visualize all the challenges ahead of me, all the new design errors I'll make as I wear out, etc.
+> 
+> With that in mind, I've decided I will make a fork of the Minetest engine, and enhance it incrementally until I get the result I want. Minetest is what inspired this project in the first place. It's open source, it's C++, and it's a base I can use to see my changed in real time instead of imagining them in the future.
+> 
+> Editing an existing codebase has its difficulties. I need to understand what the hell I'm reading before I can make significant changes like adding features or reworking systems (changes like "Add line of text here" or "Change the player jump height are relatively easy"). Last time I had a look at the Minetest codebase, it felt too humonguous for me to parse, and I quickly gave up. I don't know how much I've grown as a programmer since, but I feel that "Keep reading the codebase until I understand it" is an area where I've become both braver and more efficient.
+> 
+> ---
+> 
+> I'm afraid that I'm bike-shedding right now, and that I've already spent way too much time planning this game.
+> 
+> The common advice for novice game designers is "Don't mother making too many plans, start as soon as you can". But this isn't really my thing. Maybe it's a sign that I should focus even more on starting sooner, but I don't think this is it. For one, I legitimately think I'm a better planner than average, especially regarding gamedev.
+> 
+> But the main thing is, I've burned out on a lot of projects, and I'm just aware of how many ways it can go wrong. I feel like I can't move forward if I don't have a mental model of where I am, roughly where I will be, and how things are going to click together.
+> 
+> I guess the only solution here is to suck it up, accept that I'll never know if I'm doing too much planning or not enough planning, move forward and hope it gets better.
+> 
+> (thanks to u/TK17Studios for reminding me to post these, by the way; the encouragement helps)
+> 
+> ---
+> 
+> I think I'm one small step away from getting into the pleasant "code-test-code-test-code-it-works!-code-test-code-test" loop where I'm the most productive, and it's having a list of milestones. I need to take a good look at Minetest and the Minetest codebase, see what I think I can do better (using the metrics I've already decided on), and order it by how fast I can do it and how rewarding it will be.
+> 
+> I'm hoping that will be done by the end of the week-end.
 
-> **u/ketura** [+9]  *Organizer**
+> **u/ketura** [+8]  *Organizer* (4 hours later)
 > 
 > Weekly update on the [hopefully rational](https://docs.google.com/document/d/11QAh61C8gsL-5KbdIy5zx3IN6bv_E9UkHjwMLVQ7LHg/edit?usp=sharing) roguelike [immersive sim](https://www.youtube.com/watch?v=kbyTOAlhRHk) Pokemon Renegade, as well as the associated engine and tools. [Handy discussion links and previous threads here](https://docs.google.com/document/d/1EUSMDHdRdbvQJii5uoSezbjtvJpxdF6Da8zqvuW42bg/edit?usp=sharing).
-
-> ----
-
-> What?  Only one post?  How odd.
-
-> All the worse that I have nothing to report, then.  I’m in a very strange-feeling conundrum, and perhaps venting about it will garner enough understanding to extract good advice from the good denizens here at /r/rational.  So, the rest of this has nothing directly to do with Renegade, just a bunch of whining and excusemongering.
-
-> ----
-> So I started this project over a year ago, in August of 2016.  My time has always flipflopped between thinking about how I want various systems to work, and at times prototyping or building tools.  Before this recent funk started, I had gone four solid months with a code commit every day on the weekdays and hefty code changes on the weekends.  At the end of this period starting a few weeks ago, I suddenly found myself without drive.  
-> I’ve been burned out before--I’m familiar with the feeling of revulsion, it’s almost like when you eat pancakes for six weeks straight until just the *smell* of syrup makes you want to gag, only for working on one’s projects.  Trying to open visual studio or even one of the various google docs I keep info in makes me almost feel like squirming when I put the mouse cursor over the relevant icons, and I search for something, *anything* else to do.  I say this because I’m familiar with that burnout, and this is something else entirely.  
-> For context, a few weeks ago I was promoted at my job, which lead to becoming responsible for several processes that until then I had kicked off but not maintained.  I’ve spent a month or so documenting, reorganizing, and revamping all the various projects.  I have worked no additional hours (well, except for that one time that I had to come in on Sunday) and, if anything, the amount of stress I feel at work has gone *down*, since now I’m in a position to fix all the shit that caused me problems previously.
-> I had also decided somewhere around the same time that I ought to consider my sleep more important than I had been, and made a goal to go to bed around 11 or so each night.  I then shortly after made the discovery that I had apparently unintentionally made a rule that I was to sleep through my most productive hours, and my progress on Renegade all but halted.  The obvious answer is to renege on that restriction, but at the same time I probably *shouldn’t* keep up the ~5-6 hours of sleep that I was getting.  My memory has always been fleeting, but I’ve been noticing more and more that my brain just flat-out can’t keep up the way that it used to, and, well, it’s reminded me a lot of the way my grandparents used to be absent-minded when they were still alive.  That frightens me, to be honest, more than nearly anything, that due to poor sleep habits I might be accelerating mental aging, and I *have* to put a stop to that if that’s the case.  Since keeping (mostly) to the 11’o’clock rule, I’ve noticed my alertness levels rise and my ability to think through problems increase, although my short-term memory is still shit.  
-> So here I am, with the majority of the hours that I was once productive in lost to me.  On top of that, I think that the changes at my job have been nothing but positive--which is to say, I think that I’ve been scratching some major programming itches that used to only be fulfilled by my work on Renegade, but now I have a whole *slew* of poorly designed processes and projects that I am happily taking the axe to.  This increased job satisfaction means that rather than coming home gunning to implement some concept or other that I’ve designed that day, I’m coming home ready to just play with my son, maybe play a few games of dota, and then hit the hay.  
-> I would think that weekends would then fill the void, but besides the random Saturday or Sunday that gets filled to capacity with other things, I just haven’t felt the need. I no longer have an overpressured valve that is desperately calling for release, I’m just...content.  And so I do whatever idle thing catches my fancy and never feel the need to boot up visual studio or open a document or anything.  
-> *And yet*, this universal satisfaction is itself unsatisfying to me.  I have shit I want to *accomplish*, and no matter how I crank the wheel I can’t get the engine to start.  
-> So, I’d like to ask you for advice: how does one motivate onesself to work when the previous fuel for the fire was based on discontent that has been addressed?  How do I balance the desire to get things done with keeping my brain healthy via proper sleep habits?  Any thoughts or comments are most welcome.
-
-> ----
-
-> If you would like to help contribute, or if you have a question or idea that isn’t suited to comment or PM, then feel free to request access to the /r/PokemonRenegade subreddit.  If you’d prefer real-time interaction, join us [on the #pokengineering channel of the /r/rational Discord server](https://discord.gg/sM99CF3)!
 > 
+> ----
+> 
+> What?  Only one post?  How odd.
+> 
+> All the worse that I have nothing to report, then.  I’m in a very strange-feeling conundrum, and perhaps venting about it will garner enough understanding to extract good advice from the good denizens here at /r/rational.  So, the rest of this has nothing directly to do with Renegade, just a bunch of whining and excusemongering.
+> 
+> ----
+> 
+> So I started this project over a year ago, in August of 2016.  My time has always flipflopped between thinking about how I want various systems to work, and at times prototyping or building tools.  Before this recent funk started, I had gone four solid months with a code commit every day on the weekdays and hefty code changes on the weekends.  At the end of this period starting a few weeks ago, I suddenly found myself without drive.  
+> 
+> I’ve been burned out before--I’m familiar with the feeling of revulsion, it’s almost like when you eat pancakes for six weeks straight until just the *smell* of syrup makes you want to gag, only for working on one’s projects.  Trying to open visual studio or even one of the various google docs I keep info in makes me almost feel like squirming when I put the mouse cursor over the relevant icons, and I search for something, *anything* else to do.  I say this because I’m familiar with that burnout, and this is something else entirely.  
+> 
+> For context, a few weeks ago I was promoted at my job, which lead to becoming responsible for several processes that until then I had kicked off but not maintained.  I’ve spent a month or so documenting, reorganizing, and revamping all the various projects.  I have worked no additional hours (well, except for that one time that I had to come in on Sunday) and, if anything, the amount of stress I feel at work has gone *down*, since now I’m in a position to fix all the shit that caused me problems previously.
+> 
+> I had also decided somewhere around the same time that I ought to consider my sleep more important than I had been, and made a goal to go to bed around 11 or so each night.  I then shortly after made the discovery that I had apparently unintentionally made a rule that I was to sleep through my most productive hours, and my progress on Renegade all but halted.  The obvious answer is to renege on that restriction, but at the same time I probably *shouldn’t* keep up the ~5-6 hours of sleep that I was getting.  My memory has always been fleeting, but I’ve been noticing more and more that my brain just flat-out can’t keep up the way that it used to, and, well, it’s reminded me a lot of the way my grandparents used to be absent-minded when they were still alive.  That frightens me, to be honest, more than nearly anything, that due to poor sleep habits I might be accelerating mental aging, and I *have* to put a stop to that if that’s the case.  Since keeping (mostly) to the 11’o’clock rule, I’ve noticed my alertness levels rise and my ability to think through problems increase, although my short-term memory is still shit.  
+> 
+> So here I am, with the majority of the hours that I was once productive in lost to me.  On top of that, I think that the changes at my job have been nothing but positive--which is to say, I think that I’ve been scratching some major programming itches that used to only be fulfilled by my work on Renegade, but now I have a whole *slew* of poorly designed processes and projects that I am happily taking the axe to.  This increased job satisfaction means that rather than coming home gunning to implement some concept or other that I’ve designed that day, I’m coming home ready to just play with my son, maybe play a few games of dota, and then hit the hay.  
+> 
+> I would think that weekends would then fill the void, but besides the random Saturday or Sunday that gets filled to capacity with other things, I just haven’t felt the need. I no longer have an overpressured valve that is desperately calling for release, I’m just...content.  And so I do whatever idle thing catches my fancy and never feel the need to boot up visual studio or open a document or anything.  
+> 
+> *And yet*, this universal satisfaction is itself unsatisfying to me.  I have shit I want to *accomplish*, and no matter how I crank the wheel I can’t get the engine to start.  
+> 
+> So, I’d like to ask you for advice: how does one motivate onesself to work when the previous fuel for the fire was based on discontent that has been addressed?  How do I balance the desire to get things done with keeping my brain healthy via proper sleep habits?  Any thoughts or comments are most welcome.
+> 
+> ----
+> 
+> If you would like to help contribute, or if you have a question or idea that isn’t suited to comment or PM, then feel free to request access to the /r/PokemonRenegade subreddit.  If you’d prefer real-time interaction, join us [on the #pokengineering channel of the /r/rational Discord server](https://discord.gg/sM99CF3)!
 
->> **u/PL_TOC** [+3] *
+>> **u/PL_TOC** [+3]  (5 hours later)
 >> 
 >> Look at the success you have had. The benchmarks you have reached. The creative aspects can only be realistically held to benchmarks to a limited degree. For the technical holdups, you'd at least have discovered which avenues are a waste of time, maybe not as soon as you liked, but the lessons have been learned and now you can save your time or the time of your friends in the future.
->> Motivation comes and goes. The goal is to create and deliver a good product.
->> As for sleep, have dedicated hours for the project that you will meet if not exceed. You've got 16-18 hours per day within which to place that block. Sleep when you sleep. If you feel tired go to sleep earlier. None of that should interfere or brush up against your project schedule.
 >> 
+>> Motivation comes and goes. The goal is to create and deliver a good product.
+>> 
+>> As for sleep, have dedicated hours for the project that you will meet if not exceed. You've got 16-18 hours per day within which to place that block. Sleep when you sleep. If you feel tired go to sleep earlier. None of that should interfere or brush up against your project schedule.
 
->>> **u/ketura** [+2]  *Organizer**
+>>> **u/ketura** [+2]  *Organizer* (a day later)
 >>> 
 >>> >As for sleep, have dedicated hours for the project that you will meet if not exceed. You've got 16-18 hours per day within which to place that block.
->>> I might try this, actually.  Set an alarm and try and track hours or something.  Thanks.
 >>> 
+>>> I might try this, actually.  Set an alarm and try and track hours or something.  Thanks.
 
->>>> **u/PL_TOC** [+1] *
+>>>> **u/PL_TOC** [+1]  (a day later)
 >>>> 
 >>>> Writing and coding is very similar in this respect. You can crank out the wpm if you know what needs to get done. If not, you still want to at least hit a certain word count or construct a scene etc. Most call that 2-3 hours a day. More on the weekend.
->>>> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (11 hours later)
 >> 
 >> > I had also decided somewhere around the same time that I ought to consider my sleep more important than I had been, and made a goal to go to bed around 11 or so each night.  I then shortly after made the discovery that I had apparently unintentionally made a rule that I was to sleep through my most productive hours, and my progress on Renegade all but halted.  The obvious answer is to renege on that restriction, but at the same time I probably shouldn’t keep up the ~5-6 hours of sleep that I was getting.
->> This may sound dumb, have you tried just getting up later? It would probably involve some negotiating with your boss, and if you get both sleep and work then you have to spend less time on *something*, but otherwise it might do the trick (or it might completely wrack your sleep schedule forever).
->> > So, I’d like to ask you for advice: how does one motivate onesself to work when the previous fuel for the fire was based on discontent that has been addressed?  How do I balance the desire to get things done with keeping my brain healthy via proper sleep habits?  Any thoughts or comments are most welcome.
->> It depends on why you started the project in the first place.
->> Was there a specific itch, a feeling of "there should be rational games out there but there aren't so I need to make one"? Or was it just that you wanted to build interesting architectures? If it's the later, leaving the project aside for now isn't such a bad thing if you're already satisfied by your job.
->> If it's the former, then you need to find reminders that make your itch flare up again. Existing video games that make you feel "Damn, I like this game, but if only it were *a little more like this*, and it could have this, and that part should have been done this way instead", etc.
 >> 
+>> This may sound dumb, have you tried just getting up later? It would probably involve some negotiating with your boss, and if you get both sleep and work then you have to spend less time on *something*, but otherwise it might do the trick (or it might completely wrack your sleep schedule forever).
+>> 
+>> > So, I’d like to ask you for advice: how does one motivate onesself to work when the previous fuel for the fire was based on discontent that has been addressed?  How do I balance the desire to get things done with keeping my brain healthy via proper sleep habits?  Any thoughts or comments are most welcome.
+>> 
+>> It depends on why you started the project in the first place.
+>> 
+>> Was there a specific itch, a feeling of "there should be rational games out there but there aren't so I need to make one"? Or was it just that you wanted to build interesting architectures? If it's the later, leaving the project aside for now isn't such a bad thing if you're already satisfied by your job.
+>> 
+>> If it's the former, then you need to find reminders that make your itch flare up again. Existing video games that make you feel "Damn, I like this game, but if only it were *a little more like this*, and it could have this, and that part should have been done this way instead", etc.
 
->>> **u/ketura** [+2]  *Organizer**
+>>> **u/ketura** [+2]  *Organizer* (a day later)
 >>> 
 >>> >This may sound dumb, have you tried just getting up later?
->>> Not really an option, sadly.  In an ideal world I'd work like 11AM to 8PM, but I have meetings that start at 9:30.  Besides that, my wife has to take care of the kid all day and is begging for relief by the time I get home even at 6, so extending that time out is bad for her.
->>> >Was there a specific itch, a feeling of "there should be rational games out there but there aren't so I need to make one"? Or was it just that you wanted to build interesting architectures?
->>> A little of column A, a little of column B.  I've attempted to rekindle here and there, but while I've found discussion topics that I get invested in, nothing has translated over to fueling actual work yet.
 >>> 
+>>> Not really an option, sadly.  In an ideal world I'd work like 11AM to 8PM, but I have meetings that start at 9:30.  Besides that, my wife has to take care of the kid all day and is begging for relief by the time I get home even at 6, so extending that time out is bad for her.
+>>> 
+>>> >Was there a specific itch, a feeling of "there should be rational games out there but there aren't so I need to make one"? Or was it just that you wanted to build interesting architectures?
+>>> 
+>>> A little of column A, a little of column B.  I've attempted to rekindle here and there, but while I've found discussion topics that I get invested in, nothing has translated over to fueling actual work yet.
 
-> **u/DaystarEld** [+4]  *Pokémon Professor**
+> **u/DaystarEld** [+4]  *Pokémon Professor* (4 hours later)
 > 
 > Looking for an online RPG to play with a friend of mine, I've been wanting to run one for a while but I finally recognized that finding that much extra time is unrealistic for me right now. Is there anyone looking for members for an online game they want to run? D&D or World of Darkness are the two systems we're most familiar with, but I'm willing to learn a new one if it's interesting enough :)
-> 
 
->> **u/phylogenik** [+4] *
+>> **u/phylogenik** [+5]  (5 hours later)
 >> 
 >> Divinity: Original Sin 2 has been getting all sorts of accolades and may be worth checking out, if you’re not tied to having a human DM.  A cheaper option could be D:OS1, as well (which I quite enjoyed, but public consensus seems to be that it’s not quite as good as its sequel)
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+4]  (5 hours later)
 >>> 
 >>> I'd also suggest Divinity: Original Sin 2.
->>> 
 
->>> **u/ben_oni** [+1] *
+>>> **u/ben_oni** [+1]  (7 hours later)
 >>> 
 >>> I thought I saw something about D:OS2 including a GM mode? Is that worth trying as a platform?
->>> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+6]  *We are the Empire.* (9 hours later)
 >> 
 >> > I've been wanting to run one for a while but I finally recognized that finding that much extra time is unrealistic for me right now. 
->> Aaaaaaaaaaaaaaahahahahaaaaaaaaaaaaaaaaaaaaaaaaargh.
->> Yeah, wanting to run a RPG table but never finding the time is the worst.
 >> 
+>> Aaaaaaaaaaaaaaahahahahaaaaaaaaaaaaaaaaaaaaaaaaargh.
+>> 
+>> Yeah, wanting to run a RPG table but never finding the time is the worst.
 
->> **u/ketura** [+2]  *Organizer**
+>> **u/ketura** [+2]  *Organizer* (4 hours later)
 >> 
 >> Have you tried the #lookingforgroup channel in discord?  The number of active tabletop games has gone down a bit, but I think people are still playing games here and there.
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (4 hours later)
 >>> 
 >>> Yep, posted there too :)
->>> 
 
->> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (6 hours later)
 >> 
 >> > I'm willing to learn a new one if it's interesting enough
->> Check out [*GURPS*](http://www.sjgames.com/gurps). I've never played even a single session of it, but I'm endlessly entertained by [the sourcebooks](http://www.sjgames.com/gurps/books), which are so well-researched that they include extensive [bibliographies](http://www.sjgames.com/gurps/biblios.html).
 >> 
+>> Check out [*GURPS*](http://www.sjgames.com/gurps). I've never played even a single session of it, but I'm endlessly entertained by [the sourcebooks](http://www.sjgames.com/gurps/books), which are so well-researched that they include extensive [bibliographies](http://www.sjgames.com/gurps/biblios.html).
 
->> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (6 hours later)
 >> 
 >> Seconding Divinity: Original Sin and its sequel.
->> 
 
->> **u/trekie140** [+1] *
+>> **u/trekie140** [+1]  (5 hours later)
 >> 
 >> I don’t think I could GM, but I’ve been looking to play a Fate game for a while now and the rules are easy to learn without being too simple. There are a lot of supplements for a ton of different settings, though I’m especially interested in *Transhumanity’s Fate* and *Base Raiders*. I’m also open to creating a custom setting with the worldbuilding game *Microscope*.
->> 
 
-> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+> **u/callmesalticidae** [+4]  *writes worldbuilding books* (6 hours later)
 > 
 > We've had arguments and discussions, here and elsewhere, not just about the merits of r!fic but about its very nature, and which stories are or aren't r!fic and why. 
-> The genre isn't old by any means, but I think that it's aged enough that we can take a look at where it came from, what it's done, and what it's become (and may be becoming). I'm thinking of writing a book, one part history, one part analysis, and maybe one-half part speculation on my part. 
-> The focus would be on the discussions about what r!fic is, since we've spent so much time discussing that, but I'd also like to set some of this in the context of, say, literary realism; I want to talk about the idea of ur-genres; and I think that there's some interesting stuff in how r!fic may be found in both original works and fanfic but was incubated in the latter, which is pretty unusual ('How fanfiction is influencing original fiction" is a really interesting topic in its own right, but I'll only be talking about it in relation to r!fic for now). Might also have a discussion about the r!fic community if I can get enough material together, there are some people I'd like to interview, and obviously it's going to have a hugebunch of footnotes. 
-> Does a book like this sound interesting to anyone else?
 > 
+> The genre isn't old by any means, but I think that it's aged enough that we can take a look at where it came from, what it's done, and what it's become (and may be becoming). I'm thinking of writing a book, one part history, one part analysis, and maybe one-half part speculation on my part. 
+> 
+> The focus would be on the discussions about what r!fic is, since we've spent so much time discussing that, but I'd also like to set some of this in the context of, say, literary realism; I want to talk about the idea of ur-genres; and I think that there's some interesting stuff in how r!fic may be found in both original works and fanfic but was incubated in the latter, which is pretty unusual ('How fanfiction is influencing original fiction" is a really interesting topic in its own right, but I'll only be talking about it in relation to r!fic for now). Might also have a discussion about the r!fic community if I can get enough material together, there are some people I'd like to interview, and obviously it's going to have a hugebunch of footnotes. 
+> 
+> Does a book like this sound interesting to anyone else?
 
->> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.* (6 hours later)
 >> 
 >> Maybe not a *book*, since I genuinely doubt there’s that much worth remembering across that time. But one or two long articles would be great to have. Better yet to come to some definitive conclusions on those topics.
->> 
 
->>> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (6 hours later)
 >>> 
 >>> > Maybe not a book, since I genuinely doubt there’s that much worth remembering across that time.
->>> Fair enough. I'm using "book" pretty loosely here. I think my choice of wording was influenced by how I imagine writing and presenting it (as a google doc or downloadable PDF, because I don't really have much in the way of an online platform worth directing people to).
 >>> 
+>>> Fair enough. I'm using "book" pretty loosely here. I think my choice of wording was influenced by how I imagine writing and presenting it (as a google doc or downloadable PDF, because I don't really have much in the way of an online platform worth directing people to).
 
->>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (13 hours later)
 >>>> 
 >>>> Well I'd be interested, but I don't know that I'm typical in that regard.
->>>> 
 
->>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (13 hours later)
 >>>> 
 >>>> Depending on how in depth you go I'd pay dollar votes, but not more than a large mocha with extras, for this.  That said I'm likely in the minority; I got my BS in English: a historical deconstruction would be interesting, but I do hope you'd do a wide literature review.
->>>> 
 
->>>>> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>>>>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (13 hours later)
 >>>>> 
 >>>>> Thanks! That's really nice to hear. I'm not sure if I'd actually *sell* this or just release it for free, but if I got a lot of material then I'd probably release a free condensed version (along the lines of a Slate Star Codex article of moderate length) and then offer the really chunky, full-of-footnotes-and-delicious-details version for, IDK, $1.99, or $2.99 tops.
->>>>> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (9 hours later)
 >> 
 >> I don't know. It sounds like this book would have a lot of navel-gazing, and generally the things that people look down on post-modernism for, but maybe I'm wrong. I wouldn't be that surprised if it had interesting points to make.
->> Maybe look at the Rationally Writing podcast, since this is the kind of thing they talk about (though I'd expect your book to be way less diluted because of the format).
 >> 
+>> Maybe look at the Rationally Writing podcast, since this is the kind of thing they talk about (though I'd expect your book to be way less diluted because of the format).
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (2 days later)
 > 
 > I'm late but I don't care I'm excited BECAUSE I'm applying for a new job!!!!!!
-> New job is basically a sideways move with some different responsibilities, not really any more money, but it'll be different and i'm getting sick of my exact current role now and I think some more general and practical project management experience will really help me.
-> In Australia government jobs require a ~5 page document that describes, in detail, how you are capable of doing everything required for the job, so I did a first draft of that on the weekend and will polish it this week and put together a resume (the resume is the least important part of the entire application). 
-> Even if I don't get it, the application process with help me apply for *my own job* (long story) if/when I get the opportunity to do so in ~3 months or so. So that'll be good.
 > 
+> New job is basically a sideways move with some different responsibilities, not really any more money, but it'll be different and i'm getting sick of my exact current role now and I think some more general and practical project management experience will really help me.
+> 
+> In Australia government jobs require a ~5 page document that describes, in detail, how you are capable of doing everything required for the job, so I did a first draft of that on the weekend and will polish it this week and put together a resume (the resume is the least important part of the entire application). 
+> 
+> Even if I don't get it, the application process with help me apply for *my own job* (long story) if/when I get the opportunity to do so in ~3 months or so. So that'll be good.
 
 ---
 

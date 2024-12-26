@@ -2,7 +2,7 @@
 
 * Author: u/Huitzil37 *
 * URL: https://www.reddit.com/r/rational/comments/k17pqx/rtcffdeath_note_silent_partner_unfinished_business/
-* Score: 23
+* Score: 25
 
 * Created: 2020-11-26T03:46:46
 
@@ -22,42 +22,43 @@ The Death Note falls into the hands of a much more intelligent and much more vis
 
 ### Comments:
 
-> **u/excinera** [+6] *
+> **u/excinera** [+5]  (4 hours later)
 > 
 > It's good.
-> 
 
-> **u/LazarusRises** [+5] *
+> **u/LazarusRises** [+4]  (a day later)
 > 
 > This is great. Solid writing that captures the feel of the original, while situating the characters a few steps closer to "normal if hyperintelligent humans" and away from "perfect deterministic prediction machines." This quote got me good and reminded me of how I felt reading some of the more complex exchanges the first time through:
-> >Ryuzaki and Light Yagami were working on an entirely different level than anyone else, building up these huge chains of 'if Kira knows this, than he'd want us to think this, and if he knew that he would have chosen his victims in this manner, which this smudge on a photograph indicates he was left-handed, so the surgeon is a woman' that I don't think anyone else in the room could follow, and they all ended up back at 'so we don't really know anything' anyway.
-> I remember liking Naomi a lot in the original, and that absolutely comes through here. I also have a soft spot for disabled protagonists who are actually limited by their disability, rather than the more common "WITHOUT MY LEGS, MY ARMS HAVE BECOME FOUR TIMES AS POWERFUL" shenanigans. The author has clearly researched aphasia.
 > 
+> >Ryuzaki and Light Yagami were working on an entirely different level than anyone else, building up these huge chains of 'if Kira knows this, than he'd want us to think this, and if he knew that he would have chosen his victims in this manner, which this smudge on a photograph indicates he was left-handed, so the surgeon is a woman' that I don't think anyone else in the room could follow, and they all ended up back at 'so we don't really know anything' anyway.
+> 
+> I remember liking Naomi a lot in the original, and that absolutely comes through here. I also have a soft spot for disabled protagonists who are actually limited by their disability, rather than the more common "WITHOUT MY LEGS, MY ARMS HAVE BECOME FOUR TIMES AS POWERFUL" shenanigans. The author has clearly researched aphasia.
 
-> **u/None** [+4] *
+> **u/None** [+3]  (10 hours later)
 > 
 > I highly recommend this!
-> It has characters using intelligent planning and highly unorthodox strategies to achieve their goals!
-> It has a very good depiction of aphasia!
-> It has a very well written Misa!
-> It has a short but very good blood kink scene!
-> Read it.
 > 
+> It has characters using intelligent planning and highly unorthodox strategies to achieve their goals!
+> 
+> It has a very good depiction of aphasia!
+> 
+> It has a very well written Misa!
+> 
+> It has a short but very good blood kink scene!
+> 
+> Read it.
 
-> **u/Asviloka** [+3] *
+> **u/Asviloka** [+3]  (12 hours later)
 > 
 > Highly recommended, this was awesome. One of the very, very few Death Note fics to give the same feeling of suspense as watching the original for the first time. So good.
-> 
 
-> **u/Restinan** [+3] *
+> **u/Restinan** [+3]  (18 hours later)
 > 
 > I've only read 30 percent of the story at time of writing, but thus far I've really enjoyed it. The characters do a good job of thinking well, and the story does a really good job of showing how different people with different levels of intelligence go about thinking as best they can. The geniuses read like actual geniuses, and the smart-but-not-genius characters read as just that. Beyond that, the characters all have really unique voices in a way that makes it a joy to read. Light's a monster, but his perspective is still really enjoyable.
-> 
 
-> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (19 days later)
 > 
 > I second this, great story. I also really liked >!the pairing of Naomi and Misa!<.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3aefrf/d_friday_offtopic_thread/
-* Score: 14
+* Score: 13
 
 * Created: 2015-06-19T13:29:16
 
@@ -18,366 +18,359 @@ If this thread is even remotely successful, we'll have one every week.
 
 ### Comments:
 
-> **u/Colonel_Fedora** [+6]  *Ravenclaw**
+> **u/Colonel_Fedora** [+7]  *Ravenclaw* (2 hours later)
 > 
 > STEVEN UNIVERSE. It's a super ultra rad show and I'd recommend it to everyone and their dog. Anyone else hyped about Steven Bomb 2.0?
-> Edit: I also really appreciate giving the folks hanging out here some stuff to do. I thinks it's really livened the place up.
 > 
+> Edit: I also really appreciate giving the folks hanging out here some stuff to do. I thinks it's really livened the place up.
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (4 hours later)
 >> 
 >> This is the third time I've been recommended this, which is about when I start lazily paying attention. Is it pretty similar to Adventure Time?
->> 
 
->>> **u/Colonel_Fedora** [+3]  *Ravenclaw**
+>>> **u/Colonel_Fedora** [+5]  *Ravenclaw* (5 hours later)
 >>> 
 >>> For a given value of similar. It has a lot more focus, with a smaller, though still sizable cast. I'd also say it's better at pacing its story arcs. And the setting is less completely whacky, and more reality+, though that description undersells it a little. Also, the characterization is much more relatable in my opinion.
->>> 
 
->>> **u/Drazelic** [+2]  *Dai-Gurren Brigade**
+>>> **u/Drazelic** [+2]  *Dai-Gurren Brigade* (7 hours later)
 >>> 
 >>> Didn't Rebecca Sugar work on Adventure Time before she made Steven Universe? Steven Universe is less random than Adventure Time, but it's also more... heartfelt? Like, if the core appeal of Adventure Time is unexpected weird-but-consistent plot, the core appeal of Steven Universe is heartfelt emotional appeal.
->>> The first few episodes of Steven Universe are pretty slow, though. I'd probably skip Gem Glow and Laser Light Cannon and start with Cheeseburger Backpack; that one's a pretty solid introduction to the core characters, and there's not a lot of backstory presented in the first two episodes that you can't get from just watching further episodes. Just my opinion.
 >>> 
+>>> The first few episodes of Steven Universe are pretty slow, though. I'd probably skip Gem Glow and Laser Light Cannon and start with Cheeseburger Backpack; that one's a pretty solid introduction to the core characters, and there's not a lot of backstory presented in the first two episodes that you can't get from just watching further episodes. Just my opinion.
 
-> **u/lsparrish** [+6] *
+> **u/lsparrish** [+5]  (2 hours later)
 > 
 > There's a group on Facebook (which I help moderate) called [Rational Transhumanism](https://www.facebook.com/groups/rational.transhumanism/). Has weekly Off Topic Tuesdays, otherwise posts should be directly related to Transhumanism. Basically, it's a walled garden for non-troll, non-pseudoscience transhumanism stuff.
-> I also have a few small groups: [Replicating Robots](https://www.facebook.com/groups/replicatingrobots/), [Dyson Sphere Enthusiasts](https://www.facebook.com/groups/1609409269315330/), and [Industrial Transhumanism](https://www.facebook.com/groups/industrialtranshumanism/). There is also a low-traffic subreddit at /r/replicatingrobots.
 > 
+> I also have a few small groups: [Replicating Robots](https://www.facebook.com/groups/replicatingrobots/), [Dyson Sphere Enthusiasts](https://www.facebook.com/groups/1609409269315330/), and [Industrial Transhumanism](https://www.facebook.com/groups/industrialtranshumanism/). There is also a low-traffic subreddit at /r/replicatingrobots.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (8 hours later)
 >> 
 >> You should add paragraph breaks to the Facebook group's description.  The first one, I mean.
->> 
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+5]  *My arch-enemy is entropy* (3 hours later)
 > 
 > Jojo's Bizarre Adventures is AWESOME and I think this is an incredibly important comment to make since I only got into it a few weeks ago.
-> 
 
->> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (9 hours later)
 >> 
 >> I've been wondering whether or not I should start this, as I've recently begun to see it mentioned and referenced *everywhere* I go. Did you start with the manga, or the anime?
->> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> I've only read the manga; don't really have enough free time to watch anime episodes. I'd strongly recommend reading the first few chapters and then deciding to continue or not.
->>> 
 
->>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (a day later)
 >>>> 
 >>>> Sounds good, thanks!
->>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (8 hours later)
 >> 
 >> SECOND JOJO BEST JOJO.  Where are you in the series?
->> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> I've only finished Phantom Blood and working my way through Battle Tendency, but I already know that this series is a keeper. I don't usually do this, but I ended up scouring the Internet for PDFs to save on my computer for future rereads even though it's (IMHO) ethically dubious.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> The anime of *Stardust Crusaders* just aired its finale last night, too.
->>>> 
 
->> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >> 
 >> Is Jojo at all similar to One Piece? I get that feel from what little art and story elements I've seen.
->> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> I...don't know, because I haven't read/watched very much of One Piece. But One-Piece seems very character driven with a quest to act as the over arching plot-line while JJBA is very focused on character growth through adversary and makes incredibly detailed personalities come to life. I want to say yes that if you like one, then you'll like the other one, but I recommend reading a few chapters first and then deciding.
->>> 
 
-> **u/cellsminions** [+5] *
+> **u/cellsminions** [+5]  (6 hours later)
 > 
 > I'm running a D&D session tomorrow. I sometimes browse r/dnd, but I'm wondering what r/rational's favorite thing to see in a D&D/tabletop rpg is?
-> 
 
->> **u/AmeteurOpinions** [+8]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+9]  *Finally, everyone was working together.* (6 hours later)
 >> 
 >> Personally, I like the sorts of situations that can never, ever be replicated in other kinds of media, like solving an impossible problem with an outside-the-box trick or averting/causing a war by seducing and marrying the princess after rescuing her. I also love a good spell combo across classes -- nothing gamebreaking, just good old teamwork and synergy.
->> 
 
->> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (6 hours later)
 >> 
 >> If I had to pick just one, it would be floating islands.
->> I ran a campaign with post-Soviet Russia as the primary fantasy counterpart culture, and one of the balkanized countries consisted of a series of floating islands. The adventure hook was that these islands were very rich — a relic of the upper levels of psuedo-Stalin's (here, a gargantuan red dragon) People's Party — and in order to complete their quest, the players needed to steal from them. This took place at a relatively low level, which meant that the heist had some serious risks involved with it, like the fact that they didn't have access to rings of *feather fall* in case they dropped. Of course, when they went to steal the item, they found that it was integral to making the estate-island actually float, which brought up some questions of whether it was even worth it, or if it was, how they would evacuate safely after removing the item. (Given that it was a crapsack world and they were sort of revolutionaries, they decided to crater the island, killing hundreds of people. They made their escape via Immovable Rod, which was this whole other thing.)
 >> 
+>> I ran a campaign with post-Soviet Russia as the primary fantasy counterpart culture, and one of the balkanized countries consisted of a series of floating islands. The adventure hook was that these islands were very rich — a relic of the upper levels of psuedo-Stalin's (here, a gargantuan red dragon) People's Party — and in order to complete their quest, the players needed to steal from them. This took place at a relatively low level, which meant that the heist had some serious risks involved with it, like the fact that they didn't have access to rings of *feather fall* in case they dropped. Of course, when they went to steal the item, they found that it was integral to making the estate-island actually float, which brought up some questions of whether it was even worth it, or if it was, how they would evacuate safely after removing the item. (Given that it was a crapsack world and they were sort of revolutionaries, they decided to crater the island, killing hundreds of people. They made their escape via Immovable Rod, which was this whole other thing.)
 
->>> **u/adad64** [+4]  *Chaos Legion**
+>>> **u/adad64** [+4]  *Chaos Legion* (6 hours later)
 >>> 
 >>> I just finished a campaign where it was floating cities above a desert. We managed to hold off an eldritch monstrosity by convincing Greta, the leader of the city, to flip the city onto the beast. We killed it, shot up five levels for taking on a boss we were severely underleveled for and spent te nex while getting her resurrected.
->>> 
 
->> **u/nicholaslaux** [+3] *
+>> **u/nicholaslaux** [+3]  (22 hours later)
 >> 
 >> As a DM, I tend to invent problems for my characters, and not have any solutions in mind, because my players always seem to subvert them.
->> 
 
->>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>> 
 >>> Although I've never played a PnP (sigh ;_;), this is my intuition for how GMs should do it. Reading stories from /tg/ and watching Greg's Personal Times from Dawn Somewhere have given me that sort of impression.
->>> 
 
-> **u/Ulmaxes** [+3] *
+> **u/Ulmaxes** [+4]  (7 hours later)
 > 
 > I am halfway through Elon Musk's biography, and am finding it super interesting. I love how he boiled his moral compass down to "make humanity safer and smarter" (paraphrasing). He's not just in this to make a quick buck or be famous (although he does like being those things very much), he's genuinely aiming for a net-positive impact on humanity. I'd greatly suggest it to anyone who wants to know what that crazy guy making the rockets and electric cars is really up to.
-> 
 
->> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (2 days later)
 >> 
 >> And those who want the Cliffs notes version can read Wait But Why's [article series](http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) on the topic.
->> I subscribed to Wait But Why after they wrote the first [AI risk primer](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the internet that isn't terrible. It's quickly becoming my second-favourite blog.
 >> 
+>> I subscribed to Wait But Why after they wrote the first [AI risk primer](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the internet that isn't terrible. It's quickly becoming my second-favourite blog.
 
-> **u/Kishoto** [+4] *
+> **u/Kishoto** [+4]  (9 hours later)
 > 
 > Considering my post got deleted, I suppose I'll try and restate my question here:
-> Ethnocentrism. Judging another culture by your culture's values. "Culture" being anything ranging from a value typical of your race, all the way down to a value typical of someone raised by Mr Dad and Ms Mom. 
-> First question: How far does this go? Is your entire belief structure ethnocentric? 
-> Second question: How do you determine the difference between a belief that's generally right for humanity and a belief that only seems right because you grew up a Caucasian Agnostic woman from the East Coast? 
-> Third question: How does this affect your actions towards other nations (assuming you are in a position of power in a country that's also in a position of power) Do you leave countries to their own devices, and let nature take its course? Or, out of your value for human life, not just your own country's human life, do you seek to try and change things? And how do you determine how "bad" something has to be for it to warrant you attempting to change it? And how committed are you to dealing with problems that invariably rise?
-
-> Phew. Long post. Feel free to address one, or two, or all three. Or even none at all, and just give a general comment on ethnocentrism.
-> **TL;DR: How much of what you believe is ethnocentric? And when is it right for you to try and change other people's behaviors to fit your views on what's right and wrong?**
 > 
+> Ethnocentrism. Judging another culture by your culture's values. "Culture" being anything ranging from a value typical of your race, all the way down to a value typical of someone raised by Mr Dad and Ms Mom. 
+> 
+> First question: How far does this go? Is your entire belief structure ethnocentric? 
+> 
+> Second question: How do you determine the difference between a belief that's generally right for humanity and a belief that only seems right because you grew up a Caucasian Agnostic woman from the East Coast? 
+> 
+> Third question: How does this affect your actions towards other nations (assuming you are in a position of power in a country that's also in a position of power) Do you leave countries to their own devices, and let nature take its course? Or, out of your value for human life, not just your own country's human life, do you seek to try and change things? And how do you determine how "bad" something has to be for it to warrant you attempting to change it? And how committed are you to dealing with problems that invariably rise?
+> 
+> Phew. Long post. Feel free to address one, or two, or all three. Or even none at all, and just give a general comment on ethnocentrism.
+> 
+> **TL;DR: How much of what you believe is ethnocentric? And when is it right for you to try and change other people's behaviors to fit your views on what's right and wrong?**
 
->> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>> **u/alexanderwales** [+9]  *Time flies like an arrow* (10 hours later)
 >> 
 >> For me, it always comes back to slavery. Every time it comes up that so-and-so was a slave holder, people say, "Oh, well it was different back then". I hate that. It feels incredibly intellectually dishonest to me.
->> The arguments against slavery weren't any different back then. You can read anti-slavery tracts from hundreds of years ago, and they're substantially similar to what you'd read today if it weren't just common knowledge that slavery is wrong. [My ancestors wrote this one.](https://en.wikisource.org/wiki/Memorial_Against_Slaveholding) Yet there seems to be this societal impulse to simply forgive people of other cultures who are looking at the same lines of logic and rejecting them. It might be one thing if the anti-abolitionist tracts were well-reasoned and thought-provoking, but I've read them, and they're not.
->> I think it's the same looking to other countries as it is looking to the past. Should I look at something like genital mutilation and say, "Oh, well it's different over there"? I don't think so. I don't think the lines of logic (or the starting axioms) are defensible. This is especially true in the case where the argument is, "This is our way of life," which is often the case. Claiming that something should continue because that's just the way it's been is terrible, circular logic that somehow people keep falling for.
->> Your belief system is always going to be somewhat of a reflection on how you were raised, but I think if we're striving to be rational, then we should also be striving to make sure that our beliefs are as universal as possible - and I think that in general, that leads us away from ethnocentrism.
->> The question of *what to do about it* is a more complicated question. The biggest issue is that the solutions are often worse than the problems, which is a sign of stupid solutions. Sending in an army is usually pretty terrible. Trying to enact stiff penalties will often result in a wildly out of control unregulated black market. Generally speaking, I think the solutions should be rooted in information and industrialization. If your logic is better than *their* logic, then your logic is going to win out over time, especially once you've shown *them* the right ways to think. (Where right is defined by being the ways that result in success, and which are belief-system agnostic.)
 >> 
+>> The arguments against slavery weren't any different back then. You can read anti-slavery tracts from hundreds of years ago, and they're substantially similar to what you'd read today if it weren't just common knowledge that slavery is wrong. [My ancestors wrote this one.](https://en.wikisource.org/wiki/Memorial_Against_Slaveholding) Yet there seems to be this societal impulse to simply forgive people of other cultures who are looking at the same lines of logic and rejecting them. It might be one thing if the anti-abolitionist tracts were well-reasoned and thought-provoking, but I've read them, and they're not.
+>> 
+>> I think it's the same looking to other countries as it is looking to the past. Should I look at something like genital mutilation and say, "Oh, well it's different over there"? I don't think so. I don't think the lines of logic (or the starting axioms) are defensible. This is especially true in the case where the argument is, "This is our way of life," which is often the case. Claiming that something should continue because that's just the way it's been is terrible, circular logic that somehow people keep falling for.
+>> 
+>> Your belief system is always going to be somewhat of a reflection on how you were raised, but I think if we're striving to be rational, then we should also be striving to make sure that our beliefs are as universal as possible - and I think that in general, that leads us away from ethnocentrism.
+>> 
+>> The question of *what to do about it* is a more complicated question. The biggest issue is that the solutions are often worse than the problems, which is a sign of stupid solutions. Sending in an army is usually pretty terrible. Trying to enact stiff penalties will often result in a wildly out of control unregulated black market. Generally speaking, I think the solutions should be rooted in information and industrialization. If your logic is better than *their* logic, then your logic is going to win out over time, especially once you've shown *them* the right ways to think. (Where right is defined by being the ways that result in success, and which are belief-system agnostic.)
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (13 hours later)
 >>> 
 >>> Perhaps you should interpret the similarity of the abolitionist tracts as a sign that slavery moved, as culture changed, from right to wrong. The abolitionists' position clearly didn't move. Consider you, your descendants, and your ancestors. Every pair will probably find each other abhorrent. How can you say your own beliefs are right now, if their beliefs aren't right at their times?
->>> edit: Of course, should these two beliefs exist *at the same time* they're not both valid at once.
 >>> 
+>>> edit: Of course, should these two beliefs exist *at the same time* they're not both valid at once.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (13 hours later)
 >> 
 >> >First question: How far does this go? Is your entire belief structure ethnocentric?
->> Probably not all of it, but I don't see a reason to believe my beliefs aren't determined by my heritage when Indo-Europeans rule much of the planet, and IE languages are used almost all of it. There are all the religious parallels, and some harder to identify but no less present cultural parallels which stand out all the more when very different cultures are still around.
->> >Second question: How do you determine the difference between a belief that's generally right for humanity and a belief that only seems right because you grew up a Caucasian Agnostic woman from the East Coast?
->> Look for beliefs that everyone shares regardless of language family (as a proxy for their heritage). The only absolute constant I can see is "don't murder." I believe private property is also a common trait. Things like "how close of a cousin is too close?" have a different answer depending on who you ask. I don't believe that "first" is the right answer, but I acknowledge there are people who disagree. If possible, try to learn about older cultures or forgotten traditions: it may be useful today even if it didn't make the cut before. One such belief I'm wondering about now is monuments. I (I would say we, but I do not know your heritage) know that my ancestors, or the people who lived in that area, believed that megaliths were important because they built a lot of them. What if we had that same passion for monumental achievements?
->> >Third question
->> Well, we've got many different tribes. There's probably space for all of us, but I don't see why other tribes have any inherent worth if their customs are barbaric and they aren't in a position to argue. It seems that foreigners didn't have legal rights in IE (or at least early european) law, so that's a sign that my belief is in line.
 >> 
+>> Probably not all of it, but I don't see a reason to believe my beliefs aren't determined by my heritage when Indo-Europeans rule much of the planet, and IE languages are used almost all of it. There are all the religious parallels, and some harder to identify but no less present cultural parallels which stand out all the more when very different cultures are still around.
+>> 
+>> >Second question: How do you determine the difference between a belief that's generally right for humanity and a belief that only seems right because you grew up a Caucasian Agnostic woman from the East Coast?
+>> 
+>> Look for beliefs that everyone shares regardless of language family (as a proxy for their heritage). The only absolute constant I can see is "don't murder." I believe private property is also a common trait. Things like "how close of a cousin is too close?" have a different answer depending on who you ask. I don't believe that "first" is the right answer, but I acknowledge there are people who disagree. If possible, try to learn about older cultures or forgotten traditions: it may be useful today even if it didn't make the cut before. One such belief I'm wondering about now is monuments. I (I would say we, but I do not know your heritage) know that my ancestors, or the people who lived in that area, believed that megaliths were important because they built a lot of them. What if we had that same passion for monumental achievements?
+>> 
+>> >Third question
+>> 
+>> Well, we've got many different tribes. There's probably space for all of us, but I don't see why other tribes have any inherent worth if their customs are barbaric and they aren't in a position to argue. It seems that foreigners didn't have legal rights in IE (or at least early european) law, so that's a sign that my belief is in line.
 
->> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >> 
 >> > Is your entire belief structure ethnocentric?
->> I have no doubt that some of my beliefs and values have similarities with those of individuals of comparable cultures, and differ from those of individuals of different cultures, for certain given beliefs, values, and cultures. What I can't stand, however, is when this sort of idea is extended to attempt to reduce the standing of scientific findings (apart from scientific results that attempt to generalize from one specific population, like college freshman, to the population in general), which is why I normally can't stand postmodernism.
->> There are, however, values I would be willing to force on others, such as restrictions on ending life, prolonging suffering, and violating principles of informed consent, regardless of the cultural context. In this sense I am imperialist scum. Jokes aside, some of those sorts of things I believe could be viewed as objectively harmful, and would necessitate intervention by any reasonable society. Where the line is drawn, however, is the bigger problem.
 >> 
+>> I have no doubt that some of my beliefs and values have similarities with those of individuals of comparable cultures, and differ from those of individuals of different cultures, for certain given beliefs, values, and cultures. What I can't stand, however, is when this sort of idea is extended to attempt to reduce the standing of scientific findings (apart from scientific results that attempt to generalize from one specific population, like college freshman, to the population in general), which is why I normally can't stand postmodernism.
+>> 
+>> There are, however, values I would be willing to force on others, such as restrictions on ending life, prolonging suffering, and violating principles of informed consent, regardless of the cultural context. In this sense I am imperialist scum. Jokes aside, some of those sorts of things I believe could be viewed as objectively harmful, and would necessitate intervention by any reasonable society. Where the line is drawn, however, is the bigger problem.
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (8 hours later)
 > 
 > Why aren't we putting cryogenically frozen heads at the poles? Or anywhere else above the perma frost line?
-> 
 
->> **u/DataPacRat** [+8]  *Amateur Immortalist**
+>> **u/DataPacRat** [+8]  *Amateur Immortalist* (8 hours later)
 >> 
 >> Because permafrost isn't anywhere near liquid nitrogen temperatures, and both shipping liquid nitrogen that far or buying the equipment to make it on-site are expensive.
->> 
 
->>> **u/traverseda** [+2]  *With dread but cautious optimism**
+>>> **u/traverseda** [+2]  *With dread but cautious optimism* (8 hours later)
 >>> 
 >>> Ahh. I was probably underestimating how cold it needs to be.
->>> 
 
->> **u/whywhisperwhy** [+2] *
+>> **u/whywhisperwhy** [+2]  (9 hours later)
 >> 
 >> Well, that's today's most creative idea for me, even if it turns out to be infeasible. Thanks for that.
->> 
 
-> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (6 hours later)
 > 
 > Half of my Calculus II class failed our first test. The professor is unfortunately dull and error-prone, and the only students who have A's are those on their second and third attempts. There is no curve whatsoever. I don't know for certain if I can pass this one and I have to decide to drop it or not next week. I've never been in this situation before. Any advice?
-> 
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+4]  *Time flies like an arrow* (6 hours later)
 >> 
 >> If you've been assigned an academic adviser, go talk to them. If you haven't, your college/university probably has an academics office where you can talk to someone who has probably encountered this sort of thing before, and has experience handling it.
->> What you should do depends on how important Calc II is for you. If it's a vital part of your major, you're going to have to take it; in that case, you might want to see whether you can take Calc II from a different professor at a different time. Some core classes like that will have professors rotate on a yearly basis. If it's *not* part of your major(s)/minor(s), I'd suggest just dropping it and taking something better in some way. What you don't want is to fail a course, because that can leave you behind on credits and postpone graduation another half-year (and how bad that is partly depends on where in the world you are and what your finances look like).
->> Failing all that, you might have to put in the effort of starting a study group (ideally with some of those A students), going to get tutoring with a TA, or trying to race ahead of the actual in-class lessons by either out-pacing the syllabus or taking an online course to supplement (which isn't really ideal, because you're paying for the learning).
 >> 
+>> What you should do depends on how important Calc II is for you. If it's a vital part of your major, you're going to have to take it; in that case, you might want to see whether you can take Calc II from a different professor at a different time. Some core classes like that will have professors rotate on a yearly basis. If it's *not* part of your major(s)/minor(s), I'd suggest just dropping it and taking something better in some way. What you don't want is to fail a course, because that can leave you behind on credits and postpone graduation another half-year (and how bad that is partly depends on where in the world you are and what your finances look like).
+>> 
+>> Failing all that, you might have to put in the effort of starting a study group (ideally with some of those A students), going to get tutoring with a TA, or trying to race ahead of the actual in-class lessons by either out-pacing the syllabus or taking an online course to supplement (which isn't really ideal, because you're paying for the learning).
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (8 hours later)
 >> 
 >> If there are that many people failing the class and repeating, I think something might be wrong with the prof.  What are you aiming to do that needs calc 2?  Anyway, I'd say you should just try to get out of the class with a *decent* mark, since Calc 2 is really more "memorize these integrals" stuck in-between "HEY THERE'S THESE DERIVATIVE AND INTEGRAL THINGS" (calc 1) and "WE CAN DO THESE IN VECTOR SPACES TOO" (calc 3) before you move on to "LOOK AT ALL THE THINGS WITH VECTOR SPACES" (linear algebra) to round out something remotely like an engineering or CS math curriculum, or possibly go on to, "For those of you who survived, we will now teach you exactly how calculus actually makes sense underneath, rigorously" (real analysis) and the rest of math-major math.
->> 
 
->>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (9 hours later)
 >>> 
 >>> I'm a Computer Science major, and will continue on through Linear Algebra. At this I need to make an A in each and every test after this (there is no final), which is risky to say the least.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (9 hours later)
 >>>> 
 >>>> >I'm a Computer Science major, and will continue on through Linear Algebra.
->>>> If you can, you should double-major in Math.  You really start to need it once you hit most advanced CS topics.
->>>> >At this I need to make an A in each and every test after this (there is no final), which is risky to say the least.
->>>> Why?  To pass the class or ace the class?  Why do you need to ace the class?
 >>>> 
+>>>> If you can, you should double-major in Math.  You really start to need it once you hit most advanced CS topics.
+>>>> 
+>>>> >At this I need to make an A in each and every test after this (there is no final), which is risky to say the least.
+>>>> 
+>>>> Why?  To pass the class or ace the class?  Why do you need to ace the class?
 
->>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (9 hours later)
 >>>>> 
 >>>>> I don't need to ace it; the grade distribution just works out that way.
->>>>> I was planning on swinging by a math minor, actually. I'm not sure I could handle a double major while doing things like interning and stuff. Honestly I feel like I've been behind my whole life -- I don't think I've aced a math class *ever* and my first real class was algebra in the eighth grade, and I basically skipped pre-algrebra.
 >>>>> 
+>>>>> I was planning on swinging by a math minor, actually. I'm not sure I could handle a double major while doing things like interning and stuff. Honestly I feel like I've been behind my whole life -- I don't think I've aced a math class *ever* and my first real class was algebra in the eighth grade, and I basically skipped pre-algrebra.
 
->>>>>> **u/None** [+6] *
+>>>>>> **u/None** [+4]  (10 hours later)
 >>>>>> 
 >>>>>> > Honestly I feel like I've been behind my whole life
->>>>>> Trust me, I know the feeling.  You know what I did in undergrad?  CS, theoretical track, no additional minors or double-majors.  Finished with honors, tired as hell, in seven semesters, and that was an *achievement* because of the fucking honors college sponsoring my scholarship dumping shitty extra requirements on me that just weren't suited to science majors.
->>>>>> Promptly began to realize that if I had wanted to work in functional programming or go to grad-school for PL theory, HOLY FUCK I NEEDED THE MATH.  When I later arrived at grad school, THEY EXPECTED ME TO HAVE THE MATH.  When I got into machine learning and computational cognitive science, and needed statistics for my MS thesis work, HOLY FUCK I NEEDED THE MATH.
->>>>>> I'm 26 and only just now learning the math I really should have bothered with as an undergrad (albeit, after finding some weird way to do without the damned honors college scholarship).  Now I'm having to do extra studying outside my job to *catch the fuck up*, and am still only up to BSc+MSc Comp Sci with a minor in Statistics.  In order to *actually* do the kinds of stuff I want to do, I need to work my way up substantial parts of the Math major tower (at least: real analysis, topology, abstract algebra), learn several postgrad-level math subjects (logic, I'm slowly picking up bits of category theory, already learned type theory, domain theory), and learn a couple more postgrad-level Comp Sci and Statistics subjects (algorithmic information theory, slowly learning computational Bayesian statistics).  *Then* I can start to [summon awesome forces.](https://www.youtube.com/watch?v=yGazKDWPjf8)
->>>>>> TAKE THE MATH.
 >>>>>> 
+>>>>>> Trust me, I know the feeling.  You know what I did in undergrad?  CS, theoretical track, no additional minors or double-majors.  Finished with honors, tired as hell, in seven semesters, and that was an *achievement* because of the fucking honors college sponsoring my scholarship dumping shitty extra requirements on me that just weren't suited to science majors.
+>>>>>> 
+>>>>>> Promptly began to realize that if I had wanted to work in functional programming or go to grad-school for PL theory, HOLY FUCK I NEEDED THE MATH.  When I later arrived at grad school, THEY EXPECTED ME TO HAVE THE MATH.  When I got into machine learning and computational cognitive science, and needed statistics for my MS thesis work, HOLY FUCK I NEEDED THE MATH.
+>>>>>> 
+>>>>>> I'm 26 and only just now learning the math I really should have bothered with as an undergrad (albeit, after finding some weird way to do without the damned honors college scholarship).  Now I'm having to do extra studying outside my job to *catch the fuck up*, and am still only up to BSc+MSc Comp Sci with a minor in Statistics.  In order to *actually* do the kinds of stuff I want to do, I need to work my way up substantial parts of the Math major tower (at least: real analysis, topology, abstract algebra), learn several postgrad-level math subjects (logic, I'm slowly picking up bits of category theory, already learned type theory, domain theory), and learn a couple more postgrad-level Comp Sci and Statistics subjects (algorithmic information theory, slowly learning computational Bayesian statistics).  *Then* I can start to [summon awesome forces.](https://www.youtube.com/watch?v=yGazKDWPjf8)
+>>>>>> 
+>>>>>> TAKE THE MATH.
 
->>>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>>>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (11 hours later)
 >>>>>>> 
 >>>>>>> I'll second /u/eaturbrainz   I went to a service academy, and due to some poor life choices I ended up getting a English degree after an initial double major in English and systems engineering,but I kept the engineering core including Ordinary Differentials, despite earning an appropriately labeled BS in English (pun/dual meaning intended)  After leaving the jolly pursuit of arms I went back to school for my MS in computer science to get the degree I need for the jobs I want and my operational experience applies to.  I have the math, and it makes the code easy or easier.
->>>>>>> TAKE THE MATH
->>>>>>> Postscript: I had a somewhat similar experience with a Statistics class I took while taking C Java and discreet that took up more time thjan the three others combined. I eeked a B+ out of it.  Start a study group, schedule it for every day.  The one thing I learned about math, actually back in HS that you learn math by doing problems, more problems, checking your work  and then doing more problems.  Math is a language: it requires practice.
 >>>>>>> 
+>>>>>>> TAKE THE MATH
+>>>>>>> 
+>>>>>>> Postscript: I had a somewhat similar experience with a Statistics class I took while taking C Java and discreet that took up more time thjan the three others combined. I eeked a B+ out of it.  Start a study group, schedule it for every day.  The one thing I learned about math, actually back in HS that you learn math by doing problems, more problems, checking your work  and then doing more problems.  Math is a language: it requires practice.
 
->>>>>>>> **u/None** [+1] *
+>>>>>>>> **u/None** [+1]  (13 hours later)
 >>>>>>>> 
 >>>>>>>> Extra note: the first time I took statistics and machine learning, I had never seen continuous probability, analysis, or optimization before.  I failed machine learning, and just barely squeaked by with a 73% in Statistics 1.
->>>>>>>> After a year of studying up on background material, I retook machine learning and got an 86%, decently above the mean course grade.  At the fucking Technion.
->>>>>>>> It is not just painful, failing a class.  It feels like a blow to who you are.  It's crushing.  BUT YOU CAN FIGHT YOUR WAY THROUGH AND MASTER THAT MATERIAL ANYWAY.
->>>>>>>> Just who the hell do they think we are!?  Are ours not the models that will reshape the heavens and break through history itself?!
 >>>>>>>> 
+>>>>>>>> After a year of studying up on background material, I retook machine learning and got an 86%, decently above the mean course grade.  At the fucking Technion.
+>>>>>>>> 
+>>>>>>>> It is not just painful, failing a class.  It feels like a blow to who you are.  It's crushing.  BUT YOU CAN FIGHT YOUR WAY THROUGH AND MASTER THAT MATERIAL ANYWAY.
+>>>>>>>> 
+>>>>>>>> Just who the hell do they think we are!?  Are ours not the models that will reshape the heavens and break through history itself?!
 
->>>>>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>>>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.* (15 hours later)
 >>>>>>>> 
 >>>>>>>> I'm curious; has your English degree ever affected to your Computer Science work or ambitions?
->>>>>>>> 
 
->>>>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (16 hours later)
 >>>>>>>>> 
 >>>>>>>>> I double majored in CS and English. The English major has never materially helped me with work. I had some ideas about working in technical writing, but that never really materialized, given that I entered into the job market right as the economy was at its worst place. *However*, I think I'm a much better writer for having that English major, which is quite important to me independent of my ability to make money and my computer programming, and I consider it well worth it.
->>>>>>>>> 
 
->> **u/Calsem** [+1] *
+>> **u/Calsem** [+1]  (15 hours later)
 >> 
 >> I would drop the class.  You can take a different class in it's place, and take a better calc class next semester.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (11 hours later)
 > 
 > Based on a thread in /r/HPMOR, I got curious as to how other people first got to transhumanist ideas, so if anyone's willing to share...
-> I'll start.
-> I think my first transhumanist idea was when I had to think about the future for a religion class. This happened soon after we had a debate about the afterlife (where I was pretty much the only one who believed there wasn't one), so I put something in the assignment about me becoming immortal. During the debate that followed the assignment, I noticed that not everyone seemed to think that not dying was a good idea, but they didn't seem to have good arguments to back that up (which is probably to be expected from 15-year-olds, but still).
-> Soon after that, I got really into vampires. Most resources I found online seemed to claim downsides to being a vampire that could be worked around and you'd still have all the cool powers and the whole not dying thing.
-> It was some time later that I got active in online communities and actually learned that transhumanism was a thing other people had thought of.
 > 
+> I'll start.
+> 
+> I think my first transhumanist idea was when I had to think about the future for a religion class. This happened soon after we had a debate about the afterlife (where I was pretty much the only one who believed there wasn't one), so I put something in the assignment about me becoming immortal. During the debate that followed the assignment, I noticed that not everyone seemed to think that not dying was a good idea, but they didn't seem to have good arguments to back that up (which is probably to be expected from 15-year-olds, but still).
+> 
+> Soon after that, I got really into vampires. Most resources I found online seemed to claim downsides to being a vampire that could be worked around and you'd still have all the cool powers and the whole not dying thing.
+> 
+> It was some time later that I got active in online communities and actually learned that transhumanism was a thing other people had thought of.
 
-> **u/whywhisperwhy** [+1] *
+> **u/whywhisperwhy** [+1]  (9 hours later)
 > 
 > There's been much speculation about a technological Singularity, the most popular form of which seems to be via strong GAI- which is something experts in the field aren't sure could be achieved in our lifetime. So I'm curious about another route that I haven't heard mentioned before which is inspired by the Morrowind Singularity ("Drink intellect enhancing potion: craft another, better, intellect enhancing potion. Repeat until incredibly intelligent") path.
-> Specifically, this would take the form of advanced computer techniques/infrastructure which allow us to design better drugs (this process currently relies on computers [frequently](http://molpath.ucsd.edu/PDF/HuangLecture.pdf\))), so-called "rational drug design". Better nootropics (drugs that increase aspects of intelligence/memory/focus, etc. but which currently are nowhere near, say, the potential seen in Limitless) in conjunction with other technologies like transcranial magnetic stimulation [(TMS)](http://www.technologyreview.com/news/410389/want-to-enhance-your-brain-power) will in turn allow us to develop better computer design and keep this cycle going. 
-> Obviously this is all completely theorycrafting, but I'm just curious what this group thinks of the likelihood of this particular theory and other avenues of human progression. 
-> TLDR- I'd love to hear anyone else's thoughts on the Singularity in general and their estimation of likely routes/probabilities in particular.
 > 
+> Specifically, this would take the form of advanced computer techniques/infrastructure which allow us to design better drugs (this process currently relies on computers [frequently](http://molpath.ucsd.edu/PDF/HuangLecture.pdf\))), so-called "rational drug design". Better nootropics (drugs that increase aspects of intelligence/memory/focus, etc. but which currently are nowhere near, say, the potential seen in Limitless) in conjunction with other technologies like transcranial magnetic stimulation [(TMS)](http://www.technologyreview.com/news/410389/want-to-enhance-your-brain-power) will in turn allow us to develop better computer design and keep this cycle going. 
+> 
+> Obviously this is all completely theorycrafting, but I'm just curious what this group thinks of the likelihood of this particular theory and other avenues of human progression. 
+> 
+> TLDR- I'd love to hear anyone else's thoughts on the Singularity in general and their estimation of likely routes/probabilities in particular.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (11 hours later)
 >> 
 >> I think the main problem here is that human brains are messy and there tend to be trade-offs involved. Computer Intelligence has the advantage of having easily modifiable code and hardware.
->> 
 
->>> **u/whywhisperwhy** [+1] *
+>>> **u/whywhisperwhy** [+1]  (12 hours later)
 >>> 
 >>> There are pretty big pros/cons and difficulties to be solved for both of these avenues (eg, AI could immediately become an existential catastrophe, no one really has any theoretical understanding of how it could be done yet, etc.). I'll admit that in their ideal form, I think uploading or GAI are far superior to biological intelligence explosion. However, as I said in my original comment, the reason I focus on that more is because I think it's far more likely in the short-term, although ideally it's just a step on the road to a digital singularity. 
->>> Edit- 
->>> The pharmaceutical industry is a massively funded sector and especially in the last decade with computer-assisted design there are a lot of promising starts out there, just like TMS has had encouraging results. So we just need to start a cycle of rational design giving us drugs to assist with hardware/software design to give us better rational design. Basically, I see that route as already in progress and fairly well understood or at least with a clear path to that understanding.
->>> Meanwhile, there are some very intelligent people working on AGI but every paper I've read seems to imply that there's no real theoretical underpinnings that lead to AGI and my own (layman) experience with AI seems like they're accomplishing most of our very impressive modern results with training methods (deep learning, supervised learning, etc.) which don't lend themselves to anything more than specialized AI. So while I'm sure that there will be breakthroughs, it seems pretty unpredictable- most expert opinions I've read on AI say it could be decades or centuries or impossible.
 >>> 
+>>> Edit- 
+>>> 
+>>> The pharmaceutical industry is a massively funded sector and especially in the last decade with computer-assisted design there are a lot of promising starts out there, just like TMS has had encouraging results. So we just need to start a cycle of rational design giving us drugs to assist with hardware/software design to give us better rational design. Basically, I see that route as already in progress and fairly well understood or at least with a clear path to that understanding.
+>>> 
+>>> Meanwhile, there are some very intelligent people working on AGI but every paper I've read seems to imply that there's no real theoretical underpinnings that lead to AGI and my own (layman) experience with AI seems like they're accomplishing most of our very impressive modern results with training methods (deep learning, supervised learning, etc.) which don't lend themselves to anything more than specialized AI. So while I'm sure that there will be breakthroughs, it seems pretty unpredictable- most expert opinions I've read on AI say it could be decades or centuries or impossible.
 
->>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> > (deep learning, supervised learning, etc.) which don't lend themselves to anything more than specialized AI.
->>>> Not so. They lend themselves to perception and classification, which can then be attached to more symbolic models of AI, if we don't figure out how to represent more computational reasoning in neural networks themselves. The TrueNorth running massively parallel perception attached to a more conventional hardware design, ARM or x86_64 or something, could be incredibly powerful. The simpler it becomes to construct perceptual and conceptual systems, the closer we get to self-directed AI.
->>>> And supervised learning isn't itself a training method, it's a class of training methods that require supervision. There is still work being done on unsupervised learning, which might lead to a more general kind of perceptual system.
 >>>> 
+>>>> Not so. They lend themselves to perception and classification, which can then be attached to more symbolic models of AI, if we don't figure out how to represent more computational reasoning in neural networks themselves. The TrueNorth running massively parallel perception attached to a more conventional hardware design, ARM or x86_64 or something, could be incredibly powerful. The simpler it becomes to construct perceptual and conceptual systems, the closer we get to self-directed AI.
+>>>> 
+>>>> And supervised learning isn't itself a training method, it's a class of training methods that require supervision. There is still work being done on unsupervised learning, which might lead to a more general kind of perceptual system.
 
->>>>> **u/whywhisperwhy** [+1] *
+>>>>> **u/whywhisperwhy** [+1]  (a day later)
 >>>>> 
 >>>>> Sorry, layman. Your first sentence makes sense to me, and I looked up [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml) but honestly beyond the fact that it's somehow a tremendous improvement and based on neuronal functions somehow, I'm not sure how this affects things. And this chip could run "massive parallel perception," which seems to refer to [parallel distributed processing](https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing) (this time, software architecture based on neuron model)? 
->>>>> So I'm guessing you mean that these chips/software based on neurons somehow represent a significant increase in our ability to allow computers to "understand" complicated things? Which seems like it would be half the problem, the other part being designing the software to use that understanding for general purposes?
->>>>> Edit: I'm sure that hurt to read, so again, my apologies.
 >>>>> 
+>>>>> So I'm guessing you mean that these chips/software based on neurons somehow represent a significant increase in our ability to allow computers to "understand" complicated things? Which seems like it would be half the problem, the other part being designing the software to use that understanding for general purposes?
+>>>>> 
+>>>>> Edit: I'm sure that hurt to read, so again, my apologies.
 
->>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>> 
 >>>>>> I think you got it.
->>>>>> 
 
->> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >> 
 >> Just asking, since I have Morrowind on Steam. Does the Singularity actually work, as far as crafting potions goes? Can you actually do anything with it?
->> 
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >>> 
 >>> You can break the game with it, yes. Intelligence potions make you better at crafting, which makes you better intelligence potions, and so on. Eventually you have more intelligence than you'd ever be able to get without console access, and you can make potions that do other things.
->>> The Morrowind Singularity lets you have (nearly) infinite health regen, (nearly) infinite mana regen, makes you essentially invulnerable, and can boost your strength so high that you can kill a god with a single thrust of a rusty knife.
 >>> 
+>>> The Morrowind Singularity lets you have (nearly) infinite health regen, (nearly) infinite mana regen, makes you essentially invulnerable, and can boost your strength so high that you can kill a god with a single thrust of a rusty knife.
 
->>>> **u/Pluvialis** [+2]  *Second Age Sauron**
+>>>> **u/Pluvialis** [+2]  *Second Age Sauron* (3 days later)
 >>>> 
 >>>> I think this should be allowed, but if you get too intelligent you should lose all interest in worldly matters and starve to death contemplating the infinite or something :P
->>>> 
 
->>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind**
+>>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind* (2 days later)
 >>>> 
 >>>> Craft potion drink potion craft potion drink potion craft potion drink potion craft potion drink potion craft potion drink potion craft potion drink potion win.
->>>> 
 
->>> **u/whywhisperwhy** [+1] *
+>>> **u/whywhisperwhy** [+1]  (a day later)
 >>> 
 >>> I've actually never played Morrowind, just encountered it on the Internet... But yeah supposedly it works so well you can actually beat the game in ~15 minutes
->>> 
 
->>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind**
+>>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind* (2 days later)
 >>>> 
 >>>> ~5 actually, I think. I did it in 25, but I'm no speedrunner.
->>>> 
 
-> **u/Nevereatcars** [+1]  *The Greatest Is Behind**
+> **u/Nevereatcars** [+1]  *The Greatest Is Behind* (2 days later)
 > 
 > Homestuck! That's a fun one. Who else has read it? Let's talk.
-> Homestuck Spoilers Below.
 > 
+> Homestuck Spoilers Below.
 
->> **u/Quillwraith** [+1]  *Red King Consolidated**
+>> **u/Quillwraith** [+1]  *Red King Consolidated* (10 days later)
 >> 
 >> Homestuck seems pretty... intractable to a rationality based perspective: you can't really optimize because, as far as I can tell, *everything* is predetermined by paradox space, and doing things better than you're supposed to simply results in a doomed timeline.
->> 
 
-> **u/TimTravel** [+1] *
+> **u/TimTravel** [+1]  (22 minutes later)
 > 
 > > but it's hopefully also understandable that .
-> That what??
 > 
+> That what??
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+4]  *Time flies like an arrow* (32 minutes later)
 >> 
 >> Blegh, fixed. I wrote this last night and apparently didn't finish it before going to sleep.
->> 
 
 ---
 

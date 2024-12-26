@@ -2,7 +2,7 @@
 
 * Author: u/Loweren *
 * URL: https://www.reddit.com/r/rational/comments/mii1rn/rtc_porry_hatter_a_russian_hpmor_predecessor_from/
-* Score: 25
+* Score: 26
 
 * Created: 2021-04-02T11:04:01
 
@@ -20,35 +20,29 @@ Intro blurb:
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+11]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+10]  *Emergency Mustelid Hologram* (an hour later)
 > 
 > Rational magic goes back to the '50s at least with Randall Garret's _Lord D'Arcy_ series, and Fletcher Pratt and L. Sprague de Camp's _Compleat Enchanter_ series. Arguably some of Dean Koontz' work qualifies as well.
-> 
 
-> **u/netstack_** [+9] *
+> **u/netstack_** [+9]  (4 hours later)
 > 
 > Reminds me of [The Last Ringbearer](https://en.wikipedia.org/wiki/The_Last_Ringbearer).
-> 
 
-> **u/Chaos_Crowl_Kanigami** [+8] *
+> **u/Chaos_Crowl_Kanigami** [+7]  (46 minutes later)
 > 
 > I knew HPMOR was popular in Russia which makes sense if there was a sort of prequel ahah!
-> 
 
-> **u/darkaxel1989** [+8]  *LessWrong (than usual)**
+> **u/darkaxel1989** [+7]  *LessWrong (than usual)* (7 hours later)
 > 
 > I heard it was full of russian propaganda, things like elves being freed and now not finding anything usefull to do and start stealing and being lazy instead of being productive. Sounds like a fun book, but I don't know how much I'd put it in "rational" category
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/Loweren** [+2] *
+>> **u/Loweren** [+2]  (a day later)
 >> 
 >> [Here's](https://docs.google.com/document/d/1z7XgmMuciAkB2u8ZvDDSH7p0r2F7NuIPUCOi71Lqz3c/edit) a  google doc
->> 
 
 ---
 

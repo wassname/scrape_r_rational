@@ -2,7 +2,7 @@
 
 * Author: u/endlessmoth *
 * URL: https://www.reddit.com/r/rational/comments/g9cz4h/a_closer_look_at_time_travel_and_probability/
-* Score: 87
+* Score: 95
 
 * Created: 2020-04-28T00:29:00
 
@@ -411,467 +411,641 @@ P.S.: worth mentioning that Tim [covered much of the same ground as me](https://
 
 ### Comments:
 
-> **u/SilverstringstheBard** [+9] *
+> **u/SilverstringstheBard** [+10]  (3 hours later)
 > 
 > This is the most well thought out examination of stable time loop based time travel I've ever seen, thank you for putting all of the thought and effort into this that you did. I'm almost certainly going to be using insights from this essay thing when I include time travel in my stories. I'd also agree with your assessment of bayesian or reroll time travel making the most sense.
-> 
 
-> **u/BoxSparrow** [+6] *
+> **u/BoxSparrow** [+8]  (13 hours later)
 > 
 > Alright, lemme review this.
+> 
 > First off: This is fantastic! I've been looking for a reference like this for a good while, and now here we have one. It's all very well thought out, and took me way longer than twenty minutes to get all the concepts in my head. Overall, a definite thumbs up.
+> 
 > Now, for some nitpicks.
+> 
 > There are some rather critical typos and ambiguous sentences in the explanation sections, namely:
+> 
 > >The device flashes blue. You lift your hand. It's heads.  
 > >  
 > >You push the **red** button anyway, out of habit, the light flashing off.
-> \*blue
-> >There's a weirder consequence, though. If you splint ten times, you can see every combination of reds and blues; red-blue-blue-red-red-red-blue-red-red-red and all the others.
-> Made me think that it somehow gave all the combinations at once every time. Maybe rephrase it to "you see the normal random mixture of reds and blues".
-> >But if you splint ten times, and if and only if every splint came up blue, you splint ten more times, you'll find that the first set of splints come up all blue half the time!
-> Also had me rereading several times until I figured out that it's not the *act* of splinting ten more times that causes it, it's the *intent*. Perhaps add "precommit that if and only if every splint..."
-> >The intermediate is more interesting: if you, as in the original experiment, splint and then splint again and crash if both splints come out **red**, then half the time the first splint will come out red, but if the first splint comes out blue, the next one always comes out red.
-> \*blue
-> >p(foo) = p(**C** = red) = 5/8, and
-> \*A
-> >The correct answer is B, which is about three times more likely barring unspecified details.
-> "Three times more likely **than the second most likely**"
-> >**A** is the winner, because it only requires the TIME FORCE to act on the long, twelve-hour interval of 5:00-17:00
-> \*B
-> &#x200B;
-> Next, terminology and concepts.
-> One: Using "flash" as a verb for the device showing red or blue can be misleading in some situations when you actually mean "turn on and not turn off until you press the button". For example,
-> >The device flashes blue. You lift your hand. It's heads.
-> had me confused as to why the button only flashed and didn't stay on, until I realised that it was a problem of semantics.
-> Two: Paradoxes. While it's central in your writing that there can be no paradoxes, there obviously *are* paradoxes outside of the models. For example, when first getting the device, we press the blue button because it's glowing. However, the only reason it's glowing is because we press it in the future, leading us to press it because it's glowing. Hence, paradox.
-> I don't think this is a solvable issue, though, so you can probably just gloss over it. In fact, I'd argue that it's impossible for static timeline time travel to not create paradoxes. For example, when you travel to the past, you'll disrupt photons from their original path, causing a chain reaction of quantum differences that will eventually reach your current self and change you a little - maybe delaying a neutron's fire in your brain - that chaos theories itself into a macro-scale paradox. The only way to avoid that would be to spacially appear a greater distance away from your original position than light can travel in the time elapsed, and even that isn't for sure due to quantum shenanigans.
-> (As an aside, I found that, rather than thinking of the device as prophetic, it was easier for me to visualise the concept by thinking of it as sending a pulse of light backwards in time whenever we press the button.)
-> Three: The probability of TIME FORCE. Less of a nitpick, and more of an addendum. The chance of TF happening has to be a function of time, so it would be something like "a one in a trillion chance of happening per second" rather than just "a one in a trillion chance", since the chance of it happening in a single instant is definitionally zero.
-> For the case of the relation between the time interval and probability, the chance of an event of probability P happening at least once after n tries is given by `1-(1-P)^n`. At one in a trillion per second, for the event to have a 90% chance of occurring, the time interval would be about 73 millennia. Whether or not this is rare enough for typographical lightning to form I'll leave for others to decide. And, for such a low probability per second for a time interval of only a couple dozen thousand seconds, the chance of B happening over A is indeed about three times more.
-> Four: Lastly, and most importantly, I'm not convinced that Weighted Branch Realism is a thing. I do agree with the concept of redistributing paradoxed probabilities as a model, but not as you describe it. As it is now, the distribution isn't equally weighted. Looking at your example, you're taking the 1/2 chance of blue!C, splitting it in half at B, then giving one resultant 1/4 to red!B and passing the other 1/4 down to A, leaving nothing for blue!B. Now the chance has been redistributed to red!B, but not red!C. In fact, the chance of getting red!C overall is now less than it was previously, at 3/32 vs 4/32.
-> An *equal* weighted distribution would be taking the new total and dividing it by the old, then multiplying each element by that ratio to get the new set of numbers. In this case, we want the chances after distribution to add up to one, up from the total of one minus the chance for the paradox element. For instance, the new probability for red!C would be `1/(1-1/8) * 1/8 = 1/7`. In fact, if we were to carry on splinting the other branches in the example, each third-order element would have a probability of 1/7 - an equal distribution. And this may seem familiar, because that's exactly what Model D is doing. It's just another version of Bayes'.
-> &#x200B;
-> That's some of the thoughts I had while reading this. And to reiterate the start: These are fantastic ideas, and I'm very glad you posted this. Great stuff!
 > 
+> \*blue
+> 
+> >There's a weirder consequence, though. If you splint ten times, you can see every combination of reds and blues; red-blue-blue-red-red-red-blue-red-red-red and all the others.
+> 
+> Made me think that it somehow gave all the combinations at once every time. Maybe rephrase it to "you see the normal random mixture of reds and blues".
+> 
+> >But if you splint ten times, and if and only if every splint came up blue, you splint ten more times, you'll find that the first set of splints come up all blue half the time!
+> 
+> Also had me rereading several times until I figured out that it's not the *act* of splinting ten more times that causes it, it's the *intent*. Perhaps add "precommit that if and only if every splint..."
+> 
+> >The intermediate is more interesting: if you, as in the original experiment, splint and then splint again and crash if both splints come out **red**, then half the time the first splint will come out red, but if the first splint comes out blue, the next one always comes out red.
+> 
+> \*blue
+> 
+> >p(foo) = p(**C** = red) = 5/8, and
+> 
+> \*A
+> 
+> >The correct answer is B, which is about three times more likely barring unspecified details.
+> 
+> "Three times more likely **than the second most likely**"
+> 
+> >**A** is the winner, because it only requires the TIME FORCE to act on the long, twelve-hour interval of 5:00-17:00
+> 
+> \*B
+> 
+> &#x200B;
+> 
+> Next, terminology and concepts.
+> 
+> One: Using "flash" as a verb for the device showing red or blue can be misleading in some situations when you actually mean "turn on and not turn off until you press the button". For example,
+> 
+> >The device flashes blue. You lift your hand. It's heads.
+> 
+> had me confused as to why the button only flashed and didn't stay on, until I realised that it was a problem of semantics.
+> 
+> Two: Paradoxes. While it's central in your writing that there can be no paradoxes, there obviously *are* paradoxes outside of the models. For example, when first getting the device, we press the blue button because it's glowing. However, the only reason it's glowing is because we press it in the future, leading us to press it because it's glowing. Hence, paradox.
+> 
+> I don't think this is a solvable issue, though, so you can probably just gloss over it. In fact, I'd argue that it's impossible for static timeline time travel to not create paradoxes. For example, when you travel to the past, you'll disrupt photons from their original path, causing a chain reaction of quantum differences that will eventually reach your current self and change you a little - maybe delaying a neutron's fire in your brain - that chaos theories itself into a macro-scale paradox. The only way to avoid that would be to spacially appear a greater distance away from your original position than light can travel in the time elapsed, and even that isn't for sure due to quantum shenanigans.
+> 
+> (As an aside, I found that, rather than thinking of the device as prophetic, it was easier for me to visualise the concept by thinking of it as sending a pulse of light backwards in time whenever we press the button.)
+> 
+> Three: The probability of TIME FORCE. Less of a nitpick, and more of an addendum. The chance of TF happening has to be a function of time, so it would be something like "a one in a trillion chance of happening per second" rather than just "a one in a trillion chance", since the chance of it happening in a single instant is definitionally zero.
+> 
+> For the case of the relation between the time interval and probability, the chance of an event of probability P happening at least once after n tries is given by `1-(1-P)^n`. At one in a trillion per second, for the event to have a 90% chance of occurring, the time interval would be about 73 millennia. Whether or not this is rare enough for typographical lightning to form I'll leave for others to decide. And, for such a low probability per second for a time interval of only a couple dozen thousand seconds, the chance of B happening over A is indeed about three times more.
+> 
+> Four: Lastly, and most importantly, I'm not convinced that Weighted Branch Realism is a thing. I do agree with the concept of redistributing paradoxed probabilities as a model, but not as you describe it. As it is now, the distribution isn't equally weighted. Looking at your example, you're taking the 1/2 chance of blue!C, splitting it in half at B, then giving one resultant 1/4 to red!B and passing the other 1/4 down to A, leaving nothing for blue!B. Now the chance has been redistributed to red!B, but not red!C. In fact, the chance of getting red!C overall is now less than it was previously, at 3/32 vs 4/32.
+> 
+> An *equal* weighted distribution would be taking the new total and dividing it by the old, then multiplying each element by that ratio to get the new set of numbers. In this case, we want the chances after distribution to add up to one, up from the total of one minus the chance for the paradox element. For instance, the new probability for red!C would be `1/(1-1/8) * 1/8 = 1/7`. In fact, if we were to carry on splinting the other branches in the example, each third-order element would have a probability of 1/7 - an equal distribution. And this may seem familiar, because that's exactly what Model D is doing. It's just another version of Bayes'.
+> 
+> &#x200B;
+> 
+> That's some of the thoughts I had while reading this. And to reiterate the start: These are fantastic ideas, and I'm very glad you posted this. Great stuff!
 
->> **u/endlessmoth** [+4] *
+>> **u/endlessmoth** [+6]  (15 hours later)
 >> 
 >> Thank you for taking the time to read and share your thoughts!
+>> 
 >> I appreciate the typos you caught.  Clarity where clarity is due, I should mention the ones I didn't fix:
+>> 
 >> > The device flashes blue. You lift your hand. It's heads.
+>> 
 >> > You push the red button anyway, out of habit, the light flashing off. 
-
+>> 
 >> Edit: I misread; you are right.
+>> 
 >> ~~The prediction _is_ wrong here.  This was a deliberate choice, to illustrate that it requires concentrated intent and will.  If you aren't ironclad in your precommitment, the trick won't work, and I didn't want to gloss over that completely.  (It's plausible to me that many people could entirely fail to 'force'; either out of fear of 'ceasing to exist', or out of indecisive wills which can't ensure precommitment.)~~
+>> 
 >> > Also had me rereading several times until I figured out that it's not the act of splinting ten more times that causes it, it's the intent. Perhaps add "precommit that if and only if every splint..."
+>> 
 >> That's not quite it either.  "Causing" is something of a strained framing here.  In a meaningful sense, it is exactly splinting ten more times which causes it.  Specifically, what's happening here is that there's 1024 time-paths that go through that specific branch of the tree, and 1023 that don't, and thus, getting to that second batch of splints underneath the specific branch is more likely.
+>> 
 >> Those 1024 extra paths exist _because_ you splinting ten times extra.  Now granted, you splinted ten times extra because you precommited to splinting ten times extra, so you can pass the buck there.
+>> 
 >> That said, he most immediately plausible way to run a scheme like this is if the 2047 timelines were already pre-allocated and each one is made to instantiate a different possibility.  These timelines would exist _before_ anything actually happens.  Noting that, it would be the simulation which causes it.  Maybe it's a magical **0'** program which can statically analyse a **0** universe and determine exactly how many timepaths it will spawn.
+>> 
 >> ---
+>> 
 >> Those two caveats mentioned, again thank you for noting the other typos.  They've been fixed.  (I've changed positive instances of 'flash'
 >> (i.e. flash _on_) to 'shine'.  It's a more bit awkward, prose-wise, but I hope it's less confusing.)
->> > For example, when first getting the device, we press the blue button because it's glowing. However, the only reason it's glowing is because we press it in the future, leading us to press it because it's glowing. Hence, paradox.
->> It's worth distinguishing two different kinds of paradox.  For lack of better terms, let's say negative paradox and positive paradox.  Positive paradox is the sort of thing you describe.  (More generally, it has similarity to the so-called bootstrap paradox.)  Negative paradoxes, then, are what I've till now simply called paradoxes.  The distinction is that positive paradoxes permit resolution, and negative paradoxes do not.  My rule is that negative paradoxes are impossible, but positive paradoxes are just fine.
->> >In fact, I'd argue that it's impossible for static timeline time travel to not create paradoxes. For example, when you travel to the past, you'll disrupt photons from their original path, causing a chain reaction of quantum differences that will eventually reach your current self and change you a little - maybe delaying a neutron's fire in your brain - that chaos theories itself into a macro-scale paradox. The only way to avoid that would be to spacially appear a greater distance away from your original position than light can travel in the time elapsed, and even that isn't for sure due to quantum shenanigans.
->> This objection is vacuous.  Fixed points aren't a rare thing (in fact, the proliferation of [fix-point theorems](https://en.wikipedia.org/wiki/Fixed-point_theorem), inclines me to think it's downright inevitable. 
->> Specifically, you say "when you travel to the past, you'll disrupt photons from their original path," but this isn't true.  By our very assumption, in traveling the past — _your_ past — the "disruption" isn't knocking photons _off_ their original path, it's _putting_ them on their original path, right on schedule.  The only way the notion of 'original path' as you use it makes sense is if you're conceptualizing the agent as traveling to a past which they did not exist in, which is contrary to the assumptions.  The past which they arose in must have already included their time-traveling future self, whether they were aware of it or not.  Second- and third- and nth-order effects of this meddling future-self which affect the past would be account for in the future self which arrives.
->> > (As an aside, I found that, rather than thinking of the device as prophetic, it was easier for me to visualise the concept by thinking of it as sending a pulse of light backwards in time whenever we press the button.)
->> Ha, I've had similar thoughts when designing my own systems.  It is easier to conceptualize that way.  I always thought there must be some sort of "time particles" to carry time-travelling information.
->> > In fact, the chance of getting red!C overall is now less than it was previously, at 3/32 vs 4/32.
->> Yes, this is by design.  Really, I can't speak too accurately about 'intent' (as this is something that fell out of the equations more than something I designed), but I would say the idea behind it is to model the phenomena of time "preferring" less paradoxical branches.  The reason red!C becomes less probable is in a sense to "punish" it for requiring the universe to dodge so many paradoxes.
->> While I do have some appreciation for WBR, I think we have a comparable distaste for it, coming from different directions.  I so far haven't been able to think of any mechanism the WBR equations could be modelling (other than a computer blindly implementing them) where such a distribution falls out naturally.  It's a neat idea, I feel, but seems somewhat arcane and artificial.
->> > That's some of the thoughts I had while reading this. And to reiterate the start: These are fantastic ideas, and I'm very glad you posted this. Great stuff!
->> No problem :D.  I have to say, it really made my morning to wake up to such a positive response to my essay.
->> (I may have been a little blunt in some of my replies, but I hope not too much.  I mean you no personal insult.)
 >> 
+>> > For example, when first getting the device, we press the blue button because it's glowing. However, the only reason it's glowing is because we press it in the future, leading us to press it because it's glowing. Hence, paradox.
+>> 
+>> It's worth distinguishing two different kinds of paradox.  For lack of better terms, let's say negative paradox and positive paradox.  Positive paradox is the sort of thing you describe.  (More generally, it has similarity to the so-called bootstrap paradox.)  Negative paradoxes, then, are what I've till now simply called paradoxes.  The distinction is that positive paradoxes permit resolution, and negative paradoxes do not.  My rule is that negative paradoxes are impossible, but positive paradoxes are just fine.
+>> 
+>> >In fact, I'd argue that it's impossible for static timeline time travel to not create paradoxes. For example, when you travel to the past, you'll disrupt photons from their original path, causing a chain reaction of quantum differences that will eventually reach your current self and change you a little - maybe delaying a neutron's fire in your brain - that chaos theories itself into a macro-scale paradox. The only way to avoid that would be to spacially appear a greater distance away from your original position than light can travel in the time elapsed, and even that isn't for sure due to quantum shenanigans.
+>> 
+>> This objection is vacuous.  Fixed points aren't a rare thing (in fact, the proliferation of [fix-point theorems](https://en.wikipedia.org/wiki/Fixed-point_theorem), inclines me to think it's downright inevitable. 
+>> 
+>> Specifically, you say "when you travel to the past, you'll disrupt photons from their original path," but this isn't true.  By our very assumption, in traveling the past — _your_ past — the "disruption" isn't knocking photons _off_ their original path, it's _putting_ them on their original path, right on schedule.  The only way the notion of 'original path' as you use it makes sense is if you're conceptualizing the agent as traveling to a past which they did not exist in, which is contrary to the assumptions.  The past which they arose in must have already included their time-traveling future self, whether they were aware of it or not.  Second- and third- and nth-order effects of this meddling future-self which affect the past would be account for in the future self which arrives.
+>> 
+>> > (As an aside, I found that, rather than thinking of the device as prophetic, it was easier for me to visualise the concept by thinking of it as sending a pulse of light backwards in time whenever we press the button.)
+>> 
+>> Ha, I've had similar thoughts when designing my own systems.  It is easier to conceptualize that way.  I always thought there must be some sort of "time particles" to carry time-travelling information.
+>> 
+>> > In fact, the chance of getting red!C overall is now less than it was previously, at 3/32 vs 4/32.
+>> 
+>> Yes, this is by design.  Really, I can't speak too accurately about 'intent' (as this is something that fell out of the equations more than something I designed), but I would say the idea behind it is to model the phenomena of time "preferring" less paradoxical branches.  The reason red!C becomes less probable is in a sense to "punish" it for requiring the universe to dodge so many paradoxes.
+>> 
+>> While I do have some appreciation for WBR, I think we have a comparable distaste for it, coming from different directions.  I so far haven't been able to think of any mechanism the WBR equations could be modelling (other than a computer blindly implementing them) where such a distribution falls out naturally.  It's a neat idea, I feel, but seems somewhat arcane and artificial.
+>> 
+>> > That's some of the thoughts I had while reading this. And to reiterate the start: These are fantastic ideas, and I'm very glad you posted this. Great stuff!
+>> 
+>> No problem :D.  I have to say, it really made my morning to wake up to such a positive response to my essay.
+>> 
+>> (I may have been a little blunt in some of my replies, but I hope not too much.  I mean you no personal insult.)
 
-> **u/CreationBlues** [+7] *
+> **u/CreationBlues** [+6]  (14 hours later)
 > 
 > You should look into PostBQP, it turns out that time travel works extremely well with quantum mechanics and gives a mechanism for how TIME FORCE works.
-> 
 
->> **u/tjhance** [+4] *
+>> **u/tjhance** [+4]  (14 hours later)
 >> 
 >> also related: https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality
->> 
 
->> **u/endlessmoth** [+1] *
+>> **u/endlessmoth** [+1]  (16 hours later)
 >> 
 >> Thanks for the tip, that sounds pretty cool and I'll have to read up on it.
->> 
 
-> **u/cthulhusleftnipple** [+3] *
+> **u/cthulhusleftnipple** [+4]  (6 hours later)
 > 
 > > The device flashes blue. You lift your hand. It's heads.
-> > You push the red button anyway, out of habit, the light flashing off. And then it hits you: you have to commit intently to pressing the right button even when (especially when) the device is wrong.
-> Is this a typo?
 > 
+> > You push the red button anyway, out of habit, the light flashing off. And then it hits you: you have to commit intently to pressing the right button even when (especially when) the device is wrong.
+> 
+> Is this a typo?
 
->> **u/BoxSparrow** [+2] *
+>> **u/BoxSparrow** [+2]  (9 hours later)
 >> 
 >> Probably. Left me quite confused as well.
->> 
 
->> **u/endlessmoth** [+2] *
+>> **u/endlessmoth** [+2]  (15 hours later)
 >> 
 >> Edit: I did not read the post carefully, retracted.
->> ~~That was a (perhaps unnecessary, perhaps ill-advised) attempt at realism there.  I believe it requires concentrated intent and will to press the button you precommitted to, especially if it looks like that would cause the universe (_your_ universe, that you're living in!) to stop existing via paradox.  Forcing the prediction to be right only works if you can guarantee that you'll cause a paradox if the prediction is wrong.  (It's counterfactual blackmail, almost.)~~
 >> 
+>> ~~That was a (perhaps unnecessary, perhaps ill-advised) attempt at realism there.  I believe it requires concentrated intent and will to press the button you precommitted to, especially if it looks like that would cause the universe (_your_ universe, that you're living in!) to stop existing via paradox.  Forcing the prediction to be right only works if you can guarantee that you'll cause a paradox if the prediction is wrong.  (It's counterfactual blackmail, almost.)~~
 
->>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (16 hours later)
 >>> 
 >>> So in that case the light was just wrong? But if you can press the red button and get a blue light sometimes because the device malfunctioned, doesn't that mean crashing isn't really a paradox?
->>> 
 
->>>> **u/endlessmoth** [+2] *
+>>>> **u/endlessmoth** [+2]  (16 hours later)
 >>>> 
 >>>> ~~In a certain sense, it wasn't the light that was wrong, but the user.~~
->>>> ~~Like, say someone wants to force the light to be blue, but if the light flashes red, the person gets scared and doesn't want to stop existing and can't bring themselves not to press the red button, then _both outcomes are going to be possible_, because neither way actually leads to paradox.~~
->>>> ~~The device never malfunctions.  It is, however, possible (and indeed plausible) that people, being imperfect, can fail to exploit it correctly.~~~
 >>>> 
+>>>> ~~Like, say someone wants to force the light to be blue, but if the light flashes red, the person gets scared and doesn't want to stop existing and can't bring themselves not to press the red button, then _both outcomes are going to be possible_, because neither way actually leads to paradox.~~
+>>>> 
+>>>> ~~The device never malfunctions.  It is, however, possible (and indeed plausible) that people, being imperfect, can fail to exploit it correctly.~~~
 
->>>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>>>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (16 hours later)
 >>>>> 
 >>>>> That example makes sense, because you're pressing red after seeing red. But in the example with the coin flip the blue light comes on and then you press the red button. How is that not a paradox or malfunction?
->>>>> 
 
->>>>>> **u/endlessmoth** [+2] *
+>>>>>> **u/endlessmoth** [+2]  (16 hours later)
 >>>>>> 
 >>>>>> Ah, that is a misreading on my part.  My apologies, I should have looked closer.  You were right, and I've corrected the OP.
->>>>>> 
 
-> **u/aeschenkarnos** [+3] *
+> **u/aeschenkarnos** [+3]  (7 hours later)
 > 
 > Coming to your [Ted *Chiang*](https://www.nature.com/articles/436150a) talk. It would have been nice to have at least given him a citation.
-> 
 
->> **u/endlessmoth** [+4] *
+>> **u/endlessmoth** [+3]  (16 hours later)
 >> 
 >> I've probably read that story before, but I honestly wasn't thinking of it when I wrote the post.  The /r/rational discord logs show that my original conception was in the form of a special register or variable in a programming language which stores future data.  When I decided to write this post, I thought it best to ditch the programming analogy in the interest of broadest understanding, but I wanted something that kept its cut and dried, binary simplicity.  A device with buttons was the first thing I thought of.
->> I can edit a link to the story into the post, but I contend that this is a fairly obvious answer to the question, "What is the minimum viable time machine?"
 >> 
+>> I can edit a link to the story into the post, but I contend that this is a fairly obvious answer to the question, "What is the minimum viable time machine?"
 
->>> **u/aeschenkarnos** [+2] *
+>>> **u/aeschenkarnos** [+2]  (16 hours later)
 >>> 
 >>> Fair enough, I accept that it’s coincidence of a straightforward idea, not plagiarism.
->>> There’s also Isaac Asimov’s [thiotimoline](https://en.m.wikipedia.org/wiki/Thiotimoline) concept from 1948.
 >>> 
+>>> There’s also Isaac Asimov’s [thiotimoline](https://en.m.wikipedia.org/wiki/Thiotimoline) concept from 1948.
 
-> **u/MadVaughn** [+3] *
+> **u/MadVaughn** [+3]  (11 hours later)
 > 
 > This is lovely. I can't wait to be chewing on this for the next week.
-> For anyone like me who has trouble reading non fiction, I reccomend a TTS (text to speech) reader. My brain is able to hold on to concepts better if I'm able to hear them, and better still if I listen and read at the same time.
-> Thanks again for the post. I'm really excited about this :D
 > 
+> For anyone like me who has trouble reading non fiction, I reccomend a TTS (text to speech) reader. My brain is able to hold on to concepts better if I'm able to hear them, and better still if I listen and read at the same time.
+> 
+> Thanks again for the post. I'm really excited about this :D
 
-> **u/destravous** [+3] *
+> **u/destravous** [+3]  (19 hours later)
 > 
 > This is strikingly similar to how the wavefunction collapse procedural generation algorithim works: https://github.com/mxgmn/WaveFunctionCollapse/blob/master/README.md
-> Specifically this part:
-> >"It may happen that during propagation all the coefficients for a certain pixel become zero. That means that the algorithm has run into a contradiction and can not continue. The problem of determining whether a certain bitmap allows other nontrivial bitmaps satisfying condition (C1) is NP-hard, so it's impossible to create a fast solution that always finishes. In practice, however, the algorithm runs into contradictions surprisingly rarely."
-> It appears preventing a paradox in a universe with stable time loop based time travel is equivalent to solving an NP-hard problem every time the paradox would occur.
 > 
+> Specifically this part:
+> 
+> >"It may happen that during propagation all the coefficients for a certain pixel become zero. That means that the algorithm has run into a contradiction and can not continue. The problem of determining whether a certain bitmap allows other nontrivial bitmaps satisfying condition (C1) is NP-hard, so it's impossible to create a fast solution that always finishes. In practice, however, the algorithm runs into contradictions surprisingly rarely."
+> 
+> It appears preventing a paradox in a universe with stable time loop based time travel is equivalent to solving an NP-hard problem every time the paradox would occur.
 
-> **u/creative_ennui** [+3] *
+> **u/creative_ennui** [+3]  (a day later)
 > 
 > This post reminds me of a number of papers looking at the effect of Closed Timelike Curves on computational complexity. Especially interesting are [2] for the exact complexity class of classical and quantum computing augmented with CTC's, and [6] for a discussion of a number of paradoxes involving CTC's in both classical and quantum settings
-
+> 
 > [1] Aaronson, Scott. “[NP-Complete Problems and Physical Reality.](http://arxiv.org/abs/quant-ph/0502072)”
+> 
 > [2] Aaronson, Scott, and John Watrous. “[Closed Timelike Curves Make Quantum and Classical Computing Equivalent.](https://doi.org/10.1098/rspa.2008.0350)”. 
 > arxiv [link](https://arxiv.org/abs/0808.2669)
+> 
 > [3] Bacon, Dave. “[Quantum Computational Complexity in the Presence of Closed Timelike Curves.](https://doi.org/10.1103/PhysRevA.70.032309)”. 
 > arxiv [link](https://arxiv.org/abs/quant-ph/0309189)
+> 
 > [4] Bartkiewicz, Małgorzata, Andrzej Grudka, Ryszard Horodecki, Justyna Łodyga, and Jacek Wychowaniec. “[Closed Timelike Curves and the Second Law of Thermodynamics.](https://doi.org/10.1103/PhysRevA.99.022304)”. 
 > arxiv [link](https://arxiv.org/abs/1711.08334)
+> 
 > [5] Brun, Todd A. “[Computers with Closed Timelike Curves Can Solve Hard Problems.](http://arxiv.org/abs/gr-qc/0209061)”
+> 
 > [6] Deutsch, David. “[Quantum Mechanics near Closed Timelike Lines.]( https://doi.org/10.1103/PhysRevD.44.3197)”. 
 > pdf [link](https://pdfs.semanticscholar.org/8e99/3e3e9b0952198a51ed99c9c0af3a31f433df.pdf)
-> 
 
-> **u/ramjet_oddity** [+2] *
+> **u/ramjet_oddity** [+2]  (an hour later)
 > 
 > This is ... wow. That's a lot of thinking. I think I'll have to reread it multiple times before coming to a conclusion, but this is epic.
-> 
 
-> **u/Mr-Mister** [+2] *
+> **u/Mr-Mister** [+2]  (9 hours later)
 > 
 > For a story that combines all of these, play Deponia Doomsday.
-> 
 
-> **u/SevereCircle** [+2] *
+> **u/SevereCircle** [+2]  (18 hours later)
 > 
 > I'm still reading, but while I'm reading, this example comes to mind:
+> 
 > Turn the dial on the device so it is configured to send information back one second in the past. Flip a coin. Wait ten seconds. If it was heads, clap your hands three times. If it was tails, crash. In which of your models does this force the coin to come up heads*?
+> 
 > *except with the probability that you somehow fail to crash because your hand slips or something: let's just call that probability epsilon if it becomes necessary to consider
+> 
 > I'll try to answer myself if I finish reading the post before you get read and answer this comment.
+> 
 > ---
+> 
 > edit 1:
+> 
 > I follow Path Realism. It leads to bizarre things but I understand the definition, I think.
+> 
 > Local Branch Realism:
 > >The intermediate is more interesting: if you, as in the original experiment, splint and then splint again and crash if both splints come out red, then half the time the first splint will come out red, but if the first splint comes out blue, the next one always comes out red. In numbers, the possibilities are p(red,red) = p(red,blue) = 1/4, and p(blue,red) = 1/2.
-> I would understand if it said "if the first splint comes out red, the next splint always comes out blue" but as written I don't understand what you mean.
-> ---
-> edit 2: 
-> Weighted Branch Realism
-> Do static paradox fraction and intrinsic probability correspond to the prior and posterior probability distributions in TimTravel's post, respectively or the other way around (other way around: spf = posterior and ip = prior)? Or do they not correspond at all?
-> ---
-> edit 2b: No, they don't correspond. ~~Reroll realism is equivalent to TimTravel's system though. Pretty sure.~~ (later edits: it's not)
-> ---
-> edit 3:
-> Alice and Bob: I assume Bob also consults his device to see where he should look and crashes if he looks in the wrong place. Is that the case?
-> ---
-> edit 4:
-> Surely the "time force" effectively works differently under the different models?
-> > An obvious corollary to all this is that TIME FORCE is almost never relevant. If you had a bigger device that spat out 32 red/blue pairs at a time, you could predict the lottery without worrying about time force.
-> Under ~~reroll realism~~ TimTravel's system, if Old Man Wek has a policy to crash unless he win the lottery, and he has a 1% chance of death on the day he buys the ticket (he is very sickly in this hypothetical) then he will almost certainly die. See http://www.scp-wiki.net/scp-988 for a similar thought experiment.
-> > That said, it's in some models the case that the most probable timelines are the ones in which time machines are never invented. In Local Branch Realism, this is not true (unless some bad actor arises in every single timeline and causes paradox. Time Beast, anyone?). In Path Realism, this is again never true without positing a Time Beast. However in WBR and RR, it's more or less true. In general, timelines with fewer instances of retrocausation are more likely, only because instances of retrocausation are a proxy for instances of paradox. Now, if paradox are rare, this argument would be weak. (But to be fair, most meaningful uses of time travel require copious paradox; it's the oil in the engine.)
-> I agree. This is consistent with what I said on the r/r Discord about TimTravel's system, which is (roughly?) equivalent to reroll realism. (later edits: it seems not to be)
-> ---
-> edit 5: 
-> > But from that, it follows that the odds of TIME FORCE acting over an interval of time is proportional to the length of that interval. (It's at least linear. It might be super-linear.)
-> I think it tends to increase with the duration of the interval but it depends on how many cosmic coins are simulated in the simulation of the universe during those intervals. In practice under most fictional settings I think it would increase monotonically (but not linearly) with the duration of the interval. It *can't* increase linearly, otherwise eventually the probability it affects the interval would be greater than one.
-> I only understand what "time force" means in TimTravel's system. I'm not sure what it would mean in the other models.
-> > One common confusion which leads people to overstate the importance of TIME FORCE is the fact that parallel universes and timelines aren't necessarily the same thing.
-> Interesting. I will end this edit now and continue reading.
-> ---
-> edit 6:
-> > when it comes up heads, you take the strange device and force blue splints a million times
-> If you mean "force blue a million times" I follow. I don't know what "force blue splints" means if not that.
-> ---
-> edit 7:
-> > Viz. if you do a quantum coin flip and, when it comes up heads, you take the strange device and force blue splints a million times, or, when if the q-coin comes up tails, you force red only once, the odds of seeing blue/red could be 50/50. I.e., by default, half the time there's 50% chance of a 100% chance of seeing blue, and a 50% chance of a 100% chance to see red.
-> I don't follow where the parentheses go on this case. Can you rephrase?
-> > The story is only necessarily different if instead of a quantum coin, you flip a time coin; i.e., cause a splinterpoint. When you do this, it's the... the exact same story in Path Realism and Local Branch Realism, but in Global Branch Realism and Restart Realism, the blue branch has a vastly smaller probability.
-> (I assume restart realism = reroll realism.)
-> If this is true, then reroll realism is NOT equivalent to TimTravel's system, because in TimTravel's system flipping a coin and flipping a "time coin" are equivalent. Therefore if this is true then I do not understand what reroll realism is.
-> ---
-> edit 8:
-> > She's getting impatient, and yanks out her user manual. The culprit's there: it's said the devices exhibit a phenomena called "paradox aversion"; where if the chance of paradox is too high, it's just vastly more likely for no prediction to happen. But there's a special override button at the back, pressable with a needle, which forces the device to yield a prediction, paradox be damned. Alice decides to try to press it.
-> This is a different version of the device than the original, and it is unclear to me how to define the probability of a paradox in each of your models. I would appreciate clarification. Suppose you're in TimTravel's system and you have the device and you intend to straight-up always crash. Something will stop you. If the initial configuration of the universe is one where you already have the device and have that intention, your finger will slip and you'll push the wrong button, or your brain will randomly decide to break your original intention and you'll push the right one. Or somebody else will push the right one by coincidence. If the initial configuration of the universe is not one where you already have the device, you'll probably never get your hands on one. This is for the original device, without the paradox prevention feature (and I repeat that I don't know how that would work).
-> ---
-> edit 9: I am not sure whether I agree or disagree with your section on Bound Time Travel and Free Time Travel, because of the issues above.
-> I am now done with my first pass through the post. Knowing myself, within a few minutes I will probably think of another issue to bring up in another edit, but I've at least read it all now.
 > 
+> I would understand if it said "if the first splint comes out red, the next splint always comes out blue" but as written I don't understand what you mean.
+> 
+> ---
+> 
+> edit 2: 
+> 
+> Weighted Branch Realism
+> 
+> Do static paradox fraction and intrinsic probability correspond to the prior and posterior probability distributions in TimTravel's post, respectively or the other way around (other way around: spf = posterior and ip = prior)? Or do they not correspond at all?
+> 
+> ---
+> 
+> edit 2b: No, they don't correspond. ~~Reroll realism is equivalent to TimTravel's system though. Pretty sure.~~ (later edits: it's not)
+> 
+> ---
+> 
+> edit 3:
+> 
+> Alice and Bob: I assume Bob also consults his device to see where he should look and crashes if he looks in the wrong place. Is that the case?
+> 
+> ---
+> 
+> edit 4:
+> 
+> Surely the "time force" effectively works differently under the different models?
+> 
+> > An obvious corollary to all this is that TIME FORCE is almost never relevant. If you had a bigger device that spat out 32 red/blue pairs at a time, you could predict the lottery without worrying about time force.
+> 
+> Under ~~reroll realism~~ TimTravel's system, if Old Man Wek has a policy to crash unless he win the lottery, and he has a 1% chance of death on the day he buys the ticket (he is very sickly in this hypothetical) then he will almost certainly die. See http://www.scp-wiki.net/scp-988 for a similar thought experiment.
+> 
+> > That said, it's in some models the case that the most probable timelines are the ones in which time machines are never invented. In Local Branch Realism, this is not true (unless some bad actor arises in every single timeline and causes paradox. Time Beast, anyone?). In Path Realism, this is again never true without positing a Time Beast. However in WBR and RR, it's more or less true. In general, timelines with fewer instances of retrocausation are more likely, only because instances of retrocausation are a proxy for instances of paradox. Now, if paradox are rare, this argument would be weak. (But to be fair, most meaningful uses of time travel require copious paradox; it's the oil in the engine.)
+> 
+> I agree. This is consistent with what I said on the r/r Discord about TimTravel's system, which is (roughly?) equivalent to reroll realism. (later edits: it seems not to be)
+> 
+> ---
+> 
+> edit 5: 
+> 
+> > But from that, it follows that the odds of TIME FORCE acting over an interval of time is proportional to the length of that interval. (It's at least linear. It might be super-linear.)
+> 
+> I think it tends to increase with the duration of the interval but it depends on how many cosmic coins are simulated in the simulation of the universe during those intervals. In practice under most fictional settings I think it would increase monotonically (but not linearly) with the duration of the interval. It *can't* increase linearly, otherwise eventually the probability it affects the interval would be greater than one.
+> 
+> I only understand what "time force" means in TimTravel's system. I'm not sure what it would mean in the other models.
+> 
+> > One common confusion which leads people to overstate the importance of TIME FORCE is the fact that parallel universes and timelines aren't necessarily the same thing.
+> 
+> Interesting. I will end this edit now and continue reading.
+> 
+> ---
+> 
+> edit 6:
+> 
+> > when it comes up heads, you take the strange device and force blue splints a million times
+> 
+> If you mean "force blue a million times" I follow. I don't know what "force blue splints" means if not that.
+> 
+> ---
+> 
+> edit 7:
+> 
+> > Viz. if you do a quantum coin flip and, when it comes up heads, you take the strange device and force blue splints a million times, or, when if the q-coin comes up tails, you force red only once, the odds of seeing blue/red could be 50/50. I.e., by default, half the time there's 50% chance of a 100% chance of seeing blue, and a 50% chance of a 100% chance to see red.
+> 
+> I don't follow where the parentheses go on this case. Can you rephrase?
+> 
+> > The story is only necessarily different if instead of a quantum coin, you flip a time coin; i.e., cause a splinterpoint. When you do this, it's the... the exact same story in Path Realism and Local Branch Realism, but in Global Branch Realism and Restart Realism, the blue branch has a vastly smaller probability.
+> 
+> (I assume restart realism = reroll realism.)
+> 
+> If this is true, then reroll realism is NOT equivalent to TimTravel's system, because in TimTravel's system flipping a coin and flipping a "time coin" are equivalent. Therefore if this is true then I do not understand what reroll realism is.
+> 
+> ---
+> 
+> edit 8:
+> 
+> > She's getting impatient, and yanks out her user manual. The culprit's there: it's said the devices exhibit a phenomena called "paradox aversion"; where if the chance of paradox is too high, it's just vastly more likely for no prediction to happen. But there's a special override button at the back, pressable with a needle, which forces the device to yield a prediction, paradox be damned. Alice decides to try to press it.
+> 
+> This is a different version of the device than the original, and it is unclear to me how to define the probability of a paradox in each of your models. I would appreciate clarification. Suppose you're in TimTravel's system and you have the device and you intend to straight-up always crash. Something will stop you. If the initial configuration of the universe is one where you already have the device and have that intention, your finger will slip and you'll push the wrong button, or your brain will randomly decide to break your original intention and you'll push the right one. Or somebody else will push the right one by coincidence. If the initial configuration of the universe is not one where you already have the device, you'll probably never get your hands on one. This is for the original device, without the paradox prevention feature (and I repeat that I don't know how that would work).
+> 
+> ---
+> 
+> edit 9: I am not sure whether I agree or disagree with your section on Bound Time Travel and Free Time Travel, because of the issues above.
+> 
+> I am now done with my first pass through the post. Knowing myself, within a few minutes I will probably think of another issue to bring up in another edit, but I've at least read it all now.
 
->> **u/endlessmoth** [+2] *
+>> **u/endlessmoth** [+2]  (21 hours later)
 >> 
 >> > Turn the dial on the device so it is configured to send information back one second in the past. Flip a coin. Wait ten seconds. If it was heads, clap your hands three times. If it was tails, crash. In which of your models does this force the coin to come up heads*?
+>> 
 >> I think it's irrelevant?  The device seems to have no strong causal connection to your coin flip.  You are committing to not pressing the button at all in the ten seconds, right?  Either way, the only way I could see it matter is if, _even if the lights dont flash_, the electronics inside the device can generate heat in just the right pattern to cause variations in the air flow which affects the flight of the coin and _might_ have some effect.  But if the device is well designed and doesn't send information back and forth unless the user requests, without leaking information, I think the answer is no.  TIME FORCE will have to intervene if it comes up tails.
+>> 
 >> > I would understand if it said "if the first splint comes out red, the next splint always comes out blue" but as written I don't understand what you mean.
+>> 
 >> That was a typo.  Thank you for catching, but it's not there on my end.  I think what happened is you loaded an old version of the post, and I fixed the typo before you posted.
+>> 
 >> > Do static paradox fraction and intrinsic probability correspond to the prior and posterior probability distributions in TimTravel's post, respectively or the other way around (other way around: spf = posterior and ip = prior)? Or do they not correspond at all?
 >> > edit 2b: No, they don't correspond. 
->> I doubt it.  ip = prior sounds possible on the face of it.  But spf is It's not even a probability, but a fraction of how many children of this branch are paradoxical (weighted so that closer descendants count more than distant ones.
->> > Alice and Bob: I assume Bob also consults his device to see where he should look and crashes if he looks in the wrong place. Is that the case?
->> Correct.
->> > Surely the "time force" effectively works differently under the different models?
->> I'd presume so, yeah.  Didn't have enough think-juice left over last night to think hard about the details, unfortunately.
->> > I think it would increase monotonically (but not linearly) with the duration of the interval. It can't increase linearly, otherwise eventually the probability it affects the interval would be greater than one.
->> Good catch.  Sloppy use of terminology on my part.
->> > If you mean "force blue a million times" I follow. I don't know what "force blue splints" means if not that.
->> My bad, it's the same thing.
->> > This is a different version of the device than the original, and it is unclear to me how to define the probability of a paradox in each of your models. 
->> Easy, it's always 0 :^)
->> But no, this is just sloppiness on my part.  The passage above assumes RR/BBR, or WBR.  In PR and LBR, it's just false.
 >> 
+>> I doubt it.  ip = prior sounds possible on the face of it.  But spf is It's not even a probability, but a fraction of how many children of this branch are paradoxical (weighted so that closer descendants count more than distant ones.
+>> 
+>> > Alice and Bob: I assume Bob also consults his device to see where he should look and crashes if he looks in the wrong place. Is that the case?
+>> 
+>> Correct.
+>> 
+>> > Surely the "time force" effectively works differently under the different models?
+>> 
+>> I'd presume so, yeah.  Didn't have enough think-juice left over last night to think hard about the details, unfortunately.
+>> 
+>> > I think it would increase monotonically (but not linearly) with the duration of the interval. It can't increase linearly, otherwise eventually the probability it affects the interval would be greater than one.
+>> 
+>> Good catch.  Sloppy use of terminology on my part.
+>> 
+>> > If you mean "force blue a million times" I follow. I don't know what "force blue splints" means if not that.
+>> 
+>> My bad, it's the same thing.
+>> 
+>> > This is a different version of the device than the original, and it is unclear to me how to define the probability of a paradox in each of your models. 
+>> 
+>> Easy, it's always 0 :^)
+>> 
+>> But no, this is just sloppiness on my part.  The passage above assumes RR/BBR, or WBR.  In PR and LBR, it's just false.
 
->>> **u/SevereCircle** [+1] *
+>>> **u/SevereCircle** [+1]  (22 hours later)
 >>> 
 >>> > I think it's irrelevant? The device seems to have no strong causal connection to your coin flip. You are committing to not pressing the button at all in the ten seconds, right?
->>> Yes.
->>> > Either way, the only way I could see it matter is if, even if the lights dont flash, the electronics inside the device can generate heat in just the right pattern to cause variations in the air flow which affects the flight of the coin and might have some effect. But if the device is well designed and doesn't send information back and forth unless the user requests, without leaking information, I think the answer is no. TIME FORCE will have to intervene if it comes up tails.
->>> If this is the case, then under Reroll Realism, how far back does the universe rewind before rerolling? If it rewinds all the way back to the beginning of time (which is earlier than the coin flip), then there's a chance the coin will yield a different result on the next reroll. If it only rewinds to some point later than the coin flip, then the coin flip would be unaffected by the device holder intending to follow the scheme I came up with, and something else would prevent you from pushing the wrong button.
->>> > The device seems to have no strong causal connection to your coin flip.
->>> I'm honestly not sure whether the following is a technicality but it might be important so I'm bringing it up: I don't know how to define "causally related" under any of these systems. Independence (as in probability, `independent(A,B) iff P(A | B) = P(A | not B)`) would be easier to define. Under TimTravel's system they are not independent, so if they are independent under Reroll Realism then I don't understand Reroll Realism and I would like to know what makes them different.
->>> > I doubt it. ip = prior sounds possible on the face of it. But spf is It's not even a probability, but a fraction of how many children of this branch are paradoxical (weighted so that closer descendants count more than distant ones.
->>> I don't understand Weighted Branch Realism, but I am less interested in that system than I am in Reroll Realism so let's put it aside for now.
->>> >  The culprit's there: it's said the devices exhibit a phenomena called "paradox aversion"; where if the chance of paradox is too high, it's just vastly more likely for no prediction to happen.
->>> This is the passage I was referring to when I asked about how to define the probability of a paradox. If it's zero, then Alice wouldn't get the outcome described where the device does not give a prediction at all.
 >>> 
+>>> Yes.
+>>> 
+>>> > Either way, the only way I could see it matter is if, even if the lights dont flash, the electronics inside the device can generate heat in just the right pattern to cause variations in the air flow which affects the flight of the coin and might have some effect. But if the device is well designed and doesn't send information back and forth unless the user requests, without leaking information, I think the answer is no. TIME FORCE will have to intervene if it comes up tails.
+>>> 
+>>> If this is the case, then under Reroll Realism, how far back does the universe rewind before rerolling? If it rewinds all the way back to the beginning of time (which is earlier than the coin flip), then there's a chance the coin will yield a different result on the next reroll. If it only rewinds to some point later than the coin flip, then the coin flip would be unaffected by the device holder intending to follow the scheme I came up with, and something else would prevent you from pushing the wrong button.
+>>> 
+>>> > The device seems to have no strong causal connection to your coin flip.
+>>> 
+>>> I'm honestly not sure whether the following is a technicality but it might be important so I'm bringing it up: I don't know how to define "causally related" under any of these systems. Independence (as in probability, `independent(A,B) iff P(A | B) = P(A | not B)`) would be easier to define. Under TimTravel's system they are not independent, so if they are independent under Reroll Realism then I don't understand Reroll Realism and I would like to know what makes them different.
+>>> 
+>>> > I doubt it. ip = prior sounds possible on the face of it. But spf is It's not even a probability, but a fraction of how many children of this branch are paradoxical (weighted so that closer descendants count more than distant ones.
+>>> 
+>>> I don't understand Weighted Branch Realism, but I am less interested in that system than I am in Reroll Realism so let's put it aside for now.
+>>> 
+>>> >  The culprit's there: it's said the devices exhibit a phenomena called "paradox aversion"; where if the chance of paradox is too high, it's just vastly more likely for no prediction to happen.
+>>> 
+>>> This is the passage I was referring to when I asked about how to define the probability of a paradox. If it's zero, then Alice wouldn't get the outcome described where the device does not give a prediction at all.
 
->>>> **u/endlessmoth** [+3] *
+>>>> **u/endlessmoth** [+3]  (a day later)
 >>>> 
 >>>> > If this is the case, then under Reroll Realism, how far back does the universe rewind before rerolling? If it rewinds all the way back to the beginning of time (which is earlier than the coin flip), then there's a chance the coin will yield a different result on the next reroll.
->>>> That is a good point.  Yes, I am modelling Reroll Realism as restarting the whole universe.  (Incidentally, this thus seems to be the most plausible model to allow something like TIME FORCE.
->>>> > I'm honestly not sure whether the following is a technicality but it might be important so I'm bringing it up: I don't know how to define "causally related" under any of these systems. Independence (as in probability, independent(A,B) iff P(A | B) = P(A | not B)) would be easier to define. Under TimTravel's system they are not independent, so if they are independent under Reroll Realism then I don't understand Reroll Realism and I would like to know what makes them different.
->>>> It's worth bringing up regardless.  If you substitute 'independent' for 'causally related' (which is probably better way to say it), in Reroll they are not independent (I think, by the argument you gave above).
->>>> > I don't understand Weighted Branch Realism, but I am less interested in that system than I am in Reroll Realism so let's put it aside for now.
->>>> Truth be told, in a certain sense I don't understand WBR, in that I can't point to you a system or mechanism where its distribution falls naturally out (except for a computer blindly implementing the equations, of course).  In that sense, it's somewhat arcane and artificial.  (Barring someone brighter than I finding a physical logic to it.)
->>>> > This is the passage I was referring to when I asked about how to define the probability of a paradox. If it's zero, then Alice wouldn't get the outcome described where the device does not give a prediction at all.
->>>> This is also unfortunate, sloppy phrasing.  It might be worth going through the post and tightening up a few misleading paragraphs.
->>>> Alice's device behaves suchly because the passage silently assumes WBR or RR (my pet interpretations).  For clarity's sake (now that I understand where you're coming from), in RR the 'chance of paradox' is the chance the universe restarts, and in WBR it is the spf.
 >>>> 
+>>>> That is a good point.  Yes, I am modelling Reroll Realism as restarting the whole universe.  (Incidentally, this thus seems to be the most plausible model to allow something like TIME FORCE.
+>>>> 
+>>>> > I'm honestly not sure whether the following is a technicality but it might be important so I'm bringing it up: I don't know how to define "causally related" under any of these systems. Independence (as in probability, independent(A,B) iff P(A | B) = P(A | not B)) would be easier to define. Under TimTravel's system they are not independent, so if they are independent under Reroll Realism then I don't understand Reroll Realism and I would like to know what makes them different.
+>>>> 
+>>>> It's worth bringing up regardless.  If you substitute 'independent' for 'causally related' (which is probably better way to say it), in Reroll they are not independent (I think, by the argument you gave above).
+>>>> 
+>>>> > I don't understand Weighted Branch Realism, but I am less interested in that system than I am in Reroll Realism so let's put it aside for now.
+>>>> 
+>>>> Truth be told, in a certain sense I don't understand WBR, in that I can't point to you a system or mechanism where its distribution falls naturally out (except for a computer blindly implementing the equations, of course).  In that sense, it's somewhat arcane and artificial.  (Barring someone brighter than I finding a physical logic to it.)
+>>>> 
+>>>> > This is the passage I was referring to when I asked about how to define the probability of a paradox. If it's zero, then Alice wouldn't get the outcome described where the device does not give a prediction at all.
+>>>> 
+>>>> This is also unfortunate, sloppy phrasing.  It might be worth going through the post and tightening up a few misleading paragraphs.
+>>>> 
+>>>> Alice's device behaves suchly because the passage silently assumes WBR or RR (my pet interpretations).  For clarity's sake (now that I understand where you're coming from), in RR the 'chance of paradox' is the chance the universe restarts, and in WBR it is the spf.
 
->>>>> **u/SevereCircle** [+1] *
+>>>>> **u/SevereCircle** [+1]  (a day later)
 >>>>> 
 >>>>> > That is a good point. Yes, I am modelling Reroll Realism as restarting the whole universe. (Incidentally, this thus seems to be the most plausible model to allow something like TIME FORCE.
->>>>> If that's the case, then I think Reroll Realism is the same as TimTravel's system, so let me revisit a few earlier points.
->>>>> > > An obvious corollary to all this is that TIME FORCE is almost never relevant. If you had a bigger device that spat out 32 red/blue pairs at a time, you could predict the lottery without worrying about time force.
->>>>> > Under reroll realism TimTravel's system, if Old Man Wek has a policy to crash unless he win the lottery, and he has a 1% chance of death on the day he buys the ticket (he is very sickly in this hypothetical) then he will almost certainly die. See http://www.scp-wiki.net/scp-988 for a similar thought experiment.
->>>>> On the other hand, if Old Man Wek is very unlikely to die, and very unlikely to fail to purchase a ticket and very unlikely to fail to turn in a winning ticket for the money then he will likely win the lottery. Let's say if probability that he fails to get a ticket + probability he fails to turn in a winning ticket given that he won < 1/10^1000000 then he'll almost certainly win the lottery. The time force matters in proportion to the (prior) probability that you'll fail to follow through on crashing. Prior in the sense of "prior to conditioning on the universe having zero paradoxes".
->>>>> It would be logical to set up a very robust system that crashes if you die, otherwise time will just kill you to get you out of the way. You could also set up a sort of "probabilistic safety valve" and commit to not mess with time if you get ten heads in a row when you flip a coin before starting. As long as your death is notably less likely than 1/1024, the time force will be more likely to make that event happen to prevent you messing with time than it would be to kill you.
->>>>> > It's worth bringing up regardless. If you substitute 'independent' for 'causally related' (which is probably better way to say it), in Reroll they are not independent (I think, by the argument you gave above).
->>>>> OK, cool!
->>>>> > Alice's device behaves suchly because the passage silently assumes WBR or RR (my pet interpretations). For clarity's sake (now that I understand where you're coming from), in RR the 'chance of paradox' is the chance the universe restarts, and in WBR it is the spf.
->>>>> Ah, I see.
->>>>> Revisiting edit 7:
->>>>> > edit 7:
->>>>> >> Viz. if you do a quantum coin flip and, when it comes up heads, you take the strange device and force blue splints a million times, or, when if the q-coin comes up tails, you force red only once, the odds of seeing blue/red could be 50/50. I.e., by default, half the time there's 50% chance of a 100% chance of seeing blue, and a 50% chance of a 100% chance to see red.
->>>>> >I don't follow where the parentheses go on this case. Can you rephrase?
->>>>> >> The story is only necessarily different if instead of a quantum coin, you flip a time coin; i.e., cause a splinterpoint. When you do this, it's the... the exact same story in Path Realism and Local Branch Realism, but in Global Branch Realism and Restart Realism, the blue branch has a vastly smaller probability.
->>>>> >(I assume restart realism = reroll realism.)
->>>>> > If this is true, then reroll realism is NOT equivalent to TimTravel's system, because in TimTravel's system flipping a coin and flipping a "time coin" are equivalent. Therefore if this is true then I do not understand what reroll realism is.
->>>>> I now think that the two coin flip types are equivalent in Reroll Realism, because Reroll Realism is the same as TimTravel's system. I still don't follow the phrasing on the "Viz" paragraph.
->>>>> I'll reread the Bound Time Travel and Free Time Travel sections later in this context. I'm mentally worn-out on the topic for today.
 >>>>> 
+>>>>> If that's the case, then I think Reroll Realism is the same as TimTravel's system, so let me revisit a few earlier points.
+>>>>> 
+>>>>> > > An obvious corollary to all this is that TIME FORCE is almost never relevant. If you had a bigger device that spat out 32 red/blue pairs at a time, you could predict the lottery without worrying about time force.
+>>>>> 
+>>>>> > Under reroll realism TimTravel's system, if Old Man Wek has a policy to crash unless he win the lottery, and he has a 1% chance of death on the day he buys the ticket (he is very sickly in this hypothetical) then he will almost certainly die. See http://www.scp-wiki.net/scp-988 for a similar thought experiment.
+>>>>> 
+>>>>> On the other hand, if Old Man Wek is very unlikely to die, and very unlikely to fail to purchase a ticket and very unlikely to fail to turn in a winning ticket for the money then he will likely win the lottery. Let's say if probability that he fails to get a ticket + probability he fails to turn in a winning ticket given that he won < 1/10^1000000 then he'll almost certainly win the lottery. The time force matters in proportion to the (prior) probability that you'll fail to follow through on crashing. Prior in the sense of "prior to conditioning on the universe having zero paradoxes".
+>>>>> 
+>>>>> It would be logical to set up a very robust system that crashes if you die, otherwise time will just kill you to get you out of the way. You could also set up a sort of "probabilistic safety valve" and commit to not mess with time if you get ten heads in a row when you flip a coin before starting. As long as your death is notably less likely than 1/1024, the time force will be more likely to make that event happen to prevent you messing with time than it would be to kill you.
+>>>>> 
+>>>>> > It's worth bringing up regardless. If you substitute 'independent' for 'causally related' (which is probably better way to say it), in Reroll they are not independent (I think, by the argument you gave above).
+>>>>> 
+>>>>> OK, cool!
+>>>>> 
+>>>>> > Alice's device behaves suchly because the passage silently assumes WBR or RR (my pet interpretations). For clarity's sake (now that I understand where you're coming from), in RR the 'chance of paradox' is the chance the universe restarts, and in WBR it is the spf.
+>>>>> 
+>>>>> Ah, I see.
+>>>>> 
+>>>>> Revisiting edit 7:
+>>>>> 
+>>>>> > edit 7:
+>>>>> 
+>>>>> >> Viz. if you do a quantum coin flip and, when it comes up heads, you take the strange device and force blue splints a million times, or, when if the q-coin comes up tails, you force red only once, the odds of seeing blue/red could be 50/50. I.e., by default, half the time there's 50% chance of a 100% chance of seeing blue, and a 50% chance of a 100% chance to see red.
+>>>>> 
+>>>>> >I don't follow where the parentheses go on this case. Can you rephrase?
+>>>>> 
+>>>>> >> The story is only necessarily different if instead of a quantum coin, you flip a time coin; i.e., cause a splinterpoint. When you do this, it's the... the exact same story in Path Realism and Local Branch Realism, but in Global Branch Realism and Restart Realism, the blue branch has a vastly smaller probability.
+>>>>> 
+>>>>> >(I assume restart realism = reroll realism.)
+>>>>> 
+>>>>> > If this is true, then reroll realism is NOT equivalent to TimTravel's system, because in TimTravel's system flipping a coin and flipping a "time coin" are equivalent. Therefore if this is true then I do not understand what reroll realism is.
+>>>>> 
+>>>>> I now think that the two coin flip types are equivalent in Reroll Realism, because Reroll Realism is the same as TimTravel's system. I still don't follow the phrasing on the "Viz" paragraph.
+>>>>> 
+>>>>> I'll reread the Bound Time Travel and Free Time Travel sections later in this context. I'm mentally worn-out on the topic for today.
 
-> **u/wren42** [+2] *
+> **u/wren42** [+2]  (22 hours later)
 > 
 > this is awesome. it's also not a 15-20 minute read XD  there's a lot more processing of the math that needs to happen than pure words per minute ;)
-> 
 
-> **u/e00E** [+1] *
+> **u/e00E** [+1]  (21 hours later)
 > 
 > I feel like there is something fundamental that I am not understanding. I can agree to *forcing* but then
-> > The opposite of forcing would be splinting (after 'splinterpoint'). This is, pressing the button for whichever light comes on next, with no tricks and no conditionals. 
-> At this point the text seems to assume that when splinting there is a chance of 1/2 for either red or blue. But couldn't the device have any arbitrary distribution? For example, when you splint it could output left with a probability of 0.1, or 1.0. Or when you commit to splinting exactly 3 times in a row maybe the device always goes *left left right* but for any other splint it is back to fifty-fifty.
-> Even more confusing to me, wouldn't outputting nothing also be a valid reality when you splint? You say you will press the button for whichever light turns on but when no light turns on you press no button so there is no paradox.
-> > crashing. This is: pressing the button of whichever light doesn't blink on. It's less that you can do this, and more that you can intend this, and reality responds to that.
-> > It seems that splints are basically coin tosses; it either comes up blue or it comes up red. The exception is if one of those options always leads to paradox. If you commit to crashing when the light shines blue, then it will always shine red. If you commit to splinting, then crashing if the first splint comes out blue, then the splint will similarly always shine red.
-> Again, another valid outcome seems to be that when you commit to crashing no light turns on. This way you cannot crash, you just disable the device because any further output would lead to a crash.
-> > If you commit to crashing when the light shines blue, then it will always shine red.
-> Or no light turns on.
-> > If you commit to splinting, then crashing if the first splint comes out blue, then the splint will similarly always shine red.
-> Or the splint comes out blue and there is no next output.
-> In fact that result has to be valid. Imagine someone that would every time unconditionally always crash. If we didn't allow the device to output nothing in this situation then there would no valid reality because no matter what happens, the person crashes.
-> Furthermore, I suspect that if I (or really any human) had the device then after understanding how it worked it would never output anything again either because I simply could not with absolut certainty commit myself to not crash. Even with my best intentions of splinting there would be a small chance in the spur of the moment that I would decide to crash thus there cannot be any output.
 > 
+> > The opposite of forcing would be splinting (after 'splinterpoint'). This is, pressing the button for whichever light comes on next, with no tricks and no conditionals. 
+> 
+> At this point the text seems to assume that when splinting there is a chance of 1/2 for either red or blue. But couldn't the device have any arbitrary distribution? For example, when you splint it could output left with a probability of 0.1, or 1.0. Or when you commit to splinting exactly 3 times in a row maybe the device always goes *left left right* but for any other splint it is back to fifty-fifty.
+> 
+> Even more confusing to me, wouldn't outputting nothing also be a valid reality when you splint? You say you will press the button for whichever light turns on but when no light turns on you press no button so there is no paradox.
+> 
+> > crashing. This is: pressing the button of whichever light doesn't blink on. It's less that you can do this, and more that you can intend this, and reality responds to that.
+> 
+> > It seems that splints are basically coin tosses; it either comes up blue or it comes up red. The exception is if one of those options always leads to paradox. If you commit to crashing when the light shines blue, then it will always shine red. If you commit to splinting, then crashing if the first splint comes out blue, then the splint will similarly always shine red.
+> 
+> Again, another valid outcome seems to be that when you commit to crashing no light turns on. This way you cannot crash, you just disable the device because any further output would lead to a crash.
+> 
+> > If you commit to crashing when the light shines blue, then it will always shine red.
+> 
+> Or no light turns on.
+> 
+> > If you commit to splinting, then crashing if the first splint comes out blue, then the splint will similarly always shine red.
+> 
+> Or the splint comes out blue and there is no next output.
+> 
+> In fact that result has to be valid. Imagine someone that would every time unconditionally always crash. If we didn't allow the device to output nothing in this situation then there would no valid reality because no matter what happens, the person crashes.
+> 
+> Furthermore, I suspect that if I (or really any human) had the device then after understanding how it worked it would never output anything again either because I simply could not with absolut certainty commit myself to not crash. Even with my best intentions of splinting there would be a small chance in the spur of the moment that I would decide to crash thus there cannot be any output.
 
->> **u/endlessmoth** [+3] *
+>> **u/endlessmoth** [+3]  (22 hours later)
 >> 
 >> > At this point the text seems to assume that when splinting there is a chance of 1/2 for either red or blue. 
+>> 
 >> Yes.  I find this imminently reasonable and alternatives unparsimonious (and it affect the core reasoning much at all.)
+>> 
 >> > Even more confusing to me, wouldn't outputting nothing also be a valid reality when you splint? You say you will press the button for whichever light turns on but when no light turns on you press no button so there is no paradox.
+>> 
 >> > Again, another valid outcome seems to be that when you commit to crashing no light turns on. This way you cannot crash, you just disable the device because any further output would lead to a crash.
+>> 
 >> This is a sloppiness in my post.  However, this objection has been raised on the discord, and on more careful analysis I find that it's mostly a technical issue.  First of all, the device never, ever flashing again requires the device to always pick one option from a set of three every time for the rest of time, and the probability of this happening converges to 0, making it impossible in certain models (e.g., WBR; the spf goes to 1).  In models where it's still possible, you can hack in (as I did in the Alice & Bob example) a special button which forces one of the lights to come on regardless.
->> > Even with my best intentions of splinting there would be a small chance in the spur of the moment that I would decide to crash thus there cannot be any output.
->> I'm not sure the reasoning works even if we don't hack in a special button.  Why does the device care about such small probabilities?
->> Either the universe is assumed to be deterministic or nondeterministic.  If it's deterministic, great: it's a fact of the matter whether you will crash or not in a counterfactual world.  If it's not deterministic, then just as there's a chance you might crash, there's an opposite chance you _won't_ crash.
->> Like, flip your reasoning around:
->> > Furthermore, I suspect that if I (or really any human) had the device then after understanding how it worked it would always output something again either because I simply could not with absolut certainty commit myself to crash. Even with my best intentions of crashing there would be a small chance in the spur of the moment that I would decide to splint thus there must be some output.
 >> 
+>> > Even with my best intentions of splinting there would be a small chance in the spur of the moment that I would decide to crash thus there cannot be any output.
+>> 
+>> I'm not sure the reasoning works even if we don't hack in a special button.  Why does the device care about such small probabilities?
+>> 
+>> Either the universe is assumed to be deterministic or nondeterministic.  If it's deterministic, great: it's a fact of the matter whether you will crash or not in a counterfactual world.  If it's not deterministic, then just as there's a chance you might crash, there's an opposite chance you _won't_ crash.
+>> 
+>> Like, flip your reasoning around:
+>> 
+>> > Furthermore, I suspect that if I (or really any human) had the device then after understanding how it worked it would always output something again either because I simply could not with absolut certainty commit myself to crash. Even with my best intentions of crashing there would be a small chance in the spur of the moment that I would decide to splint thus there must be some output.
 
->> **u/SevereCircle** [+3] *
+>> **u/SevereCircle** [+3]  (23 hours later)
 >> 
 >> > Even more confusing to me, wouldn't outputting nothing also be a valid reality when you splint? You say you will press the button for whichever light turns on but when no light turns on you press no button so there is no paradox.
->> Have a policy that if this happens, you crash. With such a policy you'll guarantee it won't happen. (see next section for how to crash more properly)
->> > Again, another valid outcome seems to be that when you commit to crashing no light turns on. This way you cannot crash, you just disable the device because any further output would lead to a crash.
->> If no light comes on, you can just push red or blue and that would be a paradox.
-
->> >> The opposite of forcing would be splinting (after 'splinterpoint'). This is, pressing the button for whichever light comes on next, with no tricks and no conditionals.
->> > At this point the text seems to assume that when splinting there is a chance of 1/2 for either red or blue. But couldn't the device have any arbitrary distribution?
->> It depends on the model, but I don't see why to choose a model where they aren't equally likely. That just makes things more complicated for no benefit I can see. So yes, you do have to mathematically require that it is equally likely when defining the model, but I don't see any reason not to do so.
 >> 
+>> Have a policy that if this happens, you crash. With such a policy you'll guarantee it won't happen. (see next section for how to crash more properly)
+>> 
+>> > Again, another valid outcome seems to be that when you commit to crashing no light turns on. This way you cannot crash, you just disable the device because any further output would lead to a crash.
+>> 
+>> If no light comes on, you can just push red or blue and that would be a paradox.
+>> 
+>> >> The opposite of forcing would be splinting (after 'splinterpoint'). This is, pressing the button for whichever light comes on next, with no tricks and no conditionals.
+>> 
+>> > At this point the text seems to assume that when splinting there is a chance of 1/2 for either red or blue. But couldn't the device have any arbitrary distribution?
+>> 
+>> It depends on the model, but I don't see why to choose a model where they aren't equally likely. That just makes things more complicated for no benefit I can see. So yes, you do have to mathematically require that it is equally likely when defining the model, but I don't see any reason not to do so.
 
->>> **u/e00E** [+2] *
+>>> **u/e00E** [+2]  (23 hours later)
 >>> 
 >>> Thank you for helping me understand.
->>> > If no light comes on, you can just push red or blue and that would be a paradox.
->>> When you do this the correct light will turn on right before you push the button as given by the OP
->>> > Furrowing your brow, you decide to press the button again. The blue light quickly shines on before you do, and again it winks out immediately as the button is depressed. You try to press the button again and again, and each time the light shines on, seemingly predicting or anticipating the button press.
->>> Ignoring that point and assuming that you are right that crashing is always possible then how do you reconcile this with
->>> > Imagine someone that would every time unconditionally always crash. If we didn't allow the device to output nothing in this situation then there would no valid reality because no matter what happens, the person crashes.
->>> If this cannot be resolved by *no light ever turns on again* then what is the result? Every reality crashes.
 >>> 
+>>> > If no light comes on, you can just push red or blue and that would be a paradox.
+>>> 
+>>> When you do this the correct light will turn on right before you push the button as given by the OP
+>>> 
+>>> > Furrowing your brow, you decide to press the button again. The blue light quickly shines on before you do, and again it winks out immediately as the button is depressed. You try to press the button again and again, and each time the light shines on, seemingly predicting or anticipating the button press.
+>>> 
+>>> Ignoring that point and assuming that you are right that crashing is always possible then how do you reconcile this with
+>>> 
+>>> > Imagine someone that would every time unconditionally always crash. If we didn't allow the device to output nothing in this situation then there would no valid reality because no matter what happens, the person crashes.
+>>> 
+>>> If this cannot be resolved by *no light ever turns on again* then what is the result? Every reality crashes.
 
->>>> **u/SevereCircle** [+3] *
+>>>> **u/SevereCircle** [+3]  (23 hours later)
 >>>> 
 >>>> > When you do this the correct light will turn on right before you push the button as given by the OP
->>>> Set the interval to one minute instead of one second. Observe the light at t0, then wait one minute. If it was red, push blue. If it was blue, push red. If the light was off, push red.
->>>> >>Imagine someone that would every time unconditionally always crash. If we didn't allow the device to output nothing in this situation then there would no valid reality because no matter what happens, the person crashes.
->>>> > If this cannot be resolved by no light ever turns on again then what is the result? Every reality crashes.
->>>> Under TimTravel's model, such a person will necessarily fail to crash, because their finger will slip, or they will never get access to the device in the first place, or they'll get scared and push the right button after all, etc.
 >>>> 
+>>>> Set the interval to one minute instead of one second. Observe the light at t0, then wait one minute. If it was red, push blue. If it was blue, push red. If the light was off, push red.
+>>>> 
+>>>> >>Imagine someone that would every time unconditionally always crash. If we didn't allow the device to output nothing in this situation then there would no valid reality because no matter what happens, the person crashes.
+>>>> 
+>>>> > If this cannot be resolved by no light ever turns on again then what is the result? Every reality crashes.
+>>>> 
+>>>> Under TimTravel's model, such a person will necessarily fail to crash, because their finger will slip, or they will never get access to the device in the first place, or they'll get scared and push the right button after all, etc.
 
-> **u/CCC_037** [+1] *
+> **u/CCC_037** [+1]  (a day later)
 > 
 > There's one bizarre thing I note about your original paths, with the red/blue retrocausation device. And that is this: you *can't* crash. It's pretty clearly physically impossible. (Sure, you can intend to, but that's about all).
-> Let's assume that you splint twice, and commit to crashing if both splints come out red. Then both come out red. So, what do you do? You resolve to press the button that matches whichever light comes on next.
-> The logical result of this intention is that *neither light comes on, ever again*. This prevents crashing, because there's no paradox if there's no prediction for you to subvert. So, there's no need for the universe to avoid a branch of time in which you *intended* to Crash; because even when you get to that time, you can't actually *do* it.
 > 
+> Let's assume that you splint twice, and commit to crashing if both splints come out red. Then both come out red. So, what do you do? You resolve to press the button that matches whichever light comes on next.
+> 
+> The logical result of this intention is that *neither light comes on, ever again*. This prevents crashing, because there's no paradox if there's no prediction for you to subvert. So, there's no need for the universe to avoid a branch of time in which you *intended* to Crash; because even when you get to that time, you can't actually *do* it.
 
->> **u/endlessmoth** [+2] *
+>> **u/endlessmoth** [+2]  (a day later)
 >> 
 >> You aren't the first in this thread to notice, and this objection actually depends on the model.  It's only valid in Path Realism and Local Branch Realism.  In the other two models, your reasoning is substantially weaker, if correct at all; a timeline where neither light comes on ever again has measure zero, because it requires an infinite conjunction of events of probability 1/3 (either no light comes on, or blue comes on, or red comes on; the former has to happen _every single time without fail_): which translates to spf = 1 in WBR; to probability 1 of restarting in RR; and to p(light never comes on | consistent) = 0 in BBR.
->> And even in those two cases, the objection is technical, and reasoning proceeds unchanged if you posit a special button which forces the device to yield a prediction, as was added in the Alice & Bob example.
 >> 
+>> And even in those two cases, the objection is technical, and reasoning proceeds unchanged if you posit a special button which forces the device to yield a prediction, as was added in the Alice & Bob example.
 
->>> **u/CCC_037** [+2] *
+>>> **u/CCC_037** [+2]  (a day later)
 >>> 
 >>> Your point in the first paragraph here is *very* badly flawed; just because there are three things that can happen, doesn't mean that they each have probability 1/3. (To take an example; if you flip a coin, it might land on heads, it might land on tails, and it might land on the edge. That's three outcomes, with nowhere *near* equal probabilities of occurring).
->>> However, your point in the second paragraph is much more solid. A special button which forces a prediction would appear to make a crash a possibility. However, even in the case where you intend to force a crash *and* can force a prediction, it's *still* not certain that you will be able to force a crash. (For example; once you force a prediction and see a blue light, you may intend to push the red button but instead drop the device, which lands blue-button-first on the floor). Of course, all the ways in which you fail to force a crash would be low-probability timelines that happen as the universe avoids paradox; so, in at least some of your models, the universe would be avoiding the timeline in which you *intend* to force a crash to a greater or lesser degree in any case (and by measuring how much it avoids those timelines, you can gain some information over which model is correct).
 >>> 
+>>> However, your point in the second paragraph is much more solid. A special button which forces a prediction would appear to make a crash a possibility. However, even in the case where you intend to force a crash *and* can force a prediction, it's *still* not certain that you will be able to force a crash. (For example; once you force a prediction and see a blue light, you may intend to push the red button but instead drop the device, which lands blue-button-first on the floor). Of course, all the ways in which you fail to force a crash would be low-probability timelines that happen as the universe avoids paradox; so, in at least some of your models, the universe would be avoiding the timeline in which you *intend* to force a crash to a greater or lesser degree in any case (and by measuring how much it avoids those timelines, you can gain some information over which model is correct).
 
->>>> **u/endlessmoth** [+2] *
+>>>> **u/endlessmoth** [+2]  (a day later)
 >>>> 
 >>>> 1) Why assume the probability distribution is lopsided?  That's less parsimonious for no benefit.  2) Is it so "_very_ badly flawed" to point out that the conjunction of a repeated series of events converges to 0?  Even if the probability of no result is 1-3\^\^-3 (i.e., the device is practically unusable), that still won't save you.
->>>> 
 
->>>>> **u/CCC_037** [+2] *
+>>>>> **u/CCC_037** [+2]  (2 days later)
 >>>>> 
 >>>>> 1) Most probability distributions are lopsided, one way or the other. There is a very small probability that I will be hit by lightning and killed tomorrow, and a much larger probability that I won't; it would be an error to assume that those odds are both 50%. In any attempt to claim that a probability is not lopsided, one should at the very least present an argument in support of that claim.
->>>>> 2) This is true only if we consider a truly infinite amount of time. However, it is easy to imagine a probability of "no result" that's small enough that there would be (say) a 90% chance of getting no result over the next thousand years; a finite amount of time, but a long enough amount of time that I am most unlikely to still be alive and committed to forcing a crash by the end of it. Human lifespan is finite; thus, the device would only need to show no result for a finite period of time.
 >>>>> 
+>>>>> 2) This is true only if we consider a truly infinite amount of time. However, it is easy to imagine a probability of "no result" that's small enough that there would be (say) a 90% chance of getting no result over the next thousand years; a finite amount of time, but a long enough amount of time that I am most unlikely to still be alive and committed to forcing a crash by the end of it. Human lifespan is finite; thus, the device would only need to show no result for a finite period of time.
 
-> **u/zaxqs** [+1] *
+> **u/zaxqs** [+1]  (a month later)
 > 
 > > The light blinks bright blue milliseconds after before you've even decided.
-> What does this mean?
 > 
+> What does this mean?
 
-> **u/Ms_CIA** [+1]  *Derp**
+> **u/Ms_CIA** [+1]  *Derp* (4 hours later)
 > 
 > Lol, yep I'm officially completely confused. This is pretty amazing, though. Seriously. And all based off a reply to a reddit post, wow.
-> Now if someone in the comments wants to make things slightly less confusing, that would be appreciated. :P Like for example, explaining the 4 models for dummies.
 > 
+> Now if someone in the comments wants to make things slightly less confusing, that would be appreciated. :P Like for example, explaining the 4 models for dummies.
 
->> **u/endlessmoth** [+3] *
+>> **u/endlessmoth** [+3]  (15 hours later)
 >> 
 >> Being the OP, I might not be the in the best position to convey things clearer than I originally did, but a one sentence summation of each would be:
+>> 
 >> - Path Realism: every possibility, no matter how complex, is as likely as any other.
 >> - Local Branch Realism: the universe effectively has save slots, and paradoxes cause it to reload its newest save until things are consistent.
 >> - Weighted Branch Realism: the more paradoxes which could result from a time travel event, the less likely it is.
 >> - Reroll Realism: paradoxes make the universe restart from the beginning, and keep restarting until it's consistent.
->> 
 
->>> **u/Ms_CIA** [+1]  *Derp**
+>>> **u/Ms_CIA** [+1]  *Derp* (22 hours later)
 >>> 
 >>> ~~Thank you. :) Can you explain why in Model B, (blue, red) is so common? If we were trying to prevent paradoxes, it seems it would make more sense to have (red,blue) be more likely (universe refuses to let red,red exist and prevents it).~~
->>> Looks like this got fixed at some point, makes more sense now.
 >>> 
+>>> Looks like this got fixed at some point, makes more sense now.
 
-> **u/Ms_CIA** [+1]  *Derp**
+> **u/Ms_CIA** [+1]  *Derp* (23 hours later)
 > 
 > Can someone explain something to me that I never understood about reroll/many worlds theory? It takes a lot of energy to create a universe and all the creatures within it. Why would the universe completely restart due to a single paradox?
-> It just seems weird that anything on that large of a scale could happen based on one person's actions. Entropy would kick in at some point and just off the person trying to start paradoxes in the first place.
-> Actually, this might explain why time travel doesn't exist, universe is like 'you people can't have nice things.'
 > 
+> It just seems weird that anything on that large of a scale could happen based on one person's actions. Entropy would kick in at some point and just off the person trying to start paradoxes in the first place.
+> 
+> Actually, this might explain why time travel doesn't exist, universe is like 'you people can't have nice things.'
 
->> **u/SevereCircle** [+2] *
+>> **u/SevereCircle** [+2]  (a day later)
 >> 
 >> https://physics.stackexchange.com/questions/41588/many-worlds-where-does-the-energy-come-from
->> 
 
->>> **u/Ms_CIA** [+1]  *Derp**
+>>> **u/Ms_CIA** [+1]  *Derp* (a day later)
 >>> 
 >>> I looked into it a bit, and still not really convinced MWI is remotely plausible. Mostly, because the rules of quantum physics seem to apply to the micro level, but not reliably to the macro level (quantum decoupling), and creating a new universe is as macro as it gets. Plus it sorta seems like people are using the lack of opposing evidence to presume the theory makes sense, rather than having any actual proof this could/does happen.
->>> Still, I guess the point of the article isn't to prove anything, and if you're willing to work within the internal system it's a fun thought experiment. :)
 >>> 
+>>> Still, I guess the point of the article isn't to prove anything, and if you're willing to work within the internal system it's a fun thought experiment. :)
 
->>>> **u/endlessmoth** [+1] *
+>>>> **u/endlessmoth** [+1]  (a day later)
 >>>> 
 >>>> Why would it be macro?
->>>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 31
+* Score: 32
 
 * Created: 2019-10-13T18:34:40
 
@@ -12,291 +12,284 @@
 
 ### Comments:
 
-> **u/nytelios** [+29] *
+> **u/nytelios** [+25]  (9 minutes later)
 > 
 > https://support.wattpad.com/hc/en-us/articles/204471770-Reporting-Copyright-Infringement
+> 
 > Since you're not the owner of the copyrighted work, stick with reporting the story. Also if you're still posting chapters, get your readers to report it on Wattpad as well.
+> 
 > > **How to report Published content if you are not the owner:**
-
+> 
 > > Clicking the report button on the story description page OR when on web clicking the "..." on any story part and clicking "Report Story"
 > >      
 > > After you click report story, you will select that you are reporting copyright. After doing so, you will be brought to a separate reporting form and will be required to provide all links since the DMCA form does not track the story link you reported from.
 > >      
 > > Tip: For the "original source," please include a link to a listing if you are reporting a novel. A link to the Amazon or Goodreads page for the novel is ideal so we can view a free preview and easily investigate.
-> 
 
->> **u/lawmage** [+17] *
+>> **u/lawmage** [+18]  (an hour later)
 >> 
 >> It looks to me that OP is the owner of the copyrighted work.
->> 
 
->>> **u/wizzwizz4** [+9]  *LessWrong (than usual)**
+>>> **u/wizzwizz4** [+9]  *LessWrong (than usual)* (an hour later)
 >>> 
 >>> Merely not the owner of the _trademarks_, nor the _characters_. (I do not understand copyright / trademark / patent law with regards to literature in the slightest.)
->>> 
 
->>>> **u/fubo** [+22] *
+>>>> **u/fubo** [+22]  (an hour later)
 >>>> 
 >>>> You always own the copyright on something you've created.
->>>> (Even if it's a dubiously-legal derivative work, yes! This is why franchise authors studiously avoid reading fanfic.)
 >>>> 
+>>>> (Even if it's a dubiously-legal derivative work, yes! This is why franchise authors studiously avoid reading fanfic.)
 
->>>>> **u/lawmage** [+7] *
+>>>>> **u/lawmage** [+7]  (an hour later)
 >>>>> 
 >>>>> That's a interesting point. I can see a very entertaining lawsuit where a franchise author was sued for copyright violation for infringing on a fanfic of their own work.
->>>>> 
 
->>>>>> **u/fubo** [+11] *
+>>>>>> **u/fubo** [+12]  (an hour later)
 >>>>>> 
 >>>>>> I don't know of a specific case where it actually happened, but it's been a concern with authors engaging with online fanbases since at least JMS and *Babylon 5* in the '90s.
->>>>>> 
 
->>>>>> **u/edwardkmett** [+10] *
+>>>>>> **u/edwardkmett** [+10]  (2 hours later)
 >>>>>> 
 >>>>>> This is why so many authors can’t or won’t read fanfiction of their work, lest they have the same idea and things get murky with priority and ownership.
->>>>>> 
 
->>>>>>> **u/eaglejarl** [+5] *
+>>>>>>> **u/eaglejarl** [+4]  (19 hours later)
 >>>>>>> 
 >>>>>>> Sincere question: How does one prove that they didn't read a fanfic? There have been countless times when I've had an idea that I was sure was original, executed on it, and found out quite a while later that someone else had done it first. Had they accused me of stealing their idea, I'm not sure what defense I could have mounted.
->>>>>>> 
 
->>>>>>>> **u/xland44** [+8] *
+>>>>>>>> **u/xland44** [+8]  (20 hours later)
 >>>>>>>> 
 >>>>>>>> You don't need to prove that you didn't read a fanfic, because you're innocent until proven guilty. The burden of proof is on the person blaming you, which means that they need to provide clear-cut evidence that it was, indeed, taken from their work.
->>>>>>>> 
 
->>>>>>>>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>>>>>>>> **u/JackStargazer** [+1]  *Primordial Apologist* (a month later)
 >>>>>>>>> 
 >>>>>>>>> It's not quite innocent until proven guilty because it is not a crime but a civil case, but you are right that the plaintiff has the burden in most cases.
->>>>>>>>> However, that proof is on a balance of probability, ie. Is it more likely than not? This is not the near certainty required in criminal law.
 >>>>>>>>> 
+>>>>>>>>> However, that proof is on a balance of probability, ie. Is it more likely than not? This is not the near certainty required in criminal law.
 
->>>>>>>> **u/edwardkmett** [+5] *
+>>>>>>>> **u/edwardkmett** [+6]  (a day later)
 >>>>>>>> 
 >>>>>>>> They have the burden of proof as /u/xland44 mentioned, but that becomes way easier to provide when you have some statement from the author that they liked your work.
->>>>>>>> 
 
->>>>>> **u/CronoDAS** [+5] *
+>>>>>> **u/CronoDAS** [+6]  (5 hours later)
 >>>>>> 
 >>>>>> This actually happened.
->>>>>> https://en.m.wikipedia.org/wiki/Anderson_v._Stallone
 >>>>>> 
+>>>>>> https://en.m.wikipedia.org/wiki/Anderson_v._Stallone
 
->>>>> **u/MilesSand** [+2] *
+>>>>> **u/MilesSand** [+2]  (8 hours later)
 >>>>> 
 >>>>> You own the non infringing parts of the derivative work, which is going to be quite difficult convincing a judge that any part of it is original unless you made substantial changes.
+>>>>> 
 >>>>>  For example,  EY's Harry Potter would be partially owned by EY and JKR. JKR owns the parts that match the character she created (history, appearance, name) while EY owns the parts he created (Modifications to history, behavior). Now if another author decides to make an R!Harry, but just copies EY's Harry to make it happen without doing the work to create a unique character, EY would own this other Harry outright, and since Harry is a defining feature of the work, may even own this other story entirely if the unnamed writer fails to make a case for fair use.
+>>>>> 
 >>>>> Here is an example of a case where the author of the original ended up owning the derivative even though the derivative was a whole new story (thanks to ChronoDAS for linking it originally).
 >>>>> https://en.m.wikipedia.org/wiki/Anderson_v._Stallone
->>>>> 
 
->>> **u/nytelios** [+5] *
+>>> **u/nytelios** [+5]  (4 hours later)
 >>> 
 >>> Sorry for being vague: I meant that he/she isn't the owner of the Naruto copyright.
+>>> 
 >>> ~~I don't believe fanfiction authors are entitled to DMCA actions.~~
+>>> 
 >>> Apparently "derivative works" fall under the Copyright Act, but it's still unclear without some lawyering whether derivative work authors are entitled to DMCA action.
+>>> 
 >>> > [**What Copyright Protection is There for Derivative Works?**](https://www.legalzoom.com/articles/what-are-derivative-works-under-copyright-law)
 >>> > 
 >>> > The copyright on a derivative work covers only new material, appearing for the first time in the derivative work; it does not cover any preexisting material from the original. So the character of Superman is not covered by the copyright on the film Superman, since the copyright on that character pre-dated the movie; but any elements new to the film received their copyright from the date of Superman II's creation.  What this means are two things: (1) if you license a work from its author so you can make a derivative work based on the original, you do not obtain the copyright on the original—you gain only the right to make the derivative work agreed upon; the owner retains all rights to the original and all its elements, and (2) the copyright on the original is not extended by the creation of the derivative work. This used to mean more than it does today, since copyrights exist for the life of an author plus 70 years, and if an author makes a derivative of his own work, then his copyright won't change regardless. But what it does mean is that if a second author makes a derivative work of the first author's original, the copyright on the elements of the original is measured by the life of the original's author—not the derivative work's.
 >>> > 
 >>> > With “new versions” of work becoming more commonplace, the lines between a new creation, a derivative work and copied work can be blurred. With all these gray areas, it's important to do your homework before you set out to create and publicize something you believe is completely black and white. The take-away: get a license or get a lawyer.
->>> 
 
-> **u/Argenteus_CG** [+5] *
+> **u/Argenteus_CG** [+4]  (2 hours later)
 > 
 > The disclaimer seems visible enough, it's the first thing people see when they click. You may have the legal right to stop them, but as far as I'm concerned they did nothing wrong, since they credited you clearly. They CERTAINLY didn't "plagiarize" you considering they were very clearly not intending to pass it off as their own work and stated that their intention was to share a story they enjoyed in a way others would find more convenient.
-> Like I said though, you are unfortunately legally in the right, since the law does not agree with me that the creator should have no right to limit how people use their work so long as it is properly credited as theirs (things become slightly more complicated morally when money is involved, since we're unfortunately in a capitalist economy where it's necessary to make a profit to survive, but in this case there isn't any money involved anyway). But I certainly don't see how you can pretend to hold the moral high ground when your own work builds off of others copyright, and I doubt you sought permission from the original authors any more than this so-called plagiarizer did.
 > 
+> Like I said though, you are unfortunately legally in the right, since the law does not agree with me that the creator should have no right to limit how people use their work so long as it is properly credited as theirs (things become slightly more complicated morally when money is involved, since we're unfortunately in a capitalist economy where it's necessary to make a profit to survive, but in this case there isn't any money involved anyway). But I certainly don't see how you can pretend to hold the moral high ground when your own work builds off of others copyright, and I doubt you sought permission from the original authors any more than this so-called plagiarizer did.
 
->> **u/None** [+15] *
+>> **u/None** [+15]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Argenteus_CG** [+4] *
+>>> **u/Argenteus_CG** [+3]  (3 hours later)
 >>> 
 >>> >The analogy isn't me writing a fanfic, but me copy and pasting the words of Harry Potter exactly and then saying "credits to JK Rowling!"
+>>> 
 >>> Another thing I think there'd be nothing wrong with (again, a little more complicated when money is involved, but Harry Potter was written long enough ago now that if our copyright lengths were reasonable it would be public domain anyway).
->>> 
 
->>> **u/masterax2000** [-6]  *Chaos Legion**
+>>> **u/masterax2000** [-6]  *Chaos Legion* (3 hours later)
 >>> 
 >>> >The analogy isn't me writing a fanfic, but me copy and pasting the words of Harry Potter exactly and then saying "credits to JK Rowling!"
->>> JK Rowling sells her books, you've posted your online for free. As far as I can tell, the only thing that someone mirroring your story can do, in this case, is good. Heck, I don't think that you even could hypothetically make money off of it, considering that it's a fanfiction, and it might therefore be illegal to do so, though I'm not *totally* sure about that. 
->>> >But this person just copy pasted directly. Which I think I have a right to be annoyed about. Even if they put the disclaimer, lots of people skip over that. If you look at the conversations on their author profile, it's clear that readers have mistaken this for an original work. 
->>> Oh shit, somebody else is getting credit for something they didn't do! The HORROR! Even though they explicitly said they didn't make it, and realistically speaking it probably is drawing more attention to your original upload, there's a chance that people might not understand! 
->>> My. What a vile crime indeed.
->>> >I didn't pour hours of my life into this thing just so someone else could post it under their name.
->>> Why not? How does this negatively impact you in any way?
 >>> 
+>>> JK Rowling sells her books, you've posted your online for free. As far as I can tell, the only thing that someone mirroring your story can do, in this case, is good. Heck, I don't think that you even could hypothetically make money off of it, considering that it's a fanfiction, and it might therefore be illegal to do so, though I'm not *totally* sure about that. 
+>>> 
+>>> >But this person just copy pasted directly. Which I think I have a right to be annoyed about. Even if they put the disclaimer, lots of people skip over that. If you look at the conversations on their author profile, it's clear that readers have mistaken this for an original work. 
+>>> 
+>>> Oh shit, somebody else is getting credit for something they didn't do! The HORROR! Even though they explicitly said they didn't make it, and realistically speaking it probably is drawing more attention to your original upload, there's a chance that people might not understand! 
+>>> 
+>>> My. What a vile crime indeed.
+>>> 
+>>> >I didn't pour hours of my life into this thing just so someone else could post it under their name.
+>>> 
+>>> Why not? How does this negatively impact you in any way?
 
->>>> **u/None** [+12] *
+>>>> **u/None** [+13]  (4 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/masterax2000** [+6]  *Chaos Legion**
+>>>>> **u/masterax2000** [+6]  *Chaos Legion* (5 hours later)
 >>>>> 
 >>>>> Alright, admittedly, I was overly harsh. I apologize for my tone. 
->>>>> With that said, my point wasn't that you were stupid for caring about "worthless internet points", I totally get that! Recognition for your work always feels good, and is probably the main reason that most people create art in the first place.
->>>>> My point, rather, was that a mirror of your story isn't going to reduce that! Like, I just don't get how someone putting your story up somewhere else would *lower* the traffic to the original.
->>>>> EDIT: Additionally, as an explanation for the aggressiveness of my tone, I suppose it was probably because I felt defensive of the mirrorer. You're accusing them of wrongdoing, when I can't see how they actually did anything bad. I was, in my own eyes, responding to aggression with aggression. In retrospect that was silly of me. Sorry again.
 >>>>> 
+>>>>> With that said, my point wasn't that you were stupid for caring about "worthless internet points", I totally get that! Recognition for your work always feels good, and is probably the main reason that most people create art in the first place.
+>>>>> 
+>>>>> My point, rather, was that a mirror of your story isn't going to reduce that! Like, I just don't get how someone putting your story up somewhere else would *lower* the traffic to the original.
+>>>>> 
+>>>>> EDIT: Additionally, as an explanation for the aggressiveness of my tone, I suppose it was probably because I felt defensive of the mirrorer. You're accusing them of wrongdoing, when I can't see how they actually did anything bad. I was, in my own eyes, responding to aggression with aggression. In retrospect that was silly of me. Sorry again.
 
->>>> **u/MilesSand** [+4] *
+>>>> **u/MilesSand** [+2]  (8 hours later)
 >>>> 
 >>>> 1. It doesn't matter that op is posting it for free. They may decide to take down the free bits and charge for it in the future. As author it's  their right to do so (assuming  they work out the details with other copyright owners who might have a stake) the thief who mirrored the story is illegally taking the author's ability to do so away.
->>>> 2. Assigning credit to the owner of a copyright doesn't make it ok to then copy wholesale. In fact the only place it's appropriate is academic papers where one person builds on another's  discoveries (or if the academic field is literature, the one person adds original commentary). Why you're defending such an act with melodramatic  BS is unclear.
->>>> 3. Besides the points in part 1, if the owner of the characters used decides to make op take the work down, op is unable to do it and the thief is implying that they have permission  by giving credit and then posting the work as if they have permission. This can cause all sorts of trouble for op.
 >>>> 
+>>>> 2. Assigning credit to the owner of a copyright doesn't make it ok to then copy wholesale. In fact the only place it's appropriate is academic papers where one person builds on another's  discoveries (or if the academic field is literature, the one person adds original commentary). Why you're defending such an act with melodramatic  BS is unclear.
+>>>> 
+>>>> 3. Besides the points in part 1, if the owner of the characters used decides to make op take the work down, op is unable to do it and the thief is implying that they have permission  by giving credit and then posting the work as if they have permission. This can cause all sorts of trouble for op.
 
->>>>> **u/masterax2000** [+1]  *Chaos Legion**
+>>>>> **u/masterax2000** [+1]  *Chaos Legion* (9 hours later)
 >>>>> 
 >>>>> ...I think you may have misunderstood my intentions. 
->>>>> I'm not trying to say that the law isn't on OP's side. And if they do indeed intend to work with the copyright holders and charge for it, then this all makes sense. 
->>>>> But it seems based off of what they've said so far, that this isn't the case. As such I'm trying to convince them, by appealing to their morals, that letting the story be mirrored would be the logical and most beneficial thing to do. 
->>>>> Also, I kind of doubt your third point. In what way did the reuploader imply that they have permission? By giving credit? Personally, I would never have considered that to be a way of stating permission, and I don't really see why you do.
 >>>>> 
+>>>>> I'm not trying to say that the law isn't on OP's side. And if they do indeed intend to work with the copyright holders and charge for it, then this all makes sense. 
+>>>>> 
+>>>>> But it seems based off of what they've said so far, that this isn't the case. As such I'm trying to convince them, by appealing to their morals, that letting the story be mirrored would be the logical and most beneficial thing to do. 
+>>>>> 
+>>>>> Also, I kind of doubt your third point. In what way did the reuploader imply that they have permission? By giving credit? Personally, I would never have considered that to be a way of stating permission, and I don't really see why you do.
 
->> **u/aponty** [+2] *
+>> **u/aponty** [+2]  (8 days later)
 >> 
 >> As a creator (and even as a socialist), I can't help but see this as the asshole take on the issue.
->> 
 
->>> **u/Argenteus_CG** [+0] *
+>>> **u/Argenteus_CG** [+0]  (8 days later)
 >>> 
 >>> How so? As far as I'm concerned, the "asshole take" is to try to control if and how people get to experience art, even your own art.
->>> 
 
->>>> **u/aponty** [+1] *
+>>>> **u/aponty** [+1]  (8 days later)
 >>>> 
 >>>> I take it you haven't experienced people claiming your work as their own, or had shitty profiteering meme-sites appropriate it as advertisement for themselves (not that this is exactly the same, but since it was without permission, it is related). It doesn't feel nice.
->>>> Artists don't have any obligation to the world; they should be able to share their work on their own terms -- especially if you think of art as a social action. Try replacing "art", "story", and "work" with "sex" in your original post for a slightly exaggerated take on how I feel about this.
 >>>> 
+>>>> Artists don't have any obligation to the world; they should be able to share their work on their own terms -- especially if you think of art as a social action. Try replacing "art", "story", and "work" with "sex" in your original post for a slightly exaggerated take on how I feel about this.
 
->>>>> **u/Argenteus_CG** [+1] *
+>>>>> **u/Argenteus_CG** [+1]  (8 days later)
 >>>>> 
 >>>>> It's completely ridiculous to compare what someone does with information already released to the world with violating bodily autonomy. If I remix a song you wrote or something without your permission, I haven't harmed you in any way.
->>>>> 
 
->>>>>> **u/aponty** [+1] *
+>>>>>> **u/aponty** [+1]  (9 days later)
 >>>>>> 
 >>>>>> I did say I was exaggerating. Just sayin' don't be an asshole m8
->>>>>> It's equally ridiculous to compare remixes (which add value, like a response in a conversation) to simply reposting and copying wholesale others' art without permission (which adds no value and is kind of a dick move)
->>>>>> basically my issue is that you're opposing the idea that we should let artists engage with their audience themselves,and instead advocating that we should view it all as mere content consumption and let content aggregators accumulate all the engagement
->>>>>> I hope that the irony that arises when you pair this with an opposition to capitalism isn't lost on you;       the reposter here is playing the role of a corporation, an exploitative barrier between the artist and the effects of their work, without consent
 >>>>>> 
+>>>>>> It's equally ridiculous to compare remixes (which add value, like a response in a conversation) to simply reposting and copying wholesale others' art without permission (which adds no value and is kind of a dick move)
+>>>>>> 
+>>>>>> basically my issue is that you're opposing the idea that we should let artists engage with their audience themselves,and instead advocating that we should view it all as mere content consumption and let content aggregators accumulate all the engagement
+>>>>>> 
+>>>>>> I hope that the irony that arises when you pair this with an opposition to capitalism isn't lost on you;       the reposter here is playing the role of a corporation, an exploitative barrier between the artist and the effects of their work, without consent
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 hours later)
 > 
 > Under what licence are you publishing on FF.net? I don't see this mentioned anywhere.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/lawmage** [+6] *
+>>> **u/lawmage** [+6]  (4 hours later)
 >>> 
 >>> There actually are TOS for fanfiction.net which the reposter is in clear violation of:
->>>  General Use of the Service
->>> FanFiction.Net hereby grants you permission to access and use the Service as set forth in these Terms of Service, provided that:
->>> A. You agree not to distribute in any medium any part of the Service, including but not limited to User Submissions (defined below), without FanFiction.Net's prior written authorization.
->>> Edit: Plus a license is a grant of permissions/restrictions. Lack of license effectively means "no permissions"* (I'm highly simplifying here, there are of course fair use exceptions, right of first sale, etc.)
 >>> 
+>>>  General Use of the Service
+>>> 
+>>> FanFiction.Net hereby grants you permission to access and use the Service as set forth in these Terms of Service, provided that:
+>>> 
+>>> A. You agree not to distribute in any medium any part of the Service, including but not limited to User Submissions (defined below), without FanFiction.Net's prior written authorization.
+>>> 
+>>> Edit: Plus a license is a grant of permissions/restrictions. Lack of license effectively means "no permissions"* (I'm highly simplifying here, there are of course fair use exceptions, right of first sale, etc.)
 
-> **u/VorpalAuroch** [-2]  *Life before Death**
+> **u/VorpalAuroch** [-3]  *Life before Death* (an hour later)
 > 
 > Have you considered moving your story to a platform less terrible for readers than FF.net, like Ao3? FF.net is for masochists only.
-> If you insist on only posting it on FF.net, please leave the Wattpad mirror up so that people who don't mind a wait can read it in comfort.
 > 
+> If you insist on only posting it on FF.net, please leave the Wattpad mirror up so that people who don't mind a wait can read it in comfort.
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/VorpalAuroch** [-2]  *Life before Death**
+>>> **u/VorpalAuroch** [-1]  *Life before Death* (6 hours later)
 >>> 
 >>> They put your name on it. I don't see why you think you have a right to complain.
->>> 
 
->>> **u/Argenteus_CG** [-6] *
+>>> **u/Argenteus_CG** [-5]  (4 hours later)
 >>> 
 >>> >Even if it's credited, I don't like it -- I poured hours and years of my life into this thing without payment.
->>> If that's a problem for you, why are you writing fanfiction? You're not getting payment no matter what. Literally nobody's life was made worse by it being reuploaded elsewhere, yours included considering you weren't making money off of it anyway and you were credited.
 >>> 
+>>> If that's a problem for you, why are you writing fanfiction? You're not getting payment no matter what. Literally nobody's life was made worse by it being reuploaded elsewhere, yours included considering you weren't making money off of it anyway and you were credited.
 
->>>> **u/None** [+7] *
+>>>> **u/None** [+8]  (4 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Argenteus_CG** [+1] *
+>>>>> **u/Argenteus_CG** [+1]  (5 hours later)
 >>>>> 
 >>>>> I do understand. My main disagreement is just with the idea that you have any right to control over your work (and thus that there IS any obligation to ask you) once you've put it out there, aside from requiring that you be credited. In truth, the only reason I'm not against ALL intellectual property is because we unfortunately still live under capitalism where you need to make a profit to live and be happy; if that weren't a factor, I don't honestly believe that you'd have any right to control over your intellectual labor so long as you were credited for it. And we've established that that's not relevant here.
->>>>> I do get your frustration that maybe the credit isn't effective enough, but I'm not sure that a few people missing the disclaimer is a huge enough issue to outweigh the advantages of people being free to rehost works of fiction. In the long run, it's beneficial to the survival of your work as well. FF.net won't last forever. But if people are free to rehost, it can keep being spread around indefinitely.
 >>>>> 
+>>>>> I do get your frustration that maybe the credit isn't effective enough, but I'm not sure that a few people missing the disclaimer is a huge enough issue to outweigh the advantages of people being free to rehost works of fiction. In the long run, it's beneficial to the survival of your work as well. FF.net won't last forever. But if people are free to rehost, it can keep being spread around indefinitely.
 
->>>>>> **u/None** [+7] *
+>>>>>> **u/None** [+7]  (5 hours later)
 >>>>>> 
 >>>>>> [deleted]
->>>>>> 
 
->>>>>>> **u/Argenteus_CG** [+5] *
+>>>>>>> **u/Argenteus_CG** [+3]  (5 hours later)
 >>>>>>> 
 >>>>>>> > I don't know if you've ever worked on a 300k-word thing for 4 years. 
->>>>>>> Well, that's a pretty specific requirement. I've made art of various kinds (mostly music), which I do allow others to reuse, rehost, etc. as long as I'm credited. But I'm not really a writer, so no "300k-word thing"s, and I've admittedly not worked on one project consistently for 4 years.
->>>>>>> I'm not trying to be rude. You do seem to be much more reasonable about it than most people (some people somehow don't get that it's unreasonable to say people can't make fanworks of their own fanworks, etc.). But here's another angle to look at: It is not AT ALL unheard of for fanfic authors to mysteriously one day decide to take down their fanfic, even in-progress like yours. If that happens, the survival of the art relies on others having rehosted it. You may think that you personally would never do that, and you may even be right, but none of the rest of us know that. Rehosting is vital for the preservation of all forms of art.
 >>>>>>> 
+>>>>>>> Well, that's a pretty specific requirement. I've made art of various kinds (mostly music), which I do allow others to reuse, rehost, etc. as long as I'm credited. But I'm not really a writer, so no "300k-word thing"s, and I've admittedly not worked on one project consistently for 4 years.
+>>>>>>> 
+>>>>>>> I'm not trying to be rude. You do seem to be much more reasonable about it than most people (some people somehow don't get that it's unreasonable to say people can't make fanworks of their own fanworks, etc.). But here's another angle to look at: It is not AT ALL unheard of for fanfic authors to mysteriously one day decide to take down their fanfic, even in-progress like yours. If that happens, the survival of the art relies on others having rehosted it. You may think that you personally would never do that, and you may even be right, but none of the rest of us know that. Rehosting is vital for the preservation of all forms of art.
 
->>>>>>> **u/nytelios** [+3] *
+>>>>>>> **u/nytelios** [+3]  (5 hours later)
 >>>>>>> 
 >>>>>>> You're already expending effort dealing with unauthorized reposting; don't worry about having to argue and defend your stance on intellectual property.
->>>>>>> Even though I have a pro-piracy attitude towards letting information be free as long as it's not destroying livelihoods or out of selfish intentions, you're absolutely entitled to use the system (that's there for a reason) to protect your hard work.
 >>>>>>> 
+>>>>>>> Even though I have a pro-piracy attitude towards letting information be free as long as it's not destroying livelihoods or out of selfish intentions, you're absolutely entitled to use the system (that's there for a reason) to protect your hard work.
 
->>>>>> **u/Gurkenglas** [+1] *
+>>>>>> **u/Gurkenglas** [+1]  (15 hours later)
 >>>>>> 
 >>>>>> By what principles/reasoning do you prefer "no rights except credit" over "no rights"?
->>>>>> 
 
->>>>>>> **u/Argenteus_CG** [+2] *
+>>>>>>> **u/Argenteus_CG** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Having your work appreciated seems to me to be a pretty fundamental drive for humans. I don't have a good justification for it from a philosophical perspective at the moment, but practically at least it seems to me that people would be far less willing to engage in intellectual labor if there were no assurance at all that it would be known that the work was theirs, to the point where I suspect the natural human desire to contribute would be insufficient.
->>>>>>> 
 
->>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>>> **u/Gurkenglas** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> People are different. There are some people that would start engaging in intellectual labor for ensured credit, and further people that would start for each modicum of control over their work that you give them. Like other moral parameters, the "right" cutoff depends on the moral framework and is not guranteed to result from our idea marketplace.
->>>>>>>> 
 
->> **u/SamuraiMackay** [+4] *
+>> **u/SamuraiMackay** [+4]  (2 hours later)
 >> 
 >> Its not a mirror if its stolen
->> 
 
->>> **u/VorpalAuroch** [+10]  *Life before Death**
+>>> **u/VorpalAuroch** [+12]  *Life before Death* (3 hours later)
 >>> 
 >>> It's not stolen. It's credited and unedited. It's a mirror.
->>> 
 
->>>> **u/SamuraiMackay** [+4] *
+>>>> **u/SamuraiMackay** [+5]  (3 hours later)
 >>>> 
 >>>> Well you can take that argument up with the author. Whats wrong with FF.net? I would have said its much nicer looking and easier to use than wattpad
->>>> 
 
->>>>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>>>> **u/VorpalAuroch** [+3]  *Life before Death* (6 hours later)
 >>>>> 
 >>>>> You can't view more than one chapter on a page. You can't select text. They've made it as hard as possible to do format conversion. Wattpad isn't great, which is why I recommended Ao3, but FF.net hates its users and wants them to suffer.
->>>>> 
 
->>>>>> **u/SamuraiMackay** [+1] *
+>>>>>> **u/SamuraiMackay** [+1]  (13 hours later)
 >>>>>> 
 >>>>>> Yeah Ao3 is definitely the best of the three
->>>>>> 
 
 ---
 

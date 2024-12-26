@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/DaystarEld** [+3]  *Pokémon Professor**
+> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 > 
 > Great addition to the character list. Once again you show how fantastically you can adapt the characters to this new world of yours :)
-> 
 
 ---
 

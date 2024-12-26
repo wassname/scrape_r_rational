@@ -15,15 +15,13 @@
 
 ### Comments:
 
-> **u/None** [+2] *
+> **u/None** [+2]  (11 hours later)
 > 
 > Anyone know how long this university entrance stuff is going to last?
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+5]  (11 hours later)
 >> 
 >> I think Drazelic said it starts really departing from the tropes at around 100 chapters in.
->> 
 
 ---
 

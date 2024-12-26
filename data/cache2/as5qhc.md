@@ -32,17 +32,17 @@ So that's how Jornak might have been able to enter the time loop. Kind of compli
 
 ### Comments:
 
-> **u/alexanderwales** [+19]  *Time flies like an arrow**
+> **u/alexanderwales** [+18]  *Time flies like an arrow* (50 minutes later)
 > 
 > Please don't spam this subreddit with multiple posts about MoL when you already have a new post on the main page of the subreddit, and the chapter discussion is barely a day old. Some discussion of MoL is fine, but this isn't the Mother of Learning subreddit.
-> 
 
-> **u/TotesMessenger** [+0] *
+> **u/TotesMessenger** [+0]  (12 minutes later)
 > 
 > I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
-> - [/r/motheroflearning] [\[Spoilers MoL Chapter 96\] How he might have done it](https://www.reddit.com/r/motheroflearning/comments/as5tmm/spoilers_mol_chapter_96_how_he_might_have_done_it/)
-> &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
 > 
+> - [/r/motheroflearning] [\[Spoilers MoL Chapter 96\] How he might have done it](https://www.reddit.com/r/motheroflearning/comments/as5tmm/spoilers_mol_chapter_96_how_he_might_have_done_it/)
+> 
+> &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
 
 ---
 

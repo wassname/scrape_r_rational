@@ -14,15 +14,13 @@ I just stumbled upon [Jade City](https://www.goodreads.com/book/show/43587154-ja
 
 ### Comments:
 
-> **u/cysghost** [+2]  *Chaos Legion**
+> **u/cysghost** [+3]  *Chaos Legion* (18 hours later)
 > 
 > Haven’t yet, but it just got put on the list to read. Which means if I get through 2 books a day, I might finish that book by 2030 sometime.
-> 
 
-> **u/Judah77** [+1] *
+> **u/Judah77** [+1]  (2 days later)
 > 
 > I read the reviews and it follows multiple perspective characters.  Also heard the worldbuilding is more about intercene magic mafia conflicts when outside of the Jade City isles there are real monsters that prey on humanity.  Therefore it didn't sound like I'd be interested in it, since it glorifies the crime life and not the rational future of the humanity.  Could be wrong, read about 15 reviews before not putting it on my own list.
-> 
 
 ---
 

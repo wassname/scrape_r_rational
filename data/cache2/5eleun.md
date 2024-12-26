@@ -2,7 +2,7 @@
 
 * Author: u/BlueSigil *
 * URL: https://practicalguidetoevil.wordpress.com/2016/11/23/chapter-45-corpses/
-* Score: 17
+* Score: 16
 
 * Created: 2016-11-24T02:40:48
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/BlueSigil** [+5] *
+> **u/BlueSigil** [+5]  (2 minutes later)
 > 
 > The author didn't think last chapter's cliffhanger was big enough, so they demolished it and replaced it with another cliffhanger.
-> 
 
->> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (2 hours later)
 >> 
 >> But they did at least solve the immediately preceding cliffhanger.
->> 
 
->>> **u/Keyoak** [+1] *
+>>> **u/Keyoak** [+1]  (3 days later)
 >>> 
 >>> Weekly cliffhangers are the standard with this story
->>> 
 
 ---
 

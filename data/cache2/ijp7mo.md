@@ -2,7 +2,7 @@
 
 * Author: u/General__Obvious *
 * URL: https://www.reddit.com/r/rational/comments/ijp7mo/oc_rationality_of_the_jedi/
-* Score: 87
+* Score: 89
 
 * Created: 2020-08-31T01:51:36
 
@@ -232,311 +232,298 @@ Unbeknownst to the Republic, Darth Sidious had declared the New Order in what ha
 
 ### Comments:
 
-> **u/DeepTundra** [+55]  *Lawful Stupid Godboxer**
+> **u/DeepTundra** [+60]  *Lawful Stupid Godboxer* (4 hours later)
 > 
 > This is good as a “if they did everything definitively right” ratfic, with the weight of it resting on the punch at the end of them still losing because everybody in the situation gets to act rationally, and Sidious is in a very advantageous material position. 
-> That said, the way Mace Windu perfectly navigates around the pitfall of Order 66 makes it feel almost more like a Peggy Sue fixfic than a ratfic. IMO a central pillar of ratfic is that characters doing their best are capable of being wrong for a variety of reasons, usually including bad prioritization, limited information, and personal blind spots. But Mace here lasers in on the one problem we, the readers, know to be central, but that he probably wouldn’t focus on to such an extent without that privileged knowledge. Maybe I’m the only one getting that feeling?
-> It might just be the prequels not being rational causing this problem, because of course if Mace Windu is competent enough to adroitly avoid his final mistakes in the series, all of the earlier ones he made suddenly require more explanation than “the Jedi are a failing and corrupt institution blinded by dogma.”
 > 
+> That said, the way Mace Windu perfectly navigates around the pitfall of Order 66 makes it feel almost more like a Peggy Sue fixfic than a ratfic. IMO a central pillar of ratfic is that characters doing their best are capable of being wrong for a variety of reasons, usually including bad prioritization, limited information, and personal blind spots. But Mace here lasers in on the one problem we, the readers, know to be central, but that he probably wouldn’t focus on to such an extent without that privileged knowledge. Maybe I’m the only one getting that feeling?
+> 
+> It might just be the prequels not being rational causing this problem, because of course if Mace Windu is competent enough to adroitly avoid his final mistakes in the series, all of the earlier ones he made suddenly require more explanation than “the Jedi are a failing and corrupt institution blinded by dogma.”
 
->> **u/General__Obvious** [+20] *
+>> **u/General__Obvious** [+20]  (11 hours later)
 >> 
 >> I certainly considered this idea while writing the story, but ultimately I didn’t want to have to reimagine the entire prequel trilogy up to this point. Such are the pitfalls of starting in an irrational setting. I also tried to retcon in the idea that Mace Windu was always suspicious of the clones, and especially of Order 66, but used them anyway because the Republic fell into civil war and having an only sort-of trustworthy army RFN was better than having a fully trustworthy army even a year hence.
->> 
 
->>> **u/The_Magus_199** [+10]  *Ankh-Morpork City Watch**
+>>> **u/The_Magus_199** [+9]  *Ankh-Morpork City Watch* (12 hours later)
 >>> 
 >>> Could be a point of divergence from that one Clone Wars episode where a clone found out about order 66 and *almost* managed to warn the Jedi?
->>> 
 
->>>> **u/General__Obvious** [+5] *
+>>>> **u/General__Obvious** [+5]  (16 hours later)
 >>>> 
 >>>> That’s a good idea, and you are encouraged to draw what conclusions you will. Quite frankly, I have not considered the *specific* point of departure; as far as I am concerned, this fic takes place in a world very similar, but not identical, to the established Star Wars universe. Imagine its relationship to canon as similar to that of Harry Potter and the Methods of Rationality - the setting is recognizable, but the story may depart drastically from it in order to tell a more compelling story.
->>>> 
 
->>> **u/MilesSand** [+6] *
+>>> **u/MilesSand** [+7]  (a day later)
 >>> 
 >>> >but ultimately I didn’t want to have to reimagine the entire prequel trilogy up to this point.
->>> That's a pitfall of rational writing.  If you want to do it right, you end up with a long story because all the ducks need to be lined up.    the good news is that it only sucks for the writer.   It's great for the readers. 🙃🙃🙃
 >>> 
+>>> That's a pitfall of rational writing.  If you want to do it right, you end up with a long story because all the ducks need to be lined up.    the good news is that it only sucks for the writer.   It's great for the readers. 🙃🙃🙃
 
->> **u/VorpalAuroch** [+9]  *Life before Death**
+>> **u/VorpalAuroch** [+9]  *Life before Death* (15 hours later)
 >> 
 >> > That said, the way Mace Windu perfectly navigates around the pitfall of Order 66 makes it feel almost more like a Peggy Sue fixfic than a ratfic. 
->> I thought it was believable because it comes with knowledge of Order 65 and presumably the other 64+ General Orders. It wasn't considered *significant* previously, because they have special orders for a number of other implausible contingencies such as the Chancellor being a traitor.
 >> 
+>> I thought it was believable because it comes with knowledge of Order 65 and presumably the other 64+ General Orders. It wasn't considered *significant* previously, because they have special orders for a number of other implausible contingencies such as the Chancellor being a traitor.
 
->>> **u/Radix2309** [+10] *
+>>> **u/Radix2309** [+9]  (20 hours later)
 >>> 
 >>> There are 150 general orders. Some mentioned include catching a fugative through mass imprisonment and threat of civilian execution. Another is in the case of the galactic banks becoming compromised.
->>> It was a perfect trap because it was among over a hundred similar contingencies that obviously should exist. It is exactly for if rogue Jedi attempt to stage a coup.
 >>> 
+>>> It was a perfect trap because it was among over a hundred similar contingencies that obviously should exist. It is exactly for if rogue Jedi attempt to stage a coup.
 
->>>> **u/VorpalAuroch** [+2]  *Life before Death**
+>>>> **u/VorpalAuroch** [+2]  *Life before Death* (21 hours later)
 >>>> 
 >>>> [So there are](https://starwars.fandom.com/wiki/Contingency_Orders_for_the_Grand_Army_of_the_Republic:_Order_Initiation,_Orders_1_Through_150). Interesting reading.
->>>> 
 
->> **u/Radix2309** [+4] *
+>> **u/Radix2309** [+3]  (20 hours later)
 >> 
 >> Mace seems to jabe thoroughly checked out the Clones. The 150 orders arent a secret so a rational Mace would have noticed them and prepared for that contingency. 
->> It is especially notable because Order 66 can only be triggered by the Supreme Chancellor. Given that Palpatine is a Sith Lord obviously working against the Jedi who is Supreme Chancellor, Order 66 would completely cripple the Jedi and it would be reasonable to expect him to use it.
->> If I was preparing in case of an improper use of Order 66, I would already plan to shut down communications to prevent the order being received. There isnt another real counter to it aside from Order 65 which was also done.
 >> 
+>> It is especially notable because Order 66 can only be triggered by the Supreme Chancellor. Given that Palpatine is a Sith Lord obviously working against the Jedi who is Supreme Chancellor, Order 66 would completely cripple the Jedi and it would be reasonable to expect him to use it.
+>> 
+>> If I was preparing in case of an improper use of Order 66, I would already plan to shut down communications to prevent the order being received. There isnt another real counter to it aside from Order 65 which was also done.
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (17 hours later)
 >> 
 >> I agree completely with your assessment. This reads like someone watched the movie and woke up as Mace, and also everything went perfectly until the end.
->> If the Chancellor is as well prepared as he says throughout then why does he expect the his order to work with such confidence? It can't ever have been tested.
 >> 
+>> If the Chancellor is as well prepared as he says throughout then why does he expect the his order to work with such confidence? It can't ever have been tested.
 
->>> **u/Trustworth** [+3] *
+>>> **u/Trustworth** [+3]  (5 days later)
 >>> 
 >>> > why does he expect the his order to work with such confidence? It can't ever have been tested.
->>> See: Order 99.
->>> It was a stupid test, but within Star Wars Logic it was tested.
 >>> 
+>>> See: Order 99.
+>>> 
+>>> It was a stupid test, but within Star Wars Logic it was tested.
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (a day later)
 >> 
 >> I also thought it odd that he ordered communication equipment destroyed.   Like, who would promote someone that's willing to destroy expensive equipment on a hunch? Turning it off is plenty.
->> 
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> I think this is more of a problem of *us* as readers. Someone in Mace Windu's position - a political, not just military and religious one - would be well versed in these things. Imagine a high ranking general of the US armed forces; don't you think they would know all the ins and outs of when and how it would be legal for someone to order him to apprehend the President?
->> 
 
-> **u/PeridexisErrant** [+23]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+24]  *put aside fear for courage, and death for life* (5 hours later)
 > 
 > [*Remedial Jedi Theology*](https://archiveofourown.org/works/15118700) is also pretty good, and unusually rational for the setting.
-> 
 
->> **u/JackStargazer** [+3]  *Primordial Apologist**
+>> **u/JackStargazer** [+4]  *Primordial Apologist* (17 hours later)
 >> 
 >> Just read this. Great read, I'll second the recommendation
->> 
 
->> **u/kurtofconspiracy** [+3] *
+>> **u/kurtofconspiracy** [+3]  (18 hours later)
 >> 
 >> Thanks for linking this. It was delightful.
->> 
 
-> **u/LordSwedish** [+21]  *Q Continuum**
+> **u/LordSwedish** [+22]  *Q Continuum* (6 hours later)
 > 
 > The worst part is in "the Clone Wars" where they finally have all the puzzle pieces and yet do nothing. They know the entire Clone Army is based on the personal bodyguard/hitman of Dooku who knows the location of the separatist secret base in the second movie. That alone is suspicious as all hell. 
-> in the show they then figure out that Dooku is also the sith, Darth Tyranus, and that he worked with Sifo-Dyas, the man who commissioned the army. Once you have all these pieces, it becomes directly obvious that the sith are controlling both sides of the war. The Jedi, even after acknowledging that Dooku may well just be the apprentice, decide to do nothing at all about this.
 > 
+> in the show they then figure out that Dooku is also the sith, Darth Tyranus, and that he worked with Sifo-Dyas, the man who commissioned the army. Once you have all these pieces, it becomes directly obvious that the sith are controlling both sides of the war. The Jedi, even after acknowledging that Dooku may well just be the apprentice, decide to do nothing at all about this.
 
->> **u/Radix2309** [+3] *
+>> **u/Radix2309** [+3]  (20 hours later)
 >> 
 >> They know a Sith was manipulating both sides to cause war, but for what cause specifically? 
->> According to the novelization of episode 3, Mace suspected Mas Amedda, the speaker of the Senate, of being the other sith lord. Even with that he doesn't have the control that Palpatine had.  And without Order 66, it is unclear what the endgame is.
->> An alternate theory can be that the Sith are undermining the Republic for the separatists backed by the Sith to win akin to the old Sith empires.
->> Even knowing the Sith are causing it, what are they to do? They cant just stop fighting.
 >> 
+>> According to the novelization of episode 3, Mace suspected Mas Amedda, the speaker of the Senate, of being the other sith lord. Even with that he doesn't have the control that Palpatine had.  And without Order 66, it is unclear what the endgame is.
+>> 
+>> An alternate theory can be that the Sith are undermining the Republic for the separatists backed by the Sith to win akin to the old Sith empires.
+>> 
+>> Even knowing the Sith are causing it, what are they to do? They cant just stop fighting.
 
->>> **u/LordSwedish** [+7]  *Q Continuum**
+>>> **u/LordSwedish** [+7]  *Q Continuum* (20 hours later)
 >>> 
 >>> I mean, they know their enemy created the army they're relying on, Shaak Ti and Anakin should both know about the brain chips if their brains didn't fall out of their ears in the beginning of season 6, and Palpatine directly lies to Padmé multiple times to get her ambushed or captured and she knows that they were lies. Aside from Dooku giving the entire game away in episode II before the noir mystery movie becomes a gladiator/war movie for no reason, there are a ludicrous amount of hints around that the entire war is built on a sham and that Palpatine is deeply involved.  
->>> My personal headcanon of the entire Star Wars saga is that Palpatine had this really careful plan in episode 1 but then everything went to shit and yet he managed to get ahead even faster than planned. He starts doing dumber and dumber plans, giving him more and more outrageous victories. Finally he gets the Empire despite his own sabotage, causing his mind to snap. After years of rule he has toned down the crazy plans and gotten more serious, which proves to be his downfall. He rebuilds in secret and makes the dumbest plan possible now that he has proof that those always work, what he doesn't know is that this ability is genetic and he dies to Rey.
 >>> 
+>>> My personal headcanon of the entire Star Wars saga is that Palpatine had this really careful plan in episode 1 but then everything went to shit and yet he managed to get ahead even faster than planned. He starts doing dumber and dumber plans, giving him more and more outrageous victories. Finally he gets the Empire despite his own sabotage, causing his mind to snap. After years of rule he has toned down the crazy plans and gotten more serious, which proves to be his downfall. He rebuilds in secret and makes the dumbest plan possible now that he has proof that those always work, what he doesn't know is that this ability is genetic and he dies to Rey.
 
->>>> **u/General__Obvious** [+4] *
+>>>> **u/General__Obvious** [+4]  (22 hours later)
 >>>> 
 >>>> >He starts doing dumber and dumber plans, giving him more and more outrageous victories.
->>>> [Remind you of anyone?](https://imgur.com/a/fbRHYTF)
 >>>> 
+>>>> [Remind you of anyone?](https://imgur.com/a/fbRHYTF)
 
->>>>> **u/LordSwedish** [+3]  *Q Continuum**
+>>>>> **u/LordSwedish** [+4]  *Q Continuum* (22 hours later)
 >>>>> 
 >>>>> Well they are both ludicrously evil and stupid villains whose plans make little sense. It isn't surprising that they work a lot better if they're intentionally trying to make their plans bad.
->>>>> 
 
-> **u/Nimelennar** [+20] *
+> **u/Nimelennar** [+19]  (4 hours later)
 > 
 > Hmm.  I wonder if, with Sheev removed from his center of power and away from the Jedi Temple, the Jedi gift of precognition would start working properly again.
-> I wouldn't want to face a super intelligent, hostile artificial intelligence, but if I had to, true precognition would be one of the few things that might be able to beat it.
 > 
+> I wouldn't want to face a super intelligent, hostile artificial intelligence, but if I had to, true precognition would be one of the few things that might be able to beat it.
 
->> **u/General__Obvious** [+10] *
+>> **u/General__Obvious** [+12]  (11 hours later)
 >> 
 >> I’ve been considering writing more in this story, and yeah, the Force was the way I was going to avoid the Republic getting curbstomped by materially superior hostile AI.
->> 
 
->> **u/VorpalAuroch** [+9]  *Life before Death**
+>> **u/VorpalAuroch** [+9]  *Life before Death* (15 hours later)
 >> 
 >> It would depend on the details, but precog is equivalent to a very powerful [oracle machine](https://en.wikipedia.org/wiki/Oracle_machine), so under some formalisms they would have the superintelligence 'outgunned' in brainpower.
->> 
 
->> **u/Radix2309** [+5] *
+>> **u/Radix2309** [+5]  (20 hours later)
 >> 
 >> There is also the idea of adopting a droid army of their own to supplement the Republic. 
->> Why are the separatists the only ones to do this given how vastly superior the droids appear to be? How has someone not attempted galactic conquest like this before?
->> The main explanation I see for at least the short term is sabotage by Palpatine to keep the Republic from using droids just in case.
->> The Reoublic just needs to hold off the droids long enough to begin their own production.
 >> 
+>> Why are the separatists the only ones to do this given how vastly superior the droids appear to be? How has someone not attempted galactic conquest like this before?
+>> 
+>> The main explanation I see for at least the short term is sabotage by Palpatine to keep the Republic from using droids just in case.
+>> 
+>> The Reoublic just needs to hold off the droids long enough to begin their own production.
 
->>> **u/Nimelennar** [+2] *
+>>> **u/Nimelennar** [+2]  (21 hours later)
 >>> 
 >>> > Why are the separatists the only ones to do this given how vastly superior the droids appear to be? How has someone not attempted galactic conquest like this before?
->>> It probably wasn't practical before.  As recently as The Phantom Menace, an army of battle droids required a huge command ship in orbit in order to make them effective.  And, far from being "vastly superior" at that point, many of them were laid low by the comic relief of one clumsy Gungan.
->>> In addition, rebellion was probably easier to put down when there was more coherence to the Republic.  It sounds like the normal plan would be to levy various Republic worlds for troops to raise a Grand Army of the Republic if a war became necessary.  By the time of the prequels, the Republic was already starting to succumb to corruption and fragmentation; a call to raise an army probably wouldn't have been heeded, and the secession might have happened without a fight.
->>> But, yes, I would think that supplementing the clone army with droids is probably a necessary step towards victory in the scenario above.  Not that the Republic should ever have been relying on a slave army in the first place.
 >>> 
+>>> It probably wasn't practical before.  As recently as The Phantom Menace, an army of battle droids required a huge command ship in orbit in order to make them effective.  And, far from being "vastly superior" at that point, many of them were laid low by the comic relief of one clumsy Gungan.
+>>> 
+>>> In addition, rebellion was probably easier to put down when there was more coherence to the Republic.  It sounds like the normal plan would be to levy various Republic worlds for troops to raise a Grand Army of the Republic if a war became necessary.  By the time of the prequels, the Republic was already starting to succumb to corruption and fragmentation; a call to raise an army probably wouldn't have been heeded, and the secession might have happened without a fight.
+>>> 
+>>> But, yes, I would think that supplementing the clone army with droids is probably a necessary step towards victory in the scenario above.  Not that the Republic should ever have been relying on a slave army in the first place.
 
->>>> **u/Radix2309** [+2] *
+>>>> **u/Radix2309** [+2]  (21 hours later)
 >>>> 
 >>>> I was speaking more of these newer capabilities with the networked killing machines. Something like that should have been doable beforehand. Although I suppose the central republic strength makes it not viable without vast investment and organization that could compare to the Republic itself without a clear benefit. 
->>>> I suppose the Sith lying low may have held these droid armies back as they saved up these capabilities for when they were truly ready.
 >>>> 
+>>>> I suppose the Sith lying low may have held these droid armies back as they saved up these capabilities for when they were truly ready.
 
->>> **u/CronoDAS** [+1] *
+>>> **u/CronoDAS** [+1]  (13 days later)
 >>> 
 >>> Supposedly Star Wars canon is that battle droids are deliberately kept stupid and restricted in order to keep them controlled and prevent exactly the kind of hostile AI scenario that happens at the end of this story.
->>> 
 
->>>> **u/Radix2309** [+1] *
+>>>> **u/Radix2309** [+1]  (13 days later)
 >>>> 
 >>>> But that only benefits the people in power. If I want to conquer a sector, I would just modify them to remove that restriction and win.
->>>> 
 
->>>>> **u/CronoDAS** [+1] *
+>>>>> **u/CronoDAS** [+1]  (13 days later)
 >>>>> 
 >>>>> Or lose immediately, if they turn on you before they conquer the people they're supposed to. :/
->>>>> 
 
-> **u/SkyTroupe** [+12] *
+> **u/SkyTroupe** [+13]  (12 hours later)
 > 
 > I love how you explained all the quirks of the Droid being purposefully programmed to make human errors. Really seals up a questionable part of the canon for me.
-> Does anyone happen to have the link to that short story where the Jedi apprentice realizes the force has its own nebulous goals and then they are killed by Order 66?
 > 
+> Does anyone happen to have the link to that short story where the Jedi apprentice realizes the force has its own nebulous goals and then they are killed by Order 66?
 
->> **u/General__Obvious** [+3] *
+>> **u/General__Obvious** [+3]  (17 hours later)
 >> 
 >> I too would like to read such a story.
->> 
 
->> **u/General__Obvious** [+1] *
+>> **u/General__Obvious** [+1]  (1 year, 9 months later)
 >> 
 >> Tardy indeed, but is [this](https://archiveofourown.org/works/5848177) it?
->> 
 
-> **u/RandomChance** [+9] *
+> **u/RandomChance** [+8]  (14 hours later)
 > 
 > Love it - that the whole prequel required the Jedi order to never let go of the Idiot Ball was what drove me nuts about the series, especially the 3rd one.
-> When the curtain closed my final reaction was WTF - a 10,000 year old order of psychics don't teach "self fulfilling prophecy 101" as a required course?  It was like whatever your head cannon, or fanfic was back in the 80s when you first saw the movies was for why Vader Fell... even if you were 8 at the time... that was better.
-> Is there support for droids networking?  It always seemed odd that they were not all built with pre-installed wireless communicators (at least post Cell Phone it does) but it seemed a Star Wars Thing... Droids have always been a little problematic if you start thinking about them... apparently sentient, yet enslaved - act/interact like high skill people not computers.   Maybe Star Wars had it's own Near Singularity event in the past and there are some absolutes droid rules now?
 > 
+> When the curtain closed my final reaction was WTF - a 10,000 year old order of psychics don't teach "self fulfilling prophecy 101" as a required course?  It was like whatever your head cannon, or fanfic was back in the 80s when you first saw the movies was for why Vader Fell... even if you were 8 at the time... that was better.
+> 
+> Is there support for droids networking?  It always seemed odd that they were not all built with pre-installed wireless communicators (at least post Cell Phone it does) but it seemed a Star Wars Thing... Droids have always been a little problematic if you start thinking about them... apparently sentient, yet enslaved - act/interact like high skill people not computers.   Maybe Star Wars had it's own Near Singularity event in the past and there are some absolutes droid rules now?
 
->> **u/General__Obvious** [+4] *
+>> **u/General__Obvious** [+5]  (16 hours later)
 >> 
 >> The droids in the TPM are controlled remotely by the Trade Federation ship in orbit of Naboo - granted, that isn’t decentralized command processing, but it does require installed receivers and transmitters, and given high-bandwidth communication, it’s not that big of a leap to imagine that the droids would have some degree of decentralized command and control.
->> 
 
->>> **u/RandomChance** [+1] *
+>>> **u/RandomChance** [+1]  (a day later)
 >>> 
 >>> Good point.  I had kind of blocked most of those movies out of my memory ;)
->>> 
 
->> **u/wren42** [+2] *
+>> **u/wren42** [+2]  (a day later)
 >> 
 >> Yeah I had always assumed there was some sort of cultural tabboo against empowering or arming droids due to a previous uprising.  The control chips and subservient personalities were made standard to avoid another such catastrophe, and even the separatists ensured they had direct control from the command ships to avoid subversion or revolt
->> 
 
-> **u/Zarohk** [+3] *
+> **u/Zarohk** [+5]  (11 hours later)
 > 
 > I love this, and you should definitely cross post this AO3! First time I’ve seen anyone else recall Order 65 in years.
-> 
 
-> **u/scruiser** [+4]  *CYOA**
+> **u/scruiser** [+4]  *CYOA* (14 hours later)
 > 
 > That ending... of course Palpatine would have yet another backup plan.  Actually, canon kind of feels like Palpatine’s already diverted from him main plan and improvised or used a backup plan several times.  In the episode 1, I don’t think he actually anticipated Padme getting that far.  Likewise, the complicated hire a bounty hunter to hire a bounty hunter to lure the Jedi to get them to the clone army feels a bit convoluted to be the main original plan. Or maybe I am trying to hard to rationalize a nonsensical villain plan that worked because plot...
-> 
 
-> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade* (a day later)
 > 
 > Ha! Nice twist at the end, this galaxy might end up WORSE than the one we know, in spite of all. It would be a nice premise for a longfic, in fact. Though I wonder in what ways precisely can the Dark Side enhance the originally poor droids.
-> BTW this made me think of something relatively similar I'm writing in another story - more crackfic than ratfic, and with a later divergence point, but same considerations about the arrest of the Chancellor:
-> > "...and so here I am. You see why at this point there's no turning back for me. But if we can defeat Palpatine, at least-"
-> > "Now, you're rushing things," Padmé raised a hand, tapping the side of her cheek with one finger of the other in a thoughtful attitude. "Your situation isn't that bad, honestly."
-> > "Not that bad? Padmé, I was an accomplice in killing a Master from the Jedi Council!"
-> > "Anakin, honey, I'm a politician. People have gotten away with worse. Now, if you had also killed the children, that would have been tricky."
-> > "Sure, but-"
-> > "Look, from what you tell me, Master Windu was trying to perform an extrajudicial killing - he did not get a warrant or anything to carry out his little citizen's arrest, and the Chancellor has political immunity. You may even have done the right thing!"
-> > "Really?"
-> > "Sure. I'm telling you, if he had succeeded, he'd be in a lot of trouble right now. In theory, there's a rule that says Siths are exclusive Jedi jurisdiction, but there was no need of it for thousands of years, as most Siths these days are enemy combatants anyway, and there were no independent witnesses to certify that Master Windu didn't just kill a frightened old man and stick a red lightsaber in his dead hand. From anyone else's viewpoint it would have been just a plain old military coup."
-> > "I see. I did the right thing," Anakin's face brightened. "Huh, I guess the Republic does work, sometimes!"
-> > "Except for the part where we missed the Chancellor being an evil overlord and now he's just pulled a coup and is about to take over," said Padmé, shrugging. "We should do something about that."
 > 
+> BTW this made me think of something relatively similar I'm writing in another story - more crackfic than ratfic, and with a later divergence point, but same considerations about the arrest of the Chancellor:
+> 
+> > "...and so here I am. You see why at this point there's no turning back for me. But if we can defeat Palpatine, at least-"
+> 
+> > "Now, you're rushing things," Padmé raised a hand, tapping the side of her cheek with one finger of the other in a thoughtful attitude. "Your situation isn't that bad, honestly."
+> 
+> > "Not that bad? Padmé, I was an accomplice in killing a Master from the Jedi Council!"
+> 
+> > "Anakin, honey, I'm a politician. People have gotten away with worse. Now, if you had also killed the children, that would have been tricky."
+> 
+> > "Sure, but-"
+> 
+> > "Look, from what you tell me, Master Windu was trying to perform an extrajudicial killing - he did not get a warrant or anything to carry out his little citizen's arrest, and the Chancellor has political immunity. You may even have done the right thing!"
+> 
+> > "Really?"
+> 
+> > "Sure. I'm telling you, if he had succeeded, he'd be in a lot of trouble right now. In theory, there's a rule that says Siths are exclusive Jedi jurisdiction, but there was no need of it for thousands of years, as most Siths these days are enemy combatants anyway, and there were no independent witnesses to certify that Master Windu didn't just kill a frightened old man and stick a red lightsaber in his dead hand. From anyone else's viewpoint it would have been just a plain old military coup."
+> 
+> > "I see. I did the right thing," Anakin's face brightened. "Huh, I guess the Republic does work, sometimes!"
+> 
+> > "Except for the part where we missed the Chancellor being an evil overlord and now he's just pulled a coup and is about to take over," said Padmé, shrugging. "We should do something about that."
 
->> **u/Slyvena** [+2] *
+>> **u/Slyvena** [+2]  (3 days later)
 >> 
 >> "We should do something about that"  
 >> That made me lol
->> 
 
->>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (3 days later)
 >>> 
 >>> By the way, I uploaded the first part of this story yesterday!
->>> [Always look on the Dark Side of life](https://www.fanfiction.net/s/13687210/1/Always-look-on-the-Dark-Side-of-life)
->>> It's going to be split in three chapters but it's all complete anyway, so it'll update really quickly.
 >>> 
+>>> [Always look on the Dark Side of life](https://www.fanfiction.net/s/13687210/1/Always-look-on-the-Dark-Side-of-life)
+>>> 
+>>> It's going to be split in three chapters but it's all complete anyway, so it'll update really quickly.
 
->>>> **u/CronoDAS** [+2] *
+>>>> **u/CronoDAS** [+2]  (5 days later)
 >>>> 
 >>>> It's wonderfully ridiculous. Thanks for sharing!
->>>> 
 
->>>> **u/jls17** [+2] *
+>>>> **u/jls17** [+2]  (11 days later)
 >>>> 
 >>>> Wow, that ending 😂
->>>> 
 
->>>> **u/General__Obvious** [+2] *
+>>>> **u/General__Obvious** [+2]  (13 days later)
 >>>> 
 >>>> That was easily the funniest thing I’ve read this year. You should be extremely proud of having written that.
->>>> 
 
-> **u/mitchmanwalters** [+2] *
+> **u/mitchmanwalters** [+2]  (4 hours later)
 > 
 > Really loved this! Is this part of a larger story that you’ve been writing?
-> 
 
->> **u/General__Obvious** [+3] *
+>> **u/General__Obvious** [+3]  (11 hours later)
 >> 
 >> Not originally, but I’m considering writing more.
->> 
 
->>> **u/SkyTroupe** [+1] *
+>>> **u/SkyTroupe** [+1]  (21 hours later)
 >>> 
 >>> You should
->>> 
 
->>> **u/wren42** [+1] *
+>>> **u/wren42** [+1]  (a day later)
 >>> 
 >>> I was considering doing a star wars ratfic that tried to rationalize the force itself and what he world would look like if it really evolved that way. I'd be interested in seeing what you create!
->>> 
 
-> **u/pje** [+2] *
+> **u/pje** [+2]  (3 days later)
 > 
 > Hm.  I was expecting that a rational Sidious would have sabotaged or booby-trapped the coding of order 65 such that it would trigger order 66 instead, or shut down the clones, make them rebel, or really anything other than the intended purpose.
-> 
 
-> **u/CronoDAS** [+2] *
+> **u/CronoDAS** [+2]  (13 days later)
 > 
 > Order 66 "hiding in plain sight" as a one of a large number of contingency plans for highly unlikely situations that nobody expects will ever actually get used makes perfect sense to me.
-> 
 
->> **u/General__Obvious** [+3] *
+>> **u/General__Obvious** [+3]  (13 days later)
 >> 
 >> Order 66 was, at least until Disney wiped the canon, part of a set of 150 contingency orders ranging from procedures for capturing a single individual through mass detention and execution to what to do if the Jedi stage a coup. I didn’t just invent Order 65.
->> 
 
->>> **u/CronoDAS** [+1] *
+>>> **u/CronoDAS** [+1]  (13 days later)
 >>> 
 >>> Indeed, the Star Wars non-film material was filled with better writers trying to make the things George Lucas put on the screen make more sense. Like Stormtrooper armor appearing to be completely ineffective against the blasters used by Han Solo and various other Rebels. (If I were writing a justification, I'd say that the armor provides just enough protection to turn  otherwise lethal shots into incapacitating ones, letting the armored trooper live to fight another day after being shot.)
->>> 
 
 ---
 

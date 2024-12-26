@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.fanfiction.net/s/9669819/51/The-Two-Year-Emperor
-* Score: 15
+* Score: 14
 
 * Created: 2014-07-13T17:06:49
 
@@ -12,177 +12,167 @@
 
 ### Comments:
 
-> **u/ulyssessword** [+10] *
+> **u/ulyssessword** [+11]  (an hour later)
 > 
 > ...yup.  The Landguards have a strong enough moral code to kill their friends, if needed.
-> 
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+3]  (2 hours later)
 >> 
 >> Bingo.
->> 
 
-> **u/MadScientist14159** [+6]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+> **u/MadScientist14159** [+5]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (an hour later)
 > 
 > So paladins are immune to diplomacy checks?
-> 
 
->> **u/eaglejarl** [+4] *
+>> **u/eaglejarl** [+4]  (an hour later)
 >> 
 >> Nope.  But 'Helpful' doesn't mean 'Stupid' or 'Slave.'
->> 
 
->>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>> **u/VorpalAuroch** [+1]  *Life before Death* (2 days later)
 >>> 
 >>> No, for that you need Fanatic. But while that's technically in the SRD, it's originally Epic-level Handbook and debatably not core.
->>> 
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>> 
 >>>> Yep.  Part of the rules of Stupidworld is "No Epic.  At all."  So, there aren't any fanatics.
->>>> 
 
-> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity* (4 hours later)
 > 
 > Reference to the V Vs Epic Dragon scene of OOTS?
-> Awesome as that scene was, this suggests extremely worrying things are about to happen. Afi knows where they are, has access to functionally limitless resources and presumably has more of a plan that to waltz in and kill/kidnap/subvert their leadership.
-> Incidentally, why haven't the lich kings ever invaded Flobovia or places on that continent? And since they do not appear to have done so, why not move Grofhamr there?
 > 
+> Awesome as that scene was, this suggests extremely worrying things are about to happen. Afi knows where they are, has access to functionally limitless resources and presumably has more of a plan that to waltz in and kill/kidnap/subvert their leadership.
+> 
+> Incidentally, why haven't the lich kings ever invaded Flobovia or places on that continent? And since they do not appear to have done so, why not move Grofhamr there?
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (6 hours later)
 >> 
 >> >Reference to the V Vs Epic Dragon scene of OOTS?
->> Yep.  :)  That scene was half written before I realized that Rich had beaten me to it.  I decided to keep it as it was; V/Dragon is so epic that I thought the nod wouldn't go amiss.  
->> And yes, things are about to get very hairy for our heroes.
-
->> Arannias (the continent where Flobovia resides) is not known in the Union.  The Grǫfhamrites were motivated to do research looking for a safe haven, and they found a passing reference deep in one of their archives to Arannias.  Afi and the other Lich Kings have not found out about it...yet.
 >> 
+>> Yep.  :)  That scene was half written before I realized that Rich had beaten me to it.  I decided to keep it as it was; V/Dragon is so epic that I thought the nod wouldn't go amiss.  
+>> 
+>> And yes, things are about to get very hairy for our heroes.
+>> 
+>> Arannias (the continent where Flobovia resides) is not known in the Union.  The Grǫfhamrites were motivated to do research looking for a safe haven, and they found a passing reference deep in one of their archives to Arannias.  Afi and the other Lich Kings have not found out about it...yet.
 
->>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>> **u/omgimpwned** [+1]  *Sunshine Regiment* (a day later)
 >>> 
 >>> I feel stupid now - even having reread the chapter, I don't get this reference, though it's been a while since I read that part of OOTS. Can anybody banish my dimwitted ignorance?
->>> Edit: It occurs to me also that, honestly, being a lich, being smart (it seems) and undoubtedly having access to Greater Teleport, how come Afi didn't just pop into space quickly (a bit of Cold Resistance should do it to protect against space; vacuum doesn't do much to bones, does it? - not that a person like Afi couldn't protect himself against space regardless, I think) and sketch out a map of the entire planet ages ago?
 >>> 
+>>> Edit: It occurs to me also that, honestly, being a lich, being smart (it seems) and undoubtedly having access to Greater Teleport, how come Afi didn't just pop into space quickly (a bit of Cold Resistance should do it to protect against space; vacuum doesn't do much to bones, does it? - not that a person like Afi couldn't protect himself against space regardless, I think) and sketch out a map of the entire planet ages ago?
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (3 days later)
 >>>> 
 >>>> http://www.giantitp.com/comics/oots0627.html
->>>> 
 
->>>> **u/ulyssessword** [+1] *
+>>>> **u/ulyssessword** [+1]  (a day later)
 >>>> 
 >>>> What are the rules on Spot checks vs. geography?  I'm not sure that this would work.
->>>> 
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (3 days later)
 >>>>> 
 >>>>> Spot is a poorly phrased skill.  It says:
->>>>> "The Spot skill is used primarily to detect characters or creatures who are hiding. [...] Every time you have a chance to spot some**thing** [emphasis added] in a reactive manner you can make a Spot check without using an action."
->>>>> So, it's not clear that Spot is actually used for seeing things that aren't creatures, but it probably is.  Let's go with that.  In that case, the "Spot Check Penalties" table comes into effect, specifically the "-1 per 10' of distance" penalty.
->>>>> Low Earth Orbit varies 100-1200 miles.  Let's say 100.  That's 5280*100 / 10 = 52,800 increments of 10', for a -52800 penalty on your spot checks.  At that point, you couldn't see Mt Everest.
->>>>> Of course, this gets even worse when we're looking up.  D&D characters can't see the moon, let alone the sun...stars are **right out**.
->>>>> So, no.  If we were going by strict RAW then you probably couldn't do orbital mapping.  Or astronomy.  Or see people down the street.  Or...well, basically anything that isn't within about a hundred feet of you.  Archers would be firing blind at anything less than short range.
->>>>> Of course, Spot may not apply to any of that.  Like I said, it's poorly written.
 >>>>> 
+>>>>> "The Spot skill is used primarily to detect characters or creatures who are hiding. [...] Every time you have a chance to spot some**thing** [emphasis added] in a reactive manner you can make a Spot check without using an action."
+>>>>> 
+>>>>> So, it's not clear that Spot is actually used for seeing things that aren't creatures, but it probably is.  Let's go with that.  In that case, the "Spot Check Penalties" table comes into effect, specifically the "-1 per 10' of distance" penalty.
+>>>>> 
+>>>>> Low Earth Orbit varies 100-1200 miles.  Let's say 100.  That's 5280*100 / 10 = 52,800 increments of 10', for a -52800 penalty on your spot checks.  At that point, you couldn't see Mt Everest.
+>>>>> 
+>>>>> Of course, this gets even worse when we're looking up.  D&D characters can't see the moon, let alone the sun...stars are **right out**.
+>>>>> 
+>>>>> So, no.  If we were going by strict RAW then you probably couldn't do orbital mapping.  Or astronomy.  Or see people down the street.  Or...well, basically anything that isn't within about a hundred feet of you.  Archers would be firing blind at anything less than short range.
+>>>>> 
+>>>>> Of course, Spot may not apply to any of that.  Like I said, it's poorly written.
 
->>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (3 days later)
 >>>>>> 
 >>>>>> Though I sincerely doubt you can use it, I think it would be absolutely hilarious to have Jake come to the realization that everyone around him can't see anything past a hundred yards, and that this has been the case the entire time - they think that it's normal. (I cannot recall whether this is contradicted by anything in the text, but I imagine that it is.)
->>>>>> Edit: Also, Mt. Everst gets a -16 on the Spot DC for being Colossal, so it wouldn't be *that* hard to see. :)
 >>>>>> 
+>>>>>> Edit: Also, Mt. Everst gets a -16 on the Spot DC for being Colossal, so it wouldn't be *that* hard to see. :)
 
->>>>>>> **u/eaglejarl** [+1] *
+>>>>>>> **u/eaglejarl** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> I agree it really would be hilarious, but it's a little further than I want to go, though.  As to things that might contradict it...hm.  Possibly the bombing in chapter 6 ("Niven's Foot Falls"), or the Robert-using-telescope in chapter 46 ("Not Run'n'Gun").  Not sure.  Those could be painted either way, probably.
->>>>>>> 
 
->>>>>>>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>>>>>>> **u/JackStargazer** [+1]  *Primordial Apologist* (5 days later)
 >>>>>>>> 
 >>>>>>>> Ah, but the telescope explicitly reduces those penalties to Spot based on distance. So it would let them see farther, even without the laws of optics by RAW.
->>>>>>>> 
 
->>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>> **u/eaglejarl** [+2]  (5 days later)
 >>>>>>>>> 
 >>>>>>>>> The telescope makes thing look twice as close as they are so, yes, it helps a lot under normal circumstances. Cutting a -52800 penalty down to a measly -26400 is less helpful, though. ;)
->>>>>>>>> 
 
-> **u/Evilness42** [+3]  *And even myth is long forgotten...**
+> **u/Evilness42** [+3]  *And even myth is long forgotten...* (5 hours later)
 > 
 > ...I really thought he would be harder to kill. He's going to keep coming back until they listen or something, right?
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (5 hours later)
 >> 
 >> Yep.  When a lich's body is destroyed, he regenerates from his phylactery.  It takes a few days, though.
->> 
 
-> **u/Prezombie** [+3] *
+> **u/Prezombie** [+3]  (6 hours later)
 > 
 > I'm a little sad how short that encounter was.
-> I was really hoping for a great "No mister bond, I expect you to dine" scene.
-> With the obviously fake Afi, an antimagic field, and Grǫfhamr sealed, there was the chance there for some real communication.
-> From what little we've seen, Afi seems like a pretty swell guy, and a potential dark rationalist to rival MOR!Quirrel.
 > 
+> I was really hoping for a great "No mister bond, I expect you to dine" scene.
+> 
+> With the obviously fake Afi, an antimagic field, and Grǫfhamr sealed, there was the chance there for some real communication.
+> 
+> From what little we've seen, Afi seems like a pretty swell guy, and a potential dark rationalist to rival MOR!Quirrel.
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (6 hours later)
 >> 
 >> Thomas is a *seriously* badass warrior.  Without his magic, Afi is nothing.  There was no way that fight was going to take more than a couple of rounds.
->> As to the rest of it...well, more will come out in the next few chapters.
 >> 
+>> As to the rest of it...well, more will come out in the next few chapters.
 
->>> **u/Prezombie** [+2] *
+>>> **u/Prezombie** [+2]  (6 hours later)
 >>> 
 >>> Yeah, I totally get that. My complaint wasn't that the fight was short and offscreen (look at River Tam's example in Serenity), but the fact that the fight started so soon.
->>> 
 
->>> **u/aeschenkarnos** [+1] *
+>>> **u/aeschenkarnos** [+1]  (7 hours later)
 >>> 
 >>> Hmm. Afi does say he has multiple classes, and if he's 20th level in wizard and 20th level in sorcerer and say 10th level in cleric, wouldn't he be close to a physical match in terms of HP, BAB, etc for a 20th level paladin? Also, as an undead he's immune to critical hits, and has a variety of other advantages that the Anti-Magic Field shouldn't affect much. Am I missing something?
->>> 
 
->>>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (8 hours later)
 >>>> 
 >>>> I'd assumed that Thomas himself had more levels than just Pal 20. In chapter 48 he claims to have gained eight levels from the bouncing ball lightshow cannon thing. So it's likely that while he's not on par with Afi in terms of levels, the disparity isn't so great as you're thinking.
->>>> 
 
->>>>> **u/JackStargazer** [+3]  *Primordial Apologist**
+>>>>> **u/JackStargazer** [+3]  *Primordial Apologist* (9 hours later)
 >>>>> 
 >>>>> Also you don't lose inherent bonuses in antimagic, and one of them is still armed with two 3 foot blades and the feats to use them properly, plus likely higher physical stats, while the other is effectively naked and likely spent all his feats on things to make magic or diplomacy better.
->>>>> Base Attack Bonus and HP are not the end all be all. And that's all Afi might match.
 >>>>> 
+>>>>> Base Attack Bonus and HP are not the end all be all. And that's all Afi might match.
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (4 days later)
 >>>>> 
 >>>>> As a point of interest, Thomas *was* able to cast Detect Thoughts....
->>>>> 
 
->>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (4 days later)
 >>>>>> 
 >>>>>> I am curious whether you have rough character stats for everyone - at least a list of what levels they all have. Detect Thoughts could come from cleric (with knowledge domain), sorcerer, wizard, or bard levels. I don't really know what I would imagine as Thomas's extra levels, but he's got to be at least a little bit of fighter.
->>>>>> 
 
-> **u/Riddle-Tom_Riddle** [+2] *
+> **u/Riddle-Tom_Riddle** [+2]  (4 hours later)
 > 
 > ...Huh.
-> I thought they would act against him after(if) he *requested* something against the land, people, or ruler.
 > 
+> I thought they would act against him after(if) he *requested* something against the land, people, or ruler.
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (39 seconds later)
 > 
 > Folks were kind enough to leave a lot of reviews yesterday, so I've posted a bonus chapter.  Next update will still be on this coming Saturday, July 19.
-> 
 
-> **u/Prezombie** [+1] *
+> **u/Prezombie** [+1]  (4 days later)
 > 
 > Hey EagleJarl, are you aware of [The Millennial king?](http://1d4chan.org/wiki/Millennial_King) I really think he could be an inspiration in what a good-aligned Lich could be like.
-> I've got this funny notion of a good person who became a Lich solely to survive the cycle of civilization's destruction and restarting. Rather than trying to fight the cycle, he simply puts his nation into hibernation, PAO'ing the entire population to a million tiny beads until the long night is over and the gods start making people again.
 > 
+> I've got this funny notion of a good person who became a Lich solely to survive the cycle of civilization's destruction and restarting. Rather than trying to fight the cycle, he simply puts his nation into hibernation, PAO'ing the entire population to a million tiny beads until the long night is over and the gods start making people again.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (4 days later)
 >> 
 >> I was not!  I just read through it; interesting scenario.  I'm not going to do a straight expy of it, but it does give me some ideas.  I've always intended for Afi to end up as a relatable character -- after all "he's the villain because he's evil" is boring and not rational.  This is a different direction than what I'd been thinking of, but there is some good stuff here.
->> Thanks for the pointer.
 >> 
+>> Thanks for the pointer.
 
 ---
 

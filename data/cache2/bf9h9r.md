@@ -2,7 +2,7 @@
 
 * Author: u/user19911506 *
 * URL: https://www.reddit.com/r/rational/comments/bf9h9r/patreon_support_to_erraticerrata_author_of_a/
-* Score: 13
+* Score: 11
 
 * Created: 2019-04-20T06:49:24
 
@@ -12,44 +12,41 @@
 
 ### Comments:
 
-> **u/wertwert765** [+8] *
+> **u/wertwert765** [+9]  (27 minutes later)
 > 
 > I think the reason it gets less is because Erratic doesn't do the read one chapter early if you become a patron thing. I think a lot of people would cave in to read that next chapter just a bit sooner.
-> In general, I think early patreon chapters while profitable are awkward because they split up the community of readers from patrons and non-patrons. That said I totally understand why authors do it, and I'm never gonna begrudge an author for trying to make a reasonable amount of money from their work.
 > 
+> In general, I think early patreon chapters while profitable are awkward because they split up the community of readers from patrons and non-patrons. That said I totally understand why authors do it, and I'm never gonna begrudge an author for trying to make a reasonable amount of money from their work.
 
-> **u/None** [+6] *
+> **u/None** [+7]  (25 minutes later)
 > 
 > Varies from author to author. TGaB is earning even less. When you say 8k per month I assume you're talking about the Wandering Inn, which I think is exceptional and not to be considered the norm. Wildblow gets 5k a month and for a few years he was pretty much the only person earning enough to be a web novelist full time. I can only speculate, I haven't closely been following any web fiction for a while, but possible reasons are: 
-> Different types of stories attract whales, two stories can each have 10k readers, but if one only has $1 donations but the others has 95% $1 donations and 5% $100 donations, that's a massive difference. 
-> Maybe PGTE gets more money from other donation sources, e.g lots of one-time pay pal payments.
-> Maybe PGTE has poor marketing/incentives to donations.
 > 
+> Different types of stories attract whales, two stories can each have 10k readers, but if one only has $1 donations but the others has 95% $1 donations and 5% $100 donations, that's a massive difference. 
+> 
+> Maybe PGTE gets more money from other donation sources, e.g lots of one-time pay pal payments.
+> 
+> Maybe PGTE has poor marketing/incentives to donations.
 
-> **u/sparr** [-4] *
+> **u/sparr** [-6]  (13 minutes later)
 > 
 > I am less likely to vote for things or contribute the more frequently I see calls for such. I can't remember how often there are patreon links, but I've gotten pretty annoyed at seeing a "vote on top whatever" every single post.
-> 
 
->> **u/chaos-engine** [+6] *
+>> **u/chaos-engine** [+6]  (19 minutes later)
 >> 
 >> Says the freeloader who doesn't pay for anything "I only pay if I don't know people are accepting money"
->> 
 
->>> **u/sparr** [-2] *
+>>> **u/sparr** [-2]  (31 minutes later)
 >>> 
 >>> There's a big difference in telling me once and telling me fifty times.
->>> 
 
->>>> **u/Rorschach_And_Prozac** [+4] *
+>>>> **u/Rorschach_And_Prozac** [+4]  (an hour later)
 >>>> 
 >>>> The author never tells you, at all. You're being a whiney curmudgeon about FANS telling you to vote, and taking out out on the author. Grow up.
->>>> 
 
->>>>> **u/sparr** [+1] *
+>>>>> **u/sparr** [+1]  (11 hours later)
 >>>>> 
 >>>>> I'm answering a question that was asked. Downvotes here are why people don't volunteer this information. Good job, people who don't understand what the downvote button is for.
->>>>> 
 
 ---
 

@@ -58,103 +58,126 @@ Sword Art Online also is terrible enough in its own right that I don't really ne
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+11]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor* (3 hours later)
 > 
 > Do not try to write rationalfic in a world you dislike.  Pick a world where you've previously spent a lot of time.  Scientists rarely hate what they study.
-> 
 
->> **u/rational_rob** [+5] *
+>> **u/rational_rob** [+5]  (4 hours later)
 >> 
 >> That's a good point. I don't necessarily dislike either though - it's a matter of liking SAO that drove me to try and improve it. It's a matter of missed potential with the original, that I think fits rationality like a glove.
->> I thought about doing something for Harry Potter, but I realized that these might be more suited to adaptation, at least to me.
 >> 
+>> I thought about doing something for Harry Potter, but I realized that these might be more suited to adaptation, at least to me.
 
-> **u/DCarrier** [+4] *
+> **u/DCarrier** [+4]  (30 minutes later)
 > 
 > I feel like I'm less critiquing your ideas and more adding my own, but here's my response.
-> > The World God Only Knows
-> > Themes:
-> > Instrumental Rationality, Entropy, the logic of Emotion, Utility, Ethics,
-> Based on that synopsis, I think your going to have to add [Dark Arts](https://wiki.lesswrong.com/wiki/Dark_arts) to that list. If your character knows how to manipulate people's emotions, and it's a rationalist fic, that means the reader has to learn how to manipulate people's emotions.
-> > Sword Art Online
-> > Themes:
-> > Epistemic rationality, Artificial Intelligence, Social and group dynamics, Utility, Risk-versus-reward
-> Artificial intelligence will be a problem. The AI present in the original is enough for a post-scarcity society, and that's without self-improvement.
-> It might be good to add something about [the utility function is not up for grabs](https://wiki.lesswrong.com/wiki/The_utility_function_is_not_up_for_grabs). Explore Kayaba's way of looking at things to show why he thinks Sword Art Online is a world worth dying for, and yet how utterly horrifying it is to someone else.
-> > I think the fanfiction hook should be that he alone has the ability to log out and communicate with the outside world
-> But anyone can communicate with the outside world. They just need to have someone wake them up at the appropriate times to send messages. And the outside world could respond by drugging them to fall asleep. It's not much, but I feel like they should have done it.
-> Also, remember Eliezer's first rule of fanfiction. You can't just make things easier for Kirito. How will you make it harder?
 > 
+> > The World God Only Knows
+> 
+> > Themes:
+> 
+> > Instrumental Rationality, Entropy, the logic of Emotion, Utility, Ethics,
+> 
+> Based on that synopsis, I think your going to have to add [Dark Arts](https://wiki.lesswrong.com/wiki/Dark_arts) to that list. If your character knows how to manipulate people's emotions, and it's a rationalist fic, that means the reader has to learn how to manipulate people's emotions.
+> 
+> > Sword Art Online
+> 
+> > Themes:
+> 
+> > Epistemic rationality, Artificial Intelligence, Social and group dynamics, Utility, Risk-versus-reward
+> 
+> Artificial intelligence will be a problem. The AI present in the original is enough for a post-scarcity society, and that's without self-improvement.
+> 
+> It might be good to add something about [the utility function is not up for grabs](https://wiki.lesswrong.com/wiki/The_utility_function_is_not_up_for_grabs). Explore Kayaba's way of looking at things to show why he thinks Sword Art Online is a world worth dying for, and yet how utterly horrifying it is to someone else.
+> 
+> > I think the fanfiction hook should be that he alone has the ability to log out and communicate with the outside world
+> 
+> But anyone can communicate with the outside world. They just need to have someone wake them up at the appropriate times to send messages. And the outside world could respond by drugging them to fall asleep. It's not much, but I feel like they should have done it.
+> 
+> Also, remember Eliezer's first rule of fanfiction. You can't just make things easier for Kirito. How will you make it harder?
 
->> **u/rational_rob** [+2] *
+>> **u/rational_rob** [+2]  (3 hours later)
 >> 
 >> First, *thanks* for responding. This is the exact kind of thing I was talking about.
->>     Also, remember Eliezer's first rule of fanfiction. You can't just make things easier for Kirito. How will you make it harder?
->> I know, the sequence on rational fiction was one of the first things I read. the problem is, there wasn't really a plot in Sword Art Online to begin with. It's vague about what exactly Kayaba accomplishes by going through the motions of Sword Art Online, but the series wants you to see him as a sympathetic villain for some reason.
->> To answer: I'm not exactly trying to make it easier, I'm trying to give him a *reason* to have ridiculously good information on completing the game aside from "he was in the (even more selective beta test". Kazuto goes to school - *Japanese* school. It's hard to see how a fifteen year old boy could become one of a thousand to enter the select beta test.
->>     Artificial intelligence will be a problem. The AI present in the original is enough for a post-scarcity society, and that's without self-improvement.
->> I think I want to end game to be somewhere along the lines of: Kayaba is trying to set the first genuinely friendly AGI free into the world. It explains the whole "seed" thing in the original novels behind just being a cool video game engine.
->> As someone interested in the gaming industry, I can immediately see the draw of an AGI for a video game administrator. Developers generally strive for three things in a game: balance, progression, and agency. They combine to create a feeling of productivity (even if that productivity doesn't actually exist). I imagine that an artificial intelligence that prioritizes these things would be at least interesting.
->> (I know things like balance, progression and agency are *vast* terms that fail to really specify anything. I've read enough of Yudkowsky's essays to know that even if I do somehow manage to get an AI that optimizes around these terms it would be vastly different from anything I would want to see in society. But the funny thing is, when I try to predict what something would do under these conditions, the whole "trapping players in a virtual reality" thing becomes self consistent.)
->> Keep in mind, the Extra Credits series on youtube is excellent to see more about how video games are designed to be good, and talks a lot about other things you would assume something like the CARDINAL AI would be equipped with. Skinner box techniques among them.
->>     I think your going to have to add Dark Arts to that list.
->> Even when I knew how people in this community named things, I was still amused and surprised by the notion of legitimate philosophy classified as "Dark Arts". That being said, Keima's form of manipulation is less "taking over the world" kind of manipulation and more "taking advantage of lovesick teenage girls" manipulation. I'm sure this all falls under the greater category, but generally there are some differences. (although, I am not sure, and I'm certainly intrigued enough to read the essays in school when I have the time)
->> **-----------**
->> It's about time for me to set off on my journey to the building-of-compulsory-education, which means I'm going to be unavailable until robotics class when I have access to a computer. Nonetheless, I'll try to reply to whatever else you might ask. This more of a brainstorming/trying to foolproof my ideas kind of thing, which I find hard to do alone.
 >> 
+>>     Also, remember Eliezer's first rule of fanfiction. You can't just make things easier for Kirito. How will you make it harder?
+>> 
+>> I know, the sequence on rational fiction was one of the first things I read. the problem is, there wasn't really a plot in Sword Art Online to begin with. It's vague about what exactly Kayaba accomplishes by going through the motions of Sword Art Online, but the series wants you to see him as a sympathetic villain for some reason.
+>> 
+>> To answer: I'm not exactly trying to make it easier, I'm trying to give him a *reason* to have ridiculously good information on completing the game aside from "he was in the (even more selective beta test". Kazuto goes to school - *Japanese* school. It's hard to see how a fifteen year old boy could become one of a thousand to enter the select beta test.
+>> 
+>>     Artificial intelligence will be a problem. The AI present in the original is enough for a post-scarcity society, and that's without self-improvement.
+>> 
+>> I think I want to end game to be somewhere along the lines of: Kayaba is trying to set the first genuinely friendly AGI free into the world. It explains the whole "seed" thing in the original novels behind just being a cool video game engine.
+>> 
+>> As someone interested in the gaming industry, I can immediately see the draw of an AGI for a video game administrator. Developers generally strive for three things in a game: balance, progression, and agency. They combine to create a feeling of productivity (even if that productivity doesn't actually exist). I imagine that an artificial intelligence that prioritizes these things would be at least interesting.
+>> 
+>> (I know things like balance, progression and agency are *vast* terms that fail to really specify anything. I've read enough of Yudkowsky's essays to know that even if I do somehow manage to get an AI that optimizes around these terms it would be vastly different from anything I would want to see in society. But the funny thing is, when I try to predict what something would do under these conditions, the whole "trapping players in a virtual reality" thing becomes self consistent.)
+>> 
+>> Keep in mind, the Extra Credits series on youtube is excellent to see more about how video games are designed to be good, and talks a lot about other things you would assume something like the CARDINAL AI would be equipped with. Skinner box techniques among them.
+>> 
+>>     I think your going to have to add Dark Arts to that list.
+>> 
+>> Even when I knew how people in this community named things, I was still amused and surprised by the notion of legitimate philosophy classified as "Dark Arts". That being said, Keima's form of manipulation is less "taking over the world" kind of manipulation and more "taking advantage of lovesick teenage girls" manipulation. I'm sure this all falls under the greater category, but generally there are some differences. (although, I am not sure, and I'm certainly intrigued enough to read the essays in school when I have the time)
+>> 
+>> **-----------**
+>> 
+>> It's about time for me to set off on my journey to the building-of-compulsory-education, which means I'm going to be unavailable until robotics class when I have access to a computer. Nonetheless, I'll try to reply to whatever else you might ask. This more of a brainstorming/trying to foolproof my ideas kind of thing, which I find hard to do alone.
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (11 hours later)
 >>> 
 >>> > I was still amused and surprised by the notion of legitimate philosophy classified as "Dark Arts".
->>> That's not philosophy. That's psychology.
->>> > Keima's form of manipulation is less "taking over the world" kind of manipulation and more "taking advantage of lovesick teenage girls" manipulation.
->>> You don't find anything a little creepy about Pick-Up Artistry?
 >>> 
+>>> That's not philosophy. That's psychology.
+>>> 
+>>> > Keima's form of manipulation is less "taking over the world" kind of manipulation and more "taking advantage of lovesick teenage girls" manipulation.
+>>> 
+>>> You don't find anything a little creepy about Pick-Up Artistry?
 
->>>> **u/rational_rob** [+1] *
+>>>> **u/rational_rob** [+1]  (12 hours later)
 >>>> 
 >>>> The point is that the Keima is creeped out by it as well - I'm not too sure if you're familiar with the show, but the premise is that the main character is almost repulsed by the idea of romance with real people. He is forced, under penalty of death, to try and win their hearts, and the character development is him realising that he is a) not as emotionless as he thought and b) that what he's doing might be pretty wrong.
->>>> I think it exists more as a thought experiment than wish-fulfilment.
 >>>> 
+>>>> I think it exists more as a thought experiment than wish-fulfilment.
 
->>>>> **u/DCarrier** [+1] *
+>>>>> **u/DCarrier** [+1]  (13 hours later)
 >>>>> 
 >>>>> I'm just saying there's a reason we call it the Dark Arts. There are times when it's necessary. They teach it in the Pokemon rational fic On the Origin of Species.
->>>>> 
 
->> **u/rational_rob** [+1] *
+>> **u/rational_rob** [+1]  (4 hours later)
 >> 
 >> Oh, and I just remembered. The whole "anyone can communicate with the outside world" thing seems like a system that's too exploitable, or at least, it seems like it's too easy to do somehow, even if it won't change the situation. The way I see it, there shouldn't be any reason the SAO simulation looks outwardly different from sleep. IIRC it completely cuts off voluntary motor function. And how are they going to get a subject in an MRI scanner without the NerveGear going *Scanners* on them? (thanks for the image, SAO abridged)
->> Either way, it's not really that important. I really only wanted him to exit the simulation at some point because it sets up for some poignant moments with his family and friend that wouldn't otherwise exist. Basically, I just wanted for the angst. It doesn't seem to consistent with the environment, but I can conceive a dynamic where it does not influence the potential of the conflict.
 >> 
+>> Either way, it's not really that important. I really only wanted him to exit the simulation at some point because it sets up for some poignant moments with his family and friend that wouldn't otherwise exist. Basically, I just wanted for the angst. It doesn't seem to consistent with the environment, but I can conceive a dynamic where it does not influence the potential of the conflict.
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (11 hours later)
 >>> 
 >>> You don't need an MRI. You can do it with an EEG, which is noninvasive. Although I suppose the NerveGear would probably mess with that. The NerveGear isn't supposed to mess with *involuntary* motor functions like heart rate, is it? I'd expect the brain to use more energy while you're awake, which would lead to some clear differences.
->>> You could also do things using hormones in the brain that Kayaba wouldn't be able to mess with without ruining SAO.
 >>> 
+>>> You could also do things using hormones in the brain that Kayaba wouldn't be able to mess with without ruining SAO.
 
->>> **u/boomfarmer** [+1]  *Trying to be helpful**
+>>> **u/boomfarmer** [+1]  *Trying to be helpful* (22 hours later)
 >>> 
 >>> Don't use an MRI or other external scanner. It's redundant. The Nervegear is already of sufficient resolution.
->>> What you could have happen instead is the government, realizing the problem, applies its considerable computational resources to crack the session keys of the connection used by deceased users. Cracking the keys of living users would be a waste of resources, because with Perfect Forward Secrecy they would only be able to read the past, not the present. So they passively snoop all the traffic of all the Nervegears they can, and try to crack the encryption on the users who die, and offer that user's exploits to the family as a sort of "here's photos of your kid/sibling/parent kicking ass" memorium. And from the dead users, they identify some flaws in the game's servers' RNGs, and get better at breaking the keys, so now they can semi-regularly get into living player data, and that's how they single across the beta testers and the guy running the game and his notes, and that's how they start passing messages to users through glitched item names in the player inventory. You have 999 DROP THIS ITEM IF YOU CAN READ THIS.
 >>> 
+>>> What you could have happen instead is the government, realizing the problem, applies its considerable computational resources to crack the session keys of the connection used by deceased users. Cracking the keys of living users would be a waste of resources, because with Perfect Forward Secrecy they would only be able to read the past, not the present. So they passively snoop all the traffic of all the Nervegears they can, and try to crack the encryption on the users who die, and offer that user's exploits to the family as a sort of "here's photos of your kid/sibling/parent kicking ass" memorium. And from the dead users, they identify some flaws in the game's servers' RNGs, and get better at breaking the keys, so now they can semi-regularly get into living player data, and that's how they single across the beta testers and the guy running the game and his notes, and that's how they start passing messages to users through glitched item names in the player inventory. You have 999 DROP THIS ITEM IF YOU CAN READ THIS.
 
->>>> **u/rational_rob** [+1] *
+>>>> **u/rational_rob** [+1]  (a day later)
 >>>> 
 >>>> Sounds like more than a two year effort and a lot for 10,000 people, but it's definitely a step, in terms of problem solving. The real problem with this is that you're dealing with a competent AI at the other end of the game - you're dealing with the encryption of a potential superintellignece, which is bound to be harder than normal encryption. 
->>>> The AI in SAO are implied to be the first, and if the newest arc in the light novels is to be believed, the government hasn't reached the same amount of progress even two years after the start of SAO.
 >>>> 
+>>>> The AI in SAO are implied to be the first, and if the newest arc in the light novels is to be believed, the government hasn't reached the same amount of progress even two years after the start of SAO.
 
->>>>> **u/boomfarmer** [+1]  *Trying to be helpful**
+>>>>> **u/boomfarmer** [+1]  *Trying to be helpful* (a day later)
 >>>>> 
 >>>>> So now we ask ourselves the question: Would the AI implement a better encryption technology?
+>>>>> 
 >>>>> To help us answer that question, let us ask:
+>>>>> 
 >>>>> - Why would the AI implement a better encryption technology?
 >>>>> - What would it benefit the AI?
 >>>>> - What would be the side effects of implementing better encryption in the Nerve Gear connection?
 >>>>> - What are the AIs' goals?
->>>>> 
 
 ---
 

@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/zombieking26** [+2] *
+> **u/zombieking26** [+2]  (an hour later)
 > 
 > Huh. I really enjoyed your writing style, and the mc seems pretty interesting. I'm definitely interested in seeing where this goes.
-> 
 
-> **u/Nimelennar** [+2] *
+> **u/Nimelennar** [+2]  (5 hours later)
 > 
 > A good start.  I like the talking rat as a hook to catch the reader's attention.
-> I look forward to more of this.
 > 
+> I look forward to more of this.
 
 ---
 

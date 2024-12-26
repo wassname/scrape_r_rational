@@ -2,7 +2,7 @@
 
 * Author: u/makoConstruct  *Praises of Nayru, FLI Worldbuilding**
 * URL: https://www.reddit.com/r/rational/comments/47nehh/dmeta_realtime_community_chat_the_rationalfic/
-* Score: 3
+* Score: 2
 
 * Created: 2016-02-26T04:28:44
 
@@ -22,31 +22,27 @@ EDIT: The bridge is open. You can now engage with the slack through http://webch
 
 ### Comments:
 
-> **u/Gilfoyle-** [+2] *
+> **u/Gilfoyle-** [+2]  (2 days later)
 > 
 > Owner of #reddit-rational, greenlight is a go. Just shoot me a PM if need be.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (13 hours later)
 > 
 > Well, can we PM you here too?
-> 
 
->> **u/makoConstruct** [+1]  *Praises of Nayru, FLI Worldbuilding**
+>> **u/makoConstruct** [+1]  *Praises of Nayru, FLI Worldbuilding* (15 hours later)
 >> 
 >> Sure
->> 
 
-> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (18 hours later)
 > 
 > > Those wishing for an invite to the slack channel can message http://lesswrong.com/user/ete/ on lesswrong
-> Apparently not, they said I should be messaging Elo instead. (I'm just gonna message you here.)
 > 
+> Apparently not, they said I should be messaging Elo instead. (I'm just gonna message you here.)
 
->> **u/makoConstruct** [+1]  *Praises of Nayru, FLI Worldbuilding**
+>> **u/makoConstruct** [+1]  *Praises of Nayru, FLI Worldbuilding* (19 hours later)
 >> 
 >> Ah, correct, apologies, I have no idea how "ete" found its way into my clipboard o_o
->> 
 
 ---
 

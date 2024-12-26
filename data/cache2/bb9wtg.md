@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/ashinator92** [+4] *
+> **u/ashinator92** [+6]  (41 minutes later)
 > 
 > Since dietrich is a merchant, I'm assuming his command does something along the lines of "people can't break deals they make with me". It might also compel him to make fair deals, since that would explain his positive reputation, but that's a bit of a crapshoot. 
-> Overall I don't mind these chapters, but I wish this one had ended at the academy gates rather than with random dialogue. 
-> Gj author!!
 > 
+> Overall I don't mind these chapters, but I wish this one had ended at the academy gates rather than with random dialogue. 
+> 
+> Gj author!!
 
->> **u/Sonderjye** [+1] *
+>> **u/Sonderjye** [+1]  (4 days later)
 >> 
 >> I'm fine with not making it to the academy since that curretnly is the big payoff and preparations are warranted. I do wish that Learn would learn what knowledge/skills he would need to get accepted in the academy but I get that he wants to learn about the dwarves to be a good guest and that he due to his upbringing might not plan that far ahead.
->> 
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (17 minutes later)
 > 
 > >What about the people who don’t get powers? People who go through traumatic events and don’t trigger for some reason? The people who desperately want it, who would do anything to get it?
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/xingxingz *
 * URL: https://www.fanfiction.net/s/11127426/1/Revival
-* Score: 3
+* Score: 1
 
 * Created: 2015-04-18T01:24:22
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (58 minutes later)
 > 
 > Woah. That was published/updated very quickly. Did you/the author write it all before posting? Either way, cool!
-> 
 
->> **u/xingxingz** [+2] *
+>> **u/xingxingz** [+2]  (an hour later)
 >> 
 >> I have published this for a while, and I update it at a rate of two days/chapter.
->> 
 
 ---
 

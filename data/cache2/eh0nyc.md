@@ -2,7 +2,7 @@
 
 * Author: u/endlessmoth *
 * URL: https://starsendless.wordpress.com/
-* Score: 8
+* Score: 9
 
 * Created: 2019-12-29T03:12:54
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Sonderjye** [+5] *
+> **u/Sonderjye** [+5]  (a day later)
 > 
 > I started this but struggled to get through the first chapter due to being utterly confused and not sure what was happening.
-> 
 
->> **u/endlessmoth** [+1] *
+>> **u/endlessmoth** [+1]  (a day later)
 >> 
 >> Some people have reported the glossary helps understanding.
->> 
 
 ---
 

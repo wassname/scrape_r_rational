@@ -2,7 +2,7 @@
 
 * Author: u/abcd_z *
 * URL: https://www.reddit.com/r/rational/comments/iw5yy7/zorian_gets_a_muffin_or_using_gpt2_autocorrect_to/
-* Score: 57
+* Score: 56
 
 * Created: 2020-09-20T02:47:52
 
@@ -60,31 +60,26 @@ Zorian glared at Zach.
 
 ### Comments:
 
-> **u/fish312** [+14]  *humanifest destiny**
+> **u/fish312** [+15]  *humanifest destiny* (7 hours later)
 > 
 > Slightly off topic but once GPT-3 becomes pay-to-use next month (and it is *very* expensive) it'll really put a lid on this kind of fun. Something like AiDungeon just won't be commercially viable anymore.
-> 
 
->> **u/Kuratius** [+8] *
+>> **u/Kuratius** [+9]  (7 hours later)
 >> 
 >> Um, the version of AiDungeon that requires GPT-3 is already pay-to-use. The one that uses gpt-2 is free, but you will be able to run that on your own with a GTX 3070 Ti anyways. Or you can run it on your cpu now, if you don't mind waiting 2-3 minutes for a prediction.
 >> Edit: Seems like they changed the free version from gpt-2 to a smaller size gpt-3 version. Hmm.
->> 
 
->> **u/EpicDaNoob** [+1] *
+>> **u/EpicDaNoob** [+1]  (a day later)
 >> 
 >> Hopefully it will eventually be possible to run something as good as GPT-3 at home.
->> 
 
->>> **u/fish312** [+1]  *humanifest destiny**
+>>> **u/fish312** [+1]  *humanifest destiny* (a day later)
 >>> 
 >>> We can only hope. It's leagues ahead of GPT-2 in every way
->>> 
 
-> **u/Ratseye** [+3] *
+> **u/Ratseye** [+3]  (3 hours later)
 > 
 > lol really enjoyed this
-> 
 
 ---
 

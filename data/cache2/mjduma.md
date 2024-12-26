@@ -18,83 +18,71 @@ This one is special for Easter! 🐣⛪✝️🙏
 
 ### Comments:
 
-> **u/Nimelennar** [+9] *
+> **u/Nimelennar** [+10]  (2 hours later)
 > 
 > Hmmm.
-> U-V is missing.  Does "Valley of the Shadow of Death" have a meaning in Truman's world that it doesn't in ours?
-> It's also interesting that Meryl and Marlon, his canonical wife and best friend from the movie, don't make it past eleven in this world.  It makes sense that expecting kids to lie to their "best friend" for years on end might be traumatic for them.
 > 
+> U-V is missing.  Does "Valley of the Shadow of Death" have a meaning in Truman's world that it doesn't in ours?
+> 
+> It's also interesting that Meryl and Marlon, his canonical wife and best friend from the movie, don't make it past eleven in this world.  It makes sense that expecting kids to lie to their "best friend" for years on end might be traumatic for them.
 
->> **u/dankuck** [+4]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+5]  *Good Afternoon, Good Evening, and Goodnight* (3 hours later)
 >> 
 >> Yeah, the secrets they keep probably have a bigger impact on them than they even realize
->> 
 
-> **u/Ready-Dragonfly925** [+8] *
+> **u/Ready-Dragonfly925** [+9]  (5 hours later)
 > 
 > Making the “good morning, good afternoon, goodnight” line originate from his childhood friend is sweet
-> 
 
->> **u/dankuck** [+7]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+7]  *Good Afternoon, Good Evening, and Goodnight* (5 hours later)
 >> 
 >> He's starting to break my heart. I had expected this to be funnier before I started writing chapter 1
->> 
 
-> **u/None** [+6] *
+> **u/None** [+4]  (18 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/dankuck** [+4]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+4]  *Good Afternoon, Good Evening, and Goodnight* (3 hours later)
 >> 
 >> Thank you! This keeps me going
->> 
 
-> **u/wren42** [+3] *
+> **u/wren42** [+3]  (5 days later)
 > 
 > damn this is starting to feel downright apocalyptic.  mass climate change and something else outside the dome that is outright scary...world governments collaborating on the truman project makes it a lot more than entertainment like cannon.  some interesting threads to follow
-> 
 
->> **u/dankuck** [+2]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+2]  *Good Afternoon, Good Evening, and Goodnight* (5 days later)
 >> 
 >> Thank you for this enormous compliment
->> 
 
-> **u/covert_operator100** [+2] *
+> **u/covert_operator100** [+2]  (6 days later)
 > 
 > Oooh, I just read the first chapter, and I got chills. But I was smiling. A weird feeling.
-> 
 
-> **u/sje46** [+2] *
+> **u/sje46** [+2]  (3 months later)
 > 
 > These kids are really cute.  Shame that their friendships were forcibly ended.  
-> It's interesting that Marlon gets his own encyclopedia entry.  I'm guessing he becomes something of an advocate against the conditions Truman is put in.
 > 
+> It's interesting that Marlon gets his own encyclopedia entry.  I'm guessing he becomes something of an advocate against the conditions Truman is put in.
 
-> **u/VorpalAuroch** [+0]  *Life before Death**
+> **u/VorpalAuroch** [+0]  *Life before Death* (a day later)
 > 
 > I want to like the concept but the writing is just too stilted.
-> 
 
->> **u/dankuck** [+4]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+4]  *Good Afternoon, Good Evening, and Goodnight* (a day later)
 >> 
 >> Actually, could you tell me which part you were reading when you first started to notice it was stilted? Beginning of chapter 1?
->> 
 
->>> **u/VorpalAuroch** [+3]  *Life before Death**
+>>> **u/VorpalAuroch** [+3]  *Life before Death* (3 days later)
 >>> 
 >>> The first three chapters. It was stilted from the beginning but that was how far I read before giving up.
->>> 
 
->> **u/dankuck** [+2]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+3]  *Good Afternoon, Good Evening, and Goodnight* (a day later)
 >> 
 >> Thank you. I can Google based on that feedback
->> 
 
-> **u/rictic** [+1] *
+> **u/rictic** [+1]  (a month later)
 > 
 > I'm really enjoying this fic, thank you for writing it :)
-> 
 
 ---
 

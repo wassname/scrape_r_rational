@@ -32,40 +32,39 @@ Thanks for the help!
 
 ### Comments:
 
-> **u/Laptopispy** [+11] *
+> **u/Laptopispy** [+11]  (an hour later)
 > 
 > I vaguely remember reading a book like that. I think it was written by the same author as Fablehaven? 
-> Looking at his website, I'm pretty sure you're looking for Beyonders.
 > 
+> Looking at his website, I'm pretty sure you're looking for Beyonders.
 
->> **u/Firelash360** [+3] *
+>> **u/Firelash360** [+3]  (an hour later)
 >> 
 >> > Beyonders
->> That's it thank you!
 >> 
+>> That's it thank you!
 
-> **u/None** [+9] *
+> **u/None** [+9]  (5 hours later)
 > 
 > I enjoyed Beyonders. I disagree that the actions the villain took were rational, they were more pseudo-rational where they worked because the author wanted them to work, not because they were actually good ideas.
-> 1 and 2 would just inspire more rebellion. Creating a luxurious hotel would make more people want to rebel to get a shot at it, and letting the previous hero live also would just create more dissidence.
-> 3. was actually a pretty good idea though.
 > 
+> 1 and 2 would just inspire more rebellion. Creating a luxurious hotel would make more people want to rebel to get a shot at it, and letting the previous hero live also would just create more dissidence.
+> 
+> 3. was actually a pretty good idea though.
 
->> **u/TBestIG** [+2]  *Every second of quibbling is another dead baby**
+>> **u/TBestIG** [+2]  *Every second of quibbling is another dead baby* (8 hours later)
 >> 
 >> >Creating a luxurious hotel would make more people want to rebel to get a shot at it
->> He still had normal dictator-y law enforcement for the vast majority of people, only his greatest enemies got an invitation.
 >> 
+>> He still had normal dictator-y law enforcement for the vast majority of people, only his greatest enemies got an invitation.
 
-> **u/iftttAcct2** [+3] *
+> **u/iftttAcct2** [+4]  (2 hours later)
 > 
 > It's interesting the things we remember about books. I read the at least two of these but don't really recall these details. Other things stand out to me, instead
-> 
 
-> **u/zombieking26** [+1] *
+> **u/zombieking26** [+1]  (5 hours later)
 > 
 > I love this book! Its a very creative fanstasy world, and least compared to many YA novels.
-> 
 
 ---
 

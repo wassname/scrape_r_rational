@@ -2,7 +2,7 @@
 
 * Author: u/Green0Photon  *Student in Cyoria, Minmay, and Ranvar**
 * URL: http://unsongbook.com/chapter-19-the-form-of-the-angelic-land/
-* Score: 45
+* Score: 43
 
 * Created: 2016-05-08T22:00:46
 
@@ -12,171 +12,180 @@
 
 ### Comments:
 
-> **u/ulyssessword** [+17] *
+> **u/ulyssessword** [+18]  (57 minutes later)
 > 
 > >But Dee very tolerantly decided that if the spirits decided to speak to him through a con man, who was he to question their decisions?
-> Best part of the chapter, for me.
-> ----
-> The Vanishing Name chose the situation as "Inside a secure government facility, and about to be found by a woman".
-> The second phone call in *The Cracks in the Sky* was in Enochian, which is why it sounded like 16th century capital cities.
-> She says "Call me Jane," not "My name is Jane."  
-> The numbers for the location of the book translate as follows:  Volume 112 = EFG, Shelf 2270 = BCDEGHL, level 36 = CF.  This doesn't look significant to me, but it might be in Enochian.
 > 
+> Best part of the chapter, for me.
+> 
+> ----
+> 
+> The Vanishing Name chose the situation as "Inside a secure government facility, and about to be found by a woman".
+> 
+> The second phone call in *The Cracks in the Sky* was in Enochian, which is why it sounded like 16th century capital cities.
+> 
+> She says "Call me Jane," not "My name is Jane."  
+> 
+> The numbers for the location of the book translate as follows:  Volume 112 = EFG, Shelf 2270 = BCDEGHL, level 36 = CF.  This doesn't look significant to me, but it might be in Enochian.
 
->> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> **u/alexanderwales** [+5]  *Time flies like an arrow* (an hour later)
 >> 
 >> Volume 112 = EFG = ged-??-pa
->> Shelf 2270 = BCDEGHL = un-or-gal-ged-pa-drux-na
->> Level 36 = CF = or-??
->> From [this clearly reputable defunct Geocities site](http://www.oocities.org/peripsol/Enoch/5EnochianLanguage.htm):
->> > Their names and phonetic pronunciations, as written-right to left, are: Pa (B), Veh (C/K), Ged (G/J), Gal (D), Or (F), Un (A), Graph (E), Tal (M), Gon (I/Y), Na (H), Ur (L), Mals (P), Ger (Q), Drux (N), Pal (X), Med (O), Don (R), Ceph (Z), Van (U/V), Fam (S), Gisg (T).
->> So ... 2270 = AFDGBNH ... which doesn't seem terribly significant on its own, even if reversed (since Enochian is right to left). It's also entirely possible that a different form of Enochian is being used.
 >> 
+>> Shelf 2270 = BCDEGHL = un-or-gal-ged-pa-drux-na
+>> 
+>> Level 36 = CF = or-??
+>> 
+>> From [this clearly reputable defunct Geocities site](http://www.oocities.org/peripsol/Enoch/5EnochianLanguage.htm):
+>> 
+>> > Their names and phonetic pronunciations, as written-right to left, are: Pa (B), Veh (C/K), Ged (G/J), Gal (D), Or (F), Un (A), Graph (E), Tal (M), Gon (I/Y), Na (H), Ur (L), Mals (P), Ger (Q), Drux (N), Pal (X), Med (O), Don (R), Ceph (Z), Van (U/V), Fam (S), Gisg (T).
+>> 
+>> So ... 2270 = AFDGBNH ... which doesn't seem terribly significant on its own, even if reversed (since Enochian is right to left). It's also entirely possible that a different form of Enochian is being used.
 
->> **u/ZeroNihilist** [+3] *
+>> **u/ZeroNihilist** [+3]  (11 hours later)
 >> 
 >> 112 = 7x2^4
->> 7 I think means "godly". I don't remember any meanings for multiplicative combinations of 4 2s (though 2 itself might have been "evil"?).
->> 2270 = 10x227
->> I think 227 is prime, so that probably has no kabbalistic meaning (unless it's "evil evil godly").
->> 36 = 3x12
->> 12 is the number of the tribes of Israel. 3 is probably something important.
->> All in all, doesn't seem terribly likely to be a factorisation thing. That's about the limit of my ideas.
 >> 
+>> 7 I think means "godly". I don't remember any meanings for multiplicative combinations of 4 2s (though 2 itself might have been "evil"?).
+>> 
+>> 2270 = 10x227
+>> 
+>> I think 227 is prime, so that probably has no kabbalistic meaning (unless it's "evil evil godly").
+>> 
+>> 36 = 3x12
+>> 
+>> 12 is the number of the tribes of Israel. 3 is probably something important.
+>> 
+>> All in all, doesn't seem terribly likely to be a factorisation thing. That's about the limit of my ideas.
 
-> **u/Frommerman** [+7] *
+> **u/Frommerman** [+6]  (an hour later)
 > 
 > So is "Jane" Sohu? Or did she steal a skyak from an innocent 8 - year-old girl? Or is the one of the Cometspawn and get it loaned to her by Uriel's BFF?
-> 
 
->> **u/wtfbbc** [+9] *
+>> **u/wtfbbc** [+10]  (4 hours later)
 >> 
 >> I have no idea, but uniting the Sohu/Comet King storyline with Aaron's is the best idea
->> 
 
->> **u/NeverSitFellowWombat** [+6] *
+>> **u/NeverSitFellowWombat** [+8]  (8 hours later)
 >> 
 >> She got up there using a flying kayak. Now, that could be a different flying kayak, but nothing is a coincidence. Also, she's really fast, and is capable of memorizing Names after just two repetitions.
->> She also said "Call me Jane" rather than "My name is Jane", which means it's not her name (because of narrative reasons), but she prefers not to lie (probably for religious reasons, or because it's a rational fiction trope to never lie unless the reader knows it's a lie), and her name is important in some way (could be because religious reasons of names having power, because she's someone he would know, or just because while in a government monitored facility you shouldn't use your real name anyways).
->> Possible reasons against: she's not 8, and the daughter of the Comet King could probably have easier access without having to break in.
->> The last time we saw Sohu being 8 was in 2001, so if she started aging again right after that she would be around 24, so the right age to be Jane. I guess we'll have more information to figure out if it is Sohu the next time we see either Jane or Sohu.
->> If she's not Sohu, I'm not sure who she is. That's definitely the greatest possibility, at the moment.
 >> 
+>> She also said "Call me Jane" rather than "My name is Jane", which means it's not her name (because of narrative reasons), but she prefers not to lie (probably for religious reasons, or because it's a rational fiction trope to never lie unless the reader knows it's a lie), and her name is important in some way (could be because religious reasons of names having power, because she's someone he would know, or just because while in a government monitored facility you shouldn't use your real name anyways).
+>> 
+>> Possible reasons against: she's not 8, and the daughter of the Comet King could probably have easier access without having to break in.
+>> 
+>> The last time we saw Sohu being 8 was in 2001, so if she started aging again right after that she would be around 24, so the right age to be Jane. I guess we'll have more information to figure out if it is Sohu the next time we see either Jane or Sohu.
+>> 
+>> If she's not Sohu, I'm not sure who she is. That's definitely the greatest possibility, at the moment.
 
->>> **u/Frommerman** [+4] *
+>>> **u/Frommerman** [+4]  (8 hours later)
 >>> 
 >>> I'm thinking it's gotta be the same skyak for narrative reasons. The answer to the question "How do you break into a joint government/angelic facility protected from all comers on pain of death?" is a fantastic time to introduce some new and powerful magic unknown or unusable to other actors. The fact that something already known to us (if not to Aaron) was used means that it is important to the story that we be wondering what happened to Sohu (and her skyak).
->>> 
 
->> **u/LiteralHeadCannon** [+6] *
+>> **u/LiteralHeadCannon** [+6]  (6 hours later)
 >> 
 >> Jane and Sohu have the same simplified gematria value of thirty, though not the same traditional gematria value, which is the kind taught in this chapter.
->> 
 
-> **u/Paimon** [+3] *
+> **u/Paimon** [+3]  (4 hours later)
 > 
 > I found this story on Tumblr rather than here. And now I see the next update here. I'm not sure if that's the thing where you see a thing in multiple places all at once, or if I'm just really unobservant.
-> 
 
->> **u/VorpalAuroch** [+10]  *Life before Death**
+>> **u/VorpalAuroch** [+11]  *Life before Death* (9 hours later)
 >> 
 >> You must now find every new chapter through a different method, for kabbalistic reasons. RSS and googling the work ought to count, after that you're on your own.
->> 
 
->> **u/lawnmowerlatte** [+7] *
+>> **u/lawnmowerlatte** [+7]  (5 hours later)
 >> 
 >> Nothing is ever a coincidence.
->> 
 
->>> **u/Paimon** [+3] *
+>>> **u/Paimon** [+3]  (5 hours later)
 >>> 
 >>> Of course, how foolish of me to forget.
->>> 
 
->>>> **u/PeridexisErrant** [+18]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+16]  *put aside fear for courage, and death for life* (5 hours later)
 >>>> 
 >>>> You also encountered the Baader-Meinhof Phenomenon, which is named after a German terrorist group in the 1990s.  Aaron Smith-Teller has `aa` and a `-` in his name, and was also born in the 1990s.
->>>> The Baader-Meinhof Phenomenon asserts that noticing things repeatedly is not a coincidence, as does Aaron Smith-Teller.
->>>> This is not a coincidence - they both agree on that - which is also not a coincidence.
->>>> Nothing is ever a coincidence, humans just don't notice most of the time.
 >>>> 
+>>>> The Baader-Meinhof Phenomenon asserts that noticing things repeatedly is not a coincidence, as does Aaron Smith-Teller.
+>>>> 
+>>>> This is not a coincidence - they both agree on that - which is also not a coincidence.
+>>>> 
+>>>> Nothing is ever a coincidence, humans just don't notice most of the time.
 
-> **u/MugaSofer** [+2] *
+> **u/MugaSofer** [+2]  (2 days later)
 > 
 > I really really expected this chapter to be about Nick Land.
-> 
 
-> **u/trekie140** [+0] *
+> **u/trekie140** [-1]  (23 hours later)
 > 
 > I would've posted this last week but by the time I read Chapter 18 nobody would have seen this comment, so now I'm going to say that I think the scene with Moses is the worst part of this story so far. I know the entire setting is weird biblical and programming in-jokes, but I just didn't like the idea that the events of Exodus happened basically by accident. I didn't find it funny, thought Uriel writing the Ten Commandments himself kind of undermines the premise about the Old Testament and Kabbala being true, and found it a bit disrespectful to say the systemic homophobia in Judaism was the product of Moses misinterpreting Uriel's instructions, which were themselves products of his incompetence at system administration and understanding humans.
-> 
 
->> **u/space_fountain** [+3] *
+>> **u/space_fountain** [+5]  (a day later)
 >> 
 >> I don't know. If you were looking for a book that agreed well with the normal Jewish interpretation of religion I think there were already plenty that disagreed with it.
->> This is a work of fiction. I'll venture a guess that most of the people one here aren't religious, but even if you are I think it needs viewed as such. This isn't Narnia and was never meant to be.
 >> 
+>> This is a work of fiction. I'll venture a guess that most of the people one here aren't religious, but even if you are I think it needs viewed as such. This isn't Narnia and was never meant to be.
 
->>> **u/trekie140** [+5] *
+>>> **u/trekie140** [+5]  (a day later)
 >>> 
 >>> It doesn't bother me because of religion, it bothers me because it breaks from what I thought the story was going for. I thought it would be some weird "what if the Torah was true" kind of thing, only for that scene to state the events of the Torah did not occur as described and came about almost as an accident. 
->>> So Kabbalah and the Talmud are true, angels and demons are real, and the universe is built out a programming language based on Hebrew, so why wouldn't the Jews be God's people? They really misinterpreted all the weird stuff that happened to them as God's plan when it was just Uriel bumbling through his job? 
->>> If there's no plan anyone was following, then how is it possible that "nothing is ever a coincidence"? It sounds pretty coincidental to me that the Jews would just happen to know about the true nature of the universe without that being part of the plan. Why would Uriel even appear to them if they he didn't have any instruction to do so?
 >>> 
+>>> So Kabbalah and the Talmud are true, angels and demons are real, and the universe is built out a programming language based on Hebrew, so why wouldn't the Jews be God's people? They really misinterpreted all the weird stuff that happened to them as God's plan when it was just Uriel bumbling through his job? 
+>>> 
+>>> If there's no plan anyone was following, then how is it possible that "nothing is ever a coincidence"? It sounds pretty coincidental to me that the Jews would just happen to know about the true nature of the universe without that being part of the plan. Why would Uriel even appear to them if they he didn't have any instruction to do so?
 
->>>> **u/ScottAlexander** [+10] *
+>>>> **u/ScottAlexander** [+10]  (2 days later)
 >>>> 
 >>>> I think that a kabbalist in story would say all of this was happening at multiple levels.
->>>> For example, the Babylonians destroyed Jerusalem because God used them as an instrument of His vengeance, but the Babylonians also destroyed Jerusalem because of normal iron age Middle Eastern politics. If you asked the King of Babylon, he would certainly have normal iron-age-king reasons for invading Jerusalem. But by "coincidence", those happened to accord with the Divine Plan anyway.
->>>> In the same way, Uriel had his own reasons for giving the Commandments, but the Commandments correspond to higher-level aspects of the Divine Plan - there are Ten Commandments because there are ten sephirot and ten fingers on the hand and all of the other things mentioned in Chapter 9, *but also* because Uriel had ten things he thought it was really important to have Moses do.
->>>> (in much the same way the organization is called "UNSONG" because that is the perfectly natural acronym for a United Nations subcommittee on names of God, but also because of kabbalistic implications of singers and song and silence and so on as mentioned in Chapter 5)
 >>>> 
+>>>> For example, the Babylonians destroyed Jerusalem because God used them as an instrument of His vengeance, but the Babylonians also destroyed Jerusalem because of normal iron age Middle Eastern politics. If you asked the King of Babylon, he would certainly have normal iron-age-king reasons for invading Jerusalem. But by "coincidence", those happened to accord with the Divine Plan anyway.
+>>>> 
+>>>> In the same way, Uriel had his own reasons for giving the Commandments, but the Commandments correspond to higher-level aspects of the Divine Plan - there are Ten Commandments because there are ten sephirot and ten fingers on the hand and all of the other things mentioned in Chapter 9, *but also* because Uriel had ten things he thought it was really important to have Moses do.
+>>>> 
+>>>> (in much the same way the organization is called "UNSONG" because that is the perfectly natural acronym for a United Nations subcommittee on names of God, but also because of kabbalistic implications of singers and song and silence and so on as mentioned in Chapter 5)
 
->>>>> **u/trekie140** [+2] *
+>>>>> **u/trekie140** [+2]  (2 days later)
 >>>>> 
 >>>>> I guess that could be what the author is going for, but it still doesn't explain why Uriel decided to only appear to the Israelites. Even if Moses just happened to be expecting divine guidance at that moment from a creature resembling a servant of his God, why not tell everyone to follow the Commandments to make his job easier?
->>>>> 
 
->>>>>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>>>>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (3 days later)
 >>>>>> 
 >>>>>> You're speaking to the author, FYI.
->>>>>> 
 
->>>>>>> **u/psychothumbs** [+1] *
+>>>>>>> **u/psychothumbs** [+1]  (7 days later)
 >>>>>>> 
 >>>>>>> This response is so great that I want to write more just on the off-chance it sets me up to be in this same situation where I'd get to reveal I was the author of something to someone in the middle of a discussion of the work.
->>>>>>> 
 
->>>>> **u/SoundLogic2236** [+1] *
+>>>>> **u/SoundLogic2236** [+1]  (2 days later)
 >>>>> 
 >>>>> When I DM similar things happen-events surround the players, and there is always a in-universe cause, but the reason the world as a whole has that structure is because that is the DND 'blueprint'. 
 >>>>> Moments have a tendency to follow from each other, but the structure as a whole can only be explained by looking from the outside.
->>>>> 
 
->>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (2 days later)
 >>>> 
 >>>> I am like 80% certain that "nothing is ever a coincidence" is not actually true in-universe and Aaron spends most of his time finding connections that actually *are* coincidence and don't mean anything. Especially since a lot of the "coincidences" that he points out exist in the real world as well.
->>>> 
 
->>>> **u/MugaSofer** [+2] *
+>>>> **u/MugaSofer** [+2]  (2 days later)
 >>>> 
 >>>> Uriel isn't God. A divine plan would not be Uriel's. 
->>>> In fact,  Uriel doesn't believe in a divine plan. I've seen it suggested that he may be a fallen as angel - he knows about lying and compromise, after all.
 >>>> 
+>>>> In fact,  Uriel doesn't believe in a divine plan. I've seen it suggested that he may be a fallen as angel - he knows about lying and compromise, after all.
 
->>>>> **u/SoundLogic2236** [+3] *
+>>>>> **u/SoundLogic2236** [+3]  (2 days later)
 >>>>> 
 >>>>> It is unclear how archangels and angels relate-there are distinct similarities, and the angels seem to know the archangels, but in some ways they seem rather like a completely different species. 
->>>>> If an (non-arch)angel looked at the world the way Uriel did it seems like they would definitely be fallen. 
->>>>> But it isn't clear to me that you can generalize that to archangels-the size, mindstate, and abilities all seem radically different-they both exist in the same 'world' and similar origin, but a lot of the overlap between Uriel and angels would also apply to comparing Humans and Turtles-both have a shared origin and similar underlying biology. Uriel and angels are more similar to be sure-both are clearly humanish intelligences, but I'm not convinced they are really closely related.
 >>>>> 
+>>>>> If an (non-arch)angel looked at the world the way Uriel did it seems like they would definitely be fallen. 
+>>>>> 
+>>>>> But it isn't clear to me that you can generalize that to archangels-the size, mindstate, and abilities all seem radically different-they both exist in the same 'world' and similar origin, but a lot of the overlap between Uriel and angels would also apply to comparing Humans and Turtles-both have a shared origin and similar underlying biology. Uriel and angels are more similar to be sure-both are clearly humanish intelligences, but I'm not convinced they are really closely related.
 
->>>> **u/Frommerman** [+1] *
+>>>> **u/Frommerman** [+1]  (2 days later)
 >>>> 
 >>>> Uriel appeared because he needed to reduce system requirements somehow, and here was a group of folks waiting for divine help, who were likely to do anything he told them to do. Convenient!
->>>> Also, God doesn't do anything particularly...god-ey in the OT. Sure, there's some minor miracles, and burning bushes, and battles pushed one way or the other, but are we really to expect that an omnipotent being could only do those things? I expect an omnipotent deity to rewrite reality at his whim, not glorified party tricks. No, all of that is much more consistent with a frazzled cosmic sysop with limited resources trying to help the folks who know how to comply with his system requirements.
->>>> And who will also stop *boiling goats in mother's milk, dammit I have to reset Southeast Asia again.*
 >>>> 
+>>>> Also, God doesn't do anything particularly...god-ey in the OT. Sure, there's some minor miracles, and burning bushes, and battles pushed one way or the other, but are we really to expect that an omnipotent being could only do those things? I expect an omnipotent deity to rewrite reality at his whim, not glorified party tricks. No, all of that is much more consistent with a frazzled cosmic sysop with limited resources trying to help the folks who know how to comply with his system requirements.
+>>>> 
+>>>> And who will also stop *boiling goats in mother's milk, dammit I have to reset Southeast Asia again.*
 
 ---
 

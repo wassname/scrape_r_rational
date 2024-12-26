@@ -2,7 +2,7 @@
 
 * Author: u/DocFuture *
 * URL: http://docfuture.tumblr.com/post/183498559066/interlude-the-book
-* Score: 17
+* Score: 16
 
 * Created: 2019-03-16T18:01:32
 
@@ -12,27 +12,24 @@
 
 ### Comments:
 
-> **u/DocFuture** [+4] *
+> **u/DocFuture** [+3]  (6 minutes later)
 > 
 > A little bit of Flicker's background that I've wanted to find the right place to include for years. Inspired by the H. Beam Piper story "Omnilingual", which affected me strongly when I was quite young.
+> 
 > Also, for those that are interested (I didn't put up a separate post because it's not really rational content), I did a short bit on character appearances.  If you are curious what Flicker, Stella, and Yiskah look like in my head when I'm writing them, you can get an idea here:
 > http://docfuture.tumblr.com/post/182880503096/appearances
-> 
 
-> **u/dabmg10** [+2] *
+> **u/dabmg10** [+2]  (a day later)
 > 
 > pretty cool concept of self-development of language using scientific text. Just read through  "Omnilingual", and it seems that the key to it is pattern recognition across multiple sources. AI could be used to identify such patterns of writing. From a certain perspective, this discovery of the world seems to be what a lot of AI research is about, with computer vision for example. The computer has no idea what the array of colours of photos means it must first identify patterns from the noise.
-> 
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (2 days later)
 > 
 > I'm glad to see more from you! Flicker is, as always, adorable.
-> 
 
-> **u/HeartwarmingLies** [+1] *
+> **u/HeartwarmingLies** [+1]  (2 days later)
 > 
 > Love this story but don't really like reading it at this pace so I'll probably just binge it again once you finish the current book.
-> 
 
 ---
 

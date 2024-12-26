@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/7og8ik/biweekly_challenge_forbidden_research/
-* Score: 18
+* Score: 19
 
 * Created: 2018-01-06T02:00:11
 
@@ -50,86 +50,71 @@ Next time, the challenge theme will be **Pioneer**. Write a story about someone 
 
 ### Comments:
 
-> **u/None** [+38] *
+> **u/None** [+36]  (6 hours later)
 > 
 > [Forbidden Theology](https://docs.google.com/document/d/1PwVxST3SzdL4yi-X34AMWqmzm5LR2NHvUMnGsg7XLGI/edit?usp=sharing) (1728 words)
-> 
 
->> **u/rhaps0dy4** [+2] *
+>> **u/rhaps0dy4** [+2]  (a day later)
 >> 
 >> I may be thick, but I don't get why [at the end,](#s "God's threats ring hollow. God can still strike down the new abbott at any moment, like he did with the old one.")
->> 
 
->>> **u/russxbox** [+12] *
+>>> **u/russxbox** [+11]  (a day later)
 >>> 
 >>> [I think ](#s "the point is that if God were able to strike him down, he would have been dead before he completed the final train of thought. His realizing this is what causes the threats to ring hollow, since it becomes evident to the new abbot that God has no ability to back up anything he might say and the old abbot's death was just natural causes at a coincidental time.")
->>> 
 
->>> **u/None** [+8] *
+>>> **u/None** [+8]  (3 days later)
 >>> 
 >>> u/russxbox got the gist of it.
->>> [Additionally,](#s " consider that this is the first time the abbot's faith and his curiosity are in opposition. Every time he questioned authority, he was referred to an authority beyond that, and now that he stands before God, there is no further authority. If God fails to explain something, that's it. As faith and curiosity are in opposition, one must now fail; this is what the abbot means when he thinks that he feels something breaking within him. He doubts God; not His existence, but His divinity.")
 >>> 
+>>> [Additionally,](#s " consider that this is the first time the abbot's faith and his curiosity are in opposition. Every time he questioned authority, he was referred to an authority beyond that, and now that he stands before God, there is no further authority. If God fails to explain something, that's it. As faith and curiosity are in opposition, one must now fail; this is what the abbot means when he thinks that he feels something breaking within him. He doubts God; not His existence, but His divinity.")
 
->>>> **u/rhaps0dy4** [+3] *
+>>>> **u/rhaps0dy4** [+3]  (6 days later)
 >>>> 
 >>>> [Yet,](#s "God may fail to explain something (as is this the case) simply because they did not wish to do so. Thus God's failure to explain does not necessarily imply their lack of divinity.")
->>>> 
 
->>>>> **u/None** [+8] *
+>>>>> **u/None** [+6]  (6 days later)
 >>>>> 
 >>>>> [You're right.](#s "There hasn't been an absolute proof of anything in this story, including divinity. God issuing hollow threats may be weird, but maybe He just works in mysterious ways. What changes is not that the abbot gains an absolute proof of anything, just that he is able to observe flaws in God for the first time. They may just seem like flaws, but nonetheless, he is able to observe them, and he finds that he cannot stop himself from thinking about them (another flaw in God's creation, if within himself). Faced with God, he cannot help breaking His laws, and his faith can't bear that.")
->>>>> 
 
->> **u/MultipartiteMind** [+2] *
+>> **u/MultipartiteMind** [+2]  (a month later)
 >> 
 >> While I prefer the official stance [](#s "(it can't mind-read or kill)") (and incidentally I liked a lot the [](#s "green text on a black screen")), I was amused by the alternative interpretation that [](#s "it *could* kill him (through an implant or similar?), but just didn't have omniscience, in which case he needs to be very very careful with how he reacts to those threats in case of a purge...").
->> 
 
-> **u/None** [+25] *
+> **u/None** [+26]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/DangerouslyUnstable** [+4] *
+>> **u/DangerouslyUnstable** [+4]  (a day later)
 >> 
 >> I have to admit I don't get the ending. [Spoiler] (#s 'I assume the AI is purposefully killing them but why?')
->> 
 
->>> **u/None** [+8] *
+>>> **u/None** [+8]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/rhaps0dy4** [+10] *
+>>>> **u/rhaps0dy4** [+10]  (6 days later)
 >>>> 
 >>>> Oh, this is Factorio fanfiction? That's quite cool!
->>>> 
 
-> **u/Laborbuch** [+6] *
+> **u/Laborbuch** [+8]  (5 days later)
 > 
 > [Overview for a study of UNPERSON#54’s encyclopaedical work](https://docs.google.com/document/d/11qd6Ibh6YcocQoYYNM9vsoQO1ry0RCapCfLKQxFtvuk/edit?usp=sharing) (687 words)
-> 
 
->> **u/CannotThinkOfAThing** [+3] *
+>> **u/CannotThinkOfAThing** [+3]  (5 days later)
 >> 
 >> As a story, this doesn't work so well for me. As a piece of world building I like it though.
->> 
 
->>> **u/Laborbuch** [+2] *
+>>> **u/Laborbuch** [+2]  (6 days later)
 >>> 
 >>> It basically is. It’s from one of the universes I keep plugging at, and forbidden research (and loss of knowledge) are one of the major building blocks of that setting.
->>> 
 
-> **u/None** [-4] *
+> **u/None** [-3]  (7 days later)
 > 
 > [removed]
-> 
 
->> **u/jimrandomh** [+3] *
+>> **u/jimrandomh** [+3]  (7 days later)
 >> 
 >> Mod from lesserwrong.com here. We'd rather not have this content, at least as-is. Since LW2 is not a fiction site, fiction written in first person needs to somehow unambiguously communicate what it is, within the first paragraph.
->> 
 
 ---
 

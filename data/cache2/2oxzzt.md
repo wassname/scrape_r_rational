@@ -2,7 +2,7 @@
 
 * Author: u/notmy2ndopinion  *Concent of Saunt Edhar**
 * URL: https://www.reddit.com/r/rational/comments/2oxzzt/rational_or_rationalization/
-* Score: 15
+* Score: 13
 
 * Created: 2014-12-11T05:03:49
 
@@ -32,71 +32,70 @@ True Reasoning moves beyond the petty boundaries of quibbles with a loved one.  
 
 ### Comments:
 
-> **u/None** [+4] *
+> **u/None** [+4]  (2 hours later)
 > 
 > I can also attest that just letting yourself lose is the single biggest lesson I ever learned about how to keep a relationship together.  Once it gets to the point of an official We're Fighting situation, *just lose*.  Both of you.  Just do it.
-> You'll thank yourself when you calm down.
 > 
+> You'll thank yourself when you calm down.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (12 hours later)
 >> 
 >> I prefer to think of it as re-evaluating your criteria for success.
->> 
 
->>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (21 hours later)
 >>> 
 >>> It's nice to win by moving the goal posts :-)
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (23 hours later)
 >>>> 
 >>>> Avoidance of evaluating goal posts is NOT rational.
->>>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> It's irrational to never consider whether something is a terminal goal or an instrumental goal.
->>>> 
 
->> **u/Chosen_Pun** [+2]  *The Chosen Ones**
+>> **u/Chosen_Pun** [+2]  *The Chosen Ones* (9 hours later)
 >> 
 >> Personally, I think the Mythbusters said it best:
 >> > Failure is always an option.
->> 
 
->>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (12 hours later)
 >>> 
 >>> I had a textbook that phrased it in the weirdest way:
->>> >You've always got the option of having just committed suicide!
->>> (in fairness this was deep in an abstract discussion of game theory, but it sounds fantastic out of context)
 >>> 
+>>> >You've always got the option of having just committed suicide!
+>>> 
+>>> (in fairness this was deep in an abstract discussion of game theory, but it sounds fantastic out of context)
 
->>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (6 days later)
 >>>> 
 >>>> > in fairness this was deep in an abstract discussion of game theory,
->>>> Would you explain?
 >>>> 
+>>>> Would you explain?
 
-> **u/Tehino** [+4] *
+> **u/Tehino** [+4]  (8 hours later)
 > 
 > I worry that you ove rappreciate the predictive power of the mbti-model. The model may be useful similarly to hogwarts houses or the powers of friendship, that is letting you more clearly reflect on and communicate the clusters in personality space they mark out, but there are few, if any, statistical correlations to learn something you didn't already know. As far as I know the mbti has a pretty lousy reliability as well as validity, and has never really been empirically supported.
-> Moreover, how is trying to calm down in an argument a rationalization? Do you see it as such because it puts you in a non-representative state of mind were you attempt to not care about things that actually matter to you? I would assume that most arguments become more productive if the involved parties are level headed, given that everybody are able to remember what they originally became upset about and what problems they feel need solving.
 > 
+> Moreover, how is trying to calm down in an argument a rationalization? Do you see it as such because it puts you in a non-representative state of mind were you attempt to not care about things that actually matter to you? I would assume that most arguments become more productive if the involved parties are level headed, given that everybody are able to remember what they originally became upset about and what problems they feel need solving.
 
->> **u/notmy2ndopinion** [+3]  *Concent of Saunt Edhar**
+>> **u/notmy2ndopinion** [+3]  *Concent of Saunt Edhar* (20 hours later)
 >> 
 >> Perhaps it was not clear, but the point of the article was to highlight differences in viewpoints and how important it is to able to lose with grace.  I'm not pushing the MBTI model as a "valid" interpretation of reality, in the sense that you ask for, but I will say that for qualitative research, the theory of MBTI merely needs to be useful with components of trustworthiness (paralleling internal validity) and transferability (paralleling external validity), as well as dependability (paralleling reliability.) This is not to say that it doesn't meet a "higher standard" that a positivist/post-positivist would ask for with quantitative confirmation... merely that it fulfills a different set of standards since it is a different paradigm.
->> My point about heated arguments is that I use "Rationalization" as a defense mechanism.  At the time, I might THINK I am trying to calm down and be rational, but if I reflect back on old patterns of behavior, I only justified a flawed position and made excuses.
->> I recognize that there are people here who are more level-headed than I am.  It was nice to see that Harry Potter and by proxy, Eliezer Yudkowsky, can sympathize with me.  (Granted, when HP gets angry, he gets smarter whereas I get dumber.)
 >> 
+>> My point about heated arguments is that I use "Rationalization" as a defense mechanism.  At the time, I might THINK I am trying to calm down and be rational, but if I reflect back on old patterns of behavior, I only justified a flawed position and made excuses.
+>> 
+>> I recognize that there are people here who are more level-headed than I am.  It was nice to see that Harry Potter and by proxy, Eliezer Yudkowsky, can sympathize with me.  (Granted, when HP gets angry, he gets smarter whereas I get dumber.)
 
-> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+1]  *and with strange aeons, even death may die* (6 days later)
 > 
 > From a negotiation standpoint, it can sometimes be beneficial to not know how to lose. (Some people have speculated Quirrell has selfish sinister reasons he wants Harry to become familiar with losing rather than escalating.)
-> I bring this up because it demonstrates how emotions are subtle evolved heuristics that quite often are smarter than they seem. Divorcing ourselves from our emotions while reasoning about a problem can be an important part of the process. But the end goal should be to have emotions which coordinate with our thoughts, and so we should try to avoid "robotic" behavior.
-> Oftentimes, I find that after a few moments thought I am able to couch my rational arguments in more emotional terms (though they still involve functional arguments), which makes this sort of dispute easier for everyone. I've actually found that doing this helps me to bring otherwise unseen contextual ideas into prominence, which helps prevent hidden assumptions from controlling the conversation.
-> This might or might not be helpful to you when talking with your girlfriend. I figure that there's no significant cost to putting this idea out there for you, at least.
 > 
+> I bring this up because it demonstrates how emotions are subtle evolved heuristics that quite often are smarter than they seem. Divorcing ourselves from our emotions while reasoning about a problem can be an important part of the process. But the end goal should be to have emotions which coordinate with our thoughts, and so we should try to avoid "robotic" behavior.
+> 
+> Oftentimes, I find that after a few moments thought I am able to couch my rational arguments in more emotional terms (though they still involve functional arguments), which makes this sort of dispute easier for everyone. I've actually found that doing this helps me to bring otherwise unseen contextual ideas into prominence, which helps prevent hidden assumptions from controlling the conversation.
+> 
+> This might or might not be helpful to you when talking with your girlfriend. I figure that there's no significant cost to putting this idea out there for you, at least.
 
 ---
 

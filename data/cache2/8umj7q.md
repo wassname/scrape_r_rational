@@ -2,7 +2,7 @@
 
 * Author: u/Camaraagati  *The Emperor's Text-to-Speech Device**
 * URL: https://www.reddit.com/r/rational/comments/8umj7q/rt_hf_middle_ground/
-* Score: 9
+* Score: 10
 
 * Created: 2018-06-28T19:19:43
 
@@ -24,10 +24,9 @@ I also recommend other work he has done, even if the rest of it is more heavy on
 
 ### Comments:
 
-> **u/nicholaslaux** [+6] *
+> **u/nicholaslaux** [+6]  (51 minutes later)
 > 
 > Read/watched this. Didn't really see what was RT about it, and the quality didn't seem to be especially high.
-> 
 
 ---
 

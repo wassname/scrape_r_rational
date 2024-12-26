@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/4dpsry/challenge_companion_animemanga/
-* Score: 19
+* Score: 18
 
 * Created: 2016-04-07T05:59:19
 
@@ -14,151 +14,151 @@ At any rate, this is the challenge companion thread. If you have recommendations
 
 ### Comments:
 
-> **u/Wiron** [+8] *
+> **u/Wiron** [+8]  (3 hours later)
 > 
 > Log Horizon - players are transported to MMO world. They try understand rules of the world and form functional society.
-> Kaiji - gambler playing very simple games for very high stakes. It's about metagame and psychology.
-> Fate/zero - battle royale with mages and famous historical/mythological figures.
 > 
+> Kaiji - gambler playing very simple games for very high stakes. It's about metagame and psychology.
+> 
+> Fate/zero - battle royale with mages and famous historical/mythological figures.
 
->> **u/blazinghand** [+6]  *Chaos Undivided**
+>> **u/blazinghand** [+6]  *Chaos Undivided* (11 hours later)
 >> 
 >> Be careful: make sure to watch Fate/Zero first. The other installments in the Fate series should not be watched until you have watched it. Although Fate/Zero was in fact written after the other Fate stories, it has a different target audience. It's a prequel of Fate/Stay Night written under license by Gen Urobuchi, and takes place in the same canon. Instead of being targeted at young adults (particularly young men), F/Z's target audience is older readers. It deals with darker themes and puts more effort into making character interactions more realistic. It's also non-H. I will also say I find Urobochi's writing much nicer than Nasu's, even though Nasu is a master of worldbuilding.
->> 
 
->>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (11 hours later)
 >>> 
 >>> so fate zero or the visual novel?
->>> COnsidering I don't want to spend too much time on it.
 >>> 
+>>> COnsidering I don't want to spend too much time on it.
 
->>>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>>> **u/blazinghand** [+4]  *Chaos Undivided* (11 hours later)
 >>>> 
 >>>> Watch the Fate Zero Anime. It's 2 13-episode seasons, and I found it quite gripping after episode 3. They really assembled an all-star team for it. The animation, voice acting, score, and writing are all top-notch.
->>>> It's available on Crunchyroll, and in America it's also available on Netflix.
->>>> The Voice Acting in the english dub is also fine, though it's not as good as in the Japanese dub. If you're willing to read subtitles, I recommend sticking with the Japanese voice acting, but the english dub is acceptable.
 >>>> 
+>>>> It's available on Crunchyroll, and in America it's also available on Netflix.
+>>>> 
+>>>> The Voice Acting in the english dub is also fine, though it's not as good as in the Japanese dub. If you're willing to read subtitles, I recommend sticking with the Japanese voice acting, but the english dub is acceptable.
 
->>>> **u/AurelianoTampa** [+4] *
+>>>> **u/AurelianoTampa** [+5]  (12 hours later)
 >>>> 
 >>>> I'd actually caution you to do the opposite as to what /u/blazinghand recommended; if you watch Fate/Zero first, it will spoil some of the plot twists of the original TV series, Fate/Stay Night.
->>>> Fate/Zero is better than Fate/Stay Night, but if you're going to watch the whole series, it would be better to go Fate/Stay Night --> Fate/Zero --> Fate/Stay Night: Unlimited Blade Works (movie or TV series; same material is covered, but the TV series is newer). Unlimited Blade Works is set in the same time period and location as Stay Night, but is much darker and revolves around the protagonist being closer to Rin Tohsaka than Saber.  
->>>> That said, if time is a factor and you only want to watch the best, Fate/Zero is the winner. It is definitely enjoyable by itself, but if you watch Stay Night first it'll make a lot of things "click."
 >>>> 
+>>>> Fate/Zero is better than Fate/Stay Night, but if you're going to watch the whole series, it would be better to go Fate/Stay Night --> Fate/Zero --> Fate/Stay Night: Unlimited Blade Works (movie or TV series; same material is covered, but the TV series is newer). Unlimited Blade Works is set in the same time period and location as Stay Night, but is much darker and revolves around the protagonist being closer to Rin Tohsaka than Saber.  
+>>>> 
+>>>> That said, if time is a factor and you only want to watch the best, Fate/Zero is the winner. It is definitely enjoyable by itself, but if you watch Stay Night first it'll make a lot of things "click."
 
->>>>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>>>> **u/blazinghand** [+5]  *Chaos Undivided* (13 hours later)
 >>>>> 
 >>>>> This is true: F/Z spoils F/SN. However, I believe that F/SN also spoils F/Z. Since F/Z has a plot that I personally found more interesting, I was glad I watched it first. And yeah, if you're only gonna watch one, it should be F/Z.
->>>>> When I was first was getting into the Fate Series, I asked my friend Derek who works at Crunchyroll which to watch first to avoid spoilers. He told me F/Z and F/SN both spoil each other, so I should watch F/Z first. Since either way one will be spoiled, it's better to get the full experience of F/Z, which is better written.
 >>>>> 
+>>>>> When I was first was getting into the Fate Series, I asked my friend Derek who works at Crunchyroll which to watch first to avoid spoilers. He told me F/Z and F/SN both spoil each other, so I should watch F/Z first. Since either way one will be spoiled, it's better to get the full experience of F/Z, which is better written.
 
->>>>> **u/SpikeyPT** [+2] *
+>>>>> **u/SpikeyPT** [+2]  (a day later)
 >>>>> 
 >>>>> Are you talking about the 2006 series? That isn't recommended at all, it's a very bad adaptation of the original Visual Novel and the animation is very dated. The UBW movie is a bit better in the animation part, but it's even more of a butchered adaptation.
->>>>> I didn't read the whole VN yet, but they say the best way is to read the whole VN then Fate/UBW and Fate/Zero. For anime only it's Zero > UBW > Wait for Heaven's Feel Movies.
 >>>>> 
+>>>>> I didn't read the whole VN yet, but they say the best way is to read the whole VN then Fate/UBW and Fate/Zero. For anime only it's Zero > UBW > Wait for Heaven's Feel Movies.
 
->> **u/Kishoto** [+1] *
+>> **u/Kishoto** [+1]  (9 hours later)
 >> 
 >> Can second the fate / zero rec wholeheartedly. Altho Sakuras situation and Casters....hobbies...are straight nightmare fuel T_T
->> 
 
->>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade* (11 hours later)
 >>> 
 >>> WHere shoudl I start? the visual novel?
->>> 
 
->>>> **u/Kishoto** [+2] *
+>>>> **u/Kishoto** [+2]  (17 hours later)
 >>>> 
 >>>> That's a big question (also fix your spelling, you cur!)
->>>> Ok so. Fate/stay night is the original visual novel that started it all. It has three routes, the Fate route, the Unlimited Blade Works route and the Heaven's Feel route. You can feel free to start there, if you like. [Here's a link to just how to help you get started on downloading it](https://www.reddit.com/r/visualnovels/comments/2b60x7/fatestay_night_realta_nua_100_patch_released/)
->>>> Fate/zero is a prequel story to Fate/Stay night and covers the Holy Grail war (that term will make more sense once you begin watching/reading) that happened 10 years before. It's not a visual novel, but it does have corresponding light novels and a completed anime. I highly recommend said anime. 
->>>> There's also a Fate/Stay Night anime, that follows the first route primarily (the Fate route). There's also a Fate/Stay Night anime that follows the second route (The Unlimited Bladeworks route) People generally agree that the second is better than the first, considering it's released years after and has more fights+better animation. There's also an UBW movie that wil make no sense to you without context. 
->>>> Those are the heavy hitters, although there's also a ton of other Fate media (collectively known under the Type-Moon name, or the Nasuverse if you like) such as PSP games, other visual novels, etc. 
->>>> Have fun, go nuts and cry for Sakura-chan (you'll know it when you see it)
 >>>> 
+>>>> Ok so. Fate/stay night is the original visual novel that started it all. It has three routes, the Fate route, the Unlimited Blade Works route and the Heaven's Feel route. You can feel free to start there, if you like. [Here's a link to just how to help you get started on downloading it](https://www.reddit.com/r/visualnovels/comments/2b60x7/fatestay_night_realta_nua_100_patch_released/)
+>>>> 
+>>>> Fate/zero is a prequel story to Fate/Stay night and covers the Holy Grail war (that term will make more sense once you begin watching/reading) that happened 10 years before. It's not a visual novel, but it does have corresponding light novels and a completed anime. I highly recommend said anime. 
+>>>> 
+>>>> There's also a Fate/Stay Night anime, that follows the first route primarily (the Fate route). There's also a Fate/Stay Night anime that follows the second route (The Unlimited Bladeworks route) People generally agree that the second is better than the first, considering it's released years after and has more fights+better animation. There's also an UBW movie that wil make no sense to you without context. 
+>>>> 
+>>>> Those are the heavy hitters, although there's also a ton of other Fate media (collectively known under the Type-Moon name, or the Nasuverse if you like) such as PSP games, other visual novels, etc. 
+>>>> 
+>>>> Have fun, go nuts and cry for Sakura-chan (you'll know it when you see it)
 
->>>>> **u/Jiro_T** [+1] *
+>>>>> **u/Jiro_T** [+1]  (a day later)
 >>>>> 
 >>>>> I found Sakura to be intensely annoying because of the whole "I'm ashamed of sex" thing.  It seemed to be catering to some specific fetish.
->>>>> 
 
->>>>>> **u/Kishoto** [+1] *
+>>>>>> **u/Kishoto** [+1]  (a day later)
 >>>>>> 
 >>>>>> I haven't played through the Heavens feel route fully unfortunately. My main concern for Sakura is from the [](#s "all the worm rape. Oh and the Shinji rape too.")
->>>>>> There's just something about her distress that resonates with me, Idk why. I should probably play through Heavens feel to truly appreciate it.
 >>>>>> 
+>>>>>> There's just something about her distress that resonates with me, Idk why. I should probably play through Heavens feel to truly appreciate it.
 
-> **u/VVhaleBiologist** [+6] *
+> **u/VVhaleBiologist** [+6]  (5 hours later)
 > 
 > One Piece - Pirates sailing around the world in order to find the greatest treasure of all and becoming the Pirate King. There exists supernatural powers that are obtained by eating rare fruits, so called "Devil Fruits". There should be fun ways of munchkining the different powers that are available.
-> 
 
-> **u/Farmerbob1** [+6]  *Level 1 author**
+> **u/Farmerbob1** [+7]  *Level 1 author* (9 hours later)
 > 
 > It might be interesting to see a story about the one sane man (or woman) in the Saitama universe.  Yes, One Punch Man is now an anime series.
-> Having the protagonist recognize that all the 'heroes' are loosely connected to reality at best, and try to figure out how to alternately avoid triggering or intentionally using their various insanities or quirks to make them take sane actions could be a good read.
-> Insert an OC, with rationality-based powers!
 > 
+> Having the protagonist recognize that all the 'heroes' are loosely connected to reality at best, and try to figure out how to alternately avoid triggering or intentionally using their various insanities or quirks to make them take sane actions could be a good read.
+> 
+> Insert an OC, with rationality-based powers!
 
-> **u/None** [+6] *
+> **u/None** [+7]  (18 hours later)
 > 
 > Well, time to get writing on *Tengen Toppa Gurren Rationality 40K*.
-> 
 
->> **u/Subrosian_Smithy** [+1]  *Nudist Beach**
+>> **u/Subrosian_Smithy** [+1]  *Nudist Beach* (11 days later)
 >> 
 >> I think my heart might just explode from the sheer awesomeness.
->> 
 
-> **u/Farmerbob1** [+4]  *Level 1 author**
+> **u/Farmerbob1** [+5]  *Level 1 author* (10 hours later)
 > 
 > Oh, we're allowed to post already-written content here?
-> This is NOT a Challenge competition entry.
-> I wrote a @50k word Kancolle x Worm crossover fic called [Any Port in a Storm.](https://forums.sufficientvelocity.com/threads/any-port-in-a-storm-kantai-collection-x-worm.19959/)
-> I only recently finished it, and resumed working on my half-finished Vlad Taltos x Worm crossover.  One project at a time until my life is sufficiently non-complex that I can start editing Set in Stone again.
 > 
+> This is NOT a Challenge competition entry.
+> 
+> I wrote a @50k word Kancolle x Worm crossover fic called [Any Port in a Storm.](https://forums.sufficientvelocity.com/threads/any-port-in-a-storm-kantai-collection-x-worm.19959/)
+> 
+> I only recently finished it, and resumed working on my half-finished Vlad Taltos x Worm crossover.  One project at a time until my life is sufficiently non-complex that I can start editing Set in Stone again.
 
->> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor* (2 days later)
 >> 
 >> !!
->> (Runs over to remove *Business As Usual* from deadfic folder, return to sporadic folder.)
 >> 
+>> (Runs over to remove *Business As Usual* from deadfic folder, return to sporadic folder.)
 
->>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>> 
 >>> :)  I'll never entirely abandon a fic.  Every one I start, I will finish, even if it takes time.
->>> 
 
-> **u/Kishoto** [+4] *
+> **u/Kishoto** [+4]  (9 hours later)
 > 
 > Shameless self plug incoming: I'm writing a Shokugeki no Soma (Food Wars) fanfiction called [Nisegami](https://m.fanfiction.net/s/11804422/1/Nisegami) 
-> It's not particularly rational, although it does take the main character and place him in a position to be more intelligent and strategic with his choices, as opposed to blindly shonen-esque.
-> Ok. Plug over. Code Geass features a fairly intelligent protagonist. At times, it can be a little too much (for example, there's a scene where said protagonist has a phone call with someone where he uses a recording. He's just able to predict exactly what the other guy was going to say days in advance. Pauses and all) but it's still enjoyable. Tbh, I don't really enjoy anime/Manga for their rationale elements (big surprise? :P) but for their other strengths such as romance, characterization, humor, etc. A particularly funny anime I've watched recently is called The Devil is a Part Timer. It's one of those that I'd almost say is better to watch English dubbed as opposed to subbed.
 > 
+> It's not particularly rational, although it does take the main character and place him in a position to be more intelligent and strategic with his choices, as opposed to blindly shonen-esque.
+> 
+> Ok. Plug over. Code Geass features a fairly intelligent protagonist. At times, it can be a little too much (for example, there's a scene where said protagonist has a phone call with someone where he uses a recording. He's just able to predict exactly what the other guy was going to say days in advance. Pauses and all) but it's still enjoyable. Tbh, I don't really enjoy anime/Manga for their rationale elements (big surprise? :P) but for their other strengths such as romance, characterization, humor, etc. A particularly funny anime I've watched recently is called The Devil is a Part Timer. It's one of those that I'd almost say is better to watch English dubbed as opposed to subbed.
 
-> **u/None** [+6] *
+> **u/None** [+8]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Galap** [+2] *
+>> **u/Galap** [+2]  (22 hours later)
 >> 
 >> I strongly second the recommendations for Noein and Legend of the galactic Heroes.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 days later)
 >> 
 >> I highly doubt lain aged well for first time viewers
->> For example the multiple screens and "overclocked" cell phone with a touch pad are hardy amazing anymore
 >> 
+>> For example the multiple screens and "overclocked" cell phone with a touch pad are hardy amazing anymore
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (5 days later)
 >>> 
 >>> true, but in the context of inspiration, it gives a lot to work with
->>> 
 
-> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (4 hours later)
 > 
 > Some fun freely-available anime (subtitled, of course):  
 > \- *[Death Note](http://www.hulu.com/death-note)* (37 episodes): A genius high-school student attempts to use a divine artifact to cleanse the world of evil.  
@@ -166,47 +166,44 @@ At any rate, this is the challenge companion thread. If you have recommendations
 > \- *[Angel Beats!](http://www.hulu.com/angel-beats)* (13 episodes): In a strange Purgatory, a band of high-schoolers fights to defy death and return to the land of the living.  
 > \- *[Mobile Suit Gundam: Iron-Blooded Orphans](http://www.hulu.com/mobile-suit-gundam-ironblooded-orphans)* (25 episodes, Season 1 complete): A band of child soldiers on Mars overpowers its owners, and seeks to bring justice to its home by transporting a charismatic diplomat to Earth for negotiation.  
 > \- *[Gundam Build Fighters](https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx-0WipavLDd3mFSLJL1r2XQ)* (25 episodes): Two boys (a builder and a pilot) team up to attempt the Gunpla Battle Championship World Tournament.
-> 
 
-> **u/Nighzmarquls** [+3] *
+> **u/Nighzmarquls** [+3]  (11 hours later)
 > 
 > Hmmm I'm trying to deconstruct a broad phenomena in anime/manga/porn in monster girls (yes I'm still doing that I've just pulled back and I'm doing a lot of structural work to get the character and plot rolling better then the more interactive version).
-> That seems like it would not QUITE qualify for this. If it does I could probably clean up my scripts, maybe slap some character illustrations or sketches on the google doc and get to chugging away at that as a kind of 2nd draft.
-> What say you r/rational ?
 > 
+> That seems like it would not QUITE qualify for this. If it does I could probably clean up my scripts, maybe slap some character illustrations or sketches on the google doc and get to chugging away at that as a kind of 2nd draft.
+> 
+> What say you r/rational ?
 
->> **u/blazinghand** [+2]  *Chaos Undivided**
+>> **u/blazinghand** [+2]  *Chaos Undivided* (13 hours later)
 >> 
 >> Sounds interesting to me, it might be worth posting separately though as its own link on this subreddit. In general deconstructions of media as literary work in a rational way are well-liked here.
->> 
 
->>> **u/Nighzmarquls** [+2] *
+>>> **u/Nighzmarquls** [+2]  (14 hours later)
 >>> 
 >>> I'll post it when I've got most of book one done I think
->>> 
 
-> **u/Absox** [+3]  *Iserlohn Fortress**
+> **u/Absox** [+3]  *Iserlohn Fortress* (a day later)
 > 
 > Shin sekai yori. The novel and the anime adaptation are both masterpieces of dystopic sci-fi.
-> 
 
->> **u/Shion_Arita** [+2] *
+>> **u/Shion_Arita** [+2]  (3 days later)
 >> 
 >> I'm writing one of this for the challenge. 
->> From the New World/Shinsekai Yori is my #1 favorite anime. a really nuanced and rich story. I recommend it to anyone on here without reservation, because the showmanship and execution is superb, and I think it easily fits the criteria of being rational fiction.
->> So far writing in that universe is pretty fun, especially since it's not something I have to 'rationalify'-- it's just a logical (to me) continuation from that point.
 >> 
+>> From the New World/Shinsekai Yori is my #1 favorite anime. a really nuanced and rich story. I recommend it to anyone on here without reservation, because the showmanship and execution is superb, and I think it easily fits the criteria of being rational fiction.
+>> 
+>> So far writing in that universe is pretty fun, especially since it's not something I have to 'rationalify'-- it's just a logical (to me) continuation from that point.
 
-> **u/DevilishFSB** [+2] *
+> **u/DevilishFSB** [+2]  (8 days later)
 > 
 > my 1 cent: https://en.wikipedia.org/wiki/Saiki_Kusuo_no_Psi-nan
-> Perhaps one of the most rational manga I ever read.
 > 
+> Perhaps one of the most rational manga I ever read.
 
-> **u/Farmerbob1** [+1]  *Level 1 author**
+> **u/Farmerbob1** [+1]  *Level 1 author* (5 days later)
 > 
 > Its been a long time since I watched either of the Bubblegum Crisis anime series.  My memories make me think that they were rather rational for anime.  I would think a rational fic based in that universe would be very possible, and wouldn't require breaking much to make it work.
-> 
 
 ---
 

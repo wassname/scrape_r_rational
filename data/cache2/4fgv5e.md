@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (13 minutes later)
 > 
 > Keep reading.
-> Anything else would be spoilers.
 > 
+> Anything else would be spoilers.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/dt7x5c/secret_of_the_patronus_chapter_3738_the_second/
-* Score: 16
+* Score: 15
 
 * Created: 2019-11-08T01:26:05
 

@@ -12,126 +12,132 @@ So are there any rational superhero stories where people try to effectively intr
 
 ### Comments:
 
-> **u/Weerdo5255** [+10]  *SG-1**
+> **u/Weerdo5255** [+12]  *SG-1* (an hour later)
 > 
 > Hmm, I have a few examples but wouldn't call them strictly rational ones. I see Worm recommended already so I'll skip that. 
+> 
 > ---
+> 
 > [With this Ring](https://forum.questionablequesting.com/threads/with-this-ring-young-justice-si-thread-fourteen.8938/) is probably the closest thing I can recall right off the bat. A Young Justice Self insert with a Rational character that uses a combo of an Orange Power Ring, Human Tech, and Magic to achieve results.
+> 
 > An MC who is extremely annoyed by the fact that in the DC universe Freeze Guns, Super Speed, Magic, and the tech that supervillains regularly create to combat heroes is never used to actually help the planet. So he does that. Cleans up the ocean, stops global warming, integrates the hidden societies of Earth, solves some the the Amazon's issues. So this is more an exploration of dropping a person with a brain into the DC universe, and letting them string together all of the crazy things its characters spawn to help humanity. Although it is the secondary focus, it gets plenty of screen time as this is a very long fic. 
+> 
 > Makes a good argument about how you can be extremely selfish (as Orange Rings are powered off Greed), but still help people. Develops are a fairly good pace, and has a well executed romance no harem. 
+> 
 > A very long one, download the Epubs in the link. It's got some 'alternate' timelines thrown into the story as well at different intervals that get a little too weird for my taste so I usually skip them for the main story line. 
+> 
 > ---
+> 
 > [The Spider](https://www.fanfiction.net/s/12592223/1/The-Spider) is one I just finished, Spiderman Self insert into classic Marvel / MCU / Spiderverse(not the movie type). 
+> 
 > It was alright throughout, (some NSFW love scenes), better towards the start when Spiderman is still coming into his power. Once he goes off into space, he quickly become OP. Some of the tech he develops is used to help the Baxter foundation, but it's not the central focus. 
+> 
 > Follows the Fanfic trope of everyone falling in live with the MC and a Harem developing towards the end. So once again, I give it a mediocre review. 
+> 
 > ---
 > A few other's that don't specifically focus on the Tech ramifications, but do have superheroes and at least semi-rational non-supers / low tier supers. 
-> [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man)  Superman V Lex in the 30's. 
-> [Super Sales on Super Heroes](https://www.amazon.com/Super-Sales-Heroes-William-Arand-ebook/dp/B072HQF1B6) read only with Unlimited. Massive Harem fic, slavery, and some rational utilization of tech. Kinda revels in having a 'rational' MC, who in my opinion is a high functioning sociopath caring only for his 'in' group.
 > 
+> [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man)  Superman V Lex in the 30's. 
+> 
+> [Super Sales on Super Heroes](https://www.amazon.com/Super-Sales-Heroes-William-Arand-ebook/dp/B072HQF1B6) read only with Unlimited. Massive Harem fic, slavery, and some rational utilization of tech. Kinda revels in having a 'rational' MC, who in my opinion is a high functioning sociopath caring only for his 'in' group.
 
->> **u/Shaolang** [+4] *
+>> **u/Shaolang** [+3]  (a day later)
 >> 
 >> Does the spelling in The Spider get better as it goes on?  I haven't even scrolled down yet on the first page and there are like 5 jarring spelling mistakes.
->> 
 
->> **u/wren42** [+1] *
+>> **u/wren42** [+1]  (6 days later)
 >> 
 >> >Makes a good argument about how you can be extremely selfish (as Orange Rings are powered off Greed), but still help people.
->> Oof sounded interesting but is it basically a libertarian fanfic?
 >> 
+>> Oof sounded interesting but is it basically a libertarian fanfic?
 
->>> **u/Weerdo5255** [+1]  *SG-1**
+>>> **u/Weerdo5255** [+1]  *SG-1* (6 days later)
 >>> 
 >>> I don't read it as such, it's got themes associated with it. The Justice League for example is deconstructed for what it is, American Centric and a boys club, but the MC has no particular animosity towards governments. 
->>> I'll spoil one scene, but he basically links up a (justified) American politician who hates magic with an Atlantian mage so he can learn about it, remove the fear via knowledge. 
->>> This kicks off a magi-tech industrial complex of the USA and Atlantis. 
->>> Not to mention the MC's biggest goal is the creation of an Orange Lantern Corp, that he does not have to run.
->>> There are certainly political messages in this, and the associated side stories, but realistically. There were no messages so direct that I was offput. Your tastes might be different.
 >>> 
+>>> I'll spoil one scene, but he basically links up a (justified) American politician who hates magic with an Atlantian mage so he can learn about it, remove the fear via knowledge. 
+>>> 
+>>> This kicks off a magi-tech industrial complex of the USA and Atlantis. 
+>>> 
+>>> Not to mention the MC's biggest goal is the creation of an Orange Lantern Corp, that he does not have to run.
+>>> 
+>>> There are certainly political messages in this, and the associated side stories, but realistically. There were no messages so direct that I was offput. Your tastes might be different.
 
-> **u/failed_novelty** [+11] *
+> **u/failed_novelty** [+9]  (45 minutes later)
 > 
 > Wasn't there one with a mad scientist type who was the foster father of a speedster?  The speedster was a female, and the fic had realistic reactions to her moving that fast.
-> I want to say the scientist was called Doctor Tomorrow?
-> A lot of that dealt with his super-tech.
 > 
+> I want to say the scientist was called Doctor Tomorrow?
+> 
+> A lot of that dealt with his super-tech.
 
->> **u/Kimundi** [+13] *
+>> **u/Kimundi** [+10]  (an hour later)
 >> 
 >> [Doc Future](https://docfuture.tumblr.com/)
->> 
 
->>> **u/failed_novelty** [+2] *
+>>> **u/failed_novelty** [+2]  (an hour later)
 >>> 
 >>> So I wasn't far off!
->>> 
 
->>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (11 hours later)
 >>>> 
 >>>> Damn I love that one, but they put it on Tumblr?! I have to copy-paste manually to make a decent epub?! Put it on Kindle, I'd pay $8 for it.
->>>> 
 
-> **u/Jokey665** [+9]  *Worth the Candle**
+> **u/Jokey665** [+8]  *Worth the Candle* (35 minutes later)
 > 
 > Dire by Andrew Seiple? I don't know if I'd exactly call it rational and book three really kind of jumps the shark, but the main character is a super inventor
-> 
 
->> **u/staged_interpreter** [+1] *
+>> **u/staged_interpreter** [+1]  (a day later)
 >> 
 >> The DIRE/Worm Crossover should be available online for free and a good introduction.
->> 
 
->>> **u/OnlyEvonix** [+1] *
+>>> **u/OnlyEvonix** [+1]  (3 days later)
 >>> 
 >>> I didn't like it though I didn't read that far, Dire came off as sorta conceited and the story weak with there not being much to it beyond Dire. I'll try it again with a recommendation though.
->>> 
 
-> **u/blackday44** [+9] *
+> **u/blackday44** [+10]  (8 minutes later)
 > 
 > Hmm. Worm has a type of super hero/bad guys that specifically use tech. Plus its free online.
-> 
 
->> **u/ricree** [+13] *
+>> **u/ricree** [+13]  (3 hours later)
 >> 
 >> Much as I love worm, it doesn't really fit the OP's request. Tinkers in Worm are explicitly unable to create mass produced technology, so it sidesteps most of the ramifications the OP seems to be asking about.
->> 
 
->>> **u/tjhance** [+4] *
+>>> **u/tjhance** [+6]  (15 hours later)
 >>> 
 >>> yeahhh... when I read the OP's request, my first thought was "not worm"
->>> 
 
-> **u/Do_Not_Go_In_There** [+2] *
+> **u/Do_Not_Go_In_There** [+2]  (2 hours later)
 > 
 > *Not All Heroes* by Rhodeworks. It has powersuits and other tech. The author finished two books and was on their third when they stopped, so I'm not sure how the good the ending is.
-> https://notallserial.wordpress.com/author/jmoor89/
 > 
+> https://notallserial.wordpress.com/author/jmoor89/
 
-> **u/IICVX** [+2] *
+> **u/IICVX** [+3]  (5 hours later)
 > 
 > Generally no. 
-> The primary cliche of the superhero setting is that A) you have super powers and B) they're in the current era. 
-> If you let super-tech make actual changes to the setting, then you're no longer in the current era - you've just got scifi with superpowers that stick out like a sore thumb. I think this is because the fundamental thesis of superhero stories is to view modern problems through a magnified and bombastic lens; if you change the setting too much, it won't make sense for them to have modern problems.
-> That's why every superhero setting needs some excuse for why the super tech isn't publicly available - Worm has tinkertech, Marvel and DC have "it's there but like in the background where nobody but heroes ever sees or interacts with it", and Doc Future very quickly becomes "scifi with superpowers that stick out like a sore thumb" (but since you were along for the ride it's a bit easier to suspend your disbelief).
-> So, basically, superhero stories have a fundamental difficulty incorporating the storyline you want to see. It's just not something that fits easily in to the genre.
-> That being said probably the closest I've seen is the (sadly eternally unfinished) story [Memories of Iron](https://fanfiction.net/s/10230499/1/Memories-of-Iron), where basically Tony Stark comes by to fix the Worm universe by way of Taylor's brain meats.
 > 
+> The primary cliche of the superhero setting is that A) you have super powers and B) they're in the current era. 
+> 
+> If you let super-tech make actual changes to the setting, then you're no longer in the current era - you've just got scifi with superpowers that stick out like a sore thumb. I think this is because the fundamental thesis of superhero stories is to view modern problems through a magnified and bombastic lens; if you change the setting too much, it won't make sense for them to have modern problems.
+> 
+> That's why every superhero setting needs some excuse for why the super tech isn't publicly available - Worm has tinkertech, Marvel and DC have "it's there but like in the background where nobody but heroes ever sees or interacts with it", and Doc Future very quickly becomes "scifi with superpowers that stick out like a sore thumb" (but since you were along for the ride it's a bit easier to suspend your disbelief).
+> 
+> So, basically, superhero stories have a fundamental difficulty incorporating the storyline you want to see. It's just not something that fits easily in to the genre.
+> 
+> That being said probably the closest I've seen is the (sadly eternally unfinished) story [Memories of Iron](https://fanfiction.net/s/10230499/1/Memories-of-Iron), where basically Tony Stark comes by to fix the Worm universe by way of Taylor's brain meats.
 
-> **u/unionjackless** [+1] *
+> **u/unionjackless** [+1]  (an hour later)
 > 
 > I’ll check up on it after sleep but ?kurtherians? It’s a series of books I read on kindle unlimited and includes super advanced tech used for good
-> 
 
-> **u/ironistkraken** [+1] *
+> **u/ironistkraken** [+1]  (an hour later)
 > 
 > supervillany and other poor career choices is more about a super smart non super using super tech in his own way.  Most ramifications as of now hint at a bigger problem(es?) but most its small scale crime escalating with each book.
-> 
 
-> **u/CaramilkThief** [+1] *
+> **u/CaramilkThief** [+1]  (an hour later)
 > 
 > Chronicles of Dr Fid has a tech based supervillain (who's kinda good). It's not too rational but it's not that irrational either. There's some effort to use tech in interesting ways. Overall it's pretty good.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/OmniscientQ *
 * URL: https://www.reddit.com/r/rational/comments/c0b2cz/how_to_forget_your_past/
-* Score: 63
+* Score: 62
 
 * Created: 2019-06-13T20:37:55
 
@@ -33,262 +33,293 @@ EDIT: Or is it possible that time alone is sufficient to render the records unbe
 
 ### Comments:
 
-> **u/Flying_Emu_Jesus** [+32] *
+> **u/Flying_Emu_Jesus** [+33]  (42 minutes later)
 > 
 > I'm not entirely sure, but I'd contend that it would only require that the saved technical knowledge (blueprints, textbooks, wikipedia, etc) to become either inaccessible (EMP wiping out electronic records, which, in an advanced society, may be all the records), or useless (quantum physics isn't very helpful if you're trying to build a working stone-age society). After that, it'd only take time.
-> At first everyone would obviously know where they came from, but as the generations go by, that knowledge becomes more and more redundant if it has no direct effect on quality of life (if you're not using space-age tech, the fact that you were once a space-faring society starts to seem more like pointless history). In fact, I imagine that this historical fact would seem more outlandish and less trustworthy the more generations have passed, if you don't have tangible proof of your previous tech level.
-> Eventually, everyone would be so disconnected from this historical fact that it would have the weight of any other myth, and could be superceded by any other myth or religion that has more sway with the people.
-> Additionally, I feel like the chances of losing all applicable knowledge increase as a society gets more advanced. An advanced society would rely heavily on technology, and most people wouldn't personally know how to build up the infrastructure necessary for that tech level. That's already happening today to a small extent, as if you transplanted some random sample of today's first world population into an untamed wilderness, they probably wouldn't be able to maintain much of today's tech level.
-> Actually, another important point would have to be population size and diversity of occupation. If you have enough people, it would be easy for a society to dedicate at least one person to finding and recording scientific and technological information from the relevant experts. Each person may only have part of the information in any particular field, but if you can spare anyone from whatever labor is needed to survive, and you have access to enough people that may be experts in something, chances are you can piece back together enough technological knowledge to be useful. If the technology can remain useful, it would be very hard for a society to forget how it got that technology.
-> I apologize for this ramble, it probably doesn't answer your original question, but your post got me thinking and I felt like throwing this out here.
 > 
+> At first everyone would obviously know where they came from, but as the generations go by, that knowledge becomes more and more redundant if it has no direct effect on quality of life (if you're not using space-age tech, the fact that you were once a space-faring society starts to seem more like pointless history). In fact, I imagine that this historical fact would seem more outlandish and less trustworthy the more generations have passed, if you don't have tangible proof of your previous tech level.
+> 
+> Eventually, everyone would be so disconnected from this historical fact that it would have the weight of any other myth, and could be superceded by any other myth or religion that has more sway with the people.
+> 
+> Additionally, I feel like the chances of losing all applicable knowledge increase as a society gets more advanced. An advanced society would rely heavily on technology, and most people wouldn't personally know how to build up the infrastructure necessary for that tech level. That's already happening today to a small extent, as if you transplanted some random sample of today's first world population into an untamed wilderness, they probably wouldn't be able to maintain much of today's tech level.
+> 
+> Actually, another important point would have to be population size and diversity of occupation. If you have enough people, it would be easy for a society to dedicate at least one person to finding and recording scientific and technological information from the relevant experts. Each person may only have part of the information in any particular field, but if you can spare anyone from whatever labor is needed to survive, and you have access to enough people that may be experts in something, chances are you can piece back together enough technological knowledge to be useful. If the technology can remain useful, it would be very hard for a society to forget how it got that technology.
+> 
+> I apologize for this ramble, it probably doesn't answer your original question, but your post got me thinking and I felt like throwing this out here.
 
->> **u/OmniscientQ** [+17] *
+>> **u/OmniscientQ** [+17]  (46 minutes later)
 >> 
 >> Even I'm not certain what my original question was. My post was just rambling, and I wanted to invite others to participate in the rambling, so your contribution is spot-on! It's just what was going through my head lately.
->> 
 
->> **u/SimoneNonvelodico** [+9]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+11]  *Dai-Gurren Brigade* (17 hours later)
 >> 
 >> > if you transplanted some random sample of today's first world population into an untamed wilderness, they probably wouldn't be able to maintain much of today's tech level.
->> That's almost euphemistic. If you did that, you'd get something in between a tribe of stone age hunter-gatherers and a bunch of dead people. We're all dramatically specialised. You'd need an incredible stroke of luck to get the right mix of competences (masons, carpenters, smelters, smiths) to even reach a bronze or iron age tech level.
 >> 
+>> That's almost euphemistic. If you did that, you'd get something in between a tribe of stone age hunter-gatherers and a bunch of dead people. We're all dramatically specialised. You'd need an incredible stroke of luck to get the right mix of competences (masons, carpenters, smelters, smiths) to even reach a bronze or iron age tech level.
 
->> **u/KingMako** [+7]  *Unlicensed Archrationalist**
+>> **u/KingMako** [+8]  *Unlicensed Archrationalist* (9 hours later)
 >> 
 >> >I imagine that this historical fact would seem more outlandish and less trustworthy the more generations have passed, if you don't have tangible proof of your previous tech level.
->> Hilariously enough, you can work around this by starting a cult. There's irony to be had in conditioning away the questioning of authority's word as a method to preserve scientific knowledge.
 >> 
+>> Hilariously enough, you can work around this by starting a cult. There's irony to be had in conditioning away the questioning of authority's word as a method to preserve scientific knowledge.
 
->>> **u/SimoneNonvelodico** [+8]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+8]  *Dai-Gurren Brigade* (17 hours later)
 >>> 
 >>> Good way to preserve it, terrible way to advance it. You'd get something like the Mechanicum in Warhammer 40K I guess. Amazing technology that hasn't progressed by much in 10,000 years of time.
->>> 
 
->>> **u/MilesSand** [+2] *
+>>> **u/MilesSand** [+2]  (a day later)
 >>> 
 >>> I think that would last for about a generation or 3
->>> 
 
->>>> **u/LeifCarrotson** [+1] *
+>>>> **u/LeifCarrotson** [+1]  (3 days later)
 >>>> 
 >>>> I think that real history actually shows religions can last for thousands of years.
->>>> Granted, your social skills may not get you the planet-spanning, millenia-long success of the Judeo-Christian, Hindu, or Buddhist traditions, but many small groups are pretty long lived.
 >>>> 
+>>>> Granted, your social skills may not get you the planet-spanning, millenia-long success of the Judeo-Christian, Hindu, or Buddhist traditions, but many small groups are pretty long lived.
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (a day later)
 >> 
 >> I think it wouldn't take so long to find a way to collect and form metal that it would prevent rudimentary generators.  At that point we can generate heat (and light, depending on the metal) which would be useful for cooking.  Similarly easy is storing that power.  Citrus juice or salty ocean spray and ore will do the job. Not necessarily as well as lead and a stronger acid, and probably involves a lot of waste, but it'll do the job long enough to find a better technology.
->> Every field has similarly low effort ways to get the job done, so getting back to a level where you can have the luxury of r&d shouldn't be a problem with a few nerds around.
->> Maybe the  technology will take different forms and directions as a different set of synergies are found and built but just memories of what is possible or plausible are going to be enough to keep humanity out of the stone age 2.0.
->> Similarly someone who has a small amount of grounding in history and anthropology or in library science can ensure the most important knowledge doesn't get lost, or gets rediscovered, whatever they decide that is.
 >> 
+>> Every field has similarly low effort ways to get the job done, so getting back to a level where you can have the luxury of r&d shouldn't be a problem with a few nerds around.
+>> 
+>> Maybe the  technology will take different forms and directions as a different set of synergies are found and built but just memories of what is possible or plausible are going to be enough to keep humanity out of the stone age 2.0.
+>> 
+>> Similarly someone who has a small amount of grounding in history and anthropology or in library science can ensure the most important knowledge doesn't get lost, or gets rediscovered, whatever they decide that is.
 
-> **u/bubby_cat2** [+12] *
+> **u/bubby_cat2** [+13]  (49 minutes later)
 > 
 > Just recently reread The Mote in God's Eye (also Niven I think). That has a very interesting dichotomy; the spacefaring humans in story had the CoDominium (implied to be the USSR and USA), which had a vague but horrible civil war, essentially destroying Earth's habitable surface, and was replaced by the First Empire, which collapsed for vague reasons and was replaced by the Second Empire. Then there are aliens called Moties, which are unable to travel interstellar distances because of a quirk of their star system and undergo regular and total societal collapse. HOWEVER, they build museums that contain all sorts of old science, to help rebuild after another total collapse. It's basically assumed in-story that any sufficiently old civilization will collapse or expand, rather than assuming that any given culture will win out and preserve the history a la Byzantium after Rome.
-> I feel that the population argument isn't really tenable; you'd expect AT LEAST one sufficiently sophisticated group to survive and then dominate the survivors if there was really so much lost that the rest of the society is essentially gone.
-> I'm more inclined to believe that any community with inadequate long-term storage, like a jungle world (so any long-term paper storage isn't feasible). Spoken word isn't really sufficient for transmitting any modern tech, so I think any time a culture is incapable (or unwilling) to make written records, the tech will probably die out within a generation or two. Once the tech is gone, it'll only take a few generations before it's legend - just think of how many modern people find it hard to believe what medical science was like just a hundred years ago! Eventually people will doubt that they 'really' came from space, since there's no evidence. Where are the ships? Why can't we fly now?
 > 
+> I feel that the population argument isn't really tenable; you'd expect AT LEAST one sufficiently sophisticated group to survive and then dominate the survivors if there was really so much lost that the rest of the society is essentially gone.
+> 
+> I'm more inclined to believe that any community with inadequate long-term storage, like a jungle world (so any long-term paper storage isn't feasible). Spoken word isn't really sufficient for transmitting any modern tech, so I think any time a culture is incapable (or unwilling) to make written records, the tech will probably die out within a generation or two. Once the tech is gone, it'll only take a few generations before it's legend - just think of how many modern people find it hard to believe what medical science was like just a hundred years ago! Eventually people will doubt that they 'really' came from space, since there's no evidence. Where are the ships? Why can't we fly now?
 
->> **u/OmniscientQ** [+9] *
+>> **u/OmniscientQ** [+10]  (2 hours later)
 >> 
 >> I keep circling back to record-keeping, and one thing that occurs to me is that updated and reprinted records would do a damn fine job of avoiding a situation where historical records become unbelievable.
->> Imagine some future society got their hands on an informational pamphlet describing the Atlanta airport. It'd read "Two hundred airplanes flew through the sky and landed at this airport every day." The future humans might view such a pamphlet the same way we read "Osiris flew through the stars for a thousand years and finally came to rest in Giza." It's the standard ancient aliens Stargate plot. The record is being quite literal, but the cynical modern reader sees it all as a metaphor for something else because they know for a FACT that antigravity wasn't developed until the year 2342. The pamphlet leaves out critical details that the intended audience could be expected to already know.
->> But if the records were being consistently updated and reprinted, then the editors of each successive edition would get a chance to add in the necessary contextual information as it falls out of public consciousness. A history professor would add a footnote to the reprinted Atlanta pamphlet describing what the hell an airplane is and how it worked for an audience that might not have them around anymore.
->> Obviously, this assumes a future society that moved on to bigger and better things instead of being reset. I'm not sure how any of this applies to the rest of the discussion. Just more rambling.
 >> 
+>> Imagine some future society got their hands on an informational pamphlet describing the Atlanta airport. It'd read "Two hundred airplanes flew through the sky and landed at this airport every day." The future humans might view such a pamphlet the same way we read "Osiris flew through the stars for a thousand years and finally came to rest in Giza." It's the standard ancient aliens Stargate plot. The record is being quite literal, but the cynical modern reader sees it all as a metaphor for something else because they know for a FACT that antigravity wasn't developed until the year 2342. The pamphlet leaves out critical details that the intended audience could be expected to already know.
+>> 
+>> But if the records were being consistently updated and reprinted, then the editors of each successive edition would get a chance to add in the necessary contextual information as it falls out of public consciousness. A history professor would add a footnote to the reprinted Atlanta pamphlet describing what the hell an airplane is and how it worked for an audience that might not have them around anymore.
+>> 
+>> Obviously, this assumes a future society that moved on to bigger and better things instead of being reset. I'm not sure how any of this applies to the rest of the discussion. Just more rambling.
 
->>> **u/Bowbreaker** [+5]  *Solitary Locust**
+>>> **u/Bowbreaker** [+5]  *Solitary Locust* (15 hours later)
 >>> 
 >>> You would probably have to drop to pre-printing technology levels to actually forget where you came from. After that all you need is a harsh enough environment that owning books becomes a rarity and a few burned libraries later things have become lost enough for new authors to get away with embellishing or making up the missing details. Then science disproves the made up elements and the whole history becomes discredited myth, easily out-competed by religions with higher meme spread rate.
->>> But for the printing press to become a lost technology you would probably need a societal collapse so devastating that worldwide for at least 4 generations people can only survive in the form of nomadic tribes.
->>> If there's anything like a village with stone houses and a consistent population of >100 I would expect at least someone to start printing stuff.
 >>> 
+>>> But for the printing press to become a lost technology you would probably need a societal collapse so devastating that worldwide for at least 4 generations people can only survive in the form of nomadic tribes.
+>>> 
+>>> If there's anything like a village with stone houses and a consistent population of >100 I would expect at least someone to start printing stuff.
 
-> **u/AbysmalLion** [+12] *
+> **u/AbysmalLion** [+13]  (3 hours later)
 > 
 > I think it's three main phases, assuming a catastrophe or quick decline before a short rise.
+> 
 > 1. It becomes religion. These stories our grandparents tell of an age we have forgotten, we trust that it is so, but have you ever really seen a rotary phone, or a document describing one? Even the most ardent believers take it on faith rather than evidence.
 > 2. Religion is phased out. As society modernizes again we leave behind silly beliefs, for what we can base in evidence. Are those historical documents or religious texts? What does it matter what a priest of the religion clarified in a foot note.
 > 3. For true forgetting, the specific religion has to die out too. No more believers, no more churches, just some religious scholars who do their best to work backwards from 700 year old religious texts (see: Norse Mythology).
-> I think in the history of the world we can look to see how the ancient religions are no longer practiced. Is it really so far fetched to think 2000 years later a person might look at someone claiming that hieroglyphs were a manual for ancient spacecraft as insane?
-> I think the Foundation series also discusses this. How even a slow collapse of a centralized and specialized system can leave behind problems. If no physicists nor nuclear engineers lived on your planet nor university could you figure out how to fix a nuclear reactor (even assuming Wikipedia: [Here figure this out](https://en.wikipedia.org/wiki/CANDU_reactor)) in time to prevent the collapse of the power grid and the information it gives you?
 > 
+> I think in the history of the world we can look to see how the ancient religions are no longer practiced. Is it really so far fetched to think 2000 years later a person might look at someone claiming that hieroglyphs were a manual for ancient spacecraft as insane?
+> 
+> I think the Foundation series also discusses this. How even a slow collapse of a centralized and specialized system can leave behind problems. If no physicists nor nuclear engineers lived on your planet nor university could you figure out how to fix a nuclear reactor (even assuming Wikipedia: [Here figure this out](https://en.wikipedia.org/wiki/CANDU_reactor)) in time to prevent the collapse of the power grid and the information it gives you?
 
->> **u/meterion** [+5] *
+>> **u/meterion** [+7]  (10 hours later)
 >> 
 >> I like that list, but I think it can be generalized a bit more. I would rephrase it in terms of:
->> 1. Direct evidence exists. At this point, it takes activate information suppression by an organized force to keep knowledge from spreading, and will likely be imperfect even in ideal conditions. (Ex: North Koreans' idea of what other countries are like")
->> 2. Primary sources exist. The immediate event is over, but evidence of existence continues in the form of testimonials, accounts, pictures and video, etc. At this point, depending on extensiveness of documentation, misinformation can easily begin. Outright denial is possible, but unlikely without extensive measures by a central force. (Ex: China's position on the Tiananmen Square protests)
->> 3. Secondary sources exist. At this point, no living persons directly involved with the event are around. Records only exist through data, more easily manipulated or deleted. It becomes necessary to collate different sources to obtain a comprehensive picture of the event, and distortions of the truth more regularly occur. (Ex: Debates over the 19th century genocide in Australia)
->> And from then on, corruption and loss of secondary sources causes history to slowly turn to legend, and legend to religion, at which point your phases come into play.
 >> 
+>> 1. Direct evidence exists. At this point, it takes activate information suppression by an organized force to keep knowledge from spreading, and will likely be imperfect even in ideal conditions. (Ex: North Koreans' idea of what other countries are like")
+>> 
+>> 2. Primary sources exist. The immediate event is over, but evidence of existence continues in the form of testimonials, accounts, pictures and video, etc. At this point, depending on extensiveness of documentation, misinformation can easily begin. Outright denial is possible, but unlikely without extensive measures by a central force. (Ex: China's position on the Tiananmen Square protests)
+>> 
+>> 3. Secondary sources exist. At this point, no living persons directly involved with the event are around. Records only exist through data, more easily manipulated or deleted. It becomes necessary to collate different sources to obtain a comprehensive picture of the event, and distortions of the truth more regularly occur. (Ex: Debates over the 19th century genocide in Australia)
+>> 
+>> And from then on, corruption and loss of secondary sources causes history to slowly turn to legend, and legend to religion, at which point your phases come into play.
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (15 hours later)
 >> 
 >> For point 3 to happen the tradition of writing things down and spreading multiple copies would have to die out. Either that or an *extensive* fanatical book burning campaign.
->> Otherwise technology would be lost, but "this is how the world used to be" texts would not. Else the texts un question may spend centuries being unbelievable ancient myths, but would be regarded as valuable sources of knowledge the moment of those mythological devices mentioned are directly replicated.
 >> 
+>> Otherwise technology would be lost, but "this is how the world used to be" texts would not. Else the texts un question may spend centuries being unbelievable ancient myths, but would be regarded as valuable sources of knowledge the moment of those mythological devices mentioned are directly replicated.
 
-> **u/Endovior** [+10] *
+> **u/Endovior** [+10]  (5 hours later)
 > 
 > Collapse of an advanced information system probably does a pretty good job of it. After books and similar physical records are phased out in favour of purely electronic information systems, practical knowledge of printing techniques will mostly disappear in a generation, depriving society of a valuable tool for maintaining its knowledge after a serious setback.
-> This might happen immediately and deliberately in the course of planning an interstellar colony expedition; mass is valuable aboard a starship, so why bring physical books when you can bring that knowledge in electronic form? Then the starship lands at its destination and promptly breaks down, and the knowledge base of the children of spacefarers is reset to oral tradition overnight, demonstrating why physical backups to those records would've been handy. Oops.
-> Some knowledge could still be preserved through oral tradition and hastily-improvised physical records, but with the sudden loss of their advanced technology, the survivors will have more serious problems to worry about than trying to record whatever details they can remember of the many, many things they can no longer do. In time, this fragmented information decays further, and passes into myth and legend, and is eventually considered no more reliable than any just-so story invented by the local wise men.
-> Additionally, if the planet they're stranded on turns out to be missing key resources in the path to industrialization and space travel, they might be stuck at a low tech level for good... or at least until another space traveller stumbles upon the lost human colony.
 > 
+> This might happen immediately and deliberately in the course of planning an interstellar colony expedition; mass is valuable aboard a starship, so why bring physical books when you can bring that knowledge in electronic form? Then the starship lands at its destination and promptly breaks down, and the knowledge base of the children of spacefarers is reset to oral tradition overnight, demonstrating why physical backups to those records would've been handy. Oops.
+> 
+> Some knowledge could still be preserved through oral tradition and hastily-improvised physical records, but with the sudden loss of their advanced technology, the survivors will have more serious problems to worry about than trying to record whatever details they can remember of the many, many things they can no longer do. In time, this fragmented information decays further, and passes into myth and legend, and is eventually considered no more reliable than any just-so story invented by the local wise men.
+> 
+> Additionally, if the planet they're stranded on turns out to be missing key resources in the path to industrialization and space travel, they might be stuck at a low tech level for good... or at least until another space traveller stumbles upon the lost human colony.
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (15 hours later)
 >> 
 >> You really think that no survivor would be able to remember and implement paper making and basic printing if the lost civilisation manages to restore itself to the level of a farming town within 30 years or less?
->> 
 
->>> **u/Endovior** [+4] *
+>>> **u/Endovior** [+5]  (17 hours later)
 >>> 
 >>> I'm assuming something like a generation ship. None of the spacers would have had personal experience with paper, so they wouldn't "remember" it except possibly as ancient history. Which is a far cry from reinventing it from first principles.
->>> 
 
->>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+2]  *Solitary Locust* (20 hours later)
 >>>> 
 >>>> We remember the horse plow only from ancient history but I think we would quick try to recreate it.
->>>> For a people used to digital communication, finding a new medium to write on will be a priority right after first needs. And if you have both wood work and writing down then printing should not be a far cry for people who remember standardized fonts and copy/paste.
 >>>> 
+>>>> For a people used to digital communication, finding a new medium to write on will be a priority right after first needs. And if you have both wood work and writing down then printing should not be a far cry for people who remember standardized fonts and copy/paste.
 
->>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (17 hours later)
 >>> 
 >>> They'd do that only if they're not too busy with not dying.
->>> 
 
->>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (20 hours later)
 >>>> 
 >>>> It depends on how far back they get thrown technologically. But I believe if they manage to found an actual town/city before the last original survivor hits 70 then they should be able to preserve the knowledge that they actually came from space.
->>>> 
 
-> **u/GWJYonder** [+9] *
+> **u/GWJYonder** [+9]  (5 hours later)
 > 
 > Something to keep in mind is how long physical remnants of human activities stick around, whether it needs to be dug up or not. (It's easy for a US person to think of history as something that needs to be dug up, but in most (or close to it) places on Earth people live within a short trip of structures many hundreds or a thousand years old.
-> Many materials certainly can't survive such a time intact, unless cared for incredibly well, and maybe that's even more the case on whatever planet these humans are trapped on, but at least on Earth things that don't oxidize will keep a super long time (glass and ceramics in particular).
-> The Uplift universe from David Brin is the sort of culture that could get around this though. Galactic society is in general very conservationist, much of the rules of the different alien races are based around making sure nothing messes with the ability for new Uplift-worthy candidates to develop. One of the rules is that (aside from a species home planet) worlds are typically "leased" not owned. Even if that lease period is in the hundreds of thousands of years.
-> What this means is that permanent structures are usually built along subduction zones so that after the time expires and the species moves on, all traces will be gone within a couple million years. Practices like that would help give a reason for the fictional universes archaelogists to be so much more inept than real ones.
 > 
+> Many materials certainly can't survive such a time intact, unless cared for incredibly well, and maybe that's even more the case on whatever planet these humans are trapped on, but at least on Earth things that don't oxidize will keep a super long time (glass and ceramics in particular).
+> 
+> The Uplift universe from David Brin is the sort of culture that could get around this though. Galactic society is in general very conservationist, much of the rules of the different alien races are based around making sure nothing messes with the ability for new Uplift-worthy candidates to develop. One of the rules is that (aside from a species home planet) worlds are typically "leased" not owned. Even if that lease period is in the hundreds of thousands of years.
+> 
+> What this means is that permanent structures are usually built along subduction zones so that after the time expires and the species moves on, all traces will be gone within a couple million years. Practices like that would help give a reason for the fictional universes archaelogists to be so much more inept than real ones.
 
-> **u/fubo** [+6] *
+> **u/fubo** [+6]  (6 hours later)
 > 
 > Here's another thing to make it worse:
-> Human empires routinely extirpated history. The Qin Dynasty "burned the books and buried the scholars". The Spanish Catholic colonists burned whatever Mayan codices they could get their hands on. The Nazis and the Communists burned books, killed scholars, and published falsified histories. The classical world had the sentence of oblivion, in which those in power could order a person wiped from history and ban all mention of their name.
-> The further back into history we look, the more likely it is that some king or bishop or commissar has interfered — *for the exact purpose of preventing us from learning something.*
-> (Recommended reading: Umberto Eco, *The Name of the Rose*.)
 > 
+> Human empires routinely extirpated history. The Qin Dynasty "burned the books and buried the scholars". The Spanish Catholic colonists burned whatever Mayan codices they could get their hands on. The Nazis and the Communists burned books, killed scholars, and published falsified histories. The classical world had the sentence of oblivion, in which those in power could order a person wiped from history and ban all mention of their name.
+> 
+> The further back into history we look, the more likely it is that some king or bishop or commissar has interfered — *for the exact purpose of preventing us from learning something.*
+> 
+> (Recommended reading: Umberto Eco, *The Name of the Rose*.)
 
-> **u/onestojan** [+7] *
+> **u/onestojan** [+8]  (10 hours later)
 > 
 > The model of the brain as hardware that runs on culture - software - can help us understand how we forget. If we can't upkeep the culture (not just social behaviour and norms, but also art, rituals, technology etc.) the next generation has a downgraded "operational system". It's a slippery slope.
+> 
 > If the means of preserving knowledge are fragile and centralized, they have a smaller chance of survival. [Heron](https://en.wikipedia.org/wiki/Hero_of_Alexandria) invented a steam engine almost two millennia before the Industrial Revolution! But the burning of the Library of Alexandria contributed to the technology being forgotten. We could have steam-powered chariots instead we got all this papyrus that burns.
+> 
 > As if exposing books to fire was not enough, knowledge has to survive the burning of scholars (shout out to [emperor Qin Shi Huang](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars)). And so we enter the area of [politics of memory](https://en.wikipedia.org/wiki/Politics_of_memory) and [memory laws](https://en.wikipedia.org/wiki/Memory_laws). State approved narratives survive while the truth suffers. Excluding people from official accounts is an old practice ([damnatio memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae)).
+> 
 > [Collective forgetting](https://en.wikipedia.org/wiki/Social_amnesia) is also a possibility: 
 > > **Social amnesia** can be a result of "forcible repression" of memories, ignorance, changing circumstances, or the forgetting that comes from changing interests. Protest, folklore, "local memory", and collective nostalgia are counter forces that combat social amnesia.
-> We have to bear in mind that "[**conversations can alter memories** of speakers and listeners in similar ways, even when the **memories differ**](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2009.02343.x)". Just "[**listening** to a speaker remember selectively **can induce forgetting** of related information in the listener](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01967.x)".
-> Moreover, belonging to the same social group favours similar patterns of selective forgetting, so that "[basic mnemonic mechanisms seem to be adapted to promote the emergence of shared mnemonic representations that **preserve group membership and group identity**](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0000077)".
 > 
+> We have to bear in mind that "[**conversations can alter memories** of speakers and listeners in similar ways, even when the **memories differ**](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2009.02343.x)". Just "[**listening** to a speaker remember selectively **can induce forgetting** of related information in the listener](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01967.x)".
+> 
+> Moreover, belonging to the same social group favours similar patterns of selective forgetting, so that "[basic mnemonic mechanisms seem to be adapted to promote the emergence of shared mnemonic representations that **preserve group membership and group identity**](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0000077)".
 
-> **u/fishingforsalt** [+6] *
+> **u/fishingforsalt** [+6]  (2 hours later)
 > 
 > If a civilization has no way of recording their past it may be all too easy to become skeptical of it. Even writing isn't necessarily going to sway everyone. Just think about how many old creation stories we have nowadays. I don't think it would be that unlikely for a civilization to end up viewing their past in much the same way, or the truth gets muddled with lies as everyone tells a different version from generation to generation
-> 
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (15 hours later)
 >> 
 >> It doesn't need to sway many. It just has to be interesting enough to be replicated with relative accuracy and preserved for long enough to survive to an age where the mentioned tech doesn't seem fantastical anymore.
->> We are not talking of texts talking about ancient visitors from space here. We are talking about comprehensive texts written *by* said ancient space visitors.
 >> 
+>> We are not talking of texts talking about ancient visitors from space here. We are talking about comprehensive texts written *by* said ancient space visitors.
 
-> **u/ABZB** [+3]  *Count of Real Numbers**
+> **u/ABZB** [+3]  *Count of Real Numbers* (19 hours later)
 > 
 > There is a third method, which requires as follows (I initially came up with this to justify Medieval Stasis in fantasy worlds):  
-
+> 
 > The tech/magic has these properties
+> 
 > * Use requires very little or no infrastructure (a single being or a very small group can maintain everything on their own, new materials are either not required, or are so few they can be easily gathered and stored by a single person).
 > * Use requires a significant investment of time to learn, or use requires large time investment.
 > * R&D is impossible, thought to be impossible, or is \[almost\] entirely theory-based.
+> 
 > &#x200B;
+> 
 > This leads to the following effects
+> 
 > * There is little to no gain from disseminating knowledge or ability to use the tech (one does not need an army of educated people to maintain one's high standard of living).
 >    * Thus, spreading said knowledge and ability only creates potential threats
 > * Thus, the only ones that one has an incentive to teach are those one really cares about - one's family and friends (freely chosen apprentices fall into the latter category).
 > * Thus, if single practitioner dies before passing on everything they know, that knowledge is lost. If their library is damaged or destroyed, that knowledge is lost.
-> &#x200B;
-> This could happen with sufficiently advanced technology - for example when the only people who really understand it are the ones who are just really interested in it.
 > 
+> &#x200B;
+> 
+> This could happen with sufficiently advanced technology - for example when the only people who really understand it are the ones who are just really interested in it.
 
->> **u/LeifCarrotson** [+2] *
+>> **u/LeifCarrotson** [+2]  (3 days later)
 >> 
 >> I'd argue this is the current and natural state of things. There was a brief window of time where a polymath could reasonably have some knowledge of that era's technology (ie "A Connecticut Yankee in King Arthur's Court"). 
->> Now we interact with nanoscale engineering and global networks on a daily basis but only know how to power cycle a router, and society still functions.
->>  I'm a computer engineer and have the knowledge and experience necessary to assemble a computer and OS from passives and semiconductors, given a working supply chain for those components, but I feel pretty pessimistic about my ability to uplift a society if transported to the dark ages.
 >> 
+>> Now we interact with nanoscale engineering and global networks on a daily basis but only know how to power cycle a router, and society still functions.
+>> 
+>>  I'm a computer engineer and have the knowledge and experience necessary to assemble a computer and OS from passives and semiconductors, given a working supply chain for those components, but I feel pretty pessimistic about my ability to uplift a society if transported to the dark ages.
 
->>> **u/ABZB** [+1]  *Count of Real Numbers**
+>>> **u/ABZB** [+1]  *Count of Real Numbers* (3 days later)
 >>> 
 >>> True - but you'd have to have many people die, and civilization collapse, to lose the knowledge,  whereas in my scenario, you can lose the knowledge without any kind of disaster- like, a wizard dies of an accident, and some knowledge is lost, because it does not exist anywhere else
->>> 
 
-> **u/vimefer** [+2] *
+> **u/vimefer** [+2]  (11 hours later)
 > 
 > Many civilizations and cultures used to have an extensive oral tradition of transmitting their own foundational myths and history. Some argue the Ancient Flood myth present in every culture of the world in some form is related to the Younger Dryas extinction event, so it would have been transmitted without any tangible record over millenias, without fail.
-> Unless you mean to have people move to an entirely new location (off Earth) and then been explicitly told lies, I don't see any such "forgetting" happening realistically. There's a funny (and IMO realistic) version of this in Jack Vance's book "the blue world", where the people of the liquid world are all descendants of convicts from a crashed prison spaceship.
-> Now, if you mean losing some technology, well we only recently figured out how the Ancient Romans used to make nigh-eternal concrete. We're not quite sure of how the Mongolian raiders used to craft their composite bows. And we're still left with guesses as to how exactly the Ancient Egyptians were lifting all those blocks making up the great pyramids (I like [this theory](http://emhotep.net/from-quarry-to-capstone-transporting-the-blocks-and-megaliths-of-the-great-pyramid-3/) best), and figuring out their hieroglyphs was a stroke of luck mostly.
-> It only takes a few years of bad crop failures toppling an Empire or an invasion to replace the language or crafting culture (like with the Roman amphors replacing Celtic barrels).
 > 
+> Unless you mean to have people move to an entirely new location (off Earth) and then been explicitly told lies, I don't see any such "forgetting" happening realistically. There's a funny (and IMO realistic) version of this in Jack Vance's book "the blue world", where the people of the liquid world are all descendants of convicts from a crashed prison spaceship.
+> 
+> Now, if you mean losing some technology, well we only recently figured out how the Ancient Romans used to make nigh-eternal concrete. We're not quite sure of how the Mongolian raiders used to craft their composite bows. And we're still left with guesses as to how exactly the Ancient Egyptians were lifting all those blocks making up the great pyramids (I like [this theory](http://emhotep.net/from-quarry-to-capstone-transporting-the-blocks-and-megaliths-of-the-great-pyramid-3/) best), and figuring out their hieroglyphs was a stroke of luck mostly.
+> 
+> It only takes a few years of bad crop failures toppling an Empire or an invasion to replace the language or crafting culture (like with the Roman amphors replacing Celtic barrels).
 
->> **u/mbzrl** [+1] *
+>> **u/mbzrl** [+1]  (15 hours later)
 >> 
 >> A bit off topic because it doesn’t change your point at all, but could you point me towards a discussion of the ancient flood/younger dryas relationship? It sounds really cool to me, so I did a quick google of the subject. It looks like the most likely source of the flooding that kicked off the cold period is a North American ice sheet, and the likely drainage route doesn’t square with how widespread the ancient flood myth is, just to my current understanding. Would love to know more!
->> 
 
->>> **u/vimefer** [+2] *
+>>> **u/vimefer** [+2]  (16 hours later)
 >>> 
 >>> You'll want to have a long look at the evidence gathered for the impact hypothesis of the Younger Dryas on [this blog.](https://craterhunter.wordpress.com/a-different-kind-of-climate-catastrophe/)
->>> 
 
->>>> **u/mbzrl** [+2] *
+>>>> **u/mbzrl** [+2]  (20 hours later)
 >>>> 
 >>>> Fascinating and convincing. Thanks for sharing. Much more violent than my quick search had led me to believe, but given that the Younger Dryas includes mass extinction and 1300 years of ice age level temperatures, the event would have to have been.
->>>> 
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (17 hours later)
 > 
 > An EMP or anything like that would completely blast away a lot of information. Lack of time, manpower, and resources might hamper written records. And written records can also be destroyed by harsh enough conditions. There's a lot of practical know-how that is going to simply disappear if enough people die before they get a chance to teach their skills to others.
-> That said, I think *completely forgetting* something like that might be really hard. But forgetting all the useful bits? Much more feasible. You'd probably just get with leftover myths and wildly misrepresented stories. In fact, let's consider this from another point of view - is there something we've forgotten in our past? Not advanced technologies, but specific events. We have lots of myths about a flood, for example, in many cultures. Of course a world-spanning flood is nonsense, but could it be the leftover of some far reaching memory of, say, a major tsunami caused by an impact, or a time of rise in sea levels at the end of an ice age? I think the possibility is there, but the tale is now mangled beyond recognition, and we can't just tell fact from fiction any more.
 > 
+> That said, I think *completely forgetting* something like that might be really hard. But forgetting all the useful bits? Much more feasible. You'd probably just get with leftover myths and wildly misrepresented stories. In fact, let's consider this from another point of view - is there something we've forgotten in our past? Not advanced technologies, but specific events. We have lots of myths about a flood, for example, in many cultures. Of course a world-spanning flood is nonsense, but could it be the leftover of some far reaching memory of, say, a major tsunami caused by an impact, or a time of rise in sea levels at the end of an ice age? I think the possibility is there, but the tale is now mangled beyond recognition, and we can't just tell fact from fiction any more.
 
-> **u/Teulisch** [+1]  *Space Tech Support**
+> **u/Teulisch** [+1]  *Space Tech Support* (a day later)
 > 
 > types of data storage. 
-> oral history is the oldest and most basic. its what was before, and we really have lost a lot of the skills for this in modern times. 
-> written history is a bit better, but languages change over time. look at older english writing, even shakespeare. lots of confusing language there, but the modern translations are horribly bad. 
-> then we get digital media. you need both power and a working device to view it, and EMP will destroy it. but its very dense, and you can store so much more information in a smaller space, share it easily, and copy it as much as you want. 
-> if your space-faring civilization just lost all of its digital storage, and a large percentage of the population just died in the following riots and famine... then the survivors are the ones who knew how to get food, and fight to survive. how much do those people remember of your civilization, and how much do they want to forget? 
-> sure, a trove of hardcopy books is priceless... but if its a cold enough winter, not freezing to death is more important. and paper will eventually rot away, if not cared for properly. 
-> and i would add in one more factor, politics. if you want to be a dictator and control a population, then you dont want them to have easy access to information about other forms of government. why, they minght question your divine right to rule and rebell! so a group (maybe a church) acts to destroy any records that contradict their power and authority. 
-> without a cataclysm, it could just be a regime change. or a new religion. a people who reject the old ways completely, and let it all be forgotten. even if its double-plus un-good.
 > 
+> oral history is the oldest and most basic. its what was before, and we really have lost a lot of the skills for this in modern times. 
+> 
+> written history is a bit better, but languages change over time. look at older english writing, even shakespeare. lots of confusing language there, but the modern translations are horribly bad. 
+> 
+> then we get digital media. you need both power and a working device to view it, and EMP will destroy it. but its very dense, and you can store so much more information in a smaller space, share it easily, and copy it as much as you want. 
+> 
+> if your space-faring civilization just lost all of its digital storage, and a large percentage of the population just died in the following riots and famine... then the survivors are the ones who knew how to get food, and fight to survive. how much do those people remember of your civilization, and how much do they want to forget? 
+> 
+> sure, a trove of hardcopy books is priceless... but if its a cold enough winter, not freezing to death is more important. and paper will eventually rot away, if not cared for properly. 
+> 
+> and i would add in one more factor, politics. if you want to be a dictator and control a population, then you dont want them to have easy access to information about other forms of government. why, they minght question your divine right to rule and rebell! so a group (maybe a church) acts to destroy any records that contradict their power and authority. 
+> 
+> without a cataclysm, it could just be a regime change. or a new religion. a people who reject the old ways completely, and let it all be forgotten. even if its double-plus un-good.
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (4 days later)
 >> 
 >> You need more than power and a device to read digital records: You also need to know the format. 
->> Speaking as someone who has needed to decode a binary-only medical records system built during the DOS era, not having the format can be a nightmare, or can simply render something illegible.
 >> 
+>> Speaking as someone who has needed to decode a binary-only medical records system built during the DOS era, not having the format can be a nightmare, or can simply render something illegible.
 
-> **u/MittensUniversesBane** [+1] *
+> **u/MittensUniversesBane** [+1]  (5 days later)
 > 
 > Once I read that it takes 7 years for a society to forget major events despite records of any kind. The mob rules and the mob doesn't care for what the few remembers.
-> If something big enough happens, we will be forgotten in less than 10 years. How many people do you know that know how to play music? How many people do know how to read music? How many people do know how to build a musical instrument? How many people do know how to procure and work the materials for said musical instrument? Now let's translate it to every field of knowledge. 
-> Minerals might prevail, rocks, crystal, etc but as soon as power goes off, fire, moisture, acidity will destroy papers. Our beloved clouds, hard drives, flash drives, sd cards will be some alien collection of plastic and metal.
-> It's easier to find people who is capable of identifying famous people or brands or cars than finding people who is capable to heal people using plants.
-> We made our bet and will lose at some point. The peppers, the outdoors people, the survivalist will be the grand fathers of the next cavemen. I wonder how many times we've done this.
-> The Popol Vuh is an ancient text that talks about the stone men, wood men, mud men, corn men... Maybe they were here before us using similar devices and technology completely different from what we know asking the same questions. I believe that the puppeteers reset all as soon as we become a true menace or as soon as enough people becomes aware.
 > 
+> If something big enough happens, we will be forgotten in less than 10 years. How many people do you know that know how to play music? How many people do know how to read music? How many people do know how to build a musical instrument? How many people do know how to procure and work the materials for said musical instrument? Now let's translate it to every field of knowledge. 
+> 
+> Minerals might prevail, rocks, crystal, etc but as soon as power goes off, fire, moisture, acidity will destroy papers. Our beloved clouds, hard drives, flash drives, sd cards will be some alien collection of plastic and metal.
+> 
+> It's easier to find people who is capable of identifying famous people or brands or cars than finding people who is capable to heal people using plants.
+> 
+> We made our bet and will lose at some point. The peppers, the outdoors people, the survivalist will be the grand fathers of the next cavemen. I wonder how many times we've done this.
+> 
+> The Popol Vuh is an ancient text that talks about the stone men, wood men, mud men, corn men... Maybe they were here before us using similar devices and technology completely different from what we know asking the same questions. I believe that the puppeteers reset all as soon as we become a true menace or as soon as enough people becomes aware.
 
 ---
 

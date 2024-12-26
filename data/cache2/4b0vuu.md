@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (10 seconds later)
 > 
 > Another cg99 work. Just go read it.
-> 
 
-> **u/boomfarmer** [+1]  *Trying to be helpful**
+> **u/boomfarmer** [+1]  *Trying to be helpful* (21 hours later)
 > 
 > This assumes you're familiar with BSG and Robotech/Macross, and really requires the Robotech/Macross knowledge. Less so on the BSG knowledge.
-> Pretty interesting.
 > 
+> Pretty interesting.
 
 ---
 

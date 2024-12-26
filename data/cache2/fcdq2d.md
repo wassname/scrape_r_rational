@@ -2,7 +2,7 @@
 
 * Author: u/ShotoGun *
 * URL: https://www.reddit.com/r/rational/comments/fcdq2d/is_this_webnovel_a_rational_story/
-* Score: 5
+* Score: 4
 
 * Created: 2020-03-02T15:32:07
 
@@ -15,21 +15,19 @@ The main character is very OP like the protagonist of “I’m a spider so what?
 
 ### Comments:
 
-> **u/gonnabedoctor** [+9] *
+> **u/gonnabedoctor** [+7]  (18 hours later)
 > 
 > I like main character's traits. She is ruthless and rational in a dog eat dog world on the other side loves and trusts her friends, have a bottom line with a little sense of justice. But other characters are there just to be there, they have little personality and impact. I still don't understand why she is sticking with them. Story is predictable if summarized MC just steamrolls everything while carrying her teammates. This novel is still a good read to pass time.
-> 
 
-> **u/Flashbunny** [+3] *
+> **u/Flashbunny** [+3]  (11 hours later)
 > 
 > The non-mobile link is this: https://www.webnovel.com/book/14064812306272705
-> I haven't had time to actually look at the story yet though.
 > 
+> I haven't had time to actually look at the story yet though.
 
-> **u/TinySystem** [+1] *
+> **u/TinySystem** [+1]  (2 months later)
 > 
 > I love a cliche revenge plot!!!!!!!!
-> 
 
 ---
 

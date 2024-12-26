@@ -2,7 +2,7 @@
 
 * Author: u/DocFuture *
 * URL: http://docfuture.tumblr.com/post/147975299386/the-makers-ark-chapter-26
-* Score: 13
+* Score: 12
 
 * Created: 2016-07-26T02:19:04
 
@@ -12,40 +12,39 @@
 
 ### Comments:
 
-> **u/DocFuture** [+3] *
+> **u/DocFuture** [+3]  (59 seconds later)
 > 
 > Golden Valkyrie gets the plot moving by dropping it down an elevator shaft, as is her way. If you pay careful attention to what she says, what she implies, and what she doesn't say, there are quite a few clues, for this book and the next.
-> 
 
->> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (19 hours later)
 >> 
 >> Why would you make a spear out of a black hole or BEC?  Hmm or are you going string theory on us?  I really do need to sit down and study again till I can understand/conceptualize string theory.
->> 
 
->>> **u/DocFuture** [+3] *
+>>> **u/DocFuture** [+3]  (21 hours later)
 >>> 
 >>> Not going to spoiler anything, but it is interesting to read the speculation 8-).  The cryptic clues about Skybreaker's Spear will be revealed within 2 chapters, so you won't have to wait too long.
->>> Edit:  One thing I can say without spoilering anything:  Golden Valkyrie isn't particularly familiar with modern physics--her worldview is evocative and image-driven rather than scientific.  How she interprets whats she Sees is filtered through that.
 >>> 
+>>> Edit:  One thing I can say without spoilering anything:  Golden Valkyrie isn't particularly familiar with modern physics--her worldview is evocative and image-driven rather than scientific.  How she interprets whats she Sees is filtered through that.
 
->>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>> 
 >>>> Please don't spoil anything.  I'm just making semi-educated guesses from Golden Valkyrie's description.  Really looking forward to the cross of Physics porn this one will be.
->>>> 
 
->>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+1]  *sci-fi ≠ futurology* (20 hours later)
 >>> 
 >>> Dunno what BEC is, but I don't think she's talking about a black hole. "Ice, more than any frost giant has ever dreamed of". Black holes are cold (at least, when there's nothing else around), but lacking in solid water.
->>> A black dwarf is the closest match I can find. They're high-gravity (100,000 gees or so), and covered in various frozen gasses. On the downside, they're hypothetical objects that our universe is too young to contain, and also there's apparently no way to travel interstellar distances and land in the same universe you left.
->>> An alternate universe is more likely. Have any been introduced that would work?
 >>> 
+>>> A black dwarf is the closest match I can find. They're high-gravity (100,000 gees or so), and covered in various frozen gasses. On the downside, they're hypothetical objects that our universe is too young to contain, and also there's apparently no way to travel interstellar distances and land in the same universe you left.
+>>> 
+>>> An alternate universe is more likely. Have any been introduced that would work?
 
->>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>> 
 >>>> BEC [Boise Einstien Condensate]( https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate) Sorry It looked a bit awkward with a slash against black hole so I went with the acronym, though I should have known better. **Edit** after re-reading I'm probably looking for some form of degenerate matter more cohesively solid.  
->>>> [Large Plot Spoiler, or Synopsis of this plot point from text so far](#s " If you go back to the introduction of our expected antagonists it is highly suggestive that they are native to the high time dilation, density, and energy environment of black holes.  My physics is kinda weak in those realms, but trope wise the spear needs to be something that can hurt them, because they view demons as pests and humans as less than that, flicker is effectively one of them gone native to humanity.  This happened because Golden Valkyrie stole a forked probe, AKA skybreaker, to make flicker")
->>>> If I understand correctly all portals lead to other dimensions.  I Think I remember the 'dead star' the Volunteer ended up at being  classified as a pulsar by flicker, but only Golden Valkyrie and V-Man have been there so far.
 >>>> 
+>>>> [Large Plot Spoiler, or Synopsis of this plot point from text so far](#s " If you go back to the introduction of our expected antagonists it is highly suggestive that they are native to the high time dilation, density, and energy environment of black holes.  My physics is kinda weak in those realms, but trope wise the spear needs to be something that can hurt them, because they view demons as pests and humans as less than that, flicker is effectively one of them gone native to humanity.  This happened because Golden Valkyrie stole a forked probe, AKA skybreaker, to make flicker")
+>>>> 
+>>>> If I understand correctly all portals lead to other dimensions.  I Think I remember the 'dead star' the Volunteer ended up at being  classified as a pulsar by flicker, but only Golden Valkyrie and V-Man have been there so far.
 
 ---
 

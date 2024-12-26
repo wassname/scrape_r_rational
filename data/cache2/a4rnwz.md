@@ -12,159 +12,152 @@
 
 ### Comments:
 
-> **u/Laser68** [+97] *
+> **u/Laser68** [+98]  (9 minutes later)
 > 
 > I love how perfectly this story properly represents this subreddit. You have a time loop as an advantage, but so do your enemies, so each character acts as their own entity, and you get really interesting conflicts. 
-> Munchkining does not work out great if both people are doing it. If your plan relies on taking advantage of a "super obvious weakness" then it probably is not a real weakness and your plan probably will not work.
 > 
+> Munchkining does not work out great if both people are doing it. If your plan relies on taking advantage of a "super obvious weakness" then it probably is not a real weakness and your plan probably will not work.
 
->> **u/None** [+18] *
+>> **u/None** [+19]  (31 minutes later)
 >> 
 >> Well said
->> 
 
-> **u/SciresM** [+73] *
+> **u/SciresM** [+73]  (9 minutes later)
 > 
 > It's good to see Zorian isn't completely unaffected by his time in the loop; it's very humanizing.
-> No sign of Silverlake is concerning. Is there any risk of RR/SL trying to break out the primordial early/setting things in motion before the invasion? I'm not sure whether the dimensional magic boost provided by the planar alignment is a requirement for that.
 > 
+> No sign of Silverlake is concerning. Is there any risk of RR/SL trying to break out the primordial early/setting things in motion before the invasion? I'm not sure whether the dimensional magic boost provided by the planar alignment is a requirement for that.
 
->> **u/Ardvarkeating101** [+70]  *Father of Learning**
+>> **u/Ardvarkeating101** [+74]  *Father of Learning* (18 minutes later)
 >> 
 >> They'd need either the shifter children OR THE SOVEREIGN GATE OH FUCK THEY'RE WORKING ON DISGUISING THEIR WAY INTO THE TIME MAGIC BLACK ROOM FACILITY TO GRAB THE GATE AND JUST RELEASE PANAXETH SHIFTERS BE DAMNED!
->> It was mentioned in 91 that the gate would be even better than shifter children for connecting to Panaxeth, it's just A. the cultists/QI don't know about it and B. Divine artifacts are notoriously difficult to analyze.  But Silverlake and RR know what it is and where/how to get it!
 >> 
+>> It was mentioned in 91 that the gate would be even better than shifter children for connecting to Panaxeth, it's just A. the cultists/QI don't know about it and B. Divine artifacts are notoriously difficult to analyze.  But Silverlake and RR know what it is and where/how to get it!
 
->>> **u/signspace13** [+22] *
+>>> **u/signspace13** [+22]  (39 minutes later)
 >>> 
 >>> I think this would likely require the key, which is currently scattered around the world and in the hands of some very dangerous creatures, it's possible that RR knows all of these places as he managed to leave the loop, but it's also possible that he never had to unlock the gate as it wasn't barred when he went in. This would mean going to Koth, fighting princess breaking into the Eldermarian royal volt, beating up or convincing QI out of his crown, and raiding the demon wasps. 
->>> There are of course easy ways to do a few of these but I don't think RR and SL have access to them, the angels could have visited the wasps and told them the loop is over, which makes getting the ring  *hell*, they may not know how to use the dagger in the orb, I don't know if Z&Z made that info public, and they don't have Zorian's skill at Mind magic to shunt QI out of his body.
->>> They may not need them, but their is no reason to assume that everything will go well for them, especially because they are suspicious unstable psciopaths who almost certainly don't trust each other.
 >>> 
+>>> There are of course easy ways to do a few of these but I don't think RR and SL have access to them, the angels could have visited the wasps and told them the loop is over, which makes getting the ring  *hell*, they may not know how to use the dagger in the orb, I don't know if Z&Z made that info public, and they don't have Zorian's skill at Mind magic to shunt QI out of his body.
+>>> 
+>>> They may not need them, but their is no reason to assume that everything will go well for them, especially because they are suspicious unstable psciopaths who almost certainly don't trust each other.
 
->>>> **u/Ardvarkeating101** [+21]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+21]  *Father of Learning* (54 minutes later)
 >>>> 
 >>>> You don't need the key to use the Sovereign Gate to connect to Panaxeth, just to unlock it as a portal to reality when inside the gate.
->>>> Panaxeth is directly attached to the thing, and if you need to open the gate to get at him, then it's useless because only The Maker and his Agents can activate it and thus open the gate to the inside, as they did for Zack.  
->>>> Point is, there's no need for RR to get the key.
 >>>> 
+>>>> Panaxeth is directly attached to the thing, and if you need to open the gate to get at him, then it's useless because only The Maker and his Agents can activate it and thus open the gate to the inside, as they did for Zack.  
+>>>> 
+>>>> Point is, there's no need for RR to get the key.
 
->>>>> **u/signspace13** [+11] *
+>>>>> **u/signspace13** [+7]  (an hour later)
 >>>>> 
 >>>>> You might be right, but stating it as a certainty isn't useful for the sake of debate, and I doubt that the key piece are going to be ignored in the real world, I suspect the daggers actual function will be put to use at some point (my guess is to kill QI), and it's distinctly possible that RR needs the ring for his soul sight, though he may just have gone the quick and dirty path to get it.
->>>>> My point isn't that this would be the only obstacle, just that they will be facing obstacles of their own with their tasks, no matter what they are, they have to try and guess what Z&Z are doing at any moment as well, though SL has a better idea of it than RR.
->>>>> It's also distinctly possible that they aren't working together.
 >>>>> 
+>>>>> My point isn't that this would be the only obstacle, just that they will be facing obstacles of their own with their tasks, no matter what they are, they have to try and guess what Z&Z are doing at any moment as well, though SL has a better idea of it than RR.
+>>>>> 
+>>>>> It's also distinctly possible that they aren't working together.
 
->>>>>> **u/-Fender-** [+4] *
+>>>>>> **u/-Fender-** [+4]  (a day later)
 >>>>>> 
 >>>>>> Why do you think that RR ever found the entire key, or that he ever possessed any pieces besides the dagger? The Gate was open to begin with. He didn't need to collect the entire key to unbar the path. And he would most likely not hesitate to sacrifice dozens of lives in a ritual in order to gain soul sight, even if he somehow failed to find an alternative method to obtain it like Zorian did. So why do you think that he has any idea of the location of any of the artifacts other than the crown and the dagger, or that he has a method of traveling inter-continental distances like Zorian?
->>>>>> 
 
->>>>>>> **u/signspace13** [+2] *
+>>>>>>> **u/signspace13** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Because it seems counter productive to underestimates him, if nothing else, SL definitely knows all of that, and probably much more, it was established early on that she is nosy, and she likely tried to find out as much as she could about Z&Z while in the time loop, possibly even using Mind magic on the other temp loopers while Z&Z weren't around. So we shouldn't underestimate them, overestimating is a bad thing too, but not as bad as underestimating.
->>>>>>> 
 
->>>>>> **u/Ardvarkeating101** [+7]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+5]  *Father of Learning* (an hour later)
 >>>>>> 
 >>>>>> Regardless, they're not going to get the key unless QI has a ready-made gate, standing or Simulcrum-based, in Koth.  The Silent Doorways adepts are already being paid by Zorian and Zach and then it's like, 30 seconds to get the orb via teleportation, considering Zorian can now teleport across the continent to drop his parents off I'm pretty sure he can straight up teleport to the Orb Cenote as soon as he steps through the gate.
->>>>>> No orb, no key.
 >>>>>> 
+>>>>>> No orb, no key.
 
->>>> **u/turtleswamp** [+4] *
+>>>> **u/turtleswamp** [+5]  (2 days later)
 >>>> 
 >>>> Silverlake probably knows where the pieces are and at least some of the methods Z&Z used to get them.
->>>> Even if Z&Z never trusted her with the information directly (unlikely, as they would not have been able to keep her cooperation if they appeared to be shutting her out of important conversations) and she never participated in any of the recovery quests, it would have still been impractical to completely obscure when in each loop Z&Z begin having each pieces and what resources they take with them with and where they go just before that point.
 >>>> 
+>>>> Even if Z&Z never trusted her with the information directly (unlikely, as they would not have been able to keep her cooperation if they appeared to be shutting her out of important conversations) and she never participated in any of the recovery quests, it would have still been impractical to completely obscure when in each loop Z&Z begin having each pieces and what resources they take with them with and where they go just before that point.
 
->>>> **u/MilesSand** [+2] *
+>>>> **u/MilesSand** [+2]  (3 days later)
 >>>> 
 >>>> It only acts as a key from within.
->>>> 
 
->>> **u/-Fender-** [+34] *
+>>> **u/-Fender-** [+34]  (3 hours later)
 >>> 
 >>> Panaxeth was connected to the Gate while inside the loop, sure. There is no guarantee that this is still the case. I seem to recall seeing mention that it was only this particular time that it was Panaxeth powering the Gate; that it was his turn, but that it is sometimes another primordial's turn. Whether the Gate can still be used to bridge the worlds is unclear.
->>> 
 
->>>> **u/I-want-pulao** [+28] *
+>>>> **u/I-want-pulao** [+29]  (3 hours later)
 >>>> 
 >>>> Totally right Fender. 
+>>>> 
 >>>> Ch 91
+>>>> 
 >>>> >However, the cult leaders would ultimately see the light when Zach and Zorian showed them the Sovereign Gate. They did not explain to the cultists what the object exactly did, but they did tell them it was a divine artifact that contained some of the essence of Panaxeth itself… and could thus be used as a key to open Panaxeth's prison. A much better key than the shifter blood essence they originally planned to use for the purpose, too.  
 >>>> >  
 >>>> >Though their description was deceptive, the basic facts were entirely true – **within the reality of the time loop**, the Sovereign Gate could very much be used as a key to open Panaxeth's prison. In fact, using the Sovereign Gate was the key part of their plan to exit the time loop. This had been true while they had Silverlake's cooperation and it was true now.
->>>> 
 
->>>> **u/Ardvarkeating101** [+4]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+5]  *Father of Learning* (3 hours later)
 >>>> 
 >>>> > but that it is sometimes another primordial's turn
->>>> I don't remember this part
 >>>> 
+>>>> I don't remember this part
 
->>>>> **u/I-want-pulao** [+3] *
+>>>>> **u/I-want-pulao** [+2]  (3 hours later)
 >>>>> 
 >>>>> I kinda remember it but don't quote me. It was hypothesized but never said out loud that it changes. It's just interesting that the Sovereign Gate is stored in the Hole where Pan's prison is. Maybe in earlier times the Sovereign Gate had to be in Miasina and near another primordial's prison...
->>>>> 
 
->>>>>> **u/hallo_friendos** [+20] *
+>>>>>> **u/hallo_friendos** [+21]  (14 hours later)
 >>>>>> 
 >>>>>> > "Panaxeth claims the Sovereign Gate is not made from a primordial like we thought – it is more like an attachment, or maybe a shell, which must be bonded to a specific primordial in order to work. This can potentially be any primordial, but currently it's Panaxeth."
->>>>>> Ilsa speaking, Ch 90.
 >>>>>> 
+>>>>>> Ilsa speaking, Ch 90.
 
->>>>>> **u/Ardvarkeating101** [+5]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+4]  *Father of Learning* (4 hours later)
 >>>>>> 
 >>>>>> SG isn’t stored in the hole, it’s adjacent to it under Cyoria
->>>>>> 
 
->>>>>>> **u/I-want-pulao** [+2] *
+>>>>>>> **u/I-want-pulao** [+2]  (22 hours later)
 >>>>>>> 
 >>>>>>> You're right! I wasn't clear enough but I meant with Pan's prison touching the reality at multiple points around the Hole I think it's close enough to be considered next to the SG in the Black Room facility.
->>>>>>> 
 
->>>>> **u/MilesSand** [+1] *
+>>>>> **u/MilesSand** [+1]  (3 days later)
 >>>>> 
 >>>>> I remember it. Panaxeth, I think in the private conversation with Zoran
->>>>> 
 
->>> **u/Laser68** [+11] *
+>>> **u/Laser68** [+11]  (28 minutes later)
 >>> 
 >>> Definitely an interesting theory. Unsure if the gate can be used easily without the planar alignment powering it, considering it already used that power. I feel like there is a reason the normal release point is where it is.
->>> 
 
->>>> **u/Ardvarkeating101** [+17]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+14]  *Father of Learning* (32 minutes later)
 >>>> 
 >>>> The closer you get to the alignment, the easier breaking Panaxeth out becomes, because dimensionalism magic gets stronger the closer we are to alignment.  But they're not using shifter children anymore, they're using the sovereign gate, and everything is easier with that divine key, perhaps easy enough to do it weeks before the full alignment.
->>>> 
 
->>> **u/LordGoldenroot** [+9] *
+>>> **u/LordGoldenroot** [+7]  (3 hours later)
 >>> 
 >>> If I remember correctly, the reason the sovereign gate has a connection to panaxeth's prison is because that is part of how the time loop is powered. Because of that it is unlikely that panaxeth's prison is still attached to the sovereign gate and thus would not be useful as a key to opening the prison.
->>> 
 
->>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (3 hours later)
 >>>> 
 >>>> I thought it was because it was like a shell forcibly attached to the primordial, making it move into particular shapes, and now it's still connected but not forcing it into shapes anymore.
->>>> 
 
->>>>> **u/hallo_friendos** [+4] *
+>>>>> **u/hallo_friendos** [+4]  (13 hours later)
 >>>>> 
 >>>>> Yes, it's like a shell that can be attached to any primordial.
->>>>> However, I don't think it's still connected to Panaxeth. See Ch 91:
->>>>> > within the reality of the time loop, the Sovereign Gate could very much be used as a key to open Panaxeth's prison
->>>>> Technically we aren't told it can't be used outside, however it is definitely implied.
 >>>>> 
+>>>>> However, I don't think it's still connected to Panaxeth. See Ch 91:
+>>>>> 
+>>>>> > within the reality of the time loop, the Sovereign Gate could very much be used as a key to open Panaxeth's prison
+>>>>> 
+>>>>> Technically we aren't told it can't be used outside, however it is definitely implied.
 
->>>>>> **u/PM_ME_OS_DESIGN** [+2] *
+>>>>>> **u/PM_ME_OS_DESIGN** [+2]  (a day later)
 >>>>>> 
 >>>>>> If it could be used to open the prison *inside* the loop, why didn't Panaxeth get Red Robe to free him?
->>>>>> 
 
->>>>>>> **u/hallo_friendos** [+3] *
+>>>>>>> **u/hallo_friendos** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> The Sovereign gate had contingencies such that if a primordial was freed inside of it, that iteration would be destroyed and a new one made. We've seen this happen, in Ch 52:
+>>>>>>> 
 >>>>>>> >Above the Hole, and presumably on the inside of it, space shuddered  and writhed, distorting everything like hot summer air. Slowly, jagged  black threads started rising into the air from the depths, zig-zagging  through the air and occasionally forking offshoots.  
 >>>>>>> >  
 >>>>>>> >They were cracks, Zorian realized. Reality was breaking.  
@@ -172,198 +165,180 @@
 >>>>>>> >Suddenly,  a huge volume of space in the center of the cracks simply… caved in,  creating a pitch black hole that hung in the air. Something huge and  dark brown, like a hand studded with mouths and eyes, shot out of the  rip in space, but Zorian didn't have time to study it much. Without any  prompting from him, the marker on his soul suddenly activated and  everything went black.  
 >>>>>>> >  
 >>>>>>> >He woke up in his bed in Cirin, with Kirielle wishing him a good morning.
->>>>>>> So Panaxeth has been freed inside the loop (the usual way with the shifter children, not using the Sovereign Gate, but the result would have been the same), but it didn't help him at all in the end.
 >>>>>>> 
+>>>>>>> So Panaxeth has been freed inside the loop (the usual way with the shifter children, not using the Sovereign Gate, but the result would have been the same), but it didn't help him at all in the end.
 
->>>>>>> **u/VidiotGamer** [+2] *
+>>>>>>> **u/VidiotGamer** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> > If it could be used to open the prison inside the loop, why didn't Panaxeth get Red Robe to free him?
->>>>>>> If that's true then the only logical explanation is that Red Robe lacked something in order to do so - either an item, or the skill (or both) to make use of the gate that way, which is why he was going for the ritual.
 >>>>>>> 
+>>>>>>> If that's true then the only logical explanation is that Red Robe lacked something in order to do so - either an item, or the skill (or both) to make use of the gate that way, which is why he was going for the ritual.
 
->>>>>>>> **u/turtleswamp** [+2] *
+>>>>>>>> **u/turtleswamp** [+2]  (2 days later)
 >>>>>>>> 
 >>>>>>>> I thought it was implied that using the gate as an alternative was only discovred by the cooperation between the cultists and the black room researchers and require the cumulated research done by Z&Z and the temporary loopers.
->>>>>>>> &#x200B;
->>>>>>>> RR probably never reproduced that particular think tank. He would have lacked the motivation to do so (already had a viable plan he just needed to optimize in the ritual), several of the skills Z&Z used to make it happen (notably the mind magic, and dimensionalism skills to turn the orb into a black room), and the background research much of which was done by people we have no reason to believe RR ever met.
 >>>>>>>> 
+>>>>>>>> &#x200B;
+>>>>>>>> 
+>>>>>>>> RR probably never reproduced that particular think tank. He would have lacked the motivation to do so (already had a viable plan he just needed to optimize in the ritual), several of the skills Z&Z used to make it happen (notably the mind magic, and dimensionalism skills to turn the orb into a black room), and the background research much of which was done by people we have no reason to believe RR ever met.
 
->>>>>>>> **u/hallo_friendos** [+1] *
+>>>>>>>> **u/hallo_friendos** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> The gate only meant they could perform the ritual without sacrificing shifter children. Otherwise, everything else was exactly the same. Red Robe didn't mind sacrificing shifter children.
->>>>>>>> 
 
->>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (14 hours later)
 >>>>>> 
 >>>>>> > Yes, it's like a shell that can be attached to any primordial.
->>>>>> I don't see any evidence of this
 >>>>>> 
+>>>>>> I don't see any evidence of this
 
->>>>>>> **u/hallo_friendos** [+6] *
+>>>>>>> **u/hallo_friendos** [+5]  (14 hours later)
 >>>>>>> 
 >>>>>>> > > "Panaxeth claims the Sovereign Gate is not made from a primordial like we thought – it is more like an attachment, or maybe a shell, which must be bonded to a specific primordial in order to work. This can potentially be any primordial, but currently it's Panaxeth."
->>>>>>> > Ilsa speaking, Ch 90.
->>>>>>> See my comment above.
 >>>>>>> 
+>>>>>>> > Ilsa speaking, Ch 90.
+>>>>>>> 
+>>>>>>> See my comment above.
 
->>>>>>>> **u/Ardvarkeating101** [+5]  *Father of Learning**
+>>>>>>>> **u/Ardvarkeating101** [+4]  *Father of Learning* (14 hours later)
 >>>>>>>> 
 >>>>>>>> Huh, damnit.
->>>>>>>> 
 
->>> **u/thrawnca** [+9]  *Carbon-based biped**
+>>> **u/thrawnca** [+10]  *Carbon-based biped* (27 minutes later)
 >>> 
 >>> Honestly, releasing the primordial before end of month, when it *doesn't* have an army of mages and monsters and demons supporting it, might work out better.
->>> Though of course it would be even better not to release it at all.
 >>> 
+>>> Though of course it would be even better not to release it at all.
 
->>>> **u/WalkingHorror** [+7] *
+>>>> **u/WalkingHorror** [+5]  (4 hours later)
 >>>> 
 >>>> Better for Red Robe, you mean? So primordial would decimate Cyorian defenders and defenses, while invading army is completely safe on the sidelines and ready to use all of the new openings and opportunities?
->>>> Without a surefire way to kill/reseal Panaxeth it sure as hell isn't better for Z&Z.
 >>>> 
+>>>> Without a surefire way to kill/reseal Panaxeth it sure as hell isn't better for Z&Z.
 
->>>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>>> **u/thrawnca** [+2]  *Carbon-based biped* (4 hours later)
 >>>>> 
 >>>>> It would be extremely foolish for the Ibasans to leave their gate open while an omnicidal shapeshifter is rampaging around. So their invasion would likely have to retreat and start over.
->>>>> 
 
->>>>>> **u/WalkingHorror** [+4] *
+>>>>>> **u/WalkingHorror** [+5]  (5 hours later)
 >>>>>> 
 >>>>>> Except they whole overall plan is based on expectation that Panaxeth will tear up Cyoria for a little while, killing most of their own (frontliners are mentioned to be less valuable and competent, and basically pigs for the slaughter) and then fuck off to somewhere else. QI will not go out of his way to save those he was going to sacrifice anyway when there is such an opportunity to be exploited and when primordial is seen as a temporary problem.
->>>>>> 
 
->>>>>>> **u/VidiotGamer** [+2] *
+>>>>>>> **u/VidiotGamer** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> I don't really see the point of attacking Cyoria while there is a rampaging Primordal flying around jacking shit up. The sensible thing to do would be to let him rampage and then mop up whatever is left after he moved on. Zero risk to you and your enemies are likely to be almost completely crushed before you even make your move.
->>>>>>> 
 
->>>>>>>> **u/WalkingHorror** [+2] *
+>>>>>>>> **u/WalkingHorror** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> That's exactly what I was talking about. The other user (apparently) thinks that instead of attacking post-rampage Cyoria with their fresh and untouched army invaders will retreat and close the gates behind them out of fear that primordial somehow finds them in the depths of the Dungeon and gets to Ulquaan Ibasa.
->>>>>>>> 
 
->>>>>> **u/hallo_friendos** [+3] *
+>>>>>> **u/hallo_friendos** [+3]  (14 hours later)
 >>>>>> 
 >>>>>> Well, we know the gate to Iasku Mansion stays open so Sudomir can get his souls. But I don't think we've ever found a gate to Ulquan Ibasa that stays open during the invasion. You're talking about what QI would do to make sure Panaxeth doesn't come visit his island, right?
->>>>>> 
 
->>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (22 hours later)
 >>> 
 >>> Could Panexeth benefit from using the loop at the convergence, assuming he isn't the loop and he needs time to recover after getting out? Or considering the snakes mutterings could he use the gate and the confluence to reproduce?
->>> 
 
->> **u/bumbiedumb** [+32]  *The Polity**
+>> **u/bumbiedumb** [+33]  *The Polity* (2 hours later)
 >> 
 >> Imagine time looping for so long and you know how the loop is going to end. Like playing pokemon on repeat. Suddenly your playing it for the last time with a multiplayer option, with stakes so high that your feeling frustrated due to being unused towards uncertainty. Zorian confidence and moral probably have taken a huge blow. This was reflected so well with his somewhat negative thoughts and  mood. 
 >> The character development is insane!
->> Edit: instead of saying his being negative, it feels like his being visibly uncomfortable out of the time loop.
 >> 
+>> Edit: instead of saying his being negative, it feels like his being visibly uncomfortable out of the time loop.
 
->>> **u/SciresM** [+9] *
+>>> **u/SciresM** [+9]  (2 hours later)
 >>> 
 >>> I agree completely, I thought that part of the chapter was really well done.
->>> 
 
->> **u/hallo_friendos** [+9] *
+>> **u/hallo_friendos** [+7]  (4 hours later)
 >> 
 >> Yes, the primordial can be released slightly before the planar alignment. Remember that time Zorian triggered the invasion early, and saw the cracks in reality?
->> 
 
->>> **u/-Fender-** [+3] *
+>>> **u/-Fender-** [+3]  (5 hours later)
 >>> 
 >>> That was within the fake reality of the time loop, where Panaxeth had complete oversight, though. Within the real world, where everything isn't created through Pana's power, it could very well be different.
->>> 
 
->>>> **u/hallo_friendos** [+5] *
+>>>> **u/hallo_friendos** [+5]  (6 hours later)
 >>>> 
 >>>> Possible, but I doubt it. I'm pretty sure dimentionalism spells meant to take advantage of the planar alignment were still working as expected, even in the reality created inside Panaxeth. As for Panaxeth having oversight, I don't think he was capable of influencing the world inside him enough for it to matter.
->>>> 
 
-> **u/burnerpower** [+68] *
+> **u/burnerpower** [+74]  (29 minutes later)
 > 
 > I hate you nobody, you did this on purpose. Now I'm going to have to agonize about what this means until the next chapter comes out!
-> "Yeah, this whole situation was really familiar to him for some reason.
-> Oh well, it probably wasn't anything important."
 > 
+> "Yeah, this whole situation was really familiar to him for some reason.
+> 
+> Oh well, it probably wasn't anything important."
 
->> **u/signspace13** [+29] *
+>> **u/signspace13** [+27]  (51 minutes later)
 >> 
 >> Did that group of noisy girls ever enter his train compartment after the first month? He always tried to avoid them by leaving or doing going to s different compartment, how Great would it be if this random first year was red robe or perhaps an agent of some kind?
->> 
 
->>> **u/hallo_friendos** [+13] *
+>>> **u/hallo_friendos** [+11]  (2 hours later)
 >>> 
 >>> Huh, good point. If I recall, I think Ibery's compartment was the one the girls usually ended up in, and Byrn usually ended up sharing a compartment with Zorian if he picked the empty one. I can only assume either bringing Kirielle along, or maybe also inviting Byrn in, meant there weren't enough seats for the whole giggly girl group.
->>> I really doubt the first year or any of the giggly girls are Red Robe, though.
 >>> 
+>>> I really doubt the first year or any of the giggly girls are Red Robe, though.
 
->> **u/GoXDS** [+20] *
+>> **u/GoXDS** [+20]  (32 minutes later)
 >> 
 >> tried finding out what it could mean... couldn't think of anything immediately. it's right in Chapter 1. I can only think of the 1st years possibly being at the wrong place in the crowd but... I didn't see any explicit discrepancy in timing or anything. HMMMM
->> 
 
->>> **u/Ardvarkeating101** [+43]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+41]  *Father of Learning* (36 minutes later)
 >>> 
 >>> Maybe it's a joke, because that was the first time he got asked the same question by those same first years since his very first loop?
->>> 
 
->>>> **u/GoXDS** [+32] *
+>>>> **u/GoXDS** [+30]  (45 minutes later)
 >>>> 
 >>>> possibly. he did forget about the bike and the cranium rats before, too =P
->>>> nobody103 is trolling us with an epic red herring
 >>>> 
+>>>> nobody103 is trolling us with an epic red herring
 
->>>>> **u/chaos-engine** [+20] *
+>>>>> **u/chaos-engine** [+20]  (7 hours later)
 >>>>> 
 >>>>> Nobody would do something like that
->>>>> 
 
->>> **u/burnerpower** [+35] *
+>>> **u/burnerpower** [+38]  (44 minutes later)
 >>> 
 >>> My best guess at the moment is that it's just a red herring and a troll by nobody. I'm pretty sure their only other appearance was in chapter one and they fulfilled their narrative purpose by giving Zorian an excuse to exposit about magic. I guess it is kind of strange they were literally never mentioned again considering how stuffed with foreshadowing the early chapters are. If it's not a red herring my best guess is they were soulkilled by Red Robe after that initial meeting for some reason. It seems unlikely that these unnamed first years are Red Robe so that's my next best guess. It might also just be a subtle nod from the author that Zorian has forgotten some details from the first loop that will come back to bite him later and nothing about this girl in particular.
->>> 
 
->>>> **u/-Fender-** [+12] *
+>>>> **u/-Fender-** [+13]  (3 hours later)
 >>>> 
 >>>> What I want to know is why we've never seen vampire girl ever since that one soulkill restart. No mention of puppeteering classmates to teach them how to dance since then, either.
->>>> 
 
->>>>> **u/burnerpower** [+29] *
+>>>>> **u/burnerpower** [+30]  (3 hours later)
 >>>>> 
 >>>>> Oh I imagine the reason for not seeing the vampire girl is twofold. First off her appearance was orchestrated by Red Robe, we don't even know if she participates in the invasion without RR's intervention. Second she was a complete non threat to Zorian even when he had been barely looping. Even if she was around it's plausible she is never mentioned because she is completely irrelevant and Zach or Zorian could dust her in seconds.
->>>>> For the dancing, that never comes up because Zorian never agrees to do it anymore. He only did it at the beginning to get on Ilsa's good side and not have Xvim as a mentor. Without that motivation he has no reason to waste his time with it.
 >>>>> 
+>>>>> For the dancing, that never comes up because Zorian never agrees to do it anymore. He only did it at the beginning to get on Ilsa's good side and not have Xvim as a mentor. Without that motivation he has no reason to waste his time with it.
 
->>>>> **u/hallo_friendos** [+9] *
+>>>>> **u/hallo_friendos** [+9]  (3 hours later)
 >>>>> 
 >>>>> The puppeteering classmates may have been Zach's doing, along with telling Ilsa Zorian wasn't planning on attending the dance. Though, it might have just happened every time without further mention. Vampire girl was brought by Red Robe as backup. Without Red Robe doing that again, she doesn't show up.
->>>>> 
 
->>>> **u/hallo_friendos** [+4] *
+>>>> **u/hallo_friendos** [+3]  (a day later)
 >>>> 
 >>>> Speaking of people we haven't seen since the first loop, was that girl Zach hung out with along with Neolu ever mentioned again? I just happened to notice in Ch 7 Zach tells Zorian that Neolu is the only other person who believes him, which seems... odd. Did he somehow, suspiciously, forget about her?
->>>> 
 
->>>>> **u/onlynega** [+2] *
+>>>>> **u/onlynega** [+2]  (2 days later)
 >>>>> 
 >>>>> I thought she went with them to Xlotic once? Maybe the first time?
->>>>> 
 
->>>>>> **u/hallo_friendos** [+3] *
+>>>>>> **u/hallo_friendos** [+3]  (2 days later)
 >>>>>> 
 >>>>>> That was Neolu.
->>>>>> 
 
->>>>> **u/AnimaLepton** [+2] *
+>>>>> **u/AnimaLepton** [+2]  (23 days later)
 >>>>> 
 >>>>> Her name was Jade. She tries to turn in an assignment late that time that Zorian was a TA/apprentice for Ilsa. During the soulkill loop, she's at the dance at Zach's house. She and some other girls approach Taiven and Zorian to interrogate them. It's just that after Arc 1, when monsters start attacking the city because the Aranea are removed from the loop she was one of the students that was pulled out. 
->>>>> It's unlikely Zach forgot about her, and I don't think she believed him or anything the way Neolu did- they were just friends in that loop.
 >>>>> 
+>>>>> It's unlikely Zach forgot about her, and I don't think she believed him or anything the way Neolu did- they were just friends in that loop.
 
->>>>>> **u/hallo_friendos** [+2] *
+>>>>>> **u/hallo_friendos** [+2]  (24 days later)
 >>>>>> 
 >>>>>> I guess no one else remembers. Here's what I'm talking about:
+>>>>>> 
 >>>>>> >"Neolu finished in only half an hour," said Akoja after a brief silence. "I bet she'll get a perfect score again."  
 >>>>>> >  
 >>>>>> >"Ako…" Zorian sighed.  
@@ -375,115 +350,106 @@
 >>>>>> >"Exactly  like Zach!" she agreed. "They even hang out together, two of them **and one other girl I don't know**, behaving like… like they're in their own  private little world."  
 >>>>>> >  
 >>>>>> >"Or like they're a couple," said Zorian,  before frowning. "Triple? What's the word for a romantic relationship  between 3 people?"
->>>>>> From Ch 3.
->>>>>> There's no way Akoja didn't know Jade. She was class representative, and Jade was in her class.
 >>>>>> 
+>>>>>> From Ch 3.
+>>>>>> 
+>>>>>> There's no way Akoja didn't know Jade. She was class representative, and Jade was in her class.
 
->>>>>>> **u/AnimaLepton** [+2] *
+>>>>>>> **u/AnimaLepton** [+2]  (25 days later)
 >>>>>>> 
 >>>>>>> Ah, I see what you mean. Jade's mentioned by name a few times, and Zorian again mentions a "mystery girl" in Chapter 8
->>>>>>> 
 
->> **u/braiam** [+3] *
+>> **u/braiam** [+4]  (58 minutes later)
 >> 
 >> Search for the first time he got Kirielle to Cyora.
->> 
 
->>> **u/burnerpower** [+10] *
+>>> **u/burnerpower** [+7]  (an hour later)
 >>> 
 >>> Just did. Not sure what I was supposed to see. Bryn is there but the girls are absent. That could be unmentioned Zorian avoiding them or something more nefarious. It's hard to say.
->>> 
 
->> **u/hallo_friendos** [+3] *
+>> **u/hallo_friendos** [+3]  (a day later)
 >> 
 >> I think I figured it out. The first time, he stayed in Ibery's compartment to whole ride, was joined by an annoying group of girls, started heading for the nearest exit as the train neared the station, and met this girl there who said pretty much the same things she did this time.
->> The next month, when the train got to Korsa and he knew the giggly girls were going to get on, he left for a different compartment and so didn't end up near that girl when he went to the exit. The next time he tried finding a compartment he knew would be empty, but found that if he sat there to start with, Bryn would join him. So after that his usual routine was to either start in Ibery's compartment and leave for a different one at Korsa, or start in the other compartment so Bryn would distract Kirielle.
->> This latest month is, I think, the only time he's been in Ibery's compartment all the way to Cyoria since that first month.
 >> 
+>> The next month, when the train got to Korsa and he knew the giggly girls were going to get on, he left for a different compartment and so didn't end up near that girl when he went to the exit. The next time he tried finding a compartment he knew would be empty, but found that if he sat there to start with, Bryn would join him. So after that his usual routine was to either start in Ibery's compartment and leave for a different one at Korsa, or start in the other compartment so Bryn would distract Kirielle.
+>> 
+>> This latest month is, I think, the only time he's been in Ibery's compartment all the way to Cyoria since that first month.
 
->> **u/ZuoV** [+1] *
+>> **u/ZuoV** [+1]  (6 hours later)
 >> 
 >> Wait, maybe the girl is Silverlake? She just tests if Zorian is out of time loop or not.
->> 
 
->>> **u/burnerpower** [+11] *
+>>> **u/burnerpower** [+12]  (7 hours later)
 >>> 
 >>> I don't think that is possible. There is no way Silverlake would have been impersonating this girl on Zorian's first loop and if she wasn't she has no way of quoting the girl verbatim after replacing her. It's just unnecessarily convoluted and ineffective to boot. Even if she was a diabolical sleeper agent she didn't even learn anything, Zorian gave the same answer his non loop self would. It also just occurred to me that if she had any form of mental defense Zorian would have immediately noticed and there is no way Silverlake runs around without one of those.
->>> 
 
->>> **u/PM_ME_OS_DESIGN** [+7] *
+>>> **u/PM_ME_OS_DESIGN** [+8]  (a day later)
 >>> 
 >>> I think it's more likely that Silverlake is impersonating Silverlake.
->>> 
 
->>>> **u/turtleswamp** [+4] *
+>>>> **u/turtleswamp** [+4]  (2 days later)
 >>>> 
 >>>> I doubt it.
->>>> The main reason to do that would be to fool Z&Z and she would know that any mental defense adequate to repel a mental sucker-punch from Zorian would give away her disguise by their presence. 
->>>> Confronting Zoian and pretending to be original Silverlake dealing with an uppity kid without adequate metal defenses, is not a gamble Silverlake would take as she'd expect Zoian to at least check that she's not pretending with a quick mind-probe. Even if she thinks he might be too ethical to try that on a stranger or a friend, she knows he isn't above doing it to an enemy and she did juts betray him.
 >>>> 
+>>>> The main reason to do that would be to fool Z&Z and she would know that any mental defense adequate to repel a mental sucker-punch from Zorian would give away her disguise by their presence. 
+>>>> 
+>>>> Confronting Zoian and pretending to be original Silverlake dealing with an uppity kid without adequate metal defenses, is not a gamble Silverlake would take as she'd expect Zoian to at least check that she's not pretending with a quick mind-probe. Even if she thinks he might be too ethical to try that on a stranger or a friend, she knows he isn't above doing it to an enemy and she did juts betray him.
 
-> **u/Keshire** [+50] *
+> **u/Keshire** [+51]  (2 hours later)
 > 
 > I think Zorian is underestimating the fear that Red Robe and Silverlake are most likely feeling. From their perspective Zorian and Zach have had an unknown amount of time more than them in the loop. It should be the cause of their strangely passive behavior.
-> 
 
->> **u/Tserri** [+45] *
+>> **u/Tserri** [+42]  (2 hours later)
 >> 
 >> Silverlake is without a doubt being cautious, I don't remember if she ever saw them fight but she knows they are very capable and that they may have access to some of her secret without her knowing. Plus she probably received a new body, younger and might try to adapt to it. And she has no reason to act aggressively for now: since she knows Zach and Zorian will actively try to prevent the invasion, she needs to find an other way to summon Panaxeth, more subtle than invading Cyoria.
->> As for Red Robe, he left the loop way earlier thinking there was an army of time loopers after him, and he doesn't know how much time they spend in it as you mentioned so he won't do anything too bold for now imo.
 >> 
+>> As for Red Robe, he left the loop way earlier thinking there was an army of time loopers after him, and he doesn't know how much time they spend in it as you mentioned so he won't do anything too bold for now imo.
 
->>> **u/-Fender-** [+14] *
+>>> **u/-Fender-** [+15]  (3 hours later)
 >>> 
 >>> Very good point about Silverlake's body. She would have no reason not to ask Panaxeth for that, since he was creating her a body from scratch anyhow. Imagine if that body ended up being identical to the unknown woman's appearance took when talking to Z&Z. Anyhow, this is likely to be an unknown advantage that'll bite them in the ass.
->>> 
 
->>>> **u/Nimelennar** [+11] *
+>>>> **u/Nimelennar** [+11]  (17 hours later)
 >>>> 
 >>>> >She would have no reason not to ask Panaxeth for that, since he was creating her a body from scratch anyhow.
->>>> Especially now that she's alienated just about the only people who can easily retrieve the grey hunter's egg sac for her.
 >>>> 
+>>>> Especially now that she's alienated just about the only people who can easily retrieve the grey hunter's egg sac for her.
 
->>> **u/thrawnca** [+5]  *Carbon-based biped**
+>>> **u/thrawnca** [+8]  *Carbon-based biped* (22 hours later)
 >>> 
 >>> Don't forget also that Silverlake is not wantonly destructive, just self-interested. She will almost certainly try to release Panaxeth, because it's necessary for her survival. But I'm sure that she would prefer *not* to let it rampage around the continent. It's dangerous to her personally, destructive to the environment (surely important to a potioneer), and would make ZZ mad at her, which is risky. She's probably trying to find some way to fulfil the conditions of her deadman switch while minimising the rampage risk.
->>> 
 
->>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>> 
 >>>> Aside from us having only the datm that Zorian and Silverlake acted the same way as their default after supposedly exiting the loop, is there any evidence to think Paaxeth was telling the truth about exiting SIlverlake, vike resetting her marker?  I thought the argument that it was a ruse to blackmael Zorian int mind-raping Zach was compelling, but I have not seen any facts to support one verses the other.
->>>> &#x200B;
->>>> Note: Zorian assuming SIlverlake is out there make complete sense to me.  From our (/rational) perspective this makes sense in a limited AI's gambit (can't prove a negative) playing the AI box game but from Zorian's perspective: Silverlake is probably out there
 >>>> 
+>>>> &#x200B;
+>>>> 
+>>>> Note: Zorian assuming SIlverlake is out there make complete sense to me.  From our (/rational) perspective this makes sense in a limited AI's gambit (can't prove a negative) playing the AI box game but from Zorian's perspective: Silverlake is probably out there
 
->>>>> **u/hallo_friendos** [+3] *
+>>>>> **u/hallo_friendos** [+3]  (a day later)
 >>>>> 
 >>>>> The one thing that's been bothering me about all that is, if Panaxeth is imprisoned, why does he still have the capacity to affect the real world like that? Enough to put a soul out there and make a body for it? I guess putting a soul out there could be from taking over the Guardian's capabilities, but a body?
->>>>> I'm pretty sure that if he was capable of releasing Silverlake, then he did.
 >>>>> 
+>>>>> I'm pretty sure that if he was capable of releasing Silverlake, then he did.
 
->>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (13 days later)
 >>>>>> 
 >>>>>> The Gate/Guardian is certainly capable of creating matter; it recreates the whole world every month. It's not normally supposed to do that in the real world, but if it's partially subverted, I can easily see that happening.
->>>>>> 
 
->>>>>>> **u/iamtrulygod** [+1] *
+>>>>>>> **u/iamtrulygod** [+1]  (23 days later)
 >>>>>>> 
 >>>>>>> The gate/guardian incarnates the soul of the controller when they leave, meaning that the primordial has some power of incarnation through the gate.
->>>>>>> 
 
->> **u/hallo_friendos** [+11] *
+>> **u/hallo_friendos** [+12]  (2 hours later)
 >> 
 >> Right, and Silverlake knew about the loop exit project, and so presumably doesn't know Zorian is the only one out. Same for Red Robe, to a lesser degree: he knows at least one person other than Zach got out, and last we heard he thought there was an entire army of time travelers and skedaddled. If one person escaped, then maybe more got out the same way.
->> 
 
->> **u/GoXDS** [+7] *
+>> **u/GoXDS** [+7]  (17 hours later)
 >> 
 >> do remember that Silverlake and the rest of the cast were probably informed beforehand about the absolute number of loops left and that Zorian only reasonably had less than 1 left unless breakthrough. with possible confirmation from Panexth. so in terms of loop experience, she doesn't really have anything to fear in that regard, especially when Zach already has so many years of loops under his belt, what is a few extra months worth do anything when he's reset to no co-loopers and almost guaranteed to be repeating the same loops that he's already done?
->> 
 
-> **u/Mr-Mister** [+50] *
+> **u/Mr-Mister** [+52]  (6 hours later)
 > 
 > By the way, someone in spacebattlesforums came up with a pretty consistent theory regarding RR.
 > [Link](https://forums.spacebattles.com/threads/mother-of-learning-discussion-thread.349206/page-109#post-52987276) and transcript:
@@ -504,743 +470,696 @@
 > B) Veyers definitively not being the culprit due to Soulkill.  
 > C) Someone going out of their way to Soulkill someone as seemingly unimportant as Veyers. If it was ever a common solution to a problem, there'd be way more of them popping up.  
 > Apologies if I've explained my thoughts on this poorly. I'm a bit lacking on sleep after marathon'ing the story for the last two days.
-> 
 
->> **u/sambelulek** [+16]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+16]  *Ulquaan Ibasa Liquor Smuggler* (7 hours later)
 >> 
 >> That's a good theory. It answers much. Give it some time so some of us can reject it.
->> Edit: One month later, I haven't find anything that can deny this theory. I don't try to find it religiously, but it might still be the strongest theory yet.
 >> 
+>> Edit: One month later, I haven't find anything that can deny this theory. I don't try to find it religiously, but it might still be the strongest theory yet.
 
->>> **u/hallo_friendos** [+12] *
+>>> **u/hallo_friendos** [+14]  (15 hours later)
 >>> 
 >>> Ok, time has been applied. There are multiple members of House Boranova with an ignited bloodline at the same time. We know this because it was unplanned that Veyers's father died without igniting his bloodline, and it this doesn't make sense if doing so made the previous ignited person somehow lose their powers. So, how would that work? Is there more than one Ancestor? If so, why do they all seem to give the exact same ability?
->>> Also, no matter whose soul the marker goes on, how can soul-killing Veyers be necessary? If he does that, he has no body. That sounds like strictly a loss to me. Panaxeth can make a new body for someone outside of the time loop, sure, but we have no evidence he could do that for someone inside, at the start of every loop. And if they could just hop into a different body, why have they been limiting themselves to those that go through the ignition ritual? The way I see this playing out, he keeps Veyers's body alive until he reaches the Sovereign Gate and is about to exit, at which point he has no reason to soul-kill Veyers because he thinks the loop reality is about to be shut down anyway.
->>> Edit, one more thing: All ignited members of House Boranova have slitted orange eyes. Briam's fire drake has slitted yellow eyes. This seems like too much of a coincidence for the explanation to actually be some sort of soul thing. I think the bloodline most likely came from an enhancement ritual involving a fire drake or other similar creature.
 >>> 
+>>> Also, no matter whose soul the marker goes on, how can soul-killing Veyers be necessary? If he does that, he has no body. That sounds like strictly a loss to me. Panaxeth can make a new body for someone outside of the time loop, sure, but we have no evidence he could do that for someone inside, at the start of every loop. And if they could just hop into a different body, why have they been limiting themselves to those that go through the ignition ritual? The way I see this playing out, he keeps Veyers's body alive until he reaches the Sovereign Gate and is about to exit, at which point he has no reason to soul-kill Veyers because he thinks the loop reality is about to be shut down anyway.
+>>> 
+>>> Edit, one more thing: All ignited members of House Boranova have slitted orange eyes. Briam's fire drake has slitted yellow eyes. This seems like too much of a coincidence for the explanation to actually be some sort of soul thing. I think the bloodline most likely came from an enhancement ritual involving a fire drake or other similar creature.
 
->>>> **u/Gauntlet** [+3] *
+>>>> **u/Gauntlet** [+3]  (16 hours later)
 >>>> 
 >>>> RR soul kills Veyers during his final loop, that way he won't be needing a body in the loop any more.
->>>> 
 
->>>>> **u/hallo_friendos** [+5] *
+>>>>> **u/hallo_friendos** [+4]  (16 hours later)
 >>>>> 
 >>>>> Sure, he could, but *why*?
->>>>> 
 
->>>>>> **u/nipplelightpride** [+2] *
+>>>>>> **u/nipplelightpride** [+2]  (a day later)
 >>>>>> 
 >>>>>> So that he can’t be interrogated
->>>>>> 
 
->>>>>>> **u/hallo_friendos** [+3] *
+>>>>>>> **u/hallo_friendos** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> He thought the world inside the Sovereign Gate was going to be destroyed as soon as he left, leaving no one behind to do any interrogating. Otherwise, why would he soul kill himself and not any of the numerous cultists that Zorian did end up interrogating? Imagine how differently the story would have gone if Zorian never found anyone still alive who knew the names of the top cultists.
->>>>>>> 
 
->> **u/hallo_friendos** [+10] *
+>> **u/hallo_friendos** [+10]  (13 hours later)
 >> 
 >> Hmm...
+>> 
 >> >  His non-structured fire magic started manifesting itself based on his subconscious desires, frequently spinning out of his control entirely, almost as if it had a mind of its own.
 >> -Ch 61
->> Hmmm.
->> Mind you, I don't actually think this explanation is the right one, but that's mostly because I expect that once we find out the answer, everyone will think, "Of course! Who else could it have been?" Also Occam's Razor.
->> That being said, I don't think Veyers's loss of control over his magic is akin to soul damage. Every time we've seen soul damage, it caused an inability to cast spells without harming oneself, but Veyers is casting spells even when he doesn't mean to.
 >> 
+>> Hmmm.
+>> 
+>> Mind you, I don't actually think this explanation is the right one, but that's mostly because I expect that once we find out the answer, everyone will think, "Of course! Who else could it have been?" Also Occam's Razor.
+>> 
+>> That being said, I don't think Veyers's loss of control over his magic is akin to soul damage. Every time we've seen soul damage, it caused an inability to cast spells without harming oneself, but Veyers is casting spells even when he doesn't mean to.
 
->> **u/Xtraordinaire** [+6]  *Team Glimglam**
+>> **u/Xtraordinaire** [+5]  *Team Glimglam* (13 hours later)
 >> 
 >> Interesting theory, which generally follows my line of thought about RR - it can't be Veyers but is probably someone connected to him. It has to be someone more knowledgeable in magic whom Zach foolishly told about the loop, but it offers some specifics *who is it and how they are connected to V.* Off the top of my head, I can't name anything that contradicts it outright, which is refreshing.
->> 
 
->> **u/spanj** [+2] *
+>> **u/spanj** [+2]  (9 hours later)
 >> 
 >> Is it even possible to “soulkill” souls containing permanent markers? I don’t think that was ever established...
->> 
 
->>> **u/WadeSwiftly** [+2] *
+>>> **u/WadeSwiftly** [+2]  (13 hours later)
 >>> 
 >>> Yes. Well not permanent markers like Zach’s but assuming Veyers is using a modified temporary marker then Z&Z did remove some temporary loopers who couldn’t handle the stresses of the time loop.
->>> 
 
->>>> **u/hallo_friendos** [+5] *
+>>>> **u/hallo_friendos** [+5]  (13 hours later)
 >>>> 
 >>>> Technically, what they used on those people was the removal of the temporary marker, which the crown could also be used to do. However, there is indeed no reason they couldn't be soulkilled.
->>>> As always, feel free to ignore anything that starts with "technically" ;)
 >>>> 
+>>>> As always, feel free to ignore anything that starts with "technically" ;)
 
-> **u/megami-hime** [+45] *
+> **u/megami-hime** [+44]  (8 hours later)
 > 
 > Zorian's simulacrums are the *best*.
-> Most people worry that their simulacrums would backstab and betray them.
-> His are just sassy.
 > 
+> Most people worry that their simulacrums would backstab and betray them.
+> 
+> His are just sassy.
 
->> **u/sambelulek** [+36]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+34]  *Ulquaan Ibasa Liquor Smuggler* (11 hours later)
 >> 
 >> I giggled after Zorian retrieve Nochka's bike. _"It's not frivolous!" those bastards must have been waiting for this._
->> 
 
->>> **u/None** [+34] *
+>>> **u/None** [+33]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler**
+>>>> **u/sambelulek** [+2]  *Ulquaan Ibasa Liquor Smuggler* (a day later)
 >>>> 
 >>>> LOLOLOL
->>>> 
 
-> **u/None** [+42] *
+> **u/None** [+42]  (32 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/abnotwhmoanny** [+30] *
+>> **u/abnotwhmoanny** [+28]  (an hour later)
 >> 
 >> Having another continent you can get to instantly, that your opponent can't is never a bad idea. It also contains a strong seat of power that's aligned with his brother and the imperial orb. Getting through the gates is essentially their key to having access to the entire planet instead of the small fraction of it they can teleport to quickly.
->> Also, I'm of the opinion that the angels are already very much aware of what's going on. They wouldn't have told Xlotic to give up their ring otherwise. The time loop was intentionally started early, with at least the angels knowledge if not by their hands. Presumably it occurring just before the time when a primordial prison was going to be opened is intentional, to raise a force capable of preventing it.
->> As to why the others haven't been brought in yet, it's still the first day. It's possible that messengers have already been sent and haven't been mentioned, for brevity, and the other party simply hasn't acted yet. Most of the other characters take several days or even weeks to come around. Another possiblity is that all of Zorian and Zach's simulacra are currently focused on amassing resources and attacking the most critical enemy power bases before they have time to move. As discussed, the other members won't be willing to act decisively immediately.  
-
->> Edit: I'd also like to think that Nobody is purposely putting off showing the other characters, because one of them is actually Red Robe. I think that'd be a neat twist. It's probably not the case, but I think it would make for some interesting drama.
 >> 
+>> Also, I'm of the opinion that the angels are already very much aware of what's going on. They wouldn't have told Xlotic to give up their ring otherwise. The time loop was intentionally started early, with at least the angels knowledge if not by their hands. Presumably it occurring just before the time when a primordial prison was going to be opened is intentional, to raise a force capable of preventing it.
+>> 
+>> As to why the others haven't been brought in yet, it's still the first day. It's possible that messengers have already been sent and haven't been mentioned, for brevity, and the other party simply hasn't acted yet. Most of the other characters take several days or even weeks to come around. Another possiblity is that all of Zorian and Zach's simulacra are currently focused on amassing resources and attacking the most critical enemy power bases before they have time to move. As discussed, the other members won't be willing to act decisively immediately.  
+>> 
+>> Edit: I'd also like to think that Nobody is purposely putting off showing the other characters, because one of them is actually Red Robe. I think that'd be a neat twist. It's probably not the case, but I think it would make for some interesting drama.
 
->>> **u/HeroOfOldIron** [+65] *
+>>> **u/HeroOfOldIron** [+62]  (11 hours later)
 >>> 
 >>> inb4 Xvim is Red Robe and this is all just an incredibly elaborate way to make sure his new students are properly motivated.
->>> 
 
->>>> **u/Aretii** [+40]  *Cultist of Cthugha**
+>>>> **u/Aretii** [+41]  *Cultist of Cthugha* (12 hours later)
 >>>> 
 >>>> holy shit that explains everything
->>>> AGAIN
->>>> AGAIN
->>>> until you have it perfect, AGAIN
 >>>> 
+>>>> AGAIN
+>>>> 
+>>>> AGAIN
+>>>> 
+>>>> until you have it perfect, AGAIN
 
->>>> **u/Chayim47** [+14] *
+>>>> **u/Chayim47** [+12]  (11 hours later)
 >>>> 
 >>>> “What’s wrong Mr. Kazinski?”
->>>> 
 
->>>>> **u/hallo_friendos** [+2] *
+>>>>> **u/hallo_friendos** [+2]  (14 hours later)
 >>>>> 
 >>>>> Reminds me of a certain noteboook...
->>>>> 
 
->> **u/sambelulek** [+6]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+7]  *Ulquaan Ibasa Liquor Smuggler* (50 minutes later)
 >> 
 >> No one mentioned Xlotic. Did you mean Koth? Daimen's there, and he can be convinced to convince his future family to shelter some people.
->> 
 
->> **u/Aretii** [+5]  *Cultist of Cthugha**
+>> **u/Aretii** [+7]  *Cultist of Cthugha* (49 minutes later)
 >> 
 >> Xlotic wasn't mentioned, do you mean Koth?
->> 
 
-> **u/Tur4** [+34] *
+> **u/Tur4** [+30]  (2 hours later)
 > 
 > At the end of the chapter Zorian is talking about a big advantage, all they have to do is notify the authorities and the enemy plans are in trouble.  Since thats obviously a major problem for the invaders, and would remove a lot stress from the month.  We know that won't work in Zach and Zorians favor.  So we have to ask.   Why?  Why won't the authorities help as Zach and Zorian think they will.  Is it just that they won't be able to convince Alanic without the loop being ongoing and the spiritual plane being cut off?  He is important as he is usually the one that gets the authorities involved.  Or maybe Silver Lake has already killed him?  Really since he was so important he should have been higher priority for Zach/Zorian.  That said I don't think thats the reason it won't work out.
-> &#x200B;
-> I think the problem lies with Red Robe.  All the times Zorian involved the authorities in stopping the invasion  was after Red Robe left the time loop.  Because of this, its hard to predict what power Red Robe will have in being able to stop the authorities from getting involved.   Which ties into my main theory.
-> &#x200B;
-> Red Robe is a member of the Monarchy.  This gives him excellent position to not only prevent the authorities from listening to zorian but perhaps the ability to make Zorian and Zach outlaws should they try to "stir up trouble."  Plus if he comes out to discredit them, they will have a much harder time getting support from their typical allies (Xvim and Alanic).
-> &#x200B;
-> My theory is based upon the fact that Red Robe has the dagger and uses it to soulkill with.  It is located in the treasury of the royal family.  No one else could get it without causing an uproar.  In the restarts when Zach and Zorian just attempted to break in to the treasury it made national news and started a manhunt that would chase them all over with the divine tracker.  I think had redrobe gotten the lich to help him take the dagger we would have heard about it.  Further red robe didn't have an easy way to teleporting to another continent like Zach/Zorian did so he would have been harassed by the authorities trying to get it back.  The easiest way to avoid this  problem is if he could simply walk into the treasury and take the dagger and walk out with it.
-> &#x200B;
-> Now for some wilder speculation:
-> &#x200B;
-> I also think its possible that Zach tried to involve the royals near the start in the time loop.  The royals were friendly with  Zach's family and stole his families artifacts and we know they were interested in the sovereign gate as they were having it studied by their researchers.  Since they get involved at the start.  They can order the people in the research facility to help zach figure it out and figure out how to bring more people into the loop and modify markers etc.  Its possible they could have even played a role in getting it activated.
-> &#x200B;
-> Even more wilder speculation.  Maybe that's how Zach got pulled into the time loop to begin with?  My thought  is his soul marker is part of his bloodline.  And they couldn't get the gate to work and in the summer between school years they had Zach working with the researchers trying to get it to work.  I'm just trying to remember if the time researchers ever saw Zach's real face.  Usually he had disguises on.  If that latter part of the theory was right they would recognize Zach if they saw him.
 > 
+> &#x200B;
+> 
+> I think the problem lies with Red Robe.  All the times Zorian involved the authorities in stopping the invasion  was after Red Robe left the time loop.  Because of this, its hard to predict what power Red Robe will have in being able to stop the authorities from getting involved.   Which ties into my main theory.
+> 
+> &#x200B;
+> 
+> Red Robe is a member of the Monarchy.  This gives him excellent position to not only prevent the authorities from listening to zorian but perhaps the ability to make Zorian and Zach outlaws should they try to "stir up trouble."  Plus if he comes out to discredit them, they will have a much harder time getting support from their typical allies (Xvim and Alanic).
+> 
+> &#x200B;
+> 
+> My theory is based upon the fact that Red Robe has the dagger and uses it to soulkill with.  It is located in the treasury of the royal family.  No one else could get it without causing an uproar.  In the restarts when Zach and Zorian just attempted to break in to the treasury it made national news and started a manhunt that would chase them all over with the divine tracker.  I think had redrobe gotten the lich to help him take the dagger we would have heard about it.  Further red robe didn't have an easy way to teleporting to another continent like Zach/Zorian did so he would have been harassed by the authorities trying to get it back.  The easiest way to avoid this  problem is if he could simply walk into the treasury and take the dagger and walk out with it.
+> 
+> &#x200B;
+> 
+> Now for some wilder speculation:
+> 
+> &#x200B;
+> 
+> I also think its possible that Zach tried to involve the royals near the start in the time loop.  The royals were friendly with  Zach's family and stole his families artifacts and we know they were interested in the sovereign gate as they were having it studied by their researchers.  Since they get involved at the start.  They can order the people in the research facility to help zach figure it out and figure out how to bring more people into the loop and modify markers etc.  Its possible they could have even played a role in getting it activated.
+> 
+> &#x200B;
+> 
+> Even more wilder speculation.  Maybe that's how Zach got pulled into the time loop to begin with?  My thought  is his soul marker is part of his bloodline.  And they couldn't get the gate to work and in the summer between school years they had Zach working with the researchers trying to get it to work.  I'm just trying to remember if the time researchers ever saw Zach's real face.  Usually he had disguises on.  If that latter part of the theory was right they would recognize Zach if they saw him.
 
->> **u/signspace13** [+11] *
+>> **u/signspace13** [+11]  (3 hours later)
 >> 
 >> I honestly don't think RR having the dagger at the very end of a single restart is enough to theorize that he is a royal, we have seen that it is possible to rob the royal treasury without too much uproar form Z&Z's later successes, if RR knew that he would need the Dagger to soul cut out a possible time travelling threat at the end of the loop then he would be able to preemptively get the dagger earlier in the restart, this is further supported by the fact that he didn't immediately use the dagger on Zorian in the next restart, he didn't even have a simulacrum.
->> 
 
->> **u/LordGoldenroot** [+7] *
+>> **u/LordGoldenroot** [+6]  (3 hours later)
 >> 
 >> While Red robe being a member of the monarchy makes a lot of sense I doubt Zach had much involvement with royals due to how much he hates them, and even if he did not know about the theft before the time loop, I kind of doubt he would fail to notice that they stole stuff from him if they tried to get him involved on something hereditary. There is also the fact that Zach is something of a public figure, and I doubt Zach would not have had someone remark on him constantly vanishing for periods during the couple months before the time loop after having looped for about for 35 years(I think. It is at least over 30 years).
->> 
 
->> **u/vallar57** [+7]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+8]  *Unseen University: Faculty of High-Energy Magic* (5 hours later)
 >> 
 >> The biggest obstacle is probably not RR, but the head of the cult, who is also the head of the mage guild. ZZ haven't trained scenarios to involve the gpvermment, so revealing everything has a chance to backfire.
->> That said, I still think it's better to involve the government, but just a bit later, when they have Alanic and Xvim on board.
 >> 
+>> That said, I still think it's better to involve the government, but just a bit later, when they have Alanic and Xvim on board.
 
->> **u/Ardvarkeating101** [+8]  *Father of Learning**
+>> **u/Ardvarkeating101** [+8]  *Father of Learning* (3 hours later)
 >> 
 >> A. They revealed Zach to Kalmin (the head researcher) and his subordinates in the late 80's, maybe 90, as unofficial help for turning the orb into a black room.  B. If it was an accidental/royalty intended time loop, the angels probably wouldn't have told the Sulrothom to hand over the dagger before it happened.
->> 
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (12 hours later)
 >> 
 >> What's red robes motivations?
->> 
 
->> **u/nohat** [+1] *
+>> **u/nohat** [+1]  (a day later)
 >> 
 >> Ever since they said the monarchy took the sovereign gate from Zach's family I've had the theory that the monarchy hacked the sovereign gate and inserted their own agent (red robe). They didn't realize that Zach, being the original heir of the gate, automatically had the marker. Since then there's been the revelation of Zach's divine blessing, and the ransacking of the gate research institute which found nothing along these lines. So that weighs against this theory.
->> 
 
-> **u/seniormartialbrother** [+28] *
+> **u/seniormartialbrother** [+30]  (an hour later)
 > 
 > Since both sides have SG experiences, ZZ’s biggest advantage is the state/church, which are much more powerful than the invading forces. It’s the opposite of their SG role, but they might be better as support/backup for the authorities now that RR/SL are on to them. 
-> The sneaky war benefits RR/SL much more than ZZ, so they should burn the whole playbook and use a hammer instead of a scalpel.
 > 
+> The sneaky war benefits RR/SL much more than ZZ, so they should burn the whole playbook and use a hammer instead of a scalpel.
 
->> **u/sambelulek** [+8]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+9]  *Ulquaan Ibasa Liquor Smuggler* (6 hours later)
 >> 
 >> I was wondering about this too. I know Zach doesn't have a good opinion on the Crown of Eldemar. Zorian doesn't either albeit in smaller dose (his disappointment when finding out Eldemaran army refused to destroy Sudomir's well of soul comes to mind). But those are not really a downside. Are they worried the crown and the church tracked them down so that they will no longer has semblance of normal life afterward? Are they still wary about how Red Robe manage to snatch the dagger without much fanfare implying him has close relation to the crown?
->> edit: ah, I just read the lengthier comment below discussing this.
 >> 
+>> edit: ah, I just read the lengthier comment below discussing this.
 
->> **u/Xtraordinaire** [+5]  *Team Glimglam**
+>> **u/Xtraordinaire** [+5]  *Team Glimglam* (15 hours later)
 >> 
 >> Alanic is a path to church involvement, which I'm sure they are going to pursue and SL would like to take away, which I expect to be addressed in the following chapters.
->> 
 
->> **u/VidiotGamer** [+5] *
+>> **u/VidiotGamer** [+7]  (a day later)
 >> 
 >> > The sneaky war benefits RR/SL much more than ZZ, so they should burn the whole playbook and use a hammer instead of a scalpel.
->> Yeah, this seems like the most obvious course of action. Enough hints and tips given to the right people could easily create an environment where any sort of plan to free Parthanax is at least in the short term, totally unworkable, due to heightened security and paranoia.
->> Zorian wouldn't even have to work too hard at it - as a mind mage he could easily just edit the memory of the information into people most likely to do the most harm and leave himself out of it.
 >> 
+>> Yeah, this seems like the most obvious course of action. Enough hints and tips given to the right people could easily create an environment where any sort of plan to free Parthanax is at least in the short term, totally unworkable, due to heightened security and paranoia.
+>> 
+>> Zorian wouldn't even have to work too hard at it - as a mind mage he could easily just edit the memory of the information into people most likely to do the most harm and leave himself out of it.
 
-> **u/BigBeautifulEyes** [+17] *
+> **u/BigBeautifulEyes** [+18]  (10 hours later)
 > 
 > I loved the sass Zorian's simulacrum's keep giving him, I imagine them as webcam windows that popup unexpectedly "Stop wasting mana!".
-> 
 
-> **u/sambelulek** [+11]  *Ulquaan Ibasa Liquor Smuggler**
+> **u/sambelulek** [+10]  *Ulquaan Ibasa Liquor Smuggler* (46 minutes later)
 > 
 > Job well done on two accounts, author. Before reading, I dread you going to write some sort of summary. But I'm glad you put in enough detail so that the pacing feel great. That's the first. For the second, tension building is well executed. I already can't wait for the next chapter to arrive. Bravo.
-> 
 
-> **u/notintractable** [+10] *
+> **u/notintractable** [+11]  (an hour later)
 > 
 > There's so much more tension now that they're out of the time loop
-> 
 
-> **u/Xtraordinaire** [+22]  *Team Glimglam**
+> **u/Xtraordinaire** [+22]  *Team Glimglam* (10 hours later)
 > 
 > The 'real world' chapters continue to deliver. The conclusion of the in-loop arc was underwhelming because it was essentially a long list of magics ZnZ accrued. Booooring, save for the occasional gem here and there. I think nobody103 felt it too and rushed that arc to a conclusion ASAP. We skipped several *months* in a single sentence.
-> Now? Now the story dedicates two chapters to a single day, and Zorian is communicating with real people again, and that's the thing that made first 2 MoL books so good. Ibery, Byrn, Nochka... man, these are the names we haven't heard for a looong time.
-> tl;dr SQUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE MOL IS BACK BABY
 > 
+> Now? Now the story dedicates two chapters to a single day, and Zorian is communicating with real people again, and that's the thing that made first 2 MoL books so good. Ibery, Byrn, Nochka... man, these are the names we haven't heard for a looong time.
+> 
+> tl;dr SQUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE MOL IS BACK BABY
 
-> **u/TheBobulus** [+9] *
+> **u/TheBobulus** [+9]  (20 hours later)
 > 
 > So this is now two updates in a row with Silverlake seemingly not having done anything to help Red Robe. It almost feels like the author is setting up a reveal that she *didn't* make it out of the loop, but that would be kind of anti-climatic. I think this is a red-herring.
-> Here's my thought instead: She's out, but she isn't working with Red Robe. She's off doing her goals her own way, and she'll show up at the last minute with some completely convoluted plan that no one was expecting. What would this mean? *Red Robe, hypothetically, still might not know who Zorian is.* In their last in-loop encounter, Zorian was careful not to leave a body, and then Red Robe apparently departed without searching him out. Outside the loop, Red Robe attacked Zach immediately, but didn't go after the less-defended Zorian. Combine that with the fact that Zorian has accidentally set things up such that he's going to blend in at school more than he does in the average reset (the non-dupe is the one going to school, and he's keeping his magic use low for various reasons), and we might have a scenario where the first one to discover the other's identity is going to "win".
 > 
+> Here's my thought instead: She's out, but she isn't working with Red Robe. She's off doing her goals her own way, and she'll show up at the last minute with some completely convoluted plan that no one was expecting. What would this mean? *Red Robe, hypothetically, still might not know who Zorian is.* In their last in-loop encounter, Zorian was careful not to leave a body, and then Red Robe apparently departed without searching him out. Outside the loop, Red Robe attacked Zach immediately, but didn't go after the less-defended Zorian. Combine that with the fact that Zorian has accidentally set things up such that he's going to blend in at school more than he does in the average reset (the non-dupe is the one going to school, and he's keeping his magic use low for various reasons), and we might have a scenario where the first one to discover the other's identity is going to "win".
 
-> **u/hallo_friendos** [+19] *
+> **u/hallo_friendos** [+17]  (2 hours later)
 > 
 > Good, Zorian rescues Notchka's bike! That's honestly one of the details I was most concerned about, since I knew it was coming soon. I half-expected him to get it without Kirielle so Kana would end up happier, but this way works too. And Notchka and Rea are conveniently outed as shifters so Zorian won't have to pretend so hard, as a bonus.
-> Now all that remains is to see if he's careful not to be so nice to Kirielle that she thinks he's been replaced. Plus the whole Red Robe and Silverlake thing, I guess. 
-> After rereading the whole thing yet again for the 6th time or so, I've concluded that Original!Silverlake is probably safe since she was already good at soul magic and loop!Silverlake won't be much better, at least not by enough to force her out of her body (without resorting to some sort of trickery, anyway), and also because Silverlake was mentioned as one of the few temporary loopers who would probably be fine with leaving their old life alone. I don't know how easy it would be for Silverlake to just take someone else's body either, since there's been mention of rejection issues that normally plague possession attempts. Of course, if anyone can overcome that, it's probably her. But anyways, because of all this, I've concluded there's a non-negligible chance Silverlake will actually try to release the primordial.
 > 
+> Now all that remains is to see if he's careful not to be so nice to Kirielle that she thinks he's been replaced. Plus the whole Red Robe and Silverlake thing, I guess. 
+> 
+> After rereading the whole thing yet again for the 6th time or so, I've concluded that Original!Silverlake is probably safe since she was already good at soul magic and loop!Silverlake won't be much better, at least not by enough to force her out of her body (without resorting to some sort of trickery, anyway), and also because Silverlake was mentioned as one of the few temporary loopers who would probably be fine with leaving their old life alone. I don't know how easy it would be for Silverlake to just take someone else's body either, since there's been mention of rejection issues that normally plague possession attempts. Of course, if anyone can overcome that, it's probably her. But anyways, because of all this, I've concluded there's a non-negligible chance Silverlake will actually try to release the primordial.
 
->> **u/sambelulek** [+20]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+22]  *Ulquaan Ibasa Liquor Smuggler* (6 hours later)
 >> 
 >> Uh, story says Silverlake does not need to possess anyone. Panaxeth recreates a body for her (word 'incarnate' imply so). Popular theory says Silverlake got not only a new body, but younger, more lithe body for good reasons.
->> 
 
->>> **u/LLJKCicero** [+10] *
+>>> **u/LLJKCicero** [+12]  (7 hours later)
 >>> 
 >>> Ah, that makes sense. Silverlake was obsessed with immortality, had already figured out how to stop aging, and was trying to reverse it. If she's just given a younger body, that immediately solves her biggest problem.
->>> 
 
->>> **u/hallo_friendos** [+6] *
+>>> **u/hallo_friendos** [+3]  (13 hours later)
 >>> 
 >>> If you recall, the discussion thread for last chapter had a lot of people saying she would get out of helping Panaxeth by simply abandoning her new body that will die if Panaxeth isn't freed and hopping into a different one, either her own or someone else's. I thought of a couple reasons why that might not be possible or be more difficult than we expected, but by then that discussion had long since died. They weren't specific to that chapter anyway, so I just posted them here instead.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 days later)
 >> 
 >> > I half-expected him to get it without Kirielle so Kana would end up happier, but this way works too. 
->> kana is happier without kirielle?
 >> 
+>> kana is happier without kirielle?
 
->>> **u/hallo_friendos** [+1] *
+>>> **u/hallo_friendos** [+1]  (4 days later)
 >>> 
 >>> Happier without Notchka. That way she isn't the third wheel.
->>> 
 
-> **u/ShiranaiWakaranai** [+17] *
+> **u/ShiranaiWakaranai** [+17]  (an hour later)
 > 
 > Has Z&Z checked the hole yet? It occurs to me that Silverlake, being an expert in primordial prisons, might not need any rituals with shifter children blood at the exact time of the planar alignment. She could be there right now, slowly opening the prison up by herself.
-> 
 
->> **u/GoXDS** [+30] *
+>> **u/GoXDS** [+30]  (an hour later)
 >> 
 >> a cage meant to be locking away an agent of ultimate destruction wouldn't be that easy to unlock, let alone solo. the Cultists also don't have such bad dimensionalists that a whole group in a ritual aided by shifter blood would be inferior to a singular mage
->> &#x200B;
->> nor is Silverlake good enough to be better than Damien, Zach, Zorian, and Xvim working together along with the Imperial Orb and a ton of resources and instruction from QI
 >> 
+>> &#x200B;
+>> 
+>> nor is Silverlake good enough to be better than Damien, Zach, Zorian, and Xvim working together along with the Imperial Orb and a ton of resources and instruction from QI
 
->> **u/thrawnca** [+7]  *Carbon-based biped**
+>> **u/thrawnca** [+8]  *Carbon-based biped* (22 hours later)
 >> 
 >> \> slowly opening the prison up by herself.
->> That sounds rather suicidal. Panaxeth promised that if it was released, her body wouldn't automatically die at the end of the month, but I highly doubt it promised to spare her if released right in front of her.
 >> 
+>> That sounds rather suicidal. Panaxeth promised that if it was released, her body wouldn't automatically die at the end of the month, but I highly doubt it promised to spare her if released right in front of her.
 
-> **u/None** [+14] *
+> **u/None** [+14]  (48 minutes later)
 > 
 > I'm surprised he didn't pick physical combat as an elective. It's the one thing he couldn't really train in the loop.
-> 
 
->> **u/lifelingering** [+41] *
+>> **u/lifelingering** [+39]  (an hour later)
 >> 
 >> He needs to pick classes he can pass without any effort so he can focus on stopping the invasion. There'll be plenty of time for training after that's done.
->> 
 
->> **u/generalamitt** [+18] *
+>> **u/generalamitt** [+19]  (6 hours later)
 >> 
 >> First, he could probably get any master combat mage to tutor him personally at this point(Zach is right there). Second, He is an archmage that  has been through an enormous amount of life and death situations, he probably has more combat experience than 99.99% combat mages on the planet. He did train his physical combat in the time loop, just hasn't focus on that. I don't understand how anyone who has read the story can think so close to the end that essentially a highschool course would be worth his time.
->> 
 
->>> **u/Retbull** [+1] *
+>>> **u/Retbull** [+1]  (4 days later)
 >>> 
 >>> It's more like a college minor than a high school course
->>> 
 
->> **u/bludvein** [+20] *
+>> **u/bludvein** [+19]  (an hour later)
 >> 
 >> The thing is, his choices have real consequences now. His electives will matter when he gets a job and pursues higher education. He can't simply do whatever strikes his fancy anymore.
->> &#x200B;
->> EDIT: I seem to remember Zorian telling Taiven the physical combat teacher blacklisted him anyway.
 >> 
+>> &#x200B;
+>> 
+>> EDIT: I seem to remember Zorian telling Taiven the physical combat teacher blacklisted him anyway.
 
->>> **u/Ardvarkeating101** [+39]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+37]  *Father of Learning* (an hour later)
 >>> 
 >>> Well, not really matters when he gets a job and pursues higher education, since his job is "make pocket dimension, sell it for a fortune since they're obscenely rare" and his higher education is "hang out with Xvim and Ilsa" and "maybe sign up for medical magic since that and necromancy are literally the only magical professions he's not already an expert in."
->>> 
 
->>> **u/BaggyOz** [+20] *
+>>> **u/BaggyOz** [+22]  (an hour later)
 >>> 
 >>> The academy appears to be the highest form of education. With the leftover wealth gained from what he knows from the loop plus all his knowledge and experience a job isn't important for him. At a minimum he can establish a reputation as a prodigy like his brother and after he graduates retrieve the two lost divine artifacts to prove he's the real deal.
->>> 
 
->>>> **u/signspace13** [+17] *
+>>>> **u/signspace13** [+19]  (an hour later)
 >>>> 
 >>>> An actual apprenticeship is likely the highest form of education, the idea is for them to specialise in school and then finish and pursue work in their field, if they excel or just catch someone's eye then they get an apprenticeship, in which a much more experienced mage, like one on Ilsa, and Kyron's level teaches them them their personal skills, which they then carry on in their field until they are ready to pass them on as well, all the while researching and experimenting in their own choice directions.
->>>> 
 
->>>>> **u/BaggyOz** [+24] *
+>>>>> **u/BaggyOz** [+25]  (2 hours later)
 >>>>> 
 >>>>> Well in that case Zorian has just completed a decade long apprenticeship with some of the best mages in multiple disciplines. The traditional education system has very little left to offer him.
->>>>> 
 
->>>>>> **u/signspace13** [+21] *
+>>>>>> **u/signspace13** [+22]  (2 hours later)
 >>>>>> 
 >>>>>> Well yeah, Zorian is likely a better mage than most if not all of the schools teachers at this point, the only ones that could probably give him a run for his money are Xvym and maybe the principle (who we actually have yet to meet), who are likely much older than the average teacher like Ilsa and Kyron.
->>>>>> Honestly I wouldn't argue a statement of Zorian likely being one of the best mind mages alive, barring Aranea, and he is even at the level of some of their elders.
 >>>>>> 
+>>>>>> Honestly I wouldn't argue a statement of Zorian likely being one of the best mind mages alive, barring Aranea, and he is even at the level of some of their elders.
 
->>>>>>> **u/LordGoldenroot** [+19] *
+>>>>>>> **u/LordGoldenroot** [+19]  (3 hours later)
 >>>>>>> 
 >>>>>>> He probably is on par with most of the matriarchs given his mental manipulation abilities, and if he did find a way around mind blank during the last restart he probably could be considered better than most or all of them. Additionally Zorian has the advantage that he learned from a lot of different webs about their specialties, so in a generalist sense I doubt there are many that could surpass him in a generalist sense given how a lot of webs seem to distrust each other.
->>>>>>> 
 
->>>>>>>> **u/GoXDS** [+6] *
+>>>>>>>> **u/GoXDS** [+5]  (17 hours later)
 >>>>>>>> 
 >>>>>>>> in a generalist sense maybe. as Scytelian mentioned, Zorian is said to be Elder lvl. because do remember a few things that probably keep matriarchs above Zorian's skill lvl. mind magic is their default communication method and as natural as breathing and done since they were born and used every moment of their life. aranea can live to 50s, and even just 30 is above Zorian's lifespan including the looping (not to mention 15 years without Open status)
->>>>>>>> &#x200B;
->>>>>>>> they were also a \*lot\* braver about messing with their own minds. Zorian had to slowly do it and in a safer manner. they also had a lot more freedom of responsibilities to devote to it, further widening the gap of time involved. tho in the end, the stealing secrets from multiple webs probably helped boost Zorian's understanding and ability to learn, the higher willingness to mess with their mind is probably the most important thing separating them from Zorian
 >>>>>>>> 
+>>>>>>>> &#x200B;
+>>>>>>>> 
+>>>>>>>> they were also a \*lot\* braver about messing with their own minds. Zorian had to slowly do it and in a safer manner. they also had a lot more freedom of responsibilities to devote to it, further widening the gap of time involved. tho in the end, the stealing secrets from multiple webs probably helped boost Zorian's understanding and ability to learn, the higher willingness to mess with their mind is probably the most important thing separating them from Zorian
 
->>>>>>>>> **u/LordGoldenroot** [+2] *
+>>>>>>>>> **u/LordGoldenroot** [+5]  (20 hours later)
 >>>>>>>>> 
 >>>>>>>>> While the first part makes sense I am not so sure about the messing with their minds part. Zorian uses simulacrums to test his mind alterations which would allow him to be much more risky than the aranea.
->>>>>>>>> 
 
->>>>>>>>>> **u/GoXDS** [+5] *
+>>>>>>>>>> **u/GoXDS** [+4]  (23 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I actually completely forgot about that... OOPS XD
->>>>>>>>>> then I guess it comes down to just the time dedicated then I guess.
 >>>>>>>>>> 
+>>>>>>>>>> then I guess it comes down to just the time dedicated then I guess.
 
->>>>>>> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>>>>>>> **u/Ardvarkeating101** [+5]  *Father of Learning* (3 hours later)
 >>>>>>> 
 >>>>>>> At the level of the best of some of the minor webs, but frankly with his mana he can just crash through shields that Aranea can't b/c MORE POWAH
->>>>>>> 
 
->>>>>>>> **u/Scytelian** [+16] *
+>>>>>>>> **u/Scytelian** [+16]  (3 hours later)
 >>>>>>>> 
 >>>>>>>> I think Nobody mentioned in a comment reply that Zorian was around the level of a luminous advocates elder.
->>>>>>>> 
 
->>>>>>> **u/sambelulek** [+4]  *Ulquaan Ibasa Liquor Smuggler**
+>>>>>>> **u/sambelulek** [+5]  *Ulquaan Ibasa Liquor Smuggler* (7 hours later)
 >>>>>>> 
 >>>>>>> Ilsa is career educator. She's between 40 to 50 years of age. Kyron is retired battlemage. Not sure when the battlemage retire, but I think around 50 years old. Zenomir is linguist cum historian who refuse to retire. He's ancient.
->>>>>>> 
 
->>>>>>>> **u/signspace13** [+15] *
+>>>>>>>> **u/signspace13** [+13]  (8 hours later)
 >>>>>>>> 
 >>>>>>>> I honestly always thought of Ilsa as a bit younger than that, Zorian states that Imaya is 'twice his age' so about 30, and she was in the same calss as Ilsa, so it's safe to assume that Ilsa is also around 30, and I assumed Kyron was a similar age, maybe a bit older, my guess for Xvym is late 50's early 60's, similar with Zenomir.
->>>>>>>> Edit: honestly I imagine the teachers in the series are probably similar ages to any actual highschool teachers (anywhere from early mid 20's on) anyone can teach something if they understand it well enough, and they don't need to be incredible mages to do it.
 >>>>>>>> 
+>>>>>>>> Edit: honestly I imagine the teachers in the series are probably similar ages to any actual highschool teachers (anywhere from early mid 20's on) anyone can teach something if they understand it well enough, and they don't need to be incredible mages to do it.
 
->>>>>>>>> **u/sambelulek** [+3]  *Ulquaan Ibasa Liquor Smuggler**
+>>>>>>>>> **u/sambelulek** [+3]  *Ulquaan Ibasa Liquor Smuggler* (11 hours later)
 >>>>>>>>> 
 >>>>>>>>> To have Silverlake still so springy at over a century may skewed my expectation. You see, lately I have been thinking about Silverlake. Does she have a younger body now, what is she doing, why Zorian still haven't had any contact with her, that sort of question. Y'know, thinking about her so much might be a sign I'm falling in love with her.
->>>>>>>>> 
 
->>>>>>>>>> **u/thrawnca** [+4]  *Carbon-based biped**
+>>>>>>>>>> **u/thrawnca** [+4]  *Carbon-based biped* (22 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Well, Silverlake is unaging, and we don't know what age she achieved that, but it was early enough that her hair isn't white.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/tjhance** [+3] *
+>>>>>>>>>>> **u/tjhance** [+3]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> In chapter 28, Zorian specifically thinks that she looks 90 and probably dyes her hair black.
->>>>>>>>>>> That said, it's possible her black hair is actually a result of partial success from her experiments in making a youth potion. Zorian also thinks she is "spry" for a woman of 90, which is also probably a result of her potion-making or alchemy.
 >>>>>>>>>>> 
+>>>>>>>>>>> That said, it's possible her black hair is actually a result of partial success from her experiments in making a youth potion. Zorian also thinks she is "spry" for a woman of 90, which is also probably a result of her potion-making or alchemy.
 
->>>> **u/abnotwhmoanny** [+10] *
+>>>> **u/abnotwhmoanny** [+11]  (an hour later)
 >>>> 
 >>>> Yeah, it seems more like the events in this chapter are a purposeful attempt to contrast to the first (or early) chapter(s). There are multiple things that are mentioned here that only occurred in the very first loop. As to practical reasons for the electives, matching his behavior before the loop is a way to avoid notice. Who knows how many loops Red Robe went through with Zorian before he ever woke up? Obviously different events will lead to some anomalies, allowing for some deviation in his actions, but matching his previous behaviors in the easier simpler ways is worth doing if there is no cost.
->>>> 
 
->>> **u/Nepene** [+8] *
+>>> **u/Nepene** [+10]  (5 hours later)
 >>> 
 >>> He's an archmage of the highest tier, his electives don't matter. His immense powers in a vast array of magical arts would make him powerful and wealthy in almost any field.
->>> 
 
->>>> **u/sambelulek** [+21]  *Ulquaan Ibasa Liquor Smuggler**
+>>>> **u/sambelulek** [+20]  *Ulquaan Ibasa Liquor Smuggler* (7 hours later)
 >>>> 
 >>>> LOL, no. Quatach Ichl is the highest tier of archmage, if such title has tiers. I can argue he is but a fledgling among the archmages. But indeed, he can be very wealthy if he can avoid attention.
->>>> 
 
->>>>> **u/burnerpower** [+7] *
+>>>>> **u/burnerpower** [+7]  (a day later)
 >>>>> 
 >>>>> I think you are underselling Zorian here. When Zach and Zorian first meet up Zorian describes him as the kind of archmage that makes other archmage jealous. We know at this point that Zorian's shaping skill is better than Zach and it's implied by the text and outright stated for a few of his skills that Zorian is now better than Zach at a lot of fields outside of combat magic of course. I'm pretty sure at this point in the story Zorian isn't just an archmage, he's pretty high tier among archmages. The only other ones we have met though are Qutach Ichl who is the most powerful mage in the story and Xvim who Zorian definitely outclasses in several areas at this point. I expect Zorian to be within the top 10 mages on the continent at this point. I would be surprised if he was outside the top 5.
->>>>> 
 
->>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (28 days later)
 >>>>>> 
 >>>>>> Here the core of my argument, "Archmage power is highly tied with his/her experience."  
->>>>>> See the latest feat done by Quatach Ichl. Zorian want to intensify time dilation chamber from the already impressive thirty days to outrageous 6 month. Quatach Ichl previously had little idea how it could be done, but as he given complete research note he accomplished it in less than 2 weeks **(!)** That implied that he had experience so rich he could understand everything in a single read.  
->>>>>> Xvim wouldn't be that hard to kill if he had not practiced his plethora defense magic for years.  
->>>>>> Without experience, archmage is not that good. Zorian had about a decade experience with his mind magic, you can safely multiply it to 3 decades worth since he often used it in life-or-death situation. That makes him unparalleled in mind magic (like Silverlake in alchemy). But what about his warding expertise or his dimensionalism expertise? Those are only backed by less than a decade experience.  
->>>>>> Therefore, by argument I presented, notion from magic neophyte like these:  
->>>>>> >... describes him as the kind of archmage that makes other archmage jealous
->>>>>> is irrelevant.
 >>>>>> 
+>>>>>> See the latest feat done by Quatach Ichl. Zorian want to intensify time dilation chamber from the already impressive thirty days to outrageous 6 month. Quatach Ichl previously had little idea how it could be done, but as he given complete research note he accomplished it in less than 2 weeks **(!)** That implied that he had experience so rich he could understand everything in a single read.  
+>>>>>> 
+>>>>>> Xvim wouldn't be that hard to kill if he had not practiced his plethora defense magic for years.  
+>>>>>> 
+>>>>>> Without experience, archmage is not that good. Zorian had about a decade experience with his mind magic, you can safely multiply it to 3 decades worth since he often used it in life-or-death situation. That makes him unparalleled in mind magic (like Silverlake in alchemy). But what about his warding expertise or his dimensionalism expertise? Those are only backed by less than a decade experience.  
+>>>>>> 
+>>>>>> Therefore, by argument I presented, notion from magic neophyte like these:  
+>>>>>> 
+>>>>>> >... describes him as the kind of archmage that makes other archmage jealous
+>>>>>> 
+>>>>>> is irrelevant.
 
->>>>>>> **u/burnerpower** [+1] *
+>>>>>>> **u/burnerpower** [+1]  (28 days later)
 >>>>>>> 
 >>>>>>> A decade of hellish training much of which was spent in a time dilation chamber making it closer to two decades doing nothing but train with no monetary concerns allowing him to fund experimental research, study with the very best teachers, and learn the most powerful secrets mages would otherwise never teach. His time in the time loop is probably worth most other mage's 200 years outside. ZZ regularly go toe to toe with Quatach-Ichl despite him having what is probably the most powerful magic item in the setting and a thousand years of experience. Don't underestimate Zorian, there is nothing in the story to indicate that he is a magic neophyte. The dudes above expert level at everything except for medical magic and alchemy and he is still pretty damn good at those.
->>>>>>> 
 
->>>>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>>>>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (28 days later)
 >>>>>>>> 
 >>>>>>>> I sensed a fanaticism. Weren't Zorian a regular 3rd year student by the time he gave that notion?  
->>>>>>>> Or is it perhaps naiveté? Expertise is not equal knowledge of few tricks, however powerful. Take language as example, would you consider a man fluent in a language if all he know is its syntax rule, however complete? There's vocabulary, nuance, idiom, intonation, such and such. There is depth to a knowledge. And I  regret to inform you that author regard his fictional magical discipline closer to real-life professional field. Please don't underestimate him.
 >>>>>>>> 
+>>>>>>>> Or is it perhaps naiveté? Expertise is not equal knowledge of few tricks, however powerful. Take language as example, would you consider a man fluent in a language if all he know is its syntax rule, however complete? There's vocabulary, nuance, idiom, intonation, such and such. There is depth to a knowledge. And I  regret to inform you that author regard his fictional magical discipline closer to real-life professional field. Please don't underestimate him.
 
->>>>>>>>> **u/burnerpower** [+1] *
+>>>>>>>>> **u/burnerpower** [+1]  (28 days later)
 >>>>>>>>> 
 >>>>>>>>> Did you just call me a naive fanatic for disagreeing with you about a fictional character in a Reddit thread after you replied to a comment I made three weeks ago? I could level the same criticism at you pretty easily. I regret to inform you that Zorian has referred to himself as a skilled archmage many times, not just an idle thought at the beginning of the story. If you want to bring the real world into it 20 years is more than enough time to be considered an expert in a discipline but it's not the real world so that's beside the point. At this point the only two mages we know for sure are better than Zorian are Zach and QI. He's shown expert level skill in many magical disciplines throughout the story and the only mage that consistently outdoes him is a 1000 year old lich. He can even use Xvim's defensive techniques to the level of skill where he casually backhands extremely dangerous magic projectiles which when first introduced shocks QI. Sure QI is a better mage, he's 1000 years old and he's the most skilled archmage in the story by far as a result. Despite this Zorian can fight him. You can't fight someone like that with some tricks, Zorian would have to have a deep understanding of the many magics he uses in such a fight, anything less would get him killed. That's not really your argument though. Your argument as far as I can tell is that you seem to think that such ridiculous growth would not be possible in the real world so he must be merely a trickster neophyte with no real knowledge. Sorry to say that's not backed up by the story at all and it doesn't really matter what you think is possible in the real world, This is literally magic we are talking about. The author goes out of his way to spell out through Zorian's narration and the various characters reactions to his ridiculous skill that he is an archmage among archmages. As there isn't a single piece of evidence for your claims I am going to believe the text over your skepticism.
->>>>>>>>> 
 
->>>>>>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler**
+>>>>>>>>>> **u/sambelulek** [+1]  *Ulquaan Ibasa Liquor Smuggler* (29 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Oh gee, this gonna be long. It's going to be nerd-geek distinction argument, which is pretty worthless. Please do read on only if you have inclination for a reconciliation.
->>>>>>>>>> I'll start with a retrace. You said 20 years is enough to be considered an expert in real life. Heck I would even say a single decade is enough. My mantra (LOL mantra), "A single year of solving real-world problem makes you decent, a decade of facing ever-changing problem makes you an expert." 
->>>>>>>>>> But I said Zorian has **less** than a decade worth of experience in magical field other than mind-magic. Didn't he lived around 12-13 years in the loop? (6 years by ch 66). So, if Xvim definition of archmage to be heeded, which is more or less "outdo a specialist in their own field," Zorian had only exceed specialist in mind-magic field. He's equal to the specialists in others. Well, I missed spell formula which I suppose worth two or three decades of experience (same "life-or-death situation as multiplier" argument). I admit I was mistaken on that part. This correction, as the result, makes Zorian had 2 field that exceed specialist. He's a definitely an archmage. But our point of contention is never whether or not Zorian is an archmage. It was whether or not Zorian placed among the top. I said he's a fledgling, you said he's maybe at the top 5.
->>>>>>>>>> The word of neophyte to refer Zorian seemed to ruffle your fur. I stressed you must consider when he said the "made other archmage jealous" notion. I said he was still a regular 3rd year student, his world view is not accurate in the slightest. Yet, you ignored this. Why? On one hand I started to think that you take everything stated in the story at face value (mark of fanaticism), on the other hand, I might be mistaken in my initial believe (because you said you're not a fanatic). So I retraced.
->>>>>>>>>> Turns out, that notion was stated by Zorian when he reunited with Zach, ch 53. Clearly I was mistaken. I first thought he said that when he witness Zach fighting Lich, before he started looping. Turn out what he said at the time was "throwing spells like throwing candy," more or less. So I give you that, Zorian is not a neophyte.
->>>>>>>>>> But even at that time, had Zorian already had accurate view on what an archmage can do? Let's note his dimensionalism skill. He hadn't able to cast a gate spell. He was not even aware the micro-gate spell (first witnessed it when he's under Xvim 'serious' tutelage). By the time he already mastered gate spell, he still can't cast the micro-gate spell (note his remark about Quatach Ichl micro-gate when they raided royal treasury). See? This explain all my skepticism. The magical field in MoL is deep. Even when he's perfectly capable of doing something (that chapter 53 again), there's still many thing hidden from his understanding. Even at the field he seriously pursue. That's why I said he's a fledgling. A fledgling among the archmages is powerful no doubt. But let's not hastily note that powerfulness as a top 5 or something.
->>>>>>>>>> On that note I would like to bring this to your attention, Quatach Ichl may had lived for a thousand years. But did he spend that thousand years finding ever-different problem to hone his expertise? Indeed, I'm a skeptic idiot.
 >>>>>>>>>> 
+>>>>>>>>>> I'll start with a retrace. You said 20 years is enough to be considered an expert in real life. Heck I would even say a single decade is enough. My mantra (LOL mantra), "A single year of solving real-world problem makes you decent, a decade of facing ever-changing problem makes you an expert." 
+>>>>>>>>>> 
+>>>>>>>>>> But I said Zorian has **less** than a decade worth of experience in magical field other than mind-magic. Didn't he lived around 12-13 years in the loop? (6 years by ch 66). So, if Xvim definition of archmage to be heeded, which is more or less "outdo a specialist in their own field," Zorian had only exceed specialist in mind-magic field. He's equal to the specialists in others. Well, I missed spell formula which I suppose worth two or three decades of experience (same "life-or-death situation as multiplier" argument). I admit I was mistaken on that part. This correction, as the result, makes Zorian had 2 field that exceed specialist. He's a definitely an archmage. But our point of contention is never whether or not Zorian is an archmage. It was whether or not Zorian placed among the top. I said he's a fledgling, you said he's maybe at the top 5.
+>>>>>>>>>> 
+>>>>>>>>>> The word of neophyte to refer Zorian seemed to ruffle your fur. I stressed you must consider when he said the "made other archmage jealous" notion. I said he was still a regular 3rd year student, his world view is not accurate in the slightest. Yet, you ignored this. Why? On one hand I started to think that you take everything stated in the story at face value (mark of fanaticism), on the other hand, I might be mistaken in my initial believe (because you said you're not a fanatic). So I retraced.
+>>>>>>>>>> 
+>>>>>>>>>> Turns out, that notion was stated by Zorian when he reunited with Zach, ch 53. Clearly I was mistaken. I first thought he said that when he witness Zach fighting Lich, before he started looping. Turn out what he said at the time was "throwing spells like throwing candy," more or less. So I give you that, Zorian is not a neophyte.
+>>>>>>>>>> 
+>>>>>>>>>> But even at that time, had Zorian already had accurate view on what an archmage can do? Let's note his dimensionalism skill. He hadn't able to cast a gate spell. He was not even aware the micro-gate spell (first witnessed it when he's under Xvim 'serious' tutelage). By the time he already mastered gate spell, he still can't cast the micro-gate spell (note his remark about Quatach Ichl micro-gate when they raided royal treasury). See? This explain all my skepticism. The magical field in MoL is deep. Even when he's perfectly capable of doing something (that chapter 53 again), there's still many thing hidden from his understanding. Even at the field he seriously pursue. That's why I said he's a fledgling. A fledgling among the archmages is powerful no doubt. But let's not hastily note that powerfulness as a top 5 or something.
+>>>>>>>>>> 
+>>>>>>>>>> On that note I would like to bring this to your attention, Quatach Ichl may had lived for a thousand years. But did he spend that thousand years finding ever-different problem to hone his expertise? Indeed, I'm a skeptic idiot.
 
->>>>> **u/Nepene** [+3] *
+>>>>> **u/Nepene** [+4]  (21 hours later)
 >>>>> 
 >>>>> He has learned a lot of Quatach's secret lore, and he exceeds him in some areas like golem creation and mind magic. 
->>>>> Plus there's a high chance he's going to defeat Quatach in combat at some point.
 >>>>> 
+>>>>> Plus there's a high chance he's going to defeat Quatach in combat at some point.
 
->> **u/seniormartialbrother** [+7] *
+>> **u/seniormartialbrother** [+7]  (an hour later)
 >> 
 >> Diverging too far from the original timeline might give away his identity.
->> 
 
->> **u/Mr-Mister** [+4] *
+>> **u/Mr-Mister** [+5]  (7 hours later)
 >> 
 >> I'm expecting Magic Minvissile to give him the upper hand in some upcoming confrontation.
->> 
 
->>> **u/-Fender-** [+10] *
+>>> **u/-Fender-** [+9]  (9 hours later)
 >>> 
 >>> All of his force spells are now essentially transparent.
->>> 
 
->>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>> **u/thrawnca** [+2]  *Carbon-based biped* (22 hours later)
 >>>> 
 >>>> Not if he's pretending to be a normal academy student. There's no way to get that good without years of training. Kyron, for one, will start asking serious questions.
->>>> 
 
->>>>> **u/-Fender-** [+1] *
+>>>>> **u/-Fender-** [+1]  (a day later)
 >>>>> 
 >>>>> How's that related, though? The person I was replying to was already talking about the invisible magic missiles ("minvissile"), and wondering how those might help in a confrontation. Most normal students just don't get in confrontations in the first place, so clearly this would have been in a situation where he wouldn't be pretending to be a normal student at all.
->>>>> 
 
->> **u/sambelulek** [+4]  *Ulquaan Ibasa Liquor Smuggler**
+>> **u/sambelulek** [+4]  *Ulquaan Ibasa Liquor Smuggler* (12 hours later)
 >> 
 >> Waitaminute there, physical combat is half strength half technique. You can definitely learn technique in-loop. What Zorian can't have in loop is strength, which is tied to muscle build. Taiven once taught him physical combat, his two classmate Estin and Naim once challenged him into it, Zorian just wasn't interested to follow through.
->> 
 
->>> **u/Ardvarkeating101** [+10]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+10]  *Father of Learning* (12 hours later)
 >>> 
 >>> No, he did, he needed to learn martial arts for his golem to know it, I think that muscle memory counts as part of the "mind" for the purposes of the time loop.
->>> 
 
-> **u/pm_me_cutest_pets** [+8] *
+> **u/pm_me_cutest_pets** [+9]  (11 hours later)
 > 
 > Was it stated whether there are high ranking cult members that have children in the age range of Veyers? If they had, they would be good suspects for Red Robe as it would explain:
+> 
 > - Their fast accress to a red robe
 > - Zorian not noticing anything unusal when scanning the minds of the members themself
 > - The height of red robe
 > - If they were in a parallel class of Zach he would have told them about the time loop. Or maybe they only knew Zach through Veyers. That would explain why only Veyers is missing from Zachs memory
-> 
 
->> **u/GoXDS** [+9] *
+>> **u/GoXDS** [+7]  (17 hours later)
 >> 
 >> possible, but from a storytelling perspective, extremely weak
->> 
 
->>> **u/pm_me_cutest_pets** [+4] *
+>>> **u/pm_me_cutest_pets** [+3]  (17 hours later)
 >>> 
 >>> I agree with you. However I have the feeling that almost all possible characters are weak from a storytelling perspective, if I don't overlook any. [This comment](https://www.reddit.com/r/rational/comments/9x7kcg/rt_hf_mother_of_learning_chapter_92_the_scramble/e9qkb8l/?context=10000) list some possibilities and the likely ones are those we don't really know.
->>> Who do you suspect?
 >>> 
+>>> Who do you suspect?
 
->>>> **u/GoXDS** [+3] *
+>>>> **u/GoXDS** [+3]  (a day later)
 >>>> 
 >>>> I meant strictly from a *storytelling* perspective. it lacks impact and reason to care at reveal.
->>>> most of the other ones on the list are weak from a *rational* perspective
 >>>> 
+>>>> most of the other ones on the list are weak from a *rational* perspective
 
-> **u/zolnir** [+8] *
+> **u/zolnir** [+9]  (2 hours later)
 > 
 > Red Robe clearly knows that the invasion is going to fail and is changing their plans accordingly. IDK what Zorian is doing, he should've been smart enough to know this.
-> 
 
->> **u/hallo_friendos** [+19] *
+>> **u/hallo_friendos** [+21]  (3 hours later)
 >> 
 >> Do you have any evidence for this? The things Red Robe has been doing (attacking Zach, attacking the aranea, defending the cranium rats, evacuating Jornak, Veyers, and cultists and getting them to change their warding schemes) all seem compatible with planning an invasion. From his perspective, what's the cost of trying? Even if it ultimately fails, it gives Zach and Zorian something to think about other than just keeping the primordial contained. At worst it exposes his identity, but I don't think he considers that likely.
->> 
 
->>> **u/zolnir** [+15] *
+>>> **u/zolnir** [+14]  (3 hours later)
 >>> 
 >>> What I mean, is that it's all a facade. Zorian made it clear that worse comes to worse he can still stop the invasion by informing the government, and now that Red Robe is aware of his existence - with Silverlake lurking somewhere - he cannot fail to notice that the original plan isn't going to work. So on the surface he continues the same preparation pretending that he's still going to invade the place, but he's clearly isn't trying too hard at all.
->>> 
 
->>>> **u/hallo_friendos** [+10] *
+>>>> **u/hallo_friendos** [+11]  (4 hours later)
 >>>> 
 >>>> I see. I agree he's definitely going to try something else as well, but I still think you're underestimating how much even a failed invasion helps Red Robe. This is a game of choosing the right priorities because of time constraints, and I believe stopping the invasion will take more effort from Zach and Zorian than it costs Red Robe, even if they get the government's help. Plus, I don't think it's actually guaranteed to fail, from RR's perspective. We know the cultists can attack and release the primordial on an unexpected date, they'll have demons, and the city tends to underprepare even when informed. Really, if it weren't for narrative reasons, it could go either way. As for Red Robe's main priority of releasing Panaxeth, the biggest weakness I see is that the summoning must take place at a particular location already known to Zach and Zorian. He can't just move it, so he needs to defend it, and having most of Cyoria's defenders stopping the invasion instead of the summoning seems like a good start. The only other thing I can think of would be to perform the summoning before starting the invasion, but that sort of thing is hard to hide, which is why they normally do it during the invasion in the first place. As for clearly not trying, I think that's just what RR being cautious looks like, unless I missed something.
->>>> Edit: I think I underestimated the chance of ZZ actually getting the full might of Eldemar to help, and also had forgotten about the last few paragraphs in this chapter.
 >>>> 
+>>>> Edit: I think I underestimated the chance of ZZ actually getting the full might of Eldemar to help, and also had forgotten about the last few paragraphs in this chapter.
 
-> **u/hallo_friendos** [+6] *
+> **u/hallo_friendos** [+6]  (a day later)
 > 
 > Guys I figured it out! Bryn is clearly Red Robe. No other explanation accounts for him knowing about the attack on the Noveda estate so quickly! He's helping the invasion of Cyoria as an indirect way to murder Briam, so that he can be the sole owner of names that start with Br and end with some sort of nasal consonant.
-> ^(/s also turns out he's actually Byrn so clearly he lacks all motivation)
 > 
+> ^(/s also turns out he's actually Byrn so clearly he lacks all motivation)
 
-> **u/rtsynk** [+2] *
+> **u/rtsynk** [+2]  (54 minutes later)
 > 
 > Typo thread
-> just a few hours from now > ago
 > 
+> just a few hours from now > ago
 
->> **u/Penumbra_Penguin** [+2] *
+>> **u/Penumbra_Penguin** [+2]  (an hour later)
 >> 
 >> kidnaped --> kidnapped
->> 
 
->> **u/hallo_friendos** [+2] *
+>> **u/hallo_friendos** [+2]  (21 hours later)
 >> 
 >> It wasn't like she could visit a different city for several weeks at the time, then.  ->  at a time, (maybe?)
->> Now that Ilsa was dead, the new one had no idea who he was. ->  dead, and the new one (if I'm parsing this right)
->> "Lots of types of giant spiders," Zorian noted. ->  There's lots (not sure if that was actually a typo)
->> My, I seemed to ->  seem
 >> 
+>> Now that Ilsa was dead, the new one had no idea who he was. ->  dead, and the new one (if I'm parsing this right)
+>> 
+>> "Lots of types of giant spiders," Zorian noted. ->  There's lots (not sure if that was actually a typo)
+>> 
+>> My, I seemed to ->  seem
 
->> **u/Ristridin1** [+2] *
+>> **u/Ristridin1** [+2]  (a day later)
 >> 
 >> Byrn and Bryn are both used for the same person. There's 10 occurrences of Bryn, and 8 of Byrn.
->> 
 
->>> **u/hallo_friendos** [+1] *
+>>> **u/hallo_friendos** [+1]  (2 days later)
 >>> 
 >>> I did a google search, and it's been Byrn in all previous chapters. I was so confused when I read this; I thought I was just misremembering the guy's name.
->>> 
 
-> **u/dabmg10** [+2] *
+> **u/dabmg10** [+2]  (9 hours later)
 > 
 > On the changes in the real world compared to the time loop Soriano hit on some good ideas at the start simulacrum so are not exact compiles and tend to diverge, the initial copy of the world wasn't perfect with small changes in people that may mean conversations are a little different. With subsequent restarts the world is copied perfectly. As noted there were several things wrong with the start of the simulation such as wrong start of time for the loop. This could mean that red robe exists because of a glitch at the start a change or divergence in a person resulting with red robe, I get the feeling red robe is a divergent simulacrum.
-> 
 
->> **u/hallo_friendos** [+12] *
+>> **u/hallo_friendos** [+11]  (13 hours later)
 >> 
 >> The start of the time loop isn't wrong; Zorian just always slept through it before and this time he was awake. The other divergences can more easily be attributed to changes like the Noveda mansion being attacked. Also I think at this point most of the differences between Zorian and his simulacrums come from them knowing they won't have to deal with any long-term consequences. At least, that's what Zorian was thinking about this chapter. We know Red Robe can't be a simulacrum because those don't have their own soul, which RR would need to get a marker.
->> 
 
->>> **u/tjhance** [+9] *
+>>> **u/tjhance** [+10]  (13 hours later)
 >>> 
 >>> The guardian says that the time loop was supposed to start a month later, at planar alignment, but it started early for some unknown reason. (This is also why it didn't have as many iterations as it was designed to have.)
->>> 
 
->>>> **u/hallo_friendos** [+8] *
+>>>> **u/hallo_friendos** [+8]  (13 hours later)
 >>>> 
 >>>> ~~Oh, that's what you meant.~~ I think currently our best guess is that the angels started it early to stop the primordial from getting released. ~~I don't see how your theory has anything to do with that, though. Why would divergences within the time loop cause the time loop to have started earlier? Causation doesn't work in that direction.~~ 
->>>> Edit: I have epic failed at noticing comments were by different people.
 >>>> 
+>>>> Edit: I have epic failed at noticing comments were by different people.
 
->> **u/onlynega** [+2] *
+>> **u/onlynega** [+2]  (2 days later)
 >> 
 >> I agree. I currently believe it is a Zach simulcrum that went rouge.
->> 
 
->>> **u/drunkenxlord** [+1] *
+>>> **u/drunkenxlord** [+1]  (3 days later)
 >>> 
 >>> I think it was mentioned in the novel that Zach does not know that magic until Zorian learnt it.
->>> 
 
->>>> **u/onlynega** [+1] *
+>>>> **u/onlynega** [+1]  (3 days later)
 >>>> 
 >>>> Could have "forgotten" aka mind mage ripped it out of him since he was in the time loop much longer than Zorian thought. Does suffer from that complexity penalty though.
->>>> 
 
->>>>> **u/-Fender-** [+2] *
+>>>>> **u/-Fender-** [+2]  (20 days later)
 >>>>> 
 >>>>> That would also mean that he would have needed to forget everything he knew about souls, considering how much he had to train soul awareness before being able to cast the spell.
->>>>> 
 
->>> **u/GoXDS** [+1] *
+>>> **u/GoXDS** [+1]  (6 days later)
 >>> 
 >>> but as always, you're gonna need an explanation for no soul and cut off from the source soul when leaving and having a physical body (he took the hit from the gun)
->>> 
 
-> **u/valeskas** [+2] *
+> **u/valeskas** [+2]  (8 hours later)
 > 
 > Hmm, no info on S&R plan yet.
-> My best theory - Panaxeth determined the weakest primordial prison during the time loop and shared the info with them.
 > 
+> My best theory - Panaxeth determined the weakest primordial prison during the time loop and shared the info with them.
 
->> **u/hallo_friendos** [+12] *
+>> **u/hallo_friendos** [+13]  (16 hours later)
 >> 
 >> What do you mean? They're not trying to decide which primordial to free. It's Panaxeth or they die.
->> 
 
->>> **u/valeskas** [+8] *
+>>> **u/valeskas** [+8]  (a day later)
 >>> 
 >>> >It's Panaxeth or they die.
->>> According to Panaxeth speaking with untrusted candidates. Given the proclaimed desire to free other primordials, he should not care that much who is freed first.
->>> Also, primordial ally (maybe lesser primordial from primordial killing aftermath) released before the end of the month probably can help to break Panaxeth out.
 >>> 
+>>> According to Panaxeth speaking with untrusted candidates. Given the proclaimed desire to free other primordials, he should not care that much who is freed first.
+>>> 
+>>> Also, primordial ally (maybe lesser primordial from primordial killing aftermath) released before the end of the month probably can help to break Panaxeth out.
 
->>>> **u/hallo_friendos** [+3] *
+>>>> **u/hallo_friendos** [+3]  (a day later)
 >>>> 
 >>>> Oh, I see. That does actually make sense.
->>>> 
 
-> **u/fanfanye** [+2] *
+> **u/fanfanye** [+2]  (13 hours later)
 > 
 > Is the "Silverlake never accepted the deal and Zach killed her" theory still acceptable?
-> 
 
->> **u/hallo_friendos** [+6] *
+>> **u/hallo_friendos** [+8]  (13 hours later)
 >> 
 >> It doesn't explain how the gate ended up barred again.
->> 
 
->>> **u/WarningInsanityBelow** [+3] *
+>>> **u/WarningInsanityBelow** [+3]  (18 hours later)
 >>> 
 >>> Do we have any reason to believe that they were actually talking to the guardian, rather than Panaxeth shifted into the guardian?
->>> 
 
->>>> **u/hallo_friendos** [+3] *
+>>>> **u/hallo_friendos** [+4]  (19 hours later)
 >>>> 
 >>>> No, but that was just the first of the many problems that theory has. Why would Zach kill Silverlake? How would he do so while in the control room? Why would Panaxeth give up on convincing the others, if the gate wasn't barred?
->>>> 
 
->>>>> **u/WarningInsanityBelow** [+3] *
+>>>>> **u/WarningInsanityBelow** [+3]  (19 hours later)
 >>>>> 
 >>>>> I wasn't arguing for the Zach killed Silverlake theory, I find the idea surprising and don't know any arguments for it.
->>>>> I was just pointing out that we don't have strong reasons to believe the gate was barred, or if we did I would like to know them.(There is the argument that they would have noticed while working on the gate, but I hold the opinion that expecting magic to behave sensibly is a losing bet.)
 >>>>> 
+>>>>> I was just pointing out that we don't have strong reasons to believe the gate was barred, or if we did I would like to know them.(There is the argument that they would have noticed while working on the gate, but I hold the opinion that expecting magic to behave sensibly is a losing bet.)
 
-> **u/None** [+2] *
+> **u/None** [+2]  (15 hours later)
 > 
 > [deleted]
-> 
 
->> **u/hallo_friendos** [+15] *
+>> **u/hallo_friendos** [+15]  (16 hours later)
 >> 
 >> Unlikely. Remember how excited Tinami was when she was introduced to the aranea? Can you really imagine her just killing them all instead of at least trying to recruit them?
->> Zorian being Red Robe was brought up before. As far as we know it's not physically possible. How were they both in the loop at the same time? If Zorian is Red Robe, then when he gained a marker, he would have replaced the Zorian who is our main character. As far as we know, it is not possible to add anything to the loop template, only remove.
 >> 
+>> Zorian being Red Robe was brought up before. As far as we know it's not physically possible. How were they both in the loop at the same time? If Zorian is Red Robe, then when he gained a marker, he would have replaced the Zorian who is our main character. As far as we know, it is not possible to add anything to the loop template, only remove.
 
->> **u/GoXDS** [+10] *
+>> **u/GoXDS** [+10]  (17 hours later)
 >> 
 >> also remember how much her family has benefited from joining the nobility and she explicitly told Zorian her family would never like disrupting the Edelmar government.
->> &#x200B;
->> Zorian being RR has glaring problems. where does he learn to Mind Magic? how did he learn he could? how did the loop keep him separate from Zorian? how is he starting in a different location? how does he get access to the red robe so quickly? what motive would he ever have for doing all of this?
 >> 
+>> &#x200B;
+>> 
+>> Zorian being RR has glaring problems. where does he learn to Mind Magic? how did he learn he could? how did the loop keep him separate from Zorian? how is he starting in a different location? how does he get access to the red robe so quickly? what motive would he ever have for doing all of this?
 
-> **u/Kuratius** [+2] *
+> **u/Kuratius** [+2]  (a day later)
 > 
 > I still feel like curbstomping the combat magic instructor is something he should do for the heck of it.
-> 
 
-> **u/bumbiedumb** [+1]  *The Polity**
+> **u/bumbiedumb** [+2]  *The Polity* (4 hours later)
 > 
 > OH SHIT I JUST REALISED THAT THE YEAR ONE STUDENT MIGHT BE YOUNGER SILVERLAKE IN DISGUISE TO CHECK ON WHETHER ZORIAN HAVE EXITED THE TIME LOOP. THATS WHY HE FELT FAMILIAR!!!
-> 
 
->> **u/hallo_friendos** [+31] *
+>> **u/hallo_friendos** [+32]  (4 hours later)
 >> 
 >> Probably not. We saw her in Ch 1. She was our exposition on what mana is.
->> 
 
->>> **u/TristanTheViking** [+32] *
+>>> **u/TristanTheViking** [+30]  (10 hours later)
 >>> 
 >>> Wow, Silverlake has been planning this for a long time then.
->>> 
 
->> **u/icesharkk** [+3] *
+>> **u/icesharkk** [+3]  (18 hours later)
 >> 
 >> Wait can you elaborate please?
->> 
 
->>> **u/Xtraordinaire** [+6]  *Team Glimglam**
+>>> **u/Xtraordinaire** [+6]  *Team Glimglam* (19 hours later)
 >>> 
 >>> It's pretty much what he said. Silverlake obtained a new body. His theory is that this girl is Silverlake and she asked Zorian to perform magic in hopes he shows some magic he should not be able to perform, therefore confirming that he managed to escape with his knowledge intact. 
->>> This is unlikely because Silverlake doesn't need nor it is her MO to put her in such close proximity to Zorian, well, ever. She can scry from afar. She probably just monitored some key places, like her own house. Zorian's simulacrum went there, boom, she knows Zorian escaped.
 >>> 
+>>> This is unlikely because Silverlake doesn't need nor it is her MO to put her in such close proximity to Zorian, well, ever. She can scry from afar. She probably just monitored some key places, like her own house. Zorian's simulacrum went there, boom, she knows Zorian escaped.
 
->>>> **u/icesharkk** [+2] *
+>>>> **u/icesharkk** [+2]  (19 hours later)
 >>>> 
 >>>> Thanks. That makes sense, but then why is there girl familiar? I don't have perfect recall though I remember several magic train rides where he interested with various people. 
->>>> Could it have been ilsa double testing him?
 >>>> 
+>>>> Could it have been ilsa double testing him?
 
->>>>> **u/Xtraordinaire** [+6]  *Team Glimglam**
+>>>>> **u/Xtraordinaire** [+4]  *Team Glimglam* (19 hours later)
 >>>>> 
 >>>>> It's mentioned somewhere in this thread that Zorian had a similar encounter (maybe with another group of freshmen) in one of the earlier restarts. 
->>>>> Or maybe it's significant and I'm wrong. DUN DUN DUN
 >>>>> 
+>>>>> Or maybe it's significant and I'm wrong. DUN DUN DUN
 
->>>>> **u/hallo_friendos** [+4] *
+>>>>> **u/hallo_friendos** [+4]  (a day later)
 >>>>> 
 >>>>> >Zorian picked up his bag and went to stand by the exit. The idea was to be among the first to disembark, and thus avoid the usual crowding that always occurred once they got to Cyoria, but he was too late – there was already a crowd at the exit when he approached. He leaned on the nearby window and waited, listening to animated conversation between three first year students beside him, who were talking excitedly amongst themselves about how they were going to start learning magic and whatnot. Boy, were they going to be disappointed – the first year was all theory, meditation exercises, and learning how to access your mana consistently.  
 >>>>> >  
@@ -1267,52 +1186,48 @@
 >>>>> >"Um, okay. Sorry to bother you then."  
 >>>>> >  
 >>>>> >With a lot of squealing and steam-letting, the train stopped at Cyoria's train station, and Zorian disembarked as fast as he could, pushing past the awed first-years staring at the sight before them.
->>>>> From Chapter 1.
 >>>>> 
+>>>>> From Chapter 1.
 
->>>>>> **u/icesharkk** [+3] *
+>>>>>> **u/icesharkk** [+4]  (a day later)
 >>>>>> 
 >>>>>> Oh thanks. Yeah that seems entirely similar. Why did it only happen once in the loop?
->>>>>> 
 
->>>>>>> **u/hallo_friendos** [+4] *
+>>>>>>> **u/hallo_friendos** [+3]  (a day later)
 >>>>>>> 
 >>>>>>> I think the first loop and the last one were the only ones where he stayed in Ibery's compartment for the whole train ride. So this time he ended up waiting near the exit with that girl, instead of the other exit he usually uses.
->>>>>>> 
 
->>>>>>>> **u/icesharkk** [+3] *
+>>>>>>>> **u/icesharkk** [+3]  (2 days later)
 >>>>>>>> 
 >>>>>>>> Maybe it's no more significant than the similarity to the first loop. Here I've been thinking she might be special.
->>>>>>>> 
 
-> **u/LordOfReading** [+1] *
+> **u/LordOfReading** [+1]  (3 days later)
 > 
 > Still think it's stupid he is bring his sister along.
-> 
 
-> **u/para_graphs** [+1] *
+> **u/para_graphs** [+1]  (5 days later)
 > 
 > Now that Zorian is out of the loop,  do the gate and key pieces even exist in this 'out of the loop reality'?  If so, does that mean the whole story takes place in a universe of russian nesting dolls?
-> 
 
->> **u/GoXDS** [+4] *
+>> **u/GoXDS** [+4]  (6 days later)
 >> 
 >> yes they exist. they've existed for a long time as you can see from the records and usage. the Sulthrom definitely couldn't have been told in the loop to pass on the Ring, and QI definitely didn't only stumble upon the crown during the loop. or the Ghost Serpent having an undying hatred for past users of the gate, or the research facility having the gate and studying it. so...........
->> not sure what you mean with the Russian nesting dolls considering we know exactly how the loop works (inside Panexth, recreated and destroyed repeatedly)
 >> 
+>> not sure what you mean with the Russian nesting dolls considering we know exactly how the loop works (inside Panexth, recreated and destroyed repeatedly)
 
->>> **u/-Fender-** [+1] *
+>>> **u/-Fender-** [+1]  (20 days later)
 >>> 
 >>> Is it actually confirmed that the loop happens inside Panaxeth? Is it not possible that the Sovereign Gate itself is a primordial, that the looping universe is happening within that unnamed primordial, but that the Gate has to be connected to a different primordial (Panaxeth, in this case, but it could also be any other primordial in the vicinity of the Gate) to gain the energy it needs to function?
->>> The alternative is, as you said, that the Gate is a divine item that connects to a primordial and which forces a soul within a world created inside the trapped primordial without its consent.
 >>> 
+>>> The alternative is, as you said, that the Gate is a divine item that connects to a primordial and which forces a soul within a world created inside the trapped primordial without its consent.
 
-> **u/therealflinchy** [+1] *
+> **u/therealflinchy** [+1]  (28 days later)
 > 
 > "Yeah, this whole situation was really familiar to him for some reason.
-> Oh well, it probably wasn't anything important."
-> Seems ominous.
 > 
+> Oh well, it probably wasn't anything important."
+> 
+> Seems ominous.
 
 ---
 

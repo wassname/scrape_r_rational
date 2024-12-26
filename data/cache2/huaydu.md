@@ -2,7 +2,7 @@
 
 * Author: u/Trudar *
 * URL: https://www.reddit.com/r/rational/comments/huaydu/please_help_me_find_a_story/
-* Score: 3
+* Score: 4
 
 * Created: 2020-07-19T23:55:29
 
@@ -18,27 +18,25 @@ I'll be happy for any pointers, since I can't even recall the title.
 
 ### Comments:
 
-> **u/CronoDAS** [+6] *
+> **u/CronoDAS** [+9]  (27 minutes later)
 > 
 > It could be this one.
-> https://yudkowsky.net/other/fiction/npc
 > 
+> https://yudkowsky.net/other/fiction/npc
 
->> **u/Trudar** [+3] *
+>> **u/Trudar** [+3]  (52 minutes later)
 >> 
 >> Exactly! You hit the mark on first shot.
->> Thank you very much! I won't forget to bookmark it properly now.
 >> 
+>> Thank you very much! I won't forget to bookmark it properly now.
 
->>> **u/erwgv3g34** [+3] *
+>>> **u/erwgv3g34** [+3]  (a day later)
 >>> 
 >>> You should read [this edition](http://web.archive.org/web/20041031044203/http://www.transhumanism.org/index.php/th/more/341/) as well; it has a nice afterword that's not present in the copy on Yudkowsky's website.
->>> 
 
->>>> **u/Trudar** [+2] *
+>>>> **u/Trudar** [+2]  (a day later)
 >>>> 
 >>>> Bookmarked too. Thank you very much!
->>>> 
 
 ---
 

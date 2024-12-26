@@ -18,33 +18,31 @@ One of my favorite things about the heist is that it can be blended into whateve
 
 ### Comments:
 
-> **u/None** [+4] *
+> **u/None** [+5]  (39 minutes later)
 > 
 > MfD(Marked for Death) missions are a lot like heists, except there's a natural dramatic tension inherent in each mission, partly because it's a game, which means that it's unpredictable what the ending will be, or whether the outcome is a success.
-> 
 
-> **u/clawclawbite** [+3] *
+> **u/clawclawbite** [+3]  (17 hours later)
 > 
 > An assassination is almost like a heist, except instead of taking something from a protected place, you often leave something, like a knife, arrow, bullet, or bit of poison.
-> Heists are often easier to justify on moral/heroic levels, though not always, when compared with assassination.
 > 
+> Heists are often easier to justify on moral/heroic levels, though not always, when compared with assassination.
 
->> **u/LiteralHeadCannon** [+3] *
+>> **u/LiteralHeadCannon** [+3]  (19 hours later)
 >> 
 >> Man, there should really be more heroic assassination movies.  Not even dark grey morality movies, but just movies where the job of the heroes is to assassinate clearly bad people who are clearly making the world significantly worse by their continued living status.
->> 
 
->>> **u/clawclawbite** [+2] *
+>>> **u/clawclawbite** [+2]  (20 hours later)
 >>> 
 >>> Have you ever seen Remo Williams: the adventure begins? 80s movie with the actress who played Captain Janeway (Kate Mulgrue).
->>> Totally in that category.
 >>> 
+>>> Totally in that category.
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (a day later)
 >>>> 
 >>>> I loved that movie.
->>>> The books it was based on ("[The Destroyer](https://en.wikipedia.org/wiki/The_Destroyer_(novel_series)" series) are a lot of fun.  Cranked out by ghostwriters and formulaic to the point of literally copy/pasting paragraphs between books, wildly unrealistic, often funny, and generally tremendous fun.
 >>>> 
+>>>> The books it was based on ("[The Destroyer](https://en.wikipedia.org/wiki/The_Destroyer_(novel_series)" series) are a lot of fun.  Cranked out by ghostwriters and formulaic to the point of literally copy/pasting paragraphs between books, wildly unrealistic, often funny, and generally tremendous fun.
 
 ---
 

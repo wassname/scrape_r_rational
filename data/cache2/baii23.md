@@ -2,7 +2,7 @@
 
 * Author: u/olih_ *
 * URL: https://www.reddit.com/r/rational/comments/baii23/automatic_email_for_updates/
-* Score: 2
+* Score: 0
 
 * Created: 2019-04-07T17:10:59
 
@@ -21,40 +21,33 @@ Thanks!
 
 ### Comments:
 
-> **u/ToaKraka** [+9]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+10]  *https://i.imgur.com/OQGHleQ.png* (8 minutes later)
 > 
 > I think all those stories have RSS feeds. You [apparently](https://ifttt.com/applets/147561p-rss-feed-to-email) can set up [IFTTT](https://ifttt.com/) (with which I am *not* acquainted, so take this with a grain of salt) to send you an email whenever an RSS feed updates. Alternatively, you can just use [Feedly](https://feedly.com) to follow the RSS feeds directly; it doesn't send out emails, but at least it consolidates all the stories in one place that you can check regularly.
-> 
 
->> **u/suyjuris** [+3] *
+>> **u/suyjuris** [+3]  (4 hours later)
 >> 
 >> Also, if you use Thunderbird, that has a built-in RSS reader as well, removing any practical difference between checking emails and RSS feeds.
->> 
 
-> **u/TyeJoKing** [+7] *
+> **u/TyeJoKing** [+8]  (6 hours later)
 > 
 > All of these stories have email alerts, with the caveat that you sign up for the service (Fanfiction.net, Wordpress and RoyalRoadL) and subscribe to the story.
-> 
 
-> **u/Hidden-50** [+4] *
+> **u/Hidden-50** [+4]  (6 minutes later)
 > 
 > If you have a fanfiction.net account, you should be able to follow the story / writer
-> 
 
-> **u/dabmg10** [+4] *
+> **u/dabmg10** [+4]  (9 minutes later)
 > 
 > PTGE is on WordPress and you can get email updates via WordPress followed sites.
-> 
 
-> **u/signspace13** [+3] *
+> **u/signspace13** [+3]  (5 hours later)
 > 
 > RSS feeds are the best! All RR stories have feeds of their own, and if you want to participate in this sub Reddit, (and get updates for the stories here that don't have RSS feeds) just add .RSS to the url, makes it into a feed link.
-> 
 
-> **u/sykomantis2099** [+2]  *Custom Flair**
+> **u/sykomantis2099** [+2]  *Custom Flair* (27 minutes later)
 > 
 > PGtE is every MWF with bonus chapters on the first of the month and EE is like a machine when it comes to updating on time. The others it might be worth getting a FF account
-> 
 
 ---
 

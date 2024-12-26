@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/6490707/
-* Score: 20
+* Score: 19
 
 * Created: 2016-07-21T15:57:39
 

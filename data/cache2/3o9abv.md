@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: http://talesfromaeria.tumblr.com/post/130897809482/fall-of-oso
-* Score: 5
+* Score: 6
 
 * Created: 2015-10-10T20:39:56
 

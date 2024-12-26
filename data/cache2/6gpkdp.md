@@ -2,7 +2,7 @@
 
 * Author: u/1337_w0n *
 * URL: https://www.reddit.com/r/rational/comments/6gpkdp/the_pothole_and_the_puddle_the_happy_little/
-* Score: 19
+* Score: 21
 
 * Created: 2017-06-12T02:44:29
 
@@ -38,50 +38,52 @@ Edit: changed "fit inside" to "live in"
 
 ### Comments:
 
-> **u/noggin-scratcher** [+17]  *I am a happy tree**
+> **u/noggin-scratcher** [+17]  *I am a happy tree* (8 hours later)
 > 
 > Without wishing to discourage the attempt, I still somewhat prefer the brevity of [Douglas Adams' version](http://www.goodreads.com/quotes/70827-this-is-rather-as-if-you-imagine-a-puddle-waking)
-> 
 
->> **u/1337_w0n** [+4] *
+>> **u/1337_w0n** [+5]  (17 hours later)
 >> 
 >> That's really interesting. I've heard several times someone compare intelligent design to a puddle in a pothole, but I hadn't heard of anyone using the drying up part of that. Nor did I realize that Douglas Adam first wrote it.
->> 
 
-> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857* (an hour later)
 > 
 > Just fyi, linebreaks on reddit require either two enters
+> 
 > resulting in this kind of linebreak,
+> 
 > or two spaces at the end of a sentence  
 > resulting in this kind of line break.
-> Your story is showing up as a massive, unreadable block of text as-is.
 > 
+> Your story is showing up as a massive, unreadable block of text as-is.
 
->> **u/1337_w0n** [+2] *
+>> **u/1337_w0n** [+2]  (an hour later)
 >> 
 >> Fixed. Thank you, I was wondering why that was.
->> 
 
->>> **u/LupoCani** [+3] *
+>>> **u/LupoCani** [+3]  (3 hours later)
 >>> 
 >>> There's also
->>> \&nbsp;
->>> for blank lines showing up as
->>> &nbsp;
->>> this.
 >>> 
+>>> \&nbsp;
+>>> 
+>>> for blank lines showing up as
+>>> 
+>>> &nbsp;
+>>> 
+>>> this.
 
->>>> **u/1337_w0n** [+1] *
+>>>> **u/1337_w0n** [+1]  (4 hours later)
 >>>> 
 >>>> Awesome, Used. Thanks.
->>>> 
 
-> **u/thrawnca** [+4]  *Carbon-based biped**
+> **u/thrawnca** [+3]  *Carbon-based biped* (20 hours later)
 > 
 > > THE END
-> But why call that the end? The end of that puddle on the asphalt, yes, but all the water that made up the puddle still exists, and will continue on to do other things.
-> In fact, that water has likely existed since the formation of the earth, doing all kinds of things we don't know about, and it will likely continue to do so until the Sun expands to consume the planet.
 > 
+> But why call that the end? The end of that puddle on the asphalt, yes, but all the water that made up the puddle still exists, and will continue on to do other things.
+> 
+> In fact, that water has likely existed since the formation of the earth, doing all kinds of things we don't know about, and it will likely continue to do so until the Sun expands to consume the planet.
 
 ---
 

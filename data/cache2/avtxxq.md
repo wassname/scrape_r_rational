@@ -2,7 +2,7 @@
 
 * Author: u/SkyTroupe *
 * URL: https://www.reddit.com/r/rational/comments/avtxxq/what_tracker_do_you_guys_use/
-* Score: 10
+* Score: 9
 
 * Created: 2019-02-28T17:49:35
 
@@ -14,51 +14,61 @@ Edit: For stories not on Patreon/SB/SV
 
 ### Comments:
 
-> **u/None** [+29] *
+> **u/None** [+35]  (4 hours later)
 > 
 > I often just use /r/rational to be honest, most of the updates to stories I like come through here.
-> 
 
-> **u/rdalex** [+20] *
+> **u/rdalex** [+20]  (46 minutes later)
 > 
 > I'm gonna be obvious here but: Most webnovel repositories have mail alert features.
-> For those stories that aren't published on a repo, there may be an RSS feed. If there's no feed, you may try asking for one.
-> Although to be honest I've long since decided to just _not_ follow webnovels that I can't manage in Calibre (through FanFicFare with mail alerts). There's just too many stories from too many sources and I have to filter them _somehow_ or I'll lose my mind. That means no blogs, no custom sites, no non-threadmarked forums posts.
 > 
+> For those stories that aren't published on a repo, there may be an RSS feed. If there's no feed, you may try asking for one.
+> 
+> Although to be honest I've long since decided to just _not_ follow webnovels that I can't manage in Calibre (through FanFicFare with mail alerts). There's just too many stories from too many sources and I have to filter them _somehow_ or I'll lose my mind. That means no blogs, no custom sites, no non-threadmarked forums posts.
 
->> **u/RiOrius** [+2] *
+>> **u/RiOrius** [+2]  (4 hours later)
 >> 
 >> Just to add on: when there's a feed but no email list, I personally use blogtrottr.com . Also +tags in my email address so all my updates are easily filtered.
->> 
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (2 days later)
 >> 
 >> Ditto, Calibre+ fanficfare is too damn convenient, I'm not going to *manually track* a story like a savage.
->> Every few days, I scan over all in-progress stories with fanficfare. 6 hours later, I confirm the updates.
->> I may have too many ebooks. 30k+.
 >> 
+>> Every few days, I scan over all in-progress stories with fanficfare. 6 hours later, I confirm the updates.
+>> 
+>> I may have too many ebooks. 30k+.
 
->>> **u/rdalex** [+2] *
+>>> **u/rdalex** [+2]  (4 days later)
 >>> 
 >>> What.
+>>> 
 >>> No, please don't do that. Please don't just batch-scan all your stories. That's exactly the kind of thing that makes repos throttle their sites to mitigate bot-access abuse, and the exact reason FFF has such a huge timer between FF.net requests.
+>>> 
 >>> Please use mail alerts, and use FFF's "Get story URLs from email" feature. Your story updates will be WAY faster!
+>>> 
 >>> Sure there'll be some repos with no mail alert; for those you can create a "Manual update check" saved search on those publishers.
+>>> 
 >>> You can also create a custom column to evaluate (roughly) whether a chapter is late or not, based on publication date, last update date, and number of chapters. You can then only check those chapters that have a certain number of missed update cycles.
+>>> 
 >>> This custom column of mine tells me when an ongoing webfic has more than two missed update cycles, and how many missed days (just copy/paste the whole thing as a custom column template): 
+>>> 
 >>>     program:
 >>>     # Days since the last update
 >>>     days_since_last=days_between(today(), raw_field('#updated'));
+>>> 
 >>>     # The first chapter doesn't count in the average; nor do books with no chapters (since they generate a divide by zero error)
 >>>     chapters=cmp(field('#chapters'), 2, 1, subtract(field('#chapters'), 1), subtract(field('#chapters'), 1));
+>>> 
 >>>     # Days between chapters, in average.  If the average is less than one day, we up to one day.  This is so incomplete multi-chapters uploaded in one go don't get crazy values.
 >>>     pub_length=days_between(raw_field('#updated'), raw_field('pubdate'));
 >>>     avg=divide(cmp(pub_length, 0, 1, 1, pub_length), chapters);
 >>>     avg=cmp(avg, 1, 1, 1, avg);
 >>>     # Number of days an update should have come up, based on average
 >>>     days_delayed=subtract(days_since_last, avg);
+>>> 
 >>>     # Number of 'deadlines' missed.
 >>>     deadlines=divide(days_since_last, avg);
+>>> 
 >>>     # We only display a value for books with a Last Updated value. Among those, we dismiss completed books.
 >>>     # You'd think a date column with an undefined value would be considered empty by ifempty(), but nope.  It's a column with a 'None' value.
 >>>     contains( raw_field('#updated'), 'None', '',
@@ -68,105 +78,100 @@ Edit: For stories not on Patreon/SB/SV
 >>>     		)
 >>>     	)
 >>>     )
->>> 
 
-> **u/8gigcheckbook** [+9] *
+> **u/8gigcheckbook** [+9]  (8 minutes later)
 > 
 > This isn't for everyone, but for the stories I really care about (WtC, MoL) I support them on Patreon. For those two at least the authors post when they upload a new chapter.
-> (I'm sure someone will come along with a better direct answer to your question.)
 > 
+> (I'm sure someone will come along with a better direct answer to your question.)
 
->> **u/SkyTroupe** [+4] *
+>> **u/SkyTroupe** [+3]  (16 minutes later)
 >> 
 >> Oh for those yes. I just meant for stories that aren't updated on Patreon/Spacebattles/SufficientVelocity
->> 
 
-> **u/endtime** [+6] *
+> **u/endtime** [+7]  (30 minutes later)
 > 
 > For anything with an RSS feed, IFTTT + Pocket works great.
-> 
 
-> **u/Arancaytar** [+5] *
+> **u/Arancaytar** [+4]  (an hour later)
 > 
 > For Practical Guide to Evil, I used to use Feedhuddler until it shut down, and now I use an IFTTT applet. Most stories (eg. all that use Wordpress) have an RSS feed, so that might be worth checking out.
-> (For me, Pocket makes particular sense because it can sync to an e-reader, but there are other ways to use it as well.)
 > 
+> (For me, Pocket makes particular sense because it can sync to an e-reader, but there are other ways to use it as well.)
 
-> **u/CouteauBleu** [+3]  *We are the Empire.**
+> **u/CouteauBleu** [+3]  *We are the Empire.* (36 minutes later)
 > 
 > I use [Inoreader](https://www.inoreader.com/) as an RSS aggregator. In general, if you want to be notified when one of several streams of content updates, RSS feeds are the most straightforward solution that isn't tied to a platform like Facebook/Twitter/whatever. They're emitted by Wordpress blogs, most webcomics, Reddit and even Youtube if you search a little (not Archive of our Own, unfortunately).
-> Honestly, I'd say any feed aggregator is as good as any other. Inoreader has a good UI, decent features in the free version, no major drawback and mostly does everything you'd expect it to do.
 > 
+> Honestly, I'd say any feed aggregator is as good as any other. Inoreader has a good UI, decent features in the free version, no major drawback and mostly does everything you'd expect it to do.
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (2 days later)
 >> 
 >> Ao3 has the subscription feature for stories, series,  and users. Weirdly, not for collections.
->> I use fanficfare's "grab story URLs from email" option to update ao3 stories and grab new ones.
 >> 
+>> I use fanficfare's "grab story URLs from email" option to update ao3 stories and grab new ones.
 
-> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+> **u/callmesalticidae** [+2]  *writes worldbuilding books* (54 minutes later)
 > 
 > I hit the “subscribe” button, or use an RSS feed when that isn’t available.
-> 
 
-> **u/EthanCC** [+2] *
+> **u/EthanCC** [+2]  (2 hours later)
 > 
 > Most sites have an RSS feed.
-> 
 
-> **u/archpawn** [+2] *
+> **u/archpawn** [+2]  (4 hours later)
 > 
 > I've been using mail for stories and anything else where that's an option. I also use feedly.com for RSS feeds.
-> 
 
-> **u/TBestIG** [+2]  *Every second of quibbling is another dead baby**
+> **u/TBestIG** [+2]  *Every second of quibbling is another dead baby* (4 days later)
 > 
 > I don’t use one. I have 46 tabs open on my phone
-> 
 
->> **u/SkyTroupe** [+3] *
+>> **u/SkyTroupe** [+3]  (5 days later)
 >> 
 >> I relate to this on a spiritual level
->> 
 
-> **u/-main** [+1] *
+> **u/-main** [+1]  (18 hours later)
 > 
 > RSS is the answer. I use Feedly, configured to be like the long-dead Google Reader as much as possible.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > Calibre + FanFicFare works pretty well.
-> 
 
->> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (2 days later)
 >> 
 >> Mark currently-reading stories as favorite, to track them easier in your ever-growing hoard.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (2 days later)
 >>> 
 >>> Excellent advice for people who categorise on that axis!
->>> 
 
-> **u/MilesSand** [+1] *
+> **u/MilesSand** [+1]  (a day later)
 > 
 > Theoldreader
-> [theoldreader.com](https://theoldreader.com)
-> &#x200B;
-> you just have to find the rss link and copy+paste it into the site, and it lets you track which chapters you've read and collects links to chapters automatically. 
-> &#x200B;
-> for reddit threads, you can make a link by using the search bar, and once you've come up with a search that will give you the chapters and not too much else, you set it to sort by 'new' and then type ".rss" after the search (before the question mark) in the url, then copy & paste that whole link.
-> &#x200B;
-> Wordpress sites often have a link somewhere on the page, but it's usually just [https://www.example.com/feed.rss](https://www.example.com/feed.rss)
-> &#x200B;
-> archiveofourown doesn't have the feature available, as far as I can tell.
 > 
+> [theoldreader.com](https://theoldreader.com)
+> 
+> &#x200B;
+> 
+> you just have to find the rss link and copy+paste it into the site, and it lets you track which chapters you've read and collects links to chapters automatically. 
+> 
+> &#x200B;
+> 
+> for reddit threads, you can make a link by using the search bar, and once you've come up with a search that will give you the chapters and not too much else, you set it to sort by 'new' and then type ".rss" after the search (before the question mark) in the url, then copy & paste that whole link.
+> 
+> &#x200B;
+> 
+> Wordpress sites often have a link somewhere on the page, but it's usually just [https://www.example.com/feed.rss](https://www.example.com/feed.rss)
+> 
+> &#x200B;
+> 
+> archiveofourown doesn't have the feature available, as far as I can tell.
 
-> **u/Judah77** [+1] *
+> **u/Judah77** [+1]  (2 days later)
 > 
 > I have a textfile I maintain on my harddrive of the good stories and what chapter I have read up to.  I've tried using various websites in the past, but I read too many genres to have everything covered in one area.  Also I don't like getting a bunch of notifications for small chapters in email.
-> 
 
 ---
 

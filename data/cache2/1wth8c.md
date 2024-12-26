@@ -2,7 +2,7 @@
 
 * Author: u/occasional-redditor *
 * URL: http://www.sfwriter.com/stshould.htm
-* Score: 5
+* Score: 4
 
 * Created: 2014-02-02T17:35:18
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/i_dont_know** [+1] *
+> **u/i_dont_know** [+1]  (12 hours later)
 > 
 > Great short story. It would be interesting if it had one more chapter and the same situation repeated itself.
-> 
 
 ---
 

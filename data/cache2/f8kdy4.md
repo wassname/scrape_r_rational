@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/f8kdy4/secret_of_the_patronus_chapter_4446_whatever/
-* Score: 10
+* Score: 8
 
 * Created: 2020-02-24T02:35:03
 

@@ -2,7 +2,7 @@
 
 * Author: u/Mashallah1488 *
 * URL: https://www.reddit.com/r/rational/comments/9d5yha/demiurge_chess_a_translation_of_bormor/
-* Score: 61
+* Score: 54
 
 * Created: 2018-09-05T12:17:44
 
@@ -65,46 +65,42 @@ Mazukta paused to think. "They can't, and that's all there is to it. It's a good
 
 ### Comments:
 
-> **u/Mashallah1488** [+13] *
+> **u/Mashallah1488** [+13]  (28 minutes later)
 > 
 > If people liked this, I could translate other bormor stories in the future.
-> 
 
->> **u/xamueljones** [+10]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+12]  *My arch-enemy is entropy* (an hour later)
 >> 
 >> Yeah, this was great and hysterically funny. Really hammers in the idea that one person's idea of good and evil will be different from another person's.
->> 
 
->>> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+5]  *Tremble, o ye mighty, for a new age is upon you* (2 hours later)
 >>> 
 >>> Bormor is generally extremely good.
->>> 
 
->> **u/sl236** [+9] *
+>> **u/sl236** [+9]  (4 hours later)
 >> 
 >> If people want more, I did a whole bunch [here](https://toothycat.livejournal.com/tag/bormor) a while back. Also some [here](https://www.toothycat.net/wiki/wiki.pl?search=bormor&search_ww=1)
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (4 hours later)
 >>> 
 >>> Great! You should post it on the sub for visibility
->>> 
 
->>>> **u/sl236** [+2] *
+>>>> **u/sl236** [+2]  (4 hours later)
 >>>> 
 >>>> Well, it's only about a third demiurge ones. The others aren't particularly rational, just fun little vignettes on traditional fairytales.
->>>> 
 
-> **u/None** [+4] *
+> **u/None** [+6]  (3 hours later)
 > 
 > The Demiurge series is one of the best rational short story series from RuLJ (up there with [mytholozhkis about Achiless&Tortoise](https://vetertann.livejournal.com/204661.html).
-> I'll be watching this with great interest
 > 
+> I'll be watching this with great interest
 
-> **u/lolbifrons** [+4]  *Fifteenth Legion of Terror**
+> **u/lolbifrons** [+5]  *Fifteenth Legion of Terror* (13 hours later)
 > 
 > I took the liberty of editing it a bit, as a native English speaker.  I hope you don't mind.
+> 
 > ~~There's a bit of dialogue missing because I didn't understand its purpose.  It's marked in [__bold and brackets__].~~  Thanks /u/sl236 for the explanation.
+> 
 > >Demiurge Mazukta set the board, placed the pieces, and picked up the die. "So, let's begin?"
 > >
 > >"Let's begin," Demiurge Shambambukli eagerly agreed. "Throw the die!"
@@ -160,36 +156,34 @@ Mazukta paused to think. "They can't, and that's all there is to it. It's a good
 > >"Anyway, pick up where I left off, and I will fix the mistakes you made."
 > >
 > >"Yeah," Shambambukli swallowed, "there's certainly a lot of fixing to do."
-> 
 
->> **u/Mashallah1488** [+1] *
+>> **u/Mashallah1488** [+1]  (17 hours later)
 >> 
 >> That bit of dialog is about Mazukta showing off he has bigger and stronger fists than Shambambukli to get across the point that he's stronger overall.
->> 
 
->>> **u/sl236** [+2] *
+>>> **u/sl236** [+2]  (18 hours later)
 >>> 
 >>> "Добро должно быть с кулакаи. Во!- он сжал пальцы.- А у тебя разве кулаки?"
->>> " 'Good needs to come with fists. Like this!' - he held up a fist. 'Can you even make a fist?'"
->>> It's a little more subtle than just power IMO - he's talking about pacifism.
 >>> 
+>>> " 'Good needs to come with fists. Like this!' - he held up a fist. 'Can you even make a fist?'"
+>>> 
+>>> It's a little more subtle than just power IMO - he's talking about pacifism.
 
->>>> **u/lolbifrons** [+2]  *Fifteenth Legion of Terror**
+>>>> **u/lolbifrons** [+2]  *Fifteenth Legion of Terror* (a day later)
 >>>> 
 >>>> Thanks, this helped.  Here's what I turned it into:
->>>> > "Oh?" Mazukta laughed. "Good needs to be aggressive." He held out a fist. "Can you even throw a punch? Anyway, the die decided, so you're evil."
 >>>> 
+>>>> > "Oh?" Mazukta laughed. "Good needs to be aggressive." He held out a fist. "Can you even throw a punch? Anyway, the die decided, so you're evil."
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (19 hours later)
 >>>> 
 >>>> Yep, it's a proverb that good should fight back
->>>> 
 
-> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (2 days later)
 > 
 > Yay to Bormor, the Unkind Storyteller!
-> Seriously, his stores are great. Btw, there has already been at least one of those posted here: https://www.reddit.com/r/rational/comments/4t253z/dc_the_parable_of_the_dark_lord/
 > 
+> Seriously, his stores are great. Btw, there has already been at least one of those posted here: https://www.reddit.com/r/rational/comments/4t253z/dc_the_parable_of_the_dark_lord/
 
 ---
 

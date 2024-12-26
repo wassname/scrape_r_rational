@@ -2,7 +2,7 @@
 
 * Author: u/psychothumbs *
 * URL: http://mergeworld.wikia.com/wiki/Origin_of_Iron-Bat
-* Score: 5
+* Score: 6
 
 * Created: 2016-05-06T23:10:35
 

@@ -2,7 +2,7 @@
 
 * Author: u/addicted_to_reddit_ *
 * URL: https://www.reddit.com/r/rational/comments/gte8fg/rt_wip_ff_pokemon_trials_of_a_trainer_chapter_9/
-* Score: 16
+* Score: 18
 
 * Created: 2020-05-30T13:24:23
 
@@ -28,10 +28,9 @@ Stay safe everyone!
 
 ### Comments:
 
-> **u/sillytom52** [+2] *
+> **u/sillytom52** [+2]  (a day later)
 > 
 > Man I love this. Keep it up.
-> 
 
 ---
 

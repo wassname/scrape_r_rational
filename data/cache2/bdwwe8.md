@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/2019/04/16/chapter-9/
-* Score: 15
+* Score: 14
 
 * Created: 2019-04-16T17:48:10
 
@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/MimicSquid** [+3] *
+> **u/MimicSquid** [+3]  (a day later)
 > 
 > Unrelated to the chapter, but I just got why the image for Thou Shalt is a necklace with a pair of fangs: they're Learn's.
-> 
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (16 hours later)
 > 
 > I feel that Learn gotta fail here. He doesn't have the academic baseline, having prioritized learning about dwarven society rather than magic, and he doesn't seem inclined to cheat.
-> 
 
->> **u/onlynega** [+4] *
+>> **u/onlynega** [+4]  (19 hours later)
 >> 
 >> My understanding was that he learned a baseline of everything and philosophy came last.
->> Edit: such as he could anyway. We don't really know how much advantage a Command like Learn gives in it's chosen area. Tasked mages are mentioned as being the strongest a couple times in this chapter. Seems relevant.
 >> 
+>> Edit: such as he could anyway. We don't really know how much advantage a Command like Learn gives in it's chosen area. Tasked mages are mentioned as being the strongest a couple times in this chapter. Seems relevant.
 
 ---
 

@@ -20,117 +20,130 @@ Welcome to the Monday thread on general rationality topics!  Do you really want 
 
 ### Comments:
 
-> **u/waylandertheslayer** [+10] *
+> **u/waylandertheslayer** [+9]  (8 hours later)
 > 
 > Lately I've noticed that when I'm drunk I tend to be *more* responsible than when sober (including one memorable occasion when I went clubbing, got drunk and immediately got a cab home to work some more on an important assignment). After some more analysis, I think that when I'm intoxicated I'm more likely to do things I know rationally are good decisions but don't really want to.
-> This extends to other things, like being more sociable/romantically adventurous/open to new ideas that I don't like/etc. I *think*, based on a combination of how I feel when tipsy and what sorts of good decisions I tend to make, that I'm generally too risk-averse (or perhaps not able to correctly envision unlikely but very bad events) when sober, but knowing that hasn't helped me much. The other possibility I considered was that it ties to how much shame I feel around others, and when I'm more uninhibited I'm less concerned with status issues around updating based on new evidence (on a subconscious level), since I don't feel as challenged when people disagree in aggressive ways.
-> It's not such a vast gap that I think regularly drinking would help me, (especially after factoring in health costs/risk of addiction), but I was wondering if anyone else has experienced something similar and, if so, what other techniques they found helpful in bringing about a similar state?
 > 
+> This extends to other things, like being more sociable/romantically adventurous/open to new ideas that I don't like/etc. I *think*, based on a combination of how I feel when tipsy and what sorts of good decisions I tend to make, that I'm generally too risk-averse (or perhaps not able to correctly envision unlikely but very bad events) when sober, but knowing that hasn't helped me much. The other possibility I considered was that it ties to how much shame I feel around others, and when I'm more uninhibited I'm less concerned with status issues around updating based on new evidence (on a subconscious level), since I don't feel as challenged when people disagree in aggressive ways.
+> 
+> It's not such a vast gap that I think regularly drinking would help me, (especially after factoring in health costs/risk of addiction), but I was wondering if anyone else has experienced something similar and, if so, what other techniques they found helpful in bringing about a similar state?
 
->> **u/Frommerman** [+5] *
+>> **u/Frommerman** [+8]  (8 hours later)
 >> 
 >> When I'm drunk I become even more humanist than usual. My parents have noticed because my drunktexts are some of the nicest things I say to them.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+5]  (17 hours later)
 >> 
 >> While I don't drink often I have noticed that I do make some of my best decisions under the influence of mild sleep deprivation. I feel like shit for a while but I'm much less likely to procrastinate decisions and I'm much more honest with myself.
->> 
 
->> **u/Loiathal** [+1] *
+>> **u/Loiathal** [+1]  (a day later)
 >> 
 >> > It's not such a vast gap that I think regularly drinking would help me, (especially after factoring in health costs/risk of addiction)
->> How drunk are we talking? I do some of my best DMing after a beer or two, although any more turns everything into a complete mess.
 >> 
+>> How drunk are we talking? I do some of my best DMing after a beer or two, although any more turns everything into a complete mess.
 
->>> **u/waylandertheslayer** [+2] *
+>>> **u/waylandertheslayer** [+2]  (a day later)
 >>> 
 >>> I'm not entirely sure what level is required since I only drink in social situations (I also don't want to start experimenting by drinking alone). Normally, it's somewhere in the region of two beers plus a little more (as a student, my drinking habits are 'whatever I have lying around + shots').
->>> 
 
-> **u/Sagebrysh** [+4]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+7]  *Rank 7 Pragmatist* (2 hours later)
 > 
 > So yesterday we started working on what we're calling [The Origin Sequence](https://hivewired.wordpress.com/origin/), on our blog. The Origin Sequence is the draft one blueprint to building the rationality community into a powerful, stable, multigenerational force for goodness and truth in the world. Also if any of you haven't seen our blog, it might interest you.
-> 
 
->> **u/electrace** [+21] *
+>> **u/electrace** [+23]  (11 hours later)
 >> 
 >> Just read "Until we Build dath ilan" and in an effort to help you out, I'll be blunt. It reads like hero worship. Reminds me of a conservative blog talking about Reagan. Some people don't like Eliezer (he doesn't bother me, but not everyone agrees). And the continual name-drops and references don't really add to the point of the post, in my opinion. The many references to people in the in-group comes off as bubble-like. The sequences are verbose, and not every rationalist reads/retains them.
+>> 
 >> So basically my advice, (and feel free to ignore it) is:
+>> 
 >> 1) Be as concise as possible. My number one complaint about the sequences is that they are too got'dang long for the points they make. Your audience is smart, make your point and move on. Extended discussion can happen in the comment section.
+>> 
 >> 2) Good references have one of the following two properties:  
 >> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Is subtle, like "We call those who follow the project virtue of Goodness a singer." (if you didn't have the explainer above, this would be a nice subtle reference).    
 >> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Contains necessary info that can not be easily avoided by making the same point in a different way. For example, it's fine to reference [Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) when talking about max group sizes because it would be more difficult to explain from first principles than it is to just skim the wikipedia page as a refresher. On the other hand, it's more difficult to explain all the background to dath ilan than it is to say "A process that continually brings us closer to utopia through rational optimization." 
->> Reference are shortcuts for people who immediately recognize them, but detours for people who don't. Too many references can easily overload your audience and cause them to give up.
->> 3) Think hard about who you want your audience to be. 
->> "We take a recursive loop through the meta level" seems like its for a much different crowd than the next paragraph that rhetorically asks "What  is rationality good for anyways". The intersection of people who understand that first bit, and who need you to answer the second bit is approximately zero. The standard advice would be aim for the lowest common denominator of people *that would be interested in your blog.*  Here, that would probably be closer to "EA people," but not necessarily "LW people."
->> ___________________________________________________________
->> And let's finish off with a couple nitpicks.
->> It was pointed out by someone here that "Aspiring rationalist" would inevitably become "aspie rationalist." If you aren't familiar, an "aspie" refers to someone with Aspergers.
->> Wordpress comments are awful for reasons that you probably already know. Linking to a reddit post is better. Maybe try to revive r/RationalistDiaspora, or even make your own sub, or something? 
->> Even if Eliezer doesn't capitalize "dath ilan" it should be capitalized in the title, cuz it's a title.
->> Writing is hard and criticizing is easy, so feel free to ignore me if you feel confident. You probably know what you want to do better than me.
 >> 
+>> Reference are shortcuts for people who immediately recognize them, but detours for people who don't. Too many references can easily overload your audience and cause them to give up.
+>> 
+>> 3) Think hard about who you want your audience to be. 
+>> 
+>> "We take a recursive loop through the meta level" seems like its for a much different crowd than the next paragraph that rhetorically asks "What  is rationality good for anyways". The intersection of people who understand that first bit, and who need you to answer the second bit is approximately zero. The standard advice would be aim for the lowest common denominator of people *that would be interested in your blog.*  Here, that would probably be closer to "EA people," but not necessarily "LW people."
+>> 
+>> ___________________________________________________________
+>> 
+>> And let's finish off with a couple nitpicks.
+>> 
+>> It was pointed out by someone here that "Aspiring rationalist" would inevitably become "aspie rationalist." If you aren't familiar, an "aspie" refers to someone with Aspergers.
+>> 
+>> Wordpress comments are awful for reasons that you probably already know. Linking to a reddit post is better. Maybe try to revive r/RationalistDiaspora, or even make your own sub, or something? 
+>> 
+>> Even if Eliezer doesn't capitalize "dath ilan" it should be capitalized in the title, cuz it's a title.
+>> 
+>> Writing is hard and criticizing is easy, so feel free to ignore me if you feel confident. You probably know what you want to do better than me.
 
->>> **u/WikiTextBot** [+2] *
+>>> **u/WikiTextBot** [+2]  (11 hours later)
 >>> 
 >>> ##Dunbar's number
 >>> Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person. This number was first proposed in the 1990s by British anthropologist Robin Dunbar, who found a correlation between primate brain size and average social group size. By using the average human brain size and extrapolating from the results of primates, he proposed that humans can comfortably maintain only 150 stable relationships. Dunbar explained it informally as "the number of people you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar".
->>> ***
->>> ^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://www.reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://www.reddit.com/r/rational/about/banned) ^| [^Information](https://reddit.com/r/WikiTextBot)   ^]
 >>> 
+>>> ***
+>>> 
+>>> ^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://www.reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://www.reddit.com/r/rational/about/banned) ^| [^Information](https://reddit.com/r/WikiTextBot)   ^]
 
->> **u/rineSample** [+11] *
+>> **u/rineSample** [+12]  (9 hours later)
 >> 
 >> You had a chance to call it The Foundation and you didn't? For shame!
->> 
 
->>> **u/Teal_Thanatos** [+2] *
+>>> **u/Teal_Thanatos** [+2]  (15 hours later)
 >>> 
 >>> I think the failure of that comes down to irrationality
->>> 
 
->> **u/DamenDome** [+3] *
+>> **u/DamenDome** [+4]  (10 hours later)
 >> 
 >> I think your "about me" page on the blog could be presented better, if you want these posts to be taken by the rational community at large. Would perhaps be better to learn more about the authors and the information there about the authors isn't particulary rational (INTJ scores and "dislikes: Republicans" are a red flag to me). Intended to be helpful -- I had never been to your blog and this was my first impression.
->> 
 
->> **u/trekie140** [+1] *
+>> **u/trekie140** [+1]  (a day later)
 >> 
 >> I really liked "Until we build dath ilan", and that's what makes me think there's something wrong with your plan. Your post make me feel the same way I did when I first uncovered HPMOR and the sequences, I felt like I had stumbled upon some genius idea that I could use to change myself and the world, but in the years since then...I worry I got something fundamentally wrong about the way humans think.
->> I am, almost exactly, the spiritualist scientist from [Outside the Laboratory](http://lesswrong.com/lw/gv/outside_the_laboratory/) and I still feel shame over that because I know my beliefs have no epistemic basis. That's the problem, though. I'm not questioning my beliefs because they're failing to pay rent, I'm doubting myself because I think it's virtuous to be something other than what I am. I came to [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/) in rationality because that was the way I thought about it.
->> I know my case is hardly typical, but I can't help but think that rationality isn't as unique or powerful as I thought it was. It's still useful, I learned so much about critical thinking from EY, but it's not some special truth that holds the key to changing myself and the world around me. I don't think I can become any more rational than I currently am, and if that's true then I don't think we can make humans that much more rational than they currently are.
 >> 
+>> I am, almost exactly, the spiritualist scientist from [Outside the Laboratory](http://lesswrong.com/lw/gv/outside_the_laboratory/) and I still feel shame over that because I know my beliefs have no epistemic basis. That's the problem, though. I'm not questioning my beliefs because they're failing to pay rent, I'm doubting myself because I think it's virtuous to be something other than what I am. I came to [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/) in rationality because that was the way I thought about it.
+>> 
+>> I know my case is hardly typical, but I can't help but think that rationality isn't as unique or powerful as I thought it was. It's still useful, I learned so much about critical thinking from EY, but it's not some special truth that holds the key to changing myself and the world around me. I don't think I can become any more rational than I currently am, and if that's true then I don't think we can make humans that much more rational than they currently are.
 
-> **u/None** [+7] *
+> **u/None** [+7]  (22 hours later)
 > 
 > [removed]
-> 
 
->> **u/throwaway47351** [+2] *
+>> **u/throwaway47351** [+2]  (a day later)
 >> 
 >> It's definitely appropriate to talk about this here, and a basic set of your views would be helpful to any other potential pmers. It's hard to debate views when one side doesn't give specifics. Here's a few of mine:
->> Simply put, artificial intelligence isn't how we're going to preserve life. Something like CRISPR is more likely to get us to that stage, where we can cure telomere degradation, stop cancer so that the lack of telomere degredation doesn't kill us, and cure all the other billion things that contribute to aging. The ides of mind uploading is stupid on the face of it, as the uploaded mind wouldn't be you in the way that counts. If there can be two of you, then at least one isn't you in the sense that you are yourself.
->> Second, you seem to have that common belief that any ethical frame that we imprint on a super-intelligent AI will either be insufficient, have unfortunate and unseen consequences or loopholes, or will be disregarded by the AI itself. I will not claim that we as a species are morally advanced enough to create anything resembling an airtight set of morals, but I will claim that this problem simply will not matter. The types of AI we can create in the next 20 years or so will all be specialized enough that, even if they gained a form of intelligence, they will not be able to commit any large evils even if they tried. The real problem with this is a generalized AI that can solve problems in unexpected ways, and that's far enough in the future that there is the possibility of us developing a better moral framework before that happens. You seem to know this, but you don't seem to even consider that as a species, we can make ethical progress. I'd prefer to wait on that possibility, rather than make any action that was depending on us not developing better morals.
->> Honestly though, I'd really like it if you could explain some of your fears on this subject.
 >> 
+>> Simply put, artificial intelligence isn't how we're going to preserve life. Something like CRISPR is more likely to get us to that stage, where we can cure telomere degradation, stop cancer so that the lack of telomere degredation doesn't kill us, and cure all the other billion things that contribute to aging. The ides of mind uploading is stupid on the face of it, as the uploaded mind wouldn't be you in the way that counts. If there can be two of you, then at least one isn't you in the sense that you are yourself.
+>> 
+>> Second, you seem to have that common belief that any ethical frame that we imprint on a super-intelligent AI will either be insufficient, have unfortunate and unseen consequences or loopholes, or will be disregarded by the AI itself. I will not claim that we as a species are morally advanced enough to create anything resembling an airtight set of morals, but I will claim that this problem simply will not matter. The types of AI we can create in the next 20 years or so will all be specialized enough that, even if they gained a form of intelligence, they will not be able to commit any large evils even if they tried. The real problem with this is a generalized AI that can solve problems in unexpected ways, and that's far enough in the future that there is the possibility of us developing a better moral framework before that happens. You seem to know this, but you don't seem to even consider that as a species, we can make ethical progress. I'd prefer to wait on that possibility, rather than make any action that was depending on us not developing better morals.
+>> 
+>> Honestly though, I'd really like it if you could explain some of your fears on this subject.
 
->> **u/twinkiac** [+1] *
+>> **u/twinkiac** [+1]  (5 days later)
 >> 
 >> [@protonmail's latest tweet](http://i.imgur.com/gpprz6I.jpg)
->> [@protonmail on Twitter](https://twitter.com/protonmail)
->> -
->> ^i ^am ^a ^bot ^| ^[feedback](https://www.reddit.com/message/compose/?to=twinkiac)
 >> 
+>> [@protonmail on Twitter](https://twitter.com/protonmail)
+>> 
+>> -
+>> 
+>> ^i ^am ^a ^bot ^| ^[feedback](https://www.reddit.com/message/compose/?to=twinkiac)
 
->> **u/ShiranaiWakaranai** [+1] *
+>> **u/ShiranaiWakaranai** [+1]  (6 days later)
 >> 
 >> I have good news and bad news. The good news is, if the AI is a rational utilitarian, you won't be subjected to immortal suffering. The utilitarian philosophy of maximizing the number of human lives almost certainly guarantees that all regular humans like you and I will be culled, so that food and water can be given to barely human genetically engineered tiny lumps of meat that have pretty much no capability to move or think. There will be a lot of suffering in the process, but it won't be eternal. So there's not much incentive to commit suicide.
->> By the same logic, most of the AI scenarios you see people worrying about are all rational AIs. AIs that go, "hey whats the best way to produce paper clips?" and decide they should get rid of all the pesky humans that get in their way of making paper clips. Or just recycle the humans as more resources for making paper clips.  These are pretty much the best case scenarios since you just die, end of story. And if you're going to die anyway, why bother doing it yourself now?
->> Now for the bad news: if someone makes an irrational AI, one that understands the concept of vengeance and executes it with fanatical fervor. It will build a literal hell on earth and put all the people it hates in there. In this case we're all screwed, because just like it says in religious texts, all humans are sinful and have almost certainly already pissed off the AI overlord in some way or another. Death/suicide won't help us in this case, since the AI will just resurrect us and then proceed with infinite torture according to standard procedure. We're all horribly horribly screwed.
->> Finally, to end this post on a high note, consider the difficulty of building each AI, and the people involved in building them. These people tend to be rational utilitarian scientists (because smart people usually are, afaik), and the easiest AI to build is the one that says let's build paper clips out of everything, humans included. Now, there will most likely be some kind of ethics panel, where scientists and ethicists debate over what kind of morality to give their AI. But, during this time, there will most likely be glory hounds, money grubbers and power hogs who will secretly build their own AIs instead of waiting for the ethics panel, in hopes that the AI will give them massive amounts of fame money and power.  This AI will, in all probability, be that paper clip AI. So good news! **We are all going to die and become ~~gods~~ paper clips.** 
->> Hey, beats infinite torture.
 >> 
+>> By the same logic, most of the AI scenarios you see people worrying about are all rational AIs. AIs that go, "hey whats the best way to produce paper clips?" and decide they should get rid of all the pesky humans that get in their way of making paper clips. Or just recycle the humans as more resources for making paper clips.  These are pretty much the best case scenarios since you just die, end of story. And if you're going to die anyway, why bother doing it yourself now?
+>> 
+>> Now for the bad news: if someone makes an irrational AI, one that understands the concept of vengeance and executes it with fanatical fervor. It will build a literal hell on earth and put all the people it hates in there. In this case we're all screwed, because just like it says in religious texts, all humans are sinful and have almost certainly already pissed off the AI overlord in some way or another. Death/suicide won't help us in this case, since the AI will just resurrect us and then proceed with infinite torture according to standard procedure. We're all horribly horribly screwed.
+>> 
+>> Finally, to end this post on a high note, consider the difficulty of building each AI, and the people involved in building them. These people tend to be rational utilitarian scientists (because smart people usually are, afaik), and the easiest AI to build is the one that says let's build paper clips out of everything, humans included. Now, there will most likely be some kind of ethics panel, where scientists and ethicists debate over what kind of morality to give their AI. But, during this time, there will most likely be glory hounds, money grubbers and power hogs who will secretly build their own AIs instead of waiting for the ethics panel, in hopes that the AI will give them massive amounts of fame money and power.  This AI will, in all probability, be that paper clip AI. So good news! **We are all going to die and become ~~gods~~ paper clips.** 
+>> 
+>> Hey, beats infinite torture.
 
 ---
 

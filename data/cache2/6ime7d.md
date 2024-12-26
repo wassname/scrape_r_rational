@@ -24,329 +24,394 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+> **u/MagicWeasel** [+4]  *Cheela Astronaut* (8 hours later)
 > 
 > Let's talk about the physical mechanics of a vampire feeding. 
+> 
 > Originally when I wrote my story, I gave the vampire bites a classic "two point" appearance, but in re-evaluating that in a rational lens, it doesn't really make sense. My vampires drink blood through their throat and then lungs (quicker way to the heart than via the stomach), rather than the pulpy "sucking it through the fangs like a straw" that I first envisaged.
+> 
 > Given vampires are going for high-pressure blood in arteries, they're going to need to have some sort of healing factor so the humans don't bleed out afterwards. Vampires can heal supernaturally fast so it's fine that the feeding process heals the human afterwards, we're not adding anything new. (In fact, after being bitten, the human has about a month of reduced need for sleep, sharp senses, improved ability to focus; so adding a healing factor that starts out very strong but quickly decays is not an issue)
+> 
 > So, that leaves us with a few main options for vampire bite appearance (I doubt it's exhaustive but nothing else is coming to me at the moment):
+> 
 > 1) Looks like a human bite. Here's an image of a "human bite" makeup to give you an idea: http://sometimesalicefx.deviantart.com/art/Human-Bite-528440762 (contains a realistic bloody wound in case you didn't already guess)
+> 
 > - Pros: realistic 
 > - Cons: probably doesn't bleed very quickly so takes a long time to eat?; is very large so will be obvious (fix: vampires may bite on locations such as the inner thigh rather than the classic neck)
-> 2) They nip and possibly tear a small opening (maybe 0.5cm diameter?)
-> - Pros: Smaller and not as obvious
-> - Cons: How did vampires figure this out? (fix: vampires can feed by methods 1 or 2, but adopted method 2 to maintain the masquerade); also, are human teeth actually capable of it?
-> 3) They don't bite but use a knife, nails, etc to make the hole
-> - Pros: very small hole, definitely possible
-> - Cons: vampires being dependent on a knife to feed is dumb (fix: see #2); being bitten has a very sensual component to it that the knife doesn't; My Vampires *have* to feed from humans in order to dispose of their waste products, so adding an artificial link in there seems contradictory to the spirit (though not in reality)
-> 4) Don't specify in-story exactly what the bite looks like, just leave vague references to a wound
-> - Pros: Don't have to worry about this
-> - Cons: Super cop-out; don't have the opportunity to tell the reader that these vampires Make More Sense as without being informed the wound was different than "classic pulp vampire", people might assume it was
-> So... I'd be interested in anyone's thoughts on what a Rational vampire's bite might look like.
 > 
+> 2) They nip and possibly tear a small opening (maybe 0.5cm diameter?)
+> 
+> - Pros: Smaller and not as obvious
+> 
+> - Cons: How did vampires figure this out? (fix: vampires can feed by methods 1 or 2, but adopted method 2 to maintain the masquerade); also, are human teeth actually capable of it?
+> 
+> 3) They don't bite but use a knife, nails, etc to make the hole
+> 
+> - Pros: very small hole, definitely possible
+> 
+> - Cons: vampires being dependent on a knife to feed is dumb (fix: see #2); being bitten has a very sensual component to it that the knife doesn't; My Vampires *have* to feed from humans in order to dispose of their waste products, so adding an artificial link in there seems contradictory to the spirit (though not in reality)
+> 
+> 4) Don't specify in-story exactly what the bite looks like, just leave vague references to a wound
+> 
+> - Pros: Don't have to worry about this
+> 
+> - Cons: Super cop-out; don't have the opportunity to tell the reader that these vampires Make More Sense as without being informed the wound was different than "classic pulp vampire", people might assume it was
+> 
+> So... I'd be interested in anyone's thoughts on what a Rational vampire's bite might look like.
 
->> **u/buckykat** [+5] *
+>> **u/buckykat** [+6]  (10 hours later)
 >> 
 >> Well, as I understand it, 2 is pretty much what vampire bats do. Make a small hole and lap blood from it. Add a healing factor lick, or kiss to be thematic.
->> Oh, and you can still give them extra bitey sharp incisors, that they use for making the wound in the first place.
 >> 
+>> Oh, and you can still give them extra bitey sharp incisors, that they use for making the wound in the first place.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (11 hours later)
 >>> 
 >>> Thanks for the thought, I agree, 2 is the most workable. I think I'll stay away from the kiss/lick: that's a world of darkness thing, and I've already got the concept of ghouls from them (though watered down a bit). 
->>> However, fun fact! Vampire bat bites actually look like pulp vampire bites [1](http://i.dailymail.co.uk/i/pix/2013/10/04/article-0-1886C98900000578-353_634x420.jpg), [2](https://cdn20.patch.com/inline_images/44719/1465527788.jpg)  , and they[ have fangs to match](http://cdn2.arkive.org/media/F2/F24D1381-854B-492C-A82E-1AF761A3246E/Presentation.Small/Common-vampire-bats-open-mouth-showing-teeth.jpg). 
->>> I'm wary about giving vampires fangs, because I don't want to do retraction like Buffy (the machinery for that in snake mouths is... elaborate), and if we just assume they grow enough tooth tissue to be in a "top 1%" level, I mean, you're looking at [something like this at best](http://cosmeticdentist.com/pointed%20canines.jpg) (from a dental cosmetic surgery page). I don't see that being an effective tool for drawing blood. And I don't want to give them obvious fangs as they need to be incognito. So it makes the mechanics of drawing a wound tricky... unless the process of vampirisation causes the teeth to be coated with something that facilitates the piercing process. 
->>> Vampires were ultimately created technologically (think Atlantis), and probably run on nanites, so I suppose I could justify extending fangs being made by nanofactories, but the "created by atlantis 5000 years ago" aspect of the mythology is very unlikely to ever come up (I'm writing paranormal romance after all), so I try not to lean on it if it would otherwise look like an ass-pull.
 >>> 
+>>> However, fun fact! Vampire bat bites actually look like pulp vampire bites [1](http://i.dailymail.co.uk/i/pix/2013/10/04/article-0-1886C98900000578-353_634x420.jpg), [2](https://cdn20.patch.com/inline_images/44719/1465527788.jpg)  , and they[ have fangs to match](http://cdn2.arkive.org/media/F2/F24D1381-854B-492C-A82E-1AF761A3246E/Presentation.Small/Common-vampire-bats-open-mouth-showing-teeth.jpg). 
+>>> 
+>>> I'm wary about giving vampires fangs, because I don't want to do retraction like Buffy (the machinery for that in snake mouths is... elaborate), and if we just assume they grow enough tooth tissue to be in a "top 1%" level, I mean, you're looking at [something like this at best](http://cosmeticdentist.com/pointed%20canines.jpg) (from a dental cosmetic surgery page). I don't see that being an effective tool for drawing blood. And I don't want to give them obvious fangs as they need to be incognito. So it makes the mechanics of drawing a wound tricky... unless the process of vampirisation causes the teeth to be coated with something that facilitates the piercing process. 
+>>> 
+>>> Vampires were ultimately created technologically (think Atlantis), and probably run on nanites, so I suppose I could justify extending fangs being made by nanofactories, but the "created by atlantis 5000 years ago" aspect of the mythology is very unlikely to ever come up (I'm writing paranormal romance after all), so I try not to lean on it if it would otherwise look like an ass-pull.
 
->>>> **u/buckykat** [+3] *
+>>>> **u/buckykat** [+3]  (12 hours later)
 >>>> 
 >>>> Way I understood it from some half remembered nature documentary is those are upper and lower jaw points, not left and right fang.
->>>> Snake fangs don't retract, they fold back. A human with incisors that fold back would look really weird. And if the fangs retracted, the muscles that extended them would also have to take a human bite force without yielding.
->>>> The vampire fangs don't have to be longer, maybe, just sharper. The vampire would sort of gnaw side on to get the short sharp incisor in play, or use blades if they're being all urbane and sophisticated. My mental image of 'vampire' is somewhere between WoD and Buffy.
->>>> Wound shape:small but messy.
->>>> How does the healing factor work, some kind of beneficent nanobot plague?
 >>>> 
+>>>> Snake fangs don't retract, they fold back. A human with incisors that fold back would look really weird. And if the fangs retracted, the muscles that extended them would also have to take a human bite force without yielding.
+>>>> 
+>>>> The vampire fangs don't have to be longer, maybe, just sharper. The vampire would sort of gnaw side on to get the short sharp incisor in play, or use blades if they're being all urbane and sophisticated. My mental image of 'vampire' is somewhere between WoD and Buffy.
+>>>> 
+>>>> Wound shape:small but messy.
+>>>> 
+>>>> How does the healing factor work, some kind of beneficent nanobot plague?
 
->>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (14 hours later)
 >>>>> 
 >>>>> > A human with incisors that fold back would look really weird
->>>>> Yeah, that was more or less what I was saying with snake fangs being "elaborate" and leaving it at that. I didn't ever try to understand it as well as you clearly do, but just seeing the structure of the mouth and how it looks so inhuman was enough for me to abandon the concept.
->>>>> > The vampire fangs don't have to be longer, maybe, just sharper. [...] Wound shape:small but messy.
->>>>> That's probably a good compromise. Someone posted further down about the teeth being "wider". 
->>>>> >How does the healing factor work
->>>>> [It works very well, thank you](https://www.reddit.com/r/startrek/comments/b99wv/crossposted_from_rwikipedia_when_asked_how_does/); more seriously, yeah, likely something to do with beneficial nanobots that, I guess, quickly die without a vampire body to keep them alive, hence why that effect doesn't last like the other effects do.
->>>>> The other effects (alertness, senses, etc) are probably based on chemicals that the vampire physiology produces - so essentially, drugs that are somehow able to persist in the body for a month or so. I suppose the depo-povera shot lasts three months, so that's not so unrealistic.
 >>>>> 
+>>>>> Yeah, that was more or less what I was saying with snake fangs being "elaborate" and leaving it at that. I didn't ever try to understand it as well as you clearly do, but just seeing the structure of the mouth and how it looks so inhuman was enough for me to abandon the concept.
+>>>>> 
+>>>>> > The vampire fangs don't have to be longer, maybe, just sharper. [...] Wound shape:small but messy.
+>>>>> 
+>>>>> That's probably a good compromise. Someone posted further down about the teeth being "wider". 
+>>>>> 
+>>>>> >How does the healing factor work
+>>>>> 
+>>>>> [It works very well, thank you](https://www.reddit.com/r/startrek/comments/b99wv/crossposted_from_rwikipedia_when_asked_how_does/); more seriously, yeah, likely something to do with beneficial nanobots that, I guess, quickly die without a vampire body to keep them alive, hence why that effect doesn't last like the other effects do.
+>>>>> 
+>>>>> The other effects (alertness, senses, etc) are probably based on chemicals that the vampire physiology produces - so essentially, drugs that are somehow able to persist in the body for a month or so. I suppose the depo-povera shot lasts three months, so that's not so unrealistic.
 
->>>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (3 days later)
 >>>>>> 
 >>>>>> Re: chemical persistence -- Depo-Provera is an intra-muscular injection so it diffuses out into the bloodstream more slowly over time. Either our liver detoxifies and excretes our waste into the GI tract, or our kidneys pump it out of nephrons into our urine. Nanites need a method to bypass both systems OR have a home base for replication within the body. The heart is not a good candidate unless it's stuck on the heart valves (aka endocarditis). the spleen would be a better fit; it's a humoral organ also located on the left side of the body, just below the rib cage. Perhaps vampires have to be staked in the spleen to interrupt their nanites and make them bleed out.
->>>>>> 
 
->>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (3 days later)
 >>>>>>> 
 >>>>>>> > Depo-Provera is an intra-muscular injection so it diffuses out into the bloodstream more slowly over time.
->>>>>>> Ahh, crap. 
->>>>>>> However: vampire!byproducts could be inserted into the muscle tissue during the feeding process, though if that's the case, the preferred bite locations of vampires are not very muscley since they're where arteries hit the top (neck, wrist, elbow, inner thigh). 
->>>>>>> I don't like the idea of vampires passing nanites into the creatures they feed on, because it would kill the masquerade once pathology becomes routine as people would see blood in the microscopes. 
->>>>>>> Do you have any suggestions for how complex "drugs" can be introduced to the body so they can persist for ~30 days? I mean, there are some drugs that are taken e.g. orally that have long half-lifes, right? I know they vary a lot by person, but still...
->>>>>>> > The heart is not a good candidate unless it's stuck on the heart valves (aka endocarditis). the spleen would be a better fit
->>>>>>> Hmmm. My vampire creation ritual involved a vampire vomiting a horrific black sludge into e.g. the aorta of a recently dead individual. It's not pretty and it's not guaranteed, but it works a lot of the time.
->>>>>>> The idea is that vampires were created by an advanced civilisation ("Atlantis"), and they were usually propagated surgically. Much like with cane toads and Jurassic Park, the Atlanteans underestimated the vampires and they were able to come up with a rough and dirty equivilent of the surgical procedure, involving, like I said, vomiting vampire propagating sludge into a corpse, and that is how vampires became self-sustaining and an all around plague.
->>>>>>> But there's no reason it has to be the heart; the spleen could work instead. Though from a quick image search, it doesn't look like the spleen has a "giant tube you can direct your vomit into" like the heart does. But there's no reason that the vampires can't be Wrong About The Heart being the best place to use for propagation; perhaps the spleen would be better, and the heart is just OK. The success rate is on the order of 30-50%, more if the corpse is from an otherwise healthy person. (Part of the failure rate is the nanites taking a DNA snapshot from e.g. tumor tissue rather than healthy tissue, so they don't have a "good" DNA template to base their replication on)
->>>>>>> At the end of the day, none of the living vampires are old enough to know their true origins, so their knowledge of their nature is a game of telephone and they are wrong about a lot of things.
->>>>>>> So: the heart works fine for propagation, but if you want to stake a vampire, you have to hit them in the spleen. When it comes time for it, I can imagine carefully describing the location of the spleen, and have the Hunter say "I hit him in the heart with my crossbow", just to get the readers mad. But she'd probably know the difference since the spleen is actually a decent way away.... Maybe a scene where  she first meets a vampire, aims for the heart, misses, hits the spleen, but the vampire falls? Hmmmm....
->>>>>>> Thanks for your post! It was very interesting :)
 >>>>>>> 
+>>>>>>> Ahh, crap. 
+>>>>>>> 
+>>>>>>> However: vampire!byproducts could be inserted into the muscle tissue during the feeding process, though if that's the case, the preferred bite locations of vampires are not very muscley since they're where arteries hit the top (neck, wrist, elbow, inner thigh). 
+>>>>>>> 
+>>>>>>> I don't like the idea of vampires passing nanites into the creatures they feed on, because it would kill the masquerade once pathology becomes routine as people would see blood in the microscopes. 
+>>>>>>> 
+>>>>>>> Do you have any suggestions for how complex "drugs" can be introduced to the body so they can persist for ~30 days? I mean, there are some drugs that are taken e.g. orally that have long half-lifes, right? I know they vary a lot by person, but still...
+>>>>>>> 
+>>>>>>> > The heart is not a good candidate unless it's stuck on the heart valves (aka endocarditis). the spleen would be a better fit
+>>>>>>> 
+>>>>>>> Hmmm. My vampire creation ritual involved a vampire vomiting a horrific black sludge into e.g. the aorta of a recently dead individual. It's not pretty and it's not guaranteed, but it works a lot of the time.
+>>>>>>> 
+>>>>>>> The idea is that vampires were created by an advanced civilisation ("Atlantis"), and they were usually propagated surgically. Much like with cane toads and Jurassic Park, the Atlanteans underestimated the vampires and they were able to come up with a rough and dirty equivilent of the surgical procedure, involving, like I said, vomiting vampire propagating sludge into a corpse, and that is how vampires became self-sustaining and an all around plague.
+>>>>>>> 
+>>>>>>> But there's no reason it has to be the heart; the spleen could work instead. Though from a quick image search, it doesn't look like the spleen has a "giant tube you can direct your vomit into" like the heart does. But there's no reason that the vampires can't be Wrong About The Heart being the best place to use for propagation; perhaps the spleen would be better, and the heart is just OK. The success rate is on the order of 30-50%, more if the corpse is from an otherwise healthy person. (Part of the failure rate is the nanites taking a DNA snapshot from e.g. tumor tissue rather than healthy tissue, so they don't have a "good" DNA template to base their replication on)
+>>>>>>> 
+>>>>>>> At the end of the day, none of the living vampires are old enough to know their true origins, so their knowledge of their nature is a game of telephone and they are wrong about a lot of things.
+>>>>>>> 
+>>>>>>> So: the heart works fine for propagation, but if you want to stake a vampire, you have to hit them in the spleen. When it comes time for it, I can imagine carefully describing the location of the spleen, and have the Hunter say "I hit him in the heart with my crossbow", just to get the readers mad. But she'd probably know the difference since the spleen is actually a decent way away.... Maybe a scene where  she first meets a vampire, aims for the heart, misses, hits the spleen, but the vampire falls? Hmmmm....
+>>>>>>> 
+>>>>>>> Thanks for your post! It was very interesting :)
 
->>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (7 days later)
 >>>>>>>> 
 >>>>>>>> > The idea is that vampires were created by an advanced civilisation ("Atlantis"), and they were usually propagated surgically. Much like with cane toads and Jurassic Park, the Atlanteans underestimated the vampires and they were able to come up with a rough and dirty equivilent of the surgical procedure, involving, like I said, vomiting vampire propagating sludge into a corpse, and that is how vampires became self-sustaining and an all around plague.
->>>>>>>> That's pretty fantastic. 
->>>>>>>> > The success rate is on the order of 30-50%, more if the corpse is from an otherwise healthy person. 
->>>>>>>> Oh no. If I were a vampire, that would seriously make me question whether/when to turn someone into a vampire if that person were irreplaceable in any sense (e.g. I have an emotional connection to this person). I imagine that this would raise the age of the average neonate (because you're waiting till your beloved/pawn is going to die anyway) and/or lower it (so that you can play a numbers game and get your new vampire before you spent any resources on the people who die). Probably raise it.
 >>>>>>>> 
+>>>>>>>> That's pretty fantastic. 
+>>>>>>>> 
+>>>>>>>> > The success rate is on the order of 30-50%, more if the corpse is from an otherwise healthy person. 
+>>>>>>>> 
+>>>>>>>> Oh no. If I were a vampire, that would seriously make me question whether/when to turn someone into a vampire if that person were irreplaceable in any sense (e.g. I have an emotional connection to this person). I imagine that this would raise the age of the average neonate (because you're waiting till your beloved/pawn is going to die anyway) and/or lower it (so that you can play a numbers game and get your new vampire before you spent any resources on the people who die). Probably raise it.
 
->>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (7 days later)
 >>>>>>>>> 
 >>>>>>>>> > > The idea is that vampires were created by an advanced civilisation ("Atlantis"), and they were usually propagated surgically. Much like with cane toads and Jurassic Park, the Atlanteans underestimated the vampires and they were able to come up with a rough and dirty equivilent of the surgical procedure, involving, like I said, vomiting vampire propagating sludge into a corpse, and that is how vampires became self-sustaining and an all around plague.
->>>>>>>>> > That's pretty fantastic. 
->>>>>>>>> Thanks! It was the result of a long and drawn out conversation with my partners, where we were kind of wondering why making a vampire is so hard. (The reason they often bury pre-vampire corpses is because it puts pressure on the wounds, though ancient funerary practises involving wrapping a body in cloth did much the same thing)
->>>>>>>>> > If I were a vampire, that would seriously make me question whether/when to turn someone into a vampire if that person were irreplaceable in any sense (e.g. I have an emotional connection to this person).
->>>>>>>>> Absolutely. It's one of the reasons my vampire doesn't turn his protege into one (well, ultimate; a vampire who wants to keep a human around can turn him into a thrall. It makes them into a slave, more or less, but they keep their personality and all of that, become immortal, and have super powers. Feeding from them no longer becomes a pseudo sexual experience though, but if you like the human enough, it's a great way to keep them around. Plus they are far stronger.
->>>>>>>>> > I imagine that this would raise the age of the average neonate (because you're waiting till your beloved/pawn is going to die anyway) and/or lower it (so that you can play a numbers game and get your new vampire before you spent any resources on the people who die). Probably raise it. 
->>>>>>>>> In practise, because you can keep a favoured human alive indefinitely as a thrall, it doesn't do much to it either way since said favoured human wouldn't seem to age. That said, a thrall has few rights in vampire society, and after a minor disagreement, you may end up embroiled in a war to get a particularly favoured thrall back and have to give up more than their "face value", which may cause a hit to your reputation if you can't find a way to take the focus off of you and onto someone else instead... So it's best not to get too attached to your thralls, though  it's kind of hard not to.
 >>>>>>>>> 
+>>>>>>>>> > That's pretty fantastic. 
+>>>>>>>>> 
+>>>>>>>>> Thanks! It was the result of a long and drawn out conversation with my partners, where we were kind of wondering why making a vampire is so hard. (The reason they often bury pre-vampire corpses is because it puts pressure on the wounds, though ancient funerary practises involving wrapping a body in cloth did much the same thing)
+>>>>>>>>> 
+>>>>>>>>> > If I were a vampire, that would seriously make me question whether/when to turn someone into a vampire if that person were irreplaceable in any sense (e.g. I have an emotional connection to this person).
+>>>>>>>>> 
+>>>>>>>>> Absolutely. It's one of the reasons my vampire doesn't turn his protege into one (well, ultimate; a vampire who wants to keep a human around can turn him into a thrall. It makes them into a slave, more or less, but they keep their personality and all of that, become immortal, and have super powers. Feeding from them no longer becomes a pseudo sexual experience though, but if you like the human enough, it's a great way to keep them around. Plus they are far stronger.
+>>>>>>>>> 
+>>>>>>>>> > I imagine that this would raise the age of the average neonate (because you're waiting till your beloved/pawn is going to die anyway) and/or lower it (so that you can play a numbers game and get your new vampire before you spent any resources on the people who die). Probably raise it. 
+>>>>>>>>> 
+>>>>>>>>> In practise, because you can keep a favoured human alive indefinitely as a thrall, it doesn't do much to it either way since said favoured human wouldn't seem to age. That said, a thrall has few rights in vampire society, and after a minor disagreement, you may end up embroiled in a war to get a particularly favoured thrall back and have to give up more than their "face value", which may cause a hit to your reputation if you can't find a way to take the focus off of you and onto someone else instead... So it's best not to get too attached to your thralls, though  it's kind of hard not to.
 
->>>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (7 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Huh. Why do vampires reproduce, then? It seems like there'd be a strong incentive for the survivors of that war a few centuries back to just make thralls.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (7 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> To be honest, I'm not sure. I've got a few ideas:
->>>>>>>>>>> 1) Being a janissary, if you can feed a vampire often enough, is good, so I could see an unscrupulous person having a stable of vampires whose services he sells; this has probably happened several times. The vampires occasionally break out.
->>>>>>>>>>> 2) Not all vampires are the same. Perhaps a vampire sect is like the quiverful movement: they think it's their duty to be fruitful, and their children do that too. (problem: that movement would be the biggest, but most vampires that my story encounters aren't from that)
->>>>>>>>>>> 3) After the Catastrophe, they thought it was their duty to expand their population, and so did so, perhaps as a general agreement (problem: I don't want my main vampire, William, to have created a childe. That said, there's no real reason why he couldn't have, and it could have some depth: especially if he didn't actually care about or keep track of the human he turned, he wouldn't necessarily consider it more than an obligation)
->>>>>>>>>>> 4) They produce vampire goo in their digestive system. When it becomes full/ripe, they have an urge to reproduce. (problem: this goes against the "they were meant to be made in labs" theory)
->>>>>>>>>>> 5) Vampire couples might want to have a "vampire baby", and not consider the human they turn of any great moral consequence
->>>>>>>>>>> 6) Young vampires want to have someone lower in the pecking order than them, so make babies
->>>>>>>>>>> 7) A vampire king wants to have subjects
->>>>>>>>>>> edit:
->>>>>>>>>>> 8) To experiment on 
->>>>>>>>>>> 9) company you can trust
->>>>>>>>>>> Big problem: since 1600 CE, the vampire population has gone from ~800 to 20k-40k. This is one new vampire a week, every week, over 400 years. This does not include young vampires who are killed or failed vampires (the majority).
->>>>>>>>>>> Other way of looking at it: To get to 20,000 vampires, each of the original 800 would need to have made 25 (!) children. As a result of this, young vampires probably trace their lineage directly to one of the 800 Founders
->>>>>>>>>>> The vampire genesis failure rate is less for young, healthy humans though. 
->>>>>>>>>>> I *think* we're probably going to have about 100 of the 800 vampires deciding to start their own dynasty, and vampire names/titles to include reference to their ancestor.
 >>>>>>>>>>> 
+>>>>>>>>>>> 1) Being a janissary, if you can feed a vampire often enough, is good, so I could see an unscrupulous person having a stable of vampires whose services he sells; this has probably happened several times. The vampires occasionally break out.
+>>>>>>>>>>> 
+>>>>>>>>>>> 2) Not all vampires are the same. Perhaps a vampire sect is like the quiverful movement: they think it's their duty to be fruitful, and their children do that too. (problem: that movement would be the biggest, but most vampires that my story encounters aren't from that)
+>>>>>>>>>>> 
+>>>>>>>>>>> 3) After the Catastrophe, they thought it was their duty to expand their population, and so did so, perhaps as a general agreement (problem: I don't want my main vampire, William, to have created a childe. That said, there's no real reason why he couldn't have, and it could have some depth: especially if he didn't actually care about or keep track of the human he turned, he wouldn't necessarily consider it more than an obligation)
+>>>>>>>>>>> 
+>>>>>>>>>>> 4) They produce vampire goo in their digestive system. When it becomes full/ripe, they have an urge to reproduce. (problem: this goes against the "they were meant to be made in labs" theory)
+>>>>>>>>>>> 
+>>>>>>>>>>> 5) Vampire couples might want to have a "vampire baby", and not consider the human they turn of any great moral consequence
+>>>>>>>>>>> 
+>>>>>>>>>>> 6) Young vampires want to have someone lower in the pecking order than them, so make babies
+>>>>>>>>>>> 
+>>>>>>>>>>> 7) A vampire king wants to have subjects
+>>>>>>>>>>> 
+>>>>>>>>>>> edit:
+>>>>>>>>>>> 
+>>>>>>>>>>> 8) To experiment on 
+>>>>>>>>>>> 
+>>>>>>>>>>> 9) company you can trust
+>>>>>>>>>>> 
+>>>>>>>>>>> Big problem: since 1600 CE, the vampire population has gone from ~800 to 20k-40k. This is one new vampire a week, every week, over 400 years. This does not include young vampires who are killed or failed vampires (the majority).
+>>>>>>>>>>> 
+>>>>>>>>>>> Other way of looking at it: To get to 20,000 vampires, each of the original 800 would need to have made 25 (!) children. As a result of this, young vampires probably trace their lineage directly to one of the 800 Founders
+>>>>>>>>>>> 
+>>>>>>>>>>> The vampire genesis failure rate is less for young, healthy humans though. 
+>>>>>>>>>>> 
+>>>>>>>>>>> I *think* we're probably going to have about 100 of the 800 vampires deciding to start their own dynasty, and vampire names/titles to include reference to their ancestor.
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (12 hours later)
 >> 
 >> I prefer 2. If you're not constrained by actual dentistry, I think making an incisor that's incredibly sharp is the way to go - a tooth that gets much more narrow than a human tooth does, but looks the same if you're facing the vampire head-on. You then only need "fangs" that extend a short distance past the other teeth, or perhaps the other teeth are dull and meant to hold the skin/artery in place during the bite, rather than piercing the skin.
->> I agree in principle with Vampires Make More Sense, but you still want something that's recognizably a vampire.
 >> 
+>> I agree in principle with Vampires Make More Sense, but you still want something that's recognizably a vampire.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (14 hours later)
 >>> 
 >>> Thanks for your thoughts!!
->>> > If you're not constrained by actual dentistry
->>> What do you mean by "actual dentistry"? As in, the teeth don't have to be identical to human teeth? Or do you mean, like, having a dentist able to tell the difference?
->>> > I think making an incisor that's incredibly sharp is the way to go - a tooth that gets much more narrow than a human tooth does, but looks the same if you're facing the vampire head-on. 
->>> Hmmm. The fact you said incisor and not canine is intriguing. I like the idea of the vampire's front teeth being sharp (like a knife blade), and the incisors tend to be longer than the rest of the teeth anyway. 
->>> Plus, the thought of a vampire with buck teeth... just tickles me.
->>> > I agree in principle with Vampires Make More Sense, but you still want something that's recognizably a vampire.
->>> Yeah, and I don't think "two fangs that extend" is necessary for the vampire to be a vampire; I'm more, "as long as he's immortal, strong, and drinks blood", it doesn't matter how they drink the blood.
 >>> 
+>>> > If you're not constrained by actual dentistry
+>>> 
+>>> What do you mean by "actual dentistry"? As in, the teeth don't have to be identical to human teeth? Or do you mean, like, having a dentist able to tell the difference?
+>>> 
+>>> > I think making an incisor that's incredibly sharp is the way to go - a tooth that gets much more narrow than a human tooth does, but looks the same if you're facing the vampire head-on. 
+>>> 
+>>> Hmmm. The fact you said incisor and not canine is intriguing. I like the idea of the vampire's front teeth being sharp (like a knife blade), and the incisors tend to be longer than the rest of the teeth anyway. 
+>>> 
+>>> Plus, the thought of a vampire with buck teeth... just tickles me.
+>>> 
+>>> > I agree in principle with Vampires Make More Sense, but you still want something that's recognizably a vampire.
+>>> 
+>>> Yeah, and I don't think "two fangs that extend" is necessary for the vampire to be a vampire; I'm more, "as long as he's immortal, strong, and drinks blood", it doesn't matter how they drink the blood.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (16 hours later)
 >> 
 >> .
->> 
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (16 hours later)
 >>> 
 >>> That's definitely a new one, and very elaborate! 
->>> I'm having trouble visualising it, so I'd love it if you could give me a hand!
->>> These muscular appendages: are they on the roof of the mouth? The inside of the jaw/facial muscles?
->>> "Clustered prehensile teeth" - I don't understand. Do you mean on a microscopic scale, the fangs might look kind of like [fibre optic cables](http://www.cabletrade.com.au/CtgImg/Fibre%20Optic%20Cable.jpg) ?
->>> How does the muscular tissue being hollow take an effect? The pressure in an artery is high enough that the vampire doesn't need to provide suction, and the blood just goes down the throat into the lungs so the human respiratory system does that fine (... I've just realised vampires could snort blood to drink it, if they felt the urge.)
->>> Like, I guess where I'm having trouble is, what actually is the muscular appendage that allows the "fractal" teethlets to move?
->>> And if I was designing something that drank blood, I'm not sure I'd go to the effort of making those fancy fangs when I could just make the incisors (front teeth) a bit sharper like someone else suggested.
->>> That said, I think the idea of fractal appendages is really cool. But I'm not sure if this is the right place to put it.
->>> WAIT, I JUST REALISED:
->>> My vampires can transform into bats. So they can actually transform. SO THEY CAN TOTALLY GROW FANGS NORMALLY AND THEN REVERT TO NORMAL. HOW DID I NOT THINK OF THIS?
 >>> 
+>>> I'm having trouble visualising it, so I'd love it if you could give me a hand!
+>>> 
+>>> These muscular appendages: are they on the roof of the mouth? The inside of the jaw/facial muscles?
+>>> 
+>>> "Clustered prehensile teeth" - I don't understand. Do you mean on a microscopic scale, the fangs might look kind of like [fibre optic cables](http://www.cabletrade.com.au/CtgImg/Fibre%20Optic%20Cable.jpg) ?
+>>> 
+>>> How does the muscular tissue being hollow take an effect? The pressure in an artery is high enough that the vampire doesn't need to provide suction, and the blood just goes down the throat into the lungs so the human respiratory system does that fine (... I've just realised vampires could snort blood to drink it, if they felt the urge.)
+>>> 
+>>> Like, I guess where I'm having trouble is, what actually is the muscular appendage that allows the "fractal" teethlets to move?
+>>> 
+>>> And if I was designing something that drank blood, I'm not sure I'd go to the effort of making those fancy fangs when I could just make the incisors (front teeth) a bit sharper like someone else suggested.
+>>> 
+>>> That said, I think the idea of fractal appendages is really cool. But I'm not sure if this is the right place to put it.
+>>> 
+>>> WAIT, I JUST REALISED:
+>>> 
+>>> My vampires can transform into bats. So they can actually transform. SO THEY CAN TOTALLY GROW FANGS NORMALLY AND THEN REVERT TO NORMAL. HOW DID I NOT THINK OF THIS?
 
->>>> **u/KilotonDefenestrator** [+2] *
+>>>> **u/KilotonDefenestrator** [+2]  (17 hours later)
 >>>> 
 >>>> If they can shape change into bats then altering their teeth seems like a trivial thing indeed :) 
->>>> If you are still looking for alternatives, then what about making the tip of the tongue act like a leech on steroids? Cut a small circular hole to the vein and then drink normally.
 >>>> 
+>>>> If you are still looking for alternatives, then what about making the tip of the tongue act like a leech on steroids? Cut a small circular hole to the vein and then drink normally.
 
->>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (17 hours later)
 >>>>> 
 >>>>> The way transformation works uses 4-dimensional space, so they are limited to 3 forms total, more or less (not really, but it's easier that way). So I have "bat", "human", and "fangs". So if I declare they do their fangs via transformation, then I can't make my vampires turn into wolves or whatever else they might transform to. Also, abusing the transformation thing as a deux ex machina is a bit unsatisfying: then again, feeding is literally what a vampire was made to be able to do, so it makes sense that would be an "on-board" ability. Hmmm.
->>>>> Also, it might have some knock-on effects like vampires become more-or-less invulnerable when feeding, depending on how 4D physics works with their brains and whatnot.
 >>>>> 
+>>>>> Also, it might have some knock-on effects like vampires become more-or-less invulnerable when feeding, depending on how 4D physics works with their brains and whatnot.
 
->>>>>> **u/KilotonDefenestrator** [+2] *
+>>>>>> **u/KilotonDefenestrator** [+2]  (17 hours later)
 >>>>>> 
 >>>>>> Maybe bat and wolf are two optional "animal forms", and the fangs are a standard "feeding form". Perhaps some vampires are lacking the feeding form and has to go about in a more messy way (maybe they have 2 animal forms instead, and feed in one of those). 
->>>>>> Playing around with extra dimensions would also allow a vampire to drink much more blood than should fit in his body.
 >>>>>> 
+>>>>>> Playing around with extra dimensions would also allow a vampire to drink much more blood than should fit in his body.
 
->>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (21 hours later)
 >>>>>>> 
 >>>>>>> Ooo, that's an interesting wrinkle. Thanks!
->>>>>>> 
 
->>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (7 days later)
 >>>>>> 
 >>>>>> Are vampires able to partially transform, so that if a vampire in human form doesn't have nasty fangs but a vampire in bat form does,  then a vampire can "pull" on the fangs of the bat form?
->>>>>> 
 
->>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (7 days later)
 >>>>>>> 
 >>>>>>> Hmmm, that could work, actually: I've have to talk to my husband (mathematician with special interest in higher dimensional shapes) to see if it could work. It might interfere with my aesthetic desire to have the forms joined at only the heart, though. But it does minimise the number of forms very nicely. 
->>>>>>> Then again, 4D shapes are impossible to visualise *anyway*, so not being able to visualise a vampire "leaning" into 4D to "pick them up" is kind of expected....
 >>>>>>> 
+>>>>>>> Then again, 4D shapes are impossible to visualise *anyway*, so not being able to visualise a vampire "leaning" into 4D to "pick them up" is kind of expected....
 
->>>>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>>>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (7 days later)
 >>>>>>>> 
 >>>>>>>> If it's possible, then that opens up a lot of room for body horror (if that's your thing) and also gives vampires lots of tricks to learn and employ. I imagine that "pulling" fangs would be instinctive or at least easily-learned, but pulling on other stuff might be more difficult on average (and yet, for the clever vampire, full of possibilities).
->>>>>>>> 
 
->>>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (7 days later)
 >>>>>>>>> 
 >>>>>>>>> Pulling other stuff could be an issue; the wings, for example, are bat-sized, so they could maybe pull them in, but it wouldn't look very good.
->>>>>>>>> Werewolves transform the same way, but they have absolutely no control over the process (whereas vampires can start their bat/fang transformation).
 >>>>>>>>> 
+>>>>>>>>> Werewolves transform the same way, but they have absolutely no control over the process (whereas vampires can start their bat/fang transformation).
 
->>>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (7 days later)
 >>>>>>>>>> 
 >>>>>>>>>> > so they could maybe pull them in, but it wouldn't look very good.
->>>>>>>>>> You are discounting the potential for party tricks. 
->>>>>>>>>> "Ah-ah-ah-CHOOOOO!" 
->>>>>>>>>> "Carl, stop sneezing your wings out your nose. It was only funny the first hundred times."
 >>>>>>>>>> 
+>>>>>>>>>> You are discounting the potential for party tricks. 
+>>>>>>>>>> 
+>>>>>>>>>> "Ah-ah-ah-CHOOOOO!" 
+>>>>>>>>>> 
+>>>>>>>>>> "Carl, stop sneezing your wings out your nose. It was only funny the first hundred times."
 
->>>>>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>>>>>>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (7 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> What was that movie? *The Prestige*? Where they had a super awesome magic device and used it for a dumb magic trick?
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (7 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> It was The Prestige, yeah.
->>>>>>>>>>>> 
 
-> **u/trekie140** [+5] *
+> **u/trekie140** [+5]  (2 hours later)
 > 
 > I feel compelled to devise a rational setting for pulpy adventures. The way I want the world to work is that lost knowledge and magic once sealed away is being rediscovered in the 1920s by wealthy industrialists, mad scientists, crime syndicates, and sinister cults. In response, a new movement of underdog heroes rise up to stop them with their wits, fists, and guts. Think a more noir Gargoyles meets a more dieselpunk Indiana Jones.
-> The key is coming up with a justification for why only now is everyone hunting for mythical treasure, lost civilizations, and fragments of occult knowledge to perform dark rituals or build magitech. I like the idea of ancient conspiracies of mages sealing away dark powers, only for their rule over humanity to collapse during World War I so now the muggles are starting to catch on and getting more proactive.
-> I want the magic system to be more ritualistic and impersonal, spells don't have much symbolism but plenty of rules and loopholes. I feel like taking inspiration from El Goonish Shive, where magic is an external force mages tap into to cast spells they *earn* rather than *learn* or develop themselves. EGS also has Immortals who reset their memories to avoid turning into Fair Folk, so that idea might be useful for the backstory.
-> So I need some help to take these broad ideas and rationalize them into a consistent mythology that the characters learn over time. I want the universe to be expansive, yet easily fragmented into small pieces that don't immediately effect each other. I don't need The Masquerade to stick or the effects of the supernatural to stay small after being released, just a reason why the setting starts that way so heroes can punch villains over it.
 > 
+> The key is coming up with a justification for why only now is everyone hunting for mythical treasure, lost civilizations, and fragments of occult knowledge to perform dark rituals or build magitech. I like the idea of ancient conspiracies of mages sealing away dark powers, only for their rule over humanity to collapse during World War I so now the muggles are starting to catch on and getting more proactive.
+> 
+> I want the magic system to be more ritualistic and impersonal, spells don't have much symbolism but plenty of rules and loopholes. I feel like taking inspiration from El Goonish Shive, where magic is an external force mages tap into to cast spells they *earn* rather than *learn* or develop themselves. EGS also has Immortals who reset their memories to avoid turning into Fair Folk, so that idea might be useful for the backstory.
+> 
+> So I need some help to take these broad ideas and rationalize them into a consistent mythology that the characters learn over time. I want the universe to be expansive, yet easily fragmented into small pieces that don't immediately effect each other. I don't need The Masquerade to stick or the effects of the supernatural to stay small after being released, just a reason why the setting starts that way so heroes can punch villains over it.
 
->> **u/alexanderwales** [+7]  *Time flies like an arrow**
+>> **u/alexanderwales** [+7]  *Time flies like an arrow* (5 hours later)
 >> 
 >> This might be a good setting for cyclical magic. The power of magic waxes and wanes through the centuries, and after a long period of having almost completely left from the world, it's back in a big way. Old ruins are once again lit up with eldritch power, artifacts thought to be artistic curiosities are displaying their true powers, etc.
->> The major benefit of this approach is that there's a reason for remote tribes and defunct empires to have stuff worth seeking out: those things were built when magic was around and are now actually worth something again. It also creates some of the lost maps, lost knowledge, lost people, etc. and justifies a Scramble for Africa vibe. Knowledge gets lost because it becomes useless for a generation or two. And now magic is back, but people have airplanes and diesel engines, meaning that seeking out these lost treasures is much more likely to show a return on investment.
->> It *also* gives a reason for the existence of secret societies and cults, since especially forward-thinking magical organizations would develop practices and traditions that would allow them to endure during dry spells when magic is gone from the Earth, waiting for its return (but a particularly long dry spell might decimate these organizations, who are composed almost entirely of people who have only heard stories of magic, and those who believe in spite of evidence are perhaps not the best candidates for furthering their organization's goals).
 >> 
+>> The major benefit of this approach is that there's a reason for remote tribes and defunct empires to have stuff worth seeking out: those things were built when magic was around and are now actually worth something again. It also creates some of the lost maps, lost knowledge, lost people, etc. and justifies a Scramble for Africa vibe. Knowledge gets lost because it becomes useless for a generation or two. And now magic is back, but people have airplanes and diesel engines, meaning that seeking out these lost treasures is much more likely to show a return on investment.
+>> 
+>> It *also* gives a reason for the existence of secret societies and cults, since especially forward-thinking magical organizations would develop practices and traditions that would allow them to endure during dry spells when magic is gone from the Earth, waiting for its return (but a particularly long dry spell might decimate these organizations, who are composed almost entirely of people who have only heard stories of magic, and those who believe in spite of evidence are perhaps not the best candidates for furthering their organization's goals).
 
->>> **u/trekie140** [+3] *
+>>> **u/trekie140** [+3]  (7 hours later)
 >>> 
 >>> I thought about that, but I have a hard time coming up with a timeline that makes sense. Magic would have to be out of commission since at least the Middle Ages, but it was a legitimate institution for thousands of years prior to that in nearly every civilization. Why would magic suddenly shut off for just over a thousand years and turn back on just as strong?
->>> That's why I'm interested in the idea of immortals going mad. The first humans to discover magic became immortal and were worshipped as gods, but their children saw them all go insane from millennia of experiences so they rebelled and became the new rulers of the world. They thought themselves more civilized, including toward mortals, but eventually went mad themselves.
->>> It was only recently that they came to this revelation and responded by hastily casting a spell that reset all of their memories. Now they only remember fragments about their past and powers, and have lost track of magic and monsters they'd locked away for safe-keeping. They're as hungry for lost knowledge as everyone else but even more afraid of it.
->>> That allows for uber-powerful beings who are aloof and manipulative in a way that lends itself to supernatural adventures. They want people to find what they've lost because they don't remember anything about it and may not trust themselves with it. They have a lot of magical power but most of their memories are warnings against how they've used it.
->>> EDIT: This could also explain the origin of the cults. Many old gods couldn't be completely destroyed, but only rendered powerless. There are a handful of humans that can hear their whispers through the cracks in their prison, where they've gone full Lovecraft. The immortals have been fighting back against these cults for centuries, but have suddenly stopped.
 >>> 
+>>> That's why I'm interested in the idea of immortals going mad. The first humans to discover magic became immortal and were worshipped as gods, but their children saw them all go insane from millennia of experiences so they rebelled and became the new rulers of the world. They thought themselves more civilized, including toward mortals, but eventually went mad themselves.
+>>> 
+>>> It was only recently that they came to this revelation and responded by hastily casting a spell that reset all of their memories. Now they only remember fragments about their past and powers, and have lost track of magic and monsters they'd locked away for safe-keeping. They're as hungry for lost knowledge as everyone else but even more afraid of it.
+>>> 
+>>> That allows for uber-powerful beings who are aloof and manipulative in a way that lends itself to supernatural adventures. They want people to find what they've lost because they don't remember anything about it and may not trust themselves with it. They have a lot of magical power but most of their memories are warnings against how they've used it.
+>>> 
+>>> EDIT: This could also explain the origin of the cults. Many old gods couldn't be completely destroyed, but only rendered powerless. There are a handful of humans that can hear their whispers through the cracks in their prison, where they've gone full Lovecraft. The immortals have been fighting back against these cults for centuries, but have suddenly stopped.
 
->>>> **u/MagicWeasel** [+9]  *Cheela Astronaut**
+>>>> **u/MagicWeasel** [+8]  *Cheela Astronaut* (8 hours later)
 >>>> 
 >>>> > Magic would have to be out of commission since at least the Middle Ages, but it was a legitimate institution for thousands of years prior to that in nearly every civilization
->>>> I'm going to try to make this work for you:
->>>> Being a legitimate institution doesn't mean being turned on continuously. Let's say that at the start start magic is around for 99 years every 100, so it's a fact of life. That one year magic doesn't work is called a "year of drought" or whatever, and maybe there's also a "festival year" where magic is stronger, once per century. It waxes and wanes slowly, perhaps being at a peak in 5000 BCE, 2000 BCE, 1 CE, and, I don't know, 800 CE. 
->>>> After 800 CE the years without magic are the rule rather than the exception, but there's still, say, 20 out of every century (perhaps in 5 blocks of 4 years). Magic exists enough that people are aware of it, have seen magical things with their own eyes. The mage guilds are aware that magic is not reliable, sothey come up with illusions and mentalism to cover for them: so they're always able to make a rabbit come out of the hat, but sometimes they create the rabbit and more often the rabbit is hidden at the bottom, so to speak. 
->>>> Finally, come, say, 1200 CE, magic is only around one year every century, or a few days, the institutions of mages almost completely collapse, and they stop trying: perhaps a high-powered century rocks up without any mages being aware enough of magic to do anything about it; or perhaps those mages are written off as cheap tricks.
->>>> Then in your setting, the magic comes back, and stays. Maybe c. 1850 CE, all of a sudden, the mage guilds start recovering their lost arts and the Heroes Who Punch Things start to take notice 70 years after that.
->>>> You can refine it further by saying that the magic that "works" is what changes, or changes in addition to whether magic itself works or not: in the 1600s, perhaps only reading entrails worked, so the handful of remote tribes that read entrails were living in a magical paradise whilst the rest of the world who had abandoned that practise suffered through famines they couldn't predict.
->>>> Finally, another option is something like the astrological "ages", which last 2,000 years, which allow you to skip all the time since Ancient Rome. Wikipedia says: *According to different astrologers' calculations, approximate dates for entering the Age of Aquarius range from AD 1447 (Terry MacKinnell) to AD 3597 (John Addey)* - so you can chuck the Age of Aquarius's beginning in the 1900s with no problem. You can say that the previous age (Capricorn) was a magic-free age (handwave a reason, or perhaps say t hat magical ages and non-magical ages alternate: as long as your story lasts less than 2,000 years it doesn't matter) and that the age before that (Sagitarrius) was a magical age.
 >>>> 
+>>>> I'm going to try to make this work for you:
+>>>> 
+>>>> Being a legitimate institution doesn't mean being turned on continuously. Let's say that at the start start magic is around for 99 years every 100, so it's a fact of life. That one year magic doesn't work is called a "year of drought" or whatever, and maybe there's also a "festival year" where magic is stronger, once per century. It waxes and wanes slowly, perhaps being at a peak in 5000 BCE, 2000 BCE, 1 CE, and, I don't know, 800 CE. 
+>>>> 
+>>>> After 800 CE the years without magic are the rule rather than the exception, but there's still, say, 20 out of every century (perhaps in 5 blocks of 4 years). Magic exists enough that people are aware of it, have seen magical things with their own eyes. The mage guilds are aware that magic is not reliable, sothey come up with illusions and mentalism to cover for them: so they're always able to make a rabbit come out of the hat, but sometimes they create the rabbit and more often the rabbit is hidden at the bottom, so to speak. 
+>>>> 
+>>>> Finally, come, say, 1200 CE, magic is only around one year every century, or a few days, the institutions of mages almost completely collapse, and they stop trying: perhaps a high-powered century rocks up without any mages being aware enough of magic to do anything about it; or perhaps those mages are written off as cheap tricks.
+>>>> 
+>>>> Then in your setting, the magic comes back, and stays. Maybe c. 1850 CE, all of a sudden, the mage guilds start recovering their lost arts and the Heroes Who Punch Things start to take notice 70 years after that.
+>>>> 
+>>>> You can refine it further by saying that the magic that "works" is what changes, or changes in addition to whether magic itself works or not: in the 1600s, perhaps only reading entrails worked, so the handful of remote tribes that read entrails were living in a magical paradise whilst the rest of the world who had abandoned that practise suffered through famines they couldn't predict.
+>>>> 
+>>>> Finally, another option is something like the astrological "ages", which last 2,000 years, which allow you to skip all the time since Ancient Rome. Wikipedia says: *According to different astrologers' calculations, approximate dates for entering the Age of Aquarius range from AD 1447 (Terry MacKinnell) to AD 3597 (John Addey)* - so you can chuck the Age of Aquarius's beginning in the 1900s with no problem. You can say that the previous age (Capricorn) was a magic-free age (handwave a reason, or perhaps say t hat magical ages and non-magical ages alternate: as long as your story lasts less than 2,000 years it doesn't matter) and that the age before that (Sagitarrius) was a magical age.
 
->>>>> **u/trekie140** [+6] *
+>>>>> **u/trekie140** [+5]  (9 hours later)
 >>>>> 
 >>>>> Well, that's actually so well thought out and subjectively appeals to me enough that I would feel bad if I didn't use it.
->>>>> 
 
->>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (9 hours later)
 >>>>>> 
 >>>>>> I'm flattered, truly!
->>>>>> 
 
-> **u/LiteralHeadCannon** [+2] *
+> **u/LiteralHeadCannon** [+2]  (4 hours later)
 > 
 > So, designing a world from the ground up, similar in many ways to ours but with a lot of physical processes swapped out. Wholly different cycles and ecosystems than our Earth. Not really supposed to be hard-sci-fi realistic, more fantasy-ish, but I do still want the physics to be like ours unless noted.
-> The point is, in this world, instead of lightning strikes, there are columns of water that fall out of the sky, obliterating what they hit (water moving fast is *powerful*). How thick and tall should a column of water moving around terminal velocity (100-200 mph) be to have similar implications to a bolt of lightning? IE, it'll kill on a direct hit, pose a serious danger to anyone nearby, but not obliterate a city, even if several hit the city in a typical storm?
 > 
+> The point is, in this world, instead of lightning strikes, there are columns of water that fall out of the sky, obliterating what they hit (water moving fast is *powerful*). How thick and tall should a column of water moving around terminal velocity (100-200 mph) be to have similar implications to a bolt of lightning? IE, it'll kill on a direct hit, pose a serious danger to anyone nearby, but not obliterate a city, even if several hit the city in a typical storm?
 
->> **u/Gurkenglas** [+7] *
+>> **u/Gurkenglas** [+6]  (5 hours later)
 >> 
 >> A column of water falling at terminal velocity would spread across the blanket of air below it, since the further-up water, not being directly slowed by air resistance, pushes down and flows around - a giant raindrop.
->> 
 
->>> **u/LiteralHeadCannon** [+2] *
+>>> **u/LiteralHeadCannon** [+2]  (5 hours later)
 >>> 
 >>> Hmm, yeah, that makes sense that it would flatten. Maybe it would work better if it were smaller but faster? (It would make sense in context for it to have been shot downwards rather than merely falling.)
->>> 
 
->>>> **u/Gurkenglas** [+4] *
+>>>> **u/Gurkenglas** [+4]  (5 hours later)
 >>>> 
 >>>> Raindrops are falling at terminal velocity. Larger bodies have larger terminal velocity. Doubling velocity quadruples air resistance. Sufficient velocity boils the water.
->>>> 
 
->>>> **u/None** [+4] *
+>>>> **u/None** [+4]  (9 hours later)
 >>>> 
 >>>> As someone who knows little about your world or the physics of water, would it make more sense to use ice? Or at least H2O that is at a temperature at which the heat from its extreme speed would warm it back into water just before it hits the ground?
->>>> 
 
->>>>> **u/LiteralHeadCannon** [+3] *
+>>>>> **u/LiteralHeadCannon** [+3]  (9 hours later)
 >>>>> 
 >>>>> Ooh, that is a pretty good solution, I think!
->>>>> 
 
->>>>>> **u/None** [+3] *
+>>>>>> **u/None** [+3]  (12 hours later)
 >>>>>> 
 >>>>>> First of all, which one? Secondly, would it work with the physics and laws that apply to your world? Because, as you said, if you don't want it to be super "hard sci-fi",  the math doesn't *need* to check out exactly for it to work with your story!
->>>>>> 
 
->>>>>>> **u/LiteralHeadCannon** [+3] *
+>>>>>>> **u/LiteralHeadCannon** [+3]  (12 hours later)
 >>>>>>> 
 >>>>>>> Ice that only becomes liquid from the combined energy of burning up in the atmosphere and colliding with the ground.  And yeah, the math doesn't need to check out exactly, but it's nice to have some convenient justifications lying around for why things act the way they do!  :)
->>>>>>> 
 
->>>>>>>> **u/None** [+2] *
+>>>>>>>> **u/None** [+2]  (12 hours later)
 >>>>>>>> 
 >>>>>>>> Cool! Glad my answer was helpful!
->>>>>>>> 
 
->> **u/LupoCani** [+3] *
+>> **u/LupoCani** [+4]  (9 hours later)
 >> 
 >> As it turns out, a lightning bolt carries some ~5 gigajoules of energy, while a ton of TNT carries ~4. Turing this into kinetic energy via `W = mv^2 * 0,5` gives us, for one ton of water, a velocity of approximately 3 km/s. That is roughly 15% of escape velocity, and fast enough to reach the ground, from a typical cloud,  in about one second. 
->> Naturally, at these energies, you get atmospheric-entry levels of friction. I'm pretty sure you'd see a bright trail as the water jet vaporised itself on its way down.
 >> 
+>> Naturally, at these energies, you get atmospheric-entry levels of friction. I'm pretty sure you'd see a bright trail as the water jet vaporised itself on its way down.
 
-> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (4 days later)
 > 
 > Infections use the strategy of invading white blood cells (like HIV) or red cells (like Malaria) and then lysing the cells when they have propagated.
-> Perhaps there is a weaker lytic form of the vampire plague passed on through the bite that some of the blood cells excrete the healing factors for 30 days within human hosts. Red cells persist for up to 90-days and they don't have any nuclei so they'd just be a shell for the plague to hide in. 
-> Hmmm.. you could derive a whole undead mythology based on the perversion of different white cells. Neutrophils are short-lived suicide bombers, while memory B-cell lymphocytes last a lifetime. A lysogenic viral form that invades the B memory-cells would be very insidious and difficult to get rid of, the perfect host cell for an immortal blood-borne vampire pathogen. The other forms could give rise to different types of ghouls, zombies, and ghasts, all themed around the different white cells like neutrophils(soldier/WoD ghoul), basophils (ichor ghouls), eosinophils(miasma/poison gas ghasts), monocytes (munchy zombies) and lymphocytes (immortal vampires).
 > 
+> Perhaps there is a weaker lytic form of the vampire plague passed on through the bite that some of the blood cells excrete the healing factors for 30 days within human hosts. Red cells persist for up to 90-days and they don't have any nuclei so they'd just be a shell for the plague to hide in. 
+> 
+> Hmmm.. you could derive a whole undead mythology based on the perversion of different white cells. Neutrophils are short-lived suicide bombers, while memory B-cell lymphocytes last a lifetime. A lysogenic viral form that invades the B memory-cells would be very insidious and difficult to get rid of, the perfect host cell for an immortal blood-borne vampire pathogen. The other forms could give rise to different types of ghouls, zombies, and ghasts, all themed around the different white cells like neutrophils(soldier/WoD ghoul), basophils (ichor ghouls), eosinophils(miasma/poison gas ghasts), monocytes (munchy zombies) and lymphocytes (immortal vampires).
 
 ---
 

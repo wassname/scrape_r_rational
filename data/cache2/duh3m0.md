@@ -2,7 +2,7 @@
 
 * Author: u/RedSheepCole *
 * URL: https://www.reddit.com/r/rational/comments/duh3m0/pyrebound_95/
-* Score: 23
+* Score: 22
 
 * Created: 2019-11-10T20:43:07
 
@@ -16,26 +16,23 @@ If this whole thing is new to you, the story starts [here](https://pyrebound.wor
 
 ### Comments:
 
-> **u/Dent7777** [+5]  *House Atreides**
+> **u/Dent7777** [+4]  *House Atreides* (6 hours later)
 > 
 > Ram shows power, and depth. The Haranu shows rage, and chauvinism. Darun shows that she may be the smartest person in the story.
-> Another great chapter in what is trending towards an epic tale.
 > 
+> Another great chapter in what is trending towards an epic tale.
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (a day later)
 >> 
 >> Thanks!  I hadn't thought of Darun as smarter than the others, necessarily, but she does have a unique perspective on life, and it's very different from Ram's.
->> 
 
->>> **u/Dent7777** [+4]  *House Atreides**
+>>> **u/Dent7777** [+3]  *House Atreides* (a day later)
 >>> 
 >>> She might not be the most academically intelligent character, but she seems extremely street smart and socially intelligent. She sets her goals within reasonably achievable reach, she respects and courts power, and she is a survivor. If Ram is strong like bull, smart like tractor, Darun might be the perfect handler.
->>> 
 
->>>> **u/RedSheepCole** [+2] *
+>>>> **u/RedSheepCole** [+2]  (a day later)
 >>>> 
 >>>> I would balance that against her tendency to take drastic and impulsive action (like robbing a heavily armed client on a whim) and her general disinterest in thinking ahead.  She had more experience dealing with the elite of Dul Karagi than any of the other Damadzus--she was their sales agent, after all--but didn't even think that some of them might be indignant enough to retaliate after Ram's disrespect at the meeting.  I think her experiences have led her to a way of life--audacious, adaptive, and improvisational--that works for her more often than it doesn't, and can usually be salvaged in the latter case, but comes with significant costs.  Certainly her perspective balances Ram's.
->>>> 
 
 ---
 

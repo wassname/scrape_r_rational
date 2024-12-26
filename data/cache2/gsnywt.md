@@ -2,7 +2,7 @@
 
 * Author: u/erwgv3g34 *
 * URL: http://web.archive.org/web/20121228191759/http://squid314.livejournal.com/336195.html
-* Score: 98
+* Score: 99
 
 * Created: 2020-05-29T07:05:49
 
@@ -12,38 +12,34 @@
 
 ### Comments:
 
-> **u/Vampyricon** [+20] *
+> **u/Vampyricon** [+21]  (27 minutes later)
 > 
 > The only thing I can think of right now is the "Come on, do something" meme.
-> 
 
-> **u/Luminous_Lead** [+7] *
+> **u/Luminous_Lead** [+7]  (a day later)
 > 
 > Having a web archive is amazing.
-> 
 
-> **u/wren42** [+3] *
+> **u/wren42** [+3]  (3 days later)
 > 
 > Interesting, did this predate the hpmor time travel self-prank chapter then? 
-> I could see this as a great model for an hpmor fan canon, that all the prophesies which lead to Harry's ascension were actually brought about by his future self after cracking magic 😂
 > 
+> I could see this as a great model for an hpmor fan canon, that all the prophesies which lead to Harry's ascension were actually brought about by his future self after cracking magic 😂
 
->> **u/TheKingleMingle** [+1] *
+>> **u/TheKingleMingle** [+1]  (4 days later)
 >> 
 >> >I could see this as a great model for an hpmor fan canon, that all the prophesies which lead to Harry's ascension were actually brought about by his future self after cracking magic 😂
+>> 
 >> Didn't Harry Potter and the cryptographic key do this? 
 >> https://m.fanfiction.net/s/10755550/1/
->> 
 
->>> **u/wren42** [+1] *
+>>> **u/wren42** [+1]  (4 days later)
 >>> 
 >>> never read it, interesting
->>> 
 
-> **u/BeardedJo** [+2] *
+> **u/BeardedJo** [+3]  (5 hours later)
 > 
 > That first comment was accurate.
-> 
 
 ---
 

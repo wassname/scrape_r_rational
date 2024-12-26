@@ -12,66 +12,61 @@ I vaguely remember at least one rational/ist Star Trek TOS fanfic that had Spock
 
 ### Comments:
 
-> **u/honoredb** [+26] *
+> **u/honoredb** [+26]  (33 minutes later)
 > 
 > You might be remembering the little vignette in the comments [here](http://www.leftoversoup.com/archive.php?num=201) (not sure if this actually the original source but Google thinks it is), where the Kirk-like character challenges the Spock-like character to justify the ridiculously precise probability of survival he just gave, and argues with his assumptions.
-> &#x200B;
-> I do wonder if and how you could sustain a whole story with a character who has this superpower (and is listened to) without it just turning into a colorful decision theory textbook. Not that there's anything wrong with colorful decision theory textbooks.
 > 
+> &#x200B;
+> 
+> I do wonder if and how you could sustain a whole story with a character who has this superpower (and is listened to) without it just turning into a colorful decision theory textbook. Not that there's anything wrong with colorful decision theory textbooks.
 
->> **u/sixfourch** [+4] *
+>> **u/sixfourch** [+5]  (2 hours later)
 >> 
 >> Just write the decision theory textbook.
->> 
 
->> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (6 hours later)
 >> 
 >> I'm pretty sure that for the majority of those ships he doesn't have four digits of accuracy for their stats at the time they went into the nebula, as opposed to their capabilities out of the shipyard or even the most recent recorded audit.
->> Also, if there have been THAT many ships (Starfleet or otherwise) encountering such a nebula, without there being a Starfleet regulation specifically covering them, there's something fundamentally wrong with Starfleet.
->> And he only quoted 3 digits for the plot-armor factor.
->> So I'm calling shenanigans.
 >> 
+>> Also, if there have been THAT many ships (Starfleet or otherwise) encountering such a nebula, without there being a Starfleet regulation specifically covering them, there's something fundamentally wrong with Starfleet.
+>> 
+>> And he only quoted 3 digits for the plot-armor factor.
+>> 
+>> So I'm calling shenanigans.
 
->> **u/cysghost** [+2]  *Chaos Legion**
+>> **u/cysghost** [+2]  *Chaos Legion* (38 minutes later)
 >> 
 >> That was great!
->> 
 
->> **u/erwgv3g34** [+1] *
+>> **u/erwgv3g34** [+1]  (9 days later)
 >> 
 >> Reminds me of ["Alternate Parallels: Star Trek: The Original Sequences"](https://archiveofourown.org/works/929801).
->> 
 
-> **u/None** [+6] *
+> **u/None** [+7]  (10 hours later)
 > 
 > [removed]
-> 
 
->> **u/DuplexFields** [+2]  *New Lunar Republic**
+>> **u/DuplexFields** [+2]  *New Lunar Republic* (17 hours later)
 >> 
 >> Delightful!
->> 
 
-> **u/Slinkinator** [+1] *
+> **u/Slinkinator** [+1]  (6 days later)
 > 
 > This might be a HPMOR Omake, or it could be that story with like, every fun fictional character transcending simulations together until they hit a god layer.  It has Spock and Vimes and Mr Rogers in it, and it's tied into that book Yudkowsky likes, about Dust Theory or something?  Sounds like Chasm City?
-> 
 
->> **u/CronoDAS** [+2] *
+>> **u/CronoDAS** [+2]  (18 days later)
 >> 
 >> The book you're thinking of is Permutation City by Greg Egan.
->> 
 
->>> **u/Slinkinator** [+1] *
+>>> **u/Slinkinator** [+1]  (18 days later)
 >>> 
 >>> Bam, now I remember what it was called
->>> https://m.fanfiction.net/s/5389450/1/The_Finale_of_the_Ultimate_Meta_Mega_Crossover
 >>> 
+>>> https://m.fanfiction.net/s/5389450/1/The_Finale_of_the_Ultimate_Meta_Mega_Crossover
 
->> **u/Slinkinator** [+1] *
+>> **u/Slinkinator** [+1]  (6 days later)
 >> 
 >> though yeah it looks like honoredb's link.
->> 
 
 ---
 

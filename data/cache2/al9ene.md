@@ -2,7 +2,7 @@
 
 * Author: u/I_Hump_Rainbowz *
 * URL: https://www.reddit.com/r/rational/comments/al9ene/what_is_the_true_definition_of_the_genre/
-* Score: 5
+* Score: 3
 
 * Created: 2019-01-30T05:19:40
 
@@ -27,156 +27,182 @@ So what is the true definition of the genre 'Self-Insert'? Did I get all of the 
 
 ### Comments:
 
-> **u/Anakiri** [+26] *
+> **u/Anakiri** [+27]  (2 hours later)
 > 
 > "True"?
-> The term "self-insert" is used for all of those things. Your first definition is a special case of the second where the character is literally "inserted" into the story. Your third definition is a special case of the first where the inserted character has pre-existing knowledge of the setting.
-> My understanding is that your second definition is the original one, if it matters. If you use the term "self-insert" outside of fanfiction communities, then most people will believe that you are talking about a character who is not *literally* the author, but who nonetheless clearly *represents* the author. The term is often used condescendingly to refer to Mary Sue wish-fulfillment stuff also, because there is a fair amount of overlap between the concepts. But the character usually does at least have a different name. In this sense, "self-insert" isn't a genre, it's a writing criticism. Since this can often be open to interpretation, it isn't especially useful as a tag.
-> The story set-up of "Me, the actual author from the real world, physically transported into the story" is a much more niche thing. You're not likely to find much of this on dead trees, but it does make a decent launching point for unabashed fixfic and fixfic subversions, and it's popular enough that it needed a name. In this sense, the term "self-insert" *is* useful as a tag.
-> Any story can *have* a self-insert character, who is not literally the author. But a story explicitly tagged "self-insert" as a genre ought to be the portal fantasy one, where the main character almost always has extraordinary knowledge because they are the author and the author usually wouldn't be writing themselves into a setting they don't know. Any other usage would be poor communication, I think.
 > 
+> The term "self-insert" is used for all of those things. Your first definition is a special case of the second where the character is literally "inserted" into the story. Your third definition is a special case of the first where the inserted character has pre-existing knowledge of the setting.
+> 
+> My understanding is that your second definition is the original one, if it matters. If you use the term "self-insert" outside of fanfiction communities, then most people will believe that you are talking about a character who is not *literally* the author, but who nonetheless clearly *represents* the author. The term is often used condescendingly to refer to Mary Sue wish-fulfillment stuff also, because there is a fair amount of overlap between the concepts. But the character usually does at least have a different name. In this sense, "self-insert" isn't a genre, it's a writing criticism. Since this can often be open to interpretation, it isn't especially useful as a tag.
+> 
+> The story set-up of "Me, the actual author from the real world, physically transported into the story" is a much more niche thing. You're not likely to find much of this on dead trees, but it does make a decent launching point for unabashed fixfic and fixfic subversions, and it's popular enough that it needed a name. In this sense, the term "self-insert" *is* useful as a tag.
+> 
+> Any story can *have* a self-insert character, who is not literally the author. But a story explicitly tagged "self-insert" as a genre ought to be the portal fantasy one, where the main character almost always has extraordinary knowledge because they are the author and the author usually wouldn't be writing themselves into a setting they don't know. Any other usage would be poor communication, I think.
 
-> **u/MilesSand** [+4] *
+> **u/MilesSand** [+5]  (19 minutes later)
 > 
 > I wouldn't call SI a genre so much as a feature. Sort of like rationalism is a feature that can be part of a story in any genre. SI is simply a story where the author asks "what would I do in the MC's position.
-> Issekai elements are unnecessary. The MC doesn't have to have the author's actual life in their backstory. Omnipotence is similarly unnecessary. That's more likely in a wish fulfillment set up than a purely SI one.
 > 
+> Issekai elements are unnecessary. The MC doesn't have to have the author's actual life in their backstory. Omnipotence is similarly unnecessary. That's more likely in a wish fulfillment set up than a purely SI one.
 
->> **u/I_Hump_Rainbowz** [+1] *
+>> **u/I_Hump_Rainbowz** [+1]  (54 minutes later)
 >> 
 >> Ok you are going by the Second Definition. This is what I am talking about. 
->> Worth the Candle is a SI because the protagonist made the rules and settings for his DnD games and now is in said world. So Juniper has 'Almost-Omnipotence' and similarly he got portal-ed into this world.
->> With This Ring is about a person who has read bunches of DC comics and gets Portal-ed into the DC universe.
->> Umbras Shade is about a person who has read Harry Potter and gets Portal-ed into the Harry Potter universe.
->> This is also why I use 'Almost-Omnipotence' since they have knowledge they should not have.
 >> 
+>> Worth the Candle is a SI because the protagonist made the rules and settings for his DnD games and now is in said world. So Juniper has 'Almost-Omnipotence' and similarly he got portal-ed into this world.
+>> 
+>> With This Ring is about a person who has read bunches of DC comics and gets Portal-ed into the DC universe.
+>> 
+>> Umbras Shade is about a person who has read Harry Potter and gets Portal-ed into the Harry Potter universe.
+>> 
+>> This is also why I use 'Almost-Omnipotence' since they have knowledge they should not have.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (12 hours later)
 >>> 
 >>> A link to Umbras Shade? not sure if the title changed but I can only find Olim Umba.
->>> 
 
->>>> **u/I_Hump_Rainbowz** [+1] *
+>>>> **u/I_Hump_Rainbowz** [+1]  (19 hours later)
 >>>> 
 >>>> umbrus shade not umbras shade that might work
->>>> 
 
->>> **u/MilesSand** [+1] *
+>>> **u/MilesSand** [+1]  (a day later)
 >>> 
 >>> I just don't think the third definition is sufficient nor a necessary element of a sufficient definition for the feature.
->>> It's its own thing.
 >>> 
+>>> It's its own thing.
 
-> **u/RMcD94** [+4] *
+> **u/RMcD94** [+4]  (9 hours later)
 > 
 > The problem I have is describing stories where the author does self-inserts with other people.
-> That is instead of self-inserting into Stalin in 1912 they put Stalin from 1940 in Stalin in 1912. Calling it an ISOT may be accurate but these stories often share a lot of similarities with SI.
-> Another example is the story on AH.com of a guy waking up in Hitler's body, the guy isn't actually the author since he's written the insert to be a nazi but otherwise its clearly very similar.
-> What do you call these nonself-inserts? Other-inserts?
-> Insert as a genre is perhaps more broad.
 > 
+> That is instead of self-inserting into Stalin in 1912 they put Stalin from 1940 in Stalin in 1912. Calling it an ISOT may be accurate but these stories often share a lot of similarities with SI.
+> 
+> Another example is the story on AH.com of a guy waking up in Hitler's body, the guy isn't actually the author since he's written the insert to be a nazi but otherwise its clearly very similar.
+> 
+> What do you call these nonself-inserts? Other-inserts?
+> 
+> Insert as a genre is perhaps more broad.
 
->> **u/SeekingImmortality** [+1]  *The Eldest, Apparently**
+>> **u/SeekingImmortality** [+1]  *The Eldest, Apparently* (8 days later)
 >> 
 >> Putting a character with knowledge into their younger past self is a 'Peggy Sue', so named due to its first appearance as a trope in the movie 'Peggy Sue Got Married'.  There exists a whole separate host of fanfiction of peggy sue'ing characters into their younger selves, generally as 'fix-fic' allowing them to solve the issues that ignorance or lack of communication had previously thrown in their way.
->> 
 
->>> **u/RMcD94** [+1] *
+>>> **u/RMcD94** [+1]  (8 days later)
 >>> 
 >>> It's not always the same person sometimes it's Lenin into Stalin or Queen Elizabeth I I into Queen Elizabeth I
->>> 
 
-> **u/MrCogmor** [+5] *
+> **u/MrCogmor** [+5]  (6 hours later)
 > 
 > The second definition is the correct one. Self insert is a term for when an author inserts themselves into a story as a fictional character. That character is the self insert. Self insert fics are typically isekai but don't have to be. It is perfectly possible to write an SI fic where the self insert gets super powers, wins the lottery, meets the partner of their dreams, dates celebrities or whatever without getting summoned to another world.
-> &#x200B;
-> Your third definition is just a variant of isekai. There are plenty where the protagonist enters a world that just so happens to match up to a MMO or other media product that they know very well.
-> &#x200B;
-> Worth The Candle is an isekai but not an SI (Unless Joon resembles the author more than I think he does).
-> With This Ring is an SI and isekai.
+> 
 > &#x200B;
 > 
+> Your third definition is just a variant of isekai. There are plenty where the protagonist enters a world that just so happens to match up to a MMO or other media product that they know very well.
+> 
+> &#x200B;
+> 
+> Worth The Candle is an isekai but not an SI (Unless Joon resembles the author more than I think he does).
+> 
+> With This Ring is an SI and isekai.
+> 
+> &#x200B;
 
->> **u/MilesSand** [+3] *
+>> **u/MilesSand** [+3]  (a day later)
 >> 
 >> Wtc is tagged as SI by the author if that information is useful to you.
->> 
 
-> **u/GeneralExtension** [+3] *
+> **u/GeneralExtension** [+3]  (19 hours later)
 > 
 > Welcome to english, a language where a word may have any number of definitions.
-> (3 is fairly low, but there's at least that many again in the comments.)
 > 
+> (3 is fairly low, but there's at least that many again in the comments.)
 
-> **u/None** [+2] *
+> **u/None** [+2]  (3 days later)
 > 
 > Yeah, the second is most correct, except for the fact that people usually write about a somewhat idealised version of themselves instead of actually writing about themselves. I call this the "I choose as my best self." fallacy of SI fix.
-> The third definition is something I can't agree with. I'm writing a multiverse SI. In the first world, a God wipes my character's memories before she's born. In the next, her soul gets cut into three pieces, of which only one is aware of the setting. In the remainder, my character dies in the real world at around 147 years of age, and often can't remember much about the settings she finds herself in, because that sort of asymmetry makes it much easier to write a story where she doesn't repeatedly curbstomp the settings she finds herself in while keeping things rational.
 > 
+> The third definition is something I can't agree with. I'm writing a multiverse SI. In the first world, a God wipes my character's memories before she's born. In the next, her soul gets cut into three pieces, of which only one is aware of the setting. In the remainder, my character dies in the real world at around 147 years of age, and often can't remember much about the settings she finds herself in, because that sort of asymmetry makes it much easier to write a story where she doesn't repeatedly curbstomp the settings she finds herself in while keeping things rational.
 
-> **u/signspace13** [+1] *
+> **u/signspace13** [+1]  (an hour later)
 > 
 > I asked a similar question a while ago, though the original definition I was working from was kind of similar to your 3rd but not quite, I think a Self-insert story is one where the character or charcaters are either very bland or so broadly relatable as to help the reader project themselves into the story in a gratifying manner, this leads to stories in which the main character is powerful and in control, as those are the emotions that the author is trying to provoke, thus "self insert" the point of the story is for you to be able to *insert* your *self* into the position of the main character or viewpoint character and experience these things as if you could be doing them. Examples of this are Sword art online, Twilight, the Kingkiller chronicles, metaworld chronicles etc. It is a **very** broad definition, but I feel it fits it the best, something isn't bad for being a self insert fiction, it just means that the point of the story is to make you project onto the protagonist.
-> 
 
-> **u/narfanator** [+1] *
+> **u/narfanator** [+1]  (2 hours later)
 > 
 > The most effective of most literary definitions are based not on the content of the story, but the kind of person who seeks that story.
-> This is why Vonnegut is in Literature, not SF/Fant.
 > 
+> This is why Vonnegut is in Literature, not SF/Fant.
 
-> **u/crivtox** [+1]  *Closed Time Loop Enthusiast**
+> **u/crivtox** [+1]  *Closed Time Loop Enthusiast* (a day later)
 > 
 > What do you mean by "True" definition?.
-> 
 
-> **u/Asviloka** [+1] *
+> **u/Asviloka** [+1]  (a day later)
 > 
 > I don't think there is any possible 'true' definition. My definition is as follows, but it probably varies from person to person:
-> First-person, and from either the perspective of a fictionalized version of the writer themself or an OC from a world assumed to be roughly approximate to reality. It differs from isekai in that the fictional universe is generally understood to have existed as fiction in the SI's original universe.  (I'm uncertain if there is such a thing as a non-fanfic SI; I'm not sure what it would look like if it did.)
-> I'd differentiate this definition from your third, in that I've read several SIs whose knowledge of canon is incomplete or minimal and proceed to fumble along as a result. 
-> &#x200B;
 > 
+> First-person, and from either the perspective of a fictionalized version of the writer themself or an OC from a world assumed to be roughly approximate to reality. It differs from isekai in that the fictional universe is generally understood to have existed as fiction in the SI's original universe.  (I'm uncertain if there is such a thing as a non-fanfic SI; I'm not sure what it would look like if it did.)
+> 
+> I'd differentiate this definition from your third, in that I've read several SIs whose knowledge of canon is incomplete or minimal and proceed to fumble along as a result. 
+> 
+> &#x200B;
 
-> **u/turtleswamp** [+1] *
+> **u/turtleswamp** [+1]  (2 days later)
 > 
 > Self-insert is a character archetype not a genera.
-> &#x200B;
-> The correct definition (IMO) is when the author include a character that is either explicitly themself, or is based on themself. It's commonly used as a criticism as it suffers a bit from the same issues as a GMPC does in roleplaying games where a lot of authors who use self-insert characters don't keep a leash on their SI's power level resulting in a Mary Sue character. It's also not uncommon for an inexperienced author to over-use SI's.
-> &#x200B;
-> Another common but in my opinion incorrect usage is as a synonym for "every-(wo)man protagonist" (that tehre's another clearer term for it is why I oppose using SI for this) where the protagonist is intentionally described in vague terms to make it easy for the reader to "insert themself" into the story in the point of view of the protagonist.
-> &#x200B;
-> Your first and third definitions are examples of types of story that often include SI characters. But in both cases there's nothing intrinsic to them that requires an SI character, and both have otehr better terms for what they do (Portal fantasy, and genera-savvy/breaking the forth wall).
+> 
 > &#x200B;
 > 
+> The correct definition (IMO) is when the author include a character that is either explicitly themself, or is based on themself. It's commonly used as a criticism as it suffers a bit from the same issues as a GMPC does in roleplaying games where a lot of authors who use self-insert characters don't keep a leash on their SI's power level resulting in a Mary Sue character. It's also not uncommon for an inexperienced author to over-use SI's.
+> 
+> &#x200B;
+> 
+> Another common but in my opinion incorrect usage is as a synonym for "every-(wo)man protagonist" (that tehre's another clearer term for it is why I oppose using SI for this) where the protagonist is intentionally described in vague terms to make it easy for the reader to "insert themself" into the story in the point of view of the protagonist.
+> 
+> &#x200B;
+> 
+> Your first and third definitions are examples of types of story that often include SI characters. But in both cases there's nothing intrinsic to them that requires an SI character, and both have otehr better terms for what they do (Portal fantasy, and genera-savvy/breaking the forth wall).
+> 
+> &#x200B;
 
-> **u/Wereitas** [+1] *
+> **u/Wereitas** [+1]  (11 hours later)
 > 
 > Literary characters aren't people.  They're more decisive than people.  They don't have the same "ums" and "ahhs" and awkward pauses that normal humans have.  And they're often caught up in the dream-logic of their world.
-> I think a core part of the insert genre is that you're dropping a real-human into a world populated by literary-humans, and then playing with the contrast.
-> So, a biographical story isn't an insert story, even if I'm blatantly making up events.  First person horror stories "... and then we had no choice but to stay in the abandoned cabin..." aren't inserts either, as story-me is just as stylized as all the other characters in the piece.
-> But you could write a Star Trek fiction where the original character is uniquely genre-savvy, and I'd consider it an insert, even if the character was nominally from the setting.
-> With the Ring is a fairly central example of an insert.  But Worth the Candle is a little weird in that Juniper's knowledge is deeply tied to the dream logic of the world.
 > 
+> I think a core part of the insert genre is that you're dropping a real-human into a world populated by literary-humans, and then playing with the contrast.
+> 
+> So, a biographical story isn't an insert story, even if I'm blatantly making up events.  First person horror stories "... and then we had no choice but to stay in the abandoned cabin..." aren't inserts either, as story-me is just as stylized as all the other characters in the piece.
+> 
+> But you could write a Star Trek fiction where the original character is uniquely genre-savvy, and I'd consider it an insert, even if the character was nominally from the setting.
+> 
+> With the Ring is a fairly central example of an insert.  But Worth the Candle is a little weird in that Juniper's knowledge is deeply tied to the dream logic of the world.
 
->> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (5 days later)
 >> 
 >> Ums and ahs are a sign of insufficient communication skills on the part of the character or of the character not knowing exactly what they want to say, and that can be very good to depict in a story.  
-
+>> 
 >> Also, how much rational fic have you read? More psychologically realistic characters are also more relatable.  
-
+>> 
 >> As I've told people time and time again, in order for a self insert to be well-written and dynamic the self insert needs to diverge from the author over the course of the story. Or in other words, well-written self inserts don't \*stay\* self inserts.
+>> 
 >> &#x200B;
+>> 
 >> When writing a self-insert properly, you need to ask  
 >> 1. What is your self insert experiencing first hand which you are not?
->> &#x200B;
->> 2. How does your self insert react to these experiences and change as a result? Or in other words, how would the self insert's first hand experiences change \*YOU\* if you were the one having those experiences first hand?
->> &#x200B;
->> 3. Taking these changes into account, how would the modified self-insert character react to the next situation they find themselves in? 
->> &#x200B;
->> Basically you're using your imagination to simulate an alternate life trajectory and personal development for yourself.
->> The reason most self inserts are poorly written mary sues is that their authors lack the self awareness to recognize their own flaws and the limits of their own perspective and experiences. Putting yourself into the role of a character in a story requires being able to step outside of your own perspective and look at yourself and your interactions with other characters and the setting from the outside. Most people can't do that.
 >> 
+>> &#x200B;
+>> 
+>> 2. How does your self insert react to these experiences and change as a result? Or in other words, how would the self insert's first hand experiences change \*YOU\* if you were the one having those experiences first hand?
+>> 
+>> &#x200B;
+>> 
+>> 3. Taking these changes into account, how would the modified self-insert character react to the next situation they find themselves in? 
+>> 
+>> &#x200B;
+>> 
+>> Basically you're using your imagination to simulate an alternate life trajectory and personal development for yourself.
+>> 
+>> The reason most self inserts are poorly written mary sues is that their authors lack the self awareness to recognize their own flaws and the limits of their own perspective and experiences. Putting yourself into the role of a character in a story requires being able to step outside of your own perspective and look at yourself and your interactions with other characters and the setting from the outside. Most people can't do that.
 
 ---
 

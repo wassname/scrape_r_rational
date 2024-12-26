@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/kemz10/wip_wise_blood_part_six_shadow_of_the_grey_king/
-* Score: 5
+* Score: 6
 
 * Created: 2020-12-17T01:23:16
 

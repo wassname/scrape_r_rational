@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/58ooqw/rtff_marked_for_death_ch_77_tangled_lies_and/
-* Score: 11
+* Score: 12
 
 * Created: 2016-10-21T18:10:35
 
@@ -24,15 +24,13 @@ The first chapter is [here.](https://forums.sufficientvelocity.com/threads/marke
 
 ### Comments:
 
-> **u/oliwhail** [+5]  *Omake-Maximizing AGI**
+> **u/oliwhail** [+6]  *Omake-Maximizing AGI* (27 minutes later)
 > 
 > There is also a [Discord channel](https://discord.gg/myxbZB8) specifically aimed at MfD! (Thanks for the reminder u/Cariyaga)
-> 
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+5]  (5 minutes later)
 > 
 > Thanks for doing this, /u/oliwhail.  Also, I offer kudos to /u/Velorien for his usual high-quality delivery.
-> 
 
 ---
 

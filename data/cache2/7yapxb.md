@@ -2,7 +2,7 @@
 
 * Author: u/daytodave  *an altruistic conversion of calories to hedons**
 * URL: https://www.reddit.com/r/rational/comments/7yapxb/discussion_ff_spoilers_all_canon_animorphs_and/
-* Score: 24
+* Score: 25
 
 * Created: 2018-02-18T00:27:02
 
@@ -68,152 +68,158 @@ I apologize for how disorganized this is, but I have a bad habit of nit-picking 
 
 ### Comments:
 
-> **u/LieGroupE8** [+11]  ***
+> **u/LieGroupE8** [+11]  ** (2 hours later)
 > 
 > I share your enthusiasm! If you haven't already, there is some pretty good hypothesizing on the reddit threads for previous r!Animorphs chapters. Sometimes TK17 himself provides answers. But many of the points you just raised have not yet been answered, I think.
+> 
 > > I notice I am confused: When you're in morph your mind in running on the simulator, your real body is in stasis in Z-space, and the construct body is just a receiver, right? So you shouldn't need the construct to demorph, confirmed by Interlude 4. You should be able to demorph even if the construct body is unconscious, dead, or controlled by a Yeerk.
 > >
 > > Why couldn't Cassie just wait till after the meteor hit to emerge from Z-Space? Would the whole area be so actively on fire an hour after impact that she couldn't survive the ~3 minutes to get into morph again and wait for things to cool down?
-> This always confused me too. We know that you can demorph without a construct body: that's what happened when the Ellimist (or whoever) rescued the Animorphs from the meteor. The Ellimist did not want to move their morph bodies, so it moved the emulation-construct gates and they demorphed without construct bodies. We also know that you can remain conscious without being linked to your construct body, which is what I think happened when Garrett and Ax were inside Rachel's morph.
-> What I think is going on is that the morphing technology naturally tries to replicate the experiences of your construct body as realistically as possible. So if your construct goes unconscious or dies, your emulated mind goes unconscious for realism. However, if there is an artificial intervention that does not tamper directly with the construct, then this is averted and you can remain conscious.
-> I also think that Cassie was close enough to the impact zone that even if she had remained conscious, she would have demorphed into molten lava and fiery debris raining from the sky. Or perhaps whatever technology links the construct with the mind emulation was directly destroyed by the blast.
-> (As a side note, the one glaring continuity error that I've noticed is that when Cassie is returns to the real world from the Ellimist's vision in chapter 18, Jake and Marco are gone, even though we know the Ellimist didn't move the construct bodies. Their Hork-Bajir bodies should just be lifeless on the ground. Unless either 1. the bodies were moved after all, 2. the Ellimist interfered with Cassie's perception to show her what she expected to see even after the vision, 3. something else is going on, or 4. TK17 made a mistake.)
 > 
+> This always confused me too. We know that you can demorph without a construct body: that's what happened when the Ellimist (or whoever) rescued the Animorphs from the meteor. The Ellimist did not want to move their morph bodies, so it moved the emulation-construct gates and they demorphed without construct bodies. We also know that you can remain conscious without being linked to your construct body, which is what I think happened when Garrett and Ax were inside Rachel's morph.
+> 
+> What I think is going on is that the morphing technology naturally tries to replicate the experiences of your construct body as realistically as possible. So if your construct goes unconscious or dies, your emulated mind goes unconscious for realism. However, if there is an artificial intervention that does not tamper directly with the construct, then this is averted and you can remain conscious.
+> 
+> I also think that Cassie was close enough to the impact zone that even if she had remained conscious, she would have demorphed into molten lava and fiery debris raining from the sky. Or perhaps whatever technology links the construct with the mind emulation was directly destroyed by the blast.
+> 
+> (As a side note, the one glaring continuity error that I've noticed is that when Cassie is returns to the real world from the Ellimist's vision in chapter 18, Jake and Marco are gone, even though we know the Ellimist didn't move the construct bodies. Their Hork-Bajir bodies should just be lifeless on the ground. Unless either 1. the bodies were moved after all, 2. the Ellimist interfered with Cassie's perception to show her what she expected to see even after the vision, 3. something else is going on, or 4. TK17 made a mistake.)
 
->> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning**
+>> **u/TK17Studios** [+3]  *Author of r!Animorphs: The Reckoning* (5 days later)
 >> 
 >> > Or perhaps whatever technology links the construct with the mind emulation was directly destroyed by the blast.
->> This.  There's a small amount of nanotech that handles the "gating" of your body's material into and out of Z-space.  If you shoot the morphed body in the head, most of the tiny machines are going to be unaffected, and they'll still be able to handle pulling the matter back out of the pocket dimension and putting it back where it belongs.  But if you are a few meters away from where an asteroid hits at like 30,000 mph, that tech is Not Going To Be Okay.  Even nanites can be destroyed by heat equivalent to the inside of a thermonuclear explosion.
->> There's a hint in there about your (side note) which I won't spell out explicitly unless you ask me to.
 >> 
+>> This.  There's a small amount of nanotech that handles the "gating" of your body's material into and out of Z-space.  If you shoot the morphed body in the head, most of the tiny machines are going to be unaffected, and they'll still be able to handle pulling the matter back out of the pocket dimension and putting it back where it belongs.  But if you are a few meters away from where an asteroid hits at like 30,000 mph, that tech is Not Going To Be Okay.  Even nanites can be destroyed by heat equivalent to the inside of a thermonuclear explosion.
+>> 
+>> There's a hint in there about your (side note) which I won't spell out explicitly unless you ask me to.
 
->>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (9 days later)
 >>> 
 >>> The most efficient move there would be to only teleport the nanites, and either pop the construct bodies back into z-space, or delete them from Cassie's simulated environment so she doesn't waste time stopping to check on them.
->>> That implies that it's pretty efficient in game resources to teleport the gate of anyone in morph. With the debt incurred by moving Peter, Tom, and Ax, the opposing god should be able to move any of the thousands of morph-capable humans now running around pretty much arbitrarily, no?
 >>> 
+>>> That implies that it's pretty efficient in game resources to teleport the gate of anyone in morph. With the debt incurred by moving Peter, Tom, and Ax, the opposing god should be able to move any of the thousands of morph-capable humans now running around pretty much arbitrarily, no?
 
->>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning**
+>>>> **u/TK17Studios** [+2]  *Author of r!Animorphs: The Reckoning* (9 days later)
 >>>> 
 >>>> [](#s "=)")
->>>> 
 
->>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons**
+>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons* (6 years later)
 >>>>> 
 >>>>> What was this comment??
->>>>> 
 
-> **u/tjhance** [+6] *
+> **u/tjhance** [+5]  (6 hours later)
 > 
 > I'll take this opportunity to ask a question I had recently --
-> In chapter 43 we learn that "There never was any chance the Andalites could blow up the planet". Is it supposed to be clear why this is, at this point? I thought that the ability to blow up a planet was supposed to be pretty easy.
 > 
+> In chapter 43 we learn that "There never was any chance the Andalites could blow up the planet". Is it supposed to be clear why this is, at this point? I thought that the ability to blow up a planet was supposed to be pretty easy.
 
->> **u/Silver_Swift** [+5] *
+>> **u/Silver_Swift** [+5]  (6 hours later)
 >> 
 >> Earth is trapped in some kind of weird time bubble that you can only enter through one particular path. The andalites don't know about this, so their ramship will never reach earth.
->> 
 
->>> **u/CapnQwerty** [+2] *
+>>> **u/CapnQwerty** [+2]  (17 hours later)
 >>> 
 >>> Well, no, it will, it'll just take way longer than they expect. Remember, the rest of the Yeerk invasion fleet got caught in this thing too, and V3 talks about them being slowed by months, not stuck indefinitely (if I'm remembering correctly).
->>> 
 
->>>> **u/Silver_Swift** [+1] *
+>>>> **u/Silver_Swift** [+1]  (a day later)
 >>>> 
 >>>> Right, yes, fair point. In that case I don't know either, maybe the time bubble will knock the ramship off course or something?
->>>> 
 
->>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons**
+>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons* (a day later)
 >>>>> 
 >>>>> I'm guessing it's because the gods want the events on Earth to play out. They're not going to allow the Andalites to interfere until this little corner of their chess game has been decided.
->>>>> 
 
-> **u/Frommerman** [+4] *
+> **u/Frommerman** [+5]  (16 hours later)
 > 
 > Something I just noticed, but who made the time bubble around Earth? We see from E&C that their game usually involves making tiny moves calculated to have big effects down the line. The prophecy came to the Andalites because a piece of toast was burned in a specific pattern, which precipitated all of the events thus far. The abstruse line about an alien speaking and a star exploding a little hotter for Rachel to be born is tiny for the effect of creating an entire person not included in at least one of the Gods' plans. We know that whoever teleported the kids out of the meteor strike really just changed where they should have come out of morph, and didn't stop time so much as insert a memory into people stored on a computer he has direct physical access to.
-> How the hell, then, does the creation of a sphere of accelerated time that encompasses an entire solar system square with any of this? That's not a small move. E or C had to cheat to even appear to be stopping time in a tiny area, much less accelerate time sufficiently to block FTL transport. By the rules of the game we have seen thus far, this shield might be big enough to straight lose the game for the player which did it by giving the other a massive amount of leeway to carry out their usual small tricks.
-> This suggests one or more of the following:
-> 1. There are rules we do not know. This is already a given, but it'd have to be a pretty big rule to counteract all of our observations thus far.
-> 2. Slowing (but not stopping) time requires near-zero effort somehow.
-> 3. All of Earth is being simulated. This would be lame storytelling, so there'd have to be something insanely epic to go along to make up for that.
-> 4. Visser 3's sensors are being tricked. This has the advantage of requiring a small amount of effort, but that effort would be over a sustained period. Furthermore, they would have to do something about everyone else's sensors as well.
-> 5. Visser 3 himself is being modified by E or C to make him think there is a bubble. If that were the case he's about to find out about the deception when he never morphs again. Would also require that someone do something about the rest of the Yeerks' sensors, who can't be manipulated this way.
-> 6. It's a joint effort by E & C. We don't know the rules, but I would suspect that the players working together is allowed just by the general texture of the gameplay we've seen. If that is the case, the tiny pathway could be one or the other defecting, or it could play into both of their plans.
-> 7. It's the work of a *third* actor who isn't beholden to the same rules. The only such actor we know of is the game engine, and it's very unclear whether it is allowed to take actions like this.
-> 8. Catch-all for things I don't know or didn't imagine.
-> Of these, only 1, 6, and 8 seem particularly plausible. Those all have the disadvantage of raising far more questions than they answer, so they aren't very helpful.
 > 
+> How the hell, then, does the creation of a sphere of accelerated time that encompasses an entire solar system square with any of this? That's not a small move. E or C had to cheat to even appear to be stopping time in a tiny area, much less accelerate time sufficiently to block FTL transport. By the rules of the game we have seen thus far, this shield might be big enough to straight lose the game for the player which did it by giving the other a massive amount of leeway to carry out their usual small tricks.
+> 
+> This suggests one or more of the following:
+> 
+> 1. There are rules we do not know. This is already a given, but it'd have to be a pretty big rule to counteract all of our observations thus far.
+> 
+> 2. Slowing (but not stopping) time requires near-zero effort somehow.
+> 
+> 3. All of Earth is being simulated. This would be lame storytelling, so there'd have to be something insanely epic to go along to make up for that.
+> 
+> 4. Visser 3's sensors are being tricked. This has the advantage of requiring a small amount of effort, but that effort would be over a sustained period. Furthermore, they would have to do something about everyone else's sensors as well.
+> 
+> 5. Visser 3 himself is being modified by E or C to make him think there is a bubble. If that were the case he's about to find out about the deception when he never morphs again. Would also require that someone do something about the rest of the Yeerks' sensors, who can't be manipulated this way.
+> 
+> 6. It's a joint effort by E & C. We don't know the rules, but I would suspect that the players working together is allowed just by the general texture of the gameplay we've seen. If that is the case, the tiny pathway could be one or the other defecting, or it could play into both of their plans.
+> 
+> 7. It's the work of a *third* actor who isn't beholden to the same rules. The only such actor we know of is the game engine, and it's very unclear whether it is allowed to take actions like this.
+> 
+> 8. Catch-all for things I don't know or didn't imagine.
+> 
+> Of these, only 1, 6, and 8 seem particularly plausible. Those all have the disadvantage of raising far more questions than they answer, so they aren't very helpful.
 
->> **u/redstonerodent** [+2]  *High Council of Gallifrey**
+>> **u/redstonerodent** [+2]  *High Council of Gallifrey* (16 hours later)
 >> 
 >> The sphere is the only reason Serenity can detect locations, so they can't just be messing with Visser 3's sensors.
->> 
 
->>> **u/Frommerman** [+1] *
+>>> **u/Frommerman** [+1]  (16 hours later)
 >>> 
 >>> Hmm, true.
->>> 
 
->> **u/infomaton** [+2] *
+>> **u/infomaton** [+2]  (a day later)
 >> 
 >> 6 makes sense to me. I think Visser even considers it during the chapter when he's thinking about possible explanations.
->> 
 
->> **u/LucidityWaver** [+1] *
+>> **u/LucidityWaver** [+1]  (a day later)
 >> 
 >> I, like /u/infomaton, think it would be #6.
 >> The game may be galactic or universal in scale, but Earth, and the Sol system is an agreed upon stage. The agreement includes general isolation and Crayak and Ellimist both have bargained for ways to use it to their own benefit (e.g the pathway and Serenity).
->> 
 
->>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (a day later)
 >>> 
 >>> Agree that this is the only thing that makes sense based on what we know. Also,
->>> >The creature smiled, the sparks of light in its deep, black eyes glittering like the inside of a geode. “Yes, Jake Berenson. One of us is wrong, and only time will tell which. I have my own opinions, of course, which I’ll keep private. But in the meantime—it’s my turn, and events have conspired to give me unusual freedom of movement.”
->>> My guess is handing the bridge to Visser 3 was Crayak's counter move to the Ellimist saving the kids from the pool, and glitching Marco's memory of the David morph was C's counter move to E *telling them about it* via the frozen time vision, which had the side effect of saving the Chee.
 >>> 
+>>> >The creature smiled, the sparks of light in its deep, black eyes glittering like the inside of a geode. “Yes, Jake Berenson. One of us is wrong, and only time will tell which. I have my own opinions, of course, which I’ll keep private. But in the meantime—it’s my turn, and events have conspired to give me unusual freedom of movement.”
+>>> 
+>>> My guess is handing the bridge to Visser 3 was Crayak's counter move to the Ellimist saving the kids from the pool, and glitching Marco's memory of the David morph was C's counter move to E *telling them about it* via the frozen time vision, which had the side effect of saving the Chee.
 
->>>> **u/tjhance** [+1] *
+>>>> **u/tjhance** [+1]  (4 days later)
 >>>> 
 >>>> I wonder if Ellimist messing with their memories even counts as his "turn"?
->>>> He says that "events have conspired to give me unusual freedom of movement" and this could mean that when Seerow used Ellimist's computer to make the morphing tech, it gave Ellimist a huuuuge unfair--but valid--advantage.
->>>> So maybe Ellimist actually just has lots of freedom to act now within the rules of the game just by messing with his own computer?
 >>>> 
+>>>> He says that "events have conspired to give me unusual freedom of movement" and this could mean that when Seerow used Ellimist's computer to make the morphing tech, it gave Ellimist a huuuuge unfair--but valid--advantage.
+>>>> 
+>>>> So maybe Ellimist actually just has lots of freedom to act now within the rules of the game just by messing with his own computer?
 
->>>>> **u/earnestadmission** [+1]  *Singular "they" user**
+>>>>> **u/earnestadmission** [+1]  *Singular "they" user* (4 days later)
 >>>>> 
 >>>>> I don't remember when morphing was revealed as Ellimist* tech
->>>>> *Or Cryak tech
 >>>>> 
+>>>>> *Or Cryak tech
 
->>>>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>>>>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (4 days later)
 >>>>>> 
 >>>>>> Chapter 43, when Marco through Visser 3 realizes that an Andalite could never have invented the morphing computer, and the Ellimist/Crayak *must* have been using computer simulations of their consciousnesses to appear to stop time.
->>>>>> 
 
->>>>>>> **u/earnestadmission** [+1]  *Singular "they" user**
+>>>>>>> **u/earnestadmission** [+1]  *Singular "they" user* (4 days later)
 >>>>>>> 
 >>>>>>> thanks!
->>>>>>> I really like your interpretation-- it didn't occur to me that !Ellimist could have access to the simulation while !Cryak does not. (Or even just asymmetric access between the two players)
 >>>>>>> 
+>>>>>>> I really like your interpretation-- it didn't occur to me that !Ellimist could have access to the simulation while !Cryak does not. (Or even just asymmetric access between the two players)
 
->>>>>>>> **u/tjhance** [+1] *
+>>>>>>>> **u/tjhance** [+1]  (4 days later)
 >>>>>>>> 
 >>>>>>>> Actually now that I think about it more, it seems like if what I said is true, it would be way too overpowered for the Ellimist and he would just insta-win probably. So they probably do have some rules for how often they can screw with people's memories.
->>>>>>>> I guess. Who knows?
 >>>>>>>> 
+>>>>>>>> I guess. Who knows?
 
->>>>>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons**
+>>>>>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons* (6 days later)
 >>>>>>>>> 
 >>>>>>>>> It could be that Crayak spent all of his z-space manipulation credits for this turn on handing the bridge to Visser 3, while the Ellimist is spending them in smaller chunks to tweak the morphing simulations.
->>>>>>>>> But actually, the pro-Visser 3 god has made at least one big move on the morphing computer: sabotaging Marco's morph-check, to get David into the group.
 >>>>>>>>> 
+>>>>>>>>> But actually, the pro-Visser 3 god has made at least one big move on the morphing computer: sabotaging Marco's morph-check, to get David into the group.
 
->> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons* (4 days later)
 >> 
 >> A #8:
->> This *is* the result of one of them making tiny moves calculated to have big effects down the line. A star burns a tenth of a degree hotter, one extra atom is tripped over its fusion point and emits a particle, that particle disrupts the quantum z-space interface, and ten billion years later a timewave 4-D spherical in shape and 1day:6month in intensity flows around the z-space area corresponding to earth's star's orbit.
 >> 
+>> This *is* the result of one of them making tiny moves calculated to have big effects down the line. A star burns a tenth of a degree hotter, one extra atom is tripped over its fusion point and emits a particle, that particle disrupts the quantum z-space interface, and ten billion years later a timewave 4-D spherical in shape and 1day:6month in intensity flows around the z-space area corresponding to earth's star's orbit.
 
 ---
 

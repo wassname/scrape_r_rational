@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/6rad8g/challenge_companion_eschaton/
-* Score: 12
+* Score: 10
 
 * Created: 2017-08-03T05:58:49
 
@@ -20,16 +20,15 @@ The point of this prompt is more a matter of showing a "final fate" of the world
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (a day later)
 > 
 > Hey, I have a question about the biweekly challenge in general, and thought I'd ask here. Is it allowed to enter multiple stories separately for a single challenge? Metafiction is kind of my jam, and I've already got two separate ideas which I'd both like to enter.
-> Pedantic note: It's immanentize, not immanetize. You made me re-check my already uploaded story :)
 > 
+> Pedantic note: It's immanentize, not immanetize. You made me re-check my already uploaded story :)
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >> 
 >> Yes, you can enter two (or more) stories, it's just that people usually don't. (Also, typo corrected, thanks.)
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AHatfulOfBomb *
 * URL: https://thoushaltserial.wordpress.com/
-* Score: 16
+* Score: 14
 
 * Created: 2019-02-14T16:10:17
 
@@ -12,56 +12,53 @@
 
 ### Comments:
 
-> **u/zombieking26** [+10] *
+> **u/zombieking26** [+10]  (45 minutes later)
 > 
 > I really loved the worldbuilding in regards to how the different species act, as well as their naming conventions. The orc Learn in paticular actually seems like a different species and not a human with an orc hat.
-> 
 
-> **u/RynnisOne** [+8] *
+> **u/RynnisOne** [+7]  (8 hours later)
 > 
 > Huh.... What is this?  A politically correct Orc?
-> He got rather upset at the Dwarf saying "your people" and made a big deal out of it, but the Dwarf was clearly saying he had no experience with orcs, which are *in fact* Learn's people.  He may be timid as far as Orcs are concerned, but for everyone else, he would still appear to have a hair trigger.
-> Anyway, the combat was well described, at least on the tactical level, but what I really like are that the races seem to be very different in theme and outlook.  Normally Orcs are portrayed as grey or green skinned humans with a bit more muscles and some bad hygiene, not hyper-focused warriors who can wield armored foes as improvised weapons (well, except maybe Nobs and such in 40K).  The complete absence of fighters amongst these craft-focused Dwarves is an interesting take as well, even moreso that their crafts aren't just metal and stoneworking.  Honestly, I rather like this breath of fresh air into what would otherwise be stale fantasy tropes.
 > 
+> He got rather upset at the Dwarf saying "your people" and made a big deal out of it, but the Dwarf was clearly saying he had no experience with orcs, which are *in fact* Learn's people.  He may be timid as far as Orcs are concerned, but for everyone else, he would still appear to have a hair trigger.
+> 
+> Anyway, the combat was well described, at least on the tactical level, but what I really like are that the races seem to be very different in theme and outlook.  Normally Orcs are portrayed as grey or green skinned humans with a bit more muscles and some bad hygiene, not hyper-focused warriors who can wield armored foes as improvised weapons (well, except maybe Nobs and such in 40K).  The complete absence of fighters amongst these craft-focused Dwarves is an interesting take as well, even moreso that their crafts aren't just metal and stoneworking.  Honestly, I rather like this breath of fresh air into what would otherwise be stale fantasy tropes.
 
-> **u/Nimelennar** [+6] *
+> **u/Nimelennar** [+5]  (3 hours later)
 > 
 > I like the world building and the characters so far.
-> I had some trouble with the battle scene in Chapter 2; I wasn't able to get a good picture of the layout of the camp, how it was being attacked, how it was being defended, Learn and Celeste's part in the defense, and above all the overall progress in defeating the bandits.
-> I look forward to reading more of this!
 > 
+> I had some trouble with the battle scene in Chapter 2; I wasn't able to get a good picture of the layout of the camp, how it was being attacked, how it was being defended, Learn and Celeste's part in the defense, and above all the overall progress in defeating the bandits.
+> 
+> I look forward to reading more of this!
 
->> **u/Dufaer** [+5] *
+>> **u/Dufaer** [+6]  (20 hours later)
 >> 
 >> [Here](https://www.youtube.com/watch?v=V9cdgE6FjRs&t=22m10s) is a video of Brandon Sanderson where he explains quite precisely how to create engaging, non-confusing fight scenes.
->> That might be a good resource for you, if you want to improve that aspect, /u/AHatfulOfBomb.
 >> 
+>> That might be a good resource for you, if you want to improve that aspect, /u/AHatfulOfBomb.
 
-> **u/Kachajal** [+4] *
+> **u/Kachajal** [+5]  (4 hours later)
 > 
 > I really liked this so far, I was disappointed to have it end so soon.
-> Your prose is fairly clear and crisp, giving a decent mental picture without wasting words. I quite enjoyed it.
 > 
+> Your prose is fairly clear and crisp, giving a decent mental picture without wasting words. I quite enjoyed it.
 
-> **u/AHatfulOfBomb** [+2] *
+> **u/AHatfulOfBomb** [+2]  (a minute later)
 > 
 > I'm working on a new HF serial story. It'll update once a week on Tuesdays, and I figured it'd fit into this subreddit.
-> 
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (a day later)
 > 
 > This is pretty good. I look forward to more stuff.
-> 
 
-> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity* (a day later)
 > 
 > This looks really cool! Seems like you have some very cool world building underlying all this. Looking forwards to future updates!
-> 
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (4 days later)
 > 
 > A solid premise, I look forward to seeing which direction you'll go with it.
-> 
 
 ---
 

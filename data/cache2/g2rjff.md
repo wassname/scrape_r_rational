@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/g2rjff/secret_of_the_patronus_chapters_5052_the_angst/
-* Score: 9
+* Score: 10
 
 * Created: 2020-04-17T00:39:29
 

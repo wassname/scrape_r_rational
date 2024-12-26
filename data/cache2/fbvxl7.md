@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Swimmer963** [+1] *
+> **u/Swimmer963** [+1]  (a minute later)
 > 
 > Note that this is the 8th volume of a very, very long series, which is best read in order.
-> 
 
 ---
 

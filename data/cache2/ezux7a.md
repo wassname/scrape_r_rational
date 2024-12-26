@@ -12,30 +12,25 @@
 
 ### Comments:
 
-> **u/Yes_This_Is_God** [+3] *
+> **u/Yes_This_Is_God** [+3]  (52 minutes later)
 > 
 > Can you please repost this in the format of the others for consistency’s sake
-> 
 
->> **u/TrebarTilonai** [+1] *
+>> **u/TrebarTilonai** [+1]  (59 minutes later)
 >> 
 >> I tried to use the previous one as a model, but it seems I missed something with the link unless you're referring to something else. Any ideas on how to format that?
->> 
 
->>> **u/Yes_This_Is_God** [+2] *
+>>> **u/Yes_This_Is_God** [+2]  (an hour later)
 >>> 
 >>> Use the link format, not the discussion format.
->>> 
 
->>>> **u/TrebarTilonai** [+1] *
+>>>> **u/TrebarTilonai** [+1]  (2 hours later)
 >>>> 
 >>>> I have updated and am deleting this one.
->>>> 
 
->> **u/ketura** [+1]  *Organizer**
+>> **u/ketura** [+1]  *Organizer* (an hour later)
 >> 
 >> Agreed. Removing this thread pending a reformatted submission.
->> 
 
 ---
 

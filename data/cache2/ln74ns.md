@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: http://daystareld.com/podcast/rationally-writing-57/
-* Score: 30
+* Score: 28
 
 * Created: 2021-02-19T04:51:30
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/DaystarEld** [+8]  *Pokémon Professor**
+> **u/DaystarEld** [+8]  *Pokémon Professor* (36 seconds later)
 > 
 > Aaand we're back! This episode is about species or “races” in fiction, and how it informs characters and is addressed by different types of stories. Enjoy!
-> 
 
-> **u/D0TheMath** [+3]  *Dragon Army**
+> **u/D0TheMath** [+3]  *Dragon Army* (a day later)
 > 
 > Yay! Haven't listened yet, but have been very much missing the podcast. Glad y'all are back!
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (20 hours later)
 > 
 > Thanks guys, love the podcast.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Ikacprzak *
 * URL: https://www.reddit.com/r/rational/comments/lxacok/ghostbusters_afterlife/
-* Score: 14
+* Score: 13
 
 * Created: 2021-03-04T02:20:23
 
@@ -12,56 +12,52 @@ So what I always thought was a missed opportunity in the Ghostbusters franchise 
 
 ### Comments:
 
-> **u/RynnisOne** [+21] *
+> **u/RynnisOne** [+22]  (2 hours later)
 > 
 > First off, Ghostbusters is a comedy about a group of exterminators whose 'pests' just happen to be ghosts.  Funny it is, rational, it isn't.
-> Second off, they actually kind of do mention that in the movies, as there is at least one scene where they are listening to the radio or TV commentary about how some religious people are questioning whether it is the "End Times" or not.
-> Thirdly, assuming they put Slimer's ugly green mug on exhibit, it wouldn't contradict or 'prove wrong' any of the religious institutions.  It doesn't prove or disprove anything, it just shows there's a green ghost-like creature that likes to eat everything in sight and leave slime all over the place.  Nobody is really proven wrong.
->   If anything, the courtroom scene from Ghostbusters II would be much more alarming, as the ghosts that erupted (the 'Scoleri Brothers') were recognizable as individual people that had been convicted in that courtroom and later executed. Even then, they could simply use the "Hell is full" or "The End Times are nigh!" approach to explain it.
 > 
+> Second off, they actually kind of do mention that in the movies, as there is at least one scene where they are listening to the radio or TV commentary about how some religious people are questioning whether it is the "End Times" or not.
+> 
+> Thirdly, assuming they put Slimer's ugly green mug on exhibit, it wouldn't contradict or 'prove wrong' any of the religious institutions.  It doesn't prove or disprove anything, it just shows there's a green ghost-like creature that likes to eat everything in sight and leave slime all over the place.  Nobody is really proven wrong.
+> 
+>   If anything, the courtroom scene from Ghostbusters II would be much more alarming, as the ghosts that erupted (the 'Scoleri Brothers') were recognizable as individual people that had been convicted in that courtroom and later executed. Even then, they could simply use the "Hell is full" or "The End Times are nigh!" approach to explain it.
 
->> **u/Geminii27** [+13] *
+>> **u/Geminii27** [+12]  (7 hours later)
 >> 
 >> Or just "Some ghosts look like people who died. Doesn't mean they *are* those people."
->> 
 
->>> **u/callmesalticidae** [+5]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+5]  *writes worldbuilding books* (23 hours later)
 >>> 
 >>> "Demons can appear in the guise of dead humans" has been a belief among Christians for a long time (this is one reason why Hamlet doesn't just kill the king as soon as his dead dad explains the situation—it might not be his dad!)
->>> 
 
->>>> **u/Reddit-Book-Bot** [+2] *
+>>>> **u/Reddit-Book-Bot** [+2]  (23 hours later)
 >>>> 
 >>>> Beep. Boop. I'm a robot.
 >>>> Here's a copy of 
->>>> ###[Hamlet]( https://snewd.com/ebooks/hamlet/)
->>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 >>>> 
+>>>> ###[Hamlet]( https://snewd.com/ebooks/hamlet/)
+>>>> 
+>>>> Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)
 
->> **u/None** [+2] *
+>> **u/None** [+3]  (5 hours later)
 >> 
 >> But which Hell?
->> 
 
->>> **u/Nimelennar** [+6] *
+>>> **u/Nimelennar** [+5]  (22 hours later)
 >>> 
 >>> The one in Michigan?
->>> 
 
-> **u/Bowbreaker** [+6]  *Solitary Locust**
+> **u/Bowbreaker** [+4]  *Solitary Locust* (11 hours later)
 > 
 > Many religious folk already believe in demons. The idea that some of them finally decided to not work subtly and instead just try a new scheme where they pretend to be dead people with the news that there is no heaven or hell or whatever.
-> 
 
-> **u/wren42** [+2] *
+> **u/wren42** [+2]  (19 hours later)
 > 
 > It seems like the existence of ghosts would confirm a lot more religious viewpoints over secular ones. The real question is what secular philosophers are doing to adapt.
-> 
 
-> **u/just-_-** [+1] *
+> **u/just-_-** [+1]  (10 days later)
 > 
 > you're a little mixed up, it's atheists who don't believe in the afterlife, demons, and other supernatural stuff.
-> 
 
 ---
 

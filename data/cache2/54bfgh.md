@@ -2,7 +2,7 @@
 
 * Author: u/EliezerYudkowsky  *Godric Gryffindor**
 * URL: https://www.reddit.com/r/rational/comments/54bfgh/rt_a_scene_from_a_romantic_comedy_where_both/
-* Score: 147
+* Score: 149
 
 * Created: 2016-09-24T18:42:04
 
@@ -144,197 +144,179 @@ WOMAN:  Oh, we have slaves for that here!
 
 ### Comments:
 
-> **u/xamueljones** [+19]  *My arch-enemy is entropy**
+> **u/xamueljones** [+17]  *My arch-enemy is entropy* (2 hours later)
 > 
 > Very nice scene and I want to read an entire novel (or watch a movie) around this!
-> Off topic question to everyone reading this:
-> How many of you upvoted this because you first saw it was a post by Eliezer before you actually read anything here?
-> I'm curious if people are more likely to upvote or comment on something when they see a familiar/famous name is associated with it.
 > 
+> Off topic question to everyone reading this:
+> 
+> How many of you upvoted this because you first saw it was a post by Eliezer before you actually read anything here?
+> 
+> I'm curious if people are more likely to upvote or comment on something when they see a familiar/famous name is associated with it.
 
->> **u/callmebrotherg** [+26]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+27]  *now posting as /u/callmesalticidae* (2 hours later)
 >> 
 >> I'm kind of bad at noticing OP usernames unless they're highlighted and didn't realize it was EY until I saw the post on FB.
->> 
 
->>> **u/UltraRedSpectrum** [+13] *
+>>> **u/UltraRedSpectrum** [+16]  (3 hours later)
 >>> 
 >>> I was about to say the same thing. I didn't know it was by EY until I read the post asking whether I had upvoted it before reading it because it was by EY. I'm actually really disappointed now, because I thought there was a new really good rationalfic author kicking about.
->>> 
 
->> **u/-main** [+8] *
+>> **u/-main** [+9]  (9 hours later)
 >> 
 >> Didn't notice it until I saw your post.
->> 
 
->> **u/biomatter** [+4] *
+>> **u/biomatter** [+5]  (11 hours later)
 >> 
 >> I noticed EY posted this, but I didn't upvote until I'd finished reading.
->> 
 
->> **u/None** [+4] *
+>> **u/None** [+5]  (4 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/UltraRedSpectrum** [+15] *
+>>> **u/UltraRedSpectrum** [+13]  (4 hours later)
 >>> 
 >>> If he's going to be Big anything it should be Big Yud. There's already precedent, a song, and a reference in Unsong, which is basically all your bases right there.
->>> 
 
->>>> **u/Marted** [+7]  *I mourn my own death every day**
+>>>> **u/Marted** [+7]  *I mourn my own death every day* (5 hours later)
 >>>> 
 >>>> But that one misses out on a 40k reference.
->>>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (6 hours later)
 >>>> 
 >>>> how about Yud the bud?
->>>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (9 hours later)
 >> 
 >> Overlooked it completely since the title doesn't interest me, but I gave it a read when I noticed EY. I generally never upvote anything, though. This included.
->> 
 
->>> **u/eaglejarl** [+4] *
+>>> **u/eaglejarl** [+4]  (13 hours later)
 >>> 
 >>> Why not?  (Honest curiosity here, not being snarky.)
->>> 
 
->>>> **u/bassicallyboss** [+4] *
+>>>> **u/bassicallyboss** [+4]  (a day later)
 >>>> 
 >>>> Can't speak for Detsuahxe, but I also generally never upvote posts.  It's mostly habit for me (I'm used to platforms that don't have a voting system, or else lurking without an account on those that do), but it also seems like an issue of fairness.  I doubt I would remember to upvote half the things that deserve it, so upvoting some randomly-selected subset of them seems like an arbitrary way of making very little difference.
->>>> I do upvote comments, though.  I see it as a better alternative to choking a discussion thread with comments like "Me too," or "I appreciate the pun you made there."  If I feel the urge to leave such a comment, I upvote instead.
 >>>> 
+>>>> I do upvote comments, though.  I see it as a better alternative to choking a discussion thread with comments like "Me too," or "I appreciate the pun you made there."  If I feel the urge to leave such a comment, I upvote instead.
 
->> **u/mcherm** [+2] *
+>> **u/mcherm** [+2]  (10 hours later)
 >> 
 >> >How many of you upvoted this because you first saw it was a post by Eliezer before you actually read anything here?
->> I started reading and decided I liked it first, *then* noticed the author's name, *then* finished reading, and only upvoted it afterward.
 >> 
+>> I started reading and decided I liked it first, *then* noticed the author's name, *then* finished reading, and only upvoted it afterward.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (11 hours later)
 >> 
 >> [deleted]
->> 
 
->> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (2 months later)
 >> 
 >> I noticed the name, so it went into my "will definitely read this someday" pile. Upvoted only after reading. 
->> I wouldn't have upvoted for the name alone. But without the name I wouldn't be here two months late to upvote it.
 >> 
+>> I wouldn't have upvoted for the name alone. But without the name I wouldn't be here two months late to upvote it.
 
-> **u/narfanator** [+12] *
+> **u/narfanator** [+12]  (5 hours later)
 > 
 > I feel like this is a reasonable future scene from "Practical Guide to Evil".
-> 
 
->> **u/-main** [+2] *
+>> **u/-main** [+2]  (19 hours later)
 >> 
 >> It does read like Practical Guide to Evil fanfic, yes. The worldbuilding is totally consistent (especially that bit about being allowed to bend the Empire to your whim). Replace Grimm Majesty with Dread Empress, Lightsiders with Heros/Good aligned, Yoruun with Callow (and then the Unconquered Territory with Procer?) (....and then Malicia with a Empress more interested in men). Possibly no Roles, though, Grim Empress could easily be a mere title.
->> 
 
-> **u/trekie140** [+8] *
+> **u/trekie140** [+8]  (21 hours later)
 > 
 > Eh, I didn't find it funny. I know why I'm supposed to, but I just don't get it.
-> 
 
-> **u/creatureofthewood** [+4] *
+> **u/creatureofthewood** [+5]  (10 hours later)
 > 
 > It's *good*, but I'm not sure I'd call the lady emotionally mature!
-> 
 
->> **u/DaystarEld** [+12]  *Pokémon Professor**
+>> **u/DaystarEld** [+12]  *Pokémon Professor* (13 hours later)
 >> 
 >> To me emotional maturity is about  not letting emotions control their actions. People can be emotionally mature, but still get flustered, just like they can be emotionally mature and still get scared or angry. They just can't go flying off the handle or anything.
->> 
 
->>> **u/Chiliarchos** [+5] *
+>>> **u/Chiliarchos** [+5]  (13 hours later)
 >>> 
 >>> > They just can't go flying off the handle
->>> ... absent super-proportionately vigorous stimuli.
->>> (If I might refine your generally agreed with description.)
 >>> 
+>>> ... absent super-proportionately vigorous stimuli.
+>>> 
+>>> (If I might refine your generally agreed with description.)
 
->>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (23 hours later)
 >>>> 
 >>>> Yeah, extraordinary circumstances can justify extraordinary responses :)
->>>> 
 
->>> **u/creatureofthewood** [+3] *
+>>> **u/creatureofthewood** [+3]  (22 hours later)
 >>> 
 >>> I meant the "chaining him up and raping him" part, not the "flustered" part!
->>> 90% of "emotional maturity" in interpersonal relationships is recognizing that you can't force people into what you want. So the comedy here still derive from emotional immaturity. It's just that the emotional immaturity is so over the top that we don't even recognize it as "emotional immaturity' anymore.
 >>> 
+>>> 90% of "emotional maturity" in interpersonal relationships is recognizing that you can't force people into what you want. So the comedy here still derive from emotional immaturity. It's just that the emotional immaturity is so over the top that we don't even recognize it as "emotional immaturity' anymore.
 
->>>> **u/EliezerYudkowsky** [+15]  *Godric Gryffindor**
+>>>> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor* (a day later)
 >>>> 
 >>>> > 90% of "emotional maturity" in interpersonal relationships is recognizing that you can't force people into what you want.
->>>> I think if you're the Grim Empress you can, in fact, force people into at least some of what you want.
 >>>> 
+>>>> I think if you're the Grim Empress you can, in fact, force people into at least some of what you want.
 
->>>>> **u/creatureofthewood** [+3] *
+>>>>> **u/creatureofthewood** [+4]  (a day later)
 >>>>> 
 >>>>> Yes, but not *this* part of what you want...That's the point of the story right? The Grim Empress can't get what she wants merely by enslaving the hero.
->>>>> >MAN: You understand that there are parts of that you can't get just by chaining me in convenient positions.
->>>>> I guess what I'm saying is that some people try to force <romance, love, monogamy, marriage, procreation> by means such as yelling and nagging, and a lot of why we think we can do that is because our Lightsider culture is descended from a Grim predecessor culture where forcing people to do <above things> by capturing and enslaving them as property was a norm. But it didn't work out any better for our ancestors - all they got were distorted and ugly mockeries of the love/affection they were hoping for.
->>>>>  Emotional maturity, at least in part, slides along the Grim <-> Lightsider axis, such that the Grim *culture* is emotionally stunted. Recognizing that while you can <nag / yell / pressure / chain / enslave / lock in a tower / economically incentivize / threaten to leave unless they obey> someone to go through the motions of a wedding ritual, sex, exclusivity, and so on, you won't actually get their love and loyalty. (On the lightsider extreme, you get radical commitments to non-coercion, as seen in the polyamorous community and so on. This is extreme emotional maturity.)
->>>>> That's what the classic rom com centers around. ~Hilarious misunderstandings~ arise because the two parties are essentially playing a zero sum game and trying to coerce each other / withhold information / assuming the other is trying to harm them. The fun part in this story is that we instead just *acknowledge* one party is trying to coerce the other and run with it.
->>>>> /u/DaystarEld comment applies to your reply too.
 >>>>> 
+>>>>> >MAN: You understand that there are parts of that you can't get just by chaining me in convenient positions.
+>>>>> 
+>>>>> I guess what I'm saying is that some people try to force <romance, love, monogamy, marriage, procreation> by means such as yelling and nagging, and a lot of why we think we can do that is because our Lightsider culture is descended from a Grim predecessor culture where forcing people to do <above things> by capturing and enslaving them as property was a norm. But it didn't work out any better for our ancestors - all they got were distorted and ugly mockeries of the love/affection they were hoping for.
+>>>>> 
+>>>>>  Emotional maturity, at least in part, slides along the Grim <-> Lightsider axis, such that the Grim *culture* is emotionally stunted. Recognizing that while you can <nag / yell / pressure / chain / enslave / lock in a tower / economically incentivize / threaten to leave unless they obey> someone to go through the motions of a wedding ritual, sex, exclusivity, and so on, you won't actually get their love and loyalty. (On the lightsider extreme, you get radical commitments to non-coercion, as seen in the polyamorous community and so on. This is extreme emotional maturity.)
+>>>>> 
+>>>>> That's what the classic rom com centers around. ~Hilarious misunderstandings~ arise because the two parties are essentially playing a zero sum game and trying to coerce each other / withhold information / assuming the other is trying to harm them. The fun part in this story is that we instead just *acknowledge* one party is trying to coerce the other and run with it.
+>>>>> 
+>>>>> /u/DaystarEld comment applies to your reply too.
 
->>>>>> **u/EliezerYudkowsky** [+11]  *Godric Gryffindor**
+>>>>>> **u/EliezerYudkowsky** [+12]  *Godric Gryffindor* (a day later)
 >>>>>> 
 >>>>>> ...and she immediately agrees that she can't get *that part* of what she wants by force, which doesn't change the point that she can get *other parts* by force; and so if emotional maturity is knowing which is which...
->>>>>> 
 
->>>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+3]  *Pokémon Professor* (23 hours later)
 >>>> 
 >>>> >I meant the "chaining him up and raping him" part, not the "flustered" part!
->>>> Oh, well, that's just about a difference in axiomatic values :P
 >>>> 
+>>>> Oh, well, that's just about a difference in axiomatic values :P
 
-> **u/RtnlXn** [+5] *
+> **u/RtnlXn** [+6]  (7 hours later)
 > 
 > So great to read this, really enjoy it, and THEN find out it was by one of my favorite authors!
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (3 hours later)
 > 
 > Is the chair metal or stone, OP?
-> 
 
->> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor* (3 hours later)
 >> 
 >> That's odd, it should have been fixed a couple of edits ago (stone).
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (3 days later)
 > 
 > No offense to you, but the opening description was kinda... Garbage?  It just read very poorly to my eyes.  The dialogue was fine but it definitely couldve been much better.  I'm also not really sure that the Empress as written is emotionally mature *or* has good communication skills, let alone both, so I don't really think this fulfils the prompt either.  All in all, not a huge fan.
-> 
 
-> **u/CouteauBleu** [+2]  *We are the Empire.**
+> **u/CouteauBleu** [+2]  *We are the Empire.* (4 hours later)
 > 
 > Well that was creative.
-> Is "Evil Overlord compiles a list of pitfalls to systematically avoid" going to be a recurring theme in your writings?
 > 
+> Is "Evil Overlord compiles a list of pitfalls to systematically avoid" going to be a recurring theme in your writings?
 
->> **u/Tommy2255** [+9] *
+>> **u/Tommy2255** [+7]  (7 hours later)
 >> 
 >> It's a deliberate reference to the actual [Evil Overlord List](http://www.eviloverlord.com/lists/overlord.html), in case you were unaware.
->> 
 
->>> **u/JackStargazer** [+3]  *Primordial Apologist**
+>>> **u/JackStargazer** [+3]  *Primordial Apologist* (5 days later)
 >>> 
 >>> It's also an especially sensible precaution to Evil Overlorddom, especially if you notice a lot of similarities among the obituaries of your predecessors.
->>> 
 
->>> **u/TheAtomicOption** [+2] *
+>>> **u/TheAtomicOption** [+2]  (6 days later)
 >>> 
 >>> Ugh. That intro about copyright at the head of the page almost made me stop caring about reading the list.
->>> 
 
 ---
 

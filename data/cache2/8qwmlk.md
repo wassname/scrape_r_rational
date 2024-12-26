@@ -50,37 +50,32 @@ Next time, the challenge will be **Cult**. In many ways, cults represent the hei
 
 ### Comments:
 
-> **u/None** [+19] *
+> **u/None** [+19]  (2 days later)
 > 
 > [Reconstruction](https://vi-fi.github.io/Reconstruction) (5660 words)
-> 
 
-> **u/Ghurtypoints** [+5] *
+> **u/Ghurtypoints** [+4]  (16 hours later)
 > 
 > Something Worth Remembering
 > https://pastebin.com/Px9GTrKZ
-> 
 
->> **u/NoSeNiK** [+1] *
+>> **u/NoSeNiK** [+1]  (21 hours later)
 >> 
 >> I like the idea of a dark take on Anniversary, and the brevity of the story, but you could have expanded upon the..." Contents " section to increase... the end. And maybe, you could change up the beginning of your sentences.
->> 
 
-> **u/Sparkwitch** [+2] *
+> **u/Sparkwitch** [+2]  (10 days later)
 > 
 > [Unknowledge](https://docs.google.com/document/d/1CMGh4PIgLkvomIPrDw5RE7XSt6NKRnpeonscjineVpM/)
-> 
 
->> **u/DangerouslyUnstable** [+1] *
+>> **u/DangerouslyUnstable** [+1]  (12 days later)
 >> 
 >> I have to admit that this one completely confused me.
->> 
 
-> **u/PastafarianGames** [+1] *
+> **u/PastafarianGames** [+1]  (9 days later)
 > 
 > I don't have a title for this: https://pastebin.com/bxrrrQMc
-> It came out different from what I'd intended. I suppose it usually does.
 > 
+> It came out different from what I'd intended. I suppose it usually does.
 
 ---
 

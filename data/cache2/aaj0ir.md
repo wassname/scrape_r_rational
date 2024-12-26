@@ -2,7 +2,7 @@
 
 * Author: u/pepeipe *
 * URL: https://www.royalroad.com/fiction/chapter/319409
-* Score: 31
+* Score: 30
 
 * Created: 2018-12-29T06:54:16
 
@@ -12,21 +12,25 @@
 
 ### Comments:
 
-> **u/jaghataikhan** [+6]  *Primarch of the White Scars**
+> **u/jaghataikhan** [+5]  *Primarch of the White Scars* (11 hours later)
 > 
 > Aw yis, update!
-> Can somebody remind me what the nuclear pen was (that Ganesh uses for fly by drone aerial support maneuvers)?
-> It's been what, 15 hours in the dungeon for their rescue mission thus far? About a mile in dungeon (insofar as space can be measured) until they get back to semi-known territory that's represented on the Map?
-> Author is really doing well evoking the desperation this arc must be inducing. Hoping we see a Big Damn Heroes rescue moment from their buddies when things look the  most dire.
-> Also, I ran into this SCP that reminded me a lot of this story  (the inter dimensional Ikea dungeon):
-> http://www.scp-wiki.net/scp-3008
 > 
+> Can somebody remind me what the nuclear pen was (that Ganesh uses for fly by drone aerial support maneuvers)?
+> 
+> It's been what, 15 hours in the dungeon for their rescue mission thus far? About a mile in dungeon (insofar as space can be measured) until they get back to semi-known territory that's represented on the Map?
+> 
+> Author is really doing well evoking the desperation this arc must be inducing. Hoping we see a Big Damn Heroes rescue moment from their buddies when things look the  most dire.
+> 
+> Also, I ran into this SCP that reminded me a lot of this story  (the inter dimensional Ikea dungeon):
+> 
+> http://www.scp-wiki.net/scp-3008
 
->> **u/ArgusTheCat** [+5] *
+>> **u/ArgusTheCat** [+6]  (17 hours later)
 >> 
 >> Yeah, the infinite IKEA gave me some cool ideas, mostly in regards to the employees. 
->> And the pen is the same one that James took off the first employee they fought, like, thirty chapters ago.
 >> 
+>> And the pen is the same one that James took off the first employee they fought, like, thirty chapters ago.
 
 ---
 

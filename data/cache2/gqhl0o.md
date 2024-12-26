@@ -2,7 +2,7 @@
 
 * Author: u/JackVoraces *
 * URL: https://i.redd.it/y48ajskfqy051.jpg
-* Score: 49
+* Score: 50
 
 * Created: 2020-05-25T19:32:09
 
@@ -12,34 +12,33 @@
 
 ### Comments:
 
-> **u/Dreamliss** [+9] *
+> **u/Dreamliss** [+8]  (4 hours later)
 > 
 > Woo keep going man! You're doing an awesome thing. Hope you work out a nice audiobook deal on this with the author... I'll definitely buy it!
-> 
 
-> **u/the_timezone_bot** [+8] *
+> **u/the_timezone_bot** [+7]  (8 seconds later)
 > 
 > 4 pm EDT happens when this comment is 27 minutes old.
-> You can find the live countdown here: https://countle.com/f3wTYAQRa
-> ---
-> I'm a bot, if you want to send feedback, please comment below or send a PM.
 > 
+> You can find the live countdown here: https://countle.com/f3wTYAQRa
+> 
+> ---
+> 
+> I'm a bot, if you want to send feedback, please comment below or send a PM.
 
-> **u/JackVoraces** [+4] *
+> **u/JackVoraces** [+3]  (4 minutes later)
 > 
 > Discord Link: [https://discord.gg/h8Sj9Tf](https://discord.gg/h8Sj9Tf)
-> Previous Chapters:  [https://voraces.podbean.com/](https://voraces.podbean.com/)
 > 
+> Previous Chapters:  [https://voraces.podbean.com/](https://voraces.podbean.com/)
 
-> **u/Hidden-50** [+3] *
+> **u/Hidden-50** [+3]  (11 hours later)
 > 
 > Oh, so you stopped uploading them to youtube? I was checking there for updates, thought you'd hit a block. Glad to see you haven't :-\]
-> 
 
->> **u/JackVoraces** [+5] *
+>> **u/JackVoraces** [+6]  (11 hours later)
 >> 
 >> Sprry, the youtube takes about half an hour to render and over an hour to upload and been super super busy recently. Need to catch up.
->> 
 
 ---
 

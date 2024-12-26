@@ -17,12 +17,14 @@ If you see someone making a top level post asking for recommendation, kindly dir
 
 ### Comments:
 
-> **u/Do_Not_Go_In_There** [+21] *
+> **u/Do_Not_Go_In_There** [+21]  (3 hours later)
 > 
 > [Palus Somni](https://www.royalroad.com/fiction/25475/palus-somni). I'd highly recommend it to anyone who like horror/psychologial stories. It's more of a slow-burn psychological thriller than the usual fantasy/scifi that I'm into, but it's well written with solid characters. Monthly updates unfortunately, but the chapters are solid.
+> 
 > A group of nun are essentially stuck in a convent. They haven't had contact with the outside world in quite some time. Something terrible has happened to the outside world, and it's coming for them now. They're all normal people, no special abilities, and they're just trying to keep their world going one day at a time.
-
+> 
 > Here's an excerpt (not a spoiler) from the beginning of the story that I really liked and shows off what kind of story it is.
+> 
 > > [A handwritten note that hangs on the refectory door, yellowed with age. The delicate, neat lettering is still legible.]
 > > 
 > > Beware the walking beasts, my children, for all shall be lost if you are to antagonise them.
@@ -47,313 +49,287 @@ If you see someone making a top level post asking for recommendation, kindly dir
 > > Yours with God,
 > > 
 > > Mother Superior
-> 
 
->> **u/Roxolan** [+15]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+14]  *Head of antimemetiWalmart senior assistant manager* (8 hours later)
 >> 
 >> Is the payoff worth the foreshadowing? This is cool, but I'm wary of mystery boxes than may or may not ever contain a satisfying answer.
->> 
 
->>> **u/Do_Not_Go_In_There** [+12] *
+>>> **u/Do_Not_Go_In_There** [+12]  (9 hours later)
 >>> 
 >>> I couldn't tell you. It's an ongoing series and the main story just started last week.
->>> I think it's worth reading in large part because it's well-written and interesting. I don't doubt it will come to a satisfying conclusion, though like I said it's ongoing so I can't  be 100% sure of that.
 >>> 
+>>> I think it's worth reading in large part because it's well-written and interesting. I don't doubt it will come to a satisfying conclusion, though like I said it's ongoing so I can't  be 100% sure of that.
 
->>>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>> 
 >>>> Cheers. I'll wait for it to get there. 
->>>> Buuuut this didn't stop me from having a nightmare about monsters following those rules last night, so I guess I'm already getting value out of the story.
 >>>> 
+>>>> Buuuut this didn't stop me from having a nightmare about monsters following those rules last night, so I guess I'm already getting value out of the story.
 
-> **u/SkyTroupe** [+13] *
+> **u/SkyTroupe** [+11]  (24 minutes later)
 > 
 > So last week someone recommended the OPM/Worm crossover I Didnt Make It by Zip Zilch and it was wonderful.
-> Following along those lines Im looking for more One-Punch Man and or Jojo's stories and crossovers. Doesnt have to be with Worm but I would prefer if the stories have the feelings and themes of OPM or Jojo's.
 > 
+> Following along those lines Im looking for more One-Punch Man and or Jojo's stories and crossovers. Doesnt have to be with Worm but I would prefer if the stories have the feelings and themes of OPM or Jojo's.
 
-> **u/lsparrish** [+12] *
+> **u/lsparrish** [+13]  (2 hours later)
 > 
 > [The Dao of Magic](https://www.royalroad.com/fiction/11397/the-dao-of-magic/) is a good series with a lot of deconstruction and munchkinry as the 1000 year old protagonist (originally from earth) is transplanted from a wuxia style cultivation planet to a magic planet with dungeon cores and anime tropes, as the result of a botched ascension. Both worlds are broken/mismanaged in very different ways, which makes for good contrast.
-> >!Nitpick/spoiler: At one point, he comes to the conclusion that he needs to put up a Dyson Sphere to contain the qi pollution of the local sun, as otherwise the surrounding universe will be filled with gigantic asteroid golems and such. I thought this was brilliant worldbuilding, however it is followed by what I consider a major oversight in that the MC decides he needs super strong materials similar to Ringworld scrith to accomplish this task. There is no real reason he would need that, because the [Dyson Sphere](https://www.aleph.se/Nada/dysonFAQ.html) in this case needs only to be a power collector, not a contiguous structure or habitat-world. It should be possible to achieve his goal by setting up a large enough swarm of orbiting satellites and statites. More exotic shell type designs could probably be achieved too, by qi based (or magnetic) momentum transfers that allow orbiting satellites to act as support rings.!<
 > 
+> >!Nitpick/spoiler: At one point, he comes to the conclusion that he needs to put up a Dyson Sphere to contain the qi pollution of the local sun, as otherwise the surrounding universe will be filled with gigantic asteroid golems and such. I thought this was brilliant worldbuilding, however it is followed by what I consider a major oversight in that the MC decides he needs super strong materials similar to Ringworld scrith to accomplish this task. There is no real reason he would need that, because the [Dyson Sphere](https://www.aleph.se/Nada/dysonFAQ.html) in this case needs only to be a power collector, not a contiguous structure or habitat-world. It should be possible to achieve his goal by setting up a large enough swarm of orbiting satellites and statites. More exotic shell type designs could probably be achieved too, by qi based (or magnetic) momentum transfers that allow orbiting satellites to act as support rings.!<
 
->> **u/CreationBlues** [+1] *
+>> **u/CreationBlues** [+1]  (3 hours later)
 >> 
 >> On top of that, the problem can be neatly solved with life adapTed to the vacuum.
->> 
 
-> **u/Frommerman** [+21] *
+> **u/Frommerman** [+22]  (10 minutes later)
 > 
 > I have discovered that what I really like in good fiction is situational humor. Mostly, I am highly amused by setups which allow characters to say absurd, seemingly nonsensical things entirely seriously. UNSONG and The Erogamer do this incredibly well, and the early chapters of HPMOR did it too. UNSONG in particular was fantastic because of the sheer length and complexity of the setups, and also for "There is a kraken: Everything."
-> Dumb things said for smart reasons, brick jokes, absurdity taken seriously, I want it all. What other things should I be reading?
 > 
+> Dumb things said for smart reasons, brick jokes, absurdity taken seriously, I want it all. What other things should I be reading?
 
->> **u/fljared** [+22]  *United Federation of Planets**
+>> **u/fljared** [+23]  *United Federation of Planets* (an hour later)
 >> 
 >> I *think* you would like [Seventh Horcrux](https://www.fanfiction.net/s/10677106/1/Seventh-Horcrux), for the ability of the MC to pull nonsense stunts via Peggy Sue.
->> 
 
->>> **u/Frommerman** [+9] *
+>>> **u/Frommerman** [+8]  (an hour later)
 >>> 
 >>> Read it, loved it. That's what I'm looking for.
->>> 
 
->>>> **u/None** [+12] *
+>>>> **u/None** [+12]  (3 hours later)
 >>>> 
 >>>> [Sasuke Uchiha and the Power of Lies](https://forums.spacebattles.com/threads/sasuke-uchiha-and-the-power-of-lies-naruto-comedy-au.472801/reader/), by the same author.
->>>> 
 
->>>> **u/fljared** [+11]  *United Federation of Planets**
+>>>> **u/fljared** [+10]  *United Federation of Planets* (6 hours later)
 >>>> 
 >>>> On the off chance you haven't read this glorious shitpost/crack fic: [Harry Potter and the Methods of Ricktionality](https://archiveofourown.org/works/14770070/chapters/34158194)
->>>> 
 
->>>>> **u/LazarusRises** [+3] *
+>>>>> **u/LazarusRises** [+3]  (12 hours later)
 >>>>> 
 >>>>> That *was* glorious. The hardest I've laughed at a story in a while. Especially this:
->>>>> >**McGonagall**: YOU LITTLE SHIT, I'LL KILL YOU
 >>>>> 
+>>>>> >**McGonagall**: YOU LITTLE SHIT, I'LL KILL YOU
 
->>>>>> **u/fljared** [+5]  *United Federation of Planets**
+>>>>>> **u/fljared** [+5]  *United Federation of Planets* (14 hours later)
 >>>>>> 
 >>>>>> The Peter Pan excerpt in Ch.2 Works really well as well.
->>>>>> 
 
->>>>>> **u/FenrirW0lf** [+4] *
+>>>>>> **u/FenrirW0lf** [+4]  (a day later)
 >>>>>> 
 >>>>>> Be sure to check out [Animorphs: The Rickoning](https://archiveofourown.org/works/17188865/chapters/40415273) too
->>>>>> 
 
->> **u/PeridexisErrant** [+17]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+15]  *put aside fear for courage, and death for life* (8 hours later)
 >> 
 >> Terry Pratchett.
->> Seriously, he was master of the style and left a *large* volume of work; and in various places it's everywhere from absurdist comedy to laugh-or-you'll-cry social commentary.
 >> 
+>> Seriously, he was master of the style and left a *large* volume of work; and in various places it's everywhere from absurdist comedy to laugh-or-you'll-cry social commentary.
 
->> **u/vokoko** [+5] *
+>> **u/vokoko** [+5]  (a day later)
 >> 
 >> [Cultivation Chat Group.](https://www.wuxiaworld.co/Cultivation-Chat-Group/) It's pretty much the best and also best translated xianxia novel currently being written.
->> 
 
->> **u/Retbull** [+5] *
+>> **u/Retbull** [+3]  (3 days later)
 >> 
 >> Super Minion on Royal Road has lots of this as the MC is completely uneducated and has to learn about dangerous things like house plants and how to cook tofu burgers.
->> 
 
->> **u/None** [+6] *
+>> **u/None** [+5]  (2 hours later)
 >> 
 >> The excellent Worm fanfic [Completely Unoriginal](https://forums.spacebattles.com/threads/completely-unoriginal-yet-another-cyoa-si-mc-in-brockton-bay-complete.526825) contains a lot of gems like this line:
->> >"So you're asking a middle-eastern lesbian, a genderqueer clown, and a bisexual rodent to help save your neo-Nazi not-girlfriend?"
->> >"Yyyyyes. Yes. That's about the long and short of it."
->> >"Okay."
 >> 
+>> >"So you're asking a middle-eastern lesbian, a genderqueer clown, and a bisexual rodent to help save your neo-Nazi not-girlfriend?"
+>> 
+>> >"Yyyyyes. Yes. That's about the long and short of it."
+>> 
+>> >"Okay."
 
->> **u/Munchkingman** [+3] *
+>> **u/Munchkingman** [+3]  (4 hours later)
 >> 
 >> Worm fic - Who Needs Enemies
->> https://forums.sufficientvelocity.com/threads/who-needs-enemies-altpower-taylor-worm.22004/reader/
 >> 
+>> https://forums.sufficientvelocity.com/threads/who-needs-enemies-altpower-taylor-worm.22004/reader/
 
->> **u/Kachajal** [+2] *
+>> **u/Kachajal** [+2]  (8 hours later)
 >> 
 >> [Constellations](https://forums.sufficientvelocity.com/threads/constellations-worm-okami.31091/reader/) has some absolutely lovely situational humor. Highly recommened.
->> [Cogito, Ergo Lung](https://forums.sufficientvelocity.com/threads/worm-au-cogito-ergo-lung-i-think-therefore-i-am-dragon.55832/reader/) should also appeal to you.
->> [Path To Munchies](https://forums.spacebattles.com/threads/path-to-munchies-worm-au-complete.449493/reader/) might also be close to what you're looking for.
->> I'm absolutely certain I've read more fics with great humor that left me gasping with laughter but, sadly, they seem to be lost somewhere in the corners of my memory.
->> [Edit] You may also like [Sakamoto Desu Ga](https://myanimelist.net/anime/32542/Sakamoto_Desu_ga) and/or [Kaguya Sama](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen).
 >> 
+>> [Cogito, Ergo Lung](https://forums.sufficientvelocity.com/threads/worm-au-cogito-ergo-lung-i-think-therefore-i-am-dragon.55832/reader/) should also appeal to you.
+>> 
+>> [Path To Munchies](https://forums.spacebattles.com/threads/path-to-munchies-worm-au-complete.449493/reader/) might also be close to what you're looking for.
+>> 
+>> I'm absolutely certain I've read more fics with great humor that left me gasping with laughter but, sadly, they seem to be lost somewhere in the corners of my memory.
+>> 
+>> [Edit] You may also like [Sakamoto Desu Ga](https://myanimelist.net/anime/32542/Sakamoto_Desu_ga) and/or [Kaguya Sama](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen).
 
-> **u/Faust_Alexander** [+9]  *The Culture**
+> **u/Faust_Alexander** [+10]  *The Culture* (5 hours later)
 > 
 > Are there any good stories where the hero is highly charismatic and confident? Most stories always portray the hero as an underdog or even a wimp (e.g. Boku No Hero's Deku) or an introvert with no friends (e.g. Sherlock). I understand that it's to more easily show growth of the character once he stops being so, but it's usually the villain who is made more interesting, slick and confident. Are there any works you'd recommend that avoid these tropes?
-> 
 
->> **u/paradoxinclination** [+17] *
+>> **u/paradoxinclination** [+16]  (6 hours later)
 >> 
 >> A Practical Guide to Evil, the Lies of Locke Lamora, the Dresden Files, and Twig (by Wildbow), all have charismatic and clever protagonists. I'd recommend any of them.
->> 
 
->>> **u/foveros** [+11] *
+>>> **u/foveros** [+10]  (9 hours later)
 >>> 
 >>> Hey, since you mentioned it: I read the first two Locke lamora books recently, and I wanted to ask if I was alone in finding them a bit... formulaic. It's as if every character was following a script and I knew how plot points would end the moment they we're introduced.
-
->>> Maybe I've been spoiled by highly simulationist works like worth the candle and practical guide to evil, I don't know.
 >>> 
+>>> Maybe I've been spoiled by highly simulationist works like worth the candle and practical guide to evil, I don't know.
 
->>>> **u/Anderkent** [+4] *
+>>>> **u/Anderkent** [+5]  (9 hours later)
 >>>> 
 >>>> Not alone, loved the first book on how it opened but wasn't as impressed once I finished it. It's not bad, but not something I'm ever reading again.
->>>> 
 
->>>> **u/Retbull** [+2] *
+>>>> **u/Retbull** [+2]  (3 days later)
 >>>> 
 >>>> I agree I actually couldn't finish them.
->>>> 
 
->> **u/None** [+9] *
+>> **u/None** [+9]  (6 hours later)
 >> 
 >> Seconding Twig especially. Sylvester has a healthy amount of ego, and he lives up to it - for the most part. He does acknowledge he's shit at actual fighting, and usually has his friends do that for him, except for those plans that require him to get hurt, which he frequently employs.
->> 
 
->>> **u/Sonderjye** [+5] *
+>>> **u/Sonderjye** [+5]  (18 hours later)
 >>> 
 >>> I have dropped twig twice. I really enjoy being in Syl's head but basically all of the plot to arc 6 are self-contained episodes that didn't really move the plot further and  could have been skipped without missing much. Does this change?
->>> 
 
->>>> **u/None** [+7] *
+>>>> **u/None** [+8]  (18 hours later)
 >>>> 
 >>>> It does, I think around arc 5 is when you're introduced to the overaching story. The villains from the earlier arcs sometimes come back later, as well.
->>>> The main plot of Twig is always the Lambs growing up, but there *is* a central conflict, >!their struggle to become independent from the Academies and the Monarchy!<, and that only *really* gets going around arc ten, in the way Worm's central conflict is only revealed somewhere around Arc 12(?).
 >>>> 
+>>>> The main plot of Twig is always the Lambs growing up, but there *is* a central conflict, >!their struggle to become independent from the Academies and the Monarchy!<, and that only *really* gets going around arc ten, in the way Worm's central conflict is only revealed somewhere around Arc 12(?).
 
->> **u/kraryal** [+8] *
+>> **u/kraryal** [+7]  (7 hours later)
 >> 
 >> He who fights with monsters on Royal Road has a very social and confident hero. I wouldn't say he's highly charismatic, though that's mostly because he likes jerking people's chain. He gets people in a way most heroes usually don't.
->> 
 
->> **u/chiruochiba** [+7] *
+>> **u/chiruochiba** [+8]  (12 hours later)
 >> 
 >> You might enjoy Lois McMaster Bujold's scifi series, the [Vorkosigan Saga](https://en.wikipedia.org/wiki/Vorkosigan_Saga). Miles Vorkosigan mainly relies on unusual charisma and out-thinking his enemies to win.
->> 
 
->> **u/WorldsMightiestSnail** [+5] *
+>> **u/WorldsMightiestSnail** [+5]  (2 days later)
 >> 
 >> How about A Champion in Earth Bet?
->> https://forums.sufficientvelocity.com/threads/a-champion-in-earth-bet-worm-original-setting.19973/
->> The MC is the literal avatar of the god of heroism. It’s one of the best portrayals of inspirational heroism I’ve read, with all the charisma that entails.
 >> 
+>> https://forums.sufficientvelocity.com/threads/a-champion-in-earth-bet-worm-original-setting.19973/
+>> 
+>> The MC is the literal avatar of the god of heroism. It’s one of the best portrayals of inspirational heroism I’ve read, with all the charisma that entails.
 
->> **u/iftttAcct2** [+2] *
+>> **u/iftttAcct2** [+2]  (16 hours later)
 >> 
 >> Bio of a Space Tyrant
->> 
 
->> **u/foveros** [+2] *
+>> **u/foveros** [+2]  (9 hours later)
 >> 
 >> Since you mentioned an anime, I'd suggest Code Geass. The protagonist wrote the rulebook on Magnificent Bastards. Not exactly rational, but there are some schemes and unconventional tactics involved.
->> Remains the most fun I've had with an anime, together with Gurren Lagann (this one is antirationalist by design, though, due to the main power being based on spunk and guts)
 >> 
+>> Remains the most fun I've had with an anime, together with Gurren Lagann (this one is antirationalist by design, though, due to the main power being based on spunk and guts)
 
->> **u/dinoseen** [+2] *
+>> **u/dinoseen** [+2]  (11 hours later)
 >> 
 >> He Who Fights With Monsters definitely fits this.
->> 
 
-> **u/MemoriaPraeteritorum** [+6] *
+> **u/MemoriaPraeteritorum** [+7]  (13 hours later)
 > 
 > I'm looking for stories with realistic portrayal of skill acquisition (in contrast to the infamous "[training montage](https://tvtropes.org/pmwiki/pmwiki.php/Main/HardWorkMontage)"). Hopefully, focusing on motivation/[determination](https://wiki.lesswrong.com/wiki/Tsuyoku_naritai) and overcoming setbacks.
-> The difficulty should lie in the training, and the path towards improvement known. The first part of [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning) fits perfectly, but then the focus shifts considerably. The best example I've found so far is [Hikaru no Go](https://en.wikipedia.org/wiki/Hikaru_no_Go). [Protector of the Small](https://en.wikipedia.org/wiki/Protector_of_the_Small) is also quite good.
-> Also tangentially related are stories taking place in a learning environment: the first few books of [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter), [HPMOR](http://www.hpmor.com/) minus the battles, and [Anathem](https://en.wikipedia.org/wiki/Anathem) >!(minus the ending)!<. There was a post asking for academy-centred stories and I've tried [Super Powereds](https://www.goodreads.com/book/show/17879100-super-powereds?from_search=true&qid=8LNZlfqkqx&rank=1) based on a rec there; but it's not quite what I'm looking for.
 > 
+> The difficulty should lie in the training, and the path towards improvement known. The first part of [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning) fits perfectly, but then the focus shifts considerably. The best example I've found so far is [Hikaru no Go](https://en.wikipedia.org/wiki/Hikaru_no_Go). [Protector of the Small](https://en.wikipedia.org/wiki/Protector_of_the_Small) is also quite good.
+> 
+> Also tangentially related are stories taking place in a learning environment: the first few books of [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter), [HPMOR](http://www.hpmor.com/) minus the battles, and [Anathem](https://en.wikipedia.org/wiki/Anathem) >!(minus the ending)!<. There was a post asking for academy-centred stories and I've tried [Super Powereds](https://www.goodreads.com/book/show/17879100-super-powereds?from_search=true&qid=8LNZlfqkqx&rank=1) based on a rec there; but it's not quite what I'm looking for.
 
->> **u/iftttAcct2** [+2] *
+>> **u/iftttAcct2** [+2]  (16 hours later)
 >> 
 >> Have you read Tales of the Solar Clipper by Lowell?
->> I enjoy these sorts of stories, too. You're definitely on the right track with looking at works in the school setting. The other place I would check out is Fanfiction of works set in school, though you may have done this since you mention HPMOR.
 >> 
+>> I enjoy these sorts of stories, too. You're definitely on the right track with looking at works in the school setting. The other place I would check out is Fanfiction of works set in school, though you may have done this since you mention HPMOR.
 
->>> **u/MemoriaPraeteritorum** [+1] *
+>>> **u/MemoriaPraeteritorum** [+1]  (a day later)
 >>> 
 >>> I haven't heard of Lowell before, would you recommend starting with [Quarter Share](https://www.goodreads.com/book/show/2334538.Quarter_Share?from_search=true&qid=Ogk6pwbIY4&rank=1)? Thanks!
->>> Do you have any recs for works set in a school which focus on the schooling, rather than on the social environment of the school?
 >>> 
+>>> Do you have any recs for works set in a school which focus on the schooling, rather than on the social environment of the school?
 
->>>> **u/iftttAcct2** [+2] *
+>>>> **u/iftttAcct2** [+2]  (a day later)
 >>>> 
 >>>> Yes, start there.
-
->>>> It's tough. All the stories I can think of are going to have the plot focus more on interpersonal relationships or outside impetuses... since that's how you get plot. I would check out [White Squirrel](https://www.fanfiction.net/u/5339762/White-Squirrel)'s stuff if you haven't. And maybe [Break Them All](https://forums.sufficientvelocity.com/threads/break-them-all-original-precross.12960/#post-2487370).
 >>>> 
+>>>> It's tough. All the stories I can think of are going to have the plot focus more on interpersonal relationships or outside impetuses... since that's how you get plot. I would check out [White Squirrel](https://www.fanfiction.net/u/5339762/White-Squirrel)'s stuff if you haven't. And maybe [Break Them All](https://forums.sufficientvelocity.com/threads/break-them-all-original-precross.12960/#post-2487370).
 
->>>>> **u/MemoriaPraeteritorum** [+1] *
+>>>>> **u/MemoriaPraeteritorum** [+1]  (2 days later)
 >>>>> 
 >>>>> I'll check these out, thank you!
->>>>> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (20 hours later)
 >> 
 >> I'm a little unclear. Would [Cradle](https://www.amazon.com/gp/aw/d/B0753FP6SP?ref_=dbs_w_series&storeType=ebooks) qualify or would it be too much like a training montage?
->> 
 
->>> **u/MemoriaPraeteritorum** [+1] *
+>>> **u/MemoriaPraeteritorum** [+1]  (a day later)
 >>> 
 >>> Thanks. I wish I could say; I haven't read Cradle, but I'm happy to give it a try if you think it's in the same general area of the ask.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> Ender's game perhaps?
->> 
 
->>> **u/MemoriaPraeteritorum** [+2] *
+>>> **u/MemoriaPraeteritorum** [+2]  (4 days later)
 >>> 
 >>> I actually didn't like Ender's Game much, but really enjoyed the main sequels starting with [Speaker for the Dead](https://en.wikipedia.org/wiki/Speaker_for_the_Dead). I can see why you'd recommend it though.
->>> 
 
-> **u/Markothy** [+5]  *Concent of Saunt Edhar**
+> **u/Markothy** [+3]  *Concent of Saunt Edhar* (7 hours later)
 > 
 > Anyone have anything similar to _Anathem_? I particularly enjoyed the calcas and the idea of an academic monastic order.
-> 
 
->> **u/Amonwilde** [+11] *
+>> **u/Amonwilde** [+10]  (7 hours later)
 >> 
 >> It's a bit challenging, but you've gotten through Anathem, so...
->> The [Prince of Nothing](https://www.goodreads.com/series/40519-the-prince-of-nothing) series by R. Scott Bakker is a fantasy series in which a major plot element is a sequestered society of hypertrained monks. It's a pretty fascinating series.
->> Dune also has some concept crossover here, as in computers and computer science being more or less banned.
 >> 
+>> The [Prince of Nothing](https://www.goodreads.com/series/40519-the-prince-of-nothing) series by R. Scott Bakker is a fantasy series in which a major plot element is a sequestered society of hypertrained monks. It's a pretty fascinating series.
+>> 
+>> Dune also has some concept crossover here, as in computers and computer science being more or less banned.
 
->>> **u/VanPeer** [+5]  *The shard made me do it**
+>>> **u/VanPeer** [+5]  *The shard made me do it* (10 hours later)
 >>> 
 >>> Prince of Nothing is amazing and left a permanent impression on me. 
->>> Warning for prospective readers: It is very dark and I had my heart broken several times.
 >>> 
+>>> Warning for prospective readers: It is very dark and I had my heart broken several times.
 
->>> **u/WalterTFD** [+2] *
+>>> **u/WalterTFD** [+2]  (12 hours later)
 >>> 
 >>> Second Prince Of Nothing.  Very good books, but very dark.
->>> 
 
->>> **u/None** [+0] *
+>>> **u/None** [+0]  (6 days later)
 >>> 
 >>> Prince of Nothing is also a deeply sexist series
->>> 
 
->>>> **u/Amonwilde** [+2] *
+>>>> **u/Amonwilde** [+2]  (6 days later)
 >>>> 
 >>>> Seems kind of reductive, but OK.
->>>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 days later)
 >> 
 >> The monasteries arent quite as structured and productive as the ones in Anathem, but I'd recommend checking out "A Canticle for Leibowitz". 
->> It's a slightly older novel about the aftermath of a nuclear holocaust and rebuilding of society. I guess (kind of obvious) warning that it's a bit dark and the style of its prose might not be for everyone.
 >> 
+>> It's a slightly older novel about the aftermath of a nuclear holocaust and rebuilding of society. I guess (kind of obvious) warning that it's a bit dark and the style of its prose might not be for everyone.
 
->> **u/MemoriaPraeteritorum** [+2] *
+>> **u/MemoriaPraeteritorum** [+2]  (4 days later)
 >> 
 >> I really enjoyed this aspect of Anathem as well! In my mind, the main sequels to Ender's Game, starting with [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead?from_search=true&qid=Kf1cQzY0s8&rank=1) are very similar in tone and atmosphere. They do not have academic monastic order, or plot similarities, so I'm mentioning them purely based on their feel.
->> 
 
->>> **u/Markothy** [+1]  *Concent of Saunt Edhar**
+>>> **u/Markothy** [+1]  *Concent of Saunt Edhar* (4 days later)
 >>> 
 >>> I've read them and loved them!
->>> 
 
->> **u/boomfarmer** [+1]  *Trying to be helpful**
+>> **u/boomfarmer** [+1]  *Trying to be helpful* (3 days later)
 >> 
 >> Similar to Anathem in my mind is Stephenson's The Diamond Age.
->> 
 
-> **u/TREB0R** [+5] *
+> **u/TREB0R** [+4]  (a day later)
 > 
 > [The Last Timeloop](https://www.royalroad.com/fiction/27746/the-last-time-loop-max-of-the-rebellion) on Royalroad has a very Mother of Learning vibe to it. It's a fun story and has been enjoyable so far. Not really rational and the energy requirements in the story are a mess and not too well thought out.
-> 
 
->> **u/OutOfNiceUsernames** [+15]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+15]  *fear of last pages* (2 days later)
 >> 
 >> It has a MoL vibe to it because it’s a a 3rd-wave [cargo](https://en.wikipedia.org/wiki/Cargo_cult)-imitation of MoL’s core idea. From Mother of Learning to a Russian pulp fiction writer appropriating the idea, to a royalroad translation of said Russian pulp fiction. MoL was initiated [in 10/2011](https://np.reddit.com/r/rational/comments/bo4myr/d_monday_request_and_recommendation_thread/eng4mh6/?context=3), while this series was mass-produced at a rate of five volumes in the span of [11.12.2018](https://litnet.com/ru/book/poslednyaya-petlya-b108097) – [19.11.2019]( https://litnet.com/ru/book/poslednyaya-petlya-5-nasledie-auri-b169298).
+>> 
 >> CONs:
+>> 
 >> * simplistic prose
 >> * characters’ dialogues, reactions, and decisions don’t make sense. For the sake of railroading into the badly designed predetermined plotline, everything else unnaturally warps out of its way to accommodate.
 >>  * often the narrator will acknowledge that the developments in the current scene / plot arc don’t make sense, will explain them away with a low-effort perfunctory handwave, and move on as if that was enough to fix the glaring writing problems at hand. One commonly used excuse is to blame the unnatural reactions and developments on "alien psychology", whereas in almost every other aspect these "aliens" behave like regular (badly written) humans in cheap costumes;
@@ -380,199 +356,195 @@ If you see someone making a top level post asking for recommendation, kindly dir
 >>  * "My gaze slid toward the deserted alley. Damn, every time I went to a similar place, I was abducted by battery hunters. However, lightning couldn’t strike in the same place three times. I would run there, check everything, and leave. .. Oh, no! It can’t be! .. blocking my way to freedom, stood two familiar guys .. God damn it, not now!" — ... ;
 >> * unnatural / unjustified decisions and reactions by others:
 >>  * some princess or whatnot of the invading empire:
->> >“It was nice to meet you,” I said. “It’d be nice to meet you in person.”
->> >“A request for a personal audience with Princess Ammi has been received.” The hologram that was speaking in an ordinary voice earlier now sounded a little mechanical.
->> >Damn! I was just trying to be polite, why do these aliens take everything too literally?!
->> >“Each imperial subject can ask to see the princess, but not everyone can figure out how to do this .. I cannot deny the meeting to the one who has guessed to call me, but I can punish if the reason does not meet the requirements.”
->> For an empire that spans across multiple solar systems, just statistical chances alone (if nothing else) would make such a rule ridiculously stupid. The dialogue itself also feels really forced. 
->> ---
->> Anyways, if you know Russian and are trying to decide whether or not to read this story, try *Мир Карика* instead. It’s by the same author, and it does have many problems discussed here (so just drop it if you see you’re disliking it), but at least it features more consistent world-building, has some interesting ideas, is less rushed, and has higher average quality.
 >> 
+>> >“It was nice to meet you,” I said. “It’d be nice to meet you in person.”
+>> 
+>> >“A request for a personal audience with Princess Ammi has been received.” The hologram that was speaking in an ordinary voice earlier now sounded a little mechanical.
+>> 
+>> >Damn! I was just trying to be polite, why do these aliens take everything too literally?!
+>> 
+>> >“Each imperial subject can ask to see the princess, but not everyone can figure out how to do this .. I cannot deny the meeting to the one who has guessed to call me, but I can punish if the reason does not meet the requirements.”
+>> 
+>> For an empire that spans across multiple solar systems, just statistical chances alone (if nothing else) would make such a rule ridiculously stupid. The dialogue itself also feels really forced. 
+>> 
+>> ---
+>> 
+>> Anyways, if you know Russian and are trying to decide whether or not to read this story, try *Мир Карика* instead. It’s by the same author, and it does have many problems discussed here (so just drop it if you see you’re disliking it), but at least it features more consistent world-building, has some interesting ideas, is less rushed, and has higher average quality.
 
->>> **u/TREB0R** [+3] *
+>>> **u/TREB0R** [+3]  (2 days later)
 >>> 
 >>> I noticed some of the things you mentioned and thought it was just the work of an amateur writer and not a translation. Thanks for the write up
->>> 
 
->> **u/valeskas** [+5] *
+>> **u/valeskas** [+5]  (2 days later)
 >> 
 >> A bit strange that there is no mention of the story being a translation. The [original](https://litnet.com/ru/reader/poslednyaya-petlya-b108097) currently have 5 volumes of about 70 chapters each.
->> 
 
->>> **u/TREB0R** [+1] *
+>>> **u/TREB0R** [+1]  (2 days later)
 >>> 
 >>> What the heck? I had no idea, good to know.
->>> 
 
-> **u/XxChronOblivionxX** [+6] *
+> **u/XxChronOblivionxX** [+5]  (9 hours later)
 > 
 > For those who didn't see it, the "We Want MoR" podcast just started on the original audiobook feed. Same deal as "We've Got Worm", an experienced reader and a new reader go through the story chapter by chapter and analyze it together.
-> Typing this made me realize I forgot to make a crosspost here for [today's episode](https://www.reddit.com/r/HPMOR/comments/dy2zwp/we_want_mor_chapter_6_discussion_thread), so derp, but I run the discussion threads and it would be great to get more activity there. My comments are stretching into the thousand word territories, as I have sooooo much to say about this story.
 > 
+> Typing this made me realize I forgot to make a crosspost here for [today's episode](https://www.reddit.com/r/HPMOR/comments/dy2zwp/we_want_mor_chapter_6_discussion_thread), so derp, but I run the discussion threads and it would be great to get more activity there. My comments are stretching into the thousand word territories, as I have sooooo much to say about this story.
 
-> **u/Iwasahipsterbefore** [+5] *
+> **u/Iwasahipsterbefore** [+6]  (9 hours later)
 > 
 > So, I just saw a comment being deleted for asking this question but hey, I'm legit curious and not trying to stir the pot.
-> Does anyone have any good anti-nazi fiction? I've been playing my way through Wolfenstein: The New Order and have been absolutely loving it. I think part of it is in most violent video games there's always a part of you going 'this is actually awful, and I would never do this in real life'. In Wolfenstein there's none of that moral greyness.
-> I'd love to read some fiction along the same lines. Decent grammar is a must, spelling slightly less so. I prefer longer works that I can fully immerse myself in; multi-million word epics are always welcome.
 > 
+> Does anyone have any good anti-nazi fiction? I've been playing my way through Wolfenstein: The New Order and have been absolutely loving it. I think part of it is in most violent video games there's always a part of you going 'this is actually awful, and I would never do this in real life'. In Wolfenstein there's none of that moral greyness.
+> 
+> I'd love to read some fiction along the same lines. Decent grammar is a must, spelling slightly less so. I prefer longer works that I can fully immerse myself in; multi-million word epics are always welcome.
 
->> **u/WalterTFD** [+15] *
+>> **u/WalterTFD** [+15]  (13 hours later)
 >> 
 >> You are probably going to have to be content with, like, Star Wars stuff and similar?  
->> Like...'the bad guys are an evil empire that wants to exterminate minorities' is super double popular.  Lots and lots of YA stories have these kind of deals, and 'they won and now we have to do a rebellion' (wolfenstein style) is also really popular.
->> But it is very rarely Actual Nazis.  You will almost always be dealing with analogs.  I don't think this is out of any weird authorial sympathy for 1940's villains, but just because if your setting is space or the past or the future past or an alternate world or whatever, really anything but WW2, it is just less work to put in your own analogs.
->> Soo...I think you can definitely find stories about rebellions against evil empires, but I think the nazi comparison will always be by analogy, rather than stories about punching Literal Space Hitler.
->> While I wrote the above I tried to think of a few of our sub's favorite ratfics, and actually we have something of a parsity of rebellion works right now.  I think it is because ratfic antags tend to be more, hrrm... all encompassing, yeah?  Like, the Nazis are fundamentally an 'in-context' problem.  Nazi world looks a lot like ours, with different flags and slightly fewer people.  Without going into spoilers a world where the antags from Ward, Practical Guide To Evil or Worth The Candle win are much more transformed.
 >> 
+>> Like...'the bad guys are an evil empire that wants to exterminate minorities' is super double popular.  Lots and lots of YA stories have these kind of deals, and 'they won and now we have to do a rebellion' (wolfenstein style) is also really popular.
+>> 
+>> But it is very rarely Actual Nazis.  You will almost always be dealing with analogs.  I don't think this is out of any weird authorial sympathy for 1940's villains, but just because if your setting is space or the past or the future past or an alternate world or whatever, really anything but WW2, it is just less work to put in your own analogs.
+>> 
+>> Soo...I think you can definitely find stories about rebellions against evil empires, but I think the nazi comparison will always be by analogy, rather than stories about punching Literal Space Hitler.
+>> 
+>> While I wrote the above I tried to think of a few of our sub's favorite ratfics, and actually we have something of a parsity of rebellion works right now.  I think it is because ratfic antags tend to be more, hrrm... all encompassing, yeah?  Like, the Nazis are fundamentally an 'in-context' problem.  Nazi world looks a lot like ours, with different flags and slightly fewer people.  Without going into spoilers a world where the antags from Ward, Practical Guide To Evil or Worth The Candle win are much more transformed.
 
->> **u/jtolmar** [+7] *
+>> **u/jtolmar** [+6]  (16 hours later)
 >> 
 >> If you want a story where the heroes use their brains and cleverness to repeatedly make a mockery of the nazis, but which is by no means rational in the slightest, then the 60s sitcom Hogan's Heroes is still really funny.
->> 
 
->> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> **u/traverseda** [+4]  *With dread but cautious optimism* (11 hours later)
 >> 
 >> Old captain america?
->> It's trite enough that I can't even find a tvtropes page for it. Lots of things that play with the idea of Nazis, but very little that's just like nazi-killing revenge fantasy stuff. I'm not sure how much you can actually explore the theme of "Nazis are bad" with out juxtaposing it against some other theme.
->> What would good "anti-nazi" fiction look like?
 >> 
+>> It's trite enough that I can't even find a tvtropes page for it. Lots of things that play with the idea of Nazis, but very little that's just like nazi-killing revenge fantasy stuff. I'm not sure how much you can actually explore the theme of "Nazis are bad" with out juxtaposing it against some other theme.
+>> 
+>> What would good "anti-nazi" fiction look like?
 
->>> **u/Iwasahipsterbefore** [+6] *
+>>> **u/Iwasahipsterbefore** [+4]  (12 hours later)
 >>> 
 >>> Probably a mixture of alternate history and spy v spy type shenanigans. A fantasy version of the Turing/Enigma race could be cool as well.
->>> 
 
->>>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>>>> **u/traverseda** [+4]  *With dread but cautious optimism* (21 hours later)
 >>>> 
 >>>> Ah, well how about "the man in the high castle"? "Dire:time"?
->>>> 
 
->> **u/ProfessorPhi** [+3] *
+>> **u/ProfessorPhi** [+3]  (23 hours later)
 >> 
 >> You should definitely watch Jacob Geller's video on the game if you haven't already. It's incredible https://youtu.be/DQQdnve5fQk
->> 
 
->> **u/Do_Not_Go_In_There** [+3] *
+>> **u/Do_Not_Go_In_There** [+3]  (a day later)
 >> 
 >> If you mean alternative history, I enjoyed reading [Making History](https://www.goodreads.com/book/show/41014989-making-history) by Stephen Fry a few years ago. It's based on the "A time traveler tries to kill baby Hitler" trope, except the guy made everything worse because as it turns out getting rid of Hitler doesn't get rid of anti-semitism or do anything to stop the rise of nationalism.
->> 
 
->> **u/boomfarmer** [+2]  *Trying to be helpful**
+>> **u/boomfarmer** [+2]  *Trying to be helpful* (3 days later)
 >> 
 >> Iron Sky?
->> 
 
->> **u/VapeKarlMarx** [+2] *
+>> **u/VapeKarlMarx** [+2]  (5 days later)
 >> 
 >> Is it the strong moral black and white element or the Hugo boss aesthetic you are interested in?
-
->> Right now you go to the right news sites and you are getting nonfiction on the subject which could be more or less the vibe you are going for.
 >> 
+>> Right now you go to the right news sites and you are getting nonfiction on the subject which could be more or less the vibe you are going for.
 
->>> **u/Iwasahipsterbefore** [+2] *
+>>> **u/Iwasahipsterbefore** [+2]  (6 days later)
 >>> 
 >>> It's a mixture of both. Black/white morals are fun in todays day and age because moral greyness is played out in practically every story, but it is just so much *more* satisfying to punch nazis.
->>> 
 
->> **u/Amonwilde** [+2] *
+>> **u/Amonwilde** [+2]  (2 days later)
 >> 
 >> Try [Have Spacesuit, Will Travel](https://en.wikipedia.org/wiki/Have_Space_Suit%E2%80%94Will_Travel) by Heinlein. Might take awhile for them to show up.
->> 
 
->> **u/blazinghand** [+1]  *Chaos Undivided**
+>> **u/blazinghand** [+1]  *Chaos Undivided* (3 days later)
 >> 
 >> Are we talking like, literal Nazis, or alien space Nazis?
->> 
 
-> **u/None** [+2] *
+> **u/None** [+3]  (31 minutes later)
 > 
 > [removed]
-> 
 
->> **u/alexanderwales** [+17]  *Time flies like an arrow**
+>> **u/alexanderwales** [+19]  *Time flies like an arrow* (5 hours later)
 >> 
 >> This comment was removed by Automod:
->> > I would like anti-Nazi stories and/or fanfics. Methods has some of this, as there is within it the obvious allegory in that irrational hatred of the *mudblood*, but it would be nice if there were some rational stories where that theme is made more explicit, and the position of obvious evil deconstructed, for that happens all so rarely.
->> Wondering why this comment is staying removed? [See here.](https://www.reddit.com/r/rational/comments/dy8g2p/meta_excuse_me_what_the_fuck_are_this_subreddits/)
 >> 
+>> > I would like anti-Nazi stories and/or fanfics. Methods has some of this, as there is within it the obvious allegory in that irrational hatred of the *mudblood*, but it would be nice if there were some rational stories where that theme is made more explicit, and the position of obvious evil deconstructed, for that happens all so rarely.
+>> 
+>> Wondering why this comment is staying removed? [See here.](https://www.reddit.com/r/rational/comments/dy8g2p/meta_excuse_me_what_the_fuck_are_this_subreddits/)
 
->>> **u/Nimelennar** [+13] *
+>>> **u/Nimelennar** [+13]  (8 hours later)
 >>> 
 >>> This freaking timeline.
->>> Who thought it would be funny to plug "What if events caused Godwin's Law to be changed, such that every conversation *immediately* became about Nazis?" into the simulation matrix?
 >>> 
+>>> Who thought it would be funny to plug "What if events caused Godwin's Law to be changed, such that every conversation *immediately* became about Nazis?" into the simulation matrix?
 
->>> **u/traverseda** [+17]  *With dread but cautious optimism**
+>>> **u/traverseda** [+17]  *With dread but cautious optimism* (5 hours later)
 >>> 
 >>> I reported this because it seemed likely this user was going to try and stir up controversy, and I thought it would be good for the mods to have eyes on it.
->>> (Apparently mobile doesn't let you give a report reason)
->>> I also did try to answer the question in good faith, the question itself definitely isn't a problem.
 >>> 
+>>> (Apparently mobile doesn't let you give a report reason)
+>>> 
+>>> I also did try to answer the question in good faith, the question itself definitely isn't a problem.
 
->>>> **u/Do_Not_Go_In_There** [+3] *
+>>>> **u/Do_Not_Go_In_There** [+3]  (6 hours later)
 >>>> 
 >>>> What made you think they were going to try to stir up controversy if it wasn't the question itself?
->>>> 
 
->>>>> **u/traverseda** [+25]  *With dread but cautious optimism**
+>>>>> **u/traverseda** [+26]  *With dread but cautious optimism* (7 hours later)
 >>>>> 
 >>>>> Context. The account being a throwaway and the question being an obvious response to the previous drama. It was clearly not a question asked for it's own sake, but asked to make some kind of political statement or test or something. Some ulterior motive.
->>>>> In this case at least the ulterior motive seemed to be pretty innocent, but stirring up controversy was another potential motive. Either way I thought it needed monitoring.
 >>>>> 
+>>>>> In this case at least the ulterior motive seemed to be pretty innocent, but stirring up controversy was another potential motive. Either way I thought it needed monitoring.
 
->>>>>> **u/Do_Not_Go_In_There** [+10] *
+>>>>>> **u/Do_Not_Go_In_There** [+11]  (a day later)
 >>>>>> 
 >>>>>> Fair enough. It seemed harmless to me, but the guy doubled down on "I was just testing you and you failed" so I guess you were right.
->>>>>> 
 
->>>> **u/Kelpsie** [+1] *
+>>>> **u/Kelpsie** [+1]  (4 days later)
 >>>> 
 >>>> > going to try
->>>> Good ole' pre-crime.
 >>>> 
+>>>> Good ole' pre-crime.
 
->>> **u/serge_cell** [+1] *
+>>> **u/serge_cell** [+1]  (15 hours later)
 >>> 
 >>> Wandering what would happen if you have moderator with  Cthulhu ancestry?
->>> 
 
->> **u/None** [+8] *
+>> **u/None** [+9]  (2 hours later)
 >> 
 >> Not rational, but Worm fanfic [Nimrod](https://forums.spacebattles.com/threads/nimrod-x-men-powertheft-complete.560830/) has a jewish character trigger with Magneto's powers and go on a killing spree against Brockton Bay's Nazi gang.
->> 
 
->> **u/Frommerman** [+9] *
+>> **u/Frommerman** [+9]  (2 hours later)
 >> 
 >> I have not read it, but [Tank](https://forums.spacebattles.com/threads/tank-worm-altpowertaylor-au-complete.700525/) is supposed to be a Worm crackfic where Taylor is an insane, slogan-spouting Stalinist with the ability to turn into an army of Soviet-era tanks. This is predictably bad news for the E88. It pokes fun at the wormfic community's tendency to try to tone down or redeem the E88. Instead of talking to the Nazis, she just sprays them with anti-personel rounds.
->> 
 
->>> **u/Dufaer** [+11] *
+>>> **u/Dufaer** [+11]  (7 hours later)
 >>> 
 >>> This does not really fit. Sure, the Nazis have a bad time, but so does everyone else.
 >>> > Taylor is satisfied that they accepted her authority as leader of the revolution. “If you are a kulak, come over here. Everyone else, be grateful the vanguard has arrived.”
->>> > “What is a kulak?” demands an angry, freckled Panacea. She’d know if she spent more Thursdays at school instead of the bank.
->>> > Taylor sighs. “If your household ‘earns’ more than $150,000 per annum or if you know what ‘per annum’ means, please form an orderly line in front of this tank.”
->>> > “But wait, if you’re using the phrase, don’t you know what--”
->>> > Taylor runs over Amy.
->>> > The hostages panic.
->>> > It is evident from their panic that they are all kulaks, so Taylor runs over all of them.
 >>> 
+>>> > “What is a kulak?” demands an angry, freckled Panacea. She’d know if she spent more Thursdays at school instead of the bank.
+>>> 
+>>> > Taylor sighs. “If your household ‘earns’ more than $150,000 per annum or if you know what ‘per annum’ means, please form an orderly line in front of this tank.”
+>>> 
+>>> > “But wait, if you’re using the phrase, don’t you know what--”
+>>> 
+>>> > Taylor runs over Amy.
+>>> 
+>>> > The hostages panic.
+>>> 
+>>> > It is evident from their panic that they are all kulaks, so Taylor runs over all of them.
 
->>>> **u/Frommerman** [+9] *
+>>>> **u/Frommerman** [+8]  (7 hours later)
 >>>> 
 >>>> The whole thing is also a parody of the evils of Tankies, and the evils of centrists who validate both Tankies and Nazis.
->>>> 
 
->>> **u/VapeKarlMarx** [+1] *
+>>> **u/VapeKarlMarx** [+1]  (6 days later)
 >>> 
 >>> That sounds pretty amazing
->>> 
 
->> **u/traverseda** [+4]  *With dread but cautious optimism**
+>> **u/traverseda** [+6]  *With dread but cautious optimism* (3 hours later)
 >> 
 >> The [whateley universe](https://tvtropes.org/pmwiki/pmwiki.php/Literature/WhateleyUniverse) is not something I could really recommend, but it explores some interesting concepts. Probably hits on some of the points you're looking for, as would most things X-Men inspired.
->> 
 
 ---
 

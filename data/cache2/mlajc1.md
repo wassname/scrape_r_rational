@@ -2,7 +2,7 @@
 
 * Author: u/Bowbreaker  *Solitary Locust**
 * URL: https://hpmorpodcast.com/?p=2791
-* Score: 18
+* Score: 19
 
 * Created: 2021-04-06T12:30:25
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Bowbreaker** [+4]  *Solitary Locust**
+> **u/Bowbreaker** [+4]  *Solitary Locust* (28 seconds later)
 > 
 > Put Ch 13+ spoilers in spoiler tags.
-> 
 
 ---
 

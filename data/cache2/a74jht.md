@@ -12,203 +12,223 @@
 
 ### Comments:
 
-> **u/SkyTroupe** [+14] *
+> **u/SkyTroupe** [+14]  (33 minutes later)
 > 
 > I'm so confused by their logical chain. It kind of lost me around the time they made it to Kakashi. It MAKES sense, but only after you put so many conditionals on it that if one falls apart the whole thing does.
-> 
 
->> **u/CaseyAshford** [+16] *
+>> **u/CaseyAshford** [+14]  (an hour later)
 >> 
 >> My perspective is that this was a deliberate point. It showed how even extremely intelligent people can come to extremely inaccurate conclusions when they don't understand how to actually analyze their arguments.
->> I also think that the version posted at Sufficient Velocity has some advantages as the description of Inductive Reasoning provided at the top makes it easier to understand what is going on.
 >> 
+>> I also think that the version posted at Sufficient Velocity has some advantages as the description of Inductive Reasoning provided at the top makes it easier to understand what is going on.
 
->>> **u/Sophronius** [+7]  *The Need to Become Stronger**
+>>> **u/Sophronius** [+8]  *The Need to Become Stronger* (3 hours later)
 >>> 
 >>> Kinda yes, kinda no.
->>> Sasuke is very definitely emotionally biased when it comes to his brother, and Naruto has a tendency to express his ideas a little more confidently than is warranted when he gets excited, so you're definitely right that this chapter shows how intelligent people can act irrationally. But a lot of what Naruto says is not necessarily irrational, given his information.
->>> Yes, Naruto is concluding a \*lot\* based on very little evidence. But on the other other hand, Naruto is 100% correct that the official story of what happened to the Uchiha has more holes than a broken sieve, and that the implications of a mind control technique if it does exist are enormous. And given his prior knowledge of a shadowy figure manipulating things behind the scenes, it's not surprising that he jumped onto this as an explanation.
->>> Think of it this way. Imagine seeing in the news that everybody in a village in China suddenly died. The official story is that a brilliant scientist in that village suddenly went crazy and killed everyone in the middle of the night, then disappeared only to be seen working for some terrorist organisation which is rumoured to have ties to the government. There is zero photo evidence of the event and all the satellites (the Hyuga) could not get a clear image because it was too cloudy. Nobody gets to see the bodies of the people who died. Anyone who questions the official narrative is derided by the media as a conspiracy loon.
->>> Any rational person who looks at that chain of events would instantly realize something fishy is going on. You'd be 100% justified in concluding that this scientist must have discovered something of extraordinary importance to justify a coverup of this magnitude, and you'd have every reason to wonder about the implications that such a coverup can even be made to work in the first place. Now let's say you're also part of a secret investigation about bioweapons being researched in China, and that the mad scientist's best friend died from a horrible disease just a few months beforehand. You can't be certain these things are related, but you'd have to wonder...
 >>> 
+>>> Sasuke is very definitely emotionally biased when it comes to his brother, and Naruto has a tendency to express his ideas a little more confidently than is warranted when he gets excited, so you're definitely right that this chapter shows how intelligent people can act irrationally. But a lot of what Naruto says is not necessarily irrational, given his information.
+>>> 
+>>> Yes, Naruto is concluding a \*lot\* based on very little evidence. But on the other other hand, Naruto is 100% correct that the official story of what happened to the Uchiha has more holes than a broken sieve, and that the implications of a mind control technique if it does exist are enormous. And given his prior knowledge of a shadowy figure manipulating things behind the scenes, it's not surprising that he jumped onto this as an explanation.
+>>> 
+>>> Think of it this way. Imagine seeing in the news that everybody in a village in China suddenly died. The official story is that a brilliant scientist in that village suddenly went crazy and killed everyone in the middle of the night, then disappeared only to be seen working for some terrorist organisation which is rumoured to have ties to the government. There is zero photo evidence of the event and all the satellites (the Hyuga) could not get a clear image because it was too cloudy. Nobody gets to see the bodies of the people who died. Anyone who questions the official narrative is derided by the media as a conspiracy loon.
+>>> 
+>>> Any rational person who looks at that chain of events would instantly realize something fishy is going on. You'd be 100% justified in concluding that this scientist must have discovered something of extraordinary importance to justify a coverup of this magnitude, and you'd have every reason to wonder about the implications that such a coverup can even be made to work in the first place. Now let's say you're also part of a secret investigation about bioweapons being researched in China, and that the mad scientist's best friend died from a horrible disease just a few months beforehand. You can't be certain these things are related, but you'd have to wonder...
 
->>> **u/SkyTroupe** [+5] *
+>>> **u/SkyTroupe** [+5]  (3 hours later)
 >>> 
 >>> That makes things clearer for me. Thanks!
->>> 
 
-> **u/CaseyAshford** [+11] *
+> **u/CaseyAshford** [+9]  (an hour later)
 > 
 > Something I find really amusing is that one of the key assumptions that Naruto and Sasuke are making (Kotoamatsukami can be used freely) could potentially have been disproved if they had decided to involve Sakura.
-> Sakura is a medic and as such she should find it significantly easier to realize that jutsu that can only be used by opening one of the Eight Gates would take a terrible toll on the body and could not possibly be used as indiscriminately as Naruto and Sasuke envision. A medical perspective could also provide an alternative explanation for the seemingly arbitrary once a decade limitation on Kotoamatsukami as it could very well be that the reason for this limitation is that overuse kills or destroys the Sharigan.
 > 
+> Sakura is a medic and as such she should find it significantly easier to realize that jutsu that can only be used by opening one of the Eight Gates would take a terrible toll on the body and could not possibly be used as indiscriminately as Naruto and Sasuke envision. A medical perspective could also provide an alternative explanation for the seemingly arbitrary once a decade limitation on Kotoamatsukami as it could very well be that the reason for this limitation is that overuse kills or destroys the Sharigan.
 
->> **u/Sophronius** [+11]  *The Need to Become Stronger**
+>> **u/Sophronius** [+11]  *The Need to Become Stronger* (2 hours later)
 >> 
 >> Lee uses the 8 Gates on a semi-regular basis, and opening just the first one doesn't seem to cause much in the way of permanent damage. Besides, for all his irrationality in this chapter Sasuke does acknowledge this point:
->> >“You said that the first thing you would do is to mind control anyone  with the same ability. But what if you’re just one person and you only  just learned this new power from your closest friend? Even if all the  other restrictions are a lie, using the Mangekyō still comes with risk.  What would you do in that case, Naruto?”
->> Sasuke doesn't actually believe Itachi went and used Kotoamatsukami on everyone. He believes that Itachi used it on Kakashi, Danzo, Inoichi, the leader of the Akatsuki and maybe a few others. That's perfectly feasible if the risk is comparable with opening the first Gate (though in practice it would be quite different, since all of that power is focussed on just the eyes).
 >> 
+>> >“You said that the first thing you would do is to mind control anyone  with the same ability. But what if you’re just one person and you only  just learned this new power from your closest friend? Even if all the  other restrictions are a lie, using the Mangekyō still comes with risk.  What would you do in that case, Naruto?”
+>> 
+>> Sasuke doesn't actually believe Itachi went and used Kotoamatsukami on everyone. He believes that Itachi used it on Kakashi, Danzo, Inoichi, the leader of the Akatsuki and maybe a few others. That's perfectly feasible if the risk is comparable with opening the first Gate (though in practice it would be quite different, since all of that power is focussed on just the eyes).
 
->>> **u/SkyTroupe** [+4] *
+>>> **u/SkyTroupe** [+5]  (3 hours later)
 >>> 
 >>> Why doesn't Sasuke assume Itachi  used Kotoamatsukami on him? Especially if they deduced that the once a decade thing is arbitrary? 
->>> Also, two things. One, I thought Naruto left a shadow clone with Temari, not Sasuke, does that mean the Naruto at the meeting was a shadow clone the whole time?
->>> Two, when did they discover that Naruto doesn't get the memories back from the clones when their chakra is expended all at once? Won't this cause Naruto to be even more suspicious of Sasuke?
 >>> 
+>>> Also, two things. One, I thought Naruto left a shadow clone with Temari, not Sasuke, does that mean the Naruto at the meeting was a shadow clone the whole time?
+>>> 
+>>> Two, when did they discover that Naruto doesn't get the memories back from the clones when their chakra is expended all at once? Won't this cause Naruto to be even more suspicious of Sasuke?
 
->>>> **u/GreatSwordsmith** [+6] *
+>>>> **u/GreatSwordsmith** [+5]  (11 hours later)
 >>>> 
 >>>> Sasuke knows about how Naruto clones memory works because he's casually mind reading him, there were a bunch of hints in chp 40, he seems very confident that Naruto is not secure against mind readers, and this quote from the end of this chapter might as well be a signed confession
 >>>> “Ino’s clan is able to read minds, and you’re definitely right that anyone with sufficient genjutsu skill can learn the same ability.”
->>>> 
 
->>>>> **u/SkyTroupe** [+3] *
+>>>>> **u/SkyTroupe** [+3]  (17 hours later)
 >>>>> 
 >>>>> I'm gonna have to go back and re-read the whole story. I feel like I've missed a lot of implications after this rapid update schedule.
->>>>> 
 
->>>>>> **u/kaukamieli** [+5] *
+>>>>>> **u/kaukamieli** [+5]  (21 hours later)
 >>>>>> 
 >>>>>> Yea I also feel I need to reread this thing. Again. There is lot of very interesting stuff in this fic, but it's all mixed up with others I've been reading at the same time in my head. Weakness of reading multiple ongoing serials from same universe.
->>>>>> 
 
->>>> **u/Sophronius** [+3]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+3]  *The Need to Become Stronger* (a day later)
 >>>> 
 >>>> Naruto's original body is still in the prayer room instructing Lee, Shino and Tenten. So this is a clone of a clone with only a fraction of the original's chakra, which is why Sasuke was able to overpower Naruto with genjutsu in the first place. (Well, that and the fact that Naruto sucks at genjutsu and did not flare his chakra in time)
->>>> 
 
->>>>> **u/SkyTroupe** [+2] *
+>>>>> **u/SkyTroupe** [+2]  (a day later)
 >>>>> 
 >>>>> Okay I reread it and totally missed that. Thank you!
->>>>> 
 
->>> **u/elrathj** [+2] *
+>>> **u/elrathj** [+2]  (6 days later)
 >>> 
 >>> I am curious what a sharingan user sees when another uchiha is using their eyes. Shouldn't they see the Chakra Gate opening? If the sharingan is only line-of-sight then I wonder what the byakugan sees when the sharingan is activated. 
->>> Does the uchiha's chakra "field" obscure internal observation?
 >>> 
+>>> Does the uchiha's chakra "field" obscure internal observation?
 
->>>> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+2]  *The Need to Become Stronger* (6 days later)
 >>>> 
 >>>> Good point. In NTBS you can't really see through chakra though - the Byakugan can make out Tenketsu as glowing spots on the user's body, but looking right into someone's brain would be impossible. So in the case of the Mangekyo,  it would simply look to another Uchiha like the user was channelling a ton of chakra to their eye, which wouldn't be enough to figure out what was really happening.
->>>> 
 
->>>>> **u/elrathj** [+1] *
+>>>>> **u/elrathj** [+1]  (6 days later)
 >>>>> 
 >>>>> Does that mean that the gates are metaphorical? Because ninja have no qualms cutting people up, I just assumed that a non-literal organ would be dropped from their language.
->>>>> Unless the structure of the human body is kept under wraps... there's definitely canon examples of the villages recovering their dead so that enemies couldn't dissect the corpse. Is it feasible to keep that simple and mundane of a secret from so many people?
->>>>> With mind controlling ninja, I guess even something as concrete as what organs human organs have can be hidden. 
->>>>> Chilling.
 >>>>> 
+>>>>> Unless the structure of the human body is kept under wraps... there's definitely canon examples of the villages recovering their dead so that enemies couldn't dissect the corpse. Is it feasible to keep that simple and mundane of a secret from so many people?
+>>>>> 
+>>>>> With mind controlling ninja, I guess even something as concrete as what organs human organs have can be hidden. 
+>>>>> 
+>>>>> Chilling.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 hours later)
 >> 
 >> The mangekyo sharingan made the user go blind in the manga
->> 
 
->>> **u/kaukamieli** [+1] *
+>>> **u/kaukamieli** [+1]  (21 hours later)
 >>> 
 >>> Unless they switched eyes with someone else, which is why Itachi left Sasuke alive, right?
->>> 
 
-> **u/GreatSwordsmith** [+9] *
+> **u/GreatSwordsmith** [+9]  (2 hours later)
 > 
 > Naruto/Sasuke's line of logic here seems to begin from a pretty interesting faulty assumption. They just assume that the Kotoamatsukami is real, does exactly what the rumors claim it does and can be used if not on demand, more often than once in every 10 years. First off of course there really is no clear reason to even believe that the Kotoamatsukami is as powerful as it seems. It's possible that the claims of what it can do are the same as the Uchiha's claiming the Sharingan can see the future, misinformation. If anything, we have decent evidence against the idea that it's that powerful, Madara lost his fight against the first Hokage and there is no evidence that he ever used the Kotoamatsukami. You'd have to assume that he just never realized he could use it, or that the first had some kind of defense against it.  
-> The other faulty assumption they make is that the idea that it can only be used every 10 years being an obvious lie, their issue of how anyone could know is easily solved, they're standing next to a slab which describes the power of the Mangekyō. Their other issue is more interesting though, why would it work like that? No other jutsu works like that so claiming without explanation that the Kotoamatsukami can only work every 10 years is unlikely. 
-> At this point I'm moving into rampant speculation, but what if instead you could only have the Kotoamatsukami active on some hard limit of people at one time, the first person who used it, wanting to hide this weakness said that it could only be used every 10 years or "as good as forever". Before I explain why this might be the case I should note that the very idea of the Kotoamatsukami seems a little unlikely to me. Genjutsu which can infect the brain and cause illusions makes sense, a not un-common mental condition already does that so inflicting it shouldn't be that hard, even body-bind Genjutsu which controls the brain to shut down movement makes sense (look up sleep paralysis if that sounds unlikely to you), but rewriting the brain to change their personality stretches my credulity, how would you even know what to change? If we could explain how the Kotoamatsukami works without relying on a new level of genjutsu never before seen, that explanation would be somewhat likely. What if the Kotoamatsukami works by making a shadow clone, but instead of using chakra as a base to create a physical body for a splintered off part of your mind instead you send the splintered part of your mind into someone elses body, completely possessing them, or maybe just giving them a voice in their head that tells them to do things. In this case the reason for why you could only infect a hard limit of people at a time becomes logical, most people can't make more than 1 or 2 shadow clones at a time, partially because of chakra limitations but partially because splintering your mind is so difficult. If unlike shadow clones, your clones couldn't make more clones then you might just end up with a hard limit.
-> Wow, that whole paragraph doesn't have much evidence behind it. Maybe you should just ignore it...
-> Either way, I'm interested to see what Sasuke does with his probably wrong assumptions, and how Naruto reacts to his clone never returning from his talk with Sasuke.
 > 
+> The other faulty assumption they make is that the idea that it can only be used every 10 years being an obvious lie, their issue of how anyone could know is easily solved, they're standing next to a slab which describes the power of the Mangekyō. Their other issue is more interesting though, why would it work like that? No other jutsu works like that so claiming without explanation that the Kotoamatsukami can only work every 10 years is unlikely. 
+> 
+> At this point I'm moving into rampant speculation, but what if instead you could only have the Kotoamatsukami active on some hard limit of people at one time, the first person who used it, wanting to hide this weakness said that it could only be used every 10 years or "as good as forever". Before I explain why this might be the case I should note that the very idea of the Kotoamatsukami seems a little unlikely to me. Genjutsu which can infect the brain and cause illusions makes sense, a not un-common mental condition already does that so inflicting it shouldn't be that hard, even body-bind Genjutsu which controls the brain to shut down movement makes sense (look up sleep paralysis if that sounds unlikely to you), but rewriting the brain to change their personality stretches my credulity, how would you even know what to change? If we could explain how the Kotoamatsukami works without relying on a new level of genjutsu never before seen, that explanation would be somewhat likely. What if the Kotoamatsukami works by making a shadow clone, but instead of using chakra as a base to create a physical body for a splintered off part of your mind instead you send the splintered part of your mind into someone elses body, completely possessing them, or maybe just giving them a voice in their head that tells them to do things. In this case the reason for why you could only infect a hard limit of people at a time becomes logical, most people can't make more than 1 or 2 shadow clones at a time, partially because of chakra limitations but partially because splintering your mind is so difficult. If unlike shadow clones, your clones couldn't make more clones then you might just end up with a hard limit.
+> 
+> Wow, that whole paragraph doesn't have much evidence behind it. Maybe you should just ignore it...
+> 
+> Either way, I'm interested to see what Sasuke does with his probably wrong assumptions, and how Naruto reacts to his clone never returning from his talk with Sasuke.
 
->> **u/Sophronius** [+5]  *The Need to Become Stronger**
+>> **u/Sophronius** [+5]  *The Need to Become Stronger* (3 hours later)
 >> 
 >> >They just assume that the Kotoamatsukami is real, does exactly what the  rumors claim it does and can be used if not on demand, more often than  once in every 10 years. First off of course there really is no clear  reason to even believe that the Kotoamatsukami is as powerful as it  seems. It's possible that the claims of what it can do are the same as  the Uchiha's claiming the Sharingan can see the future, misinformation.
->> Kinda. You have to remember that Naruto's source of information here is Sasuke - the son of the Uchiha clan leaders, who was around when Shisui was said to have gained this ability. Sasuke was perfectly aware of all the lies that were being spread about the Sharingan. It's true that there could have been additional misinformation about the Mangekyo that he did not know about (and indeed, there clearly was) but it doesn't make much sense to create a rumour that you have an ability that makes you a threat to the entire Village, and then lie again by saying that the only person who could use it just died. The only way that makes sense is if they first spread a lie to make themselves seem more powerful, then regretted it and tried to cover it up poorly. Which is not impossible.
->> You're definitely right though that neither of them know the exact mechanics of how Kotoamatsukami would even work, and the specifics of that would have huge implications for how they should expect their world to look.
 >> 
+>> Kinda. You have to remember that Naruto's source of information here is Sasuke - the son of the Uchiha clan leaders, who was around when Shisui was said to have gained this ability. Sasuke was perfectly aware of all the lies that were being spread about the Sharingan. It's true that there could have been additional misinformation about the Mangekyo that he did not know about (and indeed, there clearly was) but it doesn't make much sense to create a rumour that you have an ability that makes you a threat to the entire Village, and then lie again by saying that the only person who could use it just died. The only way that makes sense is if they first spread a lie to make themselves seem more powerful, then regretted it and tried to cover it up poorly. Which is not impossible.
+>> 
+>> You're definitely right though that neither of them know the exact mechanics of how Kotoamatsukami would even work, and the specifics of that would have huge implications for how they should expect their world to look.
 
-> **u/Sophronius** [+6]  *The Need to Become Stronger**
+> **u/Sophronius** [+7]  *The Need to Become Stronger* (an hour later)
 > 
 > The author's notes as posted on FFnet:
-> >**A/N:** The chapter title refers to induction, which is the opposite form of logic that Sherlock Holmes claims to be doing. Deduction is when you have eliminated all other possible answers, and so the remaining one must be correct. Induction is when you observe that pigs so far have never been shown to fly, and so conclude that they probably will never be able to (e.g. the laws of nature). Philosophers sometimes sniff at this type of practical logic and call it a fallacy because we can’t be *certain* that pigs aren’t inventing jetpacks as we speak. However, the fact is that we can never be 100% certain of anything in life, and so the ability to reliably guess at answers based on uncertain information is actually a crucial skill for any aspiring rationalist to learn.
-> As mentioned before, I find it kind of hard to put in every bit of rationalist exposition in the story without slowing down the flow of things, so I'm thinking I might make these notes a regular thing, kind of like in Scar's Samsara where every chapter started with a brief explanation of what the chapter was about. Of course, this is mostly written for the [fanfiction.net](https://fanfiction.net) audience, so it'll probably be pretty familiar material for people here on r/rational.
 > 
+> >**A/N:** The chapter title refers to induction, which is the opposite form of logic that Sherlock Holmes claims to be doing. Deduction is when you have eliminated all other possible answers, and so the remaining one must be correct. Induction is when you observe that pigs so far have never been shown to fly, and so conclude that they probably will never be able to (e.g. the laws of nature). Philosophers sometimes sniff at this type of practical logic and call it a fallacy because we can’t be *certain* that pigs aren’t inventing jetpacks as we speak. However, the fact is that we can never be 100% certain of anything in life, and so the ability to reliably guess at answers based on uncertain information is actually a crucial skill for any aspiring rationalist to learn.
+> 
+> As mentioned before, I find it kind of hard to put in every bit of rationalist exposition in the story without slowing down the flow of things, so I'm thinking I might make these notes a regular thing, kind of like in Scar's Samsara where every chapter started with a brief explanation of what the chapter was about. Of course, this is mostly written for the [fanfiction.net](https://fanfiction.net) audience, so it'll probably be pretty familiar material for people here on r/rational.
 
->> **u/SkyTroupe** [+5] *
+>> **u/SkyTroupe** [+5]  (3 hours later)
 >> 
 >> Could you include these on the WordPress version too if you are going to make them regular?
->> 
 
->> **u/kaukamieli** [+1] *
+>> **u/kaukamieli** [+1]  (a day later)
 >> 
 >> I'd really prefer if this kind of notes, which aren't really long, would be in the text. Maybe as a header or footnote, clearly separated from the actual story.
->> 
 
-> **u/ManMagnificent** [+5] *
+> **u/ManMagnificent** [+5]  (21 hours later)
 > 
 > So, there's nothing constructive in this, but it's one of those posts that'll be mainly gushing. 
-> I've liked this story since the beginning. I like me some Naruto, Intelligent!Naruto more than anything and even we can, Rational!Naruto's the best. So you had me pretty sold from the beginning. 
-> But my liking this story quickly turned into love because of the *lore.* There's nothing I love more than a theory of how things works that's consistent throughout and this story has been pretty good at that. But that's all just gotten better spanning from Naruto v Gaara fight to everything that happened in the update today, as if all the pieces that have been laid throughout are coming together.  
-> I've recently started writing a fic set in the Naruto world and the thought you've put into how jutsu work is helping in forming the base in my own understanding of how they work and that's been really helpful. 
-> So thanks for writing this and keep on keeping on. 
-> &#x200B;
 > 
+> I've liked this story since the beginning. I like me some Naruto, Intelligent!Naruto more than anything and even we can, Rational!Naruto's the best. So you had me pretty sold from the beginning. 
+> 
+> But my liking this story quickly turned into love because of the *lore.* There's nothing I love more than a theory of how things works that's consistent throughout and this story has been pretty good at that. But that's all just gotten better spanning from Naruto v Gaara fight to everything that happened in the update today, as if all the pieces that have been laid throughout are coming together.  
+> 
+> I've recently started writing a fic set in the Naruto world and the thought you've put into how jutsu work is helping in forming the base in my own understanding of how they work and that's been really helpful. 
+> 
+> So thanks for writing this and keep on keeping on. 
+> 
+> &#x200B;
 
->> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>> **u/Sophronius** [+2]  *The Need to Become Stronger* (22 hours later)
 >> 
 >> Thanks for the kind words!
->> 
 
-> **u/RRTCorner** [+3] *
+> **u/RRTCorner** [+3]  (14 hours later)
 > 
 > I really like how they start with letting the "facts flow" and then once they become exited they just run with it. I guess much of their conclusions are wrong even in the NTBS world, but the mistakes are subtle. Somewhere between HPMOR and Unsong level of subtly .
-> &#x200B;
-> Well done!
 > 
+> &#x200B;
+> 
+> Well done!
 
-> **u/RRTCorner** [+2] *
+> **u/RRTCorner** [+2]  (14 hours later)
 > 
 > Nitpick: I am pretty sure your use of the word **Corollary** in "*Corollary: What other examples of powers requiring stress to unlock are known?"* is 'wrong'. English is not my first language, but I am a mathematician and it does sound pretty weird. Quick google search seems to agree that it is reserved for propositions and not for questions.
-> 
 
->> **u/Sophronius** [+1]  *The Need to Become Stronger**
+>> **u/Sophronius** [+1]  *The Need to Become Stronger* (16 hours later)
 >> 
 >> Erp, I think you're right. What's a good word that fulfils the same function as corollary but in question form? Is there one?
+>> 
 >> &#x200B;
+>> 
 >> Edit: Then again, Webster seems to agree with my use of the word, at least in the informal sense:
+>> 
 >> >a : something that naturally follows **:** [result](https://www.merriam-webster.com/dictionary/result) // love was a stormy passion and jealousy its normal corollary.— Ida Treat  
 >> >  
 >> >b  **:** something that incidentally or naturally accompanies or parallels // A corollary to the problem of the number of vessels to be built was that of the types of vessels to be constructed.— Daniel Marx
->> 
 
->>> **u/Ristridin1** [+2] *
+>>> **u/Ristridin1** [+2]  (a day later)
 >>> 
 >>> Not a native speaker either, but I will note that I have only seen the word corollary used to indicate a natural consequence, and definition b seems completely wrong to me. I'm also a mathematician though, so we might simply be stuck on our own island of linguistical ignorance (and fighting a dictionary definition is probably not the wisest course of action in most cases). Still, I would double-check with a native speaker, preferably a non-mathematician.
+>>> 
 >>> > Question: Why does it need to be awoken at all? What disadvantage is there to having more power?
+>>> 
 >>> > Corollary question: What other examples of powers requiring stress to unlock are known?
+>>> 
 >>> Even granting definition b though, I'm not sure that the second question is a corollary to the first. You have two (actually three) questions that are more or less unrelated, covering separate issues. The number of vessels to be built is related to the types of vessels; if you want to build large ships, you can only build few, while if you want to build small ships, you may be able to buy many. For this reason, the question of type is a natural follow-up question (my preferred synonym for your definition of corollary question) to the question of number. The question of why the Mangekyou needs to be awoken however does not require consideration of powers that require stress to unlock; there's no feeling of it being a natural follow-up question to the first one. At best, it's a natural question to ask when faced with the preceding Fact.
+>>> 
 >>> In my mind, the natural sequence of thoughts is at follows (mostly preserving your order; adding a bit):
 >>> > Fact: The Sharingan becomes stronger from stress. The Mangekyō requires even more stress to awaken.
->>> > Question: Why does it need to be awoken at all?
->>> > Answer: Don't know. Is there some disadvantage to using its power? Chakra usage? Is it simply something that needs to be learned, like children being unable to use chakra techniques from birth? Is stress even a required ingredient to awaken it?
->>> > Follow-up question: Do we know of other examples of powers requiring stress to unlock?
->>> > Answer: Only the Eight Gates technique, which enhances your power at the risk of hurting yourself. Which... is a pretty good reason for the Mangekyou to be locked. 
->>> [Incidentally, I would consider that last sentence to be a corollary in a colloquial sense; in a mathematical sense, it's a little too imprecise.]
->>> Note that the above argument still feels flawed to me; in my mind there's a step missing explaining that being born with such a power unlocked would be lethal to you, so we don't observe individuals with an unlocked Mangekyou. Still, getting genetics in there is probably too much.
->>> Ok, I probably spent way too long on a single word. TL;DR: Using the word 'corollary' in this sense bothers me enough to write a long reddit post on it. :P
 >>> 
+>>> > Question: Why does it need to be awoken at all?
+>>> 
+>>> > Answer: Don't know. Is there some disadvantage to using its power? Chakra usage? Is it simply something that needs to be learned, like children being unable to use chakra techniques from birth? Is stress even a required ingredient to awaken it?
+>>> 
+>>> > Follow-up question: Do we know of other examples of powers requiring stress to unlock?
+>>> 
+>>> > Answer: Only the Eight Gates technique, which enhances your power at the risk of hurting yourself. Which... is a pretty good reason for the Mangekyou to be locked. 
+>>> 
+>>> [Incidentally, I would consider that last sentence to be a corollary in a colloquial sense; in a mathematical sense, it's a little too imprecise.]
+>>> 
+>>> Note that the above argument still feels flawed to me; in my mind there's a step missing explaining that being born with such a power unlocked would be lethal to you, so we don't observe individuals with an unlocked Mangekyou. Still, getting genetics in there is probably too much.
+>>> 
+>>> Ok, I probably spent way too long on a single word. TL;DR: Using the word 'corollary' in this sense bothers me enough to write a long reddit post on it. :P
 
->>>> **u/Sophronius** [+2]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+2]  *The Need to Become Stronger* (a day later)
 >>>> 
 >>>> Hm, interesting. I checked again to be sure, but even google seems to agree with me. If I type in define:corollary, I get this as the second definition:
->>>> >adjective: **corollary**
->>>> 1. forming a proposition that follows from one already proved.
->>>> >associated or supplementary."the court did not answer a corollary question"
->>>> It even volunteers the phrase "corollary question", so I definitely didn't just make it up. I suspect it really is just a difference in how mathematicians use it vs how it is used colloquially. Still, I'll change it to "follow-up question", if only to avoid tripping readers up.
->>>> >You have two (actually three) questions that are more or less unrelated,  covering separate issues... The question of why the Mangekyou  needs to be awoken however does not require consideration of powers that  require stress to unlock; there's no feeling of it being a natural  follow-up question to the first one. At best, it's a natural question to  ask when faced with the preceding Fact.
->>>> Ah, now this I totally disagree with. Naruto is implying a chain of reasoning here wherein the only logical reason for a power to need awakening is if it has some kind of risk attached to it, and that the mechanism by which this works is likely similar to other powers which also require stress to awaken. Naruto is cutting some logical corners here to get to his destination, sure, but the questions certainly are not unrelated.
 >>>> 
+>>>> >adjective: **corollary**
+>>>> 
+>>>> 1. forming a proposition that follows from one already proved.
+>>>> 
+>>>> >associated or supplementary."the court did not answer a corollary question"
+>>>> 
+>>>> It even volunteers the phrase "corollary question", so I definitely didn't just make it up. I suspect it really is just a difference in how mathematicians use it vs how it is used colloquially. Still, I'll change it to "follow-up question", if only to avoid tripping readers up.
+>>>> 
+>>>> >You have two (actually three) questions that are more or less unrelated,  covering separate issues... The question of why the Mangekyou  needs to be awoken however does not require consideration of powers that  require stress to unlock; there's no feeling of it being a natural  follow-up question to the first one. At best, it's a natural question to  ask when faced with the preceding Fact.
+>>>> 
+>>>> Ah, now this I totally disagree with. Naruto is implying a chain of reasoning here wherein the only logical reason for a power to need awakening is if it has some kind of risk attached to it, and that the mechanism by which this works is likely similar to other powers which also require stress to awaken. Naruto is cutting some logical corners here to get to his destination, sure, but the questions certainly are not unrelated.
 
 ---
 

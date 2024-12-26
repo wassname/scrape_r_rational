@@ -2,7 +2,7 @@
 
 * Author: u/lumenwrites *
 * URL: https://www.reddit.com/r/rational/comments/gh6x7g/black_sails_is_very_very_very_good_you_guys_will/
-* Score: 74
+* Score: 72
 
 * Created: 2020-05-10T18:42:30
 
@@ -16,161 +16,161 @@ I've just finished season 1 out of 4, and I'm completely blown away, it's like n
 
 ### Comments:
 
-> **u/waylandertheslayer** [+32] *
+> **u/waylandertheslayer** [+34]  (an hour later)
 > 
 > Some more info for anyone interested:
-> Black Sails is a prequel series for Robert Louis Stevenson's *Treasure Island*. It follows Captain Flint and John Silver through the events that lead to the treasure being buried on the titular island in the first place.
-> The production quality is very high, and some of the battle scenes are extremely explicit (there's one in particular I'm thinking of). The plot is mostly driven by different characters trying to achieve their personal goals by whatever means available to them. There's relatively little use of the Idiot Ball, from what I remember of the first two seasons.
-> It's definitely not rationalist but it's borderline-rational. Chancy plots tend to work out more than they should. Diplomacy and scheming sometimes work out very well, and at other times fall apart completely. I'd definitely recommend it as worth a watch if you like pirate stories. It's free on Prime Video. (Edit: This is in the UK; I'm not sure about other regions.)
-> Content warning for multiple graphic depictions of sexual assault, and other general unpleasantness involving torture and death.
 > 
+> Black Sails is a prequel series for Robert Louis Stevenson's *Treasure Island*. It follows Captain Flint and John Silver through the events that lead to the treasure being buried on the titular island in the first place.
+> 
+> The production quality is very high, and some of the battle scenes are extremely explicit (there's one in particular I'm thinking of). The plot is mostly driven by different characters trying to achieve their personal goals by whatever means available to them. There's relatively little use of the Idiot Ball, from what I remember of the first two seasons.
+> 
+> It's definitely not rationalist but it's borderline-rational. Chancy plots tend to work out more than they should. Diplomacy and scheming sometimes work out very well, and at other times fall apart completely. I'd definitely recommend it as worth a watch if you like pirate stories. It's free on Prime Video. (Edit: This is in the UK; I'm not sure about other regions.)
+> 
+> Content warning for multiple graphic depictions of sexual assault, and other general unpleasantness involving torture and death.
 
->> **u/Rhamni** [+12]  *Aspiring author**
+>> **u/Rhamni** [+10]  *Aspiring author* (5 hours later)
 >> 
 >> > prequel series for Robert Louis Stevenson's *Treasure Island*
->> And sold. Will definitely have to check that out. TI was one of my favourite books as a kid.
 >> 
+>> And sold. Will definitely have to check that out. TI was one of my favourite books as a kid.
 
->>> **u/None** [+6] *
+>>> **u/None** [+5]  (2 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Rhamni** [+2]  *Aspiring author**
+>>>> **u/Rhamni** [+2]  *Aspiring author* (2 days later)
 >>>> 
 >>>> It's a very enjoyable movie and has some delightful quotes. Tim Curry in particular really shines in it.
->>>> 
 
-> **u/fassina2** [+13]  *Progressive Overload**
+> **u/fassina2** [+13]  *Progressive Overload* (2 hours later)
 > 
 > I heard the combat scenes are relatively well done, which is a big plus for me. I remember watching 1 episode and then forgetting about it, as I often do.
-> &#x200B;
-> I'll check it out, shame it's not on prime video for my country, guess I'll have to emulate the main characters of this series and sail the high seas ;P
 > 
+> &#x200B;
+> 
+> I'll check it out, shame it's not on prime video for my country, guess I'll have to emulate the main characters of this series and sail the high seas ;P
 
->> **u/LazarusRises** [+9] *
+>> **u/LazarusRises** [+9]  (2 hours later)
 >> 
 >> Your first point is big for me--I can't stand meaningless combat, like every single Marvel movie or Daredevil season 2, aka: Daredevil fights a million ninjas. Any well-choreographed combat with actual stakes and realistic responses to injury automatically gets lots of points in my book.
->> 
 
->>> **u/fassina2** [+10]  *Progressive Overload**
+>>> **u/fassina2** [+10]  *Progressive Overload* (2 hours later)
 >>> 
 >>> I'm a HEMA nerd and when my hema nerd friends say the combat is good I believe them. It's supposed to be historically accurate, as far as that goes for a choreographed sword fight on tv, and that's *really* rare.
->>> I seriously do not understand where most fight choreographers come from, or what qualifications they need but over 95% are tremendously bad. In a few years things will improve as people become more informed on this area but for now we should appreciate when they do a good job, which is rarely the case.
 >>> 
+>>> I seriously do not understand where most fight choreographers come from, or what qualifications they need but over 95% are tremendously bad. In a few years things will improve as people become more informed on this area but for now we should appreciate when they do a good job, which is rarely the case.
 
->>>> **u/ladykristianna** [+5] *
+>>>> **u/ladykristianna** [+4]  (7 hours later)
 >>>> 
 >>>> Pardon my ignorance, but can you tell me what HEMA is?
->>>> 
 
->>>>> **u/fassina2** [+13]  *Progressive Overload**
+>>>>> **u/fassina2** [+15]  *Progressive Overload* (7 hours later)
 >>>>> 
 >>>>> Historical European Martial Arts. They are people that study and practice 'lost' weapon based martial arts, based on surviving manuscripts and illustrations from their specific periods. Basically armed combat and history nerds that practice or are interested in how historical combat actually looked and worked.
->>>>> Basically europeans had a very extensive martial culture going back thousands of years, but most of it was weapon based so it was lost when they went out of use, unlike the asian ones which were mostly unarmed and survived because of it and other factors like a higher cultural focus on tradition.
->>>>> It's basically martial arts applied and optimized for warfare, with none of the fluff, traditional strictness, and made up nonsense like qi that's commonly seen on eastern martial arts. Like an earlier version of MMA but with weapons.
->>>>> If you like fantasy combat and rationality it's a subject you're going to love learning about. It's particularly useful for writers and other creative people that are interested or already working on something on that genre.
 >>>>> 
+>>>>> Basically europeans had a very extensive martial culture going back thousands of years, but most of it was weapon based so it was lost when they went out of use, unlike the asian ones which were mostly unarmed and survived because of it and other factors like a higher cultural focus on tradition.
+>>>>> 
+>>>>> It's basically martial arts applied and optimized for warfare, with none of the fluff, traditional strictness, and made up nonsense like qi that's commonly seen on eastern martial arts. Like an earlier version of MMA but with weapons.
+>>>>> 
+>>>>> If you like fantasy combat and rationality it's a subject you're going to love learning about. It's particularly useful for writers and other creative people that are interested or already working on something on that genre.
 
->>>>>> **u/LazarusRises** [+7] *
+>>>>>> **u/LazarusRises** [+7]  (21 hours later)
 >>>>>> 
 >>>>>> I ran a Forge Cleric in a D&D campaign for a couple of years. Her whole deal in combat was enchanting the greatsword she had forged, so I watched a bunch of videos about zweihanders to get an idea of the stances, grips etc. 
->>>>>> [Orian was a huge badass.](https://www.reddit.com/r/DnD/comments/9xcq74/art_orian_steeldaughter_cleric_of_the_forge/) (Still is, but the campaign is over.)
 >>>>>> 
+>>>>>> [Orian was a huge badass.](https://www.reddit.com/r/DnD/comments/9xcq74/art_orian_steeldaughter_cleric_of_the_forge/) (Still is, but the campaign is over.)
 
->>>>>>> **u/fassina2** [+2]  *Progressive Overload**
+>>>>>>> **u/fassina2** [+2]  *Progressive Overload* (22 hours later)
 >>>>>>> 
 >>>>>>> That's some really cool art. Research really elevates a story to a whole other level.
->>>>>>> 
 
->>>>>> **u/sparr** [+3] *
+>>>>>> **u/sparr** [+3]  (7 hours later)
 >>>>>> 
 >>>>>> So, basically, what is it?
->>>>>> 
 
->>>>>>> **u/None** [+11] *
+>>>>>>> **u/None** [+12]  (10 hours later)
 >>>>>>> 
 >>>>>>> Sword nerds sparring with swords (and other weapons, but mostly swords), trying to figure out which parts of old swordfighting manuals contain actual useful, practical techniques (as opposed to ideas that were written down for tradition/culture/writer's bias purposes).
->>>>>>> 
 
->>>>>>> **u/fassina2** [+3]  *Progressive Overload**
+>>>>>>> **u/fassina2** [+4]  *Progressive Overload* (18 hours later)
 >>>>>>> 
 >>>>>>> What eveninglion said, and it's a budding sport with a tournament scene. But most people aren't actually practitioners, they just enjoy learning and watching videos and documentaries about it.
->>>>>>> &#x200B;
->>>>>>> Scholagladiatoria is a good channel on it. Chadiversity's series on fantasy creatures and how they'd actually fight is quite fun.
 >>>>>>> 
+>>>>>>> &#x200B;
+>>>>>>> 
+>>>>>>> Scholagladiatoria is a good channel on it. Chadiversity's series on fantasy creatures and how they'd actually fight is quite fun.
 
->>>>>>>> **u/sparr** [+2] *
+>>>>>>>> **u/sparr** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> *whoosh*
->>>>>>>> 
 
->>>>>>>>> **u/fassina2** [+3]  *Progressive Overload**
+>>>>>>>>> **u/fassina2** [+3]  *Progressive Overload* (a day later)
 >>>>>>>>> 
 >>>>>>>>> Ha, whoosh indeed XD
->>>>>>>>> &#x200B;
->>>>>>>>> My bad it was late, and a lot of basically were used because of it.
 >>>>>>>>> 
+>>>>>>>>> &#x200B;
+>>>>>>>>> 
+>>>>>>>>> My bad it was late, and a lot of basically were used because of it.
 
->>>>> **u/Silver_Swift** [+4] *
+>>>>> **u/Silver_Swift** [+5]  (7 hours later)
 >>>>> 
 >>>>> Historical European Martial Arts, it's basically medieval combat nerds.
->>>>> 
 
->>>> **u/CronoDAS** [+1] *
+>>>> **u/CronoDAS** [+1]  (3 days later)
 >>>> 
 >>>> The usual "Flynning" swordfight is intended to look cool and exciting to an audience that doesn't know anything about real combat rather than be in any way realistic. (There was a film version of The Count of Monte Cristo that tried to have more realistic swordfights; they didn't look quite as cool as the fake ones, or so I heard.)
->>>> 
 
->>>>> **u/fassina2** [+2]  *Progressive Overload**
+>>>>> **u/fassina2** [+2]  *Progressive Overload* (3 days later)
 >>>>> 
 >>>>> Don't know about this specific movie, afaik it has a lot to do with the safety of the actors. And no you can watch some hema fights if you want, they tend to be much cooler than what you see on tv. They are faster though, so you can't use it for padding with a 5 minute filler. 
->>>>> Real life fight with weapons are 1-3 parries and it's over, 30 seconds to a minute ordeals not 5-10 minute talk and dance around for no reason tv fights.
->>>>> Besides the responsibility of making a scene good or interesting to watch is with the directors. Michael Bay has his way of making movies exciting, that doesn't necessarily mean it's the only way or the best way.
 >>>>> 
+>>>>> Real life fight with weapons are 1-3 parries and it's over, 30 seconds to a minute ordeals not 5-10 minute talk and dance around for no reason tv fights.
+>>>>> 
+>>>>> Besides the responsibility of making a scene good or interesting to watch is with the directors. Michael Bay has his way of making movies exciting, that doesn't necessarily mean it's the only way or the best way.
 
->> **u/zeth4** [+4] *
+>> **u/zeth4** [+4]  (3 days later)
 >> 
 >> >I remember watching 1 episode and then forgetting about it, as I often do.
->> The weakest part of the series is its start. I watched like 3 episodes and left it for a while. But was convinced to go back and finish it and now it stands as one of my favourite series of all time. 
->> I'd say it doesn't really get into its stride until episode 5 but from there on it is just amazing.
 >> 
+>> The weakest part of the series is its start. I watched like 3 episodes and left it for a while. But was convinced to go back and finish it and now it stands as one of my favourite series of all time. 
+>> 
+>> I'd say it doesn't really get into its stride until episode 5 but from there on it is just amazing.
 
->> **u/Bowbreaker** [+2]  *Solitary Locust**
+>> **u/Bowbreaker** [+2]  *Solitary Locust* (13 hours later)
 >> 
 >> It's on Netflix in my country.
->> 
 
-> **u/Pacific_Rimming** [+10] *
+> **u/Pacific_Rimming** [+11]  (7 hours later)
 > 
 > The comparison to Game of Thrones is very apt. I've seen season 1 - 3 (because I can't find the last one online).
-> The characters are very three dimensional and their relationships incredibly interesting. Very often characters are met with difficult choices and you're actually invested in what side they choose. Decisions have consequences. Characters lose and grow.
-> Absolutely minor spoilers (season 1) >!*I especially love Flint's and Silver's relationship. Very few shows manage to pit two mastermind type characters versus each other, while making both of them actually seem smart and also LIKEABLE (aka non-pretentious). The way their relationship develops is so very well done and my favourite part of the show.*!<
-> if you liked Game of Thrones and Black Sails, I also 100% have to recommend The Expanse. GRRM worked with the authors before and is also a fan of the series. 
-> It's a little less character- and more plot-focused but very similar in narrative structure to GoT, with scenes jumping back and forth between different plots.
-> I personally had to warm up to some characters first but from season 1 onwards I was sold. All the plotstrings just start falling into place.
 > 
+> The characters are very three dimensional and their relationships incredibly interesting. Very often characters are met with difficult choices and you're actually invested in what side they choose. Decisions have consequences. Characters lose and grow.
+> 
+> Absolutely minor spoilers (season 1) >!*I especially love Flint's and Silver's relationship. Very few shows manage to pit two mastermind type characters versus each other, while making both of them actually seem smart and also LIKEABLE (aka non-pretentious). The way their relationship develops is so very well done and my favourite part of the show.*!<
+> 
+> if you liked Game of Thrones and Black Sails, I also 100% have to recommend The Expanse. GRRM worked with the authors before and is also a fan of the series. 
+> 
+> It's a little less character- and more plot-focused but very similar in narrative structure to GoT, with scenes jumping back and forth between different plots.
+> 
+> I personally had to warm up to some characters first but from season 1 onwards I was sold. All the plotstrings just start falling into place.
 
-> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+> **u/callmesalticidae** [+1]  *writes worldbuilding books* (a day later)
 > 
 > Finishing Season 1 at the moment (halfway through the last episode), and I agree with the original endorsement. 
-> CW for multiple occasions of sexual assault though.
 > 
+> CW for multiple occasions of sexual assault though.
 
-> **u/zeth4** [+1] *
+> **u/zeth4** [+1]  (4 days later)
 > 
 > You're in for a treat with the Rest of the Seasons are even better.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/zeth4** [+1] *
+>> **u/zeth4** [+1]  (3 days later)
 >> 
 >> If you were being serious it actually is pretty "Woke". plenty of strong characters of all genders, races and sexualities.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/ancientcampus  *juggling kittens**
 * URL: https://www.reddit.com/r/rational/comments/2pqvbw/enders_game_a_leap_of_faith_short/
-* Score: 40
+* Score: 37
 
 * Created: 2014-12-19T02:02:08
 
@@ -34,26 +34,29 @@ I was confused. And as sometimes happens even to the mightiest of soldiers, I pa
 
 ### Comments:
 
-> **u/Farmerbob1** [+3]  *Level 1 author**
+> **u/Farmerbob1** [+3]  *Level 1 author* (2 days later)
 > 
 > The duty monitor watched as Colonel Graff stood silently by the main screen, monitoring the start of the current battle, ready to disengage gravity if the first students into the room didn't recognize the danger quickly enough, and looked to be at risk of serious injury.
-> As the first student jumped into the battle room and commenced to fall, Colonel Graff tensed slightly, but relaxed as the frantically grasping student managed to get a solid grip on one of the vertical poles.
-> The wail of the panicked student ended after a couple seconds, then more students entered the room and began deploying themselves, initiating their battle.
-> After a moment, Colonel Graff turned and walked away from the main screen, muttering something that sounded like "Gravity's a bitch."  The duty monitor was certain that the Colonel was smiling when he left the room.
 > 
+> As the first student jumped into the battle room and commenced to fall, Colonel Graff tensed slightly, but relaxed as the frantically grasping student managed to get a solid grip on one of the vertical poles.
+> 
+> The wail of the panicked student ended after a couple seconds, then more students entered the room and began deploying themselves, initiating their battle.
+> 
+> After a moment, Colonel Graff turned and walked away from the main screen, muttering something that sounded like "Gravity's a bitch."  The duty monitor was certain that the Colonel was smiling when he left the room.
 
->> **u/eaglejarl** [+5] *
+>> **u/eaglejarl** [+3]  (4 days later)
 >> 
 >> Once the Colonel was out of sight, the duty monitor flipped the gravity off.
->> And on.
->> And off.
->> And on....
 >> 
+>> And on.
+>> 
+>> And off.
+>> 
+>> And on....
 
->>> **u/Nevereatcars** [+1]  *The Greatest Is Behind**
+>>> **u/Nevereatcars** [+1]  *The Greatest Is Behind* (14 days later)
 >>> 
 >>> Would this be the appropriate time for a "trololol"?
->>> 
 
 ---
 

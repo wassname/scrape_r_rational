@@ -2,7 +2,7 @@
 
 * Author: u/Gurung99 *
 * URL: https://www.youtube.com/watch?v=aumhEQtNyF4
-* Score: 17
+* Score: 19
 
 * Created: 2018-09-04T19:27:00
 
@@ -12,22 +12,21 @@
 
 ### Comments:
 
-> **u/Gurung99** [+6] *
+> **u/Gurung99** [+4]  (20 seconds later)
 > 
 > Video Speed Controller
-> https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
 > 
+> https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
 
-> **u/None** [+4] *
+> **u/None** [+5]  (3 hours later)
 > 
 > [removed]
-> 
 
->> **u/XxChronOblivionxX** [+11] *
+>> **u/XxChronOblivionxX** [+12]  (4 hours later)
 >> 
 >> In their defense, that sub is super dead.
->> However, this should be posted in one of the Monday General Rationality Threads here instead, such as the one yesterday.
 >> 
+>> However, this should be posted in one of the Monday General Rationality Threads here instead, such as the one yesterday.
 
 ---
 

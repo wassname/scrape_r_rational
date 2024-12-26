@@ -2,7 +2,7 @@
 
 * Author: u/melmonella  *Tremble, o ye mighty, for a new age is upon you**
 * URL: https://www.reddit.com/r/rational/comments/5sauau/rt_hf_ff_pgte_good_evil_and_shatranj/
-* Score: 16
+* Score: 17
 
 * Created: 2017-02-05T23:58:21
 
@@ -114,58 +114,61 @@ Evil didn't smile. It was time to start his real endgame, for which he was setti
 
 ### Comments:
 
-> **u/ivory12** [+1] *
+> **u/ivory12** [+1]  (2 days later)
 > 
 > Neat. Thanks for the reminder this is back today, too.
-> 
 
->> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (2 days later)
 >> 
 >> I am a new writer, and sort of expected more feedback from this subreddit. Could you at least give some? I'd like to improve my writing, but without feedback I don't know _how_.
->> 
 
->>> **u/bvonl** [+1] *
+>>> **u/bvonl** [+1]  (3 days later)
 >>> 
 >>> **On the story:**  
 >>> 1) Good sounds a lot like someone whose moves revolve solely around being more powerful and having the advantage, whereas Evil is shown to be smarter (wiser?) of the two. I realize that the canon has this aspect as well, on the whole, and also that it is more probable that someone who has a lot of power at their disposal is likelier to be sloppier in their gameplay. But if Good can spawn The Wandering Bard, I imagine it can be a lot smarter? (yes, that's an open-ended question for you; I'm not sure myself)
+>>> 
 >>> 2) I imagine that Good is the doofy friend who made up a game with unfair advantages for himself, so that he may finally win one against his smart-ass friend, Evil. Am I right?  
-
+>>> 
 >>> **On the writing:**  
 >>> I wish I could help you out more here but I'm not a writer. As a reader though, here's what I thought:  
 >>> 1) I liked the story and the writing did not cause any hiccups which would throw me off. For a new writer, I'd say that's a good start.  
->>> 2) I'd have liked it if the story pulled me in more. I don't know how to achieve that... Maybe try reading the wiki at /r/writing or /r/writingprompts or get their input?  
->>> 3) I don't know how *rational* the writing is but I liked the last section for how well it explained Evil's mode of thinking.  
->>> I hope this helped. Glad to have you here.
 >>> 
+>>> 2) I'd have liked it if the story pulled me in more. I don't know how to achieve that... Maybe try reading the wiki at /r/writing or /r/writingprompts or get their input?  
+>>> 
+>>> 3) I don't know how *rational* the writing is but I liked the last section for how well it explained Evil's mode of thinking.  
+>>> 
+>>> I hope this helped. Glad to have you here.
 
->>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (3 days later)
 >>>> 
 >>>> > Good sounds a lot like someone whose moves revolve solely around being more powerful and having the advantage, whereas Evil is shown to be smarter (wiser?) of the two. 
->>>> That was exactly what I was trying to convey, yes. Well, not quite, but close. Good can see subtler moves, but not nearly as good (badum-tss) as Evil, which lead to their original argument (Good thinking it can design a foolproof set of rules by just restricting everything objectionable, Evil disagreeing on the basis of Godel's incompleteness theorem)
->>>> >I imagine that Good is the doofy friend who made up a game with unfair advantages for himself, so that he may finally win one against his smart-ass friend, Evil.
->>>> No, they both agreed on Good having all the advantages. Good is kinda playing as the GM, while Evil is playing as a munchkin who tries to break the game.
 >>>> 
+>>>> That was exactly what I was trying to convey, yes. Well, not quite, but close. Good can see subtler moves, but not nearly as good (badum-tss) as Evil, which lead to their original argument (Good thinking it can design a foolproof set of rules by just restricting everything objectionable, Evil disagreeing on the basis of Godel's incompleteness theorem)
+>>>> 
+>>>> >I imagine that Good is the doofy friend who made up a game with unfair advantages for himself, so that he may finally win one against his smart-ass friend, Evil.
+>>>> 
+>>>> No, they both agreed on Good having all the advantages. Good is kinda playing as the GM, while Evil is playing as a munchkin who tries to break the game.
 
->>>>> **u/bvonl** [+1] *
+>>>>> **u/bvonl** [+1]  (4 days later)
 >>>>> 
 >>>>> >Godel's incompleteness theorem
->>>>> *Cue insecurities about not being as smart as others*  
->>>>> Ahem. So, is your story completely referencing canon? If yes, the Bard is Good seeing the subtler moves? If yes, can't Bard see the Story and how it plays out?
 >>>>> 
+>>>>> *Cue insecurities about not being as smart as others*  
+>>>>> 
+>>>>> Ahem. So, is your story completely referencing canon? If yes, the Bard is Good seeing the subtler moves? If yes, can't Bard see the Story and how it plays out?
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > [deleted]
-> 
 
->> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (2 days later)
 >> 
 >> Um. Something like chapter 40-ish book 2, I guess? But it's more of a "you probably just won't get it until you read that far" thing.
->> 
 
-> **u/ivory12** [+1] *
+> **u/ivory12** [+1]  (4 days later)
 > 
 > Alright. New top-level comment for general feedback. This is pretty stream-of-consciousness stuff. 
+> 
 > Contractions in the narrative. Some people will tell you that's a never-do, that it belongs only in dialogue. Tense shifts. Everything after:
 > >Not that he needed it. 
 > is present tense. Purposeful? It's interesting, anyway.
@@ -173,41 +176,64 @@ Evil didn't smile. It was time to start his real endgame, for which he was setti
 > >Pawns were taken by Rooks
 > and the first sentence of the entire piece,
 > >Good was sitting.
+> 
 > Directly addressing the reader - 
 > >You see, when Good wrote the rulebook
+> 
 > Your dialogue is clunky in general. Jumping all over the place time-wise and not identifying whose talking where. People talking inbetween paragraphs of their own actions. Structurally, you have a few missing periods and basic proof errors. There are long periods of back and forth with no identifying the speaker, rapid-fire... again, it's a stylistic choice. It's a purposeful thing, or at least it should be. It's very tough to make a new scene start with dialogue that flits back and forth like that. Give the reader an anchor.
+> 
 > Like an anchor, the reader needs a hook. Your opening's gotta grab 'em. This is not easy. But neither should it be abandoned whole sale. Bizarre and interesting is better than boring. 
+> 
 > >Good was sitting at a table. 
+> 
 > This isn't boring. It's just not interesting, either.
+> 
 > The passive voice and describing with -ing words are sometimes touted as hallmarks of inexperienced writing. Some people will tell you to cut as much of it out as possible. They're not a cardinal sin. Nothing in English is. Later, you start a sentence with and...
 > >And then there is no reason to adjust it after that first push.
+> 
 > Which some will also tell you never to do.
+> 
 > You have a couple sentence fragments. 
 > >It didn't.
 > >Well, not quite.
-> Again, you can write in fragments if you want. They can be excellent, emphatic punctuation on a scene. But these sentences can also jar when they come together too often.
-> The thing about writing is, you can do anything you want. You can be e.e. cummings and never write with a capital letter. Cormac McCarthy, and say fuck you to apostrophes, quotation marks, and proper structure in general. *Blood Meridian* is my favourite novel and it's a fucking chore to read some of McCarthy's paragraphs. Others are transcendent.
-> It's a general rule of thumb that before you go breaking the rules - or rather, conventions - you learn them. If you know *why* you're breaking a "rule" then go for it.
-> If you want to be a good writer there are only two things you need to do. Read a lot and write a lot. And not just derivative fiction. There's so many fantastic authors out there, even just in English.
-> In general I think, more and more these days, that fanfiction is a waste of time. Reading it is empty calories and easy dopamine. Like porn, or junk food, or Jerry Springer or daytime TV. Not terrible. Not a vice, per se, but it can fill your time without really giving anything back for it. Writing it, on the other hand, ingrains bad habits and lets one put the shutters over their own imagination in order to use someone else's sandbox as a shortcut.
-> Feel free to disregard everything I've written here. I'm not your typical /r/rational commenter, I think. I come from a different perspective than the norm in this sub. I care more for the edifice of a story, the narrative, the emotions a piece evokes in a reader and less about whether characters are acting "rationally" or the balance of a conflict, or if the twist is realllly interesting and clever. Few things bother me more than soapbox fiction, and I find a lot of things here have a story that comes secondary, written only to suit a message. That can be done well. Most things can. Often it's done clumsily, however. The Venn diagram of good web fiction and rational web fiction has a great deal of overlap, however, which is why I'm subscribed here. 
-> Just keep practicing. Finish things. Edit them, but don't bog yourself down. The twenty-fifth edit might ruin something amazing you had in the tenth... but the first draft is never the best one, to shameless steal something someone more smart than I once said. Think about why you're writing what you're writing. It's a skill like any other: it just takes practice. Practice with intent, with a focus on improvement, with an eye towards your own flaws. And putting in the hours. Always putting in the hours.
 > 
+> Again, you can write in fragments if you want. They can be excellent, emphatic punctuation on a scene. But these sentences can also jar when they come together too often.
+> 
+> The thing about writing is, you can do anything you want. You can be e.e. cummings and never write with a capital letter. Cormac McCarthy, and say fuck you to apostrophes, quotation marks, and proper structure in general. *Blood Meridian* is my favourite novel and it's a fucking chore to read some of McCarthy's paragraphs. Others are transcendent.
+> 
+> It's a general rule of thumb that before you go breaking the rules - or rather, conventions - you learn them. If you know *why* you're breaking a "rule" then go for it.
+> 
+> If you want to be a good writer there are only two things you need to do. Read a lot and write a lot. And not just derivative fiction. There's so many fantastic authors out there, even just in English.
+> 
+> In general I think, more and more these days, that fanfiction is a waste of time. Reading it is empty calories and easy dopamine. Like porn, or junk food, or Jerry Springer or daytime TV. Not terrible. Not a vice, per se, but it can fill your time without really giving anything back for it. Writing it, on the other hand, ingrains bad habits and lets one put the shutters over their own imagination in order to use someone else's sandbox as a shortcut.
+> 
+> Feel free to disregard everything I've written here. I'm not your typical /r/rational commenter, I think. I come from a different perspective than the norm in this sub. I care more for the edifice of a story, the narrative, the emotions a piece evokes in a reader and less about whether characters are acting "rationally" or the balance of a conflict, or if the twist is realllly interesting and clever. Few things bother me more than soapbox fiction, and I find a lot of things here have a story that comes secondary, written only to suit a message. That can be done well. Most things can. Often it's done clumsily, however. The Venn diagram of good web fiction and rational web fiction has a great deal of overlap, however, which is why I'm subscribed here. 
+> 
+> Just keep practicing. Finish things. Edit them, but don't bog yourself down. The twenty-fifth edit might ruin something amazing you had in the tenth... but the first draft is never the best one, to shameless steal something someone more smart than I once said. Think about why you're writing what you're writing. It's a skill like any other: it just takes practice. Practice with intent, with a focus on improvement, with an eye towards your own flaws. And putting in the hours. Always putting in the hours.
 
->> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (4 days later)
 >> 
 >> Thanks for your feedback.
->> >Your dialogue is clunky in general. 
->> Yeah, that's an issue. No idea how to solve it aside from just writing a whole lot, though.
->> >Jumping all over the place time-wise and not identifying whose talking where. 
->> I tried to identify speakers through their mannerisms, with Evil using lots of "mmm"-s, as well as through various connections based on what each side would be saying. For example, 
->> >"Huh, my crusade got turned away."
->> Implies the speaker was the one with the crusade, which are a Good thing, which implies the speaker is Good. Likewise, I tried to connect two paragraphs by saying "Good moved his Prince forwards" in one of them, setting up the side on which Prince is, and then using Prince to identify the speaker in the next paragraph, and other similar things.
->> >This isn't boring. It's just not interesting, either.
->> Aw. I thought first two paragraphs were the funniest part-contrasting something mundane like sitting at a table, reading books with something not-mundane, like not being human. I guess that didn't translate well.
->> >Just keep practicing. 
->> Well, I know that much, hence me asking for feedback.
 >> 
+>> >Your dialogue is clunky in general. 
+>> 
+>> Yeah, that's an issue. No idea how to solve it aside from just writing a whole lot, though.
+>> 
+>> >Jumping all over the place time-wise and not identifying whose talking where. 
+>> 
+>> I tried to identify speakers through their mannerisms, with Evil using lots of "mmm"-s, as well as through various connections based on what each side would be saying. For example, 
+>> 
+>> >"Huh, my crusade got turned away."
+>> 
+>> Implies the speaker was the one with the crusade, which are a Good thing, which implies the speaker is Good. Likewise, I tried to connect two paragraphs by saying "Good moved his Prince forwards" in one of them, setting up the side on which Prince is, and then using Prince to identify the speaker in the next paragraph, and other similar things.
+>> 
+>> >This isn't boring. It's just not interesting, either.
+>> 
+>> Aw. I thought first two paragraphs were the funniest part-contrasting something mundane like sitting at a table, reading books with something not-mundane, like not being human. I guess that didn't translate well.
+>> 
+>> >Just keep practicing. 
+>> 
+>> Well, I know that much, hence me asking for feedback.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 8
+* Score: 9
 
 * Created: 2015-12-20T02:37:26
 
@@ -12,86 +12,82 @@
 
 ### Comments:
 
-> **u/blazinghand** [+4]  *Chaos Undivided**
+> **u/blazinghand** [+4]  *Chaos Undivided* (19 hours later)
 > 
 > Happy Holidays, everyone! For those of you who are taking time off from work, or get time off because the government requires it, I hope you enjoy the break!
-> 
 
-> **u/Transfuturist** [+2]  *Carthago delenda est.**
+> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 > 
 > Is there any material online to let those who couldn't make a pilgrimage join in?
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> [Hymnal link](https://dl.dropboxusercontent.com/u/2000477/Solstice%20Downloads/Solstice_2013_hymnal_facingPages.pdf) (not sure how much of that everyone actually uses) and [album of music](https://humanistculture.bandcamp.com/album/brighter-than-today-a-secular-solstice) (WARNING: CHEESE).
->> 
 
->>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>> 
 >>> Alas, it is too late, for my secularity has been healed by the gentle light of Madokami.
->>> 
 
->>>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>>>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (4 days later)
 >>>> 
 >>>> You mean from the anime, mahou shoujo madoka magica?
->>>> 
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (5 days later)
 >>>>> 
 >>>>> Yes. Merry Madokamas!
->>>>> 
 
-> **u/LiteralHeadCannon** [+1] *
+> **u/LiteralHeadCannon** [+1]  (a minute later)
 > 
 > Sad I (just barely) couldn't make this.  Maybe some other year.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (7 minutes later)
 >> 
 >> There's actually multiples.  Bay Area and Boston were last week.  New York et al were this week.
->> 
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (9 minutes later)
 >>> 
 >>> The New York one was the only one I had a chance at.
->>> 
 
-> **u/IWantUsToMerge** [+1] *
+> **u/IWantUsToMerge** [+1]  (5 days later)
 > 
 > I'm trying to figure out an excuse for the winter holidays.. or any potential winter holiday we might be able to construct.. to be the giant things that they are, and I'm having difficulty finding a single one.
-> If you're going to have an annual tradition, it seems as if smaller groups should celebrate it at spaced out times, possibly spaced by region, because doing things all at once puts a huge burden on infrastructure, in everyday terms this translates to most stuff being extremely expensive and lots of stuff getting wasted.
-> The only practical tradition I can think of that requires everyone to break their routines at the same time every year is some kind of giant party where cliques cannot be divided into disjoint sets. Say you want to have a party where the best friends you met on the internet will be in roughly the same place so they'll get to meet each other, and so do each of them, and so do each of their friends and so on. If it's possible to organize such a thing over the 2-dimensional surface of a large land mass it will necessitate a mass pilgrimage of a large proportion of the population. And it would be wonderful and I would support doing that shit every year.
-> But.. if you include the requirement that this happening must happen in the worst part of winter(or in the southern hemisphere, the worst part of summer) rather than a reasonable season like the spring, then it just becomes ridiculous again. Perhaps this entire thing just a coping mechanism for seasonal affective disorder? Let's come together and get sloshed to make sure that nobody kills themselves? (Getting everyone bright, UV lamps would probably be cheaper)
 > 
+> If you're going to have an annual tradition, it seems as if smaller groups should celebrate it at spaced out times, possibly spaced by region, because doing things all at once puts a huge burden on infrastructure, in everyday terms this translates to most stuff being extremely expensive and lots of stuff getting wasted.
+> 
+> The only practical tradition I can think of that requires everyone to break their routines at the same time every year is some kind of giant party where cliques cannot be divided into disjoint sets. Say you want to have a party where the best friends you met on the internet will be in roughly the same place so they'll get to meet each other, and so do each of them, and so do each of their friends and so on. If it's possible to organize such a thing over the 2-dimensional surface of a large land mass it will necessitate a mass pilgrimage of a large proportion of the population. And it would be wonderful and I would support doing that shit every year.
+> 
+> But.. if you include the requirement that this happening must happen in the worst part of winter(or in the southern hemisphere, the worst part of summer) rather than a reasonable season like the spring, then it just becomes ridiculous again. Perhaps this entire thing just a coping mechanism for seasonal affective disorder? Let's come together and get sloshed to make sure that nobody kills themselves? (Getting everyone bright, UV lamps would probably be cheaper)
 
->> **u/blazinghand** [+2]  *Chaos Undivided**
+>> **u/blazinghand** [+2]  *Chaos Undivided* (6 days later)
 >> 
 >> So, there are two things you're getting at here, rather than just a single thing.
+>> 
 >> **1. Should everyone have an annual celebration at the same time?**
 >> **and 2. Assuming we do so, should this celebration be in mid winter?**
->> **So, taking a look at 1**, many people have jobs that won't just let you take off time whenever, so it's hard to just say "have people take vacation at the same time to see each other". Generally, the US Federal government has to step in and say "on these days, the government shuts down and so do the banks", and between itself and union pressure sets a precedent for these days off. On top of that, many people who want to celebrate together (far-flung families, etc) work different jobs in different cities and have to travel to see each other. Some kind of rotating system where different cities, states, or counties get different holidays would be hard to organize. In fact, most of this stuff is relying on momentum and cultural inertia to stay in place as-is, so something finicky and complicated that doesn't actually let families see each other is unlikely to work. There are a ton of problems with everyone taking a couple days off for two days, but assuming your goal is actually "everyone spends some time with family, including far flung family", it's hard to not have this. Without a centralized, organized government, union, and corporate effort to mark certain days off, it just wouldn't have the critical mass.
->> For example: lots of drugstores and grocery stores close down on Christmas Day, and this is only possible because nobody goes shopping on Christmas Day. Why? Because everyone has the day off. Basically, so many people have the day off and are visiting family that lots of retail workers ALSO get the day off. Note that this doesn't apply to Thanksgiving Night / Black Friday, when people go shopping, some people don't have the day off, etc-- so retail workers have to work. In other words, we have some kind of critical mass of non-working and non-shopping on Christmas Day and it works quite well at its job.
->> **Now, why Dec 25?** Well, this turns out to mostly be "because that's how things congealed at one point, mostly due to conditions in the past. It was really hard to even get to this point, and it works, so we're keeping it." We're over a line where the holiday is self-sustaining, and we all actually get to see our families because *everyone* gets the time off. Moving it would be hard, and there's no reason that Dec 25 is unusually bad. 
->> In any case, changing it from Dec 25 is really hard and might cause incoherence to develop in our holiday practices, and the whole scaffolding could fall down, so don't expect any upgrades unless you're willing to move to one of the many, many many population centers that don't celebrate christmas but instead celebrate a different new year.
->> Side note: in my multi-ethnic family we celebrate three times in this season! We have new years/christmas, lunar new year, and noruz, the first day of spring. Cramming multiple cultures together with American culture is p great
 >> 
+>> **So, taking a look at 1**, many people have jobs that won't just let you take off time whenever, so it's hard to just say "have people take vacation at the same time to see each other". Generally, the US Federal government has to step in and say "on these days, the government shuts down and so do the banks", and between itself and union pressure sets a precedent for these days off. On top of that, many people who want to celebrate together (far-flung families, etc) work different jobs in different cities and have to travel to see each other. Some kind of rotating system where different cities, states, or counties get different holidays would be hard to organize. In fact, most of this stuff is relying on momentum and cultural inertia to stay in place as-is, so something finicky and complicated that doesn't actually let families see each other is unlikely to work. There are a ton of problems with everyone taking a couple days off for two days, but assuming your goal is actually "everyone spends some time with family, including far flung family", it's hard to not have this. Without a centralized, organized government, union, and corporate effort to mark certain days off, it just wouldn't have the critical mass.
+>> 
+>> For example: lots of drugstores and grocery stores close down on Christmas Day, and this is only possible because nobody goes shopping on Christmas Day. Why? Because everyone has the day off. Basically, so many people have the day off and are visiting family that lots of retail workers ALSO get the day off. Note that this doesn't apply to Thanksgiving Night / Black Friday, when people go shopping, some people don't have the day off, etc-- so retail workers have to work. In other words, we have some kind of critical mass of non-working and non-shopping on Christmas Day and it works quite well at its job.
+>> 
+>> **Now, why Dec 25?** Well, this turns out to mostly be "because that's how things congealed at one point, mostly due to conditions in the past. It was really hard to even get to this point, and it works, so we're keeping it." We're over a line where the holiday is self-sustaining, and we all actually get to see our families because *everyone* gets the time off. Moving it would be hard, and there's no reason that Dec 25 is unusually bad. 
+>> 
+>> In any case, changing it from Dec 25 is really hard and might cause incoherence to develop in our holiday practices, and the whole scaffolding could fall down, so don't expect any upgrades unless you're willing to move to one of the many, many many population centers that don't celebrate christmas but instead celebrate a different new year.
+>> 
+>> Side note: in my multi-ethnic family we celebrate three times in this season! We have new years/christmas, lunar new year, and noruz, the first day of spring. Cramming multiple cultures together with American culture is p great
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (6 days later)
 >> 
 >> > Perhaps this entire thing just a coping mechanism for seasonal affective disorder? Let's come together and get sloshed to make sure that nobody kills themselves?
->> There's that, and there's the old-fashioned, "Blood on the snow, making the sun come up!"  (To quote a raven.)
 >> 
+>> There's that, and there's the old-fashioned, "Blood on the snow, making the sun come up!"  (To quote a raven.)
 
->>> **u/IWantUsToMerge** [+1] *
+>>> **u/IWantUsToMerge** [+1]  (6 days later)
 >>> 
 >>> I'm not convinced that's still in play.. we have heating now, don't we. Things don't get quite as dire.
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (6 days later)
 >>>> 
 >>>> Well *I* for one *definitely* have Seasonal Affective issues.
->>>> 
 
 ---
 

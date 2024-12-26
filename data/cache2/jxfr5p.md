@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/jxfr5p/wip_the_new_humans_chapter_ninetyseven_changelings/
-* Score: 11
+* Score: 13
 
 * Created: 2020-11-20T01:24:35
 

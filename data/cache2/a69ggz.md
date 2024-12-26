@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/LimeDog** [+3] *
+> **u/LimeDog** [+5]  (5 hours later)
 > 
 > Awww yisss! Date time, and inevitably there will be awesome food descriptions.
-> I'm still in the camp that Kim might be a minor telepath. That scene n the club where she guesses he is thinking about the outlet setup seems to be a potential clue in.
 > 
+> I'm still in the camp that Kim might be a minor telepath. That scene n the club where she guesses he is thinking about the outlet setup seems to be a potential clue in.
 
-> **u/Watchful1** [+3] *
+> **u/Watchful1** [+3]  (59 minutes later)
 > 
 > Common Hector, just tell the truth to at least one of your friends.
-> 
 
 ---
 

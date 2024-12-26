@@ -34,95 +34,89 @@ It probably wouldn't tell him exactly where she is, unless he was seriously inve
 
 ### Comments:
 
-> **u/Humblerbee** [+22] *
+> **u/Humblerbee** [+23]  (59 minutes later)
 > 
 > I’m a big HxH fan, and I think Occam’s razor is in play here.  There might be contrived reasons why Basho’s power wasn’t used more, but the most likely reason is because it isn’t that versatile- he uses it on two occasions, and on both occasions he uses it to summon fire.  If you hear hoofbeats, look for a horse, not a zebra- he was a bodyguard of mild standing with the ability to summon flames, manifesting them using written triggers.  
-> His interactions with other characters show he doesn’t think himself that strong, so attributing a highly powerful and versatile ability that he never demonstrated seems like a stretch.  Most likely, he passed the Hunter exam with his good physicals and instincts, but was not a standout and did not awaken a particularly groundbreaking nen ability.
 > 
+> His interactions with other characters show he doesn’t think himself that strong, so attributing a highly powerful and versatile ability that he never demonstrated seems like a stretch.  Most likely, he passed the Hunter exam with his good physicals and instincts, but was not a standout and did not awaken a particularly groundbreaking nen ability.
 
->> **u/None** [+7] *
+>> **u/None** [+8]  (an hour later)
 >> 
 >> Yeah. Tangentially, one of the (few) things I dislike about HxH is how most Hunters turn out to be weak and fairly useless.
->> 
 
->>> **u/aponty** [+3] *
+>>> **u/aponty** [+3]  (2 days later)
 >>> 
 >>> That's because they scale it so that each order of magnitude higher percentile you are, you gain an order of magnitude more power.
->>> Contrast with reality, where higher orders of magnitude higher percentile ability result in ever diminishing increases in ability, and maybe you'll see the appeal.
 >>> 
+>>> Contrast with reality, where higher orders of magnitude higher percentile ability result in ever diminishing increases in ability, and maybe you'll see the appeal.
 
->> **u/GeneralExtension** [+2] *
+>> **u/GeneralExtension** [+2]  (a day later)
 >> 
 >> Perhaps it's that "will" component - maybe he really likes fire.
->> 
 
-> **u/JulianWyvern** [+6]  *Wayward Wanderer**
+> **u/JulianWyvern** [+6]  *Wayward Wanderer* (6 hours later)
 > 
 > It's probably not that powerful. Remember that Nen Abilities are never that broad. Basho is apparently stated to be a "Conjurer" in HxH's fighting game. Since both uses of his power involve bringing fire from a poem, you might presume that his actual power is to to create items or displays of energy as described by a haiku. He definately doesn't seem to have the personality traits of a Specialist, but shows the traits of a Conjurer or Enhancer.
-> The part about whatever he brings being weakened if the poem is bad is presumably just that "unknown psychological component" mentioned by Biscuit. You might see him as a more limited Green Lantern actually if he is limited by Will, because in addition to having the will he also needs to make a good poem about it.
-> As for your examples. Well, the first might work on himself, assuming he can Enhance his own immune system. Or create a drug that does something similar to anyone it is injected to. But the latter was always impossible. Divination like that seems to be limited to Specialists
 > 
+> The part about whatever he brings being weakened if the poem is bad is presumably just that "unknown psychological component" mentioned by Biscuit. You might see him as a more limited Green Lantern actually if he is limited by Will, because in addition to having the will he also needs to make a good poem about it.
+> 
+> As for your examples. Well, the first might work on himself, assuming he can Enhance his own immune system. Or create a drug that does something similar to anyone it is injected to. But the latter was always impossible. Divination like that seems to be limited to Specialists
 
->> **u/Amargosamountain** [+1] *
+>> **u/Amargosamountain** [+1]  (6 hours later)
 >> 
 >> But Kurapika does a divination to find Neon later (he's in a car, and discovers she's already at the auction). I'm pretty sure he wasn't in Emperor mode then
->> 
 
->>> **u/aponty** [+1] *
+>>> **u/aponty** [+1]  (2 days later)
 >>> 
 >>> Kurapika specifically designated one of his chains as a divination chain when he was creating his ability.
->>> 
 
-> **u/Nine-LifedEnchanter** [+6] *
+> **u/Nine-LifedEnchanter** [+4]  (3 hours later)
 > 
 > I've just been thinking about writing a rational fic set in the HxH universe, I feel like they're a good fit.
-> 
 
->> **u/Amargosamountain** [+1] *
+>> **u/Amargosamountain** [+1]  (5 hours later)
 >> 
 >> I would be very interested in that!
->> 
 
-> **u/Evirua** [+4] *
+> **u/Evirua** [+4]  (4 hours later)
 > 
 > Are there rational HxH fics?
-> 
 
-> **u/reallynotanyoneatall** [+4] *
+> **u/reallynotanyoneatall** [+4]  (a day later)
 > 
 > You seem to be misunderstanding how Nen works, on a pretty fundamental level.
-> Nen powers get more powerful the more restricted they are. If you have a power to summon fire, that will be weaker then a power that can only summon fire on Saturdays, which would be weaker than a power that can only summon fire on Saturdays which can only hurt people named Bob.
-> For a practical example, take Gon's rock. Pouring a bunch of energy into a fist and then attacking with it is basic Nen stuff, anybody practiced enough could do the same basic thing. In principle, you can get identical results through using Enhancement - you'd just have to be skilled enough to make up a deficit. This applies to all Nen types. Anything a Conjurer can make could be made by conjuration. But if you're not using a technique, with restrictions and which suits your personality, it'll be far harder to do so.
-> Could Basho write those haikus? Probably, yeah. But because his power is so wide in scope, he won't get much of a boost in actually making those things happen. He would, for the most part, be a Conjurer or whatever else making those things happen through Nen normally, without any sort of technique. It's doubtful he could get much of a result out of any of them, if any at all.
-> With Nen you can get power with either effort and talent, or restrictions. If Basho has an unrestricted ability, and he hasn't put an insane amount of effort into it, and he isn't crazy talented, he can't be that powerful. There aren't any loopholes.
 > 
+> Nen powers get more powerful the more restricted they are. If you have a power to summon fire, that will be weaker then a power that can only summon fire on Saturdays, which would be weaker than a power that can only summon fire on Saturdays which can only hurt people named Bob.
+> 
+> For a practical example, take Gon's rock. Pouring a bunch of energy into a fist and then attacking with it is basic Nen stuff, anybody practiced enough could do the same basic thing. In principle, you can get identical results through using Enhancement - you'd just have to be skilled enough to make up a deficit. This applies to all Nen types. Anything a Conjurer can make could be made by conjuration. But if you're not using a technique, with restrictions and which suits your personality, it'll be far harder to do so.
+> 
+> Could Basho write those haikus? Probably, yeah. But because his power is so wide in scope, he won't get much of a boost in actually making those things happen. He would, for the most part, be a Conjurer or whatever else making those things happen through Nen normally, without any sort of technique. It's doubtful he could get much of a result out of any of them, if any at all.
+> 
+> With Nen you can get power with either effort and talent, or restrictions. If Basho has an unrestricted ability, and he hasn't put an insane amount of effort into it, and he isn't crazy talented, he can't be that powerful. There aren't any loopholes.
 
-> **u/sparr** [+3] *
+> **u/sparr** [+2]  (2 hours later)
 > 
 > "the plot"
-> Which is why this is not a rational story.
 > 
+> Which is why this is not a rational story.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (5 days later)
 >> 
 >> Even rational stories are still bound by a need to have a plot, man.
->> 
 
->>> **u/sparr** [+2] *
+>>> **u/sparr** [+2]  (5 days later)
 >>> 
 >>> Having a plot is not the same as things happening for no reason other than the plot demands it.
->>> The existence of *any* in-character explanation for an action is a core facet of rational storytelling.
 >>> 
+>>> The existence of *any* in-character explanation for an action is a core facet of rational storytelling.
 
->> **u/Amargosamountain** [+1] *
+>> **u/Amargosamountain** [+1]  (6 hours later)
 >> 
 >> I think it's rational-adjacent. I've said in other posts that it has a lot of rational elements to it, but you kinda have to be willing to look past some very much non-rational elements too.
->> 
 
-> **u/xXYomoXx** [+1] *
+> **u/xXYomoXx** [+1]  (4 years later)
 > 
 > The limits are his poetry skills, which are pretty bad. Take it like having a device that can do anything as long as you can draw it, but you're a shitty artist, so it's not as good in your hands. I'm pretty sure him being bad at haiku is a condition for such a broken ability.
-> 
 
 ---
 

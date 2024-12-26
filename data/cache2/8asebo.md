@@ -2,7 +2,7 @@
 
 * Author: u/Nighzmarquls *
 * URL: https://www.reddit.com/r/rational/comments/8asebo/rthsfhfthonward_to_providence_episode_iii/
-* Score: 9
+* Score: 11
 
 * Created: 2018-04-08T19:39:12
 
@@ -26,17 +26,17 @@ You can also read it on [Sufficient Velocity](https://forums.sufficientvelocity.
 
 ### Comments:
 
-> **u/torac** [+3] *
+> **u/torac** [+3]  (10 hours later)
 > 
 > Tiny Tunie is adorable. Big Tunie as well, for that matter.
-> I strongly recommend this story as something that promises to be a fascinating sort-of hard scifi (alt-physics scifi?) story. I especially enjoy how /u/nighzmarquls manages to create characters that combine being utterly alien, relatable and believable.
-> If OtP seems somewhat interesting, you might also want to check out their previous similar work [Deep Rise](https://web.archive.org/web/20150421102920/http://mspaforums.com/showthread.php?46308-Deep-Rise-An-Illustrated-Xenofiction-Adventure). It is one of my favourite fictions of all time. Sadly, the original version was lost and I did not find it on one of the proper archives.
 > 
+> I strongly recommend this story as something that promises to be a fascinating sort-of hard scifi (alt-physics scifi?) story. I especially enjoy how /u/nighzmarquls manages to create characters that combine being utterly alien, relatable and believable.
+> 
+> If OtP seems somewhat interesting, you might also want to check out their previous similar work [Deep Rise](https://web.archive.org/web/20150421102920/http://mspaforums.com/showthread.php?46308-Deep-Rise-An-Illustrated-Xenofiction-Adventure). It is one of my favourite fictions of all time. Sadly, the original version was lost and I did not find it on one of the proper archives.
 
->> **u/Nighzmarquls** [+2] *
+>> **u/Nighzmarquls** [+2]  (10 hours later)
 >> 
 >> I've sort of got a vague idea I want to go back and remaster deeprise. It was done as a kind of text version of nanowrimo. I did daily illustrated updates for almost two and a half years and the quality sort of suffered for it. But the exercise taught me how to produce consistently and is part of the reason why I can manage the pace of writing and illustration at the quality I have now.
->> 
 
 ---
 

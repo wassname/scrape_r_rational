@@ -2,7 +2,7 @@
 
 * Author: u/andor3333 *
 * URL: https://www.reddit.com/r/rational/comments/5rrykz/the_merchant_princes_series_by_charles_stross/
-* Score: 27
+* Score: 23
 
 * Created: 2017-02-03T04:46:02
 
@@ -14,120 +14,108 @@ https://www.goodreads.com/series/40515-the-merchant-princes
 
 ### Comments:
 
-> **u/Chronophilia** [+17]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+16]  *sci-fi ≠ futurology* (6 hours later)
 > 
 > It's definitely deconstructive. An ordinary girl one day discovers that she's the lost princess of a magical kingdom and gets whisked away to a life of adventure... except that the "ordinary girl" is a 35-year-old journalist who has her own life, and the "magical kingdom" draws more from *Game of Thrones* and medieval Britain than it does Disneyland.
-> 
 
-> **u/alexanderwales** [+11]  *Time flies like an arrow**
+> **u/alexanderwales** [+11]  *Time flies like an arrow* (2 hours later)
 > 
 > Note that until 2/7 you can get the omnibus version of the first two books FREE via the [Tor ebook club](http://ebookclub.tor.com/). The omnibus version is my preferred version (also Stross's preferred version). I'm a fan of the series, mostly because of the thought put into social/political worldbuilding, as is typical for Stross.
-> 
 
->> **u/Ridingh00d** [+4]  *Ankh-Morpork City Watch**
+>> **u/Ridingh00d** [+4]  *Ankh-Morpork City Watch* (14 hours later)
 >> 
 >> > This offer is only available in the US and Canada. We apologize for the geographic restriction, unfortunately it is required for various legal reasons.
->> You had me excited and then I was let down...
 >> 
+>> You had me excited and then I was let down...
 
->>> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+6]  *Time flies like an arrow* (14 hours later)
 >>> 
 >>> I would never suggest that someone lie on the internet, but have you tried lying?
->>> 
 
->>>> **u/Ridingh00d** [+2]  *Ankh-Morpork City Watch**
+>>>> **u/Ridingh00d** [+2]  *Ankh-Morpork City Watch* (14 hours later)
 >>>> 
 >>>> I am shocked! Simply shocked that you would suggest such a course of action Sir!
->>>> I shall have to report you to the proper authorities, as soon as I figure out who they might actually be...
 >>>> 
+>>>> I shall have to report you to the proper authorities, as soon as I figure out who they might actually be...
 
->> **u/andor3333** [+1] *
+>> **u/andor3333** [+1]  (12 hours later)
 >> 
 >> I agree, the omnibus versions are better.
->> 
 
->> **u/tomtan** [+1] *
+>> **u/tomtan** [+1]  (2 days later)
 >> 
 >> Thanks! I've decided that having been to the US for a week in the past two years qualifies me for selecting US as the country :) Looking forward to reading it
->> 
 
-> **u/ElizabethRobinThales** [+8]  *Practically Perfect in Every Way**
+> **u/ElizabethRobinThales** [+9]  *Practically Perfect in Every Way* (3 hours later)
 > 
 > Idk if it's rational or not, but I liked his short story "A Colder War." You can read the entire thing [here](http://www.infinityplus.co.uk/stories/colderwar.htm).
-> 
 
-> **u/Amonwilde** [+6] *
+> **u/Amonwilde** [+5]  (53 minutes later)
 > 
 > Not a bad recommendation, but I'd take Stross's classic novels (Accelerando, Glass House, Saturn's Children) over these. Or the Amber series by Zelazny (the books that inspired Merchant Princes) for that matter.
-> 
 
->> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+8]  *Head of antimemetiWalmart senior assistant manager* (6 hours later)
 >> 
 >> Seconded. 
->> I'm actually reading through the Merchant Princes right now, and while it's interesting enough that I want to know how the plot goes, I find myself skipping forward a bunch. It's not Stross's best work by any stretch.
 >> 
+>> I'm actually reading through the Merchant Princes right now, and while it's interesting enough that I want to know how the plot goes, I find myself skipping forward a bunch. It's not Stross's best work by any stretch.
 
->>> **u/Anderkent** [+4] *
+>>> **u/Anderkent** [+4]  (8 hours later)
 >>> 
 >>> It's true that the pacing suffers from time to time (especially if you're reading the original release; do yourself a favour and get the re-edited omnibus books). However, I found that on a re-read all the details I've skipped the first time now become interesting :P So in a way, skipping ahead provided reread value
->>> 
 
->>> **u/nolrai** [+2] *
+>>> **u/nolrai** [+2]  (19 hours later)
 >>> 
 >>> Really? I liked it quite a bit more than Glass House,  or Neptune's Brood. 
->>> Less then Accelarado or Saturn's Children, though.
 >>> 
+>>> Less then Accelarado or Saturn's Children, though.
 
->> **u/jiaxingseng** [+6] *
+>> **u/jiaxingseng** [+7]  (7 hours later)
 >> 
 >> Saturn's Children is good?
->> Accelerando and Glass House are... genre - defining.
->> The Laundry series is a big influence on a fantasy RPG I'm writing. 
->> I actually also like Singularity Sky and Iron something.  More original to me than, say, the Expanse series.
 >> 
+>> Accelerando and Glass House are... genre - defining.
+>> 
+>> The Laundry series is a big influence on a fantasy RPG I'm writing. 
+>> 
+>> I actually also like Singularity Sky and Iron something.  More original to me than, say, the Expanse series.
 
->>> **u/Amonwilde** [+3] *
+>>> **u/Amonwilde** [+5]  (13 hours later)
 >>> 
 >>> The plot of Saturn's Children didn't seem to hang together, but then again many noir plots are a little nonsensical. The conceit of the novel is a good one, there are some great moments and turns of phrase, and the melancholic atmosphere is pretty perfect. Worth a read, if only for the description of trees as "dendriform photosynthetes."
->>> 
 
-> **u/SaintPeter74** [+5] *
+> **u/SaintPeter74** [+5]  (18 hours later)
 > 
 > I just finished the first book in his follow-on series, Empire Games, which takes place about 20 years later. Still excellent, lots of fun.
-> 
 
->> **u/andor3333** [+1] *
+>> **u/andor3333** [+1]  (19 hours later)
 >> 
 >> Haven't read it yet but definitely plan to. I've been waiting 7 or 8 years for the sequel to come out, so I'm looking forward to it.
->> 
 
-> **u/serge_cell** [+2] *
+> **u/serge_cell** [+2]  (15 hours later)
 > 
 > No they are not using their ability rationally. Rational use would be concentrate on research of physics of interdimentional travels. It worth many orders of magnitude more than any trade profit.
 > There is another problem with most of Stross writing. He can start the plot but never able to develop or resolve it satisfactory. Just trying to put one existential horror on top of another, and they stop being scary very fast. All of his books I have read were exercise in annoyance how such an intriguing premise was completely botched. After several restart I just stopped reading him. The fact that his writing stile leave a lot to be desired was not helping too.
-> 
 
->> **u/SaintPeter74** [+4] *
+>> **u/SaintPeter74** [+5]  (18 hours later)
 >> 
 >> I think that the actions are rational for the medieval style culture that spawns "The Clan".
->> Also, are you sure you're not thinking of his "Laundry Files" novels?  The Merchant Princes novels don't have anything "horror" related.
 >> 
+>> Also, are you sure you're not thinking of his "Laundry Files" novels?  The Merchant Princes novels don't have anything "horror" related.
 
->>> **u/andor3333** [+1] *
+>>> **u/andor3333** [+1]  (19 hours later)
 >>> 
 >>> Yeah that is my thought as well.
->>> 
 
->>> **u/serge_cell** [+1] *
+>>> **u/serge_cell** [+1]  (a day later)
 >>> 
 >>> Yep, I was not clear enough. I meant Laundry and some other book about time-travelling AI or something. Merchant Princes I just found boring and was unable to finish even the first book.
->>> 
 
->> **u/andor3333** [+4] *
+>> **u/andor3333** [+3]  (15 hours later)
 >> 
 >> Have you read the full series? I don't want to spoil it. 
->> Also, what you are describing doesn't sound like this series  at all. In fact one reason I recommended this and not the others is it doesn't have that existential horror theme that I personally don't enjoy.
 >> 
+>> Also, what you are describing doesn't sound like this series  at all. In fact one reason I recommended this and not the others is it doesn't have that existential horror theme that I personally don't enjoy.
 
 ---
 

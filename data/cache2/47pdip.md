@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/47pdip/d_friday_offtopic_thread/
-* Score: 20
+* Score: 21
 
 * Created: 2016-02-26T15:01:33
 
@@ -15,463 +15,446 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/ToaKraka** [+22]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+21]  *https://i.imgur.com/OQGHleQ.png* (5 hours later)
 > 
 > New pages on the wiki...  
 > \- [List of every Monthly Recommendation Thread](https://www.reddit.com/r/rational/wiki/monthlyrecommendation)  
 > \- [List of every Monday Rationality Thread](https://www.reddit.com/r/rational/wiki/mondaygeneralrationality)  
 > \- [List of every Friday Off-Topic Thread](https://www.reddit.com/r/rational/wiki/fridayofftopic)
-> 
 
-> **u/Roxolan** [+16]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+14]  *Head of antimemetiWalmart senior assistant manager* (24 minutes later)
 > 
 > In this clip, a Flash-type superhero is fighting a weather manipulator. Except that in this setting, powers don't necessarily come with all the [required secondaries](http://tvtropes.org/pmwiki/pmwiki.php/Main/RequiredSecondaryPowers): this Flash can't just instantly shed momentum, nor can he phase through obstacles.
-> (Also, he must eat a hamburger as payment for every use of his power. /r/evenwithcontext)
-> https://www.youtube.com/watch?v=_wdvzFUjoEQ
-> (Disclaimer: I have no idea if the show is any good. I just stumbled upon the clip and thought it might amuse this sub.)
 > 
+> (Also, he must eat a hamburger as payment for every use of his power. /r/evenwithcontext)
+> 
+> https://www.youtube.com/watch?v=_wdvzFUjoEQ
+> 
+> (Disclaimer: I have no idea if the show is any good. I just stumbled upon the clip and thought it might amuse this sub.)
 
->> **u/Sparkwitch** [+15] *
+>> **u/Sparkwitch** [+14]  (2 hours later)
 >> 
 >> </fun>
 >> It's hard to tell how fast he's moving, but I'm going to assume he's sub-sonic since he doesn't seem to be bruising himself against the air.
+>> 
 >> When hitting an armor plate, friction and the energy of collision can cause lead bullets to reach their relatively low melting point and go molten, turning kinetic energy into heat and splattering rather than cutting.
+>> 
 >> In addition to being less than 1/11th as dense as lead (and thus imparting less than 1/11th the kinetic energy), water is *already* molten, and it vaporizes at a significantly lower temperature than lead melts.
+>> 
 >> Being pelted by vaporizing beads of water at somewhere less than 300 meters per second is going to be painful, but far from deadly.
 >> <fun>
->> 
 
->>> **u/ayrvin** [+2] *
+>>> **u/ayrvin** [+2]  (a day later)
 >>> 
 >>> upvoted mainly because I haven't noticed reversed html tags before.
->>> 
 
->>> **u/illz569** [+2] *
+>>> **u/illz569** [+2]  (6 days later)
 >>> 
 >>> > When hitting an armor plate, friction and the energy of collision can cause lead bullets to reach their relatively low melting point and go molten, turning kinetic energy into heat and splattering rather than cutting.
 >>> > 
->>> Well this is probably the coolest thing I'm going to learn today. Would a knight in well-made/heavy plate armor be effectively bulletproof?
 >>> 
+>>> Well this is probably the coolest thing I'm going to learn today. Would a knight in well-made/heavy plate armor be effectively bulletproof?
 
->>>> **u/Sparkwitch** [+2] *
+>>>> **u/Sparkwitch** [+2]  (6 days later)
 >>>> 
 >>>> Sort of. It's certainly why heavy body armor includes ballistic plates. It's also why armor piercing rounds contain non-lead cores: steel alloys, tungsten carbide, depleted uranium.
->>>> Most of the time it's better for the knight (or, for that matter, the modern soldier) to be able to move unencumbered and quickly get out of the line of fire than to be wearing armor that is thick enough, dense enough, and layered enough to stop bullets.
 >>>> 
+>>>> Most of the time it's better for the knight (or, for that matter, the modern soldier) to be able to move unencumbered and quickly get out of the line of fire than to be wearing armor that is thick enough, dense enough, and layered enough to stop bullets.
 
->> **u/OutOfNiceUsernames** [+5]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+6]  *fear of last pages* (4 hours later)
 >> 
 >> It’s from [*Darker than Black,*](https://en.wikipedia.org/wiki/Darker_than_Black) which is a pretty fun two season long show. It also has some similarities with [*Hunter × Hunter.*](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter) 
->> In both of these the [superpower lottery](http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpowerLottery) gives to some people (to [“contractors”](http://darkerthanblack.wikia.com/wiki/List_of_Abilities) in one, to [“Nen users”](http://hunterxhunter.wikia.com/wiki/Category:Nen_Abilities) in another) some unique abilities, as well as counterbalancing handicaps. In both the characters often have to try and quickly find out the nature of their opponents’ power and come up with a strategy that will save them from getting killed.
 >> 
+>> In both of these the [superpower lottery](http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpowerLottery) gives to some people (to [“contractors”](http://darkerthanblack.wikia.com/wiki/List_of_Abilities) in one, to [“Nen users”](http://hunterxhunter.wikia.com/wiki/Category:Nen_Abilities) in another) some unique abilities, as well as counterbalancing handicaps. In both the characters often have to try and quickly find out the nature of their opponents’ power and come up with a strategy that will save them from getting killed.
 
->>> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+>>> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate* (7 hours later)
 >>> 
 >>> I found Darker than Black fantastic, captivating and engaging in the first season, for some reason in the second season it made the MC into an alcoholic, abusive parent/carer for an extremely young girl who was not his daughter. It was creepy as shit. Never did understand why.
->>> 
 
-> **u/alexanderwales** [+10]  *Time flies like an arrow**
+> **u/alexanderwales** [+12]  *Time flies like an arrow* (18 hours later)
 > 
 > I just got done playing SUPERHOT and have to say that it's the most innovative shooter I've played in years.
-> The gimmick (and I mean that in the best possible way) is that time only moves when you move, so you're spending the vast majority of your time plotting out your moves instead of doing fast twitch actions. In many ways it's a puzzler, not a shooter.
-> My wife was watching me fail repeatedly at a level and said, "Why don't you cut the bullet in half with your katana?" which I then proceeded to do, and it was awesome.
 > 
+> The gimmick (and I mean that in the best possible way) is that time only moves when you move, so you're spending the vast majority of your time plotting out your moves instead of doing fast twitch actions. In many ways it's a puzzler, not a shooter.
+> 
+> My wife was watching me fail repeatedly at a level and said, "Why don't you cut the bullet in half with your katana?" which I then proceeded to do, and it was awesome.
 
->> **u/manipulativ** [+3] *
+>> **u/manipulativ** [+3]  (19 hours later)
 >> 
 >> Imo it was a bit short though, for the price it's asking. To be fair, there's some form of replayability in the challenge modes, though the ones I've tried haven't really held my attention yet. I guess it was as long as it needed to be, but I definitely wanted more. 
->> And of course, it's the most innovative shooter I've played in years.
 >> 
+>> And of course, it's the most innovative shooter I've played in years.
 
->>> **u/Frommerman** [+1] *
+>>> **u/Frommerman** [+1]  (a day later)
 >>> 
 >>> Is this innovative shooter thing a joke? Where's it come from?
->>> 
 
->>>> **u/merich1** [+1]  *Sunshine Regiment**
+>>>> **u/merich1** [+1]  *Sunshine Regiment* (3 days later)
 >>>> 
 >>>> From inside the game.
->>>> It gets pretty meta.
 >>>> 
+>>>> It gets pretty meta.
 
-> **u/lsparrish** [+10] *
+> **u/lsparrish** [+9]  (3 hours later)
 > 
 > Stephen Wolfram [wrote a cool blog post](http://blog.stephenwolfram.com/2016/02/black-hole-tech/) about the possible technological uses for black holes.
-> 
 
->> **u/whywhisperwhy** [+1] *
+>> **u/whywhisperwhy** [+1]  (4 hours later)
 >> 
 >> I haven't finished this yet but it's incredible so far, thank you. I guess the practical follow-up to this is, how likely is it we'll be capable of generating artificial singularities in the future?
+>> 
 >> Especially since I see articles like this.
 >> http://www.scientificamerican.com/article/scientists-close-in-on-creating-black-hole-in-lab/
->> 
 
->> **u/SvalbardCaretaker** [+0]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+0]  *Mouse Army* (4 hours later)
 >> 
 >> I vastly prefer real world application black hole technology like https://en.wikipedia.org/wiki/Black_hole_starship. I think Wolfram wrote a bunch of exciting scifi buzzwords with very little insight value. "lets use wormholes and exotic matter to go faster than light!!"
->> 
 
->>> **u/IomKg** [+3] *
+>>> **u/IomKg** [+3]  (7 hours later)
 >>> 
 >>> I see you haven't actually claimed to have read the article, but you sound like you are commenting on the content, while in reality Wolfram didn't actually say what you "think [he] wrote".
 >>> In the future I would warmly recommend actually reading an article, before passing judgement on what its author is saying.
 >>> If the article is too long or not interesting enough for you just say so.
+>>> 
 >>> Not to say there nothing to criticize the post for, but over-blowing the relevancy of wormholes and exotic matter, is definitely not one of them.
-
+>>> 
 >>> Out of almost 10k words these are the only parts(around 3%) I could find,and that I can remember, touching on exotic matter and\or wormholes:
+>>> 
 >>> >In General Relativity, the only way to effectively go faster than light is to modify the structure of spacetime. For example, one can imagine a “wormhole” or tube that directly connects different places in space. In General Relativity there’s no way to form such a wormhole if it doesn’t already exist—but there’s nothing to say such wormholes couldn’t already have existed at the beginning of the universe. There is a problem, though, in maintaining an “open wormhole”: the curvature of spacetime at the end would tend to create gravity that would make it collapse.
-
+>>> 
 >>> >I don’t know if it can be proved that there’s no configuration of, say, orbiting black holes that would keep the wormhole open. One known way to keep it open is to introduce matter with special properties like negative energy density—which sounds implausible until you consider vacuum fluctuations in quantum field theory, inflationary-universe scenarios or dark-energy ideas.
 >>> Introducing exotic matter makes all sorts of new solutions possible for the Einstein equations. A notable example is the Alcubierre solution, which in some sense provides a different way to traverse space at any speed, effectively by warping the space.
 >>> Could there be a solution to the Einstein equations that allows something similar, without exotic matter? It hasn’t been proved that it’s impossible. And I suppose one could imagine some configuration of judiciously placed black holes that would make it possible.
-
->>> >And even with spinning black holes and the like, I don’t know of any way to achieve the analog of gravitational shielding—though this changes if one introduces exotic matter that effectively has negative mass, or if, for example, every black hole has electric charge.
 >>> 
+>>> >And even with spinning black holes and the like, I don’t know of any way to achieve the analog of gravitational shielding—though this changes if one introduces exotic matter that effectively has negative mass, or if, for example, every black hole has electric charge.
 
->>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (7 hours later)
 >>>> 
 >>>> And I did indeed skip mostly to the explorative engineering proposals OP advertised as the main content, when in reality that was a very small part of the article. 
->>>> My criticism is that titling Wolframs post as "possible technological uses" for BHs is very much overblowing the importance of that specific part of the article. **Its a fine primer on BHs with really far off speculation tackled on at the end.** 
->>>> In the future, I would warmly recommend to you to be a bit more careful assuming people have not read articles- though I certainly understand, the reddit prior is very in favour of your assumption.
 >>>> 
+>>>> My criticism is that titling Wolframs post as "possible technological uses" for BHs is very much overblowing the importance of that specific part of the article. **Its a fine primer on BHs with really far off speculation tackled on at the end.** 
+>>>> 
+>>>> In the future, I would warmly recommend to you to be a bit more careful assuming people have not read articles- though I certainly understand, the reddit prior is very in favour of your assumption.
 
->>>>> **u/IomKg** [+4] *
+>>>>> **u/IomKg** [+4]  (7 hours later)
 >>>>> 
 >>>>> I assumed you didn't read the article, and technically you just admited to skipping essentially 80% of the article, because the alternative was that you were intentionally misrepresenting the article.
->>>>> Had you mentioned in your original post that the title is misleading and that you found the "BH technologies" to not be too interesting I probably wouldn't have responded to you in the first place. But your original comment suggested the article was something it most definitely isn't.
->>>>> On a side note, even in the limited context of "BH technologies" wormholes and exotic matter are less then quarter of the content, and as my quote shows are not presented as a "lets use wormholes and exotic matter to go faster than light!!", but as a "the only ways to do X that I am aware of are with Y, which may be possible given theorem Z" hardly something I would describe as an attempt to hype or overuse buzzwords.
 >>>>> 
+>>>>> Had you mentioned in your original post that the title is misleading and that you found the "BH technologies" to not be too interesting I probably wouldn't have responded to you in the first place. But your original comment suggested the article was something it most definitely isn't.
+>>>>> 
+>>>>> On a side note, even in the limited context of "BH technologies" wormholes and exotic matter are less then quarter of the content, and as my quote shows are not presented as a "lets use wormholes and exotic matter to go faster than light!!", but as a "the only ways to do X that I am aware of are with Y, which may be possible given theorem Z" hardly something I would describe as an attempt to hype or overuse buzzwords.
 
-> **u/Magodo** [+6]  *Ankh-Morpork City Watch**
+> **u/Magodo** [+6]  *Ankh-Morpork City Watch* (36 minutes later)
 > 
 > It's been a long time since I've enjoyed a platformer as much as [Apotheon](http://store.steampowered.com/app/208750/) and I can't recommend it enough.  
-> It's got accurately depicted gods (from my limited knowledge of Greek mythology), a beautiful score, great voice acting and a large range of weapons that feel good to use. And at this price it's a steal.
 > 
+> It's got accurately depicted gods (from my limited knowledge of Greek mythology), a beautiful score, great voice acting and a large range of weapons that feel good to use. And at this price it's a steal.
 
->> **u/None** [+5] *
+>> **u/None** [+6]  (2 hours later)
 >> 
 >> [THE MAN-EMPEROR OF MANKIND APPROVES.](http://cdn.meme.am/instances/53839572.jpg)
->> EDIT: Does Automod keep removing this post?  Fine, text: since the game has Greco-Roman stylings and also involves *stealing the power of the gods on behalf of mankind*, I figure the Emperor would actually approve for once.
 >> 
+>> EDIT: Does Automod keep removing this post?  Fine, text: since the game has Greco-Roman stylings and also involves *stealing the power of the gods on behalf of mankind*, I figure the Emperor would actually approve for once.
 
-> **u/Rhamni** [+5]  *Aspiring author**
+> **u/Rhamni** [+5]  *Aspiring author* (3 hours later)
 > 
 > I'm not American, but I've been following the debates and townhalls in the US primary. Like the overwhelming majority of Europeans, I favour the Democratic party, so that's also what I've talked most about and followed most closely. I used to think "If Bernie doesn't get the nomination, the Democratic party won't fight for any significant changes, so maybe Trump as the last Outsider would be better," but in the last week or so I've started to think that Trump would be *worse* than the average Republican president.
-> 
 
->> **u/Sparkwitch** [+10] *
+>> **u/Sparkwitch** [+10]  (3 hours later)
 >> 
 >> The president has significantly less power as head of state than it frequently appears.
->> There is power, as Commander-in-Chief of the military, to carry out military actions, but theoretically the congress could stop that at any time by refusing to pay for it. The president also appoints many major civil servants, again subject to congressional approval. In return, the president can veto their legislation (subject to a two-thirds majority override), and with appointments to the Justice Department the president has a good degree of control over how (and, functionally, whether) congressional laws are enforced.
->> If the president is only interested in sustaining the status quo, or is supported by a compliant congress, it can appear that the executive branch has a lot of power. The president makes proposals and those proposals are executed.
->> When a president acts in opposition to congress (not merely, as with the last few presidents, opposition to half of it) presidential power can evaporate very quickly indeed.
->> Additionally, there is a great deal of political capital to be gained by fighting for significant change specifically when it *can't* be implemented. Both parties are braver about proposing and voting for legislation that would please their base but offend independents when they know the other party's president will veto it.
->> All the benefit of having fought the good fight, with none of the requirement to deal with legislative consequences.
->> President Bernie Sanders would say more things that please non-Americans than President Hillary Clinton would... and a *lot* more such things than President Donald Trump would. Whether any of those things would lead to significant change is almost entirely in the hands of congress.
 >> 
+>> There is power, as Commander-in-Chief of the military, to carry out military actions, but theoretically the congress could stop that at any time by refusing to pay for it. The president also appoints many major civil servants, again subject to congressional approval. In return, the president can veto their legislation (subject to a two-thirds majority override), and with appointments to the Justice Department the president has a good degree of control over how (and, functionally, whether) congressional laws are enforced.
+>> 
+>> If the president is only interested in sustaining the status quo, or is supported by a compliant congress, it can appear that the executive branch has a lot of power. The president makes proposals and those proposals are executed.
+>> 
+>> When a president acts in opposition to congress (not merely, as with the last few presidents, opposition to half of it) presidential power can evaporate very quickly indeed.
+>> 
+>> Additionally, there is a great deal of political capital to be gained by fighting for significant change specifically when it *can't* be implemented. Both parties are braver about proposing and voting for legislation that would please their base but offend independents when they know the other party's president will veto it.
+>> 
+>> All the benefit of having fought the good fight, with none of the requirement to deal with legislative consequences.
+>> 
+>> President Bernie Sanders would say more things that please non-Americans than President Hillary Clinton would... and a *lot* more such things than President Donald Trump would. Whether any of those things would lead to significant change is almost entirely in the hands of congress.
 
->>> **u/Rhamni** [+7]  *Aspiring author**
+>>> **u/Rhamni** [+6]  *Aspiring author* (4 hours later)
 >>> 
 >>> It is of course 100% the case that even with a 51% Democratic Congress and Senate (60% seems unlikely), Sanders stands no chance of pushing through every piece of legislation he has campaigned on. However, one of Sanders' main strengths is that he draws crowds and volunteers to a higher degree than most politicians, even than Clinton, who is still leading in the polls. If there were no Super PACs, he would be outraising her to the tune of tens of millions of dollars. A president who is good at getting normal citizens to care enough to get involved is able to apply a lot of soft pressure on individual congressmen and senators, especially when they have public opinion on their side. Plus, for all that he was Independent, he has been in congress and the senate for a long time. He and Clinton both know that game.
->>> Ultimately, for me it boils down to: Sanders wants to make systemic changes to improve the lives of the vast majority of Americans (There is an economic argument to be had here, but it works in Europe, and I really don't like trickle down economics), and is the candidate least likely to help multinational corporations bully governments around the world. Plus, it's almost unthinkable that the Senate would refuse to confirm a Supreme Court Justice for 5/9 years, and Sanders would definitely hold out on putting forward Justices he liked. He won't get everything he wants, maybe not even the majority of what he wants, but I'd rather have a president who tried, and who made perfectly certain that the issues were at least discussed.
->>> Now, I realize /r/rational is very unlikely to all favour Sanders, and I will certainly confine the political discussion to this comment tree, but it's Offtopic Friday, so if anyone wants to keep discussing the election or Sanders, I'd love to hear the input of people here.
 >>> 
+>>> Ultimately, for me it boils down to: Sanders wants to make systemic changes to improve the lives of the vast majority of Americans (There is an economic argument to be had here, but it works in Europe, and I really don't like trickle down economics), and is the candidate least likely to help multinational corporations bully governments around the world. Plus, it's almost unthinkable that the Senate would refuse to confirm a Supreme Court Justice for 5/9 years, and Sanders would definitely hold out on putting forward Justices he liked. He won't get everything he wants, maybe not even the majority of what he wants, but I'd rather have a president who tried, and who made perfectly certain that the issues were at least discussed.
+>>> 
+>>> Now, I realize /r/rational is very unlikely to all favour Sanders, and I will certainly confine the political discussion to this comment tree, but it's Offtopic Friday, so if anyone wants to keep discussing the election or Sanders, I'd love to hear the input of people here.
 
->>>> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+7]  *My arch-enemy is entropy* (10 hours later)
 >>>> 
 >>>> I'm not to willing to spend time right now on a political discussion since they tend to be tiring for me, but I just wanted to let you know that Sanders is the president I favor as a counter-point to your statement:
->>>> > Now, I realize /r/rational is very unlikely to all favour Sanders
 >>>> 
+>>>> > Now, I realize /r/rational is very unlikely to all favour Sanders
 
->>>>> **u/Rhamni** [+1]  *Aspiring author**
+>>>>> **u/Rhamni** [+1]  *Aspiring author* (10 hours later)
 >>>>> 
 >>>>> That was more a precautionary statement to tell the community I'm not here to proselytize, but that's nice!
->>>>> 
 
->>> **u/Luminnaran** [+6]  *Prophet of Asmodeus**
+>>> **u/Luminnaran** [+5]  *Prophet of Asmodeus* (6 hours later)
 >>> 
 >>> I agree with everything you said, but I feel like I should point out that although it is theoretically possible for congress to refuse to pay for war and stop it that has never happened. The three main reasons being the President doesn't need the approval of congress to fight if it isn't a war, so he just doesn't call it such(if memory serves the US has only technically served in 6 wars). Second being that Republicans are almost always pro war anyways allowing the president to go to anyone that does anything they don't like on any pretext they can think of. Third of course is that us Americans really like spending money on our military, so the idea that  republicans (hell even a democratic supermajority) seems so unlikely that it almost seems impossible.
->>> 
 
->>> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+>>> **u/Escapement** [+3]  *Ankh-Morpork City Watch* (16 hours later)
 >>> 
 >>> This particular election cycle, there will likely be replacement *but probably more than one* of the Supreme Court, due to the present court's demographics. The Supreme Court's influence and effects are extremely large and long-lasting. Once Justices are raised to the bench, they have little check on their power, and it's quite likely that due to the ages of the present Supreme Court constituents and the ability to retire voluntarily, whoever wins election will likely win the court for the next several decades - with things like the constitutionality of laws requiring photo ID for voting and voter suppression laws, privacy as a right, etc. all up for grabs.
->>> 
 
->>>> **u/Rhamni** [+1]  *Aspiring author**
+>>>> **u/Rhamni** [+1]  *Aspiring author* (a day later)
 >>>> 
 >>>> As a non-American, regarding these voter ID laws... Why not make it so photo ID is required but also give everyone a hassle free photo ID paid for by the government/taxes? It sounds like the Republicans are only pushing the Voter Fraud angle, so couldn't the Democrats push for a 'compromise' that defeats the voter suppression implications? I realize voter fraud is a non-issue, but it doesn't seem like there is any other plausible case to be made for photo ID requirements.
->>>> 
 
->>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >>>>> 
 >>>>> > Why not make it so photo ID is required but also give everyone a hassle free photo ID paid for by the government/taxes? It sounds like the Republicans are only pushing the Voter Fraud angle, so couldn't the Democrats push for a 'compromise' that defeats the voter suppression implications?
->>>>> Eliminating the $20 or so that it takes to get a state ID card is a start, but it seems virtually impossible to eliminate the hassle even if you did your best to streamline the process more than it already is. It would almost certainly require people to go to their local DMV, which disproportionately hurts poor people because they're far less likely to own a car. It also takes some non-zero amount of time, which disproportionately hurts poor people because they're more likely to work multiple jobs.
->>>>> There's not really a good way to do photo ID "hassle free", at least not if you want to make it secure. And that hassle is almost always going to affect poor people, which is what Republicans want (if I'm being charitable, I would say that this is more of a lack of empathy for the poor than it is an attempt at suppression, but I don't know whether charity is warranted here).
->>>>> We don't even have a national voting holiday in the United States.
 >>>>> 
+>>>>> Eliminating the $20 or so that it takes to get a state ID card is a start, but it seems virtually impossible to eliminate the hassle even if you did your best to streamline the process more than it already is. It would almost certainly require people to go to their local DMV, which disproportionately hurts poor people because they're far less likely to own a car. It also takes some non-zero amount of time, which disproportionately hurts poor people because they're more likely to work multiple jobs.
+>>>>> 
+>>>>> There's not really a good way to do photo ID "hassle free", at least not if you want to make it secure. And that hassle is almost always going to affect poor people, which is what Republicans want (if I'm being charitable, I would say that this is more of a lack of empathy for the poor than it is an attempt at suppression, but I don't know whether charity is warranted here).
+>>>>> 
+>>>>> We don't even have a national voting holiday in the United States.
 
->>>>>> **u/Rhamni** [+3]  *Aspiring author**
+>>>>>> **u/Rhamni** [+3]  *Aspiring author* (a day later)
 >>>>>> 
 >>>>>> Good point. Even here in Sweden, the most convenient way of getting a photo ID involves two trips to the nearest police station. It could certainly be made *more* convenient though, if government *wanted* people to have a proper ID. If you wanted to find a way to give everyone a photo ID (which you might want to do for other reasons than voting, like building sinister citizen DNA/fingerprint/photo registers or whatever), you could set it up as part of the process of registering for food stamps/graduation from high school, etc. Or just offer a $100 tax rebate for getting it done.
->>>>>> Of course, if you just want fewer likely Democrats to vote, understaffed DMVs with hour long lines and no national voting holiday is probably the way to go.
 >>>>>> 
+>>>>>> Of course, if you just want fewer likely Democrats to vote, understaffed DMVs with hour long lines and no national voting holiday is probably the way to go.
 
->> **u/xamueljones** [+7]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+8]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> > Trump would be worse than the average Republican president.
->> I agree so much and I reluctantly admire how Trump is so good at winning over specific subsets of the public such as Christians and the working class.
 >> 
+>> I agree so much and I reluctantly admire how Trump is so good at winning over specific subsets of the public such as Christians and the working class.
 
->>> **u/Rhamni** [+5]  *Aspiring author**
+>>> **u/Rhamni** [+7]  *Aspiring author* (4 hours later)
 >>> 
 >>> He's very good at it. Even when I strongly disagree with him, it's difficult not to like him at times. He's got a certain charm. He does ridiculous things like responding to "You promised during an interview on my radio show that you would show us your taxes" with "Almost no one listens to your radio show," as if that is in any way a satisfying answer, yet the audience loves it. I am not at all certain that a majority of the voters would vote against him.
->>> 
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+5]  (7 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Kishoto** [+2] *
+>>>>> **u/Kishoto** [+2]  (10 hours later)
 >>>>> 
 >>>>> I think it's more because people tend to vote for people they like, especially when said person isn't impacting their day-to-day living. In smaller communities, where that person has clear, decisive impact on how we live each day (think any show with a small group of 'survivors' such as Lost or The Walking Dead), people are much more concerned with that person being capable, as well as likable. 
->>>>> In a situation where they feel free from worrying about how capable the person is (due to the overarching distance between the POTUS and your average citizen), they're going to stray towards the person they like more. Especially when they're not very learned, or inclined to research. Modern politics is, more often than not, a popularity contest, as far as who gets the popular vote anyway. And charismatic, well spoken and most of all *well liked* individuals always win those. 
->>>>> TL;DR: When a person has little real stake in who wins a competition and/or isn't well versed on the technicalities of said competition, they're just going to vote for the guy they like.
 >>>>> 
+>>>>> In a situation where they feel free from worrying about how capable the person is (due to the overarching distance between the POTUS and your average citizen), they're going to stray towards the person they like more. Especially when they're not very learned, or inclined to research. Modern politics is, more often than not, a popularity contest, as far as who gets the popular vote anyway. And charismatic, well spoken and most of all *well liked* individuals always win those. 
+>>>>> 
+>>>>> TL;DR: When a person has little real stake in who wins a competition and/or isn't well versed on the technicalities of said competition, they're just going to vote for the guy they like.
 
->> **u/Adrastos42** [+5]  *I got a B in critical thinking!**
+>> **u/Adrastos42** [+5]  *I got a B in critical thinking!* (4 hours later)
 >> 
 >> Yeah, also not from the US but I feel that if Bernie doesn't make it then Hillary as the status-quo choice is still probably the best. The idea of Trump as the outsider who will actually make changes sounds great in theory apart from the fact that the changes would be being made by Trump:/
->> 
 
->> **u/Nighzmarquls** [+6] *
+>> **u/Nighzmarquls** [+5]  (3 hours later)
 >> 
 >> That is the consensus I've seen from the inside of the US.
->> 
 
->> **u/HPMOR_fan** [+4] *
+>> **u/HPMOR_fan** [+5]  (10 hours later)
 >> 
 >> > so maybe Trump as the last Outsider would be better," but in the last week or so I've started to think that Trump would be worse than the average Republican president.
->> I'm reserving judgement on that. I have a hard time accepting that Trump actually doubts Obama's birth certificate or believes vaccines cause autism. It appears to be appears to have been done to establish a particularly radical fan base. But how many of his current opinions are genuine, meaning do they represent what he would actually try to accomplish in office? I don't see how any other Republican would stand a chance against Sanders or Clinton. If it's Trump vs Clinton then I'll have to try to figure out what Trump would actually do.
 >> 
+>> I'm reserving judgement on that. I have a hard time accepting that Trump actually doubts Obama's birth certificate or believes vaccines cause autism. It appears to be appears to have been done to establish a particularly radical fan base. But how many of his current opinions are genuine, meaning do they represent what he would actually try to accomplish in office? I don't see how any other Republican would stand a chance against Sanders or Clinton. If it's Trump vs Clinton then I'll have to try to figure out what Trump would actually do.
 
->>> **u/Rhamni** [+6]  *Aspiring author**
+>>> **u/Rhamni** [+3]  *Aspiring author* (10 hours later)
 >>> 
 >>> Fair enough. It's very possible he's pretending and will be more reasonable in the general and as a president. It's just... not a gamble I'm very comfortable with. At least with Hillary we know all we get is the two trade agreements and continued unlimited money in politi... Oh god I'm making myself sad again.
->>> 
 
->>>> **u/HPMOR_fan** [+2] *
+>>>> **u/HPMOR_fan** [+2]  (12 hours later)
 >>>> 
 >>>> Yes, that's why if I were to support him I hope I could determine what he really believes (for example by taking a closer look at what he did before getting involved in politics). There's also the point that even if he does a complete 180 on all his policies, where much of his support came from is scary in itself.
->>>> I wonder if he's planning to be an ink blot test. Convince the conservatives that he's pretending to be more liberal to win the general election, while convincing the moderates/liberals that he only acted conservative to win the primaries.
 >>>> 
+>>>> I wonder if he's planning to be an ink blot test. Convince the conservatives that he's pretending to be more liberal to win the general election, while convincing the moderates/liberals that he only acted conservative to win the primaries.
 
->>>> **u/HPMOR_fan** [+2] *
+>>>> **u/HPMOR_fan** [+2]  (12 hours later)
 >>>> 
 >>>> I should add that a big factor for me is how chummy Trump gets with the Republican establishment. If I see him using the same advisers as Bush, for example, I couldn't support him no matter what he says. I'll take the Democratic establishment over Republican every time.
->>>> 
 
->>>> **u/Jace_MacLeod** [+1] *
+>>>> **u/Jace_MacLeod** [+1]  (a day later)
 >>>> 
 >>>> If it makes you feel any better, there's [very little scientific evidence](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9208750&fileId=S0003055400197199) that moneyed interests dominate the legislative process, at least in terms of influencing votes. What it does seem to do, however, is grant a seat at the table. There's definitely influence, especially while in committee, but the process isn't the outright bribery most people tend to think of it as.
->>>> 
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (8 hours later)
 >> 
 >> Politics is spiders.
->> 
 
->>> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+3]  *Carthago delenda est.* (a day later)
 >>> 
 >>> Trump commands spiders to his will, and it's very interesting no matter your opinion of him.
->>> 
 
->>>> **u/Rhamni** [+3]  *Aspiring author**
+>>>> **u/Rhamni** [+3]  *Aspiring author* (a day later)
 >>>> 
 >>>> I had never had minions before, so I set out to get some experience. I styled myself as a 'reality show' charismatic asshole and shamelessly appealed to the worst qualities in the electorate. ...I never thought it would get this far.
->>>> 
 
-> **u/Nighzmarquls** [+5] *
+> **u/Nighzmarquls** [+5]  (3 hours later)
 > 
 > I've been learning Haskell lately.
-> It's a lot of fun, the ability to work with infinite lists (but technically not) seems like it could be super useful but I've not actually thought of any implementations yet.
 > 
+> It's a lot of fun, the ability to work with infinite lists (but technically not) seems like it could be super useful but I've not actually thought of any implementations yet.
 
->> **u/xamueljones** [+4]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> I keep meaning to spend some time learning Haskell just for the fun of it. Do you have any particular starting tutorials for people who are already programmers that you can recommend?
->> 
 
->>> **u/Nighzmarquls** [+4] *
+>>> **u/Nighzmarquls** [+3]  (4 hours later)
 >>> 
 >>> I am starting with [this one](https://www.youtube.com/watch?v=02_H3LjqMr8) and the constant explanations of my haskell fan friends on what is cool about it.
->>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (13 hours later)
 >>> 
 >>> Learn You a Haskell for Great Good?
->>> 
 
->>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (14 hours later)
 >>>> 
 >>>> Huh? I think I get what you're trying to say, but....what?
->>>> "Learn a skill for the greater good"?
 >>>> 
+>>>> "Learn a skill for the greater good"?
 
->>>>> **u/MrCogmor** [+3] *
+>>>>> **u/MrCogmor** [+4]  (15 hours later)
 >>>>> 
 >>>>> It's the name of a Haskell tutorial which can be found here http://learnyouahaskell.com/
->>>>> 
 
->>>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager**
+>>>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (15 hours later)
 >>>>> 
 >>>>> It is the name of a popular Haskell manual and, I'm sure, a Haskell programming joke.
->>>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (23 hours later)
 >>>>> 
 >>>>> It's the name of a book for learning Haskell.
->>>>> 
 
->> **u/gbear605** [+2]  *history’s greatest story**
+>> **u/gbear605** [+2]  *history’s greatest story* (10 hours later)
 >> 
 >> After reading this, I started picking it up. The first couple hours have been fun so far.
->> 
 
-> **u/Luminnaran** [+5]  *Prophet of Asmodeus**
+> **u/Luminnaran** [+5]  *Prophet of Asmodeus* (6 hours later)
 > 
 > If you guys woke up in a D&D setting tomorrow what would you do?
-> 
 
->> **u/Roxolan** [+10]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+9]  *Head of antimemetiWalmart senior assistant manager* (7 hours later)
 >> 
 >> Theoretically, study wizard magic. In every edition of the game it's the most powerful and versatile thing you can do. 
->> But in this world, I'm very bad at making myself do the reasonable and fun things rather than slumping into akrasia/depression, and I don't see why that would change. [(Yudkowsky on that topic)](http://lesswrong.com/lw/ou/if_you_demand_magic_magic_wont_help/)
->> More plausibly, I would try to find some rich patron that would be satisfied by the standard time-traveller wares: gunpowder, the printing press, basic sanitation, accounting etc. D&D magic may be superior to a lot of that tech, but (except in Eberron) it's prohibitively expensive to non-spellcasters and doesn't scale well.
 >> 
+>> But in this world, I'm very bad at making myself do the reasonable and fun things rather than slumping into akrasia/depression, and I don't see why that would change. [(Yudkowsky on that topic)](http://lesswrong.com/lw/ou/if_you_demand_magic_magic_wont_help/)
+>> 
+>> More plausibly, I would try to find some rich patron that would be satisfied by the standard time-traveller wares: gunpowder, the printing press, basic sanitation, accounting etc. D&D magic may be superior to a lot of that tech, but (except in Eberron) it's prohibitively expensive to non-spellcasters and doesn't scale well.
 
->> **u/Nighzmarquls** [+5] *
+>> **u/Nighzmarquls** [+4]  (6 hours later)
 >> 
 >> If levels and experience are an actual thing I would see if I could become a wizard and go for magic item crafting.
->> Depending on rule variants I might also go looking for druids. But if it's 5th edition I'd be very annoyed.
 >> 
+>> Depending on rule variants I might also go looking for druids. But if it's 5th edition I'd be very annoyed.
 
->> **u/Rhamni** [+2]  *Aspiring author**
+>> **u/Rhamni** [+2]  *Aspiring author* (7 hours later)
 >> 
 >> Find out my stats and start figuring out how to amass the longest practical list of spells known.
->> 
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (8 hours later)
 >> 
 >> It depends on which settings and how the rules are implemented (if they are at all). I think my strengths are probably in intellectual areas, especially in comparison with other intellectuals within the average D&D setting. So I think that I probably go to the most powerful person I can find and ingratiate myself by giving away some of the secrets that I know. At the same time, I try to find out whether there are any cracks in the world that I can exploit.
->> 
 
-> **u/blazinghand** [+3]  *Chaos Undivided**
+> **u/blazinghand** [+4]  *Chaos Undivided* (a day later)
 > 
 > The outcome of the Iranian Elections is [looking up](http://www.theguardian.com/world/2016/feb/27/reformists-and-moderates-lead-race-in-early-election-results). If the reformists and moderates continue to do well, we should see big improvements. I don't have high hopes for the Assembly of Experts, but should the moderates manage to get control of that, we should see big changes in the next 20 years. Regardless, these elections vindicate Rouhani. His opponents claim that his conciliatory attitude towards the west and willingness to negotiate makes Iran weak and is unpopular with the people. It seems they have been proven wrong. With renewed support we should expect the pro-liberalization factions in Iran to have a stronger mandate going forward, and the Ayatollah will have even less grounds to restrict them.
-> The Assembly of Experts is the elected body that has the power to kick out the Ayatollah (leader of the theocratic branch of the Iranian government) and is in charge of selecting a new one when the current one dies or retires. Ali Khamenei, the current Ayatollah, is 76 and has cancer, which means this Assembly of Experts is probably the one that will select the next Ayatollah. A win for the non-conservative parties here could give them control of the theocratic branch of government, potentially for decades. This is important because one of the things that has slowed down the wave of liberalization going through Iran is the theocratic branch.
 > 
+> The Assembly of Experts is the elected body that has the power to kick out the Ayatollah (leader of the theocratic branch of the Iranian government) and is in charge of selecting a new one when the current one dies or retires. Ali Khamenei, the current Ayatollah, is 76 and has cancer, which means this Assembly of Experts is probably the one that will select the next Ayatollah. A win for the non-conservative parties here could give them control of the theocratic branch of government, potentially for decades. This is important because one of the things that has slowed down the wave of liberalization going through Iran is the theocratic branch.
 
-> **u/LiteralHeadCannon** [+2] *
+> **u/LiteralHeadCannon** [+2]  (3 hours later)
 > 
 > My attempt to tap into the collective intelligence of /r/rational by putting codes in my fanfic hasn't been as successful as I'd hoped, largely due to a drop in interest overall. Oh well. It was sort of an afterthought.
-> 
 
->> **u/thecommexokid** [+8] *
+>> **u/thecommexokid** [+7]  (10 hours later)
 >> 
 >> The trouble with ciphers is that it's hard to use the power of collective intelligence to work together, because there's really no incremental progress. If you try exactly the right thing, the message shifts from gibberish to perfect English all at once; if you try almost-but-not-quite the right thing, the result still looks like gibberish and there's no signal that you're on the right track. There's no ability to post, "This thought seems like a promising lead, what do other people make of it?" and have others take up the baton.
->> For the long cipher passage from chapter 2, I got as far as to note that the passage uses all 26 characters, has a letter frequency distribution inconsistent with English but consistent with random text, and has no strong periodic index of coincidence for any period 1–20. So that ruled out a whole bunch of common cipher types, but I didn't have any idea how to proceed from there.
->> The only in-text hints were Dipper's description of a right isosceles triangle and Mabel's admonishment to hold off on proposing solutions. Since I was unable to make much of the former, I instead listened to the latter.
->> *Edit:* I think if I saw one or two of these things get solved in the text, that would give me a sense of where in the enormous solution space you as the author had your attention focused, and I'd have a lot more success with future ciphers.
 >> 
+>> For the long cipher passage from chapter 2, I got as far as to note that the passage uses all 26 characters, has a letter frequency distribution inconsistent with English but consistent with random text, and has no strong periodic index of coincidence for any period 1–20. So that ruled out a whole bunch of common cipher types, but I didn't have any idea how to proceed from there.
+>> 
+>> The only in-text hints were Dipper's description of a right isosceles triangle and Mabel's admonishment to hold off on proposing solutions. Since I was unable to make much of the former, I instead listened to the latter.
+>> 
+>> *Edit:* I think if I saw one or two of these things get solved in the text, that would give me a sense of where in the enormous solution space you as the author had your attention focused, and I'd have a lot more success with future ciphers.
 
->>> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+5]  *My arch-enemy is entropy* (10 hours later)
 >>> 
 >>> > it's hard to use the power of collective intelligence to work together
->>> I would just like to add on the fact that people also don't tend to see crossing out possibilities as progress. For example in a perfect collective intelligence, what you just outlined would be used as incremental progress to know what doesn't need to be repeated and to focus attention on different types of codes.
->>> Unfortunately people see failures as wastes of time instead of progress, when in research, any experimental result is information to be used to narrow down the hypothesis space.
 >>> 
+>>> I would just like to add on the fact that people also don't tend to see crossing out possibilities as progress. For example in a perfect collective intelligence, what you just outlined would be used as incremental progress to know what doesn't need to be repeated and to focus attention on different types of codes.
+>>> 
+>>> Unfortunately people see failures as wastes of time instead of progress, when in research, any experimental result is information to be used to narrow down the hypothesis space.
 
->>>> **u/thecommexokid** [+1] *
+>>>> **u/thecommexokid** [+1]  (10 hours later)
 >>>> 
 >>>> The only reason I didn't write this in the comments of the chapter post itself was that /u/Transfuturist had already noted all the same stuff.
->>>> 
 
->>>> **u/MugaSofer** [+1] *
+>>>> **u/MugaSofer** [+1]  (a day later)
 >>>> 
 >>>> I get the impression the ARG community is very good at this.
->>>> 
 
->> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (4 hours later)
 >> 
 >> The problem is that /r/rational likes to solve whodunnit mysteries, social manipulations, or munchkining problems, but your fanfiction was the first story that I have ever seen posted here with any codes involved whatsoever. If you still want to have readers who like that sort of stuff while having rational stuff, put the codes as aside-attraction and share your story with /r/codes.
->> TL;DR - The codes can include hints, but make the story solvable (albeit harder) without codes.
 >> 
+>> TL;DR - The codes can include hints, but make the story solvable (albeit harder) without codes.
 
->>> **u/LiteralHeadCannon** [+1] *
+>>> **u/LiteralHeadCannon** [+1]  (4 hours later)
 >>> 
 >>> As I said, they were an afterthought.  I put them in pretty much because of popular demand.  I just figured they'd kick up more discussion than they have.
->>> 
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (10 hours later)
 >>>> 
 >>>> > popular demand
->>>> Really? When did anyone mention that they liked codes? I thought I would have been aware of this. Do you mind showing me the thread that involved codes?
 >>>> 
+>>>> Really? When did anyone mention that they liked codes? I thought I would have been aware of this. Do you mind showing me the thread that involved codes?
 
->>>>> **u/LiteralHeadCannon** [+3] *
+>>>>> **u/LiteralHeadCannon** [+3]  (10 hours later)
 >>>>> 
 >>>>> First chapter thread.
->>>>> 
 
->>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (11 hours later)
 >>>>> 
 >>>>> I like codes. I just want them to be solvable. I haven't had a second go at the long passage in ch2 because I'm not sure where to start, if there are any connections or what.
->>>>> 
 
-> **u/Kishoto** [+1] *
+> **u/Kishoto** [+1]  (10 hours later)
 > 
 > A reddit relation question: [this](http://i.imgur.com/8wIuwmx.png) thing, the percentage-upvote and points indicator. Does it work as intended?
-> I ask because I'll often see the points fluctuate, even on posts with only maybe 8-9 voters. As an example, try hitting refresh right now and watch the numbers fluctuate. You can even try this on an old post with a low sub count 
-
-> [For example...](https://www.reddit.com/r/ToTheStars/comments/3j6fbq/field_marshal_tomoe_at_command_of_euphratic/)
-> Does anyone have any insight on why this happens?
 > 
+> I ask because I'll often see the points fluctuate, even on posts with only maybe 8-9 voters. As an example, try hitting refresh right now and watch the numbers fluctuate. You can even try this on an old post with a low sub count 
+> 
+> [For example...](https://www.reddit.com/r/ToTheStars/comments/3j6fbq/field_marshal_tomoe_at_command_of_euphratic/)
+> 
+> Does anyone have any insight on why this happens?
 
->> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png* (11 hours later)
 >> 
 >> [The Reddit FAQ](https://www.reddit.com/wiki/faq#wiki_how_is_a_submission.27s_score_determined.3F):
->> > **How is a submission's score determined?**
->> > A submission's score is simply the number of upvotes minus the number of downvotes. If five users like the submission and three users don't it will have a score of 2. Please note that the vote numbers are not "real" numbers, they have been "fuzzed" to prevent spam bots etc. So taking the above example, if five users upvoted the submission, and three users downvote it, the upvote/downvote numbers may say 23 upvotes and 21 downvotes, or 12 upvotes, and 10 downvotes. The points score is correct, but the vote totals are "fuzzed".
->> See also [this more detailed explanation](http://np.reddit.com/r/woahdude/comments/1vehg6/gopro_on_the_back_of_an_eagle/cersffj).
 >> 
+>> > **How is a submission's score determined?**
+>> 
+>> > A submission's score is simply the number of upvotes minus the number of downvotes. If five users like the submission and three users don't it will have a score of 2. Please note that the vote numbers are not "real" numbers, they have been "fuzzed" to prevent spam bots etc. So taking the above example, if five users upvoted the submission, and three users downvote it, the upvote/downvote numbers may say 23 upvotes and 21 downvotes, or 12 upvotes, and 10 downvotes. The points score is correct, but the vote totals are "fuzzed".
+>> 
+>> See also [this more detailed explanation](http://np.reddit.com/r/woahdude/comments/1vehg6/gopro_on_the_back_of_an_eagle/cersffj).
 
->>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+3]  *Head of antimemetiWalmart senior assistant manager* (12 hours later)
 >>> 
 >>> In addition to whatever it does to spambots (huh?), it works wonders to stop me from obsessing about karma. Did my post's score just drop three points? Eh, it's just the fuzzing going the other direction, nobody actually thinks I'm garbage. See, refresh makes it go up again. Wheee!
->>> 
 
->>>> **u/MugaSofer** [+3] *
+>>>> **u/MugaSofer** [+3]  (a day later)
 >>>> 
 >>>> Reddit deals with spambots by "shadowbanning" them, so their posts and votes are only visible to the bot. So they need the fuzzing to ensure bots don't simply notice that none of their votes are changing the vote totals. It's rather clever, actually.
->>>> 
 
->>>> **u/Transfuturist** [+4]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>> 
 >>>> You're not garbage. *hug*
->>>> 
 
->>>>> **u/Roxolan** [+0]  *Head of antimemetiWalmart senior assistant manager**
+>>>>> **u/Roxolan** [+0]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>> 
 >>>>> Appreciated.
->>>>> 
 
->>> **u/Kishoto** [+2] *
+>>> **u/Kishoto** [+2]  (12 hours later)
 >>> 
 >>> Are those explanations still applicable? I saw [this post](https://www.reddit.com/r/announcements/comments/28hjga/reddit_changes_individual_updown_vote_counts_no/) that explains why the upvote/downvote totals have been moved to this new, percentage based system. 
->>> Anyway, based on that, I'm just gonna chalk it up to reddit's new submission vote fuzzing. I don't begrudge them this at all, I'm mostly just happy that I now have enough evidence to validate my assumption.
 >>> 
+>>> Anyway, based on that, I'm just gonna chalk it up to reddit's new submission vote fuzzing. I don't begrudge them this at all, I'm mostly just happy that I now have enough evidence to validate my assumption.
 
 ---
 

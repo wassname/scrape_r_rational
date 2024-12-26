@@ -2,7 +2,7 @@
 
 * Author: u/paradoxinclination *
 * URL: https://www.reddit.com/r/rational/comments/3epsd9/wip_kinetic_energy_magic_system/
-* Score: 8
+* Score: 7
 
 * Created: 2015-07-27T00:36:47
 
@@ -26,111 +26,108 @@ That's what I've got so far; what I want to do is create a number of distinct su
 
 ### Comments:
 
-> **u/None** [+6] *
+> **u/None** [+5]  (4 hours later)
 > 
 > In that society, being nude give you enough of an advantage as a Mage that I can see it as being either illegal for safety reasons (everyone wears gloves in the city) or embraced for utility reasons.
-> 
 
->> **u/gabbalis** [+3] *
+>> **u/gabbalis** [+3]  (19 hours later)
 >> 
 >> Imagine if it was illegal... then only criminals would be able to abuse it.
->> ...
->> EVERYBODY FREEZE! I HAVE NO CLOTHES.
->> Also magical cops would be stripper cops.
->> Hold on, we're not describing a fantasy setting... we're describing a porn setting.
 >> 
+>> ...
+>> 
+>> EVERYBODY FREEZE! I HAVE NO CLOTHES.
+>> 
+>> Also magical cops would be stripper cops.
+>> 
+>> Hold on, we're not describing a fantasy setting... we're describing a porn setting.
 
->>> **u/CaptainCrayfish** [+5] *
+>>> **u/CaptainCrayfish** [+4]  (19 hours later)
 >>> 
 >>> -In the fight against the big bad:
->>> "Foolish Heroes, you truly think you've bested me? Don't you realize? I'm still wearing my shirt!"
->>> -Big Bad removes shirt with a flourish, begins curb stomping heros.
->>> All magical duels basically become strip-sorcery.
 >>> 
+>>> "Foolish Heroes, you truly think you've bested me? Don't you realize? I'm still wearing my shirt!"
+>>> 
+>>> -Big Bad removes shirt with a flourish, begins curb stomping heros.
+>>> 
+>>> All magical duels basically become strip-sorcery.
 
->>>> **u/paradoxinclination** [+4] *
+>>>> **u/paradoxinclination** [+4]  (19 hours later)
 >>>> 
 >>>> This wasn't quite what I had in mind but I love it.
->>>> 
 
->>>> **u/gabbalis** [+2] *
+>>>> **u/gabbalis** [+2]  (19 hours later)
 >>>> 
 >>>> "What? I don't understand. You weren't nearly this strong the last time we fought... but you're outfit's the same! what's changed?"
->>>> "Oh? You haven't realized yet? Today I'm going commando!"
 >>>> 
+>>>> "Oh? You haven't realized yet? Today I'm going commando!"
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (19 hours later)
 >>> 
 >>> Perhaps it would be best if porous materials were ok... So clothes are fine, leather/metal isn't. Chain mail is so-so.
->>> 
 
->>>> **u/paradoxinclination** [+2] *
+>>>> **u/paradoxinclination** [+2]  (19 hours later)
 >>>> 
 >>>> One of the various thresholds I was thinking of for each power was to gain the ability to project energy through a certain width of solid material. Seeing this, I think that it might have been good to make that a basic or intermediate power.
->>>> Porous materials, hmm. That might be a better idea honestly.
 >>>> 
+>>>> Porous materials, hmm. That might be a better idea honestly.
 
->> **u/paradoxinclination** [+2] *
+>> **u/paradoxinclination** [+2]  (6 hours later)
 >> 
 >> It could also vary depending on the situation. Perhaps in order to come into the presence of nobles or kings it would be required to wear full body clothing at all times, maybe even a mask.
->> 
 
-> **u/luminarium** [+2] *
+> **u/luminarium** [+2]  (2 hours later)
 > 
 > I like the parallelism you have between the four powers, it's nice.
-> I don't think there needs to be a hard limit of 50 m, seems entirely arbitrary. Should just make it geometrically more mana-intensive (and people having relatively similar limits on how fast they can expend mana). 
-> If energy can only be emitted in straight lines outward from the caster, it would mean they can't quite move objects in 3d, they can only push/pull, like allomancy in Mistborn.
 > 
+> I don't think there needs to be a hard limit of 50 m, seems entirely arbitrary. Should just make it geometrically more mana-intensive (and people having relatively similar limits on how fast they can expend mana). 
+> 
+> If energy can only be emitted in straight lines outward from the caster, it would mean they can't quite move objects in 3d, they can only push/pull, like allomancy in Mistborn.
 
->> **u/paradoxinclination** [+1] *
+>> **u/paradoxinclination** [+1]  (4 hours later)
 >> 
 >> Perhaps you're right, it would make it much more intuitive than what I had in mind.
+>> 
 >> That's correct, although some degree of fine manipulation is possible using fingers, since they can be easily re-positioned. 
 >> I am actually considering having motion TK's operate in a similar manner to Mistborn, with equal force applied to both ends, because that opens all sorts of interesting avenues for maneuvering and cool wuxia stuff.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 hours later)
 > 
 > Tactile illusions could be an interesting subcategory - use a highly targeted burst of motion, heat, or light to create a sensation that delivers a far higher pain response than the necessary bandwidth would suggest.
-> 
 
->> **u/paradoxinclination** [+1] *
+>> **u/paradoxinclination** [+1]  (5 hours later)
 >> 
 >> I think I would put that under, 'theoretically possible, but complicated and difficult.' Maybe impossible with light, outside very high outputs, where you'd probably just start frying them anyways.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (4 hours later)
 > 
 > Sound / motion - could they use tiny shockwaves to create vacuum cavities for better grip? Drive single grains of poison into someone's neck on a pulse of air, while distracting them with a sudden headache or, uh, bowel stimulation?
-> Long distance - light and sound, no problem, though sound would probably want o stay out of normal human hearing.
 > 
+> Long distance - light and sound, no problem, though sound would probably want o stay out of normal human hearing.
 
->> **u/paradoxinclination** [+1] *
+>> **u/paradoxinclination** [+1]  (18 hours later)
 >> 
 >> Not sure, because I'm not sure on the mechanics of vacuum cavities, but sounds plausible. Propelling objects using soundwaves is definitely possible, but it would probably make a lot of noise unless you were very delicate.
->> This reminds me, I need to work out exactly how much fine control practice can give you over emission. Right now I'm thinking that with extended practice, it should be possible to control the color of light and the pitch, tune, etc. of sound. Still thinking of what someone with fine control of heat or motion could do.
 >> 
+>> This reminds me, I need to work out exactly how much fine control practice can give you over emission. Right now I'm thinking that with extended practice, it should be possible to control the color of light and the pitch, tune, etc. of sound. Still thinking of what someone with fine control of heat or motion could do.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (18 hours later)
 >>> 
 >>> Just use a lower frequency than human hearing. Also, resonance-frequency shenanigans. Smash things! Anyway, if you can use sound waves to propel things, and stick enough energy behind it, your hands are now guns.
->>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (18 hours later)
 >>> 
 >>> Hmm. My immediate thought is that sound people should be ninjas/assassins. Wall climbing, silence, double-jumping with pulsed low-frequency sound waves, and hitting the resonant frequency of your spinal chord. Ninjas.
->>> 
 
->>>> **u/paradoxinclination** [+1] *
+>>>> **u/paradoxinclination** [+1]  (19 hours later)
 >>>> 
 >>>> That's an awesome idea that I'm going to steal now. They could do cool things like imitating voices, or throwing sounds across a room as a distraction. Offensively, they'd be able to create thunderclaps and probably all sorts of stuff I haven't thought of.
->>>> Sound ninjas!
 >>>> 
+>>>> Sound ninjas!
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (20 hours later)
 >>> 
 >>> Honestly, light is the only special one here. The other three are basically "motion, on various scales". Plus, every one of these leaks over into the others - light causes heat causes sound causes motion. Maybe, at the most advanced level, mages can perceive other schools of energy almost as well as their own purely through energy exchange?
->>> 
 
 ---
 

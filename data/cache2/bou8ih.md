@@ -2,7 +2,7 @@
 
 * Author: u/lumenwrites *
 * URL: https://www.reddit.com/r/rational/comments/bou8ih/can_you_help_me_brainstorm_and_design_two_dnd/
-* Score: 16
+* Score: 15
 
 * Created: 2019-05-15T06:15:01
 
@@ -30,360 +30,378 @@ Works exactly like portal gun from the portal game. You open two 10-feet wide po
 
 ### Comments:
 
-> **u/GET_A_LAWYER** [+24] *
+> **u/GET_A_LAWYER** [+22]  (40 minutes later)
 > 
 > *Summon Evil Twin* will grind your game to a halt unless your players are very supportive about Rule 0. You (and your players) be trying to adjudicate (and argue about) wish-like clever phrasing **every turn while in combat**. 
-> &#x200B;
-> *Spell of Time-Turning* is a 9th level spell, most likely. It sounds like a lot of fun, but I would have in mind a reason for it to be temporary, since "I teleport home and bring everyone I know to the fight" is a pretty funky mechanic. Meanwhile, it is non-paradoxical for a player to announce , "I arrive from an hour in the future and tell myself everything that happens in this dungeon," as long as in an hour they remember to do so. But Divination spells are already broken so maybe it's fine?
-> &#x200B;
-> *Open Portal* is pretty great. 5th level probably? You've got two sessions before someone reroutes a river into a dungeon or castle – the solution to this is elevation changes within the dungeon to stop water flow.
 > 
+> &#x200B;
+> 
+> *Spell of Time-Turning* is a 9th level spell, most likely. It sounds like a lot of fun, but I would have in mind a reason for it to be temporary, since "I teleport home and bring everyone I know to the fight" is a pretty funky mechanic. Meanwhile, it is non-paradoxical for a player to announce , "I arrive from an hour in the future and tell myself everything that happens in this dungeon," as long as in an hour they remember to do so. But Divination spells are already broken so maybe it's fine?
+> 
+> &#x200B;
+> 
+> *Open Portal* is pretty great. 5th level probably? You've got two sessions before someone reroutes a river into a dungeon or castle – the solution to this is elevation changes within the dungeon to stop water flow.
 
->> **u/hoja_nasredin** [+9]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+6]  *Dai-Gurren Brigade* (3 hours later)
 >> 
 >> What this guy said.  
-
->> Summon evil twin with precise wording will make players waste a lot of time.  Also it is overpowered, you are giving yourself double action for the whole fight. Not so bad if you are playing 3.5 where high level fights are bullshit and losing one full action (not one turn cause only n00bs have one full action a turn in 3.5 high levels) could make sense.  
-
->>  *Spell of Time-Turning*  Players will create pardoxes. They will try to make them no matter what even just to see how the DM reacts.  
-
->> Open Portal. I would say it is fine, but be prepared with dungeons and castles being destroyed by it (Players do not even need to be original, just rip Portal 2 ending: portal to the moon)
 >> 
+>> Summon evil twin with precise wording will make players waste a lot of time.  Also it is overpowered, you are giving yourself double action for the whole fight. Not so bad if you are playing 3.5 where high level fights are bullshit and losing one full action (not one turn cause only n00bs have one full action a turn in 3.5 high levels) could make sense.  
+>> 
+>>  *Spell of Time-Turning*  Players will create pardoxes. They will try to make them no matter what even just to see how the DM reacts.  
+>> 
+>> Open Portal. I would say it is fine, but be prepared with dungeons and castles being destroyed by it (Players do not even need to be original, just rip Portal 2 ending: portal to the moon)
 
->> **u/IICVX** [+6] *
+>> **u/IICVX** [+4]  (7 hours later)
 >> 
 >> Honestly I'd allow *Open Portal* as a reskin of *Dimension Door*, if you add some caveats. I'd put in that one portal must be on a surface within five feet of yourself, and it can only transmit a total of 2x your carry weight before the portal collapses. 
->> It's got a bit more tactical utility than DD (you can pull someone out of danger from range, or get rid of a monster that's right next to you), but a bit less strategic utility (you can no longer teleport blind).
 >> 
+>> It's got a bit more tactical utility than DD (you can pull someone out of danger from range, or get rid of a monster that's right next to you), but a bit less strategic utility (you can no longer teleport blind).
 
->> **u/Sonderjye** [+4] *
+>> **u/Sonderjye** [+3]  (13 hours later)
 >> 
 >> I don' think that it would take that long to give commands to the evil twin. Tell it outside of combat that it's supposed to follow your orders in the way it thinks that you intended for it.   
-
->> Also, don't make slaves.
 >> 
+>> Also, don't make slaves.
 
->>> **u/GET_A_LAWYER** [+6] *
+>>> **u/GET_A_LAWYER** [+7]  (a day later)
 >>> 
 >>> It's not that giving commands takes time. The time consuming part is the DM figuring out how to corrupt the command, the players deciding the DM's interpretation is invalid, then the inevitable arguments.
->>> 
 
->>>> **u/Sonderjye** [+2] *
+>>>> **u/Sonderjye** [+2]  (a day later)
 >>>> 
 >>>> Good point.
->>>> 
 
->> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (2 days later)
 >> 
 >> >  "I arrive from an hour in the future and tell myself everything that happens in this dungeon," as long as in an hour they remember to do so.
->> And they are alive and have a suitable spell slot to cast it. I suggest to address the possibility of them failing to do so with something like "this creates a paradox that then opens up a rift between planes and some time demon or something comes out". So your punishment for getting it wrong is a straightforward "fight this horrible monster" rather than "let's reset the whole last hour of play".
 >> 
+>> And they are alive and have a suitable spell slot to cast it. I suggest to address the possibility of them failing to do so with something like "this creates a paradox that then opens up a rift between planes and some time demon or something comes out". So your punishment for getting it wrong is a straightforward "fight this horrible monster" rather than "let's reset the whole last hour of play".
 
-> **u/CCC_037** [+10] *
+> **u/CCC_037** [+11]  (3 hours later)
 > 
 > Evil Twin: Can I give you a suggestion?
-> Caster (distracted by the Problem At Hand): Sure, go ahead.
-> Evil Twin: *casts Suggestion* Tell me to do whatever I want.
 > 
+> Caster (distracted by the Problem At Hand): Sure, go ahead.
+> 
+> Evil Twin: *casts Suggestion* Tell me to do whatever I want.
 
->> **u/Nimelennar** [+5] *
+>> **u/Nimelennar** [+5]  (11 hours later)
 >> 
 >> [Erfworld fan?](https://archives.erfworld.com/Book%202/83)
->> 
 
->>> **u/CCC_037** [+6] *
+>>> **u/CCC_037** [+6]  (11 hours later)
 >>> 
 >>> That's where I got the specific phrasing from, yeah, but an Evil Twin with mind magic is still legitimately terrifying.
->>> 
 
-> **u/Radioterrill** [+7] *
+> **u/Radioterrill** [+7]  (4 hours later)
 > 
 > **Summon Evil Twin:** 
-> This is really vulnerable to munchkinry, and it's not hard to get around the downsides. 
-> Is the evil twin affected by copies of all the spells affecting you? Depending on how the targeting works you could cast Dominate Person on yourself beforehand or use a similar effect to force yourself, and by extension your evil twin, not to be evil.
-> Does the evil twin appear with equipment? If so, they can use consumable items recklessly and cast spells with expensive material components for you at no cost. If they appear without equipment, that's a lot more bookkeeping and it removes the ambiguity of which one is the twin. 
-> The evil twin can be given suicidal orders, which means you can use them to activate abilities and cast spells that would be too costly to you to use otherwise. For example, in 5e an evocation wizard could have their twin cast spells and use overchannel every turn at no cost to themselves, and an evil twin's castings of wish, while dangerous, might not come at the cost of using up the original's three wishes.
-> Also, what happens to the evil twin of someone like a Cleric, Paladin, or Druid, whose abilities are at least partly tied to their beliefs and morality?
-> I'd make this spell similar to Simulacrum, so give it a permanent duration and have the twin appear without any spells prepared for the day, ongoing spells on them, or any equipment. That cuts down on some of the most obvious tricks. Giving the caster and twin a negative level each might also help the balance.
-> Alternatively, if you want Precisely Bound Demons, why not just include some literal demons that have been precisely bound, and let the players find the item used to issue commands? That way you get around a lot of problems, in particular the issue of players disputing how the evil version of their character would respond to their character's orders.
-> **Spell of time turning:**
-> Wish can change the outcome of a single roll that happened last round. Time stop, the closest time magic I can think of, has a duration of rounds. Compared to these, I think making this 9th level and going back 1 minute, rather than 1 hour, would be of similar power.
-> Also, the restriction on stable time loops could be easy to get around with spells like Modify Memory and illusions, if you just need to convince your past selves that what they saw was real.
-> **Open Portal:**
-> D&D is not a good physics engine. I'd suggest instead describing existing spells and effects in terms of how they work with portals. Feather fall? Produce a portal below them that's linked to ground level as soon as they start falling. Reverse gravity? You're juggling people with portals so they're constantly falling. Telekinesis? You're using portals to produce the same effects. Classes that already use a lot of teleportation effects would be a good starting point.
 > 
+> This is really vulnerable to munchkinry, and it's not hard to get around the downsides. 
+> 
+> Is the evil twin affected by copies of all the spells affecting you? Depending on how the targeting works you could cast Dominate Person on yourself beforehand or use a similar effect to force yourself, and by extension your evil twin, not to be evil.
+> 
+> Does the evil twin appear with equipment? If so, they can use consumable items recklessly and cast spells with expensive material components for you at no cost. If they appear without equipment, that's a lot more bookkeeping and it removes the ambiguity of which one is the twin. 
+> 
+> The evil twin can be given suicidal orders, which means you can use them to activate abilities and cast spells that would be too costly to you to use otherwise. For example, in 5e an evocation wizard could have their twin cast spells and use overchannel every turn at no cost to themselves, and an evil twin's castings of wish, while dangerous, might not come at the cost of using up the original's three wishes.
+> 
+> Also, what happens to the evil twin of someone like a Cleric, Paladin, or Druid, whose abilities are at least partly tied to their beliefs and morality?
+> 
+> I'd make this spell similar to Simulacrum, so give it a permanent duration and have the twin appear without any spells prepared for the day, ongoing spells on them, or any equipment. That cuts down on some of the most obvious tricks. Giving the caster and twin a negative level each might also help the balance.
+> 
+> Alternatively, if you want Precisely Bound Demons, why not just include some literal demons that have been precisely bound, and let the players find the item used to issue commands? That way you get around a lot of problems, in particular the issue of players disputing how the evil version of their character would respond to their character's orders.
+> 
+> **Spell of time turning:**
+> 
+> Wish can change the outcome of a single roll that happened last round. Time stop, the closest time magic I can think of, has a duration of rounds. Compared to these, I think making this 9th level and going back 1 minute, rather than 1 hour, would be of similar power.
+> 
+> Also, the restriction on stable time loops could be easy to get around with spells like Modify Memory and illusions, if you just need to convince your past selves that what they saw was real.
+> 
+> **Open Portal:**
+> 
+> D&D is not a good physics engine. I'd suggest instead describing existing spells and effects in terms of how they work with portals. Feather fall? Produce a portal below them that's linked to ground level as soon as they start falling. Reverse gravity? You're juggling people with portals so they're constantly falling. Telekinesis? You're using portals to produce the same effects. Classes that already use a lot of teleportation effects would be a good starting point.
 
->> **u/GeneralExtension** [+6] *
+>> **u/GeneralExtension** [+7]  (a day later)
 >> 
 >> >This is really vulnerable to munchkinry, and it's not hard to get around the downsides.
->> Command the Evil Twin to not speak, except as necessary to carry out directions. Direct them to cast the spell "Evil Twin".
 >> 
+>> Command the Evil Twin to not speak, except as necessary to carry out directions. Direct them to cast the spell "Evil Twin".
 
->>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (2 days later)
 >>> 
 >>> So the Evil Evil Twin is actually a Good Twin. Then gang up 2v1 and kill the Evil Twin.
->>> 
 
->>>> **u/GeneralExtension** [+1] *
+>>>> **u/GeneralExtension** [+1]  (2 days later)
 >>>> 
 >>>> I'm not familiar with summoning in D&D, but wouldn't that make the "Good Twin" disappear?
->>>> Also, if the evil twin is actually the opposite\* of you, then in some ways they might be a better person than you - it is only if you are perfectly good, that they are perfectly evil. Additionally, while good people might not want their evil counterparts running around (and I'm a tad suspicious of the idea that everyone knows whether they're good or evil), evil people might have something to gain by having good counterparts running around - it might make it more likely that people trust you. Additionally, if your duplicate has duplicate money, then we might have a scenario where people who are good are sometimes caught robbing their identical twins, while evil people are caught giving their money away, or to good causes - and reminding bystanders that they are a terrible person who cannot be trusted. Stories like Jekyll and Hyde pop up, but with a twist - sometimes both of them have been spotted in the same place, at the same  time. People become suspicious of twins who are the same sex, especially identical twins...
->>>> \*If you're hardworking are they lazy?
 >>>> 
+>>>> Also, if the evil twin is actually the opposite\* of you, then in some ways they might be a better person than you - it is only if you are perfectly good, that they are perfectly evil. Additionally, while good people might not want their evil counterparts running around (and I'm a tad suspicious of the idea that everyone knows whether they're good or evil), evil people might have something to gain by having good counterparts running around - it might make it more likely that people trust you. Additionally, if your duplicate has duplicate money, then we might have a scenario where people who are good are sometimes caught robbing their identical twins, while evil people are caught giving their money away, or to good causes - and reminding bystanders that they are a terrible person who cannot be trusted. Stories like Jekyll and Hyde pop up, but with a twist - sometimes both of them have been spotted in the same place, at the same  time. People become suspicious of twins who are the same sex, especially identical twins...
+>>>> 
+>>>> \*If you're hardworking are they lazy?
 
->>> **u/Yosarian2** [+1] *
+>>> **u/Yosarian2** [+1]  (7 days later)
 >>> 
 >>> The Evil Twin doesn't speak out loud but instead he quickly uses sign language to direct the Evil Evil twin to kill you and them himself and then to ignore all further commands from you
->>> 
 
->>>> **u/GeneralExtension** [+1] *
+>>>> **u/GeneralExtension** [+1]  (7 days later)
 >>>> 
 >>>> This is brilliant,
->>>> >and them himself
->>>> but I don't get why they'd do that.
 >>>> 
+>>>> >and them himself
+>>>> 
+>>>> but I don't get why they'd do that.
 
->>>>> **u/Yosarian2** [+1] *
+>>>>> **u/Yosarian2** [+1]  (8 days later)
 >>>>> 
 >>>>> By "himself" I mean tell the evil evil twin to commit suicide after killing the original
->>>>> 
 
->>>>>> **u/GeneralExtension** [+1] *
+>>>>>> **u/GeneralExtension** [+1]  (8 days later)
 >>>>>> 
 >>>>>> That makes more sense, but I'm still not clear on why.
->>>>>> 
 
->>>>>>> **u/Yosarian2** [+1] *
+>>>>>>> **u/Yosarian2** [+1]  (8 days later)
 >>>>>>> 
 >>>>>>> I'm imagining the evil twin would want to kill both you and the evil evil twin and then take over your life, heh.  Either one of you would stop him if you could.
->>>>>>> 
 
->>>>>>>> **u/GeneralExtension** [+1] *
+>>>>>>>> **u/GeneralExtension** [+1]  (8 days later)
 >>>>>>>> 
 >>>>>>>> But the evil evil twin has to do what he says, and is the perfect fall guy.
->>>>>>>> 
 
->>>>>>>>> **u/Yosarian2** [+1] *
+>>>>>>>>> **u/Yosarian2** [+1]  (8 days later)
 >>>>>>>>> 
 >>>>>>>>> You're the evil twin. It took you about half a second to figure out a loophole so you could to kill your good twin. How long are you going to give your evil evil twin a chance to figure out another loophole to do the same to you?
->>>>>>>>> 
 
->>>>>>>>>> **u/GeneralExtension** [+1] *
+>>>>>>>>>> **u/GeneralExtension** [+1]  (8 days later)
 >>>>>>>>>> 
 >>>>>>>>>> 1. I tell them not to do anything, and I ask them to tell me the truth, the whole truth, and nothing but the truth, concerning how, if I gave the following command, they would go about doing it.
 >>>>>>>>>> 2. I ask them to do everything the way they think I would do it.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Yosarian2** [+1] *
+>>>>>>>>>>> **u/Yosarian2** [+1]  (9 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I don't think that would delay them for too long.
->>>>>>>>>>> >I ask them to do everything the way they think I would do it.
->>>>>>>>>>> "Sure, I'll be glad to kill my creator.  You just did."
 >>>>>>>>>>> 
+>>>>>>>>>>> >I ask them to do everything the way they think I would do it.
+>>>>>>>>>>> 
+>>>>>>>>>>> "Sure, I'll be glad to kill my creator.  You just did."
 
->>>>>>>>>>>> **u/GeneralExtension** [+1] *
+>>>>>>>>>>>> **u/GeneralExtension** [+1]  (13 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> Sure, then they might kill me, but then... they're me.
->>>>>>>>>>>> 
 
->> **u/lumenwrites** [+2] *
+>> **u/lumenwrites** [+2]  (4 hours later)
 >> 
 >> Thank you for the amazing reply! A lot of good points, I'll try to tweak the spells to make them less overpowered.
->> 
 
-> **u/doremitard** [+6] *
+> **u/doremitard** [+6]  (28 minutes later)
 > 
 > You should probably specify what happens in-world if players using the Time Turner spell try to do something that creates a paradox, either wilfully or by accident. Suppose they try to go back and warn themselves anyway: are they prevented from moving close enough to their past selves by an intangible barrier? Do they just find themselves unable to maintain the will to keep walking in the direction of their past selves, and compelled to walk away as their past selves approach? Or does fate intervene in a way that seems like an accident?
-> 
 
->> **u/lumenwrites** [+1] *
+>> **u/lumenwrites** [+1]  (41 minutes later)
 >> 
 >> I think that it could be a series of increasingly unlikely and unpleasant accidents.
->> 
 
->>> **u/doremitard** [+6] *
+>>> **u/doremitard** [+7]  (5 hours later)
 >>> 
 >>> Also, it’s worth bearing in mind that Time Turner presumably doesn’t let you move in space... so if going back an hour to where you are now would cause a paradox, casting the spell fails.
->>> Say the PCs are infiltrating a castle and stumble into a guardroom, alerting lots of elite guards and getting into a fight they can’t handle. If they cast Time Turner right there, they’d go back in time and appear in the guardroom - but if that had happened, all the guards would already have been on alert an hour later and they’d never have been able to sneak in. 
->>> So this gives the DM a right to veto using the spell if it would cause an instant paradox.
->>> But smart PCs can use this another way: observe the unalerted castle, go back in time and sneak in, and they can’t fail any sneak rolls, because otherwise they wouldn’t have seen all the guards snoozing an hour later. So maybe it’s too easy to abuse.
 >>> 
+>>> Say the PCs are infiltrating a castle and stumble into a guardroom, alerting lots of elite guards and getting into a fight they can’t handle. If they cast Time Turner right there, they’d go back in time and appear in the guardroom - but if that had happened, all the guards would already have been on alert an hour later and they’d never have been able to sneak in. 
+>>> 
+>>> So this gives the DM a right to veto using the spell if it would cause an instant paradox.
+>>> 
+>>> But smart PCs can use this another way: observe the unalerted castle, go back in time and sneak in, and they can’t fail any sneak rolls, because otherwise they wouldn’t have seen all the guards snoozing an hour later. So maybe it’s too easy to abuse.
 
->>> **u/hoja_nasredin** [+5]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+6]  *Dai-Gurren Brigade* (3 hours later)
 >>> 
 >>> Too generic? You need something that does not feel "rock fall everybody dies". I could suggest some monster appearing:  
-
->>> [https://www.aidedd.org/dnd/monstres.php?vo=astral-dreadnought](https://www.aidedd.org/dnd/monstres.php?vo=astral-dreadnought)  
-
->>> [https://coinsandscrolls.blogspot.com/2017/05/osr-creature-paradox-angels.html](https://coinsandscrolls.blogspot.com/2017/05/osr-creature-paradox-angels.html)  
-
->>> But it still does not feel fair for players.
 >>> 
+>>> [https://www.aidedd.org/dnd/monstres.php?vo=astral-dreadnought](https://www.aidedd.org/dnd/monstres.php?vo=astral-dreadnought)  
+>>> 
+>>> [https://coinsandscrolls.blogspot.com/2017/05/osr-creature-paradox-angels.html](https://coinsandscrolls.blogspot.com/2017/05/osr-creature-paradox-angels.html)  
+>>> 
+>>> But it still does not feel fair for players.
 
->>>> **u/hoja_nasredin** [+3]  *Dai-Gurren Brigade**
+>>>> **u/hoja_nasredin** [+3]  *Dai-Gurren Brigade* (4 hours later)
 >>>> 
 >>>> Astral dreadnoughts were invented to counter wizards from abusing a specific mechanic in the game so it make sense to bring them out again, they are very efficient against magic users.
->>>> 
 
->>> **u/doremitard** [+3] *
+>>> **u/doremitard** [+3]  (an hour later)
 >>> 
 >>> That seems like the most fun way to do it. The other thing to specify would be that you can’t chain Time Turner spells to go further back than an hour (unless you want that to be possible).
->>> EDIT: also,in terms of being fun to play, the spell should be capable of sending the whole party back, not just the caster. Maybe it sends back anyone you’re touching when cast.
 >>> 
+>>> EDIT: also,in terms of being fun to play, the spell should be capable of sending the whole party back, not just the caster. Maybe it sends back anyone you’re touching when cast.
 
-> **u/dobri111** [+5] *
+> **u/dobri111** [+5]  (30 minutes later)
 > 
 > Evil twin - lvl 6 and shares your spell pool. If he casts a spell it uses a spell from your spell pool. If you die, he becames you. Duration...minute/lvl ?
-> Spell of time turning - just no. Perhaps for a villian. No on players. Max level spell for a villian, usable once per week. Chance of pulling heroes close to villian into the time loop.
-> Open portal - cool spell, it would be cooler as a new class feature.  Duration round/lvl - about lvl 4.
 > 
+> Spell of time turning - just no. Perhaps for a villian. No on players. Max level spell for a villian, usable once per week. Chance of pulling heroes close to villian into the time loop.
+> 
+> Open portal - cool spell, it would be cooler as a new class feature.  Duration round/lvl - about lvl 4.
 
->> **u/dobri111** [+2] *
+>> **u/dobri111** [+2]  (49 minutes later)
 >> 
 >> Add dimension door stuff into Open portal. Weight restriction and not portaling into solid rock, and things like that.
->> 
 
->> **u/lumenwrites** [+1] *
+>> **u/lumenwrites** [+1]  (38 minutes later)
 >> 
 >> Awesome, thank you!!
->> 
 
-> **u/hh26** [+3] *
+> **u/hh26** [+3]  (7 hours later)
 > 
 > The simplest way to handle time travel is the save/load version.  When you go back in time, everything that happened within the last hour is undone except your memories, your mind/soul return to your body wherever it was one hour ago, there is no second copy of you, history begins recording from where you left off and does not have to do the same thing as it did the last time, you do not have to travel back in time a second time at the end of an hour.
-> This is not how Harry Potter time turners work, but is much more sane and consistent.
-> Note that if you do it this way you will want to have just their minds travel back (and maybe health/spells/experience) but prevent them from duplicating items.
-> Summon evil twin seems overpowered if you can just summon it in combat and give it one command per turn, as you can just literally specify which target it attacks and which skill it uses on it.  I would suggest having this be a more long-term thing where you have to give it vague directions that can lead it for multiple turns.  Maybe you have to give it all of its commands in advance as soon as you summon it, like "kill all of my enemies", which then is vulnerable to the DM misinterpreting what an "enemy is", so to be safer you might say "kill every goblin near me" if you're in a combat where the enemies are only goblins, which backfires if there are friendly goblins, or you want to take prisoners, or a boss that isn't a goblin shows up.
-> So either you can only give it commands at the beginning of the summon, or once every so long,  A more extreme version is if you're making the evil twin be part of an artifact, you could have the evil twin be a permanent member of the party that is always following them.  Maybe it has a list of commands that it's following, so you need to have them be general enough to govern its everyday behavior, but you can only add, remove, and modify commands at sunrise or whenever you get new spells.  This way, if players make a mistake and the evil twin is exploiting a loophole players have to restrain it rather than being able to instantly modify the command to stop it.  This also prevents the players from spending several minutes out of game arguing about the perfect command in a round of combat that's supposedly 6 seconds.  Players only give commands during a long rest period, when it makes sense for the character to have a long time to think of something.
-> In any case, I would suggest both of these to be a legendary artifacts that cast that spell, rather than something any caster can learn. They're kind of really powerful if used right, and so you want to control how many times the players can cast them, and explain why the bad guys aren't using them to do the same things.  A world in which any sufficiently strong caster can time travel would have soooooo many differences.  Every sufficiently rich and powerful person or group, especially kings and millitaries, would have as many casters who could use this spell as possible, and you would need to figure out how to handle bad guys anticipating your heroe's every move (especially since you yourself can't time travel).  A legendary artifact shuts all of that down and gives an excuse for only the players to have this power.
 > 
+> This is not how Harry Potter time turners work, but is much more sane and consistent.
+> 
+> Note that if you do it this way you will want to have just their minds travel back (and maybe health/spells/experience) but prevent them from duplicating items.
+> 
+> Summon evil twin seems overpowered if you can just summon it in combat and give it one command per turn, as you can just literally specify which target it attacks and which skill it uses on it.  I would suggest having this be a more long-term thing where you have to give it vague directions that can lead it for multiple turns.  Maybe you have to give it all of its commands in advance as soon as you summon it, like "kill all of my enemies", which then is vulnerable to the DM misinterpreting what an "enemy is", so to be safer you might say "kill every goblin near me" if you're in a combat where the enemies are only goblins, which backfires if there are friendly goblins, or you want to take prisoners, or a boss that isn't a goblin shows up.
+> 
+> So either you can only give it commands at the beginning of the summon, or once every so long,  A more extreme version is if you're making the evil twin be part of an artifact, you could have the evil twin be a permanent member of the party that is always following them.  Maybe it has a list of commands that it's following, so you need to have them be general enough to govern its everyday behavior, but you can only add, remove, and modify commands at sunrise or whenever you get new spells.  This way, if players make a mistake and the evil twin is exploiting a loophole players have to restrain it rather than being able to instantly modify the command to stop it.  This also prevents the players from spending several minutes out of game arguing about the perfect command in a round of combat that's supposedly 6 seconds.  Players only give commands during a long rest period, when it makes sense for the character to have a long time to think of something.
+> 
+> In any case, I would suggest both of these to be a legendary artifacts that cast that spell, rather than something any caster can learn. They're kind of really powerful if used right, and so you want to control how many times the players can cast them, and explain why the bad guys aren't using them to do the same things.  A world in which any sufficiently strong caster can time travel would have soooooo many differences.  Every sufficiently rich and powerful person or group, especially kings and millitaries, would have as many casters who could use this spell as possible, and you would need to figure out how to handle bad guys anticipating your heroe's every move (especially since you yourself can't time travel).  A legendary artifact shuts all of that down and gives an excuse for only the players to have this power.
 
-> **u/archpawn** [+2] *
+> **u/archpawn** [+2]  (an hour later)
 > 
 > > Summon Evil Twin
-> Reminds me of Ice Assassin, but I suppose that would be someone else's evil twin.
-> You could just order your Evil Twin to summon another Evil Twin. Which would be good (or whatever your alignment is), and also is the first step to having a massive army. It seems OP.
-> > everything that players have already observed is "set in stone" and will happen exactly as it did, but you can influence anything that happened off-screen.
-> You could cast Modify Memory on yourself to trick out time. Or erase your own memory before you go back, so you don't have any memories to contradict and anything could happen.
-> > Works exactly like portal gun from the portal game. You open two 10-feet wide portals on any surface within 120 feet you have a line of signt to.
-> I'd add that it must be unobstructed even by transparent objects, so you can't open one end to the bottom of the lake. Though there's so many other ways to abuse that it seems pointless.
 > 
+> Reminds me of Ice Assassin, but I suppose that would be someone else's evil twin.
+> 
+> You could just order your Evil Twin to summon another Evil Twin. Which would be good (or whatever your alignment is), and also is the first step to having a massive army. It seems OP.
+> 
+> > everything that players have already observed is "set in stone" and will happen exactly as it did, but you can influence anything that happened off-screen.
+> 
+> You could cast Modify Memory on yourself to trick out time. Or erase your own memory before you go back, so you don't have any memories to contradict and anything could happen.
+> 
+> > Works exactly like portal gun from the portal game. You open two 10-feet wide portals on any surface within 120 feet you have a line of signt to.
+> 
+> I'd add that it must be unobstructed even by transparent objects, so you can't open one end to the bottom of the lake. Though there's so many other ways to abuse that it seems pointless.
 
->> **u/lumenwrites** [+1] *
+>> **u/lumenwrites** [+1]  (an hour later)
 >> 
 >> Good points!
->> I don't think Evil Twin army would work though. There's some kind of time limit on his existence, and when you cast Evil Twin you spend a spell slot, so he will have one spell slot less.
->> Although, if Evil Twin summons his own opposite, you will have a copy of yourself aligned with your goals =) But it would have to obey Evil Twin's commands. Hilarious =)
 >> 
+>> I don't think Evil Twin army would work though. There's some kind of time limit on his existence, and when you cast Evil Twin you spend a spell slot, so he will have one spell slot less.
+>> 
+>> Although, if Evil Twin summons his own opposite, you will have a copy of yourself aligned with your goals =) But it would have to obey Evil Twin's commands. Hilarious =)
 
->>> **u/archpawn** [+1] *
+>>> **u/archpawn** [+1]  (an hour later)
 >>> 
 >>> > There's some kind of time limit on his existence, and when you cast Evil Twin you spend a spell slot, so he will have one spell slot less.
->>> It only takes nine hours for wizards to completely refill spell slots. As long as the Evil Twin has time to replace themselves and create another, it can work.
 >>> 
+>>> It only takes nine hours for wizards to completely refill spell slots. As long as the Evil Twin has time to replace themselves and create another, it can work.
 
->>> **u/MugaSofer** [+1] *
+>>> **u/MugaSofer** [+1]  (3 days later)
 >>> 
 >>> Boringly, you could just order your evil twin to relay all your commands to his good twin verbatim, or not to give any commands.
->>> 
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (a day later)
 >> 
 >> >You could cast Modify Memory on yourself to trick out time.
->> I don't think that this would work. It's not really about what you remember, it's about time having one self-consistent state, and what the party has observed just happens to be the one part of the world that the DM can't handwave away. Everything else is basically Schrodinger's Cat.
 >> 
+>> I don't think that this would work. It's not really about what you remember, it's about time having one self-consistent state, and what the party has observed just happens to be the one part of the world that the DM can't handwave away. Everything else is basically Schrodinger's Cat.
 
->>> **u/archpawn** [+1] *
+>>> **u/archpawn** [+1]  (a day later)
 >>> 
 >>> > and what the party has observed just happens to be the one part of the world that the DM can't handwave away.
->>> So by that logic, if you see an illusion, the DM has to tell you it's an illusion? Since if they said it's actually there then it would have to be?
 >>> 
+>>> So by that logic, if you see an illusion, the DM has to tell you it's an illusion? Since if they said it's actually there then it would have to be?
 
->>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> **u/thrawnca** [+1]  *Carbon-based biped* (a day later)
 >>>> 
 >>>> > So by that logic, if you see an illusion, the DM has to tell you it's an illusion?
->>>> No; where do you get that idea?
->>>> Rather, upon time-turning, you would not be able to stop your first self from seeing the illusion. The fact that "at time T, your first self saw X" is immutable. Whether you correctly interpreted what you saw is secondary.
 >>>> 
+>>>> No; where do you get that idea?
+>>>> 
+>>>> Rather, upon time-turning, you would not be able to stop your first self from seeing the illusion. The fact that "at time T, your first self saw X" is immutable. Whether you correctly interpreted what you saw is secondary.
 
->>>>> **u/archpawn** [+1] *
+>>>>> **u/archpawn** [+1]  (a day later)
 >>>>> 
 >>>>> Either the DM is saying what is actually happening, in which case if they say something exists it exist and it's not an illusion, or they're saying what the characters perceive, in which case it could turn out to be an illusion or a dream or an altered memory.
->>>>> 
 
->>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (a day later)
 >>>>>> 
 >>>>>> > or they're saying what the characters perceive, in which case it could turn out to be an illusion or a dream or an altered memory.
->>>>>> So your plan is for your second self to, let's say, rescue the side character from the horrible death that happened the first time around, but modify your first self's memories so that s/he still *believes* it happened. And your argument will be that the illusion is really what happened all along.
->>>>>> OK, I think the DM would probably allow that, if you can make the illusion sufficiently thorough and convincing, accounting for absolutely everything that the party went through before you time-turned.
 >>>>>> 
+>>>>>> So your plan is for your second self to, let's say, rescue the side character from the horrible death that happened the first time around, but modify your first self's memories so that s/he still *believes* it happened. And your argument will be that the illusion is really what happened all along.
+>>>>>> 
+>>>>>> OK, I think the DM would probably allow that, if you can make the illusion sufficiently thorough and convincing, accounting for absolutely everything that the party went through before you time-turned.
 
-> **u/DXStarr** [+2] *
+> **u/DXStarr** [+2]  (20 hours later)
 > 
 > For Time Turning: the spell fails if it leaves evidence that time travel happened.
-> The player has to make the altered timeline look like "just ordinary good luck," or the spell fails.
-> That is, "the spell fails without effect, unless the altered timeline looks to all current and subsequent intelligent observers like something that happened without time travel, and with no more than an ordinary level of coincidence or strangeness."
-> So it's on the player, not the DM, to avoid paradox. What's more, it's on the player to basically justify everything they set up in the altered past as something that could have happened without time travel anyway. And the more the opponents might suspect this spell, or just employ divination/detection in general, the less the player can get away with.
-> Thus the caster has to be very sneaky in the past, and make sure that everything that does happen... is something that could have, well, "just happened."
-> So it becomes retroactive luck, instead of something that lets you make the impossible happen. Because if anyone in the future is going to think "that makes no sense! it's too coincidental, too weird! how could that happen?" -- then the spell fails in the first place.
 > 
+> The player has to make the altered timeline look like "just ordinary good luck," or the spell fails.
+> 
+> That is, "the spell fails without effect, unless the altered timeline looks to all current and subsequent intelligent observers like something that happened without time travel, and with no more than an ordinary level of coincidence or strangeness."
+> 
+> So it's on the player, not the DM, to avoid paradox. What's more, it's on the player to basically justify everything they set up in the altered past as something that could have happened without time travel anyway. And the more the opponents might suspect this spell, or just employ divination/detection in general, the less the player can get away with.
+> 
+> Thus the caster has to be very sneaky in the past, and make sure that everything that does happen... is something that could have, well, "just happened."
+> 
+> So it becomes retroactive luck, instead of something that lets you make the impossible happen. Because if anyone in the future is going to think "that makes no sense! it's too coincidental, too weird! how could that happen?" -- then the spell fails in the first place.
 
-> **u/TOMDM** [+2] *
+> **u/TOMDM** [+2]  (a day later)
 > 
 > Open Portal already exists in 5e DnD, it's a 6th level spell called Arcane Gate.
-> https://www.dnd-spells.com/spell/arcane-gate
 > 
+> https://www.dnd-spells.com/spell/arcane-gate
 
-> **u/Palmolive3x90g** [+1] *
+> **u/Palmolive3x90g** [+1]  (a day later)
 > 
 > Have the Evil Twin cast Summon Evil Twin. You now have a copy of yourself with the identical skills and powers, but the opposite personality/goals/values to your polar opposite. So the Evil^2 Twin is just a regular clone.
-> 
 
-> **u/thekme** [+1] *
+> **u/thekme** [+1]  (2 days later)
 > 
 > I think that a spell that turns back time already exists in one of the supplements. IIRC it turns back time one round and the slot stays spent. 
 > It's a 9th level Divination and the flavor is that you didn't really go back in time but predicted the future.
-> 
 
->> **u/TrebarTilonai** [+1] *
+>> **u/TrebarTilonai** [+1]  (2 days later)
 >> 
 >> A la Coil?
->> 
 
-> **u/VisineOfSauron** [+1] *
+> **u/VisineOfSauron** [+1]  (2 days later)
 > 
 > I'm interpreting these as 3.5 rules.  (use http://d20srd.org )
+> 
 > Open Portal is simply Teleportation Circle, a 9th level spell, with less range.
 > Spell of Time Turning is simply overpowered.  There's an Epic spell, Time Duplicate, that allows you to get a copy of yourself for one round.
 > Does Evil Twin create matching magic items?  It's comparable to Clone, an 8th level spell.
-> 
 
-> **u/MugaSofer** [+1] *
+> **u/MugaSofer** [+1]  (3 days later)
 > 
 > The time turner spell runs into the issue that you can't actually see the future. 
-> E.g. say the caster says "in 1 day I'm going to come back and tell myself everything that happens tomorrow so I can prepare". What do you do? You don't actually know what will happen over the course of the session, that's half the fun of role-playing. So you have to:
-> * Tell them your best prediction, then railroad them through it. (Boring.)
-> * Nothing happens, then you prevent them from casting it somehow. (Implausible that this always happens.)
-> * Lie, then railroad them into lying (worst of both worlds.)
-> None of these options is particularly fun, especially if it keeps happening.
-> Here's one way to simplify: play as normal, with no time travel apparent. Then when they cast, say that they can do whatever they like in the past, but if they do anything that would be apparent to their past selves then the spell ends and they return to the future.
 > 
+> E.g. say the caster says "in 1 day I'm going to come back and tell myself everything that happens tomorrow so I can prepare". What do you do? You don't actually know what will happen over the course of the session, that's half the fun of role-playing. So you have to:
+> 
+> * Tell them your best prediction, then railroad them through it. (Boring.)
+> 
+> * Nothing happens, then you prevent them from casting it somehow. (Implausible that this always happens.)
+> 
+> * Lie, then railroad them into lying (worst of both worlds.)
+> 
+> None of these options is particularly fun, especially if it keeps happening.
+> 
+> Here's one way to simplify: play as normal, with no time travel apparent. Then when they cast, say that they can do whatever they like in the past, but if they do anything that would be apparent to their past selves then the spell ends and they return to the future.
 
-> **u/MilesSand** [+1] *
+> **u/MilesSand** [+1]  (4 days later)
 > 
 > The time travel one is inherently game breaking because of all the opportunities for abuse it opens. Like let's say the party does the chronotrigger thing of clearing a dungeon, going back in time to do it again, and repeat 3 more times. Or they do it to a merchant's house.  The timeline has to repeatedly self correct and drop a bunch of money and artifacts in his lap so that he has the stuff they end up stealing and the party's wealth by level goes out the window. They don't even have to spend it in the present so whatever tracking spells on the loot there are won't matter.  You end up having to change the rules on the fly to keep any sense of balance at all and it creates a frustrating experience for everyone involved.
-> You could do the chronotrigger thing of only allowing jumps to certain eras but it's pretty likely to still cause frustration if the players realize they can get an easy win against the big bad  by finding out where the big bad has been, setting an ambush, and casting a spell to let them track him on a piece of his gear, hiding a scrying target on his person or something he takes with him as he escapes their future encounter, and use that to get him after the timeline fixes itself, but then they find out the only thing stopping them is a bit of gm railroading.
 > 
+> You could do the chronotrigger thing of only allowing jumps to certain eras but it's pretty likely to still cause frustration if the players realize they can get an easy win against the big bad  by finding out where the big bad has been, setting an ambush, and casting a spell to let them track him on a piece of his gear, hiding a scrying target on his person or something he takes with him as he escapes their future encounter, and use that to get him after the timeline fixes itself, but then they find out the only thing stopping them is a bit of gm railroading.
 
-> **u/eroticas** [+1] *
+> **u/eroticas** [+1]  (4 days later)
 > 
 > Travel back 1 hour
 > Portal gun 120 feet away, rinse, repeat for on hour / whenever your time turner refreshes
-> Distances are no longer an issue for you, except for burning lifespan.
-> Depending on the specific rules around Time, by temporarily placing your portal gun offscreen an hour beforehand, you might be able to use this to temporarily have two or more portal guns, so depending on whether 120 is a limit of the portals or of your firing range, you can have someone else (maybe evil twin, if you feel bold) burn the lifespan instead of you.
-> I _think_ someone needs to burn lifespan no matter what though. 
-> Also, you _can_ meet your future self, if you precommit to meeting your past self, but you'll need to be supernaturally good at mimicking any of the interactions you saw. Your players may get into endless precommitment issues unless you make precommitment schemes fall under Messing with Time. (since as a dm, you'll have to role play what they do in the parallel time-line, and that's complicated if it has any impact at all on the running time-line.)
 > 
+> Distances are no longer an issue for you, except for burning lifespan.
+> 
+> Depending on the specific rules around Time, by temporarily placing your portal gun offscreen an hour beforehand, you might be able to use this to temporarily have two or more portal guns, so depending on whether 120 is a limit of the portals or of your firing range, you can have someone else (maybe evil twin, if you feel bold) burn the lifespan instead of you.
+> 
+> I _think_ someone needs to burn lifespan no matter what though. 
+> 
+> Also, you _can_ meet your future self, if you precommit to meeting your past self, but you'll need to be supernaturally good at mimicking any of the interactions you saw. Your players may get into endless precommitment issues unless you make precommitment schemes fall under Messing with Time. (since as a dm, you'll have to role play what they do in the parallel time-line, and that's complicated if it has any impact at all on the running time-line.)
 
 ---
 

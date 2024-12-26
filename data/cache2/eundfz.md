@@ -2,7 +2,7 @@
 
 * Author: u/Breaking_the_Candle  *Break and rebuild.**
 * URL: https://www.fimfiction.net/story/260906/a-white-mare
-* Score: 20
+* Score: 19
 
 * Created: 2020-01-27T12:39:54
 
@@ -12,31 +12,27 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+4]  (3 minutes later)
 > 
 > [removed]
-> 
 
->> **u/Flashbunny** [+11] *
+>> **u/Flashbunny** [+12]  (an hour later)
 >> 
 >> I'll probably check it out, but I'd note that Celestia inventing a super-algorithm to mine bitcoin is more of an "informed intelligence" thing - we're being told she's smart enough to do this and has done it, rather than seeing her act in an intelligent fashion.
->> Could you maybe supply a not-too-spoilery example or summary of an example of her being intelligent in a way we can see?
 >> 
+>> Could you maybe supply a not-too-spoilery example or summary of an example of her being intelligent in a way we can see?
 
->>> **u/None** [+13] *
+>>> **u/None** [+13]  (an hour later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/Flashbunny** [+4] *
+>>>> **u/Flashbunny** [+6]  (2 hours later)
 >>>> 
 >>>> That works, thanks!
->>>> 
 
-> **u/OnlyEvonix** [+1] *
+> **u/OnlyEvonix** [+1]  (a month later)
 > 
 > Nice but a bit of a mary sue fic
-> 
 
 ---
 

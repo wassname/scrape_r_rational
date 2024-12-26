@@ -24,188 +24,204 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/FEMINISTS** [+3] *
+> **u/FEMINISTS** [+3]  (4 hours later)
 > 
 > Okay, this is a scenario for a story I'm doing that has me stumped for a solution. If you're running in an election against a candidate that can use hypnosis/mind control, how do you actually beat them? The protagonist is aware of this ability, but he doesn't have any magic powers of his own. He does have access to a source of knowledge that can answer any question he asks, so he knows of the limitations of his opponent's ability, like:
-> 1) The person under hypnosis can't do anything extreme that would break their moral code.
-> 2) The power works by twisting the victim's perception of reality. It's not that the user can order a victim and the victim follows a command. Technically speaking, the victim is still making their own choice.
-> 3) It requires personal eye contact for thirty seconds. The user can't just do it to a crowd all at once.
-
-> The hypnosis works more like a sharingan genjutsu than Lelouch's geass. At least, that's how I want it to work. The only way I can think of winning here is exposing the user's ability to the public, but short of having the user confess it, I can't see a way to prove it to anyone who isn't already aware of it. Any thoughts?
 > 
+> 1) The person under hypnosis can't do anything extreme that would break their moral code.
+> 
+> 2) The power works by twisting the victim's perception of reality. It's not that the user can order a victim and the victim follows a command. Technically speaking, the victim is still making their own choice.
+> 
+> 3) It requires personal eye contact for thirty seconds. The user can't just do it to a crowd all at once.
+> 
+> The hypnosis works more like a sharingan genjutsu than Lelouch's geass. At least, that's how I want it to work. The only way I can think of winning here is exposing the user's ability to the public, but short of having the user confess it, I can't see a way to prove it to anyone who isn't already aware of it. Any thoughts?
 
->> **u/Escapement** [+5]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+4]  *Ankh-Morpork City Watch* (5 hours later)
 >> 
 >> *He does have access to a source of knowledge that can answer any question he asks*
->> Extract as much lucrative information as possible to build up a huge financial and resource base (stock market futures? winning sports teams? winning horses?). Also, extract as much information as you can about your political opponent. 
->> There are two broad paths here that I can see:
->> 1. The person with the mind control ability is, broadly speaking, 'bad', having done bad things in the past and planning to do 'bad' things in the future. Use cutouts and proxies and never directly contacting the mind-controller, establish clear evidence that you can use to blackmail the political opponent, and demonstrate it. Allow them to win the race for election, ideally don't even run against them (they will probably hypnotize you if you do). Force them to, while in office, fulfill your wishes in whatever important ways you wish. They will likely be able to further your wishes in this way better than you can yourself if you were elected and working without the benefit of hypnosis.
->> 2. The person who has mind-control powers is, broadly speaking, 'good', and so are you. They will probably be amenable to working with you on betterment of the human race; team up with them to exploit mass hypnosis and omniscience for all of humanity's benefit - acting through proxies and so forth as above. If you disagree about specific policies or whatever, consult the omniscience source about factual bases for disagreement. 
->> 3. The opponent is 'good' and you are 'bad' - go see a psychiatrist and/or therapist and/or priest or whatever until good, ideally.
 >> 
+>> Extract as much lucrative information as possible to build up a huge financial and resource base (stock market futures? winning sports teams? winning horses?). Also, extract as much information as you can about your political opponent. 
+>> 
+>> There are two broad paths here that I can see:
+>> 
+>> 1. The person with the mind control ability is, broadly speaking, 'bad', having done bad things in the past and planning to do 'bad' things in the future. Use cutouts and proxies and never directly contacting the mind-controller, establish clear evidence that you can use to blackmail the political opponent, and demonstrate it. Allow them to win the race for election, ideally don't even run against them (they will probably hypnotize you if you do). Force them to, while in office, fulfill your wishes in whatever important ways you wish. They will likely be able to further your wishes in this way better than you can yourself if you were elected and working without the benefit of hypnosis.
+>> 
+>> 2. The person who has mind-control powers is, broadly speaking, 'good', and so are you. They will probably be amenable to working with you on betterment of the human race; team up with them to exploit mass hypnosis and omniscience for all of humanity's benefit - acting through proxies and so forth as above. If you disagree about specific policies or whatever, consult the omniscience source about factual bases for disagreement. 
+>> 
+>> 3. The opponent is 'good' and you are 'bad' - go see a psychiatrist and/or therapist and/or priest or whatever until good, ideally.
 
->>> **u/FEMINISTS** [+2] *
+>>> **u/FEMINISTS** [+2]  (5 hours later)
 >>> 
 >>> >Extract as much lucrative information as possible to build up a huge financial and resource base (stock market futures? winning sports teams? winning horses?). Also, extract as much information as you can about your political opponent.
->>> The protagonist is doing exactly this, but got caught by someone before he could accrue much influence. He's actually being blackmailed into running in the election, so he can't just not participate. Also, he doesn't have access to anything involving the future choice of an individual being. He can know the outcome of a coin flip, but he can't know who will win a sporting event or stock market fluctuations. I kinda had to put that restriction on him because it broke the story.
 >>> 
+>>> The protagonist is doing exactly this, but got caught by someone before he could accrue much influence. He's actually being blackmailed into running in the election, so he can't just not participate. Also, he doesn't have access to anything involving the future choice of an individual being. He can know the outcome of a coin flip, but he can't know who will win a sporting event or stock market fluctuations. I kinda had to put that restriction on him because it broke the story.
 
->>>> **u/Iconochasm** [+3] *
+>>>> **u/Iconochasm** [+3]  (6 hours later)
 >>>> 
 >>>> Then he should abuse the source of information to build up a reputation for overwhelming knowledge and prescience.  Even if he can't predict future decisions, he could still "predict" the consequences of decisions already made, things like Russia invading Crimea and whatnot.  Spend an entire election season making prediction after prediction about the effects of policies, the behaviors of foreign actors, what topics the opponent will pivot to next, etc.  Build a reputation as the best, most accurate wonk in history.
->>>> And honestly, depending on the scale of the election, the opponent's ability may not even be relevant.  Even if the opponent was able to spend exactly 30 seconds with each person, with zero seconds between them, that's only 120 votes gained per hour.  2000 per day would be ludicrously optimistic, assuming he spends 16+ hours with perfect efficiency.  In which case, your protagonist could easily have tipped off a news publisher to look for the curiously precise amounts of time spent with each person. YHou don't even have to expose their ability, just use the exact 30 seconds thing to generate a meme that the opponent is weird and clearly insincere.
 >>>> 
+>>>> And honestly, depending on the scale of the election, the opponent's ability may not even be relevant.  Even if the opponent was able to spend exactly 30 seconds with each person, with zero seconds between them, that's only 120 votes gained per hour.  2000 per day would be ludicrously optimistic, assuming he spends 16+ hours with perfect efficiency.  In which case, your protagonist could easily have tipped off a news publisher to look for the curiously precise amounts of time spent with each person. YHou don't even have to expose their ability, just use the exact 30 seconds thing to generate a meme that the opponent is weird and clearly insincere.
 
->>>>> **u/FEMINISTS** [+2] *
+>>>>> **u/FEMINISTS** [+2]  (7 hours later)
 >>>>> 
 >>>>> The first thing he did to gain an audience is release the winning numbers to a bunch of lotteries worldwide. That got him some fame, but he's not at the point where he can rule the world... yet.
->>>>> The scale of the election is somewhat small. It's for a student council position in an ivy-league tier university. Competitive, but not as big as something statewide.
 >>>>> 
+>>>>> The scale of the election is somewhat small. It's for a student council position in an ivy-league tier university. Competitive, but not as big as something statewide.
 
->>>>>> **u/Iconochasm** [+2] *
+>>>>>> **u/Iconochasm** [+2]  (8 hours later)
 >>>>>> 
 >>>>>> What's the time frame?  Even a large university probably doesn't have more than a few thousand votes actually cast.  At even a more conservative 1000 or 500 per day, a month long campaign could make winning entirely unfeasible.
->>>>>> 
 
->>>>>>> **u/FEMINISTS** [+2] *
+>>>>>>> **u/FEMINISTS** [+2]  (8 hours later)
 >>>>>>> 
 >>>>>>> It's a month and a half. That's why I'm stumped here. I mean, it can't be unwinable, right?
->>>>>>> 
 
->>>>>>>> **u/Iconochasm** [+2] *
+>>>>>>>> **u/Iconochasm** [+2]  (8 hours later)
 >>>>>>>> 
 >>>>>>>> I assume the opponent has no potential dirt that would cause a large portion of the voters to run into the "violate their moral code" clause of the mind control?  Does the choice limitation on the knowledge source preclude some kind of what-if search to find a way to manufacture dirt?
->>>>>>>> Alternatively, could your protagonist do something to get the opponent off campus for a large chunk of the campaign?  Or otherwise tied up, so they can't just spam their ability.
 >>>>>>>> 
+>>>>>>>> Alternatively, could your protagonist do something to get the opponent off campus for a large chunk of the campaign?  Or otherwise tied up, so they can't just spam their ability.
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+2]  (6 hours later)
 >> 
 >> *He does have access to a source of knowledge that can answer any question he asks*
->> Ask it for the source code to an FAI. Or, less bluntly, ask it how to munchkin this problem. But don't be surprised if its reply is identical to this reply.
 >> 
+>> Ask it for the source code to an FAI. Or, less bluntly, ask it how to munchkin this problem. But don't be surprised if its reply is identical to this reply.
 
->>> **u/FEMINISTS** [+2] *
+>>> **u/FEMINISTS** [+2]  (7 hours later)
 >>> 
 >>> Not familiar with that term. What does FAI mean?
->>> 
 
->>>> **u/RegexRationalist** [+3] *
+>>>> **u/RegexRationalist** [+3]  (7 hours later)
 >>>> 
 >>>> Friendly Artificial Intelligence- wikipage explains it pretty well https://en.wikipedia.org/wiki/Friendly_artificial_intelligence
->>>> 
 
->>>>> **u/FEMINISTS** [+2] *
+>>>>> **u/FEMINISTS** [+2]  (7 hours later)
 >>>>> 
 >>>>> ahh I should've figured. Thanks!
->>>>> 
 
->> **u/buckykat** [+3] *
+>> **u/buckykat** [+3]  (7 hours later)
 >> 
 >> Assassination followed by an election against someone else.
->> 
 
-> **u/Aabcehmu112358** [+3]  *Utter Fallacy**
+> **u/Aabcehmu112358** [+3]  *Utter Fallacy* (a day later)
 > 
 > An 'immortal' person exists. They are immune to the effects of aging and disease. If someone kills them (or whoever the current immortal is), the killer inherits the immortality (including all new aspects), and additionally becomes immune to the means/location combination they used to kill the previous immortal, with the solution being semi-randomized.
-> If you killed the immortal by shooting them through the heart, your torso may become bullet-proof up to somewhat more than the caliber you used to kill them. You may no longer need your heart instead. In general, attacks along the same vector, to same degree, or slightly more, or any less, will no longer harm you.)
-> The immortality requires that the killer have a body sufficiently similar to an ordinary, unaugmented human body. Additions are acceptable, but if more than half the body-mass that 'should' be there is missing, the transfer will fail and the immortality will be destroyed.
-> You know the immortal personally, though you do not know who out of the people you know personally it is without testing. You know they exist, and do not doubt it. You know how the immortality inheritance works, and do not doubt it.
-> What do you do?
 > 
+> If you killed the immortal by shooting them through the heart, your torso may become bullet-proof up to somewhat more than the caliber you used to kill them. You may no longer need your heart instead. In general, attacks along the same vector, to same degree, or slightly more, or any less, will no longer harm you.)
+> 
+> The immortality requires that the killer have a body sufficiently similar to an ordinary, unaugmented human body. Additions are acceptable, but if more than half the body-mass that 'should' be there is missing, the transfer will fail and the immortality will be destroyed.
+> 
+> You know the immortal personally, though you do not know who out of the people you know personally it is without testing. You know they exist, and do not doubt it. You know how the immortality inheritance works, and do not doubt it.
+> 
+> What do you do?
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (9 hours later)
 > 
 > So, it turns out that vampires are real. Since "Our Vampires Are Different" means that there's no one consistent vampire mythos, what sort of things would you test and how?
-> Sub-situations if you desire:
-> a) Knowledge vampires are real is put into your mind supernaturally, but you know it's 100% reliable (conceit of this hypothetical). You also know that you are the only person who has been given this knowledge in this way - any vampire hunters or allies that may exist would presumably know about them, but it's not a worldwide "coming out of the coffin" type event. What do you do?
-> b) Knowledge vampires are real is given to you by you meeting a vampire. This vampire is cooperative to a point, and will answer some questions, but you know she will lie if she thinks it's to her advantage, and generally speaking "humans finding out my true weakness" is not a good thing for her. This vampire likes you for her own inscrutable reasons, and doesn't seem to be keen on killing you, but who knows how long that will last.
-> Goals: kill all vampires, or take over the world, or "merely" become rich and powerful. Your choice.
-> (Happy to GM if you'd like that, in which case I'll be using the specific vampire "rules" from my yaoi novel.)
 > 
+> Sub-situations if you desire:
+> 
+> a) Knowledge vampires are real is put into your mind supernaturally, but you know it's 100% reliable (conceit of this hypothetical). You also know that you are the only person who has been given this knowledge in this way - any vampire hunters or allies that may exist would presumably know about them, but it's not a worldwide "coming out of the coffin" type event. What do you do?
+> 
+> b) Knowledge vampires are real is given to you by you meeting a vampire. This vampire is cooperative to a point, and will answer some questions, but you know she will lie if she thinks it's to her advantage, and generally speaking "humans finding out my true weakness" is not a good thing for her. This vampire likes you for her own inscrutable reasons, and doesn't seem to be keen on killing you, but who knows how long that will last.
+> 
+> Goals: kill all vampires, or take over the world, or "merely" become rich and powerful. Your choice.
+> 
+> (Happy to GM if you'd like that, in which case I'll be using the specific vampire "rules" from my yaoi novel.)
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (23 hours later)
 >> 
 >> b) Are vampires invisible in a mirror? Through glasses? To a video camera? If the latter, have them hold a lit flashlight against their body in a dark room and take a photograph. Does it see a lit room?
->> 
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (a day later)
 >>> 
 >>> Vampires are made of flesh and blood; they interact with light, mirrors, etc the same way any other object would. Your vampire companion is happy to look at a mirror you bring her, be filmed, etc. If the flashlight experiment is proposed after all that, she finds it rather undignified, especially in light of the evidence you already have, and declines to participate.
->>> 
 
->>>> **u/Gurkenglas** [+2] *
+>>>> **u/Gurkenglas** [+2]  (a day later)
 >>>> 
 >>>> I said "if the latter"! >:c
->>>> 
 
->>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (a day later)
 >>>>> 
 >>>>> Sorry, reading comprehension failure on my part. Consider that bonus info about the sort of things she might be willing to do for your edification, if you want to continue experimenting until you find a way to commit genocide/take over the world.
->>>>> 
 
-> **u/RegexRationalist** [+1] *
+> **u/RegexRationalist** [+1]  (3 hours later)
 > 
 > (After writing and thinking about it I am pretty sure this is insufficiently defined. Even if it is sufficiently defined, the example I use throughout doesn't work, and I'm unsure it could actually be used anywhere interesting. I feel like with some modification it could be really interesting, but as is I'm not sure. Posting anyway to get feedback)
+> 
 > The ability to map and transform any datastream to any other datastream given an two examples which form such a transformation. A datastream here means any computer file.
+> 
 > This mapping for datastreams is [invertible](https://en.wikipedia.org/wiki/Inverse_function), so you can take the second datastream and get the original one out.
+> 
 > That is to say, you can take a 3D animation of an eye that moves exactly as does a video of an eye looking around, generate a mapping between them, change the 3D animation, and then use the mapping to make the video match the 3D animation's movements. 
+> 
 > If you try to apply the mapping using the wrong kinds of datastreams, there is no output. (e.g. Plug the wrong 3D model, or maybe audio data in, no output.) Try to generate a mapping with eye movements that don't match the video, and no mapping is generated. There needs to be exactly one possible mapping.
+> 
 > To actually use the power, you take the two datastreams, and put them on a specific flash drive. The datastreams must be labeled "1" and "2". 
+> 
 > On the flash drive is a file "mapping" which contains the last mapping made, and "output" which contains the last applied output. 
+> 
 > The flash drive has two buttons: "make map" which generates a mapping between 1 and 2, and "map" which applies the mapping of 1 to 2, and puts it in the file "output". 
+> 
 > Example output: You put 1 and 2 on the flashdrive where 1 is your 3D animation of an eye that matches the video and 2 is your video. You press "make map". You replace 1 with the new eye movement 3D animation. You press "map" and "output" is your new video with the eye movements changed to match the 3D animation. 
-
+> 
 > (After writing this I realized a couple issues:
 > The eye example doesn't work for a real eye- you'd actually need to also model the eyelids because they aren't static, but instead have small movements, and also deal with light variations. 
-> And if you have to do that stuff then you can't really do anything interesting- This comes down to a more fundamental problem where you have to generate an example for which you can already produce a 1:1 mapping. And if you don't have the 1:1 mapping, too much is left up for interpretation in giving it weird datastreams.
-> This drastically undercuts my original idea of being able to generate mappings between arbitrary data. 
-> So the eye example works only if it is video of the very 3D modeled eye you're moving around, in which case you're skipping the video animation rendering step and not much else of interest)
 > 
+> And if you have to do that stuff then you can't really do anything interesting- This comes down to a more fundamental problem where you have to generate an example for which you can already produce a 1:1 mapping. And if you don't have the 1:1 mapping, too much is left up for interpretation in giving it weird datastreams.
+> 
+> This drastically undercuts my original idea of being able to generate mappings between arbitrary data. 
+> 
+> So the eye example works only if it is video of the very 3D modeled eye you're moving around, in which case you're skipping the video animation rendering step and not much else of interest)
 
->> **u/ulyssessword** [+3] *
+>> **u/ulyssessword** [+3]  (4 hours later)
 >> 
 >> Password hashes?  Input 1 is a list of password hashes, Input 2 is a list of passwords (which you generated in order to create the hashes).  Map it, then swap Input 1 for the list you hacked from the database, and get their plaintext passwords.
->> Protein folding?  1 is a list of a (single, well known) protein's amino acids, general structure, and effects, and 2 is a precise 3D model of its structure.  IIRC, the first is well known in biology, and the second is extremely difficult, but "just" a problem of computation.  Using the magic flash drive could cut the time to about 1 year (1 million proteins * 30 seconds each ~= 31,536,000 seconds = 1 year).
->> Atomic data?  Input 1: 1, 2, 3, 4, 5, 6, 7 etc.  Input 2: the properties of Hydrogen, the properties of Helium, the properties of Lithium, etc...  Use that mapping to see what happens with numbers like 119 or 258 or whatever.
->> Precognition?  Input 1 = L, XLIX, XLVIII, XLVII.  Input 2 = Denver Broncos, New England Patriots, Seattle Seahawks, Baltimore Ravens.  Map it, switch input 1 to LI, then see if you get the 2017 Superbowl winner.
 >> 
+>> Protein folding?  1 is a list of a (single, well known) protein's amino acids, general structure, and effects, and 2 is a precise 3D model of its structure.  IIRC, the first is well known in biology, and the second is extremely difficult, but "just" a problem of computation.  Using the magic flash drive could cut the time to about 1 year (1 million proteins * 30 seconds each ~= 31,536,000 seconds = 1 year).
+>> 
+>> Atomic data?  Input 1: 1, 2, 3, 4, 5, 6, 7 etc.  Input 2: the properties of Hydrogen, the properties of Helium, the properties of Lithium, etc...  Use that mapping to see what happens with numbers like 119 or 258 or whatever.
+>> 
+>> Precognition?  Input 1 = L, XLIX, XLVIII, XLVII.  Input 2 = Denver Broncos, New England Patriots, Seattle Seahawks, Baltimore Ravens.  Map it, switch input 1 to LI, then see if you get the 2017 Superbowl winner.
 
->>> **u/Running_Ostrich** [+1] *
+>>> **u/Running_Ostrich** [+1]  (5 hours later)
 >>> 
 >>> Just fyi, to your first idea, rainbow tables for reverse-hashing passwords are already a thing and have a straightfoward defense - for each password, randomly generate a string and add it to the password before hashing. Then store the string in plaintext along with the hashed password. https://en.wikipedia.org/wiki/Rainbow_table#Defense_against_rainbow_tables
->>> 
 
->>>> **u/ulyssessword** [+2] *
+>>>> **u/ulyssessword** [+2]  (5 hours later)
 >>>> 
 >>>> That's only a computationally-expensive defense, which is not an issue here.  
->>>> Input 1 is ThisIsAPasswordSaltasdfasdfasfdasdfasdfasdfasdf, 123123123123123123123123, and input 2 is P@SSWORD.
->>>> There are (relatively) easy ways to go from a hash to a short password (like P@SSWORD or hunter2), but the same methods don't work on long, unique ones (like P@SSWORDThisIsAPasswordSaltasdfasdfasfdasdfasdfasdfasdf, or hunter2ThisIsAPasswordSaltqwerqwerqwerqwerqwerqwerqwer.)
->>>> If you have two out the the three of the hash, the salt, and the password (and sufficient processing ability), you can figure out the third one eventually, though it may take longer than the life of the universe running on all computers humanity has ever built.  Luckily, the magic flash drive is magic.
 >>>> 
+>>>> Input 1 is ThisIsAPasswordSaltasdfasdfasfdasdfasdfasdfasdf, 123123123123123123123123, and input 2 is P@SSWORD.
+>>>> 
+>>>> There are (relatively) easy ways to go from a hash to a short password (like P@SSWORD or hunter2), but the same methods don't work on long, unique ones (like P@SSWORDThisIsAPasswordSaltasdfasdfasfdasdfasdfasdfasdf, or hunter2ThisIsAPasswordSaltqwerqwerqwerqwerqwerqwerqwer.)
+>>>> 
+>>>> If you have two out the the three of the hash, the salt, and the password (and sufficient processing ability), you can figure out the third one eventually, though it may take longer than the life of the universe running on all computers humanity has ever built.  Luckily, the magic flash drive is magic.
 
->> **u/Running_Ostrich** [+3] *
+>> **u/Running_Ostrich** [+3]  (5 hours later)
 >> 
 >> An issue with this is that there will be many invertible functions that can map between your input and outputs; how you pick which function is generated will determine the power level of this ability. 
->> Eg. Imagine this generates a function if you can conceptualize it. You want a function that will help you pick stocks. Then create a function that takes in a buy and sell date, a stock identifier and a boolean. The function produces the same results and flips the boolean if and only if the stock exists and its price increases in that interval. Your function is one-to-one and it should be easy enough to generate a sample for it.
->> On the other hand, if you just get a random invertible function that matches your input and output, your power is pretty useless.
 >> 
+>> Eg. Imagine this generates a function if you can conceptualize it. You want a function that will help you pick stocks. Then create a function that takes in a buy and sell date, a stock identifier and a boolean. The function produces the same results and flips the boolean if and only if the stock exists and its price increases in that interval. Your function is one-to-one and it should be easy enough to generate a sample for it.
+>> 
+>> On the other hand, if you just get a random invertible function that matches your input and output, your power is pretty useless.
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (6 hours later)
 >> 
 >> Given the pairs (0, 1) and (1, 2), how does it choose whether to map 2 to 2+1=3 or 2^2=4?
->> Can it map natural-language questions to answers? If so, see https://www.reddit.com/r/rational/comments/5nxtfi/d_saturday_munchkinry_thread/dcfilbu/ , of course only after establishing the exact nature of the derived transformation absolutely beyond doubt.
 >> 
+>> Can it map natural-language questions to answers? If so, see https://www.reddit.com/r/rational/comments/5nxtfi/d_saturday_munchkinry_thread/dcfilbu/ , of course only after establishing the exact nature of the derived transformation absolutely beyond doubt.
 
->>> **u/RegexRationalist** [+1] *
+>>> **u/RegexRationalist** [+1]  (7 hours later)
 >>> 
 >>> I'm interpreting that as you put (0,1) as "1" and (1,2) as "2" and then putting (1,2) back in to see what the input is: my immediate thought was that it would produce (2,3) [rule: +1, +1], but then it could just as easily output (2,4) [rule: +1,*2]. So this would be an insufficiently constrained input. If it has to make a choice then it does not produce a mapping. 
->>> Natural language would work for something like a caesar cipher, or perhaps if the words/letters corresponded to audio of someone talking
 >>> 
+>>> Natural language would work for something like a caesar cipher, or perhaps if the words/letters corresponded to audio of someone talking
 
-> **u/LiteralHeadCannon** [+1] *
+> **u/LiteralHeadCannon** [+1]  (8 hours later)
 > 
 > You have firm evidence (in the form of extensive documentation containing many easily-confirmed details, which may be used to solve a considerable number of old unsolved crimes) that a machine has been created which, given access to a sleeping person, will permanently make them obedient to the user of the machine (ie, they will follow any order to the best of their ability, regardless of their personal code), at the cost of a typically small but variable portion of their general intelligence.  (In the vast majority of cases, the intelligence loss is hard but possible to detect; in rare positive cases it is entirely negligible and in rare negative cases it's an extreme effect that renders them completely incompetent.)  You do not possess enough information to recreate the machine.  You also do not possess enough information to determine what's happened to it - whoever currently has the machine has covered up their tracks well enough that your evidence does not lead you directly to them; the original inventors of the machine are dead or disappeared.  What actions do you take and what protocols do you implement?
-> 
 
 ---
 

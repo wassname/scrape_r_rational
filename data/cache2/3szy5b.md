@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3szy5b/wipdbs_national_novel_writing_month_week_3/
-* Score: 10
+* Score: 8
 
 * Created: 2015-11-16T07:55:28
 
@@ -21,108 +21,103 @@ Feel free to make posts to the subreddit if you crank out a chapter you want to 
 
 ### Comments:
 
-> **u/brandalizing** [+3]  *Reserve Pigeon Army**
+> **u/brandalizing** [+3]  *Reserve Pigeon Army* (42 minutes later)
 > 
 > 36,778 so far. Plot is picking up. Having a lot of fun with some exploratory scenes and such, after I realized that just sticking to my pre-made outline is pretty limiting in terms of the material I'll have in my first draft.
-> If I told you that someone lost their 'sense of existence' what would you think the ramifications/symptoms would be?
 > 
+> If I told you that someone lost their 'sense of existence' what would you think the ramifications/symptoms would be?
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (7 hours later)
 >> 
 >> I guess I would associate "sense of existence" with some level of self-awareness, though I'm not sure that's what you mean by it. Like, maybe you'd get someone who's incapable of introspection and continues on with a sort of mechanical inertia, unable to think about their own internal processes anymore. I wouldn't think that a loss of a sense of existence would come with a loss of senses, which is part of what makes it difficult. So ... someone who can't say, "I think therefore I am" because the first part of that is now unintelligible to them.
->> 
 
->>> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (8 hours later)
 >>> 
 >>> That's definitely a part of it. The person in question is not aware of his own existence. Everything he does now is by reaction or habit. He won't even respond when addressed, because he doesn't recognize that he is being addressed. I would say that he can't even think the term "I", but he might be able to by habit of thought. He just won't *hear* himself think that, because he no longer hears his own thoughts.
->>> Beyond that, though, he has no instinct for self-preservation, either. If the building he is in bursts into flames, he'll just sit there, because he doesn't recognize he is in danger, because he doesn't recognize any "he".
->>> …I feel like the more I try to explain it, the less clear my explanation becomes.
 >>> 
+>>> Beyond that, though, he has no instinct for self-preservation, either. If the building he is in bursts into flames, he'll just sit there, because he doesn't recognize he is in danger, because he doesn't recognize any "he".
+>>> 
+>>> …I feel like the more I try to explain it, the less clear my explanation becomes.
 
->>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (22 hours later)
 >>>> 
 >>>> It sounds interesting. If this is normally the POV character, you could indicate this in the text by shifting to an outside perspective, and removing references to the character themselves to represent the lack of self-referential cognition. They would turn into a passive observer of external events.
->>>> 
 
->>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (23 hours later)
 >>>>> 
 >>>>> That's basically what I was planning on doing, yeah. They're a side character, but I'm going to be writing an interlude from their perspective, where they go through the event that results in them losing that sense of existence.
->>>>> In addition to this character, there is one who completely loses his sense of touch, one who loses all emotional input with regards to decision-making, and one who lost the ability to separate or ignore things inside his own mind (compartmentalize). The phenomenon responsible for these occurrences is seen as a fate-worse-than-death, though some people are lucky and only lose something like their hearing, or sense of smell.
 >>>>> 
+>>>>> In addition to this character, there is one who completely loses his sense of touch, one who loses all emotional input with regards to decision-making, and one who lost the ability to separate or ignore things inside his own mind (compartmentalize). The phenomenon responsible for these occurrences is seen as a fate-worse-than-death, though some people are lucky and only lose something like their hearing, or sense of smell.
 
->>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (a day later)
 >>>>>> 
 >>>>>> >one who loses all emotional input with regards to decision-making
->>>>>> That sounds like a special case of the above. You've done research on brain-damaged people, right? IIRC people like that are no longer able to make decisions.
 >>>>>> 
+>>>>>> That sounds like a special case of the above. You've done research on brain-damaged people, right? IIRC people like that are no longer able to make decisions.
 
->>>>>>> **u/brandalizing** [+2]  *Reserve Pigeon Army**
+>>>>>>> **u/brandalizing** [+2]  *Reserve Pigeon Army* (a day later)
 >>>>>>> 
 >>>>>>> I have done such research, yes. I also personally know someone like this. It's supremely fascinating. They often resort to flipping a coin or rolling a die, or simply asking others to make decisions for them. Sometimes they're able to pick a metric by which to order preferences themselves.
->>>>>>> 
 
->>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.* (a day later)
 >>>>>>>> 
 >>>>>>>> So that's System 2 working around a more-damaged System 1. Interesting.
->>>>>>>> 
 
->>>>>>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>>>>>>>>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (a day later)
 >>>>>>>>> 
 >>>>>>>>> A great way of phrasing it, yes. Kahneman was certainly right when he talked about the use of building a vocabulary to cater to such topics.
->>>>>>>>> 
 
-> **u/Sophronius** [+2]  *The Need to Become Stronger**
+> **u/Sophronius** [+2]  *The Need to Become Stronger* (12 hours later)
 > 
 > Approaching 200 pages now, three more chapters to go before Act 1 and Act 2 are more or less complete. Getting a little concerned about length, as this is only about 1/3rd of the story. I'm caught between thinking "I have to write this scene so the rest of the story is meaningful, can't rush it" and "I just want to get this done so I can get to the awesome parts". Not sure if there's a solution other than just keep writing and edit later.
-> 
 
-> **u/avret** [+2]  *SDHS rationalist**
+> **u/avret** [+2]  *SDHS rationalist* (a day later)
 > 
 > Another week, another chapter.  Still on track for 10k words.
-> 
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (5 days later)
 > 
-> I had this brilliant plan:  finish "The Change Storms: Induction" in October, then write a new novel, "Autumn's Acceptance" for NaNoWriMo.
+>  I had this brilliant plan:  finish "The Change Storms: Induction" in October, then write a new novel, "Autumn's Acceptance" for NaNoWriMo.
+> 
 > Wow, talk about about the planning fallacy.
-> I'm most of the way through NaNoWriMo and I'm not done with TCS:I yet.  Furthermore, I've only written 16,240 words on it as of 10:46am 2015-11-21.  There are two reasons for this: first, I do a lot of research.  I spent hours poring over Google Maps trying to figure out what my characters will see when they go into the town of Vermillion, Ohio.  (Which is a real place, obviously.)  Second, I'm publishing it a chapter at a time over on my Patreon, so I spend a lot of time editing, which is time I'm not spending writing. 
-> I haven't been entering my word counts because I was thinking "no, I can't because I'm not working on the novel I was intending to work on."  Feh.  Okay, forget that.  I'm going to list my wordcounts for TCS:I, not counting the 63,480 words that were already written before November.  I can, in theory, still win NaNoWriMo if I can produce 3,370 words per day.  It seems unlikely, but I've been telling myself I need to step up my game and get more efficient.  So.  No more researching -- I'm past the part where I need to do that anyway, so that's good.  Editing still needs to happen, but I'll try to be more efficient about that as well; I'm going to publish this thing after it's complete, so there will be another editing pass then.
-> Onwards!
 > 
+> I'm most of the way through NaNoWriMo and I'm not done with TCS:I yet.  Furthermore, I've only written 16,240 words on it as of 10:46am 2015-11-21.  There are two reasons for this: first, I do a lot of research.  I spent hours poring over Google Maps trying to figure out what my characters will see when they go into the town of Vermillion, Ohio.  (Which is a real place, obviously.)  Second, I'm publishing it a chapter at a time over on my Patreon, so I spend a lot of time editing, which is time I'm not spending writing. 
+> 
+> I haven't been entering my word counts because I was thinking "no, I can't because I'm not working on the novel I was intending to work on."  Feh.  Okay, forget that.  I'm going to list my wordcounts for TCS:I, not counting the 63,480 words that were already written before November.  I can, in theory, still win NaNoWriMo if I can produce 3,370 words per day.  It seems unlikely, but I've been telling myself I need to step up my game and get more efficient.  So.  No more researching -- I'm past the part where I need to do that anyway, so that's good.  Editing still needs to happen, but I'll try to be more efficient about that as well; I'm going to publish this thing after it's complete, so there will be another editing pass then.
+> 
+> Onwards!
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (5 days later)
 >> 
 >> Research is a huge roadblock if the bulk of it isn't done before NaNo. I've been using loads of placeholders. "#NonSocietyName picked up the brick of #antidoteclaystuff."
->> Fortunately, I'm not working in the real world, so I can pretty much make up whatever I want when I hit an impasse.
 >> 
+>> Fortunately, I'm not working in the real world, so I can pretty much make up whatever I want when I hit an impasse.
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (5 days later)
 >>> 
 >>> Yeah, for my fantasy stuff I can riff really quickly.  When I don't have research to do I write ~1000 words an hour.
->>> 
 
-> **u/alexanderwales** [+2]  *Time flies like an arrow**
+> **u/alexanderwales** [+2]  *Time flies like an arrow* (5 days later)
 > 
 > I'm not a hundred percent sure that I'm going to make it. I'm not *horribly* behind, but I am behind. Today is the day of the big D&D thing I've been planning, so hopefully I can make my targets a little better once it's done.
-> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (7 days later)
 >> 
 >> I've recently read through your story and I wanted to know if you have thought of how mentalists relate to recursion? Mentalists can access nearly any of their own memories through their mind palace, but they also have memories of their experience in their mindscape examining their memories. Can they interact or do anything to those meta-memories? I'll also point out the possibilities of meta-meta-memories and so on.
->> 
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (7 days later)
 >>> 
 >>> It works more or less how it seemed to work in the real world; remembering a thing is like doing a read-write on a the file instead of making a duplicate file with all the same information. If you remember going to the beach, you're actually altering that memory going of the beach in the course of remembering.
->>> Mentalists *do* have memories of what they do in their mindscape, but any time spent within a memory just stays as part of that original memory instead of creating a memory of a memory.
->>> Without training, you can unintentionally alter memories by going into them, similar to how in the real world you alter memories by remembering them (one of the reasons that eyewitness testimony is crap). Most mentalists train themselves to crystallize their memories to be strictly accurate and unchanging, then take care not to change anything when they're stepping through a memory.
->>> This is actually touched on some in the most recent section; a character understands his memory of an event as likely inaccurate because he spent a lot of time remembering it before he became a mentalist.
 >>> 
+>>> Mentalists *do* have memories of what they do in their mindscape, but any time spent within a memory just stays as part of that original memory instead of creating a memory of a memory.
+>>> 
+>>> Without training, you can unintentionally alter memories by going into them, similar to how in the real world you alter memories by remembering them (one of the reasons that eyewitness testimony is crap). Most mentalists train themselves to crystallize their memories to be strictly accurate and unchanging, then take care not to change anything when they're stepping through a memory.
+>>> 
+>>> This is actually touched on some in the most recent section; a character understands his memory of an event as likely inaccurate because he spent a lot of time remembering it before he became a mentalist.
 
->> **u/brandalizing** [+1]  *Reserve Pigeon Army**
+>> **u/brandalizing** [+1]  *Reserve Pigeon Army* (5 days later)
 >> 
 >> Hope the D&D thing goes well!
->> 
 
 ---
 

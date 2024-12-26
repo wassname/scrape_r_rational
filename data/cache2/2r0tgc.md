@@ -12,9 +12,10 @@
 
 ### Comments:
 
-> **u/AugSphere** [+4]  *Dark Lord of Corruption**
+> **u/AugSphere** [+4]  *Dark Lord of Corruption* (a day later)
 > 
 > I'm up to chapter 8 and expect my opinion to change if I ever read it further. My problems with it so far:
+> 
 > * Ontologically basic fire, water, earth, air and life in universe exactly like ours in every other way.
 > * Physics broken with no justification provided. 
 > * Gaia is speciest. A natural volcano eruption resulting  in an ice age and tremendous changes in ecosphere would not bother it one bit, but human activity somehow is special. Humans obey the same laws of physics as volcanoes. If you are not going to blame a volcano for erupting and killing things, then it's silly to blame humans for behaving as they do. This only makes sense in a world with a magical free will element.
@@ -22,81 +23,93 @@
 > * Economics broken with no justification.
 > * According to this fic, humanity is polluting the environment because we're evil and not due to coordination problems. Fight for an optimal ecosphere framed as "Bad vs Good" conflict.
 > * A fetishistic attitude towards nature.
-> If I ended up on a the same planet with a sentient agent capable of mass destruction on the scale of gaia and found out that this agent is as dumb and petty as this fic's gaia is, my first priority would be to GTFO. And probably nuke it just to be sure it does not come looking for me later with some other imagined grievance. An alien agent blackmailing/mind-controlling people into it's service under the threat of annihilation of the whole species is not something I appreciate.
-> EDIT: After reading chapter 8 I can add to my problems:
-> * Absence of a working brain in Linka's head. Only the first day of superpowers and the death toll is already in double digits. And a minor ecological catastrophe to go along with it! Seriously, who would choose this person to be one of the 5 people to bring about "balance" to the ecosphere? Well, I guess one could interpret "bring balance" to mean "kill humans". Then it works out.
-> EDIT2: Apparently "nobody was killed" in the indecent mentioned in the previous edit. And there will probably be no negative consequences at all. Because tornadoes are known for spontaneously neutralising toxic industrial waste when they destroy chemical plants. That's just plain author fiat at this point.
 > 
+> If I ended up on a the same planet with a sentient agent capable of mass destruction on the scale of gaia and found out that this agent is as dumb and petty as this fic's gaia is, my first priority would be to GTFO. And probably nuke it just to be sure it does not come looking for me later with some other imagined grievance. An alien agent blackmailing/mind-controlling people into it's service under the threat of annihilation of the whole species is not something I appreciate.
+> 
+> EDIT: After reading chapter 8 I can add to my problems:
+> 
+> * Absence of a working brain in Linka's head. Only the first day of superpowers and the death toll is already in double digits. And a minor ecological catastrophe to go along with it! Seriously, who would choose this person to be one of the 5 people to bring about "balance" to the ecosphere? Well, I guess one could interpret "bring balance" to mean "kill humans". Then it works out.
+> 
+> EDIT2: Apparently "nobody was killed" in the indecent mentioned in the previous edit. And there will probably be no negative consequences at all. Because tornadoes are known for spontaneously neutralising toxic industrial waste when they destroy chemical plants. That's just plain author fiat at this point.
 
->> **u/Kishoto** [+2] *
+>> **u/Kishoto** [+2]  (2 days later)
 >> 
 >> I like most of your points, but I have an issue with a few. Firstly though SPOILERS up to chapter 8, below.
->> - Speciest. Saying Gaia is speciest is like calling a country racist for fighting back against an invading country. Gaia's issue with the humans is that (based on the story, anyway) they've hit a point where they're not existing in a sustainable fashion.  The other large, acts of destruction, such as earthquakes, tsunamis, ice ages, etc. do their damage in a way that nature can recover from. Humans consume in non sustainable ways. Ways the planet doesn't naturally recover from. Mostly due to our proliferation, and also the rate of consumption of our race, especially those in first world countries. Gaia isn't mad because humans kill things. She's mad because we are removing things from her cycles. At non-renewable rates. With continued, unchecked removal, her cycles will be irreparably damaged and the environment would cease to exist (admittedly, humans MAY die off before we got to push the environment to that point, simply because we would die off much quicker than the environment would) Conclusion, Gaia is mad out of self preservation. Where natural things, such as trees, water, etc. are how she bases her vitality and sense of self.
-
->> - Doesn't ever hint that humans are polluting things for the sake of being evil. It states that humans are polluting due to unchecked greed, specifically "The Corporation" and its unchecked greed, and a disregard for the environment due to a lack of empathy for it.
->> - Fetishistic attitude about nature. <--- Nope. It heavily promotes nature, and sustaining it. You can almost call it a soapbox, but even that's stretching it. It's a story about the Earth's Spirit finding pro-Earth people to fight for it. Do you also want to say that Star Wars has a Force fetish? You can't pick up a story and accuse it of fetishism, simply for sticking to the subject matter.
->> - Linka. I'm not pro or anti Linka. But I don't think you can say she has no working brain. She's impulsive, single minded, and short sighted, sure. But I think her actions were more than reasonable, and consistent with her character. The factory was threatening her tribe (for lack of a better term) for years with its pollution of their water source, and she fixed the issue safely. Then they proceeded to threaten her tribe. And kill two members of it. Her decision to attack the factory was impulsively taken, immediately after she got the news of the murders. A crime of passion, if you will. While not rational, her actions were more than understandable.
 >> 
+>> - Speciest. Saying Gaia is speciest is like calling a country racist for fighting back against an invading country. Gaia's issue with the humans is that (based on the story, anyway) they've hit a point where they're not existing in a sustainable fashion.  The other large, acts of destruction, such as earthquakes, tsunamis, ice ages, etc. do their damage in a way that nature can recover from. Humans consume in non sustainable ways. Ways the planet doesn't naturally recover from. Mostly due to our proliferation, and also the rate of consumption of our race, especially those in first world countries. Gaia isn't mad because humans kill things. She's mad because we are removing things from her cycles. At non-renewable rates. With continued, unchecked removal, her cycles will be irreparably damaged and the environment would cease to exist (admittedly, humans MAY die off before we got to push the environment to that point, simply because we would die off much quicker than the environment would) Conclusion, Gaia is mad out of self preservation. Where natural things, such as trees, water, etc. are how she bases her vitality and sense of self.
+>> 
+>> - Doesn't ever hint that humans are polluting things for the sake of being evil. It states that humans are polluting due to unchecked greed, specifically "The Corporation" and its unchecked greed, and a disregard for the environment due to a lack of empathy for it.
+>> 
+>> - Fetishistic attitude about nature. <--- Nope. It heavily promotes nature, and sustaining it. You can almost call it a soapbox, but even that's stretching it. It's a story about the Earth's Spirit finding pro-Earth people to fight for it. Do you also want to say that Star Wars has a Force fetish? You can't pick up a story and accuse it of fetishism, simply for sticking to the subject matter.
+>> 
+>> - Linka. I'm not pro or anti Linka. But I don't think you can say she has no working brain. She's impulsive, single minded, and short sighted, sure. But I think her actions were more than reasonable, and consistent with her character. The factory was threatening her tribe (for lack of a better term) for years with its pollution of their water source, and she fixed the issue safely. Then they proceeded to threaten her tribe. And kill two members of it. Her decision to attack the factory was impulsively taken, immediately after she got the news of the murders. A crime of passion, if you will. While not rational, her actions were more than understandable.
 
->>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (2 days later)
 >>> 
 >>> I shall attempt to clarify my position a bit.
+>>> 
 >>> * My point is that getting angry at human civilisation for behaving as it does makes about as much sense as getting angry at the sun for solar flares. 
 >>> * "Unchecked greed and lack of empathy" sure seems a bit evil to me. A story with an environmentalist message that attributes the problems with implementing a more sustainable civilisation to the influence of selfish greedy short-sighted arseholes is monumentally missing the point. Far more insidious and dangerous are coordination problems. I recommend you read [this post](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/) to get a good idea of what I mean by that. We should create a set of incentives that allows us to cooperate on the problem, not try to shame people into going against their own interests. Even selfish people would prefer a clean Earth to a polluted wasteland. Framing this problem as "good people vs. greedy arseholes" is counterproductive.
 >>> * I would say that Star Wars had a Force fetish if the central focus of the characters was to spread force as widely as possible while constantly thinking how beautiful the force was and how greedy and selfish people not using it were. Note that I'm exaggerating for clarity here. This fic is not that blatant and annoying about it. This is mostly a matter of opinion, so it's not really worth debating about, I think.
 >>> * I agree that her actions are totally understandable. What I don't agree with is a total lack of fallout, which is pretty much declared by author fiat. A couple of hypothetical questions if you will (let's pretend we are talking about an event in the real world and not a story):
 >>> 	* What probability would you give that a tornado strong enough to completely demolish an industrial chemical factory would not significantly injure anyone inside it, conditional on there being absolutely no warning given to the people inside?
 >>> 	* What probability would you give to violent destruction of chemical plant resulting in considerable damage to the surrounding environment given that the factory was known to contain toxic waste and produce pesticides?
->>> What possible criterion could gaia have used to choose its champions that resulted in this short-sighted of a person? Without author protecting her from the consequences she would probably have done more harm to environment on her first day then the factory would do in a couple years. The fact that she's directly responsible for Ruby being an orphan does not endear her to me either. Did she even try to predict what would happen when she started messing with the factory? This lack of foresight is not a characteristic I expect to see in a champion for environment.
 >>> 
+>>> What possible criterion could gaia have used to choose its champions that resulted in this short-sighted of a person? Without author protecting her from the consequences she would probably have done more harm to environment on her first day then the factory would do in a couple years. The fact that she's directly responsible for Ruby being an orphan does not endear her to me either. Did she even try to predict what would happen when she started messing with the factory? This lack of foresight is not a characteristic I expect to see in a champion for environment.
 
->>>> **u/Kishoto** [+2] *
+>>>> **u/Kishoto** [+2]  (2 days later)
 >>>> 
 >>>> I see what you're saying with most of your points. With the Linka thing, I can see what you mean in being annoyed at the handwaved "No innocent people died" thing. Death is approached naively in this fic, I will say that. If not necessarily by the story itself, then by the characters.
->>>> As far as her messing with the factory, I believe she deserves more credit. Her first attempt was very well done. She caused little to no damage. All she did was move the river, essentially, which meant the factory couldn't illegally dump inside of it anymore. This meant that the factory suddenly lost its disposal system, which could be an issue for it, but one easily remedied if they bothered to use proper channels. Her second attempt was one driven by fury. Linka IS impulsive, and she clearly loves deeply, so to see two of her small tribe get murdered, is going to impact her emotionally. Hard. And I can see an emotionally devastated teenager with a tornado ring taking out what she perceives to her enemy.
->>>> I agree that the damage could've caused a bigger disaster. I'm not discounting that. But I don't think Linka was in the right frame of mind to make her decision either. It was an impulsive decision, that made sense to her morals in the most primitive of ways. Her tribe was attacked. Attack them back. 
->>>> I don't think Linka's lack of foresight in this decision should be criticized as the author's mistake. i believe the author intentionally set this sequence of events up, to showcase that Linka is impulsive, and loving.
 >>>> 
+>>>> As far as her messing with the factory, I believe she deserves more credit. Her first attempt was very well done. She caused little to no damage. All she did was move the river, essentially, which meant the factory couldn't illegally dump inside of it anymore. This meant that the factory suddenly lost its disposal system, which could be an issue for it, but one easily remedied if they bothered to use proper channels. Her second attempt was one driven by fury. Linka IS impulsive, and she clearly loves deeply, so to see two of her small tribe get murdered, is going to impact her emotionally. Hard. And I can see an emotionally devastated teenager with a tornado ring taking out what she perceives to her enemy.
+>>>> 
+>>>> I agree that the damage could've caused a bigger disaster. I'm not discounting that. But I don't think Linka was in the right frame of mind to make her decision either. It was an impulsive decision, that made sense to her morals in the most primitive of ways. Her tribe was attacked. Attack them back. 
+>>>> 
+>>>> I don't think Linka's lack of foresight in this decision should be criticized as the author's mistake. i believe the author intentionally set this sequence of events up, to showcase that Linka is impulsive, and loving.
 
->>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+>>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption* (2 days later)
 >>>>> 
 >>>>> We're are mostly in agreement on this. What I see is believable human behaviour. What I don't get is how you could choose 5 people out of all the human population and not find someone more suited to be your champion than this. If someone gave you such a pick and you were looking for the best people to fight for sustainable civilisation, would you choose Linka? Surely there are at the very least 5 people more suitable on the whole Earth?
->>>>> >  This meant that the factory suddenly lost its disposal system, which could be an issue for it, but one easily remedied if they bothered to use proper channels.
->>>>> Because the incentive for the people in the factory to go through proper channels is overwhelming, is it? Maybe this is hindsight bias speaking, but the reaction depicted looks pretty predictable. You go with the cheapest and fastest solution unless there is some reason for you not to, and we have already established that whoever makes the decisions does not consider care for environment or regulations to be terribly important. I also think that author made a bit of a misstep with the arson. People in Russia **know** that your property is liable to mysteriously burn down if you refuse to sell (albeit you are not usually trapped inside), so the decision to just sit tight is a bit suicidal.
 >>>>> 
+>>>>> >  This meant that the factory suddenly lost its disposal system, which could be an issue for it, but one easily remedied if they bothered to use proper channels.
+>>>>> 
+>>>>> Because the incentive for the people in the factory to go through proper channels is overwhelming, is it? Maybe this is hindsight bias speaking, but the reaction depicted looks pretty predictable. You go with the cheapest and fastest solution unless there is some reason for you not to, and we have already established that whoever makes the decisions does not consider care for environment or regulations to be terribly important. I also think that author made a bit of a misstep with the arson. People in Russia **know** that your property is liable to mysteriously burn down if you refuse to sell (albeit you are not usually trapped inside), so the decision to just sit tight is a bit suicidal.
 
->>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (4 days later)
 >>>> 
 >>>> You should submit that post to this sub on its own.
->>>> Edit: nevermind, I'll just get it over with.
 >>>> 
+>>>> Edit: nevermind, I'll just get it over with.
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 minutes later)
 > 
 > I haven't read this fanfiction yet, but this was recently added to TV Tropes under [Rational Fiction](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic) and I don't have the time to read through it. So I'm hoping that there's someone on this subreddit who has and can give their opinion how good the story is, and how rational/rationalist it is. ;)
-> As a reason to read it, it's already complete so there's no torturous waiting for updates like we already do with HPMOR.
 > 
+> As a reason to read it, it's already complete so there's no torturous waiting for updates like we already do with HPMOR.
 
->> **u/cae_jones** [+3] *
+>> **u/cae_jones** [+3]  (11 hours later)
 >> 
 >> I can't say I agree with all the adaptational changes the author made, but on the whole, this is the best Captain Planet-related thing ever and if they ever make a movie, it should be based on this fanfiction.
->> That said, while it has rationalist elements, I feel like the aim was more realism + Gaia. And I use realism loosely, since the premise behind The Corporation is kinda hilarious (Where did the incentives come from, and how did the economy not turn into a sac of kittens as a result?).
->> But granting the two weird premises--The Corporation works, and Gaia/the rings work as portrayed--it does an excellent job.
->> For bonus Rationalist Fiction points, Gaia is considerably less mentor-like and more Emergent Planetary Intelligence-like, so she doesn't give the planeteers much guidance, forcing them to figure out loads of things on their own. They don't get anything for free other than, perhaps, enough local termoil to let them up and leave home for planeteering.
->> It's been a few months since I've read it, but if a discussion is to be had, I'll gladly reread so I know my memory isn't betraying me.
 >> 
+>> That said, while it has rationalist elements, I feel like the aim was more realism + Gaia. And I use realism loosely, since the premise behind The Corporation is kinda hilarious (Where did the incentives come from, and how did the economy not turn into a sac of kittens as a result?).
+>> 
+>> But granting the two weird premises--The Corporation works, and Gaia/the rings work as portrayed--it does an excellent job.
+>> 
+>> For bonus Rationalist Fiction points, Gaia is considerably less mentor-like and more Emergent Planetary Intelligence-like, so she doesn't give the planeteers much guidance, forcing them to figure out loads of things on their own. They don't get anything for free other than, perhaps, enough local termoil to let them up and leave home for planeteering.
+>> 
+>> It's been a few months since I've read it, but if a discussion is to be had, I'll gladly reread so I know my memory isn't betraying me.
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (13 hours later)
 >>> 
 >>> Thank you for your opinion, and I'll be sure to take the time to read the story soon.
->>> 
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (2 days later)
 >>> 
 >>> Read the entire thing. A very interesting take on the series. It's pro Nature, most definitely. Very green. But come on, it's Captain Planet. What can you expect?
->>> Very well written overall, a pretty good read. You don't need any foreknowledge of the series either. Gaia is handled in a much more mature away, as cae_jones has remarked, and I agree with its depiction. 
->>> Rationally, must certainly be taken with a grain of salt. The conceptualization of elements is always tricky to do in a way that's sensible. Gaia's existence mirrors biological entities (self preservation instincts, emotions, etc.) The Corporation, to people that know economics, doesn't seem feasible (I am NOT an economist, but I have economist friends)
 >>> 
+>>> Very well written overall, a pretty good read. You don't need any foreknowledge of the series either. Gaia is handled in a much more mature away, as cae_jones has remarked, and I agree with its depiction. 
+>>> 
+>>> Rationally, must certainly be taken with a grain of salt. The conceptualization of elements is always tricky to do in a way that's sensible. Gaia's existence mirrors biological entities (self preservation instincts, emotions, etc.) The Corporation, to people that know economics, doesn't seem feasible (I am NOT an economist, but I have economist friends)
 
 ---
 

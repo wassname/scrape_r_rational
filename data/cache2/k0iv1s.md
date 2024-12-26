@@ -25,76 +25,78 @@ Let's look back at some memorable moments and interesting insights from last yea
 
 ### Comments:
 
-> **u/Watchful1** [+46] *
+> **u/Watchful1** [+45]  (8 minutes later)
 > 
 > Wait a minute, it's all Mother of Learning and Worth the Candle?
-> 
 
->> **u/Tenobrus** [+52] *
+>> **u/Tenobrus** [+53]  (10 minutes later)
 >> 
 >> Always has been.
->> 
 
-> **u/DaystarEld** [+26]  *Pokémon Professor**
+> **u/DaystarEld** [+24]  *Pokémon Professor* (2 hours later)
 > 
 > For those as confused as I was, no, this sub definitely isn't 11 years old :) Or rather, it existed 11 years ago but was basically empty. You can use this site to look at a sub's history, and I was able to find the sub in its current form's *actual* brthday, which is actually not far off-month wise... December 3rd, 2013, making us about 7 years old.
-> https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=rational&searchtype=posts&search=true&start=1386046800&end=1386219600&size=100
 > 
+> https://redditsearch.io/?term=&dataviz=false&aggs=false&subreddits=rational&searchtype=posts&search=true&start=1386046800&end=1386219600&size=100
 
->> **u/DiscyD3rp** [+3]  *Wannabe Shakespeare**
+>> **u/DiscyD3rp** [+3]  *Wannabe Shakespeare* (5 hours later)
 >> 
 >> ok that makes more sense I was like "wait wtf I didn't think *that* much time had passed. still wild to think it's been 7 years.
->> 
 
->> **u/RMcD94** [+3] *
+>> **u/RMcD94** [+3]  (20 hours later)
 >> 
 >> I remember the comment thread that started it was on r hpmor no?
->> 
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (21 hours later)
 >>> 
 >>> Yep.
->>> 
 
-> **u/King_For_Emergency** [+5] *
+> **u/King_For_Emergency** [+4]  (5 hours later)
 > 
 > i've been lurking on this sub for a month but i never actually read anything. i like the idea of rational fiction.
-> what are the best stories associated with it? i like more lighthearted stuff, comedy or romance but all is good. fanfiction or original fiction.
 > 
+> what are the best stories associated with it? i like more lighthearted stuff, comedy or romance but all is good. fanfiction or original fiction.
 
->> **u/Silver_Swift** [+8] *
+>> **u/Silver_Swift** [+6]  (7 hours later)
 >> 
 >> My personal favorites:
->> - **[Pokemon: Origin of Species](http://daystareld.com/pokemon-1/)**: A (really awesome) attempt to make a more internally consistent pokemon universe. Relatively lighthearted in some parts, but can get really tense as well. Takes a bit of time to get going, but if you can get through the early chapters it gets really, really good. 
->> - **[Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)**: Main character in a very high magic system gets stuck in a groundhog day-style timeloop and has to redo the same month over and over again trying to avert a major disaster while munchkinning the crap out of the time loop and the magic system.  Didn't originate on this subreddit, but is really popular around here. The story is also finished now, so no risk of it getting abandoned. 
->> - **[The Optimized Wish Project](https://www.fanfiction.net/s/12863641/)**: Dragonball fanfic where Goku isn't an idiot and Bulma is trying to figure out how all the nonsense magic and superpowers in the dragonball universe works. Probably the most lighthearted of this list.
->> - **[Animorphs: The reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning)**: Animorphs fanfic that is very much **not** lighthearted. It's tense and scary, up to the point where it is a borderline horror story (which is exactly the correct atmosphere for animorphs). I stopped reading this until it is finished as I felt the slow update schedule was messing with my enjoyment of the story and it might have been abandoned in the mean time (last update was from July 20th), so fair warning. It is really good though.
->> - **[Harry Potter and the Methods of Rationality](http://www.hpmor.com/chapter/1)**: The story that started the genre. An amazing take on the HP universe with Harry, Hermione, Voldemort, Dumbledore and a bunch of others all being substantially smarter than their canon counterparts. My feelings on the story fluctuate a bit. It definitely has aspects that I don't like (Harry is kind of a pretentious ass in some places and there are a few unnecessary jabs at canon HP that felt a little mean spirited), but if you can get past those the interplay between smart!Harry and smart!everyone else is well worth it.
-
->> People here also really like Worth the Candle (as you can see from this post), but I never read that story so I can't comment there.
 >> 
+>> - **[Pokemon: Origin of Species](http://daystareld.com/pokemon-1/)**: A (really awesome) attempt to make a more internally consistent pokemon universe. Relatively lighthearted in some parts, but can get really tense as well. Takes a bit of time to get going, but if you can get through the early chapters it gets really, really good. 
+>> 
+>> - **[Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)**: Main character in a very high magic system gets stuck in a groundhog day-style timeloop and has to redo the same month over and over again trying to avert a major disaster while munchkinning the crap out of the time loop and the magic system.  Didn't originate on this subreddit, but is really popular around here. The story is also finished now, so no risk of it getting abandoned. 
+>> 
+>> - **[The Optimized Wish Project](https://www.fanfiction.net/s/12863641/)**: Dragonball fanfic where Goku isn't an idiot and Bulma is trying to figure out how all the nonsense magic and superpowers in the dragonball universe works. Probably the most lighthearted of this list.
+>> 
+>> - **[Animorphs: The reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning)**: Animorphs fanfic that is very much **not** lighthearted. It's tense and scary, up to the point where it is a borderline horror story (which is exactly the correct atmosphere for animorphs). I stopped reading this until it is finished as I felt the slow update schedule was messing with my enjoyment of the story and it might have been abandoned in the mean time (last update was from July 20th), so fair warning. It is really good though.
+>> 
+>> - **[Harry Potter and the Methods of Rationality](http://www.hpmor.com/chapter/1)**: The story that started the genre. An amazing take on the HP universe with Harry, Hermione, Voldemort, Dumbledore and a bunch of others all being substantially smarter than their canon counterparts. My feelings on the story fluctuate a bit. It definitely has aspects that I don't like (Harry is kind of a pretentious ass in some places and there are a few unnecessary jabs at canon HP that felt a little mean spirited), but if you can get past those the interplay between smart!Harry and smart!everyone else is well worth it.
+>> 
+>> People here also really like Worth the Candle (as you can see from this post), but I never read that story so I can't comment there.
 
->>> **u/King_For_Emergency** [+2] *
+>>> **u/King_For_Emergency** [+2]  (17 hours later)
 >>> 
 >>> thank you.
->>> 
 
->> **u/Downzorz7** [+1] *
+>> **u/Downzorz7** [+1]  (23 hours later)
 >> 
 >> https://alexanderwales.com/the-dark-wizard-of-donkerk-chapter-1/
 >> All of Wales's writing is great and very much in the spirit of this sub and this is one of my faves of his. Very compelling characters, very coherent and thought-provoking worldbuilding. I found the romantic subplot pretty entertaining, which is rare for me.
+>> 
 >> http://unsongbook.com/
 >> Unsong is one of my favorite books, although it skips many common ratfic tropes. Something like an urban fantasy setting built from jewish/abrahamic mysticism, it's a good work all around, and if you like puns you'll likely find it hilarious as well.
+>> 
 >> https://parahumans.wordpress.com/
 >> Worm is a wonderful deconstruction of the "superhero" genre, and despite predating most of the rationalist canon is very much in the same spirit. It has a bit of a slow start but imo hits its swing by chapter 4. Notable for being one of the longest pieces of popular webfiction, worm spans ~7,000 pages. Admittedly this one is nowhere near "lighthearted" but it's definitely a formative work in the genre. 
+>> 
 >> https://docfuture.tumblr.com/post/82363551272/fall-of-doc-future-contents/amp
 >> Fall of Doc Future is another in the "super" genre, with a good helping of hard sci-fi. This is book 1 of a trilogy, the third book of which is incomplete (not sure if it's still in limbo or if it's been dropped but hasn't updated in quite a while). Lighthearted and a lot of fun with a cast of some my favorite characters in fiction. This is another work where I find the romantic plotlines quite compelling.
->> 
 
-> **u/ulyssessword** [+4] *
+> **u/ulyssessword** [+3]  (12 hours later)
 > 
 > How is automod getting its links?  I see 8/10 Mother of Learning posts when I look at top, vs. 2 here.
+> 
 > Actually, I'll make my own top 10, keeping self posts, pointing everything to chapter 1, and removing duplicates (but otherwise going by votes):
+> 
 > 1. [Mother of Learning](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)
 > 2. [A rationalist in the zombie apocalypse](https://www.reddit.com/r/rational/comments/4yvx3c/rt_a_rationalist_in_the_zombie_apocalypse/)
 > 3. [A man dies and is sent to hell](https://www.reddit.com/r/rational/comments/5nty35/short_story_a_man_dies_and_is_sent_to_hell/)
@@ -105,18 +107,16 @@ Let's look back at some memorable moments and interesting insights from last yea
 > 8. [Wednesday Worldbuilding and writing thread](https://www.reddit.com/r/rational/comments/fde96c/d_wednesday_worldbuilding_and_writing_thread/)
 > 9. [FW: Admin Message from God](https://www.reddit.com/r/rational/comments/7obnf7/fw_admin_message_from_god/)
 > 10. [wildbow's Ward (the sequel to Worm) is now complete. If, like me, you were waiting for it to end to start reading, now is the time](https://www.parahumans.net/table-of-contents/)
-> ...bringing us to #59 (that's a lot of update posts).
 > 
+> ...bringing us to #59 (that's a lot of update posts).
 
->> **u/Sonderjye** [+3] *
+>> **u/Sonderjye** [+3]  (15 hours later)
 >> 
 >> Without digging into the links I assume automod is only linking to posts from this last year
->> 
 
->>> **u/ulyssessword** [+3] *
+>>> **u/ulyssessword** [+3]  (15 hours later)
 >>> 
 >>> Yup, top in the last year, the post even says it.  Oops.
->>> 
 
 ---
 

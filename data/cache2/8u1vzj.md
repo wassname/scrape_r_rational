@@ -2,7 +2,7 @@
 
 * Author: u/ketura  *Organizer**
 * URL: https://www.reddit.com/r/rational/comments/8u1vzj/meta_rrational_characteristics_of_rational/
-* Score: 64
+* Score: 65
 
 * Created: 2018-06-26T17:25:02
 
@@ -59,393 +59,404 @@ Any of the above items or anything else related to critique of this process is w
 
 ### Comments:
 
-> **u/Kinoite** [+29] *
+> **u/Kinoite** [+30]  (3 hours later)
 > 
 > This seems like a "[Disguised Queries](https://www.lesswrong.com/posts/4FcxgdvdQP45D6Skg/disguised-queries)" thing.  The point of creating a category is so we can do things with it.  But what problem are we trying to solve when we're refining the definition?
+> 
 > The subreddit provides me with 3 kind of useful content:
+> 
 > 1.  Update notices for stories that I'm currently following.
 > 2.  Links / recommendations to stories that I could follow.
 > 3.  Discussion about writing.
-> The current volume of posts is easily manageable.  So, excluding stories would make the subreddit less useful.  Including more stories could be nice.
-> I'm not sure that I really see a problem with people posting stuff that they shouldn't.  So, refined genre-boundaries wouldn't necessarily help me much.
 > 
+> The current volume of posts is easily manageable.  So, excluding stories would make the subreddit less useful.  Including more stories could be nice.
+> 
+> I'm not sure that I really see a problem with people posting stuff that they shouldn't.  So, refined genre-boundaries wouldn't necessarily help me much.
 
->> **u/sicutumbo** [+15] *
+>> **u/sicutumbo** [+15]  (5 hours later)
 >> 
 >> Well, you presumably come here for a certain type of story. If the rules on what is and isn't allowed get too loose, then the sub loses the ability to select for the type of story that you enjoy.
->> 
 
->>> **u/PHalfpipe** [+4] *
+>>> **u/PHalfpipe** [+3]  (10 hours later)
 >>> 
 >>> Maybe , but we need more content. There's only three popular series right now, and two of them will be ending next year.
->>> 
 
->>>> **u/ketura** [+9]  *Organizer**
+>>>> **u/ketura** [+9]  *Organizer* (10 hours later)
 >>>> 
 >>>> Coming up with a *better* definition does not necessarily mean that it has to be a more *restrictive* one.  I'll be disappointed if all the eventual proposed solutions turn out to be an order of magnitude more limiting and complex than our current one, rather than trending the other way.
->>>> 
 
->>>>> **u/nytelios** [+5] *
+>>>>> **u/nytelios** [+5]  (a day later)
 >>>>> 
 >>>>> My main concern is that a better definition will necessarily be a more *complex* one - and specificity is correlated with restrictiveness. All those past threads show that it's hard to pin down a definition of rational fiction while also retaining the cogency and approachability of the current list (the [suggested rewrite](https://www.reddit.com/r/rational/comments/6s2cad/meta_a_suggested_rewrite_of_the_characteristics/) is a real mouthful). Even though the current list doesn't rigorously capture the essence of the genre, I'd venture that it's made the idea of rationality more approachable to the average reader.
->>>>> And as /u/Kinoite alludes to, boundaries that are an order of magnitude stricter aren't helpful to the presumptive majority of the subreddit who are here to explore stories. I'd personally prefer a tweak or pithy annex based on what people's biggest problems are with the current definition.
 >>>>> 
+>>>>> And as /u/Kinoite alludes to, boundaries that are an order of magnitude stricter aren't helpful to the presumptive majority of the subreddit who are here to explore stories. I'd personally prefer a tweak or pithy annex based on what people's biggest problems are with the current definition.
 
->>>>>> **u/ketura** [+2]  *Organizer**
+>>>>>> **u/ketura** [+2]  *Organizer* (a day later)
 >>>>>> 
 >>>>>> It's certainly difficult--but part of that difficulty is in random individuals trying on their own, and it's hoped that we can harness the collective to select and *refine* answers over the course of the few weeks of the schedule.  
->>>>>> >(the suggested rewrite is a real mouthful)
->>>>>> That's one such rewrite, but I myself have posted two much more succinct ones in the past, and I'm sure there's plenty of other more talented writers who could do better.  Hopefully we'll get such submissions a few weeks from now.
->>>>>> >I'd personally prefer a tweak or pithy annex based on what people's biggest problems are with the current definition.
->>>>>> I don't think you're alone either.  Personally I like the sidebar as well--and I'd encourage anyone who feels the same to make sure they speak with their votes, when the time comes.
 >>>>>> 
+>>>>>> >(the suggested rewrite is a real mouthful)
+>>>>>> 
+>>>>>> That's one such rewrite, but I myself have posted two much more succinct ones in the past, and I'm sure there's plenty of other more talented writers who could do better.  Hopefully we'll get such submissions a few weeks from now.
+>>>>>> 
+>>>>>> >I'd personally prefer a tweak or pithy annex based on what people's biggest problems are with the current definition.
+>>>>>> 
+>>>>>> I don't think you're alone either.  Personally I like the sidebar as well--and I'd encourage anyone who feels the same to make sure they speak with their votes, when the time comes.
 
->>>>> **u/Ms_CIA** [+2]  *Derp**
+>>>>> **u/Ms_CIA** [+2]  *Derp* (a day later)
 >>>>> 
 >>>>> Generally speaking, I think a definition that allows for a greater amount of rational (and non-rational) fiction would be a good idea. If a story that is non-rational and unpopular gets posted, then people won't read it or upvote it. But if a story that does not fit the conventional parameters of rational fic were posted, and did end up being popular, then it would be upvoted and the amount of good fiction on this sub would increase. I seriously doubt, based on this forum's fan base, that you're going to get a lot of BTS and Stucky fics just because you broaden the definition. :) It'll likely be decent fics from people who are trying to make quality work. Basically, if your priority is more content to read, a looser and more inclusive definition is better.
->>>>> 
 
->>>> **u/Silver_Swift** [+2] *
+>>>> **u/Silver_Swift** [+2]  (20 hours later)
 >>>> 
 >>>> >  There's only three popular series right now
->>>> Which three series did you have in mind?
->>>> Not that I disagree that we need more, rather than less, content (though I think a clear mission statement for this sub can actually help with that), but I do think there are more than three popular ongoing stories.
 >>>> 
+>>>> Which three series did you have in mind?
+>>>> 
+>>>> Not that I disagree that we need more, rather than less, content (though I think a clear mission statement for this sub can actually help with that), but I do think there are more than three popular ongoing stories.
 
->>>>> **u/Makin-** [+4]  *homestuck ratfic, you can do it**
+>>>>> **u/Makin-** [+4]  *homestuck ratfic, you can do it* (a day later)
 >>>>> 
 >>>>> My guess would be Mother of Learning, Practical Guide to Evil and Worth the Candle, though I don't know about the first two ending that soon.
->>>>> 
 
->>>>>> **u/Silver_Swift** [+4] *
+>>>>>> **u/Silver_Swift** [+5]  (a day later)
 >>>>>> 
 >>>>>> That leaves out at least Animorphs: The Reckoning and Pokemon: The Origin of Species though, both of which I think are fairly popular.
->>>>>> 
 
->>>>>>> **u/PHalfpipe** [+1] *
+>>>>>>> **u/PHalfpipe** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> They're well liked within the sub, but very niche.  The other three are in a different league. 
->>>>>>> Although Practical Guide to Evil is in a league of its own now, since it gets the web serial fanbase as well as crossover appeal from the massive fantasy fanbase.
 >>>>>>> 
+>>>>>>> Although Practical Guide to Evil is in a league of its own now, since it gets the web serial fanbase as well as crossover appeal from the massive fantasy fanbase.
 
->>>>>>>> **u/Silver_Swift** [+2] *
+>>>>>>>> **u/Silver_Swift** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> Ah ok, fair enough, I was indeed thinking about popularity within the sub.
->>>>>>>> 
 
->>>>>> **u/Nimelennar** [+4] *
+>>>>>> **u/Nimelennar** [+4]  (a day later)
 >>>>>> 
 >>>>>> [According to the author](https://m.fictionpress.com/u/804592/?a=b),  MoL is supposed to be three arcs of approximately equal length.  The first arc was 26 chapters; the second arc was 28.  The third arc is 32 chapters long, and counting.
->>>>>> As for PGtE, [WoG is](https://www.reddit.com/r/PracticalGuideToEvil/comments/8crl8e/comment/dxiqveu) that there will be five books, and we're in the fourth.
 >>>>>> 
+>>>>>> As for PGtE, [WoG is](https://www.reddit.com/r/PracticalGuideToEvil/comments/8crl8e/comment/dxiqveu) that there will be five books, and we're in the fourth.
 
->> **u/Makin-** [+8]  *homestuck ratfic, you can do it**
+>> **u/Makin-** [+9]  *homestuck ratfic, you can do it* (6 hours later)
 >> 
 >> The problem isn't that the definition is too wide or too narrow, the problem is that it's simply *wrong* and doesn't actually pinpoint what most people here enjoy or consider rational. At least that's my read on the situation.
->> 
 
->> **u/ketura** [+10]  *Organizer**
+>> **u/ketura** [+9]  *Organizer* (7 hours later)
 >> 
 >> I think that there's an additional role that the subreddit plays (hinted at with your third point):
->> >Act as a guideline for authors of future works.
->> Mother of Learning's author was (if I have heard it through the grapevine correctly) introduced to the concept of rational fiction after beginning that work, which lead to a slight difference in focus as he strove to incorporate our tenets.  
->> The position that this subreddit holds is more than just a set of submission rules, it's also a set of guidelines to consider when creating content as well.  Having a well-defined set of characteristics informs not only what works can or ought to be posted here, but guides the shape of works yet to come, so we may as well attempt to be clear with what it is that we *want*.
->> (Plus, y'know, maybe the sidebar *doesn't* need to be a filter for what's posted.  Maybe it *should* be a vague creed that isn't enforced.  I don't know.  But that edges away from the meta discussion a bit.)
 >> 
+>> >Act as a guideline for authors of future works.
+>> 
+>> Mother of Learning's author was (if I have heard it through the grapevine correctly) introduced to the concept of rational fiction after beginning that work, which lead to a slight difference in focus as he strove to incorporate our tenets.  
+>> 
+>> The position that this subreddit holds is more than just a set of submission rules, it's also a set of guidelines to consider when creating content as well.  Having a well-defined set of characteristics informs not only what works can or ought to be posted here, but guides the shape of works yet to come, so we may as well attempt to be clear with what it is that we *want*.
+>> 
+>> (Plus, y'know, maybe the sidebar *doesn't* need to be a filter for what's posted.  Maybe it *should* be a vague creed that isn't enforced.  I don't know.  But that edges away from the meta discussion a bit.)
 
->>> **u/None** [+5] *
+>>> **u/None** [+4]  (7 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/ketura** [+1]  *Organizer**
+>>>> **u/ketura** [+1]  *Organizer* (9 hours later)
 >>>> 
 >>>> yes, corrected.
->>>> 
 
->> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> **u/alexanderwales** [+6]  *Time flies like an arrow* (8 hours later)
 >> 
 >> This is part of the "Problems" part of things, not the Meta part of things. It's my position (along with many others) that the current definition in the sidebar is practically useless for anyone ... but more on that in a week, when we define the problem.
->> 
 
->> **u/Putnam3145** [+2] *
+>> **u/Putnam3145** [+2]  (5 hours later)
 >> 
 >> Kind of adjacent to the [XY problem](https://en.wikipedia.org/wiki/XY_problem). Of course, the XY problem is why we try to truly discuss and find the problem before proposing any solutions.
->> 
 
-> **u/ketura** [+17]  *Organizer**
+> **u/ketura** [+18]  *Organizer* (29 seconds later)
 > 
 > For those of you who can’t stand this sort of bookkeeping and just want to get on with it, you should start by perusing the following links as a refresher on the debates of yore:
-
-> [A (brief) history of rational fiction before /r/rational](https://www.reddit.com/r/rational/comments/4s4mez/rationally_writing_episode_0_history/d57g3z0/).
-
-> [Original /r/HPMOR thread.](https://www.reddit.com/r/HPMOR/comments/1rkkam/in_light_of_the_recent_slew_of_recommendations/)
-
-> [Most Fiction Isn't That Rational](https://www.reddit.com/r/rational/comments/2jmwwq/most_fiction_isnt_that_rational/)
-
-> [The Definition of \[RT\]](https://www.reddit.com/r/rational/comments/6gd97l/meta_the_definition_of_rt/)
-
-> [Is UNSONG Rational Fic?](https://www.reddit.com/r/rational/comments/4sv6te/meta_is_unsong_rational_fic/)
-
-> [A Suggested Rewrite of the 'Characteristics of Rational Fiction' in the Sidebar](https://www.reddit.com/r/rational/comments/6s2cad/meta_a_suggested_rewrite_of_the_characteristics/)
-
-> [Is Worth the Candle Truly an RT?](https://www.reddit.com/r/rational/comments/8t6lw4/rt_is_worth_the_candle_truly_an_rt/)
-
-> Also feel free to prepare posts for upcoming threads in advance and really get Your Big Idea polished to a shine.
-
-> EDIT:
-> Oh, and if that still isn't enough, consider spending some time [filling out this survey](https://docs.google.com/forms/d/e/1FAIpQLSduZYPgVewRSgSJRmP_rCNbgVF6s_NHgKUu3bUY-KiVAi0fEg/viewform), so we have at least a little data to start with in the coming weeks.
 > 
+> [A (brief) history of rational fiction before /r/rational](https://www.reddit.com/r/rational/comments/4s4mez/rationally_writing_episode_0_history/d57g3z0/).
+> 
+> [Original /r/HPMOR thread.](https://www.reddit.com/r/HPMOR/comments/1rkkam/in_light_of_the_recent_slew_of_recommendations/)
+> 
+> [Most Fiction Isn't That Rational](https://www.reddit.com/r/rational/comments/2jmwwq/most_fiction_isnt_that_rational/)
+> 
+> [The Definition of \[RT\]](https://www.reddit.com/r/rational/comments/6gd97l/meta_the_definition_of_rt/)
+> 
+> [Is UNSONG Rational Fic?](https://www.reddit.com/r/rational/comments/4sv6te/meta_is_unsong_rational_fic/)
+> 
+> [A Suggested Rewrite of the 'Characteristics of Rational Fiction' in the Sidebar](https://www.reddit.com/r/rational/comments/6s2cad/meta_a_suggested_rewrite_of_the_characteristics/)
+> 
+> [Is Worth the Candle Truly an RT?](https://www.reddit.com/r/rational/comments/8t6lw4/rt_is_worth_the_candle_truly_an_rt/)
+> 
+> Also feel free to prepare posts for upcoming threads in advance and really get Your Big Idea polished to a shine.
+> 
+> EDIT:
+> 
+> Oh, and if that still isn't enough, consider spending some time [filling out this survey](https://docs.google.com/forms/d/e/1FAIpQLSduZYPgVewRSgSJRmP_rCNbgVF6s_NHgKUu3bUY-KiVAi0fEg/viewform), so we have at least a little data to start with in the coming weeks.
 
-> **u/Noumero** [+15]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+14]  *Self-Appointed Court Statistician* (25 minutes later)
 > 
 > I propose an additional discussion thread: **Practical Problems thread**.
-> We'll pick a few stories which are widely considered rational, and a few stories rationality of which is widely *controversial*. Then we'll analyse why, exactly, we hold those opinions, compare the stories, figure out what we *actually* look for in a rational story, and so on.
-> I think it would be insightful. I would suggest putting this as a separate thread after the "Problem Discussion" thread, or as a *part* of the "Problem Discussion" thread. I prefer the separate thread option, since I suspect it will require multiple parallel discussions, and would distract from the thread's intended purpose.
-> Additionally, we could have a "definition practice run" after the Solution Proposal thread, in which we would compare the definitions we came up with by judging which stories are considered rational according to what definition.
-> Conveniently, I've made [a list](https://docs.google.com/spreadsheets/d/14ScI2wg9CH50jeWw25U69hDZSYh_NVA93lYtoa9d1Ew/edit#gid=0) of many works which I saw discussed/linked-to on r/rational. We could pick from those. (It's currently roughly divided into "rational", "likely rational", and "controversial", according to my subjective opinion and my understanding of r/rational's opinion. It should be noted that I didn't read many of them, so don't pay too much attention to the divide.)
-> As example, I could suggest the following combination:
-> **Controversial:** [*The Martian*](https://www.goodreads.com/book/show/18007564-the-martian), [*A Practical Guide to Evil*](https://practicalguidetoevil.wordpress.com/), [*Worm*](https://parahumans.wordpress.com/) or [*Twig*](https://twigserial.wordpress.com/), [*Unsong*](http://unsongbook.com/), [*Dungeon Keeper Ami*](https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/).
-> **Rational:** [*Eden Green*](https://www.goodreads.com/book/show/26058753-eden-green), [*Cordyceps*](https://archiveofourown.org/works/6178036/chapters/14154868), [*Fork in the Road*](https://www.reddit.com/r/rational/comments/68wlhx/rst_fork_in_the_road_rluna_lovewell/), [*Worth the Candle*](https://archiveofourown.org/works/11478249/chapters/25740126), [*Ra*](https://qntm.org/ra).
-> In particular, *Eden Green* and *Cordyceps* have some elements of deliberate irrationality, and *Fork in the Road* is a very short and simple story, which could generate some interesting discussion.
-> One issue here is that, whatever combination we'll go with, not everyone will have read all of the chosen stories. We should ensure maximum coverage, so that everyone has something to ~~argue about~~ constructively discuss, but at the same time we must explore edge cases. Perhaps stick to popular longer works, and shorter edge-case ones? If we decide on the combination this week, and agree to do this in a separate thread, people will have more than a week to read.
 > 
+> We'll pick a few stories which are widely considered rational, and a few stories rationality of which is widely *controversial*. Then we'll analyse why, exactly, we hold those opinions, compare the stories, figure out what we *actually* look for in a rational story, and so on.
+> 
+> I think it would be insightful. I would suggest putting this as a separate thread after the "Problem Discussion" thread, or as a *part* of the "Problem Discussion" thread. I prefer the separate thread option, since I suspect it will require multiple parallel discussions, and would distract from the thread's intended purpose.
+> 
+> Additionally, we could have a "definition practice run" after the Solution Proposal thread, in which we would compare the definitions we came up with by judging which stories are considered rational according to what definition.
+> 
+> Conveniently, I've made [a list](https://docs.google.com/spreadsheets/d/14ScI2wg9CH50jeWw25U69hDZSYh_NVA93lYtoa9d1Ew/edit#gid=0) of many works which I saw discussed/linked-to on r/rational. We could pick from those. (It's currently roughly divided into "rational", "likely rational", and "controversial", according to my subjective opinion and my understanding of r/rational's opinion. It should be noted that I didn't read many of them, so don't pay too much attention to the divide.)
+> 
+> As example, I could suggest the following combination:
+> 
+> **Controversial:** [*The Martian*](https://www.goodreads.com/book/show/18007564-the-martian), [*A Practical Guide to Evil*](https://practicalguidetoevil.wordpress.com/), [*Worm*](https://parahumans.wordpress.com/) or [*Twig*](https://twigserial.wordpress.com/), [*Unsong*](http://unsongbook.com/), [*Dungeon Keeper Ami*](https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/).
+> 
+> **Rational:** [*Eden Green*](https://www.goodreads.com/book/show/26058753-eden-green), [*Cordyceps*](https://archiveofourown.org/works/6178036/chapters/14154868), [*Fork in the Road*](https://www.reddit.com/r/rational/comments/68wlhx/rst_fork_in_the_road_rluna_lovewell/), [*Worth the Candle*](https://archiveofourown.org/works/11478249/chapters/25740126), [*Ra*](https://qntm.org/ra).
+> 
+> In particular, *Eden Green* and *Cordyceps* have some elements of deliberate irrationality, and *Fork in the Road* is a very short and simple story, which could generate some interesting discussion.
+> 
+> One issue here is that, whatever combination we'll go with, not everyone will have read all of the chosen stories. We should ensure maximum coverage, so that everyone has something to ~~argue about~~ constructively discuss, but at the same time we must explore edge cases. Perhaps stick to popular longer works, and shorter edge-case ones? If we decide on the combination this week, and agree to do this in a separate thread, people will have more than a week to read.
 
->> **u/alexanderwales** [+18]  *Time flies like an arrow**
+>> **u/alexanderwales** [+18]  *Time flies like an arrow* (39 minutes later)
 >> 
 >> I think that arguing about individual works is unlikely to be helpful, will suck up a lot of time and effort, and not actually get us that much closer to a working definition. However, I think that people are going to do it *anyway*, so yes, I'd like them to have some place to talk about the whys and wherefores of the deep lore and/or character actions and/or narrative structure and choices of particular stories. That's especially the case since not everyone has read everything.
->> (The primary reason that I think this is unlikely to be helpful is that most of the threads on individual works have descended into minutia very quickly, and when conversations become about why characters did something, they're several levels removed from the actual discussion that we're trying to have, especially when the conversation is really one about interpretations of the work.)
 >> 
+>> (The primary reason that I think this is unlikely to be helpful is that most of the threads on individual works have descended into minutia very quickly, and when conversations become about why characters did something, they're several levels removed from the actual discussion that we're trying to have, especially when the conversation is really one about interpretations of the work.)
 
->>> **u/Noumero** [+4]  *Self-Appointed Court Statistician**
+>>> **u/Noumero** [+4]  *Self-Appointed Court Statistician* (56 minutes later)
 >>> 
 >>> Hmm, I see your point. I think observing how the discussions develop and what people chose to focus on would be useful, though, as a different way of estimating what people's internal concept of "rational fiction" corresponds to.
->>> And yes, it could be used as an outlet for arguments related to individual works. Perhaps leave it active for the entire duration, then?
 >>> 
+>>> And yes, it could be used as an outlet for arguments related to individual works. Perhaps leave it active for the entire duration, then?
 
->>>> **u/ketura** [+5]  *Organizer**
+>>>> **u/ketura** [+6]  *Organizer* (an hour later)
 >>>> 
 >>>> A companion thread to act as a lightning rod for that part of the discussion isn't out of the question. Multiple simultaneous threads itself isn't out of the question, and if it's determined to be the best way to move forward we can do that.
->>>> Subthreads might also work, although it will require more setup.
 >>>> 
+>>>> Subthreads might also work, although it will require more setup.
 
->>>>> **u/Noumero** [+7]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+7]  *Self-Appointed Court Statistician* (5 hours later)
 >>>>> 
 >>>>> Why these half-measures? We need to create an entire *subreddit* for this occasion! r/RFDefinitionBattleRoyale or something, with threads for voting system analyses, voting system proposals, voting system voting threads, ten meta-discussion threads, twelve different problem discussion threads, and one hundred sixty-five individual work discussion threads — for a start!
->>>>> I propose we have a public range vote on the subreddit's name first, though.
 >>>>> 
+>>>>> I propose we have a public range vote on the subreddit's name first, though.
 
->>>>>> **u/ketura** [+4]  *Organizer**
+>>>>>> **u/ketura** [+6]  *Organizer* (7 hours later)
 >>>>>> 
 >>>>>> *Obviously* we need to vote on what the vote format should be for the vote for the subreddit name before we can even *consider* moving forward with a clear conscious.
->>>>>> 
 
->>> **u/LupoCani** [+1] *
+>>> **u/LupoCani** [+1]  (5 days later)
 >>> 
 >>> I think it could be helpful, if put forward specifically as a focal-lens-thingy for introspecting our personal experience as readers. What qualities do we enjoy in these works, which of those do we associate with the rational genre in particular, what did we notice the most when we read our first ratjecent work, etc?
->>> It's often brought up that we're in a situation of knowing it when we see it. We have a common intuitive conception, and presented with a particular work we can often go aye/nay, but with decreasing consistency the farther we get from central category members. In trying to nail down this category, it seems absolutely indispensable to have taken a long, hard look at ourselves asking - when I put [work] inside this category, on what basis do I do so and which of these traits are important?
->>> So, I think it's a good idea to discuss particular works in a dedicated space, with some restrictions. For example, absolutely no debate on categorization, only discussion on and comparison of our personal experiences.
 >>> 
+>>> It's often brought up that we're in a situation of knowing it when we see it. We have a common intuitive conception, and presented with a particular work we can often go aye/nay, but with decreasing consistency the farther we get from central category members. In trying to nail down this category, it seems absolutely indispensable to have taken a long, hard look at ourselves asking - when I put [work] inside this category, on what basis do I do so and which of these traits are important?
+>>> 
+>>> So, I think it's a good idea to discuss particular works in a dedicated space, with some restrictions. For example, absolutely no debate on categorization, only discussion on and comparison of our personal experiences.
 
->> **u/DangerouslyUnstable** [+4] *
+>> **u/DangerouslyUnstable** [+4]  (a day later)
 >> 
 >> I find it amusing that you put "Worth the Candle" in the rational column when a post arguing about it's rationality is what spawned this whole discussion. Not that I disagree with you though.
->> 
 
->> **u/FatFingerHelperBot** [-3] *
+>> **u/FatFingerHelperBot** [-2]  (25 minutes later)
 >> 
 >> It seems that your comment contains 1 or more links that are hard to tap for mobile users. 
 >> I will extend those so they're easier for our sausage fingers to click!
-
+>> 
 >> [Here is link number 1](https://qntm.org/ra) - Previous text "Ra"
-
+>> 
 >> ----
 >> ^Please ^PM ^/u/eganwall ^with ^issues ^or ^feedback! ^| ^[Delete](https://reddit.com/message/compose/?to=FatFingerHelperBot&subject=delete&message=delete%20e1bxzj4)
->> 
 
-> **u/Makin-** [+12]  *homestuck ratfic, you can do it**
+> **u/Makin-** [+10]  *homestuck ratfic, you can do it* (5 hours later)
 > 
 > While the details are too much for me, my initial thought is that contest mode upvoting is not a good idea. I think the vote should be public and come with names attached. It's not such a big deal that it *has* to be a private vote, and this way people will vote smarter, not to mention it will be way harder to brigade.
-> Of course, if votes are public then we run the risk of popularity skewing the vote, now that I think about it. Maybe just DMs confirming google form entries with range voting? The important part is that we don't get thoughtless votes or brigading, because we have more enemies than we'd care to acknowledge and I don't want to be stuck with a meme definition forever
 > 
+> Of course, if votes are public then we run the risk of popularity skewing the vote, now that I think about it. Maybe just DMs confirming google form entries with range voting? The important part is that we don't get thoughtless votes or brigading, because we have more enemies than we'd care to acknowledge and I don't want to be stuck with a meme definition forever
 
->> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> **u/alexanderwales** [+5]  *Time flies like an arrow* (8 hours later)
 >> 
 >> If democracy fails us, then we can tell democracy to go take a hike. This is already going to be part of the solutions thread; obviously non-serious submissions like "Definition McDefinitionFace" will be mercilessly deleted.
->> 
 
->>> **u/Makin-** [+2]  *homestuck ratfic, you can do it**
+>>> **u/Makin-** [+2]  *homestuck ratfic, you can do it* (a day later)
 >>> 
 >>> I was more thinking of solutions lame enough to theoretically win a vote and still have everyone upset at it, like the current one.
->>> 
 
->>>> **u/ketura** [+1]  *Organizer**
+>>>> **u/ketura** [+1]  *Organizer* (a day later)
 >>>> 
 >>>> If the first vote results in a winner than isn't popular, we can run a second or third round to narrow things down and get some consensus. The process isn't set in stone, and we can adapt as needed.
->>>> 
 
-> **u/alexanderwales** [+20]  *Time flies like an arrow**
+> **u/alexanderwales** [+20]  *Time flies like an arrow* (4 minutes later)
 > 
 > Thanks to /u/ketura for doing this so that I don't have to.
-> 
 
-> **u/ketura** [+5]  *Organizer**
+> **u/ketura** [+5]  *Organizer* (4 hours later)
 > 
 > From a user on the /r/rational Discord:
-> >even if arguing over what stories are and aren't ratfics isn't helpful, making a survey would be
-> And this seems like it might have merit to the discussion where actually debating it wouldn't. A simple Google form with ten or twenty well-known stories and various checkboxes for "should be posted to the subreddit", "should not be posted to the subreddit", and a textbox for what genre label you would give the work.
-> Might get us the data I think is the actual justification for even having the argument over a given story, without the minutiae failstate mentioned by /u/AlexanderWales and /u/Noumero.
-> What do you think, does this have merit? Should we post such a thing in this thread to give it time to mature before the discussion thread, or leave it until then, or forget it at all?
 > 
+> >even if arguing over what stories are and aren't ratfics isn't helpful, making a survey would be
+> 
+> And this seems like it might have merit to the discussion where actually debating it wouldn't. A simple Google form with ten or twenty well-known stories and various checkboxes for "should be posted to the subreddit", "should not be posted to the subreddit", and a textbox for what genre label you would give the work.
+> 
+> Might get us the data I think is the actual justification for even having the argument over a given story, without the minutiae failstate mentioned by /u/AlexanderWales and /u/Noumero.
+> 
+> What do you think, does this have merit? Should we post such a thing in this thread to give it time to mature before the discussion thread, or leave it until then, or forget it at all?
 
->> **u/sicutumbo** [+3] *
+>> **u/sicutumbo** [+3]  (5 hours later)
 >> 
 >> I think there should be a check box of themes, not stories. They can be fairly granular, like "uplift" or "uses actual math in a plot relevant fashion", but I still think it's better than posting a list of stories and asking for votes on them. Stories have lots of different elements and themes to them, people will remember various themes differently from other people, the quality of the story can influence whether people think it should be posted regardless of themes, more recent content will bias the vote for serials, etc. We would need a lot of stories to get good data from that, and then the more popular stories will have both more votes and more votes saying it should be posted, because "this story should be on the subreddit" and "I liked this story enough to spend the time to finish it" are not independent.
->> Or maybe we could have a different list of things to vote on. I didn't fully separate out my analysis of the problem with my proposed solution, and we shouldn't conflate agreeing with one with the other.
 >> 
+>> Or maybe we could have a different list of things to vote on. I didn't fully separate out my analysis of the problem with my proposed solution, and we shouldn't conflate agreeing with one with the other.
 
->>> **u/ketura** [+2]  *Organizer**
+>>> **u/ketura** [+2]  *Organizer* (6 hours later)
 >>> 
 >>> What would a complete list of themes look like?
->>> 
 
->>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (7 hours later)
 >>>> 
 >>>> I suppose you could look at the list of tropes [here](https://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic), though I don't think it covers everything.
->>>> I really should've done that analysis of biweekly challenge thread entries...
 >>>> 
+>>>> I really should've done that analysis of biweekly challenge thread entries...
 
->> **u/Silver_Swift** [+3] *
+>> **u/Silver_Swift** [+3]  (14 hours later)
 >> 
 >> I'd prefer to have both a survey and the companion thread for discussing individual stories discussed above.
->> A survey will, I suspect, give a clearer picture of which kind of stories are considered rational/rationalist (both because the threshold for filling out a google form is much lower than the one for jumping into a discussion thread and because the discussion thread will likely only focus on the more controversial stories) and people can then jump into the discussion thread if they want to elaborate on why a particular story is/isn't rational(ist). 
->> Besides, you definitely want to have a way to keep the debates about individual stories from bogging down the central discussion. That means either strict moderation or a companion thread to point people to (one of those options will cause significantly less grumbling than the other).
 >> 
+>> A survey will, I suspect, give a clearer picture of which kind of stories are considered rational/rationalist (both because the threshold for filling out a google form is much lower than the one for jumping into a discussion thread and because the discussion thread will likely only focus on the more controversial stories) and people can then jump into the discussion thread if they want to elaborate on why a particular story is/isn't rational(ist). 
+>> 
+>> Besides, you definitely want to have a way to keep the debates about individual stories from bogging down the central discussion. That means either strict moderation or a companion thread to point people to (one of those options will cause significantly less grumbling than the other).
 
->>> **u/ketura** [+2]  *Organizer**
+>>> **u/ketura** [+2]  *Organizer* (20 hours later)
 >>> 
 >>> Yeah, I think the companion thread is still a good idea. I've put up the survey for all the advantages you mentioned, but the lightning rod utility of the thread is still important, I think.
->>> 
 
->> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (5 hours later)
 >> 
 >> Hmm. I'm not sure simply having a post-it/don't-post-it choice would give us the data we want. At least *I* planned to use the arguments to look at people's reasoning for *why* they consider a story rational, which a binary choice wouldn't accomplish.
->> Perhaps a binary choice + write-in form for reasoning, then? With all results being made public afterwards. This setup does accomplish something useful, namely an opportunity for people to clearly state their opinions without getting into an argument.
->> I support this, conditional on including a write-in option. I'm not sure we should post it right now, though, it may distract from this meta-discussion. Perhaps a few days later, if it'll be clear the meta-discussion died down?
 >> 
+>> Perhaps a binary choice + write-in form for reasoning, then? With all results being made public afterwards. This setup does accomplish something useful, namely an opportunity for people to clearly state their opinions without getting into an argument.
+>> 
+>> I support this, conditional on including a write-in option. I'm not sure we should post it right now, though, it may distract from this meta-discussion. Perhaps a few days later, if it'll be clear the meta-discussion died down?
 
->>> **u/ketura** [+1]  *Organizer**
+>>> **u/ketura** [+1]  *Organizer* (7 hours later)
 >>> 
 >>> post/don't post was an attempt to keep the questions as unbiased as possible.  Yeah, it won't offer any insight on a particular story, but if there's a pattern where this big group of fics is "allowed" and this this big group isn't, one can draw conclusions based on the trend.  Hopefully we would be able to redraw boundaries based on the trend rather than simply forcing existing misconceptions.
->>> 
 
->>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician**
+>>>> **u/Noumero** [+2]  *Self-Appointed Court Statistician* (7 hours later)
 >>>> 
 >>>> Sure, but I'm concerned there won't be a clear pattern, or that we would be tempted to force a pattern based on existing preconceptions.
->>>> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (7 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/ketura** [+3]  *Organizer**
+>>> **u/ketura** [+3]  *Organizer* (9 hours later)
 >>> 
 >>> I suppose you probably won't be the only one.  Are you aware of an alternative platform that allows for flexible survey creation?  
->>> Unless something materializes that lets me throw together a bunch of questions as quickly as the one I've already put together, we might just have to do without those would prefer to not let google know their thoughts on harry potter fanfiction.
 >>> 
+>>> Unless something materializes that lets me throw together a bunch of questions as quickly as the one I've already put together, we might just have to do without those would prefer to not let google know their thoughts on harry potter fanfiction.
 
->>>> **u/Makin-** [+2]  *homestuck ratfic, you can do it**
+>>>> **u/Makin-** [+2]  *homestuck ratfic, you can do it* (a day later)
 >>>> 
 >>>> I've had to make surveys for feedback forms a lot, and from experience, google is the only free one with enough features.
->>>> If anyone doesn't want google to have data regarding their rational definitions they can just use Waterfox, a new google account and a VPN or something.
 >>>> 
+>>>> If anyone doesn't want google to have data regarding their rational definitions they can just use Waterfox, a new google account and a VPN or something.
 
->>>>> **u/ketura** [+1]  *Organizer**
+>>>>> **u/ketura** [+1]  *Organizer* (a day later)
 >>>>> 
 >>>>> I figured as much. Thanks!
->>>>> 
 
-> **u/ketura** [+5]  *Organizer**
+> **u/ketura** [+5]  *Organizer* (11 hours later)
 > 
 > I've [created a survey](https://docs.google.com/forms/d/e/1FAIpQLSduZYPgVewRSgSJRmP_rCNbgVF6s_NHgKUu3bUY-KiVAi0fEg/viewform) on google forms relating to your views on which specific fics should be covered by /r/rational's purview.  If you're feeling blueballed by meta discussion, this might help, and once we start the discussion for reals next week any data in here should be fairly useful as a starting point.
-> 
 
->> **u/Silver_Swift** [+6] *
+>> **u/Silver_Swift** [+5]  (15 hours later)
 >> 
 >> Good survey. 
 >> It's a little odd to have multiple degrees of 'I have read this fic', but I do think there is some additional information to be found there. For reference, I chose to interpret the answers as:
->> * **Hell yeah:** I have read all of the main story and I've read some supplemental material/participated in online discussions around it (or would have if it was an option).
->> * **Yes:** I have completely read at least the main story.
->> * **Meh:** I bounced off of this part way through.
->> * **No:** I have not read this, but it is not inconceivable that I might in the future.
->> * **Hell Naw:** I have not read this and I have zero interest in reading it.
 >> 
+>> * **Hell yeah:** I have read all of the main story and I've read some supplemental material/participated in online discussions around it (or would have if it was an option).
+>> 
+>> * **Yes:** I have completely read at least the main story.
+>> 
+>> * **Meh:** I bounced off of this part way through.
+>> 
+>> * **No:** I have not read this, but it is not inconceivable that I might in the future.
+>> 
+>> * **Hell Naw:** I have not read this and I have zero interest in reading it.
 
->>> **u/ketura** [+2]  *Organizer**
+>>> **u/ketura** [+2]  *Organizer* (20 hours later)
 >>> 
 >>> Yeah, that was definitely an ambiguity, but I hadn't quite realized it until I'd copied the matrix of questions for all the fics, and by then was too lazy to hand-edit all of them.
->>> Your interpretation is the way I saw it as well, except that I took "hell yeah" to mean "multiple times". Either way works, since the important part for that question is really the yes/no.
 >>> 
+>>> Your interpretation is the way I saw it as well, except that I took "hell yeah" to mean "multiple times". Either way works, since the important part for that question is really the yes/no.
 
-> **u/Kerbal_NASA** [+4] *
+> **u/Kerbal_NASA** [+4]  (3 hours later)
 > 
 > Re: Voting system
+> 
 > Given the following:
+> 
 > * We use preference utilitarianism as a basis for judging the best voting method
 > * Every person affected by an issue has an equal stake in the outcome and is a voter
 > * Everyone's knowledge of the affect of the vote is either perfect or imperfect in ways that aren't correlated with how they vote
 > * People aren't able to/decide not to vote strategically
 > * All voting systems has equal easy to implement/understand, or more generally have the same "cost"
 > * Other things I'm forgetting
-> Then the best voting method is [Range voting](https://en.wikipedia.org/wiki/Range_voting) (which makes intuitive sense since you're just putting down your preferences and then the result is whichever option maximizes preference).
-> If you want to drop the "nobody votes strategically" and "all voting systems are equally easy to implement" then [Approval voting](https://en.wikipedia.org/wiki/Approval_voting) becomes the clear winner. 
-> My hunch is that on one hand people won't be able to vote strategically cause its not like there's going to be a bunch of polling beforehand and who actually cares enough to be a dick about it. Buuut setting up range voting might be a pain in the ass, whereas approval voting is just using [strawpoll](https://www.strawpoll.me/) with the "Allow multiple poll answers" option checked. My vote is approval voting unless someone can be bothered to find a good service that allows range voting.
 > 
+> Then the best voting method is [Range voting](https://en.wikipedia.org/wiki/Range_voting) (which makes intuitive sense since you're just putting down your preferences and then the result is whichever option maximizes preference).
+> 
+> If you want to drop the "nobody votes strategically" and "all voting systems are equally easy to implement" then [Approval voting](https://en.wikipedia.org/wiki/Approval_voting) becomes the clear winner. 
+> 
+> My hunch is that on one hand people won't be able to vote strategically cause its not like there's going to be a bunch of polling beforehand and who actually cares enough to be a dick about it. Buuut setting up range voting might be a pain in the ass, whereas approval voting is just using [strawpoll](https://www.strawpoll.me/) with the "Allow multiple poll answers" option checked. My vote is approval voting unless someone can be bothered to find a good service that allows range voting.
 
->> **u/ketura** [+2]  *Organizer**
+>> **u/ketura** [+2]  *Organizer* (4 hours later)
 >> 
 >> How does the default of making a Reddit thread compare to these options, in your opinion? It seems to my untrained eye that a standard thread is similar superficially to a limited Range vote, where the range is (-1, 0, 1), although the canceling nature of a downvote might mean the difference is quite stark.
->> It wouldn't be too out there to make a Google form for the final vote, or to use another site such as straw poll (which I hadn't considered until you brought it up), so we'll just have to see what people's opinions are.
 >> 
+>> It wouldn't be too out there to make a Google form for the final vote, or to use another site such as straw poll (which I hadn't considered until you brought it up), so we'll just have to see what people's opinions are.
 
->>> **u/Kerbal_NASA** [+2] *
+>>> **u/Kerbal_NASA** [+2]  (4 hours later)
 >>> 
 >>> Yeah a reddit thread is Range voting (assuming we take top score as winner) assuming voters vote on all options (there might be some small bias if people don't look at all the options because then ignored options basically get an automatic 5/10 vote, but that's probably very minor/irrelevant). The downvote threshold thing is annoying (also less abuse protection maybe? Probably not important) and I'm also a bit worried about the inconvenience for lurkers without accounts, though happy about the convenience for those that do have accounts and the ease of doing so.
->>> I just brought up straw poll just because I'm familiar with it, its really easy to set up and vote in and I haven't set up a vote with google forms before (I think I have voted in a google form before but I don't remember what it was like).
 >>> 
+>>> I just brought up straw poll just because I'm familiar with it, its really easy to set up and vote in and I haven't set up a vote with google forms before (I think I have voted in a google form before but I don't remember what it was like).
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (7 hours later)
 >> 
 >> My hunch is also that strategic voting should not be a problem, because I don't see how attempting to steer the voting in a particular direction benefits me.
->> The benefit to me of the vote is a result that correctly represents the opinion of the group; I lose this benefit if I try to tamper with it.
 >> 
+>> The benefit to me of the vote is a result that correctly represents the opinion of the group; I lose this benefit if I try to tamper with it.
 
-> **u/ben_oni** [+2] *
+> **u/ben_oni** [+2]  (5 days later)
 > 
 > I think you're approaching the problem a bit askew. Instead of updating the sidebar we should be updating the wiki -- once the wiki is updated, the sidebar is just a summary, and it should be much easier to get a consensus of how to summarize the wiki than how to rewrite the sidebar.
-> 
 
-> **u/Nimelennar** [+2] *
+> **u/Nimelennar** [+2]  (10 hours later)
 > 
 > The schedule seems... suboptimal.
-> For scheduling and ground rules?  Sure, a week is lots.
-> For voting on a fully-formed idea?  A week should be fine.
-> But three intermediate steps?  That sounds like it would take longer.  Maybe two weeks for each of those steps?
-> I'm also feeling that there's at least one poll missing, although I'm not sure if should be after Step 1, or Step 2, or both.  An attempt to get the definitions of terms nailed down, or get a consensus yea or nay about whether certain tropes are expected.
-> What I'm basically looking for with that extra polling step is so people largely have the same parts to build their solution out of, rather than having a dozen different nearly-identical submissions because people can't agree on a definition of, say, the difference between a Doylist explanation and a Watsonian one.
 > 
+> For scheduling and ground rules?  Sure, a week is lots.
+> 
+> For voting on a fully-formed idea?  A week should be fine.
+> 
+> But three intermediate steps?  That sounds like it would take longer.  Maybe two weeks for each of those steps?
+> 
+> I'm also feeling that there's at least one poll missing, although I'm not sure if should be after Step 1, or Step 2, or both.  An attempt to get the definitions of terms nailed down, or get a consensus yea or nay about whether certain tropes are expected.
+> 
+> What I'm basically looking for with that extra polling step is so people largely have the same parts to build their solution out of, rather than having a dozen different nearly-identical submissions because people can't agree on a definition of, say, the difference between a Doylist explanation and a Watsonian one.
 
->> **u/ketura** [+2]  *Organizer**
+>> **u/ketura** [+2]  *Organizer* (10 hours later)
 >> 
 >> Weeks 1 and 2 seem like they could easily be split as needed if there's enough support for it.  Unlike this one that we can just drop and run, however, I think that splitting 1 and/or 2 needs to have a certain theme around it.  Like have week 1.1 discuss narrativism vs simulationism, and 1.2 discuss everything else, or something.
->> I'm in the middle of throwing together a rudimentary poll just for people's views on a broad number of fics and how they fit into /r/rational, but this isn't quite lined up with the polls you refer to.  The intent with these threads was that solution authors would have the corpus of the recent weeklong discussions to refer to when coming up with solutions, and the ones that matched the definitions used by the most people would be those that naturally rose to the top.
->> However, I'll try and keep my finger on the pulse of the discussion and put together regular strawpolls for definitions as they come up, and pester /u/AlexanderWales to keep the latest ones pinned at the top of the threads.  Introducing a day-or-two-long gap between 2 and 3 where the polls can be re-ran once the hot issues have been decided seems like a great addition to the process to me, to make sure that any solutions that get discussed have common ground, like you say.
 >> 
+>> I'm in the middle of throwing together a rudimentary poll just for people's views on a broad number of fics and how they fit into /r/rational, but this isn't quite lined up with the polls you refer to.  The intent with these threads was that solution authors would have the corpus of the recent weeklong discussions to refer to when coming up with solutions, and the ones that matched the definitions used by the most people would be those that naturally rose to the top.
+>> 
+>> However, I'll try and keep my finger on the pulse of the discussion and put together regular strawpolls for definitions as they come up, and pester /u/AlexanderWales to keep the latest ones pinned at the top of the threads.  Introducing a day-or-two-long gap between 2 and 3 where the polls can be re-ran once the hot issues have been decided seems like a great addition to the process to me, to make sure that any solutions that get discussed have common ground, like you say.
 
-> **u/verbalshadow** [+1] *
+> **u/verbalshadow** [+1]  (2 days later)
 > 
 > If we could. I would like to see random element tags generation and then vote to see if it rt, rst, or general fiction. Maybe 20-50 questions total. 
+> 
 > Example.
 > This story contains:
 > * plot holes
@@ -453,24 +464,25 @@ Any of the above items or anything else related to critique of this process is w
 > * love story
 > * ethics
 > * introspection
+> 
 > Is this story?
 > * rt
 > * rst
 > * gen fic
-> 
 
->> **u/PurposefulZephyr** [+2] *
+>> **u/PurposefulZephyr** [+2]  (3 days later)
 >> 
 >> I too feel like the tag approach may be the best course here.
->> After all, this is quite a small community, and rational genre is very small. Most good works out there will only coincidentally meet our criteria, especially considering our preference towards more fun (rather than purely realistic and serious) works of fiction.
->> Tags allow for a more broad criteria of "how many elements/what parts of it are rational" rather than "does it fit our closed box of rationality".
->> This kind of quantification (and evaluation) of singular qualities (tags) allows to compare works on a more mathematical level. This would allow us a more structured approach, tallying 'good' and 'bad' parts, rather than endless debates on whether or not a piece of work is good enough.
 >> 
+>> After all, this is quite a small community, and rational genre is very small. Most good works out there will only coincidentally meet our criteria, especially considering our preference towards more fun (rather than purely realistic and serious) works of fiction.
+>> 
+>> Tags allow for a more broad criteria of "how many elements/what parts of it are rational" rather than "does it fit our closed box of rationality".
+>> 
+>> This kind of quantification (and evaluation) of singular qualities (tags) allows to compare works on a more mathematical level. This would allow us a more structured approach, tallying 'good' and 'bad' parts, rather than endless debates on whether or not a piece of work is good enough.
 
->>> **u/verbalshadow** [+2] *
+>>> **u/verbalshadow** [+2]  (4 days later)
 >>> 
 >>> I think that it also important to steer clear  of talk about specific stories. That has a tendency to devolve into talking about miniscule details of that have little bearing on the point. Which is why talking  about story elements or tags is the best route.
->>> 
 
 ---
 

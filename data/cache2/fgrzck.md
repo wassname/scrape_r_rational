@@ -12,51 +12,43 @@
 
 ### Comments:
 
-> **u/ironistkraken** [+6] *
+> **u/ironistkraken** [+7]  (8 hours later)
 > 
 > Is this story any good, should I read it?
-> 
 
->> **u/notgreat** [+1] *
+>> **u/notgreat** [+1]  (a day later)
 >> 
 >> Seems to be a competent first-contact story. Nothing amazing, but an entertaining read overall.
->> It has multiple viewpoints, which gets kinda awkward due to the sheer number of distinct plot threads going at once.
 >> 
+>> It has multiple viewpoints, which gets kinda awkward due to the sheer number of distinct plot threads going at once.
 
-> **u/sparr** [+6] *
+> **u/sparr** [+5]  (an hour later)
 > 
 > The announcement format is weird; I almost bailed before I got to the bottom. I am so glad I didn't. Wooooooooo!
-> 
 
-> **u/MaddoScientisto** [+3] *
+> **u/MaddoScientisto** [+5]  (an hour later)
 > 
 > My favorite space serial is back! I'm so glad it won't stay unfinished!
-> 
 
-> **u/PublicMoralityPolice** [+3] *
+> **u/PublicMoralityPolice** [+3]  (an hour later)
 > 
 > I completely forgot about this, but I'm happy to see it's resuming.
-> 
 
-> **u/talks2deadpeeps** [+2]  *The Culture**
+> **u/talks2deadpeeps** [+2]  *The Culture* (2 hours later)
 > 
 > Cool, I was wondering what had happened to it.
-> 
 
-> **u/MoralRelativity** [+2] *
+> **u/MoralRelativity** [+2]  (3 hours later)
 > 
 > Oh, happy day!
-> 
 
-> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+> **u/SvalbardCaretaker** [+1]  *Mouse Army* (8 hours later)
 > 
 > Yes!! I'd been wondering if I'd imagined this one! I had skimmed the first chapters and lost the bookmark and on searching I'd only find that Puella Magi scific.
-> 
 
-> **u/adad64** [+1]  *Chaos Legion**
+> **u/adad64** [+1]  *Chaos Legion* (10 hours later)
 > 
 > Oh nice!
-> 
 
 ---
 

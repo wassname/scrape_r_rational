@@ -24,244 +24,235 @@ Both creating a world that gives a serious and in-depth treatment of the issues 
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+17]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+17]  *Godric Gryffindor* (an hour later)
 > 
 > >  but I do intend for Korra to become smarter over the course of at least the first major arc and for her to become to some extent a scientist internally
-> If you don't power her up *fast* then you may not have any readers left by the time you get around to putting that long-awaited awesome in the fic.  Chapter *one* needs to give the reader a reason to continue reading.
 > 
+> If you don't power her up *fast* then you may not have any readers left by the time you get around to putting that long-awaited awesome in the fic.  Chapter *one* needs to give the reader a reason to continue reading.
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (9 hours later)
 >> 
 >> Yeah, I agree completely, and I'm really not sure how to do that without making a large break from canon, which I'm trying to avoid doing in terms of character, plot, and setting in the early chapters. But canon sucked, so maybe I should stop imitating things that sucked.
->> There's your rationality lesson for the day. Don't imitate things that suck.
->> I should say that I do not intend for Korra to become very smart, just smart enough for her to be able to be a protagonist in a world that Professor Quirrell would conquer in a week, tops. The primary appeal of TLA is the characters and setting, and I'd like that to remain true of my fic as well. With sufficiently well-drawn characters and an interesting environment for them, a plot and promised awesome can be drawn out for a long time e.g. [Gunnerkrigg Court](http://gunnerkrigg.com/?p=1). The problem in canon is that Korra has no very interesting or sympathetic goals and not very much happens to do, nor is she very important to anyone except as something to manipulate. Which I mostly retain. So, duh, I should make a much bigger break from canon.
->> And now to rewrite everything. Again. Maybe. Anyone have any ideas on how to make the beginning more interesting without tearing everything up and starting over with a radically different story?
 >> 
+>> There's your rationality lesson for the day. Don't imitate things that suck.
+>> 
+>> I should say that I do not intend for Korra to become very smart, just smart enough for her to be able to be a protagonist in a world that Professor Quirrell would conquer in a week, tops. The primary appeal of TLA is the characters and setting, and I'd like that to remain true of my fic as well. With sufficiently well-drawn characters and an interesting environment for them, a plot and promised awesome can be drawn out for a long time e.g. [Gunnerkrigg Court](http://gunnerkrigg.com/?p=1). The problem in canon is that Korra has no very interesting or sympathetic goals and not very much happens to do, nor is she very important to anyone except as something to manipulate. Which I mostly retain. So, duh, I should make a much bigger break from canon.
+>> 
+>> And now to rewrite everything. Again. Maybe. Anyone have any ideas on how to make the beginning more interesting without tearing everything up and starting over with a radically different story?
 
->>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+9]  *Time flies like an arrow* (11 hours later)
 >>> 
 >>> The big problem with Korra (both here and in canon) is that she's really got no motivation. That's not so unusual in people, but it's sort of makes for problems because she's stumbling from thing to thing without any real direction. What does Korra want? Freedom, mostly.
->>> The reason the original series worked was that in the first episode we set up the premise: the Fire Nation is evil and needs to be stopped. This provides motivation to Aang throughout the entire series, and the series ends with the Fire Nation being stopped (with some moral ambiguity stuck in).
->>> What's the premise in Korra, at least the first season? The equalists think that benders have put themselves up onto a pedestal, and some of them are getting violent. And Korra ... doesn't seem like she gives a shit about any of this. She joins up with the probending league because she thinks it would be fun, and mostly gets pushed from place to place by her coterie of advisors - she doesn't have much real agency.
->>> So what I'd do to fix that is to put her on one side of an issue, and have that be her driving force. Maybe Korra is a scientist herself, more interested in how things work than in bending. Maybe Korra is an equalist herself, one that sees the injustices of a society where some are simply born better than others. Make her the Professor X to Amon's Magneto, two people on the same side of an issue who disagree on the means of getting equality.
->>> Right now, Korra is whiny, hotheaded, stubborn, and bored. Hotheaded  and stubborn are fine character traits, but Korra's whining makes her annoying, and her boredom makes her boring. She needs redeeming qualities, probably curiosity and compassion, and they need to be shown in the first chapter before I stop giving a crap about her. She needs some sort of drive, something beyond just "I'm bored and want to have an adventure". That's probably the toughest part, because she's the Avatar already and in a position to get almost anything that she wants *unless she's put in conflict with one side or another*, and it would be better for her to start the story with an opinion on whatever matter you're putting front and center.
 >>> 
+>>> The reason the original series worked was that in the first episode we set up the premise: the Fire Nation is evil and needs to be stopped. This provides motivation to Aang throughout the entire series, and the series ends with the Fire Nation being stopped (with some moral ambiguity stuck in).
+>>> 
+>>> What's the premise in Korra, at least the first season? The equalists think that benders have put themselves up onto a pedestal, and some of them are getting violent. And Korra ... doesn't seem like she gives a shit about any of this. She joins up with the probending league because she thinks it would be fun, and mostly gets pushed from place to place by her coterie of advisors - she doesn't have much real agency.
+>>> 
+>>> So what I'd do to fix that is to put her on one side of an issue, and have that be her driving force. Maybe Korra is a scientist herself, more interested in how things work than in bending. Maybe Korra is an equalist herself, one that sees the injustices of a society where some are simply born better than others. Make her the Professor X to Amon's Magneto, two people on the same side of an issue who disagree on the means of getting equality.
+>>> 
+>>> Right now, Korra is whiny, hotheaded, stubborn, and bored. Hotheaded  and stubborn are fine character traits, but Korra's whining makes her annoying, and her boredom makes her boring. She needs redeeming qualities, probably curiosity and compassion, and they need to be shown in the first chapter before I stop giving a crap about her. She needs some sort of drive, something beyond just "I'm bored and want to have an adventure". That's probably the toughest part, because she's the Avatar already and in a position to get almost anything that she wants *unless she's put in conflict with one side or another*, and it would be better for her to start the story with an opinion on whatever matter you're putting front and center.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (13 hours later)
 >>>> 
 >>>> Yeah, that's all true. I'll probably have to bite the bullet and make some significant changes to her character or to her surrounding.
->>>> But doesn't "I'm bored and want to have an adventure" often work for characters? But I suppose they stumble into an adventure fairly quickly.
->>>> Or maybe turning her firebending test into a longer arc and more difficult struggle that takes much longer for her to complete, whether that's a few chapters or just a lot more words in the first chapter, to give more of an opportunity to get to know Korra and see her in action trying to accomplish something important. Could that work?
 >>>> 
+>>>> But doesn't "I'm bored and want to have an adventure" often work for characters? But I suppose they stumble into an adventure fairly quickly.
+>>>> 
+>>>> Or maybe turning her firebending test into a longer arc and more difficult struggle that takes much longer for her to complete, whether that's a few chapters or just a lot more words in the first chapter, to give more of an opportunity to get to know Korra and see her in action trying to accomplish something important. Could that work?
 
->>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (13 hours later)
 >>>>> 
 >>>>> In the monomyth, this is the [Call to Adventure](http://en.wikipedia.org/wiki/Monomyth#The_Call_to_Adventure). "I'm bored and want to have an adventure" *can* work for a character, but it's pretty rare to have that and not also have something that propels the character forward into the action. Luke Skywalker is probably the most famous example of someone bored with his life and surroundings and wanting an adventure, and he gets called into action when he gets the message from Leia off the droid. Luke shares a lot in common with Korra, actually. However, I think it's going to be hard to get it to work in a series that's all about politics when the main characters is almost entirely apolitical to start with.
->>>>> That's just my opinion though.
 >>>>> 
+>>>>> That's just my opinion though.
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (14 hours later)
 >>>>>> 
 >>>>>> N, you're right. I actually try to get Korra interested in the issues of Republic City with an OC Equalist who works at Tenzin's island and a bombing of a hospital in the failed second attempt that I linked to above, although I can't say that I handled either very well. It wasn't enough, either. Even after convincing Korra that she needs to get involved, she lacks the ability to involve herself. I couldn't figure out a way to keep Tarlok from owning her the instant she got involved with his task force.
->>>>>> I'm becoming more convinced that turning Korra's firebending test into something much longer, more involved, and challenging needs to happen, both to make her sufficiently interesting that I can slow things down, and to make her sufficiently competent and thoughtful that I can have her learn.
 >>>>>> 
+>>>>>> I'm becoming more convinced that turning Korra's firebending test into something much longer, more involved, and challenging needs to happen, both to make her sufficiently interesting that I can slow things down, and to make her sufficiently competent and thoughtful that I can have her learn.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (9 hours later)
 >>> 
 >>> So, fuck it, I was trying to avoid this, but [here's](https://www.fanfiction.net/s/9660282/1/Book-4-A-Matter) the aborted second attempt at this story, which I haven't destroyed yet so that I can use it for motivation to not suck at writing. Just to give some sense of what I was trying to do with the story before I realized it was all going to shit and I needed to start again.
->>> Again, I'm really looking for sharp, specific, intelligent criticism, which is why I'm posting here. Clearly my own intelligence alone is not up to the task, or at least not up to the task in any non-horrifying time frame.
 >>> 
+>>> Again, I'm really looking for sharp, specific, intelligent criticism, which is why I'm posting here. Clearly my own intelligence alone is not up to the task, or at least not up to the task in any non-horrifying time frame.
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (8 hours later)
 >> 
 >> If you want the slow burn instead, you could try doing what a lot of novels (and even more videogames) do, which is to start right in the middle of the action and then have your second chapter start at the beginning. [Relevant TVTropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HowWeGotHere).
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (9 hours later)
 >>> 
 >>> That definitely does not work with the currently intended tone or plot. I also don't think it would save my characters from basically being shit (I really need to stop treating the source material as inspiration). I need a significant change to what I'm doing with my story, not just a different framing device.
->>> At least I'm satisfied with my actual plot, even if I don't know how to get my characters involved with it in a meaningful way. I'm thinking maybe I don't need to if the characters and setting themselves are sufficiently cool, but I'm failing to pull that off so far.
 >>> 
+>>> At least I'm satisfied with my actual plot, even if I don't know how to get my characters involved with it in a meaningful way. I'm thinking maybe I don't need to if the characters and setting themselves are sufficiently cool, but I'm failing to pull that off so far.
 
-> **u/Paradoxius** [+6] *
+> **u/Paradoxius** [+7]  (6 minutes later)
 > 
 > This sounds great.  I love social science fiction about the scientific community (Dresden Codak is one of my favorites).
-> I'm actually working on an A:TLA fanfic that I'm calling Avatar: The Last Rationalist in which Aang is the last of the highly rational and scientific airbender race.  I look forward to confusing people by having different BS pseudo-scientific explanations for bending etc. with you.
 > 
+> I'm actually working on an A:TLA fanfic that I'm calling Avatar: The Last Rationalist in which Aang is the last of the highly rational and scientific airbender race.  I look forward to confusing people by having different BS pseudo-scientific explanations for bending etc. with you.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (16 minutes later)
 >> 
 >> That sounds cool, and I'm already wondering how the Fire Nation wiped them out if they were so smart and advanced. I'd love to see some chapters when you have them.
->> I'm going to have fake pseudo-scientific BS explanations for bending and a *real* pseudo-scientific BS explanation for bending, so *there*.
 >> 
+>> I'm going to have fake pseudo-scientific BS explanations for bending and a *real* pseudo-scientific BS explanation for bending, so *there*.
 
->>> **u/Paradoxius** [+5] *
+>>> **u/Paradoxius** [+5]  (an hour later)
 >>> 
 >>> They were advanced scientifically but not technologically (at least not militaristically, they had lots of medicine and scientific instruments).  Their airbending covered the need for a lot of other things like transportation technology, and their isolation on the mountaintops meant they didn't need defense, or so they thought.
->>> Although I think I'm going to have to patch my ideas about their society as I go along to explain things.  My biggest problem is that most of A:TLA was Aang learning things from experience and people wiser than him, so I have to explain why none of this was covered by his education.
 >>> 
+>>> Although I think I'm going to have to patch my ideas about their society as I go along to explain things.  My biggest problem is that most of A:TLA was Aang learning things from experience and people wiser than him, so I have to explain why none of this was covered by his education.
 
->>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow* (8 hours later)
 >>>> 
 >>>> Aang was mostly frozen for a hundred years, which means that it's quite possible society has advanced in the meantime. He was also ten years old, meaning that his education wasn't complete.
->>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (13 hours later)
 >>>> 
 >>>> What sort of things did he learn, really? Their was exposition about Sozin's comet, the Spirit World, and how the Avatar state worked from Roku. A bit of Deep Wisdom from Jeong-Jeong and Iroh. What else are you thinking of?
->>>> 
 
->>>>> **u/Paradoxius** [+2] *
+>>>>> **u/Paradoxius** [+2]  (15 hours later)
 >>>>> 
 >>>>> The main thing is that most episodes have a "lesson" because it was that era of children's TV.  I want to keep this up, but I don't want all of the lessons coming from Aang.  Now that I think about it, though, Aang does learn a lot of spiritual stuff in canon, so it's alright to make him learn rational stuff in this (and of course the philosophical overlap).  Also, as I posted elsewhere, I'm considering making the airbenders not rationalists themselves, but the scientifically advanced descendants of a scientifically active society.  In this case, Airbender students would learn science, but not how to do science.  What Aang does know about how to think rationally comes from Gyatso and is outside of the regular curriculum.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (19 hours later)
 >>>>>> 
 >>>>>> Well, I'd love to see some chapters when you have them.
->>>>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (13 hours later)
 >>>> 
 >>>> So does that mean they didn't have telescopes or the astronomical understanding to see Sozin's Comet coming? Or they did, but didn't understand its effect on firebenders, or they didn't think Sozin would launch a surprise attack?
->>>> 
 
->>>>> **u/Paradoxius** [+2] *
+>>>>> **u/Paradoxius** [+2]  (15 hours later)
 >>>>> 
 >>>>> I think I'm going to go with stagnation.  Once the airbenders got to a certain point of advancement, they slowed down and got very focused on the things they already knew.  Science became more of an individualistic pursuit, much like canon airbender religion, and only a few actually worked toward progress in understanding of the universe and the human condition, while most were content to live hedonistic lives traveling and baking etc.
->>>>> They thought they were untouchable.  They didn't really pay attention to the fact that the Fire Nation was in a golden age.  They didn't care (for the most part, although airbenders are very individualistic, so take that as you will) that the Fire Nation was invading the Earth Kingdom.  They didn't appropriately acknowledge that the comet gave the Firebenders great power.  And they didn't humor the possibility that they would storm the Air Temples en mass to begin a long and bloody campaign of genocide.
->>>>> Of course it didn't help that they expected to have an Avatar to protect them in a few years.
->>>>> Basically, you can have all the knowledge in the world, but without proper perspective, it's useless.
 >>>>> 
+>>>>> They thought they were untouchable.  They didn't really pay attention to the fact that the Fire Nation was in a golden age.  They didn't care (for the most part, although airbenders are very individualistic, so take that as you will) that the Fire Nation was invading the Earth Kingdom.  They didn't appropriately acknowledge that the comet gave the Firebenders great power.  And they didn't humor the possibility that they would storm the Air Temples en mass to begin a long and bloody campaign of genocide.
+>>>>> 
+>>>>> Of course it didn't help that they expected to have an Avatar to protect them in a few years.
+>>>>> 
+>>>>> Basically, you can have all the knowledge in the world, but without proper perspective, it's useless.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (7 hours later)
 >> 
 >> (You two should totally coordinate)
->> (That would be *amazing*)
 >> 
+>> (That would be *amazing*)
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (13 hours later)
 >>> 
 >>> Writing with a coauthor is basically twice the amount of work, but I'm happy to critique and offer suggestions for anyone who wants them. I'm much better at explaining why other people's writing worked or didn't work that write well myself. I have a future as a critic, or, god forbid, a teacher.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (14 hours later)
 >>>> 
 >>>> No, not "coauthor", just share with each other your general plans for the series. That way you can make sure that Korra isn't 100% contradictory with Aang. Is all.
->>>> 
 
-> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.* (8 hours later)
 > 
 > Could you possibly post your 200 page essay somewhere? I came to similar conclusions after watching the show, but didn't put forth the effort to write it all down.
+> 
 > Your idea is Awesome, though I think the core story of tLoK needs a major overhaul too. Anon was a far scarier villain than Lord Ozai (though maybe not Azula) because he was a threat -- not just to all benders, but to all *bending*. Worse, he had a compelling case. There really were major, unfair differences between benders and non-benders, and I was super frustrated all the last half of the show as they ignored these interesting plot threads. 
+> 
 > Then I got really upset when they revealed Anon's power to simply be a high-level chakra block via bloodbending. There were so, so many things wrong with this (I'm sure you got the same impression) and it may be better to change it completely. Personally I'd tear out that entire backstory with Anon's brother, father, Adult!Aang, etc., and let Anon be the scary, mysterious and dangerous villain he was at the start of the show. I'd make his power derive from the spirit world instead, as an emergence of a power activated by the horrific imbalances from a century ago (which makes sense -- they always say "keep the world in balance" but never have truly severe consequences for not doing so).
+> 
 > Don't worry to much about the writing itself. The motivation to produce quality content is more important than the quality of the content most of the time, and you certainly have the understanding to be a great storyteller.
+> 
 > P.S.
 > You would probably enjoy reading the Journal of Transformative Works: http://journal.transformativeworks.org/index.php/twc
-> 
 
->> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> **u/alexanderwales** [+7]  *Time flies like an arrow* (9 hours later)
 >> 
 >> I actually really liked that Amon derived his power from bloodbending. He's got a compelling case, he's scary dangerous, and he's a threat to the state of the world ... and behind the mask, he's a bender, a hypocrite, doing things for his own reasons and pulling the wool over the eyes of the people who follow him. As far as character flaws of villains go, he's really got a good one, and it makes him an interesting villain with more and more layers the further down you dig.
+>> 
 >> The two biggest problems for me were that:
+>> 
 >> 1. After Amon was defeated, the equalist movement basically just evaporated. He had *legitimate points*, and while it's definitely a crushing blow to morale for the equalists, nothing actually changed to address those points, and the discontent should still be there.
 >> 2. Everyone just got their bending back, which cheapened the loss of bending, one of the most dramatic points of the first season. It was like making this big deal over a character dying, and then seeing that character brought back to life in the final episode through some bullshit, just so that the story could have a happy ending.
->> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (10 hours later)
 >>> 
 >>> Well technically, if he was using bloodbending and chi-blocking to block people's bending abilities, then he was probably performing a reversible surgery.  But we'd need to know how the injury works to know if you can make it permanent.
->>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (13 hours later)
 >>> 
 >>> He wasn't scary. He had a scary mask. Scary music played when he was on screen. He had magic planning and execution powers to rival Heath Ledger's Joker (seriously, how did he get those banners into the pro bending arena?). Once you realize there's nothing backing him up beyond authorial fiat, he's not scary.
->>> 
 
->>>> **u/Paradoxius** [+4] *
+>>>> **u/Paradoxius** [+3]  (15 hours later)
 >>>> 
 >>>> He's not scary to us, but imagine there's a guy who could touch you on the forehead and make you somehow disabled.  For us, bending is a super power, but for people who have had it all their lives it's a vital part of themselves, and it's taken as a given that you'll always have it.  What's scary about Amon isn't Amon, but the fact that something you consider fundamental to your identity could be taken from you.
->>>> 
 
->>>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+3]  *Time flies like an arrow* (16 hours later)
 >>>> 
 >>>> The ability to remove bending is *terrifying*. Most of the people with a bending ability use it on a daily basis. It's part of their identity, and usually part of their livelihood. Pretty much every member of the police force is a metalbender - Amon, in addition to being an excellent fighter, can destroy a bender. He just goes up to you and presses a thumb against your forehead, and suddenly you've lost your job lightningbending at the power plants. And it's not just that you lose your job, it's that bending is part of your culture too, it's something that you've used in sports growing up and probably learned from your parents. If you're a firebender, you use your bending to heat your tea, you use it to keep you warm on cold nights, and suddenly that's gone, and the loss is just going to be this empty ache within you.
->>>> Maybe you don't read that from the series, but I believe that's what they were trying to express. If you need an analogy, it's like someone could just come up and change your race, gender, or sexual orientation without your consent and against your wishes.
 >>>> 
+>>>> Maybe you don't read that from the series, but I believe that's what they were trying to express. If you need an analogy, it's like someone could just come up and change your race, gender, or sexual orientation without your consent and against your wishes.
 
->>>>> **u/None** [+0] *
+>>>>> **u/None** [+0]  (19 hours later)
 >>>>> 
 >>>>> Sure, it would suck for benders. But for a non-bender like me who lives in a world that gets along fine without bending, it's a little hard to get too upset. The characters can't act like becoming like *me* is the worst thing in the world and expect a great deal of sympathy in return.
->>>>> Of course, it would have been nice if anyone had even bothered to *say* why losing their bending was so terrible. It's not so hard to figure out, but if the narrative never addresses it....
 >>>>> 
+>>>>> Of course, it would have been nice if anyone had even bothered to *say* why losing their bending was so terrible. It's not so hard to figure out, but if the narrative never addresses it....
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (13 hours later)
 >> 
 >> What was scary about everyone losing their bending? Korra was scared because to her being the Avatar and a bender is the core of her identity. But aside from that, it's hard to care. Amon was threatening to turn their world into *our* world. What's so bad about that?
->> I knew there wouldn't be a good explanation for Amon's power, and I didn't mind the bloodbending thing, since it's not like any of it makes any sense anyway. In my fic, things will be handled a bit differently. If I ever get there.
->> As for my essay, I stopped after the first 20 pages. It could use some pruning. I do think that looking at what made TLA work and why LoK sucked is really instructive, so maybe I'll find somewhere to post a series of articles on the subject and link to it on /r/writing.
 >> 
+>> I knew there wouldn't be a good explanation for Amon's power, and I didn't mind the bloodbending thing, since it's not like any of it makes any sense anyway. In my fic, things will be handled a bit differently. If I ever get there.
+>> 
+>> As for my essay, I stopped after the first 20 pages. It could use some pruning. I do think that looking at what made TLA work and why LoK sucked is really instructive, so maybe I'll find somewhere to post a series of articles on the subject and link to it on /r/writing.
 
->>> **u/Timewinders** [+5] *
+>>> **u/Timewinders** [+4]  (14 hours later)
 >>> 
 >>> It's clear if you pay attention to the show that the benders connect to their spirituality by bending. That's why they have such a visceral reaction to Amon's threat. It would be like convincing a Christian that you can and will remove their connection to God. You're supposed to care because you empathize with the characters, even if you don't necessarily care about bending. Maybe the story didn't do a good enough job of making you care about the characters, but that's a different issue. I hope you keep Amon's backstory as a bloodbender. It made him a more interesting character.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (14 days later)
 >> 
 >> Here's an outline the argument if you want.
->> https://docs.google.com/document/d/1wrxIV999dfgBvfLj2O7LXAgiNHTA6_dbGxBz9UWJnto/edit?pli=1
 >> 
+>> https://docs.google.com/document/d/1wrxIV999dfgBvfLj2O7LXAgiNHTA6_dbGxBz9UWJnto/edit?pli=1
 
-> **u/mcgruntman** [+2] *
+> **u/mcgruntman** [+2]  (5 hours later)
 > 
 > I must admit I'm shocked: I loved LoK! That said, the things I loved were the things you mentioned as its good points, and I guess I'm just less critical about the rest. I really look forward o your treatment of this. If I come up with any useful criticism I'll send it your way.
-> 
 
->> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> **u/DaystarEld** [+2]  *Pokémon Professor* (16 hours later)
 >> 
 >> I was able to enjoy LoK despite its flaws until the last two episodes, where the bullshit just started piling up way too fast for me to ignore it, and one of the best parts (the villain) became a cliche.
->> 
 
-> **u/lehyde** [+2]  *Nudist Beach**
+> **u/lehyde** [+2]  *Nudist Beach* (12 hours later)
 > 
 > I want support your efforts with this fic. And maybe you already considered this idea but what if you made another character protagonist? I could see it working for Amon (maybe in the-last-ringbearer-style) or maybe Asami (who would have to fight benders without bending). Korra would then be more like a puppet who happens to be the Avatar.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (13 hours later)
 >> 
 >> Asami could work. I have different plans for Amon. But I like Korra, somehow. On the other hand, I do have total freedom with Asami, since the writers clearly didn't give a shit about her.
->> 
 
->>> **u/Paradoxius** [+2] *
+>>> **u/Paradoxius** [+2]  (16 hours later)
 >>> 
 >>> As for Asami, if you want Korra to learn science over time, you could have here be naturally intelligent and inquisitive, but live under stifling bureaucracy  that doesn't want her to waste time learning academic things when she should be learning traditional Avatar skills.  Then she goes to Republic City and one day she's crossing the street (without looking both ways) and boom!  She gets hit by a moped carrying 130 pounds of rich science major with an evil scientist father.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (19 hours later)
 >>>> 
 >>>> That's a pretty good idea, actually. Better than what I was thinking. Stolen, and I ain't giving it back neither.
->>>> 
 
->>>>> **u/Paradoxius** [+1] *
+>>>>> **u/Paradoxius** [+1]  (19 hours later)
 >>>>> 
 >>>>> Cool.  Good luck!
->>>>> 
 
-> **u/Timewinders** [+1] *
+> **u/Timewinders** [+1]  (14 hours later)
 > 
 > I suggest you watch season 2. It's much better about paying off on the themes and developing the characters, though the villain is less interesting and there's still a Deus Ex Machina ending.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (14 hours later)
 >> 
 >> Really? I thought season 2 was even worse. What themes? What characters?
->> 
 
->>> **u/Timewinders** [+2] *
+>>> **u/Timewinders** [+2]  (14 hours later)
 >>> 
 >>> Well, there were the themes of the characters having to learn to handle their problems their own way, taking advantage of their own strengths and thinking for themselves, such as how Korra decided to undo Wan's decision and how Tenzin learned to stop comparing himself to his father. Korra also became less attached to her identity as the avatar and decided to save the world for her own reasons as a human being, though that did lead to the Deus Ex Machina. There was also the theme of the spirituality of the world in modern times, which was addressed by Korra's development over the series of thinking a bit more before taking action and how Korra considered whether Unalaq had a point and decided to keep the spirit portal open. I'm expecting this theme to get developed even more in the next season as people start to have more regular interactions with spirits. Mako had a bit more character development than in the first season such as how Mako's loyalty to Republic City came before his loyalty to Korra and his job as a police officer led to him looking into Varrick's involvement in the bombing on his own, whereas in the first season he was mostly just saving the city to help Korra. Korra had some development of course (though I'm not really a fan of the way it was handled in the spirit world) and Tenzin had some pretty good character development, in my opinion. It had its issues, of course, but it was still much better than the first season.
->>> 
 
 ---
 

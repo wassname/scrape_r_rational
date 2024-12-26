@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (18 minutes later)
 > 
 > Please post the title of the work this is a chapter of.
-> (and for PGTE in particular please use the PGTE tag at least)
 > 
+> (and for PGTE in particular please use the PGTE tag at least)
 
 ---
 

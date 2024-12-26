@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 25
+* Score: 26
 
 * Created: 2017-12-03T22:37:01
 
@@ -12,88 +12,81 @@
 
 ### Comments:
 
-> **u/Trips-Over-Tail** [+47]  *Death of Crabs**
+> **u/Trips-Over-Tail** [+46]  *Death of Crabs* (29 minutes later)
 > 
 > It's only a comedy insofar as it is funny, but that is a consequence of taking the premise seriously and playing it straight. Milo is a rational actor insofar as he is acting on is own knowledge, understanding of how the world works in his experience, and the application of his own abilities to facilitate his goals (which is to amass gear and XP to become as broken a wizard PC as possible). 
-> He does update his expectations and behaviour as he learns more about the world he is in, but will always operate on the terms of being an RPG character. And player characters, especially minmaxing munchkins like Milo, rarely consider the words or even existence of an NPC beyond their ability to dispense quests, quest information, quest items, and quest rewards. That makes sense in his world, as will become clear, and learning that things work differently in his new location requires a significant paradigm shift, so don't expect Milo to exhibit fast or fantastic progress on that front, but do expect progress.
-> Remember: he is not a human because of his biology and genetics, he is a Human because that's what it says on his character sheet.
-> What you will see is a character solving problems and plot points in Harry Potter utilising the 3.5 Ed DnD rules, which he physically operates on every moment, and all the unique advantages and disadvantages that entails. The consequences also play out rationally, which by the third book this has resulted in some significant departures from the regular Harry Potter story line, including an excellent sideplot involving badass-normals who, like Milo, must also learn about and deal with Potterian magic, only with 1980s muggle tools instead of die rolls and prepared spells.
 > 
+> He does update his expectations and behaviour as he learns more about the world he is in, but will always operate on the terms of being an RPG character. And player characters, especially minmaxing munchkins like Milo, rarely consider the words or even existence of an NPC beyond their ability to dispense quests, quest information, quest items, and quest rewards. That makes sense in his world, as will become clear, and learning that things work differently in his new location requires a significant paradigm shift, so don't expect Milo to exhibit fast or fantastic progress on that front, but do expect progress.
+> 
+> Remember: he is not a human because of his biology and genetics, he is a Human because that's what it says on his character sheet.
+> 
+> What you will see is a character solving problems and plot points in Harry Potter utilising the 3.5 Ed DnD rules, which he physically operates on every moment, and all the unique advantages and disadvantages that entails. The consequences also play out rationally, which by the third book this has resulted in some significant departures from the regular Harry Potter story line, including an excellent sideplot involving badass-normals who, like Milo, must also learn about and deal with Potterian magic, only with 1980s muggle tools instead of die rolls and prepared spells.
 
->> **u/torac** [+21] *
+>> **u/torac** [+19]  (10 hours later)
 >> 
 >> Adding to this:
->> Please keep in mind that Milo is transported into the Harry Potter book series. It is a transition from gaming tropes to literary tropes, not from gaming tropes to realism. The closest to realism we get is the aforementioned badass-normals, who in turn soon have to adjust to the wizarding mentality.
 >> 
+>> Please keep in mind that Milo is transported into the Harry Potter book series. It is a transition from gaming tropes to literary tropes, not from gaming tropes to realism. The closest to realism we get is the aforementioned badass-normals, who in turn soon have to adjust to the wizarding mentality.
 
->>> **u/eaglejarl** [+9] *
+>>> **u/eaglejarl** [+9]  (3 days later)
 >>> 
 >>> > And player characters, especially minmaxing munchkins like Milo, rarely consider the words or even existence of an NPC beyond their ability to dispense quests, quest information, quest items, and quest rewards. 
->>> This changes a lot over the course of the book. Milo makes real friends, cares very much about their opinions, and grows away from the "just a PC munchkin" mask.
 >>> 
+>>> This changes a lot over the course of the book. Milo makes real friends, cares very much about their opinions, and grows away from the "just a PC munchkin" mask.
 
->> **u/nick012000** [+8] *
+>> **u/nick012000** [+7]  (9 hours later)
 >> 
 >> >only with 1980s muggle tools instead of die rolls and prepared spells.
->> Harry Potter's set in the 90s, though. The first book was set in 1991, with each subsequent one set one year after that.
 >> 
+>> Harry Potter's set in the 90s, though. The first book was set in 1991, with each subsequent one set one year after that.
 
->>> **u/Trips-Over-Tail** [+20]  *Death of Crabs**
+>>> **u/Trips-Over-Tail** [+21]  *Death of Crabs* (15 hours later)
 >>> 
 >>> I know, but they're underfunded.
->>> 
 
->> **u/MoralRelativity** [+6] *
+>> **u/MoralRelativity** [+6]  (5 hours later)
 >> 
 >> Well said.
->> 
 
-> **u/DCarrier** [+12] *
+> **u/DCarrier** [+10]  (4 hours later)
 > 
 > It's not really a rationalist fic. Milo is rational, but his rationality is based on the world he lives in. His genre savviness applies surprisingly well to the world of Harry Potter, but it wouldn't work in real life. In his world, understanding what the DM is hinting at is the key to getting things done. And munchkinning helps a lot, so long as you don't go too overboard with it.
-> 
 
-> **u/AmeteurOpinions** [+15]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+15]  *Finally, everyone was working together.* (9 minutes later)
 > 
 > It's absolutely a comedy and parody first, entertaining and clever story second. Worth the read, but do not expect MoL or you won't get much out of it.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (11 minutes later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Sailor_Vulcan** [+9]  *Champion of Justice and Reason**
+>>> **u/Sailor_Vulcan** [+9]  *Champion of Justice and Reason* (an hour later)
 >>> 
 >>> It's kind of a comedy but not a parody. It just has a really weird premise. And it does get rather serious at times too.
->>> 
 
-> **u/sparr** [+8] *
+> **u/sparr** [+7]  (22 hours later)
 > 
 > > MC's ... rashness (relative?)
-> I think you might be setting your HP fanfic bar based on HPMOR rather than based on HP. Original HP was very rash.
 > 
+> I think you might be setting your HP fanfic bar based on HPMOR rather than based on HP. Original HP was very rash.
 
-> **u/elevul** [+4]  *Cyoria Observer**
+> **u/elevul** [+4]  *Cyoria Observer* (an hour later)
 > 
 > Oh, if started again? I thought it was abandoned
-> 
 
->> **u/GriffinJ** [+8] *
+>> **u/GriffinJ** [+8]  (3 hours later)
 >> 
 >> Yeah new chapter just went up today.
->> 
 
->>> **u/plushiemancer** [+1] *
+>>> **u/plushiemancer** [+1]  (7 days later)
 >>> 
 >>> :O
->>> 
 
-> **u/TheAzureMage** [+5] *
+> **u/TheAzureMage** [+4]  (4 days later)
 > 
 > It gradually gets better, and yeah, those are legitimate character flaws that end up biting Milo in the butt repeatedly. This can be amusing, but I'd agree that it does require a certain familiarity with the 3.5 ruleset and common D&D playstyles to actually be entertaining. 
-> It's not unlike OotS. Starts out more jokey, develops plot, quality upgrades throughout, and rather D&D themed.
 > 
+> It's not unlike OotS. Starts out more jokey, develops plot, quality upgrades throughout, and rather D&D themed.
 
 ---
 

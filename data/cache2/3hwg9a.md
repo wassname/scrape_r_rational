@@ -2,7 +2,7 @@
 
 * Author: u/Sagebrysh  *Rank 7 Pragmatist**
 * URL: http://talesfromaeria.tumblr.com/post/127264635417/wanderlust
-* Score: 4
+* Score: 5
 
 * Created: 2015-08-21T21:54:02
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (19 minutes later)
 > 
 > Little project I've had on the backburner for a while. Today I pulled it out and made it into something presentable. This is a totally distinct world from Aeria, on a future generation ship in deep space.
-> 
 
 ---
 

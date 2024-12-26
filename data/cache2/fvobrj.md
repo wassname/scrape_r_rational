@@ -20,56 +20,57 @@ You'll need an account on AO3 though.
 
 ### Comments:
 
-> **u/earnestadmission** [+18]  *Singular "they" user**
+> **u/earnestadmission** [+18]  *Singular "they" user* (9 hours later)
 > 
 > I just read this (the entire thing in 3 days) and I liked it a lot. The villains all seem to be responding in basically rational ways (conditional on a refusal to consider universal suffrage for serfs and/or personhood for dragons). However,  technology upgrades are not the focus of the plot. Instead, the author is describing the process of escaping from a bad social equilibrium. By domesticating dragons, Hiccup has created a new strategic game. This is mirrored in the various personal relationships, which thrive when the characters adopt permissive multicultural views and struggle when characters condemn others or reject compromise.
-> There are a few repetitious character beats: Hiccup needs to be talked into using his genius to craft weapons (or talked down afterwards). There are also a few relationship misunderstandings that could’ve been avoided with straightforward communication. 
-> On the other hand, there are some very engaging dilemmas.  The main cast is not always right, and at least one plot point hinges on the ability of another character to make long term plans better than the MCs. (Actually, perhaps *many* plot points rely on this.)
-> The story is rational in that it has characters acting intelligently in their own interests. However, there is not the kind of meta-narrative about the character’s own intelligence that often gets praised in the rational fics I’m familiar with. The story isn’t really about the *discovering* of new technology. Instead I’d say the story is about how those new innovations change the incentives of existing players in a well-established dynamic equilibrium. 
-> It’s also worth saying that the good guys have a huge first-mover advantage; the antagonists are on the back foot for many hundreds of thousands of words. I found the existing work very engaging regardless, and the length has the benefit of illustrating the stakes when the situation escalates to existential threats. (And the number of existential threats is still growing!) 
-> The format of opening each chapter with a blurb from historical sources set hundreds of years in the future is one of my favorite conceits. 
-
-> TLDR: Long, well written work that has well identified character incentives but does not focus on technology upgrades or “schemes” by the MC like some other rational fics.
 > 
+> There are a few repetitious character beats: Hiccup needs to be talked into using his genius to craft weapons (or talked down afterwards). There are also a few relationship misunderstandings that could’ve been avoided with straightforward communication. 
+> 
+> On the other hand, there are some very engaging dilemmas.  The main cast is not always right, and at least one plot point hinges on the ability of another character to make long term plans better than the MCs. (Actually, perhaps *many* plot points rely on this.)
+> 
+> The story is rational in that it has characters acting intelligently in their own interests. However, there is not the kind of meta-narrative about the character’s own intelligence that often gets praised in the rational fics I’m familiar with. The story isn’t really about the *discovering* of new technology. Instead I’d say the story is about how those new innovations change the incentives of existing players in a well-established dynamic equilibrium. 
+> 
+> It’s also worth saying that the good guys have a huge first-mover advantage; the antagonists are on the back foot for many hundreds of thousands of words. I found the existing work very engaging regardless, and the length has the benefit of illustrating the stakes when the situation escalates to existential threats. (And the number of existential threats is still growing!) 
+> 
+> The format of opening each chapter with a blurb from historical sources set hundreds of years in the future is one of my favorite conceits. 
+> 
+> TLDR: Long, well written work that has well identified character incentives but does not focus on technology upgrades or “schemes” by the MC like some other rational fics.
 
-> **u/PublicMoralityPolice** [+7] *
+> **u/PublicMoralityPolice** [+8]  (8 hours later)
 > 
 > It's competence porn, but didn't strike me as particularly rational. Also a bunch of weird sex and ethnic stuff the author admits is a blatant self-insert and doesn't fit the original universe at all.
-> 
 
->> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (5 days later)
 >> 
 >> Weird sex and ethnic stuff?
->> 
 
->>> **u/PublicMoralityPolice** [+4] *
+>>> **u/PublicMoralityPolice** [+4]  (5 days later)
 >>> 
 >>> Poly and j\*wish, respectively.
->>> 
 
->>>> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>>>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (6 days later)
 >>>> 
 >>>> What’s with the asterisk? I’ve not seen that before.
->>>> 
 
-> **u/MilesSand** [+1] *
+> **u/MilesSand** [+1]  (4 days later)
 > 
 > Just link it already  geez.
-> :)
 > 
+> :)
 
->> **u/partner555** [+1] *
+>> **u/partner555** [+1]  (4 days later)
 >> 
 >> Here you go:  [https://archiveofourown.org/works/10408971/chapters/22985466](https://archiveofourown.org/works/10408971/chapters/22985466) 
->> You'll need an account on AO3 though.
 >> 
+>> You'll need an account on AO3 though.
 
-> **u/ironistkraken** [+1] *
+> **u/ironistkraken** [+1]  (4 days later)
 > 
 > I started reading when I saw this post and am up to chapter 32.
-> I think while somewhat rational, its major point is taking something not really in the real world and having the real world react to it and it to them.
-> I do have to give warning there are some furstarting realtionship beats that I think could of been easily solved/avoding the whole realtionship drama.
 > 
+> I think while somewhat rational, its major point is taking something not really in the real world and having the real world react to it and it to them.
+> 
+> I do have to give warning there are some furstarting realtionship beats that I think could of been easily solved/avoding the whole realtionship drama.
 
 ---
 

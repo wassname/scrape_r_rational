@@ -2,7 +2,7 @@
 
 * Author: u/totorox92  *Because I want to Know**
 * URL: https://www.reddit.com/r/rational/comments/6roycn/life_2017/
-* Score: 38
+* Score: 39
 
 * Created: 2017-08-05T01:23:40
 
@@ -40,28 +40,27 @@ I'm not even going to touch how only *one* person on the station was actually wi
 
 ### Comments:
 
-> **u/XellosPY** [+25] *
+> **u/XellosPY** [+24]  (an hour later)
 > 
 > If Life annoyed you then don't watch Alien:Covenant; it'll give you an aneurysm. It's probably the worst case of characters being stupid for plot purposes I've seen.
-> 
 
->> **u/totorox92** [+15]  *Because I want to Know**
+>> **u/totorox92** [+14]  *Because I want to Know* (2 hours later)
 >> 
 >> I wouldn't mind it so much in an Alien movie; I'm not expecting that to be anything clever. But Life looked like it was trying to be something sort of thought provoking an intellectual (I mean just look at that pretentious title), and so finding it to be... not that, made me pretty pissed... I actually had that movie on my list, thanks for reminding me.
->> 
 
->>> **u/XellosPY** [+8] *
+>>> **u/XellosPY** [+7]  (2 hours later)
 >>> 
 >>> Yeah, I know what you mean. I had huge expectations for Life and it starts rather well, but as soon as Ryan Reynolds goes into the lab to try and save the idiot scientist the movie goes into a downward spiral. The characters are completely irrational and unprofessional and the ISS seems to be designed to make quarantine as difficult as possible. Also I hated that the alien gets a face after it evolves enough, making it so different form what the usual monster designs was one of the only creepy things in the movie.
->>> Make sure to come back with your opinion about Alien! I think it'll surprise you with just *how* dumb it gets.
 >>> 
+>>> Make sure to come back with your opinion about Alien! I think it'll surprise you with just *how* dumb it gets.
 
->>>> **u/totorox92** [+10]  *Because I want to Know**
+>>>> **u/totorox92** [+9]  *Because I want to Know* (5 hours later)
 >>>> 
 >>>> Okay, I get what you mean. There's like, three scenes where someone goes: "Do the thing!" "We can't do the thing, we will literally die!" "Do the thing anyway!"
->>>> And on top of that, the stand in captain is a weenie who apologizes for things he shouldn't. Checking out the planet is a no-risk scenario up front, a week out of the way on a 7 year trip. Then, the girl who was hanging out on the lander starts freaking out for, at the time, no apparent reason, and blows up the lander by firing wildly in every direction, and why do they even have guns on a colony ship in the first place? And again, their final plan is pointlessly convoluted, they can lock the thing into any compartment with their sensibly blastdoored ship, and instead they lure it into a complicated trap?
->>>> It didn't seem to trip too many switches though; most of the problems could be chalked up to being an action/horror movie where we expect them to be kind of dumb. It could have been Cabin in the Woods, but I dunno if I'd call it unusually egregious for its genre.
 >>>> 
+>>>> And on top of that, the stand in captain is a weenie who apologizes for things he shouldn't. Checking out the planet is a no-risk scenario up front, a week out of the way on a 7 year trip. Then, the girl who was hanging out on the lander starts freaking out for, at the time, no apparent reason, and blows up the lander by firing wildly in every direction, and why do they even have guns on a colony ship in the first place? And again, their final plan is pointlessly convoluted, they can lock the thing into any compartment with their sensibly blastdoored ship, and instead they lure it into a complicated trap?
+>>>> 
+>>>> It didn't seem to trip too many switches though; most of the problems could be chalked up to being an action/horror movie where we expect them to be kind of dumb. It could have been Cabin in the Woods, but I dunno if I'd call it unusually egregious for its genre.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Don_Alverzo *
 * URL: https://pithserial.com/2021/04/12/14-f-the-wingtrooper/
-* Score: 37
+* Score: 36
 
 * Created: 2021-04-27T03:04:25
 
@@ -12,81 +12,82 @@
 
 ### Comments:
 
-> **u/Don_Alverzo** [+14] *
+> **u/Don_Alverzo** [+13]  (18 minutes later)
 > 
 > I appreciate getting an inside view of the Spirit Block. We've heard a lot about it from the Principians, all about how it was a masterstroke that won them the war, so I like seeing a Shenti man who had his heart ripped out by it. Not that it sounds like Han Yong was a very good person even before the Spirit Block, but still. It's the principle of the thing.
+> 
 > More creepy First Scholar weirdness is always welcome too. One of the things that I find really compelling about the world of Pith is that it combines the grounded feeling of its realistic political dynamics and rigidly constructed magic system with weird, unexplainable shit like "Oh, yeah, that mountain is totally cursed, you can tell by the red fog and the fact that nobody's ever come back alive." I love how everyone just accepts this stuff and moves on, because what else can you do? And when people *don't* just accept it, when they decide to climb the cursed mountain, I love that too, because it brings into focus the vast, strange inhumanity of this stuff in a way that verges on cosmic horror.
+> 
 > And on that note, I noticed something that, well, I'm not sure if I'm reading too far into this, but...
 > > And all the plants had Piths.
+> 
 > > ...
+> 
 > > Tian looked at him.  “*They’re all headless.*”
+> 
 > > Han felt around.  *She’s right.*  Among all the ancient skeletons nearby, none of them had a skull.  There weren’t even decapitated craniums, or bits of jaw scattered around the area.
 > > 
 > > It was like their heads had all vanished.  Not a typical way for people to die in battle.
-> I really hope those two things are completely unrelated, because if they're not then that's absolutely horrifying.
 > 
+> I really hope those two things are completely unrelated, because if they're not then that's absolutely horrifying.
 
-> **u/None** [+9] *
+> **u/None** [+9]  (5 hours later)
 > 
 > It’s a crime thisnstory doesn’t get more attention
-> 
 
->> **u/PrettyDecentSort** [+6] *
+>> **u/PrettyDecentSort** [+7]  (11 hours later)
 >> 
 >> It's not really paced for a web serial. I loved the hell out of it when I binged it on first discovery, but it's not easy to keep motivated for new chapters. I think this will do better once it's complete.
->> 
 
->>> **u/None** [+8] *
+>>> **u/None** [+7]  (18 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/ThatEeveeGuy** [+4] *
+>>>> **u/ThatEeveeGuy** [+4]  (20 hours later)
 >>>> 
 >>>> Thank you for explaining why I dropped Pale despite enjoying it as much as (if not more than) Pact.
->>>> 
 
-> **u/ThatEeveeGuy** [+9] *
+> **u/ThatEeveeGuy** [+8]  (20 hours later)
 > 
 > I can't help but feel like the fact there's a height limit on the world as well as a depth limit might be starting to come into play now.
-> Also the whole oracle snake thing...well, it was always suspicious, and I have no idea what EXACTLY to make of it now, but having one show up here is probably bad.
 > 
+> Also the whole oracle snake thing...well, it was always suspicious, and I have no idea what EXACTLY to make of it now, but having one show up here is probably bad.
 
-> **u/mightykushthe1st** [+3] *
+> **u/mightykushthe1st** [+5]  (14 hours later)
 > 
 > This story is as good as Worm with respect to worldbuilding and character development. Better even, because its not as grimdark and hopeless. I never understood why people like grimdark stories, unless they enjoy torturing themselves.
-> 
 
->> **u/Important-Plane-3147** [+6] *
+>> **u/Important-Plane-3147** [+5]  (a day later)
 >> 
 >> People don't like grimdark necessarily. They appreciate a realistic take on existence, where everyone is doomed to die, no matter what.
->> And then the author gives us characters like Chevalier, and we feel good regardless of our fate.
->> It's basically like The Road. Existential purposeless, but with a dash of fleeting grace.
 >> 
+>> And then the author gives us characters like Chevalier, and we feel good regardless of our fate.
+>> 
+>> It's basically like The Road. Existential purposeless, but with a dash of fleeting grace.
 
->>> **u/mightykushthe1st** [+3] *
+>>> **u/mightykushthe1st** [+3]  (a day later)
 >>> 
 >>> > People don't like grimdark necessarily. They appreciate a realistic take on existence, where everyone is doomed to die, no matter what.
->>> But isn't that just real life? Why do people go out of their way to read something that is representative of the worst parts of real life? Idk about anyone else, but I read web serials and fantasy genre to escape from the monotony of depression of the real world, not have it rubbed in my face. It just doesn't make sense to me.
 >>> 
+>>> But isn't that just real life? Why do people go out of their way to read something that is representative of the worst parts of real life? Idk about anyone else, but I read web serials and fantasy genre to escape from the monotony of depression of the real world, not have it rubbed in my face. It just doesn't make sense to me.
 
->>>> **u/Raszhivyk** [+3]  *The Culture**
+>>>> **u/Raszhivyk** [+3]  *The Culture* (a day later)
 >>>> 
 >>>> I've never understood it either. Just read some non-fiction accounts of real life, or dramatized real life stories if you want grimdark. The only thing reading things like The Road has given me after the fact is rage and listlessness.
->>>> 
 
-> **u/v---** [+2] *
+> **u/v---** [+2]  (10 days later)
 > 
 > I just started reading this last week and I've binged all the way to the end and went looking for discussion. Holy shit. I haven't had a reading experience like this since *Worm* (and, later, *Unsong*). *Pith* actually feels polished, too - I could imagine this in print with just some editing. Time to badger everyone I know into reading.
-> The only upsetting thing is that I didn't realize what the update schedule looked like while I was reading... going back and seeing one every two weeks/once a week makes me so sad. I know, I know, people have lives and jobs and can't just write nonstop for me to consume their story, but *god damn* I need more.
-> I think this might be one of those things like Kill 6 Billion Demons where I should forget about it for a while and come back when it's done, or I might just go crazy. Speaking of which, been about a month since I checked over there...
 > 
+> The only upsetting thing is that I didn't realize what the update schedule looked like while I was reading... going back and seeing one every two weeks/once a week makes me so sad. I know, I know, people have lives and jobs and can't just write nonstop for me to consume their story, but *god damn* I need more.
+> 
+> I think this might be one of those things like Kill 6 Billion Demons where I should forget about it for a while and come back when it's done, or I might just go crazy. Speaking of which, been about a month since I checked over there...
 
-> **u/RiD_JuaN** [+1]  *Imperium of Man**
+> **u/RiD_JuaN** [+1]  *Imperium of Man* (15 days later)
 > 
 > really late but I've been catching up and this chapter was worth commenting on, even if its just for me.
-> the peak is so fucking bizarre. everything to do with the great scholars is so fucking bizarre, and I love it. I hope Han didn't release some monstrosity here, either with him breathing out the gas, or him getting infected by the gas, or whatever the hell was in those balls... speaking of the balls, how did the tortoise know that these will be important?
 > 
+> the peak is so fucking bizarre. everything to do with the great scholars is so fucking bizarre, and I love it. I hope Han didn't release some monstrosity here, either with him breathing out the gas, or him getting infected by the gas, or whatever the hell was in those balls... speaking of the balls, how did the tortoise know that these will be important?
 
 ---
 

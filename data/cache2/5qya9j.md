@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1587#post-7781258
-* Score: 14
+* Score: 13
 
 * Created: 2017-01-30T03:18:59
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (11 hours later)
 > 
 > EJ: Begun, the foom has. 
-> Players: Frickin' FINALLY!
 > 
+> Players: Frickin' FINALLY!
 
 ---
 

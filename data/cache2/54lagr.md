@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/traverseda** [+4]  *With dread but cautious optimism**
+> **u/traverseda** [+4]  *With dread but cautious optimism* (an hour later)
 > 
 > I definitely enjoyed Eden Greed, so I'd love an advance copy.
-> You can PM here or send an email to traverse.da@gmail.com
 > 
+> You can PM here or send an email to traverse.da@gmail.com
 
-> **u/Afforess** [+1]  *Hermione Did Nothing Wrong**
+> **u/Afforess** [+1]  *Hermione Did Nothing Wrong* (4 days later)
 > 
 > I just purchased Eden Green and am really enjoying it. I'd be happy to review an advance copy, afforess@gmail.com
-> 
 
 ---
 

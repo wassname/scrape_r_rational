@@ -2,7 +2,7 @@
 
 * Author: u/somnicule *
 * URL: https://www.reddit.com/r/rational/comments/2zodiq/bst_magic_system_idea_trainable_tools/
-* Score: 27
+* Score: 28
 
 * Created: 2015-03-20T07:05:18
 
@@ -26,95 +26,94 @@ Pretty sure I've missed stuff here, and left some exploits open, but it does see
 
 ### Comments:
 
-> **u/RandomDamage** [+10] *
+> **u/RandomDamage** [+9]  (6 hours later)
 > 
 > It took me longer to find this than it should have:
-> http://en.wikipedia.org/wiki/The_Practice_Effect
 > 
+> http://en.wikipedia.org/wiki/The_Practice_Effect
 
-> **u/MugaSofer** [+3] *
+> **u/MugaSofer** [+3]  (6 hours later)
 > 
 > Ooh, cool.
-> Hmm ... how well can objects see? Is everyone's clothes and walls "trained" to do nothing so they're immune to telekenesis?
-> Might be worth killing or kidnapping your trainer after they finish training the doomsday device, if you're evil ...
-> Hey, speaking of which, what are the limits of this telekinesis? Is it stronger than you are? How much precision do you have; can it cut through things like a molecule-thin blade, for example? Can it reach through solid objects, or down narrow holes?
 > 
+> Hmm ... how well can objects see? Is everyone's clothes and walls "trained" to do nothing so they're immune to telekenesis?
+> 
+> Might be worth killing or kidnapping your trainer after they finish training the doomsday device, if you're evil ...
+> 
+> Hey, speaking of which, what are the limits of this telekinesis? Is it stronger than you are? How much precision do you have; can it cut through things like a molecule-thin blade, for example? Can it reach through solid objects, or down narrow holes?
 
->> **u/somnicule** [+2] *
+>> **u/somnicule** [+2]  (7 hours later)
 >> 
 >> Yeah, I definitely need to work on the input side of the system. Lazily, I could go for microscopic detail on everything inside a magic circle or something, but I don't like that option particularly. Visual display slightly less than human acuity in the line-of-sight of the trained objects?
->> I'd say that it's a general practice to train clothing and walls with nothing. Trained objects can still interact with each other normally, though, so it's not a perfect defence. 
->> Still haven't decided what happens to trained objects at a trainer's death. One option would just be exponential decay in the force available over weeks or months, immediately ceasing to function, continuing to work but able to be untrained by anyone, or just continuing to work indefinitely. I like the "continuing to work but anyone can disable it" option most so far.
->> As for the limits of telekinesis, I was imagining something like more or less direct control of any contiguous object. Not quite sure how to describe what I mean, but it's like proprioception extends to include the object under control. In training, it can't exert a force higher than a Newton or so, and maximum speed of 2m/s, but a trained object can exceed that by about three orders of magnitude. Need to brush up on mechanics to make sure that makes sense, but that's roughly what I have in mind.
 >> 
+>> I'd say that it's a general practice to train clothing and walls with nothing. Trained objects can still interact with each other normally, though, so it's not a perfect defence. 
+>> 
+>> Still haven't decided what happens to trained objects at a trainer's death. One option would just be exponential decay in the force available over weeks or months, immediately ceasing to function, continuing to work but able to be untrained by anyone, or just continuing to work indefinitely. I like the "continuing to work but anyone can disable it" option most so far.
+>> 
+>> As for the limits of telekinesis, I was imagining something like more or less direct control of any contiguous object. Not quite sure how to describe what I mean, but it's like proprioception extends to include the object under control. In training, it can't exert a force higher than a Newton or so, and maximum speed of 2m/s, but a trained object can exceed that by about three orders of magnitude. Need to brush up on mechanics to make sure that makes sense, but that's roughly what I have in mind.
 
->>> **u/mns2** [+3] *
+>>> **u/mns2** [+3]  (16 hours later)
 >>> 
 >>> Make perpetual motion machines easily. They scale, too. Flight and all forms of travel are a piece of cake now. Just make a bunch of bricks that push in the direction of a controller device at 1k newtons. People make personal at first and then standardized mechanical remotes that activate certain objects based on patterns in the remote. Keys that activate objects passively based on their characteristics. Assembly line rituals for enchanting hundreds of important tools with the same training data. Any number of amazing sensors based on macroscale or abstract things. (Perfect cancer tests) Science about magic working faster than light or not.
->>> However, much of this magic system is still not very well defined. How exactly do you train objects? Is magic a perfect binary solomonoff inductor? What would that even mean? How do enhanced force and different patterns of programmed action factor into that? How exactly does the telekinetic control work? What does it feel like? Can you use magic on fluids? What about silly putty? How fine-grained is it? Can you imprint paper with images in your mind using ink? Can you make movies just by imagining them? If you can feel where the liquids are, can you submerge an object and know its shape? Can you make "solid" books that you can read with this new sense? Would reading brail become faster than reading text? Can you automatically train objects? Can you automatically cast new magic? Can animals do magic? Bacteria? Can you make circuits with magic? Complex ones? How do you make an adder? Can you abstract and combine two complex mathematical functions? How long would it take to train that, and how would you do it?
 >>> 
+>>> However, much of this magic system is still not very well defined. How exactly do you train objects? Is magic a perfect binary solomonoff inductor? What would that even mean? How do enhanced force and different patterns of programmed action factor into that? How exactly does the telekinetic control work? What does it feel like? Can you use magic on fluids? What about silly putty? How fine-grained is it? Can you imprint paper with images in your mind using ink? Can you make movies just by imagining them? If you can feel where the liquids are, can you submerge an object and know its shape? Can you make "solid" books that you can read with this new sense? Would reading brail become faster than reading text? Can you automatically train objects? Can you automatically cast new magic? Can animals do magic? Bacteria? Can you make circuits with magic? Complex ones? How do you make an adder? Can you abstract and combine two complex mathematical functions? How long would it take to train that, and how would you do it?
 
->>>> **u/CopperZirconium** [+2] *
+>>>> **u/CopperZirconium** [+2]  (2 days later)
 >>>> 
 >>>> > Can you make circuits with magic?
->>>> This one sounds like it could have great potential. You could probably make a computer functionally similar to ENIAC with relative ease. I would imagine that training simple conditions would be easier and faster than training complex ones. That would mean a transistor or a logic gate would be the easiest things to make. Lets say that you can only work with an object that is large enough to see, so a grain of sand is about as small as we can make our transistors without using a microscope (if that would even work for miniaturization.) A grain of sand is still a huge improvement over a vacuum tube (size, no heat, no burning out.) Now the only obstacle to our sand computer is how fast you can churn out the gates, if you can make them in batches- great! we're on our way to magic Moor's law. If not, than magic computers modeled after our computers probably won't get that far.
->>>> But even if magic can't miniaturize well enough to give them computers similar to our own, magic computers could be much more flexible than our own. Maybe make some sort of system that can use base 3, or higher base transistors and make pseudo-quantum computers.
 >>>> 
+>>>> This one sounds like it could have great potential. You could probably make a computer functionally similar to ENIAC with relative ease. I would imagine that training simple conditions would be easier and faster than training complex ones. That would mean a transistor or a logic gate would be the easiest things to make. Lets say that you can only work with an object that is large enough to see, so a grain of sand is about as small as we can make our transistors without using a microscope (if that would even work for miniaturization.) A grain of sand is still a huge improvement over a vacuum tube (size, no heat, no burning out.) Now the only obstacle to our sand computer is how fast you can churn out the gates, if you can make them in batches- great! we're on our way to magic Moor's law. If not, than magic computers modeled after our computers probably won't get that far.
+>>>> 
+>>>> But even if magic can't miniaturize well enough to give them computers similar to our own, magic computers could be much more flexible than our own. Maybe make some sort of system that can use base 3, or higher base transistors and make pseudo-quantum computers.
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (10 hours later)
 > 
 > Can you scale things up by training a bunch of simple things and then combining them to make a larger trained machine rather than training the large machine since it would be too heavy for it to react to the telekinesis?
-> 
 
-> **u/ArmokGoB** [+2] *
+> **u/ArmokGoB** [+2]  (49 minutes later)
 > 
 > This is a great idea! I'd also add some kind of mechanism for it to be possible to train objects towards things you couldn't do at all with the telekinesis, like apply larger forces.
-> 
 
->> **u/somnicule** [+2] *
+>> **u/somnicule** [+2]  (an hour later)
 >> 
 >> It's underspecified, but perhaps with the rules as they are you could still do this. Train an object to apply a force proportional to, say, the number of marbles in a jar, only train it with 1-10 marbles to start with, and then when it's locked in, you put a thousand marbles in the jar and it applies a hundred times the force?
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (11 hours later)
 > 
 > This reminds me of Geneforge, except that's about growing tools out of plants and animals.
-> 
 
-> **u/forrestib** [+1]  *Project Freelancer**
+> **u/forrestib** [+1]  *Project Freelancer* (12 hours later)
 > 
 > Perhaps instead of telekinesis, magic gloves? Then the action could be tied to the gloves instead of specific people. If you wave your hand before unlocking a door for the first two years then you can just wave with the glove and the door unlocks itself. Then you can just throw away the key and keep the glove. That would also allow objects to have different trainings with different gloves. A wave of the left hand unlocks and a wave of the right locks.
-> Depending on the glove material this could also allow mass production of trained items with matched gloves. This could be done by training a mechanism to wave and then unlock a door every two minutes. Then attach a glove and it will automatically train the door to unlock when that glove waves. Switch out door and glove and repeat.
 > 
+> Depending on the glove material this could also allow mass production of trained items with matched gloves. This could be done by training a mechanism to wave and then unlock a door every two minutes. Then attach a glove and it will automatically train the door to unlock when that glove waves. Switch out door and glove and repeat.
 
-> **u/DCarrier** [+1] *
+> **u/DCarrier** [+1]  (15 hours later)
 > 
 > If you hire someone to enchant your door, they will necessarily be able to unenchant it, so pretty much every system automatically has a back door.
-> It would be nice to have a way to set it back into training mode without removing it entirely. Better would be to make it so you could set the level of training, and turn it down as it gets closer to exactly what you want.
-> What happens if the original caster dies? Does the enchantment become permanent?
-> How intelligent is the magic? I get that it doesn't care about what you mean to train it, but what can it notice? I imagine training it to detect prime numbers would be impossible, for example.
 > 
+> It would be nice to have a way to set it back into training mode without removing it entirely. Better would be to make it so you could set the level of training, and turn it down as it gets closer to exactly what you want.
+> 
+> What happens if the original caster dies? Does the enchantment become permanent?
+> 
+> How intelligent is the magic? I get that it doesn't care about what you mean to train it, but what can it notice? I imagine training it to detect prime numbers would be impossible, for example.
 
-> **u/Tehino** [+1] *
+> **u/Tehino** [+1]  (a day later)
 > 
 > I think the biggest problem is point 4, as everyone would try to Enchant as many things as possible so that no one else could, since there seems to be no deliberate way of finding out who Enchanted an object. When you are born you can expect that every single thing in the entire world that you could reasonably get your hands on has already been Enchanted. 
 > I would suggest some other form of control method for not having some douche Disenchant your door that you spent MONTHS to train and you FINALLY got to work properly. Perhaps you can train an Enchanted item to avoid being Disenchanted? Or perhaps Enchanting leaves *magical fingerprints* so that you can figure out who Enchanted or Disenchanted something?
-> 
 
-> **u/helltank1** [+1]  *Unfriendly AI**
+> **u/helltank1** [+1]  *Unfriendly AI* (4 days later)
 > 
 > Why can't an evil dictator force all his subjects to don a collar that grows inwards-spikes and strangles the wearer at the first sign of rebellion? Just a thought.
-> 
 
->> **u/somnicule** [+1] *
+>> **u/somnicule** [+1]  (4 days later)
 >> 
 >> How would you train that, exactly?
->> 
 
->>> **u/helltank1** [+1]  *Unfriendly AI**
+>>> **u/helltank1** [+1]  *Unfriendly AI* (8 days later)
 >>> 
 >>> Use telekinesis to force the spikes to flip out when around the neck of someone that says "freedom!" while remaining passive when around the neck of a meek slave.
->>> 
 
 ---
 

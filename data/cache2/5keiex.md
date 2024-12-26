@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/5keiex/d_delayed_sunday_writing_skills_thread/
-* Score: 14
+* Score: 15
 
 * Created: 2016-12-26T16:47:04
 
@@ -28,88 +28,96 @@ Setting design should probably go in the Wednesday Worldbuilding thread.
 
 ### Comments:
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+6]  *My arch-enemy is entropy* (25 seconds later)
 > 
 > Sorry for not posting this yesterday! I got distracted celebrating the holidays by going ice-skating. Better late than never!
-> 
 
->> **u/Aretii** [+10]  *Cultist of Cthugha**
+>> **u/Aretii** [+9]  *Cultist of Cthugha* (2 hours later)
 >> 
 >> "Due to a pre-existing conflict, Sunday has been rescheduled. We apologize for the inconvenience."
->> 
 
->>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+6]  *now posting as /u/callmesalticidae* (5 hours later)
 >>> 
 >>> > DUE TO A PREEXISTING CONFLICT, SUNDAY HAS BEEN RESCHEDULED. WE APOLOGIZE FOR THE INCONVENIENCE.
->>> 
 
->>>> **u/Aretii** [+3]  *Cultist of Cthugha**
+>>>> **u/Aretii** [+3]  *Cultist of Cthugha* (5 hours later)
 >>>> 
 >>>> Shit, I even read Unsong. I am shamed.
->>>> 
 
-> **u/Sagebrysh** [+3]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+3]  *Rank 7 Pragmatist* (7 hours later)
 > 
 > I find it gets harder to draft, the further into the future I'm looking. A lot of it is that I haven't thought too much about how the characters actually interact that far down the line, and while I know the broad plot strokes, there are things like travel times to take into account.
 > Is that a writing challenge specific to serials?
-> 
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (7 hours later)
 > 
 > God, next week my self-imposed "write 50,000 words of my paranormal romance novel in january" challenge starts up, and I am getting MAJOR cold feet. Like major. Can someone please reassure me? My self-soothing like I did last week is not up to snuff.
-> - I don't want to do this anymore it's so much work
-> - What will it even accomplish?
-> - I will be embarrassed to show it to anyone
-> - Where the hell do I start??
-> - Do I even like the story I'm gonna write
-> Like... I know the answers to all of these! I've been excited to write it, my husband says he's excited to read it, my roleplaying partner is on board, I've planned out some plot elements, but... the thought of putting the proverbial pen to paper is terrifying all of a sudden. 
-> I've even told a bunch of people I was going to do it, so I have that commitment device, and I really should get around to setting up a beeminder goal for it. But god, I just... don't want to do it anymore now it's actually on the horizon. Which is stupid because it's something I've wanted to finally do for *literally years*
 > 
+> - I don't want to do this anymore it's so much work
+> 
+> - What will it even accomplish?
+> 
+> - I will be embarrassed to show it to anyone
+> 
+> - Where the hell do I start??
+> 
+> - Do I even like the story I'm gonna write
+> 
+> Like... I know the answers to all of these! I've been excited to write it, my husband says he's excited to read it, my roleplaying partner is on board, I've planned out some plot elements, but... the thought of putting the proverbial pen to paper is terrifying all of a sudden. 
+> 
+> I've even told a bunch of people I was going to do it, so I have that commitment device, and I really should get around to setting up a beeminder goal for it. But god, I just... don't want to do it anymore now it's actually on the horizon. Which is stupid because it's something I've wanted to finally do for *literally years*
 
->> **u/None** [+5] *
+>> **u/None** [+3]  (9 hours later)
 >> 
 >> Getting through 50,000 words is very impressive fo an achievement.  If you power through that, you're also working on "getting good at doing things you want to do even if they're hard", which seems like a really strong things to cultivate.
->> Also, re: accountability/encouragement, if you put updates somewhere, I'm sure people here can comment/encourage.
 >> 
+>> Also, re: accountability/encouragement, if you put updates somewhere, I'm sure people here can comment/encourage.
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (15 hours later)
 >>> 
 >>> Thankyou so much for your comment! I appreciate your support :)
->>> >  if you put updates somewhere, I'm sure people here can comment/encourage.
->>> What would updates consist of? "I worked really hard this week"/"I didn't work hard enough how can I get better" or more like "here's a chapter I worked on any pointers?". I'm happy to do either, but I'm loathe to inflict chapters devoid of context onto anyone. But I suppose I'm not holding peoples' eyelids open and forcing them to read it, even if I did do that.
 >>> 
+>>> >  if you put updates somewhere, I'm sure people here can comment/encourage.
+>>> 
+>>> What would updates consist of? "I worked really hard this week"/"I didn't work hard enough how can I get better" or more like "here's a chapter I worked on any pointers?". I'm happy to do either, but I'm loathe to inflict chapters devoid of context onto anyone. But I suppose I'm not holding peoples' eyelids open and forcing them to read it, even if I did do that.
 
->>>> **u/MonstrousBird** [+2] *
+>>>> **u/MonstrousBird** [+2]  (a day later)
 >>>> 
 >>>> When I did nanowrimo I didn't plan to show any of it to anyone except a few extracts to one close friend, so I posted updates here like 'I made it to 18k and now I really need to get protagonist to meet the wise old man'. I don't think it made sense to others or really needed to, but including some small detail of how the story was going as well as the word count helped me...
->>>> 
 
->> **u/VanPeer** [+3]  *The shard made me do it**
+>> **u/VanPeer** [+3]  *The shard made me do it* (11 hours later)
 >> 
 >> I get a milder version of the same feeling when I'm quarter of the way into a short story. All the plot scenes that seemed so exciting to plan out, now seem like so much work to slog through. Questions to ask yourself: 
 >> Will writing it give you a sense of satisfaction/accomplishment? If yes, that's a good reason to attempt it.
 >> Is it possible to write down the most exciting scenes first? That might keep you motivated.
->> 
 
->>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (15 hours later)
 >>> 
 >>> Thanks for that! It means a lot to be reassured! I will try and make you proud :)
->>> 
 
->> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (10 days later)
 >> 
 >> Hello past MagicWeasel! You've been writing for, well, four days, but here's my advice to you:
->> * You're going to feel worse. MUCH worse. Like, "why am I bothering I am actually going to quit" worse.
->> * Then you'll feel better. Lots better. You'll be like, "SEE, I AM MAKING PROGRESS. Oh my god! I've written like 6,000 words! Things are happening!". You'll be proud of how much you've written
->> * You'll google about ww2 a lot but try not to feel bad about it, you're learning!
->> * Start wherever, because you'll have written it on poor, "I was up all night on NYE" levels of sleep, and you'll ultimately rewrite it
->> * Talk to your support system. They love you and will support you and will be a big part of making you feel better. 
->> * You'll still be embarrassed to show it to people, but because you fear criticism about something so personal and so unpolished (the obsessive editing that your shorts get just isn't possible here). But the people who are important to you will be eager to see something you're so passionate about.
->> * You'll like the story better. You'll realise it's much bigger than you thought (MUCH), and you're going to have to include all that side plot with the vampire hunter. You'll want to ditch the prequel you originally aimed to write and start writing something different. You'll even plan to do so. But then it will seem natural to continue the prequel, so you will. And it will be good.
->> Anyway, I'm only like four days into it, but I hope that helps you.
->> Lots of love and support -
->> Yourself, 10 days from now.
 >> 
+>> * You're going to feel worse. MUCH worse. Like, "why am I bothering I am actually going to quit" worse.
+>> 
+>> * Then you'll feel better. Lots better. You'll be like, "SEE, I AM MAKING PROGRESS. Oh my god! I've written like 6,000 words! Things are happening!". You'll be proud of how much you've written
+>> 
+>> * You'll google about ww2 a lot but try not to feel bad about it, you're learning!
+>> 
+>> * Start wherever, because you'll have written it on poor, "I was up all night on NYE" levels of sleep, and you'll ultimately rewrite it
+>> 
+>> * Talk to your support system. They love you and will support you and will be a big part of making you feel better. 
+>> 
+>> * You'll still be embarrassed to show it to people, but because you fear criticism about something so personal and so unpolished (the obsessive editing that your shorts get just isn't possible here). But the people who are important to you will be eager to see something you're so passionate about.
+>> 
+>> * You'll like the story better. You'll realise it's much bigger than you thought (MUCH), and you're going to have to include all that side plot with the vampire hunter. You'll want to ditch the prequel you originally aimed to write and start writing something different. You'll even plan to do so. But then it will seem natural to continue the prequel, so you will. And it will be good.
+>> 
+>> Anyway, I'm only like four days into it, but I hope that helps you.
+>> 
+>> Lots of love and support -
+>> 
+>> Yourself, 10 days from now.
 
 ---
 

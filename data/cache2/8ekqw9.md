@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/CannotThinkOfAThing** [+1] *
+> **u/CannotThinkOfAThing** [+1]  (3 hours later)
 > 
 > It's back! Hurray!
-> 
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/jldew** [+2] *
+> **u/jldew** [+2]  (7 hours later)
 > 
 > So how much do I have to bribe you for chapter 14? This chapter transitioned the work from interesting to completely engrossing. I really cannot wait for more.
-> 
 
 ---
 

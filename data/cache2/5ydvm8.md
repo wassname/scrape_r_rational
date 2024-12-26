@@ -2,7 +2,7 @@
 
 * Author: u/DocFuture *
 * URL: http://docfuture.tumblr.com/post/158183327526/the-makers-ark-chapter-36
-* Score: 15
+* Score: 13
 
 * Created: 2017-03-09T08:03:30
 
@@ -12,26 +12,23 @@
 
 ### Comments:
 
-> **u/DocFuture** [+2] *
+> **u/DocFuture** [+2]  (24 seconds later)
 > 
 > A short chapter this time.  Flicker heals, and you get to hear a little bit about where Sylvi fit into Fall of Doc Future and Skybreaker's Call.
-> 
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (18 hours later)
 > 
 > I really love this series. It's got everything -- The Flash (except smarter), physics, a teleporter, and plenty of smart and interesting characters. 
-> I'm not clear who Greta is. Should I know the name?
 > 
+> I'm not clear who Greta is. Should I know the name?
 
->> **u/DocFuture** [+2] *
+>> **u/DocFuture** [+2]  (21 hours later)
 >> 
 >> Thank you!  Greta is the eldest of the three Choosers in the group that came to Earth to ask Flicker for help in Skybreaker's Call.  She created Eirik, and featured notably in [Eyetaker and Silvertongue](http://docfuture.tumblr.com/post/113590743446/eyetaker-and-silvertongue-part-1-late-shift)
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (22 hours later)
 >>> 
 >>> Ah, right. Thanks for the reminder.
->>> 
 
 ---
 

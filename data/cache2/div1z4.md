@@ -20,349 +20,368 @@ Thoughts? Would you agree that the standards are different for rational writing?
 
 ### Comments:
 
-> **u/WalterTFD** [+37] *
+> **u/WalterTFD** [+37]  (20 minutes later)
 > 
 > I write a web serial, so I've done some thinking about this stuff.  (The Fifth Defiance, if I'm doing blatant self promoting!  Like comment subscribe pledge my patr...)
-> I do think that rat works tend to have less tolerance for Deus Ex Machina, yeah?  Like, if light speed ramming works then your space combat should have looked very dif from the start.
-> But at the same time I don't think that means you need to be constantly justifying your twists against a reader in your mind who is confused.  It's more like...write in such a way that you don't confuse that imaginary reader?  Like, hrrm, rather than confusing them and then clarifying I think the rat author tries to set the rules down from the start in such a way that the readers don't get confused.
-> To be sure, if you do need a twist out of left field, then it is probably a good idea to have someone explain what is going on.  The readers won't stay invested in a story if the rules are Calvinball (or, I guess, some of them won't.), but if you can tell that you are gonna need some exposition on a beat you can usually slot in some prep work a chapter or two ahead.
-> So yeah, long story short, tie up your loose ends if they are big enough to bother your model of your readers, but better than that is not creating loose ends if you can avoid it.
-> P P S, obviously the iron rule of internet fiction, "you probably aren't getting paid, so write what you want" overrides this.
 > 
+> I do think that rat works tend to have less tolerance for Deus Ex Machina, yeah?  Like, if light speed ramming works then your space combat should have looked very dif from the start.
+> 
+> But at the same time I don't think that means you need to be constantly justifying your twists against a reader in your mind who is confused.  It's more like...write in such a way that you don't confuse that imaginary reader?  Like, hrrm, rather than confusing them and then clarifying I think the rat author tries to set the rules down from the start in such a way that the readers don't get confused.
+> 
+> To be sure, if you do need a twist out of left field, then it is probably a good idea to have someone explain what is going on.  The readers won't stay invested in a story if the rules are Calvinball (or, I guess, some of them won't.), but if you can tell that you are gonna need some exposition on a beat you can usually slot in some prep work a chapter or two ahead.
+> 
+> So yeah, long story short, tie up your loose ends if they are big enough to bother your model of your readers, but better than that is not creating loose ends if you can avoid it.
+> 
+> P P S, obviously the iron rule of internet fiction, "you probably aren't getting paid, so write what you want" overrides this.
 
->> **u/Paxona** [+3] *
+>> **u/Paxona** [+3]  (2 hours later)
 >> 
 >> Let me say Fifth Defiance is really good. (I just can't get into Regime Quest.)
->> But I really dislike you for killing those people in the latest chapter.
 >> 
+>> But I really dislike you for killing those people in the latest chapter.
 
->>> **u/WalterTFD** [+3] *
+>>> **u/WalterTFD** [+3]  (12 hours later)
 >>> 
 >>> \*DM voice\*, "I didn't kill them, the NPCS..."
->>> Not flying, huh?  Hmm...  
-
->>> \*Telltale Games Voice\*... "Walter will remember this..."  
-
->>> Seriously though, thanks so much for reading and for feedback!  I greatly appreciate it.
 >>> 
+>>> Not flying, huh?  Hmm...  
+>>> 
+>>> \*Telltale Games Voice\*... "Walter will remember this..."  
+>>> 
+>>> Seriously though, thanks so much for reading and for feedback!  I greatly appreciate it.
 
-> **u/RedSheepCole** [+20] *
+> **u/RedSheepCole** [+19]  (2 hours later)
 > 
 > Okay, replied earlier but Reddit ate it.  Trying again: Also a serial writer.  My experience is that I can't always predict what questions my readers will ask, or how they will infer rules from context.  There's a certain amount of Shakespeare-in-the-bush going on, which I enjoy.  Pyrebound is plainly dependent on the rules being slowly unfolded, so there's an appetite there for things not being all set out at the start; you just can't contradict established rules, or obviously tease a question and never answer it.
+> 
 > I don't think I could ever answer *every* question readers have, especially not the ones that are secondary to the storyline.  Part of building a good world is leaving a lot of stuff peripheral, with little hints of more to discover around the corner.  As someone once put it to me, a good author leaves blank space on the map for readers to fill in with their imagination.  There's a terrible and tedious finality about having everything nailed down.
+> 
 > (How many different fan theories are there about the powers of "The Sleeper" from Worm?)  
 > (yes I know Worm isn't really ratfic)
-> 
 
->> **u/Quibbloboy** [+10] *
+>> **u/Quibbloboy** [+10]  (3 hours later)
 >> 
 >> I actually saw your other reply before it got eaten - I'm glad you retyped it so that I have a chance to respond. :)
->> I think that this is a really good thing to consider. This line especially stuck out to me:
->> >There's a terrible and tedious finality about having everything nailed down.
->> It reminds me of when Star Wars explained how The Force works. That's a situation that would have benefitted from having *less* explanation, and it wasn't even a matter of leaving a question unanswered - it was just fine the way it was before, as a not-even-question.
->> Good thoughts!
 >> 
+>> I think that this is a really good thing to consider. This line especially stuck out to me:
+>> 
+>> >There's a terrible and tedious finality about having everything nailed down.
+>> 
+>> It reminds me of when Star Wars explained how The Force works. That's a situation that would have benefitted from having *less* explanation, and it wasn't even a matter of leaving a question unanswered - it was just fine the way it was before, as a not-even-question.
+>> 
+>> Good thoughts!
 
->>> **u/RedSheepCole** [+11] *
+>>> **u/RedSheepCole** [+11]  (4 hours later)
 >>> 
 >>> Thanks!  Straying a bit farther afield, even as a teenager it struck me that Tolkien was wise to never describe Sauron.  He showed his eye, he had Pippin react to the sight of him, but Sauron has no clear form in the books.  I always thought that, even if he'd come up with something utterly ghastly, it would still be less impressive than whatever terror we imagined.  The giant form in the Peter Jackson movies isn't nearly so ominous to me.
->>> 
 
->>>> **u/Ibbot** [+6] *
+>>>> **u/Ibbot** [+6]  (4 hours later)
 >>>> 
 >>>> I have the opposite reaction, just based off of my own (admittedly unusual) experience.  I’m aphantastic (sp?), so that unclear form is staying that way.  That ghastly terror who isn’t even described might as well be the same as mook #4 whose description is merely unmemorable.
->>>> Edit: substituted "experience" for "opinion"
 >>>> 
+>>>> Edit: substituted "experience" for "opinion"
 
->>>>> **u/RedSheepCole** [+1] *
+>>>>> **u/RedSheepCole** [+1]  (5 hours later)
 >>>>> 
 >>>>> Well, I can hardly fault you for that.
->>>>> 
 
->>>> **u/TrajectoryAgreement** [+2] *
+>>>> **u/TrajectoryAgreement** [+2]  (8 hours later)
 >>>> 
 >>>> Technically Sauron is described in the Silmarillon, but yeah I agree with your point.
->>>> 
 
->>> **u/MilesSand** [+4] *
+>>> **u/MilesSand** [+4]  (a day later)
 >>> 
 >>> What star wars did was they established an expectation of what level of explanation is available, and then went against it by explaining things with a  conspiracy theory level of plausibility. They botched things so badly that they shouldn't get to be an example. 
->>> Then again "the Kessel run is actually timed in distance" is a more popular explanation than "the scam artist was lying but the guy on the run was too desperate to call him on it" so maybe that's just how the fans like to roll.
 >>> 
+>>> Then again "the Kessel run is actually timed in distance" is a more popular explanation than "the scam artist was lying but the guy on the run was too desperate to call him on it" so maybe that's just how the fans like to roll.
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (2 days later)
 >>>> 
 >>>> Two big differences there IMO:
+>>>> 
 >>>> 1. The Kessel Run is irrelevant.  Han mentions it once in a throwaway comment and it's never brought up again, even to describe what it is more clearly.  It was later elaborated on in the EU books, but within the movies we have only Han's boast and a presumable connection to the "spice mines of Kessel" Threepio freaks out about at the start of the first film.  The Force, on the other hand, is central to the plot of every single movie in one way or another.
 >>>> 2. The average person, until informed otherwise, would find nothing odd about Han's claim, because parsecs are a somewhat obscure term (much more so than "light years").  It sounds about right, if you don't know astronomy.  Whereas anyone with typical public knowledge is going to say something like, "Wait, how are these little germ things so powerful?  If we get the Force from them, where do they get it from?  This doesn't actually explain anything, it just makes a cool mysterious thing seem lame."
->>>> 
 
->> **u/TrebarTilonai** [+1] *
+>> **u/TrebarTilonai** [+1]  (19 hours later)
 >> 
 >> I am definitely enjoying Pyrebound; well done with that.  
-
->> As for your worm comment, it has been a little while since we had a "Is Worm Ratfic?" discussion. I would argue that it's at least rational-adjacent, and with the amount of new info coming out of Ward it might very well be rational. But that's besides my point. Anyway, one of the reason there are so many Sleeper theories is because WB basically has a reasonably consistent answer for EVERYTHING in his universe. We probably see something like 5-10% of his actual worldbuilding, and not in a "hints around the corner" kind of a way. Sleeper is one of the only mysteries that he has actively withheld (along with "Parian's True Power"), so naturally there are a bazillion theories as people try to figure it out.
 >> 
+>> As for your worm comment, it has been a little while since we had a "Is Worm Ratfic?" discussion. I would argue that it's at least rational-adjacent, and with the amount of new info coming out of Ward it might very well be rational. But that's besides my point. Anyway, one of the reason there are so many Sleeper theories is because WB basically has a reasonably consistent answer for EVERYTHING in his universe. We probably see something like 5-10% of his actual worldbuilding, and not in a "hints around the corner" kind of a way. Sleeper is one of the only mysteries that he has actively withheld (along with "Parian's True Power"), so naturally there are a bazillion theories as people try to figure it out.
 
-> **u/EliezerYudkowsky** [+19]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+21]  *Godric Gryffindor* (21 hours later)
 > 
 > You should answer every question of plot about what actually happened inside the story, and every mystery the reader was invited to solve; anything else is optional; this is a universal rule and not just a ratfic one.
-> Be warier than I was about what the reader may think they were invited to solve.  HJPEV's brief thoughts about a Source of Magic paying attention to a genetic marker were intended to illustrate why that theory was implausible, and designate the whole problem as hard enough not to have a promised solution; instead many readers thought it was setting up a Why Magic? plotline.
 > 
+> Be warier than I was about what the reader may think they were invited to solve.  HJPEV's brief thoughts about a Source of Magic paying attention to a genetic marker were intended to illustrate why that theory was implausible, and designate the whole problem as hard enough not to have a promised solution; instead many readers thought it was setting up a Why Magic? plotline.
 
->> **u/Sophronius** [+11]  *The Need to Become Stronger**
+>> **u/Sophronius** [+12]  *The Need to Become Stronger* (21 hours later)
 >> 
 >> I'm not sure that was really because of that one scene. I think it was mostly that the central concept of the story was "Harry is raised by scientists and applies his knowledge to the wizarding world". It makes sense for the reader to assume that the plot would then be driven by that central concept. Plot resolutions like Dumbledore's hall of prophesy, or Voldemort's bias towards death which caused him to essentially defeat himself, or Harry leaving Azkaban to Hermione then feel less satisfactory.
->> If there was one line that was to blame though, I'd say it was this one:
->> >HARRY JAMES POTTER-EVANS-VERRES grew up in a house filled to the brim  with books. He once bit a math teacher who didn't know what a logarithm  was. He's read Godel, Escher, Bach and Judgment Under Uncertainty:  Heuristics and Biases and volume one of The Feynman Lectures on Physics.  And despite what everyone who's met him seems to fear, he doesn't want  to become the next Dark Lord. He was raised better than that. **He wants to discover the laws of magic and become a god.**
->> Like I said in another post, that's the equivalent line of Naruto going "I am going to become the Hokage!" The moment a main character makes a pronouncement like that, readers treat it as a promise by the author. If you're not going to go that route, it needs to be then undercut by the character having an epiphany later on and deciding to change their goals. But Harry in HPMOR never changes his goal from "discover the laws of magic and fix everything", which makes it feel like the ending did not deliver on the story's original promise.
->> (The rest of what you said was 100% right, btw)
 >> 
+>> If there was one line that was to blame though, I'd say it was this one:
+>> 
+>> >HARRY JAMES POTTER-EVANS-VERRES grew up in a house filled to the brim  with books. He once bit a math teacher who didn't know what a logarithm  was. He's read Godel, Escher, Bach and Judgment Under Uncertainty:  Heuristics and Biases and volume one of The Feynman Lectures on Physics.  And despite what everyone who's met him seems to fear, he doesn't want  to become the next Dark Lord. He was raised better than that. **He wants to discover the laws of magic and become a god.**
+>> 
+>> Like I said in another post, that's the equivalent line of Naruto going "I am going to become the Hokage!" The moment a main character makes a pronouncement like that, readers treat it as a promise by the author. If you're not going to go that route, it needs to be then undercut by the character having an epiphany later on and deciding to change their goals. But Harry in HPMOR never changes his goal from "discover the laws of magic and fix everything", which makes it feel like the ending did not deliver on the story's original promise.
+>> 
+>> (The rest of what you said was 100% right, btw)
 
->>> **u/fassina2** [+3]  *Progressive Overload**
+>>> **u/fassina2** [+3]  *Progressive Overload* (23 hours later)
 >>> 
 >>> He solved death, starvation and pretty much every world problem. i.e fix everything. 
->>> &#x200B;
->>> For him to discover the laws of magic it'd be X extra effort and story length just to hit 1 checklist that we can be sure he'll do anyway without us needing to watch it happen.. It'd probably just be equations and mathematical formulas anyway like physics, watching the mc do imaginary physics like equations with a team of scientist may be fun, but it would also have detracted from the story being told and message being conveyed.
->>> From the ending you can assume he did do it in some way or another, imho in this case we don't need to be shown it explicitly to be satisfied.
 >>> 
+>>> &#x200B;
+>>> 
+>>> For him to discover the laws of magic it'd be X extra effort and story length just to hit 1 checklist that we can be sure he'll do anyway without us needing to watch it happen.. It'd probably just be equations and mathematical formulas anyway like physics, watching the mc do imaginary physics like equations with a team of scientist may be fun, but it would also have detracted from the story being told and message being conveyed.
+>>> 
+>>> From the ending you can assume he did do it in some way or another, imho in this case we don't need to be shown it explicitly to be satisfied.
 
->>>> **u/Sophronius** [+9]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+10]  *The Need to Become Stronger* (23 hours later)
 >>>> 
 >>>> It is a fact that it was not satisfactory to some readers - whether or not you think everyone \*should\* be satisfied doesn't really matter. A resolution can be 100% sensible and logical and rational and still not work on an emotional level. In this sense and in this sense only, the reader is always right.
->>>> Or as Neil Gaiman put it:
->>>> >“Remember: when people tell you something’s wrong or doesn’t work for them, they are almost always right. When they tell you exactly what they think is wrong and how to fix it, they are almost always wrong.”
 >>>> 
+>>>> Or as Neil Gaiman put it:
+>>>> 
+>>>> >“Remember: when people tell you something’s wrong or doesn’t work for them, they are almost always right. When they tell you exactly what they think is wrong and how to fix it, they are almost always wrong.”
 
->>>>> **u/fassina2** [+1]  *Progressive Overload**
+>>>>> **u/fassina2** [+1]  *Progressive Overload* (a day later)
 >>>>> 
 >>>>> My intention with these comment was to make you happier, and improve your satisfaction with the story and reality as is, not to prove or say you're wrong and that you shouldn't feel how you currently do.
->>>>> The way you feel is fair and your arguments are reasonable. But in this case I don't think you being right, or getting what you wanted would mean a positive, or optimal outcome for the largest percentage of people possible.
->>>>> Does that mean the stories ending was optimal? No but it was probably close enough, and it's likely the best we'll get.
 >>>>> 
+>>>>> The way you feel is fair and your arguments are reasonable. But in this case I don't think you being right, or getting what you wanted would mean a positive, or optimal outcome for the largest percentage of people possible.
+>>>>> 
+>>>>> Does that mean the stories ending was optimal? No but it was probably close enough, and it's likely the best we'll get.
 
-> **u/None** [+19] *
+> **u/None** [+17]  (10 hours later)
 > 
 > This might not be what /r/rational wants to hear, but I'd only get annoyed by an unsolved mystery when the characters consider it important to solve, and the story specifically called attention to the mystery beforehand.
-> 
 
->> **u/Sophronius** [+20]  *The Need to Become Stronger**
+>> **u/Sophronius** [+20]  *The Need to Become Stronger* (18 hours later)
 >> 
 >> This is not just a valid answer, but the only correct answer. The term I would use to describe this is “the promise the author made to the reader”. E.g when Naruto shouts “I’m gonna be the greatest ninja ever and prove myself to everyone!” he’s not just saying that as a character - that’s the author telling the reader what kind of story they can expect. If the rest of the story is then about flower arranging, the reader will feel betrayed.
->> It’s the exact same thing with rational fiction. The author has to communicate which mysteries are in scope, and which are out of scope, and then deliver on that promise. Metropolitan man never promised a scientific justification for superman’s abilities, and we never got one, but it did promise a rational confrontation between the characters, and it did that very well.
->> HPMOR violated this rule somewhat by introducing concepts and encouraging the reader to speculate on them, like the mirror of Erised, and then just dropping them. That’s the kind of thing that can leave the audience feeling unsatisfied.
 >> 
+>> It’s the exact same thing with rational fiction. The author has to communicate which mysteries are in scope, and which are out of scope, and then deliver on that promise. Metropolitan man never promised a scientific justification for superman’s abilities, and we never got one, but it did promise a rational confrontation between the characters, and it did that very well.
+>> 
+>> HPMOR violated this rule somewhat by introducing concepts and encouraging the reader to speculate on them, like the mirror of Erised, and then just dropping them. That’s the kind of thing that can leave the audience feeling unsatisfied.
 
->>> **u/Quibbloboy** [+5] *
+>>> **u/Quibbloboy** [+5]  (20 hours later)
 >>> 
 >>> I agree with both of you: calling attention to a question and making it a big deal draws in the reader, and then it's kind of a dick move to just *not* pay off that setup. I think I alluded to this a little bit in the OP post, when I mentioned how Lost made itself about the mysteries but then didn't follow through on all of them.
->>> You're right about HPMOR. There were more of these, weren't there? I seem to recall the Atlantis plot line being abandoned, and Harry's motivation to determine the "root" of magic (maybe this is kinda the same plot line) also dropped off as he got distracted by other things.
->>> There was also most definitely a scene where Professor Quirrell pledged to teach students how to cast the Killing Curse, and that never happened.
 >>> 
+>>> You're right about HPMOR. There were more of these, weren't there? I seem to recall the Atlantis plot line being abandoned, and Harry's motivation to determine the "root" of magic (maybe this is kinda the same plot line) also dropped off as he got distracted by other things.
+>>> 
+>>> There was also most definitely a scene where Professor Quirrell pledged to teach students how to cast the Killing Curse, and that never happened.
 
->>>> **u/Sophronius** [+10]  *The Need to Become Stronger**
+>>>> **u/Sophronius** [+10]  *The Need to Become Stronger* (20 hours later)
 >>>> 
 >>>> Yup. It's especially dickish when you essentially hold the viewer hostage through sunk cost, constantly telling them "you can't stop now when you're so close!" and then just extending the story season after season without resolution. In fact, I remember the writers of Lost explicitly promising that "the ending is not X", and then of course the ending was X anyway.
->>>> You're right that there are better examples from HPMOR, but I'm not sure I would count Atlantis as one of them. That's just something Harry mentioned offhand - it was never really a promise. Quirrel not teaching the Killing Curse was also a pretty minor thing. But it's true that Harry never really tried to figure out the nature of magic, never really formed a Bayesian conspiracy, never had a true rationalist duel with Voldemort, never did anything to bring back Hermione, and generally didn't display the kind of agency that was promised.
->>>> Instead, the ending was more like a regular Harry Potter novel: It was very well written in terms of building up tension, and it had stuff like the mirror that gave off a true sense of wonder and magic, but none of it really led anywhere and ultimately the villain mostly defeated himself. And of course there was Dumbledore's hall of prophesy which also had very little to do with the mysteries that had been set up beforehand.
->>>> It's realistic, of course, that sometimes problems and solutions come out of nowhere in a way that feels unsatisfactory, but in terms of writing it definitely violates some important rules.
 >>>> 
+>>>> You're right that there are better examples from HPMOR, but I'm not sure I would count Atlantis as one of them. That's just something Harry mentioned offhand - it was never really a promise. Quirrel not teaching the Killing Curse was also a pretty minor thing. But it's true that Harry never really tried to figure out the nature of magic, never really formed a Bayesian conspiracy, never had a true rationalist duel with Voldemort, never did anything to bring back Hermione, and generally didn't display the kind of agency that was promised.
+>>>> 
+>>>> Instead, the ending was more like a regular Harry Potter novel: It was very well written in terms of building up tension, and it had stuff like the mirror that gave off a true sense of wonder and magic, but none of it really led anywhere and ultimately the villain mostly defeated himself. And of course there was Dumbledore's hall of prophesy which also had very little to do with the mysteries that had been set up beforehand.
+>>>> 
+>>>> It's realistic, of course, that sometimes problems and solutions come out of nowhere in a way that feels unsatisfactory, but in terms of writing it definitely violates some important rules.
 
->>>>> **u/sparrafluffs** [+3] *
+>>>>> **u/sparrafluffs** [+3]  (a day later)
 >>>>> 
 >>>>> I think that the drawback of Harry Potter in a rational world is that the Hogwarts of jkrs book one is so hugely unexplored that it takes books and books to uncover and understand it all.
->>>>> That Big Yud was able to cover decently the mirror of erised and the final dungeon of the sorcerers stone is a great win for him.
->>>>> Taken as a complete work, i think it did everything it promised: quirrell had a plan, and carried it out. A boyish rat 11year old was able to pull a rabbit out of a hat as the prophecy foretold.
->>>>> The other unanswered questions weren't promised by the characters who drove the story. It was essentially the masterwork of quirrell narrated by Harry.
->>>>> Tl;dr the story was focussed on harry being manipulated, and other plot elements outside of that weren't necessarily promised to the reader.
 >>>>> 
+>>>>> That Big Yud was able to cover decently the mirror of erised and the final dungeon of the sorcerers stone is a great win for him.
+>>>>> 
+>>>>> Taken as a complete work, i think it did everything it promised: quirrell had a plan, and carried it out. A boyish rat 11year old was able to pull a rabbit out of a hat as the prophecy foretold.
+>>>>> 
+>>>>> The other unanswered questions weren't promised by the characters who drove the story. It was essentially the masterwork of quirrell narrated by Harry.
+>>>>> 
+>>>>> Tl;dr the story was focussed on harry being manipulated, and other plot elements outside of that weren't necessarily promised to the reader.
 
->>> **u/Radix2309** [+1] *
+>>> **u/Radix2309** [+1]  (2 days later)
 >>> 
 >>> I think the mirror was fine. It's purpose was set up. It's  origins and exact uses dont need to be known, especially with the theme of lost magic.
->>> 
 
->> **u/RuggedTracker** [+5] *
+>> **u/RuggedTracker** [+4]  (19 hours later)
 >> 
 >> I agree, the world feels terribly "themepark-y" when everything is introduced just to be solved and / or justify something. You might have a world prop full of fun and fascinating things, but ultimately it doesn't feel realistic because everything somehow relates to a single character (or group of characters).
->> 
 
-> **u/Genarment** [+14] *
+> **u/Genarment** [+15]  (4 hours later)
 > 
 > What bothers *me* in a story is when the plot or rules aren't explained well enough for someone to write a fanfic about it. Mainly this is because I like inserting my own (halfway competent) characters into stories along with empowering the bad guys, then shaking the whole thing to see what comes out. Now, that's purely a matter of personal preference, but I think it makes a decent rule of thumb. *Write in such a way that someone else could pick up where you left off*. Not all mysteries need to be solved; some can be gracefully avoided or simply left as part of the background; they exist as a sign that real life isn't always neat and tidy and some things just stay uncertain.
+> 
 > Okay in ratfic:
+> 
 > * A character develops a new power based on foundations laid earlier in the story; (Worm second triggers, training montages, "leveling up", artifact acquisition)
 > * Superpowers or magic exist; this is taken for granted; their *rules* are explained but their *origin* is not; (Shadows of the Limelight; Mistborn)
 > * Superpowers or magic exist; their rules are not fully explained, but it is clear that *rules exist* and *no established rules are violated without explanation*; (Lord of the Rings and Star Wars actually do this decently well)
 > * A villain saves or spares the hero in a way consistent with that villain's character as previously established;
 > * A noun (name, place, nation, culture, species, artifact, etc.) or a fact tangential to the plot is mentioned in passing, but never elaborated upon. (Worldbuilding! Yay!)
+> 
 > Not Okay in ratfic:
+> 
 > * A character gains a new power in a manner convenient to the plot, but its source is poorly explained;
 > * Superpowers or magic exist, and are given an explanation which sounds science-y but is actually bogus; (beware of over-explaining)
 > * Superpowers or magic exist, but their rules are vague or fail to be internally consistent;
 > * A villain saves or spares the hero in a way inconsistent with that villain's character, motivations, goals, and/or intelligence;
 > * A noun *whose existence is central to the plot,* or a fact which sounds like it could massively change things, is introduced but never developed.
-> Another good rule of thumb, and possibly a more universal one, is: *Being genre-savvy should not allow me to predict your plot*. If I can predict how a conflict will resolve based on the tropes that led up to it, or if I can predict outcomes based on *what would be the most dramatic*, then your story has irrational gaps.
-> I want to hold up Ra as an example of a ratfic that does a good job of explaining its magic without running into "this is obviously fake science." But I had serious problems parsing how the heck it justified nonsense like Tanako's World, so that kind of falls flat. But that's a rant for another day.
 > 
+> Another good rule of thumb, and possibly a more universal one, is: *Being genre-savvy should not allow me to predict your plot*. If I can predict how a conflict will resolve based on the tropes that led up to it, or if I can predict outcomes based on *what would be the most dramatic*, then your story has irrational gaps.
+> 
+> I want to hold up Ra as an example of a ratfic that does a good job of explaining its magic without running into "this is obviously fake science." But I had serious problems parsing how the heck it justified nonsense like Tanako's World, so that kind of falls flat. But that's a rant for another day.
 
->> **u/VorpalAuroch** [+9]  *Life before Death**
+>> **u/VorpalAuroch** [+8]  *Life before Death* (5 hours later)
 >> 
 >> >  A noun whose existence is central to the plot, or a fact which sounds like it could massively change things, is introduced but never developed.
->> This is overbroad. Rational fiction does not forbid MacGuffins, and this rule does.
 >> 
+>> This is overbroad. Rational fiction does not forbid MacGuffins, and this rule does.
 
->>> **u/LordSwedish** [+2]  *Q Continuum**
+>>> **u/LordSwedish** [+2]  *Q Continuum* (20 hours later)
 >>> 
 >>> I feel like the only MacGuffins this comes into conflict with are the kinds that are just a valuable thing people want. It's not important to the story what the briefcase in Pulp Fiction is because it's just a valuable thing. Any other MacGuffin I can think of is either developed somewhat or is such a lazy contrivance that it's incompatible with ratfics. 
->>> A ratfic needs to be about people pursuing their goals, it the plot is just about stopping random hellmouths or something like that, it's going to be really hard to make it a ratfic. The Motherboxes from the Justice League movie come to mind. They are completely unexplained and undeveloped and are the perfect example of a MacGuffin not following the stated rule. They are also widely criticised for being incredibly lazy and I would be shocked to find them in a supposed ratfic.
 >>> 
+>>> A ratfic needs to be about people pursuing their goals, it the plot is just about stopping random hellmouths or something like that, it's going to be really hard to make it a ratfic. The Motherboxes from the Justice League movie come to mind. They are completely unexplained and undeveloped and are the perfect example of a MacGuffin not following the stated rule. They are also widely criticised for being incredibly lazy and I would be shocked to find them in a supposed ratfic.
 
->>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>> **u/VorpalAuroch** [+1]  *Life before Death* (20 hours later)
 >>>> 
 >>>> > I feel like the only MacGuffins this forbids are the kinds that are just a valuable thing people want. 
->>>> That's what a MacGuffin **is**.
 >>>> 
+>>>> That's what a MacGuffin **is**.
 
->>>>> **u/LordSwedish** [+3]  *Q Continuum**
+>>>>> **u/LordSwedish** [+3]  *Q Continuum* (21 hours later)
 >>>>> 
 >>>>> Sure I could have worded it better, but the examples should have made it clear. I meant MacGuffins that people only want because they are valuable and have monetary value. Those types are just a cooler/genre appropriate version of a big diamond. If the MacGuffin can be replaced with a big diamond, there's no need to develop it because it's all the development we need. 
->>>>> If it can't be replaced by a big diamond, it means it has some special properties that make it valuable. To demonstrate these properties, they need to be developed.
 >>>>> 
+>>>>> If it can't be replaced by a big diamond, it means it has some special properties that make it valuable. To demonstrate these properties, they need to be developed.
 
->>>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >>>>>> 
 >>>>>> Again, that's what a MacGuffin **is**. Something whose properties are not important except that it is very valuable, possibly because it is powerful. If you care about the nature of that power, it's not a MacGuffin. If you are told the nature of the power, it might still be a MacGuffin, if what it can be used to do is never relevant in the timeline of the story.
->>>>>> Your examples are things that weren't MacGuffins. Not all plot devices are MacGuffins.
 >>>>>> 
+>>>>>> Your examples are things that weren't MacGuffins. Not all plot devices are MacGuffins.
 
->>>>>>> **u/LordSwedish** [+3]  *Q Continuum**
+>>>>>>> **u/LordSwedish** [+3]  *Q Continuum* (a day later)
 >>>>>>> 
 >>>>>>> Alright, but in that strict definition of MacGuffins I'm fairly sure that most of the things commonly referred to as MacGuffins don't qualify. In fact, I'm pretty sure that doesn't even conflict with the rule we're talking about. If the thing doesn't ever do anything important, then that's all the development that's needed. The development for a diamond is that it's a diamond. 
->>>>>>> I do have to say that the definition of MacGuffin you're using might be technically correct, in practice it doesn't really apply. I'd say there are more things that are known as MacGuffins that don't fit your definition than the other way around. This is getting way into the weeds though and I don't really feel like getting into an argument about textbook definitions vs actual use.
 >>>>>>> 
+>>>>>>> I do have to say that the definition of MacGuffin you're using might be technically correct, in practice it doesn't really apply. I'd say there are more things that are known as MacGuffins that don't fit your definition than the other way around. This is getting way into the weeds though and I don't really feel like getting into an argument about textbook definitions vs actual use.
 
->>>>>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>>>>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >>>>>>>> 
 >>>>>>>> You're misusing a term and then getting annoyed when I point out that it leads you to stupid conclusions. The solution is to stop misusing the term.
->>>>>>>> A MacGuffin's details are unimportant to the plot. The Maltese Falcon, the Rabbit's Foot, the glowing briefcase, the Silmarils. Is the glowing briefcase something really powerful? Maybe, but it doesn't matter. Did the Silmarils have magic powers or were they just extremely pretty? Probably they were very magic, but it doesn't matter. The mother boxes could do specific things, such as bring Superman back to life, so they were not MacGuffins. They were [plot coupons](https://tvtropes.org/pmwiki/pmwiki.php/Main/PlotCoupon).
 >>>>>>>> 
+>>>>>>>> A MacGuffin's details are unimportant to the plot. The Maltese Falcon, the Rabbit's Foot, the glowing briefcase, the Silmarils. Is the glowing briefcase something really powerful? Maybe, but it doesn't matter. Did the Silmarils have magic powers or were they just extremely pretty? Probably they were very magic, but it doesn't matter. The mother boxes could do specific things, such as bring Superman back to life, so they were not MacGuffins. They were [plot coupons](https://tvtropes.org/pmwiki/pmwiki.php/Main/PlotCoupon).
 
->>>>>>>>> **u/LordSwedish** [+4]  *Q Continuum**
+>>>>>>>>> **u/LordSwedish** [+2]  *Q Continuum* (a day later)
 >>>>>>>>> 
 >>>>>>>>> Well I said I didn't want to do this but whatever. I'm not the one misusing the terms, the world is. The definition you were using was invented in the 30's and since then it's been misused to the point where it means something different as well. MacGuffin has been "misused" by script writers, journalists, directors, and the public at large and not that use is no longer "misuse". When you use a word that means a lot of things, don't get annoyed when people don't understand the way you're using it. Language changes, sometimes in ways you consider to be stupid.
->>>>>>>>> Also, I find it funny that you latched on to the point I said was unimportant and not the main point, which is that objects that won't impact the plot have their entire development done instantly. As I said, the development for a diamond is that it's a diamond. Therefore it doesn't matter what the word MacGuffin means as your argument is invalid either way.
 >>>>>>>>> 
+>>>>>>>>> Also, I find it funny that you latched on to the point I said was unimportant and not the main point, which is that objects that won't impact the plot have their entire development done instantly. As I said, the development for a diamond is that it's a diamond. Therefore it doesn't matter what the word MacGuffin means as your argument is invalid either way.
 
->>>>>>>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>>>>>>> **u/VorpalAuroch** [+1]  *Life before Death* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Not all MacGuffins are as simple as a diamond. They can be complex gizmos like the Rabbit's Foot, where the details of what it does are unimportant but it's not sufficient to say "it's the Rabbit's Foot" and be done. You're wrong, and confusing yourself about what qualifies with definitions used incorrectly.
->>>>>>>>>> 
 
->> **u/Radix2309** [+2] *
+>> **u/Radix2309** [+2]  (2 days later)
 >> 
 >> I dont thimk why the villain spared the hero needs to be previously established, as long ad it is eventually established.
->> 
 
->>> **u/-Fender-** [+1] *
+>>> **u/-Fender-** [+1]  (3 days later)
 >>> 
 >>> That's what he said, though. If the villain spares the hero, there has to be a rational reason for it. It needs to be something that help the villain's agenda somehow, or that is consistent with who he actually is. He never said that we as readers had to know exactly who the villain is before he does act.
->>> 
 
->> **u/Sinity** [+1] *
+>> **u/Sinity** [+1]  (a day later)
 >> 
 >> > But I had serious problems parsing how the heck it justified nonsense like Tanako's World 
->> The way I understood it, it was basically mind uploading into virtual world which ran on Earth's local Ra node. Only really strange thing about it was why it had exploit causing mages to just enter it, without meaning it.
 >> 
+>> The way I understood it, it was basically mind uploading into virtual world which ran on Earth's local Ra node. Only really strange thing about it was why it had exploit causing mages to just enter it, without meaning it.
 
-> **u/VorpalAuroch** [+7]  *Life before Death**
+> **u/VorpalAuroch** [+6]  *Life before Death* (5 hours later)
 > 
 > Lost is a good example because it was 100% loose end, by design. JJ Abrams calls this a [Mystery Box](https://qntm.org/mystery) and QNTM has a rant about how it is terrible. (Ironically, he then proceeded to make Ra conclude with a Mystery Box.)
-> 
 
->> **u/crispin1** [+5] *
+>> **u/crispin1** [+5]  (12 hours later)
 >> 
 >> How does Ra end with a mystery box? I don't recall one.
->> 
 
->>> **u/crispin1** [+1] *
+>>> **u/crispin1** [+1]  (6 days later)
 >>> 
 >>> Ok I guess it's sort of true to say Ra ends with construction of a mystery box, but not as a plot device because the contents are not a mystery to the reader (just some of the characters).
->>> 
 
->> **u/tobias3** [+1] *
+>> **u/tobias3** [+1]  (a day later)
 >> 
 >> As a counter-point Damon Lindelof went on to create The Leftovers and it is one of my favourite TV shows and it doesn't solve one single mystery and has a satisfying conclusion. Maybe this is because the show is upfront that the mystery won't be solved. In season 2 the [intro](https://www.youtube.com/watch?v=fRyirVgs1yc) literaly says so.
->> I'd say that if you are experienced enough you can put together a satisfying (but not exceptional) (movie) series with empty mystery boxes at the beginning. It doesn't help, though, if the guy making the next movie opens them all and shows that they are empty. As JJ Abrams says in the talk, in mainstream media it is mostly about the characters and as long as you don't annoy the audience too much with inconsistencies and other SOD breaking stuff they will ignore them via the power of SOD and fill in blanks better than you could while you can focus on what is important for the story.
->> Obviously having a plan is better then having no plan. But the plan is going to be changed anyway. Maybe an actress leaves the project. Another actress is well liked/good and you planned to kill her character and now it would be better for the franchise to not do that, etc.
 >> 
+>> I'd say that if you are experienced enough you can put together a satisfying (but not exceptional) (movie) series with empty mystery boxes at the beginning. It doesn't help, though, if the guy making the next movie opens them all and shows that they are empty. As JJ Abrams says in the talk, in mainstream media it is mostly about the characters and as long as you don't annoy the audience too much with inconsistencies and other SOD breaking stuff they will ignore them via the power of SOD and fill in blanks better than you could while you can focus on what is important for the story.
+>> 
+>> Obviously having a plan is better then having no plan. But the plan is going to be changed anyway. Maybe an actress leaves the project. Another actress is well liked/good and you planned to kill her character and now it would be better for the franchise to not do that, etc.
 
-> **u/BlueSteelRose** [+4] *
+> **u/BlueSteelRose** [+3]  (13 hours later)
 > 
 > In 1954, JRR Tolkien wrote “As a story, I think it is good that there should be a lot of things unexplained (especially if an explanation actually exists); and I have perhaps from this point of view erred in trying to explain too much, and give too much past history... And even in a mythical Age there must be some enigmas, as there always are.”
-> 
 
-> **u/IronPheasant** [+4] *
+> **u/IronPheasant** [+3]  (20 hours later)
 > 
 > > When Lost ended in 2010, it left a lot of fans really upset because they felt like their questions hadn't been adequately answered.
-> Heh, that was hilarious to me. I just knew there were nerds out there trying to piece everything together as though it were some kind of brilliant puzzle, while it was apparent they were just making stuff up all along. Not even a scrap of a plan or an outline was put into those scripts - it was all about expensive razzle dazzle padded out with cheap low cost off-island sequences.
-> I had a hearty guffaw when the last episode dropped and it was like "it was Jesus all along".
-> There's a talk on youtube where Abrams talks about his "mystery box" trick that he uses way too much. It was a perfect metaphor for the entire affair - a man standing on a stage behind an empty box with nothing inside of it.
-> It's exploitative of human psychology, a bit like how gacha games prey on addiction. Because literally anything could be in the box since it's completely arbitrary, it's very much like a slot machine to the viewer.
-> Prison Break, where the protagonist was always five seconds away from obliteration every single commercial break, is a slightly different sort of cheap repetitive trick to keep the viewer's attention. I don't honestly think enrapturing these base urges of our lizard brains with these kinds of techniques is in-line with rational fiction.
 > 
+> Heh, that was hilarious to me. I just knew there were nerds out there trying to piece everything together as though it were some kind of brilliant puzzle, while it was apparent they were just making stuff up all along. Not even a scrap of a plan or an outline was put into those scripts - it was all about expensive razzle dazzle padded out with cheap low cost off-island sequences.
+> 
+> I had a hearty guffaw when the last episode dropped and it was like "it was Jesus all along".
+> 
+> There's a talk on youtube where Abrams talks about his "mystery box" trick that he uses way too much. It was a perfect metaphor for the entire affair - a man standing on a stage behind an empty box with nothing inside of it.
+> 
+> It's exploitative of human psychology, a bit like how gacha games prey on addiction. Because literally anything could be in the box since it's completely arbitrary, it's very much like a slot machine to the viewer.
+> 
+> Prison Break, where the protagonist was always five seconds away from obliteration every single commercial break, is a slightly different sort of cheap repetitive trick to keep the viewer's attention. I don't honestly think enrapturing these base urges of our lizard brains with these kinds of techniques is in-line with rational fiction.
 
->> **u/VorpalAuroch** [+1]  *Life before Death**
+>> **u/VorpalAuroch** [+1]  *Life before Death* (20 hours later)
 >> 
 >> I remember during either season 1 or early season 2, I told my school bus full of Lost discussion that their questions had no answers and they were going to be disappointed. One of my prouder childhood moments.
->> 
 
-> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators**
+> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators* (5 hours later)
 > 
 > I think you should answer all big questions.. You should also answer enough small questions that the reader feels confident all small questions have answers.
-> 
 
-> **u/Geminii27** [+2] *
+> **u/Geminii27** [+2]  (9 hours later)
 > 
 > I'd feel that minor questions would be OK to leave hanging in the interests of keeping the story moving and on-track. As long as the author's thought about them and could answer the inevitable questions later (ratfic fans absolutely loving to question every corner of a universe), and the answers wouldn't blow a hole in the plot or the story's society or character backstories.
-> 
 
-> **u/Pacific_Rimming** [+2] *
+> **u/Pacific_Rimming** [+2]  (20 hours later)
 > 
 > It's one thing to ask "Is it possible to answer every question?" and "Should we try to answer every question?"
-> For the first one it's impossible. It's like with a child asking "Why?" over and over to every explanation. "Why is the sky green in Algalax?" Because of the different gasous contents of the athmosphere." "Why?" "Partly pollution, partly because the planet is made from different major elements compared to Earth." 
-> Already we have to diverge the questioning and talk about the industry of Algalax and it's geology. The writer can only repeat this why game so far, so I propose that you just accept that you're human and write what you like.
-> If you wrote a book to talk about alien biology and want to handwave how the FTL travel works, feel free! Thousands of other writers have already answered that question, I don't need to read the same rehashed shit for ten pages. (If you have a unique take on FTL though, you do you.)
-> Regarding "Should we try to answer every question?" I have some personal advice: When you're conflicted between choosing 2 different explanations for a thing, that are both equally valid and interesting - just leave it open-ended!
-> Remember to leave sufficient clues for the reader though. Trust me, sometimes the reader is smarter than you and you can create some interesting debates this way, if you give both sides sufficient ammunition. You can even show these debates in-universe.
-> "Algalax has always had a green sky." "Nonsense, we need to make our industry more environmental friendly." Wow, now you have literal green house politics as background worldbuilding AND you can throw some political satire in there.
 > 
+> For the first one it's impossible. It's like with a child asking "Why?" over and over to every explanation. "Why is the sky green in Algalax?" Because of the different gasous contents of the athmosphere." "Why?" "Partly pollution, partly because the planet is made from different major elements compared to Earth." 
+> 
+> Already we have to diverge the questioning and talk about the industry of Algalax and it's geology. The writer can only repeat this why game so far, so I propose that you just accept that you're human and write what you like.
+> 
+> If you wrote a book to talk about alien biology and want to handwave how the FTL travel works, feel free! Thousands of other writers have already answered that question, I don't need to read the same rehashed shit for ten pages. (If you have a unique take on FTL though, you do you.)
+> 
+> Regarding "Should we try to answer every question?" I have some personal advice: When you're conflicted between choosing 2 different explanations for a thing, that are both equally valid and interesting - just leave it open-ended!
+> 
+> Remember to leave sufficient clues for the reader though. Trust me, sometimes the reader is smarter than you and you can create some interesting debates this way, if you give both sides sufficient ammunition. You can even show these debates in-universe.
+> 
+> "Algalax has always had a green sky." "Nonsense, we need to make our industry more environmental friendly." Wow, now you have literal green house politics as background worldbuilding AND you can throw some political satire in there.
 
-> **u/myriadamant** [+2] *
+> **u/myriadamant** [+2]  (8 days later)
 > 
 > Late to the discussion but hope this adds something worthwhile. As a reader, I can only take your story seriously if I think it takes itself seriously. Now, not every story has to be taken seriously (e.g. HPMOR seems more interested in having the ideas taken seriously) but I suspect most ratfic authors want their readers to be immersed in their worlds and invested in the fates of their characters. As such, I want to know that you're not just making stuff up as you go along willy-nilly, that you're taking your stuff seriously. To have an answer for all the questions big and small gives me the impression that you have at least considered these questions. Whether those answers are good ones... well that is always subjective.
-> 
 
-> **u/RedSheepCole** [+1] *
+> **u/RedSheepCole** [+1]  (an hour later)
 > 
 > Another comment from a serial writer: what's clear to me and what's clear to my readers are not always the same.  Hopefully there's significant overlap, but there's going to be some amount of Shakespeare-in-the-Bush here, and I kind of enjoy that for the perspective on how other people think.  Pyrebound depends a lot on gradual revelation of How It All Works, and people here seem to accept if not enjoy that--so the rules don't necessarily have to be all clear from the start.  You just can't contradict what you've already established, and if you've plainly teased it you need to tie it up by the end.
-> I suspect I would go insane if I tried to answer every question readers had, the more so because a lot of those questions might depend on parts of the world that are supporting flavor and don't bear directly on the plot.  A well-built world, somebody once told me, will leave blank spots on the map for the reader's imagination to fill in.
 > 
+> I suspect I would go insane if I tried to answer every question readers had, the more so because a lot of those questions might depend on parts of the world that are supporting flavor and don't bear directly on the plot.  A well-built world, somebody once told me, will leave blank spots on the map for the reader's imagination to fill in.
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 days later)
 > 
 > I watched the whole of Lost in 2011 and felt that all the questions have been answered (come on, you get a full info-dump episode in "Across the Sea", and also an epilogue in "The New Man in Charge").
-> 
 
-> **u/CCC_037** [+1] *
+> **u/CCC_037** [+1]  (5 days later)
 > 
 > I'd say the necessary standards are:
+> 
 > - Know the rules that your universe works on, and stick to them. But never explicitly tell the readers what these rules are.
 > - Raise questions. Answer some of them explicitly. Try to leave enough clues that the rest of the questions that you raise have answers that can be deduced, or at least guessed at.
 > - Include the most important questions in the list of those that get answered *explicitly*.
 > - Exception: If the entire point of the story is to raise a specific question about the real world, then it is best to provide no answer to that question; failing that, a dozen potential answers with no sign of which is correct. This encourages the reader to find his own answer to the question, or at least to *think* about it.
-> This, I think, covers all the necessary points. Most questions that the readers will ask are the ones you raise; those are answered (explicitly or implicitly) (unless the question is the point, in which case the last thing you want is to give the reader an answer). Readers who ask questions beyond that will mostly be questioning the rules of your world; but by sticking to them, you automatically implicitly answer those. The last category of questions that users could ask is the ones that you simply never thought of... and those are impossible for you to directly answer in any case.
 > 
+> This, I think, covers all the necessary points. Most questions that the readers will ask are the ones you raise; those are answered (explicitly or implicitly) (unless the question is the point, in which case the last thing you want is to give the reader an answer). Readers who ask questions beyond that will mostly be questioning the rules of your world; but by sticking to them, you automatically implicitly answer those. The last category of questions that users could ask is the ones that you simply never thought of... and those are impossible for you to directly answer in any case.
 
 ---
 

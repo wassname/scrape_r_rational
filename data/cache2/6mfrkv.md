@@ -2,7 +2,7 @@
 
 * Author: u/vallar57  *Unseen University: Faculty of High-Energy Magic**
 * URL: https://www.reddit.com/r/rational/comments/6mfrkv/rational_comedies/
-* Score: 21
+* Score: 18
 
 * Created: 2017-07-10T17:01:52
 
@@ -14,125 +14,119 @@ Can you make some suggestions? Thanks!
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+34]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+31]  *Godric Gryffindor* (2 hours later)
 > 
 > Terry Pratchett.
-> 
 
->> **u/vallar57** [+11]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+11]  *Unseen University: Faculty of High-Energy Magic* (2 hours later)
 >> 
 >> I have read 'em all XD
->> 
 
-> **u/Noumero** [+20]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+20]  *Self-Appointed Court Statistician* (an hour later)
 > 
 > Hm.
-> u/eaglejarl's [*What if SG-1 weren't stupid?*](https://www.fanfiction.net/s/11361802/1/What-if-SG-1-weren-t-stupid), [*Supernaturally Rational*](https://www.fanfiction.net/s/11530632/1/Supernaturally-Rational), and [*Episodic Parody: The Flash*](https://www.fanfiction.net/s/11583263/1/Episodic-Parody-The-Flash) would probably count.
-> [*A Modern Myth*](https://slatestarcodex.com/2017/02/27/a-modern-myth/) is fairly light-hearted, but I'm not sure if it's light-hearted enough.
-> [*Harry Potter and the Natural 20*](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20), *Harry the Hufflpuff ([{1}](https://www.fanfiction.net/s/6466185/1/Harry-the-Hufflepuff), [{2}](https://www.fanfiction.net/s/7330591/1/Harry-the-Hufflepuff-2), [{3}](https://www.fanfiction.net/s/10843543/1/Harry-the-Hufflepuff-3-Harry-s-Year-off))* and [*Seventh Horcrux*](https://www.fanfiction.net/s/10677106/1/Seventh-Horcrux) are fun, but their rationality is dubious.
-> That's... all, off the top of my head.
 > 
+> u/eaglejarl's [*What if SG-1 weren't stupid?*](https://www.fanfiction.net/s/11361802/1/What-if-SG-1-weren-t-stupid), [*Supernaturally Rational*](https://www.fanfiction.net/s/11530632/1/Supernaturally-Rational), and [*Episodic Parody: The Flash*](https://www.fanfiction.net/s/11583263/1/Episodic-Parody-The-Flash) would probably count.
+> 
+> [*A Modern Myth*](https://slatestarcodex.com/2017/02/27/a-modern-myth/) is fairly light-hearted, but I'm not sure if it's light-hearted enough.
+> 
+> [*Harry Potter and the Natural 20*](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20), *Harry the Hufflpuff ([{1}](https://www.fanfiction.net/s/6466185/1/Harry-the-Hufflepuff), [{2}](https://www.fanfiction.net/s/7330591/1/Harry-the-Hufflepuff-2), [{3}](https://www.fanfiction.net/s/10843543/1/Harry-the-Hufflepuff-3-Harry-s-Year-off))* and [*Seventh Horcrux*](https://www.fanfiction.net/s/10677106/1/Seventh-Horcrux) are fun, but their rationality is dubious.
+> 
+> That's... all, off the top of my head.
 
->> **u/vallar57** [+4]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+5]  *Unseen University: Faculty of High-Energy Magic* (2 hours later)
 >> 
 >> Out of these, I have read HPN20 (it's so irrational it goes around and approaches rationality from the other end, it's a masterpiece XD) and Seventh Horcrux (amusing book, I rather liked it, but it wasn't awesome).
->> I'll be sure to check all the other, thanks!
 >> 
+>> I'll be sure to check all the other, thanks!
 
->> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (14 hours later)
 >> 
 >> Ok, I finished reading them. The best part? Tonight I was home alone, so I could laugh a loudly as possible.
->> Which leaves me with a problem though: I crave more, and there is nothing to quench this thirst with.
->> P.S. Did you get how LazyHarry got the Stone in the first fic? He has it for some reason when facing Quirrelmort in the final, but he didn't get the Mirror room.
 >> 
+>> Which leaves me with a problem though: I crave more, and there is nothing to quench this thirst with.
+>> 
+>> P.S. Did you get how LazyHarry got the Stone in the first fic? He has it for some reason when facing Quirrelmort in the final, but he didn't get the Mirror room.
 
->>> **u/Noumero** [+1]  *Self-Appointed Court Statistician**
+>>> **u/Noumero** [+1]  *Self-Appointed Court Statistician* (17 hours later)
 >>> 
 >>> >Did you get how LazyHarry got the Stone in the first fic? 
->>> Quirrel somehow managed to extract it on his own, if I recall correctly.
 >>> 
+>>> Quirrel somehow managed to extract it on his own, if I recall correctly.
 
->>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (23 hours later)
 >>>> 
 >>>> Then why does Harry have it, and why QM has to fight with hin for it?
->>>> 
 
->>>>> **u/Noumero** [+3]  *Self-Appointed Court Statistician**
+>>>>> **u/Noumero** [+4]  *Self-Appointed Court Statistician* (a day later)
 >>>>> 
 >>>>> Quirrel accidentally dropped it at his head after tripping over his invisible form.
->>>>> 
 
->>>>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>>>>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (a day later)
 >>>>>> 
 >>>>>> Oh, found it. Thanks.
->>>>>> 
 
-> **u/clawclawbite** [+6] *
+> **u/clawclawbite** [+5]  (3 hours later)
 > 
 > It is not a rarfic, but if you have not yet done so, check out Catch-22 for a comedy about how non-rational the world and people actually are.
-> 
 
->> **u/vallar57** [+4]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+4]  *Unseen University: Faculty of High-Energy Magic* (4 hours later)
 >> 
 >> Black comedy coupled with venomous satire also doesn't count.
->> Edit: I mean, the book is good, and I have read it a few years ago. It's just not the kind of comedy I'm looking for here.
 >> 
+>> Edit: I mean, the book is good, and I have read it a few years ago. It's just not the kind of comedy I'm looking for here.
 
-> **u/hankyusa** [+4]  *Sunshine Regiment**
+> **u/hankyusa** [+4]  *Sunshine Regiment* (11 hours later)
 > 
 > The Dark Wizard of Donkerk was originally going to be Terry Pratchett style comedy.
-> Edit: spelling
 > 
+> Edit: spelling
 
->> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (12 hours later)
 >> 
 >> But did it end up that way in it's finished state?
->> 
 
->>> **u/hankyusa** [+3]  *Sunshine Regiment**
+>>> **u/hankyusa** [+3]  *Sunshine Regiment* (19 hours later)
 >>> 
 >>> No. Just a fun fact.
->>> 
 
-> **u/noahpocalypse** [+6] *
+> **u/noahpocalypse** [+5]  (20 hours later)
 > 
 > A Black Comedy, by the same author as Seventh Horcrux. If you liked the latter, you'll like the former. Basically a buddy-cop story between Harry and Sirius, except they aren't cops, and they don't respect the law at all, and in fact make a mockery of self-respecting institutions such as the Wizengamot,
-> Don't let the title fool you, it's really got very little super serious stuff. There is a bit of seriousness, but it's pretty dedicated to being humorous throughout. Not quite a crack fic, but as close as you can get without being one. It's kinda like the silly portions of HPMOR except a whole story of them.
-> (also, it's the origin of the name David Monroe. or at least it's where Eliezer got the name from. Warning: if you haven't read HPMOR, reading this fic and learning about the character David Monroe could spoil the big reveal in HPMOR.)
 > 
+> Don't let the title fool you, it's really got very little super serious stuff. There is a bit of seriousness, but it's pretty dedicated to being humorous throughout. Not quite a crack fic, but as close as you can get without being one. It's kinda like the silly portions of HPMOR except a whole story of them.
+> 
+> (also, it's the origin of the name David Monroe. or at least it's where Eliezer got the name from. Warning: if you haven't read HPMOR, reading this fic and learning about the character David Monroe could spoil the big reveal in HPMOR.)
 
->> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>> **u/Ardvarkeating101** [+6]  *Father of Learning* (a day later)
 >> 
 >> > A Black Comedy, by the same author as Seventh Horcrux.
->> It's not, totally different authors.  Also: not exactly what I'd call rational.  Their decision making process often borders on "what do I feel like doing right now?"
 >> 
+>> It's not, totally different authors.  Also: not exactly what I'd call rational.  Their decision making process often borders on "what do I feel like doing right now?"
 
->>> **u/Serious_Senator** [+3] *
+>>> **u/Serious_Senator** [+3]  (3 days later)
 >>> 
 >>> I was super excited. Nonjon lives?! But no
->>> 
 
->>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>> **u/Ardvarkeating101** [+2]  *Father of Learning* (3 days later)
 >>>> 
 >>>> Alas, gone forever
->>>> 
 
->>> **u/noahpocalypse** [+1] *
+>>> **u/noahpocalypse** [+1]  (a day later)
 >>> 
 >>> Really? My bad then, I could've sworn they had the same author.
->>> And yeah, it's only rational in the Pratchett sense. Meant to mention that.
 >>> 
+>>> And yeah, it's only rational in the Pratchett sense. Meant to mention that.
 
-> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!**
+> **u/everything-narrative** [+1]  *Coral, Abide with Rubicon!* (21 days later)
 > 
 > Lighting up the dark, by Velorien is a Naruto ratfic. It is genuinely comedic with occasional darkness, rather than genuinely dark with occasional comedy.
-> Can't link; on mobile.
 > 
+> Can't link; on mobile.
 
->> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic* (21 days later)
 >> 
 >> Yeah, I have actually read it in ongoing. Regrettably, it's on indefinite hiatus.
->> 
 
 ---
 

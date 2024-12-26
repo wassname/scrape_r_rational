@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (8 hours later)
 > 
 > How do you pronounce "Special Agent Cristal", and is it audibly different from "Special Agent Crystal"?
-> Also, does Garnet have the Doctor's psychic paper, or does she just carry a forged FBI badge around in case she needs it?
 > 
+> Also, does Garnet have the Doctor's psychic paper, or does she just carry a forged FBI badge around in case she needs it?
 
->> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (10 hours later)
 >> 
 >> Cristal is homophone of 'crystal.'
->> As for where she got a badge: same place she gets her swimming goggles.
 >> 
+>> As for where she got a badge: same place she gets her swimming goggles.
 
 ---
 

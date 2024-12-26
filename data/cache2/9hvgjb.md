@@ -2,7 +2,7 @@
 
 * Author: u/melmonella  *Tremble, o ye mighty, for a new age is upon you**
 * URL: https://www.reddit.com/r/rational/comments/9hvgjb/bormor_the_witch/
-* Score: 76
+* Score: 75
 
 * Created: 2018-09-22T00:17:11
 
@@ -34,55 +34,45 @@ Granddaughter was quiet for a while, thoughtfully tossing fallen leaves with her
 
 ### Comments:
 
-> **u/Kilbourne** [+8] *
+> **u/Kilbourne** [+6]  (2 hours later)
 > 
 > Gesheft?
-> 
 
->> **u/PreFollower** [+12] *
+>> **u/PreFollower** [+10]  (3 hours later)
 >> 
 >> Jewish word for "profit". It is used in Russian since long ago to substitute the whole "123?profit" thing.
->> 
 
->>> **u/Kilbourne** [+1] *
+>>> **u/Kilbourne** [+1]  (3 hours later)
 >>> 
 >>> Ah, I see.
->>> 
 
->> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (9 hours later)
 >> 
 >> Note the similarities to german "geschäft" - "to make a deal/trade".
->> 
 
->>> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+>>> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (a day later)
 >>> 
 >>> That's because the Yiddish is a High German language.
->>> 
 
-> **u/FeepingCreature** [+7]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+6]  *GCV Literally The Entire Culture* (8 hours later)
 > 
 > I like it! Very Pratchettian.
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (8 hours later)
 > 
 > Спасибо за перевод
-> 
 
-> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (2 days later)
 > 
 > I find this much more entertaining than the other one.
-> 
 
->> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you* (2 days later)
 >> 
 >> You are not the only one. Also which other one, I've posted three so far?
->> 
 
->>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (2 days later)
 >>> 
 >>> I saw the take on Emperor's New Clothes and thought it was kind of dumb. Yes, crowds can be dumb and wrong, but they aren't always. It would be a very terrible plan to try anything like that in reality.
->>> 
 
 ---
 

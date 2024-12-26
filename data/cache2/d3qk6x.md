@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/d3qk6x/d_friday_open_thread/
-* Score: 21
+* Score: 22
 
 * Created: 2019-09-13T15:05:23
 
@@ -16,67 +16,75 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/CouteauBleu** [+9]  *We are the Empire.**
+> **u/CouteauBleu** [+7]  *We are the Empire.* (4 hours later)
 > 
 > TIL about France's [Startsups d'Etat](https://beta.gouv.fr/startups/) (National Startups) program. We basically have a program for mentoring and incubating startup-like project sponsored by government administration, with a focus on using IT to give these administrations more data, minimize costs due to administrative overhead, and make life easier for everyday people interacting these administrations (and *boy* do we need those last two in this country).
-> The projects are really modeled after the startup model in the private sector, with small agile teams, a focus on finding and eliminating user-facing pain points, and a willingness to experiment on novel ideas and drop failing projects.
-> The program has started in 2015, and currently hosts about 78 teams with various statuses in very diverse domains. Most of them have are targeted towards either companies or unemployed people looking for work, so I haven't really had the opportunity to see the results myself; though I'm really eager to  see particulier.api.gouv.fr get some traction (having to give an administration a proof of some information I *know* the government already knows is a pet peeve of mine).
-> I'm curious if similar initiatives exist in other countries. How far along is your administration in virtualizing paperwork? In particular, do you have from-the-source-taxing, where the state directly takes your income tax from your salary, and you basically have zero tax paperwork to fill unless you have other sources of income?
 > 
+> The projects are really modeled after the startup model in the private sector, with small agile teams, a focus on finding and eliminating user-facing pain points, and a willingness to experiment on novel ideas and drop failing projects.
+> 
+> The program has started in 2015, and currently hosts about 78 teams with various statuses in very diverse domains. Most of them have are targeted towards either companies or unemployed people looking for work, so I haven't really had the opportunity to see the results myself; though I'm really eager to  see particulier.api.gouv.fr get some traction (having to give an administration a proof of some information I *know* the government already knows is a pet peeve of mine).
+> 
+> I'm curious if similar initiatives exist in other countries. How far along is your administration in virtualizing paperwork? In particular, do you have from-the-source-taxing, where the state directly takes your income tax from your salary, and you basically have zero tax paperwork to fill unless you have other sources of income?
 
->> **u/None** [+7] *
+>> **u/None** [+6]  (20 hours later)
 >> 
 >> > How far along is your administration in virtualizing paperwork? 
->> In Germany, the cyberspace is still ["New Land"](https://www.youtube.com/watch?v=-VkLbiDAouM) by official declaration. Within maybe a few years, you can expect German politicians to cautiously send explorers into this vast unknown territory, and cautiously try to make contact with the unwashed native barbarians. Seeing no value in communicating with them, our old parties (Social Democrats and Conservatives) will soon turn their back on them, leaving mainly the Pirates, the Greens, the Liberals, and the extreme right to gobble up these digital natives.
->> The idea that the bureaucracy could ever do actual *work* via the internet is pretty outlandish.
 >> 
+>> In Germany, the cyberspace is still ["New Land"](https://www.youtube.com/watch?v=-VkLbiDAouM) by official declaration. Within maybe a few years, you can expect German politicians to cautiously send explorers into this vast unknown territory, and cautiously try to make contact with the unwashed native barbarians. Seeing no value in communicating with them, our old parties (Social Democrats and Conservatives) will soon turn their back on them, leaving mainly the Pirates, the Greens, the Liberals, and the extreme right to gobble up these digital natives.
+>> 
+>> The idea that the bureaucracy could ever do actual *work* via the internet is pretty outlandish.
 
->> **u/LucidityWaver** [+5] *
+>> **u/LucidityWaver** [+5]  (10 hours later)
 >> 
 >> You may know from talking to MagicWeasel, but Australia does have “from-the-source-taxing” as described.
->> My workplace used the new Single Touch Payroll (STP) system this year to lodge relevant information electronically.
->> From the employee’s perspective, this information becomes available through the Australian Taxation Office (ATO) section of the MyGov* portal. The ATO portal can be used to lodge tax electronically (has been available for several years now), and the process is pretty simple. It’s mostly automatic unless you do have secondary income streams or other notable financial situations (inheritance, gifted money, etc)
->> *it basically provides links & oAuth connections to disparate government systems used by Australians (not sure about use by people without citizenship). It can also serve as a single message point to the user if any of the connected entities need to get in touch. It has had a rocky history, and has not always been a good experience to use.
 >> 
+>> My workplace used the new Single Touch Payroll (STP) system this year to lodge relevant information electronically.
+>> 
+>> From the employee’s perspective, this information becomes available through the Australian Taxation Office (ATO) section of the MyGov* portal. The ATO portal can be used to lodge tax electronically (has been available for several years now), and the process is pretty simple. It’s mostly automatic unless you do have secondary income streams or other notable financial situations (inheritance, gifted money, etc)
+>> 
+>> *it basically provides links & oAuth connections to disparate government systems used by Australians (not sure about use by people without citizenship). It can also serve as a single message point to the user if any of the connected entities need to get in touch. It has had a rocky history, and has not always been a good experience to use.
 
-> **u/SvalbardCaretaker** [+8]  *Mouse Army**
+> **u/SvalbardCaretaker** [+8]  *Mouse Army* (a day later)
 > 
 > /u/magicweasel and I did a cross-german/australian Berlin meetup. We had a most terrific time visiting the more interesting parts of german history - namely, the memorial to the murdered jews of europe and the nearby KZ Sachsenhausen. 
-> She was great company for this, distracting me with amusing anecdotes of australian spousal law after we both got much more than we bargained for. I rate this trip 1/10 for fun, and rate magicweasel 5+/5 stars as a companion in case you'd always wanted to visit your local atrocity sites but had correctly estimated that you were too susceptible to the horrors involved.
 > 
+> She was great company for this, distracting me with amusing anecdotes of australian spousal law after we both got much more than we bargained for. I rate this trip 1/10 for fun, and rate magicweasel 5+/5 stars as a companion in case you'd always wanted to visit your local atrocity sites but had correctly estimated that you were too susceptible to the horrors involved.
 
->> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (2 days later)
 >> 
 >> After all that I have a 1/10? Least flattering typo ever!
->> Highly recommend /u/svalbardcaretaker for any trips to Berlin/Germany you have: though try to pick something more uplifting so his soul does not get ripped all the way in half. 
->> It was great to have you with me, despite us interacting very little on here I felt we clicked really well and it was both heart-breaking and touching to experience the camp with you because of how affected you were by the atrocities. 
->> I don't know how because I obviously don't believe in "souls" or "energy", but places like Sachsenhausen seem to retain this sad, powerful energy from all the suffering that went on there, and there's a lot of value in experiencing that first-hand. "Dark tourism" is becoming popular, and while there's complicated ethics around a lot of them (particularly the glorification of serial killers), places like this, that memorialise the large-scale atrocities of government in a way that puts respect towards the victims paramount, I think play an important part in the "growth of our souls". 
->> The most depressing thing is, the nazis did such terrible things, and we say we can't let it happen again, but Pol Pot did more or less the same thing (but with very different goals) in the 1980s. It's going to happen again. Shit, no doubt, it *is* happening in North Korea. And..... I'm reasonably powerless to stop it. That's... horrifying.
 >> 
+>> Highly recommend /u/svalbardcaretaker for any trips to Berlin/Germany you have: though try to pick something more uplifting so his soul does not get ripped all the way in half. 
+>> 
+>> It was great to have you with me, despite us interacting very little on here I felt we clicked really well and it was both heart-breaking and touching to experience the camp with you because of how affected you were by the atrocities. 
+>> 
+>> I don't know how because I obviously don't believe in "souls" or "energy", but places like Sachsenhausen seem to retain this sad, powerful energy from all the suffering that went on there, and there's a lot of value in experiencing that first-hand. "Dark tourism" is becoming popular, and while there's complicated ethics around a lot of them (particularly the glorification of serial killers), places like this, that memorialise the large-scale atrocities of government in a way that puts respect towards the victims paramount, I think play an important part in the "growth of our souls". 
+>> 
+>> The most depressing thing is, the nazis did such terrible things, and we say we can't let it happen again, but Pol Pot did more or less the same thing (but with very different goals) in the 1980s. It's going to happen again. Shit, no doubt, it *is* happening in North Korea. And..... I'm reasonably powerless to stop it. That's... horrifying.
 
->>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (2 days later)
 >>> 
 >>> I did a slight edit to make my rating scale clearer. Wish you good trip back!
->>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (18 hours later)
 > 
 > [deleted]
-> 
 
->> **u/RetardedWabbit** [+11] *
+>> **u/RetardedWabbit** [+10]  (a day later)
 >> 
 >> I've never seen the definition of: vegetable=quadriplegic used and calling Hawking a vegetable jumps out as a very poor use of language.
->> A vegetative state is a real medical term that means they're reactive but not conscious, basically if you feed/move them they will swallow/flinch but there's no higher functions like consciousness.
 >> 
+>> A vegetative state is a real medical term that means they're reactive but not conscious, basically if you feed/move them they will swallow/flinch but there's no higher functions like consciousness.
 
->> **u/Norseman2** [+2] *
+>> **u/Norseman2** [+2]  (a day later)
 >> 
 >> >If you land in literally any configuration besides feet-first, you're done.
->> Eh, that depends. Consider [Ivan Chisov](https://en.wikipedia.org/wiki/Ivan_Chisov). He passed out while falling from 23,000 feet and survived after landing on a snowy ravine, albeit with spinal fractures and a broken pelvis. Slopes and snow are a pretty decent choice for a landing, so it's easy to see how you might survive even if you landed ass-first.
->> I'll add that for relatively smooth, snowy slopes, if you've figured out how to do [tracking](https://en.wikipedia.org/wiki/Tracking_\(skydiving\)), you could try to glide in the direction of the slope. Considering that nearly 1:1 glide ratios are possible, and some ski slopes are [steeper than that](https://en.wikipedia.org/wiki/Extreme_skiing), you could conceivably achieve a soft landing on the slope and end it with a long slide down.
->> Overall, I think the most important question is not how you land but where you land. You need something to break your fall if you're going to survive. That could be snow, trees, brush, or buildings with [weak roof structures](https://en.wikipedia.org/wiki/Alan_Magee). Pretty much anything other than water or flat open ground gives you a chance, even if you're still unconscious at the time of impact.
 >> 
+>> Eh, that depends. Consider [Ivan Chisov](https://en.wikipedia.org/wiki/Ivan_Chisov). He passed out while falling from 23,000 feet and survived after landing on a snowy ravine, albeit with spinal fractures and a broken pelvis. Slopes and snow are a pretty decent choice for a landing, so it's easy to see how you might survive even if you landed ass-first.
+>> 
+>> I'll add that for relatively smooth, snowy slopes, if you've figured out how to do [tracking](https://en.wikipedia.org/wiki/Tracking_\(skydiving\)), you could try to glide in the direction of the slope. Considering that nearly 1:1 glide ratios are possible, and some ski slopes are [steeper than that](https://en.wikipedia.org/wiki/Extreme_skiing), you could conceivably achieve a soft landing on the slope and end it with a long slide down.
+>> 
+>> Overall, I think the most important question is not how you land but where you land. You need something to break your fall if you're going to survive. That could be snow, trees, brush, or buildings with [weak roof structures](https://en.wikipedia.org/wiki/Alan_Magee). Pretty much anything other than water or flat open ground gives you a chance, even if you're still unconscious at the time of impact.
 
 ---
 

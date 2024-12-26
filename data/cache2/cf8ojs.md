@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/cf8ojs/d_friday_open_thread/
-* Score: 23
+* Score: 22
 
 * Created: 2019-07-19T15:07:29
 
@@ -16,256 +16,280 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/ratthrow** [+21] *
+> **u/ratthrow** [+21]  (2 hours later)
 > 
 > I've spent the last month and a half teaching myself to use the Dvorak keyboard. This has been one of my worst decisions in recent memory. My QWERTY speed was 120+ wpm burst and 100+ sustained. After 80+ hours of typing I reached 90+ wpm peak and 70wpm sustained with Dvorak at which point I decided to switch back to QWERTY.
-> I feel like I've wasted a significant portion of the last six weeks. Dvorak is marginally more comfortable to type with but I've never had issues with RSIs and the advantages aren't enough to overcome the enormous barrier to entry. The initial learning process felt awful. Being unable to comfortably interface with a computer made me feel literally handicapped. That, combined with the difficulty of overwriting a lifetime of muscle memory, and the inability to easily use any computer that isn't mine are what drove me back to QWERTY.
-> I'm currently cruising along at 60wpm after 1 day back to QWERTY. Feels bad man.
 > 
+> I feel like I've wasted a significant portion of the last six weeks. Dvorak is marginally more comfortable to type with but I've never had issues with RSIs and the advantages aren't enough to overcome the enormous barrier to entry. The initial learning process felt awful. Being unable to comfortably interface with a computer made me feel literally handicapped. That, combined with the difficulty of overwriting a lifetime of muscle memory, and the inability to easily use any computer that isn't mine are what drove me back to QWERTY.
+> 
+> I'm currently cruising along at 60wpm after 1 day back to QWERTY. Feels bad man.
 
->> **u/Hypervisor** [+10] *
+>> **u/Hypervisor** [+11]  (4 hours later)
 >> 
 >> Past studies showed a significant advantage for Dvorak over QWERTY  only because they compared trained Dvorak typists with untrained QWERTY typists. 
->> When you train both groups for the same amount of time Dvorak only gets something like an extra 5% WPM . Which isn't worth it for pretty much anyone. Only if you enter typist competitions you will actually get to have an advantage.
 >> 
+>> When you train both groups for the same amount of time Dvorak only gets something like an extra 5% WPM . Which isn't worth it for pretty much anyone. Only if you enter typist competitions you will actually get to have an advantage.
 
->> **u/jaczac** [+7]  *D-Class Subjects**
+>> **u/jaczac** [+7]  *D-Class Subjects* (4 hours later)
 >> 
 >> I currently use colemak and I regret it. Its been about two years since my switch and I’m now pretty much stuck. My qwerty WPM is soemwhere around 30 and whenever I use other keyboards I have to look at the keys, not to mention my constant struggle against random applications that refuse to accept the alternate layout.
->> However, my usual speed is back to normal and has increased marginally(~85 with qwerty to ~90 with colemak).
 >> 
+>> However, my usual speed is back to normal and has increased marginally(~85 with qwerty to ~90 with colemak).
 
->>> **u/ratthrow** [+2] *
+>>> **u/ratthrow** [+2]  (5 hours later)
 >>> 
 >>> Luckily Dvorak is a standard input option for Linux and Windows so I never had to struggle with apps not accepting my input correctly. It was more the locations of ctrl+z/x/c/v that drove me nuts.
->>> Why did you switch in the first place? What made you stick with it?
 >>> 
+>>> Why did you switch in the first place? What made you stick with it?
 
->>>> **u/jaczac** [+2]  *D-Class Subjects**
+>>>> **u/jaczac** [+2]  *D-Class Subjects* (6 hours later)
 >>>> 
 >>>> During my mechanical keyboard phase I had a summer job where I did very little on a laptop all day. I type a lot for school so I figured I'd take preventative measures against RSI. I chose colemak specifically because zxcvqw are all in the same place, which meant no problems with commands. I stuck with it because by the time I'd realized the issues with it I was honestly too lazy to switch back.
->>>> 
 
->> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor* (23 hours later)
 >> 
 >> I switched to Dvorak after getting RSI and found my fingers getting much less sweaty and tired.  The RSI never came back.  I don't know anything about speed or accuracy though, and have no impressions of increases there - feels slightly slower if anything.
->> 
 
->> **u/sfinebyme** [+3] *
+>> **u/sfinebyme** [+3]  (6 hours later)
 >> 
 >> Ain't just you. I spent a huge chunk of time learning Dvorak back in the early 2000's and it was interesting, but a complete waste of time as anything other than a curiosity. I'd never go back.
->> 
 
->> **u/I_Probably_Think** [+2] *
+>> **u/I_Probably_Think** [+2]  (3 hours later)
 >> 
 >> Yeah, lack of cross compatibility is really frustrating; I have a few friends who use it and I casually tried learning (so I could use *their* keyboards....) but qwerty is just too entrenched :(
->> 
 
->> **u/ketura** [+1]  *Organizer**
+>> **u/ketura** [+1]  *Organizer* (4 hours later)
 >> 
 >> Learning curve is something that I've heard can be simplified with software. As in, you only switch over a few letters a week, and gradually change over.
->> 
 
->>> **u/ratthrow** [+3] *
+>>> **u/ratthrow** [+3]  (5 hours later)
 >>> 
 >>> This is indeed a popular approach to learning Colemak, the third most popular keyboard layout. The transition layouts are called Tarmak 1, 2, 3, and 4.
->>> I went in cold turkey because I couldn't easily find anything similar for Dvorak.
 >>> 
+>>> I went in cold turkey because I couldn't easily find anything similar for Dvorak.
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (23 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/ratthrow** [+1] *
+>>>>> **u/ratthrow** [+1]  (a day later)
 >>>>> 
 >>>>> > When I learned a new layout on the side and continued using my default one during the day, it took me two months of daily 10-minute sessions to become fluent.
->>>>> Huh, interesting. When you say fluent, does that mean your typing speed and accuracy is comparable to your primary keyboard? How fast do you normally type?
 >>>>> 
+>>>>> Huh, interesting. When you say fluent, does that mean your typing speed and accuracy is comparable to your primary keyboard? How fast do you normally type?
 
-> **u/Roxolan** [+15]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+15]  *Head of antimemetiWalmart senior assistant manager* (4 hours later)
 > 
 > You are the half-brother of Mungaro, dictator of Venebabwe. Venebabwe is a third world country of largely subsistence farmers, whose economy is buoyed by massive oil reserves. Since the locals do not have the technical skills to exploit them, your half-brother signed extremely generous extraction right deals with various foreign companies.
-> Mungaro was immature, reckless, and economically ignorant. Over the years he wasted fortunes on luxuries, bribes, and ill-fated public projects, until he was routinely relying on printing money to pay the bills. The result was spiralling inflation. 
-> Mungaro soon grew angry at all those conniving foreigners who profited off Venebabwe's oil and debt interest and refused to accept repayment in trillion-dollar Venebabwean bills. Eventually, Mungaro defaulted on foreign loans, kicked all foreigners out of the country, and appropriated their companies - much of which were dismantled for quick cash.
-> Two years later, the country was in such abject poverty and chaos that the military rallied around you, murdered Mungaro, and put you in his place.
-> **How do you put your country on the path to recovery?**
-> On paper, Venebabwe is a very wealthy country. But you have neither the infrastructure, nor the skilled labour to extract the oil yourself. Nor the treasury to buy your own machinery and hire foreign experts (if any could be convinced to come). 
-> Normally, the solution would be to find investors. But after this debacle, nobody would be crazy enough to invest in Venebabwe without taking a HUGE cut. And that's a vicious circle of sorts: the more outrageous the cut, the more worried they'll be that one day you'll snap and declare the contracts invalid because unfair, like your half-brother did. To price in this risk, they'll need a bigger cut, and so on.
 > 
+> Mungaro was immature, reckless, and economically ignorant. Over the years he wasted fortunes on luxuries, bribes, and ill-fated public projects, until he was routinely relying on printing money to pay the bills. The result was spiralling inflation. 
+> 
+> Mungaro soon grew angry at all those conniving foreigners who profited off Venebabwe's oil and debt interest and refused to accept repayment in trillion-dollar Venebabwean bills. Eventually, Mungaro defaulted on foreign loans, kicked all foreigners out of the country, and appropriated their companies - much of which were dismantled for quick cash.
+> 
+> Two years later, the country was in such abject poverty and chaos that the military rallied around you, murdered Mungaro, and put you in his place.
+> 
+> **How do you put your country on the path to recovery?**
+> 
+> On paper, Venebabwe is a very wealthy country. But you have neither the infrastructure, nor the skilled labour to extract the oil yourself. Nor the treasury to buy your own machinery and hire foreign experts (if any could be convinced to come). 
+> 
+> Normally, the solution would be to find investors. But after this debacle, nobody would be crazy enough to invest in Venebabwe without taking a HUGE cut. And that's a vicious circle of sorts: the more outrageous the cut, the more worried they'll be that one day you'll snap and declare the contracts invalid because unfair, like your half-brother did. To price in this risk, they'll need a bigger cut, and so on.
 
->> **u/MugaSofer** [+7] *
+>> **u/MugaSofer** [+6]  (9 hours later)
 >> 
 >> >Normally, the solution would be to find investors. But after this debacle, nobody would be crazy enough to invest in Venebabwe without taking a HUGE cut. And that's a vicious circle of sorts: the more outrageous the cut, the more worried they'll be that one day you'll snap and declare the contracts invalid because unfair, like your half-brother did. To price in this risk, they'll need a bigger cut, and so on.
->> Contracts that start out obscenely generous and slowly reduce to merely reasonable over time seem like a solution to this.
 >> 
+>> Contracts that start out obscenely generous and slowly reduce to merely reasonable over time seem like a solution to this.
 
->> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor* (23 hours later)
 >> 
 >> Dollarizing isn't a terrible step, but switching the whole country to crypto might be an even better step - my main qualm is transaction volumes of existing currencies and that it'd make it harder to do NGDPLT, the main benefit is that investors have superior liquidity for moving funds in and out of your country.
->> If you can liberalize business laws very quickly without being overthrown, it's not an unconvincing signal of future reliability.  Most banana dictatorships do *not* quickly adopt very good business laws on paper.
->> Aside from that, if you have one good advisor, cooperating heavily with the UN development folks except where the advisor says otherwise will go a very long way.  Scott Sumner would be an obvious pick for advisor and I know various other folks who could probably do the same.
 >> 
+>> If you can liberalize business laws very quickly without being overthrown, it's not an unconvincing signal of future reliability.  Most banana dictatorships do *not* quickly adopt very good business laws on paper.
+>> 
+>> Aside from that, if you have one good advisor, cooperating heavily with the UN development folks except where the advisor says otherwise will go a very long way.  Scott Sumner would be an obvious pick for advisor and I know various other folks who could probably do the same.
 
->> **u/jtolmar** [+3] *
+>> **u/jtolmar** [+3]  (18 hours later)
 >> 
 >> Maintain your sovereign currency, manage it correctly, and use it internally, but conduct trade in USD and keep a reserve of USD. Do not sell rights to natural resources to foreign investors; make money with exports.
->> Attract talent by offering generous deals to skilled laborers willing to immigrate. You'll have a hard time to start with because your country's currency doesn't buy much, but you can always offer land. You may have to attract farm specialists first (more likely to be motivated by land) before you can get to experts who can start more exciting industries. Whoever you get will improve your exports (so you can get USD that other countries will accept) and the availability of goods in your own economy (so your currency is worth something, so you can more successfully bribe skilled laborers to relocate).
->> Once you have enough money to start extracting oil (hiring foreign contractors to set up the infrastructure if needed, buying materials and machinery you can't produce in your country), do that. Your country has complete ownership of its own oil extraction, so you get the maximum possible cut. Export the oil and use the proceeds to improve infrastructure.
->> Your improved infrastructure might be more oil fields (so you can export more oil, repeat). You might also decide to kickstart other industries, so your local currency is worth more, so paying skilled immigrants in your own currency is more convincing, so you don't need to pay for foreign contractors. Keep doing the math on that each iteration, because it depends on scale and the oil market.
 >> 
+>> Attract talent by offering generous deals to skilled laborers willing to immigrate. You'll have a hard time to start with because your country's currency doesn't buy much, but you can always offer land. You may have to attract farm specialists first (more likely to be motivated by land) before you can get to experts who can start more exciting industries. Whoever you get will improve your exports (so you can get USD that other countries will accept) and the availability of goods in your own economy (so your currency is worth something, so you can more successfully bribe skilled laborers to relocate).
+>> 
+>> Once you have enough money to start extracting oil (hiring foreign contractors to set up the infrastructure if needed, buying materials and machinery you can't produce in your country), do that. Your country has complete ownership of its own oil extraction, so you get the maximum possible cut. Export the oil and use the proceeds to improve infrastructure.
+>> 
+>> Your improved infrastructure might be more oil fields (so you can export more oil, repeat). You might also decide to kickstart other industries, so your local currency is worth more, so paying skilled immigrants in your own currency is more convincing, so you don't need to pay for foreign contractors. Keep doing the math on that each iteration, because it depends on scale and the oil market.
 
->> **u/LazarusRises** [+5] *
+>> **u/LazarusRises** [+5]  (5 hours later)
 >> 
 >> Depends on your priorities.
->> If you value your citizens' well-being higher than Venebabwe's autonomy or your other political/philosophical ideals, just bend the knee to a more powerful country. Tell the United Provinces of Columbiana that you'll give them exclusive drilling rights to a few million acres of prime oil field in exchange for disaster relief. They'll probably make you a figurehead who dances to their tune, but they'll also install a heavy military presence (useful since obviously your current military isn't particularly loyal, and you have to be careful of any lingering cells of Mungaro loyalists) and rebuild your roads, hospitals and schools. If you don't trust them, try to broker a deal where you auction off slices of oil field to Allemany, Gaul and Bretony in exchange for oversight and their own contributions to restoring infrastructure. 
->> You're also going to want to make it really attractive for foreigners to buy property and run businesses, so offer huge tax breaks. Not a huge loss since most of your big money will be coming from state coffers anyway, you mostly want the foreigners there to pump money into local economies and fuel job creation.
 >> 
+>> If you value your citizens' well-being higher than Venebabwe's autonomy or your other political/philosophical ideals, just bend the knee to a more powerful country. Tell the United Provinces of Columbiana that you'll give them exclusive drilling rights to a few million acres of prime oil field in exchange for disaster relief. They'll probably make you a figurehead who dances to their tune, but they'll also install a heavy military presence (useful since obviously your current military isn't particularly loyal, and you have to be careful of any lingering cells of Mungaro loyalists) and rebuild your roads, hospitals and schools. If you don't trust them, try to broker a deal where you auction off slices of oil field to Allemany, Gaul and Bretony in exchange for oversight and their own contributions to restoring infrastructure. 
+>> 
+>> You're also going to want to make it really attractive for foreigners to buy property and run businesses, so offer huge tax breaks. Not a huge loss since most of your big money will be coming from state coffers anyway, you mostly want the foreigners there to pump money into local economies and fuel job creation.
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (7 hours later)
 >> 
 >> Cooperate as much as possible with the UN, international monetary fund, and world bank. There are a lot of very smart people who've dedicated their lives to trying to fix the economies of struggling countries, and I'm sure they could do wonders with a cooperative absolute dictator.
->> 
 
->> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (16 hours later)
 >> 
 >> Before anything else, I announce that the legal currency of my government will be the dollar.
->> Now, since my nation has english as an official, albeit not majority language due to its history as a colony of Albion, I petition the Federated Provinces of Columbia for annexation. It's extremely unlikely to work, but it makes for an excellent political stunt cleanly separating me from my anti-globalist brother.
->> From there, my fallback plan is to make myself essentially a military puppet, but not an economic puppet of the FPC as I present my nation as a staging ground for their military bases in the area. This in turn lets me reduce the size of the doubtlessly bloated and too-powerful military without fear of a coup because I'll be propped up by the FPC soldiers I've invited into my nation. This lets me invest money into humanitarian relief, development programs, and beginning the process of restarting local and regional elections.
->> Now, while international observers will attest to the fact that these elections are indeed free and fair, there will be doubts over my willingness to hold free and fair elections that have the potential to replace me. To that end, I'll propose that Venebabwa become a constitutional monarchy. "What the fuck?" The rest of the world responds. But as I explain further, they see my plan. Venebabwe's new constitution will substantially resemble the FPC's system with a three-branch government including a supreme court, bicameral legislature, and first citizen. My *only* power as the Archduke of the newly proclaimed Grand Duchy of Venebabwe will be to demand the resignation of the First Citizen and subsequently an election for a new First Citizen. (To make sure this isn't a power I hold only in name, I'll make sure that, ceremonially at least, First Citizens hitting the end of their term are always "dismissed" by me, so the populace grows used to me using this power.)
->> This essentially guarantees pro-western leaders will stay in power for the near future, greatly increasing confidence in my country.
->> And if somehow this convoluted plan works, everything after that is just rebuilding the economy with obvious, but laborious methods.
 >> 
+>> Now, since my nation has english as an official, albeit not majority language due to its history as a colony of Albion, I petition the Federated Provinces of Columbia for annexation. It's extremely unlikely to work, but it makes for an excellent political stunt cleanly separating me from my anti-globalist brother.
+>> 
+>> From there, my fallback plan is to make myself essentially a military puppet, but not an economic puppet of the FPC as I present my nation as a staging ground for their military bases in the area. This in turn lets me reduce the size of the doubtlessly bloated and too-powerful military without fear of a coup because I'll be propped up by the FPC soldiers I've invited into my nation. This lets me invest money into humanitarian relief, development programs, and beginning the process of restarting local and regional elections.
+>> 
+>> Now, while international observers will attest to the fact that these elections are indeed free and fair, there will be doubts over my willingness to hold free and fair elections that have the potential to replace me. To that end, I'll propose that Venebabwa become a constitutional monarchy. "What the fuck?" The rest of the world responds. But as I explain further, they see my plan. Venebabwe's new constitution will substantially resemble the FPC's system with a three-branch government including a supreme court, bicameral legislature, and first citizen. My *only* power as the Archduke of the newly proclaimed Grand Duchy of Venebabwe will be to demand the resignation of the First Citizen and subsequently an election for a new First Citizen. (To make sure this isn't a power I hold only in name, I'll make sure that, ceremonially at least, First Citizens hitting the end of their term are always "dismissed" by me, so the populace grows used to me using this power.)
+>> 
+>> This essentially guarantees pro-western leaders will stay in power for the near future, greatly increasing confidence in my country.
+>> 
+>> And if somehow this convoluted plan works, everything after that is just rebuilding the economy with obvious, but laborious methods.
 
-> **u/lumenwrites** [+11] *
+> **u/lumenwrites** [+11]  (6 hours later)
 > 
 > If you really believe that we will see AGI within our lifetime (to me it seems at least likely), it kinda devalues literally everything else a person can do in the meantime. Like, logically, isn't working on AI(or trying to get in a position where you can influence it's development) the only meaningful thing left to do?
-> Do you agree? If yes, then how do you reconcile this with doing other stuff with your life? Personally, I don't have enough aptitude/intelligence to contribute to the field(I won't be making original discoveries any time soon, if ever), but I'm also having trouble finding motivation to do other stuff, that's not related to AI, because it seems meaningless.
 > 
+> Do you agree? If yes, then how do you reconcile this with doing other stuff with your life? Personally, I don't have enough aptitude/intelligence to contribute to the field(I won't be making original discoveries any time soon, if ever), but I'm also having trouble finding motivation to do other stuff, that's not related to AI, because it seems meaningless.
 
->> **u/Veedrac** [+19] *
+>> **u/Veedrac** [+20]  (10 hours later)
 >> 
 >> If someone dies of malaria today, the future of technology is irrelevant to them. If a mental health worker helps someone recover from traumatic stress, that help has impact and meaning today. Rationalists can get stuck overthinking things, and this looks like that. Figure out what meaning means to you, and run with it.
->> 
 
->>> **u/lumenwrites** [+1] *
+>>> **u/lumenwrites** [+1]  (10 hours later)
 >>> 
 >>> Yeah, but I'm no doctor.
->>> I can be good at 3D graphics, web development, *maybe* writing. None of this saves lives, and all of this will be done better by AI (and, to be honest, by more talented people), no matter what I create. I can use these skills to make some money, but that's the extent of it - nothing I make will have lasting value.
 >>> 
+>>> I can be good at 3D graphics, web development, *maybe* writing. None of this saves lives, and all of this will be done better by AI (and, to be honest, by more talented people), no matter what I create. I can use these skills to make some money, but that's the extent of it - nothing I make will have lasting value.
 
->>>> **u/Veedrac** [+10] *
+>>>> **u/Veedrac** [+11]  (11 hours later)
 >>>> 
 >>>> But we're already in a much better place to start answering your question: not ‘isn't working on AI the only meaningful thing left to do?’ but ‘what software tasks will have lasting value?’
->>>> Here's my follow-up. Which of these situations is more valuable to you, creating some software that a decent number of people will derive value from for the next 100 years, or creating some software that a thousand times as many people will derive similar value from for the next 10?
 >>>> 
+>>>> Here's my follow-up. Which of these situations is more valuable to you, creating some software that a decent number of people will derive value from for the next 100 years, or creating some software that a thousand times as many people will derive similar value from for the next 10?
 
->>>>> **u/lumenwrites** [+3] *
+>>>>> **u/lumenwrites** [+3]  (11 hours later)
 >>>>> 
 >>>>> Yeah, I guess focusing on more short-term pre-AI values does kinda make sense, it would be nice to make something that would be useful for a decade or two.
->>>>> It still kinda sucks. It's like being a guy who lived next to Tesla or Einstein or Aristotle, had a good life, spent his time making shoes or cooking or whatever, but didn't end up doing anything that matters now.
->>>>> Or even worse, being a less successful younger brother of that ape who ended up being the ancestor of all the humans =) Imagine spending your life having a good time, finding a mate, collecting berries, generally being a great and nice monkey, while some guy next to you will end up creating a human race)
->>>>> I'm joking around, but it's kinda hard to be excited about shorter-term narrower values, when right next to you something big and important is happening, and no matter what you do, it'll make your work irrelevant.
->>>>> I can make a website or an app or an indie game, have fun doing that, make some money, and bring a bit of value to other people, but I can't convince myself that it's really important/meaningful anymore. And that makes it difficult to push through the hard/boring parts of any project. It's much easier to do hard work when you believe it's "worth" it.
 >>>>> 
+>>>>> It still kinda sucks. It's like being a guy who lived next to Tesla or Einstein or Aristotle, had a good life, spent his time making shoes or cooking or whatever, but didn't end up doing anything that matters now.
+>>>>> 
+>>>>> Or even worse, being a less successful younger brother of that ape who ended up being the ancestor of all the humans =) Imagine spending your life having a good time, finding a mate, collecting berries, generally being a great and nice monkey, while some guy next to you will end up creating a human race)
+>>>>> 
+>>>>> I'm joking around, but it's kinda hard to be excited about shorter-term narrower values, when right next to you something big and important is happening, and no matter what you do, it'll make your work irrelevant.
+>>>>> 
+>>>>> I can make a website or an app or an indie game, have fun doing that, make some money, and bring a bit of value to other people, but I can't convince myself that it's really important/meaningful anymore. And that makes it difficult to push through the hard/boring parts of any project. It's much easier to do hard work when you believe it's "worth" it.
 
->>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (16 hours later)
 >>>>>> 
 >>>>>> >  but didn't end up doing anything that matters now.
->>>>>> I don't know. The great minds of the past need shoes: Ruth Bader Ginsberg no doubt had a legal clerk who helped her do legal research, helped her draft briefs. She no doubt had a favourite coffee shop where she got a nice cup of coffee that helped make her stressful life livable. She also ate food that a farmer grew. And, she wore shoes that a shoemaker made (or a shoemaking factory, but you get it)! And without those things, she would have been a less successful lawyer and judge. Maybe marginally so, but the success of every visionary in the world is owed to the scaffold of society that they were able to grow up in. If Ruth Bader Gingsberg was born in New Zealand in the year 1300, she probably would have been a great - I don't know, poi dancer? - but she was fortunate enough to be born where she could make more of a difference to the world.
->>>>>> So you make a difference. Maybe a barista reads one of your fanfic and it puts them in a good mood so they are extra nice to their customers and one of their customers is a secretary at a company that works with an AI institute and that secretary is all chipper after the nice barista, and so he has the energy to go the extra mile to organise some nicer flights to an AI conference for the people at his institute, and with those nicer flights the researchers are able to arrive in time for a networking event at the conference and they meet the other people who ultimately make friendly AI. 
->>>>>> The idea of all these connections may seem absolutely fantastical (well, it is), but think about your life. There's no doubt a few things that only happened because of a bunch of little coincidences. (Like, I stayed up late watching fireworks on Sunday night which meant I was still tired on Tuesday night so I didn't go to my normal board game night and instead went to the Wednesday one where I met a really cool seeming guy who I hopefully will become best friends with: if I hadn't stayed up late on Sunday or if I'd slept better SUnday or Monday night I might not be about to make a new friend, and friends have such a big effect on our life). 
->>>>>> So as long as you're not literally sitting in a cave, consuming but contributing ZERO to society, you're probably doing alright.
 >>>>>> 
+>>>>>> I don't know. The great minds of the past need shoes: Ruth Bader Ginsberg no doubt had a legal clerk who helped her do legal research, helped her draft briefs. She no doubt had a favourite coffee shop where she got a nice cup of coffee that helped make her stressful life livable. She also ate food that a farmer grew. And, she wore shoes that a shoemaker made (or a shoemaking factory, but you get it)! And without those things, she would have been a less successful lawyer and judge. Maybe marginally so, but the success of every visionary in the world is owed to the scaffold of society that they were able to grow up in. If Ruth Bader Gingsberg was born in New Zealand in the year 1300, she probably would have been a great - I don't know, poi dancer? - but she was fortunate enough to be born where she could make more of a difference to the world.
+>>>>>> 
+>>>>>> So you make a difference. Maybe a barista reads one of your fanfic and it puts them in a good mood so they are extra nice to their customers and one of their customers is a secretary at a company that works with an AI institute and that secretary is all chipper after the nice barista, and so he has the energy to go the extra mile to organise some nicer flights to an AI conference for the people at his institute, and with those nicer flights the researchers are able to arrive in time for a networking event at the conference and they meet the other people who ultimately make friendly AI. 
+>>>>>> 
+>>>>>> The idea of all these connections may seem absolutely fantastical (well, it is), but think about your life. There's no doubt a few things that only happened because of a bunch of little coincidences. (Like, I stayed up late watching fireworks on Sunday night which meant I was still tired on Tuesday night so I didn't go to my normal board game night and instead went to the Wednesday one where I met a really cool seeming guy who I hopefully will become best friends with: if I hadn't stayed up late on Sunday or if I'd slept better SUnday or Monday night I might not be about to make a new friend, and friends have such a big effect on our life). 
+>>>>>> 
+>>>>>> So as long as you're not literally sitting in a cave, consuming but contributing ZERO to society, you're probably doing alright.
 
->>>>>>> **u/lumenwrites** [+3] *
+>>>>>>> **u/lumenwrites** [+3]  (17 hours later)
 >>>>>>> 
 >>>>>>> Thank you for your reply!
->>>>>>> Personally, that level of contribution bums me out, but you're right, it's better than nothing.
->>>>>>> At this point I guess I'm just complaining about not being Elon-Musk-level genius, rather than anything related to AI...
 >>>>>>> 
+>>>>>>> Personally, that level of contribution bums me out, but you're right, it's better than nothing.
+>>>>>>> 
+>>>>>>> At this point I guess I'm just complaining about not being Elon-Musk-level genius, rather than anything related to AI...
 
->>>>>>>> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+>>>>>>>> **u/MagicWeasel** [+4]  *Cheela Astronaut* (17 hours later)
 >>>>>>>> 
 >>>>>>>> I swear one of the bloggers in the rationalsphere had a blog post about people who aren't AI researchers can make a difference in the world by essentially becoming maids for AI researchers, so that way the AI researchers don't have to cook or clean. I don't like this as it implies that the "elite" have a right to free work from the non-elite, but hey, probably also worth pointing out that you could do something like that if you really want to contribute.
->>>>>>>> 
 
->>>>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>>>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (22 hours later)
 >>>>>>>>> 
 >>>>>>>>> You may be thinking of [Ending the operations management bottleneck in effective altruism](https://80000hours.org/podcast/episodes/tanya-singh-operations-bottleneck/) with Nick Bostrom (Oxford professor, founder of the Future of Humanity Institute, author of an influential book about AGI risk...)'s executive assistant Tanya Singh.
->>>>>>>>> &nbsp;
->>>>>>>>> (I do vaguely recall a more "maid"-like post, but can't find it; maybe it was just a facebook discussion.)
 >>>>>>>>> 
+>>>>>>>>> &nbsp;
+>>>>>>>>> 
+>>>>>>>>> (I do vaguely recall a more "maid"-like post, but can't find it; maybe it was just a facebook discussion.)
 
->>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>>>>>>>>>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (23 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> Yeah, I do recall it specifically talking about cooking and/or cleaning. It was either by or about one of the Big Names in the community. 
->>>>>>>>>> In the end, I'm personally just being irrational and not trying to optimise my life around helping Friendly AI happen. My current job/career path is (hopefully) having a positive Effect on the World (like... I'm not "making shoes" but I'm not "literally Einstein" either - but let's not forget Einstein helped develop the technology for WMDs as well as revolutionising modern physics, so at least being a master shoemaker you can be pretty sure you're not going to be an intrinsic part of the causal chain that results in 400,000 people being killed?)
 >>>>>>>>>> 
+>>>>>>>>>> In the end, I'm personally just being irrational and not trying to optimise my life around helping Friendly AI happen. My current job/career path is (hopefully) having a positive Effect on the World (like... I'm not "making shoes" but I'm not "literally Einstein" either - but let's not forget Einstein helped develop the technology for WMDs as well as revolutionising modern physics, so at least being a master shoemaker you can be pretty sure you're not going to be an intrinsic part of the causal chain that results in 400,000 people being killed?)
 
->>>>>>>>>>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor**
+>>>>>>>>>>> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor* (23 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Well, it wasn't by me, before anyone gets any weird ideas on that account.
->>>>>>>>>>> 
 
->>>>>> **u/Veedrac** [+1] *
+>>>>>> **u/Veedrac** [+1]  (22 hours later)
 >>>>>> 
 >>>>>> When you look at the past you can see the tens of thousands of people that had lasting recognition, but what you don't see is the tens of billions who didn't. The spotlight can't stay shining on all but a tiny fraction of people—there's just not enough attention to go around to serve billions of ideas. Even if AI were not a thing, the pace of progress is moving so fast, that right next to you something big and important would still be happening, and only those with the expertise or circumstance needed to advance it will truly be a lasting part of that.
->>>>>> I guess what I'm trying to pick at is that if you can see the value that you can bring about today, that can more easily than ever effect literally millions of people, and still can't muster any hope for it, the challenge seems less about the specifics of the outside world and more about your brain chemistry. I don't know how to fix the latter, else I'd be a more motivated person myself, but I do tend to trust that solutions are easiest when you look in the right direction.
->>>>>> I will say, though, if you're looking for impact... think bigger than ‘an indie game’. There is so much low hanging fruit here; computer science is intensely young and naïve, and you really can impact the state of the industry for a mere large number of people. If you've thought for a week—or better, [five minutes of extraordinary effort](https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible), by the clock, with a timer—and really can't see where to start, PM me and I'll share a few ideas rattling around in my head.
 >>>>>> 
+>>>>>> I guess what I'm trying to pick at is that if you can see the value that you can bring about today, that can more easily than ever effect literally millions of people, and still can't muster any hope for it, the challenge seems less about the specifics of the outside world and more about your brain chemistry. I don't know how to fix the latter, else I'd be a more motivated person myself, but I do tend to trust that solutions are easiest when you look in the right direction.
+>>>>>> 
+>>>>>> I will say, though, if you're looking for impact... think bigger than ‘an indie game’. There is so much low hanging fruit here; computer science is intensely young and naïve, and you really can impact the state of the industry for a mere large number of people. If you've thought for a week—or better, [five minutes of extraordinary effort](https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible), by the clock, with a timer—and really can't see where to start, PM me and I'll share a few ideas rattling around in my head.
 
->>>>>> **u/MilesSand** [+1] *
+>>>>>> **u/MilesSand** [+1]  (17 hours later)
 >>>>>> 
 >>>>>> >that ape who ended up being the ancestor of all the humans
->>>>>> Ghengis Khan?  Well I guess he still has a few generations to go before it's official.
 >>>>>> 
+>>>>>> Ghengis Khan?  Well I guess he still has a few generations to go before it's official.
 
->>>> **u/MilesSand** [+1] *
+>>>> **u/MilesSand** [-2]  (17 hours later)
 >>>> 
 >>>> Having studied a bit about AI development, AGI is a pipe dream from the 80's and it became pretty clear that it's an unrealistic ambition very early on.
-
->>>> AI is only better than human intelligence when specialized to a very specific task. (Such as playing chess as long as it doesn't also have to be able to recognize a chess piece). AI doing more than one thing is actually multiple highly specialized AI, each of which had to be programmed separately (knowing how to play chess on a physical board takes at least 3 separate AIs and some non-AI industrial automation besides).
->>>> So why focus on other things? Because you'll actually have a chance to acheive them.
 >>>> 
+>>>> AI is only better than human intelligence when specialized to a very specific task. (Such as playing chess as long as it doesn't also have to be able to recognize a chess piece). AI doing more than one thing is actually multiple highly specialized AI, each of which had to be programmed separately (knowing how to play chess on a physical board takes at least 3 separate AIs and some non-AI industrial automation besides).
+>>>> 
+>>>> So why focus on other things? Because you'll actually have a chance to acheive them.
 
->> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager* (7 hours later)
 >> 
 >> Some people make cases for other existential risks. AI can't be invented by radioactive corpses. But I don't imagine you're the perfect fit in those fields either.
->> The truth is that most people don't have the abilities to make a useful contribution to the cause through direct work.
->> So, take a page from effective altruists. Find a well-paying job you're suited to, and donate part of your income to [AI alignment research organisations](https://www.openphilanthropy.org/research/cause-reports/ai-risk#Organizations_working_in_this_space). They'll use it to hire someone to do what you cannot. 
->> They're all small enough that an individual donation is not a drop in the ocean, if that matters to you.
->> &nbsp;
->> 10% of one's income is the commonly used figure, because it's nice and round and it stops overly-conscientious people from burning out.
->> &nbsp;
->> (This answer applies to most people who feel an ethical burden, even if they're not on board the AGI train. Whatever your pet cause is, unless you're unusually talented in that specific field, your money typically does more good than your actions.)
 >> 
+>> The truth is that most people don't have the abilities to make a useful contribution to the cause through direct work.
+>> 
+>> So, take a page from effective altruists. Find a well-paying job you're suited to, and donate part of your income to [AI alignment research organisations](https://www.openphilanthropy.org/research/cause-reports/ai-risk#Organizations_working_in_this_space). They'll use it to hire someone to do what you cannot. 
+>> 
+>> They're all small enough that an individual donation is not a drop in the ocean, if that matters to you.
+>> 
+>> &nbsp;
+>> 
+>> 10% of one's income is the commonly used figure, because it's nice and round and it stops overly-conscientious people from burning out.
+>> 
+>> &nbsp;
+>> 
+>> (This answer applies to most people who feel an ethical burden, even if they're not on board the AGI train. Whatever your pet cause is, unless you're unusually talented in that specific field, your money typically does more good than your actions.)
 
->> **u/anenymouse** [+3] *
+>> **u/anenymouse** [+3]  (7 hours later)
 >> 
 >> If you're having trouble finding motivation doing other stuff because it might be meaningless, what are you doing to enjoy your time in general? To take the general Existentialist position, that just because things don't matter in general that you probably have something that you personally enjoy doing even if it's not necessarily something that, uh affects the general human progression. Conversely if as you say the only thing that matters is AI research, and you can't or are unwilling to try anything about it then within that frame nothing that you do will matter, and why worry about it if your actions already don't matter?
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (7 hours later)
 >> 
 >> >If you really believe that we will see AGI within our lifetime (to me it seems at least likely), it kinda devalues literally everything else a person can do in the meantime. Like, logically, isn't working on AI(or trying to get in a position where you can influence it's development) the only meaningful thing left to do?
->> What do you define as "meaningful"?
->> >Do you agree? If yes, then how do you reconcile this with doing other stuff with your life? Personally, I don't have enough aptitude/intelligence to contribute to the field(I won't be making original discoveries any time soon, if ever), but I'm also having trouble finding motivation to do other stuff, that's not related to AI, because it seems meaningless.
->> No reason you have to directly contribute to AI to contribute to AI. You can work any job and donate the surplus wages to AI research.
 >> 
+>> What do you define as "meaningful"?
+>> 
+>> >Do you agree? If yes, then how do you reconcile this with doing other stuff with your life? Personally, I don't have enough aptitude/intelligence to contribute to the field(I won't be making original discoveries any time soon, if ever), but I'm also having trouble finding motivation to do other stuff, that's not related to AI, because it seems meaningless.
+>> 
+>> No reason you have to directly contribute to AI to contribute to AI. You can work any job and donate the surplus wages to AI research.
 
->> **u/laegrim** [+2] *
+>> **u/laegrim** [+2]  (8 hours later)
 >> 
 >> I also think it's likely that we'll see AGI in the next 20-100 years, but I don't agree that fact devalues everything else a person can do for a couple reasons:
->> 1. While I think that on many tasks task specific AI will have seriously superhuman performance, I don't necessarily think that translates to superhuman AGI. In fact I give it even odds that AGI plateaus roughly around human level.
->> 2. The value of what you do will always have a subjective component.
->> Even without AGI, task specific AI will have a huge impact on human labor in the next few decades - so you should already be thinking about what you can be doing in that intersection of things that make you happy and things that might have monetary value. As the value of your labor drops, perhaps because of AI or AGI, that subjective value doesn't and becomes a larger share of the reason to do things. If AGI happens to roll around, then the more superhuman that AGI is the closer the share of subjective value as a reason to do something gets to total.
->> If learning about AI makes you happy, I'd encourage you to continue to do do that! That's why I study machine/reinforcement learning; the expectation that I'll meaningfully contribute to the field doesn't really play a part. I never really bought into the idea that these fields have more intrinsic value though (Either the Utilitarian or the Roko's Basilisk style arguments), and if something else makes you happier you should feel free to focus elsewhere.
 >> 
+>> 1. While I think that on many tasks task specific AI will have seriously superhuman performance, I don't necessarily think that translates to superhuman AGI. In fact I give it even odds that AGI plateaus roughly around human level.
+>> 
+>> 2. The value of what you do will always have a subjective component.
+>> 
+>> Even without AGI, task specific AI will have a huge impact on human labor in the next few decades - so you should already be thinking about what you can be doing in that intersection of things that make you happy and things that might have monetary value. As the value of your labor drops, perhaps because of AI or AGI, that subjective value doesn't and becomes a larger share of the reason to do things. If AGI happens to roll around, then the more superhuman that AGI is the closer the share of subjective value as a reason to do something gets to total.
+>> 
+>> If learning about AI makes you happy, I'd encourage you to continue to do do that! That's why I study machine/reinforcement learning; the expectation that I'll meaningfully contribute to the field doesn't really play a part. I never really bought into the idea that these fields have more intrinsic value though (Either the Utilitarian or the Roko's Basilisk style arguments), and if something else makes you happier you should feel free to focus elsewhere.
 
-> **u/BrightSage** [+6] *
+> **u/BrightSage** [+7]  (14 hours later)
 > 
 > In the fanfiction *Luminosity*, Bella uses a journaling technique for analysis of her previous thoughts. 
+> 
 >           I pinned my thoughts onto paper, 
 >           they couldn't escape later. Without 
 >           that kind of enforcement, they 
@@ -277,30 +301,31 @@ Please note that this thread has been merged with the Monday General Rationality
 >           forgotten altogether, which was 
 >           even worse (those thoughts 
 >           were mine, and I wanted them).
-> Does anyone have experience with this method? Did you find it at all effective? Are their any guides to this I could read, any recommendations you could offer?
 > 
+> Does anyone have experience with this method? Did you find it at all effective? Are their any guides to this I could read, any recommendations you could offer?
 
->> **u/_brightwing** [+5]  *Feathered menace**
+>> **u/_brightwing** [+4]  *Feathered menace* (14 hours later)
 >> 
 >> I regularly keep a journal and it is fascinating how different our emotional states can be from one moment to the next.  It's soothing to be  to write down all these things that happened and gives me an opportunity to think about them from different angles. I'm careful not to plunge myself into maladaptive self reflection though (like power or victim fantasies about a negative social interaction) and keep things constructive. Putting my thoughts into words are so useful to keep track of them this way.
->> I used to write them out, but now it's just more convenient to type them out - I can search through older entries easier this way. I'd recommend using something like evernote so you can jot down things on the go too. Every six months I archive them into an epub.
 >> 
+>> I used to write them out, but now it's just more convenient to type them out - I can search through older entries easier this way. I'd recommend using something like evernote so you can jot down things on the go too. Every six months I archive them into an epub.
 
-> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+> **u/xamueljones** [+6]  *My arch-enemy is entropy* (5 hours later)
 > 
 > Whelp due to an unacceptably high risk of getting cavities and after 3 of them, I got my wisdom teeth out today.
-> I opted to be awake for the procedure and decided to scribble down what I felt while high as a kite in the car ride back. Already a few hours afterward I have forgotten what it felt like to be in that altered state but it's really interesting to reread what I wrote.
-> Does anyone have any questions about wisdom teeth removal or want me to share my drugged up notes?
 > 
+> I opted to be awake for the procedure and decided to scribble down what I felt while high as a kite in the car ride back. Already a few hours afterward I have forgotten what it felt like to be in that altered state but it's really interesting to reread what I wrote.
+> 
+> Does anyone have any questions about wisdom teeth removal or want me to share my drugged up notes?
 
->> **u/ChiefofMind** [+4] *
+>> **u/ChiefofMind** [+4]  (5 hours later)
 >> 
 >> When I've been in a similar position, my drugged up self was terrified of dying as I regained sobriety. Is that something you experienced? Or at least wrote about?
->> 
 
->>> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+4]  *My arch-enemy is entropy* (10 hours later)
 >>> 
 >>> Here's my notes as I was scribbling down my impressions within 20 minutes of getting up afterwards. I deliberately left in the messed up punctuation:
+>>> 
 >>> >Surgery was very weird and interesting  
 >>> >  
 >>> >Started breathing laughing gas which smelled like rubber and mint  
@@ -344,93 +369,86 @@ Please note that this thread has been merged with the Monday General Rationality
 >>> >My mouth tastes like blood and ashes and numb as hell. But I feel pretty well afterwards. Not sleepy but don't really want to get up and move around. Just need to lie down and hope that recovery goes well.  
 >>> >  
 >>> >Suspect that I was awake for the whole thing but the memories never made it to long term storage so it just feels like I slept through it all.
->>> So yeah, I didn't have very strong emotional reactions other than the desire to hug someone. But I was incredibly fascinated by how I could clearly feel my perceptions (vision and touch mainly) being so distorted and was in a constant loop of thinking about my sensory inputs, thinking about my thoughts about my senses, and thinking about thinking about thinking about my senses.
->>> I was just filled with a strong desire to immediately write down my thoughts afterwards so I could read them again in a few hours when I wasn't so detached or loopy.
->>> The part that's really interesting is that I had novocaine and laughing gas which shouldn't have knocked me out. But I slept through most of the surgery. I wonder if I was actually awake for it all, but just forgot it and then forgot that I forgot. I wished that I asked the doctor, but forgot to check.
->>> Recovery's been going incredibly well with minimal pain, no swelling, and the bleeding's stopped already.
->>> I kinda want to try the laughing gas again. It was really interesting reflecting on my reflection in a seemingly endless loop.
 >>> 
+>>> So yeah, I didn't have very strong emotional reactions other than the desire to hug someone. But I was incredibly fascinated by how I could clearly feel my perceptions (vision and touch mainly) being so distorted and was in a constant loop of thinking about my sensory inputs, thinking about my thoughts about my senses, and thinking about thinking about thinking about my senses.
+>>> 
+>>> I was just filled with a strong desire to immediately write down my thoughts afterwards so I could read them again in a few hours when I wasn't so detached or loopy.
+>>> 
+>>> The part that's really interesting is that I had novocaine and laughing gas which shouldn't have knocked me out. But I slept through most of the surgery. I wonder if I was actually awake for it all, but just forgot it and then forgot that I forgot. I wished that I asked the doctor, but forgot to check.
+>>> 
+>>> Recovery's been going incredibly well with minimal pain, no swelling, and the bleeding's stopped already.
+>>> 
+>>> I kinda want to try the laughing gas again. It was really interesting reflecting on my reflection in a seemingly endless loop.
 
->>> **u/ratthrow** [+2] *
+>>> **u/ratthrow** [+2]  (5 hours later)
 >>> 
 >>> Not OP, but I woke up from my surgery giggling and mumbling, "Let's do it again!" while bleeding from my mouth.
->>> 
 
->>>> **u/jaczac** [+2]  *D-Class Subjects**
+>>>> **u/jaczac** [+2]  *D-Class Subjects* (6 hours later)
 >>>> 
 >>>> Also not OP, but I was apparently a huge dick after my surgery. My brother has a video of me cursing him out in the car on the way home.
->>>> 
 
->> **u/sfinebyme** [+3] *
+>> **u/sfinebyme** [+3]  (6 hours later)
 >> 
 >> I had all four out at once with nothing more than shitloads of novocaine in my face. No gas or drugs or whatever. This wasn't the dark ages - maybe 2005ish? Have things changed that much since then? Do they let you have happy-chemicals for it?
->> 
 
->>> **u/Robert_Barlow** [+3] *
+>>> **u/Robert_Barlow** [+3]  (6 hours later)
 >>> 
 >>> Depends on where you go. My appointment is scheduled in a few weeks, and I have the option to be knocked out with an IV.
->>> 
 
->>>> **u/sfinebyme** [+3] *
+>>>> **u/sfinebyme** [+3]  (6 hours later)
 >>>> 
 >>>> Huh, okay. My guy was definitely old school. 70 if he was a day, and the only tool he seemed to employ (aside from a big-ass needle to deliver novocaine to my mouth) was a set of pliers.
->>>> At one point, he grunted to himself and said, "big guy, big teeth, guess I'm gonna need the big pliers." He turned and pulled out this comically large implement from a drawer and just started wrenching my head back and forth as he worked the tooth loose. Since I was basically a big happy buzzing ball of nothing from my lower eyelids to my Adam's apple, I didn't mind.
->>>> I was just pissed that I ended up missing NYC ComicCon that year since my face-holes were leaking blood and spit and foulness longer than I'd expected.
 >>>> 
+>>>> At one point, he grunted to himself and said, "big guy, big teeth, guess I'm gonna need the big pliers." He turned and pulled out this comically large implement from a drawer and just started wrenching my head back and forth as he worked the tooth loose. Since I was basically a big happy buzzing ball of nothing from my lower eyelids to my Adam's apple, I didn't mind.
+>>>> 
+>>>> I was just pissed that I ended up missing NYC ComicCon that year since my face-holes were leaking blood and spit and foulness longer than I'd expected.
 
->>> **u/Threesan** [+1] *
+>>> **u/Threesan** [+1]  (9 hours later)
 >>> 
 >>> Different people have different situations, such as tooth [depth](https://www.animated-teeth.com/sites/default/files/pictures/wisdom_teeth/wisdom-tooth-depth.gif) or [orientation](https://www.essexfamilydental.com/wp-content/uploads/2015/07/wisdom-teeth-removal.jpg). If the only tool needed was a pliers, it may have been a simple case. [My case](https://en.wikipedia.org/wiki/Impacted_wisdom_teeth) (prevalence: 75%) involved surgical cuts into the gum, and some means of breaking apart a couple teeth for piecewise extraction.
->>> 
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (9 hours later)
 >>> 
 >>> I had all 4 out and was on novocaine and laughing gas. I'm very sure that using laughing gas or not is very dependent on the teeth orientation. Although mine grew in just fine. They were just widely spaced from my other teeth and a breeding ground for cavities.
->>> My doctor was also fairly young and probably more willing to use laughing gas as needed.
->>> I wasn't exactly high like I was implying. I was just very Zen and detached from my surroundings which was definitely from the laughing gas and not the novocaine. Albeit with a very insistent need to cuddle with my mother for a little bit.
 >>> 
+>>> My doctor was also fairly young and probably more willing to use laughing gas as needed.
+>>> 
+>>> I wasn't exactly high like I was implying. I was just very Zen and detached from my surroundings which was definitely from the laughing gas and not the novocaine. Albeit with a very insistent need to cuddle with my mother for a little bit.
 
-> **u/GlimmervoidG** [+6] *
+> **u/GlimmervoidG** [+6]  (a day later)
 > 
 > Anyone watching anime Dr Stone. I watched the dub of episode 1. It was really good. I don't know if it will keep up, but the first episode had lots of rationalist agesent competence!porn, with slowly working through real world science to build tech from the ground up. For example, they made Nital and walked through the process of making and distilling alcohol.
-> 
 
->> **u/blazinghand** [+2]  *Chaos Undivided**
+>> **u/blazinghand** [+2]  *Chaos Undivided* (4 days later)
 >> 
 >> It continues to be decent, 3 episodes are now out on crunchyroll, the website that buys rights to US distribution of anime and subtitles them in-house for streaming. I'm pretty sure the eps are free with ads even if you don't have an account. Won't be a dub, but subs are better imo.
->> 
 
-> **u/locksher** [+12] *
+> **u/locksher** [+11]  (31 minutes later)
 > 
 > Do you like AI, spaghetti and hentai? Then check out /r/SpaghettiHentai (NSFW). I hope this won't awaken anything in you ;)
-> 
 
->> **u/ratthrow** [+7] *
+>> **u/ratthrow** [+7]  (2 hours later)
 >> 
 >> *Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.*
->> 
 
->> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+4]  *Finally, everyone was working together.* (35 minutes later)
 >> 
 >> After /r/sexybionicles, anything is possible.
->> 
 
->> **u/I_Probably_Think** [+4] *
+>> **u/I_Probably_Think** [+5]  (3 hours later)
 >> 
 >> Oh, so it's just deepdream (actually, style transfer?) with spaghetti as a style image.
->> 
 
->>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>> **u/CouteauBleu** [+1]  *We are the Empire.* (7 hours later)
 >>> 
 >>> Oh! That makes sense.
->>> 
 
->>> **u/locksher** [+1] *
+>>> **u/locksher** [+1]  (16 hours later)
 >>> 
 >>> Yes! See the sticky post on [how to make your own SpaghettiHentai](https://old.reddit.com/r/SpaghettiHentai/comments/9k7s9z/how_to_make_your_own_spaghettihentai/).
->>> 
 
-> **u/ianstlawrence** [+4] *
+> **u/ianstlawrence** [+4]  (5 hours later)
 > 
 > Ive been pretty successful at my job! Which is cool. But I have no clue where to start in terms of building some stability financially in terms of:
 > 401K
@@ -438,191 +456,202 @@ Please note that this thread has been merged with the Monday General Rationality
 > Financial management
 > Is owning a home a good use of money?
 > Etc
+> 
 > I'd love any suggestions or ideas. If you can just give me a starting point that would be great. I do not expect people to do research for me, just maybe give me a couple of ideas of what they've found personally or statistically financially good.
+> 
 > Thanks,
 > ian
-> (I am a freelance contractor so some things don't work for me that might work if you are a full time employee)
 > 
+> (I am a freelance contractor so some things don't work for me that might work if you are a full time employee)
 
->> **u/ketura** [+7]  *Organizer**
+>> **u/ketura** [+7]  *Organizer* (6 hours later)
 >> 
 >> /r/personalfinance has a standard flowchart in their wiki for establishing financial stability, I recommend looking that up. 
->> If you're young, then that means dumping as much as possible into a 401(k), then Roth IRA, then an index fund such as Vanguard.
->> Everyone likes to use rules like "houses are a waste of money" or "renting is throwing money away", but the fact of the matter is it depends on the house and the people living in it. Having a house that you own that is paid off grants you a level of stability that's hard to beat, and lets you take risks in other areas. On the other hand, if you have a mortgage that has 3% interest and you expect to make 4% in an index fund, then the money used to pay that off could have instead been making more money. On the third hand, if you expect to move frequently or want the flexibility to do so, then you're gonna get shredded on closing costs over and over, so it's best to just rent until you know where you ultimately want to put down permanent roots.
->> One term to Google is FIRE, which stands for Financial Independence/Retiring Early, and is based around accumulating enough money to live off of the proceeds. In a nutshell, you can expect an index fund to return around 4% per year, so if you save up 25x your annual spending (not income!), you have effectively won the rat race and can stop working (or not, thus "independence").  Either way, it involves keeping track of what exactly you need to spend, trimming your life to suit, and then saving as much as is comfortable. See /r/financialindependence and the Mr Money Moustache blog for more.
 >> 
+>> If you're young, then that means dumping as much as possible into a 401(k), then Roth IRA, then an index fund such as Vanguard.
+>> 
+>> Everyone likes to use rules like "houses are a waste of money" or "renting is throwing money away", but the fact of the matter is it depends on the house and the people living in it. Having a house that you own that is paid off grants you a level of stability that's hard to beat, and lets you take risks in other areas. On the other hand, if you have a mortgage that has 3% interest and you expect to make 4% in an index fund, then the money used to pay that off could have instead been making more money. On the third hand, if you expect to move frequently or want the flexibility to do so, then you're gonna get shredded on closing costs over and over, so it's best to just rent until you know where you ultimately want to put down permanent roots.
+>> 
+>> One term to Google is FIRE, which stands for Financial Independence/Retiring Early, and is based around accumulating enough money to live off of the proceeds. In a nutshell, you can expect an index fund to return around 4% per year, so if you save up 25x your annual spending (not income!), you have effectively won the rat race and can stop working (or not, thus "independence").  Either way, it involves keeping track of what exactly you need to spend, trimming your life to suit, and then saving as much as is comfortable. See /r/financialindependence and the Mr Money Moustache blog for more.
 
->> **u/ratthrow** [+5] *
+>> **u/ratthrow** [+5]  (5 hours later)
 >> 
 >> Conservatively: Open a Roth IRA (assuming your annual income is less than 120k) with a company like Vanguard and make long term investments in a fund that tracks the [S&P 500 index](https://en.wikipedia.org/wiki/S%26P_500_Index#Annual_returns). Plan to invest a constant % of your income.
->> Aggressive: Get yourself some of that sweet, sweet, bitcoin.
->> Home ownership depends a lot on location, local property taxes, and your future plans. Contrary to popular belief, renting != throwing money out the window.
 >> 
+>> Aggressive: Get yourself some of that sweet, sweet, bitcoin.
+>> 
+>> Home ownership depends a lot on location, local property taxes, and your future plans. Contrary to popular belief, renting != throwing money out the window.
 
->> **u/sfinebyme** [+4] *
+>> **u/sfinebyme** [+4]  (6 hours later)
 >> 
 >> I assume you've already checked out the sidebars at /r/personalfinance and /r/financialindependence yeah? Good place to start if you haven't.
->> 
 
->> **u/Logisticks** [+2] *
+>> **u/Logisticks** [+2]  (a day later)
 >> 
 >> Due to the non-liquidity of houses, houses are only really good as an "investment" if you plan to keep them for 7\* or more years (the non-liquidity means that the transaction costs of selling the house will often outweigh the benefits of saving a few years' rent).
->> So, when you buy a house, you are 1. committing to to live in the same city for the next many years, 2. committing to live in the same *neighborhood* for the next many years, 3. committing to live in the same size dwelling for the next many years.  (Maybe you're currently single, but in 5 years time might find yourself marrying, having kids, and moving into a house based on criteria like having a suitable number of rooms, being in the right school district, etc.)
->> If you are a freelance contractor, buying a house sounds like an even dicier proposition.
->> \* This is the national average last I checked (which was a few years ago), but that info may have changed in the intervening time and it may vary depending on where you live.  You may live in a city that is economically ascendant, in which case you may want to buy a house there if you feel that they are currently underpriced, or you may live in a city that you judge to be in a bubble, in which case you should avoid ownership like the plague.
 >> 
+>> So, when you buy a house, you are 1. committing to to live in the same city for the next many years, 2. committing to live in the same *neighborhood* for the next many years, 3. committing to live in the same size dwelling for the next many years.  (Maybe you're currently single, but in 5 years time might find yourself marrying, having kids, and moving into a house based on criteria like having a suitable number of rooms, being in the right school district, etc.)
+>> 
+>> If you are a freelance contractor, buying a house sounds like an even dicier proposition.
+>> 
+>> \* This is the national average last I checked (which was a few years ago), but that info may have changed in the intervening time and it may vary depending on where you live.  You may live in a city that is economically ascendant, in which case you may want to buy a house there if you feel that they are currently underpriced, or you may live in a city that you judge to be in a bubble, in which case you should avoid ownership like the plague.
 
-> **u/_brightwing** [+5]  *Feathered menace**
+> **u/_brightwing** [+6]  *Feathered menace* (15 hours later)
 > 
 > [Where the Water Tastes Like Wine](https://store.steampowered.com/app/447120/Where_the_Water_Tastes_Like_Wine/) is looking really great. I can't wait to get started on it today.. This has everything I could wish for - a cast of diverse characters with gameplay focused on interaction with them, the  beautiful, beautiful artwork.. A fascinating historical period. I just love the bohemian feel of it all.
-> 
 
-> **u/MilesSand** [+4] *
+> **u/MilesSand** [+5]  (17 hours later)
 > 
 > Can someone talk to me about the process of getting your story on ffn and ao3?  I see a lot of stories here that use them, despite a certain lack of notification/subscription features compared to the norm on the sites some authors set up themselves (which is saying something).  Is it just that much easier to use from the writer's side of things than other services (even rr has rss)
-> 
 
->> **u/MagicWeasel** [+6]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+5]  *Cheela Astronaut* (17 hours later)
 >> 
 >> The process is pretty easy, you just... put it in a text box and hit submit, basically. I was shocked it didn't have RSS - I wanted to set up RSS with IFTT and Beeminder to make me accountable to publishing chapters of my story, but I was able to hack it together with a free RSS service of some sort pointed at one of the AO3 pages. 
->> I think it's kind of like facebook in that FFN has everyone there, so it's worth putting up with their crap for the audience. AO3 also seems to have a similarly high user group.
->> That said I personally used AO3 because it had a slightly better copyright policy than FFN and also because everyone else was doing it and also because it looks pretty nice (FFN hasn't changed in appearance since... 2002 afaik?).
 >> 
+>> I think it's kind of like facebook in that FFN has everyone there, so it's worth putting up with their crap for the audience. AO3 also seems to have a similarly high user group.
+>> 
+>> That said I personally used AO3 because it had a slightly better copyright policy than FFN and also because everyone else was doing it and also because it looks pretty nice (FFN hasn't changed in appearance since... 2002 afaik?).
 
->> **u/NTaya** [+4]  *Tzeentch**
+>> **u/NTaya** [+4]  *Tzeentch* (2 days later)
 >> 
 >> > despite a certain lack of notification/subscription features
->> You can subscribe to a work or to an author on AO3. If you do so, you'll get an e-mail notification when new content is posted.
 >> 
+>> You can subscribe to a work or to an author on AO3. If you do so, you'll get an e-mail notification when new content is posted.
 
->>> **u/vorpal_potato** [+1] *
+>>> **u/vorpal_potato** [+1]  (4 days later)
 >>> 
 >>> You can also do this on fanfiction.net, though you need to log in first.
->>> 
 
-> **u/None** [+6] *
+> **u/None** [+6]  (an hour later)
 > 
 > [removed]
-> 
 
->> **u/anenymouse** [+3] *
+>> **u/anenymouse** [+3]  (2 hours later)
 >> 
 >> What is the main sub in this context?
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (2 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/anenymouse** [+2] *
+>>>> **u/anenymouse** [+2]  (5 hours later)
 >>>> 
 >>>> thanks for the clarification.
->>>> 
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (16 hours later)
 > 
 > I've got dates for my Berlin trip (13-17 September), if anyone wants to start arranging some meetup details.
-> 
 
-> **u/Threesan** [+4] *
+> **u/Threesan** [+4]  (9 hours later)
 > 
 > (Literal shower thought.) Anti-abortionists should be pushing, at least a little, for more widespread adoption of vegetarianism and veganism. But not as an argument against supposed hypocrisy; rather: to reduce the rate of abortion.
-> I think of an unborn child (to some approximation) as a "non-person" animal, not far removed from "non-human animal". But most every meal of every day is conditioning me to reflexively push away uncomfortable thoughts about the exploitation and death (and possible suffering) of other living, feeling beings. Beings that, were I to spend some time around, I expect I could come to differentiate one from another based upon differences in personality, as can be so easily seen in dogs and cats.
-> Meat devalues sanctity-of-life. Meat, indirectly, kills babies.
 > 
+> I think of an unborn child (to some approximation) as a "non-person" animal, not far removed from "non-human animal". But most every meal of every day is conditioning me to reflexively push away uncomfortable thoughts about the exploitation and death (and possible suffering) of other living, feeling beings. Beings that, were I to spend some time around, I expect I could come to differentiate one from another based upon differences in personality, as can be so easily seen in dogs and cats.
+> 
+> Meat devalues sanctity-of-life. Meat, indirectly, kills babies.
 
->> **u/JudyKateR** [+11] *
+>> **u/JudyKateR** [+12]  (a day later)
 >> 
 >> Among pro-lifers there seems to be a commonly-held (almost universally-held) that there is something inherently and uniquely sacred about human life.  (Poll pro-lifers about whether they believe in the existence of a "human soul," then compare that to the general population.)  I think most pro-lifers would: 1) be offended by comparing the termination of human pregnancy with the termination of livestock, and 2) feel that conflating the two would undermine their goals because it flies counter to their core belief that human life is uniquely sacred which is the reason that any unborn child (an "person" in the sense of having human DNA) must be protected; for your hardcore "not even first-term abortion" types, it's not about their current level of brain function or whatever, its about their inherent and immutable human-ness.
->> >Meat devalues sanctity-of-life.
->> Meat devalues sanctity-of-animal-life.  I think most pro-lifers would argue that conflating santity-of-animal-life with sanctity-of-human-life devalues sanctity-of-human-life.
->> >I think of an unborn child (to some approximation) as a "non-person" animal
->> That would probably be why you are not pro-life.  (If I'm wrong, please correct me.)
 >> 
+>> >Meat devalues sanctity-of-life.
+>> 
+>> Meat devalues sanctity-of-animal-life.  I think most pro-lifers would argue that conflating santity-of-animal-life with sanctity-of-human-life devalues sanctity-of-human-life.
+>> 
+>> >I think of an unborn child (to some approximation) as a "non-person" animal
+>> 
+>> That would probably be why you are not pro-life.  (If I'm wrong, please correct me.)
 
->> **u/GlimmervoidG** [+7] *
+>> **u/GlimmervoidG** [+7]  (15 hours later)
 >> 
 >> Alternate case, they should be sinking megabucks into animal exo-womb technology. Meat producers would love to be able to raise animals without all the mucky business of pregnancy. Once you have animal exo-womb tech, you can get human exo-womb tech. Once you have human exo-womb tech, the minimum viable age for a fetus is the moment of conception. Once you have that, you can claw by the abortion time limit to the moment of conception, effectively outlawing abortion.
->> 
 
->>> **u/Threesan** [+5] *
+>>> **u/Threesan** [+3]  (a day later)
 >>> 
 >>> So abortion would be replaceable by transplant to exo-womb. There are perhaps some lingering funding questions (state? personal? charity?) and ethical concerns (ward of the state, born as an orphan?) that aren't so clean, but that seems like it would satisfy the primary concerns of the pro-choice and pro-life sides.
->>> 
 
->>>> **u/GlimmervoidG** [+5] *
+>>>> **u/GlimmervoidG** [+4]  (a day later)
 >>>> 
 >>>> In practice no. I doubt there would be many such transplants. This 'plan' is mostly a legal runaround. In Roe v. Wade the SCOTUS gave the right to have an abortion up until fetal viability. That is the point where, with extensive medical help, a baby could survive out of the womb. As long as you can drop that viability down in theory it doesn't matter if people do it in practice.
->>>> (Of course, I doubt the plan would be that simple in practice. Judges who support abortion will just refine the test, while those who oppose it don't really need fresh excuses to act).
 >>>> 
+>>>> (Of course, I doubt the plan would be that simple in practice. Judges who support abortion will just refine the test, while those who oppose it don't really need fresh excuses to act).
 
->> **u/PublicMoralityPolice** [+6] *
+>> **u/PublicMoralityPolice** [+8]  (2 days later)
 >> 
 >> This fails the ideological turing test on several levels. Your model of a pro-lifer is too innacurate to draw reasonable conclusions from.
->> 
 
->>> **u/Threesan** [+1] *
+>>> **u/Threesan** [+1]  (3 days later)
 >>> 
 >>> The model of a pro-lifer upon which that post was based was "an individual who wishes to reduce the rate of abortions". There aren't many other assumptions about pro-lifers made, nor is the basis for their views relevant to the discussion at hand. Specifically (and you aren't the only one who seems to have done this, which may indicate a failure to communicate clearly on my part), do not misconstrue "statements of *my* positions" to be "my statements *on pro-lifer's positions*". Further, do not misconstrue "a pro-lifer's positions" to be equivalent to "the positions a pro-lifer should base their [persuasive] arguments upon [when those arguments are targeted at non-pro-lifers]".
->>> 
 
->> **u/RedSheepCole** [+10] *
+>> **u/RedSheepCole** [+10]  (11 hours later)
 >> 
 >> This particular anti-abortionist's answer: not really.  I find the pro-choice position untenable in part because it's contingent (at least in its most common form that I've encountered) on believing that our worth depends on developing a certain level of sophistication; that is, prior to some stage of development, the blastcyst/embryo/fetus/whatever doesn't count as a person.  But if we are only considering an entity's abilities at that precise moment, a lot of our attitudes towards animals in general become nonsensically inconsistent.  I've got a baby in the house right now, and as of this precise moment he demonstrates nothing that can be plausibly described as reasoning ability.  He has no capabilities beyond a few flailing motions, smiling, yelling, sucking, and excreting.  A common crow, an octopus, or a border collie easily outstrips him.  But I'm fine with those animals being shot by farmers, eaten in restaurants, or euthanized in shelters respectively, and most people wouldn't hesitate to kill ten of each to save a single random human infant.  And I don't think those people are wrong.  But I would (in theory) expect a consistent pro-choice ethic to support vegetarianism or veganism, and in fact many pro-choice people do.
->> &#x200B;
->> We don't value our kids because of their aptitudes.  We value them because we're programmed to protect small, fat, helpless things with big eyes (which is basically the only reason pandas aren't extinct as well).  As it happens, the point at which most people become uncomfortable with abortion is the point at which the fetus starts looking like a baby.  We'd feel stupid trying to argue that literally, so we turn to sciencey-sounding but equally arbitrary yardsticks like heartbeats or brainwaves.  The answer to this, I think, is not to try and form a theory under which all animals or all conscious things are valuable, but to accept that we value members of our own species because they're our species and it's normal for animals to love their own kind.  Each blastocyst is a unique biological instance of our own species and therefore worthy of our protection and support regardless of present capacity (generally speaking; please don't lead this conversation down blind alleys involving clones or what-have-you).  Our failure to generalize the protective instinct that far is only a sign of our limited empathy; evolution couldn't plan for this contingency.
->> &#x200B;
->> If we ever meet intelligent aliens, we will probably like or dislike them to the extent that their thoughts and behaviors resemble a human's, and I have no objection to pulling the plug on any number of artificial intelligences provided they are not necessary for our own species's flourishing.  We present both as sympathetic in science fiction by having them act basically human, which makes them more of a metaphor for racism or other forms of intra-human bigotry.  In short, while I don't condone cruelty to animals, I am resolutely "humanist" in this sense, and I think the inordinate love of animals is also unhealthy.
 >> 
+>> &#x200B;
+>> 
+>> We don't value our kids because of their aptitudes.  We value them because we're programmed to protect small, fat, helpless things with big eyes (which is basically the only reason pandas aren't extinct as well).  As it happens, the point at which most people become uncomfortable with abortion is the point at which the fetus starts looking like a baby.  We'd feel stupid trying to argue that literally, so we turn to sciencey-sounding but equally arbitrary yardsticks like heartbeats or brainwaves.  The answer to this, I think, is not to try and form a theory under which all animals or all conscious things are valuable, but to accept that we value members of our own species because they're our species and it's normal for animals to love their own kind.  Each blastocyst is a unique biological instance of our own species and therefore worthy of our protection and support regardless of present capacity (generally speaking; please don't lead this conversation down blind alleys involving clones or what-have-you).  Our failure to generalize the protective instinct that far is only a sign of our limited empathy; evolution couldn't plan for this contingency.
+>> 
+>> &#x200B;
+>> 
+>> If we ever meet intelligent aliens, we will probably like or dislike them to the extent that their thoughts and behaviors resemble a human's, and I have no objection to pulling the plug on any number of artificial intelligences provided they are not necessary for our own species's flourishing.  We present both as sympathetic in science fiction by having them act basically human, which makes them more of a metaphor for racism or other forms of intra-human bigotry.  In short, while I don't condone cruelty to animals, I am resolutely "humanist" in this sense, and I think the inordinate love of animals is also unhealthy.
 
->>> **u/Roxolan** [+4]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager* (22 hours later)
 >>> 
 >>> > The answer to this, I think, is not to try and form a theory under which all animals or all conscious things are valuable, but to accept that we value members of our own species because they're our species and it's normal for animals to love their own kind. Each blastocyst is a unique biological instance of our own species 
->>> I'm not a fan of inconsistencies in my moral values, but my own way to resolve this one is to say that no, infants don't have a ton of inherent worth either, and don't fare too well in comparison with an octopus.
->>> If there's someone who loves them and would be sad about their death, then sure, *that* gives them value - and that's such a common case that it's pretty safe to use it as one's default.
 >>> 
+>>> I'm not a fan of inconsistencies in my moral values, but my own way to resolve this one is to say that no, infants don't have a ton of inherent worth either, and don't fare too well in comparison with an octopus.
+>>> 
+>>> If there's someone who loves them and would be sad about their death, then sure, *that* gives them value - and that's such a common case that it's pretty safe to use it as one's default.
 
->>>> **u/Threesan** [+3] *
+>>>> **u/Threesan** [+3]  (a day later)
 >>>> 
 >>>> I could perhaps see how you might consider an octopus mind to be greater than an infant's mind at the given moment. But are you saying that in a contrived save/sacrifice situation, you would feed the baby to the octopus? Even with certainty that there is no other way, no family, no one would ever know, etc, I'd guess such a position would put you below the 5th percentile of the "I value humans more than other animals" spectrum.
->>>> 
 
->>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>> 
 >>>>> That sounds about right. Mind you, this makes no difference in everyday life. I'm not even vegan, though there's no infant meat I could buy to *really* test the limits of my professed non-hypocrisy.
->>>>> 
 
->>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>> 
 >>>> > If there's someone who loves them and would be sad about their death, then sure, that gives them value - and that's such a common case that it's pretty safe to use it as one's default.
->>>> This is equally a justification for protecting fetuses.
 >>>> 
+>>>> This is equally a justification for protecting fetuses.
 
->>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>>> 
 >>>>> Yes. 
->>>>> Although the mother's right to her own body and health matters more. Without agreeing that the foetus has its *own* rights, then it's an issue of personal freedom vs outsider happiness.
->>>>> I lean heavily towards freedom. And, not being able to get pregnant myself, I'm extra wary of taking a position about someone else's freedom. 
->>>>> But if there was a way to minimise that cost (like the artificial wombs of the other subthread - assuming foetus extraction is little worse for the mother than foetus destruction), I could see it as a viable compromise.
 >>>>> 
+>>>>> Although the mother's right to her own body and health matters more. Without agreeing that the foetus has its *own* rights, then it's an issue of personal freedom vs outsider happiness.
+>>>>> 
+>>>>> I lean heavily towards freedom. And, not being able to get pregnant myself, I'm extra wary of taking a position about someone else's freedom. 
+>>>>> 
+>>>>> But if there was a way to minimise that cost (like the artificial wombs of the other subthread - assuming foetus extraction is little worse for the mother than foetus destruction), I could see it as a viable compromise.
 
->>>>>> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators**
+>>>>>> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>>>> 
 >>>>>> I worry people will value their children less if assessing their objective moral value becomes common. These aren't independent issues, except in the abstract, because the same norms determine behavior in both cases.
->>>>>> My own stance is that
->>>>>> 1. Our position on abortion constrains what stances we can consistently hold on animal rights, and vice versa.
->>>>>> 2. On net, we "should" value adults more than fetuses or infants, to the extent that values are or should be subordinate to facts.
->>>>>> 3. Many people value infants and fetuses more than they "should", and this has desirable prosocial consequences. To whatever extent values are not or should not be subordinate to facts but are justifications in themselves, we should sympathize with this arbitrary, unjustified love of primordial protohumans, particularly if we're vulnerable to the same sentiment ourselves. Finding babies cute or fetuses sympathetic and allocating them scarce resources on such a flimsy basis is okay, perhaps  even praiseworthy, where others are not too severely harmed by that choice.
->>>>>> 4. The best compromise is to admit the taboo tradeoff - to be fine with first term abortions, wary of second term abortions, and opposed to third term abortions. But, we should not forget the costs of this compromise, from either direction, or condemn beyond the circle of empathy any who'd sympathize with one side more than the other.
->>>>>> 5. This should not only be taken as a matter of personal freedom if we wish to live in a society where people care about the well-being of children who aren't their own.
 >>>>>> 
+>>>>>> My own stance is that
+>>>>>> 
+>>>>>> 1. Our position on abortion constrains what stances we can consistently hold on animal rights, and vice versa.
+>>>>>> 
+>>>>>> 2. On net, we "should" value adults more than fetuses or infants, to the extent that values are or should be subordinate to facts.
+>>>>>> 
+>>>>>> 3. Many people value infants and fetuses more than they "should", and this has desirable prosocial consequences. To whatever extent values are not or should not be subordinate to facts but are justifications in themselves, we should sympathize with this arbitrary, unjustified love of primordial protohumans, particularly if we're vulnerable to the same sentiment ourselves. Finding babies cute or fetuses sympathetic and allocating them scarce resources on such a flimsy basis is okay, perhaps  even praiseworthy, where others are not too severely harmed by that choice.
+>>>>>> 
+>>>>>> 4. The best compromise is to admit the taboo tradeoff - to be fine with first term abortions, wary of second term abortions, and opposed to third term abortions. But, we should not forget the costs of this compromise, from either direction, or condemn beyond the circle of empathy any who'd sympathize with one side more than the other.
+>>>>>> 
+>>>>>> 5. This should not only be taken as a matter of personal freedom if we wish to live in a society where people care about the well-being of children who aren't their own.
 
->>> **u/None** [+5] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> I disagree with several parts of this argument both in structure and meaning.  Structurally, the thesis comes at the end of the second paragraph, which means that it leaves a lot unanswered and unargued.  I'll start with the thesis, and then I have five points where I disagree with the content of your argument.
+>>> 
 >>> &#x200B;
+>>> 
 >>> I think the statement *"each blastocyst is a unique biological instance of our own species and therefore worthy of our protection and support regardless of present capacity"* is very definitive, but it leads to unpleasant places in the real world because its based on feelings rather than principles.  I agree with you that philosophical arguments can take things to extreme hypotheticals, so I'm only going to use real world examples.  I'm also trying to be fair, so I'm trying to not ask gotcha questions.  These questions do hammer down on a statement that I personally believe is very hard to defend, and I think the bold ones reveal the largest missing areas in your argument.
+>>> 
 >>> * First off, why should we protect each blastocyst?  Because they're human seems to be your argument.
 >>>    * **Why should we protect fellow human beings?**
 >>>    * When you see a human life not being protected, what is your individual responsibility?  Is it justified to kill abortion doctors?  Why or why not?
@@ -638,102 +667,112 @@ Please note that this thread has been merged with the Monday General Rationality
 >>>       * Should we be forced to pay taxes to lower maternal death rate?
 >>>       * Should pollution be illegal since it has a direct and measurable harm to human life?  Cars most definitely are included in this.
 >>>       * Should all countries have taxes so that no one in the world starves or dies from lack of access to medical care?
->>> &#x200B;
->>> Onto the content, first and foremost, there's an incredible logical contradiction in your argument.  If there are no universal principles, why should other people who have different genetic codes be forced to follow your views which you feel are based on evolution?  Because it's arbitrary and sometimes tyrannical to force people to do what you say because it's how you feel.
->>> &#x200B;
->>> Second,  I think that finding universal principles to understand ethics and everything else is not only socially beneficial, it's also necessary for effective legislature.  Ad hoc laws lead to contradictions which frequently lead to injustices.
->>> &#x200B;
->>> Third, human beings *do* value sophistication.  We value it in our creative enterprises.  We value a 300 year old oak tree more than we value an acorn.  We value crows more than mosquitos and mosquitos more than bacteria, even though all could be considered pests.  Right now, there's a debate on the ethics of purposefully killing mosquitos; we do not have the same debate about eliminating diseases.  In the most extreme example, we are legally allowed to let people die once they are brain dead.  To live by this principal, I feed crows, don't eat octopi and would be fine banning its consumption, and only support euthanizing animals if they're sick or aggressive. 
->>> &#x200B;
->>> Fourth, just because we have natural instincts, that doesn't mean that following them is good for the individual or society.  Following instincts is how a petty fight turns into a blood-feud, or how a fight gets started in the first place.  Our hunter-gatherer instincts do not necessarily promote the most beneficial outcomes in an urbanized post-industrial world.
->>> &#x200B;
->>> Fifth (and final, sorry for the novel), is that you argue that it's ok to treat our own species better than others.  If you define our species by genetic code, then different animals are a significant fraction of a human being.  The problem with using Gorillas recognizably so without a microscope.
 >>> 
+>>> &#x200B;
+>>> 
+>>> Onto the content, first and foremost, there's an incredible logical contradiction in your argument.  If there are no universal principles, why should other people who have different genetic codes be forced to follow your views which you feel are based on evolution?  Because it's arbitrary and sometimes tyrannical to force people to do what you say because it's how you feel.
+>>> 
+>>> &#x200B;
+>>> 
+>>> Second,  I think that finding universal principles to understand ethics and everything else is not only socially beneficial, it's also necessary for effective legislature.  Ad hoc laws lead to contradictions which frequently lead to injustices.
+>>> 
+>>> &#x200B;
+>>> 
+>>> Third, human beings *do* value sophistication.  We value it in our creative enterprises.  We value a 300 year old oak tree more than we value an acorn.  We value crows more than mosquitos and mosquitos more than bacteria, even though all could be considered pests.  Right now, there's a debate on the ethics of purposefully killing mosquitos; we do not have the same debate about eliminating diseases.  In the most extreme example, we are legally allowed to let people die once they are brain dead.  To live by this principal, I feed crows, don't eat octopi and would be fine banning its consumption, and only support euthanizing animals if they're sick or aggressive. 
+>>> 
+>>> &#x200B;
+>>> 
+>>> Fourth, just because we have natural instincts, that doesn't mean that following them is good for the individual or society.  Following instincts is how a petty fight turns into a blood-feud, or how a fight gets started in the first place.  Our hunter-gatherer instincts do not necessarily promote the most beneficial outcomes in an urbanized post-industrial world.
+>>> 
+>>> &#x200B;
+>>> 
+>>> Fifth (and final, sorry for the novel), is that you argue that it's ok to treat our own species better than others.  If you define our species by genetic code, then different animals are a significant fraction of a human being.  The problem with using Gorillas recognizably so without a microscope.
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (a day later)
 >>>> 
 >>>> My intention (sorry, I should have made this clear) was not to start an extended argument on abortion, but to explain to the first poster why I specifically disagreed with his claim.  I'm no longer at a stage in my life where I have the free time to have really big discussions like this--though I did enjoy them.
->>>> I don't want to have totally wasted the time it must have taken you to type that, so briefly: I don't think about these things in anything like the same way you do, or so it seems.  My moral perspective might be summed up as a variant on virtue ethics; we should be good because it is the correct way to be human, and improves the life of the person being good.  In the interests of full disclosure, I am religious, specifically Orthodox Christian, and this is basically the OC view of morals as filtered through my personal idiosyncrasies.  I of course do not expect you to believe any of it, and I expect we'd have difficulty finding common ground to argue from if we really got into it.  I don't think my beliefs are at all representative of the broader pro-life movement either.
->>>> Again, I'm sorry for not being clear that I'm not up to an extended debate.  To answer your bolded questions only, we preserve human life because having correct relationships with other human beings is an important part of being a healthy human.  The question of what to do with women who have abortions is complicated by mens rea and a whole lot of logistical difficulties and collateral damage, so in general I favor going after doctors instead.  I don't think pregnancy is comparable to kidney donation, for a variety of reasons, such as the special obligation of parents to protect their offspring.
 >>>> 
+>>>> I don't want to have totally wasted the time it must have taken you to type that, so briefly: I don't think about these things in anything like the same way you do, or so it seems.  My moral perspective might be summed up as a variant on virtue ethics; we should be good because it is the correct way to be human, and improves the life of the person being good.  In the interests of full disclosure, I am religious, specifically Orthodox Christian, and this is basically the OC view of morals as filtered through my personal idiosyncrasies.  I of course do not expect you to believe any of it, and I expect we'd have difficulty finding common ground to argue from if we really got into it.  I don't think my beliefs are at all representative of the broader pro-life movement either.
+>>>> 
+>>>> Again, I'm sorry for not being clear that I'm not up to an extended debate.  To answer your bolded questions only, we preserve human life because having correct relationships with other human beings is an important part of being a healthy human.  The question of what to do with women who have abortions is complicated by mens rea and a whole lot of logistical difficulties and collateral damage, so in general I favor going after doctors instead.  I don't think pregnancy is comparable to kidney donation, for a variety of reasons, such as the special obligation of parents to protect their offspring.
 
->>> **u/Threesan** [+3] *
+>>> **u/Threesan** [+3]  (14 hours later)
 >>> 
 >>> 1a) I am not suggesting that you personally need to become veg\*nism. To reduce abortion rates, it is not your own mind on that subject you would need to change, but others'. To that end, if (*if*) the proliferation of veg\*nism philosophy lead to increased compassion and thereby to reduced abortion, the spreading of veg\*nism would be instrumental.
->>> 1b) Veg\*nism compatibility with your personal philosophy does not matter, except insofar as it allows you to predict others. A persuasive argument must be based upon the target's values and philosophies or it is irrelevant. You speak of other philosophies that you disagree with: valuing AI or alien minds, or valuing animal life. But you don't need to agree with those values to use them as a basis for persuasive argument when addressing those that do hold those values.
->>> 2a) To me, worth does depend significantly upon sophistication. On one end, you have a human. (One could posit a more sophisticated being than a human, but it's difficult for me to conceive of intrinsically valuing such an entity *more* than a human.) But on the other end, something lifeless, inanimate, uninteresting.
->>> 2b) A human blastocyst is a potential person, but not an actual person. At such an early stage, it is easy for me to say, where is the actual person? Where is the thing of value? Extrinsic value, yes, I would expect to find that. But I don't grant a human blastocyst intrinsic value. That is an alien thought.
->>> 2c) Is a human infant worth more than an adult crow? I feel, yes. I suspect a non-negligible part of that is in the extrinsic value of that baby (emotional attachment, investment). However, I do place much more intrinsic value on the baby than the bird. Is that inconsistent? I think it demonstrates a strong strain of human-person-preference much like the human-preference you describe and note grows as an embryo becomes increasingly baby- and human-like. From my perspective there is no internal inconsistency. The difference between our views is, conceptually, not that great: mine is the same line as yours, but fuzzier, and in a different place, but still dividing "worth protecting" from "not", with a significant pro-human bias. And of course I fuzzily include more "other" than I guess you would -- the aliens, AI, uploaded minds, clones, engineered beings, modified humans, etc.
->>> 3) In light of 2b and 2c, I would guess long-term suffusion in veg\*nism philosophy to, at best, shift my "unacceptably late" abortion line earlier by one week to a couple months. Nation-wide, supposing a significant impact like 2-10% less meat? I could barely speculate on the impact across the several hundred thousand reported US abortions per year.
 >>> 
+>>> 1b) Veg\*nism compatibility with your personal philosophy does not matter, except insofar as it allows you to predict others. A persuasive argument must be based upon the target's values and philosophies or it is irrelevant. You speak of other philosophies that you disagree with: valuing AI or alien minds, or valuing animal life. But you don't need to agree with those values to use them as a basis for persuasive argument when addressing those that do hold those values.
+>>> 
+>>> 2a) To me, worth does depend significantly upon sophistication. On one end, you have a human. (One could posit a more sophisticated being than a human, but it's difficult for me to conceive of intrinsically valuing such an entity *more* than a human.) But on the other end, something lifeless, inanimate, uninteresting.
+>>> 
+>>> 2b) A human blastocyst is a potential person, but not an actual person. At such an early stage, it is easy for me to say, where is the actual person? Where is the thing of value? Extrinsic value, yes, I would expect to find that. But I don't grant a human blastocyst intrinsic value. That is an alien thought.
+>>> 
+>>> 2c) Is a human infant worth more than an adult crow? I feel, yes. I suspect a non-negligible part of that is in the extrinsic value of that baby (emotional attachment, investment). However, I do place much more intrinsic value on the baby than the bird. Is that inconsistent? I think it demonstrates a strong strain of human-person-preference much like the human-preference you describe and note grows as an embryo becomes increasingly baby- and human-like. From my perspective there is no internal inconsistency. The difference between our views is, conceptually, not that great: mine is the same line as yours, but fuzzier, and in a different place, but still dividing "worth protecting" from "not", with a significant pro-human bias. And of course I fuzzily include more "other" than I guess you would -- the aliens, AI, uploaded minds, clones, engineered beings, modified humans, etc.
+>>> 
+>>> 3) In light of 2b and 2c, I would guess long-term suffusion in veg\*nism philosophy to, at best, shift my "unacceptably late" abortion line earlier by one week to a couple months. Nation-wide, supposing a significant impact like 2-10% less meat? I could barely speculate on the impact across the several hundred thousand reported US abortions per year.
 
->>>> **u/RedSheepCole** [+2] *
+>>>> **u/RedSheepCole** [+2]  (a day later)
 >>>> 
 >>>> My intended point was that it would be win-the-battle-lose-the-war.  If I can make people modestly more pro-life by endorsing that viewpoint, but that viewpoint itself is the expression of a deeper set of assumptions which ultimately support abortion, I should not endorse the viewpoint.
->>>> 
 
->>> **u/MilesSand** [+3] *
+>>> **u/MilesSand** [+3]  (17 hours later)
 >>> 
 >>> It's not about value as a person. Michaelangelo didn't destroy a house when he chiseled away half a rock to make David.
->>> 
 
->>> **u/SilverstringstheBard** [+4] *
+>>> **u/SilverstringstheBard** [+4]  (a day later)
 >>> 
 >>> To everyone who finds this argument convincing, I bid you to consider the following [video](https://www.youtube.com/watch?v=c2PAajlHbnU). It's from a channel called Philosophy Tube, and it presents the most compelling argument against abortion I've seen yet. Essentially even if fetuses are assumed to have the same moral worth as an adult human being, abortion should still be legal due to issues of bodily autonomy. He presents a metaphor of a dying violinist, kept just barely alive by being hooked up to another man for life support. That man didn't consent to the procedure, and would dearly like to be disconnected from him and go home. If you think it's a moral obligation for pregnant women to carry babies to term, you are just as obligated to give up your life and conveniences in order to save others.
->>> 
 
->>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>> 
 >>>> Sex is a choice.
->>>> 
 
->>>>> **u/SilverstringstheBard** [+3] *
+>>>>> **u/SilverstringstheBard** [+4]  (a day later)
 >>>>> 
 >>>>> Yeah, but pregnancy generally isn't. If you're not capable of becoming pregnant it strikes me as the height of hypocrisy to just tell the people who can to suck it up and deal. Anyone that actually gives a shit about reducing abortions rather than just controlling women's sexuality should support access to contraceptives and science-based sex education.
->>>>> 
 
->>>>>> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators**
+>>>>>> **u/hyphenomicon** [+4]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>>>> 
 >>>>>> You moved from analogical argumentation to vitriol and off-topic proposals very quickly.
->>>>>> 
 
->>>>>>> **u/SilverstringstheBard** [+3] *
+>>>>>>> **u/SilverstringstheBard** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> K. You gonna actually respond to my points? First you need to establish why "Sex is a choice." has literally anything to do with the topic of abortion. Because it sounds like you're just moralizing without any evidence or argument behind it.
->>>>>>> 
 
->>>>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>>>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>>>>>> 
 >>>>>>>> I would deem someone immoral if they took actions to wire a violinist into their own biology and then pleaded personal autonomy as a reason to let them sever the violinist as the cost of its life. In general, I think most people would assign blame for letting die where the decision to let die only arose as the result of the decider's choices.
->>>>>>>> All the "arguments" in your response to me do not engage with the violinist metaphor. It's frustrating that you'd talk up how insightful it is and then immediately abandon it for personal attacks and non-sequiturs when pressed.
->>>>>>>> I haven't moralized at all in this exchange, that's been exclusively your role. I'm not necessarily opposed to abortion, as you might have learned sooner had you been slower to jump to conclusions. I'm certainly opposed to your presenting bad arguments on abortion's behalf and then painting others as judgmental or cruel misogynists for daring to consider the merits of the beliefs you claim are decisive to your position, though.
 >>>>>>>> 
+>>>>>>>> All the "arguments" in your response to me do not engage with the violinist metaphor. It's frustrating that you'd talk up how insightful it is and then immediately abandon it for personal attacks and non-sequiturs when pressed.
+>>>>>>>> 
+>>>>>>>> I haven't moralized at all in this exchange, that's been exclusively your role. I'm not necessarily opposed to abortion, as you might have learned sooner had you been slower to jump to conclusions. I'm certainly opposed to your presenting bad arguments on abortion's behalf and then painting others as judgmental or cruel misogynists for daring to consider the merits of the beliefs you claim are decisive to your position, though.
 
->>>>>>>>> **u/SilverstringstheBard** [+5] *
+>>>>>>>>> **u/SilverstringstheBard** [+6]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> The point is that even if the medical procedure was entered into voluntarily initially, the person providing life support isn't obligated to keep supplying it indefinitely if it turns out to be more than they bargained for or if additional complications come up that make it more dangerous for them.
->>>>>>>>> Another key point is that pregnancy isn't necessarily consensual or desired. Just because someone has sex doesn't mean they should be condemned to nine months of supporting another life along with a significant risk of death or injury. On top of that there's also the issue of pregnancies resulting from rape.
 >>>>>>>>> 
+>>>>>>>>> Another key point is that pregnancy isn't necessarily consensual or desired. Just because someone has sex doesn't mean they should be condemned to nine months of supporting another life along with a significant risk of death or injury. On top of that there's also the issue of pregnancies resulting from rape.
 
->>>>>>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>>>>>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> It is not obvious to me that backing out of the life support role after pursuing it is morally permissible. That's a claim, but you should support claims with argumentation.
->>>>>>>>>> Can I take it you are opposed to obliging fathers to pay child support or care for their biological children? In general, are you okay with not holding people responsible for choices that they made under ignorance or disregard for consequences?
->>>>>>>>>> Why would we take pregnancies from rape as modal for the purpose of arguments about the morality of abortion?
 >>>>>>>>>> 
+>>>>>>>>>> Can I take it you are opposed to obliging fathers to pay child support or care for their biological children? In general, are you okay with not holding people responsible for choices that they made under ignorance or disregard for consequences?
+>>>>>>>>>> 
+>>>>>>>>>> Why would we take pregnancies from rape as modal for the purpose of arguments about the morality of abortion?
 
->>>>>>>>>>> **u/SilverstringstheBard** [+3] *
+>>>>>>>>>>> **u/SilverstringstheBard** [+3]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> You aren't actually addressing my points. Stop projecting and actually respond to my arguments.
->>>>>>>>>>> Caring for someone financially isn't equivalent to having to support them with your own flesh and blood against your will.
->>>>>>>>>>> Edit: Also you're not the only person that can sneakily edit in extra points. For context the comment I was originally responding to only said "Can I take it you are opposed to obliging fathers to pay child support or care for their biological children?"
 >>>>>>>>>>> 
+>>>>>>>>>>> Caring for someone financially isn't equivalent to having to support them with your own flesh and blood against your will.
+>>>>>>>>>>> 
+>>>>>>>>>>> Edit: Also you're not the only person that can sneakily edit in extra points. For context the comment I was originally responding to only said "Can I take it you are opposed to obliging fathers to pay child support or care for their biological children?"
 
->>>>>>>>>>>> **u/hyphenomicon** [+1]  *seer of seers, prognosticator of prognosticators**
+>>>>>>>>>>>> **u/hyphenomicon** [+2]  *seer of seers, prognosticator of prognosticators* (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> What on Earth would I be projecting, here?
->>>>>>>>>>>> I'm done with this exchange. You're not worth my time.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> I'm done with this exchange. You're not worth my time.
 
 ---
 

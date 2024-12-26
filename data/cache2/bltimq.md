@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/Dent7777** [+2]  *House Atreides**
+> **u/Dent7777** [+2]  *House Atreides* (36 minutes later)
 > 
 > Can someone give me a rundown for this fic?
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (39 minutes later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Dent7777** [+2]  *House Atreides**
+>>> **u/Dent7777** [+2]  *House Atreides* (43 minutes later)
 >>> 
 >>> Cool I'll check it out
->>> 
 
 ---
 

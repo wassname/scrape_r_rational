@@ -2,7 +2,7 @@
 
 * Author: u/FormerlySarsaparilla *
 * URL: https://archiveofourown.org/works/18738010/chapters/46776661
-* Score: 31
+* Score: 30
 
 * Created: 2019-07-11T03:02:32
 
@@ -12,195 +12,233 @@
 
 ### Comments:
 
-> **u/gryfft** [+10] *
+> **u/gryfft** [+11]  (9 hours later)
 > 
 > This chapter chillingly and excellently portrays one of my favorite sci-fi horror concepts.
-> Memetic hazards have been a favorite topic of mine since hearing They Might Be Giants' [The Bells Are Ringing](https://youtube.com/watch?v=cSEQ0kMt-0k) as a child. (I couldn't read this chapter without hearing it and in the Netflix adaptation I motion that an instrumental cover be used for this scene's soundtrack.) 
-
-> Speculation and possible spoiler for future chapter: I fully expected someone to conduct the ol' Oedipus protocol to avoid reception of The Concept. (No, not when he banged his mom, what he did when he realized he banged his mom and saw her dead body.)
-
-> A couple of links for others who adore this sort of thing.
-> https://en.m.wikipedia.org/wiki/BLIT_(short_story)
-> https://en.m.wikipedia.org/wiki/Pontypool_(film)
-> http://www.scp-wiki.net/antimemetics-division-hub
-> Edit: Here's all the original Langford BLIT stories:
-> [BLIT](http://www.infinityplus.co.uk/stories/blit.htm)
-> [What Happened At Cambridge IV](https://web.archive.org/web/20171002180708/http://watergate.decay.us/library/stories/Langford_David_-_What_Happened_at_Cambridge_IV.md)
-> [comp.basilisk FAQ](https://ansible.uk/writing/c-b-faq.html)
-> [Different Kinds of Darkness](http://www.lightspeedmagazine.com/fiction/different-kinds-of-darkness/)
 > 
+> Memetic hazards have been a favorite topic of mine since hearing They Might Be Giants' [The Bells Are Ringing](https://youtube.com/watch?v=cSEQ0kMt-0k) as a child. (I couldn't read this chapter without hearing it and in the Netflix adaptation I motion that an instrumental cover be used for this scene's soundtrack.) 
+> 
+> Speculation and possible spoiler for future chapter: I fully expected someone to conduct the ol' Oedipus protocol to avoid reception of The Concept. (No, not when he banged his mom, what he did when he realized he banged his mom and saw her dead body.)
+> 
+> A couple of links for others who adore this sort of thing.
+> 
+> https://en.m.wikipedia.org/wiki/BLIT_(short_story)
+> 
+> https://en.m.wikipedia.org/wiki/Pontypool_(film)
+> 
+> http://www.scp-wiki.net/antimemetics-division-hub
+> 
+> Edit: Here's all the original Langford BLIT stories:
+> 
+> [BLIT](http://www.infinityplus.co.uk/stories/blit.htm)
+> 
+> [What Happened At Cambridge IV](https://web.archive.org/web/20171002180708/http://watergate.decay.us/library/stories/Langford_David_-_What_Happened_at_Cambridge_IV.md)
+> 
+> [comp.basilisk FAQ](https://ansible.uk/writing/c-b-faq.html)
+> 
+> [Different Kinds of Darkness](http://www.lightspeedmagazine.com/fiction/different-kinds-of-darkness/)
 
-> **u/lmbfan** [+8] *
+> **u/lmbfan** [+7]  (7 hours later)
 > 
 > Oh my. Ouch. That's not good.  4 narrators at least, and of such caliber.
-> Great writing, keep 'em coming!
 > 
+> Great writing, keep 'em coming!
 
-> **u/LazarusRises** [+7] *
+> **u/LazarusRises** [+7]  (20 hours later)
 > 
 > I just realized that this is the greatest (only?) piece of metafanfiction ever written. Bravo.
-> And now our intrepid heroes have to face Merlin, Sherlock Holmes, Lord Asriel, and a Harry Potter witch who has *already read the Harry Potter books*. God forbid she's actually incarnating HPMOR instead of the original canon. 
-> I can't frickin' wait.
 > 
+> And now our intrepid heroes have to face Merlin, Sherlock Holmes, Lord Asriel, and a Harry Potter witch who has *already read the Harry Potter books*. God forbid she's actually incarnating HPMOR instead of the original canon. 
+> 
+> I can't frickin' wait.
 
->> **u/gryfft** [+3] *
+>> **u/gryfft** [+3]  (a day later)
 >> 
 >> >(only?)
->> Well, it's certainly giving [The Finale Of The Ultimate Meta Mega Crossover](https://www.fanfiction.net/s/5389450/1/The-Finale-of-the-Ultimate-Meta-Mega-Crossover) a run for its money-- TFOTUMMC is extremely good as Rational-Ultimate-Showdown-Of-Ultimate-Destiny but it's only three chapters, whereas Eschatological Romance is at 27 chapters and continuing at a brisk clip with way more character development and tension.
 >> 
+>> Well, it's certainly giving [The Finale Of The Ultimate Meta Mega Crossover](https://www.fanfiction.net/s/5389450/1/The-Finale-of-the-Ultimate-Meta-Mega-Crossover) a run for its money-- TFOTUMMC is extremely good as Rational-Ultimate-Showdown-Of-Ultimate-Destiny but it's only three chapters, whereas Eschatological Romance is at 27 chapters and continuing at a brisk clip with way more character development and tension.
 
-> **u/mayfid** [+6] *
+> **u/mayfid** [+7]  (56 minutes later)
 > 
 > Oh, I do love a Langford basilisk!
-> 
 
->> **u/gryfft** [+5] *
+>> **u/gryfft** [+4]  (an hour later)
 >> 
 >> [;)](http://www.infinityplus.co.uk/stories/blit.htm)
->> 
 
-> **u/Kuratius** [+3] *
+> **u/Kuratius** [+3]  (10 hours later)
 > 
 > What if someone decides to strap a smartphone to their head to a) falsify colours (invert them, make everything black and white, etc.) b) reduce resolution c) train a neural network to recognize and blot out the meme signature? One of those must be effective at blocking it , otherwise the concept is not believable. Best case, coloured contact lenses/colour blindness fucks it up enough, worst case you always need a digital filter. 
+> 
 > Or say you look at everything through a grating, there is probably grating that fucks the image up enough at the right distance to render it harmless.
+> 
 > To be fair though, everyone downloading an anti meme app and using a VR headset for protection does seem like it'd be kind of funny-looking.
+> 
 > If you bring computer vision into the picture, a sight-based meme is not nearly as dangerous as it could have been before modern technology.
 > Chances are our wish engine could probably churn out the required program almost immediately.
-> Also Holmes should have come up with the idea of trying to make himself the narrator.
-> Also, if wishes can exploit the limits of modern technology, I'd try replacing my eyes entirely or develop contact lenses that fo the same thing.
 > 
+> Also Holmes should have come up with the idea of trying to make himself the narrator.
+> 
+> Also, if wishes can exploit the limits of modern technology, I'd try replacing my eyes entirely or develop contact lenses that fo the same thing.
 
->> **u/gryfft** [+4] *
+>> **u/gryfft** [+3]  (10 hours later)
 >> 
 >> If the Concept were limited to the description of the basilisk from its origin story BLIT, you would be precisely correct. However, the Concept is shown to evolve and plan via its thralls, so I wouldn't be surprised if it managed to "out-think" or otherwise circumvent algorithm-based filters. For one thing, it could discover the audio analog of its visual pattern, thereby opening a second sensory front on the memetic battlefield. For another, it's currently capable of spreading incredibly fast, and they have something of a counter to Haley's time dilation via Merlin's mulligan spell. Not to mention that it's going to get very good at infiltration very very fast.
->> The old ratfic saying "If you give Frodo a lightsaber you have to give Sauron the Death Star" appears to have been honored carefully here. Haley is super powerful but the Concept makes the Borg look like door-to-door missionaries.
 >> 
+>> The old ratfic saying "If you give Frodo a lightsaber you have to give Sauron the Death Star" appears to have been honored carefully here. Haley is super powerful but the Concept makes the Borg look like door-to-door missionaries.
 
->>> **u/RynnisOne** [+3] *
+>>> **u/RynnisOne** [+3]  (20 hours later)
 >>> 
 >>> You don't need an algorithm-based filter.
->>> You just need glasses that aren't in your prescription.  Or goggles with a bit of paint sprayed on at a distance.
->>> You have to have enough visual resolution for the image to actual transfer over.  Reduce your resolution, and it simply can't form, and thus can't infect you.  And you don't need screens with pixels to do it.  
->>> Similarly, teaching a person to keep their gaze moving and not focus on patterns so hard breaks the 'cumulative' effect.
->>> The same is true of the audio, should it evolve that far.  Distort it, alter it, drown it out, whatever.
 >>> 
+>>> You just need glasses that aren't in your prescription.  Or goggles with a bit of paint sprayed on at a distance.
+>>> 
+>>> You have to have enough visual resolution for the image to actual transfer over.  Reduce your resolution, and it simply can't form, and thus can't infect you.  And you don't need screens with pixels to do it.  
+>>> 
+>>> Similarly, teaching a person to keep their gaze moving and not focus on patterns so hard breaks the 'cumulative' effect.
+>>> 
+>>> The same is true of the audio, should it evolve that far.  Distort it, alter it, drown it out, whatever.
 
->>>> **u/gryfft** [+2] *
+>>>> **u/gryfft** [+2]  (21 hours later)
 >>>> 
 >>>> I don't think sunglasses are going to cut it. There are seven billion innocents with zero defenses. The Concept has an unknown number of magic users and narrators. Haley herself might be safe for a time, but she only has to drop her guard for a moment for the Concept to take her. Yes, draconic form will probably shield her-- at least at first. But her enemy has *time travel.*
->>>> >Similarly, teaching a person to keep their gaze moving and not focus on patterns so hard breaks the 'cumulative' effect.
->>>> Juggling knives and loaded guns would be safer. *There are no second chances with the Concept.*
 >>>> 
+>>>> >Similarly, teaching a person to keep their gaze moving and not focus on patterns so hard breaks the 'cumulative' effect.
+>>>> 
+>>>> Juggling knives and loaded guns would be safer. *There are no second chances with the Concept.*
 
->>> **u/Kuratius** [+1] *
+>>> **u/Kuratius** [+1]  (11 hours later)
 >>> 
 >>> The problem is that this isn't even a Sauron Death star situation. You could do all the things I described with a team of engineers at Google in a few days at most. Haley having simulacra to serve as test subjects and having access to time dilation and wishes just makes it faster and easier. Especially acquiring training data, which might be risky otherwise, is super easy if you have someone who is immune and can label the images.
 >>> If you want a working example of what I'm talking about, take a look at the live translation feature of the Google translate app (works on android, not sure about iphones). You can use your phone like a video camera to hover over text and it will alter the video feed to make it seem like the text was originally in your language. It's basically almost Dr Who Tardis translation level bullshit. The same technology exists as a proof of concept for audio already, but hasn't been implemented in any commercial products I am aware of. 
+>>> 
 >>> https://www.youtube.com/watch?v=38ZXwJj6j8k
+>>> 
 >>> If they manage to alter the pattern, that means that subjects will fall unconscious, which the meme could detect, and save the camera feed to use it as new training data to improve the network. It'll mean reduced effectiveness, but I doubt it would make it useless.
 >>> There is a disadvantage in actual combat because there's usually a small processing delay, but outside of close range combat half a second isn't crippling.
->>> 
 
->>>> **u/gryfft** [+4] *
+>>>> **u/gryfft** [+3]  (12 hours later)
 >>>> 
 >>>> My disagreement stems my current understanding of the fundamental nature of the Concept. I think everything you say would be completely true if the Concept's infection vector consisted of a single static image. However, the Concept's infection vector is an *infinite set* of images, and no matter how many of them Haley's side manages to recognize and filter, the Concept will always be able to evolve another variant which won't be recognized by the software-- and its victory condition for a particular engagement consists of its prey perceiving it for a fraction of a second.
->>>> The Concept is *intelligent* and it *evolves,* and it has at its disposal the cunning of fiction's canniest detective and the magic of fiction's most powerful mage, and who knows how many other powerful characters. Algorithmic recognition is [notoriously easy to break](http://www.evolvingai.org/fooling)-- Google's phone camera software is certainly unable even to universally recognize human handwriting, regardless of those situations where it works well. The Concept should certainly be capable of evolving patterns that crash the recognition software itself (even if that software consists of time-dilated simulacra manually sorting through visual inputs (although this is probably the defense that would last the longest against it, but keep in mind that even a properly-sandboxed infected simulacrum is essentially an [AI box](https://en.wikipedia.org/wiki/AI_box) scenario-- and an iterative one, if you're sensibly killing off simulacra after every use. (Re: subjects falling unconscious, the duration of unconsciousness appears to change with varying iterations of the Concept. I'll bet it could easily evolve a version that appears to have no effect, while still effectively thralling. Or even just a time-delayed version that only takes effect after an interval. Or a binary-explosive form that requires two different images to be viewed at different times. Or one that doesn't affect simulacra.)))
->>>> Add to this the fact that the Concept is capable of sending in sleeper agents and Haley's impregnable security posture is suddenly Swiss cheese. (Flagg managed to breach her security, and Flagg wasn't as big a threat as Aslan. Aslan, in turn, was not as big a threat as the Concept. What will Haley do if Sean is brought back alive and well, seeming normal as ever, but "Haley just look at this one thing for me really quick?")
->>>> The Concept's greatest strength is that it doesn't rely on magic, and therefore doesn't rely on narrative to spread: Haley can only protect people with her magic if they agree to be a part of her narrative, whereas the Concept is only ever a Skype call, blog post or infomercial away from securing more minds, more firepower, and more narrative weight. Even her infinite Wishes aren't an automatic win in this scenario.
->>>> Carriers of the Concept have no sense of self-preservation, and the Concept itself has every motivation to acquire Haley so that it can speed its burn through the multiverse. For it to win, she only has to slip up once, and it has no qualms about expending its thralls, whereas Haley will definitely have moral qualms about eradicating its shambling infected multitudes.
->>>> The Informorphs' defense mechanisms are useless against a superintelligent, fast-evolving version of the Concept. Their ancestral environment didn't include anything remotely as powerful, sheerly for anthropic principle reasons.
->>>> Add to this the fact that as long as a single instance of the Concept is recorded anywhere, it can grow back from that root. Haley will need to filter every mind in reality and every kind of recorded media in reality in order to defeat it. Even when she *thinks* she's defeated it, it might still have a bubble dimension somewhere full of thralls ready to spill out into reality, drop a Concept spray on the Moon, blast Concept music on every frequency, and release aerosolized prions into the atmosphere whose entire job is rewiring brains to serve the Concept.
->>>> Haley has magic, but *it has magic too.* It will certainly prioritize acquisition of magic users. Dumbledore, Voldemort, Gandalf, Sauron, Galadriel, Loki, Doctor Strange, John Constantine, Eidolon, Doctor Manhattan, Harry Dresden and more are certainly on the Concept's menu-- it will seek them out to gain more power so that it can accelerate its spread.
->>>> Aslan was a *miniboss.* The Concept is *factorially* more dangerous.
 >>>> 
+>>>> The Concept is *intelligent* and it *evolves,* and it has at its disposal the cunning of fiction's canniest detective and the magic of fiction's most powerful mage, and who knows how many other powerful characters. Algorithmic recognition is [notoriously easy to break](http://www.evolvingai.org/fooling)-- Google's phone camera software is certainly unable even to universally recognize human handwriting, regardless of those situations where it works well. The Concept should certainly be capable of evolving patterns that crash the recognition software itself (even if that software consists of time-dilated simulacra manually sorting through visual inputs (although this is probably the defense that would last the longest against it, but keep in mind that even a properly-sandboxed infected simulacrum is essentially an [AI box](https://en.wikipedia.org/wiki/AI_box) scenario-- and an iterative one, if you're sensibly killing off simulacra after every use. (Re: subjects falling unconscious, the duration of unconsciousness appears to change with varying iterations of the Concept. I'll bet it could easily evolve a version that appears to have no effect, while still effectively thralling. Or even just a time-delayed version that only takes effect after an interval. Or a binary-explosive form that requires two different images to be viewed at different times. Or one that doesn't affect simulacra.)))
+>>>> 
+>>>> Add to this the fact that the Concept is capable of sending in sleeper agents and Haley's impregnable security posture is suddenly Swiss cheese. (Flagg managed to breach her security, and Flagg wasn't as big a threat as Aslan. Aslan, in turn, was not as big a threat as the Concept. What will Haley do if Sean is brought back alive and well, seeming normal as ever, but "Haley just look at this one thing for me really quick?")
+>>>> 
+>>>> The Concept's greatest strength is that it doesn't rely on magic, and therefore doesn't rely on narrative to spread: Haley can only protect people with her magic if they agree to be a part of her narrative, whereas the Concept is only ever a Skype call, blog post or infomercial away from securing more minds, more firepower, and more narrative weight. Even her infinite Wishes aren't an automatic win in this scenario.
+>>>> 
+>>>> Carriers of the Concept have no sense of self-preservation, and the Concept itself has every motivation to acquire Haley so that it can speed its burn through the multiverse. For it to win, she only has to slip up once, and it has no qualms about expending its thralls, whereas Haley will definitely have moral qualms about eradicating its shambling infected multitudes.
+>>>> 
+>>>> The Informorphs' defense mechanisms are useless against a superintelligent, fast-evolving version of the Concept. Their ancestral environment didn't include anything remotely as powerful, sheerly for anthropic principle reasons.
+>>>> 
+>>>> Add to this the fact that as long as a single instance of the Concept is recorded anywhere, it can grow back from that root. Haley will need to filter every mind in reality and every kind of recorded media in reality in order to defeat it. Even when she *thinks* she's defeated it, it might still have a bubble dimension somewhere full of thralls ready to spill out into reality, drop a Concept spray on the Moon, blast Concept music on every frequency, and release aerosolized prions into the atmosphere whose entire job is rewiring brains to serve the Concept.
+>>>> 
+>>>> Haley has magic, but *it has magic too.* It will certainly prioritize acquisition of magic users. Dumbledore, Voldemort, Gandalf, Sauron, Galadriel, Loki, Doctor Strange, John Constantine, Eidolon, Doctor Manhattan, Harry Dresden and more are certainly on the Concept's menu-- it will seek them out to gain more power so that it can accelerate its spread.
+>>>> 
+>>>> Aslan was a *miniboss.* The Concept is *factorially* more dangerous.
 
->>>>> **u/Kuratius** [+3] *
+>>>>> **u/Kuratius** [+3]  (13 hours later)
 >>>>> 
 >>>>> Wait, so the concept isn't a memetic vector that can be transmitted through a single image? Is it a video feed? Is it magical in nature/does it need to be spread through a magical surface? A still image isn't enough to spread it?
 >>>>> Cause the set of images that can contain the concept's vector at a given resolution and colour coding is finite if the duration is as well. Because of this, you can guarantee that there is a minimum resolution required for the spread. Go below and it will be unable. You can filter any part of an image that changes faster than a given frequency reasonably well if you average pixels over a duration. If the concept is hidden by steganography, I think the right kind of noise would cancel it. 
->>>>> You can develop a vision system that filters all textures and only transmits the macroscopic shape of objects; I imagine that would defeat all currently existing forms of it. It would make screens and signs unreadable, but for combat and navigation purposes it's essentially sonar. I think you can create sonar and output the data as an image, which would still allow vision reasonably well.
 >>>>> 
+>>>>> You can develop a vision system that filters all textures and only transmits the macroscopic shape of objects; I imagine that would defeat all currently existing forms of it. It would make screens and signs unreadable, but for combat and navigation purposes it's essentially sonar. I think you can create sonar and output the data as an image, which would still allow vision reasonably well.
 
->>>>>> **u/gryfft** [+3] *
+>>>>>> **u/gryfft** [+3]  (15 hours later)
 >>>>>> 
 >>>>>> >A still image isn't enough to spread it?
->>>>>> I didn't mean that the still image isn't a memetic vector, but rather that infinite variations on that still image exist.
->>>>>> >Ever so slightly, the thought it encoded had changed. And viewing it, his visual cortex fired neurons in a new way, and he changed. Ever so slightly. The process repeated, over and over. View, paint, observe, repeat. The pattern shifted, became fluid, began encoding new thoughts, new overwhelming demands.
->>>>>> Every time he changes it, it's no longer the original image, but it still retains the core directive of the Concept. From the [original short story](http://www.infinityplus.co.uk/stories/blit.htm) where the Concept's progenitor (the "Langford Parrot") was conceived:
->>>>>> > The "Fractal Star" is generated by a relatively simple iterative procedure which determines whether any point in two-dimensional space (the complex field) does or does not belong to its domain. This algorithm is now classified.
->>>>>> >...In several zones of the complex field, this can produce BLIT effects when the resulting fine detail is displayed on a computer monitor of better than 600 x 300 pixels resolution.
->>>>>> That implies an infinite set of patterns that produce BLIT effects (or in this case, spread the Concept.) However, if the Concept is physically limited by those properties re: pixel encoding, then I think you're right on the money here:
->>>>>> >Cause the set of images that can contain the concept's vector at a given resolution and colour coding is finite if the duration is as well. Because of this, you can guarantee that there is a minimum resolution required for the spread. Go below and it will be unable.
->>>>>> Reducing resolution below 600x300 *might* be enough, although the Concept in this story has many more minds to work on the problem full-time, all the time, and may be able to discover lower-resolution images producing their desired effects. (In the original story, a terrorist wielding the Parrot wears special goggles to distort his vision and prevent lethal exposure, but he winds up cumulatively seeing too much of it from too many angles, and his mind eventually puts the pieces together against his will.)
->>>>>> Resolution gating, noise, pixel averaging and sonar are clever defenses but would be significant handicaps in battle, especially if the Concept has its magic users disguise existing thralls as friends and loved ones of the protagonists. Disguised thralls rip off the good guys' headsets and then the Concept wins the engagement. Or the Concept builds surfaces that reflect its carrier pattern when viewed with sonar (two tones is enough: the initial infection began with a pattern scratched into a table, and in the short story the Parrot is spread with stencils and spray paint.) Or the Concept manages to convert itself into an audio signal. Or any number of other things we haven't thought of, because it's got lots and lots of minds in its grasp and it's spreading like wildfire. And that's why it's so dangerous-- it's a constantly evolving hivemind that can spread at the speed of perception and which has already started digging into the nuts and bolts of the narrative-driven framework in which this universe exists.
->>>>>> The only foolproof security measure against the Concept is to run away from it. However, Haley doesn't run away from trouble and she doesn't abandon innocents. And, the narrative gave us a thread in the form of Anna's daemon Telantes; unfortunately, Telantes won't be able to get too far away from Anna barring the few special mechanisms in His Dark Materials that grant daemons the ability to physically separate from their masters, but it's a Chekhov's gun now, so from a narrative standpoint it has the power to turn the tide at a critical moment. It's also a possible indication that Wonderland creatures may be vital in defeating the Concept, because their brains don't run on neural nets, they eat paradoxes for breakfast, and their narrator is safely nestled outside physical reality.
->>>>>> (PS: I hope you're enjoying this back-and-forth as much as I am, this shit's what I come here for, if you aren't arguing about science fiction on the internet are you even really living)
 >>>>>> 
+>>>>>> I didn't mean that the still image isn't a memetic vector, but rather that infinite variations on that still image exist.
+>>>>>> 
+>>>>>> >Ever so slightly, the thought it encoded had changed. And viewing it, his visual cortex fired neurons in a new way, and he changed. Ever so slightly. The process repeated, over and over. View, paint, observe, repeat. The pattern shifted, became fluid, began encoding new thoughts, new overwhelming demands.
+>>>>>> 
+>>>>>> Every time he changes it, it's no longer the original image, but it still retains the core directive of the Concept. From the [original short story](http://www.infinityplus.co.uk/stories/blit.htm) where the Concept's progenitor (the "Langford Parrot") was conceived:
+>>>>>> 
+>>>>>> > The "Fractal Star" is generated by a relatively simple iterative procedure which determines whether any point in two-dimensional space (the complex field) does or does not belong to its domain. This algorithm is now classified.
+>>>>>> 
+>>>>>> >...In several zones of the complex field, this can produce BLIT effects when the resulting fine detail is displayed on a computer monitor of better than 600 x 300 pixels resolution.
+>>>>>> 
+>>>>>> That implies an infinite set of patterns that produce BLIT effects (or in this case, spread the Concept.) However, if the Concept is physically limited by those properties re: pixel encoding, then I think you're right on the money here:
+>>>>>> 
+>>>>>> >Cause the set of images that can contain the concept's vector at a given resolution and colour coding is finite if the duration is as well. Because of this, you can guarantee that there is a minimum resolution required for the spread. Go below and it will be unable.
+>>>>>> 
+>>>>>> Reducing resolution below 600x300 *might* be enough, although the Concept in this story has many more minds to work on the problem full-time, all the time, and may be able to discover lower-resolution images producing their desired effects. (In the original story, a terrorist wielding the Parrot wears special goggles to distort his vision and prevent lethal exposure, but he winds up cumulatively seeing too much of it from too many angles, and his mind eventually puts the pieces together against his will.)
+>>>>>> 
+>>>>>> Resolution gating, noise, pixel averaging and sonar are clever defenses but would be significant handicaps in battle, especially if the Concept has its magic users disguise existing thralls as friends and loved ones of the protagonists. Disguised thralls rip off the good guys' headsets and then the Concept wins the engagement. Or the Concept builds surfaces that reflect its carrier pattern when viewed with sonar (two tones is enough: the initial infection began with a pattern scratched into a table, and in the short story the Parrot is spread with stencils and spray paint.) Or the Concept manages to convert itself into an audio signal. Or any number of other things we haven't thought of, because it's got lots and lots of minds in its grasp and it's spreading like wildfire. And that's why it's so dangerous-- it's a constantly evolving hivemind that can spread at the speed of perception and which has already started digging into the nuts and bolts of the narrative-driven framework in which this universe exists.
+>>>>>> 
+>>>>>> The only foolproof security measure against the Concept is to run away from it. However, Haley doesn't run away from trouble and she doesn't abandon innocents. And, the narrative gave us a thread in the form of Anna's daemon Telantes; unfortunately, Telantes won't be able to get too far away from Anna barring the few special mechanisms in His Dark Materials that grant daemons the ability to physically separate from their masters, but it's a Chekhov's gun now, so from a narrative standpoint it has the power to turn the tide at a critical moment. It's also a possible indication that Wonderland creatures may be vital in defeating the Concept, because their brains don't run on neural nets, they eat paradoxes for breakfast, and their narrator is safely nestled outside physical reality.
+>>>>>> 
+>>>>>> (PS: I hope you're enjoying this back-and-forth as much as I am, this shit's what I come here for, if you aren't arguing about science fiction on the internet are you even really living)
 
->>>>>>> **u/Kuratius** [+2] *
+>>>>>>> **u/Kuratius** [+2]  (16 hours later)
 >>>>>>> 
 >>>>>>> >. (In the original story, a terrorist wielding the Parrot wears special goggles to distort his vision and prevent lethal exposure, but he winds up cumulatively seeing too much of it from too many angles, and his mind eventually puts the pieces together against his will.)
+>>>>>>> 
 >>>>>>> There are two explanations I can think of:
+>>>>>>> 
 >>>>>>> 1. He really did get exposed in small amounts, which are cumulative. This means that layering several layers of defense which increase the required exposure time is probably enough to make the meme useless for combat purposes. If each layer increases the required exposure by a factor, then a few of them stacked in the right way (preferably in a  constantly randomized order) mean that there isn't a single effective way to get past all the filters. This means that exposure is always minimal. This means you can possibly increase the safe exposure to its influence/proximity to months, if not decades.  It's kind of similar to avoiding resistance in HIV by using several medications at once. For all intents and purposes it would not be possible to infect someone using the right set of filters without ripping off their headset.  And if there's any chance you can use puppet bodies or replace your physical eyes, even that wouldn't be enough.
 >>>>>>> 2. His vision simply adapted to compensate for the distortion. I imagine if you're using lenses, every image is distorted in the same way (this wouldn't be case in a computer vision filter). So I think it's possible that his brain learned to compensate for the distortion. This is the same effect as your eyes actually seeing everything upside down, but your brain correcting for the effect. You can flip your vision if you wear upside down goggles for long enough.  A lot of distortion effects can actually be reversed almost perfectly if you know how the distortion works, see e.g. unswirling images. https://www.minnpost.com/politics-policy/2007/11/you-can-swirl-you-cant-hide/
+>>>>>>> 
 >>>>>>> I think the second one is more likely.
 >>>>>>> You can avoid adaption if you constantly change the distortion etc.
 >>>>>>> You can also make distortion effects that are effectively irreversible. Even if you do know a way to get past it at a particular time, the chance of you guessing the right one in succession to achieve enough exposure is astronomically small.
+>>>>>>> 
 >>>>>>> >Or the Concept manages to convert itself into an audio signal. Or any number of other things we haven't thought of, because it's got lots and lots of minds in its grasp and it's spreading like wildfire. And that's why it's so dangerous-- it's a constantly evolving hivemind that can spread at the speed of perception and which has already started digging into the nuts and bolts of the narrative-driven framework in which this universe exists.
+>>>>>>> 
 >>>>>>> For the purposes of the story, it already is an immensively powerful antagonist just because it has converted several magic users and a few million people while being a hivemind. Castrating its ability to spread at range isn't making it pushover. It's pretty much just evening the playing field to the point where it becomes about as infectious as a normal zombie plague/antagonist with access to mind control and telepathic communication.
 >>>>>>> It loses the added danger of being a meme.
->>>>>>> I think my methods wouldn't make for a compelling narrative, but they would be the most logical path.
 >>>>>>> 
+>>>>>>> I think my methods wouldn't make for a compelling narrative, but they would be the most logical path.
 
->>>>>>>> **u/gryfft** [+2] *
+>>>>>>>> **u/gryfft** [+2]  (17 hours later)
 >>>>>>>> 
 >>>>>>>> I agree on all points, except that I don't feel that any given set of measures against memetic exposure will ever be universally sufficient, since the Concept has the equivalent of thousands of dedicated penetration testing teams of which only one needs to get lucky once to deal a major blow to the protagonists. That's why I don't feel that even comprehensive measures will "castrate" its ability to spread-- and those comprehensive measures won't be available to the general populace of Earth quickly enough to prevent the Concept from quickly swelling to billions of minds' worth of strength even if Haley's faction remains safe.
->>>>>>>> I still feel comfortable with the 'Death Star' assessment, since it's nearly impossible to kill, will shortly have a significant chunk of the population as hostages, and has access to at least as much magic as Haley does (and presumably many more narrators.)
->>>>>>>> Edit: Changed 'any single measure' to 'any given set of measures,' to more accurately reflect what I meant in terms of even layered security.
 >>>>>>>> 
+>>>>>>>> I still feel comfortable with the 'Death Star' assessment, since it's nearly impossible to kill, will shortly have a significant chunk of the population as hostages, and has access to at least as much magic as Haley does (and presumably many more narrators.)
+>>>>>>>> 
+>>>>>>>> Edit: Changed 'any single measure' to 'any given set of measures,' to more accurately reflect what I meant in terms of even layered security.
 
->>>>>>>>> **u/Kuratius** [+2] *
+>>>>>>>>> **u/Kuratius** [+2]  (17 hours later)
 >>>>>>>>> 
 >>>>>>>>> Your point about a single failure being enough is valid.
 >>>>>>>>> By the way, do you know if magic wishes have infinite computing power? If so, generating a competing meme/anti-meme by brute force is viable. This is several times more expensive than the implied cost of Haleys timeloop though. Somewhere on the order of 10^10000 times more expensive. But it's probably a good way to annoy the guys who called her, or make them give her the meme she needs if they don't want her to drain them dry.
 >>>>>>>>> I assume the concept has a reasonable way to search all possible images that contain itself without resorting to brute force. It'd be interesting to see if that can be used to search for other memes or anti memes.
->>>>>>>>> Edit: You haven't really lived if you've never used a computer that can do a Greyham's number amount of operations per second.
 >>>>>>>>> 
+>>>>>>>>> Edit: You haven't really lived if you've never used a computer that can do a Greyham's number amount of operations per second.
 
->>>>>>>>>> **u/gryfft** [+2] *
+>>>>>>>>>> **u/gryfft** [+2]  (17 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> The thought of searching for inoculating memes/antimemes had occurred to me too, and I think it is definitely one of the stronger possible measures she could take to try to decisively win against it. Although, with any computation that large and powerful, there's the [AIXI Anvil Problem](https://wiki.lesswrong.com/wiki/Anvil_problem) to take into account (in a nutshell, when you search a sufficiently large problem space, you might run into things that break your computer-- or if you're thinking more eldritchly, that might break out of your computer and start sucking out your brain.)
->>>>>>>>>> There's also the morality of testing to take into account-- Haley might be uncomfortable with the ethics of simulated brains being used as test subjects for meme research.
->>>>>>>>>> Edit: oh god I just realized the Concept might have access to telepathy
 >>>>>>>>>> 
+>>>>>>>>>> There's also the morality of testing to take into account-- Haley might be uncomfortable with the ethics of simulated brains being used as test subjects for meme research.
+>>>>>>>>>> 
+>>>>>>>>>> Edit: oh god I just realized the Concept might have access to telepathy
 
->>>>>>>>>>> **u/RynnisOne** [+3] *
+>>>>>>>>>>> **u/RynnisOne** [+3]  (21 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> It's *Wishes*, man.  You can literally ask them to tell you what you should be looking for, then do the next one to narrow it down, until you've perfected the wording of the *wish* you need, then actually use it.
->>>>>>>>>>> Divination is broke enough in D&D/Pathfinder, having infinite *Wishes* that can copy it *and create other spell effects* is even more powerful.
->>>>>>>>>>> Plus, there are spells like *Mind Blank* on the high end and *Protection from Alignment* on the low end that make you immune to mind control.  This isn't as big a problem for Haley as you think... and that's ignoring that she's a Dragon now and thus an entirely new 'class' of creature it's not optimized to infect, with the ability to shapeshift into others.
 >>>>>>>>>>> 
+>>>>>>>>>>> Divination is broke enough in D&D/Pathfinder, having infinite *Wishes* that can copy it *and create other spell effects* is even more powerful.
+>>>>>>>>>>> 
+>>>>>>>>>>> Plus, there are spells like *Mind Blank* on the high end and *Protection from Alignment* on the low end that make you immune to mind control.  This isn't as big a problem for Haley as you think... and that's ignoring that she's a Dragon now and thus an entirely new 'class' of creature it's not optimized to infect, with the ability to shapeshift into others.
 
->>>>>>>>>>>> **u/gryfft** [+2] *
+>>>>>>>>>>>> **u/gryfft** [+2]  (21 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> I take your point about the power of Wish. However, its limitations in this story seem to be centered around its interactions with opposing narratives (or people who just haven't embraced Haley's narrative.) 
->>>>>>>>>>>> Haley herself would have absolutely zero trouble avoiding infection or ill effects, I think. But this story isn't about one person trying to save herself in a chaotic world. It's about someone trying to *save* the world. She's going to have to move very, very fast to do that, and time dilation will only go so far in that regard, because she's going to have to convince every person on Earth to accept her narrative before they get even a glimpse of the Concept, and time dilation won't work for them until they do.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> Haley herself would have absolutely zero trouble avoiding infection or ill effects, I think. But this story isn't about one person trying to save herself in a chaotic world. It's about someone trying to *save* the world. She's going to have to move very, very fast to do that, and time dilation will only go so far in that regard, because she's going to have to convince every person on Earth to accept her narrative before they get even a glimpse of the Concept, and time dilation won't work for them until they do.
 
-> **u/Hust91** [+5] *
+> **u/Hust91** [+4]  (2 hours later)
 > 
 > I am really enjoying this absurd writing rate, but it almost makes me worried for Sarsapariller's wellbeing.
-> 
 
->> **u/Kuratius** [+5] *
+>> **u/Kuratius** [+7]  (10 hours later)
 >> 
 >> I think they mentioned they had a backlog of like 20 chapters written. They just decided not to post everything all at once. So they're probably just doing some editing before posting.
->> 
 
->>> **u/Hust91** [+2] *
+>>> **u/Hust91** [+2]  (11 hours later)
 >>> 
 >>> Ah, that's a relief.
->>> 
 
 ---
 

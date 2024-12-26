@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+2] *
+> **u/eaglejarl** [+2]  (21 hours later)
 > 
 > I actually misnumbered this one.  It's actually chapter 16 but I originally titled it as 14 and threadmarked it as 15.  Yurgh.  Anyway, fixed now.
-> 
 
-> **u/LesserWrong** [+1] *
+> **u/LesserWrong** [+1]  (2 days later)
 > 
 > Why do people keep titling this Silvers?
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (2 days later)
 >> 
 >> Because I keep reading it as Silvers rather than Slivers.
->> 
 
 ---
 

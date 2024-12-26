@@ -2,7 +2,7 @@
 
 * Author: u/luminarium *
 * URL: https://www.reddit.com/r/rational/comments/ks0koy/rational_causes_of_pressure_for_going_into_space/
-* Score: 26
+* Score: 25
 
 * Created: 2021-01-06T23:54:14
 
@@ -18,9 +18,10 @@ Given that, what would be some realistic causes that would apply sufficient pres
 
 ### Comments:
 
-> **u/Do_Not_Go_In_There** [+33] *
+> **u/Do_Not_Go_In_There** [+31]  (3 hours later)
 > 
 > You've created scenarios where everything on Earth is basically perfect so there's no reason to leave. Most times, people leave because things aren't going well them. And your listed reasons to stay they can be easily flipped to much more realistic reasons to leave.
+> 
 > Reasons to stay| Reason to leave
 > --- | ---
 > It's easier to stay in contact with friends and relatives. | Overpopulation, overcrowding. Or maybe you're persecuted (race, religion, politics, etc.) and surrounded by enemies.
@@ -30,388 +31,417 @@ Given that, what would be some realistic causes that would apply sufficient pres
 > Valuable mineral resources are right beneath your feet, and don't require enormous airtight operations to mine.  | Mineral resources are depleted, but abundant in space. Or there are too many regulations for it to be profitable, while you also don't have to worry about in space 
 > Life support is not necessary and not a worry.  | Earth is inhospitable (climate change, nuclear fallout, disease, environmental disasters, etc.)
 > It doesn't cost $10,000+ a pound to go somewhere.  | There's nowhere *to* go (either the Earth is dying, or you're too poor, or because of war or persecution, etc.). e; Also, the actual cost is about a quarter of that, and dropping.
-> The mineral resources reason is actually true - we're running out of easily accessible minerals, like high quality ore that is close to the surface. You have to dig deeper to get a worse product that you would get a few decades ago. I remember at a workshop hosted by Vale Inco (a large mining company), the company guy flat out said that they were tapping mines that a few decades ago they wouldn't have even though about because they were such poor quality.
-> Space mining is supposedly the next big thing. many countries are preparing for it. Also, It doesn't necessarily need to be airtight to drill/mine. For smelting, yes, but that's a different story.
-> >Even if overuse of resources makes the earth a wasteland, even if climate change turns the earth into a very hot planet, it would still be magnitudes more habitable and economical than going to another world.
-> That really depends on the world in question. Most stories focus on finding/travelling to a world that is similar to Earth, or terraforming a planet to be habitable like Earth. The "Is it worth it economically?" argument also depends on the state of Earth. Many stories have people leave Earth because it is simply unlivable, for whatever reason.
-> You can even look at real-world examples of why people leave their homeland today. Look at what the [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_boat_people) did at the end of the war. They got in boats and tried their luck (800,000 left, 200,000-400,000 died) rather than stay in Vietnam. Or the Syrians just a few years ago. Regardless of how risky it is, people will leave if they believe there's a better life somewhere else.
 > 
+> The mineral resources reason is actually true - we're running out of easily accessible minerals, like high quality ore that is close to the surface. You have to dig deeper to get a worse product that you would get a few decades ago. I remember at a workshop hosted by Vale Inco (a large mining company), the company guy flat out said that they were tapping mines that a few decades ago they wouldn't have even though about because they were such poor quality.
+> 
+> Space mining is supposedly the next big thing. many countries are preparing for it. Also, It doesn't necessarily need to be airtight to drill/mine. For smelting, yes, but that's a different story.
+> 
+> >Even if overuse of resources makes the earth a wasteland, even if climate change turns the earth into a very hot planet, it would still be magnitudes more habitable and economical than going to another world.
+> 
+> That really depends on the world in question. Most stories focus on finding/travelling to a world that is similar to Earth, or terraforming a planet to be habitable like Earth. The "Is it worth it economically?" argument also depends on the state of Earth. Many stories have people leave Earth because it is simply unlivable, for whatever reason.
+> 
+> You can even look at real-world examples of why people leave their homeland today. Look at what the [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_boat_people) did at the end of the war. They got in boats and tried their luck (800,000 left, 200,000-400,000 died) rather than stay in Vietnam. Or the Syrians just a few years ago. Regardless of how risky it is, people will leave if they believe there's a better life somewhere else.
 
->> **u/Trips-Over-Tail** [+1]  *Death of Crabs**
+>> **u/Trips-Over-Tail** [+1]  *Death of Crabs* (17 hours later)
 >> 
 >> Unlike historical migrations, anywhere you intend to go that is not Earth will be worse than the place you left. We could completely ruin Earth and it would still be easier to survive here than anywhere else.
->> 
 
->>> **u/Do_Not_Go_In_There** [+7] *
+>>> **u/Do_Not_Go_In_There** [+6]  (18 hours later)
 >>> 
 >>> There is no way of knowing that for sure just yet. We're still mapping out the galaxy, and have a [list of potentially habitable exoplanets](https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets).
->>> And even if that is true that in reality we can't find a planet that matches Earth, in a fictional universe the author can create as many Earth-like analogues as they want.
->>> >We could completely ruin Earth and it would still be easier to survive here than anywhere else.
->>> That's doubtful. There are 40 billion Earth-like planets. Some of them are probably good enough for human life.
 >>> 
+>>> And even if that is true that in reality we can't find a planet that matches Earth, in a fictional universe the author can create as many Earth-like analogues as they want.
+>>> 
+>>> >We could completely ruin Earth and it would still be easier to survive here than anywhere else.
+>>> 
+>>> That's doubtful. There are 40 billion Earth-like planets. Some of them are probably good enough for human life.
 
->>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (21 hours later)
 >>>> 
 >>>> > That's doubtful. There are 40 billion Earth-like planets. Some of them are probably good enough for human life.
->>>> Additional potential problems: do they already have life on them? We're so picky about our biochemistry, we need molecules we eat to be of the right chirality or we can't extract useful nutrients from them. I find it really hard to believe we could survive on living beings from an alien biome, and farming with our crops a planet that's already dominated by a different biosphere sounds like a very uphill battle. So basically you need planets that are both very hospitable and also happen to not have anything on them yet.
 >>>> 
+>>>> Additional potential problems: do they already have life on them? We're so picky about our biochemistry, we need molecules we eat to be of the right chirality or we can't extract useful nutrients from them. I find it really hard to believe we could survive on living beings from an alien biome, and farming with our crops a planet that's already dominated by a different biosphere sounds like a very uphill battle. So basically you need planets that are both very hospitable and also happen to not have anything on them yet.
 
->>>>> **u/vakusdrake** [+2] *
+>>>>> **u/vakusdrake** [+6]  (23 hours later)
 >>>>> 
 >>>>> This actually perfectly encapsulates why I don't think people will want to colonize other planets except as a vanity project. Since it's easier to just artificially create an earth-like environment in a rotating space habitat, rather than trying to reshape an entire existing planet or being forced to live in a sealed habitat anyway while also having to contend with a massive atmosphere and gravity well making travel difficult.      
 >>>>> Plus asteroids and airless worlds are much better suited for automated mining machines than the complex and comparatively mineral poor environment of an earth-like planet.
->>>>> 
 
->>>> **u/vakusdrake** [+5] *
+>>>> **u/vakusdrake** [+3]  (20 hours later)
 >>>> 
 >>>> The massive problem you're missing is just how difficult it is to colonize other star systems. If you have the necessary technology to colonize other star systems, then you also have a staggering abundance of energy and resources with which you can easily live in luxury in artificial habitats. Plus colonizing other planets with existing biospheres is harder and less worthwhile than generally depicted. Since people likely won't be able to breath the atmosphere and they definitely won't be able to eat any of the native life (while also having to worry about dangerous wildlife and dealing with concerns about damaging an unspoiled alien ecosystem). Habitable planets are also harder to mine for resources and much more costly to transport goods on and off of (before you've set up major orbital infrastructure).       
->>>> TLDR: From a pragmatic standpoint the tech and resources required to colonize other solar systems makes living on planets unnecessary and colonizing them nothing more than a vanity project (not that those won't exist).
 >>>> 
+>>>> TLDR: From a pragmatic standpoint the tech and resources required to colonize other solar systems makes living on planets unnecessary and colonizing them nothing more than a vanity project (not that those won't exist).
 
->>>> **u/Trips-Over-Tail** [+1]  *Death of Crabs**
+>>>> **u/Trips-Over-Tail** [+2]  *Death of Crabs* (19 hours later)
 >>>> 
 >>>> In fiction you can tailor your whole universe to suit whatever story you want to tell. The sheer number of departures from reality to tell one of mass human interstellar migration makes a rational justification one of narrative and not science.
->>>> Certainly everywhere within reach in reality, and everywhere close enough to actually look at in enough detail to tell you in how many seconds an exposed human would messily perish on its surface, would be worse than surviving on Earth. We have a ready supply of oxygen here, even if we have to filter before breathing it. The atmospheric pressure means that a leak won't evacuate your section's entire supply or swiftly flood you with pressurised toxic gas. And while the temperature can rise or fall to the point of wrecking our biosphere and rendering certain portions of the surface unviable without a ready and reliable source of energy, it will never be truly uninhabitable without direct interference from the sun. Every habitat we've designed for surviving on other worlds would be much more effective put to use on a ruined Earth.
->>>> A planet that is already suitable for human life in terms of temperature, gravity, atmosphere (diurnal cycle is a crapshoot, expect worsening jetlag forever) will have life already on it (as indicated by all the free oxygen). This presents a major ethical problem (what right do we have to disrupt this world with alien organisms) as well as a host of biological hazards we have no way of preparing for, and in most cases no way of treating. Infection, parasitism, predation, major allergic reactions, and everything in between. We'd likely still hermetically sealed environments both for our safety and for the native biome. Again, it's not fundamentally distinct from living on a ruined Earth, although the previously described planetary habitats might not be rated against wildlife, which is unlikely to be a problem in most apocalyptic Earth scenarios. We can do it once we arrive, but other than the pleasure and potential benefits of studying an alien ecosystem we don't actually gain anything in terms of survival and quality of life compared to remaining on the scorched Earth.
 >>>> 
+>>>> Certainly everywhere within reach in reality, and everywhere close enough to actually look at in enough detail to tell you in how many seconds an exposed human would messily perish on its surface, would be worse than surviving on Earth. We have a ready supply of oxygen here, even if we have to filter before breathing it. The atmospheric pressure means that a leak won't evacuate your section's entire supply or swiftly flood you with pressurised toxic gas. And while the temperature can rise or fall to the point of wrecking our biosphere and rendering certain portions of the surface unviable without a ready and reliable source of energy, it will never be truly uninhabitable without direct interference from the sun. Every habitat we've designed for surviving on other worlds would be much more effective put to use on a ruined Earth.
+>>>> 
+>>>> A planet that is already suitable for human life in terms of temperature, gravity, atmosphere (diurnal cycle is a crapshoot, expect worsening jetlag forever) will have life already on it (as indicated by all the free oxygen). This presents a major ethical problem (what right do we have to disrupt this world with alien organisms) as well as a host of biological hazards we have no way of preparing for, and in most cases no way of treating. Infection, parasitism, predation, major allergic reactions, and everything in between. We'd likely still hermetically sealed environments both for our safety and for the native biome. Again, it's not fundamentally distinct from living on a ruined Earth, although the previously described planetary habitats might not be rated against wildlife, which is unlikely to be a problem in most apocalyptic Earth scenarios. We can do it once we arrive, but other than the pleasure and potential benefits of studying an alien ecosystem we don't actually gain anything in terms of survival and quality of life compared to remaining on the scorched Earth.
 
->>>>> **u/Do_Not_Go_In_There** [+8] *
+>>>>> **u/Do_Not_Go_In_There** [+6]  (19 hours later)
 >>>>> 
 >>>>> I'm not really sure what the point of this is. Basically you're saying that the elements that make science fiction work should be non-fictional? 
->>>>> I mean sure, there's a limit to how outrageous the setting should be, and should be grounded in reality. But to say that literally no planet should support human life, even if only for ethical reasons, because that's rational (when it really isn't) seems like you're going in that direction as well.
 >>>>> 
+>>>>> I mean sure, there's a limit to how outrageous the setting should be, and should be grounded in reality. But to say that literally no planet should support human life, even if only for ethical reasons, because that's rational (when it really isn't) seems like you're going in that direction as well.
 
-> **u/None** [+38] *
+> **u/None** [+38]  (29 minutes later)
 > 
 > You can look at historical examples, like American manifest destiny in which many people settled the frontier despite the multitude of dangers. Cheap and unclaimed land and resources.
-> 
 
->> **u/Valdrax** [+5] *
+>> **u/Valdrax** [+7]  (16 hours later)
 >> 
 >> Perhaps another American model for a rational reason for going to space would be to look at the religious settlers of colonial America, who struck out to find a space where they could be themselves without interference from larger competing cultures.
->> I expect that once space habitats become affordable for groups of middle class people pooling money together to acquire, all sorts of cults and semi-affluent disaffected young adult groups (beatniks, hippies, would-be Galts, etc.) will want to set up shop on their own little "island" in space.  You could also see some groups we haven't seen before, like transhumanists looking to escape the "Luddite pearl clutching" of bioethics regulations against experimentation on enhancing their children.
 >> 
+>> I expect that once space habitats become affordable for groups of middle class people pooling money together to acquire, all sorts of cults and semi-affluent disaffected young adult groups (beatniks, hippies, would-be Galts, etc.) will want to set up shop on their own little "island" in space.  You could also see some groups we haven't seen before, like transhumanists looking to escape the "Luddite pearl clutching" of bioethics regulations against experimentation on enhancing their children.
 
-> **u/sparr** [+41] *
+> **u/sparr** [+43]  (an hour later)
 > 
 > You don't seem to have thought through the flaws in your own arguments, which is mostly a prerequisite for being ready to incorporate the sort of feedback you're asking for here.
-> > even if we were to get more efficient with developing mechanisms for space travel
-> > cost $10,000+ a pound to go somewhere
-> In the vast majority of recurring-space-travel stories, the cost is reduced by orders of magnitude. People often buy tickets from one planet to another, or even between star systems, for the cost of a few days or months of labor, what might be ones or tens of dollars per pound in today's money.
-> > Even if overuse of resources makes the earth a wasteland, even if climate change turns the earth into a very hot planet, it would still be magnitudes more habitable [...] than going to another world.
-> No, it wouldn't. If the Earth's climate shifts even 5% towards Venus' climate, Mars would probably start to compare favorably. And that's just considering our solar system; in any story with interstellar travel you'll eventually find a planet or gas giant's moon with a climate and atmosphere more hospitable than Earth.
-> > Valuable mineral resources are right beneath your feet, and don't require enormous airtight operations to mine.
-> The cost and danger to mine lithium and coltan go up every year as we exhaust the easy to reach deposits, and we need more of them every year for high tech industries and products. The cost and danger to mine the asteroids go down every year as we get better at space travel. Those two curves will cross far before reaching the future settings of many scifi stories.
 > 
+> > even if we were to get more efficient with developing mechanisms for space travel
+> 
+> > cost $10,000+ a pound to go somewhere
+> 
+> In the vast majority of recurring-space-travel stories, the cost is reduced by orders of magnitude. People often buy tickets from one planet to another, or even between star systems, for the cost of a few days or months of labor, what might be ones or tens of dollars per pound in today's money.
+> 
+> > Even if overuse of resources makes the earth a wasteland, even if climate change turns the earth into a very hot planet, it would still be magnitudes more habitable [...] than going to another world.
+> 
+> No, it wouldn't. If the Earth's climate shifts even 5% towards Venus' climate, Mars would probably start to compare favorably. And that's just considering our solar system; in any story with interstellar travel you'll eventually find a planet or gas giant's moon with a climate and atmosphere more hospitable than Earth.
+> 
+> > Valuable mineral resources are right beneath your feet, and don't require enormous airtight operations to mine.
+> 
+> The cost and danger to mine lithium and coltan go up every year as we exhaust the easy to reach deposits, and we need more of them every year for high tech industries and products. The cost and danger to mine the asteroids go down every year as we get better at space travel. Those two curves will cross far before reaching the future settings of many scifi stories.
 
->> **u/SimoneNonvelodico** [+16]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+18]  *Dai-Gurren Brigade* (11 hours later)
 >> 
 >> > No, it wouldn't. If the Earth's climate shifts even 5% towards Venus' climate, Mars would probably start to compare favorably. And that's just considering our solar system; in any story with interstellar travel you'll eventually find a planet or gas giant's moon with a climate and atmosphere more hospitable than Earth.
->> The problem with that reasoning is, if you had enough energy, knowledge and resources to ship the entirety of humanity to Mars and terraform it or make it liveable, you'd have hundreds of times more energy, knowledge and resources that are needed to geoengineer Earth back into whatever the fuck you want it to be. I agree with OP's view if you apply it to full migration of the entire species. That sort of plot is usually nonsense. See Interstellar, where somehow they decide moving to another planet is the best solution to some kind of *crop disease* - never mind that it would be tremendously easy to just carry the disease over in whatever seeds, seedlings, soil, or even air they bring over from Earth to initiate agriculture on the new planet.
->> The thing is more, when it comes to *regular* space migration, there might be a ton of reasons for people to do that. Maybe a bunch of Mormons want to found Space Utah. But that would still leave the bulk of humanity on Earth.
 >> 
+>> The problem with that reasoning is, if you had enough energy, knowledge and resources to ship the entirety of humanity to Mars and terraform it or make it liveable, you'd have hundreds of times more energy, knowledge and resources that are needed to geoengineer Earth back into whatever the fuck you want it to be. I agree with OP's view if you apply it to full migration of the entire species. That sort of plot is usually nonsense. See Interstellar, where somehow they decide moving to another planet is the best solution to some kind of *crop disease* - never mind that it would be tremendously easy to just carry the disease over in whatever seeds, seedlings, soil, or even air they bring over from Earth to initiate agriculture on the new planet.
+>> 
+>> The thing is more, when it comes to *regular* space migration, there might be a ton of reasons for people to do that. Maybe a bunch of Mormons want to found Space Utah. But that would still leave the bulk of humanity on Earth.
 
->>> **u/sparr** [+6] *
+>>> **u/sparr** [+7]  (19 hours later)
 >>> 
 >>> > ship the entirety of humanity
->>> You seem to be assuming that people only pursue solutions that work for everyone. Most stories present the scenario that a small minority of people are going to Mars, in part to escape the crowding and people of Earth.
->>> It's much more viable to get .1% of us living on Mars than 100%, and that's enough reason to "go into space", regardless of how many people they leave behind.
 >>> 
+>>> You seem to be assuming that people only pursue solutions that work for everyone. Most stories present the scenario that a small minority of people are going to Mars, in part to escape the crowding and people of Earth.
+>>> 
+>>> It's much more viable to get .1% of us living on Mars than 100%, and that's enough reason to "go into space", regardless of how many people they leave behind.
 
->>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (20 hours later)
 >>>> 
 >>>> I'm not assuming one thing or the other, I'm saying the criticism of the OP rightfully applies specifically to those plots of movies, novels, games etc. that involve that sort of mass migration. I agreed that smaller groups would be much more viable.
->>>> 
 
->>>>> **u/sparr** [+3] *
+>>>>> **u/sparr** [+4]  (20 hours later)
 >>>>> 
 >>>>> OP did not mention mass migration. "Colonize" does not mean everyone leaves Earth. "Travel" does not mean everyone leaves Earth.
->>>>> 
 
->>>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (21 hours later)
 >>>>>> 
 >>>>>> Yes, and what I said was: those criticisms ONLY apply to the scenarios where everyone leaves Earth at once (which are indeed very common in popular sci-fi). But as you point out, those are not the only scenarios, so OP applied a bit too much of a broad brush and threw out the baby with the bath water.
->>>>>> 
 
->> **u/Norseman2** [+6] *
+>> **u/Norseman2** [+7]  (a day later)
 >> 
 >> >In the vast majority of recurring-space-travel stories, the cost is reduced by orders of magnitude. People often buy tickets from one planet to another, or even between star systems, for the cost of a few days or months of labor, what might be ones or tens of dollars per pound in today's money.
->> Just to add to this point, it looks like OP's figures are out of date and probably using the Space Shuttle as the launch vehicle ($12,000/lb.). However, prices have been steadily decreasing, and as of 2020, the Falcon Heavy can put a pound into low Earth orbit for about $430. SpaceX's Starship project is planned to be able to put a pound into orbit for under $10, and supposed to be ready for manned test flights by 2023. I'm not certain how feasible that goal is, but the fact they've even set that as a planned goal makes me think that getting below $100/pound within ten years is probably very feasible.
 >> 
+>> Just to add to this point, it looks like OP's figures are out of date and probably using the Space Shuttle as the launch vehicle ($12,000/lb.). However, prices have been steadily decreasing, and as of 2020, the Falcon Heavy can put a pound into low Earth orbit for about $430. SpaceX's Starship project is planned to be able to put a pound into orbit for under $10, and supposed to be ready for manned test flights by 2023. I'm not certain how feasible that goal is, but the fact they've even set that as a planned goal makes me think that getting below $100/pound within ten years is probably very feasible.
 
->>> **u/sparr** [+2] *
+>>> **u/sparr** [+2]  (a day later)
 >>> 
 >>> > the Falcon Heavy can put a pound into low Earth orbit for about $430
->>> To be fair, LEO is not equivalent to space travel. What are the best numbers right now for geosynchronous orbit (which still isn't far enough, but much more comparable)?
 >>> 
+>>> To be fair, LEO is not equivalent to space travel. What are the best numbers right now for geosynchronous orbit (which still isn't far enough, but much more comparable)?
 
->>>> **u/General__Obvious** [+1] *
+>>>> **u/General__Obvious** [+1]  (11 days later)
 >>>> 
 >>>> [According to NASA](https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html), just to get to Earth orbit is far and away the most energy-inefficient (per unit of distance travelled from launch) part of space travel. It takes roughly the same amount of Δv to get from Earth orbit to Mars as it does to get from Earth’s surface to orbit.
->>>> 
 
->>>>> **u/sparr** [+1] *
+>>>>> **u/sparr** [+1]  (12 days later)
 >>>>> 
 >>>>> What orbit do you think it's referring to?
->>>>> 
 
-> **u/PastafarianGames** [+21] *
+> **u/PastafarianGames** [+22]  (13 minutes later)
 > 
 > Space Australia may be barely habitable but you can still ship your social undesirables there!
-> 
 
->> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade* (11 hours later)
 >> 
 >> Oh shit now you have Sardaukars.
->> 
 
->>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+4]  *put aside fear for courage, and death for life* (13 hours later)
 >>> 
 >>> [But whoops, they're useless in modern combat!] (https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization/) (or terraforming, or...)
->>> 
 
->>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (15 hours later)
 >>>> 
 >>>> Yes but screw that, cool personal bodyguard corps of hardened badasses.
->>>> 
 
-> **u/OmniscientQ** [+9] *
+> **u/OmniscientQ** [+9]  (41 minutes later)
 > 
 > As a species, humanity should feel a need to spread as far and wide as possible in order to delay our extinction. Some day, disease or an asteroid or our own stupidity or, failing the above, our own sun dying will wipe out all life on Earth. If humanity hasn't spread to other worlds by then... Then that's it. We're done. We know it's going to happen eventually. Now, that argument might not be much help to the poor individuals selected to go, but someone has to do it.
-> 
 
->> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (17 hours later)
 >> 
 >> Fight, fight against the dying of the light.
->> 
 
-> **u/SvalbardCaretaker** [+16]  *Mouse Army**
+> **u/SvalbardCaretaker** [+16]  *Mouse Army* (an hour later)
 > 
 > Have you studied project rho? 
-> http://www.projectrho.com/public_html/rocket/macguffinite.php
-> http://www.projectrho.com/public_html/rocket/approcketcatu.php
-> Among the featured reasons: 
-> - "build it and they will come" approach, seems to be what Mr Musk is going for, eg if marginal costs drop low enough applications will pop up. 
-> - military applications, SDI satellites 
-> - new space race, might be between private entities (musk/bezos)  
-> - Special space ressource - Helium 3 for fusion being the typical example, though moon ore mining is not feasible due to low yield. For this you'll want gas giant aerostat mining. 
-> - noble metal asteroid mining has always been an evergreen. Might become even more relevant in the coming decades when en-masse electrolysis capability is being built (platinum used as electrode material). Offset by fossil car cat recycling. 
-> - escape from nation states, eg. religious reasons, think Utah in space, or maybe transhumanists that want to escape the worldwide human fetal modification ban. 
-> - asteroid hit and subsequent standing asteroid redirection capability - what happens if Chicago or Denver or Rome are wiped out? 
-> - we have a couple windows the next decades to redirect 100m asteroids into stable close earth orbits, Apophis - subsequent mining makes it a great basis for the rest of the system.
-> - new drive tech that takes the distance out as a factor. Eg. plasma magnet sail works only sol-outbound but can very cheaply get up to 400km/s, you "only" need a way to brake. 
-> Any way you cut it you need some way to drive cost down A LOT, laser launch/linear accelerator/reusable rocket/launch loop/canada uses north pole to get clean(ish) orion drive or something to even start the process.
-> EDIT: I forgot one that actually works somewhat well: rich space nerds. There are a lot of high pay jobs that can be done remote, software as the leading example. So a small minority might prefer owning a tunnel in phobos instead of owning a house in silicon valley. Just takes a rather minor extrapolation of launch cost falls and SF house price increases.
-> EDIT2:    one thats *actually* realistic. Humanity as a whole has decided it'd rather bear the consequences of global heating instead of cutting CO2 emisions drastically. There will be a time in the near future where it'll be cheaper to engineer the climate instead of dealing with the consequences of heating.  The current cheapest plan to do that is dumping 100k tons of sulfur into the upper stratosphere, seeding clouds, reducing incoming solar energy but brings acidic rainfalls. That runs to 5e9 $ yearly, pretty cheap - but politically infeasible in current eco-hippy atmosphere.    The one plan that can be done unilaterally without running afoul of my very cynically modelled eco-crowd is solar soletta plans.
 > 
+> http://www.projectrho.com/public_html/rocket/macguffinite.php
+> 
+> http://www.projectrho.com/public_html/rocket/approcketcatu.php
+> 
+> Among the featured reasons: 
+> 
+> - "build it and they will come" approach, seems to be what Mr Musk is going for, eg if marginal costs drop low enough applications will pop up. 
+> 
+> - military applications, SDI satellites 
+> 
+> - new space race, might be between private entities (musk/bezos)  
+> 
+> - Special space ressource - Helium 3 for fusion being the typical example, though moon ore mining is not feasible due to low yield. For this you'll want gas giant aerostat mining. 
+> 
+> - noble metal asteroid mining has always been an evergreen. Might become even more relevant in the coming decades when en-masse electrolysis capability is being built (platinum used as electrode material). Offset by fossil car cat recycling. 
+> 
+> - escape from nation states, eg. religious reasons, think Utah in space, or maybe transhumanists that want to escape the worldwide human fetal modification ban. 
+> 
+> - asteroid hit and subsequent standing asteroid redirection capability - what happens if Chicago or Denver or Rome are wiped out? 
+> 
+> - we have a couple windows the next decades to redirect 100m asteroids into stable close earth orbits, Apophis - subsequent mining makes it a great basis for the rest of the system.
+> 
+> - new drive tech that takes the distance out as a factor. Eg. plasma magnet sail works only sol-outbound but can very cheaply get up to 400km/s, you "only" need a way to brake. 
+> 
+> Any way you cut it you need some way to drive cost down A LOT, laser launch/linear accelerator/reusable rocket/launch loop/canada uses north pole to get clean(ish) orion drive or something to even start the process.
+> 
+> EDIT: I forgot one that actually works somewhat well: rich space nerds. There are a lot of high pay jobs that can be done remote, software as the leading example. So a small minority might prefer owning a tunnel in phobos instead of owning a house in silicon valley. Just takes a rather minor extrapolation of launch cost falls and SF house price increases.
+> 
+> EDIT2:    one thats *actually* realistic. Humanity as a whole has decided it'd rather bear the consequences of global heating instead of cutting CO2 emisions drastically. There will be a time in the near future where it'll be cheaper to engineer the climate instead of dealing with the consequences of heating.  The current cheapest plan to do that is dumping 100k tons of sulfur into the upper stratosphere, seeding clouds, reducing incoming solar energy but brings acidic rainfalls. That runs to 5e9 $ yearly, pretty cheap - but politically infeasible in current eco-hippy atmosphere.    The one plan that can be done unilaterally without running afoul of my very cynically modelled eco-crowd is solar soletta plans.
 
->> **u/SimoneNonvelodico** [+14]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+15]  *Dai-Gurren Brigade* (8 hours later)
 >> 
 >> > politically infeasible in current eco-hippy atmosphere
->> While I’m not against climate engineering in principle, if the political atmosphere really was “eco hippy” we wouldn’t be in this shit. Being extremely wary of interventions on a complex system we can’t fully model or predict and whose functioning we depend on is common sense.
 >> 
+>> While I’m not against climate engineering in principle, if the political atmosphere really was “eco hippy” we wouldn’t be in this shit. Being extremely wary of interventions on a complex system we can’t fully model or predict and whose functioning we depend on is common sense.
 
->>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (15 hours later)
 >>> 
 >>> I don't have a better name for the type of pseudo environmentalism that forbids one-time use plastics in the name of pollution+global warming. Some type of NIMBY-ism for CO2 and other related blind spots.
->>> 
 
->>>> **u/SimoneNonvelodico** [+9]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+10]  *Dai-Gurren Brigade* (15 hours later)
 >>>> 
 >>>> It's often called "greenwashing" - the process of focusing on very small actions that mostly fall on consumers to create an illusion of environmental progress to relieve pressure on regulators and major industrial operators to enact anything like real effective change.
->>>> 
 
->>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (15 hours later)
 >>>>> 
 >>>>> I associate greenwashing more with corporate style interventions and it lacks the cognitive dissonance for effective measures vs own highly mobile lifestyle, but thanks! 
->>>>> I do also agree that climate interventions should be carefully researched beforehand. Its just no-one does that, its taboo to even finance small scale studies. The last study for algae burying via iron fertilizing was done in the early 2000s.
 >>>>> 
+>>>>> I do also agree that climate interventions should be carefully researched beforehand. Its just no-one does that, its taboo to even finance small scale studies. The last study for algae burying via iron fertilizing was done in the early 2000s.
 
->>>>>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade* (15 hours later)
 >>>>>> 
 >>>>>> > I associate greenwashing more with corporate style interventions and it lacks the cognitive dissonance for effective measures vs own highly mobile lifestyle, but thanks! 
->>>>>> Yeah, but if you consider how corporations and politics mesh, I'd say you can reasonably argue that silly steps like "let's abolish single use plastic straws" are probably pushed in the same vein. Good optics at a minimum cost (for the state's coffers, at least). Note that we probably *should* do that at some point, it's just by no means even in the top 10 most important things to do.
->>>>>> > I do also agree that climate interventions should be carefully researched beforehand. Its just no-one does that, its taboo to even finance small scale studies. The last study for algae burying via iron fertilizing was done in the early 2000s.
->>>>>> Eh, I can see the problems though. They're not just scientific and technological ones. Weather knows no bounds. Suppose you perform an experiment here and it ruins the crops of the next nation over, how are you going to explain that? Note that it's still going to happen, very likely (in fact I read something just days ago about China performing geoengineering experiment to increase rain). There's lots of geopolitical risk involved with these actions. And if someone started performing geoengineering on full scale, stuff like reflecting away sunlight to cool down the planet, then you're by definition doing something that affects everyone else too. That could only be done by international collaborations. And right now it seems like things are taking the opposite road, with many countries focusing each just on their own interests. And I suspect that's not unrelated to the climate change problem, among other things. Many seem to gear up for a very short-sighted approach of "fuck them, I got mine", especially countries with latitudes high enough they can reasonably think to still have good agricultural production or even gain something from a +2/+3 increase in global temperatures.
 >>>>>> 
+>>>>>> Yeah, but if you consider how corporations and politics mesh, I'd say you can reasonably argue that silly steps like "let's abolish single use plastic straws" are probably pushed in the same vein. Good optics at a minimum cost (for the state's coffers, at least). Note that we probably *should* do that at some point, it's just by no means even in the top 10 most important things to do.
+>>>>>> 
+>>>>>> > I do also agree that climate interventions should be carefully researched beforehand. Its just no-one does that, its taboo to even finance small scale studies. The last study for algae burying via iron fertilizing was done in the early 2000s.
+>>>>>> 
+>>>>>> Eh, I can see the problems though. They're not just scientific and technological ones. Weather knows no bounds. Suppose you perform an experiment here and it ruins the crops of the next nation over, how are you going to explain that? Note that it's still going to happen, very likely (in fact I read something just days ago about China performing geoengineering experiment to increase rain). There's lots of geopolitical risk involved with these actions. And if someone started performing geoengineering on full scale, stuff like reflecting away sunlight to cool down the planet, then you're by definition doing something that affects everyone else too. That could only be done by international collaborations. And right now it seems like things are taking the opposite road, with many countries focusing each just on their own interests. And I suspect that's not unrelated to the climate change problem, among other things. Many seem to gear up for a very short-sighted approach of "fuck them, I got mine", especially countries with latitudes high enough they can reasonably think to still have good agricultural production or even gain something from a +2/+3 increase in global temperatures.
 
->>>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (15 hours later)
 >>>>>>> 
 >>>>>>> Yeah, I'm very much a techno-optimist. I rely on this optimism because of this talk, the speaker is optimistic that current climate models are well enough understood to somewhat safely do geoengineering. The tradeoff in known risk from rising temps to unknown risks with artifically lowered temps seems to be good. 
 >>>>>>> https://www.youtube.com/watch?v=xWI2w2F1gMg
->>>>>>> 
 
->>>>>>>> **u/SimoneNonvelodico** [+6]  *Dai-Gurren Brigade**
+>>>>>>>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade* (16 hours later)
 >>>>>>>> 
 >>>>>>>> But that's just the technological aspect. The climate models are also good to predict why and how we should act to reduce the emissions in the first place. So why haven't we done that? Politics, which now more than ever seem eminently divorced from scientific evidence (in either good or bad faith).
->>>>>>>> 
 
->>>>>>>>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>>>>>>>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (16 hours later)
 >>>>>>>>> 
 >>>>>>>>> Oh for sure. If humanity decided to keep on blowing CO2 into the air, so be it. But then also please study backup methods in case the permafrost blows up into our faces. I'm just fed up with the civisational incompetence of our species currently.
->>>>>>>>> 
 
->>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (16 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> One reason why some people are opposed to studying geoengineering may be that they think that having that way out - however risky - could encourage us to simply stop caring about blowing CO2 into the air, thinking that "we can fix it later anyway" (even though we're not sure we can). But then again we're still blowing CO2 into the air. At some point we'll probably start a mad rush to geoengineering in a panic, and somehow fuck it up. Frankly I think we're just over our heads, as a species we've hit a point where problems exceed most of our cognitive abilities both in scale and complexity, and sadly our collective intelligence doesn't seem to be much better at these tasks - if anything, it seems significantly worse than the one of most above average individual humans.
->>>>>>>>>> 
 
->> **u/Way-a-throwKonto** [+1] *
+>> **u/Way-a-throwKonto** [+1]  (2 days later)
 >> 
 >> There's actually a new geoengineering tech: olivine mining.  There's already a natural mechanism to remove carbon from the atmosphere - the carbonate cycle - but it happens really slowly.  So the idea is to mine lots and lots of olivine - a superabundant mineral in Earth's crust - and crush it into sand and spread it on about 2% of the world's beaches, in tropical areas.  The sand dissolves into the ocean, and removes carbon, ultimately filtering down to the seafloor where it slowly sinks into the mantle.
->> Cost : $7/ton CO2 (or carbon... can't remember.) 
->> I have a source for this but I'm in bed and lazy.  If you want it though I can link you.  Should be pretty searchable though.
 >> 
+>> Cost : $7/ton CO2 (or carbon... can't remember.) 
+>> 
+>> I have a source for this but I'm in bed and lazy.  If you want it though I can link you.  Should be pretty searchable though.
 
-> **u/CreationBlues** [+3] *
+> **u/CreationBlues** [+4]  (7 hours later)
 > 
 > Everyone else is focusing on getting off of earth, so lets talk about what causes travel once people are *already* in space.
-> First of all, travel is cheap cheap cheap. Once you have an industrial base on the moon, you're more than halfway to anywhere. Asteroid belt, oort cloud, the moons of the gas giants, the sun, all of them are relatively easy to get to.
-> If you've got the tech to make O'Neil cylinders, then most places in the solar system are the same as any other. In fact, through the use of [Cycler Orbits](https://en.wikipedia.org/wiki/Cycler) pretty much any ship/station can be turned into a trade city as it efficiently transports wealth between the major/minor bodies of the solar system. 
-> Second, there are trillions of dollars worth of value locked in the rest of the solar system. Yes, metals will be vastly devalued *relative to the dollar.* But water is both necessary and cheap, and if there was a bottleneck in water the productivity in the economy would drop massively. In the same way, the *value* of metals would not change as they have the exact same uses as they did before. The difference is that they'd be freer to be used both in necessary and less necessary ways. While metals would be worth less, the total economy would explode in productivity. 
-> Finally, you need to consider the role of technology. Try to forecast not only the needs of our current society but the future needs and abilities of humanity.
 > 
+> First of all, travel is cheap cheap cheap. Once you have an industrial base on the moon, you're more than halfway to anywhere. Asteroid belt, oort cloud, the moons of the gas giants, the sun, all of them are relatively easy to get to.
+> 
+> If you've got the tech to make O'Neil cylinders, then most places in the solar system are the same as any other. In fact, through the use of [Cycler Orbits](https://en.wikipedia.org/wiki/Cycler) pretty much any ship/station can be turned into a trade city as it efficiently transports wealth between the major/minor bodies of the solar system. 
+> 
+> Second, there are trillions of dollars worth of value locked in the rest of the solar system. Yes, metals will be vastly devalued *relative to the dollar.* But water is both necessary and cheap, and if there was a bottleneck in water the productivity in the economy would drop massively. In the same way, the *value* of metals would not change as they have the exact same uses as they did before. The difference is that they'd be freer to be used both in necessary and less necessary ways. While metals would be worth less, the total economy would explode in productivity. 
+> 
+> Finally, you need to consider the role of technology. Try to forecast not only the needs of our current society but the future needs and abilities of humanity.
 
-> **u/King_of_Men** [+3] *
+> **u/King_of_Men** [+5]  (13 hours later)
 > 
 > > It's easier to stay in contact with friends and relatives. You get the latest and greatest (medicine, technology, goods, etc). You have access to the most options, the most stores, the widest variety of products on offer.
-> These reasons seem to prove that nobody would ever want to move to another country, especially if that country had less advanced infrastructure. Which presumably is why the American continents and Australia are still ruled by their respective indigenous peoples.
 > 
+> These reasons seem to prove that nobody would ever want to move to another country, especially if that country had less advanced infrastructure. Which presumably is why the American continents and Australia are still ruled by their respective indigenous peoples.
 
->> **u/Nimelennar** [+1] *
+>> **u/Nimelennar** [+1]  (14 hours later)
 >> 
 >> What indigenous peoples?  I thought everyone still lived in Africa.
->> 
 
-> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (2 hours later)
 > 
 > If you can get to a point where large scale space industry is possible, then you can move large scale industry into space and just drop finished goods to Earth. Shipping things to Earth using aerobraking is cheap compared to getting anything up there, and has little ecological cost.
-> 
 
-> **u/AngryEdgelord** [+2] *
+> **u/AngryEdgelord** [+2]  (an hour later)
 > 
 > One of the main drivers for relocation in the past has been competition. If food, housing, healthcare, and opportunities rise beyond the cost of moving into space, then people will move into space. That could be because of war, famine, massive overpopulation, class stratification, you name it. People will pack up looking for greener pastures, even if those pastures end up being in space.
-> 
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (11 hours later)
 >> 
 >> The question is if space can ever get greener. I see three options:
->> 1) FTL travel is impossible, as we suspect now, and there are no revolutionary propulsion systems to be discovered. It may never get greener. Generation ships might be possible, however really expensive, and sending them into the unknown without any idea of whether there are inhabitable planets on the other end would be suicidal. Interstellar space travel might never be a thing unless first we manage to significantly extend human life or reduce the requirements for survival (e.g. cryostasis, sending just brains in vats instead of whole bodies, sending brain uploads, etc.).
->> 2) FTL travel is impossible but there are propulsion systems that can allow you to reach relativistic speeds quite cheaply. In this scenario, people can leave and go visit nearby stars within their lifetimes, as long as they're ok with never returning to the Earth they left, as decades or centuries will have passed back home. Still no possibility of a unified human civilisation / empire / federation / whatever, but someone would definitely bite the bullet and give it a try. Some would die, some would thrive. Sparse human colonies form, each ending up diverging along its own culture and customs.
->> 3) FTL travel is possible, or even better, wormholes and such can be created and exploited usefully. Then sky's the limit - actually, no, not even that. In this scenario we go full space opera and likely start to spread all around the galaxy like crazy, wherever there's a suitable planet.
->> These are in order from most probable to most improbable. I don't think anything we currently know we don't know in physics suggests room for either 2 or 3, so it would have to be something we don't even know we don't know yet. Hard to fathom what would it be.
 >> 
+>> 1) FTL travel is impossible, as we suspect now, and there are no revolutionary propulsion systems to be discovered. It may never get greener. Generation ships might be possible, however really expensive, and sending them into the unknown without any idea of whether there are inhabitable planets on the other end would be suicidal. Interstellar space travel might never be a thing unless first we manage to significantly extend human life or reduce the requirements for survival (e.g. cryostasis, sending just brains in vats instead of whole bodies, sending brain uploads, etc.).
+>> 
+>> 2) FTL travel is impossible but there are propulsion systems that can allow you to reach relativistic speeds quite cheaply. In this scenario, people can leave and go visit nearby stars within their lifetimes, as long as they're ok with never returning to the Earth they left, as decades or centuries will have passed back home. Still no possibility of a unified human civilisation / empire / federation / whatever, but someone would definitely bite the bullet and give it a try. Some would die, some would thrive. Sparse human colonies form, each ending up diverging along its own culture and customs.
+>> 
+>> 3) FTL travel is possible, or even better, wormholes and such can be created and exploited usefully. Then sky's the limit - actually, no, not even that. In this scenario we go full space opera and likely start to spread all around the galaxy like crazy, wherever there's a suitable planet.
+>> 
+>> These are in order from most probable to most improbable. I don't think anything we currently know we don't know in physics suggests room for either 2 or 3, so it would have to be something we don't even know we don't know yet. Hard to fathom what would it be.
 
->>> **u/vakusdrake** [+2] *
+>>> **u/vakusdrake** [+2]  (21 hours later)
 >>> 
 >>> Option 2 is actually a safe good bet unless something halts technological progress. Once you've begun the path towards being K2 by having lots of automated machines pumping out lots of satellites/[statites](https://en.wikipedia.org/wiki/Statite) you automatically get access to cheap relativistic propulsion via mirrors and stellasers. However I think you underestimate this scenario because you were thinking about methods of propulsion which are internal to an interstellar ship. So let me propose an alternate scenario from the one you put forth:
+>>> 
 >>> Pretty much every part of the colonization process is automated. First small probes are sent on relativistic flyby trajectories to provide reconnaissance (or just use the sun-diving probes described later). Next you either send a Von-Neumann probe with an engine able to slow it down on arrival, or you send a series of potentially hundreds of small relativistic sun-diving probes. These probes would use their massive sails to help slow down, but would also collect solar energy and beam it back to the probe behind it. Thus each probe in the chain would get slowed down until the remaining probes are slowed enough they can establish stable orbits. In either case the probe(s) would begin building up a Dyson swarm in the new system which could then receive digital minds via transmission and use lasers to slow down any ships entering the system. 
 >>> Additionally these [interstellar laser highways](https://www.youtube.com/watch?v=oDR4AHYRmlk) have a *lot* of advantages compared to basically anything other than FTL. By having dedicated lanes of travel you can make sure it is clear of any debris without requiring every ship to have a massive amount of hardware for detecting and avoiding/destroying interstellar sand/gravel. Plus a small number of well maintained lanes can also allow for much higher resolution scanning of dust grains and thus higher speeds. So in principle this allows you to cheaply send ships with very little of their own fuel along highways at most of the speed of light.
->>> As for human civilization, if it isn't controlled by some singular superintelligence it's probably going to splinter into more nations than exist now (not less) well before there's time for major interstellar colonization. After all even within the solar system it's likely not feasible to prevent millions of new cultures from breaking away particularly if they are isolated [say in the Oort Cloud](https://www.youtube.com/watch?v=H8Bx7y0syxc). So through isolation as well as genetic engineering, cybernetics, etc I suspect we will splinter into hundreds (or more) of alien species well before we encounter true aliens
 >>> 
+>>> As for human civilization, if it isn't controlled by some singular superintelligence it's probably going to splinter into more nations than exist now (not less) well before there's time for major interstellar colonization. After all even within the solar system it's likely not feasible to prevent millions of new cultures from breaking away particularly if they are isolated [say in the Oort Cloud](https://www.youtube.com/watch?v=H8Bx7y0syxc). So through isolation as well as genetic engineering, cybernetics, etc I suspect we will splinter into hundreds (or more) of alien species well before we encounter true aliens
 
->>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (21 hours later)
 >>>> 
 >>>> That sounds legit, though I still don't know about the energy and time requirements. My argument about lifespan in 1 (that applies to this too in part) was due to the fact that any of these projects - using probes and such - would require times that compare with the lifespan of a single individual, except for the closest stars. We're not super great at keeping our resources and attention focused for that long, at least not with our current cultural mindset (though we did manage to build gothic cathedrals at some point, so obviously 100-year long projects aren't completely out of the question). In that sense, I think having a longer perspective would increase the probability of people engaging in longer term plans.
->>>> 
 
->>>>> **u/vakusdrake** [+1] *
+>>>>> **u/vakusdrake** [+1]  (22 hours later)
 >>>>> 
 >>>>> People with life extension tech and digital minds will help in that regard, since we'll have plenty of immortals *some* of whom will think long term (maybe even to the heat death of the universe). 
 >>>>> To colonize the galaxy and local group you don't necessarily need to have any ships going on century long voyages. A K2 civilization could expand entirely through shorter interstellar voyages and [through moving entire planets or stars](https://www.youtube.com/watch?v=GxwCIeWaU3M). Plus one can always send out lots of Von-Neumann probes to rapidly expand and build Dyson swarms (and interstellar laser highways) around every star in your local group way faster than you could colonize directly (unless you're a digital civilization which can have insane population growth if people are running very fast).
->>>>> PS: When it comes to time and energy requirements the key advantage you have once you have space infrastructure and automation modestly better than our own is self replication. If you have machines producing satellites/statites [on Mercury](https://www.youtube.com/watch?v=P4aXmnQzJ0o) and they can self replicate then you can potentially take advantage of massive exponential growth as each statite/satellite produced provides energy to more rapidly build machines.
 >>>>> 
+>>>>> PS: When it comes to time and energy requirements the key advantage you have once you have space infrastructure and automation modestly better than our own is self replication. If you have machines producing satellites/statites [on Mercury](https://www.youtube.com/watch?v=P4aXmnQzJ0o) and they can self replicate then you can potentially take advantage of massive exponential growth as each statite/satellite produced provides energy to more rapidly build machines.
 
->>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (22 hours later)
 >>>>>> 
 >>>>>> It all depends on how dense Earth-like planets are, though. If you can find one on average in a sphere of 10 LY it's very different than if you have to travel 100 LY or more.
->>>>>> 
 
->>>>>>> **u/vakusdrake** [+1] *
+>>>>>>> **u/vakusdrake** [+1]  (23 hours later)
 >>>>>>> 
 >>>>>>> The idea that civilizations would primarily expand through finding other planets like earth to colonize, or through terraforming other planets to be hospitable to humans is a silly and unrealistic sci-fi cliche. It's much easier and more profitable to colonize asteroids and airless worlds like Mercury (see the PS added to my previous comment). Since airless worlds are vastly easier and cheaper to export goods from until you have very substantial orbital infrastructure around a planet.       
 >>>>>>> When it comes to interstellar colonization habitable planets become even more unnecessary: After all it's easier for non-sentient Von-Neumann probes to just build lots of O'Neill cylinders in preparation for human colonists arrival via laser highway. Ultimately for a post scarcity civilization (at least by current standards) habitable planets just aren't all that economically appealing, and they require a vastly higher upfront investment to colonize because of the massive infrastructure needed to counteract the massive cost to getting things out of a big gravity well and through an atmosphere.
->>>>>>> 
 
->>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (23 hours later)
 >>>>>>>> 
 >>>>>>>> >  It's much easier and more profitable to colonize asteroids and airless worlds like Mercury (see the PS added to my previous comment).
->>>>>>>> There's a big difference between industrial/mining colonies and autonomous living colonies though. What you say applies more to intra-Solar colonisation. This side of - again - radical changes to human biology and anatomy, we need Earth-like gravity, we need sunlight, we need open space and air, and we need some serious radiation shielding, or our little primate brains start go cuckoo and our bodies break in various ways. So basically it all goes back to that. All space colonisation might hinge on transhumanism of some sort - or simply might be carried out by robots smart enough that we might consider them a lifeform of their own and in some way the continuation of humanity itself. As we are, we have limits on how much we can do, where and for how long.
 >>>>>>>> 
+>>>>>>>> There's a big difference between industrial/mining colonies and autonomous living colonies though. What you say applies more to intra-Solar colonisation. This side of - again - radical changes to human biology and anatomy, we need Earth-like gravity, we need sunlight, we need open space and air, and we need some serious radiation shielding, or our little primate brains start go cuckoo and our bodies break in various ways. So basically it all goes back to that. All space colonisation might hinge on transhumanism of some sort - or simply might be carried out by robots smart enough that we might consider them a lifeform of their own and in some way the continuation of humanity itself. As we are, we have limits on how much we can do, where and for how long.
 
->>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>> **u/vakusdrake** [+1]  (23 hours later)
 >>>>>>>>> 
 >>>>>>>>> >This side of - again - radical changes to human biology and anatomy, we need Earth-like gravity, we need sunlight, we need open space and air, and we need some serious radiation shielding, or our little primate brains start go cuckoo and our bodies break in various ways. So basically it all goes back to that.
+>>>>>>>>> 
 >>>>>>>>> Once you reach a certain tech level it's still much cheaper and easier to support even baseline humans in space habitats. We don't know whether even Mars gravity would be enough to support human health (without having to set up an entire spinning mars habitat), whereas spin gravity can be customized for every preference. Planets are nice for radiation shielding, but lots of rock or ice along with an artificial magnetic field will do the job just as well. [For scale note that it would take about the output of a large nuclear reactor placed at the Lagrange point between Mars and the Sun in order to artificially shield the planet replicating a natural magnetic field.](https://www.youtube.com/watch?v=RcXBuYwm3xk&feature=emb_title)      
 >>>>>>>>> Hell if the population keeps rising most people may actually live in low earth orbit rotating habitats, with those remaining on earth being poor and packed into megacities, or so rich they can still afford land on earth. Since space on the planet it *fundamentally limited*, whereas in orbit everybody can have their own O'Neil cylinder with many square miles of unpolluted nature.
->>>>>>>>> PS: You could also shield the Earth with a massive electromagnet just like mentioned for Mars, and people may want to do that so as to shield satellites in higher earth orbits from solar radiation.
 >>>>>>>>> 
+>>>>>>>>> PS: You could also shield the Earth with a massive electromagnet just like mentioned for Mars, and people may want to do that so as to shield satellites in higher earth orbits from solar radiation.
 
-> **u/vakusdrake** [+2] *
+> **u/vakusdrake** [+2]  (20 hours later)
 > 
 > In the short term people will be incentivized to live in space in order to capitalize on space mining and manufacturing. That doesn't necessarily get you a very sizable population of people in space however. Once technology (primarily automation) advances to a certain point however (and this needn't even be close to AGI), suddenly the dynamic changes completely. 
+> 
 > Once you can have self replicating machines mining planets ([say Mercury](https://www.youtube.com/watch?v=P4aXmnQzJ0o)) and asteroids to pump out massive numbers of satellites made mostly of a thin foil solar sail, suddenly scarcity becomes almost nonexistent for most essential goods. Moreover individual people can afford to commission their own stellaser to send out massive numbers of Von Neumann probes. Importantly this also flips many of the sorts of scarcity you mention on their head. Suddenly anybody can potentially afford their own O'Neil cylinder with many square miles of space and live like a king in space, but particularly as the population grows the value of land *on Earth* will skyrocket.       
 > VR/Mind Uploading/AGI also create massive incentives to move into space: Since resources are cheaper in space and if you already live in a simulated world the physical location of your body only becomes relevant insofar as it comes to lightspeed communication delays. Hell digital mind could just alter their perception of time (and run speed) so hours of lightspeed lag wasn't bothersome. Digital minds also change the colonization dynamic, because they may just send out lots of Von-Neumann probes prepare systems for their arrival and then just transmit over copies of their mind.
-> [This video](https://www.youtube.com/watch?v=xTAxjJ6KY7M&t=29s) describes some of what that early asteroid mining would look like and [this video](https://www.youtube.com/watch?v=NyLPPXaGl5A&t=17s) describes the dynamics of early interstellar colonization. An important takeaway is that people will probably start colonizing other star systems *well* before post-human civilization is close to fully utilizing this solar systems resources. Since sufficient automation and resource/energy abundance makes such tasks accessible, and many people/groups will have motivations for such colonization with the isolation likely being considered the whole point.
 > 
+> [This video](https://www.youtube.com/watch?v=xTAxjJ6KY7M&t=29s) describes some of what that early asteroid mining would look like and [this video](https://www.youtube.com/watch?v=NyLPPXaGl5A&t=17s) describes the dynamics of early interstellar colonization. An important takeaway is that people will probably start colonizing other star systems *well* before post-human civilization is close to fully utilizing this solar systems resources. Since sufficient automation and resource/energy abundance makes such tasks accessible, and many people/groups will have motivations for such colonization with the isolation likely being considered the whole point.
 
-> **u/Weerdo5255** [+5]  *SG-1**
+> **u/Weerdo5255** [+3]  *SG-1* (an hour later)
 > 
 > If your objective is long life and creature comforts, then yes I would agree space travel is for the short term not a rational, and perhaps even logical stand. 
-> However rationality is not the execution of a logical goal, it is the method in which an objective is reached. I could have the objective of being the man to balance the most spoons on my body, and the daily training I go through and iterate on as I learn new techniques, perhaps even contacting and learning from the others in the world with the niche skill, is rational. It would be irrational to call up the Guinness record keepers and demand a judge without a day of practice.
-> Now, on a personal note on the reasons for space exploration and the want to spend ungodly amounts of time in a tiny tin can, breathing in recycled air, drinking recycled piss, and fearing that a single failure in the delicate systems keeping me alive? I can only blame personal [wanderlust](https://www.youtube.com/watch?v=YH3c1QZzRK4), I want to be there, and even if it costs me my life at least be confident that I've helped move Humanity forwards. 
-> Every colony effort in history has been paid in bodies, and space will be no different.
-> On the long term, I've got the objective of getting my own black hole to place an Instanced copy of myself in orbit of very near the event horizon, watch the Universe die just to see it. A little grandiose I admit, but better to dream big than not at all I think.
 > 
+> However rationality is not the execution of a logical goal, it is the method in which an objective is reached. I could have the objective of being the man to balance the most spoons on my body, and the daily training I go through and iterate on as I learn new techniques, perhaps even contacting and learning from the others in the world with the niche skill, is rational. It would be irrational to call up the Guinness record keepers and demand a judge without a day of practice.
+> 
+> Now, on a personal note on the reasons for space exploration and the want to spend ungodly amounts of time in a tiny tin can, breathing in recycled air, drinking recycled piss, and fearing that a single failure in the delicate systems keeping me alive? I can only blame personal [wanderlust](https://www.youtube.com/watch?v=YH3c1QZzRK4), I want to be there, and even if it costs me my life at least be confident that I've helped move Humanity forwards. 
+> 
+> Every colony effort in history has been paid in bodies, and space will be no different.
+> 
+> On the long term, I've got the objective of getting my own black hole to place an Instanced copy of myself in orbit of very near the event horizon, watch the Universe die just to see it. A little grandiose I admit, but better to dream big than not at all I think.
 
-> **u/Watchful1** [+2] *
+> **u/Watchful1** [+2]  (an hour later)
 > 
 > The biggest reasons for colonization in history have been availability of resources and escaping political/religious oppression. Space offers lots of resources, metals, cheap solar energy, lots of unclaimed space, that aren't easily available on earth. But the biggest reasons have always been when one group of people tries to tell another group of people how they can live their lives, so the second group just up and leaves.
-> One of my favorite sci fi stories has a plot line where the countries of earth signed a treaty that included a ban on individuals proselytizing. It was actually illegal to talk about your religion unless the other person asked you first. So both muslim and christian groups went off and built their own colonies on different planets so they didn't have to agree to that. Beliefs like that can be so strongly held that they are worth giving up all the creature comforts you talk about.
-> Lesser reasons would be scientific research and outside pressure. That's likely how it's going to happen for us, we'll build a scientific colony on mars that will slowly grow over the years as it gets cheaper to go back and forth. In sci fi, you could also have a pressure of either an impending natural disaster, or outright invasion. Given enough time, earth would surely expand simply out of a sense of self preservation. In another sci fi story, advanced aliens place a bubble around earth that slows down time at a rate of years per second. Earth reacts by throwing together a colonization mission to mars, which builds an entire society over thousands of years which takes place in minutes on earth.
-> Lastly, we can turn to the reason we went to the moon, in the words of John F Kennedy, 
-> > We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.
 > 
+> One of my favorite sci fi stories has a plot line where the countries of earth signed a treaty that included a ban on individuals proselytizing. It was actually illegal to talk about your religion unless the other person asked you first. So both muslim and christian groups went off and built their own colonies on different planets so they didn't have to agree to that. Beliefs like that can be so strongly held that they are worth giving up all the creature comforts you talk about.
+> 
+> Lesser reasons would be scientific research and outside pressure. That's likely how it's going to happen for us, we'll build a scientific colony on mars that will slowly grow over the years as it gets cheaper to go back and forth. In sci fi, you could also have a pressure of either an impending natural disaster, or outright invasion. Given enough time, earth would surely expand simply out of a sense of self preservation. In another sci fi story, advanced aliens place a bubble around earth that slows down time at a rate of years per second. Earth reacts by throwing together a colonization mission to mars, which builds an entire society over thousands of years which takes place in minutes on earth.
+> 
+> Lastly, we can turn to the reason we went to the moon, in the words of John F Kennedy, 
+> 
+> > We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.
 
-> **u/LameJames1618** [+1] *
+> **u/LameJames1618** [+1]  (an hour later)
 > 
 > At the very minimum you'd want some space presence to deflect asteroids which may impact Earth. 
-> > Even if overuse of resources makes the earth a wasteland, even if climate change turns the earth into a very hot planet, it would still be magnitudes more habitable and economical than going to another world.
-> You only need to make an asteroid habitable rather than an entire planet. Not to mention space has the advantage of no weather or storms. If the life-support is reliable enough, then space can be preferable to Earth. 
-> Not to mention that humans may augment themselves to need pretty much no or minimal life support or send AIs into space instead.
 > 
+> > Even if overuse of resources makes the earth a wasteland, even if climate change turns the earth into a very hot planet, it would still be magnitudes more habitable and economical than going to another world.
+> 
+> You only need to make an asteroid habitable rather than an entire planet. Not to mention space has the advantage of no weather or storms. If the life-support is reliable enough, then space can be preferable to Earth. 
+> 
+> Not to mention that humans may augment themselves to need pretty much no or minimal life support or send AIs into space instead.
 
-> **u/catern** [+0] *
+> **u/catern** [+0]  (4 hours later)
 > 
 > If you haven't already, look into Robin Hanson's posts and talks on the subject, which agree with you (as do I - all these unrealistic sibling comments who so wish that space colonization is plausible just because they like reading fiction about it! But sadly for them, your argument is correct - space colonization (at least by humans) is not a good investment and likely not something worthwhile). Perhaps he has mentioned some things which he thinks might motivate earlier-than-usual space exploitation.
-> One thing that I saw him mention in a brief look is military use.
-> Also, one piece of fiction you might like on this subject is Passages in the Void http://localroger.com/
 > 
+> One thing that I saw him mention in a brief look is military use.
+> 
+> Also, one piece of fiction you might like on this subject is Passages in the Void http://localroger.com/
 
-> **u/DXStarr** [+1] *
+> **u/DXStarr** [+1]  (2 hours later)
 > 
 > 1- Earth is devastated by bioweapons and robots run amok. High-tech war leaves our planet literally less inhabitable than Mars. On Mars, the planet isn't _actively trying_ to destroy you.
-> Which is more pleasant to build a house in, a desert or an active war zone?
-> Example: _Perilous Waif_, William Brown.
-> 2- There was a political or religious conflict. Your side lost.
-> Give up your beliefs - or go to space?
-> 3- maybe certain technologies can't be done on our planet. Many novels suppose that FTL travel only works outside the Solar System, or that the laws of physics become more favorable to Cool Tech in a different part of the galaxy.
-> Stick with an easy life on Earth, and build nothing new - or go the hard road in space, and get the true frontiers of the possible?
-> Example: _Fire upon the Deep_, Vernor Vinge.
 > 
+> Which is more pleasant to build a house in, a desert or an active war zone?
+> 
+> Example: _Perilous Waif_, William Brown.
+> 
+> 2- There was a political or religious conflict. Your side lost.
+> 
+> Give up your beliefs - or go to space?
+> 
+> 3- maybe certain technologies can't be done on our planet. Many novels suppose that FTL travel only works outside the Solar System, or that the laws of physics become more favorable to Cool Tech in a different part of the galaxy.
+> 
+> Stick with an easy life on Earth, and build nothing new - or go the hard road in space, and get the true frontiers of the possible?
+> 
+> Example: _Fire upon the Deep_, Vernor Vinge.
 
-> **u/RedSheepCole** [+1] *
+> **u/RedSheepCole** [+1]  (4 hours later)
 > 
 > I'd distinguish between travel in the solar system, which is at least physically practical and could conceivably become economical, and interstellar travel, which would (barring a revolution in physics) require decades of transit time and years even to send a message.  For the latter, you really would need some motivation that amounts to a desire to be permanently separated from the rest of humanity, plus a lot of cash or equivalent resources.  For the former, eh, there's fudging room in there IMO.
-> 
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (8 hours later)
 > 
 > Anything that threatens to destroy Earth outright: rogue planetoids or stars, for example.
-> Besides, I think sheer spirit of adventure, curiosity or desire to build a new society with a blank slate would be sufficient to inspire some colonies, given the means. It’s mass emigration of humanity as a whole that’s hard to justify.
 > 
+> Besides, I think sheer spirit of adventure, curiosity or desire to build a new society with a blank slate would be sufficient to inspire some colonies, given the means. It’s mass emigration of humanity as a whole that’s hard to justify.
 
-> **u/HermitJem** [+1] *
+> **u/HermitJem** [+1]  (9 hours later)
 > 
 > 1. Population pressure
 > 2. Lack of resources
@@ -419,53 +449,65 @@ Given that, what would be some realistic causes that would apply sufficient pres
 > 4. Exploration of options (coughArmageddoncough)
 > 5. The Final Frontier/A man's romance etc
 > 6. Discovery of other habitable planets 
-> I'd say the two top reasons are fear of something going wrong with this planet, and a very human desire to expand and explore. 
-> All the advantages that you mentioned could be lost to meteor strike, alien invasion, nuclear war etc, and the disadvantages can be overcome with technology OR are lesser disadvantages compared to alien invasion or nuclear war.
-> So yeah, advantages and disadvantages are very much dependent on the situation NOW, which could change at any time, leading to the pressure that you mentioned.
 > 
+> I'd say the two top reasons are fear of something going wrong with this planet, and a very human desire to expand and explore. 
+> 
+> All the advantages that you mentioned could be lost to meteor strike, alien invasion, nuclear war etc, and the disadvantages can be overcome with technology OR are lesser disadvantages compared to alien invasion or nuclear war.
+> 
+> So yeah, advantages and disadvantages are very much dependent on the situation NOW, which could change at any time, leading to the pressure that you mentioned.
 
-> **u/cae_jones** [+1] *
+> **u/cae_jones** [+1]  (10 hours later)
 > 
 > Early space colonization (read: now-ish if SpaceX and Artimas work out) is basically a loop: get cheaper launch, build space industry, get cheaper launch, get cheaper space industry, repeat. You're basically colonizing space to make it cheaper to colonize space. The only resource that space has in particular abundance is energy (mostly Solar), and getting that to the ground with any efficiency worth the cost is beyond what we're presently capable of.
-> Most of the advantages I can think of could be accomplished in part by better colonization of Earth. And the past century and a half leave me doubting that people would be especially interested in doing that on the scale necessary to make a difference.
-> There comes a point when space-travel gets cheap enough that enough people will say "Why not?". What I keep running into is space-pessimists assuming that the pre-Starship launch costs are either insurmountable, or costly enough to surmount so as to effectively be insurmountable. Yet we have more billionaires than ever, and they keep getting richer. Whatever other things that might mean, it does mean that the costs for the lowest-hanging fruit in launch cost reduction are becoming affordable to *someone*. I would assume that space colonization futures are those in which the likes of the SpaceX Starship actually work as invisioned, because as invisioned, a fleet of those, plus light industry on the Moon, *will* bring down costs to the point that space tourism becomes affordable to far more people than at present. And even if SpaceX and Starship specifically fail, the concepts are sound.
-> The question then becomes: why live on Mars? ... I really don't know. Sure, you can have resources from the ground, rather than shipped in ... but Mars will still need *some* things shipped in (nitrogen?). If you have that, then you're just as well burrowing into an asteroid and building a custom habitat without worrying about sandstorms. Colonizing Mars without being dependent on Earth requires colonizing several other places, even if the other places are just exploited by robots. There is plenty of space within the orbit of Earth's Moon, and you can ship in materials from elsewhere in the Solar System without sending people there.
-> Colonizing the Moon seems more likely than colonizing Antarctica, because Lunar industry makes everything in space cheaper, but beyond Lunar orbit, I see it being mostly Musk-type motivations that get things started. Maybe it snowballs from there, because without Earth, it kinda has to. But Earth will remain the heart of civilization.
-> In summary: costs can be reduced a great deal, if someone wants to badly enough. Industrializing the Moon opens up affordable exploitation of space resources, and that makes everything cheaper. Colonizing Mars still sounds weird, but rich eccentrists gonna eccenter.
 > 
+> Most of the advantages I can think of could be accomplished in part by better colonization of Earth. And the past century and a half leave me doubting that people would be especially interested in doing that on the scale necessary to make a difference.
+> 
+> There comes a point when space-travel gets cheap enough that enough people will say "Why not?". What I keep running into is space-pessimists assuming that the pre-Starship launch costs are either insurmountable, or costly enough to surmount so as to effectively be insurmountable. Yet we have more billionaires than ever, and they keep getting richer. Whatever other things that might mean, it does mean that the costs for the lowest-hanging fruit in launch cost reduction are becoming affordable to *someone*. I would assume that space colonization futures are those in which the likes of the SpaceX Starship actually work as invisioned, because as invisioned, a fleet of those, plus light industry on the Moon, *will* bring down costs to the point that space tourism becomes affordable to far more people than at present. And even if SpaceX and Starship specifically fail, the concepts are sound.
+> 
+> The question then becomes: why live on Mars? ... I really don't know. Sure, you can have resources from the ground, rather than shipped in ... but Mars will still need *some* things shipped in (nitrogen?). If you have that, then you're just as well burrowing into an asteroid and building a custom habitat without worrying about sandstorms. Colonizing Mars without being dependent on Earth requires colonizing several other places, even if the other places are just exploited by robots. There is plenty of space within the orbit of Earth's Moon, and you can ship in materials from elsewhere in the Solar System without sending people there.
+> 
+> Colonizing the Moon seems more likely than colonizing Antarctica, because Lunar industry makes everything in space cheaper, but beyond Lunar orbit, I see it being mostly Musk-type motivations that get things started. Maybe it snowballs from there, because without Earth, it kinda has to. But Earth will remain the heart of civilization.
+> 
+> In summary: costs can be reduced a great deal, if someone wants to badly enough. Industrializing the Moon opens up affordable exploitation of space resources, and that makes everything cheaper. Colonizing Mars still sounds weird, but rich eccentrists gonna eccenter.
 
-> **u/zorianteron** [+1] *
+> **u/zorianteron** [+1]  (13 hours later)
 > 
 > Earth small.  Space big.
-> Me want a quadrillion humans.  A quadrillion humans not fit on earth.  Not enough biomass on earth for a quadrillion, maybe.  But a quadrillion possible if turn asteroids into humans and houses.
 > 
+> Me want a quadrillion humans.  A quadrillion humans not fit on earth.  Not enough biomass on earth for a quadrillion, maybe.  But a quadrillion possible if turn asteroids into humans and houses.
 
->> **u/Stumpy_Bumpo** [+1]  *Sunshine Regiment**
+>> **u/Stumpy_Bumpo** [+1]  *Sunshine Regiment* (23 hours later)
 >> 
 >> Grak think proposal adequate. Will colonize.
->> 
 
-> **u/Freevoulous** [+1] *
+> **u/Freevoulous** [+1]  (13 hours later)
 > 
 > **Capitalism.**
-> Space if full of rare (on Earth) metals and ores. In time, it will be more economical to mine the asteroids and moons rather than the Earth, and whole industries will be moved there.
-> This will encourage people to move with the jobs, since automating the economy at these distances would be awkward.
-> Soon enough, there will be a whole industry in making space habitats for space employees, and not late after we will realise that these habitats can be made objectively better than living on Earth, since you can design them from first principles.
-> **Politics.**
-> Space is the final Frontier, if you hate your government, and have enough money to build a habitat on say, Ganimede, you can just fuck off to Ganimede and spend the rest of your life as a Space Libertarian Cyborg Corporate Baron.
-> Now, if you merge Capitalism+Politics into one, you have helluva incentive.
 > 
+> Space if full of rare (on Earth) metals and ores. In time, it will be more economical to mine the asteroids and moons rather than the Earth, and whole industries will be moved there.
+> 
+> This will encourage people to move with the jobs, since automating the economy at these distances would be awkward.
+> 
+> Soon enough, there will be a whole industry in making space habitats for space employees, and not late after we will realise that these habitats can be made objectively better than living on Earth, since you can design them from first principles.
+> 
+> **Politics.**
+> 
+> Space is the final Frontier, if you hate your government, and have enough money to build a habitat on say, Ganimede, you can just fuck off to Ganimede and spend the rest of your life as a Space Libertarian Cyborg Corporate Baron.
+> 
+> Now, if you merge Capitalism+Politics into one, you have helluva incentive.
 
-> **u/Sonderjye** [+1] *
+> **u/Sonderjye** [+1]  (14 hours later)
 > 
 > Humans are genetically\[edit: I suppose it could be a memetic evolution as well though the point still stands\] wired to want to explore (and colonize) new places. If that wasn't the case humanity would have spread throughout the entire planet. Without any other information than the fact that humanity spread from Africa to literally everywhere on the planet almost no matter how inhospitable I would predict that they had a want of colonizing space as well.
-> Rationality doesn't have anything to do with the goals you have only the method you use to acquire them and what you are listing are simply challenges to overcome to achieve the goals..
-> Given that it's perfectly rational to have an intrinsic goal of exploring space for the sake of exploring space. If you're looking for instrumental reasons to conquer space you have to tell me what intrinsic goals you're trying to reach. One example of a goal pair is: if one had a goal to safekeep humanity it might be useful to colonize space in order to avoid the descruction of a single planet(i.e. by a big meteor) to destroy the entire species.
 > 
+> Rationality doesn't have anything to do with the goals you have only the method you use to acquire them and what you are listing are simply challenges to overcome to achieve the goals..
+> 
+> Given that it's perfectly rational to have an intrinsic goal of exploring space for the sake of exploring space. If you're looking for instrumental reasons to conquer space you have to tell me what intrinsic goals you're trying to reach. One example of a goal pair is: if one had a goal to safekeep humanity it might be useful to colonize space in order to avoid the descruction of a single planet(i.e. by a big meteor) to destroy the entire species.
 
-> **u/eaglejarl** [+1] *
+> **u/eaglejarl** [+1]  (17 hours later)
 > 
 > Some of these were mentioned by other people but I will consolidate: 
+> 
 > * Wanderlust 
 > * Scientific curiosity related to things not easily studied through a telescope
 > * Scientific curiosity related to things that cannot safely be created on earth (e.g. AI
@@ -479,61 +521,60 @@ Given that, what would be some realistic causes that would apply sufficient pres
 > * Frontier spirit ("I want to work with my hands and carve out a living off grid")
 > * Desire for limitless energy
 > * Green industry (move all the manufacturing into orbit = essentially no climate impact from manufacturing)
-> 
 
-> **u/darkaxel1989** [+1]  *LessWrong (than usual)**
+> **u/darkaxel1989** [+1]  *LessWrong (than usual)* (17 hours later)
 > 
 > Everyone already said everything else, so I'll just say two more things.
-> A meteorite too big to destroy clashes, we're all dead. Better spread out to more planets and we have a chance to survive (as a race).
-> The sun is going red giant in, what, 5 billion years from now? We might need to find a new planet before them, because, you know... I like sunbathing, but if there is such a thing as too much sun bathing, the earth being immersed in the sun, that's definitely it.
 > 
+> A meteorite too big to destroy clashes, we're all dead. Better spread out to more planets and we have a chance to survive (as a race).
+> 
+> The sun is going red giant in, what, 5 billion years from now? We might need to find a new planet before them, because, you know... I like sunbathing, but if there is such a thing as too much sun bathing, the earth being immersed in the sun, that's definitely it.
 
-> **u/PrettyDecentSort** [+1] *
+> **u/PrettyDecentSort** [+1]  (18 hours later)
 > 
 > Why colonize the New World when there are people and resources right here in Europe?
-> 
 
-> **u/Nine-LifedEnchanter** [+1] *
+> **u/Nine-LifedEnchanter** [+1]  (19 hours later)
 > 
 > One simple reason would be one government going "we're gonna do it before you" and the others fearing that they lack information and current mean to make the most of it, but rather than missing out they'd try it too.
-> It's not rational in the sense that the people doing it are rational, but rather that I definitely could see it happen. Like an arms race more or less. But this falls under "politics" that I think someone mentioned.
 > 
+> It's not rational in the sense that the people doing it are rational, but rather that I definitely could see it happen. Like an arms race more or less. But this falls under "politics" that I think someone mentioned.
 
-> **u/TennisMaster2** [+1] *
+> **u/TennisMaster2** [+1]  (a day later)
 > 
 > Seveneves by Neal Stephenson
-> 
 
-> **u/OnlyEvonix** [+1] *
+> **u/OnlyEvonix** [+1]  (a day later)
 > 
 > https://forum.kerbalspaceprogram.com/index.php?/topic/30718-first-flight-epilogue-and-last-thoughts/ has a rather nice one, pretty much population pressure with extra steps.
-> 
 
-> **u/EtPerMun** [+1] *
+> **u/EtPerMun** [+1]  (4 days later)
 > 
 > Who said anything about getting to choose?
-> > Congratulations, citizen 204748763-AU762! You have been chosen to join the latest Ares-13 expedition in our Great Leaders effort to bring the glory of His rule to other planets! Your chances of survival over the minimum ten-year period are estimated to be at least 71.92%! You have 72 hours to present yourself to your local Imperial Office. Failure to comply will result in the summary execution of you, your siblings, and all direct-line ascendants and descendants. Our Great Leader thanks you for your cooperation.
-> Suddenly, going to Mars seems a very rational choice :x
 > 
+> > Congratulations, citizen 204748763-AU762! You have been chosen to join the latest Ares-13 expedition in our Great Leaders effort to bring the glory of His rule to other planets! Your chances of survival over the minimum ten-year period are estimated to be at least 71.92%! You have 72 hours to present yourself to your local Imperial Office. Failure to comply will result in the summary execution of you, your siblings, and all direct-line ascendants and descendants. Our Great Leader thanks you for your cooperation.
+> 
+> Suddenly, going to Mars seems a very rational choice :x
 
-> **u/Brilliant-North-1693** [+1] *
+> **u/Brilliant-North-1693** [+1]  (5 days later)
 > 
 > A realistic cause? "Because it's there."
-> Thrill of discovery, grasping for known unknowns, pushing the boundaries of our sciences in order to achieve something new, take your pick. 
-> Exploration purely for the sake of wonder will always be a driving factor. 
-> [https://xkcd.com/242/](https://xkcd.com/242/)
 > 
+> Thrill of discovery, grasping for known unknowns, pushing the boundaries of our sciences in order to achieve something new, take your pick. 
+> 
+> Exploration purely for the sake of wonder will always be a driving factor. 
+> 
+> [https://xkcd.com/242/](https://xkcd.com/242/)
 
-> **u/None** [+1] *
+> **u/None** [+1]  (7 days later)
 > 
 > Most earth-like planets are too far away to completely rebuild our habitat on them from scratch. We need to bring our habitat with us into space. O'Neil Cylinders would be easier and faster than terraforming a whole new planet. We'd just bring a bunch of pieces of our home planet with us rather than starting over entirely from scratch
-> 
 
-> **u/ajuc** [+1] *
+> **u/ajuc** [+1]  (19 days later)
 > 
 > Arms race? Imagine we have another cold war.
-> What's better as a Wunderwaffer than a big rock with a huge engine? And if you have that - the opponent has to have space presence or they lose.
 > 
+> What's better as a Wunderwaffer than a big rock with a huge engine? And if you have that - the opponent has to have space presence or they lose.
 
 ---
 

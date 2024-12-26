@@ -18,15 +18,13 @@ What do you think of this idea? And where should I host it? Also, anyone want to
 
 ### Comments:
 
-> **u/Transfuturist** [+5]  *Carthago delenda est.**
+> **u/Transfuturist** [+5]  *Carthago delenda est.* (an hour later)
 > 
 > [anonkun.com](http://anonkun.com)
-> 
 
-> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason* (3 days later)
 > 
 > How much background research and planning ahead of time do you think the setting needs? Or should I just write the setting a few steps ahead of the reader as I go?
-> 
 
 ---
 

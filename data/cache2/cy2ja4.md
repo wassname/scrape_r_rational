@@ -2,7 +2,7 @@
 
 * Author: u/GodKiller999 *
 * URL: https://motheroflearninguniverse.wordpress.com/2019/08/31/dirge-moths/
-* Score: 1
+* Score: 0
 
 * Created: 2019-08-31T23:19:19
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/5st5oa/d_wednesday_worldbuilding_thread/
-* Score: 11
+* Score: 10
 
 * Created: 2017-02-08T15:04:17
 
@@ -24,103 +24,115 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/space_fountain** [+6] *
+> **u/space_fountain** [+6]  (3 hours later)
 > 
 > How do you plausibly deal with conspiracy. I say this because /r/rational seems to hate any form of secret society, I think justifiably, but we have to acknowledge that there have been massive conspiracies in the past, and probably are some right now.
-> More concretely, what are some motives for keeping a portal to to stereotypical swords and wizards a secret. Are there any good enough to actually keep it secret once it's known of and being exploited?
 > 
+> More concretely, what are some motives for keeping a portal to to stereotypical swords and wizards a secret. Are there any good enough to actually keep it secret once it's known of and being exploited?
 
->> **u/PM_ME_EXOTIC_FROGS** [+7] *
+>> **u/PM_ME_EXOTIC_FROGS** [+6]  (6 hours later)
 >> 
 >> There's an enormous advantage to having a total magic monopoly on Earth, and a second huge advantage to being the only person or organization who can sell Earth technology to a more primitive world.
->> 
 
->>> **u/space_fountain** [+2] *
+>>> **u/space_fountain** [+2]  (6 hours later)
 >>> 
 >>> For sure, I guess the problem is how to keep a small group, say between 15 and 200 people on board with it. You somehow have to make that advantage extend to all of them and make sure no-one spills the beans for a long amount of time. 
->>> To-be honest I think something /r/rational tends to overestimate is the ease with which people would accept it. Flat earth atheists don't make sense, but neither do very convincing illusion of round earth flat earthers.
 >>> 
+>>> To-be honest I think something /r/rational tends to overestimate is the ease with which people would accept it. Flat earth atheists don't make sense, but neither do very convincing illusion of round earth flat earthers.
 
->>>> **u/Dwood15** [+2] *
+>>>> **u/Dwood15** [+2]  (a day later)
 >>>> 
 >>>> Think about it this way. The CIA with all of its espionage over the years, still has exploits that are kept 100% secret despite, say, a hundred or so people in their chain of command knowing about their activities, from the delivery pilots, middle managers, the teams themselves on the ground, and whatnot. Keeping something secret isn't a huge deal for these organizations.
->>>> The trick they have is the extreme vetting the people go through before they're even given an interview with the organization.
 >>>> 
+>>>> The trick they have is the extreme vetting the people go through before they're even given an interview with the organization.
 
->>>> **u/Afforess** [+1]  *Hermione Did Nothing Wrong**
+>>>> **u/Afforess** [+1]  *Hermione Did Nothing Wrong* (a day later)
 >>>> 
 >>>> Sell magic as something else, something a bit more explainable. If magic users are limited to a strict subset in public, aka *superpowers* like super-heroes from comics might have, it could be more widely accepted. A watered-down substitute might be more palatable and misdirect attention from how any of the powers actually worked.
->>>> You could even *teach magic* to dupes if you sold it as a method of gaining a strict subset of powers. This way you would create a two-tier system, a set of strictly controlled magic users who do not understand the art and can not safely study further, and the teachers who understand magic and only teach enough to give partial access.
 >>>> 
+>>>> You could even *teach magic* to dupes if you sold it as a method of gaining a strict subset of powers. This way you would create a two-tier system, a set of strictly controlled magic users who do not understand the art and can not safely study further, and the teachers who understand magic and only teach enough to give partial access.
 
->> **u/MagicWeasel** [+5]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+6]  *Cheela Astronaut* (11 hours later)
 >> 
 >> Stargate had a kind of good one: they (edit: the US air force/US government) kept the stargate secret because they didn't want to share it with other countries, and didn't want to cause mass panic. I think giving control of the portal to a nation's military is probably a very good way to keep it secret for a few decades.
->> 
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (5 hours later)
 >> 
 >> >More concretely, what are some motives for keeping a portal to to stereotypical swords and wizards a secret. Are there any good enough to actually keep it secret once it's known of and being exploited?
+>> 
 >> Here are a few good/neutral motivations:
+>> 
 >> * There might be other portals, and you want to find them
 >> * Government instability on either side of the portal
 >> * Still in the process of making diplomatic contact between polities on each side of the portal.
+>> 
 >> Some self-interested, but not necessarily "evil" reasons:
+>> 
 >> * You want the land rights to both sides of the portal, recognized by polities on each side.
 >> * You've gained a reputation on either (or both) sides of the portal, and to maximally exploit said reputation requires a degree of mystery to your origins/the origins of your power. Ex. as a famous engineer on the S/S side of the portal, or as a stage magician on the earth side of the portal.)
->> These are all rather temporary reasons, though.
 >> 
+>> These are all rather temporary reasons, though.
 
->> **u/Dwood15** [+2] *
+>> **u/Dwood15** [+2]  (4 hours later)
 >> 
 >> Mass panic, foreign interests (resource exploitation in particular), cultural appropriation, disease quarantine.
->> There isn't any real benefit long term, but short term (5-10 years) it would be reasonable to have all those motivations.
->> You have exclusive access to a world in which you are mostly superior barring magic system shenanigans. If you can learn to utilize and weaponize their magic on earth, combined with tech, you have a leg up over competing terrestrial interests.
 >> 
+>> There isn't any real benefit long term, but short term (5-10 years) it would be reasonable to have all those motivations.
+>> 
+>> You have exclusive access to a world in which you are mostly superior barring magic system shenanigans. If you can learn to utilize and weaponize their magic on earth, combined with tech, you have a leg up over competing terrestrial interests.
 
->> **u/FishNetwork** [+1] *
+>> **u/FishNetwork** [+1]  (9 hours later)
 >> 
 >> If you disclose the portal, you'd lose your ability to exploit it.  And, you'd probably end up in a ton of social and legal trouble.
->> Suppose magic allows scrying.  The portal-monopoly sets up a law firm.  They could scry on their opponent's strategy meetings.  That gives them a huge advantage.  And gets them instantly arrested if magic goes public.
->> Or, magic creates longevity potions.  That's great if you're in on the conspiracy.  But it makes you look like a monster if it comes out that you kept them secret.
->> Or, gold is just more common over on the magic side of the portal.  Everyone gets rich.  But they'll face some really hard questions when the IRS learns that they haven't been paying tariffs.
 >> 
+>> Suppose magic allows scrying.  The portal-monopoly sets up a law firm.  They could scry on their opponent's strategy meetings.  That gives them a huge advantage.  And gets them instantly arrested if magic goes public.
+>> 
+>> Or, magic creates longevity potions.  That's great if you're in on the conspiracy.  But it makes you look like a monster if it comes out that you kept them secret.
+>> 
+>> Or, gold is just more common over on the magic side of the portal.  Everyone gets rich.  But they'll face some really hard questions when the IRS learns that they haven't been paying tariffs.
 
-> **u/seylerius** [+5]  *Lord Inquisitor**
+> **u/seylerius** [+4]  *Lord Inquisitor* (7 hours later)
 > 
 > What's a sane alternative to the "galactic northwest" nonsense common to interstellar-scale scifi? Galaxies don't *have* a north unless you arbitrarily declare "from the center towards this star" as "north". 
+> 
 > I suppose one could start by breaking down what exactly cardinal directions *are*, underneath the labels we use:
+> 
 > * Spinward
 > * Counter-spinward
 > * Towards one pole (the one on your left when you face spinward)
 > * Towards the other pole (the one on your right when you face spinward)
-> Galaxies retain spinward and counter-spinward, but towards the poles doesn't work as well due to movement being relative to the *interior* of the volume, rather than its surface (as is the case with a planet). Towards the poles can certainly be meaningful, but to use "north" and "south" brings implications that aren't helpful. Towards the poles, relative to the interior of a galaxy, winds up referring to up/down relative to the galactic ecliptic plane.
-> The last thing you need for position within an unevenly rotating volume is radius, or position outward from the center. This could be absolute, or it could be strictly within the plane of the ecliptic.
-> This seems to make more sense for defining the position, but it's a clunky way to talk about it. Anyone have better ideas?
 > 
+> Galaxies retain spinward and counter-spinward, but towards the poles doesn't work as well due to movement being relative to the *interior* of the volume, rather than its surface (as is the case with a planet). Towards the poles can certainly be meaningful, but to use "north" and "south" brings implications that aren't helpful. Towards the poles, relative to the interior of a galaxy, winds up referring to up/down relative to the galactic ecliptic plane.
+> 
+> The last thing you need for position within an unevenly rotating volume is radius, or position outward from the center. This could be absolute, or it could be strictly within the plane of the ecliptic.
+> 
+> This seems to make more sense for defining the position, but it's a clunky way to talk about it. Anyone have better ideas?
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (7 hours later)
 >> 
 >> Take the elliptic plane of the galaxy. Draw a straight line to earth from the galaxy's center (Sagittarius A*), projecting the line onto the plane. Define wherever earth is to be "above" the galactic plane, giving up and down directions. Then simply describe directions with cylindrical coordinates. Spin-wise of earth is positive angles, and light years works for distance from the center and distance from the elliptical plane.
->> So a specific location might be "32 degrees from the sun, 40 thousand lighyears out, 450 lightyears down."
->> Other species would of course use their own favored star (assuming standardization on that point would be impossible), but by following the same conventions, the same locations could be derived.
->> There is a problem with this-- namely, that planets tend to circle the galaxy at different speeds, but that can be solved by giving a timestamp.
->> >The last thing you need for position within an unevenly rotating volume is radius, or position outward from the center. This could be absolute, or it could be strictly within the plane of the ecliptic.
->> I don't understand the problem here; we're only talking on a single galaxy's scale, so why would the absolute distance matter?
 >> 
+>> So a specific location might be "32 degrees from the sun, 40 thousand lighyears out, 450 lightyears down."
+>> 
+>> Other species would of course use their own favored star (assuming standardization on that point would be impossible), but by following the same conventions, the same locations could be derived.
+>> 
+>> There is a problem with this-- namely, that planets tend to circle the galaxy at different speeds, but that can be solved by giving a timestamp.
+>> 
+>> >The last thing you need for position within an unevenly rotating volume is radius, or position outward from the center. This could be absolute, or it could be strictly within the plane of the ecliptic.
+>> 
+>> I don't understand the problem here; we're only talking on a single galaxy's scale, so why would the absolute distance matter?
 
->>> **u/seylerius** [+2]  *Lord Inquisitor**
+>>> **u/seylerius** [+2]  *Lord Inquisitor* (7 hours later)
 >>> 
 >>> >> The last thing you need for position within an unevenly rotating volume is radius, or position outward from the center. This could be absolute, or it could be strictly within the plane of the ecliptic.
 >>> > 
 >>> > I don't understand the problem here; we're only talking on a single galaxy's scale, so why would the absolute distance matter?
->>> I'm probably using "absolute" wrong there. Basically I'm differentiating between magnitude of the vector from the center to the target, and magnitude of the vector from the center to the target's projection in the ecliptic. Which of those to use has to be standardized, even if which star to use as the reference isn't.
 >>> 
+>>> I'm probably using "absolute" wrong there. Basically I'm differentiating between magnitude of the vector from the center to the target, and magnitude of the vector from the center to the target's projection in the ecliptic. Which of those to use has to be standardized, even if which star to use as the reference isn't.
 
->> **u/Bowbreaker** [+2]  *Solitary Locust**
+>> **u/Bowbreaker** [+2]  *Solitary Locust* (5 days later)
 >> 
 >> Ever read any Discworld novels by Terry Pratchett? Look up Rimwards and Hubwards.
->> 
 
 ---
 

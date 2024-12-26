@@ -26,70 +26,73 @@ The pitch is thus:
 
 ### Comments:
 
-> **u/logrusmage** [+1] *
+> **u/logrusmage** [+1]  (3 hours later)
 > 
 > FINALLY! 
-> Reading now.
-> Edit: That was pretty good. About how I thought it would go, though her parents didn't seem to be freaking the hell out. Can't wait for the next chapter!
 > 
+> Reading now.
+> 
+> Edit: That was pretty good. About how I thought it would go, though her parents didn't seem to be freaking the hell out. Can't wait for the next chapter!
 
-> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (12 hours later)
 > 
 > So, clones are alive, but also ephemeral?
 > Does she keep the memories?
-> 
 
->> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (19 hours later)
 >> 
 >> No.
->> I thought that was clear?
->> It is a divergent self which will vanish in an hour or two. No more does she retain their memories than a formatting a duplicate hard drive deletes the data on the original.
->> The wand is a tool for duplicating *things,* regardless of composition. It does not make special cases for *persons* that happen to also be *things.* Data storage mediums are just things, you know?
->> Like... I'm worried I failed to get that point across? Maybe I should mention it explicitly...
 >> 
+>> I thought that was clear?
+>> 
+>> It is a divergent self which will vanish in an hour or two. No more does she retain their memories than a formatting a duplicate hard drive deletes the data on the original.
+>> 
+>> The wand is a tool for duplicating *things,* regardless of composition. It does not make special cases for *persons* that happen to also be *things.* Data storage mediums are just things, you know?
+>> 
+>> Like... I'm worried I failed to get that point across? Maybe I should mention it explicitly...
 
->>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (6 days later)
 >>> 
 >>> It feels a bit like the set-up for an esoteric philosophy thought experiment.
->>> Humans are meat-computers, sentient beings made up of nonliving particles, and our bodies are inseparable from our selves. Gems are dualist beings, their bodies are insubstantial projections and their minds are literally powered by magic.
->>> Now stick both of them in the same universe and see how they interact.
 >>> 
+>>> Humans are meat-computers, sentient beings made up of nonliving particles, and our bodies are inseparable from our selves. Gems are dualist beings, their bodies are insubstantial projections and their minds are literally powered by magic.
+>>> 
+>>> Now stick both of them in the same universe and see how they interact.
 
->>>> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>>>> **u/mhd-hbd** [+3]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (6 days later)
 >>>> 
 >>>> I can assure you, Gems are merely Clarkian. It's rational fiction: I have a sound explanation for why the space aliens håbe humanoid bodyplans and speak English. 
->>>> But yes. When you put it like that...
 >>>> 
+>>>> But yes. When you put it like that...
 
->>>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (6 days later)
 >>>>> 
 >>>>> It's something I've been pondering for a while now; your replicator wand just gave me a new perspective on it.
->>>>> I didn't think for a moment this was anywhere near canon, either yours or the SU writing team's. If Gems are meant to have magical, indivisible "souls" then fusion doesn't make much sense. And fragments - pieces of a Gem which are still alive - definitely break that interpretation.
->>>>> I'm looking forward to an explanation on the Gems-speaking-English thing!
 >>>>> 
+>>>>> I didn't think for a moment this was anywhere near canon, either yours or the SU writing team's. If Gems are meant to have magical, indivisible "souls" then fusion doesn't make much sense. And fragments - pieces of a Gem which are still alive - definitely break that interpretation.
+>>>>> 
+>>>>> I'm looking forward to an explanation on the Gems-speaking-English thing!
 
->>>>>> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>>>>>> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (7 days later)
 >>>>>> 
 >>>>>> Gems-speaking-English is actually fairly mundane, everything taken into consideration.
->>>>>> Gems are divisible; but if you cleave a gem in two, you get two Gems at half the resolution.
 >>>>>> 
+>>>>>> Gems are divisible; but if you cleave a gem in two, you get two Gems at half the resolution.
 
->>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (19 hours later)
 >>> 
 >>> ah, ok. Maybe it's just me, but I think that was a little unclear. 
 >>> Thanks for clarifying.
->>> 
 
-> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+1]  *GCV Literally The Entire Culture* (5 days later)
 > 
 > Hey, remember when I was like, "man I really don't like how the healing water was just _dropped_ in arc 1"
-> Well, um. _:squees:_!
 > 
+> Well, um. _:squees:_!
 
->> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+>> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (6 days later)
 >> 
 >> As it turns out, being a foreshadowing super-bastard is a learnable skill. All you have to do is become a Knowledge domain cleric of Rebecca Sugar.
->> 
 
 ---
 

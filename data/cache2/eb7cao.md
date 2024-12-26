@@ -2,7 +2,7 @@
 
 * Author: u/Flying_Emu_Jesus *
 * URL: https://www.reddit.com/r/rational/comments/eb7cao/anyone_want_to_play_a_collaborative_worldbuilding/
-* Score: 29
+* Score: 27
 
 * Created: 2019-12-16T00:30:37
 
@@ -53,147 +53,129 @@ GrecklePrime
 
 ### Comments:
 
-> **u/ishaan123** [+4]  *Sidebar Contestant**
+> **u/ishaan123** [+4]  *Sidebar Contestant* (50 minutes later)
 > 
 > That sounds pretty cool, I'd probably be down to play if the time commitments aren't very strict.
-> 
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (2 hours later)
 >> 
 >> Keeping required time commitments low is an essential, at least for the game I want to play. Hopefully if the minimum is low enough that it never becomes a chore, even if you're having a busy week, then the game will be able to last for a while.
->> 
 
-> **u/Trew_McGuffin** [+3]  *Dao = Improve Yourself**
+> **u/Trew_McGuffin** [+3]  *Dao = Improve Yourself* (2 hours later)
 > 
 > Sounds interesting as heck. I'd be down!  
-
+> 
 > Questions  
 > \-Does the rule book need to be bought?  
 > \-How would it work? As I'm presuming that the participants will be online and the game is intended to be played in real life with note cards.
-> 
 
->> **u/Argenteus_CG** [+4] *
+>> **u/Argenteus_CG** [+4]  (3 hours later)
 >> 
 >> The rulebook is on library genesis. Obviously "microscope" has way too many results to comb through, but searching the author's name will return it quickly. I can't post a link publicly (for reasons detailed in edit), but PM me if you need one. Or just search libgen like I said.
->> EDIT: Can't give a link publicly, sub is forced by reddit to stop the free distribution of information. Not the sub's fault (Although subs that aren't focused on piracy specifically aren't hit very often AFAIK, and even piracy specific subs can usually live for awhile before needing to migrate, so actually enforcing it actively beyond the most brazen stuff is probably overkill, especially when it's piracy of books which is less actively fought against than music, movies and TV. Still, I understand the caution. Down with intellectual property, and down with capitalism!), but it sucks. If you need one you'll have to PM me, or just search libgen like I said.
 >> 
+>> EDIT: Can't give a link publicly, sub is forced by reddit to stop the free distribution of information. Not the sub's fault (Although subs that aren't focused on piracy specifically aren't hit very often AFAIK, and even piracy specific subs can usually live for awhile before needing to migrate, so actually enforcing it actively beyond the most brazen stuff is probably overkill, especially when it's piracy of books which is less actively fought against than music, movies and TV. Still, I understand the caution. Down with intellectual property, and down with capitalism!), but it sucks. If you need one you'll have to PM me, or just search libgen like I said.
 
->>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (4 hours later)
 >>> 
 >>> Reddit has sitewide rules against piracy, which this subreddit follows, not that it comes up very often. You can [see this thread on /r/piracy](https://www.reddit.com/r/Piracy/comments/b28d9q/rpiracy_has_received_a_notice_of_multiple/) which shows what a message from Reddit Legal looks like. I don't want this sub to be on the receiving end of one of those, and will comply (via removal) with any reports pointing out something that constitutes distribution of pirated material as I understand Reddit sees it. If you want to pirate, do it on your own time, with your own resources.
->>> 
 
->> **u/Flying_Emu_Jesus** [+2] *
+>> **u/Flying_Emu_Jesus** [+2]  (3 hours later)
 >> 
 >> The rule book definitely doesn't need to be bought, though it may help if one of us does want to buy it. I won't have access to my rule book until after the holidays, so we'll probably just be going by ear with the rules as I remember them. I've also got some ideas for a few rule changes to better accommodate an online, long-form game.
->> I'm currently testing out a very simple google site, which I'll share for editing with all the players. Entries will take the form of pages on the site, and with links to any nested entries. It won't be the most convenient possible medium for this game, but I think it'll still be pretty easy to use.
 >> 
+>> I'm currently testing out a very simple google site, which I'll share for editing with all the players. Entries will take the form of pages on the site, and with links to any nested entries. It won't be the most convenient possible medium for this game, but I think it'll still be pretty easy to use.
 
->>> **u/Argenteus_CG** [+2] *
+>>> **u/Argenteus_CG** [+2]  (4 hours later)
 >>> 
 >>> Like I said, it's on libgen so I have it and I can PM it to all of you when we're ready to get started.
->>> 
 
-> **u/masterax2000** [+3]  *Chaos Legion**
+> **u/masterax2000** [+3]  *Chaos Legion* (4 hours later)
 > 
 > Will the story be accessible to the public? I don't really want to join myself (time commitment + not that confident in my writing) but I'm really interested to see where this goes, and what everyone comes up with.
-> 
 
->> **u/Flying_Emu_Jesus** [+3] *
+>> **u/Flying_Emu_Jesus** [+3]  (4 hours later)
 >> 
 >> Unless our players don't want to make it public (which would be totally fair), I'm happy to have it open to the public.
->> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (14 hours later)
 > 
 > [deleted]
-> 
 
->> **u/DrFretNot** [+2] *
+>> **u/DrFretNot** [+2]  (18 hours later)
 >> 
 >> I also think this sounds fun. If a second group forms (since it seems the limit is 7), please let me know
->> 
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (19 hours later)
 >> 
 >> Unless someone in the current group leaves, we're all full up for this game. But as DrFretNot has commented, a second group is definitely possible if someone takes the initiative to set it up. It's not like you need to get up to 7 players. None of the rules I've set up have been tested, and it may be that more or fewer players is better.
->> 
 
->>> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (a day later)
 >>> 
 >>> I'm interested in setting up a group, but I'm going to wait because it sounds like (1) this is the first time you're running Microscope online and (2) you're adapting it yourself rather than using anyone else's tried-and-true methods, and I'd like to see what works/doesn't work before I move forward. 
->>> If your group doesn't want to make the game public, for whatever reason, could you PM me in a couple of months to say "This, this, and this worked; that and that didn't work; and this other thing sooort of worked but in retrospect I'd do it differently"?
 >>> 
+>>> If your group doesn't want to make the game public, for whatever reason, could you PM me in a couple of months to say "This, this, and this worked; that and that didn't work; and this other thing sooort of worked but in retrospect I'd do it differently"?
 
->>>> **u/Flying_Emu_Jesus** [+2] *
+>>>> **u/Flying_Emu_Jesus** [+2]  (a day later)
 >>>> 
 >>>> Yea, we're in uncharted waters here, at least as far as I know, so it definitely makes sense to wait and see how this experiment goes.
->>>> I'll either edit a public link onto the original post, or I'll try to remember to send you that message in a couple months.
 >>>> 
+>>>> I'll either edit a public link onto the original post, or I'll try to remember to send you that message in a couple months.
 
->>>>> **u/callmesalticidae** [+1]  *writes worldbuilding books**
+>>>>> **u/callmesalticidae** [+1]  *writes worldbuilding books* (a day later)
 >>>>> 
 >>>>> Thanks!
->>>>> 
 
-> **u/Argenteus_CG** [+2] *
+> **u/Argenteus_CG** [+2]  (an hour later)
 > 
 > I'd definitely be down, as long as being an experienced writer isn't a requirement. I've done worldbuilding for fun before but I've done very little fiction writing that was actually meant to be READ by anyone since high school. I do have TTRPG experience, but only as a player so far, I'm still planning my first campaign as a GM.
-> One day per week sounds like a time investment I can make as long as it's not a big deal if I occasionally end up busy on a day and can't post much (or even at all, as long as that doesn't happen *too* often). I don't actually anticipate this being a huge problem, I just can't promise my schedule won't change.
-> I wonder if there's a way we can make the "scenes" aspect work? Probably not with ALL the players, but maybe we could have a discord where players can coordinate to do scenes between two or more of us? Eg, we might not stop normal play to do a scene with all of us, but if someone creates a scene on their turn they might reach out on discord, see who's available and interested in that scene and play it out when possible, not necessarily even still on the player who created the Scene's turn.
 > 
+> One day per week sounds like a time investment I can make as long as it's not a big deal if I occasionally end up busy on a day and can't post much (or even at all, as long as that doesn't happen *too* often). I don't actually anticipate this being a huge problem, I just can't promise my schedule won't change.
+> 
+> I wonder if there's a way we can make the "scenes" aspect work? Probably not with ALL the players, but maybe we could have a discord where players can coordinate to do scenes between two or more of us? Eg, we might not stop normal play to do a scene with all of us, but if someone creates a scene on their turn they might reach out on discord, see who's available and interested in that scene and play it out when possible, not necessarily even still on the player who created the Scene's turn.
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (2 hours later)
 >> 
 >> Don't worry, I'm far from an experienced fiction writer myself, so any game I'm in will necessarily have a low bar for writing skills, as long as it's not actively hard to read.
->> I have exactly the same qualifiers on my schedule, so there shouldn't be any problems there.
->> And as far as scenes go, I'm definitely not opposed to having that option open for players, although I'm skeptical that it would get much use, especially if the player then has to summarize and publish the result. Of course, there's no downside to allowing it, so I'm on board.
 >> 
+>> I have exactly the same qualifiers on my schedule, so there shouldn't be any problems there.
+>> 
+>> And as far as scenes go, I'm definitely not opposed to having that option open for players, although I'm skeptical that it would get much use, especially if the player then has to summarize and publish the result. Of course, there's no downside to allowing it, so I'm on board.
 
-> **u/LunarTulip** [+2] *
+> **u/LunarTulip** [+2]  (2 hours later)
 > 
 > I haven't previously played Microscope, but it's been on my pile of vaguely-interesting games-to-play-at-some-point for a while, and this sounds like an excellent chance to finally do it. I'm definitely interested!
-> 
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (2 hours later)
 >> 
 >> Awesome! Once I figure out how to get a wiki (or equivalent) up and running, and get enough players, I'll message the people who've shown interest and we can get started.
->> 
 
-> **u/Pel-Mel** [+2]  *Adept**
+> **u/Pel-Mel** [+2]  *Adept* (2 hours later)
 > 
 > Sure, sounds like fun. Hit me up.
-> 
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (5 hours later)
 >> 
 >> You're in, I'll finish setting things up over the next couple days, then we can start
->> 
 
-> **u/GrecklePrime** [+2] *
+> **u/GrecklePrime** [+2]  (4 hours later)
 > 
 > Microscope is a very fun game and I'd be down to play.
-> 
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (5 hours later)
 >> 
 >> You're in, I'll finish setting things up over the next couple days, then we can start
->> 
 
-> **u/Lord_Zane** [+2] *
+> **u/Lord_Zane** [+2]  (5 hours later)
 > 
 > I'd be down to play!
-> 
 
->> **u/Flying_Emu_Jesus** [+1] *
+>> **u/Flying_Emu_Jesus** [+1]  (5 hours later)
 >> 
 >> I'm sorry, but we've already gotten 7 players. If enough other people also want to play, then there's no reason why you couldn't make another group. I'll share the templates for the resources we end up using.
->> 
 
->>> **u/Lord_Zane** [+2] *
+>>> **u/Lord_Zane** [+2]  (5 hours later)
 >>> 
 >>> No problem, I look forward to seeing what you make (if it's public)
->>> 
 
 ---
 

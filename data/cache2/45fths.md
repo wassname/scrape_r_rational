@@ -22,41 +22,41 @@ Sagebrysh
 
 ### Comments:
 
-> **u/elevul** [+1]  *Cyoria Observer**
+> **u/elevul** [+1]  *Cyoria Observer* (a day later)
 > 
 > I never started your story because of lack of an .epub. Is there any chance of having that anytime soon?
-> 
 
->> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist**
+>> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist* (a day later)
 >> 
 >> I don't think Fall of Oso is polished enough for me to convert it to .epub. When I finish editing and begin posting chapters for the new story, it will feature .epub links. I just need to finish the polishing and editing and having it gone over by a few betas (once I find them)
->> 
 
->>> **u/elevul** [+1]  *Cyoria Observer**
+>>> **u/elevul** [+1]  *Cyoria Observer* (2 days later)
 >>> 
 >>> You don't need to publish it, just make it available on patreon like everyone else, or, dunno, have it as "first draft" or something.
->>> Regardless, I think you're limiting yourself by not providing such an immediate way for users to read it offline on their devices.
 >>> 
+>>> Regardless, I think you're limiting yourself by not providing such an immediate way for users to read it offline on their devices.
 
->>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (2 days later)
 >>>> 
 >>>> I hear you, but I also don't want to supply readers with a version that's crappy or full of grammar errors. Once its in .epub form, I can't edit it further unless I go back in and completely remake the .epub, and that doesn't do anything for the people who already downloaded it. That's all I mean about wanting it to be polished first.
->>>> Fall of Oso will be getting an epub version as I edit it. I'm going through chapter by chapter and I'll be adding links to pdf and epub versions when I get that done. 
->>>> Songs for the Revolution will probably start coming out before the .epub versions of Fall of Oso though, since I'm putting that a bit on the backburner right now. Songs for the Revolution will feature pdf and epub versions available on initial posting, I just need to complete the editing first. 
->>>> If you're interested in helping edit, I can convert the first few chapters of SftR to epub and throw them at you. 
->>>> Also, i have no idea how to patreon.
 >>>> 
+>>>> Fall of Oso will be getting an epub version as I edit it. I'm going through chapter by chapter and I'll be adding links to pdf and epub versions when I get that done. 
+>>>> 
+>>>> Songs for the Revolution will probably start coming out before the .epub versions of Fall of Oso though, since I'm putting that a bit on the backburner right now. Songs for the Revolution will feature pdf and epub versions available on initial posting, I just need to complete the editing first. 
+>>>> 
+>>>> If you're interested in helping edit, I can convert the first few chapters of SftR to epub and throw them at you. 
+>>>> 
+>>>> Also, i have no idea how to patreon.
 
->>>>> **u/elevul** [+1]  *Cyoria Observer**
+>>>>> **u/elevul** [+1]  *Cyoria Observer* (2 days later)
 >>>>> 
 >>>>> Sure, do you have skype? 
->>>>> Though keep in mind I'm not a native english speaker, so there are some things I might miss.
 >>>>> 
+>>>>> Though keep in mind I'm not a native english speaker, so there are some things I might miss.
 
->>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist**
+>>>>>> **u/Sagebrysh** [+1]  *Rank 7 Pragmatist* (2 days later)
 >>>>>> 
 >>>>>> I do have skype, and that's cool. The project honestly too big to have any one person edit it anyway, myself included, so even if you were a native english speaker, I would expect some stuff to slip past your radar. I'll PM you a link to the converted file. It'll just be the first few chapters and it will get rougher after you pass the point where I've been making edits.
->>>>>> 
 
 ---
 

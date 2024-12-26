@@ -12,39 +12,49 @@
 
 ### Comments:
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (34 minutes later)
 > 
 > What the hell? Was Viejo really thinking that giving Simon the vision of her death would not throw whatever carefully set up projections they had into disarray? Why would you risk something that insane?
-> Also, whatever they know, they seem to be limited in many ways. On the one hand they expected to know everything that teens would do over a whole year when given powers and left otherwise virtually unmonitored, on the other hand they failed to account for the CIA and also seem to only be confined to one continent in their observation/machination, though that may just be compartmentalization on the part of whatever international organization they are working for, if any. And they need to physically break into Randi's place in order to gather info.
-> In any case, Viejo is either lying to Akvo (and other conspirators?) about her motives or not acting rational. That Simon blunder is just too big for a so sensitive thing like a one year projection of a 100 actors plus a whole world of reactors.
 > 
+> Also, whatever they know, they seem to be limited in many ways. On the one hand they expected to know everything that teens would do over a whole year when given powers and left otherwise virtually unmonitored, on the other hand they failed to account for the CIA and also seem to only be confined to one continent in their observation/machination, though that may just be compartmentalization on the part of whatever international organization they are working for, if any. And they need to physically break into Randi's place in order to gather info.
+> 
+> In any case, Viejo is either lying to Akvo (and other conspirators?) about her motives or not acting rational. That Simon blunder is just too big for a so sensitive thing like a one year projection of a 100 actors plus a whole world of reactors.
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (2 hours later)
 >> 
 >> Viejo did know (or at least had a pretty good idea) that Simon had gone to Austin, so her ability to predict Simon hasn't gone entirely off the rails. What's more concerning is that *Hannah* isn't where she should be, and that doesn't seem related to Simon at all. 
->> > In any case, Viejo is either lying to Akvo (and other conspirators?) about her motives or not acting rational.
->> Well, they did have that argument in the diner.
 >> 
+>> > In any case, Viejo is either lying to Akvo (and other conspirators?) about her motives or not acting rational.
+>> 
+>> Well, they did have that argument in the diner.
 
-> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (15 minutes later)
 > 
 > A few things. 
-> **Your regularly scheduled call for criticism**
-> First of all, thanks to everyone who's commented thus far. I feed on your feedback, and it really helps to keep me going. I want to make sure that HSTW remains a story that you enjoy, so please, don't hold back your criticism. 
-> The last time that I specifically asked for crits, a couple of people said that the chapters should be longer. We've gone from an average word count of 1,091 to 1,531, and while Sequence 3 is still in-progress, we've got at least one chapter that breaks past 2,400 words and another that's in the 2,000 range, with an average word count of 1,627. I can't say how long this growth will continue, but let me know if you think that a given chapter is too long or, for that matter, just the right length. 
-> **Site theme**
-> After talking with several readers, I've elected to go with...none of the themes that I was considering. "Light text on dark background" and "As close as possible to the original theme" seemed to be the most important characteristics, but Wordpress *really* limits what you're allowed to do unless you pay for the premium plan. I can only select a number of possible backgrounds, I can't change text color site-wide but have to manually do it each time, etc. 
-> Turns out that Blogspot might have been the better option. Who knew? Anyway, I hope that this theme is satisfactory. Let me know what you think. 
-> **No update this Friday**
-> This is the last chapter of Sequence 2. As with the previous sequence, we're going to take off the rest of this week. I don't plan to take a break like this again with future sequences. 
-> I hope to have a small surprise ready for the next update, so...
-> /fingers crossed.
 > 
+> **Your regularly scheduled call for criticism**
+> 
+> First of all, thanks to everyone who's commented thus far. I feed on your feedback, and it really helps to keep me going. I want to make sure that HSTW remains a story that you enjoy, so please, don't hold back your criticism. 
+> 
+> The last time that I specifically asked for crits, a couple of people said that the chapters should be longer. We've gone from an average word count of 1,091 to 1,531, and while Sequence 3 is still in-progress, we've got at least one chapter that breaks past 2,400 words and another that's in the 2,000 range, with an average word count of 1,627. I can't say how long this growth will continue, but let me know if you think that a given chapter is too long or, for that matter, just the right length. 
+> 
+> **Site theme**
+> 
+> After talking with several readers, I've elected to go with...none of the themes that I was considering. "Light text on dark background" and "As close as possible to the original theme" seemed to be the most important characteristics, but Wordpress *really* limits what you're allowed to do unless you pay for the premium plan. I can only select a number of possible backgrounds, I can't change text color site-wide but have to manually do it each time, etc. 
+> 
+> Turns out that Blogspot might have been the better option. Who knew? Anyway, I hope that this theme is satisfactory. Let me know what you think. 
+> 
+> **No update this Friday**
+> 
+> This is the last chapter of Sequence 2. As with the previous sequence, we're going to take off the rest of this week. I don't plan to take a break like this again with future sequences. 
+> 
+> I hope to have a small surprise ready for the next update, so...
+> 
+> /fingers crossed.
 
->> **u/Bowbreaker** [+1]  *Solitary Locust**
+>> **u/Bowbreaker** [+1]  *Solitary Locust* (36 minutes later)
 >> 
 >> I still prefer the original theme but this one isn't too bad. Definitely better than the options in your Imgur link at least.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/_brightwing  *Feathered menace**
 * URL: https://www.fanfiction.net/s/8096183/59/Harry-Potter-and-the-Natural-20
-* Score: 26
+* Score: 24
 
 * Created: 2014-08-23T08:41:27
 
@@ -12,36 +12,31 @@
 
 ### Comments:
 
-> **u/alexanderwales** [+8]  *Time flies like an arrow**
+> **u/alexanderwales** [+7]  *Time flies like an arrow* (10 hours later)
 > 
 > So far as I'm concerned, the pay-off for wandering in D&D land has to be meeting Bellatrix and seeing all the exploits of a skilled and intelligent wizard from the Harry Potter world. I know people have been somewhat down on these sections, but I'm really looking forward to when they meet Bellatrix.
-> Also, using backstory as an exploit is exactly the sort of thing that I do all the time as a player - you just need a forgiving dungeon master.
 > 
+> Also, using backstory as an exploit is exactly the sort of thing that I do all the time as a player - you just need a forgiving dungeon master.
 
->> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity* (12 hours later)
 >> 
 >> Well, it depends how Bellatrix is portrayed. She was in Azkaban for years after all. She may be skilled and intelligent, or just cruel, insane and talented with a few OP spells
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (15 hours later)
 >> 
 >> So we know that Milo really had someone "playing" him at some point. Presumably that's true of all the other characters. Which means at some point we might just meet the DM himself...and he will *not* be happy about all this Munchkinry.
->> 
 
->>> **u/Evilness42** [+2]  *And even myth is long forgotten...**
+>>> **u/Evilness42** [+2]  *And even myth is long forgotten...* (a day later)
 >>> 
 >>> Have we not already 'met' the DM? What with the phrases like 'Disgruntled Mechanics' interfering with Munchkinry attempts that do not quite flow with the rules, or ones that give instant wins.
->>> 
 
->>>> **u/Iconochasm** [+1] *
+>>>> **u/Iconochasm** [+1]  (2 days later)
 >>>> 
 >>>> Milo has a number of phrases to whine about that conveniently abbreviate to "DM".  Another one was "Destiny Manipulator".
->>>> 
 
->>>>> **u/Evilness42** [+1]  *And even myth is long forgotten...**
+>>>>> **u/Evilness42** [+1]  *And even myth is long forgotten...* (5 days later)
 >>>>> 
 >>>>> Yes, that was what I was referring too. That was the only one I could remember.
->>>>> 
 
 ---
 

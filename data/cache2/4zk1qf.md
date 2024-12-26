@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Cariyaga** [+4]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+5]  *Kyubey did nothing wrong* (7 minutes later)
 > 
 > Thanks to our venerable OliWhail for this one!
-> 
 
->> **u/oliwhail** [+5]  *Omake-Maximizing AGI**
+>> **u/oliwhail** [+5]  *Omake-Maximizing AGI* (10 minutes later)
 >> 
 >> :D
->> 
 
 ---
 

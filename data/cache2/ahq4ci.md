@@ -2,7 +2,7 @@
 
 * Author: u/Nagadac  *Challenge Winner**
 * URL: https://www.reddit.com/r/rational/comments/ahq4ci/rtcthe_brains_of_the_operation/
-* Score: 36
+* Score: 35
 
 * Created: 2019-01-19T20:51:47
 
@@ -124,35 +124,29 @@ Except, perhaps, for more brains.
 
 ### Comments:
 
-> **u/dinoseen** [+3] *
+> **u/dinoseen** [+3]  (6 hours later)
 > 
 > This is brilliant, good job!
-> 
 
->> **u/Nagadac** [+2]  *Challenge Winner**
+>> **u/Nagadac** [+2]  *Challenge Winner* (6 hours later)
 >> 
 >> Thanks. My stuff usually has a rational be t but this was the first time I actually went into something with that in mind. I think it turned out nicely.
->> 
 
-> **u/RetardedWabbit** [+3] *
+> **u/RetardedWabbit** [+3]  (7 hours later)
 > 
 > Cool short story! I feel like you really nailed the early parts balance of description and flavor. "A tough old place to break into, lots of long sitting-spots, and a stone slab to hide behind at the end." was a great example of this for me, enough info to picture the scene with enough of the POV flavor to be thematic.
-> 
 
->> **u/Nagadac** [+2]  *Challenge Winner**
+>> **u/Nagadac** [+2]  *Challenge Winner* (16 hours later)
 >> 
 >> Yes! It's stuff like this that I think makes the best writing, when you weave things like subtle world building or POV character nuances into description. I'm appreciate you noticing.
->> 
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (9 hours later)
 > 
 > I actually think this would be a worthy entry for the weekly challenge. It's about the end of zombies brought about by a zombie and the end of freedom for humanity under the yoke of a hungry super-intelligence.
-> 
 
->> **u/Nagadac** [+2]  *Challenge Winner**
+>> **u/Nagadac** [+2]  *Challenge Winner* (16 hours later)
 >> 
 >> I didn't even see that. I shall get on that. Thank you sir!
->> 
 
 ---
 

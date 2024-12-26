@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://thezombieknight.blogspot.ca/2013/04/page-1.html
-* Score: 17
+* Score: 19
 
 * Created: 2017-03-02T03:15:33
 
@@ -12,30 +12,25 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+4]  (3 minutes later)
 > 
 > Not written by me, it's by George Frost. The two main factions appear pretty black and white at first but get more complex and nuanced as more detail is revealed. Other than that more detail can be found in the About tab on the site if you want more info before reading, nothing else is super relevant to /r/rational I don't think.
-> 
 
->> **u/None** [+7] *
+>> **u/None** [+7]  (2 hours later)
 >> 
 >> [removed]
->> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+7]  (3 hours later)
 >>> 
 >>> Well, it becomes pretty clear that the good guys aren't completely good either.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (9 hours later)
 >>>> 
 >>>> This is more what I mean.
->>>> 
 
->>>> **u/696e6372656469626c65** [+1]  *I think, therefore I am pretentious.**
+>>>> **u/696e6372656469626c65** [+1]  *I think, therefore I am pretentious.* (21 hours later)
 >>>> 
 >>>> So what you're saying is it's a "Grey and Gray Morality"-based conflict? [Not a particularly big](http://yudkowsky.tumblr.com/writing/moral-conflicts) [fan of those](http://yudkowsky.tumblr.com/writing/realistic-viewpoints).
->>>> 
 
 ---
 

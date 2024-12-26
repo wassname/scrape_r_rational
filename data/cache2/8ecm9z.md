@@ -2,7 +2,7 @@
 
 * Author: u/Gelifyal *
 * URL: https://www.fictionpress.com/s/3323184/4/Aeromancer
-* Score: 29
+* Score: 28
 
 * Created: 2018-04-23T16:08:39
 
@@ -12,148 +12,169 @@
 
 ### Comments:
 
-> **u/Nimelennar** [+6] *
+> **u/Nimelennar** [+6]  (4 hours later)
 > 
 > The story is coming along nicely so far.
-> Two suggestions:
-> First, cut back on using proper names; intersperse them with descriptors.  For instance, "Shanna" could be "the geomancer," or "the blindfolded woman," or "the terse woman," or "the woman in the suit," or... the list could go on and on.  It makes the story feel less repetitive, and, at the same time, reminds us who these other characters are.  Remember that it's been several days since we've read your story; it's not a bad idea to subtly re-establish who everyone is in the reader's mind at the start of each chapter.  I was picturing Faulkner as an old, frail wizard type until I went back a chapter and found out he was young and muscular.
-> The second note is much the same as the first: sometimes the progression of events could be made clearer, if you'd tie what's currently happening back to previous occurrences a bit more.  I think just using descriptors will help a lot with that, but also don't be afraid, even this early, to draw parallels between what is happening now and what happened one or two chapters ago.  For instance, Seti recognizes Elder Narn from the previous chapter; in that chapter, the Elder doesn't seem happy that the MC is staying.  So, when the grump throws a nasty glance at the new pupil, Seti can remember the disdain from the previous chapter and speculate on why that is.  And by doing so, you're both reminding the reader of what they may have forgotten (who Elder Narn is and what happened last chapter), as well as providing a sense of continuity with earlier events.
-> Other than those small notes, you seem to be doing a good job telling your story thus far.  Keep it up!
 > 
+> Two suggestions:
+> 
+> First, cut back on using proper names; intersperse them with descriptors.  For instance, "Shanna" could be "the geomancer," or "the blindfolded woman," or "the terse woman," or "the woman in the suit," or... the list could go on and on.  It makes the story feel less repetitive, and, at the same time, reminds us who these other characters are.  Remember that it's been several days since we've read your story; it's not a bad idea to subtly re-establish who everyone is in the reader's mind at the start of each chapter.  I was picturing Faulkner as an old, frail wizard type until I went back a chapter and found out he was young and muscular.
+> 
+> The second note is much the same as the first: sometimes the progression of events could be made clearer, if you'd tie what's currently happening back to previous occurrences a bit more.  I think just using descriptors will help a lot with that, but also don't be afraid, even this early, to draw parallels between what is happening now and what happened one or two chapters ago.  For instance, Seti recognizes Elder Narn from the previous chapter; in that chapter, the Elder doesn't seem happy that the MC is staying.  So, when the grump throws a nasty glance at the new pupil, Seti can remember the disdain from the previous chapter and speculate on why that is.  And by doing so, you're both reminding the reader of what they may have forgotten (who Elder Narn is and what happened last chapter), as well as providing a sense of continuity with earlier events.
+> 
+> Other than those small notes, you seem to be doing a good job telling your story thus far.  Keep it up!
 
->> **u/Gelifyal** [+1] *
+>> **u/Gelifyal** [+1]  (5 hours later)
 >> 
 >> Thank you for the feedback! I'm reminded that this is a different venue to post stories and will try to keep it in mind in the future.
->> 
 
-> **u/Techman10** [+3] *
+> **u/Techman10** [+3]  (12 hours later)
 > 
 > Didn't see that twist coming. Interesting world you're crafting, I look forward to future chapters.
-> 
 
-> **u/MysteryLolznation** [+3]  *Dark Flame Master**
+> **u/MysteryLolznation** [+3]  *Dark Flame Master* (3 days later)
 > 
 > More.
-> Great chapter. Just got into it and ate it all up in big gulps. Good shit.
 > 
+> Great chapter. Just got into it and ate it all up in big gulps. Good shit.
 
-> **u/JanusTheDoorman** [+2] *
+> **u/JanusTheDoorman** [+2]  (4 hours later)
 > 
 > Interesting to see Seti embracing the coercive side of his niche so readily. Also, the Shepherds seem worryingly powerful. Sure, maybe there was an actual, independent, publicly accountable oversight and authorization process that enabled them to take Seti into custody, but it sure doesn't seem that way.
-> 
 
->> **u/Gelifyal** [+4] *
+>> **u/Gelifyal** [+3]  (5 hours later)
 >> 
 >> >maybe there was an actual, independent, publicly accountable oversight and authorization process that enabled them to take Seti into custody, but it sure doesn't seem that way.
->> Why wouldn't it seem that way? Could you go further into why you think the Shepherds are worryingly powerful? In real life, most people do not know the checks and balances of police officers. They only know that usually they need a warrant to search private areas, but otherwise can make an arrest or detain people with the badge. And in real life, lawyers are presented only after the arrest to ensure the rights are known.
->> In the same vein, a Shepherd is a known entity. We know that there is a law regarding geases (the AVC Act, mentioned during the "arrest"), so the Shepherd's rights could be attached to that. 
->> As for checks and balances, I haven't done any world building (and ultimately, the government) towards that end except to mention that there are Guilds that are different from the Shepherds.
 >> 
+>> Why wouldn't it seem that way? Could you go further into why you think the Shepherds are worryingly powerful? In real life, most people do not know the checks and balances of police officers. They only know that usually they need a warrant to search private areas, but otherwise can make an arrest or detain people with the badge. And in real life, lawyers are presented only after the arrest to ensure the rights are known.
+>> 
+>> In the same vein, a Shepherd is a known entity. We know that there is a law regarding geases (the AVC Act, mentioned during the "arrest"), so the Shepherd's rights could be attached to that. 
+>> 
+>> As for checks and balances, I haven't done any world building (and ultimately, the government) towards that end except to mention that there are Guilds that are different from the Shepherds.
 
->>> **u/nicholaslaux** [+2] *
+>>> **u/nicholaslaux** [+2]  (6 hours later)
 >>> 
 >>> > Why wouldn't it seem that way?
->>> Realistically, for the same reason that many people don't actually buy those same systems of supposed checks and balances in real life police forces.
->>> Giving groups of people power over others requires real, difficult, work to prevent it from degenerating into self-serving corruption and power plays and the like.
->>> (This may not be the argument the other poster was making.)
->>> As for worryingly powerful, in general the police in our world (at least in the US) have to at least make up some sort of crime that you personally have committed in order to essentially "force you to go with them" against your will. It seems probable that "suspicion of being under a geas" would likely be this world's equivalent of "I thought they had a gun and/or drugs", except if only drug dealers could determine that you had possession of drugs, or arms dealers were the only ones who could determine that you had a gun.
->>> This is of course assuming that only a vivimancer could determine whether or not another vivimancer placed a geas on someone, along with potentially not being able to determine whether or not any given vivimancer is able to place geases (?).
->>> From the events shown thus far, that doesn't seem like an unreasonable conclusion to make, even if the world as it exists is wildly different from this. At a minimum, it seems like the correct perspective for our MC to have, given the events in his life as we've seen them.
 >>> 
+>>> Realistically, for the same reason that many people don't actually buy those same systems of supposed checks and balances in real life police forces.
+>>> 
+>>> Giving groups of people power over others requires real, difficult, work to prevent it from degenerating into self-serving corruption and power plays and the like.
+>>> 
+>>> (This may not be the argument the other poster was making.)
+>>> 
+>>> As for worryingly powerful, in general the police in our world (at least in the US) have to at least make up some sort of crime that you personally have committed in order to essentially "force you to go with them" against your will. It seems probable that "suspicion of being under a geas" would likely be this world's equivalent of "I thought they had a gun and/or drugs", except if only drug dealers could determine that you had possession of drugs, or arms dealers were the only ones who could determine that you had a gun.
+>>> 
+>>> This is of course assuming that only a vivimancer could determine whether or not another vivimancer placed a geas on someone, along with potentially not being able to determine whether or not any given vivimancer is able to place geases (?).
+>>> 
+>>> From the events shown thus far, that doesn't seem like an unreasonable conclusion to make, even if the world as it exists is wildly different from this. At a minimum, it seems like the correct perspective for our MC to have, given the events in his life as we've seen them.
 
->>>> **u/Gelifyal** [+1] *
+>>>> **u/Gelifyal** [+1]  (6 hours later)
 >>>> 
 >>>> Makes sense. Perhaps some of the thoughts would be answered when discussing Shepherds vs Mafia later on.
->>>> Thanks!
 >>>> 
+>>>> Thanks!
 
->>> **u/JanusTheDoorman** [+1] *
+>>> **u/JanusTheDoorman** [+1]  (6 hours later)
 >>> 
 >>> In terms of my impression of the Shepherds, I think I'm conditioning (perhaps overly heavily) based on their treatment of Cassie (blackmailing someone with a demonstrated propensity to violating some pretty severe taboos and laws into working *with* them), but it seems the Shepherds are a "power at any cost" organization. They take advantage of whatever leverage they have in order to maintain their power and control over at least other mancers, though I would expect that it extends beyond that.
->>> The Shepherds powers displayed here (arresting and detaining someone for a moderately extended period of time) are on the extreme end of what I'd expect a society to tolerate from a police force and certainly not without the detainee being able to exert some resistance or demand for justification to be evaluated by a third party.
->>> And, yeah, for most people it's an unfortunate fact of life that encounters with law enforcement and the judicial system can see them railroaded through the system without a real understanding of their rights and options to oppose police actions.
->>> For rich, educated people with lawyers on retainer, however, the approach is usually to push back, resist, and counter-threaten the police the whole way. Seti certainly seems used to relying on his father's wealth and influence in other matters (leaving a note to contact the company to repair the table Aiden damaged), so if even *he* more or less crumples and assumes there's nothing that can be done to gainsay the word of a Shepherd *at the first time he's been made aware of potential action against him*, then there's really must be very little that can be done.
 >>> 
+>>> The Shepherds powers displayed here (arresting and detaining someone for a moderately extended period of time) are on the extreme end of what I'd expect a society to tolerate from a police force and certainly not without the detainee being able to exert some resistance or demand for justification to be evaluated by a third party.
+>>> 
+>>> And, yeah, for most people it's an unfortunate fact of life that encounters with law enforcement and the judicial system can see them railroaded through the system without a real understanding of their rights and options to oppose police actions.
+>>> 
+>>> For rich, educated people with lawyers on retainer, however, the approach is usually to push back, resist, and counter-threaten the police the whole way. Seti certainly seems used to relying on his father's wealth and influence in other matters (leaving a note to contact the company to repair the table Aiden damaged), so if even *he* more or less crumples and assumes there's nothing that can be done to gainsay the word of a Shepherd *at the first time he's been made aware of potential action against him*, then there's really must be very little that can be done.
 
->>>> **u/Gelifyal** [+1] *
+>>>> **u/Gelifyal** [+1]  (7 hours later)
 >>>> 
 >>>> Thanks for replying again! I wouldn't say you're overly heavily conditioning yourself based on Cassie's circumstance, as Seti uses that instance himself.
->>>> You are right to guess a more police force style rule (in a world of mancers everywhere), but I would be curious to know your thoughts in the future when more details come around as to why some even view the Shepherds as the hero/cool people.
->>>> Thanks for reading the story up til now!
 >>>> 
+>>>> You are right to guess a more police force style rule (in a world of mancers everywhere), but I would be curious to know your thoughts in the future when more details come around as to why some even view the Shepherds as the hero/cool people.
+>>>> 
+>>>> Thanks for reading the story up til now!
 
->> **u/nicholaslaux** [+1] *
+>> **u/nicholaslaux** [+1]  (5 hours later)
 >> 
 >> > embracing the coercive side of his niche
->> People are really good at convincing themselves that bad things in *their* hands are okay because they know that [bad thing] is bad, so they'll only use it for good, as soon as they acquire [bad thing].
 >> 
+>> People are really good at convincing themselves that bad things in *their* hands are okay because they know that [bad thing] is bad, so they'll only use it for good, as soon as they acquire [bad thing].
 
-> **u/nicholaslaux** [+2] *
+> **u/nicholaslaux** [+2]  (5 hours later)
 > 
 > Well that last line was unexpected. Definitely interested in reading more.
-> One thing that I'm curious about now - was a mafia leader actually on what sounded like a semi-popular reality show? Or was he making that up?
 > 
+> One thing that I'm curious about now - was a mafia leader actually on what sounded like a semi-popular reality show? Or was he making that up?
 
->> **u/Gelifyal** [+5] *
+>> **u/Gelifyal** [+5]  (5 hours later)
 >> 
 >> Haha, okay I'll talk about this here because I don't think I'll bring it up again (or if I do, it'll be more of a passing thought).
+>> 
 >> Let me quote chapter 3 and give my thoughts why I wrote something a certain way:
 >> >"Bah, he has no stress. Regardless," Elder Poe started, taking a glance at Seti, "there is a risk to bringing the… uninitiated into the temple."
->> Here Elder Poe is worried about bringing the "uninitiated" into the temple (this was his way of worrying that their identity could come into light)
->> >[Faulkner] grinned through the cigarette in his mouth. "Do you know who I am?"
->> >Seti shook his head. He had difficulty identifying people he already knew as it was, so a stranger he may have seen in the past was definitely out of the question. Sydria also shook her head.
->> >"I am Faulkner. Does that ring any bells?" The young master was expectant. Though called the young master, he wasn't young in the way that Seti thought; in fact, he was probably the blindfold woman's age.
->> >Again the two siblings shook their head. **The elders exchanged glances.**
->> >"Ah, I'll pretend I'm not disappointed. Our temple may or may not have been on a reality TV show a few years back, but I suppose all fame dies out eventually. Now then, with whom am I speaking?"
->> This part specifically, from my view, was them checking to see if Faulkner was recognized by them. He played it off when he realized that they didn't, but if they had then who knows what would've happened o.o
->> So no, I don't think he was actually on a reality show lol
 >> 
+>> Here Elder Poe is worried about bringing the "uninitiated" into the temple (this was his way of worrying that their identity could come into light)
+>> 
+>> >[Faulkner] grinned through the cigarette in his mouth. "Do you know who I am?"
+>> 
+>> >Seti shook his head. He had difficulty identifying people he already knew as it was, so a stranger he may have seen in the past was definitely out of the question. Sydria also shook her head.
+>> 
+>> >"I am Faulkner. Does that ring any bells?" The young master was expectant. Though called the young master, he wasn't young in the way that Seti thought; in fact, he was probably the blindfold woman's age.
+>> 
+>> >Again the two siblings shook their head. **The elders exchanged glances.**
+>> 
+>> >"Ah, I'll pretend I'm not disappointed. Our temple may or may not have been on a reality TV show a few years back, but I suppose all fame dies out eventually. Now then, with whom am I speaking?"
+>> 
+>> This part specifically, from my view, was them checking to see if Faulkner was recognized by them. He played it off when he realized that they didn't, but if they had then who knows what would've happened o.o
+>> 
+>> So no, I don't think he was actually on a reality show lol
 
->>> **u/nicholaslaux** [+5] *
+>>> **u/nicholaslaux** [+5]  (5 hours later)
 >>> 
 >>> Yeah, it was the last part specifically that I was thinking about. 
->>> For sheer entertainment value, I almost want to headcannon that the "reality TV show" he mentioned was the news, though I could just as easily see the mafia preventing something like that from happening.
 >>> 
+>>> For sheer entertainment value, I almost want to headcannon that the "reality TV show" he mentioned was the news, though I could just as easily see the mafia preventing something like that from happening.
 
->>>> **u/Gelifyal** [+5] *
+>>>> **u/Gelifyal** [+4]  (5 hours later)
 >>>> 
 >>>> LOL that's great
->>>> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 > 
 > I'm curious, what is the distribution of tiers in the world?
-> 
 
->> **u/Gelifyal** [+1] *
+>> **u/Gelifyal** [+1]  (a day later)
 >> 
 >> I'll quote several spots from the first chapter:
 >> >On a scale of one to eight
+>> 
 >> And here's another:
 >> >Sure, he daydreamed about being able to make tornados with his ability, or whatever the tier eight people could do...
+>> 
 >> My goal was to imply that the tiers were set from 1 to 8. And finally,
 >> >"I have more in common with the ants than to any of the upper echelon tiers" ///
 >> >Anyone that was tier five or above received their mancer title. Everyone else was just an adept.
+>> 
 >> So when somebody became an upper tier (5-8), they would be known as an aeromancer, pyromancer, and so on.
 >> The difference between each tier (like why is a 6 not a 7 and so on) hasn't been touched on yet since Seti is only a 1.
->> I hope I answered your question.
 >> 
+>> I hope I answered your question.
 
->>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> No, I wasn't asking about the number of tiers or what differentiates them. My question was very briefly worded, so I apologize for being unclear.
->>> I was asking about the comparative population sizes. Is it uniform with equal numbers for each tier, linear with each tier being half of the size of the prior tier, logarithmic with exponentially smaller tiers the higher you go, or something else.
 >>> 
+>>> I was asking about the comparative population sizes. Is it uniform with equal numbers for each tier, linear with each tier being half of the size of the prior tier, logarithmic with exponentially smaller tiers the higher you go, or something else.
 
->>>> **u/Gelifyal** [+2] *
+>>>> **u/Gelifyal** [+2]  (a day later)
 >>>> 
 >>>> Oh, I understand now. No, it isn't equal or linear. I haven't touched on any of this yet, but certain mancy types are drastically less than others.
 >>>> So for example, there are more wind users in tier 1-4 than fire users simply because fire can reach tier 5 easier.
 >>>> And there is a "limit cap" or whatever, which makes 7s and 8s be fewer in count by a drastic amount.
->>>> EDIT: The idea that there are fewer higher rank tiers is mostly true, but certain exceptions apply (like there being no fire users that are tier 1 or 2, or something like that, just by sheer mechanics of how it works).
->>>> Tiers come into play a lot more when the Prestige stuff starts so hopefully that'll satisfy these kinds of questions.
->>>> Thanks!
 >>>> 
+>>>> EDIT: The idea that there are fewer higher rank tiers is mostly true, but certain exceptions apply (like there being no fire users that are tier 1 or 2, or something like that, just by sheer mechanics of how it works).
+>>>> 
+>>>> Tiers come into play a lot more when the Prestige stuff starts so hopefully that'll satisfy these kinds of questions.
+>>>> 
+>>>> Thanks!
 
 ---
 

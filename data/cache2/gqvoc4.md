@@ -12,124 +12,121 @@
 
 ### Comments:
 
-> **u/Kishoto** [+15] *
+> **u/Kishoto** [+14]  (an hour later)
 > 
 > My desire to improve my skills is combated by my distaste for long lectures and my general laziness (the eternal human struggle). 
-> I'll prob watch at least one or two of them though.
 > 
+> I'll prob watch at least one or two of them though.
 
->> **u/Kuiper** [+24] *
+>> **u/Kuiper** [+23]  (7 hours later)
 >> 
 >> If you only have a short time to hear Sanderson talk, I think the biggest return on investment might come from watching the first 30 minutes of his [JordanCon 2010 talk about description and viewpoint](https://www.youtube.com/watch?v=oGOodOMBYVk).  (The full video is longer, but the second half is mostly just Q&A, and the best insights are all front-loaded into the first half of the lecture portion.)   I've always been interested in the art of storytelling, but discussion of things like plot and characters and setting can often feel abstract in a way that might not feel immediately actionable: like okay, I need to write characters that elicit sympathy, but how does that translate into writing a good opening sentence, or a good opening paragraph, or a good opening chapter?  Writing an amazing character arc or a great plot twist doesn't mean a whole lot when a lot of people will, within the first chapter, tend to appraise your work as something that is either worth reading or not.
->> It feels like there is a lot of writing advice that is focused on "how to tell a good story," and less focused on "how to write a good sentence."  That 200-level advice can be great, but it's a bit like having a baseball coach who is trying to teach you how to steal bases and when to bunt when what you really want to know is how to swing the bat.  The first 30 minutes of that 2010 JordanCon lecture on description and viewpoint are all about how to write good sentences, which I think might be *the* most important thing to learn as a writer.
->> A lot of the joy of watching Sanderson lectures (at least for me) comes from the fact that a lot of the time he isn't really teaching you new things so much as formalizing all of the things that you already intuitively understood but never thought about consciously.  Not many of us really need to be *taught* that "readers like a sympathetic protagonist;" on a certain level, this is something that all of us already know, whether we're consciously aware of it or not.   Thus, it can be incredibly enjoyable (and often somewhat addictive) to watch a Sanderson lecture and realize, "Wow, look at how much stuff I already knew about storytelling!"  You already have an intuitive understanding of what makes a good story, which immediately primes you for the part of the lecture that teaches you how to translate that intuitive understanding into well-written sentences that form a good story that people actually want to read.
->> I think that the first 30 minutes of [that 2010 JordanCon lecture](https://www.youtube.com/watch?v=oGOodOMBYVk), more than anything else in my life, are the thing most responsible from turning me from an engineering student in 2010 into a professional scriptwriter (I started getting paying gigs in 2015, and went full-time in 2016).  After watching that lecture, I also watched all of his other JordanCon lectures, and ravenously first three seasons of the Writing Excuses podcast that he did with Dan Wells and Howard Taylor.  (Perhaps you'd find Sanderson's insights more digestible in that format: the podcasts's motto is "15 minutes long, because you're in a hurry, and we're not that smart.")  Listening to Sanderson talk about storytelling did teach me new things, but what really made his lectures impactful was the fact that it allowed me to "unlock" the understanding of stories that I'd been unknowingly accumulating ever since I was a child: transferring that knowledge from my subconscious to my conscious mind immediately made it something that was actionable, and practically overnight I went from someone who had occasionally mused "I'd like to write a novel some day" to someone who was constantly writing short stories and creating plot outlines.
 >> 
+>> It feels like there is a lot of writing advice that is focused on "how to tell a good story," and less focused on "how to write a good sentence."  That 200-level advice can be great, but it's a bit like having a baseball coach who is trying to teach you how to steal bases and when to bunt when what you really want to know is how to swing the bat.  The first 30 minutes of that 2010 JordanCon lecture on description and viewpoint are all about how to write good sentences, which I think might be *the* most important thing to learn as a writer.
+>> 
+>> A lot of the joy of watching Sanderson lectures (at least for me) comes from the fact that a lot of the time he isn't really teaching you new things so much as formalizing all of the things that you already intuitively understood but never thought about consciously.  Not many of us really need to be *taught* that "readers like a sympathetic protagonist;" on a certain level, this is something that all of us already know, whether we're consciously aware of it or not.   Thus, it can be incredibly enjoyable (and often somewhat addictive) to watch a Sanderson lecture and realize, "Wow, look at how much stuff I already knew about storytelling!"  You already have an intuitive understanding of what makes a good story, which immediately primes you for the part of the lecture that teaches you how to translate that intuitive understanding into well-written sentences that form a good story that people actually want to read.
+>> 
+>> I think that the first 30 minutes of [that 2010 JordanCon lecture](https://www.youtube.com/watch?v=oGOodOMBYVk), more than anything else in my life, are the thing most responsible from turning me from an engineering student in 2010 into a professional scriptwriter (I started getting paying gigs in 2015, and went full-time in 2016).  After watching that lecture, I also watched all of his other JordanCon lectures, and ravenously first three seasons of the Writing Excuses podcast that he did with Dan Wells and Howard Taylor.  (Perhaps you'd find Sanderson's insights more digestible in that format: the podcasts's motto is "15 minutes long, because you're in a hurry, and we're not that smart.")  Listening to Sanderson talk about storytelling did teach me new things, but what really made his lectures impactful was the fact that it allowed me to "unlock" the understanding of stories that I'd been unknowingly accumulating ever since I was a child: transferring that knowledge from my subconscious to my conscious mind immediately made it something that was actionable, and practically overnight I went from someone who had occasionally mused "I'd like to write a novel some day" to someone who was constantly writing short stories and creating plot outlines.
 
->>> **u/thestarsallfall** [+4] *
+>>> **u/thestarsallfall** [+5]  (9 hours later)
 >>> 
 >>> You just drastically changed the trajectory of my week. And possibly life. Lol.
->>> I've watched some of Brandon's lectures  before this, but you are not wrong about the first 30 minutes of this lecture. This totally connected a lot of dots that were already there in my head on how to continue progressing on my own writing!
->>> I fucking love Brandon Sanderson
 >>> 
+>>> I've watched some of Brandon's lectures  before this, but you are not wrong about the first 30 minutes of this lecture. This totally connected a lot of dots that were already there in my head on how to continue progressing on my own writing!
+>>> 
+>>> I fucking love Brandon Sanderson
 
->>> **u/generalamitt** [+3] *
+>>> **u/generalamitt** [+3]  (a day later)
 >>> 
 >>> I've had a similar experience with his lectures.
->>> While they are quite helpful for new writers to get themselves familiarized with relevant concepts like "pyramid of abstraction" or "discovery writing vs outlining", they lack substance. Brandon goes on and on about what you should and shouldn't do. He doesn't tell you *how* to do it. At least not in any meaningful way.
->>> It's funny because I've learned so much more from a video of him **simply writing**. This is him writing a story while taking requests from a live chat and explaining the process:
->>> [https://www.youtube.com/watch?v=qRhup20Ns1c&t=8588s](https://www.youtube.com/watch?v=qRhup20Ns1c&t=8588s)
->>> &#x200B;
->>> Do you have any more practical resources to recommend?
 >>> 
+>>> While they are quite helpful for new writers to get themselves familiarized with relevant concepts like "pyramid of abstraction" or "discovery writing vs outlining", they lack substance. Brandon goes on and on about what you should and shouldn't do. He doesn't tell you *how* to do it. At least not in any meaningful way.
+>>> 
+>>> It's funny because I've learned so much more from a video of him **simply writing**. This is him writing a story while taking requests from a live chat and explaining the process:
+>>> 
+>>> [https://www.youtube.com/watch?v=qRhup20Ns1c&t=8588s](https://www.youtube.com/watch?v=qRhup20Ns1c&t=8588s)
+>>> 
+>>> &#x200B;
+>>> 
+>>> Do you have any more practical resources to recommend?
 
->>>> **u/Kuiper** [+2] *
+>>>> **u/Kuiper** [+2]  (a day later)
 >>>> 
 >>>> The only resource that comes to mind is the short book *How to Write Science Fiction and Fantasy* by Orson Scott Card. Caveats abound: the book was published 30 years ago, and roughly a quarter of the book is devoted to giving career/professional advice about the publishing industry that is long obsolete. That aside, if you're looking for practical writing resources, I can recommend the book solely on the basis of a 15-page chapter titled "writing well." [Here's a short excerpt of the chapter from the publisher's website](https://www.writersdigest.com/there-are-no-rules/writing-science-fiction-novels-exposition-sci-fi-novels) if you'd like a preview before going to the effort of acquiring an out-of-print book from 1990.
->>>> 
 
->>> **u/bloodfist** [+2] *
+>>> **u/bloodfist** [+2]  (11 hours later)
 >>> 
 >>> Thanks for this! I am not a writer but I love dissecting stories and really trying to get to the nitty gritty of why things work for me and why they don't.  Practical stuff like this really helps crystallize those thoughts a lot.
->>> 
 
->>> **u/endlessmoth** [+1] *
+>>> **u/endlessmoth** [+1]  (13 hours later)
 >>> 
 >>> > It feels like there is a lot of writing advice that is focused on "how to tell a good story," and less focused on "how to write a good sentence."
->>> Honestly, my experience has been a bit the opposite, but that's somewhat skewed by my interests I suppose.
 >>> 
+>>> Honestly, my experience has been a bit the opposite, but that's somewhat skewed by my interests I suppose.
 
->> **u/lumenwrites** [+8] *
+>> **u/lumenwrites** [+8]  (an hour later)
 >> 
 >> Oh don't worry about that, the lectures are very entertaining. He gives you plenty of interesting examples, insightful ideas come non stop, he has a way of speaking that draws you in, and every few minutes he makes a joke that lands well. That's why I'm saying he's a great teacher, he explains things clearly, you learn a lot quickly, and you don't get bored while listening to him.
->> 
 
->> **u/TaltosDreamer** [+3] *
+>> **u/TaltosDreamer** [+3]  (an hour later)
 >> 
 >> You should risk it. Well worth it and he makes it fun by comparing the material to his real experiences as a writer. Extremely well done.
->> 
 
->> **u/C5Jones** [+3] *
+>> **u/C5Jones** [+3]  (7 hours later)
 >> 
 >> Put it on in the background while you do something else. I'm on the last one now, and it's been easier than I thought.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (6 hours later)
 >> 
 >> The eternal human struggle? Well, I don't have distaste for long lectures. Also, I'm afraid I don't quite have general laziness. I may not be the most wonderfully laborious person in the world, mind you. But I’m certainly not characterised by what you stated as universal, sir or madam.
->> 
 
->>> **u/Spare_Emu** [+10] *
+>>> **u/Spare_Emu** [+11]  (6 hours later)
 >>> 
 >>> >I don't have distaste for long lectures. Also, I'm afraid I don't quite have general laziness
->>> You are a statistical outlier.
->>> Things don't have to be present on 100% of a sample to be considered universal in informal speech.
 >>> 
+>>> You are a statistical outlier.
+>>> 
+>>> Things don't have to be present on 100% of a sample to be considered universal in informal speech.
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+4]  (6 hours later)
 >>>> 
 >>>> This is true.
->>>> 
 
->>> **u/None** [+10] *
+>>> **u/None** [+11]  (8 hours later)
 >>> 
 >>> It seems you sacrificed skill points in conversational functionality to gain those exceptional virtues.
->>> 
 
->>>> **u/Slyvena** [+5] *
+>>>> **u/Slyvena** [+5]  (11 hours later)
 >>>> 
 >>>> He's min-maxing, its all G
->>>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+4]  (8 hours later)
 >>>> 
 >>>> You know, that may not be so inaccurate about me.
->>>> 
 
->> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>> **u/Xtraordinaire** [+1]  *Team Glimglam* (8 hours later)
 >> 
 >> If this is like his previous lecture set, it's probably fine for you, very down to earth, practical, and sometimes entertaining.
->> 
 
-> **u/VorpalAuroch** [+3]  *Life before Death**
+> **u/VorpalAuroch** [+3]  *Life before Death* (a day later)
 > 
 > I've been playing this at 1.5x speed in the background while I work. It's enough "not really teaching you new things so much as formalizing all of the things that you already intuitively understood but never thought about consciously" that this doesn't distract much from programming.
-> From lecture #4: There isn't really a list of the 200 basic stories; no one seems to have compiled one. Anyone want to crowdsource that project?
 > 
+> From lecture #4: There isn't really a list of the 200 basic stories; no one seems to have compiled one. Anyone want to crowdsource that project?
 
->> **u/DrFretNot** [+1] *
+>> **u/DrFretNot** [+1]  (6 days later)
 >> 
 >> I haven’t been able to find a detailed one either. It’s almost always 5-9. Maybe this reddit would have fun making a list. You could post this as it’s own thing.
+>> 
 >> Edit:
 >> Upon further searching, I have managed to find this:
 >> https://web.archive.org/web/20150821080004/http://www.ipl.org/div/farq/plotFARQ.html
->> I think coming up with the basic story types could be a fun way to classify stories vs just genre and could even lead to interesting ideas for prompts: combine archetype story x with archetype story z
 >> 
+>> I think coming up with the basic story types could be a fun way to classify stories vs just genre and could even lead to interesting ideas for prompts: combine archetype story x with archetype story z
 
-> **u/MortalDaemon** [+2] *
+> **u/MortalDaemon** [+2]  (an hour later)
 > 
 > Thanks for this, exactly what I was looking for.
-> 
 
 ---
 

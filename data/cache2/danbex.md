@@ -2,7 +2,7 @@
 
 * Author: u/FTL_wishes  *superluminal**
 * URL: https://www.fictionpress.com/s/3238329/124/A-Hero-s-War
-* Score: 21
+* Score: 23
 
 * Created: 2019-09-28T23:10:27
 
@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/thrawnca** [+10]  *Carbon-based biped**
+> **u/thrawnca** [+10]  *Carbon-based biped* (11 hours later)
 > 
 > Very considerate of Red Robe to give the capture order in a manner easily understood by the target, I thought. Sportsmanlike.
-> 
 
->> **u/Sailor_Vulcan** [+6]  *Champion of Justice and Reason**
+>> **u/Sailor_Vulcan** [+5]  *Champion of Justice and Reason* (a day later)
 >> 
 >> Dude this isnt the mother of learning thread
->> 
 
->>> **u/thrawnca** [+14]  *Carbon-based biped**
+>>> **u/thrawnca** [+14]  *Carbon-based biped* (a day later)
 >>> 
 >>> > Leading the way was a man in red robes, trailed by similarly red dressed flunkies.
->>> It looks like a duck, walks like a duck, and quacks like a duck.
 >>> 
+>>> It looks like a duck, walks like a duck, and quacks like a duck.
 
 ---
 

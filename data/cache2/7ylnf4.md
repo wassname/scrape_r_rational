@@ -12,47 +12,40 @@
 
 ### Comments:
 
-> **u/Ace_Kuper** [+11] *
+> **u/Ace_Kuper** [+12]  (3 hours later)
 > 
 > You know what would be faster and more productive? Actually doing the search yourself typing "archmage" or "cliff' "mountain" and checking if it's the right chapter. Like it only has 44 chapter as of now, finding what you are looking for would take you less time than creating this thread.
-> 
 
->> **u/TwoxMachina** [+3] *
+>> **u/TwoxMachina** [+5]  (4 hours later)
 >> 
 >> Another idea: check your history and go there. Probably fastest unless you clear your history for some reason.
->> 
 
->>> **u/Ace_Kuper** [+1] *
+>>> **u/Ace_Kuper** [+1]  (4 hours later)
 >>> 
 >>> I checked first lines of chapters just to see if i can spot it. "Archmage" is one of the first words in one of them. Again there are only 44 chapters to check and something tells me it wasn't in the last 4 chapters.
->>> 
 
->>>> **u/TwoxMachina** [+2] *
+>>>> **u/TwoxMachina** [+2]  (4 hours later)
 >>>> 
 >>>> Ah, my reply was mainly @you_troll.
 >>>> It's an reply to you, because it's an idea based on your reply.
->>>> You_troll's history should have the data. Yours, probably don't.
 >>>> 
+>>>> You_troll's history should have the data. Yours, probably don't.
 
->> **u/None** [-9] *
+>> **u/None** [-10]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Ace_Kuper** [+2] *
+>>> **u/Ace_Kuper** [+2]  (3 hours later)
 >>> 
 >>> The problem is what you asking is not that clear, i don't remember myself and there are few comments even in the Good Student threads themselves, so you would have to wait a lot longer for anyone to reply if they even do.
->>> 
 
-> **u/Noumero** [+5]  *Self-Appointed Court Statistician**
+> **u/Noumero** [+7]  *Self-Appointed Court Statistician* (5 hours later)
 > 
 > [Chapter 27](http://gravitytales.com/novel/the-good-student/tgs-chapter-27). It would have been better to ask this in the latest chapter's discussion thread, though, instead of creating a new post.
-> 
 
-> **u/nick012000** [+1] *
+> **u/nick012000** [+1]  (4 hours later)
 > 
 > I know the section you're talking about. It was during the school's camping trip, where Nic and company decide to hike up a mountain that the country's mages hold their meeting's on. I don't know which chapter it's in, though, sorry.
-> 
 
 ---
 

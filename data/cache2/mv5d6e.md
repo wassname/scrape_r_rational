@@ -2,7 +2,7 @@
 
 * Author: u/bigbysemotivefinger *
 * URL: https://www.reddit.com/r/rational/comments/mv5d6e/question_about_the_daily_grind_no_real_spoiler_i/
-* Score: 14
+* Score: 12
 
 * Created: 2021-04-21T01:27:29
 
@@ -12,16 +12,15 @@ I keep seeing the 'you can't talk about the dungeon' thing mentioned, but either
 
 ### Comments:
 
-> **u/mg115ca** [+4] *
+> **u/mg115ca** [+5]  (12 hours later)
 > 
 > So this only gets clarified around chapter 32 when Anesh has a talk with Rufus.
-> It technically only gets applied at first in chapter 8 when Anesh first enters the dungeon. But it's not discussed until chapter 11 or so. >!Rufus basically freaks out that James brought someone else into the dungeon, and thinks it will attract the wrong sort of attention from others in the dungeon. He's worried that James will just bring more and more people in, so he slips James and Anesh a "Don't talk about the dungeon" meme. Anesh skips a few weeks because of an injury, but James also got hit with the "don't use weapons" meme, and the one telling him to keep it a secret *eats* the weapon one. Anesh's meme just wears off over time, but the one in James' head has *fed*, so it doesn't starve, and grows up to become a full fledged character called, appropriately enough, Secret.!<
 > 
+> It technically only gets applied at first in chapter 8 when Anesh first enters the dungeon. But it's not discussed until chapter 11 or so. >!Rufus basically freaks out that James brought someone else into the dungeon, and thinks it will attract the wrong sort of attention from others in the dungeon. He's worried that James will just bring more and more people in, so he slips James and Anesh a "Don't talk about the dungeon" meme. Anesh skips a few weeks because of an injury, but James also got hit with the "don't use weapons" meme, and the one telling him to keep it a secret *eats* the weapon one. Anesh's meme just wears off over time, but the one in James' head has *fed*, so it doesn't starve, and grows up to become a full fledged character called, appropriately enough, Secret.!<
 
-> **u/dinoseen** [+6] *
+> **u/dinoseen** [+6]  (9 minutes later)
 > 
 > Technically it was there from the first time anyone went into the dungeon. As far as seeing it, we first saw it while James was waffling on whether to tell Anesh. The secrecy compulsion was what was making him waffle.
-> 
 
 ---
 

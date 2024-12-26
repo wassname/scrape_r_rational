@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/hhtq13/wip_the_new_humans_third_intermission_blair_and/
-* Score: 8
+* Score: 7
 
 * Created: 2020-06-29T05:02:11
 
@@ -20,20 +20,17 @@ This is part one of the Third Intermission: *The Mystical Journey of Howard Pend
 
 ### Comments:
 
-> **u/Avian_Overlord** [+3] *
+> **u/Avian_Overlord** [+3]  (4 minutes later)
 > 
 > A chapter in which we expand the cast. Yes. Again.
-> 
 
->> **u/Wizard-of-Woah** [+2] *
+>> **u/Wizard-of-Woah** [+2]  (8 minutes later)
 >> 
 >> We promise we'll update that cast page again. Eventually.
->> 
 
-> **u/Wizard-of-Woah** [+1] *
+> **u/Wizard-of-Woah** [+1]  (9 days later)
 > 
 > Just an update, the next chapter's draft is officially done.
-> 
 
 ---
 

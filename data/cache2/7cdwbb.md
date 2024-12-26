@@ -2,7 +2,7 @@
 
 * Author: u/EliezerYudkowsky  *Godric Gryffindor**
 * URL: https://www.webnovel.com/book/6838665402001705/23438789816941499/Forty-Millenniums-of-Cultivation/Eliminate-Li-Yao-First!
-* Score: 17
+* Score: 18
 
 * Created: 2017-11-12T06:25:55
 
@@ -12,48 +12,46 @@
 
 ### Comments:
 
-> **u/storybookknight** [+5] *
+> **u/storybookknight** [+5]  (16 hours later)
 > 
 > I dunno, the multiple hidden hoverboards in various rocks trick seemed a little bit narratively convenient to me. The odds of someone being able to predict someone else's reactions so well that they had hidden back-up chips inside of a board carrying the chip, etc etc, and the way that all of those came in handy stretched credibility. If the author had walked us through a bit of Li Yao's plans ahead of time & made us wonder 'how is he going to use all of these seemingly useless items' it would have had a better effect, I think - instead I felt like the author was making it up as he went along (not unlikely, since it's a serial, but a little disappointing.)
-> 
 
->> **u/MultipartiteMind** [+2] *
+>> **u/MultipartiteMind** [+2]  (22 hours later)
 >> 
 >> (Throwing out a tangential(?) thought; I may be abnormally genre-savvy, but it stood out to me how I immediately thought at the relevant moment [](#s "'Ahh, that's surely a device faking those unrecoverable symptoms'"), and rolled my eyes at this possibility not occurring to any of the other characters.  Then again, I could be particularly affected by having recently read through the Spirit Sword Mountain chapters, which had a similar ploy.)
->> For the 'actions-prediction', keep in mind that everything would have gone even easier for Li Yao if they hadn't predicted that far.  He could have gone straight to the final plan by dropping the chip on the ground (sort of?  See below), but had a hidden robot just in case they were okay with going after him and overlooked it, and had a decoy chip in case they only took it and didn't break it open, and had a decoy robot in case they only found it and stopped searching.  --Further come-to-think-of-it, since the true chip was found by the weight comparison, he might have done better to only have the one robot.  Or a 'hidden true chip' inside both robots, the same weight.
->> Come to think of it, there's one forced point.  His final gambit rested on being able to warn the swordspeople about the ambush (and it's notable that he could predict it so easily while the swordpeople couldn't...), but there was no reason for them not to start with (go straight to) the final chip that they correctly predicted was the real chip, in which case they would never have seen his message and he would have lost.  Especially you'd think that they would do all they could not to let any more messages of his play if avoidable, after the chaos he started with the messenger cranes!
->> Ah, I just remembered a happy moment (in contrast with the above thoughts):  I was very glad that one of the characters reacted only a bit slower than I did to the 'face unrecognisable, sent to the back' situation!  (Of course, not reacting before giving the order to go the back is still much slower, if counting in action-time rather than reading-time.)
 >> 
+>> For the 'actions-prediction', keep in mind that everything would have gone even easier for Li Yao if they hadn't predicted that far.  He could have gone straight to the final plan by dropping the chip on the ground (sort of?  See below), but had a hidden robot just in case they were okay with going after him and overlooked it, and had a decoy chip in case they only took it and didn't break it open, and had a decoy robot in case they only found it and stopped searching.  --Further come-to-think-of-it, since the true chip was found by the weight comparison, he might have done better to only have the one robot.  Or a 'hidden true chip' inside both robots, the same weight.
+>> 
+>> Come to think of it, there's one forced point.  His final gambit rested on being able to warn the swordspeople about the ambush (and it's notable that he could predict it so easily while the swordpeople couldn't...), but there was no reason for them not to start with (go straight to) the final chip that they correctly predicted was the real chip, in which case they would never have seen his message and he would have lost.  Especially you'd think that they would do all they could not to let any more messages of his play if avoidable, after the chaos he started with the messenger cranes!
+>> 
+>> Ah, I just remembered a happy moment (in contrast with the above thoughts):  I was very glad that one of the characters reacted only a bit slower than I did to the 'face unrecognisable, sent to the back' situation!  (Of course, not reacting before giving the order to go the back is still much slower, if counting in action-time rather than reading-time.)
 
->>> **u/MultipartiteMind** [+1] *
+>>> **u/MultipartiteMind** [+1]  (22 hours later)
 >>> 
 >>> Edit:  ...I think I should search at some point for a reddit forum in which translated chapters can be talked about.  It can be quite frustrating having no comment system, or a new-registration-only comment system, when facing something like The Strongest Gene and feeling a pent-up urge to tsukkomi 'He has the Luck Aura!  He's had the Luck Aura since the start of the fiction!  The Luck Aura isn't just his strongest ability, it's also practically his ONLY ability!  Every problem that comes up, he's been able to solve with the Luck Aura!  Pretty much any problem that's going to come up, he'll be able to solve by throwing the Luck Aura at it!  There is absolutely *no call* for him to stop every single time, give up on doing something, and then only gradually realise  "Wait...  a...  minute...  this can't be done without incredible 'luck'?  I can use the Luck Aura!" (again!) after several minutes!  AHHHH!'.
->>> 
 
->>>> **u/torac** [+3] *
+>>>> **u/torac** [+3]  (a day later)
 >>>> 
 >>>> Qidian has been banned from /r/noveltranslations for stealing translations. They are also boycotted by many users for other stuff. I think you’d have to go to /r/QidianUnderground to discuss the chapters.
->>>> 
 
->>>>> **u/MultipartiteMind** [+1] *
+>>>>> **u/MultipartiteMind** [+1]  (5 days later)
 >>>>> 
 >>>>> > banned
->>>>> Huh.  That does explain certain occasional puzzling things.  Thank you for the information!
 >>>>> 
+>>>>> Huh.  That does explain certain occasional puzzling things.  Thank you for the information!
 
->>>> **u/abcd_z** [+2] *
+>>>> **u/abcd_z** [+2]  (22 hours later)
 >>>> 
 >>>> I think you're looking for /r/noveltranslations, though a quick search only shows one post for The Strongest Gene.
->>>> 
 
->>>> **u/zhaomeng** [+1] *
+>>>> **u/zhaomeng** [+1]  (23 hours later)
 >>>> 
 >>>> Discounting that his unbelievable luck is probably a xianxia trope in itself, it's also somewhat reflected in future chapters (I'm reading in Chinese): [spoilers](#s "where his memories of Earth makes him some sort of a universal anomaly and events are arranging themselves to screw him over all the time")
->>>> 
 
->>>>> **u/MultipartiteMind** [+1] *
+>>>>> **u/MultipartiteMind** [+1]  (5 days later)
 >>>>> 
 >>>>> (The second part:  Ahh, yes, the [](#s "cannon-fodder compulsion to present faces for smacking, no matter the effort.  Subversion fictions have been refreshing in that respect, where the fiction's protagonist controls a cannon-fodder role to not follow the script serving the reality's protagonist.  On reflection, my enjoyment of that is roughly the same as second-chance fictions in which a flow of events is reversed.  (In both contexts, the plausibility and ingenuity of the subverted character/s strongly affects my enjoyment.)").)
+>>>>> 
 >>>>> ([](#s "Going back to the original pattern, Dungeon Defense had a rather nice self-narrative commentary on it.  ('Occasionally, I’d have the suspicion that I was speaking
 >>>>> in an alien language. Thus meaning, that I had a
 >>>>> language system that was completely different from
@@ -70,35 +68,31 @@
 >>>>> hundreds of times, but how would one explain as to why
 >>>>> not even a single person had ever respected my warning?
 >>>>> ')"))
->>>>> Edit:  I should also note that it's pleasing that the Luck Aura is something that the protagonist can deliberately exploit by turning on and off, rather than an unexplained suspension-of-disbelief-straining Midas Touch(/'golden finger') present in certain fictions.
->>>>> ((I remember a daydream I had about a protagonist following a normal path of provoking ever-more-powerful figures, getting driven to the brink of death (and involving sidekicks), then making a rebound and defeating the powerful figure before going straight on to provoke the next too-powerful-to-handle figure...  in any case, a sidekick getting so exasperated with a protagonist doing this over and over again  like an adrenaline addict that, upon reaching a new town, the sidekick gets the protagonist to promise to *keep his head down this time* and not provoke any powerful people's sons, then afterward by himself goes to the town's nearby Ravine Of Death, rock-climbs down the side, harvests its various life-saving magical plants and collects its secret power-boosting legacy, then right upon climbinb to the top of the cliff sees the protagonist running to the cliff-edge with a big smile, chased by a furious bearded old man, and the sidekick lets out a sigh (and keeps walking away from the cliff) as the protagonist is sent hurtling into the abyss by an explosion and sees the sidekick while passing, the smile turning into a look of surprise...  \*fond remembering of said daydream\*))
 >>>>> 
+>>>>> Edit:  I should also note that it's pleasing that the Luck Aura is something that the protagonist can deliberately exploit by turning on and off, rather than an unexplained suspension-of-disbelief-straining Midas Touch(/'golden finger') present in certain fictions.
+>>>>> 
+>>>>> ((I remember a daydream I had about a protagonist following a normal path of provoking ever-more-powerful figures, getting driven to the brink of death (and involving sidekicks), then making a rebound and defeating the powerful figure before going straight on to provoke the next too-powerful-to-handle figure...  in any case, a sidekick getting so exasperated with a protagonist doing this over and over again  like an adrenaline addict that, upon reaching a new town, the sidekick gets the protagonist to promise to *keep his head down this time* and not provoke any powerful people's sons, then afterward by himself goes to the town's nearby Ravine Of Death, rock-climbs down the side, harvests its various life-saving magical plants and collects its secret power-boosting legacy, then right upon climbinb to the top of the cliff sees the protagonist running to the cliff-edge with a big smile, chased by a furious bearded old man, and the sidekick lets out a sigh (and keeps walking away from the cliff) as the protagonist is sent hurtling into the abyss by an explosion and sees the sidekick while passing, the smile turning into a look of surprise...  \*fond remembering of said daydream\*))
 
-> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor* (2 minutes later)
 > 
 > FMC 196-203 is pretty much straight-up the xianxia version of HPMOR's underwater Christmas battle between the three armies.  There's a surprising and amusing degree of parallel evolution between the two mini-stories (since we were solving similar authorial problems, I expect).
-> 
 
->> **u/kozinc** [+11] *
+>> **u/kozinc** [+9]  (3 hours later)
 >> 
 >> I feel like it's hardly similar. HPMOR's got three armies with betrayals and chaos galore, FMC has two armies and a crazy guy who plays them against each other. While they have similarities, they're still very different. Especially since you know Li Yao is very likely to win, since it's still the xianxia genre, while you never knew what was going to happen in HPMOR
->> 
 
->>> **u/abcd_z** [+5] *
+>>> **u/abcd_z** [+6]  (20 hours later)
 >>> 
 >>> "You give me no face!"  
 >>> -Eliezer Yudkowsky
->>> 
 
->> **u/ZedOud** [+3] *
+>> **u/ZedOud** [+3]  (14 hours later)
 >> 
 >> I had gotten a similar vibe from those chapters. Especially in those aspects where plots relied on plots there was a similar tempo. But then, the battle in HPMOR had a more amazing/stupendous escalation, whereas 40K's reveals had a moderately upbeat march leading through the MC's plans.
->> 
 
->> **u/LesserWrong** [+1] *
+>> **u/LesserWrong** [+1]  (a day later)
 >> 
 >> Definitely. I really loved the meta-game aspects going on. Two teams need to week together to beat a third, but their knowledge and danger assessment of the third is difficult and constantly changing. That's especially hard to deal with when you need the best information possible, keep information usefully over sided, and activate your betrayal at the right moment.
->> 
 
 ---
 

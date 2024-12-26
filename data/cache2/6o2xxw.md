@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/6o2xxw/immerseordie_anthology_a_smart_way_of_testing_how/
-* Score: 27
+* Score: 26
 
 * Created: 2017-07-18T19:04:05
 
@@ -22,21 +22,19 @@ Don't forget to check out the [website](http://creativityhacker.ca/immerse-or-di
 
 ### Comments:
 
-> **u/JeffersonSmithAuthor** [+6] *
+> **u/JeffersonSmithAuthor** [+6]  (18 hours later)
 > 
 > Hey, I'm glad you find ImmerseOrDie to be rational. I'm the guy that started it, and rationality is kinda the reason I did. I figured there had to be a more reliable/repeatable way to get a quick take on which indie fiction was ready for prime time and which ones weren't.
-> Along those same lines, you might also like [PageFight!](http://page-fight.com) which is another project I started, aimed at helping authors figure out which title, tagline, blurb, and cover ideas will work in the market. It does this by pitting them against each other in a reader-driven game environment where different book elements go head-to-head and players have to choose which one they would be more likely to investigate. It turns out to be lots of fun. Readers get a cool discovery tool and authors get valuable A/B testing *before* they launch their books, rather than having to wait for sales data *after* launch.
 > 
+> Along those same lines, you might also like [PageFight!](http://page-fight.com) which is another project I started, aimed at helping authors figure out which title, tagline, blurb, and cover ideas will work in the market. It does this by pitting them against each other in a reader-driven game environment where different book elements go head-to-head and players have to choose which one they would be more likely to investigate. It turns out to be lots of fun. Readers get a cool discovery tool and authors get valuable A/B testing *before* they launch their books, rather than having to wait for sales data *after* launch.
 
-> **u/RMcD94** [+5] *
+> **u/RMcD94** [+5]  (23 hours later)
 > 
 > I'm not sure how this is particularly more rational than just you know, reading a book and stopping if you don't enjoy it.
-> 
 
-> **u/trekie140** [+1] *
+> **u/trekie140** [+1]  (19 hours later)
 > 
 > Well both of the books are free on kindle, so I will definitely be checking them out.
-> 
 
 ---
 

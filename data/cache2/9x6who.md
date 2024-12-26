@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/9x6who/biweekly_challenge_tragedy_of_the_commons/
-* Score: 14
+* Score: 17
 
 * Created: 2018-11-15T02:28:37
 
@@ -50,32 +50,29 @@ Next time, the challenge will be **Punishment**. There are a lot of different wa
 
 ### Comments:
 
-> **u/tjhance** [+17] *
+> **u/tjhance** [+19]  (59 minutes later)
 > 
 > [Prophecy of Responsibility](https://docs.google.com/document/d/1Cupcj-_Apg019TaBqyrSwRuOC2H_yad8t0SRpEJVB0I/edit?usp=sharing) (781 words)
-> 
 
->> **u/tjhance** [+2] *
+>> **u/tjhance** [+4]  (an hour later)
 >> 
 >> Wrote this a while ago as a first chapter - didn't know where to go with it as a full story, though. Seems to fit this prompt, so I figured I'd submit it.
->> 
 
->> **u/xartab** [+3] *
+>> **u/xartab** [+3]  (10 hours later)
 >> 
 >> This is pretty brilliant. It's a pity nothing will grow out of it.
->> 
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (7 days later)
 >> 
 >> This sounds like the beginning of a *Practical Guide To Evil* spinoff.
->> 
 
->> **u/xXalanturingXx** [+1] *
+>> **u/xXalanturingXx** [+1]  (10 days later)
 >> 
 >> >I don’t have a game plan for how two people are going to defeat an empire
->> If they can find four more people and a blue box, I think they have a pretty good chance.
->> I liked your story.
 >> 
+>> If they can find four more people and a blue box, I think they have a pretty good chance.
+>> 
+>> I liked your story.
 
 ---
 

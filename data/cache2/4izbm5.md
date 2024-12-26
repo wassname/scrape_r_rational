@@ -2,7 +2,7 @@
 
 * Author: u/jiaxingseng *
 * URL: https://www.reddit.com/r/rational/comments/4izbm5/developing_an_rpg_called_rational_magic_hoping/
-* Score: 8
+* Score: 7
 
 * Created: 2016-05-12T06:07:13
 
@@ -45,37 +45,33 @@ I would describe it as a blend of the following:
 
 ### Comments:
 
-> **u/MrCogmor** [+2] *
+> **u/MrCogmor** [+2]  (4 hours later)
 > 
 > I'm significantly reminded of the webcomic Blind Springs which has a similar conflict between spiritual and logical magics.
-> 
 
->> **u/jiaxingseng** [+2] *
+>> **u/jiaxingseng** [+2]  (4 hours later)
 >> 
 >> Thank you for the recommendation.  Reading that now.  But I don't think my game setting has conflict between spiritual and logical magic.  There is conflict between those who have been left behind or persecuted by users of logical magic, who believe that all magic is logical, or at least can be rationalized and possibly commodified.
->> 
 
->>> **u/kithpendragon** [+1]  *Chaos Legion**
+>>> **u/kithpendragon** [+1]  *Chaos Legion* (2 days later)
 >>> 
 >>> Where *is* the conflict then? I like the setting; reminds me of a few JRPGs I've played over the years. Do you have some ideas for the plot as well?
->>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > Be sure to include a big secret thats always there but serveral poeple can miss like the witness
-> 
 
->> **u/jiaxingseng** [+1] *
+>> **u/jiaxingseng** [+1]  (a day later)
 >> 
 >> Wat?
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Its a game that I feel this sub would be all over.
->>> http://store.steampowered.com/app/210970/
->>> Basically there is secret that is *always* staring you in the face but is so unintuitive plenty of people never see it.
 >>> 
+>>> http://store.steampowered.com/app/210970/
+>>> 
+>>> Basically there is secret that is *always* staring you in the face but is so unintuitive plenty of people never see it.
 
 ---
 

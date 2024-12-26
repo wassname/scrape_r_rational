@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/35mjwy/geb_discussion_15_chapter_14_on_formally/
-* Score: 10
+* Score: 9
 
 * Created: 2015-05-11T19:01:28
 
@@ -116,29 +116,27 @@ The discussion for the next chapter is posted [here](http://www.reddit.com/r/rat
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (4 hours later)
 > 
 > I have not the slightest fucking idea why the post got removed, but it did.  Very sorry.
-> 
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (9 hours later)
 >> 
 >> Thank you very for your help! Here, have an imaginary virtual Internet cookie.
->> 
 
-> **u/avret** [+2]  *SDHS rationalist**
+> **u/avret** [+2]  *SDHS rationalist* (9 minutes later)
 > 
 > This comment is meant to test whether adding comments to this post will return it to the front page.  It contains no information relevant to GEB.
-> 
 
-> **u/markus1189** [+2] *
+> **u/markus1189** [+2]  (21 hours later)
 > 
 > Glad you're back ;)
-> I found the chapter rather difficult to read and it took me several tries until I think I got most of it.  Nevertheless the supernatural numbers were very interesting.
-> The dialogue also was rather strange for me, maybe I'll need to read it again...
 > 
+> I found the chapter rather difficult to read and it took me several tries until I think I got most of it.  Nevertheless the supernatural numbers were very interesting.
+> 
+> The dialogue also was rather strange for me, maybe I'll need to read it again...
 
-> **u/rio2639** [+1] *
+> **u/rio2639** [+1]  (8 years later)
 > 
 > Mu is not a theorem for MIU system  and G is not a theorem  in the TNT  system.
 > Both are unprovable
@@ -146,9 +144,10 @@ The discussion for the next chapter is posted [here](http://www.reddit.com/r/rat
 > Zen Koan on Joshsu's   Dog 
 > Answer must be and is MU.
 > Mumon rules this for thought.  
-> The reference and the presentation  by Hofstadter in his ability to take you on a ride thru these chapters  is as genius as Escher's Art and Bach's Music.
-> I will go on his intellectual journey again and again and each time I will become the Sail that Rides the Waves.
 > 
+> The reference and the presentation  by Hofstadter in his ability to take you on a ride thru these chapters  is as genius as Escher's Art and Bach's Music.
+> 
+> I will go on his intellectual journey again and again and each time I will become the Sail that Rides the Waves.
 
 ---
 

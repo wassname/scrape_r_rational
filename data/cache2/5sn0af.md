@@ -2,7 +2,7 @@
 
 * Author: u/RationalityRules *
 * URL: https://www.reddit.com/r/rational/comments/5sn0af/where_can_i_find_a_compendium_of_information/
-* Score: 18
+* Score: 20
 
 * Created: 2017-02-07T18:12:18
 
@@ -12,56 +12,56 @@
 
 ### Comments:
 
-> **u/voidlessru** [+8] *
+> **u/voidlessru** [+8]  (an hour later)
 > 
 > http://rebuildingcivilization.com
-> 
 
-> **u/thrawnca** [+5]  *Carbon-based biped**
+> **u/thrawnca** [+3]  *Carbon-based biped* (48 minutes later)
 > 
 > I don't know that a complete compendium is feasible. There will always be a finite amount that you can uplift; there's too much in the 20th century alone to put in one book.
-> Moreover, it would be arrogant for us to assume that the technological development of Western society followed the ideal path. Perhaps we would have been better off developing solar power earlier, and nuclear power later.
-> *And*, if you've read A Hero's War, then you're aware that attempting to recreate Earth technology too closely in a different world can miss opportunities. Who needs steam power when you have mana?
-> So, I would instead recommend focusing on cultural shift. Bring enough low-hanging fruit to draw some attention, but what you really want is to encourage the locals to innovate, to experiment. Your biggest enemy may, in fact, be a feudal attitude of building monopolies on everything - which, before the printing press, included knowledge.
 > 
+> Moreover, it would be arrogant for us to assume that the technological development of Western society followed the ideal path. Perhaps we would have been better off developing solar power earlier, and nuclear power later.
+> 
+> *And*, if you've read A Hero's War, then you're aware that attempting to recreate Earth technology too closely in a different world can miss opportunities. Who needs steam power when you have mana?
+> 
+> So, I would instead recommend focusing on cultural shift. Bring enough low-hanging fruit to draw some attention, but what you really want is to encourage the locals to innovate, to experiment. Your biggest enemy may, in fact, be a feudal attitude of building monopolies on everything - which, before the printing press, included knowledge.
 
->> **u/Gurkenglas** [+4] *
+>> **u/Gurkenglas** [+4]  (an hour later)
 >> 
 >> > nuclear power later
->> Let's turn this into a debate on nuclear power!
 >> 
+>> Let's turn this into a debate on nuclear power!
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (3 hours later)
 >> 
 >> Monopolies can be useful. If you can make a giant university that every scholar in the world travels to then if you can simplify how much progress you need to make to only that local area. 
->> Then your alumni can be your missionaries and do the heavy lifting
 >> 
+>> Then your alumni can be your missionaries and do the heavy lifting
 
->>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>> **u/thrawnca** [+2]  *Carbon-based biped* (3 hours later)
 >>> 
 >>> Ah. It sounds like you're proposing a monopoly as a low-tech substitute for global communication?
->>> But if you would allow anyone to come and learn, then go apply that learning as they wish, then it's not really a monopoly. True monopolies, with strict entry conditions, harsh nondisclosure agreements, and strong commercial backing, would exist and would oppose you.
 >>> 
+>>> But if you would allow anyone to come and learn, then go apply that learning as they wish, then it's not really a monopoly. True monopolies, with strict entry conditions, harsh nondisclosure agreements, and strong commercial backing, would exist and would oppose you.
 
->>>> **u/RMcD94** [+1] *
+>>>> **u/RMcD94** [+1]  (13 hours later)
 >>>> 
 >>>> Well I'm not sure it isn't a monopoly since you are attempting to replace app other education with your brand
->>>> 
 
->>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>> **u/thrawnca** [+1]  *Carbon-based biped* (17 hours later)
 >>>>> 
 >>>>> Regardless. You'll have powerful enemies.
->>>>> 
 
->>>>>> **u/RMcD94** [+1] *
+>>>>>> **u/RMcD94** [+1]  (17 hours later)
 >>>>>> 
 >>>>>> Yeah but you have a massive advantage so you should be able to amass enough wealth that no one can oppose you
->>>>>> 
 
-> **u/LeifCarrotson** [+5] *
+> **u/LeifCarrotson** [+5]  (5 hours later)
 > 
 > Mark Twain's [A Connecticut Yankee in King Arthur's Court](http://www.gutenberg.org/ebooks/86), which might be considered the genre defining work, would actually be a decent reference. It's not information packed, but it outlines a process that would be achievable by a 19th-century engineer, in a way that your modern McMaster-Carr dependent engineer couldn't.
+> 
 > But I am a little confused as to what exactly you're asking. Essentially, there are a couple steps of social, technical, and practical problems:
+> 
 > 1. Reform society so that scientific thought is culturally normative, entrepreneurial endeavor is encouraged, and education is common.
 > 2. Promulgate the principal ideas behind the Agricultural, Industrial, and Technological revolutions:.  
 >   A. Use tools like crop rotation, the  iron moldboard plow, and selective breeding etc. so a smaller fraction of the population needs to be farmers.  
@@ -69,61 +69,57 @@
 >   C. Distribute and collate information using, variously, the printing press, telegraph, and computer (I may have skipped a step in there) to speed the process by which the system improves itself.
 > 3. Implement each step in the process, ideally avoiding the various mis-steps and dead ends we actually encountered on the way. An encyclopedia would be really helpful here, but the entire Library of Congress would be insufficient to uplift the society because of all the other requirements. This will take a long time - you might know the required components to build a CPU, but they might depend on a complicated and energy intensive extraction a mineral found primarily in Mongolia.  When you start, you'll have a few surface pit mines and low quality tools. A lot of the industrial revolution was just tediously repeating the process of using the tools you have to build slightly better tools, which takes a long time. To go from a feudal, Greco-roman, or agrarian society to a modern one is probably beyond a single lifetime. 1800s might be achievable if you start very young.
 > 4. Scale out! It's one thing to have the knowledge, resources, and skill to make (for example) a single printing press, but another to distribute millions of newspapers in every city every morning. 
-> Another resource you might be interested in, with slightly more realistic goals, would be [Build Your Own Metal Working Shop From Scrap](https://www.amazon.com/dp/1878087355/ref=cm_sw_r_cp_apa_IxLMybWX88KVA) which takes you from raw scrap metal  (or, if you felt compelled to do so, from a charcoal furnace, though after proving to yourself that you can make iron from ore, steel from iron, and bars or wire from ingots, it's more effective to just go down to the local scrapyard and buy it by the ton) to a modern machine shop, complete with lathe and mill. I don't have it, but as another reader of this genre, that book is definitely on my wish list!
 > 
+> Another resource you might be interested in, with slightly more realistic goals, would be [Build Your Own Metal Working Shop From Scrap](https://www.amazon.com/dp/1878087355/ref=cm_sw_r_cp_apa_IxLMybWX88KVA) which takes you from raw scrap metal  (or, if you felt compelled to do so, from a charcoal furnace, though after proving to yourself that you can make iron from ore, steel from iron, and bars or wire from ingots, it's more effective to just go down to the local scrapyard and buy it by the ton) to a modern machine shop, complete with lathe and mill. I don't have it, but as another reader of this genre, that book is definitely on my wish list!
 
-> **u/None** [+4] *
+> **u/None** [+5]  (3 minutes later)
 > 
 > [removed]
-> 
 
->> **u/SvalbardCaretaker** [+6]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+6]  *Mouse Army* (an hour later)
 >> 
 >> There are some textbooks (chemical, engineering) that do a really fucking decent job of cramming EVERYTHING into 2kg of paper. 
->> Of course thats hypercondensed and not some "kickstart civilisation" manual. 
->> unfortunately my books are in german, but for engineering: https://de.wikipedia.org/wiki/Taschenbuch_f%C3%BCr_den_Maschinenbau or Dubbel , Chemistry: Riedel, https://www.amazon.de/Inorganic-chemistry-B%C3%BCcher-Erwin-Riedel/s?ie=UTF8&page=1&rh=n%3A186606%2Ck%3AInorganic%20chemistry%2Cp_lbr_books_authors_browse-bin%3AErwin%20Riedel
 >> 
+>> Of course thats hypercondensed and not some "kickstart civilisation" manual. 
+>> 
+>> unfortunately my books are in german, but for engineering: https://de.wikipedia.org/wiki/Taschenbuch_f%C3%BCr_den_Maschinenbau or Dubbel , Chemistry: Riedel, https://www.amazon.de/Inorganic-chemistry-B%C3%BCcher-Erwin-Riedel/s?ie=UTF8&page=1&rh=n%3A186606%2Ck%3AInorganic%20chemistry%2Cp_lbr_books_authors_browse-bin%3AErwin%20Riedel
 
-> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist**
+> **u/Sagebrysh** [+2]  *Rank 7 Pragmatist* (5 hours later)
 > 
 > I mean, I'm pretty sure all of wikipedia can fit onto a phone's hard drive, so it really comes down to personal knowledge and ability to extrapolate practical information from more abstract sources like encyclopedias. 
-> Going from First Principles is different from going the 'screw this I'm going to build guns' route. Teaching people incrementally so they understand *why* something works the way it does, will eventually result in a faster-developing society, but I'd think it would take longer to bootstrap.
 > 
+> Going from First Principles is different from going the 'screw this I'm going to build guns' route. Teaching people incrementally so they understand *why* something works the way it does, will eventually result in a faster-developing society, but I'd think it would take longer to bootstrap.
 
-> **u/andor3333** [+2] *
+> **u/andor3333** [+2]  (5 hours later)
 > 
 > The patent database isn't a bad place to start. I'd immediately grab a copy of that if I was going through a time portal. It isn't enough to rebuild things instantly in a lot of cases, since lots of patents are more of a general overview than a direct set of instructions, but at least you get a description of a huge number of different technologies and some references to how things were done before and to other related patents in the field, ordered by the date they were filed. You just can't beat the patent database on sheer volume of documented technologies in all sorts of fields. Of course some fields will be easier to recover this way than others, and sheer volume of information can also be a downside if you aren't able to sort it efficiently.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (44 minutes later)
 > 
 > I made a github project for that sort of thing, but never got around to filling it.
-> 
 
-> **u/CellWithoutCulture** [+1] *
+> **u/CellWithoutCulture** [+1]  (7 hours later)
 > 
 > A few ideas:
+> 
 > - CD3WD was a project to "assisting in third world development" which kind-of aims uplift the third world. Not the same as uplifting a medieval society but could be useful. I'm not sure where to get it these days.
 > - "preppers" hoard books on how to do things when civilisation collapses, some also include things like the ciriculum and textbooks for each school grade in order to rebuild. Example are [pole-shift](http://www.ps-survival.com/PS/index.htm) and [survivors library](http://www.survivorlibrary.com/)
 > - "Great Science Textbooks" (search on pirate bay) and others provide an electronic library. 
 > - Also "CBSE - NCERT Indian School Textbooks" textbooks, which are school textboks used in India (in English). These provide the basics of an education system (search piratebay)
-> 
 
-> **u/Gavinfoxx** [+1] *
+> **u/Gavinfoxx** [+1]  (8 hours later)
 > 
 > The Grantville Gazette.  Or at least the parts that discuss the nitty-gritty of the how's of the industrial revolution and designs.
-> https://grantvillegazette.com/wp/archives/
 > 
+> https://grantvillegazette.com/wp/archives/
 
-> **u/squidbait** [+1] *
+> **u/squidbait** [+1]  (9 hours later)
 > 
 > They sell a poster to put up in your time machine for that  http://gizmodo.com/5207549/time-travel-cheat-sheet
-> 
 
-> **u/serendipitybot** [+1] *
+> **u/serendipitybot** [+1]  (12 hours later)
 > 
 > This submission has been randomly featured in /r/serendipity, a bot-driven subreddit discovery engine. More here: https://www.reddit.com/r/Serendipity/comments/5sr8m2/where_can_i_find_a_compendium_of_information/
-> 
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/MaddoScientisto** [+2] *
+> **u/MaddoScientisto** [+2]  (6 hours later)
 > 
 > What happened to the chapter? Link leads to a 403 error
-> 
 
 ---
 

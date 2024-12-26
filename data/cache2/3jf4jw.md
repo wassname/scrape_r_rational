@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/3jf4jw/weekly_challenge_dinosaurs/
-* Score: 16
+* Score: 17
 
 * Created: 2015-09-02T23:01:07
 
@@ -50,41 +50,41 @@ Next week's challenge is "Defied Prophecy". You know what? [Screw destiny!](http
 
 ### Comments:
 
-> **u/None** [+7] *
+> **u/None** [+7]  (a day later)
 > 
 > [deleted]
-> 
 
->> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> **u/traverseda** [+3]  *With dread but cautious optimism* (5 days later)
 >> 
 >> Hand wavy magic technology. :(
->> 
 
-> **u/Kishoto** [+2] *
+> **u/Kishoto** [+2]  (23 hours later)
 > 
 > I know this isn't standard faire but....can i request a re-roll of this week's challenge? Asking an honest question, as it seems there's little to no interest on this prompt. 
-> P.S Feel free to delete this comment after you've read it, mod-sama.
 > 
+> P.S Feel free to delete this comment after you've read it, mod-sama.
 
->> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 >> 
 >> From /u/Kishoto:
->> > I know this isn't standard faire but....can i request a re-roll of this week's challenge? Asking an honest question, as it seems there's little to no interest on this prompt.
->> >P.S Feel free to delete this comment after you've read it, mod-sama.
->> Eh, if there's no interest, we might just go a week without a winner. I don't want to reroll now when someone might be working on something. (I do have a theory that the small incentives provided by winning might spur someone to write *something* in order to claim the prize, but we'll see.) This one *was* taken from the prompt list.
->> I'll nuke these comments if/when there's an entrant.
->> Edit: Comment nuked.
 >> 
+>> > I know this isn't standard faire but....can i request a re-roll of this week's challenge? Asking an honest question, as it seems there's little to no interest on this prompt.
+>> 
+>> >P.S Feel free to delete this comment after you've read it, mod-sama.
+>> 
+>> Eh, if there's no interest, we might just go a week without a winner. I don't want to reroll now when someone might be working on something. (I do have a theory that the small incentives provided by winning might spur someone to write *something* in order to claim the prize, but we'll see.) This one *was* taken from the prompt list.
+>> 
+>> I'll nuke these comments if/when there's an entrant.
+>> 
+>> Edit: Comment nuked.
 
->>> **u/RMcD94** [+0] *
+>>> **u/RMcD94** [+0]  (14 days later)
 >>> 
 >>> If there had been no entrant wouldn't by the rules the nuked post have won? Or would he have had to copy paste to hit the 300 words
->>> 
 
->>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (14 days later)
 >>>> 
 >>>> I would have declared "no winner". The contest isn't automated, and I don't have a problem disqualifying people for common sense reasons.
->>>> 
 
 ---
 

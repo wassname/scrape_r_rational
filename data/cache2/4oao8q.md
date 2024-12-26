@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/4oao8q/challenge_companion_space_battles/
-* Score: 17
+* Score: 19
 
 * Created: 2016-06-16T00:39:19
 
@@ -20,72 +20,67 @@ I have no strong recommendations for this theme, primarily because my favorite s
 
 ### Comments:
 
-> **u/The_Southstrider** [+3] *
+> **u/The_Southstrider** [+3]  (3 hours later)
 > 
 > But is stealth really all that impractical? A vehicle with black or minimally reflective plating and a narrow frame from a few thousand kilometers away would be hard to see against the background of space. Used in conjunction with radio jamming, the ship would be nearly invisible, except for heat emissions.
-> 
 
->> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>> **u/alexanderwales** [+8]  *Time flies like an arrow* (4 hours later)
 >> 
 >> Stealth in space is one of those big, endless debates that's taken place on online forums since the beginning of the internet. Heat is one of the big things you need to worry about in space, because vacuum is an insulator, so IR sensors seem like they'd be one of the dominant methods of finding other ships. If you're in deep space, you're trying to hide a heat signature against a background temperature of ~3 degrees Kelvin.
->> It's doable *if* you know what direction the enemy sensors are in, if you go passive sensors only, and you have a heatsink of some kind, but it's still unworkable if you're also trying to use thrust, because spaceship engines are hot. It's exceedingly rare that scifi authors actually go through the work to get a ship properly stealthy, but I will concede that you might contrive some circumstance where it's useful and practical to go through all the effort to be stealthy.
->> This goes out the window if you're bringing in some softer science fiction, and there's still room for subterfuge, but stealth in space is really frickin' hard.
->> Edit: [Here's a rather comprehensive takedown of stealth in space.](http://www.projectrho.com/public_html/rocket/spacewardetect.php)
 >> 
+>> It's doable *if* you know what direction the enemy sensors are in, if you go passive sensors only, and you have a heatsink of some kind, but it's still unworkable if you're also trying to use thrust, because spaceship engines are hot. It's exceedingly rare that scifi authors actually go through the work to get a ship properly stealthy, but I will concede that you might contrive some circumstance where it's useful and practical to go through all the effort to be stealthy.
+>> 
+>> This goes out the window if you're bringing in some softer science fiction, and there's still room for subterfuge, but stealth in space is really frickin' hard.
+>> 
+>> Edit: [Here's a rather comprehensive takedown of stealth in space.](http://www.projectrho.com/public_html/rocket/spacewardetect.php)
 
->>> **u/gabbalis** [+4] *
+>>> **u/gabbalis** [+4]  (14 hours later)
 >>> 
 >>> Of course, you might not be using classical thrust. Maybe your story is set in a DnD verse utilizing portable hole based inertial thrusters.
->>> 
 
->>> **u/The_Southstrider** [+1] *
+>>> **u/The_Southstrider** [+1]  (13 hours later)
 >>> 
 >>> Acknowledged. The active and passive detection system was actually really interesting. Never thought of it that way.
->>> 
 
->>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+1]  *Father of Learning* (18 hours later)
 >>> 
 >>> I always like the Culture and Polity versions of stealth in space, use some kind of virus or anti-sensor munitions package to screw with their sensors.  It would be incredibly easy to detect them, if you had anything to detect them with.
->>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 hours later)
 > 
 > [NuBSG: The Scattering](https://forums.spacebattles.com/threads/nubsg-the-scattering.326749/) is my new default canon for nBSG stories, one that doesn't have the Colonials acting like total morons by crashing their ships into our star.
-> It's the story that should be written if it weren't for the director's desire to keep it all edgy and grim all the way to the end.
 > 
+> It's the story that should be written if it weren't for the director's desire to keep it all edgy and grim all the way to the end.
 
-> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (a day later)
 > 
 > Armor is pointless since every shot will just punch straight through it. But on the other hand, you can't be hit if your movements are at all random, since bullets and missiles are painfully slow in space.
-> I know, this is part of the debate that consumes websites. I just wanted to remind you all that random-walking can be a reasonable tactic. (If you can spare the reaction mass, anyway.)
 > 
+> I know, this is part of the debate that consumes websites. I just wanted to remind you all that random-walking can be a reasonable tactic. (If you can spare the reaction mass, anyway.)
 
->> **u/CoolGuy54** [+1] *
+>> **u/CoolGuy54** [+1]  (11 days later)
 >> 
 >> Of course, if you know your foe knows this, a cloud of tiny ball bearings flung in their general direction would be pretty effective.
->> 
 
-> **u/russxbox** [+1] *
+> **u/russxbox** [+1]  (4 hours later)
 > 
 > Jack Campbell's Lost Fleet series really gets me going on this subject. Not necessarily rational, but a lot of thought put into the physics constraints of space warships (at least, the ones he decided to leave in. TWO kinds of FTL travel?). 
-> Plenty of descriptions of jumping into a system and almost instantly gaining a picture of the intrasystem traffic- as it was minutes or hours ago, based on how far away you started, along with a countdown of how long it'll be before they know you're there. Relativistic problems with even computer-generated firing solutions abound, along with my absolute favorite kind of space warfare: chucking a fuck-off big rock at an orbit-locked target that can't dodge, like a planetary command center.
 > 
+> Plenty of descriptions of jumping into a system and almost instantly gaining a picture of the intrasystem traffic- as it was minutes or hours ago, based on how far away you started, along with a countdown of how long it'll be before they know you're there. Relativistic problems with even computer-generated firing solutions abound, along with my absolute favorite kind of space warfare: chucking a fuck-off big rock at an orbit-locked target that can't dodge, like a planetary command center.
 
-> **u/FormerlySarsaparilla** [+1] *
+> **u/FormerlySarsaparilla** [+1]  (18 hours later)
 > 
 > I've read a couple of sci-fi novels where lasers are used as heat pumps to effectively eliminate waste heat without vastly increasing IR signature- is there a practical reason why that wouldn't work? I've never really looked into the physics of it.
-> 
 
->> **u/Kuratius** [+2] *
+>> **u/Kuratius** [+2]  (18 hours later)
 >> 
 >> Why would you  think that a laser can work as a heat pump  in the first place?
->> 
 
->>> **u/FormerlySarsaparilla** [+1] *
+>>> **u/FormerlySarsaparilla** [+1]  (19 hours later)
 >>> 
 >>> https://forum.nasaspaceflight.com/index.php?topic=22649.0
->>> David Brin's novel was the one to suggest it (excerpt in that thread). Some preliminary research doesn't really seem to turn up anything physically impossible about the concept, just impractical.
 >>> 
+>>> David Brin's novel was the one to suggest it (excerpt in that thread). Some preliminary research doesn't really seem to turn up anything physically impossible about the concept, just impractical.
 
 ---
 

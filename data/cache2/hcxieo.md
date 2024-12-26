@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/ApparitionsStalkNite** [+2] *
+> **u/ApparitionsStalkNite** [+2]  (6 days later)
 > 
 > This was way better then i was expecting, i think this is my favorite currently updating story! I love the psychological aspects.
-> 
 
-> **u/PM_ME_CUTE_FOXES** [+2] *
+> **u/PM_ME_CUTE_FOXES** [+4]  (23 seconds later)
 > 
 > Ravelling Wrath is about a couple of teenagers who participate in a divine ritual transpiring in another world. The rules of the magic are interesting and consistent, but of particular note is that >!they know that their minds are going to be compromised -- each becoming wound up with a fraction of a deity -- and the best they have available to maintain their agency is mundane mental skills.!<
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Absox  *Iserlohn Fortress**
 * URL: https://www.reddit.com/r/rational/comments/8akku2/on_legend_of_the_galactic_heroes_romance_of_the/
-* Score: 63
+* Score: 65
 
 * Created: 2018-04-07T19:51:53
 
@@ -25,70 +25,80 @@ Ultimately, I would encourage people to give LOGH a watch (the original more so 
 
 ### Comments:
 
-> **u/Nighzmarquls** [+13] *
+> **u/Nighzmarquls** [+9]  (3 hours later)
 > 
 > It's hard to create genuinely hard choices in fiction as an author. You have to set restrictions on yourself and the flow of fate.
-> You have to also keep the balance of consequence and growth.
-> It is not easy to do this in general, it is even more difficult to do this in a situation that you are also trying to run everything rational and have the reader be able to make a decision one way or another on it.
-> To make the fiction work in that regard you need to build reader empathy with the characters. And characterization is not always very strong in rationalist fiction.
-> Barring empathy with the characters making the choices you have to show people what happens because of those choices.
-> And it will not necessarily be easy to show people what the other choices the reader might have taken will have as consequences unless you also show some one making that choice.
-> And that will increase length, require more tuning to keep the pacing of the story working and so on.
-> There is a degree of there are many difficult tasks you are going to end up taking on as a author, Rationalist fiction is one, but that is only one small part of a larger whole of all the other things needed to pull off what you describe.
 > 
+> You have to also keep the balance of consequence and growth.
+> 
+> It is not easy to do this in general, it is even more difficult to do this in a situation that you are also trying to run everything rational and have the reader be able to make a decision one way or another on it.
+> 
+> To make the fiction work in that regard you need to build reader empathy with the characters. And characterization is not always very strong in rationalist fiction.
+> 
+> Barring empathy with the characters making the choices you have to show people what happens because of those choices.
+> 
+> And it will not necessarily be easy to show people what the other choices the reader might have taken will have as consequences unless you also show some one making that choice.
+> 
+> And that will increase length, require more tuning to keep the pacing of the story working and so on.
+> 
+> There is a degree of there are many difficult tasks you are going to end up taking on as a author, Rationalist fiction is one, but that is only one small part of a larger whole of all the other things needed to pull off what you describe.
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (19 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/Nighzmarquls** [+3] *
+>>> **u/Nighzmarquls** [+3]  (23 hours later)
 >>> 
 >>> I agree it is possible and it does occur. I'm just saying it increases difficulty in a none linear way.
 >>> Handling those situations is really the tricky/skilled storyteller skill on its own. Then if you want to have the audience not just decide the character is an idiot you need buy in/empathy from the audience.
->>> Then for rationalist fiction (to meet the full criteria) on top of that you need to run not just the 'sim' of is this person operating with the full extent of their ability and knowledge to accomplish their goals or even pick their goals.
->>> Then to make this not mess up the previous elements you have to then take time for the audience to follow along and ingest the information in a well paced manner.
->>> It is easier at this point to just cut some corner somewhere.
->>> In my own writing I tend to cut on clarity for the maximum audience members. I aim for the emotion and pacing in favor of keeping the audience up to date on ALL information that the characters making decisions in the story are using.
->>> But I'm also writing a pretty heavily 'foreign' xenofiction story that is trying to take in some of the themes you are talking about.
->>> To use your example of an untrustworthy character.
->>> At the whole believable/rationality failing look at grima wormtongue in Two Towers.
->>> Operationally this is the scenario you describe about trustworthiness but I'm pretty sure we would both agree the execution leaves both 'hard decision' and 'rationality' lacking in its execution.
->>> When your trying to juggle a lot of spinning plates human authors will tend to focus on somethings in absence of others.
 >>> 
+>>> Then for rationalist fiction (to meet the full criteria) on top of that you need to run not just the 'sim' of is this person operating with the full extent of their ability and knowledge to accomplish their goals or even pick their goals.
+>>> 
+>>> Then to make this not mess up the previous elements you have to then take time for the audience to follow along and ingest the information in a well paced manner.
+>>> 
+>>> It is easier at this point to just cut some corner somewhere.
+>>> 
+>>> In my own writing I tend to cut on clarity for the maximum audience members. I aim for the emotion and pacing in favor of keeping the audience up to date on ALL information that the characters making decisions in the story are using.
+>>> 
+>>> But I'm also writing a pretty heavily 'foreign' xenofiction story that is trying to take in some of the themes you are talking about.
+>>> 
+>>> To use your example of an untrustworthy character.
+>>> 
+>>> At the whole believable/rationality failing look at grima wormtongue in Two Towers.
+>>> 
+>>> Operationally this is the scenario you describe about trustworthiness but I'm pretty sure we would both agree the execution leaves both 'hard decision' and 'rationality' lacking in its execution.
+>>> 
+>>> When your trying to juggle a lot of spinning plates human authors will tend to focus on somethings in absence of others.
 
-> **u/None** [+14] *
+> **u/None** [+15]  (an hour later)
 > 
 > Damn man. No comments? This is deep, heavy water you're treading, and I love it.
-> 
 
-> **u/WalterTFD** [+8] *
+> **u/WalterTFD** [+8]  (an hour later)
 > 
 > Legend of the Galactic Heroes is also available as a series of light novels, and they are pretty great.
-> 
 
-> **u/TotesMessenger** [+3] *
+> **u/TotesMessenger** [+3]  (13 minutes later)
 > 
 > I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
-> - [/r/hpmor] [On Legend of the Galactic Heroes, Romance of the Three Kingdoms, and Rational Fiction in General (x-post from \/r\/rational)](https://www.reddit.com/r/HPMOR/comments/8akngw/on_legend_of_the_galactic_heroes_romance_of_the/)
-> &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
 > 
+> - [/r/hpmor] [On Legend of the Galactic Heroes, Romance of the Three Kingdoms, and Rational Fiction in General (x-post from \/r\/rational)](https://www.reddit.com/r/HPMOR/comments/8akngw/on_legend_of_the_galactic_heroes_romance_of_the/)
+> 
+> &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
 
-> **u/captain-burrito** [+2] *
+> **u/captain-burrito** [+2]  (2 months later)
 > 
 > That just made me think, is the Iserlohn corridor inspired by the path from Shu to Wei in Three Kingdoms?
-> 
 
-> **u/tnonee** [-8] *
+> **u/tnonee** [-7]  (11 hours later)
 > 
 > I tried watching it (original), got something like 6 episodes in before I quit. The typical anime whinging was a turn off, I don't enjoy watching children play at being adults.
-> OOOOOI N-N-NNAANIIII DES-KA?
 > 
+> OOOOOI N-N-NNAANIIII DES-KA?
 
-> **u/serge_cell** [-5] *
+> **u/serge_cell** [-4]  (10 hours later)
 > 
 > Whole point of rationality is making solution of hard choices automatic.
-> 
 
 ---
 

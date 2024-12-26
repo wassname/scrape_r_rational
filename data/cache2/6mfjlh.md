@@ -2,7 +2,7 @@
 
 * Author: u/petrichorE6 *
 * URL: https://www.reddit.com/r/rational/comments/6mfjlh/recommend_me_a_story_about_magic_or_learning_magic/
-* Score: 9
+* Score: 10
 
 * Created: 2017-07-10T16:28:19
 
@@ -12,80 +12,77 @@
 
 ### Comments:
 
-> **u/LazarusRises** [+14] *
+> **u/LazarusRises** [+13]  (34 minutes later)
 > 
 > Ra (www.qntm.org/ra). Magic is discovered to be an advanced branch of physics in the 1970s, so mages tend to be extremely intelligent individuals. Lots of fun computer science concepts welded into a great magic system.
-> 
 
->> **u/CeruleanTresses** [+2] *
+>> **u/CeruleanTresses** [+2]  (an hour later)
 >> 
 >> This is probably the best possible answer.
->> 
 
->> **u/petrichorE6** [+1] *
+>> **u/petrichorE6** [+1]  (37 minutes later)
 >> 
 >> That does sound really interesting
->> 
 
->>> **u/LazarusRises** [+3] *
+>>> **u/LazarusRises** [+3]  (49 minutes later)
 >>> 
 >>> All his stuff is great! He writes really good hard sci-fi with super inventive concepts. I also recommend Fine Structure, his other full-length work, as well as his short stories and essays.
->>> 
 
-> **u/InfernoVulpix** [+6] *
+> **u/InfernoVulpix** [+6]  (an hour later)
 > 
 > Two original stories I can recommend are [I'm a Spider, So What?](http://blastron01.tumblr.com/kumoko-contents) and [The Snake Report](https://www.reddit.com/r/TheSnakeReport/comments/5xh4o7/chapter_0/).  Both of which are stories where a person gets reincarnated into a fantasy world with RPG mechanics as a lowly monster, and they must struggle to survive.  Admittedly, both stories put large emphasis on the struggle for survival, but the way they tend to go about that is by having the protagonist explore the abilities they have and find the best way to use them.
-> In the realm of fanfiction, I can recommend [The Waves Arisen](https://wertifloke.wordpress.com/about/), a Naruto fanfic.  It's even listed on our [wiki](https://www.reddit.com/r/rational/wiki/index) as a defining work of the rational fiction genre.  It's a world where the magic system is consistent but specifically *not* loophole-proof.  Naruto gets himself in a position to exploit the rules of the setting to become very powerful very quickly, which is good because the challenges he has to face scale just as quickly for similar reasons.
-> In a similar vein, there's [The Two Year Emperor](https://www.reddit.com/r/rational/comments/3xe9fn/ffrt_the_two_year_emperor_is_back_and_free/), in which a country in a D&D rules as written world summon the protagonist from Earth to be their supreme ruler for the next two years.  Being rules as written, it's very broken and our protagonist immediately sets out to break the system as much as he can because his enemies outgun him in every possible way.
-> And if I may diverge from writing, the anime [Log Horizon](https://myanimelist.net/anime/17265/Log_Horizon) seems like something you'd like.  It has the fairly standard premise of a bunch of MMO players being transported into the game, except there's no indication whatsoever that escape is even possible, so instead of an aimless quest to find a way out people start coming to terms with living in a fantasy world and attempt to build a stable society as best they can (the fact that players still respawn then they die doesn't hurt).  Many things about how the world work have changed in the transition from game to reality, and a good amount of the story involves the veterans of the game figuring out what's the same and what's changed.
-> Lastly, [A Hero's War](https://www.fictionpress.com/s/3238329/1/A-Hero-s-War) is a story where, to defeat the apocalyptic army of zombies, the queen of a fantastical country summons a hero to lead an elite group in a quest for a fabled sword which will grant the power to save the country.  Our protagonist, though, is the *second* person the summoning ritual brought along for the ride, a materials engineer who the summoning ritual plopped at the outskirts of civilization.  He's no good in a fight but as a materials engineer he happens to know how to do things like build furnaces capable of producing high quality steel among other things, and once he hits his stride he starts taking a look at how exactly the magic in this world works and how he can best make use of that, both to enhance society's standard of living and to create better weapons for the fight against the zombie armies.
 > 
+> In the realm of fanfiction, I can recommend [The Waves Arisen](https://wertifloke.wordpress.com/about/), a Naruto fanfic.  It's even listed on our [wiki](https://www.reddit.com/r/rational/wiki/index) as a defining work of the rational fiction genre.  It's a world where the magic system is consistent but specifically *not* loophole-proof.  Naruto gets himself in a position to exploit the rules of the setting to become very powerful very quickly, which is good because the challenges he has to face scale just as quickly for similar reasons.
+> 
+> In a similar vein, there's [The Two Year Emperor](https://www.reddit.com/r/rational/comments/3xe9fn/ffrt_the_two_year_emperor_is_back_and_free/), in which a country in a D&D rules as written world summon the protagonist from Earth to be their supreme ruler for the next two years.  Being rules as written, it's very broken and our protagonist immediately sets out to break the system as much as he can because his enemies outgun him in every possible way.
+> 
+> And if I may diverge from writing, the anime [Log Horizon](https://myanimelist.net/anime/17265/Log_Horizon) seems like something you'd like.  It has the fairly standard premise of a bunch of MMO players being transported into the game, except there's no indication whatsoever that escape is even possible, so instead of an aimless quest to find a way out people start coming to terms with living in a fantasy world and attempt to build a stable society as best they can (the fact that players still respawn then they die doesn't hurt).  Many things about how the world work have changed in the transition from game to reality, and a good amount of the story involves the veterans of the game figuring out what's the same and what's changed.
+> 
+> Lastly, [A Hero's War](https://www.fictionpress.com/s/3238329/1/A-Hero-s-War) is a story where, to defeat the apocalyptic army of zombies, the queen of a fantastical country summons a hero to lead an elite group in a quest for a fabled sword which will grant the power to save the country.  Our protagonist, though, is the *second* person the summoning ritual brought along for the ride, a materials engineer who the summoning ritual plopped at the outskirts of civilization.  He's no good in a fight but as a materials engineer he happens to know how to do things like build furnaces capable of producing high quality steel among other things, and once he hits his stride he starts taking a look at how exactly the magic in this world works and how he can best make use of that, both to enhance society's standard of living and to create better weapons for the fight against the zombie armies.
 
->> **u/kaukamieli** [+1] *
+>> **u/kaukamieli** [+1]  (16 days later)
 >> 
 >> Well... Hero's war was cool, but not finished. :(
->> 
 
-> **u/CeruleanTresses** [+5] *
+> **u/CeruleanTresses** [+6]  (27 minutes later)
 > 
 > I know I just recced this the other day, but try [Unsounded.](http://www.casualvillain.com/Unsounded/comic/ch01/ch01_01.html) It has a consistent magic system, which *is* used extensively in combat, but also in the setting's technology in various ways. There is an organization dedicated to advancing humanity's understanding of magic through scientific experimentation, and the central plot is driven by a character's effort to advance a particular area of magic. Various characters make a study of different aspects of the magic system to pursue their own goals, and some have made significant breakthroughs (usually prior to the events of the story, but you sometimes get to see how they did it). 
-> There are also written side stories that delve into magical research efforts in greater detail--for example, there's one that portrays the comic's main character and a college friend collaborating on a research project into the properties of light and how they might be exploited and manipulated with magic. I don't recommend reading the side stories before catching up on the comic, though, since they contain spoilers. The author also often answers reader's questions about the finer details of the magic system on her Tumblr.
-> I will note that the main magic-using character in the series has already pretty much mastered the art, so the excitement with him has been mostly seeing how he cleverly applies it rather than in watching him gain new abilities. The current arc has been touching on that magic science organization and its recent acquisition of a tool for studying an area of magic that was previously pretty opaque, so that's exciting. Just be aware that it takes a while for the magic system to be explored in depth, since the focus is initially on setting up the story, so the early magic combat scenes don't really show off the underlying structure until you go back and reread them later.
 > 
+> There are also written side stories that delve into magical research efforts in greater detail--for example, there's one that portrays the comic's main character and a college friend collaborating on a research project into the properties of light and how they might be exploited and manipulated with magic. I don't recommend reading the side stories before catching up on the comic, though, since they contain spoilers. The author also often answers reader's questions about the finer details of the magic system on her Tumblr.
+> 
+> I will note that the main magic-using character in the series has already pretty much mastered the art, so the excitement with him has been mostly seeing how he cleverly applies it rather than in watching him gain new abilities. The current arc has been touching on that magic science organization and its recent acquisition of a tool for studying an area of magic that was previously pretty opaque, so that's exciting. Just be aware that it takes a while for the magic system to be explored in depth, since the focus is initially on setting up the story, so the early magic combat scenes don't really show off the underlying structure until you go back and reread them later.
 
->> **u/LazarusRises** [+3] *
+>> **u/LazarusRises** [+4]  (2 hours later)
 >> 
 >> I read your comment twice before realizing it was about Unsounded, not Unsong. Funny how well your description fits both.
->> 
 
-> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (an hour later)
 > 
 > Rick Cook's _Wiz Biz_ series where a programmer enters a magical world and creates a whole new kind of magic based on programming.
-> Randall Garret's _Lord Darcy_ series has an intricately worked out magic system ... applied to forensic investigation.
-> The classic work of this kind has the protagonist encounter another new magic system in each story: the _[In]complete Enchanter_ series by L. Sprague de Camp and Fletcher Pratt, and extended by others.
-> Poul Anderson's _Operation Chaos_ and Harry Turtledove's _The Case of the Toxic Spell Dump_ are also notable.
 > 
+> Randall Garret's _Lord Darcy_ series has an intricately worked out magic system ... applied to forensic investigation.
+> 
+> The classic work of this kind has the protagonist encounter another new magic system in each story: the _[In]complete Enchanter_ series by L. Sprague de Camp and Fletcher Pratt, and extended by others.
+> 
+> Poul Anderson's _Operation Chaos_ and Harry Turtledove's _The Case of the Toxic Spell Dump_ are also notable.
 
->> **u/petrichorE6** [+1] *
+>> **u/petrichorE6** [+1]  (an hour later)
 >> 
 >> Thanks! These recommendations look interesting
->> 
 
-> **u/GlueBoy** [+2]  *anti-skub**
+> **u/GlueBoy** [+2]  *anti-skub* (4 hours later)
 > 
 > [Cradle series](https://www.goodreads.com/series/192821-cradle) by Will Wight. Everyone in the sacred valley is born with a natural aptitude for one of the sacred arts. Everyone except Lindon, that is.
-> 
 
->> **u/Aretii** [+1]  *Cultist of Cthugha**
+>> **u/Aretii** [+1]  *Cultist of Cthugha* (11 hours later)
 >> 
 >> I love these books like candy, but they're candy; there's very little investigation or rationality to commend them, it's mostly just standard xianxia executed at a professional standard by a native English writer.
->> (The mostly is because the top echelon of power are something like sci fi ancient aliens mixed with the Diablo series' archangels, which was a new one to me.)
 >> 
+>> (The mostly is because the top echelon of power are something like sci fi ancient aliens mixed with the Diablo series' archangels, which was a new one to me.)
 
-> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (5 hours later)
 > 
 > Anything by Brandon Sanderson. He's also the one who wrote the Laws of Magic (http://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic).
-> 
 
 ---
 

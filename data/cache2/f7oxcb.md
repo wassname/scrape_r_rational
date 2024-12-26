@@ -2,7 +2,7 @@
 
 * Author: u/narfanator *
 * URL: https://practicalguidetoevil.wordpress.com/2020/02/21/interlude-truce/
-* Score: 52
+* Score: 51
 
 * Created: 2020-02-22T06:41:15
 
@@ -12,16 +12,15 @@
 
 ### Comments:
 
-> **u/onemerrylilac** [+8] *
+> **u/onemerrylilac** [+8]  (8 hours later)
 > 
 > Catherine: I'm taking some time to recover.
-> The Rest of the World: *Psych, you thought*
 > 
+> The Rest of the World: *Psych, you thought*
 
-> **u/N0_B1g_De4l** [+4] *
+> **u/N0_B1g_De4l** [+4]  (12 hours later)
 > 
 > So the next chapter is "Terms", right?
-> 
 
 ---
 

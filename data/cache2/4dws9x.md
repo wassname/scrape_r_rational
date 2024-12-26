@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/4dws9x/d_friday_offtopic_thread/
-* Score: 21
+* Score: 20
 
 * Created: 2016-04-08T15:04:54
 
@@ -15,581 +15,597 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/alexanderwales** [+21]  *Time flies like an arrow**
+> **u/alexanderwales** [+20]  *Time flies like an arrow* (4 minutes later)
 > 
 > I've been playing a lot of Factorio lately, and highly recommend it. It's all about automation, and automation for the automation, and automation for the automation of the automation, and logistics chains. (I use Bob's Mods for the extra logistic difficulty.)
-> 
 
->> **u/Anderkent** [+6] *
+>> **u/Anderkent** [+7]  (20 minutes later)
 >> 
 >> This looks cool, just from looking at [Arumba's playthrough](https://www.youtube.com/watch?v=9mfdct1J6Sk). That mod list though.
->> 
 
->> **u/Escapement** [+6]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+6]  *Ankh-Morpork City Watch* (3 hours later)
 >> 
 >> Factorio reminds me a lot of three Zacktronics games: Spacechem, Infinifactory, and TIS-1000. If you enjoy Factorio's factory-making you might well enjoy one or more of those as well. 
->> Infinifactory is a 3d first-person factory making game where you have inputs and have to create outputs by manipulating blocks with e.g. conveyor belts, lasers, rotators, welders, etc.  
->> Spacechem is a chemisty-themed puzzle game where you have to make outputs out of inputs and do things like make water by bonding hydrogens to oxygen, or fuse hydrogens into carbon and then make carbon steel, or whatever. 
->> TIS-1000 is a programming themed game where you have a very simple assembly language and a grid of low quality computers, and have to solve problems like finding the maximum of a string of numbers and outputting it.
->> If you like even one of these games I would not be surprised if you like all three.
 >> 
+>> Infinifactory is a 3d first-person factory making game where you have inputs and have to create outputs by manipulating blocks with e.g. conveyor belts, lasers, rotators, welders, etc.  
+>> 
+>> Spacechem is a chemisty-themed puzzle game where you have to make outputs out of inputs and do things like make water by bonding hydrogens to oxygen, or fuse hydrogens into carbon and then make carbon steel, or whatever. 
+>> 
+>> TIS-1000 is a programming themed game where you have a very simple assembly language and a grid of low quality computers, and have to solve problems like finding the maximum of a string of numbers and outputting it.
+>> 
+>> If you like even one of these games I would not be surprised if you like all three.
 
->>> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png**
+>>> **u/ToaKraka** [+5]  *https://i.imgur.com/OQGHleQ.png* (11 hours later)
 >>> 
 >>> Don't forget *[The Codex of Alchemical Engineering](http://www.zachtronics.com/the-codex-of-alchemical-engineering)*!
->>> 
 
->>>> **u/None** [+0] *
+>>>> **u/None** [+0]  (a day later)
 >>>> 
 >>>> On the other hand we could because there is no way to learn how to play besides reading wikipedia
->>>> Tis at least the first puzzle is half done and there is alot of feedback
 >>>> 
+>>>> Tis at least the first puzzle is half done and there is alot of feedback
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (a day later)
 >>> 
 >>> I love all those games, though TIS-1000 kicked my ass a bit too hard, and I'm a computer programmer by trade.
->>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (8 hours later)
 >> 
 >> When something isn't automated, it became an annoyance that can be washed away.
->> 
 
->> **u/DeterminedThrowaway** [+3] *
+>> **u/DeterminedThrowaway** [+3]  (13 hours later)
 >> 
 >> I played Factorio, but quickly became frustrated at my lack of large scale design ability. Do you have any advice for someone who keeps hitting a wall where my small scale solutions work great, but become a horrible mess when I try to integrate them all together?  
->> I feel like I have this same problem when writing software, and I'm not quite sure what I'm missing here or how I should be thinking about the process differently.
 >> 
+>> I feel like I have this same problem when writing software, and I'm not quite sure what I'm missing here or how I should be thinking about the process differently.
 
->>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+5]  *Time flies like an arrow* (14 hours later)
 >>> 
 >>> The biggest thing you should learn to do is to create a main bus where you put the ingredients you need to make things work. [Here's an example](http://i.imgur.com/yvjgVSx.jpg). So you have a river of basic ingredients running through the factory, and you pull from it with splitters and underground belt when you need them. Each assembly area can then be fairly self-contained, and the problems get a lot smaller because if you're setting up (for example) a place where you're making belts, you don't really need to think about where the inputs are coming from, because you already handled getting all the materials earlier on.
->>> Another tip is to give yourself plenty of space. It's fun to find compact, efficient designs, but most of the time the only penalty for not using them is that you have a slightly larger space to defend. Trying to cram things in makes the logistics a lot more difficult.
 >>> 
+>>> Another tip is to give yourself plenty of space. It's fun to find compact, efficient designs, but most of the time the only penalty for not using them is that you have a slightly larger space to defend. Trying to cram things in makes the logistics a lot more difficult.
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (a day later)
 >>>> 
 >>>> They get really inefficient as soon as you reach like 20 item categories. Soon you spent much of your time laying out an increasingly wide bus system.
->>>> So it isn't a scalable system.
 >>>> 
+>>>> So it isn't a scalable system.
 
->> **u/Polycephal_Lee** [+1] *
+>> **u/Polycephal_Lee** [+1]  (an hour later)
 >> 
 >> Yeah, this crowd will love it.
->> After you launch a few rockets in vanilla, mod it up. [Bob's Mods](https://forums.factorio.com/viewforum.php?f=51) especially are incredible, makes production realistic like hard sci fi.
 >> 
+>> After you launch a few rockets in vanilla, mod it up. [Bob's Mods](https://forums.factorio.com/viewforum.php?f=51) especially are incredible, makes production realistic like hard sci fi.
 
-> **u/None** [+12] *
+> **u/None** [+10]  (10 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Revisional_Sin** [+8] *
+>> **u/Revisional_Sin** [+8]  (a day later)
 >> 
 >> Drama/romance? It's a cosmic horror story where the evil protagonist murders the entire planet multiple times a day!
->> 
 
->> **u/vakusdrake** [+5] *
+>> **u/vakusdrake** [+6]  (11 hours later)
 >> 
 >> I thought basically the same thing while watching the movie. The character doesn't have to be a rationalist to actually use their abilities in a remotely clever way. 
->> The thing about this kind of movie is that the makers clearly wanted to tell a particular kind of story, that had nothing to do with the time travel aspect, and as a result the time travel was never fully explored. 
->> To people with strong munchkin instincts something in a movie with immense implications not being well utilized can be very frustrating but alas we must put up with most movie protagonists being about as smart as a average middle schooler.
->> As a unrelated point I really wish it was standard to include a tag for movies that are depressing af.
 >> 
+>> The thing about this kind of movie is that the makers clearly wanted to tell a particular kind of story, that had nothing to do with the time travel aspect, and as a result the time travel was never fully explored. 
+>> 
+>> To people with strong munchkin instincts something in a movie with immense implications not being well utilized can be very frustrating but alas we must put up with most movie protagonists being about as smart as a average middle schooler.
+>> 
+>> As a unrelated point I really wish it was standard to include a tag for movies that are depressing af.
 
->>> **u/None** [+8] *
+>>> **u/None** [+8]  (14 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/OutOfNiceUsernames** [+4]  *fear of last pages**
+>>>> **u/OutOfNiceUsernames** [+6]  *fear of last pages* (18 hours later)
 >>>> 
 >>>> > imagine munchkinning this setup. You can try going back in time decades with memorized advances in specific fields, setting science forward more and more each time. Getting rich is trivially easy. Getting powerful, actually changing things, probably less so.
->>>> [Qualia the Purple,](https://en.wikipedia.org/wiki/Qualia_the_Purple) which has been recommended here several times, does this.
->>>> > I wonder if there isn't a cabal of time travellers who secretely run the entire world with their power [..] “.. they'll send time travelling ninjas to kill you as a fetus."
->>>> [Thursday Next](https://en.wikipedia.org/wiki/Thursday_Next) has this, and also plays with some neat experimental ideas.
 >>>> 
+>>>> [Qualia the Purple,](https://en.wikipedia.org/wiki/Qualia_the_Purple) which has been recommended here several times, does this.
+>>>> 
+>>>> > I wonder if there isn't a cabal of time travellers who secretely run the entire world with their power [..] “.. they'll send time travelling ninjas to kill you as a fetus."
+>>>> 
+>>>> [Thursday Next](https://en.wikipedia.org/wiki/Thursday_Next) has this, and also plays with some neat experimental ideas.
 
->>>> **u/vakusdrake** [+2] *
+>>>> **u/vakusdrake** [+2]  (20 hours later)
 >>>> 
 >>>> The problem is that it doesn't make any sense for the world to secretly be ruled by time travelers because such a world would be so vastly (and obviously) different from our own. 
->>>> Effectively by piggybacking information arbitrarily far back into the past it seems inevitable that as soon as you get some time travelers who know what the hell they're doing, you will almost inevitably get a singularity, spreading back as far as anyone has had these powers.
->>>> But that's kind of how things go, with nearly any setting with any time travel that can do much.
->>>> As for the trigger thing, well i'm not sure just being depressing is really a "trigger" so i'm not sure such a thing would exist. Still i've heard a lot of people complain about movies that totally blindside you by suddenly getting seriously sad part way through. The classic example is marley and me, which I never saw for that reason. I mean can you imagine if a massive number of comedies turned into horror films part way through.
 >>>> 
+>>>> Effectively by piggybacking information arbitrarily far back into the past it seems inevitable that as soon as you get some time travelers who know what the hell they're doing, you will almost inevitably get a singularity, spreading back as far as anyone has had these powers.
+>>>> 
+>>>> But that's kind of how things go, with nearly any setting with any time travel that can do much.
+>>>> 
+>>>> As for the trigger thing, well i'm not sure just being depressing is really a "trigger" so i'm not sure such a thing would exist. Still i've heard a lot of people complain about movies that totally blindside you by suddenly getting seriously sad part way through. The classic example is marley and me, which I never saw for that reason. I mean can you imagine if a massive number of comedies turned into horror films part way through.
 
->>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (a day later)
 >>>>> 
 >>>>> > I mean can you imagine if a massive number of comedies turned into horror films part way through.
->>>>> It would be great, and I would try to find someone who could recommend both great comedies and great comedy-to-horrors, but not tell me anything about the movies I'm being recommended, so that I would be caught by surprise by the horror flicks. 
->>>>> <.<
->>>>> I want this to be a thing now. :<
 >>>>> 
+>>>>> It would be great, and I would try to find someone who could recommend both great comedies and great comedy-to-horrors, but not tell me anything about the movies I'm being recommended, so that I would be caught by surprise by the horror flicks. 
+>>>>> 
+>>>>> <.<
+>>>>> 
+>>>>> I want this to be a thing now. :<
 
->>>>>> **u/vakusdrake** [+1] *
+>>>>>> **u/vakusdrake** [+1]  (a day later)
 >>>>>> 
 >>>>>> Yeah see I should have phrased that in a way that didn't make it sound so awesome, still you can imagine many people wouldn't be fans. I've never really quite understood why movies deliberately try to be sad, I don't really see sadness having any redeeming value, at least horror gives you an adrenaline rush.
->>>>>> 
 
->>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (a day later)
 >>>>>>> 
 >>>>>>> > I've never really quite understood why movies deliberately try to be sad, I don't really see sadness having any redeeming value
->>>>>>> I don't know why *most* people watch stuff like that, but I have bipolar and shows like Bojack Horseman are very cathartic for me inasmuch as they reflect my subjective state onto the screen. Being able to see Bojack or Rick Sanchez spiral into self-destructive behaviors and suicidal ideation is a (probably very odd) form of validation: by their very existence, these shows remind me that I'm not alone in this, and some people really *do* understand, whether because they experience it themselves or because they're just really empathetic. 
->>>>>>> (It helps that Bojack Horseman and R&M are both hilarious as well, but that isn't essential for the catharsis and feeling of being understood)
->>>>>>> Like I said, though, I don't know why *most* people would like sad stuff.
 >>>>>>> 
+>>>>>>> I don't know why *most* people watch stuff like that, but I have bipolar and shows like Bojack Horseman are very cathartic for me inasmuch as they reflect my subjective state onto the screen. Being able to see Bojack or Rick Sanchez spiral into self-destructive behaviors and suicidal ideation is a (probably very odd) form of validation: by their very existence, these shows remind me that I'm not alone in this, and some people really *do* understand, whether because they experience it themselves or because they're just really empathetic. 
+>>>>>>> 
+>>>>>>> (It helps that Bojack Horseman and R&M are both hilarious as well, but that isn't essential for the catharsis and feeling of being understood)
+>>>>>>> 
+>>>>>>> Like I said, though, I don't know why *most* people would like sad stuff.
 
->> **u/UltraRedSpectrum** [+5] *
+>> **u/UltraRedSpectrum** [+5]  (10 hours later)
 >> 
 >> I really liked it. Sure, he's a bit short-sighted, but you could say the same of pretty much any movie protagonist. Not every story can be rational, just like not every story can be a romance, or a space opera; some stories in possibility space are both good and rationality-incompatible. The protagonist's antics are funny, and there's a lot you only get to learn about the world and the characters by seeing how they act in different timelines.
->> Also, your feminist critique rubs me the wrong way. A big part of the story is the father-son relationship, which would be lost somewhat if it were a father-son-daughter-mother relationship. Not to say that the alternate universe gender-inclusive It's About Time wouldn't be good too, but they're *different movies*, and I hate it when people act like the writer and director are committing some kind of cosmic wrong by making the movie they want to make instead of a similar movie with the same characters but an entirely different plot.
 >> 
+>> Also, your feminist critique rubs me the wrong way. A big part of the story is the father-son relationship, which would be lost somewhat if it were a father-son-daughter-mother relationship. Not to say that the alternate universe gender-inclusive It's About Time wouldn't be good too, but they're *different movies*, and I hate it when people act like the writer and director are committing some kind of cosmic wrong by making the movie they want to make instead of a similar movie with the same characters but an entirely different plot.
 
->> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology* (2 days later)
 >> 
 >> I'm only familiar with it from [qntm's review/discussion of time mechanics](https://qntm.org/tim). Pretty good, worth a read.
->> 
 
->> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+2]  *fear of last pages* (18 hours later)
 >> 
 >> >Their first child, Posy, is born. Tim's sister, Kit, has not been so lucky and her unhappy relationship, failure to find a career, and drinking lead her to crash her car on the same day as Posy's first birthday. Kit (his sister) is seriously hurt but begins to make a good recovery. Tim decides to intervene in her life and does so by preventing her from meeting her boyfriend. When he returns to the present time, he finds Posy (his daughter) has never been born and that he has a son instead. His father explains that travelling back to change things before his children were born would mean those children would not be born. Thus, any events that occurred before Posy's birth cannot be changed, and Tim must accept the consequences as a normal person would. Tim accepts he cannot change Kit's life by changing her past but he and Mary help her to change her life in the present.
+>> 
 >> Wow, what a loving and caring brother.
 >> >The protagonist is content to spend the entire movie using his power for his own petty, short-sighted benefit, namely winning some court cases (of course the wanker had to be a lawyer)
+>> 
 >> Hahaha.
+>> 
 >> Also:
 >> >it's a drama/romance
->> >you have to make it logical
->> Does not compute, unfortunately.
 >> 
+>> >you have to make it logical
+>> 
+>> Does not compute, unfortunately.
 
-> **u/Magodo** [+9]  *Ankh-Morpork City Watch**
+> **u/Magodo** [+9]  *Ankh-Morpork City Watch* (36 minutes later)
 > 
 > I don't think we've had one of these yet. So what's the meaning behind your username?  
-> I got sick of thinking up usernames for everything and just used a random fantasy name generator for mine.
 > 
+> I got sick of thinking up usernames for everything and just used a random fantasy name generator for mine.
 
->> **u/Cedrices_Diggory** [+21] *
+>> **u/Cedrices_Diggory** [+21]  (2 hours later)
 >> 
 >> I thought I was being funny
->> 
 
->>> **u/Frommerman** [+5] *
+>>> **u/Frommerman** [+5]  (10 hours later)
 >>> 
 >>> And for a time, you were.
->>> 
 
->>>> **u/whywhisperwhy** [+1] *
+>>>> **u/whywhisperwhy** [+1]  (4 days later)
 >>>> 
 >>>> Sounds like this is back from HPMoR, but clearly I'm missing the joke... Help, please?
->>>> 
 
->>>>> **u/Frommerman** [+2] *
+>>>>> **u/Frommerman** [+2]  (4 days later)
 >>>>> 
 >>>>> During the Final Exam, it was noted that we hadn't seen Cedric Diggory in a while and also that he likely had a time turner to be able to do all the things be was doing. It was therefore inferred through logic which was *totally reasonable* that there were some number of time-turned Cedrices Diggory transfigured into Harry's glasses (which had conveniently been left on his face due to a sticking charm), which would appear and leap into action as soon as his glasses were finite'd.
->>>>> 
 
->> **u/Escapement** [+12]  *Ankh-Morpork City Watch**
+>> **u/Escapement** [+11]  *Ankh-Morpork City Watch* (2 hours later)
 >> 
 >> An [Escapement](https://en.wikipedia.org/wiki/Escapement) is a part of a mechanical clock or watch that controls the advancement of time and imparts energy to the system as well. My background is in mechanical engineering. A neat little meaning of measuring, mechanical devices, and imparting energy. Also, my reading is mostly escapism.
->> 
 
->> **u/Sparkwitch** [+8] *
+>> **u/Sparkwitch** [+9]  (2 hours later)
 >> 
 >> This is the random nickname Pottermore gave me.
->> 
 
->> **u/ToaKraka** [+6]  *https://i.imgur.com/OQGHleQ.png**
+>> **u/ToaKraka** [+7]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 >> 
 >> *Toa* is the title of the heroes of LEGO's old [Bionicle](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Bionicle) series of merchandise. I greatly enjoyed the complex toys, beautiful comics, and well-written books that made up the franchise.
->> *Kraka* is a reference to [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa), whose location is related to the last name of the first person whose pursuit I attempted after my entrance into society. (It's also a tangential reference to the Bionicle character [Krahka](http://biosector01.com/wiki/index.php/Krahka).)
 >> 
+>> *Kraka* is a reference to [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa), whose location is related to the last name of the first person whose pursuit I attempted after my entrance into society. (It's also a tangential reference to the Bionicle character [Krahka](http://biosector01.com/wiki/index.php/Krahka).)
 
->> **u/Xenon_difluoride** [+6] *
+>> **u/Xenon_difluoride** [+6]  (6 hours later)
 >> 
 >> When I was learning basic chemistry in school, I was taught that the noble gases don't react and bond to other , when I discovered that in fact some of them will bond. So I picked it as a general anti-establishment gesture.
->> 
 
->>> **u/zian** [+3] *
+>>> **u/zian** [+3]  (10 hours later)
 >>> 
 >>> I was just reading about fluorinated organics yesterday!
->>> (Someone at work posted a sign about not dumping inorganic waste down the drain)
 >>> 
+>>> (Someone at work posted a sign about not dumping inorganic waste down the drain)
 
->> **u/Nighzmarquls** [+6] *
+>> **u/Nighzmarquls** [+6]  (57 minutes later)
 >> 
 >> when I was a teenager and way too edgy I was also a fan of latin and gaelic and linguistics.
->> So I made a horrible pidgen mash of mostly latin words that somewhat means "lord/lordess of the night/twilight land something something bugs"
->> It has since then served me VERY WELL for maintaining a consistent username everywhere. 
->> Prior to that I liked unpronounceable cosmic horror type names for my usernames but what pre-pubescent kid doesn't?
 >> 
+>> So I made a horrible pidgen mash of mostly latin words that somewhat means "lord/lordess of the night/twilight land something something bugs"
+>> 
+>> It has since then served me VERY WELL for maintaining a consistent username everywhere. 
+>> 
+>> Prior to that I liked unpronounceable cosmic horror type names for my usernames but what pre-pubescent kid doesn't?
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 >>> 
 >>> Hello,
->>> I just realized, you have been writing 'Oh my Generic Monster Girls' on mspaforums right? How are you planning on posting future parts since the forum is down? Also, I haven't been reading it recently since the end of the semester is really busy for me, so if there's been any major changes, I may have missed them.
 >>> 
+>>> I just realized, you have been writing 'Oh my Generic Monster Girls' on mspaforums right? How are you planning on posting future parts since the forum is down? Also, I haven't been reading it recently since the end of the semester is really busy for me, so if there's been any major changes, I may have missed them.
 
->>>> **u/Nighzmarquls** [+1] *
+>>>> **u/Nighzmarquls** [+1]  (3 days later)
 >>>> 
 >>>> I'm actually in the process of re-booting it as a slightly more standard webcomic-ish thing to help polish the pacing, give the characters room to breath and over all overcome some of the production issues I was getting.
->>>> It's still planned to be interactive, but the stages of interactivity are initially going to be a bit low while I get the 'establishing fiction' up and then will be a more episodic 'slice of weird-life' that can get a lot more input after everyone has had some time for things to sink in how the world/characters work.
->>>> Otherwise ya, it's dead as far as a forum adventure project. If you'd like to be involved/read the rough draft I'm in process of writing scripts and then later will be doing story boards/illustrations etc for several months to come.
 >>>> 
+>>>> It's still planned to be interactive, but the stages of interactivity are initially going to be a bit low while I get the 'establishing fiction' up and then will be a more episodic 'slice of weird-life' that can get a lot more input after everyone has had some time for things to sink in how the world/characters work.
+>>>> 
+>>>> Otherwise ya, it's dead as far as a forum adventure project. If you'd like to be involved/read the rough draft I'm in process of writing scripts and then later will be doing story boards/illustrations etc for several months to come.
 
->> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager* (3 hours later)
 >> 
 >> The [Roxolani](https://en.wikipedia.org/wiki/Roxolani) were a bunch of Eastern European nomads. Not particularly notable; they bothered the Romans a bit until the Huns ate them. You might cross swords with them in *Total War: Rome 2*. 
->> My father mentioned them when I was a kid looking for a pseudonym, I liked the name, kept it ever since.
 >> 
+>> My father mentioned them when I was a kid looking for a pseudonym, I liked the name, kept it ever since.
 
->> **u/Luminnaran** [+7]  *Prophet of Asmodeus**
+>> **u/Luminnaran** [+6]  *Prophet of Asmodeus* (6 hours later)
 >> 
 >> Several years ago I was making my first character on World of Warcraft and couldn't think of a good name. So I decided to just hit the name randomizer and got Luminnaran. For about two years my only real use of the internet was playing WoW so I began to think of "Luminnaran" less as a character in WoW and more as simply my internet identity. 
->> After that I started using Luminnaran as my name everywhere online and and so when I joined reddit (I was a pretty late adopter of reddit as my main source of information) it was an obvious choice to simply continue using the same internet name I had been using for years.
 >> 
+>> After that I started using Luminnaran as my name everywhere online and and so when I joined reddit (I was a pretty late adopter of reddit as my main source of information) it was an obvious choice to simply continue using the same internet name I had been using for years.
 
->> **u/Frommerman** [+4] *
+>> **u/Frommerman** [+4]  (an hour later)
 >> 
 >> Meant to sound German because I took German in high school.
->> 
 
->> **u/AmeteurOpinions** [+5]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+5]  *Finally, everyone was working together.* (an hour later)
 >> 
 >> It's supposed to be a get-out-jail-free card in case I say something dumb.
->> 
 
->>> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life**
+>>> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life* (7 hours later)
 >>> 
 >>> Ah, *now* your flair makes sense.
->>> 
 
->> **u/Rhamni** [+4]  *Aspiring author**
+>> **u/Rhamni** [+5]  *Aspiring author* (4 hours later)
 >> 
 >> Character from my book world. It's 17 year old me if he was 50 years old and a Well Intentioned Extremist/world leader/historian/poet.
->> The name itself is taken from the common Brimstone butterfly.
 >> 
+>> The name itself is taken from the common Brimstone butterfly.
 
->> **u/gbear605** [+4]  *history’s greatest story**
+>> **u/gbear605** [+5]  *history’s greatest story* (an hour later)
 >> 
 >> When I was a little kid, my grandparents used to call me gbear as a nickname. No reason really. I then wanted to get an account on lego.com. gbear was taken, but it suggested gbear605. I have used it ever since.
->> 
 
->> **u/ulyssessword** [+3] *
+>> **u/ulyssessword** [+4]  (an hour later)
 >> 
 >> > I got sick of thinking up usernames for everything and just used a random fantasy name generator for mine.
->> That's pretty much what I did too.  I opened a book to a random page and pointed to it.  The nearest non-lame word went into my username.  I chose to have a two-word name becasue it seemed like the right length.
 >> 
+>> That's pretty much what I did too.  I opened a book to a random page and pointed to it.  The nearest non-lame word went into my username.  I chose to have a two-word name becasue it seemed like the right length.
 
->> **u/Empiricist_or_not** [+4]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+4]  *Aspiring polite Hegemonizing swarm* (23 hours later)
 >> 
 >> A bit of a self caution about arrogance and being too risk adverse in an allusion to *The Hydrogen Sonata*
->> 
 
->> **u/Enasni_** [+4] *
+>> **u/Enasni_** [+4]  (a day later)
 >> 
 >> Reversed insanity is [not](#s " that bad of a username.")
->> 
 
->> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (12 hours later)
 >> 
 >> It's a reference to the series behind /r/errantry, with several layers of deeper meanings.
->> 
 
->>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+>>> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (14 hours later)
 >>> 
 >>> Congrats, you have managed to significantly out-Google that series for the word "Peridexis". Google even tries to auto-complete to your username.
->>> 
 
->>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (15 hours later)
 >>>> 
 >>>> ...that's both hilarious and kinda sad.
->>>> Searching for "peridexis", I appear to hold results 1, 2, 4, and 6.  The rest are from source material, plus someone on Tumblr (why??).  Related searches include "Tarn Adams" and "Dwarf Fortress donations", OK.  Google autocompletes "peridex" to "peridexiserrant"... I guess it's a rare stem.
->>>> I suppose at least it's a recognisable name?
 >>>> 
+>>>> Searching for "peridexis", I appear to hold results 1, 2, 4, and 6.  The rest are from source material, plus someone on Tumblr (why??).  Related searches include "Tarn Adams" and "Dwarf Fortress donations", OK.  Google autocompletes "peridex" to "peridexiserrant"... I guess it's a rare stem.
+>>>> 
+>>>> I suppose at least it's a recognisable name?
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> Makes sense.  Young Wizards made up a bunch of its own, seemingly Latinate, technical terminology.
->>>> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> There was an instant-messaging username in an AMV of Jonathan Coulton's "Re: Your Brains", which was typing out the zombie lines in the song.
->> Zombies are great.
->> I took the username.
 >> 
+>> Zombies are great.
+>> 
+>> I took the username.
 
->> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (a day later)
 >> 
 >> My last name has too many vowels and nobody can ever spell it. Also, I have church affiliations. So "Call me Brother G" works a lot better than "Call me Brother [apparently unpronounceable gibbering from beyond the stars]." 
->> I also use it for my email. 
->> Honestly, I'm thinking of changing it (in particular I'm a little less fond of the religious affiliations and broadcasting them now), but I'm not sure if it would be worth the trouble to change my username all over the web. Of course, every time I start a new account, the problem just becomes that much worse, so... >.>
->> (Also I'm not sure what I'd change it *too*, either. Maybe "NoIDon'tWriteTheReckoningImJustPostingLinksToItWhenItUpdates." >:P )
 >> 
+>> I also use it for my email. 
+>> 
+>> Honestly, I'm thinking of changing it (in particular I'm a little less fond of the religious affiliations and broadcasting them now), but I'm not sure if it would be worth the trouble to change my username all over the web. Of course, every time I start a new account, the problem just becomes that much worse, so... >.>
+>> 
+>> (Also I'm not sure what I'd change it *too*, either. Maybe "NoIDon'tWriteTheReckoningImJustPostingLinksToItWhenItUpdates." >:P )
 
->>> **u/TennisMaster2** [+1] *
+>>> **u/TennisMaster2** [+1]  (2 days later)
 >>> 
 >>> I thought it was "Brotherg" this whole time.  As in, "**Broe**-thurg".  Just change it to that.
->>> 
 
->>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (3 days later)
 >>>> 
 >>>> That's not bad. Thanks!
->>>> 
 
->> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> **u/alexanderwales** [+3]  *Time flies like an arrow* (a day later)
 >> 
 >> My real name is shared by way too many people (due to naming conventions among the Mennonites) so I picked out a unique but plausible pseudonym which I then used for everything. There are actually people named Alexander Wales, but they weren't on the internet back in 1998.
->> 
 
->> **u/Kishoto** [+2] *
+>> **u/Kishoto** [+2]  (9 hours later)
 >> 
 >> My name is derived from the fictional son of a fictional character I created when I was around 6-7, Hishoto. I once used it as a name but forgot the password, so I had to use the name Kishoto. I liked how it sounded better so Kishoto persisted as the name I use everywhere. Google Kishoto and most of those results will be me.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Ooh, off topic, how did you like the latest chapter of Shokugeki?
->>> 
 
->>>> **u/Kishoto** [+1] *
+>>>> **u/Kishoto** [+1]  (a day later)
 >>>> 
 >>>> Well this IS the off topic thread, lol.
->>>> I thought it was interesting. Kinda frustrated we didn't get a clear answer to whether Soma will or will not join Central. And, with the setup to a shokugeki between the two, I'm now almost 100% certain one of two things will happen: (1) Soma loses and works for Central (2) Something will happen to invalidate/postpone the shokugeki. There's simply no way, thematically, Soma can win this match, which is annoying to me as I really hate matches with foregone conclusions, which is what this one is. Although, to be fair, most of the important shokugekis are that way. Like, anytime we see Soma betting his expulsion, we know he's either going to win or get out of it somehow, which removes a lot of the tension from what should be an epic moment.
 >>>> 
+>>>> I thought it was interesting. Kinda frustrated we didn't get a clear answer to whether Soma will or will not join Central. And, with the setup to a shokugeki between the two, I'm now almost 100% certain one of two things will happen: (1) Soma loses and works for Central (2) Something will happen to invalidate/postpone the shokugeki. There's simply no way, thematically, Soma can win this match, which is annoying to me as I really hate matches with foregone conclusions, which is what this one is. Although, to be fair, most of the important shokugekis are that way. Like, anytime we see Soma betting his expulsion, we know he's either going to win or get out of it somehow, which removes a lot of the tension from what should be an epic moment.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (a day later)
 >>>>> 
 >>>>> Curse of most shonen titles. One Piece handles that particular thing pretty well. 
->>>>> I think Soma will lose, and have to join Central. Current first seat is a third year, meaning he has a few months left before graduation (Japanese high school is 3 yrs long), which could be like a second Stagiaire arc, give some more characterisation to Central mooks and E10, and radically shift the status quo.
->>>>> Realistic estimate would be that Souma doesn't get a seat in E10 until his second year. Jewel generation or not, he's still got a lot to learn. Azami could be the first major villain, but I don't know how the next one, if there's going to be one, would top him as a threat. I just hope he doesn't get Aizen'd
 >>>>> 
+>>>>> I think Soma will lose, and have to join Central. Current first seat is a third year, meaning he has a few months left before graduation (Japanese high school is 3 yrs long), which could be like a second Stagiaire arc, give some more characterisation to Central mooks and E10, and radically shift the status quo.
+>>>>> 
+>>>>> Realistic estimate would be that Souma doesn't get a seat in E10 until his second year. Jewel generation or not, he's still got a lot to learn. Azami could be the first major villain, but I don't know how the next one, if there's going to be one, would top him as a threat. I just hope he doesn't get Aizen'd
 
->>>>>> **u/Kishoto** [+1] *
+>>>>>> **u/Kishoto** [+1]  (a day later)
 >>>>>> 
 >>>>>> By Aizen'd, do you mean he just snowballs into the Big Bad behind pretty much every single antagonistic part of Part 1 of the manga?
->>>>>> 
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>> 
 >>>>>>> I mean, turning someone who was obviously the main antagonist into a part 1 villain
->>>>>>> 
 
->>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>> **u/Kishoto** [+1]  (a day later)
 >>>>>>>> 
 >>>>>>>> You mean you think Aizen should've had an even bigger role?
->>>>>>>> 
 
->>>>>>>>> **u/None** [+1] *
+>>>>>>>>> **u/None** [+1]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> let's just say that I think fullbring and quincy war arcs have worse standing in my book than some bleach fanfics
->>>>>>>>> I sincerely hope it was the editors, and not Kubo who decided to continue after Aizen
 >>>>>>>>> 
+>>>>>>>>> I sincerely hope it was the editors, and not Kubo who decided to continue after Aizen
 
->>>>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>>>> **u/Kishoto** [+1]  (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I didn't follow bleach all that much but I've heard enough to know that the fullbring arc would be like you taking Goku post-Frieza, taking away his super saiyan transformation and training and giving him the power pole in exchange. With the bad guys being the equivalent to like the red ribbon army from the original Dragon Ball
->>>>>>>>>> 
 
->>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> **u/None** [+1]  (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Well, dbz has dbGT, so there's that
->>>>>>>>>>> 
 
->>>>>>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>>>>>> **u/Kishoto** [+1]  (2 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> Ugh. GT was so dumb. Goku never needed to become a kid again. I didn't understand why they did that I mean, I guess it was because he was "too strong" or w/e but fuck...
->>>>>>>>>>>> 
 
->> **u/zian** [+2] *
+>> **u/zian** [+2]  (10 hours later)
 >> 
 >> It's my real name.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> I abused graphing hooks in fps's quite heavily
->> and "monkey" tends to be taken online
 >> 
+>> and "monkey" tends to be taken online
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 >> 
 >> I tend to like user names that could be a real name as well. In addition, I first found this subreddit through alexanderwale's story 'The Last Christmas' so I went with a firstlast name format as a subtle way to honor him.
->> Xamuel is because I also like slightly unusual names, so I tend to take a common name and switch out one of the letters with a less common letter like X, Y, Z, Q, or V. So Mark will become Marq, Richard is Rivard, and Samuel becomes Xamuel.
 >> 
+>> Xamuel is because I also like slightly unusual names, so I tend to take a common name and switch out one of the letters with a less common letter like X, Y, Z, Q, or V. So Mark will become Marq, Richard is Rivard, and Samuel becomes Xamuel.
 
-> **u/Farmerbob1** [+5]  *Level 1 author**
+> **u/Farmerbob1** [+3]  *Level 1 author* (2 days later)
 > 
 > Well, I don't have a new load until tomorrow at 1100 EST, so I have a little time to think.
-> I am closing in on acquiring a patent for what might literally be a game-changing space propulsion method, that can utilize pre-existing space-proven fuel-based propulsion technologies to perform interplanetary-range missions both rapidly enough for commercial exploitation and more efficiently than any current rocketry method.  My last examiner interaction was an Ex Parte Quayle action, meaning it was patentable, but I had some cleanup on non-claim issues to take care of.  That claim had too many limitations, due to my only recently determining how to use wording in a claim to more precisely define my claim.  I have resubmitted, with a couple earlier limitations removed.
-> I believe I will have the patent in a few months.  Supposing nobody comes forward with a publication that predates my patent application process, but was overlooked by the entire space propulsion community, what in the heck am I going to do with it?
-> I have no meaningful ties to anyone in the space science community.  I have no experience with dealing with a patent.  I'm afraid to sell the thing, because I don't want it locked in a box by some corporation.  I don't particularly want to administer the thing (no experience, again.)
-> I'm also refusing to allow myself to look too forward and collect eggs for only one basket.  As I mentioned in a recent thread, I'm currently a professional truck driver, and that's not changing until I get other money in hand, if this ever generates income.  The return from this could be anywhere from zero to licensing fees that might mean I never have to work again.
-> I have considered a Kickstarter to put it into public domain, but I have my doubts about how well that would actually work, and what I'd offer for rewards and stretch goals.
-> I'm also considering holding onto it, pinching my nose, and dealing with lawyers and licensing agents to administer the thing, because I know I can trust myself to not lock it in a box somewhere.
-> Anyone here know of an example of an outsider in a field generating a game-breaking patent, and not making a horrible mash of introducing/administering it?
-> I'll say again, that I do not have the patent yet, but every office action gets me closer.  The concept is patentable, it's a matter of what limits I'll be forced to accept.
 > 
+> I am closing in on acquiring a patent for what might literally be a game-changing space propulsion method, that can utilize pre-existing space-proven fuel-based propulsion technologies to perform interplanetary-range missions both rapidly enough for commercial exploitation and more efficiently than any current rocketry method.  My last examiner interaction was an Ex Parte Quayle action, meaning it was patentable, but I had some cleanup on non-claim issues to take care of.  That claim had too many limitations, due to my only recently determining how to use wording in a claim to more precisely define my claim.  I have resubmitted, with a couple earlier limitations removed.
+> 
+> I believe I will have the patent in a few months.  Supposing nobody comes forward with a publication that predates my patent application process, but was overlooked by the entire space propulsion community, what in the heck am I going to do with it?
+> 
+> I have no meaningful ties to anyone in the space science community.  I have no experience with dealing with a patent.  I'm afraid to sell the thing, because I don't want it locked in a box by some corporation.  I don't particularly want to administer the thing (no experience, again.)
+> 
+> I'm also refusing to allow myself to look too forward and collect eggs for only one basket.  As I mentioned in a recent thread, I'm currently a professional truck driver, and that's not changing until I get other money in hand, if this ever generates income.  The return from this could be anywhere from zero to licensing fees that might mean I never have to work again.
+> 
+> I have considered a Kickstarter to put it into public domain, but I have my doubts about how well that would actually work, and what I'd offer for rewards and stretch goals.
+> 
+> I'm also considering holding onto it, pinching my nose, and dealing with lawyers and licensing agents to administer the thing, because I know I can trust myself to not lock it in a box somewhere.
+> 
+> Anyone here know of an example of an outsider in a field generating a game-breaking patent, and not making a horrible mash of introducing/administering it?
+> 
+> I'll say again, that I do not have the patent yet, but every office action gets me closer.  The concept is patentable, it's a matter of what limits I'll be forced to accept.
 
->> **u/TennisMaster2** [+3] *
+>> **u/TennisMaster2** [+3]  (2 days later)
 >> 
 >> I assume you don't have the time, skills, or funds to create an appealing video that explains the idea well.  Do a small Kickstarter for those funds, then hire someone to make that video.  Then do a huge Kickstarter promising increasing levels of involvement with getting the idea into some phase of production, mainly by making contact with you a scarce commodity.  The goal of the huge Kickstarter will be to generate media attention, and the attention of Elon Musk or his competitor-colleagues in private and governmental space travel.  Say you need the money in order to be able to spend your time getting the idea into some phase of production, and that all leftover will go straight to making the project not so large of a money sink for whatever entity decides to invest in the idea.
->> Again, the idea is to get PR and funding so you can spend more time getting access to people with the power to get it done.
->> An easier route might be pm'ing Eliezer this comment, asking if he's still in contact with Peter Thiel, who can then be the power broker between you and Elon Musk.  Before that, e-mail one or a few respected Professor(s) of the pertinent field your patent and the idea, asking if they would invest in it had they the funds, or just what they think of the idea.  Use that to get enough credibility to make clear to the power broker that the risk of embarrassment and time wasting is low.
->> Another way would be e-mailing engineers at SpaceX, NASA, etc. your patent and the idea, requesting they bring it up to their superiors if they find the idea something worth pursuing.  Before that, though, you need to decide what deal you are comfortable accepting.
 >> 
+>> Again, the idea is to get PR and funding so you can spend more time getting access to people with the power to get it done.
+>> 
+>> An easier route might be pm'ing Eliezer this comment, asking if he's still in contact with Peter Thiel, who can then be the power broker between you and Elon Musk.  Before that, e-mail one or a few respected Professor(s) of the pertinent field your patent and the idea, asking if they would invest in it had they the funds, or just what they think of the idea.  Use that to get enough credibility to make clear to the power broker that the risk of embarrassment and time wasting is low.
+>> 
+>> Another way would be e-mailing engineers at SpaceX, NASA, etc. your patent and the idea, requesting they bring it up to their superiors if they find the idea something worth pursuing.  Before that, though, you need to decide what deal you are comfortable accepting.
 
->>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>> 
 >>> I have considered approaches similar to what you've outlined, but I won't/can't act on them until I have the patent.
->>> Would a kickstarter like that even generate interest?  I could probably get a video made by the time I have the patent, but most of what I see done in kickstarters is media.  Games/books/etc.
->>> The direct contact with professors or industry professionals can be dauntingly hard to manage.  Think about how many crackpots try to sell them new ideas.  They are going to paint me with crackpot brush unless I have some sort of credentials, or a really good hook.  I've already cautiously approached several, and not even one response.  I've even written a book about the idea and published it for free, and only gotten a response from one science writer, who said she wanted to write an article on it, but was told no by her editor because the editor refused to believe it was valid that nobody had thought of it before. *shrug*
 >>> 
+>>> Would a kickstarter like that even generate interest?  I could probably get a video made by the time I have the patent, but most of what I see done in kickstarters is media.  Games/books/etc.
+>>> 
+>>> The direct contact with professors or industry professionals can be dauntingly hard to manage.  Think about how many crackpots try to sell them new ideas.  They are going to paint me with crackpot brush unless I have some sort of credentials, or a really good hook.  I've already cautiously approached several, and not even one response.  I've even written a book about the idea and published it for free, and only gotten a response from one science writer, who said she wanted to write an article on it, but was told no by her editor because the editor refused to believe it was valid that nobody had thought of it before. *shrug*
 
->>>> **u/TennisMaster2** [+2] *
+>>>> **u/TennisMaster2** [+2]  (2 days later)
 >>>> 
 >>>> It's been done before: https://www.kickstarter.com/projects/1156290643/atlas-a-human-powered-helicopter-for-a-historical
->>>> I think there's a better example but I can't recall it.
->>>> If you have a .edu e-mail address, or know someone who does, their requests will be taken much more seriously.  The best approach, though, is to call a professor during office hours and ask for an in-person appointment to go over your idea.  Make it clear you think it has merit, are pursuing a patent, and are genuinely looking for a technical evaluation of whether you should continue pursuing its promotion or give it up as a waste of time, as you have other things you could be doing.  I don't know if your job would allow you the time to do that, however.
 >>>> 
+>>>> I think there's a better example but I can't recall it.
+>>>> 
+>>>> If you have a .edu e-mail address, or know someone who does, their requests will be taken much more seriously.  The best approach, though, is to call a professor during office hours and ask for an in-person appointment to go over your idea.  Make it clear you think it has merit, are pursuing a patent, and are genuinely looking for a technical evaluation of whether you should continue pursuing its promotion or give it up as a waste of time, as you have other things you could be doing.  I don't know if your job would allow you the time to do that, however.
 
->>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>>>> 
 >>>>> I've bookmarked the link and will examine it more closely, to see what they did and how.
->>>>> I don't have access to a .edu email address.  The idea of just calling a professor out of the blue during their office hours when I'm not a student?  Hmm.  I hadn't considered that.  I don't know why I hadn't considered that.  Perhaps some sort of subconscious thought that professors are for students, not for the public.  However, I know they do frequently work outside academia on other projects and research, so I've missed an option.  Thank you  Next time I get a week of home time, I might try that.
 >>>>> 
+>>>>> I don't have access to a .edu email address.  The idea of just calling a professor out of the blue during their office hours when I'm not a student?  Hmm.  I hadn't considered that.  I don't know why I hadn't considered that.  Perhaps some sort of subconscious thought that professors are for students, not for the public.  However, I know they do frequently work outside academia on other projects and research, so I've missed an option.  Thank you  Next time I get a week of home time, I might try that.
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 >>>> 
 >>>> > I've even written a book about the idea and published it for free
->>>> Have I somehow missed an entire book you've written or was it 'Set in Stone'?
 >>>> 
+>>>> Have I somehow missed an entire book you've written or was it 'Set in Stone'?
 
->>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>>>> 
 >>>>> It's not fiction, and more of a pamphlet than a book.  I've never linked it here or spoken about it before in Reddit, I don't think.  If you want a link to it, I can send it to you in response to a private message.  I'd feel really uncomfortable linking the book in an open thread, as it could definitely be considered to be self-promotion, since it's about the same thing I'm trying to patent.
->>>>> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 >> 
 >> I did some Googling and found an article about a movie star who got a [patent](https://rjlipton.wordpress.com/2010/07/25/hedy-lamarr-the-inventor/) which helped significantly in WWII. It was probably easier for her due to having the fame to make connections with the relevant people, but she was still an outsider.
->> I have a question about patents. If you are the 'owner' of an idea, does that mean people can't use the concept in their own projects without your permission, or they just can't use it to make money, or what? It's just very confusing on how one can 'control' an idea and I can't find anything which explains it clearly enough for me.
->> Thanks!
 >> 
+>> I have a question about patents. If you are the 'owner' of an idea, does that mean people can't use the concept in their own projects without your permission, or they just can't use it to make money, or what? It's just very confusing on how one can 'control' an idea and I can't find anything which explains it clearly enough for me.
+>> 
+>> Thanks!
 
->>> **u/Farmerbob1** [+2]  *Level 1 author**
+>>> **u/Farmerbob1** [+2]  *Level 1 author* (2 days later)
 >>> 
 >>> A method patent is much the same as a device patent.  The smaller the actors are who implement the patented idea/item, the harder it is to enforce.
->>> For example, if you try to patent something like tying little balloons into dog-shaped knots, you probably aren't going to be able to enforce it, even if it is valid.  Every clown in the universe would ignore your patent.  The balloon makers can't be held responsible either, they just make balloons.
->>> Now, if you were to patent a new eating utensil, you wouldn't try to enforce the patent on people using them, you would enforce it on people making and selling the utensils.
->>> In my case, there are very few actors involved in the space propulsion industry.
 >>> 
+>>> For example, if you try to patent something like tying little balloons into dog-shaped knots, you probably aren't going to be able to enforce it, even if it is valid.  Every clown in the universe would ignore your patent.  The balloon makers can't be held responsible either, they just make balloons.
+>>> 
+>>> Now, if you were to patent a new eating utensil, you wouldn't try to enforce the patent on people using them, you would enforce it on people making and selling the utensils.
+>>> 
+>>> In my case, there are very few actors involved in the space propulsion industry.
 
-> **u/Rhamni** [+3]  *Aspiring author**
+> **u/Rhamni** [+3]  *Aspiring author* (4 hours later)
 > 
 > The pope just invited my favourite American candidate for president to hold a speech from his castle balcony, which was nice.
-> I start a new job on the 18th, and am getting all the trophies for the earlier Souls games to prepare myself to make the most of the six days I'll have between the launch of Dark Souls 3 and the new job. I'm hearing good things about DS3, but seldom visit the dedicated subreddit because I don't want any spoilers.
 > 
+> I start a new job on the 18th, and am getting all the trophies for the earlier Souls games to prepare myself to make the most of the six days I'll have between the launch of Dark Souls 3 and the new job. I'm hearing good things about DS3, but seldom visit the dedicated subreddit because I don't want any spoilers.
 
-> **u/Farmerbob1** [+3]  *Level 1 author**
+> **u/Farmerbob1** [+3]  *Level 1 author* (a day later)
 > 
 > Since becoming a professional truck driver, I have become painfully aware of how irrational the motoring public is.  Every single day, usually at least two or three times a day, people in normal-sized vehicles do things around me that, if I were paying less attention, could have resulted in a metal omelette with human-filling.
-> Less than two hours ago someone in a little 2-door grey import crossover of some sort cut in front of me at 60+ miles per hour, so close that their passenger rear bumper was obscured by my hood.
-> One tire on my truck supports, on average, up to 4400+ pounds.  The front two wheels routinely carry 6000+ pounds per wheel.  People do NOT respect big trucks enough.
 > 
+> Less than two hours ago someone in a little 2-door grey import crossover of some sort cut in front of me at 60+ miles per hour, so close that their passenger rear bumper was obscured by my hood.
+> 
+> One tire on my truck supports, on average, up to 4400+ pounds.  The front two wheels routinely carry 6000+ pounds per wheel.  People do NOT respect big trucks enough.
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (2 days later)
 >> 
 >> Do you mind telling your reasons for being a truck driver or is it too personal?
->> Also, I really *really* **really** hope you don't get into a car crash! Stay safe!
 >> 
+>> Also, I really *really* **really** hope you don't get into a car crash! Stay safe!
 
->>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>> 
 >>> I was a technical support specialist for NCR for eight years, then they moved my job to Serbia.  After looking for work within a sane commuting distance from my house for nearly a year, I decided that I would drive a truck for a living.  It doesn't matter where I live, because I mostly live in the truck, and you can't move truck driving jobs overseas.  The money is comparable.
->>> 
 
->>>> **u/TennisMaster2** [+2] *
+>>>> **u/TennisMaster2** [+2]  (2 days later)
 >>>> 
 >>>> Aren't there health consequences?
->>>> 
 
->>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>>>> 
 >>>>> I'm actually more physically active, and eat less on the truck.  I've lost a few pounds.  Not a lot, but it's been fairly steady weight loss.  Trucks these days have much better suspension and seats than older trucks which would cause serious lower back issues due to vibration.  There is the repetitive exposure to diesel fuel, but the tanks of the truck are large enough that I refuel less often than I did when I did local service work.
->>>>> 
 
-> **u/alexanderwales** [+2]  *Time flies like an arrow**
+> **u/alexanderwales** [+2]  *Time flies like an arrow* (a day later)
 > 
 > Does anyone have any experience with ~~text-to-speech~~ speech-to-text for large quantities of text? I burned my hand pretty badly today which has slowed down my typing considerably, and I have a limited supply of powerful painkillers that I don't think will last me through the entire healing process so probably won't want to do even slow typing towards the end of it. (This would be for prose fiction, if that makes a difference.)
-> 
 
->> **u/DrunkenQuetzalcoatl** [+2] *
+>> **u/DrunkenQuetzalcoatl** [+2]  (a day later)
 >> 
 >> Do you mean speech-to-text (speech recognition/dictation)? The other way around seems to make no sense in your situation. No experience either way unfortunately.
->> 
 
->>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow* (a day later)
 >>> 
 >>> Er, right. I blame the painkillers.
->>> 
 
->> **u/Farmerbob1** [+2]  *Level 1 author**
+>> **u/Farmerbob1** [+2]  *Level 1 author* (a day later)
 >> 
 >> David Weber uses Dragon Naturally Speaking, or he used to back a few years ago when I spent enough time on his website to know such things.  Considering that his daily output goal is 10k words, it must have worked for him.
->> Condolences on the hand injury.  I hope it is only a temporary disability.  Speaking from personal experience, permanent finger/hand injuries are terribly annoying, for years.  Even nearly 20 years after my argument with a hydraulic cylinder, I still sometimes forget my hand is not what it was.
 >> 
+>> Condolences on the hand injury.  I hope it is only a temporary disability.  Speaking from personal experience, permanent finger/hand injuries are terribly annoying, for years.  Even nearly 20 years after my argument with a hydraulic cylinder, I still sometimes forget my hand is not what it was.
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 days later)
 >> 
 >> I've used Dragon Naturally Speaking when I was in high school, but there is a learning curve to figure how to add punctuation like periods, commas, question marks, apostrophe, and so on, and I don't remember what I did besides manually editing them in afterwards. Probably, programmed it to automatically translate certain spoken phrases into a punctuation mark like "add period" -> . and "add comma" -> , or something like that.
->> You also have to speak clearly and at a steady pace which takes a little practice. I suspect that it's good training if one wanted to make audiobooks.
 >> 
+>> You also have to speak clearly and at a steady pace which takes a little practice. I suspect that it's good training if one wanted to make audiobooks.
 
->>> **u/zian** [+1] *
+>>> **u/zian** [+1]  (17 days later)
 >>> 
 >>> In Windows Speech Recognition (and most others, probably), the way that works is to say "Working on an F-A-I to save us with ponies PERIOD" to get "Working on an FAI to save us with ponies."
->>> 
 
->> **u/sillyvictorians** [+1] *
+>> **u/sillyvictorians** [+1]  (5 days later)
 >> 
 >> Google Docs has pretty excellent [speech recognition](https://support.google.com/docs/answer/4492226?hl=en).
->> 
 
->> **u/zian** [+1] *
+>> **u/zian** [+1]  (17 days later)
 >> 
 >> I've used full-blown suites (e.g. ViaVoice, Dragon) and the speech recognition built into Windows Vista/7/etc.
+>> 
 >> Full blown suite:
+>> 
 >> * Pro: Generally better accuracy, definitely works well if you'll do this all the time (e.g. medical dictation)
 >> * Con: Learning curve, cost (can be pretty expensive), common assumption is that you're using a fancy noise-cancelling microphone
+>> 
 >> Windows Speech Recognition:
+>> 
 >> * Pro: Free, pretty good results
 >> * Con: Dictionary isn't as big (you'll find yourself adding words a lot in the beginning)
+>> 
 >> In all cases, assuming that you'll be using speech to text for >2 days and using it as a full replacement during that time, I strongly recommend getting a noise cancelling headset microphone. You don't need to get a super expensive one. The 2 priorities are:
+>> 
 >> 1. Get audio from as close to your mouth as possible
 >> 2. Get rid of background noise
->> If you normally listen to music, then make sure you get one with headphones. :)
->> Something like http://www.amazon.com/Plantronics-PLNAUDIO478-Stereo-USB-Headset/dp/B005VAORH6/ ($25) will be fine.
->> Some reputable brands: Plantronics, Sennheiser, Andrea
 >> 
+>> If you normally listen to music, then make sure you get one with headphones. :)
+>> 
+>> Something like http://www.amazon.com/Plantronics-PLNAUDIO478-Stereo-USB-Headset/dp/B005VAORH6/ ($25) will be fine.
+>> 
+>> Some reputable brands: Plantronics, Sennheiser, Andrea
 
-> **u/ToaKraka** [+4]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (54 minutes later)
 > 
 > *On this site, are you more likely to downvote a submission or to hide it?*
+> 
 > When I browse r/all, I typically upvote between five and fifteen percent of the submissions and hide all the others, starting from the top and working my way downward through a fifty-item page before refreshing and starting again (until I get bored, which typically takes only one or two pages). Downvotes are relatively rare, and are reserved for items that I *thoroughly* dislike--most often, something from r/UpliftingNews concerning money that's being spent on animals. I sometimes think that I should be more strategic and downvote *everything* that I consider to have risen above its proper station, though, rather than merely hiding it from my sight.
+> 
 > ---
+> 
 > Mr. Yudkowsky made a fairly-funny post on Facebook making light of [Mr. Alexander's facetiously calling him the rightful Caliph of Rationality](http://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement)--but then [he deleted it](http://slatestarscratchpad.tumblr.com/post/142425293256). When I originally saw it, I considered making a screenshot of it, but decided against it, considering it not funny enough to be worth much [prestige](http://www.ckiiwiki.com/Prestige) here (let alone funny enough for me to save for my personal satisfaction)--and now it's lost forever. Sigh... Well, I guess I'll be less complacent in the future.
+> 
 > Anyway--now that I've written so much about this post, I might as well take a stab at seeing what I can remember of it:
+> 
 > > Apparently, I have been anointed the Caliph of Rationality. This means that I obviously deserve a harem. If you sleep with me, you will get a free T-shirt with [a large "Yud" character](https://en.wikipedia.org/wiki/Yodh) on it. *(Editor's note: For context, he previously made [another post](http://i.imgur.com/YoJACyY.png) decrying how, even though he himself would be excoriated for selling such shirts, other people currently are making them without his input.)* Use one of the following Facebook reactions according to your opinion of this development...
+> 
 > > > **Like:** "Nah. You're my caliph, but not *that* kind of caliph."
+> 
 > > > **Love:** "In a heartbeat!"
+> 
 > > > **Haha:** *(Something that this editor doesn't remember.)*
+> 
 > > > **Wow:** *(A "squee" fangirl-type exclamation that this editor doesn't remember well enough to do justice to.)*
+> 
 > > > **Sad:** "Maybe later, after I transition."
+> 
 > > > **Angry:** "I've already slept with you! Where's my T-shirt?!"
+> 
 > ---
+> 
 > It can't be denied that [Chatoyance](http://www.fimfiction.net/index.php?view=category&user=1291), of so much infamy in the *Friendship Is Magic* fandom, has been a very prolific creator--and it always bears remembering that, even if you dislike the *majority* of a person's work, there may still be *something* of interest to you buried deep within his accumulated corpus. Several years ago (well before the start of *Friendship Is Magic*, I think), I somehow happened to stumble on [this ancient comic](http://unicornjelly.com), which was started by her way all the way back in 2000. I vaguely remember reading several dozen pages of it before getting confused/bored/something and leaving the site--but the art definitely is *quite* exquisite. Likewise, I personally didn't have too much liking for the art style of [this other comic of hers](http://pasteldefender.com), and dropped it after not too many pages, but I did find the worldbuilding ([this panel](http://pasteldefender.com/images/007.jpg), at the very least) to be fairly interesting.
+> 
 > (Unlike FanFiction.net, FIMFiction.net lacks ID-based links to authors' profiles--so, if I link directly to a person's FIMFiction.net profile, that link will break if the person changes his profile's name. Sigh...)
+> 
 > Some other fun comics:  
 > \- [*Oglaf*](http://oglaf.com): Often, but not always, intercourse-related  
 > \- [*Whomp!*](http://www.whompcomic.com): r/meirl personified  
@@ -600,100 +616,107 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 > \- [*The Non-Adventures of Wonderella*](http://nonadventures.com): Superhero humor  
 > \- [*Invisible Bread*](http://invisiblebread.com): Stick-figure humor  
 > \- [*Leftover Soup*](http://leftoversoup.com): A grab-bag (irksomely lacks an RSS feed)
-> ---
-> Found bare minutes ago in r/all: [A cool time-loop idea](http://i.imgur.com/uAQ8GpK.png)
 > 
+> ---
+> 
+> Found bare minutes ago in r/all: [A cool time-loop idea](http://i.imgur.com/uAQ8GpK.png)
 
->> **u/blazinghand** [+7]  *Chaos Undivided**
+>> **u/blazinghand** [+6]  *Chaos Undivided* (6 hours later)
 >> 
 >> On r/rational:
->> I upvote all rational fiction I see, even if I'm not a reader of it, because I want to encourage authors and people who share. I also upvote the weekly discussion threads and challenges. 
->> I tend to downvote discussion threads like "Rational X???" since I want to signal boost content over discussion. However, I will upvote or ignore these threads sometimes if they are good or if the author's post is very good. I tend to ignore (neither upvote nor downvote) very few threads. I almost always vote.
->> Of the current 25 highest posts (sorted by hot) on r/rational I have upvoted all of them, except Orange Mind, Indie Fund, Interesting Study, and Rationalist Diablo???-- this is a usual rate of upvoting, 85%, for me.
 >> 
+>> I upvote all rational fiction I see, even if I'm not a reader of it, because I want to encourage authors and people who share. I also upvote the weekly discussion threads and challenges. 
+>> 
+>> I tend to downvote discussion threads like "Rational X???" since I want to signal boost content over discussion. However, I will upvote or ignore these threads sometimes if they are good or if the author's post is very good. I tend to ignore (neither upvote nor downvote) very few threads. I almost always vote.
+>> 
+>> Of the current 25 highest posts (sorted by hot) on r/rational I have upvoted all of them, except Orange Mind, Indie Fund, Interesting Study, and Rationalist Diablo???-- this is a usual rate of upvoting, 85%, for me.
 
->> **u/gbear605** [+4]  *history’s greatest story**
+>> **u/gbear605** [+4]  *history’s greatest story* (an hour later)
 >> 
 >> You can use http://feed43.com/4888272440688468.xml to get an RSS feed of Leftover Soup. It doesn't actually link to it for some reason, but it tells you when it updates.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> > Mr. Yudkowsky made a fairly-funny post on Facebook making light of Mr. Alexander's facetiously calling him the rightful Caliph of Rationality--but then he deleted it. When I originally saw it, I considered making a screenshot of it, but decided against it, considering it not funny enough to be worth much prestige here (let alone funny enough for me to save for my personal satisfaction)--and now it's lost forever. Sigh... Well, I guess I'll be less complacent in the future.
->> Also, not saving other people's stuff against their will when they decide to delete it is polite.  Also, there wasn't a reaction face for, "I'm pretty sure 'rationality' shouldn't have a caliph"?  Or for, "HERESY!"?  Come on, man, where's my HERESYBLAM icon when I need it?
 >> 
+>> Also, not saving other people's stuff against their will when they decide to delete it is polite.  Also, there wasn't a reaction face for, "I'm pretty sure 'rationality' shouldn't have a caliph"?  Or for, "HERESY!"?  Come on, man, where's my HERESYBLAM icon when I need it?
 
->> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+4]  *Mouse Army* (6 hours later)
 >> 
 >> Another vote for worldbuilding of the unicorn jelly comic. Awesome reveals and twists etc.
->> 
 
->> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor* (13 hours later)
 >> 
 >> Caelum est Conterrens = Unicorn Jelly!?  I feel like somebody realizing that HPMOR = Sequences for the first time, that webcomic was *awesome.*
->> 
 
->>> **u/None** [+4] *
+>>> **u/None** [+4]  (a day later)
 >>> 
 >>> I think you might be the *least* qualified person to use that particular simile.
->>> 
 
->> **u/MugaSofer** [+2] *
+>> **u/MugaSofer** [+2]  (a day later)
 >> 
 >> [Leftover Soup RSS feed](http://feed43.com/4888272440688468.xml).
->> 
 
->> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (4 hours later)
 >> 
 >> > On this site, are you more likely to downvote a submission or to hide it?
->> Same policy as you, basically - and the same for upvotes. I seriously have to think a submission is good/bad for a sub to bother with the extra click. I'm also more likely to vote in small subs than big ones, since I have a bigger impact and usually care more about that community.
->> > When I originally saw it, I considered making a screenshot of it, but decided against it, considering it not funny enough to be worth much prestige here
->> As curious as deleted posts instinctively make me, I would have respected you less if you had shared a copy of it, and disapprove of the attempt. I support people's right to delete their own posts, because the alternative is a lot of interesting posts not getting written at all.
->> > Leftover Soup: A grab-bag (irksomely lacks an RSS feed)
->> News to me, I can read it through feedly just fine. Maybe it's some internal feedly magic.
 >> 
+>> Same policy as you, basically - and the same for upvotes. I seriously have to think a submission is good/bad for a sub to bother with the extra click. I'm also more likely to vote in small subs than big ones, since I have a bigger impact and usually care more about that community.
+>> 
+>> > When I originally saw it, I considered making a screenshot of it, but decided against it, considering it not funny enough to be worth much prestige here
+>> 
+>> As curious as deleted posts instinctively make me, I would have respected you less if you had shared a copy of it, and disapprove of the attempt. I support people's right to delete their own posts, because the alternative is a lot of interesting posts not getting written at all.
+>> 
+>> > Leftover Soup: A grab-bag (irksomely lacks an RSS feed)
+>> 
+>> News to me, I can read it through feedly just fine. Maybe it's some internal feedly magic.
 
->>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png* (4 hours later)
 >>> 
 >>> > News to me, I can read it through feedly just fine.
->>> About a year ago, the author [mentioned](http://tailsteak.com/reviews/woohooligan.html) that he should do things that respectable webcomic authors did, including setting up a working RSS feed. At that time, the RSS feed had stopped working. Now that I check on Feedly again, I see both a dead feed (last updated almost two years ago) and a live one, which I assume was set up more recently than when I last checked.
 >>> 
+>>> About a year ago, the author [mentioned](http://tailsteak.com/reviews/woohooligan.html) that he should do things that respectable webcomic authors did, including setting up a working RSS feed. At that time, the RSS feed had stopped working. Now that I check on Feedly again, I see both a dead feed (last updated almost two years ago) and a live one, which I assume was set up more recently than when I last checked.
 
->>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages* (19 hours later)
 >>> 
 >>> > I would have respected you less if you had shared a copy of it, and disapprove of the attempt. I support people's right to delete their own posts, because the alternative is a lot of interesting posts not getting written at all.
->>> Hmm, bear with me. Isn’t it a bit entitled to inform that you’d be basing your respect of a person on something like this? I mean, support it as a right if that’s your stance, sure, but that doesn’t mean that others can’t similarly support the right to archiving things that have been openly posted on the internet. And informing people that you’d be respecting them less if they did so seems like a counter-productive way of defending your position on the issue.
->>> That is, saying “I would have respected you less if you had shared a copy of [openly accessible piece of opinion]” is akin to saying the same about someone uploading pictures\videos of someone soapboxing on a public property.
 >>> 
+>>> Hmm, bear with me. Isn’t it a bit entitled to inform that you’d be basing your respect of a person on something like this? I mean, support it as a right if that’s your stance, sure, but that doesn’t mean that others can’t similarly support the right to archiving things that have been openly posted on the internet. And informing people that you’d be respecting them less if they did so seems like a counter-productive way of defending your position on the issue.
+>>> 
+>>> That is, saying “I would have respected you less if you had shared a copy of [openly accessible piece of opinion]” is akin to saying the same about someone uploading pictures\videos of someone soapboxing on a public property.
 
->>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager**
+>>>> **u/Roxolan** [+2]  *Head of antimemetiWalmart senior assistant manager* (a day later)
 >>>> 
 >>>> It seemed like the right choice of words to communicate with /u/ToaKraka, given what I know of him and how he relates to people. He has my apologies if I misjudged. I would not necessarily have used those exact words with someone else.
+>>>> 
 >>>> As for the object-level issue,
 >>>> > the right to archiving things that have been openly posted on the internet.
->>>> Although this has its appeal, I think that on the whole it does more damage than respecting other people's deletions. 
->>>> People sometimes have brain farts or emotional outbursts and say things they immediately regret. Or they change their minds and would rather prevent confusion regarding their current stance. Or (like Yudkowsky) they're famous enough that their every word might get scrutinized by people who don't have their best interests in mind.
->>>> When someone doesn't respect self-deletions, they make people more vulnerable to those things. So people are more likely to just not post potentially controversial things in the first place, and the conversation is poorer for it.
->>>> If the deleted post was super interesting (as happened on another recent occasion in the LW diaspora), then I can at least see the case for sharing the copy. But this is just a bit of humor and opportunity for gossip.
 >>>> 
+>>>> Although this has its appeal, I think that on the whole it does more damage than respecting other people's deletions. 
+>>>> 
+>>>> People sometimes have brain farts or emotional outbursts and say things they immediately regret. Or they change their minds and would rather prevent confusion regarding their current stance. Or (like Yudkowsky) they're famous enough that their every word might get scrutinized by people who don't have their best interests in mind.
+>>>> 
+>>>> When someone doesn't respect self-deletions, they make people more vulnerable to those things. So people are more likely to just not post potentially controversial things in the first place, and the conversation is poorer for it.
+>>>> 
+>>>> If the deleted post was super interesting (as happened on another recent occasion in the LW diaspora), then I can at least see the case for sharing the copy. But this is just a bit of humor and opportunity for gossip.
 
->> **u/RMcD94** [+1] *
+>> **u/RMcD94** [+1]  (2 days later)
 >> 
 >> I have yet to up vote, hide, or downvote even my own comments beyond misclicks and for a short time very early on in my reddit career.
->> 
 
->> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>> **u/Transfuturist** [+1]  *Carthago delenda est.* (3 hours later)
 >> 
 >> Eliezer's post has been immortalized on tumblr.
->> Chatoyance: No. Stop.
 >> 
+>> Chatoyance: No. Stop.
 
-> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager**
+> **u/Roxolan** [+1]  *Head of antimemetiWalmart senior assistant manager* (3 days later)
 > 
 > *Deadpool* is surprisingly good.
-> It's sitting at about the same score as *Ant-Man* on rottentomatoes, and yeah, like *Ant-Man*, it isn't trying very hard.
-> But it's not-trying-very-hard at doing something original, while *Ant-Man* is not-trying-very-hard at telling a bog-standard light-hearted superhero origin story. And the humor was less crap than I expected.
 > 
+> It's sitting at about the same score as *Ant-Man* on rottentomatoes, and yeah, like *Ant-Man*, it isn't trying very hard.
+> 
+> But it's not-trying-very-hard at doing something original, while *Ant-Man* is not-trying-very-hard at telling a bog-standard light-hearted superhero origin story. And the humor was less crap than I expected.
 
 ---
 

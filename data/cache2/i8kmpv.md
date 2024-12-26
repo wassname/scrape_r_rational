@@ -12,17 +12,17 @@
 
 ### Comments:
 
-> **u/Amagineer** [+1] *
+> **u/Amagineer** [+1]  (49 minutes later)
 > 
 > [Here](https://www.reddit.com/r/rational/comments/i76hsw/d_monday_request_and_recommendation_thread/) is this weeks thread. It appears to be pinned. Do you, perhaps, have the "don't show me submissions after I've upvoted them" setting turned on in your [preferences](https://old.reddit.com/prefs/)?
-> 
 
->> **u/Watchful1** [+1] *
+>> **u/Watchful1** [+1]  (55 minutes later)
 >> 
 >> This is what I see: https://i.imgur.com/swOfaeY.png
->> No, I don't have that setting turned on.
->> But if you're seeing it pinned then I guess it's just something with my account rather than something wrong with the sub.
 >> 
+>> No, I don't have that setting turned on.
+>> 
+>> But if you're seeing it pinned then I guess it's just something with my account rather than something wrong with the sub.
 
 ---
 

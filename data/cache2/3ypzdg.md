@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (13 seconds later)
 > 
 > /r/hpmor comment thread: https://www.reddit.com/r/HPMOR/comments/3ypzdt/significant_digits_chapter_thirtyfour_directoire/
-> 
 
 ---
 

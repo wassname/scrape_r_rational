@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/9kjpmt/secret_of_the_patronus_chapter_15_happy_halloween/
-* Score: 3
+* Score: 2
 
 * Created: 2018-10-01T19:53:04
 
@@ -20,17 +20,17 @@ FFN: [https://www.fanfiction.net/s/12975806/15/Harry-Potter-and-the-Secret-of-th
 
 ### Comments:
 
-> **u/CaseyAshford** [+1] *
+> **u/CaseyAshford** [+1]  (an hour later)
 > 
 > This is a very interesting idea but I find the way that this version of Harry Potter is perfectly okay with depersonifying and contributing to the genocide of a sentient species out of disgust over their physical appearance to be both extremely disturbing and radically out of character for the HPMOR version of Harry.
-> Am I missing something that explains this radical change in personality? I would like to know more about how this fanfic alters the character of Harry before I get into it.
 > 
+> Am I missing something that explains this radical change in personality? I would like to know more about how this fanfic alters the character of Harry before I get into it.
 
->> **u/Ms_CIA** [+1]  *Derp**
+>> **u/Ms_CIA** [+1]  *Derp* (an hour later)
 >> 
 >> Are you talking about the Acromantula? He never actually intends to kill them. He's worried about man-eating spiders roaming near the school, and he's angry because one of them threatened the students. He's depersonifying  them a bit because his dark side is in control, but he has no intention of committing murder. He just intends to threaten information out of one of them, so he can figure out how much danger the students are in.
->> Also, while the ending of the chapter is a little ambiguous, the Acromantula aren't exterminated in the end. Just relocated.
 >> 
+>> Also, while the ending of the chapter is a little ambiguous, the Acromantula aren't exterminated in the end. Just relocated.
 
 ---
 

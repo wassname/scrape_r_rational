@@ -2,7 +2,7 @@
 
 * Author: u/Drazelic  *Dai-Gurren Brigade**
 * URL: https://www.reddit.com/r/rational/comments/4zncxn/forty_millenniums_of_cultivation_修真四万年_rt/
-* Score: 68
+* Score: 69
 
 * Created: 2016-08-26T07:10:09
 
@@ -126,268 +126,264 @@ Again: there are over thirteen hundred chapters of this story. The author freque
 
 ### Comments:
 
-> **u/Krozart** [+16] *
+> **u/Krozart** [+16]  (54 minutes later)
 > 
 > Wow, You do a good job selling the story to me. I'm going to give it a read. You hit every thing I don't like about the Xianxia genre, but it sounds like FMoC deals with them in ways I enjoy.
-> If you decide to translate it, feel free to PM me if you want help. I'm fairly busy, and I haven't done big translation projects before, but I wouldn't mind helping out, especially if I get into the story.
-> It also might help to translate the first couple of chapters to see if the English speaking rational fans like it, as I'm not sure how many people can read Chinese in this subreddit. And its hard to tell just from a blurb if people will like it or not.
 > 
+> If you decide to translate it, feel free to PM me if you want help. I'm fairly busy, and I haven't done big translation projects before, but I wouldn't mind helping out, especially if I get into the story.
+> 
+> It also might help to translate the first couple of chapters to see if the English speaking rational fans like it, as I'm not sure how many people can read Chinese in this subreddit. And its hard to tell just from a blurb if people will like it or not.
 
->> **u/Drazelic** [+7]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+6]  *Dai-Gurren Brigade* (17 hours later)
 >> 
 >> I might just in fact do the 'translate a few chapters to gauge interest' thing, but I might not pick the first few chapters for that, because the first few chapters are still somewhat fixed in the traditional mold. The story takes a while to get going, and it doesn't begin to introduce the 'enlightened self-interest vs. regular old self-interest' themes until the end of the prologue, which is around chapter 90.
->> The story begins with a schoolyard bully arc welded together with 'the protagonist applies to kung-fu college', most of which is worldbuilding setup. HPMOR had the advantage that its readers were likely already familiar with the Potterverse; this story had to take a bunch of chapters to explain what it was subverting before it could go and subvert it.
->> (The story has a little bit of early-installment weirdness going on, which is reasonable when you consider that the author basically posts two chapters a day with probably literally no time to edit whatsoever. The real thematically juicy stuff starts showing up around chapter 90 and only gets juicier and juicier from there on out.)
 >> 
+>> The story begins with a schoolyard bully arc welded together with 'the protagonist applies to kung-fu college', most of which is worldbuilding setup. HPMOR had the advantage that its readers were likely already familiar with the Potterverse; this story had to take a bunch of chapters to explain what it was subverting before it could go and subvert it.
+>> 
+>> (The story has a little bit of early-installment weirdness going on, which is reasonable when you consider that the author basically posts two chapters a day with probably literally no time to edit whatsoever. The real thematically juicy stuff starts showing up around chapter 90 and only gets juicier and juicier from there on out.)
 
-> **u/PeterHell** [+9] *
+> **u/PeterHell** [+9]  (22 hours later)
 > 
 > Someone should crosspost this to /r/noveltranslations so maybe some translator would pick it up 
-> Just notice how it's the 40th millennium 
-> Forget the promise of progress and understanding, for in the grim dark future there is only war.
 > 
+> Just notice how it's the 40th millennium 
+> 
+> Forget the promise of progress and understanding, for in the grim dark future there is only war.
 
->> **u/Drazelic** [+8]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+8]  *Dai-Gurren Brigade* (23 hours later)
 >> 
 >> Oh, the 40k in this is *real*. The primary weapons of the human military are *by name* the chainsword and bolter, and part of the backstory includes an "Emperor" who formed twenty "Primary Sects" but was ultimately betrayed by his most favored son, and forced to retreat to a sealed pocket reality in a state halfway between living and dead.
->> (And legends say that the man who finds the lost Emperor's sealed reality will inherit all his techniques and manuals and powers, and become a new Emperor for the new age...)
->> However, so far, all of this seems quite irrelevant to the actual plot, and mostly seems to be textual reference that the author stuck in because they liked WH40k's worldbuilding. (If the story DOES turn out to just be an overblown warhammer fanfiction, I will admit that I'd be *pretty* disappointed.)
->> E: Also, I have never been to r/noveltranslations before! Didn't even know there *was* a centralized place for all this stuff.
 >> 
+>> (And legends say that the man who finds the lost Emperor's sealed reality will inherit all his techniques and manuals and powers, and become a new Emperor for the new age...)
+>> 
+>> However, so far, all of this seems quite irrelevant to the actual plot, and mostly seems to be textual reference that the author stuck in because they liked WH40k's worldbuilding. (If the story DOES turn out to just be an overblown warhammer fanfiction, I will admit that I'd be *pretty* disappointed.)
+>> 
+>> E: Also, I have never been to r/noveltranslations before! Didn't even know there *was* a centralized place for all this stuff.
 
->>> **u/PeterHell** [+6] *
+>>> **u/PeterHell** [+6]  (a day later)
 >>> 
 >>> That subreddit is probably the go to place for translated xianxia. Although the shounen type xianxia is pretty popular there, I have been enjoying some work from korea. 
->>> Recently I have been reading Release that witch. I wonder if you have also. It's has the one man industrial revolution trope with magic
 >>> 
+>>> Recently I have been reading Release that witch. I wonder if you have also. It's has the one man industrial revolution trope with magic
 
->>>> **u/Vardhan-D** [+1] *
+>>>> **u/Vardhan-D** [+1]  (6 years later)
 >>>> 
 >>>> Is release the witch good? I heard good things about it... But I am hesitant to start it. It's not a generic story right?
->>>> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+4]  (a month later)
 >>> 
 >>> Jesus fucking Christ you have made my day in the best way possible.
->>> 
 
->>>> **u/adad64** [+2]  *Chaos Legion**
+>>>> **u/adad64** [+2]  *Chaos Legion* (2 months later)
 >>>> 
 >>>> I only just now realized you weren't the one posting these XD I read the description and assumed it was a /u/eaturbrainz recommendation.
->>>> 
 
->>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (a month later)
 >>>> 
 >>>> :D
->>>> 
 
-> **u/xamueljones** [+9]  *My arch-enemy is entropy**
+> **u/xamueljones** [+8]  *My arch-enemy is entropy* (2 days later)
 > 
 > You're pure EVIL!!!!! You tell us about an amazing story and how it's to the xianxia genre what HPMOR was to Harry Potter and then tell us that there are no translations available!
-> People go to book hell for that!
 > 
+> People go to book hell for that!
 
->> **u/zzxyyzx** [+3] *
+>> **u/zzxyyzx** [+3]  (21 days later)
 >> 
 >> I wish I had paid attention during Chinese classes, shame on me for being (more or less) ethnic Han and living an a majority Chinese country but English is my first language. Wish I could help translate but I'd be limited to the broad meaning of things, for more complex words I'd be as lost as you guys.
->> 
 
-> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life* (6 hours later)
 > 
 > Sounds amazing, though as a non-mandarin speaker I'd be limited to proofreading :)
-> 
 
-> **u/andor3333** [+4] *
+> **u/andor3333** [+4]  (11 hours later)
 > 
 > I've read a couple of xianxia novels and would love to read a story like you are describing. Keep me posted if you decide to translate.
-> 
 
-> **u/Kelkibad** [+5] *
+> **u/Kelkibad** [+3]  (13 days later)
 > 
 > At 1300 chapters, has the author dragged the story on like so many others? And isit nearing its end or still a long way to go till it finishes? How's the romance? And how difficult is the chinese? I can read chinese so i feel abit like reading it. After all, I saw in one of your comments that you read cultivation chat group, and as a raw reader of that i can say very rationally that you have very good taste.
-> 
 
->> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (15 days later)
 >> 
 >> I definitely wouldn't say the author has dragged the story on a lot at all! I've read some *awful* stories where the story clearly has no long-term meaning. This story definitely reads like it has a powerful ending that's been planned from the get-go, and generally speaking all the major plot arcs have progressed the story towards that ending.
->> I know exactly what kind of story you're talking about with xianxia- there's a ton of xianxia stories that just meander around from place to place, not really accomplishing anything, running the same hamster wheel over and over at increasingly large diameters. This story most certainly does *not* suffer from that particular ailment.
 >> 
+>> I know exactly what kind of story you're talking about with xianxia- there's a ton of xianxia stories that just meander around from place to place, not really accomplishing anything, running the same hamster wheel over and over at increasingly large diameters. This story most certainly does *not* suffer from that particular ailment.
 
->>> **u/Kelkibad** [+1] *
+>>> **u/Kelkibad** [+1]  (15 days later)
 >>> 
 >>> Wow thats great! Sorry but er...you haven't answered the rest of my questions haha. Xould you answer them as well?
->>> 
 
->>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>>>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (16 days later)
 >>>> 
 >>>> Oh, sorry.
->>>> I think I addressed how difficult the chinese was in another post, but, really, the best benchmark is to give it a read yourself and see how comfortable you are with the story. The link's right there in the post, after all.
->>>> The romance isn't a huge deal. It's pretty solidly written and the characters are quite three-dimensional, but love isn't what I'd call a major draw of this story. You won't find drama or misunderstandings or romantic conflict or love triangles in this story; the author devotes their energy to other sources of conflict.
->>>> One good thing about the protagonist's love relationship is that you can really tell the author is trying his damned hardest to stay away from the 'powerful man earns love by casually protecting helpless damsel' trope which is unfortunately prevalent in xianxia. This love interest has her own life and motivations, and isn't just an accessory to round out the protagonist's self-insert wish fantasy like so many other romantic interests are.
 >>>> 
+>>>> I think I addressed how difficult the chinese was in another post, but, really, the best benchmark is to give it a read yourself and see how comfortable you are with the story. The link's right there in the post, after all.
+>>>> 
+>>>> The romance isn't a huge deal. It's pretty solidly written and the characters are quite three-dimensional, but love isn't what I'd call a major draw of this story. You won't find drama or misunderstandings or romantic conflict or love triangles in this story; the author devotes their energy to other sources of conflict.
+>>>> 
+>>>> One good thing about the protagonist's love relationship is that you can really tell the author is trying his damned hardest to stay away from the 'powerful man earns love by casually protecting helpless damsel' trope which is unfortunately prevalent in xianxia. This love interest has her own life and motivations, and isn't just an accessory to round out the protagonist's self-insert wish fantasy like so many other romantic interests are.
 
-> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic* (12 hours later)
 > 
 > Sounds very nice, I would love to read it)
-> Speaking of xianxia, have you read "[My Disciple Died Yet Again](http://www.novelupdates.com/series/my-disciple-died-yet-again/)"? It's a genre deconstruction novel that follows most of the common tropes yet lampshades and explains their many faults. It also has an adorable protagonist, good comedy and a very nice english translation)
 > 
+> Speaking of xianxia, have you read "[My Disciple Died Yet Again](http://www.novelupdates.com/series/my-disciple-died-yet-again/)"? It's a genre deconstruction novel that follows most of the common tropes yet lampshades and explains their many faults. It also has an adorable protagonist, good comedy and a very nice english translation)
 
->> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (17 hours later)
 >> 
 >> Yep! Finished it a while back.
->> My primary criticism of it would seem to be that the ending doesn't provide a strong answer to the question posed; it's not quite a deus-ex-machina everyone-lives-happily-ever-after ending, but it definitely veered in that direction just a little at the end. Otherwise, it was a pretty great Xianxia novel!
 >> 
+>> My primary criticism of it would seem to be that the ending doesn't provide a strong answer to the question posed; it's not quite a deus-ex-machina everyone-lives-happily-ever-after ending, but it definitely veered in that direction just a little at the end. Otherwise, it was a pretty great Xianxia novel!
 
->>> **u/abcd_z** [+2] *
+>>> **u/abcd_z** [+2]  (a day later)
 >>> 
 >>> What about "Cultivation Chat Group"; have you read that?
->>> 
 
->>>> **u/Drazelic** [+3]  *Dai-Gurren Brigade**
+>>>> **u/Drazelic** [+3]  *Dai-Gurren Brigade* (a day later)
 >>>> 
 >>>> Yep! I read that one on a consistent basis as well.
->>>> 
 
-> **u/trekie140** [+2] *
+> **u/trekie140** [+2]  (12 hours later)
 > 
 > I have zero experience with this genre and no knowledge of Chinese, and I'm already sold on this story. If the author makes money off this story, maybe you could ask them about funding translators as an investment in a new market?
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (6 hours later)
 > 
 > I'm regretting giving up after two years of mandarin class in high school now
-> 
 
-> **u/whywhisperwhy** [+1] *
+> **u/whywhisperwhy** [+1]  (16 hours later)
 > 
 > A lot of people saying they'll read it; would someone please post their opinions afterwards? It sounds great but I'm skeptical after several other xanxia recommendations.
-> 
 
-> **u/SaintPeter74** [+1] *
+> **u/SaintPeter74** [+1]  (20 hours later)
 > 
 > This sound fascinating.  As others have requested, it would be nice to see a few chapters to gauge actual interest.
-> 
 
-> **u/Newfur** [+1]  *Crazy like a fox. Literally.**
+> **u/Newfur** [+1]  *Crazy like a fox. Literally.* (3 days later)
 > 
 > I would absolutely give this a read if it were in English. Please translate! Maybe put up a Patreon?
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (12 days later)
 > 
 > [deleted]
-> 
 
->> **u/Drazelic** [+3]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+3]  *Dai-Gurren Brigade* (15 days later)
 >> 
 >> I personally find this novel quite easy to read, but I'm a native chinese speaker, so my subjective experience probably isn't exactly representational. (That, and I don't really have any experience with what level of reading comprehension 3rd year college chinese represents.)
->> The story definitely isn't shakespearean in linguistic sophistication, though; the characters speak with modern chinese internet slang to reinforce the central setting theme of 'a rational magic-using culture that's adapted to the modern age'. 
->> The author also loves coining neologisms that combine real-life STEM/engineering terms with traditional xianxia/taoist-mysticist terminology to create entirely new words- again, to reinforce that 'magic in the age of science' feel the story has. Depending on how familiar you are with physics/chemistry/mathematics terms in chinese, this may or may not be difficult for you.
->> As an example, the protagonist talks about Dyson Spheres in this setting and wonders if their civilization could eventually aspire to the construction of one- but in this setting, the concept of a circumstellar energy-harvesting device is known as a Pangu Sphere (named after the mythological world-creating figure in taoist mythology who divided the earth from the heavens).
->> Because obviously Freeman Dyson doesn't exist in this story's setting. 
->> Other similar examples include the renaming of the Pythagorean Theorem after a fictional historical Cultivator who invented the mathematical theorem, the renaming of the unit of measurement 'Newton' after a different historical figure, etc.
->> The author even writes in a segment where the protagonist freaks out when he realizes that the 'Galactic Standard' he speaks is identical to modern chinese, which should have been impossible since modern chinese has since adapted some loanwords from other languages. (This eventually became a plot point of the overall story.) This particular segment depends on one's familiarity with modern chinese diction, obviously.
->> (If you do decide to read the story, feel free to bother me if you don't know what a particular segment really means! I'd love to be able to talk with lots more people about this story.)
 >> 
+>> The story definitely isn't shakespearean in linguistic sophistication, though; the characters speak with modern chinese internet slang to reinforce the central setting theme of 'a rational magic-using culture that's adapted to the modern age'. 
+>> 
+>> The author also loves coining neologisms that combine real-life STEM/engineering terms with traditional xianxia/taoist-mysticist terminology to create entirely new words- again, to reinforce that 'magic in the age of science' feel the story has. Depending on how familiar you are with physics/chemistry/mathematics terms in chinese, this may or may not be difficult for you.
+>> 
+>> As an example, the protagonist talks about Dyson Spheres in this setting and wonders if their civilization could eventually aspire to the construction of one- but in this setting, the concept of a circumstellar energy-harvesting device is known as a Pangu Sphere (named after the mythological world-creating figure in taoist mythology who divided the earth from the heavens).
+>> 
+>> Because obviously Freeman Dyson doesn't exist in this story's setting. 
+>> 
+>> Other similar examples include the renaming of the Pythagorean Theorem after a fictional historical Cultivator who invented the mathematical theorem, the renaming of the unit of measurement 'Newton' after a different historical figure, etc.
+>> 
+>> The author even writes in a segment where the protagonist freaks out when he realizes that the 'Galactic Standard' he speaks is identical to modern chinese, which should have been impossible since modern chinese has since adapted some loanwords from other languages. (This eventually became a plot point of the overall story.) This particular segment depends on one's familiarity with modern chinese diction, obviously.
+>> 
+>> (If you do decide to read the story, feel free to bother me if you don't know what a particular segment really means! I'd love to be able to talk with lots more people about this story.)
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (15 days later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Drazelic** [+3]  *Dai-Gurren Brigade**
+>>>> **u/Drazelic** [+3]  *Dai-Gurren Brigade* (15 days later)
 >>>> 
 >>>> Aw, that's a shame. (Fun fact: this story actually has a lot of references to Three Body Problem built into it, too- the repeated symbol of the 'dark forest' and 'chain of suspicion' were lifted directly from Three Body, according to the author of Cultivation40k- and both stories deal with extremely similar themes!)
->>>> ...Maybe when I finally buckle down and get going with that translation I want to do.
 >>>> 
+>>>> ...Maybe when I finally buckle down and get going with that translation I want to do.
 
-> **u/Hexwolfx** [+1] *
+> **u/Hexwolfx** [+1]  (a month later)
 > 
 > Is there a harem?
-> 
 
->> **u/Drazelic** [+3]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+3]  *Dai-Gurren Brigade* (a month later)
 >> 
 >> I regret that reddit does not afford me a larger, bolder font with which to say: **NO**.
->> Harems are a plague of the xianxia and isekai genres. This novel avoids that stale trope by having an *actual romantic relationship between two developed characters*, thankfully enough!
 >> 
+>> Harems are a plague of the xianxia and isekai genres. This novel avoids that stale trope by having an *actual romantic relationship between two developed characters*, thankfully enough!
 
->>> **u/Bombalia** [+1] *
+>>> **u/Bombalia** [+1]  (a month later)
 >>> 
 >>> Actually reddit does.
->>> #No
->>> Put a hashtag in front of your words
 >>> 
+>>> #No
+>>> 
+>>> Put a hashtag in front of your words
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a month later)
 > 
 > Hey, I hope I'm not being rude by asking this, but are you, by any chance, translating a few sample chapters of this like you mentioned [here](https://www.reddit.com/r/rational/comments/4zncxn/forty_millenniums_of_cultivation_%E4%BF%AE%E7%9C%9F%E5%9B%9B%E4%B8%87%E5%B9%B4_rt/d6y8nse)?
-> If you don't have the time, ability, or energy to translate it, have you considered recommending it to sites that translate wuxia novels as a new project? The only one I found with a five-minute Google search which seems reliable and high-quality is [WuxiaWorld](http://www.wuxiaworld.com/). But maybe you know of a better site?
-> I'm just really hopeful about this being translated sometime in my lifetime without needing to learn Chinese to read it.
-> EDIT: NEVER MIND! I *just* checked on /r/noveltranslations and found that someone started translating it. Is it you posting it to [here](https://friendshipispower.wordpress.com/forty-millenniums-of-cultivation-chapters/)? I'll put up a post about it on this subreddit.
 > 
+> If you don't have the time, ability, or energy to translate it, have you considered recommending it to sites that translate wuxia novels as a new project? The only one I found with a five-minute Google search which seems reliable and high-quality is [WuxiaWorld](http://www.wuxiaworld.com/). But maybe you know of a better site?
+> 
+> I'm just really hopeful about this being translated sometime in my lifetime without needing to learn Chinese to read it.
+> 
+> EDIT: NEVER MIND! I *just* checked on /r/noveltranslations and found that someone started translating it. Is it you posting it to [here](https://friendshipispower.wordpress.com/forty-millenniums-of-cultivation-chapters/)? I'll put up a post about it on this subreddit.
 
-> **u/Cheese_Ninja** [+1] *
+> **u/Cheese_Ninja** [+1]  (3 months later)
 > 
 > I'm at 693 in the raws by using MTL, and have yet to see any giant mecha.  A ton of powered suits (2-2.5 meters), and a bit of disposable additional armor for the powered suits that make them into large mecha. (3-4 meters)
-> And a lot of plots within plots with backup plots, executed by both the MC and antagonists. Which I really do enjoy, but occasionally wish were less wordy, since there are limits with MTL as to how clear their discussions are. MC is constantly hiding his power level (metaphorically, almost everyone is doing so literally).
-> The "Who/what are you?" line followed up with his response of a pause, then "Actually, I'm a good person." was one of the funniest lines I've read recently.
 > 
+> And a lot of plots within plots with backup plots, executed by both the MC and antagonists. Which I really do enjoy, but occasionally wish were less wordy, since there are limits with MTL as to how clear their discussions are. MC is constantly hiding his power level (metaphorically, almost everyone is doing so literally).
+> 
+> The "Who/what are you?" line followed up with his response of a pause, then "Actually, I'm a good person." was one of the funniest lines I've read recently.
 
->> **u/Drazelic** [+1]  *Dai-Gurren Brigade**
+>> **u/Drazelic** [+1]  *Dai-Gurren Brigade* (3 months later)
 >> 
 >> Yeah, you're right- it's all 2-4 meter powered armor until, um, around chapter 1300-ish, which is where they start piloting properly giant mechas. While wearing their powered armor. Y'know, the ol' Gurren Lagann thing.
->> And, yeah, this protagonist is fucking hilarious and I wish more protagonists were like that.
 >> 
+>> And, yeah, this protagonist is fucking hilarious and I wish more protagonists were like that.
 
->>> **u/Cheese_Ninja** [+1] *
+>>> **u/Cheese_Ninja** [+1]  (3 months later)
 >>> 
 >>> There's definitely humor in the other Chinese web novels I've been reading, but that just struck me as one of the funniest lines I've seen lately. 
->>> It was like the "Nice bird, asshole!" line from the Lies of Locke Lamora, something that without context and buildup wouldn't be too funny, but with those, becomes absolutely hilarious.
->>> I'm at 713 right now, and curious as to whether the space pirate king will become an ally or just be an "enemy of my enemy".  He's only just been introduced, but seems pretty cool.
 >>> 
+>>> It was like the "Nice bird, asshole!" line from the Lies of Locke Lamora, something that without context and buildup wouldn't be too funny, but with those, becomes absolutely hilarious.
+>>> 
+>>> I'm at 713 right now, and curious as to whether the space pirate king will become an ally or just be an "enemy of my enemy".  He's only just been introduced, but seems pretty cool.
 
->>>> **u/Cakefleet** [+1] *
+>>>> **u/Cakefleet** [+1]  (4 months later)
 >>>> 
 >>>> How is MTL?
->>>> 
 
->>>>> **u/Cheese_Ninja** [+1] *
+>>>>> **u/Cheese_Ninja** [+1]  (4 months later)
 >>>>> 
 >>>>> Names of places/people/things are a mess, but surprisingly understandable otherwise. I'd say 80-90% comprehension. Individual scenes/details are more difficult to comprehend than the overall chapters and story.
->>>>> 
 
-> **u/Krakyziabr** [+1] *
+> **u/Krakyziabr** [+1]  (4 months later)
 > 
 > Xianxia and GIANT MECHAS , oh my dog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-> 
 
-> **u/tinteh** [+1] *
+> **u/tinteh** [+1]  (5 years later)
 > 
 > Just finished reading FMOC (last one thousand chapters were MTL). I know this post is 5 years old, but seriously, this story starts out as a mecha cultivation novel with really nice world building, then just keeps building with the moral-ethical dilemmas and new villains, and meta-meta storylines and exploring the concept of simulated life and universes (with just enough hand-waving to make it all work).
-> Really recommend it, but I’m sure there’s going to be a lot of people who will drop it halfway. The payoff is worth it (tho MTL hurts my brain seriously)
 > 
+> Really recommend it, but I’m sure there’s going to be a lot of people who will drop it halfway. The payoff is worth it (tho MTL hurts my brain seriously)
 
-> **u/Vardhan-D** [+1] *
+> **u/Vardhan-D** [+1]  (6 years later)
 > 
 > Hey, read the posts & u seem to have a lot of novels. 
 > Can u recommend few novels which r story driven & fast paced & have deep story. ( english or Chinese or Japanese novels, any r fine but translated to eng). 
 > Currently I am reading HPMOR & I am really enjoying it. 
 > Also I am really interested in reading FMoC.
-> 
 
-> **u/Vardhan-D** [+1] *
+> **u/Vardhan-D** [+1]  (6 years later)
 > 
 > So, was it good till the end (I.e around 3.5k chpts) ?
-> 
 
-> **u/EsquilaxM** [+1] *
+> **u/EsquilaxM** [+1]  (7 years later)
 > 
 > Just checked in after idk how long and saw this series is [completely translated by webnovel](https://www.webnovel.com/book/forty-millenniums-of-cultivation_6838665402001705)
-> Apparently I have to download the app to read it, idk if we have to pay, too. I've not used it before. I hope not cos....3000 chapters of payments would be ridiculous.
-> There's also a [manhua](https://www.mangaupdates.com/series/qawq65t/xiuzhen-si-wan-nian) that has been translated but it's only 372 chapters, last released a year ago. idk if it'll continue. And idk how many webnovel chapters that adapts or how much worldbuilding it skips.
-> There's also a donghua but eh.
 > 
+> Apparently I have to download the app to read it, idk if we have to pay, too. I've not used it before. I hope not cos....3000 chapters of payments would be ridiculous.
+> 
+> There's also a [manhua](https://www.mangaupdates.com/series/qawq65t/xiuzhen-si-wan-nian) that has been translated but it's only 372 chapters, last released a year ago. idk if it'll continue. And idk how many webnovel chapters that adapts or how much worldbuilding it skips.
+> 
+> There's also a donghua but eh.
 
 ---
 

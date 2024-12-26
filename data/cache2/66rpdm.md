@@ -2,7 +2,7 @@
 
 * Author: u/miriberkeley *
 * URL: https://www.reddit.com/r/rational/comments/66rpdm/announcement_intelligence_in_literature_prize_20/
-* Score: 39
+* Score: 35
 
 * Created: 2017-04-21T20:11:11
 
@@ -64,20 +64,17 @@ To contact us for any reason, write to intelligenceprize@gmail.com with the word
 
 ### Comments:
 
-> **u/rhaps0dy4** [+2] *
+> **u/rhaps0dy4** [+2]  (an hour later)
 > 
 > Why did the Prize 1.0 not work out?
-> 
 
->> **u/miriberkeley** [+10] *
+>> **u/miriberkeley** [+9]  (2 hours later)
 >> 
 >> It didn't fail, exactly, but it didn't (as far as I know) generate any *new* stories, so we're trying a second, higher-visibility push with a larger prize.
->> 
 
->>> **u/696e6372656469626c65** [+3]  *I think, therefore I am pretentious.**
+>>> **u/696e6372656469626c65** [+3]  *I think, therefore I am pretentious.* (12 hours later)
 >>> 
 >>> Just out of curiosity (you don't have to answer if you don't want to): which MIRI employee are you?
->>> 
 
 ---
 

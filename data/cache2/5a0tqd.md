@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/5a0tqd/d_saturday_munchkinry_thread/
-* Score: 13
+* Score: 12
 
 * Created: 2016-10-29T15:04:39
 
@@ -24,124 +24,135 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/ZeroNihilist** [+11] *
+> **u/ZeroNihilist** [+11]  (2 hours later)
 > 
 > You are able to meditate to create ex nihilo any device you have ever taken apart and meditated upon.
-> The time to create these devices is, in hours, the logarithm (base 2) of how many "parts" the device has. So if your device has 1024 parts when fully disassembled, it would take 10 hours. This means that creating one very complex device is much faster than creating its components individually.
-> During a creation you may not do anything but meditate. That means no eating, sleeping, or using the bathroom. Your trance state prevents any urges you may have from forcing a response, but will not negate the physical effects (e.g. you may starve to death, but you will not suffer hunger pangs). You may still wake yourself manually if you wish, but your awareness of the world will be greatly reduced. Partial meditations have no effect.
-> Disassembly is only necessary for parts you have not already disassembled and meditated upon, and can be assumed to stop at a "reasonable" point (e.g. you'd only have to separate the blades and handle of a pair of scissors, not decompose the parts into atoms). This familiarity does not affect the creation time, only the examination time.
-> The examining meditation requires you to form a good mental picture of the object, so you would have to have seen it from all angles. This meditation always takes exactly one hour, not including the time to form the mental picture. You can do these meditations one part at a time.
-> Lastly, there is a well-resourced intelligence agency out there that is aware of your existence but not your identity or location. They want to kidnap you so they can take advantage of your power themselves.
 > 
+> The time to create these devices is, in hours, the logarithm (base 2) of how many "parts" the device has. So if your device has 1024 parts when fully disassembled, it would take 10 hours. This means that creating one very complex device is much faster than creating its components individually.
+> 
+> During a creation you may not do anything but meditate. That means no eating, sleeping, or using the bathroom. Your trance state prevents any urges you may have from forcing a response, but will not negate the physical effects (e.g. you may starve to death, but you will not suffer hunger pangs). You may still wake yourself manually if you wish, but your awareness of the world will be greatly reduced. Partial meditations have no effect.
+> 
+> Disassembly is only necessary for parts you have not already disassembled and meditated upon, and can be assumed to stop at a "reasonable" point (e.g. you'd only have to separate the blades and handle of a pair of scissors, not decompose the parts into atoms). This familiarity does not affect the creation time, only the examination time.
+> 
+> The examining meditation requires you to form a good mental picture of the object, so you would have to have seen it from all angles. This meditation always takes exactly one hour, not including the time to form the mental picture. You can do these meditations one part at a time.
+> 
+> Lastly, there is a well-resourced intelligence agency out there that is aware of your existence but not your identity or location. They want to kidnap you so they can take advantage of your power themselves.
 
->> **u/zarraha** [+13] *
+>> **u/zarraha** [+12]  (3 hours later)
 >> 
 >> The agency aside, this power is completely and utterly broken if there aren't any size restrictions.  Just obtain a relatively valuable material like a gold bar (one part).  Make a couple of copies, then melt them together to make a "large gold bar".  Make a copy of copies of those, make a "larger gold bar" etc.  You have exponential growth until size restrictions start making it harder to melt them down.
->> You could also do something similar with more complicated objects that can't be melted together.  If an object has n parts, then if you just tie or weakly glue m of them together into a "n-object", just give it a stupid name and copy your new invention.  Then you can make a copy in log(mn) = log(m) + log(n) time.  Then disassemble the n-object into its useful components.  As m gets larger the ratio of objects to time goes to infinity.
->> So basically you can mass produce anything with ridiculous efficiency as long as you do it in bulk.  Definitely enough to break the world economy.
->> Hiring bodyguards should be relatively simple with your ridiculous newfound wealth.  The only question is when the government finds out, can you make a good deal with them to let you be rich and wealthy while producing whatever they want, or if they'll just force you to do it trapped in a lab somewhere.
 >> 
+>> You could also do something similar with more complicated objects that can't be melted together.  If an object has n parts, then if you just tie or weakly glue m of them together into a "n-object", just give it a stupid name and copy your new invention.  Then you can make a copy in log(mn) = log(m) + log(n) time.  Then disassemble the n-object into its useful components.  As m gets larger the ratio of objects to time goes to infinity.
+>> 
+>> So basically you can mass produce anything with ridiculous efficiency as long as you do it in bulk.  Definitely enough to break the world economy.
+>> 
+>> Hiring bodyguards should be relatively simple with your ridiculous newfound wealth.  The only question is when the government finds out, can you make a good deal with them to let you be rich and wealthy while producing whatever they want, or if they'll just force you to do it trapped in a lab somewhere.
 
->>> **u/ZeroNihilist** [+3] *
+>>> **u/ZeroNihilist** [+3]  (14 hours later)
 >>> 
 >>> Originally I was working with a mass-based concept, but that biased things towards complex devices.
->>> Then I considered a time function that was harsher than logarithmic, which meant that you would effectively never be able to create any complex device at all (or creating something simple would be virtually instant).
->>> And using a hybrid was far too complicated for this sort of thread.
->>> With the current system, creating a CPU alone would take more than 30 hours (assuming 1.4 billion transistors). A full computer I'm guessing would take maybe 35.
->>> I could scale it up and say that it's 4 hours per log 2 of parts, which means you start running up against human limits of endurance. ~6 days to build a computer would mean you'd have to solve the food/water/excretion problems. 10 days (1*10^18 parts) and you would have to sleep, which would be the hard limit I think.
 >>> 
+>>> Then I considered a time function that was harsher than logarithmic, which meant that you would effectively never be able to create any complex device at all (or creating something simple would be virtually instant).
+>>> 
+>>> And using a hybrid was far too complicated for this sort of thread.
+>>> 
+>>> With the current system, creating a CPU alone would take more than 30 hours (assuming 1.4 billion transistors). A full computer I'm guessing would take maybe 35.
+>>> 
+>>> I could scale it up and say that it's 4 hours per log 2 of parts, which means you start running up against human limits of endurance. ~6 days to build a computer would mean you'd have to solve the food/water/excretion problems. 10 days (1*10^18 parts) and you would have to sleep, which would be the hard limit I think.
 
->>>> **u/zarraha** [+3] *
+>>>> **u/zarraha** [+3]  (22 hours later)
 >>>> 
 >>>> I think log is fair in terms of complexity.  You've succesfully shielded it against complexity-munchkinry, but not against size munchkinry.  Again, making large but simple objects can be worth massive amounts of money simply as raw materials.  People will never actually make a computer, they'd just make a huge block of gold, or something inherently valuable like printer ink, sell it, then just buy a computer.
->>>> Maybe a combination would be appropriate, like the time cost is m * log(p), where m is mass (up to some constant, like 30 minutes per kilogram or 1 hour per kilogram or 2 hours per kilogram)  and p is the number of parts.
->>>> It's certainly more complicated than log(p).  But the exact times aren't important for the munchkinry thread, what's important is how it generally behaves: m * log(p) grows linearly with m, and diminishingly with p.
->>>> Even then this will still incentivize creating blocks of pure valuable resources rather than anything genuinely complex.  It might be more interesting if people had this power in an environment where they didn't have access to a global economy, such as a medieval (possibly fantasy) world, a place with no humans where they have to survive against the environment, or just have all humankind as their enemy so they refuse to trade.  Or they fail if anyone finds out about the power so they have to be careful about selling too much of something they can't reasonably explain
 >>>> 
+>>>> Maybe a combination would be appropriate, like the time cost is m * log(p), where m is mass (up to some constant, like 30 minutes per kilogram or 1 hour per kilogram or 2 hours per kilogram)  and p is the number of parts.
+>>>> 
+>>>> It's certainly more complicated than log(p).  But the exact times aren't important for the munchkinry thread, what's important is how it generally behaves: m * log(p) grows linearly with m, and diminishingly with p.
+>>>> 
+>>>> Even then this will still incentivize creating blocks of pure valuable resources rather than anything genuinely complex.  It might be more interesting if people had this power in an environment where they didn't have access to a global economy, such as a medieval (possibly fantasy) world, a place with no humans where they have to survive against the environment, or just have all humankind as their enemy so they refuse to trade.  Or they fail if anyone finds out about the power so they have to be careful about selling too much of something they can't reasonably explain
 
->> **u/Jiro_T** [+2] *
+>> **u/Jiro_T** [+2]  (a day later)
 >> 
 >> "Part" is not a concept which divides reality at the seams and is like magic that can't create food or gold, magic that only works on "objects", etc.  "Part, stopping at a reasonable point" is as bad, except that you've separated out the problem from the word "part" into the word "reasonable" instead.
->> A big part of munchkining this will be trying to figure out exactly what counts as a reasonable disassembly into parts.  How easily you can munchkin it depends on where the power is on the lumper versus splitter scale.
->> Also, can you create a thing with information content, such as a book or computer drive?  (And if you can't, does that mean that if you try to create an object with lots of fine but irrelevant detail, such as the microscopic bumps in a sheet of paper, you also can't?)
 >> 
+>> A big part of munchkining this will be trying to figure out exactly what counts as a reasonable disassembly into parts.  How easily you can munchkin it depends on where the power is on the lumper versus splitter scale.
+>> 
+>> Also, can you create a thing with information content, such as a book or computer drive?  (And if you can't, does that mean that if you try to create an object with lots of fine but irrelevant detail, such as the microscopic bumps in a sheet of paper, you also can't?)
 
->>> **u/ZeroNihilist** [+2] *
+>>> **u/ZeroNihilist** [+2]  (a day later)
 >>> 
 >>> The point of "part" is to represent complexity in a sense. Because the time to create is logarithmic it isn't critical what constitutes a part; if you're off by a factor of 10, it's only a difference of around 3 hours and 19 minutes.
->>> Disassembly is more complex. It isn't strictly necessary for the power, provided you can get a visual of each part. If the interior of a part is meaningful, you'd need a visual of that too.
->>> You could create something with information content. If it noticeably affects the appearance of the part you'd need to visualise it as normal, but hard drive platters (for example) would all be reproduced as is.
 >>> 
+>>> Disassembly is more complex. It isn't strictly necessary for the power, provided you can get a visual of each part. If the interior of a part is meaningful, you'd need a visual of that too.
+>>> 
+>>> You could create something with information content. If it noticeably affects the appearance of the part you'd need to visualise it as normal, but hard drive platters (for example) would all be reproduced as is.
 
->> **u/VanPeer** [+1]  *The shard made me do it**
+>> **u/VanPeer** [+1]  *The shard made me do it* (3 hours later)
 >> 
 >> 1. Conjure arbitrary amounts of antimatter ex nihilo, for limitless power generation, after examining atomic nuclei composed of antimatter pairs using an electron microscope.
+>> 
 >> 2. 
 >> (a). Since living organisms are also 'devices', conjure an army of geniuses, after examining the cadaver of a genius. 
 >> (b). Initiate singularity
 >> (c). Profit ?
->> 
 
->>> **u/ZeroNihilist** [+2] *
+>>> **u/ZeroNihilist** [+2]  (4 hours later)
 >>> 
 >>> For the second point, you'd have to take apart and examine them while they were still alive, otherwise you'd just be producing corpses.
->>> You could create organs for transplants however.
 >>> 
+>>> You could create organs for transplants however.
 
->>>> **u/VanPeer** [+2]  *The shard made me do it**
+>>>> **u/VanPeer** [+2]  *The shard made me do it* (4 hours later)
 >>>> 
 >>>> Ugh, good point.
 >>>> Still creating organs ex nihilo, for transplant, would be a huge deal for humanity. 
 >>>> I'm inclined to agree that this power, as stated, is pretty broken. Can he conjure a second sun in the sky, after meditating on the sun for a while ? After all the sun is arguably a monolithic complex 'device'. Quick road to extinction...
->>>> 
 
->>>>> **u/ZeroNihilist** [+1] *
+>>>>> **u/ZeroNihilist** [+1]  (14 hours later)
 >>>>> 
 >>>>> I'd say that you could create a sun if you were able go get sufficiently high resolution pictures of its surface and core and visualise it (which, given its size, is probably not possible).
->>>>> 
 
->> **u/vakusdrake** [+1] *
+>> **u/vakusdrake** [+1]  (9 hours later)
 >> 
 >> Well the first step is to meditate on yourself (may not take long depending on whether each bone counts as a part) then create clones of yourself who will also presumably have your power.            
 >> You will want to find a powerful organization that can protect you from the organization; which is likely the hardest part since you don't know who you can trust not to sell you out to the government/organization.
->> If you manage to secure your safety then you will be able to make absurd profits creating massive blocks of various extremely rare materials. More importantly your army of clones can copy many researchers to vastly accelerate the rate of technological and scientific progress.
 >> 
+>> If you manage to secure your safety then you will be able to make absurd profits creating massive blocks of various extremely rare materials. More importantly your army of clones can copy many researchers to vastly accelerate the rate of technological and scientific progress.
 
->>> **u/ZeroNihilist** [+1] *
+>>> **u/ZeroNihilist** [+1]  (14 hours later)
 >>> 
 >>> In order to clone yourself you'd need to take yourself apart and meditate on your components. This would be doable for most organs, but you'd struggle with the brain, spine, and heart.
->>> Making profit is definitely easy with this power, but doing so without giving away your location is hard.
 >>> 
+>>> Making profit is definitely easy with this power, but doing so without giving away your location is hard.
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (16 hours later)
 >>>> 
 >>>> Now that I think about it you wouldn't even need to do that, _the body is pretty much one piece_. There aren't really parts of the body that could come out then just stick back in. Everything in your body is physically connected to each other.              
 >>>> The organs are all connected to the body as a whole, you can't just take them out and slot new one's in without cutting and stitching and stuff. Hell the bones are even connected to the circulatory system now that I think about it because that's where blood cells are produced.
->>>> 
 
->>>>> **u/ZeroNihilist** [+1] *
+>>>>> **u/ZeroNihilist** [+1]  (16 hours later)
 >>>>> 
 >>>>> They would still be considered multiple parts. It's more based on similarity than connectivity; a blade is one part because it's all a contiguous sheet of one alloy, but a muscle isn't close enough to even other muscles (bilateral similarity excepted) to be interchangeable.
->>>>> 
 
->>>>>> **u/vakusdrake** [+1] *
+>>>>>> **u/vakusdrake** [+1]  (17 hours later)
 >>>>>> 
 >>>>>> You seem to have switched your definition for what counts as an object. By this new logic every muscle fiber would be it's own object and in fact the idea of _any_ non-homogenous object would be nonsense, which is clearly not what you had in mind.          
 >>>>>> Basically there's no definition of part you can use that allows non-homogeneous objects, but still counts the body as more than one part.
->>>>>> But nonsensical definitions aside; there's the question of what counts as disassembling. You would also think that the point of disassembling is to gain information about the parts, if that's the case you could do just fine with a MRI.
 >>>>>> 
+>>>>>> But nonsensical definitions aside; there's the question of what counts as disassembling. You would also think that the point of disassembling is to gain information about the parts, if that's the case you could do just fine with a MRI.
 
->>>>>>> **u/ZeroNihilist** [+3] *
+>>>>>>> **u/ZeroNihilist** [+3]  (18 hours later)
 >>>>>>> 
 >>>>>>> The examples I gave were taking apart scissors and decomposing electronics into transistors. If separability was the only issue, everything welded, glued, or riveted together would count as one part, which would defeat the purpose of the hypothetical.
->>>>>>> Ultimately I can't give a consistent definition because it's physically nonsensical. It relies on human understanding.
->>>>>>> I could rule that you can only use the power on things that were mechanically assembled, in which case "part" reflects how it was assembled.
->>>>>>> The disassembling is to get a visual. MRI wouldn't count but a camera would. You'd need to be able to visualise them from every angle. This would be a problem for the brain, unless you had very good detail of the folds.
 >>>>>>> 
+>>>>>>> Ultimately I can't give a consistent definition because it's physically nonsensical. It relies on human understanding.
+>>>>>>> 
+>>>>>>> I could rule that you can only use the power on things that were mechanically assembled, in which case "part" reflects how it was assembled.
+>>>>>>> 
+>>>>>>> The disassembling is to get a visual. MRI wouldn't count but a camera would. You'd need to be able to visualise them from every angle. This would be a problem for the brain, unless you had very good detail of the folds.
 
->>>>>>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast**
+>>>>>>>> **u/crivtox** [+2]  *Closed Time Loop Enthusiast* (23 hours later)
 >>>>>>>> 
->>>>>>>> I don't understand what system you are using to decide the amount of parts,If it's based in human understanding does that mean the power is:
+>>>>>>>>  I don't understand what system you are using to decide the amount of parts,If it's based in human understanding does that mean the power is:
 >>>>>>>> A)using what I'm visualizing as a part when imagining the device
 >>>>>>>> B)using what most people thinks as a part in that concrete case
 >>>>>>>> C) using a fixed definition of part that is based on human intuitions 
@@ -150,284 +161,338 @@ Good Luck and Have Fun!
 >>>>>>>> If you are making a transistor then does that count as a one part object or in this case it counts the components of a transistor ?( I suppose yes because you need to disassemble it)  .
 >>>>>>>> Can I make a object that is made of a computer and other things or multiple computers( like a  supercomputer based on parallel processors )and count the computer as a part ?.
 >>>>>>>> Can I make something that only has one part by whatever definition you are using ?
->>>>>>>> I don't know if I'm being clear , please tell me if you don't understand any of my questions because I'm bad at explaining myself and usually fall to de illusion of transparency(especially because English isn't my first language)
 >>>>>>>> 
+>>>>>>>> I don't know if I'm being clear , please tell me if you don't understand any of my questions because I'm bad at explaining myself and usually fall to de illusion of transparency(especially because English isn't my first language)
 
->>>>>>>> **u/vakusdrake** [+0] *
+>>>>>>>> **u/vakusdrake** [+0]  (18 hours later)
 >>>>>>>> 
 >>>>>>>> Having to visualize them from every angle is a weird restriction (since it preferences information about the surface of an object over it's innards), but it doesn't really explain why a MRI wouldn't work just fine. _Surely_ the power doesn't care that you know _what color_ something is, you can certainly get far more information about an object's structure from those sorts of imaging than you can with just a camera.    
->>>>>>>> >You'd need to be able to visualise them from every angle. This would be a problem for the brain, unless you had very good detail of the folds
->>>>>>>> Depending on what you're saying here you also may have the problem that _humans can't imagine an object from all directions at once_. You have to switch between imaginary vantage points when imagining an object.
 >>>>>>>> 
+>>>>>>>> >You'd need to be able to visualise them from every angle. This would be a problem for the brain, unless you had very good detail of the folds
+>>>>>>>> 
+>>>>>>>> Depending on what you're saying here you also may have the problem that _humans can't imagine an object from all directions at once_. You have to switch between imaginary vantage points when imagining an object.
 
->>>>>>>>> **u/CCC_037** [+2] *
+>>>>>>>>> **u/CCC_037** [+2]  (a day later)
 >>>>>>>>> 
 >>>>>>>>> > you also may have the problem that *humans can't imagine an object from all directions at once*.
->>>>>>>>> *I* can't. But I have it on good authority that [some people can](http://psychclassics.yorku.ca/Galton/imagery.htm) (discussed partway through the paper).
 >>>>>>>>> 
+>>>>>>>>> *I* can't. But I have it on good authority that [some people can](http://psychclassics.yorku.ca/Galton/imagery.htm) (discussed partway through the paper).
 
->>>>>>>>>> **u/vakusdrake** [+2] *
+>>>>>>>>>> **u/vakusdrake** [+2]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> The passage does seem a bit odd, being able to view objects from every conceivable vantage ought to increase the amount of information received by _several orders of magnitude_ which immediately raises red flags.                  
 >>>>>>>>>> I suspect they may merely have the ability to rapidly shift mental perspective and assimilate the information quickly.                 Similar to how (with the exception of split brain patients) people can't actually hold two totally separate thought processes at once, so multitasking is really about the ability to rapidly shift attention.                  
+>>>>>>>>>> 
 >>>>>>>>>> One could tell the difference a few ways. Firstly they ought to be able to recognize whether any two 3d shapes in any position were the same; faster than they could even consciously think. To them in the absence of some background to reference, the orientation of a object would mean absolutely nothing. Whereas to most people even in a featureless background objects would still have orientation since it is though you are looking at them. In fact one might even expect that if one's visual field was made to be totally blank and still (via eye tracking) then they actually _couldn't_ tell an object's orientation quickly.               
 >>>>>>>>>> This test sees the most promising for indicating whether there's anything here.
+>>>>>>>>>> 
 >>>>>>>>>> Secondly one ought to be able to notice changes to the appearance of an object on any of it's sides, even if the change happened just barely fast enough to be perceptible. Unfortunately this test would require ways of interfacing with environments that we can't do with our natural senses.
+>>>>>>>>>> 
 >>>>>>>>>> I also have some doubts because being able to perceive things this way means one ought to be able to easily handle seeing directly through a 360 camera bionic eye. However it's even more spectacular than that, because what you would actually be seeing would be as though seeing through thousands of such cameras all around your environment at once. 
+>>>>>>>>>> 
 >>>>>>>>>> Another way of putting it, is that given these people already have memory as good as actually experiencing the event (though I somewhat doubt it's perfect since if so you shouldn't be able to tell the difference between memories and direct experiences) then it would mean they were able to experience vastly more information in their imaginings than they could in reality.                            
 >>>>>>>>>> The idea that people could imagine something in orders of magnitude more detail than they could actually see with their senses (assuming peak human senses) seems extremely dubious to me.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/CCC_037** [+2] *
+>>>>>>>>>>> **u/CCC_037** [+2]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> > The passage does seem a bit odd, being able to view objects from every conceivable vantage ought to increase the amount of information received by *several orders of magnitude* which immediately raises red flags.
->>>>>>>>>>> No, it doesn't.
->>>>>>>>>>> Consider, for example, a cube. I can imagine it from a single viewpoint; that it, I can 'see' up to three faces of the cube. Someone who can imagine it from all angles would be able to 'see' six faces of the cube; twice as much information. Yes, it's more information - but it's not *orders of magnitude* more.
->>>>>>>>>>> > Firstly they ought to be able to recognize whether any two 3d shapes in any position were the same; faster than they could even consciously think.
->>>>>>>>>>> Again, I don't see how this follows. Their imagination may very well still *have* orientation.
 >>>>>>>>>>> 
+>>>>>>>>>>> No, it doesn't.
+>>>>>>>>>>> 
+>>>>>>>>>>> Consider, for example, a cube. I can imagine it from a single viewpoint; that it, I can 'see' up to three faces of the cube. Someone who can imagine it from all angles would be able to 'see' six faces of the cube; twice as much information. Yes, it's more information - but it's not *orders of magnitude* more.
+>>>>>>>>>>> 
+>>>>>>>>>>> > Firstly they ought to be able to recognize whether any two 3d shapes in any position were the same; faster than they could even consciously think.
+>>>>>>>>>>> 
+>>>>>>>>>>> Again, I don't see how this follows. Their imagination may very well still *have* orientation.
 
->>>>>>>>>>>> **u/vakusdrake** [+2] *
+>>>>>>>>>>>> **u/vakusdrake** [+2]  (2 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >Consider, for example, a cube. I can imagine it from a single viewpoint; that it, I can 'see' up to three faces of the cube. Someone who can imagine it from all angles would be able to 'see' six faces of the cube; twice as much information. Yes, it's more information - but it's not orders of magnitude more.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> That only holds true when talking about _a single object_, if you are able to imagine a scene where you are seeing a great deal of objects all from every direction at once then this multiplies very quickly. If you were imagining a whole room full of objects from 2 different angles then _that's_ twice the info, but if you are seeing every single object from every angle then yeah that's far more than twice the info.              
 >>>>>>>>>>>> Even for a single object it's more than twice the info if these people are imagining the objects in near perfect detail like they describe. Because the way light bounced off an object would look different from multiple directions. An object viewed from an angle will also look compressed to you because of perspective and angle, so to get all visual info you need more than just 2 viewpoints. 
->>>>>>>>>>>> >Again, I don't see how this follows. Their imagination may very well still have orientation.
->>>>>>>>>>>> As I pointed out, _the only reason objects have orientation when we imagine them is because of reference to another object_ if you aren't imagining looking at the object (in which case your imaginary viewpoint is there as a reference object), or having that object have other objects around it. Then orientation _wouldn't mean anything_.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> >Again, I don't see how this follows. Their imagination may very well still have orientation.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> As I pointed out, _the only reason objects have orientation when we imagine them is because of reference to another object_ if you aren't imagining looking at the object (in which case your imaginary viewpoint is there as a reference object), or having that object have other objects around it. Then orientation _wouldn't mean anything_.
 
->>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>> **u/CCC_037** [+1]  (2 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> > That only holds true when talking about *a single object*
->>>>>>>>>>>>> In Galton's paper, when he reached the point of asking about field of imaginary view, he referenced specifically a single object. I have no idea whether people can do the omnipresent-viewpoint thing with many objects or not.
->>>>>>>>>>>>> > Even for a single object it's more than twice the info if these people are imagining the objects in near perfect detail like they describe. Because the way light bounced off an object would look different from multiple directions. An object viewed from an angle will also look compressed to you because of perspective and angle, so to get all visual info you need more than just 2 viewpoints.
->>>>>>>>>>>>> You're assuming that their imagination is specifically allowing them to view a camera view from all viewpoints simultaneously. I'm not sure that works. They might simply be holding a complete 3D model in their head without necessarily having phto images from different angles.
->>>>>>>>>>>>> > As I pointed out, *the only reason objects have orientation when we imagine them is because of reference to another object* if you aren't imagining looking at the object (in which case your imaginary viewpoint is there as a reference object), or having that object have other objects around it. Then orientation *wouldn't mean anything*.
->>>>>>>>>>>>> ...I can imagine a lone object with an orientation.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> In Galton's paper, when he reached the point of asking about field of imaginary view, he referenced specifically a single object. I have no idea whether people can do the omnipresent-viewpoint thing with many objects or not.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > Even for a single object it's more than twice the info if these people are imagining the objects in near perfect detail like they describe. Because the way light bounced off an object would look different from multiple directions. An object viewed from an angle will also look compressed to you because of perspective and angle, so to get all visual info you need more than just 2 viewpoints.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> You're assuming that their imagination is specifically allowing them to view a camera view from all viewpoints simultaneously. I'm not sure that works. They might simply be holding a complete 3D model in their head without necessarily having phto images from different angles.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > As I pointed out, *the only reason objects have orientation when we imagine them is because of reference to another object* if you aren't imagining looking at the object (in which case your imaginary viewpoint is there as a reference object), or having that object have other objects around it. Then orientation *wouldn't mean anything*.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> ...I can imagine a lone object with an orientation.
 
->>>>>>>>>>>>>> **u/vakusdrake** [+2] *
+>>>>>>>>>>>>>> **u/vakusdrake** [+2]  (2 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> >You're assuming that their imagination is specifically allowing them to view a camera view from all viewpoints simultaneously. I'm not sure that works. They might simply be holding a complete 3D model in their head without necessarily having phto images from different angles.
->>>>>>>>>>>>>> Yes but the kind of 3d model you would be talking about would lack certain visual information like the way light acted on the object.
->>>>>>>>>>>>>> >In Galton's paper, when he reached the point of asking about field of imaginary view, he referenced specifically a single object. I have no idea whether people can do the omnipresent-viewpoint thing with many objects or not.
->>>>>>>>>>>>>> I'm talking about this:
->>>>>>>>>>>>>> >HIGHEST.--My mental field of vision is larger than the normal one. In the former I appear to see everything from some commanding point of view, which at once embraces _every_ object and _all_ sides of _every_ object.
->>>>>>>>>>>>>> The emphasis is my own; he isn't just talking about viewing all sides of a single object he's talking about more of the omnipresent viewpoint thing. 
->>>>>>>>>>>>>> >...I can imagine a lone object with an orientation.
->>>>>>>>>>>>>> Ok I imagine you are imagining it having orientation in relation to some background, because an objects orientation is only a meaningful concept if you have _some_ reference.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Yes but the kind of 3d model you would be talking about would lack certain visual information like the way light acted on the object.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >In Galton's paper, when he reached the point of asking about field of imaginary view, he referenced specifically a single object. I have no idea whether people can do the omnipresent-viewpoint thing with many objects or not.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I'm talking about this:
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >HIGHEST.--My mental field of vision is larger than the normal one. In the former I appear to see everything from some commanding point of view, which at once embraces _every_ object and _all_ sides of _every_ object.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> The emphasis is my own; he isn't just talking about viewing all sides of a single object he's talking about more of the omnipresent viewpoint thing. 
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >...I can imagine a lone object with an orientation.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Ok I imagine you are imagining it having orientation in relation to some background, because an objects orientation is only a meaningful concept if you have _some_ reference.
 
->>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (2 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> > Yes but the kind of 3d model you would be talking about would lack certain visual information like the way light acted on the object.
->>>>>>>>>>>>>>> Yes, this is true.
->>>>>>>>>>>>>>> > I'm talking about this:
->>>>>>>>>>>>>>> > > HIGHEST.--My mental field of vision is larger than the normal one. In the former I appear to see everything from some commanding point of view, which at once embraces *every* object and *all* sides of *every* object.
->>>>>>>>>>>>>>> > The emphasis is my own; he isn't just talking about viewing all sides of a single object he's talking about more of the omnipresent viewpoint thing.
->>>>>>>>>>>>>>> Which was in response to the question:
->>>>>>>>>>>>>>> > "Extent of field of view.--Call up the image of some panoramic view (the walls of your room might suffice); can you force yourself to see mentally a wider range of it than could be taken in by any single glance of the eyes? Can you mentally see more than three faces of a die, or more than one hemisphere of a globe at the same instant of time?"
->>>>>>>>>>>>>>> ...maybe your interpretation of that response is what was meant. Or maybe he imagined the cube, then the room, then the hemisphere, and saw all sides of every object - but only one at a time. I don't know.
->>>>>>>>>>>>>>> > Ok I imagine you are imagining it having orientation in relation to some background, because an objects orientation is only a meaningful concept if you have *some* reference.
->>>>>>>>>>>>>>> No background.
->>>>>>>>>>>>>>> I'm having a bit of trouble figuring out how an object can *not have* an orientation, though. I mean, I can understand an object that doesn't have a *defined* orientation; but not having an orientation is a bit like not having a width.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Yes, this is true.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> > I'm talking about this:
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> > > HIGHEST.--My mental field of vision is larger than the normal one. In the former I appear to see everything from some commanding point of view, which at once embraces *every* object and *all* sides of *every* object.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> > The emphasis is my own; he isn't just talking about viewing all sides of a single object he's talking about more of the omnipresent viewpoint thing.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Which was in response to the question:
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> > "Extent of field of view.--Call up the image of some panoramic view (the walls of your room might suffice); can you force yourself to see mentally a wider range of it than could be taken in by any single glance of the eyes? Can you mentally see more than three faces of a die, or more than one hemisphere of a globe at the same instant of time?"
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> ...maybe your interpretation of that response is what was meant. Or maybe he imagined the cube, then the room, then the hemisphere, and saw all sides of every object - but only one at a time. I don't know.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> > Ok I imagine you are imagining it having orientation in relation to some background, because an objects orientation is only a meaningful concept if you have *some* reference.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> No background.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> I'm having a bit of trouble figuring out how an object can *not have* an orientation, though. I mean, I can understand an object that doesn't have a *defined* orientation; but not having an orientation is a bit like not having a width.
 
->>>>>>>>>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>>>>>>>>> **u/vakusdrake** [+1]  (2 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> Ok so in response to your last point I'd say that you are probably inadvertently imagining an object against a white or black void background. Because orientation is a property that _is only meaningful in relation to other things_, it's not an intrinsic property the same way width is.            
->>>>>>>>>>>>>>>> I have realized it seems likely that people aren't capable of imagining an object with no background because if you mental image isn't entirely filled with the object it's still _something_.            
->>>>>>>>>>>>>>>> Even if you are imagining the inside of an object (thus no reference exists) you must be referencing some vague intangible viewpoint (even if that's kind of spread out and multifaceted).
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> I have realized it seems likely that people aren't capable of imagining an object with no background because if you mental image isn't entirely filled with the object it's still _something_.            
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> Even if you are imagining the inside of an object (thus no reference exists) you must be referencing some vague intangible viewpoint (even if that's kind of spread out and multifaceted).
 
->>>>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> I'm beginning to think that perhaps you and I do not attach the same meaning to the word "orientation".
->>>>>>>>>>>>>>>>> To me, the orientation of a rigid object is that information which, combined with the location of any single point in the object, allows the location of every other point in the object to be found.
->>>>>>>>>>>>>>>>> What do you understand by the word "orientation"?
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> To me, the orientation of a rigid object is that information which, combined with the location of any single point in the object, allows the location of every other point in the object to be found.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> What do you understand by the word "orientation"?
 
->>>>>>>>>>>>>>>>>> **u/vakusdrake** [+2] *
+>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+2]  (2 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> Wait you're just talking about shape..              
 >>>>>>>>>>>>>>>>>> The direction an object is facing, is in no way necessary to determine where parts of an object are in relation to each other.
->>>>>>>>>>>>>>>>>> The definition of orientation appropriate in this situation is this: "one's position in relation to true north, to points on the compass, or to a specific place or object."-Dictionary.com
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> The definition of orientation appropriate in this situation is this: "one's position in relation to true north, to points on the compass, or to a specific place or object."-Dictionary.com
 
->>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (3 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> No, I'm not talking about shape. (Now that you point it out, I realise I'd been explicitly assuming that the shape of the object was known)
->>>>>>>>>>>>>>>>>>> Look - if an object is rotating about a point, then the shape of that object is not changing but the orientation is, right? Regardless of the presence or absence of anything else.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Look - if an object is rotating about a point, then the shape of that object is not changing but the orientation is, right? Regardless of the presence or absence of anything else.
 
->>>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+2] *
+>>>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+2]  (3 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> >Look - if an object is rotating about a point, then the shape of that object is not changing but the orientation is, right? Regardless of the presence or absence of anything else.
+>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> I see what you're saying, but I suppose we probably shouldn't be calling it orientation, because an object could rotate along an axis but it would have the same orientation if it was pointing in the same direction. For instance a floating compass needle could rotate while still facing magnetic north (which is _actually_ the magnetic **south pole**)          
 >>>>>>>>>>>>>>>>>>>> Idk what we should be calling it, positioning might have to suffice.
->>>>>>>>>>>>>>>>>>>> Anyway I get what you're saying, your earlier statement just confused me.
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Anyway I get what you're saying, your earlier statement just confused me.
 
->>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (4 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> > I see what you're saying, but I suppose we probably shouldn't be calling it orientation, because an object could rotate along an axis but it would have the same orientation if it was pointing in the same direction.
->>>>>>>>>>>>>>>>>>>>> ...by my understanding of the word "orientation", that *would* be a change in orientation.
->>>>>>>>>>>>>>>>>>>>> It is clear, therefore, that we are ascribing different definitions to the word.
 >>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> ...by my understanding of the word "orientation", that *would* be a change in orientation.
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> It is clear, therefore, that we are ascribing different definitions to the word.
 
->>>>>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+1]  (4 days later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> Imagine an arrow pointing at an object; the arrow can spin but as long as it's still pointing at the same object it hasn't changed orientation.                     
 >>>>>>>>>>>>>>>>>>>>>> Based on the definition of orientation an object can still rotate, as long as it does so, only on the axis in line with the object it's pointing towards.
->>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>> **u/CCC_037** [+1]  (4 days later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> That's only the orientation along a single axis. Along all other axes, the orientation is changing as the arrow rotates.
->>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>> **u/vakusdrake** [+1]  (4 days later)
 >>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> Orientation _by definition_ **is** only about one axis; the whole idea of which way an object's pointing, only makes sense in reference to a specific object being _pointed to_, and is unaffected by rotation along the axis pointing to the object.           
 >>>>>>>>>>>>>>>>>>>>>>>> If you look at the definition I posted prior this makes sense, because orientation was used to describe your bearing in relation to magnetic north only being concerned with the direction one axis is pointing in, is the whole point.
->>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>> **u/Anakiri** [+1] *
+>>>>>>>>>>> **u/Anakiri** [+1]  (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I think it is more likely that they are "visualizing" *less* information than they normally get from their eyes. They see the shape and the light and the color of imagined objects, but they don't do the *extra* steps of calculating which parts of it should be out of view or blocked or facing away.
->>>>>>>>>>> There is precedent for this. When rendering computer graphics, all of those extra steps involve ridiculous four dimensional matrix convolutions and trigonometric comparisons, just to figure out what information descibing the scene that the machine already *has* but shouldn't *show*. In reality, physics does all the work for us, but there's no fundamental reason why our brains should have to do all that when generating a scene.
->>>>>>>>>>> My predictions: Any unfamiliar physical object will have blindspots or guesses around all unseen parts, so these visualizers can only quickly compare objects after they've already determined that they should use the same mental model for both; which must be done the hard way. They don't analyze every possible silhouette (in fact, they don't analyze *any* silhouette in purely imagined scenes) and therefore they have no advantage in noticing shape changes or in finding the correct orientation of a complex shape. They have no trouble determining orientation relative to themselves, but they may say that abstract imagined things have no orientation.
->>>>>>>>>>> I also predict that people who claim to visualize things vividly from every angle will nonetheless not find it easier than anyone else to draw a fish-eye picture.
->>>>>>>>>>> At least, that's how it works when *I* imagine things without orientation. But my imagination is not terribly similar to sight.
 >>>>>>>>>>> 
+>>>>>>>>>>> There is precedent for this. When rendering computer graphics, all of those extra steps involve ridiculous four dimensional matrix convolutions and trigonometric comparisons, just to figure out what information descibing the scene that the machine already *has* but shouldn't *show*. In reality, physics does all the work for us, but there's no fundamental reason why our brains should have to do all that when generating a scene.
+>>>>>>>>>>> 
+>>>>>>>>>>> My predictions: Any unfamiliar physical object will have blindspots or guesses around all unseen parts, so these visualizers can only quickly compare objects after they've already determined that they should use the same mental model for both; which must be done the hard way. They don't analyze every possible silhouette (in fact, they don't analyze *any* silhouette in purely imagined scenes) and therefore they have no advantage in noticing shape changes or in finding the correct orientation of a complex shape. They have no trouble determining orientation relative to themselves, but they may say that abstract imagined things have no orientation.
+>>>>>>>>>>> 
+>>>>>>>>>>> I also predict that people who claim to visualize things vividly from every angle will nonetheless not find it easier than anyone else to draw a fish-eye picture.
+>>>>>>>>>>> 
+>>>>>>>>>>> At least, that's how it works when *I* imagine things without orientation. But my imagination is not terribly similar to sight.
 
->>>>>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>>>>> **u/vakusdrake** [+1]  (2 days later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >I think it is more likely that they are "visualizing" less information than they normally get from their eyes. They see the shape and the light and the color of imagined objects, but they don't do the extra steps of calculating which parts of it should be out of view or blocked or facing away.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Your proposition _would only be true if you assumed that someone's mind was rendering all the information then obscuring some of it_. There's no reason to think that this is the case; instead the parts of the object the person isn't seeing in their mind's eye likely _just aren't being rendered_.                  
 >>>>>>>>>>>> Sure you have to do some calculations to take into account perspective, but the brain doesn't have some fluid processing pool it's drawing on. The parts of the visual cortex used for perspective can't be repurposed for calculating more information about the appearance of the object from different angles on the fly.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> >My predictions: Any unfamiliar physical object will have blindspots or guesses around all unseen parts, so these visualizers can only quickly compare objects after they've already determined that they should use the same mental model for both; which must be done the hard way. They don't analyze every possible silhouette (in fact, they don't analyze any silhouette in purely imagined scenes) and therefore they have no advantage in noticing shape changes or in finding the correct orientation of a complex shape. They have no trouble determining orientation relative to themselves, but they may say that abstract imagined things have no orientation.
+>>>>>>>>>>>> 
 >>>>>>>>>>>> Yes their ability to tell if two 3d shapes are the same ought to be limited by the potential that they can't see parts of the object.                 
 >>>>>>>>>>>> However _they still ought to be able to tell if two shapes **could** be the same_, whereas most people will need to take a second to mentally rotate an object around to notice that it's not actually the same as another, these people don't have to do that so they should be able to do it nearly instantly.
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/Anakiri** [+1] *
+>>>>>>>>>>>>> **u/Anakiri** [+1]  (2 days later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> > Your proposition *would only be true if you assumed that someone's mind was rendering all the information then obscuring some of it.* There's no reason to think that this is the case;
->>>>>>>>>>>>> I disagree. I think that this is the case because that matches my own experience, and I simply can't imagine any other way to do it that isn't convoluted, inefficient, and improbable. I contend that when you imagine your breakfast table, your brain pulls up the entire concept-map for "your breakfast table", including color and material properties (perhaps with specular highlights baked-in based on the last time you saw it, or from a weighted average of every time you've ever looked at it - could you tell if it were unrealistic?). Do you think it's more likely that people's brains store "the front of your breakfast table" in a completely separate place from "the right side of your breakfast table", rather than starting from "breakfast table" and then finding the front part of it?
->>>>>>>>>>>>> Personally, I can't imagine my table without knowing how tall it is, even if I'm not in a mental position to "see" more than just the top. Regardless of what I "see", the entire table is in my mind in some capacity. But I don't know how well my experience matches the visualizers', since I don't visualize.
->>>>>>>>>>>>> In fact, given the brain's great love for cheating and lying, I wouldn't be *too* surprised if it just said "You are vividly seeing [whatever]" without going to the trouble of actually generating anything to see. I wouldn't expect that to be true, but it's very cheap to do and has the same practical outcome.
->>>>>>>>>>>>> > However *they still ought to be able to tell if two shapes* **could** *be the same,* whereas most people will need to take a second to mentally rotate an object around to notice that it's not actually the same as another, these people don't have to do that so they should be able to do it nearly instantly.
->>>>>>>>>>>>> Seeing objects from every meaningful angle doesn't help people instantly compare *two dimensional* shapes. Even when we see everything there is to see, we still need to mentally rotate them until they are identical, or not.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> I disagree. I think that this is the case because that matches my own experience, and I simply can't imagine any other way to do it that isn't convoluted, inefficient, and improbable. I contend that when you imagine your breakfast table, your brain pulls up the entire concept-map for "your breakfast table", including color and material properties (perhaps with specular highlights baked-in based on the last time you saw it, or from a weighted average of every time you've ever looked at it - could you tell if it were unrealistic?). Do you think it's more likely that people's brains store "the front of your breakfast table" in a completely separate place from "the right side of your breakfast table", rather than starting from "breakfast table" and then finding the front part of it?
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Personally, I can't imagine my table without knowing how tall it is, even if I'm not in a mental position to "see" more than just the top. Regardless of what I "see", the entire table is in my mind in some capacity. But I don't know how well my experience matches the visualizers', since I don't visualize.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> In fact, given the brain's great love for cheating and lying, I wouldn't be *too* surprised if it just said "You are vividly seeing [whatever]" without going to the trouble of actually generating anything to see. I wouldn't expect that to be true, but it's very cheap to do and has the same practical outcome.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> > However *they still ought to be able to tell if two shapes* **could** *be the same,* whereas most people will need to take a second to mentally rotate an object around to notice that it's not actually the same as another, these people don't have to do that so they should be able to do it nearly instantly.
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Seeing objects from every meaningful angle doesn't help people instantly compare *two dimensional* shapes. Even when we see everything there is to see, we still need to mentally rotate them until they are identical, or not.
 
->>>>>>>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>>>>>>> **u/vakusdrake** [+1]  (2 days later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> >I disagree. I think that this is the case because that matches my own experience, and I simply can't imagine any other way to do it that isn't convoluted, inefficient, and improbable. I contend that when you imagine your breakfast table, your brain pulls up the entire concept-map for "your breakfast table", including color and material properties (perhaps with specular highlights baked-in based on the last time you saw it, or from a weighted average of every time you've ever looked at it - could you tell if it were unrealistic?). Do you think it's more likely that people's brains store "the front of your breakfast table" in a completely separate place from "the right side of your breakfast table", rather than starting from "breakfast table" and then finding the front part of it?
+>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> The majority of people will describe imagining something like a simulation of observing it normally, except with somewhat lower quality. When they imagine a table from above they would need shift their mental eye to tell how tall it is.                                         
 >>>>>>>>>>>>>> Sure all the details about something are stored in memory but only what they are actually _virtually sensing_ is being actively _rendered_. So if you change your mental view the brain has to go check the information in memory.          
 >>>>>>>>>>>>>> What i'm talking about here is effectively the distinction between cold memory and RAM, the brain has the information about what something would look like from a different angle implicitly, but that doesn't mean it's expending processing on anything not being actively (virtually) perceived. 
->>>>>>>>>>>>>> >Seeing objects from every meaningful angle doesn't help people instantly compare two dimensional shapes. Even when we see everything there is to see, we still need to mentally rotate them until they are identical, or not.
->>>>>>>>>>>>>> See that makes no sense to me, because while they are on paper, your brain looking at them _still renders them in 3D_ so there shouldn't be any reason you ought to rotate them in this scenario.
 >>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> >Seeing objects from every meaningful angle doesn't help people instantly compare two dimensional shapes. Even when we see everything there is to see, we still need to mentally rotate them until they are identical, or not.
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> See that makes no sense to me, because while they are on paper, your brain looking at them _still renders them in 3D_ so there shouldn't be any reason you ought to rotate them in this scenario.
 
->>>>>>>>>>>>>>> **u/Anakiri** [+1] *
+>>>>>>>>>>>>>>> **u/Anakiri** [+1]  (2 days later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> I understand what you're saying, I just think that that's not how brains work. I don't know how to write an efficient program that does what you're describing, and I don't know how to make a neural net that does it at all. I contend rather that only a small portion of active memory is actually rendered for virtual experience, and that all the extra unrendered data is *necessary* for real-time visual processing, because remembering is not a free action.
->>>>>>>>>>>>>>> If we had to remember other views of something we're picturing, rather than just mentally rotating it with a rotation transformation, I'd expect that to introduce a huge number of bugs. I'd expect you to have tip-of-the-tongue problems where you just *can't rotate something,* because the view you want is momentarily unavailable. In reality, I suspect that misremembering things results in the object becoming less distinct from bad angles, but you can still rotate it - which is what I'd expect if you were just transforming corrupt model-space shape data into screen-space.
->>>>>>>>>>>>>>> If the brain has to look up how something would look from a different angle, that would also make it a lot harder to mentally rotate objects you've never seen before. You'd need some completely separate mechanism for generating novel view angles... and then you'd need to not use that mechanism for most imagined images, in favor of some giant catalog of every possible angle? Is there any reason to believe that people imagine new shapes differently than familiar ones?
->>>>>>>>>>>>>>> > See that makes no sense to me, because while they are on paper, your brain looking at them still renders them in 3D so there shouldn't be any reason you ought to rotate them in this scenario.
->>>>>>>>>>>>>>> Feel free to test your predictions with [these](http://sharpbrains.com/blog/2010/09/28/test-your-mental-rotation-skills/) and other puzzles. All three of them took me longer than one second, despite having an omniscient view of them. Relative orientation alone was enough to slow me down.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> If we had to remember other views of something we're picturing, rather than just mentally rotating it with a rotation transformation, I'd expect that to introduce a huge number of bugs. I'd expect you to have tip-of-the-tongue problems where you just *can't rotate something,* because the view you want is momentarily unavailable. In reality, I suspect that misremembering things results in the object becoming less distinct from bad angles, but you can still rotate it - which is what I'd expect if you were just transforming corrupt model-space shape data into screen-space.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> If the brain has to look up how something would look from a different angle, that would also make it a lot harder to mentally rotate objects you've never seen before. You'd need some completely separate mechanism for generating novel view angles... and then you'd need to not use that mechanism for most imagined images, in favor of some giant catalog of every possible angle? Is there any reason to believe that people imagine new shapes differently than familiar ones?
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> > See that makes no sense to me, because while they are on paper, your brain looking at them still renders them in 3D so there shouldn't be any reason you ought to rotate them in this scenario.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Feel free to test your predictions with [these](http://sharpbrains.com/blog/2010/09/28/test-your-mental-rotation-skills/) and other puzzles. All three of them took me longer than one second, despite having an omniscient view of them. Relative orientation alone was enough to slow me down.
 
->>>>>>>>>>>>>>>> **u/vakusdrake** [+1] *
+>>>>>>>>>>>>>>>> **u/vakusdrake** [+1]  (2 days later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> >I contend rather that only a small portion of active memory is actually rendered for virtual experience, and that all the extra unrendered data is necessary for real-time visual processing, because remembering is not a free action.
+>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> You see _I'm not so sure remembering isn't a free action_. At times people can have something trigger a long term memory pretty much instantly; the problem here is that long term memory is hard to sort through _but if have information to guide you I'm not sure getting things out of it is necessarily much slower_.                 
 >>>>>>>>>>>>>>>> I don't think this buffer you propose where all the information about an object's appearance is being _actively processed_, but only part of it is being shown, has to exist.
->>>>>>>>>>>>>>>> 
 
-> **u/Igigigif** [+5]  *IT Foxgirl**
+> **u/Igigigif** [+4]  *IT Foxgirl* (10 hours later)
 > 
 > You are made of molten rock, you constantly generate enough heat to keep your form molten, but can theoretically be put out, which will kill you. You are also able to designate portions of you mass as human organs ('bones' will stay congealed despite being liquid, 'skin' will with keep the rest of your mass contained, 'eyes' are sensitive to light...) , with 'brains' only contributing to you multitasking. You can add other molten rock to your from. 
-
-> However, you are dumped on a world in the middle ages which is  constancy drenched in rain, plaged by creatures powerful enough to shrug off your heat, and conveniently speaks english. How do you uplift the people of this world?
 > 
+> However, you are dumped on a world in the middle ages which is  constancy drenched in rain, plaged by creatures powerful enough to shrug off your heat, and conveniently speaks english. How do you uplift the people of this world?
 
->> **u/Gurkenglas** [+14] *
+>> **u/Gurkenglas** [+12]  (20 hours later)
 >> 
 >> Jump in an active volcano, become Gaia.
->> 
 
->>> **u/VanPeer** [+2]  *The shard made me do it**
+>>> **u/VanPeer** [+2]  *The shard made me do it* (22 hours later)
 >>> 
 >>> Nice! This didn't occur me.
->>> 
 
->>> **u/Igigigif** [+1]  *IT Foxgirl**
+>>> **u/Igigigif** [+1]  *IT Foxgirl* (a day later)
 >>> 
 >>> Do note that the challenge is to uplift the natives. How do you plan to use all that magma to do that?
->>> 
 
->>>> **u/Gurkenglas** [+5] *
+>>>> **u/Gurkenglas** [+6]  (a day later)
 >>>> 
 >>>> I'll assume I'm the mantle. Can I drill volcanos of a few centimetres width to send magma where I want it? (While it stays connected to the mantle in order to stay under my control.) If a hundred litres of magma is enough to form a body of organs including a brain to micromanage them, I could instantly make 9100000000000000000000 bodies, except that would destabilize the planet. That's twentytwo digits. Can I separate metals out of some portion of me to make tools that won't melt everything they touch? If not, I can just manually send some bodies into the mountains to play human-like miner. Once I have tools, the surface population is freed from agriculture, since at the worst I can play human-like farmer.
->>>> Can I make limbs as large as I want or will they collapse under their own weight since they have the stability of bones? I am imagining a Sauron-tower rising out of the volcano I jump in after a few minutes.
->>>> Let's assume that I can't just step on the problem by setting a myriad of brains on thinking about FAI. Edit: ...at such numbers, this'll probably instead optimize for ideas that are good at convincing me they are good. See transdimensional brain chip. Though if I'm lucky, I would have realized that soon after spawning those brains (I did realize it here, after all) and stopped the brain project.
->>>> For some inspiration, imagine Taylor covering the Earth in relay bugs.
 >>>> 
+>>>> Can I make limbs as large as I want or will they collapse under their own weight since they have the stability of bones? I am imagining a Sauron-tower rising out of the volcano I jump in after a few minutes.
+>>>> 
+>>>> Let's assume that I can't just step on the problem by setting a myriad of brains on thinking about FAI. Edit: ...at such numbers, this'll probably instead optimize for ideas that are good at convincing me they are good. See transdimensional brain chip. Though if I'm lucky, I would have realized that soon after spawning those brains (I did realize it here, after all) and stopped the brain project.
+>>>> 
+>>>> For some inspiration, imagine Taylor covering the Earth in relay bugs.
 
->>>>> **u/Igigigif** [+3]  *IT Foxgirl**
+>>>>> **u/Igigigif** [+5]  *IT Foxgirl* (a day later)
 >>>>> 
 >>>>> Of course, you'll be limited to ~6hr of work per day, barring mining metals with a higher heat of liquefaction than the surrounding rock, unless you have some plan for managing the pain. You'll also completely screw over the climate in the long run, given that any mass you control produces energy.
+>>>>> 
 >>>>> Also, just to clarify: If you could make it using human bone, muscle, cartilage or similar, you can make it. The square cube law does apply, so you'll probably see an upper limit on the size of usable limbs. 
 >>>>> Further, cooling your exterior affects all of you.
->>>>> 
 
->> **u/None** [+5] *
+>> **u/None** [+6]  (12 hours later)
 >> 
 >> Heh, I have more clarifying questions than ideas.
->> -When you say the world is plagued by powerful creatures, do you mean that there is a human-equivalent race plagued by these creatures, or are the creatures themselves the "people" we're trying to uplift? If the former, how intelligent are the powerful creatures?
->> -What is the local landscape/geology like?
->> -Are you able to cool and/or detach parts of your mass?
 >> 
+>> -When you say the world is plagued by powerful creatures, do you mean that there is a human-equivalent race plagued by these creatures, or are the creatures themselves the "people" we're trying to uplift? If the former, how intelligent are the powerful creatures?
+>> 
+>> -What is the local landscape/geology like?
+>> 
+>> -Are you able to cool and/or detach parts of your mass?
 
->>> **u/Igigigif** [+2]  *IT Foxgirl**
+>>> **u/Igigigif** [+2]  *IT Foxgirl* (13 hours later)
 >>> 
 >>> No problem:
+>>> 
 >>> * There are human equivalents you need to uplift
 >>> * Let's say your immediate area contains a bit of forest to the north, an inhabited cave system/valley southeast and otherwise non-descriptive terrain. Overall the planet is reasonably earth-like, and probably has a molten mantle, but good maps are rare.
 >>> * You can cool your external surface, but it starts out irritating, and become outright painful after a few hours. You can remove mass without issue, but can't control it without physical contact, and it loses any properties you've given it. If you somehow manage to perfectly cut yourself in half, a random portion retains your identity, otherwise the more massive part counts as you. You can choose to remain in the smaller part though.
->>> 
 
-> **u/ILL_BE_WATCHING_YOU** [+4] *
+> **u/ILL_BE_WATCHING_YOU** [+4]  (a day later)
 > 
 > Munchkin: You exist in a world full of almost entirely mental superpowers. Precogs, mad genius inventors, memory-manipulators, mind-controllers, mad science researchers, detectives, and magnificent manipulative Bond villains abound. Your power simultaneously allows you to identify whether any individuals within your line of sight are super-powered, and passively prevents anyone from realizing you have this superpower. It does not tell you what their powers are, how to beat them, etc. Just that they have powers.
-> Your power actively prevents anyone from realizing you have powers. If they by some fluke realize this fact anyways, their memories will later be retroactively altered at the earliest possible convenience. This aspect of your power doesn't give you a "secret-identity." That is to say, if you go out in disguise and claim that you have superpowers, your power will still activate, and everyone will think you're lying, despite any and all evidence supporting your claim. In addition, they'll still be able to make associations between any and all identities you cook up, just not any associations between any of your identities and superpowers. 
-> Reverse-munchkin: (Set within the same universe)
-> You have no superpowers. You're absolutely certain. Despite that, however, you keep having these weird night terrors in which Student, the world's most dreaded power-copier, tries to hunt you down for some reason. Student's collected a plethora of powers over the years. Due to your dreams, you tried looking up some of his powers online. While the vast majority of his powers are unknown(for obvious reasons), some of his more prominent, well-known and oft-used powers include:
-> Ability to abstain from sleep indefinitely, with no negative effects.
-> Perfect memory. Seamlessly integrates any and all information learned perfectly. Does not improve muscle memory.
-> Hyper-awareness, optimized mental faculties and multitasking. Is constantly running on full-throttle, mentally. Can split his attention 10 different ways with no loss in competence. Uses these in concert to constantly be fully aware of his surroundings at all times as best he can.
-> Rewind: He can designate a 1 hour period of time as a loop, choose a number less than 100, and then relive it that many times. Once he finishes reliving the time loop the designated number of times, he "exits" the loop, and time continues as normal until the next loop. He cannot use this ability again until that number of hours has passed. (ie. If he chose to relive the loop 48 times, then he would not be able to create another loop until 48 hours had passed.) A side effect of this ability is that Student effectively lives twice as much as everyone else due to these loops.
-> That last power is especially worrisome. It's almost like he's trying to kill you in your sleep, and is using his time loop power to help him get a read on you. But that's crazy talk, right? After all, if that was the case, you wouldn't remember what happened in those loops, let alone have dreams about it. After all, you don't have powers. But what if he really *is* trying to kill you?
-> Oh, well. You should probably come up with some preparations, protocols, and plans to protect yourself against him, if only for peace of mind and sweet dreams. Knocking on wood can't hurt to try, after all.
 > 
+> Your power actively prevents anyone from realizing you have powers. If they by some fluke realize this fact anyways, their memories will later be retroactively altered at the earliest possible convenience. This aspect of your power doesn't give you a "secret-identity." That is to say, if you go out in disguise and claim that you have superpowers, your power will still activate, and everyone will think you're lying, despite any and all evidence supporting your claim. In addition, they'll still be able to make associations between any and all identities you cook up, just not any associations between any of your identities and superpowers. 
+> 
+> Reverse-munchkin: (Set within the same universe)
+> 
+> You have no superpowers. You're absolutely certain. Despite that, however, you keep having these weird night terrors in which Student, the world's most dreaded power-copier, tries to hunt you down for some reason. Student's collected a plethora of powers over the years. Due to your dreams, you tried looking up some of his powers online. While the vast majority of his powers are unknown(for obvious reasons), some of his more prominent, well-known and oft-used powers include:
+> 
+> Ability to abstain from sleep indefinitely, with no negative effects.
+> 
+> Perfect memory. Seamlessly integrates any and all information learned perfectly. Does not improve muscle memory.
+> 
+> Hyper-awareness, optimized mental faculties and multitasking. Is constantly running on full-throttle, mentally. Can split his attention 10 different ways with no loss in competence. Uses these in concert to constantly be fully aware of his surroundings at all times as best he can.
+> 
+> Rewind: He can designate a 1 hour period of time as a loop, choose a number less than 100, and then relive it that many times. Once he finishes reliving the time loop the designated number of times, he "exits" the loop, and time continues as normal until the next loop. He cannot use this ability again until that number of hours has passed. (ie. If he chose to relive the loop 48 times, then he would not be able to create another loop until 48 hours had passed.) A side effect of this ability is that Student effectively lives twice as much as everyone else due to these loops.
+> 
+> That last power is especially worrisome. It's almost like he's trying to kill you in your sleep, and is using his time loop power to help him get a read on you. But that's crazy talk, right? After all, if that was the case, you wouldn't remember what happened in those loops, let alone have dreams about it. After all, you don't have powers. But what if he really *is* trying to kill you?
+> 
+> Oh, well. You should probably come up with some preparations, protocols, and plans to protect yourself against him, if only for peace of mind and sweet dreams. Knocking on wood can't hurt to try, after all.
 
->> **u/zarraha** [+2] *
+>> **u/zarraha** [+2]  (a day later)
 >> 
 >> For the first one, can you convince people that you are able to determine if people have powers if you give an explanation other than the real one?  Like, if you go around claiming to have invented a device that detects powers, will they believe it because it's not a superpower?  Or will your power alter that too?  Similarly, if you try to become a detective or something that investigates superpower crimes, could you gain a reputation as "that guy that has hunches about people that somehow always end up being right."  And go up the ranks that way?  Or would the power make people not notice the trend of how good your guesses are?
->> For the second one, am I right in understanding that because you're experiencing these over several nights, that means he's looping to practice killing you, but then when the loop ends he doesn't follow through with it and just waits for the next night to loop again?  What happens if he loops during the day?  Do you seem to black out and interpret it as a dream?  The distinction is important because it determines whether or not you know if you're in a loop.  If so, then my suggestion would be to make secret preparations outside of loops, acquiring a gun, finding safe escape routes and hiding places, etc.  But during loops don't reveal any of it, don't reveal that you know he's looping, and behave predictably and weakly during every loop that has the same start point.  If he thinks he can kill you incredibly easily then he won't prepare as much and then when he tries to do it for real you can surprise him by having a gun or bomb or something that he didn't know about because you never used it during the loops.
 >> 
+>> For the second one, am I right in understanding that because you're experiencing these over several nights, that means he's looping to practice killing you, but then when the loop ends he doesn't follow through with it and just waits for the next night to loop again?  What happens if he loops during the day?  Do you seem to black out and interpret it as a dream?  The distinction is important because it determines whether or not you know if you're in a loop.  If so, then my suggestion would be to make secret preparations outside of loops, acquiring a gun, finding safe escape routes and hiding places, etc.  But during loops don't reveal any of it, don't reveal that you know he's looping, and behave predictably and weakly during every loop that has the same start point.  If he thinks he can kill you incredibly easily then he won't prepare as much and then when he tries to do it for real you can surprise him by having a gun or bomb or something that he didn't know about because you never used it during the loops.
 
->>> **u/ILL_BE_WATCHING_YOU** [+2] *
+>>> **u/ILL_BE_WATCHING_YOU** [+2]  (a day later)
 >>> 
 >>> > Like, if you go around claiming to have invented a device that detects powers, will they believe it because it's not a superpower?
->>> Being a mad genius inventor with clarktech would constitue a superpower, so that won't fly. You could, however, pass it off as a gizmo that your superpowered friend made.
->>> > Or would the power make people not notice the trend of how good your guesses are?
->>> Oh, they'll notice the trends, alright, it's just that they'll rationalize it any way they can. Do you wear glasses? "Probably a gizmo his mad genius friend made that feeds him the info." Can you come up with a plausible explanation for how you solved the case? "Probably just a superhero wannabe that did his homework." If you can't? "Must've been a lucky guess."
->>> As for the second one, I left it deliberately vague and open to interpretation, especially with an unreliable narrator. You can interpret it as a reverse of previous power in the sense that it actively prevents you from realizing you have a power. You can interpret it as the dreams being prophetic, in which case Student never actually succeeds in killing you in his time loops due to your advance warning, and therefore backs off the final go around of the loop. Or, you can interpret it as your power allowing you to remember the time loops, in which case the dreams are just memories of getting woken up in another timeline. If this is the case, then Student attacking you in broad daylight like an idiot would cause you to suddenly get hit with deja vu and false memories of the other timelines. Open for interpretation.
 >>> 
+>>> Being a mad genius inventor with clarktech would constitue a superpower, so that won't fly. You could, however, pass it off as a gizmo that your superpowered friend made.
+>>> 
+>>> > Or would the power make people not notice the trend of how good your guesses are?
+>>> 
+>>> Oh, they'll notice the trends, alright, it's just that they'll rationalize it any way they can. Do you wear glasses? "Probably a gizmo his mad genius friend made that feeds him the info." Can you come up with a plausible explanation for how you solved the case? "Probably just a superhero wannabe that did his homework." If you can't? "Must've been a lucky guess."
+>>> 
+>>> As for the second one, I left it deliberately vague and open to interpretation, especially with an unreliable narrator. You can interpret it as a reverse of previous power in the sense that it actively prevents you from realizing you have a power. You can interpret it as the dreams being prophetic, in which case Student never actually succeeds in killing you in his time loops due to your advance warning, and therefore backs off the final go around of the loop. Or, you can interpret it as your power allowing you to remember the time loops, in which case the dreams are just memories of getting woken up in another timeline. If this is the case, then Student attacking you in broad daylight like an idiot would cause you to suddenly get hit with deja vu and false memories of the other timelines. Open for interpretation.
 
 ---
 

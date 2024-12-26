@@ -2,7 +2,7 @@
 
 * Author: u/Lightwavers  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
 * URL: https://www.reddit.com/r/rational/comments/bzn3l1/request_mother_of_learning_fanfiction_or_the/
-* Score: 27
+* Score: 28
 
 * Created: 2019-06-12T05:18:07
 
@@ -12,50 +12,41 @@ What I *really* want is a story set in the MoL universe from the perspective of 
 
 ### Comments:
 
-> **u/ChiefofMind** [+26] *
+> **u/ChiefofMind** [+26]  (45 minutes later)
 > 
 > It's certainly not what you described, but it is MoL fanfiction and it is good. If you don't mind a multicross with Homestuck, Worm, and Naruto (it's written such that you don't need to be familiar with all the source material, I'm not Naruto familiar and I enjoy it), there's [Conference Call](https://forums.sufficientvelocity.com/threads/conference-call-multicross.50109/).
-> 
 
->> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (56 minutes later)
 >> 
 >> I've read and enjoyed it. :)
->> 
 
->> **u/cyberdsaiyan** [+4] *
+>> **u/cyberdsaiyan** [+4]  (a day later)
 >> 
 >> Oh my god thank you for this!
->> 
 
->> **u/ThirdMover** [+2] *
+>> **u/ThirdMover** [+2]  (3 days later)
 >> 
 >> I have to say I had to stop reading where they started entering a multiplication table. Why???
->> 
 
->>> **u/ChiefofMind** [+2] *
+>>> **u/ChiefofMind** [+2]  (3 days later)
 >>> 
 >>> It's about exploring the ramifications and potential of the node. That's something that appeals to a lot of folks around here, me included.
->>> 
 
-> **u/cyberdsaiyan** [+5] *
+> **u/cyberdsaiyan** [+6]  (a day later)
 > 
 > why not write one? It could be fun.
-> 
 
->> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+6]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> Fair point. I may if I can scavenge up the motivation.
->> 
 
-> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> **u/xamueljones** [+2]  *My arch-enemy is entropy* (4 days later)
 > 
 > If you just want to read a book with dragons in it, try Goodreads list of [Best Kick Ass Dragon Characters](https://www.goodreads.com/list/show/5905.Best_Kick_Ass_Dragon_Characters).
-> 
 
->> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (4 days later)
 >> 
 >> Thanks mate.
->> 
 
 ---
 

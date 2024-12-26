@@ -2,7 +2,7 @@
 
 * Author: u/NanashiSaito *
 * URL: https://www.reddit.com/r/rational/comments/faujiz/wipffrst_the_longest_day_hpmormlp_aucontinuation/
-* Score: 11
+* Score: 12
 
 * Created: 2020-02-28T13:15:44
 
@@ -71,46 +71,45 @@ Other Mediums:
 
 ### Comments:
 
-> **u/t3tsubo** [+7] *
+> **u/t3tsubo** [+7]  (7 hours later)
 > 
 > Nice read. My prior for all thing MLP is.. negative, but this was alright.
-> Highlight for me, and probably for most "rational fiction" fans, would be the exposition chapter about the Stone's 360 use limitation. Close second to all the other Dumbledore POV chapters that really scratch a HPMOR itch I didn't know I had.
-> Recommended.
 > 
+> Highlight for me, and probably for most "rational fiction" fans, would be the exposition chapter about the Stone's 360 use limitation. Close second to all the other Dumbledore POV chapters that really scratch a HPMOR itch I didn't know I had.
+> 
+> Recommended.
 
-> **u/Reply_or_Not** [+6] *
+> **u/Reply_or_Not** [+5]  (28 minutes later)
 > 
 > Any chance you could link to a summary or write out the premise of this fic?  I’ve read HPMOR but am not familiar with MLP, will I be able to enjoy this?
-> 
 
->> **u/NanashiSaito** [+6] *
+>> **u/NanashiSaito** [+6]  (50 minutes later)
 >> 
 >> My goal was to make it so that you don't have to be familiar with My Little Pony to enjoy this. I'm not sure whether I achieved that or not. 
->> If we pretended that all the MLP characters were just original characters, the premise would be more or less that a group of Animagus witches investigating the "Stars in the Heavens" prophecy come to Hogwarts and Harry learns that the power scale of Magic goes much, much higher than he initially assumed and as such, Quirrell's strategy towards handling Harry changes significantly. Namely, he decides to be nice. Really, really nice. Which is awkward because he's still the same, evil Voldemort. 
->> It's primary rationalist themes involve reconciling the inherent absurdity of "Magic" with reality, and all the implications that carries with it. Tonally, it's reminiscent of the more self-aware, humorous chapters of HPMOR.
 >> 
+>> If we pretended that all the MLP characters were just original characters, the premise would be more or less that a group of Animagus witches investigating the "Stars in the Heavens" prophecy come to Hogwarts and Harry learns that the power scale of Magic goes much, much higher than he initially assumed and as such, Quirrell's strategy towards handling Harry changes significantly. Namely, he decides to be nice. Really, really nice. Which is awkward because he's still the same, evil Voldemort. 
+>> 
+>> It's primary rationalist themes involve reconciling the inherent absurdity of "Magic" with reality, and all the implications that carries with it. Tonally, it's reminiscent of the more self-aware, humorous chapters of HPMOR.
 
-> **u/mcgruntman** [+5] *
+> **u/mcgruntman** [+4]  (20 hours later)
 > 
 > I really enjoyed this, and have been eagerly awaiting additional chapters since you posted the first ones here a couple of years ago. Thank you for sharing it.
-> 
 
-> **u/None** [+3] *
+> **u/None** [+3]  (11 hours later)
 > 
 > Immediately in chapter one we have a dog/dragon somehow bypassing the stealth abilities of one of the most powerful magical artifacts in existence.
-> You're not being easy on my SoD here, man.
-> Edit: Right. I get that Discord is chaos and all that, but this is too much "lol so random" and "DID YOU GET MY REFERENCE" humor for me to stomach. Pinkie Pie just makes it worse. I can't read this.
 > 
+> You're not being easy on my SoD here, man.
+> 
+> Edit: Right. I get that Discord is chaos and all that, but this is too much "lol so random" and "DID YOU GET MY REFERENCE" humor for me to stomach. Pinkie Pie just makes it worse. I can't read this.
 
->> **u/Dezoufinous** [+1] *
+>> **u/Dezoufinous** [+1]  (4 days later)
 >> 
 >> Lol, your comment actually made me interested in this fic and I am gonna try it someday X D
->> 
 
->> **u/ConstructionFun4255** [+1] *
+>> **u/ConstructionFun4255** [+1]  (3 years later)
 >> 
 >> same
->> 
 
 ---
 

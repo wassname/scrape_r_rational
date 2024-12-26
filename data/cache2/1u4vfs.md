@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (4 minutes later)
 > 
 > I found this insanely enjoyable so I think y'all might, too.
-> I linked straight to the archive page, so as to avoid any spoilers by looking at the latest comic.
 > 
+> I linked straight to the archive page, so as to avoid any spoilers by looking at the latest comic.
 
 ---
 

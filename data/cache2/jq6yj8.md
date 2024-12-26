@@ -2,7 +2,7 @@
 
 * Author: u/MegajouleWrites  *superheroes, depersonalization, and hallway fights**
 * URL: https://www.reddit.com/r/rational/comments/jq6yj8/inheritors_episode_eight/
-* Score: 9
+* Score: 10
 
 * Created: 2020-11-08T06:19:59
 

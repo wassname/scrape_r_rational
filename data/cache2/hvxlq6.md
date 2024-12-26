@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Amonwilde** [+1] *
+> **u/Amonwilde** [+1]  (40 minutes later)
 > 
 > Remarkable.
-> 
 
 ---
 

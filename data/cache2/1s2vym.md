@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (15 seconds later)
 > 
 > A MoR!verse oneshot.
-> 
 
 ---
 

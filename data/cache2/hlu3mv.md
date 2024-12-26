@@ -16,43 +16,39 @@ Pyrebound is a darkish fantasy I've been serializing for the past year and a hal
 
 ### Comments:
 
-> **u/RedSheepCole** [+3] *
+> **u/RedSheepCole** [+3]  (5 hours later)
 > 
 > Also in PB news, [I did a podcast about it](https://youtu.be/Na3hne7YsKg) with a couple of friends today.  Warning: the audio quality is far from top-notch--I had to use my laptop's microphone, so it cuts out in spots--but it's some behind-the-scenes stuff, a look at the worldbuilding, etc.  Also, I confess my fear that one of you is going to call me on my bullshit.
-> I promise my voice is not usually that dweeby.  I think.
 > 
+> I promise my voice is not usually that dweeby.  I think.
 
-> **u/Dent7777** [+3]  *House Atreides**
+> **u/Dent7777** [+3]  *House Atreides* (15 hours later)
 > 
 > After so long, Ram makes what seems like his final return to Dul-K. I'm hoping Rammash can rally the people and the former militiamen into forming a coalition to oppose or balance out the interests of the elites. Only through institution-building can Ram effect lasting change in the region.
-> On the other hand, he could use violence to cow or disable his enemies, but I don't think that would be productive or profitable long term.
 > 
+> On the other hand, he could use violence to cow or disable his enemies, but I don't think that would be productive or profitable long term.
 
-> **u/None** [+3] *
+> **u/None** [+3]  (22 hours later)
 > 
 > [deleted]
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (22 hours later)
 >> 
 >> Really, it was too subtle for *Piridur*.
->> 
 
-> **u/ashinator92** [+3] *
+> **u/ashinator92** [+3]  (a day later)
 > 
 > thanks for posting this :). I started reading Pyrebound today, and I really like it so far.
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (a day later)
 >> 
 >> Hey, always glad to have another reader.  You're quite welcome.
->> 
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (2 days later)
 > 
 > This work really stands out as a fantastic piece of world-building. The setting is at once harsh, unique, and flavorful.
-> The protagonist is also remarkable. He's smart, human, good-natured - and yet, constantly challenged in many ways, often needing to exercise his judgment and frequently compromise to survive.
 > 
+> The protagonist is also remarkable. He's smart, human, good-natured - and yet, constantly challenged in many ways, often needing to exercise his judgment and frequently compromise to survive.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/gbear605  *history’s greatest story**
 * URL: https://readms.net/r/neverland/068/4776/1
-* Score: 20
+* Score: 18
 
 * Created: 2017-12-22T17:03:44
 

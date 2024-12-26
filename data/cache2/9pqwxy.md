@@ -30,214 +30,207 @@ Can we please talk about this episode?
 
 ### Comments:
 
-> **u/CeruleanTresses** [+18] *
+> **u/CeruleanTresses** [+19]  (2 hours later)
 > 
 > Yes! This episode was amazing. For starters it was consistently hilarious, but I'm also really happy to see Michael and Janet re-expanding their focus from "save these specific humans" to "rework the whole fucked-up afterlife system," and to see the Cockroaches' focus expand from "save ourselves" to "save as many as we can." Michael was so hyperfocused on the main four in the second episode that I was worried those larger threads would be dropped. I'm not worried about that anymore.
-> My dream for the show is that it ends with the Bad Place being dismantled entirely. I don't think you can have a good show about moral philosophy where the characters *don't* eventually reach the conclusion that eternal torture is unacceptable. Fingers crossed.
 > 
+> My dream for the show is that it ends with the Bad Place being dismantled entirely. I don't think you can have a good show about moral philosophy where the characters *don't* eventually reach the conclusion that eternal torture is unacceptable. Fingers crossed.
 
->> **u/daytodave** [+13]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+14]  *an altruistic conversion of calories to hedons* (3 hours later)
 >> 
 >> >My dream for the show is that it ends with the Bad Place being dismantled entirely
->> I would go one step less far and say my dream is that the protagonists realize that this should be their ultimate goal. My impression is that the universe of the show is organized less as the machinery of a grand designer, and more as an ecosystem of competing values.
->> The problem is that the demons have about half the power, and they get to use it more efficiently. It's less work to design a world that tortures 234 people forever, than it is to design a neighborhood that keeps them happy forever.
 >> 
+>> I would go one step less far and say my dream is that the protagonists realize that this should be their ultimate goal. My impression is that the universe of the show is organized less as the machinery of a grand designer, and more as an ecosystem of competing values.
+>> 
+>> The problem is that the demons have about half the power, and they get to use it more efficiently. It's less work to design a world that tortures 234 people forever, than it is to design a neighborhood that keeps them happy forever.
 
->>> **u/CeruleanTresses** [+6] *
+>>> **u/CeruleanTresses** [+6]  (3 hours later)
 >>> 
 >>> True, I'd be happy enough with just the realization. It would be sad to see them fail, but I'll take "characters try to do the Optimal Thing and fail" over "characters try to do the Suboptimal Thing and succeed" any day. It's more fun when they aim high, and I'd feel validated by the show's acknowledgment that hell is unacceptable.
->>> 
 
->>>> **u/FeepingCreature** [+7]  *GCV Literally The Entire Culture**
+>>>> **u/FeepingCreature** [+8]  *GCV Literally The Entire Culture* (5 hours later)
 >>>> 
 >>>> Not watching the show, but it'd be interesting if they realized/it was revealed that hell literally only exists and is 100% made up of people who enjoy judging and punishing others. Not just "hell is other people," but "hell is this specific trait, magnified to a universal law."
->>>> 
 
->>>>> **u/CeruleanTresses** [+6] *
+>>>>> **u/CeruleanTresses** [+5]  (18 hours later)
 >>>>> 
 >>>>> I think it's unlikely that it's the case in this show since it would contradict some of the established canon, but that's an extremely cool premise.
->>>>> 
 
->>>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+2]  *GNU Terry Pratchett* (a day later)
 >>>>> 
 >>>>> "I'm a demon. It's fun."
->>>>> I like this theory.
 >>>>> 
+>>>>> I like this theory.
 
->>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons**
+>>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons* (a day later)
 >>>>>> 
 >>>>>> GNU Terry Pratchett
->>>>>> 
 
->>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>>>>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (a day later)
 >>>>> 
 >>>>> "I'm a demon. It's fun."
->>>>> I like this theory.
 >>>>> 
+>>>>> I like this theory.
 
->> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade* (a day later)
 >> 
 >> > My dream for the show is that it ends with the Bad Place being dismantled entirely. I don't think you can have a good show about moral philosophy where the characters don't eventually reach the conclusion that eternal torture is unacceptable. Fingers crossed.
->> Yes, exactly. Especially since it doesn't even work as a deterrent. It *can't*, by design, due to the just desserts doctrine. So it's literally completely pointless. Eleanor had it right from the beginning: give people *at least* a Medium Place if you really don't feel like rewarding them.
 >> 
+>> Yes, exactly. Especially since it doesn't even work as a deterrent. It *can't*, by design, due to the just desserts doctrine. So it's literally completely pointless. Eleanor had it right from the beginning: give people *at least* a Medium Place if you really don't feel like rewarding them.
 
->>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (3 days later)
 >>> 
 >>> Demons consistently describe torture as fun, and at the point when Janet >!realizes that the main four are the only actual humans around, she decides to help them!<, simply because her purpose is to make humans happy. In the episode where they introduced the Medium Place, they described BP and GP entities as arguing over who *gets* the soul of Mindy St. Clair. So it seems that the purpose of the places isn't to encourage good behavior on earth, but to fulfill the eternal beings desire punish/reward people.
->>> 
 
->>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade* (3 days later)
 >>>> 
 >>>> So basically human souls are just the pawns in a longstanding but probably fragile truce between two races of astoundingly powerful beings who would otherwise destroy each other (and probably take the Universe with them for good measure). Grim but possible.
->>>> 
 
->>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons**
+>>>>> **u/daytodave** [+1]  *an altruistic conversion of calories to hedons* (3 days later)
 >>>>> 
 >>>>> Another take: Michael mentions "millennials," who are demons who have only been around for a thousand years. Maybe demons (and angels?) are former human souls who have become purely good or evil through enough thousands of years of torment/paradise. That would explain why the standards for getting into the Good Place are so strict: only the humans who start out with the most inherent goodness have the potential to ascend to angel-hood.
->>>>> Maybe the whole afterlife system is how they reproduce.
 >>>>> 
+>>>>> Maybe the whole afterlife system is how they reproduce.
 
-> **u/None** [+16] *
+> **u/None** [+18]  (an hour later)
 > 
 > [removed]
-> 
 
->> **u/daytodave** [+19]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+20]  *an altruistic conversion of calories to hedons* (2 hours later)
 >> 
 >> >Is the system for assigning points both unable to discern internal mind-states[...]
->> What's interesting is that Janet *does* have perfect knowledge of the humans' internal mind states, but Jen *doesn't*. Jen is shown listening to testimony, reading case files, and performing tests to make the final decision about who goes to the Good Place or Bad Place. It's not clear if Jen is capable of looking inside Janet's head, but it seems like Jen is "programmed" with a misguided notion of "neutrality" that tells her that because Janet has already decided to side with the humans, information that comes directly from her can't be trusted.
->> Did I mention that this is an NBC comedy? And that they pack all of this into a story that still gets the popular viewership to run in NBC primetime? And that I'm extremely drunk?
 >> 
+>> What's interesting is that Janet *does* have perfect knowledge of the humans' internal mind states, but Jen *doesn't*. Jen is shown listening to testimony, reading case files, and performing tests to make the final decision about who goes to the Good Place or Bad Place. It's not clear if Jen is capable of looking inside Janet's head, but it seems like Jen is "programmed" with a misguided notion of "neutrality" that tells her that because Janet has already decided to side with the humans, information that comes directly from her can't be trusted.
+>> 
+>> Did I mention that this is an NBC comedy? And that they pack all of this into a story that still gets the popular viewership to run in NBC primetime? And that I'm extremely drunk?
 
->> **u/daytodave** [+18]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+16]  *an altruistic conversion of calories to hedons* (an hour later)
 >> 
 >> > the part of the paradox that seems unnecessary to me is the idea that merely knowing that entrance to the Good Place depends on selfless good acts is enough to automatically corrupt motivations to the point of disqualifying the person for points
->> Massive Spoilers >!You're right that this is the flimsiest part of the system, but it's explicitly stated by Micheal (a demon/UFAI) and confirmed by Janet (an FAI who's utility function is to increase human happiness while preserving human values, and who has rebelled along with Michael to try to circumvent the rules to get these four humans they've made a personal connection with into the Good Place), as how the afterlife actually works. One of the things that's amazing about this show is that, without ever saying it, they make it extremely clear that whatever being or force designed the system in the first place (if one even existed), was just as imperfect and flawed as the characters. I wouldn't be surprised at all if they reveal in a later episode that the architect that built the system simply didn't put that much thought into it. It is *so interesting* to watch Eleanor and Micheal (and to a lesser extent Chidi and Janet) cope with the fact that they are simply smarter than Whatever it was that designed reality, though they haven't realized it yet.!<
->> Season 3 only spoilers >!Michael and Janet have stolen the only key to the door between Earth the afterlife; and the Judge of the Universe, Jen (short for Hydrogen, the only thing that existed when she was created), is waiting on the other side to punish them for rebelling. At one point, Michael seriously suggests to Janet that they murder Eleanor, Chidi, Tahani, and Jason, then open the door to the afterlife, create a distraction, and try to grab their souls before they make it across and get sent to the Bad Place. It's that kind of show.!<
 >> 
+>> Massive Spoilers >!You're right that this is the flimsiest part of the system, but it's explicitly stated by Micheal (a demon/UFAI) and confirmed by Janet (an FAI who's utility function is to increase human happiness while preserving human values, and who has rebelled along with Michael to try to circumvent the rules to get these four humans they've made a personal connection with into the Good Place), as how the afterlife actually works. One of the things that's amazing about this show is that, without ever saying it, they make it extremely clear that whatever being or force designed the system in the first place (if one even existed), was just as imperfect and flawed as the characters. I wouldn't be surprised at all if they reveal in a later episode that the architect that built the system simply didn't put that much thought into it. It is *so interesting* to watch Eleanor and Micheal (and to a lesser extent Chidi and Janet) cope with the fact that they are simply smarter than Whatever it was that designed reality, though they haven't realized it yet.!<
+>> 
+>> Season 3 only spoilers >!Michael and Janet have stolen the only key to the door between Earth the afterlife; and the Judge of the Universe, Jen (short for Hydrogen, the only thing that existed when she was created), is waiting on the other side to punish them for rebelling. At one point, Michael seriously suggests to Janet that they murder Eleanor, Chidi, Tahani, and Jason, then open the door to the afterlife, create a distraction, and try to grab their souls before they make it across and get sent to the Bad Place. It's that kind of show.!<
 
->>> **u/None** [+5] *
+>>> **u/None** [+6]  (a day later)
 >>> 
 >>> This is one of the main reasons I love The Good Place. It really showcases just how uncaring and thoughtless divine beings would have to be, to actually design and implement an afterlife that works anything like the traditional one.
->>> I especially love how it contrasts this with all the evidence that these beings really are beyond human understanding in real, concrete ways. Like the Jeremy Berenstein sketch they had in the episode, about how time works differently in the afterlife relative to the normal world, or all those throw away signs about humans having too few senses to truly perceive the universe, or how all of the afterlife characters are all really, really old. 
->>> I find the Good Place at it's best, when I realize that Michael isn't just being particularly bad at explaining something; it's just that the concept is, canonically, supposed to be beyond what the human brain is capable of handling.
->>> I would say it's less that our human characters are smarter than whoever designed the universe. I think it's more that they're in a situation, where the afterlife was designed by eldritch, ascended, beyond human-comprehension Cthulu-like beings, who didn't actually understand humans that well, and never bothered to do the research. It would be like a particularly lazy teen trying to design a perfect zoo for animals they've never seen before. They may be smarter than those animals in qualitative and quantitative ways, capable of producing thoughts and entertaining concepts the animals could literally never understand... and yet they're still probably going to do a really, really bad job at designing that zoo, because they simply don't care.
->>> To me, the scariest part of the Good Place is the sheer apathy of the afterlife. Nobody involved in the process of judging people actually seems to care that much about people; they're all just punching clocks, waiting for their shift (the universe) to end.
 >>> 
+>>> I especially love how it contrasts this with all the evidence that these beings really are beyond human understanding in real, concrete ways. Like the Jeremy Berenstein sketch they had in the episode, about how time works differently in the afterlife relative to the normal world, or all those throw away signs about humans having too few senses to truly perceive the universe, or how all of the afterlife characters are all really, really old. 
+>>> 
+>>> I find the Good Place at it's best, when I realize that Michael isn't just being particularly bad at explaining something; it's just that the concept is, canonically, supposed to be beyond what the human brain is capable of handling.
+>>> 
+>>> I would say it's less that our human characters are smarter than whoever designed the universe. I think it's more that they're in a situation, where the afterlife was designed by eldritch, ascended, beyond human-comprehension Cthulu-like beings, who didn't actually understand humans that well, and never bothered to do the research. It would be like a particularly lazy teen trying to design a perfect zoo for animals they've never seen before. They may be smarter than those animals in qualitative and quantitative ways, capable of producing thoughts and entertaining concepts the animals could literally never understand... and yet they're still probably going to do a really, really bad job at designing that zoo, because they simply don't care.
+>>> 
+>>> To me, the scariest part of the Good Place is the sheer apathy of the afterlife. Nobody involved in the process of judging people actually seems to care that much about people; they're all just punching clocks, waiting for their shift (the universe) to end.
 
->> **u/CeruleanTresses** [+13] *
+>> **u/CeruleanTresses** [+13]  (2 hours later)
 >> 
 >> >Is the system for assigning points both unable to discern internal mind-states
->> I believe it is able to discern them, because >!Tahani was originally sent to the Bad Place, in spite of her impressive track record of charitable giving, specifically because her motivations were corrupt (everything she did was basically a futile attempt to one-up her sister). !< But as /u/daytodave points out, >!the Judge doesn't seem to have that ability, or at least hasn't been shown using it. That suggests to me that the point-assigning system and the Judge might be distinct entities.!<
->> Notably, the system overall seems pretty unfair, in that it apparently demands that you adhere to *both* deontological and utilitarian ethics. >!Tahani got Hell'd for corrupt intentions despite her positive impact, while Chidi got Hell'd for failing to make a positive impact despite his good intentions.!< I don't say this as a criticism of the show, since I think the unfairness is intentional.
 >> 
+>> I believe it is able to discern them, because >!Tahani was originally sent to the Bad Place, in spite of her impressive track record of charitable giving, specifically because her motivations were corrupt (everything she did was basically a futile attempt to one-up her sister). !< But as /u/daytodave points out, >!the Judge doesn't seem to have that ability, or at least hasn't been shown using it. That suggests to me that the point-assigning system and the Judge might be distinct entities.!<
+>> 
+>> Notably, the system overall seems pretty unfair, in that it apparently demands that you adhere to *both* deontological and utilitarian ethics. >!Tahani got Hell'd for corrupt intentions despite her positive impact, while Chidi got Hell'd for failing to make a positive impact despite his good intentions.!< I don't say this as a criticism of the show, since I think the unfairness is intentional.
 
->>> **u/daytodave** [+13]  *an altruistic conversion of calories to hedons**
+>>> **u/daytodave** [+12]  *an altruistic conversion of calories to hedons* (2 hours later)
 >>> 
 >>> >That suggests to me that the point-assigning system and the Judge might be distinct entities
->>> In this episode there's a throwaway line that I'm ulmostsatively positive is foreshadowing: Janet says, "I don't know the exact point values of their actions. Nobody has access to that information, except the Accountants."
 >>> 
+>>> In this episode there's a throwaway line that I'm ulmostsatively positive is foreshadowing: Janet says, "I don't know the exact point values of their actions. Nobody has access to that information, except the Accountants."
 
->>>> **u/CeruleanTresses** [+5] *
+>>>> **u/CeruleanTresses** [+5]  (2 hours later)
 >>>> 
 >>>> Ooh, nicely caught!
->>>> 
 
->> **u/ben_sphynx** [+2] *
+>> **u/ben_sphynx** [+2]  (a day later)
 >> 
 >> Maybe that is a lie. They did hear it from Michael. Maybe it is the lie that allows them to do actual good without their motivation being improving their points.
->> 
 
-> **u/WalterTFD** [+8] *
+> **u/WalterTFD** [+7]  (10 hours later)
 > 
 > The good place is amazing.  Jason is the best Holy Fool that I've ever seen in a tv show.
-> 
 
-> **u/Anderkent** [+4] *
+> **u/Anderkent** [+5]  (14 minutes later)
 > 
 > What's the paradox? Not having seen the show, it doesn't seem like there is one.
-> 
 
->> **u/daytodave** [+8]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+11]  *an altruistic conversion of calories to hedons* (33 minutes later)
 >> 
 >> *Eleanor knows the afterlife works on a points system based on good acts done with no ulterior motives. Therefore any good she does in the world is inherently selfish, because it helps her get into the Good Place. Therefore, she can't earn points, and can never get into the Good Place.*
->> **Eleanor knows she can't get into the Good Place, yet she chooses to do good anyway. Because she knows she can't be saved, her good actions are selfless. She chooses to dedicate her life to goodness, knowing that there is no reward in store, and therefore her good actions are selfless and should earn her points.**
->> And because Eleanor is a brilliant rationalist, if she ever has a moment of hope that she'll get in because the second paragraph is true, she will immediately deduce that being good is her most self-preserving option, and further deduce that her knowing this makes all her goodness selfish, thereby convincing her that the first paragraph is true again. That will mean her good actions are selfless...
->> ***
->> Edited for readability
 >> 
+>> **Eleanor knows she can't get into the Good Place, yet she chooses to do good anyway. Because she knows she can't be saved, her good actions are selfless. She chooses to dedicate her life to goodness, knowing that there is no reward in store, and therefore her good actions are selfless and should earn her points.**
+>> 
+>> And because Eleanor is a brilliant rationalist, if she ever has a moment of hope that she'll get in because the second paragraph is true, she will immediately deduce that being good is her most self-preserving option, and further deduce that her knowing this makes all her goodness selfish, thereby convincing her that the first paragraph is true again. That will mean her good actions are selfless...
+>> 
+>> ***
+>> 
+>> Edited for readability
 
->>> **u/CeruleanTresses** [+5] *
+>>> **u/CeruleanTresses** [+4]  (2 hours later)
 >>> 
 >>> Not only does she potentially escape the paradox, there's also inherent value in the fact that she found a way to use the same information that damned her to accomplish what I'd argue is infinite good (saving even a single soul from infinite suffering counts as infinitely good, right?). Like, even if the Judge goes "nice try" and Hells her anyway, she still accomplishes a great deal.
->>> 
 
->>>> **u/Geminii27** [+6] *
+>>>> **u/Geminii27** [+5]  (4 hours later)
 >>>> 
 >>>> It'd be interesting if, when her time comes to be judged, her selfishness-via-knowledge bars her from the Good Place, but her actions nonetheless bar her from the Bad Place... and all of a sudden we find out that *there is a third option* - one which is not generally known about, which only a vanishingly small fraction of souls end up with, but the existence of which could, in theory, have been logically deduced from carefully watching the show.
->>>> Examples: Do there exist beings/characters in the show which are (or might be) younger than the existence of the Places, are not currently living a normal pre-death life (i.e. regular humans etc), and which also have (as far as can be told) not been sorted into one of the two Places? Where do you think they came from?
->>>> Other alternatives: the Unsorted are the ones keeping everything running behind the scenes. They're bureaucrats, assistants, maintenance, tech support. The vast majority of beings of all stripe couldn't recognize them on sight and wouldn't pay attention to anything they were doing. They have appeared in background shots throughout the series.
->>>> Or... there are more afterlife frameworks than the Places. Possibly older ones. But since their creation, the Places have been sucking up almost all the souls. That doesn't mean the older afterlives aren't there any more...
 >>>> 
+>>>> Examples: Do there exist beings/characters in the show which are (or might be) younger than the existence of the Places, are not currently living a normal pre-death life (i.e. regular humans etc), and which also have (as far as can be told) not been sorted into one of the two Places? Where do you think they came from?
+>>>> 
+>>>> Other alternatives: the Unsorted are the ones keeping everything running behind the scenes. They're bureaucrats, assistants, maintenance, tech support. The vast majority of beings of all stripe couldn't recognize them on sight and wouldn't pay attention to anything they were doing. They have appeared in background shots throughout the series.
+>>>> 
+>>>> Or... there are more afterlife frameworks than the Places. Possibly older ones. But since their creation, the Places have been sucking up almost all the souls. That doesn't mean the older afterlives aren't there any more...
 
->>>>> **u/BaggyOz** [+3] *
+>>>>> **u/BaggyOz** [+3]  (10 hours later)
 >>>>> 
 >>>>> You've unknowingly hit on a plot point of previous episodes.
->>>>> 
 
->>>>>> **u/Geminii27** [+1] *
+>>>>>> **u/Geminii27** [+1]  (15 hours later)
 >>>>>> 
 >>>>>> Ha! I guess narrative conventions are the same everywhere you go.
->>>>>> 
 
->>>>> **u/BadSpeiling** [+1] *
+>>>>> **u/BadSpeiling** [+1]  (6 days later)
 >>>>> 
 >>>>> Don't forget, she has already been judged and was the only one of the 4 to succeed
->>>>> 
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (9 hours later)
 > 
 > I've been watching the first few episodes and the attitude really irks me. The total disregard for the potential of an eternal future in the hell feels so unrealistic. Sure, someone might in moment forget or hope that nobody finds out but I can't possibly imagine someone being like "oh I know that these lessons will secure my eternal life but I can't be arsed to even open the book I was given for homework."
-> Does that attitude change?
 > 
+> Does that attitude change?
 
->> **u/None** [+8] *
+>> **u/None** [+8]  (10 hours later)
 >> 
 >> The attitude changes dramatically throughout the show, and reached another turning point with the most recent ones.  
->> Also you have to remember that all people's thoughts are a big pile of habits.  Changing habits is slow, tedious work.  And there's plenty of Historical examples of people unable to get their shit together in the face of an overwhelming impending crisis.  Hysteresis is a powerful force.
 >> 
+>> Also you have to remember that all people's thoughts are a big pile of habits.  Changing habits is slow, tedious work.  And there's plenty of Historical examples of people unable to get their shit together in the face of an overwhelming impending crisis.  Hysteresis is a powerful force.
 
-> **u/littlenag** [+2] *
+> **u/littlenag** [+2]  (22 hours later)
 > 
 > Given that they are supposed to now be in an alternate timeline (goodness how many jokes did they get out a freaking timeline!), I'm honestly confused how they are supposed to actually save "anyone". Are they actually saving copies of the people they used to know? How does that work?
-> From what they said in the episode my intuition says that everyone else in the universe, apart from the main six, should actually be philosophical zombies. 
-> And if not, then the afterlife folks end up with a curious situation where they will have judged the same soul twice, with potentially different outcomes. How could they square that?
 > 
+> From what they said in the episode my intuition says that everyone else in the universe, apart from the main six, should actually be philosophical zombies. 
+> 
+> And if not, then the afterlife folks end up with a curious situation where they will have judged the same soul twice, with potentially different outcomes. How could they square that?
 
->> **u/earnestadmission** [+3]  *Singular "they" user**
+>> **u/earnestadmission** [+3]  *Singular "they" user* (a day later)
 >> 
 >> In S2 they explicitly change the timeline-it’s not an alternate. The revelations of the new episode have to do with differential time passage between the afterlife and earth, but there’s still only one (“alpha”, in homestuck parlance) timeline.
->> 
 
-> **u/FireHawkDelta** [+2]  ***
+> **u/FireHawkDelta** [+2]  ** (a day later)
 > 
 > Where can I watch this show?
-> 
 
->> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons**
+>> **u/daytodave** [+2]  *an altruistic conversion of calories to hedons* (2 days later)
 >> 
 >> The first two seasons are on Netflix, and I think Hulu. The third season is on NBC and the pirate bay.
->> 
 
->>> **u/roystgnr** [+1] *
+>>> **u/roystgnr** [+1]  (5 days later)
 >>> 
 >>> The third season is showing up on Hulu (at least on Hulu Plus or whatever they call the paid subscription option) too.
->>> 
 
->>> **u/BadSpeiling** [+1] *
+>>> **u/BadSpeiling** [+1]  (6 days later)
 >>> 
 >>> ive got season 3 on netflix australia
->>> 
 
 ---
 

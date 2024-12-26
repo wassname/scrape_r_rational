@@ -2,7 +2,7 @@
 
 * Author: u/eaglejarl *
 * URL: https://www.reddit.com/r/rational/comments/3zc8mq/ffrt_marked_for_death_a_rational_naruto_quest/
-* Score: 20
+* Score: 22
 
 * Created: 2016-01-04T00:07:16
 
@@ -22,42 +22,36 @@ The story updates every Thursday (Velorien) and Sunday (me).  Drop by and join i
 
 ### Comments:
 
-> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+3]  *If fighting is sure to result in victory, then you must fight!* (10 hours later)
 > 
 > Lighting Up the Dark guy and Team Anko guy writing on same thing. 
+> 
 > Okay then reading time is now, now is the time of reading. 
 > But will this interfere with LUD and TA, and how do you two write together? Is it turn based or do you send drafts to each other until you both agree on a chapter?
-> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (13 hours later)
 >> 
 >> We take it in turns.  I write on Sundays, /u/Velorien writes on Thursdays.  We coordinate via Hipchat, and each of us generally throws the other a plot hook at least once per update.  /u/FuguOfAnotherWorld (who posts in the quest as Jackercracks) helps with worldbuilding and /u/AugSphere does that and game mechanics.
->> 
 
-> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (19 minutes later)
 > 
 > I would really appreciate a story-only thread on ff.net - it's way easier to scrape to epub or similar.
-> 
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+3]  (42 minutes later)
 >> 
 >> Feel free to copy-paste it over.  Just please keep the references to the original authors.
->> 
 
->> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>> **u/AugSphere** [+1]  *Dark Lord of Corruption* (a day later)
 >> 
 >> If we set up threadmarks in the story-only thread, then scraping should become pretty trivial (at least calibre's FFF should have no problems with it). We'll be able to do it soon, I think.
->> 
 
-> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+> **u/Cariyaga** [+1]  *Kyubey did nothing wrong* (3 hours later)
 > 
 > Hey, uh, thanks for this! I forgot about this, sad to say, but I'm really glad you posted this, 'cause I was actually pretty excited about this when it first came out!
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (4 hours later)
 >> 
 >> No worries.  Stop on over and join in the fun -- because it's just voting for the next action on a single character it's possible to drop in and out whenever you like.
->> 
 
 ---
 

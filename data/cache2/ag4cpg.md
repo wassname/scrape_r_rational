@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/ag4cpg/stories_similar_to_pokemon_origin_of_species/
-* Score: 33
+* Score: 34
 
 * Created: 2019-01-15T03:49:36
 
@@ -16,134 +16,125 @@ Like many people, HPMOR was my first rational work, and I loved the lessons, ing
 
 ### Comments:
 
-> **u/noggin-scratcher** [+22]  *I am a happy tree**
+> **u/noggin-scratcher** [+22]  *I am a happy tree* (10 hours later)
 > 
 > I really love the group dynamic in [Twig](https://twigserial.wordpress.com/) - I don't know if it'll match exactly what you like about Origin of Species but the core group are all well defined and the way they bounce off each other is a delight.
-> 
 
->> **u/DaystarEld** [+4]  *Pokémon Professor**
+>> **u/DaystarEld** [+4]  *Pokémon Professor* (a day later)
 >> 
 >> Seconding this, /u/Shroomily. Twig is my favorite of Wildbow's stories, and the characters and their interactions are why.
->> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (2 days later)
 >> 
 >> Agree, the party banter here is second to none^*, but don't read this if you're easily bothered by body horror.
->> ^* at least in Wildbow's works. Ward is coming along rather nicely, but there's an inherent *familiarity* between the Lambs, whereas the people from Ward came together under very special circumstances, which shows in their interactions.
 >> 
+>> ^* at least in Wildbow's works. Ward is coming along rather nicely, but there's an inherent *familiarity* between the Lambs, whereas the people from Ward came together under very special circumstances, which shows in their interactions.
 
->> **u/THEHYPERBOLOID** [+2] *
+>> **u/THEHYPERBOLOID** [+2]  (2 days later)
 >> 
 >> The character interactions were by far my favorite part of Twig.
->> 
 
-> **u/xamueljones** [+16]  *My arch-enemy is entropy**
+> **u/xamueljones** [+14]  *My arch-enemy is entropy* (7 hours later)
 > 
 > Just to let you know, I'd recommend posting requests like this to the Monday Thread from now on. The Monday Thread is now meant to cover recommendation requests.
-> I'm not saying that this post should be taken down or anything like that, but this is just a gentle reminder for the future.
-> The teamwork isn't the focus of the story, [Silver](https://www.fanfiction.net/s/11575324/1/Silver), but it's a major component especially when the rest of JPNR finds out the secret Jaune has been keeping from them by lying to them. Mending their damaged relationships is a major arc in this story.
 > 
+> I'm not saying that this post should be taken down or anything like that, but this is just a gentle reminder for the future.
+> 
+> The teamwork isn't the focus of the story, [Silver](https://www.fanfiction.net/s/11575324/1/Silver), but it's a major component especially when the rest of JPNR finds out the secret Jaune has been keeping from them by lying to them. Mending their damaged relationships is a major arc in this story.
 
->> **u/None** [+3] *
+>> **u/None** [+4]  (17 hours later)
 >> 
 >> Thanks for the tip, I'll be sure to stick to the monday thread in the future.
->> 
 
-> **u/LazarusRises** [+7] *
+> **u/LazarusRises** [+7]  (10 hours later)
 > 
 > All of Sanderson's work has great team dynamics & relationship-building. Mistborn is best for this, but Stormlight Archive does it well too--the bonding of Bridge Four is especially good.
-> 
 
->> **u/CraftyTrouble** [+4] *
+>> **u/CraftyTrouble** [+6]  (21 hours later)
 >> 
 >> Disagree. Mistborn is more of a mentor/pupil + side characters ensemble. It's nothing like PTOOS. And not one of the characters feels half as bright as Red/Blue/Leaf.
->> 
 
->> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 >> 
 >> Seconding /u/CraftyTrouble's disagreement. Mistborn is the only Sanderson series I've read and I actually haven't read anything else in large part because his characters felt so... dry and flat. 
->> The first of the Mistborn books was the best in this regard, specifically because of Kelsier, but the second two were actually hard to get through. The worldbuilding and magic system is great, but the characters not so much.
 >> 
+>> The first of the Mistborn books was the best in this regard, specifically because of Kelsier, but the second two were actually hard to get through. The worldbuilding and magic system is great, but the characters not so much.
 
->>> **u/dinoseen** [+1] *
+>>> **u/dinoseen** [+1]  (3 days later)
 >>> 
 >>> The second trilogy is much better in that respect.
->>> 
 
->>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+1]  *Pokémon Professor* (3 days later)
 >>>> 
 >>>> I actually did read the first of that, Alloy of Law. I enjoyed it, but not enough to keep going. I was majorly annoyed by the end of the Mistborn trilogy, and Alloy actually had the result of that annoyance keep popping up to remind me and adding more annoyance onto it, so...
->>>> >!Talking about the whole "This character ascended to godhood and is now helping make sure everything turns out okay.!<
 >>>> 
+>>>> >!Talking about the whole "This character ascended to godhood and is now helping make sure everything turns out okay.!<
 
->>>>> **u/dinoseen** [+1] *
+>>>>> **u/dinoseen** [+1]  (4 days later)
 >>>>> 
 >>>>> Yeah, it's a bit SOD breaking for there to still be meaningful conflict with the power and benevolence of Harmony. I've heard that SPOILER the main villain of the series has supernatural means of evading Harmony's sight, but even that shouldn't be enough honestly.
->>>>> Maybe he got lobotomised when he ascended to godhood.
->>>>> I'm only part way through Alloy of Law.
 >>>>> 
+>>>>> Maybe he got lobotomised when he ascended to godhood.
+>>>>> 
+>>>>> I'm only part way through Alloy of Law.
 
->>>>>> **u/kurtofconspiracy** [+1] *
+>>>>>> **u/kurtofconspiracy** [+1]  (5 days later)
 >>>>>> 
 >>>>>> It is made quite explicit that >!over time holding a shard twists you to behave in accordance with its nature as opposed to your own. Ruin was originally a nice guy. And even while your mind is still your own, using the power in ways opposed to its style is hard or impossible. Note how the Lord Ruler, in wanting to get rid of Feruchemists, ended up turning them into immortal blobs when using the power of Preservation. In the case of Harmony, that nature seems to include Avoiding Rocking Boats!<, which makes sense at least to me. I like the bombastic cosmic-scale exploration of the fact that in isolation, even virtues are destructive.
->>>>>> Also, you should keep in mind that the backstory for this universe includes a group of people killing Adonalsium who held all the Shards, which implies something about the power level of individual ones. To be fair that is not mentioned in any of the existing books, so it's a poor argument for the SOD level of the work itself.
->>>>>> That being said, I do agree that I've never seen a group dynamic like Red-Blue-Leaf in Sanderson's work.
 >>>>>> 
+>>>>>> Also, you should keep in mind that the backstory for this universe includes a group of people killing Adonalsium who held all the Shards, which implies something about the power level of individual ones. To be fair that is not mentioned in any of the existing books, so it's a poor argument for the SOD level of the work itself.
+>>>>>> 
+>>>>>> That being said, I do agree that I've never seen a group dynamic like Red-Blue-Leaf in Sanderson's work.
 
-> **u/CraftyTrouble** [+7] *
+> **u/CraftyTrouble** [+7]  (21 hours later)
 > 
 > I think what stands out about PTOOS is that each character has a distinct personality and real agency, making their interactions feel genuine and interesting. It feels like real, intelligent people interacting rather than a single-mind author telling a story. Another fic with this quality is [Marked for Death](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest-story-only.24793/), if you ask me.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (23 hours later)
 >> 
 >> Wow, I feel like you hit it right on the mark.  It can be pretty hard to discern what makes something enjoyable sometimes but I feel like your analysis encompasses it pretty well.  I'll be sure to check that fic out.
->> 
 
-> **u/DaystarEld** [+3]  *Pokémon Professor**
+> **u/DaystarEld** [+3]  *Pokémon Professor* (a day later)
 > 
 > I'm glad you've enjoyed the characters so much! In addition to Twig, Worth the Candle, and Marked for Death, I'd also recommend [Animorphs: The Reckoning](https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning). It has less in the way of fun and warm friendship moments, but the author does a great job of writing rational and fleshed out, agenty characters.
-> For non-rational fiction, I'd recommend IT by Stephen King.
 > 
+> For non-rational fiction, I'd recommend IT by Stephen King.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (a day later)
 >> 
 >> I actually am reading A:TR as well, though I'm not fully caught up, but I agree. These are all great stories, I'll be sure to check them out.  I only wish I'd received more TV suggestions haha
->> Thanks for writing, I'm enjoying it a ton!
 >> 
+>> Thanks for writing, I'm enjoying it a ton!
 
-> **u/Addictedtobadfanfict** [+4] *
+> **u/Addictedtobadfanfict** [+3]  (3 hours later)
 > 
 > What you are looking for is so broad that I cannot suggest anything. Can you narrow it down what exactly you are looking for with character interactions and not leave it to our own interpretation?
-> 
 
->> **u/None** [+6] *
+>> **u/None** [+5]  (17 hours later)
 >> 
 >> Sorry, it's difficult to put into words exactly what I'm looking for, partially because I'm not positive what all it entails either. It's kind of like porn, you just know it when you see it.
->> The best description I could give is something like: "Media that depicts friendship in a compelling and fulfilling way without coming across as trite or cliche, and without friendship being the entire plot."
 >> 
+>> The best description I could give is something like: "Media that depicts friendship in a compelling and fulfilling way without coming across as trite or cliche, and without friendship being the entire plot."
 
->>> **u/Fresh_C** [+8] *
+>>> **u/Fresh_C** [+8]  (20 hours later)
 >>> 
 >>> If you haven't already, I'd give [Worth the Candle](https://archiveofourown.org/works/11478249/chapters/25740126) a try.
->>> It takes a little while for the character dynamics to build up, but after a while you get a lot of small moments and bigger touching scenes between the cast. The only downside is that while it's heavily implied (and explicitly stated if I'm not mistaken) that the rest of the cast have equally deep relationships among each other, you mainly see things from Juniper's point of view so most of the interactions "Joon/Supporting character", rather than "Supporting Character/Supporting Character". But it's clear that they all have varied and nuanced relationships with each other.
 >>> 
+>>> It takes a little while for the character dynamics to build up, but after a while you get a lot of small moments and bigger touching scenes between the cast. The only downside is that while it's heavily implied (and explicitly stated if I'm not mistaken) that the rest of the cast have equally deep relationships among each other, you mainly see things from Juniper's point of view so most of the interactions "Joon/Supporting character", rather than "Supporting Character/Supporting Character". But it's clear that they all have varied and nuanced relationships with each other.
 
->>>> **u/DaystarEld** [+4]  *Pokémon Professor**
+>>>> **u/DaystarEld** [+4]  *Pokémon Professor* (a day later)
 >>>> 
 >>>> Seconding this, /u/Shroomily.
->>>> 
 
->>> **u/HarmlessHealer** [+3] *
+>>> **u/HarmlessHealer** [+3]  (2 days later)
 >>> 
 >>> Have you read Twig? That description pretty much nails the main group's interactions.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (3 days later)
 >>>> 
 >>>> I read the first few chapters, then I got distracted and forgot about it lol
->>>> But I've read every other wildbow work so I trust it'll be good haha
 >>>> 
+>>>> But I've read every other wildbow work so I trust it'll be good haha
 
 ---
 

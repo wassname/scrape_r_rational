@@ -26,31 +26,33 @@ I'll note that it seems like it's somehow his consciousness doing the jumping se
 
 ### Comments:
 
-> **u/Nepene** [+7] *
+> **u/Nepene** [+8]  (7 minutes later)
 > 
 > I'd, whilst in the future, memorize a list of major natural disasters and as soon as I got a chance say them in front of something that was recording/ a large gathering of people. Try to prove my time travelling powers and say they need to have someone with me with a recorder at all times in case I time travel to there. I'll appear insane of course till things I said start coming true.
-> I'd try and work out what scientific advances appeared to be easy to transmit and research e.g. "Germanium is an excellent material to use in transistors if you dope it with 6% arsenic" and then say it again at some point along with some future predictions. Try to boost science. My long term goal would be to accelerate science enough that they could get me out of the time loop somehow.
 > 
+> I'd try and work out what scientific advances appeared to be easy to transmit and research e.g. "Germanium is an excellent material to use in transistors if you dope it with 6% arsenic" and then say it again at some point along with some future predictions. Try to boost science. My long term goal would be to accelerate science enough that they could get me out of the time loop somehow.
 
-> **u/alexanderwales** [+8]  *Time flies like an arrow**
+> **u/alexanderwales** [+8]  *Time flies like an arrow* (an hour later)
 > 
 > It's a whole lot harder to munchkin than you might think, because the timeline is static - once you've seen something happen, you have no way of changing it. This is explicit in his conversations with the Tralfamadorians.
-> So you only really get one shot at each slice of time, and you're taking those slices of time out of order. Furthermore, you know causality well enough that things seen in future time slices can't be contradicted by things seen in past time slices, or vice versa. And you don't start out knowing what segment of time you're in when you make the transition.
-> I suppose that my grand strategy would be the same as /u/Nepene, I just think that it would be less likely to work.
-> I would probably carry a notebook with me which tells the date, time, and major incidents that I should be aware of. That cuts down on the confusion inherent in being unstuck from time. There's probably some better scheme for coordinating information with selves, but I can't think of one right now, especially given the time period.
 > 
+> So you only really get one shot at each slice of time, and you're taking those slices of time out of order. Furthermore, you know causality well enough that things seen in future time slices can't be contradicted by things seen in past time slices, or vice versa. And you don't start out knowing what segment of time you're in when you make the transition.
+> 
+> I suppose that my grand strategy would be the same as /u/Nepene, I just think that it would be less likely to work.
+> 
+> I would probably carry a notebook with me which tells the date, time, and major incidents that I should be aware of. That cuts down on the confusion inherent in being unstuck from time. There's probably some better scheme for coordinating information with selves, but I can't think of one right now, especially given the time period.
 
->> **u/Nepene** [+8] *
+>> **u/Nepene** [+9]  (an hour later)
 >> 
 >> If you can't change the future that can be worked around. For example suppose you read in a book that the 1964 Great Alaska Earthquake and killed 131 people.
->> You can then go to the past, prove your future knowledge, and tell them exactly what you book you'll later read has to contain.
->> You could actually munchkin the time lock power. Once you have influence over the people get them to show you videos of positive events that have happened over the years to lock those in place.
 >> 
+>> You can then go to the past, prove your future knowledge, and tell them exactly what you book you'll later read has to contain.
+>> 
+>> You could actually munchkin the time lock power. Once you have influence over the people get them to show you videos of positive events that have happened over the years to lock those in place.
 
-> **u/chaosmosis** [+5]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+3]  *and with strange aeons, even death may die* (5 hours later)
 > 
 > Depending on the frequency of the jumps, I might take a minute out of every half hour to write short notes to myself or leave recorded messages describing my situation and short term goals.
-> 
 
 ---
 

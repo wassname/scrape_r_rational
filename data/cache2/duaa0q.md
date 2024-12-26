@@ -2,7 +2,7 @@
 
 * Author: u/terintom93 *
 * URL: https://www.reddit.com/r/rational/comments/duaa0q/spoilers_practical_guide_to_evil_doubts_volume_3/
-* Score: 2
+* Score: 4
 
 * Created: 2019-11-10T11:19:57
 
@@ -22,78 +22,82 @@ Please explain my doubts which are presented below
 
 ### Comments:
 
-> **u/TrajectoryAgreement** [+9] *
+> **u/TrajectoryAgreement** [+11]  (55 minutes later)
 > 
 > The main thing to note is that stories matter a lot in Arcadia, and so they have magnified effects on the fae and on reality.
-> 1: The fae trapped her in the story by giving her the costume of Princess Sulia and essentially giving her the role of Sulia. They were trying to continue the traditional Winter/Summer cycle, and now that Summer is attacking Calernia, they're using Cat as a replacement "princess", which works because from the perspective of the overarching narrative there is no meaningful difference.
-> 2: Summer attacked Calernia, so Winter had to attack as well to balance stuff out. Again this is because of the narrative tying their hands: the courts have to move in symmetry.
-> 3: She made a story of "the daughter killing her long-lost father only to realize afterwards", but then because she bargained for "the right to always have had that ring" (and thus the ability to retroactively gain the title of Duchess/heir to the Duke), she won against the Duke by retroactively making herself his "daughter" and leveraging the story to kill him. In the process she gained a fae title as well.
-> 4: The story forced them to. Cat forced them to go along with the story of the King of Winter inviting a foreign despot to his realm.
 > 
+> 1: The fae trapped her in the story by giving her the costume of Princess Sulia and essentially giving her the role of Sulia. They were trying to continue the traditional Winter/Summer cycle, and now that Summer is attacking Calernia, they're using Cat as a replacement "princess", which works because from the perspective of the overarching narrative there is no meaningful difference.
+> 
+> 2: Summer attacked Calernia, so Winter had to attack as well to balance stuff out. Again this is because of the narrative tying their hands: the courts have to move in symmetry.
+> 
+> 3: She made a story of "the daughter killing her long-lost father only to realize afterwards", but then because she bargained for "the right to always have had that ring" (and thus the ability to retroactively gain the title of Duchess/heir to the Duke), she won against the Duke by retroactively making herself his "daughter" and leveraging the story to kill him. In the process she gained a fae title as well.
+> 
+> 4: The story forced them to. Cat forced them to go along with the story of the King of Winter inviting a foreign despot to his realm.
 
->> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (4 hours later)
 >> 
 >> If I remember right summer attacked Akua, I haven't seen a smoking gun for if this was summer natively objecting to what Liesse was being crafted into, or because somone meddling with a narrative.  There is a RAFO reason for winter choosing to attack Catherine.
->> 
 
->>> **u/TrajectoryAgreement** [+2] *
+>>> **u/TrajectoryAgreement** [+2]  (4 hours later)
 >>> 
 >>> >RAFO
->>> Fellow Sanderson fan, I see.
 >>> 
+>>> Fellow Sanderson fan, I see.
 
->>> **u/terintom93** [+2] *
+>>> **u/terintom93** [+2]  (6 hours later)
 >>> 
 >>> As expected... Thanks a lot...
->>> I am a huge Sanderson fan BTW... I would appreciate any recommendations in a similar vein as Sanderson... I've read Rothfuss, will wight, Islington
 >>> 
+>>> I am a huge Sanderson fan BTW... I would appreciate any recommendations in a similar vein as Sanderson... I've read Rothfuss, will wight, Islington
 
->>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (9 hours later)
 >>>> 
 >>>> > will wight, Islington
->>>> I'll have to look at those.  I don't know that I have anyone that really tickles my Sanderson bone.  I do like dresden files and Laundryverse for as sweeping and interconnected epics, but I don't know anybody off the top of my head who both does Sanderson's law and the worldbuilding.
 >>>> 
+>>>> I'll have to look at those.  I don't know that I have anyone that really tickles my Sanderson bone.  I do like dresden files and Laundryverse for as sweeping and interconnected epics, but I don't know anybody off the top of my head who both does Sanderson's law and the worldbuilding.
 
->>>>> **u/terintom93** [+1] *
+>>>>> **u/terintom93** [+1]  (18 hours later)
 >>>>> 
 >>>>> I read first four dresden books... Didn't like them... Check out Wil wight's travelers gate and cradle... Awesome stuff...
+>>>>> 
 >>>>> Here's a link to my recommendations
 >>>>> https://www.reddit.com/r/booksuggestions/comments/dse1w9/i_just_finished_reading_book_2_of_the_king_killer/f6px6ra?utm_source=share&utm_medium=web2x
->>>>> 
 
->> **u/terintom93** [+1] *
+>> **u/terintom93** [+1]  (4 hours later)
 >> 
 >> 1. Hmm... I think there was some ulterior motive behind all this... Was there a reason the winter king wanted Catherine there? Isn't that why he made her a Duchess instead just killing her outright?
->> 2.  Why did Summer attack Calernia in the first place?
->> 3. Understood... The ring is what made the difference.
->> 4. Hmm... That does make sense... But I also think the winter king wanted Catherine to come
 >> 
+>> 2.  Why did Summer attack Calernia in the first place?
+>> 
+>> 3. Understood... The ring is what made the difference.
+>> 
+>> 4. Hmm... That does make sense... But I also think the winter king wanted Catherine to come
 
->>> **u/OmniscientQ** [+7] *
+>>> **u/OmniscientQ** [+6]  (7 hours later)
 >>> 
 >>> 1: Spoilers. Catherine will realize the Winter King's end goal later.
->>> 2: I don't have any specific memories, but I thought Diabolist had somehow baited the attack so she could capture a bunch of fae nobles to power her super-secret evil plan.
->>> 4: The fact that Arcadia was warping space such that all paths led to the Winter capital pretty much confirms that the King wanted them to go that way, since he and the Summer Queen are the only beings with the authority to do that. But the nobles who decided not to challenge the obvious forgery were essentially out-thinking themselves. The forgery was so poor and so blatant a lie that they were convinced that it had to be a trap, and none of them were willing to take such obvious bait.
 >>> 
+>>> 2: I don't have any specific memories, but I thought Diabolist had somehow baited the attack so she could capture a bunch of fae nobles to power her super-secret evil plan.
+>>> 
+>>> 4: The fact that Arcadia was warping space such that all paths led to the Winter capital pretty much confirms that the King wanted them to go that way, since he and the Summer Queen are the only beings with the authority to do that. But the nobles who decided not to challenge the obvious forgery were essentially out-thinking themselves. The forgery was so poor and so blatant a lie that they were convinced that it had to be a trap, and none of them were willing to take such obvious bait.
 
->>>> **u/terintom93** [+1] *
+>>>> **u/terintom93** [+1]  (19 hours later)
 >>>> 
 >>>> 1. Thanks for the confirmation... I thought so too
->>>> 2. Yep... I think Akuma started all this, when she captured fae to fuel her spell... Same as with the Deoraithe
->>>> 4. Well explained
-
->>>> Thanks a lot
 >>>> 
+>>>> 2. Yep... I think Akuma started all this, when she captured fae to fuel her spell... Same as with the Deoraithe
+>>>> 
+>>>> 4. Well explained
+>>>> 
+>>>> Thanks a lot
 
-> **u/PastafarianGames** [+2] *
+> **u/PastafarianGames** [+2]  (16 hours later)
 > 
 > The answer to #2 hasn't been revealed yet at your point in the story, but it's a pretty great answer.
-> 
 
->> **u/terintom93** [+1] *
+>> **u/terintom93** [+1]  (19 hours later)
 >> 
 >> Thanks
->> 
 
 ---
 

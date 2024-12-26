@@ -24,46 +24,56 @@ Or generally work through the problems of a fictional world.
 
 ### Comments:
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (an hour later)
 > 
 > Still idly developing [battle school thing from last time](https://www.reddit.com/r/rational/comments/7vwof7/d_wednesday_worldbuilding_thread/dtw306v/). I think I've hammered together the beginnings of a rule system that might produce something like a metagame, drafted using mostly undefined game mechanical terms that are mostly just quantifiers for abstract things:
+> 
 > Base rules
 > --
+> 
 > Choose three, no more than one each group  
 > Choosing two from a group is possible, but requires a five second vulnerable switch time, and is rare  
 > Choosing three from a group is pretty much unheard of and considered non-strategic  
 > Unless stated otherwise, overloads cost 10 MP  
 > Normal MP per person is something like 100
+> 
 > Intake
 > --
 > (normal is 1 MP per 30sec, forgoing intake means hoping for an early win before running dry)
+> 
 > 1. Plains (gain 1 MP/sec)  
 > 	Overload: 10 MP/sec for 4sec, then none for 1 minute
 > 2. Aspirate (gain 1 MP per 5 MP spent by you or someone else)  
 > 	Overload: gain 5 MP per 5 MP spent for 6sec, then none for 1 minute
 > 3. Travel (gain 1 MP per 5 ft moved, no more than 1 MP per square until 1 minute has passed)  
 > 	Overload: gain from out to 15 ft
+> 
 > Viewpoint
 > --
 > (most often forgone, as you can't have all four)
+> 
 > 4. Compass (see everything, read opponent choices after 30sec, -2 ATN)  
 > 	Overload: Flash editic memory from sensorium, then nothing for 1 minute
 > 5. Closed Eye (intuition, all rolls +1d4)  
 > 	Overload: a single, surefire hit or defense, then nothing for 1 minute
 > 6. Backbone (all abilities x1.1)  
 > 	Overload: all abilities x2, then nothing for 1 minute
+> 
 > Defense
 > --
 > (in addition to armor, forgone in pure dodge/deflect strategies, or sometimes pure aggression)
+> 
 > 7. Anvil (skintight shield, -MP for each hit you take regardless of power) (Block)  
 > 	Overload: perfect defense at no MP cost for 10sec, then nothing for 1 minute
 > 8. Rhombus (spinnable prism shield, -MP for each hit, --MP for direct orthogonal-to-plane hits, -2 ATN for best use) (Deflect)  
 > 	Overload: more angles and finer (easier) control for 10sec, then nothing for 1 minute
 > 9. Wedge (repels along a specific pre-selected axis, +deflect, +dodge, less effective with each probing hit until axis is found, then only constrains attacks) (Dodge)  
 > 	Overload: more extreme effect (including moving things and people) for 10sec, then nothing
+> 
 > Offense
 > --
 > (varies the most, least often forgone, some token MP cost per attack)
+> 
 > 10. Bodkin (increases MP loss when doing shield strikes)  
 > 	Overload: singular strike that can completely knock out a shield, then unusable for a minute
 > 11. Needlepoint (+1d5 to attack rolls)  
@@ -72,98 +82,109 @@ Or generally work through the problems of a fictional world.
 > 	Overload: barrage of attacks w/ -1d10 to attack rolls, then nothing for 1 minute
 > 13. Juggernaut (+5 to damage if used with heavy weapon, -MP per use)  
 > 	Overload: attack that bypasses all shields, then nothing for 1 minute
+> 
 > Swords
 > --
+> 
 > Sword for every option, can fuel up to 60 MP into that option, or up to 10 MP at less favorable rates into others (so long as you selected them)  
 > Can only recharge sword if you have that option chosen
+> 
 > "Off" swords complement a non-chosen locus (more options, until sword runs out)  
 > "On" swords complement a chosen locus (easier recharge of sword, greater depths)
-> ----
-> I think that with metagame considerations, varied arenas, non-magical differences in fighters, and possibly some further elaboration or "deeper secrets" this would be enough to carry a 90,000 word novel that was only halfway about the fights.
-> I'm most curious to see what people think the metagame (or possible metagames) might look like.
 > 
+> ----
+> 
+> I think that with metagame considerations, varied arenas, non-magical differences in fighters, and possibly some further elaboration or "deeper secrets" this would be enough to carry a 90,000 word novel that was only halfway about the fights.
+> 
+> I'm most curious to see what people think the metagame (or possible metagames) might look like.
 
->> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (6 hours later)
 >> 
 >> Some questions you should probably ask yourself:
+>> 
 >> * How could someone try to cheat?
 >> * How could someone minmax their team?
 >> * To what extent do student body politics affect team selection?
 >> * Are you trying to balance in favour of versatility or specialization (either is valid, but they look very different in game-design terms.)
 >> * What kind of tournament setup will the school has?
+>> 
 >> 1. Single-elimination (and to a lesser extent double elimination) favours go-big-or-go-home strategies (banking on rolling three sixes).
 >> 2. Swiss rounds reward consistency, at the expense of flashy, risky tactics. (you want a dice that rolls 4s or 5s every time.)
 >> 3. Ladder encourages different strategies at different rankings (as the higher the ranking you are, the more predictable opponents are).
 >> 4. "Challenge" systems (i.e. you have to challenge someone to get their rank) encourage high levels of posturing and potentially collusion outside of the game, and have particularly unstable equilibrium (if you just need to take down one team, then you only need a strategy tailored to that exact team.)
->> 
 
->>> **u/CCC_037** [+2] *
+>>> **u/CCC_037** [+2]  (a day later)
 >>> 
 >>> Aspirate, Anvil, Juggernaut. Overload Aspirate. For six seconds I instantly regain every MP I spend. In effect, I have infinite MP (but only for six seconds).
->>> Charge both attack and defense with vast heaps of mana. For a minute I can't Aspirate, but I don't care with how much Attack and Defense I have.
->>> Gets even worse if a teammate *also* overloads Aspirate, because then each of us gets double the MP... I think.
 >>> 
+>>> Charge both attack and defense with vast heaps of mana. For a minute I can't Aspirate, but I don't care with how much Attack and Defense I have.
+>>> 
+>>> Gets even worse if a teammate *also* overloads Aspirate, because then each of us gets double the MP... I think.
 
->> **u/ben_oni** [+1] *
+>> **u/ben_oni** [+1]  (8 hours later)
 >> 
 >> A little confused about **Intake**. Is *Travel* useful at all? How fast do people usually move in these fights? Other than that, it looks like *Plains* would be the default choice, and *Aspirate* would only be used in a larger match with 5+ competitors (either team, or individual). Is that about right?
->> 
 
->>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow* (8 hours later)
 >>> 
 >>> I think that *Travel* is probably useful if you're a nimble fighter going against someone who can't keep up with you, or whose strategy is built around hunkering down. If you're five feet away from your opponent, circling around them once would gain you somewhere between 8-10 MP, which is probably more than *Plains* would get over the same period. (I might have to jigger the numbers a little bit, or find a non-snowy place to time myself moving in circles or doing a mock battle.)
->>> It's also useful in certain scenarios where you're already going to be moving around anyway, especially if your opponent is forced to keep in one spot (such as if you're on offense in a capture-the-flag type scenario).
->>> I think *Aspirate* probably shines in group settings, yes, but it might also be useful for burst scenarios; if your strategy involves dumping a bunch of mana as quickly as possible and hoping that you win before you run out of gas, then maybe *Aspirate* would be helpful in allowing you to recoup some MP. Seems niche though. I think under the current (loose) rules, *Maniac* against *Anvil* might be the fastest way for two people to blast through MP; for the *Anvil* duelist, *Aspirate* might mean that every five times your shield gets hit, you gain back the MP needed to allow you to get hit a sixth time, plus all the other MP that's being spent. Still seems a bit niche though.
->>> Depending on how long a match is expected to take, and how much MP you'd use in that time, it might be that the default is that no one selects anything for Intake, since you can only have three selections out of the four groups.
 >>> 
+>>> It's also useful in certain scenarios where you're already going to be moving around anyway, especially if your opponent is forced to keep in one spot (such as if you're on offense in a capture-the-flag type scenario).
+>>> 
+>>> I think *Aspirate* probably shines in group settings, yes, but it might also be useful for burst scenarios; if your strategy involves dumping a bunch of mana as quickly as possible and hoping that you win before you run out of gas, then maybe *Aspirate* would be helpful in allowing you to recoup some MP. Seems niche though. I think under the current (loose) rules, *Maniac* against *Anvil* might be the fastest way for two people to blast through MP; for the *Anvil* duelist, *Aspirate* might mean that every five times your shield gets hit, you gain back the MP needed to allow you to get hit a sixth time, plus all the other MP that's being spent. Still seems a bit niche though.
+>>> 
+>>> Depending on how long a match is expected to take, and how much MP you'd use in that time, it might be that the default is that no one selects anything for Intake, since you can only have three selections out of the four groups.
 
->>>> **u/ben_oni** [+3] *
+>>>> **u/ben_oni** [+3]  (17 hours later)
 >>>> 
 >>>> The real problem with *Aspirate* in a one-on-one battle is that you end up spending 25% as much MP as your opponent (assuming the fight goes long). Unless you're both on the aspirate plan, in which case you'll each spend 150 MP total (EDIT: 166 MP), and then you're out. (I am, of course, ignoring the effects of Overload, which can get you more MP, but doesn't seem like a reasonable trade-off.)
->>>> Then again, maybe you have confederates in the stands that are spending MP for no purpose, just to send 20% of it to you... with just three confederates, you break even, and with a fourth, you'll pull ahead of your opponent (assuming your allies are using Plains + Aspirate).
->>>> Now, if you have a partner, you might be able to munchkin Aspirate: as much MP as you can dump in six seconds, you'll end up with twice that much. If you can keep the battle going long, you'll end up with unlimited MP. It might be interesting to see two people pretending to fight, going all out against each other every minute or so, only to turn against the organizers once they've built up enough MP. Unless the 100 MP is a person's maximum, in which case disregard.
 >>>> 
+>>>> Then again, maybe you have confederates in the stands that are spending MP for no purpose, just to send 20% of it to you... with just three confederates, you break even, and with a fourth, you'll pull ahead of your opponent (assuming your allies are using Plains + Aspirate).
+>>>> 
+>>>> Now, if you have a partner, you might be able to munchkin Aspirate: as much MP as you can dump in six seconds, you'll end up with twice that much. If you can keep the battle going long, you'll end up with unlimited MP. It might be interesting to see two people pretending to fight, going all out against each other every minute or so, only to turn against the organizers once they've built up enough MP. Unless the 100 MP is a person's maximum, in which case disregard.
 
->> **u/Killako1** [+1] *
+>> **u/Killako1** [+1]  (12 hours later)
 >> 
 >> Plains+ Closed Eye + Juggernaut = OP?
->> 
 
->>> **u/ben_oni** [+2] *
+>>> **u/ben_oni** [+2]  (16 hours later)
 >>> 
 >>> Assuming that one hit finishes the fight. If not, you're screwed.
->>> 
 
->>> **u/Killako1** [+1] *
+>>> **u/Killako1** [+1]  (12 hours later)
 >>> 
 >>> Maybe even skip intake
->>> 
 
-> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (a day later)
 > 
 > I've been thinking a lot about immortal characters who're basically perpetual motion machines, not needing to eat, drink, or breathe to stay alive and active.
-> If the energy to fuel these characters is being pumped in through some parallel dimension, but only at whatever rate is required to keep them alive and as spry as a typical human, how useful could it be? How much negentropy could such an immortal produce if we handwave the requirement for an energy input and focus on an average person's energy output capabilities? Would these characters be at all useful in a Heat Death scenario?
 > 
+> If the energy to fuel these characters is being pumped in through some parallel dimension, but only at whatever rate is required to keep them alive and as spry as a typical human, how useful could it be? How much negentropy could such an immortal produce if we handwave the requirement for an energy input and focus on an average person's energy output capabilities? Would these characters be at all useful in a Heat Death scenario?
 
->> **u/cjet79** [+1] *
+>> **u/cjet79** [+1]  (2 days later)
 >> 
 >> My initial though was probably not very useful, whatever work they do would be subject to entropy, so you are only getting the output of a single human.
+>> 
 >> Further thoughts just backed that up, but I thought of more ways to squeeze energy out of a human body:
+>> 
 >> 1. The obvious work and motion. Having them moving something to create stored energy.
 >> 2. Heat energy. Humans maintain a consistent body temperature to function, just draining this heat could be really effective, especially when surrounding temperatures are approaching 0 degrees kelvin.
 >> 3. Electric energy. Minor amounts of energy in electrical signals in the brain and muscles.
 >> 4. Biomass energy. Ok maybe no eating means no pooping. But if they did poop, that is a never ending supply of fuel.
->> Imagining a generator based around this single perpetual motion machine human is kinda entertaining.
->> First of all they should be in a room that is acting as a piston chamber for an engine. Right now pistons work by having the explosive heat energy from oil expand and push the piston down. Since ambient temperatures would be so low, you'd actually want to just use their ambient body heat as the "explosive". Pump in cold air have their body heat up that air and expand the piston down. Remove that air, hopefully reusing the heat energy in it. Pump in more air that is close to zero kelvin.
->> While they are in there generating ambient heat, you will want them in a full body suit, and their brain wired into a simulation. The simulation should be keeping them constantly active. So the more thrashing about the better. The body suit needs to harness this kinetic energy as well as the small amounts of electrical energy in the body.
->> Finally, depending on whether they still have to poop, a poop tube sucking out the waste and using it to power fusion generators.
->> Without the poop fusion generator I don't know if you are keeping more than a couple hundred people alive indefinitely. With the poop generator, maybe make it a couple thousand people. Have those couple hundred or couple thousand people generating new full immersion VR content for the immortal and you might last a while.
 >> 
+>> Imagining a generator based around this single perpetual motion machine human is kinda entertaining.
+>> 
+>> First of all they should be in a room that is acting as a piston chamber for an engine. Right now pistons work by having the explosive heat energy from oil expand and push the piston down. Since ambient temperatures would be so low, you'd actually want to just use their ambient body heat as the "explosive". Pump in cold air have their body heat up that air and expand the piston down. Remove that air, hopefully reusing the heat energy in it. Pump in more air that is close to zero kelvin.
+>> 
+>> While they are in there generating ambient heat, you will want them in a full body suit, and their brain wired into a simulation. The simulation should be keeping them constantly active. So the more thrashing about the better. The body suit needs to harness this kinetic energy as well as the small amounts of electrical energy in the body.
+>> 
+>> Finally, depending on whether they still have to poop, a poop tube sucking out the waste and using it to power fusion generators.
+>> 
+>> Without the poop fusion generator I don't know if you are keeping more than a couple hundred people alive indefinitely. With the poop generator, maybe make it a couple thousand people. Have those couple hundred or couple thousand people generating new full immersion VR content for the immortal and you might last a while.
 
->>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (2 days later)
 >>> 
 >>> If you're close to 0 kelvins, you have the option of very efficient computers, so you could probably power a lot of simulated minds off of the small amount of energy you can milk out.
->>> 
 
 ---
 

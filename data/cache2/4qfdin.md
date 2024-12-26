@@ -2,7 +2,7 @@
 
 * Author: u/elevul  *Cyoria Observer**
 * URL: https://www.fictionpress.com/s/3238329/84/A-Hero-s-War
-* Score: 19
+* Score: 20
 
 * Created: 2016-06-29T13:00:47
 

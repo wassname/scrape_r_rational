@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a minute later)
 > 
 > A MoR!verse oneshot. Spoilers for Chapter 56 in MoR!
-> 
 
 ---
 

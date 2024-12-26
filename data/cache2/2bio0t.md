@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/2bio0t/rt_the_parable_of_the_smart_birds/
-* Score: 13
+* Score: 10
 
 * Created: 2014-07-23T18:28:31
 
@@ -18,44 +18,41 @@ Originally from [here.](http://inductivist.blogspot.fi/2012/01/iq-and-drug-use.h
 
 ### Comments:
 
-> **u/Drazelic** [+8]  *Dai-Gurren Brigade**
+> **u/Drazelic** [+6]  *Dai-Gurren Brigade* (8 hours later)
 > 
 > Hrm. I'm not sure I buy that this is actually wise. I'm not even sure what the lesson of this is supposed to be, but I bet that if somebody explained it to me I could come up with an equivalent but opposite-in-lesson just-so-fable that would sound just about as convincing.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (13 hours later)
 >> 
 >> The lesson is actually not so much about rationality, but social dynamics between different social classes.
->> 
 
-> **u/Prezombie** [+6] *
+> **u/Prezombie** [+8]  (10 hours later)
 > 
 > I fail to see the rationalism in this fable. It seems to be just another example of the fallacy of tradition, written to denegrate people who dare challenge tradition. You could just as easily label the 3 classes happy birds, sad birds, and lazy birds, and use the fable to "teach" that trying to cure depression with change, or improving efficiency is bad for you.
-> 
 
->> **u/khafra** [+3] *
+>> **u/khafra** [+3]  (16 hours later)
 >> 
 >> > use the fable to "teach" that trying to cure depression with change
->> Did humans avoid trying to cure depression with change in the environment of evolutionary adaptation? 
->> >  ...or improving efficiency is bad for you.
->> Many ways of improving efficiency are very bad. Do you think we'd have an overall better society if it became normal to take modafinil, and leverage your lowered sleep needs to work 18 hours a day? [Algernon's Law](http://www.gwern.net/Drug%20heuristics) says that, if you can't identify the reason people couldn't use this intervention in the EEA, or the tradeoff that would have been disastrous in the EEA but is fine now, *you're* the sucker.
 >> 
+>> Did humans avoid trying to cure depression with change in the environment of evolutionary adaptation? 
+>> 
+>> >  ...or improving efficiency is bad for you.
+>> 
+>> Many ways of improving efficiency are very bad. Do you think we'd have an overall better society if it became normal to take modafinil, and leverage your lowered sleep needs to work 18 hours a day? [Algernon's Law](http://www.gwern.net/Drug%20heuristics) says that, if you can't identify the reason people couldn't use this intervention in the EEA, or the tradeoff that would have been disastrous in the EEA but is fine now, *you're* the sucker.
 
-> **u/DiscyD3rp** [+4]  *Wannabe Shakespeare**
+> **u/DiscyD3rp** [+4]  *Wannabe Shakespeare* (5 hours later)
 > 
 > I'll have to say this is the first time I've seen the word [Parable](http://en.wikipedia.org/wiki/Parable) used to describe what is actually a Fable. Usually it's the opposite mistake. From wikipedia:
-> > It differs from a fable in that fables employ animals, plants, inanimate objects, or forces of nature as characters, whereas parables have human characters.
 > 
+> > It differs from a fable in that fables employ animals, plants, inanimate objects, or forces of nature as characters, whereas parables have human characters.
 
-> **u/bbrazil** [+1]  *NERV**
+> **u/bbrazil** [+1]  *NERV* (51 minutes later)
 > 
 > Reminds me of a [DS9](http://en.memory-alpha.org/wiki/Hippocratic_Oath_(episode\)) episode.
-> 
 
-> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity* (14 days later)
 > 
 > This isn't really what I'd call rational fiction. Plus, I can't even tell what moral it's trying to tell. It's better to be dumb than smart? Don't trust geniuses? Trust geniuses?
-> 
 
 ---
 

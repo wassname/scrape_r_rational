@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/ebp0xf/a_question_about_modesitts_recluce_chronology/
-* Score: 3
+* Score: 1
 
 * Created: 2019-12-17T01:57:12
 
@@ -12,30 +12,25 @@ I know the Saga of Recluce’s chronology has been available online for at least
 
 ### Comments:
 
-> **u/IICVX** [+4] *
+> **u/IICVX** [+3]  (3 hours later)
 > 
 > I don't know if Modesitt ever handed down a Word of God chronological ordering, but from what I recall it's not too hard to piece together - the author tends to drop information about when the books take place within the novels.
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (11 hours later)
 >> 
 >> Apart from the information fragments in the novels (which I love, by the way). I wonder how the complete and exact chronology that is currently available originated. Was it all calculated by the readers? Has it been confirmed by Modesitt?
->> 
 
-> **u/Nimelennar** [+4] *
+> **u/Nimelennar** [+4]  (a day later)
 > 
 > I think omitting the timeline was intentional (at least to start), as Modesitt has repeatedly expressed the opinion that his books should be read in publishing order, not chronological order.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> Indeed.
->> 
 
-> **u/PresN** [+3] *
+> **u/PresN** [+3]  (4 days later)
 > 
 > If anyone is diving through this subreddit- this question was answered [here](https://www.reddit.com/r/Fantasy/comments/ebwl77/a_question_about_modesitts_recluce_chronology/fbao28p/) better than I was about to. Tl;dr: Modesitt sent a chronology to a fansite that he sort of endorsed a couple decades ago that whatever chronology you can find today is based on; there's nothing in the books that would nail down exact years for most of it, though the general order and spacing can be figured out through close reading.
-> 
 
 ---
 

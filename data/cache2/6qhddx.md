@@ -20,48 +20,43 @@ TL; DR: Link here: **[The Library Unpublished](http://archiveofourown.org/works/
 
 ### Comments:
 
-> **u/rhaps0dy4** [+3] *
+> **u/rhaps0dy4** [+3]  (an hour later)
 > 
 > I like it and I would like updates. What is the point of Chapter 0?
-> 
 
->> **u/None** [+5] *
+>> **u/None** [+4]  (an hour later)
 >> 
 >> Thanks :) 
->> Chapter 0... well... You might have noticed that the last work on that list is The Library Unpublished. There's also the somewhat puzzling Editor's note on Chapter 1. Rest assured that we'll be learning more about what both of those mean, and while parts of Chapter 0 serve only to illustrate cio_cielle's character, other parts might be more relevant later.
 >> 
+>> Chapter 0... well... You might have noticed that the last work on that list is The Library Unpublished. There's also the somewhat puzzling Editor's note on Chapter 1. Rest assured that we'll be learning more about what both of those mean, and while parts of Chapter 0 serve only to illustrate cio_cielle's character, other parts might be more relevant later.
 
->>> **u/rhaps0dy4** [+3] *
+>>> **u/rhaps0dy4** [+3]  (an hour later)
 >>> 
 >>> So [Chapter 1 spoilers](#s "`cio_celle` is the one transcribing the manuscript just from having found it, but also somehow they appear in it? `m1k` mocks fanfiction so they're probably not `cio_celle`. It doesn't make a lot of sense for it to be `_sein_` either, they don't read and it's unlikely they write. So `cio_celle` will appear further ahead. Perhaps not in the manuscript text itself, but in another editor's note where they narrate some aspect of their life. Intriguing :)")
->>> 
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (an hour later)
 >>>> 
 >>>> Yes, that's about it :)
->>>> 
 
->>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (6 hours later)
 >>> 
 >>> I noticed that the word count for The Library Unpublished is 2029 words with 2/11 chapters while the description for The Library Unpublished in Chapter 0 says 2029 words with 1/10 chapters.
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (6 hours later)
 >>>> 
 >>>> Yes, that's not completely unintentional :)
->>>> I don't think I should spell out everything. Feel free to speculate out loud :)
->>>> (FYI, ao3 doesn't add author's notes onto the word count.)
 >>>> 
+>>>> I don't think I should spell out everything. Feel free to speculate out loud :)
+>>>> 
+>>>> (FYI, ao3 doesn't add author's notes onto the word count.)
 
-> **u/CitrusJ** [+3] *
+> **u/CitrusJ** [+3]  (2 hours later)
 > 
 > Also a vote for posting updates here!
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (2 hours later)
 >> 
 >> Noted and appreciated :)
->> 
 
 ---
 

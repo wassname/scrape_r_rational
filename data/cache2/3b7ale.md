@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: http://www.anarchyishyperbole.com/2015/06/significant-digits-bonus-war.html
-* Score: 24
+* Score: 23
 
 * Created: 2015-06-26T15:28:08
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (17 seconds later)
 > 
 > /r/HPMOR comment thread:
-> http://www.reddit.com/r/HPMOR/comments/3b7al1/significant_digits_bonus_war_sorry_about_the/
 > 
+> http://www.reddit.com/r/HPMOR/comments/3b7al1/significant_digits_bonus_war_sorry_about_the/
 
 ---
 

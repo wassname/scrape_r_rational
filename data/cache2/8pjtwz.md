@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/Marco_Diaz_SVFOE** [+1] *
+> **u/Marco_Diaz_SVFOE** [+1]  (12 seconds later)
 > 
 > i would make a video later
-> 
 
 ---
 

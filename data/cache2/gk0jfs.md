@@ -18,25 +18,21 @@ FFN: [https://www.fanfiction.net/s/13556120/2/Truman-s-Map](https://www.fanficti
 
 ### Comments:
 
-> **u/MultipartiteMind** [+2] *
+> **u/MultipartiteMind** [+2]  (11 hours later)
 > 
 > The cliffhanger is making me very eager to read the next chapter!
-> 
 
->> **u/dankuck** [+1]  *Good Afternoon, Good Evening, and Goodnight**
+>> **u/dankuck** [+1]  *Good Afternoon, Good Evening, and Goodnight* (15 hours later)
 >> 
 >> Awesome! Things will be a bit out of order. But I'll make sure it's worth it.
->> 
 
-> **u/earnestadmission** [+2]  *Singular "they" user**
+> **u/earnestadmission** [+2]  *Singular "they" user* (3 days later)
 > 
 > I really enjoyed this
-> 
 
-> **u/AnimusNecandi** [+1] *
+> **u/AnimusNecandi** [+1]  (7 days later)
 > 
 > Hey, I think this was pretty well written and I hope you continue writing :) Specially if the story revolves around Truman "waking up" to rationality and realising things are quite strange.
-> 
 
 ---
 

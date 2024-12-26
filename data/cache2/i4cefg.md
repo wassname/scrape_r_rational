@@ -12,27 +12,25 @@
 
 ### Comments:
 
-> **u/babalook** [+6] *
+> **u/babalook** [+6]  (4 hours later)
 > 
 > > Sasori began to speak, but Orochimaru cut him off, looking around the barely illuminated cave appraisingly, “Don’t get me wrong, I too prefer my workspace to be,” he paused, “... *moist* , but surely one needs something more than this?”  
-> This really got me, lol thank you.
 > 
+> This really got me, lol thank you.
 
-> **u/Tender_Luminary** [+3] *
+> **u/Tender_Luminary** [+3]  (19 minutes later)
 > 
 > Oh my god, is there really not a ton of Orochimaru and Sasori in Akatsuki fic out there?
-> 
 
->> **u/SweetSwanAO** [+6] *
+>> **u/SweetSwanAO** [+6]  (59 minutes later)
 >> 
 >> I haven't encountered any, but if anyone knows of some standouts I'd love to give them a read as well.
->> 
 
->>> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+6]  *Father of Learning* (2 hours later)
 >>> 
 >>> This is hilarious.
->>> I just want you to know that.
 >>> 
+>>> I just want you to know that.
 
 ---
 

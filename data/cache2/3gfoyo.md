@@ -2,7 +2,7 @@
 
 * Author: u/Igigigif  *IT Foxgirl**
 * URL: https://forums.spacebattles.com/threads/a-geeks-guide-corporation-of-occult-research-and-extermination.330378/
-* Score: 6
+* Score: 5
 
 * Created: 2015-08-10T06:14:25
 

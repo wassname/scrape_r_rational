@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/ketura** [+1]  *Organizer**
+> **u/ketura** [+1]  *Organizer* (38 minutes later)
 > 
 > /r/LegalAdvice.
-> This could be asked in our Friday Off-Topic thread, but is otherwise not appropriate as a top-level post.
 > 
+> This could be asked in our Friday Off-Topic thread, but is otherwise not appropriate as a top-level post.
 
 ---
 

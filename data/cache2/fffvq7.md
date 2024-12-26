@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 56
+* Score: 62
 
 * Created: 2020-03-08T17:36:16
 
@@ -12,226 +12,224 @@
 
 ### Comments:
 
-> **u/Veedrac** [+18] *
+> **u/Veedrac** [+17]  (9 hours later)
 > 
 > Rain's math this chapter is pretty silly; at a net mana regen of -0.005/s, keeping Purify up costs a total of 20 mana an *hour*, which he can regain in under two seconds of Focus'd Winter.
-> It makes sense to be using Force Ward at times in battle, and Winter when he's not at full mana, but his claim that he can't afford Purify because of the mana drain or that he's “*not going to be able to keep this going*” is wrong. Given this is a Chemical element dungeon, spamming Purify seems like a good idea.
 > 
+> It makes sense to be using Force Ward at times in battle, and Winter when he's not at full mana, but his claim that he can't afford Purify because of the mana drain or that he's “*not going to be able to keep this going*” is wrong. Given this is a Chemical element dungeon, spamming Purify seems like a good idea.
 
->> **u/xachariah** [+14] *
+>> **u/xachariah** [+12]  (12 hours later)
 >> 
 >> Yeah, I rolled my eyes at that.  We've already seen him purifying indefinitely and this is just slightly higher intensity.
->> At worst he needs to stop for a couple seconds and meditate every half hour.  Or just reign in the range a little bit.
 >> 
+>> At worst he needs to stop for a couple seconds and meditate every half hour.  Or just reign in the range a little bit.
 
-> **u/eaglejarl** [+15] *
+> **u/eaglejarl** [+16]  (58 minutes later)
 > 
 > Enjoyable chapter, but it leaves off just as things are getting exciting. Still, it was nice to see Rain being in charge for once. He spends most of his time in a party each of whom is as powerful or more powerful than him, and definitely more experienced. Here, he's the knowledgeable one bringing the newbies along. Now if Vee would fall in a well, everything would be great.
-> (For the record, I find Vee an annoying person but an excellent character and an interesting antagonist. I'm looking forward to her getting her comeuppance but that's not the same as wishing she were not part of the story.)
 > 
+> (For the record, I find Vee an annoying person but an excellent character and an interesting antagonist. I'm looking forward to her getting her comeuppance but that's not the same as wishing she were not part of the story.)
 
->> **u/xachariah** [+15] *
+>> **u/xachariah** [+15]  (12 hours later)
 >> 
 >> This chapter slightly turned me around on Velika.  She's acting like an Isekai protagonist, doing funny shit just because she can and not really understanding the effect she has on other people.  
->> Except since she's not the protagonist it just comes off as stupid and dorky and a little mean.  
->> I've seen these kind of scenes about protagonists in other stories, but it's never really resonated with me how disconcerting it is to be around someone who can easily kill you and your whole family... and then to add on top them being lol-randum-XD.  
->> But this time?  I totally get it.
 >> 
+>> Except since she's not the protagonist it just comes off as stupid and dorky and a little mean.  
+>> 
+>> I've seen these kind of scenes about protagonists in other stories, but it's never really resonated with me how disconcerting it is to be around someone who can easily kill you and your whole family... and then to add on top them being lol-randum-XD.  
+>> 
+>> But this time?  I totally get it.
 
->> **u/Veedrac** [+6] *
+>> **u/Veedrac** [+6]  (9 hours later)
 >> 
 >> Ouch.
->> ^/jk
 >> 
+>> ^/jk
 
-> **u/Gr_Cheese** [+18] *
+> **u/Gr_Cheese** [+16]  (an hour later)
 > 
 > I'm glad to see someone's posted this series on r/rational, the author has definitely put in some real effort regarding the math / logic / economics of the world he's created.
-> 
 
->> **u/BaggyOz** [+10] *
+>> **u/BaggyOz** [+9]  (8 hours later)
 >> 
 >> Arguably he's recently been going too far with it. It's starting to feel like 1 in every 3 chapters is largely a stat dump rather than a chapter that moves the plot forward.
->> 
 
->> **u/None** [+10] *
+>> **u/None** [+10]  (2 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/None** [+8] *
+>>> **u/None** [+9]  (2 hours later)
 >>> 
 >>> [removed]
->>> 
 
->>>> **u/RetardedWabbit** [+7] *
+>>>> **u/RetardedWabbit** [+7]  (2 hours later)
 >>>> 
 >>>> I never thought about how the subs get chapters early method also punishes unsubscribing. That's a clever system!
->>>> 
 
->>>>> **u/MilesSand** [+7] *
+>>>>> **u/MilesSand** [+7]  (7 hours later)
 >>>>> 
 >>>>> Yep. You don't even get anything for subsequent months except avoiding the punishment. Some authors try to do a bit extra for patrons but I have yet to see an attempt that doesn't have some kind of issue that hurts the author's own business - for example the bonus content can segregate the paying and f2r communities, hurting conversion rates.
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (a day later)
 >>>>>> 
 >>>>>> [deleted]
->>>>>> 
 
->>>>>>> **u/MilesSand** [+0] *
+>>>>>>> **u/MilesSand** [+0]  (a day later)
 >>>>>>> 
 >>>>>>> Not a fan of interacting only with people who give you money. Feels sleazy as heck.  The rest of it, yeah I like those too.
->>>>>>> 
 
->>>>> **u/Bowbreaker** [+4]  *Solitary Locust**
+>>>>> **u/Bowbreaker** [+4]  *Solitary Locust* (3 hours later)
 >>>>> 
 >>>>> It's why I'd try not to read ahead even if I subscribed to something like that. There are other perks though.
->>>>> 
 
->>>> **u/MilesSand** [+4] *
+>>>> **u/MilesSand** [+3]  (6 hours later)
 >>>> 
 >>>> I just wish he'd update more often. This story keeps dropping off my radar
->>>> 
 
->>>> **u/kaukamieli** [+1] *
+>>>> **u/kaukamieli** [+1]  (16 hours later)
 >>>> 
 >>>> Oh god, whole eight chapters? :O Now I'm sad.
->>>> 
 
->>> **u/Gr_Cheese** [+4] *
+>>> **u/Gr_Cheese** [+5]  (2 hours later)
 >>> 
 >>> Shows how much I've been paying attention since MoL ended and WtC released its backlog, lol. Delve has been posted a couple of times. Good stuff.
->>> 
 
-> **u/None** [+8] *
+> **u/None** [+8]  (20 hours later)
 > 
 > [removed]
-> 
 
->> **u/None** [+8] *
+>> **u/None** [+8]  (a day later)
 >> 
 >> To be fair, from what we've seen, the martial classes get pretty "magical" the higher you go. 
->> Halgrave is a basic bitch warhammer build, but during his fight he basically turned into a massive golem wielding a hammer heavier than a mountain. 
->> Velika is a swordswoman with no magic to speak of, but can speedblitz through the entire Watch. 
->> There was that one archer Rain awakened; he was fairly low level but he was already doing things that IRL archers couldn’t. At high levels, I would imagine he could duplicate his arrows mid-flight, coat them in different elements, make them follow enemies, etc. Not to mention any equipment he might have bought as well; I imagine there would be magic bows that automatically generate arrows if supplied with Stamina/Health. 
->> Basically, martial classes are not at all similar to what you can do IRL.
 >> 
+>> Halgrave is a basic bitch warhammer build, but during his fight he basically turned into a massive golem wielding a hammer heavier than a mountain. 
+>> 
+>> Velika is a swordswoman with no magic to speak of, but can speedblitz through the entire Watch. 
+>> 
+>> There was that one archer Rain awakened; he was fairly low level but he was already doing things that IRL archers couldn’t. At high levels, I would imagine he could duplicate his arrows mid-flight, coat them in different elements, make them follow enemies, etc. Not to mention any equipment he might have bought as well; I imagine there would be magic bows that automatically generate arrows if supplied with Stamina/Health. 
+>> 
+>> Basically, martial classes are not at all similar to what you can do IRL.
 
->> **u/eaglejarl** [+5] *
+>> **u/eaglejarl** [+5]  (22 hours later)
 >> 
 >> Archer in particular seems like a really bad choice. Not only are you on the wrong side of "Linear Fighter, Quadratic Wizard", but you're a ranged-only class and probably get demolished unless you can reliably keep the enemy at range...which is not a thing that can be done.
->> That said, I think "fighter-based class that isn't useless" can be an interesting challenge for an author.  In my LitRPG I'm starting the protagonist off with a mostly-physical-based initial build (to the extent that one skill is a build) partially as a challenge to myself.  He's a reasonably smart dog and will end up grabbing some mage powers later on, but that's his starting position.
 >> 
+>> That said, I think "fighter-based class that isn't useless" can be an interesting challenge for an author.  In my LitRPG I'm starting the protagonist off with a mostly-physical-based initial build (to the extent that one skill is a build) partially as a challenge to myself.  He's a reasonably smart dog and will end up grabbing some mage powers later on, but that's his starting position.
 
-> **u/1000dollarsamonth** [+4] *
+> **u/1000dollarsamonth** [+3]  (16 hours later)
 > 
 > I just can't get around the whole awakening system. Seems so pay to win. So does every enchanted armor maker you see have a noble backer? They can be a wizened old man, master of their craft, but they gotta bite the bullet and go to a dungeon/wilds to find a blue under escort in order to level up? Will there craft only be improved by the max amount of their level but not by the creative "skill" they possess? 
-> We saw the citizen mage use chanting for his spells. Was he following a system skill to chant or was his chanting created by his own creativity therefore his own "skill" provided his increase in his power? 
-> Can a level 7 beat a level 30 with "skill" alone not necessary by his system build? We learned that martial expertise/instinct can come from a skill. We also learn that training can increase your tolerance/synchronization. So the more talent/skill you have means the more stats you have than the average other person your level? Is there a level 7 with same system build and skills have more stats than another similar level 7 because they are more talented. I would be very happy if that is the case.
 > 
+> We saw the citizen mage use chanting for his spells. Was he following a system skill to chant or was his chanting created by his own creativity therefore his own "skill" provided his increase in his power? 
+> 
+> Can a level 7 beat a level 30 with "skill" alone not necessary by his system build? We learned that martial expertise/instinct can come from a skill. We also learn that training can increase your tolerance/synchronization. So the more talent/skill you have means the more stats you have than the average other person your level? Is there a level 7 with same system build and skills have more stats than another similar level 7 because they are more talented. I would be very happy if that is the case.
 
->> **u/eaglejarl** [+6] *
+>> **u/eaglejarl** [+5]  (18 hours later)
 >> 
 >> > I just can't get around the whole awakening system. Seems so pay to win. So does every enchanted armor maker you see have a noble backer? They can be a wizened old man, master of their craft, but they gotta bite the bullet and go to a dungeon/wilds to find a blue under escort in order to level up? Will there craft only be improved by the max amount of their level but not by the creative "skill" they possess?
->> You don't get awakened without participating in killing a blue, and the only people with magic seem to be awakened so...yes. Every enchanted-armor maker either lucked into a very low-level blue that they could kill with mundane skill (and therefore have a very low level cap and low number of Skills), or they have a friend or family member or patron who took them hunting/paid to have them taken hunting. Depressing, but that's how it is.
->> As to advancement, people who take the Worker class can no longer level through combat, so presumably crafting classes in general gain experience by crafting.
->> > We saw the citizen mage use chanting for his spells. Was he following a system skill to chant or was his chanting created by his own creativity therefore his own "skill" provided his increase in his power?
->> I think he said that he didn't need the chanting, which suggests that it was merely an overlay on the normal system.
->> > Can a level 7 beat a level 30 with "skill" alone not necessary by his system build?
->> Define "beat"? If you're talking about combat, almost certainly not in a straight fight. From what we've seen, silverplates are effectively demigods, untouchable by mere mortals. Even if you poison the person or ambush them, a level 30 simply has so many stat points and so many skills that they probably can't be one-shotted by any means a level 7 can bring to bear. That's my opinion, though. There's probably some very niche circumstance where it could happen -- for example, a level 30 Legendary-Dynamo Rain wouldn't have put any points into Strength, so he would still have a tiny number of HP and be relying on his armor, ring, and skills to keep himself safe. If a level 7 caught him unsettled in the bath, and Rain was not wearing his ring, and he wasn't using Force Ward, and he wasn't using the healing aura, and the level 7 killed him before he could turn on any of those things....
->> If you mean in non-combat terms, it would depend on the contest. A level 7 Worker-class blacksmith could certainly make better armor than a level 30 Light Mage.
->> > We learned that martial expertise/instinct can come from a skill. We also learn that training can increase your tolerance/synchronization. So the more talent/skill you have means the more stats you have than the average other person your level? Is there a level 7 with same system build and skills have more stats than another similar level 7 because they are more talented. I would be very happy if that is the case.
->> So far as we have seen, no. Your stats are determined by the number of stat points you have, which is determined by your level. Synchronization relates to how much you get out of the stats you have, but a level 30 will always have bigger numbers.
 >> 
+>> You don't get awakened without participating in killing a blue, and the only people with magic seem to be awakened so...yes. Every enchanted-armor maker either lucked into a very low-level blue that they could kill with mundane skill (and therefore have a very low level cap and low number of Skills), or they have a friend or family member or patron who took them hunting/paid to have them taken hunting. Depressing, but that's how it is.
+>> 
+>> As to advancement, people who take the Worker class can no longer level through combat, so presumably crafting classes in general gain experience by crafting.
+>> 
+>> > We saw the citizen mage use chanting for his spells. Was he following a system skill to chant or was his chanting created by his own creativity therefore his own "skill" provided his increase in his power?
+>> 
+>> I think he said that he didn't need the chanting, which suggests that it was merely an overlay on the normal system.
+>> 
+>> > Can a level 7 beat a level 30 with "skill" alone not necessary by his system build?
+>> 
+>> Define "beat"? If you're talking about combat, almost certainly not in a straight fight. From what we've seen, silverplates are effectively demigods, untouchable by mere mortals. Even if you poison the person or ambush them, a level 30 simply has so many stat points and so many skills that they probably can't be one-shotted by any means a level 7 can bring to bear. That's my opinion, though. There's probably some very niche circumstance where it could happen -- for example, a level 30 Legendary-Dynamo Rain wouldn't have put any points into Strength, so he would still have a tiny number of HP and be relying on his armor, ring, and skills to keep himself safe. If a level 7 caught him unsettled in the bath, and Rain was not wearing his ring, and he wasn't using Force Ward, and he wasn't using the healing aura, and the level 7 killed him before he could turn on any of those things....
+>> 
+>> If you mean in non-combat terms, it would depend on the contest. A level 7 Worker-class blacksmith could certainly make better armor than a level 30 Light Mage.
+>> 
+>> > We learned that martial expertise/instinct can come from a skill. We also learn that training can increase your tolerance/synchronization. So the more talent/skill you have means the more stats you have than the average other person your level? Is there a level 7 with same system build and skills have more stats than another similar level 7 because they are more talented. I would be very happy if that is the case.
+>> 
+>> So far as we have seen, no. Your stats are determined by the number of stat points you have, which is determined by your level. Synchronization relates to how much you get out of the stats you have, but a level 30 will always have bigger numbers.
 
->>> **u/1000dollarsamonth** [+3] *
+>>> **u/1000dollarsamonth** [+3]  (20 hours later)
 >>> 
 >>> So you can metagame within the system but not metagame the system itself. That is depressing. Pre-awakened cannot access magic without a skill even though its all around the environment.
->>> 
 
->>>> **u/eaglejarl** [+6] *
+>>>> **u/eaglejarl** [+6]  (22 hours later)
 >>>> 
 >>>> Yup.  On the other hand, it's an important narrative element to answer the question "Why is this not a manapunk world?"  Awakened need to be relatively rare, or you need some other restriction, or you end up with something very unmanageable very quickly.
->>>> 
 
->>>>> **u/ricree** [+7] *
+>>>>> **u/ricree** [+6]  (a day later)
 >>>>> 
 >>>>> The monster spawn rules are another factor, making it so that blues aren't just dangerous, but generally far away from wherever people actually live. What little we've seen of The City of Lights verges on manapunk, but also requires that they build their whole society around the fact that monsters could spawn anywhere if not strenuously prevented.
->>>>> 
 
->>>>>> **u/eaglejarl** [+3] *
+>>>>>> **u/eaglejarl** [+3]  (a day later)
 >>>>>> 
 >>>>>> Good point. Also the level caps; most adventurers have a low cap so they can't make unlimited contribution to manapunk society. Limited mana and the existence of soulstrain, also.
->>>>>> It's a very well-designed system, actually.
 >>>>>> 
+>>>>>> It's a very well-designed system, actually.
 
-> **u/AStartlingStatement** [+6] *
+> **u/AStartlingStatement** [+6]  (2 hours later)
 > 
 > Really enjoying this, glad to see it getting posted here. Think I picked it up from a recommendation thread here in the first place.
-> 
 
-> **u/RetardedWabbit** [+3] *
+> **u/RetardedWabbit** [+3]  (2 hours later)
 > 
 > Could anyone point me to where people do theorycrafting for Delve? I recall a very in depth sheet with different build proposals, but I can't find where those are explained/discussed?
+> 
 > Actually it looks like one person's build proposals:
 > https://docs.google.com/spreadsheets/u/0/d/1yAjPOX1M8ymatBaEgNWaZ-Ddov_G9-AQZyxAZvEHZao/htmlview
-> Edit: Also does Rain's armor have no durability limit? Will it keep building durability forever as long as it has mana and is in the dark?
 > 
+> Edit: Also does Rain's armor have no durability limit? Will it keep building durability forever as long as it has mana and is in the dark?
 
->> **u/panchoadrenalina** [+8] *
+>> **u/panchoadrenalina** [+8]  (4 hours later)
 >> 
 >> i also wondered that but is a no, it has 2 enchantments, one gives it the max durability, something on the order or 15.000, and the second one is slowly "healing" it up to that max. once he reaches it it will stay at that. so far the armor has been building up to its potential. also once it is full it will finally be able to hold charge. right now is using it to heal itself
->> 
 
->>> **u/eaglejarl** [+1] *
+>>> **u/eaglejarl** [+1]  (18 hours later)
 >>> 
 >>> Are you sure? I think it's the other way around. The current value is, weirdly, higher than the max because the Rune keeps making it better every night.
->>> 
 
->>>> **u/Veedrac** [+6] *
+>>>> **u/Veedrac** [+7]  (19 hours later)
 >>>> 
 >>>> The Mana Capacitance Rune allows Rain to give the armour mp. It can store a whole bunch of mp, but it will automatically feed that to its runes. The Enhanced Durability Rune increases the durability limit by about 12k for negligible cost, and the Dark Regeneration Rune can restore durability at 1Hz for 0.8 mp/s (NB: 80 mp/s after losses).
->>>> So when there is mana in the Mana Capacitance Rune, it will activate the Enhanced Durability Rune, and then quickly exhaust itself repairing the armour up to the total cap with the Dark Regeneration Rune. When that exhausts the available mana, the Enhanced Durability Rune shuts back off, and the durability cap lowers back to baseline, hence the weirdness of having durability greater than the cap.
->>>> Once the total durability hits full (~13k), the DDR doesn't have any work to do, so the armour can keep its charge around, only slowly bleeding it to the other runes at just 65 mp/day. When not in the dark, the DDR also won't run, and so he can store charge and the enhancement runes can run then as well.
 >>>> 
+>>>> So when there is mana in the Mana Capacitance Rune, it will activate the Enhanced Durability Rune, and then quickly exhaust itself repairing the armour up to the total cap with the Dark Regeneration Rune. When that exhausts the available mana, the Enhanced Durability Rune shuts back off, and the durability cap lowers back to baseline, hence the weirdness of having durability greater than the cap.
+>>>> 
+>>>> Once the total durability hits full (~13k), the DDR doesn't have any work to do, so the armour can keep its charge around, only slowly bleeding it to the other runes at just 65 mp/day. When not in the dark, the DDR also won't run, and so he can store charge and the enhancement runes can run then as well.
 
->>>>> **u/eaglejarl** [+1] *
+>>>>> **u/eaglejarl** [+1]  (22 hours later)
 >>>>> 
 >>>>> Ah, I see.  Thanks.
->>>>> 
 
->> **u/Veedrac** [+5] *
+>> **u/Veedrac** [+5]  (9 hours later)
 >> 
 >> My builds use [AnthonyL's sheet](https://docs.google.com/spreadsheets/d/1_C99jHLyw_ARFfKNPvmGAxUCrKbNWOXE0kTVIUDYH9g/edit?usp=sharing), which [is normally linked as the first comment on each chapter](https://www.royalroad.com/fiction/25225/delve/chapter/465855/084-entry?comment=2946604#comment-2946604).
->> You can also talk about this [on the Delve Discord](https://discord.gg/etbn8Xp), in #theorycrafting.
 >> 
+>> You can also talk about this [on the Delve Discord](https://discord.gg/etbn8Xp), in #theorycrafting.
 
-> **u/Aivean** [+2] *
+> **u/Aivean** [+2]  (a day later)
 > 
 > Do I understand correctly that unless you want to unlock new skills, you don't really need to kill blues and raise your cap?
-> Seems that +Stat rings are reasonably cheap and available, and the only limitation concerning them is the "soul strain" that can be trained without raising the level cap.
-> Already Rain has the cheat ring that potentially gives him more stat points than his level does, and nothing prevents him from wearing more rings (even the cheap +10 ones). 
-> The good strategy at that point seems to farm Tels to buy more +Stat rings, meanwhile training the soul, until he has enough survivability from Str, enough damage from Focus and enough resistances from Endurance to withstand his own offensive auras.
 > 
+> Seems that +Stat rings are reasonably cheap and available, and the only limitation concerning them is the "soul strain" that can be trained without raising the level cap.
+> 
+> Already Rain has the cheat ring that potentially gives him more stat points than his level does, and nothing prevents him from wearing more rings (even the cheap +10 ones). 
+> 
+> The good strategy at that point seems to farm Tels to buy more +Stat rings, meanwhile training the soul, until he has enough survivability from Str, enough damage from Focus and enough resistances from Endurance to withstand his own offensive auras.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> Stat boosts have a limit; each stat can only be boosted upto 10 times your level, and your overall boosts can at most add upto 10 times your level. 
->> So, Rain can, at most, increase one of his stat by +180 points. He could also raise two of his stats by 90/90 or 100/80 or 120/60, etc. 
->> You get the point.
 >> 
+>> So, Rain can, at most, increase one of his stat by +180 points. He could also raise two of his stats by 90/90 or 100/80 or 120/60, etc. 
+>> 
+>> You get the point.
 
->>> **u/Aivean** [+2] *
+>>> **u/Aivean** [+2]  (a day later)
 >>> 
 >>> I see, that makes sense. 
->>> I've checked the text and it appears that 10*level limit is a hearsay and it might be possible for Rain to push it further, but it would make sense to some global limit.
 >>> 
+>>> I've checked the text and it appears that 10*level limit is a hearsay and it might be possible for Rain to push it further, but it would make sense to some global limit.
 
->> **u/Fredlage** [+1] *
+>> **u/Fredlage** [+1]  (a day later)
 >> 
 >> I might be misremembering, but I think it was said there was a limit to stat enhancement from equipment that was proportional to the current level, beyond which no amount of training will get it higher.
->> 
 
 ---
 

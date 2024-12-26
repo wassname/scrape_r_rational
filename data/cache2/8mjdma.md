@@ -2,7 +2,7 @@
 
 * Author: u/user19911506 *
 * URL: https://www.reddit.com/r/rational/comments/8mjdma/unsong_doubt_about_other_king_spoiler/
-* Score: 5
+* Score: 7
 
 * Created: 2018-05-27T17:45:06
 
@@ -12,67 +12,63 @@ I am currently binged reading Unsong , because of the changing timeline narrativ
 
 ### Comments:
 
-> **u/GeeJo** [+30]  *Custom Flair**
+> **u/GeeJo** [+31]  *Custom Flair* (20 minutes later)
 > 
 > The fight between Jade and The Drug Lord isn't reciting Names to one another (or at least not entirely - I think Jade pulls out one or two). Rather it's Symbolic Combat™. 
-> In Unsong, all of reality is a metaphor for Adam Kadmon. Every personal experience within reality is an interpretation, and Symbolic Combat is an argument about interpretations. One party proposes a vision of reality, the other combats it, and the winner is the one who comes up with an interpretation the other can't change quickly enough.
-> This only works for beings with a grasp of Kabbalah that reaches at least Yetzirah (the realm of Archetypes). Jade was brought up to know this stuff, being a grand-daughter of Ramiel. The Drug Lord is himself a former angel (Samyazaz, the Ziggurat Builder) and so has intuitive understanding of it.
 > 
+> In Unsong, all of reality is a metaphor for Adam Kadmon. Every personal experience within reality is an interpretation, and Symbolic Combat is an argument about interpretations. One party proposes a vision of reality, the other combats it, and the winner is the one who comes up with an interpretation the other can't change quickly enough.
+> 
+> This only works for beings with a grasp of Kabbalah that reaches at least Yetzirah (the realm of Archetypes). Jade was brought up to know this stuff, being a grand-daughter of Ramiel. The Drug Lord is himself a former angel (Samyazaz, the Ziggurat Builder) and so has intuitive understanding of it.
 
->> **u/WTFwhatthehell** [+14] *
+>> **u/WTFwhatthehell** [+14]  (3 hours later)
 >> 
 >> Also, the drug lords drones cannot use names as the one invoking them has to have a soul that's choosing to invoke a name. Making a drone use a name is like trying to use a name over a telephone line. One soul hence only one part of it which can use names.
->> 
 
-> **u/Frommerman** [+23] *
+> **u/Frommerman** [+22]  (an hour later)
 > 
 > Epic Rap Battles are a legitimate form of combat in UNSONG, and knowing your opponent's name and history better than they know yours lets you land the most devastating diss.
-> 
 
-> **u/None** [+8] *
+> **u/None** [+7]  (12 minutes later)
 > 
 > If I'm reading your post correctly, you aren't done with the book yet? These questions are answered by the rest of the book. If you're still confused at the end you can feel free to ask again
-> 
 
->> **u/user19911506** [+2] *
+>> **u/user19911506** [+2]  (15 minutes later)
 >> 
 >> I am 60% through , so are these all answered at the very end or have I missed something
->> 
 
->>> **u/None** [+9] *
+>>> **u/None** [+8]  (19 minutes later)
 >>> 
 >>> They're all explained. I forget if the thing about the Drug Lord and names has been explained already, but it's not a huge spoiler for me to point it out if it hasn't: the Drug Lord himself can use names, but he can't make the people he controls with peyote use them.
->>> For any other questions about the Drug Lord or the Other King, both characters are explained in much further detail later on.
 >>> 
+>>> For any other questions about the Drug Lord or the Other King, both characters are explained in much further detail later on.
 
-> **u/the_terran** [+6] *
+> **u/the_terran** [+6]  (16 minutes later)
 > 
 > Drug lord is Samyazaz, the angel whose ziggurat Thamiel destroyed before. Jade and Samyazaz fight using the magic of Yetzirah, a level beyond the use of Names. Same level in which Uriel fights off Thamiel.
-> Other King's powers are less known and is apparently substantial enough to challenge Comet King. His identity is also not known as of the end of Book 2.
 > 
+> Other King's powers are less known and is apparently substantial enough to challenge Comet King. His identity is also not known as of the end of Book 2.
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (an hour later)
 >> 
 >> [deleted]
->> 
 
->>> **u/the_terran** [+4] *
+>>> **u/the_terran** [+3]  (an hour later)
 >>> 
 >>> Where? He said he got to the Jade/Drug Lord fight, his identity is revealed there.
->>> 
 
-> **u/holomanga** [+3] *
+> **u/holomanga** [+4]  (18 minutes later)
 > 
 > The Drug Lord wasn't using names, he was using a different form of Kabbalah involving rearranging words, which he could do because he was fighting in his own dimension where he's presumably more powerful or something. 
-> The Other King is a powerful Kabbalist who knows some secret Names and is the leader of a necromantic cult.
 > 
+> The Other King is a powerful Kabbalist who knows some secret Names and is the leader of a necromantic cult.
 
-> **u/TotesMessenger** [+1] *
+> **u/TotesMessenger** [+1]  (6 minutes later)
 > 
 > I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
-> - [/r/unsong] [Can someone please shed some light on it](https://www.reddit.com/r/unsong/comments/8mjefz/can_someone_please_shed_some_light_on_it/)
-> &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
 > 
+> - [/r/unsong] [Can someone please shed some light on it](https://www.reddit.com/r/unsong/comments/8mjefz/can_someone_please_shed_some_light_on_it/)
+> 
+> &nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
 
 ---
 

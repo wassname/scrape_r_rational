@@ -2,7 +2,7 @@
 
 * Author: u/DragonGod2718 *
 * URL: https://www.reddit.com/r/rational/comments/cfz6gf/what_would_be_the_effects_of_relatively/
-* Score: 23
+* Score: 25
 
 * Created: 2019-07-21T13:49:53
 
@@ -33,293 +33,328 @@ I think this can generalise to situations involving multiple precogs but I might
 
 ### Comments:
 
-> **u/baskaransri** [+26] *
+> **u/baskaransri** [+25]  (46 minutes later)
 > 
 > I think the key question is whether a precog can bootstrap: can they write themselves letters from the deep future by copying a letter copied by a future self looking deeper into the future?
-> If so, all societal decision making suddenly become very weird, and you'll end up with a lot of these guys investing in small-time start-ups that become huge.
-> &#x200B;
-> If not, as the linkage between the financial markets and the real markets happens mostly at a +1 day timescale (outside of the commodity, currency and power markets, I believe - HF traders don't have very much effect on the real world outside of second or third order effects), I suspect it won't really matter.
-> &#x200B;
-> Finally, even if it did matter, you've defined a total ordering on precogs over any time horizon: of all the one-second time horizon precogs, they are the best. Citadel or some other large fund will hire them, use them to monetise trading on AAPL and other large tickers, and they'll likely have the same effect as high frequency traders did - more efficient markets over that time horizon.
-> &#x200B;
-> And finally, failing all of these: precogs just give you certainty over having information which is more likely: I strongly suspect this is mostly unexciting in the context of financial markets. See how insider trading is illegal because it reduces liquidity (people don't want to trade against people who might know more than them), but as far as I understand, most models say that it would just make things a little more volatile, rather than cause any blow-ups.
 > 
+> If so, all societal decision making suddenly become very weird, and you'll end up with a lot of these guys investing in small-time start-ups that become huge.
+> 
+> &#x200B;
+> 
+> If not, as the linkage between the financial markets and the real markets happens mostly at a +1 day timescale (outside of the commodity, currency and power markets, I believe - HF traders don't have very much effect on the real world outside of second or third order effects), I suspect it won't really matter.
+> 
+> &#x200B;
+> 
+> Finally, even if it did matter, you've defined a total ordering on precogs over any time horizon: of all the one-second time horizon precogs, they are the best. Citadel or some other large fund will hire them, use them to monetise trading on AAPL and other large tickers, and they'll likely have the same effect as high frequency traders did - more efficient markets over that time horizon.
+> 
+> &#x200B;
+> 
+> And finally, failing all of these: precogs just give you certainty over having information which is more likely: I strongly suspect this is mostly unexciting in the context of financial markets. See how insider trading is illegal because it reduces liquidity (people don't want to trade against people who might know more than them), but as far as I understand, most models say that it would just make things a little more volatile, rather than cause any blow-ups.
 
->> **u/cjet79** [+16] *
+>> **u/cjet79** [+16]  (3 hours later)
 >> 
 >> It is kind of hard to imagine a world where they can't bootstrap, yet they are also useful on the stock market. But you are right, bootstrapping makes things really weird.
->> For example:
->> Precogs see that company A is going to have a bad financial report and the stock is going to tank tomorrow. They act on that information today, and the stock tanks a day early.
->> But that should mean that the precogs saw the stock tank the day before. So they should act on the information two days in advance. This bootstrapping should keep extending. Until you get companies never getting first-round funding because they have a bad financial report six years out.
->> _________
->> I guess one way to disentangle precog predictions with the effect of their predictions, is that there is a single global defined time when the predictions are relevant. At 9 am east coast time they all receive their precog vision of what the world will look like tomorrow at 8:59 am, based solely on how the world looked at 8:59 am east coast time today. That way it is impossible to have a predict => alter actions => re-predict feedback loop.
 >> 
+>> For example:
+>> 
+>> Precogs see that company A is going to have a bad financial report and the stock is going to tank tomorrow. They act on that information today, and the stock tanks a day early.
+>> 
+>> But that should mean that the precogs saw the stock tank the day before. So they should act on the information two days in advance. This bootstrapping should keep extending. Until you get companies never getting first-round funding because they have a bad financial report six years out.
+>> 
+>> _________
+>> 
+>> I guess one way to disentangle precog predictions with the effect of their predictions, is that there is a single global defined time when the predictions are relevant. At 9 am east coast time they all receive their precog vision of what the world will look like tomorrow at 8:59 am, based solely on how the world looked at 8:59 am east coast time today. That way it is impossible to have a predict => alter actions => re-predict feedback loop.
 
->> **u/ulyssessword** [+9] *
+>> **u/ulyssessword** [+10]  (3 hours later)
 >> 
 >> > I think the key question is whether a precog can bootstrap: can they write themselves letters from the deep future by copying a letter copied by a future self looking deeper into the future?
->> I think that would be blocked by "can't anticipate their own decisions".
 >> 
+>> I think that would be blocked by "can't anticipate their own decisions".
 
->>> **u/DragonGod2718** [+3] *
+>>> **u/DragonGod2718** [+4]  (17 hours later)
 >>> 
 >>> Yup. That's true (I didn't intend this, but it's a welcome consequence).
->>> 
 
->>>> **u/Serious_Feedback** [+2] *
+>>>> **u/Serious_Feedback** [+2]  (3 days later)
 >>>> 
 >>>> I'm not sure that works - it blocks infinite recursion, but it *does* mean that precog 1 can foresee precog 2 foreseeing precog 3 foreseeing pcog 4, and so on. 
->>>> If we assume 1% of 1% of 7 billion people are full-day precogs, then you have up to 700 000 days (1917 years) of foresight, at the cost equivalent to hiring one of them full-time (just a different one every day).
->>>>  In other words, precogs will make your precious financial system their bitch.
 >>>> 
+>>>> If we assume 1% of 1% of 7 billion people are full-day precogs, then you have up to 700 000 days (1917 years) of foresight, at the cost equivalent to hiring one of them full-time (just a different one every day).
+>>>> 
+>>>>  In other words, precogs will make your precious financial system their bitch.
 
->> **u/ZedOud** [+3] *
+>> **u/ZedOud** [+3]  (6 hours later)
 >> 
 >> Allow for significant degradation, so that precognition only shows one’s focus. So some bootstrapping is possible, but the available/visibility of information significantly deteriorates the more reliant it is on deep future events.
->> A consequence is that the more powerful one’s immediate precognition is, the better their bootstrapping. 
->> So a few of the best precogs would be in great demand for their ability to look into the deep future for the same warning signs you describe,  but just like fund managers, their ability to help their investors is not concrete as the deterioration affects the deep future predictions, especially with other competing precogs in the market.
 >> 
+>> A consequence is that the more powerful one’s immediate precognition is, the better their bootstrapping. 
+>> 
+>> So a few of the best precogs would be in great demand for their ability to look into the deep future for the same warning signs you describe,  but just like fund managers, their ability to help their investors is not concrete as the deterioration affects the deep future predictions, especially with other competing precogs in the market.
 
->>> **u/DragonGod2718** [+3] *
+>>> **u/DragonGod2718** [+3]  (17 hours later)
 >>> 
 >>> Bootstrapping isn't possible as they can't anticipate their own decisions.
->>> 
 
-> **u/TaltosDreamer** [+9] *
+> **u/TaltosDreamer** [+10]  (2 hours later)
 > 
 > Well, right now (in theory) you have a bunch of people with access to roughly the same data making decisions in their own self interests using various amounts cognitive power to interpret data they think is relevant. (some are smart, some are not)
-> If precogs are common then my instinct is to say the market would do a couple wild swings at thr beginning and then stabilize into what you see now in the real world.
-> People without powers would hire people with powers and all the powers would even out the situation again. 
-> It's mostly when powers are rare that it would destroy the market. In that situation every precog is a whale in the pond of stocks.
 > 
+> If precogs are common then my instinct is to say the market would do a couple wild swings at thr beginning and then stabilize into what you see now in the real world.
+> 
+> People without powers would hire people with powers and all the powers would even out the situation again. 
+> 
+> It's mostly when powers are rare that it would destroy the market. In that situation every precog is a whale in the pond of stocks.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (3 hours later)
 >> 
 >> Precogs are rare (several hundred), they're just common enough that most firms could hire at least one.
->> 
 
->>> **u/nipplelightpride** [+2] *
+>>> **u/nipplelightpride** [+2]  (5 days later)
 >>> 
 >>> With several hundred they sound rare enough that they would all be hired by 3 or so companies.
->>> 
 
-> **u/Gr_Cheese** [+4] *
+> **u/Gr_Cheese** [+5]  (4 hours later)
 > 
 > I'm going to ignore bootstrapping, because it's hax and vastly complicates things.
+> 
 > > What major effects would the employment of precognition by financial actors have on markets?
 > > Would markets be exploitable to precogs?
-> You're making a bold presumption that markets would be exploitable by Precogs when you haven't deliberated as to whether this would be the best use of their time and abilities.
-> Why wouldn't a precog just hang out at a casino and place winning bets? Gamble? Play the lottery? Or, perform equivalent tasks that actually benefit society. A precog could have prevented the Challenger from exploding, if positioned and used correctly.
-> That said, precogs would not significantly change financial markets from their current state, in my opinion.
-> Look into [High-Frequency Trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp), specifically [Latency Arbitrage](https://www.investopedia.com/articles/active-trading/042414/youd-better-know-your-highfrequency-trading-terminology.asp#latency). Throwing precogs into the mix would just be high*er* frequency trading, it would create a more efficient allocation of resources in the stock market but the world would carry on as normal.
 > 
+> You're making a bold presumption that markets would be exploitable by Precogs when you haven't deliberated as to whether this would be the best use of their time and abilities.
+> 
+> Why wouldn't a precog just hang out at a casino and place winning bets? Gamble? Play the lottery? Or, perform equivalent tasks that actually benefit society. A precog could have prevented the Challenger from exploding, if positioned and used correctly.
+> 
+> That said, precogs would not significantly change financial markets from their current state, in my opinion.
+> 
+> Look into [High-Frequency Trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp), specifically [Latency Arbitrage](https://www.investopedia.com/articles/active-trading/042414/youd-better-know-your-highfrequency-trading-terminology.asp#latency). Throwing precogs into the mix would just be high*er* frequency trading, it would create a more efficient allocation of resources in the stock market but the world would carry on as normal.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (17 hours later)
 >> 
 >> >I'm going to ignore bootstrapping, because it's hax and vastly complicates things.
->> Probably difficult to do so anyway, since they can't predict what decisions they would make.
 >> 
+>> Probably difficult to do so anyway, since they can't predict what decisions they would make.
 
->>> **u/Gr_Cheese** [+3] *
+>>> **u/Gr_Cheese** [+3]  (a day later)
 >>> 
 >>> What value would you place on the solution to cold fusion?
->>> A Precog bootstrap feedback loop, where a Precog cannot reliably determine if and what actions they must undertake to see their precognition come to fruition, does not prohibit or even inhibit a Precog's ability to gather factual data.
->>> If I'm a Precog, and I see an announcement one hour into the future that cold fusion has been solved via the liberal application of spray cheese in hexagonal fractals, then that information is just as valid now as it is in the future despite anything I could possibly do. It is a fact of reality, and will be true as surely as 2 + 2 = 4.
->>> Is cold fusion not solved within the hour? Do I not have another Precog event within the hour to chain into a longer lookahead period?
->>> Just recruit a bunch of Precogs, equip them with Google Glass and a shared text box, then have them share the most recent Precog event (filtering out useless information). Boom, infinite look ahead period. Cold fusion solved.
->>> The only way to prevent bootstrapping via chaining precognitive events is to disallow Precog event overlap across all subjects. At least that's the most concise thought I've had in the past hour on this subject.
 >>> 
+>>> A Precog bootstrap feedback loop, where a Precog cannot reliably determine if and what actions they must undertake to see their precognition come to fruition, does not prohibit or even inhibit a Precog's ability to gather factual data.
+>>> 
+>>> If I'm a Precog, and I see an announcement one hour into the future that cold fusion has been solved via the liberal application of spray cheese in hexagonal fractals, then that information is just as valid now as it is in the future despite anything I could possibly do. It is a fact of reality, and will be true as surely as 2 + 2 = 4.
+>>> 
+>>> Is cold fusion not solved within the hour? Do I not have another Precog event within the hour to chain into a longer lookahead period?
+>>> 
+>>> Just recruit a bunch of Precogs, equip them with Google Glass and a shared text box, then have them share the most recent Precog event (filtering out useless information). Boom, infinite look ahead period. Cold fusion solved.
+>>> 
+>>> The only way to prevent bootstrapping via chaining precognitive events is to disallow Precog event overlap across all subjects. At least that's the most concise thought I've had in the past hour on this subject.
 
->>>> **u/DragonGod2718** [+1] *
+>>>> **u/DragonGod2718** [+1]  (2 days later)
 >>>> 
 >>>> I would need to do some more thinking, but I think letting bootstrapping be possible but the accuracy degrades (can be made more reliable with multiple precogs) the farther out you're looking.
->>>> 
 
-> **u/Mason-B** [+5] *
+> **u/Mason-B** [+4]  (5 hours later)
 > 
 > I agree with /u/baskaransri, no major effects on markets outside of what HFT do. They could probably make a tidy profit, maybe increase volatility a bit.
-> I suspect they would be more useful on the corporate side of the equation. Massive system failures, and so on could all be predicted against. Most engineers can write a post morteum slack message within five minutes of the error, upon seeing it the precog could call the engineering department and stop them from making the mistake, or prevent them from screwing up the recovery. The precog could even be hidden behind a "site reliability tiger team" group that just happens to stop people from typing commands that break the system. For reference a minute of downtime is in the mid 6 figures, if the precog fixes 1 minute of downtime they already have a comfortable salary.
-> I suspect emergency response, military concerns, and so on would also have better uses for them they would be willing to payout the ear for. Hell even at 1 minute range a precog could probably stop blackouts, train collisions, and so on given enough access to information and button to push to stop it. In the modern world I would make a startup focused on hiring four one hour precogs (give them each a 20% share) and building a software system of anonymized clients where they are automatically given information from alerts from clients along the lines of "Client Y: X happened because Z", and then they would type back into their terminal "16252, Z causes X" and it messages the client back.  I think that would be a billion dollar business.
 > 
+> I suspect they would be more useful on the corporate side of the equation. Massive system failures, and so on could all be predicted against. Most engineers can write a post morteum slack message within five minutes of the error, upon seeing it the precog could call the engineering department and stop them from making the mistake, or prevent them from screwing up the recovery. The precog could even be hidden behind a "site reliability tiger team" group that just happens to stop people from typing commands that break the system. For reference a minute of downtime is in the mid 6 figures, if the precog fixes 1 minute of downtime they already have a comfortable salary.
+> 
+> I suspect emergency response, military concerns, and so on would also have better uses for them they would be willing to payout the ear for. Hell even at 1 minute range a precog could probably stop blackouts, train collisions, and so on given enough access to information and button to push to stop it. In the modern world I would make a startup focused on hiring four one hour precogs (give them each a 20% share) and building a software system of anonymized clients where they are automatically given information from alerts from clients along the lines of "Client Y: X happened because Z", and then they would type back into their terminal "16252, Z causes X" and it messages the client back.  I think that would be a billion dollar business.
 
->> **u/xachariah** [+4] *
+>> **u/xachariah** [+5]  (13 hours later)
 >> 
 >> If I could precog, I would go into insurance.  The total non-health insurance market is about $300 billion ($1.2 trillion - $0.9 trillion for health).
->> Prevention is a better product than normal insurance from the customer's perspective, so you can probably charge higher rates.  And from the company's perspective, you almost never have to pay out.  You'd just be piling in hundreds of billions in profit each year (although precog salaries would scale to gobble some of that up).
->> Insurance would probably expand to things we don't even think about, like the "site reliability tiger team" you mention except distributed to every company that paid your retainer.  They would probably grumble about paying you $100,000k a year just to get random phonecalls about every year saying "DON'T MERGE TO PRODUCTION ON A FRIDAY.  You're welcome.  That'll be $20,000 please," but the companies that don't do that wouldn't be able to compete.
->> Hell, even shit like "Hey, that Sonic Trailer you release tomorrow is terrible and everyone hates it" would earn you 6+ figures and that's less than 10 minutes work.
 >> 
+>> Prevention is a better product than normal insurance from the customer's perspective, so you can probably charge higher rates.  And from the company's perspective, you almost never have to pay out.  You'd just be piling in hundreds of billions in profit each year (although precog salaries would scale to gobble some of that up).
+>> 
+>> Insurance would probably expand to things we don't even think about, like the "site reliability tiger team" you mention except distributed to every company that paid your retainer.  They would probably grumble about paying you $100,000k a year just to get random phonecalls about every year saying "DON'T MERGE TO PRODUCTION ON A FRIDAY.  You're welcome.  That'll be $20,000 please," but the companies that don't do that wouldn't be able to compete.
+>> 
+>> Hell, even shit like "Hey, that Sonic Trailer you release tomorrow is terrible and everyone hates it" would earn you 6+ figures and that's less than 10 minutes work.
 
->>> **u/Mason-B** [+2] *
+>>> **u/Mason-B** [+2]  (17 hours later)
 >>> 
 >>> Yes exactly, that's the conclusion I got to as well. Selling it as an insurance product would work as far as marketing goes, and the company could do the integration for the client. But I think the smart companies could go farther and do their own integrations with some sort of cryptographic structure. I'm thinking of those companies that submit anonymized data for anyone to find insights into. But in this case it could just be a totally anonymized thing. Just a string like "984562 -> BANANA ELEPHANT BASEBALL", that only the client would even know what it meant.
->>> Like with most time fuckery, institutionalized pre-commitement is very powerful.
->>> Also the pricing model would be pretty opaque. I would almost worry it would have the problems IT does with the "what am I even paying you for if everything works right all the time". But in the end like with IT those companies will fail.
 >>> 
+>>> Like with most time fuckery, institutionalized pre-commitement is very powerful.
+>>> 
+>>> Also the pricing model would be pretty opaque. I would almost worry it would have the problems IT does with the "what am I even paying you for if everything works right all the time". But in the end like with IT those companies will fail.
 
->>> **u/Silver_Swift** [+1] *
+>>> **u/Silver_Swift** [+1]  (a day later)
 >>> 
 >>> > Hell, even shit like "Hey, that Sonic Trailer you release tomorrow is terrible and everyone hates it" would earn you 6+ figures and that's less than 10 minutes work.
->>> 99% of precogs are sub-day in the time that they can predict and there are between a few hundred and a few thousand precogs on the planet, so at most there are a few dozen people that can do this. I doubt people with a skillset that rare and valuable would want to spend their time as professional youtube-comment-readers.
 >>> 
+>>> 99% of precogs are sub-day in the time that they can predict and there are between a few hundred and a few thousand precogs on the planet, so at most there are a few dozen people that can do this. I doubt people with a skillset that rare and valuable would want to spend their time as professional youtube-comment-readers.
 
-> **u/MSpekkio** [+4] *
+> **u/MSpekkio** [+5]  (4 hours later)
 > 
 > You make the incorrect assumption it would look different. In the real world, people in the financial markets act with foreknowledge all the time.  Let me say it again, all the time. Often with perfect accuracy and much more than a day into the future. 
+> 
 > Best uses for precognition in a Merrill Lynch company.
 > A. Validating rumors. Filtering out a small percent of fake rumors from true is money saved/made. Telepathy and the like aren’t much help with verifying unsourced rumors
-> B. Preventing disaster. Many a company has been badly damaged from a single bad trade. Have someone whose one job is to catch the accidental billion dollar loss an hour before it happens. Imagine the precog is just watch the stock price of her own company. It suddenly drops. The precog hits a button. All trading halts, the future of company stock price stabilizes with a minor decline.  Now the auditors come in. What was about to happen? Bad trade, fraud, a typo in a press release.
 > 
+> B. Preventing disaster. Many a company has been badly damaged from a single bad trade. Have someone whose one job is to catch the accidental billion dollar loss an hour before it happens. Imagine the precog is just watch the stock price of her own company. It suddenly drops. The precog hits a button. All trading halts, the future of company stock price stabilizes with a minor decline.  Now the auditors come in. What was about to happen? Bad trade, fraud, a typo in a press release.
 
-> **u/throwaway13548e** [+3] *
+> **u/throwaway13548e** [+4]  (8 hours later)
 > 
 > You said that precogs can receive their sensory stream at some point in the future. Does this mean they can translate stock prices to themselves 1 minute ahead for example? Even though the prices are affected by them and other precogs?
-> Edit: changed timescale to better satisfy the conditions given.
 > 
+> Edit: changed timescale to better satisfy the conditions given.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (18 hours later)
 >> 
 >> Their predictions would be less reliable if the stock prices are being affected by other precogs. If two precogs were trying to predict what the other would do (and both made their decision dependent on the other's), then only one would receive a correct prediction (the other might receive an incorrect prediction.
->> &#x200B;
->> But yeah, they can see the stock prices at some point in the future.
 >> 
+>> &#x200B;
+>> 
+>> But yeah, they can see the stock prices at some point in the future.
 
-> **u/Palmolive3x90g** [+3] *
+> **u/Palmolive3x90g** [+3]  (an hour later)
 > 
 > > Precogs **cannot anticipate their own decision** (they can anticipate truly random processes e.g a quantum die) and can anticipate the world when they take a given course of action.
-> I don't quite get what the bit in bold means. How can they see the future from their perspective while also not seeing what actions they will decide to take?
-> Also how quickly can a precog glance into the future on average? Since being able to look a day into the future every second would be very different then being able look a day into the future once a day.
 > 
+> I don't quite get what the bit in bold means. How can they see the future from their perspective while also not seeing what actions they will decide to take?
+> 
+> Also how quickly can a precog glance into the future on average? Since being able to look a day into the future every second would be very different then being able look a day into the future once a day.
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (3 hours later)
 >> 
 >> > I don't quite get what the bit in bold means. 
->> If precogs could anticipate the decisions they made, it would enable paradoxical scenarios.
->> Suppose a precog decides to predict a decision of theirs, but resolves to make a decision different from whatever prediction they made. No matter what prediction they see (as long as the precog can decide as normal) the prediction would be wrong.
->> &#x200B;
->> > How can they see the future from their perspective while also not seeing what actions they will decide to take? 
->> They can visualise the evolution of the world if they take a given course of action. Any prediction they make is contingent upon a certain course of action they've decided to follow.  
-
->> > Also how quickly can a precog glance into the future on average? Since being able to look a day into the future every second would be very different then being able look a day into the future once a day. 
->> The average precog can make a few hundred predictions a day. However, as a rule of thumb, the shorter out they're looking, the more predictions they can make.
 >> 
+>> If precogs could anticipate the decisions they made, it would enable paradoxical scenarios.
+>> 
+>> Suppose a precog decides to predict a decision of theirs, but resolves to make a decision different from whatever prediction they made. No matter what prediction they see (as long as the precog can decide as normal) the prediction would be wrong.
+>> 
+>> &#x200B;
+>> 
+>> > How can they see the future from their perspective while also not seeing what actions they will decide to take? 
+>> 
+>> They can visualise the evolution of the world if they take a given course of action. Any prediction they make is contingent upon a certain course of action they've decided to follow.  
+>> 
+>> > Also how quickly can a precog glance into the future on average? Since being able to look a day into the future every second would be very different then being able look a day into the future once a day. 
+>> 
+>> The average precog can make a few hundred predictions a day. However, as a rule of thumb, the shorter out they're looking, the more predictions they can make.
 
-> **u/edwardkmett** [+2] *
+> **u/edwardkmett** [+2]  (13 hours later)
 > 
 > On one hand, we'd finally be able to get rid of the Itô calculus and use normal derivatives for er.. talking about derivatives, because now you can be closer to symmetric around "now" for information flow, allowing use of better integrators and what not. If this is all it was, this would make it even easier for physicists to switch over and become financial folk.
-> On the other hand, you'd probably lose something like the "no memory property" of the elementary random processes involved, which means everything goes to hell in new and different ways. I've no real idea how this could actually be modeled. Basically, we shed the Itô calculus, but get no good foundation to replace it with.
-> You'd probably still usually model markets with elementary random processes, semi-martingales and all that, but it means you'd be "black swanned" way more often, because the model would become an even worse model of reality than it is today. 
-> With only several thousand such agents, maybe this would be tolerable without (much) additional modeling.
-> Your best investment strategy would probably be to gather the highest powered precog(s) you could, to account for the somewhat step-like decay you'd get from boostrapping. Given that you seem to allow bootstrapping, and assuming each bootstrap step is exponential in that if you had something like 70% accuracy you get 70%^2 for two hops, etc. you'd basically want to look for the best psychic(s) you could get on a compound interest basis, given the strict dominance relationship you offer for anticipation. This seems to offer a way to compare psychics of different mixes of longest precognition period and accuracy, by just comparing them on a "compound" basis like this at some fixed distance(s) in time.
-> The real question is would use of precognition in the markets be sufficiently controlled by something like existing "insider trading" statutes, which effectively try to prevent something that locally to the market looks like precognition. If not, I expect you'd get many of the same effects you see in unregulated markets, lots of pumping and dumping, huge financial market boom and bust swings, etc.
-> You'd get a bunch of other knock-on effects that would get in the way of regulation. It'd be hard for governments to retain top talent in an economy like that and situations like company precogs stopping preemptively stopping whistleblower efforts, union organization, etc. seem like a scenario that'd emerge in the dystopian corporate future that would likely ensue. It would also seem to follow that in time almost every major large scale corporate decision would need to be made by a precog, using normal humans as support and information gathering tools.
-> Basically, the presence of an unevenly distributed resource like precognition should by some analogue of Coase's theorem wind up in the hands of largish organizations that are equipped to use it, largely independent of the original distribution of the talent.
 > 
+> On the other hand, you'd probably lose something like the "no memory property" of the elementary random processes involved, which means everything goes to hell in new and different ways. I've no real idea how this could actually be modeled. Basically, we shed the Itô calculus, but get no good foundation to replace it with.
+> 
+> You'd probably still usually model markets with elementary random processes, semi-martingales and all that, but it means you'd be "black swanned" way more often, because the model would become an even worse model of reality than it is today. 
+> 
+> With only several thousand such agents, maybe this would be tolerable without (much) additional modeling.
+> 
+> Your best investment strategy would probably be to gather the highest powered precog(s) you could, to account for the somewhat step-like decay you'd get from boostrapping. Given that you seem to allow bootstrapping, and assuming each bootstrap step is exponential in that if you had something like 70% accuracy you get 70%^2 for two hops, etc. you'd basically want to look for the best psychic(s) you could get on a compound interest basis, given the strict dominance relationship you offer for anticipation. This seems to offer a way to compare psychics of different mixes of longest precognition period and accuracy, by just comparing them on a "compound" basis like this at some fixed distance(s) in time.
+> 
+> The real question is would use of precognition in the markets be sufficiently controlled by something like existing "insider trading" statutes, which effectively try to prevent something that locally to the market looks like precognition. If not, I expect you'd get many of the same effects you see in unregulated markets, lots of pumping and dumping, huge financial market boom and bust swings, etc.
+> 
+> You'd get a bunch of other knock-on effects that would get in the way of regulation. It'd be hard for governments to retain top talent in an economy like that and situations like company precogs stopping preemptively stopping whistleblower efforts, union organization, etc. seem like a scenario that'd emerge in the dystopian corporate future that would likely ensue. It would also seem to follow that in time almost every major large scale corporate decision would need to be made by a precog, using normal humans as support and information gathering tools.
+> 
+> Basically, the presence of an unevenly distributed resource like precognition should by some analogue of Coase's theorem wind up in the hands of largish organizations that are equipped to use it, largely independent of the original distribution of the talent.
 
->> **u/serge_cell** [+2] *
+>> **u/serge_cell** [+2]  (15 hours later)
 >> 
 >> > Your best investment strategy would probably be to gather the highest powered precog(s) 
->> Financial market is not needed if there are precogs. Looks like the end result would be dissolution of the financial market and replacement of it by  feudal fiefdoms ruled by hierarchies of precogs. And the same about the state and economy. You can not realistically rebel against precogs - even if you overthrough one you can not prevent other taking power.
 >> 
+>> Financial market is not needed if there are precogs. Looks like the end result would be dissolution of the financial market and replacement of it by  feudal fiefdoms ruled by hierarchies of precogs. And the same about the state and economy. You can not realistically rebel against precogs - even if you overthrough one you can not prevent other taking power.
 
->>> **u/edwardkmett** [+1] *
+>>> **u/edwardkmett** [+1]  (20 hours later)
 >>> 
 >>> That really depends on the strengths of the other powers in the universe. It doesn't matter if you can see it coming if all of the alternatives end up with you in a bad situation.
->>> 
 
-> **u/JesradSeraph** [+2] *
+> **u/JesradSeraph** [+2]  (2 days later)
 > 
 > Precogs would dominate trading as an activity, evicting others. And since everyone would be speculating from both past and future markets, exchanges would be even more fluid and smooth. Prices would adjust tighter. Trading itself would become a low-margin activity almost devoid of risk, and traders would become like any other office worker, with comparable pay, close to minimum wage.
-> 
 
-> **u/jaghataikhan** [+2]  *Primarch of the White Scars**
+> **u/jaghataikhan** [+2]  *Primarch of the White Scars* (4 days later)
 > 
 > If precogs screw up each others' perceptions a la Dune, not much honestly
-> 
 
-> **u/fervoredweb** [+2] *
+> **u/fervoredweb** [+2]  (17 days later)
 > 
 > The stock market is already a higher order chaotic system.  It reacts to predictions about itself.  Basically causality is going to bite us in the butt for this kind of thing
-> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (17 days later)
 >> 
 >> What would that look like?
->> 
 
-> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+> **u/callmesalticidae** [+2]  *writes worldbuilding books* (27 minutes later)
 > 
 > Some quick thoughts: 
-> 1. You're probably going to get some kind of legislation / regulations relating to precogs. People with power would prefer to keep that power rather lose it to precogs, so I wouldn't be surprised by some kind of licensing system which prevents precogs from striking out on their own rather than working for other people. 
-> 2. I am not an economist, so take this with a huge grain of salt and ignore it if someone with better credentials comes along, but there will probably be an initial period of extreme chaos, followed by a period of stability which follows the same general patterns currently seen in Wall Street's ebbs and flows, but centered on the interactions between precog traders rather non-precog traders. 
-> 3. This probably means that, while things will shake out into some kind of equilibrium, it will be more volatile than the original state of affairs (only precogs are actors in the "future futures market" = fewer actors than the original futures market = individual variance counts for a lot more). 
-> 4. [Check this out](https://www.kurzweilai.net/when-the-speed-of-light-is-too-slow) and follow links and so forth as appropriate. There are some interesting parallels, if you substitute "delays in communication" for "variability in precog strength."
 > 
+> 1. You're probably going to get some kind of legislation / regulations relating to precogs. People with power would prefer to keep that power rather lose it to precogs, so I wouldn't be surprised by some kind of licensing system which prevents precogs from striking out on their own rather than working for other people. 
+> 
+> 2. I am not an economist, so take this with a huge grain of salt and ignore it if someone with better credentials comes along, but there will probably be an initial period of extreme chaos, followed by a period of stability which follows the same general patterns currently seen in Wall Street's ebbs and flows, but centered on the interactions between precog traders rather non-precog traders. 
+> 
+> 3. This probably means that, while things will shake out into some kind of equilibrium, it will be more volatile than the original state of affairs (only precogs are actors in the "future futures market" = fewer actors than the original futures market = individual variance counts for a lot more). 
+> 
+> 4. [Check this out](https://www.kurzweilai.net/when-the-speed-of-light-is-too-slow) and follow links and so forth as appropriate. There are some interesting parallels, if you substitute "delays in communication" for "variability in precog strength."
 
->> **u/CreationBlues** [+3] *
+>> **u/CreationBlues** [+3]  (59 minutes later)
 >> 
 >> For your first note, something ypu should understand is that you have it backwards. *Only* supers have intrinsic power. A super, no matter if they're in the gutter or a palace, is just fundamentally superior to a normal human. 
->> Judging by the dynamics of our current society, where a small oligarchy of ultra wealthy corporations and individuals are capable controlling our government, supers would have no issue slotting themselves into that powerstructure, whether through mere celebrity or the kind of leverage afforded by precognition.
 >> 
+>> Judging by the dynamics of our current society, where a small oligarchy of ultra wealthy corporations and individuals are capable controlling our government, supers would have no issue slotting themselves into that powerstructure, whether through mere celebrity or the kind of leverage afforded by precognition.
 
->>> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (an hour later)
 >>> 
 >>> Only supers have intrinsic power, but people with lots of money still have a power which (1) they would like to keep and (2) supers should not underestimate. Your average precog with a range of one minute is probably not going to beat Jeff Bezos, if Jeff Bezos wants to lobby Congress to rig the system so that precogs can’t freelance. 
->>> (Precogs with very long ranges would have a better chance here, but some of those might decide to screw over their less powerful peers for some personal advantage, so it’s really up to the individuals in question here).
->>> Given the short ranges involved for most precogs, I think it’s more likely that they’ll find themselves working for oligarchs rather than becoming oligarchs.
 >>> 
+>>> (Precogs with very long ranges would have a better chance here, but some of those might decide to screw over their less powerful peers for some personal advantage, so it’s really up to the individuals in question here).
+>>> 
+>>> Given the short ranges involved for most precogs, I think it’s more likely that they’ll find themselves working for oligarchs rather than becoming oligarchs.
 
->>>> **u/CreationBlues** [+5] *
+>>>> **u/CreationBlues** [+5]  (an hour later)
 >>>> 
 >>>> I can almost agree with you. Most people just don't have the temperment to become an oligarch. However, you only need a few. The large majority of power is excercised through lobbying, donation, and aquaintance with those in power. Any super who has a power exploitable for money (and I think there'll be quite a few). There are ~70000 people in the world that are in the 99th percentile of power in the world, and ~32000 in america. That's a lot of potential oligarchs, and they're going to have a huge societal impact merely from celebrity.
->>>> 
 
->> **u/DragonGod2718** [+2] *
+>> **u/DragonGod2718** [+2]  (an hour later)
 >> 
 >> Thanks, I'm gonna check it out.
->> 
 
-> **u/ryankrage77** [+1] *
+> **u/ryankrage77** [+1]  (7 hours later)
 > 
 > > The above restriction applies when precogs are anticipating events impacted by other precogs even if not directly anticipating the actions of other precogs.
-> If I've understood this properly, precogs disrupt other precogs, meaning nobody can get anything done?
-> I would borrow the solution from Worm, in which there is an organization of people with extrasensory abilities who prevent metahuman influence in the economy.
 > 
+> If I've understood this properly, precogs disrupt other precogs, meaning nobody can get anything done?
+> 
+> I would borrow the solution from Worm, in which there is an organization of people with extrasensory abilities who prevent metahuman influence in the economy.
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (2 days later)
 >> 
 >> Precogs aren't very accurate anticipating other precogs. But it's not like being a precog makes you immune. It's just that when two precogs are both anticipating the other and make their choice dependent on the other's choice, the infinite recursion is terminated by one precog failing.
->> 
 
-> **u/fassina2** [+1]  *Progressive Overload**
+> **u/fassina2** [+1]  *Progressive Overload* (10 hours later)
 > 
 > I'd be willing to bet the government would just put a heavy tax on capital gains for terms of less than a year, and test every confirmed precog, and pay a lot of attention to the lifestyle of the few capable of seeing past 1 year, and either tax or fine them for using or sharing information of that sort.
-> &#x200B;
-> They'd probably be mandated to serve in the military, safety or other governmental positions.
-> &#x200B;
-> Mostly if I'm right, volatility goes down because daytraders can't make much money even if they wanted to, or to do it they'd need to hold positions for over a year. It'd probably be regulated in an overly enthusiastic manner, causing unforeseen consequences that are harmful long term to stop exploitation right now.
 > 
+> &#x200B;
+> 
+> They'd probably be mandated to serve in the military, safety or other governmental positions.
+> 
+> &#x200B;
+> 
+> Mostly if I'm right, volatility goes down because daytraders can't make much money even if they wanted to, or to do it they'd need to hold positions for over a year. It'd probably be regulated in an overly enthusiastic manner, causing unforeseen consequences that are harmful long term to stop exploitation right now.
 
-> **u/CronoDAS** [+1] *
+> **u/CronoDAS** [+1]  (a day later)
 > 
 > Casino stocks would probably tank... one minute precognition would be very useful at a roulette table.
-> 
 
->> **u/DragonGod2718** [+1] *
+>> **u/DragonGod2718** [+1]  (2 days later)
 >> 
 >> They'd probably get banned if identified.
->> 
 
-> **u/MilesSand** [+1] *
+> **u/MilesSand** [+1]  (an hour later)
 > 
 > 1.
+> 
 > Bullet 4 would eliminate most of the precogs from the stock market. It operates on a time scale of years, not minutes, and the short term manipulation a precog might be capable of would be captured under the existing anti-cheating laws.  These people might do well as day traders, always able to buy or sell after a downtick or uptick, but they'd be thwarting each other any time 2 go after the same stock (and day traders tend to go after a few dozen at a time, so it's pretty likely to happen a lot).
+> 
 > For the big players, bullet 3 is going to cause trouble.  Every major company is going to want as many of them as they can pay, the first to help with strategy and corporate direction, the rest to keep them out of the hands of their competitors (and improved chances of being correct in the case of a clash).  So any long term strategies are going to be thwarted by relative armies of long term precogs.
-
+> 
 > ---------------
 > 2.
-> Any small market that has only 1 player or that has players who largely stay off each others' toes.  Companies who make industrial equipment for example.
 > 
+> Any small market that has only 1 player or that has players who largely stay off each others' toes.  Companies who make industrial equipment for example.
 
 ---
 

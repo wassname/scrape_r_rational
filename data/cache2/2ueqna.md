@@ -23,119 +23,126 @@ It's silly, I know, but probably not half as silly as some of the other canons t
 
 ### Comments:
 
-> **u/suyjuris** [+24] *
+> **u/suyjuris** [+25]  (an hour later)
 > 
 > Testing:
+> 
 > 1. Generate a pseudorandom number, then try to guess it.
 > 2. Same with a true random number. (This test does not say much.)
 > 3. First guess, then generate.
-> If all 3 succeed, exploit the time loop: Spend 12 hours asking yourself about the notes you will write (marked in some way, like yelling a password after writing them), then proceed as recommended in the notes, then spend a few years optimizing the notes you could send yourself and finally write them down.
-> The only consistent timeline has notes you can not improve upon (or a 'DO NOT MESS WITH TIME'). As you can spend 12 hours transcribing them at a rate of maybe 1 bit/s you have 5.3 KB, using some compression you maybe could get 20-50 KB text out of them. As the final notes will include spending the remaining time on transcribing more notes you arrive at 40-100 KB of information (I personally would expect them to be mostly theoretical, as many of these questions can be answered consisely: 'P!=NP', 'Theorem X is true/false/unproveable')
 > 
+> If all 3 succeed, exploit the time loop: Spend 12 hours asking yourself about the notes you will write (marked in some way, like yelling a password after writing them), then proceed as recommended in the notes, then spend a few years optimizing the notes you could send yourself and finally write them down.
+> 
+> The only consistent timeline has notes you can not improve upon (or a 'DO NOT MESS WITH TIME'). As you can spend 12 hours transcribing them at a rate of maybe 1 bit/s you have 5.3 KB, using some compression you maybe could get 20-50 KB text out of them. As the final notes will include spending the remaining time on transcribing more notes you arrive at 40-100 KB of information (I personally would expect them to be mostly theoretical, as many of these questions can be answered consisely: 'P!=NP', 'Theorem X is true/false/unproveable')
 
->> **u/None** [+3] *
+>> **u/None** [+4]  (3 hours later)
 >> 
 >> I must admit not having thought of causality violation.
->> 
 
->>> **u/literal-hitler** [+2] *
+>>> **u/literal-hitler** [+2]  (a day later)
 >>> 
 >>> So it's you. You're the type of person who makes the universe implode.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/ulyssessword** [+2] *
+>>> **u/ulyssessword** [+2]  (3 hours later)
 >>> 
 >>> Do true random numbers actually exist?
->>> I thought "psuedo-random" just meant that it was random as far as a normal human could tell, but not random as far as a *well informed* human could.
->>> "True random" would just mean that it's random as far as a well informed human could tell, but not as far as an omniscient intelligence could.
->>> EDIT: Laplace's Demon was exactly what I was thinking of.
 >>> 
+>>> I thought "psuedo-random" just meant that it was random as far as a normal human could tell, but not random as far as a *well informed* human could.
+>>> 
+>>> "True random" would just mean that it's random as far as a well informed human could tell, but not as far as an omniscient intelligence could.
+>>> 
+>>> EDIT: Laplace's Demon was exactly what I was thinking of.
 
->>>> **u/suyjuris** [+5] *
+>>>> **u/suyjuris** [+5]  (4 hours later)
 >>>> 
 >>>> Pseudorandom means that it appears to be random but is in fact deterministic, as in 'can be calculated with full knowledge of the system'. A true random number is not. There are processes that yield true randomness (at least according to current understanding of Quantum Mechanics), e.g. radioactive decay. Also interesting in this context is [Laplace's demon](http://en.wikipedia.org/wiki/Laplace%27s_demon).
->>>> 
 
->>>>> **u/autowikibot** [+2] *
+>>>>> **u/autowikibot** [+2]  (4 hours later)
 >>>>> 
 >>>>> #####&#009;
+>>>>> 
 >>>>> ######&#009;
+>>>>> 
 >>>>> ####&#009;
 >>>>>  [**Laplace's demon**](https://en.wikipedia.org/wiki/Laplace%27s%20demon): [](#sfw) 
->>>>> ---
->>>>> >
->>>>> >In the [history of science](https://en.wikipedia.org/wiki/History_of_science), __Laplace's demon__ was the first published articulation of [causal or scientific determinism](https://en.wikipedia.org/wiki/Causal_determinism) by [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) in 1814.  According to determinism, if someone (the Demon) knows the precise location and momentum of every atom in the universe, their past and future values for any given time are entailed; they can be calculated from the laws of [classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics). 
->>>>> >
->>>>> ---
->>>>> ^Interesting: [^Laplace ^no ^Ma](https://en.wikipedia.org/wiki/Laplace_no_Ma) ^| [^Demon ^\(thought ^experiment)](https://en.wikipedia.org/wiki/Demon_\(thought_experiment\)) ^| [^Pierre-Simon ^Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 
->>>>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+co7y07b) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+co7y07b)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 >>>>> 
+>>>>> ---
+>>>>> 
+>>>>> >
+>>>>> 
+>>>>> >In the [history of science](https://en.wikipedia.org/wiki/History_of_science), __Laplace's demon__ was the first published articulation of [causal or scientific determinism](https://en.wikipedia.org/wiki/Causal_determinism) by [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) in 1814.  According to determinism, if someone (the Demon) knows the precise location and momentum of every atom in the universe, their past and future values for any given time are entailed; they can be calculated from the laws of [classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics). 
+>>>>> 
+>>>>> >
+>>>>> 
+>>>>> ---
+>>>>> 
+>>>>> ^Interesting: [^Laplace ^no ^Ma](https://en.wikipedia.org/wiki/Laplace_no_Ma) ^| [^Demon ^\(thought ^experiment)](https://en.wikipedia.org/wiki/Demon_\(thought_experiment\)) ^| [^Pierre-Simon ^Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 
+>>>>> 
+>>>>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+co7y07b) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+co7y07b)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 
->>> **u/suyjuris** [+1] *
+>>> **u/suyjuris** [+1]  (4 hours later)
 >>> 
 >>> As the number is determined before you test it, you are merely inquiring about the state of the system. The difference to #1 is that it is impossible to deduce from the previous state. Passing #2 would hint the power to have knowledge about the current state and not only extrapolating a previous one. I do not think #2 is impossible as long as the number is stored such that it can be observed.
->>> While #1 tests whether you have access to information of a previous state, #2 the current state and #3 the future state. If you do in fact store the number unobservably #2 and #3 should become equivalent (as in this case it is not determined).
 >>> 
+>>> While #1 tests whether you have access to information of a previous state, #2 the current state and #3 the future state. If you do in fact store the number unobservably #2 and #3 should become equivalent (as in this case it is not determined).
 
-> **u/TimTravel** [+11] *
+> **u/TimTravel** [+10]  (5 hours later)
 > 
 > Omniscience is a little too powerful for interesting munchkining.
-> 
 
-> **u/helltank1** [+3]  *Unfriendly AI**
+> **u/helltank1** [+3]  *Unfriendly AI* (22 hours later)
 > 
 > I would put a cat into a box with a machine that has an exactly 50% of producing poison gas, then see if I can say the sentence,"the cat in that box is alive."
-> 
 
->> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>> **u/Transfuturist** [+3]  *Carthago delenda est.* (2 days later)
 >> 
 >> Congrats, you decohered the system.
->> 
 
->> **u/Undercover_Infant** [+2] *
+>> **u/Undercover_Infant** [+2]  (4 days later)
 >> 
 >> This would be great for performing general tests with quantum particles.
->> 
 
-> **u/ZeroNihilist** [+4] *
+> **u/ZeroNihilist** [+4]  (3 hours later)
 > 
 > It really depends on what creates the apparent "truth field" effect (henceforth TFE).
+> 
 > 1. If there's some entity controlling what you say (to ensure it isn't false), it could always make you say something different or nothing at all. I.e. it could stop you from blurting out something crucial without invalidating the TFE.
 > 2. If you can only say things you personally know to be true (or at least could verify), it's not worth much at all.
 > 3. If you have rough control over what you say, but TFE forces your sentences into a truthful conclusion (or otherwise twists your intended speech wholesale while staying relevant), you can potentially rig things. This is really the only way you can do anything useful; in any other model you're more or less a meat puppet for the voice of truth or just a hamstrung version of yourself.
+> 
 > So assuming that 3 is true (i.e. you can choose what to speculate about and where possible get a meaningful result), you've got a few interesting options:
+> 
 > 1. Determine the shortest path of actions you can personally and reasonably take to complete whatever goal you wish. As long as this path can be said within 24 hours, you can theoretically do anything within your power.
 > 2. Predict the future, forcing the universe inexorably onto that path - though with no personal input on what that path is, you may end up as a Cassandra-style prophet.
 > 3. Try a sentence of the format "The quickest reasonable method to synthesise the data needed for <x> is...". Again, that's a shortest path thing. You should qualify it with "including the time it takes to describe the method" to ensure you save real time. This lets you use existing data as a shortcut, rather than just manually blurting out the raw data.
 > 4. "Given my values and my current unusual situation, my optimal reasonable course of action is..."
-> Really, all you need is 4.
 > 
+> Really, all you need is 4.
 
-> **u/Draconomial** [+2]  *Sunshine Regiment**
+> **u/Draconomial** [+2]  *Sunshine Regiment* (15 hours later)
 > 
 > * I'd spend an hour playing binary search to come up with winning numbers to two different lotteries. 
 > * Then find the nearest life outside our solar system
 > * Binary search for the name (starting with languages and working down to name dictionaries) or location (google earth) of someone who can develop immortality within my lifetime
 > * Obviously magic is real, find a way to tap into it for after my 24 hours are up. Maybe I can duplicate the effect to give myself more time with it.
-> So I've got money, I've got a reason to live forever, and I've got an affordable (for me) method to live forever.
 > 
+> So I've got money, I've got a reason to live forever, and I've got an affordable (for me) method to live forever.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (2 days later)
 > 
 > Given that the situation is started via a "Birthday Wish", I think we are likely dealing with a sentient entity controlling what can and cannot be said.  As such, experiments to find objective truth using this power would be difficult.
-> I say forget the not-lying part of the story and start experimenting with Wishes.
 > 
+> I say forget the not-lying part of the story and start experimenting with Wishes.
 
-> **u/Farmerbob1** [+1]  *Level 1 author**
+> **u/Farmerbob1** [+1]  *Level 1 author* (4 hours later)
 > 
 > Spend an hour or two here convincing people that I knew the right answers to questions that I should not have answers to, and then start answering their questions and encouraging them to find people to ask me more questions.
-> I would probably also need to get someone to vet questions to prevent duplication, or just ask myself before answering every question if I have already provided the answer.
 > 
+> I would probably also need to get someone to vet questions to prevent duplication, or just ask myself before answering every question if I have already provided the answer.
 
 ---
 

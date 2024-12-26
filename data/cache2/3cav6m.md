@@ -12,66 +12,55 @@
 
 ### Comments:
 
-> **u/traverseda** [+3]  *With dread but cautious optimism**
+> **u/traverseda** [+3]  *With dread but cautious optimism* (32 seconds later)
 > 
 > I found this story on hackernews, and thought you guys would appreciate it.
-> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (26 minutes later)
 >> 
 >> Thanks for linking us to it.
->> 
 
->> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>> **u/Transfuturist** [+1]  *Carthago delenda est.* (13 minutes later)
 >> 
 >> We're well-acquainted with it.
->> 
 
->>> **u/Anderkent** [+7] *
+>>> **u/Anderkent** [+6]  (38 minutes later)
 >>> 
 >>> I wasn't. It's lovely! Didn't see the twist coming :)
->>> 
 
->>>> **u/biomatter** [+1] *
+>>>> **u/biomatter** [+1]  (2 hours later)
 >>>> 
 >>>> Wait... What twist? I just got done reading Part 6 and I didn't see any links to continue the story. Did I miss something? Am I dumb?
->>>> 
 
->>>>> **u/Anderkent** [+3] *
+>>>>> **u/Anderkent** [+3]  (2 hours later)
 >>>>> 
 >>>>> I guess not really a twist, just the reveal at end of chapter one. Didn't know what else to call it without spoilering.
->>>>> 
 
->>>>>> **u/biomatter** [+2] *
+>>>>>> **u/biomatter** [+2]  (2 hours later)
 >>>>>> 
 >>>>>> Oh! Haha, yeah, that was cute. The HPMoR references in Part 3 were also funny. The whole story is interesting, but littered with typos that make reading it really hard at some points, especially between all the computer and logic jargon. Also, it's unfinished? Still a good read though.
->>>>>> 
 
->>> **u/traverseda** [+2]  *With dread but cautious optimism**
+>>> **u/traverseda** [+2]  *With dread but cautious optimism* (an hour later)
 >>> 
 >>> I know. I just couldn't resist making the relationship [recursive](https://news.ycombinator.com/item?id=9838786).
->>> 
 
->>> **u/capsless** [+0]  *despiser of hpmor**
+>>> **u/capsless** [+0]  *despiser of hpmor* (8 hours later)
 >>> 
 >>> >We encourage the practise of... occasional reposting (as we can't bump old posts)
->>> ... ought to be "practi**c**e", but whatever
 >>> 
+>>> ... ought to be "practi**c**e", but whatever
 
-> **u/Bowbreaker** [+2]  *Solitary Locust**
+> **u/Bowbreaker** [+2]  *Solitary Locust* (a day later)
 > 
 > I had read all except the last chapter for some reason. But it seems incomplete. Was it just discontinued or is the ending supposed to be weird?
-> 
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (5 hours later)
 > 
 > Finally got around to reading this one. I must say I'm hooked!
-> 
 
-> **u/libertarian_reddit** [+1] *
+> **u/libertarian_reddit** [+1]  (6 hours later)
 > 
 > Hahahahaha! A virus indeed.
-> 
 
 ---
 

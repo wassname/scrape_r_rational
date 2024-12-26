@@ -20,21 +20,19 @@ But of course when you start to think about them, androids have a whole bunch of
 
 ### Comments:
 
-> **u/trekie140** [+3] *
+> **u/trekie140** [+3]  (41 minutes later)
 > 
 > I actually came up with a backstory for them in a sci-fi setting I never used where they were content slaves ala not-Dobby house elves. When it first became possible to genetically engineer humans, human traffickers created the perfect slave who genuinely valued their master's life over their own. The public was horrified and cracked down on the practice, eventually destroying the entire industry.
-> However, the practice of creating them was eventually legalized at the request of the slaves themselves. They said they didn't want to go down in history as a mistake, they wanted to be allowed to live and reproduce even if their purpose in life was to serve others. In the end, the public relented due to the prospect of technically committing genocide and established laws to prevent abuse.
 > 
+> However, the practice of creating them was eventually legalized at the request of the slaves themselves. They said they didn't want to go down in history as a mistake, they wanted to be allowed to live and reproduce even if their purpose in life was to serve others. In the end, the public relented due to the prospect of technically committing genocide and established laws to prevent abuse.
 
->> **u/CouteauBleu** [+2]  *We are the Empire.**
+>> **u/CouteauBleu** [+2]  *We are the Empire.* (16 hours later)
 >> 
 >> That scenario sort of assumes that every single country has the same laws and the same cultural reactions to a radical new technology.
->> 
 
-> **u/eniteris** [+3] *
+> **u/eniteris** [+3]  (4 hours later)
 > 
 > I'm pretty sure there's a joke about ANDroids and NANDroids (along with ORroids, XORoids, and the like). Probably somebody better than me can think up a punchline.
-> 
 
 ---
 

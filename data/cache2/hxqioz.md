@@ -2,7 +2,7 @@
 
 * Author: u/Wizard-of-Woah *
 * URL: https://www.reddit.com/r/rational/comments/hxqioz/wip_the_new_humans_chapter_ninetytwo_allison/
-* Score: 9
+* Score: 7
 
 * Created: 2020-07-25T17:27:30
 
@@ -14,19 +14,21 @@ Welcome to Catalpa! The town Allison book. The beginning of the end! By which I 
 
 ### Comments:
 
-> **u/GlimmervoidG** [+9] *
+> **u/GlimmervoidG** [+9]  (an hour later)
 > 
 > Not heard of New Humans before. What's the sale's pitch?
-> 
 
->> **u/Wizard-of-Woah** [+3] *
+>> **u/Wizard-of-Woah** [+3]  (13 hours later)
 >> 
 >> Book 1: X-Men with kids, but it's actually a cult.
->> Book 2: Said kids rebel, are Waco'd. 
->> Book 3: Survivors of Waco decide to become the Brotherhood of Mutants. 
->> Book 4: Superhumans try to build their own micro-nation.
->> Also set during the 1960s in rural Australia, after a powerful superhero stole all the nukes during the Cuban Missle Criris.
 >> 
+>> Book 2: Said kids rebel, are Waco'd. 
+>> 
+>> Book 3: Survivors of Waco decide to become the Brotherhood of Mutants. 
+>> 
+>> Book 4: Superhumans try to build their own micro-nation.
+>> 
+>> Also set during the 1960s in rural Australia, after a powerful superhero stole all the nukes during the Cuban Missle Criris.
 
 ---
 

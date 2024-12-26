@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.sufficientvelocity.com/posts/6675656/
-* Score: 16
+* Score: 15
 
 * Created: 2016-08-19T10:32:10
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/eaglejarl** [+3] *
+> **u/eaglejarl** [+3]  (13 hours later)
 > 
 > The funny part is that this chapter was very much not what /u/Velorien wanted to write. The dice were nasty and he had too much integrity to ignore them.
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AngelaCastir *
 * URL: https://archiveofourown.org/works/13710744/chapters/68286283
-* Score: 7
+* Score: 6
 
 * Created: 2020-12-05T02:19:30
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/AngelaCastir** [+2] *
+> **u/AngelaCastir** [+2]  (43 seconds later)
 > 
 > Just thought it'd be nice  to give a glimpse into the world beyond vampires, and also to the fact that parents thinking they know what's best for you in your love life transcends species.
-> 
 
 ---
 

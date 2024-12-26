@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (57 seconds later)
 > 
 > Wordpress gave the word count as "1313." I'm glad that I'm not writing Unsong, or that'd surely qualify for "omens and portents." 
-> EDIT: I fixed a pair of dashes and it turned into "1315." False alarm, everybody. The world won't be ending just yet.
 > 
+> EDIT: I fixed a pair of dashes and it turned into "1315." False alarm, everybody. The world won't be ending just yet.
 
 ---
 

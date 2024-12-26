@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: 
-* Score: 46
+* Score: 40
 
 * Created: 2019-08-31T09:51:24
 
@@ -12,13 +12,13 @@
 
 ### Comments:
 
-> **u/SvalbardCaretaker** [+18]  *Mouse Army**
+> **u/SvalbardCaretaker** [+21]  *Mouse Army* (48 minutes later)
 > 
 > The HPMOR offsprings: significant digits, following the phoenix, *its* offspring, squiring the phoenix. 
-> Unsong. Everything by alexander wales: the dark wizard of donkerk, worth the candle (unfinished but... 1mio wordcount).
 > 
+> Unsong. Everything by alexander wales: the dark wizard of donkerk, worth the candle (unfinished but... 1mio wordcount).
 
->> **u/Lightwavers** [+10]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+9]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[Significant Digits]](http://www.anarchyishyperbole.com/p/significant-digits.html)  
 >> [[Following the Phoenix]](https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix)  
@@ -26,392 +26,378 @@
 >> [[Unsong]](http://unsongbook.com/)  
 >> [[The Dark Wizard of Donkerk]](http://alexanderwales.com/darkWizardNaNo2015.html)  
 >> [[Worth the Candle]](https://archiveofourown.org/works/11478249/chapters/25740126)
->> 
 
->> **u/rhacnroll** [+8] *
+>> **u/rhacnroll** [+8]  (8 hours later)
 >> 
 >> Seconding UNSONG. One of my favorite reads so far, by far.
->> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (50 minutes later)
 >> 
 >> [deleted]
->> 
 
->>> **u/azurebyrds** [+10] *
+>>> **u/azurebyrds** [+10]  (4 hours later)
 >>> 
 >>> Read worth the candle. Up there with worm for best rational fiction ever for me.
->>> 
 
->>>> **u/pitafred** [+5] *
+>>>> **u/pitafred** [+4]  (5 hours later)
 >>>> 
 >>>> Definitely agree. A Practical Guide to Evil and Worm also have a ton of content and are phenomenal.
->>>> 
 
->>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>> 
 >>>>> [[A Practical Guide to Evil]](https://practicalguidetoevil.wordpress.com/table-of-contents/)  
 >>>>> [[Worm]](https://parahumans.wordpress.com/2011/06/11/1-1/)
->>>>> 
 
->>>> **u/gogishvilli001** [+0] *
+>>>> **u/gogishvilli001** [+0]  (23 hours later)
 >>>> 
 >>>> How Worm is rational? I'm reading 12 chapter now and it's not rational at all. It's not even good
->>>> 
 
->>>>> **u/azurebyrds** [+14] *
+>>>>> **u/azurebyrds** [+14]  (a day later)
 >>>>> 
 >>>>> The characters make sensible decisions, no one grabs the idiot ball, the characters are driven by logical, rational reasons and not because the plot says so. It's not as rational as, say, HPMOR, but not every story needs to be. Maybe it isn't your cup of tea, but it is widely considered one of the best online works of fiction ever created, and I'm inclined to agree.
->>>>> 
 
->>>>>> **u/UWCS2022** [+1] *
+>>>>>> **u/UWCS2022** [+1]  (2 days later)
 >>>>>> 
 >>>>>> The world itself isnt rational but the characters choices within the context of the world are.
->>>>>> 
 
->>>>>>> **u/Sonderjye** [+1] *
+>>>>>>> **u/Sonderjye** [+1]  (3 days later)
 >>>>>>> 
 >>>>>>> How isn't the world rational?
->>>>>>> 
 
->>>>>>>> **u/UWCS2022** [+3] *
+>>>>>>>> **u/UWCS2022** [+3]  (3 days later)
 >>>>>>>> 
 >>>>>>>> The whole idea of superhero's and super villains  makes no sense. 
->>>>>>>> People with powers aren't gonna wear tight clothes and fight crime at night. People with powers aren't gonna join a gang and run heists for a measly 40k. 
->>>>>>>> No realistically, they'll live as ordinary citizens-joining the military, security firms, various corporations, brand ambassadors etc. Governments will pay millions for supers to become their citizens because an abundance of supers is an insane level of increase in a countries military preparation.
->>>>>>>> Ie, Eidolon becomes an Iranian citizens-> Iran now has one of the worlds strongest militaries.
->>>>>>>>  Aka, they'll live an exceptional life- the most privileged and powerful people on the planet.
->>>>>>>> And those people do not roll around in the dirt like gangsters, like supervillains AND superhero's
->>>>>>>> Therefore, worm makes no sense as it is entirely based around supershero's and supervillains.
 >>>>>>>> 
+>>>>>>>> People with powers aren't gonna wear tight clothes and fight crime at night. People with powers aren't gonna join a gang and run heists for a measly 40k. 
+>>>>>>>> 
+>>>>>>>> No realistically, they'll live as ordinary citizens-joining the military, security firms, various corporations, brand ambassadors etc. Governments will pay millions for supers to become their citizens because an abundance of supers is an insane level of increase in a countries military preparation.
+>>>>>>>> 
+>>>>>>>> Ie, Eidolon becomes an Iranian citizens-> Iran now has one of the worlds strongest militaries.
+>>>>>>>> 
+>>>>>>>>  Aka, they'll live an exceptional life- the most privileged and powerful people on the planet.
+>>>>>>>> 
+>>>>>>>> And those people do not roll around in the dirt like gangsters, like supervillains AND superhero's
+>>>>>>>> 
+>>>>>>>> Therefore, worm makes no sense as it is entirely based around supershero's and supervillains.
 
->>>>>>>>> **u/Sonderjye** [+3] *
+>>>>>>>>> **u/Sonderjye** [+4]  (4 days later)
 >>>>>>>>> 
 >>>>>>>>> The idea of superheroes/villains doesn't make sense in our world but it does in worm. Partly the entities gift power to people that are prone to violence and partly the shards affect their personalities and decisions.
->>>>>>>>> 
 
->>>>>>>>>> **u/UWCS2022** [+1] *
+>>>>>>>>>> **u/UWCS2022** [+1]  (5 days later)
 >>>>>>>>>> 
 >>>>>>>>>> Thats really just a way for the author to handwave away all of these issues. However lets say I give that to you. 
->>>>>>>>>> What worm then ignores, is the huge impact that non-powered people would have a huge effect on the lifestyle of a powered person. 
->>>>>>>>>> It makes anyone not powered useless-which couldn't be further from the truth. Every major government would realistically create kill squads consisting of ordinary humans to kill ANY powered threat.  Every democracy would have debates on the roles of powered in society, every authoritative  state would try to control as many powered as possible- through any means necessary.
->>>>>>>>>> Lastly, all of the worlds most powerful powered would never be in America. India and China would be the real powerhouses with: a more dangerous lifestyle, more people. And that would have great repercussions on the world.  
->>>>>>>>>> Seems like the entities are american too. How shocking, and unique.
 >>>>>>>>>> 
+>>>>>>>>>> What worm then ignores, is the huge impact that non-powered people would have a huge effect on the lifestyle of a powered person. 
+>>>>>>>>>> 
+>>>>>>>>>> It makes anyone not powered useless-which couldn't be further from the truth. Every major government would realistically create kill squads consisting of ordinary humans to kill ANY powered threat.  Every democracy would have debates on the roles of powered in society, every authoritative  state would try to control as many powered as possible- through any means necessary.
+>>>>>>>>>> 
+>>>>>>>>>> Lastly, all of the worlds most powerful powered would never be in America. India and China would be the real powerhouses with: a more dangerous lifestyle, more people. And that would have great repercussions on the world.  
+>>>>>>>>>> 
+>>>>>>>>>> Seems like the entities are american too. How shocking, and unique.
 
->>>>>>>>> **u/Tetrikitty** [+1] *
+>>>>>>>>> **u/Tetrikitty** [+1]  (5 days later)
 >>>>>>>>> 
 >>>>>>>>> You probably haven't read far enough in to get the worldbuilding. Things are not as they seem.
->>>>>>>>> 
 
->>>>>>>>>> **u/UWCS2022** [+1] *
+>>>>>>>>>> **u/UWCS2022** [+1]  (5 days later)
 >>>>>>>>>> 
 >>>>>>>>>> I've finished worm brah. Admittedly I haven't read ward but that shouldn't matter.
->>>>>>>>>> 
 
->>>>> **u/DuplexFields** [+8]  *New Lunar Republic**
+>>>>> **u/DuplexFields** [+9]  *New Lunar Republic* (a day later)
 >>>>> 
 >>>>> One optional criterion for ratfic is that people do a lot with a little, and Worm is about how there are no small superpowers.
->>>>> "Give me a lever and a place to stand, and I will move the world." - Archemedes
->>>>> It's also about power struggle, the utility of factions, and survival in the vein of Ender's Game, grandfather of ratfics.
 >>>>> 
+>>>>> "Give me a lever and a place to stand, and I will move the world." - Archemedes
+>>>>> 
+>>>>> It's also about power struggle, the utility of factions, and survival in the vein of Ender's Game, grandfather of ratfics.
 
->> **u/TristanTheViking** [+1] *
+>> **u/TristanTheViking** [+1]  (a day later)
 >> 
 >> I just finished book 1 of Unsong, it's like a dive into Abrahamic schizophrenia. The Uriel parts are more entertaining than the actual plot.
->> 
 
->>> **u/MultipartiteMind** [+1] *
+>>> **u/MultipartiteMind** [+1]  (4 days later)
 >>> 
 >>> Wait, you're saying there was a plot outside the Uriel bits?  O.O  (Joking, but not very--in my memory the other characters' largely-ineffectual squabbles and confusions fade into noise next to the awesomeness that is everything Uriel.  A bit as though you had an HPMOR Harry in your story occasionally, but the story itself was ostensibly about Stanley Shunpike's daily ups and downs.)
->>> 
 
->>>> **u/MyLife-is-a-diceRoll** [+1] *
+>>>> **u/MyLife-is-a-diceRoll** [+1]  (8 days later)
 >>>> 
 >>>> Is there a list of Ureil chapters?
->>>> 
 
->>>>> **u/MultipartiteMind** [+1] *
+>>>>> **u/MultipartiteMind** [+1]  (12 days later)
 >>>>> 
 >>>>> Hmm.  It may be simplest to make such a list, by use of Find (and spelling the name as Uriel rather than as Ureil) ((and not including chapters where Uriel is only mentioned rather than speaking or quoted)).  
-
+>>>>> 
 >>>>> First, the absolute Table of Contents:  [http://unsongbook.com/](http://unsongbook.com/)
+>>>>> 
 >>>>> &#x200B;
+>>>>> 
 >>>>> Next, the list itself (by the way, chapter 20 is the particularly-exciting one showing Uriel originally obtaining godlike power):  
 >>>>> [http://unsongbook.com/interlude-%d7%90-the-cracks-in-the-sky/](http://unsongbook.com/interlude-%d7%90-the-cracks-in-the-sky/)
->>>>> [http://unsongbook.com/chapter-3-on-a-cloud-i-saw-a-child/](http://unsongbook.com/chapter-3-on-a-cloud-i-saw-a-child/)
->>>>> [http://unsongbook.com/chapter-9-with-art-celestial/](http://unsongbook.com/chapter-9-with-art-celestial/)
->>>>> [http://unsongbook.com/chapter-13-the-image-of-eternal-death/](http://unsongbook.com/chapter-13-the-image-of-eternal-death/)
->>>>> [http://unsongbook.com/chapter-16-if-perchance-with-iron-power-he-might-avert-his-own-despair/](http://unsongbook.com/chapter-16-if-perchance-with-iron-power-he-might-avert-his-own-despair/)
->>>>> [http://unsongbook.com/interlude-%D7%96-man-on-the-sphere/](http://unsongbook.com/interlude-%D7%96-man-on-the-sphere/)
->>>>> [http://unsongbook.com/chapter-17-that-the-children-of-jerusalem-may-be-saved-from-slavery/](http://unsongbook.com/chapter-17-that-the-children-of-jerusalem-may-be-saved-from-slavery/)
->>>>> [http://unsongbook.com/chapter-20-when-the-stars-threw-down-their-spears/](http://unsongbook.com/chapter-20-when-the-stars-threw-down-their-spears/)
->>>>> [http://unsongbook.com/chapter-26-for-not-one-sparrow-can-suffer-and-the-whole-universe-not-suffer-also/](http://unsongbook.com/chapter-26-for-not-one-sparrow-can-suffer-and-the-whole-universe-not-suffer-also/)
->>>>> [http://unsongbook.com/chapter-32-the-human-form-divine/](http://unsongbook.com/chapter-32-the-human-form-divine/)
->>>>> [http://unsongbook.com/chapter-34-why-wilt-thou-rend-thyself-apart-jerusalem/](http://unsongbook.com/chapter-34-why-wilt-thou-rend-thyself-apart-jerusalem/)
->>>>> [http://unsongbook.com/chapter-36-my-fathers-business/](http://unsongbook.com/chapter-36-my-fathers-business/)
->>>>> [http://unsongbook.com/chapter-44-a-world-within-opening-its-gates/](http://unsongbook.com/chapter-44-a-world-within-opening-its-gates/)
->>>>> [http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/](http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/)
->>>>> [http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/](http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/)
->>>>> [http://unsongbook.com/chapter-52-the-king-of-light-beheld-her-mourning/](http://unsongbook.com/chapter-52-the-king-of-light-beheld-her-mourning/)
->>>>> [http://unsongbook.com/chapter-55-none-can-visit-his-regions/](http://unsongbook.com/chapter-55-none-can-visit-his-regions/)
->>>>> [https://unsongbook.com/chapter-63-my-wrath-burns-to-the-top-of-heaven/](https://unsongbook.com/chapter-63-my-wrath-burns-to-the-top-of-heaven/)
->>>>> [http://unsongbook.com/chapter-70-nor-for-itself-hath-any-care/](http://unsongbook.com/chapter-70-nor-for-itself-hath-any-care/)
->>>>> [http://unsongbook.com/epilogue/](http://unsongbook.com/epilogue/)
 >>>>> 
+>>>>> [http://unsongbook.com/chapter-3-on-a-cloud-i-saw-a-child/](http://unsongbook.com/chapter-3-on-a-cloud-i-saw-a-child/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-9-with-art-celestial/](http://unsongbook.com/chapter-9-with-art-celestial/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-13-the-image-of-eternal-death/](http://unsongbook.com/chapter-13-the-image-of-eternal-death/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-16-if-perchance-with-iron-power-he-might-avert-his-own-despair/](http://unsongbook.com/chapter-16-if-perchance-with-iron-power-he-might-avert-his-own-despair/)
+>>>>> 
+>>>>> [http://unsongbook.com/interlude-%D7%96-man-on-the-sphere/](http://unsongbook.com/interlude-%D7%96-man-on-the-sphere/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-17-that-the-children-of-jerusalem-may-be-saved-from-slavery/](http://unsongbook.com/chapter-17-that-the-children-of-jerusalem-may-be-saved-from-slavery/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-20-when-the-stars-threw-down-their-spears/](http://unsongbook.com/chapter-20-when-the-stars-threw-down-their-spears/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-26-for-not-one-sparrow-can-suffer-and-the-whole-universe-not-suffer-also/](http://unsongbook.com/chapter-26-for-not-one-sparrow-can-suffer-and-the-whole-universe-not-suffer-also/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-32-the-human-form-divine/](http://unsongbook.com/chapter-32-the-human-form-divine/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-34-why-wilt-thou-rend-thyself-apart-jerusalem/](http://unsongbook.com/chapter-34-why-wilt-thou-rend-thyself-apart-jerusalem/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-36-my-fathers-business/](http://unsongbook.com/chapter-36-my-fathers-business/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-44-a-world-within-opening-its-gates/](http://unsongbook.com/chapter-44-a-world-within-opening-its-gates/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/](http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/](http://unsongbook.com/chapter-49-terrors-of-the-sun-and-moon/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-52-the-king-of-light-beheld-her-mourning/](http://unsongbook.com/chapter-52-the-king-of-light-beheld-her-mourning/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-55-none-can-visit-his-regions/](http://unsongbook.com/chapter-55-none-can-visit-his-regions/)
+>>>>> 
+>>>>> [https://unsongbook.com/chapter-63-my-wrath-burns-to-the-top-of-heaven/](https://unsongbook.com/chapter-63-my-wrath-burns-to-the-top-of-heaven/)
+>>>>> 
+>>>>> [http://unsongbook.com/chapter-70-nor-for-itself-hath-any-care/](http://unsongbook.com/chapter-70-nor-for-itself-hath-any-care/)
+>>>>> 
+>>>>> [http://unsongbook.com/epilogue/](http://unsongbook.com/epilogue/)
 
->>>>>> **u/MyLife-is-a-diceRoll** [+1] *
+>>>>>> **u/MyLife-is-a-diceRoll** [+1]  (13 days later)
 >>>>>> 
 >>>>>> Holy crap you're awesome.   
->>>>>> I enjoyed the Uriel/eil chapters far more than the other chapters. I stopped reading the series about chapter 12 or 13 because I couldnt stand the Abrahamic schizophrenia and squabbling (accurate descriptive terms).
->>>>>> So Thank you :)
 >>>>>> 
+>>>>>> I enjoyed the Uriel/eil chapters far more than the other chapters. I stopped reading the series about chapter 12 or 13 because I couldnt stand the Abrahamic schizophrenia and squabbling (accurate descriptive terms).
+>>>>>> 
+>>>>>> So Thank you :)
 
-> **u/None** [+36] *
+> **u/None** [+36]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Gooey-** [+3] *
+>> **u/Gooey-** [+3]  (14 hours later)
 >> 
 >> *Preach brother, preach!*
->> 
 
-> **u/None** [+16] *
+> **u/None** [+16]  (21 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+10] *
+>> **u/None** [+9]  (2 hours later)
 >> 
 >> Luminosity is very good, and is something of a rabbit hole for Alicorn's other, also good content.
->> 
 
->> **u/DuplexFields** [+3]  *New Lunar Republic**
+>> **u/DuplexFields** [+3]  *New Lunar Republic* (a day later)
 >> 
 >> Luminosity is a rationalization of Twilight, Radiance is a sequel from another character's perspective, and Flashes is an anthology of vignettes set throughout both books.
->> I accidentally read Flashes first, so some of the drama of the novels was spoiled, but from what I've heard others say who never finished Luminosity, I guess it kept me hooked long enough for it to get good.
 >> 
+>> I accidentally read Flashes first, so some of the drama of the novels was spoiled, but from what I've heard others say who never finished Luminosity, I guess it kept me hooked long enough for it to get good.
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (4 days later)
 >> 
 >> Yes, Luminosity is finished, and basically covers all four books of Twilight canon. However, you really need to read the sequel, Radiance (which is also finished), or else the story is quite incomplete.
->> 
 
-> **u/None** [+14] *
+> **u/None** [+14]  (5 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (6 hours later)
 >> 
 >> [deleted]
->> 
 
->> **u/MyLife-is-a-diceRoll** [+1] *
+>> **u/MyLife-is-a-diceRoll** [+1]  (7 days later)
 >> 
 >> So I'm like 7 chapters in and I'm having a hard time wrapping my head around the main character's thought process and train. 
+>> 
 >> The style of the writing makes me feel like I have to shake my head to clear it. Of which I actually did and it didn't help.
+>> 
 >> I like the premise a lot but as someone who doesn't  remember/know much about the bible  and not particularly giving a shit about the Abrahamic religions, means I'm having a hard time getting into it.
 >>  I also feel all the verses are overcrowding the rest of the story.    I understand the why they are written and discussed between the characters but it's hard to not  gloss over it when there is more than a paragraph or two.
->> 
 
-> **u/loimprevisto** [+27] *
+> **u/loimprevisto** [+26]  (2 hours later)
 > 
 > [The Arithmancer](https://www.fanfiction.net/s/10070079/1/The-Arithmancer) is another Harry Potter fanfic with rational elements.
-> [A Practical Guide to Evil](https://practicalguidetoevil.wordpress.com) and [Worm](https://parahumans.wordpress.com) are also popular with the r/rational crowd.
 > 
+> [A Practical Guide to Evil](https://practicalguidetoevil.wordpress.com) and [Worm](https://parahumans.wordpress.com) are also popular with the r/rational crowd.
 
->> **u/AnthaIon** [+29] *
+>> **u/AnthaIon** [+28]  (2 hours later)
 >> 
 >> Worm and the rest of Wildbow’s stuff is just good across the board, honestly.
->> 
 
->>> **u/bubby_cat2** [+17] *
+>>> **u/bubby_cat2** [+18]  (6 hours later)
 >>> 
 >>> If you're into the rational side, I highly recommend Twig, also by Wildbow - even more depressing than Worm but oh so good
->>> 
 
->>>> **u/None** [+5] *
+>>>> **u/None** [+5]  (15 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>>> 
 >>>>> [[Pact]](https://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/)
->>>>> 
 
->>>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>>> 
 >>>> [[Twig]](https://twigserial.wordpress.com/2014/12/24/taking-root-1-1/)
->>>> 
 
->> **u/Ardvarkeating101** [+5]  *Father of Learning**
+>> **u/Ardvarkeating101** [+5]  *Father of Learning* (13 hours later)
 >> 
 >> Arithmancer isn't quite rational, but not bad.  The sequel, lady archimedes, goes full Mary Sue partway through, and her ethics get... weird with her reluctance to kill or just end the war through any of the ways laid out either in story or in HPMOR
->> 
 
->>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>> **u/thrawnca** [+2]  *Carbon-based biped* (3 days later)
 >>> 
 >>> > The sequel, lady archimedes, goes full Mary Sue partway through
->>> Yeah, very much this. I gave up on it, but eventually came back and was able to finish and enjoy the trilogy. My advice is, treat Hermione more as a plot device than an actual character, and enjoy the worldbuilding+munchkinry.
 >>> 
+>>> Yeah, very much this. I gave up on it, but eventually came back and was able to finish and enjoy the trilogy. My advice is, treat Hermione more as a plot device than an actual character, and enjoy the worldbuilding+munchkinry.
 
->> **u/NorskDaedalus** [+12] *
+>> **u/NorskDaedalus** [+11]  (5 hours later)
 >> 
 >> Came to say exactly these three. At this point, I honestly like the Arithmancer a bit more than HPMOR (heresy, I know). It stays closer to canon, people are a bit more realistic in their capabilities, and the magic system is more universally explored, beyond just a few spells that are explained.
->> Worm is probably the second king of Rational stories, and is incredibly well-written. It explores what a world that actually has superheroes/villains as a sizable minority of the population would actually be like. Warning: it’s fairly depressing.
->> Lastly, a PGtE is the most unique of the three. While not yet completed, it still is incredibly long, absolutely hilarious, and has some really fascinating world building. It’s set in a fantasy world where being a protagonist or main villain is a measurable quantity, and tropes and story beats are both predictable and can even be weaponized by those who know what they’re doing. 
->> I would personally rank the Arithmancer as a 10/10, Worm as a 9/10 (it’s just a tad depressing for me), and a PGTE as 10/10. For reference, HPMOR is probably a 9/10 and MoL is 8.5/10
 >> 
+>> Worm is probably the second king of Rational stories, and is incredibly well-written. It explores what a world that actually has superheroes/villains as a sizable minority of the population would actually be like. Warning: it’s fairly depressing.
+>> 
+>> Lastly, a PGtE is the most unique of the three. While not yet completed, it still is incredibly long, absolutely hilarious, and has some really fascinating world building. It’s set in a fantasy world where being a protagonist or main villain is a measurable quantity, and tropes and story beats are both predictable and can even be weaponized by those who know what they’re doing. 
+>> 
+>> I would personally rank the Arithmancer as a 10/10, Worm as a 9/10 (it’s just a tad depressing for me), and a PGTE as 10/10. For reference, HPMOR is probably a 9/10 and MoL is 8.5/10
 
->>> **u/Makin-** [+11]  *homestuck ratfic, you can do it**
+>>> **u/Makin-** [+11]  *homestuck ratfic, you can do it* (5 hours later)
 >>> 
 >>> I'd say staying close to canon is exactly why I enjoyed the Arithmancer increasingly less as it went on. It becomes unimaginative, contrived and forgettable when all the stations of canon must happen.
->>> 
 
->>>> **u/NorskDaedalus** [+2] *
+>>>> **u/NorskDaedalus** [+2]  (5 hours later)
 >>>> 
 >>>> How far did you get? I found that while many of the same events happened, the exact reaction to them suffered wildly from their established method. By the time the war finally kicks off, there’s almost no overlap of the events, let alone how they play out.
->>>> But each to their own, I guess.
 >>>> 
+>>>> But each to their own, I guess.
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (4 days later)
 >> 
 >> The caveat on Worm is, it's a very dark story. Don't look for happily ever afters.
->> 
 
->> **u/Thulahn** [+1] *
+>> **u/Thulahn** [+1]  (19 hours later)
 >> 
 >> Arithmancy looks right up my street. Thanks!
->> 
 
->> **u/Sonderjye** [+1] *
+>> **u/Sonderjye** [+1]  (6 days later)
 >> 
 >> Does the Arithmancer move? I'm  at chapter 22 and it have basically been a rehashing of the book from a different point of view with a few insignificant differences this far. Does the Arithmancer really take off?
->> 
 
->>> **u/loimprevisto** [+1] *
+>>> **u/loimprevisto** [+1]  (7 days later)
 >>> 
 >>> There are only so many changes that can plausibly happen in the first year... it's been a while since I read it, but I remember things really taking off once Hermione gets into the advanced arithmancy classes.
->>> 
 
->>>> **u/Sonderjye** [+1] *
+>>>> **u/Sonderjye** [+1]  (7 days later)
 >>>> 
 >>>> I heavily disagree with that statement but am happy that things takes off. About what chapter is that?
->>>> 
 
->>>>> **u/loimprevisto** [+1] *
+>>>>> **u/loimprevisto** [+1]  (7 days later)
 >>>>> 
 >>>>> I think it picks up in the 30s. When all the crazy stuff starts happening in the second year Hermione responds to it in her own way and tries to find solutions (including contemplating a transfer to Beauxbatons in France, because who wants to keep going to a crazy-dangerous school with apparently incompetent staff?). If I'm remembering right, that's also when she starts to get mixed up in the house elf plot line and starts making some discoveries about Hogwards. 
->>>>> It reads like a slice of life story from a rational student caught up in crazy happenings at wizard school rather than an adventure story. She really just wants to learn math, learn magic, be with her friends, and keep safe. I happen to like slice of life writing, but it does get slow in places...
->>>>> It is possible to have a significant departure from cannon in the first year, but it requires significantly changing the characters and circumstances. Arithmancer tries to play it straight with the only change being Hermione as a math prodigy and fleshing out the field of arithmancy. Stories like HPMOR give *everyone* the benefit of competence and rational pursuit of their goals and the story changes radically as a result. Can you recommend some fanfics where the first year was significantly different from the novels?
 >>>>> 
+>>>>> It reads like a slice of life story from a rational student caught up in crazy happenings at wizard school rather than an adventure story. She really just wants to learn math, learn magic, be with her friends, and keep safe. I happen to like slice of life writing, but it does get slow in places...
+>>>>> 
+>>>>> It is possible to have a significant departure from cannon in the first year, but it requires significantly changing the characters and circumstances. Arithmancer tries to play it straight with the only change being Hermione as a math prodigy and fleshing out the field of arithmancy. Stories like HPMOR give *everyone* the benefit of competence and rational pursuit of their goals and the story changes radically as a result. Can you recommend some fanfics where the first year was significantly different from the novels?
 
-> **u/lead-y** [+7] *
+> **u/lead-y** [+8]  (12 hours later)
 > 
 > Pokémon the origin of species. I think it’s a compelling and well thought out depiction of how a world where kids go out to fight and capture dangerous monsters (Pokemon) would operate, and has very “real” characters.
-> 
 
->> **u/Lightwavers** [+6]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[Pokemon: The Origin of Species]](https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species)
->> 
 
-> **u/None** [+6] *
+> **u/None** [+4]  (7 hours later)
 > 
 > What makes you enjoy HPMOR and MoL? There are a lot of recommendations that can be made depending on that
-> 
 
->> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[Harry Potter and the Methods of Rationality]](http://www.hpmor.com/chapter/1)  
 >> [[Mother of Learning]](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)
->> 
 
-> **u/rahgael** [+4] *
+> **u/rahgael** [+3]  (7 hours later)
 > 
 > Did you try Kingdoms Bloodline? Give it a try.
-> 
 
->> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[Kingdom's Bloodline]](https://www.webnovel.com/book/9664912305003405/Kingdom's-Bloodline)
->> 
 
->> **u/_The_Bomb** [+1] *
+>> **u/_The_Bomb** [+1]  (2 days later)
 >> 
 >> Haven’t heard of this before! Thank you.
->> 
 
->> **u/Sonderjye** [+1] *
+>> **u/Sonderjye** [+1]  (3 days later)
 >> 
 >> Could you give a brief description of why this is great?
->> 
 
->>> **u/rahgael** [+2] *
+>>> **u/rahgael** [+2]  (3 days later)
 >>> 
 >>> Its one of the most detailed & immersive world building i've ever read. Each of the characters has a back story, defined motivation for doing whatever they're doing, each location has a back story, there's history of over thousands of years, its so detailed  that events of one night spanned over 100+ standard \~3000 words chapters! On top of that, its more thoroughly focused on philosophy, governance, politics with intense twists and turns of events. I was quite pleasantly surprised to find such a gem, and at the lack of following considering how intricate, rational and philosophical this novel is.
->>> 
 
-> **u/PikpikTurnip** [+6] *
+> **u/PikpikTurnip** [+6]  (11 hours later)
 > 
 > Well, I'm still not entirely sure how to tell if a work counts, but if I'm not mistaken, the original Abhorsen trilogy by Garth Nix should be a good one. There have been at least two more books in the series since, but I'm not sure how they are, as I haven't read them.
-> 
 
->> **u/Lightwavers** [+7]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+8]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[Abhorsen Series]](https://www.goodreads.com/series/44888-abhorsen)
->> 
 
->> **u/thrawnca** [+1]  *Carbon-based biped**
+>> **u/thrawnca** [+1]  *Carbon-based biped* (3 days later)
 >> 
 >> You reckon it's rational? I enjoy the story, but I don't recall anything that particularly places it in the genre.
->> 
 
-> **u/ward614** [+3] *
+> **u/ward614** [+3]  (18 hours later)
 > 
 > Consider The Fifth Defiance. It's another take on the superhero genre where a decidedly anti-rational individual takes control. An interesting look at how to be rational in a field where society detests reason.
-> 
 
->> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> **u/Lightwavers** [+3]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >> 
 >> [[The Fifth Defiance]](https://thefifthdefiance.com/2015/11/02/introduction/)
->> 
 
->> **u/WalterTFD** [+3] *
+>> **u/WalterTFD** [+3]  (4 days later)
 >> 
 >> Thank you so much for the recommendation!  I write TFD, and I really appreciate it.  New chapter tomorrow!
->> 
 
->>> **u/ward614** [+2] *
+>>> **u/ward614** [+2]  (4 days later)
 >>> 
 >>> You are doing great work! All the main  characters are relatable and interesting I look forward to the next chapter!
->>> 
 
-> **u/elventian** [+5] *
+> **u/elventian** [+3]  (2 hours later)
 > 
 > Does Mother of learning feel like HPMoR, or it's rational only because of rational characters, and doesn't have deep ideas? (Looking for next fic after HPMoR and Significant Digits myself)
-> 
 
->> **u/Culric458** [+20] *
+>> **u/Culric458** [+20]  (4 hours later)
 >> 
 >> It's rational because *all* the characters have their own motivations and reasonable act based on them.
->> 
 
->> **u/NorskDaedalus** [+7] *
+>> **u/NorskDaedalus** [+5]  (5 hours later)
 >> 
 >> Having recently been in your exact situation (looking for something nice and logical to read following HPMOR and Worm), I can tell you what I found that kind of scratches that itch:
->> Worm, probably second after HPMOR as the archetypical Rational fic, which has reasonably-motivated characters, very well-thought out world dynamics, and a really brilliant power system, with people who fully use their powers.
->> MoL, which, while it doesn’t have quite as hard of a magic system as HPMOR, is still quite logical and the characters each have their own motivations, and stick to those motivations, that ultimately makes it a very satisfying read.
->> The Arithmancer, which fully explores a magic system much closer to HP canon (or at least closer to typical fanon), involves a very reasonably-motivated Hermoine (most of the others are left unchanged) and is overall an incredibly satisfying read. She combines science and magic in a way that is much more reasonable than HPMOR, and her new innovations come at a much more believable rate.
->> By the same author, the Accidental Animagus is also quite good. While it doesn’t explore the magic system nearly as much, it works out fine. It’s much more character driven, and both Hermione and Harry (who serve as our primary POV) are prepared, reasonable, clever, and way less willing to go along with things “just because.”
->> The Practical Guide to Evil is also top-notch. It examines a world where “hero” and “villain” are actual,  measurable qualities, and protagonists and antagonists are actually just far better at fighting than regular people. Stories can be weaponized, our protagonist is fed up with how the good guys have the deck stacked in their favor so much, and Dread Emperor Irritant (the oddly successful) is one of the best historical figures ever.
->> Lastly, there’s the Metaworld Chronicles. While nowhere near the quality of the others I listed (especially at the start), it still becomes a fairly good read in time. It only passed muster as ‘rational’ in my mind thanks to the main character, who actually acts based on logic rather than emotion, but it does become a fairly engaging read with time.
 >> 
+>> Worm, probably second after HPMOR as the archetypical Rational fic, which has reasonably-motivated characters, very well-thought out world dynamics, and a really brilliant power system, with people who fully use their powers.
+>> 
+>> MoL, which, while it doesn’t have quite as hard of a magic system as HPMOR, is still quite logical and the characters each have their own motivations, and stick to those motivations, that ultimately makes it a very satisfying read.
+>> 
+>> The Arithmancer, which fully explores a magic system much closer to HP canon (or at least closer to typical fanon), involves a very reasonably-motivated Hermoine (most of the others are left unchanged) and is overall an incredibly satisfying read. She combines science and magic in a way that is much more reasonable than HPMOR, and her new innovations come at a much more believable rate.
+>> 
+>> By the same author, the Accidental Animagus is also quite good. While it doesn’t explore the magic system nearly as much, it works out fine. It’s much more character driven, and both Hermione and Harry (who serve as our primary POV) are prepared, reasonable, clever, and way less willing to go along with things “just because.”
+>> 
+>> The Practical Guide to Evil is also top-notch. It examines a world where “hero” and “villain” are actual,  measurable qualities, and protagonists and antagonists are actually just far better at fighting than regular people. Stories can be weaponized, our protagonist is fed up with how the good guys have the deck stacked in their favor so much, and Dread Emperor Irritant (the oddly successful) is one of the best historical figures ever.
+>> 
+>> Lastly, there’s the Metaworld Chronicles. While nowhere near the quality of the others I listed (especially at the start), it still becomes a fairly good read in time. It only passed muster as ‘rational’ in my mind thanks to the main character, who actually acts based on logic rather than emotion, but it does become a fairly engaging read with time.
 
->>> **u/Lightwavers** [+6]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>> **u/Lightwavers** [+6]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿* (a day later)
 >>> 
 >>> [[Harry Potter and the Methods of Rationality]](http://www.hpmor.com/chapter/1)  
 >>> [[Mother of Learning]](https://www.fictionpress.com/s/2961893/1/Mother-of-Learning)  
@@ -420,53 +406,56 @@
 >>> [[The Arithmancer]](https://www.fanfiction.net/s/10070079/1/The-Arithmancer)  
 >>> [[The Accidental Animagus]](https://www.fanfiction.net/s/9863146/1/The-Accidental-Animagus)  
 >>> [[Metaworld Chronicles]](https://www.royalroad.com/fiction/14167/metaworld-chronicles) (Low quality)
->>> 
 
->>> **u/Ardvarkeating101** [+4]  *Father of Learning**
+>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (13 hours later)
 >>> 
 >>> > The Arithmancer, which fully explores a magic system much closer to HP canon (or at least closer to typical fanon), involves a very reasonably-motivated Hermoine (most of the others are left unchanged) and is overall an incredibly satisfying read. She combines science and magic in a way that is much more reasonable than HPMOR, and her new innovations come at a much more believable rate.
->>> Ehhhhh, the Arithmancer is okay, the sequel is just godawful Mary-Sue claptrap with a contrived plot.  Honestly with how "competent" the main character is compared to the DE the war should be over within a few chapters, but she just sticks to bad tactics and it goes on as a result.
 >>> 
+>>> Ehhhhh, the Arithmancer is okay, the sequel is just godawful Mary-Sue claptrap with a contrived plot.  Honestly with how "competent" the main character is compared to the DE the war should be over within a few chapters, but she just sticks to bad tactics and it goes on as a result.
 
->>>> **u/NorskDaedalus** [+1] *
+>>>> **u/NorskDaedalus** [+1]  (13 hours later)
 >>>> 
 >>>> I understand where you’re coming from, but I’ve always felt that Mary Sue-ness comes from a lack of development and everything coming very easily. Hermione spent six-ish years growing in power, so her strength is understandable. As for why the war isn’t over quickly, she simply has different priorities. Once she does accomplish her other goals and is able to stop holding back, the war does end quickly.
->>>> But like I said, each to their own.
 >>>> 
+>>>> But like I said, each to their own.
 
->>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (13 hours later)
 >>>>> 
 >>>>> Most of the OOtP cream their pants when she makes barbed wire to fight inferi.
->>>>> Barbed wire.  So impressive.  That totally makes her "scary" according to the other hardened veterans.  God forbid she buy a gun.
 >>>>> 
+>>>>> Barbed wire.  So impressive.  That totally makes her "scary" according to the other hardened veterans.  God forbid she buy a gun.
 
->>>>>> **u/NorskDaedalus** [+1] *
+>>>>>> **u/NorskDaedalus** [+1]  (13 hours later)
 >>>>>> 
 >>>>>> It’s easy to forget that we’re looking from Hermoine’s perspective, who by her own admission doesn’t feel that it was that great of an accomplishment, just clever use of tactics that Harry even came up with. From the Order’s perspective, they just hear that Hermione managed to take out three hundred unstoppable death machines single-handedly. They didn’t know what she did, only that it was something that should have been impossible. Sort of like with Voldemort’s flight, it’s only impressive if you don’t know how it’s done.
->>>>>> 
 
->>>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning* (14 hours later)
 >>>>>>> 
 >>>>>>> She didn’t do it alone, it wasn’t three hundred, and raising a pillar of rock to hide on and a sharp stick to poke with would have been both less dangerous and more effective.  
->>>>>>> She’s terrible and praised for it, classic Mary-Sue
 >>>>>>> 
+>>>>>>> She’s terrible and praised for it, classic Mary-Sue
 
-> **u/edwardkmett** [+2] *
+> **u/edwardkmett** [+2]  (2 days later)
 > 
 > Worth the Candle is the obvious choice. It has a ton of content and is written by an author that is very well regarded here.
-> I'm greatly fond of Metropolitan Man, also by Wales. Rational Lex Luthor.
-> Sticking with Lex, [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate) is another good read.
-> The Erogamer is coming along quite nicely. While I wouldn't say it is nearly finished it does have a lot of content.
-> Unsong isn't really rational/rationalist but it is definitely rationalist-adjacent.
-> Also rationalist-adjacent, Worm captures the general sentiment of having a protagonist that coldly considers her options at each point and a lot of the story takes place in her head as she tries to plan out how to respond to her rather crazy circumstances. The narrator is er.. a bit unreliable, which adds another layer to parsing the story.
 > 
+> I'm greatly fond of Metropolitan Man, also by Wales. Rational Lex Luthor.
+> 
+> Sticking with Lex, [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate) is another good read.
+> 
+> The Erogamer is coming along quite nicely. While I wouldn't say it is nearly finished it does have a lot of content.
+> 
+> Unsong isn't really rational/rationalist but it is definitely rationalist-adjacent.
+> 
+> Also rationalist-adjacent, Worm captures the general sentiment of having a protagonist that coldly considers her options at each point and a lot of the story takes place in her head as she tries to plan out how to respond to her rather crazy circumstances. The narrator is er.. a bit unreliable, which adds another layer to parsing the story.
 
-> **u/thrawnca** [+1]  *Carbon-based biped**
+> **u/thrawnca** [+1]  *Carbon-based biped* (3 days later)
 > 
 > It's not to everyone's taste, and it's far from finished, but With This Ring definitely has a lot of content (over 2.5 million words and counting).
-> Compared to HPMoR or MoL, it's not especially rational. Compared to the source material, though - comics and animated series - it's highly rational. The author puts a lot of effort into having the universe (or multiverse) make sense within the constraints of comic book logic.
-> Typical pitfalls are the slow pace - updating daily, but often providing more detail rather than moving the plot forward quickly - and concerns that the protagonist is not properly challenged, though opinions on that are quite divided. Strengths include the carefully considered and detailed plot, humor, and author involvement; as well as updating the story every day, he's active in the associated discussion thread and fixes any reported typos in under a day.
 > 
+> Compared to HPMoR or MoL, it's not especially rational. Compared to the source material, though - comics and animated series - it's highly rational. The author puts a lot of effort into having the universe (or multiverse) make sense within the constraints of comic book logic.
+> 
+> Typical pitfalls are the slow pace - updating daily, but often providing more detail rather than moving the plot forward quickly - and concerns that the protagonist is not properly challenged, though opinions on that are quite divided. Strengths include the carefully considered and detailed plot, humor, and author involvement; as well as updating the story every day, he's active in the associated discussion thread and fixes any reported typos in under a day.
 
 ---
 

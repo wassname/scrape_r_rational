@@ -2,7 +2,7 @@
 
 * Author: u/Colonel_Fedora  *Ravenclaw**
 * URL: https://www.reddit.com/r/rational/comments/3adze2/some_ideas_ive_had_recently/
-* Score: 2
+* Score: 4
 
 * Created: 2015-06-19T10:04:48
 
@@ -26,275 +26,327 @@ Edit: It occurs to me that this probably isn't quite enough information to go on
 
 ### Comments:
 
-> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram* (an hour later)
 > 
 > > So let's say you are a hyper advanced crystal being with basically human values. How do you go about accomplishing the goals you were assigned?
-> What are my resources?
-> > Technologies they definitely have access to: hard light projections, really thorough scanning, very small and powerful computers, ftl travel, pocket dimensions, and remote energy transfer.
-> Create pocket dimensions that contain arbitrarily large and ever-expanding perfect eternal computational substrates linked by FTL gateways, and upload everyone and everything into them. Finally, after everyone has been rescued from the messy entropic universe, upload myself as I turn the lights off.
 > 
+> What are my resources?
+> 
+> > Technologies they definitely have access to: hard light projections, really thorough scanning, very small and powerful computers, ftl travel, pocket dimensions, and remote energy transfer.
+> 
+> Create pocket dimensions that contain arbitrarily large and ever-expanding perfect eternal computational substrates linked by FTL gateways, and upload everyone and everything into them. Finally, after everyone has been rescued from the messy entropic universe, upload myself as I turn the lights off.
 
->> **u/Colonel_Fedora** [+2]  *Ravenclaw**
+>> **u/Colonel_Fedora** [+2]  *Ravenclaw* (5 hours later)
 >> 
 >> An interesting proposal. Unfortunately you forgot the part about asking everyone what they wanted. 
->> Also, I'll clarify some limits on the pocket dimensions for everyone here: They have a finite amount of space, and have to be maintained through outside energy. The larger they are, the more energy it takes to maintain them.
->> I'm also more interested in initial strategies rather than the main end goal. Especially since, even with ftl, searching the entire known universe for sentient life will take a very very long time. And this ftl is of the gotta go fast rather than the portal variety. The fastest you'll ever get is a few months between galaxies, and that would require a great deal of improvement to the stuff you start with.
->> Edit: Thanks for the suggestion, btw. I didn't realize that other people wouldn't think of the same thing when I said "pocket dimension".
 >> 
+>> Also, I'll clarify some limits on the pocket dimensions for everyone here: They have a finite amount of space, and have to be maintained through outside energy. The larger they are, the more energy it takes to maintain them.
+>> 
+>> I'm also more interested in initial strategies rather than the main end goal. Especially since, even with ftl, searching the entire known universe for sentient life will take a very very long time. And this ftl is of the gotta go fast rather than the portal variety. The fastest you'll ever get is a few months between galaxies, and that would require a great deal of improvement to the stuff you start with.
+>> 
+>> Edit: Thanks for the suggestion, btw. I didn't realize that other people wouldn't think of the same thing when I said "pocket dimension".
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (6 hours later)
 >>> 
 >>> > An interesting proposal. Unfortunately you forgot the part about asking everyone what they wanted. 
->>> I can simulate whatever they want. Problem solved.
->>> > They have a finite amount of space, and have to be maintained through outside energy. The larger they are, the more energy it takes to maintain them.
->>> Spoilsport.
->>> Build N robots with copies of my mind-state uploaded into them... well, I guess I'm already one of those... and then send them to N star systems to do the same thing. Within not too many cycles I'll have one of me at every system in the galaxy, and let these instances proceed as needed for that specific circumstances in that system. Meanwhile, repeat in the next N^N galaxies until copies of me are managing the whole universe.
->>> Probably going to end up turning stars into more efficient energy sources, plus computronium to upload people into.
 >>> 
+>>> I can simulate whatever they want. Problem solved.
+>>> 
+>>> > They have a finite amount of space, and have to be maintained through outside energy. The larger they are, the more energy it takes to maintain them.
+>>> 
+>>> Spoilsport.
+>>> 
+>>> Build N robots with copies of my mind-state uploaded into them... well, I guess I'm already one of those... and then send them to N star systems to do the same thing. Within not too many cycles I'll have one of me at every system in the galaxy, and let these instances proceed as needed for that specific circumstances in that system. Meanwhile, repeat in the next N^N galaxies until copies of me are managing the whole universe.
+>>> 
+>>> Probably going to end up turning stars into more efficient energy sources, plus computronium to upload people into.
 
->>>> **u/Colonel_Fedora** [+2]  *Ravenclaw**
+>>>> **u/Colonel_Fedora** [+3]  *Ravenclaw* (6 hours later)
 >>>> 
 >>>> >I can simulate whatever they want. Problem solved.
->>>> I don't think you're quite taking this seriously enough. This is the Big Problem. The fact is that a lot of folks won't want to live in a simulation, no matter how nice it is. I'm one of those people, to be honest.
->>>> The whole purpose of this exercise is to achieve some degree of harmony between vastly different value systems. Not just doing your best Celestai impression and insisting that this whole simulation thing is an absolute must for every single being in the universe. You can only ignore the desires of individuals/species if they are completely incapable of cooperation, not just if it would be more convenient to.
 >>>> 
+>>>> I don't think you're quite taking this seriously enough. This is the Big Problem. The fact is that a lot of folks won't want to live in a simulation, no matter how nice it is. I'm one of those people, to be honest.
+>>>> 
+>>>> The whole purpose of this exercise is to achieve some degree of harmony between vastly different value systems. Not just doing your best Celestai impression and insisting that this whole simulation thing is an absolute must for every single being in the universe. You can only ignore the desires of individuals/species if they are completely incapable of cooperation, not just if it would be more convenient to.
 
->>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (6 hours later)
 >>>>> 
 >>>>> > The fact is that a lot of folks won't want to live in a simulation, no matter how nice it is. I'm one of those people, to be honest.
->>>>> How do you know? You have no way even in principle of telling whether you're living in a simulation or not.
->>>>> Regardless, getting copies of me in every place they could be needed is an obvious first step whatever the long-range plan is.
 >>>>> 
+>>>>> How do you know? You have no way even in principle of telling whether you're living in a simulation or not.
+>>>>> 
+>>>>> Regardless, getting copies of me in every place they could be needed is an obvious first step whatever the long-range plan is.
 
->>>>>> **u/IomKg** [+1] *
+>>>>>> **u/IomKg** [+1]  (12 hours later)
 >>>>>> 
 >>>>>> How could a simulation of reality so accurate it is indistinguishable from reality in any way more efficient then reality?
+>>>>>> 
 >>>>>> Unless you are suggesting that you will manipulate the minds of people in the simulation so they will not have a chance to realize it?
 >>>>>> Which is moving the suggestion from gray area to a slightly light shade of black..
->>>>>> 
 
->>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (13 hours later)
 >>>>>>> 
 >>>>>>> It only needs to be maintained at that resolution when it's observed.
->>>>>>> 
 
->>>>>>>> **u/IomKg** [+1] *
+>>>>>>>> **u/IomKg** [+1]  (21 hours later)
 >>>>>>>> 
 >>>>>>>> So you think its possible to simulate the world perfectly with less resources then it takes the world to actually exist?
 >>>>>>>> So we could build a simulation of the world inside the simulation ad infinitum and effectively solve the entropy issue?
->>>>>>>> 
 
->>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>>>>>>> 
 >>>>>>>>> I didn't say that. I said that it could be possible to simulate the world _as observed by any specific inhabitant_, therefore your assumption that you are not in a simulation is not testable.
->>>>>>>>> 
 
->>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>> **u/IomKg** [+1]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> My doubt was not about the ability to deceive inhabitants of a simulation so they wont be able to tell they are in one, my doubt was that it is possible to do so while using less resources then reality...
->>>>>>>>>> 
 
->>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> I didn't suggest that, it was in the nature of a thought experiment about the nature of simulations and your relationship to them.
->>>>>>>>>>> Also, my original proposal was to abandon reality completely and cast away into effectively infinite simulations in non-entropic universes. Like in Greg Egan's _Permutation City_.
 >>>>>>>>>>> 
+>>>>>>>>>>> Also, my original proposal was to abandon reality completely and cast away into effectively infinite simulations in non-entropic universes. Like in Greg Egan's _Permutation City_.
 
->>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>> **u/IomKg** [+1]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> >> An interesting proposal. Unfortunately you forgot the part about asking everyone what they wanted.
->>>>>>>>>>>> > I can simulate whatever they want. Problem solved.
->>>>>>>>>>>> Correct me if i am misinterpreting what you said, but it seemed to me like you implied by this that you can simulate the world in a way they will not be able to tell, so it is somehow better to forcibly upload them without them knowing then to let them live in reality.
->>>>>>>>>>>> If we assume that this is possible, but that doing so is using more energy then actual reality what possible reason could you have to simulate them? because you seem to imply it is better, and i cannot see how that will be better if it is less energy efficient.
 >>>>>>>>>>>> 
+>>>>>>>>>>>> > I can simulate whatever they want. Problem solved.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Correct me if i am misinterpreting what you said, but it seemed to me like you implied by this that you can simulate the world in a way they will not be able to tell, so it is somehow better to forcibly upload them without them knowing then to let them live in reality.
+>>>>>>>>>>>> 
+>>>>>>>>>>>> If we assume that this is possible, but that doing so is using more energy then actual reality what possible reason could you have to simulate them? because you seem to imply it is better, and i cannot see how that will be better if it is less energy efficient.
 
->>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> > Correct me if i am misinterpreting what you said, but it seemed to me like you implied by this that you can simulate the world in a way they will not be able to tell, so it is somehow better to forcibly upload them without them knowing then to let them live in reality.
->>>>>>>>>>>>> In the context of my original post, yes. Because I was creating non-entropic subspaces that were growing as fast as necessary to provide enough processing time and storage to run the simulation basically forever. Really forever. Like in the Greg Egan novel _Permutation City_ I previously noted.
 >>>>>>>>>>>>> 
+>>>>>>>>>>>>> In the context of my original post, yes. Because I was creating non-entropic subspaces that were growing as fast as necessary to provide enough processing time and storage to run the simulation basically forever. Really forever. Like in the Greg Egan novel _Permutation City_ I previously noted.
 
->>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>> **u/IomKg** [+1]  (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> why simulate then? sounds easier to just work with reality if you have infinite energy..
->>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (a day later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Even infinite energy doesn't allow you to back up and restore reality. Simulations let you get to choose the laws of physics you want.
->>>>>>>>>>>>>>> "Everyone complains about the laws of physics, but nobody ever does anything about them" -- Greg Egan, _Schild's Ladder_
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> "Everyone complains about the laws of physics, but nobody ever does anything about them" -- Greg Egan, _Schild's Ladder_
 
->>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (a day later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> infinite energy doesn't, but i don't see how the technology for backing simulating, and backing up said simulation, reality to the level we discussed is any way easier then just backing up reality and manipulating it.
->>>>>>>>>>>>>>>> I don't think any one really complains about the laws of physics themselves, only about what they prevent us from doing with our current technology. now you could say that sufficient technology won't necessarily enable us to do -everything- we want, and to that i would reply that advanced technology won't necessarily  enable you to simulate reality to the level that you are talking about either, or at least won't enable you to simulate it in any way which would be similarly efficient to reality..
 >>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> I don't think any one really complains about the laws of physics themselves, only about what they prevent us from doing with our current technology. now you could say that sufficient technology won't necessarily enable us to do -everything- we want, and to that i would reply that advanced technology won't necessarily  enable you to simulate reality to the level that you are talking about either, or at least won't enable you to simulate it in any way which would be similarly efficient to reality..
 
->>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>> > infinite energy doesn't, but i don't see how the technology for backing simulating, and backing up said simulation, reality to the level we discussed is any way easier then just backing up reality and manipulating it.
->>>>>>>>>>>>>>>>> The latter almost certainly requires changing the laws of physics.
->>>>>>>>>>>>>>>>> > i would reply that advanced technology won't necessarily enable you to simulate reality to the level that you are talking about either, or at least won't enable you to simulate it in any way which would be similarly efficient to reality.
->>>>>>>>>>>>>>>>> Once you've abandoned connection to our reality, and have infinite energy, efficiency doesn't matter.
 >>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> The latter almost certainly requires changing the laws of physics.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> > i would reply that advanced technology won't necessarily enable you to simulate reality to the level that you are talking about either, or at least won't enable you to simulate it in any way which would be similarly efficient to reality.
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Once you've abandoned connection to our reality, and have infinite energy, efficiency doesn't matter.
 
->>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>> >The latter almost certainly requires changing the laws of physics.
->>>>>>>>>>>>>>>>>> If your definition of manipulation is changing the energy of electrons then yeah sure, if you definition is any kind of human related concept you could probably do it without changing any underlying laws, it won't be "real" but the effect as far as you will be able to tell would be indistinguishable.
-
->>>>>>>>>>>>>>>>>> >Once you've abandoned connection to our reality, and have infinite energy, efficiency doesn't matter.
->>>>>>>>>>>>>>>>>> The point is that if you can achieve the same with less effort then it makes more sense then to go about a more difficult and less efficient approach.
->>>>>>>>>>>>>>>>>> And anyhow infinite energy doesn't mean infinite amount of it available at any time, if a simulation is a 10 orders or magnitude less efficient then reality it would mean that the universe you will be able to maintain would be 10 orders of magnitude smaller.
 >>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> If your definition of manipulation is changing the energy of electrons then yeah sure, if you definition is any kind of human related concept you could probably do it without changing any underlying laws, it won't be "real" but the effect as far as you will be able to tell would be indistinguishable.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> >Once you've abandoned connection to our reality, and have infinite energy, efficiency doesn't matter.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> The point is that if you can achieve the same with less effort then it makes more sense then to go about a more difficult and less efficient approach.
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> And anyhow infinite energy doesn't mean infinite amount of it available at any time, if a simulation is a 10 orders or magnitude less efficient then reality it would mean that the universe you will be able to maintain would be 10 orders of magnitude smaller.
 
->>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>> Manipulating atoms on a large enough scale to back up and restore, say, a human? Yes, I can see that being possible though it wouldn't be instant and would probably be a destructive process. You'd need to change the laws of physics to "scan" a human at the atomic level non-destructively.
->>>>>>>>>>>>>>>>>>> You also need to do the backup regularly, because the restore would lose everything that happened since the last backup. How often are you going to volunteer to be broken down into atoms and rebuilt?
->>>>>>>>>>>>>>>>>>> Or you can take a less complete backup, maybe just scanning the neural connectome, and rebuilding the body from a template. That would feel even less like a "backup". I dunno, I'd rather just go through that once.
->>>>>>>>>>>>>>>>>>> And that's just for a human. In a simulation, you can roll back whole planets to a recent snapshot.
->>>>>>>>>>>>>>>>>>> > And anyhow infinite energy doesn't mean infinite amount of it available at any time, if a simulation is a 10 orders or magnitude less efficient then reality it would mean that the universe you will be able to maintain would be 10 orders of magnitude smaller.
->>>>>>>>>>>>>>>>>>> First, my original post had the universe the simulation was running in growing perpetually, so you can just wait until it's big enough for whatever you want to simulate.
->>>>>>>>>>>>>>>>>>> And don't forget, the simulation is running on simulated time. It doesn't matter how long it takes to page in bits of the universe. The simulated world will never know about it.
 >>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> You also need to do the backup regularly, because the restore would lose everything that happened since the last backup. How often are you going to volunteer to be broken down into atoms and rebuilt?
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Or you can take a less complete backup, maybe just scanning the neural connectome, and rebuilding the body from a template. That would feel even less like a "backup". I dunno, I'd rather just go through that once.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> And that's just for a human. In a simulation, you can roll back whole planets to a recent snapshot.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> > And anyhow infinite energy doesn't mean infinite amount of it available at any time, if a simulation is a 10 orders or magnitude less efficient then reality it would mean that the universe you will be able to maintain would be 10 orders of magnitude smaller.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> First, my original post had the universe the simulation was running in growing perpetually, so you can just wait until it's big enough for whatever you want to simulate.
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> And don't forget, the simulation is running on simulated time. It doesn't matter how long it takes to page in bits of the universe. The simulated world will never know about it.
 
->>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>> we are talking here about theoretical technologies, a full blown universe simulation is also something we do not know how to do at the moment, or even if it will be possible to do it.
 >>>>>>>>>>>>>>>>>>>> in the end you are suggesting guesses into what will be possible and not possible in reality, but taking the less positive possibility as the likely one, while doing the opposite for a simulation.
-
->>>>>>>>>>>>>>>>>>>> its not just that it would be slower, you have limited memory, you cannot simulate more then a certain amount..
->>>>>>>>>>>>>>>>>>>> i will give you though that from subjective aspects if you need to chose between a pure good world running in a simulation which is slower in real time it would be preferable to me over the real world running faster, but from a global perspective that might not work as well..
 >>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> its not just that it would be slower, you have limited memory, you cannot simulate more then a certain amount..
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> i will give you though that from subjective aspects if you need to chose between a pure good world running in a simulation which is slower in real time it would be preferable to me over the real world running faster, but from a global perspective that might not work as well..
 
->>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> 1. A full blown universe simulation is more likely than being able to do anything we can do in a full blown universe simulation in the real universe. Even Iain M. Banks _Culture_ Minds don't have that kind of control, and that's about the most powerful civilization I can think of. They _do_ have human level backup and restore, though it's not instant or perfect and has failure modes you wouldn't have in a simulated universe.
+>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> 2. I explicitly covered the "limited memory" issue. Twice now.
+>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> 3. The global perspective _is_ the simulation, it has no connection to our physical entropic universe.
+>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> Reading list:
+>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>> * Greg Egan, _Permutation City_
 >>>>>>>>>>>>>>>>>>>>> * Greg Egan, _Schild's Ladder_
 >>>>>>>>>>>>>>>>>>>>> * Iain M. Banks, _Excession_
 >>>>>>>>>>>>>>>>>>>>> * Iain M. Banks, _Surface Detail_
->>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>> >A full blown universe simulation is more likely than being able to do anything we can do in a full blown universe simulation in the real universe. Even Iain M. Banks Culture Minds don't have that kind of control, and that's about the most powerful civilization I can think of. They do have human level backup and restore, though it's not instant or perfect and has failure modes you wouldn't have in a simulated universe.
->>>>>>>>>>>>>>>>>>>>>> What are you basing this claim on? It seems awfully arbitrary to me. if we were talking about some kind of simplified universe(like in FiO) i could maybe see the argument, and to be honest even that kind of a simulation might not be possible. but i honestly cannot see any argument for a simulated reality being in any way more likely then a manipulated reality...
->>>>>>>>>>>>>>>>>>>>>> >I explicitly covered the "limited memory" issue. Twice now.
->>>>>>>>>>>>>>>>>>>>>> where? i saw you said that the univrse is ever expending, to which i answered that it might be expending and infinite but if your simulation is less efficient then it is possible that your virtual universe will be smaller, to which you responded that you could simulate slower then in real time, thus being able the simulation overcome some of the limitations, and i metnioned that even with such shortcuts you will have limits. not saying its a dealbreaker but i didnt see you mention anything that changes these limits.
->>>>>>>>>>>>>>>>>>>>>> >The global perspective is the simulation, it has no connection to our physical entropic universe.
->>>>>>>>>>>>>>>>>>>>>> When i said global vs. personal perspective i meant that as a single person i wouldn't care if in order to sustain my virtual universe with the rules i like only 10 people could stay alive in the universe, but from the point of view of whoever is designing that system deciding between 10(i am exaggerating here) 100% fully satisfied people running in a simulation which consumes all the resources of the universe, vs a few billion people only 90% happy running using those same resources seem preferable.
 >>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> What are you basing this claim on? It seems awfully arbitrary to me. if we were talking about some kind of simplified universe(like in FiO) i could maybe see the argument, and to be honest even that kind of a simulation might not be possible. but i honestly cannot see any argument for a simulated reality being in any way more likely then a manipulated reality...
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> >I explicitly covered the "limited memory" issue. Twice now.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> where? i saw you said that the univrse is ever expending, to which i answered that it might be expending and infinite but if your simulation is less efficient then it is possible that your virtual universe will be smaller, to which you responded that you could simulate slower then in real time, thus being able the simulation overcome some of the limitations, and i metnioned that even with such shortcuts you will have limits. not saying its a dealbreaker but i didnt see you mention anything that changes these limits.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> >The global perspective is the simulation, it has no connection to our physical entropic universe.
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> When i said global vs. personal perspective i meant that as a single person i wouldn't care if in order to sustain my virtual universe with the rules i like only 10 people could stay alive in the universe, but from the point of view of whoever is designing that system deciding between 10(i am exaggerating here) 100% fully satisfied people running in a simulation which consumes all the resources of the universe, vs a few billion people only 90% happy running using those same resources seem preferable.
 
->>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>> > i saw you said that the univrse is ever expending, to which i answered that it might be expending and infinite but if your simulation is less efficient then it is possible that your virtual universe will be smaller, to which you responded that you could simulate slower then in real time 
->>>>>>>>>>>>>>>>>>>>>>> If there is some limit to the compute structure, because that's the only reason an infinite or indefinitely expanding universe with infinite energy supplies would need to defer execution. There is no limit to the storage: energy = mass, you could *literally* build an infinite tape Turing Machine for storage.
->>>>>>>>>>>>>>>>>>>>>>> > but i honestly cannot see any argument for a simulated reality being in any way more likely then a manipulated reality
->>>>>>>>>>>>>>>>>>>>>>> You build a cellular automaton that implements a simple computer. It doesn't matter how inefficient it is, because it's either infinite in extent or grows indefinitely so you can simply pause the simulation until you have enough resources. You run a simulation of physics on it, again, it doesn't matter how inefficient it is, because you can allocate as many processors as you need to any volume of space however small.
->>>>>>>>>>>>>>>>>>>>>>> Done.
->>>>>>>>>>>>>>>>>>>>>>> > from the point of view of whoever is designing that system deciding between 10(i am exaggerating here) 100% fully satisfied people running in a simulation which consumes all the resources of the universe, vs a few billion people only 90% happy running using those same resources seem preferable. 
->>>>>>>>>>>>>>>>>>>>>>> You're not getting the whole point of infinite resources, are you?
 >>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> If there is some limit to the compute structure, because that's the only reason an infinite or indefinitely expanding universe with infinite energy supplies would need to defer execution. There is no limit to the storage: energy = mass, you could *literally* build an infinite tape Turing Machine for storage.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> > but i honestly cannot see any argument for a simulated reality being in any way more likely then a manipulated reality
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> You build a cellular automaton that implements a simple computer. It doesn't matter how inefficient it is, because it's either infinite in extent or grows indefinitely so you can simply pause the simulation until you have enough resources. You run a simulation of physics on it, again, it doesn't matter how inefficient it is, because you can allocate as many processors as you need to any volume of space however small.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> Done.
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> > from the point of view of whoever is designing that system deciding between 10(i am exaggerating here) 100% fully satisfied people running in a simulation which consumes all the resources of the universe, vs a few billion people only 90% happy running using those same resources seem preferable. 
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> You're not getting the whole point of infinite resources, are you?
 
->>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> >If there is some limit to the compute structure, because that's the only reason an infinite or indefinitely expanding universe with infinite energy supplies would need to defer execution. There is no limit to the storage: energy = mass, you could literally build an infinite tape Turing Machine for storage.
+>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> you are forgetting that we just said that infinite doesnt mean that you have infinity of it at any moment, only that as time passes you have more, and that it is not limited.
 >>>>>>>>>>>>>>>>>>>>>>>> you could store an infinite amount of data, assuming you have infinite time, but it does not mean that at any moment you have infinite storage.. so the arguement that your virtual universe could be 10^99999999 smaller then the actual universe it is running inside stays true, also for the people inside, it is possible that with all the resources in your universe you will only be able to simulate a cube of matter which is 15cm^3..
+>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> and the universe will multiply itself every 10^10000 years, so in 10000 years you will be able to simulate 30 cm^3, of course that is also assuming that simulating more matter isnt exponentially more resource intensive..
+>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> >You build a cellular automaton that implements a simple computer. It doesn't matter how inefficient it is, because it's either infinite in extent or grows indefinitely so you can simply pause the simulation until you have enough resources. You run a simulation of physics on it, again, it doesn't matter how inefficient it is, because you can allocate as many processors as you need to any volume of space however small.
+>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>> the universe seems to be running on a quantum ruleset, it is not proven that it is possible to build a quantum computer, thus it is possible yourinefficiency in calculation will be so big that with all the matter in the universe at your disposal you still won't be able to simulate more then a tiny amount of matter.
 >>>>>>>>>>>>>>>>>>>>>>>> the point being that unless we are literally talking about infinite amount of energy available to you immediately, loss of efficiency -is- important. 
-
->>>>>>>>>>>>>>>>>>>>>>>> >You're not getting the whole point of infinite resources, are you?
->>>>>>>>>>>>>>>>>>>>>>>> i hope that with this post i clarified what aspect of "infinite" i have a problem with in your argument.
 >>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> >You're not getting the whole point of infinite resources, are you?
+>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> i hope that with this post i clarified what aspect of "infinite" i have a problem with in your argument.
 
->>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>> > you are forgetting that we just said that infinite doesnt mean that you have infinity of it at any moment
->>>>>>>>>>>>>>>>>>>>>>>>> Each universe only needs to be big enough to simulate reality for the population of the the inhabited planet it starts with, and the simulated reality needs to expand no faster than lightspeed.
->>>>>>>>>>>>>>>>>>>>>>>>> > the universe seems to be running on a quantum ruleset, it is not proven that it is possible to build a quantum computer
->>>>>>>>>>>>>>>>>>>>>>>>> I don't think that anyone has claimed you can't simulate a quantum system in a classical computer, and it only needs to simulate reality to that level when someone "requests" it by making an observation. Most of the simulation can be fairly low resolution most of the time. There's no reason to simulate minds by simulating brains below whatever level is required to get the same results, for example.
->>>>>>>>>>>>>>>>>>>>>>>>> And simulating the whole universe *undetectably* is a thought experiment you suggested, not part of my original plan. Most universes wouldn't find it necessary to do that, and besides people would catch on that something was going on when they quit aging and dying, or they started consciously reincarnating, or whatever hack I came up with to destroy death for that population.
 >>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> Each universe only needs to be big enough to simulate reality for the population of the the inhabited planet it starts with, and the simulated reality needs to expand no faster than lightspeed.
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> > the universe seems to be running on a quantum ruleset, it is not proven that it is possible to build a quantum computer
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> I don't think that anyone has claimed you can't simulate a quantum system in a classical computer, and it only needs to simulate reality to that level when someone "requests" it by making an observation. Most of the simulation can be fairly low resolution most of the time. There's no reason to simulate minds by simulating brains below whatever level is required to get the same results, for example.
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> And simulating the whole universe *undetectably* is a thought experiment you suggested, not part of my original plan. Most universes wouldn't find it necessary to do that, and besides people would catch on that something was going on when they quit aging and dying, or they started consciously reincarnating, or whatever hack I came up with to destroy death for that population.
 
->>>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> >Each universe only needs to be big enough to simulate reality for the population of the the inhabited planet it starts with, and the simulated reality needs to expand no faster than lightspeed.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> Well as mentioned the loss of efficiency could be big enough so that even with a full universe you couldn't simulate a single planet..
-
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> >I don't think that anyone has claimed you can't simulate a quantum system in a classical computer
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> I didn't claim it is impossible, it just needs to be unreasonably inefficient to do so, an example which i think shows this possibility, even if it is not the exact same as what we are describing is shor's algorithm for factorization, just imagine that in order to simulate the system you need to perform something which has a similar difference in efficiency between classical computing and reality..
-
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> >and it only needs to simulate reality to that level when someone "requests" it by making an observation
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> This Btw also brings another assumption which i believe is baseless, you assume it is possible to simulate a world well enough(i assume that when you talk about simulating you include all of the 5 senses, as well as reality which is of no lower "resolution" then is perceivable by a human being, meaning you wont simulate an 8 bit universe where everyone are 2d sprites that can just see as simple 2.5d world with sounds coming from all around them, but instead simulate a world in as good fidelity as human beings are able to perceive, so when you dig in the send on the beach you will feel the heat and touch of the sand, when you build something in the sand it will continue to exist after you go home, and the waves will slowly run it down. 
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>> Even if we assume that the world will not continue to exist when a human is not there(what about a bacteria? an insect? a mammal?) just real simulation of all of the 5 senses at the moment is something we have nothing to suggest as possible.
 >>>>>>>>>>>>>>>>>>>>>>>>>> Today simulations which encompass such large scales take -huge- shortcuts which significantly lower the fidelity of the reality they offer.
 >>>>>>>>>>>>>>>>>>>>>>>>>> it is just fake, its good enough for people -trying- to immerse themselves in the world, but it is nowhere close to reality.
->>>>>>>>>>>>>>>>>>>>>>>>>> >There's no reason to simulate minds by simulating brains below whatever level is required to get the same results, for example.
->>>>>>>>>>>>>>>>>>>>>>>>>> we do not even know if there is a more effective way of simulating human minds, it is just a guess.
-
->>>>>>>>>>>>>>>>>>>>>>>>>> >Most universes wouldn't find it necessary to do that
->>>>>>>>>>>>>>>>>>>>>>>>>> What makes you think most people will prefer being uploaded to not being uploaded?(that question was what brought this entire discussion in the first place, and you implied that for those people you will make the simulation identical to reality, presumably until you managed to convince them to "upload" and then be able to tend to their values more freely)
 >>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> >There's no reason to simulate minds by simulating brains below whatever level is required to get the same results, for example.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> we do not even know if there is a more effective way of simulating human minds, it is just a guess.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> >Most universes wouldn't find it necessary to do that
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> What makes you think most people will prefer being uploaded to not being uploaded?(that question was what brought this entire discussion in the first place, and you implied that for those people you will make the simulation identical to reality, presumably until you managed to convince them to "upload" and then be able to tend to their values more freely)
 
->>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>> > you implied that for those people you will make the simulation identical to reality
->>>>>>>>>>>>>>>>>>>>>>>>>>> The speaker implies. The listener infers. You inferred that, I didn't imply it, and I still don't infer it reading my response... which I guess is why we've been talking past each other. If I wasn't going to improve on reality, what would be the point?
 >>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>> The speaker implies. The listener infers. You inferred that, I didn't imply it, and I still don't infer it reading my response... which I guess is why we've been talking past each other. If I wasn't going to improve on reality, what would be the point?
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>> By "those people" i meant people that -don't- want to be uploaded, and that was the only way i could see that would be on the gray side morally. If you are suggesting you would just ignore\overwrite such wishes then i don't see how that really answers /u/Colonel_Fedora's point regarding not asking people for permission..
->>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> I was being flippant. My full response was:
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Build N robots with copies of my mind-state uploaded into them... well, I guess I'm already one of those... and then send them to N star systems to do the same thing. Within not too many cycles I'll have one of me at every system in the galaxy, and let these instances proceed as needed for that specific circumstances in that system. Meanwhile, repeat in the next NN galaxies until copies of me are managing the whole universe.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Probably going to end up turning stars into more efficient energy sources, plus computronium to upload people into.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's long term, and not certain, which is why the "probably". I mean *really* long term. It's kind of the only option to save any current mind-states more than a trillion years or so, because supporting a whole ecosystem for the sake of two-pound chunks of fat is way less efficient than building a dedicated computational platform to run them.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which is why I wrote:
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Regardless, getting copies of me in every place they could be needed is an obvious first step whatever the long-range plan is.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which you proceeded to ignore.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Build N robots with copies of my mind-state uploaded into them... well, I guess I'm already one of those... and then send them to N star systems to do the same thing. Within not too many cycles I'll have one of me at every system in the galaxy, and let these instances proceed as needed for that specific circumstances in that system. Meanwhile, repeat in the next NN galaxies until copies of me are managing the whole universe.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Probably going to end up turning stars into more efficient energy sources, plus computronium to upload people into.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's long term, and not certain, which is why the "probably". I mean *really* long term. It's kind of the only option to save any current mind-states more than a trillion years or so, because supporting a whole ecosystem for the sake of two-pound chunks of fat is way less efficient than building a dedicated computational platform to run them.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which is why I wrote:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Regardless, getting copies of me in every place they could be needed is an obvious first step whatever the long-range plan is.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which you proceeded to ignore.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/IomKg** [+1]  (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >Which you proceeded to ignore.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> i didn't reference that point because it has no bearing on the question of uploading people. as i said earlier, in case i misunderstood you you were free to correct me..
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> i was under the impression that you were saying you would upload people without their knoledge and convince then to upload ex post facto.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> if what you actually suggested was:
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> a.  spread onto the rest of the universe
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> b.  prepare "computronium" so upload is possible
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> and thats where your plan stops then cool..
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Personally i am still not sure if a simulation of reality would ever possible\effective in any way close to reality, but maybe you will convince people to live in downgraded worlds so its a non-issue
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Btw is there any kind of proof\indication that "uploading" would ever be more efficient then a brain? i can see some better energy efficiency in large scale brain storage, but can't really see any inherent efficiency increase in "visualizing" the brain..
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I see the concept of "uploading" is so entrenched in this circle i am just wondering if its pure fantasy or if there ever was an indication it might have something to do with reality..
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (2 days later)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > i was under the impression that you were saying you would upload people without their knoledge and convince then to upload ex post facto
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yeh, I get that's why we were talking past each other.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Btw is there any kind of proof\indication that "uploading" would ever be more efficient then a brain?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Depends on how much of what the brain is doing is thinking, and how much of what the brain is doing is maintaining living cells that do the thinking. What's the computational element in the brain? Synapse? Something smaller? How many gate-equivalents are a neuron? Is it less than building that many gates out of technology T?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Given that neurons were developed from little self-repair-and-replication factories, and they still have all that overhead, it seems much more likely that they can be simulated with something smaller even if that's general-purpose enough to be programmable.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yeh, I get that's why we were talking past each other.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > Btw is there any kind of proof\indication that "uploading" would ever be more efficient then a brain?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Depends on how much of what the brain is doing is thinking, and how much of what the brain is doing is maintaining living cells that do the thinking. What's the computational element in the brain? Synapse? Something smaller? How many gate-equivalents are a neuron? Is it less than building that many gates out of technology T?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Given that neurons were developed from little self-repair-and-replication factories, and they still have all that overhead, it seems much more likely that they can be simulated with something smaller even if that's general-purpose enough to be programmable.
 
->>>> **u/redrach** [+1] *
+>>>> **u/redrach** [+1]  (13 hours later)
 >>>> 
 >>>> > Build N robots with copies of my mind-state uploaded into them... well, I guess I'm already one of those... and then send them to N star systems to do the same thing. 
->>>> I'd be careful about that sort of thing, if I were you. What if one of you decides to deviate from the greater plan, say due to memetic contamination from an indigenous population? You need to have protocols in place for scenarios like that.
 >>>> 
+>>>> I'd be careful about that sort of thing, if I were you. What if one of you decides to deviate from the greater plan, say due to memetic contamination from an indigenous population? You need to have protocols in place for scenarios like that.
 
 ---
 

@@ -16,55 +16,69 @@ We've finally transitioned from the 'setup' phase of the murder mystery to the '
 
 ### Comments:
 
-> **u/tjhance** [+2] *
+> **u/tjhance** [+2]  (10 hours later)
 > 
 > Since this is a murder mystery, I've gotta wonder if we even met our entire cast of potential culprits yet. How many people are even ~~on the island~~ at the order's hideout?
-> The glossary mentions 13 people: Utsushikome, Ran, Kamrusepa, Theodoros, Ptolema, Seth, Ophelia, Lilith, Mehit, Sac'Nicte'Ic'Nal, Bardiya, Linos, Neferuaten.
-> But it doesn't list Anna, Durvasa, or Balthazar, just to name a few. We also haven't yet met Samium (who is supposedly here) and Ezekiel (who is supposedly here). I'm not sure if I'm forgetting anybody else. (Edit: also, Yantho)
-> But also ... I think they mentioned that there was going to be a huge audience for the presentations, which suggests there's actually a boatload of people that we haven't met yet. While I assume we've at least met most of the _narratively_ relevant people, this makes it difficult to narrow it down factually.
 > 
+> The glossary mentions 13 people: Utsushikome, Ran, Kamrusepa, Theodoros, Ptolema, Seth, Ophelia, Lilith, Mehit, Sac'Nicte'Ic'Nal, Bardiya, Linos, Neferuaten.
+> 
+> But it doesn't list Anna, Durvasa, or Balthazar, just to name a few. We also haven't yet met Samium (who is supposedly here) and Ezekiel (who is supposedly here). I'm not sure if I'm forgetting anybody else. (Edit: also, Yantho)
+> 
+> But also ... I think they mentioned that there was going to be a huge audience for the presentations, which suggests there's actually a boatload of people that we haven't met yet. While I assume we've at least met most of the _narratively_ relevant people, this makes it difficult to narrow it down factually.
 
->> **u/lurinaa** [+3] *
+>> **u/lurinaa** [+3]  (a day later)
 >> 
 >> I really need to update the character section of the glossary. To be honest, since I got rid of the silly character cards, I sort of forget about it.
->> And I believe it's passingly mentioned that the other people are going to be watching the conference remotely, not while physically present. Without saying too much, though you haven't _seen_ everyone directly yet, at this point all the people in the Sanctuary have been mentioned. 
->> The ten students: Ustushikome, Kamrusepa, Theodoros, Ran, Lilith, Ptolema, Seth, Ezekiel, Bardiya and Ophelia.
->> The six council members: Hamilcar, Neferuaten, Linos, Zeno, Anna and Durvasa.
->> The two servants/'stewards': Sacnicte and Yantho.
->> And three other guests: Mehit, Balthazar and Samium. 
->> ...Bringing the established total to 21 people. It's tipping my hand just a little bit, but that's not the _complete_ final count, although we are extremely close and, again, anyone left over has come up by name already. Once all potential suspects are on the table, the story will make that very clear.
 >> 
+>> And I believe it's passingly mentioned that the other people are going to be watching the conference remotely, not while physically present. Without saying too much, though you haven't _seen_ everyone directly yet, at this point all the people in the Sanctuary have been mentioned. 
+>> 
+>> The ten students: Ustushikome, Kamrusepa, Theodoros, Ran, Lilith, Ptolema, Seth, Ezekiel, Bardiya and Ophelia.
+>> 
+>> The six council members: Hamilcar, Neferuaten, Linos, Zeno, Anna and Durvasa.
+>> 
+>> The two servants/'stewards': Sacnicte and Yantho.
+>> 
+>> And three other guests: Mehit, Balthazar and Samium. 
+>> 
+>> ...Bringing the established total to 21 people. It's tipping my hand just a little bit, but that's not the _complete_ final count, although we are extremely close and, again, anyone left over has come up by name already. Once all potential suspects are on the table, the story will make that very clear.
 
->>> **u/tjhance** [+1] *
+>>> **u/tjhance** [+1]  (a day later)
 >>> 
 >>> yeah actually I completely missed that the conference is remote (OMG TOO REAAAAL) but it seems like a pretty important fact. Cause otherwise I was kinda like ... shouldn't this place feel busier than it is?
->>> ^also ^I ^liked ^the ^silly ^character ^chards
 >>> 
+>>> ^also ^I ^liked ^the ^silly ^character ^chards
 
->> **u/tjhance** [+2] *
+>> **u/tjhance** [+2]  (a day later)
 >> 
 >> ok some actual speculation here
->> It's hard to come up with a motive since we don't know anything about the victim, but Balthazar is hella sketch, which in turns make Zeno sketch (oh, that's someone else I hadn't mentioned yet). But that all seems too obvious, I guess.
->> It seems likely that the note was given to Su in order to make her go looking for the "archive" and find the body, which would mean that the culprit wanted the body to be found.
->> But then why does it appear like the note was in the book for over a year? I wonder if it could have to do with the pantry that had some kind of chrono problem, although I'd probably need to reread the sequence of events to see if I can get anywhere with that hypothesis or if it implicates anybody.
->> Or maybe it was *actually* put there a year ago, which would mean someone had been planning this for a long time? But that seems kind of ridiculous, why would you prepare such a tiny details so far in advance?
 >> 
+>> It's hard to come up with a motive since we don't know anything about the victim, but Balthazar is hella sketch, which in turns make Zeno sketch (oh, that's someone else I hadn't mentioned yet). But that all seems too obvious, I guess.
+>> 
+>> It seems likely that the note was given to Su in order to make her go looking for the "archive" and find the body, which would mean that the culprit wanted the body to be found.
+>> 
+>> But then why does it appear like the note was in the book for over a year? I wonder if it could have to do with the pantry that had some kind of chrono problem, although I'd probably need to reread the sequence of events to see if I can get anywhere with that hypothesis or if it implicates anybody.
+>> 
+>> Or maybe it was *actually* put there a year ago, which would mean someone had been planning this for a long time? But that seems kind of ridiculous, why would you prepare such a tiny details so far in advance?
 
-> **u/Badewell** [+1] *
+> **u/Badewell** [+1]  (a day later)
 > 
 > Utsu's thoughts on the body helped mine along, I'd been a bit confused about the lack of viscera so at least I'm in good company.
-> (and I completely missed the bleach aaargh)
-> Very interested in what Kam's deal is. I'd be surprised if it were just wanting the presentation to go well for career reasons, seems like that would be a minor setback at worse and not worth the risk in covering up the body. There's been so much foreshadowing for Utsu's problem that I'll bet there's some for Kam's as well, I'll need to go back through it keeping that in mind.
-> And Utsu needs to remember to remember her oath! Although actually there might be something in there about not covering up possible murders and the last thing she needs is more guilt.
 > 
+> (and I completely missed the bleach aaargh)
+> 
+> Very interested in what Kam's deal is. I'd be surprised if it were just wanting the presentation to go well for career reasons, seems like that would be a minor setback at worse and not worth the risk in covering up the body. There's been so much foreshadowing for Utsu's problem that I'll bet there's some for Kam's as well, I'll need to go back through it keeping that in mind.
+> 
+> And Utsu needs to remember to remember her oath! Although actually there might be something in there about not covering up possible murders and the last thing she needs is more guilt.
 
->> **u/I-AM-PIRATE** [-1] *
+>> **u/I-AM-PIRATE** [-1]  (a day later)
 >> 
 >> Ahoy Badewell! Nay bad but me wasn't convinced. Give this a sail:
->> Utsu's thoughts on thar body helped mine along, I'd been a bit confused about thar lack o' viscera so at least I be in jolly good company.
->> (n' me completely missed thar bleach aaargh)
->> Very interested in what Kam's deal be. I'd be surprised if it were just wanting thar presentation t' sail well fer career reasons, seems like that would be a minor setback at worse n' nay worth thar risk in covering up thar body. There's been so much foreshadowing fer Utsu's problem that I'll bet there's some fer Kam's as well, I'll need t' sail back through it keeping that in mind.
 >> 
+>> Utsu's thoughts on thar body helped mine along, I'd been a bit confused about thar lack o' viscera so at least I be in jolly good company.
+>> 
+>> (n' me completely missed thar bleach aaargh)
+>> 
+>> Very interested in what Kam's deal be. I'd be surprised if it were just wanting thar presentation t' sail well fer career reasons, seems like that would be a minor setback at worse n' nay worth thar risk in covering up thar body. There's been so much foreshadowing fer Utsu's problem that I'll bet there's some fer Kam's as well, I'll need t' sail back through it keeping that in mind.
 
 ---
 

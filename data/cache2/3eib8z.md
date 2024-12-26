@@ -71,43 +71,45 @@ The story follows two characters: the first is Sigurd, a member of the King's ex
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 hours later)
 > 
 > How does the magic work? Supersaturated nanobots? Where or on what is the FAI running? Supersaturated nanobots? How did anyone who couldn't command the [supersaturated nanobots] survive the war? Why weren't they converted into people able to use [supersaturated nanobots] with the wave of the hand of a [supersaturated nanobot] user in order to be better at killing the other nation full of [supersaturated nanobot] users? Did this advanced civilization do anything in space? If so, what? If not, why the hell not? Where does the information powering the [supersaturated nanobots] come from? Are there any artifacts of the SAT or FAI that don't gibe with the common explanation of "magic"? Why that particular restriction, when all it would do would be to segregate people *more* and lay the foundations for an uneven class structure? If the goal was to prevent violence, why was [supersaturated nanobots] made something that would be *most* useful for combat?
-> 
 
->> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (11 hours later)
 >> 
 >> Have you read [_There Will be Dragons_](http://www.baenebooks.com/showproduct.aspx?ProductID=412&SEName=there-will-be-dragons)^* by John Ringo? This seems like the same basic scenario, with an extra "global amnesia" layer laid on top.
->> \* Baen Free Library, free to download, pretty rational.
 >> 
+>> \* Baen Free Library, free to download, pretty rational.
 
-> **u/KZLightning** [+1] *
+> **u/KZLightning** [+1]  (15 hours later)
 > 
 > I think questions about how the magic works will actually be unknown to us. Hard science fiction often assumes that the technology of the future will be future versions of present technology combined with technology based on current science. This is almost always wrong. Future technology will be partly (depending on how future it is) unknown to us because it will be based on science we do not yet know. Some of that science will overthrow our current understanding of the world. So I think that it is much more realistic if we do not understand how the magic works at all.
-> I do however, have several questions about the historical scenario here. First off, elves seem to be a single race with singular features. Why? If given the chance to alter appearance, people have different preferences. Second, elves living thrice as long as humans is actually fairly short. Why did no one improve their lifespan? Third, why did they never go into space? (Or did they?)
-> I also have questions about the FAI. You have given it five directives. But these directives can conflict. Without some kind of ordering, it seems that the meaning of these directives is unclear. Is it acceptable to alter minds in order to fulfill any of these objectives? What about making any of these objectives less likely? The machine is forbidden from killing sapient beings. Does that include letting such beings die or is it limited to directly causing their death? These answers radically change the possible actions the FAI can do. Also, how aware is it? Can it know what everyone is doing or is it somewhat limited in that respect?
 > 
+> I do however, have several questions about the historical scenario here. First off, elves seem to be a single race with singular features. Why? If given the chance to alter appearance, people have different preferences. Second, elves living thrice as long as humans is actually fairly short. Why did no one improve their lifespan? Third, why did they never go into space? (Or did they?)
+> 
+> I also have questions about the FAI. You have given it five directives. But these directives can conflict. Without some kind of ordering, it seems that the meaning of these directives is unclear. Is it acceptable to alter minds in order to fulfill any of these objectives? What about making any of these objectives less likely? The machine is forbidden from killing sapient beings. Does that include letting such beings die or is it limited to directly causing their death? These answers radically change the possible actions the FAI can do. Also, how aware is it? Can it know what everyone is doing or is it somewhat limited in that respect?
 
->> **u/Kecha_Wacha** [+1]  *Chaos Legion**
+>> **u/Kecha_Wacha** [+1]  *Chaos Legion* (16 hours later)
 >> 
 >> About the elves... to me it makes sense that after however many thousands of years their population should have more traits in common than their transhuman ancestors did. The example I have in mind is that on *average* the original transhumans were taller than normal humans, but there were some unusually short ones. Now though, elves have less variation in their height.  On the other hand, they do still have a much wider variety of vibrant skin, eye and hair colors than humans.
->> The original transhumans extended their lifespans with the intent of living forever, but the way they did it was... imperfect. They could live two hundred years and age more slowly, but then they'd need regenerative medicine to undo that aging. They had that kind of technology, but their civilization is gone now so today's elves only have that two-hundred-year lifespan.
->> I don't know if they went into space. I think they didn't get far enough to find aliens.
->> The FAI's directives are flawed and I'll need to work on them a lot more; I know that. The ones in this post are sort of like placeholders.
->> Thanks for your feedback.
 >> 
+>> The original transhumans extended their lifespans with the intent of living forever, but the way they did it was... imperfect. They could live two hundred years and age more slowly, but then they'd need regenerative medicine to undo that aging. They had that kind of technology, but their civilization is gone now so today's elves only have that two-hundred-year lifespan.
+>> 
+>> I don't know if they went into space. I think they didn't get far enough to find aliens.
+>> 
+>> The FAI's directives are flawed and I'll need to work on them a lot more; I know that. The ones in this post are sort of like placeholders.
+>> 
+>> Thanks for your feedback.
 
->>> **u/KZLightning** [+1] *
+>>> **u/KZLightning** [+1]  (19 hours later)
 >>> 
 >>> Those are pretty good answers.
->>> The space problem still exists though. If elves went into space, the possibility remains that there are still technologically advanced elves out there. It is pretty hard to avoid that result.
 >>> 
+>>> The space problem still exists though. If elves went into space, the possibility remains that there are still technologically advanced elves out there. It is pretty hard to avoid that result.
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (a day later)
 >>>> 
 >>>> On the other hand, that makes a great late-game conflict - the space elves are returning, but "magic" itself seems to defy them. They know about the "F"AI, and plan to destroy it, but it works against them however it can through the provided framework. The citizens are faced with a choice: side with technology that eclipses their "magic" in sophistication if not raw power, or hold to the status quo of the AI's command.
->>>> 
 
 ---
 

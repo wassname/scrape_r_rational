@@ -16,69 +16,61 @@ Please note that this thread has been merged with the Monday General Rationality
 
 ### Comments:
 
-> **u/Kishoto** [+4] *
+> **u/Kishoto** [+4]  (4 hours later)
 > 
 > https://youtu.be/B5575Ky0Fz0
-> ^ Are you a 1 boxer or a 2 boxer? For me personally, I'm picking 1 box all day.
 > 
+> ^ Are you a 1 boxer or a 2 boxer? For me personally, I'm picking 1 box all day.
 
->> **u/RetardedWabbit** [+4] *
+>> **u/RetardedWabbit** [+4]  (7 hours later)
 >> 
 >> It seems more like a question of how to trick the computer as opposed to a game theory issue. You want to convince the computer you are going to take 1 and actually take 2, but the computer being right 100% of the time by definition makes this impossible.
->> Heads I take 1 box, tails I take 2. I will get 2 boxes rewards 25% of the time unless the computer simulates reality or something. I feel like this is a gordian knot answer, but it's an easy personal answer.
 >> 
+>> Heads I take 1 box, tails I take 2. I will get 2 boxes rewards 25% of the time unless the computer simulates reality or something. I feel like this is a gordian knot answer, but it's an easy personal answer.
 
->>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong* (7 hours later)
 >>> 
 >>> It doesn't have to simulate reality, just the results of the coin flip.
->>> 
 
->>>> **u/RetardedWabbit** [+5] *
+>>>> **u/RetardedWabbit** [+5]  (10 hours later)
 >>>> 
 >>>> I would consider a computer able to predict the result of my coin flip 100% to be simulating reality. I shudder to think of the number of variables you would need to consider, let alone trying to measure all of them. In hindsight though, predicting a humans decision is definitely a much harder problem.
->>>> 
 
->>>> **u/mainaki** [+2] *
+>>>> **u/mainaki** [+2]  (8 hours later)
 >>>> 
 >>>> Make it a quantum coin flip, which physics as we know it can't predict? Though, if you do it in advance, maybe the trick is the entity can read you well enough to discern your strategy. (But why would you have to do it in advance?)
->>>> 
 
->>> **u/Veedrac** [+4] *
+>>> **u/Veedrac** [+6]  (a day later)
 >>> 
 >>> > Heads I take 1 box, tails I take 2. I will get 2 boxes rewards 25% of the time unless the computer simulates reality or something. I feel like this is a gordian knot answer, but it's an easy personal answer.
->>> But this is like 4 times worse than just taking the second box.
 >>> 
+>>> But this is like 4 times worse than just taking the second box.
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (9 hours later)
 >> 
 >> I strongly precommited to box 2 as soon as the dude explained the original scenario. I wasn't even aware that I could take both boxes, but since the nature of strong precommitment is that it must be strong, I've decided that I would only open one box even if I found that box to be empty.
->> That being said, this depends strongly on the marginal utility that each quantity of money would give me-- there are scenarios in which I'd strongly precommit to only opening the $1,000 box, and then only open the second box in case of a major emergency. Then I'd carry the second box off, and then if I ever opened it, I'd know how desperate the computer expected me to get versus the power of my own precommitment.
 >> 
+>> That being said, this depends strongly on the marginal utility that each quantity of money would give me-- there are scenarios in which I'd strongly precommit to only opening the $1,000 box, and then only open the second box in case of a major emergency. Then I'd carry the second box off, and then if I ever opened it, I'd know how desperate the computer expected me to get versus the power of my own precommitment.
 
->> **u/Wireless-Wizard** [+1]  *The Foundation**
+>> **u/Wireless-Wizard** [+1]  *The Foundation* (2 days later)
 >> 
 >> Windmill slam both boxes. I'm already operating on the assumption that box 2 will be empty, so I'll happily take the guaranteed £1,000.
->> 
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (11 hours later)
 > 
 > .
-> 
 
->> **u/fljared** [+5]  *United Federation of Planets**
+>> **u/fljared** [+5]  *United Federation of Planets* (2 days later)
 >> 
 >> ;
->> 
 
->>> **u/TheTrickFantasic** [+2] *
+>>> **u/TheTrickFantasic** [+2]  (3 days later)
 >>> 
 >>> :
->>> 
 
->>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>>> **u/traverseda** [+1]  *With dread but cautious optimism* (4 days later)
 >>>> 
 >>>> !
->>>> 
 
 ---
 

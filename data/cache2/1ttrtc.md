@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+5] *
+> **u/None** [+5]  (46 seconds later)
 > 
 > For the reasons listed [here](http://qntm.org/october).
-> 
 
 ---
 

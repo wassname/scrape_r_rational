@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/5ie3aw/biweekly_challenge_the_gamer/
-* Score: 24
+* Score: 25
 
 * Created: 2016-12-14T23:41:59
 
@@ -51,111 +51,111 @@ Next time, our challenge will be **The Heist**. TvTropes would call this [a Cape
 
 ### Comments:
 
-> **u/conradin6622** [+66]  *Challenge Winner**
+> **u/conradin6622** [+62]  *Challenge Winner* (4 days later)
 > 
 > [The Awakeners](https://www.fictionpress.com/s/3298397/1/The-Awakeners)
-> Word Count: 8207
 > 
+> Word Count: 8207
 
->> **u/Kishoto** [+13] *
+>> **u/Kishoto** [+14]  (7 days later)
 >> 
 >> Oh my god. That was amazing. I know I probably shouldn't, as a fellow entrant, but I'm upvoting the hell out of you. This was a really good story. I liked the ending conversation between your MC and pilot. It felt very powerful. Good job!
->> 
 
->> **u/OutOfNiceUsernames** [+13]  *fear of last pages**
+>> **u/OutOfNiceUsernames** [+12]  *fear of last pages* (9 days later)
 >> 
 >> A really well done short story, and a good opening to other possible stories in the same universe too. Thank you for writing it.
+>> 
 >> ---
 >> (spoilers)
+>> 
 >> What the Chooser failed to notice though was that the prevalent “protags save the world” stories were appealing mostly to those of the humans who weren't hungry for power to begin with. The power-hungry ones went into politics and ignored the manifestations of the human magic on the world (the RPGs, etc) because before the Awakening those manifestations were simply not any good for climbing up the power ladder and putting your boot on the world's throat. 
+>> 
 >> And now that it has become good enough for them, those types of people will start influencing the “default” narrative patterns much more, and likely make the human-made RPG much more ruthless. 
+>> 
 >> Hell, if Chooser just ended up in China instead of Japan and had her introduction to human story-telling from a xianxia reader, she might've even deciding to support the decision of nuking the whole thing from orbit.
+>> 
 >> ---
+>> 
 >> Works assosiated with this story:
+>> 
 >> * *[The Gods Themselves](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGodsThemselves)*
 >> * *[My Stepmother Is an Alien](https://www.imdb.com/title/tt0095687/)*
->> 
 
->>> **u/shaker_faker** [+2] *
+>>> **u/shaker_faker** [+2]  (20 days later)
 >>> 
 >>> If the magic has its own will, and that will is well-expressed in FF7, it won't *let* the power-hungry humans win. Not permanently, anyway. Maybe it will let them become strong enough to serve as worthy antagonists for good, noble people to struggle against.
->>> 
 
->>>> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+>>>> **u/OutOfNiceUsernames** [+2]  *fear of last pages* (20 days later)
 >>>> 
 >>>> *disclaimer: this is not intended to be a discouraging piece of criticism, rather a constructive one*
->>>> ---
->>>> Maybe it won’t if that’s the case. The problem is that Chooser’s deduction chain:
->>>> >RPG mechanics existed in RPG games before human magic enforced them on reality. → Human magic must’ve enforced them in RPG games prior to manifesting in a more global scale. → RPG mechanics must have a will of its own, which can be gauged by analysing which tropes have been the most popular in RPG games.
->>>> seems like an example of faulty Aristotelian reasoning to me. For example, what if human magic *does* enforce a unique kind of reality warping (the RPG mechanics), but that’s as far as its influence goes on its own (i.e. without human agents to further shape it through their personality traits, moral principles, etc)? What if it somehow made human societies create games with RPG elements, but all the rest of the content in RPG games\videogames\etc was decided by basic demand and supply (i.e., in supporting the videogame industry were mainly interested videogame players, and since they were regular citizens, they also liked seeing justice being served in the games they played)? 
->>>> I agree that Pilot’s decision of nuking Earth from orbit ASAP was rushed. But even if they were in a losing battle against the other reality-warping race, going to humans right away and briefing them on the whole alien metaverse was not the right decision either — at least not until they had a valid proof through their observations that their hypothesis regarding the nature of human magic was the correct one.
->>>> So Pilot rushing with his plan of destruction without cunsulting with anybody was the first [WhatAnIdiot](http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatAnIdiot) case in the story, Chooser deciding to haphazardly bring the whole human race into the loop was the second one (admittedly, she was in a zeitnot), and the inter-dimensional counsel not having foreseen a possibility of an enforcer going rogue (like Pilot did) and not preparing any fail-safes against such a scenario was the third one.
 >>>> 
+>>>> ---
+>>>> 
+>>>> Maybe it won’t if that’s the case. The problem is that Chooser’s deduction chain:
+>>>> 
+>>>> >RPG mechanics existed in RPG games before human magic enforced them on reality. → Human magic must’ve enforced them in RPG games prior to manifesting in a more global scale. → RPG mechanics must have a will of its own, which can be gauged by analysing which tropes have been the most popular in RPG games.
+>>>> 
+>>>> seems like an example of faulty Aristotelian reasoning to me. For example, what if human magic *does* enforce a unique kind of reality warping (the RPG mechanics), but that’s as far as its influence goes on its own (i.e. without human agents to further shape it through their personality traits, moral principles, etc)? What if it somehow made human societies create games with RPG elements, but all the rest of the content in RPG games\videogames\etc was decided by basic demand and supply (i.e., in supporting the videogame industry were mainly interested videogame players, and since they were regular citizens, they also liked seeing justice being served in the games they played)? 
+>>>> 
+>>>> I agree that Pilot’s decision of nuking Earth from orbit ASAP was rushed. But even if they were in a losing battle against the other reality-warping race, going to humans right away and briefing them on the whole alien metaverse was not the right decision either — at least not until they had a valid proof through their observations that their hypothesis regarding the nature of human magic was the correct one.
+>>>> 
+>>>> So Pilot rushing with his plan of destruction without cunsulting with anybody was the first [WhatAnIdiot](http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatAnIdiot) case in the story, Chooser deciding to haphazardly bring the whole human race into the loop was the second one (admittedly, she was in a zeitnot), and the inter-dimensional counsel not having foreseen a possibility of an enforcer going rogue (like Pilot did) and not preparing any fail-safes against such a scenario was the third one.
 
->>> **u/rrssh** [+2] *
+>>> **u/rrssh** [+2]  (a month later)
 >>> 
 >>> *[Specialist](https://archive.org/stream/galaxymagazine-1953-05/Galaxy_1953_05#page/n69/mode/2up)*, too.
->>> 
 
->> **u/trekie140** [+9] *
+>> **u/trekie140** [+8]  (13 days later)
 >> 
 >> I didn't expect much from this story especially since I found the beginning pretty weird and difficult to get invested in the characters, but man oh man did it end up being awesome. You didn't just take the Gamer idea in a completely non-traditional direction, but you really managed to get to the heart of what RPG mechanics are really supposed to make us feel and why that's so important to us. 
->> You should repost this on the subreddit after the challenge is over so more people will see it. I don't usually read challenge entries even after the winners are announced, but this was fantastic. I want to see more of this world and what happens next. I personally found this cast of characters to be kind of boring, except for their moral conflict, but I adore high concept adventure and you've got the creativity for it.
 >> 
+>> You should repost this on the subreddit after the challenge is over so more people will see it. I don't usually read challenge entries even after the winners are announced, but this was fantastic. I want to see more of this world and what happens next. I personally found this cast of characters to be kind of boring, except for their moral conflict, but I adore high concept adventure and you've got the creativity for it.
 
->>> **u/conradin6622** [+3]  *Challenge Winner**
+>>> **u/conradin6622** [+3]  *Challenge Winner* (15 days later)
 >>> 
 >>> > You should repost this on the subreddit after the challenge is over so more people will see it.
->>> This turned out to be a good idea, and it would never have occurred to me if you hadn't suggested it.  Thank you.
 >>> 
+>>> This turned out to be a good idea, and it would never have occurred to me if you hadn't suggested it.  Thank you.
 
->>>> **u/trekie140** [+1] *
+>>>> **u/trekie140** [+1]  (15 days later)
 >>>> 
 >>>> You're welcome.
->>>> 
 
->> **u/Aabcehmu112358** [+6]  *Utter Fallacy**
+>> **u/Aabcehmu112358** [+6]  *Utter Fallacy* (5 days later)
 >> 
 >> I liked that quite a lot! I actually kind of want to learn more about these races, all the different sorts of racial magic, and this universe typology they apparently have going.
->> 
 
->>> **u/conradin6622** [+5]  *Challenge Winner**
+>>> **u/conradin6622** [+5]  *Challenge Winner* (6 days later)
 >>> 
 >>> Thank you!  I have a bunch of other stuff I that I didn't get to use; maybe I'll do another one of these, and come back to them.
->>> 
 
->> **u/EliezerYudkowsky** [+5]  *Godric Gryffindor**
+>> **u/EliezerYudkowsky** [+6]  *Godric Gryffindor* (15 days later)
 >> 
 >> This was pro level.  It's too bad the professional SF magazines don't take stories after they've been published online.
->> 
 
->> **u/the_steroider** [+4]  *Trascending Humanity**
+>> **u/the_steroider** [+4]  *Trascending Humanity* (8 days later)
 >> 
 >> [deleted]  
 >>  ^^^^^^^^^^^^^^^^0.9809 
 >>  > [What is this?](https://pastebin.com/64GuVi2F/48972)
->> 
 
->> **u/narfanator** [+3] *
+>> **u/narfanator** [+3]  (6 days later)
 >> 
 >> Amazing! I'd love to read more in this setting.
->> 
 
-> **u/Kishoto** [+18] *
+> **u/Kishoto** [+17]  (a day later)
 > 
 > [Modern Warfare](https://kishoto.wordpress.com/2016/12/15/modern-warfare-rrational-challenge-the-gamer/)
-> Word Count: 2953
 > 
+> Word Count: 2953
 
->> **u/Meneth32** [+2] *
+>> **u/Meneth32** [+2]  (a day later)
 >> 
 >> Nice. :)
->> 
 
->>> **u/Kishoto** [+3] *
+>>> **u/Kishoto** [+3]  (2 days later)
 >>> 
 >>> :D
->>> 
 
 ---
 

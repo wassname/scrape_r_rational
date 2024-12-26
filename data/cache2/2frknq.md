@@ -2,7 +2,7 @@
 
 * Author: u/blazinghand  *Chaos Undivided**
 * URL: https://www.reddit.com/r/rational/comments/2frknq/rtreposteverything_by_ted_chiang/
-* Score: 15
+* Score: 17
 
 * Created: 2014-09-08T00:49:21
 
@@ -18,28 +18,27 @@ I highly recommend all of Ted Chiang's work. Thanks to /u/Tasty_Yogurt and /u/Ca
 
 ### Comments:
 
-> **u/Prezombie** [+3] *
+> **u/Prezombie** [+4]  (4 hours later)
 > 
 > http://www.sffaudio.com/?p=30099
-> https://archive.org/search.php?query=ted%20chiang
-> These sites has a few podcasted audiobook versions of his works.
 > 
+> https://archive.org/search.php?query=ted%20chiang
+> 
+> These sites has a few podcasted audiobook versions of his works.
 
-> **u/superliminaldude** [+4] *
+> **u/superliminaldude** [+3]  (17 hours later)
 > 
 > Now if only he'd write more than one story a year or, God forbid, a novel, but I guess that's what you pay for each story being utterly brilliant.
-> 
 
->> **u/embrodski** [+4] *
+>> **u/embrodski** [+4]  (18 hours later)
 >> 
 >> I had the good fortune to talk to him at a Denver lit con and asked him about that. He said that he has no intention of writing a novel. He feels the novelette/novella is exactly the right length for exploring the subjects he wants to explore, and stretching them into a novel would be a disservice to his readers and isn't in any way appealing to him.
->> Obviously nothing in life is certain, but it may be a long time *if* we ever do get a novel.
 >> 
+>> Obviously nothing in life is certain, but it may be a long time *if* we ever do get a novel.
 
-> **u/nhtrivedi** [+2] *
+> **u/nhtrivedi** [+2]  (20 days later)
 > 
 > For anyone in the Atlanta area, he's coming to Georgia Tech for two days of events. http://p1.gatech.edu/
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/hxcloud99 *
 * URL: https://www.reddit.com/r/rational/comments/j0ryh9/rt_c_nirvana_in_fire_political_wuxia/
-* Score: 48
+* Score: 45
 
 * Created: 2020-09-27T14:25:58
 
@@ -311,108 +311,97 @@ EDIT: For some reason, a few of the footnotes aren't being displayed on mobile. 
 
 ### Comments:
 
-> **u/DXStarr** [+7] *
+> **u/DXStarr** [+7]  (11 hours later)
 > 
 > Great, great story. Recommended. The TV series is superb. The webnovel requires a lot more patience; I'd recommend people go to the TV series, not the webnovel. 
-> This story is "smart character with a cunning plan, versus a genuinely huge problem." *Count of Monte Cristo* with more brains, more scheming, and gorgeous ancient Chinese settings.
-> It's not a true Fair Play Intrigue. There are a few unreasonable pieces of good luck for the protagonist, and a few times where he gets an Idiot Ball so things will be more dramatic. But *much* of the story is fair-play rational. (Fair play among the characters, that is. As the viewer you're not told everything important right off. Part of the story appeal is watching the secrets unfold and seeing how it all fits together.)
-> Great, smart, high-stakes fun.
 > 
+> This story is "smart character with a cunning plan, versus a genuinely huge problem." *Count of Monte Cristo* with more brains, more scheming, and gorgeous ancient Chinese settings.
+> 
+> It's not a true Fair Play Intrigue. There are a few unreasonable pieces of good luck for the protagonist, and a few times where he gets an Idiot Ball so things will be more dramatic. But *much* of the story is fair-play rational. (Fair play among the characters, that is. As the viewer you're not told everything important right off. Part of the story appeal is watching the secrets unfold and seeing how it all fits together.)
+> 
+> Great, smart, high-stakes fun.
 
->> **u/hxcloud99** [+4] *
+>> **u/hxcloud99** [+3]  (11 hours later)
 >> 
 >> I was bothered a bit by the Marty Stu-ishness of the protagonist, so I read the web novel because, well, how can such a consistent universe have such a glaring flaw? And I was satisfied to see the web novel doing a bang up job of showing more of his faults and uncertainties and methods than the series, though at the expense of NOT being able to see everyone else's scheming.
->> > smart character with a cunning plan, versus a genuinely huge problem
->> This is a much better copy than I could have written. Hope you won't mind if I quote you in the TLDR.
 >> 
+>> > smart character with a cunning plan, versus a genuinely huge problem
+>> 
+>> This is a much better copy than I could have written. Hope you won't mind if I quote you in the TLDR.
 
-> **u/derefr** [+6] *
+> **u/derefr** [+6]  (a day later)
 > 
 > Let me take this opportunity to ask: besides NIF (which I've already watched—seconding its recommendation!), what are some of the most rational live-action TV shows out of Asia, such as you might find on Viki? Not necessarily rational in absolute terms; just the top "least irrational" entries in the category. 
-> Double points for it being a romance and managing to entirely avoid irrationality-driven romantic conflict. (My SO watches a lot of romantic dramas, and I'd love to find one we could both enjoy.)
 > 
+> Double points for it being a romance and managing to entirely avoid irrationality-driven romantic conflict. (My SO watches a lot of romantic dramas, and I'd love to find one we could both enjoy.)
 
->> **u/Mountebank** [+2] *
+>> **u/Mountebank** [+2]  (4 days later)
 >> 
 >> I'd recommend *Joy of Life* which is on Viki. It has a slow start and is more of a comedy early on, but it ramps up the court intrigue later on. It's notable in that everyone in the show is smart and have plots within plots, not just the MC.
->> 
 
-> **u/EsquilaxM** [+2] *
+> **u/EsquilaxM** [+2]  (23 hours later)
 > 
 > Hmn, I was about to resume The Rise of Phoenixes but perhaps this would be more up my alley
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (a day later)
 >> 
 >> [deleted]
->> 
 
->>> **u/EsquilaxM** [+1] *
+>>> **u/EsquilaxM** [+1]  (a day later)
 >>> 
 >>> Good to know, I was only a couple of episodes in.
->>> 
 
-> **u/DanceRain** [+2] *
+> **u/DanceRain** [+2]  (3 days later)
 > 
 > Was fun to watch, but I definitely didn't consider it rational, most of the time I got the feeling of deus ex machina or magical foresight. some neat plays by both sides that were rational though.
-> 
 
-> **u/Amonwilde** [+2] *
+> **u/Amonwilde** [+2]  (2 hours later)
 > 
 > I downloaded the novel. Will see if it lives up to the hype :)
-> 
 
->> **u/hxcloud99** [+1] *
+>> **u/hxcloud99** [+1]  (2 hours later)
 >> 
 >> The writing is a bit awkward at times (after all, it’s just a translation), but I’d like to hear your thoughts afterward!
->> 
 
->>> **u/Amonwilde** [+2] *
+>>> **u/Amonwilde** [+2]  (6 hours later)
 >>> 
 >>> Might be a little bit until I work around to it but looking forward.
->>> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (5 hours later)
 > 
 > [deleted]
-> 
 
->> **u/Redditor76394** [+1] *
+>> **u/Redditor76394** [+1]  (a day later)
 >> 
 >> I didn't think it was that bad, what did you take issue with? (I'm not OP, I just didn't see anything particularly wrong with the post myself.)
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Redditor76394** [+1] *
+>>>> **u/Redditor76394** [+1]  (a day later)
 >>>> 
 >>>> I did actually find the post to be compelling. The OP very clearly is passionate about Nirvana in Fire, and went to great lengths to allow people to easily begin watching or reading. If I was interested in actually watching the show, I would have found the political structure and relationship guides to be immensely helpful. Political intrigues aren't my thing and I had no interest in watching, but it wasn't hard for me to skip past the guides to the outro. 
->>>> Besides, since I'm not going to watch or read NiF, I'm no longer the target audience of the post. The irrelevance of the long list of the cast and rank structure isn't meant to for me at that point.
 >>>> 
+>>>> Besides, since I'm not going to watch or read NiF, I'm no longer the target audience of the post. The irrelevance of the long list of the cast and rank structure isn't meant to for me at that point.
 
-> **u/Bowbreaker** [+1]  *Solitary Locust**
+> **u/Bowbreaker** [+1]  *Solitary Locust* (19 hours later)
 > 
 > What about NiF 2? Is that just the next part of the story after a hiatus? A continuation made out of whole cloth but still worth watching? Something to avoid?
-> 
 
-> **u/None** [-5] *
+> **u/None** [-5]  (5 hours later)
 > 
 > \>136 chapters 
-> C'mom, I don't have *that free of time.*
 > 
+> C'mom, I don't have *that free of time.*
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (15 hours later)
 >> 
 >> That's actually short. Some Chinese novels go past a 1000. I guess that's what you get from an adaptation.
->> 
 
->> **u/LazarusRises** [+4] *
+>> **u/LazarusRises** [+6]  (20 hours later)
 >> 
 >> 136 chapters is practically a novella compared to a lot of rational stuff. WtC, Worm, Mother of Learning, and PGtE are all significantly longer than that.
->> 
 
 ---
 

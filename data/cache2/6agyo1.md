@@ -2,7 +2,7 @@
 
 * Author: u/thebluegecko *
 * URL: http://www.smbc-comics.com/#comic
-* Score: 64
+* Score: 67
 
 * Created: 2017-05-11T01:06:21
 
@@ -12,217 +12,187 @@
 
 ### Comments:
 
-> **u/throwaway234f32423df** [+46] *
+> **u/throwaway234f32423df** [+45]  (50 minutes later)
 > 
 > [Permanent link](http://www.smbc-comics.com/comic/blood-of-the-bayesian) as the link to the front page of the site will go to a different comic in about 12 hours
-> 
 
->> **u/thebluegecko** [+13] *
+>> **u/thebluegecko** [+13]  (56 minutes later)
 >> 
 >> Thanks, and sorry about that.
->> 
 
->>> **u/YouAreAllNaked** [+15] *
+>>> **u/YouAreAllNaked** [+16]  (16 hours later)
 >>> 
 >>> I will never forgive you.
->>> 
 
->>>> **u/Kuratius** [+11] *
+>>>> **u/Kuratius** [+10]  (18 hours later)
 >>>> 
 >>>> This should go without saying, but you should tag him with RES and become frenemies.
->>>> 
 
->>>>> **u/YouAreAllNaked** [+3] *
+>>>>> **u/YouAreAllNaked** [+5]  (19 hours later)
 >>>>> 
 >>>>> done. /u/thebluegecko, I will recognize your foul deeds in the future.
->>>>> 
 
->>>>>> **u/thebluegecko** [+6] *
+>>>>>> **u/thebluegecko** [+6]  (22 hours later)
 >>>>>> 
 >>>>>> If, hypothetically, I do something good in the future will you recognize that to?
->>>>>> 
 
->>>>>>> **u/YouAreAllNaked** [+8] *
+>>>>>>> **u/YouAreAllNaked** [+9]  (22 hours later)
 >>>>>>> 
 >>>>>>> We will see. We will see.
->>>>>>> 
 
->> **u/memetichazard** [+4] *
+>> **u/memetichazard** [+4]  (2 days later)
 >> 
 >> Thanks, I got here two days late and the link points to the one about greedy search algorithms resulting in bad groping during sex. Was wondering if this was meant to be some weird Twilight fanfiction reference until I saw this.
->> 
 
-> **u/waylandertheslayer** [+40] *
+> **u/waylandertheslayer** [+37]  (54 minutes later)
 > 
 > Mouseover text: "Also one about a werewolf who uses statistical methods to determine he's actually an insane man experiencing a prolongued psychotic episode."
-> 
 
->> **u/___ratanon___** [+20]  *Holy, holy is the lord of /etc/hosts**
+>> **u/___ratanon___** [+19]  *Holy, holy is the lord of /etc/hosts* (5 hours later)
 >> 
 >> [Been there, done that](http://squid314.livejournal.com/324957.html) (well, more or less).
->> 
 
->>> **u/waylandertheslayer** [+10] *
+>>> **u/waylandertheslayer** [+9]  (10 hours later)
 >>> 
 >>> That one's more the opposite - someone else tries to help the main character realise he's delusional via statistical methods, but it fails. Still a good read, though.
->>> 
 
->> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager**
+>> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager* (15 hours later)
 >> 
 >> [A Softer World, 251](http://www.asofterworld.com/clean/footsie.jpg)
->> 
 
-> **u/Belgarion262** [+21] *
+> **u/Belgarion262** [+19]  (7 hours later)
 > 
 > Though being a vampire is less likely than not, the very bad consequence of being on and in sunlight would mean it rational to test it before stepping into daylight (and dying).
-> 
 
->> **u/hh26** [+15] *
+>> **u/hh26** [+12]  (20 hours later)
 >> 
 >> Additionally, upon touching sunlight and being burnt, he should immediately retreat back into the shade before being completely incinerated.  Even if his prior for being a vampire is super-exponentially low, there are unfathomably many other unlikely explanations for sunlight burning you, such as: some disease that reduces ultraviolet resistance, something weird happened to the atmosphere, someone is firing a laser at you, invisible acid is falling from the sky, something you've never heard of or even thought of before exists and is causing sunlight to hurt you, etc...  Even if all of these are incredibly unlikely, so is hallucinating that you're being incinerated when nothing is wrong.
->> Even if vampires don't exist, clearly something is happening.  You don't need to have a peer-reviewed scientific theory of why the sun is burning you before you decide to avoid it.
 >> 
+>> Even if vampires don't exist, clearly something is happening.  You don't need to have a peer-reviewed scientific theory of why the sun is burning you before you decide to avoid it.
 
-> **u/ArgentStonecutter** [+17]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+17]  *Emergency Mustelid Hologram* (16 minutes later)
 > 
 > What is the rational reason for suddenly wearing anachronistic evening clothes?
-> 
 
->> **u/Kylinger** [+45] *
+>> **u/Kylinger** [+43]  (18 minutes later)
 >> 
 >> It's actually a symptom of vampirism, but he just brushed it off like the rest.
->> Though his priors for not appearing in a mirror seem too high if it happening doesn't freak him out.
 >> 
+>> Though his priors for not appearing in a mirror seem too high if it happening doesn't freak him out.
 
->>> **u/DCarrier** [+14] *
+>>> **u/DCarrier** [+13]  (25 minutes later)
 >>> 
 >>> And given that he wants to wear it, it's perfectly rational to do so.
->>> 
 
->> **u/thebluegecko** [+9] *
+>> **u/thebluegecko** [+11]  (24 minutes later)
 >> 
 >> Maybe he has always done that? On second thought they look uncomfortable and expensive. 
->> Why does vampirism cause anachronistic evening clothes anyway? I wonder if the change causes some kind of set neural pattern which likes suits. Maybe suits are a part of the life cycle of some kind of vampirism causing parasite?
 >> 
+>> Why does vampirism cause anachronistic evening clothes anyway? I wonder if the change causes some kind of set neural pattern which likes suits. Maybe suits are a part of the life cycle of some kind of vampirism causing parasite?
 
->>> **u/ArgentStonecutter** [+15]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+17]  *Emergency Mustelid Hologram* (9 hours later)
 >>> 
 >>> > Maybe suits are a part of the life cycle of some kind of vampirism causing parasite?
->>> Sort of like Toxoplasmosis and cats.
->>> That could also explain the whole sleeping on native soil thing.
->>> Edit: this is my new headcanon.
 >>> 
+>>> Sort of like Toxoplasmosis and cats.
+>>> 
+>>> That could also explain the whole sleeping on native soil thing.
+>>> 
+>>> Edit: this is my new headcanon.
 
->>> **u/okokjustasking** [+11] *
+>>> **u/okokjustasking** [+11]  (3 hours later)
 >>> 
 >>> Maybe most vampires are from a time when that clothing is cool and they don't keep up with new trends. And then, idk, founder effect.
->>> 
 
->>>> **u/thebluegecko** [+8] *
+>>>> **u/thebluegecko** [+8]  (10 hours later)
 >>>> 
 >>>> The guy in yellow appears to be wearing modern clothing when he was bitten. I think his fashion sense was changed.
->>>> 
 
->>> **u/Kylinger** [+5] *
+>>> **u/Kylinger** [+6]  (29 minutes later)
 >>> 
 >>> It's probably a side effect of the parasites haphazard attempts at inducing a craving for blood. If crazy fashion doesn't reduce fitness for the parasite, then what's the harm?
->>> 
 
->>>> **u/thebluegecko** [+7] *
+>>>> **u/thebluegecko** [+5]  (an hour later)
 >>>> 
 >>>> Could the crazy fashion sense actually increase fitness? Maybe the extra layers make staking attempts harder.
->>>> 
 
-> **u/None** [+14] *
+> **u/None** [+13]  (7 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (10 hours later)
 >> 
 >> Wow! That really messes with utility calculus.
->> 
 
->>> **u/None** [+10] *
+>>> **u/None** [+10]  (14 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/HelperBot_** [+2] *
+>>>> **u/HelperBot_** [+3]  (14 hours later)
 >>>> 
 >>>> Non-Mobile link: https://en.wikipedia.org/wiki/Pascal%27s_mugging
 >>>> ***
 >>>> ^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^66940
->>>> 
 
-> **u/None** [+6] *
+> **u/None** [+8]  (12 hours later)
 > 
 > It's really interesting to me that this community has a better discussion for this comic than the subreddit /r/SMBCComics
-> 
 
->> **u/Zephyr1011** [+8]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+9]  *Potentially Unfriendly Aspiring Divinity* (18 hours later)
 >> 
 >> From the looks of things that subreddit isn't really geared towards discussion. At least half of the most recent comics have no comments at all
->> 
 
-> **u/Covane** [+5]  *Dragon Army**
+> **u/Covane** [+6]  *Dragon Army* (3 hours later)
 > 
 > i think eliezer & mr weinersmith have met, so make what inferences you will
-> 
 
->> **u/ABZB** [+14]  *Count of Real Numbers**
+>> **u/ABZB** [+14]  *Count of Real Numbers* (11 hours later)
 >> 
 >> That the Bayesian Conspiracy exists IRL?
->> 
 
->>> **u/Sailor_Vulcan** [+20]  *Champion of Justice and Reason**
+>>> **u/Sailor_Vulcan** [+19]  *Champion of Justice and Reason* (11 hours later)
 >>> 
 >>> Don't be silly. What on earth would a secret rationality conspiracy do that isn't already being done publicly by CFAR, MIRI, the EA community, Elon Musk's companies or rationalist fiction?
->>> 
 
->>>> **u/ArgentStonecutter** [+20]  *Emergency Mustelid Hologram**
+>>>> **u/ArgentStonecutter** [+19]  *Emergency Mustelid Hologram* (12 hours later)
 >>>> 
 >>>> That's the sneaky part.
->>>> 
 
->>>>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>>>>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason* (12 hours later)
 >>>>> 
 >>>>> Well I suppose they could be trying to take over the world, maybe in some way that doesn't require toppling existing governments. Then again, just finding really powerful wealthy or influential people and teaching them rationality might be enough that actually taking over the world wouldn't be necessary? I mean it doesn't seem feasible to topple the current system(s) at less not violently. But if they can somehow make it possible for some good and sufficiently wealthy person like Elon Musk to totally outcompete all the other super rich, and then have him or whoever to use the money to leverage saner smarter and more humane policies across the world...I mean that would still be kind of taking over the world right?
->>>>> The question is how would they make that happen exactly? Maybe invent some kind of new tech that makes a lot of current tech obsolete, and then use ridiculous patents to keep that tech away from the competition? Problem with this is that it might incentivize other wealthy people to change their minds about super-long copyright terms that never seem to end. In which case that might put Elon Musk on the wrong side of public opinion because he would be seen as the one person benefitting from overly restrictive copyright law.
 >>>>> 
+>>>>> The question is how would they make that happen exactly? Maybe invent some kind of new tech that makes a lot of current tech obsolete, and then use ridiculous patents to keep that tech away from the competition? Problem with this is that it might incentivize other wealthy people to change their minds about super-long copyright terms that never seem to end. In which case that might put Elon Musk on the wrong side of public opinion because he would be seen as the one person benefitting from overly restrictive copyright law.
 
->>>>>> **u/Frommerman** [+2] *
+>>>>>> **u/Frommerman** [+2]  (15 hours later)
 >>>>>> 
 >>>>>> That clearly isn't the plan, though, as Tesla has released all of its patents to the public.
->>>>>> Of course, they did that so their charging mechanism would one day become the industry standard and because they knew no other company could actually use their ideas because none of them have Elon Musk, but the point is that universal victory by patent trolling isn't the plan.
 >>>>>> 
+>>>>>> Of course, they did that so their charging mechanism would one day become the industry standard and because they knew no other company could actually use their ideas because none of them have Elon Musk, but the point is that universal victory by patent trolling isn't the plan.
 
->>>> **u/GopherAtl** [+6] *
+>>>> **u/GopherAtl** [+6]  (22 hours later)
 >>>> 
 >>>> eh. That's all misdirection. It's well-known (in certain, exclusive circles) that achieving actual, general, friendly AI on a first attempt is just too improbable, and that it is far safer and easier to deliberately make something near-optimal. And so, while they pretend to be trying to solve the former problem, they're actually already coding up the Celestia AI. The fic *Friendship Is Optimal* is, obviously, part of the cover - kind of like the show Stargate, which was created to cover up the actual Stargate program. If the truth leaks, even with fairly compelling evidence, skeptics will point to the fiction as evidence the leaked info is just the rantings of some crazy person, or the work of conspiracy trolls.
->>>> 
 
->>>>> **u/Roxolan** [+6]  *Head of antimemetiWalmart senior assistant manager**
+>>>>> **u/Roxolan** [+7]  *Head of antimemetiWalmart senior assistant manager* (23 hours later)
 >>>>> 
 >>>>> "*Of course* this is just fan-art. And those are some fan-powerpoints. And that's our fan-robotic-overlord."
->>>>> 
 
->>>> **u/ABZB** [+1]  *Count of Real Numbers**
+>>>> **u/ABZB** [+1]  *Count of Real Numbers* (14 hours later)
 >>>> 
 >>>> :)
->>>> 
 
-> **u/captainNematode** [+3] *
+> **u/captainNematode** [+3]  (15 hours later)
 > 
 > What do Bayesian zombies crave?
-> CHAAAAAAAAAINNS!
-> (I'm half tempted to Halloween costume this one of these years)
 > 
+> CHAAAAAAAAAINNS!
+> 
+> (I'm half tempted to Halloween costume this one of these years)
 
-> **u/alexeyr** [+1]  *Steersman**
+> **u/alexeyr** [+1]  *Steersman* (3 days later)
 > 
 > [The Rhesus Chart](http://www.goodreads.com/book/show/18211295-the-rhesus-chart) starts off a bit like this (there are two protagonists, and the one who becomes a vampire is a mathematician working for a bank, who then turns his entire team).
-> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/e7famz/d_saturday_munchkinry_thread/
-* Score: 11
+* Score: 12
 
 * Created: 2019-12-07T15:04:32
 
@@ -23,10 +23,12 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/girllich** [+4] *
+> **u/girllich** [+4]  (45 minutes later)
 > 
 > Dear rational, please abuse the following ability:
+> 
 > You have the ability to temporarily shrink down to a height of 12 centimeters, or any height between that and your real height.
+> 
 > - Mass & inertia is adjusted by same scale
 > Your strength & durability are square-cube adjusted to match real animals of that size
 > - Your mind remains the same
@@ -34,95 +36,92 @@ Good Luck and Have Fun!
 > - You can't grow things that haven't already been shrunk to that extent- things have a 'natural' size.
 > - You don't have any wealth other than derived from this ability
 > - You cannot reveal that you have this ability
-> 
 
->> **u/Nimelennar** [+5] *
+>> **u/Nimelennar** [+4]  (3 hours later)
 >> 
 >> (assuming a height of 180cm for easy math)
+>> 
 >> * Transportation:  you can pack 3375x as much of anything into a truck.  More, even, because you can pack spaces more efficiently.
 >> * Miniaturization: you can create models at 15:1 scale, making them incredibly detailed, and then shrink them down to the size you want them to be, making the surface details 225x more precise than what you can achieve at 1:1 scale.
->> 
 
->>> **u/xachariah** [+3] *
+>>> **u/xachariah** [+3]  (a day later)
 >>> 
 >>> That'd be some amazing warhammer figurines, let me tell you.
->>> Then again I'm not sure if I could win one of those painting competitions even if I were to literally violate physics.
 >>> 
+>>> Then again I'm not sure if I could win one of those painting competitions even if I were to literally violate physics.
 
->> **u/Gurkenglas** [+6] *
+>> **u/Gurkenglas** [+6]  (10 hours later)
 >> 
 >> Shrinking CPUs might make them 15 times faster and much more efficient.
->> As far as I understand, the simple way to build very, very small machines (Build a machine that builds a smaller copy of itself, repeat) fails on the step where the product must be more accurate than the producer. With me involved, the machine can build a copy of itself that is 14 times larger than itself and 14 times less accurate, and then I shrink it by a factor of 15. Nanotech, yo. At the molecular level, it's also sure to come in handy that the machine is made of atoms 15 times smaller than the raw materials. And the nanoswarm can't possibly eat the planet because I'm needed to shrink each batch :)
->> Surgically lengthen my bones to increase my shrinking factor.
 >> 
+>> As far as I understand, the simple way to build very, very small machines (Build a machine that builds a smaller copy of itself, repeat) fails on the step where the product must be more accurate than the producer. With me involved, the machine can build a copy of itself that is 14 times larger than itself and 14 times less accurate, and then I shrink it by a factor of 15. Nanotech, yo. At the molecular level, it's also sure to come in handy that the machine is made of atoms 15 times smaller than the raw materials. And the nanoswarm can't possibly eat the planet because I'm needed to shrink each batch :)
+>> 
+>> Surgically lengthen my bones to increase my shrinking factor.
 
->>> **u/covert_operator100** [+1] *
+>>> **u/covert_operator100** [+1]  (2 days later)
 >>> 
 >>> Then the nanomachines take over your brain to ensure their reproduction process continues!
->>> 
 
->>>> **u/Gurkenglas** [+3] *
+>>>> **u/Gurkenglas** [+3]  (2 days later)
 >>>> 
 >>>> The usual way for nanomachines to turn into grey goo is a mere mutation as in cancer that turns off their restrictions. Malicious planning is a few steps beyond that!
->>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 days later)
 >>> 
 >>> I feel like nanotech would be one of the best ways to go with this, outside of hardowork labour to generate free energy?
->>> 
 
->> **u/ShiranaiWakaranai** [+3] *
+>> **u/ShiranaiWakaranai** [+4]  (an hour later)
 >> 
 >> Can you shrink a balloon with the air inside it?
->> Can you shrink the air itself? Technically the column of atmosphere above you is hanging off you. Can you shrink it somehow? Could you manipulate winds on a massive scale by shrinking/expanding large volumes of air since they have low low mass?
 >> 
+>> Can you shrink the air itself? Technically the column of atmosphere above you is hanging off you. Can you shrink it somehow? Could you manipulate winds on a massive scale by shrinking/expanding large volumes of air since they have low low mass?
 
->>> **u/girllich** [+3] *
+>>> **u/girllich** [+3]  (an hour later)
 >>> 
 >>> Balloon yes.
->>> Gases are supported by nearby molecules outside your column (50%) in sort of a cone shape, I'd say
 >>> 
+>>> Gases are supported by nearby molecules outside your column (50%) in sort of a cone shape, I'd say
 
->> **u/Gurkenglas** [+3] *
+>> **u/Gurkenglas** [+3]  (57 minutes later)
 >> 
 >> Incorporate weights into the top half of my shoes so I can wear shoes. If I let go of an object while shrunk, does it unshrink? If I shrink radioactive material, does this conserve total radiation or radiation per volume? I can shrink wings to fly.
->> How is the last point implemented? Do people spontaneously forget the ability if they observe it or I tell them? Do I lose the ability if anyone figures out that I have it? What if a camera sees it?
 >> 
+>> How is the last point implemented? Do people spontaneously forget the ability if they observe it or I tell them? Do I lose the ability if anyone figures out that I have it? What if a camera sees it?
 
->>> **u/girllich** [+2] *
+>>> **u/girllich** [+2]  (an hour later)
 >>> 
 >>> - It doesn't unshrink if you let go.
 >>> - Radioactivity is a great point. I'd say it emits reduced scale particles at the same rate
 >>> - Last point is just for me, not enforced by physics
->>> 
 
->>>> **u/munkeegutz** [+2] *
+>>>> **u/munkeegutz** [+2]  (an hour later)
 >>>> 
 >>>> Then there's possibly value in shrinking radioactive waste- making it smaller would reduce the cross sectional area of the radioactive emission, making it interact with nearby matter less often (by increasing is mean free path).  I don't know if this effect is strong enough to be interesting however- it depends on what dominates the chance of interacting with a human body
->>>> 
 
->>>> **u/Nimelennar** [+2] *
+>>>> **u/Nimelennar** [+2]  (a day later)
 >>>> 
 >>>> If it doesn't revert when you let go...  Can you shrink something, grow yourself back to normal size, and then shrink that thing even more?
->>>> 
 
->>>>> **u/girllich** [+1] *
+>>>>> **u/girllich** [+1]  (2 days later)
 >>>>> 
 >>>>> Yep. That works
->>>>> 
 
->> **u/Brell4Evar** [+1] *
+>> **u/Brell4Evar** [+1]  (5 days later)
 >> 
 >> * Objects in free fall are, in fact, in zero gravity due to the workings of Einsteinian physics.  Anyone who wants to shrink 1000x their mass may do so by taking a short drop with this material.  Since mass and inertia are also impacted by this, you would not get crushed by the newly-shrunk material.
->> * Strength and durability increase have enormous potential.  A large 3D-printed shape made from common plastic could be converted into a nigh-indestructible device for use in surgery, micro-electronics, or other super-fine scale manufacturing.
->> * This effect presumably works on microbes embedded on and in your body; otherwise, it would outright kill you. (Our bodies have around 2% of our mass in microbes. A 12cm version of a 180cm adult would be 1/15 scale, or about 0.03% original body mass.) This suggests a route to circumvent the 50% rule -- embedding the creatures or objects to shrink within the body.  (Ew.)
->> * The above point gets even more broken when you consider that your blood is a part of your body.  A thin coat of this substance will therefore allow you to entirely dodge the 50% limiter, albeit in a very nasty way.
 >> 
+>> * Strength and durability increase have enormous potential.  A large 3D-printed shape made from common plastic could be converted into a nigh-indestructible device for use in surgery, micro-electronics, or other super-fine scale manufacturing.
+>> 
+>> * This effect presumably works on microbes embedded on and in your body; otherwise, it would outright kill you. (Our bodies have around 2% of our mass in microbes. A 12cm version of a 180cm adult would be 1/15 scale, or about 0.03% original body mass.) This suggests a route to circumvent the 50% rule -- embedding the creatures or objects to shrink within the body.  (Ew.)
+>> 
+>> * The above point gets even more broken when you consider that your blood is a part of your body.  A thin coat of this substance will therefore allow you to entirely dodge the 50% limiter, albeit in a very nasty way.
 
-> **u/true-name-raven** [+4] *
+> **u/true-name-raven** [+4]  (a day later)
 > 
 > How would you design a building to be resistant to frequent explosions and toxic substance leaks?
+> 
 > Requirements:
+> 
 > * incidents will only originate in laboratories
 > * incidents can destroy a laboratory, but should be contained to a single room. An explosion should not be able to destroy a neighboring laboratory (barring extreme cases) and toxic gas should not be able to escape the laboratory
 > * protecting the people in an incident-creating laboratory is not required
@@ -146,76 +145,78 @@ Good Luck and Have Fun!
 >       * there will be no nanotech or other machinery
 > * designs should be resistant to sabotage
 > * accidents are random and the results of the accidents are not intelligent or possessed of desires. liquids flow downhill, gases diffuse normally, etc 
-
-> Thoughts?
 > 
+> Thoughts?
 
->> **u/xachariah** [+9] *
+>> **u/xachariah** [+8]  (a day later)
 >> 
 >> I'm not sure if it is against some unspoken assumptions, but why not let open space do the work for you?  It's what they did in the real 1800s.  A couple of acres of scrubland that's a few miles away from any neighbors seems to fulfill all the requirements.
->> Explosions will blow up a shack you're mixing things up in, but if they're all dozens of yards away from each other you're fine.  If you're doing anything particularly volatile you just pick a spot outside and do it there.  Any gas leaks dissipate before they hit any people.  Toxic substances will diffuse into the environment.
->> Nobody can come sabotage or steal things, since you're a couple hours away (at least) from any civilization.  Depending on where you situate things, any infiltrators can be seen an hour+ before they arrive at your compound.
 >> 
+>> Explosions will blow up a shack you're mixing things up in, but if they're all dozens of yards away from each other you're fine.  If you're doing anything particularly volatile you just pick a spot outside and do it there.  Any gas leaks dissipate before they hit any people.  Toxic substances will diffuse into the environment.
+>> 
+>> Nobody can come sabotage or steal things, since you're a couple hours away (at least) from any civilization.  Depending on where you situate things, any infiltrators can be seen an hour+ before they arrive at your compound.
 
->> **u/chiruochiba** [+3] *
+>> **u/chiruochiba** [+3]  (a day later)
 >> 
 >> You said use of modern technology is discouraged, but you could probably still take inspiration for best practices from real life building code requirements for hazardous locations.
->> For example, here's a [decently thorough outline](https://www.emerson.com/documents/automation/article-interpreting-requirements-of-articles-500-516-of-nec-appleton-en-518452.pdf) of the portion of the National Electrical Code (NEC) in the United States which covers requirements for the different classes of locations containing flammable/explosion prone materials. The  Occupational Safety and Health Administration (OSHA) also has a [set of rules](https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_id=9884&p_table=standards) that apply, and The National Fire Protection Association (NFPA) has [many code standards](https://www.nfpa.org/Codes-and-Standards/All-Codes-and-Standards/List-of-Codes-and-Standards) that would be applicable. [NFPA 45](https://karafire.com/wp-content/uploads/2019/06/Standard-NFPA-45-2004.pdf), "Standard on Fire Protection for Laboratories Using Chemicals", would probably be relevant.
 >> 
+>> For example, here's a [decently thorough outline](https://www.emerson.com/documents/automation/article-interpreting-requirements-of-articles-500-516-of-nec-appleton-en-518452.pdf) of the portion of the National Electrical Code (NEC) in the United States which covers requirements for the different classes of locations containing flammable/explosion prone materials. The  Occupational Safety and Health Administration (OSHA) also has a [set of rules](https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_id=9884&p_table=standards) that apply, and The National Fire Protection Association (NFPA) has [many code standards](https://www.nfpa.org/Codes-and-Standards/All-Codes-and-Standards/List-of-Codes-and-Standards) that would be applicable. [NFPA 45](https://karafire.com/wp-content/uploads/2019/06/Standard-NFPA-45-2004.pdf), "Standard on Fire Protection for Laboratories Using Chemicals", would probably be relevant.
 
->>> **u/true-name-raven** [+3] *
+>>> **u/true-name-raven** [+4]  (a day later)
 >>> 
 >>> Thank you, I can't believe it didn't occur to me that there would be analogous standards in the real world.
->>> 
 
->> **u/Dezoufinous** [+2] *
+>> **u/Dezoufinous** [+2]  (a day later)
 >> 
 >> Very interesting question.
+>> 
 >> How big single lab room should be?
+>> 
 >> You've given a lot of requirements, but everything comes down just to having strong, and preferrably hermetic walls.
+>> 
 >> 1. Find the optimal wall structure (thickness versus strenght versus material used versus cost), most likely wall will be made of different layers
 >> 2. Add an entrance chamber with disinfection system to each room with two heavy vault doors. Every lab room should have at least two entrance chambers.
 >> 3. Equip each room with separate air conditioning, water supply systems, etc, in order to minize the connections with the outside
 >> 4. Arrange labs and halls (with extra vault doors) in such a way that a lockdown of a biggert part of facility is possible in the worst case scenario when single lab walls fails to contain the danger
 >> 5. Actively watch and monitor situation in halls and in every room
->> That's the basic idea, of course it could be extended and improved.
 >> 
+>> That's the basic idea, of course it could be extended and improved.
 
->>> **u/true-name-raven** [+2] *
+>>> **u/true-name-raven** [+2]  (a day later)
 >>> 
 >>> I like this, especially combined with the other idea of cribbing from real world building codes. 
->>> Why do you need two entrance chambers?
 >>> 
+>>> Why do you need two entrance chambers?
 
->>>> **u/Dezoufinous** [+2] *
+>>>> **u/Dezoufinous** [+2]  (a day later)
 >>>> 
 >>>> How much are scientists lives valued in the setting?
->>>> The second exit door is just there to help improve survival rate of people in the room in case of contamination/incident. There is always chance that explosion will happen near the one of exit doors and thus make it unusable, trapping people inside.
 >>>> 
+>>>> The second exit door is just there to help improve survival rate of people in the room in case of contamination/incident. There is always chance that explosion will happen near the one of exit doors and thus make it unusable, trapping people inside.
 
->>>>> **u/true-name-raven** [+1] *
+>>>>> **u/true-name-raven** [+1]  (a day later)
 >>>>> 
 >>>>> Ah, I see. 
->>>>> Lives in general aren't valued very highly. "Scientists" (mages) who make mistakes are seen as using up valuable resources.
 >>>>> 
+>>>>> Lives in general aren't valued very highly. "Scientists" (mages) who make mistakes are seen as using up valuable resources.
 
->>> **u/covert_operator100** [+2] *
+>>> **u/covert_operator100** [+2]  (2 days later)
 >>> 
 >>> As for gas leaks, negative pressure ensures that the gas stays in the room in an emergency, while still giving you ventilation on regular days. Oxygen masks can protect experimenters from inhaled poisons or particles (but not from acidic gas). The exits can have an airlock if necessary, but that edges on modern tech.
->>> The biggest fear I'd have in this setup would be slow-acting problems like disease, but the CDC uses negative pressure combined with air filtration to ensure nothing gets out.
 >>> 
+>>> The biggest fear I'd have in this setup would be slow-acting problems like disease, but the CDC uses negative pressure combined with air filtration to ensure nothing gets out.
 
->>>> **u/chiruochiba** [+1] *
+>>>> **u/chiruochiba** [+1]  (2 days later)
 >>>> 
 >>>> >negative pressure ensures that the gas stays in the room in an emergency
->>>> This is one of the best modern ventilation safety tactics, but it would probably be impossible if OP is serious about restricting the technology to ~1800.
->>>> In the early 1800s the only method for forced air circulation in buildings was the maintenance of fires at the bottom of tall shafts (such as fireplace flues or stairwells) that would heat the air and thus continuously draw it upwards. This air circulation was unreliable and could be easily disrupted by leaving doors or windows open. Mechanical ventilation (in the form of steam-driven fans) didn't exist in practical form until the 1840s.^[(source)](https://web.archive.org/web/20160121152758/http://isites.harvard.edu/fs/docs/icb.topic753413.files/8_Engineers%20Contractors%20and%20Industrial%20Construction/Bruegmann_Central.pdf)
 >>>> 
+>>>> This is one of the best modern ventilation safety tactics, but it would probably be impossible if OP is serious about restricting the technology to ~1800.
+>>>> 
+>>>> In the early 1800s the only method for forced air circulation in buildings was the maintenance of fires at the bottom of tall shafts (such as fireplace flues or stairwells) that would heat the air and thus continuously draw it upwards. This air circulation was unreliable and could be easily disrupted by leaving doors or windows open. Mechanical ventilation (in the form of steam-driven fans) didn't exist in practical form until the 1840s.^[(source)](https://web.archive.org/web/20160121152758/http://isites.harvard.edu/fs/docs/icb.topic753413.files/8_Engineers%20Contractors%20and%20Industrial%20Construction/Bruegmann_Central.pdf)
 
->>>>> **u/covert_operator100** [+2] *
+>>>>> **u/covert_operator100** [+2]  (2 days later)
 >>>>> 
 >>>>> I'm happy I learned that, thank you! I assumed that they had a similar mechanism to the water pump for moving air, but of course the water pumps of the time were not capable of an airtight seal.
->>>>> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/MegFairchild *
 * URL: https://www.reddit.com/r/rational/comments/n8qku7/rt_wip_ff_the_boros_bachelor/
-* Score: 19
+* Score: 18
 
 * Created: 2021-05-09T23:36:26
 
@@ -14,27 +14,25 @@ This webnovel is a rational fiction based on a D&D adventure run in the 5th Edit
 
 ### Comments:
 
-> **u/netstack_** [+7] *
+> **u/netstack_** [+7]  (3 hours later)
 > 
 > Did the title give anyone else hope that it was One Punch Man rational/crackfic?
-> 
 
->> **u/MoNastri** [+3] *
+>> **u/MoNastri** [+3]  (13 hours later)
 >> 
 >> It did. Dangit I got excited...
->> 
 
-> **u/Xxzzeerrtt** [+2] *
+> **u/Xxzzeerrtt** [+2]  (13 hours later)
 > 
 > Super unrelated but does anyone know if this supplement is canon to actual mtg lore?
-> 
 
->> **u/MegFairchild** [+2] *
+>> **u/MegFairchild** [+2]  (a day later)
 >> 
 >> Yes, the Guildmaster's Guide to Ravnica (GGR) sourcebook released by Wizards of the Coast for D&D is canon! MTG and D&D are made by the same company, so their material is generally consistent throughout and they did a great job with the GGR. 
->> We do our best to maintain consistency with the lore in our webnovel as well, and have good reasons for diverging when we do. 
->> Ravnica is a super fun setting, I recommend it :)
 >> 
+>> We do our best to maintain consistency with the lore in our webnovel as well, and have good reasons for diverging when we do. 
+>> 
+>> Ravnica is a super fun setting, I recommend it :)
 
 ---
 

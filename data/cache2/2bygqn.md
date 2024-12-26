@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: http://ahistoryofthefuture.org/
-* Score: 11
+* Score: 10
 
 * Created: 2014-07-28T16:35:03
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (2 minutes later)
 > 
 > A work in progress, currently 39/100. You'll want to use the main page to navigate, as a lot of the 'next page' buttons don't work.
-> 
 
 ---
 

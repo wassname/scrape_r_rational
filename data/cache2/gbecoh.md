@@ -2,7 +2,7 @@
 
 * Author: u/ArgusTheCat *
 * URL: https://www.royalroad.com/fiction/15925/the-daily-grind/chapter/490320/chapter-098
-* Score: 23
+* Score: 21
 
 * Created: 2020-05-01T08:28:31
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Reply_or_Not** [+2] *
+> **u/Reply_or_Not** [+2]  (a day later)
 > 
 > I read the first book and didn't realize that you started writing again, what chapter is the first of the next book?
-> 
 
->> **u/ArgusTheCat** [+2] *
+>> **u/ArgusTheCat** [+2]  (a day later)
 >> 
 >> Seventy five, just after the break.
->> 
 
 ---
 

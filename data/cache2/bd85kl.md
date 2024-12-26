@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/xachariah** [+6] *
+> **u/xachariah** [+7]  (2 hours later)
 > 
 > The thing that surprises me most in this chapter is that he actually feels a difference when he gets that great power.  
-> The last couple times he's gotten super saiyan powerups, he's mostly been himself just with someone there to talk with him.  I'm expecting more along those lines.
 > 
+> The last couple times he's gotten super saiyan powerups, he's mostly been himself just with someone there to talk with him.  I'm expecting more along those lines.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://forums.spacebattles.com/posts/23363131/
-* Score: 9
+* Score: 7
 
 * Created: 2016-07-19T14:59:39
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/VorpalAuroch** [+1]  *Life before Death**
+> **u/VorpalAuroch** [+1]  *Life before Death* (5 hours later)
 > 
 > Context?
-> 
 
 ---
 

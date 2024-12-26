@@ -2,7 +2,7 @@
 
 * Author: u/HubrisDev *
 * URL: https://practicalguidetoevil.wordpress.com/2020/04/28/chapter-23-repercussions/
-* Score: 66
+* Score: 72
 
 * Created: 2020-04-28T12:10:39
 

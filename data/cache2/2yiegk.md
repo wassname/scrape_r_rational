@@ -2,7 +2,7 @@
 
 * Author: u/Rangi42 *
 * URL: https://www.reddit.com/r/rational/comments/2yiegk/rtbst_rational_harry_potter_with_schoolage/
-* Score: 34
+* Score: 35
 
 * Created: 2015-03-10T01:36:18
 
@@ -20,68 +20,70 @@ I'm not a writer, and if I did write a fanfic I'd start with one requiring fewer
 
 ### Comments:
 
-> **u/Transfuturist** [+10]  *Carthago delenda est.**
+> **u/Transfuturist** [+11]  *Carthago delenda est.* (2 hours later)
 > 
 > There are so many good ideas. If only an /r/rational paperclipper would tile the universe in awesome stories.
-> I would not quite mind that apocalypse.
 > 
+> I would not quite mind that apocalypse.
 
->> **u/alexanderwales** [+27]  *Time flies like an arrow**
+>> **u/alexanderwales** [+28]  *Time flies like an arrow* (3 hours later)
 >> 
 >> Ideas are cheap. Writing stories is hard, especially if they're meant to be good stories with coherent themes and solid characterization, not to mention a plot. That's one of those unfortunate truths about the world (and more specifically, this subreddit).
->> I'm actually against posting ideas. I think that it short-circuits some of the mental reward mechanisms that get people writing stories. You start describing this awesome magic system that you thought up with all these neat analogs to how online communities work, and you're getting this low level stimulation that erodes at the desire to write it out into an actual story.
 >> 
+>> I'm actually against posting ideas. I think that it short-circuits some of the mental reward mechanisms that get people writing stories. You start describing this awesome magic system that you thought up with all these neat analogs to how online communities work, and you're getting this low level stimulation that erodes at the desire to write it out into an actual story.
 
->>> **u/callmebrotherg** [+6]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+5]  *now posting as /u/callmesalticidae* (5 hours later)
 >>> 
 >>> Yeah. I am very much a victim of this. 
->>> I find that the best solution is to do some minor idea bouncing in big groups if you need a problem solved or want holes to be poked (as I intend to do in a couple of weeks with a vampire story I'm cooking up), but to then do the heavy idea pouncing with just one or two people. 
->>> The key, though, is that these need to be people who are going to be invested in your story and will be disappointed if they don't get to see it completed, in the same way that any of us will be disappointed if HPMOR stops updating tomorrow. 
->>> I started doing this to help with my problem of getting two-thirds through a novel and then deciding that it's horrible and needs to be thrown away and never, *ever* talked about again, but I think it's a general-use tactic.
 >>> 
+>>> I find that the best solution is to do some minor idea bouncing in big groups if you need a problem solved or want holes to be poked (as I intend to do in a couple of weeks with a vampire story I'm cooking up), but to then do the heavy idea pouncing with just one or two people. 
+>>> 
+>>> The key, though, is that these need to be people who are going to be invested in your story and will be disappointed if they don't get to see it completed, in the same way that any of us will be disappointed if HPMOR stops updating tomorrow. 
+>>> 
+>>> I started doing this to help with my problem of getting two-thirds through a novel and then deciding that it's horrible and needs to be thrown away and never, *ever* talked about again, but I think it's a general-use tactic.
 
->>> **u/MadScientist14159** [+3]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+>>> **u/MadScientist14159** [+3]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.* (13 hours later)
 >>> 
 >>> > Writing stories is hard, especially if they're meant to be good stories with coherent themes and solid characterization, not to mention a plot.
->>> I'll say.
->>> *goes back to editing Sodium Hypochlorite*
 >>> 
+>>> I'll say.
+>>> 
+>>> *goes back to editing Sodium Hypochlorite*
 
->>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.* (15 hours later)
 >>> 
 >>> I'm addicted to brainstorming, and averse to actual writing, unfortunately. If I could RP or GM in the settings I come up with, I would be fine, but it's still easier to brainstorm ideas that will go nowhere.
->>> If I could somehow hack my brainstorming process to do my writing for me...
 >>> 
+>>> If I could somehow hack my brainstorming process to do my writing for me...
 
-> **u/callmebrotherg** [+7]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+7]  *now posting as /u/callmesalticidae* (2 hours later)
 > 
 > Yeah, I would *totally* read this.
-> 
 
-> **u/okaycat** [+6] *
+> **u/okaycat** [+5]  (3 hours later)
 > 
 > This sounds like a really good idea..  Canon Dumbledore is already a brilliant genius so you wouldn't even really have to change his characterization much.
-> I'm loving the idea of a young ambitious Dumbledore trying to optimize the world and explore magic.   You could really delve deep into the HP magic system and its strange intricacies.  
-> I especially like your suggestion to distance HP magic from muggle science.  This is a big pet peeve of mine.  Too often in fanfiction magic is explained away as exotic muggle physics or some other reductionist materialist explanation is used.  I mean come on, its *magic*.
-> Like you I'm not much of a writer so hopefully someone else can write this story.
 > 
+> I'm loving the idea of a young ambitious Dumbledore trying to optimize the world and explore magic.   You could really delve deep into the HP magic system and its strange intricacies.  
+> 
+> I especially like your suggestion to distance HP magic from muggle science.  This is a big pet peeve of mine.  Too often in fanfiction magic is explained away as exotic muggle physics or some other reductionist materialist explanation is used.  I mean come on, its *magic*.
+> 
+> Like you I'm not much of a writer so hopefully someone else can write this story.
 
-> **u/None** [+4] *
+> **u/None** [+3]  (7 hours later)
 > 
 > I think this would be very cool to read, what with how HPMoR stopped being "Science Potter" somewhere around the trip to Azkaban and turned into "Slytherin ALL THE THINGS, with Tom Riddle!".
-> And yes, Rowling's "magic" often seems *very* Aristotelian, which would certainly explain, on its own, why her Wizarding World is *so fucking backwards*: [they're all basically philosophy majors ;-)](http://lesswrong.com/lw/4vr/less_wrong_rationality_and_mainstream_philosophy/).
 > 
+> And yes, Rowling's "magic" often seems *very* Aristotelian, which would certainly explain, on its own, why her Wizarding World is *so fucking backwards*: [they're all basically philosophy majors ;-)](http://lesswrong.com/lw/4vr/less_wrong_rationality_and_mainstream_philosophy/).
 
-> **u/linkhyrule5** [+1] *
+> **u/linkhyrule5** [+1]  (4 days later)
 > 
 > [Potter Who and the Wossname's Thingummy](https://www.fanfiction.net/s/8484470/26/Potter-Who-and-the-Wossname-s-Thingummy) does a bit of this - the Rupert comes up with a decent amount of creative applications of mathematics to magic. Fourier transfiguration is a particularly amusing idea.
-> 
 
-> **u/LauralHill** [+0] *
+> **u/LauralHill** [+0]  (5 days later)
 > 
 > I like to write,  but I'm far less interested in a
 > "dumbledore reads books and writes papers" narrative than what leads up to the whole Grindelwald antagonism.
-> 
 
 ---
 

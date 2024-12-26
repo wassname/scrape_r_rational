@@ -2,7 +2,7 @@
 
 * Author: u/PeridexisErrant  *put aside fear for courage, and death for life**
 * URL: https://www.reddit.com/r/rational/comments/2el9lr/on_the_distinction_between_rational_fiction_and/
-* Score: 25
+* Score: 27
 
 * Created: 2014-08-26T02:28:51
 
@@ -41,105 +41,114 @@ There's not much of a point to this post, I just saw some confusion over the ter
 
 ### Comments:
 
-> **u/ignirtoq** [+13] *
+> **u/ignirtoq** [+12]  (48 minutes later)
 > 
 > Awesome!  I'm writing a rational fantasy piece with my wife and figured I couldn't post it here because none of the characters are rationalists.  Glad to know this sub is open to that!
-> 
 
->> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (8 hours later)
 >> 
 >> We'd love to see it!
->> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (20 hours later)
 >> 
 >> Link it!
->> Also, don't wait until it's finished -- put it up chapter by chapter.  It gives huge motivation to see people reading it, and you'll get a lot of useful critique (and probably ideas) from having it visible.
->> One thing:  don't publish on fanfiction.net  Their interface blows.  I've heard that Archive of Our Own is better, although I'm just in the process of exploring that.
 >> 
+>> Also, don't wait until it's finished -- put it up chapter by chapter.  It gives huge motivation to see people reading it, and you'll get a lot of useful critique (and probably ideas) from having it visible.
+>> 
+>> One thing:  don't publish on fanfiction.net  Their interface blows.  I've heard that Archive of Our Own is better, although I'm just in the process of exploring that.
 
->>> **u/omgimpwned** [+2]  *Sunshine Regiment**
+>>> **u/omgimpwned** [+2]  *Sunshine Regiment* (a day later)
 >>> 
 >>> I agree with eaglejarl - get it out there! If you don't, it's much easier to just let yourself stop and falter. And reading reviews of your story is really a bit of a motivational boost, at least for me.
->>> To expand on the website choice part, fanfiction.net's interface truly is horrendous, though you can make it very easy to work with and minimize exposure to it if you do things right. Here's my process (after several bumpy iterations using different tools, and some variations of version control):
->>> I do the bulk of my writing in Scrivener, using plain-text [MultiMarkdown](http://michaelhyatt.com/multimarkdown.html) (tip: use it - it saves time and is easier to work with), but any editor capable of writing plaintext works. After that, I upload to Google Drive where my multitude of betas use the suggestion and comment features to give feedback, which I can then implement. The idea here, though, is that I then download the Google Drive document as a plaintext file, which I can then compile into any format from MultiMarkdown using a program like [pandoc](http://johnmacfarlane.net/pandoc/).
->>> I've found that fanfiction.net seems to accept .html files best, so I tend to convert to HTML5 and then upload and do some final formatting in fanfiction.net's horrendous interface, which is mostly just centering a few sections (MMD does not support centering).
->>> Overall, exporting things and converting things and uploading things etc. is kept to a minimum. Overall, I don't spend much more on those parts than at most 10-15 minutes per chapter.
->>> Archive of Our Own (which I also post on and keep updated) has a much better, easier and sleeker interface than fanfiction.net, though actually I find myself importing to fanfiction.net's interface, and then doing a select-all copy paste from their rich text editor into AO3's rich text editor. That's just the easiest for me. However, AO3 has a much neater layout for reading. The counterpoint is that way fewer people use AO3, so you'll have much fewer readers.
->>> And also, my fic (In Fire Forged) only counts as rational fiction and is tagged as [RT], but is not rationalist fiction - so I'm benefiting from that distinction, since I'm posting here whenever it updates! Happy to see that the tag I'm using really is allowed. I've still had a few feelings of guilt or am-I-doing-this-properly-I'm-probably-not-argh-help whenever I used it.
->>> There should maybe be a separate tag to distinguish them though, so we know if something's rationalist, or only rational.
->>> Edit: Whoops, this was supposed to be in reply to ignirtoq. Ah well, guess this way works too.
 >>> 
+>>> To expand on the website choice part, fanfiction.net's interface truly is horrendous, though you can make it very easy to work with and minimize exposure to it if you do things right. Here's my process (after several bumpy iterations using different tools, and some variations of version control):
+>>> 
+>>> I do the bulk of my writing in Scrivener, using plain-text [MultiMarkdown](http://michaelhyatt.com/multimarkdown.html) (tip: use it - it saves time and is easier to work with), but any editor capable of writing plaintext works. After that, I upload to Google Drive where my multitude of betas use the suggestion and comment features to give feedback, which I can then implement. The idea here, though, is that I then download the Google Drive document as a plaintext file, which I can then compile into any format from MultiMarkdown using a program like [pandoc](http://johnmacfarlane.net/pandoc/).
+>>> 
+>>> I've found that fanfiction.net seems to accept .html files best, so I tend to convert to HTML5 and then upload and do some final formatting in fanfiction.net's horrendous interface, which is mostly just centering a few sections (MMD does not support centering).
+>>> 
+>>> Overall, exporting things and converting things and uploading things etc. is kept to a minimum. Overall, I don't spend much more on those parts than at most 10-15 minutes per chapter.
+>>> 
+>>> Archive of Our Own (which I also post on and keep updated) has a much better, easier and sleeker interface than fanfiction.net, though actually I find myself importing to fanfiction.net's interface, and then doing a select-all copy paste from their rich text editor into AO3's rich text editor. That's just the easiest for me. However, AO3 has a much neater layout for reading. The counterpoint is that way fewer people use AO3, so you'll have much fewer readers.
+>>> 
+>>> And also, my fic (In Fire Forged) only counts as rational fiction and is tagged as [RT], but is not rationalist fiction - so I'm benefiting from that distinction, since I'm posting here whenever it updates! Happy to see that the tag I'm using really is allowed. I've still had a few feelings of guilt or am-I-doing-this-properly-I'm-probably-not-argh-help whenever I used it.
+>>> 
+>>> There should maybe be a separate tag to distinguish them though, so we know if something's rationalist, or only rational.
+>>> 
+>>> Edit: Whoops, this was supposed to be in reply to ignirtoq. Ah well, guess this way works too.
 
->>>> **u/eaglejarl** [+2] *
+>>>> **u/eaglejarl** [+2]  (2 days later)
 >>>> 
 >>>> > Here's my process [for making the FF.net interface easier to work with]
 >>>> > [Many many many steps snipped]
->>>> Ah, yes, I see how that is definitely easier.  ;P  My suggestion:  just write it in HTML in the first place.  :)
->>>> As far as AO3 goes -- the thing I want the most from it is the ability to have threaded comments so that I can reply to people's reviews inline where everyone can see it instead of having to do it by PM.
 >>>> 
+>>>> Ah, yes, I see how that is definitely easier.  ;P  My suggestion:  just write it in HTML in the first place.  :)
+>>>> 
+>>>> As far as AO3 goes -- the thing I want the most from it is the ability to have threaded comments so that I can reply to people's reviews inline where everyone can see it instead of having to do it by PM.
 
->>>>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>>>> **u/omgimpwned** [+1]  *Sunshine Regiment* (2 days later)
 >>>>> 
 >>>>> Well, the basic idea is: write it in plaintext MultiMarkdown somehow, then convert that to something which fanfiction.net swallows easily without needing extra work from your side. <--- condensed version of the post above.
->>>>> I honestly don't spend a lot of time fiddling with interfaces, though I can see, reading the comment, that I went into a bit too much detail regarding my _entire_ process, perhaps, including quite a few unnecessary details :D
->>>>> Still, I think my point holds: fanfiction.net has more readers, which means you need some good reason to skip it, and I don't think the interface is sufficiently awful to be that reason. I guess it also depends on the fandom, of course.
->>>>> Your point about threaded comments is good, though. I _wish_ I could do that with reviews.
->>>>> Edit: Also, writing it in HTML sounds absolutely awful. I much prefer MultiMarkdown, mostly for the reasons listed in the post I linked in my reply above.
 >>>>> 
+>>>>> I honestly don't spend a lot of time fiddling with interfaces, though I can see, reading the comment, that I went into a bit too much detail regarding my _entire_ process, perhaps, including quite a few unnecessary details :D
+>>>>> 
+>>>>> Still, I think my point holds: fanfiction.net has more readers, which means you need some good reason to skip it, and I don't think the interface is sufficiently awful to be that reason. I guess it also depends on the fandom, of course.
+>>>>> 
+>>>>> Your point about threaded comments is good, though. I _wish_ I could do that with reviews.
+>>>>> 
+>>>>> Edit: Also, writing it in HTML sounds absolutely awful. I much prefer MultiMarkdown, mostly for the reasons listed in the post I linked in my reply above.
 
->>>>>> **u/eaglejarl** [+1] *
+>>>>>> **u/eaglejarl** [+1]  (2 days later)
 >>>>>> 
 >>>>>> Yeah, I was just yanking your chain. It's a perfectly legit process.
->>>>>> > Edit: Also, writing it in HTML sounds absolutely awful. I much prefer MultiMarkdown, mostly for the reasons listed in the post I linked in my reply above.
->>>>>> Sure sure.  I'm a web programmer, so writing in HTML is not an issue for me; I already have the tools and enough experience at it that it's convenient.
 >>>>>> 
+>>>>>> > Edit: Also, writing it in HTML sounds absolutely awful. I much prefer MultiMarkdown, mostly for the reasons listed in the post I linked in my reply above.
+>>>>>> 
+>>>>>> Sure sure.  I'm a web programmer, so writing in HTML is not an issue for me; I already have the tools and enough experience at it that it's convenient.
 
->>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (2 days later)
 >>>> 
 >>>> > And also, my fic (In Fire Forged) only counts as rational fiction and is tagged as [RT], but is not rationalist fiction - so I'm benefiting from that distinction, since I'm posting here whenever it updates! Happy to see that the tag I'm using really is allowed. I've still had a few feelings of guilt or am-I-doing-this-properly-I'm-probably-not-argh-help whenever I used it.
->>>> > There should maybe be a separate tag to distinguish them though, so we know if something's rationalist, or only rational.
->>>> Given that this is among my favorite Naruto fics, keep posting!  I'll add a tag specifically for rationalist stuff - I'm just not sure exactly what.  `[RT-ist]` is the least-but-still-awkward option I can see...
 >>>> 
+>>>> > There should maybe be a separate tag to distinguish them though, so we know if something's rationalist, or only rational.
+>>>> 
+>>>> Given that this is among my favorite Naruto fics, keep posting!  I'll add a tag specifically for rationalist stuff - I'm just not sure exactly what.  `[RT-ist]` is the least-but-still-awkward option I can see...
 
->>>>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>>>> **u/omgimpwned** [+1]  *Sunshine Regiment* (2 days later)
 >>>>> 
 >>>>> Thank you! I'm flattered, and certainly aim to keep posting until I'm done.
->>>>> Also, [RST] looks best to me, after a bit of deliberation.
 >>>>> 
+>>>>> Also, [RST] looks best to me, after a bit of deliberation.
 
->>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (2 days later)
 >>>>>> 
 >>>>>> :)
->>>>>> I've updated the sidebar.
 >>>>>> 
+>>>>>> I've updated the sidebar.
 
-> **u/madcatlady** [+11] *
+> **u/madcatlady** [+7]  (11 hours later)
 > 
 > So, Worm is Rational, but not rationalist.
-> 
 
->> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (2 days later)
 >> 
 >> Yep.
->> 
 
-> **u/TimTravel** [+6] *
+> **u/TimTravel** [+7]  (4 hours later)
 > 
 > I enjoy both. I think it would be excessive to discourage linking merely rational fiction here.
-> 
 
->> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (8 hours later)
 >> 
 >> > I enjoy both. I think it would be excessive to discourage linking merely rational fiction here.
->> I absolutely agree - except that there's nothing *mere* about rational fiction.  
->> >The first thing to note is that this subreddit is dedicated to both of these.
 >> 
+>> I absolutely agree - except that there's nothing *mere* about rational fiction.  
+>> 
+>> >The first thing to note is that this subreddit is dedicated to both of these.
 
->>> **u/TimTravel** [+2] *
+>>> **u/TimTravel** [+2]  (8 hours later)
 >>> 
 >>> Agreed. I only used "mere" to mean that it's a superset.
->>> 
 
 ---
 

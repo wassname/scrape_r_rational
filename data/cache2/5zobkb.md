@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/5zobkb/biweekly_challenge_man_vs_nature/
-* Score: 20
+* Score: 22
 
 * Created: 2017-03-16T03:35:18
 
@@ -50,28 +50,27 @@ Next time the challenge will be **Weirdtopia**. Your challenge, should you choos
 
 ### Comments:
 
-> **u/Kishoto** [+7] *
+> **u/Kishoto** [+6]  (a day later)
 > 
 > [The Beast](https://kishoto.wordpress.com/2017/03/17/the-beast-rrational-challenge-man-vs-nature/)
-> Word Count: 3204
 > 
+> Word Count: 3204
 
->> **u/DCarrier** [+1] *
+>> **u/DCarrier** [+1]  (14 days later)
 >> 
 >> What's with the Latin? This story takes place long before Latin became a thing.
->> 
 
->>> **u/Kishoto** [+1] *
+>>> **u/Kishoto** [+1]  (14 days later)
 >>> 
 >>> It's the oldest language I'm vaguely familiar with so I threw it in to be fancy/reveal that [](#s "The Beast is Death. Which I'm sure no one saw coming. :P")
->>> 
 
-> **u/cjet79** [+5] *
+> **u/cjet79** [+4]  (3 days later)
 > 
 > [Unending Land Chronicles: The Hunted](https://docs.google.com/document/d/1T86NA7hmQ3k-pOkNGe5W3nQ1tag7mA4BGDYxLGWaNas/edit?usp=sharing)
-> Word count: 2993
-> Note: this takes place in the same world as a previous story I submitted for megastructures: [The Unending Land](https://docs.google.com/document/d/1VetRhoNY0GCNxsMJrc5rkRK7v47durtMHPCduGw41WI/edit?usp=sharing). I tried to make the story as independent as possible.
 > 
+> Word count: 2993
+> 
+> Note: this takes place in the same world as a previous story I submitted for megastructures: [The Unending Land](https://docs.google.com/document/d/1VetRhoNY0GCNxsMJrc5rkRK7v47durtMHPCduGw41WI/edit?usp=sharing). I tried to make the story as independent as possible.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/DocFuture *
 * URL: http://docfuture.tumblr.com/post/141881146516/updated-links
-* Score: 9
+* Score: 10
 
 * Created: 2016-03-29T04:48:11
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/DocFuture** [+2] *
+> **u/DocFuture** [+2]  (2 minutes later)
 > 
 > I updated my main Stories page to add links to some recent shorter works and background that those checking just the main novel updates might have missed.  Enjoy!
-> 
 
 ---
 

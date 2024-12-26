@@ -2,7 +2,7 @@
 
 * Author: u/BigBeautifulEyes *
 * URL: https://www.reddit.com/r/rational/comments/a4avqp/how_can_i_get_an_alert_when_a_new_chapter_drops/
-* Score: 7
+* Score: 6
 
 * Created: 2018-12-08T13:56:02
 
@@ -14,59 +14,53 @@ Is there a way of just getting a notification?
 
 ### Comments:
 
-> **u/Khress** [+30] *
+> **u/Khress** [+31]  (3 hours later)
 > 
 > Get him on patreon, 1$ per chapter
-> 
 
->> **u/Calsem** [+8] *
+>> **u/Calsem** [+7]  (3 hours later)
 >> 
 >> Correct answer right here. Cheap AND Supports the author.
->> 
 
->> **u/BigBeautifulEyes** [+5] *
+>> **u/BigBeautifulEyes** [+6]  (8 hours later)
 >> 
 >> I'll go with this, thanks.
->> 
 
-> **u/blast_ended_sqrt** [+27] *
+> **u/blast_ended_sqrt** [+27]  (10 minutes later)
 > 
 > If you create an account on Fictionpress, you can follow a story or author to get email notifications.
-> 
 
-> **u/silver7017** [+8] *
+> **u/silver7017** [+11]  (4 minutes later)
 > 
 > the author posts when the next chapter will drop in his bio, and he tends to warn ahead of time if a chapter will be late on his patreon. no need to check every day.
-> 
 
-> **u/None** [+11] *
+> **u/None** [+10]  (an hour later)
 > 
 > I have a IFTTT applet that says: if on reddit there's a new post from search: "subreddit: rational title: mother of learning" than send me a notification. Sometimes I get a false positive but it works for me. [Example image.](https://i.imgur.com/fOuLbRH.jpg)
-> I have one of those also for Worth the Candle, Ward, One Punch Man, The Tutorial is Too Hard, etc.
 > 
+> I have one of those also for Worth the Candle, Ward, One Punch Man, The Tutorial is Too Hard, etc.
 
->> **u/HeartwarmingLies** [+1] *
+>> **u/HeartwarmingLies** [+1]  (a day later)
 >> 
 >> What is The Tutorial is Too Hard?
->> You listed a bunch of things I like then one thing I haven't heard of so I'm curious.
 >> 
+>> You listed a bunch of things I like then one thing I haven't heard of so I'm curious.
 
-> **u/CraftyTrouble** [+4] *
+> **u/CraftyTrouble** [+3]  (an hour later)
 > 
 > Click the author's profile and he has expected release dates.
-> Additionally, get an RSS feed reader.
-> There are also browser add-ons that monitor a page for changes periodically and notify you. Use google.
 > 
+> Additionally, get an RSS feed reader.
+> 
+> There are also browser add-ons that monitor a page for changes periodically and notify you. Use google.
 
-> **u/signspace13** [+1] *
+> **u/signspace13** [+1]  (8 hours later)
 > 
 > You can follow his patreon without actually donating, I have an RSS feed on my phone's homescreen, you can turn a subreddit into a feed just by add .RSS at the end so reddit.com/r/rational.rss is a feed.
-> 
 
-> **u/kaukamieli** [+0] *
+> **u/kaukamieli** [+0]  (2 days later)
 > 
 > Easy, check r/rational each day. You'll know when it comes.
-> 
 
 ---
 

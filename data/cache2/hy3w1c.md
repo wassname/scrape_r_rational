@@ -12,32 +12,29 @@
 
 ### Comments:
 
-> **u/ThirdMover** [+3] *
+> **u/ThirdMover** [+3]  (48 seconds later)
 > 
 > So, maybe I just watched too much *Fool Us* but I cannot see the new guy as anyone but Penn Jillette.
-> Also as we can see Turry really isn't *that* bullshit great at predicting the future but prefers to go with lots and lots of redundancy. I like it.
 > 
+> Also as we can see Turry really isn't *that* bullshit great at predicting the future but prefers to go with lots and lots of redundancy. I like it.
 
->> **u/callmesalticidae** [+2]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+2]  *writes worldbuilding books* (10 hours later)
 >> 
 >> I mean, with future plastic surgery and a bit of hair dye, it *could* be 80-90 year old Penn Jillette. >:P
->> 
 
-> **u/avicouza** [+3] *
+> **u/avicouza** [+3]  (9 hours later)
 > 
 > "...It's got something to do with onions? Don't quote me on that, I'm not a tech guy." 
-> ...Is he talking about layering?
 > 
+> ...Is he talking about layering?
 
->> **u/callmesalticidae** [+8]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+8]  *writes worldbuilding books* (10 hours later)
 >> 
 >> [Onion routing](https://www.wikiwand.com/en/Onion_routing), I think.
->> 
 
->>> **u/avicouza** [+1] *
+>>> **u/avicouza** [+1]  (11 hours later)
 >>> 
 >>> That makes *way* more sense.
->>> 
 
 ---
 

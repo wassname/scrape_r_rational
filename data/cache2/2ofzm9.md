@@ -53,139 +53,165 @@ The story synopsis noted above has helped me turn my fantasy world into an appro
 
 ### Comments:
 
-> **u/Farmerbob1** [+5]  *Level 1 author**
+> **u/Farmerbob1** [+7]  *Level 1 author* (8 hours later)
 > 
 > Well, Trolls can be your enhanced smell race, and ogres your enhanced taste race.
-> Trolls are so enamored of all sorts of smells that they keep fetishes of strong smelling things round them all the time.  Most people don't want to be around them, because some trolls develop affinities for some unfortunate scents.  Like limburger, for example.  Or rotten eggs.  However, as mentioned below, it's possible that they might be able to smell cancers or other chemical imbalances.
-> Ogres, well, ogres are foodies.  They make incredibly good tasting food, but you might be a bit disturbed about what actually goes into it if you ask.  Their sense of what chemically goes together to get the taste they want is uncanny.  They are so in tune with chemistry in general that a few of them have lost some of their interest in cooking and moved into alchemy and making medicines.
-> The above ideas are yours if you want to use them :)
 > 
+> Trolls are so enamored of all sorts of smells that they keep fetishes of strong smelling things round them all the time.  Most people don't want to be around them, because some trolls develop affinities for some unfortunate scents.  Like limburger, for example.  Or rotten eggs.  However, as mentioned below, it's possible that they might be able to smell cancers or other chemical imbalances.
+> 
+> Ogres, well, ogres are foodies.  They make incredibly good tasting food, but you might be a bit disturbed about what actually goes into it if you ask.  Their sense of what chemically goes together to get the taste they want is uncanny.  They are so in tune with chemistry in general that a few of them have lost some of their interest in cooking and moved into alchemy and making medicines.
+> 
+> The above ideas are yours if you want to use them :)
 
->> **u/notmy2ndopinion** [+3]  *Concent of Saunt Edhar**
+>> **u/notmy2ndopinion** [+3]  *Concent of Saunt Edhar* (a day later)
 >> 
 >> Nice -- my original idea was that there would only be the friendly fantasy races, but it makes sense to expand the universe out more and have all the fantasy monsters and apply rational principles to them as well.
->> Trolls are going to be "cancer" in my world -- with immortal, replicating malignant cells all hungry and all consuming.
->> Ogres -- not sure.  I'll think about it more.  I like your idea with the smell fetish!
 >> 
+>> Trolls are going to be "cancer" in my world -- with immortal, replicating malignant cells all hungry and all consuming.
+>> 
+>> Ogres -- not sure.  I'll think about it more.  I like your idea with the smell fetish!
 
->>> **u/Farmerbob1** [+3]  *Level 1 author**
+>>> **u/Farmerbob1** [+3]  *Level 1 author* (a day later)
 >>> 
 >>> Remember, it's your fiction.  Trolls and ogres aren't necessarily bad.  Halflings, elves, and gnomes aren't necessarily good.
->>> 
 
->>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (3 days later)
 >>>> 
 >>>> hm.  Good point.  I don't want to do a "classic" good vs evil story, nor the reverse trope like thunt's "Goblins"... so it will be important to keep races at neutral value.
->>>> I do like the idea of opposing philosophies so I will have a progressive/tech vs conservative/nature -styled alignments that various groups will rally around.
 >>>> 
+>>>> I do like the idea of opposing philosophies so I will have a progressive/tech vs conservative/nature -styled alignments that various groups will rally around.
 
-> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> **u/xamueljones** [+3]  *My arch-enemy is entropy* (an hour later)
 > 
 > > How dark and deadly would you want this world of Medics and Magics to be?
+> 
 > Depends, are you planning on mostly having Osler play around with and learn about ways to ~~abuse~~ use biological abilities? Keep it light-hearted and funny. Is he trying to catch a criminal? Make it mildly dark with a fair amount of danger. Is he trying to actually cure a plague? Make it ***grimdark***. *Anyone* can die from disease. I recommend killing off Xavien, if he becomes Osler's best friend or his love interest if he has one in the middle of the investigation. In real life, there's no such thing as plot armor. In a rational fic, that should also apply. Although, the logical extension is to kill off Osler halfway through the plot-line, I get that would be too hard to maintain the story, but everyone else is open game. Don't just kill off the NPCs, the more player deaths, the better. For example, Wildbow's character deaths in his books are part of what makes it such a gripping story.
+> 
 > > How much mystery should I reveal on stage vs keep behind the curtain?
+> 
 > Eeeeh, this is your call to make, but let Osler's thoughts and motivations be transparent at all times since he's the main character. Go with whatever works best for you.
+> 
 > > Other reactions, thoughts or comments?
+> 
 > I'd strongly suggest combining enhanced smell and taste into one race, because the two senses tend to be strongly linked. I'm imagining a race of wolf shape-shifters who have extremely good noses and tongues. Since you seem to want abilities that can be exploited for medical gains, dogs are known to be able to detect [changes in blood sugar levels](http://en.wikipedia.org/wiki/Medical_response_dog) and even [cancer cells](http://www.pbs.org/wnet/nature/dogs-that-changed-the-world-medical-dogs/1277/).
 > This way you can still take advantage of introducing medical knowledge in terms of how one can detect disease early.
 > They can be extremely focused on the past, since they rely on understanding people through their scent which indicates past actions and feelings. This encourages strong traditions and keeping grudges for a long time. They are very good trackers, very at noticing subtle clues, loyal, and group-orientated.
 > I'd imagine that they would think like a wolf in wolf-form as a way of giving them a weakness, since all of the races mentioned have a weakness of some sort.
-> Thanks for such an interesting story idea. I had fun thinking of advice or suggestions to give.
 > 
+> Thanks for such an interesting story idea. I had fun thinking of advice or suggestions to give.
 
->> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (an hour later)
 >> 
 >> Thanks!  I was listening to Writing Excuses, Sanderson's podcast and they had a recent episode on "killing off characters."  I'm figuring that if this is going to be about discovery, Xavien will probably die after the first act like Obi-Wan Kenobi.  And there won't be a Yoda.  Going full grimdark might make it Games of Thronesy with a brutal end by a lynch mob... or tragedy of the caregiver like Father Damien.
+>> 
 >> http://en.m.wikipedia.org/wiki/Father_Damien
 >> (I'm from Hawaii, so I realize this reference to a Catholic priest who dies of leprosy after helping a leper colony may be obscure.  I'm also realizing why I crossed the names Xavier and Damien unconsciously when I came up with the idea of "recruiting for a new medical school" in my first iteration of this story!)
->> 
 
->>> **u/autowikibot** [+1] *
+>>> **u/autowikibot** [+1]  (an hour later)
 >>> 
 >>> #####&#009;
+>>> 
 >>> ######&#009;
+>>> 
 >>> ####&#009;
 >>>  [**Father Damien**](https://en.wikipedia.org/wiki/Father%20Damien): [](#sfw) 
->>> ---
->>> >__Father Damien__ or __Saint Damien of Molokaʻi, [SS.CC.](https://en.wikipedia.org/wiki/Congregation_of_the_Sacred_Hearts_of_Jesus_and_Mary)__ or __Saint Damien de Veuster__ ([Dutch](https://en.wikipedia.org/wiki/Dutch_language): *Pater Damiaan* or *Heilige Damiaan van Molokai*, [Hawaiian](https://en.wikipedia.org/wiki/Hawaiian_language): *Pāpā Kamiano o Molokaʻi*; January 3, 1840 – April 15, 1889),  born __Jozef De Veuster__, was a [Roman](https://en.wikipedia.org/wiki/Roman_Catholic_(term\)) [Catholic](https://en.wikipedia.org/wiki/Catholic_Church) [priest](https://en.wikipedia.org/wiki/Priesthood_(Catholic_Church\)) from [Belgium](https://en.wikipedia.org/wiki/Belgium) and member of the [Congregation of the Sacred Hearts of Jesus and Mary](https://en.wikipedia.org/wiki/Congregation_of_the_Sacred_Hearts_of_Jesus_and_Mary),  a [missionary](https://en.wikipedia.org/wiki/Missionary) [religious institute](https://en.wikipedia.org/wiki/Religious_institute). He won recognition for his ministry in the [Kingdom of Hawaiʻi](https://en.wikipedia.org/wiki/Kingdom_of_Hawaii) to people with [leprosy](https://en.wikipedia.org/wiki/Leprosy) (also known as Hansen's disease), who had been placed under a government-sanctioned medical quarantine on the island of [Molokaʻi](https://en.wikipedia.org/wiki/Molokai). 
->>> >====
->>> >[**Image from article**](https://i.imgur.com/1ycJqcs.jpg) [^(i)](https://commons.wikimedia.org/wiki/File:Father_Damien,_photograph_by_William_Brigham.jpg)
->>> ---
->>> ^Interesting: [^Molokai: ^The ^Story ^of ^Father ^Damien](https://en.wikipedia.org/wiki/Molokai:_The_Story_of_Father_Damien) ^| [^Father ^Damien ^Statue](https://en.wikipedia.org/wiki/Father_Damien_Statue) ^| [^John ^M. ^Systermans](https://en.wikipedia.org/wiki/John_M._Systermans) ^| [^Tremelo](https://en.wikipedia.org/wiki/Tremelo) 
->>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cmmthxk) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cmmthxk)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 >>> 
+>>> ---
+>>> 
+>>> >__Father Damien__ or __Saint Damien of Molokaʻi, [SS.CC.](https://en.wikipedia.org/wiki/Congregation_of_the_Sacred_Hearts_of_Jesus_and_Mary)__ or __Saint Damien de Veuster__ ([Dutch](https://en.wikipedia.org/wiki/Dutch_language): *Pater Damiaan* or *Heilige Damiaan van Molokai*, [Hawaiian](https://en.wikipedia.org/wiki/Hawaiian_language): *Pāpā Kamiano o Molokaʻi*; January 3, 1840 – April 15, 1889),  born __Jozef De Veuster__, was a [Roman](https://en.wikipedia.org/wiki/Roman_Catholic_(term\)) [Catholic](https://en.wikipedia.org/wiki/Catholic_Church) [priest](https://en.wikipedia.org/wiki/Priesthood_(Catholic_Church\)) from [Belgium](https://en.wikipedia.org/wiki/Belgium) and member of the [Congregation of the Sacred Hearts of Jesus and Mary](https://en.wikipedia.org/wiki/Congregation_of_the_Sacred_Hearts_of_Jesus_and_Mary),  a [missionary](https://en.wikipedia.org/wiki/Missionary) [religious institute](https://en.wikipedia.org/wiki/Religious_institute). He won recognition for his ministry in the [Kingdom of Hawaiʻi](https://en.wikipedia.org/wiki/Kingdom_of_Hawaii) to people with [leprosy](https://en.wikipedia.org/wiki/Leprosy) (also known as Hansen's disease), who had been placed under a government-sanctioned medical quarantine on the island of [Molokaʻi](https://en.wikipedia.org/wiki/Molokai). 
+>>> 
+>>> >====
+>>> 
+>>> >[**Image from article**](https://i.imgur.com/1ycJqcs.jpg) [^(i)](https://commons.wikimedia.org/wiki/File:Father_Damien,_photograph_by_William_Brigham.jpg)
+>>> 
+>>> ---
+>>> 
+>>> ^Interesting: [^Molokai: ^The ^Story ^of ^Father ^Damien](https://en.wikipedia.org/wiki/Molokai:_The_Story_of_Father_Damien) ^| [^Father ^Damien ^Statue](https://en.wikipedia.org/wiki/Father_Damien_Statue) ^| [^John ^M. ^Systermans](https://en.wikipedia.org/wiki/John_M._Systermans) ^| [^Tremelo](https://en.wikipedia.org/wiki/Tremelo) 
+>>> 
+>>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cmmthxk) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cmmthxk)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 
->> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (2 hours later)
 >> 
 >> Re:shapeshifter wolves - that's basically going to be the werewolf idea I have.  Werewolves will be more natural and feral, whereas vampires will be more refined and haughty, but their powers will definitely overlap with taste, smell and chemesthesis.  Vamps will basically be the equivalent of a Coulter Counter if you're familiar with lab equipment.
->> Frankly, we don't know much about how smell actually works from my research on the subject poking around casually on Google (it mostly links to trash pop-articles on how dogs smell things) that I have a hard time even conceptualizing what that super sense would be like.  (Maybe Professor Farnsworth is onto something big with his Smell-O-Scope.)
->> http://en.m.wikipedia.org/wiki/Coulter_counter
 >> 
+>> Frankly, we don't know much about how smell actually works from my research on the subject poking around casually on Google (it mostly links to trash pop-articles on how dogs smell things) that I have a hard time even conceptualizing what that super sense would be like.  (Maybe Professor Farnsworth is onto something big with his Smell-O-Scope.)
+>> 
+>> http://en.m.wikipedia.org/wiki/Coulter_counter
 
->>> **u/Timewinders** [+2] *
+>>> **u/Timewinders** [+2]  (7 hours later)
 >>> 
 >>> You could give the vampires an infrared-sensing ability like in vampire bats and snakes. That would allow them to detect warm parts of the body, ones with more blood flow.
->>> 
 
->>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (a day later)
 >>>> 
 >>>> Hell yeah!  That makes so much sense.  There's no reason that these creatures would be limited to one super sense!  I'll probably introduce characters with multiple powers later on so people will be eased into it.
->>>> 
 
->>> **u/MugaSofer** [+1] *
+>>> **u/MugaSofer** [+1]  (3 days later)
 >>> 
 >>> It strikes me that werewolves are clearly a subset of trolls - with their superhuman noses - that has [become infectious](http://en.wikipedia.org/wiki/Clonally_transmissible_cancer), like that old joke about eating troll meat.
->>> 
 
->>>> **u/autowikibot** [+1] *
+>>>> **u/autowikibot** [+1]  (3 days later)
 >>>> 
 >>>> #####&#009;
+>>>> 
 >>>> ######&#009;
+>>>> 
 >>>> ####&#009;
 >>>>  [**Clonally transmissible cancer**](https://en.wikipedia.org/wiki/Clonally%20transmissible%20cancer): [](#sfw) 
->>>> ---
->>>> >
->>>> >A __parasitic cancer__ or __transmissible cancer__ is a [cancer](https://en.wikipedia.org/wiki/Cancer) cell or cluster of cancer cells that can be transmitted from animal to animal. They are quite rare in both animals and humans. Parasitic cancers are distinct from cancers caused by infectious agents such as viruses and bacteria, which are more common.
->>>> >
->>>> ---
->>>> ^Interesting: [^Allograft ^diseases](https://en.wikipedia.org/wiki/Allograft_diseases) ^| [^Cancer ^cell](https://en.wikipedia.org/wiki/Cancer_cell) ^| [^Canine ^transmissible ^venereal ^tumor](https://en.wikipedia.org/wiki/Canine_transmissible_venereal_tumor) ^| [^Mir-19 ^microRNA ^precursor ^family](https://en.wikipedia.org/wiki/Mir-19_microRNA_precursor_family) 
->>>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cmpxn3h) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cmpxn3h)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 >>>> 
+>>>> ---
+>>>> 
+>>>> >
+>>>> 
+>>>> >A __parasitic cancer__ or __transmissible cancer__ is a [cancer](https://en.wikipedia.org/wiki/Cancer) cell or cluster of cancer cells that can be transmitted from animal to animal. They are quite rare in both animals and humans. Parasitic cancers are distinct from cancers caused by infectious agents such as viruses and bacteria, which are more common.
+>>>> 
+>>>> >
+>>>> 
+>>>> ---
+>>>> 
+>>>> ^Interesting: [^Allograft ^diseases](https://en.wikipedia.org/wiki/Allograft_diseases) ^| [^Cancer ^cell](https://en.wikipedia.org/wiki/Cancer_cell) ^| [^Canine ^transmissible ^venereal ^tumor](https://en.wikipedia.org/wiki/Canine_transmissible_venereal_tumor) ^| [^Mir-19 ^microRNA ^precursor ^family](https://en.wikipedia.org/wiki/Mir-19_microRNA_precursor_family) 
+>>>> 
+>>>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+cmpxn3h) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+cmpxn3h)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
 
->>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (3 days later)
 >>>> 
 >>>> not as "clear" to me... but the idea of infectious cancer is absolutely terrifying!
->>>> 
 
-> **u/alexanderwales** [+2]  *Time flies like an arrow**
+> **u/alexanderwales** [+2]  *Time flies like an arrow* (17 hours later)
 > 
 > Huh, I'd totally forgotten about that thread. Anyway ...
-> > How dark and deadly would you want this world of Medics and Magics to be?
-> I like my worlds dark and deadly, but my *stories* somewhat less so. So it's totally fine if there's a zombie apocalypse that's wiped out 99% of humanity, but I don't really want to read about people raping and killing each other and getting slowly ground down as they inevitably betray and sabotage one another while they get overrun by the living dead. Instead, I want a story where people find safe havens and rebuild - where there's still some heroism, and where that heroism isn't universally punished. I like dark worlds that aren't so damned cynical about things, if that makes sense. It's a matter of personal preference though.
-> > How much mystery should I reveal on stage vs keep behind the curtain?
-> If you're listening to the Writing Excuses podcasts, then I'll assume that you already know Sanderson's Laws for magic. If the powers are being used to solve problems, the reader needs to understand the powers (though my preference is to see the power in action once or twice before it's probably explained). An antagonists powers don't need much in the way of explanation, but I think it's generally good if they have some limits so that the audience doesn't feel like you're copping out. Generally speaking, infodumps are boring, and people don't like them, so if you're revealing things, do it in some clever way (like two people arguing with each other about some manner of specifics), incidentally (while someone is using their power), or in bits and pieces.
-> > biopunk
-> Aside from super senses, what do you mean by biopunk? When I hear the phrase, I'm imagining transhuman stuff (or transhumanoid in your case, I guess). Subdermal implants, augmented biology, grafted limbs, transplanted eyeballs, etc. The "punk" aspect is about that sort of grittiness - carved bone and jacked muscles. Are we using the term in the same sense?
 > 
+> > How dark and deadly would you want this world of Medics and Magics to be?
+> 
+> I like my worlds dark and deadly, but my *stories* somewhat less so. So it's totally fine if there's a zombie apocalypse that's wiped out 99% of humanity, but I don't really want to read about people raping and killing each other and getting slowly ground down as they inevitably betray and sabotage one another while they get overrun by the living dead. Instead, I want a story where people find safe havens and rebuild - where there's still some heroism, and where that heroism isn't universally punished. I like dark worlds that aren't so damned cynical about things, if that makes sense. It's a matter of personal preference though.
+> 
+> > How much mystery should I reveal on stage vs keep behind the curtain?
+> 
+> If you're listening to the Writing Excuses podcasts, then I'll assume that you already know Sanderson's Laws for magic. If the powers are being used to solve problems, the reader needs to understand the powers (though my preference is to see the power in action once or twice before it's probably explained). An antagonists powers don't need much in the way of explanation, but I think it's generally good if they have some limits so that the audience doesn't feel like you're copping out. Generally speaking, infodumps are boring, and people don't like them, so if you're revealing things, do it in some clever way (like two people arguing with each other about some manner of specifics), incidentally (while someone is using their power), or in bits and pieces.
+> 
+> > biopunk
+> 
+> Aside from super senses, what do you mean by biopunk? When I hear the phrase, I'm imagining transhuman stuff (or transhumanoid in your case, I guess). Subdermal implants, augmented biology, grafted limbs, transplanted eyeballs, etc. The "punk" aspect is about that sort of grittiness - carved bone and jacked muscles. Are we using the term in the same sense?
 
->> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (a day later)
 >> 
 >> I read The Mistborn series last year and read about the Laws of Magic then -- I'll have track back to the podcast episodes that they talk explicitly about it though!
->> Behind the curtain, it IS biopunk.  Except that civilization crashed and burned about 800 years prior.  So... I guess it is post-biopunk or proto-biopunk depending on how you look at it.  The ancient magic items are going to be the types of devices you are talking about in a different guise.
->> Similarly, the super senses are amplified sensory organs powered by new magical organelles (not quite nanotechnology, but microbiological genetic technology.)
->> If I use Worm as an example, this would have to be a late reveal by a creator, since the characters would not be privy to any of this advanced knowledge.
 >> 
+>> Behind the curtain, it IS biopunk.  Except that civilization crashed and burned about 800 years prior.  So... I guess it is post-biopunk or proto-biopunk depending on how you look at it.  The ancient magic items are going to be the types of devices you are talking about in a different guise.
+>> 
+>> Similarly, the super senses are amplified sensory organs powered by new magical organelles (not quite nanotechnology, but microbiological genetic technology.)
+>> 
+>> If I use Worm as an example, this would have to be a late reveal by a creator, since the characters would not be privy to any of this advanced knowledge.
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (a day later)
 >>> 
 >>> So if you wanted to have wizards in your setting, then they could be the humans who were alive before the fall. They would have used their mastery over biology to make themselves immortal and the long, long years have forced them into towers of isolation where they spend the decades fruitlessly trying to recreate the miracles of the past.
->>> It's not a very rational behavior for them, but it's a way for you to have near immortal sorcerers. You could limit them by only allowing them to be wealthy citizens who received all sorts of post-human perks but don't actually have the knowledge or skill to recreate it to give to others.
 >>> 
+>>> It's not a very rational behavior for them, but it's a way for you to have near immortal sorcerers. You could limit them by only allowing them to be wealthy citizens who received all sorts of post-human perks but don't actually have the knowledge or skill to recreate it to give to others.
 
->>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar* (3 days later)
 >>>> 
 >>>> Wizards will probably only exist as mere shadows of their former selves as genetic content and possibly psi-content that can be triggered through deep knowledge of certain books... sort of like a horcrux of Roger Bacon's diary.
->>>> 
 
 ---
 

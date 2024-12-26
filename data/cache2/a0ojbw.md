@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://delphicserial.com/2018/11/26/chapter-22-2/
-* Score: 21
+* Score: 20
 
 * Created: 2018-11-26T22:50:08
 
@@ -12,28 +12,27 @@
 
 ### Comments:
 
-> **u/twentysevenhamsters** [+9] *
+> **u/twentysevenhamsters** [+8]  (15 hours later)
 > 
 > Heh.  Dude hires an investigation team and forgets to tell them what to investigate, so they investigate him instead...
-> 
 
-> **u/JanusTheDoorman** [+7] *
+> **u/JanusTheDoorman** [+7]  (an hour later)
 > 
 > Hmmm....
-> Obviously spilling all his secrets to Day 1 new hires isn't the smartest thing is the world, but there's more than a few issues that will arise from Hector trying to keep his own team in the dark about his abilities and their limitations if that's going to be his strict policy going forward. Especially since Matti appears to have already snagged onto the connection between Hector and Delphic and one of their first hires appears to be the bookish equivalent of a super-detective.
 > 
+> Obviously spilling all his secrets to Day 1 new hires isn't the smartest thing is the world, but there's more than a few issues that will arise from Hector trying to keep his own team in the dark about his abilities and their limitations if that's going to be his strict policy going forward. Especially since Matti appears to have already snagged onto the connection between Hector and Delphic and one of their first hires appears to be the bookish equivalent of a super-detective.
 
-> **u/HPMOR_fan** [+3] *
+> **u/HPMOR_fan** [+3]  (4 hours later)
 > 
 > I enjoy the Inc. plot thread.
-> >She certainly could peak my interest.
-> Should be pique, not peak.
 > 
+> >She certainly could peak my interest.
+> 
+> Should be pique, not peak.
 
->> **u/None** [+3] *
+>> **u/None** [+3]  (4 hours later)
 >> 
 >> Fixed, thank you.
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/_casaubon_  *Rationalist Zombocom**
 * URL: https://www.reddit.com/r/rational/comments/4bkzfg/hsf_cixin_lius_remembrance_of_earths_past_trilogy/
-* Score: 11
+* Score: 10
 
 * Created: 2016-03-23T03:47:27
 
@@ -22,30 +22,25 @@ There is one idea in the book in particular which was...worrying: it's solution 
 
 ### Comments:
 
-> **u/GlueBoy** [+5]  *anti-skub**
+> **u/GlueBoy** [+5]  *anti-skub* (an hour later)
 > 
 > I second the recommendation, I read the first book and I quite liked it. It was a novel perspective on chinese culture, and left me really curious about the development of their sci fi, their influences and so on. As you said, there were some awkward moments, and I was unsure if it was lost in translation or what, but overall a good read.
-> 
 
-> **u/areiamus** [+5] *
+> **u/areiamus** [+6]  (8 hours later)
 > 
 > Deleted on 1 July 2023 after Reddit's API changes. -- mass edited with redact.dev
-> 
 
->> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (4 days later)
 >> 
 >> Considering I listened to it on audible, in English.  I think he already has.
->> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (14 days later)
 >> 
 >> The second book has a different translator, but I believe Ken Liu is translating the third book.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (14 days later)
 > 
 > I really enjoyed the first two books, can't wait for the translation of the third this fall.
-> 
 
 ---
 

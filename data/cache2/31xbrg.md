@@ -22,280 +22,295 @@ Can you survive without going mad? Is there a productive and "heroic" thing you 
 
 ### Comments:
 
-> **u/blazinghand** [+20]  *Chaos Undivided**
+> **u/blazinghand** [+19]  *Chaos Undivided* (45 minutes later)
 > 
 > Assuming that we handwave away things like inability to move, and say that somehow your caloric needs are the same (which is to say, real time, rather than you-time) so basically you just have 3600 hours of free time for every hour that passes in real life, and you don't need to eat, sleep, etc during that time, then we have a start. 
-> This will also ignore issues like being able to open/close doors, and so on. We will not ignore issues of computers, though. Computer use will basically be impossible, and you'll be much better off walking to libraries, or doing original research yourself, than using computers for most things.
-> The first thing you'll need to do is look up things like abacus and mechanical calculators that are hand-operated. Slide rulers would be good. We're assuming your aura of "this object starts operating by my physics rather than realtime physics" extends to things you're touching (which is reasonable because you need to be able to move your clothes and open doors and stuff without causing instant plasma and fusion). So we start experimenting and looking for the largest objects you can interact with and "pull" into your physics.
-> We'll do things to track time within our physics, too. A mechanical watch kept pressed against the skin, perhaps. 
-> If we can get a mechanical typewriter working, that's great. With an abacus, a slide ruler, a mechanical calculator (if it works) and a mechanical typewriter, we're ready to get started living. First off, although the internet is right out, there's tons of reading to do. Take all the time you never had to read and learn literature, physics, philosophy, life sciences, and history. Go and see the sights. Do what you want. 
-> Take time and read more. Get the equivalent of bachelor's degree level knowledge in all the fields you can think of, and go further in as many as you can. Become the impossible modern polymath. Learn to read and write in all the major languages, and ancient ones, too.
-> Read encyclopedias and textbooks. Learn indexing. Learn library science and paper organization methods.
-> Begin your career. Write. Write fiction and nonfiction and philosophy and art. Write science. Write your experiences.
-> Index everything carefully and present it well. Tables of contents, careful bookbinding, summary papers, documents, and even summary books will be important. If you want, start by translating texts and documents between Mandarin and English. Or just go where your mind takes you. Write a dozen books, a hundred, a thousand, ten thousand, write until everything has been said, and then some. Carefully catalog everything and make summaries. Make the diligent indexing nature of your work, the process, and the orderliness itself part of your nature. Know that when you lose your mind, you will lose it to order, not chaos. Decree that when you do imperceptibly go over to the madness, you preserve your early works. 
-> Let your insanity be the insanity of right angles and catalog cards and preservation, rather than destruction.
-> All this learning, all this writing, it's the work of an entire life, more than entire life. You'll be an expert in every subject matter, and have written more than any human ever has. The task before you, the total cataloging and synthesis of humankind's knowledge, is monumental. None would dare even begin to try it alone, armed with only mechanical tools. This doesn't bother you, though. 
-> You have all the time in the world.
 > 
+> This will also ignore issues like being able to open/close doors, and so on. We will not ignore issues of computers, though. Computer use will basically be impossible, and you'll be much better off walking to libraries, or doing original research yourself, than using computers for most things.
+> 
+> The first thing you'll need to do is look up things like abacus and mechanical calculators that are hand-operated. Slide rulers would be good. We're assuming your aura of "this object starts operating by my physics rather than realtime physics" extends to things you're touching (which is reasonable because you need to be able to move your clothes and open doors and stuff without causing instant plasma and fusion). So we start experimenting and looking for the largest objects you can interact with and "pull" into your physics.
+> 
+> We'll do things to track time within our physics, too. A mechanical watch kept pressed against the skin, perhaps. 
+> 
+> If we can get a mechanical typewriter working, that's great. With an abacus, a slide ruler, a mechanical calculator (if it works) and a mechanical typewriter, we're ready to get started living. First off, although the internet is right out, there's tons of reading to do. Take all the time you never had to read and learn literature, physics, philosophy, life sciences, and history. Go and see the sights. Do what you want. 
+> 
+> Take time and read more. Get the equivalent of bachelor's degree level knowledge in all the fields you can think of, and go further in as many as you can. Become the impossible modern polymath. Learn to read and write in all the major languages, and ancient ones, too.
+> 
+> Read encyclopedias and textbooks. Learn indexing. Learn library science and paper organization methods.
+> 
+> Begin your career. Write. Write fiction and nonfiction and philosophy and art. Write science. Write your experiences.
+> 
+> Index everything carefully and present it well. Tables of contents, careful bookbinding, summary papers, documents, and even summary books will be important. If you want, start by translating texts and documents between Mandarin and English. Or just go where your mind takes you. Write a dozen books, a hundred, a thousand, ten thousand, write until everything has been said, and then some. Carefully catalog everything and make summaries. Make the diligent indexing nature of your work, the process, and the orderliness itself part of your nature. Know that when you lose your mind, you will lose it to order, not chaos. Decree that when you do imperceptibly go over to the madness, you preserve your early works. 
+> 
+> Let your insanity be the insanity of right angles and catalog cards and preservation, rather than destruction.
+> 
+> All this learning, all this writing, it's the work of an entire life, more than entire life. You'll be an expert in every subject matter, and have written more than any human ever has. The task before you, the total cataloging and synthesis of humankind's knowledge, is monumental. None would dare even begin to try it alone, armed with only mechanical tools. This doesn't bother you, though. 
+> 
+> You have all the time in the world.
 
->> **u/sephlington** [+5] *
+>> **u/sephlington** [+5]  (56 minutes later)
 >> 
 >> Why are you limited to mechanical tools? If a mechanical watch on your wrist functions, why shouldn't a digital watch? If you can extend the time aura over an abacus, why not a calculator? If a mechanical typewriter, why not a word processor on a ~~computer~~ laptop? 
->> The *internet* would be glacial, but you can use digital equipment offline. It is possible.
 >> 
+>> The *internet* would be glacial, but you can use digital equipment offline. It is possible.
 
->>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>> **u/blazinghand** [+4]  *Chaos Undivided* (an hour later)
 >>> 
 >>> I'm assuming you can only directly transfer like, force or something, and winding a watch counts as doing that.
->>> 
 
->>>> **u/LeonCross** [+2] *
+>>>> **u/LeonCross** [+2]  (an hour later)
 >>>> 
 >>>> That's the idea, yeah.
->>>> Extrapolating, even at 3600x subjectively slower, computer calculations -should- be faster than mechanical ones, right?
->>>> Or is the issue that there exists no interface that would work well for you without it being specifically designed as such? I'm not sure what, say, the response rate is on the fastest keyboard / mouse that currently exists.
 >>>> 
+>>>> Extrapolating, even at 3600x subjectively slower, computer calculations -should- be faster than mechanical ones, right?
+>>>> 
+>>>> Or is the issue that there exists no interface that would work well for you without it being specifically designed as such? I'm not sure what, say, the response rate is on the fastest keyboard / mouse that currently exists.
 
->>>>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>>>> **u/blazinghand** [+4]  *Chaos Undivided* (an hour later)
 >>>>> 
 >>>>> A high-end gaming keyboard could have a polling rate of like 1000hz, which would be about 4 seconds. If you set that up with a very fast-polling gaming mouse and a fast computer running a lightweight linux (hopefully you already have one, otherwise it's probably faster to steal one) you could make something happen. one keystroke per 4 seconds, or 15 keystrokes per minute, would let you program, but you'd still be very slow. If you were smart about it and planned out your programming carefully, a computer running in realtime could definitely help you.
->>>>> 
 
->>>>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+>>>>>> **u/PeridexisErrant** [+7]  *put aside fear for courage, and death for life* (3 hours later)
 >>>>>> 
 >>>>>> Besides interesting questions about what this does to language choice and the tradeoff between CPU and programmer time...
->>>>>> I'd be willing to bet that you could get to a 'normal' response speed by throwing enough money at the computer, though it would look like something from a past era.  Custom-built keyboard and mouse.  Lightweight/realtime custom Linux distro.  240Hz monitor for color, and a custom CRT for real-time-to-you monochrome terminal interface.  With care and a good deal of money, I'm confident you could get about a 1995 computer (with better software etc) at 3,600 times normal speed.
 >>>>>> 
+>>>>>> I'd be willing to bet that you could get to a 'normal' response speed by throwing enough money at the computer, though it would look like something from a past era.  Custom-built keyboard and mouse.  Lightweight/realtime custom Linux distro.  240Hz monitor for color, and a custom CRT for real-time-to-you monochrome terminal interface.  With care and a good deal of money, I'm confident you could get about a 1995 computer (with better software etc) at 3,600 times normal speed.
 
->>>>>>> **u/eaglejarl** [+2] *
+>>>>>>> **u/eaglejarl** [+2]  (9 hours later)
 >>>>>>> 
 >>>>>>> Could you build all of that on your own, though? Right down to the level of the chips? Because if Intel designed a new chip for you and set up a new production line as fast as humanly possible--let's say a year, soup to nuts--that would be about three and a half millennia to you.
->>>>>>> 
 
->>>>>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life**
+>>>>>>>> **u/PeridexisErrant** [+3]  *put aside fear for courage, and death for life* (9 hours later)
 >>>>>>>> 
 >>>>>>>> For a million dollars, I could probably do it in a week.
->>>>>>>> The core is just standard-but-expensive desktop hardware - it's special because of crazy-high-speed peripherals and special software, which you can substantially write yourself if available options aren't enough.
 >>>>>>>> 
+>>>>>>>> The core is just standard-but-expensive desktop hardware - it's special because of crazy-high-speed peripherals and special software, which you can substantially write yourself if available options aren't enough.
 
->>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>> **u/eaglejarl** [+2]  (12 hours later)
 >>>>>>>>> 
 >>>>>>>>> I suspect there are people who, if you knocked on their door with such a device, would pay you a million dollars.
->>>>>>>>> 
 
->>>>>>>>>> **u/PeridexisErrant** [+6]  *put aside fear for courage, and death for life**
+>>>>>>>>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life* (13 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> I've recently designed a similar computer tower for my local bio/ecology lab - the brief was "our software needs more cycles thrown at it".  And it actually does need that, being bound by storage, io, memory, CPU, and GPU; it's the kind of hardware that you usually look at and decide there's never going to be a case where the marginal performance is worth the difference.  Except when used for structure-from-motion processing of forest-scale image sets, and VR visualisation for the resulting data, that is.
->>>>>>>>>> 
 
->>>>>>> **u/qznc** [+1]  *Chaos Legion**
+>>>>>>> **u/qznc** [+1]  *Chaos Legion* (9 hours later)
 >>>>>>> 
 >>>>>>> 240Hz means 15 seconds per frame in you-time.
->>>>>>> https://www.youtube.com/watch?v=HwbRhfhWHLU
->>>>>>> LCD seems more bearable than CRT?
 >>>>>>> 
+>>>>>>> https://www.youtube.com/watch?v=HwbRhfhWHLU
+>>>>>>> 
+>>>>>>> LCD seems more bearable than CRT?
 
->>>>>> **u/LeonCross** [+1] *
+>>>>>> **u/LeonCross** [+1]  (2 hours later)
 >>>>>> 
 >>>>>> Neat.
->>>>>> 
 
->>>>>> **u/DCarrier** [+1] *
+>>>>>> **u/DCarrier** [+1]  (7 hours later)
 >>>>>> 
 >>>>>> Couldn't you just build your own keyboard with chips that run faster?
->>>>>> 
 
->>>>>>> **u/blazinghand** [+1]  *Chaos Undivided**
+>>>>>>> **u/blazinghand** [+1]  *Chaos Undivided* (8 hours later)
 >>>>>>> 
 >>>>>>> Easier said than done, since designing and building chips probably involves a ton of testing and waiting for chemical reactions to happen or something. 
->>>>>>> More importantly the max rate of 1,000 Hz is based off of the max polling rate of the USB standard. You'd need to find a standard port that polls faster. Thunderbolt might, or maybe you could find a mouse that somehow plugs directly into a PCIe slot or comes with its own custom expansion card that does the same. 
->>>>>>> Older motherboards used to have Serial or Parallel ports on their backpanels, which might have a faster polling rate.
 >>>>>>> 
+>>>>>>> More importantly the max rate of 1,000 Hz is based off of the max polling rate of the USB standard. You'd need to find a standard port that polls faster. Thunderbolt might, or maybe you could find a mouse that somehow plugs directly into a PCIe slot or comes with its own custom expansion card that does the same. 
+>>>>>>> 
+>>>>>>> Older motherboards used to have Serial or Parallel ports on their backpanels, which might have a faster polling rate.
 
->>>>>>>> **u/DCarrier** [+1] *
+>>>>>>>> **u/DCarrier** [+1]  (9 hours later)
 >>>>>>>> 
 >>>>>>>> You don't need to build new chips. There already are chips that run fast enough. You just need to use different chips. You'll likely need to program them, giving a chicken-and-the-egg problem, but if we're doing long term you could just hire someone else to program them for you.
->>>>>>>> If you're already building your own keyboard, I don't think wiring it directly into the computer will be that much of an additional problem.
 >>>>>>>> 
+>>>>>>>> If you're already building your own keyboard, I don't think wiring it directly into the computer will be that much of an additional problem.
 
->>>>>>>>> **u/blazinghand** [+1]  *Chaos Undivided**
+>>>>>>>>> **u/blazinghand** [+1]  *Chaos Undivided* (9 hours later)
 >>>>>>>>> 
 >>>>>>>>> i think "wiring it directly into the computer" is probably beyond the scope of my knowledge, but from what I know, making it so inputs interact well and quickly with the computer is a question of a bunch of different standards and architectures interacting and is fairly complicated. It's possible polling faster than 1000Hz is trivial using current standards and the lack of literature mostly has to do with the fact that nobody currently chars (heh) about typing that quickly.
->>>>>>>>> I'm sure this is possible, just expect it to be a ton of work and expect to spend a ton of time reading sheets on i/o standards
->>>>>>>>> In any case, point is that actual computer speed isn't the issue, it's things like bus speed for certain things (or I guess i/o speed for the hdd if you're using that instead of an ssd) or polling rate for peripherals and monitors that's the problem
 >>>>>>>>> 
+>>>>>>>>> I'm sure this is possible, just expect it to be a ton of work and expect to spend a ton of time reading sheets on i/o standards
+>>>>>>>>> 
+>>>>>>>>> In any case, point is that actual computer speed isn't the issue, it's things like bus speed for certain things (or I guess i/o speed for the hdd if you're using that instead of an ssd) or polling rate for peripherals and monitors that's the problem
 
->>>>>>>>>> **u/DCarrier** [+1] *
+>>>>>>>>>> **u/DCarrier** [+1]  (9 hours later)
 >>>>>>>>>> 
 >>>>>>>>>> The bigger issue might be the monitor itself. It's a pretty specialized piece of hardware, and I don't know if it's feasible to make one with a 1000 Hz refresh rate. The fastest that I can find is 144 Hz, which works out to one refresh every 25 subjective seconds. On the other hand, as long as you're a careful typist one frame every 25 seconds might be sufficient.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>>>>>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (12 hours later)
 >>>>>>>>>>> 
 >>>>>>>>>>> You can get 240Hz screens, which gives you a 15 second per slide sequence.
->>>>>>>>>>> I think it might be possible to do something very much faster with more analogue inputs, but it's obviously a rare use case.
 >>>>>>>>>>> 
+>>>>>>>>>>> I think it might be possible to do something very much faster with more analogue inputs, but it's obviously a rare use case.
 
->>>>>>>>>>>> **u/DCarrier** [+1] *
+>>>>>>>>>>>> **u/DCarrier** [+1]  (21 hours later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> You could also use much lower resolution. It's not like you'll get good graphics regardless, and learning a new alphabet wouldn't take very long in the scheme of things so you could do things like have LEDs in sets of six that display Braille.
->>>>>>>>>>>> 
 
->>> **u/Geminii27** [+1] *
+>>> **u/Geminii27** [+1]  (14 hours later)
 >>> 
 >>> A laptop might be workable, but there's the matter of power requirements. How often are you going to need to change the battery? How many batteries and chargers are you going to need charging continuously in slow-time to keep your fast-time laptop going? Or would you transfer power via specialized hardware (laser system with safety cutouts etc)? What will the power draw be for that location? What will the cost of electricity be?
->>> Comms... *should* be feasible. If you were only writing plain text, and were a reasonably experienced typist (as you would most likely become), you'd be punching out maybe 5Kbps on the keyboard, 15-20Mbps slow-side. The problem is when your laptop comms chips are running 3600x as fast as the receiving corresponding chips outside the effect. You'd either need custom "slow" hardware plugged into the laptop, or you'd have to do all your communication via something like USB drive - upload your writing, plug it into a port on another machine, move until that machine is out of your effect. Assuming USB3.1 drives at 10Gbps, and assuming you can get half that rate as a transfer speed, the drive could still upload in slow-time a couple hundred times as fast as you could type in fast-time. That's plenty of wiggle room for adding in things which aren't just plain text.
->>> In fact, your major bottleneck would be your internet speed. If you could set up a server which handled the store-and-forward aspects, and had Google Fiber speeds (~1Gbps), that would translate to you *effectively* having at least a few hundred kilobit. Old ISDN speeds, more or less, and of course the lag for anything would be dozens of minutes to hours, but it would still be a viable communication channel, even if not exactly a real-time one from your perspective.
->>> You could send and receive email, even if it took subjective years for people to respond. You could browse websites (probably with images switched off, a lot of filters active, and by massive prefetching and cache stuffing on the slow side, but it'd be *possible*), although you'd probably have to give up things like noodling idly through Imgur. Non-image-based subreddits should still be workable-if-slow in text mode, for instance. And you could preload all links in image-heavy subs and come back in a day or three.
->>> You might never be able to communicate in person face to face with anyone ever again, but you could write, you could send and receive photos, and you might even be able to do the same with short videos if you were patient. Even so, it'd be like living in a frozen solitary confinement jail cell the size of the planet. I imagine you'd be able to temporarily pull small animals into the area effect (hopefully without damage going in or out), so you'd at least get to pet kittens and puppies if you wanted, but would the effect be large enough to encompass an entire additional human being?
 >>> 
+>>> Comms... *should* be feasible. If you were only writing plain text, and were a reasonably experienced typist (as you would most likely become), you'd be punching out maybe 5Kbps on the keyboard, 15-20Mbps slow-side. The problem is when your laptop comms chips are running 3600x as fast as the receiving corresponding chips outside the effect. You'd either need custom "slow" hardware plugged into the laptop, or you'd have to do all your communication via something like USB drive - upload your writing, plug it into a port on another machine, move until that machine is out of your effect. Assuming USB3.1 drives at 10Gbps, and assuming you can get half that rate as a transfer speed, the drive could still upload in slow-time a couple hundred times as fast as you could type in fast-time. That's plenty of wiggle room for adding in things which aren't just plain text.
+>>> 
+>>> In fact, your major bottleneck would be your internet speed. If you could set up a server which handled the store-and-forward aspects, and had Google Fiber speeds (~1Gbps), that would translate to you *effectively* having at least a few hundred kilobit. Old ISDN speeds, more or less, and of course the lag for anything would be dozens of minutes to hours, but it would still be a viable communication channel, even if not exactly a real-time one from your perspective.
+>>> 
+>>> You could send and receive email, even if it took subjective years for people to respond. You could browse websites (probably with images switched off, a lot of filters active, and by massive prefetching and cache stuffing on the slow side, but it'd be *possible*), although you'd probably have to give up things like noodling idly through Imgur. Non-image-based subreddits should still be workable-if-slow in text mode, for instance. And you could preload all links in image-heavy subs and come back in a day or three.
+>>> 
+>>> You might never be able to communicate in person face to face with anyone ever again, but you could write, you could send and receive photos, and you might even be able to do the same with short videos if you were patient. Even so, it'd be like living in a frozen solitary confinement jail cell the size of the planet. I imagine you'd be able to temporarily pull small animals into the area effect (hopefully without damage going in or out), so you'd at least get to pet kittens and puppies if you wanted, but would the effect be large enough to encompass an entire additional human being?
 
->> **u/Terkala** [+1] *
+>> **u/Terkala** [+1]  (23 hours later)
 >> 
 >> Computer use could be extremely viable. Simply steal "ie: walk in and take and then leave" a few dozen computers. Set them all up in a single room whee they can all be used at once. You could read a huge number of things online by utilizing multiple machines to do the lookups asynchronously. Most sites load in ~0.5 seconds on a modern machine. That's a 30 minute wait. Also, scrolling via pageup/down would take at most a minute or two. Slower than most people are used to, but within a reasonably speed.
->> Also, you could emulate a much older machine and play older games that way. Some of them can run at tens of thousands of frames per second. You may have to write your own controller software for a keyboard that uses capacitance changes to trigger keypresses though.
 >> 
+>> Also, you could emulate a much older machine and play older games that way. Some of them can run at tens of thousands of frames per second. You may have to write your own controller software for a keyboard that uses capacitance changes to trigger keypresses though.
 
-> **u/alexanderwales** [+12]  *Time flies like an arrow**
+> **u/alexanderwales** [+13]  *Time flies like an arrow* (an hour later)
 > 
 > I had a guy like that in a superhero setting that never really got off the ground. His super-speed just sort of got stuck, and the physics of it was such that it just seemed like everything was moving really slowly.
-> So yeah, assuming that you can still interact with the world in a meaningful way, then you're golden. My guy set up special computer monitors for himself so that he could view them without the refresh rate making it unintelligible, and of course there are lots of books to read. He used tape recorders to leave messages for people, and special equipment to speed up speech to the level that he could actually hear it. His ability to respond nigh-instantly to local disasters made him a hero - he could rush into a burning building and extract people from it (suiting up in milliseconds to avoid smoke inhalation). He could respond to gunshots as soon as they happened through the microphone system around the city. And he could kill anyone who really deserved it by slitting their throat, which meant that he didn't *need* mach speed punches.
-> He didn't actually have an immunity to starvation though, so much of his effort was put towards fulfilling his ~x3,600 dietary needs. His other big problem was staying sane - mostly accomplished through having tons and tons of pen pals (that were, from their perspective, communicating in realtime).
 > 
+> So yeah, assuming that you can still interact with the world in a meaningful way, then you're golden. My guy set up special computer monitors for himself so that he could view them without the refresh rate making it unintelligible, and of course there are lots of books to read. He used tape recorders to leave messages for people, and special equipment to speed up speech to the level that he could actually hear it. His ability to respond nigh-instantly to local disasters made him a hero - he could rush into a burning building and extract people from it (suiting up in milliseconds to avoid smoke inhalation). He could respond to gunshots as soon as they happened through the microphone system around the city. And he could kill anyone who really deserved it by slitting their throat, which meant that he didn't *need* mach speed punches.
+> 
+> He didn't actually have an immunity to starvation though, so much of his effort was put towards fulfilling his ~x3,600 dietary needs. His other big problem was staying sane - mostly accomplished through having tons and tons of pen pals (that were, from their perspective, communicating in realtime).
 
->> **u/LeonCross** [+2] *
+>> **u/LeonCross** [+2]  (an hour later)
 >> 
 >> hm. I guess eating for 3,600 people would be an issue in of itself.
->> 
 
->>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>> **u/alexanderwales** [+8]  *Time flies like an arrow* (an hour later)
 >>> 
 >>> Yeah, if you figure that a person spends maybe $240 a week on food, that means that the food budget for the year is $45 million, which is a whole lot of money. Depending on what the hero does though, he might be worth it (he's definitely worth it if he's the only one with any superpowers).
->>> Logistically speaking, he needs to eat every eight real-world seconds, which is a bigger issue. I imagine pallets of MREs and bottled water disappearing at a steady rate from his base of operations. The logistics of waste management are also something to consider - the average person urinates 0.8 liters to 2.0 liters per day, which becomes a torrent when it's happening at 3,600 speed. Special facilities are required for our protagonist.
 >>> 
+>>> Logistically speaking, he needs to eat every eight real-world seconds, which is a bigger issue. I imagine pallets of MREs and bottled water disappearing at a steady rate from his base of operations. The logistics of waste management are also something to consider - the average person urinates 0.8 liters to 2.0 liters per day, which becomes a torrent when it's happening at 3,600 speed. Special facilities are required for our protagonist.
 
->>>> **u/want_to_want** [+6] *
+>>>> **u/want_to_want** [+7]  (14 hours later)
 >>>> 
 >>>> Our protagonist needs the same amount of facilities as 3600 regular people. That's not too much. An army base would suit him fine, and in a big city he'd be a rounding error.
->>>> There are other problems, though.
->>>> 1) What about breathing? Ambient air pressure won't supply you with enough air in time. Without special equipment, you suffocate immediately. With special equipment, everyone around you is going to experience some strong air currents.
->>>> 2) What about heat transfer? The molecules around you are moving 3600 times slower. That feels the same as a near-absolute-zero environment, so you quickly freeze to death. If you counteract that by making your power act as a heat source, then the people standing next to you are cooked in seconds.
->>>> 3) What about the shockwaves that follow you wherever you go? Your walking speed is supersonic. Sure, try standing still for a moment. You're still moving your chest when you breathe, and your heart is still beating. That's already a staggering amount of sound energy escaping every second, because it scales with the square of speed. And God forbid you clap your hands!
->>>> 4) What about traction? Gravity is 3600 times weaker. Making a normal step throws you kilometers up, and jumping takes you to orbit. You're also leaving large gashes in any surface you try to walk on, even diamond.
->>>> 5) What about material objects, like clothes? Let's be generous and say the superpower is transferred by touch, and then cancelled when the touch stops. That means touching any object, including the ground, will create shrapnel that can kill bystanders. At least the ones who are not already dead due to points 1-3.
->>>> 6) What about interacting with bigger objects? Pop quiz, what happens when you try to open a door? Depending on how far your superpower is transferred, you might melt the door handle, or rip the lock out of the door, or blast the door off the hinges, or any number of other things.
->>>> All in all, this superpower turns you into a human-sized wrecking ball, which moves impossibly fast and constantly emits deadly amounts of noise, heat, and shrapnel. A kind of self-propelled explosion.
 >>>> 
+>>>> There are other problems, though.
+>>>> 
+>>>> 1) What about breathing? Ambient air pressure won't supply you with enough air in time. Without special equipment, you suffocate immediately. With special equipment, everyone around you is going to experience some strong air currents.
+>>>> 
+>>>> 2) What about heat transfer? The molecules around you are moving 3600 times slower. That feels the same as a near-absolute-zero environment, so you quickly freeze to death. If you counteract that by making your power act as a heat source, then the people standing next to you are cooked in seconds.
+>>>> 
+>>>> 3) What about the shockwaves that follow you wherever you go? Your walking speed is supersonic. Sure, try standing still for a moment. You're still moving your chest when you breathe, and your heart is still beating. That's already a staggering amount of sound energy escaping every second, because it scales with the square of speed. And God forbid you clap your hands!
+>>>> 
+>>>> 4) What about traction? Gravity is 3600 times weaker. Making a normal step throws you kilometers up, and jumping takes you to orbit. You're also leaving large gashes in any surface you try to walk on, even diamond.
+>>>> 
+>>>> 5) What about material objects, like clothes? Let's be generous and say the superpower is transferred by touch, and then cancelled when the touch stops. That means touching any object, including the ground, will create shrapnel that can kill bystanders. At least the ones who are not already dead due to points 1-3.
+>>>> 
+>>>> 6) What about interacting with bigger objects? Pop quiz, what happens when you try to open a door? Depending on how far your superpower is transferred, you might melt the door handle, or rip the lock out of the door, or blast the door off the hinges, or any number of other things.
+>>>> 
+>>>> All in all, this superpower turns you into a human-sized wrecking ball, which moves impossibly fast and constantly emits deadly amounts of noise, heat, and shrapnel. A kind of self-propelled explosion.
 
->>>> **u/LeonCross** [+1] *
+>>>> **u/LeonCross** [+1]  (2 hours later)
 >>>> 
 >>>> Well. He could just use a river. Assuming around 60 seconds to use do your business, that's 16 miliseconds real time. Hardly enough time to be indecent even if you couldn't find somewhere secluded.
->>>> 
 
->>>>> **u/qznc** [+2]  *Chaos Legion**
+>>>>> **u/qznc** [+2]  *Chaos Legion* (9 hours later)
 >>>>> 
 >>>>> Wouldn't the urine slow down once it stops being connected? Then he can piss there again before the last drop hits the floor. :)
->>>>> 
 
->> **u/DCarrier** [+2] *
+>> **u/DCarrier** [+2]  (9 hours later)
 >> 
 >> If he has super efficiency, he doesn't need to eat that much. If he doesn't have super efficiency, he has waste heat that he has to deal with. And if he's not fireproof, you have to keep him at a survivable temperature while draining that much heat.
->> 
 
-> **u/thequizzicaleyebrow** [+6] *
+> **u/thequizzicaleyebrow** [+8]  (an hour later)
 > 
 > Well, it's not entirely your scenario, but the first couple chapters of [this](http://docfuture.tumblr.com/post/34152071413/flicker-phone-tag) completed web serial do a good job of showing how potenitally powerful this ability could be. Your hero wouldn't be nearly that fast, but some of the ideas still work. In particular, a high speed computer to do google searches for you sounds like a good idea. Building it in the first place would be a pain, but worth after it let you interact with the internet.
-> 
 
->> **u/sourcejedi** [+1] *
+>> **u/sourcejedi** [+1]  (23 hours later)
 >> 
 >> Neat story, thanks!
->> Maybe other people would find it interesting enough to merit a thread of its own.
 >> 
+>> Maybe other people would find it interesting enough to merit a thread of its own.
 
->> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm* (3 days later)
 >> 
 >> Well there goes my midnight bedtime.  2AM is not looking good either, and I was going to finish a compiler and a research paper tomo- , eh today.
->> 
 
-> **u/Sparkwitch** [+6] *
+> **u/Sparkwitch** [+7]  (22 minutes later)
 > 
 > If only my perceptions are sped up, then yes I can imagine going mad almost instantly. Being stuck in a body 3600 times slower than my mind would be intellectually excruciating. A single day would feel like almost ten years. Traveling across a street at a run would take subjective hours.
-> Worse, there'd be 3600 times less light with which to view everything... probably less given that visible light would hit my eyes with a frequency like deep radio and what few higher frequency emissions the sun produces, the atmosphere likes to block. Sound would be just as warped and diminished, frequency so low as to be inaudible. Deaf and blind, I'd be sense-limited to taste, smell, and touch. With the temporal difficulties I would find myself profoundly alone.
-> Speeding up my body only helps a little, since now my mass would be travelling with great momentum and my blind flailings would be terrifyingly destructive. If I can be destroyed, I would be, by any force for good and mercy the world could manage.
 > 
+> Worse, there'd be 3600 times less light with which to view everything... probably less given that visible light would hit my eyes with a frequency like deep radio and what few higher frequency emissions the sun produces, the atmosphere likes to block. Sound would be just as warped and diminished, frequency so low as to be inaudible. Deaf and blind, I'd be sense-limited to taste, smell, and touch. With the temporal difficulties I would find myself profoundly alone.
+> 
+> Speeding up my body only helps a little, since now my mass would be travelling with great momentum and my blind flailings would be terrifyingly destructive. If I can be destroyed, I would be, by any force for good and mercy the world could manage.
 
->> **u/E-o_o-3** [+3] *
+>> **u/E-o_o-3** [+5]  (7 hours later)
 >> 
 >> You should still be able to see. The retina isn't sped up. The frequency of what effects the photosensitive molecule doesn't change. And I mean, for the sake of the story you have to assume the body accommodates basic sensory and motor stuff to remain mostly functional. (If not, you immediately die of hyperventilation)
->> Also, why would you *ever* walk down a street? It's not like you urgently need to extend your life expectancy by exercising, it's already really long in subjective time. (If you must - sprint on a treadmill for 10 minutes and work simultaneously, you've got the motor coordination for it)
->>  People will accommodate you once they know what you can do. Gadgets to make communication and writing keep up better with your faster motor control. Maybe you can talk to 1000 people simultaneously for company, it won't be the same but it's something, akin to getting several letters  everyday in the mail.
->> Except for the extra lifespan, it wouldn't be as good as normal, but it wouldn't be hell either. I'd consider it. Maybe if I work hard enough I can speed up others too, I have lifespans to learn. It would not be fun in the short run but it would be for the greater good.
->> I imagine for a personality more quiet and introverted than mine it wouldn't be so bad at all.
 >> 
+>> Also, why would you *ever* walk down a street? It's not like you urgently need to extend your life expectancy by exercising, it's already really long in subjective time. (If you must - sprint on a treadmill for 10 minutes and work simultaneously, you've got the motor coordination for it)
+>> 
+>>  People will accommodate you once they know what you can do. Gadgets to make communication and writing keep up better with your faster motor control. Maybe you can talk to 1000 people simultaneously for company, it won't be the same but it's something, akin to getting several letters  everyday in the mail.
+>> 
+>> Except for the extra lifespan, it wouldn't be as good as normal, but it wouldn't be hell either. I'd consider it. Maybe if I work hard enough I can speed up others too, I have lifespans to learn. It would not be fun in the short run but it would be for the greater good.
+>> 
+>> I imagine for a personality more quiet and introverted than mine it wouldn't be so bad at all.
 
->>> **u/DCarrier** [+2] *
+>>> **u/DCarrier** [+2]  (9 hours later)
 >>> 
 >>> > Also, why would you ever walk down a street?
->>> It could take days for people to set up your work rig. Do you expect to just sit there twiddling your thumbs for subjective decades while you wait?
 >>> 
+>>> It could take days for people to set up your work rig. Do you expect to just sit there twiddling your thumbs for subjective decades while you wait?
 
-> **u/andor3333** [+2] *
+> **u/andor3333** [+2]  (5 hours later)
 > 
 > I imagine with the food budget Alexanderwales mentioned, there would be issues with cost. You would need a lucrative job if you didn't want to steal.
-> Government work is an option here. Logistics is your superpower. Imagine if the moment a crisis happened you could instantly upon receiving the information collate all the information on what has happened and get everything needed to all the right people. 
-> Basically set it up so in any potential situation needing a rapid response people can contact you through an email or message system. As soon as they get the message off you're on the scene and everyone who needs to knows about it through exhaustively documented reports. It won't probably work for instant disasters like bombs, but it works for lots of other things. Examples are tornados, terrorist attacks, flash floods, wars, espionage, intelligence coordination (You would be terrifying at this).
 > 
+> Government work is an option here. Logistics is your superpower. Imagine if the moment a crisis happened you could instantly upon receiving the information collate all the information on what has happened and get everything needed to all the right people. 
+> 
+> Basically set it up so in any potential situation needing a rapid response people can contact you through an email or message system. As soon as they get the message off you're on the scene and everyone who needs to knows about it through exhaustively documented reports. It won't probably work for instant disasters like bombs, but it works for lots of other things. Examples are tornados, terrorist attacks, flash floods, wars, espionage, intelligence coordination (You would be terrifying at this).
 
-> **u/DCarrier** [+2] *
+> **u/DCarrier** [+2]  (7 hours later)
 > 
 > Isn't this basically just Quicksilver?
-> 
 
->> **u/GopherAtl** [+1] *
+>> **u/GopherAtl** [+1]  (9 hours later)
 >> 
 >> this is almost exactly Quicksilver. I recall an amusing issue of X-Factor from the early/mid 90s where the team was subjected to therapy, and in the time it took the shrink to ask a question, Quicksilver completed a 1000-piece jigsaw puzzle conveniently laid out on a table in the doctor's office. As I recall, the therapist concluded that he was "surprisingly sane, considering," or something to that effect. Though it's a legitimate question of whether he could *actually* remain sane or not, existing that way, and marvel comics are not, on the whole, particularly rationalist.
->> 
 
->> **u/Toptomcat** [+1] *
+>> **u/Toptomcat** [+1]  (22 hours later)
 >> 
 >> ...if the premise of Quicksilver were *actually taken seriously* and extended to all its logical conclusions. Which is what this subreddit is about in a nutshell, really.
->> 
 
->>> **u/DCarrier** [+1] *
+>>> **u/DCarrier** [+1]  (a day later)
 >>> 
 >>> Except for all the conclusions about instant death.
->>> 
 
-> **u/Toptomcat** [+2] *
+> **u/Toptomcat** [+2]  (22 hours later)
 > 
 > >So your power effects physics enough that nothing crazy happens there. 
-> If what's happening to your body is, subjectively and from your perspective, 'nothing crazy', then something *quite extraordinarily* crazy is in fact going on with the underlying physics. Differential time rates between observers without a substantial gravitational gradient or velocity difference is simply Not Allowed.
-> The question I'd be trying hardest to answer is: just what the *hell* is going on with my body? How can it possibly be doing what it appears to be doing? What's the nature of the effect, what is its *boundary*? If I swallow a watch, does it start running 3600 times faster? Is gravity accelerating me downwards at 36,000 m/s/s? If so why don't I hit the ground with unfathomably horrific force from a twelve-inch jump, and if not why can't I [jump into orbit](https://www.wolframalpha.com/input/?i=%28escape+velocity%29%2F3600)? If I spit, does my *saliva* fall at ten meters per second per second or at thirty-six thousand m/s/s?
-> The prospect of running experiments with water clocks filled with my own excreta is not an appealing one, but I could easily see it being necessary.
-> >Is there a productive and "heroic" thing you can use this power for?
-> Ultimately, if you can figure out what makes you ageless and apply it to another person, you have just cured Death. And if you can figure out how to harness and manipulate the time-acceleration phenomenon that applies to you, you've just given mankind an almost unimaginably powerful technology.
 > 
+> If what's happening to your body is, subjectively and from your perspective, 'nothing crazy', then something *quite extraordinarily* crazy is in fact going on with the underlying physics. Differential time rates between observers without a substantial gravitational gradient or velocity difference is simply Not Allowed.
+> 
+> The question I'd be trying hardest to answer is: just what the *hell* is going on with my body? How can it possibly be doing what it appears to be doing? What's the nature of the effect, what is its *boundary*? If I swallow a watch, does it start running 3600 times faster? Is gravity accelerating me downwards at 36,000 m/s/s? If so why don't I hit the ground with unfathomably horrific force from a twelve-inch jump, and if not why can't I [jump into orbit](https://www.wolframalpha.com/input/?i=%28escape+velocity%29%2F3600)? If I spit, does my *saliva* fall at ten meters per second per second or at thirty-six thousand m/s/s?
+> 
+> The prospect of running experiments with water clocks filled with my own excreta is not an appealing one, but I could easily see it being necessary.
+> 
+> >Is there a productive and "heroic" thing you can use this power for?
+> 
+> Ultimately, if you can figure out what makes you ageless and apply it to another person, you have just cured Death. And if you can figure out how to harness and manipulate the time-acceleration phenomenon that applies to you, you've just given mankind an almost unimaginably powerful technology.
 
-> **u/deccan2008** [+1] *
+> **u/deccan2008** [+1]  (8 hours later)
 > 
 > Now imagine someone whose mind works 3,600 times faster, but whose body (including senses like eye saccades) still works at normal speed.
-> 
 
-> **u/Farmerbob1** [+1]  *Level 1 author**
+> **u/Farmerbob1** [+1]  *Level 1 author* (17 hours later)
 > 
 > I don't think you would be able to avoid going at least a little mad.
-> The only things you could interact with that would be fast enough to not bore you would be high end computers, and even then, any sort of internet lag would be intolerable.  You certainly would need a different kind of monitor though.  60Hz just isn't going to cut it.  Fluorescent lights are similarly not good.  You will spend a lot of your life in the dark unless you use incandescent lights.
-> I'm not entirely certain about how LED lights and LED monitors might work.
-> You would likely gravitate into a Google facility, and start programming for a living between page refreshes on reddit.
 > 
+> The only things you could interact with that would be fast enough to not bore you would be high end computers, and even then, any sort of internet lag would be intolerable.  You certainly would need a different kind of monitor though.  60Hz just isn't going to cut it.  Fluorescent lights are similarly not good.  You will spend a lot of your life in the dark unless you use incandescent lights.
+> 
+> I'm not entirely certain about how LED lights and LED monitors might work.
+> 
+> You would likely gravitate into a Google facility, and start programming for a living between page refreshes on reddit.
 
-> **u/ancientcampus** [+1]  *juggling kittens**
+> **u/ancientcampus** [+1]  *juggling kittens* (23 hours later)
 > 
 > I did a play-by-post Mutants and Masterminds rpg following such a hero, which went on for 5 years. Only my character had it worse to start - only his mind was sped up. Fortunately, he was able to get a mental computer interface surgically installed (which exist in that universe, though it's prohibitively expensive for most). He probably still would have gone mad anyways, but he happened to befriend the internet - or rather, a virus that was designed to capitalize on computer downtime worldwide to build a supercomputer, and somehow went sentient. Jane from the Ender sequels, if you will.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > Well, once you get past the obvious things, like finding a natural disaster and hauling people out of it...
 > I would go somewhere quiet, somewhere away from people, and spend a few months appreciating the beauty of a still and silent world. Got to find something I can come to terms with living as, and I think a hermit would do just fine.
@@ -306,20 +321,19 @@ Can you survive without going mad? Is there a productive and "heroic" thing you 
 > Bullets move at about 3.5 kph. Do as you see fit.
 > You could go around for a while just finding people doing interesting things and helping them.
 > And, of course, with effective immortality, you could make some really neat things. Cover entire cities in beautiful graffiti. Assassinate corrupt political figures. Build something that can fly.
-> 
 
-> **u/MrCogmor** [+1] *
+> **u/MrCogmor** [+1]  (a day later)
 > 
 > That is essentially the superpower of a guy in this fic
 > https://www.fanfiction.net/s/9733439/1/Hope-Comes-to-Brockton-Bay
-> 
 
-> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> **u/mhd-hbd** [+1]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'* (7 days later)
 > 
 > >He has no transport. If he wants to travel, he has to travel in a conventional car or train or bus or plain. But the field might accommodate a bicycle. And in theory he can run for as far as he likes. He can take a full night's sleep inside the envelope and be vulnerable only for a second. He can walk into a building and kill everybody inside it just by waving a finger through each throat, and be out of the building and a mile away before anybody can blink, leaving just shattered doors torn into pieces like this steel plate and a hundred people all falling and hitting the ground at once.
-> > This is not a comic book. Somebody shoots a bullet at him? He just walks around it-- if he sees it coming. Someone sneaks up on him? As soon as he feels something touching the back of his head, an iron bar, let's say, he can go to high speed mode and duck or dodge it. A trip-wire? From his perspective, he runs into it at regular pace and hits the ground like any normal human. It's not fatal, he recovers in a second. An explosion? He walks away from it and watches it happen. We're at T plus ten minutes and democracy in this country is over.
-> &mdash; [Ground Effect](http://qntm.org/ground)
 > 
+> > This is not a comic book. Somebody shoots a bullet at him? He just walks around it-- if he sees it coming. Someone sneaks up on him? As soon as he feels something touching the back of his head, an iron bar, let's say, he can go to high speed mode and duck or dodge it. A trip-wire? From his perspective, he runs into it at regular pace and hits the ground like any normal human. It's not fatal, he recovers in a second. An explosion? He walks away from it and watches it happen. We're at T plus ten minutes and democracy in this country is over.
+> 
+> &mdash; [Ground Effect](http://qntm.org/ground)
 
 ---
 

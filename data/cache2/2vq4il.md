@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+3] *
+> **u/None** [+3]  (19 minutes later)
 > 
 > And now the Sequences have been completed, we're embarking on a tour of Slate Star Codex! Choo choo, hype train taking off for the mooon!
-> 
 
 ---
 

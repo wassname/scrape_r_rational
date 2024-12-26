@@ -128,221 +128,221 @@ And they Girl Powered on till morning.
 
 ### Comments:
 
-> **u/timecubefanfiction** [+45] *
+> **u/timecubefanfiction** [+47]  (4 minutes later)
 > 
 > I want to write literary essays about *Strong Female Protagonist* but I don’t know where to post them so I have to disguise them as rationalist fanfiction :(
-> Is this the first SFP fanfiction? Is there an award that comes with that? *Is this the first and only time in history that rationalist fiction has preceded smut in a fandom?*
 > 
+> Is this the first SFP fanfiction? Is there an award that comes with that? *Is this the first and only time in history that rationalist fiction has preceded smut in a fandom?*
 
->> **u/SvalbardCaretaker** [+20]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+20]  *Mouse Army* (an hour later)
 >> 
 >> Theres [Megagirl comes to Brockton Bay](https://forums.spacebattles.com/threads/mega-girl-comes-to-brockton-bay-worm-strong-female-protagonist.535414/#post-36024148), sadly abandoned.
->> 
 
->>> **u/immortal_lurker** [+24] *
+>>> **u/immortal_lurker** [+23]  (7 hours later)
 >>> 
 >>> Worm seems like the worst crossover for SFP. yes, they both fall within the broad umbrella of 'realistic Cape story', but they go opposite directions with it. Worm realizes that in order for superheroes to make any kind of sense, the world has to be much, much more violent than it is. So you get nazis and conflict drives. SFP decides to investigate what happens to all these super powerful individuals when violence doesn't make sense but the world still has problems.
->>> Allison loses everything interesting about her character if punching harder is what's needed to resolve the problems in the story.
->>> Similarly, Worm loses most of what makes it interesting if someone is able to punch hard enough to solve its problems without moral compromise.
->>> With this crossover, you can't tell a SFP story until all the problems from the Worm setting are resolved, and you can't tell a proper Worm story until Allison starts getting outclassed, which won't happen until at least Leviathan.
 >>> 
+>>> Allison loses everything interesting about her character if punching harder is what's needed to resolve the problems in the story.
+>>> 
+>>> Similarly, Worm loses most of what makes it interesting if someone is able to punch hard enough to solve its problems without moral compromise.
+>>> 
+>>> With this crossover, you can't tell a SFP story until all the problems from the Worm setting are resolved, and you can't tell a proper Worm story until Allison starts getting outclassed, which won't happen until at least Leviathan.
 
->> **u/Aqua-dabbing** [+34] *
+>> **u/Aqua-dabbing** [+31]  (2 hours later)
 >> 
 >> That was good. Why don't you post your literary essays here, too?
->> > Do you know lots and lots of math?”
->> > “No.”
->> > “Do you wish to learn?”
->> > “No.”
->> > “Then the level of change you seek will probably not be available to you; the universe will not respect your desires enough.
->> That's kind of weird, lots of people changed the world not by figuring out the fundamental rules of the universe, but by figuring out some rules about human behaviour (and exploiting them). In principle math is good for that, but in practice they used abstractions that we can't easily encode into math just yet.
 >> 
+>> > Do you know lots and lots of math?”
+>> 
+>> > “No.”
+>> 
+>> > “Do you wish to learn?”
+>> 
+>> > “No.”
+>> 
+>> > “Then the level of change you seek will probably not be available to you; the universe will not respect your desires enough.
+>> 
+>> That's kind of weird, lots of people changed the world not by figuring out the fundamental rules of the universe, but by figuring out some rules about human behaviour (and exploiting them). In principle math is good for that, but in practice they used abstractions that we can't easily encode into math just yet.
 
->>> **u/lepus-parvulus** [+4] *
+>>> **u/lepus-parvulus** [+2]  (21 hours later)
 >>> 
 >>> You need math to discern the association between effects and their causes.  Psychology is a statistics-heavy field.
->>> 
 
-> **u/NightmareWarden** [+12]  *Church of the Broken God**
+> **u/NightmareWarden** [+12]  *Church of the Broken God* (6 hours later)
 > 
 > I don’t suppose the protagonist that brought up “breaking the wheel” was in [Kill Six Billion Demons](https://killsixbilliondemons.com/about/) (webcomic) rather than Game of Thrones?
-> 
 
-> **u/ArgusTheCat** [+19] *
+> **u/ArgusTheCat** [+19]  (30 minutes later)
 > 
 > If she’s only that much walrus, then she’s objectively not human. Human DNA would have something like 40% overlap with a walrus.
-> 
 
->> **u/DangerouslyUnstable** [+13] *
+>> **u/DangerouslyUnstable** [+12]  (8 hours later)
 >> 
 >> Lol, yes, but we could be generous and assume that the percentages are the amount of match to human/walrus unique genetic markers, as opposed to the common genetic markers shared by large numbers of organisms.
->> 
 
->> **u/timecubefanfiction** [+23] *
+>> **u/timecubefanfiction** [+22]  (11 hours later)
 >> 
 >> The entire reason I can't write rational fiction is that I'll never let the facts get in the way of a joke.
->> 
 
->>> **u/ArgusTheCat** [+7] *
+>>> **u/ArgusTheCat** [+7]  (11 hours later)
 >>> 
 >>> Honestly?  That's probably for the best.  I like the joke more than I think I'd like the absence of the joke in favor of rationalism.
->>> 
 
->> **u/MilesSand** [+3] *
+>> **u/MilesSand** [+3]  (21 hours later)
 >> 
 >> But what if we treat the overlap as a superposition of both until the remaining DNA is observed, at which point the  superpositioned portion collapses into whichever side otherwise wins.
->> In simpler terms, 0.0001% of her DNA is definitely not human but a close match for a walrus.
 >> 
+>> In simpler terms, 0.0001% of her DNA is definitely not human but a close match for a walrus.
 
->> **u/DrMaridelMolotov** [+6] *
+>> **u/DrMaridelMolotov** [+6]  (3 hours later)
 >> 
 >> Yeah technically we’re 70% banana
->> 
 
->>> **u/MagicHamsta** [+3] *
+>>> **u/MagicHamsta** [+3]  (7 hours later)
 >>> 
 >>> All we have to do is wait for a mild mannered scientist to unlock the awesome banana potential of his genes and become a banana themed superhero.
->>> 
 
->>>> **u/Brilliant-North-1693** [+3] *
+>>>> **u/Brilliant-North-1693** [+3]  (17 hours later)
 >>>> 
 >>>> *pickle
->>>> 
 
->>> **u/MilesSand** [+5] *
+>>> **u/MilesSand** [+5]  (21 hours later)
 >>> 
 >>> * Bananas are radioactive.
->>> * Skeletons are radioactive.
->>> * 70% of humans' existence is spent as a skeleton.
->>> Pack it up bois it checks out
 >>> 
+>>> * Skeletons are radioactive.
+>>> 
+>>> * 70% of humans' existence is spent as a skeleton.
+>>> 
+>>> Pack it up bois it checks out
 
-> **u/LeifCarrotson** [+16] *
+> **u/LeifCarrotson** [+16]  (7 hours later)
 > 
 > > Or rather, if we accept the hypothesis offered by several philosophers that super powers exist in our world because our world is a fictional one created to tell a compelling story...
+> 
 > I took a few philosophy courses, and this wouldn't be even close to the weirdest causal chain and hypothesis I've heard a philosopher propose, but how does anyone arrive at 
+> 
 > "Super powers exist"  
 > "Super powers create compelling stories"  
 > ∴ "We live in a fictional world"  
+> 
 > as a reasonable argument?  If "Creates compelling stories" is a reason to be in a fictional world, then:
+> 
 > "All kinds of fictional settings can be imagined by authors in our world"  
 > "Authors use those fictional settings to write compelling stories"  
 > ∴ "We live in a meta-fictional world"   
-> Now we just need to wait for Mega Girl to realize this and decide to take up writing inspirational rationalist super-duper-powered fanfiction as a means of changing the world at all possible levels above her fictional world. 
-> Also, I couldn't help but imagine this as the face of Strong Female Protractor:
-> https://i.imgur.com/toEJka4.png
 > 
+> Now we just need to wait for Mega Girl to realize this and decide to take up writing inspirational rationalist super-duper-powered fanfiction as a means of changing the world at all possible levels above her fictional world. 
+> 
+> Also, I couldn't help but imagine this as the face of Strong Female Protractor:
+> 
+> https://i.imgur.com/toEJka4.png
 
-> **u/ConscientiousPath** [+6] *
+> **u/ConscientiousPath** [+7]  (18 hours later)
 > 
 > >underwear libertarians
-> who are they and how do I join?
 > 
+> who are they and how do I join?
 
->> **u/cae_jones** [+5] *
+>> **u/cae_jones** [+6]  (a day later)
 >> 
 >> I was wondering the same thing. In context of the rest, I'm tentatively guessing people who where their underwear on the outside, aka comicbook heros/villains. Although there could be many other behaviors / ideals that fit that label...
->> 
 
->> **u/Autochton** [+1] *
+>> **u/Autochton** [+1]  (5 months later)
 >> 
 >> That is unfortunately just a referenco the events in the original story.
->> 
 
-> **u/CouteauBleu** [+7]  *We are the Empire.**
+> **u/CouteauBleu** [+8]  *We are the Empire.* (2 days later)
 > 
 > > “Lots of people are being ruled by dictators right now, and you could just go in and punch the dictators into paste, and everyone would know you would do that so no one would want to be a dictator anymore, and while that wouldn’t solve all the world’s problems, it would be a big improvement.”
-> Huuum... that's extremely debatable?
-> Leaving aside any parallels to existing US foreign policy, it's not like individual dictators are the source of all government problems.
-> General corruption, and a general absence of security and public goods that leads to a prevalence of protection rackets, gang violence and police brutality are *extremely* common problems, that absolutely cannot be solved by targeted assassinations.
 > 
+> Huuum... that's extremely debatable?
+> 
+> Leaving aside any parallels to existing US foreign policy, it's not like individual dictators are the source of all government problems.
+> 
+> General corruption, and a general absence of security and public goods that leads to a prevalence of protection rackets, gang violence and police brutality are *extremely* common problems, that absolutely cannot be solved by targeted assassinations.
 
->> **u/TrebarTilonai** [+2] *
+>> **u/TrebarTilonai** [+2]  (4 days later)
 >> 
 >> Reminds me of this: https://www.oglaf.com/politics/
->> 
 
-> **u/thereisnojellyworld** [+6] *
+> **u/thereisnojellyworld** [+6]  (2 days later)
 > 
 > If someone knew how to change the world, they wouldn't be doing it all by themselves because the world is big and they are small. Instead they'd be starting easily understood, easily scalable and easily replicatable social domino effects.
-> And writing an easy to read, entertaining narrative showing people how someone would go about building an instance of such a beneficial cultural-economic memetic virus that can spread through humans themselves, would be an excellent way of actually creating that cultural-economic memetic virus.
-> When a rationalist says: "ideas good enough to change the world can't spread memetically because they're too complex and nuanced for the average idiot to grasp" that says more about their own maps of other people's minds than the actual territory of those minds.
 > 
+> And writing an easy to read, entertaining narrative showing people how someone would go about building an instance of such a beneficial cultural-economic memetic virus that can spread through humans themselves, would be an excellent way of actually creating that cultural-economic memetic virus.
+> 
+> When a rationalist says: "ideas good enough to change the world can't spread memetically because they're too complex and nuanced for the average idiot to grasp" that says more about their own maps of other people's minds than the actual territory of those minds.
 
-> **u/PastafarianGames** [+10] *
+> **u/PastafarianGames** [+10]  (9 hours later)
 > 
 > > “You can’t become a—there’s no such thing as a professional Dungeons and Dragons player.”
-> Immersion: broken!
-> I kid, I kid. This was entertaining!
 > 
+> Immersion: broken!
+> 
+> I kid, I kid. This was entertaining!
 
->> **u/fljared** [+15]  *United Federation of Planets**
+>> **u/fljared** [+14]  *United Federation of Planets* (14 hours later)
 >> 
 >> You'll never guess what the writer of SFP does
->> 
 
-> **u/ConscientiousPath** [+5] *
+> **u/ConscientiousPath** [+5]  (18 hours later)
 > 
 > >Maybe the mom could be an elementary school teacher and the dad a social worker. Jobs that take an education but not too much education
-> Unfortunately both of those examples, currently as a matter of law, take far too much education. I like that in your fictional world they don't.
 > 
+> Unfortunately both of those examples, currently as a matter of law, take far too much education. I like that in your fictional world they don't.
 
-> **u/DangerouslyUnstable** [+8] *
+> **u/DangerouslyUnstable** [+7]  (8 hours later)
 > 
 > >Lisa spread out her arms. “Alison, being super strong is a great way to change the world. You know why? Because super strength doesn’t exist. If there was an easy way to change the world, someone would have done it by now. Or rather, the world is already changed by the superpowers we’re all born with. The Greeks understood this: the fire from the gods that represents human intelligence is a superpower. Not only can it change the world, it has changed the world. We can lift cars over our heads, it’s called an airplane. We can shoot lasers into people’s eyes to fix their vision. And thanks to working from home, we can wear underwear on the outside of our pants and no one can say anything about it. No one built any of that alone.”
-
-> I am very confused by what this paragraph is supposed to mean. Taken together with the subsequent paragraph about living in a fictional world....none of that means that her superpowers don't exist. They still do within the confines/strictures of the world they inhabit. And it starts out by saying that "super strength would be a great way to change the world, but it can't because it doesn't exist, but also, if it could, it already would have because we can already do those things with technology", which, in addition to being contradictory, I just don't agree with. There is value and power in being able to combine abilities into a single package. To make a trivial example, a modern smartphone is _so much more useful/powerful_ than carrying around a separate phone, calculator, camera, audio recorder, compass, etc. etc. etc. _because it's all in a single package_. 
-> And more broadly, I'm not sure I get what the overall message of this short story is. It's clearly meant to communicate _something_, I'm just not sure if it's supposed to be some kind of critique of SFP, or of superhero stories more broadly, or how to change the world, or what.
 > 
+> I am very confused by what this paragraph is supposed to mean. Taken together with the subsequent paragraph about living in a fictional world....none of that means that her superpowers don't exist. They still do within the confines/strictures of the world they inhabit. And it starts out by saying that "super strength would be a great way to change the world, but it can't because it doesn't exist, but also, if it could, it already would have because we can already do those things with technology", which, in addition to being contradictory, I just don't agree with. There is value and power in being able to combine abilities into a single package. To make a trivial example, a modern smartphone is _so much more useful/powerful_ than carrying around a separate phone, calculator, camera, audio recorder, compass, etc. etc. etc. _because it's all in a single package_. 
+> 
+> And more broadly, I'm not sure I get what the overall message of this short story is. It's clearly meant to communicate _something_, I'm just not sure if it's supposed to be some kind of critique of SFP, or of superhero stories more broadly, or how to change the world, or what.
 
->> **u/timecubefanfiction** [+8] *
+>> **u/timecubefanfiction** [+9]  (11 hours later)
 >> 
 >> This "story" is kind of a hodgepodge—in the original draft, it more explicitly explored the idea that Alison-the-character is looking for ways to save the world without using super strength because super strength literally doesn't exist in our world, and Alison is meant to represent real people, not superheroes. So given the story's rules, [Alison should be able to create a utopia](https://www.smbc-comics.com/index.php?db=comics&id=2305), but the story isn't about super people, it's about real people.
->> 
 
->>> **u/BorisTheBrave** [+8] *
+>>> **u/BorisTheBrave** [+9]  (13 hours later)
 >>> 
 >>> Well it's a confusing setup. If you want to discuss how to save the world without super power, a superhero is the worst possible choice of example. Imho you have not done enough to explain what you meant to the reader, and I drew a different reading from the story because of it.
->>> 
 
->>> **u/CeruleanTresses** [+6] *
+>>> **u/CeruleanTresses** [+5]  (18 hours later)
 >>> 
 >>> I think the story is not just about exploring how she could create a utopia, but how she could create a utopia ethically. The conflict is less about whether she *can* use violence/coercion to change things--she absolutely can, it's emphasized that there isn't much anyone could do to stop her--and more about whether or not she *should.* It's not exploring the question of how real people could improve the world, so much as it's asking what moral limits and obligations a person should have if they had that much power to inflict violence. The meta-explanation you've given for her not punching dictators into paste is interesting, but I don't think the story requires it to make internal sense.
->>> 
 
->> **u/general_enthusiast** [+7] *
+>> **u/general_enthusiast** [+7]  (9 hours later)
 >> 
 >> To explain that one paragraph, at least, it's saying something slightly different. Super strength is a great superpower for Alison, because she's one of very few people who have it. It's like you say - she's got a lot of power in a single package - but the part of that which can change the world is that other people don't have it. In a societal sense, it "doesn't exist": Alison surprised a lot of people by being born with a strength that seems like it's out of a fictional story.
->> Someone with a phone in Ancient Greece could completely change the world: they'd find ways to become spies with the camera capabilities nobody expected, or innovate engineering with precise calculations. Someone in the modern day can use a phone for a lot of things, but lots of people have phones, so it's hard to wake up one day and do something with it that's world changing.
->> The following part about human intelligence isn't contradictory to the first part: it explains why intelligence should be considered 'super', as a parallel to how strength would be hard to innovate with if everyone had it for thousands of years.
 >> 
+>> Someone with a phone in Ancient Greece could completely change the world: they'd find ways to become spies with the camera capabilities nobody expected, or innovate engineering with precise calculations. Someone in the modern day can use a phone for a lot of things, but lots of people have phones, so it's hard to wake up one day and do something with it that's world changing.
+>> 
+>> The following part about human intelligence isn't contradictory to the first part: it explains why intelligence should be considered 'super', as a parallel to how strength would be hard to innovate with if everyone had it for thousands of years.
 
-> **u/WalterTFD** [+3] *
+> **u/WalterTFD** [+3]  (a day later)
 > 
 > This is some good stuff, but don't tease us.  Where's the actual time cube fanfiction?
-> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (20 hours later)
 > 
 > strong female protagonist has a stupid premise. apparently all of the "useful" supes were killed by the government leaving only the "non useful" supes. how tf. when you cant reliably terminate a "hurr durr strong woman" how do you kill someone with fucking "molecular ontokinesis" or "electrogenesis" stupid prompt.
-> 
 
->> **u/CeruleanTresses** [+6] *
+>> **u/CeruleanTresses** [+7]  (3 days later)
 >> 
 >> The supes with obviously world-changing powers were killed *as children.*
->> 
 
->> **u/eaglejarl** [+12] *
+>> **u/eaglejarl** [+11]  (a day later)
 >> 
 >> With a bullet. And I don't believe it was ever stated that it was the government doing the killing.
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 days later)
 > 
 > > “Lots of people are being ruled by dictators right now, and you could just go in and punch the dictators into paste, and everyone would know you would do that so no one would want to be a dictator anymore, and while that wouldn’t solve all the world’s problems, it would be a big improvement.”
-> This is seems to me like about the most anti-rationalist thing you could could do with superpowers and a good way to spark off a metahuman arms race and war. 
-> Enacting martial law and regime change based on your own sense of justice is a terrible precedence to set.
 > 
+> This is seems to me like about the most anti-rationalist thing you could could do with superpowers and a good way to spark off a metahuman arms race and war. 
+> 
+> Enacting martial law and regime change based on your own sense of justice is a terrible precedence to set.
 
 ---
 

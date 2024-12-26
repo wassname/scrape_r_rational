@@ -2,7 +2,7 @@
 
 * Author: u/pizzahotdoglover *
 * URL: https://www.reddit.com/r/rational/comments/aecvpl/started_reading_the_gods_are_bastards_review/
-* Score: 26
+* Score: 24
 
 * Created: 2019-01-09T23:35:56
 
@@ -55,442 +55,503 @@ This book, Ward, and PGTE (which I'm *Woe*fully behind on) are the 3 best web se
 
 ### Comments:
 
-> **u/lillarty** [+8] *
+> **u/lillarty** [+7]  (22 hours later)
 > 
 > I'm also currenly reading Book 14 of The Gods Are Bastards right now, currently on 14-18, and I definitely agree that it's not as captivating. For me it's mostly the repeated use of terms like "fetch quest" by the entire cast of characters; it feels as though the author is trying as hard as he possibly can to break immersion at every possible opportunity with this arc. Rational(ist? I always combine the two terms in my head) fiction often enjoys metanarrative, but in my opinion PGTE handles it much better, integrating metanarrative into the worldbuilding while still giving characters reasonable motivations for their actions. With Book 14 of TGAB, it feels like it's a sudden departure from the rest of the events going on so far with the only justification being "Wow, that god of bards sure is silly, isn't he?" This in itself is a bit contrived but otherwise wouldn’t bother me too much, but when every character takes every opportunity to point out how dumb and contrived the entire situation is, it tends to cross that line. It would be as though in PGTE, every time that the Rule of Three was relevant a couple of characters pointed out that it is wildly impractical for a mechanic like that to exist in a world and that the events are therefore somewhat contrived; it wouldn’t contribute to the story at all, and it would utterly destroy immersion. 
-> In typing all that out, I've realized that I view it as a sort of Chekhov's metanarrative; if metanarrative if present, it must have a concrete purpose; including it without a very solid reason just breaks immersion and serves as a needless way of telling the audience that the author is aware of narrative tropes. 
-> That's just my opinion though, obviously other people will have their own reactions to it. 
-> &#x200B;
-> Also in writing this I decided to check in on PGTE and realized that Book 4 is finished; I was waiting until it was complete to start reading it, and I probably would have went another six months forgetting to check on it. Thanks for the reminder, even if it was accidental.
 > 
+> In typing all that out, I've realized that I view it as a sort of Chekhov's metanarrative; if metanarrative if present, it must have a concrete purpose; including it without a very solid reason just breaks immersion and serves as a needless way of telling the audience that the author is aware of narrative tropes. 
+> 
+> That's just my opinion though, obviously other people will have their own reactions to it. 
+> 
+> &#x200B;
+> 
+> Also in writing this I decided to check in on PGTE and realized that Book 4 is finished; I was waiting until it was complete to start reading it, and I probably would have went another six months forgetting to check on it. Thanks for the reminder, even if it was accidental.
 
->> **u/LordSwedish** [+6]  *Q Continuum**
+>> **u/LordSwedish** [+6]  *Q Continuum* (a day later)
 >> 
 >> I feel like this was all fine, except for the fact that it went on for a bit too long. I liked the idea that the paladins were actively warned against "traditional" hero quests by all their teaches and the idea that any rational person should just avoid them whenever possible and do more productive things, but by the time they did the Izara part it was getting a bit old. Luckily it doesn't long so I wasn't to bothered by it.
->> 
 
->> **u/pizzahotdoglover** [+6] *
+>> **u/pizzahotdoglover** [+5]  (23 hours later)
 >> 
 >> Yep, I agree with everything you've said. If your characters point out at every opportunity how stupid and pointless your story is, they might just convince your readers that your story is stupid and pointless. Not a winning move.
->> That being said, it gets much better in the last few chapters, and the first interlude after Book 14 is outstanding. I don't think it's too much of a spoiler to tell you that it's an interlude from Butler Price's perspective, from the time before she served Darling, so keep at it.
->> Maybe you can help me find my place in PGTE. >!I recall Catherine coming back after dropping a lake on her enemies, her encounter while disguised with a major Hero (I forget his name- old guy, mentors young heroes, has massive narrative caché) by the fireside during a parley between muggle representatives, a giant path built through the mountains that Black went to deal with, Catherine stabbing Black, and Heirophant being obsessed with the past visions in the Fey Wilds where he saw his dad.!< I don't remember the order all that stuff happened in exactly, so whichever is the latest of those is around where I am. Any idea what chapter that would be?
 >> 
+>> That being said, it gets much better in the last few chapters, and the first interlude after Book 14 is outstanding. I don't think it's too much of a spoiler to tell you that it's an interlude from Butler Price's perspective, from the time before she served Darling, so keep at it.
+>> 
+>> Maybe you can help me find my place in PGTE. >!I recall Catherine coming back after dropping a lake on her enemies, her encounter while disguised with a major Hero (I forget his name- old guy, mentors young heroes, has massive narrative caché) by the fireside during a parley between muggle representatives, a giant path built through the mountains that Black went to deal with, Catherine stabbing Black, and Heirophant being obsessed with the past visions in the Fey Wilds where he saw his dad.!< I don't remember the order all that stuff happened in exactly, so whichever is the latest of those is around where I am. Any idea what chapter that would be?
 
->>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>> 
 >>> Apologies my computer just locked up 45 minutes into a long post, replying on phone while patches happen,ugh.
->>> The last one is the dad scene it starts in book IV Ch 27 and ends in Ch 30 witness. There's an Orrorary and someone comes to ask "Neshama" about thier plans I think you'd be good starting at CH 28 as the dad is the closing line of 27. 
->>> Can you tell me when Ms Blue expressed her power on the team in Ward?  I'm kinda in the same situation.
 >>> 
+>>> The last one is the dad scene it starts in book IV Ch 27 and ends in Ch 30 witness. There's an Orrorary and someone comes to ask "Neshama" about thier plans I think you'd be good starting at CH 28 as the dad is the closing line of 27. 
+>>> 
+>>> Can you tell me when Ms Blue expressed her power on the team in Ward?  I'm kinda in the same situation.
 
->>>> **u/pizzahotdoglover** [+2] *
+>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>> 
 >>>> Thank you! And the chapter you're looking for is 9.2. So regarding Ward, I found Arc 8 to be very boring and mostly pointless. The TV appearance was notable, but aside from that, the team mostly just hung out in the clubhouse and made plans. Once Arc 9 starts, the story is riveting again. I expect that you probably let it fall by the wayside due to how much of a slog Arc 8 was. It's now at 11.6, and it's been excellent since the start of Arc 9, so I encourage you to start reading again. You're also lucky in a way, since you won't have to wait between chapters.
->>>> 
 
->>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>> 
 >>>>> You are very welcome, and thank you!  Yeah i'm lucky; though if you haven't read twig you are luckier, and should go do that that;  it's peak FreeArbalest narrator POV manipulation.
->>>>> 
 
->>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>>>> 
 >>>>>> I started it, but it didn't capture my interest. I intend to read it eventually, since I also loved Pact, but I have enough half finished stuff ongoing right now that it's relatively low on my reading list. Thanks for the recommendation though.
->>>>>> 
 
->>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>>>> 
 >>>>>>> How far did you get?
->>>>>>> 
 
->>>>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>>>>>> 
 >>>>>>>> Not more than a few chapters, at most. I found the opening confusing and off-putting. [Here](https://www.reddit.com/r/Parahumans/comments/7fkpxs/worried_about_the_sequel_to_worm_ward_a_less/dqcnx6q/) is something I wrote a while back explaining why it didn't capture my interest, which seemed to resonate with some other readers.
->>>>>>>> 
 
->>>>>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>>>>>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>>>>>> 
 >>>>>>>>> Don't click the spoiler one name  in context on one character will explain 60% of the story, it's really that tight.
->>>>>>>>> &#x200B;
->>>>>>>>> The lacking piece is something that is not uncommon knowledge in the setting but is also a closely guarded secret: it is explicitly revealed in the last chapter, because the reasonable extrapolations from one person's name spoil many plot points:  (Epiloge reveal and  60% of story spoiler)>!Adam, as in Frankenstein's monster, is king of England and the crown colonies!<  extrapolate from this and you will spoil many things. 
+>>>>>>>>> 
 >>>>>>>>> &#x200B;
 >>>>>>>>> 
+>>>>>>>>> The lacking piece is something that is not uncommon knowledge in the setting but is also a closely guarded secret: it is explicitly revealed in the last chapter, because the reasonable extrapolations from one person's name spoil many plot points:  (Epiloge reveal and  60% of story spoiler)>!Adam, as in Frankenstein's monster, is king of England and the crown colonies!<  extrapolate from this and you will spoil many things. 
+>>>>>>>>> 
+>>>>>>>>> &#x200B;
 
->>>>>>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>>>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>>>>>>>> 
 >>>>>>>>>> Hmm... That's not a very persuasive point. I mean, reveals like that and twist endings are cool when they make you rethink the whole story, but if the story is going to remain confusing until the very end, that's asking for a lot of patience and endurance. Twig is 1.6 million words. Are my concerns valid?
->>>>>>>>>> 
 
->>>>>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Its a logical conclusion that ties together a lot of evidence: it's a lot like the Flower prince trilogy (starting with the quantum thief) in that way.
->>>>>>>>>>> The crown colonies world is confusing and wrong, Twig gives you a jigsaw puzzle without the box and puts it together step by frustrating step with no idea where the growing nexi of datums fit, until they start to clump.  The picture on the cover will resonate with r/rationals desires, though imho it sickens our communal ethics.  I think the general deal is we know liberatedham can build a Sandersonisk hard rules world; and this one is wrong in many many ways, so we want to know why.
 >>>>>>>>>>> 
+>>>>>>>>>>> The crown colonies world is confusing and wrong, Twig gives you a jigsaw puzzle without the box and puts it together step by frustrating step with no idea where the growing nexi of datums fit, until they start to clump.  The picture on the cover will resonate with r/rationals desires, though imho it sickens our communal ethics.  I think the general deal is we know liberatedham can build a Sandersonisk hard rules world; and this one is wrong in many many ways, so we want to know why.
 
->>>>>>>>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>>>>>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>>>>>>>>>> 
 >>>>>>>>>>>> Violates the ethics how? By the rules not being followed properly?
->>>>>>>>>>>> 
 
->>>>>>>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>>>>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>>>>>>>>>> 
 >>>>>>>>>>>>> Oh no I mean in a general HPMOR sense.  The value of a sapient life under the crown is at a medieval low. I'd expand on that, but I can't without spoilers.
->>>>>>>>>>>>> 
 
->>>>>>>>>>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>>>>>>>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>>>>>>>>>>>> 
 >>>>>>>>>>>>>> Oh, you mean in-story, the values of the characters, not the meta-values of the story and its themes. Well I'll definitely read it at some point, but I gotta catch up on TGAB, PGTE, MoL, and a few others first.
->>>>>>>>>>>>>> 
 
->>>>>>>>>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>>>>>>>>>>>>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>> Do. I was about to double post but I forgot to say there's compelling character growth along the way, because our experience tying things together is or lags a bit behind the viewpoint character(s).  
->>>>>>>>>>>>>>> I'd say the values of the world, the characters values have a real development arc in them.
->>>>>>>>>>>>>>> Please ping me when you read I'd be interested in your thoughts, and your concerns are validated by the fact that there is too little Twig discussion when/because it's (scarily)the most real world applicable story.
 >>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> I'd say the values of the world, the characters values have a real development arc in them.
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Please ping me when you read I'd be interested in your thoughts, and your concerns are validated by the fact that there is too little Twig discussion when/because it's (scarily)the most real world applicable story.
 
->>>>>>>>>>>>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>>>>>>>>>>>> **u/pizzahotdoglover** [+2]  (a day later)
 >>>>>>>>>>>>>>>> 
 >>>>>>>>>>>>>>>> Will do. When I read it, I'll post periodic reaction threads in r/parahumans as well, to try to spawn more discussion. Twig seems to be the least discussed work there, even though the consensus is supposedly that Pact is the weakest work (which I strongly dispute - I liked Pact as much as I like Ward, though Worm remains my favorite).
->>>>>>>>>>>>>>>> 
 
->>>>> **u/Schuano** [+1] *
+>>>>> **u/Schuano** [+1]  (8 days later)
 >>>>> 
 >>>>> Ward is maddening because the entire story is Victoria trying to be the justice league version of Tattletale and then being irrationally angry at Tattletale.
->>>>> 
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (3 days later)
 >> 
 >> I'll never understand this tendency to judge a story you haven't even finished. After a dozen books you'd think there could be some kind of level of trust that it's intentional on the author's part and not just assume they're regressing to their first time writing in elementary school.  This kind of deconstruction of ideas has been around since the first chapter, it's just a different topic now and boo is that horrible.
->> 
 
->>> **u/lillarty** [+1] *
+>>> **u/lillarty** [+1]  (4 days later)
 >>> 
 >>> My statements were meant to reflect the experience I had up until that point. I suppose I can see where you'd make the mistake given some of my declarative statements so I apologize for that; I did not intend to judge the entire book with the experience I had in the first 18 chapters. 
->>> > I'll never understand this tendency to judge a story you haven't even finished 
->>> I'll have to disagree with this sentiment, though. You probably shouldn't make declarative statements about the a book as I did and instead make it clear you're discussing the parts you have consumed, but it seems perfectly valid to me to judge *any* content you consume. To use a trite food analogy, it'd be like if you ordered a sandwich and took one bite in and found out you *hated* it. Should you be required to finish the rest of the sandwich before forming an opinion on it? Perhaps you believe you must, but that's not my stance. 
->>> > After a dozen books you'd think there could be some kind of level of trust that it's intentional on the author's part and not just assume they're regressing to their first time writing in elementary school 
->>> Hyperbole aside, this seems unnecessary. There are plenty of authors that I enjoy that have written numerous books while some of them you just don't enjoy as much. To use a personal example, I appreciate most of the Discworld series, but there's still a couple of them that I dislike. That doesn't mean that the author is "regressing to their first time writing in elementary school," just that they have written something that isn't to your tastes. 
->>> >This kind of deconstruction of ideas has been around since the first chapter, it's just a different topic now and boo is that horrible.
->>> That seems like an unfair characterization of what I was saying. I understand that I was somewhat rambling in the first paragraph, but I felt that I was fairly clear in the sentence on the next line; it's not that the metanarrative aspects of the story are inherently annoying to me, but rather that in this arc they felt *pointless*, which ruined my immersion. 
->>> Based on various comments, it appears as though it improves later in the book, which is great, but that doesn't change that my experience with the first half of the book was negative. I find it very unlikely that the ending would make me retroactively enjoy the first half, so in all likelihood when I have finished the book I will regard it much the same as TGAB as a whole: overall thoroughly enjoyable, but with a beginning that could use improvement.
 >>> 
+>>> > I'll never understand this tendency to judge a story you haven't even finished 
+>>> 
+>>> I'll have to disagree with this sentiment, though. You probably shouldn't make declarative statements about the a book as I did and instead make it clear you're discussing the parts you have consumed, but it seems perfectly valid to me to judge *any* content you consume. To use a trite food analogy, it'd be like if you ordered a sandwich and took one bite in and found out you *hated* it. Should you be required to finish the rest of the sandwich before forming an opinion on it? Perhaps you believe you must, but that's not my stance. 
+>>> 
+>>> > After a dozen books you'd think there could be some kind of level of trust that it's intentional on the author's part and not just assume they're regressing to their first time writing in elementary school 
+>>> 
+>>> Hyperbole aside, this seems unnecessary. There are plenty of authors that I enjoy that have written numerous books while some of them you just don't enjoy as much. To use a personal example, I appreciate most of the Discworld series, but there's still a couple of them that I dislike. That doesn't mean that the author is "regressing to their first time writing in elementary school," just that they have written something that isn't to your tastes. 
+>>> 
+>>> >This kind of deconstruction of ideas has been around since the first chapter, it's just a different topic now and boo is that horrible.
+>>> 
+>>> That seems like an unfair characterization of what I was saying. I understand that I was somewhat rambling in the first paragraph, but I felt that I was fairly clear in the sentence on the next line; it's not that the metanarrative aspects of the story are inherently annoying to me, but rather that in this arc they felt *pointless*, which ruined my immersion. 
+>>> 
+>>> Based on various comments, it appears as though it improves later in the book, which is great, but that doesn't change that my experience with the first half of the book was negative. I find it very unlikely that the ending would make me retroactively enjoy the first half, so in all likelihood when I have finished the book I will regard it much the same as TGAB as a whole: overall thoroughly enjoyable, but with a beginning that could use improvement.
 
->>>> **u/MilesSand** [+1] *
+>>>> **u/MilesSand** [+1]  (4 days later)
 >>>> 
 >>>> Okay you're missing a bit of context and I should have provided that, so here it is: Your complaints are about >!foreshadowing for the setup to a reveal that's coming in another book or 2!<
->>>> You haven't taken the first bite of your sandwich, you read a tweet about the exciting new flavor that will be available in q3 of next year.
-
->>>> I'm not sure if you've reached the scene where >!Vesk and Eserion explicitly talk about metagaming the rules under which they are bound to operate!<, But the fetch quests and annoying references to narrative tropes are part of Vesk's way of >! gaining some level of control over his own actions in the grand scheme of things.!<
-
->>>> In any case complaints regarding narrative elements as basic as foreshadowing by someone who hasn't even read to the point being foreshadowed are unfair to the writer.
 >>>> 
+>>>> You haven't taken the first bite of your sandwich, you read a tweet about the exciting new flavor that will be available in q3 of next year.
+>>>> 
+>>>> I'm not sure if you've reached the scene where >!Vesk and Eserion explicitly talk about metagaming the rules under which they are bound to operate!<, But the fetch quests and annoying references to narrative tropes are part of Vesk's way of >! gaining some level of control over his own actions in the grand scheme of things.!<
+>>>> 
+>>>> In any case complaints regarding narrative elements as basic as foreshadowing by someone who hasn't even read to the point being foreshadowed are unfair to the writer.
 
-> **u/ben_sphynx** [+7] *
+> **u/ben_sphynx** [+6]  (19 hours later)
 > 
 > >Why didn't Gabe's valkyries kill off the demons in last rock during sleepers attack?
-> I think valkyries are only strong against children of vanislav (think I might have spelt that wrong. Succubi and the male versions), and not against demons in general.
 > 
+> I think valkyries are only strong against children of vanislav (think I might have spelt that wrong. Succubi and the male versions), and not against demons in general.
 
->> **u/pizzahotdoglover** [+1] *
+>> **u/pizzahotdoglover** [+1]  (19 hours later)
 >> 
 >> Ah ok. That would answer my question then.
->> 
 
->>> **u/ben_sphynx** [+7] *
+>>> **u/ben_sphynx** [+5]  (19 hours later)
 >>> 
 >>> The children of vanislav are dead mortals, so they valkyries power over death works against them. Most of the other demons are just natives of a different plane.
->>> 
 
->>>> **u/pizzahotdoglover** [+1] *
+>>>> **u/pizzahotdoglover** [+1]  (19 hours later)
 >>>> 
 >>>> That makes sense. Thanks.
->>>> 
 
-> **u/LordSwedish** [+7]  *Q Continuum**
+> **u/LordSwedish** [+6]  *Q Continuum* (a day later)
 > 
 > Just a few points, 
-> >There's walker who is admittedly insane and has an urge to kill everything
-> It's been a while but I'm almost certain that this is false. Her "craziness" is mostly from isolation and she doesn't have an urge to kill everything, she just kills everything around her in an aura because she's a death-being ripped into the universe.
-> >So if Naphthene smites anyone worshiping her by sending an angry storm their way
-> 99% sure this is already said in book 14, but just in case >!it was specifically because Naphtene didn't dare to smite Vadrieny directly as it would antagonise Elilial. Ruda's entire bloodline was cursed because one of them pissed on a shrine, if a normal person did what Vadrieny did they'd probably just turn into a sea urchin or something.!<
-> >Why were the sophomores so pissed that the Avatar killed the nanite swarm immediately without their permission? They were going to order him to do that anyway
-> As far as they were concerned, time was of the essence and everyone above was in danger, then they find out that they've been manipulated into spending a bunch of time helping the Avatar that was completely unnecessary in the current crisis. Even if every second didn't count and Ruda's family wasn't in direct danger, I can certainly understand being angry about people lying to you to manipulate you into doing things for them.
-> > It’s almost as if she put it aside for the sake of propelling the story forward.
-> They've gone over this multiple times, but she feels genuinely terrible about how she treated Gabriel and even during her first trip to Tiraas she was questioning her fellow cult members about why they didn't have unsanctified grounds to allow demonbloods to get assistance and even started setting up a system like that.
 > 
+> >There's walker who is admittedly insane and has an urge to kill everything
+> 
+> It's been a while but I'm almost certain that this is false. Her "craziness" is mostly from isolation and she doesn't have an urge to kill everything, she just kills everything around her in an aura because she's a death-being ripped into the universe.
+> 
+> >So if Naphthene smites anyone worshiping her by sending an angry storm their way
+> 
+> 99% sure this is already said in book 14, but just in case >!it was specifically because Naphtene didn't dare to smite Vadrieny directly as it would antagonise Elilial. Ruda's entire bloodline was cursed because one of them pissed on a shrine, if a normal person did what Vadrieny did they'd probably just turn into a sea urchin or something.!<
+> 
+> >Why were the sophomores so pissed that the Avatar killed the nanite swarm immediately without their permission? They were going to order him to do that anyway
+> 
+> As far as they were concerned, time was of the essence and everyone above was in danger, then they find out that they've been manipulated into spending a bunch of time helping the Avatar that was completely unnecessary in the current crisis. Even if every second didn't count and Ruda's family wasn't in direct danger, I can certainly understand being angry about people lying to you to manipulate you into doing things for them.
+> 
+> > It’s almost as if she put it aside for the sake of propelling the story forward.
+> 
+> They've gone over this multiple times, but she feels genuinely terrible about how she treated Gabriel and even during her first trip to Tiraas she was questioning her fellow cult members about why they didn't have unsanctified grounds to allow demonbloods to get assistance and even started setting up a system like that.
 
-> **u/faizinator** [+6] *
+> **u/faizinator** [+5]  (10 hours later)
 > 
 > Is this a rational fic? Doesn't look like it from the summary.
-> 
 
->> **u/pizzahotdoglover** [+5] *
+>> **u/pizzahotdoglover** [+5]  (16 hours later)
 >> 
 >> Yes, I think so. Or close enough. It's a reconstruction of the fantasy genre that is careful to include sensible, Watsonian explanations for why the tropes exist, it features smart antagonists who act to further their own interests rather than just the plot, and they do so off-camera, and there is an emphasis on intelligent solutions to problems. The world is internally consistent and follows its own rules, and characters behave as rationally as real people would in those circumstances.
->> 
 
->> **u/TheColourOfHeartache** [+8] *
+>> **u/TheColourOfHeartache** [+8]  (23 hours later)
 >> 
 >> I'd say it's not a rational fic. It has characters making decisions that don't match their established persoanlity or even common sense. To give an example
->> >!Trissany decides she needs to learn how to be more subtle and diplomatic. She is then given a list of potential highly qualified teachers; but decides instead of any of them she'd go to the thieves guild.!<
->> >!This is despite the fact that she is chosen by the goddess of Justice and the thieves guild have already been established to be antithetical to justice - as they endorse unaccountable vigilante justice against whomever they take a dislike to. Rather than fair trials.!<
->> >!The reason given for this decision is that Trissany a short period of time when she was magically induced into thinking like an alternative version of herself who grew up in the thieves guild. Except that alt-Trissany was very explicit that she wasn't cut out to following her mother (a con-artist, the role Trissany says she wants to learn) in favour of purely physical skills like pickpocketing.!<
->> >!Later on in that book we see Trissany, with the endorsement of the high priest of her church, illegally burning down a bishops house as a punishment because they couldn't get the bishop in a fair trial. So you get two characters going against established characterisation and motivation in order to forward the plot. That's the sort of thing a rational fic wouldn't do.  !<
 >> 
+>> >!Trissany decides she needs to learn how to be more subtle and diplomatic. She is then given a list of potential highly qualified teachers; but decides instead of any of them she'd go to the thieves guild.!<
+>> 
+>> >!This is despite the fact that she is chosen by the goddess of Justice and the thieves guild have already been established to be antithetical to justice - as they endorse unaccountable vigilante justice against whomever they take a dislike to. Rather than fair trials.!<
+>> 
+>> >!The reason given for this decision is that Trissany a short period of time when she was magically induced into thinking like an alternative version of herself who grew up in the thieves guild. Except that alt-Trissany was very explicit that she wasn't cut out to following her mother (a con-artist, the role Trissany says she wants to learn) in favour of purely physical skills like pickpocketing.!<
+>> 
+>> >!Later on in that book we see Trissany, with the endorsement of the high priest of her church, illegally burning down a bishops house as a punishment because they couldn't get the bishop in a fair trial. So you get two characters going against established characterisation and motivation in order to forward the plot. That's the sort of thing a rational fic wouldn't do.  !<
 
->>> **u/YellowDogDingo** [+6] *
+>>> **u/YellowDogDingo** [+5]  (a day later)
 >>> 
 >>> Can't say I agree with your points. 
->>> On the alt-character not being a good fit: in the vision quest in the grove she explicitly states that the mindset/attitude of the alt is exactly what she is looking for. After Avei's intervention in the quest the significant information she gains are 1) thoughts on reconciling her poor opinions of Eserites with the reality of Eserite teachings and 2) that the job she has been given isn't to be cunning; she is an enforcer. Her prior mindset may have led her in a different direction, she is offered additional information and makes a different decision.
->>> I also disagree with the idea that justice must be lawful. Justice is a concept that predates anything we'd recognize as a judicial system. Hands of Avei are more likely to break someone's fingers than bring them to trial, they are provided with divine power and able to command all of the cult of Avei to mete out whatever punishment they personally consider appropriate. The Hands do not work for the legal system, they work for Avei.
 >>> 
+>>> On the alt-character not being a good fit: in the vision quest in the grove she explicitly states that the mindset/attitude of the alt is exactly what she is looking for. After Avei's intervention in the quest the significant information she gains are 1) thoughts on reconciling her poor opinions of Eserites with the reality of Eserite teachings and 2) that the job she has been given isn't to be cunning; she is an enforcer. Her prior mindset may have led her in a different direction, she is offered additional information and makes a different decision.
+>>> 
+>>> I also disagree with the idea that justice must be lawful. Justice is a concept that predates anything we'd recognize as a judicial system. Hands of Avei are more likely to break someone's fingers than bring them to trial, they are provided with divine power and able to command all of the cult of Avei to mete out whatever punishment they personally consider appropriate. The Hands do not work for the legal system, they work for Avei.
 
->>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>> 
 >>> Regarding the 1. AU influence choice and \[2.\] the extra-judicial punishment. I think you are assuming: 1. something that has been explicitly called out as a false axiom: the antithetical nature of two complimentary cults, when a growing strategist see's a toolkit that has bested her; 2. you are assuming too much of the lawful good/stupid by a young woman just given a second strict code of ethics for punishing abuses of power, and one that she mis applied in this case, subsequently has it rubbed in her face, and in a chapter this week or last week teaches someone else about  the lesson she learned.
->>> &#x200B;
->>> All that said I'd steelman your argument  by saying the most lacking part of the writing style is all of Trissany's best rational thinking happens off screen and the reasonable/clever/laudable actions that come out of are jarring against what we see of her internal narrative.
->>> &#x200B;
->>> edit: missing numbering, spelling
 >>> 
+>>> &#x200B;
+>>> 
+>>> All that said I'd steelman your argument  by saying the most lacking part of the writing style is all of Trissany's best rational thinking happens off screen and the reasonable/clever/laudable actions that come out of are jarring against what we see of her internal narrative.
+>>> 
+>>> &#x200B;
+>>> 
+>>> edit: missing numbering, spelling
 
->>>> **u/TheColourOfHeartache** [+2] *
+>>>> **u/TheColourOfHeartache** [+2]  (a day later)
 >>>> 
 >>>> I disagree. 
->>>> On 1. While the two cults might not be inherently antithetical individual practices of one cult can easily be antithetical to the other: In this case extra-judicial punishments are antithetical to justice. You might make exceptions for special circumstances, but "not enough evidence to take her to court" is not one of those special circumstances. 
->>>> If you want to argue that it's a false axiom that Aveism and Eserionites are not antithetical you have to explain how unaccountable violent retribution with no checks and balances, no trials, and no method of choosing appropriate targets beyond the personal whim of who a thief thinks has it coming is compatible with any reasonable definition of justice. 
->>>> In addition, for Trissiny's decision to be rational it's not enough to demonstrate that Aveism and Eserionites are not antithetical. You have to demonstrate that Trissiny's reasoning is self consistent and makes sense given the information available to her; and the alternative options she didn't choose. The reason she chose >!the Thieves Guild is AU-Trissiny. But AU-Trissiny is explicitly lacking in the diplomacy/cunning Trissiny wants to learn.!< That's the kind of discrepancy that prevents TGaB from being rational. 
->>>> On 2. This is not a random young woman. Trissiny has been raised in a monastery dedicated to the goddess of justice. She's had the best possible education her cult could provide, and impressed the goddess of justice enough to be appointed the one and only paladin. In addition to her training she has a direct hotline to the goddess of justice in her soul. 
->>>> The right to a fair trial is not complicated and difficult legal theory. Given Trissiny's upbringing I'd expect her to know why it's the foundation of justice. For Trissiny's actions to make sense the entire cult of Avei would have had to have failed as an educator, for the cult of Avei to have failed as an educator, and it would have had to fail so fundamentally that it's the equivalent of graduating high school students who're functionally illiterate. 
->>>> For The Gods are Bastards to be rational it would have to explain how the Cult of Avei could fail that badly. It would then have to portray the logical consequences of that explanation. What enormous flaws does the Cult have; and how does having one of the three largest religious groups, one with it's own army and enormous influence over the justice system, burdened with those flaws effect society. 
->>>> We don't see that. The Cult of Avei isn't perfect but it's portrayed as a functional and well respected institution. The courts are functional enough to support a profession of lawyers.
 >>>> 
+>>>> On 1. While the two cults might not be inherently antithetical individual practices of one cult can easily be antithetical to the other: In this case extra-judicial punishments are antithetical to justice. You might make exceptions for special circumstances, but "not enough evidence to take her to court" is not one of those special circumstances. 
+>>>> 
+>>>> If you want to argue that it's a false axiom that Aveism and Eserionites are not antithetical you have to explain how unaccountable violent retribution with no checks and balances, no trials, and no method of choosing appropriate targets beyond the personal whim of who a thief thinks has it coming is compatible with any reasonable definition of justice. 
+>>>> 
+>>>> In addition, for Trissiny's decision to be rational it's not enough to demonstrate that Aveism and Eserionites are not antithetical. You have to demonstrate that Trissiny's reasoning is self consistent and makes sense given the information available to her; and the alternative options she didn't choose. The reason she chose >!the Thieves Guild is AU-Trissiny. But AU-Trissiny is explicitly lacking in the diplomacy/cunning Trissiny wants to learn.!< That's the kind of discrepancy that prevents TGaB from being rational. 
+>>>> 
+>>>> On 2. This is not a random young woman. Trissiny has been raised in a monastery dedicated to the goddess of justice. She's had the best possible education her cult could provide, and impressed the goddess of justice enough to be appointed the one and only paladin. In addition to her training she has a direct hotline to the goddess of justice in her soul. 
+>>>> 
+>>>> The right to a fair trial is not complicated and difficult legal theory. Given Trissiny's upbringing I'd expect her to know why it's the foundation of justice. For Trissiny's actions to make sense the entire cult of Avei would have had to have failed as an educator, for the cult of Avei to have failed as an educator, and it would have had to fail so fundamentally that it's the equivalent of graduating high school students who're functionally illiterate. 
+>>>> 
+>>>> For The Gods are Bastards to be rational it would have to explain how the Cult of Avei could fail that badly. It would then have to portray the logical consequences of that explanation. What enormous flaws does the Cult have; and how does having one of the three largest religious groups, one with it's own army and enormous influence over the justice system, burdened with those flaws effect society. 
+>>>> 
+>>>> We don't see that. The Cult of Avei isn't perfect but it's portrayed as a functional and well respected institution. The courts are functional enough to support a profession of lawyers.
 
->>>>> **u/LordSwedish** [+3]  *Q Continuum**
+>>>>> **u/LordSwedish** [+3]  *Q Continuum* (a day later)
 >>>>> 
 >>>>> > In this case extra-judicial punishments are antithetical to justice.
->>>>> What? The entire point of the hand of Avei is to carry out extra judicial justice. Trissiny even goes on this spirit walk where she sees this firsthand and we are told that the hands of Avei aren't admired as much as they are feared and the godess is the only one who decides whether or not what they are doing is justice or cruelty. 
->>>>> >unaccountable violent retribution with no checks and balances, no trials, and no method of choosing appropriate targets beyond the personal whim of who a thief thinks has it coming is compatible with any reasonable definition of justice.
->>>>> Again, that's what a paladin is. The "checks and balances" here are the gods and while a paladin has more of their attention, serious actions by the thieves guild are reported to, or usually coordinated by, the leaders of the cult. You could argue that the thieves guild isn't  that great for the justice system, but for a paladin their rules fit perfectly.
->>>>> >The reason she chose >!the Thieves Guild is AU-Trissiny. But AU-Trissiny is explicitly lacking in the diplomacy/cunning Trissiny wants to learn.!< 
->>>>> I didn't interpret that as her >!wanting to become like AU-Trissiny (in fact I recall Trissiny disliking her), just that she saw another version of herself and after learning a lot about the Thieves guild and her own cult she decided that the guild was what she needed.!<
->>>>> >Given Trissiny's upbringing I'd expect her to know why it's the foundation of justice.
->>>>> You're still working on the logic of our world and our systems. The epitome of justice isn't a fair trial, it's divine judgment. For most people the world functions like you're saying, but for a paladin of justice it's about going up and bringing justice to people directly. The reason She goes to the Thieves Guild is because the old system was to ride up in silver armor and cut the heads off of people she deems worthy of death.
 >>>>> 
+>>>>> What? The entire point of the hand of Avei is to carry out extra judicial justice. Trissiny even goes on this spirit walk where she sees this firsthand and we are told that the hands of Avei aren't admired as much as they are feared and the godess is the only one who decides whether or not what they are doing is justice or cruelty. 
+>>>>> 
+>>>>> >unaccountable violent retribution with no checks and balances, no trials, and no method of choosing appropriate targets beyond the personal whim of who a thief thinks has it coming is compatible with any reasonable definition of justice.
+>>>>> 
+>>>>> Again, that's what a paladin is. The "checks and balances" here are the gods and while a paladin has more of their attention, serious actions by the thieves guild are reported to, or usually coordinated by, the leaders of the cult. You could argue that the thieves guild isn't  that great for the justice system, but for a paladin their rules fit perfectly.
+>>>>> 
+>>>>> >The reason she chose >!the Thieves Guild is AU-Trissiny. But AU-Trissiny is explicitly lacking in the diplomacy/cunning Trissiny wants to learn.!< 
+>>>>> 
+>>>>> I didn't interpret that as her >!wanting to become like AU-Trissiny (in fact I recall Trissiny disliking her), just that she saw another version of herself and after learning a lot about the Thieves guild and her own cult she decided that the guild was what she needed.!<
+>>>>> 
+>>>>> >Given Trissiny's upbringing I'd expect her to know why it's the foundation of justice.
+>>>>> 
+>>>>> You're still working on the logic of our world and our systems. The epitome of justice isn't a fair trial, it's divine judgment. For most people the world functions like you're saying, but for a paladin of justice it's about going up and bringing justice to people directly. The reason She goes to the Thieves Guild is because the old system was to ride up in silver armor and cut the heads off of people she deems worthy of death.
 
->>>>> **u/pizzahotdoglover** [+3] *
+>>>>> **u/pizzahotdoglover** [+3]  (2 days later)
 >>>>> 
 >>>>> > On 1. While the two cults might not be inherently antithetical individual practices of one cult can easily be antithetical to the other: In this case extra-judicial punishments are antithetical to justice. You might make exceptions for special circumstances, but "not enough evidence to take her to court" is not one of those special circumstances.
 >>>>> > 
 >>>>> > 
+>>>>> 
 >>>>> Do you have a source for this in the the text? Avei is about justice- not the trappings of justice. The whole point of the Hands is to go around dealing out justice personally, not to support human judicial systems. In Avenic justice, there is no 'getting off on a technicality to preserve the integrity of the system' because Avei is concerned with justice in individual cases, and has the benefit of divine knowledge. She wouldn't ignore evidence obtained by an illegal search and she wouldn't care if something was proven to a jury beyond reasonable doubt or not, because she has divine certainty in the cases she considers. Avei doesn't care about 'enough evidence to take them to court'; she just cares if they did it or not. 
 >>>>> I've seen no evidence thus far that Avei cares about human judicial systems at all. In fact, I bet that if a judge let a defendant off the hook because he was powerful, she would punish both, even though they were working within the rules of the system. All systems are corrupt. Avei doesn't care about the right to a fair trial when she's considering a case before her; that's only the foundation of justice when the divine avatar of the concept of justice isn't directly involved in the matter. Trials do not trump Avei's divine judgment.
->>>>> Both Avei and Eserion are concerned with actual, real life justice, without regard for human social structures, and both advocate vigilante justice. IRL, the problem with vigilante justice is the possibility of getting the wrong guy and the undermining of the state's authority and monopoly on violence. In TGAB, the gods have better knowledge than jurors and the state's authority is subordinate to theirs; nor does the state hold a monopoly on violence, since the gods specifically grant that right to their Hands.
 >>>>> 
+>>>>> Both Avei and Eserion are concerned with actual, real life justice, without regard for human social structures, and both advocate vigilante justice. IRL, the problem with vigilante justice is the possibility of getting the wrong guy and the undermining of the state's authority and monopoly on violence. In TGAB, the gods have better knowledge than jurors and the state's authority is subordinate to theirs; nor does the state hold a monopoly on violence, since the gods specifically grant that right to their Hands.
 
->>>>>> **u/TheColourOfHeartache** [+2] *
+>>>>>> **u/TheColourOfHeartache** [+2]  (2 days later)
 >>>>>> 
 >>>>>> > Do you have a source for this in the the text?
->>>>>> Actually yes. There's this quote from Trissiny: "…no, Shaeine is completely right. Without law, justice is impotent" from chapter 5-24. 
->>>>>> There's this quote from Rouvad to Darling in 3-9: "I’m also aware of what you do to rapists caught in your ranks. I’m not impressed and don’t care to hear about it. Summary execution is not justice."
->>>>>> That's both Aevi's paladin and the head of her religion expressing support for laws and due process. I think between them they can be considered an authority on what Aevi wants. 
->>>>>> >  Avei doesn't care about the right to a fair trial when she's considering a case before her; that's only the foundation of justice when the divine avatar of the concept of justice isn't directly involved in the matter. Trials do not trump Avei's divine judgment.
->>>>>> That would be relevant if Avei was intervening personally. In this case she is not. When Trissany decided to >!Burn down Syrinx's house, she was acting on her own initiative rather than Avei's. In fact immediately prior Rouvad points out that Avei *hadn't* stepped in to discipline her own bishop and that's why Rouvad is putting faith in her.!< 
->>>>>> We do see an example of when Avei does intervene personally, when she judges >!Juniper!<. In that Avei manifests personally, she gives the defendant a chance to speak in their defence. In short Avei presides over a fair trial. 
->>>>>> Avei's divine judgement might trump mortal judgement; but Avei still thinks institutions like fair trials are vital to justice. Both because she can't judge everyone personally and relies on humans to act in her name; fallible humans who need checks and balances. And as a tool for laying down her own divine judgement.
 >>>>>> 
+>>>>>> Actually yes. There's this quote from Trissiny: "…no, Shaeine is completely right. Without law, justice is impotent" from chapter 5-24. 
+>>>>>> 
+>>>>>> There's this quote from Rouvad to Darling in 3-9: "I’m also aware of what you do to rapists caught in your ranks. I’m not impressed and don’t care to hear about it. Summary execution is not justice."
+>>>>>> 
+>>>>>> That's both Aevi's paladin and the head of her religion expressing support for laws and due process. I think between them they can be considered an authority on what Aevi wants. 
+>>>>>> 
+>>>>>> >  Avei doesn't care about the right to a fair trial when she's considering a case before her; that's only the foundation of justice when the divine avatar of the concept of justice isn't directly involved in the matter. Trials do not trump Avei's divine judgment.
+>>>>>> 
+>>>>>> That would be relevant if Avei was intervening personally. In this case she is not. When Trissany decided to >!Burn down Syrinx's house, she was acting on her own initiative rather than Avei's. In fact immediately prior Rouvad points out that Avei *hadn't* stepped in to discipline her own bishop and that's why Rouvad is putting faith in her.!< 
+>>>>>> 
+>>>>>> We do see an example of when Avei does intervene personally, when she judges >!Juniper!<. In that Avei manifests personally, she gives the defendant a chance to speak in their defence. In short Avei presides over a fair trial. 
+>>>>>> 
+>>>>>> Avei's divine judgement might trump mortal judgement; but Avei still thinks institutions like fair trials are vital to justice. Both because she can't judge everyone personally and relies on humans to act in her name; fallible humans who need checks and balances. And as a tool for laying down her own divine judgement.
 
->>>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>>> **u/pizzahotdoglover** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> Thank you for your effort and for finding that in the text. I said,
->>>>>>> >I've seen no evidence thus far that Avei cares about human judicial systems at all.
->>>>>>> The quotes you provided have convinced me I was wrong about that part, and Avei does in fact care about human judicial systems. Enjoy your delta: **Δ**
->>>>>>> That being said, I still believe that Avei favors vigilante justice/extra-judicial punishment and problem solving, via her Hands, whose behavior as cop/judge/jury/executioner she endorses. I think that normally, she prefers that the system of laws be followed and upheld, but she makes an exception in matters handled by herself and her Hands. In your first quote, I think Trissiny was speaking generally, and in your second, Rouvad was criticizing the Eserites' style of vigilante justice, since it apparently involves very little fact finding or process. I don't think either statement applies to a Hand of Avei meting out justice as she sees fit in situations that warrant it. If Avei cared about that, why did she never tell her Hands to stop, aside from the one Hand who was abusing her power to torture someone? Justice can be harsh; Avei is not the goddess of mercy, after all.
 >>>>>>> 
+>>>>>>> >I've seen no evidence thus far that Avei cares about human judicial systems at all.
+>>>>>>> 
+>>>>>>> The quotes you provided have convinced me I was wrong about that part, and Avei does in fact care about human judicial systems. Enjoy your delta: **Δ**
+>>>>>>> 
+>>>>>>> That being said, I still believe that Avei favors vigilante justice/extra-judicial punishment and problem solving, via her Hands, whose behavior as cop/judge/jury/executioner she endorses. I think that normally, she prefers that the system of laws be followed and upheld, but she makes an exception in matters handled by herself and her Hands. In your first quote, I think Trissiny was speaking generally, and in your second, Rouvad was criticizing the Eserites' style of vigilante justice, since it apparently involves very little fact finding or process. I don't think either statement applies to a Hand of Avei meting out justice as she sees fit in situations that warrant it. If Avei cared about that, why did she never tell her Hands to stop, aside from the one Hand who was abusing her power to torture someone? Justice can be harsh; Avei is not the goddess of mercy, after all.
 
->>>>>>>> **u/TheColourOfHeartache** [+2] *
+>>>>>>>> **u/TheColourOfHeartache** [+2]  (3 days later)
 >>>>>>>> 
 >>>>>>>> I think you're drawing a distinction between human judicial systems and Avei that shouldn't be drawn. 
->>>>>>>> It's entirely possible to have a judicial system that says something along the lines of: "Everyone has a right to be judged by a jury of their peers, or by Avei, or her Hand". (Actually I'm not sure if the empire uses juries or magistrates... I guess it's not relevant).
->>>>>>>> The important things that make judicial punishment separate from vigilantism are consistency: People know the laws and how to avoid breaking them. And a right to a fair trial where you can see the evidence against you and defend yourself. Both of these can be made compatible with a goddess of justice. Avei, or Trissany, could personally preside over a fair trial. We've seen Avei do just that. So I don't think she makes an exception for herself or her hands. A goddess or a paladin shouldn't need to make exceptions.
 >>>>>>>> 
+>>>>>>>> It's entirely possible to have a judicial system that says something along the lines of: "Everyone has a right to be judged by a jury of their peers, or by Avei, or her Hand". (Actually I'm not sure if the empire uses juries or magistrates... I guess it's not relevant).
+>>>>>>>> 
+>>>>>>>> The important things that make judicial punishment separate from vigilantism are consistency: People know the laws and how to avoid breaking them. And a right to a fair trial where you can see the evidence against you and defend yourself. Both of these can be made compatible with a goddess of justice. Avei, or Trissany, could personally preside over a fair trial. We've seen Avei do just that. So I don't think she makes an exception for herself or her hands. A goddess or a paladin shouldn't need to make exceptions.
 
->>>>>>>>> **u/pizzahotdoglover** [+1] *
+>>>>>>>>> **u/pizzahotdoglover** [+1]  (3 days later)
 >>>>>>>>> 
 >>>>>>>>> So you're saying that since justice administered by Avei or her Hands is legitimate, it doesn't qualify as vigilante justice, which allows Avei to take an internally consistent stance against it? That makes sense, although I don't recall reading anything that confirms or denies it.
->>>>>>>>> 
 
->>>>>>>>>> **u/TheColourOfHeartache** [+2] *
+>>>>>>>>>> **u/TheColourOfHeartache** [+2]  (3 days later)
 >>>>>>>>>> 
 >>>>>>>>>> More that it *can* be legitimate if Avei/her Hand holds fair trials, etc. The confirmation is that we see Avei dispensing justice personally and she does hold a trial to do it.
->>>>>>>>>> 
 
->>> **u/pizzahotdoglover** [+1] *
+>>> **u/pizzahotdoglover** [+1]  (a day later)
 >>> 
 >>> Does your spoiler tagged text cover events after Book 15?
->>> 
 
->>>> **u/TheColourOfHeartache** [+2] *
+>>>> **u/TheColourOfHeartache** [+2]  (a day later)
 >>>> 
 >>>> Nope
->>>> 
 
->>> **u/MilesSand** [+1] *
+>>> **u/MilesSand** [+1]  (3 days later)
 >>> 
 >>> And also she found out her mom is a high ranking member. Who in their right mind would want to be involved in something their mom was part of. It's like you have really strong ideas about a group, and then you find out your mom has been part of that group all along. Just makes you want to stay away from them even worse than ever, and totally can't make you curious about what connection you might have to that group.
->>> >!/s!<
 >>> 
+>>> >!/s!<
 
->> **u/MilesSand** [+1] *
+>> **u/MilesSand** [+1]  (3 days later)
 >> 
 >> It's a character driven story that has a ton of world building behind it, which makes it automatically tick the boxes.
->> 
 
-> **u/BuccaneerRex** [+4] *
+> **u/BuccaneerRex** [+5]  (3 hours later)
 > 
 > I tend to think that the gods are as they say: they are aspects. 
-> We don't know exactly what happened to give the original gods their powers. We know that they ran their world for tens of thousands of years according to their will.
-> I don't think that it's a simulation. That's easy. I do think they found a way to computationally affect physical probabilities, which amounts to the same thing. They can use computation to control reality. The power of the gods is directly plugging the human brain into the probability whatsis matrix gadget, so that the computation of the mind is what controls the probability. But this has an effect of locking the state of the mind in place. Since the brain is a network of physical connections, the gods can still think and be, but they can't really grow or learn, much. This leads them to be sort of fixed in their thinking and attitudes. If Vesk was feeling frisky on the day when he was plugged in, then he will be feeling frisky forever. 
-> The upside is that you get phenomenal cosmic power. The downside is the itty-bitty thinking space. The elder gods messed up and got lost in the system, becoming their aspects and really messing it all up. I think the new gods are the support staff who rebelled and tried to fix it all. They made adjustments such that they are less fixed, but also have less power. Naiya is nature herself, but Avei is 'justice'? 
-> The more I read of this story, and its side quests and 'NPC' interludes, the more I love it. 
-> It's deep, consistent, and entertaining every time. This is why I love these kinds of serial or 'amateur' works, because it's craft and art and love and it shows. Maybe an editor could fit it into books, but I think it would suffer for the effort.
 > 
+> We don't know exactly what happened to give the original gods their powers. We know that they ran their world for tens of thousands of years according to their will.
+> 
+> I don't think that it's a simulation. That's easy. I do think they found a way to computationally affect physical probabilities, which amounts to the same thing. They can use computation to control reality. The power of the gods is directly plugging the human brain into the probability whatsis matrix gadget, so that the computation of the mind is what controls the probability. But this has an effect of locking the state of the mind in place. Since the brain is a network of physical connections, the gods can still think and be, but they can't really grow or learn, much. This leads them to be sort of fixed in their thinking and attitudes. If Vesk was feeling frisky on the day when he was plugged in, then he will be feeling frisky forever. 
+> 
+> The upside is that you get phenomenal cosmic power. The downside is the itty-bitty thinking space. The elder gods messed up and got lost in the system, becoming their aspects and really messing it all up. I think the new gods are the support staff who rebelled and tried to fix it all. They made adjustments such that they are less fixed, but also have less power. Naiya is nature herself, but Avei is 'justice'? 
+> 
+> The more I read of this story, and its side quests and 'NPC' interludes, the more I love it. 
+> 
+> It's deep, consistent, and entertaining every time. This is why I love these kinds of serial or 'amateur' works, because it's craft and art and love and it shows. Maybe an editor could fit it into books, but I think it would suffer for the effort.
 
->> **u/pizzahotdoglover** [+2] *
+>> **u/pizzahotdoglover** [+2]  (4 hours later)
 >> 
 >> Good analysis. I'm interested in seeing how this will play out, especially Justinian's part.
->> 
 
-> **u/cyberdsaiyan** [+3] *
+> **u/cyberdsaiyan** [+3]  (2 hours later)
 > 
 > I initially stopped following this during the Scion extra chapters. Anything related to manipulating time has to usually be carefully crafted to avoid inconsistencies, but here it was simply "A God did it", which is just handwaving. Even if they introduce proper mechanics for the power of the gods in the future, I would always have this entire timey wimey thing in the back of my head, and I don't think any pseudo science explanation would be enough to untangle that mess.
-> I recently tried to get back into it, started Book 14, and was just aghast at the sequence of events in chapter 14-5.
-> We have what is presumably a "lady of the noble house" who's in charge of the budget for "education" I guess, building a museum for showcasing the state of the art science that runs their industry. *Not bad, not bad*. Oh wait, she used the part of the budget which was earmarked for schools. *Big oof right there*. Ah, but okay, you're paladins, so you can use your soft power to remove the funding support from the Vidian cult... ~~wait that still means that the education budget was already spent for building this thing right? The Sultana wouldn't be happy about that.~~ seems like it hasn't been spent yet, it's softly implied that it's a fundraiser for doing this. That's cool, that means their soft power saved the day, and the money can now be allocated towards building schools! Pretty nice resolu-
-> *Wait, what? Trissiny, why're you punching that middle aged lady?*
-> Trissiny just casually inflicts violence on someone who just made a sarcastic comment, being a bit emotional after one of her projects was just destroyed. I'm not sure if it was intended, but that whole scene seemed imply that Trissiny was somehow in the right for beating up this defenseless lady, making an example of her in front of her peers and humiliating her... for what, exactly? Budget allocation shenanigans? A bit of corruption? Like everyone else there? 
-> It gave me extremely bad vibes, as the text and the characters were going about as if this was the right thing to do, humiliate and make an example of one person to "send a message" to the rest of the "group". As if the "nobility" as a whole were some sort of amorphous entity and not consisting of individuals with their own personalities, aspirations, dreams etc. That's the type of shit terrorists and dictators do, make an example of someone to try and intimidate the entire group.
-> The worst part was the aftermath, Trissiny pondering the implications of what she did, and ~~the author~~ "Yasmeen" reassuring her that "s'all good, those noble rich fucks occasionally need to get kicked in the hide".
-> It was such a childish, simplistic explanation that I was tempted to go back and reread some sections, wondering whether it was always like this. Where did the whole "violence can't solve everything" lesson of so many books go? The Lor'naris arc in the initial books was a pretty well done arc where Trissiny doesn't realize the sort of authority she carries around and subsequently, makes a slightly bad situation much worse. And she didn't even use violence, just threatened to.
-> The author also seemed to think of this as just a minor step along the heroes' journey, as the scene quickly cuts to their next destination and the next conflict. No scene with imperial spies informing the emperor about this, no scene where Quentin Vex ponders on the problem of a paladin openly inflicting violence on someone whose authority derives from the silver throne. ~~No scene indicating whatsoever that the empire is watching this, despite this ostensibly being their *own fucking territory*.~~ Vex was there! And since there wasn't a scene with him, the readers are left to assume that he's okay with this...? That's so out of character for a man for whom the authority of the empire is not a trifling thing.
-> Not to mention this is someone who's subordinate to the Sultana, but instead of the Sultana herself handing out the punishment, she happily allows Trissiny to take over part of her authority (bit irresponsible there). Doesn't that count as the Sultana using Trissiny as a tool for herself? Or at the very least, speaks poorly of the Sultana that she doesn't have control over her subordinates and has to use punishment by proxy.
-> That scene jarred me out of the story so much, I just gave up on reading the rest.
 > 
+> I recently tried to get back into it, started Book 14, and was just aghast at the sequence of events in chapter 14-5.
+> 
+> We have what is presumably a "lady of the noble house" who's in charge of the budget for "education" I guess, building a museum for showcasing the state of the art science that runs their industry. *Not bad, not bad*. Oh wait, she used the part of the budget which was earmarked for schools. *Big oof right there*. Ah, but okay, you're paladins, so you can use your soft power to remove the funding support from the Vidian cult... ~~wait that still means that the education budget was already spent for building this thing right? The Sultana wouldn't be happy about that.~~ seems like it hasn't been spent yet, it's softly implied that it's a fundraiser for doing this. That's cool, that means their soft power saved the day, and the money can now be allocated towards building schools! Pretty nice resolu-
+> 
+> *Wait, what? Trissiny, why're you punching that middle aged lady?*
+> 
+> Trissiny just casually inflicts violence on someone who just made a sarcastic comment, being a bit emotional after one of her projects was just destroyed. I'm not sure if it was intended, but that whole scene seemed imply that Trissiny was somehow in the right for beating up this defenseless lady, making an example of her in front of her peers and humiliating her... for what, exactly? Budget allocation shenanigans? A bit of corruption? Like everyone else there? 
+> 
+> It gave me extremely bad vibes, as the text and the characters were going about as if this was the right thing to do, humiliate and make an example of one person to "send a message" to the rest of the "group". As if the "nobility" as a whole were some sort of amorphous entity and not consisting of individuals with their own personalities, aspirations, dreams etc. That's the type of shit terrorists and dictators do, make an example of someone to try and intimidate the entire group.
+> 
+> The worst part was the aftermath, Trissiny pondering the implications of what she did, and ~~the author~~ "Yasmeen" reassuring her that "s'all good, those noble rich fucks occasionally need to get kicked in the hide".
+> 
+> It was such a childish, simplistic explanation that I was tempted to go back and reread some sections, wondering whether it was always like this. Where did the whole "violence can't solve everything" lesson of so many books go? The Lor'naris arc in the initial books was a pretty well done arc where Trissiny doesn't realize the sort of authority she carries around and subsequently, makes a slightly bad situation much worse. And she didn't even use violence, just threatened to.
+> 
+> The author also seemed to think of this as just a minor step along the heroes' journey, as the scene quickly cuts to their next destination and the next conflict. No scene with imperial spies informing the emperor about this, no scene where Quentin Vex ponders on the problem of a paladin openly inflicting violence on someone whose authority derives from the silver throne. ~~No scene indicating whatsoever that the empire is watching this, despite this ostensibly being their *own fucking territory*.~~ Vex was there! And since there wasn't a scene with him, the readers are left to assume that he's okay with this...? That's so out of character for a man for whom the authority of the empire is not a trifling thing.
+> 
+> Not to mention this is someone who's subordinate to the Sultana, but instead of the Sultana herself handing out the punishment, she happily allows Trissiny to take over part of her authority (bit irresponsible there). Doesn't that count as the Sultana using Trissiny as a tool for herself? Or at the very least, speaks poorly of the Sultana that she doesn't have control over her subordinates and has to use punishment by proxy.
+> 
+> That scene jarred me out of the story so much, I just gave up on reading the rest.
 
->> **u/One_More_Turn** [+11] *
+>> **u/One_More_Turn** [+10]  (5 hours later)
 >> 
 >> Minor spoilers for later events in book 14 follow.
->> >!The paladins' actions in 14-5 definitely seem not to be endorsed by the author. We later learn that their incident provoked multiple major political crises, Bishop Darling chews them out for most of [14-17](https://tiraas.net/2018/06/18/14-17/), and it's even implied that Yasmeen manipulated Trissiny into the outburst for her own purposes !<
 >> 
+>> >!The paladins' actions in 14-5 definitely seem not to be endorsed by the author. We later learn that their incident provoked multiple major political crises, Bishop Darling chews them out for most of [14-17](https://tiraas.net/2018/06/18/14-17/), and it's even implied that Yasmeen manipulated Trissiny into the outburst for her own purposes !<
 
->>> **u/Mountebank** [+6] *
+>>> **u/Mountebank** [+4]  (15 hours later)
 >>> 
 >>> Yeah, the lesson for that encounter wasn't "might makes right" but rather how easily Trissiny and co got manipulated by Yasmeen, a friendly face who's also an alumna of their University and thus ostensibly "on their side".
->>> 
 
->>> **u/cyberdsaiyan** [+4] *
+>>> **u/cyberdsaiyan** [+3]  (5 hours later)
 >>> 
 >>> That's tempting. I'll try to read a bit further and see if it pans out.
->>> 
 
->> **u/pizzahotdoglover** [+4] *
+>> **u/pizzahotdoglover** [+4]  (3 hours later)
 >> 
 >> I didn't mind the Scion stuff so much. I  think it was explained as well as it could have been, thought you're right, things always get weird when time is involved. I think it being strictly limited to that one god's domain keeps it from breaking the story. 
->> And I definitely agree, the violence against the noble seemed like a giant overreaction and the wrong choice. But 3 things: 1. Trissiny has struggled with this in the past- remember she tried to murder Gabe for calling her a bitch once, 2. She was acting as a Thieves' Guild enforcer, and not only is that basically their thing, they also have a casual blasé attitude towards inflicting violence (they're not really good people, despite their noble rogue thing), and 3. It's a Vesk quest, which means overdramatic plots, big reversals of fortune, and quick, pithy resolutions.
 >> 
+>> And I definitely agree, the violence against the noble seemed like a giant overreaction and the wrong choice. But 3 things: 1. Trissiny has struggled with this in the past- remember she tried to murder Gabe for calling her a bitch once, 2. She was acting as a Thieves' Guild enforcer, and not only is that basically their thing, they also have a casual blasé attitude towards inflicting violence (they're not really good people, despite their noble rogue thing), and 3. It's a Vesk quest, which means overdramatic plots, big reversals of fortune, and quick, pithy resolutions.
 
->>> **u/cyberdsaiyan** [+2] *
+>>> **u/cyberdsaiyan** [+2]  (3 hours later)
 >>> 
 >>> * You can't equate the sudden emotional reaction to her own arch enemy species (to her, at the time) *taunting* her and the planned, coldly executed beatdown of someone who can't fight back. Also you're referencing how she was in Book 1 and equating it to her behavior in Book 14, are you implying that she didn't get any character growth this entire time?
->>> > Unlike the last time she had crashed a high society party, she was just in her silver armor.
->>> * So, she was acting as the Hand of Avei, not guild.
->>> * The quests bend reality to fit around them? That was never really implied from the text. Till that point, the "narrative" if it even existed, was a subtle force of influence and not a world shaping superpower. Is it capable of mind control now? Does Quentin Vex just shake his head at all of Trissiny's actions, say "I hate it when she does that." and just move on with his business?
->>> * If so, that again just seems like handwaving stuff that's inconvenient to think about. "A God did it" instead of "A wizard did it".
 >>> 
+>>> > Unlike the last time she had crashed a high society party, she was just in her silver armor.
+>>> 
+>>> * So, she was acting as the Hand of Avei, not guild.
+>>> 
+>>> * The quests bend reality to fit around them? That was never really implied from the text. Till that point, the "narrative" if it even existed, was a subtle force of influence and not a world shaping superpower. Is it capable of mind control now? Does Quentin Vex just shake his head at all of Trissiny's actions, say "I hate it when she does that." and just move on with his business?
+>>> 
+>>> * If so, that again just seems like handwaving stuff that's inconvenient to think about. "A God did it" instead of "A wizard did it".
 
->>>> **u/pizzahotdoglover** [+3] *
+>>>> **u/pizzahotdoglover** [+5]  (3 hours later)
 >>>> 
 >>>> >* You can't equate the sudden emotional reaction to her own arch enemy species (to her, at the time) *taunting* her and the planned, coldly executed beatdown of someone who can't fight back.
->>>> True, but she tried to *murder* him just for calling her a name, while she carefully planned and executed the much less harmful beatdown. She had more of an excuse to reach for violence in the first instance, perhaps, but committed a much less violent act in the second. You could just as easily say, "You can't compare attempting to murder someone for calling her a name she didn't like to a measured bit of violence that did no permanent damage and was meant to merely humiliate." Both were wrong in their own ways and I think they do compare.
-
->>>> >* So, she was acting as the Hand of Avei, not guild.
->>>> Sure, officially, but I meant that she was drawing on her Guild training and their influence.
->>>> >* The quests bend reality to fit around them? That was never really implied from the text. Till that point, the "narrative" if it even existed, was a subtle force of influence and not a world shaping superpower. Is it capable of mind control now? 
->>>> No, but Vesk certainly manipulates people and events. He explicitly says so and gives several examples, later on in the book.
->>>> It's ok to say "A god did it" when the gods are actively involved in the story. It's like saying "A Sith did it" about the events of Star Wars. A Sith did in fact do it.
 >>>> 
+>>>> True, but she tried to *murder* him just for calling her a name, while she carefully planned and executed the much less harmful beatdown. She had more of an excuse to reach for violence in the first instance, perhaps, but committed a much less violent act in the second. You could just as easily say, "You can't compare attempting to murder someone for calling her a name she didn't like to a measured bit of violence that did no permanent damage and was meant to merely humiliate." Both were wrong in their own ways and I think they do compare.
+>>>> 
+>>>> >* So, she was acting as the Hand of Avei, not guild.
+>>>> 
+>>>> Sure, officially, but I meant that she was drawing on her Guild training and their influence.
+>>>> 
+>>>> >* The quests bend reality to fit around them? That was never really implied from the text. Till that point, the "narrative" if it even existed, was a subtle force of influence and not a world shaping superpower. Is it capable of mind control now? 
+>>>> 
+>>>> No, but Vesk certainly manipulates people and events. He explicitly says so and gives several examples, later on in the book.
+>>>> 
+>>>> It's ok to say "A god did it" when the gods are actively involved in the story. It's like saying "A Sith did it" about the events of Star Wars. A Sith did in fact do it.
 
->>>>> **u/cyberdsaiyan** [+2] *
+>>>>> **u/cyberdsaiyan** [+2]  (4 hours later)
 >>>>> 
 >>>>> > She had more of an excuse to reach for violence in the first instance, perhaps, but committed a much less violent act in the second.
->>>>> Both are still violent acts, and in a series where the demonstrable lesson till now is that "violence doesn't solve everything", this one violent act seems remarkably free of consequence, hence the bad vibes. Remember that after attacking Gabriel, Trissiny's reputation was in tatters and she got into a lot of trouble from Tellwyrn, but not so here.
->>>>> Also, any violence in recent books will have the weight of 14 books worth of character development behind it, so from that perspective, this act is very, very odd.
->>>>> > Sure, officially, but I meant that she was drawing on her Guild training and their influence.
->>>>> You do realize what "acting as Hand of Avei" means right? It means that the Avei herself has her eyes on this little theatre. In the name of Justice, without giving her a Trial, not informing her that a trial was actually taking place, or giving her a chance to defend herself, Trissiny proceeds to beat the living shit out a middle aged lady with her patron goddess watching.
->>>>> Avei is supposed to be the goddess of Justice, yet "Justice" doesn't seem to have been served, simply a one sided beatdown.
->>>>> > No
->>>>> Then that means Quentin Vex and/or the silver throne as a whole seems to be acting very much out of character, without sufficient justification.
->>>>> >, but Vesk certainly manipulates people and events. He explicitly says so and gives several examples, later on in the book.
->>>>> If Quentin and the emperor are being manipulated by Vesk, can I assume it's not actually revealed later in the book? Because there wasn't a scene with them immediately discussing the violent outburst of a Paladin toward a ruler figure that derives authority from the silver throne.
->>>>> > It's ok to say "A god did it" when the gods are actively involved in the story. It's like saying "A Sith did it" about the events of Star Wars. A Sith did in fact do it.
->>>>> It's true that the powers of the gods, as long as they are unexplained, are pretty much "whatever they want" in this universe (see: Scion). I don't necessarily like the ease at which it gives the author a free pass on things, but ok, fine. As long as things are consistent.
->>>>> But in-story, the Gods seem to be involved only through their Hands, at least *so far*. You don't see Avei smiting random thiefs and rapists from heaven. You might see Trissiny doing it on her behalf. Vesk breaks this precedent just a bit, but even he only nudges things this way or that. I haven't seen him exercise his power to shape the minds of mortals to better his story. If he did that, it would certainly be a huge event, and many powerful people like Tellwyrn, Mary the Crow, Justinian etc. would be able to feel it.
->>>>> The equivalent in the star wars universe would be, the sith spontaneously creating a death star out of nothing, and then saying it's one of their "dark side powers".
->>>>> Rules are established in every story, and when the story itself breaks them, readers will call the author out on it.
 >>>>> 
+>>>>> Both are still violent acts, and in a series where the demonstrable lesson till now is that "violence doesn't solve everything", this one violent act seems remarkably free of consequence, hence the bad vibes. Remember that after attacking Gabriel, Trissiny's reputation was in tatters and she got into a lot of trouble from Tellwyrn, but not so here.
+>>>>> 
+>>>>> Also, any violence in recent books will have the weight of 14 books worth of character development behind it, so from that perspective, this act is very, very odd.
+>>>>> 
+>>>>> > Sure, officially, but I meant that she was drawing on her Guild training and their influence.
+>>>>> 
+>>>>> You do realize what "acting as Hand of Avei" means right? It means that the Avei herself has her eyes on this little theatre. In the name of Justice, without giving her a Trial, not informing her that a trial was actually taking place, or giving her a chance to defend herself, Trissiny proceeds to beat the living shit out a middle aged lady with her patron goddess watching.
+>>>>> 
+>>>>> Avei is supposed to be the goddess of Justice, yet "Justice" doesn't seem to have been served, simply a one sided beatdown.
+>>>>> 
+>>>>> > No
+>>>>> 
+>>>>> Then that means Quentin Vex and/or the silver throne as a whole seems to be acting very much out of character, without sufficient justification.
+>>>>> 
+>>>>> >, but Vesk certainly manipulates people and events. He explicitly says so and gives several examples, later on in the book.
+>>>>> 
+>>>>> If Quentin and the emperor are being manipulated by Vesk, can I assume it's not actually revealed later in the book? Because there wasn't a scene with them immediately discussing the violent outburst of a Paladin toward a ruler figure that derives authority from the silver throne.
+>>>>> 
+>>>>> > It's ok to say "A god did it" when the gods are actively involved in the story. It's like saying "A Sith did it" about the events of Star Wars. A Sith did in fact do it.
+>>>>> 
+>>>>> It's true that the powers of the gods, as long as they are unexplained, are pretty much "whatever they want" in this universe (see: Scion). I don't necessarily like the ease at which it gives the author a free pass on things, but ok, fine. As long as things are consistent.
+>>>>> 
+>>>>> But in-story, the Gods seem to be involved only through their Hands, at least *so far*. You don't see Avei smiting random thiefs and rapists from heaven. You might see Trissiny doing it on her behalf. Vesk breaks this precedent just a bit, but even he only nudges things this way or that. I haven't seen him exercise his power to shape the minds of mortals to better his story. If he did that, it would certainly be a huge event, and many powerful people like Tellwyrn, Mary the Crow, Justinian etc. would be able to feel it.
+>>>>> 
+>>>>> The equivalent in the star wars universe would be, the sith spontaneously creating a death star out of nothing, and then saying it's one of their "dark side powers".
+>>>>> 
+>>>>> Rules are established in every story, and when the story itself breaks them, readers will call the author out on it.
 
->>>>>> **u/pizzahotdoglover** [+2] *
+>>>>>> **u/pizzahotdoglover** [+2]  (5 hours later)
 >>>>>> 
 >>>>>> I agree with you that the violence was weird and out of character and story-wise, deserves some consequences. I haven't read far enough to know if they happen. It does go against the established themes tho, as you pointed out.
->>>>>> Regarding your point about the reactions of Vex and Justinian, just because they weren't described in an interlude doesn't mean they didn't take notice. Presumably they continue to do their thing whether or not we see it.
->>>>>> I get that Trissiny was acting in her capacity as Hand, but I think her Eserite training and attitude was showing through. Justice doesn't specify the precise method by which it's administered.
->>>>>> And Vesk explains that he manipulated Trissiny into taking a certain course of action at the end of the book and making her think it was her own idea, in addition to ensuring that a handful of important people were all in a certain place at a certain time. So maybe the beatdown was another instance of Vesk manipulating Trissiny. I don't think an act like that would have the kind of magical ripples you suggest.
 >>>>>> 
+>>>>>> Regarding your point about the reactions of Vex and Justinian, just because they weren't described in an interlude doesn't mean they didn't take notice. Presumably they continue to do their thing whether or not we see it.
+>>>>>> 
+>>>>>> I get that Trissiny was acting in her capacity as Hand, but I think her Eserite training and attitude was showing through. Justice doesn't specify the precise method by which it's administered.
+>>>>>> 
+>>>>>> And Vesk explains that he manipulated Trissiny into taking a certain course of action at the end of the book and making her think it was her own idea, in addition to ensuring that a handful of important people were all in a certain place at a certain time. So maybe the beatdown was another instance of Vesk manipulating Trissiny. I don't think an act like that would have the kind of magical ripples you suggest.
 
->>>>>>> **u/cyberdsaiyan** [+3] *
+>>>>>>> **u/cyberdsaiyan** [+3]  (5 hours later)
 >>>>>>> 
 >>>>>>> > just because they weren't described in an interlude doesn't mean they didn't take notice. Presumably they continue to do their thing whether or not we see it.
->>>>>>> Once again, I'm working based off precedence here. Whenever anything world shaking happens in a Book, the reactions of those in power to such events (mostly the silver throne and imperial intelligence) will always be shown in the text on that book itself. For example, the hellgate incident, sleeper incident, Lor'naris... wait, pretty much every single significant event I can think of follows this pattern! Quentin Vex was even keeping track of the things going on in Sarasio, which was a pretty remote part of the empire.
->>>>>>> So from your text I'm inferring that no such interlude was shown in this book, which breaks the pattern, or that this is considered by the author to be an insignificant event (even though based on the worldbuilding, it's pretty significant).
->>>>>>> > Vesk explains that he manipulated Trissiny into taking a certain course of action at the end of the book...
->>>>>>> > ...maybe the beatdown was another instance of Vesk manipulating Trissiny.
->>>>>>> Your first point is based in text, the second is not. Because the event was public, had quite a shocking reaction, and everyone who was supposed to be concerned about it didn't get a PoV paragraph.
->>>>>>> Till now, the theme was that everything is interconnected, one twist or nudge in the web without thinking things through can affect something else connected to it. But here, Trissiny has taken a node in the web and publically humiliated her, with her goddess' consent, and there wasn't any ripple effect whatsoever.
->>>>>>> If you're following the series, I assume you've read Book 5 as well, and can check whether this incident is even mentioned in passing again.
 >>>>>>> 
+>>>>>>> Once again, I'm working based off precedence here. Whenever anything world shaking happens in a Book, the reactions of those in power to such events (mostly the silver throne and imperial intelligence) will always be shown in the text on that book itself. For example, the hellgate incident, sleeper incident, Lor'naris... wait, pretty much every single significant event I can think of follows this pattern! Quentin Vex was even keeping track of the things going on in Sarasio, which was a pretty remote part of the empire.
+>>>>>>> 
+>>>>>>> So from your text I'm inferring that no such interlude was shown in this book, which breaks the pattern, or that this is considered by the author to be an insignificant event (even though based on the worldbuilding, it's pretty significant).
+>>>>>>> 
+>>>>>>> > Vesk explains that he manipulated Trissiny into taking a certain course of action at the end of the book...
+>>>>>>> 
+>>>>>>> > ...maybe the beatdown was another instance of Vesk manipulating Trissiny.
+>>>>>>> 
+>>>>>>> Your first point is based in text, the second is not. Because the event was public, had quite a shocking reaction, and everyone who was supposed to be concerned about it didn't get a PoV paragraph.
+>>>>>>> 
+>>>>>>> Till now, the theme was that everything is interconnected, one twist or nudge in the web without thinking things through can affect something else connected to it. But here, Trissiny has taken a node in the web and publically humiliated her, with her goddess' consent, and there wasn't any ripple effect whatsoever.
+>>>>>>> 
+>>>>>>> If you're following the series, I assume you've read Book 5 as well, and can check whether this incident is even mentioned in passing again.
 
->>>>>>>> **u/pizzahotdoglover** [+1] *
+>>>>>>>> **u/pizzahotdoglover** [+1]  (6 hours later)
 >>>>>>>> 
 >>>>>>>> I definitely get your point but I don't think Triss bullying a noblewoman is a world shaking event. There have been some reactions to it shown, and there may be more in Book 15.
->>>>>>>> 
 
->> **u/None** [+6] *
+>> **u/None** [+5]  (5 hours later)
 >> 
 >> it took you that long reading the story to have a problem with the silly characterization and the childlike political opinions of the author?
->> i figured everyone who was still reading it was doing so to learn how the plot turns out (because even after all the hints, we still really have no clue)
 >> 
+>> i figured everyone who was still reading it was doing so to learn how the plot turns out (because even after all the hints, we still really have no clue)
 
->>> **u/Empiricist_or_not** [+6]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+6]  *Aspiring polite Hegemonizing swarm* (a day later)
 >>> 
 >>> >!There's a pope hacking AI gods, & trying to bring on a communist divinity singularity (and maybe not enough god to go around), a rebel god disgusted at the current AI gods, and a window for more gods coming up, a elder god's avatar as headmistress of the main characters/pawns/next set of gods!< , other power players, other chekov's guns , and "a great doom coming"  I'm for one am interested to see what the next nash equilibra will be aka how it all shakes out.
->>> 
 
->>> **u/TheColourOfHeartache** [+3] *
+>>> **u/TheColourOfHeartache** [+3]  (23 hours later)
 >>> 
 >>> I feel like the politics actually got worse as it went along. For example in the early books Sweet was teaching about how even people with very powerful magic need to be careful not to attract the wrong attention. 
->>> In the late books he and the thieves guild >!are kidnapping and torturing imperial intelligence agents just to prove that they should be feared; and even breaking into the head of imperial intelligence's house to threaten him!<
 >>> 
+>>> In the late books he and the thieves guild >!are kidnapping and torturing imperial intelligence agents just to prove that they should be feared; and even breaking into the head of imperial intelligence's house to threaten him!<
 
->> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (a day later)
 >> 
 >> IMHO The lesson, couched in today's culture war class warfare, was intended to be: the fear of violence, in the powerful, being a good thing.
->> 
 
-> **u/Vardhan-D** [+1] *
+> **u/Vardhan-D** [+1]  (3 years later)
 > 
 > Hey, I am thinking of starting this (God's r bastards), do u think it's a good idea to read multiple we serials at same time. I find them very slow (eng novels too) but I like the concepts... 
 > I am currently reading worm & thinking of starting: PGTE, Gods are bastards & forty millineuns of cultivation... R they complex, can I follow them or will it become mess?
-> 
 
 ---
 

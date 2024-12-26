@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/TheUtilitaria** [+2] *
+> **u/TheUtilitaria** [+2]  (42 seconds later)
 > 
 > Despite the name, this is actually the penultimate chapter. You can start the story [here](https://ascentuniverse.wordpress.com/2017/09/28/chapter-1-necessity/).
-> 
 
 ---
 

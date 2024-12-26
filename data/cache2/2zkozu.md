@@ -2,7 +2,7 @@
 
 * Author: u/rationalidurr  *If fighting is sure to result in victory, then you must fight!**
 * URL: https://www.reddit.com/r/rational/comments/2zkozu/edu_space_engine/
-* Score: 2
+* Score: 3
 
 * Created: 2015-03-19T11:25:41
 
@@ -21,23 +21,23 @@ Game is free.
 
 ### Comments:
 
-> **u/ArmokGoB** [+3] *
+> **u/ArmokGoB** [+3]  (2 hours later)
 > 
 > Love this concept, but there's no linux version. :(
-> One of the best uses that seems suggested (especially by the name) but sadly nobody seems to have done yet, is to have this as the background/basis/seed chooser for what is pretty much any unrelated game taking place on a single planet in real time, redoing entirely the modeling and rendering of that one planet but using the generated heightmap and geology and such as the starting point, and using it for a spectacular skybox and controlling light conditions and calendar and such.
 > 
+> One of the best uses that seems suggested (especially by the name) but sadly nobody seems to have done yet, is to have this as the background/basis/seed chooser for what is pretty much any unrelated game taking place on a single planet in real time, redoing entirely the modeling and rendering of that one planet but using the generated heightmap and geology and such as the starting point, and using it for a spectacular skybox and controlling light conditions and calendar and such.
 
->> **u/qznc** [+2]  *Chaos Legion**
+>> **u/qznc** [+2]  *Chaos Legion* (10 hours later)
 >> 
 >> At least, Linux is "planned" according to the FAQ.
->> edit: and it seems to work well in Wine
 >> 
+>> edit: and it seems to work well in Wine
 
-> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!**
+> **u/rationalidurr** [+1]  *If fighting is sure to result in victory, then you must fight!* (6 minutes later)
 > 
 > And apparently moding is allowed so if anyone has any bright ideas to add TTGL in game, you go on right ahead.
->  http://en.spaceengine.org/forum/17
 > 
+>  http://en.spaceengine.org/forum/17
 
 ---
 

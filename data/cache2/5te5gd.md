@@ -2,7 +2,7 @@
 
 * Author: u/NanashiSaito *
 * URL: https://www.reddit.com/r/rational/comments/5te5gd/ffrst_orders_of_magnitude_ch21_saturn_ascends_and/
-* Score: 6
+* Score: 5
 
 * Created: 2017-02-11T12:50:30
 

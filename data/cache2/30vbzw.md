@@ -2,7 +2,7 @@
 
 * Author: u/callmebrotherg  *now posting as /u/callmesalticidae**
 * URL: https://www.reddit.com/r/rational/comments/30vbzw/ranimorphsthe_reckoning_theorizing/
-* Score: 11
+* Score: 14
 
 * Created: 2015-03-31T00:19:12
 
@@ -56,86 +56,94 @@ I think it most likely that the Time Matrix is somehow incapable of affecting it
 
 ### Comments:
 
-> **u/Arandur** [+3] *
+> **u/Arandur** [+3]  (5 hours later)
 > 
 > I really want this to be true because closure
-> but I really don't want this to be true because terror
 > 
+> but I really don't want this to be true because terror
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (5 hours later)
 >> 
 >> The Yeerks are acting like rational agents and you're only afraid *now*?
->> 
 
->>> **u/Arandur** [+2] *
+>>> **u/Arandur** [+2]  (6 hours later)
 >>> 
 >>> It's not rational, but... the Yeerks still feel like a known threat, even though they're acting demonstrably differently.
->>> 
 
->>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (6 hours later)
 >>>> 
 >>>> And the pseudo-Lovecraftian possible-product-of-the-Time-Matrix-itself... 
->>>> Okay, I can see why The One might freak you out a little bit more. 
->>>> How bad does The One have to _be_, that our Unknown Meddler had to *rewrite space and time and possibly even adjust physical or Z-space laws* in order to beat it? 
->>>> /tries to imagine a future that makes "galactic infestation by Yeerks" a better alternative
->>>> /is worried now too!
 >>>> 
+>>>> Okay, I can see why The One might freak you out a little bit more. 
+>>>> 
+>>>> How bad does The One have to _be_, that our Unknown Meddler had to *rewrite space and time and possibly even adjust physical or Z-space laws* in order to beat it? 
+>>>> 
+>>>> /tries to imagine a future that makes "galactic infestation by Yeerks" a better alternative
+>>>> 
+>>>> /is worried now too!
 
->>>>> **u/Nighzmarquls** [+2] *
+>>>>> **u/Nighzmarquls** [+2]  (21 hours later)
 >>>>> 
 >>>>> If the yoort are still around galactic infestation by yeerks could eventually turn up on the positive side for sentient life/positive values humans care about.
->>>>> If you have been looking at the more aggressive things that are possible with highly competent optimizers yeerk universal infestation is pretty high on my list of "this thing is pretty good by comparison".
 >>>>> 
+>>>>> If you have been looking at the more aggressive things that are possible with highly competent optimizers yeerk universal infestation is pretty high on my list of "this thing is pretty good by comparison".
 
->>>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>>>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (21 hours later)
 >>>>>> 
 >>>>>> I'm kinda disappointed by how KA dropped the ball with the Yoort. They never showed up again, and then the way that the series ended it seems like they're never going to be relevant because the Yeerks were getting treated to the Escafil device and being made into nothlits. 
->>>>>> Hm...
->>>>>> I propose that Crayak or The One managed to interfere with the Ellimist's plans, and that the Ellimist didn't want the Yeerks to be forced to take the nothlit route and, at the time of the Yoort plot, didn't think that would happen.
 >>>>>> 
+>>>>>> Hm...
+>>>>>> 
+>>>>>> I propose that Crayak or The One managed to interfere with the Ellimist's plans, and that the Ellimist didn't want the Yeerks to be forced to take the nothlit route and, at the time of the Yoort plot, didn't think that would happen.
 
-> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+> **u/chaosmosis** [+2]  *and with strange aeons, even death may die* (4 hours later)
 > 
 > Are you a god?
-> 
 
->> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (5 hours later)
 >> 
 >> Only on probation. >:]
->> (I'm glad you like this theory)
->> (Weird implication of this theory: There was a time when the only sapient beings in existence were Elfangor, Loren, and Esplin/Visser 3, and also any beings like The One may be, that are protected against the Time Matrix)
->> (Okay, and now I'm wondering if it'd be really neat or not for The One to have been created by that aforementioned use of the Time Matrix)
 >> 
+>> (I'm glad you like this theory)
+>> 
+>> (Weird implication of this theory: There was a time when the only sapient beings in existence were Elfangor, Loren, and Esplin/Visser 3, and also any beings like The One may be, that are protected against the Time Matrix)
+>> 
+>> (Okay, and now I'm wondering if it'd be really neat or not for The One to have been created by that aforementioned use of the Time Matrix)
 
-> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+2]  *Emergency Mustelid Hologram* (12 hours later)
 > 
 > Now, I haven't read more than a little of the Animorphs because it was so horribly unrational... so there may be something in the books that makes this comment moot... but if not I think this question is the result of a category error:
-> "Riddle me this: What's more likely, that the Time Matrix sends you back in time and creates new universes, or that the Time Matrix only creates new universes, and your apparent time travel is the result of the universe being recreated as it was at your intended temporal destination?"
-> I don't see that there's a meaningful way to distinguish these two statements. What would the observable difference between the two situations be?
 > 
+> "Riddle me this: What's more likely, that the Time Matrix sends you back in time and creates new universes, or that the Time Matrix only creates new universes, and your apparent time travel is the result of the universe being recreated as it was at your intended temporal destination?"
+> 
+> I don't see that there's a meaningful way to distinguish these two statements. What would the observable difference between the two situations be?
 
->> **u/scruiser** [+2]  *CYOA**
+>> **u/scruiser** [+2]  *CYOA* (12 hours later)
 >> 
 >> > "Riddle me this: What's more likely, that the Time Matrix sends you back in time and creates new universes, or that the Time Matrix only creates new universes, and your apparent time travel is the result of the universe being recreated as it was at your intended temporal destination?"
->> -
->> > What would the observable difference between the two situations be?
->> If you have universe traveling capabilities outside of the Time Matrix you could travel to the original universe if it still existed.
->> If someone tried using the Time Matrix to return to the original universe, it would either need to have the original saved, or generate a fake imitation of the original universe, or it needs to have created a new universe and left the original intact for that person to be able to go their.
 >> 
+>> -
+>> 
+>> > What would the observable difference between the two situations be?
+>> 
+>> If you have universe traveling capabilities outside of the Time Matrix you could travel to the original universe if it still existed.
+>> 
+>> If someone tried using the Time Matrix to return to the original universe, it would either need to have the original saved, or generate a fake imitation of the original universe, or it needs to have created a new universe and left the original intact for that person to be able to go their.
 
->>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram* (20 hours later)
 >>> 
 >>> Neither of those distinguish between "sends you back in time and creates new universes" and "creates new universes as they are at your intended temporal destination".
->>> 
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (21 hours later)
 >> 
 >> From the inside I'm not sure that you would be able to tell, which is why it's so easy to think that the Time Matrix is, well, a time machine. 
+>> 
 >> But from some theoretical vantage point outside of the Time Matrix's area of effect you would be able to tell. Alternately, if you were treated to the botched universe that Elfangor, Loren, and V3 made, you might start wondering, even if you couldn't prove it without finding the right vantage point. 
+>> 
 >> **Edit:** To clarify, I think that the distinction is important because one, it raises the probability that the r!Animorphs continuity was created by someone in the canon continuity, but two (and more importantly), because it supposes that there is something outside of what the Time Matrix can affect. 
 >> If the Time Matrix could change anything and everything then there'd be no need for a universal INT/WIS boost because you could just remove The One (or whatever our Unknown Meddler was trying to fight). 
->> But from the inside you wouldn't be able to tell, barring access to information from the right vantage point.
 >> 
+>> But from the inside you wouldn't be able to tell, barring access to information from the right vantage point.
 
 ---
 

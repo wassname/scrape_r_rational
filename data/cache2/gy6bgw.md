@@ -12,152 +12,145 @@
 
 ### Comments:
 
-> **u/Watchful1** [+30] *
+> **u/Watchful1** [+29]  (an hour later)
 > 
 > You kinda gotta feel for Velika. She's an asshole, but Westbridge really did fuck her over.
-> Well this neatly narrows the plot down. Rain has 6 weeks to figure out how his soul works and turn off the barrier. I just wonder how many chapters it's going to end up taking.
-> The possible interesting developments are what Ameliah is doing, where that empire army went and what Val is up to. Fairly sure we'll get enough plot development for there to still be some major objective even after the barrier is down, so something's gotta happen other than Rain just meditating all day.
 > 
+> Well this neatly narrows the plot down. Rain has 6 weeks to figure out how his soul works and turn off the barrier. I just wonder how many chapters it's going to end up taking.
+> 
+> The possible interesting developments are what Ameliah is doing, where that empire army went and what Val is up to. Fairly sure we'll get enough plot development for there to still be some major objective even after the barrier is down, so something's gotta happen other than Rain just meditating all day.
 
->> **u/ThinkPan** [+13] *
+>> **u/ThinkPan** [+15]  (9 hours later)
 >> 
 >> Probably like 15 more, plus 8 where rain just obsesses over his user interface.
->> 
 
->>> **u/Gr_Cheese** [+8] *
+>>> **u/Gr_Cheese** [+9]  (13 hours later)
 >>> 
 >>> The author's a lot better than you're implying. Very, very slight spoilers: >!As someone who has read ahead, shit gets real. We do not see a repeat of the 'I'm trapped in a hole' conundrum.!<
->>> 
 
->>>> **u/kaukamieli** [+12] *
+>>>> **u/kaukamieli** [+10]  (18 hours later)
 >>>> 
 >>>> Spaghetti Monster, grant me strength to not fall for the spoilers...
->>>> 
 
->>>>> **u/DoubleBullfrog** [+7] *
+>>>>> **u/DoubleBullfrog** [+6]  (19 hours later)
 >>>>> 
 >>>>> I wouldn't really consider it a spoiler as much as an assurance that the author has not forgotten about the plot.
->>>>> 
 
->>>>> **u/DearDeathDay** [+1] *
+>>>>> **u/DearDeathDay** [+1]  (19 hours later)
 >>>>> 
 >>>>> Nah they aren’t that bad.
->>>>> 
 
->>>> **u/Bowbreaker** [+5]  *Solitary Locust**
+>>>> **u/Bowbreaker** [+5]  *Solitary Locust* (a day later)
 >>>> 
 >>>> On the other hand, >!10 chapters ahead and he just tried interfacing with the barrier controlling device for merely the second time.!<
->>>> 
 
->>>>> **u/Gr_Cheese** [+3] *
+>>>>> **u/Gr_Cheese** [+3]  (a day later)
 >>>>> 
 >>>>> >!We both know there were reasons for that. It wasn't exactly a slow burn when the entire city was literally on fire. Also Patreon is only up to 106, which is 8 chapters ahead, where did you get the other 2?!<
->>>>> 
 
->>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust* (a day later)
 >>>>>> 
 >>>>>> I think it used to be 10? Maybe? Might just be my faulty memory.
->>>>>> 
 
->> **u/GreatNortherner** [+1] *
+>> **u/GreatNortherner** [+1]  (2 hours later)
 >> 
 >> Did Mlem try to use his special skipper plates or whatever they were called already? That is still one way Rain might skip out of the barrier without actually bringing it down. also I don't think he has six weeks. Velika is probably willing to try killing everyone else to escape. But she would need time for the mana to drain out. 
->> once out of the barrier though I feel like with what has to be a rank shift happening, that will play a role in what Rain has to deal with. Maybe leading to his next blue kill? 
->> I am pretty interested in what will happen when he gets another chance to meditate and reach into the chaos he caught a glimpse of.
 >> 
+>> once out of the barrier though I feel like with what has to be a rank shift happening, that will play a role in what Rain has to deal with. Maybe leading to his next blue kill? 
+>> 
+>> I am pretty interested in what will happen when he gets another chance to meditate and reach into the chaos he caught a glimpse of.
 
->>> **u/SpaceTimeOverGod** [+16] *
+>>> **u/SpaceTimeOverGod** [+15]  (6 hours later)
 >>> 
 >>> Mlem tried to use them but it didn’t cross the barrier.
->>> 
 
->>> **u/TheTruthVeritas** [+13] *
+>>> **u/TheTruthVeritas** [+12]  (3 hours later)
 >>> 
 >>> I doubt Velika would kill everybody. She’s pretty insane but she looks to be really out of it, there’s really no point in killing everyone. If she does do that and is the only one that escapes, every faction is going to scapegoat her. She’s the DKE representative that took over a Watch city and slaughtered a bunch of guildies and Watch members. They’d definitely kill her, and the DKE was already plotting to sacrifice her as the Sadanis rep anyways, so they’d likely kill her too. The only real concern is the food problem and rising temperatures, Velika is most likely going to be passive.
->>> I really do wonder what’s going to happen from here. Is Rain going to discover something from his meditation or from whatever’s going to happen to Dozer, or is he going to find a higher level blue? I’m curious to see how the barrier is going to be handled, since there appears to be a powerful guardian and difficult to even turn off.
 >>> 
+>>> I really do wonder what’s going to happen from here. Is Rain going to discover something from his meditation or from whatever’s going to happen to Dozer, or is he going to find a higher level blue? I’m curious to see how the barrier is going to be handled, since there appears to be a powerful guardian and difficult to even turn off.
 
->>>> **u/RetardedWabbit** [+7] *
+>>>> **u/RetardedWabbit** [+7]  (14 hours later)
 >>>> 
 >>>> Agreed. Her current behavior is more in line with "we are all going to die in here" than "I'm going to kill everyone else in here". Seems like She has completely given up and isn't gearing up to kill.
->>>> 
 
-> **u/steelong** [+25] *
+> **u/steelong** [+26]  (5 hours later)
 > 
 > Prediction:  The Artifact runs on something like a programming language, which nobody else in this setting has had any experience with.  This lack of familiarity is part (but not all) of the reason why using the artifact is so difficult.  Rain attempted to get a degree in video game design (or something like that) so he should have some understanding of coding.
-> That, combined with his overmana boost to learning, will let him learn enough of the programming language to use the artifact.  There will also be one (1) to three (3) other complications making this process a bit more difficult.
 > 
+> That, combined with his overmana boost to learning, will let him learn enough of the programming language to use the artifact.  There will also be one (1) to three (3) other complications making this process a bit more difficult.
 
->> **u/None** [+39] *
+>> **u/None** [+41]  (5 hours later)
 >> 
 >> imagine Rains reaction when the artifact boots up and runs on Windows Vista or some shit.
->> The horror.
 >> 
+>> The horror.
 
->>> **u/CreationBlues** [+18] *
+>>> **u/CreationBlues** [+18]  (9 hours later)
 >>> 
 >>> I dunno, a weird permanently on administration obelisk feels more like a Linux thing.
->>> 
 
->>>> **u/RetardedWabbit** [+8] *
+>>>> **u/RetardedWabbit** [+7]  (11 hours later)
 >>>> 
 >>>> You hope it's a Linux thing, but if it's Windows that's stuck running for months they are doomed for sure.
->>>> 
 
->>>>> **u/IICVX** [+7] *
+>>>>> **u/IICVX** [+7]  (13 hours later)
 >>>>> 
 >>>>> if it's an old enough version of Windows you can get in just by [clicking around a bit](https://www.reddit.com/r/hacking/comments/djvzd/windows_nt_login_hack_gif/), which would be ideal.
->>>>> 
 
->>> **u/eaglejarl** [+2] *
+>>> **u/eaglejarl** [+1]  (16 hours later)
 >>> 
 >>> And the programming language is PHP4.
->>> 
 
->>>> **u/Hard_Avid_Sir** [+2] *
+>>>> **u/Hard_Avid_Sir** [+2]  (18 hours later)
 >>>> 
 >>>> Or COBOL...
->>>> 
 
->>>>> **u/eaglejarl** [+2] *
+>>>>> **u/eaglejarl** [+2]  (18 hours later)
 >>>>> 
 >>>>> Or maybe [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL#Syntax)
->>>>> 
 
->>> **u/LifeIsBizarre** [+1] *
+>>> **u/LifeIsBizarre** [+1]  (2 days later)
 >>> 
 >>> [Have you tried turning it off and on again?](https://www.youtube.com/watch?v=-IfnjBHtjHc)
->>> 
 
-> **u/PDNeznor** [+16] *
+> **u/PDNeznor** [+19]  (3 hours later)
 > 
 > Did Val just yeet himself out a SIX story building?! He's just turning into a Link clone in my head the more he shows up. Goddammit, he's the hero we all expected, but not the one we got. On that note, Carten is turning into a beanbag with a face painted on at this point. Poor guy.
-> I think I've been reading way too much Brandon Sanderson because I was starting to get excited at the thought of rich people intrigue and scandal. I may need to recalibrate my expectations here.
 > 
+> I think I've been reading way too much Brandon Sanderson because I was starting to get excited at the thought of rich people intrigue and scandal. I may need to recalibrate my expectations here.
 
-> **u/ulyssessword** [+16] *
+> **u/ulyssessword** [+16]  (16 hours later)
 > 
 > **Rain should've chosen Worker instead of Dynamo**.  He gives up the tripled base mana regen and the ability to get XP from combat, but gains a 50% boost to Purify, Winter, Detection, Velocity, Essence Well, and all Aura Metamagic and Magical Utility skills.
+> 
 > While running Winter on himself, he would have much higher mana regen than as a Dynamo, and there would be a whole host of other advantages.
+> 
 > - Winter would get a 50% boost to its effects, going +150% (from +100%) and increasing its base range to 15m (from 10m).  
 > - Combined with the improved Extend, it would reach 30m (vs. 20m).  
 > - Aura Synergy would be acting on the same number of aura ranks but has a greater effect, (2.2x instead of 1.8x), bringing us to 330%@66m (vs. 180%@36m).  
 > - Amplify is boosted: 825%@66m (vs. 360%@36m), 
 > - as is Channel Mastery, for 2062.5%@66m (vs. 720%@36m).  
 > - Aura Compression is boosted twice, from the increased range and the increased bonus per meter, bringing us to 6146.25%@0m (vs. 1238.4%@0m)
+> 
 > Overall, he has given up 3x mana regen from Dynamo and gained 5x mana regen from Winter with increased metamagic.
+> 
 > If he chooses to use Aura Focus for a Singularity, then things start getting silly.
+> 
 > - Start from the Channel Mastery calculation for 2062.5%@66m (vs. 720%@36m). 
 > - Aura Focus is 4x instead of x3, which gives us 8250%@264m (vs. 2160%@108m)
 > - Aura compression is doubly boosted, which gives us 73590%@0m (vs. 6825.6%@0m)
-> Furthermore, Intrinsic Clarity is a x4 bonus instead of x3, and Intrinsic Focus and Cross Coupling are similarly boosted.  Immolate and Refrigerate only directly benefit from the increased metamagic, but Aura Synergy being 2.2x instead of 1.8x is a 22% boost to damage and range regardless.
-> ---
-> **TL;DR**: Rain has a synergy-build, not a mana-regen build.  He would've been better served by taking a 1.5x boost that stacks half a dozen times to almost everything rather than a 3x boost that applies once to one thing.
 > 
+> Furthermore, Intrinsic Clarity is a x4 bonus instead of x3, and Intrinsic Focus and Cross Coupling are similarly boosted.  Immolate and Refrigerate only directly benefit from the increased metamagic, but Aura Synergy being 2.2x instead of 1.8x is a 22% boost to damage and range regardless.
+> 
+> ---
+> 
+> **TL;DR**: Rain has a synergy-build, not a mana-regen build.  He would've been better served by taking a 1.5x boost that stacks half a dozen times to almost everything rather than a 3x boost that applies once to one thing.
 
->> **u/xamueljones** [+11]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+14]  *My arch-enemy is entropy* (16 hours later)
 >> 
 >> There's just one issue. The text for the Worker Class says:
+>> 
 >> >**Worker** (+)  
 >> >  
 >> >Common  
@@ -167,114 +160,116 @@
 >> >Effect: 50% boost to non-combat skills  
 >> >  
 >> >**Warning**: Experience may no longer be gained through combat
->> Meaning that the 50% boost is only meant for *crafting* trees. So it wouldn't apply to Offensive Auras, Defensive Auras, or Aura Metamagic trees at all.
->> There could be an argument that it can apply to Utility Auras and/or Magical Utility but they are support for other combatants or improves the user's mana.
->> So while Worker is better for Rain's build by the numbers; in practice, it's very doubtful that any of the skills would be considered non-combatant.
->> EDIT: Oh wait, you explicitly only talked about the Utility Auras, metamagics, and Magical Utility. So you were already aware.
 >> 
+>> Meaning that the 50% boost is only meant for *crafting* trees. So it wouldn't apply to Offensive Auras, Defensive Auras, or Aura Metamagic trees at all.
+>> 
+>> There could be an argument that it can apply to Utility Auras and/or Magical Utility but they are support for other combatants or improves the user's mana.
+>> 
+>> So while Worker is better for Rain's build by the numbers; in practice, it's very doubtful that any of the skills would be considered non-combatant.
+>> 
+>> EDIT: Oh wait, you explicitly only talked about the Utility Auras, metamagics, and Magical Utility. So you were already aware.
 
->> **u/RetardedWabbit** [+3] *
+>> **u/RetardedWabbit** [+3]  (16 hours later)
 >> 
 >> Is the only draw back no longer getting exp from monsters?
->> Edit: This build wouldn't be slow to start as I previously mentioned, it "only" needs 3 synergistic mana or aura skills to exceed the tripled base regen.
 >> 
+>> Edit: This build wouldn't be slow to start as I previously mentioned, it "only" needs 3 synergistic mana or aura skills to exceed the tripled base regen.
 
->>> **u/ulyssessword** [+3] *
+>>> **u/ulyssessword** [+3]  (17 hours later)
 >>> 
 >>> With Winter 1 and Intrinsic Clarity 2 (which is what he had when he chose a class), he would be gaining 0.40x as much mana as a Dynamo.  I'm not sure how significant that is, especially given the lower XP requirements of non-rare classes.
->>> Leveling Winter is capped by the number of hours in a day, but IC isn't.
 >>> 
+>>> Leveling Winter is capped by the number of hours in a day, but IC isn't.
 
->>> **u/kaukamieli** [+1] *
+>>> **u/kaukamieli** [+1]  (a day later)
 >>> 
 >>> The draback is most probably that you don't get the better dynamo classes if you take worker. You also would not have a reason to get only that one stat, so you'd learn the language slower, remember fewer things, probably not get to use the artifact that he is obviously going to use...
->>> 
 
->> **u/eaglejarl** [+2] *
+>> **u/eaglejarl** [+2]  (16 hours later)
 >> 
 >> You're absolutely right in terms of the effects and the value of it, but can you *imagine* the reaction from the "numbers must go up and I'm bored because Rain hasn't raise his level cap yet" crowd?
->> 
 
->>> **u/RetardedWabbit** [+7] *
+>>> **u/RetardedWabbit** [+8]  (16 hours later)
 >>> 
 >>> I think that's a straw man argument, but even then why would those people have a problem with this? This proposed build "makes the numbers go up" a astronomical amount.
->>> 
 
->>>> **u/eaglejarl** [+4] *
+>>>> **u/eaglejarl** [+4]  (18 hours later)
 >>>> 
 >>>> > I think that's a straw man argument,
->>>> It really is not.  Read the comments on RR or on his Patreon.  "Rain hasn't raised his cap in forever" is in the top three comments about the story, if not *the* most common.  Drop into the Discord and you'll see constant discussion about alternative ways that he could raise his cap.
 >>>> 
+>>>> It really is not.  Read the comments on RR or on his Patreon.  "Rain hasn't raised his cap in forever" is in the top three comments about the story, if not *the* most common.  Drop into the Discord and you'll see constant discussion about alternative ways that he could raise his cap.
 
->>>> **u/kaukamieli** [+1] *
+>>>> **u/kaukamieli** [+1]  (19 hours later)
 >>>> 
 >>>> We don't know that. We don't know what he gets in the future, because his final build is not revealed yet.
->>>> Up to this point? Maybe. But he is as strong as plot dictates. Maybe worker would be weaker if he was actually planned to take that?
->>>> And hey, you can be happy he did this instead of some other weaker build and consider the numbers have gone up as well.
 >>>> 
+>>>> Up to this point? Maybe. But he is as strong as plot dictates. Maybe worker would be weaker if he was actually planned to take that?
+>>>> 
+>>>> And hey, you can be happy he did this instead of some other weaker build and consider the numbers have gone up as well.
 
-> **u/Dasumit** [+6] *
+> **u/Dasumit** [+5]  (11 hours later)
 > 
 > I like the story very much. But I hope I don't die of old age before he gets out of barrier.
-> 
 
->> **u/ironistkraken** [+1] *
+>> **u/ironistkraken** [+1]  (11 hours later)
 >> 
 >> What we skipped 4 days right?  6 weeks \* 7 days pre week =  42 days
->> 42 days/ ave time skip of 4 days = 10 .5 chapters.  So about 2 real-life months of updates before no barrier(I hope).
 >> 
+>> 42 days/ ave time skip of 4 days = 10 .5 chapters.  So about 2 real-life months of updates before no barrier(I hope).
 
->>> **u/eaglejarl** [+3] *
+>>> **u/eaglejarl** [+3]  (16 hours later)
 >>> 
 >>> Patreon reader here.
->>> >!As of chapter 106 he's still in the barrier.!<
 >>> 
+>>> >!As of chapter 106 he's still in the barrier.!<
 
->>>> **u/thatavidreadertrue** [+5] *
+>>>> **u/thatavidreadertrue** [+4]  (21 hours later)
 >>>> 
 >>>> Eww. Thanks for the warning.
->>>> 
 
->>>>> **u/munkeegutz** [+3] *
+>>>>> **u/munkeegutz** [+3]  (a day later)
 >>>>> 
 >>>>> Eh there's significant progress being made, they are definitely not just hanging around.  Most people would be very interested in knowing the contents of chapter 105 for instance
->>>>> 
 
->>> **u/Dasumit** [+2] *
+>>> **u/Dasumit** [+2]  (11 hours later)
 >>> 
 >>> I hope too. And no other side quests comes in between.
->>> 
 
-> **u/RetardedWabbit** [+2] *
+> **u/RetardedWabbit** [+2]  (11 hours later)
 > 
 > I wonder what % of the dome's mana came from Rain himself, not counting winter? He presumably produces more than 8 focus mages combined, but I wonder how he compares to non-mages. He could very well hold up the barrier himself.
-> We don't really have much information about how the dome's mana works do we? It announced and drained at the start but doesn't seem to have been draining anything since, even when the Empire was trying to crack it. For all we know it could be single use, is now discharging, and is at an unknown percentage.
-> Also Rain may be able to drain the barrier using mana manipulation or area damage.
 > 
+> We don't really have much information about how the dome's mana works do we? It announced and drained at the start but doesn't seem to have been draining anything since, even when the Empire was trying to crack it. For all we know it could be single use, is now discharging, and is at an unknown percentage.
+> 
+> Also Rain may be able to drain the barrier using mana manipulation or area damage.
 
->> **u/danielparks** [+5] *
+>> **u/danielparks** [+5]  (a day later)
 >> 
 >> In [chapter 83](https://www.royalroad.com/fiction/25225/delve/chapter/463202/083-boon) Rain mentions that the unawakened far outweigh the contributions of the Guild:
+>> 
 >> > “You know her so well?” Rill said, raising an eyebrow at her. Melka scowled, but did not respond. “As I said, she is not stupid. Her commands thus far have been reasonable, and she will listen to reason if it is presented to her properly. Citizen Westbridge is the greater mystery. I would have thought he would have honored Halgrave’s request to allow the Guild to depart.”
 >> > 
 >> > “Yeah, me too,” said Rain, nodding. “At first, I thought they wanted us in here to fuel the barrier, but the math doesn’t check out. There’s too many unawakened for a hundred or so Bronzeplates to matter.”
->> 
 
->> **u/ulyssessword** [+7] *
+>> **u/ulyssessword** [+6]  (15 hours later)
 >> 
 >> >I wonder what % of the dome's mana came from Rain himself, not counting winter? He presumably produces more than 8 focus mages combined, but I wonder how he compares to non-mages. He could very well hold up the barrier himself.
->> Rain might produce as much mana as the rest of the Awakened in the town, even excluding his effect on others via Winter.
->> Compared to a Mage with balanced stats, he has double the clarity and 3x the regen per point of clarity.  This is an x6 multiplier.
->> If he keeps up Winter (13.38x mana regen) half of the day, it would be another x7 multiplier to the mana he generates in any given day, bringing him to 42 mage-equivalents of mana regen. (Winter Singularity gives him 70x mana regen, bringing him to 420 mage-equivalents if he uses it 24/7).
->> I'm assuming that most of the mages have Intrinsic Clarity, Intrinsic Focus, and Cross Coupling.  This would be a more effective boost to them than to Rain because they would get +25 Clarity compared to Rain's +2.5, but they likely don't all have it, or aren't all fully-leveled, so I'm saying it's a wash.
->> Warriors have essentially zero mana regen compared to Mages.  They have 1/10 the Clarity and 1/3 the regen per point (due to lacking Intrinsic Clarity), giving them 1/30 Mage-equivalent mana regen.
->> Are there 21 Mages and 630 Fighters around level 18 left in the town after the big fight?
 >> 
+>> Rain might produce as much mana as the rest of the Awakened in the town, even excluding his effect on others via Winter.
+>> 
+>> Compared to a Mage with balanced stats, he has double the clarity and 3x the regen per point of clarity.  This is an x6 multiplier.
+>> 
+>> If he keeps up Winter (13.38x mana regen) half of the day, it would be another x7 multiplier to the mana he generates in any given day, bringing him to 42 mage-equivalents of mana regen. (Winter Singularity gives him 70x mana regen, bringing him to 420 mage-equivalents if he uses it 24/7).
+>> 
+>> I'm assuming that most of the mages have Intrinsic Clarity, Intrinsic Focus, and Cross Coupling.  This would be a more effective boost to them than to Rain because they would get +25 Clarity compared to Rain's +2.5, but they likely don't all have it, or aren't all fully-leveled, so I'm saying it's a wash.
+>> 
+>> Warriors have essentially zero mana regen compared to Mages.  They have 1/10 the Clarity and 1/3 the regen per point (due to lacking Intrinsic Clarity), giving them 1/30 Mage-equivalent mana regen.
+>> 
+>> Are there 21 Mages and 630 Fighters around level 18 left in the town after the big fight?
 
->> **u/None** [+0] *
+>> **u/None** [+0]  (15 hours later)
 >> 
 >> It’s still taking mana, it’s just not crippling anymore. Around 40% I believe
->> 
 
 ---
 

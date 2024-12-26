@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Timewinders** [+1] *
+> **u/Timewinders** [+1]  (a minute later)
 > 
 > I mentioned this in another thread, but I thought I should make a thread for it for visibility. Louise summons Napoleon, which makes the conflicts of the story more militarily and politically focused since Napoleon intends to rule the continent.
-> 
 
-> **u/Kilawogg_OnTheHog** [+1] *
+> **u/Kilawogg_OnTheHog** [+1]  (10 years later)
 > 
 > Good stuff
-> 
 
 ---
 

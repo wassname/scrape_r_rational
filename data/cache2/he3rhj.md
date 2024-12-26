@@ -40,58 +40,50 @@ EDITS: Formatting
 
 ### Comments:
 
-> **u/GlueBoy** [+27]  *anti-skub**
+> **u/GlueBoy** [+25]  *anti-skub* (6 hours later)
 > 
 > One of my favourite parts about the Exclusionary Principle as a worldbuilding concept is that it provides a plausible explanation(both intra- and extra- diagetic) for why magical advances like in your story aren't commonly a thing in-universe. Even proposing such an experiment might be grounds for immediate execution.
-> Imagine how intensely risk averse Harvard university would be as an institution if it had a monopoly on psychology, were 1000x more powerful politically and economically, and at any given moment pushing the cutting edge of psychology too far could not only inadvertently detonate a nuclear bomb, but also destroy psychology as a viable profession for the rest of history, as well as all their power and influence. 
-> In my view that would breed a culture of extreme conservatism on magical usage and experimentation, which would bleed into every other aspect of athenium operations. They would select students based on that criteria, they would make instilling those values in students a bedrock of instruction, and they would dedicate a sizable portion of their energy on hunting down and exterminating any hint of ideological deviancy.
 > 
+> Imagine how intensely risk averse Harvard university would be as an institution if it had a monopoly on psychology, were 1000x more powerful politically and economically, and at any given moment pushing the cutting edge of psychology too far could not only inadvertently detonate a nuclear bomb, but also destroy psychology as a viable profession for the rest of history, as well as all their power and influence. 
+> 
+> In my view that would breed a culture of extreme conservatism on magical usage and experimentation, which would bleed into every other aspect of athenium operations. They would select students based on that criteria, they would make instilling those values in students a bedrock of instruction, and they would dedicate a sizable portion of their energy on hunting down and exterminating any hint of ideological deviancy.
 
-> **u/ArgentStonecutter** [+9]  *Emergency Mustelid Hologram**
+> **u/ArgentStonecutter** [+8]  *Emergency Mustelid Hologram* (17 hours later)
 > 
 > _"DO NOT MESS WITH TIME"_
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (21 hours later)
 >> 
 >> *YESSSS!*
->> 
 
-> **u/Slyvena** [+5] *
+> **u/Slyvena** [+6]  (9 hours later)
 > 
 > Reading the first part: Hmm, I smell an exclusion coming.  
 > Reading the second part: Yes, delicious.
-> 
 
-> **u/None** [+5] *
+> **u/None** [+4]  (10 hours later)
 > 
 > [deleted]
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (16 hours later)
 >> 
 >> You're welcome!
->> 
 
-> **u/GreenSatyr** [+5] *
+> **u/GreenSatyr** [+5]  (a day later)
 > 
 > Can someone explain what happens at the end?
-> 
 
->> **u/None** [+5] *
+>> **u/None** [+5]  (2 days later)
 >> 
 >> The farmer guy near the facility got caught up in the time loops. He was training farming for, given reasonable assumptions about the number of cycles per loop and so on, around 5 million years of subjective time. That's a lot. >!The Pai Shep exclusion zone, as explained in the link, is from a farmer who got so good at farming that he... uh... made a perfect farm that was an exclusion zone. This is a Pai Shep origin story.!<
->> 
 
->>> **u/GreenSatyr** [+2] *
+>>> **u/GreenSatyr** [+2]  (2 days later)
 >>> 
 >>> Heh, I think when I first read that, I thought that >!a farming tech got excluded!< because >!the DM!< thought that >!having the green revolution!< would ruin the quasi-medieval setting
->>> 
 
-> **u/NinkuFlavius** [+5] *
+> **u/NinkuFlavius** [+4]  (2 hours later)
 > 
 > Sounds like quantum computing with magic, interesting concept.
-> 
 
 ---
 

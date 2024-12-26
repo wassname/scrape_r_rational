@@ -2,7 +2,7 @@
 
 * Author: u/LieGroupE8  ***
 * URL: https://www.reddit.com/r/rational/comments/7obnf7/fw_admin_message_from_god/
-* Score: 219
+* Score: 216
 
 * Created: 2018-01-05T14:52:23
 
@@ -134,526 +134,562 @@ Message Signature: 561729385928365029396020502835650573653712526482758658440
 
 ### Comments:
 
-> **u/LeifCarrotson** [+119] *
+> **u/LeifCarrotson** [+116]  (2 hours later)
 > 
 > > c. ... the first six significant digits of each of the constants, in natural units, when appended together in order of historical discovery, form the public key
-> > d. Providing the public key in a vision immediately upon any prayer request for it, and
-> Is it bad that my reaction to a message from God is to munchkin it? But this is like a free physics cheat sheet: 
-> > *Crap, I can't remember what Plank's constant is.   6.262 or 6.626  It had a lot of 2s and 6s...hmmm...*
-> > *'Dear God, what's your public key?'*
-> > **'299792 980665 662607 160217...'**  
-> > *'Oh right,  6.626.  Thanks God!'*
-> > **'Your gratitude is commendable, but your exploitation of prayer to cheat on a test is not.  Sinner.'**
 > 
+> > d. Providing the public key in a vision immediately upon any prayer request for it, and
+> 
+> Is it bad that my reaction to a message from God is to munchkin it? But this is like a free physics cheat sheet: 
+> 
+> > *Crap, I can't remember what Plank's constant is.   6.262 or 6.626  It had a lot of 2s and 6s...hmmm...*
+> 
+> > *'Dear God, what's your public key?'*
+> 
+> > **'299792 980665 662607 160217...'**  
+> 
+> > *'Oh right,  6.626.  Thanks God!'*
+> 
+> > **'Your gratitude is commendable, but your exploitation of prayer to cheat on a test is not.  Sinner.'**
 
->> **u/duffmancd** [+35] *
+>> **u/duffmancd** [+34]  (8 hours later)
 >> 
 >> What kind of tests were you taking that required you to memorise fundamental constants? As best I can remember every test I've taken that needed them had the values printed on the formula sheet.
->> Also, can you hear that? It's the sound of the joke whooshing over my head. =p
 >> 
+>> Also, can you hear that? It's the sound of the joke whooshing over my head. =p
 
->>> **u/None** [+9] *
+>>> **u/None** [+8]  (14 hours later)
 >>> 
 >>> I've had tests where they aren't given. But they're usually constants you use in many, many questions so you don't even have to put in a specific effort to memorize them.
->>> 
 
->>> **u/IgonnaBe3** [+2] *
+>>> **u/IgonnaBe3** [+2]  (a day later)
 >>> 
 >>> I had a lot of them in "gravity" related subjects in 2nd class in highschool. Lots of things to remember
->>> 
 
->> **u/PM_ME_OS_DESIGN** [+14] *
+>> **u/PM_ME_OS_DESIGN** [+16]  (a day later)
 >> 
 >> > 
 >> > 
 >> > 'Your gratitude is commendable, but your exploitation of prayer to cheat on a test is not. Sinner.'
->> A test that requires you to memorise information when you can literally pray for it and receive it any time you need it, is a pretty dumb test. In fact, what exactly is the difference between memorising+remembering it, and mentally calling up god's public key?
 >> 
+>> A test that requires you to memorise information when you can literally pray for it and receive it any time you need it, is a pretty dumb test. In fact, what exactly is the difference between memorising+remembering it, and mentally calling up god's public key?
 
->> **u/Peewee223** [+5] *
+>> **u/Peewee223** [+2]  (a day later)
 >> 
 >> > *'But sinning is only punished by making us experience all the suffering we inflict on other people, and answering a few ~~tech support calls~~ prayers in hell isn't so bad, so... worth it!'*
->> 
 
-> **u/LieGroupE8** [+67]  ***
+> **u/LieGroupE8** [+65]  ** (9 minutes later)
 > 
 > Please note that God's opinions do not necessarily reflect my own.
-> 
 
-> **u/melmonella** [+60]  *Tremble, o ye mighty, for a new age is upon you**
+> **u/melmonella** [+61]  *Tremble, o ye mighty, for a new age is upon you* (an hour later)
 > 
 > Nice, Uriel is at it again. I thought he was turned metaphorical in the previous patch tho?
-> 
 
->> **u/LieGroupE8** [+23]  ***
+>> **u/LieGroupE8** [+24]  ** (4 hours later)
 >> 
 >> As someone who has not read most of Unsong, how many jokes did I accidentally steal?
->> 
 
->>> **u/Frommerman** [+40] *
+>>> **u/Frommerman** [+39]  (5 hours later)
 >>> 
 >>> No overt jokes, mostly just the theme of the frazzled divine universal sysop.
->>> 
 
->>> **u/MultipartiteMind** [+11] *
+>>> **u/MultipartiteMind** [+11]  (13 hours later)
 >>> 
 >>> (\*smiling, remembering the [Book of Jezuboad](http://unsongbook.com/chapter-3-on-a-cloud-i-saw-a-child/)\*)
->>> 
 
->> **u/SvalbardCaretaker** [+11]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+11]  *Mouse Army* (an hour later)
 >> 
 >> Yeahhhhh. Lets hope Uriel DOESNT shift the physical constants to another stable oasis - I mean I respect him for everything hes doing all the time, but I dont want to have this reality crash AGAIN!
->> 
 
->>> **u/melmonella** [+9]  *Tremble, o ye mighty, for a new age is upon you**
+>>> **u/melmonella** [+8]  *Tremble, o ye mighty, for a new age is upon you* (2 hours later)
 >>> 
 >>> Worst case, we'll learn to play the ukulele.
->>> 
 
->>> **u/LordSwedish** [+2]  *Q Continuum**
+>>> **u/LordSwedish** [+2]  *Q Continuum* (4 days later)
 >>> 
 >>> God damnit, why are all the rivers running backwards?
->>> 
 
-> **u/LazarusRises** [+43] *
+> **u/LazarusRises** [+40]  (an hour later)
 > 
 > Admindammit, I wish I lived in this universe.
-> 
 
->> **u/mg115ca** [+12] *
+>> **u/mg115ca** [+11]  (8 hours later)
 >> 
 >> >Admindammit
->> Stealing that.
 >> 
+>> Stealing that.
 
->> **u/TastyBrainMeats** [+2] *
+>> **u/TastyBrainMeats** [+2]  (3 days later)
 >> 
 >> I wouldn't mind the addition of a utility to manually change certain bodily variables on the fly... but you can't have everything (unless you code it yourself).
->> 
 
-> **u/Trips-Over-Tail** [+31]  *Death of Crabs**
+> **u/Trips-Over-Tail** [+29]  *Death of Crabs* (an hour later)
 > 
 > Since the patch went live I keep getting increasingly urgent messages in my dreams from an entity called @wgah'nagl, usually with PNGs of the new stars in attachments. Is this intentional?
-> 
 
->> **u/FeepingCreature** [+21]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+18]  *GCV Literally The Entire Culture* (2 hours later)
 >> 
 >> If you compare to public charts, you will see that those are not the right stars.
->> Yet.
->> Please stay tuned and keep your eyes to the sky for exciting developments!
->> (OOC: It's an ARG.)
 >> 
+>> Yet.
+>> 
+>> Please stay tuned and keep your eyes to the sky for exciting developments!
+>> 
+>> (OOC: It's an ARG.)
 
->>> **u/Trips-Over-Tail** [+13]  *Death of Crabs**
+>>> **u/Trips-Over-Tail** [+13]  *Death of Crabs* (2 hours later)
 >>> 
 >>> My toes were not webbed before, either. I think you've cocked up the roll-out.
->>> 
 
->> **u/Ardvarkeating101** [+9]  *Father of Learning**
+>> **u/Ardvarkeating101** [+9]  *Father of Learning* (5 hours later)
 >> 
 >> [If it tells you to start searching for something underwater, please contact your local saint.](www.evilcorporation.com.br/rubyquest/begin.html)
->> 
 
-> **u/MultipartiteMind** [+19] *
+> **u/MultipartiteMind** [+16]  (10 minutes later)
 > 
 > [deadpan] The pope is going to be so disappointed when he realises that this was just another hacker's joke. [/deadpan]
-> 
 
-> **u/Ardvarkeating101** [+18]  *Father of Learning**
+> **u/Ardvarkeating101** [+16]  *Father of Learning* (53 minutes later)
 > 
 > I AM THE REAL GOD, THIS IS A SCAM, CLICK THE LINK BELOW FOR THE **TRUE** WORD OF GOD.
-> www.realtruewordofgod.ru
 > 
+> www.realtruewordofgod.ru
 
->> **u/CopperZirconium** [+18] *
+>> **u/CopperZirconium** [+20]  (an hour later)
 >> 
 >> YOU CAN’T GET ME THAT EASY, SATAN!
->> 
 
->> **u/None** [+5] *
+>> **u/None** [+3]  (9 hours later)
 >> 
 >> RUSSIAN HACK TROLLS!  FAKE JEWS!
->> 
 
-> **u/xamueljones** [+30]  *My arch-enemy is entropy**
+> **u/xamueljones** [+33]  *My arch-enemy is entropy* (2 hours later)
 > 
 > A God that is willing to admit error and listens to what people have to say to help fix problems while still allowing us the freedom of choice? Best God ever.
-> PS I love how OP's name is a math reference.
 > 
+> PS I love how OP's name is a math reference.
 
->> **u/LieGroupE8** [+9]  ***
+>> **u/LieGroupE8** [+8]  ** (4 hours later)
 >> 
 >> > PS I love how OP's name is a math reference.
->> Thank you for noticing!
 >> 
+>> Thank you for noticing!
 
->>> **u/None** [+7] *
+>>> **u/None** [+4]  (4 hours later)
 >>> 
 >>> Specifically, a reference to a group isomorphic to SCABMOM links in UNSONG...
->>> 
 
-> **u/ianstlawrence** [+13] *
+> **u/ianstlawrence** [+13]  (a day later)
 > 
 > To those complaining that this update didn't happen fast enough. If you compare the initial development period, 13 billion years, and then say, that would be like (and this is a kind of loose analogy) a team of people making a really complicated game, so complicated it takes them 20 years. Then you can get a grasp of how fast that 2000 year turn around really is.
-> So if you take 20 years, and multiply it by the number of hours in a year you get 175200 (That's the number of hours it took to complete our really complicated game aka Earth). Then what you want is to find how that compares to the 2000 years in regards to 13 billion years. 
-> So you take 175200 multiply by 2000 and then divide by 13 billion. You get .0269, which if you round up to 0.027 and then multiply by 60 (to find minutes) you get 1.61 minutes. 
-> That is, relatively, how fast of a turn around they did (assuming that creating the earth is of the difficulty of a team of humans making a game in 20 years). 
-> Pretty fast? I'd say its even fast if you jump it up by 3 orders of magnitude, which would be 1601 minutes or 26.683 hours.
-> God is doing his best! lmao.
 > 
+> So if you take 20 years, and multiply it by the number of hours in a year you get 175200 (That's the number of hours it took to complete our really complicated game aka Earth). Then what you want is to find how that compares to the 2000 years in regards to 13 billion years. 
+> 
+> So you take 175200 multiply by 2000 and then divide by 13 billion. You get .0269, which if you round up to 0.027 and then multiply by 60 (to find minutes) you get 1.61 minutes. 
+> 
+> That is, relatively, how fast of a turn around they did (assuming that creating the earth is of the difficulty of a team of humans making a game in 20 years). 
+> 
+> Pretty fast? I'd say its even fast if you jump it up by 3 orders of magnitude, which would be 1601 minutes or 26.683 hours.
+> 
+> God is doing his best! lmao.
 
-> **u/DaystarEld** [+22]  *Pokémon Professor**
+> **u/DaystarEld** [+23]  *Pokémon Professor* (8 hours later)
 > 
 > >That sounds like something an evil god would do, and my general policy is “don’t do things that sound like what an evil god would do.” Got it?
-> Nope, don't got it. The initial design included unbearable/permanently-weakening suffering, which sounds like something that would be included by an evil god. You recognizing part of the mistake now doesn't change that your "general policy" isn't actually a good heuristic by which to judge you: it just means that you're as unclear about what an evil-vs-stupid god would do as many of us.
-> Also if you choose to communicate with us this poorly and rarely, you don't get to blame Satan for hacks.
-> Also also, don't blame us for bad epistemology when the Heaven interfaces you designed combined with your lack of communication spreads and exacerbates bad epistemology. 
-> Thanks for the patches though. Maybe next do something about the whole romance thing.
-> Sincerely,
-> Somewhat Smug Anti-Theist
-> (In seriousness, good job on this overall! :) )
 > 
+> Nope, don't got it. The initial design included unbearable/permanently-weakening suffering, which sounds like something that would be included by an evil god. You recognizing part of the mistake now doesn't change that your "general policy" isn't actually a good heuristic by which to judge you: it just means that you're as unclear about what an evil-vs-stupid god would do as many of us.
+> 
+> Also if you choose to communicate with us this poorly and rarely, you don't get to blame Satan for hacks.
+> 
+> Also also, don't blame us for bad epistemology when the Heaven interfaces you designed combined with your lack of communication spreads and exacerbates bad epistemology. 
+> 
+> Thanks for the patches though. Maybe next do something about the whole romance thing.
+> 
+> Sincerely,
+> 
+> Somewhat Smug Anti-Theist
+> 
+> (In seriousness, good job on this overall! :) )
 
->> **u/LieGroupE8** [+31]  ***
+>> **u/LieGroupE8** [+34]  ** (10 hours later)
 >> 
 >> **From:** admin@heaven.univ
->> **To:** DaystarEld
->> **Subject:** Re: don't got it
->> Dear DaystarEld,
->> Look, this is exactly the sort of s\*\*\* I get all the time, OK? You don't know me. You don't know the development process we have to go through to keep this universe running.
->> For your information, the initial design was *Eden,* which was perfect in every way and addressed all the problems you raised. Except for the fact that it was totally vulnerable to exploits. Eden was implemented on top of the Quantum-Relativistic kernel, and included what you might call "magic." The problem was that with magic, Satan could do *arbitrary* damage if given the opportunity - the snake was just a small taste of how broken the system was. So we quickly rolled back Eden and were just left with the QR kernel in which you live now. *Could we* have gone back and rewrote the kernel? I guess, but at that point we had already invested 13 billion years into the kernel, and we didn't want all that work to go to waste. 
->> Satan can't do arbitrary damage now; interventions are much harder in the raw QR kernel. They scale with the amount of in-universe effort that would need to be exerted to achieve the same result. That's why updates take so long: the devs have to expend a ton of effort to prepare the changes. Further changes will be made in future updates.
->> God
->> ---
->> (In seriousness, thanks! I initially wrote this as a critique of religion, to demonstrate how very tiny changes on God's part could have drastically improved real-world outcomes.)
 >> 
+>> **To:** DaystarEld
+>> 
+>> **Subject:** Re: don't got it
+>> 
+>> Dear DaystarEld,
+>> 
+>> Look, this is exactly the sort of s\*\*\* I get all the time, OK? You don't know me. You don't know the development process we have to go through to keep this universe running.
+>> 
+>> For your information, the initial design was *Eden,* which was perfect in every way and addressed all the problems you raised. Except for the fact that it was totally vulnerable to exploits. Eden was implemented on top of the Quantum-Relativistic kernel, and included what you might call "magic." The problem was that with magic, Satan could do *arbitrary* damage if given the opportunity - the snake was just a small taste of how broken the system was. So we quickly rolled back Eden and were just left with the QR kernel in which you live now. *Could we* have gone back and rewrote the kernel? I guess, but at that point we had already invested 13 billion years into the kernel, and we didn't want all that work to go to waste. 
+>> 
+>> Satan can't do arbitrary damage now; interventions are much harder in the raw QR kernel. They scale with the amount of in-universe effort that would need to be exerted to achieve the same result. That's why updates take so long: the devs have to expend a ton of effort to prepare the changes. Further changes will be made in future updates.
+>> 
+>> God
+>> 
+>> ---
+>> 
+>> (In seriousness, thanks! I initially wrote this as a critique of religion, to demonstrate how very tiny changes on God's part could have drastically improved real-world outcomes.)
 
->>> **u/DaystarEld** [+14]  *Pokémon Professor**
+>>> **u/DaystarEld** [+16]  *Pokémon Professor* (13 hours later)
 >>> 
 >>> Oh man. I'm sorry, I rushed to conclusions and forgot an option:
->>> > I guess, but at that point we had already invested 13 billion years into the kernel, and we didn't want all that work to go to waste.
->>> Evil-vs-stupid-vs-*lazy*. I guess humans really were created in your image. Or is that just another bit of Satan-lies?
->>> Is it possible to speak with your supervisor? I get the feeling you're somewhat new at this, on whatever timescale billions-of-years of job experience can still be considered new, and maybe it's possible to get service from a new god altogether.
->>> (Yeah, I've been wanting to write something in a similar vein that shows just how ridiculous the world would get if religious rules and beliefs were actually taken seriously (and known to be true because God(s) revealed themselves). It's a fun exercise!)
 >>> 
+>>> > I guess, but at that point we had already invested 13 billion years into the kernel, and we didn't want all that work to go to waste.
+>>> 
+>>> Evil-vs-stupid-vs-*lazy*. I guess humans really were created in your image. Or is that just another bit of Satan-lies?
+>>> 
+>>> Is it possible to speak with your supervisor? I get the feeling you're somewhat new at this, on whatever timescale billions-of-years of job experience can still be considered new, and maybe it's possible to get service from a new god altogether.
+>>> 
+>>> (Yeah, I've been wanting to write something in a similar vein that shows just how ridiculous the world would get if religious rules and beliefs were actually taken seriously (and known to be true because God(s) revealed themselves). It's a fun exercise!)
 
->>>> **u/LieGroupE8** [+13]  ***
+>>>> **u/LieGroupE8** [+14]  ** (a day later)
 >>>> 
 >>>> **From:** admin@heaven.univ
->>>> **To:** christ-almighty@dev.heaven.univ
->>>> **cc:** DaystarEld
->>>> **Subject:** Re: Evil-vs-stupid-vs-lazy
->>>> Jesus,
->>>> Please forgive DaystarEld, for he knows not what he says.
->>>> God
->>>> ---
->>>> **From:** christ-almighty@dev.heaven.univ
->>>> **To:** DaystarEld
->>>> **Subject:** Re: Evil-vs-stupid-vs-lazy
->>>> Dear DaystarEld,
->>>> Thank you for expressing your concerns. I forgive you for your insolence. I'm afraid you don't fully understand what sort of reality you're living in. God *is* the supervisor. There is no higher power known to us. He is the uncreated creator. He is being itself. The universe is knit from his own body. I am a fold of his mind that he pinched off into a separate entity.
->>>> As a result of coming from nothing, God is entirely self-taught. He is constantly learning and growing all the time. Has he made mistakes in the past? Sure. But every mistake is a learning experience. I hope you can understand that. I, too, have made mistakes. Before coming to earth, I understood the human mind in principle. In my omniscience, I knew what pain was, technically speaking - I knew exactly which neurons were firing and why - but that is not the same as *experiencing* the thing itself. After experiencing it firsthand, I informed God immediately, and then we began working on this latest update.
->>>> But none of this is any excuse for being disrespectful toward your Lord. After all, if he had not used the QR kernel, *you wouldn't exist in the first place.* You should be thanking him with every breath you draw.
->>>> Go forth, and do not sin again.
->>>> Jesus
 >>>> 
+>>>> **To:** christ-almighty@dev.heaven.univ
+>>>> 
+>>>> **cc:** DaystarEld
+>>>> 
+>>>> **Subject:** Re: Evil-vs-stupid-vs-lazy
+>>>> 
+>>>> Jesus,
+>>>> 
+>>>> Please forgive DaystarEld, for he knows not what he says.
+>>>> 
+>>>> God
+>>>> 
+>>>> ---
+>>>> 
+>>>> **From:** christ-almighty@dev.heaven.univ
+>>>> 
+>>>> **To:** DaystarEld
+>>>> 
+>>>> **Subject:** Re: Evil-vs-stupid-vs-lazy
+>>>> 
+>>>> Dear DaystarEld,
+>>>> 
+>>>> Thank you for expressing your concerns. I forgive you for your insolence. I'm afraid you don't fully understand what sort of reality you're living in. God *is* the supervisor. There is no higher power known to us. He is the uncreated creator. He is being itself. The universe is knit from his own body. I am a fold of his mind that he pinched off into a separate entity.
+>>>> 
+>>>> As a result of coming from nothing, God is entirely self-taught. He is constantly learning and growing all the time. Has he made mistakes in the past? Sure. But every mistake is a learning experience. I hope you can understand that. I, too, have made mistakes. Before coming to earth, I understood the human mind in principle. In my omniscience, I knew what pain was, technically speaking - I knew exactly which neurons were firing and why - but that is not the same as *experiencing* the thing itself. After experiencing it firsthand, I informed God immediately, and then we began working on this latest update.
+>>>> 
+>>>> But none of this is any excuse for being disrespectful toward your Lord. After all, if he had not used the QR kernel, *you wouldn't exist in the first place.* You should be thanking him with every breath you draw.
+>>>> 
+>>>> Go forth, and do not sin again.
+>>>> 
+>>>> Jesus
 
->>>>> **u/DaystarEld** [+7]  *Pokémon Professor**
+>>>>> **u/DaystarEld** [+6]  *Pokémon Professor* (2 days later)
 >>>>> 
 >>>>> 'Sup Jesus. Heard you were more chill than your Dad, but again, Satan-lies makes it all kinda suspect, doesn't it?
->>>>> Anyway:
->>>>> > But none of this is any excuse for being disrespectful toward your Lord. After all, if he had not used the QR kernel, you wouldn't exist in the first place. You should be thanking him with every breath you draw.
->>>>> You should A/B test this notion and see if it converts anti-theists better than *not* including a directive to blindly respect a being for creating the universe that created the species that ultimately culminated in my parents, who directly birthed and nurtured and raised me... but don't demand that I thank even them with "every breath I draw."
->>>>> My prediction is it won't. Your Father "gave" us reason and a threshold for respect of what's earned: I'm using it to judge Him as not doing good enough. If you don't like it, maybe let everyone play admin in their own pocket universes to see how hard it really is to do better than was done with this one.
 >>>>> 
+>>>>> Anyway:
+>>>>> 
+>>>>> > But none of this is any excuse for being disrespectful toward your Lord. After all, if he had not used the QR kernel, you wouldn't exist in the first place. You should be thanking him with every breath you draw.
+>>>>> 
+>>>>> You should A/B test this notion and see if it converts anti-theists better than *not* including a directive to blindly respect a being for creating the universe that created the species that ultimately culminated in my parents, who directly birthed and nurtured and raised me... but don't demand that I thank even them with "every breath I draw."
+>>>>> 
+>>>>> My prediction is it won't. Your Father "gave" us reason and a threshold for respect of what's earned: I'm using it to judge Him as not doing good enough. If you don't like it, maybe let everyone play admin in their own pocket universes to see how hard it really is to do better than was done with this one.
 
->>>>>> **u/LieGroupE8** [+15]  ***
+>>>>>> **u/LieGroupE8** [+12]  ** (3 days later)
 >>>>>> 
 >>>>>> At this point God stops responding. He considers striking DaystarEld with a lightning bolt and then giving him extra time in hell, or maybe having Brahma reincarnate him as a worm. But Jesus reminds God of their anger management sessions (the Old Testament wasn't *entirely* Satan's lies), and God eventually calms down. "This is why I don't answer prayers," he thinks to himself.
->>>>>> And that is how DaystarEld narrowly avoided the wrath of God. Maybe it's not the best idea to tempt the beings who have all the power, especially when they're trying their best.
 >>>>>> 
+>>>>>> And that is how DaystarEld narrowly avoided the wrath of God. Maybe it's not the best idea to tempt the beings who have all the power, especially when they're trying their best.
 
->>>>> **u/drakeblood4** [+5]  *A Practical Guide to Evil**
+>>>>> **u/drakeblood4** [+4]  *A Practical Guide to Evil* (2 months later)
 >>>>> 
 >>>>> > After all, if he had not used the QR kernel, you wouldn't exist in the first place. You should be thanking him with every breath you draw.
->>>>> Hold on, Jesus fucking Christ that is a callous stance on the non-identity problem. Am I not allowed to acknowledge creation as a very charitable act without still being highly critical of the specific implementation of that charity? admin@heaven.univ I think this is some pretty worrying dev abuse.
 >>>>> 
+>>>>> Hold on, Jesus fucking Christ that is a callous stance on the non-identity problem. Am I not allowed to acknowledge creation as a very charitable act without still being highly critical of the specific implementation of that charity? admin@heaven.univ I think this is some pretty worrying dev abuse.
 
->>>>>> **u/Censing** [+3] *
+>>>>>> **u/Censing** [+3]  (2 months later)
 >>>>>> 
 >>>>>> He created you without your consent, and if you don't like it then that's your fault, not his. Duh! Stop being selfish!
->>>>>> 
 
->>> **u/Peewee223** [+1] *
+>>> **u/Peewee223** [+1]  (a day later)
 >>> 
 >>> >no message signature
->>> Hey god, I think satan's hacked your email account or is spoofing your from address. Might want to check that out.
 >>> 
+>>> Hey god, I think satan's hacked your email account or is spoofing your from address. Might want to check that out.
 
->>>> **u/LieGroupE8** [+3]  ***
+>>>> **u/LieGroupE8** [+3]  ** (a day later)
 >>>> 
 >>>> The signature is implied. I forgot to write it out when responding as God, and I'm too lazy to go back and edit everything to have a signature.
->>>> 
 
-> **u/infomaton** [+10] *
+> **u/infomaton** [+9]  (2 hours later)
 > 
 > > Now I realize that most people will not have the time or expertise to apply the cryptographic protocol on their own, which is why I’m adding a new module to everyone’s brain that automatically implements the protocol. From now on, any saying uttered or miracle performed by me will be associated with a digital signature (fed to you via a sixth sense), and your brain will immediately be able to tell you if the signature is valid. If you’re worried that you’ve acquired brain damage and that your verification module is broken, I’ve included in attachment 3 a suite of unit tests that can be performed to determine whether your module is working. I will personally strike down any deliberate attempts to modify the protocol in someone's brain.
-> Probably makes things worse for the paranoid.
 > 
+> Probably makes things worse for the paranoid.
 
-> **u/LeifCarrotson** [+17] *
+> **u/LeifCarrotson** [+19]  (3 hours later)
 > 
 > > Dear God, I'm sorry to cut this prayer short, but I really need to get back to the exam now.
-> > *I know this as I know all things.  Sinner.  As I was saying, the 512 characters of my public key are 2. 9. 9. 7. 9. 2. 9. 8...*
-> Also, God could help prove his divinity by brute forcing the private key whose public key is the current physical constants.  It's seriously impressive that Facebook was able to brute force the Tor domain key for facebookcorewwwi.onion, ([[1\]](http://archives.seul.org/tor/talk/Oct-2014/msg00433.html), [[2\]](https://security.stackexchange.com/questions/29772/how-do-you-get-a-specific-onion-address-for-your-hidden-service)) but a 2048 bit RSA key is incalculable for anyone not having infinite powers.
 > 
+> > *I know this as I know all things.  Sinner.  As I was saying, the 512 characters of my public key are 2. 9. 9. 7. 9. 2. 9. 8...*
+> 
+> Also, God could help prove his divinity by brute forcing the private key whose public key is the current physical constants.  It's seriously impressive that Facebook was able to brute force the Tor domain key for facebookcorewwwi.onion, ([[1\]](http://archives.seul.org/tor/talk/Oct-2014/msg00433.html), [[2\]](https://security.stackexchange.com/questions/29772/how-do-you-get-a-specific-onion-address-for-your-hidden-service)) but a 2048 bit RSA key is incalculable for anyone not having infinite powers.
 
->> **u/LieGroupE8** [+9]  ***
+>> **u/LieGroupE8** [+10]  ** (4 hours later)
 >> 
 >> > Also, God could help prove his divinity by brute forcing the private key whose public key is the current physical constants.
->> I'm not an expert in cryptography, but I don't think the public key can be just any arbitrary large number. In the case of RSA, it must be the product of exactly two large primes. In any case, God is using a different protocol than RSA, since RSA is broken with quantum computers.
->> > but a 2048 bit RSA key is incalculable
->> I think quantum computers might be able to do this in a practical amount of time.
 >> 
+>> I'm not an expert in cryptography, but I don't think the public key can be just any arbitrary large number. In the case of RSA, it must be the product of exactly two large primes. In any case, God is using a different protocol than RSA, since RSA is broken with quantum computers.
+>> 
+>> > but a 2048 bit RSA key is incalculable
+>> 
+>> I think quantum computers might be able to do this in a practical amount of time.
 
->>> **u/LeifCarrotson** [+6] *
+>>> **u/LeifCarrotson** [+3]  (6 hours later)
 >>> 
 >>> > I don't think the public key can be just any arbitrary large number. In the case of RSA, it must be the product of exactly two large primes.
->>> It's true that the modulus *n* must be the product of two large primes, call them *p* and *q*.  But the public key is not these primes nor is it *n* - it's the combination of *n* and an exponent *e*.  *e* is related to *p* and *q* through some complicated requirements (1).  This exponent is usually prime (though it doesn't precisely have to be prime) and could be as simple as the number '3', or typically the convenient prime number 2^16 + 1 = 65,537 is used...but you have a lot of flexibility in choosing this.  
->>> Also note that we're concatenating on the order of 100 numbers to form this public key.  There are 100 factorial ways to perform this concatenation, which is an absurdly huge number.  At least one of these combinations has at least one spot where you can split the number in two and come up with a set of values *n* and *e* - though it's going to take a lot of work to try all possible *p* and *q*.
->>> (1): Specifically, *e* can be ANY number between 1 and the totient of *n* (the totient being approximately equal to the smaller of *p* and *q*), with the added restriction that it must not share any common factors with the totient of *n* (which is guaranteed if *e* is prime)
 >>> 
+>>> It's true that the modulus *n* must be the product of two large primes, call them *p* and *q*.  But the public key is not these primes nor is it *n* - it's the combination of *n* and an exponent *e*.  *e* is related to *p* and *q* through some complicated requirements (1).  This exponent is usually prime (though it doesn't precisely have to be prime) and could be as simple as the number '3', or typically the convenient prime number 2^16 + 1 = 65,537 is used...but you have a lot of flexibility in choosing this.  
+>>> 
+>>> Also note that we're concatenating on the order of 100 numbers to form this public key.  There are 100 factorial ways to perform this concatenation, which is an absurdly huge number.  At least one of these combinations has at least one spot where you can split the number in two and come up with a set of values *n* and *e* - though it's going to take a lot of work to try all possible *p* and *q*.
+>>> 
+>>> (1): Specifically, *e* can be ANY number between 1 and the totient of *n* (the totient being approximately equal to the smaller of *p* and *q*), with the added restriction that it must not share any common factors with the totient of *n* (which is guaranteed if *e* is prime)
 
->>>> **u/LieGroupE8** [+1]  ***
+>>>> **u/LieGroupE8** [+1]  ** (6 hours later)
 >>>> 
 >>>> > But the public key is not these primes nor is it n - it's the combination of n and an exponent e.
->>>> Oh yeah, I forgot that the modulus wasn't the public key.
 >>>> 
+>>>> Oh yeah, I forgot that the modulus wasn't the public key.
 
-> **u/Ilverin** [+7] *
+> **u/Ilverin** [+8]  (an hour later)
 > 
 > > people keep hacking me and saying things in my name
-> God's knowledge of either technology or the English language leaves something to be desired.
 > 
+> God's knowledge of either technology or the English language leaves something to be desired.
 
->> **u/Fresh_C** [+12] *
+>> **u/Fresh_C** [+12]  (an hour later)
 >> 
 >> God is in more of an administrative role. He understands technology and could definitely do the coding himself if need be, but he leaves most of the work up to his dev team and focuses on creating policy and making sure everything meshes well together.
->> Satan used to be the lead dev before he left due to differences in vision. So he knows the system almost as well as God himself, which is why he's so good at hacking it.
->> I think you can chalk any issues with his English up to the frustration that naturally comes with being the Admin of such a huge undertaking. To him it feels like everything's always on fire and it's always his fault. 
->> Tough job. I know I wouldn't want it.
 >> 
+>> Satan used to be the lead dev before he left due to differences in vision. So he knows the system almost as well as God himself, which is why he's so good at hacking it.
+>> 
+>> I think you can chalk any issues with his English up to the frustration that naturally comes with being the Admin of such a huge undertaking. To him it feels like everything's always on fire and it's always his fault. 
+>> 
+>> Tough job. I know I wouldn't want it.
 
->> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+2]  *GCV Literally The Entire Culture* (2 hours later)
 >> 
 >> It says something about God that that line could be a dril tweet unchanged.
->> 
 
-> **u/AnonymousAvatar** [+7] *
+> **u/AnonymousAvatar** [+7]  (18 hours later)
 > 
 > Will those who cause "unbearable suffering" in others still suffer that pain in hell before their soul's redemption, even though the victims will "blank out"? If not, I think you've introduced a pretty big security flaw that your adversary will have a good time with.
-> 
 
-> **u/daydev** [+9] *
+> **u/daydev** [+10]  (5 hours later)
 > 
 > An interesting mix of dystopia and utopia. We live in a simulation, but the eldritch admins happen to align exactly with modern liberal values (how convenient is that?), they wave away many of the fundamental problems in the world, and also a very nice eternal life awaits us.
-> 
 
->> **u/vakusdrake** [+12] *
+>> **u/vakusdrake** [+14]  (6 hours later)
 >> 
 >> I'm not quite sure the admins really count as proper eldritch horrors since they all care a great deal about humanity and very obviously are less competent than many humans.
->> 
 
->>> **u/None** [+5] *
+>>> **u/None** [+5]  (9 hours later)
 >>> 
 >>> Some people just like the taste of Eldritch.  I think I've even seen some people portray *normal real life* as eldritch what with the whole "Azathoth" thing.
->>> 
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (11 hours later)
 >>>> 
 >>>> Sure but at least portraying abstract forces as eldritch works because they are definitely inhuman and not fully comprehensible, but still sometimes act in a vaguely agent like way.                       
 >>>> Whereas I'm pretty sure it would be considered silly by basically everyone to classify fairly normal human-like minds (which is what the divine devs clearly are) as eldrith in any real way.
->>>> 
 
->> **u/ianstlawrence** [+3] *
+>> **u/ianstlawrence** [+4]  (a day later)
 >> 
 >> You're approaching it backwards. We align to *their* morals. We think those morals are good because they built a world that slowly, and not always, rewards reaching towards those morals.
->> 
 
->>> **u/daydev** [+7] *
+>>> **u/daydev** [+5]  (a day later)
 >>> 
 >>> From the meta-perspective, it just seems awfully convenient, it reads like a liberal Christian's wish fulfillment: what if god finally made himself known, and he turned out to be a cool programmer dude (if somewhat incompetent), and also happened to be exactly as liberal as me, and anything in *The Bible* that inconveniently contradicts liberal values, is not in fact his will, but malicious code.
->>> 
 
->>>> **u/LieGroupE8** [+8]  ***
+>>>> **u/LieGroupE8** [+6]  ** (a day later)
 >>>> 
 >>>> I intentionally wrote God as a super cliched liberal. Mostly to make him as sympathetic as possible. Also to provide a large contrast with the god that people believe exists in the real world; if such a god were actually liberal, there are just *so many* tiny things he could have done better given that set of values.
->>>> 
 
-> **u/RMcD94** [+5] *
+> **u/RMcD94** [+5]  (10 hours later)
 > 
 > Also with no more nukes looks like we'll get chemical and biochemical and conventional warfare. Does God not know about people changing their mind about pregnancy and or it threatening them
-> 
 
->> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box**
+>> **u/Nulono** [+1]  *Reverse-Oneboxer: Only takes the transparent box* (16 hours later)
 >> 
 >> I'd presume the same update that removed birth defects would also address life-threatening complications, but you're right about just changing your mind. Maybe God could also send us blueprints for an artificial womb, or make humans lay eggs?
->> 
 
->>> **u/RMcD94** [+7] *
+>>> **u/RMcD94** [+7]  (18 hours later)
 >>> 
 >>> Human omelettes the latest in cannibalism
->>> 
 
-> **u/None** [+3] *
+> **u/None** [+2]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/LieGroupE8** [+16]  ***
+>> **u/LieGroupE8** [+18]  ** (4 hours later)
 >> 
 >> **From:** admin@heaven.univ
->> **To:** anonynamja
->> **Subject:** Re: Why?
->> Why not! Do ... or do not. There is no why.
->> Best,
->> God
 >> 
+>> **To:** anonynamja
+>> 
+>> **Subject:** Re: Why?
+>> 
+>> Why not! Do ... or do not. There is no why.
+>> 
+>> Best,
+>> 
+>> God
 
->> **u/FeepingCreature** [+12]  *GCV Literally The Entire Culture**
+>> **u/FeepingCreature** [+15]  *GCV Literally The Entire Culture* (2 hours later)
 >> 
 >> Presumably, a very lonely singularity.
->> 
 
->> **u/vakusdrake** [+3] *
+>> **u/vakusdrake** [+3]  (11 hours later)
 >> 
 >> I would think you would be more concerned about what a terrible approach creating mostly deterministic universes would be for generating agents.
->> 
 
-> **u/monkyyy0** [+4] *
+> **u/monkyyy0** [+4]  (3 hours later)
 > 
 > Link to attachment 5 is broke please fix
-> 
 
->> **u/LieGroupE8** [+13]  ***
+>> **u/LieGroupE8** [+13]  ** (4 hours later)
 >> 
 >> **From:** admin@heaven.univ
->> **To:** monkyyy0
->> **Subject:** Re: Broken link
->> Hi monkyyy0,
->> [Is this better?](http://lesswrong.com/)
->> Best,
->> God
 >> 
+>> **To:** monkyyy0
+>> 
+>> **Subject:** Re: Broken link
+>> 
+>> Hi monkyyy0,
+>> 
+>> [Is this better?](http://lesswrong.com/)
+>> 
+>> Best,
+>> 
+>> God
 
->>> **u/ben_oni** [+4] *
+>>> **u/ben_oni** [+4]  (5 hours later)
 >>> 
 >>> Dear God,
->>> Why have you linked to Satan? You said not to follow such links. Please clarify.
->>> Thanks.
 >>> 
+>>> Why have you linked to Satan? You said not to follow such links. Please clarify.
+>>> 
+>>> Thanks.
 
->>>> **u/LieGroupE8** [+7]  ***
+>>>> **u/LieGroupE8** [+7]  ** (5 hours later)
 >>>> 
 >>>> **From:** admin@heaven.univ
->>>> **To:** ben_oni
->>>> **Subject:** Re: linked to Satan
->>>> Has LessWrong been hacked by Satan? Oh no, that's too bad I guess.
->>>> Best,
->>>> God
 >>>> 
+>>>> **To:** ben_oni
+>>>> 
+>>>> **Subject:** Re: linked to Satan
+>>>> 
+>>>> Has LessWrong been hacked by Satan? Oh no, that's too bad I guess.
+>>>> 
+>>>> Best,
+>>>> 
+>>>> God
 
->>> **u/monkyyy0** [+1] *
+>>> **u/monkyyy0** [+1]  (4 hours later)
 >>> 
 >>> https://www.youtube.com/watch?v=d3LcRKxzd5A
->>> 
 
-> **u/None** [+4] *
+> **u/None** [+5]  (9 hours later)
 > 
 > [deleted]
-> 
 
->> **u/LieGroupE8** [+13]  ***
+>> **u/LieGroupE8** [+14]  ** (10 hours later)
 >> 
 >> **From:** admin@heaven.univ
->> **To:** TheBigOneCat
->> **Subject:** Re: becoming a dev
->> Dear TheBigOneCat,
->> If you are a pre-existing entity older than the universe itself, you might be already be qualified. You can set up an interview by contacting Jesus.
->> Otherwise, you need to really wow us with your religion development skills. Start a religion that is eventually practiced by more than 10% of the world's population, and then we can talk about an interview.
->> Best,
->> God
 >> 
+>> **To:** TheBigOneCat
+>> 
+>> **Subject:** Re: becoming a dev
+>> 
+>> Dear TheBigOneCat,
+>> 
+>> If you are a pre-existing entity older than the universe itself, you might be already be qualified. You can set up an interview by contacting Jesus.
+>> 
+>> Otherwise, you need to really wow us with your religion development skills. Start a religion that is eventually practiced by more than 10% of the world's population, and then we can talk about an interview.
+>> 
+>> Best,
+>> 
+>> God
 
->>> **u/Censing** [+2] *
+>>> **u/Censing** [+2]  (2 months later)
 >>> 
 >>> Jeeze, don't make that publicly known or you'll have cults popping up everywhere run by power-hungry sociopaths aiming for the end goal of unlimited God power. You could spark a new age of religious wars with that.
->>> Also, out of curiosity, what is considered a religion? For example, the people who founded democracy, a system that is practiced and believed in by a sizeable chunk of the world right now, do they get a pass? What about organisations and businesses? What about philosophers whose teachings have been studied for centuries?
 >>> 
+>>> Also, out of curiosity, what is considered a religion? For example, the people who founded democracy, a system that is practiced and believed in by a sizeable chunk of the world right now, do they get a pass? What about organisations and businesses? What about philosophers whose teachings have been studied for centuries?
 
-> **u/Laborbuch** [+3] *
+> **u/Laborbuch** [+3]  (20 hours later)
 > 
 > Please tell me you’ll send this in to some kind of publication? I mean, I could understand why you wouldn’t (contentious issue and all that), but I could see this getting some good reviews in a flash fiction contest or such.
-> 
 
->> **u/LieGroupE8** [+1]  ***
+>> **u/LieGroupE8** [+1]  ** (a day later)
 >> 
 >> Thanks for the vote of confidence! But I don't intend to do that. I'm working on other projects that I might submit to such contests, though.
->> 
 
-> **u/RMcD94** [+2] *
+> **u/RMcD94** [+2]  (10 hours later)
 > 
 > Why would God censor himself
-> 
 
->> **u/Nulono** [+19]  *Reverse-Oneboxer: Only takes the transparent box**
+>> **u/Nulono** [+19]  *Reverse-Oneboxer: Only takes the transparent box* (16 hours later)
 >> 
 >> Because this is a Christian server.
->> 
 
->>> **u/htmlcoderexe** [+2] *
+>>> **u/htmlcoderexe** [+2]  (21 hours later)
 >>> 
 >>> heck
->>> 
 
-> **u/thrawnca** [+1]  *Carbon-based biped**
+> **u/thrawnca** [+1]  *Carbon-based biped* (8 hours later)
 > 
 > Well, it didn't make me laugh, but it made me smile :)
-> 
 
-> **u/SkyTroupe** [+1] *
+> **u/SkyTroupe** [+1]  (14 days later)
 > 
 > Hello Admin, quick question.
+> 
 > You said we would never again experience suffering than would make you a worse person/break you and that our body would go on autopilot til it is over. How does that work with emotional/mental trauma/suffering?
 > Like the death of a loved one/depression/break up/ect. 
+> 
 >  Since the problem that causes the suffering isn't a physical affliction will we go on autopilot forever to stop us from realizing it? How does this work? 
+> 
 > Sincerely, 
 > A Concerned User
-> 
 
->> **u/LieGroupE8** [+4]  ***
+>> **u/LieGroupE8** [+4]  ** (15 days later)
 >> 
 >> **From:** admin@heaven.univ
->> **To:** SkyTroupe
->> **Subject:** Re: Autopilot
->> We have a machine that performs non-conscious simulations of you to determine whether you will eventually grow past the suffering. If it says you will, you will be allowed to endure the suffering. Otherwise, it is conceivable that you will spend the rest of your life on autopilot, yes. However, we anticipate that most people are capable of growing past their emotional trauma, especially given the certainty of the existence of an afterlife. We will continue to make improvements to this system in future updates.
->> Love,
->> God
 >> 
+>> **To:** SkyTroupe
+>> 
+>> **Subject:** Re: Autopilot
+>> 
+>> We have a machine that performs non-conscious simulations of you to determine whether you will eventually grow past the suffering. If it says you will, you will be allowed to endure the suffering. Otherwise, it is conceivable that you will spend the rest of your life on autopilot, yes. However, we anticipate that most people are capable of growing past their emotional trauma, especially given the certainty of the existence of an afterlife. We will continue to make improvements to this system in future updates.
+>> 
+>> Love,
+>> 
+>> God
 
->>> **u/SkyTroupe** [+1] *
+>>> **u/SkyTroupe** [+1]  (15 days later)
 >>> 
 >>> I love you God.
->>> 
 
-> **u/Censing** [+1] *
+> **u/Censing** [+1]  (2 months later)
 > 
 > This was a very good read, although the constellations point annoyed me because I thought I'd been soooo clever when I thought it up a while ago, and now I realise my super-brilliant truth-proofing system isn't unique anymore. I was thinking, 'why not stick the important bits, like the commandments, written in the stars, then make humans inherently capable of reading that particular language', although that brings about all sorts of questions about why God would allow for so many languages to exist and cause untold confusions and difficulties amongst humans when he could just undo the tower-of-Babylon event and have us all able to talk to each other, but I guess God thinks a divided humanity is more interesting.
-> Anyhow, if you're reading this Admin, what's your stance on souls- as in, who has them and who doesn't? Does my dog have a soul? Will my dog go to Heaven, or a Heaven for dogs? Will my dog have to go to Hell first, or does he get a free pass straight to Heaven?
-> If the answer is yes, then where do you draw the line on souls? Plants are technically living organisms, do they have souls? Or is there a strict devision, e.g. only vertebrates have souls- because this distinction would basically give humans permission to kill every spider they see, since non-vertebrates don't have souls, so their lives don't matter.
-> To go deeper, what about bacteria? Bacteria are alive, do they have souls? If bacteria do, do my own skin cells? Could I die, go to Heaven, and encounter my own brain cells? Do living beings get to pick out new bodies in the afterlife? If so, all it takes is for bacteria to want to be bigger and soon you'll have quadrillions (too lazy to look up a bigger number) of bacteria taking up all the damn space. If the answer to body modification is no, that guy who was born without legs still has no legs, you monster! Give him some legs!
-> Within my own thinking, my answer is yes, everything has a soul, with the line drawn at viruses (not alive), although the actual scientific jury is still out on viruses for now. I'd segregate everything into their own afterlives, which would make it ridiculously hard to reunite yourself with your pets, but I don't see an easier and still highly specific solution without 'hand-waving' the issue.
 > 
+> Anyhow, if you're reading this Admin, what's your stance on souls- as in, who has them and who doesn't? Does my dog have a soul? Will my dog go to Heaven, or a Heaven for dogs? Will my dog have to go to Hell first, or does he get a free pass straight to Heaven?
+> 
+> If the answer is yes, then where do you draw the line on souls? Plants are technically living organisms, do they have souls? Or is there a strict devision, e.g. only vertebrates have souls- because this distinction would basically give humans permission to kill every spider they see, since non-vertebrates don't have souls, so their lives don't matter.
+> 
+> To go deeper, what about bacteria? Bacteria are alive, do they have souls? If bacteria do, do my own skin cells? Could I die, go to Heaven, and encounter my own brain cells? Do living beings get to pick out new bodies in the afterlife? If so, all it takes is for bacteria to want to be bigger and soon you'll have quadrillions (too lazy to look up a bigger number) of bacteria taking up all the damn space. If the answer to body modification is no, that guy who was born without legs still has no legs, you monster! Give him some legs!
+> 
+> Within my own thinking, my answer is yes, everything has a soul, with the line drawn at viruses (not alive), although the actual scientific jury is still out on viruses for now. I'd segregate everything into their own afterlives, which would make it ridiculously hard to reunite yourself with your pets, but I don't see an easier and still highly specific solution without 'hand-waving' the issue.
 
 ---
 

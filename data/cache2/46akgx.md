@@ -53,65 +53,65 @@ Some details in WW2 was just ridiculous no matter how realistically portrayed.
 
 ### Comments:
 
-> **u/Aretii** [+5]  *Cultist of Cthugha**
+> **u/Aretii** [+3]  *Cultist of Cthugha* (2 hours later)
 > 
 > http://squid314.livejournal.com/275614.html
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (21 hours later)
 >> 
 >> WW2 is a bit too big to portray in a single show.
->> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (40 minutes later)
 > 
 > The idea is that the entire history of WW2 and a little bit after that is published as a series of book in a different timeline, written by the best novelists in the world, and true to the history of WW2.
-> 
 
->> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (9 hours later)
 >> 
 >> If I got ROB'd into another world, making a fictionalized (and poorly recalled) WW2 into a novel series would definitely be one of my goals.
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (a day later)
 >>> 
 >>> Critics would call the Nazi party stereotypical and uninspired.
->>> 
 
->>>> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (a day later)
 >>>> 
 >>>> Why? Without the Nazi party to inspire dozens of stormtroopers after them, they'd still be stuck on roman-empire or barbarian horde style evil armies. It would be a breath of fresh air.
->>>> 
 
-> **u/LeonCross** [+2] *
+> **u/LeonCross** [+2]  (14 hours later)
 > 
 > Well. Didn't you know? Fiction is just the human race expressing it's psychic potential to tune in to other worlds, limited by the authors psychic skill. Most fiction sticks pretty close to spectrum close to our world as it's easier to home in on.
-> Good quality rat fic? Well, they've just seriously honed their ability to hit worlds very similar to ours in their targeted requirements.
-> And of course inter dimensional psychics are only interested in seeing the entertaining bits!
 > 
+> Good quality rat fic? Well, they've just seriously honed their ability to hit worlds very similar to ours in their targeted requirements.
+> 
+> And of course inter dimensional psychics are only interested in seeing the entertaining bits!
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (14 hours later)
 >> 
 >> It's a ROB(random omnipotent being) or ASB(alien space bat) scenario. 
->> But in this case, it would not 'appear' out of the blue. There will be very reasonable if unlikely explanation ITTL for why it's so good, and why it's so technically accurate.
 >> 
+>> But in this case, it would not 'appear' out of the blue. There will be very reasonable if unlikely explanation ITTL for why it's so good, and why it's so technically accurate.
 
-> **u/HotGrilledSpaec** [+1]  *Heresiarch of Tlon**
+> **u/HotGrilledSpaec** [+1]  *Heresiarch of Tlon* (5 hours later)
 > 
 > Is this going to be an ongoing thing?
-> 
 
->> **u/None** [+4] *
+>> **u/None** [+4]  (14 hours later)
 >> 
 >> Not likely, for at least two reasons:
->> 1) historical research - I'll have to understand not only WW2 but the preceding decades, and guess their likely response.
->> 2) plotting - I am unsure what would be the major conflict and which historical figures I would be focusing my time on.
->> ---
->> I do have a broad idea of what would happen....The story of WW2 would get ignored as fiction.
->> But as time passed and certain prediction came true(WW1), coupled with the wealth of scientific and engineering information contained within will lead people to consult and believe in it. 
->> The rights revolution will happen faster, because this book will spread across the globe and be translated into many languages and be read by people across all ages and gender, even as people are offended(white, Japanese, queen's sons, etc).
->> Some lessons will be not be learned, but it is compensated for by being written by the greatest writers in the history of man. The holocaust would be portrayed, as was Hitler's final moments.
 >> 
+>> 1) historical research - I'll have to understand not only WW2 but the preceding decades, and guess their likely response.
+>> 
+>> 2) plotting - I am unsure what would be the major conflict and which historical figures I would be focusing my time on.
+>> 
+>> ---
+>> 
+>> I do have a broad idea of what would happen....The story of WW2 would get ignored as fiction.
+>> 
+>> But as time passed and certain prediction came true(WW1), coupled with the wealth of scientific and engineering information contained within will lead people to consult and believe in it. 
+>> 
+>> The rights revolution will happen faster, because this book will spread across the globe and be translated into many languages and be read by people across all ages and gender, even as people are offended(white, Japanese, queen's sons, etc).
+>> 
+>> Some lessons will be not be learned, but it is compensated for by being written by the greatest writers in the history of man. The holocaust would be portrayed, as was Hitler's final moments.
 
 ---
 

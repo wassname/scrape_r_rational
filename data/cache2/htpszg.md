@@ -2,7 +2,7 @@
 
 * Author: u/Shadestyled *
 * URL: https://www.reddit.com/r/rational/comments/htpszg/the_an_unrealistic_saga/
-* Score: 32
+* Score: 35
 
 * Created: 2020-07-18T22:44:45
 
@@ -18,45 +18,43 @@ The story will slowly delve into the underlying physics, systems, cultures and p
 
 ### Comments:
 
-> **u/Jello_Raptor** [+5]  *The Last Tool User**
+> **u/Jello_Raptor** [+6]  *The Last Tool User* (2 hours later)
 > 
 > Oh boy. This is so frustrating to read, Theo is missing the lowest hanging fruit. Just ask for a primer on things a newly displaced needs to know, or find an encyclopedia and skim the index. 
-> He's just completely unaware of his own ignorance despite it staring him in the face.
 > 
+> He's just completely unaware of his own ignorance despite it staring him in the face.
 
->> **u/Shadestyled** [+6] *
+>> **u/Shadestyled** [+5]  (3 hours later)
 >> 
 >> Yup!
->> Thankfully, this won't be a permanent state of affairs. I just needed to spend an arc establishing that exact ignorance.
->> It's  been a trial, trying to come up with a good way to establish that Theo  believes himself to be the smartest goddamn man alive, without confusing  readers into thinking he actually is, or worse, confusing readers into  thinking that I believe he actually is.
->> In the next arc, he'll be a tad smarter about the matter after taking a fatal blow to the ego.
 >> 
+>> Thankfully, this won't be a permanent state of affairs. I just needed to spend an arc establishing that exact ignorance.
+>> 
+>> It's  been a trial, trying to come up with a good way to establish that Theo  believes himself to be the smartest goddamn man alive, without confusing  readers into thinking he actually is, or worse, confusing readers into  thinking that I believe he actually is.
+>> 
+>> In the next arc, he'll be a tad smarter about the matter after taking a fatal blow to the ego.
 
-> **u/ironistkraken** [+3] *
+> **u/ironistkraken** [+3]  (3 hours later)
 > 
 > This could be very cool, but it seems one that the coolness will take a while to develop.
-> 
 
-> **u/Making_Bacon** [+2] *
+> **u/Making_Bacon** [+2]  (6 hours later)
 > 
 > This comment has been overwritten by an automated tool.
-> 
 
-> **u/nicholaslaux** [+2] *
+> **u/nicholaslaux** [+2]  (4 days later)
 > 
 > I will say that it feels strange hearing someone who is, at least in-character, literally experiencing something, and describing it as "unrealistic", given that to the best of their knowledge, it is literally real to them now.
-> It's a special sort of egocentrism to assume that when you're faced with something you can literally observe occurring, it's reality that's wrong, rather than you. (I'm aware this is an intentional characterization, so it was effective, but mostly at making me want to root for whoever the antagonist ends up being.)
 > 
+> It's a special sort of egocentrism to assume that when you're faced with something you can literally observe occurring, it's reality that's wrong, rather than you. (I'm aware this is an intentional characterization, so it was effective, but mostly at making me want to root for whoever the antagonist ends up being.)
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 hours later)
 > 
 > [deleted]
-> 
 
-> **u/hrivehano** [+1] *
+> **u/hrivehano** [+1]  (5 days later)
 > 
 > Aw, disappointing that you're dropping this. I really enjoyed it. Maybe give it a bit of time to sit, a month isn't a whole hell of a lot of time to develop a following, even for something a little trollish
-> 
 
 ---
 

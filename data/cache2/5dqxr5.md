@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/That2009WeirdEmoKid** [+1] *
+> **u/That2009WeirdEmoKid** [+1]  (a minute later)
 > 
 > Welp... I guess I finally got to the horror part of this story.
-> 
 
 ---
 

@@ -12,12 +12,13 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (17 minutes later)
 > 
 > [https://www.reddit.com/r/MorbidReality/comments/bqe5af/nerds\_attack\_17\_year\_old\_strangled\_him\_to\_death/](https://www.reddit.com/r/MorbidReality/comments/bqe5af/nerds_attack_17_year_old_strangled_him_to_death/)
-> &#x200B;
-> Same OP.  Sounds like a weird fetish thing.
 > 
+> &#x200B;
+> 
+> Same OP.  Sounds like a weird fetish thing.
 
 ---
 

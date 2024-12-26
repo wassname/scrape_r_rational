@@ -2,7 +2,7 @@
 
 * Author: u/SyntaqMadeva *
 * URL: http://moodylit.com/the-good-student-table-of-contents/book-2-chapter-twenty-two
-* Score: 36
+* Score: 42
 
 * Created: 2019-04-28T20:52:55
 
@@ -12,15 +12,13 @@
 
 ### Comments:
 
-> **u/Dent7777** [+4]  *House Atreides**
+> **u/Dent7777** [+3]  *House Atreides* (an hour later)
 > 
 > This is one of those fics I look forward to reading in full
-> 
 
-> **u/Vlorka** [+1] *
+> **u/Vlorka** [+1]  (a day later)
 > 
 > Just read the first ‘book’ over the last day - I’m enjoying it, not sure how rational it is but the story is good, though there were an increasing number of moments where information wasn’t disclosed in advance and several deus ex machina thrown in events offstage. I’ll happily keep reading the next book later this week.
-> 
 
 ---
 

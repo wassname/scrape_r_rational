@@ -2,7 +2,7 @@
 
 * Author: u/XxChronOblivionxX *
 * URL: https://www.fanfiction.net/s/10286391/4/The-Hills-of-Inaba
-* Score: 7
+* Score: 6
 
 * Created: 2015-10-07T19:56:32
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/General_Urist** [+1] *
+> **u/General_Urist** [+1]  (20 hours later)
 > 
 > Woo, I thought this fic was dead. Great to see it updated!
-> 
 
 ---
 

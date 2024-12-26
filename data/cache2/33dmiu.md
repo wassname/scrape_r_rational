@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/33dmiu/geb_discussion_13_chapter_12_minds_and_thoughts/
-* Score: 10
+* Score: 9
 
 * Created: 2015-04-21T17:50:04
 
@@ -70,17 +70,24 @@ The discussion for the next chapter is posted [here](http://www.reddit.com/r/rat
 
 ### Comments:
 
-> **u/markus1189** [+2] *
+> **u/markus1189** [+2]  (25 minutes later)
 > 
 > > Coming up next on April 16th is Chapter XIII: BlooP and FlooP and GlooP.
+> 
 > You mean next on April 23rd? :)
+> 
 > > Note that the phrase the “very gold Asian box” is changed into the “Very Asian Box” by Achilles. Why does this happen?
+> 
 > I can't think of a reason other than it belongs to the post-ending ending and therefore contains typos (Golbach Conjecture, p.404), double spaces (your__outstanding generosity, p.404) and maybe this swap?  Or is there more to it?  I have to admit I didn't really notice it while reading (Good catch :) ).
+> 
 > ##### Chapter 12
 > 1. Can someone think of an answer to DRH's question [p. 373]?
+> 
 >   > Why did the Tumtum tree get changed into an "arbre Té-té" in French?
+> 
 > ##### Dialogue
 > The dialogue was very entertaining (again):
+> 
 > 1. At the beginning the Count calls for a composer to entertain him because he is not able to sleep <=> Achilles does the same with the Tortoise
 > 2. The count gives 100 Louis d'or to Goldberg, the Tortoise also gets 100 Louis d'or
 > 3. "wondrous numbers" actually refer to the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
@@ -89,41 +96,38 @@ The discussion for the next chapter is posted [here](http://www.reddit.com/r/rat
 >     - Copper, Silver, Gold: An Indestructible Metallic Alloy <=> Gödel, Escher, Bach: An Eternal Golden Braid
 >     - The *cop*s (copper) named silva (silver) and gould (gold)
 > 5. I am not sure what the deal is with the giraffe/elephants/baboons title suggestions on p. 402 other than the first letter matches gödel/escher/bach, maybe someone else can think of something?
-> 
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 hours later)
 >> 
 >> Thanks for the catch of my two typos (date and AGB), but I can safely say that it's not a typo, because other sites discussing this dialogue have commented on this same thing.
->> 
 
->>> **u/markus1189** [+1] *
+>>> **u/markus1189** [+1]  (12 hours later)
 >>> 
 >>> Can you give a hint without giving it away?
->>> 
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (15 hours later)
 >>>> 
 >>>> Um, I'm pretty sure that it's supposed to be another variation like Goldbach's Variations is variation on Goldbach's Conjecture. if it means something else, then I don't know it. Although the TV Tropes [page](http://tvtropes.org/pmwiki/pmwiki.php/StealthPun/Literature) seems to think it's a stealth pun of some sort that I'm missing.
->>>> 
 
-> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+> **u/xamueljones** [+1]  *My arch-enemy is entropy* (3 minutes later)
 > 
 > Sorry that this post is so late. I just had a lot of trouble writing this post. The words came really slowly and I felt pretty tired while writing this post.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (18 hours later)
 >> 
 >> No problem! We appreciate it. :)
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (18 hours later)
 > 
 > I like Goldbach's conjecture. It's easy to understand, but evidently very difficult to prove.
-> One of the many variations is Lagrange's four-square theorem, a proof that every natural number is the sum of four squares. It's pretty entertaining to play around with, to try and puzzle out each number's four square addends.
-> * Hint: they follow a pattern roughly reminiscent of counting in binary.
-> * Double Hint: it's possible to express certain numbers in more than one way. Can you find the rule for predicting these numbers?
-> I firmly believe GEB cannot and will not ever exist in any other form or language besides straightforward text. Maybe a pdf would work? Still. It's just so clever.
 > 
+> One of the many variations is Lagrange's four-square theorem, a proof that every natural number is the sum of four squares. It's pretty entertaining to play around with, to try and puzzle out each number's four square addends.
+> 
+> * Hint: they follow a pattern roughly reminiscent of counting in binary.
+> 
+> * Double Hint: it's possible to express certain numbers in more than one way. Can you find the rule for predicting these numbers?
+> 
+> I firmly believe GEB cannot and will not ever exist in any other form or language besides straightforward text. Maybe a pdf would work? Still. It's just so clever.
 
 ---
 

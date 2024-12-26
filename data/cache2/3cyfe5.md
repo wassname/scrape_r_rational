@@ -2,7 +2,7 @@
 
 * Author: u/Empiricist_or_not  *Aspiring polite Hegemonizing swarm**
 * URL: https://www.reddit.com/r/rational/comments/3cyfe5/d_fiction_recommendations_for_the_theme_ever_after/
-* Score: 9
+* Score: 8
 
 * Created: 2015-07-11T22:27:22
 

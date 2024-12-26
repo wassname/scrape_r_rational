@@ -16,10 +16,9 @@ So: Does anyone in this forum have a friend of a friend who might be willing to 
 
 ### Comments:
 
-> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.**
+> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.* (21 minutes later)
 > 
 > /r/YAwriters is a surprisingly good resource for this; see [here](http://www.reddit.com/r/YAwriters/comments/276hqq/how_do_you_make_sure_your_characters_conditions/) and [here](http://www.reddit.com/r/YAwriters/comments/1ll3su/iama_trauma_nurse_who_writes_on_my_days_off_ama/).
-> 
 
 ---
 

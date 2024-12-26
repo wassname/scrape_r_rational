@@ -12,21 +12,19 @@
 
 ### Comments:
 
-> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857* (2 minutes later)
 > 
 > I figured this post was long enough and relevant to /r/rational's interests enough to be a top level post. If mods disagree, just remove it and I'll post it in Friday Offtopic instead.
-> 
 
->> **u/ketura** [+1]  *Organizer**
+>> **u/ketura** [+1]  *Organizer* (25 minutes later)
 >> 
 >> Please do. "Meta" is for things relating to /r/rational, not things outside the purview of rational fiction.
->> 
 
->>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857* (28 minutes later)
 >>> 
 >>> On a meta level, this post argues that writing and posting rational fiction counts as immortality.
->>> ... on a practical level, I've deleted this post and will repost it later :P
 >>> 
+>>> ... on a practical level, I've deleted this post and will repost it later :P
 
 ---
 

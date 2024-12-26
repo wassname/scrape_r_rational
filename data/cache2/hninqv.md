@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/hninqv/d_wednesday_worldbuilding_and_writing_thread/
-* Score: 11
+* Score: 7
 
 * Created: 2020-07-08T15:05:11
 
@@ -24,149 +24,172 @@ On the other hand, this is *also* the place to talk about writing, whether you'r
 
 ### Comments:
 
-> **u/RedSheepCole** [+5] *
+> **u/RedSheepCole** [+6]  (an hour later)
 > 
 > Consider [https://medium.com/@Jernfrost/why-colonize-venus-instead-of-mars-c490d14c0531](https://medium.com/@Jernfrost/why-colonize-venus-instead-of-mars-c490d14c0531)  
 > That's just the start of a rabbit hole; it leads to link upon link, full of lots of speculation about Venusian flying habitats.  Basically the idea is that, since ordinary air is significantly less dense than Venus's CO2 atmosphere, human colonists could live in huge bubbles somewhere around 50km up.  The atmosphere contains, in addition to CO2, some nitrogen, with traces of water vapor, sulfur dioxide, and sulfuric acid--enough building blocks that you could skim and break them down to make all sorts of handy sludges.
-> Rarer materials would need to be either imported from Earth or somehow procured from the surface.  This is the biggest difficulty I see at present; the surface of Venus is pretty much hell, and destroyed the one probe the Soviets sent in something like an hour.  Supposedly you could have better luck mining the highest mountains, though that would be a substantial investment.
-> Energy would be plentiful; Venus receives oodles of solar energy, and one commenter on a thread suggested dipping a power plant on a mile-long tether, to get into the regions where ambient temps are above boiling.  I don't know enough chemistry to say how the sulfuric-acid clouds would be dealt with, but I've read enough knowledgeable-seeming people waving it aside that I don't feel too troubled.  Apparently it's feasible to make organic acid-resistant materials?  Not a chemist.
-> These bubbles would be blown around the world by ferocious winds, effectively giving them fifty hours each of darkness and daylight.  It's been suggested (in one of these pages) that the habs would rise during the day and sink during the night, presumably by using ballast tanks and hydrogen gas, to compensate for the shift in insolation.  Venus itself is quicker/easier to get to than Mars.
-> Thoughts?
 > 
+> Rarer materials would need to be either imported from Earth or somehow procured from the surface.  This is the biggest difficulty I see at present; the surface of Venus is pretty much hell, and destroyed the one probe the Soviets sent in something like an hour.  Supposedly you could have better luck mining the highest mountains, though that would be a substantial investment.
+> 
+> Energy would be plentiful; Venus receives oodles of solar energy, and one commenter on a thread suggested dipping a power plant on a mile-long tether, to get into the regions where ambient temps are above boiling.  I don't know enough chemistry to say how the sulfuric-acid clouds would be dealt with, but I've read enough knowledgeable-seeming people waving it aside that I don't feel too troubled.  Apparently it's feasible to make organic acid-resistant materials?  Not a chemist.
+> 
+> These bubbles would be blown around the world by ferocious winds, effectively giving them fifty hours each of darkness and daylight.  It's been suggested (in one of these pages) that the habs would rise during the day and sink during the night, presumably by using ballast tanks and hydrogen gas, to compensate for the shift in insolation.  Venus itself is quicker/easier to get to than Mars.
+> 
+> Thoughts?
 
->> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+5]  *Cheela Astronaut* (6 hours later)
 >> 
 >> I read a pdf of a paper from like 1990 about how to terraform venus, which included a 100 year period where all the CO2 would condense in the form of a continual CO2 rainstorm. It seemed scientifically based and was talking about how the colony could be profitable early on. 
->> I googled "old paper about terraforming venus" because google is a wizard I'm pretty sure that this is the paper I read, if you're interested: https://www.orionsarm.com/fm_store/TerraformingVenusQuickly.pdf
 >> 
+>> I googled "old paper about terraforming venus" because google is a wizard I'm pretty sure that this is the paper I read, if you're interested: https://www.orionsarm.com/fm_store/TerraformingVenusQuickly.pdf
 
->>> **u/TangoKilo421** [+2] *
+>>> **u/TangoKilo421** [+2]  (9 hours later)
 >>> 
 >>> Ah, good ol' Orion's Arm! No surprise there 😄
->>> 
 
->>>> **u/ramjet_oddity** [+1] *
+>>>> **u/ramjet_oddity** [+1]  (21 hours later)
 >>>> 
 >>>> You know,  kinda want to see more Orion's Arm stuff over here.
->>>> 
 
->>> **u/RedSheepCole** [+1] *
+>>> **u/RedSheepCole** [+1]  (16 hours later)
 >>> 
 >>> I'm mostly interested in the dramatic possibilities of flying cities, but it seems worth a look anyhow.  Thanks for digging!
->>> 
 
->> **u/Frommerman** [+2] *
+>> **u/Frommerman** [+2]  (13 hours later)
 >> 
 >> Glass and most ceramics are resistant to organic acids. That's why you can safely store most of them in glass vials. Glass would melt on Venus, but we've got tons of ceramics which would probably do the trick.
->> I don't know of any flexible acid-resistant materials however. Neoprene is resistant to some acids, but it has a low flash and melting point and bursts into flames upon contact with nitric acid, which may exist in small quantities as well. Though to be fair I don't know if it would do that in a low oxygen environment.
->> There are apparently a whole category of thermoplastics, one of which might do fine in an acid environment.
 >> 
+>> I don't know of any flexible acid-resistant materials however. Neoprene is resistant to some acids, but it has a low flash and melting point and bursts into flames upon contact with nitric acid, which may exist in small quantities as well. Though to be fair I don't know if it would do that in a low oxygen environment.
+>> 
+>> There are apparently a whole category of thermoplastics, one of which might do fine in an acid environment.
 
->>> **u/RedSheepCole** [+1] *
+>>> **u/RedSheepCole** [+1]  (15 hours later)
 >>> 
 >>> I doubt glass would melt at the altitudes contemplated, where the temperature stays below the boiling point of water.  Oxygen isn't just rare on Venus, but practically nonexistent, and Wiki claims it burns at a bit over twice boiling, so I imagine it would be okay as an envelope.  So I think either would work out--thanks for answering!
->>> 
 
->> **u/Norseman2** [+1] *
+>> **u/Norseman2** [+1]  (4 hours later)
 >> 
 >> Rather than making this an instead-of situation, I think it would work best to colonize both. Venus has an abundance of things which are rare on Mars, and vice versa. Venus can supply the rocket fuel, water, carbon, sulfur, and other volatile elements. Mars can supply the heavier elements like iron and silicon, and potentially other rare elements found as ore veins due to the historical presence of water. Together, once they are both sufficiently built up, they would likely be able to survive independently of Earth in the event of some kind of sudden and apocalyptic event, like a nuclear war. We still haven't identified any signs of extraterrestrial civilizations, so the Fermi paradox would suggest that one or more great filters may still lie ahead of us. It's best that we don't leave all our eggs in one basket.
->> 
 
->> **u/DAL59** [+1] *
+>> **u/DAL59** [+1]  (13 hours later)
 >> 
 >> I'm glad to see this here as I've have written a first draft of a hard sci-fi book about Venus cloud colonies, but I've only edited and posted the first two chapters here a few months ago because I've been busy (excuses excuses).  Essentially the habitats in my story are ellipsoid halves 1 kilometers tall, 500 meters wide, and 1 kilometer long- enough for 567 tons of lift at equal pressure altitude.  The roof is a giant liquid crystal to regulate sunlight.  As most of the weight is taken up by the thorium reactor, ascent vehicles, mining tethered robots, and structure, the residential and office buildings are made of bamboo.
->> 
 
->>> **u/RedSheepCole** [+1] *
+>>> **u/RedSheepCole** [+1]  (16 hours later)
 >>> 
 >>> I think I found it on your profile--do you only have it on Wattpad?  It seems to require a signup and login just to browse.
->>> 
 
-> **u/DataPacRat** [+2]  *Amateur Immortalist**
+> **u/DataPacRat** [+2]  *Amateur Immortalist* (2 hours later)
 > 
 > Is there a program that can take a rough map as input, and output a plausibly more-detailed version?
-> (The particular map I'm looking at is [this](https://commons.wikimedia.org/wiki/File:First_global_geologic_map_of_Titan_\(PIA23174\).jpg) geological one of a moon, particularly the lake southeast of Xanadu.)
 > 
+> (The particular map I'm looking at is [this](https://commons.wikimedia.org/wiki/File:First_global_geologic_map_of_Titan_\(PIA23174\).jpg) geological one of a moon, particularly the lake southeast of Xanadu.)
 
->> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (6 hours later)
 >> 
 >> I think I saw a blog post about one of those image AIs that does it with pixelated images, but I'm not sure if it's easily available yet.  
->> Here's the blog post in question: https://aiweirdness.com/post/622002033086578688/depixellation-or-hallucination
 >> 
+>> Here's the blog post in question: https://aiweirdness.com/post/622002033086578688/depixellation-or-hallucination
 
->> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (7 hours later)
 >> 
 >> If you can't find a program then, depending on your needs, you might be able to cheaply commission the map. 
->> I was able to get [this map of Jurassic-era Earth](https://www.alternatehistory.com/forum/threads/a-blank-map-thread.25312/page-294#post-20188626) for very little.
 >> 
+>> I was able to get [this map of Jurassic-era Earth](https://www.alternatehistory.com/forum/threads/a-blank-map-thread.25312/page-294#post-20188626) for very little.
 
->> **u/jtolmar** [+2] *
+>> **u/jtolmar** [+2]  (17 hours later)
 >> 
 >> What kind of map are you trying to get out of it? If you just want a mostly-reasonable looking heightmap / coastline, most terrain generation programs are just adding up a bunch of octaves of Perlin noise, which you can actually do in Gimp.
->> Take the image, cut out the part you want, transform it to mostly get rid of the bending, scale up a bunch, recolor it to a greyscale heightmap (use select by color and paint bucket whole selection), blur it, render simplex noise to a new layer (you may want to do this multiple times and merge them for more detail), set layer to add and lower the opacity, merge (probably do this on copies), posterize back down, maybe recolor back.
->> [Here's what that looks like](https://i.imgur.com/xqsbNMy.png). You'll get different results, and tweaking it yourself will let you get more of what you want.
->> If I were to spend more time on it, I'd do something about the grid lines (probably painting over them by hand earlier in the process), and try to make more of the land detail limited to the coastlines (starting with using a bigger blur in that step).
 >> 
+>> Take the image, cut out the part you want, transform it to mostly get rid of the bending, scale up a bunch, recolor it to a greyscale heightmap (use select by color and paint bucket whole selection), blur it, render simplex noise to a new layer (you may want to do this multiple times and merge them for more detail), set layer to add and lower the opacity, merge (probably do this on copies), posterize back down, maybe recolor back.
+>> 
+>> [Here's what that looks like](https://i.imgur.com/xqsbNMy.png). You'll get different results, and tweaking it yourself will let you get more of what you want.
+>> 
+>> If I were to spend more time on it, I'd do something about the grid lines (probably painting over them by hand earlier in the process), and try to make more of the land detail limited to the coastlines (starting with using a bigger blur in that step).
 
-> **u/VapeKarlMarx** [+2] *
+> **u/VapeKarlMarx** [+2]  (8 hours later)
 > 
 > I've been thinking about what kinda economic controlls you would need to keep even a medium magic DnD world from becoming post scarsity without putting a bunch of extra rules on the magic.  
-> Everyone I have consulted so far has given me wildly diffrent answers
 > 
+> Everyone I have consulted so far has given me wildly diffrent answers
 
->> **u/scruiser** [+5]  *CYOA**
+>> **u/scruiser** [+5]  *CYOA* (9 hours later)
 >> 
 >> Are you trying to stay as close as possible to rules as written?  (As opposed to treating them as an abstraction and adding in various common sense limits). Can anyone level up like a Player Character?  (In an abstract sense, Player Characters are kind of meant to represent unique are or at least rarely skilled individuals.  If you take the rules more literally, you could still interpret it to be that player character levels are rare and hard to get and that XP can’t be safely gained by artificially setting up safe encounters).  If you make character levels rare enough, whether by fiat or a complex in universe explanation about what levels are or by treating them as an abstraction (of fast-learning, lucky, blessed, and/or talented individuals) then you can reduce the economic impact of magic that way.
->> One thing that commonly gets ignored or made less annoying by house rules are spell components.  If you went the opposite direction and made spell components rarer or more expensive or needed in greater quantity that could magic less economically impactful.  Likewise for magic item crafting the XP cost rules could be representative of the crafter literally pouring their soul into their work in a process that is costly enough to make magic items economically unviable and not mass produce able.
 >> 
+>> One thing that commonly gets ignored or made less annoying by house rules are spell components.  If you went the opposite direction and made spell components rarer or more expensive or needed in greater quantity that could magic less economically impactful.  Likewise for magic item crafting the XP cost rules could be representative of the crafter literally pouring their soul into their work in a process that is costly enough to make magic items economically unviable and not mass produce able.
 
->> **u/DXStarr** [+6] *
+>> **u/DXStarr** [+4]  (20 hours later)
 >> 
 >> If you want to prevent progress, just have something out there that looks out for progress, and goes after the people who try it. Punishes them -- or eats them.
->> Two good options are Industrial Magic is Lethally Patented, or, less comic and more grimdark, Industrial Magic Makes You Tasty To Aliens.
->> Industrial Magic is Lethally Patented: there's something very powerful that thinks it "owns" industrial-economy magic, and that thing comes out and punishes societies that use too much magic in ordinary life.
->> In *Practical Guide To Evil*, it's the gnomes, who go after anyone who poaches on their monopoly of machinery and automation. In *Worth the Candle*, there's a bit of this with the dragons, who consider the upper atmosphere their property and go after any unlicensed airplanes or flying mages.
->> So, pick a powerful distant civilization, and say it's not always distant -- it comes and *visits* if there's too much "commoner magic" and kidnaps or kills the innovators.
->> No industrial revolution for you! The gnomes have their monopoly.
->> Industrial Magic is Tasty to Aliens: there's something Out There that's drawn to over-rich concentrations of magic in everyday life, and it colonizes or eats those cities, and nobody ever hears of them again.
->> No industrial revolution for you! Your customers don't want to attract Cthulhu.
->> You can see that both of these aren't about how magic works, but about the *social consequences* for using that magic. So any little thing people do can work just as the rulebooks imply. But the moment it starts to become a system - well, that's when it starts to get the attention of the Patent Enforcers or the Hungry Aliens.
->> Is this realistic? I'm afraid we know it is, because it really happened. Imperial colonizers in history did both of these things.
->> Lethal Patent Enforcers: the Dutch conquered Indonesia, and then, to get a monopoly on spices, they sent out raiding parties to slaughter everybody raising those spices who wasn't in Dutch territory. Your civilization isn't allowed: the powerful foreigners will kill you if you keep cultivating cloves and peppers.
->> Your Civilization Makes You Tasty to Aliens: from all Africa, there's a certain stretch of the west coast where the Europeans took the most slaves from. You know why? Because back then, it was the rich part of sub-Saharan Africa, with the most built-up farms and kingdoms and civilization. And all those people and organized leaders made it the easiest, the most convenient, of all places for the Europeans to go into and demand captives -- to take overseas as slaves.
->> The richer your sub-Saharan African kingdom was in 1500, the more likely the Europeans turned you and your whole village into a cargo for overseas slavery by the 1600s or 1700s. Because your economic development makes your people look tasty to the aliens.
->> I know, super creepy, but the worst parts of history are.
->> But you don't have to be grimdark to get the job done. In *Practical Guide to Evil* the gnomes are a spooky-comic fact rather than a seriously hostile menace. The story makes it possible the gnomes even have "good motives," that they're slowly working on things themselves and don't trust humans not to screw things up -- anti-industrialization as a sort of environmentalism.
->> It could even be outright silly: you could have gods that were comically nervous about industrial magic, seeing it as a risk to their authority. Maybe everybody has superstitions about the Forbidden Applications of spells that will draw divine wrath, but also the Loophole Tricks that will let you run your teleportation-smuggling business without getting lightning-bolted by the God of Transport. Why revere the gods' prohibitions when you can, ah, creatively negotiate?
->> So the basic principle will work in your world, whether you set it up as a wacky fact or a terrifying one:
->> The easiest way to stop progress? Something big and powerful comes after anyone who tries.
 >> 
+>> Two good options are Industrial Magic is Lethally Patented, or, less comic and more grimdark, Industrial Magic Makes You Tasty To Aliens.
+>> 
+>> Industrial Magic is Lethally Patented: there's something very powerful that thinks it "owns" industrial-economy magic, and that thing comes out and punishes societies that use too much magic in ordinary life.
+>> 
+>> In *Practical Guide To Evil*, it's the gnomes, who go after anyone who poaches on their monopoly of machinery and automation. In *Worth the Candle*, there's a bit of this with the dragons, who consider the upper atmosphere their property and go after any unlicensed airplanes or flying mages.
+>> 
+>> So, pick a powerful distant civilization, and say it's not always distant -- it comes and *visits* if there's too much "commoner magic" and kidnaps or kills the innovators.
+>> 
+>> No industrial revolution for you! The gnomes have their monopoly.
+>> 
+>> Industrial Magic is Tasty to Aliens: there's something Out There that's drawn to over-rich concentrations of magic in everyday life, and it colonizes or eats those cities, and nobody ever hears of them again.
+>> 
+>> No industrial revolution for you! Your customers don't want to attract Cthulhu.
+>> 
+>> You can see that both of these aren't about how magic works, but about the *social consequences* for using that magic. So any little thing people do can work just as the rulebooks imply. But the moment it starts to become a system - well, that's when it starts to get the attention of the Patent Enforcers or the Hungry Aliens.
+>> 
+>> Is this realistic? I'm afraid we know it is, because it really happened. Imperial colonizers in history did both of these things.
+>> 
+>> Lethal Patent Enforcers: the Dutch conquered Indonesia, and then, to get a monopoly on spices, they sent out raiding parties to slaughter everybody raising those spices who wasn't in Dutch territory. Your civilization isn't allowed: the powerful foreigners will kill you if you keep cultivating cloves and peppers.
+>> 
+>> Your Civilization Makes You Tasty to Aliens: from all Africa, there's a certain stretch of the west coast where the Europeans took the most slaves from. You know why? Because back then, it was the rich part of sub-Saharan Africa, with the most built-up farms and kingdoms and civilization. And all those people and organized leaders made it the easiest, the most convenient, of all places for the Europeans to go into and demand captives -- to take overseas as slaves.
+>> 
+>> The richer your sub-Saharan African kingdom was in 1500, the more likely the Europeans turned you and your whole village into a cargo for overseas slavery by the 1600s or 1700s. Because your economic development makes your people look tasty to the aliens.
+>> 
+>> I know, super creepy, but the worst parts of history are.
+>> 
+>> But you don't have to be grimdark to get the job done. In *Practical Guide to Evil* the gnomes are a spooky-comic fact rather than a seriously hostile menace. The story makes it possible the gnomes even have "good motives," that they're slowly working on things themselves and don't trust humans not to screw things up -- anti-industrialization as a sort of environmentalism.
+>> 
+>> It could even be outright silly: you could have gods that were comically nervous about industrial magic, seeing it as a risk to their authority. Maybe everybody has superstitions about the Forbidden Applications of spells that will draw divine wrath, but also the Loophole Tricks that will let you run your teleportation-smuggling business without getting lightning-bolted by the God of Transport. Why revere the gods' prohibitions when you can, ah, creatively negotiate?
+>> 
+>> So the basic principle will work in your world, whether you set it up as a wacky fact or a terrifying one:
+>> 
+>> The easiest way to stop progress? Something big and powerful comes after anyone who tries.
 
->> **u/None** [+3] *
+>> **u/None** [+4]  (a day later)
 >> 
 >> So DnD's economy is wonky because whoever designed it didn't understand the value of gold.  In the rules, fancy magical items cost quite a bit to make.   In 5e a +1 sword is something like 500gp. (Let's use nobles.)  That's 3027 shillings.  (1500 pigs.  320 cows.)  Create food and water feeds 15 people.  By contrast that many medieval cows (yes I looked for medieval milk production) could make about 900 pounds of cheese a day.  This leads to feeding 224 people a day (not counting days when cows weren't milking, but also not counting meat).
->> So to answer your question, magic would probably make the economy *less* efficient as arming knights would drastically increase in cost, but their monopoly on force would likely be more complete.  This in turn might actually *decrease* the speed of technological progress, because the price of labor is much lower compared to the price of the raw materials that create the magic.  In some ways technological progress relies on high labor prices.
->> There's one exception to the relative cost inefficiency of magical items: bags of holding and teleport.  They would also be 6.6 shillings per pound (weight).  Ships were far cheaper at something like 30 shillings per *ton*.  However, there's speed to consider.  A mage with access to teleportation and a bag of holding could make 900 shillings per day selling spices.  Assuming you need a rare and very rare item to level up + the bag, that's 36,000 shillings or *40 days* to make a profit.  Even then, it's not the massive profit you might think; a 20 ton ship going to India might spend 300 days round trip.  You're still getting 266 shillings per day by this method at the cost of something like 600 shillings for the ship alone.  So mages are like 40x the investment for 3.4x the profit.  A profit that will permanently disappear in a few years once there are permanent teleportation circles between all major trade capitols.
->> &#x200B;
->> [http://medieval.ucdavis.edu/120D/Money.html](http://medieval.ucdavis.edu/120D/Money.html)
->> [http://www.personal.utulsa.edu/\~marc-carlson/history/cattle.html](http://www.personal.utulsa.edu/~marc-carlson/history/cattle.html)
->> [https://www.reddit.com/r/AskHistorians/comments/380veq/what\_was\_the\_cost\_of\_a\_ship\_in\_europe\_circa\_ad/](https://www.reddit.com/r/AskHistorians/comments/380veq/what_was_the_cost_of_a_ship_in_europe_circa_ad/)
 >> 
+>> So to answer your question, magic would probably make the economy *less* efficient as arming knights would drastically increase in cost, but their monopoly on force would likely be more complete.  This in turn might actually *decrease* the speed of technological progress, because the price of labor is much lower compared to the price of the raw materials that create the magic.  In some ways technological progress relies on high labor prices.
+>> 
+>> There's one exception to the relative cost inefficiency of magical items: bags of holding and teleport.  They would also be 6.6 shillings per pound (weight).  Ships were far cheaper at something like 30 shillings per *ton*.  However, there's speed to consider.  A mage with access to teleportation and a bag of holding could make 900 shillings per day selling spices.  Assuming you need a rare and very rare item to level up + the bag, that's 36,000 shillings or *40 days* to make a profit.  Even then, it's not the massive profit you might think; a 20 ton ship going to India might spend 300 days round trip.  You're still getting 266 shillings per day by this method at the cost of something like 600 shillings for the ship alone.  So mages are like 40x the investment for 3.4x the profit.  A profit that will permanently disappear in a few years once there are permanent teleportation circles between all major trade capitols.
+>> 
+>> &#x200B;
+>> 
+>> [http://medieval.ucdavis.edu/120D/Money.html](http://medieval.ucdavis.edu/120D/Money.html)
+>> 
+>> [http://www.personal.utulsa.edu/\~marc-carlson/history/cattle.html](http://www.personal.utulsa.edu/~marc-carlson/history/cattle.html)
+>> 
+>> [https://www.reddit.com/r/AskHistorians/comments/380veq/what\_was\_the\_cost\_of\_a\_ship\_in\_europe\_circa\_ad/](https://www.reddit.com/r/AskHistorians/comments/380veq/what_was_the_cost_of_a_ship_in_europe_circa_ad/)
 
->> **u/ironistkraken** [+1] *
+>> **u/ironistkraken** [+1]  (11 hours later)
 >> 
 >> I guess it depends on the edition but the easiest limit is that its very hard to reach the high levels.  Maybe its easier to reach 10th level fighter then 10th level wizard.  And maybe people who can do magic are a lot rarer, like for every gifted person who can cast there are 50 gifted barbarians.
->> 
 
-> **u/cae_jones** [+1] *
+> **u/cae_jones** [+1]  (8 hours later)
 > 
 > So I sorta took this for granted before, but now that I'm thinking about it, how would [the crew of this ship](https://www.reddit.com/r/rational/comments/c0y8rx/comment/er9nlp6?context=1) defend themselves from attack in space?
-> I'd prefer to avoid enumerating the powers involved in detail again (see the link), but in summary: a bunch of people with superpowers built a spaceship, using a metalkine for the metal parts, a portal for both storage and propellant, and a grab-bag of telekinesis, light-eating, and something something alchemy for steering and life-support / navigation / whatever.
-> So what if someone throws a missile at them as they're passing Jupiter's orbit, or something? None of them really have fine control at spacebattle distances, and I question if any of them can muster the kind of energy it would take to just brute-force point defense.
-> What I've come up with at this point is to split the ship into  at least three, with each sub-ship optimized for the individuals who will be aboard. Untrained portal-kid is not going to power the main ship, but in combination with the plasmakine, maybe they could get a smaller craft jinking (and spinning, and struggling to hold onto air since the plasma has to get to the nozzle somehow...). The telekine could be much more impressive in a lighter vessel, and if paired with light-guy, they could have the lightest subship. This would certainly confuse any attackers, and improve their evasive capacities, but I'm not sure it would be enough, and I expect many non-attacker-related things could go wrong.
-> Mostly, I'm thinking they do that until portal-guy and metalkine can arrange for a suitable coronal mass ejection from the star on the far side of the portal, and just hope it functions as an effective "burn everything in that general direction" technique.
-> But sanity-checking the engines proved helpful, so I figure I should sanity-check this solution. Fwiw, I expect they ultimately had to obtain some more advanced equipment for stabilizing the ship, else they'd probably wind up having a very rough trip with unwanted spinning. And I'm still a bit torn between letting the telekine just ignore how forces normally work, and requiring that they work in a more Newtonian way (where's the equal and opposite reaction if you're telekinetically accelerating a spaceship? You're not pushing or pulling, and you're not throwing out propellant. Are you using the CMB as a climbing net?).
 > 
+> I'd prefer to avoid enumerating the powers involved in detail again (see the link), but in summary: a bunch of people with superpowers built a spaceship, using a metalkine for the metal parts, a portal for both storage and propellant, and a grab-bag of telekinesis, light-eating, and something something alchemy for steering and life-support / navigation / whatever.
+> 
+> So what if someone throws a missile at them as they're passing Jupiter's orbit, or something? None of them really have fine control at spacebattle distances, and I question if any of them can muster the kind of energy it would take to just brute-force point defense.
+> 
+> What I've come up with at this point is to split the ship into  at least three, with each sub-ship optimized for the individuals who will be aboard. Untrained portal-kid is not going to power the main ship, but in combination with the plasmakine, maybe they could get a smaller craft jinking (and spinning, and struggling to hold onto air since the plasma has to get to the nozzle somehow...). The telekine could be much more impressive in a lighter vessel, and if paired with light-guy, they could have the lightest subship. This would certainly confuse any attackers, and improve their evasive capacities, but I'm not sure it would be enough, and I expect many non-attacker-related things could go wrong.
+> 
+> Mostly, I'm thinking they do that until portal-guy and metalkine can arrange for a suitable coronal mass ejection from the star on the far side of the portal, and just hope it functions as an effective "burn everything in that general direction" technique.
+> 
+> But sanity-checking the engines proved helpful, so I figure I should sanity-check this solution. Fwiw, I expect they ultimately had to obtain some more advanced equipment for stabilizing the ship, else they'd probably wind up having a very rough trip with unwanted spinning. And I'm still a bit torn between letting the telekine just ignore how forces normally work, and requiring that they work in a more Newtonian way (where's the equal and opposite reaction if you're telekinetically accelerating a spaceship? You're not pushing or pulling, and you're not throwing out propellant. Are you using the CMB as a climbing net?).
 
 ---
 

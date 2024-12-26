@@ -2,7 +2,7 @@
 
 * Author: u/CeruleanTresses *
 * URL: https://www.reddit.com/r/rational/comments/ipyvnw/secret_krampus_writing_contest_2020_edition/
-* Score: 39
+* Score: 37
 
 * Created: 2020-09-10T07:39:25
 
@@ -44,47 +44,43 @@ Signups so far: **24**
 
 ### Comments:
 
-> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+> **u/xamueljones** [+7]  *My arch-enemy is entropy* (21 minutes later)
 > 
 > I'll definitely join in on this fun! It'd be too shameful, if as the originator of the first contest, I didn't write anything for this one!
-> Just need a *little* time to think about my prompt ideas.
-> Thanks for picking up the torch and continuing the tradition. I wasn't ever going to get to it this year, so I'm glad [u/CeruleanTresses](https://www.reddit.com/user/CeruleanTresses/) decided to step up.
 > 
+> Just need a *little* time to think about my prompt ideas.
+> 
+> Thanks for picking up the torch and continuing the tradition. I wasn't ever going to get to it this year, so I'm glad [u/CeruleanTresses](https://www.reddit.com/user/CeruleanTresses/) decided to step up.
 
->> **u/CeruleanTresses** [+2] *
+>> **u/CeruleanTresses** [+2]  (30 minutes later)
 >> 
 >> Thank you for coming up with it! I hope it's as positive an experience for this year's participants as it was for me!
->> 
 
-> **u/Asviloka** [+6] *
+> **u/Asviloka** [+6]  (19 hours later)
 > 
 > Slightly intimidated to write for this particular audience, but why not. I'm in.
-> 
 
-> **u/timee_bot** [+5] *
+> **u/timee_bot** [+4]  (22 seconds later)
 > 
 > View in your timezone:  
 > [Thursday, September 17th at 11:59PM EDT][0]  
-> [0]: https://timee.io/20200918T0359?tl=Secret%20Krampus%20Writing%20Contest%3A%202020%20Edition
-
-> ^(_*Assumed EDT instead of EST because DST is observed_)
 > 
+> [0]: https://timee.io/20200918T0359?tl=Secret%20Krampus%20Writing%20Contest%3A%202020%20Edition
+> 
+> ^(_*Assumed EDT instead of EST because DST is observed_)
 
-> **u/TheShadowMuffin** [+3] *
+> **u/TheShadowMuffin** [+5]  (15 hours later)
 > 
 > This sounds great, mods should sticky it or something
-> 
 
-> **u/Eirathiudr** [+2] *
+> **u/Eirathiudr** [+2]  (a day later)
 > 
 > This will be my first writing contest ever! I hope to have a lot of fun!  
 > Thank you for organising this event!
-> 
 
-> **u/ExiledQuixoticMage** [+2] *
+> **u/ExiledQuixoticMage** [+2]  (a day later)
 > 
 > I'm glad you liked my story!  This was a blast to do last year and I'm definitely signing up for this one once I think up a decent prompt.
-> 
 
 ---
 

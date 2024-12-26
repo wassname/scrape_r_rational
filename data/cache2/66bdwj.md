@@ -2,7 +2,7 @@
 
 * Author: u/wren42 *
 * URL: https://www.reddit.com/r/rational/comments/66bdwj/proposed_edited_interlude_chapter_for_three/
-* Score: 9
+* Score: 8
 
 * Created: 2017-04-19T16:42:14
 
@@ -57,161 +57,179 @@ Akon hesitated.  It was odd... he did know, on some gut level.  And he couldn't 
 
 ### Comments:
 
-> **u/wtfbbc** [+33] *
+> **u/wtfbbc** [+31]  (33 minutes later)
 > 
 > >The recent re-opening of the discussion around EY's "Three Cultures Collide" and the ongoing controversy around the legalized rape bit inspired me to take a shot at revising the chapter in question, substituting another social ethical question that serves the same purpose of distancing their culture from the reader's, while being more apropos to the topic of the story.
-> ... I guess, but one of the strengths of Yudkowsky's example is that literally everyone agrees that rape should be illegal forever. There's an ongoing abortion debate, so picking it actually serves to distance their culture less from half the audience. If the idea of a society where abortion is illegal seems that alien and far-off to you, you should talk to some more people outside your bubble my friend.
 > 
+> ... I guess, but one of the strengths of Yudkowsky's example is that literally everyone agrees that rape should be illegal forever. There's an ongoing abortion debate, so picking it actually serves to distance their culture less from half the audience. If the idea of a society where abortion is illegal seems that alien and far-off to you, you should talk to some more people outside your bubble my friend.
 
->> **u/HeckDang** [+22] *
+>> **u/HeckDang** [+25]  (an hour later)
 >> 
 >> Yeah, not to mention the original point of the [Politics is the Mind Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/) post was merely to suggest not using political examples in your writing because humans do particularly badly at reasoning in politically charged contexts due to in part how extra super tribalistic it is. The original post even recommends for example discussing something from the time of Louis XVI over something from today if you can so help it (and especially if it doesn't damage the core point of whatever you're saying), and making the values drift example a contemporarily politically divisive topic is essentially falling into the same pitfall, and choosing something basically universally reviled (e.g. rape) is the Louis XVI option.
->> Considering that Three Worlds Collide was in part an illustrative fic to help communicate the concepts of [alien values](https://wiki.lesswrong.com/wiki/Alien_values) and some stuff about [fun theory](http://lesswrong.com/lw/xy/the_fun_theory_sequence/) I think making the example politically charged would make things only worse than it is. Already you can find people insinuating that EY is actually sympathetic to rape or didn't do enough to suggest that rape is actually bad or disendorse it enough as an writer and this is surely a topic heinous enough that you would think that people would recognize the position as Clearly Not The Author's Actual Opinion, Duh. If it was something currently politically charged god only knows the kind of assumptions and reading into intentions that readers would inevitably have done, and accordingly would have dismissed the story as partisan or whatever in mindkilled stupor.
 >> 
+>> Considering that Three Worlds Collide was in part an illustrative fic to help communicate the concepts of [alien values](https://wiki.lesswrong.com/wiki/Alien_values) and some stuff about [fun theory](http://lesswrong.com/lw/xy/the_fun_theory_sequence/) I think making the example politically charged would make things only worse than it is. Already you can find people insinuating that EY is actually sympathetic to rape or didn't do enough to suggest that rape is actually bad or disendorse it enough as an writer and this is surely a topic heinous enough that you would think that people would recognize the position as Clearly Not The Author's Actual Opinion, Duh. If it was something currently politically charged god only knows the kind of assumptions and reading into intentions that readers would inevitably have done, and accordingly would have dismissed the story as partisan or whatever in mindkilled stupor.
 
->>> **u/wren42** [+2] *
+>>> **u/wren42** [+2]  (an hour later)
 >>> 
 >>> this I agree is true.  the political nature of the topic and how I've treated will be polarizing -- it actually should offend both camps, as both "progressives" and "religious cults" are called out as wrong. 
->>> EY didn't do a great job of distancing himself from those critiques, unfortunately.  He talked a lot about how many people want to engage in rape from either side, and a lot of his responses were somewhat baffling. 
->>> I have no opinion on what would or would not have happened had he written it differently.  This conversation came up in a recent thread that indicated there were quite a few people that had decided not to share the fit that otherwise might have.  that is a measurable failing of the original work that could be rectified.  
->>> of course, the problematic passage could just be cut, instead of replaced.
 >>> 
+>>> EY didn't do a great job of distancing himself from those critiques, unfortunately.  He talked a lot about how many people want to engage in rape from either side, and a lot of his responses were somewhat baffling. 
+>>> 
+>>> I have no opinion on what would or would not have happened had he written it differently.  This conversation came up in a recent thread that indicated there were quite a few people that had decided not to share the fit that otherwise might have.  that is a measurable failing of the original work that could be rectified.  
+>>> 
+>>> of course, the problematic passage could just be cut, instead of replaced.
 
->>>> **u/FishNetwork** [+13] *
+>>>> **u/FishNetwork** [+14]  (2 hours later)
 >>>> 
 >>>> Should this offend both camps?
->>>> Progressive don't defend a "human right" to kill infants.  Instead, they're defending a woman's right to stop being pregnant.
->>>> It happens that abortion is the only practical way to do that.  But when you write:
->>>> >Incubation technology was poor at the time, and expensive. Most children were still born “naturally” then, carried by the mother to full term. To forbid abortion was to deny the mother agency over her own body, to violate the sanctity of her very person
->>>> You're implying that the society has solved those technical limitations.  And women in this society can still exercise full autonomy over their bodies.
->>>> I don't see how the future society is creating situations that we, as modern readers, should consider repugnant.
 >>>> 
+>>>> Progressive don't defend a "human right" to kill infants.  Instead, they're defending a woman's right to stop being pregnant.
+>>>> 
+>>>> It happens that abortion is the only practical way to do that.  But when you write:
+>>>> 
+>>>> >Incubation technology was poor at the time, and expensive. Most children were still born “naturally” then, carried by the mother to full term. To forbid abortion was to deny the mother agency over her own body, to violate the sanctity of her very person
+>>>> 
+>>>> You're implying that the society has solved those technical limitations.  And women in this society can still exercise full autonomy over their bodies.
+>>>> 
+>>>> I don't see how the future society is creating situations that we, as modern readers, should consider repugnant.
 
->> **u/BadGoyWithAGun** [+2] *
+>> **u/BadGoyWithAGun** [+2]  (15 hours later)
 >> 
 >> > I guess, but one of the strengths of Yudkowsky's example is that literally everyone agrees that rape should be illegal forever.
->> ...agreed, but just like abortion, there are wildly varying views on what should constitute "rape" in the legal sense and what the context should be. For example, is it just the non-consensual sex act itself? Is it that, applied to a woman you don't own? Is it a crime against the institution of law itself, or against her owner? What is its severity? It's not universally agreed-upon by any means, and varies wildly between different cultures and population groups.
 >> 
+>> ...agreed, but just like abortion, there are wildly varying views on what should constitute "rape" in the legal sense and what the context should be. For example, is it just the non-consensual sex act itself? Is it that, applied to a woman you don't own? Is it a crime against the institution of law itself, or against her owner? What is its severity? It's not universally agreed-upon by any means, and varies wildly between different cultures and population groups.
 
->> **u/wren42** [+1] *
+>> **u/wren42** [+1]  (52 minutes later)
 >> 
 >> I don't find it alien, no, but I think it's something unexpected for many who would consider themselves progressives or futurists if they haven't thought about it deeply.  It also fits the theme of the story very closely, so I felt it was suitable.
->> 
 
-> **u/narfanator** [+11] *
+> **u/narfanator** [+11]  (4 hours later)
 > 
 > You have three issues, one good point, and I have one suggestion -
-> - You present the entire chapter, instead of just the altered bit plus context. Can you edit your post down to that? It will be much, MUCH more accessible.
-> - You remove the section where Akon attempts to explain his culture's reasoning behind the thing. The confessor never tries to explain to Akon the old view; it's only Akon who tries to explain their view.
-> The third thing is complicated. Let's look at the original:
-> > "...Do you know there was a time when nonconsensual sex was illegal?"
-> > "I can't imagine how boring your sex lives must have been up until then - flirting with a woman, teasing her, leading her on, knowing the whole time that you were perfectly safe because she couldn't take matters into her own hands if you went a little too far" 
-> "> ...When our children legalized rape, we thought that the Future had gone wrong."
-> First thing to notice is the use of a clear but unusual term, and the use of two separate terms (nonconsensual and rape). When you read "nonconsensual sex", you go, "huh - I think I recognize what that's saying, but something's different. Why?". You use the same term for the old attitude as the new attitude, implying the attitudes about them are the same. 'Abortion' is also a very conversational term, "nonconsensual sex" sounds more like legalese than "rape", implying a degree of specificity to the phrase not present in the conversational term. "Fetal termination" might make a good "future" term.
-> Next thing to notice is that *what* the future legalized isn't clear. It's implied, and vaguely at that. What does it mean to take matters into her own hands? What does it mean to go a little too far? What does it mean to be safe?
-> It sounds like the issue could be that one person is leading the other person on, but it's not clear. There's one other line to pay attention to at this point: 
-> > "someone seriously believes that sex is overvalued relative to orange juice".
-> This is interesting. This means sex is traded on the commodity market. This means sex is commodified; to me, this implies that in this culture, I can owe someone sex, and they can trade that debt to someone else - without my approval. I can owe someone sex whom I don't want to have sex with - a very reasonable thing to call "legalized nonconsensual sex".
-> But there's still a lot of vagueness in Akon's statement. Is the issue that leading someone on is akin to negotiating a deal in bad faith - something imaginably abhorrent in a culture built on markets? The normal dating process can be seen as an implied contract of stuff and experiences for sex* - "leading on" is then breaking that implied contract. It's easy to then imagine that "take matters into hand" translates to legal / economic recourse, which result in a commodity of sex with you that you didn't agree to.
-> * If you experience dating as this in the modern world, seek help, you can be doing it less wrong.
-> Alternatively, the issue could have remained the same as it is today: One party takes it too far. This is a simpler interpretation of people's actions, but it makes the "take matters into hand" much less clear, and it's never explained - and honestly, I don't have any real idea here.
-> ------------
-> So those are your issues. That said, I think you picked a good replacement topic. Nonconsensual sex becomes something different if sex isn't as big a deal; abortion becomes something different if birth and child rearing isn't a big deal - there's that mention Akon has of the "children's world". If people don't raise their own kids and pregnancy/birth is super duper safe, what does it matter if you get pregnant? Or maybe it's common for people to conceive, and then gestate using technology - artificial wombs and all that.
-> My suggestion is to play with market-style relationships between the parents (particularly mother) and child. Maybe the child owes the mother something for gestation; maybe the parents owe the child something for creation. Either way, you can replace rape with slavery, and nonconsensual sex with.... forced pregnancy?
-> As a last note, I'd say that this story's strength is the questions it raises, not the answers it gives. Try to do the same: Raise many, many questions with any replacement you propose.
 > 
+> - You present the entire chapter, instead of just the altered bit plus context. Can you edit your post down to that? It will be much, MUCH more accessible.
+> 
+> - You remove the section where Akon attempts to explain his culture's reasoning behind the thing. The confessor never tries to explain to Akon the old view; it's only Akon who tries to explain their view.
+> 
+> The third thing is complicated. Let's look at the original:
+> 
+> > "...Do you know there was a time when nonconsensual sex was illegal?"
+> 
+> > "I can't imagine how boring your sex lives must have been up until then - flirting with a woman, teasing her, leading her on, knowing the whole time that you were perfectly safe because she couldn't take matters into her own hands if you went a little too far" 
+> 
+> "> ...When our children legalized rape, we thought that the Future had gone wrong."
+> 
+> First thing to notice is the use of a clear but unusual term, and the use of two separate terms (nonconsensual and rape). When you read "nonconsensual sex", you go, "huh - I think I recognize what that's saying, but something's different. Why?". You use the same term for the old attitude as the new attitude, implying the attitudes about them are the same. 'Abortion' is also a very conversational term, "nonconsensual sex" sounds more like legalese than "rape", implying a degree of specificity to the phrase not present in the conversational term. "Fetal termination" might make a good "future" term.
+> 
+> Next thing to notice is that *what* the future legalized isn't clear. It's implied, and vaguely at that. What does it mean to take matters into her own hands? What does it mean to go a little too far? What does it mean to be safe?
+> 
+> It sounds like the issue could be that one person is leading the other person on, but it's not clear. There's one other line to pay attention to at this point: 
+> 
+> > "someone seriously believes that sex is overvalued relative to orange juice".
+> 
+> This is interesting. This means sex is traded on the commodity market. This means sex is commodified; to me, this implies that in this culture, I can owe someone sex, and they can trade that debt to someone else - without my approval. I can owe someone sex whom I don't want to have sex with - a very reasonable thing to call "legalized nonconsensual sex".
+> 
+> But there's still a lot of vagueness in Akon's statement. Is the issue that leading someone on is akin to negotiating a deal in bad faith - something imaginably abhorrent in a culture built on markets? The normal dating process can be seen as an implied contract of stuff and experiences for sex* - "leading on" is then breaking that implied contract. It's easy to then imagine that "take matters into hand" translates to legal / economic recourse, which result in a commodity of sex with you that you didn't agree to.
+> 
+> * If you experience dating as this in the modern world, seek help, you can be doing it less wrong.
+> 
+> Alternatively, the issue could have remained the same as it is today: One party takes it too far. This is a simpler interpretation of people's actions, but it makes the "take matters into hand" much less clear, and it's never explained - and honestly, I don't have any real idea here.
+> 
+> ------------
+> 
+> So those are your issues. That said, I think you picked a good replacement topic. Nonconsensual sex becomes something different if sex isn't as big a deal; abortion becomes something different if birth and child rearing isn't a big deal - there's that mention Akon has of the "children's world". If people don't raise their own kids and pregnancy/birth is super duper safe, what does it matter if you get pregnant? Or maybe it's common for people to conceive, and then gestate using technology - artificial wombs and all that.
+> 
+> My suggestion is to play with market-style relationships between the parents (particularly mother) and child. Maybe the child owes the mother something for gestation; maybe the parents owe the child something for creation. Either way, you can replace rape with slavery, and nonconsensual sex with.... forced pregnancy?
+> 
+> As a last note, I'd say that this story's strength is the questions it raises, not the answers it gives. Try to do the same: Raise many, many questions with any replacement you propose.
 
->> **u/wren42** [+1] *
+>> **u/wren42** [+1]  (4 hours later)
 >> 
 >> very well thought out critique, I'll have to read it again and give some thought.  Thanks!
->> 
 
->>> **u/narfanator** [+1] *
+>>> **u/narfanator** [+1]  (6 hours later)
 >>> 
 >>> Thank you! Glad it successfully communicated.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (4 hours later)
 >> 
 >> I like your analysis and wish there was another rewrite where the scenario is described and it's clear the words 'legalized rape' were an exaggregation.
->> 
 
->>> **u/narfanator** [+1] *
+>>> **u/narfanator** [+1]  (5 hours later)
 >>> 
 >>> That might be worth doing for the people that don't want to share it with friends because of that bit, but I'd be worried it would raise less questions that way. I'll think it over and see if I can pull off any magic.
->>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (3 days later)
 >> 
 >> > First thing to notice is the use of a clear but unusual term,
->> Maybe use "infanticide" or "murdering the unborn" there?
 >> 
+>> Maybe use "infanticide" or "murdering the unborn" there?
 
-> **u/kuilin** [+9] *
+> **u/kuilin** [+8]  (2 days later)
 > 
 > I think an interesting replacement topic for rape is *the right to raise your children*. It makes total sense to the modern human that that should be a right- indeed, it's outrageous that some politician would even consider banning it. But in a more post-scarcity-like society, culture may dictate that giving newly created sentient minds favors that are dependent on the status of their biological gene-donors makes zero sense, and the human tendency to favor our own young more than others' is only an irrational animalistic instinct, so much so that banning favoritism like that helps children fairly partake of the free benefits society gives them when they're too young to be functional.
-> 
 
->> **u/wren42** [+3] *
+>> **u/wren42** [+3]  (2 days later)
 >> 
 >> oo.  I actually really like that.  interesting topic, does definitely rub current culture backwards, and it fits with the theme of the story. 
->> I would expect the push for this legislation would come less from a sense of fairness or punishing entitlements, though, as from socialization of care for the disadvantaged.  that's much easier to sell, but still sounds quite awful to our ears.
 >> 
+>> I would expect the push for this legislation would come less from a sense of fairness or punishing entitlements, though, as from socialization of care for the disadvantaged.  that's much easier to sell, but still sounds quite awful to our ears.
 
-> **u/GaBeRockKing** [+5]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857* (12 hours later)
 > 
 > Personally speaking, I would have chosen "mass surveillance" as the moral issue of choice. With full surveillance/sousveillance then everyone feels safe and crime doesn't happen, but it would seriously tick off our desire for privacy. Ideally, the human culture should be understandable, but still alien.
-> 
 
->> **u/wren42** [+3] *
+>> **u/wren42** [+3]  (19 hours later)
 >> 
 >> Interesting idea? I feel like our society has almost given away expectation of privacy already though, lol.  And I'm not sure that I'd personally get an emotional moral charge out of privacy issues, though it's something that worries me
->> 
 
->> **u/General_Urist** [+1] *
+>> **u/General_Urist** [+1]  (7 days later)
 >> 
 >> Probably too political, wtfbbc points out the issue with that.
->> 
 
-> **u/trekie140** [+4] *
+> **u/trekie140** [+4]  (2 hours later)
 > 
 > I like this idea since...well, rape. On top of the difficulty of getting people in the mindset to consider even a hypothetical alternative view on sexual consent, it also lacks proper explanation of the meta-context. It's the one part of the story that took me out of it and I had to look up what the author was trying to do.
-> That said, I don't think abortion is the best replacement specifically because I don't feel revulsion at the idea that my side of the debate lost, especially given the absence of the same negative consequence that are present today. Without those consequences, I could accept a fetus being defined as a human being.
 > 
+> That said, I don't think abortion is the best replacement specifically because I don't feel revulsion at the idea that my side of the debate lost, especially given the absence of the same negative consequence that are present today. Without those consequences, I could accept a fetus being defined as a human being.
 
->> **u/wren42** [+3] *
+>> **u/wren42** [+3]  (2 hours later)
 >> 
 >> I guess the question then becomes whether that revulsion is necessary to the point of the story, or if it can work without it. 
->> or, if there is another revulsion that would make the reader distance from the characters, but not so much to pull them out of the story. 
->> Edit:
->> I actually wanted to note one other thing.  While this approach doesn't create revulsion at the future society, it can produce latent guilt at our current society, which I think for this purpose is just as good.  It's the same thing the characters experience as they judge and then are judged in turn.
 >> 
+>> or, if there is another revulsion that would make the reader distance from the characters, but not so much to pull them out of the story. 
+>> 
+>> Edit:
+>> 
+>> I actually wanted to note one other thing.  While this approach doesn't create revulsion at the future society, it can produce latent guilt at our current society, which I think for this purpose is just as good.  It's the same thing the characters experience as they judge and then are judged in turn.
 
->>> **u/trekie140** [+4] *
+>>> **u/trekie140** [+3]  (6 hours later)
 >>> 
 >>> That's a fair point, though I think some of the impact is lost if the [Deliberate Values Dissonance](http://tvtropes.org/pmwiki/pmwiki.php/Main/DeliberateValuesDissonance) isn't horrifying. As awkward as the rape example is, it does help the reader understand how aliens could find us horrifying for things we consider normal.
->>> The Babyeaters offend our self-righteous morality, then the Superhappies show up and we offend them for completely different reasons and there's aspects of the human society that offend the reader. I still think the story is brilliantly written.
->>> I should page r/scruiser since he was working on a TWC-inspired story about similar values conflicts with aliens and I really liked what I saw. His story was all about an alliance of aliens making contact with us trying to figure out how it's possible for us to join their community despite everyone's reservations.
 >>> 
+>>> The Babyeaters offend our self-righteous morality, then the Superhappies show up and we offend them for completely different reasons and there's aspects of the human society that offend the reader. I still think the story is brilliantly written.
+>>> 
+>>> I should page r/scruiser since he was working on a TWC-inspired story about similar values conflicts with aliens and I really liked what I saw. His story was all about an alliance of aliens making contact with us trying to figure out how it's possible for us to join their community despite everyone's reservations.
 
->>>> **u/scruiser** [+2]  *CYOA**
+>>>> **u/scruiser** [+2]  *CYOA* (12 hours later)
 >>>> 
 >>>> > I should page r/scruiser since he was working on a TWC-inspired story about similar values conflicts with aliens and I really liked what 
->>>> I haven't made  anymore progress on that story past the initial brainstorming and a page or two of text... I got caught up in making a CYOA series that has consumed most of the time I spend on creative projects.  I might revisit once I finish the main part of my CYOA series (I am 9 releases in, 3 more planned for the main series).
->>>> > His story was all about an alliance of aliens making contact with us trying to figure out how it's possible for us to join their community despite everyone's reservations.
->>>> I went for more bizarre values than horrifying/revolting values.  [Spoiler for a story I eventually plan to write](#s "I plan on building up to something that suggest a TWC solution, only to come up with a much more harmless resolution that relies on the fact that humans don't place any intrinsic value on planetary bodies, so consuming Jupiter for raw resources is viable plan, although it horrifies several of the races and deeply bothers most of the others, as most of the race do place intrinsic value on planets in solar systems with life.")
->>>> In terms of TWC... EY could have gone for something that would show how altered these humans are while not hitting all the controversy buttons that rape does (seriously, many people already pattern match the rationalist community to the neoreactionaries and thus by extension potentially the red pill/MRA community, so avoiding anything that might be misconstrued as rape apologist should be a priority).  I think just indicating that extreme recreational violence (like a soccer match where breaking each other's legs is an acceptable strategy) is acceptable thanks to their medical technology and their altered psychology would be enough to achieve the same narrative goal.
 >>>> 
+>>>> I haven't made  anymore progress on that story past the initial brainstorming and a page or two of text... I got caught up in making a CYOA series that has consumed most of the time I spend on creative projects.  I might revisit once I finish the main part of my CYOA series (I am 9 releases in, 3 more planned for the main series).
+>>>> 
+>>>> > His story was all about an alliance of aliens making contact with us trying to figure out how it's possible for us to join their community despite everyone's reservations.
+>>>> 
+>>>> I went for more bizarre values than horrifying/revolting values.  [Spoiler for a story I eventually plan to write](#s "I plan on building up to something that suggest a TWC solution, only to come up with a much more harmless resolution that relies on the fact that humans don't place any intrinsic value on planetary bodies, so consuming Jupiter for raw resources is viable plan, although it horrifies several of the races and deeply bothers most of the others, as most of the race do place intrinsic value on planets in solar systems with life.")
+>>>> 
+>>>> In terms of TWC... EY could have gone for something that would show how altered these humans are while not hitting all the controversy buttons that rape does (seriously, many people already pattern match the rationalist community to the neoreactionaries and thus by extension potentially the red pill/MRA community, so avoiding anything that might be misconstrued as rape apologist should be a priority).  I think just indicating that extreme recreational violence (like a soccer match where breaking each other's legs is an acceptable strategy) is acceptable thanks to their medical technology and their altered psychology would be enough to achieve the same narrative goal.
 
-> **u/None** [+2] *
+> **u/None** [+2]  (4 hours later)
 > 
 > [deleted]
-> 
 
->> **u/wren42** [+1] *
+>> **u/wren42** [+1]  (4 hours later)
 >> 
 >> XD
->> 
 
 ---
 

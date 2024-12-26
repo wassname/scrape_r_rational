@@ -2,7 +2,7 @@
 
 * Author: u/ArisKatsaris  *Sidebar Contender**
 * URL: https://forum.questionablequesting.com/threads/the-erogamer-original.5465/page-244#post-2286792
-* Score: 31
+* Score: 35
 
 * Created: 2018-12-03T00:14:09
 
@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/OmegaGrackle** [+12] *
+> **u/OmegaGrackle** [+11]  (20 hours later)
 > 
 > Not much to comment on these updates since the author is still trying to prove to himself he can write plain smut without consequencial story stuff. Which is a weird problem to have. Writing is still good though if you want smut.
-> 
 
 ---
 

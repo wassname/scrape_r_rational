@@ -2,7 +2,7 @@
 
 * Author: u/thebishop8 *
 * URL: https://practicalguidetoevil.wordpress.com/2019/10/04/interlude-rise-rise/
-* Score: 63
+* Score: 66
 
 * Created: 2019-10-04T04:17:24
 
@@ -12,77 +12,74 @@
 
 ### Comments:
 
-> **u/Academic_Jellyfish** [+40] *
+> **u/Academic_Jellyfish** [+34]  (8 minutes later)
 > 
 > "You can't just say that you're in the Grand Alliance."
-> "I didn't say it. I *declared* it."
-> Edit:
-> >The Dominion had been brought into this early
-> That's a relief. Leaving the Pilgrim in the dark with the Bard still in play would be a recipe for disaster.
 > 
+> "I didn't say it. I *declared* it."
+> 
+> Edit:
+> 
+> >The Dominion had been brought into this early
+> 
+> That's a relief. Leaving the Pilgrim in the dark with the Bard still in play would be a recipe for disaster.
 
-> **u/MadMax0526** [+14] *
+> **u/MadMax0526** [+15]  (2 hours later)
 > 
 > Not starting with a Malicia' POV after last chapter's bombshell seems like a criminal waste of opportunity IMO.
-> 
 
->> **u/Nimelennar** [+31] *
+>> **u/Nimelennar** [+31]  (9 hours later)
 >> 
 >> Whether it's criminal depends on whether or was an inadvertent mistake, or if it was...
+>> 
 >> &gt;.>  
 >> <.<
->> ...*Malicious*.
 >> 
+>> ...*Malicious*.
 
->>> **u/MadMax0526** [+8] *
+>>> **u/MadMax0526** [+8]  (10 hours later)
 >>> 
 >>> Have an upvote while I pnder over whether to hug you or slug you for that pun.
->>> 
 
-> **u/MultipartiteMind** [+10] *
+> **u/MultipartiteMind** [+11]  (10 hours later)
 > 
 > Hm.  I seem to recall that Cat couldn't even think of Hierophant by the Name 'Apprentice' after he was no longer of that Name--how can former-Thief do so of the Black Knight?  
-
-> I've been wondering whether this 'Malicia' is really just the Dead King being really *really* good at acting (more so than anyone's guessed), in which case learning about the whole thing is going to come as a huge shock to the real Malicia.
-> I'm also wondering about how long he's going to sit on the Intercessor information before finally revealing it to everyone.  Hopefully not in a "Hah-hah!  I TRICKED you into bringing your war to the very heart of my citadel, just so that I could tell you all with no one listening in!" long-lasting gambit.
 > 
+> I've been wondering whether this 'Malicia' is really just the Dead King being really *really* good at acting (more so than anyone's guessed), in which case learning about the whole thing is going to come as a huge shock to the real Malicia.
+> 
+> I'm also wondering about how long he's going to sit on the Intercessor information before finally revealing it to everyone.  Hopefully not in a "Hah-hah!  I TRICKED you into bringing your war to the very heart of my citadel, just so that I could tell you all with no one listening in!" long-lasting gambit.
 
->> **u/PastafarianGames** [+13] *
+>> **u/PastafarianGames** [+13]  (10 hours later)
 >> 
 >> Vivienne is emphatically No Longer Named, whereas Cat still possessed at least the framework of her name until long after Masego had transitioned to Hierophant.
->> Plus, Amadeus is still the Black Knight in many ways.
 >> 
+>> Plus, Amadeus is still the Black Knight in many ways.
 
->> **u/leniadolbap** [+11] *
+>> **u/leniadolbap** [+11]  (11 hours later)
 >> 
 >> Maybe it's not the losing of the name that mattered, but the gaining of the new one? Amadeus still has no new name overwriting the old one...
->> 
 
->>> **u/Banarok** [+1]  *Ankh-Morpork City Watch**
+>>> **u/Banarok** [+1]  *Ankh-Morpork City Watch* (3 days later)
 >>> 
 >>> and the fact there is no other black knight atm might also be a factor.
->>> 
 
-> **u/sparr** [+4] *
+> **u/sparr** [+3]  (11 hours later)
 > 
 > I remain confused about what constitutes an "Interlude". Back in the beginning these often didn't include Cat, but now they often do?
-> 
 
->> **u/GeeJo** [+22]  *Custom Flair**
+>> **u/GeeJo** [+21]  *Custom Flair* (11 hours later)
 >> 
 >> They're chapters from a non-Catherine PoV. You'll notice that while a section of this interlude does feature Catherine heavily and gives her dialogue, we never see her internal thoughts in the same way we would in a regular chapter. Instead, we get Vivienne's perspective of the conversation.
->> 
 
->> **u/TideofKhatanga** [+12] *
+>> **u/TideofKhatanga** [+10]  (12 hours later)
 >> 
 >> Any chapter were the point of view is not from Catherine. As for why she appears much more frequently in these, Cat interacts much more directly with other major players than in early books. Also EE has grown a lot fonder of using interludes in general, some of these are bound to happen near Cat.
->> 
 
->> **u/Do_Not_Go_In_There** [+8] *
+>> **u/Do_Not_Go_In_There** [+7]  (14 hours later)
 >> 
 >> It's just a non-Cat POV chapter. This doesn't mean they can't be chapters where she's present. 
->> The story is told from Cat's perspective, we take a break from that and see what another character is thinking, then go back to Cat.
 >> 
+>> The story is told from Cat's perspective, we take a break from that and see what another character is thinking, then go back to Cat.
 
 ---
 

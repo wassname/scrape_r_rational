@@ -2,7 +2,7 @@
 
 * Author: u/alexanderwales  *Time flies like an arrow**
 * URL: https://www.reddit.com/r/rational/comments/9x6zzq/challenge_companion_tragedy_of_the_commons/
-* Score: 9
+* Score: 8
 
 * Created: 2018-11-15T02:40:30
 
@@ -18,25 +18,27 @@ To my mind, the best plots that revolve around the tragedy of the commons involv
 
 ### Comments:
 
-> **u/Teulisch** [+4]  *Space Tech Support**
+> **u/Teulisch** [+3]  *Space Tech Support* (13 hours later)
 > 
 > i think part of the tragedy may be about how many people are in our 'group', as there is a limit to that in our brains. a city will have one commons, and population that results in multiple groups. group A, B, and C may be perfectly rational, but groups X, Y, and Z are not rational at all, just worried about the right-now of what they can get. and they dont get along with other groups, so wont listen to reason- those other people just want the commons for themselves! its not their commons, its ours! (I bet they have I-want-to-talk-to-your-manager haircuts as well)
-> so, in terms of story its not about the commons, thats just the backdrop behind the stage. its about how different groups have incompatable viewpoints, and if one group refuses to ever listen or compromise it will hurt everyone. and you can ruin the common with just one group. 
-> for a realworld example of this, look at fishing. specifically, look at salmon off the canadian coastline. the salmon are in an area that is also outside the exclusion zone, and spanish ships were fishing there. the canadian coast guard cut their lines, because canada was trying to preserve this population of fish (made more at risk by how rivers are used, dams, and so on). everyone with a boat can fish, and does so- far mor than the number of boats we should have. so if A boats or less grows the population, B boats or less holds the population stable, and C or more boats reduces the total fish population over time.... we keep seeing C boats in total. because if X+Y+Z=C, and you shrink X, then Z grows as much as it can to fill the gap. from a practical standpoint in economics, rules that only apply to one country or a small group of countries can get this result. 
-> by comparison- the USA got in trouble with the world trade org over the price of cotton a while ago. as we subsidize cotton farming with your tax dollars (and a lot of laws about who can sell us back the cotton they bought from us), we lowered the world price for cotton with your tax dollars. this hurts farmers in the poorest countries, as cotton is a normally a good cash crop. america wont ever buy the cotton they grow either, we subsidized to meet local needs with local production. a market can be a commons, in a way, and one side flooding the market with goods can impact others. 
-> a lot of very smart people have spent a very long time dealing with the problem. the end result is that we still cant agree on things, but we have more beaureacracy and organizations to mitigate the problems.
 > 
+> so, in terms of story its not about the commons, thats just the backdrop behind the stage. its about how different groups have incompatable viewpoints, and if one group refuses to ever listen or compromise it will hurt everyone. and you can ruin the common with just one group. 
+> 
+> for a realworld example of this, look at fishing. specifically, look at salmon off the canadian coastline. the salmon are in an area that is also outside the exclusion zone, and spanish ships were fishing there. the canadian coast guard cut their lines, because canada was trying to preserve this population of fish (made more at risk by how rivers are used, dams, and so on). everyone with a boat can fish, and does so- far mor than the number of boats we should have. so if A boats or less grows the population, B boats or less holds the population stable, and C or more boats reduces the total fish population over time.... we keep seeing C boats in total. because if X+Y+Z=C, and you shrink X, then Z grows as much as it can to fill the gap. from a practical standpoint in economics, rules that only apply to one country or a small group of countries can get this result. 
+> 
+> by comparison- the USA got in trouble with the world trade org over the price of cotton a while ago. as we subsidize cotton farming with your tax dollars (and a lot of laws about who can sell us back the cotton they bought from us), we lowered the world price for cotton with your tax dollars. this hurts farmers in the poorest countries, as cotton is a normally a good cash crop. america wont ever buy the cotton they grow either, we subsidized to meet local needs with local production. a market can be a commons, in a way, and one side flooding the market with goods can impact others. 
+> 
+> a lot of very smart people have spent a very long time dealing with the problem. the end result is that we still cant agree on things, but we have more beaureacracy and organizations to mitigate the problems.
 
-> **u/redstonerodent** [+3]  *High Council of Gallifrey**
+> **u/redstonerodent** [+3]  *High Council of Gallifrey* (46 minutes later)
 > 
 > Am I crazy, or is the [payoff matrix](https://en.wikipedia.org/wiki/CC%E2%80%93PP_game#/media/File:CC-PP_Game.png) in that wiki article wrong? It's claimed to be a prisoner's dilemma, but preserve/preserve looks like a Pareto-optimal Nash equilibrium (being the only one to extract *costs* you $20).
-> 
 
->> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life* (6 hours later)
 >> 
 >> You're not crazy, that pay-off matrix is *not* tragic in any sense.
->> It would make sense with preserve/preserve at $60 each though.
 >> 
+>> It would make sense with preserve/preserve at $60 each though.
 
 ---
 

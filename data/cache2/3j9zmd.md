@@ -2,7 +2,7 @@
 
 * Author: u/DaystarEld  *Pokémon Professor**
 * URL: https://www.reddit.com/r/rational/comments/3j9zmd/fanfiction_account_management_is_down_pokemon/
-* Score: 20
+* Score: 19
 
 * Created: 2015-09-01T22:08:54
 
@@ -14,26 +14,23 @@ I'll be checking on and off whenever I can to see if it's up again and post as s
 
 ### Comments:
 
-> **u/Nevereatcars** [+3]  *The Greatest Is Behind**
+> **u/Nevereatcars** [+3]  *The Greatest Is Behind* (9 hours later)
 > 
 > The saddest thing I've heard ever.
-> 
 
-> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate* (12 hours later)
 > 
 > Yeah, same here. Support ticket is going nowhere and all the functions that would allow a person to post a chapter are 503 even if you're already logged in.
-> But hey, maybe they'll take the opportunity to fix whatever's been wrong with the view counter.
 > 
+> But hey, maybe they'll take the opportunity to fix whatever's been wrong with the view counter.
 
-> **u/traverseda** [+2]  *With dread but cautious optimism**
+> **u/traverseda** [+2]  *With dread but cautious optimism* (15 hours later)
 > 
 > You should sign up for an archive of our own account.
-> 
 
-> **u/TheThorgram** [+1] *
+> **u/TheThorgram** [+1]  (18 hours later)
 > 
 > It's back up at the moment.
-> 
 
 ---
 

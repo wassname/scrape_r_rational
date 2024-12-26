@@ -2,7 +2,7 @@
 
 * Author: u/timecubefanfiction *
 * URL: https://www.reddit.com/r/rational/comments/c5ylcb/munchkinry_is_headology_of_the_self/
-* Score: 8
+* Score: 7
 
 * Created: 2019-06-27T00:31:20
 
@@ -48,51 +48,54 @@ because this is definitely a discussion thread and not me just treating reddit a
 
 ### Comments:
 
-> **u/None** [+20] *
+> **u/None** [+19]  (6 minutes later)
 > 
 > Headology seems to be a requirement of munchkinry, but fundamentally a different concept. For instance, in the first example you gave: if psychiatry is convincing someone a monster isn't following them, and headology is believing that there is one and giving them the tools to combat that monster, then munchkinry is believing there is one then saying, "Does this monster ever tire? What if we tie them to a millstone and derive production from their work?"
-> Or, to put it another way, headology is "what you believe is true", while munchkinry is using that knowledge for maximum gain.
 > 
+> Or, to put it another way, headology is "what you believe is true", while munchkinry is using that knowledge for maximum gain.
 
->> **u/timecubefanfiction** [+8] *
+>> **u/timecubefanfiction** [+8]  (14 minutes later)
 >> 
 >> A munchkin who's lived long enough to see why other munchkins *didn't* might follow up by asking, "Do monsters like it when you tie them to an electromagnet?"
->> 
 
-> **u/CompactDisko** [+13] *
+> **u/CompactDisko** [+13]  (3 hours later)
 > 
 > I'm not sure if you're definition of munchkinery is accurate. Taking poorly thought out ideas/rules seriously is definitely an important step for munchkining, but I don't think that's the core of what it is. I would say that munchkining is getting maximum value out of something regardless of whatever intent there might be. Munchkining definitely requires taking ideas seriously, but I don't think you need to believe something is real to be serious about it, I would say that being serious just involves putting maximum effort into something.
-> 
 
-> **u/DuplexFields** [+3]  *New Lunar Republic**
+> **u/DuplexFields** [+3]  *New Lunar Republic* (3 days later)
 > 
 > > On that note, if you actually think God is a nice person, then expect him to live up to the most basic standards of decent behavior and enjoy your lightning bolt to the face.
-> Or do as CS Lewis did with Narnia and expect free-willed finite beings to always find a way to screw up the nice things God gave us, eventually resulting in the willing sacrifice of the Logos’ incarnation for that universe, whether Jesus the human or Aslan The Lion.
-> Rational fiction is not by default atheist fiction. It’s *taking what is* and exploring the consequences. If “what is” includes “I Am,” explore it, like Heinlein in *Job*.
 > 
+> Or do as CS Lewis did with Narnia and expect free-willed finite beings to always find a way to screw up the nice things God gave us, eventually resulting in the willing sacrifice of the Logos’ incarnation for that universe, whether Jesus the human or Aslan The Lion.
+> 
+> Rational fiction is not by default atheist fiction. It’s *taking what is* and exploring the consequences. If “what is” includes “I Am,” explore it, like Heinlein in *Job*.
 
-> **u/LazarusRises** [+1] *
+> **u/LazarusRises** [+1]  (a day later)
 > 
 > This is basically "fake it til you make it." If you know what humans *really like to see* in other humans, do those things and enjoy all your social capital. 
-> (Obviously [Rules 1 and 2](https://medium.com/@dayvough/rule-1-be-attractive-rule-2-dont-be-unattractive-d7c934e62a3c) apply in this scenario, though there are ways to partially munchkin those too.)
 > 
+> (Obviously [Rules 1 and 2](https://medium.com/@dayvough/rule-1-be-attractive-rule-2-dont-be-unattractive-d7c934e62a3c) apply in this scenario, though there are ways to partially munchkin those too.)
 
-> **u/Teulisch** [+1]  *Space Tech Support**
+> **u/Teulisch** [+1]  *Space Tech Support* (2 days later)
 > 
 > proper munchkinry requires outside the box thinking. you have to be able to look at a complex set of rules, and pay very close attention to the boundary conditions. but it also requires thinking ahead more than just one step. If you play a game, and use an obscure rule... well the GM just saw what you did, and now every NPC in the world has read that same obscure rule. did you plan what to do when someone uses the idea against you? 
-> most games have flaws we can find and exploit, because the rules are finite, yet large enough for unintended complexity. the real world isnt like that, because a real-world exploit is better called a 'Trade Secret'. it is something worth money, and anyone who knows how is already using it. social hacks? those are in use by politicians and scammers. physics hacks? heck, NASA put men on the moon decades ago. and in many cases, there are laws that prevent the use of some exploits- they know you can, and dont want you to. 
-> why wont superman turn a crank? because if your being serious, then sharing kryptonian technology would have a much larger impact on the world. superman as scientist has a lot of potential that focuses on his brain instead of his body. it could work... but it wouldnt be superman anymore. it would be something new. 
-> most of the really interesting munchkinry happens on the world-building and setting level. this is where the author does an ass-pull to explain why all this really cool stuff is secret, or why it wont really change the world. or where the author changes the world and really runs with it, a new setting to play in. DC and Marvel are the former, Worm is the latter. 
-> a story is only as complex as its author makes it. and many of us love to deconstruct the ideas behind the stories we read. but many authors fail to start with an idea of the setting as a whole, and only show us new things piece by piece. and this creates a flawed patchwork that would need a serious re-write to be properly rational. munchkinry lives in the stitches of that patchwork, thrives in it. because the stitches that loosly hold the setting together were never meant to be deconstructed, and they give us the most fantastic ways to twist the setting to our whims.
 > 
+> most games have flaws we can find and exploit, because the rules are finite, yet large enough for unintended complexity. the real world isnt like that, because a real-world exploit is better called a 'Trade Secret'. it is something worth money, and anyone who knows how is already using it. social hacks? those are in use by politicians and scammers. physics hacks? heck, NASA put men on the moon decades ago. and in many cases, there are laws that prevent the use of some exploits- they know you can, and dont want you to. 
+> 
+> why wont superman turn a crank? because if your being serious, then sharing kryptonian technology would have a much larger impact on the world. superman as scientist has a lot of potential that focuses on his brain instead of his body. it could work... but it wouldnt be superman anymore. it would be something new. 
+> 
+> most of the really interesting munchkinry happens on the world-building and setting level. this is where the author does an ass-pull to explain why all this really cool stuff is secret, or why it wont really change the world. or where the author changes the world and really runs with it, a new setting to play in. DC and Marvel are the former, Worm is the latter. 
+> 
+> a story is only as complex as its author makes it. and many of us love to deconstruct the ideas behind the stories we read. but many authors fail to start with an idea of the setting as a whole, and only show us new things piece by piece. and this creates a flawed patchwork that would need a serious re-write to be properly rational. munchkinry lives in the stitches of that patchwork, thrives in it. because the stitches that loosly hold the setting together were never meant to be deconstructed, and they give us the most fantastic ways to twist the setting to our whims.
 
-> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (3 days later)
 > 
 > I don’t really see this logic. Real life tends to already be almost maximally “munchkined”. Technology *is* munchkinry. 
+> 
 > “Ok, DM... I exploit the rules of quantum mechanics for periodic systems and defects in a semiconductor to build a machine that allows me to compute things much faster than my own brain, gaining a +5 to INT. Can I do that?”  
 > “...yes. But we’re not friends anymore.”  
-> Munchkinry simply applies to fictional worlds because they tend to be designed around a narrative or thematic need rather than being genuine, living worlds, and thus people in them stick to that. Munchkinry is a humorous way to lampshade that, showing the things that could be done - and that thus someone invariably *would* do - if that world really existed as described.
 > 
+> Munchkinry simply applies to fictional worlds because they tend to be designed around a narrative or thematic need rather than being genuine, living worlds, and thus people in them stick to that. Munchkinry is a humorous way to lampshade that, showing the things that could be done - and that thus someone invariably *would* do - if that world really existed as described.
 
 ---
 

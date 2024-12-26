@@ -12,20 +12,20 @@
 
 ### Comments:
 
-> **u/Nihilvin** [+14] *
+> **u/Nihilvin** [+14]  (2 hours later)
 > 
 > I swear the chapters are getting shorter
-> 
 
->> **u/MoralRelativity** [+3] *
+>> **u/MoralRelativity** [+3]  (17 hours later)
 >> 
 >> I agree.
->> More frequent therefore shorter?
 >> 
+>> More frequent therefore shorter?
 
->>> **u/sitsthewind** [+3] *
+>>> **u/sitsthewind** [+3]  (20 hours later)
 >>> 
 >>> I don't think they are getting shorter; it is only that the most recent chapter was exceptionally short. But I got curious, so here are chapter lengths (I omitted the quotes at the start of the chapter):
+>>> 
 >>> Chapter | Word Count
 >>> ----------|----------
 >>> Chapter 23: Reassessment	|	 2,459 
@@ -51,36 +51,33 @@
 >>> Chapter 3: Demesne	|	 3,517 
 >>> Chapter 2: Might	|	 4,068 
 >>> Chapter 1: Right	| 4,758
->>> 
 
->>>> **u/MoralRelativity** [+3] *
+>>>> **u/MoralRelativity** [+3]  (21 hours later)
 >>>> 
 >>>> Thanks, that's interesting. It certainly was exceptionally short at 66% of the average length.
->>>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (7 hours later)
 > 
 > I was a little confused by what pride she was sacrificing. Was it that she must tell Ranker of the shortcut before meeting with Duchess Kegan? I'm just confused at what else she thought she could do.
+> 
 > Also, Cat's words to Ranker are interesting compared to what she's promising Kegan.
 > > “I want take Kegan’s army through Arcadia,” I said. “And use it on my enemies. The fae first, then Diabolist.”  
-> Where Cat has neglected to mention the Fae to Kegan up to this point. Kegan will no doubt notice Cat is prepared for battle entering the Fae, and blame her is something befalls them while traversing. That would make the title quote relevant, *From small slights, long prices.*
-> And finally, maybe this is my speed reading coming back to bite me, but why does The Watch care so much about Heiress when they'd have to march across Callow to get there? Why is the Empress blocking this crossing, do we know Kegan's long game?
 > 
+> Where Cat has neglected to mention the Fae to Kegan up to this point. Kegan will no doubt notice Cat is prepared for battle entering the Fae, and blame her is something befalls them while traversing. That would make the title quote relevant, *From small slights, long prices.*
+> 
+> And finally, maybe this is my speed reading coming back to bite me, but why does The Watch care so much about Heiress when they'd have to march across Callow to get there? Why is the Empress blocking this crossing, do we know Kegan's long game?
 
->> **u/JdubCT** [+8] *
+>> **u/JdubCT** [+7]  (10 hours later)
 >> 
 >> Thief found a bunch of Watch(or just Kegan's soldiers they weren't certain) bound in a ritual room in Liesse. She then told Robber, I can only assume that most(if not all) are watch and Kegan wants them back.
->> 
 
->> **u/DCarrier** [+3] *
+>> **u/DCarrier** [+3]  (12 hours later)
 >> 
 >> She did say she'll discuss terms. Maybe that will be part of it. Or all of it.
->> 
 
-> **u/MoralRelativity** [+1] *
+> **u/MoralRelativity** [+1]  (17 hours later)
 > 
 > I'm really, truely excited by the thought of soon seeing the Watch fight Fae.
-> 
 
 ---
 

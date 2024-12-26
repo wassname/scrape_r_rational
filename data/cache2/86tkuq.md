@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/86tkuq/d_saturday_munchkinry_thread/
-* Score: 10
+* Score: 11
 
 * Created: 2018-03-24T15:06:43
 
@@ -24,360 +24,379 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/MegajouleWrites** [+4]  *superheroes, depersonalization, and hallway fights**
+> **u/MegajouleWrites** [+5]  *superheroes, depersonalization, and hallway fights* (7 minutes later)
 > 
 > The main character of my serial can convert heat into kinetic energy and vice versa, and is able to store a lot of heat inside of himself (he's gotten up to 3k degrees Celsius). 
-> In reality his power is actually absorbing vibrational energy of all kinds but for his current level of understanding he absorbs Heat and Kinetic, and can change them into each other. 
-> What are some cool tricks he could pull as he figures his power out down the line?
 > 
+> In reality his power is actually absorbing vibrational energy of all kinds but for his current level of understanding he absorbs Heat and Kinetic, and can change them into each other. 
+> 
+> What are some cool tricks he could pull as he figures his power out down the line?
 
->> **u/ShiranaiWakaranai** [+12] *
+>> **u/ShiranaiWakaranai** [+11]  (4 hours later)
 >> 
 >> **Flight**: Not just any flight, but almost perfect flight. No need to turn gradually. No need to accelerate gradually. No need to worry about momentum. Assuming he can convert kinetic to heat and back very quickly, he can do all kinds of crazy stunts like instantly stopping, instantly changing directions, and staying perfectly still without any need to generate lift.
->> **Superspeed**: Just apply your flight ability while staying on the ground.
->> **Physical and Temperature Invulnerability**: Any kind of attack that deals damage using physical force, heat, or cold can be nullified just by converting its energy away. The only limiting factor is how fast your MC can convert one energy type into another. The amount of energy he can store isn't much of an issue since he can funnel the excess energy into firing stuff away from him at super speeds.
->> **Ridiculously Maneuverable Vehicles**: One reason we don't have super fast vehicles is the squishiness of the driver. If the vehicle accelerates or turns too fast, the driver will be crushed by the forces exerted on the human body to change its speed and direction. The reason this kills the driver is that the particles that make up his body will have different amounts of kinetic energy, causing them to squish together or tear apart. Your MC will have no such issues if he can distribute the kinetic energy equally to every part of his body (he can't just convert it all to heat, or he blast out of the vehicle). Then again, your MC probably doesn't need the vehicle other than as a nice way to carry things with him.
->> **Super-strength**: Sort of? You can give objects kinetic energy to make them move upwards or throw them really hard. You can absorb their downwards kinetic energy to make them float in midair. It isn't quite the same as having super-strength, but you will be able to act as if you do have super-strength.
->> **WARNING: Gory uses below.** 
->> [Limited Shapeshifting:](#s " Your MC can't convert one chemical to another or create mass out of nothing, but he can probably survive doing things like opening holes in his body or cutting up his flesh to make long ropes. I mean, one reason why having holes in your body is usually bad is because vital stuff inside you falls out, and poisonous stuff outside you gets in. The MC can use his kinetic energy powers to nullify that problem, creating an immovable wall of air over his openings that prevents anything from falling out or getting into his body. Though he can't go too far like splitting his body in two, since he wouldn't be able to get blood from one side to the other. Still, this means he can do stuff like throwing his intestines or blood vessels outside his body and using them as lassos. Which could turn out useful if he finds himself trapped in a place with only materials that are immune to his supernatural abilities.")
->> [Mass shedding:](#s " If your MC is desperate, there are many parts of his body that he can permanently discard. An example situation where this might be useful is if he needs to hide from a really dangerous enemy, and wants to make himself as small as possible. In that case, he can use his limited shapeshifting to throw out almost every bone in his body, since he doesn't need them to support his body structure when he can just apply the right amounts of kinetic energy to do the same thing. He needs some to keep producing blood cells though. He doesn't need legs to run since he can just apply kinetic force on himself to move. He doesn't need arms to manipulate things when he can do the same with his supernatural ability. He doesn't need a heart to pump blood when he can just pump it with his ability. He doesn't need ears to detect sounds, which are vibrations that he can probably sense using his supernatural ability. By getting rid of all these unnecessary parts, he can probably shrink himself down to less than a quarter of his size, making it much easier to hide or fit in tiny containers/tunnels.")
 >> 
+>> **Superspeed**: Just apply your flight ability while staying on the ground.
+>> 
+>> **Physical and Temperature Invulnerability**: Any kind of attack that deals damage using physical force, heat, or cold can be nullified just by converting its energy away. The only limiting factor is how fast your MC can convert one energy type into another. The amount of energy he can store isn't much of an issue since he can funnel the excess energy into firing stuff away from him at super speeds.
+>> 
+>> **Ridiculously Maneuverable Vehicles**: One reason we don't have super fast vehicles is the squishiness of the driver. If the vehicle accelerates or turns too fast, the driver will be crushed by the forces exerted on the human body to change its speed and direction. The reason this kills the driver is that the particles that make up his body will have different amounts of kinetic energy, causing them to squish together or tear apart. Your MC will have no such issues if he can distribute the kinetic energy equally to every part of his body (he can't just convert it all to heat, or he blast out of the vehicle). Then again, your MC probably doesn't need the vehicle other than as a nice way to carry things with him.
+>> 
+>> **Super-strength**: Sort of? You can give objects kinetic energy to make them move upwards or throw them really hard. You can absorb their downwards kinetic energy to make them float in midair. It isn't quite the same as having super-strength, but you will be able to act as if you do have super-strength.
+>> 
+>> **WARNING: Gory uses below.** 
+>> 
+>> [Limited Shapeshifting:](#s " Your MC can't convert one chemical to another or create mass out of nothing, but he can probably survive doing things like opening holes in his body or cutting up his flesh to make long ropes. I mean, one reason why having holes in your body is usually bad is because vital stuff inside you falls out, and poisonous stuff outside you gets in. The MC can use his kinetic energy powers to nullify that problem, creating an immovable wall of air over his openings that prevents anything from falling out or getting into his body. Though he can't go too far like splitting his body in two, since he wouldn't be able to get blood from one side to the other. Still, this means he can do stuff like throwing his intestines or blood vessels outside his body and using them as lassos. Which could turn out useful if he finds himself trapped in a place with only materials that are immune to his supernatural abilities.")
+>> 
+>> [Mass shedding:](#s " If your MC is desperate, there are many parts of his body that he can permanently discard. An example situation where this might be useful is if he needs to hide from a really dangerous enemy, and wants to make himself as small as possible. In that case, he can use his limited shapeshifting to throw out almost every bone in his body, since he doesn't need them to support his body structure when he can just apply the right amounts of kinetic energy to do the same thing. He needs some to keep producing blood cells though. He doesn't need legs to run since he can just apply kinetic force on himself to move. He doesn't need arms to manipulate things when he can do the same with his supernatural ability. He doesn't need a heart to pump blood when he can just pump it with his ability. He doesn't need ears to detect sounds, which are vibrations that he can probably sense using his supernatural ability. By getting rid of all these unnecessary parts, he can probably shrink himself down to less than a quarter of his size, making it much easier to hide or fit in tiny containers/tunnels.")
 
->>> **u/MegajouleWrites** [+7]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+6]  *superheroes, depersonalization, and hallway fights* (4 hours later)
 >>> 
 >>> Thanks for your awesome breakdown. Some of these I've planned and considered, outside of the car idea (he's still figuring things out right now: he's learning the physical and temperature invulnerability, some super speed, loves to launch himself around but hasn't quite figured out flight yet, and uses the "sort-of" super strength as his main go-to), but the super crazy body horror ones I had NO FUCKING CLUE WOW WHAT THE FUCK.
->>> 
 
->>>> **u/ShiranaiWakaranai** [+6] *
+>>>> **u/ShiranaiWakaranai** [+7]  (5 hours later)
 >>>> 
 >>>> The irony is that the body horror ones were inspired by a children's show: Danny phantom, using that power [here.](https://vignette.wikia.nocookie.net/dpwikia/images/e/e0/S01e18_Danny_Phantom_body_ring.png/revision/latest?cb=20160627031636)
->>>> 
 
->>> **u/Nighzmarquls** [+3] *
+>>> **u/Nighzmarquls** [+3]  (9 hours later)
 >>> 
 >>> If his fine control is good enough he should be able to survive without  breathing for some fairly absurd periods of time (eventually he would need oxygen for collagen production type of time scales) by selectively exciting atoms sufficient to break their bonds and positioning them via vibration/motion in such a way that they fall into a shape that supports the chemical chain he wants.
->>> Given sufficient finesse and scope of awareness he should be able to do transmutation of materials short of actually making atoms. Although if you consider 'temperature' to be a vibration it should also be possible for him to also instigate fission and fusion reactions by 'shaking' neutrons and atomic nuculi into each other.
->>> What I'm saying is that with enough control he should be able to make a sun happen.
 >>> 
+>>> Given sufficient finesse and scope of awareness he should be able to do transmutation of materials short of actually making atoms. Although if you consider 'temperature' to be a vibration it should also be possible for him to also instigate fission and fusion reactions by 'shaking' neutrons and atomic nuculi into each other.
+>>> 
+>>> What I'm saying is that with enough control he should be able to make a sun happen.
 
->>>> **u/Nighzmarquls** [+3] *
+>>>> **u/Nighzmarquls** [+3]  (9 hours later)
 >>>> 
 >>>> If his 'vibration' power extends all the way to light, then he could potentially make a black hole. Or maybe even gravity waves. But this is getting into some conceptual stuff of what is vibration.
->>>> 
 
->>>>> **u/MegajouleWrites** [+3]  *superheroes, depersonalization, and hallway fights**
+>>>>> **u/MegajouleWrites** [+3]  *superheroes, depersonalization, and hallway fights* (11 hours later)
 >>>>> 
 >>>>> So, the basic conceit is he's a clone of a superhero who had total energy conversion/absorption/immunity, but only ended up with the vibrational energy conversion (So heat, force, etc) but didn't get electromagnetic energy at all. He can't manipulate gravitational forces (though the actual kinetic energy of falling he can use) or electricity. 
->>>>> I've limited how fine his control over his power is by his book smarts: he doesn't understand enough fundamental physics to make full use of a lot of his powers (Yet!) but the more he learns, the finer his control gets. He can't fly yet because it hasn't clicked that he could just constantly reconvert the kinetic energy of falling into energy that would propel him in flight.
 >>>>> 
+>>>>> I've limited how fine his control over his power is by his book smarts: he doesn't understand enough fundamental physics to make full use of a lot of his powers (Yet!) but the more he learns, the finer his control gets. He can't fly yet because it hasn't clicked that he could just constantly reconvert the kinetic energy of falling into energy that would propel him in flight.
 
->> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+6]  *My arch-enemy is entropy* (47 minutes later)
 >> 
 >> I would like to comment that it's not heat itself per se that provides work, but rather temperature differences. For example, if there was magic that could instantly cool an area down, then it would be able to power a steam engine just as well as a magic that could heat up an area. It's just that it's normally a lot easier/faster to heat up something than cooling it down. I got the idea from a comment someone mentioned on the r/rational discord.
->> 
 
->>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights* (57 minutes later)
 >>> 
 >>> He can rapidly cool things, too, so this is a good idea to explore. (Since he can absorb heat from around him, he basically has what you're suggesting, a magic spell that rapidly heats or cools an area, He just also has the ability to convert pure heat into joules of kinetic energy)
->>> 
 
->>>> **u/Frommerman** [+4] *
+>>>> **u/Frommerman** [+4]  (a day later)
 >>>> 
 >>>> So we can check off "being a solution for heat death," then.
->>>> 
 
->> **u/CCC_037** [+5] *
+>> **u/CCC_037** [+5]  (2 hours later)
 >> 
 >> Any small object that he holds can become a deadly bullet.
->> Any object that hits him, including bullets, can be easily stopped (I'm guessing he has to see it coming for this).
->> He can throw practically anything around.
 >> 
+>> Any object that hits him, including bullets, can be easily stopped (I'm guessing he has to see it coming for this).
+>> 
+>> He can throw practically anything around.
 
->> **u/Kilbourne** [+4] *
+>> **u/Kilbourne** [+4]  (8 hours later)
 >> 
 >> If he wears a water-tank, that will increase his absorption; he can quick-cycle energy kinetic-thermal-kinetic to control greater amounts of energy.
->> 
 
->>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights* (9 hours later)
 >>> 
 >>> That's a great idea! I've been thinking about when he inevitably upgrades his gear beyond street vigilante level, and that'll be a good inclusion.
->>> 
 
->>>> **u/Kilbourne** [+1] *
+>>>> **u/Kilbourne** [+1]  (9 hours later)
 >>>> 
 >>>> He'd be a fucking beast if anyone made the mistake of submerging him in the ocean.
->>>> 
 
->> **u/Trips-Over-Tail** [+2]  *Death of Crabs**
+>> **u/Trips-Over-Tail** [+2]  *Death of Crabs* (2 hours later)
 >> 
 >> What's the range of his ability?
->> 
 
->>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights* (2 hours later)
 >>> 
 >>> He can pull or dispense heat all across his body for about five feet around him, but if he wants to be more concentrated on where he's drawing he has to physically touch that area. For the part of his ability that deals with kinetic energy, he applies it by touch as well.
->>> He recently figured out how to absorb kinetic energy (so when something hits him, instead of taking the force he can now turn that into heat) and re-purpose it. This means he can apply kinetic energy to his own punches and kicks without worrying about breaking his limbs (which he was worried about before he figured this part out).
 >>> 
+>>> He recently figured out how to absorb kinetic energy (so when something hits him, instead of taking the force he can now turn that into heat) and re-purpose it. This means he can apply kinetic energy to his own punches and kicks without worrying about breaking his limbs (which he was worried about before he figured this part out).
 
->>>> **u/Trips-Over-Tail** [+1]  *Death of Crabs**
+>>>> **u/Trips-Over-Tail** [+1]  *Death of Crabs* (15 hours later)
 >>>> 
 >>>> Can he modify vibrational energy for the purposes of generating sound?
->>>> 
 
->>>>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights**
+>>>>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights* (15 hours later)
 >>>>> 
 >>>>> Yeah, that's in his power set (but not his current skill set)
->>>>> 
 
->>>>>> **u/Trips-Over-Tail** [+1]  *Death of Crabs**
+>>>>>> **u/Trips-Over-Tail** [+1]  *Death of Crabs* (16 hours later)
 >>>>>> 
 >>>>>> Sound gives him ranged options, both through the air and through the medium he is activating. This is useful for communication, distraction, deception, silencing, and attack, to name a few.
->>>>>> 
 
->> **u/lordcirth** [+2] *
+>> **u/lordcirth** [+2]  (2 hours later)
 >> 
 >> Do you mean that his body temperature reaches 3k Celsius without causing him harm?  That's a neat trick.  It would make you deadly in hand-to-hand combat, as anyone who touches you gets burned alive.  However it could also set the room on fire.
->> With the ability to absorb kinetic energy (on touch?) you can block any weapon, then release the energy to send it springing back into it's owner.  However this violates conservation of momentum.
 >> 
+>> With the ability to absorb kinetic energy (on touch?) you can block any weapon, then release the energy to send it springing back into it's owner.  However this violates conservation of momentum.
 
->>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+1]  *superheroes, depersonalization, and hallway fights* (2 hours later)
 >>> 
 >>> With conservation of momentum I've had it that he still moves with attacks, but he doesn't take damage from the kinetic energy. Not sure if that's strictly accurate, but I am being a little lenient on myself in that department. Edit: wouldn't some things bounce off of him, if momentum were conserved but he just absorbed the kinetic energy? 
->>> He usually wears gear that's thermally non-conductive, but I've also allowed him the ability to "shift" that heat around in his body so he doesn't burn things when he takes his mask off or grabs someone's hand.
 >>> 
+>>> He usually wears gear that's thermally non-conductive, but I've also allowed him the ability to "shift" that heat around in his body so he doesn't burn things when he takes his mask off or grabs someone's hand.
 
->> **u/Frommerman** [+1] *
+>> **u/Frommerman** [+1]  (a day later)
 >> 
 >> He can fire giant frickin' lazer beams as long as he has sufficient heat stored in his body. He just needs to vibrate all of the particles in a sample of any lasable material such that they start producing light. He could probably do it with some unknown (to me) material which creates a laser just through heating to proper temperatures as the heated atoms produce light of the right wavelengths to lase.
->> 
 
->> **u/1337_w0n** [+1] *
+>> **u/1337_w0n** [+1]  (a day later)
 >> 
 >> That sounds like a recipe for a perpetual heat engine, that does. Probably the best thing to do is get a crank and sell power.
->> Hell, depending on efficiency of transfer, and max volume of influence,  this could build to an exponential progression.
 >> 
+>> Hell, depending on efficiency of transfer, and max volume of influence,  this could build to an exponential progression.
 
->>> **u/MegajouleWrites** [+2]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+2]  *superheroes, depersonalization, and hallway fights* (a day later)
 >>> 
 >>> That reminds me of this SMBC: https://www.smbc-comics.com/?id=2305
->>> But he's got a martyr complex so he's out being a vigilante instead of selling power.
 >>> 
+>>> But he's got a martyr complex so he's out being a vigilante instead of selling power.
 
->>>> **u/1337_w0n** [+2] *
+>>>> **u/1337_w0n** [+2]  (a day later)
 >>>> 
 >>>> There's always a relevant sxkmbcd comic. But it would be a lie if I said I didn't immediately think of that when I read what you wrote.
->>>> 
 
-> **u/lordcirth** [+3] *
+> **u/lordcirth** [+4]  (7 hours later)
 > 
 > You are in an iron-age society.  What is the most awesome, and actually useful (they aren't dumb) thing that you can create in a few days using any modern knowledge, but iron-age materials and tools?
-> 
 
->> **u/Kilbourne** [+8] *
+>> **u/Kilbourne** [+7]  (8 hours later)
 >> 
 >> Me, personally? In a few days?
->> Hmm. Some detailed drawings of useful things other people could make. A treatise of basic germ and genetic theory. Gravitational theory. Badly understood astronomy and calculus. Basically just an info-dump of things I think would/could be useful for people to tech-jump themselves if in the right hands, ie. a talented, literate alchemist-blacksmith.
->> I could *make* some miniature models of things, like plows, waterwheels and waterscrews, keeled boats and tallships, leaf-spring suspension for carts and wagons; other 'basic' machines.
->> I have no practical chemical knowledge.
->> I have enough practical medical knowledge that I suppose I could become a competent and successful surgeon, especially what with washing my hands all the time.
->> I could 'invent' crop rotation, depending on the region.
 >> 
+>> Hmm. Some detailed drawings of useful things other people could make. A treatise of basic germ and genetic theory. Gravitational theory. Badly understood astronomy and calculus. Basically just an info-dump of things I think would/could be useful for people to tech-jump themselves if in the right hands, ie. a talented, literate alchemist-blacksmith.
+>> 
+>> I could *make* some miniature models of things, like plows, waterwheels and waterscrews, keeled boats and tallships, leaf-spring suspension for carts and wagons; other 'basic' machines.
+>> 
+>> I have no practical chemical knowledge.
+>> 
+>> I have enough practical medical knowledge that I suppose I could become a competent and successful surgeon, especially what with washing my hands all the time.
+>> 
+>> I could 'invent' crop rotation, depending on the region.
 
->>> **u/MegajouleWrites** [+3]  *superheroes, depersonalization, and hallway fights**
+>>> **u/MegajouleWrites** [+3]  *superheroes, depersonalization, and hallway fights* (11 hours later)
 >>> 
 >>> I think just the washing your hands thing would set you heads and shoulders above a lot of medical professionals of the past.
->>> 
 
->>>> **u/Frommerman** [+1] *
+>>>> **u/Frommerman** [+1]  (a day later)
 >>>> 
 >>>> Also, several surgical-grade surface disinfectants have been known since time immemorial. That would help a lot too.
->>>> 
 
->> **u/Frommerman** [+7] *
+>> **u/Frommerman** [+7]  (a day later)
 >> 
 >> Given scrap metal and help from a blacksmith, I could create a prototype for a [mouldboard plow](https://en.m.wikipedia.org/wiki/Plough). The real innovations were in having the sharp blade to cut the ground and the wide, curved wings to physically turn the dirt over, exposing dirt that isn't as nutrient starved and aerating the land. We only developed them in the 13-1400s in our world despite it being technically possible to do so far earlier. They're credited with the massive European population spike beginning in the Renaissance which necessitated colonialism just to have a place to dump all the extra people.
->> 
 
->>> **u/HelperBot_** [+1] *
+>>> **u/HelperBot_** [+1]  (a day later)
 >>> 
 >>> Non-Mobile link: https://en.wikipedia.org/wiki/Plough
 >>> ***
 >>> ^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^163830
->>> 
 
->>> **u/lordcirth** [+1] *
+>>> **u/lordcirth** [+1]  (a day later)
 >>> 
 >>> Oh that's a really good one!  Simple, too.
->>> 
 
->> **u/Nighzmarquls** [+3] *
+>> **u/Nighzmarquls** [+5]  (10 hours later)
 >> 
 >> if it's our universe?
 >> No language barrier?
->> I could probably build a movable type printing press.
->> I think I'd also be able to make a quest list for the various experimental results and craftspeople needed to get the industrial revolution started.
->> I'm pretty confident on that kind of thing but I also know what I don't know. There would be lots of gaps.
 >> 
+>> I could probably build a movable type printing press.
+>> 
+>> I think I'd also be able to make a quest list for the various experimental results and craftspeople needed to get the industrial revolution started.
+>> 
+>> I'm pretty confident on that kind of thing but I also know what I don't know. There would be lots of gaps.
 
->>> **u/1337_w0n** [+2] *
+>>> **u/1337_w0n** [+2]  (a day later)
 >>> 
 >>> I think this one wins.
->>> If it were me, I'd add a good chunk of modern mathematics, since that happens to be my trade, to what I print out.
 >>> 
+>>> If it were me, I'd add a good chunk of modern mathematics, since that happens to be my trade, to what I print out.
 
->> **u/Frommerman** [+4] *
+>> **u/Frommerman** [+3]  (a day later)
 >> 
 >> I've gotten a better one, even. It's pretty easy to replicate Pasteur's experiments disproving spontaneous generation with iron-age tech if you know to do so in the first place. Making usable glassware for it might be difficult, but making metalware would be easier. Also, if I'm near the coast and citrus fruits, I can make agar from seaweed and show them Penicillium a millennium early. They won't be able to isolate the stuff for a while, but knowing is more than half the battle on that one.
->> 
 
->> **u/1337_w0n** [+3] *
+>> **u/1337_w0n** [+3]  (a day later)
 >> 
 >> Crucible steel is really nice, if you know how to make it. And not too *terribly* difficult to make if you can already work iron. After that, I would use my prestige from making the strongest metal anyone has ever used to do what a couple others suggested institute a written language and/or create a printing press. This of course is followed by using that to spread modern ideas including, but not limited to:
+>> 
 >> Basics of Germ Theory and medicine.
 >> The basics of Evolution, biology, neurology and psychology. 
 >> A large portion of Mathematics and physics, including rudimentary electrical technology. 
 >> A little bit of agricultural science and steam engine mechanics.
 >> Cosmology, ethics, and philosophy. 
->> Maybe I'll just make a new religion and use my superior metallurgy, science, tactics, and technology to take over the world. Who knows, maybe if I have help I can get the singularity going before I die. I'll need to reinvent computer science from scratch, since I have no personal knowledge of the field other than basic IT stuff, but with the entire population, maybe I'll find someone brilliant enough to get it going with my guidance and a story about Charles Babage.
 >> 
+>> Maybe I'll just make a new religion and use my superior metallurgy, science, tactics, and technology to take over the world. Who knows, maybe if I have help I can get the singularity going before I die. I'll need to reinvent computer science from scratch, since I have no personal knowledge of the field other than basic IT stuff, but with the entire population, maybe I'll find someone brilliant enough to get it going with my guidance and a story about Charles Babage.
 
->>> **u/Nighzmarquls** [+2] *
+>>> **u/Nighzmarquls** [+2]  (a day later)
 >>> 
 >>> There is a lot of stuff you have to know in order to get the sort of runaway computation that modern computers give us.
->>> You need to know atoms and a proper theory of electromagnetism.
 >>> 
+>>> You need to know atoms and a proper theory of electromagnetism.
 
->> **u/CopperZirconium** [+3] *
+>> **u/CopperZirconium** [+3]  (a day later)
 >> 
 >> I, personally, could make an early wet-cell battery. I could probably make an electric motor and a generator from scratch too. Zinc, copper, iron, vinegar, brine; that's basically the raw materials for level 0 on the electronics tech tree.
->> I think I could make a steam engine too.
->> From there I would do my best to go full Connecticut Yankee in King Arthur's Court.
 >> 
+>> I think I could make a steam engine too.
+>> 
+>> From there I would do my best to go full Connecticut Yankee in King Arthur's Court.
 
->> **u/PINIPF** [+2] *
+>> **u/PINIPF** [+2]  (9 hours later)
 >> 
 >> A hydraulic system,  depending on the date i am  sure  there are water mills however there could be several industries that could be  automated or close to  it your have the proper knowledge  am sure limited electrical capability could be reached in time you could be rich and influential in no time
->> 
 
-> **u/NoNotCar** [+1] *
+> **u/NoNotCar** [+1]  (7 hours later)
 > 
 > You have the power to precisely control the growth of your own body.
+> 
 > * The power can cause any cell containing your DNA connected to your original body by an unbroken chain of your cells to split, turn into any other human cell type or kill itself.
 > * Your mind has an instinctive understanding of your body's constructive potential so you don't have to micromanage blood supply etc. unless you choose to.
 > * Creating new cells requires resources as usual, so you have to eat lots if you plan on lots of growth.
 > * The human mind is assumed to be close to an intelligence limit so the obvious answer of expanding your brain isn't productive. You can, however, create new independent brains.
-> 
 
->> **u/vakusdrake** [+3] *
+>> **u/vakusdrake** [+3]  (a day later)
 >> 
 >> If you can't control DNA then the plan is as follows:                 
 >> Use your massive genius to get very rich online using many different clones (with altered appearances) of yourself (all altered to the limit of intelligence which includes social intelligence), for obvious reasons these clones would also differ from you in having fanatical devotion to the cause and spending all their energy on that. Then start creating as many fake identities for your clones as possible while also having many clones pose as people without legal records such as refugees, homeless children, etc and then use their incredible skills to get special citizenships (or just buy them). In addition we will adopt the identities of many missing people as well as just bodysnatch some extremely morally despicable people. Plus in many parts of the world where people don't all have good government records I can probably ratchet up the number of created clones.
+>> 
 >> Anyway pretty soon you will have hundreds of thousands of versions of yourself across the globe rapidly using their intelligence to accumulate trillions of dollars collectively. All communication will be done using anonymous means in a novel security focused conlang of your creation and the language used will change on occasion.        
 >> We will use this money to build complexes where we have giant brain like masses which will experience say 10x thinking speed and have effectively thousands of minds making them up. These minds will be hooked up to the internet with very fast interfaces and will rapidly become experts in basically every single potentially useful topic. The mobile clones of myself will then be able to gain expertise in any useful topics by physically merging their brains with these larger masses for a time, or incorporating "brain pieces" into themselves. Plus of course once the brain masses rapidly learned all of human knowledge they would begin working on doing new work in those areas, using my money to fund (likely secret) experiments if necessary.
+>> 
 >> By now you might be able to start seeing how this is going.. I will begin be rapidly possessing tech decades or centuries ahead of the rest of the world. I will also start body snatching many people in positions of power, copying their memories and keeping the original bodiless in the brain-masses. We will be researching AI pretty early on so we can change our mind design and get access to an order of magnitude or more thinking speed thus speeding up to near singularity levels. Within a decade we will be able to manage a nearly bloodless global cou using lot's of extremely advanced tech and mass surveillance.      
 >> With all the tech we have we should be able to create a post-scarcity post-singularity utopia immediately and well at that point you (and all of humanity that shares your values) has won.
->> If you start out being able to perfectly control genetics things happen faster: You rapidly speed up your cognition drastically upgrading your neurons to a biological fiber optic equivalent. Your brain masses are thus able to develop stuff like advance nanotech pretty quickly using your own cells and molecular machinery as a basis. You can then spread this pathogen/nanite swarms across the globe infecting everybody with it. Then use this as a form of mind control (though preferably stopping them from making their body perform crimes rather than just brainwashing them) and suddenly you can skip right ahead to the post-singularity utopia step at the end of the previous plan. Though of course it's possible with the right genetic engineering these plan might look the same with one only taking a few years longer than the other.
 >> 
+>> If you start out being able to perfectly control genetics things happen faster: You rapidly speed up your cognition drastically upgrading your neurons to a biological fiber optic equivalent. Your brain masses are thus able to develop stuff like advance nanotech pretty quickly using your own cells and molecular machinery as a basis. You can then spread this pathogen/nanite swarms across the globe infecting everybody with it. Then use this as a form of mind control (though preferably stopping them from making their body perform crimes rather than just brainwashing them) and suddenly you can skip right ahead to the post-singularity utopia step at the end of the previous plan. Though of course it's possible with the right genetic engineering these plan might look the same with one only taking a few years longer than the other.
 
->> **u/Gurkenglas** [+2] *
+>> **u/Gurkenglas** [+2]  (10 hours later)
 >> 
 >> The Worm fanfic [Amelia](https://forums.sufficientvelocity.com/threads/amelia-worm-au.13577/) should provide inspiration.
->> Is the power as course-grained as the three options per cell imply or could I copy my brain down to the memories?
->> Which of my cortices controls my power? The motor cortex? An extra? Leaving at least that one out of a copy of my brain would let me experiment on it to see if I can, say, grow around a bunch of electrodes to make a brain-computer interface.
->> Money begets food begets brains begets online mechanical turk work begets money. It might be tough to explain what I need all those milk tankers for. Perhaps I could leave a copy of my original self in place to take over my life, which might also be useful as someone to inform the feds if I ever accidentally myself into insanity and become Nilbog. Copies in the role of illegal immigrants could handle face-to-face interactions, but it'd be awkward if any are deported. How common is identity theft by lookalikes?
 >> 
+>> Is the power as course-grained as the three options per cell imply or could I copy my brain down to the memories?
+>> 
+>> Which of my cortices controls my power? The motor cortex? An extra? Leaving at least that one out of a copy of my brain would let me experiment on it to see if I can, say, grow around a bunch of electrodes to make a brain-computer interface.
+>> 
+>> Money begets food begets brains begets online mechanical turk work begets money. It might be tough to explain what I need all those milk tankers for. Perhaps I could leave a copy of my original self in place to take over my life, which might also be useful as someone to inform the feds if I ever accidentally myself into insanity and become Nilbog. Copies in the role of illegal immigrants could handle face-to-face interactions, but it'd be awkward if any are deported. How common is identity theft by lookalikes?
 
->> **u/Nighzmarquls** [+1] *
+>> **u/Nighzmarquls** [+1]  (9 hours later)
 >> 
 >> I am assuming intra-cellular matrix counts as 'connected'.
->> Honestly with my newfound understanding I'm gonna go to the nearest biomedical research facility and start brainstorming with them.
->> Maybe make a living selling custom made HELA style cells?
->> Can I alter my own DNA?
->> What if I'm a chimera (this happens and is a valid point although I don't think I personally am a chimera).
->> What if some of my DNA is mutated/altered by me or random cell division errors?
->> Important questions.
 >> 
+>> Honestly with my newfound understanding I'm gonna go to the nearest biomedical research facility and start brainstorming with them.
+>> 
+>> Maybe make a living selling custom made HELA style cells?
+>> 
+>> Can I alter my own DNA?
+>> 
+>> What if I'm a chimera (this happens and is a valid point although I don't think I personally am a chimera).
+>> 
+>> What if some of my DNA is mutated/altered by me or random cell division errors?
+>> 
+>> Important questions.
 
->> **u/Kilbourne** [+1] *
+>> **u/Kilbourne** [+1]  (8 hours later)
 >> 
 >> [Nilbog](http://worm.wikia.com/wiki/Nilbog) it up!
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (2 days later)
 > 
 > You live in a world with real world physics. Your humanoid race can print (custom) DNA (and cells) with your body and you have an incubator (you could make a clone of yourself in it)
-> main limitations: 
-> *knowledge (you could make a killer virus, put probably not know how to survive it yourself, also others of your race would mo)
-> *calories
-> *time
-> *sqaure-cube-law (you could make giant insects, but they wouldn't be overpowered... also cat sized humans would be physical less good than cats, even with modifications.)
-
-
-> Other of your race have the same abilities like you. You can also modify your own body horns, fur, more muscle, different height or colour is save. Tails or claws can get tricky. Organ fuctions should be tested on a clone. And of course someone else already figured out, how not to age.
-
-> Knowledge limitation: 
-> *You can basically give your creations anything animals have. (like electric eels, poision, venom, lizards throwaway tails) if you have the blueprints. (lets say for this exercise you have them)
-> *your race can analyse and copy unknown DNA, but you would need research time (weeks or months) to know which part does what.
-> *Everything a machine can do, your creations can probably duplicate less efficient. don't forget, real physics (biological guns couldn't shoot as fast and big projectiles as ones made of steel, also ammunition/gun powder would be external or need time and energy to grow.)  You could give your creations the ability to communicated via wifi/radio, but only over short distances. (still needs calories)
-
-> * mental commands and instinct change would degenerate fast with sexual reproduction, if they are not beneficial (even dormant ones)... aka evolution exists
-
-> well I hope I'm not too late or should I post this Saturday?
 > 
+> main limitations: 
+> 
+> *knowledge (you could make a killer virus, put probably not know how to survive it yourself, also others of your race would mo)
+> 
+> *calories
+> 
+> *time
+> 
+> *sqaure-cube-law (you could make giant insects, but they wouldn't be overpowered... also cat sized humans would be physical less good than cats, even with modifications.)
+> 
+> Other of your race have the same abilities like you. You can also modify your own body horns, fur, more muscle, different height or colour is save. Tails or claws can get tricky. Organ fuctions should be tested on a clone. And of course someone else already figured out, how not to age.
+> 
+> Knowledge limitation: 
+> 
+> *You can basically give your creations anything animals have. (like electric eels, poision, venom, lizards throwaway tails) if you have the blueprints. (lets say for this exercise you have them)
+> 
+> *your race can analyse and copy unknown DNA, but you would need research time (weeks or months) to know which part does what.
+> 
+> *Everything a machine can do, your creations can probably duplicate less efficient. don't forget, real physics (biological guns couldn't shoot as fast and big projectiles as ones made of steel, also ammunition/gun powder would be external or need time and energy to grow.)  You could give your creations the ability to communicated via wifi/radio, but only over short distances. (still needs calories)
+> 
+> * mental commands and instinct change would degenerate fast with sexual reproduction, if they are not beneficial (even dormant ones)... aka evolution exists
+> 
+> well I hope I'm not too late or should I post this Saturday?
 
->> **u/vakusdrake** [+1] *
+>> **u/vakusdrake** [+1]  (3 days later)
 >> 
 >> It's hard to imagine how a species like this progresses, however since an ability like this doesn't naturally evolve one can at least imagine people get it suddenly.
+>> 
 >> The most obvious issue with trying to speculate here is that pretty much immediately people are going to start increasing their own intelligence with this power. Which means it's very likely that the first person to get started on this undergoes a sort of biological foom, rapidly reaching insane levels of eldritch intelligence and producing complex cells which can construct the first generation of self replicating nanobots after all there's no reason you can't use your control of biology to create something better than biology.                                     
 >> If no one eldritch horror gets a decisive edge early on one may win out over time or likely there will be many superintelligences vying for power, however that may not be ideal for obvious Moloch related reasons.
->> Anyway since the first people to increase their own intelligence rapidly probably won't be doing it slowly and carefully, one can imagine the superintelligences that arise immediately will be extremely alien due to extreme value drift in the improvement of their own mind.
->> **TLDR**: A bunch of people turn themselves into eldritch horrors and overtake the planet within the week of this power becoming available.
 >> 
+>> Anyway since the first people to increase their own intelligence rapidly probably won't be doing it slowly and carefully, one can imagine the superintelligences that arise immediately will be extremely alien due to extreme value drift in the improvement of their own mind.
+>> 
+>> **TLDR**: A bunch of people turn themselves into eldritch horrors and overtake the planet within the week of this power becoming available.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (3 days later)
 >>> 
 >>> well time line is way off (years), rapid changes to the brain isn't a smart move (they will die) and since it is in a world with real world physics, they wouldn`t develop supernatural powers (or do you mean something different with eldritch horror?) 
->>> but other than that, how would they take over the planet (and why)?
 >>> 
+>>> but other than that, how would they take over the planet (and why)?
 
->>>> **u/vakusdrake** [+1] *
+>>>> **u/vakusdrake** [+1]  (3 days later)
 >>>> 
 >>>> Given you already mention fixing aging and other complex traits I was imagining they start with some good knowledge. 
+>>>> 
 >>>> However even if they don't they can still get started pretty quickly by copying the neurology of geniuses until they find a way to reliably produce it. Then once most everyone in the world is a genius you expect that research would go extremely quickly. After many people likely realize the incredible stakes here so some people would be killing hundreds of clones in order to test out neurological improvements (for instance birds have vastly denser and more efficient brains than us) and every time they found something that works they could immediately use that to speed up their research speed with their new enhanced intelligence.        
 >>>> It's hard to say exactly how long that process would take compared to if they started with a lot of genetic/neurological knowledge however it might reasonably happen in a few years. Plus it might be highly exponential so once the first group made enough progress (and enhanced their intelligence enough) it's possible it might speed up from there into something resembling a foom, after all relatively small neurological changes can be pretty dramatic in their effects.
->>>> 
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (3 days later)
 >>>>> 
 >>>>> still just a way to make yourself smarter. 
-
->>>>> okay you do that and i research how to make a minion (maybe dogs or kamikaze birds) obey and mass produce them as fast as possible and order them to kill everyone who does something similar. 
->>>>> then or maybe as soon as I find them, i kill everyone who tries to improve themself
-
->>>>> of course who wins would depend who has more calories and how long each approach would take. (also at what point will someone kill everything with a virus, so better to assassinate everyone secretly)
->>>>> another problem is, that testing a new Idea will always take the same time (the clone becoming an adult). so even if you got lucky with your brain modification, and could come up with new ideas every day, you wouldn`t be able to see if they are really save for a long time 
-
->>>>> sorry i don't want to be mean, but I think the promises of the singularity highly unlikely. More  brainpower will not solve all problems and doesn`t mean you will be in a position, to leverage your brainpower.
-
->>>>> also I doubt what society calls a genius is really visible in the DNA. Of course there are some factors that work at least negatively, maybe even a few that would give more brainpower, but it is mostly training which someone makes good.
-
->>>>> honestly I expected more of the kind of: make microorganism that make sugar with electricity instead of light -> cheap calories
->>>>> or put spider silk under your skin ( some claim that would make you bullet resistant)
->>>>> or find out how to move information directly into the brain (no more schools and easy propaganda tool if it is not direct mind control)
 >>>>> 
+>>>>> okay you do that and i research how to make a minion (maybe dogs or kamikaze birds) obey and mass produce them as fast as possible and order them to kill everyone who does something similar. 
+>>>>> 
+>>>>> then or maybe as soon as I find them, i kill everyone who tries to improve themself
+>>>>> 
+>>>>> of course who wins would depend who has more calories and how long each approach would take. (also at what point will someone kill everything with a virus, so better to assassinate everyone secretly)
+>>>>> 
+>>>>> another problem is, that testing a new Idea will always take the same time (the clone becoming an adult). so even if you got lucky with your brain modification, and could come up with new ideas every day, you wouldn`t be able to see if they are really save for a long time 
+>>>>> 
+>>>>> sorry i don't want to be mean, but I think the promises of the singularity highly unlikely. More  brainpower will not solve all problems and doesn`t mean you will be in a position, to leverage your brainpower.
+>>>>> 
+>>>>> also I doubt what society calls a genius is really visible in the DNA. Of course there are some factors that work at least negatively, maybe even a few that would give more brainpower, but it is mostly training which someone makes good.
+>>>>> 
+>>>>> honestly I expected more of the kind of: make microorganism that make sugar with electricity instead of light -> cheap calories
+>>>>> 
+>>>>> or put spider silk under your skin ( some claim that would make you bullet resistant)
+>>>>> 
+>>>>> or find out how to move information directly into the brain (no more schools and easy propaganda tool if it is not direct mind control)
 
->>>>>> **u/vakusdrake** [+1] *
+>>>>>> **u/vakusdrake** [+1]  (3 days later)
 >>>>>> 
 >>>>>> >okay you do that and i research how to make a minion (maybe dogs or kamikaze birds) obey and mass produce them as fast as possible and order them to kill everyone who does something similar.
 >>>>>> then or maybe as soon as I find them, i kill everyone who tries to improve themself
->>>>>> Given any intelligence improvements will probably be done in secret (you don't want other people to get your research) that plan doesn't remotely work. Also that plan couldn't remotely work for quite a while anyway, since you would need a super long time to make swarms of weaponized animals that obeyed you, since you have to figure out all the genetics the hard way.
->>>>>> >another problem is, that testing a new Idea will always take the same time (the clone becoming an adult). so even if you got lucky with your brain modification, and could come up with new ideas every day, you wouldn`t be able to see if they are really save for a long time
->>>>>> See I thought the incubator could create full grown clones of you. If it can only function as an artificial womb then this setting is starting to sound basically like real life except with slightly better gene editing and artificial wombs.
->>>>>> >or find out how to move information directly into the brain (no more schools and easy propaganda tool if it is not direct mind control)
->>>>>> See that seems like it has nothing to do with genetics here since no other animals transfer memories like that so there's no genes to copy and creating something like that from scratch is likely to be harder than something like intelligence enhancement. 
->>>>>> >also I doubt what society calls a genius is really visible in the DNA. Of course there are some factors that work at least negatively, maybe even a few that would give more brainpower, but it is mostly training which someone makes good.
->>>>>> Given IQ is 80% heritable you don't need to know what you're doing at first, just copy genetics from existing geniuses. Then you can figure out more advanced stuff later once you're already a genius.
 >>>>>> 
+>>>>>> Given any intelligence improvements will probably be done in secret (you don't want other people to get your research) that plan doesn't remotely work. Also that plan couldn't remotely work for quite a while anyway, since you would need a super long time to make swarms of weaponized animals that obeyed you, since you have to figure out all the genetics the hard way.
+>>>>>> 
+>>>>>> >another problem is, that testing a new Idea will always take the same time (the clone becoming an adult). so even if you got lucky with your brain modification, and could come up with new ideas every day, you wouldn`t be able to see if they are really save for a long time
+>>>>>> 
+>>>>>> See I thought the incubator could create full grown clones of you. If it can only function as an artificial womb then this setting is starting to sound basically like real life except with slightly better gene editing and artificial wombs.
+>>>>>> 
+>>>>>> >or find out how to move information directly into the brain (no more schools and easy propaganda tool if it is not direct mind control)
+>>>>>> 
+>>>>>> See that seems like it has nothing to do with genetics here since no other animals transfer memories like that so there's no genes to copy and creating something like that from scratch is likely to be harder than something like intelligence enhancement. 
+>>>>>> 
+>>>>>> >also I doubt what society calls a genius is really visible in the DNA. Of course there are some factors that work at least negatively, maybe even a few that would give more brainpower, but it is mostly training which someone makes good.
+>>>>>> 
+>>>>>> Given IQ is 80% heritable you don't need to know what you're doing at first, just copy genetics from existing geniuses. Then you can figure out more advanced stuff later once you're already a genius.
 
 ---
 

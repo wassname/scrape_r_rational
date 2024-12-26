@@ -24,34 +24,33 @@ And thank you so much to everyone who has pledged, Tweeted, Facebooked, or menti
 
 ### Comments:
 
-> **u/Tenobrus** [+2] *
+> **u/Tenobrus** [+2]  (an hour later)
 > 
 > Well, I chipped in $5. Wish I could give more. I started out really disliking the writing in Two Year Emperor, but after the 7th or 8th chapter either you improved drastically or I got into the swing of it. Now you rank pretty highly on my author quality lists.
-> Anyone with a lot of disposable income want to add a few thousand words to the story? I know I'd really appreciate it.
 > 
+> Anyone with a lot of disposable income want to add a few thousand words to the story? I know I'd really appreciate it.
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+3]  (4 hours later)
 >> 
 >> Thank you very much, that's really great of you.
->> I'm glad to hear that you ended up liking 2YE.  Out of curiosity, do you remember what you didn't like about the first few chapters?
 >> 
+>> I'm glad to hear that you ended up liking 2YE.  Out of curiosity, do you remember what you didn't like about the first few chapters?
 
->>> **u/Tenobrus** [+1] *
+>>> **u/Tenobrus** [+1]  (23 hours later)
 >>> 
 >>> I just looked back on the chapters, and I think it was the density of references and "4-th wall" breaking. The main character just wasn't taking the story even a little bit seriously, so neither could I. Of course those things aren't bad at all, and honestly they're a big part of what makes 2YE so entertaining, but at the very beginning it seemed like that's all there was. Just some random guy talking about D&D and programming and fan fiction with a backdrop of OOTS except without emotional investment. 
->>> Then you started adding characters and plot and historical background and the rest of the things required for a actual story.
->>> Honestly I think it comes down to me having read so much stuff with a premise similar to OOTS, Erfworld, 2YE, even Natural 20. I've just gotten slightly sick of the start all of these kinds of stories have, I have to push through to whatever part is done uniquely.
 >>> 
+>>> Then you started adding characters and plot and historical background and the rest of the things required for a actual story.
+>>> 
+>>> Honestly I think it comes down to me having read so much stuff with a premise similar to OOTS, Erfworld, 2YE, even Natural 20. I've just gotten slightly sick of the start all of these kinds of stories have, I have to push through to whatever part is done uniquely.
 
->>>> **u/eaglejarl** [+1] *
+>>>> **u/eaglejarl** [+1]  (a day later)
 >>>> 
 >>>> Makes sense.  Thanks for explaining -- it's good to get concrit.
->>>> 
 
->> **u/eaglejarl** [+3] *
+>> **u/eaglejarl** [+3]  (9 hours later)
 >> 
 >> Looks like someone heard you.  Someone picked up the $75 "Extra 2,000 words" reward.  Thanks!
->> 
 
 ---
 

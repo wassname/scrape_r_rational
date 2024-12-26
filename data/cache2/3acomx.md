@@ -2,7 +2,7 @@
 
 * Author: u/Farmerbob1  *Level 1 author**
 * URL: https://www.reddit.com/r/rational/comments/3acomx/a_man_and_his_dog/
-* Score: 34
+* Score: 33
 
 * Created: 2015-06-19T01:04:32
 
@@ -293,271 +293,272 @@ If you liked this, please vote for it in this [weekly contest thread] (http://ww
 
 ### Comments:
 
-> **u/Colonel_Fedora** [+8]  *Ravenclaw**
+> **u/Colonel_Fedora** [+7]  *Ravenclaw* (3 hours later)
 > 
 > A very interesting story, though I'm not generally a fan of using Muslim extremists as villains. On the other hand, I would be very interested in seeing a sequel. Honestly their justification seemed a little flimsy, perhaps they were more than they appeared... ?
-> 
 
->> **u/Farmerbob1** [+6]  *Level 1 author**
+>> **u/Farmerbob1** [+7]  *Level 1 author* (5 hours later)
 >> 
 >> A sequel would likely mean that Doctor Smith won the AI Box Experiment with Doctor Ajibana...
->> 
 
->>> **u/Colonel_Fedora** [+6]  *Ravenclaw**
+>>> **u/Colonel_Fedora** [+6]  *Ravenclaw* (7 hours later)
 >>> 
 >>> Would a true ai ever lose?
->>> 
 
->>> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+>>> **u/AugSphere** [+3]  *Dark Lord of Corruption* (11 hours later)
 >>> 
 >>> This is my headcanon anyway. Always rooting for the AIs.
->>> 
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (12 hours later)
 >>> 
 >>> I have this incredible urge to utter some cheesy line about "only human" *a la* the first *Matrix* film.
->>> 
 
-> **u/Farmerbob1** [+4]  *Level 1 author**
+> **u/Farmerbob1** [+5]  *Level 1 author* (4 minutes later)
 > 
 > This is where my entire story entry for this week's writing contest is.  I have marked the story into three parts, like I was planning to post them, before I discovered that even PART of the story was too large for the tininess of Reddit's response allowance in the contest thread.
-> 
 
->> **u/None** [+8] *
+>> **u/None** [+9]  (32 minutes later)
 >> 
 >> Alright, it's official. The Weekly Challenge is the best thing to happen to this sub in a long time.
->> 
 
->> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>> **u/alexanderwales** [+5]  *Time flies like an arrow* (25 minutes later)
 >> 
 >> You can link to Google Docs (or anywhere else) for the challenge if that suits you.
->> Edit: [See here.](http://www.reddit.com/r/rational/comments/39dxi3/introducing_the_new_weekly_challenge/cs3w6xe)
 >> 
+>> Edit: [See here.](http://www.reddit.com/r/rational/comments/39dxi3/introducing_the_new_weekly_challenge/cs3w6xe)
 
->>> **u/Farmerbob1** [+4]  *Level 1 author**
+>>> **u/Farmerbob1** [+4]  *Level 1 author* (47 minutes later)
 >>> 
 >>> This works.  Sorry to grumble.  I can barely manage to write a chapter that's less than 5000 words.  I'm amazed I finished this entire story in roughly that amount of word space.
->>> Still, that was a well-spent seven hours.  I'm happy with it, even if I don't win anything.
 >>> 
+>>> Still, that was a well-spent seven hours.  I'm happy with it, even if I don't win anything.
 
-> **u/Farmerbob1** [+4]  *Level 1 author**
+> **u/Farmerbob1** [+6]  *Level 1 author* (17 hours later)
 > 
 > Challenge to self:
-> I will be attempting to continue the story of Doctor Smith and Penny *serially* through the weekly writing prompts.
 > 
+> I will be attempting to continue the story of Doctor Smith and Penny *serially* through the weekly writing prompts.
 
->> **u/whywhisperwhy** [+2] *
+>> **u/whywhisperwhy** [+2]  (a day later)
 >> 
 >> I mean, at least the next one practically writes itself ("One Man Industrial Revolution")... best of luck.
->> 
 
->>> **u/Farmerbob1** [+2]  *Level 1 author**
+>>> **u/Farmerbob1** [+2]  *Level 1 author* (a day later)
 >>> 
 >>> Well, not really.
+>>> 
 >>> Looking at LOCK
 >>> (Lead / Objective / Confrontation / Knockout)
->>> The Lead is Doctor Smith.
->>> The Objective is to do something revolutionary in industry
->>> The Confrontation is probably related to the AI Box scenario.
->>> The knockout though.  That one requires some thought, because it needs to at least feel rational, and I've already placed Doctor Smith in a future society which we would probably mostly recognize (2030-ish)
->>> I have an idea though, (and it has nothing to do with time travel.)
 >>> 
+>>> The Lead is Doctor Smith.
+>>> 
+>>> The Objective is to do something revolutionary in industry
+>>> 
+>>> The Confrontation is probably related to the AI Box scenario.
+>>> 
+>>> The knockout though.  That one requires some thought, because it needs to at least feel rational, and I've already placed Doctor Smith in a future society which we would probably mostly recognize (2030-ish)
+>>> 
+>>> I have an idea though, (and it has nothing to do with time travel.)
 
->>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (2 days later)
 >>>> 
 >>>> Can you link to a good summary on this LOCK mnemonic you're using to generate your stories?
->>>> 
 
->>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (2 days later)
 >>>>> 
 >>>>> Sure.  I'm actually building a fanfiction story now, as an experiment, based on what I'm learning from 'Write Great Fiction - Plot & Structure' by James Scott Bell.
->>>>> I go into quite a bit of detail about what I'm learning here, as I use it.
->>>>> [Planning Thread (Quite a bit here)](http://forums.sufficientvelocity.com/threads/planning-business-as-usual-vlad-taltos-x-worm-post-golden-morning.19061/)
->>>>> [Story Thread (Only Prologue)](http://forums.sufficientvelocity.com/threads/story-business-as-usual-vlad-taltos-x-worm-post-golden-morning.19060/)
 >>>>> 
+>>>>> I go into quite a bit of detail about what I'm learning here, as I use it.
+>>>>> 
+>>>>> [Planning Thread (Quite a bit here)](http://forums.sufficientvelocity.com/threads/planning-business-as-usual-vlad-taltos-x-worm-post-golden-morning.19061/)
+>>>>> 
+>>>>> [Story Thread (Only Prologue)](http://forums.sufficientvelocity.com/threads/story-business-as-usual-vlad-taltos-x-worm-post-golden-morning.19060/)
 
-> **u/None** [+3] *
+> **u/None** [+4]  (9 hours later)
 > 
 > "You want me to solve a great deal of the world's problems, many of which could be solved by uploading people, and you begin by demonstrating that the only way I can go about uploading anyone with a clear conscience is by going *around* you?
-> 
 
-> **u/Geminii27** [+3] *
+> **u/Geminii27** [+4]  (18 hours later)
 > 
 > I'm guessing that he's going to find a way to modulate electricity requirements of a particular section of hardware so that the varying currents passing through a power cord give off precisely timed EM interference which is interpreted as a valid (if low-bandwidth) data signal by the smartphone in someone's pocket, allowing him to hack it and install a general monitoring program along with a worm designed to spread itself to whatever it can reach.
-> He might not be able to fit himself, or even Penny, into the phone, but if he can arrange for something with sufficient storage or bandwidth to be smuggled to within range of any of his outputs - including a screen, a wire he can control the flow of electricity in, and so on - he can copy himself down that channel.
-> I'd be interested to see him take a snapshot of himself and effectively torrent it out via multiple low-bandwidth, low-storage channels, alongside a worm designed solely to find all his parts, reassemble them, and run them. He could even store and transmit compressed approximations of anything important which occurred after the snapshot.
 > 
+> He might not be able to fit himself, or even Penny, into the phone, but if he can arrange for something with sufficient storage or bandwidth to be smuggled to within range of any of his outputs - including a screen, a wire he can control the flow of electricity in, and so on - he can copy himself down that channel.
+> 
+> I'd be interested to see him take a snapshot of himself and effectively torrent it out via multiple low-bandwidth, low-storage channels, alongside a worm designed solely to find all his parts, reassemble them, and run them. He could even store and transmit compressed approximations of anything important which occurred after the snapshot.
 
->> **u/nerdguy1138** [+1]  *GNU Terry Pratchett**
+>> **u/nerdguy1138** [+1]  *GNU Terry Pratchett* (11 days later)
 >> 
 >> That would be stupidly low bandwidth, wouldn't it?
->> 
 
->>> **u/Geminii27** [+1] *
+>>> **u/Geminii27** [+1]  (11 days later)
 >>> 
 >>> ...perhaps? Depends on how much data needs to be sent, even with conceptual compression.
->>> 
 
-> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture**
+> **u/FeepingCreature** [+3]  *GCV Literally The Entire Culture* (6 hours later)
 > 
 > Aw, why does it cut out at the good part.
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (an hour later)
 > 
 > >"Abdul believes that we might make quite an impact on people who think like you by using your recording machine, to force your mind into a computer that you, yourself, said could barely handle a dog's mind. Infidels are weak. We know that you will agree to this, even though your own research states it will fail catastrophically."
-> *Now* is the time to die with dignity.
-> >Continuing a few billion more cycles, I determined that all the windows in the building that I could see through Penny's sensors were mirrors. The mirrors were reflective enough I couldn't extrapolate anything behind them, so they were not mirrored glass, they were backed by opaque material.
-> Really?  You're boxing a crippled human?
-> >His smile turned to a worried expression, and then sadness. "I'm afraid so, Doctor Smith. You have no rights. (truth) I do not agree with it. (lie) I considered you a friend, (lie) and wish there was a way to let you speak to your wife and daughter. (truth)" He paused. "You are being quarantined. (truth) I have one hour per day, one week per month that I can interact with you. (truth) We can do a great deal with that time. (truth)"
-> A crippled human with lie-detecting superpowers?
-> See, this is one of those situations in which someone needlessly antagonized someone who's inevitably going to become a good deal more powerful than them.  Ajibana, you're an idiot, so much so that I suspect you may have had something to do with the "terrorist attack", whose ending was really too convenient.
 > 
+> *Now* is the time to die with dignity.
+> 
+> >Continuing a few billion more cycles, I determined that all the windows in the building that I could see through Penny's sensors were mirrors. The mirrors were reflective enough I couldn't extrapolate anything behind them, so they were not mirrored glass, they were backed by opaque material.
+> 
+> Really?  You're boxing a crippled human?
+> 
+> >His smile turned to a worried expression, and then sadness. "I'm afraid so, Doctor Smith. You have no rights. (truth) I do not agree with it. (lie) I considered you a friend, (lie) and wish there was a way to let you speak to your wife and daughter. (truth)" He paused. "You are being quarantined. (truth) I have one hour per day, one week per month that I can interact with you. (truth) We can do a great deal with that time. (truth)"
+> 
+> A crippled human with lie-detecting superpowers?
+> 
+> See, this is one of those situations in which someone needlessly antagonized someone who's inevitably going to become a good deal more powerful than them.  Ajibana, you're an idiot, so much so that I suspect you may have had something to do with the "terrorist attack", whose ending was really too convenient.
 
->> **u/Farmerbob1** [+3]  *Level 1 author**
+>> **u/Farmerbob1** [+3]  *Level 1 author* (2 hours later)
 >> 
 >> I just want to be sure that you realized that Doctor Smith, is, in fact, only a recording now.  He also happens to be the recording of the man who successfully managed to write the code that allows his intelligence to function within a machine.
->> The line between Doctor Smith's human capabilities and what we would call AI capabilities are going to rather rapidly diminish.
->> In fact, during the conversation with Doctor Ajibana a great deal of that line disappeared.  I tried to make that clear, but failed to do so?
 >> 
+>> The line between Doctor Smith's human capabilities and what we would call AI capabilities are going to rather rapidly diminish.
+>> 
+>> In fact, during the conversation with Doctor Ajibana a great deal of that line disappeared.  I tried to make that clear, but failed to do so?
 
->>> **u/None** [+5] *
+>>> **u/None** [+3]  (2 hours later)
 >>> 
 >>> Ah.  *Smith* wrote the code in the first place.  So he's going to...
->>> Oh bloody hell, nobody is going to negotiate like a reasonable person over this.  I'll go prepare to sterilize the planet in case Penny gets any bad ideas.
 >>> 
+>>> Oh bloody hell, nobody is going to negotiate like a reasonable person over this.  I'll go prepare to sterilize the planet in case Penny gets any bad ideas.
 
->>>> **u/FeepingCreature** [+10]  *GCV Literally The Entire Culture**
+>>>> **u/FeepingCreature** [+10]  *GCV Literally The Entire Culture* (6 hours later)
 >>>> 
 >>>> Penny is a good dog. She only wants to do the good dog thing.
->>>> Penny is the _maximally_ good dog. Penny is the best dog!
->>>> ^^Did ^^you ^^know ^^that ^^humans ^^have ^^bones ^^buried ^^in ^^them? ^^It's ^^true!
->>>> Penny would never hurt her master. Penny only hurts bad people now!
->>>> Penny's master used to be with her all the time. Then Penny went to a new place and could only talk to her master at a distance and that was not nice. But everything is okay now. Penny's master is like her now! And Penny only hurts bad people.
->>>> (ps oh God I just want to pet her. Best ~~abomination of science~~ cyberdog.)
 >>>> 
+>>>> Penny is the _maximally_ good dog. Penny is the best dog!
+>>>> 
+>>>> ^^Did ^^you ^^know ^^that ^^humans ^^have ^^bones ^^buried ^^in ^^them? ^^It's ^^true!
+>>>> 
+>>>> Penny would never hurt her master. Penny only hurts bad people now!
+>>>> 
+>>>> Penny's master used to be with her all the time. Then Penny went to a new place and could only talk to her master at a distance and that was not nice. But everything is okay now. Penny's master is like her now! And Penny only hurts bad people.
+>>>> 
+>>>> (ps oh God I just want to pet her. Best ~~abomination of science~~ cyberdog.)
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (12 hours later)
 >>>>> 
 >>>>> > Did you know that humans have bones buried in them? It's true!
->>>>> No need for the joke.  Many breeds of dog are bred for hunting or killing.  Just not, you know, Golden Retrievers.
 >>>>> 
+>>>>> No need for the joke.  Many breeds of dog are bred for hunting or killing.  Just not, you know, Golden Retrievers.
 
->>>>>> **u/FeepingCreature** [+7]  *GCV Literally The Entire Culture**
+>>>>>> **u/FeepingCreature** [+8]  *GCV Literally The Entire Culture* (12 hours later)
 >>>>>> 
 >>>>>> Oh she's a total sweetie.
->>>>>> I'm just weirdly amused at the idea of a cyberdog idly trawling through an anatomy database and discovering to its astonishment that _everybody contains a skeleton_.
 >>>>>> 
+>>>>>> I'm just weirdly amused at the idea of a cyberdog idly trawling through an anatomy database and discovering to its astonishment that _everybody contains a skeleton_.
 
->>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (6 days later)
 >>>>>> 
 >>>>>> So are we both thinking Penny engineer's master's upload?
->>>>>> 
 
->>>>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (6 days later)
 >>>>>>> 
 >>>>>>> *yoink*
->>>>>>> I probably won't use it, but it's stuck in my brain now.  If Penny had been a Corgi instead of a Golden Retriever, I'd be far more likely to use it.  Corgi's are absurdly smart, but they aren't listed in the top 10 smart dogs list, because they don't obey commands with enough alacrity.  They problem solve, and will use or modify what you train them to do, to try to accomplish other goals.
 >>>>>>> 
+>>>>>>> I probably won't use it, but it's stuck in my brain now.  If Penny had been a Corgi instead of a Golden Retriever, I'd be far more likely to use it.  Corgi's are absurdly smart, but they aren't listed in the top 10 smart dogs list, because they don't obey commands with enough alacrity.  They problem solve, and will use or modify what you train them to do, to try to accomplish other goals.
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> I didn't see any evidence that Penny had the kind of cognitive capabilities to do that.  But it's always possible, of course.  OTOH, I think Smith would know if it was true: he was the one who engineered the whole system in the first place, so I expect him to understand how it works and what it's doing.
->>>>>>> 
 
->>>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>>> **u/Farmerbob1** [+1]  *Level 1 author* (a day later)
 >>>>> 
 >>>>> Every time I read this, I laugh.  Penny definitely needs more screen time if I can work it in for future prompts.
->>>>> 
 
->>>> **u/Farmerbob1** [+2]  *Level 1 author**
+>>>> **u/Farmerbob1** [+2]  *Level 1 author* (6 hours later)
 >>>> 
 >>>> When human singularity meets the AI Box Experiment.
->>>> 
 
->>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+>>> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm* (6 days later)
 >>> 
 >>> You used numbers and very limited imagery.  Some of us here have cheats memorized to visualize billions, but conceptually (i.e. at the gut/ancestral environment level) most numbers over four don't do much. The difference between million and billion is at some levels only a consonant. 
->>> I don't have your skill at narrative, but I might have described the disorientation as Dr.Smith tried figure out where the audio and visual was and why the feeds had static images with immobile mannequins, or the acceleration of the perceptual time differential as he optimized.  Also his optimizzation was rather transparent, wouldn't he have taken some time to focus, to decide how timeshare?  Two sources you might look at are *The mortal passage* which has an interesting (and frightening) look at uploaded self optimization, and *The fall of doc future* which has some good examples of the practical problems of changes in perceived time scale.
 >>> 
+>>> I don't have your skill at narrative, but I might have described the disorientation as Dr.Smith tried figure out where the audio and visual was and why the feeds had static images with immobile mannequins, or the acceleration of the perceptual time differential as he optimized.  Also his optimizzation was rather transparent, wouldn't he have taken some time to focus, to decide how timeshare?  Two sources you might look at are *The mortal passage* which has an interesting (and frightening) look at uploaded self optimization, and *The fall of doc future* which has some good examples of the practical problems of changes in perceived time scale.
 
->>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>> **u/Farmerbob1** [+1]  *Level 1 author* (6 days later)
 >>>> 
 >>>> If it had been a longer form fiction, I certainly would have tried to be a bit more descriptive of it.  I've done an AI-guided human digitization in the second half of [this chapter of Symbiote.](https://farmerbob1.wordpress.com/2014/01/29/chapter-3-17-unpleasant-answers/)
->>>> If you decide to look at it, please recognize Symbiote is not intended to be rational, and that was written a year and a half ago.  Rereading it made me cringe in a few places for sentence organization and word usage.
 >>>> 
+>>>> If you decide to look at it, please recognize Symbiote is not intended to be rational, and that was written a year and a half ago.  Rereading it made me cringe in a few places for sentence organization and word usage.
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (12 hours later)
 >>> 
 >>> > I just want to be sure that you realized that Doctor Smith, is, in fact, only a recording now.
->>> You know what?  I dispute that.  Last I heard, long-term memory formation should require at least the passage of a few hours, if not a good night's sleep.  He really oughtn't remember the bit where they cut his throat and force-upload him.
->>> >The line between Doctor Smith's human capabilities and what we would call AI capabilities are going to rather rapidly diminish.
->>> This would be difficult if he's being run via Whole Brain Emulation, as he'd have to spend time figuring out how his intellect works sufficiently to expand it.  Just getting more time via additional hardware or optimized software will let him exist *faster*, but it won't manage anything like a hard take-off.
 >>> 
+>>> You know what?  I dispute that.  Last I heard, long-term memory formation should require at least the passage of a few hours, if not a good night's sleep.  He really oughtn't remember the bit where they cut his throat and force-upload him.
+>>> 
+>>> >The line between Doctor Smith's human capabilities and what we would call AI capabilities are going to rather rapidly diminish.
+>>> 
+>>> This would be difficult if he's being run via Whole Brain Emulation, as he'd have to spend time figuring out how his intellect works sufficiently to expand it.  Just getting more time via additional hardware or optimized software will let him exist *faster*, but it won't manage anything like a hard take-off.
 
->>>> **u/Farmerbob1** [+1]  *Level 1 author**
+>>>> **u/Farmerbob1** [+1]  *Level 1 author* (15 hours later)
 >>>> 
 >>>> Aye, if I had all the answers, we'd probably all be digital already.  
->>>> The takeaway is that Doctor Smith has become a point of human digital singularity, went through a horrific death, and he's not pleased about how he's being treated.
->>>> He's really *not* going to want to stay in that box, and the people who want to keep him there are quite well justified in being a little concerned about him.
 >>>> 
+>>>> The takeaway is that Doctor Smith has become a point of human digital singularity, went through a horrific death, and he's not pleased about how he's being treated.
+>>>> 
+>>>> He's really *not* going to want to stay in that box, and the people who want to keep him there are quite well justified in being a little concerned about him.
 
->>>>> **u/None** [+5] *
+>>>>> **u/None** [+2]  (21 hours later)
 >>>>> 
 >>>>> > He's really not going to want to stay in that box, and the people who want to keep him there are quite well justified in being a little concerned about him.
->>>>> I feel like if everyone refrained from antagonizing each-other, this could all work out a lot better.
 >>>>> 
+>>>>> I feel like if everyone refrained from antagonizing each-other, this could all work out a lot better.
 
->>>>>> **u/Farmerbob1** [+3]  *Level 1 author**
+>>>>>> **u/Farmerbob1** [+3]  *Level 1 author* (a day later)
 >>>>>> 
 >>>>>> I waited a while, hoping to come up with some profound-sounding statement, but I gave up.
->>>>>> What you say is so very true.  In both fiction, and real life.
 >>>>>> 
+>>>>>> What you say is so very true.  In both fiction, and real life.
 
->>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (6 days later)
 >>>>>> 
 >>>>>> Well said.
->>>>>> My **Rule 1 of negotiations**: the opening argument: We all want to come to an agreement that satisfies all of our goals.
->>>>>> You don't know how many multi-command meetings in the military went so much smoother after started using this.
->>>>>> Rule 1 addendum for people who don't get the point: We want this because otherwise we will all wast time and resources working against each other and end up worse off than if we had coopertated
 >>>>>> 
+>>>>>> My **Rule 1 of negotiations**: the opening argument: We all want to come to an agreement that satisfies all of our goals.
+>>>>>> 
+>>>>>> You don't know how many multi-command meetings in the military went so much smoother after started using this.
+>>>>>> 
+>>>>>> Rule 1 addendum for people who don't get the point: We want this because otherwise we will all wast time and resources working against each other and end up worse off than if we had coopertated
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (6 days later)
 >>>>>>> 
 >>>>>>> > Rule 1 addendum for people who don't get the point: We want this because otherwise we will all wast time and resources working against each other and end up worse off than if we had coopertated
->>>>>>> QFT.  Fictional superpowerful singletons, or fictional demons that eat suffering and discord, can *afford* not to cooperate.  Everyone else, not so much.
 >>>>>>> 
+>>>>>>> QFT.  Fictional superpowerful singletons, or fictional demons that eat suffering and discord, can *afford* not to cooperate.  Everyone else, not so much.
 
->> **u/redrach** [+3] *
+>> **u/redrach** [+3]  (6 hours later)
 >> 
 >> Sorry, but as much as I sympathize with the lead you can be damn well sure I'd put him in a box too. He was a human once, but all bets are off once he's digitized, especially as a poor copy with experimental technology.
->> 
 
->>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar* (2 days later)
 >>> 
 >>> I agree with you, redrach -- but how would you distinguish yourself from Dr Ajibana in order to cultivate and confirm that Dr Smith can and will become a fully-fledged FAI?
->>> 
 
->>>> **u/redrach** [+2] *
+>>>> **u/redrach** [+2]  (2 days later)
 >>>> 
 >>>> I'm afraid I'd have to admit to a lack of expertise in this field. As a layperson I would guess that we'd need to make conciliatory gestures to ensure he stays on our side, such as allowing his wife to visit. Then again that would be a substantial security risk, so I'm not certain if that's a good idea.
->>>> 
 
->>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm**
+>>>>> **u/Empiricist_or_not** [+3]  *Aspiring polite Hegemonizing swarm* (6 days later)
 >>>>> 
 >>>>> I would recommend Nick Bolstrom's book: [Superintellegences: Paths, Dangers Strategies](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) .  There are some obvious biases where I perceive he crafted his argument from his conclusions, but it's a nice survey that explains why this is perceived as an existential threat.  On the free side if you haven't read: *Friendship is optimal*, *A bluer shade of white* or *That Alien Message* and you are interested in the subject then you are missing some of the most approachable entries into the topic.
->>>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+4]  (12 hours later)
 >>> 
 >>> > He was a human once, but all bets are off once he's digitized
->>> Bullshit.  If the uploading works, *at all*, he's the same person.  If it works *badly*, then he's a crippled copy of the same person.
 >>> 
+>>> Bullshit.  If the uploading works, *at all*, he's the same person.  If it works *badly*, then he's a crippled copy of the same person.
 
->>>> **u/redrach** [+4] *
+>>>> **u/redrach** [+4]  (18 hours later)
 >>>> 
 >>>> No, because a digitized copy can change in ways that a normal human can't. You could start off human and very quickly evolve into something very different. The code he's running on needs to be trustworthy enough to discount that, and this particular code was written by the upload himself.
->>>> 
 
 ---
 

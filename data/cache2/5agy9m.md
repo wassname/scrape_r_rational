@@ -2,7 +2,7 @@
 
 * Author: u/oliwhail  *Omake-Maximizing AGI**
 * URL: https://www.reddit.com/r/rational/comments/5agy9m/rtffhf_marked_for_death_ch_80_fools_and_their/
-* Score: 16
+* Score: 15
 
 * Created: 2016-11-01T03:16:48
 
@@ -28,16 +28,15 @@ The first chapter is [here,](https://forums.sufficientvelocity.com/threads/marke
 
 ### Comments:
 
-> **u/oliwhail** [+3]  *Omake-Maximizing AGI**
+> **u/oliwhail** [+3]  *Omake-Maximizing AGI* (9 hours later)
 > 
 > PSA: u/eaglejarl has decided to mess with me by changing the chapter title to "Horrible Heights and Amazing Ambush", because he's a gigantic troll and knows I can't change the title of Reddit posts.
-> 
 
->> **u/eaglejarl** [+1] *
+>> **u/eaglejarl** [+1]  (13 hours later)
 >> 
 >> Heh.
->> Actually I did it because it was SUPPOSED to refer to the villain of the piece -- I had this scene planned for the case where you succeeded in capturing her, where the lot of you could banter back and forth and she could be prideful and arrogant despite being captured.  Sadly, I did not get to that scene, so the title makes no sense.  I didn't want the thread to think it referred to them so I changed it.
 >> 
+>> Actually I did it because it was SUPPOSED to refer to the villain of the piece -- I had this scene planned for the case where you succeeded in capturing her, where the lot of you could banter back and forth and she could be prideful and arrogant despite being captured.  Sadly, I did not get to that scene, so the title makes no sense.  I didn't want the thread to think it referred to them so I changed it.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/Tenoke  *Even the fuckin' trees walked in those movies**
 * URL: http://www.davidbarrkirtley.com/veilofignorancebydavidbarrkirtley.html
-* Score: 27
+* Score: 24
 
 * Created: 2014-08-25T13:04:48
 
@@ -12,20 +12,17 @@
 
 ### Comments:
 
-> **u/DaystarEld** [+3]  *Pokémon Professor**
+> **u/DaystarEld** [+3]  *Pokémon Professor* (2 hours later)
 > 
 > Oh man. I was planning on doing some very similar things with the psychics in the pokemon fanfic, and it was great to read someone else's take on what sharing/losing identity might feel like. Thank you for sharing this!
-> 
 
-> **u/Rangi42** [+1] *
+> **u/Rangi42** [+1]  (a day later)
 > 
 > This must be what [Instrumentality](http://tvtropes.org/pmwiki/pmwiki.php/Main/AssimilationPlot) feels like.
-> 
 
-> **u/Transfuturist** [+1]  *Carthago delenda est.**
+> **u/Transfuturist** [+1]  *Carthago delenda est.* (a month later)
 > 
 > Nice narrative depiction of the eponymous concept.
-> 
 
 ---
 

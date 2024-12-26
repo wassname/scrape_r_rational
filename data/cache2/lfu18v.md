@@ -2,7 +2,7 @@
 
 * Author: u/theFirstHaruspex *
 * URL: https://www.reddit.com/r/rational/comments/lfu18v/a_recommendation_for_elahrairah_by_anderein/
-* Score: 22
+* Score: 24
 
 * Created: 2021-02-09T03:58:10
 
@@ -34,245 +34,213 @@ The comment:
 
 ### Comments:
 
-> **u/EliezerYudkowsky** [+15]  *Godric Gryffindor**
+> **u/EliezerYudkowsky** [+15]  *Godric Gryffindor* (22 hours later)
 > 
 > I'll add "El-Ahrairah" to the list with "The Waves Arisen", "The Erogamer", and "Fargo", but still not that one thing I actually wrote, that's been recced on /r/rational a few times, which nobody ever suggests I wrote.
-> 
 
->> **u/maroon_sweater** [+2] *
+>> **u/maroon_sweater** [+2]  (a day later)
 >> 
 >> Why would anyone think you wrote Fargo, or any of those other things? Why do you think it's relevant they don't?
->> 
 
->> **u/theFirstHaruspex** [+1] *
+>> **u/theFirstHaruspex** [+1]  (3 days later)
 >> 
 >> Oh-- so is this the kind of thing that you would confirm if someone figured it out?
->> 
 
->>> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor**
+>>> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor* (3 days later)
 >>> 
 >>> Nope, I'd just quietly fade into not saying that anymore.
->>> 
 
->>>> **u/Dead_Atheist** [+5]  *Chaos Legion**
+>>>> **u/Dead_Atheist** [+5]  *Chaos Legion* (8 days later)
 >>>> 
 >>>> I wonder what's that amazingly rational reason you have to torment those of us who don't have time to read everything ever recced on r/rational.
->>>> 
 
->>>>> **u/theFirstHaruspex** [+1] *
+>>>>> **u/theFirstHaruspex** [+1]  (8 days later)
 >>>>> 
 >>>>> You said *torment?*
->>>>> Bruh, chill 😂
 >>>>> 
+>>>>> Bruh, chill 😂
 
->>>>>> **u/Dead_Atheist** [+6]  *Chaos Legion**
+>>>>>> **u/Dead_Atheist** [+5]  *Chaos Legion* (8 days later)
 >>>>>> 
 >>>>>> Not a native speaker! I was going to use "torture", then remembered an argument I had with a Christian who seemed to imply it was a big deal God was *tormenting* people in hell and not *torturing* which made it okay, so I thought it was a softer word and used it. But just now I googled and apparently they are synonyms  ¯\\\_(ツ)\_/¯
->>>>>> 
 
->>>>>>> **u/theFirstHaruspex** [+5] *
+>>>>>>> **u/theFirstHaruspex** [+5]  (8 days later)
 >>>>>>> 
 >>>>>>> You know what, I'm sorry for giving you a hard time about it. I've heard that English is a pretty weird language to learn when compared to other languages; I don't want to penalize you for what was a funny comment regardless.
->>>>>>> 
 
->>>>>>>> **u/Dead_Atheist** [+3]  *Chaos Legion**
+>>>>>>>> **u/Dead_Atheist** [+3]  *Chaos Legion* (8 days later)
 >>>>>>>> 
 >>>>>>>> Didn't mean to guilt you, all good! Wrote it because I thought It was mildly funny. Learning English was fairly smooth, actually :)
->>>>>>>> 
 
->>>>>>>>> **u/wren42** [+3] *
+>>>>>>>>> **u/wren42** [+3]  (14 days later)
 >>>>>>>>> 
 >>>>>>>>> the word choice was fine =)
->>>>>>>>> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> If you wrote Fargo, that would mean you wrote Chicago, and that would be very disappointing.
->> 
 
->>> **u/DragonGod2718** [+1] *
+>>> **u/DragonGod2718** [+1]  (a month later)
 >>> 
 >>> A link to Fargo please?
->>> 
 
->>>> **u/None** [+2] *
+>>>> **u/None** [+2]  (a month later)
 >>>> 
 >>>> [Here you go.](https://www.fanfiction.net/s/11228999/1/Fargo) It's pretty grimdark, but it's an interesting Madoka fic.
->>>> 
 
->>>>> **u/DragonGod2718** [+1] *
+>>>>> **u/DragonGod2718** [+1]  (a month later)
 >>>>> 
 >>>>> Thanks. Do I need to have watched Madoka to enjoy it?
->>>>> 
 
->>>>>> **u/None** [+2] *
+>>>>>> **u/None** [+2]  (a month later)
 >>>>>> 
 >>>>>> I would strongly recommend doing so. It's post-canon and deliberately builds off the ending of the third movie, and the mechanics established therein.
->>>>>> 
 
->> **u/cerebrum** [+1] *
+>> **u/cerebrum** [+1]  (9 days later)
 >> 
 >> Illusion of transparency? Also for those that do not regularly hang around it will be difficult to know what has been recced on /r/rational.
->> 
 
-> **u/RedSheepCole** [+10] *
+> **u/RedSheepCole** [+10]  (13 hours later)
 > 
 > Why is a Worm fanfic named after a character from Watership Down?
-> 
 
->> **u/sunshine_cata** [+10] *
+>> **u/sunshine_cata** [+10]  (13 hours later)
 >> 
 >> Yeah. I was really amused by the idea of a Watership Down rational fic. Sorta disappointed now.
->> 
 
->> **u/Auroch-** [+7]  *The Immortal Words**
+>> **u/Auroch-** [+8]  *The Immortal Words* (13 hours later)
 >> 
 >> She considered taking it as her cape name. It's a fairly accurate literal description: 'prince(ss) with a thousand enemies'.
->> 
 
-> **u/jingylima** [+17] *
+> **u/jingylima** [+17]  (49 minutes later)
 > 
 > Btw somewhat unrelated comment: why does worm use spacebattles for fanfic so much? It feels harder to read from than other sites
-> 
 
->> **u/None** [+24] *
+>> **u/None** [+24]  (4 hours later)
 >> 
 >> SB is a place where munchkins and worldbuilding addicts gather, which made it a natural home for Worm fans. Once a platform reaches critical mass for fandom, it becomes very hard to move off it, since you want to be where the fans are to participate in the community. So Worm fans post their content on SB, which perpetuates the assumption that SB is the place for Worm fans. A loop is born.
->> 
 
->> **u/theFirstHaruspex** [+10] *
+>> **u/theFirstHaruspex** [+10]  (an hour later)
 >> 
 >> I know exactly what you mean, and I have no idea. I mostly read from either a phone or a dedicated e-reader, so I use sites like [https://fichub.net/](https://fichub.net/) to download .epubs of fics on Spacebattles and SufficientVelocity.
->> 
 
->>> **u/Zarohk** [+11] *
+>>> **u/Zarohk** [+12]  (an hour later)
 >>> 
 >>> FanFicFare, an add-on for Calibre (the ebook management software), can scrape fics from Spacebattles and Sufficient Velocity quite well.
->>> 
 
->>>> **u/lillarty** [+5] *
+>>>> **u/lillarty** [+6]  (17 hours later)
 >>>> 
 >>>> FFF is great. Free and open source, and *highly* configurable so if you're picky about ebooks like I am you can spend a bit of time and all future ebooks will be exactly what you want. Sites like fichub are fine enough if I want to download something from my phone, but I'll always prefer FFF. 
->>>> Though I feel I should pont out that it's also available as a standalone program, ran from the command line. I've only used the Calibre version so I can't speak to the standalone version, but I have to imagine it's pretty much the same.
 >>>> 
+>>>> Though I feel I should pont out that it's also available as a standalone program, ran from the command line. I've only used the Calibre version so I can't speak to the standalone version, but I have to imagine it's pretty much the same.
 
->> **u/Amonwilde** [+1] *
+>> **u/Amonwilde** [+1]  (18 hours later)
 >> 
 >> Network effects.
->> 
 
-> **u/mannieCx** [+13] *
+> **u/mannieCx** [+14]  (12 hours later)
 > 
 > I was trying to get into but it was making me cringe how hard they were trying to make the protagonist into jack Slash v2. Like why would they all come to that conclusion? Feels so forced too
-> They even joked around calling her Jacqueline Cut as if this guy isn't a torturous psychopath killer that's probably killed and tortured everything from children to old people. Like what? Why would they even do that, that's like me attributing someone to Richard ramirez or Ted Bundy because they're charismatic. In universe it's a really bad decision for them to make, legit someone worse than Hitler
 > 
+> They even joked around calling her Jacqueline Cut as if this guy isn't a torturous psychopath killer that's probably killed and tortured everything from children to old people. Like what? Why would they even do that, that's like me attributing someone to Richard ramirez or Ted Bundy because they're charismatic. In universe it's a really bad decision for them to make, legit someone worse than Hitler
 
->> **u/Auroch-** [+5]  *The Immortal Words**
+>> **u/Auroch-** [+3]  *The Immortal Words* (a day later)
 >> 
 >> Taylor is a psycho too, just not one with a career as distinguished as Jack's; Weaver 9 worked for a reason. Wildbow's writing hides it somewhat, because she doesn't see *herself* as a psycho, but she terrifies everyone around her. So yes, they're comparing her to the scariest known monster that *definitely* was born human (well, except Sleeper). Because she is *fucking scary*.
->> And the thing where she was permanently tarred as Jack Slash 2 was Jack's idea, and part of his price for not cheating in their endgame. She arranged the Vegas duel to prove she should scare villains everywhere; he decided part of his price for 'fighting fair' was to leave her marked as a continuation of his story, since he was all about narrative.
 >> 
+>> And the thing where she was permanently tarred as Jack Slash 2 was Jack's idea, and part of his price for not cheating in their endgame. She arranged the Vegas duel to prove she should scare villains everywhere; he decided part of his price for 'fighting fair' was to leave her marked as a continuation of his story, since he was all about narrative.
 
->>> **u/mannieCx** [+3] *
+>>> **u/mannieCx** [+3]  (a day later)
 >>> 
 >>> Yeah that would be the case but that was not the tone taken in this fanfiction. They openly and forcibly (she hadn't done anything comparable to JS at that point in story) compare her to Jack Slash who commits so many known atrocities, some beyond what another human being could literally physically do to another. You take into account what Jack Slash means and all the really really bad stuff he's done against other heros and their family? Not to mention kids? It's as if I complimented someone for their ability to lead and said they're alot like Charles Manson or Hitler. It's ridiculous, unrealistic and cringey
->>> 
 
->>>> **u/Auroch-** [+2]  *The Immortal Words**
+>>>> **u/Auroch-** [+2]  *The Immortal Words* (a day later)
 >>>> 
 >>>> >  that was not the tone taken in this fanfictio
->>>> Yes it was? Everyone was scared of Administrator, except Cauldron. She's powerful and utterly ruthless, and doesn't try to hide it. Even the *Triumvirate* found her unnerving. The fear starts well before anyone makes the comparison. She scares *Glaistig Uaine* a little, for hell's sake (and then more than a little, when she >!sends her Jack!< as a present, but that's neither here nor there).
 >>>> 
+>>>> Yes it was? Everyone was scared of Administrator, except Cauldron. She's powerful and utterly ruthless, and doesn't try to hide it. Even the *Triumvirate* found her unnerving. The fear starts well before anyone makes the comparison. She scares *Glaistig Uaine* a little, for hell's sake (and then more than a little, when she >!sends her Jack!< as a present, but that's neither here nor there).
 
->>>>> **u/mannieCx** [+2] *
+>>>>> **u/mannieCx** [+2]  (a day later)
 >>>>> 
 >>>>> You just proved my point, they were scared of her because she was terrifying in scope of ability. That doesn't equal Jacqueline Cut. People are scared of Jack, not because of his ability but of the fucked up shit he's liable to do to any infants, kids and even heroes . That's a complete different type of fear, trying to equate it is being intellectually dishonest.
->>>>> 
 
->>>>>> **u/Auroch-** [+2]  *The Immortal Words**
+>>>>>> **u/Auroch-** [+2]  *The Immortal Words* (2 days later)
 >>>>>> 
 >>>>>> No, it's not a different type at all. People's reactions to Administrator are largely "I'm glad I'm not in her way", because she gives off the - accurate - vibe that if you *are* in her way very bad things will happen to you. And no one is really sure that 'very bad things' will actually stay north of Jack Slash (probably not even her). She's terrifying, not because she has *Administration: Coordination, Control-Locked*, but because *she is the kind of person who would be given that*. She is psychologically a baby Catastrophe, and only Contessa's direct recruitment preserved the 'baby' part. And that is a trait canon Taylor shares: she gets a powerful shard because psychologically, she can be relied upon to wreak havoc with whatever power (super- or mundane) she has available.
->>>>>> Jack Slash is not the only other Catastrophe in the world. But in America, he's the one people know. (Most also know Nilbog, probably Sleeper, and maybe the Machine Army guy, though in that case not by name. But everyone knows Jack Slash.)
 >>>>>> 
+>>>>>> Jack Slash is not the only other Catastrophe in the world. But in America, he's the one people know. (Most also know Nilbog, probably Sleeper, and maybe the Machine Army guy, though in that case not by name. But everyone knows Jack Slash.)
 
->>>>>>> **u/mannieCx** [-1] *
+>>>>>>> **u/mannieCx** [-1]  (2 days later)
 >>>>>>> 
 >>>>>>> Ehh agree to disagree. You make it sound cool , but It was executed in such a cringey way i couldn't help but roll my eyes . You still don't equate someone who does atrocities because they're being "cool and scary" . You can be into it, not gonna bash on you but it's so fucking edgy I can't lmao. Also why down vote me? Are you so insecure about your position because I'm engaging in discussion?
->>>>>>> Anyways I'm done, it was cringe and you like it, that's fine. Not really more to discuss I'm thinking
 >>>>>>> 
+>>>>>>> Anyways I'm done, it was cringe and you like it, that's fine. Not really more to discuss I'm thinking
 
->>>>>>>> **u/Auroch-** [+0]  *The Immortal Words**
+>>>>>>>> **u/Auroch-** [+0]  *The Immortal Words* (2 days later)
 >>>>>>>> 
 >>>>>>>> You're making up baseless shit. And don't even have the guts to defend your position when you're called on it.
->>>>>>>> 
 
->>>>>>>>> **u/mannieCx** [-2] *
+>>>>>>>>> **u/mannieCx** [-2]  (2 days later)
 >>>>>>>>> 
 >>>>>>>>> You're obviously very emotional that insulted a work you like got called cringe, at that point you're not arguing for debates sake. 
-
->>>>>>>>> There's no making up anything, its literal opinion and you're getting emotional someone doesn't share the same sentiment? You're butthurt and hostile, and you continue to be, you just weaken your argument when you show you can't even argue intelligently. But no , go on replying all upset, that's *very* constructive. I think it's cringe, and now you're cringe too dude, stop getting mad over an internet strangers opinion lmao. 
->>>>>>>>> /Thread. Cry if you want, I'm good. You stay mad, good day sir. You lost the argument as soon as you didn't understand what opinion is, but keep responding all salty, I'm expecting it already lmao. I'm here if you want to debate like a sensible person about again, opinions.
 >>>>>>>>> 
+>>>>>>>>> There's no making up anything, its literal opinion and you're getting emotional someone doesn't share the same sentiment? You're butthurt and hostile, and you continue to be, you just weaken your argument when you show you can't even argue intelligently. But no , go on replying all upset, that's *very* constructive. I think it's cringe, and now you're cringe too dude, stop getting mad over an internet strangers opinion lmao. 
+>>>>>>>>> 
+>>>>>>>>> /Thread. Cry if you want, I'm good. You stay mad, good day sir. You lost the argument as soon as you didn't understand what opinion is, but keep responding all salty, I'm expecting it already lmao. I'm here if you want to debate like a sensible person about again, opinions.
 
->>>>>>>>>> **u/Auroch-** [+0]  *The Immortal Words**
+>>>>>>>>>> **u/Auroch-** [+0]  *The Immortal Words* (2 days later)
 >>>>>>>>>> 
 >>>>>>>>>> So, you're both a coward *and* an asshole, and accuse me of being emotional when you're too smug to engage your brain. Yeah, good luck with that.
->>>>>>>>>> 
 
->>>>>>>>>>> **u/mannieCx** [+1] *
+>>>>>>>>>>> **u/mannieCx** [+1]  (2 days later)
 >>>>>>>>>>> 
 >>>>>>>>>>> Haha and you responded back 😭 you already lost the argument, you just keep proving you're still mad by responding. 
->>>>>>>>>>> Anyways I'm done, your insults don't mean anything and neither did your hostile opinion. You were proven wrong and you got hostile, GG kid. I'm blocking you since I know that will irate you even more as you seek to redeem yourself for whatever reason. You're the only one throwing insults because you didn't have your opinion validated.
->>>>>>>>>>> I'm afflicted with chronic and very painful genetic conditions, you're really gonna have to up your insults to hurt me lmao . Not to mention I'm mourning over someone I lost to a brain aneurysm recently . You immediately call me a coward and an asshole despite not knowing my personal situation. Sorry I got your so mad though buddy, sorry I don't have the energy to argue with someone I proved wrong and got angry about it. But no u/Auroch- you're the ass. Keep insulting me though over an opinion on a cringey book scene.
 >>>>>>>>>>> 
+>>>>>>>>>>> Anyways I'm done, your insults don't mean anything and neither did your hostile opinion. You were proven wrong and you got hostile, GG kid. I'm blocking you since I know that will irate you even more as you seek to redeem yourself for whatever reason. You're the only one throwing insults because you didn't have your opinion validated.
+>>>>>>>>>>> 
+>>>>>>>>>>> I'm afflicted with chronic and very painful genetic conditions, you're really gonna have to up your insults to hurt me lmao . Not to mention I'm mourning over someone I lost to a brain aneurysm recently . You immediately call me a coward and an asshole despite not knowing my personal situation. Sorry I got your so mad though buddy, sorry I don't have the energy to argue with someone I proved wrong and got angry about it. But no u/Auroch- you're the ass. Keep insulting me though over an opinion on a cringey book scene.
 
-> **u/Roneitis** [+5] *
+> **u/Roneitis** [+5]  (3 hours later)
 > 
 > Is there a blurb or description anywhere? SpaceBattles is weird. Also, is it done? The threadmarks make it look abandoned.
-> 
 
->> **u/lucidobservor** [+8] *
+>> **u/lucidobservor** [+7]  (11 hours later)
 >> 
 >> Basic premise: Taylor gets the same shard, but her powers manifest as a Thinker instead of a Master. Cauldron immediately recruits her, Thinkering ensues.
->> I'm pretty sure it's abandoned, but it ended at the end of a full arc. I liked it a lot and think it's worth a read, for what it's worth!
 >> 
+>> I'm pretty sure it's abandoned, but it ended at the end of a full arc. I liked it a lot and think it's worth a read, for what it's worth!
 
->>> **u/DuplexFields** [+4]  *New Lunar Republic**
+>>> **u/DuplexFields** [+4]  *New Lunar Republic* (17 hours later)
 >>> 
 >>> I’ve read it, and it’s one of the best alternate takes. It said pretty much what it set out to say in the space it used.
->>> 
 
->> **u/None** [+6] *
+>> **u/None** [+8]  (4 hours later)
 >> 
 >> Not necessarily abandoned, but currently inactive. Author doesn't have a set schedule and only writes as a hobby, as it goes with fanfic.
->> 
 
-> **u/Dufaer** [+5] *
+> **u/Dufaer** [+5]  (14 hours later)
 > 
 > I tried reading El-Ahrairah in the past and didn't like it. It had a too Taylor-wanky tone, IIRC.
-> I found that [Agent of Cauldron](https://forums.spacebattles.com/threads/agent-of-cauldron-worm.345669/) portrayed the internals of Cauldron in a way that felt much more realistic.
 > 
+> I found that [Agent of Cauldron](https://forums.spacebattles.com/threads/agent-of-cauldron-worm.345669/) portrayed the internals of Cauldron in a way that felt much more realistic.
 
->> **u/JackStargazer** [+7]  *Primordial Apologist**
+>> **u/JackStargazer** [+7]  *Primordial Apologist* (17 hours later)
 >> 
 >> I tried to read Agents of Cauldron. Emphasis on tried. It is such a disjointed chaotic mess, and it's not even written in such a way to make than enjoyable.
->> 
 
->> **u/bless_ure_harte** [+3] *
+>> **u/bless_ure_harte** [+4]  (2 days later)
 >> 
 >> I read it for a bit but I started noping out at the point where Taylor goes to Cauldron and says, paraphrased, "You have all been using your powers wrong, even though you've used them every day since 1987; I know one weird trick to using your power better, please subscribe to my free newsletter". It felt very /r/Iamverysmart to mr
->> 
 
->> **u/maroon_sweater** [+3] *
+>> **u/maroon_sweater** [+3]  (a day later)
 >> 
 >> AOC is definitely the superior portrayal of Cauldron. I didn't not somewhat enjoy El Vowels at one point in time, but the author doesn't get Cauldron.
->> I also find the i know that you know that i know that you know that i know that you know that i know that you know that i know that you know "thinker" stuff to be tiresome.
 >> 
+>> I also find the i know that you know that i know that you know that i know that you know that i know that you know that i know that you know "thinker" stuff to be tiresome.
 
->> **u/BavarianBarbarian_** [+2] *
+>> **u/BavarianBarbarian_** [+2]  (a day later)
 >> 
 >> I can't disagree about Agent of Cauldron being a mess, but it's a *beautiful* mess. At some point in the fic, it devolves into >!a pileup of dozens of plans of powerful shady conspiracy groups all acting at once and running into each others' contingencies.!<
->> 
 
 ---
 

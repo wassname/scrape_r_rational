@@ -2,7 +2,7 @@
 
 * Author: u/xamueljones  *My arch-enemy is entropy**
 * URL: https://www.reddit.com/r/rational/comments/2yys1i/lets_start_the_read_through/
-* Score: 38
+* Score: 36
 
 * Created: 2015-03-13T23:32:58
 
@@ -66,195 +66,169 @@ Wikia Links:
 
 ### Comments:
 
-> **u/None** [+4] *
+> **u/None** [+3]  (2 hours later)
 > 
 > [deleted]
-> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (3 hours later)
 >> 
 >> I have posted a link to the calendar in the above post.
->> 
 
->>> **u/None** [+7] *
+>>> **u/None** [+5]  (3 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/xamueljones** [+0]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+0]  *My arch-enemy is entropy* (20 hours later)
 >>>> 
 >>>> I've updated the post to have the relevant information.
->>>> 
 
->>> **u/VorpalAuroch** [+7]  *Life before Death**
+>>> **u/VorpalAuroch** [+5]  *Life before Death* (5 hours later)
 >>> 
 >>> You have not succeeded in your attempt to do so.
->>> 
 
->>>> **u/xamueljones** [+0]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+0]  *My arch-enemy is entropy* (20 hours later)
 >>>> 
 >>>> I've updated the post to have the relevant information.
->>>> 
 
->>> **u/riddle_n_plus_one** [+3] *
+>>> **u/riddle_n_plus_one** [+3]  (5 hours later)
 >>> 
 >>> That's a link to google calendar in general. That link doesn't take us to *your* google calendar.
->>> 
 
->>>> **u/xamueljones** [+0]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+0]  *My arch-enemy is entropy* (20 hours later)
 >>>> 
 >>>> I've updated the post to have the relevant information.
->>>> 
 
->>>>> **u/riddle_n_plus_one** [+1] *
+>>>>> **u/riddle_n_plus_one** [+1]  (a day later)
 >>>>> 
 >>>>> thanks
->>>>> 
 
->>> **u/Merdinus** [+1] *
+>>> **u/Merdinus** [+1]  (17 hours later)
 >>> 
 >>> pls update link incorrect
->>> 
 
->>>> **u/xamueljones** [+0]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+0]  *My arch-enemy is entropy* (20 hours later)
 >>>> 
 >>>> I've updated the post to have the relevant information.
->>>> 
 
-> **u/None** [+4] *
+> **u/None** [+4]  (10 hours later)
 > 
 > >5:00 PM (Pacific Time)
-> Not good for europeans like me.
 > 
+> Not good for europeans like me.
 
->> **u/None** [+4] *
+>> **u/None** [+5]  (14 hours later)
 >> 
 >> Neither for GMT+2'ers like me.
->> 
 
->> **u/Zephyr1011** [+4]  *Potentially Unfriendly Aspiring Divinity**
+>> **u/Zephyr1011** [+5]  *Potentially Unfriendly Aspiring Divinity* (14 hours later)
 >> 
 >> Seconded. This would be way too late for me, especially on weekdays
->> 
 
-> **u/flame7926** [+3]  *The Lone Power**
+> **u/flame7926** [+3]  *The Lone Power* (7 hours later)
 > 
 > Just curious, what's are the similarities and difference between this and hofstaders newer book, I Am A Strange Loop?
-> 
 
->> **u/JulianHyde** [+1] *
+>> **u/JulianHyde** [+1]  (2 days later)
 >> 
 >> Strange Loop was written because Hofstadter thought that one of the core messages of GEB had been lost on the average reader. He decided to be more direct.
->> Strange Loop is half as long, has linear structure, doesn't play around as much, has much less math, and is written to persuade the reader of a single idea (that consciousness arises from self-referential patterns in the brain) rather than playfully weaving a tapestry of interrelated ideas and defying categorization like GEB.
 >> 
+>> Strange Loop is half as long, has linear structure, doesn't play around as much, has much less math, and is written to persuade the reader of a single idea (that consciousness arises from self-referential patterns in the brain) rather than playfully weaving a tapestry of interrelated ideas and defying categorization like GEB.
 
-> **u/saurik** [+3] *
+> **u/saurik** [+3]  (8 days later)
 > 
 > You are linking to an illegal reproduction of this book (and one that you said on another thread said even has weird grammar errors, which to me makes it even worse to do that). The author once said this:
-> > Hello -- Sorry, there's no electronic version of GEB, nor will there be one. I don't like e-books! But I do hope you have a good time reading GEB. All the best to you and your co-readers. -- Douglas Hofstadter.
 > 
+> > Hello -- Sorry, there's no electronic version of GEB, nor will there be one. I don't like e-books! But I do hope you have a good time reading GEB. All the best to you and your co-readers. -- Douglas Hofstadter.
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (8 days later)
 >> 
 >> Whoops. I thought he deliberately littered the copy with multiple errors per page so that people who can't buy it can still read his book while keeping an incentive to actually the physical copy.
->> Sometimes I don't think overly much about when good things happen to me.
->> I removed it from the above post.
 >> 
+>> Sometimes I don't think overly much about when good things happen to me.
+>> 
+>> I removed it from the above post.
 
-> **u/MoralRelativity** [+2] *
+> **u/MoralRelativity** [+2]  (8 hours later)
 > 
 > OK, I'll play, but I'll have to rely on my memory of the book because I don't have time to read it all again. I've read it a few times and kinda, sorta, almost felt like I understood most of it. I'm looking forward to reading other comments and contributing when I can.
-> 
 
-> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity* (14 hours later)
 > 
 > >5:00 PM (Pacific Time)
-> I'd like to participate, but I live in the UK. This would be midnight or 1 in the morning for me, depending on whether this is on daylight saving time. Could it be done any earlier? Say 2:00 PM?
 > 
+> I'd like to participate, but I live in the UK. This would be midnight or 1 in the morning for me, depending on whether this is on daylight saving time. Could it be done any earlier? Say 2:00 PM?
 
-> **u/PlainDealingVillain** [+2] *
+> **u/PlainDealingVillain** [+2]  (22 hours later)
 > 
 > [Here's a calendar](https://www.google.com/calendar/embed?src=sbb8kfqbi5h2tiitp48cav939k%40group.calendar.google.com&ctz=America/Los_Angeles) for the readthrough.
-> EDIT: There seem to be issues here; separating Prelude into it's own section instead of grouping it with Chapter 10 like all the other dialogues seems wrong.
 > 
+> EDIT: There seem to be issues here; separating Prelude into it's own section instead of grouping it with Chapter 10 like all the other dialogues seems wrong.
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (22 hours later)
 >> 
 >> Oops. I read the table of contents a little oddly (minor formatting error on my downloaded copy). I'll just fold it into Chapter #9 (Mumon and Gödel)'s dialogue.
->> Nice catch!
 >> 
+>> Nice catch!
 
->>> **u/PlainDealingVillain** [+1] *
+>>> **u/PlainDealingVillain** [+1]  (a day later)
 >>> 
 >>> All right, calendar updated properly for that adjustment. I don't have time to participate (though I've already read and enjoyed GEB), so PM with your email if you want edit permissions for this calendar for the future.
->>> 
 
->>>> **u/xamueljones** [+0]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+0]  *My arch-enemy is entropy* (a day later)
 >>>> 
 >>>> Thanks, but I think I'll go the lazy route of simply just posting the dates for each chapter at the bottom of each discussion post.
->>>> 
 
-> **u/Darth_Hobbes** [+2]  *Ankh-Morpork Guild of Assassins**
+> **u/Darth_Hobbes** [+2]  *Ankh-Morpork Guild of Assassins* (a day later)
 > 
 > I'll try to catch up with you guys in a week after my finals are over.
-> 
 
-> **u/JulianHyde** [+2] *
+> **u/JulianHyde** [+2]  (a day later)
 > 
 > In case anyone's interested, there's also an [MIT course on GEB](http://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach) available free online.
-> 
 
->> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 days later)
 >> 
 >> Thanks! I'm reading through the lecture notes so I can have a list of thought-provoking questions ready for each discussion post.
->> 
 
->>> **u/JulianHyde** [+1] *
+>>> **u/JulianHyde** [+1]  (2 days later)
 >>> 
 >>> Glad to help! Also, Metamagical Themas is the natural followup, if you wanted to discuss it later for those who want to continue with the same ideas.
->>> 
 
->>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 days later)
 >>>> 
 >>>> Thanks. I'll probably do so.
->>>> 
 
-> **u/None** [+2] *
+> **u/None** [+2]  (a day later)
 > 
 > Thank you very much for arranging this!
-> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (3 hours later)
 > 
 > [deleted]
-> 
 
->> **u/analogkid01** [+1] *
+>> **u/analogkid01** [+1]  (6 hours later)
 >> 
 >> Anything that arouses you arouses me.
->> Wait, that may not be entirely true...
 >> 
+>> Wait, that may not be entirely true...
 
-> **u/Articanine** [+1]  *Imperium of Man**
+> **u/Articanine** [+1]  *Imperium of Man* (4 hours later)
 > 
 > Can you post a link to an online version of the book
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (14 hours later)
 >> 
 >> http://www.physixfan.com/wp-content/files/GEBen.pdf
->> You're welcome.
 >> 
+>> You're welcome.
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (14 hours later)
 >> 
 >> Well, I certainly couldn't *post* one, but I assure you that if you search for "Goedel Escher Bach mobi/pdf/$FORMAT" and one other word beginning with "T" on Google, you will find ways of getting the book.
->> 
 
-> **u/polardoge** [+1]  *LessWrong (than usual)**
+> **u/polardoge** [+1]  *LessWrong (than usual)* (2 days later)
 > 
 > Posted an invitation at over /r/GEB [here](http://www.reddit.com/r/GEB/comments/2z89nm/2015_read_through_at_rrational/), if some of you could upvote it it's more likely that some of them will see it (the sub has 3,7k readers, but is mostly dead so I doubt many check it).
-> 
 
 ---
 

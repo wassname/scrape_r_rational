@@ -2,7 +2,7 @@
 
 * Author: u/mrphaethon  *Significant Digits**
 * URL: http://www.anarchyishyperbole.com/2015/11/significant-digits-chapter-thirty.html
-* Score: 12
+* Score: 16
 
 * Created: 2015-11-22T05:06:48
 
@@ -12,11 +12,11 @@
 
 ### Comments:
 
-> **u/mrphaethon** [+1]  *Significant Digits**
+> **u/mrphaethon** [+1]  *Significant Digits* (13 seconds later)
 > 
 > /r/hpmor comment thread:
-> https://www.reddit.com/r/HPMOR/comments/3ts4xi/significant_digits_chapter_thirty_ekkyklema/
 > 
+> https://www.reddit.com/r/HPMOR/comments/3ts4xi/significant_digits_chapter_thirty_ekkyklema/
 
 ---
 

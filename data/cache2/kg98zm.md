@@ -23,387 +23,414 @@ Good Luck and Have Fun!
 
 ### Comments:
 
-> **u/scruiser** [+11]  *CYOA**
+> **u/scruiser** [+12]  *CYOA* (an hour later)
 > 
 > You can continuously renew the supply of any handheld common item that is meant to be used continuously and steadily: a roll of duct tape, a can of spray paint, a spool of wire, a ball of yarn, etc.
-> A few limitations: 
-> * The supply isn’t inexhaustible, it renews only as used and has a maximum rate of renewal of about 1.5% a second.  You are unlikely to exhaust a big ball of yarn, but a small bundle of rope might be used up (counting as used as it comes unbundled) faster than your power renews it.
-> * The item must be sufficiently common, a custom ordered canister of Gold spray paint won’t work with the power.  A limited mass production run might if it is made in sufficient quantity.
-> * It must be sufficiently continuous and contiguous.  A pitcher of water poured out wouldn’t work with this power, but a jug with a good nozzle might and with a miniature pump setup that makes the water flow steady and continuous definitely would.
-> * The item must be held to use this power.  The item must be small enough that you can lift it without mechanical assistance.
-> So munchkin ideas for
-> * the real world
-> * a post apocalyptic setting
-> * street tier superheroes
 > 
+> A few limitations: 
+> 
+> * The supply isn’t inexhaustible, it renews only as used and has a maximum rate of renewal of about 1.5% a second.  You are unlikely to exhaust a big ball of yarn, but a small bundle of rope might be used up (counting as used as it comes unbundled) faster than your power renews it.
+> 
+> * The item must be sufficiently common, a custom ordered canister of Gold spray paint won’t work with the power.  A limited mass production run might if it is made in sufficient quantity.
+> 
+> * It must be sufficiently continuous and contiguous.  A pitcher of water poured out wouldn’t work with this power, but a jug with a good nozzle might and with a miniature pump setup that makes the water flow steady and continuous definitely would.
+> 
+> * The item must be held to use this power.  The item must be small enough that you can lift it without mechanical assistance.
+> 
+> So munchkin ideas for
+> 
+> * the real world
+> 
+> * a post apocalyptic setting
+> 
+> * street tier superheroes
 
->> **u/ArmokGoB** [+14] *
+>> **u/ArmokGoB** [+15]  (5 hours later)
 >> 
 >> Scuba diving, being able to stay down *forever* is far more discontinuously useful than almost any similar area. 
->> You might be able to use a leafblower to create air from nothing, and because the supply is the entire atmosphere the 1.5% thing is still a lot of air. 
->> Either of these are especially useful on a spaceship.
 >> 
+>> You might be able to use a leafblower to create air from nothing, and because the supply is the entire atmosphere the 1.5% thing is still a lot of air. 
+>> 
+>> Either of these are especially useful on a spaceship.
 
->> **u/LazarusRises** [+11] *
+>> **u/LazarusRises** [+10]  (an hour later)
 >> 
 >> Real world: I don't munchkin it, I just enjoy never having to buy duct tape or twine again.
->> Post-apocalypse: freshwater is probably the most valuable application. Build the biggest pump you can hold and supply everyone in your settlement with water as needed. If nutrition isn't an issue, work out a lot so you can hold bigger pumps. (Also see if you can make "continuously distributed coils of sausage" popular enough for your power to take hold.)
->> Street capes: The Winch is a big dude who carries a spool of chain on his back, as well as bolt cutters to snip it as needed. He's not very powerful.
 >> 
+>> Post-apocalypse: freshwater is probably the most valuable application. Build the biggest pump you can hold and supply everyone in your settlement with water as needed. If nutrition isn't an issue, work out a lot so you can hold bigger pumps. (Also see if you can make "continuously distributed coils of sausage" popular enough for your power to take hold.)
+>> 
+>> Street capes: The Winch is a big dude who carries a spool of chain on his back, as well as bolt cutters to snip it as needed. He's not very powerful.
 
->>> **u/scruiser** [+5]  *CYOA**
+>>> **u/scruiser** [+5]  *CYOA* (an hour later)
 >>> 
 >>> The coil of sausage is a great idea.  Now that you got me thinking if it a pasta extruded and flour supply should work as well.
->>> 
 
->> **u/KilotonDefenestrator** [+7] *
+>> **u/KilotonDefenestrator** [+7]  (2 hours later)
 >> 
 >> **Real world**
->> I'm thinking finding an expensive liquid (scorpion venom, insulin, human blood, Horshoe crab blood, etc), put it in a common mass produced container of some kind that comes with a faucet or drip mechanism, like one of those water jugs for camping.  
->> Make it as big as possible while I can still lift it once, briefly (spend a few weeks in the gym first for the low hanging fruit gains). Then sit next to it and hold it to constantly produce while I surf, read, play games etc with my other hand. 
->> If I can't get a deal for a large volume; start small and save up the produced liquid for progressively bigger vessels.
-
->> **Post apocalypse**
->> Same as above but water, fuel, antibiotics, insulin, etc. Keep vessels of many sizes around so that I can produce more of whatever valuable liquids are found.
 >> 
+>> I'm thinking finding an expensive liquid (scorpion venom, insulin, human blood, Horshoe crab blood, etc), put it in a common mass produced container of some kind that comes with a faucet or drip mechanism, like one of those water jugs for camping.  
+>> 
+>> Make it as big as possible while I can still lift it once, briefly (spend a few weeks in the gym first for the low hanging fruit gains). Then sit next to it and hold it to constantly produce while I surf, read, play games etc with my other hand. 
+>> 
+>> If I can't get a deal for a large volume; start small and save up the produced liquid for progressively bigger vessels.
+>> 
+>> **Post apocalypse**
+>> 
+>> Same as above but water, fuel, antibiotics, insulin, etc. Keep vessels of many sizes around so that I can produce more of whatever valuable liquids are found.
 
->>> **u/Norseman2** [+8] *
+>>> **u/Norseman2** [+9]  (6 hours later)
 >>> 
 >>> The liquids you suggested are a bit problematic, since all of them would require FDA approval to allow you to sell them. Additionally, the most profitable one there is scorpion venom at about $10,300/mL, but it might not count as being "sufficiently common". Aside from that though, insulin goes for about $32/mL, horseshoe crab blood at about $16/mL, and human blood at about $1/mL.
->>> A better alternative, if it counts, might be molten gold. That wouldn't require FDA approval and could sell for about $400/mL.
 >>> 
+>>> A better alternative, if it counts, might be molten gold. That wouldn't require FDA approval and could sell for about $400/mL.
 
->>>> **u/KilotonDefenestrator** [+5] *
+>>>> **u/KilotonDefenestrator** [+4]  (6 hours later)
 >>>> 
 >>>> I was thinking I would be working with an established medical company. 
->>>> I considered gold, but I thought it would be problematic to pass off the device that maintains gold at a liquid state and drips it out at 1,5% per second as a "common handheld item". 
->>>> The containers in my medical examples would be simple, off the shelf products. Just the contents would be special.
 >>>> 
+>>>> I considered gold, but I thought it would be problematic to pass off the device that maintains gold at a liquid state and drips it out at 1,5% per second as a "common handheld item". 
+>>>> 
+>>>> The containers in my medical examples would be simple, off the shelf products. Just the contents would be special.
 
->>>>> **u/Norseman2** [+10] *
+>>>>> **u/Norseman2** [+9]  (8 hours later)
 >>>>> 
 >>>>> Actually, just realized a much easier solution. Simply unspool a large cable reel of gold wiring.
->>>>> 
 
->>>>>> **u/KilotonDefenestrator** [+5] *
+>>>>>> **u/KilotonDefenestrator** [+6]  (8 hours later)
 >>>>>> 
 >>>>>> Huh. Clever. Obvious in hindsight, like simple elegant solutions often are. Probably hard to beat value generated too.
->>>>>> 
 
->>>>>> **u/scruiser** [+5]  *CYOA**
+>>>>>> **u/scruiser** [+4]  *CYOA* (11 hours later)
 >>>>>> 
 >>>>>> I figured there was probably some way of making something to sell with this power, but I didn't realize the solution was that simple and elegant.  You can literally buy mass produced Gold wire off Amazon, so it counts as "common".  Nicely done.
->>>>>> 
 
->>>>>>> **u/Nomorethisplz** [+1] *
+>>>>>>> **u/Nomorethisplz** [+1]  (8 days later)
 >>>>>>> 
 >>>>>>> Okam’s razor in all its glory! :) 
->>>>>>> Speaking of razors, could you used an item like a razor to constantly produce more hair for clothing and blankets and stuff for the apocalypse scenario? Or a hoover to suck up something rare like gold chunks or powder or something and then slowly empty the hoover to produce a renewable supply of things which are rare since they’re using a common item?
 >>>>>>> 
+>>>>>>> Speaking of razors, could you used an item like a razor to constantly produce more hair for clothing and blankets and stuff for the apocalypse scenario? Or a hoover to suck up something rare like gold chunks or powder or something and then slowly empty the hoover to produce a renewable supply of things which are rare since they’re using a common item?
 
->> **u/ShiranaiWakaranai** [+5] *
+>> **u/ShiranaiWakaranai** [+5]  (5 hours later)
 >> 
 >> Do electronics count? If I hold an iPhone in my hand, it is continuously and steadily consuming electricity, at a rate of less than 1.5% per second. It is extremely common, and the power is drained continuously and contiguously. And I can hold it in my hand.
->> So would this mean any common handheld electronic will never ever run out of power as long as I hold it? For that matter, a laptop isn't too difficult to hold with one hand. Can I recharge one from 0% to 100% power just by holding it for slightly over a minute? Do I even need to hold it, or can my power reach any handheld item even if I am not holding it?
->> What about "digital" money? For example, phones have balances (or minutes) that are continuously drained as you make calls. If you hold your phone, does this balance renew?
 >> 
+>> So would this mean any common handheld electronic will never ever run out of power as long as I hold it? For that matter, a laptop isn't too difficult to hold with one hand. Can I recharge one from 0% to 100% power just by holding it for slightly over a minute? Do I even need to hold it, or can my power reach any handheld item even if I am not holding it?
+>> 
+>> What about "digital" money? For example, phones have balances (or minutes) that are continuously drained as you make calls. If you hold your phone, does this balance renew?
 
->>> **u/scruiser** [+4]  *CYOA**
+>>> **u/scruiser** [+4]  *CYOA* (6 hours later)
 >>> 
 >>> Digital money doesn’t count.  An external battery pack giving electricity to something else will work, the battery within a device won’t.
->>> 
 
->> **u/skullcandy231** [+2] *
+>> **u/skullcandy231** [+2]  (an hour later)
 >> 
 >> How much of it can you summon at once and how quickly?
->> 
 
->>> **u/scruiser** [+3]  *CYOA**
+>>> **u/scruiser** [+5]  *CYOA* (an hour later)
 >>> 
 >>> 1.5% per second of the total unused supply.  So for a 100 m long ball of twine you could unspool 1.5 m (150 cm) per second and not exhaust the supply.  Whereas for a 1 m length, you could only unspool 1.5 cm per second.  If you exceed these limits you will be using your supply faster than you are replenishing it.
->>> 
 
->>>> **u/ShiranaiWakaranai** [+2] *
+>>>> **u/ShiranaiWakaranai** [+2]  (5 hours later)
 >>>> 
 >>>> Can you renew something after it is completely depleted?
->>>> For example, a wax candle would continuously use up it's wax, until all that remains is the wick. Can you then pick up the wick and renew it to get a candle back?
->>>> What about a [Sparkler](https://en.wikipedia.org/wiki/Sparkler)? Can you pick up burnt out sparklers and renew them? 
->>>> Because for a post apocalyptic scenario, renewing sparklers would let you make lots of renewable sparkler bombs. (Note: This is illegal, do not attempt to make unless in a lawless post apocalyptic scenario.)
 >>>> 
+>>>> For example, a wax candle would continuously use up it's wax, until all that remains is the wick. Can you then pick up the wick and renew it to get a candle back?
+>>>> 
+>>>> What about a [Sparkler](https://en.wikipedia.org/wiki/Sparkler)? Can you pick up burnt out sparklers and renew them? 
+>>>> 
+>>>> Because for a post apocalyptic scenario, renewing sparklers would let you make lots of renewable sparkler bombs. (Note: This is illegal, do not attempt to make unless in a lawless post apocalyptic scenario.)
 
->>>>> **u/scruiser** [+2]  *CYOA**
+>>>>> **u/scruiser** [+2]  *CYOA* (6 hours later)
 >>>>> 
 >>>>> There has to be something of it left.  For example with a candle at least some wax would need to be left for the wax to be renewed.  Although with ordinary usage of the candle, starting from a complete state, the power would renew both wax and wick and the candle wouldn’t run out as longer as it burned slower than a rate of 1.5% per second.  
->>>>> Restoring an almost used up candle is tricky.  The item needs to be in use for the power to activate and renew it, so you would need a way of slowing the burning rate of an almost used up candle to restore it... as long as the remaining candle would take longer than 94 seconds to be used up with your power and had both a little wax and wick left the power would eventually restore it as it burned.
->>>>> For the sparkler, rig it up so a small portion of it won’t burn properly, use it, the retrieve the unburned portion and burn it slowly?  I haven’t used a sparkler in a while so I’m not sure that would work.
 >>>>> 
+>>>>> Restoring an almost used up candle is tricky.  The item needs to be in use for the power to activate and renew it, so you would need a way of slowing the burning rate of an almost used up candle to restore it... as long as the remaining candle would take longer than 94 seconds to be used up with your power and had both a little wax and wick left the power would eventually restore it as it burned.
+>>>>> 
+>>>>> For the sparkler, rig it up so a small portion of it won’t burn properly, use it, the retrieve the unburned portion and burn it slowly?  I haven’t used a sparkler in a while so I’m not sure that would work.
 
->>>>> **u/wikipedia_text_bot** [+1] *
+>>>>> **u/wikipedia_text_bot** [+1]  (5 hours later)
 >>>>> 
 >>>>> **[Sparkler](https://en.wikipedia.org/wiki/Sparkler)**
->>>>> A sparkler is a type of hand-held firework that burns slowly while emitting colored flames, sparks, and other effects. In the United Kingdom, a sparkler is often used by children at bonfire and fireworks displays on Guy Fawkes Night, the fifth of November, and in the United States on Independence Day. They are called Phool Jhadi in India and are popular during the Diwali festival.  
->>>>> [About Me](https://np.reddit.com/user/wikipedia_text_bot/comments/jrn2mj/about_me/) - [Opt out](https://np.reddit.com/user/wikipedia_text_bot/comments/jrti43/opt_out_here/) - OP can reply !delete to delete - [Article of the day](https://np.reddit.com/comments/k9hx22)
->>>>> **This bot will soon be transitioning to an opt-in system. Click [here](https://np.reddit.com/user/wikipedia_text_bot/comments/ka4icp/opt_in_for_the_new_system/) to learn more and opt in.**
 >>>>> 
+>>>>> A sparkler is a type of hand-held firework that burns slowly while emitting colored flames, sparks, and other effects. In the United Kingdom, a sparkler is often used by children at bonfire and fireworks displays on Guy Fawkes Night, the fifth of November, and in the United States on Independence Day. They are called Phool Jhadi in India and are popular during the Diwali festival.  
+>>>>> 
+>>>>> [About Me](https://np.reddit.com/user/wikipedia_text_bot/comments/jrn2mj/about_me/) - [Opt out](https://np.reddit.com/user/wikipedia_text_bot/comments/jrti43/opt_out_here/) - OP can reply !delete to delete - [Article of the day](https://np.reddit.com/comments/k9hx22)
+>>>>> 
+>>>>> **This bot will soon be transitioning to an opt-in system. Click [here](https://np.reddit.com/user/wikipedia_text_bot/comments/ka4icp/opt_in_for_the_new_system/) to learn more and opt in.**
 
->> **u/Laguz01** [+2] *
+>> **u/Laguz01** [+2]  (12 hours later)
 >> 
 >> Small usages of the power, never run out of lighter fluid. Has been smoking the same cigarette since 1987. Never runs out of alcohol in a hip flask. Never runs out of toothpaste in tube. Never runs out of shampoo, conditioner, hand soap, bleach, or any kind or common consumable. Never runs out of coolant, or antifreeze, and never has to re fill on oil. Never runs out of propane when grilling. Never runs out of spices, or condiments. Never runs out of chewing tobacco. Only bought licorice once.
->> 
 
->> **u/Nomorethisplz** [+2] *
+>> **u/Nomorethisplz** [+2]  (8 days later)
 >> 
 >> For the real world I would use one of those money guns and continuously shoot money out of it to effectively print money (or would the process of taking out the fake money and filling the toy with real money count as the object being used up? Could you refill an empty can of spray paint with a different colour of paint and have the power work to restore it? If so would it restore the new or old colour).
->> You could use a tube of icing like the ones in a bakery to create a constant supply of high concentration sugar which can be used to flavour lackluster apocalypse food, salt shakers can be used to create much needed electrolytes and smoothies and juices can be drunk continuously to regain much needed vitamins which might be useful in an apocalypse where fruit is hard to come by, sunflower oil can be continuously poured out and stored in glass bottles to be used in Molotov cocktails and a pack of seeds could be used to cover huge swathes of land in seeds which is especially useful for people who haven’t gardened before since now they have an infinite supply of seeds to test on or they can just eat the seeds continuously if it goes that poorly. I’m not sure if things go off when using this power so I don’t know if you can just continuously pour out fruit juice or if after a few days nasty, chunky, expired juice comes out? If it replaces the old stuff with new stuff is that fresh and sustainable forever? E.g. pouring out milk all day into other containers, pouring the milk from those containers into containers, are these most recent containers of milk full of fresh milk or 2 day old milk? If it’s the former you could have infinite luxury so long as you manage the goods correctly but if it’s the latter I think you might be in trouble, of course the off stuff has uses too so the power is still useful e.g. as fertiliser for the gardening projects mentioned above with the pack of seeds.
->> A street tier superhero: pepper spray woman, utilises canisters of pepper spray all over her body to fend off attackers. She has multiple cans so that if she needs to use more than 1.5% per second she can switch between them to maintain her supply.
 >> 
+>> You could use a tube of icing like the ones in a bakery to create a constant supply of high concentration sugar which can be used to flavour lackluster apocalypse food, salt shakers can be used to create much needed electrolytes and smoothies and juices can be drunk continuously to regain much needed vitamins which might be useful in an apocalypse where fruit is hard to come by, sunflower oil can be continuously poured out and stored in glass bottles to be used in Molotov cocktails and a pack of seeds could be used to cover huge swathes of land in seeds which is especially useful for people who haven’t gardened before since now they have an infinite supply of seeds to test on or they can just eat the seeds continuously if it goes that poorly. I’m not sure if things go off when using this power so I don’t know if you can just continuously pour out fruit juice or if after a few days nasty, chunky, expired juice comes out? If it replaces the old stuff with new stuff is that fresh and sustainable forever? E.g. pouring out milk all day into other containers, pouring the milk from those containers into containers, are these most recent containers of milk full of fresh milk or 2 day old milk? If it’s the former you could have infinite luxury so long as you manage the goods correctly but if it’s the latter I think you might be in trouble, of course the off stuff has uses too so the power is still useful e.g. as fertiliser for the gardening projects mentioned above with the pack of seeds.
+>> 
+>> A street tier superhero: pepper spray woman, utilises canisters of pepper spray all over her body to fend off attackers. She has multiple cans so that if she needs to use more than 1.5% per second she can switch between them to maintain her supply.
 
->>> **u/TheSunflowerSeeds** [+3] *
+>>> **u/TheSunflowerSeeds** [+3]  (8 days later)
 >>> 
 >>> Eating sunflower seeds in the shell may increase your odds of fecal impaction, as you may unintentionally eat shell fragments, which your body cannot digest.
->>> 
 
->>>> **u/Nomorethisplz** [+1] *
+>>>> **u/Nomorethisplz** [+1]  (8 days later)
 >>>> 
 >>>> Thank you I never knew that! :) perhaps for the farming and agriculture i will use nuts and tree seeds instead such as apple and pecan, I don’t know about apple seeds but I think pecan nuts are edible? Also using trees will probably result in consistent yields of food without having to spend all your time and effort looking after them considering trees can pretty much take care of themselves and even replant more of themselves without your intervention, you can just pick the fruit or nuts (think if it’s a pecan tree you’d shake it instead) when they’re ready! :D
->>>> Because of your username I imagined the sunflower seeds in the seedpack saying that to make themselves less appealing like “please don’t eat me! I don’t taste good, you might suffer from fecal impaction and...” or being extremely helpful, maybe as a sort of hunger driven delusion made by the mind to prevent the hungry human from eating something dangerous even if they’re really hungry haha :)
 >>>> 
+>>>> Because of your username I imagined the sunflower seeds in the seedpack saying that to make themselves less appealing like “please don’t eat me! I don’t taste good, you might suffer from fecal impaction and...” or being extremely helpful, maybe as a sort of hunger driven delusion made by the mind to prevent the hungry human from eating something dangerous even if they’re really hungry haha :)
 
->> **u/jtolmar** [+1] *
+>> **u/jtolmar** [+1]  (10 hours later)
 >> 
 >> Find the lightest common model of ATM, buy one and put it into whatever maintenance mode the operators use to test the dispenser, and use your superpower to refill it as it dispenses. Now you have a very fast and convincing way to forge money.
->> 
 
->> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade* (18 hours later)
 >> 
 >> Attach a bunch of paint spray cans to the back of a spaceship, infinite acceleration with infinite fuel. You can even do interstellar travel with enough of those.
->> 
 
->> **u/Dezoufinous** [+1] *
+>> **u/Dezoufinous** [+1]  (a day later)
 >> 
 >> **First of all, I would check if it's working with machine guns, preferably the ones with big clips and automatic fire...**
->> 
 
-> **u/CaramilkThief** [+7] *
+> **u/CaramilkThief** [+7]  (4 hours later)
 > 
 > You can materialize 99% pure iron, up to 100 kg of it, in any structure you can visualize the entirety of it in. It could be a monomolecular string 1000 km long, or a solid block. You can only go to the limit of materializing singular iron molecules, no smaller. You can only materialize 99% pure, inert iron. No isotopes, or allotropes, or alloys. Once you hit your quota of 100 kg, you must wait 24 hours before you can use your power again. 
-> The materialization happens in a radius of 25m, with the structure happening much like a 3d printer (layer by layer), but at a much higher speed. For example, you can materialize a single block of 100kg of iron in 1 second. More intricate/smaller objects take longer depending on how much concentration and mental acuity you need to visualize it. A woven blanket of monomolecular iron strings would take days of concentration. You can't materialize things inside people, or inside of buildings or objects that you can't see into. You can only materialize stationary things, and once your materializations are in the real world they are acted upon by real world physics. 
-> Try and munchkin this in:
-> * the real world
-> * Generic medieval western fantasy setting
 > 
+> The materialization happens in a radius of 25m, with the structure happening much like a 3d printer (layer by layer), but at a much higher speed. For example, you can materialize a single block of 100kg of iron in 1 second. More intricate/smaller objects take longer depending on how much concentration and mental acuity you need to visualize it. A woven blanket of monomolecular iron strings would take days of concentration. You can't materialize things inside people, or inside of buildings or objects that you can't see into. You can only materialize stationary things, and once your materializations are in the real world they are acted upon by real world physics. 
+> 
+> Try and munchkin this in:
+> 
+> * the real world
+> 
+> * Generic medieval western fantasy setting
 
->> **u/ShiranaiWakaranai** [+6] *
+>> **u/ShiranaiWakaranai** [+6]  (5 hours later)
 >> 
 >> How quickly can I visualize iron dust?   
 >> It's dust, so the shape doesn't matter and can be whatever is easiest to visualize. 
->> If you can do so very quickly, you can materialize a cloud of iron dust around your opponent, then set it on fire. 
->> If not so quickly, you can materialize tiny invisible amounts of iron dust in an enemy's mouth whenever you see them open it, slowly poisoning them to death.
 >> 
+>> If you can do so very quickly, you can materialize a cloud of iron dust around your opponent, then set it on fire. 
+>> 
+>> If not so quickly, you can materialize tiny invisible amounts of iron dust in an enemy's mouth whenever you see them open it, slowly poisoning them to death.
 
->>> **u/CaramilkThief** [+5] *
+>>> **u/CaramilkThief** [+5]  (7 hours later)
 >>> 
 >>> Dust isn't very complicated but it's very small. You wouldn't be able to make an explosion of iron dust but you'd maybe be able to materialize enough per second to make a slight fog. Still very flammable, and explosive. 
->>> Technically, you could use up your concentration to build straight up machines one part at a time. Like building a gun one part at a time, or a lathe. Of course, you'd need to pick mechanisms that work with the strengths of pure iron.
 >>> 
+>>> Technically, you could use up your concentration to build straight up machines one part at a time. Like building a gun one part at a time, or a lathe. Of course, you'd need to pick mechanisms that work with the strengths of pure iron.
 
->>>> **u/Frommerman** [+2] *
+>>>> **u/Frommerman** [+2]  (18 hours later)
 >>>> 
 >>>> Pure iron shouldn't be too much of an issue because it would be completely solid. Much of the issue with early ironworking was that you'd either have bubbles in cast iron pieces or stress fractures in wrought iron pieces. If you're manifesting the iron ex nihilo, that is less of an issue.
->>>> 
 
->>>> **u/Nomorethisplz** [+1] *
+>>>> **u/Nomorethisplz** [+1]  (9 days later)
 >>>> 
 >>>> There’s an anime called Angel Beats where characters have a very similar ability to the one described in your prompt and some characters use it to create a weapons factory and make guns one part at a time as well as these enormous factories.
->>>> 
 
->> **u/PastafarianGames** [+5] *
+>> **u/PastafarianGames** [+5]  (5 hours later)
 >> 
 >> 1kg into low earth orbit is a minimum of 32 MJ or 32,000,000J.
->> 100kg at the top of a 400m building is 392,000 J. 100kg at the top of an 850m building is 833,000.
->> My initial thought was to use the iron as a space-launch system using its potential energy but unfortunately even assuming total conversion of its potential energy and perfect storage of same, it's about one month per kilogram launched, and 1kg into LEO is only worth like a few grand.
->> Damn. There goes my brilliant plan.
 >> 
+>> 100kg at the top of a 400m building is 392,000 J. 100kg at the top of an 850m building is 833,000.
+>> 
+>> My initial thought was to use the iron as a space-launch system using its potential energy but unfortunately even assuming total conversion of its potential energy and perfect storage of same, it's about one month per kilogram launched, and 1kg into LEO is only worth like a few grand.
+>> 
+>> Damn. There goes my brilliant plan.
 
->>> **u/ricree** [+2] *
+>>> **u/ricree** [+2]  (a day later)
 >>> 
 >>> > My initial thought was to use the iron as a space-launch system using its potential energy but unfortunately even assuming total conversion of its potential energy and perfect storage of same, it's about one month per kilogram launched
->>> I mean, even if the math had checked out, ground launch still has a ton of issues, most notably air resistance. If you want to do space related stuff, your best bet is to bootstrap your way to getting yourself into orbit via existing companies, then use the power for space construction. Being able to materialize a hundred kg into orbit for free would be absolutely massive when it comes to creating megastructures in space.
->>> There's some catches: Weight still matters when it comes to moving anywhere, albeit far less than when you're launching. Plus, I'm not sure how useful pure iron even is for a pressurized container, and alloying it in orbit is still prohibitive.
->>> But in theory, getting hundreds of free kgs worth of shaped iron should help boost the commercialization of space. Things like stations or oversized ships should be easier if the shell gets into orbit for nearly free.
 >>> 
+>>> I mean, even if the math had checked out, ground launch still has a ton of issues, most notably air resistance. If you want to do space related stuff, your best bet is to bootstrap your way to getting yourself into orbit via existing companies, then use the power for space construction. Being able to materialize a hundred kg into orbit for free would be absolutely massive when it comes to creating megastructures in space.
+>>> 
+>>> There's some catches: Weight still matters when it comes to moving anywhere, albeit far less than when you're launching. Plus, I'm not sure how useful pure iron even is for a pressurized container, and alloying it in orbit is still prohibitive.
+>>> 
+>>> But in theory, getting hundreds of free kgs worth of shaped iron should help boost the commercialization of space. Things like stations or oversized ships should be easier if the shell gets into orbit for nearly free.
 
->>>> **u/PastafarianGames** [+1] *
+>>>> **u/PastafarianGames** [+1]  (2 days later)
 >>>> 
 >>>> Yeah, once you're creating the iron in space in the first place you're worth about a million bucks a month in launch costs. That's not bad, though it's not revolutionary.
->>>> 
 
->>> **u/Freevoulous** [+1] *
+>>> **u/Freevoulous** [+1]  (2 days later)
 >>> 
 >>> OTOH, You could ask to be sent to ISS, and then create a giant iron space habitat there, just churning hollow iron boxes the size of a small room.
->>> 
 
->> **u/TheJungleDragon** [+4] *
+>> **u/TheJungleDragon** [+5]  (10 hours later)
 >> 
 >> Caltrops would be a decent compromise in conflict, I imagine. The basic structure is relatively simple, and being able to create them on command could do well due to people not expecting it, being able to sneak past metal detectors, and so on.
->> The metal detector thing is actually pretty interesting. If you were determined, you could materialise knives on an aeroplane to perform heinous activities, maybe even a simple crossbow and bolt if you bring a piece of rope and know what you're doing. Though honestly I'm not sure how useful that would be since that's not, you know, my line of work.
->> Industrial sabotage, perhaps? All you have to do is get inside a factory and you can pretty untraceably put a literal wrench in machinery, or contaminate food and chemical products to lower reputations. It's not like anyone's gonna call you out on it if they see you staring at the materialising chunk of iron - you could even hit them with a 'is that suppose to be there?'
->> Human reaction time is about 200ms, or a fifth of a second. I think it's reasonable to presume you could create iron weights above a person's head that drop down an kill them faster than they can react, especially if the process is quiet. Surprise would help here, of course. I'm not sure what mass/height ratio would be optimal, but I think the optimum would be lethal at a glance.
->> You could probably make decent art, being that manual dexterity is less of a limitation. Literally, create anything you can imagine! Sculptures are the obvious usage, but you could probably create a series of iron lines on a pale coloured wooden surface, take a picture, and turn that into some decent digital line art. And that's ignoring the novelty of having supernaturally created art in the first place.
->> You could make people stumble by creating small objects in front of or below their steps, which could be funny. Potentially useful. Mostly funny.
->> In combat you could perhaps create iron blindfolds? In the time it takes to remove the initial blockage to sight you could create one bound tightly enough that it would a struggle to take off. That one's maybe more useful in the fantasy setting.
->> Last but not least, create razors in food you're about to eat and then sue the restaurant you're eating at. Though that one's contingent on you being an asshole, and it'll likely only work once. Come to think of it, a lot of these are contingent on being an asshole. Oh well!
 >> 
+>> The metal detector thing is actually pretty interesting. If you were determined, you could materialise knives on an aeroplane to perform heinous activities, maybe even a simple crossbow and bolt if you bring a piece of rope and know what you're doing. Though honestly I'm not sure how useful that would be since that's not, you know, my line of work.
+>> 
+>> Industrial sabotage, perhaps? All you have to do is get inside a factory and you can pretty untraceably put a literal wrench in machinery, or contaminate food and chemical products to lower reputations. It's not like anyone's gonna call you out on it if they see you staring at the materialising chunk of iron - you could even hit them with a 'is that suppose to be there?'
+>> 
+>> Human reaction time is about 200ms, or a fifth of a second. I think it's reasonable to presume you could create iron weights above a person's head that drop down an kill them faster than they can react, especially if the process is quiet. Surprise would help here, of course. I'm not sure what mass/height ratio would be optimal, but I think the optimum would be lethal at a glance.
+>> 
+>> You could probably make decent art, being that manual dexterity is less of a limitation. Literally, create anything you can imagine! Sculptures are the obvious usage, but you could probably create a series of iron lines on a pale coloured wooden surface, take a picture, and turn that into some decent digital line art. And that's ignoring the novelty of having supernaturally created art in the first place.
+>> 
+>> You could make people stumble by creating small objects in front of or below their steps, which could be funny. Potentially useful. Mostly funny.
+>> 
+>> In combat you could perhaps create iron blindfolds? In the time it takes to remove the initial blockage to sight you could create one bound tightly enough that it would a struggle to take off. That one's maybe more useful in the fantasy setting.
+>> 
+>> Last but not least, create razors in food you're about to eat and then sue the restaurant you're eating at. Though that one's contingent on you being an asshole, and it'll likely only work once. Come to think of it, a lot of these are contingent on being an asshole. Oh well!
 
->> **u/Laguz01** [+2] *
+>> **u/Laguz01** [+2]  (12 hours later)
 >> 
 >> Try putting iron in a ship's spine. Or on a ship's sails. Or in counterweights for things like portcullises and drawbridges. You could also put iron in swords to throw their balances off and to make them weaker. You could also put a very fine coat on wooden or hide shields . You could also put them in sling bullets.
->> 
 
->> **u/Freevoulous** [+2] *
+>> **u/Freevoulous** [+2]  (2 days later)
 >> 
 >> 100 kg of iron is enough for a SUV sized container with thick robust walls. Get me on the ISS and I could rapidly expand the station.  
-
->> > a single block of 100kg of iron in 1 second.   
-
->> I would assume that a hollow cube of iron would take what, 10 seconds? I could produce a mountain of cubes the size of NYC during a single trip to ISS.  
-
->> > Generic medieval western fantasy setting   
-
->> For defense:  
-
->> \- iron sheet walls
->> \- iron cubes with crossbow slits
->> \- fuckton os simple maces, clubs and warhammers
->> \- fuckton of simple helmets, and breatplates
-
->> for economy:  
-
->> \- iron hulled boats (would have to be painted extensively to rpevent rust)
->> \- countless buckets, cauldrons and barrels.
->> \- a railway for horse drawn wagons
->> \- sheet metal sheds for storage
->> \- iron girders for larger buildings.
->> \- fuckaton of ingots for the industry
 >> 
+>> > a single block of 100kg of iron in 1 second.   
+>> 
+>> I would assume that a hollow cube of iron would take what, 10 seconds? I could produce a mountain of cubes the size of NYC during a single trip to ISS.  
+>> 
+>> > Generic medieval western fantasy setting   
+>> 
+>> For defense:  
+>> 
+>> \- iron sheet walls
+>> 
+>> \- iron cubes with crossbow slits
+>> 
+>> \- fuckton os simple maces, clubs and warhammers
+>> 
+>> \- fuckton of simple helmets, and breatplates
+>> 
+>> for economy:  
+>> 
+>> \- iron hulled boats (would have to be painted extensively to rpevent rust)
+>> 
+>> \- countless buckets, cauldrons and barrels.
+>> 
+>> \- a railway for horse drawn wagons
+>> 
+>> \- sheet metal sheds for storage
+>> 
+>> \- iron girders for larger buildings.
+>> 
+>> \- fuckaton of ingots for the industry
 
->> **u/Freevoulous** [+1] *
+>> **u/Freevoulous** [+1]  (2 days later)
 >> 
 >> btw, in what state does the iron appears? can I summon quenched iron?
->> 
 
-> **u/Redditor76394** [+5] *
+> **u/Redditor76394** [+6]  (5 hours later)
 > 
 > An enemy combatant can prevent combustion in an 2000 ft radius around themself. 
+> 
 > * This will prevent guns from firing, as the gunpowder will fail to ignite. 
 > * Grenades will fail to explode, and fires cannot burn. 
 > * Engines will fail to start, and will stall upon entering this area. 
-> To make matters worse, the enemy is in an urban environment and has unpowered minions armed with melee weapons. 
-> Assuming you have access to conventional military weapons, but nothing supernatural, how would you defeat the enemy?
-> (Aside from firing a sniper rifle from outside the 2000 ft range.)
 > 
+> To make matters worse, the enemy is in an urban environment and has unpowered minions armed with melee weapons. 
+> 
+> Assuming you have access to conventional military weapons, but nothing supernatural, how would you defeat the enemy?
+> 
+> (Aside from firing a sniper rifle from outside the 2000 ft range.)
 
->> **u/megazver** [+12] *
+>> **u/megazver** [+11]  (6 hours later)
 >> 
 >> Specops armed with military crossbows.
->> Or just, like, also minions with melee weapons - just a lot more of them. Dress some marines in old-school plate armor, give them shields and axes and let's go. EDIT: Realistically, on a short notice, it'd probably be riot police in riot police gear with axes, since they're the ones whose training resembles this situation the most.
->> Probably both.
 >> 
+>> Or just, like, also minions with melee weapons - just a lot more of them. Dress some marines in old-school plate armor, give them shields and axes and let's go. EDIT: Realistically, on a short notice, it'd probably be riot police in riot police gear with axes, since they're the ones whose training resembles this situation the most.
+>> 
+>> Probably both.
 
->> **u/ShiranaiWakaranai** [+10] *
+>> **u/ShiranaiWakaranai** [+11]  (7 hours later)
 >> 
 >> Why can't you just use normal tasers? They aren't combustion.
->> Or just flood the place with tear gas/poison gas?
->> &#x200B;
->> Alternatively, for poetic comeuppance, cut the city's power supply off, and wait for a dark night.
->> Now their anti-combustion field works against them, because they can't light any makeshift torches for light sources. You on the other hand, can now send in a team with night vision goggles to infiltrate and take down the enemy under the cover of darkness.
 >> 
+>> Or just flood the place with tear gas/poison gas?
+>> 
+>> &#x200B;
+>> 
+>> Alternatively, for poetic comeuppance, cut the city's power supply off, and wait for a dark night.
+>> 
+>> Now their anti-combustion field works against them, because they can't light any makeshift torches for light sources. You on the other hand, can now send in a team with night vision goggles to infiltrate and take down the enemy under the cover of darkness.
 
->>> **u/Dragongeek** [+3]  *Path to Victory**
+>>> **u/Dragongeek** [+3]  *Path to Victory* (a day later)
 >>> 
 >>> Normal ranged tasers use an explosive charge to launch the two darts
->>> 
 
->> **u/Frommerman** [+7] *
+>> **u/Frommerman** [+9]  (18 hours later)
 >> 
 >> This power absolutely fucks biology. Everyone and everything in a 2000 foot radius of this guy dies instantly whenever they activate their power.
->> 
 
->>> **u/Redditor76394** [+2] *
+>>> **u/Redditor76394** [+2]  (19 hours later)
 >>> 
 >>> I was afraid of that. Could you explain why?
->>> 
 
->>>> **u/Frommerman** [+10] *
+>>>> **u/Frommerman** [+11]  (19 hours later)
 >>>> 
 >>>> Combustion reactions transform carbon compounds into CO2 and water. The most important part of cellular metabolism, the oxidation of acetyl-coA to transform NAD+ into NADH, is technically a partial combustion reaction. Stopping that starves all eukaryotic cells out on its own.
->>>> The problem with powers like this is that biology in general "uses every trick in the book," as it were. Dimwitted theists convinced that the fine-tuning argument is proof of God wouldn't be so convinced if that didn't look so true from a naïve perspective. But they're looking at it all wrong. Those tricks weren't designed with us in mind, we developed to take advantage of them because they exist. Reality looks tailor-made for us only because we sometimes fail to take the outside view and recognize that we are, instead, tailored to fit perfectly within it.
->>>> So you can't really fuck with chemistry or physics too hard without also destroying the assumptions which allow us to function. You could do some kind of Manton Limit to fix this, but that will always be an artificial hack. There is no part of the fundaments of physics you can mess with without messing with creatures built to function under that physics.
 >>>> 
+>>>> The problem with powers like this is that biology in general "uses every trick in the book," as it were. Dimwitted theists convinced that the fine-tuning argument is proof of God wouldn't be so convinced if that didn't look so true from a naïve perspective. But they're looking at it all wrong. Those tricks weren't designed with us in mind, we developed to take advantage of them because they exist. Reality looks tailor-made for us only because we sometimes fail to take the outside view and recognize that we are, instead, tailored to fit perfectly within it.
+>>>> 
+>>>> So you can't really fuck with chemistry or physics too hard without also destroying the assumptions which allow us to function. You could do some kind of Manton Limit to fix this, but that will always be an artificial hack. There is no part of the fundaments of physics you can mess with without messing with creatures built to function under that physics.
 
->>>>> **u/Redditor76394** [+3] *
+>>>>> **u/Redditor76394** [+3]  (19 hours later)
 >>>>> 
 >>>>> I see. Thank you for the detailed response, I appreciate it. I'll have to think of a way around this, preferably one that doesn't involve a Manton Limit of sorts.
->>>>> 
 
->>>>>> **u/ArmokGoB** [+6] *
+>>>>>> **u/ArmokGoB** [+5]  (a day later)
 >>>>>> 
 >>>>>> Maybe it only prevents *high temperature* combustion? Might even make someone figure that out, and make a custom molotov out of stuff that burns at a really low temperature. Although that also wouldn't do much damage I guess.
->>>>>> 
 
->>>>>>> **u/Redditor76394** [+2] *
+>>>>>>> **u/Redditor76394** [+2]  (a day later)
 >>>>>>> 
 >>>>>>> Unfortunately, I don't know enough about cellular biology to know the temperature of combustion reactions at a cellular level. 
->>>>>>> Or really, if a temperature-limit actually makes sense in the context of combustion in general. I'll have to read up more on the chemistry involved. 
->>>>>>> I also considered only affecting the composition of certain chemicals, or preventing the chain reaction that sets of the rest of the gunpowder. 
->>>>>>> Perhaps reducing the expansion that matter undergoes when it increases in temperature? So the expansion of heated air wouldn't take place and propel the bullet. But again, it'd have to only apply to temperatures above that of the human body, and I still don't know cellular biology well enough to say if that kills a person or not.
 >>>>>>> 
+>>>>>>> Or really, if a temperature-limit actually makes sense in the context of combustion in general. I'll have to read up more on the chemistry involved. 
+>>>>>>> 
+>>>>>>> I also considered only affecting the composition of certain chemicals, or preventing the chain reaction that sets of the rest of the gunpowder. 
+>>>>>>> 
+>>>>>>> Perhaps reducing the expansion that matter undergoes when it increases in temperature? So the expansion of heated air wouldn't take place and propel the bullet. But again, it'd have to only apply to temperatures above that of the human body, and I still don't know cellular biology well enough to say if that kills a person or not.
 
->>>>>>>> **u/ArmokGoB** [+4] *
+>>>>>>>> **u/ArmokGoB** [+5]  (2 days later)
 >>>>>>>> 
 >>>>>>>> tying it to temperature should make more sense than most of those things, and make cellular respiration and slow rusting the only forms not prevented that normally come up.
->>>>>>>> 
 
->>>>>>> **u/Gurkenglas** [+2] *
+>>>>>>> **u/Gurkenglas** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> Then you could go so far as preventing anything from being hotter than his own body temperature. And then at the end of the story he can reveal this and hold himself hostage.
->>>>>>> 
 
->>>> **u/zaxqs** [+2] *
+>>>> **u/zaxqs** [+2]  (7 days later)
 >>>> 
 >>>> See also [Universal Fire](https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire)
->>>> 
 
->> **u/Camaraagati** [+5]  *The Emperor's Text-to-Speech Device**
+>> **u/Camaraagati** [+4]  *The Emperor's Text-to-Speech Device* (6 hours later)
 >> 
 >> A fitting name would be some variation of Shabbat. 
->> Someone else already mentioned it, but it could easily be handled using a lot of equipment already used against rioters. Aside from crossbows, there are plenty of methods, lethal and non-lethal, of launching ammo hard enough to inflict severe pain and injury. Aside from bullets and bean-bags you could also shoot a variety of potent chemical agents.
 >> 
+>> Someone else already mentioned it, but it could easily be handled using a lot of equipment already used against rioters. Aside from crossbows, there are plenty of methods, lethal and non-lethal, of launching ammo hard enough to inflict severe pain and injury. Aside from bullets and bean-bags you could also shoot a variety of potent chemical agents.
 
->> **u/Dragongeek** [+3]  *Path to Victory**
+>> **u/Dragongeek** [+3]  *Path to Victory* (a day later)
 >> 
 >> Many police departments are equipped with paintball guns which are powered by air pressure along with mace cannisters. Riot police even have substantial armor, tear gas, and gasmasks.
->> To win, load pepperballs, full rubber balls, or even frozen paintballs in a pinch, and then your average suburbia PD could simply hose fire untill the enemy is in too much pain/can't breathe. The riot squad can also be equipped with paintball guns, along with mace and stun battons. To move around, they could use police horses, bikes, or requisition Tesla's (or other EV's) to close in. Unless the mooks are well prepared (gas masks) this wouldn't be too difficult.
 >> 
+>> To win, load pepperballs, full rubber balls, or even frozen paintballs in a pinch, and then your average suburbia PD could simply hose fire untill the enemy is in too much pain/can't breathe. The riot squad can also be equipped with paintball guns, along with mace and stun battons. To move around, they could use police horses, bikes, or requisition Tesla's (or other EV's) to close in. Unless the mooks are well prepared (gas masks) this wouldn't be too difficult.
 
->> **u/Laguz01** [+2] *
+>> **u/Laguz01** [+2]  (12 hours later)
 >> 
 >> Poison blow darts. Electric cars. Railguns.
->> 
 
-> **u/GlueBoy** [+6]  *anti-skub**
+> **u/GlueBoy** [+5]  *anti-skub* (7 hours later)
 > 
 > If masturbation were a skill that one can level up in a system a la Worth the Candle, what virtues would it give? Most interestingly, what would be the reality breaking level 100 virtue? Would there be combo virtues, and what would the linked skills be? E.g.: masturbation, handjobs and sign language, what would be the combo virtue for that?
-> 
 
->> **u/scruiser** [+7]  *CYOA**
+>> **u/scruiser** [+7]  *CYOA* (11 hours later)
 >> 
 >> Low level virtues often round out the skill or make it more usable. So the low level virtues would allow you to bypass limitations like chafing, lack of arousal, etc.
->> I think one key thematic element of masturbation is self reliance and self dependence.  Various mid-level virtue might allow masturbation to replace some combination of sleep, food, social interaction, and/or water.  
->> The capstone virtue would be something outright broken.  Another element of masturbation is the self care aspect.  So maybe for a capstone masturbation is able restore all the various magical energy pools used by other powers such as blood for blood magic, your own bones if used for bone magic, emotions for passion magic, mental energy for gem magic, breath for vibration magic, whatever it is Locus use (oh a way to help the Locus expand), etc.  Outside of the WtC magic system... maybe whatever magic resource analogs exist in this skill system: mana, magic energy, mental focus, creativity, willpower, stamina, etc.
->> For other virtues, maybe a grip strength for guys and a dexterous touch or penetrating touch for women?  Or just lump all three together into one or two virtues.
->> For the combo virtue with sign language maybe a way of communicating and articulating your conscious and subconscious thoughts perfectly to yourself by touching yourself.  With handjobs added as well, a way of perfectly communicating to other people through touch.
 >> 
+>> I think one key thematic element of masturbation is self reliance and self dependence.  Various mid-level virtue might allow masturbation to replace some combination of sleep, food, social interaction, and/or water.  
+>> 
+>> The capstone virtue would be something outright broken.  Another element of masturbation is the self care aspect.  So maybe for a capstone masturbation is able restore all the various magical energy pools used by other powers such as blood for blood magic, your own bones if used for bone magic, emotions for passion magic, mental energy for gem magic, breath for vibration magic, whatever it is Locus use (oh a way to help the Locus expand), etc.  Outside of the WtC magic system... maybe whatever magic resource analogs exist in this skill system: mana, magic energy, mental focus, creativity, willpower, stamina, etc.
+>> 
+>> For other virtues, maybe a grip strength for guys and a dexterous touch or penetrating touch for women?  Or just lump all three together into one or two virtues.
+>> 
+>> For the combo virtue with sign language maybe a way of communicating and articulating your conscious and subconscious thoughts perfectly to yourself by touching yourself.  With handjobs added as well, a way of perfectly communicating to other people through touch.
 
 ---
 

@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/wtfbbc** [+2] *
+> **u/wtfbbc** [+2]  (3 minutes later)
 > 
 > Just finished reading it, and I wish I'd read it years ago. The author may be a bit heavy-handed in his ideas, but it certainly shows characters acting rationally and teaches some solid lessons about economics.
-> 
 
 ---
 

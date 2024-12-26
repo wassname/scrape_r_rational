@@ -12,107 +12,99 @@
 
 ### Comments:
 
-> **u/DoraTrix** [+10] *
+> **u/DoraTrix** [+12]  (an hour later)
 > 
 > [rationalist crickets as people wait patiently for any ideas to be presented] \^_^
-> 
 
->> **u/bbqturtle** [+1] *
+>> **u/bbqturtle** [+2]  (an hour later)
 >> 
 >> Well sure.
->> My idea is a retelling of the story of Jesus from both his perspective and the perspective of his twin brother, Judas. Jesus is a moral philosopher that wants to lead the world to be good, and Judas is a bit of a ends-justify-the-means con artist who also believes in Jesus' plan to improve the world through new moral rules. Judas invents miracles to get people to listen to Jesus, and the resurrection would be their final heist with all sorts of twists and surprises. In between chapters I might use quotes from the bible to show the "public" view of what is happening. Jesus would espouse meditation but explain it as prayer, treating each other as equals, etc.
->> I would want it to be interesting to read, while also allowing people of faith to realize that a miraculous resurrection is the least likely thing to happen.
 >> 
+>> My idea is a retelling of the story of Jesus from both his perspective and the perspective of his twin brother, Judas. Jesus is a moral philosopher that wants to lead the world to be good, and Judas is a bit of a ends-justify-the-means con artist who also believes in Jesus' plan to improve the world through new moral rules. Judas invents miracles to get people to listen to Jesus, and the resurrection would be their final heist with all sorts of twists and surprises. In between chapters I might use quotes from the bible to show the "public" view of what is happening. Jesus would espouse meditation but explain it as prayer, treating each other as equals, etc.
+>> 
+>> I would want it to be interesting to read, while also allowing people of faith to realize that a miraculous resurrection is the least likely thing to happen.
 
->>> **u/RedSheepCole** [+6] *
+>>> **u/RedSheepCole** [+7]  (3 hours later)
 >>> 
 >>> > a miraculous resurrection is the least likely thing to happen 
->>> That's the entire point of it.  We don't need to be persuaded of this.  The Gospels themselves explicitly say that the Jews of the time claimed that your heist happened.  Much like they say that Joseph assumed Mary had been sleeping around.  Tell the story if you like--similar stories have been told before--but you'll be effectively telling it for other skeptics who want their own narrative reinforced, not for us.
 >>> 
+>>> That's the entire point of it.  We don't need to be persuaded of this.  The Gospels themselves explicitly say that the Jews of the time claimed that your heist happened.  Much like they say that Joseph assumed Mary had been sleeping around.  Tell the story if you like--similar stories have been told before--but you'll be effectively telling it for other skeptics who want their own narrative reinforced, not for us.
 
->>>> **u/None** [+0] *
+>>>> **u/None** [+0]  (16 hours later)
 >>>> 
 >>>> [deleted]
->>>> 
 
->>>>> **u/RedSheepCole** [+2] *
+>>>>> **u/RedSheepCole** [+2]  (20 hours later)
 >>>>> 
 >>>>> Perhaps I was unclear.  I mean that we are all well aware that miracles are not physically possible; that's what makes them miracles.  Nobody celebrates or remarks on the occurrence of the mundane (except in a vaguely smarmy inspirational-meme-ish way).
->>>>> 
 
->>>>>> **u/None** [+1] *
+>>>>>> **u/None** [+1]  (5 days later)
 >>>>>> 
 >>>>>> [deleted]
->>>>>> 
 
->>>>>>> **u/RedSheepCole** [+0] *
+>>>>>>> **u/RedSheepCole** [+0]  (5 days later)
 >>>>>>> 
 >>>>>>> It's the definition of "miracle," more or less.  If you can't deal with that, fine, but any and all conversations with conventional Christians won't get very far.  I suggest not trying too hard; my experience is that it winds up as a frustrating and unedifying experience for both parties.
->>>>>>> 
 
->>> **u/Ms_CIA** [+5]  *Derp**
+>>> **u/Ms_CIA** [+5]  *Derp* (2 hours later)
 >>> 
 >>> Hmm yeah, I hate to break it to you buuuutt most people of faith wouldn't bother reading a story like that. Saying this as a Christian. It's not just that you're trying to deny the resurrection, you're adding a twin brother. Wars have been fought over less. XD
->>> If this is your first serious attempt at writing a story, I'd recommend staying away from a hot button topic like the Bible. Just my two cents.
 >>> 
+>>> If this is your first serious attempt at writing a story, I'd recommend staying away from a hot button topic like the Bible. Just my two cents.
 
->>>> **u/bbqturtle** [+0] *
+>>>> **u/bbqturtle** [+0]  (2 hours later)
 >>>> 
 >>>> Thanks for the feedback. I really appreciate it. I guess I wouldn’t expect full on believers to read it, more like people that are a little skeptical already. The goal wouldn’t primarily be to persuade, it would be to tell a fun story, and justify why even if the Bible was wrong on a few details, the major actors might still have good intentions.
->>>> 
 
->>> **u/DoraTrix** [+3] *
+>>> **u/DoraTrix** [+3]  (an hour later)
 >>> 
 >>> I think your hope of budging genuine belief in the Resurrection (for people who have it) is on the unlikely side.  Sounds like an interesting story regardless, tho!
->>> 
 
->>>> **u/bbqturtle** [+1] *
+>>>> **u/bbqturtle** [+1]  (an hour later)
 >>>> 
 >>>> Yeah my expectations there are low.
->>>> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (16 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/RedSheepCole** [+1] *
+>>>> **u/RedSheepCole** [+1]  (21 hours later)
 >>>> 
 >>>> > inventing nonexistent evidence to demonstrate some case is not going to be persuasive 
->>>> I would add that the project comes across as condescending, bordering on contemptuous, to the people who are supposed to be persuaded.
 >>>> 
+>>>> I would add that the project comes across as condescending, bordering on contemptuous, to the people who are supposed to be persuaded.
 
->>>>> **u/None** [+1] *
+>>>>> **u/None** [+1]  (a day later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/RedSheepCole** [+1] *
+>>>>>> **u/RedSheepCole** [+1]  (a day later)
 >>>>>> 
 >>>>>> It's not that he (will assume pronoun for sheer linguistic simplicity) was trying to be insulting.  It's that his whole attitude and approach is condescending:
+>>>>>> 
 >>>>>> 1. Assuming we need to be gently exposed to a very obvious possibility which
 >>>>>> 2. Any Christian who has spent any time on the internet outside of the strictest bubble (read: any Christian who is likely to encounter the story) has surely encountered and
 >>>>>> 3. Simultaneously showing that what Jesus actually wanted is something as anodyne as meditation, which had to be rephrased as prayer to appeal to our credulous natures.  Which is to say, not very subtly reshaping the Christian message into something much more palatable to modern seculars.
->>>>>> I suppose you could describe my reaction as "taking offense."  Really it was more of a wince, an eye-roll, and a mental *Oh hell, not this again*.
 >>>>>> 
+>>>>>> I suppose you could describe my reaction as "taking offense."  Really it was more of a wince, an eye-roll, and a mental *Oh hell, not this again*.
 
->>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy* (2 days later)
 >>> 
 >>> That kinda reminds me of two books:
->>> [The Good Man Jesus and the Scoundrel Christ by Philip Pullman](https://www.amazon.com/dp/B003IGR19Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
->>> [Lamb: The Gospel According to Biff, Christ's Childhood Pal](https://www.amazon.com/dp/B000OVLK2W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
->>> They aren't rational, but excellently written books about a made up brother of Jesus where you have, in the first book, Christ as a scoundrel who only sees Jesus' growing religion as a way to amass power. The other one is where there's Biff who is realistically helping his brother, a man with common failings, become a messiah and develop his legend in the missing years from the Bible between Jesus' childhood and up to before the crucifixion. Both books are excellent character studies of Jesus and comedies to boot.
 >>> 
+>>> [The Good Man Jesus and the Scoundrel Christ by Philip Pullman](https://www.amazon.com/dp/B003IGR19Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+>>> 
+>>> [Lamb: The Gospel According to Biff, Christ's Childhood Pal](https://www.amazon.com/dp/B000OVLK2W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+>>> 
+>>> They aren't rational, but excellently written books about a made up brother of Jesus where you have, in the first book, Christ as a scoundrel who only sees Jesus' growing religion as a way to amass power. The other one is where there's Biff who is realistically helping his brother, a man with common failings, become a messiah and develop his legend in the missing years from the Bible between Jesus' childhood and up to before the crucifixion. Both books are excellent character studies of Jesus and comedies to boot.
 
->>>> **u/bbqturtle** [+1] *
+>>>> **u/bbqturtle** [+1]  (2 days later)
 >>>> 
 >>>> Thank you!
->>>> 
 
-> **u/C_Densem** [+2]  *LessWrong (than usual)**
+> **u/C_Densem** [+2]  *LessWrong (than usual)* (6 hours later)
 > 
 > Sounds a lot like Moorcock's "Behold the Man". Definitely different enough that yours would stand on its own, but maybe have a look to see what worked.
-> 
 
 ---
 

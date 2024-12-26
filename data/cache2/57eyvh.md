@@ -12,80 +12,83 @@
 
 ### Comments:
 
-> **u/Zephyr1011** [+7]  *Potentially Unfriendly Aspiring Divinity**
+> **u/Zephyr1011** [+7]  *Potentially Unfriendly Aspiring Divinity* (5 hours later)
 > 
 > I'm really liking the build up you're doing at the moment. It looks like you're setting the stage both for diversity of international response, and for not falling into the cliché of stupid or ineffective government response
-> 
 
-> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (13 minutes later)
 > 
 > Next week we have an interlude chapter, and then...I have a month's worth of buffer, but we might be skipping Friday so that I can see how traffic is affected by some other things that I'm doing (like fleshing out the TV Tropes page). I might just be missing something, but Wordpress doesn't look to be quite as good for figuring out traffic as Blogspot is. 
-> As always, let me know what's working for you and what isn't. Because I'm doing a few things with this story that I haven't done before, reader criticism can potentially have a lot of influence over the way that this story is structured. 
-> (Especially pacing. I ultimately chose to not have **too** much of a buffer for the reason that, if the story seems to be progressing too slowly or the pacing is off for some other reason, fixing that is more viable than if I had two or three months' of chapters already written out). 
-> **Synopsis**
-> Across the world, one hundred adolescents unexpectedly find themselves in possession of superpowers, running the gamut from conventional to world-breaking to annoyingly limited. But despite the diversity of powers, certain patterns emerge, and as the Children begin to find each other, they realize that the world itself may be in great peril.
-> Heroes save the world, but will they succeed in being heroes?
 > 
+> As always, let me know what's working for you and what isn't. Because I'm doing a few things with this story that I haven't done before, reader criticism can potentially have a lot of influence over the way that this story is structured. 
+> 
+> (Especially pacing. I ultimately chose to not have **too** much of a buffer for the reason that, if the story seems to be progressing too slowly or the pacing is off for some other reason, fixing that is more viable than if I had two or three months' of chapters already written out). 
+> 
+> **Synopsis**
+> 
+> Across the world, one hundred adolescents unexpectedly find themselves in possession of superpowers, running the gamut from conventional to world-breaking to annoyingly limited. But despite the diversity of powers, certain patterns emerge, and as the Children begin to find each other, they realize that the world itself may be in great peril.
+> 
+> Heroes save the world, but will they succeed in being heroes?
 
->> **u/nicholaslaux** [+4] *
+>> **u/nicholaslaux** [+4]  (7 hours later)
 >> 
 >> The main feedback that I think I have right now is somewhat related to pacing - chapters currently feel very short, in a way that may preclude building up much momentum. 
->> I don't know if that's a restriction of reading it as a serial; it might be less of an issue with all of the chapters available immediately, especially if presented not as separate chapters, but as a single chapter with multiple cuts between characters.
 >> 
+>> I don't know if that's a restriction of reading it as a serial; it might be less of an issue with all of the chapters available immediately, especially if presented not as separate chapters, but as a single chapter with multiple cuts between characters.
 
->>> **u/Garudian** [+4]  *Dai-Gurren Brigade**
+>>> **u/Garudian** [+5]  *Dai-Gurren Brigade* (9 hours later)
 >>> 
 >>> Seconded on the brevity. Only criticism so far is that many of the chapters could benefit from being longer, or in the case of repeat characters just combined.
->>> 
 
->>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae* (11 hours later)
 >>>> 
 >>>> Thank you! As I described to /u/nicholaslaux, the chapters are getting longer, but it's really, **really** good to hear that people think that these are too short, because it means that I don't have to worry about the next few chapters getting criticism for being too long.
->>>> 
 
->>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (11 hours later)
 >>> 
 >>> I don't think that it's inherent to writing as a serial. There's a sort of "penny dreadful" format that I read a lot of (and wrote in) with 1,000 word chapters, which made for faster updates, but I haven't been intentionally going for that style in HSTW and there are plenty of serials with long chapters (there are some that I'm reading right now that have 6-7k word updates). 
->>> I'm not sure if it's because I'm becoming more comfortable with the story and finding a rhythm with it, or just a consequence of the story beginning to pick up speed, or some other third thing, but the next few chapters are between 1,300 and 1,500 words and I expect that to gradually increase (for comparison, most of these chapters have been around 1,000 words). 
->>> I'm also working on sensory detail. I'm one of those people who can barely form mental images, but adding more sensory detail would also flesh out my chapters without giving them unnecessary padding. 
->>> (My poor mental imaging makes it really weird for me whenever I hit it out of the ballpark with a particular description. It's like being a Chinese Room of storytelling, because apparently it was really good and all but I have barely any idea how it's working unless I was literally looking at a picture reference while I was writing).
 >>> 
+>>> I'm not sure if it's because I'm becoming more comfortable with the story and finding a rhythm with it, or just a consequence of the story beginning to pick up speed, or some other third thing, but the next few chapters are between 1,300 and 1,500 words and I expect that to gradually increase (for comparison, most of these chapters have been around 1,000 words). 
+>>> 
+>>> I'm also working on sensory detail. I'm one of those people who can barely form mental images, but adding more sensory detail would also flesh out my chapters without giving them unnecessary padding. 
+>>> 
+>>> (My poor mental imaging makes it really weird for me whenever I hit it out of the ballpark with a particular description. It's like being a Chinese Room of storytelling, because apparently it was really good and all but I have barely any idea how it's working unless I was literally looking at a picture reference while I was writing).
 
->>>> **u/nicholaslaux** [+1] *
+>>>> **u/nicholaslaux** [+1]  (12 hours later)
 >>>> 
 >>>> Ah, I didn't mean in writing, actually - I more meant that consuming in serial format might predispose me to liking the shorter format less than if I was consuming it long form. 
->>>> As a single data point, most stories that I read from here in serial format (Mother of Learning, Animorphs: the Reckoning, Pokémon Origin of Species, and Unsong, to name a few) generally seem to take me between 10-30 minutes per new chapter to read. Most of your chapters thus far have been closer to 5-10 minutes per new chapter to read.
 >>>> 
+>>>> As a single data point, most stories that I read from here in serial format (Mother of Learning, Animorphs: the Reckoning, Pokémon Origin of Species, and Unsong, to name a few) generally seem to take me between 10-30 minutes per new chapter to read. Most of your chapters thus far have been closer to 5-10 minutes per new chapter to read.
 
->>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>>>>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae* (12 hours later)
 >>>>> 
 >>>>> Oh, I see! In that respect it probably would compare more favorably when being read in a single sitting, like you say; I haven't paid attention to MoL but I imagine that "total words per month" for HSTW would be comparable to or greater than the same for r!Animorphs and Origin of Species, which have longer chapters and shorter update times. 
->>>>> (That'll might be something else to consider in the future--less frequent updates but longer chapters)
->>>>> Thanks for the estimates on reading time.
 >>>>> 
+>>>>> (That'll might be something else to consider in the future--less frequent updates but longer chapters)
+>>>>> 
+>>>>> Thanks for the estimates on reading time.
 
->>>>>> **u/nicholaslaux** [+4] *
+>>>>>> **u/nicholaslaux** [+4]  (13 hours later)
 >>>>>> 
 >>>>>> Exactly. As a creator of other media (I do both board game design and software development) I'd highly recommend ensuring that you identify your target audience if considering any major changes to your structure.
->>>>>> If your eventual goal is for this to be read in a single sitting as a published work, then the only real concern that you might want to consider would be the release schedule, rather than the content organization itself. 
->>>>>> If, on the other hand, it's more the process of writing and interacting with people as you tell the story, then some parts of the organization of the story itself might help with that.
 >>>>>> 
+>>>>>> If your eventual goal is for this to be read in a single sitting as a published work, then the only real concern that you might want to consider would be the release schedule, rather than the content organization itself. 
+>>>>>> 
+>>>>>> If, on the other hand, it's more the process of writing and interacting with people as you tell the story, then some parts of the organization of the story itself might help with that.
 
->>>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity* (a day later)
 >>>>>> 
 >>>>>> I think that the current chapter lengths are fine at the moment, since the current story seems very much build up over action. But once the story gets going I'd be more interested in longer chapters, even at a slower update rate. I've found with other stories that if updates are too short during climactic parts it feels like those are being dragged out, as there's little progression in each update
->>>>>> 
 
-> **u/Bowbreaker** [+1]  *Solitary Locust**
+> **u/Bowbreaker** [+1]  *Solitary Locust* (a month later)
 > 
 > Did you make up the names of all of those outdated supernatural departments of the CIA or did you base them on something? Especially the umbrella org itself, LN/PALATINATE, has a weird and intriguing name.
-> 
 
->> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae* (a month later)
 >> 
 >> [Project Stargate](https://www.wikiwand.com/en/Stargate_Project) was a real thing. It mostly had to do with remote viewing. 
->> BLUE TEAM was a riff on the fake [Project Blue Beam](http://rationalwiki.org/wiki/Project_Blue_Beam). SIGN and PALATINATE were also made up.
 >> 
+>> BLUE TEAM was a riff on the fake [Project Blue Beam](http://rationalwiki.org/wiki/Project_Blue_Beam). SIGN and PALATINATE were also made up.
 
 ---
 

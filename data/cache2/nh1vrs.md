@@ -2,7 +2,7 @@
 
 * Author: u/Tracitus22222 *
 * URL: https://www.reddit.com/r/rational/comments/nh1vrs/rational_stories_where_the_mc_is_against_the/
-* Score: 37
+* Score: 36
 
 * Created: 2021-05-20T14:36:19
 
@@ -14,283 +14,260 @@ One hilarius idea could be a story where the MC is a Warlord in Terra, trying to
 
 ### Comments:
 
-> **u/natron88** [+41]  *Ankh-Morpork City Watch**
+> **u/natron88** [+39]  *Ankh-Morpork City Watch* (12 minutes later)
 > 
 > [Only Villains Do That](https://www.royalroad.com/fiction/40182/only-villains-do-that)
-> The theme is exactly what you are asking for, and I haven't noticed anything in the story so far that would disqualify it from counting as Rational.
 > 
+> The theme is exactly what you are asking for, and I haven't noticed anything in the story so far that would disqualify it from counting as Rational.
 
->> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram* (21 minutes later)
 >> 
 >> This is a good one.
->> 
 
->> **u/Tracitus22222** [+5] *
+>> **u/Tracitus22222** [+3]  (15 minutes later)
 >> 
 >> If  the description is anything to go by, it will be a very good one
->> 
 
->> **u/Tracitus22222** [+6] *
+>> **u/Tracitus22222** [+4]  (2 hours later)
 >> 
 >> I am at 1.7 of the story and I have to say that I may abandon it. It is petty, but pls tell me Aster isn't gonna become a Raftalia-like (Shield Hero) type of character, because I can't stand them. Is the trope that I most irrationally **hate**.
->> 
 
->>> **u/bigbysemotivefinger** [+21] *
+>>> **u/bigbysemotivefinger** [+22]  (2 hours later)
 >>> 
 >>> My impression of her so far is more "long-suffering butler" than "tsundere love-interest." In fact they've even had a conversation about how they're not interested in each other.
->>> 
 
->>>> **u/LLJKCicero** [+6] *
+>>>> **u/LLJKCicero** [+8]  (10 hours later)
 >>>> 
 >>>> > In fact they've even had a conversation about how they're not interested in each other.
->>>> Sounds like something a tsundere would say!
->>>> But yeah you're probably right.
 >>>> 
+>>>> Sounds like something a tsundere would say!
+>>>> 
+>>>> But yeah you're probably right.
 
->>> **u/SELFINSERTSARECRINGE** [+2] *
+>>> **u/SELFINSERTSARECRINGE** [+2]  (10 hours later)
 >>> 
 >>> My problem with this story(at 1.29) is how pathetically small scale/time he is being the chosen hero of one of the worlds largest pantheons. As a hero he was growing steadily in personal strength and power which I loved and then it suddenly pivoted to base building/micro management. I don’t mind the base building but all of the things he is implementing or doing will never affect him in a global scale(debatably). Basically feels like a filler arc.
->>> 
 
->>>> **u/megazver** [+2] *
+>>>> **u/megazver** [+2]  (a day later)
 >>>> 
 >>>> He is currently trying to build a loyal crossbow army, because right now any of the local factions could smear him like a fat fly, if they really wanted to.
->>>> 
 
->>> **u/Luminous_Lead** [+2] *
+>>> **u/Luminous_Lead** [+2]  (16 hours later)
 >>> 
 >>> More like Reluctant Morale Compass than Underage Stockholm Syndrome.
->>> Or as u/bigbysemotivefinger said, a long suffering butler and bodyguard.
 >>> 
+>>> Or as u/bigbysemotivefinger said, a long suffering butler and bodyguard.
 
->>>> **u/Pirellan** [+1] *
+>>>> **u/Pirellan** [+1]  (4 days later)
 >>>> 
 >>>> Just read the whole thing, author seems to like swinging the "least bad option" sword when her view on the situation comes up.
->>>> 
 
->>>>> **u/Luminous_Lead** [+1] *
+>>>>> **u/Luminous_Lead** [+1]  (4 days later)
 >>>>> 
 >>>>> Yeah. Kind of a "If the godesses have to have a monster mash between champions then at least I'll be here to encourage minimum collateral damage"
->>>>> 
 
->> **u/None** [+5] *
+>> **u/None** [+7]  (2 hours later)
 >> 
 >> A shame that the author felt obligated to use Japanese characters for his very clearly not Japanese novel. Folks, it's not a crime to just use people from your own culture when you're writing stories, even if they're weeb stories.
->> 
 
->>> **u/megazver** [+7] *
+>>> **u/megazver** [+9]  (a day later)
 >>> 
 >>> The author did it for thematic reasons, probably. Japanese genre and Japanese tropes, so that's why also Japanese MCs.
->>> But yeah, I have to agree that the MC just doesn't feel Japanese *at all*, even taking his background into account. And the story would work just fine with a teenage American weeb vs a jaded millennial barista.
->>> But it's a minor quibble.
 >>> 
+>>> But yeah, I have to agree that the MC just doesn't feel Japanese *at all*, even taking his background into account. And the story would work just fine with a teenage American weeb vs a jaded millennial barista.
+>>> 
+>>> But it's a minor quibble.
 
->>>> **u/None** [+3] *
+>>>> **u/None** [+3]  (a day later)
 >>>> 
 >>>> It is, overall, a minor quibble. If a story is otherwise good, this kind of thing is very easy to look past. But it does bother me when I see it.
->>>> 
 
->>>> **u/MilesSand** [+1] *
+>>>> **u/MilesSand** [+1]  (4 days later)
 >>>> 
 >>>> I think that's the point.  Dude's dream before getting isekai'd was to move to 'murica cause he didn't identify with the locals at all (putting it much more nicely than he did).
->>>> 
 
-> **u/magictheblathering** [+37]  * The Gothamite 🦇 dot net **
+> **u/magictheblathering** [+37]  * The Gothamite 🦇 dot net * (18 minutes later)
 > 
 > You might like The Metropolitan Man, MC is Lex Luthor and he’s trying to stop Superman.
-> 
 
->> **u/Tracitus22222** [+11] *
+>> **u/Tracitus22222** [+13]  (23 minutes later)
 >> 
 >> Already read it, but you are right, I really enjoyed it. I wish there were more stories like it.
->> 
 
->>> **u/LeifCarrotson** [+20] *
+>>> **u/LeifCarrotson** [+22]  (3 hours later)
 >>> 
 >>> If you've already read Metropolitan Man, you've likely also seen The Sword Of Good: 
->>> https://www.yudkowsky.net/other/fiction/the-sword-of-good
->>> It's another short (10,000 words, about 30 minute read) story in this vein; I highly recommend it. That's because it sharpened my ability to think rationally, but I do find dulled my ability to enjoy some classic Evil-monster-hunting fantasy.
 >>> 
+>>> https://www.yudkowsky.net/other/fiction/the-sword-of-good
+>>> 
+>>> It's another short (10,000 words, about 30 minute read) story in this vein; I highly recommend it. That's because it sharpened my ability to think rationally, but I do find dulled my ability to enjoy some classic Evil-monster-hunting fantasy.
 
->>>> **u/Tracitus22222** [+2] *
+>>>> **u/Tracitus22222** [+2]  (5 hours later)
 >>>> 
 >>>> Great story, left me with the same bittersweet taste than Metropolitan Man
->>>> 
 
->>>> **u/covert_operator100** [+1] *
+>>>> **u/covert_operator100** [+1]  (11 hours later)
 >>>> 
 >>>> Eneasz recorded an [audio](http://hpmorpodcast.com) version, and I cry every time I listen to it. He handled the sound effects really well.
->>>> 
 
->>> **u/lucidobservor** [+4] *
+>>> **u/lucidobservor** [+4]  (a day later)
 >>> 
 >>> If you like Lex Luthor as an MC, I really enjoyed [Inviolate](https://www.fanfiction.net/s/5536346/1/Inviolate). If *The Metropolitan Man* is "MC vs. Protagonist" then *Inviolate* answers the "MC vs. Fate" part of your question.
->>> 
 
->>> **u/EsquilaxM** [+3] *
+>>> **u/EsquilaxM** [+3]  (14 hours later)
 >>> 
 >>> There's an official DC comic called Luthor: Man of Steel.  IT's more of a character story/days-in-the-life story than rational story, though. But it's good. Was the inspiration for the Joker comic, which I haven't goten around to (it doens't follow the joker it follows one of his henchman)
->>> 
 
-> **u/DawnPaladin** [+8]  *Young Wizards**
+> **u/DawnPaladin** [+9]  *Young Wizards* (15 hours later)
 > 
 > [Erfworld](https://archives.erfworld.com/) features a protagonist who gets summoned into a fantasy wargaming world to bail a side that's down to just their capital city, having angered a bunch of other sides into trying to wipe them out.
-> In this story, Fate is an invisible but very active participant, using Predictamancy and Luckamancy to serve its own inscrutable ends. The characters talk and philosophize about it with a depth I haven't found anywhere else.
-> Fair warning: the comic was discontinued a couple of years ago. But there are six books worth of excellent storytelling. It's one of my favorite stories anywhere.
 > 
+> In this story, Fate is an invisible but very active participant, using Predictamancy and Luckamancy to serve its own inscrutable ends. The characters talk and philosophize about it with a depth I haven't found anywhere else.
+> 
+> Fair warning: the comic was discontinued a couple of years ago. But there are six books worth of excellent storytelling. It's one of my favorite stories anywhere.
 
-> **u/dmitryochkov** [+40] *
+> **u/dmitryochkov** [+39]  (15 minutes later)
 > 
 > Practical Guide to Evil is about trying to subvert Creation forces connected to goodness and evilness from the very start to the very finish. 
-> It’s also one of the best pieces of fiction I’ve ever read.
 > 
+> It’s also one of the best pieces of fiction I’ve ever read.
 
->> **u/Tracitus22222** [+12] *
+>> **u/Tracitus22222** [+14]  (20 minutes later)
 >> 
 >> Thanks for the recomendation! However I read it and I didn't enjoyed. I don't know, it didn't click on me I suppose.
->> 
 
->>> **u/xland44** [+8] *
+>>> **u/xland44** [+8]  (8 hours later)
 >>> 
 >>> How far did you get? The first volume is pretty much the worst.
->>> 
 
->>>> **u/Fresh_C** [+9] *
+>>>> **u/Fresh_C** [+8]  (14 hours later)
 >>>> 
 >>>> Personally, I got through the second volume. And while I enjoyed parts of it, the use of meta-narrative concepts to resolve conflict sorta turned me off.
->>>> It's clever in its own way, but sometimes feels too convenient for me. Something about a story that's too aware it's a story kind of ruins things for me. It's almost the opposite of why I read rational fiction, in the way that it relies on nonsense rules to deliver some of its biggest moments. To be fair, those nonsense rules are at least consistent and are exploited in interesting ways. But there's only so many times something silly like "The rule of threes" can come into play before it makes the world feel like a silly place to me.
 >>>> 
+>>>> It's clever in its own way, but sometimes feels too convenient for me. Something about a story that's too aware it's a story kind of ruins things for me. It's almost the opposite of why I read rational fiction, in the way that it relies on nonsense rules to deliver some of its biggest moments. To be fair, those nonsense rules are at least consistent and are exploited in interesting ways. But there's only so many times something silly like "The rule of threes" can come into play before it makes the world feel like a silly place to me.
 
->>>>> **u/lillarty** [+2] *
+>>>>> **u/lillarty** [+2]  (a day later)
 >>>>> 
 >>>>> Eh, to me all magic systems are arbitrary and fairly silly to begin with. I enjoy reading about them so it's fine, but I fail to see any significant difference between "this character can bend reality because they lost twice earlier" and "this character can bend reality because they drank mercury earlier." Mistborn is loved by many for a reason, but you have to admit that the premise of eating a bunch of metals, some of which are toxic, to gain magical powers is pretty silly. 
->>>>> Read (or drop) whatever you like for whatever reason you like obviously, but for me as long as it's consistent and engaging I'll roll with it.
 >>>>> 
+>>>>> Read (or drop) whatever you like for whatever reason you like obviously, but for me as long as it's consistent and engaging I'll roll with it.
 
->>>>>> **u/Fresh_C** [+3] *
+>>>>>> **u/Fresh_C** [+3]  (a day later)
 >>>>>> 
 >>>>>> Yeah, that's fair and i see where you're coming from. It just requires greater suspension of disbelief for me when the magic is meta-narrative based. 
->>>>>> I think it's because of the complexity of an idea like "the rule of threes". Whith something like Mistborn you can write metals granting supet powers off as some weird property of their reality. Once you get pass the initial silliness, it's almost like science the way each metal interacts with the world.
->>>>>> The rule of threes is more messy. Because you can't really treat it like a science. It's not direct cause and effect. It's more like some invisible hand is guiding events to reach certain outcomes. And in order for those outcomes to consistently stay the same, That invisible hand must be constantly working in ways unseen.
->>>>>> It makes the magic feel more like another character, rather than a natural process that exists in the world. And i think i wouldn't mind this if the character's thoughts, motivations, and limitations were explored in greater detail, but (at least in the first two volumes) that character is ill defined, despite how important they are to the events that unfold.
->>>>>> It's almost a litteral Deus ex Macina (sorry for spelling.  On mobile). Though it's better than that, because at least the characters are aware of it, and deliberately exploit it.
 >>>>>> 
+>>>>>> I think it's because of the complexity of an idea like "the rule of threes". Whith something like Mistborn you can write metals granting supet powers off as some weird property of their reality. Once you get pass the initial silliness, it's almost like science the way each metal interacts with the world.
+>>>>>> 
+>>>>>> The rule of threes is more messy. Because you can't really treat it like a science. It's not direct cause and effect. It's more like some invisible hand is guiding events to reach certain outcomes. And in order for those outcomes to consistently stay the same, That invisible hand must be constantly working in ways unseen.
+>>>>>> 
+>>>>>> It makes the magic feel more like another character, rather than a natural process that exists in the world. And i think i wouldn't mind this if the character's thoughts, motivations, and limitations were explored in greater detail, but (at least in the first two volumes) that character is ill defined, despite how important they are to the events that unfold.
+>>>>>> 
+>>>>>> It's almost a litteral Deus ex Macina (sorry for spelling.  On mobile). Though it's better than that, because at least the characters are aware of it, and deliberately exploit it.
 
->>>>>>> **u/1104L** [+2] *
+>>>>>>> **u/1104L** [+2]  (2 days later)
 >>>>>>> 
 >>>>>>> I mean the meta magic *is* a part of the reality. In Mistborn, you eat mercury and get powers. In APGTE, you lose twice and win once. It’s cause and effect, this thing happened so this other thing must happen. It works like how gravity works in our world. 
->>>>>>> I can understand it turning you off though, it’s a difficult concept to properly pull off without coming off as too smart for its own good. And it certainly toes the line between cheeky and irritating. It’s an overall great novel though and the other meta magics aren’t nearly as forward as winning after losing twice if that’s what turned you off from the novel.
 >>>>>>> 
+>>>>>>> I can understand it turning you off though, it’s a difficult concept to properly pull off without coming off as too smart for its own good. And it certainly toes the line between cheeky and irritating. It’s an overall great novel though and the other meta magics aren’t nearly as forward as winning after losing twice if that’s what turned you off from the novel.
 
->>>>> **u/Tracitus22222** [+3] *
+>>>>> **u/Tracitus22222** [+3]  (a day later)
 >>>>> 
 >>>>> About the same reason
->>>>> 
 
-> **u/luminarium** [+12] *
+> **u/luminarium** [+12]  (2 hours later)
 > 
 > Reverend Insanity has a huge chunk of the story where the protagonist is fighting against "Fate". It's really well done, avoids cliches, story is definitely rational.
-> 
 
->> **u/zyr1d** [+10] *
+>> **u/zyr1d** [+10]  (2 hours later)
 >> 
 >> I’d like to second this rec. Reverend insanity has the most self-consistent world building I’ve ever seen in any xianxia. Fair warning though, the mc’s fight against Fate doesn’t start until the chapters hit 1000. For the majority of the first and second books, the mc isn’t even aware of the existence of fate, much less the manipulation of fate. The concept of “fate” is masterfully interwoven with the world’s canonical history, which is revealed in snippets throughout the entire work as passages from the world’s scripture. Overall amazing read, translations are understandable, but the work is on indefinite hiatus at 2200+ chapters
->> 
 
->>> **u/Turniper** [+10] *
+>>> **u/Turniper** [+9]  (13 hours later)
 >>> 
 >>> It's also got the standard xianxia problem of the main character has no motivations beyond the continual pursuit of power and additional lifespan, and is also basically an amoral monster (minor spoiler: >!Literally murders a woman who falls for him because she's inconvenient, feeds a young girl to a bear for a minor offense, etc!<. It's not bad, and it's definitely cleverer than comparable works like I Shall Seal the Heavens, but don't expect character development.  >!Also the fact that all his male rivals end up either turning into woman or being revealed to have been women all along is kinda weird.!<
->>> 
 
->>>> **u/zyr1d** [+3] *
+>>>> **u/zyr1d** [+3]  (a day later)
 >>>> 
 >>>> You’re right that it’s made abundantly clear from the beginning that the mc is unapologetically evil, so for potential readers, if you expect a hero turned anti(fate) hero maybe pass this one up. 
->>>> I agree that the mc’s reasoning behind his pursuit for eternal life is not made clear at the beginning, but over the course of all 2200+ chapters the motivations behind his actions are gradually explained. The lack of character development in the mc is made up for by the sheer complexity of the mc’s initial character, which is gradually revealed in flashbacks over the course of the novel. 
->>>> Additionally, there is a huge cast of supporting and secondary characters, so some of them are inevitably less well constructed than others. The minor trope of genderbending can be off putting at first, but due to the general lack of focus the novel places on romance, it doesn’t really detract from the overall plot.
 >>>> 
+>>>> I agree that the mc’s reasoning behind his pursuit for eternal life is not made clear at the beginning, but over the course of all 2200+ chapters the motivations behind his actions are gradually explained. The lack of character development in the mc is made up for by the sheer complexity of the mc’s initial character, which is gradually revealed in flashbacks over the course of the novel. 
+>>>> 
+>>>> Additionally, there is a huge cast of supporting and secondary characters, so some of them are inevitably less well constructed than others. The minor trope of genderbending can be off putting at first, but due to the general lack of focus the novel places on romance, it doesn’t really detract from the overall plot.
 
->>> **u/EsquilaxM** [+1] *
+>>> **u/EsquilaxM** [+1]  (14 hours later)
 >>> 
 >>> Kinda like Mushoku Tensei, I guess? That series reached a whole other level when that twist hit.
->>> 
 
-> **u/PM_ME_CUTE_FOXES** [+9] *
+> **u/PM_ME_CUTE_FOXES** [+8]  (10 minutes later)
 > 
 > You might like 'Omniscient Reader Viewpoint.'
-> 
 
->> **u/OnePunchFan8** [+3] *
+>> **u/OnePunchFan8** [+5]  (an hour later)
 >> 
 >> I read this one! Didn't expect to see it here, the art of very nice too.
->> Basically protag is the only guy who read a lot novel to the very end, and the light novel suddenly becomes reality.
->> So he's a normal guy in the "plot" of the novel but he's not knowledge of all the tricks and events that will/would've happened.
->> The "protagonist" is also a character
 >> 
+>> Basically protag is the only guy who read a lot novel to the very end, and the light novel suddenly becomes reality.
+>> 
+>> So he's a normal guy in the "plot" of the novel but he's not knowledge of all the tricks and events that will/would've happened.
+>> 
+>> The "protagonist" is also a character
 
-> **u/archpawn** [+4] *
+> **u/archpawn** [+3]  (8 hours later)
 > 
 > I don't know if this really counts, but in the Discworld book Nightwatch is basically an inversion of Les Miserables. But it changed the characters enough that if you weren't familiar with Les Miserables, it wouldn't feel like any sort of inversion. If anything, Les Miserables is an inversion by having a non-corrupt police officer as the villain and a criminal as the hero.
-> 
 
->> **u/EsquilaxM** [+1] *
+>> **u/EsquilaxM** [+1]  (14 hours later)
 >> 
 >> Hmmn, it definitely takes inspiration from there, which is very fun, but more as a background. The serial killer/antagonist isn't based on a Les Mis character, I think?
->> 
 
-> **u/sprague-grundy** [+7] *
+> **u/sprague-grundy** [+6]  (2 hours later)
 > 
 > https://www.royalroad.com/fiction/28601/arrogant-young-master-template-a-variation-4 is about someone transported to a Xianxia world in the role of a villain.  He spends most of his time trying to avoid tropes that will get him killed by genre logic.
-> 
 
->> **u/Aqua-dabbing** [+2] *
+>> **u/Aqua-dabbing** [+2]  (6 hours later)
 >> 
 >> I've tried to read it, but the writing style is just not doing it for me. I don't like the internal monologuing, somewhat unclearly separated from speaking; the absurd setting and especially the "litrpg" style.
->> 
 
-> **u/skullcandy231** [+4] *
+> **u/skullcandy231** [+3]  (8 hours later)
 > 
 > Practical Guide to Evil. The narrative is a huge part of the story, and all villains are doomed to fail. The story is about a young villainess who was tutored by the only villain to ever really succeed at circumventing providence
-> 
 
-> **u/loimprevisto** [+4] *
+> **u/loimprevisto** [+5]  (9 hours later)
 > 
 > [New Game Minus](https://www.amazon.com/New-Game-Minus-Complete-Fantasy-ebook/dp/B085LMS2MS) might fit. The story starts with the MC (an ancient lich) defeating the protagonist.
-> 
 
-> **u/OnlyEvonix** [+2] *
+> **u/OnlyEvonix** [+2]  (4 days later)
 > 
 > Never Die Twice. https://www.royalroad.com/fiction/32067/never-die-twice
 > It is kinda dreary though, from the blurb it might seem like a comedy but it's not. I think it's a deconstruction of a number of mistakes even rationalist stories often make. People don't forget what others have done, people question whether a given means was really the only way to achieve a certain end or merely the most convenient. Morality does not adhere to what side you're on, often bad people work in the name of good causes and good people do good in the name of flawed ones. I think it's a good idea to read it.
-> 
 
->> **u/Tracitus22222** [+2] *
+>> **u/Tracitus22222** [+2]  (4 days later)
 >> 
 >> Read it, while the final arc was ok the first chapters were really enjoyable
->> 
 
-> **u/Reply_or_Not** [+1] *
+> **u/Reply_or_Not** [+1]  (4 hours later)
 > 
 > Reverend Insanity!
-> 
 
-> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life* (20 hours later)
 > 
 > In [*Team Tyler's Van*](https://glowfic.com/posts/3866?view=flat)...
-> Well.  In another universe, one with magic, the protagonist would have starred in *Luminosity*.  In this story, Tyler's van slips on the ice in Forks High parking lot and there's nobody to rescue her.  Instead of dying though, she finds herself as the Summoned Hero in a world where everyone knows that means she's responsible for fighting the Demon Lord.
-> She would really rather not.
-> Her companion would, in a universe with different magic, have been raised by a biochemist and star in another famous work of rationalist fiction.  His magical school nonetheless features a remarkably confusing headmistress and an incredibly competent professor/mentor.
-> (Sadly unfinished, but it's by the original authors and fun while it lasts.  Content warning: glowfic)
 > 
+> Well.  In another universe, one with magic, the protagonist would have starred in *Luminosity*.  In this story, Tyler's van slips on the ice in Forks High parking lot and there's nobody to rescue her.  Instead of dying though, she finds herself as the Summoned Hero in a world where everyone knows that means she's responsible for fighting the Demon Lord.
+> 
+> She would really rather not.
+> 
+> Her companion would, in a universe with different magic, have been raised by a biochemist and star in another famous work of rationalist fiction.  His magical school nonetheless features a remarkably confusing headmistress and an incredibly competent professor/mentor.
+> 
+> (Sadly unfinished, but it's by the original authors and fun while it lasts.  Content warning: glowfic)
 
-> **u/sparklingkisses** [+1] *
+> **u/sparklingkisses** [+1]  (a day later)
 > 
 > I enjoyed "My Next Life as a Villainess: All Routes Lead to Doom!" In anime form (Not rational beyond the deliberate trope subversion) but I did _not_ realize that its main premise is entire genre until your post.
-> 
 
-> **u/OnlyEvonix** [+1] *
+> **u/OnlyEvonix** [+1]  (4 days later)
 > 
 > Somebody Stop Her! is good, very dense
-> 
 
 ---
 

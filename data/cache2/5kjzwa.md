@@ -2,7 +2,7 @@
 
 * Author: u/AmeteurOpinions  *Finally, everyone was working together.**
 * URL: https://twigserial.wordpress.com/2016/12/27/head-over-heels-16-1/
-* Score: 15
+* Score: 14
 
 * Created: 2016-12-27T14:38:16
 
@@ -12,9 +12,10 @@
 
 ### Comments:
 
-> **u/Drexer** [+5] *
+> **u/Drexer** [+7]  (2 hours later)
 > 
 > So, because the discussion of the importance of the latest revelation has come up various times I want to bring attention to one [post by wildbow](https://twigserial.wordpress.com/2016/12/15/bitter-pill-15-14/#comment-17550):
+> 
 > > It undermines the legitimacy of a line of leadership extending back since before Wollstone. The Crown has people who are loyal and who recognize or believe in the blood-given right to rule. There’s the idea that these people were the cream of the crop to begin with, in breeding and wealth, in esteem and in talent, and then they were made better by cutting edge science. There’s a system in place, and you can trust that even if you fear the nobles, there’s a reason they’re there and it makes sense. People accept this.
 > > 
 > > The emphasis here is on ‘glorified’, on the fact that it was a farce and it was a lie that was sold to the people. You start talking about the fact that the nobles were actually homeless children and orphans, and now people start wondering. On the ground level, people start asking ‘what right do you have to rule over me?’ and the answer no longer has anything to do with legitimacy or right or breeding or establishment, because none of those things exist anymore. The only establishment that people see now is a lot of question marks and shadiness. What else are they lying about? How deep does this farce extend?
@@ -32,19 +33,18 @@
 > > There’s even more, to do with the nobles. Who don’t all even know what they are, and the effect on them.
 > > 
 > > You’re saying the Emperor has no clothes and that the emperor and the entire court knew. Taking the gleam out of the crown itself, changing the image into a tarnished, twisted thing, not an established part of the Crown’s respected background and culture. The nobles as described were organic, then augmented. There’s nothing organic about the picture this paints.
-> I think the reader perspective is particularly complicated in Twig as the viewpoint is made a lot from the people on the outside of the society, both on the top and on the bottom of the social scale, and this ends up making us forget the rest of it and how this small thing(for us which live in a society which has a social background of democratic leanings) can have a huge impact in this fictional world.
 > 
+> I think the reader perspective is particularly complicated in Twig as the viewpoint is made a lot from the people on the outside of the society, both on the top and on the bottom of the social scale, and this ends up making us forget the rest of it and how this small thing(for us which live in a society which has a social background of democratic leanings) can have a huge impact in this fictional world.
 
->> **u/CouteauBleu** [+3]  *We are the Empire.**
+>> **u/CouteauBleu** [+3]  *We are the Empire.* (3 hours later)
 >> 
 >> Yeah. I like the moments in Twig where Sy notices that he sees more violence in a week than most people in a lifetime.
->> 
 
-> **u/Sparkwitch** [+2] *
+> **u/Sparkwitch** [+2]  (16 hours later)
 > 
 > I'd been hoping that because we'd never gotten a Jamie/Jessie interlude after all this time, there was going to be some giant revelation there of long term plans and dark histories. A character who remembers everything might very well have all sorts of secrets.
-> Instead: Snuggles. *C'est la vie*.
 > 
+> Instead: Snuggles. *C'est la vie*.
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/AmeteurOpinions  *Finally, everyone was working together.**
 * URL: http://www.reddit.com/r/TrueAnime/comments/26urju/shounen_university_undergraduate_reality_studies/
-* Score: 11
+* Score: 12
 
 * Created: 2014-05-30T16:26:09
 

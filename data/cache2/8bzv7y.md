@@ -2,7 +2,7 @@
 
 * Author: u/AutoModerator *
 * URL: https://www.reddit.com/r/rational/comments/8bzv7y/d_friday_offtopic_thread/
-* Score: 23
+* Score: 22
 
 * Created: 2018-04-13T15:07:42
 
@@ -15,345 +15,347 @@ So do you want to talk about how your life has been going? Non-rational and/or n
 
 ### Comments:
 
-> **u/blazinghand** [+28]  *Chaos Undivided**
+> **u/blazinghand** [+28]  *Chaos Undivided* (5 hours later)
 > 
 > https://voxette-vk.tumblr.com/post/172901174932/when-algorithms-surprise-us
-> >**Destructive problem-solving**
-> >Something as apparently benign as a list-sorting algorithm could also solve problems in rather innocently sinister ways.
-> >**Well, it’s not unsorted:** For example, there was an algorithm that was supposed to sort a list of numbers. Instead, it learned to delete the list, so that it was no longer technically unsorted.
-> >**Solving the Kobayashi Maru test:** Another algorithm was supposed to minimize the difference between its own answers and the correct answers. It found where the answers were stored and deleted them, so it would get a perfect score.
 > 
+> >**Destructive problem-solving**
+> 
+> >Something as apparently benign as a list-sorting algorithm could also solve problems in rather innocently sinister ways.
+> 
+> >**Well, it’s not unsorted:** For example, there was an algorithm that was supposed to sort a list of numbers. Instead, it learned to delete the list, so that it was no longer technically unsorted.
+> 
+> >**Solving the Kobayashi Maru test:** Another algorithm was supposed to minimize the difference between its own answers and the correct answers. It found where the answers were stored and deleted them, so it would get a perfect score.
 
->> **u/CouteauBleu** [+8]  *We are the Empire.**
+>> **u/CouteauBleu** [+9]  *We are the Empire.* (12 hours later)
 >> 
 >> > It turned out that the algorithm’s strategy was to place its move very, very far away, so that when its opponent’s computer tried to simulate the new greatly-expanded board, the huge gameboard would cause it to run out of memory and crash, forfeiting the game.
->> I love that one. An AI would immediately stumble upon it and beat most amateur programs with it, but a decent programmer who put some thought into their design would never ever be blindsided by this trick.
 >> 
+>> I love that one. An AI would immediately stumble upon it and beat most amateur programs with it, but a decent programmer who put some thought into their design would never ever be blindsided by this trick.
 
->> **u/sicutumbo** [+6] *
+>> **u/sicutumbo** [+7]  (5 hours later)
 >> 
 >> https://www.smbc-comics.com/comic/efficient-sorting
->> I particularly liked the one in your list about exploiting floating point math to get free energy.
 >> 
+>> I particularly liked the one in your list about exploiting floating point math to get free energy.
 
->>> **u/blazinghand** [+2]  *Chaos Undivided**
+>>> **u/blazinghand** [+2]  *Chaos Undivided* (6 hours later)
 >>> 
 >>> Heh, great SMBC comic.
->>> Ah, to be clear I am not voxette-vk who made that list or the author of the original article, I just stumbled upon this.
 >>> 
+>>> Ah, to be clear I am not voxette-vk who made that list or the author of the original article, I just stumbled upon this.
 
-> **u/None** [+15] *
+> **u/None** [+14]  (46 minutes later)
 > 
 > [deleted]
-> 
 
->> **u/SvalbardCaretaker** [+6]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+6]  *Mouse Army* (4 hours later)
 >> 
 >> Ok this is awesome! [tag](#s "  Before the twist I was actually going to comment on how Hermiones lines seem wrong and more fitting for Quirrel. Only question is, would Quirrel make so blund an error as to falsely impersonate Hermione? But then that might have been his goal all along...") If you have me thinking along those lines, you are doing something very very right. 
+>> 
 >> >The old world would end via a paradigm shift 
+>> 
 >> Or via a tegmarkian shift into another universe ultrastructure with more optimal parameters (it feels as if canon!HPJEV would add something like that) 
+>> 
 >> >A global society of immortal wizards, spreading throughout the galaxy...
+>> 
 >> [global] is of a degree of falsehood untypical of HPJEV,  [stellar]/[interplanetar] works
+>> 
 >> 4 instances of "grin/grinning" - too much in such a short text. Replace some with [smile] etc 
+>> 
 >> >"Your subjective experience of the past 36 hours has, in reality, taken place over the course of approximately 15 minutes//false memory charm 
+>> 
 >> In HPMOR canon a fundamental limit of the FMC is its 1:1 time ratio. Its actually a rather important plot point [why has Hermione spent month obsessing over her perceived nemesis Draco? Can't have been FMC, that takes too much time. We dont know the method; that has always been a sign of Voldemorts involvement.]  
+>> 
 >> >cast-iron bacon press 
 >> That feels *really* incongruent with canon!HPJEV. Use a book press or a lizard press or something, not bacon. 
->> Please more. 
->> Exposition seems fine to me.
 >> 
+>> Please more. 
+>> 
+>> Exposition seems fine to me.
 
->>> **u/None** [+2] *
+>>> **u/None** [+2]  (5 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army* (6 hours later)
 >>>> 
 >>>> Are bacon presses even a british thing? 
->>>> Looking forward to more, despite the incongruencies ;-)
 >>>> 
+>>>> Looking forward to more, despite the incongruencies ;-)
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (3 hours later)
 >> 
 >> [deleted]
->> 
 
->>> **u/None** [+1] *
+>>> **u/None** [+1]  (4 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong* (16 hours later)
 >>>> 
 >>>> I would have went more for four dollars and thirteen cents myself. :P
->>>> 
 
->> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (5 hours later)
 >> 
 >> If you can tell me without plot spoilers, why are you waiting to have all 10 chapters done first before posting?
->> 
 
->>> **u/None** [+3] *
+>>> **u/None** [+3]  (6 hours later)
 >>> 
 >>> [deleted]
->>> 
 
->>>> **u/veruchai** [+3] *
+>>>> **u/veruchai** [+3]  (20 hours later)
 >>>> 
 >>>> At the risk of further messing up your schedule, I appreciate your intent to have optimal story structure. It is something I feel a lot of online fiction misses out on by writing single chapters at a time.  
 >>>> Having said that, over-editing is a thing. You seem self aware enough about it though. Good luck; I look forward to reading it soonish :p
->>>> 
 
->>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy* (7 hours later)
 >>>> 
 >>>> Something that might help is getting a group of people together and give each person to read one version of the first three chapters. From their feedback, you can better understand how to best order the chapters. If you can't get anyone in real life to do this, then maybe work over PM with readers from /r/hpmor or /r/rational.
->>>> 
 
->>>>> **u/None** [+2] *
+>>>>> **u/None** [+2]  (8 hours later)
 >>>>> 
 >>>>> [deleted]
->>>>> 
 
->>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy* (9 hours later)
 >>>>>> 
 >>>>>> I understand perfectly that "do it by yourself" desire. Good luck!
->>>>>> 
 
->>>>>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>>>>> **u/CouteauBleu** [+3]  *We are the Empire.* (11 hours later)
 >>>>>> 
 >>>>>> I think you're overthinking the pseudonym thing.
->>>>>> Actually, since we're on the subject, what do you mean by "Elizabeth doesn't exist"? Like, I get that you're not named Elizabeth, but the person you're answering to probably isn't named "Xamuel", and I'm not *really* a French sentient blue knife (well, I'm really French and sentient, but that's about it). Do you mean that you act out a different personality while online?
->>>>>> ---
->>>>>> Regardless, I think you're overthinking this. If this is your first work of fiction, you're supposed to do it "start-up style": start simple, iterate a lot, and move forward with new content instead of redoing the same thing until it's perfect.
->>>>>> If you have content, even discarded content, and people who might be willing to give you feedback, then you should release it all.
->>>>>> As it is, I can't give you any useful feedback because I have a ton of questions where the answers would be "It's explained in the next chapter".
 >>>>>> 
+>>>>>> Actually, since we're on the subject, what do you mean by "Elizabeth doesn't exist"? Like, I get that you're not named Elizabeth, but the person you're answering to probably isn't named "Xamuel", and I'm not *really* a French sentient blue knife (well, I'm really French and sentient, but that's about it). Do you mean that you act out a different personality while online?
+>>>>>> 
+>>>>>> ---
+>>>>>> 
+>>>>>> Regardless, I think you're overthinking this. If this is your first work of fiction, you're supposed to do it "start-up style": start simple, iterate a lot, and move forward with new content instead of redoing the same thing until it's perfect.
+>>>>>> 
+>>>>>> If you have content, even discarded content, and people who might be willing to give you feedback, then you should release it all.
+>>>>>> 
+>>>>>> As it is, I can't give you any useful feedback because I have a ton of questions where the answers would be "It's explained in the next chapter".
 
->>>>>>> **u/None** [+1] *
+>>>>>>> **u/None** [+1]  (22 hours later)
 >>>>>>> 
 >>>>>>> [deleted]
->>>>>>> 
 
->>>>>>>> **u/CouteauBleu** [+2]  *We are the Empire.**
+>>>>>>>> **u/CouteauBleu** [+2]  *We are the Empire.* (23 hours later)
 >>>>>>>> 
 >>>>>>>> > I mean by "Elizabeth doesn't exist" that there is no human being that corresponds to the identity "Elizabeth Robin Thales." That's not even remotely similar to my real name, so no one (other than a select few people I know in the real world) is ever going to know I wrote this thing.
->>>>>>>> ... yeah, but that's, like, everyone. Alexander Wales isn't *really* named "Alexander Wales" (or Cthulhuraejepsen), and *obviously* nobody in real life is named "Eliezer Yudkowsky", and if they were they would be too ashamed to ever talk with anyone on the internet.
 >>>>>>>> 
+>>>>>>>> ... yeah, but that's, like, everyone. Alexander Wales isn't *really* named "Alexander Wales" (or Cthulhuraejepsen), and *obviously* nobody in real life is named "Eliezer Yudkowsky", and if they were they would be too ashamed to ever talk with anyone on the internet.
 
-> **u/ToaKraka** [+11]  *https://i.imgur.com/OQGHleQ.png**
+> **u/ToaKraka** [+14]  *https://i.imgur.com/OQGHleQ.png* (an hour later)
 > 
 > Reminder: Reposting is a *good* thing.  
 > \- Option 1: Nothing can be posted more than once in a subreddit. A person who hasn't seen the good submissions of yesteryear *never* will see them, unless he takes the time to look through the archives himself or the submissions happen to be crossposted elsewhere.  
 > \- Option 2: Reposts make up a high proportion of all submissions. A person who already has seen the good submissions of yesteryear will have his front page and his r/all clogged with them, unless he takes the time to downvote the ones that he considers to have been reposted too heavily and refresh the page. (Being a savvy Redditor, he obviously has activated the setting that automatically hides all submissions that he has upvoted and downvoted.)  
 > \- Option ~~1~~ 2 is better than Option ~~2~~ 1 because being forced to downvote annoying submissions in your front page and your r/all is *significantly* less tiresome than being forced to sift through the archives of *dozens* of different subreddits. (Presumably, either option would impose its special hardship on the same number of people.)
-> 
 
->> **u/suyjuris** [+6] *
+>> **u/suyjuris** [+6]  (5 hours later)
 >> 
 >> Whether option 1 is bad depends on the relative quality of the posts. If you are in a subreddit where content is easily replaceable and there are no high-quality outliers (I can think of a few), then a repost might be a net-negative: Some people have seen it already, so for them it's a value of, say, 0.5 of a baseline post. The majority has not, they get a 1.01 post. Obviously those numbers are pulled out of thin air and up for debate, but I think they fit many subreddits. (Ones with lots of qualitatively similar content, where reposts diminish a post's value significantly.)
->> In those cases, a steady stream of new content is the desirable state, and you want to encourage that. Sadly, voting does not address this problem, as most users just see a 1.01 baseline post, and act correspondingly. (Rightfully so, I might add.) Thus, the local incentives do not line up with the global optimum. I believe this is—in an abstract sense—why you see people complaining.
->> Note that the above does explicitly not apply to the case you are describing, where you are trying to see *all* high-quality submissions.
->> One final remark: Reposts seem like something that is incredibly easy to mitigate technologically. Facebook can recognise my *face* being used in a photo, how hard can detecting *identical* images be?
 >> 
+>> In those cases, a steady stream of new content is the desirable state, and you want to encourage that. Sadly, voting does not address this problem, as most users just see a 1.01 baseline post, and act correspondingly. (Rightfully so, I might add.) Thus, the local incentives do not line up with the global optimum. I believe this is—in an abstract sense—why you see people complaining.
+>> 
+>> Note that the above does explicitly not apply to the case you are describing, where you are trying to see *all* high-quality submissions.
+>> 
+>> One final remark: Reposts seem like something that is incredibly easy to mitigate technologically. Facebook can recognise my *face* being used in a photo, how hard can detecting *identical* images be?
 
->>> **u/sicutumbo** [+1] *
+>>> **u/sicutumbo** [+1]  (6 hours later)
 >>> 
 >>> > One final remark: Reposts seem like something that is incredibly easy to mitigate technologically. Facebook can recognise my *face* being used in a photo, how hard can detecting *identical* images be?
->>> It probably isn't that difficult to do, but I imagine it isn't worth it in terms of hardware. Checking every post if it's a copy of any other post in the history of that sub would get somewhat costly for the bigger and more active subs, and costly in terms of CPU time translates into additional cost for running servers. For a small wuality of life benefit, it's not a good investment. Plus, if people actually didn't like reposts, they wouldn't get upvoted so much.
->>> Also, if the algorithm has to check not just for whether a photo is identical to a previously posted one but also whether or not it's very similar (i.e. you can't just crop one row of pixels and have it get through) it would get even more costly.
 >>> 
+>>> It probably isn't that difficult to do, but I imagine it isn't worth it in terms of hardware. Checking every post if it's a copy of any other post in the history of that sub would get somewhat costly for the bigger and more active subs, and costly in terms of CPU time translates into additional cost for running servers. For a small wuality of life benefit, it's not a good investment. Plus, if people actually didn't like reposts, they wouldn't get upvoted so much.
+>>> 
+>>> Also, if the algorithm has to check not just for whether a photo is identical to a previously posted one but also whether or not it's very similar (i.e. you can't just crop one row of pixels and have it get through) it would get even more costly.
 
->>>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (8 hours later)
 >>>> 
 >>>> There's tools for this: Karmadecay is one, I think. /r9k/ has a similar sort of filter on images that are posted on it.
->>>> 
 
->>>> **u/CouteauBleu** [+1]  *We are the Empire.**
+>>>> **u/CouteauBleu** [+1]  *We are the Empire.* (11 hours later)
 >>>> 
 >>>> Yeah, but there are workarounds for these problems.
->>>> For instance, a bot can associate tags to an image using machine-learning-based algorithms, and for every new image, apply the duplicate detection to every image with similar tags posted in the last 6 months. (obviously this simplistic approach would have tons of flaws, but a more elaborate one would work reasonably well)
 >>>> 
+>>>> For instance, a bot can associate tags to an image using machine-learning-based algorithms, and for every new image, apply the duplicate detection to every image with similar tags posted in the last 6 months. (obviously this simplistic approach would have tons of flaws, but a more elaborate one would work reasonably well)
 
->>> **u/veruchai** [+1] *
+>>> **u/veruchai** [+1]  (20 hours later)
 >>> 
 >>> Specifically on reddit I always thought the voting system was fine for reposts. If I haven't seen it I upvote, if I have seen it I downvote. Recent reposts should get voted out by the community. The longer you wait to reposts the more likely it is new users have arrived to upvote. Obviously there are more things at play but because the basic system is there I feel empowered and don't complain.  
 >>> Admittedly this might be less relevant because your specific case is different from mine.
->>> 
 
->> **u/sicutumbo** [+3] *
+>> **u/sicutumbo** [+3]  (2 hours later)
 >> 
 >> Option 1 is also better than 2 (although both are extremes) because it caters to long time members as opposed to an influx of new ones. Option 1 means that there is less content per refresh of the page, but it means that the people who are dedicated to that sub in particular will be able to open a new link without having to check if they've already read the content. Every new link guarantees new content, even if it isn't always high quality. And catering towards long time members is beneficial because those members make up a disproportionate number of the people who make comments and make new posts (when posts consist of user created content, in contrast to some news subreddit that posts links to articles that the submitter didn't make).
->> Having no reposts also means that new content is much more likely to be seen by the userbase, because it doesn't have to compete with the best content from the past. This encourages people to try new ideas, instead of sticking with variations of the already popular content.
->> Option 2 is probably much better for the membership numbers of a sub, because it constantly shows off the best the sub has to offer, and also because a single repost of a popular submission is much more likely to cause someone to subscribe than for an existing member to unsubscribe, but it's bad for the more abstract health of the sub.
 >> 
+>> Having no reposts also means that new content is much more likely to be seen by the userbase, because it doesn't have to compete with the best content from the past. This encourages people to try new ideas, instead of sticking with variations of the already popular content.
+>> 
+>> Option 2 is probably much better for the membership numbers of a sub, because it constantly shows off the best the sub has to offer, and also because a single repost of a popular submission is much more likely to cause someone to subscribe than for an existing member to unsubscribe, but it's bad for the more abstract health of the sub.
 
->> **u/blazinghand** [+2]  *Chaos Undivided**
+>> **u/blazinghand** [+2]  *Chaos Undivided* (3 hours later)
 >> 
 >> I agree that reposting is good. I repost things here from time to time, and encourage others to do the same. Unearthing an oldie-but-a-goodie type thing is great to reminisce, re-read, and show to newer community members. On top of that, it's not like we have so much traffic that it would drown out the new stuff.
->> 
 
-> **u/SnowGN** [+14] *
+> **u/SnowGN** [+11]  (14 hours later)
 > 
 > Is it worth reading A Practical Guide to Evil? Right now it's #1 on Top Web Fiction, above even Ward and The Wandering Inn. Guess I'm kinda curious now.
-> 
 
->> **u/CouteauBleu** [+8]  *We are the Empire.**
+>> **u/CouteauBleu** [+7]  *We are the Empire.* (23 hours later)
 >> 
 >> Reposting a review I wrote a few months ago:
->> ---
->> I think *A Practical Guide to Evil* is a mix of three genres: young adult anti-hero epic, political intrigue, and meta-story telling. I tolerate the first, love the second and hate the third.
->> Catherine is basically the archetypal female young adult character. She's grown up in a difficult environment, seen suffering and misery, learned to fend for herself, she's the Chosen One but she's building her own destiny. She's baaaasically Katniss Everdeen with more agency, and a rationalist spin ("most heroes try to do X, X doesn't work, I'm going to try Y instead"). So if you don't find this type of character compelling... yeah, ain't gonna work out.
->> Personally, I love the worldbuilding and the political elements. Stuff like the idea that Amadeus made the Imperial Legion more popular by having it patrol areas controlled by corrupt nobles and corrupt police forces, or the idea that Callow and Praes are doomed to fight because Praes has a constant overpopulation problem and needs to invade Callow to either cull its population or import food (which was also a theme in OotS).
->> On the other hand, if you forget the big picture plan of "unifying Callow and Praes through common enemies" for a moment, the day to day reality is pretty grim. Catherine is working for an Empire that has consistently been an oppressive Tyranny for centuries, and just happens to currently be getting more progressive. Her plan to unify the region entails a lot dying, suffering, and civil-war-ing. The story doesn't pull punches on the fact that every battle has casualties, and every manoeuver requires sending soldiers to their deaths. Maybe you don't like the frequent reminders that a lot of people are dying in the depicted conflicts.
->> The meta story-telling is when a character goes "I'm a villain and he's a hero, that means he's going to win because stories!". I don't have much to say on that except I don't like it. It's another thing that drawn from *Order of the Stick* (Black is basically a cross between OotS' Tarquin and Darth Vader), and... I dunno, it's not very interesting to me. I'm not really a fan of 4th-wall breaking, unless it's used sparingly in comedies, so the whole idea of "We know we're in a story, so let's use strategies that will work because we're in a story" doesn't really appeal to me. I prefer the parts about logistics and politics.
->> Also, I know that "Evil" is in the title, but I don't really like the parts where they start to discuss Good and Evil. Despite what Star Wars would like you to believe, there's no ideology of Evil. There are weird Satanist cults, and philosophies of rationalizing why it's okay to be selfish, and you can always use some variation of individualism and "The only virtue is being strong because Darwin / because good and bad are subjective / whatever", but essentially, everyone either believe themselves to be "Good", feel like they're not "Good" but would like to be, or don't care and think the idea of "Good" is pointless.
->> So while I understand that the setting has a whole divine eternal war between order and individualism and how they basically map to Good and Evil in human societies, I still find it weird when the protagonist goes "We are the villains!" even though she has a pretty strong sense of ethics. Same thing for Worm, I have trouble taking someone seriously when he's saying "This person is a villain!" Who does that? If you want to use labels, use "criminal" or "murderer" or "scumbag", but having cops talk about "villains" is just silly.
->> ---
->> Overall, yeah, the writing goes from kind of mediocre to amazing. I definitely recommend you give it a try for a few chapters.
 >> 
+>> ---
+>> 
+>> I think *A Practical Guide to Evil* is a mix of three genres: young adult anti-hero epic, political intrigue, and meta-story telling. I tolerate the first, love the second and hate the third.
+>> 
+>> Catherine is basically the archetypal female young adult character. She's grown up in a difficult environment, seen suffering and misery, learned to fend for herself, she's the Chosen One but she's building her own destiny. She's baaaasically Katniss Everdeen with more agency, and a rationalist spin ("most heroes try to do X, X doesn't work, I'm going to try Y instead"). So if you don't find this type of character compelling... yeah, ain't gonna work out.
+>> 
+>> Personally, I love the worldbuilding and the political elements. Stuff like the idea that Amadeus made the Imperial Legion more popular by having it patrol areas controlled by corrupt nobles and corrupt police forces, or the idea that Callow and Praes are doomed to fight because Praes has a constant overpopulation problem and needs to invade Callow to either cull its population or import food (which was also a theme in OotS).
+>> 
+>> On the other hand, if you forget the big picture plan of "unifying Callow and Praes through common enemies" for a moment, the day to day reality is pretty grim. Catherine is working for an Empire that has consistently been an oppressive Tyranny for centuries, and just happens to currently be getting more progressive. Her plan to unify the region entails a lot dying, suffering, and civil-war-ing. The story doesn't pull punches on the fact that every battle has casualties, and every manoeuver requires sending soldiers to their deaths. Maybe you don't like the frequent reminders that a lot of people are dying in the depicted conflicts.
+>> 
+>> The meta story-telling is when a character goes "I'm a villain and he's a hero, that means he's going to win because stories!". I don't have much to say on that except I don't like it. It's another thing that drawn from *Order of the Stick* (Black is basically a cross between OotS' Tarquin and Darth Vader), and... I dunno, it's not very interesting to me. I'm not really a fan of 4th-wall breaking, unless it's used sparingly in comedies, so the whole idea of "We know we're in a story, so let's use strategies that will work because we're in a story" doesn't really appeal to me. I prefer the parts about logistics and politics.
+>> 
+>> Also, I know that "Evil" is in the title, but I don't really like the parts where they start to discuss Good and Evil. Despite what Star Wars would like you to believe, there's no ideology of Evil. There are weird Satanist cults, and philosophies of rationalizing why it's okay to be selfish, and you can always use some variation of individualism and "The only virtue is being strong because Darwin / because good and bad are subjective / whatever", but essentially, everyone either believe themselves to be "Good", feel like they're not "Good" but would like to be, or don't care and think the idea of "Good" is pointless.
+>> 
+>> So while I understand that the setting has a whole divine eternal war between order and individualism and how they basically map to Good and Evil in human societies, I still find it weird when the protagonist goes "We are the villains!" even though she has a pretty strong sense of ethics. Same thing for Worm, I have trouble taking someone seriously when he's saying "This person is a villain!" Who does that? If you want to use labels, use "criminal" or "murderer" or "scumbag", but having cops talk about "villains" is just silly.
+>> 
+>> ---
+>> 
+>> Overall, yeah, the writing goes from kind of mediocre to amazing. I definitely recommend you give it a try for a few chapters.
 
->> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>> **u/SvalbardCaretaker** [+3]  *Mouse Army* (19 hours later)
 >> 
 >> I have read a lot of it but stopped now. Its extremely light fiction, not near the solid quality of other works on that list (unsong, worm, ward, worth the candle etc). I dont recommend it to anyone.
->> 
 
->>> **u/Makin-** [+7]  *homestuck ratfic, you can do it**
+>>> **u/Makin-** [+7]  *homestuck ratfic, you can do it* (22 hours later)
 >>> 
 >>> Thank god I'm not alone. APGtE doesn't feel particularly rational to me, just a solid deconstruction that still doesn't really go far beyond the usual young adult novel quality-wise.
->>> I know I would have loved it before reading all the other stuff linked on this subreddit, so it might be a case of chronologically inverted [SeinfeldIsUnfunny](http://tvtropes.org/pmwiki/pmwiki.php/Main/SeinfeldIsUnfunny). Whatever the case, I gave it a fair chance and I don't really see what most everyone else sees in it.
 >>> 
+>>> I know I would have loved it before reading all the other stuff linked on this subreddit, so it might be a case of chronologically inverted [SeinfeldIsUnfunny](http://tvtropes.org/pmwiki/pmwiki.php/Main/SeinfeldIsUnfunny). Whatever the case, I gave it a fair chance and I don't really see what most everyone else sees in it.
 
->>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army* (23 hours later)
 >>>> 
 >>>> Mother of learning too. Its a nice power fantasy but all the _other_ stuff thats important to me for something being a good read is just not there. 
->>>> Good prose, eloquence, the human condition, a joke or two, a dramatic story arc, a twist or two etc.
 >>>> 
+>>>> Good prose, eloquence, the human condition, a joke or two, a dramatic story arc, a twist or two etc.
 
->> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.* (22 hours later)
 >> 
 >> Currently it’s getting a big boost because it started Book 4 after a small break, but it really is a good story. I would describe it as a combination of the better parts of *Worm* and *Ender’s Game*. If that sounds like something you would enjoy, then try it out.
->> 
 
-> **u/khat_dakar** [+8] *
+> **u/khat_dakar** [+7]  (an hour later)
 > 
 > This is off-topic for this thread, but does anyone remember that fic where you could do alchemy/chemistry with objects according to their letters? Put a stick into a pot, they yield a tick with a spot.
-> 
 
->> **u/xamueljones** [+17]  *My arch-enemy is entropy**
+>> **u/xamueljones** [+18]  *My arch-enemy is entropy* (an hour later)
 >> 
 >> [The Study of Anglophysics](http://slatestarcodex.com/2014/04/03/the-study-of-anglophysics/)
->> 
 
->>> **u/khat_dakar** [+2] *
+>>> **u/khat_dakar** [+2]  (an hour later)
 >>> 
 >>> Appreciate it.
->>> 
 
-> **u/callmesalticidae** [+7]  *writes worldbuilding books**
+> **u/callmesalticidae** [+8]  *writes worldbuilding books* (6 hours later)
 > 
 > My last update for Heroes Save the World stated that it would be returning in mid-April. The time that it's taking me to recover from eye surgery is forcing me to put that on the back burner if I want to stay on top of school and so on, so expect it to resume updating in August instead. I have an outline for the next thirteen chapters and several of them are written up already, but I want to wait until the sequence is complete before I release anything (so that I can revise earlier chapters if necessary).
-> 
 
-> **u/DaystarEld** [+7]  *Pokémon Professor**
+> **u/DaystarEld** [+6]  *Pokémon Professor* (2 hours later)
 > 
 > [Thunderbolt Fantasy](http://www.crunchyroll.com/thunderbolt-fantasy/episode-1-code-of-umbrellas-716075) is probably my favorite new "anime" series of the year so far (as in, that I've watched since 2018 started, not that has come out). It has one of, if not the, best Trickster Thief/Rogue character archetype I've ever seen. There's also a fantastic Wandering Swordsman archetype in the main character. Both are unique in ways I can't discuss without spoilers. The movie is fantastic too.
-> If anyone's bothered by the medium, I was a bit too at first, but stopped even noticing they were puppets within 2 or 3 episodes. Give it a bit to see if it draws you in with the great writing and music and characters. It's by Gen Urobuchi, who wrote a lot of fantastic manga/anime, such as Fate/Zero, Madoka Magica, and Psycho-Pass.
-> To those who have seen the series and movie...
-> How would you classify [Spoilers](#s  the Enigmatic Gale), morally? 
-> [Spoilers](#s  I came away from the series thinking of him as Chaotic Good, but after the movie I actually have trouble not seeing him as Chaotic Evil, possibly Chaotic Neutral at best. This was reinforced by learning that the translation of one of his lines in the series poorly conveyed his reasoning for not continuing in the way of the sword: it said that path would end in villainy, which he would find boring, but what he actually said was apparently that it would lead to the END of villainy, which he would find boring.) 
-> Curious to know others' thoughts on him.
 > 
+> If anyone's bothered by the medium, I was a bit too at first, but stopped even noticing they were puppets within 2 or 3 episodes. Give it a bit to see if it draws you in with the great writing and music and characters. It's by Gen Urobuchi, who wrote a lot of fantastic manga/anime, such as Fate/Zero, Madoka Magica, and Psycho-Pass.
+> 
+> To those who have seen the series and movie...
+> 
+> How would you classify [Spoilers](#s  the Enigmatic Gale), morally? 
+> 
+> [Spoilers](#s  I came away from the series thinking of him as Chaotic Good, but after the movie I actually have trouble not seeing him as Chaotic Evil, possibly Chaotic Neutral at best. This was reinforced by learning that the translation of one of his lines in the series poorly conveyed his reasoning for not continuing in the way of the sword: it said that path would end in villainy, which he would find boring, but what he actually said was apparently that it would lead to the END of villainy, which he would find boring.) 
+> 
+> Curious to know others' thoughts on him.
 
->> **u/veruchai** [+8] *
+>> **u/veruchai** [+7]  (19 hours later)
 >> 
 >> >great writing ... and characters  
+>> 
 >> *written by Gen Urobuchi*  
 >> No surprises there, that man is literally a national treasure.
->> 
 
->>> **u/FlameDragonSlayer** [+3] *
+>>> **u/FlameDragonSlayer** [+3]  (23 hours later)
 >>> 
 >>> Totally agree, I didn't realise how many  great anime were crafted by him
->>> 
 
->>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>> **u/DaystarEld** [+1]  *Pokémon Professor* (a day later)
 >>> 
 >>> Thanks, I totally forgot to mention this, updating comment!
->>> 
 
->> **u/Sirra-** [+4] *
+>> **u/Sirra-** [+4]  (3 hours later)
 >> 
 >> Seconded. 
 >> [Spoilers](#s " With the translation: it is possible that he was just bragging baselessly to the Bones of Creation. His goal at the time was to completely humiliate the BoC, so exaggerating his power lines up with his motives.")
->> [Spoilers](#s " Whether or not he's actually strong enough to end all evil, though, it's still clear that he values punishing evil over preventing evil or doing good. After the series, I'd have put him at Chaotic Neutral, because he never actually did anything that turned out to be evil in the end, and I wouldn't classify someone as evil just because they aren't acting on their ability to do good. After the movie, though, I think he's Chaotic Evil. Not only did he bring the Screaming Phoenix Killer down the road to redemption only to laugh as he fell back into killing, but the EG didn't even kill the SPK afterwards. Every person the SPK killed from that point on is on the EG's head.")
 >> 
+>> [Spoilers](#s " Whether or not he's actually strong enough to end all evil, though, it's still clear that he values punishing evil over preventing evil or doing good. After the series, I'd have put him at Chaotic Neutral, because he never actually did anything that turned out to be evil in the end, and I wouldn't classify someone as evil just because they aren't acting on their ability to do good. After the movie, though, I think he's Chaotic Evil. Not only did he bring the Screaming Phoenix Killer down the road to redemption only to laugh as he fell back into killing, but the EG didn't even kill the SPK afterwards. Every person the SPK killed from that point on is on the EG's head.")
 
->>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>>> **u/DaystarEld** [+2]  *Pokémon Professor* (13 hours later)
 >>> 
 >>> Thank you! What he did to him was actually the catalyst for this question, was curious to see if anyone else would bring it up. [Spoiler](#s It seemed the act of a genuinely evil person, though I have to remind myself that he didn't know how close SPK was to actually renouncing his evil ways internally... and of course SPK wasn't a great person before that, so he was just considering it punishment for the wicked. But my heart broke for him so bad from how close he was to redemption and how cruelly he was made victim of the unjust accusations :( )
->>> 
 
->> **u/blazinghand** [+4]  *Chaos Undivided**
+>> **u/blazinghand** [+5]  *Chaos Undivided* (3 hours later)
 >> 
 >> Even if it sounds awful, just watch the first 3 minutes, and you'll be amazed!
->> 
 
-> **u/space_fountain** [+4] *
+> **u/space_fountain** [+4]  (12 hours later)
 > 
 > So I've just about gotten it confirmed that I'm going to get at least an offer from one of the companies I interviewed with out in San Francisco. I'm kind of insanely nervous. Does anyone on here have experience moving across the country? Obviously it's at least somewhat dependent on money, but I'm trying to decide if I'd take it. 
-> I'm trying to decide if I'm ready to move that far outside my comfort zone ect.
 > 
+> I'm trying to decide if I'm ready to move that far outside my comfort zone ect.
 
->> **u/currough** [+3] *
+>> **u/currough** [+3]  (16 hours later)
 >> 
 >> I've moved cross continent a couple times. My main advice is to accept that there's a financial cost to moving, and not try to transport anything that you don't absolutely need. Namely, try to move in one carload if you can. Anything more than that, and your moving costs are going to be more than just getting rid of things and re-buying when you get there.
->> 
 
-> **u/electrace** [+5] *
+> **u/electrace** [+3]  (11 hours later)
 > 
 > I've been considering trying some soylent-adjacent meal replacement shakes. Specifically, [this](https://www.completefoods.co/diy/recipes/simshame-superfood-soylent-high-protein-low-calorie-low-carb) is the top contender, and possibly also [this](https://www.completefoods.co/diy/recipes/keto-chow-150-master-rich-chocolate).
-> I'm not planning on replacing all my meals, but maybe one or two a day. Or maybe once I try it, it's disgusting and I give it up immediately, who knows? 
-> Anybody here ever try anything like these?
 > 
+> I'm not planning on replacing all my meals, but maybe one or two a day. Or maybe once I try it, it's disgusting and I give it up immediately, who knows? 
+> 
+> Anybody here ever try anything like these?
 
->> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857* (13 hours later)
 >> 
 >> >Anybody here ever try anything like these?
->> Not exactly, but recently I've replaced my breakfast (previously milk+cereal) with milk+protein powder, which I'd think is a little comparable. Because it's just breakfast I don't get bored of the food, but I don't really *enjoy* breakfast like I used to when I guzzled sugary cereal. YMMV, but I wouldn't suggest replacing more than a single meal, as you might run into a problem where you get frustrated and start "treating yourself" i.e., snacking on unhealthy stuff, undoing the work you'd put in.
->> Alternatively, if your rationale is ease-of-making, then look into getting a crockpot.
 >> 
+>> Not exactly, but recently I've replaced my breakfast (previously milk+cereal) with milk+protein powder, which I'd think is a little comparable. Because it's just breakfast I don't get bored of the food, but I don't really *enjoy* breakfast like I used to when I guzzled sugary cereal. YMMV, but I wouldn't suggest replacing more than a single meal, as you might run into a problem where you get frustrated and start "treating yourself" i.e., snacking on unhealthy stuff, undoing the work you'd put in.
+>> 
+>> Alternatively, if your rationale is ease-of-making, then look into getting a crockpot.
 
->> **u/xachariah** [+2] *
+>> **u/xachariah** [+2]  (a day later)
 >> 
 >> I've had keto chow, but have not tried Simshame.
->> Keto chow I remember tasting good, but I had extraordinary gas and stomach instability from it.  One of my prime reasons for liking Soylent is due to how even it makes my digestive system feel, so Keto Chow causing instability make it not worth using.  I prefer to Keto Fuel, but not to any normal soylent/joylent.
 >> 
+>> Keto chow I remember tasting good, but I had extraordinary gas and stomach instability from it.  One of my prime reasons for liking Soylent is due to how even it makes my digestive system feel, so Keto Chow causing instability make it not worth using.  I prefer to Keto Fuel, but not to any normal soylent/joylent.
 
->> **u/rhaps0dy4** [+2] *
+>> **u/rhaps0dy4** [+2]  (2 days later)
 >> 
 >> Almost every workday, I have [Huel](https://huel.com/) for breakfast. The texture is like oats but a little less thick, and the taste is slightly sweet, pretty good but plain. One other person in the office has also started to have it for breakfast.
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (11 hours later)
 >> 
 >> Yes, they are fucking disgusting
->> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (12 hours later)
 >> 
 >> Have you tried [meal squares](https://www.mealsquares.com/)? I haven't, since they aren't available outside the US, but they looked good.
->> 
 
->>> **u/gbear605** [+1]  *history’s greatest story**
+>>> **u/gbear605** [+1]  *history’s greatest story* (a day later)
 >>> 
 >>> When I tried them (about a year ago), they were decent. Somewhat tasty although a bit bland, as there's no sugar in them. The worst part was that they're very dry. You really need to have them with water or milk. Hmm, maybe have it with soylent?
->>> 
 
->> **u/Anderkent** [+1] *
+>> **u/Anderkent** [+1]  (14 hours later)
 >> 
 >> I tried Joylent around 2016, but the texture was tough to enjoy so I went back to just eating out all the time :P
->> 
 
 ---
 

@@ -2,7 +2,7 @@
 
 * Author: u/None *
 * URL: https://www.reddit.com/r/rational/comments/9k4arl/rtwip_gobbos_with_guns/
-* Score: 16
+* Score: 15
 
 * Created: 2018-09-30T06:47:42
 
@@ -22,59 +22,52 @@ May Papa Nurgle bless us with his holy contagion
 
 ### Comments:
 
-> **u/aldonius** [+3] *
+> **u/aldonius** [+3]  (5 hours later)
 > 
 > Intriguing! RSS-subscribed.
-> 
 
-> **u/Trips-Over-Tail** [+2]  *Death of Crabs**
+> **u/Trips-Over-Tail** [+2]  *Death of Crabs* (8 hours later)
 > 
 > I was expecting a Croc fic.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (12 hours later)
 >> 
 >> Okay, I'll bite, what's a croc fic?
->> 
 
->>> **u/Trips-Over-Tail** [+2]  *Death of Crabs**
+>>> **u/Trips-Over-Tail** [+2]  *Death of Crabs* (16 hours later)
 >>> 
 >>> A fanfic about [Croc](https://en.wikipedia.org/wiki/Croc:_Legend_of_the_Gobbos).
->>> 
 
->>>> **u/None** [+1] *
+>>>> **u/None** [+1]  (16 hours later)
 >>>> 
 >>>> hahahaha
->>>> 
 
-> **u/zombieking26** [+2] *
+> **u/zombieking26** [+2]  (20 hours later)
 > 
 > I like it so far! Though I would recommend injecting some enpathy into your main character. I think a pure psychopathic character might get boring, sooner or later.
-> 
 
->> **u/None** [+2] *
+>> **u/None** [+2]  (20 hours later)
 >> 
 >> ;)
->> it's actually written in my notes
 >> 
+>> it's actually written in my notes
 
-> **u/Sonderjye** [+2] *
+> **u/Sonderjye** [+2]  (a day later)
 > 
 > This is quite an interesting start. It makes a lot of sense that there'll be a total lack of compassion if he's been raised in a gobbo village. I second the suggestion for having him grow somewhat out of his upbringing somewhere down the line.   
 > I also hope he gets to learn magic.
-> 
 
-> **u/AllFuckingNamesGone** [+1] *
+> **u/AllFuckingNamesGone** [+1]  (a day later)
 > 
 > Is it possible to reduce the space between paragraphs somehow, it's quite annoying to read like that.
-> 
 
->> **u/None** [+1] *
+>> **u/None** [+1]  (a day later)
 >> 
 >> I write in double space so I can spot mistakes quickly and edit them out without misclicking around in Google Docs (cloud storage, safety first!)
->> So I just checked out some other chapters, and other peoples' works. 
->> Yeah, it is kind of annoying, I'll make it doesn't happen in future chapters, and I got to figure out what exactly is causing it, because it seems to have happened in every chapter besides 1.3.
 >> 
+>> So I just checked out some other chapters, and other peoples' works. 
+>> 
+>> Yeah, it is kind of annoying, I'll make it doesn't happen in future chapters, and I got to figure out what exactly is causing it, because it seems to have happened in every chapter besides 1.3.
 
 ---
 

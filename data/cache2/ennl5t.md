@@ -16,30 +16,25 @@ Pyrebound is a high fantasy serial about power (of every kind), set in a Mesopot
 
 ### Comments:
 
-> **u/Brell4Evar** [+3] *
+> **u/Brell4Evar** [+3]  (9 hours later)
 > 
 > Ram can't catch a break, but he sure seems to be adapting well to the mess he's in.
-> 
 
->> **u/RedSheepCole** [+2] *
+>> **u/RedSheepCole** [+2]  (a day later)
 >> 
 >> He doesn't have a lot of alternatives.
->> 
 
-> **u/CorneliusPhi** [+2] *
+> **u/CorneliusPhi** [+2]  (7 days later)
 > 
 > New chapter (11.5) was really good
-> 
 
->> **u/RedSheepCole** [+1] *
+>> **u/RedSheepCole** [+1]  (7 days later)
 >> 
 >> Glad you liked it!  Didn't have time to post an update notice here this morning when I put it up.  I might have to delay the next update while I think about where this is headed and how I want to tell the story.
->> 
 
->>> **u/CorneliusPhi** [+2] *
+>>> **u/CorneliusPhi** [+2]  (9 days later)
 >>> 
 >>> It's always nice when people write web serials that aren't massively padded in length and have an actual plot arc
->>> 
 
 ---
 

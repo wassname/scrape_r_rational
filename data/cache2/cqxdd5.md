@@ -2,7 +2,7 @@
 
 * Author: u/Ms_CIA  *Derp**
 * URL: https://www.reddit.com/r/rational/comments/cqxdd5/secret_of_the_patronus_chapter_34_ghost_in_the/
-* Score: 10
+* Score: 11
 
 * Created: 2019-08-15T22:47:22
 

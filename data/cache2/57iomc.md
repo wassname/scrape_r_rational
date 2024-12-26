@@ -12,10 +12,9 @@
 
 ### Comments:
 
-> **u/None** [+1] *
+> **u/None** [+1]  (27 minutes later)
 > 
 > I'm in ms and I want to become more rational
-> 
 
 ---
 

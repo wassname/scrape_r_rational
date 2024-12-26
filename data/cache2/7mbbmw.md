@@ -50,156 +50,156 @@ Next month's discussion will start on or about the 14th of January. These dates 
 
 ### Comments:
 
-> **u/retsotrembla** [+3] *
+> **u/retsotrembla** [+3]  (7 hours later)
 > 
 > I loved the wonderful detail near the beginning of the story where Gilead writes an address label to an address in Chicago, then carefully hand-draws a postal bar code to a different address so when the mail robots read it, it will go somewhere else.
-> All of that was written not only before there were postal bar codes, but also before there were even zip codes.
-> Yet Heinlein not only gets his future tech correct, he explains it so someone living in the '40s can understand it.
 > 
+> All of that was written not only before there were postal bar codes, but also before there were even zip codes.
+> 
+> Yet Heinlein not only gets his future tech correct, he explains it so someone living in the '40s can understand it.
 
->> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (7 hours later)
 >> 
 >> I like it because my understanding is my country's mail is sorted with text recognition so the need for a non-human readable barcode is strange.
->> That said it's a really cool detail if it came out before post  codes! They must be relatively recent inventions hey. Wow.
 >> 
+>> That said it's a really cool detail if it came out before post  codes! They must be relatively recent inventions hey. Wow.
 
->>> **u/retsotrembla** [+2] *
+>>> **u/retsotrembla** [+2]  (7 hours later)
 >>> 
 >>> [Zip codes](https://en.wikipedia.org/wiki/ZIP_Code#Early_history_and_five-digit_ZIP_Codes)  early 1960s
->>> [postal bar codes](https://en.wikipedia.org/wiki/POSTNET) early 1990s replaced by a [new standard](https://en.wikipedia.org/wiki/Intelligent_Mail_barcode) 2013
 >>> 
+>>> [postal bar codes](https://en.wikipedia.org/wiki/POSTNET) early 1990s replaced by a [new standard](https://en.wikipedia.org/wiki/Intelligent_Mail_barcode) 2013
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (10 seconds later)
 > 
 > [META THREAD]
-> 
 
->> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+4]  *Cheela Astronaut* (25 minutes later)
 >> 
 >> Next month will likely be my last time posting the book club, if anyone wants to volunteer to post in Feb then please do. It gives you the powers of the book club czar which means you can select the book you want everyone to read. You're more than welcome to "host" as a once-off rather than taking it as a long-term commitment.
->> I'm happy to continue to make book club posts, perhaps every second month, if one or two other people would like to participate in it regularly.
 >> 
+>> I'm happy to continue to make book club posts, perhaps every second month, if one or two other people would like to participate in it regularly.
 
->>> **u/callmesalticidae** [+4]  *writes worldbuilding books**
+>>> **u/callmesalticidae** [+4]  *writes worldbuilding books* (10 days later)
 >>> 
 >>> It looks like nobody has volunteered, so...I’d like to volunteer for being boon club czar. 
->>> I would prefer to switch off every month, with you or somebody else, but can do it every month if you’d like. 
->>> (My reasoning for switching off is to make sure that more tastes than mine are represented. I’d also be cool with posting each month but having you select every other book.)
 >>> 
+>>> I would prefer to switch off every month, with you or somebody else, but can do it every month if you’d like. 
+>>> 
+>>> (My reasoning for switching off is to make sure that more tastes than mine are represented. I’d also be cool with posting each month but having you select every other book.)
 
->>>> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>>>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (11 days later)
 >>>> 
 >>>> Switching every month would be great! Thanks so much for offering!
->>>> I was trying to do the "variety of tastes" thing, but solo, which didn't end up working out great for me.
->>>> Did you want to select a book to talk about in February and email/PM it to me (email probably better as it will be easy to track down) and then in a few days when I make the January thread I can put it in?
->>>> Should also add some boilerplate for "want to be the czar one month? want to be part of the regular rotation? then let us know!  being the czar requires you select the book but also that you try and encourage discussion in the thread by posting a variety of your thoughts on the book" or something
 >>>> 
+>>>> I was trying to do the "variety of tastes" thing, but solo, which didn't end up working out great for me.
+>>>> 
+>>>> Did you want to select a book to talk about in February and email/PM it to me (email probably better as it will be easy to track down) and then in a few days when I make the January thread I can put it in?
+>>>> 
+>>>> Should also add some boilerplate for "want to be the czar one month? want to be part of the regular rotation? then let us know!  being the czar requires you select the book but also that you try and encourage discussion in the thread by posting a variety of your thoughts on the book" or something
 
->>>>> **u/callmesalticidae** [+3]  *writes worldbuilding books**
+>>>>> **u/callmesalticidae** [+3]  *writes worldbuilding books* (11 days later)
 >>>>> 
 >>>>> Email seems to work best for us. 
->>>>> Adding a boilerplate would be a good idea.
 >>>>> 
+>>>>> Adding a boilerplate would be a good idea.
 
->> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (36 seconds later)
 >> 
 >> So it took me a long, long time to post this. Kept putting it off and the fact I put it off made me reluctant to post it. So here it is! Thanks for your patience guys.
->> 
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (16 minutes later)
 > 
 > One section of this story that I think was pretty prescient / related to things people here might be concerned about was this part:
-> > “What is the one possible conceivable factor—or factors, if you prefer—which the hypothetical superman could have, by mutation or magic or any means, and which could be added to this advantage which man already has and which has enabled him to dominate this planet against the unceasing opposition of a million other species of fauna? Some factor that would make the domination of man by his successor, as inevitable as your domination over a hound dog? Think, Joe. What is the necessary direction of evolution to the next dominant species?”
-> > Gilead engaged in contemplation for what was for him a long time. There were so many lovely attributes that a man might have: to be able to see both like a telescope and microscope, to see the insides of things, to see throughout the spectrum, to have hearing of the same order, to be immune to disease, to grow a new arm or leg, to fly through the air without bothering with silly gadgets like helicopters or jets, to walk unharmed the ocean bottom, to work without tiring—
-> > Yet the eagle could fly and he was nearly extinct, even though his eyesight was better than man’s. A dog has better smell and hearing; seals swim better, balance better, and furthermore can store oxygen. Rats can survive where men would starve or die of hardship; they are smart and pesky hard to kill. Rats could—
-> > Wait! Could tougher, smarter rats displace man? No, it just wasn’t in them; too small a brain.
-> > “To be able to think better,” Gilead answered almost instantly.
-> > “Hand the man a cigar! Supermen are superthinkers; anything else is a side issue. I’ll allow the possibility of super-somethings which might exterminate or dominate mankind other than by outsmarting him in his own racket—thought. But I deny that it is possible for a man to conceive in discrete terms what such a super-something would be or how this something would win out. New Man will beat out homo sap in homo sap’s own specialty—rational thought, the ability to recognize data, store them, integrate them, evaluate correctly the result, and arrive at a correct decision. That is how man got to be champion; the creature who can do it better is the coming champion. Sure, there are other survival factors, good health, good sense organs, fast reflexes, but they aren’t even comparable, as the long, rough history of mankind has proved over and over—Marat in his bath, Roosevelt in his wheelchair, Caesar with his epilepsy and his bad stomach, Nelson with one eye and one arm, blind Milton; when the chips are down it’s brain that wins, not the body’s tools.”
-> To me it has obvious parallels to AI risk and the very real threats that go along with that, but in the story it's kind of moved aside and they have to go stop the Bad Guy from Blowing Up The World For No Reason. It'd be interesting to see a 1949 story play with the idea of an intelligence explosion but instead of AI intelligence it's just people who are smart and can make themselves smarter. This story got *so close* to that but then zagged to a pretty typical action plot.
 > 
+> > “What is the one possible conceivable factor—or factors, if you prefer—which the hypothetical superman could have, by mutation or magic or any means, and which could be added to this advantage which man already has and which has enabled him to dominate this planet against the unceasing opposition of a million other species of fauna? Some factor that would make the domination of man by his successor, as inevitable as your domination over a hound dog? Think, Joe. What is the necessary direction of evolution to the next dominant species?”
+> 
+> > Gilead engaged in contemplation for what was for him a long time. There were so many lovely attributes that a man might have: to be able to see both like a telescope and microscope, to see the insides of things, to see throughout the spectrum, to have hearing of the same order, to be immune to disease, to grow a new arm or leg, to fly through the air without bothering with silly gadgets like helicopters or jets, to walk unharmed the ocean bottom, to work without tiring—
+> 
+> > Yet the eagle could fly and he was nearly extinct, even though his eyesight was better than man’s. A dog has better smell and hearing; seals swim better, balance better, and furthermore can store oxygen. Rats can survive where men would starve or die of hardship; they are smart and pesky hard to kill. Rats could—
+> 
+> > Wait! Could tougher, smarter rats displace man? No, it just wasn’t in them; too small a brain.
+> 
+> > “To be able to think better,” Gilead answered almost instantly.
+> 
+> > “Hand the man a cigar! Supermen are superthinkers; anything else is a side issue. I’ll allow the possibility of super-somethings which might exterminate or dominate mankind other than by outsmarting him in his own racket—thought. But I deny that it is possible for a man to conceive in discrete terms what such a super-something would be or how this something would win out. New Man will beat out homo sap in homo sap’s own specialty—rational thought, the ability to recognize data, store them, integrate them, evaluate correctly the result, and arrive at a correct decision. That is how man got to be champion; the creature who can do it better is the coming champion. Sure, there are other survival factors, good health, good sense organs, fast reflexes, but they aren’t even comparable, as the long, rough history of mankind has proved over and over—Marat in his bath, Roosevelt in his wheelchair, Caesar with his epilepsy and his bad stomach, Nelson with one eye and one arm, blind Milton; when the chips are down it’s brain that wins, not the body’s tools.”
+> 
+> To me it has obvious parallels to AI risk and the very real threats that go along with that, but in the story it's kind of moved aside and they have to go stop the Bad Guy from Blowing Up The World For No Reason. It'd be interesting to see a 1949 story play with the idea of an intelligence explosion but instead of AI intelligence it's just people who are smart and can make themselves smarter. This story got *so close* to that but then zagged to a pretty typical action plot.
 
-> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+> **u/MagicWeasel** [+2]  *Cheela Astronaut* (17 minutes later)
 > 
 > How did you like this story? Why?
-> 
 
->> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (21 minutes later)
 >> 
 >> The first and last thirds were kind of boring action stuff that I don't personally really care for. The part with the cards was pretty neat and then when Kettle Belly has Joe come to his secret hideout and Joe learns speedtalk was all really, really good. Then the last third where they try and save the world was again just kind of boring generic action to me. 
->> It makes me want to read more Heinlein though - I'm polyamorous and apparently there's a bunch of stuff like that in his books from the 80s though I'm not sure if I'd want to read all the "boring action" to get to it - does anyone have a "quiet" book of his to recommend? But I'm a bit concerned that even in the 80s the traditional gender roles would maybe put me off the stories a bit, so I'd be equally interested in any "non-traditional relationship" aspects in stories from more modern authors. I keep meaning to read *The Expanse* because one of the main characters is the child of a large polyam family but I watched part of the TV series and while I really enjoyed it I didn't get caught up in it because detective stuff isn't so much my jam. (I think I'm just fussy in general, go figure!)
 >> 
+>> It makes me want to read more Heinlein though - I'm polyamorous and apparently there's a bunch of stuff like that in his books from the 80s though I'm not sure if I'd want to read all the "boring action" to get to it - does anyone have a "quiet" book of his to recommend? But I'm a bit concerned that even in the 80s the traditional gender roles would maybe put me off the stories a bit, so I'd be equally interested in any "non-traditional relationship" aspects in stories from more modern authors. I keep meaning to read *The Expanse* because one of the main characters is the child of a large polyam family but I watched part of the TV series and while I really enjoyed it I didn't get caught up in it because detective stuff isn't so much my jam. (I think I'm just fussy in general, go figure!)
 
->>> **u/tokol** [+3]  *The Greater Good**
+>>> **u/tokol** [+3]  *The Greater Good* (9 days later)
 >>> 
 >>> The Moon is a Harsh Mistress depicts a lot of the social aspects of having a penal colony on the moon with a highly disproportionate male to female ratio. Families are typically centered around one woman with many husbands.
->>> IIRC, there's a whole bit that if a lunar woman accused a man of rape, it's expected that he'd be thrown out of an airlock by an angry mob pretty much immediately. From my understanding, Heinlein really bought into the "Battle of the Sexes"-narrative that women exert power over men by controlling the sex supply.
 >>> 
+>>> IIRC, there's a whole bit that if a lunar woman accused a man of rape, it's expected that he'd be thrown out of an airlock by an angry mob pretty much immediately. From my understanding, Heinlein really bought into the "Battle of the Sexes"-narrative that women exert power over men by controlling the sex supply.
 
->>> **u/Marenz** [+2] *
+>>> **u/Marenz** [+2]  (12 days later)
 >>> 
 >>> A stranger in a strange land doesn't contain that much action. It was the book that opened my thinking to the whole poly universe. It's also the book where he crafted the word "grok" which you still find floating around in the internet every now and then.
->>> 
 
->> **u/thrawnca** [+2]  *Carbon-based biped**
+>> **u/thrawnca** [+2]  *Carbon-based biped* (12 days later)
 >> 
 >> I think I mostly appreciated the fact that the author took a good stab at what being superhumanly smart might actually involve. It's dated, certainly, but he didn't just declare characters to be smart, he broke down the patterns of speech and problem-solving and behavior that they would use. It's thought-provoking even if it's wrong.
->> 
 
-> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (2 days later)
 > 
 > It made me remember a part of HPMOR when discussion of possible conspiracies of scientist that kep "atomic bombs projects" hidden from society.
-> 
 
->> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >> 
 >> This sort of concept also comes up in *Three Worlds Collide*, a very good short story also written by Eliezer Yudkowsky.
->> 
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (4 minutes later)
 > 
 > So, speedtalk: a language where every morpheme is optimised to produce very quick sentences. What do you think of it? Did this hold your suspension of disbelief?
-> 
 
->> **u/MagicWeasel** [+4]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+4]  *Cheela Astronaut* (7 minutes later)
 >> 
 >> I found the whole thing silly to be honest, I get the benefits of something like Basic English, but the amount of work it would take to remember all that not to mention producing new-to-your-vocal-tract sounds (an ability I think we more or less lose after childhood)... well, you'd have to be superhuman: and I guess they are... I'm not entirely sure I get the benefits. I remember reading somewhere that more dense languages tend to be spoken more slowly than less dense languages so the amount of information communicated per second is about equal across all languages. I wonder if speedtalk would suffer from that?
->> I suspect it's the reason that when I last checked a few years ago there's nobody who can speak lojban to any reasonable degree of fluency - the sentences are so dense that you have to overthink everything you say to a ridiculous degree. But maybe I'm mistaken?
 >> 
+>> I suspect it's the reason that when I last checked a few years ago there's nobody who can speak lojban to any reasonable degree of fluency - the sentences are so dense that you have to overthink everything you say to a ridiculous degree. But maybe I'm mistaken?
 
->>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (2 days later)
 >>> 
 >>> > amount of information communicated per second is about equal.
 >>> I'm relatively sure this is wrong. After WWII Americans did some studies on pilot reaction time, and transmitted information, like how much time do you need to transmit a set of orders to a pilot. And they concluded that japanese took about 1.5 time longer then English.
->>> It is possible that it is false as I heard it as background about a joke that when Russians start cursing the information density of their language increase by a factor of 2.
 >>> 
+>>> It is possible that it is false as I heard it as background about a joke that when Russians start cursing the information density of their language increase by a factor of 2.
 
->>>> **u/MagicWeasel** [+5]  *Cheela Astronaut**
+>>>> **u/MagicWeasel** [+4]  *Cheela Astronaut* (2 days later)
 >>>> 
 >>>> Looks like it is true - one of my friends is a linguistics professor with a linguistics podcast and I swear I heard him say it, so I know I've got a better source than a joke about Russians, so I looked it up: http://content.time.com/time/health/article/0,8599,2091477,00.html
->>>> 
 
->> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade* (2 days later)
 >> 
 >> At certain point I started speedreding through its explanation. The fact the learning a language could change you brain patterns looks intriguing, but with modern understanding I don't believe we can get a language that improves those patterns for the best.
->> On a side note i laways wanted to learn Toki-pona (a simplified 200 words total artificial langauge), no real point to it besides fun. But I never found a partner to be able to speak it with.
 >> 
+>> On a side note i laways wanted to learn Toki-pona (a simplified 200 words total artificial langauge), no real point to it besides fun. But I never found a partner to be able to speak it with.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (2 days later)
 >>> 
 >>> There's people on fora who like learning and speaking languages, I know somebody who speaks toki pona actually and that's where they use it.
->>> Now I have it in my head that the story was written in 1949 with respect to the level of knowledge, the stuff about language is less "bad science" and more "vintage science", so I give it more of a pass. Thanks for pointing that out!
 >>> 
+>>> Now I have it in my head that the story was written in 1949 with respect to the level of knowledge, the stuff about language is less "bad science" and more "vintage science", so I give it more of a pass. Thanks for pointing that out!
 
-> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+> **u/MagicWeasel** [+1]  *Cheela Astronaut* (7 minutes later)
 > 
 > This novella was published in 1949. How dated did you find it? In what ways?
-> 
 
->> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (9 minutes later)
 >> 
 >> Probably comes as no surprise that I was quite put off by the characterisation of the female characters: even the Superhuman lady seemed to have an oddly 1950s sensibility about her.
->> The technology/etc all seemed pretty consistent with golden age sci fi. I loved the barcodes on the vacuum tubes that Joe was posting. Just all of it. So retro. It was adorable.
 >> 
+>> The technology/etc all seemed pretty consistent with golden age sci fi. I loved the barcodes on the vacuum tubes that Joe was posting. Just all of it. So retro. It was adorable.
 
 ---
 

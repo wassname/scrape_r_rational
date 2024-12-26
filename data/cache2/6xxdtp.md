@@ -20,76 +20,80 @@ Given that's in 10 days, I'd like to be able to do a book club this month rather
 
 ### Comments:
 
-> **u/alexanderwales** [+1]  *Time flies like an arrow**
+> **u/alexanderwales** [+1]  *Time flies like an arrow* (13 hours later)
 > 
 > Pick a book, write something up, and if you PM me when you post it I'll use our second sticky slot for it.
-> Edit: [See the first book club thread here.](https://www.reddit.com/r/rational/comments/6y53xc/monthly_book_club_september_2017_book_friendship/)
 > 
+> Edit: [See the first book club thread here.](https://www.reddit.com/r/rational/comments/6y53xc/monthly_book_club_september_2017_book_friendship/)
 
-> **u/hankyusa** [+6]  *Sunshine Regiment**
+> **u/hankyusa** [+5]  *Sunshine Regiment* (47 minutes later)
 > 
 > This sounds great. I would participate.
-> 
 
-> **u/vallar57** [+3]  *Unseen University: Faculty of High-Energy Magic**
+> **u/vallar57** [+5]  *Unseen University: Faculty of High-Energy Magic* (2 hours later)
 > 
 > So the idea is: we pick a book, as many people as possible read it and then discuss it in details on 14th (and then pick a new book)? I'm... not sure it will fly. But trying definitely won't hurt XD
-> One book may be too little tho, for example, people who don't like the genre of the proposed book would feel left off.
 > 
+> One book may be too little tho, for example, people who don't like the genre of the proposed book would feel left off.
 
->> **u/MagicWeasel** [+3]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+3]  *Cheela Astronaut* (3 hours later)
 >> 
 >> Yeah, you got the idea right! My proposal this month is fanfiction because it's shorter and there's less time until the 14th, but I'd expect future books to be of the 100k-150k word sort of length. 
->> > People might not like the proposed book
->> Yeah, there's definitely some genres that I'm not a fan of. If that happened to me and the book was available for free/cheap, I'd probably give it an honest try and see if I liked it; but if it was 10 USD the excerpt would have to be very good for me to buy it. But if I didn't like it I could always wait for the next month - I don't know how we'd choose stories but I'd want to make sure there was a lot of variety (so you wouldn't do two hard sci-fi stories in a row, I'd also personally love to see stories that people might not be familiar with - so no Speaker for the Dead or the Martian). Hopefully that would help.
->> More generally I think it would be great to try and locate books written by a diverse group of people - e.g. it'd be great to see what a sci fi author from Paraguay thinks aliens might look like if there's an English translation of their works on Amazon. There's a couple of Australian sci fi YA novels I read in high school that aren't really Rational and definitely not available on Kindle but might be more interesting to the general population of this sub just because they're written from a different viewpoint. 
->> But I'm not a great aficionado of fiction (part of my goal in this Book Club thing is to expand my own horizons in that regard!), so it'd be leaning heavily on other peoples' recommendations. 
->> > one book is not enough
->> I think if we do more than one book people might not have time to read it in time (since I assume most people would do this in addition to what they'd read anyway, and wouldn't want their full month of reading to be set by 4 books), and I think it would also dilute discussion in the thread since if people had a choice of three books, most would only read one or two, so part of the point ("everyone has read the book recently") wouldn't apply.
->> But in the end the answer to all your comments is to try it and see what happens.
 >> 
+>> > People might not like the proposed book
+>> 
+>> Yeah, there's definitely some genres that I'm not a fan of. If that happened to me and the book was available for free/cheap, I'd probably give it an honest try and see if I liked it; but if it was 10 USD the excerpt would have to be very good for me to buy it. But if I didn't like it I could always wait for the next month - I don't know how we'd choose stories but I'd want to make sure there was a lot of variety (so you wouldn't do two hard sci-fi stories in a row, I'd also personally love to see stories that people might not be familiar with - so no Speaker for the Dead or the Martian). Hopefully that would help.
+>> 
+>> More generally I think it would be great to try and locate books written by a diverse group of people - e.g. it'd be great to see what a sci fi author from Paraguay thinks aliens might look like if there's an English translation of their works on Amazon. There's a couple of Australian sci fi YA novels I read in high school that aren't really Rational and definitely not available on Kindle but might be more interesting to the general population of this sub just because they're written from a different viewpoint. 
+>> 
+>> But I'm not a great aficionado of fiction (part of my goal in this Book Club thing is to expand my own horizons in that regard!), so it'd be leaning heavily on other peoples' recommendations. 
+>> 
+>> > one book is not enough
+>> 
+>> I think if we do more than one book people might not have time to read it in time (since I assume most people would do this in addition to what they'd read anyway, and wouldn't want their full month of reading to be set by 4 books), and I think it would also dilute discussion in the thread since if people had a choice of three books, most would only read one or two, so part of the point ("everyone has read the book recently") wouldn't apply.
+>> 
+>> But in the end the answer to all your comments is to try it and see what happens.
 
-> **u/MagicWeasel** [+6]  *Cheela Astronaut**
+> **u/MagicWeasel** [+7]  *Cheela Astronaut* (5 seconds later)
 > 
 > So I was thinking the "Friendship is Optimal: Caelem Est Conterrens" story might be a good fit: it's relatively short (57k words) and has a lot of transhumanism/identity stuff that I think would be of interest to people here. Then again, it's also got ponies, which may not be a popular choice. (The story is set in the modern world where there is an MMORPG about ponies that ultimately results in transhumanism: it is not set in a world where ponies are "real").
-> 
 
->> **u/monkyyy0** [+3] *
+>> **u/monkyyy0** [+3]  (45 minutes later)
 >> 
 >> Ive seen friendship is mind control three times here, ponies are more then fine here.
->> Friendship is optimal is in the basic top 10.
 >> 
+>> Friendship is optimal is in the basic top 10.
 
->>> **u/MagicWeasel** [+2]  *Cheela Astronaut**
+>>> **u/MagicWeasel** [+2]  *Cheela Astronaut* (49 minutes later)
 >>> 
 >>> Sure is, figure it's a good one to discuss as a result, and perhaps people who have been meaning to read it can get around to it.
->>> I don't really intend for this to be a way to get more eyeballs on obscure stories, more a way to have people discuss a "big" story in an environment where they know that other people have read it recently. 
->>> (EDIT: actually thinking about it, obscure stories might be a great idea. We'll see. Probably a mix of Top 10 and obscure ones?)
 >>> 
+>>> I don't really intend for this to be a way to get more eyeballs on obscure stories, more a way to have people discuss a "big" story in an environment where they know that other people have read it recently. 
+>>> 
+>>> (EDIT: actually thinking about it, obscure stories might be a great idea. We'll see. Probably a mix of Top 10 and obscure ones?)
 
->> **u/hankyusa** [+1]  *Sunshine Regiment**
+>> **u/hankyusa** [+1]  *Sunshine Regiment* (46 minutes later)
 >> 
 >> I just barely read that for the first time, so I'm down.
->> 
 
-> **u/PurposefulZephyr** [+1] *
+> **u/PurposefulZephyr** [+1]  (a day later)
 > 
 > Does it have to be a work of fiction? 
+> 
 > Considering the entire sub is already focused on stories, how about introducing non-fiction books? I am thinking of more rationalists-oriented literature, like e.g. _Thinking, Fast and Slow_ or _Predictably Irrational: The Hidden Forces That Shape Our Decisions_.
+> 
 > It'll be nice to find new useful books and talk about them.
 > Kind of like [Betterment Book Club](https://www.reddit.com/r/BettermentBookClub/), except with a different focus and community.
-> But either way I do like this.
 > 
+> But either way I do like this.
 
->> **u/MagicWeasel** [+1]  *Cheela Astronaut**
+>> **u/MagicWeasel** [+1]  *Cheela Astronaut* (a day later)
 >> 
 >> I don't see why not! Feel free to post a suggestion in the [suggestion thread](https://www.reddit.com/r/rational/comments/6y53xc/monthly_book_club_september_2017_book_friendship/).
->> 
 
-> **u/None** [+1] *
+> **u/None** [+1]  (a day later)
 > 
 > I'd participate for sure, I'd love to have somebody to talk to about the books I read instead of just talking about Harry Potter or stuff that everybody has read.
-> 
 
 ---
 
